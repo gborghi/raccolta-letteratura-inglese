@@ -163,7 +163,7 @@ to write such words in?”
 
 In his expostulation he dropped his cleaner hand (perhaps accidentally,
 perhaps not) upon the joker’s heart. The joker rapped it with his
-own, took a nimble [[Spring|spring]] upward, and came down in a fantastic dancing
+own, took a nimble [[spring]] upward, and came down in a fantastic dancing
 attitude, with one of his stained shoes jerked off his foot into his
 hand, and held out. A joker of an extremely, not to say wolfishly
 practical character, he looked, under those circumstances.

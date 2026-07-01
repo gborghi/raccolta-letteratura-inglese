@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 1 (part 4)"
+title: "The Tenant of Wildfell Hall — Chapter 1 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -10,9 +10,25 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/works/the-tenant-of-wildfell-hall-(bronte)">The Tenant of Wildfell Hall</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_01/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_03/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_01/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_02/part_01">part 01 ›</a></div>
 </nav>
 
+
+shape, acting under a firm conviction that _his_ opinions were always
+
+right, and whoever differed from them must be either most deplorably
+
+ignorant, or wilfully blind.
+
+
+
+In [[Childhood|childhood]], I had always been accustomed to regard him with a feeling
+
+of reverential awe—but lately, even now, surmounted, for, though he had
+
+a fatherly kindness for the [[Well|well]]-behaved, he was a strict
+
+disciplinarian, and had often sternly reproved our juvenile failings
 
 and peccadilloes; and moreover, in those days, whenever he called upon
 

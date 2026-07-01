@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 2 (part 1)"
+title: "Shirley — Chapter 2 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -231,13 +231,3 @@ of machinery, etc., completed the furniture of the place.
 
 
 Plain as it was, it seemed to satisfy Malone, who, when he had removed
-
-and hung up his wet surtout and hat, drew one of the rheumatic-looking
-
-chairs to the hearth, and set his knees almost within the bars of the
-
-red grate.
-
-
-
-"Comfortable quarters you have here, Mr. Moore; and all snug to

@@ -1,5 +1,5 @@
 ---
-title: "THE [[Comedy|COMEDY]] OF ERRORS"
+title: "THE COMEDY OF ERRORS"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-comedy-of-errors-(shakespeare)"

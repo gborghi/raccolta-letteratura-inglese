@@ -14,6 +14,16 @@ tags:
 </nav>
 
 
+but we do not look in it for the portrait of a man, for the same reason
+
+that we do not look in a [[Love|love]]-[[Sonnet|sonnet]] for the portrait of a woman,
+
+because men in such conditions of mind not only apply all virtues to
+
+their idol, but all virtues in equal quantities. There is no outline,
+
+because the [[artist]] cannot bear to put in a black line. This blaze of
+
 benediction, this conflict between lights, has its place in poetry, not
 
 in [[Biography|biography]]. The successful examples of it may be found, for instance,
@@ -21,8 +31,6 @@ in [[Biography|biography]]. The successful examples of it may be found, for inst
 in the more idealistic odes of Spenser. The design is sometimes almost
 
 indecipherable, for the poet draws in silver upon white.
-
-
 
 It is natural, of course, that Mr Adderley should see Francis primarily
 
@@ -68,8 +76,6 @@ as the phrase goes. Quite as often, however, they discovered that he had
 
 nobility.
 
-
-
 Conceiving of St Francis as primarily the founder of the Franciscan
 
 Order, Mr Adderley opens his narrative with an admirable [[Sketch|sketch]] of the
@@ -87,8 +93,6 @@ he does not throw any light on what must be for the [[Outsider|outsider]] the
 absorbing problem of this Catholic asceticism, for the excellent reason
 
 that not being an [[Outsider|outsider]] he does not find it a problem at all.
-
-
 
 To most people, however, there is a fascinating inconsistency in the
 
@@ -142,8 +146,6 @@ young. It was the [[Monks|monks]] who were the spendthrifts of happiness, and we
 
 who are its misers.
 
-
-
 Doubtless, as is apparent from Mr Adderley's book, the clear and
 
 tranquil life of the Three Vows had a fine and delicate effect on the
@@ -167,8 +169,6 @@ the weakness of Burns' verses to [[Animals|animals]], the occasional morbidity,
 bombast and moralisation on himself, the credit is surely due to a
 
 cleaner and more transparent life.
-
-
 
 The general attitude of St Francis, like that of his Master, embodied a
 

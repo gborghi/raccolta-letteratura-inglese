@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 11 (part 2)"
+title: "Shirley — Chapter 11 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -14,11 +14,21 @@ tags:
 </nav>
 
 
+If Fieldhead had few other merits as a building, it might at least be
+
+termed picturesque. Its regular architecture, and the gray and mossy
+
+colouring communicated by [[Time|time]], gave it a just claim to this epithet.
+
+The old latticed windows, the stone porch, the walls, the roof, the
+
+chimney-stacks, were rich in crayon touches and sepia lights and shades.
+
 The trees behind were fine, bold, and spreading; the cedar on the lawn
 
 in front was grand; and the granite urns on the [[Garden|garden]] wall, the fretted
 
-arch of the gateway, were, for an [[Artist|artist]], as the very [[Desire|desire]] of the eye.
+arch of the gateway, were, for an [[artist]], as the very [[Desire|desire]] of the eye.
 
 
 
@@ -223,39 +233,3 @@ have always meant to provide for you. I will purchase an annuity. Bless
 me! I am but fifty-five; my health and constitution are excellent.
 
 There is plenty of [[Time|time]] to save and take measures. Don't make yourself
-
-anxious respecting the future. Is that what frets you?"
-
-
-
-"No, uncle; but I long for a change."
-
-
-
-He laughed. "There speaks the woman!" cried he, "the very woman! A
-
-change! a change! Always fantastical and whimsical! [[Well]], it's in her
-
-sex."
-
-
-
-"But it is not fantasy and whim, uncle."
-
-
-
-"What is it then?"
-
-
-
-"Necessity, I think. I feel weaker than formerly. I believe I should
-
-have more to do."
-
-
-
-"Admirable! She feels weak, and _therefore_ she should be set to hard
-
-labour--'clair comme le jour,' as Moore--confound Moore! You shall go to
-
-Cliff Bridge; and there are two guineas to buy a new frock. Come, Cary,

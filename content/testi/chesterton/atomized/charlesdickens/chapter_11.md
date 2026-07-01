@@ -1,5 +1,5 @@
 ---
-title: "[[CharlesDickens]] — Chapter 8"
+title: "CharlesDickens — Chapter 8"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/charlesdickens-(chesterton)"
@@ -377,7 +377,7 @@ characters lit up with the colours of youth and passion.
 They are real people romantically felt; that is to say,
 they are real people felt as real people feel them.
 They are exaggerated, like all Dickens's figures:  but they are
-not exaggerated as personalities are exaggerated by an [[artist]];
+not exaggerated as personalities are exaggerated by an [[Artist|artist]];
 they are exaggerated as personalities are exaggerated by their
 own friends and enemies.  The strong souls are seen through
 the glorious haze of the emotions that strong souls really create.

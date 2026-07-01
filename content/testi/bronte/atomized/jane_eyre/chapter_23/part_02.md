@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 23 (part 2)"
+title: "Jane Eyre — Chapter 23 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_23/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_23/part_03">part 03 ›</a></div>
 </nav>
 
+
+“I am attached to it, indeed.”
+
+“And though I don’t comprehend how it is, I perceive you have acquired
+a degree of regard for that foolish little [[Child|child]] Adèle, too; and even
+for simple dame Fairfax?”
+
+“Yes, sir; in different ways, I have an affection for both.”
+
+“And would be sorry to part with them?”
+
+“Yes.”
 
 “Pity!” he said, and sighed and paused. “It is always the way of events
 in this life,” he continued presently: “no sooner have you got settled
@@ -139,21 +151,3 @@ In listening, I sobbed convulsively; for I could repress what I endured
 no longer; I was obliged to yield, and I was shaken from head to foot
 with acute distress. When I did speak, it was only to express an
 impetuous wish that I had never been born, or never come to Thornfield.
-
-“Because you are sorry to leave it?”
-
-The vehemence of emotion, stirred by grief and [[Love|love]] within me, was
-claiming mastery, and struggling for full sway, and asserting a right
-to predominate, to overcome, to live, rise, and reign at last: yes,—and
-to speak.
-
-“I grieve to leave Thornfield: I [[Love|love]] Thornfield:—I [[Love|love]] it, because I
-have lived in it a full and delightful life,—momentarily at least. I
-have not been trampled on. I have not been petrified. I have not been
-buried with inferior minds, and excluded from every glimpse of
-communion with what is bright and energetic and high. I have talked,
-face to face, with what I reverence, with what I delight in,—with an
-original, a vigorous, an expanded mind. I have known you, Mr.
-Rochester; and it strikes me with terror and anguish to feel I
-absolutely must be torn from you for ever. I see the necessity of
-departure; and it is like looking on the necessity of [[Death|death]].”

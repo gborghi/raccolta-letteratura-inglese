@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 38 (part 1)"
+title: "Villette — Chapter 38 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -121,9 +121,3 @@ was bound for the West Indies. I looked at [[Madame Beck]]’s face, and into
 her eyes, for disproof or confirmation of this report; I perused her
 all over for information, but no part of her disclosed more than what
 was unperturbed and commonplace.
-
-“This secession was an immense loss to her,” she alleged. “She did not
-know how she should fill up the vacancy. She was so used to her
-kinsman, he had become her right hand; what should she do without him?
-She had opposed the step, but M. Paul had convinced her it was his
-duty.”

@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 29 (part 2)"
+title: "Jane Eyre — Chapter 29 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_29/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_29/part_03">part 03 ›</a></div>
 </nav>
 
+
+“The want of [[house]] or brass (by which I suppose you mean money) does
+not make a beggar in your sense of the word.”
 
 “Are you book-learned?” she inquired presently.
 
@@ -167,6 +170,3 @@ the kitchen door. Mr. St. John, when he saw me, merely bowed and passed
 through; the two ladies stopped: Mary, in a few words, kindly and
 calmly expressed the pleasure she felt in seeing me [[Well|well]] enough to be
 able to come down; [[Diana]] took my hand: she shook her head at me.
-
-“You should have waited for my leave to descend,” she said. “You still
-look very pale—and so thin! Poor [[Child|child]]!—poor girl!”

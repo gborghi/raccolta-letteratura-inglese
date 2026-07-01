@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 16: I AM A NEW BOY IN MORE SENSES THAN ONE"
+title: "David Copperfield — Chapter 16: I AM A NEW BOY IN MORE SENSES THAN ONE"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/david-copperfield-(dickens)"

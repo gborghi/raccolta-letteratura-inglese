@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 9 (part 3)"
+title: "thursday — Chapter 9 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -13,6 +13,37 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_09/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_09/part_04">part 04 ›</a></div>
 </nav>
 
+
+"Please do not think me excessively abrupt; but I advise
+you to alter those plans, or if it is too late for that,
+to follow your agent with all the support you can get for him.
+Comrade Syme and I have had an experience which it would take
+more [[Time|time]] to recount than we can afford, if we are to act on it.
+I will, however, relate the occurrence in detail, even at
+the risk of losing [[Time|time]], if you really feel that it is essential
+to the understanding of the problem we have to discuss."
+
+He was spinning out his sentences, making them intolerably long
+and lingering, in the [[Hope|hope]] of maddening the practical little
+Doctor into an explosion of impatience which might show his hand.
+But the little Doctor continued only to stare and smile,
+and the monologue was uphill work.  Syme began to feel
+a new sickness and [[Despair|despair]].  The Doctor's smile and [[Silence|silence]]
+were not at all like the cataleptic stare and horrible [[Silence|silence]]
+which he had confronted in [[The Professor|the Professor]] half an hour before.
+About [[The Professor|the Professor]]'s makeup and all his antics there
+was always something merely [[Grotesque|grotesque]], like a gollywog.
+Syme remembered those wild woes of yesterday as one remembers
+being afraid of Bogy in [[Childhood|childhood]].  But here was daylight;
+here was a healthy, square-shouldered man in tweeds, not odd
+save for the accident of his ugly spectacles, not glaring
+or grinning at all, but smiling steadily and not saying a word.
+The whole had a sense of unbearable reality.  Under the
+increasing sunlight the colours of the Doctor's complexion,
+the pattern of his tweeds, grew and expanded outrageously,
+as such things grow too important in a realistic [[Novel|novel]].
+But his smile was quite slight, the pose of his head polite;
+the only [[Uncanny|uncanny]] thing was his [[Silence|silence]].
 
 "As I say," resumed [[The Professor|the Professor]], like a man toiling through heavy sand,
 "the incident that has occurred to us and has led us to ask for information
@@ -113,50 +144,3 @@ Syme sprang to his feet, stepping backwards a little,
 like a chemical lecturer from a successful explosion.
 His eyes were like [[Stars|stars]], and for an instant he could only
 point without speaking.
-
-[[The Professor]] had also started to his feet, forgetful of his
-supposed paralysis.  He leant on the back of the chair and stared doubtfully
-at Dr. Bull, as if the Doctor had been turned into a toad before his eyes.
-And indeed it was almost as great a transformation scene.
-
-The two detectives saw sitting in the chair before them a very boyish-looking
-young man, with very frank and happy hazel eyes, an open expression,
-cockney clothes like those of a [[City|city]] clerk, and an unquestionable
-breath about him of being very good and rather commonplace.
-The smile was still there, but it might have been the first smile
-of a baby.
-
-"I knew I was a poet," cried Syme in a sort of ecstasy.
-"I knew my intuition was as infallible as the Pope.  It was
-the spectacles that did it!  It was all the spectacles.
-Given those beastly black eyes, and all the rest of him his health
-and his jolly looks, made him a live devil among dead ones."
-
-"It certainly does make a queer difference," said [[The Professor|the Professor]] shakily.
-"But as regards the project of Dr. Bull--"
-
-"Project be damned!" roared Syme, beside himself.  "Look at him!
-Look at his face, look at his collar, look at his blessed boots!
-You don't suppose, do you, that that thing's an anarchist?"
-
-"Syme!" cried the other in an apprehensive agony.
-
-"Why, by God," said Syme, "I'll take the risk of that myself!
-Dr. Bull, I am a police officer.  There's my card," and he flung
-down the blue card upon the table.
-
-[[The Professor]] still feared that all was lost; but he was loyal.
-He pulled out his own official card and put it beside his friend's.
-Then the third man burst out laughing, and for the first [[Time|time]]
-that morning they heard his voice.
-
-"I'm awfully glad you chaps have come so early," he said, with a sort
-of schoolboy flippancy, "for we can all start for France together.
-Yes, I'm in the force right enough," and he flicked a blue card towards
-them lightly as a matter of form.
-
-Clapping a brisk bowler on his head and resuming his goblin glasses,
-the Doctor moved so quickly towards the door, that the others
-instinctively followed him.  Syme seemed a little distrait,
-and as he passed under the doorway he suddenly struck his stick
-on the stone passage so that it rang.

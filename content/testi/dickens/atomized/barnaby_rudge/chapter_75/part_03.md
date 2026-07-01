@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 75 (part 3)"
+title: "Barnaby Rudge — Chapter 75 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_75/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_75/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘Very discreet of Mr Dennis,’ observed Sir John with a slight yawn,
+though still with the utmost affability, ‘but--except for your admirable
+and lucid manner of telling it, which is perfect--not very interesting
+to me.’
 
 ‘When,’ pursued the locksmith, quite unabashed and wholly regardless of
 these interruptions, ‘when he was taken to the jail, he found that his
@@ -112,10 +117,3 @@ little finger for the better display of a brilliant ring with which it
 was ornamented: ‘but me!--My dear Mr Varden, how very preposterous, to
 select me for his confidence! With you at his elbow, too, who are so
 perfectly trustworthy!’
-
-‘Sir John, Sir John,’ returned the locksmith, ‘at twelve tomorrow, these
-men die. Hear the few words I have to add, and do not [[Hope|hope]] to deceive
-me; for though I am a plain man of humble station, and you are a
-gentleman of rank and learning, the [[Truth|truth]] raises me to your level, and
-I KNOW that you anticipate the disclosure with which I am about to end,
-and that you believe this doomed man, Hugh, to be your son.’

@@ -1,5 +1,5 @@
 ---
-title: "[[Richard III]] — Act V, Scene 5 — exchange ([[Ghost|GHOST]] OF [[Buckingham|BUCKINGHAM]]) [3]"
+title: "Richard III — Act V, Scene 5 — exchange (GHOST OF BUCKINGHAM) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/richard-iii-(shakespeare)"

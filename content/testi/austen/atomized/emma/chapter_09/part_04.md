@@ -1,5 +1,5 @@
 ---
-title: "[[Emma]] — Chapter 9 (part 4)"
+title: "Emma — Chapter 9 (part 4)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/emma-(austen)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/emma/chapter_09/part_03">‹ part 03</a><a class="ex-next" href="/testi/austen/atomized/emma/chapter_10/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Yes, papa, it is written out in our second page. We copied it from the
+Elegant Extracts. It was Garrick’s, you know.”
 
 “Aye, very true.—I wish I could recollect more of it.
 

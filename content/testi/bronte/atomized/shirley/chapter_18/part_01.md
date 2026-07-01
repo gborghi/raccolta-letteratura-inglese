@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 18 (part 1)"
+title: "Shirley — Chapter 18 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -166,7 +166,7 @@ which, after millenniums of crimes, struggles, and woes, could conceive
 
 and bring forth a Messiah. The first woman was heaven-born. Vast was the
 
-heart whence gushed the [[Well|well]]-[[spring]] of the [[Blood|blood]] of nations, and grand
+heart whence gushed the [[Well|well]]-[[Spring|spring]] of the [[Blood|blood]] of nations, and grand
 
 the undegenerate head where rested the consort-[[Crown|crown]] of creation."
 
@@ -237,11 +237,3 @@ minutes are over."
 Miss Keeldar, on whom the soft excitement of the warm [[Summer|summer]] evening
 
 seemed working with unwonted power, leaned against an upright headstone;
-
-she fixed her eyes on the deep-burning west, and sank into a pleasurable
-
-trance. Caroline, going a little apart, paced to and fro beneath the
-
-rectory [[Garden|garden]] wall, dreaming too in her way. [[Shirley]] had mentioned the
-
-word "mother." That word suggested to Caroline's [[Imagination|imagination]] not the

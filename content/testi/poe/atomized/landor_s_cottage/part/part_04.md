@@ -1,5 +1,5 @@
 ---
-title: "[[Landor's Cottage]] (part 4)"
+title: "Landor's Cottage (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/landor's-cottage-(poe)"
@@ -13,6 +13,52 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/landor_s_cottage/part/part_03">‹ part 03</a><a class="ex-next" href="/testi/poe/atomized/landor_s_cottage/part/part_05">part 05 ›</a></div>
 </nav>
 
+
+      In fact nothing could [[Well|well]] be more simple—more utterly
+      unpretending than this cottage. Its marvellous effect lay
+      altogether in its artistic arrangement as a picture. I could have
+      fancied, while I looked at it, that some eminent
+      landscape-painter had built it with his brush.
+
+      The point of view from which I first saw the valley, was not
+      altogether, although it was nearly, the best point from which to
+      survey the [[house]]. I will therefore describe it as I afterwards
+      saw it—from a position on the stone wall at the southern extreme
+      of the amphitheatre.
+
+      The main building was about twenty-four feet long and sixteen
+      broad—certainly not more. Its total height, from the ground to
+      the apex of the roof, could not have exceeded eighteen feet. To
+      the west end of this structure was attached one about a third
+      smaller in all its proportions:—the line of its front standing
+      back about two yards from that of the larger [[house]], and the line
+      of its roof, of course, being considerably depressed below that
+      of the roof adjoining. At right angles to these buildings, and
+      from the rear of the main one—not exactly in the middle—extended
+      a third compartment, very small—being, in general, one-third less
+      than the western wing. The roofs of the two larger were very
+      steep—sweeping down from the ridge-beam with a long concave
+      curve, and extending at least four feet beyond the walls in
+      front, so as to form the roofs of two piazzas. These latter
+      roofs, of course, needed no support; but as they had the air of
+      needing it, slight and perfectly plain pillars were inserted at
+      the corners [[Alone|alone]]. The roof of the northern wing was merely an
+      extension of a portion of the main roof. Between the chief
+      building and western wing arose a very tall and rather slender
+      square chimney of hard Dutch bricks, alternately black and red:—a
+      slight cornice of projecting bricks at the top. Over the gables
+      the roofs also projected very much:—in the main building about
+      four feet to the east and two to the west. The principal door was
+      not exactly in the main division, being a little to the
+      east—while the two windows were to the west. These latter did not
+      extend to the floor, but were much longer and narrower than
+      usual—they had single shutters like doors—the panes were of
+      lozenge form, but quite large. The door itself had its upper half
+      of glass, also in lozenge panes—a movable shutter secured it at
+      [[Night|night]]. The door to the west wing was in its gable, and quite
+      simple—a single [[Window|window]] looked out to the south. There was no
+      external door to the north wing, and it also had only one [[Window|window]]
+      to the east.
 
       The blank wall of the eastern gable was relieved by stairs (with
       a balustrade) running diagonally across it—the ascent being from
@@ -63,7 +109,7 @@ tags:
       The shingles were painted a dull gray; and the happiness with
       which this neutral tint melted into the vivid green of the tulip
       tree [[Leaves|leaves]] that partially overshadowed the cottage, can readily
-      be conceived by an [[Artist|artist]].
+      be conceived by an [[artist]].
 
       From the position near the stone wall, as described, the
       buildings were seen at great advantage—for the southeastern angle
@@ -73,47 +119,3 @@ tags:
       wing, with parts of a pretty roof to the [[spring]]-[[house]], and nearly
       half of a light bridge that spanned the brook in the near
       vicinity of the main buildings.
-
-      I did not remain very long on the brow of the [[Hill|hill]], although long
-      enough to make a thorough survey of the scene at my feet. It was
-      clear that I had wandered from the [[Road|road]] to the village, and I had
-      thus good traveller’s excuse to open the gate before me, and
-      inquire my way, at all events; so, without more ado, I proceeded.
-
-      The [[Road|road]], after passing the gate, seemed to lie upon a natural
-      ledge, sloping gradually down along the face of the north-eastern
-      cliffs. It led me on to the foot of the northern precipice, and
-      thence over the bridge, round by the eastern gable to the front
-      door. In this progress, I took notice that no sight of the
-      out-houses could be obtained.
-
-      As I turned the corner of the gable, the mastiff bounded towards
-      me in stern [[Silence|silence]], but with the eye and the whole air of a
-      tiger. I held him out my hand, however, in token of amity—and I
-      never yet knew the dog who was proof against such an appeal to
-      his courtesy. He not only shut his mouth and wagged his tail, but
-      absolutely offered me his paw—afterward extending his civilities
-      to Ponto.
-
-      As no bell was discernible, I rapped with my stick against the
-      door, which stood half open. Instantly a figure advanced to the
-      threshold—that of a young woman about twenty-eight years of
-      age—slender, or rather slight, and somewhat above the medium
-      height. As she approached, with a certain modest decision of step
-      altogether indescribable. I said to myself, “Surely here I have
-      found the perfection of natural, in contradistinction from
-      artificial grace.” The second impression which she made on me,
-      but by far the more vivid of the two, was that of enthusiasm. So
-      intense an expression of [[Romance|romance]], perhaps I should call it, or of
-      unworldliness, as that which gleamed from her deep-set eyes, had
-      never so sunk into my heart of hearts before. I know not how it
-      is, but this peculiar expression of the eye, wreathing itself
-      occasionally into the lips, is the most powerful, if not
-      absolutely the sole spell, which rivets my interest in woman.
-      “[[Romance]],” provided my readers fully comprehended what I would
-      here imply by the word—“[[Romance|romance]]” and “womanliness” seem to me
-      convertible terms: and, after all, what man truly loves in woman,
-      is simply her womanhood. The eyes of Annie (I heard some one from
-      the interior call her “Annie, darling!”) were “spiritual grey;”
-      her hair, a light chestnut: this is all I had [[Time|time]] to observe of
-      her.

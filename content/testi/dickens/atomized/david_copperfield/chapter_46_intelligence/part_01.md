@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 46: INTELLIGENCE (part 1)"
+title: "David Copperfield — Chapter 46: INTELLIGENCE (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_45_mr_dick_fulfils_my_aunts_predi/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_46_intelligence/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_45_mr_dick_fulfils_my_aunts_predi/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_46_intelligence/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -141,7 +141,3 @@ worthy of a cruel Princess in a Legend.
 ‘Now,’ said she, imperiously, without glancing at him, and touching
 the old wound as it throbbed: perhaps, in this instance, with pleasure
 rather than [[Pain|pain]]. ‘Tell Mr. Copperfield about the flight.’
-
-‘Mr. James and myself, ma’am--’
-
-‘Don’t address yourself to me!’ she interrupted with a frown.

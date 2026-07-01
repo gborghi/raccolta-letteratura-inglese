@@ -1,5 +1,5 @@
 ---
-title: "Measure for Measure — Act III, Scene 1 — exchange ([[Claudio|CLAUDIO]]) [4]"
+title: "Measure for Measure — Act III, Scene 1 — exchange (CLAUDIO) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/measure-for-measure-(shakespeare)"

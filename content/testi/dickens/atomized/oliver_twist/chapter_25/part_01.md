@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 25 (part 1)"
+title: "Oliver Twist — Chapter 25 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -129,9 +129,3 @@ face, “is, that that isn’t anything to anybody here.”
 “No more it is,” replied the Jew; “Charley will talk. Don’t mind him,
 my dear; don’t mind him. Betsy’s a fine girl. Do as she bids you, Tom,
 and you will make your fortune.”
-
-“So I _do_ do as she bids me,” replied Mr. Chitling; “I shouldn’t have
-been milled, if it hadn’t been for her advice. But it turned out a good
-job for you; didn’t it, [[Fagin]]! And what’s six weeks of it? It must
-come, some [[Time|time]] or another, and why not in the [[Winter|winter]] [[Time|time]] when you
-don’t want to go out a-walking so much; eh, [[Fagin]]?”

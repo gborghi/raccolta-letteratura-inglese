@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 48 (part 2)"
+title: "Oliver Twist — Chapter 48 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_48/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_48/part_03">part 03 ›</a></div>
 </nav>
 
+
+This was an antic fellow, half pedlar and half mountebank, who
+travelled about the country on foot to vend hones, strops, razors,
+washballs, harness-paste, medicine for [[dogs]] and horses, cheap
+perfumery, cosmetics, and such-like wares, which he carried in a case
+slung to his back. His entrance was the signal for various homely jokes
+with the countrymen, which slackened not until he had made his supper,
+and opened his box of treasures, when he ingeniously contrived to unite
+business with amusement.
 
 “And what be that stoof? Good to eat, Harry?” asked a grinning
 countryman, pointing to some composition-cakes in one corner.
@@ -120,17 +129,3 @@ could hear its garments rustling in the [[Leaves|leaves]], and every breath of
 If he ran, it followed—not running too: that would have been a relief:
 but like a corpse endowed with the mere machinery of life, and borne on
 one slow [[Melancholy|melancholy]] [[Wind|wind]] that never [[Rose|rose]] or fell.
-
-At times, he turned, with desperate determination, resolved to beat
-this [[Phantom|phantom]] off, though it should look him dead; but the hair [[Rose|rose]] on
-his head, and his [[Blood|blood]] stood still, for it had turned with him and was
-behind him then. He had kept it before him that morning, but it was
-behind now—always. He leaned his back against a bank, and felt that it
-stood above him, visibly out against the cold [[Night|night]]-sky. He threw
-himself upon the [[Road|road]]—on his back upon the [[Road|road]]. At his head it stood,
-silent, erect, and still—a living [[Grave|grave]]-stone, with its epitaph in
-[[Blood|blood]].
-
-Let no man talk of murderers escaping justice, and hint that [[Providence]]
-must [[Sleep|sleep]]. There were twenty score of violent deaths in one long
-minute of that agony of [[Fear|fear]].

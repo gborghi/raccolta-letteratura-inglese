@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 50: Mr. PEGGOTTY’S DREAM COMES TRUE"
+title: "David Copperfield — Chapter 50: Mr. PEGGOTTY’S DREAM COMES TRUE"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/david-copperfield-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_49_i_am_involved_in_mystery">‹ Chapter 49 I AM INVOLVED IN MYSTERY</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_51_the_beginning_of_a_longer_jour">Chapter 51 THE BEGINNING OF A LONGER JOUR ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_49_i_am_involved_in_mystery">‹ Chapter 49 I AM INVOLVED IN MYSTERY</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_51_the_beginning_of_a_longer_jour">Chapter 51 THE BEGINNING OF A LONGER Jour ›</a></div>
 </nav>
 
 

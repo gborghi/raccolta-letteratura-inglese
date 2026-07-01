@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 33 (part 2)"
+title: "Sense and Sensibility — Chapter 33 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -247,11 +247,3 @@ flower-[[Garden|garden]] marked out.”
 
 
 “Where is the green-[[house]] to be?”
-
-
-
-“Upon the knoll behind the [[house]]. The old walnut trees are all come
-
-down to make room for it. It will be a very fine object from many parts
-
-of the park, and the flower-[[Garden|garden]] will slope down just before it, and

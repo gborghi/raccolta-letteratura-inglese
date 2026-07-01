@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 3 (part 4)"
+title: "Villette — Chapter 3 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -98,7 +98,7 @@ seated, like a little Odalisque, on a couch, half shaded by the
 drooping draperies of the [[Window|window]] near. She seemed happy; all her
 appliances for occupation were about her; the white wood workbox, a
 shred or two of muslin, an end or two of ribbon collected for
-[[conversion]] into doll-millinery. The doll, duly [[Night|night]]-capped and
+[[Conversion|conversion]] into doll-millinery. The doll, duly [[Night|night]]-capped and
 [[Night|night]]-gowned, lay in its cradle; she was rocking it to [[Sleep|sleep]], with an
 air of the most perfect [[Faith|faith]] in its possession of sentient and
 somnolent faculties; her eyes, at the same [[Time|time]], being engaged with a

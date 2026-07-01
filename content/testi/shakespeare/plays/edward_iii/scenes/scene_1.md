@@ -1,5 +1,5 @@
 ---
-title: "[[Edward III]] — Scene 1"
+title: "Edward III — Scene 1"
 author: "Shakespeare"
 unitType: scene
 parentWork: "works/edward-iii-(shakespeare)"

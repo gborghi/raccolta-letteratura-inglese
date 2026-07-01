@@ -1,5 +1,5 @@
 ---
-title: "A Christmas [[carol|Carol]] — Stave 3: THE SECOND OF THE THREE SPIRITS (part 4)"
+title: "A Christmas Carol — Stave 3: THE SECOND OF THE THREE SPIRITS (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-christmas-carol-(dickens)"
@@ -13,6 +13,27 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_christmas_carol/chapter_03_the_second_of_the_three_spirit/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/a_christmas_carol/chapter_03_the_second_of_the_three_spirit/part_05">part 05 ›</a></div>
 </nav>
 
+
+Such a bustle ensued that you might have thought a goose
+the rarest of all [[Birds|birds]]; a feathered phenomenon, to which a
+black swan was a matter of course--and in [[Truth|truth]] it was
+something very like it in that [[house]]. Mrs. Cratchit made
+the gravy (ready beforehand in a little saucepan) hissing hot;
+Master Peter mashed the potatoes with incredible vigour;
+Miss Belinda sweetened up the apple-sauce; Martha dusted
+the hot plates; Bob took [[Tiny Tim]] beside him in a tiny
+corner at the table; the two young Cratchits set chairs for
+everybody, not forgetting themselves, and mounting guard
+upon their posts, crammed spoons into their mouths, lest
+they should shriek for goose before their turn came to be
+helped. At last the dishes were set on, and grace was
+said. It was succeeded by a breathless pause, as Mrs.
+Cratchit, looking slowly all along the carving-knife, prepared
+to plunge it in the breast; but when she did, and when the
+long expected gush of stuffing issued forth, one murmur of
+delight arose all round the board, and even [[Tiny Tim]],
+excited by the two young Cratchits, beat on the table with
+the handle of his knife, and feebly cried Hurrah!
 
 There never was such a goose. Bob said he didn't believe
 there ever was such a goose cooked. Its tenderness and
@@ -125,40 +146,3 @@ appetite for it."
 which one drinks the health of such an odious, stingy, hard,
 unfeeling man as Mr. Scrooge. You know he is, Robert!
 Nobody knows it better than you do, poor fellow!"
-
-"My dear," was Bob's mild answer, "Christmas Day."
-
-"I'll drink his health for your sake and the Day's," said
-Mrs. Cratchit, "not for his. Long life to him! A merry
-Christmas and a happy new year! He'll be very merry and
-very happy, I have no [[Doubt|doubt]]!"
-
-The children drank the toast after her. It was the first of
-their proceedings which had no heartiness. [[Tiny Tim]] drank
-it last of all, but he didn't care twopence for it. Scrooge
-was the Ogre of the family. The mention of his name cast
-a dark [[Shadow|shadow]] on the party, which was not dispelled for full
-five minutes.
-
-After it had passed away, they were ten times merrier than
-before, from the mere relief of Scrooge the Baleful being done
-with. [[Bob Cratchit]] told them how he had a situation in his
-eye for Master Peter, which would bring in, if obtained, full
-five-and-sixpence weekly. The two young Cratchits laughed
-tremendously at the idea of Peter's being a man of business;
-and Peter himself looked thoughtfully at the [[Fire|fire]] from
-between his collars, as if he were deliberating what particular
-investments he should favour when he came into the receipt
-of that bewildering income. Martha, who was a poor
-apprentice at a milliner's, then told them what kind of work
-she had to do, and how many hours she worked at a stretch,
-and how she meant to lie abed to-morrow morning for a
-good long rest; to-morrow being a holiday she passed at
-[[Home|home]]. Also how she had seen a countess and a lord some
-days before, and how the lord "was much about as tall as
-Peter;" at which Peter pulled up his collars so high that you
-couldn't have seen his head if you had been there. All this
-[[Time|time]] the chestnuts and the jug went round and round; and
-by-and-bye they had a [[Song|song]], about a lost [[Child|child]] travelling in
-the [[Snow|snow]], from [[Tiny Tim]], who had a plaintive little voice,
-and sang it very [[Well|well]] indeed.

@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 31: A GREATER LOSS (part 2)"
+title: "David Copperfield — Chapter 31: A GREATER LOSS (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -135,7 +135,3 @@ got to show you?’
 We went out. As I passed him at the door, I saw, to my astonishment and
 fright, that he was deadly pale. He pushed me hastily into the open air,
 and closed the door upon us. Only upon us two.
-
-‘Ham! what’s the matter?’
-
-‘Mas’r Davy!--’ Oh, for his broken heart, how dreadfully he wept!

@@ -14,13 +14,57 @@ tags:
 </nav>
 
 
+quite unfair to say of Ruskin that there was any major inconsistency
+
+between his mediæval tastes and his very unmediæval temper: and minor
+
+inconsistencies do not matter in anybody. But it is not quite unfair to
+
+say of him that he seemed to want all parts of the [[Cathedral]] except the
+
+altar.
+
+As an [[artist]] in prose he is one of the most miraculous products of the
+
+extremely poetical genius of England. The length of a Ruskin sentence is
+
+like that length in the long arrow that was boasted of by the drawers of
+
+the long bow. He draws, not a cloth-yard shaft but a long lance to his
+
+ear: he shoots a spear. But the whole goes light as a bird and straight
+
+as a bullet. There is no Victorian writer before him to whom he even
+
+suggests a comparison, technically considered, except perhaps De
+
+Quincey; who also employed the long rich [[rolling]] sentence that, like a
+
+rocket, bursts into [[Stars|stars]] at the end. But De Quincey's sentences, as I
+
+have said, have always a dreamy and insecure sense about them, like the
+
+turret on toppling turret of some mad sultan's pagoda. Ruskin's sentence
+
+branches into brackets and relative clauses as a straight strong tree
+
+branches into boughs and bifurcations, rather shaking off its burden
+
+than merely adding to it. It is interesting to remember that Ruskin
+
+wrote some of the best of these sentences in the attempt to show that he
+
+did understand the growth of trees, and that nobody else did--except
+
+Turner, of course. It is also (to those acquainted with his perverse and
+
+wild rhetorical prejudices) even more amusing to remember that if a
+
 Ruskin sentence (occupying one or two pages of small print) does not
 
 remind us of the growth of a tree, the only other thing it does remind
 
 of is the triumphant passage of a railway train.
-
-
 
 Ruskin left behind him in his turn two quite separate streams of
 
@@ -76,8 +120,6 @@ to understand. Within his own limits, he talked the most cold common
 
 sense about political economy, which was no business of his at all.
 
-
-
 On the other side of his literary [[Soul|soul]], his mere unwrapping of the
 
 wealth and [[Wonder|wonder]] of European art, he set going another influence,
@@ -101,8 +143,6 @@ Catholic ethics had borne rapid or even flagrant fruit by the [[Time|time]] that
 Swinburne, writing about a harlot, composed a learned and sympathetic
 
 and indecent [[Parody|parody]] on the [[litany|Litany]] of the Blessed Virgin.
-
-
 
 With the poets I deal in another part of this book; but the influence of
 
@@ -142,56 +182,4 @@ peroration of _The Renaissance_. The only objection to being where all
 
 the keenest emotions meet is that you feel none of them.
 
-
-
 In this sense Pater may [[Well|well]] stand for a substantial summary of the
-
-æsthetes, apart from the purely poetical merits of men like Rossetti and
-
-Swinburne. Like Swinburne and others he first attempted to use mediæval
-
-tradition without trusting it. These people wanted to see Paganism
-
-_through_ [[Christianity]]: because it involved the incidental amusement of
-
-seeing through [[Christianity]] itself. They not only tried to be in all
-
-ages at once (which is a very reasonable [[Ambition|ambition]], though not often
-
-realised), but they wanted to be on all sides at once: which is
-
-nonsense. Swinburne tries to question the [[philosophy]] of [[Christianity]] in
-
-the metres of a Christmas [[carol]]: and [[Dante]] Rossetti tries to write as if
-
-he were Christina Rossetti. Certainly the almost successful summit of
-
-all this attempt is Pater's superb passage on the Mona Lisa; in which he
-
-seeks to make her at once a mystery of good and a mystery of evil. The
-
-[[philosophy]] is false; even evidently false, for it bears no fruit to-day.
-
-There never was a woman, not Eve herself in the instant of [[Temptation|temptation]],
-
-who could smile the same smile as the mother of [[Helen]] and the mother of
-
-Mary. But it is the high-[[Water|water]] mark of that vast attempt at an
-
-impartiality reached through art: and no other mere [[Artist|artist]] ever [[Rose|rose]] so
-
-high again.
-
-
-
-Apart from this Ruskinian offshoot through Pre-Raphaelitism into what
-
-was called Æstheticism, the remains of the inspiration of Carlyle fill a
-
-very large part in the Victorian life, but not strictly so large a part
-
-in the Victorian literature. Charles Kingsley was a great publicist; a
-
-popular preacher; a popular novelist; and (in two cases at least) a very
-
-good novelist. His _Water Babies_ is really a breezy and roaring freak;

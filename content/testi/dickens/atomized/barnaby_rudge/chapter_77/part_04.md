@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 77 (part 4)"
+title: "Barnaby Rudge — Chapter 77 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -10,9 +10,32 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/barnaby-rudge-(dickens)">Barnaby Rudge</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_77/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_79/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_77/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_78/part_01">part 01 ›</a></div>
 </nav>
 
+
+It was at this moment that the [[Clock|clock]] struck the first stroke of twelve,
+and the bell began to toll. The various officers, with the two sheriffs
+at their head, moved towards the door. All was ready when the last chime
+came upon the ear.
+
+They told Hugh this, and asked if he had anything to say.
+
+‘To say!’ he cried. ‘Not I. I’m ready.--Yes,’ he added, as his eye fell
+upon Barnaby, ‘I have a word to say, too. Come hither, lad.’
+
+There was, for the moment, something kind, and even tender, struggling
+in his fierce aspect, as he wrung his poor companion by the hand.
+
+‘I’ll say this,’ he cried, looking firmly round, ‘that if I had ten
+lives to lose, and the loss of each would give me ten times the agony
+of the hardest [[Death|death]], I’d lay them all down--ay, I would, though you
+gentlemen may not believe it--to save this one. This one,’ he added,
+wringing his hand again, ‘that will be lost through me.’
+
+‘Not through you,’ said the idiot, mildly. ‘Don’t say that. You were
+not to blame. You have always been very good to me.--Hugh, we shall know
+what makes the [[Stars|stars]] shine, NOW!’
 
 ‘I took him from her in a reckless mood, and didn’t think what harm
 would come of it,’ said Hugh, laying his hand upon his head, and

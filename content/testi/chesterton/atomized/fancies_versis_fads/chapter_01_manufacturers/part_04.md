@@ -56,10 +56,10 @@ so that things that may never have happened, or, as some say,
 could never have happened, are nevertheless rooted in our racial
 [[Memory|memory]] like things that have happened to ourselves.  The whole
 Arthurian Cycle, for instance, seems something more real than reality.
-If the faces in that darkness of the Dark Ages, Lancelot and [[Arthur]]
+If the faces in that darkness of the Dark Ages, Lancelot and [[arthur|Arthur]]
 and Merlin and Modred, are indeed faces in [[A Dream|a dream]], they are like
 faces in a real dream:  [[A Dream|a dream]] in a bed and not [[A Dream|a dream]] in a book.
-Sub-consciously at least, I should be much less surprised if [[Arthur]]
+Sub-consciously at least, I should be much less surprised if [[arthur|Arthur]]
 was to come again than I should be if the Superman were to come
 at all.  Again, the thing might be called Gossip:  a noble name,
 having in it the name of God and one of the most generous and genial
@@ -75,7 +75,7 @@ Finally, of course, it can be called ignorance, barbarism,
 black superstition, a reaction towards obscurantism and old [[Night|night]];
 and such a vie is eminently complete and satisfactory, only that it
 [[Leaves|leaves]] behind it a sort of weak [[Wonder|wonder]] as to why the very youngest
-poets do still go on writing [[Poems|poems]] about the [[Sword|sword]] of [[Arthur]]
+poets do still go on writing [[Poems|poems]] about the [[Sword|sword]] of [[arthur|Arthur]]
 and the horn of Roland.
 
 All this was but the beginning of a process which has two great points

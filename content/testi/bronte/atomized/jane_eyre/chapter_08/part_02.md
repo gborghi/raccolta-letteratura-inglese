@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 8 (part 2)"
+title: "Jane Eyre — Chapter 8 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_08/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_08/part_03">part 03 ›</a></div>
 </nav>
 
+
+“Is it all over?” she asked, looking down at my face. “Have you cried
+your grief away?”
+
+“I am afraid I never shall do that.”
 
 “Why?”
 

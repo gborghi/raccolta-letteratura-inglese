@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 57 (part 2)"
+title: "Barnaby Rudge — Chapter 57 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_57/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_57/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘A devil, a kettle, a Grip, a Polly, a Protestant, no Popery!’ cried the
+raven.
+
+‘Though, indeed,’ added Barnaby, laying his hand upon the neck of Lord
+George’s [[Horse|horse]], and speaking softly: ‘you had good reason to ask me what
+he is, for sometimes it puzzles me--and I am used to him--to think
+he’s only a bird. He’s my brother, Grip is--always with me--always
+talking--always merry--eh, Grip?’
 
 [[The Raven|The raven]] answered by an affectionate croak, and hopping on his master’s
 arm, which he held downward for that purpose, submitted with an air of
@@ -141,15 +150,3 @@ though they urged its inmates to retreat from some approaching danger.
 As they drew nearer, they became more earnest in their gestures; and
 they were no sooner within hearing, than the foremost among them cried
 that the soldiers were coming up.
-
-At these words, Barnaby furled his [[Flag|flag]], and tied it round the pole. His
-heart beat high while he did so, but he had no more [[Fear|fear]] or thought of
-retreating than the pole itself. The friendly stragglers hurried past
-him, after giving him notice of his danger, and quickly passed into the
-[[house]], where the utmost confusion immediately prevailed. As those within
-hastily closed the windows and the doors, they urged him by looks and
-signs to fly without loss of [[Time|time]], and called to him many times to do
-so; but he only shook his head indignantly in answer, and stood the
-firmer on his post. Finding that he was not to be persuaded, they took
-care of themselves; and leaving the place with only one old woman in it,
-speedily withdrew.

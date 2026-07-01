@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 22 (part 3)"
+title: "Villette — Chapter 22 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_22/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_23/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Indeed—indeed—when you were a mere boy I used to see both: far more
+then than now—for now you are strong, and strength dispenses with
+subtlety. But still,—Dr. John, you have what they call in this country
+‘un air fin,’ that nobody can mistake. [[Madame Beck]] saw it, and—”
 
 “And liked it,” said he, laughing, “because she has it herself. But,
 Lucy, give me that letter—you don’t really care for it.”

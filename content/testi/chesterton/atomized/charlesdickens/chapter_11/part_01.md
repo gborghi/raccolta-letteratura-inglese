@@ -1,5 +1,5 @@
 ---
-title: "[[CharlesDickens]] — Chapter 8 (part 1)"
+title: "CharlesDickens — Chapter 8 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/charlesdickens-(chesterton)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/charlesdickens-(chesterton)">CharlesDickens</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/charlesdickens/chapter_10/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/charlesdickens/chapter_11/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/charlesdickens/chapter_10/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/charlesdickens/chapter_11/part_02">part 02 ›</a></div>
 </nav>
 
 

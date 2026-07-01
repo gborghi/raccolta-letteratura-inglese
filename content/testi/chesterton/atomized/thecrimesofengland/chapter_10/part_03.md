@@ -1,5 +1,5 @@
 ---
-title: "[[TheCrimesOfEngland]] — Chapter 10 (part 3)"
+title: "TheCrimesOfEngland — Chapter 10 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thecrimesofengland-(chesterton)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thecrimesofengland/chapter_10/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/thecrimesofengland/chapter_10/part_04">part 04 ›</a></div>
 </nav>
 
+
+support of the tearing up of the promise of peace to Belgium, it is
+
+simply because there was nothing to be said.
+
+You were the first people to talk about World-Politics; and the first
+
+people to disregard them altogether. Even your foreign policy is
+
+domestic policy. It does not even apply to any people who are not
+
+Germans; and of your wild guesses about some twenty other peoples, not
 
 one has gone right even by accident. Your two or three shots at my own
 
@@ -70,8 +82,6 @@ and that we cannot really kill you. But if you say that we do not really
 
 want to kill you, you do us an injustice. You do indeed.
 
-
-
 I need not consider the yet crazier things that some of you have said;
 
 as that the English intend to keep Calais and fight France as [[Well|well]] as
@@ -95,8 +105,6 @@ too light and fickle to understand the Latin seriousness. My only
 concern is to point out that about England, at least, you are invariably
 
 and miraculously wrong.
-
-
 
 Now speaking seriously, my dear Professor, it will not do. It could be
 
@@ -138,8 +146,6 @@ quote dining with Duke Humphrey as an example of it. In more ways than
 
 one you forget what is meant by idiom.
 
-
-
 I have therefore thought it advisable to provide you with a catalogue of
 
 the real crimes of England; and I have selected them on a principle
@@ -174,40 +180,10 @@ mine over this record of English wrong-doing, I dedicate it to you, and
 
 I remain,
 
-
-
 Yours reverently,
-
-
 
 G. K. CHESTERTON
 
-
-
-
-
-
-
 II--_The Protestant Hero_
 
-
-
-
-
 A question is current in our looser English journalism touching what
-
-should be done with the German Emperor after a victory of the Allies.
-
-Our more feminine advisers incline to the view that he should be shot.
-
-This is to make a mistake about the very [[Nature|nature]] of hereditary monarchy.
-
-Assuredly the Emperor William at his worst would be entitled to say to
-
-his amiable [[Crown]] Prince what Charles II. said when his brother warned
-
-him of the plots of assassins: "They will never kill me to make you
-
-[[King|king]]." Others, of greater monstrosity of mind, have suggested that he
-
-should be sent to St. [[Helena]]. So far as an estimate of his

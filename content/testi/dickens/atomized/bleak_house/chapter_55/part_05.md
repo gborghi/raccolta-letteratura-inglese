@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 55 (part 5)"
+title: "Bleak House — Chapter 55 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_55/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_55/part_06">part 06 ›</a></div>
 </nav>
 
+
+She opens the letter. Spread out upon the paper is a printed account
+of the discovery of the [[Body|body]] as it lay face downward on the floor,
+shot through the heart; and underneath is written her own name, with
+the word “murderess” attached.
+
+It falls out of her hand. How long it may have lain upon the ground
+she knows not, but it lies where it fell when a servant stands before
+her announcing the young man of the name of Guppy. The words have
+probably been repeated several times, for they are ringing in her
+head before she begins to understand them.
+
+“Let him come in!”
+
+He comes in. Holding the letter in her hand, which she has taken from
+the floor, she tries to collect her thoughts. In the eyes of Mr.
+Guppy she is the same [[Lady Dedlock]], holding the same prepared, proud,
+chilling state.
 
 “Your ladyship may not be at first disposed to excuse this visit from
 one who has never been welcome to your ladyship”—which he don’t
@@ -116,29 +134,3 @@ guard when there’s no necessity for it, you will endeavour, I should
 your disapprobation. I now take my farewell of your ladyship, and
 assure you that there’s no danger of your ever being waited on by me
 again.”
-
-She scarcely acknowledges these parting words by any look, but when
-he has been gone a little while, she rings her bell.
-
-“Where is Sir Leicester?”
-
-Mercury reports that he is at present shut up in the library [[Alone|alone]].
-
-“Has Sir Leicester had any visitors this morning?”
-
-Several, on business. Mercury proceeds to a description of them,
-which has been anticipated by Mr. Guppy. Enough; he may go.
-
-So! All is broken down. Her name is in these many mouths, her husband
-knows his wrongs, her shame will be published—may be spreading while
-she thinks about it—and in addition to the thunderbolt so long
-foreseen by her, so unforeseen by him, she is denounced by an
-invisible accuser as the murderess of her enemy.
-
-Her enemy he was, and she has often, often, often wished him dead.
-Her enemy he is, even in his [[Grave|grave]]. This dreadful accusation comes
-upon her like a new torment at his lifeless hand. And when she
-recalls how she was secretly at his door that [[Night|night]], and how she may
-be represented to have sent her favourite girl away so soon before
-merely to release herself from observation, she shudders as if the
-hangman’s hands were at her neck.

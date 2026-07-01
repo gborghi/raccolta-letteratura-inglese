@@ -1,5 +1,5 @@
 ---
-title: "The Man Who Knew Too Much — The [[Soul]] of the Schoolboy (part 2)"
+title: "The Man Who Knew Too Much — The Soul of the Schoolboy (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/the-man-who-knew-too-much-(chesterton)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_03_the_soul_of_the_schoolboy/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_03_the_soul_of_the_schoolboy/part_03">part 03 ›</a></div>
 </nav>
 
+
+vigilance upon it; there had been a scare about spies carrying
+
+explosives in small objects, and one of those experimental orders
 
 which pass like waves over bureaucracy had decreed first that all
 
@@ -184,12 +188,3 @@ placed it here with his own hand. It was immediately sealed up in
 
 such a manner—"
 Unluckily at this point Summers Minor, whose attention had somewhat
-
-strayed from the religious wars of the ninth century, caught sight
-
-of a short length of wire appearing in a broken patch in the wall.
-
-He precipitated himself at it, calling out, "I say, does that
-
-connect?"
-It was evident that it did connect, for no sooner had the boy given

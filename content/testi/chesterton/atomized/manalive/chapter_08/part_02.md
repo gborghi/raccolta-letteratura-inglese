@@ -1,5 +1,5 @@
 ---
-title: "[[manalive]] — Chapter 2 (part 2)"
+title: "manalive — Chapter 2 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/manalive-(chesterton)"
@@ -14,17 +14,17 @@ tags:
 </nav>
 
 
-"I beg pardon," said [[Michael]]; "I did not ask just now because,
-to tell the [[Truth|truth]], I really thought Dr. Pym, though seemingly vertical,
-was enjoying [[Well|well]]-earned slumber, with a pinch in his fingers
-of scentless and delicate [[Dust|dust]].  But now that things are moving
+"I beg pardon," said Michael; "I did not ask just now because,
+to tell the truth, I really thought Dr. Pym, though seemingly vertical,
+was enjoying well-earned slumber, with a pinch in his fingers
+of scentless and delicate dust.  But now that things are moving
 a little more, there is something I should really like to know.
 I have hung on Dr. Pym's lips, of course, with an interest that it
 were weak to call rapture, but I have so far been unable to form
 any conjecture about what the accused, in the present instance,
 is supposed to have been and gone and done."
 
-"If Mr. [[Moon]] will have patience," said Pym with dignity, "he will find
+"If Mr. Moon will have patience," said Pym with dignity, "he will find
 that this was the very point to which my exposition was di-rected.
 Kleptomania, I say, exhibits itself as a kind of physical attraction
 to certain defined materials; and it has been held (by no less a man
@@ -41,31 +41,31 @@ of depredator to whom this principle is at first sight hard to apply.
 I allude to our fellow-citizen the housebreaker.
 
 "It has been maintained by some of our boldest young
-[[Truth|truth]]-seekers, that the eye of a burglar beyond the back-[[Garden|garden]]
+truth-seekers, that the eye of a burglar beyond the back-garden
 wall could hardly be caught and hypnotized by a fork
 that is insulated in a locked box under the butler's bed.
 They have thrown down the gauntlet to American science on this point.
 They declare that diamond links are not left about in conspicuous
 locations in the haunts of the lower classes, as they were
-in the great test experiment of Calypso College.  We [[Hope|hope]] this
+in the great test experiment of Calypso College.  We hope this
 experiment here will be an answer to that young ringing challenge,
-and will bring the burglar once more into line and [[Union|union]]
+and will bring the burglar once more into line and union
 with his fellow criminals."
 
-[[Moon]], whose face had gone through every phase of black bewilderment
+Moon, whose face had gone through every phase of black bewilderment
 for five minutes past, suddenly lifted his hand and struck the table
 in explosive enlightenment.
 
-"Oh, I see!" he cried; "you mean that [[smith|Smith]] is a burglar."
+"Oh, I see!" he cried; "you mean that Smith is a burglar."
 
 "I thought I made it quite ad'quately lucid," said Mr. Pym,
 folding up his eyelids.  It was typical of this topsy-turvy private
 trial that all the eloquent extras, all the rhetoric or digression
 on either side, was exasperating and unintelligible to the other.
-[[Moon]] could not make head or tail of the solemnity of a new civilization.
+Moon could not make head or tail of the solemnity of a new civilization.
 Pym could not make head or tail of the gaiety of an old one.
 
-"All the cases in which [[smith|Smith]] has figured as an expropriator,"
+"All the cases in which Smith has figured as an expropriator,"
 continued the American doctor, "are cases of burglary.
 Pursuing the same course as in the previous case, we select
 the indubitable instance from the rest, and we take the most
@@ -74,14 +74,13 @@ Mr. Gould, to read a letter we have received from the earnest,
 unspotted Canon of Durham, Canon Hawkins."
 
 Mr. Moses Gould leapt up with his usual alacrity to read the letter from
-the earnest and unspotted Hawkins.  Moses Gould could imitate a farmyard [[Well|well]],
-Sir Henry Irving not so [[Well|well]], Marie Lloyd to a point of excellence, and the
+the earnest and unspotted Hawkins.  Moses Gould could imitate a farmyard well,
+Sir Henry Irving not so well, Marie Lloyd to a point of excellence, and the
 new motor horns in a manner that put him upon the platform of great artists.
-But his [[Imitation|imitation]] of a Canon of Durham was not convincing; indeed, the sense
+But his imitation of a Canon of Durham was not convincing; indeed, the sense
 of the letter was so much obscured by the extraordinary leaps and gasps of his
-pronunciation that it is perhaps better to print it here as [[Moon]] read it when,
+pronunciation that it is perhaps better to print it here as Moon read it when,
 a little later, it was handed across the table.
-
 
 "Dear Sir,--I can scarcely feel surprise that the incident
 you mention, private as it was, should have filtered through
@@ -92,7 +91,7 @@ in a not uneventful and perhaps not an unimportant career.
 I am by no means without experience in scenes of civil tumult.
 I have faced many a political crisis in the old Primrose League
 days at Herne Bay, and, before I broke with the wilder set,
-have spent many a [[Night|night]] at the Christian Social [[Union]].  But this
+have spent many a night at the Christian Social Union.  But this
 other experience was quite inconceivable.  I can only describe
 it as the letting loose of a place which it is not for me,
 as a clergyman, to mention.

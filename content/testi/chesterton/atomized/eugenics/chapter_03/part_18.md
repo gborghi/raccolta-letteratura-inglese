@@ -1,5 +1,5 @@
 ---
-title: "[[Eugenics]] — Part 2 (part 18)"
+title: "Eugenics — Part 2 (part 18)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/eugenics-(chesterton)"
@@ -14,10 +14,35 @@ tags:
 </nav>
 
 
+I first heard one of them on my voyage to [[America]], in the midst
+of the sea within sight of the New World, with the Statue of Liberty
+beginning to loom up on the horizon.  From the lips of a young
+Scotch engineer, of all people in the world, I heard for the first
+[[Time|time]] these immortal words from a [[London]] music-hall [[Song|song]]:---
+
+    "Father's got the sack from the [[Water|water]]-works
+     For smoking of his old cherry-briar;
+     Father's got the sack from the [[Water|water]]-works
+    'Cos he might set the [[Water|water]]-works on [[Fire|fire]]."
+
+As I told my friends in [[America]], I think it no part of a patriot to boast;
+and boasting itself is certainly not a thing to boast of.  I [[Doubt|doubt]]
+the persuasive power of English as exemplified in Kipling, and one can
+easily force it on foreigners too much, even as exemplified in Dickens.
+I am no Imperialist, and only on rare and proper occasions a Jingo.
+But when I hear those words about Father and the [[Water|water]]-works,
+when I hear under far-off foreign skies anything so gloriously
+English as that, then indeed (I said to them), then indeed:---
+
+    "I thank the goodness and the grace
+     That on my birth have smiled,
+     And made me, as you see me here,
+     A little English [[Child|child]]."
+
 But that noble stanza about the [[Water|water]]-works has other elements
 of nobility besides nationality.  It provides a compact and almost
 perfect summary of the whole social problem in industrial countries
-like England and [[america|America]].  If I wished to set forth systematically
+like England and [[America]].  If I wished to set forth systematically
 the elements of the ethical and economic problem in Pittsburgh
 of Sheffield, I could not do better than take these few words
 as a text, and divide them up like the heads of a sermon.
@@ -44,7 +69,7 @@ when we pass to our second heading; which is:---
 2.--- Got the Sack.  This idiom marks a later stage of the [[history]]
 of the language than the comparatively primitive word "Father."
 It is needless to discuss whether the term comes from Turkey or some
-other servile society.  In [[america|America]] they say that Father has been fired.
+other servile society.  In [[America]] they say that Father has been fired.
 But it involves the whole of the unique economic system under which
 Father has now to live.  Though assumed by family tradition to be
 a master, he can now, by industrial tradition, only be a particular
@@ -94,25 +119,8 @@ But it is none the less relevant to remember that, as his masters
 have already proved that alcohol is a [[Poison|poison]], they may soon prove
 that nicotine is a [[Poison|poison]].  And it is most significant of all that this
 sort of danger is even greater in what is called the new [[democracy]]
-of [[america|America]] than in what is called the old oligarchy of England.
-When I was in [[america|America]], people were already "defending" tobacco.
+of [[America]] than in what is called the old oligarchy of England.
+When I was in [[America]], people were already "defending" tobacco.
 People who defend tobacco are on the [[Road|road]] to proving that daylight
 is defensible, or that it is not really sinful to sneeze.
 In other words, they are quietly going mad.
-
-5.--- Of his old Cherry-briar. Here we have the intermediate
-and anomalous position of the institution of Property.
-The sentiment still exists, even among the poor, or perhaps especially
-among the poor.  But it is attached to toys rather than tools;
-to the minor products rather than to the means of production.
-But something of the [[Sanity|sanity]] of ownership is still to be observed;
-for instance, the element of custom and continuity.
-It was an old cherry-briar; systematically smoked by Father
-in spite of all wiles and temptations to Woodbines and gaspers;
-an old companion possibly connected with various romantic or diverting
-events in Father's life.  It is perhaps a relic as [[Well|well]] as a trinket.
-But because it is not a true tool, because it gives the man no grip
-on the creative energies of society, it is, with all the rest
-of his [[Self|self]]-respect, at the [[Mercy|mercy]] of the thing called the sack.
-When he gets the sack from the [[Water|water]]-works, it is only too probable
-that he will have to pawn his old cherry-briar.

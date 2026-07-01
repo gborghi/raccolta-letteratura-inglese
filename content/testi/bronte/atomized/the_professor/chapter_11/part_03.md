@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 10 (part 3)"
+title: "The Professor — Chapter 10 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -14,13 +14,15 @@ tags:
 </nav>
 
 
+faults--then I looked at Eulalie:
+
+“C’est honteux!” said I, and I deliberately tore her dictation in four
+
+parts, and presented her with the fragments. I returned Sylvie her book
+
 with a smile, saying--
 
-
-
 “C’est bien--je suis content de vous.”
-
-
 
 Sylvie looked calmly pleased, Eulalie swelled like an incensed turkey,
 
@@ -29,8 +31,6 @@ but the mutiny was quelled: the conceited coquetry and futile flirtation
 of the first bench were exchanged for a taciturn sullenness, much more
 
 convenient to me, and the rest of my lesson passed without interruption.
-
-
 
 A bell clanging out in the yard announced the moment for the cessation
 
@@ -46,13 +46,9 @@ inner class, where I knew near a hundred were prisoned, and whose rising
 
 tumult I already heard.
 
-
-
 I had scarcely crossed the hall and gained the corridor, when Mdlle.
 
 Reuter came again upon me.
-
-
 
 “Step in here a moment,” said she, and she held open the door of
 
@@ -76,23 +72,17 @@ ranks, and yet this was considered one of the best-conducted schools in
 
 Brussels.
 
-
-
 “[[Well]], you have given your first lesson,” began Mdlle. Reuter in the
 
 most calm, equable voice, as though quite unconscious of the chaos from
 
 which we were separated only by a single wall.
 
-
-
 “Were you satisfied with your pupils, or did any circumstance in their
 
 conduct give you cause for complaint? Conceal nothing from me, repose in
 
 me entire confidence.”
-
-
 
 Happily, I felt in myself complete power to manage my pupils without
 
@@ -110,19 +100,11 @@ complain to Mdlle. Reuter, and I received her considerate invitation to
 
 confidence with a smile.
 
-
-
 “A thousand thanks, mademoiselle, all has gone very smoothly.”
-
-
 
 She looked more than doubtful.
 
-
-
 “Et les trois demoiselles du premier banc?” said she.
-
-
 
 “Ah! tout va au mieux!” was my answer, and Mdlle. Reuter ceased to
 
@@ -135,8 +117,6 @@ me; it let out a momentary gleam, which said plainly, “Be as close as
 you like, I am not dependent on your candour; what you would conceal I
 
 already know.”
-
-
 
 By a transition so quiet as to be scarcely perceptible, the directress’s
 
@@ -180,8 +160,6 @@ professor in her establishment, and she wanted to know where her mind
 
 was superior to mine--by what feeling or opinion she could lead me.
 
-
-
 I enjoyed the game much, and did not hasten its conclusion; sometimes I
 
 gave her hopes, beginning a sentence rather weakly, when her shrewd eye
@@ -209,8 +187,6 @@ her to give me a straightforward look; this last test went against
 me: it left her as it found her--moderate, temperate, tranquil; me it
 
 disappointed.
-
-
 
 “I am growing wiser,” thought I, as I walked back to M. Pelet’s. “Look
 

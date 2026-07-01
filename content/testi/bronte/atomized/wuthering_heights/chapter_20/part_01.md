@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 20 (part 1)"
+title: "Wuthering Heights — Chapter 20 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -137,7 +137,3 @@ half-past six; the family had just finished breakfast: the servant was
 clearing and wiping down the table. Joseph stood by his master’s chair
 telling some tale concerning a lame [[Horse|horse]]; and Hareton was preparing
 for the hayfield.
-
-“Hallo, Nelly!” said Mr. [[Heathcliff]], when he saw me. “I feared I should
-have to come down and fetch my property myself. You’ve brought it, have
-you? Let us see what we can make of it.”

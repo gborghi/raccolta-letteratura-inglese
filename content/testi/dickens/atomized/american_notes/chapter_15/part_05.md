@@ -14,6 +14,40 @@ tags:
 </nav>
 
 
+At length, between ten and eleven o’[[Clock|clock]] at [[Night|night]], a few feeble lights
+appeared in the distance, and Upper Sandusky, an Indian village, where we
+were to stay till morning, lay before us.
+
+They were gone to bed at the log Inn, which was the only [[house]] of
+entertainment in the place, but soon answered to our knocking, and got
+some tea for us in a sort of kitchen or common room, tapestried with old
+newspapers, pasted against the wall.  The bed-chamber to which my wife
+and I were shown, was a large, low, ghostly room; with a quantity of
+withered branches on the hearth, and two doors without any fastening,
+opposite to each other, both opening on the black [[Night|night]] and wild country,
+and so contrived, that one of them always blew the other open: a novelty
+in domestic architecture, which I do not remember to have seen before,
+and which I was somewhat disconcerted to have forced on my attention
+after getting into bed, as I had a considerable sum in gold for our
+travelling expenses, in my dressing-case.  Some of the luggage, however,
+piled against the panels, soon settled this difficulty, and my [[Sleep|sleep]]
+would not have been very much affected that [[Night|night]], I believe, though it
+had failed to do so.
+
+My Boston friend climbed up to bed, somewhere in the roof, where another
+guest was already snoring hugely.  But being bitten beyond his power of
+[[Endurance|endurance]], he turned out again, and fled for shelter to the coach, which
+was airing itself in front of the [[house]].  This was not a very politic
+step, as it turned out; for the pigs scenting him, and looking upon the
+coach as a kind of pie with some manner of meat inside, grunted round it
+so hideously, that he was afraid to come out again, and lay there
+shivering, till morning.  Nor was it possible to warm him, when he did
+come out, by means of a glass of brandy: for in Indian villages, the
+legislature, with a very good and wise intention, forbids the sale of
+spirits by tavern keepers.  The precaution, however, is quite
+inefficacious, for the Indians never fail to procure liquor of a worse
+kind, at a dearer price, from travelling pedlars.
+
 It is a settlement of the Wyandot Indians who inhabit this place.  Among
 the company at breakfast was a mild old gentleman, who had been for many
 years employed by the United States [[government|Government]] in conducting negotiations
@@ -59,7 +93,7 @@ mention these traits as characteristic of the country: not at all as
 being matter of complaint, or as having been disagreeable to me.  I
 should undoubtedly be offended by such proceedings at [[Home|home]], because there
 they are not the custom, and where they are not, they would be
-impertinencies; but in [[America]], the only [[Desire|desire]] of a good-natured fellow
+impertinencies; but in [[america|America]], the only [[Desire|desire]] of a good-natured fellow
 of this kind, is to treat his guests hospitably and [[Well|well]]; and I had no
 more right, and I can truly say no more disposition, to measure his
 conduct by our English rule and standard, than I had to quarrel with him
@@ -75,44 +109,3 @@ away.  It was enough for us, that whatever we wished done was done with
 great civility and readiness, and a [[Desire|desire]] to oblige, not only here, but
 everywhere else; and that all our wants were, in general, zealously
 anticipated.
-
-We were taking an early dinner at this [[house]], on the day after our
-arrival, which was [[Sunday]], when a steamboat came in sight, and presently
-touched at the wharf.  As she proved to be on her way to Buffalo, we
-hurried on board with all [[Speed|speed]], and soon left Sandusky far behind us.
-
-She was a large vessel of five hundred tons, and handsomely fitted up,
-though with high-pressure engines; which always conveyed that kind of
-feeling to me, which I should be likely to experience, I think, if I had
-lodgings on the first-floor of a powder-mill.  She was laden with flour,
-some casks of which commodity were stored upon the deck.  The captain
-coming up to have a little conversation, and to introduce a friend,
-seated himself astride of one of these barrels, like a Bacchus of private
-life; and pulling a great clasp-knife out of his pocket, began to
-‘whittle’ it as he talked, by paring thin slices off the edges.  And he
-whittled with such industry and hearty good will, that but for his being
-called away very soon, it must have disappeared bodily, and left nothing
-in its place but grist and shavings.
-
-After calling at one or two flat places, with low dams stretching out
-into the lake, whereon were stumpy lighthouses, like windmills without
-sails, the whole looking like a Dutch vignette, we came at midnight to
-Cleveland, where we lay all [[Night|night]], and until nine o’[[Clock|clock]] next morning.
-
-I entertained quite a curiosity in reference to this place, from having
-seen at Sandusky a specimen of its literature in the shape of a
-newspaper, which was very strong indeed upon the subject of Lord
-Ashburton’s recent arrival at Washington, to adjust the points in dispute
-between the United States [[government|Government]] and Great Britain: informing its
-readers that as [[America]] had ‘whipped’ England in her infancy, and whipped
-her again in her youth, so it was clearly necessary that she must whip
-her once again in her maturity; and pledging its credit to all True
-Americans, that if Mr. Webster did his duty in the approaching
-negotiations, and sent the English Lord [[Home|home]] again in [[Double|double]] quick [[Time|time]],
-they should, within two years, sing ‘Yankee Doodle in Hyde Park, and Hail
-Columbia in the scarlet courts of Westminster!’  I found it a pretty
-town, and had the satisfaction of beholding the outside of the office of
-the journal from which I have just quoted.  I did not enjoy the delight
-of seeing the wit who indited the paragraph in question, but I have no
-[[Doubt|doubt]] he is a prodigious man in his way, and held in high repute by a
-select circle.

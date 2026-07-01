@@ -55,7 +55,7 @@ So the Right Honourable Gentleman hopes it is not necessary for him
 to contradict what he feels sure the Honourable Member could
 not have intended to insinuate.  So a Cabinet Minister is put up
 to deny from a platform that there is any change in the [[government|Government]]'s
-policy about Damascus.  And so Sir [[arthur|Arthur]] Keith is put up to deny
+policy about Damascus.  And so Sir [[Arthur]] Keith is put up to deny
 that there is any change in the scientific attitude about Darwin.
 
 And when we hear that, we all give a sort of sigh of satisfaction;
@@ -74,7 +74,7 @@ repeated everywhere, exactly what is meant by the absolute agreement
 on everything which binds the Prime Minister and all his colleagues.
 The Prime Minister does not really expect us to believe that he is
 the holy and beloved [[King|king]] of a brotherhood of knights sworn to a
-[[Faith|faith]] and giving their hearts to him [[Alone|alone]].  But Sir [[arthur|Arthur]] Keith
+[[Faith|faith]] and giving their hearts to him [[Alone|alone]].  But Sir [[Arthur]] Keith
 does really expect us to believe that he is the foreman of a jury
 containing all the different men of science, all absolutely agreed
 that Darwin's particular opinion was "eternal." That is what I mean
@@ -105,9 +105,9 @@ which our grandfathers regarded as a very modern movement.
 Even considered a priori as a matter of probability it therefore
 seems rather unlikely that the science of that generation was any
 more infallible than its ethics and politics.  Even on the principles
-Sir [[arthur|Arthur]] professes, it seems very queer that there should now
+Sir [[Arthur]] professes, it seems very queer that there should now
 be no more to be said about Darwinism than he said about it.
 But we do not need to appeal to those principles or those probabilities.
 We can appeal to the facts.  As it happens, we do know something
-about the facts; and Sir [[arthur|Arthur]] Keith does not seem to know
+about the facts; and Sir [[Arthur]] Keith does not seem to know
 that we know.

@@ -44,7 +44,7 @@ be as villainous as that.
 For that matter, it would be easy to find examples much
 nearer than this one to the torturing of the Roman slaves.
 There is a very close parallel in the Third Degree, as applied by
-the police to the criminal class on suspicion, especially in [[america|America]];
+the police to the criminal class on suspicion, especially in [[America]];
 for the criminal class is a submerged class like the slaves;
 and it is but an experiment on the nerves in one way instead of another,
 like a preference for the rack rather than the thumbscrew.
@@ -104,7 +104,7 @@ Like all such things, it is indescribable when it is successful:
 it is easier to describe the disregard of it as unsuccessful.
 Thus Stevenson's masterpiece, "The Master of Ballantrae," always seems
 to me to fall into two parts, the finer which revolves round
-Durisdeer and the inferior which rambles through India and [[america|America]].
+Durisdeer and the inferior which rambles through India and [[America]].
 The slender and sinister figure in black, standing on the shore or
 vanishing from the shrubbery, does really seem to have come from the ends
 of the earth.  In the chapters of travel he only serves to show that,

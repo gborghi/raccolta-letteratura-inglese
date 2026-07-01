@@ -112,20 +112,3 @@ the most cruel Tudor policy against poor vagabonds, by passing
 the New Poor Law and putting them into prisons called workhouses.
 To a more detached mind there might seem something of symmetry and balance
 in thus simultaneously letting out black people and locking up white.
-
-Before this had happened, of course, and while it was happening,
-he had pursued his other controversial interests, and figured
-in several other fields.  He had taken a seed-farm in Kensington:
-where he conducted an experiment in bartering goods for labour,
-and sold all sorts of things.  His Register still sold like hot cakes;
-the cakes continued to be very hot indeed.  Some of them were more
-than most people could [[Swallow|swallow]], in the way of absolute assertions,
-positive prophecies, and personal threats.  He was by this [[Time|time]] a great
-public character; from some points of view a great comic character.
-It is possible that some people tried to take a rise out of him.
-Sometimes the laugh was on his side; sometimes on the other.
-But this could always be said of him, that he stood in the same
-swaggering attitude whether he stood [[Alone|alone]] or backed by a whole nation.
-Two examples will serve:  of the former, the joke about the gridiron;
-of the latter, an affair that had happened earlier-that of
-the Royal [[divorce|Divorce]].

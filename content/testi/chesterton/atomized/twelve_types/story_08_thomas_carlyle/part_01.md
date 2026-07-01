@@ -10,15 +10,11 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/twelve-types-(chesterton)">Twelve Types</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/twelve_types/story_07_charles_ii/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/twelve_types/story_08_thomas_carlyle/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/twelve_types/story_07_charles_ii/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/twelve_types/story_08_thomas_carlyle/part_02">part 02 ›</a></div>
 </nav>
 
 
 THOMAS CARLYLE
-
-
-
-
 
 There are two main moral necessities for the work of a great man: the
 
@@ -27,8 +23,6 @@ first is that he should believe in the [[Truth|truth]] of his message; the secon
 is that he should believe in the acceptability of his message. It was
 
 the whole [[Tragedy|tragedy]] of Carlyle that he had the first and not the second.
-
-
 
 The ordinary capital, however, which is made out of Carlyle's alleged
 
@@ -84,8 +78,6 @@ and without condescension. It was this simplicity of confidence, not
 
 only in God, but in the image of God, that was lacking in Carlyle.
 
-
-
 But the attempts to discredit Carlyle's religious sentiment must
 
 absolutely fall to the ground. The profound security of Carlyle's sense
@@ -130,8 +122,6 @@ unending ages, insult the face of the sun any more ... and we go on, if
 
 not to better forms of beastliness, at least to fresher ones.'
 
-
-
 The supreme value of Carlyle to English literature was that he was the
 
 founder of modern irrationalism; a movement fully as important as modern
@@ -151,8 +141,6 @@ trowel, and argument is the [[Sword|sword]]. A wide experience of actual
 intellectual affairs will lead most people to the conclusion that [[logic]]
 
 is mainly valuable as a weapon wherewith to exterminate logicians.
-
-
 
 But though this may be true enough in practice, it scarcely clears up
 
@@ -180,8 +168,6 @@ manner we speak of the dangers of [[logic]], when what we really mean is the
 
 danger of fallacy.
 
-
-
 But the real point about the limitation of [[logic]] and the partial
 
 overthrow of [[logic]] by writers like Carlyle is deeper and somewhat
@@ -191,11 +177,3 @@ different. The fault of the great mass of logicians is not that they
 bring out a false result, or, in other words, are not logicians at all.
 
 Their fault is that by an inevitable psychological habit they tend to
-
-forget that there are two parts of a logical process--the first the
-
-choosing of an assumption, and the second the arguing upon it; and
-
-humanity, if it devotes itself too persistently to the study of sound
-
-reasoning, has a certain tendency to lose the faculty of sound

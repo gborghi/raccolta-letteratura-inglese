@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 41: DORA’S AUNTS (part 3)"
+title: "David Copperfield — Chapter 41: DORA’S AUNTS (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_41_doras_aunts/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_41_doras_aunts/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘We will not,’ said Miss [[Lavinia]], ‘enter on the past [[history]] of this
+matter. Our poor brother Francis’s [[Death|death]] has cancelled that.’
 
 ‘We had not,’ said Miss Clarissa, ‘been in the habit of frequent
 association with our brother Francis; but there was no decided division

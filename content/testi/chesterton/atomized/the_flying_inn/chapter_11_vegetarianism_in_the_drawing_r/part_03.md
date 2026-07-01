@@ -35,8 +35,3 @@ tags:
 
 
 “For the rest, he who asks us whither we go knows not the meaning of Progress. If we come at last to live on light, as men said of the chameleon, if some cosmic [[Magic|magic]] closed to us now, as radium was but recently closed, allows us to transmute the very metals into flesh without breaking into the bloody [[house]] of life, we shall know these things when we have achieved them. It is enough for us now if we have reached a spiritual station, in which at least the living head we lop has not eyes to reproach us; and the herbs we gather cannot cry against our cruelty like the mandrake.”
-
-
-
-
-Lord Ivywood resumed his seat, his colourless lips still moving. By some previous arrangement, probably, Mr. Leveson [[Rose|rose]] to move a motion about Vegetarianism. Mr. Leveson was of opinion that the Jewish and Moslem veto on pork had been the origin of Vegetarianism. He thought it was a great step, and showed how progressive the creed could be. He thought the persecution of the Hindoos by Moslems had probably been much exaggerated; he thought our experience in the Indian Mutiny showed we considered the feeling of Easterners too little in such matters. He thought Vegetarianism in some ways an advance on orthodox [[Christianity]]. He thought we must be ready for yet further advances; and he sat down. And as he had said precisely, clause by clause, everything that Lord Ivywood had said, it is needless to say that that nobleman afterward congratulated him on the boldness and originality of his brilliant speech.

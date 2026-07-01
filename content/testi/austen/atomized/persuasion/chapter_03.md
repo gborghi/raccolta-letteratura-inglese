@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 3"
+title: "Persuasion — Chapter 3"
 author: "Austen"
 unitType: chapter
 parentWork: "works/persuasion-(austen)"
@@ -220,7 +220,7 @@ father, his father might have disdained to speak to, and of becoming
 
 prematurely an object of disgust himself, than in any other line. One
 
-day last [[spring]], in town, I was in company with two men, striking
+day last [[Spring|spring]], in town, I was in company with two men, striking
 
 instances of what I am talking of; Lord St Ives, whose father we all
 

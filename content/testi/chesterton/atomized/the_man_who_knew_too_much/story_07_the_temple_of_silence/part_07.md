@@ -1,5 +1,5 @@
 ---
-title: "The Man Who Knew Too Much — The Temple of [[Silence]] (part 7)"
+title: "The Man Who Knew Too Much — The Temple of Silence (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/the-man-who-knew-too-much-(chesterton)"
@@ -13,6 +13,32 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_07_the_temple_of_silence/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_07_the_temple_of_silence/part_08">part 08 ›</a></div>
 </nav>
 
+
+occasion, and I shall remain standing. Possibly you know that I am
+
+already standing—standing for Parliament, in fact—"
+"I am aware we are political opponents," replied Verner, raising his
+
+eyebrows. "But I think it would be better if we fought in a sporting
+
+spirit; in a spirit of English fair play."
+"Much better," assented Fisher. "It would be much better if you
+
+were English and very much better if you had ever played fair. But
+
+what I've come to say can be said very shortly. I don't quite know
+
+how we stand with the law about that old Hawker story, but my chief
+
+object is to prevent England being entirely ruled by people like
+
+you. So whatever the law would say, I will say no more if you will
+
+retire from the election at once."
+"You are evidently a lunatic," said Verner.
+"My psychology may be a little abnormal," replied Horne Fisher, in a
+
+rather hazy manner. "I am subject to [[Dreams|dreams]], especially day-[[Dreams|dreams]].
 
 Sometimes what is happening to me grows vivid in a curious [[Double|double]]
 
@@ -158,36 +184,3 @@ the temple wall, so that he slid to the ground; but a third and
 fourth carried Fisher off his feet and began to bear him,
 
 struggling, toward the doorway. Even in the bewilderment of the
-
-battle he was conscious that the door was standing open. Somebody
-
-was summoning the roughs from inside.
-The moment they were within they hurled him upon a sort of bench or
-
-bed with violence, but no damage; for the settee, or whatever it
-
-was, seemed to be comfortably cushioned for his reception. Their
-
-violence had in it a great element of haste, and before he could
-
-rise they had all rushed for the door to escape. Whatever bandits
-
-they were that infested this [[Desert|desert]] island, they were obviously
-
-uneasy about their job and very anxious to be quit of it. He had the
-
-flying fancy that regular criminals would hardly be in such a panic.
-
-The next moment the great door crashed to and he could hear the
-
-bolts shriek as they shot into their place, and the feet of the
-
-retreating men scampering and stumbling along the causeway. But
-
-rapidly as it happened, it did not happen before Fisher had done
-
-something that he wanted to do. Unable to rise from his sprawling
-
-attitude in that flash of [[Time|time]], he had shot out one of his long legs
-
-and hooked it round the ankle of the last man disappearing through

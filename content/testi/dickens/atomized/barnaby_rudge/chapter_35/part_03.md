@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 35 (part 3)"
+title: "Barnaby Rudge — Chapter 35 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -131,9 +131,3 @@ sudden halt.
 ‘Ay, to be sure. They may cough and jeer, and groan in Parliament, and
 call me [[Fool|fool]] and madman, but which of them can raise this human sea and
 make it swell and roar at pleasure? Not one.’
-
-‘Not one,’ repeated Gashford.
-
-‘Which of them can say for his honesty, what I can say for mine; which
-of them has refused a minister’s bribe of one thousand pounds a year, to
-resign his seat in favour of another? Not one.’

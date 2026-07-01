@@ -14,6 +14,12 @@ tags:
 </nav>
 
 
+something mystical; like religion, it is everywhere understood and
+
+nowhere defined. Charles is not entirely to be despised because, as the
+
+type of this movement, he let himself float upon this new tide of
+
 politeness. There was some moral and social value in his perfection in
 
 little things. He could not keep the Ten Commandments, but he kept the
@@ -33,8 +39,6 @@ George IV. he was a gentleman, and a gentleman is a man who obeys
 strange statutes, not to be found in any moral text-book, and practises
 
 strange virtues nameless from the beginning of the world.
-
-
 
 So much may be said and should be said for the Restoration, that it was
 
@@ -86,8 +90,6 @@ of lawn tennis. It would have appeared to Charles II.'s poets quite as
 
 arduous to write '[[Paradise Lost]]' as to regain Paradise.
 
-
-
 All old and vigorous languages abound in images and metaphors, which,
 
 though lightly and casually used, are in [[Truth|truth]] [[Poems|poems]] in themselves, and
@@ -112,8 +114,6 @@ to those lower epicureans who kill [[Time|time]], as opposed to those higher
 
 epicureans who make [[Time|time]] live.
 
-
-
 Of a people in this temper Charles II. was the natural and rightful
 
 head. He may have been a pantomime [[King]], but he was a [[King]], and with all
@@ -134,15 +134,11 @@ it was greatly due to the temper of the nation and the age. Despotism is
 
 the easiest of all governments, at any rate for the governed.
 
-
-
 It is indeed a form of [[Slavery|slavery]], and it is the despot who is the slave.
 
 Men in a state of decadence employ professionals to fight for them,
 
 professionals to [[Dance|dance]] for them, and a professional to rule them.
-
-
 
 Almost all the faces in the portraits of that [[Time|time]] look, as it were,
 
@@ -154,19 +150,7 @@ problems, we can afford to rejoice. Our [[Tears|tears]] are less desolate than
 
 their laughter, our restraints are larger than their liberty.
 
-
-
-
-
-
-
-
-
 STEVENSON[A]
-
-
-
-
 
 A recent incident has finally convinced us that Stevenson was, as we
 
@@ -197,17 +181,3 @@ far, as we say, to prove that Stevenson had that unfathomable quality
 which belongs to the great, that this admiring student of Stevenson can
 
 number and marshal all the master's work and distribute praise and blame
-
-with decision and even severity, without ever thinking for a moment of
-
-the principles of art and ethics which would have struck us as the very
-
-things that Stevenson nearly killed himself to express.
-
-
-
-Mr Baildon, for example, is perpetually lecturing Stevenson for his
-
-'pessimism'; surely a strange charge against the man who has done more
-
-than any modern [[artist]] to make men ashamed of their shame of life. But

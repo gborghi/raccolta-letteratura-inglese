@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 15"
+title: "Our Mutual Friend — Chapter 1"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,706 +14,562 @@ tags:
 </nav>
 
 
-Chapter 15
-
-THE GOLDEN DUSTMAN AT HIS WORST
-
-
-The breakfast table at Mr Boffin’s was usually a very pleasant one, and
-was always presided over by Bella. As though he began each new day in
-his healthy natural character, and some waking hours were necessary to
-his relapse into the corrupting influences of his wealth, the face and
-the demeanour of the Golden Dustman were generally unclouded at that
-meal. It would have been easy to believe then, that there was no change
-in him. It was as the day went on that the clouds gathered, and the
-brightness of the morning became obscured. One might have said that the
-shadows of avarice and distrust lengthened as his own [[Shadow|shadow]] lengthened,
-and that the [[Night|night]] closed around him gradually.
-
-But, one morning long afterwards to be remembered, it was black midnight
-with the Golden Dustman when he first appeared. His altered character
-had never been so grossly marked. His bearing towards his Secretary was
-so charged with insolent distrust and arrogance, that the latter [[Rose|rose]]
-and left the table before breakfast was half done. The look he directed
-at the Secretary’s retiring figure was so cunningly malignant, that
-Bella would have sat astounded and indignant, even though he had not
-gone the length of secretly threatening Rokesmith with his clenched
-fist as he closed the door. This unlucky morning, of all mornings in the
-year, was the morning next after Mr Boffin’s interview with Mrs Lammle
-in her little carriage.
-
-Bella looked to Mrs Boffin’s face for comment on, or explanation of,
-this stormy [[Humour|humour]] in her husband, but none was there. An anxious and
-a distressed observation of her own face was all she could read in it.
-When they were left [[Alone|alone]] together—which was not until [[Noon|noon]], for Mr
-Boffin sat long in his easy-chair, by turns jogging up and down
-the breakfast-room, clenching his fist and muttering—Bella, in
-consternation, asked her what had happened, what was wrong? ‘I am
-forbidden to speak to you about it, Bella dear; I mustn’t tell you,’
-was all the answer she could get. And still, whenever, in her [[Wonder|wonder]] and
-dismay, she raised her eyes to Mrs Boffin’s face, she saw in it the same
-anxious and distressed observation of her own.
-
-Oppressed by her sense that trouble was impending, and lost in
-speculations why Mrs Boffin should look at her as if she had any part in
-it, Bella found the day long and dreary. It was far on in the afternoon
-when, she being in her own room, a servant brought her a message from Mr
-Boffin begging her to come to his.
-
-Mrs Boffin was there, seated on a sofa, and Mr Boffin was jogging up and
-down. On seeing Bella he stopped, beckoned her to him, and drew her arm
-through his. ‘Don’t be alarmed, my dear,’ he said, gently; ‘I am not
-angry with you. Why you actually tremble! Don’t be alarmed, Bella my
-dear. I’ll see you righted.’
-
-‘See me righted?’ thought Bella. And then repeated aloud in a tone of
-astonishment: ‘see me righted, sir?’
-
-‘Ay, ay!’ said Mr Boffin. ‘See you righted. Send Mr Rokesmith here, you
-sir.’
-
-Bella would have been lost in perplexity if there had been pause
-enough; but the servant found Mr Rokesmith near at hand, and he almost
-immediately presented himself.
-
-‘Shut the door, sir!’ said Mr Boffin. ‘I have got something to say to
-you which I fancy you’ll not be pleased to hear.’
-
-‘I am sorry to reply, Mr Boffin,’ returned the Secretary, as, having
-closed the door, he turned and faced him, ‘that I think that very
-likely.’
-
-‘What do you mean?’ blustered Mr Boffin.
-
-‘I mean that it has become no novelty to me to hear from your lips what
-I would rather not hear.’
-
-‘Oh! Perhaps we shall change that,’ said Mr Boffin with a threatening
-roll of his head.
-
-‘I [[Hope|hope]] so,’ returned the Secretary. He was quiet and respectful; but
-stood, as Bella thought (and was glad to think), on his manhood too.
-
-‘Now, sir,’ said Mr Boffin, ‘look at this young lady on my arm.’
-
-Bella involuntarily raising her eyes, when this sudden reference was
-made to herself, met those of Mr Rokesmith. He was pale and seemed
-agitated. Then her eyes passed on to Mrs Boffin’s, and she met the look
-again. In a flash it enlightened her, and she began to understand what
-she had done.
-
-‘I say to you, sir,’ Mr Boffin repeated, ‘look at this young lady on my
-arm.’
-
-‘I do so,’ returned the Secretary.
-
-As his glance rested again on Bella for a moment, she thought there was
-reproach in it. But it is possible that the reproach was within herself.
-
-‘How dare you, sir,’ said Mr Boffin, ‘tamper, unknown to me, with this
-young lady? How dare you come out of your station, and your place in my
-[[house]], to pester this young lady with your impudent addresses?’
-
-‘I must decline to answer questions,’ said the Secretary, ‘that are so
-offensively asked.’
-
-‘You decline to answer?’ retorted Mr Boffin. ‘You decline to answer,
-do you? Then I’ll tell you what it is, Rokesmith; I’ll answer for you.
-There are two sides to this matter, and I’ll take ’em separately. The
-first side is, sheer Insolence. That’s the first side.’
-
-The Secretary smiled with some bitterness, as though he would have said,
-‘So I see and hear.’
-
-‘It was sheer Insolence in you, I tell you,’ said Mr Boffin, ‘even to
-think of this young lady. This young lady was far above YOU. This young
-lady was no match for YOU. This young lady was lying in wait (as she was
-qualified to do) for money, and you had no money.’
-
-Bella hung her head and seemed to shrink a little from Mr Boffin’s
-protecting arm.
-
-‘What are you, I should like to know,’ pursued Mr Boffin, ‘that you were
-to have the audacity to follow up this young lady? This young lady was
-looking about the market for a good bid; she wasn’t in it to be snapped
-up by fellows that had no money to lay out; nothing to buy with.’
-
-‘Oh, Mr Boffin! Mrs Boffin, pray say something for me!’ murmured Bella,
-disengaging her arm, and covering her face with her hands.
-
-‘Old lady,’ said Mr Boffin, anticipating his wife, ‘you hold your
-tongue. Bella, my dear, don’t you let yourself be put out. I’ll right
-you.’
-
-‘But you don’t, you don’t right me!’ exclaimed Bella, with great
-emphasis. ‘You wrong me, wrong me!’
-
-‘Don’t you be put out, my dear,’ complacently retorted Mr Boffin. ‘I’ll
-bring this young man to book. Now, you Rokesmith! You can’t decline
-to hear, you know, as [[Well|well]] as to answer. You hear me tell you that the
-first side of your conduct was Insolence—Insolence and Presumption.
-Answer me one thing, if you can. Didn’t this young lady tell you so
-herself?’
-
-‘Did I, Mr Rokesmith?’ asked Bella with her face still covered. ‘O say,
-Mr Rokesmith! Did I?’
-
-‘Don’t be distressed, Miss Wilfer; it matters very little now.’
-
-‘Ah! You can’t deny it, though!’ said Mr Boffin, with a knowing shake of
-his head.
-
-‘But I have asked him to forgive me since,’ cried Bella; ‘and I would
-ask him to forgive me now again, upon my knees, if it would spare him!’
-
-Here Mrs Boffin broke out a-crying.
-
-‘Old lady,’ said Mr Boffin, ‘stop that noise! Tender-hearted in you,
-Miss Bella; but I mean to have it out right through with this young man,
-having got him into a corner. Now, you Rokesmith. I tell you that’s one
-side of your conduct—Insolence and Presumption. Now, I’m a-coming to
-the other, which is much worse. This was a speculation of yours.’
-
-‘I indignantly deny it.’
-
-‘It’s of no use your denying it; it doesn’t signify a bit whether
-you deny it or not; I’ve got a head upon my shoulders, and it ain’t a
-baby’s. What!’ said Mr Boffin, gathering himself together in his most
-suspicious attitude, and wrinkling his face into a very map of curves
-and corners. ‘Don’t I know what grabs are made at a man with money? If
-I didn’t keep my eyes open, and my pockets buttoned, shouldn’t I
-be brought to the workhouse before I knew where I was? Wasn’t the
-experience of Dancer, and Elwes, and Hopkins, and Blewbury [[Jones]], and
-ever so many more of ’em, similar to mine? Didn’t everybody want to make
-grabs at what they’d got, and bring ’em to [[Poverty|poverty]] and ruin? Weren’t
-they forced to hide everything belonging to ’em, for [[Fear|fear]] it should be
-snatched from ’em? Of course they was. I shall be told next that they
-didn’t know human natur!’
+BOOK THE FOURTH — A TURNING
+Chapter 1
+
+SETTING TRAPS
+
+
+Plashwater Weir Mill Lock looked tranquil and pretty on an evening in
+the [[Summer|summer]] [[Time|time]]. A soft air stirred the [[Leaves|leaves]] of the fresh green trees,
+and passed like a smooth [[Shadow|shadow]] over the [[River|river]], and like a smoother
+[[Shadow|shadow]] over the yielding grass. The voice of the falling [[Water|water]], like
+the voices of the sea and the [[Wind|wind]], were as an outer [[Memory|memory]] to a
+contemplative listener; but not particularly so to Mr Riderhood, who sat
+on one of the blunt wooden levers of his lock-gates, dozing. Wine must
+be got into a butt by some agency before it can be drawn out; and the
+wine of sentiment never having been got into Mr Riderhood by any agency,
+nothing in [[Nature|nature]] tapped him.
+
+As the Rogue sat, ever and again nodding himself off his balance, his
+recovery was always attended by an angry stare and growl, as if, in the
+absence of any one else, he had aggressive inclinations towards himself.
+In one of these starts the cry of ‘Lock, ho! Lock!’ prevented his
+relapse into a doze. Shaking himself as he got up like the surly brute
+he was, he gave his growl a responsive twist at the end, and turned his
+face down-stream to see who hailed.
+
+It was an amateur-sculler, [[Well|well]] up to his work though taking it easily,
+in so light a boat that the Rogue remarked: ‘A little less on you, and
+you’d a’most ha’ been a Wagerbut’; then went to work at his windlass
+handles and sluices, to let the sculler in. As the latter stood in his
+boat, holding on by the boat-hook to the woodwork at the lock side,
+waiting for the gates to open, Rogue Riderhood recognized his ‘T’other
+governor,’ Mr [[Eugene Wrayburn]]; who was, however, too indifferent or too
+much engaged to recognize him.
+
+The creaking lock-gates opened slowly, and the light boat passed in as
+soon as there was room enough, and the creaking lock-gates closed upon
+it, and it floated low down in the dock between the two sets of gates,
+until the [[Water|water]] should rise and the second gates should open and let it
+out. When Riderhood had run to his second windlass and turned it, and
+while he leaned against the lever of that gate to help it to swing
+open presently, he noticed, lying to rest under the green hedge by the
+towing-path astern of the Lock, a Bargeman.
+
+The [[Water|water]] [[Rose|rose]] and [[Rose|rose]] as the sluice poured in, dispersing the scum
+which had formed behind the lumbering gates, and sending the boat up,
+so that the sculler gradually [[Rose|rose]] like an apparition against the light
+from the bargeman’s point of view. Riderhood observed that the bargeman
+[[Rose|rose]] too, leaning on his arm, and seemed to have his eyes fastened on
+the rising figure.
+
+But, there was the toll to be taken, as the gates were now complaining
+and opening. The T’other governor tossed it ashore, twisted in a piece
+of paper, and as he did so, knew his man.
+
+‘Ay, ay? It’s you, is it, honest friend?’ said Eugene, seating himself
+preparatory to resuming his sculls. ‘You got the place, then?’
+
+‘I got the place, and no thanks to you for it, nor yet none to Lawyer
+Lightwood,’ gruffly answered Riderhood.
+
+‘We saved our recommendation, honest fellow,’ said Eugene, ‘for the next
+candidate—the one who will offer himself when you are transported or
+hanged. Don’t be long about it; will you be so good?’
+
+So imperturbable was the air with which he gravely bent to his work that
+Riderhood remained staring at him, without having found a retort, until
+he had rowed past a line of wooden objects by the weir, which showed
+like huge teetotums standing at rest in the [[Water|water]], and was almost hidden
+by the drooping boughs on the left bank, as he rowed away, keeping
+out of the opposing current. It being then too late to retort with
+any effect—if that could ever have been done—the honest man confined
+himself to cursing and growling in a grim under-tone. Having then
+got his gates shut, he crossed back by his plank lock-bridge to the
+towing-path side of the [[River|river]].
+
+If, in so doing, he took another glance at the bargeman, he did it by
+stealth. He cast himself on the grass by the Lock side, in an indolent
+way, with his back in that direction, and, having gathered a few blades,
+fell to chewing them. The dip of [[Eugene Wrayburn]]’s sculls had become
+hardly audible in his ears when the bargeman passed him, putting the
+utmost width that he could between them, and keeping under the hedge.
+Then, Riderhood sat up and took a long look at his figure, and then
+cried: ‘Hi—I—i! Lock, ho! Lock! Plashwater Weir Mill Lock!’
+
+The bargeman stopped, and looked back.
+
+‘Plashwater Weir Mill Lock, T’otherest gov—er—nor—or—or—or!’ cried
+Mr Riderhood, with his hands to his mouth.
+
+The bargeman turned back. Approaching nearer and nearer, the bargeman
+became [[Bradley Headstone]], in rough [[Water|water]]-side second-hand clothing.
+
+‘Wish I may die,’ said Riderhood, smiting his right leg, and laughing,
+as he sat on the grass, ‘if you ain’t ha’ been a imitating me,
+T’otherest governor! Never thought myself so good-looking afore!’
+
+Truly, [[Bradley Headstone]] had taken careful note of the honest man’s
+dress in the course of that [[Night|night]]-walk they had had together. He must
+have committed it to [[Memory|memory]], and slowly got it by heart. It was
+exactly reproduced in the dress he now wore. And whereas, in his own
+schoolmaster clothes, he usually looked as if they were the clothes of
+some other man, he now looked, in the clothes of some other man or men,
+as if they were his own.
 
-‘They! Poor creatures,’ murmured the Secretary.
-
-‘What do you say?’ asked Mr Boffin, snapping at him. ‘However, you
-needn’t be at the trouble of repeating it, for it ain’t worth hearing,
-and won’t go down with ME. I’m a-going to unfold your plan, before this
-young lady; I’m a-going to show this young lady the second view of you;
-and nothing you can say will stave it off. (Now, attend here, Bella, my
-dear.) Rokesmith, you’re a needy chap. You’re a chap that I pick up in
-the street. Are you, or ain’t you?’
-
-‘Go on, Mr Boffin; don’t appeal to me.’
-
-‘Not appeal to YOU,’ retorted Mr Boffin as if he hadn’t done so. ‘No,
-I should [[Hope|hope]] not! Appealing to YOU, would be rather a rum course. As I
-was saying, you’re a needy chap that I pick up in the street. You come
-and ask me in the street to take you for a Secretary, and I take you.
-Very good.’
-
-‘Very bad,’ murmured the Secretary.
-
-‘What do you say?’ asked Mr Boffin, snapping at him again.
-
-He returned no answer. Mr Boffin, after eyeing him with a comical look
-of discomfited curiosity, was fain to begin afresh.
-
-‘This Rokesmith is a needy young man that I take for my Secretary out
-of the open street. This Rokesmith gets acquainted with my affairs, and
-gets to know that I mean to settle a sum of money on this young lady.
-“Oho!” says this Rokesmith;’ here Mr Boffin clapped a finger against
-his nose, and tapped it several times with a sneaking air, as embodying
-Rokesmith confidentially confabulating with his own nose; ‘“This will
-be a good haul; I’ll go in for this!” And so this Rokesmith, greedy and
-hungering, begins a-creeping on his hands and knees towards the money.
-Not so bad a speculation either: for if this young lady had had less
-spirit, or had had less sense, through being at all in the romantic
-line, by George he might have worked it out and made it pay! But
-fortunately she was too many for him, and a pretty figure he cuts now
-he is exposed. There he stands!’ said Mr Boffin, addressing Rokesmith
-himself with ridiculous inconsistency. ‘Look at him!’
-
-‘Your unfortunate suspicions, Mr Boffin—’ began the Secretary.
-
-‘Precious unfortunate for you, I can tell you,’ said Mr Boffin.
-
-‘—are not to be combated by any one, and I address myself to no such
-hopeless task. But I will say a word upon the [[Truth|truth]].’
-
-‘Yah! Much you care about the [[Truth|truth]],’ said Mr Boffin, with a snap of his
-fingers.
-
-‘Noddy! My dear [[Love|love]]!’ expostulated his wife.
-
-‘Old lady,’ returned Mr Boffin, ‘you keep still. I say to this Rokesmith
-here, much he cares about the [[Truth|truth]]. I tell him again, much he cares
-about the [[Truth|truth]].’
-
-‘Our connexion being at an end, Mr Boffin,’ said the Secretary, ‘it can
-be of very little moment to me what you say.’
-
-‘Oh! You are knowing enough,’ retorted Mr Boffin, with a sly look, ‘to
-have found out that our connexion’s at an end, eh? But you can’t get
-beforehand with me. Look at this in my hand. This is your pay, on your
-discharge. You can only follow suit. You can’t deprive me of the lead.
-Let’s have no pretending that you discharge yourself. I discharge you.’
-
-‘So that I go,’ remarked the Secretary, waving the point aside with his
-hand, ‘it is all one to me.’
-
-‘Is it?’ said Mr Boffin. ‘But it’s two to me, let me tell you.
-Allowing a fellow that’s found out, to discharge himself, is one thing;
-discharging him for insolence and presumption, and likewise for designs
-upon his master’s money, is another. One and one’s two; not one. (Old
-lady, don’t you cut in. You keep still.)’
-
-‘Have you said all you wish to say to me?’ demanded the Secretary.
-
-‘I don’t know whether I have or not,’ answered Mr Boffin. ‘It depends.’
-
-‘Perhaps you will consider whether there are any other strong
-expressions that you would like to bestow upon me?’
-
-‘I’ll consider that,’ said Mr Boffin, obstinately, ‘at my convenience,
-and not at yours. You want the last word. It may not be suitable to let
-you have it.’
-
-‘Noddy! My dear, dear Noddy! You sound so hard!’ cried poor Mrs Boffin,
-not to be quite repressed.
-
-‘Old lady,’ said her husband, but without harshness, ‘if you cut in when
-requested not, I’ll get a pillow and carry you out of the room upon it.
-What do you want to say, you Rokesmith?’
-
-‘To you, Mr Boffin, nothing. But to Miss Wilfer and to your good kind
-wife, a word.’
-
-‘Out with it then,’ replied Mr Boffin, ‘and cut it short, for we’ve had
-enough of you.’
-
-‘I have borne,’ said the Secretary, in a low voice, ‘with my false
-position here, that I might not be separated from Miss Wilfer. To be
-near her, has been a recompense to me from day to day, even for the
-undeserved treatment I have had here, and for the degraded aspect in
-which she has often seen me. Since Miss Wilfer rejected me, I have never
-again urged my suit, to the best of my belief, with a spoken syllable or
-a look. But I have never changed in my devotion to her, except—if she
-will forgive my saying so—that it is deeper than it was, and better
-founded.’
-
-‘Now, mark this chap’s saying Miss Wilfer, when he means L.s.d.!’ cried
-Mr Boffin, with a cunning wink. ‘Now, mark this chap’s making Miss
-Wilfer stand for Pounds, Shillings, and Pence!’
-
-‘My feeling for Miss Wilfer,’ pursued the Secretary, without deigning to
-notice him, ‘is not one to be ashamed of. I avow it. I [[Love|love]] her. Let
-me go where I may when I presently leave this [[house]], I shall go into a
-blank life, leaving her.’
-
-‘Leaving L.s.d. behind me,’ said Mr Boffin, by way of commentary, with
-another wink.
-
-‘That I am incapable,’ the Secretary went on, still without heeding him,
-‘of a mercenary project, or a mercenary thought, in connexion with Miss
-Wilfer, is nothing meritorious in me, because any prize that I could
-put before my fancy would sink into insignificance beside her. If
-the greatest wealth or the highest rank were hers, it would only be
-important in my sight as removing her still farther from me, and making
-me more hopeless, if that could be. Say,’ remarked the Secretary,
-looking full at his late master, ‘say that with a word she could strip
-Mr Boffin of his fortune and take possession of it, she would be of no
-greater worth in my eyes than she is.’
-
-‘What do you think by this [[Time|time]], old lady,’ asked Mr Boffin, turning to
-his wife in a bantering tone, ‘about this Rokesmith here, and his caring
-for the [[Truth|truth]]? You needn’t say what you think, my dear, because I don’t
-want you to cut in, but you can think it all the same. As to taking
-possession of my property, I warrant you he wouldn’t do that himself if
-he could.’
-
-‘No,’ returned the Secretary, with another full look.
-
-‘Ha, ha, ha!’ laughed Mr Boffin. ‘There’s nothing like a good ’un while
-you ARE about it.’
-
-‘I have been for a moment,’ said the Secretary, turning from him and
-falling into his former manner, ‘diverted from the little I have to say.
-My interest in Miss Wilfer began when I first saw her; even began when I
-had only heard of her. It was, in fact, the cause of my throwing myself
-in Mr Boffin’s way, and entering his service. Miss Wilfer has never
-known this until now. I mention it now, only as a corroboration (though
-I [[Hope|hope]] it may be needless) of my being free from the sordid design
-attributed to me.’
-
-‘Now, this is a very artful dog,’ said Mr Boffin, with a deep look.
-‘This is a longer-headed schemer than I thought him. See how patiently
-and methodically he goes to work. He gets to know about me and my
-property, and about this young lady, and her share in poor young John’s
-story, and he puts this and that together, and he says to himself, “I’ll
-get in with Boffin, and I’ll get in with this young lady, and I’ll work
-’em both at the same [[Time|time]], and I’ll bring my pigs to market somewhere.”
- I hear him say it, bless you! I look at him, now, and I see him say it!’
-
-Mr Boffin pointed at the culprit, as it were in the act, and hugged
-himself in his great penetration.
-
-‘But luckily he hadn’t to deal with the people he supposed, Bella, my
-dear!’ said Mr Boffin. ‘No! Luckily he had to deal with you, and with
-me, and with Daniel and Miss Dancer, and with Elwes, and with Vulture
-Hopkins, and with Blewbury [[Jones]] and all the rest of us, one down
-t’other come on. And he’s beat; that’s what he is; regularly beat. He
-thought to squeeze money out of us, and he has done for himself instead,
-Bella my dear!’
-
-Bella my dear made no response, gave no sign of acquiescence. When she
-had first covered her face she had sunk upon a chair with her hands
-resting on the back of it, and had never moved since. There was a short
-[[Silence|silence]] at this point, and Mrs Boffin softly [[Rose|rose]] as if to go to her.
-But, Mr Boffin stopped her with a gesture, and she obediently sat down
-again and stayed where she was.
-
-‘There’s your pay, Mister Rokesmith,’ said the Golden Dustman,
-jerking the folded scrap of paper he had in his hand, towards his late
-Secretary. ‘I dare say you can stoop to pick it up, after what you have
-stooped to here.’
-
-‘I have stooped to nothing but this,’ Rokesmith answered as he took it
-from the ground; ‘and this is mine, for I have earned it by the hardest
-of hard labour.’
-
-‘You’re a pretty quick packer, I [[Hope|hope]],’ said Mr Boffin; ‘because the
-sooner you are gone, bag and baggage, the better for all parties.’
-
-‘You need have no [[Fear|fear]] of my lingering.’
-
-‘There’s just one thing though,’ said Mr Boffin, ‘that I should like to
-ask you before we come to a good riddance, if it was only to show this
-young lady how conceited you schemers are, in thinking that nobody finds
-out how you contradict yourselves.’
-
-‘Ask me anything you wish to ask,’ returned Rokesmith, ‘but use the
-expedition that you recommend.’
-
-‘You pretend to have a mighty admiration for this young lady?’ said Mr
-Boffin, laying his hand protectingly on Bella’s head without looking
-down at her.
-
-‘I do not pretend.’
-
-‘Oh! [[Well]]. You HAVE a mighty admiration for this young lady—since you
-are so particular?’
-
-‘Yes.’
-
-‘How do you reconcile that, with this young lady’s being a
-weak-spirited, improvident idiot, not knowing what was due to herself,
-flinging up her money to the church-weathercocks, and racing off at a
-splitting pace for the workhouse?’
-
-‘I don’t understand you.’
-
-‘Don’t you? Or won’t you? What else could you have made this young lady
-out to be, if she had listened to such addresses as yours?’
-
-‘What else, if I had been so happy as to win her affections and possess
-her heart?’
-
-‘Win her affections,’ retorted Mr Boffin, with ineffable contempt,
-‘and possess her heart! Mew says the cat, Quack-quack says the duck,
-Bow-wow-wow says the dog! Win her affections and possess her heart! Mew,
-Quack-quack, Bow-wow!’
-
-John Rokesmith stared at him in his outburst, as if with some faint idea
-that he had gone mad.
-
-‘What is due to this young lady,’ said Mr Boffin, ‘is Money, and this
-young lady right [[Well|well]] knows it.’
-
-‘You slander the young lady.’
-
-‘YOU slander the young lady; you with your affections and hearts and
-trumpery,’ returned Mr Boffin. ‘It’s of a piece with the rest of your
-behaviour. I heard of these doings of yours only last [[Night|night]], or you
-should have heard of ’em from me, sooner, take your oath of it. I heard
-of ’em from a lady with as good a headpiece as the best, and she knows
-this young lady, and I know this young lady, and we all three know that
-it’s Money she makes a stand for—money, money, money—and that you and
-your affections and hearts are a Lie, sir!’
-
-‘Mrs Boffin,’ said Rokesmith, quietly turning to her, ‘for your delicate
-and unvarying kindness I thank you with the warmest gratitude. Good-bye!
-Miss Wilfer, good-bye!’
-
-‘And now, my dear,’ said Mr Boffin, laying his hand on Bella’s head
-again, ‘you may begin to make yourself quite comfortable, and I [[Hope|hope]] you
-feel that you’ve been righted.’
-
-But, Bella was so far from appearing to feel it, that she shrank from
-his hand and from the chair, and, starting up in an incoherent passion
-of [[Tears|tears]], and stretching out her arms, cried, ‘O Mr Rokesmith, before
-you go, if you could but make me poor again! O! Make me poor again,
-Somebody, I beg and pray, or my heart will break if this goes on! Pa,
-dear, make me poor again and take me [[Home|home]]! I was bad enough there, but
-I have been so much worse here. Don’t give me money, Mr Boffin, I won’t
-have money. Keep it away from me, and only let me speak to good little
-Pa, and lay my head upon his shoulder, and tell him all my griefs.
-Nobody else can understand me, nobody else can comfort me, nobody else
-knows how unworthy I am, and yet can [[Love|love]] me like a little [[Child|child]]. I am
-better with Pa than any one—more [[Innocent|innocent]], more sorry, more glad!’ So,
-crying out in a wild way that she could not bear this, Bella drooped her
-head on Mrs Boffin’s ready breast.
-
-John Rokesmith from his place in the room, and Mr Boffin from his,
-looked on at her in [[Silence|silence]] until she was silent herself. Then Mr Boffin
-observed in a soothing and comfortable tone, ‘There, my dear, there; you
-are righted now, and it’s ALL right. I don’t [[Wonder|wonder]], I’m sure, at your
-being a little flurried by having a scene with this fellow, but it’s all
-over, my dear, and you’re righted, and it’s—and it’s ALL right!’ Which
-Mr Boffin repeated with a highly satisfied air of completeness and
-finality.
-
-‘I hate you!’ cried Bella, turning suddenly upon him, with a stamp of
-her little foot—‘at least, I can’t hate you, but I don’t like you!’
-
-‘HUL—LO!’ exclaimed Mr Boffin in an amazed under-tone.
-
-‘You’re a scolding, unjust, abusive, aggravating, bad old creature!’
-cried Bella. ‘I am angry with my ungrateful [[Self|self]] for calling you names;
-but you are, you are; you know you are!’
-
-Mr Boffin stared here, and stared there, as misdoubting that he must be
-in some sort of fit.
-
-‘I have heard you with shame,’ said Bella. ‘With shame for myself, and
-with shame for you. You ought to be above the base tale-bearing of a
-[[Time|time]]-serving woman; but you are above nothing now.’
-
-Mr Boffin, seeming to become convinced that this was a fit, rolled his
-eyes and loosened his neckcloth.
-
-‘When I came here, I respected you and honoured you, and I soon loved
-you,’ cried Bella. ‘And now I can’t bear the sight of you. At least, I
-don’t know that I ought to go so far as that—only you’re a—you’re a
-[[Monster]]!’ Having shot this bolt out with a great expenditure of force,
-Bella hysterically laughed and cried together.
-
-‘The best wish I can wish you is,’ said Bella, returning to the charge,
-‘that you had not one single farthing in the world. If any true friend
-and [[Well|well]]-wisher could make you a bankrupt, you would be a Duck; but as a
-man of property you are a Demon!’
-
-After despatching this second bolt with a still greater expenditure of
-force, Bella laughed and cried still more.
-
-‘Mr Rokesmith, pray stay one moment. Pray hear one word from me before
-you go! I am deeply sorry for the reproaches you have borne on my
-account. Out of the depths of my heart I earnestly and truly beg your
-pardon.’
-
-As she stepped towards him, he met her. As she gave him her hand, he put
-it to his lips, and said, ‘God bless you!’ No laughing was mixed with
-Bella’s crying then; her [[Tears|tears]] were pure and fervent.
-
-‘There is not an ungenerous word that I have heard addressed to
-you—heard with scorn and indignation, Mr Rokesmith—but it has wounded
-me far more than you, for I have deserved it, and you never have. Mr
-Rokesmith, it is to me you owe this perverted account of what passed
-between us that [[Night|night]]. I parted with the secret, even while I was angry
-with myself for doing so. It was very bad in me, but indeed it was not
-wicked. I did it in a moment of conceit and folly—one of my many such
-moments—one of my many such hours—years. As I am punished for it
-severely, try to forgive it!’
-
-‘I do with all my [[Soul|soul]].’
-
-‘Thank you. O thank you! Don’t part from me till I have said one other
-word, to do you justice. The only fault you can be truly charged with,
-in having spoken to me as you did that [[Night|night]]—with how much delicacy
-and how much forbearance no one but I can know or be grateful to you
-for—is, that you laid yourself open to be slighted by a worldly shallow
-girl whose head was turned, and who was quite unable to rise to the
-worth of what you offered her. Mr Rokesmith, that girl has often seen
-herself in a pitiful and poor light since, but never in so pitiful
-and poor a light as now, when the mean tone in which she answered
-you—sordid and vain girl that she was—has been echoed in her ears by
-Mr Boffin.’
-
-He kissed her hand again.
-
-‘Mr Boffin’s speeches were detestable to me, shocking to me,’ said
-Bella, startling that gentleman with another stamp of her little
-foot. ‘It is quite true that there was a [[Time|time]], and very lately, when I
-deserved to be so “righted,” Mr Rokesmith; but I [[Hope|hope]] that I shall never
-deserve it again!’
-
-He once more put her hand to his lips, and then relinquished it, and
-left the room. Bella was hurrying back to the chair in which she had
-hidden her face so long, when, catching sight of Mrs Boffin by the
-way, she stopped at her. ‘He is gone,’ sobbed Bella indignantly,
-despairingly, in fifty ways at once, with her arms round Mrs Boffin’s
-neck. ‘He has been most shamefully abused, and most unjustly and most
-basely driven away, and I am the cause of it!’
-
-All this [[Time|time]], Mr Boffin had been [[rolling]] his eyes over his loosened
-neckerchief, as if his fit were still upon him. Appearing now to think
-that he was coming to, he stared straight before him for a while, tied
-his neckerchief again, took several long inspirations, swallowed several
-times, and ultimately exclaimed with a deep sigh, as if he felt himself
-on the whole better: ‘[[Well]]!’
-
-No word, good or bad, did Mrs Boffin say; but she tenderly took care of
-Bella, and glanced at her husband as if for orders. Mr Boffin, without
-imparting any, took his seat on a chair over against them, and there
-sat leaning forward, with a fixed countenance, his legs apart, a hand on
-each knee, and his elbows squared, until Bella should dry her eyes and
-raise her head, which in the fulness of [[Time|time]] she did.
-
-‘I must go [[Home|home]],’ said Bella, rising hurriedly. ‘I am very grateful to
-you for all you have done for me, but I can’t stay here.’
-
-‘My darling girl!’ remonstrated Mrs Boffin.
-
-‘No, I can’t stay here,’ said Bella; ‘I can’t indeed.—Ugh! you vicious
-old thing!’ (This to Mr Boffin.)
-
-‘Don’t be rash, my [[Love|love]],’ urged Mrs Boffin. ‘Think [[Well|well]] of what you do.’
-
-‘Yes, you had better think [[Well|well]],’ said Mr Boffin.
-
-‘I shall never more think [[Well|well]] of YOU,’ cried Bella, cutting him
-short, with intense defiance in her expressive little eyebrows, and
-championship of the late Secretary in every dimple. ‘No! Never again!
-Your money has changed you to marble. You are a hard-hearted Miser. You
-are worse than Dancer, worse than Hopkins, worse than Blackberry [[Jones]],
-worse than any of the wretches. And more!’ proceeded Bella, breaking
-into [[Tears|tears]] again, ‘you were wholly undeserving of the Gentleman you have
-lost.’
-
-‘Why, you don’t mean to say, Miss Bella,’ the Golden Dustman slowly
-remonstrated, ‘that you set up Rokesmith against me?’
-
-‘I do!’ said Bella. ‘He is worth a Million of you.’
-
-Very pretty she looked, though very angry, as she made herself as
-tall as she possibly could (which was not extremely tall), and utterly
-renounced her patron with a lofty toss of her rich brown head.
-
-‘I would rather he thought [[Well|well]] of me,’ said Bella, ‘though he swept the
-street for bread, than that you did, though you splashed the mud upon
-him from the wheels of a chariot of pure gold.—There!’
-
-‘[[Well]] I’m sure!’ cried Mr Boffin, staring.
-
-‘And for a long [[Time|time]] past, when you have thought you set yourself above
-him, I have only seen you under his feet,’ said Bella—‘There! And
-throughout I saw in him the master, and I saw in you the man—There! And
-when you used him shamefully, I took his part and loved him—There! I
-boast of it!’
-
-After which strong avowal Bella underwent reaction, and cried to any
-extent, with her face on the back of her chair.
-
-‘Now, look here,’ said Mr Boffin, as soon as he could find an opening
-for breaking the [[Silence|silence]] and striking in. ‘Give me your attention,
-Bella. I am not angry.’
-
-‘I AM!’ said Bella.
-
-‘I say,’ resumed the Golden Dustman, ‘I am not angry, and I mean kindly
-to you, and I want to overlook this. So you’ll stay where you are, and
-we’ll agree to say no more about it.’
-
-‘No, I can’t stay here,’ cried Bella, rising hurriedly again; ‘I can’t
-think of staying here. I must go [[Home|home]] for good.’
-
-‘Now, don’t be silly,’ Mr Boffin reasoned. ‘Don’t do what you can’t
-undo; don’t do what you’re sure to be sorry for.’
-
-‘I shall never be sorry for it,’ said Bella; ‘and I should always be
-sorry, and should every minute of my life despise myself if I remained
-here after what has happened.’
-
-‘At least, Bella,’ argued Mr Boffin, ‘let there be no mistake about it.
-Look before you leap, you know. Stay where you are, and all’s [[Well|well]], and
-all’s as it was to be. Go away, and you can never come back.’
-
-‘I know that I can never come back, and that’s what I mean,’ said Bella.
-
-‘You mustn’t expect,’ Mr Boffin pursued, ‘that I’m a-going to settle
-money on you, if you leave us like this, because I am not. No, Bella! Be
-careful! Not one brass farthing.’
-
-‘Expect!’ said Bella, haughtily. ‘Do you think that any power on earth
-could make me take it, if you did, sir?’
-
-But there was Mrs Boffin to part from, and, in the full flush of her
-dignity, the impressible little [[Soul|soul]] collapsed again. Down upon her
-knees before that good woman, she rocked herself upon her breast, and
-cried, and sobbed, and folded her in her arms with all her might.
-
-‘You’re a dear, a dear, the best of dears!’ cried Bella. ‘You’re the
-best of human creatures. I can never be thankful enough to you, and I
-can never forget you. If I should live to be blind and deaf I know I
-shall see and hear you, in my fancy, to the last of my dim old days!’
-
-Mrs Boffin wept most heartily, and embraced her with all fondness; but
-said not one single word except that she was her dear girl. She said
-that often enough, to be sure, for she said it over and over again; but
-not one word else.
-
-Bella broke from her at length, and was going weeping out of the room,
-when in her own little queer affectionate way, she half relented towards
-Mr Boffin.
-
-‘I am very glad,’ sobbed Bella, ‘that I called you names, sir, because
-you richly deserved it. But I am very sorry that I called you names,
-because you used to be so different. Say good-bye!’
-
-‘Good-bye,’ said Mr Boffin, shortly.
-
-‘If I knew which of your hands was the least spoilt, I would ask you
-to let me touch it,’ said Bella, ‘for the last [[Time|time]]. But not because I
-repent of what I have said to you. For I don’t. It’s true!’
-
-‘Try the left hand,’ said Mr Boffin, holding it out in a stolid manner;
-‘it’s the least used.’
-
-‘You have been wonderfully good and kind to me,’ said Bella, ‘and I kiss
-it for that. You have been as bad as bad could be to Mr Rokesmith, and I
-throw it away for that. Thank you for myself, and good-bye!’
-
-‘Good-bye,’ said Mr Boffin as before.
-
-Bella caught him round the neck and kissed him, and ran out for ever.
-
-She ran up-stairs, and sat down on the floor in her own room, and cried
-abundantly. But the day was declining and she had no [[Time|time]] to lose. She
-opened all the places where she kept her dresses; selected only those
-she had brought with her, leaving all the rest; and made a great
-misshapen bundle of them, to be sent for afterwards.
-
-‘I won’t take one of the others,’ said Bella, tying the knots of the
-bundle very tight, in the severity of her resolution. ‘I’ll leave all
-the presents behind, and begin again entirely on my own account.’ That
-the resolution might be thoroughly carried into practice, she even
-changed the dress she wore, for that in which she had come to the grand
-mansion. Even the bonnet she put on, was the bonnet that had mounted
-into the Boffin chariot at Holloway.
-
-‘Now, I am complete,’ said Bella. ‘It’s a little trying, but I have
-steeped my eyes in cold [[Water|water]], and I won’t cry any more. You have been
-a pleasant room to me, dear room. Adieu! We shall never see each other
-again.’
-
-With a parting kiss of her fingers to it, she softly closed the door and
-went with a light foot down the great staircase, pausing and listening
-as she went, that she might meet none of the household. No one chanced
-to be about, and she got down to the hall in quiet. The door of the late
-Secretary’s room stood open. She peeped in as she passed, and divined
-from the emptiness of his table, and the general appearance of things,
-that he was already gone. Softly opening the great hall door, and
-softly closing it upon herself, she turned and kissed it on the
-outside—insensible old combination of wood and iron that it
-was!—before she ran away from the [[house]] at a swift pace.
-
-‘That was [[Well|well]] done!’ panted Bella, slackening in the next street, and
-subsiding into a walk. ‘If I had left myself any breath to cry with, I
-should have cried again. Now poor dear darling little Pa, you are going
-to see your lovely woman unexpectedly.’
+‘THIS your Lock?’ said Bradley, whose surprise had a genuine air; ‘they
+told me, where I last inquired, it was the third I should come to. This
+is only the second.’
+
+‘It’s my belief, governor,’ returned Riderhood, with a wink and shake of
+his head, ‘that you’ve dropped one in your counting. It ain’t Locks as
+YOU’VE been giving your mind to. No, no!’
+
+As he expressively jerked his pointing finger in the direction the boat
+had taken, a flush of impatience mounted into Bradley’s face, and he
+looked anxiously up the [[River|river]].
+
+‘It ain’t Locks as YOU’VE been a reckoning up,’ said Riderhood, when the
+schoolmaster’s eyes came back again. ‘No, no!’
+
+‘What other calculations do you suppose I have been occupied with?
+Mathematics?’
+
+‘I never heerd it called that. It’s a long word for it. Hows’ever,
+p’raps you call it so,’ said Riderhood, stubbornly chewing his grass.
+
+‘It. What?’
+
+‘I’ll say them, instead of it, if you like,’ was the coolly growled
+reply. ‘It’s safer talk too.’
+
+‘What do you mean that I should understand by them?’
+
+‘Spites, affronts, offences giv’ and took, deadly aggrawations, such
+like,’ answered Riderhood.
+
+Do what [[Bradley Headstone]] would, he could not keep that former flush of
+impatience out of his face, or so master his eyes as to prevent their
+again looking anxiously up the [[River|river]].
+
+‘Ha ha! Don’t be afeerd, T’otherest,’ said Riderhood. ‘The T’other’s got
+to make way agin the stream, and he takes it easy. You can soon come up
+with him. But wot’s the good of saying that to you! YOU know how fur
+you could have outwalked him betwixt anywheres about where he lost the
+tide—say Richmond—and this, if you had a mind to it.’
+
+‘You think I have been following him?’ said Bradley.
+
+‘I KNOW you have,’ said Riderhood.
+
+‘[[Well]]! I have, I have,’ Bradley admitted. ‘But,’ with another anxious
+look up the [[River|river]], ‘he may land.’
+
+‘Easy you! He won’t be lost if he does land,’ said Riderhood. ‘He must
+leave his boat behind him. He can’t make a bundle or a parcel on it, and
+carry it ashore with him under his arm.’
+
+‘He was speaking to you just now,’ said Bradley, kneeling on one knee on
+the grass beside the Lock-keeper. ‘What did he say?’
+
+‘Cheek,’ said Riderhood.
+
+‘What?’
+
+‘Cheek,’ repeated Riderhood, with an angry oath; ‘cheek is what he said.
+He can’t say nothing but cheek. I’d ha’ liked to plump down aboard of
+him, neck and crop, with a heavy jump, and sunk him.’
+
+Bradley turned away his haggard face for a few moments, and then said,
+tearing up a tuft of grass:
+
+‘Damn him!’
+
+‘Hooroar!’ cried Riderhood. ‘Does you credit! Hooroar! I cry [[Chorus|chorus]] to
+the T’otherest.’
+
+‘What turn,’ said Bradley, with an effort at [[Self|self]]-repression that forced
+him to wipe his face, ‘did his insolence take to-day?’
+
+‘It took the turn,’ answered Riderhood, with sullen ferocity, ‘of hoping
+as I was getting ready to be hanged.’
+
+‘Let him look to that,’ cried Bradley. ‘Let him look to that! It will
+be bad for him when men he has injured, and at whom he has jeered, are
+thinking of getting hanged. Let HIM get ready for HIS fate, when that
+comes about. There was more meaning in what he said than he knew of, or
+he wouldn’t have had brains enough to say it. Let him look to it; let
+him look to it! When men he has wronged, and on whom he has bestowed
+his insolence, are getting ready to be hanged, there is a [[Death|death]]-bell
+ringing. And not for them.’
+
+Riderhood, looking fixedly at him, gradually arose from his recumbent
+posture while the schoolmaster said these words with the utmost
+concentration of rage and hatred. So, when the words were all spoken,
+he too kneeled on one knee on the grass, and the two men looked at one
+another.
+
+‘Oh!’ said Riderhood, very deliberately spitting out the grass he had
+been chewing. ‘Then, I make out, T’otherest, as he is a-going to her?’
+
+‘He left [[London]],’ answered Bradley, ‘yesterday. I have hardly a [[Doubt|doubt]],
+this [[Time|time]], that at last he is going to her.’
+
+‘You ain’t sure, then?’
+
+‘I am as sure here,’ said Bradley, with a clutch at the breast of his
+coarse shirt, ‘as if it was written there;’ with a blow or a stab at the
+sky.
+
+‘Ah! But judging from the looks on you,’ retorted Riderhood, completely
+ridding himself of his grass, and drawing his sleeve across his mouth,
+‘you’ve made ekally sure afore, and have got disapinted. It has told
+upon you.’
+
+‘Listen,’ said Bradley, in a low voice, bending forward to lay his hand
+upon the Lock-keeper’s shoulder. ‘These are my holidays.’
+
+‘Are they, by George!’ muttered Riderhood, with his eyes on the
+passion-wasted face. ‘Your working days must be stiff ’uns, if these is
+your holidays.’
+
+‘And I have never left him,’ pursued Bradley, waving the interruption
+aside with an impatient hand, ‘since they began. And I never will leave
+him now, till I have seen him with her.’
+
+‘And when you have seen him with her?’ said Riderhood.
+
+‘—I’ll come back to you.’
+
+Riderhood stiffened the knee on which he had been resting, got up, and
+looked gloomily at his new friend. After a few moments they walked side
+by side in the direction the boat had taken, as if by tacit consent;
+Bradley pressing forward, and Riderhood holding back; Bradley getting
+out his neat prim purse into his hand (a present made him by penny
+subscription among his pupils); and Riderhood, unfolding his arms to
+smear his coat-cuff across his mouth with a thoughtful air.
+
+‘I have a pound for you,’ said Bradley.
+
+‘You’ve two,’ said Riderhood.
+
+Bradley held a sovereign between his fingers. Slouching at his side with
+his eyes upon the towing-path, Riderhood held his left hand open, with
+a certain slight drawing action towards himself. Bradley dipped in his
+purse for another sovereign, and two chinked in Riderhood’s hand, the
+drawing action of which, promptly strengthening, drew them [[Home|home]] to his
+pocket.
+
+‘Now, I must follow him,’ said [[Bradley Headstone]]. ‘He takes this
+[[River|river]]-[[Road|road]]—the [[Fool|fool]]!—to confuse observation, or divert attention, if
+not solely to baffle me. But he must have the power of making himself
+invisible before he can shake Me off.’
+
+Riderhood stopped. ‘If you don’t get disapinted agin, T’otherest, maybe
+you’ll put up at the Lock-[[house]] when you come back?’
+
+‘I will.’
+
+Riderhood nodded, and the figure of the bargeman went its way along the
+soft turf by the side of the towing-path, keeping near the hedge and
+moving quickly. They had turned a point from which a long stretch of
+[[River|river]] was visible. A stranger to the scene might have been certain that
+here and there along the line of hedge a figure stood, watching the
+bargeman, and waiting for him to come up. So he himself had often
+believed at first, until his eyes became used to the posts, bearing the
+dagger that slew Wat Tyler, in the [[City]] of [[London]] shield.
+
+Within Mr Riderhood’s knowledge all daggers were as one. Even to Bradley
+Headstone, who could have told to the letter without book all about Wat
+Tyler, [[Lord Mayor]] Walworth, and the [[King]], that it is dutiful for youth
+to know, there was but one subject living in the world for every sharp
+destructive instrument that [[Summer|summer]] evening. So, Riderhood looking after
+him as he went, and he with his furtive hand laid upon the dagger as he
+passed it, and his eyes upon the boat, were much upon a par.
+
+The boat went on, under the arching trees, and over their tranquil
+shadows in the [[Water|water]]. The bargeman skulking on the opposite bank of the
+stream, went on after it. Sparkles of light showed Riderhood when
+and where the rower dipped his blades, until, even as he stood idly
+watching, the sun went down and the landscape was dyed red. And then the
+red had the appearance of fading out of it and mounting up to Heaven, as
+we say that [[Blood|blood]], guiltily shed, does.
+
+Turning back towards his Lock (he had not gone out of view of it), the
+Rogue pondered as deeply as it was within the contracted power of such
+a fellow to do. ‘Why did he copy my clothes? He could have looked like
+what he wanted to look like, without that.’ This was the subject-matter
+in his thoughts; in which, too, there came lumbering up, by times, like
+any half floating and half sinking rubbish in the [[River|river]], the question,
+Was it done by accident? The setting of a trap for finding out whether
+it was accidentally done, soon superseded, as a practical piece of
+cunning, the abstruser inquiry why otherwise it was done. And he devised
+a means.
+
+Rogue Riderhood went into his Lock-[[house]], and brought forth, into the
+now sober grey light, his chest of clothes. Sitting on the grass beside
+it, he turned out, one by one, the articles it contained, until he came
+to a conspicuous bright red neckerchief stained black here and there by
+wear. It arrested his attention, and he sat pausing over it, until he
+took off the rusty colourless wisp that he wore round his throat, and
+substituted the red neckerchief, leaving the long ends flowing. ‘Now,’
+said the Rogue, ‘if arter he sees me in this neckhankecher, I see him in
+a sim’lar neckhankecher, it won’t be accident!’ Elated by his device, he
+carried his chest in again and went to supper.
+
+‘Lock ho! Lock!’ It was a light [[Night|night]], and a barge coming down summoned
+him out of a long doze. In due course he had let the barge through
+and was [[Alone|alone]] again, looking to the closing of his gates, when Bradley
+Headstone appeared before him, standing on the brink of the Lock.
+
+‘Halloa!’ said Riderhood. ‘Back a’ ready, T’otherest?’
+
+‘He has put up for the [[Night|night]], at an Angler’s Inn,’ was the fatigued and
+hoarse reply. ‘He goes on, up the [[River|river]], at six in the morning. I have
+come back for a couple of hours’ rest.’
+
+‘You want ’em,’ said Riderhood, making towards the schoolmaster by his
+plank bridge.
+
+‘I don’t want them,’ returned Bradley, irritably, ‘because I would
+rather not have them, but would much prefer to follow him all [[Night|night]].
+However, if he won’t lead, I can’t follow. I have been waiting about,
+until I could discover, for a certainty, at what [[Time|time]] he starts; if I
+couldn’t have made sure of it, I should have stayed there.—This would
+be a bad pit for a man to be flung into with his hands tied. These
+slippery smooth walls would give him no chance. And I suppose those
+gates would suck him down?’
+
+‘Suck him down, or swaller him up, he wouldn’t get out,’ said Riderhood.
+‘Not even, if his hands warn’t tied, he wouldn’t. Shut him in at both
+ends, and I’d give him a pint o’ old ale ever to come up to me standing
+here.’
+
+Bradley looked down with a ghastly relish. ‘You run about the brink, and
+run across it, in this uncertain light, on a few inches width of rotten
+wood,’ said he. ‘I [[Wonder|wonder]] you have no thought of being drowned.’
+
+‘I can’t be!’ said Riderhood.
+
+‘You can’t be drowned?’
+
+‘No!’ said Riderhood, shaking his head with an air of thorough
+conviction, ‘it’s [[Well|well]] known. I’ve been brought out o’ drowning, and I
+can’t be drowned. I wouldn’t have that there busted B’lowbridger aware
+on it, or her people might make it tell agin’ the damages I mean to get.
+But it’s [[Well|well]] known to [[Water|water]]-side characters like myself, that him as
+has been brought out o drowning, can never be drowned.’
+
+Bradley smiled sourly at the ignorance he would have corrected in one of
+his pupils, and continued to look down into the [[Water|water]], as if the place
+had a gloomy fascination for him.
+
+‘You seem to like it,’ said Riderhood.
+
+He took no notice, but stood looking down, as if he had not heard the
+words. There was a very dark expression on his face; an expression
+that the Rogue found it hard to understand. It was fierce, and full
+of purpose; but the purpose might have been as much against himself as
+against another. If he had stepped back for a [[spring]], taken a leap, and
+thrown himself in, it would have been no surprising sequel to the look.
+Perhaps his troubled [[Soul|soul]], set upon some violence, did hover for the
+moment between that violence and another.
+
+‘Didn’t you say,’ asked Riderhood, after watching him for a while with
+a sidelong glance, ‘as you had come back for a couple o’ hours’ rest?’
+But, even then he had to jog him with his elbow before he answered.
+
+‘Eh? Yes.’
+
+‘Hadn’t you better come in and take your couple o’ hours’ rest?’
+
+‘Thank you. Yes.’
+
+With the look of one just awakened, he followed Riderhood into the
+Lock-[[house]], where the latter produced from a cupboard some cold salt
+beef and half a loaf, some gin in a bottle, and some [[Water|water]] in a jug. The
+last he brought in, cool and dripping, from the [[River|river]].
+
+‘There, T’otherest,’ said Riderhood, stooping over him to put it on
+the table. ‘You’d better take a bite and a sup, afore you takes
+your snooze.’ The draggling ends of the red neckerchief caught the
+schoolmaster’s eyes. Riderhood saw him look at it.
+
+‘Oh!’ thought that worthy. ‘You’re a-taking notice, are you? Come! You
+shall have a good squint at it then.’ With which reflection he sat down
+on the other side of the table, threw open his vest, and made a pretence
+of re-tying the neckerchief with much deliberation.
+
+Bradley ate and drank. As he sat at his platter and mug, Riderhood saw
+him, again and yet again, steal a look at the neckerchief, as if he were
+correcting his slow observation and prompting his sluggish [[Memory|memory]].
+‘When you’re ready for your snooze,’ said that honest creature, ‘chuck
+yourself on my bed in the corner, T’otherest. It’ll be broad day afore
+three. I’ll call you early.’
+
+‘I shall require no calling,’ answered Bradley. And soon afterwards,
+divesting himself only of his shoes and coat, laid himself down.
+
+Riderhood, leaning back in his wooden arm-chair with his arms folded
+on his breast, looked at him lying with his right hand clenched in his
+[[Sleep|sleep]] and his teeth set, until a film came over his own sight, and he
+slept too. He awoke to find that it was daylight, and that his
+visitor was already astir, and going out to the [[River|river]]-side to cool his
+head:—‘Though I’m blest,’ muttered Riderhood at the Lock-[[house]] door,
+looking after him, ‘if I think there’s [[Water|water]] enough in all the Thames
+to do THAT for you!’ Within five minutes he had taken his departure,
+and was passing on into the calm distance as he had passed yesterday.
+Riderhood knew when a fish leaped, by his starting and glancing round.
+
+‘Lock ho! Lock!’ at intervals all day, and ‘Lock ho! Lock!’ thrice in
+the ensuing [[Night|night]], but no return of Bradley. The second day was sultry
+and oppressive. In the afternoon, a thunderstorm came up, and had but
+newly broken into a furious sweep of rain when he rushed in at the door,
+like the [[Storm|storm]] itself.
+
+‘You’ve seen him with her!’ exclaimed Riderhood, starting up.
+
+‘I have.’
+
+‘Where?’
+
+‘At his [[Journey|journey]]’s end. His boat’s hauled up for three days. I heard
+him give the order. Then, I saw him wait for her and meet her. I saw
+them’—he stopped as though he were suffocating, and began again—‘I saw
+them walking side by side, last [[Night|night]].’
+
+‘What did you do?’
+
+‘Nothing.’
+
+‘What are you going to do?’
+
+He dropped into a chair, and laughed. Immediately afterwards, a great
+spirt of [[Blood|blood]] burst from his nose.
+
+‘How does that happen?’ asked Riderhood.
+
+‘I don’t know. I can’t keep it back. It has happened twice—three
+times—four times—I don’t know how many times—since last [[Night|night]]. I
+taste it, smell it, see it, it chokes me, and then it breaks out like
+this.’
+
+He went into the pelting rain again with his head bare, and, bending low
+over the [[River|river]], and scooping up the [[Water|water]] with his two hands, washed the
+[[Blood|blood]] away. All beyond his figure, as Riderhood looked from the door,
+was a vast dark curtain in solemn movement towards one quarter of the
+heavens. He raised his head and came back, wet from head to foot, but
+with the lower parts of his sleeves, where he had dipped into the [[River|river]],
+streaming [[Water|water]].
+
+‘Your face is like a [[Ghost|ghost]]’s,’ said Riderhood.
+
+‘Did you ever see a [[Ghost|ghost]]?’ was the sullen retort.
+
+‘I mean to say, you’re quite wore out.’
+
+‘That may [[Well|well]] be. I have had no rest since I left here. I don’t
+remember that I have so much as sat down since I left here.’
+
+‘Lie down now, then,’ said Riderhood.
+
+‘I will, if you’ll give me something to quench my thirst first.’
+
+The bottle and jug were again produced, and he mixed a weak draught, and
+another, and drank both in quick succession. ‘You asked me something,’
+he said then.
+
+‘No, I didn’t,’ replied Riderhood.
+
+‘I tell you,’ retorted Bradley, turning upon him in a wild and desperate
+manner, ‘you asked me something, before I went out to wash my face in
+the [[River|river]].
+
+‘Oh! Then?’ said Riderhood, backing a little. ‘I asked you wot you wos
+a-going to do.’
+
+‘How can a man in this state know?’ he answered, protesting with both
+his tremulous hands, with an action so vigorously angry that he shook
+the [[Water|water]] from his sleeves upon the floor, as if he had wrung them. ‘How
+can I plan anything, if I haven’t [[Sleep|sleep]]?’
+
+‘Why, that’s what I as good as said,’ returned the other. ‘Didn’t I say
+lie down?’
+
+‘[[Well]], perhaps you did.’
+
+‘[[Well]]! Anyways I says it again. [[Sleep]] where you slept last; the sounder
+and longer you can [[Sleep|sleep]], the better you’ll know arterwards what you’re
+up to.’
+
+His pointing to the truckle bed in the corner, seemed gradually to bring
+that poor couch to Bradley’s wandering remembrance. He slipped off his
+worn down-trodden shoes, and cast himself heavily, all wet as he was,
+upon the bed.
+
+Riderhood sat down in his wooden arm-chair, and looked through the
+[[Window|window]] at the [[Lightning|lightning]], and listened to the thunder. But, his thoughts
+were far from being absorbed by the thunder and the [[Lightning|lightning]], for again
+and again and again he looked very curiously at the exhausted man upon
+the bed. The man had turned up the collar of the rough coat he wore,
+to shelter himself from the [[Storm|storm]], and had buttoned it about his neck.
+Unconscious of that, and of most things, he had left the coat so, both
+when he had laved his face in the [[River|river]], and when he had cast himself
+upon the bed; though it would have been much easier to him if he had
+unloosened it.
+
+The thunder rolled heavily, and the forked [[Lightning|lightning]] seemed to make
+jagged rents in every part of the vast curtain without, as Riderhood sat
+by the [[Window|window]], glancing at the bed. Sometimes, he saw the man upon the
+bed, by a red light; sometimes, by a blue; sometimes, he scarcely saw
+him in the darkness of the [[Storm|storm]]; sometimes he saw nothing of him in
+the blinding glare of palpitating white [[Fire|fire]]. Anon, the rain would come
+again with a tremendous rush, and the [[River|river]] would seem to rise to meet
+it, and a blast of [[Wind|wind]], bursting upon the door, would flutter the hair
+and dress of the man, as if invisible messengers were come around the
+bed to carry him away. From all these phases of the [[Storm|storm]], Riderhood
+would turn, as if they were interruptions—rather striking interruptions
+possibly, but interruptions still—of his scrutiny of [[The Sleeper|the sleeper]].
+
+‘He sleeps sound,’ he said within himself; ‘yet he’s that up to me and
+that noticing of me that my getting out of my chair may wake him, when a
+rattling peal won’t; let [[Alone|alone]] my touching of him.’
+
+He very cautiously [[Rose|rose]] to his feet. ‘T’otherest,’ he said, in a low,
+calm voice, ‘are you a lying easy? There’s a chill in the air, governor.
+Shall I put a coat over you?’
+
+No answer.
+
+‘That’s about what it is a’ready, you see,’ muttered Riderhood in a
+lower and a different voice; ‘a coat over you, a coat over you!’
+
+[[The Sleeper|The sleeper]] moving an arm, he sat down again in his chair, and feigned
+to watch the [[Storm|storm]] from the [[Window|window]]. It was a grand spectacle, but not so
+grand as to keep his eyes, for half a minute together, from stealing a
+look at the man upon the bed.
+
+It was at the concealed throat of [[The Sleeper|the sleeper]] that Riderhood so often
+looked so curiously, until the [[Sleep|sleep]] seemed to deepen into the stupor
+of the dead-tired in mind and [[Body|body]]. Then, Riderhood came from the [[Window|window]]
+cautiously, and stood by the bed.
+
+‘Poor man!’ he murmured in a low tone, with a crafty face, and a very
+watchful eye and ready foot, lest he should start up; ‘this here coat
+of his must make him uneasy in his [[Sleep|sleep]]. Shall I loosen it for him,
+and make him more comfortable? Ah! I think I ought to do it, poor man. I
+think I will.’
+
+He touched the first button with a very cautious hand, and a step
+backward. But, [[The Sleeper|the sleeper]] remaining in profound unconsciousness, he
+touched the other buttons with a more assured hand, and perhaps the more
+lightly on that account. Softly and slowly, he opened the coat and drew
+it back.
+
+The draggling ends of a bright-red neckerchief were then disclosed, and
+he had even been at the pains of dipping parts of it in some liquid,
+to give it the appearance of having become stained by wear. With a
+much-perplexed face, Riderhood looked from it to [[The Sleeper|the sleeper]], and from
+[[The Sleeper|the sleeper]] to it, and finally crept back to his chair, and there, with
+his hand to his chin, sat long in a brown study, looking at both.

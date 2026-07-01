@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 14 (part 2)"
+title: "Villette — Chapter 14 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -120,5 +120,5 @@ believe what the glass said when I applied to it for information
 afterwards; the lavished garlandry of woven brown hair amazed me—I
 feared it was not all my own, and it required several convincing pulls
 to give assurance to the contrary. I then acknowledged in the coiffeur
-a first-rate [[Artist|artist]]—one who certainly made the most of indifferent
+a first-rate [[artist]]—one who certainly made the most of indifferent
 materials.

@@ -1,5 +1,5 @@
 ---
-title: "[[The Unparalleled Adventures of one Hans Pfaall]] (part 3)"
+title: "The Unparalleled Adventures of one Hans Pfaall (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-unparalleled-adventures-of-one-hans-pfaall-(poe)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/part/part_04">part 04 ›</a></div>
 </nav>
 
+
+      that the heads of all the people have been set agog with
+
+      politics, no better business than my own could an honest citizen
+
+      of Rotterdam either [[Desire|desire]] or deserve. Credit was good,
 
       employment was never wanting, and on all hands there was no lack
 
@@ -173,19 +179,3 @@ tags:
       some of another kind, came afterwards in the course of an
 
       eventful five years, during which I have dropped the prejudices
-
-      of my former humble situation in life, and forgotten the
-
-      bellows-mender in far different occupations. But at the epoch of
-
-      which I speak, the analogy which a casual observation of a star
-
-      offered to the conclusions I had already drawn, struck me with
-
-      the force of positive conformation, and I then finally made up my
-
-      mind to the course which I afterwards pursued.
-
-
-
-      “It was late when I reached [[Home|home]], and I went immediately to bed.

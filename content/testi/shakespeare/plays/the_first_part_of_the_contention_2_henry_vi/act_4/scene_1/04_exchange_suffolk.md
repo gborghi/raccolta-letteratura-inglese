@@ -1,5 +1,5 @@
 ---
-title: "The First Part of the Contention (2 [[Henry VI]]) — Act IV, Scene 1 — exchange (SUFFOLK) [4]"
+title: "The First Part of the Contention (2 Henry VI) — Act IV, Scene 1 — exchange (SUFFOLK) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-first-part-of-the-contention---(2-henry-vi)-(shakespeare)"

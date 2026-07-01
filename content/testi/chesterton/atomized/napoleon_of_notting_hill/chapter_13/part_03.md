@@ -1,5 +1,5 @@
 ---
-title: "Napoleon of Notting [[Hill]] — Chapter 1 (part 3)"
+title: "Napoleon of Notting Hill — Chapter 1 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/napoleon-of-notting-hill-(chesterton)"
@@ -10,176 +10,156 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_13/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_14/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_13/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_13/part_04">part 04 ›</a></div>
 </nav>
 
 
-The sky was particularly black, and on this [[Alone|alone]] was one false
-protest raised against the triumphant optimism of the Provost of
-North Kensington.  He overruled it with his infectious common sense.
+"It is so," said a deep voice; and both men turned round.
 
-"There is no such thing," he said, "as [[Night|night]] in [[London]].
-You have only to follow the line of street lamps.  Look, here is the map.
-Two hundred purple North Kensington soldiers under myself march
-up Ossington Street, two hundred more under Captain Bruce,
-of the North Kensington Guard, up Clanricarde Gardens.
-[Clanricarde Gardens at this [[Time|time]] was no longer a cul-de-sac,
-but was connected by Pump Street to Pembridge Square.  See map.] Two
-hundred yellow West Kensingtons under Provost Swindon attack from
-Pembridge [[Road]].  Two hundred more of my men from the eastern streets,
-leading away from [[Queen]]'s [[Road]].  Two detachments of yellows enter
-by two roads from Westbourne Grove.  Lastly, two hundred green
-Bayswaters come down from the North through Ghepstow Place,
-and two hundred more under Provost Wilson himself, through the upper
-part of Pembridge [[Road]].  Gentlemen, it is mate in two moves.
-The enemy must either mass in Pump Street and be cut to pieces...or
-they must retreat past the Gaslight & Coke Co....and rush on my four
-hundred...or they must retreat past St. Luke's Church and rush on
-the six hundred from the West.  Unless we are all mad, it's plain.
-Come on.  To your quarters and await Captain Brace's signal to advance.
-Then you have only to walk up a line of gas-lamps and smash this nonsense
-by pure mathematics.  To-morrow we shall be all civilians again."
+A burly figure in purple robes, with a silver eagle hung round his neck
+and moustaches almost as florid as his plumes, stood in the doorway.
 
-His optimism glowed like a great [[Fire|fire]] in the [[Night|night]], and ran
-round the terrible ring in which Wayne was now held helpless.
-The fight was already over.  One's man energy for one hour had saved
-the [[City|city]] from war.
+"Yes," he said, acknowledging the [[King]]'s start, "I am Provost Buck,
+and the news is true.  These men of the [[Hill]] have forgotten
+that we fought round the Tower as [[Well|well]] as they did, and that it
+is sometimes foolish, as [[Well|well]] as base, to despise the conquered."
 
-For the next ten minutes Buck walked up and down silently beside
-the motionless clump of his two hundred.  He had not changed his
-appearance in any way, except to sling across his yellow overcoat
-a case with a revolver in it.  So that his light-clad modern figure
-showed up oddly beside the pompous purple uniforms of his halberdiers,
-which darkly but richly coloured the black [[Night|night]].
+"Let us step outside," said Barker, with a grim composure.
 
-At length a shrill trumpet rang from some way up the street;
-it was the signal of advance.  Buck briefly gave the word, and the whole
-purple line, with its dimly shining steel, moved up the side alley.
-Before it was a slope of street, long, straight, and shining in the dark.
-It was a [[Sword|sword]] pointed at Pump Street, the heart at which nine
-other swords were pointed that [[Night|night]].
+Buck did so, and stood [[rolling]] his eyes up and down the lamp-lit street.
 
-A quarter of an hour's silent marching brought them almost within
-earshot of any tumult in the doomed citadel.  But still there
-was no sound and no sign of the enemy.  This [[Time|time]], at any rate,
-they knew that they were closing in on it mechanically, and they
-marched on under the lamplight and the dark without any of that eerie
-sense of ignorance which Barker had felt when entering the hostile
-country by one avenue [[Alone|alone]].
+"I would like to have a go at smashing all this," he muttered,
+"though I am over sixty.  I would like..."
 
-"Halt...point arms!" cried Buck, suddenly, and as he,
-spoke there came a clatter of feet tumbling along the stones.
-But the halberds were levelled in vain.  The figure that rushed up
-was a messenger from the contingent of the North.
+His voice ended in a cry, and he reeled back a step, with his hands
+to his eyes, as he had done in those streets twenty years before.
 
-"Victory, Mr. Buck!" he cried, panting, "they are ousted.
-Provost Wilson of Bayswater has taken Pump Street."
+"Darkness!" he cried "darkness again!  What does it mean?"
 
-Buck ran forward in his excitement.
+For in [[Truth|truth]] every lamp in the street had gone out, so that they
+could not see even each other's outline, except faintly.
+The voice of the chemist came with startling cheerfulness out
+of the density.
 
-"Then, which way are they retreating?  It must be either by St. Luke's
-to meet Swindon, or by the Gas Company to meet us.  Run like mad
-to Swindon and see that the yellows are holding the St. Luke's [[Road]].
-We will hold this, never [[Fear|fear]].  We have them in an iron trap.  Run!"
+"Oh, don't you know?" he said.  "Did they never tell you this is
+the Feast of the Lamps, the anniversary of the great battle that almost
+lost and just saved Notting [[Hill]]?  Don't you know, your Majesty,
+that on this [[Night|night]] twenty-one years ago we saw Wilson's green uniforms
+charging down this street, and driving Wayne and Turnbull back upon
+the gas-works, fighting with their handful of men like fiends from hell?
+And that then, in that great hour, Wayne sprang through a [[Window|window]]
+of the gas-works, with one blow of his hand brought darkness
+on the whole [[City|city]], and then with a cry like a [[Lion|lion]]'s, that was
+heard through four streets, flew at Wilson's men, [[Sword|sword]] in hand,
+and swept them, bewildered as they were, and ignorant of the map,
+clear out of the sacred street again?  And don't you know that
+upon that [[Night|night]] every year all lights are turned out for half
+an hour while we sing the Notting [[Hill]] anthem in the darkness?
+Hark! there it begins."
 
-As the messenger dashed away into the darkness, the great guard
-of North Kensington swung on with the certainty of a [[Machine|machine]].
-Yet scarcely a hundred yards further their halberd points again fell
-in line gleaming in the gaslight.  For again a clatter of feet was
-heard on the stones, and again it proved to be only the messenger.
+Through the [[Night|night]] came a crash of drums, and then a strong swell
+of human voices:
 
-"Mr. Provost," he said, "the yellow West Kensingtons have been
-holding the [[Road|road]] by St. Luke's for twenty minutes since the capture
-of Pump Street.  Pump Street is not two hundred yards away,
-they cannot be retreating down that [[Road|road]]."
+  "When the world was in the balance, there was [[Night|night]] on Notting [[Hill]], 
+  (There was [[Night|night]] on Notting [[Hill]]): it was nobler than the day; 
+  On the cities where the lights are and the firesides glow,
+  From the seas and from the deserts came the thing we did not know,
+  Came the darkness, came the darkness, came the darkness on the foe,
+  And the old guard of God turned to bay.  
+  For the old guard of God turns to bay, turns to bay,
+  And the [[Stars|stars]] fall down before it ere its banners fall to-day.
+  For when armies were around us as a howling and a horde, 
+  When falling was the citadel and broken was the [[Sword|sword]],
+  The darkness came upon them like the Dragon of the Lord,
+  When the old guard of God turned to bay."
 
-"Then they are retreating down this!" said Provost Buck, with a
-final cheerfulness, "and by good fortune down a [[Well|well]]-lighted [[Road|road]],
-though it twists about.  Forward!"
+The voices were just uplifting themselves in a second verse,
+when they were stopped by a scurry and a yell.  Barker had bounded
+into the street with a cry of "South Kensington!" and a drawn dagger.
+In less [[Time|time]] than man could blink, the whole packed street was
+full of curses and struggling.  Barker was flung back against
+the shop-front, but used the second only to draw his [[Sword|sword]] as [[Well|well]]
+as his dagger, and calling out, "This is not the first [[Time|time]] I've
+come through the thick of you," flung himself again into the press.
+It was evident that he had drawn [[Blood|blood]] at last, for a more violent
+outcry arose, and many other knives and sworlds were discernible
+in the faint light.  Barker, after having wounded more than one man,
+seemed on the point of being flung back again, when Buck suddenly
+stepped out into the street.  He had no weapon, for he affected rather
+the peaceful magnificence of the great burgher, than the pugnacious
+dandyism which had replaced the old sombre dandyism in Barker.
+But with a blow of his clenched fist he broke the pane of the
+next shop, which was the old curiosity shop, and, plunging in
+his hand, snatched a kind of Japanese scimitar, and calling
+out, "Kensington!  Kensington!" rushed to Barker's assistance.
 
-As they moved along the last three hundred yards of their [[Journey|journey]],
-Buck fell, for the first [[Time|time]] in his life, perhaps, into a kind
-of philosophical reverie, for men of his type are always made kindly,
-and as it were [[Melancholy|melancholy]], by [[success]].
+Barker's [[Sword|sword]] was broken, but he was laying about him with his dagger.
+Just as Buck ran up, a man of Hotting [[Hill]] struck Barker down,
+but Buck struck the man down on top of him, and Barker sprang up again,
+the [[Blood|blood]] running down his face.
 
-"I am sorry for poor old Wayne, I really am," he thought.
-"He spoke up splendidly for me at that Council.
-And he blacked old Barker's eye with considerable spirit.
-But I don't see what a man can expect when he fights against arithmetic,
-to say nothing of civilization.  And what a wonderful hoax all
-this military genius is.  I suspect I've just discovered what
-Cromwell discovered, that a sensible tradesman is the best general,
-and that a man who can buy men and sell men can lead and kill them.
-The thing's simply like adding up a column in a ledger.  If Wayne has
-two hundred men, he can't put two hundred men in nine places at once.
-If they're ousted from Pump Street they're flying somewhere.
-If they're not flying past the church they're flying past the Works.
-And so we have them.  We business men should have no chance at
-all except that cleverer people than we get [[Bees|bees]] in their bonnets
-that prevent them from reasoning properly...so we reason [[Alone|alone]].
-And so I, who am comparatively stupid, see things as God sees them,
-as a vast [[Machine|machine]].  My God, what's this?"  And he clapped his hands
-to his eyes and staggered back.
+Suddenly all these cries were cloven by a great voice, that seemed
+to fall out of heaven.  It was terrible to Buck and Barker
+and the [[King]] from its seeming to come out the empty skies;
+but it was more terrible because it was a familiar voice, and one
+which at the same [[Time|time]] they had not heard for so long.
 
-Then through the darkness he cried in a dreadful voice:
+"Turn up the lights," said the voice from above them, and for a moment
+there was no reply, but only a tumult.
 
-"Did I blaspheme God?...I am struck blind."
+"In the name of Notting [[Hill]], and of the great Council of the [[City]],
+turn up the lights."
 
-"What?" wailed another voice behind him, the voice of a certain
-Wilfred Jarvis of North Kensington.
+There was again a tumult and a vagueness for a moment, then the whole
+street and every object in it sprang suddenly out of the darkness,
+as every lamp sprang into life.  And looking up they saw,
+standing upon a balcony near the roof of one of the highest houses,
+the figure and the face of [[Adam Wayne]], his red hair blowing behind him,
+a little streaked with grey.
 
-"Blind!" cried Buck; "blind!"
-
-"I'm blind, too!" cried Jarvis, in an agony.
-
-"Fools, all of you," said a gross voice behind them; "we're all blind.
-The lamps have gone out."
-
-"The lamps...but why? where?" cried Buck, turning furiously in
-the darkness.  "How are we to get on?  How are we to chase the enemy?
-Where have they gone?"
-
-"The enemy went..." said the rough voice behind,
-and then stopped, doubtfully.
-
-"Where?" shouted Buck, stamping like a madman.
-
-"They went," said the gruff voice, "past the Gas Works, and they've
-used their chance."
-
-"Great God!" thundered Buck, and snatched at his revolver;
-"do you mean they've turned out..."
-
-But almost before he had spoken the words, he was hurled like a stone
-from a catapult into the midst of his own men.
-
-"Notting [[Hill]]!  Notting [[Hill]]!" cried frightful voices out of the darkness,
-and they seemed to come from all sides, for the men of North Kensington,
-unacquainted with the [[Road|road]], had lost all their bearings in the black
-world of blindness.
-
-"Notting [[Hill]]!  Notting [[Hill]]!" cried the invisible people,
-and the invaders were hewn down horribly with black steel,
-with steel that gave no glint against any light.
-
-. . . . .
-
-Buck, though badly maimed with the blow of a halberd, kept an angry
-but splendid [[Sanity|sanity]].  He groped madxy for the wall and found it.
-Struggling with crawling fingers along it, he found a side
-opening and retreated into it with the remnants of his men.
-Their adventures during that prodigious [[Night|night]] are not to be described.
-They did not know whether they were going towards or away from the enemy.
-Not knowing where they themselves were, or where their opponents were,
-it was mere irony to ask where was the rest of their army.
-For a thing had descended upon them which [[London]] does
-not know...darkness, which was before the [[Stars|stars]] were made, and they
-were as much lost in it as if they had been made before the [[Stars|stars]].
-Every now and then, as those frightful hours wore on, they buffetted
-in the darkness against living men, who struck at them and at whom
-they struck, with an idiot fury.  When at last the grey [[Dawn|dawn]] came,
-they found they had wandered back to the edge of the Uxbridge [[Road]].
-They found that in those horrible eyeless encounters,
-the North Kensingtons and the Bayswaters and the West Kensingtons
-had again and again met and butchered each other, and they heard
-that [[Adam Wayne]] was barricaded in Pump Street.
+"What is this, my people?" he said.  "Is it altogether impossible
+to make a thing good without it immediately insisting on being wicked?
+The glory of Notting [[Hill]] in having achieved its independence, has been
+enough for me to dream of for many years, as I sat beside the [[Fire|fire]].
+Is it really not enough for you, who have had so many other
+affairs to excite and distract you?  Notting [[Hill]] is a nation.
+Why should it condescend to be a mere Empire?  You wish to pull down
+the statue of General Wilson, which the men of Bayswater have so rightly
+erected in Westbourne Grove.  Fools!  Who erected that statue?
+Did Bayswater erect it?  No. Notting [[Hill]] erected it.  Do you not
+see that it is the glory of our achievement that we have infected
+the other cities with the idealism of Notting [[Hill]]?  It is we who have
+created not only our own side, but both sides of this controversy.
+O too humble fools...why should you wish to destroy your enemies?
+You have done something more to them.  You have created your enemies.
+You wish to pull down that gigantic silver hammer, which stands,
+like an obelisk, in the centre of the Broadway of Hammersmith.
+Fools!  Before Notting [[Hill]] arose, did any person passing through
+Hammersmith Broadway expect to see there a gigantic silver hammer?
+You wish to abolish the great bronze figure of a knight standing
+upon the artificial bridge at Knightsbridge.  Fools!  Who would
+have thought of it before Notting [[Hill]] arose?  I have even heard,
+and with deep [[Pain|pain]] I have heard it, that the evil eye of our
+imperial envy has been cast towards the remote horizon of the west,
+and that we have objected to the great black monuments of a
+crowned raven, which commemorates the skirmish of Ravenscourt Park.
+Who created all these things?  Were they there before we came?
+Cannot you be content with that destiny which was enough for Athens,
+which was enough for Nazareth? the destiny, the humble purpose of
+creating a new world.  Is Athens angry because Romans and Florentines
+have adopted her phraseology for expressing their own patriotism?
+Is Nazareth angry because as a little village it has become
+the type of all little villages out of which, as the Snobs say,
+no good can come?  Has Athens asked every one to wear the chlamys?
+Are all followers of the Nazarene compelled to wear turbans?
+No! but the [[Soul|soul]] of Athens went forth and made men drink hemlock,
+and the [[Soul|soul]] of Nazareth went forth and made men consent to be crucified.
+So has the [[Soul|soul]] of Notting [[Hill]] gone forth and made men realize what it
+is to live in a [[City|city]].  Just as we inaugurated our symbols and ceremonies,
+so they have inaugurated theirs; and are you so mad as to contend
+against them?  Notting [[Hill]] is right; it has always been right.
+It has moulded itself on its own necessities, its own sine qua non,
+it has accepted its own ultimatum.  Because it is a nation it has
+created itself.  And because it is a nation it can destroy itself.
+Notting [[Hill]] shall always be the judge.  If it is your will because of
+this matter of General Wilson's statue to make war upon Bayswater..."

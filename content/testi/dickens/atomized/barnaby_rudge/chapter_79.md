@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 79"
+title: "Barnaby Rudge — Chapter 79"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -342,7 +342,7 @@ The scene was a churchyard; the [[Time|time]], midnight; the persons, Edward
 Chester, a clergyman, a [[Grave|grave]]-digger, and the four bearers of a homely
 coffin. They stood about a [[Grave|grave]] which had been newly dug, and one of
 the bearers held up a dim lantern,--the only light there--which shed
-its feeble ray upon the book of [[Prayer|prayer]]. He placed it for a moment on the
+its feeble ray upon the book of [[prayer]]. He placed it for a moment on the
 coffin, when he and his companions were about to lower it down. There
 was no [[Inscription|inscription]] on the lid.
 

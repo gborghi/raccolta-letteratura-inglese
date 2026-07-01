@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 10 (part 2)"
+title: "Northanger Abbey — Chapter 10 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_11/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_11/part_03">part 03 ›</a></div>
 </nav>
 
+
+for a couple of days. He came only to engage lodgings for us.”
+
+
+
+“_That_ never occurred to me; and of course, not seeing him anywhere, I
 
 thought he must be gone. Was not the young lady he danced with on
 
@@ -217,19 +223,3 @@ since Monday. Yes; I remember, I asked you while you were waiting in
 the lobby for your cloak. And here have I been telling all my
 
 acquaintance that I was going to [[Dance|dance]] with the prettiest girl in the
-
-room; and when they see you standing up with somebody else, they will
-
-quiz me famously.”
-
-
-
-“Oh, no; they will never think of _me_, after such a description as
-
-that.”
-
-
-
-“By heavens, if they do not, I will kick them out of the room for
-
-blockheads. What chap have you there?” Catherine satisfied his

@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 4 (part 1)"
+title: "The Tenant of Wildfell Hall — Chapter 4 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -217,9 +217,3 @@ his hostess and her daughter, and Miss Wilson—misguided man; he had not
 the taste to prefer Eliza Millward. Mr. Lawrence and I were on
 
 tolerably intimate terms. Essentially of reserved habits, and but
-
-seldom quitting the secluded place of his birth, where he had lived in
-
-solitary state since the [[Death|death]] of his father, he had neither the
-
-opportunity nor the inclination for forming many acquaintances; and, of

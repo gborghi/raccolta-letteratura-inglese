@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 19: I LOOK ABOUT ME, AND MAKE A DISCOVERY (part 2)"
+title: "David Copperfield — Chapter 19: I LOOK ABOUT ME, AND MAKE A DISCOVERY (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_19_i_look_about_me_and_make_a_dis/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_19_i_look_about_me_and_make_a_dis/part_03">part 03 ›</a></div>
 </nav>
 
+
+In pursuance of my aunt’s kind scheme, I was shortly afterwards fitted
+out with a handsome purse of money, and a portmanteau, and tenderly
+dismissed upon my expedition. At parting, my aunt gave me some good
+advice, and a good many kisses; and said that as her object was that I
+should look about me, and should think a little, she would recommend me
+to stay a few days in [[London]], if I liked it, either on my way down into
+Suffolk, or in coming back. In a word, I was at liberty to do what I
+would, for three weeks or a month; and no other conditions were imposed
+upon my [[Freedom|freedom]] than the before-mentioned thinking and looking about me,
+and a pledge to write three times a week and faithfully report myself.
 
 I went to Canterbury first, that I might take leave of Agnes and Mr.
 Wickfield (my old room in whose [[house]] I had not yet relinquished), and
@@ -126,18 +137,3 @@ answered.
 ‘But now I mean to do it,’ returned the Doctor. ‘My first master will
 succeed me--I am in earnest at last--so you’ll soon have to arrange our
 contracts, and to bind us firmly to them, like a couple of knaves.’
-
-‘And to take care,’ said Mr. Wickfield, ‘that you’re not imposed on, eh?
-As you certainly would be, in any contract you should make for yourself.
-[[Well]]! I am ready. There are worse tasks than that, in my calling.’
-
-‘I shall have nothing to think of then,’ said the Doctor, with a smile,
-‘but my Dictionary; and this other contract-bargain--Annie.’
-
-As Mr. Wickfield glanced towards her, sitting at the tea table by Agnes,
-she seemed to me to avoid his look with such unwonted hesitation and
-timidity, that his attention became fixed upon her, as if something were
-suggested to his thoughts.
-
-‘There is a post come in from India, I observe,’ he said, after a short
-[[Silence|silence]].

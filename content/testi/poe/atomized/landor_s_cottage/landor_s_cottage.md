@@ -1,5 +1,5 @@
 ---
-title: "[[Landor's Cottage]]"
+title: "Landor's Cottage"
 author: "Poe"
 unitType: work
 parentWork: "works/landor's-cottage-(poe)"
@@ -70,7 +70,7 @@ A Pendant to “[[The Domain of Arnheim]]”
       seat on one of the blossomy stones and gaze up and down this
       fairy-like avenue for half an hour or more in bewildered
       admiration. One thing became more and more evident the longer I
-      gazed: an [[Artist|artist]], and one with a most scrupulous eye for form,
+      gazed: an [[artist]], and one with a most scrupulous eye for form,
       had superintended all these arrangements. The greatest care had
       been taken to preserve a due medium between the neat and graceful
       on the one hand, and the pittoresque, in the true sense of the
@@ -392,7 +392,7 @@ A Pendant to “[[The Domain of Arnheim]]”
       The shingles were painted a dull gray; and the happiness with
       which this neutral tint melted into the vivid green of the tulip
       tree [[Leaves|leaves]] that partially overshadowed the cottage, can readily
-      be conceived by an [[Artist|artist]].
+      be conceived by an [[artist]].
 
       From the position near the stone wall, as described, the
       buildings were seen at great advantage—for the southeastern angle

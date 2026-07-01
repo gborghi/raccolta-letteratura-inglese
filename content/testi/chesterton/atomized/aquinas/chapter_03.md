@@ -1,5 +1,5 @@
 ---
-title: "[[aquinas]] — Chapter 3"
+title: "aquinas — Chapter 3"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/aquinas-(chesterton)"
@@ -409,7 +409,7 @@ The great intellectual tradition that comes down to us from Pythagoras
 and Plato was never interrupted or lost through such trifles as the sack
 of Rome, the triumph of Attila or all the barbarian invasions of
 the Dark Ages.  It was only lost after the introduction of printing,
-the discovery of [[America]], the founding of the Royal Society and
+the discovery of [[america|America]], the founding of the Royal Society and
 all the enlightenment of the [[Renaissance]] and the modern world.
 It was there, if anywhere, that there was lost or impatiently snapped
 the long thin delicate thread that had descended from distant antiquity;
@@ -600,7 +600,7 @@ But it is probably true to say that the fact, that a man like [[aquinas|Aquinas]
 had managed even partially to satisfy a man like Tempier, was the end
 of the essential quarrel.  What was already familiar to the few
 became familiar to the many; that an Aristotelian could really
-be a Christian.  Another fact assisted in the common [[Conversion|conversion]].
+be a Christian.  Another fact assisted in the common [[conversion]].
 It rather curiously resembles the story of the [[Translation|translation]]
 of the [[Bible]]; and the alleged Catholic suppression of the [[Bible]].
 Behind the scenes, where the Pope was much more tolerant than the

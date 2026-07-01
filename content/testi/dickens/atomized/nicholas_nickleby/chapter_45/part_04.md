@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 45 (part 4)"
+title: "Nicholas Nickleby — Chapter 45 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_45/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_45/part_05">part 05 ›</a></div>
 </nav>
 
+
+‘Do I!’ returned Squeers. ‘Don’t I?’
+
+‘Good,’ said Ralph; ‘a very few words will be sufficient here. You had a
+son by your first wife, Mr. Snawley?’
+
+‘I had,’ replied that person, ‘and there he stands.’
+
+‘We’ll show that presently,’ said Ralph. ‘You and your wife were
+separated, and she had the boy to live with her, when he was a year old.
+You received a communication from her, when you had lived apart a year
+or two, that the boy was dead; and you believed it?’
 
 ‘Of course I did!’ returned Snawley. ‘Oh the joy of--’
 
@@ -131,13 +143,3 @@ into the chest of Mr. Squeers who was advancing upon [[Smike]]; with so much
 dexterity that the schoolmaster reeled and staggered back upon Ralph
 Nickleby, and being unable to recover his balance, knocked that
 gentleman off his chair, and stumbled heavily upon him.
-
-This accidental circumstance was the signal for some very decisive
-proceedings. In the midst of a great noise, occasioned by the prayers
-and entreaties of [[Smike]], the cries and exclamations of the women, and
-the vehemence of the men, demonstrations were made of carrying off the
-lost son by violence. Squeers had actually begun to haul him out, when
-Nicholas (who, until then, had been evidently undecided how to act)
-took him by the collar, and shaking him so that such teeth as he had,
-chattered in his head, politely escorted him to the room-door, and
-thrusting him into the passage, shut it upon him.

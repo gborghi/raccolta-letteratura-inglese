@@ -43,7 +43,7 @@ which the old ballads always talk of as true [[Love|love]].  But the story
 always turns on the keeping of a bond or the breaking of it; and this
 quite apart from orthodox [[morality]] in the matter of the [[Marriage|marriage]] bond.
 The [[Love|love]] may be in the strict sense sinful, but it is never anarchical.
-There was quite as little [[Freedom|freedom]] for Lancelot as for [[Arthur]];
+There was quite as little [[Freedom|freedom]] for Lancelot as for [[arthur|Arthur]];
 quite as little mere philandering in the [[philosophy]] of Tristram
 as in the [[philosophy]] of Galahad.  It may have been unlawful [[Love|love]],
 but it certainly was not lawless [[Love|love]].  In the old ballads there is
@@ -114,26 +114,3 @@ We may at the moment be looking at one highly coloured and even
 flamboyant figure in the carpet; but we know that on every side,
 in front as [[Well|well]] as behind, the image is repeated without purpose
 and without finality.
-
---
-
-THE TERROR OF A TOY
-
-IT would be too high and hopeful a compliment to say that the world
-is becoming absolutely babyish.  For its chief weak-mindedness
-is an inability to appreciate the intelligence of babies.
-On every side we hear whispers and warnings that would have appeared
-half-witted to the Wise Men of Gotham.  Only this Christmas I
-was told in a toy-shop that not so many bows and arrows were being
-made for little boys; because they were considered dangerous.
-It might in some circumstances be dangerous to have a little bow.
-It is always dangerous to have a little boy.  But no other society,
-claiming to be sane, would have dreamed of supposing that you
-could abolish all bows unless you could abolish all boys.
-With the merits of the latter [[Reform|reform]] I will not deal here.
-There is a great deal to be said for such a course; and perhaps we
-shall soon have an opportunity of considering it.  For the modern mind
-seems quite incapable of distinguishing between the means and the end,
-between the organ and the disease, between the use and the abuse;
-and would doubtless break the boy along with the bow, as it empties
-out the baby with the bath.

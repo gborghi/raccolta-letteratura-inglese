@@ -1,5 +1,5 @@
 ---
-title: "Napoleon of Notting [[Hill]] — Chapter 1 (part 2)"
+title: "Napoleon of Notting Hill — Chapter 3 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/napoleon-of-notting-hill-(chesterton)"
@@ -14,119 +14,135 @@ tags:
 </nav>
 
 
-Mr. Wayne's little volume of verse was a complete failure;
-and he submitted to the decision of fate with a quite rational [[Humility|humility]],
-went back to his work, which was that of a draper's assistant,
-and wrote no more.  He still retained his feeling about the town
-of Notting [[Hill]], because he could not possibly have any
-other feeling, because it was the back and base of his brain.
-But he does not seem to have made any particular attempt to express
-it or insist upon it.
+"This very kind speech of the Provost of Notting [[Hill]]," began Buck,
+pleasantly, "seems to me to show that we have at last got on to a
+friendly footing.  Now come, Mr. Wayne.  Five hundred pounds have been
+offered to you for a property you admit not to be worth a hundred.
+[[Well]], I am a rich man and I won't be outdone in generosity.
+Let us say fifteen hundred pounds and have done with it.
+And let us shake hands."  And he [[Rose|rose]], glowing and laughing.
 
-He was a genuine natural mystic, one of those who live on
-the border of fairyland.  But he was perhaps the first to realize
-how often the boundary of fairyland runs through a crowded [[City|city]].
-Twenty feet from him (for he was very short-sighted) the red
-and white and yellow suns of the gas-lights thronged and melted
-into each other like an orchard of fiery trees, the beginning
-of the woods of elf-land.
+"Fifteen hundred pounds," whispered Mr. Wilson of Bayswater;
+"can we do fifteen hundred pounds?"
 
-But, oddly enough, it was because he was a small poet that he came
-to his strange and isolated triumph.  It was because he was a
-failure in literature that he became a portent in English [[history]].
-He was one of those to whom [[Nature|nature]] has given the [[Desire|desire]] without the power
-of artistic expression.  He had been a dumb poet from his cradle.
-He might have been so to his [[Grave|grave]], and carried unuttered
-into the darkness a treasure of new and sensational [[Song|song]].
-But he was born under the lucky star of a single coincidence.
-He happened to be at the head of his dingy municipality at
-the [[Time|time]] of the [[King]]'s jest, at the [[Time|time]] when all municipalities
-were suddenly commanded to break out into banners and [[Flowers|flowers]].
-Out of the long procession of the silent poets who have been passing
-since the beginning of the world, this one man found himself
-in the midst of an heraldic vision, in which he could act and speak
-and live lyrically.  While the author and the victims alike treated
-the whole matter as a silly public charade, this one man, by taking
-it seriously, sprang suddenly into a throne of artistic omnipotence.
-Armour, music, standards, watch-fires, the noise of drums,
-all the theatrical properties were thrown before him.
-This one poor rhymster, having burnt his own rhymes, began to live
-that life of open air and acted poetry of which all the poets
-of the earth have dreamed in vain; the life for which the Iliad
-is only a cheap substitute.
+"I'll stand the racket," said Buck heartily.  "Mr. Wayne is a
+gentleman and has spoken up for me.  So I suppose the negotiations
+are at an end."
 
-Upwards from his abstracted [[Childhood|childhood]], [[Adam Wayne]] had grown strongly
-and silently in a certain quality or capacity which is in modern cities
-almost entirely artificial, but which can be natural, and was primarily
-almost brutally natural in him, the quality or capacity of patriotism.
-It exists, like other virtues and vices, in a certain undiluted reality.
-It is not confused with all kinds of other things.  A [[Child|child]] speaking
-of his country or his village may make every mistake in Mandeville
-or tell every lie in Munchausen, but in his statement there will be
-no psychological lies any more than there can be in a good [[Song|song]].
-[[Adam Wayne]], as a boy, had for his dull streets in Notting [[Hill]]
-the ultimate and ancient sentiment that went out to Athens or Jerusalem.
-He knew the secret of the passion, those [[Secrets|secrets]] which make
-real old national [[songs]] sound so strange to our civilization.
-He knew that real patriotism tends to sing about sorrows and forlorn
-hopes much more than about victory.  He knew that in proper
-names themselves is half the poetry of all national [[Poems|poems]].
-Above all, he knew the supreme psychological fact about patriotism,
-as certain in connection with it as that a fine shame comes to all [[lovers]],
-the fact that the patriot never under any circumstances boasts
-of the largeness of his country, but always, and of necessity,
-boasts of the smallness of it.
+Wayne bowed.
 
-All this he knew, not because he was a philosopher or a genius,
-but because he was a [[Child|child]].  Any one who cares to walk up a side
-slum like Pump Street, can see a little Adam claiming to be [[King|king]]
-of a paving-stone. And he will always be proudest if the stone
-is almost too narrow for him to keep his feet inside it.
+"They are indeed at an end.  I am sorry I cannot sell you the property."
 
-It was while he was in such [[A Dream|a dream]] of defensive battle, marking out
-some strip of street or fortress of steps as the limit of his
-haughty claim, that the [[King]] had met him, and, with a few words flung
-in mockery, ratified for ever the strange boundaries of his [[Soul|soul]].
-Thenceforward the fanciful idea of the defence of Notting [[Hill]]
-in war became to him a thing as solid as eating or drinking
-or lighting a pipe.  He disposed his meals for it, altered his
-plans for it, lay awake in the [[Night|night]] and went over it again.
-Two or three shops were to him an arsenal; an area was to him a moat;
-corners of balconies and turns of stone steps were points for the location
-of a culverin or an archer.  It is almost impossible to convey
-to any ordinary [[Imagination|imagination]] the degree to which he had transmitted
-the leaden [[London]] landscape to a romantic gold.  The process began
-almost in babyhood, and became habitual like a literal [[Madness|madness]].
-It was felt most keenly at [[Night|night]], when [[London]] is really herself,
-when her lights shine in the dark like the eyes of innumerable cats,
-and the outline of the dark houses has the bold simplicity of
-blue hills.  But for him the [[Night|night]] revealed instead of concealing,
-and he read all the blank hours of morning and afternoon,
-by a contradictory phrase, in the light of that darkness.
-To this man, at any rate, the inconceivable had happened.
-The artificial [[City|city]] had become to him [[Nature|nature]], and he felt
-the curb-stones and gas-lamps as things as ancient as the sky.
+"What?" cried Mr. Barker, starting to his feet.
 
-One instance may suffice.  Walking along Pump Street with a friend,
-he said, as he gazed dreamily at the iron fence of a little front [[Garden|garden]],
-"How those railings stir one's [[Blood|blood]]."
+"Mr. Buck has spoken correctly," said the [[King]].
 
-His friend, who was also a great intellectual admirer,
-looked at them painfully, but without any particular emotion.
-He was so troubled about it that he went back quite a large
-number of times on quiet evenings and stared at the railings,
-waiting for something to happen to his [[Blood|blood]], but without [[success]].
-At last he took refuge in asking Wayne himself.  He discovered
-that the ecstacy lay in the one point he had never noticed about
-the railings even after his six visits, the fact that they were
-like the great majority of others in [[London]], shaped at the top after
-the manner of a spear.  As a [[Child|child]], Wayne had half unconsciously
-compared them with the spears in pictures of Lancelot and St. George,
-and had grown up under the [[Shadow|shadow]] of the graphic association.
-Now, whenever he looked at them, they were simply the serried weapons
-that made a hedge of steel round the sacred homes of Notting [[Hill]].
-He could not have cleansed his mind of that meaning even if he tried.
-It was not a fanciful comparison, or anything like it.
-It would not have been true to say that the familiar railings reminded
-him of spears; it would have been far truer to say that the familiar
-spears occasionally reminded him of railings.
+"I have, I have," cried Buck, springing up also; "I said..."
+
+"Mr. Buck has spoken correctly," said the [[King]]; "the negotiations
+are at an end."
+
+All the men at the table [[Rose|rose]] to their feet; Wayne [[Alone|alone]]
+[[Rose|rose]] without excitement.
+
+"Have I, then," he said, "your Majesty's permission to depart?
+I have given my last answer."
+
+"You have it," said Auberon, smiling, but not lifting his eyes
+from the table.  And amid a dead [[Silence|silence]] the Provost of Notting [[Hill]]
+passed out of the room.
+
+"[[Well]]?" said Wilson, turning round to Barker, "[[Well]]?"
+
+Barker shook his head desperately.
+
+"The man ought to be in an asylum," he said.  "But one thing is clear,
+we need not bother further about him.  The man can be treated as mad."
+
+"Of course," said Buck, turning to him with sombre decisiveness.
+"You're perfectly right, Barker.  He is a good enough fellow,
+but he can be treated as mad.  Let's put it in simple form.
+Go and tell any twelve men in any town, go and tell any doctor
+in any town, that there is a man offered fifteen hundred pounds
+for a thing he could sell commonly for four hundred, and that when
+asked for a reason for not accepting it he pleads the inviolate
+sanctity of Notting [[Hill]] and calls it the Holy Mountain.
+What would they say?  What more can we have on our side than
+the common-sense of everybody?  On what else do all laws rest?
+I'll tell you, Barker, what's better than any further discussion.
+Let's send in workmen on the spot to pull down Pump Street.
+And if old Wayne says a word, arrest him as a lunatic.  That's all."
+
+Barker's eyes kindled.
+
+"I always regarded you, Buck, if you don't mind my saying so,
+as a very strong man.  I'll follow you."
+
+"So, of course will I," said Wilson.
+
+Buck [[Rose|rose]] again impulsively.
+
+"Your Majesty," he said, glowing with popularity, "I beseech
+your Majesty to consider favourably the proposal to which we have
+committed ourselves.  Your Majesty's leniency, our own offers,
+have fallen in vain on that extraordinary man.  He may be right.
+He may be God.  He may be the devil.  But we think it,
+for practical purposes, more probable that he is off his head.
+Unless that assumption were acted on, all human affairs would
+go to pieces.  We act on it, and we propose to start operations
+in Notting [[Hill]] at once."
+
+The [[King]] leaned back in his chair.
+
+"The Charter of the Cities..." he said with a rich intonation.
+
+But Buck, being finally serious, was also cautious, and did not again
+make the mistake of disrespect.
+
+"Your Majesty," he said, bowing, "I am not here to say
+a word against anything your Majesty has said or done.
+You are a far better educated man than I, and no [[Doubt|doubt]] there
+were reasons, upon intellectual grounds, for those proceedings.
+But may I ask you and appeal to your common good-[[Nature|nature]] for a
+sincere answer?  When you drew up the Charter of the Cities did
+you contemplate the rise of a man like [[Adam Wayne]]?  Did you expect
+that the Charter...whether it was an experiment, or a scheme
+of decoration, or a joke...could ever really come to this...to
+stopping a vast scheme of ordinary business, to shutting up a [[Road|road]],
+to spoiling the chances of cabs, omnibuses, railway stations,
+to disorganizing half a [[City|city]], to risking a kind of civil war?
+Whatever were your objects, were they that?"
+
+Barker and Wilson looked at him admiringly; the [[King]]
+more admiringly still.
+
+"Provost Buck," said Auberon, "you speak in public uncommonly [[Well|well]].
+I give you your point with the magnanimity of an [[Artist|artist]].
+My scheme did not include the appearance of Mr. Wayne.
+Alas! would that my poetic power had been great enough."
+
+"I thank your Majesty," said Buck, courteously but quickly.
+"Your Majesty's statements are always clear and studied:
+therefore I may draw a deduction.  As the scheme, whatever it was,
+on which you set your heart did not include the appearance of Mr. Wayne,
+it will survive his removal.  Why not let us clear away this particular
+Pump Street, which does interfere with our plans, and which does not,
+by your Majesty's own statement, interfere with yours."
+
+"Caught out!" said the [[King]], enthusiastically and quite impersonally,
+as if he were watching a cricket match.
+
+"This man Wayne," continued Buck, "would be shut up by any
+doctors in England.  But we only ask to have it put before them.
+Meanwhile no one's interests, not even in all probability his own,
+can be really damaged by going on with the improvements in Notting [[Hill]].
+Not our interests, of course, for it has been the hard and quiet
+work of ten years.  Not the interest of Notting [[Hill]], for nearly
+all its educated inhabitants [[Desire|desire]] the change.  Not the interests
+of your Majesty, for you say, with characteristic sense, that you
+never contemplated the rise of the lunatic at all.  Not, as I say,
+his own interests, for the man has a kind heart and many talents,
+and a couple of good doctors would probably put him righter
+than all the free cities and sacred [[Mountains|mountains]] in creation.
+I therefore assume, if I may use so bold a word, that your Majesty
+will not offer any obstacle to our proceeding with the improvements."

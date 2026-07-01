@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 37 (part 4)"
+title: "Bleak House — Chapter 37 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,36 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_37/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_37/part_05">part 05 ›</a></div>
 </nav>
 
+
+I was so touched with pity for [[Richard]] that I could not reproach him
+any more, even by a look. I remembered my guardian’s gentleness
+towards his errors and with what perfect [[Freedom|freedom]] from resentment he
+had spoken of them.
+
+“Esther,” [[Richard]] resumed, “you are not to suppose that I have come
+here to make underhanded charges against [[John Jarndyce]]. I have only
+come to justify myself. What I say is, it was all very [[Well|well]] and we
+got on very [[Well|well]] while I was a boy, utterly regardless of this same
+suit; but as soon as I began to take an interest in it and to look
+into it, then it was quite another thing. Then [[John Jarndyce]]
+discovers that Ada and I must break off and that if I don’t amend
+that very objectionable course, I am not fit for her. Now, Esther, I
+don’t mean to amend that very objectionable course: I will not hold
+[[John Jarndyce]]’s favour on those unfair terms of compromise, which he
+has no right to dictate. Whether it pleases him or displeases him, I
+must maintain my rights and Ada’s. I have been thinking about it a
+good deal, and this is the conclusion I have come to.”
+
+Poor dear [[Richard]]! He had indeed been thinking about it a good deal.
+His face, his voice, his manner, all showed that too plainly.
+
+“So I tell him honourably (you are to know I have written to him
+about all this) that we are at issue and that we had better be at
+issue openly than covertly. I thank him for his goodwill and his
+protection, and he goes his [[Road|road]], and I go mine. The fact is, our
+roads are not the same. Under one of the wills in dispute, I should
+take much more than he. I don’t mean to say that it is the one to be
+established, but there it is, and it has its chance.”
 
 “I have not to learn from you, my dear [[Richard]],” said I, “of your
 letter. I had heard of it already without an offended or angry word.”
@@ -110,35 +140,3 @@ of your considerate way, you will do me a very great and a very kind
 service, my dear Esther; and I shall knock Jarndyce and Jarndyce on
 the head with greater vigour. Of course I ask for no secrecy at Bleak
 [[house|House]].”
-
-“[[Richard]],” said I, “you place great confidence in me, but I [[Fear|fear]] you
-will not take advice from me?”
-
-“It’s impossible that I can on this subject, my dear girl. On any
-other, readily.”
-
-As if there were any other in his life! As if his whole career and
-character were not being dyed one colour!
-
-“But I may ask you a question, [[Richard]]?”
-
-“I think so,” said he, laughing. “I don’t know who may not, if you
-may not.”
-
-“You say, yourself, you are not leading a very settled life.”
-
-“How can I, my dear Esther, with nothing settled!”
-
-“Are you in debt again?”
-
-“Why, of course I am,” said [[Richard]], astonished at my simplicity.
-
-“Is it of course?”
-
-“My dear [[Child|child]], certainly. I can’t throw myself into an object so
-completely without expense. You forget, or perhaps you don’t know,
-that under either of the wills Ada and I take something. It’s only a
-question between the larger sum and the smaller. I shall be within
-the mark any way. Bless your heart, my excellent girl,” said [[Richard]],
-quite amused with me, “I shall be all right! I shall pull through, my
-dear!”

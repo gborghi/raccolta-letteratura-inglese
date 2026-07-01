@@ -1,5 +1,5 @@
 ---
-title: "[[Diddling]] (part 2)"
+title: "Diddling (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/diddling-(poe)"
@@ -12,6 +12,12 @@ tags:
 <div class="excerpt-crumb">Poe · <a href="/works/diddling-(poe)">Diddling</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/diddling/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/diddling/part/part_03">part 03 ›</a></div>
 </nav>
+
+
+      speak of the “old saws,” therefore, I shall content myself with a
+
+      compendious account of some of the more “modern instances.”
+
 
 
       A very good diddle is this. A housekeeper in want of a sofa, for
@@ -223,17 +229,3 @@ tags:
 
 
       “But then I have no change for a hundred, and upon the whole,
-
-      _you_ had better—”
-
-
-
-      “Cast off there!” says the captain.
-
-
-
-      “Never mind!” cries the gentleman on shore, who has been
-
-      examining his own pocket-book for the last minute or so—“never
-
-      mind! _I_ can fix it—here is a fifty on the Bank of North

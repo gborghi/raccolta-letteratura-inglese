@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 31 (part 1)"
+title: "Jane Eyre — Chapter 31 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -118,15 +118,3 @@ asked.
 
 “Oh, no! On the contrary, I think in [[Time|time]] I shall get on with my
 scholars very [[Well|well]].”
-
-“But perhaps your accommodations—your cottage—your furniture—have
-disappointed your expectations? They are, in [[Truth|truth]], scanty enough;
-but—” I interrupted—
-
-“My cottage is clean and weather-proof; my furniture sufficient and
-commodious. All I see has made me thankful, not despondent. I am not
-absolutely such a [[Fool|fool]] and sensualist as to regret the absence of a
-carpet, a sofa, and silver plate; besides, five weeks ago I had
-nothing—I was an outcast, a beggar, a vagrant; now I have acquaintance,
-a [[Home|home]], a business. I [[Wonder|wonder]] at the goodness of God; the generosity of
-my friends; the bounty of my lot. I do not repine.”

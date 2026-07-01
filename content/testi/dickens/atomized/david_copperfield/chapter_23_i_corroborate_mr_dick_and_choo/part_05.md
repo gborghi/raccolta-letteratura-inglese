@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 23: I CORROBORATE Mr. DICK, AND CHOOSE A PROFESSION (part 5)"
+title: "David Copperfield — Chapter 23: I CORROBORATE Mr. DICK, AND CHOOSE A PROFESSION (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_23_i_corroborate_mr_dick_and_choo/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_24_my_first_dissipation/part_01">part 01 ›</a></div>
 </nav>
 
+
+It was settled that I should begin my month’s probation as soon as I
+pleased, and that my aunt need neither remain in town nor return at
+its expiration, as the articles of agreement, of which I was to be the
+subject, could easily be sent to her at [[Home|home]] for her signature. When
+we had got so far, Mr. Spenlow offered to take me into [[Court]] then and
+there, and show me what sort of place it was. As I was willing enough
+to know, we went out with this object, leaving my aunt behind; who would
+trust herself, she said, in no such place, and who, I think, regarded
+all Courts of Law as a sort of powder-mills that might blow up at any
+[[Time|time]].
 
 Mr. Spenlow conducted me through a paved courtyard formed of [[Grave|grave]] brick
 houses, which I inferred, from the Doctors’ names upon the doors, to be

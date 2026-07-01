@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 35 (part 6)"
+title: "Bleak House — Chapter 35 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -55,7 +55,7 @@ mine was quite gone from me and that I freely released him from his
 bondage to one whom he had never seen!
 
 Oh, it was so much better as it was! With a great pang mercifully
-spared me, I could take back to my heart my childish [[Prayer|prayer]] to be all
+spared me, I could take back to my heart my childish [[prayer]] to be all
 he had so brightly shown himself; and there was nothing to be undone:
 no chain for me to break or for him to drag; and I could go, please
 God, my lowly way along the path of duty, and he could go his nobler

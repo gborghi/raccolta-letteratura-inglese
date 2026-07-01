@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 13: THE SEQUEL OF MY RESOLUTION (part 6)"
+title: "David Copperfield — Chapter 13: THE SEQUEL OF MY RESOLUTION (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,35 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_13_the_sequel_of_my_resolution/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_13_the_sequel_of_my_resolution/part_07">part 07 ›</a></div>
 </nav>
 
+
+‘Bless and save the man,’ exclaimed my aunt, sharply, ‘how he talks!
+Don’t I know she wouldn’t? She would have lived with her god-mother,
+and we should have been devoted to one another. Where, in the name of
+[[Wonder|wonder]], should his sister, [[Betsey Trotwood]], have run from, or to?’
+
+‘Nowhere,’ said Mr. Dick.
+
+‘[[Well]] then,’ returned my aunt, softened by the reply, ‘how can you
+pretend to be wool-gathering, Dick, when you are as sharp as a surgeon’s
+lancet? Now, here you see young [[David Copperfield]], and the question I
+put to you is, what shall I do with him?’
+
+‘What shall you do with him?’ said Mr. Dick, feebly, scratching his
+head. ‘Oh! do with him?’
+
+‘Yes,’ said my aunt, with a [[Grave|grave]] look, and her forefinger held up.
+‘Come! I want some very sound advice.’
+
+‘Why, if I was you,’ said Mr. Dick, considering, and looking vacantly
+at me, ‘I should--’ The contemplation of me seemed to inspire him with a
+sudden idea, and he added, briskly, ‘I should wash him!’
+
+‘Janet,’ said my aunt, turning round with a quiet triumph, which I did
+not then understand, ‘Mr. Dick sets us all right. Heat the bath!’
+
+Although I was deeply interested in this dialogue, I could not help
+observing my aunt, Mr. Dick, and Janet, while it was in progress, and
+completing a survey I had already been engaged in making of the room.
 
 My aunt was a tall, hard-featured lady, but by no means ill-looking.
 There was an inflexibility in her face, in her voice, in her gait and
@@ -97,22 +126,3 @@ starving, and must receive nourishment at first in very small
 quantities), and, while my mouth was yet open to receive the spoon, she
 would put it back into the basin, cry ‘Janet! Donkeys!’ and go out to
 the assault.
-
-The bath was a great comfort. For I began to be sensible of acute pains
-in my limbs from lying out in the fields, and was now so tired and low
-that I could hardly keep myself awake for five minutes together. When I
-had bathed, they (I mean my aunt and Janet) enrobed me in a shirt and a
-pair of trousers belonging to Mr. Dick, and tied me up in two or three
-great shawls. What sort of bundle I looked like, I don’t know, but I
-felt a very hot one. Feeling also very faint and drowsy, I soon lay down
-on the sofa again and fell asleep.
-
-It might have been [[A Dream|a dream]], originating in the fancy which had occupied
-my mind so long, but I awoke with the impression that my aunt had come
-and bent over me, and had put my hair away from my face, and laid my
-head more comfortably, and had then stood looking at me. The words,
-‘Pretty fellow,’ or ‘Poor fellow,’ seemed to be in my ears, too; but
-certainly there was nothing else, when I awoke, to lead me to believe
-that they had been uttered by my aunt, who sat in the bow-[[Window|window]] gazing
-at the sea from behind the green fan, which was mounted on a kind of
-swivel, and turned any way.

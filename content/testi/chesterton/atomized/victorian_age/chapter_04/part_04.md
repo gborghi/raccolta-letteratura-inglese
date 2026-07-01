@@ -14,6 +14,24 @@ tags:
 </nav>
 
 
+a party, "I am not enjoying myself as I thought I should." But it is
+
+plain that unless one thinks of this idea (and of this idea only) the
+
+expression is not in the least unsuccessful pathos; it is very broad and
+
+highly successful farce. Maeterlinck and the decadents, in short, may
+
+fairly boast of being subtle; but they must not mind if they are called
+
+narrow.
+
+This is the spirit of Wilde's work and of most of the literary work done
+
+in that [[Time|time]] and fashion. It is, as Mr. [[arthur|Arthur]] Symons said, an attitude;
+
+but it is an attitude in the flat, not in the round; not a statue, but
+
 the cardboard [[King|king]] in a toy-theatre, which can only be looked at from
 
 the front. In Wilde's own poetry we have particularly a perpetually
@@ -24,11 +42,7 @@ just going too far. "Plant lilies at my head" has something wrong about
 
 it; something silly that is not there in--
 
-
-
     "And put a grey stone at my head"
-
-
 
 in the old ballad. But even where Wilde was right, he had a way of being
 
@@ -42,15 +56,11 @@ as hostile to the art and civilisation that were his only gods; but ends
 
 by saying--
 
-
-
                                   "And yet
 
     These Christs that die upon the barricades
 
     God knows that I am with them--in some ways."
-
-
 
 Now that is really very true; that is the way a man of wide reading and
 
@@ -77,8 +87,6 @@ cigarette that [[Martyrdom|martyrdom]] is [[Martyrdom|martyrdom]] in some respec
 and mastered all more delicate considerations in the mind. It is unwise
 
 in a poet to goad the sleeping [[Lion|lion]] of laughter.
-
-
 
 In less dexterous hands the decadent idea, what there was of it, went
 
@@ -154,8 +162,6 @@ trace against the grand barbaric forests the sin and the sorrow of
 
 Lancelot.
 
-
-
 To return to the chief of the decadents, I will not speak of the end of
 
 the individual story: there was horror and there was expiation. And, as
@@ -179,29 +185,3 @@ Reading Gaol_; in which we hear a cry for common justice and brotherhood
 very much deeper, more democratic and more true to the real trend of the
 
 populace to-day, than anything the Socialists ever uttered even in the
-
-boldest pages of Bernard [[Shaw]].
-
-
-
-Before we pass on to the two expansive movements in which the Victorian
-
-Age really ended, the accident of a distinguished [[artist]] is available
-
-for estimating this somewhat cool and sad afternoon of the epoch at its
-
-purest; not in lounging pessimism or luxurious aberrations, but in
-
-earnest skill and a high devotion to letters. This change that had come,
-
-like the change from a golden sunset to a grey twilight, can be very
-
-adequately measured if we compare the insight and intricacy of Meredith
-
-with the insight and intricacy of Mr. Henry James. The characters of
-
-both are delicate and indisputable; but we must all have had a feeling
-
-that the characters in Meredith are gods, but that the characters in
-
-Henry James are [[Ghosts|ghosts]]. I do not mean that they are unreal: I believe in

@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 25 (part 2)"
+title: "Oliver Twist — Chapter 25 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_25/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_26/part_01">part 01 ›</a></div>
 </nav>
 
+
+“So I _do_ do as she bids me,” replied Mr. Chitling; “I shouldn’t have
+been milled, if it hadn’t been for her advice. But it turned out a good
+job for you; didn’t it, [[Fagin]]! And what’s six weeks of it? It must
+come, some [[Time|time]] or another, and why not in the [[Winter|winter]] [[Time|time]] when you
+don’t want to go out a-walking so much; eh, [[Fagin]]?”
 
 “Ah, to be sure, my dear,” replied the Jew.
 

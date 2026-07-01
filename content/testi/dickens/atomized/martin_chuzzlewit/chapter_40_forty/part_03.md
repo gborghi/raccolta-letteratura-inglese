@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 40: FORTY (part 3)"
+title: "Martin Chuzzlewit — Chapter 40: FORTY (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -125,6 +125,3 @@ flesh, if not weaker.’
 When she had delivered this oration, Mrs Gamp leaned her chin upon the
 cool iron again; and looking intently at the Antwerp packet, shook her
 head and groaned.
-
-‘I wouldn’t,’ said Mrs Gamp, ‘I wouldn’t be a man and have such a think
-upon my mind!--but nobody as owned the name of man, could do it!’

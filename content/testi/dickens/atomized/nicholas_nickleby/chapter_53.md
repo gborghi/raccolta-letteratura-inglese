@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 53"
+title: "Nicholas Nickleby — Chapter 53"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -17,7 +17,7 @@ tags:
 CHAPTER 53
 
 Containing the further Progress of the Plot contrived by Mr. Ralph
-Nickleby and Mr. [[Arthur]] Gride
+Nickleby and Mr. [[arthur|Arthur]] Gride
 
 
 With that settled resolution, and steadiness of purpose to which extreme
@@ -302,7 +302,7 @@ of men, one of them your destined husband, who are--’
 
 ‘I must not hear this,’ cried the young lady, striving to repress a
 shudder, occasioned, as it seemed, even by this slight allusion to
-[[Arthur]] Gride. ‘This evil, if evil it be, has been of my own seeking. I
+[[arthur|Arthur]] Gride. ‘This evil, if evil it be, has been of my own seeking. I
 am impelled to this course by no one, but follow it of my own free will.
 You see I am not constrained or forced. Report this,’ said [[Madeline]],
 ‘to my dear friend and benefactor, and, taking with you my prayers and
@@ -413,13 +413,13 @@ hurried scene which had just closed upon him, as if it were the [[Phantom|phanto
 of some wild, unquiet dream. The day wore on; at [[Night|night]], having been
 enabled in some measure to collect his thoughts, he issued forth again.
 
-That [[Night|night]], being the last of [[Arthur]] Gride’s bachelorship, found him in
+That [[Night|night]], being the last of [[arthur|Arthur]] Gride’s bachelorship, found him in
 tiptop spirits and great glee. The bottle-green suit had been brushed,
 ready for the morrow. Peg Sliderskew had rendered the accounts of her
 past housekeeping; the eighteen-pence had been rigidly accounted for
 (she was never trusted with a larger sum at once, and the accounts were
 not usually balanced more than twice a day); every preparation had
-been made for the coming festival; and [[Arthur]] might have sat down and
+been made for the coming festival; and [[arthur|Arthur]] might have sat down and
 contemplated his approaching happiness, but that he preferred sitting
 down and contemplating the entries in a dirty old vellum-book with rusty
 clasps.
@@ -430,12 +430,12 @@ shoulder, and slowly drew forth this greasy volume. ‘[[Well]]-a-day now,
 this is all my library, but it’s one of the most entertaining books that
 were ever written! It’s a delightful book, and all true and real--that’s
 the best of it--true as the Bank of England, and real as its gold and
-silver. Written by [[Arthur]] Gride. He, he, he! None of your storybook
+silver. Written by [[arthur|Arthur]] Gride. He, he, he! None of your storybook
 writers will ever make as good a book as this, I warrant me. It’s
 composed for private circulation, for my own particular reading, and
 nobody else’s. He, he, he!’
 
-Muttering this soliloquy, [[Arthur]] carried his precious volume to the
+Muttering this soliloquy, [[arthur|Arthur]] carried his precious volume to the
 table, and, adjusting it upon a dusty desk, put on his spectacles, and
 began to pore among the [[Leaves|leaves]].
 
@@ -459,12 +459,12 @@ that he would have succeeded had he undertaken his enterprise [[Alone|alone]], h
 regained his equanimity, and chattered and mowed over more satisfactory
 items, until the entrance of Peg Sliderskew interrupted him.
 
-‘Aha, Peg!’ said [[Arthur]], ‘what is it? What is it now, Peg?’
+‘Aha, Peg!’ said [[arthur|Arthur]], ‘what is it? What is it now, Peg?’
 
 ‘It’s the fowl,’ replied Peg, holding up a plate containing a little, a
 very little one. Quite a phenomenon of a fowl. So very small and skinny.
 
-‘A beautiful bird!’ said [[Arthur]], after inquiring the price, and finding
+‘A beautiful bird!’ said [[arthur|Arthur]], after inquiring the price, and finding
 it proportionate to the size. ‘With a rasher of ham, and an egg made
 into sauce, and potatoes, and greens, and an apple pudding, Peg, and a
 little bit of [[cheese]], we shall have a dinner for an emperor. There’ll
@@ -474,7 +474,7 @@ only be she and me--and you, Peg, when we’ve done.’
 sulkily.
 
 ‘I am afraid we must live expensively for the first week,’ returned
-[[Arthur]], with a groan, ‘and then we must make up for it. I won’t eat more
+[[arthur|Arthur]], with a groan, ‘and then we must make up for it. I won’t eat more
 than I can help, and I know you [[Love|love]] your old master too much to eat
 more than YOU can help, don’t you, Peg?’
 
@@ -484,7 +484,7 @@ more than YOU can help, don’t you, Peg?’
 
 ‘No, not a bit too much,’ said Peg.
 
-‘Oh, dear, I wish the devil had this woman!’ cried [[Arthur]]: ‘[[Love|love]] him too
+‘Oh, dear, I wish the devil had this woman!’ cried [[arthur|Arthur]]: ‘[[Love|love]] him too
 much to eat more than you can help at his expense.’
 
 ‘At his what?’ said Peg.
@@ -496,15 +496,15 @@ The last-mentioned tribute to the charms of Mrs. Sliderskew being uttered
 in a whisper, that lady assented to the general proposition by a harsh
 growl, which was accompanied by a ring at the street-door.
 
-‘There’s the bell,’ said [[Arthur]].
+‘There’s the bell,’ said [[arthur|Arthur]].
 
 ‘Ay, ay; I know that,’ rejoined Peg.
 
-‘Then why don’t you go?’ bawled [[Arthur]].
+‘Then why don’t you go?’ bawled [[arthur|Arthur]].
 
 ‘Go where?’ retorted Peg. ‘I ain’t doing any harm here, am I?’
 
-[[Arthur]] Gride in reply repeated the word ‘bell’ as loud as he could roar;
+[[arthur|Arthur]] Gride in reply repeated the word ‘bell’ as loud as he could roar;
 and, his meaning being rendered further intelligible to Mrs. Sliderskew’s
 dull sense of hearing by pantomime expressive of ringing at a
 street-door, Peg hobbled out, after sharply demanding why he hadn’t said
@@ -512,7 +512,7 @@ there was a ring before, instead of talking about all manner of things
 that had nothing to do with it, and keeping her half-pint of beer
 waiting on the steps.
 
-‘There’s a change come over you, Mrs. Peg,’ said [[Arthur]], following her
+‘There’s a change come over you, Mrs. Peg,’ said [[arthur|Arthur]], following her
 out with his eyes. ‘What it means I don’t quite know; but, if it lasts,
 we shan’t agree together long I see. You are turning crazy, I think. If
 you are, you must take yourself off, Mrs. Peg--or be taken off. All’s one
@@ -530,7 +530,7 @@ cheek-bones resting on his hands, it only served to bring out his ugly
 features in strong relief, together with the little table at which he
 sat, and to shroud all the rest of the chamber in a deep sullen gloom.
 Raising his eyes, and looking vacantly into this gloom as he made some
-mental calculation, [[Arthur]] Gride suddenly met the fixed gaze of a man.
+mental calculation, [[arthur|Arthur]] Gride suddenly met the fixed gaze of a man.
 
 ‘Thieves! thieves!’ shrieked the usurer, starting up and folding his
 book to his breast. ‘Robbers! Murder!’
@@ -541,7 +541,7 @@ book to his breast. ‘Robbers! Murder!’
 
 ‘For what do you take me, if not for a man?’ was the inquiry.
 
-‘Yes, yes,’ cried [[Arthur]] Gride, shading his eyes with his hand, ‘it is a
+‘Yes, yes,’ cried [[arthur|Arthur]] Gride, shading his eyes with his hand, ‘it is a
 man, and not a spirit. It is a man. Robbers! robbers!’
 
 ‘For what are these cries raised? Unless indeed you know me, and have
@@ -559,7 +559,7 @@ been silently waiting until you should be less abstracted. What I want
 I will tell you, when you can summon up [[Courage|courage]] enough to hear and
 understand me.’
 
-[[Arthur]] Gride, venturing to regard his visitor more attentively, and
+[[arthur|Arthur]] Gride, venturing to regard his visitor more attentively, and
 perceiving that he was a young man of good mien and bearing, returned to
 his seat, and muttering that there were bad characters about, and
 that this, with former attempts upon his [[house]], had made him nervous,
@@ -584,7 +584,7 @@ between you,’ pursued Nicholas. ‘You pay him for his share in bringing
 about this sale of [[Madeline Bray]]. You do. A lie is trembling on your
 lips, I see.’
 
-He paused; but, [[Arthur]] making no reply, resumed again.
+He paused; but, [[arthur|Arthur]] making no reply, resumed again.
 
 ‘You pay yourself by defrauding her. How or by what means--for I scorn
 to sully her cause by falsehood or deceit--I do not know; at present I
@@ -595,7 +595,7 @@ track you through your windings; you will yet be called to a dear
 account for this. We are on the scent already; judge you, who know what
 we do not, when we shall have you down!’
 
-He paused again, and still [[Arthur]] Gride glared upon him in [[Silence|silence]].
+He paused again, and still [[arthur|Arthur]] Gride glared upon him in [[Silence|silence]].
 
 ‘If you were a man to whom I could appeal with any [[Hope|hope]] of touching
 his compassion or humanity,’ said Nicholas, ‘I would urge upon you to
@@ -608,7 +608,7 @@ to which you are exposed. You see I know enough to know much more with
 very little help. Bate some expected gain for the risk you save, and say
 what is your price.’
 
-Old [[Arthur]] Gride moved his lips, but they only formed an ugly smile and
+Old [[arthur|Arthur]] Gride moved his lips, but they only formed an ugly smile and
 were motionless again.
 
 ‘You think,’ said Nicholas, ‘that the price would not be paid. Miss Bray
@@ -617,7 +617,7 @@ a strait as this. Name your price, defer these nuptials for but a few
 days, and see whether those I speak of, shrink from the payment. Do you
 hear me?’
 
-When Nicholas began, [[Arthur]] Gride’s impression was, that [[Ralph Nickleby]]
+When Nicholas began, [[arthur|Arthur]] Gride’s impression was, that [[Ralph Nickleby]]
 had betrayed him; but, as he proceeded, he felt convinced that however
 he had come by the knowledge he possessed, the part he acted was a
 genuine one, and that with Ralph he had no concern. All he seemed to
@@ -630,7 +630,7 @@ accusation. Whether or no, he had clearly no key to the mystery, and
 could not hurt him who kept it close within his own breast. The
 allusion to friends, and the offer of money, Gride held to be mere empty
 vapouring, for purposes of delay. ‘And even if money were to be had,’
-thought [[Arthur]] Gride, as he glanced at Nicholas, and trembled with
+thought [[arthur|Arthur]] Gride, as he glanced at Nicholas, and trembled with
 passion at his boldness and audacity, ‘I’d have that dainty chick for my
 wife, and cheat YOU of her, young smooth-face!’
 
@@ -665,13 +665,13 @@ weep, I shan’t mind it. She looks prettier in [[Tears|tears]].’
 
 ‘[[Villain]]!’ said Nicholas, choking with his rage.
 
-‘One minute more,’ cried [[Arthur]] Gride, ‘and I’ll rouse the street with
+‘One minute more,’ cried [[arthur|Arthur]] Gride, ‘and I’ll rouse the street with
 such screams, as, if they were raised by anybody else, should wake me
 even in the arms of pretty [[Madeline]].’
 
 ‘You hound!’ said Nicholas. ‘If you were but a younger man--’
 
-‘Oh yes!’ sneered [[Arthur]] Gride, ‘If I was but a younger man it wouldn’t
+‘Oh yes!’ sneered [[arthur|Arthur]] Gride, ‘If I was but a younger man it wouldn’t
 be so bad; but for me, so old and ugly! To be jilted by little [[Madeline]]
 for me!’
 
@@ -681,19 +681,19 @@ doing if I once grappled with you. I have been no [[Lover|lover]] of this lady�
 No contract or engagement, no word of [[Love|love]], has ever passed between us.
 She does not even know my name.’
 
-‘I’ll ask it for all that. I’ll beg it of her with kisses,’ said [[Arthur]]
+‘I’ll ask it for all that. I’ll beg it of her with kisses,’ said [[arthur|Arthur]]
 Gride. ‘Yes, and she’ll tell me, and pay them back, and we’ll laugh
 together, and hug ourselves, and be very merry, when we think of the
 poor youth that wanted to have her, but couldn’t because she was bespoke
 by me!’
 
 This taunt brought such an expression into the face of Nicholas, that
-[[Arthur]] Gride plainly apprehended it to be the forerunner of his putting
+[[arthur|Arthur]] Gride plainly apprehended it to be the forerunner of his putting
 his threat of throwing him into the street in immediate execution; for
 he thrust his head out of the [[Window|window]], and holding tight on with both
 hands, raised a pretty brisk alarm. Not thinking it necessary to abide
 the issue of the noise, Nicholas gave vent to an indignant defiance,
-and stalked from the room and from the [[house]]. [[Arthur]] Gride watched him
+and stalked from the room and from the [[house]]. [[arthur|Arthur]] Gride watched him
 across the street, and then, drawing in his head, fastened the [[Window|window]] as
 before, and sat down to take breath.
 
@@ -707,7 +707,7 @@ perhaps drown himself or cut his throat! I shouldn’t [[Wonder|wonder]]! That w
 make it quite complete, that would: quite.’
 
 When he had become restored to his usual condition by these and other
-comments on his approaching triumph, [[Arthur]] Gride put away his book,
+comments on his approaching triumph, [[arthur|Arthur]] Gride put away his book,
 and, having locked the chest with great caution, descended into the
 kitchen to warn Peg Sliderskew to bed, and scold her for having afforded
 such ready admission to a stranger.
@@ -717,7 +717,7 @@ of which she had been guilty, he summoned her to hold the light, while
 he made a tour of the fastenings, and secured the street-door with his
 own hands.
 
-‘Top bolt,’ muttered [[Arthur]], fastening as he spoke, ‘[[Bottom|bottom]] bolt, chain,
+‘Top bolt,’ muttered [[arthur|Arthur]], fastening as he spoke, ‘[[Bottom|bottom]] bolt, chain,
 bar, [[Double|double]] lock, and key out to put under my pillow! So, if any more
 rejected admirers come, they may come through the keyhole. And now I’ll
 go to [[Sleep|sleep]] till half-past five, when I must get up to be married, Peg!’

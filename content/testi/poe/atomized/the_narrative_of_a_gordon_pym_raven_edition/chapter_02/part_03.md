@@ -14,6 +14,14 @@ tags:
 </nav>
 
 
+      narrow passages, to an iron-bound box, such as is used sometimes
+
+      for packing fine earthenware. It was nearly four feet high, and
+
+      full six long, but very narrow. Two large empty oil-casks lay on
+
+      the top of it, and above these, again, a vast quantity of straw
+
       matting, piled up as high as the floor of the cabin. In every
 
       other direction around was wedged as closely as possible, even up
@@ -187,13 +195,3 @@ tags:
       down, and there were, consequently, no means of determining how
 
       long I slept. My limbs were greatly cramped, and I was forced to
-
-      relieve them by standing between the crates. Presently feeling an
-
-      almost ravenous appetite, I bethought myself of the cold mutton,
-
-      some of which I had eaten just before going to [[Sleep|sleep]], and found
-
-      excellent. What was my astonishment in discovering it to be in a
-
-      state of absolute putrefaction! This circumstance occasioned me

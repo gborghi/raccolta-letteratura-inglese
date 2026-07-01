@@ -14,6 +14,18 @@ tags:
 </nav>
 
 
+      quite dark, and it began to cloud up, so that we were again in
+
+      the greatest agony lest it should come on to blow hard, in which
+
+      event nothing could have saved us from perishing, exhausted as we
+
+      were. By good fortune it continued very moderate during the
+
+      [[Night|night]], the sea subsiding every minute, which gave us great hopes
+
+      of ultimate preservation. A gentle breeze still blew from the N.
+
       W., but the weather was not at all cold. Augustus was lashed
 
       carefully to windward in such a manner as to prevent him from

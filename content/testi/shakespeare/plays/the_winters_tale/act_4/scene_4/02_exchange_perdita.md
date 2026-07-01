@@ -1,5 +1,5 @@
 ---
-title: "The Winters Tale — Act IV, Scene 4 — exchange ([[Perdita|PERDITA]]) [2]"
+title: "The Winters Tale — Act IV, Scene 4 — exchange (PERDITA) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-winter’s-tale-(shakespeare)"

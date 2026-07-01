@@ -1,5 +1,5 @@
 ---
-title: "[[CharlesDickens]] — Chapter 8 (part 5)"
+title: "CharlesDickens — Chapter 8 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/charlesdickens-(chesterton)"
@@ -13,6 +13,27 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/charlesdickens/chapter_11/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/charlesdickens/chapter_11/part_06">part 06 ›</a></div>
 </nav>
 
+
+There are other effective things in "[[David Copperfield]];" they are
+not all autobiographical, but they nearly all have this new note
+of quietude and reality.  Micawber is gigantic; an immense assertion
+of the [[Truth|truth]] that the way to live is to exaggerate everything.
+But of him I shall have to speak more fully in another connection.
+Mrs. Micawber, artistically speaking, is even better.  She is very
+nearly the best thing in Dickens.  Nothing could be more absurd,
+and at the same [[Time|time]] more true, than her clear argumentative manner
+of speech as she sits smiling and expounding in the midst of ruin.
+What could be more lucid and logical and unanswerable than her
+statement of the prolegomena of the Medway problem, of which
+the first step must be to "see the Medway," or of the coal-trade,
+which required talent and capital.  "Talent Mr. Micawber has.
+Capital Mr. Micawber has not."  It seems as if something should have come
+at last out of so clear and scientific an arrangement of the ideas.
+Indeed if (as has been suggested) we regard "[[David Copperfield]]"
+as an unconscious defence of the poetic view of life, we might regard
+Mrs. Micawber as an unconscious [[Satire|satire]] on the logical view of life.
+She sits as a monument of the hopelessness and helplessness of reason
+in the face of this romantic and unreasonable world.
 
 As I have taken "Dombey and Son" as the book before
 the transition, and "[[David Copperfield]]" as typical of
@@ -93,34 +114,3 @@ as a variant on the pious mask of Pecksniff or the candid mask
 of Bagstock.  He may never once have had the unfriendly thought,
 "Suppose Hunt behaved like a rascal!" he may have only had
 the fanciful thought, "Suppose a rascal behaved like Hunt!"
-
-But there is a good reason for mentioning Skimpole especially.
-In the character of Skimpole, Dickens displayed again
-a quality that was very admirable in him--I mean a disposition
-to see things sanely and to satirise even his own faults.
-He was commonly occupied in satirising the Gradgrinds,
-the economists, the men of Smiles and [[Self]]-Help. For him
-there was nothing poorer than their wealth, nothing more
-selfish than their [[Self|self]]-denial. And against them he was in
-the habit of pitting the people of a more expansive habit--
-the happy Swivellers and Micawbers, who, if they were poor,
-were at least as rich as their last penny could make them.
-He loved that great Christian carelessness that seeks its meat
-from God.  It was merely a kind of uncontrollable honesty that
-forced him into urging the other side.  He could not disguise from
-himself or from the world that man who began by seeking his meat
-from his neighbour without apprising his neighbour of the fact.
-He had shown how good irresponsibility could be; he could
-not stoop to hide how bad it could be.  He created Skimpole;
-and Skimpole is the dark underside of Micawber.
-
-In attempting Skimpole he attempted something with a great
-and urgent meaning.  He attempted it, I say; I do not assert
-that he carried it through.  As has been remarked, he was never
-successful in describing psychological change; his characters
-are the same yesterday, to-day, and for ever.  And critics
-have complained very justly of the crude villainy of Skimpole's
-action in the matter of Joe and Mr. Bucket.  Certainly Skimpole
-had no need to commit a clumsy treachery to win a clumsy bribe;
-he had only to call on Mr. Jarndyce.  He had lost his [[Honour|honour]]
-too long to need to sell it.

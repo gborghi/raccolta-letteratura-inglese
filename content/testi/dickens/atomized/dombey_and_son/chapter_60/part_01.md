@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 4 (part 1)"
+title: "Dombey and Son — Chapter 32 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -10,113 +10,121 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/dombey-and-son-(dickens)">Dombey and Son</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_59/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_60/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_59/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_60/part_02">part 02 ›</a></div>
 </nav>
 
 
-CHAPTER IV.
-In which some more First Appearances are made on the Stage of these
-Adventures
+CHAPTER XXXII.
+The Wooden Midshipman goes to Pieces
 
 
-Though the offices of Dombey and Son were within the liberties of the
-[[City]] of [[London]], and within hearing of Bow [[Bells]], when their clashing
-voices were not drowned by the uproar in the streets, yet were there
-hints of adventurous and romantic story to be observed in some of the
-adjacent objects. Gog and Magog held their state within ten minutes’
-walk; the Royal Exchange was close at hand; the Bank of England, with
-its vaults of gold and silver “down among the dead men” underground,
-was their magnificent neighbour. Just round the corner stood the rich
-East India [[house|House]], teeming with suggestions of precious stuffs and
-stones, tigers, elephants, howdahs, hookahs, umbrellas, palm trees,
-palanquins, and gorgeous princes of a brown complexion sitting on
-carpets, with their slippers very much turned up at the toes. Anywhere
-in the immediate vicinity there might be seen pictures of ships
-speeding away full sail to all parts of the world; outfitting
-warehouses ready to pack off anybody anywhere, fully equipped in half
-an hour; and little timber midshipmen in obsolete naval uniforms,
-eternally employed outside the shop doors of nautical Instrument-makers
-in taking observations of the hackney carriages.
+Honest [[Captain Cuttle]], as the weeks flew over him in his fortified
+retreat, by no means abated any of his prudent provisions against
+surprise, because of the non-appearance of the enemy. The Captain
+argued that his present security was too profound and wonderful to
+endure much longer; he knew that when the [[Wind|wind]] stood in a fair quarter,
+the weathercock was seldom nailed there; and he was too [[Well|well]] acquainted
+with the determined and dauntless character of Mrs MacStinger, to [[Doubt|doubt]]
+that that heroic woman had devoted herself to the task of his discovery
+and capture. Trembling beneath the weight of these reasons, Captain
+Cuttle lived a very close and retired life; seldom stirring abroad
+until after dark; venturing even then only into the obscurest streets;
+never going forth at all on Sundays; and both within and without the
+walls of his retreat, avoiding bonnets, as if they were worn by raging
+lions.
 
-Sole master and proprietor of one of these effigies—of that which might
-be called, familiarly, the woodenest—of that which thrust itself out
-above the pavement, right leg foremost, with a suavity the least
-endurable, and had the shoe buckles and flapped waistcoat the least
-reconcileable to human reason, and bore at its right eye the most
-offensively disproportionate piece of machinery—sole master and
-proprietor of that Midshipman, and proud of him too, an elderly
-gentleman in a Welsh wig had paid [[house]]-rent, taxes, rates, and dues,
-for more years than many a full-grown midshipman of flesh and [[Blood|blood]] has
-numbered in his life; and midshipmen who have attained a pretty green
-old age, have not been wanting in the English Navy.
+The Captain never dreamed that in the event of his being pounced upon
+by Mrs MacStinger, in his walks, it would be possible to offer
+resistance. He felt that it could not be done. He saw himself, in his
+mind’s eye, put meekly in a hackney-coach, and carried off to his old
+lodgings. He foresaw that, once immured there, he was a lost man: his
+hat gone; Mrs MacStinger watchful of him day and [[Night|night]]; reproaches
+heaped upon his head, before the infant family; himself the guilty
+object of suspicion and distrust; an ogre in the children’s eyes, and
+in their mother’s a detected traitor.
 
-The stock-in-trade of this old gentleman comprised chronometers,
-barometers, telescopes, compasses, charts, maps, sextants, quadrants,
-and specimens of every kind of instrument used in the working of a
-[[Ship|ship]]’s course, or the keeping of a [[Ship|ship]]’s reckoning, or the prosecuting
-of a [[Ship|ship]]’s discoveries. Objects in brass and glass were in his drawers
-and on his shelves, which none but the initiated could have found the
-top of, or guessed the use of, or having once examined, could have ever
-got back again into their mahogany nests without assistance. Everything
-was jammed into the tightest cases, fitted into the narrowest corners,
-fenced up behind the most impertinent cushions, and screwed into the
-acutest angles, to prevent its philosophical composure from being
-disturbed by the [[rolling]] of the sea. Such extraordinary precautions
-were taken in every instance to save room, and keep the thing compact;
-and so much practical navigation was fitted, and cushioned, and screwed
-into every box (whether the box was a mere slab, as some were, or
-something between a cocked hat and a star-fish, as others were, and
-those quite mild and modest boxes as compared with others); that the
-shop itself, partaking of the general infection, seemed almost to
-become a snug, sea-going, [[Ship|ship]]-shape concern, wanting only good
-sea-room, in the event of an unexpected launch, to work its way
-securely to any [[Desert|desert]] island in the world.
+A violent perspiration, and a lowness of spirits, always came over the
+Captain as this gloomy picture presented itself to his [[Imagination|imagination]]. It
+generally did so previous to his stealing out of doors at [[Night|night]] for air
+and exercise. Sensible of the risk he ran, the Captain took leave of
+Rob, at those times, with the solemnity which became a man who might
+never return: exhorting him, in the event of his (the Captain’s) being
+lost sight of, for a [[Time|time]], to tread in the paths of virtue, and keep
+the brazen instruments [[Well|well]] polished.
 
-Many minor incidents in the household life of the Ships’
-Instrument-maker who was proud of his little Midshipman, assisted and
-bore out this fancy. His acquaintance lying chiefly among
-[[Ship|ship]]-chandlers and so forth, he had always plenty of the veritable
-ships’ biscuit on his table. It was familiar with dried meats and
-tongues, possessing an extraordinary flavour of rope yarn. Pickles were
-produced upon it, in great wholesale jars, with “dealer in all kinds of
-Ships’ Provisions” on the label; spirits were set forth in case bottles
-with no throats. Old prints of ships with alphabetical references to
-their various mysteries, hung in frames upon the walls; the Tartar
-Frigate under weigh, was on the plates; outlandish shells, seaweeds,
-and mosses, decorated the chimney-piece; the little wainscotted back
-parlour was lighted by a sky-light, like a cabin.
+But not to throw away a chance; and to secure to himself a means, in
+case of the worst, of holding communication with the external world;
+[[Captain Cuttle]] soon conceived the happy idea of teaching Rob the
+Grinder some secret signal, by which that adherent might make his
+presence and fidelity known to his commander, in the hour of adversity.
+After much cogitation, the Captain decided in favour of instructing him
+to whistle the marine melody, “Oh cheerily, cheerily!” and Rob the
+Grinder attaining a point as near perfection in that accomplishment as
+a landsman could [[Hope|hope]] to reach, the Captain impressed these mysterious
+instructions on his mind:
 
-Here he lived too, in skipper-like state, all [[Alone|alone]] with his nephew
-Walter: a boy of fourteen who looked quite enough like a midshipman, to
-carry out the prevailing idea. But there it ended, for [[Solomon Gills]]
-himself (more generally called old Sol) was far from having a maritime
-appearance. To say nothing of his Welsh wig, which was as plain and
-stubborn a Welsh wig as ever was worn, and in which he looked like
-anything but a Rover, he was a slow, quiet-spoken, thoughtful old
-fellow, with eyes as red as if they had been small suns looking at you
-through a fog; and a newly-awakened manner, such as he might have
-acquired by having stared for three or four days successively through
-every optical instrument in his shop, and suddenly came back to the
-world again, to find it green. The only change ever known in his
-outward man, was from a complete suit of coffee-colour cut very square,
-and ornamented with glaring buttons, to the same suit of coffee-colour
-minus the inexpressibles, which were then of a pale nankeen. He wore a
-very precise shirt-frill, and carried a pair of first-rate spectacles
-on his forehead, and a tremendous chronometer in his fob, rather than
-[[Doubt|doubt]] which precious possession, he would have believed in a conspiracy
-against it on part of all the clocks and watches in the [[City]], and even
-of the very Sun itself. Such as he was, such he had been in the shop
-and parlour behind the little Midshipman, for years upon years; going
-regularly aloft to bed every [[Night|night]] in a howling garret remote from the
-lodgers, where, when gentlemen of England who lived below at ease had
-little or no idea of the state of the weather, it often blew great
-guns.
+“Now, my lad, stand by! If ever I’m took—”
 
-It is half-past five o’[[Clock|clock]], and an [[Autumn|autumn]] afternoon, when the reader
-and [[Solomon Gills]] become acquainted. [[Solomon Gills]] is in the act of
-seeing what [[Time|time]] it is by the unimpeachable chronometer. The usual
-daily clearance has been making in the [[City]] for an hour or more; and
-the human tide is still [[rolling]] westward. “The streets have thinned,”
-as Mr Gills says, “very much.” It threatens to be wet tonight. All the
-weatherglasses in the shop are in low spirits, and the rain already
-shines upon the cocked hat of the wooden Midshipman.
+“Took, Captain!” interposed Rob, with his round eyes wide open.
+
+“Ah!” said [[Captain Cuttle]] darkly, “if ever I goes away, meaning to come
+back to supper, and don’t come within hail again, twenty-four hours
+arter my loss, go you to Brig Place and whistle that “ere tune near my
+old moorings—not as if you was a meaning of it, you understand, but as
+if you’d drifted there, promiscuous. If I answer in that tune, you
+sheer off, my lad, and come back four-and-twenty hours arterwards; if I
+answer in another tune, do you stand off and on, and wait till I throw
+out further signals. Do you understand them orders, now?”
+
+“What am I to stand off and on of, Captain?” inquired Rob. “The
+[[Horse|horse]]-[[Road|road]]?”
+
+“Here’s a smart lad for you!” cried the Captain eyeing him sternly, “as
+don’t know his own native alphabet! Go away a bit and come back again
+alternate—d’ye understand that?”
+
+“Yes, Captain,” said Rob.
+
+“Very good my lad, then,” said the Captain, relenting. “Do it!”
+
+That he might do it the better, [[Captain Cuttle]] sometimes condescended,
+of an evening after the shop was shut, to rehearse this scene: retiring
+into the parlour for the purpose, as into the lodgings of a
+supposititious MacStinger, and carefully observing the behaviour of his
+ally, from the hole of espial he had cut in the wall. Rob the Grinder
+discharged himself of his duty with so much exactness and judgment,
+when thus put to the proof, that the Captain presented him, at divers
+times, with seven sixpences, in token of satisfaction; and gradually
+felt stealing over his spirit the [[Resignation|resignation]] of a man who had made
+provision for the worst, and taken every reasonable precaution against
+an unrelenting fate.
+
+Nevertheless, the Captain did not tempt ill-fortune, by being a whit
+more venturesome than before. Though he considered it a point of good
+breeding in himself, as a general friend of the family, to attend Mr
+Dombey’s wedding (of which he had heard from Mr Perch), and to show
+that gentleman a pleasant and approving countenance from the gallery,
+he had repaired to the church in a hackney cabriolet with both windows
+up; and might have scrupled even to make that venture, in his dread of
+Mrs MacStinger, but that the lady’s attendance on the ministry of the
+Reverend Melchisedech rendered it peculiarly unlikely that she would be
+found in communion with the Establishment.
+
+The Captain got safe [[Home|home]] again, and fell into the ordinary routine of
+his new life, without encountering any more direct alarm from the
+enemy, than was suggested to him by the daily bonnets in the street.
+But other subjects began to lay heavy on the Captain’s mind. Walter’s
+[[Ship|ship]] was still unheard of. No news came of old Sol Gills. Florence did
+not even know of the old man’s disappearance, and [[Captain Cuttle]] had
+not the heart to tell her. Indeed the Captain, as his own hopes of the
+generous, handsome, gallant-hearted youth, whom he had loved, according
+to his rough manner, from a [[Child|child]], began to fade, and faded more and
+more from day to day, shrunk with instinctive [[Pain|pain]] from the thought of
+exchanging a word with Florence. If he had had good news to carry to
+her, the honest Captain would have braved the newly decorated [[house]] and
+splendid furniture—though these, connected with the lady he had seen at
+church, were awful to him—and made his way into her presence. With a
+dark horizon gathering around their common hopes, however, that
+darkened every hour, the Captain almost felt as if he were a new
+misfortune and affliction to her; and was scarcely less afraid of a
+visit from Florence, than from Mrs MacStinger herself.

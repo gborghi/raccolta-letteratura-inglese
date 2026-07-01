@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 5"
+title: "Dombey and Son — Chapter 33"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,857 +14,599 @@ tags:
 </nav>
 
 
-CHAPTER V.
-Paul’s Progress and Christening
-
-
-Little Paul, [[Suffering|suffering]] no contamination from the [[Blood|blood]] of the Toodles,
-grew stouter and stronger every day. Every day, too, he was more and
-more ardently cherished by Miss Tox, whose devotion was so far
-appreciated by Mr Dombey that he began to regard her as a woman of
-great natural good sense, whose feelings did her credit and deserved
-encouragement. He was so lavish of this condescension, that he not only
-bowed to her, in a particular manner, on several occasions, but even
-entrusted such stately recognitions of her to his sister as “pray tell
-your friend, Louisa, that she is very good,” or “mention to Miss Tox,
-Louisa, that I am obliged to her;” specialities which made a deep
-impression on the lady thus distinguished.
-
-Whether Miss Tox conceived that having been selected by the Fates to
-welcome the little Dombey before he was born, in Kirby, Beard and
-Kirby’s Best Mixed Pins, it therefore naturally devolved upon her to
-greet him with all other forms of welcome in all other early stages of
-his existence—or whether her overflowing goodness induced her to
-volunteer into the domestic militia as a substitute in some sort for
-his deceased Mama—or whether she was conscious of any other motives—are
-questions which in this stage of the Firm’s [[history]] herself only could
-have solved. Nor have they much bearing on the fact (of which there is
-no [[Doubt|doubt]]), that Miss Tox’s constancy and zeal were a heavy
-discouragement to Richards, who lost flesh hourly under her patronage,
-and was in some danger of being superintended to [[Death|death]].
-
-Miss Tox was often in the habit of assuring Mrs Chick, that nothing
-could exceed her interest in all connected with the development of that
-sweet [[Child|child]]; and an observer of Miss Tox’s proceedings might have
-inferred so much without declaratory confirmation. She would preside
-over the [[Innocent|innocent]] repasts of the young heir, with ineffable
-satisfaction, almost with an air of joint proprietorship with Richards
-in the entertainment. At the little ceremonies of the bath and
-toilette, she assisted with enthusiasm. The administration of infantine
-doses of physic awakened all the active sympathy of her character; and
-being on one occasion secreted in a cupboard (whither she had fled in
-modesty), when Mr Dombey was introduced into the nursery by his sister,
-to behold his son, in the course of preparation for bed, taking a short
-walk uphill over Richards’s gown, in a short and airy linen jacket,
-Miss Tox was so transported beyond the ignorant present as to be unable
-to refrain from crying out, “Is he not beautiful Mr Dombey! Is he not a
-Cupid, Sir!” and then almost sinking behind the closet door with
-confusion and blushes.
-
-“Louisa,” said Mr Dombey, one day, to his sister, “I really think I
-must present your friend with some little token, on the occasion of
-Paul’s christening. She has exerted herself so warmly in the [[Child|child]]’s
-behalf from the first, and seems to understand her position so
-thoroughly (a very rare merit in this world, I am sorry to say), that
-it would really be agreeable to me to notice her.”
-
-Let it be no detraction from the merits of Miss Tox, to hint that in Mr
-Dombey’s eyes, as in some others that occasionally see the light, they
-only achieved that mighty piece of knowledge, the understanding of
-their own position, who showed a fitting reverence for his. It was not
-so much their merit that they knew themselves, as that they knew him,
-and bowed low before him.
-
-“My dear Paul,” returned his sister, “you do Miss Tox but justice, as a
-man of your penetration was sure, I knew, to do. I believe if there are
-three words in the English language for which she has a respect
-amounting almost to veneration, those words are, Dombey and Son.”
-
-“[[Well]],” said Mr Dombey, “I believe it. It does Miss Tox credit.”
-
-“And as to anything in the shape of a token, my dear Paul,” pursued his
-sister, “all I can say is that anything you give Miss Tox will be
-hoarded and prized, I am sure, like a relic. But there is a way, my
-dear Paul, of showing your sense of Miss Tox’s friendliness in a still
-more flattering and acceptable manner, if you should be so inclined.”
-
-“How is that?” asked Mr Dombey.
-
-“Godfathers, of course,” continued Mrs Chick, “are important in point
-of connexion and influence.”
-
-“I don’t know why they should be, to my son,” said Mr Dombey, coldly.
-
-“Very true, my dear Paul,” retorted Mrs Chick, with an extraordinary
-show of animation, to cover the suddenness of her [[Conversion|conversion]]; “and
-spoken like yourself. I might have expected nothing else from you. I
-might have known that such would have been your opinion. Perhaps;” here
-Mrs Chick faltered again, as not quite comfortably feeling her way;
-“perhaps that is a reason why you might have the less objection to
-allowing Miss Tox to be godmother to the dear thing, if it were only as
-deputy and proxy for someone else. That it would be received as a great
-[[Honour|honour]] and distinction, Paul, I need not say.”
-
-“Louisa,” said Mr Dombey, after a short pause, “it is not to be
-supposed—”
-
-“Certainly not,” cried Mrs Chick, hastening to anticipate a refusal, “I
-never thought it was.”
-
-Mr Dombey looked at her impatiently.
-
-“Don’t flurry me, my dear Paul,” said his sister; “for that destroys
-me. I am far from strong. I have not been quite myself, since poor dear
-Fanny departed.”
-
-Mr Dombey glanced at the pocket-handkerchief which his sister applied
-to her eyes, and resumed:
-
-“It is not be supposed, I say—”
-
-“And I say,” murmured Mrs Chick, “that I never thought it was.”
-
-“Good Heaven, Louisa!” said Mr Dombey.
-
-“No, my dear Paul,” she remonstrated with tearful dignity, “I must
-really be allowed to speak. I am not so clever, or so reasoning, or so
-eloquent, or so anything, as you are. I know that very [[Well|well]]. So much
-the worse for me. But if they were the last words I had to utter—and
-last words should be very solemn to you and me, Paul, after poor dear
-Fanny—I would still say I never thought it was. And what is more,”
-added Mrs Chick with increased dignity, as if she had withheld her
-crushing argument until now, “I never did think it was.”
-
-Mr Dombey walked to the [[Window|window]] and back again.
-
-“It is not to be supposed, Louisa,” he said (Mrs Chick had nailed her
-colours to the mast, and repeated “I know it isn’t,” but he took no
-notice of it), “but that there are many persons who, supposing that I
-recognised any claim at all in such a case, have a claim upon me
-superior to Miss Tox’s. But I do not. I recognise no such thing. Paul
-and myself will be able, when the [[Time|time]] comes, to hold our own—the
-[[house|House]], in other words, will be able to hold its own, and maintain its
-own, and hand down its own of itself, and without any such common-place
-aids. The kind of foreign help which people usually seek for their
-children, I can afford to despise; being above it, I [[Hope|hope]]. So that
-Paul’s infancy and [[Childhood|childhood]] pass away [[Well|well]], and I see him becoming
-qualified without waste of [[Time|time]] for the career on which he is destined
-to enter, I am satisfied. He will make what powerful friends he pleases
-in after-life, when he is actively maintaining—and extending, if that
-is possible—the dignity and credit of the Firm. Until then, I am enough
-for him, perhaps, and all in all. I have no wish that people should
-step in between us. I would much rather show my sense of the obliging
-conduct of a deserving person like your friend. Therefore let it be so;
-and your husband and myself will do [[Well|well]] enough for the other sponsors,
-I daresay.”
-
-In the course of these remarks, delivered with great majesty and
-grandeur, Mr Dombey had truly revealed the secret feelings of his
-breast. An indescribable distrust of anybody stepping in between
-himself and his son; a haughty dread of having any rival or partner in
-the boy’s respect and deference; a sharp misgiving, recently acquired,
-that he was not infallible in his power of bending and binding human
-wills; as sharp a [[Jealousy|jealousy]] of any second check or [[Cross|cross]]; these were, at
-that [[Time|time]] the master keys of his [[Soul|soul]]. In all his life, he had never
-made a friend. His cold and distant [[Nature|nature]] had neither sought one, nor
-found one. And now, when that [[Nature|nature]] concentrated its whole force so
-strongly on a partial scheme of parental interest and [[Ambition|ambition]], it
-seemed as if its icy current, instead of being released by this
-influence, and running clear and free, had thawed for but an instant to
-admit its burden, and then frozen with it into one unyielding block.
-
-Elevated thus to the godmothership of little Paul, in virtue of her
-insignificance, Miss Tox was from that hour chosen and appointed to
-office; and Mr Dombey further signified his pleasure that the ceremony,
-already long delayed, should take place without further postponement.
-His sister, who had been far from anticipating so signal a [[success]],
-withdrew as soon as she could, to communicate it to her best of
-friends; and Mr Dombey was left [[Alone|alone]] in his library. He had already
-laid his hand upon the bellrope to convey his usual summons to
-Richards, when his eye fell upon a writing-desk, belonging to his
-deceased wife, which had been taken, among other things, from a cabinet
-in her chamber. It was not the first [[Time|time]] that his eye had lighted on
-it He carried the key in his pocket; and he brought it to his table and
-opened it now—having previously locked the room door—with a
-[[Well|well]]-accustomed hand.
-
-From beneath a leaf of torn and cancelled scraps of paper, he took one
-letter that remained entire. Involuntarily holding his breath as he
-opened this document, and “bating in the stealthy action something of
-his arrogant demeanour, he sat down, resting his head upon one hand,
-and read it through.
-
-He read it slowly and attentively, and with a nice particularity to
-every syllable. Otherwise than as his great deliberation seemed
-unnatural, and perhaps the result of an effort equally great, he
-allowed no sign of emotion to escape him. When he had read it through,
-he folded and refolded it slowly several times, and tore it carefully
-into fragments. Checking his hand in the act of throwing these away, he
-put them in his pocket, as if unwilling to trust them even to the
-chances of being re-united and deciphered; and instead of ringing, as
-usual, for little Paul, he sat solitary, all the evening, in his
-cheerless room.
-
-There was anything but [[Solitude|solitude]] in the nursery; for there, Mrs Chick
-and Miss Tox were enjoying a social evening, so much to the disgust of
-Miss [[Susan Nipper]], that that young lady embraced every opportunity of
-making wry faces behind the door. Her feelings were so much excited on
-the occasion, that she found it indispensable to afford them this
-relief, even without having the comfort of any audience or sympathy
-whatever. As the knight-errants of old relieved their minds by carving
-their mistress’s names in deserts, and wildernesses, and other savage
-places where there was no probability of there ever being anybody to
-read them, so did Miss [[Susan Nipper]] curl her snub nose into drawers and
-wardrobes, put away winks of disparagement in cupboards, shed derisive
-squints into stone pitchers, and contradict and call names out in the
-passage.
-
-The two interlopers, however, blissfully unconscious of the young
-lady’s sentiments, saw little Paul safe through all the stages of
-undressing, airy exercise, supper and bed; and then sat down to tea
-before the [[Fire|fire]]. The two children now lay, through the good offices of
-Polly, in one room; and it was not until the ladies were established at
-their tea-table that, happening to look towards the little beds, they
-thought of Florence.
-
-“How sound she sleeps!” said Miss Tox.
-
-“Why, you know, my dear, she takes a great deal of exercise in the
-course of the day,” returned Mrs Chick, “playing about little Paul so
-much.”
-
-“She is a curious [[Child|child]],” said Miss Tox.
-
-“My dear,” retorted Mrs Chick, in a low voice: “Her Mama, all over!”
-
-“In-deed!” said Miss Tox. “Ah dear me!”
-
-A tone of most extraordinary compassion Miss Tox said it in, though she
-had no distinct idea why, except that it was expected of her.
-
-“Florence will never, never, never be a Dombey,” said Mrs Chick, “not
-if she lives to be a thousand years old.”
-
-Miss Tox elevated her eyebrows, and was again full of commiseration.
-
-“I quite fret and worry myself about her,” said Mrs Chick, with a sigh
-of modest merit. “I really don’t see what is to become of her when she
-grows older, or what position she is to take. She don’t gain on her
-Papa in the least. How can one expect she should, when she is so very
-unlike a Dombey?”
-
-Miss Tox looked as if she saw no way out of such a cogent argument as
-that, at all.
-
-“And the [[Child|child]], you see,” said Mrs Chick, in deep confidence, “has poor
-dear Fanny’s [[Nature|nature]]. She’ll never make an effort in after-life, I’ll
-venture to say. Never! She’ll never [[Wind|wind]] and twine herself about her
-Papa’s heart like—”
-
-“Like the ivy?” suggested Miss Tox.
-
-“Like the ivy,” Mrs Chick assented. “Never! She’ll never glide and
-nestle into the bosom of her Papa’s affections like—the—”
-
-“Startled fawn?” suggested Miss Tox.
-
-“Like the startled fawn,” said Mrs Chick. “Never! Poor Fanny! Yet, how
-I loved her!”
-
-“You must not distress yourself, my dear,” said Miss Tox, in a soothing
-voice. “Now really! You have too much feeling.”
-
-“We have all our faults,” said Mrs Chick, weeping and shaking her head.
-“I daresay we have. I never was blind to hers. I never said I was. Far
-from it. Yet how I loved her!”
-
-What a satisfaction it was to Mrs Chick—a common-place piece of folly
-enough, compared with whom her sister-in-law had been a very angel of
-womanly intelligence and gentleness—to patronise and be tender to the
-[[Memory|memory]] of that lady: in exact pursuance of her conduct to her in her
-lifetime: and to thoroughly believe herself, and take herself in, and
-make herself uncommonly comfortable on the strength of her toleration!
-What a mighty pleasant virtue toleration should be when we are right,
-to be so very pleasant when we are wrong, and quite unable to
-demonstrate how we come to be invested with the privilege of exercising
-it!
-
-Mrs Chick was yet drying her eyes and shaking her head, when Richards
-made bold to caution her that Miss Florence was awake and sitting in
-her bed. She had risen, as the [[Nurse|nurse]] said, and the lashes of her eyes
-were wet with [[Tears|tears]]. But no one saw them glistening save Polly. No one
-else leant over her, and whispered soothing words to her, or was near
-enough to hear the flutter of her beating heart.
-
-“Oh! dear [[Nurse|nurse]]!” said the [[Child|child]], looking earnestly up in her face,
-“let me lie by my brother!”
-
-“Why, my pet?” said Richards.
-
-“Oh! I think he loves me,” cried the [[Child|child]] wildly. “Let me lie by him.
-Pray do!”
-
-Mrs Chick interposed with some motherly words about going to [[Sleep|sleep]] like
-a dear, but Florence repeated her supplication, with a frightened look,
-and in a voice broken by sobs and [[Tears|tears]].
-
-“I’ll not wake him,” she said, covering her face and hanging down her
-head. “I’ll only touch him with my hand, and go to [[Sleep|sleep]]. Oh, pray,
-pray, let me lie by my brother tonight, for I believe he’s fond of
-me!”
-
-Richards took her without a word, and carrying her to the little bed in
-which the infant was sleeping, laid her down by his side. She crept as
-near him as she could without disturbing his rest; and stretching out
-one arm so that it timidly embraced his neck, and hiding her face on
-the other, over which her damp and scattered hair fell loose, lay
-motionless.
-
-“Poor little thing,” said Miss Tox; “she has been dreaming, I daresay.”
-
-Dreaming, perhaps, of loving tones for ever silent, of loving eyes for
-ever closed, of loving arms again wound round her, and relaxing in that
-dream within the dam which no tongue can relate. Seeking, perhaps—in
-[[Dreams|dreams]]—some natural comfort for a heart, deeply and sorely wounded,
-though so young a [[Child|child]]’s: and finding it, perhaps, in [[Dreams|dreams]], if not
-in waking, cold, substantial [[Truth|truth]]. This trivial incident had so
-interrupted the current of conversation, that it was difficult of
-resumption; and Mrs Chick moreover had been so affected by the
-contemplation of her own tolerant [[Nature|nature]], that she was not in spirits.
-The two friends accordingly soon made an end of their tea, and a
-servant was despatched to fetch a hackney cabriolet for Miss Tox. Miss
-Tox had great experience in hackney cabs, and her starting in one was
-generally a work of [[Time|time]], as she was systematic in the preparatory
-arrangements.
-
-“Have the goodness, if you please, Towlinson,” said Miss Tox, “first of
-all, to carry out a pen and ink and take his number legibly.”
-
-“Yes, Miss,” said Towlinson.
-
-“Then, if you please, Towlinson,” said Miss Tox, “have the goodness to
-turn the cushion. Which,” said Miss Tox apart to Mrs Chick, “is
-generally damp, my dear.”
-
-“Yes, Miss,” said Towlinson.
-
-“I’ll trouble you also, if you please, Towlinson,” said Miss Tox, “with
-this card and this shilling. He’s to drive to the card, and is to
-understand that he will not on any account have more than the
-shilling.”
-
-“No, Miss,” said Towlinson.
-
-“And—I’m sorry to give you so much trouble, Towlinson,” said Miss Tox,
-looking at him pensively.
-
-“Not at all, Miss,” said Towlinson.
-
-“Mention to the man, then, if you please, Towlinson,” said Miss Tox,
-“that the lady’s uncle is a magistrate, and that if he gives her any of
-his impertinence he will be punished terribly. You can pretend to say
-that, if you please, Towlinson, in a friendly way, and because you know
-it was done to another man, who died.”
-
-“Certainly, Miss,” said Towlinson.
-
-“And now good-[[Night|night]] to my sweet, sweet, sweet, godson,” said Miss Tox,
-with a soft shower of kisses at each repetition of the adjective; “and
-Louisa, my dear friend, promise me to take a little something warm
-before you go to bed, and not to distress yourself!”
-
-It was with extreme difficulty that Nipper, the black-eyed, who looked
-on steadfastly, contained herself at this crisis, and until the
-subsequent departure of Mrs Chick. But the nursery being at length free
-of visitors, she made herself some recompense for her late restraint.
-
-“You might keep me in a strait-waistcoat for six weeks,” said Nipper,
-“and when I got it off I’d only be more aggravated, who ever heard the
-like of them two Griffins, Mrs Richards?”
-
-“And then to talk of having been dreaming, poor dear!” said Polly.
-
-“Oh you beauties!” cried [[Susan Nipper]], affecting to salute the door by
-which the ladies had departed. “Never be a Dombey won’t she? It’s to be
-hoped she won’t, we don’t want any more such, one’s enough.”
-
-“Don’t wake the children, Susan dear,” said Polly.
-
-“I’m very much beholden to you, Mrs Richards,” said Susan, who was not
-by any means discriminating in her wrath, “and really feel it as a
-[[Honour|honour]] to receive your commands, being a black slave and a mulotter.
-Mrs Richards, if there’s any other orders, you can give me, pray
-mention ’em.”
-
-“Nonsense; orders,” said Polly.
-
-“Oh! bless your heart, Mrs Richards,” cried Susan, “temporaries always
-orders permanencies here, didn’t you know that, why wherever was you
-born, Mrs Richards? But wherever you was born, Mrs Richards,” pursued
-Spitfire, shaking her head resolutely, “and whenever, and however
-(which is best known to yourself), you may bear in mind, please, that
-it’s one thing to give orders, and quite another thing to take ’em. A
-person may tell a person to dive off a bridge head foremost into
-five-and-forty feet of [[Water|water]], Mrs Richards, but a person may be very
-far from diving.”
-
-“There now,” said Polly, “you’re angry because you’re a good little
-thing, and fond of Miss Florence; and yet you turn round on me, because
-there’s nobody else.”
-
-“It’s very easy for some to keep their tempers, and be soft-spoken, Mrs
-Richards,” returned Susan, slightly mollified, “when their [[Child|child]]’s made
-as much of as a prince, and is petted and patted till it wishes its
-friends further, but when a sweet young pretty [[Innocent|innocent]], that never
-ought to have a [[Cross|cross]] word spoken to or of it, is rundown, the case is
-very different indeed. My goodness gracious me, Miss Floy, you naughty,
-sinful [[Child|child]], if you don’t shut your eyes this minute, I’ll call in
-them hobgoblins that lives in the cock-loft to come and eat you up
-alive!”
-
-Here Miss Nipper made a horrible lowing, supposed to issue from a
-conscientious goblin of the bull species, impatient to discharge the
-severe duty of his position. Having further composed her young charge
-by covering her head with the bedclothes, and making three or four
-angry dabs at the pillow, she folded her arms, and screwed up her
-mouth, and sat looking at the [[Fire|fire]] for the rest of the evening.
-
-Though little Paul was said, in nursery phrase, “to take a deal of
-notice for his age,” he took as little notice of all this as of the
-preparations for his christening on the next day but one; which
-nevertheless went on about him, as to his personal apparel, and that of
-his sister and the two nurses, with great activity. Neither did he, on
-the arrival of the appointed morning, show any sense of its importance;
-being, on the contrary, unusually inclined to [[Sleep|sleep]], and unusually
-inclined to take it ill in his attendants that they dressed him to go
-out.
-
-It happened to be an iron-grey autumnal day, with a shrewd east [[Wind|wind]]
-blowing—a day in keeping with the proceedings. Mr Dombey represented in
-himself the [[Wind|wind]], the shade, and the [[Autumn|autumn]] of the christening. He
-stood in his library to receive the company, as hard and cold as the
-weather; and when he looked out through the glass room, at the trees in
-the little [[Garden|garden]], their brown and yellow [[Leaves|leaves]] came fluttering down,
-as if he blighted them.
-
-Ugh! They were black, cold rooms; and seemed to be in mourning, like
-the inmates of the [[house]]. The books precisely matched as to size, and
-drawn up in line, like soldiers, looked in their cold, hard, slippery
-uniforms, as if they had but one idea among them, and that was a
-freezer. The bookcase, glazed and locked, repudiated all familiarities.
-Mr Pitt, in bronze, on the top, with no trace of his celestial origin
-about him, guarded the [[Unattainable|unattainable]] treasure like an enchanted Moor. A
-dusty urn at each high corner, dug up from an ancient tomb, preached
-desolation and [[Decay|decay]], as from two pulpits; and the chimney-glass,
-reflecting Mr Dombey and his portrait at one blow, seemed fraught with
-[[Melancholy|melancholy]] meditations.
-
-The stiff and stark [[Fire|fire]]-irons appeared to claim a nearer relationship
-than anything else there to Mr Dombey, with his buttoned coat, his
-white cravat, his heavy gold watch-chain, and his creaking boots. But
-this was before the arrival of Mr and Mrs Chick, his lawful relatives,
-who soon presented themselves.
-
-“My dear Paul,” Mrs Chick murmured, as she embraced him, “the
-beginning, I [[Hope|hope]], of many joyful days!”
-
-“Thank you, Louisa,” said Mr Dombey, grimly. “How do you do, Mr John?”
-
-“How do you do, Sir?” said Chick.
-
-He gave Mr Dombey his hand, as if he feared it might electrify him. Mr
-Dombey took it as if it were a fish, or seaweed, or some such clammy
-substance, and immediately returned it to him with exalted politeness.
-
-“Perhaps, Louisa,” said Mr Dombey, slightly turning his head in his
-cravat, as if it were a socket, “you would have preferred a [[Fire|fire]]?”
-
-“Oh, my dear Paul, no,” said Mrs Chick, who had much ado to keep her
-teeth from chattering; “not for me.”
-
-“Mr John,” said Mr Dombey, “you are not sensible of any chill?”
-
-Mr John, who had already got both his hands in his pockets over the
-wrists, and was on the very threshold of that same canine [[Chorus|chorus]] which
-had given Mrs Chick so much offence on a former occasion, protested
-that he was perfectly comfortable.
-
-He added in a low voice, “With my tiddle tol toor rul”—when he was
-providentially stopped by Towlinson, who announced:
-
-“Miss Tox!”
-
-And enter that fair enslaver, with a blue nose and indescribably frosty
-face, referable to her being very thinly clad in a maze of fluttering
-odds and ends, to do [[Honour|honour]] to the ceremony.
-
-“How do you do, Miss Tox?” said Mr Dombey.
-
-Miss Tox, in the midst of her spreading gauzes, went down altogether
-like an opera-glass shutting-up; she curtseyed so low, in
-acknowledgment of Mr Dombey’s advancing a step or two to meet her.
-
-“I can never forget this occasion, Sir,” said Miss Tox, softly. “’Tis
-impossible. My dear Louisa, I can hardly believe the evidence of my
-senses.”
-
-If Miss Tox could believe the evidence of one of her senses, it was a
-very cold day. That was quite clear. She took an early opportunity of
-promoting the circulation in the tip of her nose by secretly chafing it
-with her pocket handkerchief, lest, by its very low temperature, it
-should disagreeably astonish the baby when she came to kiss it.
-
-The baby soon appeared, carried in great glory by Richards; while
-Florence, in custody of that active young constable, [[Susan Nipper]],
-brought up the rear. Though the whole nursery party were dressed by
-this [[Time|time]] in lighter mourning than at first, there was enough in the
-appearance of the bereaved children to make the day no brighter. The
-baby too—it might have been Miss Tox’s nose—began to cry. Thereby, as
-it happened, preventing Mr Chick from the awkward fulfilment of a very
-honest purpose he had; which was, to make much of Florence. For this
-gentleman, insensible to the superior claims of a perfect Dombey
-(perhaps on account of having the [[Honour|honour]] to be united to a Dombey
-himself, and being familiar with excellence), really liked her, and
-showed that he liked her, and was about to show it in his own way now,
-when Paul cried, and his helpmate stopped him short—
-
-“Now Florence, [[Child|child]]!” said her aunt, briskly, “what are you doing,
-[[Love|love]]? Show yourself to him. Engage his attention, my dear!”
-
-The atmosphere became or might have become colder and colder, when Mr
-Dombey stood frigidly watching his little daughter, who, clapping her
-hands, and standing on tip-toe before the throne of his son and heir,
-lured him to bend down from his high estate, and look at her. Some
-honest act of Richards’s may have aided the effect, but he did look
-down, and held his peace. As his sister hid behind her [[Nurse|nurse]], he
-followed her with his eyes; and when she peeped out with a merry cry to
-him, he sprang up and crowed lustily—laughing outright when she ran in
-upon him; and seeming to fondle her curls with his tiny hands, while
-she smothered him with kisses.
-
-Was Mr Dombey pleased to see this? He testified no pleasure by the
-relaxation of a nerve; but outward tokens of any kind of feeling were
-unusual with him. If any sunbeam stole into the room to light the
-children at their play, it never reached his face. He looked on so
-fixedly and coldly, that the warm light vanished even from the laughing
-eyes of little Florence, when, at last, they happened to meet his.
-
-It was a dull, grey, [[Autumn|autumn]] day indeed, and in a minute’s pause and
-[[Silence|silence]] that took place, the [[Leaves|leaves]] fell sorrowfully.
-
-“Mr John,” said Mr Dombey, referring to his watch, and assuming his hat
-and gloves. “Take my sister, if you please: my arm today is Miss Tox’s.
-You had better go first with Master Paul, Richards. Be very careful.”
-
-In Mr Dombey’s carriage, Dombey and Son, Miss Tox, Mrs Chick, Richards,
-and Florence. In a little carriage following it, [[Susan Nipper]] and the
-owner Mr Chick. Susan looking out of [[Window|window]], without intermission, as a
-relief from the embarrassment of confronting the large face of that
-gentleman, and thinking whenever anything rattled that he was putting
-up in paper an appropriate pecuniary compliment for herself.
-
-Once upon the [[Road|road]] to church, Mr Dombey clapped his hands for the
-amusement of his son. At which instance of parental enthusiasm Miss Tox
-was enchanted. But exclusive of this incident, the chief difference
-between the christening party and a party in a mourning coach consisted
-in the colours of the carriage and horses.
-
-Arrived at the church steps, they were received by a portentous beadle.
-Mr Dombey dismounting first to help the ladies out, and standing near
-him at the church door, looked like another beadle. A beadle less
-gorgeous but more dreadful; the beadle of private life; the beadle of
-our business and our bosoms.
-
-Miss Tox’s hand trembled as she slipped it through Mr Dombey’s arm, and
-felt herself escorted up the steps, preceded by a cocked hat and a
-Babylonian collar. It seemed for a moment like that other solemn
-institution, “Wilt thou have this man, Lucretia?” “Yes, I will.”
-
-“Please to bring the [[Child|child]] in quick out of the air there,” whispered
-the beadle, holding open the inner door of the church.
-
-Little Paul might have asked with [[Hamlet]] “into my [[Grave|grave]]?” so chill and
-earthy was the place. The tall, shrouded pulpit and reading desk; the
-dreary perspective of empty pews stretching away under the galleries,
-and empty benches mounting to the roof and lost in the [[Shadow|shadow]] of the
-great grim organ; the dusty matting and cold stone slabs; the grisly
-free seats in the aisles; and the damp corner by the bell-rope, where
-the black trestles used for funerals were stowed away, along with some
-shovels and baskets, and a coil or two of deadly-looking rope; the
-strange, unusual, uncomfortable smell, and the cadaverous light; were
-all in unison. It was a cold and dismal scene.
+CHAPTER XXXIII.
+Contrasts
+
+
+Turn we our eyes upon two homes; not lying side by side, but wide
+apart, though both within easy range and reach of the great [[City|city]] of
+[[London]].
+
+The first is situated in the green and wooded country near Norwood. It
+is not a mansion; it is of no pretensions as to size; but it is
+beautifully arranged, and tastefully kept. The lawn, the soft, smooth
+slope, the flower-[[Garden|garden]], the clumps of trees where graceful forms of
+ash and willow are not wanting, the conservatory, the rustic verandah
+with sweet-smelling creeping plants entwined about the pillars, the
+simple exterior of the [[house]], the [[Well|well]]-ordered offices, though all upon
+the diminutive scale proper to a mere cottage, bespeak an amount of
+elegant comfort within, that might serve for a palace. This indication
+is not without warrant; for, within, it is a [[house]] of refinement and
+luxury. Rich colours, excellently blended, meet the eye at every turn;
+in the furniture—its proportions admirably devised to suit the shapes
+and sizes of the small rooms; on the walls; upon the floors; tingeing
+and subduing the light that comes in through the odd glass doors and
+windows here and there. There are a few choice prints and pictures too;
+in quaint nooks and recesses there is no want of books; and there are
+games of skill and chance set forth on tables—fantastic chessmen, dice,
+backgammon, cards, and billiards.
+
+And yet amidst this opulence of comfort, there is something in the
+general air that is not [[Well|well]]. Is it that the carpets and the cushions
+are too soft and noiseless, so that those who move or repose among them
+seem to act by stealth? Is it that the prints and pictures do not
+commemorate great thoughts or deeds, or render [[Nature|nature]] in the Poetry of
+landscape, hall, or hut, but are of one voluptuous cast—mere shows of
+form and colour—and no more? Is it that the books have all their gold
+outside, and that the titles of the greater part qualify them to be
+companions of the prints and pictures? Is it that the completeness and
+the [[Beauty|beauty]] of the place are here and there belied by an affectation of
+[[Humility|humility]], in some unimportant and inexpensive regard, which is as false
+as the face of the too truly painted portrait hanging yonder, or its
+original at breakfast in his easy chair below it? Or is it that, with
+the daily breath of that original and master of all here, there issues
+forth some subtle portion of himself, which gives a vague expression of
+himself to everything about him?
+
+It is Mr Carker the Manager who sits in the easy chair. A gaudy parrot
+in a burnished cage upon the table [[Tears|tears]] at the wires with her beak,
+and goes walking, upside down, in its dome-top, shaking her [[house]] and
+screeching; but Mr Carker is indifferent to the bird, and looks with a
+musing smile at a picture on the opposite wall.
+
+“A most extraordinary accidental likeness, certainly,” says he.
+
+Perhaps it is a Juno; perhaps a Potiphar’s Wife”; perhaps some scornful
+Nymph—according as the Picture Dealers found the market, when they
+christened it. It is the figure of a woman, supremely handsome, who,
+turning away, but with her face addressed to the spectator, flashes her
+proud glance upon him.
+
+It is like Edith.
+
+With a passing gesture of his hand at the picture—what! a menace? No;
+yet something like it. A wave as of triumph? No; yet more like that. An
+insolent salute wafted from his lips? No; yet like that too—he resumes
+his breakfast, and calls to the chafing and imprisoned bird, who coming
+down into a pendant gilded hoop within the cage, like a great
+wedding-ring, swings in it, for his delight.
+
+The second [[Home|home]] is on the other side of [[London]], near to where the busy
+great north [[Road|road]] of bygone days is silent and almost deserted, except
+by wayfarers who toil along on foot. It is a poor small [[house]], barely
+and sparely furnished, but very clean; and there is even an attempt to
+decorate it, shown in the homely [[Flowers|flowers]] trained about the porch and in
+the narrow [[Garden|garden]]. The neighbourhood in which it stands has as little
+of the country to recommend it, as it has of the town. It is neither of
+the town nor country. The former, like the giant in his travelling
+boots, has made a stride and passed it, and has set his
+brick-and-mortar heel a long way in advance; but the intermediate space
+between the giant’s feet, as yet, is only blighted country, and not
+town; and, here, among a few tall chimneys belching smoke all day and
+[[Night|night]], and among the brick-fields and the lanes where turf is cut, and
+where the fences tumble down, and where the dusty nettles grow, and
+where a scrap or two of hedge may yet be seen, and where the
+bird-catcher still comes occasionally, though he swears every [[Time|time]] to
+come no more—this second [[Home|home]] is to be found.”
+
+She who inhabits it, is she who left the first in her devotion to an
+outcast brother. She withdrew from that [[Home|home]] its redeeming spirit, and
+from its master’s breast his solitary angel: but though his liking for
+her is gone, after this ungrateful slight as he considers it; and
+though he abandons her altogether in return, an old idea of her is not
+quite forgotten even by him. Let her flower-[[Garden|garden]], in which he never
+sets his foot, but which is yet maintained, among all his costly
+alterations, as if she had quitted it but yesterday, bear witness!
+
+Harriet Carker has changed since then, and on her [[Beauty|beauty]] there has
+fallen a heavier shade than [[Time]] of his unassisted [[Self|self]] can cast,
+all-potent as he is—the [[Shadow|shadow]] of anxiety and sorrow, and the daily
+struggle of a poor existence. But it is [[Beauty|beauty]] still; and still a
+gentle, quiet, and retiring [[Beauty|beauty]] that must be sought out, for it
+cannot vaunt itself; if it could, it would be what it is, no more.
+
+Yes. This slight, small, patient figure, neatly dressed in homely
+stuffs, and indicating nothing but the dull, household virtues, that
+have so little in common with the received idea of [[Heroism|heroism]] and
+[[Greatness|greatness]], unless, indeed, any ray of them should shine through the
+lives of the great ones of the earth, when it becomes a constellation
+and is tracked in Heaven straightway—this slight, small, patient
+figure, leaning on the man still young but worn and grey, is she, his
+sister, who, of all the world, went over to him in his shame and put
+her hand in his, and with a sweet composure and determination, led him
+hopefully upon his barren way.
+
+“It is early, John,” she said. “Why do you go so early?”
+
+“Not many minutes earlier than usual, Harriet. If I have the [[Time|time]] to
+spare, I should like, I think—it’s a fancy—to walk once by the [[house]]
+where I took leave of him.”
+
+“I wish I had ever seen or known him, John.”
+
+“It is better as it is, my dear, remembering his fate.”
+
+“But I could not regret it more, though I had known him. Is not your
+sorrow mine? And if I had, perhaps you would feel that I was a better
+companion to you in speaking about him, than I may seem now.”
+
+“My dearest sister! Is there anything within the range of rejoicing or
+regret, in which I am not sure of your companionship?”
+
+“I [[Hope|hope]] you think not, John, for surely there is nothing!”
+
+“How could you be better to me, or nearer to me then, than you are in
+this, or anything?” said her brother. “I feel that you did know him,
+Harriet, and that you shared my feelings towards him.”
+
+She drew the hand which had been resting on his shoulder, round his
+neck, and answered, with some hesitation:
+
+“No, not quite.”
+
+“True, true!” he said; “you think I might have done him no harm if I
+had allowed myself to know him better?”
+
+“Think! I know it.”
+
+“Designedly, Heaven knows I would not,” he replied, shaking his head
+mournfully; “but his reputation was too precious to be perilled by such
+association. Whether you share that knowledge, or do not, my dear—”
+
+“I do not,” she said quietly.
+
+“It is still the [[Truth|truth]], Harriet, and my mind is lighter when I think of
+him for that which made it so much heavier then.” He checked himself in
+his tone of [[Melancholy|melancholy]], and smiled upon her as he said “Good-bye!”
+
+“Good-bye, dear John! In the evening, at the old [[Time|time]] and place, I
+shall meet you as usual on your way [[Home|home]]. Good-bye.”
+
+The cordial face she lifted up to his to kiss him, was his [[Home|home]], his
+life, his universe, and yet it was a portion of his punishment and
+grief; for in the cloud he saw upon it—though serene and calm as any
+radiant cloud at sunset—and in the constancy and devotion of her life,
+and in the sacrifice she had made of ease, enjoyment, and [[Hope|hope]], he saw
+the bitter fruits of his old crime, for ever ripe and fresh.
+
+She stood at the door looking after him, with her hands loosely clasped
+in each other, as he made his way over the frowzy and uneven patch of
+ground which lay before their [[house]], which had once (and not long ago)
+been a pleasant meadow, and was now a very waste, with a disorderly
+crop of beginnings of mean houses, rising out of the rubbish, as if
+they had been unskilfully sown there. Whenever he looked back—as once
+or twice he did—her cordial face shone like a light upon his heart; but
+when he plodded on his way, and saw her not, the [[Tears|tears]] were in her eyes
+as she stood watching him.
+
+Her pensive form was not long idle at the door. There was daily duty to
+discharge, and daily work to do—for such commonplace spirits that are
+not heroic, often work hard with their hands—and Harriet was soon busy
+with her household tasks. These discharged, and the poor [[house]] made
+quite neat and orderly, she counted her little stock of money, with an
+anxious face, and went out thoughtfully to buy some necessaries for
+their table, planning and conniving, as she went, how to save. So
+sordid are the lives of such low natures, who are not only not heroic
+to their valets and waiting-women, but have neither valets nor
+waiting-women to be heroic to withal!
+
+While she was absent, and there was no one in the [[house]], there
+approached it by a different way from that the brother had taken, a
+gentleman, a very little past his prime of life perhaps, but of a
+healthy florid hue, an upright presence, and a bright clear aspect,
+that was gracious and good-humoured. His eyebrows were still black, and
+so was much of his hair; the sprinkling of grey observable among the
+latter, graced the former very much, and showed his broad frank brow
+and honest eyes to great advantage.
+
+After knocking once at the door, and obtaining no response, this
+gentleman sat down on a bench in the little porch to wait. A certain
+skilful action of his fingers as he hummed some bars, and beat [[Time|time]] on
+the seat beside him, seemed to denote the musician; and the
+extraordinary satisfaction he derived from humming something very slow
+and long, which had no recognisable tune, seemed to denote that he was
+a scientific one.
+
+The gentleman was still twirling a theme, which seemed to go round and
+round and round, and in and in and in, and to involve itself like a
+corkscrew twirled upon a table, without getting any nearer to anything,
+when Harriet appeared returning. He [[Rose|rose]] up as she advanced, and stood
+with his head uncovered.
+
+“You are come again, Sir!” she said, faltering.
+
+“I take that liberty,” he answered. “May I ask for five minutes of your
+leisure?”
+
+After a moment’s hesitation, she opened the door, and gave him
+admission to the little parlour. The gentleman sat down there, drew his
+chair to the table over against her, and said, in a voice that
+perfectly corresponded to his appearance, and with a simplicity that
+was very engaging:
+
+“Miss Harriet, you cannot be proud. You signified to me, when I called
+t’other morning, that you were. Pardon me if I say that I looked into
+your face while you spoke, and that it contradicted you. I look into it
+again,” he added, laying his hand gently on her arm, for an instant,
+“and it contradicts you more and more.”
+
+She was somewhat confused and agitated, and could make no ready answer.
+
+“It is the [[Mirror|mirror]] of [[Truth|truth]],” said her visitor, “and gentleness. Excuse
+my trusting to it, and returning.”
+
+His manner of saying these words, divested them entirely of the
+character of compliments. It was so plain, [[Grave|grave]], unaffected, and
+sincere, that she bent her head, as if at once to thank him, and
+acknowledge his sincerity.
+
+“The disparity between our ages,” said the gentleman, “and the
+plainness of my purpose, empower me, I am glad to think, to speak my
+mind. That is my mind; and so you see me for the second [[Time|time]].”
+
+“There is a kind of [[Pride|pride]], Sir,” she returned, after a moment’s
+[[Silence|silence]], “or what may be supposed to be [[Pride|pride]], which is mere duty. I
+[[Hope|hope]] I cherish no other.”
+
+“For yourself,” he said.
+
+“For myself.”
+
+“But—pardon me—” suggested the gentleman. “For your brother John?”
+
+“Proud of his [[Love|love]], I am,” said Harriet, looking full upon her visitor,
+and changing her manner on the instant—not that it was less composed
+and quiet, but that there was a deep impassioned earnestness in it that
+made the very tremble in her voice a part of her firmness, “and proud
+of him. Sir, you who strangely know the story of his life, and repeated
+it to me when you were here last—”
+
+“Merely to make my way into your confidence,” interposed the gentleman.
+“For heaven’s sake, don’t suppose—”
+
+“I am sure,” she said, “you revived it, in my hearing, with a kind and
+good purpose. I am quite sure of it.”
+
+“I thank you,” returned her visitor, pressing her hand hastily. “I am
+much obliged to you. You do me justice, I assure you. You were going to
+say, that I, who know the story of John Carker’s life—”
+
+“May think it [[Pride|pride]] in me,” she continued, “when I say that I am proud
+of him! I am. You know the [[Time|time]] was, when I was not—when I could not
+be—but that is past. The [[Humility|humility]] of many years, the uncomplaining
+expiation, the true repentance, the terrible regret, the [[Pain|pain]] I know he
+has even in my affection, which he thinks has cost me dear, though
+Heaven knows I am happy, but for his sorrow I—oh, Sir, after what I
+have seen, let me conjure you, if you are in any place of power, and
+are ever wronged, never, for any wrong, inflict a punishment that
+cannot be recalled; while there is a GOD above us to work changes in
+the hearts He made.”
+
+“Your brother is an altered man,” returned the gentleman,
+compassionately. “I assure you I don’t [[Doubt|doubt]] it.”
+
+“He was an altered man when he did wrong,” said Harriet. “He is an
+altered man again, and is his true [[Self|self]] now, believe me, Sir.”
+
+“But we go on,” said her visitor, rubbing his forehead, in an absent
+manner, with his hand, and then drumming thoughtfully on the table, “we
+go on in our clockwork routine, from day to day, and can’t make out, or
+follow, these changes. They—they’re a metaphysical sort of thing. We—we
+haven’t leisure for it. We—we haven’t [[Courage|courage]]. They’re not taught at
+schools or colleges, and we don’t know how to set about it. In short,
+we are so d——d business-like,” said the gentleman, walking to the
+[[Window|window]], and back, and sitting down again, in a state of extreme
+dissatisfaction and vexation.
+
+“I am sure,” said the gentleman, rubbing his forehead again; and
+drumming on the table as before, “I have good reason to believe that a
+jog-trot life, the same from day to day, would reconcile one to
+anything. One don’t see anything, one don’t hear anything, one don’t
+know anything; that’s the fact. We go on taking everything for granted,
+and so we go on, until whatever we do, good, bad, or indifferent, we do
+from habit. Habit is all I shall have to report, when I am called upon
+to plead to my [[Conscience|conscience]], on my [[Death|death]]-bed. ‘Habit,’ says I; ‘I was
+deaf, dumb, blind, and paralytic, to a million things, from habit.’
+‘Very business-like indeed, Mr What’s-your-name,’ says [[Conscience]], ‘but
+it won’t do here!’”
+
+The gentleman got up and walked to the [[Window|window]] again and back: seriously
+uneasy, though giving his uneasiness this peculiar expression.
+
+“Miss Harriet,” he said, resuming his chair, “I wish you would let me
+serve you. Look at me; I ought to look honest, for I know I am so, at
+present. Do I?”
+
+“Yes,” she answered with a smile.
+
+“I believe every word you have said,” he returned. “I am full of
+[[Self|self]]-reproach that I might have known this and seen this, and known you
+and seen you, any [[Time|time]] these dozen years, and that I never have. I
+hardly know how I ever got here—creature that I am, not only of my own
+habit, but of other people’s! But having done so, let me do something.
+I ask it in all [[Honour|honour]] and respect. You inspire me with both, in the
+highest degree. Let me do something.”
+
+“We are contented, Sir.”
+
+“No, no, not quite,” returned the gentleman. “I think not quite. There
+are some little comforts that might smooth your life, and his. And
+his!” he repeated, fancying that had made some impression on her. “I
+have been in the habit of thinking that there was nothing wanting to be
+done for him; that it was all settled and over; in short, of not
+thinking at all about it. I am different now. Let me do something for
+him. You too,” said the visitor, with careful delicacy, “have need to
+watch your health closely, for his sake, and I [[Fear|fear]] it fails.”
+
+“Whoever you may be, Sir,” answered Harriet, raising her eyes to his
+face, “I am deeply grateful to you. I feel certain that in all you say,
+you have no object in the world but kindness to us. But years have
+passed since we began this life; and to take from my brother any part
+of what has so endeared him to me, and so proved his better
+resolution—any [[Fragment|fragment]] of the merit of his unassisted, obscure, and
+forgotten reparation—would be to diminish the comfort it will be to him
+and me, when that [[Time|time]] comes to each of us, of which you spoke just
+now. I thank you better with these [[Tears|tears]] than any words. Believe it,
+pray.”
+
+The gentleman was moved, and put the hand she held out, to his lips,
+much as a tender father might kiss the hand of a dutiful [[Child|child]]. But
+more reverently.
+
+“If the day should ever come,” said Harriet, “when he is restored, in
+part, to the position he lost—”
+
+“Restored!” cried the gentleman, quickly. “How can that be hoped for?
+In whose hands does the power of any restoration lie? It is no mistake
+of mine, surely, to suppose that his having gained the priceless
+blessing of his life, is one cause of the animosity shown to him by his
+brother.”
+
+“You touch upon a subject that is never breathed between us; not even
+between us,” said Harriet.
+
+“I beg your [[Forgiveness|forgiveness]],” said the visitor. “I should have known it. I
+entreat you to forget that I have done so, inadvertently. And now, as I
+dare urge no more—as I am not sure that I have a right to do so—though
+Heaven knows, even that [[Doubt|doubt]] may be habit,” said the gentleman,
+rubbing his head, as despondently as before, “let me; though a
+stranger, yet no stranger; ask two favours.”
+
+“What are they?” she inquired.
+
+“The first, that if you should see cause to change your resolution, you
+will suffer me to be as your right hand. My name shall then be at your
+service; it is useless now, and always insignificant.”
+
+“Our choice of friends,” she answered, smiling faintly, “is not so
+great, that I need any [[Time|time]] for consideration. I can promise that.”
+
+“The second, that you will allow me sometimes, say every Monday
+morning, at nine o’[[Clock|clock]]—habit again—I must be businesslike,” said the
+gentleman, with a whimsical inclination to quarrel with himself on that
+head, “in walking past, to see you at the door or [[Window|window]]. I don’t ask
+to come in, as your brother will be gone out at that hour. I don’t ask
+to speak to you. I merely ask to see, for the satisfaction of my own
+mind, that you are [[Well|well]], and without intrusion to remind you, by the
+sight of me, that you have a friend—an elderly friend, grey-haired
+already, and fast growing greyer—whom you may ever command.”
+
+The cordial face looked up in his; confided in it; and promised.
+
+“I understand, as before,” said the gentleman, rising, “that you
+purpose not to mention my visit to John Carker, lest he should be at
+all distressed by my acquaintance with his [[history]]. I am glad of it,
+for it is out of the ordinary course of things, and—habit again!” said
+the gentleman, checking himself impatiently, “as if there were no
+better course than the ordinary course!”
+
+With that he turned to go, and walking, bareheaded, to the outside of
+the little porch, took leave of her with such a happy mixture of
+unconstrained respect and unaffected interest, as no breeding could
+have taught, no [[Truth|truth]] mistrusted, and nothing but a pure and single
+heart expressed.
+
+Many half-forgotten emotions were awakened in the sister’s mind by this
+visit. It was so very long since any other visitor had crossed their
+threshold; it was so very long since any voice of apathy had made sad
+music in her ears; that the stranger’s figure remained present to her,
+hours afterwards, when she sat at the [[Window|window]], plying her needle; and
+his words seemed newly spoken, again and again. He had touched the
+[[spring]] that opened her whole life; and if she lost him for a short
+space, it was only among the many shapes of the one great recollection
+of which that life was made.
+
+Musing and working by turns; now constraining herself to be steady at
+her needle for a long [[Time|time]] together, and now letting her work fall,
+unregarded, on her lap, and straying wheresoever her busier thoughts
+led, Harriet Carker found the hours glide by her, and the day steal on.
+The morning, which had been bright and clear, gradually became
+overcast; a sharp [[Wind|wind]] set in; the rain fell heavily; and a dark mist
+drooping over the distant town, hid it from the view.
+
+She often looked with compassion, at such a [[Time|time]], upon the stragglers
+who came wandering into [[London]], by the great highway hard by, and who,
+footsore and weary, and gazing fearfully at the huge town before them,
+as if foreboding that their misery there would be but as a drop of
+[[Water|water]] in the sea, or as a grain of sea-sand on the shore, went
+shrinking on, cowering before the angry weather, and looking as if the
+very elements rejected them. Day after day, such travellers crept past,
+but always, as she thought, in one direction—always towards the town.
+Swallowed up in one phase or other of its immensity, towards which they
+seemed impelled by a desperate fascination, they never returned. Food
+for the hospitals, the churchyards, the prisons, the [[River|river]], fever,
+[[Madness|madness]], vice, and [[Death|death]],—they passed on to the [[Monster|monster]], roaring in the
+distance, and were lost.
 
 [Illustration]
 
-“There’s a wedding just on, Sir,” said the beadle, “but it’ll be over
-directly, if you’ll walk into the westry here.”
+The chill [[Wind|wind]] was howling, and the rain was falling, and the day was
+darkening moodily, when Harriet, raising her eyes from the work on
+which she had long since been engaged with unremitting constancy, saw
+one of these travellers approaching.
 
-Before he turned again to lead the way, he gave Mr Dombey a bow and a
-half smile of recognition, importing that he (the beadle) remembered to
-have had the pleasure of attending on him when he buried his wife, and
-hoped he had enjoyed himself since.
+A woman. A solitary woman of some thirty years of age; tall;
+[[Well|well]]-formed; handsome; miserably dressed; the soil of many country
+roads in varied weather—[[Dust|dust]], [[chalk]], clay, gravel—clotted on her grey
+cloak by the streaming wet; no bonnet on her head, nothing to defend
+her rich black hair from the rain, but a torn handkerchief; with the
+fluttering ends of which, and with her hair, the [[Wind|wind]] blinded her so
+that she often stopped to push them back, and look upon the way she was
+going.
 
-The very wedding looked dismal as they passed in front of the altar.
-The bride was too old and the bridegroom too young, and a superannuated
-beau with one eye and an eyeglass stuck in its blank companion, was
-giving away the lady, while the friends were shivering. In the vestry
-the [[Fire|fire]] was smoking; and an over-aged and over-worked and under-paid
-attorney’s clerk, “making a search,” was running his forefinger down
-the parchment pages of an immense register (one of a long series of
-similar volumes) gorged with burials. Over the fireplace was a
-ground-plan of the vaults underneath the church; and Mr Chick, skimming
-the literary portion of it aloud, by way of enlivening the company,
-read the reference to Mrs Dombey’s tomb in full, before he could stop
-himself.
+She was in the act of doing so, when Harriet observed her. As her
+hands, parting on her sunburnt forehead, swept across her face, and
+threw aside the hindrances that encroached upon it, there was a
+reckless and regardless [[Beauty|beauty]] in it: a dauntless and depraved
+indifference to more than weather: a carelessness of what was cast upon
+her bare head from Heaven or earth: that, coupled with her misery and
+[[Loneliness|loneliness]], touched the heart of her fellow-woman. She thought of all
+that was perverted and debased within her, no less than without: of
+modest graces of the mind, hardened and steeled, like these attractions
+of the person; of the many gifts of the Creator flung to the winds like
+the wild hair; of all the beautiful ruin upon which the [[Storm|storm]] was
+beating and the [[Night|night]] was coming.
 
-After another cold interval, a wheezy little pew-opener afflicted with
-an asthma, appropriate to the churchyard, if not to the church,
-summoned them to the font—a rigid marble basin which seemed to have
-been playing a churchyard game at cup and ball with its matter of fact
-pedestal, and to have been just that moment caught on the top of it.
-Here they waited some little [[Time|time]] while the [[Marriage|marriage]] party enrolled
-themselves; and meanwhile the wheezy little pew-opener—partly in
-consequence of her infirmity, and partly that the [[Marriage|marriage]] party might
-not forget her—went about the building coughing like a grampus.
+Thinking of this, she did not turn away with a delicate indignation—too
+many of her own compassionate and tender sex too often do—but pitied
+her.
 
-Presently the clerk (the only cheerful-looking object there, and he was
-an undertaker) came up with a jug of warm [[Water|water]], and said something, as
-he poured it into the font, about taking the chill off; which millions
-of gallons boiling hot could not have done for the occasion. Then the
-clergyman, an amiable and mild-looking young curate, but obviously
-afraid of the baby, appeared like the principal character in a
-[[Ghost|ghost]]-story, “a tall figure all in white;” at sight of whom Paul rent
-the air with his cries, and never left off again till he was taken out
-black in the face.
+Her fallen sister came on, looking far before her, trying with her
+eager eyes to pierce the mist in which the [[City|city]] was enshrouded, and
+glancing, now and then, from side to side, with the bewildered—and
+uncertain aspect of a stranger. Though her tread was bold and
+courageous, she was fatigued, and after a moment of irresolution,—sat
+down upon a heap of stones; seeking no shelter from the rain, but
+letting it rain on her as it would.
 
-Even when that event had happened, to the great relief of everybody, he
-was heard under the portico, during the rest of the ceremony, now
-fainter, now louder, now hushed, now bursting forth again with an
-irrepressible sense of his wrongs. This so distracted the attention of
-the two ladies, that Mrs Chick was constantly deploying into the centre
-aisle, to send out messages by the pew-opener, while Miss Tox kept her
-[[prayer|Prayer]]-book open at the Gunpowder Plot, and occasionally read responses
-from that service.
+She was now opposite the [[house]]; raising her head after resting it for a
+moment on both hands, her eyes met those of Harriet.
 
-During the whole of these proceedings, Mr Dombey remained as impassive
-and gentlemanly as ever, and perhaps assisted in making it so cold,
-that the young curate smoked at the mouth as he read. The only [[Time|time]]
-that he unbent his visage in the least, was when the clergyman, in
-delivering (very unaffectedly and simply) the closing exhortation,
-relative to the future examination of the [[Child|child]] by the sponsors,
-happened to rest his eye on Mr Chick; and then Mr Dombey might have
-been seen to express by a majestic look, that he would like to catch
-him at it.
+In a moment, Harriet was at the door; and the other, rising from her
+seat at her beck, came slowly, and with no conciliatory look, towards
+her.
 
-It might have been [[Well|well]] for Mr Dombey, if he had thought of his own
-dignity a little less; and had thought of the great origin and purpose
-of the ceremony in which he took so formal and so stiff a part, a
-little more. His arrogance contrasted strangely with its [[history]].
+“Why do you rest in the rain?” said Harriet, gently.
 
-When it was all over, he again gave his arm to Miss Tox, and conducted
-her to the vestry, where he informed the clergyman how much pleasure it
-would have given him to have solicited the [[Honour|honour]] of his company at
-dinner, but for the unfortunate state of his household affairs. The
-register signed, and the fees paid, and the pew-opener (whose cough was
-very bad again) remembered, and the beadle gratified, and the sexton
-(who was accidentally on the doorsteps, looking with great interest at
-the weather) not forgotten, they got into the carriage again, and drove
-[[Home|home]] in the same bleak fellowship.
+“Because I have no other resting-place,” was the reply.
 
-There they found Mr Pitt turning up his nose at a cold collation, set
-forth in a cold pomp of glass and silver, and looking more like a dead
-dinner lying in state than a social refreshment. On their arrival Miss
-Tox produced a mug for her godson, and Mr Chick a knife and fork and
-spoon in a case. Mr Dombey also produced a bracelet for Miss Tox; and,
-on the receipt of this token, Miss Tox was tenderly affected.
+“But there are many places of shelter near here. This,” referring to
+the little porch, “is better than where you were. You are very welcome
+to rest here.”
 
-“Mr John,” said Mr Dombey, “will you take the [[Bottom|bottom]] of the table, if
-you please? What have you got there, Mr John?”
+The wanderer looked at her, in [[Doubt|doubt]] and surprise, but without any
+expression of thankfulness; and sitting down, and taking off one of her
+worn shoes to beat out the fragments of stone and [[Dust|dust]] that were
+inside, showed that her foot was cut and bleeding.
 
-“I have got a cold fillet of veal here, Sir,” replied Mr Chick, rubbing
-his numbed hands hard together. “What have you got there, Sir?”
+Harriet uttering an expression of pity, the traveller looked up with a
+contemptuous and incredulous smile.
 
-“This,” returned Mr Dombey, “is some cold preparation of calf’s head, I
-think. I see cold fowls—ham—patties—salad—lobster. Miss Tox will do me
-the [[Honour|honour]] of taking some wine? Champagne to Miss Tox.”
+“Why, what’s a torn foot to such as me?” she said. “And what’s a torn
+foot in such as me, to such as you?”
 
-There was a toothache in everything. The wine was so bitter cold that
-it forced a little scream from Miss Tox, which she had great difficulty
-in turning into a “Hem!” The veal had come from such an airy pantry,
-that the first taste of it had struck a sensation as of cold lead to Mr
-Chick’s extremities. Mr Dombey [[Alone|alone]] remained unmoved. He might have
-been hung up for sale at a Russian fair as a specimen of a frozen
-gentleman.
+“Come in and wash it,” answered Harriet, mildly, “and let me give you
+something to bind it up.”
 
-The prevailing influence was too much even for his sister. She made no
-effort at flattery or small talk, and directed all her efforts to
-looking as warm as she could.
+The woman caught her arm, and drawing it before her own eyes, hid them
+against it, and wept. Not like a woman, but like a stern man surprised
+into that weakness; with a violent heaving of her breast, and struggle
+for recovery, that showed how unusual the emotion was with her.
 
-“[[Well]], Sir,” said Mr Chick, making a desperate plunge, after a long
-[[Silence|silence]], and filling a glass of sherry; “I shall drink this, if you’ll
-allow me, Sir, to little Paul.”
+She submitted to be led into the [[house]], and, evidently more in
+gratitude than in any care for herself, washed and bound the injured
+place. Harriet then put before her fragments of her own frugal dinner,
+and when she had eaten of them, though sparingly, besought her, before
+resuming her [[Road|road]] (which she showed her anxiety to do), to dry her
+clothes before the [[Fire|fire]]. Again, more in gratitude than with any
+evidence of concern in her own behalf, she sat down in front of it, and
+unbinding the handkerchief about her head, and letting her thick wet
+hair fall down below her waist, sat drying it with the palms of her
+hands, and looking at the blaze.
 
-“Bless him!” murmured Miss Tox, taking a sip of wine.
+“I daresay you are thinking,” she said, lifting her head suddenly,
+“that I used to be handsome, once. I believe I was—I know I was—Look
+here!”
 
-“Dear little Dombey!” murmured Mrs Chick.
+She held up her hair roughly with both hands; seizing it as if she
+would have torn it out; then, threw it down again, and flung it back as
+though it were a heap of serpents.
 
-“Mr John,” said Mr Dombey, with severe gravity, “my son would feel and
-express himself obliged to you, I have no [[Doubt|doubt]], if he could appreciate
-the favour you have done him. He will prove, in [[Time|time]] to come, I trust,
-equal to any responsibility that the obliging disposition of his
-relations and friends, in private, or the onerous [[Nature|nature]] of our
-position, in public, may impose upon him.”
+“Are you a stranger in this place?” asked Harriet.
 
-The tone in which this was said admitting of nothing more, Mr Chick
-relapsed into low spirits and [[Silence|silence]]. Not so Miss Tox, who, having
-listened to Mr Dombey with even a more emphatic attention than usual,
-and with a more expressive tendency of her head to one side, now leant
-across the table, and said to Mrs Chick softly:
+“A stranger!” she returned, stopping between each short reply, and
+looking at the [[Fire|fire]]. “Yes. Ten or a dozen years a stranger. I have had
+no almanack where I have been. Ten or a dozen years. I don’t know this
+part. It’s much altered since I went away.”
 
-“Louisa!”
+“Have you been far?”
 
-“My dear,” said Mrs Chick.
+“Very far. Months upon months over the sea, and far away even then. I
+have been where convicts go,” she added, looking full upon her
+entertainer. “I have been one myself.”
 
-“Onerous [[Nature|nature]] of our position in public may—I have forgotten the
-exact term.”
+“Heaven help you and forgive you!” was the gentle answer.
 
-“Expose him to,” said Mrs Chick.
+“Ah! Heaven help me and forgive me!” she returned, nodding her head at
+the [[Fire|fire]]. “If man would help some of us a little more, God would
+forgive us all the sooner perhaps.”
 
-“Pardon me, my dear,” returned Miss Tox, “I think not. It was more
-rounded and flowing. Obliging disposition of relations and friends in
-private, or onerous [[Nature|nature]] of position in public—may—impose upon him!”
+But she was softened by the earnest manner, and the cordial face so
+full of mildness and so free from judgment, of her, and said, less
+hardily:
 
-“Impose upon him, to be sure,” said Mrs Chick.
+“We may be about the same age, you and me. If I am older, it is not
+above a year or two. Oh think of that!”
 
-Miss Tox struck her delicate hands together lightly, in triumph; and
-added, casting up her eyes, “eloquence indeed!”
+She opened her arms, as though the exhibition of her outward form would
+show the moral wretch she was; and letting them drop at her sides, hung
+down her head.
 
-Mr Dombey, in the meanwhile, had issued orders for the attendance of
-Richards, who now entered curtseying, but without the baby; Paul being
-asleep after the fatigues of the morning. Mr Dombey, having delivered a
-glass of wine to this vassal, addressed her in the following words:
-Miss Tox previously settling her head on one side, and making other
-little arrangements for engraving them on her heart.
+“There is nothing we may not [[Hope|hope]] to repair; it is never too late to
+amend,” said Harriet. “You are penitent?”
 
-“During the six months or so, Richards, which have seen you an inmate
-of this [[house]], you have done your duty. Desiring to connect some little
-service to you with this occasion, I considered how I could best effect
-that object, and I also advised with my sister, Mrs—”
+“No,” she answered. “I am not! I can’t be. I am no such thing. Why
+should I be penitent, and all the world go free? They talk to me of my
+penitence. Who’s penitent for the wrongs that have been done to me?”
 
-“Chick,” interposed the gentleman of that name.
+She [[Rose|rose]] up, bound her handkerchief about her head, and turned to move
+away.
 
-“Oh, hush if you please!” said Miss Tox.
+“Where are you going?” said Harriet.
 
-“I was about to say to you, Richards,” resumed Mr Dombey, with an
-appalling glance at Mr John, “that I was further assisted in my
-decision, by the recollection of a conversation I held with your
-husband in this room, on the occasion of your being hired, when he
-disclosed to me the [[Melancholy|melancholy]] fact that your family, himself at the
-head, were sunk and steeped in ignorance.”
+“Yonder,” she answered, pointing with her hand. “To [[London]].”
 
-Richards quailed under the magnificence of the reproof.
+“Have you any [[Home|home]] to go to?”
 
-“I am far from being friendly,” pursued Mr Dombey, “to what is called
-by persons of levelling sentiments, general [[Education|education]]. But it is
-necessary that the inferior classes should continue to be taught to
-know their position, and to conduct themselves properly. So far I
-approve of schools. Having the power of nominating a [[Child|child]] on the
-foundation of an ancient establishment, called (from a worshipful
-company) the Charitable Grinders; where not only is a wholesome
-[[Education|education]] bestowed upon the scholars, but where a dress and badge is
-likewise provided for them; I have (first communicating, through Mrs
-Chick, with your family) nominated your eldest son to an existing
-vacancy; and he has this day, I am informed, assumed the habit. The
-number of her son, I believe,” said Mr Dombey, turning to his sister
-and speaking of the [[Child|child]] as if he were a hackney-coach, is one hundred
-and forty-seven. Louisa, you can tell her.”
+“I think I have a mother. She’s as much a mother, as her dwelling is a
+[[Home|home]],” she answered with a bitter laugh.
 
-“One hundred and forty-seven,” said Mrs Chick “The dress, Richards, is
-a nice, warm, blue baize tailed coat and cap, turned up with orange
-coloured binding; red worsted stockings; and very strong leather
-small-clothes. One might wear the articles one’s [[Self|self]],” said Mrs Chick,
-with enthusiasm, “and be grateful.”
+“Take this,” cried Harriet, putting money in her hand. “Try to do [[Well|well]].
+It is very little, but for one day it may keep you from harm.”
 
-“There, Richards!” said Miss Tox. “Now, indeed, you may be proud. The
-Charitable Grinders!”
+“Are you married?” said the other, faintly, as she took it.
 
-“I am sure I am very much obliged, Sir,” returned Richards faintly,
-“and take it very kind that you should remember my little ones.” At the
-same [[Time|time]] a vision of Biler as a Charitable Grinder, with his very
-small legs encased in the serviceable clothing described by Mrs Chick,
-swam before Richards’s eyes, and made them [[Water|water]].
+“No. I live here with my brother. We have not much to spare, or I would
+give you more.”
 
-“I am very glad to see you have so much feeling, Richards,” said Miss
-Tox.
+“Will you let me kiss you?”
 
-“It makes one almost [[Hope|hope]], it really does,” said Mrs Chick, who prided
-herself on taking trustful views of human [[Nature|nature]], “that there may yet
-be some faint spark of gratitude and right feeling in the world.”
+Seeing no scorn or repugnance in her face, the object of her [[Charity|charity]]
+bent over her as she asked the question, and pressed her lips against
+her cheek. Once more she caught her arm, and covered her eyes with it;
+and then was gone.
 
-Richards deferred to these compliments by curtseying and murmuring her
-thanks; but finding it quite impossible to recover her spirits from the
-disorder into which they had been thrown by the image of her son in his
-precocious nether garments, she gradually approached the door and was
-heartily relieved to escape by it.
-
-Such temporary indications of a partial thaw that had appeared with
-her, vanished with her; and the [[Frost|frost]] set in again, as cold and hard as
-ever. Mr Chick was twice heard to hum a tune at the [[Bottom|bottom]] of the
-table, but on both occasions it was a [[Fragment|fragment]] of the Dead March in
-Saul. The party seemed to get colder and colder, and to be gradually
-resolving itself into a congealed and solid state, like the collation
-round which it was assembled. At length Mrs Chick looked at Miss Tox,
-and Miss Tox returned the look, and they both [[Rose|rose]] and said it was
-really [[Time|time]] to go. Mr Dombey receiving this announcement with perfect
-equanimity, they took leave of that gentleman, and presently departed
-under the protection of Mr Chick; who, when they had turned their backs
-upon the [[house]] and left its master in his usual solitary state, put his
-hands in his pockets, threw himself back in the carriage, and whistled
-“With a hey ho chevy!” all through; conveying into his face as he did
-so, an expression of such gloomy and terrible defiance, that Mrs Chick
-dared not protest, or in any way molest him.
-
-Richards, though she had little Paul on her lap, could not forget her
-own first-born. She felt it was ungrateful; but the influence of the
-day fell even on the Charitable Grinders, and she could hardly help
-regarding his pewter badge, number one hundred and forty-seven, as,
-somehow, a part of its formality and sternness. She spoke, too, in the
-nursery, of his “blessed legs,” and was again troubled by his spectre
-in uniform.
-
-“I don’t know what I wouldn’t give,” said Polly, “to see the poor
-little dear before he gets used to ’em.”
-
-“Why, then, I tell you what, Mrs Richards,” retorted Nipper, who had
-been admitted to her confidence, “see him and make your mind easy.”
-
-“Mr Dombey wouldn’t like it,” said Polly.
-
-“Oh, wouldn’t he, Mrs Richards!” retorted Nipper, “he’d like it very
-much, I think when he was asked.”
-
-“You wouldn’t ask him, I suppose, at all?” said Polly.
-
-“No, Mrs Richards, quite contrairy,” returned Susan, “and them two
-inspectors Tox and Chick, not intending to be on duty tomorrow, as I
-heard ’em say, me and Miss Floy will go along with you tomorrow
-morning, and welcome, Mrs Richards, if you like, for we may as [[Well|well]]
-walk there as up and down a street, and better too.”
-
-Polly rejected the idea pretty stoutly at first; but by little and
-little she began to entertain it, as she entertained more and more
-distinctly the forbidden pictures of her children, and her own [[Home|home]]. At
-length, arguing that there could be no great harm in calling for a
-moment at the door, she yielded to the Nipper proposition.
-
-The matter being settled thus, little Paul began to cry most piteously,
-as if he had a foreboding that no good would come of it.
-
-“What’s the matter with the [[Child|child]]?” asked Susan.
-
-“He’s cold, I think,” said Polly, walking with him to and fro, and
-hushing him.
-
-It was a bleak autumnal afternoon indeed; and as she walked, and
-hushed, and, glancing through the dreary windows, pressed the little
-fellow closer to her breast, the withered [[Leaves|leaves]] came showering down.
+Gone into the deepening [[Night|night]], and howling [[Wind|wind]], and pelting rain;
+urging her way on towards the mist-enshrouded [[City|city]] where the blurred
+lights gleamed; and with her black hair, and disordered head-gear,
+fluttering round her reckless face.

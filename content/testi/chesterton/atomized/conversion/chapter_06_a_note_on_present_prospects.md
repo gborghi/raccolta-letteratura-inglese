@@ -1,5 +1,5 @@
 ---
-title: "[[conversion]] — Chapter 6: A NOTE ON PRESENT PROSPECTS"
+title: "conversion — Chapter 6: A NOTE ON PRESENT PROSPECTS"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/conversion-(chesterton)"

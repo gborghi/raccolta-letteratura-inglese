@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 18: EIGHTEEN (part 1)"
+title: "Martin Chuzzlewit — Chapter 18: EIGHTEEN (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/martin-chuzzlewit-(dickens)">Martin Chuzzlewit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_17_seventeen/part_07">‹ part 07</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_18_eighteen/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_17_seventeen/part_08">‹ part 08</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_18_eighteen/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -141,15 +141,3 @@ was capable of expressing.
 this twenty year.’
 
 ‘I grow blinder, too,’ said the old man, shaking his head.
-
-‘That’s a good sign!’ cried Chuffey. ‘Ha! ha! The best sign in the
-world! You saw too [[Well|well]] before.’
-
-He patted Anthony upon the hand as one might comfort a [[Child|child]], and
-drawing the old man’s arm still further through his own, shook his
-trembling fingers towards the spot where Jonas sat, as though he would
-wave him off. But, Anthony remaining quite still and silent, he relaxed
-his hold by slow degrees and lapsed into his usual niche in the corner;
-merely putting forth his hand at intervals and touching his old employer
-gently on the coat, as with the design of assuring himself that he was
-yet beside him.

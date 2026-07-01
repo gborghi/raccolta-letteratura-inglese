@@ -1,5 +1,5 @@
 ---
-title: "Robert Louis Stevenson — Chapter 3 (part 2)"
+title: "Robert Louis Stevenson — Chapter 2 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/robert-louis-stevenson-(chesterton)"
@@ -14,125 +14,106 @@ tags:
 </nav>
 
 
-I will here make what is a mere guess in the dark; and in a very dark
-matter of the mind.  But I suspect that it was originally out of this
-chasm of ugly division that there [[Rose|rose]] that two-headed [[Monster|monster]],
-the mystery of Jekyll and Hyde.  There is indeed one peculiarity
-about that grim [[Grotesque|grotesque]] which I have never seen noted anywhere;
-though I dare say it may have been noted more than once.
-It will be realised that I am not, alas, so close a student of
-Stevensoniana as many who seem to think much less of Stevenson.
-But it seems to me that the story of Jekyll and Hyde,
-which is presumably presented as happening in [[London]],
-is all the [[Time|time]] very unmistakably happening in Edinburgh.
-More than one of the characters seem to be pure Scots.
-Mr. Utterson, the lawyer, is a most unmistakably Scottish lawyer,
-strictly occupied with Scots Law.  No modern English lawyer ever read
-a book of dry divinity in the evening merely because it was [[Sunday]].
-Mr. Hyde indeed possesses the cosmopolitan charm that unites
-all nations; but there is something decidedly Caledonian about
-Dr. Jekyll; and especially something that calls up that quality
-in Edinburgh that led an unkind observer (probably from Glasgow)
-to describe it as "an east-windy, west-endy place."
-The particular tone about his respectability, and the horror
-of mixing his reputation with mortal frailty, belongs to the upper
-middle classes in solid Puritan communities.  But what is especially
-to the point of the present argument, there is a sense in which that
-[[Puritanism]] is expressed even more in Mr. Hyde than in Dr. Jekyll.
-The sense of the sudden stink of evil, the immediate invitation
-to step into stark filth, the abruptness of the alternative between
-that prim and proper pavement and that black and reeking gutter--
-all this, though doubtless involved in the [[logic]] of the tale,
-is far too frankly and familiarly offered not to have had some basis
-in observation and reality.  It is not thus that the ordinary young pagan,
-of warmer climes, conceives the alternative of [[Christ]] and Aphrodite.
-His [[Imagination|imagination]] and half his mind are involved in defending
-the [[Beauty|beauty]] and dignity of the joy of gods and men.  It is not
-so that Stevenson himself came to talk of such things, when he had
-felt the [[Shadow|shadow]] of old Athens fall on the pagan side of [[Paris]].
-I allow for all the necessary horror of the conception of Hyde.
-But this dingy quality does not belong only to the demon antics of Hyde.
-It is implied, somehow, in every word about the furtive and embarrassed
-vices of Jekyll.  It is the [[Tragedy|tragedy]] of a Puritan town; every bit
-as much as that black legend which Stevenson loved, in which the
-walking-stick of Major Weir went walking down the street all by itself.
-I [[Hope|hope]] to say something in a moment about the very deep and indeed
-very just and wise [[morality]] that is really involved in that ugly tale.
-I am only remarking here that the atmosphere and setting of it
-are those of some tale of stiff hypocrisy in a rigid sect or
-provincial village; it might be a tale of the Middle West savagely
-dissected in the Spoon [[River]] Anthology.  But the point about it is
-that the human [[Beauty|beauty]] which makes sin most dangerous hardly appears
-by a hint; this Belial is never graceful or humane; and in this
-there seems to me to be something suggestive of the inverted order
-and ugly contrast with which licence presents itself in a world
-that has frowned on liberty.  It is the utterance of somebody who,
-in the words of Kipling, knew the worst too young; not necessarily
-in his own act or by his own fault, but by the [[Nature|nature]] of a system
-which saw no difference between the worst and the moderately bad.
-But whatever form the shock of evil might take, I think it jerked
-him out of the right development of his romantic [[Nature|nature]]; and was
-responsible for much that seemed random or belated in his life.
+This is but a rough experimental method; but it will be found useful
+to make the experiment, of calling up all the Stevensonian scenes
+that recur most readily to the [[Memory|memory]]; and noting this bright hard
+quality in shape and hue.  It will make it seem all the stranger
+that any ornithologist could have confused [[The Raven|the raven]] of Poe with
+the parrot of Long John Silver.  The parrot was scarce more reputable;
+but he was a bird from the lands of bright plumage and blue skies,
+where the other bird was a mere [[Shadow|shadow]] making darkness more dark.
+It is even worth noting that when the more modern pirates of _The Wrecker_
+carried away with them a caged bird, it had to be a canary.
+It is specially observed when Stevenson is dealing with things which many
+of his contemporaries made merely shadowy or unfathomably mysterious;
+such as the Highland hills and all the lost kingdoms of the Gael.
+His Highland tales have everything Scotch except Scotch mist.
+At that [[Time|time]], and even before, writers of the school of Fiona Macleod
+were already treating such peoples entirely as the Children of the Mist.
+But there is very little mist on the [[Mountains|mountains]] of Stevenson.
+There is no Celtic twilight about his Celts.  Alan Breck Stewart had
+no yearning for any delicate vapour to veil his bright silver buttons
+or his bright blue French coat.  There was hardly a cloud in the sky
+upon that day of doom, when Glenure dropped dead in the sunshine;
+and he did not have red hair for nothing.  Stevenson is even moved
+to mention that the servant behind him was laden with lemons;
+because lemons are bright yellow.  This sort of making of a picture
+may not be conscious, but it is none the less characteristic.
+Of course I do not mean literally that all the scenes in any [[Novel|novel]] could
+have the same scheme of colour, or occur at the same [[Time|time]] of day.
+There are exceptions to the rule; but even these will generally
+be found to be exceptions that prove the rule.  A [[Time|time]] of _A Lodging
+for the Night_ is not unnaturally at [[Night|night]]; but even in that [[nightmare]]
+of [[Winter|winter]] in mediaeval [[Paris]] the mind's eye is really filled
+rather with the whiteness of [[Snow|snow]] than the blackness of darkness.
+It is against the [[Snow|snow]] that we see the flaming mediaeval figures;
+and especially that memorable figure who (like Campbell
+of Glenure) had no right to have red hair when he was dead.
+The hair is like a scarlet splash of [[Blood|blood]] crying for vengeance;
+but I [[Doubt|doubt]] whether the doomed gentleman in Poe's poetry would
+have been allowed to have red hair even when he was alive.
+In the same way, it would be easy to answer in detail, by finding
+some description of [[Night|night]] in the works of Stevenson; but it would
+never be the [[Night|night]] that broods eternally on the works of Poe.
+It might be said, for instance, that there are few more vivid
+or typical scenes in the Stevensonian tales than that of the duel at
+midnight in _The Master of Ballantrae._ But there again the exception
+proves the rule; the description insists not on the darkness
+of [[Night|night]] but on the hardness of [[Winter|winter]], the "windless stricture
+of the [[Frost|frost]]"; the candles that stand as straight as the swords;
+the candle-flames that seem almost as cold as the [[Stars|stars]].
+I have spoken of the [[Double|double]] meaning of a woodcut;
+this was surely, in the same [[Double|double]] sense, a steel engraving.
+A steely cold stiffens and steadies that tingling play of steel;
+and that not only materially but morally.  The [[house|House]] of Durrisdeer
+does not fall after the fashion of The [[house|House]] of Ussher.
+There is in that murderous scene I know not what that is clean
+and salt and sane; and, in spite of all, the white [[Frost|frost]] gives
+to the candles a sort of cold [[Purification|purification]] as of Candlemas.
+But the point is, at the moment, that when we say this deed was done
+at [[Night|night]], we do not mean that it was done in the dark.  There is a sense
+of exactitude and emphatic detail that belongs entirely to the day.
+Here indeed the two authors so strangely compared might almost
+have conspired in advance against the critic who compared them:
+as when Poe's ideal [[Detective|detective]] prefers to think in the dark,
+and therefore puts up the shutters even during the day.
+Dupin brings the outer darkness into the parlour, while Durie
+carries the candle-light into the forest.
 
-I do not mean to imply that the [[morality]] of the story itself has anything
-of weakness or morbidity; my opinion is very much the other way.
-Though the [[Fable|fable]] may seem mad, the moral is very sane; indeed, the moral
-is strictly orthodox.  The trouble is that most of those who mention it
-do not know the moral, possibly because they have never read the [[Fable|fable]].
-From [[Time|time]] to [[Time|time]] those anonymous authorities in the newspapers,
-who dismiss Stevenson with such languid grace, will say that there
-is something quite cheap and obvious about the idea that one man
-is really two men and can be divided into the evil and the good.
-Unfortunately for them, that does not happen to be the idea.
-The real stab of the story is not in the discovery that the one man
-is two men; but in the discovery that the two men are one man.
-After all the diverse wandering and warring of those two incompatible
-beings, there was still one man born and only one man buried.
-Jekyll and Hyde have become a proverb and a joke; only it is
-a proverb read backwards and a joke that nobody really sees.
-But it might have occurred to the languid critics, as a part of the joke,
-that the tale is a [[Tragedy|tragedy]]; and that this is only another way
-of saying that the experiment was a failure.  The point of the story
-is not that a man _can_ cut himself off from his [[Conscience|conscience]],
-but that he cannot.  The surgical operation is fatal in the story.
-It is an amputation of which both the parts die.  Jekyll, even in dying,
-declares the conclusion of the matter; that the load of man's
-moral struggle is bound upon him and cannot be thus escaped.
-The reason is that there can never be equality between the evil
-and the good.  Jekyll and Hyde are not twin brothers.
-They are rather, as one of them truly remarks, like father and son.
-After all, Jekyll created Hyde; Hyde would never have created Jekyll;
-he only destroyed Jekyll.  The notion is not so hackneyed as the critics
-find it, after Stevenson has found it for them thirty years ago.
-But Jekyll's claim is not that it is the first of such experiments
-in duality; but rather that it must be the last.
+These images are not fancies or accidents:  their spirit runs
+through the whole scene.  The same incident, for instance, shows all
+the author's [[Love|love]] of sharp edges and cutting or piercing action.
+It is supremely typical that he made Mrs. Durie thrust the [[Sword|sword]]
+up to the hilt into the frozen ground.  It is true that afterwards
+(perhaps under the sad eye of Mr. Archer and the sensitive realists)
+he consented to withdraw this as "an exaggeration to stagger Hugo."
+But it is much more significant that it did not originally
+stagger Stevenson.  It was the very vital gesture of all his works
+that that sharp blade should cleave that stiff clay.  It was true
+in many other senses, touching mortal clay and the [[Sword|sword]] of the spirit.
+But I am speaking now of the gesture of the craftsman, like that of
+a man cutting wood.  This man had an appetite for cutting it clean.
+He never committed a murder without making a clean job of it.
 
-Nor do I necessarily admit the technical clumsiness which some
-have alleged against the tale, merely because I believe that many
-of its emotions were first experienced in the crude [[Pain|pain]] of youth.
-Some have gone into particular detail in order to pick it to pieces;
-and Mr. E. F. Benson has made the (to me) strange remark that
-the structure of the story breaks down when Jekyll discovers
-that his chemical combination was partly accidental and is
-therefore unrecoverable.  The critic says scornfully that it
-would have done just as [[Well|well]] if Jekyll had taken a blue pill.
-It seems to me odd that any one who seems to know so much about
-the devil as the author of _Colin_ should fail to recognise the cloven
-hoof in the cloven spirit called up by the Jekyll experiment.
-That moment in which Jekyll finds his own formula fail him,
-through an accident he had never foreseen, is simply the supreme
-moment in every story of a man buying power from hell; the moment
-when he finds the flaw in the deed.  Such a moment comes to [[Macbeth]]
-and Faustus and a hundred others; and the whole point of it is
-that nothing is really secure, least of all a Satanist security.
-The moral is that the devil is a liar, and more especially a traitor;
-that he is more dangerous to his friends than his foes; and, with all
-deference to Mr. Benson, it is not a shallow or unimportant moral.
-But although the story ultimately emerged as a gargoyle very carefully
-graven by a mature master-craftsman, and was moreover a gargoyle
-of the greatest spiritual edification, eminently suited to be stuck
-on to the most sacred edifice, my point for the moment is that the stone
-of which it was made was originally found, I think, by Stevenson
-as a boy, kicking about the street, not to mention the gutter.
-In other words, he did not need to leave the respectable metropolis
-of the north to find the weaknesses of Jekyll and the crimes of Hyde.
+Whence did that spirit come; and how did the story of it begin?
+That is the right and real way of beginning the story of Stevenson.
+If I say that it began with cutting figures out of cardboard,
+it might sound like a [[Parody|parody]] of the pedantic fancies about juvenile
+psychology and early [[Education|education]].  But perhaps it will be better even
+to run the horrid risk of being mistaken for a modern educationist,
+rather than to repeat the too familiar phrases by which the admirer
+of Stevenson has got himself described as a sentimentalist.
+Too much has been talked in this connection about the [[Soul]] of the [[Child]]
+or the Peter Pan of Samoa; not because it is untrue, but because it
+is a mistake to tell a [[Truth|truth]] too often, so that it loses its freshness;
+especially when it is the [[Truth|truth]] about how to remain fresh.
+Many are perhaps rather tired of hearing about it; though they would
+never be tired of having it.  I have therefore deliberately approached
+the matter by another [[Road|road]]; and even by a [[Road|road]] running backwards.
+Instead of talking first about Cummy and the nursery anecdotes
+of Master Louis (at the risk of making a really graceful figure grow
+ridiculous by mere repetition, in the eyes of multitudes of greatly
+inferior people) I have tried to take the stock and normal of his
+work first, and then note that it really does date in a special
+sense from his [[Childhood|childhood]]; and that it is not sentimental and not
+senseless and not irrelevant to say so.

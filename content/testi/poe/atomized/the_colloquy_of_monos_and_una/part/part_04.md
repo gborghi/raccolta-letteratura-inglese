@@ -1,5 +1,5 @@
 ---
-title: "[[The Colloquy of Monos and Una]] (part 4)"
+title: "The Colloquy of Monos and Una (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-colloquy-of-monos-and-una-(poe)"
@@ -13,6 +13,26 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_colloquy_of_monos_and_una/part/part_03">‹ part 03</a><span></span></div>
 </nav>
 
+
+      momentary errors of each. And this—this keen, perfect,
+
+      [[Self|self]]-existing sentiment of duration—this sentiment existing (as
+
+      man could not possibly have conceived it to exist) independently
+
+      of any succession of events—this idea—this sixth sense,
+
+      upspringing from the ashes of the rest, was the first obvious and
+
+      certain step of the intemporal [[Soul|soul]] upon the threshold of the
+
+      temporal [[Eternity]].
+
+
+
+      It was midnight; and you still sat by my side. All others had
+
+      departed from the chamber of [[Death]]. They had deposited me in the
 
       coffin. The lamps burned flickeringly; for this I knew by the
 

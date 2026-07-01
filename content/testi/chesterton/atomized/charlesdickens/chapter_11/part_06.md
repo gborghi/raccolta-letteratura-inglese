@@ -1,5 +1,5 @@
 ---
-title: "[[CharlesDickens]] — Chapter 8 (part 6)"
+title: "CharlesDickens — Chapter 8 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/charlesdickens-(chesterton)"
@@ -13,6 +13,37 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/charlesdickens/chapter_11/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/charlesdickens/chapter_12/part_01">part 01 ›</a></div>
 </nav>
 
+
+But there is a good reason for mentioning Skimpole especially.
+In the character of Skimpole, Dickens displayed again
+a quality that was very admirable in him--I mean a disposition
+to see things sanely and to satirise even his own faults.
+He was commonly occupied in satirising the Gradgrinds,
+the economists, the men of Smiles and [[Self]]-Help. For him
+there was nothing poorer than their wealth, nothing more
+selfish than their [[Self|self]]-denial. And against them he was in
+the habit of pitting the people of a more expansive habit--
+the happy Swivellers and Micawbers, who, if they were poor,
+were at least as rich as their last penny could make them.
+He loved that great Christian carelessness that seeks its meat
+from God.  It was merely a kind of uncontrollable honesty that
+forced him into urging the other side.  He could not disguise from
+himself or from the world that man who began by seeking his meat
+from his neighbour without apprising his neighbour of the fact.
+He had shown how good irresponsibility could be; he could
+not stoop to hide how bad it could be.  He created Skimpole;
+and Skimpole is the dark underside of Micawber.
+
+In attempting Skimpole he attempted something with a great
+and urgent meaning.  He attempted it, I say; I do not assert
+that he carried it through.  As has been remarked, he was never
+successful in describing psychological change; his characters
+are the same yesterday, to-day, and for ever.  And critics
+have complained very justly of the crude villainy of Skimpole's
+action in the matter of Joe and Mr. Bucket.  Certainly Skimpole
+had no need to commit a clumsy treachery to win a clumsy bribe;
+he had only to call on Mr. Jarndyce.  He had lost his [[Honour|honour]]
+too long to need to sell it.
 
 The effect is bad; but I repeat that the aim was great.
 Dickens wished, under the symbol of Skimpole, to point out a

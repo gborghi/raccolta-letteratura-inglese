@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 7 (part 5)"
+title: "Shirley — Chapter 7 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,34 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_07/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_07/part_06">part 06 ›</a></div>
 </nav>
 
+
+exulted; but the voice asking for Mr. Helstone undeceived her. That
+
+voice was an Irish voice, consequently not Moore's, but the
+
+curate's--Malone's. He was ushered into the dining-room, where,
+
+doubtless, he speedily helped his rector to empty the decanters.
+
+
+
+It was a fact to be noted, that at whatever [[house]] in Briarfield,
+
+Whinbury, or Nunnely one curate dropped in to a meal--dinner or tea, as,
+
+the case might be--another presently followed, often two more. Not that
+
+they gave each other the rendezvous, but they were usually all on the
+
+run at the same [[Time|time]]; and when Donne, for instance, sought Malone at his
+
+lodgings and found him not, he inquired whither he had posted, and
+
+having learned of the landlady his destination, hastened with all [[Speed|speed]]
+
+after him. The same causes operated in the same way with Sweeting. Thus
+
+it chanced on that afternoon that Caroline's ears were three times
 
 tortured with the ringing of the bell and the advent of undesired
 
@@ -181,47 +209,3 @@ surprise from the lips of the four ladies.
 persuaded papa to go. Hannah would insist upon it. But he fell asleep
 
 while Mr. Langweilig, the German Moravian minister, was speaking. I felt
-
-quite ashamed, he nodded so."
-
-
-
-"And there was Dr. Broadbent," cried Hannah--"such a beautiful speaker!
-
-You couldn't expect it of him, for he is almost a vulgar-looking man."
-
-
-
-"But such a dear man," interrupted Mary.
-
-
-
-"And such a good man, such a useful man," added her mother.
-
-
-
-"Only like a butcher in appearance," interposed the fair, proud Harriet.
-
-"I couldn't bear to look at him. I listened with my eyes shut."
-
-
-
-Miss Helstone felt her ignorance and incompetency. Not having seen Dr.
-
-Broadbent, she could not give her opinion. Pause third came on. During
-
-its continuance, Caroline was feeling at her heart's core what a
-
-dreaming [[Fool|fool]] she was, what an unpractical life she led, how little
-
-fitness there was in her for ordinary intercourse with the ordinary
-
-world. She was feeling how exclusively she had attached herself to the
-
-white cottage in the Hollow, how in the existence of one inmate of that
-
-cottage she had pent all her universe. She was sensible that this would
-
-not do, and that some day she would be forced to make an alteration. It
-
-could not be said that she exactly wished to resemble the ladies before

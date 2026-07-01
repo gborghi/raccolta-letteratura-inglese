@@ -1,5 +1,5 @@
 ---
-title: "[[The Murders in the Rue Morgue]] (part 2)"
+title: "The Murders in the Rue Morgue (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-murders-in-the-rue-morgue-(poe)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_murders_in_the_rue_morgue/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/the_murders_in_the_rue_morgue/part/part_03">part 03 ›</a></div>
 </nav>
 
+
+      gathering a fund of thought from the differences in the
+
+      expression of certainty, of surprise, of triumph, or of chagrin.
 
       From the manner of gathering up a trick he judges whether the
 
@@ -80,7 +84,7 @@ tags:
 
 
 
-      Residing in [[Paris]] during the [[Spring|spring]] and part of the [[Summer|summer]] of
+      Residing in [[Paris]] during the [[spring]] and part of the [[Summer|summer]] of
 
       18—, I there became acquainted with a Monsieur [[C. Auguste Dupin]].
 
@@ -193,15 +197,3 @@ tags:
       of the day, or roaming far and wide until a late hour, seeking,
 
       amid the wild lights and shadows of the populous [[City|city]], that
-
-      infinity of mental excitement which quiet observation can afford.
-
-
-
-      At such times I could not help remarking and admiring (although
-
-      from his rich ideality I had been prepared to expect it) a
-
-      peculiar analytic ability in Dupin. He seemed, too, to take an
-
-      eager delight in its exercise—if not exactly in its display—and

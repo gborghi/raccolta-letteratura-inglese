@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 45 (part 4)"
+title: "The Tenant of Wildfell Hall — Chapter 45 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,36 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_45/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_45/part_05">part 05 ›</a></div>
 </nav>
 
+
+not be myself; and though, if ever I win heaven at all, I must, I know,
+
+be infinitely better and happier than I am now, my earthly [[Nature|nature]]
+
+cannot rejoice in the anticipation of such beatitude, from which itself
+
+and its chief joy must be excluded.”
+
+
+
+“Is your [[Love|love]] _all_ earthly, then?”
+
+
+
+“No, but I am supposing we shall have no more intimate communion with
+
+each other than with the rest.”
+
+
+
+“If so, it will be because we [[Love|love]] them more, and not each other less.
+
+Increase of [[Love|love]] brings increase of happiness, when it is mutual, and
+
+pure as that will be.”
+
+
+
+“But can _you_, [[Helen]], contemplate with delight this prospect of losing
 
 me in a sea of glory?”
 
@@ -116,7 +146,7 @@ ourselves apart, and I rushed from the [[house]].
 
 
 
-I have a confused remembrance of seeing little [[arthur|Arthur]] running up the
+I have a confused remembrance of seeing little [[Arthur]] running up the
 
 [[Garden|garden]]-walk to meet me, and of bolting over the wall to avoid him—and
 
@@ -183,31 +213,3 @@ Arrived at Woodford, the young squire’s abode, I found no little
 difficulty in obtaining admission to his presence. The servant that
 
 opened the door told me his master was very ill, and seemed to think it
-
-doubtful whether he would be able to see me. I was not going to be
-
-baulked, however. I waited calmly in the hall to be announced, but
-
-inwardly determined to take no denial. The message was such as I
-
-expected—a polite intimation that Mr. Lawrence could see no one; he was
-
-feverish, and must not be disturbed.
-
-
-
-“I shall not disturb him long,” said I; “but I must see him for a
-
-moment: it is on business of importance that I wish to speak to him.”
-
-
-
-“I’ll tell him, sir,” said the man. And I advanced further into the
-
-hall and followed him nearly to the door of the apartment where his
-
-master was—for it seemed he was not in bed. The answer returned was
-
-that Mr. Lawrence hoped I would be so good as to leave a message or a
-
-note with the servant, as he could attend to no business at present.

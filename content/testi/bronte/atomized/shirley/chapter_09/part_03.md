@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 9 (part 3)"
+title: "Shirley — Chapter 9 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_09/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_09/part_04">part 04 ›</a></div>
 </nav>
 
+
+turn out quite ordinary, commonplace beings; and they were not. You see
+
+six of them, reader. The youngest is a baby on the mother's knee. It is
+
+all her own yet, and that one she has not yet begun to [[Doubt|doubt]], suspect,
+
+condemn; it derives its sustenance from her, it hangs on her, it clings
+
+to her, it loves her above everything else in the world. She is sure of
+
+that, because, as it lives by her, it cannot be otherwise, therefore she
+
+loves it.
+
+
+
+The two next are girls, [[Rose]] and Jessy; they are both now at their
 
 father's knee; they seldom go near their mother, except when obliged to
 
@@ -177,27 +195,3 @@ a low voice he pleads, "Mark and Martin, don't anger your brother." And
 this is ever the tone adopted by both parents. Theoretically, they decry
 
 partiality--no rights of primogeniture are to be allowed in that [[house]];
-
-but Matthew is never to be vexed, never to be opposed; they avert
-
-provocation from him as assiduously as they would avert [[Fire|fire]] from a
-
-barrel of gunpowder. "Concede, conciliate," is their motto wherever he
-
-is concerned. The republicans are fast making a [[Tyrant|tyrant]] of their own
-
-flesh and [[Blood|blood]]. This the younger scions know and feel, and at heart
-
-they all [[Rebel|rebel]] against the injustice. They cannot read their parents'
-
-motives; they only see the difference of treatment. The dragon's teeth
-
-are already sown amongst Mr. Yorke's young olive-branches; discord will
-
-one day be the harvest.
-
-
-
-Mark is a bonny-looking boy, the most regular-featured of the family. He
-
-is exceedingly calm; his smile is shrewd; he can say the driest, most

@@ -14,6 +14,8 @@ tags:
 </nav>
 
 
+hold a great many of the same views as [[Queen]] Victoria, though he was
+
 gifted with a more fortunate literary style. If Dickens is Cobbett's
 
 [[Democracy|democracy]] stirring in its [[Grave|grave]], Tennyson is the exquisitely ornamental
@@ -76,15 +78,11 @@ _were_ mighty and who _were_ vanquished. But when Tennyson wrote verses
 
 like--
 
-
-
     "Of [[Freedom|freedom]] in her regal seat,
 
     Of England; not the schoolboy heat,
 
     The blind hysterics of the Celt"
-
-
 
 he quite literally did not know one word of what he was talking about;
 
@@ -93,8 +91,6 @@ he did not know what Celts are, or what hysterics are, or what [[Freedom|freedom
 was, or what regal was or even of what England was--in the living Europe
 
 of that [[Time|time]].
-
-
 
 His religious range was very much wider and wiser than his political;
 
@@ -113,8 +109,6 @@ deal to say; but he had much more power of expression than was wanted
 for anything he had to express. He could not think up to the height of
 
 his own towering style.
-
-
 
 For whatever else Tennyson was, he was a great poet; no mind that feels
 
@@ -170,15 +164,11 @@ make the main poem mean exactly what he did not mean. Thus, these two
 
 lines which simply say that
 
-
-
     "Lancelot was the first in tournament,
 
-    But [[Arthur]] mightiest in the battle-field"
+    But [[arthur|Arthur]] mightiest in the battle-field"
 
-
-
-do really express what he meant to express about [[Arthur]] being after all
+do really express what he meant to express about [[arthur|Arthur]] being after all
 
 "the highest, yet most human too; not Lancelot, nor another." But as his
 
@@ -186,7 +176,7 @@ do really express what he meant to express about [[Arthur]] being after all
 
 that poor old Lancelot, with all his faults, was much more of a man than
 
-[[Arthur]]. He was a Victorian in the bad as [[Well|well]] as the good sense; he
+[[arthur|Arthur]]. He was a Victorian in the bad as [[Well|well]] as the good sense; he
 
 could not keep priggishness out of long [[Poems|poems]]. Or again, take the case
 
@@ -195,21 +185,3 @@ of _In Memoriam_. I will quote one verse (probably incorrectly) which
 has always seemed to me splendid, and which does express what the whole
 
 poem should express--but hardly does.
-
-
-
-    "That we may lift from out the [[Dust|dust]],
-
-    A voice as unto him that hears
-
-    A cry above the conquered years
-
-    Of one that ever works, and trust."
-
-
-
-The poem should have been a cry above the conquered years. It might [[Well|well]]
-
-have been that if the poet could have said sharply at the end of it, as
-
-a pure piece of dogma, "I've forgotten every feature of the man's face:

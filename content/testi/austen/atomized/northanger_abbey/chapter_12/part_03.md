@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 11 (part 3)"
+title: "Northanger Abbey — Chapter 11 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_12/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_14/part_01">part 01 ›</a></div>
 </nav>
 
+
+grated door; or even of having their lamp, their only lamp,
+
+extinguished by a sudden gust of [[Wind|wind]], and of being left in total
+
+darkness. In the meanwhile, they proceeded on their [[Journey|journey]] without any
+
+mischance, and were within view of the town of Keynsham, when a halloo
+
+from Morland, who was behind them, made his friend pull up, to know
 
 what was the matter. The others then came close enough for
 

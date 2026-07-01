@@ -1,5 +1,5 @@
 ---
-title: "[[queertrades]] — Chapter 3 (part 5)"
+title: "queertrades — Chapter 3 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/queertrades-(chesterton)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/queertrades/story_03_chapter_3/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/queertrades/story_03_chapter_3/part_06">part 06 ›</a></div>
 </nav>
 
+
+"The [[Truth|truth]] and dignity of this staggered the policeman for a moment.
+Under cover of their advantage my five persecutors turned for an
+instant on me faces like faces of the damned and then swished off
+into the darkness.  When the constable first turned his lantern
+and his suspicions on to them, I had seen the telegraphic look flash
+from face to face saying that only retreat was possible now.
 
 "By this [[Time|time]] I was sinking slowly to the pavement, in a state
 of acute reflection.  So long as the ruffians were with me, I dared
@@ -131,21 +138,3 @@ of the [[Death|death]] of friends with heart disease.  It might come anywhere,
 in a field, in a hansom cab, looking at a sunset, smoking a cigarette.
 It had come now.  At the very moment of delivering a judgement
 for the salvation of a fellow creature, Basil Grant had gone mad.
-
-"Your whiskers," he cried, advancing with blazing eyes.
-"Give me your whiskers.  And your bald head."
-
-The old vicar naturally retreated a step or two.  I stepped between.
-
-"Sit down, Basil," I implored, "you're a little excited.
-Finish your wine."
-
-"Whiskers," he answered sternly, "whiskers."
-
-And with that he made a dash at the old gentleman, who made a dash
-for the door, but was intercepted.  And then, before I knew where I
-was the quiet room was turned into something between a pantomime
-and a pandemonium by those two.  Chairs were flung over with a crash,
-tables were vaulted with a noise like thunder, screens were smashed,
-crockery scattered in smithereens, and still Basil Grant bounded
-and bellowed after the Rev. Ellis Shorter.

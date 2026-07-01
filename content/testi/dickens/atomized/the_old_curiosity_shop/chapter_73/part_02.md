@@ -14,6 +14,18 @@ tags:
 </nav>
 
 
+It was rumoured afterwards that this horrible and barbarous ceremony
+had been dispensed with, and that the remains had been secretly given
+up to Tom Scott.  But even here, opinion was divided; for some said Tom
+dug them up at midnight, and carried them to a place indicated to him
+by the widow.  It is probable that both these stories may have had
+their origin in the simple fact of Tom’s shedding [[Tears|tears]] upon the
+inquest--which he certainly did, extraordinary as it may appear.  He
+manifested, besides, a strong [[Desire|desire]] to assault the jury; and being
+restrained and conducted out of [[Court|court]], darkened its only [[Window|window]] by
+standing on his head upon the sill, until he was dexterously tilted
+upon his feet again by a cautious beadle.
+
 Being cast upon the world by his master’s [[Death|death]], he determined to go
 through it upon his head and hands, and accordingly began to tumble for
 his bread.  Finding, however, his English birth an insurmountable
@@ -101,23 +113,3 @@ whatever she said, it wasn’t No; and they were married in good earnest
 that day week.  Which gave Mr Swiveller frequent occasion to remark at
 divers subsequent periods that there had been a young lady saving up
 for him after all.
-
-A little cottage at Hampstead being to let, which had in its [[Garden|garden]] a
-smoking-box, the envy of the civilised world, they agreed to become its
-tenants, and, when the honey-[[Moon|moon]] was over, entered upon its
-occupation.  To this retreat Mr Chuckster repaired regularly every
-[[Sunday]] to spend the day--usually beginning with breakfast--and here he
-was the great purveyor of general news and fashionable intelligence.
-For some years he continued a deadly foe to Kit, protesting that he had
-a better opinion of him when he was supposed to have stolen the
-five-pound note, than when he was shown to be perfectly free of the
-crime; inasmuch as his [[Guilt|guilt]] would have had in it something daring and
-bold, whereas his [[innocence]] was but another proof of a sneaking and
-crafty disposition.  By slow degrees, however, he was reconciled to him
-in the end; and even went so far as to [[Honour|honour]] him with his patronage,
-as one who had in some measure reformed, and was therefore to be
-forgiven.  But he never forgot or pardoned that circumstance of the
-shilling; holding that if he had come back to get another he would have
-done [[Well|well]] enough, but that his returning to work out the former gift
-was a stain upon his moral character which no penitence or contrition
-could ever wash away.

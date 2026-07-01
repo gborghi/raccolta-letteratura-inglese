@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 6 (part 4)"
+title: "Mansfield Park — Chapter 6 (part 4)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -13,6 +13,8 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/mansfield_park/chapter_06/part_03">‹ part 03</a><a class="ex-next" href="/testi/austen/atomized/mansfield_park/chapter_07/part_01">part 01 ›</a></div>
 </nav>
 
+
+“You are fond of the sort of thing?” said [[Julia]].
 
 “Excessively; but what with the natural advantages of the ground, which
 pointed out, even to a very young eye, what little remained to be done,

@@ -1,5 +1,5 @@
 ---
-title: "[[longbow2]] — Chapter 1 (part 1)"
+title: "longbow2 — Chapter 1 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -17,7 +17,6 @@ tags:
                           Chapter I
 
         The Unpresentable Appearance of Colonel Crane
-
 
 These tales concern the doing of things recognized as
 impossible to do; impossible to believe; and, as the weary reader

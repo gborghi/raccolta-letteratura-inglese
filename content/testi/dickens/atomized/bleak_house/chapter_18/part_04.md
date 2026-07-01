@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 18 (part 4)"
+title: "Bleak House — Chapter 18 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_18/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_18/part_05">part 05 ›</a></div>
 </nav>
 
+
+“But this is taking a good deal of trouble,” said Mr. Skimpole in his
+light way, “when you are not in earnest after all.”
 
 “Not in earnest!” returned Mr. Boythorn with unspeakable warmth. “Not
 in earnest! If I could have hoped to train him, I would have bought a
@@ -117,6 +120,3 @@ carriage in which they had come. The servants then dispersed, and so
 did the congregation, whom Sir Leicester had contemplated all along
 (Mr. Skimpole said to Mr. Boythorn’s infinite delight) as if he were
 a considerable landed proprietor in heaven.
-
-“He believes he is!” said Mr. Boythorn. “He firmly believes it. So
-did his father, and his grandfather, and his great-grandfather!”

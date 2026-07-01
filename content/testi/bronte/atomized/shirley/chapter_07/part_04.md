@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 7 (part 4)"
+title: "Shirley — Chapter 7 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -12,6 +12,28 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_07/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_07/part_05">part 05 ›</a></div>
 </nav>
+
+
+scorpion will die, and you will have learned the great lesson how to
+
+endure without a sob. For the whole remnant of your life, if you survive
+
+the test--some, it is said, die under it--you will be stronger, wiser,
+
+less sensitive. This you are not aware of, perhaps, at the [[Time|time]], and so
+
+cannot borrow [[Courage|courage]] of that [[Hope|hope]]. [[Nature]], however, as has been
+
+intimated, is an excellent friend in such cases, sealing the lips,
+
+interdicting utterance, commanding a placid dissimulation--a
+
+dissimulation often wearing an easy and gay mien at first, settling down
+
+to sorrow and paleness in [[Time|time]], then passing away, and leaving a
+
+convenient stoicism, not the less fortifying because it is half-bitter.
+
 
 
 Half-bitter! Is that wrong? No; it should be bitter: bitterness is
@@ -199,31 +221,3 @@ drawing-room door, opened it softly, peeped through the aperture. Fanny
 was admitting a visitor--a gentleman--a tall man--just the height of
 
 Robert. For one second she thought it was Robert--for one second she
-
-exulted; but the voice asking for Mr. Helstone undeceived her. That
-
-voice was an Irish voice, consequently not Moore's, but the
-
-curate's--Malone's. He was ushered into the dining-room, where,
-
-doubtless, he speedily helped his rector to empty the decanters.
-
-
-
-It was a fact to be noted, that at whatever [[house]] in Briarfield,
-
-Whinbury, or Nunnely one curate dropped in to a meal--dinner or tea, as,
-
-the case might be--another presently followed, often two more. Not that
-
-they gave each other the rendezvous, but they were usually all on the
-
-run at the same [[Time|time]]; and when Donne, for instance, sought Malone at his
-
-lodgings and found him not, he inquired whither he had posted, and
-
-having learned of the landlady his destination, hastened with all [[Speed|speed]]
-
-after him. The same causes operated in the same way with Sweeting. Thus
-
-it chanced on that afternoon that Caroline's ears were three times

@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 20"
+title: "Northanger Abbey — Chapter 20"
 author: "Austen"
 unitType: chapter
 parentWork: "works/northanger-abbey-(austen)"
@@ -448,7 +448,7 @@ without discovering anything of importance—perhaps nothing but a
 
 considerable hoard of diamonds. At last, however, by touching a secret
 
-[[spring]], an inner compartment will open—a roll of paper appears—you
+[[Spring|spring]], an inner compartment will open—a roll of paper appears—you
 
 seize it—it contains many sheets of manuscript—you hasten with the
 

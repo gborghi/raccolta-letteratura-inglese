@@ -14,6 +14,22 @@ tags:
 </nav>
 
 
+It was dark before they reached the town itself, and long indeed the
+few last miles had been.  Here all was tumult and confusion; the
+streets were filled with throngs of people--many strangers were there,
+it seemed, by the looks they cast about--the church-[[Bells|bells]] rang out
+their noisy peals, and flags streamed from windows and [[house]]-tops.  In
+the large inn-yards waiters flitted to and fro and ran against each
+other, horses clattered on the uneven stones, carriage steps fell
+rattling down, and sickening smells from many dinners came in a heavy
+lukewarm breath upon the sense.  In the smaller public-houses, fiddles
+with all their might and main were squeaking out the tune to staggering
+feet; drunken men, oblivious of the burden of their [[Song|song]], joined in a
+senseless howl, which drowned the tinkling of the feeble bell and made
+them savage for their drink; vagabond groups assembled round the doors
+to see the stroller woman [[Dance|dance]], and add their uproar to the shrill
+flageolet and deafening drum.
+
 Through this delirious scene, the [[Child|child]], frightened and repelled by all
 she saw, led on her bewildered charge, clinging close to her conductor,
 and trembling lest in the press she should be separated from him and
@@ -106,15 +122,3 @@ the stilts, the little lady and the tall man, and all the other
 attractions, with organs out of number and bands innumerable, emerged
 from the holes and corners in which they had passed the [[Night|night]], and
 flourished boldly in the sun.
-
-Along the uncleared course, Short led his party, sounding the brazen
-trumpet and revelling in the voice of Punch; and at his heels went
-Thomas Codlin, bearing the show as usual, and keeping his eye on Nelly
-and her grandfather, as they rather lingered in the rear.  The [[Child|child]]
-bore upon her arm the little basket with her [[Flowers|flowers]], and sometimes
-stopped, with timid and modest looks, to offer them at some gay
-carriage; but alas! there were many bolder beggars there, gipsies who
-promised husbands, and other adepts in their trade, and although some
-ladies smiled gently as they shook their heads, and others cried to the
-gentlemen beside them ‘See, what a pretty face!’ they let the pretty
-face pass on, and never thought that it looked tired or hungry.

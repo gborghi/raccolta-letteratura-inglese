@@ -1,5 +1,5 @@
 ---
-title: "Robert Louis Stevenson — Chapter 4 (part 1)"
+title: "Robert Louis Stevenson — Chapter 3 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/robert-louis-stevenson-(chesterton)"
@@ -14,114 +14,127 @@ tags:
 </nav>
 
 
-CHAPTER IV
+CHAPTER III
 
-THE REACTION TO [[Romance|ROMANCE]]
+YOUTH AND EDINBURGH
 
-WHEN a man walks down the street with a very long feather stuck
-in his hat and streaming behind him, or carrying a gold-hilted
-rapier cocked at a gallant angle, there are some among the typists
-and clerks of Clapham Junction shrewd enough to perceive
-that there is something faintly ostentatious about him.
-And when a man walks down Piccadilly or the parade at Bournemouth
-with long hair streaming behind him and surmounted by an
-embroidered smoking-cap, there are not wanting critics so acute
-as to deduce (with all the detailed shrewdness of Sherlock Holmes)
-that such a man is not entirely averse from being looked at.
-Many long and laborious studies of Stevenson have been published lately,
-to fortify and establish this remarkable result; and I need not
-devote myself to proving it further.  Let us record with all due
-solemnity that Robert Louis Stevenson has been convicted by the [[Court|court]]
-of being very vain, if "dressing up" in the manner of a [[Child|child]],
-and not resenting the consequent conspicuous position, be the marks
-of [[Vanity|vanity]].  But there is one aspect of this [[Truth|truth]] which seems
-to me to have been strangely and even astonishingly overlooked.
-Everybody talks as if Stevenson had been not only conspicuous but quite
-unique in this sort of [[Vanity|vanity]].  Everybody seems to assume that among
-the artists of his [[Time|time]] he was entirely [[Alone|alone]] in his affectation.
-Contrasting in this respect with the humdrum respectability
-of Oscar Wilde, notable as the very reverse of the evangelical
-meekness of Jimmy Whistler, standing out as he does against
-the stodgy chapel-going piety of Max Beerbohm, having none
-of the cheery commonplaces of Aubrey Beardsley or the prosaic
-[[Self|self]]-effacement of [[Richard]] Le Gallienne, he naturally aroused
-attention by the slightest deviation into oddity or dandyism;
-things notoriously so unpopular among the decadents of the 'nineties.
-Among other things, everybody seems to have forgotten that Stevenson
-lived for some [[Time|time]] among the Parisian art students; who have never
-been remarkable for the bourgeois regularity of their coats and hats.
-Yet he actually mentions the offensive smoking-cap himself
-as originating in the Bohemian masquerade of the Quartier Latin.
-There he was not so much being eccentric as being conventional;
-for the convention was unconventionality.  A mob of men in that place
-and at that age, would have played the same sort of tricks and worn
-the same kind of clothes; nor was Stevenson, as I have said,
-the only one of them who carried these attitudes and antics
-through life.  Any one of them might have worn a smoking-cap;
-none of them would have objected to any variety of [[Fool|fool]]'s cap,
-though they hardly wished it identified with a dunce's cap.
-Many of them, still alive, would cheerfully admit that the cap fits.
-But poor Stevenson is to be remembered as a [[Fool|fool]], because all
-the fools are forgotten except Stevenson.
+IT is the suggestion of this chapter that when Stevenson first
+stepped out of his early Edinburgh [[Home|home]], he slipped upon the step.
+It may have been nothing worse, to begin with, than the ordinary
+butter-slide of the buffoonery of youth; such buffoonery as
+makes up the typical Edinburgh tale called _The Misadventures
+of John Nicholson._ But that tale [[Alone|alone]] would suggest that there
+was something a little greasy or even grimy about the butter.
+It is an odd story for Stevenson to have written; and no Stevensonian
+has any particular [[Desire|desire]] to dwell on those few of his works
+that might almost have been written by somebody else.  But it has
+a biographical importance that has hardly been properly estimated,
+even in connection with this rather overworked [[Biography|biography]].
+It is a curiously unlovely and uncomfortable [[Comedy|comedy]], not even
+uncomfortable enough to be a [[Tragedy|tragedy]].  The [[Hero|hero]] is not only not heroic,
+but he is hardly more amusing than attractive; and the fun that is
+made of him is not only not genial, but is not particularly funny.
+It is strange that such misadventures should come from the mind
+that gave us the radiant harlequinade of _The Wrong Box._ But I
+mention it here because it is full of a certain atmosphere, into which
+Stevenson was plunged too abruptly, as I believe, when he passed
+from boyhood into youth.  It is true to call it the atmosphere, or one
+of the atmospheres of Edinburgh; yet it is the very reverse of so much
+that we rightly associate with the arid dignity of the Modern Athens.
+There is something very specially sordid and squalid in the glimpses
+of low life given in the dissipations of John Nicholson;
+and something of the same kind comes to us like a gust of gas
+from the medical students of _The [[Body]] Snatcher._ When I say
+that this first step of Stevenson led him rather abruptly astray,
+I do not mean that he did anything half so bad as multitudes of polite
+persons have done in the most polished centres of civilisation.
+But I do mean that his [[City|city]] was not, in that particular aspect,
+very polite or polished or even particularly civilised.
+And I notice it because it has been noticed too little; and some
+other things have been noticed too much.
 
-It was not that sort of oddity that was really odd.  The costume
-for which he is now conspicuous was really part of a carnival.
-The attitude in which he stands, to the astonishment and
-grief of the critics, was really the fashion of a crowd.
-But what was really individual and interesting about him was the way
-in which he did actually react against the surroundings; the point
-at which he refused to run with the crowd or follow the fashion.
-No insanity in that cheerful lunatic asylum is so interesting
-to the psychologist as the shock of Stevenson going sane.
-No romantic ruffianism in which he may or may not have indulged
-is so curious as the real spirit of his revolt into respectability.
+It is an obvious [[Truth|truth]] that Stevenson was born of a Puritan tradition,
+in a Presbyterian country, where still rolled the echoes, at least,
+of the theological thunders of Knox; and where the Sabbath was
+sometimes more like a day of [[Death|death]] than a day of rest.  It is easy,
+only too easy, to apply this by representing Stevenson's father
+as a stern old Covenanter who frowned down the gay talents of his son;
+and such a simplification stands out boldly in black and white.
+But like many other black and white statements, it is not true;
+it is not even fair.  Old Mr. Stevenson was a Presbyterian and
+presumably a Puritan, but he was not a Pharisee; and he certainly
+did not need to be a Pharisee in order to condemn some parts of
+the conduct of his son.  It is probably true that almost any other
+son might have offended equally; but it is also true that almost
+any other father would have been equally offended.  The son would
+have been the last to pretend that the faults were all on one side;
+the only thing that can concern posterity in the matter is certain
+social conditions which gave to those faults a particular savour,
+which counted for something even when the faults themselves have been
+long left behind.  And while people have written rather too much
+about the [[Shadow|shadow]] of the Kirk and the restrictions of a Puritan society,
+there is something that has not been seen about what may be called
+the underside of such a Puritan [[City|city]].  There is something strangely
+ugly and ungracious not merely about the virtues but about the vices,
+and especially the pleasures, of such a place.  It can be felt,
+as I say, in Stevenson's own stories and in many other stories
+about Edinburgh.  Blasts of raw whisky come to us on that raw [[Wind|wind]]:
+there is sometimes something shrill, like the skirl of the pipes,
+about Scottish laughter; occasionally something very nearly insane
+about Scottish intoxication.  I will not connect it, as did a friend
+of mine, with the hypothesis that the heathen Scots originally
+worshipped demons; but it is probably connected with the same rather
+savage intensity which gave them their theological thoroughness.
+Anyhow, it is true that in such a world even [[Temptation|temptation]] itself
+has something terrifying as [[Well|well]] as tempting; and yet something
+at the same [[Time|time]] undignified and flat.  It was this that cut
+across the natural poetic adventure or [[Ambition|ambition]] of a young poet;
+and gave to the early part of his story a quality of frustration,
+if not of aberration.
 
-_Treasure Island,_ if hardly a [[Historical Novel|historical novel]], was essentially
-a historical event.  The rise or revolt of R. L. S. must be taken
-in relation to [[history]], to the [[history]] of the whole European mind
-and mood.  It was, first and last, a reaction against pessimism.
-There was thrown across all that earth and sky the gigantic [[Shadow|shadow]]
-of Schopenhauer.  At least it seemed gigantic then, though some of us
-may already have suspected that the [[Shadow|shadow]] was larger than the man.
-Anyhow, in that period we might almost say that pessimism was another
-name for culture.  Cheerfulness was associated with the Philistine,
-like the broad grin with the bumpkin.  Pessimism could be read
-between the lines of the lightest triolet or most elegant [[Essay|essay]].
-Any one who really remembers that [[Time|time]] will admit that the world
-was much more hopeful after the worst of its wars than it was
-not long before.  Mr. H. G. Wells, whose genius had just been
-discovered by Henley, was very much older than he is now.  He was
-prophesying that the outline of [[history]] would end, not in communism,
-but in cannibalism.  He was prophesying the end of the world:
-a crack of doom not even cheerful enough to be a day of judgement.
-Oscar Wilde, who perhaps filled up more room, both in mind and [[Body|body]],
-than anybody else on that stage at that moment, expressed his [[philosophy]]
-in that bitter [[Parable|parable]] in which [[Christ]] seeks to comfort a man weeping
-and is answered, "Lord, I was dead and you raised me to life;
-what else can I do but weep?"
+What was the matter with Stevenson, I fancy, in so far as there
+was ever anything much the matter with him, was that there was
+too sharp a contrast between the shelter and delicate fancies
+of his [[Childhood|childhood]] and the sort of world which met him like the [[Wind|wind]]
+on the front door-step. It was not merely the contrast between
+poetry and [[Puritanism]]; it was also the contrast between poetry
+and prose; and prose that was almost repulsively prosaic.
+He did not believe enough in [[Puritanism]] to cling to it; but he did
+believe very much in a potential poetry of life, and he was bewildered
+by its apparently impossible position in the world of real living.
+And his national religion, even if he had believed in his religion
+as ardently as he believed in his nation, would never have met
+that particular point at issue.
 
-This was the spirit that was behind all that levity; a levity
-that was like fireworks in more ways than one.  We talk of some
-Whistlerian [[Satire|satire]] as a squib; but squibs can only shine in the dark.
-It is all the difference between the colours of fireworks that have
-their back to the vault of [[Night|night]] and the colours of church windows
-that have their backs to the sun.  For these people all the light of life
-was in the foreground; there was nothing in the background but an abyss.
-They were rather nihilists than atheists; for there is a difference
-between worshipping Nothing and not worshipping anything.
-Now the interest of the next stage of Stevenson is that he stood
-up suddenly amid all these things and shook himself with a sort
-of impatient [[Sanity|sanity]]; a shrug of scepticism about scepticism.
-His real distinction is that he had the sense to see that there
-is nothing to be done with Nothing.  He saw that in that staggering
-universe it was absolutely necessary to stand somehow on something;
-and instead of falling about anyhow with all the other lunatics,
-he did seek for a ledge on which he could really stand.  He did definitely
-and even dramatically refuse to go mad; or, what is very much worse,
-to remain futile.  But the whole turning-point of the tale is now missed;
-partly by the too concentrated idolatry of the sentimentalists,
-and partly by the too concentrated spite of the iconoclasts.
-They miss the _historic_ relation of the man to his [[Time|time]] and school.
-It was one of the crowd of artists who showed mutinous signs
-of deserting art for life.  It was even one of the decadents
-who refused to [[Decay|decay]].
+[[Puritanism]] had no idea of purity.  We might almost say that there is every
+other virtue in [[Puritanism]] except purity; often including continence,
+which is quite a different thing from purity.  But it has not many
+images of positive [[innocence]]; of the things that are at once white
+and solid, like the white [[chalk]] or white wood which children [[Love|love]].
+This does not detract at all from the noble Puritan qualities:
+the republican simplicity, the fighting spirit, the thrift, the [[logic]],
+the [[Renunciation|renunciation]] of luxuries, the resistance to tyrants, the energy
+and enterprise which have helped to give the Scot his adventurous
+advantage all over the world.  But it is none the less true that there
+has been in his creed, at best, negative rather than positive purity:
+the difference between the blank white [[Window|window]] and the ivory tower.
+I know that a Victorian prejudice still regards this interpretation
+of [[history]] by theology as a piece of most distressing bad taste.
+I also know that this taboo on the main topic of mankind is becoming
+an intolerable nuisance; and preventing anybody, from the Papist
+to the atheist, from saying what he really thinks about the most
+real themes in the world.  And I will take the liberty of stating,
+in spite of the taboo, that it is really relevant here to remember
+this Puritan defect.  It is as much a fact that the Kirk of
+Stevenson's country had no cult of the Holy [[Child]], no feast of the
+Holy Innocents, no tradition of the Little Brothers of St. Francis,
+nothing that could in any way _carry on_ the childish enthusiasm
+for simple things, and link it up with a lifelong rule of life--
+this is as much a fact as that the Quakers are not a good military
+school or the good Moslem a good wine-taster. Hence it followed
+that when Stevenson left his [[Home|home]], he shut the door on a [[house]]
+lined with fairy gold, but he came out on a frightful contrast;
+on temptations at once attractive and repulsive, and terrors
+that were still depressing even when they were disregarded.
+The boy in such surroundings is torn by something worse than the dilemma
+of Tannhäuser. He wonders why he is attracted by repellent things.

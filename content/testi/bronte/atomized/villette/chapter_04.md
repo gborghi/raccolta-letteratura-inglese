@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 4"
+title: "Villette — Chapter 4"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/villette-(bronte)"
@@ -159,7 +159,7 @@ and cowardly [[Indolence|indolence]].
 
 One February [[Night|night]]—I remember it [[Well|well]]—there came a voice near Miss
 Marchmont’s [[house]], heard by every inmate, but translated, perhaps, only
-by one. After a calm [[Winter|winter]], storms were ushering in the [[spring]]. I had
+by one. After a calm [[Winter|winter]], storms were ushering in the [[Spring|spring]]. I had
 put Miss Marchmont to bed; I sat at the fireside sewing. The [[Wind|wind]] was
 wailing at the windows; it had wailed all day; but, as [[Night|night]] deepened,
 it took a new tone—an accent keen, piercing, almost articulate to the
@@ -221,7 +221,7 @@ feelings had their object; which, in its single [[Self|self]], was dear to me,
 as to the majority of men and women, are all the unnumbered points on
 which they dissipate their regard. While I loved, and while I was
 loved, what an existence I enjoyed! What a glorious year I can
-recall—how bright it comes back to me! What a living [[spring]]—what a
+recall—how bright it comes back to me! What a living [[Spring|spring]]—what a
 warm, glad [[Summer|summer]]—what soft moonlight, silvering the [[Autumn|autumn]]
 evenings—what strength of [[Hope|hope]] under the ice-bound waters and
 [[Frost|frost]]-hoar fields of that year’s [[Winter|winter]]! Through that year my heart

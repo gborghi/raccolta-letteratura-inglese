@@ -1,5 +1,5 @@
 ---
-title: "[[longbow2]] — Chapter 6 (part 4)"
+title: "longbow2 — Chapter 6 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/longbow2/chapter_06/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/longbow2/chapter_06/part_05">part 05 ›</a></div>
 </nav>
 
+
+"I don't know," he said, slightly stirred to the defensive. 
+"I'm sure I could make you see--I don't mean you aren't clever,
+of course; I mean I'm quite sure you're clever enough to see--
+to see anything."
 
 "Only some sorts of things, I'm afraid," she said, smiling.  "I'm sure
 your theory has got nothing to do with cows and milking-stools."
@@ -63,25 +68,25 @@ little dog laughed--'"
 
 Then something happened, which was in the world of ideas much
 more dramatic than the fact that the little dog laughed. 
-[[The Professor|The professor]] of astronomy laughed.  If the world of things had
-corresponded to the world of ideas, the [[Leaves|leaves]] of the apple tree
-might have curled up in [[Fear|fear]] or the [[Birds|birds]] dropped out of the sky. 
+The professor of astronomy laughed.  If the world of things had
+corresponded to the world of ideas, the leaves of the apple tree
+might have curled up in fear or the birds dropped out of the sky. 
 It was rather as if the cow had laughed.
 
-Following that curt and uncouth noise was a [[Silence|silence]]; and then
+Following that curt and uncouth noise was a silence; and then
 the hand he had raised to his head abruptly rent off his big blue
 spectacles and showed his staring blue eyes.  He looked boyish
 and even babyish.
 
-"I [[Wonder|wonder]] whether you always wore them," she said.  "I should think
-they made that [[Moon|moon]] of yours look blue.  Isn't there a proverb
-or something about a thing happening once in a blue [[Moon|moon]]?"
+"I wonder whether you always wore them," she said.  "I should think
+they made that moon of yours look blue.  Isn't there a proverb
+or something about a thing happening once in a blue moon?"
 
 He threw the great goggles on the ground and broke them.
 
 "Good gracious!" she exclaimed, "you seem to have taken quite
 a dislike to them all of a sudden.  I thought you were going
-to wear them till--[[Well|well]], till all is blue, as they say."
+to wear them till--well, till all is blue, as they say."
 
 He shook his head.  "All is beautiful," he said.  "You are beautiful."
 
@@ -98,10 +103,9 @@ with considerable interest the meaning and possibilities of the new
 astronomical theory.  In Bath the lecture-hall was being prepared
 for the exposition of the theory.  The theorist had forgotten all about it.
 
-
 "I have been thinking a good deal," Hilary Pierce was saying,
 "about that astronomical fellow who is going to lecture in Bath
-to-[[Night|night]]. It seemed to me somehow that he was a kindred spirit
+to-night. It seemed to me somehow that he was a kindred spirit
 and that sooner or later we were bound to get mixed up with him--
 or he was bound to get mixed up with us.  I don't say it's always
 very comfortable to get mixed up with us.  I feel in my bones that
@@ -114,20 +118,20 @@ got to do with his theory?"
 
 "Because," answered the young man, "I understand his astronomical
 theory a good deal better than he thinks I do.  And, let me tell you,
-his astronomical theory is an astronomical [[Allegory|allegory]]."
+his astronomical theory is an astronomical allegory."
 
-"An [[Allegory|allegory]]?" repeated Crane.  "What of?"
+"An allegory?" repeated Crane.  "What of?"
 
-"An [[Allegory|allegory]] of us," said Pierce; "and, as with many an [[Allegory|allegory]],
+"An allegory of us," said Pierce; "and, as with many an allegory,
 we've acted it without knowing it.  I realized something about
-our [[history]], when he was talking, that I don't think I'd ever
+our history, when he was talking, that I don't think I'd ever
 thought of before."
 
 "What in the world are you talking about?" demanded the Colonel.
 
 "His theory," said Pierce in a meditative manner, "has got something
 to do with moving objects being really stationary, and stationary
-objects being really moving.  [[Well]], you always talk of me as if I
+objects being really moving.  Well, you always talk of me as if I
 were a moving object."
 
 "Heartbreaking object sometimes," assented the Colonel with
@@ -141,6 +145,3 @@ a lot of lunatics out-running the constable or looping the loop,
 and always up to some new nonsense.  But when you come to think of it,
 it's we who always stay where we are, and the rest that's always
 moving and shifting and changing."
-
-"Yes," said Owen Hood; "I begin to have some dim idea of what you
-are talking about."

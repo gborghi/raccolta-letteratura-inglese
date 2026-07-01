@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 23 (part 1)"
+title: "Persuasion — Chapter 23 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -219,7 +219,3 @@ The [[Window|window]] at which he stood was at the other end of the room from
 where the two ladies were sitting, and though nearer to Captain
 
 Wentworth’s table, not very near. As she joined him, Captain Harville’s
-
-countenance re-assumed the serious, thoughtful expression which seemed
-
-its natural character.

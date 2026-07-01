@@ -1,5 +1,5 @@
 ---
-title: "[[AllThingsConsidered-8]] — CHRISTMAS"
+title: "AllThingsConsidered-8 — CHRISTMAS"
 author: "Chesterton"
 unitType: story
 parentWork: "works/allthingsconsidered-8-(chesterton)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/allthingsconsidered-8-(chesterton)">AllThingsConsidered 8</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_34_a_dead_poet">‹ Story 34 A DEAD POET</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_02_cockneys_and_their_jokes/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_34_a_dead_poet">‹ Story 34 A DEAD POET</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_02_cockneys_cockneys_and_their_jokes/part_01">part 01 ›</a></div>
 </nav>
 
 

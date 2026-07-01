@@ -1,5 +1,5 @@
 ---
-title: "[[Mesmeric Revelation]] (part 1)"
+title: "Mesmeric Revelation (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/mesmeric-revelation-(poe)"
@@ -110,16 +110,3 @@ Vankirk into the mesmeric [[Sleep|sleep]]. His breathing became immediately more
 easy, and he seemed to suffer no physical uneasiness. The following
 conversation then ensued:—V. in the dialogue representing the patient,
 and P. myself.
-
-      _P._ Are you asleep?
-
-      _V._ Yes—no; I would rather [[Sleep|sleep]] more soundly.
-
-      _P._ [_After a few more passes._] Do you [[Sleep|sleep]] now?
-
-      _V._ Yes.
-
-      _P._ How do you think your present illness will result?
-
-      _V._ [_After a long hesitation and speaking as if with effort_.]
-      I must die.

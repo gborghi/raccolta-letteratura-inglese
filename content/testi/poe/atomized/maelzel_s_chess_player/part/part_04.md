@@ -1,5 +1,5 @@
 ---
-title: "[[Maelzel's Chess-Player]] (part 4)"
+title: "Maelzel's Chess-Player (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/maelzel's-chess-player-(poe)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/maelzel_s_chess_player/part/part_03">‹ part 03</a><a class="ex-next" href="/testi/poe/atomized/maelzel_s_chess_player/part/part_05">part 05 ›</a></div>
 </nav>
 
+
+      interior, during so complete an exhibition of that interior, if
+
+      ever entertained, is immediately dismissed as preposterous in the
+
+      extreme.
+
+
+
+      M. Maelzel, having rolled the [[Machine|machine]] back into its original
 
       position, now informs the company that the Automaton will play a
 
@@ -179,13 +189,3 @@ tags:
       operating through the feet of the box. Others again, spoke
 
       confidently of a magnet. Of the first of these opinions we shall
-
-      say nothing at present more than we have already said. In
-
-      relation to the second it is only necessary to repeat what we
-
-      have before stated, that the [[Machine|machine]] is rolled about on castors,
-
-      and will, at the request of a spectator, be moved to and fro to
-
-      any portion of the room, even during the progress of a game. The

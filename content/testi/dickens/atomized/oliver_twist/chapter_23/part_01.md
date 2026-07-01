@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 23 (part 1)"
+title: "Oliver Twist — Chapter 23 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -131,6 +131,3 @@ use of _this_ to me? You might as [[Well|well]] give me a pair of iron
 spectacles!’ ‘Very good,’ says our overseer, taking ’em away again,
 ‘you won’t get anything else here.’ ‘Then I’ll die in the streets!’
 says the vagrant. ‘Oh no, you won’t,’ says our overseer.”
-
-“Ha! ha! That was very good! So like Mr. Grannett, wasn’t it?”
-interposed the matron. “[[Well]], Mr. Bumble?”

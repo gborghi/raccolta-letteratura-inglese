@@ -1,5 +1,5 @@
 ---
-title: "[[TheCrimesOfEngland]] — Chapter 10 (part 12)"
+title: "TheCrimesOfEngland — Chapter 10 (part 12)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thecrimesofengland-(chesterton)"
@@ -14,6 +14,64 @@ tags:
 </nav>
 
 
+for worldly gain, or that Castlereagh was out for anything else. Even
+
+the incidental resemblances between the two sides only served to sharpen
+
+the contrast and the complete superiority of the nationalists. Thus,
+
+Castlereagh and Lord Edward Fitzgerald were both aristocrats. But
+
+Castlereagh was the corrupt gentleman at the [[Court]], Fitzgerald the
+
+generous gentleman upon the land; some portion of whose [[Blood|blood]], along
+
+with some portion of his spirit, descended to that great gentleman,
+
+who--in the midst of the emetic immoralism of our modern politics--gave
+
+back that land to the Irish peasantry. Thus again, all such
+
+eighteenth-century aristocrats (like aristocrats almost anywhere) stood
+
+apart from the popular mysticism and the shrines of the poor; they were
+
+theoretically Protestants, but practically pagans. But Tone was the type
+
+of pagan who refuses to persecute, like Gallio: Pitt was the type of
+
+pagan who consents to persecute; and his place is with Pilate. He was an
+
+intolerant indifferentist; ready to enfranchise the Papists, but more
+
+ready to massacre them. Thus, once more, the two pagans, Tone and
+
+Castlereagh, found a pagan end in [[suicide]]. But the circumstances were
+
+such that any man, of any party, felt that Tone had died like Cato and
+
+Castlereagh had died like Judas.
+
+The march of Pitt's policy went on; and the chasm between light and
+
+darkness deepened. Order was restored; and wherever order spread, there
+
+spread an anarchy more awful than the sun has ever looked on. Torture
+
+came out of the crypts of the [[Inquisition]] and walked in the sunlight of
+
+the streets and fields. A village vicar was slain with inconceivable
+
+stripes, and his corpse set on [[Fire|fire]] with frightful jests about a roasted
+
+priest. Rape became a mode of [[government]]. The violation of virgins
+
+became a standing order of police. Stamped still with the same terrible
+
+symbolism, the work of the English [[government|Government]] and the English settlers
+
+seemed to resolve itself into animal atrocities against the wives and
+
 daughters of a race distinguished for a rare and detached purity, and of
 
 a religion which makes of [[innocence]] the Mother of God. In its bodily
@@ -25,8 +83,6 @@ produce nothing but torturers, and Ireland nothing but martyrs. Such
 was a part of the price paid by the Irish [[Body|body]] and the English [[Soul|soul]], for
 
 the privilege of patching up a Prussian after the sabre-stroke of Jena.
-
-
 
 But [[Germany]] was not merely present in the spirit: [[Germany]] was present in
 
@@ -57,8 +113,6 @@ than the Orangemen, they say as much as human mouth can utter. Beyond
 that there is nothing but the curse of God, which shall be uttered in
 
 an unknown tongue.
-
-
 
 The practice of using German soldiers, and even whole German regiments,
 
@@ -120,8 +174,6 @@ soldier would have struck many people as funny; as funny as if he had
 
 dressed up as a Chinaman.
 
-
-
 But the German hirelings or allies had another character which (by that
 
 same strain of evil coincidence which we are tracing in this book)
@@ -129,77 +181,3 @@ same strain of evil coincidence which we are tracing in this book)
 encouraged all that was worst in the English conservatism and
 
 inequality, while discouraging all that was best in it. It is true that
-
-the ideal Englishman was too much of a squire; but it is just to add
-
-that the ideal squire was a good squire. The best squire I know in
-
-fiction is Duke [[Theseus]] in "The Midsummer [[Night]]'s Dream," who is kind to
-
-his people and proud of his [[dogs]]; and would be a perfect human being if
-
-he were not just a little bit prone to be kind to both of them in the
-
-same way. But such natural and even pagan good-[[Nature|nature]] is consonant with
-
-the warm wet woods and comfortable clouds of South England; it never had
-
-any place among the harsh and thrifty squires in the plains of East
-
-Prussia, the land of the East [[Wind]]. They were peevish as [[Well|well]] as proud,
-
-and everything they created, but especially their army, was made
-
-coherent by sheer brutality. Discipline was cruel enough in all the
-
-eighteenth-century armies, created long after the [[Decay|decay]] of any [[Faith|faith]] or
-
-[[Hope|hope]] that could hold men together. But the state that was first in
-
-[[Germany]] was first in ferocity. Frederick the Great had to forbid his
-
-English admirers to follow his regiments during the campaign, lest they
-
-should discover that the most enlightened of kings had only excluded
-
-torture from law to impose it without law. This influence, as we have
-
-seen, left on Ireland a fearful mark which will never be effaced.
-
-English rule in Ireland had been bad before; but in the broadening light
-
-of the revolutionary century I [[Doubt|doubt]] whether it could have continued as
-
-bad, if we had not taken a side that forced us to flatter barbarian
-
-tyranny in Europe. We should hardly have seen such a [[nightmare]] as the
-
-Anglicising of Ireland if we had not already seen the Germanising of
-
-England. But even in England it was not without its effects; and one of
-
-its effects was to rouse a man who is, perhaps, the best English witness
-
-to the effect on the England of that [[Time|time]] of the Alliance with [[Germany]].
-
-With that man I shall deal in the chapter that follows.
-
-
-
-
-
-
-
-V--_The Lost England_
-
-
-
-
-
-Telling the [[Truth|truth]] about Ireland is not very pleasant to a patriotic
-
-Englishman; but it is very patriotic. It is the [[Truth|truth]] and nothing but
-
-the [[Truth|truth]] which I have but touched on in the last chapter. Several
-
-times, and especially at the beginning of this war, we narrowly escaped

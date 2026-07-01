@@ -1,5 +1,5 @@
 ---
-title: "[[Julius Caesar|JULIUS CAESAR]]"
+title: "JULIUS CAESAR"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/julius-caesar-(shakespeare)"

@@ -1,5 +1,5 @@
 ---
-title: "The Man Who Knew Too Much — The Temple of [[Silence]] (part 5)"
+title: "The Man Who Knew Too Much — The Temple of Silence (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/the-man-who-knew-too-much-(chesterton)"
@@ -13,6 +13,27 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_07_the_temple_of_silence/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_07_the_temple_of_silence/part_06">part 06 ›</a></div>
 </nav>
 
+
+still very thoughtful.
+His reflection seemed to end in resolution, and, falling into a more
+
+rapid stride, he passed out of the little town along a [[Road|road]] leading
+
+toward the gate of the great park, the country seat of Sir Francis
+
+Verner. A glitter of sunlight made the early [[Winter|winter]] more like a late
+
+[[Autumn|autumn]], and the dark woods were touched here and there with red and
+
+golden [[Leaves|leaves]], like the last rays of a lost sunset. From a higher
+
+part of the [[Road|road]] he had seen the long, classical facade of the great
+
+[[house]] with its many windows, almost immediately beneath him, but
+
+when the [[Road|road]] ran down under the wall of the estate, topped with
+
+towering trees behind, he realized that it was half a mile round to
 
 the lodge gates. After walking for a few minutes along the lane,
 
@@ -166,30 +187,3 @@ fight for their own refinement among rough surroundings. "I consider
 I have a perfect right to shoot game in this place. But I am [[Well|well]]
 
 aware that people of your sort take me for a thief, and I suppose
-
-you will try to land me in jail."
-"There are preliminary difficulties," replied Fisher. "To begin
-
-with, the mistake is flattering, but I am not a gamekeeper. Still
-
-less am I three gamekeepers, who would be, I imagine, about your
-
-fighting weight. But I confess I have another reason for not wanting
-
-to jail you."
-"And what is that?" asked the other.
-"Only that I quite agree with you," answered Fisher. "I don't
-
-exactly say you have a right to poach, but I never could see that it
-
-was as wrong as being a thief. It seems to me against the whole
-
-normal notion of property that a man should own something because it
-
-flies across his [[Garden|garden]]. He might as [[Well|well]] own the [[Wind|wind]], or think he
-
-could write his name on a morning cloud. Besides, if we want poor
-
-people to respect property we must give them some property to
-
-respect. You ought to have land of your own; and I'm going to give

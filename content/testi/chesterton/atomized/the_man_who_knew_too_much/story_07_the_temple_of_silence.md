@@ -1,5 +1,5 @@
 ---
-title: "The Man Who Knew Too Much — The Temple of [[Silence]]"
+title: "The Man Who Knew Too Much — The Temple of Silence"
 author: "Chesterton"
 unitType: story
 parentWork: "works/the-man-who-knew-too-much-(chesterton)"

@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 43 (part 6)"
+title: "Nicholas Nickleby — Chapter 43 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"

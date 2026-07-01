@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 32: THE BEGINNING OF A LONG [[Journey|JOURNEY]] (part 6)"
+title: "David Copperfield — Chapter 32: THE BEGINNING OF A LONG [[Journey|JOURNEY (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,38 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_32_the_beginning_of_a_long_journe/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_32_the_beginning_of_a_long_journe/part_07">part 07 ›</a></div>
 </nav>
 
+
+She motioned to Mr. Peggotty to be seated. He said, in a low voice, ‘I
+shouldn’t feel it nat’ral, ma’am, to sit down in this [[house]]. I’d sooner
+stand.’ And this was succeeded by another [[Silence|silence]], which she broke thus:
+
+‘I know, with deep regret, what has brought you here. What do you want
+of me? What do you ask me to do?’
+
+He put his hat under his arm, and feeling in his breast for Emily’s
+letter, took it out, unfolded it, and gave it to her. ‘Please to read
+that, ma’am. That’s my niece’s hand!’
+
+She read it, in the same stately and impassive way,--untouched by its
+contents, as far as I could see,--and returned it to him.
+
+‘“Unless he brings me back a lady,”’ said Mr. Peggotty, tracing out that
+part with his finger. ‘I come to know, ma’am, whether he will keep his
+wured?’
+
+‘No,’ she returned.
+
+‘Why not?’ said Mr. Peggotty.
+
+‘It is impossible. He would disgrace himself. You cannot fail to know
+that she is far below him.’
+
+‘Raise her up!’ said Mr. Peggotty.
+
+‘She is uneducated and ignorant.’
+
+‘Maybe she’s not; maybe she is,’ said Mr. Peggotty. ‘I think not, ma’am;
+but I’m no judge of them things. Teach her better!’
 
 ‘Since you oblige me to speak more plainly, which I am very unwilling
 to do, her humble connexions would render such a thing impossible, if
@@ -103,31 +135,3 @@ ma’am,’ he remarked, as he moved towards the door. ‘I come heer with no
 but I never looked fur any good to come of my stan’ning where I do.
 This has been too evil a [[house]] fur me and mine, fur me to be in my right
 senses and expect it.’
-
-With this, we departed; leaving her standing by her elbow-chair, a
-picture of a noble presence and a handsome face.
-
-We had, on our way out, to [[Cross|cross]] a paved hall, with glass sides and
-roof, over which a vine was trained. Its [[Leaves|leaves]] and shoots were green
-then, and the day being sunny, a pair of glass doors leading to the
-[[Garden|garden]] were thrown open. Rosa Dartle, entering this way with a noiseless
-step, when we were close to them, addressed herself to me:
-
-‘You do [[Well|well]],’ she said, ‘indeed, to bring this fellow here!’
-
-Such a concentration of rage and scorn as darkened her face, and flashed
-in her jet-black eyes, I could not have thought compressible even into
-that face. The scar made by the hammer was, as usual in this excited
-state of her features, strongly marked. When the throbbing I had seen
-before, came into it as I looked at her, she absolutely lifted up her
-hand, and struck it.
-
-‘This is a fellow,’ she said, ‘to champion and bring here, is he not?
-You are a true man!’
-
-‘Miss Dartle,’ I returned, ‘you are surely not so unjust as to condemn
-ME!’
-
-‘Why do you bring division between these two mad creatures?’ she
-returned. ‘Don’t you know that they are both mad with their own
-[[Self|self]]-will and [[Pride|pride]]?’

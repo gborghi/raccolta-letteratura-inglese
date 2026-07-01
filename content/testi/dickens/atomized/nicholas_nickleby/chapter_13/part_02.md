@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 13 (part 2)"
+title: "Nicholas Nickleby — Chapter 13 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_13/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_13/part_03">part 03 ›</a></div>
 </nav>
 
+
+There was, of course, a profound [[Silence|silence]], during which Nicholas showed
+his disgust as plainly as looks could show it.
 
 ‘[[Well]], Nickleby,’ said Squeers, eyeing him maliciously. ‘YOU think he
 has run away, I suppose?’
@@ -139,13 +142,3 @@ Mrs. Squeers don’t hunt him down; so I give you warning.’
 
 ‘It is not in my power to console you, sir,’ said Nicholas. ‘It is
 nothing to me.’
-
-‘Isn’t it?’ said Squeers in a threatening manner. ‘We shall see!’
-
-‘We shall,’ rejoined Nicholas.
-
-‘Here’s the pony run right off his legs, and me obliged to come [[Home|home]]
-with a hack cob, that’ll cost fifteen shillings besides other expenses,’
-said Squeers; ‘who’s to pay for that, do you hear?’
-
-Nicholas shrugged his shoulders and remained silent.

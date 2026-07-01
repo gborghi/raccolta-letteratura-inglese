@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 61: I AM SHOWN TWO INTERESTING PENITENTS"
+title: "David Copperfield — Chapter 61: I AM SHOWN TWO INTERESTING PENITENTS"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/david-copperfield-(dickens)"

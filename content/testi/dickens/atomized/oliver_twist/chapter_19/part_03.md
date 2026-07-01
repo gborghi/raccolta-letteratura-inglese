@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 19 (part 3)"
+title: "Oliver Twist — Chapter 19 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_19/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_20/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Now, [[Fagin]],” said [[Nancy]] with a laugh. “Tell Bill at once, about
+[[Oliver]]!”
 
 “Ha! you’re a clever one, my dear: the sharpest girl I ever saw!” said
 the Jew, patting her on the neck. “It _was_ about [[Oliver]] I was going to

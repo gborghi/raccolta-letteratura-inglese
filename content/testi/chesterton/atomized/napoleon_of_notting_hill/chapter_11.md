@@ -1,5 +1,5 @@
 ---
-title: "Napoleon of Notting [[Hill]] — Chapter 3"
+title: "Napoleon of Notting Hill — Chapter 2"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/napoleon-of-notting-hill-(chesterton)"
@@ -14,540 +14,368 @@ tags:
 </nav>
 
 
-CHAPTER III
-
-THE EXPERIMENT OF MR.  BUCK
-
-AN earnest and eloquent petition was sent up to the [[King]] signed
-with the names of Wilson, Barker, Buck, Swindon and others.
-It urged that at the forthcoming conference to be held in his Majesty's
-presence touching the final disposition of the property in Pump Street,
-it might be held not inconsistent with political decorum and with
-the unutterable respect they entertained for his Majesty if they
-appeared in ordinary morning dress, without the costume decreed
-for them as Provosts.  So it happened that the company appeared
-at that council in frock-coats and that the [[King]] himself limited
-his [[Love|love]] of cefemony to appearing (after his not unusual manner)
-in evening dress with one order...in this case not the Garter,
-but the button of the Club of Old Clipper's Best Pals,
-a decoration obtained (with difficulty) from a halfpenny boy's paper.
-Thus also it happened that the only spot of colour in the room
-was [[Adam Wayne]], who entered in great dignity with the great red
-robes and the great [[Sword|sword]].
-
-"We have met," said Auberon, "to decide the most arduous of
-modern problems.  May we be successful."  And he sat down gravely.
-
-Buck turned his chair a little and flung one leg over the other.
-
-"Your majesty," he said, quite good-humouredly, "there is only
-one thing I can't understand, and that is why this affair is not
-settled in five minutes.  Here's a small property which is worth
-a thousand to us and is not worth a hundred to any one else.
-We offer the thousand.  It's not business-like, I know, for we ought
-to get it for less, and it's not reasonable and it's not fair on us,
-but I'm damned if I can see why it's difficult."
-
-"The difficulty may be very simply stated," said Wayne.
-"You may offer a million and it will be very difficult for you
-to get Pump Street."
-
-"But, look here, Mr. Wayne," cried Barker, striking in
-with a kind of cold excitement.  "Just look here.
-You've no right to take up a position like that.  You've a right
-to stand out for a bigger price, but you aren't doing that.
-You're refusing what you and every sane man know to be a splendid
-offer simply from malice or spite...it must be malice or spite.
-And that kind of thing is really criminal; it's against the public good;
-The [[King]]'s [[government|Government]] would be justified in forging you."
-
-With his lean fingers spread on the table he stared anxiously
-at Wayne's face, which did not move.
-
-"In forcing you ... it would," he repeated.
-
-"It shall," said Buck, shortly, turning to the table with a jerk.
-"We have done our best to be decent."
-
-Wayne lifted his large eyes slowly.
-
-"Was it my Lord Buck," he inquired, "who said that the [[King]]
-of England 'shall' do something?"
-
-Buck flushed and said testily:
-
-"I mean it must...it ought to, as I say we've done
-our best to be generous.  I defy any one to deny it.
-As it is Mr. Wayne, I don't want to say a word that's uncivil.
-I [[Hope|hope]] it's not uncivil to say that you can be, and ought to be,
-in gaol.  It is criminal to stop public works for a whim.
-A man might as [[Well|well]] burn ten thousand onions in his front [[Garden|garden]] or bring
-up his children to run naked in the street, as do what you say you
-have a right to do.  People have been compelled to sell before now.
-The [[King]] could compel you, and I [[Hope|hope]] he will."
-
-"Until he does," said Wayne, calmly, "the power and [[government]]
-of this great nation is on my side and not yours, and I defy you
-to defy it."
-
-"In what sense," cried Barker, with his feverish eyes and hands,
-"is the [[government|Government]] on your side?"
-
-With one ringing movement Wayne unrolled a great parchment on the table.
-It was decorated down the sides with wild [[Water|water]]-colour sketches
-of vestrymen in crowns and wreaths.
-
-"The Charter of the Cities," he began.
-
-Buck exploded in a brutal oath and laughed.
-
-"That tomfool's joke.  Haven't we had enough..."
-
-"And there you sit," cried Wayne, springing erect and with a
-voice like a trumpet, "with no argument but to insult the [[King]]
-before his face."
-
-Buck [[Rose|rose]] also with blazing eyes.
-
-"I am hard to bully," he began...and the slow tones of the [[King]]
-struck in with incomparable gravity:
-
-"My Lord Buck, I must ask you to remember that your [[King]] is present.
-It is not often that he needs to protect himself among his subjects."
-
-Barker turned to him with frantic gestures.
-
-"For God's sake don't back up the madman now," he implored.
-"Have your joke another [[Time|time]].  Oh, for Heaven's sake..."
-
-"My Lord Provost of South Kensington," said [[King]] Auberon, steadily.
-"I do not follow your remarks which are uttered with a rapidity
-unusual at [[Court]].  Nor do your [[Well|well]]-meant efforts to convey the rest
-with your fingers materially assist me.  I say that my Lord Provost
-of North Kensington, to whom I spoke, ought not in the presence of his
-Sovereign to speak disrespectfully of his Sovereign's ordinances.
-Do you disagree?"
-
-Barker turned restlessly in his chair, and Buck cursed without speaking.
-The [[King]] went on in a comfortable voice:
-
-"My Lord Provost of Notting [[Hill]], proceed."
-
-Wayne turned his blue eyes on the [[King]], and to every one's surprise there
-was a look in them not of triumph, but of a certain childish distress.
-
-"I am sorry, your Majesty," he said; "I [[Fear|fear]] I was more than
-equally to blame with the Lord Provost of North Kensington.
-We were debating somewhat eagerly, and we both [[Rose|rose]] to our feet.
-I did so first, I am ashamed to say.  The Provost of North Kensington is,
-therefore, comparatively [[Innocent|innocent]].  I beseech your Majesty to address
-your rebuke chiefly, at least, to me.  Mr. Buck is not [[Innocent|innocent]],
-for he did no [[Doubt|doubt]], in the heat of the moment, speak disrespectfully.
-But the rest of the discussion he seems to me to have conducted
-with great good temper."
-
-Buck looked genuinely pleased, for business men are all simple-minded,
-and have therefore that degree of communion with fanatics.  The [[King]],
-for some reason, looked, for the first [[Time|time]] in his life, ashamed.
-
-"This very kind speech of the Provost of Notting [[Hill]]," began Buck,
-pleasantly, "seems to me to show that we have at last got on to a
-friendly footing.  Now come, Mr. Wayne.  Five hundred pounds have been
-offered to you for a property you admit not to be worth a hundred.
-[[Well]], I am a rich man and I won't be outdone in generosity.
-Let us say fifteen hundred pounds and have done with it.
-And let us shake hands."  And he [[Rose|rose]], glowing and laughing.
-
-"Fifteen hundred pounds," whispered Mr. Wilson of Bayswater;
-"can we do fifteen hundred pounds?"
-
-"I'll stand the racket," said Buck heartily.  "Mr. Wayne is a
-gentleman and has spoken up for me.  So I suppose the negotiations
-are at an end."
-
-Wayne bowed.
-
-"They are indeed at an end.  I am sorry I cannot sell you the property."
-
-"What?" cried Mr. Barker, starting to his feet.
-
-"Mr. Buck has spoken correctly," said the [[King]].
-
-"I have, I have," cried Buck, springing up also; "I said..."
-
-"Mr. Buck has spoken correctly," said the [[King]]; "the negotiations
-are at an end."
-
-All the men at the table [[Rose|rose]] to their feet; Wayne [[Alone|alone]]
-[[Rose|rose]] without excitement.
-
-"Have I, then," he said, "your Majesty's permission to depart?
-I have given my last answer."
-
-"You have it," said Auberon, smiling, but not lifting his eyes
-from the table.  And amid a dead [[Silence|silence]] the Provost of Notting [[Hill]]
-passed out of the room.
-
-"[[Well]]?" said Wilson, turning round to Barker, "[[Well]]?"
-
-Barker shook his head desperately.
-
-"The man ought to be in an asylum," he said.  "But one thing is clear,
-we need not bother further about him.  The man can be treated as mad."
-
-"Of course," said Buck, turning to him with sombre decisiveness.
-"You're perfectly right, Barker.  He is a good enough fellow,
-but he can be treated as mad.  Let's put it in simple form.
-Go and tell any twelve men in any town, go and tell any doctor
-in any town, that there is a man offered fifteen hundred pounds
-for a thing he could sell commonly for four hundred, and that when
-asked for a reason for not accepting it he pleads the inviolate
-sanctity of Notting [[Hill]] and calls it the Holy Mountain.
-What would they say?  What more can we have on our side than
-the common-sense of everybody?  On what else do all laws rest?
-I'll tell you, Barker, what's better than any further discussion.
-Let's send in workmen on the spot to pull down Pump Street.
-And if old Wayne says a word, arrest him as a lunatic.  That's all."
-
-Barker's eyes kindled.
-
-"I always regarded you, Buck, if you don't mind my saying so,
-as a very strong man.  I'll follow you."
-
-"So, of course will I," said Wilson.
-
-Buck [[Rose|rose]] again impulsively.
-
-"Your Majesty," he said, glowing with popularity, "I beseech
-your Majesty to consider favourably the proposal to which we have
-committed ourselves.  Your Majesty's leniency, our own offers,
-have fallen in vain on that extraordinary man.  He may be right.
-He may be God.  He may be the devil.  But we think it,
-for practical purposes, more probable that he is off his head.
-Unless that assumption were acted on, all human affairs would
-go to pieces.  We act on it, and we propose to start operations
-in Notting [[Hill]] at once."
-
-The [[King]] leaned back in his chair.
-
-"The Charter of the Cities..." he said with a rich intonation.
-
-But Buck, being finally serious, was also cautious, and did not again
-make the mistake of disrespect.
-
-"Your Majesty," he said, bowing, "I am not here to say
-a word against anything your Majesty has said or done.
-You are a far better educated man than I, and no [[Doubt|doubt]] there
-were reasons, upon intellectual grounds, for those proceedings.
-But may I ask you and appeal to your common good-[[Nature|nature]] for a
-sincere answer?  When you drew up the Charter of the Cities did
-you contemplate the rise of a man like [[Adam Wayne]]?  Did you expect
-that the Charter...whether it was an experiment, or a scheme
-of decoration, or a joke...could ever really come to this...to
-stopping a vast scheme of ordinary business, to shutting up a [[Road|road]],
-to spoiling the chances of cabs, omnibuses, railway stations,
-to disorganizing half a [[City|city]], to risking a kind of civil war?
-Whatever were your objects, were they that?"
-
-Barker and Wilson looked at him admiringly; the [[King]]
-more admiringly still.
-
-"Provost Buck," said Auberon, "you speak in public uncommonly [[Well|well]].
-I give you your point with the magnanimity of an [[Artist|artist]].
-My scheme did not include the appearance of Mr. Wayne.
-Alas! would that my poetic power had been great enough."
-
-"I thank your Majesty," said Buck, courteously but quickly.
-"Your Majesty's statements are always clear and studied:
-therefore I may draw a deduction.  As the scheme, whatever it was,
-on which you set your heart did not include the appearance of Mr. Wayne,
-it will survive his removal.  Why not let us clear away this particular
-Pump Street, which does interfere with our plans, and which does not,
-by your Majesty's own statement, interfere with yours."
-
-"Caught out!" said the [[King]], enthusiastically and quite impersonally,
-as if he were watching a cricket match.
-
-"This man Wayne," continued Buck, "would be shut up by any
-doctors in England.  But we only ask to have it put before them.
-Meanwhile no one's interests, not even in all probability his own,
-can be really damaged by going on with the improvements in Notting [[Hill]].
-Not our interests, of course, for it has been the hard and quiet
-work of ten years.  Not the interest of Notting [[Hill]], for nearly
-all its educated inhabitants [[Desire|desire]] the change.  Not the interests
-of your Majesty, for you say, with characteristic sense, that you
-never contemplated the rise of the lunatic at all.  Not, as I say,
-his own interests, for the man has a kind heart and many talents,
-and a couple of good doctors would probably put him righter
-than all the free cities and sacred [[Mountains|mountains]] in creation.
-I therefore assume, if I may use so bold a word, that your Majesty
-will not offer any obstacle to our proceeding with the improvements."
-
-And Mr. Buck sat down amid subdued but excited applause among the allies.
-
-"Mr. Buck," said the [[King]], "I beg your pardon, for a number of beautiful
-and sacred thoughts, in which you were generally classified as a [[Fool|fool]].
-But there is another thing to be considered.  Suppose you send
-in your workmen, and Mr. Wayne does a thing regrettable indeed,
-but of which I am sorry to say, I think him quite capable...knocks
-their teeth out."
-
-"I have thought of that, your Majesty," said Mr. Buck, easily, "and I
-think it can simply be guarded against.  Let us send in a strong guard
-of say a hundred men...a hundred Of the North Kensington Halberdiers"
-(he smiled grimly), "of whom your Majesty is so fond.  Or say...a
-hundred and fifty.  The whole population of Pump Street, I fancy,
-is only about a hundred."
-
-"Still they might stand together and lick you," said the [[King]], dubiously.
-
-"Then say two hundred," said Buck, gaily.
-
-"It might happen," said the [[King]], restlessly, "that one Notting Hiller
-fought better than two, North Kensingtons."
-
-"It might," said Buck, coolly; "then say two hundred and fifty."
-
-The [[King]] bit his lip.
-
-"And if they are beaten, too," he said viciously.
-
-"Your Majesty," said Buck, and leaned back easily in his chair.
-"Suppose they are.  If anything be clear, it is clear
-that all fighting matters are mere matters of arithmetic.
-Here we have a hundred and fifty say of Notting [[Hill]] soldiers.
-Or say two hundred.  If one of them can fight two of us...we
-can send in, not four hundred, but six hundred, and smash him.
-That is all.  It is out of all immediate probability that one of them
-could fight four of us.  So what I say is this.  Run no risks.
-Finish it at once.  Send in eight hundred men and smash him...smash
-him almost without seeing him.  And go on with the improvements."
-
-And Mr. Buck pulled out a bandanna and blew his nose.
-
-"Do you know, Mr. Buck," said the [[King]], staring gloomily at the table,
-"the admirable clearness of your reason produces in my mind
-a sentiment which I trust I shall not offend you by describing
-as an [[Aspiration|aspiration]] to punch your head.  You irritate me sublimely.
-What can it be in me?  Is it the relic of a moral sense?"
-
-"But your Majesty," said Barker, eagerly and suavely, "does not
-refuse our proposals?"
-
-"My dear Barker, your proposals are as damnable as your manners.
-I want to have nothing to do with them.  Suppose I stopped
-them altogether.  What would happen?"
-
-Barker answered in a very low voice:
-
-"Revolution."
-
-The [[King]] glanced quickly at the men around the table.
-They were all looking down silently:  their brows were red.
-
-He [[Rose|rose]] with a startling suddenness, and an unusual pallor.
-
-"Gentlemen," he said, "you have overruled me.  Therefore I can
-speak plainly.  I think [[Adam Wayne]], who is as mad as a hatter,
-worth more than a million of you.  But you have the force, and, I admit,
-the common sense, and he is lost.  Take your eight hundred halberdiers
-and smash him.  It would be more sportsmanlike to take two hundred."
-
-"More sportsmanlike," said Buck, grimly, "but a great deal less humane.
-We are not artists, and streets purple with gore do not catch our
-eye in the right way."
-
-"It is pitiful," said Auberon.  "With five or six times their number
-there will be no fight at all."
-
-"I [[Hope|hope]] not," said Buck, rising and adjusting his gloves.
-"We [[Desire|desire]] no fight, your Majesty.  We are peaceable business men."
-
-"[[Well]]," said the [[King]], wearily, "the conference is at an end at last."
-
-And he went out of the room before any one else could stir.
+CHAPTER II
+
+THE CORRESPONDENT OF THE "[[Court|COURT]] JOURNAL"
+
+JOURNALISM had become like most other such things in England,
+under the cautious [[government]] and [[philosophy]] represented by
+[[James Barker]], somewhat sleepy and much diminished in importance.
+This was partly due to the disappearance of party [[government]]
+and public speaking, partly to the compromise or deadlock
+which had made foreign wars impossible, but mostly, of course,
+to the temper of the whole nation, which was that of a people in a
+kind of back-[[Water|water]]. Perhaps the most [[Well|well]]-known of the remaining
+newspapers was the [[Court]] Journal, which was published in a dusty
+but genteel looking office just out of Kensington High Street.
+For when all the papers of a people have been for years growing
+more and more dim and decorous and optimistic, the dimmest
+and most decorous and most optimistic is very likely to win.
+In the journalistic competition which was still going on at the beginning
+of the twentieth century, the final victor was the [[Court]] Journal.
+
+For some mysterious reason the [[King]] had a great affection for hanging
+about in the [[Court]] Journal office, smoking a morning cigarette and
+looking over files.  Like all ingrainedly idle men, he was very fond
+of lounging and chatting in places where other people were doing work.
+But one would have thought that, even in the prosaic England of his day,
+he might have found a more bustling centre.
+
+On this particular morning, however, he came out of Kensington Palace
+with a more alert step and a busier air than usual.
+He wore an extravagantly long frock-coat, a pale-green waistcoat,
+a very full and degage black tie, and curious yellow gloves.
+This was his uniform as Colonel of a regiment of his own creation,
+the 1st Decadents Green.  It was a beautiful sight to see him
+drilling them.  He walked quickly across the Park and the High Street,
+lighting his cigarette as he went, and flung open the door of
+the [[Court]] Journal office.
+
+"You've heard the news, Pally...you've heard the news?" he said.
+
+The Editor's name was Hoskins, but the [[King]] called him Pally,
+which was an abbreviation of Paladium of our Liberties.
+
+"[[Well]], your Majesty," said Hoskins, slowly (he was a worried,
+gentlemanly looking person, with a wandering brown beard)
+"...[[Well|well]], your Majesty, I have heard rather curious things, but I..."
+
+"You'll hear more of them," said the [[King]], dancing a few
+steps of a kind of negro shuffle.  "You'll hear more of them,
+my [[Blood|blood]]-and-thunder tribune.  Do you know what I am going to
+do for you?"
+
+"No, your Majesty," replied the Paladium, vaguely.
+
+"I'm going to put your paper on strong, dashing, enterprising lines,"
+said the [[King]].  "Now, where are your posters of last [[Night|night]]'s defeat?"
+
+"I did not propose, your Majesty," said the Editor, "to have
+any posters exactly..."
+
+"Paper, paper!" cried the [[King]], wildly; "bring me paper as big
+as a [[house]].  I'll do you posters.  Stop, I must take my coat off."
+He began removing that garment with an air of set intensity, flung it
+playfully at Mr. Hoskins' head, entirely enveloping him, and looked
+at himself in the glass.  "The coat off," he said, "and hat on.
+That looks like a sub-editor. It is indeed the very essence
+of sub-editing. [[Well]]," he continued, turning round abruptly,
+"come along with that paper."
+
+The Paladium had only just extricated himself reverently from
+the folds of the [[King]]'s frock-coat, and said bewildered:
+
+"I am afraid, your Majesty..."
+
+"Oh, you've got no enterprise," said Auberon.  "What's that roll
+in the corner?  Wall-paper?  Decorations for your private residence?
+Art in the [[Home|home]], Pally?  Fling it over here, and I'll paint
+such posters on the back of it that when you put it up in your
+drawing-room you'll paste the original pattern against the wall."
+And the [[King]] unrolled the wall-paper, spreading it over, the whole floor.
+"Now give me the scissors," he cried and took them himself before
+the other could stir.
+
+He slit the paper into about five pieces, each nearly as big as a door.
+Then he took a big blue pencil and went down on his knees on
+the dusty oil-cloth, and began to write on them, in huge letters:
+
+"FROM THE FRONT.  GENERAL BUCK DEFEATED.  DARKNESS, DANGER, AND [[Death|DEATH]].
+WAYNE SAID TO BE IN PUMP STREET.  FEELING IN THE [[City|CITY]]."
+
+He contemplated it for some [[Time|time]], with his head on one side,
+and got up, with a sigh.
+
+"Not quite intense enough," he said...not alarming.
+"I want the [[Court]] Journal to be feared as [[Well|well]] as loved.  Let's try
+something more hard-hitting." And he went down on his knees again.
+After sucking the blue pencil for some [[Time|time]], he began writing
+again busily.  "How will this do?" he said:
+
+"WAYNE'S WONDERFUL VICTORY."
+
+"I suppose," he said, looking up appealingly, and sucking the pencil
+"I suppose we couldn't say 'wictory'...'Wayne's wonderful wictory'?
+No, no.  Refinement, Pally, refinement.  I have it."
+
+"WAYNE WINS.  ASTOUNDING FIGHT IN THE DARK.  The gas-lamps in their
+courses fought against Buck."
+
+"(Nothing like our fine old English [[Translation|translation]].)  What else can we say?
+[[Well]], anything to annoy old Buck;" and he added, thoughtfully,
+in smaller letters:
+
+"Rumoured [[Court]]-martial on General Buck."
+
+"Those will do for the present," he said, and turned them both
+face downwards.  "Paste, please."
+
+The Paladium, with an air of great terror, brought the paste out
+of an inner room.
+
+The [[King]] slabbed it on with the enjoyment of a [[Child|child]] messing
+with treacle.  Then taking one of his huge compositions fluttering
+in each hand, he ran outside, and began pasting them up in prominent
+positions over the front of the office.
+
+"And now," said Auberon, entering again with undiminished vivacity
+"now for the leading article."
+
+He picked up another of the large strips of wall-paper, and, laying it
+across a desk, pulled out a fountain-pen and began writing with
+feverish intensity, reading clauses and fragments aloud to himself,
+and [[rolling]] them on his tongue like wine, to see if they had
+the pure journalistic flavour.
+
+"The news of the disaster to our forces in Notting [[Hill]], awful as
+it is, awful as it is... (no, distressing as it is), may do some
+good if it draws attention to the what's-his-name inefficiency
+(scandalous inefficiency, of course) of the [[government|Government]]'s preparations.
+In our present state of information, it would be premature
+(what a jolly word!)... it would be premature to cast any reflections
+upon the conduct of General Buck, whose services upon so many
+stricken fields (ha, ha!), and whose honourable scars and laurels
+give him a right to have judgment upon him at least suspended.
+But there is one matter on which we must speak plainly.  We have been
+silent on it too long, from feelings, perhaps of mistaken caution,
+perhaps of mistaken loyalty.  This situation would never have arisen
+but for what we can only call the indefensible conduct of the [[King]].
+It pains us to say such things, but, speaking as we do in the
+public interests (I plagiarize from Barker's famous [[Epigram|epigram]]), we shall
+not shrink because of the distress we may cause to any individual,
+even the most exalted.  At this crucial moment of our country,
+the voice of the People demands with a single tongue, 'Where is
+the [[King]]?'  What is he doing while his subjects tear each other
+in pieces in the streets of a great [[City|city]]?  Are his amusements
+and his dissipations (of which we cannot pretend to be ignorant)
+so engrossing that he can spare no thought for a perishing nation?
+It is with a deep sense of our responsibility that we warn that exalted
+person that neither his great position nor his incomparable talents
+will save him in the hour of delirium from the fate of all those who,
+in the [[Madness|madness]] of luxury or tyranny, have met the English people
+in the rare day of its wrath."
+
+"I am now," said the [[King]], "going to write an account of the battle
+by an eye-witness." And he picked up a fourth sheet of wall-paper.
+Almost at the same moment Buck strode quickly into the office.
+He had a bandage round his head.
+
+"I was told," he said with his usual gruff civility, "that your
+Majesty was here."
+
+"And of all things on earth," cried the [[King]], with delight,
+"here is an eye-witness!  An eyewitness who, I regret to observe,
+has at present only one eye to witness with.  Can you write us
+the special article, Buck?  Have you a rich style?"
+
+Buck, with a [[Self|self]]-restraint which almost approached politeness,
+took no notice whatever of the [[King]]'s maddening geniality.
+
+"I took the liberty, your Majesty," he said shortly, "of asking
+Mr. Barker to come here also."
+
+As he spoke, indeed, Barker came swinging into the office,
+with his usual air of hurry.
+
+"What is happening now?" asked Buck, turning to him with a
+kind of relief.
+
+"Fighting still going on," said Barker.  "The four hundred from
+West Kensington were hardly touched last [[Night|night]].  They hardly got
+near the place.  Poor Wilson's Bayswater men got cut about, though.
+They fought confoundedly [[Well|well]].  They took Pump Street once.
+What mad things do happen in the world.  To think that of all of us
+it should be little Wilson with the red whiskers who came put best."
+
+The [[King]] made a note on his paper:
+
+"Romantic Conduct of Mr. Wilson."
+
+"Yes," said Buck, "it makes one a bit less proud of one's 'h's.' "
+
+The [[King]] suddenly folded or crumpled up the paper, and put it
+in his pocket.
+
+"I have an idea," he said.  "I will be an eyewitness.  I will write you
+such letters from the Front as will be more gorgeous than the real thing.
+Give me my coat, Paladium.  I entered this room a mere [[King]] of England.
+I leave it, Special War Correspondent of the [[Court]] Journal.
+It is useless to stop me, Pally; it is vain to cling to
+my knees, Buck; it is hopeless, Barker, to weep upon my neck.
+'When duty calls'... the remainder of the sentiment escapes me.
+You will receive my first article this evening by the eight o'[[Clock|clock]] post."
+
+And, running out of the office, he jumped upon a blue Bayswater
+omnibus that went swinging by.
+
+"[[Well]]," said Barker, gloomily, "[[Well|well]]."
+
+"Barker," said Buck, "business may be lower than politics, but war is,
+as I discovered last [[Night|night]], a long sight more like business.
+You politicians are such ingrained demagogues that even when you
+have a despotism you think of nothing but public opinion.
+So you learn to tack and run, and are afraid of the first breeze.
+Now we stick to a thing and get it.  And our mistakes help us.
+Look here! at this moment we've beaten Wayne."
+
+"Beaten Wayne," repeated Barker.
+
+"Why the dickens not?" cried the other, flinging out his hands.
+"Look here.  I said last [[Night|night]] that we had them by holding the
+nine entrances.  [[Well]], I was wrong.  We should have had them but for
+a singular event...the lamps went out.  But for that it was certain.
+Has it occurred to you, my brilliant Barker, that another singular
+event has happened since that singular event of the lamps going out?"
+
+"What event?" asked Barker.
+
+"By an astounding coincidence, the sun has risen," cried out Buck,
+with a savage air of patience.  "Why the hell aren't we holding all
+those approaches now, and passing in on them again?  It should have
+been done at sunrise.  The confounded doctor wouldn't let me go out.
+You were in command."
+
+Barker smiled grimly.
+
+"It is a gratification to me, my dear Buck, to be able
+to say that we anticipated your suggestions precisely.
+We went as early as possible to reconnoitre the nine entrances.
+Unfortunately, while we were fighting each other in the dark,
+like a lot of drunken navvies, Mr. Wayne's friend's were working
+very hard indeed.  Three hundred yards from.  Pump Street, at every one
+of those entrances, there is a barricade nearly as high as the houses.
+They were finishing the last, in Pembridge [[Road]], when we arrived.
+Our mistakes," he cried bitterly, and flung his cigarette on the ground.
+"It is not we who learn from them."
+
+There was a [[Silence|silence]] for a few moments, and Barker lay back wearily
+in a chair.  The office [[Clock|clock]] ticked exactly in the stillness.
+
+At length Barker said suddenly:
+
+"Buck, does it ever [[Cross|cross]] your mind what this is all about?
+The Hammersmith to Maida Vale thoroughfare was an uncommonly
+good speculation.  You and I hoped a great deal from it.  But is it
+worth it?  It will cost us thousands to crush this ridiculous riot.
+Suppose we let it [[Alone|alone]]?"
+
+"And be thrashed in public by a red-haired madman whom any two
+doctors would lock up?" cried out Buck, starting to his feet.
+"What do you propose to do, Mr. Barker?  To apologize to the admirable
+Mr. Wayne?  To kneel to the Charter of the Cities?  To clasp to your
+bosom the [[Flag|flag]] of the Red [[Lion]]?  To kiss in succession every sacred
+lamp-post that saved Notting [[Hill]]?  No, by God!  My men fought jolly
+[[Well|well]]...they were beaten by a trick.  And they'll fight again."
+
+"Buck," said Barker, "I always admired you.  And you were quite
+right in what you said the other day."
+
+"In what?"
+
+"In saying," said Barker, rising quietly, "that we had all got into
+[[Adam Wayne]]'s atmosphere and out of our own.  My friend, the whole
+territorial kingdom of [[Adam Wayne]] extends to about nine streets,
+with barricades at the end of them.  But the spiritual kingdom
+of [[Adam Wayne]] extends, God knows where...it extends to this office
+at any rate.  The red-haired madman whom any two doctors would
+lock up is filling this room with his roaring, unreasonable [[Soul|soul]].
+And it was the red-haired madman who said the last word you spoke."
+
+Buck walked to the [[Window|window]] without replying.
+
+"You understand, of course," he said at last, "I do not dream
+of giving in."
 
 . . . . .
 
-Forty workmen, a hundred Bayswater Halberdiers, two hundred
-from South, and three from North Kensington, assembled at the foot
-of Holland Walk and marched up it, under the general direction
-of Barker, who looked flushed and happy in full dress.  At the end
-of the procession a small and sulky figure lingered like an urchin.
-It was the [[King]].
+The [[King]], meanwhile, was rattling along on the top of his blue omnibus.
+The traffic of [[London]] as a whole had not, of course, been greatly
+disturbed by these events, for the affair was treated as a
+Notting [[Hill]] riot, and that area was marked off as if it had been
+in the hands of a gang of recognized rioters.  The blue omnibuses
+simply went round as they would have done if a [[Road|road]] were being mended,
+and the omnibup on which the correspondent of the [[Court]] Journal
+was sitting swept round the corner of [[Queen]]'s [[Road]], Bayswater.
 
-"Barker," he said at length, appealingly, "you are an old friend
-of mine...you understand my hobbies as I understand yours.
-Why can't you let it [[Alone|alone]]?  I hoped that such fun might come
-out of this Wayne business.  Why can't you let it [[Alone|alone]]?
-It doesn't really so much matter to you...what's a [[Road|road]] or so?
-For me it's the one joke that may save me from pessimism.
-Take fewer men and give me an hour's fun.  Really and truly,
-James, if you collected coins or humming-[[Birds|birds]], and I could buy
-one with the price of your [[Road|road]], I would buy it.  I collect
-incidents...those rare, those precious things.  Let me have one.
-Pay a few pounds for it.  Give these Notting Hillers a chance.
-Let them [[Alone|alone]]."
+The [[King]] was [[Alone|alone]] on the top of the vehicle, and was enjoying
+the [[Speed|speed]] at which it was going.
 
-"Auberon," said Barker, kindly, forgetting all royal titles
-in a rare moment of sincerity, "I do feel what you mean.
-I have had moments when these hobbies have hit me.
-I have had moments when I have sympathized with your humours.
-I have had moments, though you may not easily believe it,
-when I have sympathized with the [[Madness|madness]] of [[Adam Wayne]].
-But the world, Auberon, the real world, is not run on these hobbies.
-It goes on great brutal wheels of facts...wheels on which you are
-the butterfly.  And Wayne is the fly on the [[Wheel|wheel]]."
+"Forward, my [[Beauty|beauty]], my Arab," he said, patting the omnibus encouragingly,
+"fleetest of all thy bounding tribe.  Are thy relations with
+thy driver, I [[Wonder|wonder]], those of the Bedouin and his steed?
+Does he [[Sleep|sleep]] side by side with thee..."
 
-Auberon's eyes looked frankly at the other's.
+His meditations were broken by a sudden and jarring stopage.
+Looking over the edge, he saw that the heads of the horses were being
+held by men in the uniform of Wayne's army, and heard the voice
+of an officer calling out orders.
 
-"Thank you, James; what you say is true.  It is only a parenthetical
-consolation to me to compare the intelligence of flies, somewhat
-favourably with the intelligence of wheels.  But it is the [[Nature|nature]]
-of flies to die soon, and the [[Nature|nature]] of wheels to go on for ever.
-Go on with the [[Wheel|wheel]].  Good-bye, old man."
+[[King]] Auberon descended from the omnibus with dignity.
+The guard or picket of red halberdiers who had stopped the vehicle
+did not number more than twenty, and they were under the command
+of a short, dark, clever-looking young man, conspicuous among
+the rest as being clad in an ordinary frock-coat, but girt round
+the waist with a red sash and a long seventeenth-century [[Sword|sword]].
+A shiny silk hat and spectacles completed the outfit in a pleasing manner.
 
-And [[James Barker]] went on, laughing, with a high colour, slapping his
-bamboo on his leg.
+"To whom have I the [[Honour|honour]] of speaking?" said the [[King]], endeavouring to
+look like Charles I, in spite of personal difficulties.
 
-The [[King]] watched the tail of the retreating regiment with a look
-of genuine depression, which made him seem more like a baby than ever.
-Then he swung round and struck his hands together.
+The dark man in spectacles lifted his hat with equal gravity.
 
-"In a world without [[Humour|humour]]," he said, "the only thing to do is to eat.
-And how perfect an exception!  How can these people strike dignified
-attitudes, and pretend that things matter, when the total ludicrousness
-of life is proved by the very method by which it is supported?
-A man strikes the lyre, and says, 'Life is real, life is earnest,'
-and then goes into a room and stuffs alien substances into a hole
-in his head.  I think [[Nature]] was indeed a little broad in her [[Humour|humour]]
-in these matters.  But we all fall back on the pantomime, as I
-have in this municipal affair.  [[Nature]] has her farces, like, the act
-of eating or the shape of the kangaroo, for the more brutal appetite.
-She keeps her [[Stars|stars]] and [[Mountains|mountains]] for those who can appreciate something
-more subtly ridiculous."  He turned to his equerry.  "But, as I
-said 'eating,' let us have a picnic like two nice little children.
-Just run and bring me a table and a dozen courses or so, and plenty
-of champagne, and under these swinging boughs, Bowler, we will
-return to [[Nature]]."
+"My name is Bowles," he said.  "I am a chemist.  I am also a captain
+of O company of the army of Notting [[Hill]].  I am distressed at having
+to incommode you by stopping the omnibus, but this area is covered
+by our proclamation, and we intercept all traffic.  May I ask to whom
+I have the [[Honour|honour]]...Why, good gracious, I beg your Majesty's pardon.
+I am quite overwhelmed at finding myself concerned with the [[King]]."
 
-It took about an hour to erect in Holland Lane the monarch's
-simple repast, during which [[Time|time]] he walked up and down and whistled,
-but still with an unaffected air of gloom.  He had really been done
-out of a pleasure he had promised himself, and had that empty and
-sickened feeling which a [[Child|child]] has when disappointed of a pantomime.
-When he and the equerry had sat down, however, and consumed a fair
-amount of dry champagne, his spirits began mildly to revive.
+Auberon put up his hands with indescribable grandeur.
 
-"Things take too long in this world," he said.  "I detest all this
-Barkerian business about evolution and the gradual modification
-of things.  I wish the world had been made in six days,
-and knocked to pieces again in six more.  And I wish I had done it.
-The joke's good enough in a broad way, sun and [[Moon|moon]] and the image
-of God and all that, but they keep it up so damnably long.
-Did you ever long for a miracle, Bowler?"
+"Not with the [[King]]," he said; "with the special war correspondent
+of the [[Court]] Journal."
 
-"No, sir," said Bowler, who was an evolutionist, and had been
-carefully brought up.
+"I beg your Majesty's pardon," began Mr. Bowles, doubtfully.
 
-"Then I have," answered the [[King]].  "I have walked along a street
-with the best cigar in the cosmos in my mouth, and more Burgundy
-inside me than you ever saw in your life, and longed that the
-lamp-post would turn into an elephant to save me from the hell
-of blank existence.  Take my word for it, my evolutionary Bowler,
-don't you believe people when they tell you that people sought
-for a sign, and believed in miracles because they were ignorant.
-They did it because they were wise, filthily, vilely wise...too
-wise to eat or [[Sleep|sleep]] or put on their boots with patience.
-This seems delightfully like a new theory of the origin
-of [[Christianity]], which would itself be a thing of no mean absurdity.
-Take some more wine."
+"Do you call me Majesty?  I repeat," said Auberon firmly, "I am
+a representative of the press.  I have chosen, with a deep sense
+of responsibility, the name of Pinker.  I should [[Desire|desire]] a veil
+to be drawn over the past."
 
-The [[Wind|wind]] blew round them as they sat at their little table,
-with its white cloth and bright wine-cups, and flung the tree-tops
-of Holland Park against each other, but the sun was in that strong
-temper which turns green into gold.  The [[King]] pushed away his plate,
-lit a cigar slowly, and went on:
+"Very [[Well|well]], sir," said Mr. Bowles, with an air of submission, "in our eyes
+the sanctity of the press is at least as great as that of the throne.
+We [[Desire|desire]] nothing better than that our wrongs and our glories should
+be widely known.  May I ask, Mr. Pinker, if you have any objection
+to being presented to the Provost and to General Turnbull?"
 
-"Yesterday I thought that something next door to a really entertaining
-miracle might happen to me before I went to amuse the worms.
-To see that red-haired maniac waving a great [[Sword|sword]] and making speeches
-to his incomparable followers, would have been a glimpse of that Land
-of Youth from which the Fates shut us out.  I had planned some quite
-delightful things.  A Congress of Knightsbridge with a treaty,
-and myself in the chair, and perhaps a Roman triumph, with jolly
-old Barker led in [[Chains|chains]].  And now these wretched prigs have gone
-and stamped out the exquisite Mr. Wayne altogether, and I suppose they
-will put him in a private asylum somewhere in their damned humane way.
-Think of the treasures daily poured out to his unappreciative keeper!
-I [[Wonder|wonder]] whether they would let me be his keeper.  But life is a vale.
-Never forget at any moment of your existence to regard it in the light
-of a vale.  This graceful habit, if not acquired in youth..."
+"The Provost I have had the [[Honour|honour]] of meeting,"
+said Auberon, easily.  "We old journalists, you know, meet everybody.
+I should be most delighted to have the same [[Honour|honour]] again.
+General Turnbull, also, it would be a gratification to know.
+The younger men are so interesting.  We of the old Fleet Street
+gang lose touch with them."
 
-The [[King]] stopped, with his cigar lifted, for there had
-slid into his eyes the startled look of a man listening.
-He did not move for a few moments; then he turned his head
-sharply towards the high, thin, and lath-like paling which
-fenced certain long gardens and similar spaces from the lane.
-From behind it there was coming a curious scrambling and scraping noise,
-as of a desperate thing imprisoned in this box of thin wood.
-The [[King]] threw away his cigar and jumped on to the table.
-From this position he saw a pair of hands hanging with a hungry
-clutch on the top of the fence.  Then the hands quivered with a
-convulsive effort, and a head shot up between them...the head of one
-of the Bayswater Town Council, his eyes and whiskers wild with [[Fear|fear]].
-He swung himself over, and fell on the other side on his face,
-and groaned openly and without ceasing.  The next moment the thin,
-taut wood of the fence was struck as by a bullet, so that it reverberated
-like a drum, and over it came tearing and cursing, with torn clothes
-and broken nails and bleeding faces, twenty men at one rush.
-The [[King]] sprang five feet clear off the table on to the ground.
-The moment after the table was flung over, sending bottles and
-glasses flying, and the debris was literally swept along the ground
-by that stream of men pouring past, arid Bowler was borne along
-with them, as the [[King]] said in his famous newspaper article,
-"like a captured bride."  The great fence swung and split
-under the load of climbers that still scaled and cleared it.
-Tremendous gaps were torn in it by this living artillery; and through
-them the [[King]] could see more and more frantic faces, as in [[A Dream|a dream]],
-and more and more men running.  They were as miscellaneous as if some
-one had taken the lid off a human dustbin.  Some were untouched,
-some were slashed and battered and bloody, some were splendidly dressed,
-some tattered and half-naked, some were in the fantastic garb
-of the burlesque cities, some in the dullest modern dress.
-The [[King]] stared at all of them, but none of them looked at the [[King]].
-Suddenly he stepped forward.
+"Will you be so good as to step this way?" said the leader
+of O company.
 
-"Barker," he said, "what is all this?"
-
-"Beaten," said the politician "beaten all to hell!"  And he plunged
-past with nostrils shaking like a [[Horse|horse]]'s, and more and more men
-plunged after him.
-
-Almost as he spoke, the last standing strip of fence bowed
-and snapped, flinging, as from a catapult, a new figure upon the [[Road|road]].
-He wore the flaming red of the halberdiers of Notting [[Hill]],
-and on his weapon there was [[Blood|blood]], and in his face victory.
-In another moment masses of red glowed through the gaps of the fence,
-and the pursuers, with their halberds, came pouring down the lane.
-Pursued and pursuers alike swept by the little figure with the
-owlish eyes, who had not taken his hands out of his pockets.
-
-The [[King]] had still little beyond the confused sense of a man
-caught in a torrent...the feeling of men eddying by.
-Then something happened which he was never able afterwards to describe,
-and which we cannot describe for him.  Suddenly in the dark entrance,
-between the broken gates of a [[Garden|garden]], there appeared framed
-a flaming figure.
-
-[[Adam Wayne]], the conqueror, with his face flung back, and his mane
-like a [[Lion|lion]]'s, stood with his great [[Sword|sword]] point upwards, the red raiment
-of his office flapping round him like the red wings of an archangel.
-And the [[King]] saw, he knew not how, something new and overwhelming.
-The great green trees and the great red robes swung together in the [[Wind|wind]].
-The [[Sword|sword]] seemed made for the sunlight.  The preposterous masquerade,
-born of his own mockery, towered over him and embraced the world.
-This was the normal, this was [[Sanity|sanity]], this was [[Nature|nature]]; and he himself,
-with his rationality and his detachment and his black frock-coat,
-he was the exception and the accident...a blot of black upon a world
-of crimson and gold.
+"I am always good," said Mr. Pinker.  "Lead on."

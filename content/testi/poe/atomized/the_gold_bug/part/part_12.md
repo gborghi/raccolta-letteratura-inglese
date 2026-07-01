@@ -1,5 +1,5 @@
 ---
-title: "[[The Gold-Bug]] (part 12)"
+title: "The Gold-Bug (part 12)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-gold-bug-(poe)"
@@ -12,6 +12,60 @@ tags:
 <div class="excerpt-crumb">Poe · <a href="/works/the-gold-bug-(poe)">The Gold Bug</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_gold_bug/part/part_11">‹ part 11</a><a class="ex-next" href="/testi/poe/atomized/the_gold_bug/part/part_13">part 13 ›</a></div>
 </nav>
+
+
+      “I held the vellum again to the [[Fire|fire]], after increasing the heat;
+
+      but nothing appeared. I now thought it possible that the coating
+
+      of dirt might have something to do with the failure; so I
+
+      carefully rinsed the parchment by pouring warm [[Water|water]] over it,
+
+      and, having done this, I placed it in a tin pan, with the skull
+
+      downwards, and put the pan upon a furnace of lighted charcoal. In
+
+      a few minutes, the pan having become thoroughly heated, I removed
+
+      the slip, and, to my inexpressible joy, found it spotted, in
+
+      several places, with what appeared to be figures arranged in
+
+      lines. Again I placed it in the pan, and suffered it to remain
+
+      another minute. Upon taking it off, the whole was just as you see
+
+      it now.”
+
+
+
+      Here Legrand, having re-heated the parchment, submitted it to my
+
+      inspection. The following characters were rudely traced, in a red
+
+      tint, between the [[Death|death]]’s-head and the goat:
+
+
+
+     “53‡‡†305))6*;4826)4‡.)4‡);806*;48†8¶60))85;1‡(;:‡*8†83(88)5*†
+
+     ;46(;88*96*?;8)*‡(;485);5*†2:*‡(;4956*2(5*—4)8¶8*;4069285);)
+
+     6†8)4‡‡;1(‡9;48081;8:8‡1;48†85;4)485†528806*81(‡9;48;(88;4(‡?3
+
+     4;48)4‡;161;:188;‡?;”
+
+
+
+      “But,” said I, returning him the slip, “I am as much in the dark
+
+      as ever. Were all the jewels of Golconda awaiting me upon my
+
+      solution of this enigma, I am quite sure that I should be unable
+
+      to earn them.”
+
 
 
       “And yet,” said Legrand, “the solution is by no means so
@@ -175,55 +229,3 @@ tags:
       “Let us assume 8, then, as _e_. Now, of all _words_ in the
 
       language, ‘the’ is most usual; let us see, therefore, whether
-
-      there are not repetitions of any three characters, in the same
-
-      order of collocation, the last of them being 8. If we discover
-
-      repetitions of such letters, so arranged, they will most probably
-
-      represent the word ‘the.’ Upon inspection, we find no less than
-
-      seven such arrangements, the characters being ;48. We may,
-
-      therefore, assume that ; represents _t_, 4 represents _h_, and 8
-
-      represents _e_—the last being now [[Well|well]] confirmed. Thus a great
-
-      step has been taken.
-
-
-
-      “But, having established a single word, we are enabled to
-
-      establish a vastly important point; that is to say, several
-
-      commencements and terminations of other words. Let us refer, for
-
-      example, to the last instance but one, in which the combination
-
-      ;48 occurs—not far from the end of the cipher. We know that the ;
-
-      immediately ensuing is the commencement of a word, and, of the
-
-      six characters succeeding this ‘the,’ we are cognizant of no less
-
-      than five. Let us set these characters down, thus, by the letters
-
-      we know them to represent, leaving a space for the unknown—
-
-
-
-      t eeth.
-
-
-
-      “Here we are enabled, at once, to discard the ‘th,’ as forming no
-
-      portion of the word commencing with the first t; since, by
-
-      experiment of the entire alphabet for a letter adapted to the
-
-      vacancy, we perceive that no word can be formed of which this
-
-      _th_ can be a part. We are thus narrowed into

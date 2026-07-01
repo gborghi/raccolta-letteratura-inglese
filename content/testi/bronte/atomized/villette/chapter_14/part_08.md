@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 14 (part 8)"
+title: "Villette — Chapter 14 (part 8)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,25 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_14/part_07">‹ part 07</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_14/part_09">part 09 ›</a></div>
 </nav>
 
+
+In the first place, the parents were made accomplices to the deed, for
+it was only through their mediation it was brought about. Secondly: the
+admission of these rattlesnakes, so fascinating and so dangerous,
+served to draw out Madame precisely in her strongest character—that of
+a first-rate _surveillante_. Thirdly: their presence furnished a most
+piquant ingredient to the entertainment: the pupils knew it, and saw
+it, and the view of such golden apples shining afar off, animated them
+with a spirit no other circumstance could have kindled. The children’s
+pleasure spread to the parents; life and mirth circulated quickly round
+the ball-room; the “jeunes gens” themselves, though restrained, were
+amused: for Madame never permitted them to feel dull—and thus Madame
+Beck’s fête annually ensured a [[success]] unknown to the fête of any other
+directress in the land.
+
+I observed that Dr. John was at first permitted to walk at large
+through the classes: there was about him a manly, responsible look,
+that redeemed his youth, and half-expiated his [[Beauty|beauty]]; but as soon as
+the ball began, Madame ran up to him.
 
 “Come, Wolf; come,” said she, laughing: “you wear sheep’s clothing, but
 you must quit the fold notwithstanding. Come; I have a fine menagerie
@@ -120,30 +139,3 @@ here,” she whispered.
 
 “There’s a dear creature! your curiosity is roused at last. Follow me,
 I will point them out.”
-
-She proudly led the way—“But you cannot see them [[Well|well]] from the
-classes,” said she, turning, “Madame keeps them too far off. Let us
-[[Cross|cross]] the [[Garden|garden]], enter by the corridor, and get close to them behind:
-we shall be scolded if we are seen, but never mind.”
-
-For once, I did not mind. Through the [[Garden|garden]] we went—penetrated into
-the corridor by a quiet private entrance, and approaching the _carré_,
-yet keeping in the corridor shade, commanded a near view of the band of
-“jeunes gens.”
-
-I believe I could have picked out the conquering de Hamal even
-undirected. He was a straight-nosed, very correct-featured little
-dandy. I say _little_ dandy, though he was not beneath the middle
-standard in stature; but his lineaments were small, and so were his
-hands and feet; and he was pretty and smooth, and as trim as a doll: so
-nicely dressed, so nicely curled, so booted and gloved and cravated—he
-was charming indeed. I said so. “What, a dear personage!” cried I, and
-commended Ginevra’s taste warmly; and asked her what she thought de
-Hamal might have done with the precious fragments of that heart she had
-broken—whether he kept them in a scent-vial, and conserved them in otto
-of roses? I observed, too, with deep rapture of approbation, that the
-colonel’s hands were scarce larger than Miss Fanshawe’s own, and
-suggested that this circumstance might be convenient, as he could wear
-her gloves at a pinch. On his dear curls, I told her I doated: and as
-to his low, Grecian brow, and exquisite classic headpiece, I confessed
-I had no language to do such perfections justice.

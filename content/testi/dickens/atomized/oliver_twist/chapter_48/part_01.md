@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 48 (part 1)"
+title: "Oliver Twist — Chapter 48 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -122,12 +122,3 @@ There was nothing to attract attention, or excite alarm in this. The
 robber, after paying his reckoning, sat silent and unnoticed in his
 corner, and had almost dropped asleep, when he was half wakened by the
 noisy entrance of a new comer.
-
-This was an antic fellow, half pedlar and half mountebank, who
-travelled about the country on foot to vend hones, strops, razors,
-washballs, harness-paste, medicine for [[dogs]] and horses, cheap
-perfumery, cosmetics, and such-like wares, which he carried in a case
-slung to his back. His entrance was the signal for various homely jokes
-with the countrymen, which slackened not until he had made his supper,
-and opened his box of treasures, when he ingeniously contrived to unite
-business with amusement.

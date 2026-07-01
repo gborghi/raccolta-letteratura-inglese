@@ -1,5 +1,5 @@
 ---
-title: "[[GKC-Autobiography]] — Chapter 10 (part 1)"
+title: "GKC-Autobiography — Chapter 10 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/gkc-autobiography-(chesterton)"
@@ -119,8 +119,3 @@ the door and rushing out to a telescope in the [[Garden|garden]] (it was already
 a frosty starlight) and loudly hallooing to the ladies to come and see
 God making energy.  His wife declined, in terms of not a little [[Humour|humour]];
 to which he retorted cheerfully:
-
-  We were young, we were merry, we were very very wise
-  And the doors stood open at our feast;
-  When there passed us a woman with the west in her eyes
-  And a man with his back to the east.

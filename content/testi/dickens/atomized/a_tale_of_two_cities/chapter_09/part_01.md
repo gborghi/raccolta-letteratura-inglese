@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities — Chapter 2 (part 1)"
+title: "A Tale of Two Cities — Chapter 3 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-tale-of-two-cities-(dickens)"
@@ -14,143 +14,106 @@ tags:
 </nav>
 
 
-CHAPTER II.
-A Sight
+CHAPTER III.
+A Disappointment
 
 
-“You know the Old Bailey [[Well|well]], no [[Doubt|doubt]]?” said one of the oldest of
-clerks to Jerry the messenger.
+Mr. Attorney-General had to inform the jury, that the prisoner before
+them, though young in years, was old in the treasonable practices which
+claimed the forfeit of his life. That this correspondence with the
+public enemy was not a correspondence of to-day, or of yesterday, or
+even of last year, or of the year before. That, it was certain the
+prisoner had, for longer than that, been in the habit of passing and
+repassing between France and England, on secret business of which
+he could give no honest account. That, if it were in the [[Nature|nature]] of
+traitorous ways to thrive (which happily it never was), the real
+wickedness and [[Guilt|guilt]] of his business might have remained undiscovered.
+That [[Providence]], however, had put it into the heart of a person who
+was beyond [[Fear|fear]] and beyond reproach, to ferret out the [[Nature|nature]] of the
+prisoner’s schemes, and, struck with horror, to disclose them to his
+Majesty’s Chief Secretary of State and most honourable Privy Council.
+That, this patriot would be produced before them. That, his position and
+attitude were, on the whole, [[Sublime|sublime]]. That, he had been the prisoner’s
+friend, but, at once in an auspicious and an evil hour detecting his
+infamy, had resolved to immolate the traitor he could no longer cherish
+in his bosom, on the sacred altar of his country. That, if statues
+were decreed in Britain, as in [[Ancient Greece|ancient Greece]] and Rome, to public
+benefactors, this shining citizen would assuredly have had one. That, as
+they were not so decreed, he probably would not have one. That, Virtue,
+as had been observed by the poets (in many passages which he [[Well|well]]
+knew the jury would have, word for word, at the tips of their tongues;
+whereat the jury’s countenances displayed a guilty consciousness that
+they knew nothing about the passages), was in a manner contagious; more
+especially the bright virtue known as patriotism, or [[Love|love]] of country.
+That, the lofty example of this immaculate and unimpeachable witness
+for the [[Crown]], to refer to whom however unworthily was an [[Honour|honour]], had
+communicated itself to the prisoner’s servant, and had engendered in him
+a holy determination to examine his master’s table-drawers and pockets,
+and secrete his papers. That, he (Mr. Attorney-General) was prepared to
+hear some disparagement attempted of this admirable servant; but that,
+in a general way, he preferred him to his (Mr. Attorney-General’s)
+brothers and sisters, and honoured him more than his (Mr.
+Attorney-General’s) father and mother. That, he called with confidence
+on the jury to come and do likewise. That, the evidence of these two
+witnesses, coupled with the documents of their discovering that would be
+produced, would show the prisoner to have been furnished with lists of
+his Majesty’s forces, and of their disposition and preparation, both by
+sea and land, and would leave no [[Doubt|doubt]] that he had habitually conveyed
+such information to a hostile power. That, these lists could not be
+proved to be in the prisoner’s handwriting; but that it was all the
+same; that, indeed, it was rather the better for the prosecution, as
+showing the prisoner to be artful in his precautions. That, the proof
+would go back five years, and would show the prisoner already engaged
+in these pernicious missions, within a few weeks before the date of the
+very first action fought between the British troops and the Americans.
+That, for these reasons, the jury, being a loyal jury (as he knew they
+were), and being a responsible jury (as _they_ knew they were), must
+positively find the prisoner Guilty, and make an end of him, whether
+they liked it or not. That, they never could lay their heads upon their
+pillows; that, they never could tolerate the idea of their wives laying
+their heads upon their pillows; that, they never could endure the notion
+of their children laying their heads upon their pillows; in short, that
+there never more could be, for them or theirs, any laying of heads upon
+pillows at all, unless the prisoner’s head was taken off. That head
+Mr. Attorney-General concluded by demanding of them, in the name of
+everything he could think of with a round turn in it, and on the [[Faith|faith]]
+of his solemn asseveration that he already considered the prisoner as
+good as dead and gone.
 
-“Ye-es, sir,” returned Jerry, in something of a dogged manner. “I _do_
-know the Bailey.”
+When the Attorney-General ceased, a buzz arose in the [[Court|court]] as if
+a cloud of great blue-flies were swarming about the prisoner, in
+anticipation of what he was soon to become. When toned down again, the
+unimpeachable patriot appeared in the witness-box.
 
-“Just so. And you know Mr. Lorry.”
+Mr. Solicitor-General then, following his leader’s lead, examined the
+patriot: John Barsad, gentleman, by name. The story of his pure [[Soul|soul]] was
+exactly what Mr. Attorney-General had described it to be--perhaps, if
+it had a fault, a little too exactly. Having released his noble bosom
+of its burden, he would have modestly withdrawn himself, but that the
+wigged gentleman with the papers before him, sitting not far from Mr.
+Lorry, begged to ask him a few questions. The wigged gentleman sitting
+opposite, still looking at the ceiling of the [[Court|court]].
 
-“I know Mr. Lorry, sir, much better than I know the Bailey. Much
-better,” said Jerry, not unlike a reluctant witness at the establishment
-in question, “than I, as a honest tradesman, wish to know the Bailey.”
-
-“Very [[Well|well]]. Find the door where the witnesses go in, and show the
-door-keeper this note for Mr. Lorry. He will then let you in.”
-
-“Into the [[Court|court]], sir?”
-
-“Into the [[Court|court]].”
-
-Mr. Cruncher’s eyes seemed to get a little closer to one another, and to
-interchange the inquiry, “What do you think of this?”
-
-“Am I to wait in the [[Court|court]], sir?” he asked, as the result of that
-conference.
-
-“I am going to tell you. The door-keeper will pass the note to Mr.
-Lorry, and do you make any gesture that will attract Mr. Lorry’s
-attention, and show him where you stand. Then what you have to do, is,
-to remain there until he wants you.”
-
-“Is that all, sir?”
-
-“That’s all. He wishes to have a messenger at hand. This is to tell him
-you are there.”
-
-As the ancient clerk deliberately folded and superscribed the note,
-Mr. Cruncher, after surveying him in [[Silence|silence]] until he came to the
-blotting-paper stage, remarked:
-
-“I suppose they’ll be trying Forgeries this morning?”
-
-“Treason!”
-
-“That’s quartering,” said Jerry. “Barbarous!”
-
-“It is the law,” remarked the ancient clerk, turning his surprised
-spectacles upon him. “It is the law.”
-
-“It’s hard in the law to spile a man, I think. It’s hard enough to kill
-him, but it’s wery hard to spile him, sir.”
-
-“Not at all,” retained the ancient clerk. “Speak [[Well|well]] of the law. Take
-care of your chest and voice, my good friend, and leave the law to take
-care of itself. I give you that advice.”
-
-“It’s the damp, sir, what settles on my chest and voice,” said Jerry. “I
-leave you to judge what a damp way of earning a living mine is.”
-
-“[[Well]], [[Well|well]],” said the old clerk; “we all have our various ways of
-gaining a livelihood. Some of us have damp ways, and some of us have dry
-ways. Here is the letter. Go along.”
-
-Jerry took the letter, and, remarking to himself with less internal
-deference than he made an outward show of, “You are a lean old one,
-too,” made his bow, informed his son, in passing, of his destination,
-and went his way.
-
-They hanged at Tyburn, in those days, so the street outside Newgate had
-not obtained one infamous notoriety that has since attached to it.
-But, the gaol was a vile place, in which most kinds of debauchery and
-villainy were practised, and where dire diseases were bred, that came
-into [[Court|court]] with the prisoners, and sometimes rushed straight from the
-dock at my [[Lord Chief Justice]] himself, and pulled him off the bench. It
-had more than once happened, that the Judge in the black cap pronounced
-his own doom as certainly as the prisoner’s, and even died before him.
-For the rest, the Old Bailey was famous as a kind of deadly inn-yard,
-from which pale travellers set out continually, in carts and coaches, on
-a violent passage into the other world: traversing some two miles and a
-half of public street and [[Road|road]], and shaming few good citizens, if any.
-So powerful is use, and so desirable to be good use in the beginning. It
-was famous, too, for the pillory, a wise old institution, that inflicted
-a punishment of which no one could foresee the extent; also, for
-the whipping-post, another dear old institution, very humanising and
-softening to behold in action; also, for extensive transactions in
-[[Blood|blood]]-money, another [[Fragment|fragment]] of ancestral wisdom, systematically
-leading to the most frightful mercenary crimes that could be committed
-under Heaven. Altogether, the Old Bailey, at that date, was a choice
-illustration of the precept, that “Whatever is is right;” an [[Aphorism|aphorism]]
-that would be as final as it is lazy, did it not include the troublesome
-consequence, that nothing that ever was, was wrong.
-
-Making his way through the tainted crowd, dispersed up and down this
-hideous scene of action, with the skill of a man accustomed to make his
-way quietly, the messenger found out the door he sought, and handed in
-his letter through a trap in it. For, people then paid to see the play
-at the Old Bailey, just as they paid to see the play in Bedlam--only the
-former entertainment was much the dearer. Therefore, all the Old Bailey
-doors were [[Well|well]] guarded--except, indeed, the social doors by which the
-criminals got there, and those were always left wide open.
-
-After some delay and demur, the door grudgingly turned on its hinges a
-very little way, and allowed Mr. [[Jerry Cruncher]] to squeeze himself into
-[[Court|court]].
-
-“What’s on?” he asked, in a whisper, of the man he found himself next
-to.
-
-“Nothing yet.”
-
-“What’s coming on?”
-
-“The Treason case.”
-
-“The quartering one, eh?”
-
-“Ah!” returned the man, with a relish; “he’ll be drawn on a hurdle to
-be half hanged, and then he’ll be taken down and sliced before his own
-face, and then his inside will be taken out and burnt while he looks on,
-and then his head will be chopped off, and he’ll be cut into quarters.
-That’s the sentence.”
-
-“If he’s found Guilty, you mean to say?” Jerry added, by way of proviso.
-
-“Oh! they’ll find him guilty,” said the other. “Don’t you be afraid of
-that.”
-
-Mr. Cruncher’s attention was here diverted to the door-keeper, whom he
-saw making his way to Mr. Lorry, with the note in his hand. Mr. Lorry
-sat at a table, among the gentlemen in wigs: not far from a wigged
-gentleman, the prisoner’s counsel, who had a great bundle of papers
-before him: and nearly opposite another wigged gentleman with his hands
-in his pockets, whose whole attention, when Mr. Cruncher looked at him
-then or afterwards, seemed to be concentrated on the ceiling of the
-[[Court|court]]. After some gruff coughing and rubbing of his chin and signing
-with his hand, Jerry attracted the notice of Mr. Lorry, who had stood up
-to look for him, and who quietly nodded and sat down again.
+Had he ever been a spy himself? No, he scorned the base insinuation.
+What did he live upon? His property. Where was his property? He didn’t
+precisely remember where it was. What was it? No business of anybody’s.
+Had he inherited it? Yes, he had. From whom? Distant relation. Very
+distant? Rather. Ever been in [[Prison|prison]]? Certainly not. Never in a debtors’
+[[Prison|prison]]? Didn’t see what that had to do with it. Never in a debtors’
+[[Prison|prison]]?--Come, once again. Never? Yes. How many times? Two or three
+times. Not five or six? Perhaps. Of what profession? Gentleman. Ever
+been kicked? Might have been. Frequently? No. Ever kicked downstairs?
+Decidedly not; once received a kick on the top of a staircase, and fell
+downstairs of his own accord. Kicked on that occasion for cheating at
+dice? Something to that effect was said by the intoxicated liar who
+committed the assault, but it was not true. Swear it was not true?
+Positively. Ever live by cheating at play? Never. Ever live by play? Not
+more than other gentlemen do. Ever borrow money of the prisoner? Yes.
+Ever pay him? No. Was not this intimacy with the prisoner, in reality a
+very slight one, forced upon the prisoner in coaches, inns, and packets?
+No. Sure he saw the prisoner with these lists? Certain. Knew no more
+about the lists? No. Had not procured them himself, for instance? No.
+Expect to get anything by this evidence? No. Not in regular [[government]]
+pay and employment, to lay traps? Oh dear no. Or to do anything? Oh dear
+no. Swear that? Over and over again. No motives but motives of sheer
+patriotism? None whatever.

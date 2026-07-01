@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 32 (part 4)"
+title: "Jane Eyre — Chapter 32 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_32/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_33/part_01">part 01 ›</a></div>
 </nav>
 
+
+I humoured him: the watch ticked on: he breathed fast and low: I stood
+silent. Amidst this hush the quartet sped; he replaced the watch, laid
+the picture down, [[Rose|rose]], and stood on the hearth.
 
 “Now,” said he, “that little space was given to delirium and delusion.
 I rested my temples on the breast of [[Temptation|temptation]], and put my neck

@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 7 (part 3)"
+title: "Martin Chuzzlewit — Chapter 7 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -124,9 +124,3 @@ bill!’
 Mr Tigg replenished his friend’s glass, pressed it into his hand, and
 nodded an intimation to the visitors that they would see him in a better
 aspect immediately.
-
-‘Obliged to two strangers for a tavern bill, eh!’ repeated Mr Slyme,
-after a sulky application to his glass. ‘Very pretty! And crowds of
-impostors, the while, becoming famous; men who are no more on a level
-with me than--Tigg, I take you to witness that I am the most persecuted
-hound on the face of the earth.’

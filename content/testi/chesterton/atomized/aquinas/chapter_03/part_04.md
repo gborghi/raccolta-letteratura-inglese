@@ -1,5 +1,5 @@
 ---
-title: "[[aquinas]] — Chapter 3 (part 4)"
+title: "aquinas — Chapter 3 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/aquinas-(chesterton)"
@@ -83,7 +83,7 @@ The great intellectual tradition that comes down to us from Pythagoras
 and Plato was never interrupted or lost through such trifles as the sack
 of Rome, the triumph of Attila or all the barbarian invasions of
 the Dark Ages.  It was only lost after the introduction of printing,
-the discovery of [[America]], the founding of the Royal Society and
+the discovery of [[america|America]], the founding of the Royal Society and
 all the enlightenment of the [[Renaissance]] and the modern world.
 It was there, if anywhere, that there was lost or impatiently snapped
 the long thin delicate thread that had descended from distant antiquity;

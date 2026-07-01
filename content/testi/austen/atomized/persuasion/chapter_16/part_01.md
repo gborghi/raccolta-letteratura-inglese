@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 16 (part 1)"
+title: "Persuasion — Chapter 16 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -82,7 +82,7 @@ thing in particular?” “No, nothing.” “Merely Gowland,” he supposed.
 
 be better than [[Well|well]]; or I should recommend Gowland, the constant use of
 
-Gowland, during the [[spring]] months. Mrs Clay has been using it at my
+Gowland, during the [[Spring|spring]] months. Mrs Clay has been using it at my
 
 recommendation, and you see what it has done for her. You see how it
 
@@ -203,9 +203,3 @@ must be remembered, had not been a widower seven months. A little delay
 on his side might be very excusable. In fact, Anne could never see the
 
 crape round his hat, without fearing that she was the inexcusable one,
-
-in attributing to him such imaginations; for though his [[Marriage|marriage]] had
-
-not been very happy, still it had existed so many years that she could
-
-not comprehend a very rapid recovery from the awful impression of its

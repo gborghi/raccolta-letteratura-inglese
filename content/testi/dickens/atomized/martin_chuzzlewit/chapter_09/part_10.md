@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 9 (part 10)"
+title: "Martin Chuzzlewit — Chapter 9 (part 10)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,53 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_09/part_09">‹ part 09</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_10/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘Ah! Indeed you may say that!’ cried Mrs Todgers.
+
+‘I’m afraid it is a vain and thoughtless world,’ said Mr Pecksniff,
+overflowing with despondency. ‘These young people about us. Oh! what
+sense have they of their responsibilities? None. Give me your other
+hand, Mrs Todgers.’
+
+The lady hesitated, and said ‘she didn’t like.’
+
+‘Has a voice from the [[Grave|grave]] no influence?’ said Mr Pecksniff, with,
+dismal tenderness. ‘This is irreligious! My dear creature.’
+
+‘Hush!’ urged Mrs Todgers. ‘Really you mustn’t.’
+
+‘It’s not me,’ said Mr Pecksniff. ‘Don’t suppose it’s me; it’s the
+voice; it’s her voice.’
+
+Mrs Pecksniff deceased, must have had an unusually thick and husky voice
+for a lady, and rather a stuttering voice, and to say the [[Truth|truth]] somewhat
+of a drunken voice, if it had ever borne much resemblance to that in
+which Mr Pecksniff spoke just then. But perhaps this was delusion on his
+part.
+
+‘It has been a day of enjoyment, Mrs Todgers, but still it has been a
+day of torture. It has reminded me of my [[Loneliness|loneliness]]. What am I in the
+world?’
+
+‘An excellent gentleman, Mr Pecksniff,’ said Mrs Todgers.
+
+‘There is consolation in that too,’ cried Mr Pecksniff. ‘Am I?’
+
+‘There is no better man living,’ said Mrs Todgers, ‘I am sure.’
+
+Mr Pecksniff smiled through his [[Tears|tears]], and slightly shook his head. ‘You
+are very good,’ he said, ‘thank you. It is a great happiness to me, Mrs
+Todgers, to make young people happy. The happiness of my pupils is my
+chief object. I dote upon ‘em. They dote upon me too--sometimes.’
+
+‘Always,’ said Mrs Todgers.
+
+‘When they say they haven’t improved, ma’am,’ whispered Mr Pecksniff,
+looking at her with profound mystery, and motioning to her to advance
+her ear a little closer to his mouth. ‘When they say they haven’t
+improved, ma’am, and the premium was too high, they lie! I shouldn’t
+wish it to be mentioned; you will understand me; but I say to you as to
+an old friend, they lie.’
 
 ‘Base wretches they must be!’ said Mrs Todgers.
 

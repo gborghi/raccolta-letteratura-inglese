@@ -14,6 +14,34 @@ tags:
 </nav>
 
 
+be exactly consumed with Corsican [[Revenge|revenge]] because somebody has
+
+killed Hook. Perhaps you may guess by this [[Time|time]] what Hook was. A
+
+damned [[Blood|blood]]-sucking blackmailer was that simple, strenuous,
+
+[[Self|self]]-made captain of industry. He had [[Secrets|secrets]] against nearly
+
+everybody; one against poor old Westmoreland about an early [[Marriage|marriage]]
+
+in Cyprus that might have put the duchess in a queer position; and
+
+one against Harker about some flutter with his client's money when
+
+he was a young solicitor. That's why they went to pieces when they
+
+found him murdered, of course. They felt as if they'd done it in a
+
+dream. But I admit I have another reason for not wanting our
+
+Hungarian friend actually hanged for the murder."
+"And what is that?" asked his friend.
+"Only that he didn't commit the murder," answered Fisher.
+Harold March laid down the oars and let the boat drift for a moment.
+"Do you know, I was half expecting something like that," he said.
+
+"It was quite irrational, but it was hanging about in the
+
 atmosphere, like thunder in the air."
 "On the contrary, it's finding Hugo guilty that's irrational,"
 

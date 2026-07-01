@@ -14,11 +14,39 @@ tags:
 </nav>
 
 
+fighting and profane [[Parody|parody]] of the Old Testament; and its lines are made
+
+of short English words like the short Roman swords. The first line of
+
+one of his finest [[Poems|poems]], for instance, runs, "I have lived long enough
+
+to have seen one thing, that [[Love|love]] hath an end." In that sentence only
+
+one small "e" gets outside the monosyllable. Through all his
+
+interminable tragedies, he was fondest of lines like--
+
+    "If ever I leave off to [[Honour|honour]] you
+
+    God give me shame; I were the worst churl born."
+
+The dramas were far from being short and dramatic; but the words really
+
+were. Nor was his verse merely smooth; except his very bad verse, like
+
+"the lilies and languors of virtue, to the raptures and roses of vice,"
+
+which both, in cheapness of form and foolishness of sentiment, may be
+
+called the worst couplet in the world's literature. In his real poetry
+
+(even in the same poem) his rhythm and rhyme are as original and
+
+ambitious as Browning; and the only difference between him and Browning
+
 is, not that he is smooth and without ridges, but that he always crests
 
 the ridge triumphantly and Browning often does not--
-
-
 
     "On thy bosom though many a kiss be,
 
@@ -36,8 +64,6 @@ the ridge triumphantly and Browning often does not--
 
     Across the fig-[[Leaves|leaves]]."
 
-
-
 Look at the rhymes in that verse, and you will see they are as stiff a
 
 task as Browning's: only they are successful. That is the real strength
@@ -51,8 +77,6 @@ through his later years. He was, if ever there was one, an inspired
 poet. I do not think it the highest sort of poet. And you never discover
 
 who is an inspired poet until the inspiration goes.
-
-
 
 With Swinburne we step into the circle of that later Victorian influence
 
@@ -112,8 +136,6 @@ and Pre-Raphaelite movements, which all agreed in two things at least:
 
 strictness in the line and strength, nay violence, in the colour.
 
-
-
 Rossetti was a remarkable man in more ways than one; he did not succeed
 
 in any art; if he had he would probably never have been heard of. It was
@@ -135,8 +157,6 @@ pictorial. His pictures were too poetical. That is why they really
 conquered the cold satisfaction of the Victorians, because they did mean
 
 something, even if it was a small artistic thing.
-
-
 
 Rossetti was one with Ruskin, on the one hand, and Swinburne on the
 
@@ -167,39 +187,3 @@ she also illustrated that Pre-Raphaelite's conflict of views that
 covered their coincidence of taste. Both used the angular outlines, the
 
 burning transparencies, the fixed but still unfathomable symbols of the
-
-great mediæval civilisation; but Rossetti used the religious imagery (on
-
-the whole) irreligiously, Christina Rossetti used it religiously but (on
-
-the whole) so to make it seem a narrower religion.
-
-
-
-One poet, or, to speak more strictly, one poem, belongs to the same
-
-general atmosphere and impulse as Swinburne; the free but languid
-
-atmosphere of later Victorian art. But this [[Time|time]] the [[Wind|wind]] blew from
-
-hotter and heavier gardens than the gardens of [[Italy]]. Edward
-
-Fitzgerald, a cultured eccentric, a friend of Tennyson, produced what
-
-professed to be a [[Translation|translation]] of the Persian poet Omar, who wrote
-
-quatrains about wine and roses and things in general. Whether the
-
-Persian original, in its own Persian way, was greater or less than this
-
-version I must not discuss here, and could not discuss anywhere. But it
-
-is quite clear that Fitzgerald's work is much too good to be a good
-
-[[Translation|translation]]. It is as personal and creative a thing as ever was written;
-
-and the best expression of a bad mood, a mood that may, for all I know,
-
-be permanent in Persia, but was certainly at this [[Time|time]] particularly
-
-fashionable in England. In the technical sense of literature it is one

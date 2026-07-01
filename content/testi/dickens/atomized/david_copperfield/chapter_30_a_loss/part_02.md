@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 30: A LOSS (part 2)"
+title: "David Copperfield — Chapter 30: A LOSS (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,8 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_30_a_loss/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_30_a_loss/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘I am sure she has!’ said I.
 
 ‘To see the clinging of that pretty little thing to her uncle,’ said
 Mr. Omer; ‘to see the way she holds on to him, tighter and tighter, and
@@ -136,6 +138,3 @@ word.
 ‘It’s getting late, my dear,’ said Mr. Peggotty, ‘and here’s Ham come
 fur to take you [[Home|home]]. Theer! Go along with t’other loving art! What’
 Em’ly? Eh, my pretty?’
-
-The sound of her voice had not reached me, but he bent his head as if he
-listened to her, and then said:

@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 15 (part 2)"
+title: "Great Expectations — Chapter 15 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_15/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_15/part_03">part 03 ›</a></div>
 </nav>
 
+
+“My dear Joe,” I cried, in desperation, taking hold of his coat, “don’t
+go on in that way. I never thought of making [[Miss Havisham]] any
+present.”
 
 “No, Pip,” Joe assented, as if he had been contending for that, all
 along; “and what I say to you is, you are right, Pip.”

@@ -49,16 +49,9 @@ judged, it will not be for the merely intellectual transgression of
 failing to appreciate other nations, but for the supreme spiritual
 transgression of failing to appreciate ourselves.
 
-
 THE END
 
 BILLING AND SONS, LTD., PRINTERS, GUILDFORD
-
-
-
-
-
-
 
 End of the Project Gutenberg EBook of The Defendant, by G.K. Chesterton
 
@@ -70,7 +63,6 @@ This and all associated files of various formats will be found in:
 
 Produced by Robert Shimmin, Frank van Drogen and PG Distributed
 Proofreaders
-
 
 Updated editions will replace the previous one--the old editions
 will be renamed.
@@ -92,8 +84,6 @@ practically ANYTHING with public domain eBooks.  Redistribution is
 subject to the trademark license, especially commercial
 redistribution.
 
-
-
 *** START: FULL LICENSE ***
 
 THE FULL PROJECT GUTENBERG LICENSE
@@ -105,7 +95,6 @@ distribution of electronic works, by using or distributing this work
 Gutenberg"), you agree to comply with all the terms of the Full Project
 Gutenberg-tm License (available with this file or online at
 http://gutenberg.net/license).
-
 
 Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
 electronic works

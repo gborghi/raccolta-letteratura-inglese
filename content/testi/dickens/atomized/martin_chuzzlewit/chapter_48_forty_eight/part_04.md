@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 48: FORTY EIGHT (part 4)"
+title: "Martin Chuzzlewit — Chapter 48: FORTY EIGHT (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_48_forty_eight/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_48_forty_eight/part_05">part 05 ›</a></div>
 </nav>
 
+
+‘Deceives you!’ cried Tom.
+
+‘Swindles me,’ retorted Mr Tapley with a beaming face. ‘Turns his back
+on everything as made his service a creditable one, and [[Leaves|leaves]] me high
+and dry, without a leg to stand upon. In which state I returns [[Home|home]].
+Wery good. Then all my hopeful wisions bein’ crushed; and findin’ that
+there ain’t no credit for me nowhere; I abandons myself to [[Despair|despair]],
+and says, “Let me do that as has the least credit in it of all; marry a
+dear, sweet creetur, as is wery fond of me; me bein’, at the same [[Time|time]],
+wery fond of her; lead a happy life, and struggle no more again’ the
+blight which settles on my prospects.”’
+
+‘If your [[philosophy]], Mark,’ said Tom, who laughed heartily at this
+speech, ‘be the oddest I ever heard of, it is not the least wise. Mrs
+Lupin has said “yes,” of course?’
 
 ‘Why, no, sir,’ replied Mr Tapley; ‘she hasn’t gone so far as that yet.
 Which I attribute principally to my not havin’ asked her. But we was
@@ -114,24 +130,3 @@ since he began to recover; but, as you see, he is now doing [[Well|well]].’
 
 As he did not move or speak, and John Westlock made a pause, Martin, not
 knowing what to say, said that he was glad to hear it.
-
-‘The short statement that I wish you to hear from his own lips, Mr
-Chuzzlewit,’ John pursued--looking attentively at him, and not at
-Martin--‘he made to me for the first [[Time|time]] yesterday, and repeated to me
-this morning, without the least variation of any essential particular. I
-have already told you that he informed me before he was removed from the
-Inn, that he had a secret to disclose to me which lay heavy on his mind.
-But, fluctuating between sickness and health and between his [[Desire|desire]] to
-relieve himself of it, and his dread of involving himself by revealing
-it, he has, until yesterday, avoided the disclosure. I never pressed
-him for it (having no idea of its weight or import, or of my right to do
-so), until within a few days past; when, understanding from him, on his
-own voluntary avowal, in a letter from the country, that it related to a
-person whose name was [[Jonas Chuzzlewit]]; and thinking that it might throw
-some light on that little mystery which made Tom anxious now and then; I
-urged the point upon him, and heard his statement, as you will now,
-from his own lips. It is due to him to say, that in the apprehension
-of [[Death|death]], he committed it to writing sometime since, and folded it in a
-sealed paper, addressed to me; which he could not resolve, however,
-to place of his own act in my hands. He has the paper in his breast, I
-believe, at this moment.’

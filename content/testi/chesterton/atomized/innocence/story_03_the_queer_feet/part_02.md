@@ -1,5 +1,5 @@
 ---
-title: "[[innocence]] — The Queer Feet (part 2)"
+title: "innocence — The Queer Feet (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -116,14 +116,3 @@ He tried the door into the office, and found it locked.
 Then he looked at the [[Window|window]], now a square pane full of purple
 cloud cleft by livid sunset, and for an instant he smelt evil
 as a dog smells rats.
-
-The rational part of him (whether the wiser or not) regained its supremacy.
-He remembered that the proprietor had told him that he should lock the door,
-and would come later to release him.  He told himself that twenty things
-he had not thought of might explain the eccentric sounds outside; he reminded
-himself that there was just enough light left to finish his own proper work.
-Bringing his paper to the [[Window|window]] so as to catch the last stormy evening light,
-he resolutely plunged once more into the almost completed record.
-He had written for about twenty minutes, bending closer and closer
-to his paper in the lessening light; then suddenly he sat upright.
-He had heard the strange feet once more.

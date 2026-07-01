@@ -1,5 +1,5 @@
 ---
-title: "[[CharlesDickens]] — Chapter 7 (part 4)"
+title: "CharlesDickens — Chapter 7 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/charlesdickens-(chesterton)"
@@ -13,6 +13,32 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/charlesdickens/chapter_10/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/charlesdickens/chapter_10/part_05">part 05 ›</a></div>
 </nav>
 
+
+There is a current prejudice against fogs, and Dickens, perhaps,
+is their only poet.  Considered hygienically, no [[Doubt|doubt]] this
+may be more or less excusable.  But, considered poetically,
+fog is not undeserving, it has a real significance.  We have in our
+great cities abolished the clean and sane darkness of the country.
+We have outlawed [[Night|night]] and sent her wandering in wild meadows;
+we have lit eternal watch-fires against her return.
+We have made a new cosmos, and as a consequence our own sun
+and [[Stars|stars]].  And as a consequence also, and most justly,
+we have made our own darkness.  Just as every lamp is a warm
+human [[Moon|moon]], so every fog is a rich human nightfall.
+If it were not for this mystic accident we should never see darkness,
+and he who has never seen darkness has never seen the sun.
+Fog for us is the chief form of that outward pressure
+which compresses mere luxury into real comfort.  It makes
+the world small, in the same spirit as in that common and happy
+cry that the world is small, meaning that it is full of friends.
+The first man that emerges out of the mist with a light,
+is for us [[Prometheus]], a saviour bringing [[Fire|fire]] to men.
+He is that greatest and best of all men, greater than the heroes,
+better than the saints, Man Friday.  Every rumble of a cart,
+every cry in the distance, marks the heart of humanity beating
+undaunted in the darkness.  It is wholly human; man toiling
+in his own cloud.  If real darkness is like the embrace of God,
+this is the dark embrace of man.
 
 In such a sacred cloud the tale called "The Christmas [[carol|Carol]]"
 begins, the first and most typical of all his Christmas tales.
@@ -89,53 +115,3 @@ The story sings from end to end like a happy man going [[Home|home]];
 and, like a happy and good man, when it cannot sing it yells.
 It is [[Lyric|lyric]] and exclamatory, from the first exclamatory words of it.
 It is strictly a Christmas [[carol]].
-
-Dickens, as has been said, went to [[Italy]] with this kindly
-cloud still about him, still meditating on Yule mysteries.
-Among the olives and the orange-trees he wrote his second
-great Christmas tale, "The Chimes," at Genoa in 1844,
-a Christmas tale only differing from "The Christmas [[carol|Carol]]"
-in being fuller of the grey rains of [[Winter|winter]] and the north.
-"The Chimes" is, like the "[[carol|Carol]]," an appeal for [[Charity|charity]] and mirth,
-but it is a stern and fighting appeal:  if the other is a
-Christmas [[carol]], this is a Christmas war-[[Song|song]]. In it Dickens hurled
-himself with even more than his usual militant joy and scorn
-into an attack upon a cant, which he said made his [[Blood|blood]] boil.
-This cant was nothing more nor less than the whole tone taken by
-three-quarters of the political and economic world towards the poor.
-It was a vague and vulgar Benthamism with a rollicking Tory
-touch in it.  It explained to the poor their duties with a
-cold and coarse philanthropy unendurable by any free man.
-It had also at its command a kind of brutal banter,
-a loud good [[Humour|humour]] which Dickens sketches savagely
-in [[Alderman Cute]].  He fell furiously on all their ideas:
-the cheap advice to live cheaply, the base advice to live basely,
-above all, the preposterous primary assumption that the rich
-are to advise the poor and not the poor the rich.
-There were and are hundreds of these benevolent bullies.
-Some say that the poor should give up having children, which means
-that they should give up their great virtue of sexual [[Sanity|sanity]].
-Some say that they should give up "treating" each other,
-which means that they should give up all that remains to them
-of the virtue of hospitality.  Against all of this Dickens
-thundered very thoroughly in "The Chimes."  It may be remarked
-in passing that this affords another instance of a confusion
-already referred to, the confusion whereby Dickens supposed himself
-to be exalting the present over the past, whereas he was really
-dealing deadly blows at things strictly peculiar to the present.
-Embedded in this very book is a somewhat useless interview
-between [[Trotty Veck]] and the church [[Bells|bells]], in which the latter
-lecture the former for having supposed (why, I don't know)
-that they were expressing regret for the disappearance of the
-Middle Ages.  There is no reason why [[Trotty Veck]] or anyone else
-should idealise the Middle Ages, but certainly he was the last
-man in the world to be asked to idealise the nineteenth century,
-seeing that the smug and stingy [[philosophy]], which poisons his life
-through the book, was an exclusive creation of that century.
-But, as I have said before, the fieriest mediævalist may
-forgive Dickens for disliking the good things the Middle Ages
-took away, considering how he loved whatever good things
-the Middle Ages left behind.  It matters very little that
-he hated old feudal castles when they were already old.
-It matters very much that he hated the New Poor Law while it
-was still new.

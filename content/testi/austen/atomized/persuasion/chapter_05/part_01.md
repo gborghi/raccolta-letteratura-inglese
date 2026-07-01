@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 5 (part 1)"
+title: "Persuasion — Chapter 5 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -219,9 +219,3 @@ she thought, have reason to reproach her for giving no warning.
 She spoke, and seemed only to offend. Elizabeth could not conceive how
 
 such an absurd suspicion should occur to her, and indignantly answered
-
-for each party’s perfectly knowing their situation.
-
-
-
-“Mrs Clay,” said she, warmly, “never forgets who she is; and as I am

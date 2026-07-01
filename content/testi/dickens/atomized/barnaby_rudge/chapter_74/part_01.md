@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 74 (part 1)"
+title: "Barnaby Rudge — Chapter 74 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/barnaby-rudge-(dickens)">Barnaby Rudge</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_73/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_74/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_73/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_74/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -132,15 +132,3 @@ noise, and a heavy chair. Stealing on tiptoe towards this latter
 piece of furniture, he retired with it into the remotest corner,
 and intrenching himself behind it, watched the enemy with the utmost
 vigilance and caution.
-
-The sleeping man was Hugh; and perhaps it was not unnatural for Dennis
-to feel in a state of very uncomfortable suspense, and to wish with
-his whole [[Soul|soul]] that he might never wake again. Tired of standing, he
-crouched down in his corner after some [[Time|time]], and rested on the cold
-pavement; but although Hugh’s breathing still proclaimed that he
-was sleeping soundly, he could not trust him out of his sight for an
-instant. He was so afraid of him, and of some sudden onslaught, that he
-was not content to see his closed eyes through the chair-back, but
-every now and then, [[Rose|rose]] stealthily to his feet, and peered at him with
-outstretched neck, to assure himself that he really was still asleep,
-and was not about to [[Spring|spring]] upon him when he was off his guard.

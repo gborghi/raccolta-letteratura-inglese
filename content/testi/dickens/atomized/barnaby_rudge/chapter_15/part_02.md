@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 15 (part 2)"
+title: "Barnaby Rudge — Chapter 15 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -122,6 +122,3 @@ are proceeding upon a mistake, Ned--altogether upon a mistake--I will
 conquer my repugnance to entering on such matters, and give you a
 perfectly plain and candid answer, if you will do me the favour to shut
 the door.’
-
-Edward having obeyed him, he took an elegant little knife from his
-pocket, and paring his nails, continued:

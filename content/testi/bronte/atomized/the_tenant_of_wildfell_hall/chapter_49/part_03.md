@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 49 (part 3)"
+title: "The Tenant of Wildfell Hall — Chapter 49 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,28 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_49/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_49/part_04">part 04 ›</a></div>
 </nav>
 
+
+bitterly for my levity and neglect. His friend espoused my cause.
+
+
+
+“Nay, nay, Huntingdon,” said he, “you’re too hard upon her; she must
+
+have food and [[Sleep|sleep]], and a mouthful of fresh air now and then, or she
+
+can’t stand it, I tell you. Look at her, man! she’s worn to a [[Shadow|shadow]]
+
+already.”
+
+
+
+“What are her sufferings to mine?” said the poor invalid. “You don’t
+
+grudge me these attentions, do you, [[Helen]]?”
+
+
+
+“No, [[Arthur]], if I could really serve you by them. I would give my life
 
 to save you, if I might.”
 
@@ -54,7 +76,7 @@ had heard you long ago—oh, God! how different it would have been!”
 
 
 
-“Hear me now, then, [[arthur|Arthur]],” said I, gently pressing his hand.
+“Hear me now, then, [[Arthur]],” said I, gently pressing his hand.
 
 
 
@@ -202,7 +224,7 @@ after!’
 
 
 
-“‘Don’t try to believe it, [[arthur|Arthur]]; there is joy and glory after, if you
+“‘Don’t try to believe it, [[Arthur]]; there is joy and glory after, if you
 
 will but try to reach it!’
 
@@ -213,45 +235,3 @@ will but try to reach it!’
 be judged according to the deeds done in the [[Body|body]]? Where’s the use of a
 
 probationary existence, if a man may spend it as he pleases, just
-
-contrary to God’s decrees, and then go to heaven with the best—if the
-
-vilest sinner may win the reward of the holiest saint, by merely
-
-saying, ‘I repent!’”
-
-
-
-“‘But if you _sincerely_ repent—’
-
-
-
-“‘I _can’t_ repent; I only [[Fear|fear]].’
-
-
-
-“‘You only regret the past for its consequences to yourself?’
-
-
-
-“‘Just so—except that I’m sorry to have wronged you, Nell, because
-
-you’re so good to me.’
-
-
-
-“‘Think of the goodness of God, and you cannot but be grieved to have
-
-offended Him.’
-
-
-
-“‘What _is_ God?—I cannot see Him or hear Him.—God is only an idea.’
-
-
-
-“‘God is Infinite Wisdom, and Power, and Goodness—and [[Love|LOVE]]; but if this
-
-idea is too vast for your human faculties—if your mind loses itself in
-
-its overwhelming infinitude, fix it on Him who condescended to take our

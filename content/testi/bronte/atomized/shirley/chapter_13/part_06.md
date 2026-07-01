@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 13 (part 6)"
+title: "Shirley — Chapter 13 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -12,6 +12,56 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_13/part_05">‹ part 05</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_13/part_07">part 07 ›</a></div>
 </nav>
+
+
+terrors, nor monsters."
+
+
+
+"Some of our kind, it is said, are all three. There are men who ascribe
+
+to 'woman,' in general, such attributes."
+
+
+
+"My dears," here interrupted Mrs. Pryor, "does it not strike you that
+
+your conversation for the last ten minutes has been rather fanciful?"
+
+
+
+"But there is no harm in our fancies; is there, ma'am?"
+
+
+
+"We are aware that mermaids do not exist; why speak of them as if they
+
+did? How can you find interest in speaking of a nonentity?"
+
+
+
+"I don't know," said [[Shirley]].
+
+
+
+"My dear, I think there is an arrival. I heard a step in the lane while
+
+you were talking; and is not that the [[Garden|garden]]-gate which creaks?"
+
+
+
+[[Shirley]] stepped to the [[Window|window]].
+
+
+
+"Yes, there is some one," said she, turning quietly away; and as she
+
+resumed her seat a sensitive flush animated her face, while a trembling
+
+ray at once kindled and softened her eye. She raised her hand to her
+
+chin, cast her gaze down, and seemed to think as she waited.
+
 
 
 The servant announced Mr. Moore, and [[Shirley]] turned round when Mr. Moore
@@ -187,37 +237,3 @@ attire simply fashioned, but almost splendid from the shifting
 brightness of its dye, warp and woof being of tints deep and changing as
 
 the hue on a pheasant's neck. A glancing bracelet on her arm produced
-
-the contrast of gold and ivory. There was something brilliant in the
-
-whole picture. It is to be supposed that Moore thought so, as his eye
-
-dwelt long on it, but he seldom permitted his feelings or his opinions
-
-to exhibit themselves in his face. His temperament boasted a certain
-
-amount of phlegm, and he preferred an undemonstrative, not ungentle, but
-
-serious aspect to any other.
-
-
-
-He could not, by looking straight before him, see Caroline, as she was
-
-close at his side. It was necessary, therefore, to manœuvre a little to
-
-get her [[Well|well]] within the range of his observation. He leaned back in his
-
-chair, and looked down on her. In Miss Helstone neither he nor any one
-
-else could discover brilliancy. Sitting in the shade, without [[Flowers|flowers]]
-
-or ornaments, her attire the modest muslin dress, colourless but for its
-
-narrow stripe of pale azure, her complexion unflushed, unexcited, the
-
-very brownness of her hair and eyes invisible by this faint light, she
-
-was, compared with the heiress, as a graceful pencil [[Sketch|sketch]] compared
-
-with a vivid painting. Since Robert had seen her last a great change had

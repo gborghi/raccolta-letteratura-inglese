@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 18: EIGHTEEN"
+title: "Martin Chuzzlewit — Chapter 18: EIGHTEEN"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -36,7 +36,7 @@ extent to which the natural laws of change asserted their supremacy
 in that limited sphere of action which Martin had deserted, shall be
 faithfully set down in these pages.
 
-‘What a cold [[Spring|spring]] it is!’ whimpered old Anthony, drawing near the
+‘What a cold [[spring]] it is!’ whimpered old Anthony, drawing near the
 evening [[Fire|fire]], ‘It was a warmer season, sure, when I was young!’
 
 ‘You needn’t go scorching your clothes into holes, whether it was or

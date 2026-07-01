@@ -1,5 +1,5 @@
 ---
-title: "[[The Literary Life of Thingum Bob, Esq]] (part 1)"
+title: "The Literary Life of Thingum Bob, Esq (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-literary-life-of-thingum-bob,-esq-(poe)"
@@ -52,7 +52,7 @@ By Himself
 
       in the present paper, (which I had some idea of calling
 
-      “Memoranda to serve for the Literary [[history|History]] of [[America]],”) to
+      “Memoranda to serve for the Literary [[history|History]] of [[america|America]],”) to
 
       give a detail of those important, yet feeble and tottering first
 
@@ -207,7 +207,3 @@ By Himself
       composition of some blind man or other, either a Greek or a
 
       Choctaw—I cannot be at the pains of remembering every trifle
-
-      exactly—I took about fifty verses beginning with “[[Achilles]]’
-
-      wrath,” and “grease,” and something else. From a fourth, which I

@@ -14,6 +14,14 @@ tags:
 </nav>
 
 
+when the first shout went up for Wilkes to the [[Time|time]] when the last
+
+Luddite fires were quenched in a cold rain of rationalism, the spirit of
+
+Cobbett, of rural republicanism, of English and patriotic [[Democracy|democracy]],
+
+burned like a beacon. The revolution failed because it was foiled by
+
 another revolution; an aristocratic revolution, a victory of the rich
 
 over the poor. It was about this [[Time|time]] that the common lands were finally
@@ -45,8 +53,6 @@ it was what people wrote. It is a quaint comment on the notion that the
 English are practical and the French merely visionary, that we were
 
 rebels in arts while they were rebels in arms.
-
-
 
 It has been [[Well|well]] and wittily said (as illustrating the mildness of
 
@@ -107,8 +113,6 @@ revolutionary than the real [[French Revolution]]: and if Carrier, in an
 exaggerative phrase, empurpled the Loire with carnage, Turner almost
 
 literally set the Thames on [[Fire|fire]].
-
-
 
 This trend of the English Romantics to carry out the revolutionary idea
 
@@ -177,15 +181,3 @@ in letters by the virile laughter and leisure of Wilson's _Noctes
 Ambrosianæ_. But he had nothing in common with that environment. It
 
 remained for some [[Time|time]] as a Tory tradition, which balanced the cold and
-
-brilliant aristocracy of the Whigs. It lived on the legend of Trafalgar;
-
-the sense that insularity was independence; the sense that anomalies are
-
-as jolly as family jokes; the general sense that old salts are the salt
-
-of the earth. It still lives in some old [[songs]] about Nelson or Waterloo,
-
-which are vastly more pompous and vastly more sincere than the cockney
-
-cocksureness of later Jingo lyrics. But it is hard to connect De Quincey

@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 21 (part 3)"
+title: "Villette — Chapter 21 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_21/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_21/part_04">part 04 ›</a></div>
 </nav>
 
+
+The insinuating softness was not more acceptable than the inquisitorial
+curiosity. I was silent. He came into the room, sat down on the bench
+about two yards from me, and persevered long, and, for him, patiently,
+in attempts to draw me into conversation—attempts necessarily
+unavailing, because I _could_ not talk. At last I entreated to be let
+[[Alone|alone]]. In uttering the request, my voice faltered, my head sank on my
+arms and the table. I wept bitterly, though quietly. He sat a while
+longer. I did not look up nor speak, till the closing door and his
+retreating step told me that he was gone. These [[Tears|tears]] proved a relief.
 
 I had [[Time|time]] to bathe my eyes before breakfast, and I suppose I appeared
 at that meal as serene as any other person: not, however, quite as
@@ -115,12 +125,3 @@ whirling me round in a compulsory waltz, and heartily enjoying the
 mental and physical discomfiture her proceeding induced. Ginevra
 Fanshawe it was who now broke in upon “my learned leisure.” She carried
 a huge music-book under her arm.
-
-“Go to your practising,” said I to her at once: “away with you to the
-little salon!”
-
-“Not till I have had a talk with you, chère amie. I know where you have
-been spending your vacation, and how you have commenced sacrificing to
-the graces, and enjoying life like any other belle. I saw you at the
-concert the other [[Night|night]], dressed, actually, like anybody else. Who is
-your tailleuse?”

@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 24 (part 2)"
+title: "Jane Eyre — Chapter 24 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,8 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_24/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_24/part_03">part 03 ›</a></div>
 </nav>
 
+
+“Shall I travel?—and with you, sir?”
 
 “You shall sojourn at [[Paris]], Rome, and Naples: at Florence, [[Venice]], and
 Vienna: all the ground I have wandered over shall be re-trodden by you:
@@ -142,12 +144,3 @@ had you to ask, thing,—out with it?”
 better than flattery. I had rather be a _thing_ than an angel. This is
 what I have to ask,—Why did you take such pains to make me believe you
 wished to marry Miss Ingram?”
-
-“Is that all? Thank God it is no worse!” And now he unknit his black
-brows; looked down, smiling at me, and stroked my hair, as if [[Well|well]]
-pleased at seeing a danger averted. “I think I may confess,” he
-continued, “even although I should make you a little indignant,
-Jane—and I have seen what a [[Fire|fire]]-spirit you can be when you are
-indignant. You glowed in the cool moonlight last [[Night|night]], when you
-mutinied against fate, and claimed your rank as my equal. Janet,
-by-the-bye, it was you who made me the offer.”

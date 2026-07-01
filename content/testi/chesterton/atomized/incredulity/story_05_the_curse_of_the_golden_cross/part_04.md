@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity]] — The Curse of the Golden [[Cross]] (part 4)"
+title: "Incredulity — The Curse of the Golden Cross (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-(chesterton)"

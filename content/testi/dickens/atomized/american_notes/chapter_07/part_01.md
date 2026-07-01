@@ -18,7 +18,7 @@ CHAPTER VI
 [[New York|NEW YORK]]
 
 
-THE beautiful metropolis of [[America]] is by no means so clean a [[City|city]] as
+THE beautiful metropolis of [[america|America]] is by no means so clean a [[City|city]] as
 Boston, but many of its streets have the same characteristics; except
 that the houses are not quite so fresh-coloured, the sign-boards are not
 quite so gaudy, the gilded letters not quite so golden, the bricks not

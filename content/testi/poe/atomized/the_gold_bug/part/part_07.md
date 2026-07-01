@@ -1,5 +1,5 @@
 ---
-title: "[[The Gold-Bug]] (part 7)"
+title: "The Gold-Bug (part 7)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-gold-bug-(poe)"
@@ -13,6 +13,26 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_gold_bug/part/part_06">‹ part 06</a><a class="ex-next" href="/testi/poe/atomized/the_gold_bug/part/part_08">part 08 ›</a></div>
 </nav>
 
+
+      disposition, to [[Hope|hope]] that he would assist me, under any
+
+      circumstances, in a personal contest with his master. I made no
+
+      [[Doubt|doubt]] that the latter had been infected with some of the
+
+      innumerable Southern superstitions about money buried, and that
+
+      his phantasy had received confirmation by the finding of the
+
+      _scarabæus_, or, perhaps, by Jupiter’s obstinacy in maintaining
+
+      it to be “a bug of real gold.” A mind disposed to lunacy would
+
+      readily be led away by such suggestions—especially if chiming in
+
+      with favorite preconceived ideas—and then I called to mind the
+
+      poor fellow’s speech about the beetle’s being “the index of his
 
       fortune.” Upon the whole, I was sadly vexed and puzzled, but, at
 
@@ -203,27 +223,3 @@ tags:
       what had occasioned the change in my thoughts, I felt no longer
 
       any great aversion from the labor imposed. I had become most
-
-      unaccountably interested—nay, even excited. Perhaps there was
-
-      something, amid all the extravagant demeanor of Legrand—some air
-
-      of forethought, or of deliberation, which impressed me. I dug
-
-      eagerly, and now and then caught myself actually looking, with
-
-      something that very much resembled expectation, for the fancied
-
-      treasure, the vision of which had demented my unfortunate
-
-      companion. At a period when such vagaries of thought most fully
-
-      possessed me, and when we had been at work perhaps an hour and a
-
-      half, we were again interrupted by the violent howlings of the
-
-      dog. His uneasiness, in the first instance, had been, evidently,
-
-      but the result of playfulness or caprice, but he now assumed a
-
-      bitter and serious tone. Upon Jupiter’s again attempting to

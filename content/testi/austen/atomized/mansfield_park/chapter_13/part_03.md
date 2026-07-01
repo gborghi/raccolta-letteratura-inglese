@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 13 (part 3)"
+title: "Mansfield Park — Chapter 13 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/mansfield_park/chapter_13/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/mansfield_park/chapter_14/part_01">part 01 ›</a></div>
 </nav>
 
+
+“It was a very different thing. You must see the difference yourself.
+My father wished us, as schoolboys, to speak [[Well|well]], but he would never
+wish his grown-up daughters to be acting plays. His sense of decorum is
+strict.”
+
+“I know all that,” said Tom, displeased. “I know my father as [[Well|well]] as
+you do; and I’ll take care that his daughters do nothing to distress
+him. Manage your own concerns, [[Edmund]], and I’ll take care of the rest
+of the family.”
 
 “If you are resolved on acting,” replied the persevering [[Edmund]], “I
 must [[Hope|hope]] it will be in a very small and quiet way; and I think a

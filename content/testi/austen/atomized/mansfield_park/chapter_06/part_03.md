@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 6 (part 3)"
+title: "Mansfield Park — Chapter 6 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/mansfield_park/chapter_06/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/mansfield_park/chapter_06/part_04">part 04 ›</a></div>
 </nav>
 
+
+“You would find it difficult, I dare say, just now, in the middle of a
+very late hay harvest, to hire a [[Horse|horse]] and cart?”
 
 “I was astonished to find what a piece of work was made of it! To want
 a [[Horse|horse]] and cart in the country seemed impossible, so I told my maid to
@@ -126,5 +129,3 @@ would not find it equal to your present ideas. In extent, it is a mere
 nothing; you would be surprised at its insignificance; and, as for
 improvement, there was very little for me to do—too little: I should
 like to have been busy much longer.”
-
-“You are fond of the sort of thing?” said [[Julia]].

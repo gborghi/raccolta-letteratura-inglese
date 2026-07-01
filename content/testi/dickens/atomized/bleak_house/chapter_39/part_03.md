@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 39 (part 3)"
+title: "Bleak House — Chapter 39 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_39/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_39/part_04">part 04 ›</a></div>
 </nav>
 
+
+“Mr. Carstone, you are represented by—”
+
+“You said just now—a rock.”
 
 “Yes, sir,” says Mr. Vholes, gently shaking his head and rapping the
 hollow desk, with a sound as if ashes were falling on ashes, and [[Dust|dust]]

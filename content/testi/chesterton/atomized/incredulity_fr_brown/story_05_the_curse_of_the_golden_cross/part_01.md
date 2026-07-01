@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The Curse of the Golden [[Cross]] (part 1)"
+title: "incredulity Fr Brown — The Curse of the Golden Cross (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -24,7 +24,7 @@ Laputa. For the little table was one of many little tables dotted about
 in the dining saloon of that monstrous [[Ship|ship]] the Moravia, speeding
 through the [[Night|night]] and the everlasting emptiness of the Atlantic. The
 little company had nothing in common except that all were travelling
-from [[america|America]] to England. Two of them at least might be called
+from [[America]] to England. Two of them at least might be called
 celebrities; others might be called obscure, and in one or two cases
 even dubious.
 
@@ -113,8 +113,3 @@ till he made that speech about [[Italy]].'
 '[[Well]], we're not going to [[Italy]] on this trip,' said Lady [[Diana]]
 persistently, 'and I believe you're going to that little place where
 they've found the tomb. In Sussex, isn't it?'
-
-'Sussex is pretty large, as these little English sections go,' replied
-[[The Professor|the Professor]]. 'One might wander about in it for a goodish [[Time|time]]; and
-it's a good place to wander in. It's wonderful how large those low hills
-seem when you're on them.'

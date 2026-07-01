@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 22 (part 1)"
+title: "Barnaby Rudge — Chapter 22 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -128,7 +128,3 @@ stable.
 ‘if you’ll look to Dolly yourself or let somebody else do it, perhaps it
 will be only kind and reasonable. She has been frightened, you know, and
 is not at all [[Well|well]] to-[[Night|night]].’
-
-In fact, Dolly had thrown herself upon the sofa, quite regardless of
-all the little finery of which she had been so proud in the morning, and
-with her face buried in her hands was crying very much.

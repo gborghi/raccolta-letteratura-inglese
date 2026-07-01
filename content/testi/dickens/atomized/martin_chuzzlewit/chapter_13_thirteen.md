@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 13: THIRTEEN"
+title: "Martin Chuzzlewit — Chapter 13: THIRTEEN"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -574,7 +574,7 @@ and when he strung his harp was old, and had never seen the righteous
 forsaken, or his seed begging their bread; go, Teachers of content and
 honest [[Pride|pride]], into the mine, the mill, the forge, the squalid depths of
 deepest ignorance, and uttermost abyss of man’s neglect, and say can any
-hopeful plant [[Spring|spring]] up in air so foul that it extinguishes the [[Soul|soul]]’s
+hopeful plant [[spring]] up in air so foul that it extinguishes the [[Soul|soul]]’s
 bright torch as fast as it is kindled! And, oh! ye Pharisees of the
 nineteen hundredth year of Christian Knowledge, who soundingly appeal
 to human [[Nature|nature]], see that it be human first. Take heed it has not been
@@ -592,7 +592,7 @@ unsuccessfully. He was years and years too old for a cabin-boy, and
 years upon years too inexperienced to be accepted as a common seaman.
 His dress and manner, too, militated fatally against any such proposal
 as the latter; and yet he was reduced to making it; for even if he could
-have contemplated the being set down in [[America]] totally without money,
+have contemplated the being set down in [[america|America]] totally without money,
 he had not enough left now for a steerage passage and the poorest
 provisions upon the voyage.
 
@@ -600,7 +600,7 @@ It is an illustration of a very common tendency in the mind of man, that
 all this [[Time|time]] he never once doubted, one may almost say the certainty
 of doing great things in the New World, if he could only get there.
 In proportion as he became more and more dejected by his present
-circumstances, and the means of gaining [[America]] receded from his grasp,
+circumstances, and the means of gaining [[america|America]] receded from his grasp,
 the more he fretted himself with the conviction that that was the only
 place in which he could [[Hope|hope]] to achieve any high end, and worried his
 brain with the thought that men going there in the meanwhile might
@@ -767,10 +767,10 @@ He said this so pointedly, that Martin stopped in his eating, and said:
 ‘Yes, I do, sir,’ interposed Mark.
 
 ‘Then you may judge from my style of living here, of my means of keeping
-a man-servant. Besides, I am going to [[America]] immediately.’
+a man-servant. Besides, I am going to [[america|America]] immediately.’
 
 ‘[[Well]], sir,’ returned Mark, quite unmoved by this intelligence ‘from all
-that ever I heard about it, I should say [[America]] is a very likely sort
+that ever I heard about it, I should say [[america|America]] is a very likely sort
 of place for me to be jolly in!’
 
 Again Martin looked at him angrily; and again his anger melted away in
@@ -792,7 +792,7 @@ down; and will you take me, or will you leave me?’
 
 ‘When I say take,’ rejoined Mark, ‘I mean will you let me go? and when I
 say will you let me go, I mean will you let me go along with you? for go
-I will, somehow or another. Now that you’ve said [[America]], I see clear at
+I will, somehow or another. Now that you’ve said [[america|America]], I see clear at
 once, that that’s the place for me to be jolly in. Therefore, if I don’t
 pay my own passage in the [[Ship|ship]] you go in, sir, I’ll pay my own passage
 in another. And mark my words, if I go [[Alone|alone]] it shall be, to carry out
@@ -806,7 +806,7 @@ way, sir, there’ll be a drowned man at your door--and always a-knocking
 ‘Very good, sir,’ returned Mark. ‘I’m glad to hear it, because if you
 don’t mean to let me go, you’ll be more comfortable, perhaps, on account
 of thinking so. Therefore I contradict no gentleman. But all I say is,
-that if I don’t emigrate to [[America]] in that case, in the beastliest old
+that if I don’t emigrate to [[america|America]] in that case, in the beastliest old
 cockle-shell as goes out of port, I’m--’
 
 ‘You don’t mean what you say, I’m sure,’ said Martin.

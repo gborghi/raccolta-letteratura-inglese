@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 30 (part 3)"
+title: "The Tenant of Wildfell Hall — Chapter 30 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,26 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_30/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_30/part_04">part 04 ›</a></div>
 </nav>
 
+
+“But she abuses _me;_ and no [[Doubt|doubt]] you helped her.”
+
+
+
+“No; I told her she over-rated my influence with you, that I would
+
+gladly draw you away from the temptations of the town if I could, but
+
+had little [[Hope|hope]] of [[success]], and that I thought she was wrong in
+
+supposing that you enticed Mr. Hattersley or any one else into error. I
+
+had myself held the _contrary_ opinion at one [[Time|time]], but I now believed
+
+that you mutually corrupted each other; and, perhaps, if she used a
+
+little gentle but serious remonstrance with her husband, it might be of
+
+some service; as, though he was more rough-hewn than mine, I believed
 
 he was of a less impenetrable material.”
 
@@ -82,7 +102,7 @@ spoiling one’s [[Beauty|beauty]] and tiring out one’s friends.”
 
 Thenceforth I restrained my [[Tears|tears]] and passions as much as I could. I
 
-spared him my exhortations and fruitless efforts at [[conversion]] too, for
+spared him my exhortations and fruitless efforts at [[Conversion|conversion]] too, for
 
 I saw it was all in vain: God might awaken that heart, supine and
 
@@ -114,7 +134,7 @@ and complaints of his unreasonably exacting father.
 
 
 
-But [[arthur|Arthur]] is not naturally a peevish or irritable man; so far from it,
+But [[Arthur]] is not naturally a peevish or irritable man; so far from it,
 
 that there was something almost ludicrous in the incongruity of this
 
@@ -166,7 +186,7 @@ And here I must not forget that I am not a little indebted to his
 
 friend Mr. Hargrave. About that [[Time|time]] he frequently called at Grassdale,
 
-and often dined with us, on which occasions I [[Fear|fear]] [[arthur|Arthur]] would
+and often dined with us, on which occasions I [[Fear|fear]] [[Arthur]] would
 
 willingly have cast prudence and decorum to the winds, and made “a
 
@@ -182,30 +202,4 @@ and toil to construct. I was so fearful of this at first, that I
 
 humbled myself to intimate to him, in private, my apprehensions of
 
-[[arthur|Arthur]]’s proneness to these excesses, and to express a [[Hope|hope]] that he
-
-would not encourage it. He was pleased with this mark of confidence,
-
-and certainly did not betray it. On that and every subsequent occasion
-
-his presence served rather as a check upon his host, than an incitement
-
-to further acts of intemperance; and he always succeeded in bringing
-
-him from the dining-room in good [[Time|time]], and in tolerably good condition;
-
-for if [[arthur|Arthur]] disregarded such intimations as “[[Well]], I must not detain
-
-you from your lady,” or “We must not forget that Mrs. Huntingdon is
-
-[[Alone|alone]],” he would insist upon leaving the table himself, to join me, and
-
-his host, however unwillingly, was obliged to follow.
-
-
-
-Hence I learned to welcome Mr. Hargrave as a real friend to the family,
-
-a harmless companion for [[arthur|Arthur]], to cheer his spirits and preserve him
-
-from the tedium of absolute idleness and a total isolation from all
+[[Arthur]]’s proneness to these excesses, and to express a [[Hope|hope]] that he

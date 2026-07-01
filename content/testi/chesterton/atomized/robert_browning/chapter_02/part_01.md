@@ -18,7 +18,6 @@ CHAPTER II
 
 EARLY WORKS
 
-
 In 1840 _Sordello_ was published. Its reception by the great majority
 of readers, including some of the ablest men of the [[Time|time]], was a
 reception of a kind probably unknown in the rest of literary [[history]],

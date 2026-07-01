@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 22 (part 6)"
+title: "Nicholas Nickleby — Chapter 22 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_22/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_23/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘What do you mean?’ asked Nicholas, alarmed by this prediction, and
+the confident tone in which it had been uttered. ‘Men are not born able
+seamen. They must be reared, I suppose?’
+
+Mr. [[Vincent Crummles]] nodded his head. ‘They must; but not at your age, or
+from young gentlemen like you.’
+
+There was a pause. The countenance of Nicholas fell, and he gazed
+ruefully at the [[Fire|fire]].
 
 ‘Does no other profession occur to you, which a young man of your figure
 and address could take up easily, and see the world to advantage in?’
@@ -73,7 +83,7 @@ of the theatres keep an author on purpose.’
 
 ‘Oh, yes,’ said the manager; ‘a common thing. It’ll look very [[Well|well]]
 in the bills in separate lines--Real pump!--Splendid tubs!--Great
-attraction! You don’t happen to be anything of an [[artist]], do you?’
+attraction! You don’t happen to be anything of an [[Artist|artist]], do you?’
 
 ‘That is not one of my accomplishments,’ rejoined Nicholas.
 

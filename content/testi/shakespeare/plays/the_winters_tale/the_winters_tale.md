@@ -1,5 +1,5 @@
 ---
-title: "THE [[Winter|WINTER]]’S TALE"
+title: "THE WINTER’S TALE"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-winter’s-tale-(shakespeare)"

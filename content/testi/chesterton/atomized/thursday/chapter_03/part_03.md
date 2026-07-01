@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 3 (part 3)"
+title: "thursday — Chapter 3 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -146,6 +146,3 @@ For the first [[Time|time]] in the proceedings there was for a few
 seconds a real [[Silence|silence]].  Then Gregory fell back in his seat,
 a pale wreck of a man, and the chairman repeated, like a piece
 of [[Clock|clock]]-work suddenly started again--
-
-"The question is that Comrade Syme be elected to the post of [[thursday|Thursday]]
-on the General Council."

@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 8 (part 3)"
+title: "Persuasion — Chapter 8 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_08/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_09/part_01">part 01 ›</a></div>
 </nav>
 
+
+_high_, and this is what I do. I hate to hear of women on board, or to
+
+see them on board; and no [[Ship|ship]] under my command shall ever convey a
+
+family of ladies anywhere, if I can help it.”
+
+
+
+This brought his sister upon him.
+
+
+
+“Oh! Frederick! But I cannot believe it of you.—All idle
 
 refinement!—Women may be as comfortable on board, as in the best [[house]]
 

@@ -1,5 +1,5 @@
 ---
-title: "[[Pride and Prejudice]] — Chapter 26 (part 1)"
+title: "Pride and Prejudice — Chapter 26 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/pride-and-prejudice-(austen)"
@@ -129,9 +129,3 @@ for her own visit there, to know the rest.
 Jane had already written a few lines to her sister, to announce their
 safe arrival in [[London]]; and when she wrote again, Elizabeth hoped it
 would be in her power to say something of the Bingleys.
-
-Her impatience for this second letter was as [[Well|well]] rewarded as impatience
-generally is. Jane had been a week in town, without either seeing or
-hearing from Caroline. She accounted for it, however, by supposing that
-her last letter to her friend from Longbourn had by some accident been
-lost.

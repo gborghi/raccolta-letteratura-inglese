@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 17 (part 2)"
+title: "The Tenant of Wildfell Hall — Chapter 17 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,8 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_17/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_17/part_03">part 03 ›</a></div>
 </nav>
 
+
+been enjoying his hospitality; and I was no hand at a polite but
 
 determined rejection, nor would it have greatly availed me if I had,
 
@@ -279,23 +281,3 @@ you could not [[Love|love]]?”
 
 
 “How so, my dear? Is Mr. Huntingdon a good man?”
-
-
-
-“He is a much better man than you think him.”
-
-
-
-“That is nothing to the purpose. Is he a _good_ man?”
-
-
-
-“Yes—in some respects. He has a good disposition.”
-
-
-
-“Is he a man of _principle?_”
-
-
-
-“Perhaps not, exactly; but it is only for want of thought. If he had

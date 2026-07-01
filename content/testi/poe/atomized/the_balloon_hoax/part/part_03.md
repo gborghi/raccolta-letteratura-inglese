@@ -1,5 +1,5 @@
 ---
-title: "[[The Balloon-Hoax]] (part 3)"
+title: "The Balloon-Hoax (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-balloon-hoax-(poe)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_balloon_hoax/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/the_balloon_hoax/part/part_04">part 04 ›</a></div>
 </nav>
 
+
+      respective weights marked upon them—by cordage, barometers,
+
+      telescopes, barrels containing provision for a fortnight,
+
+      [[Water|water]]-casks, cloaks, carpet-bags, and various other indispensable
+
+      matters, including a coffee-warmer, contrived for warming coffee
 
       by means of slack-lime, so as to dispense altogether with [[Fire|fire]],
 
@@ -187,17 +195,3 @@ tags:
 
 
       “_Saturday, April the 6th_.—Every preparation likely to embarrass
-
-      us, having been made over [[Night|night]], we commenced the inflation this
-
-      morning at daybreak; but owing to a thick fog, which encumbered
-
-      the folds of the silk and rendered it unmanageable, we did not
-
-      get through before nearly eleven o’[[Clock|clock]]. Cut loose, then, in
-
-      high spirits, and [[Rose|rose]] gently but steadily, with a light breeze
-
-      at North, which bore us in the direction of the British Channel.
-
-      Found the ascending force greater than we had expected; and as we

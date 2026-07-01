@@ -879,5 +879,4 @@ and thought it had indeed turned upside down many times in that
 single [[Night|night]].  And she could not analyse the sensation that,
 in spite of everything, it had come the right side up.
 
-
 II

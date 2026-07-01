@@ -1,5 +1,5 @@
 ---
-title: "[[AllThingsConsidered-8]] — THOUGHTS AROUND KOEPENICK"
+title: "AllThingsConsidered-8 — THOUGHTS AROUND KOEPENICK"
 author: "Chesterton"
 unitType: story
 parentWork: "works/allthingsconsidered-8-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 THOUGHTS AROUND KOEPENICK
-
 
 A famous and epigrammatic author said that life copied literature;
 it seems clear that life really caricatures it.  I suggested recently

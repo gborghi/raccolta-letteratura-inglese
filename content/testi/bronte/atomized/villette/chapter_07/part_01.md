@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 7 (part 1)"
+title: "Villette — Chapter 7 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -94,7 +94,7 @@ point whence I started; consider the [[Desert|desert]] I had left, note how litt
 I perilled: mine was the game where the player cannot lose and may win.
 
 Of an artistic temperament, I deny that I am; yet I must possess
-something of the [[Artist|artist]]’s faculty of making the most of present
+something of the [[artist]]’s faculty of making the most of present
 pleasure: that is to say, when it is of the kind to my taste. I enjoyed
 that day, though we travelled slowly, though it was cold, though it
 rained. Somewhat bare, flat, and treeless was the route along which our

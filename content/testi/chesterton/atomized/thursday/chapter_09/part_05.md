@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 9 (part 5)"
+title: "thursday — Chapter 9 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -13,6 +13,52 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_09/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_10/part_01">part 01 ›</a></div>
 </nav>
 
+
+"I had already arranged," he explained, "to go to France for
+my lunch; but I am delighted to have someone to lunch with me.
+You see, I had to send that beast, the Marquis, over with his bomb,
+because the President had his eye on me, though God knows how.
+I'll tell you the story some day.  It was perfectly choking.
+Whenever I tried to slip out of it I saw the President somewhere,
+smiling out of the bow-[[Window|window]] of a club, or taking off his
+hat to me from the top of an omnibus.  I tell you, you can
+say what you like, that fellow sold himself to the devil;
+he can be in six places at once."
+
+"So you sent the Marquis off, I understand," asked [[The Professor|the Professor]].  "Was it
+long ago?  Shall we be in [[Time|time]] to catch him?"
+
+"Yes," answered the new guide, "I've timed it all.
+He'll still be at Calais when we arrive."
+
+"But when we do catch him at Calais," said [[The Professor|the Professor]],
+"what are we going to do?"
+
+At this question the countenance of Dr. Bull fell for the first [[Time|time]].
+He reflected a little, and then said--
+
+"Theoretically, I suppose, we ought to call the police."
+
+"Not I," said Syme.  "Theoretically I ought to drown myself first.
+I promised a poor fellow, who was a real modern pessimist,
+on my word of [[Honour|honour]] not to tell the police.  I'm no hand
+at casuistry, but I can't break my word to a modern pessimist.
+It's like breaking one's word to a [[Child|child]]."
+
+"I'm in the same boat," said [[The Professor|the Professor]].  "I tried to tell
+the police and I couldn't, because of some silly oath I took.
+You see, when I was an actor I was a sort of all-round beast.
+Perjury or treason is the only crime I haven't committed.
+If I did that I shouldn't know the difference between
+right and wrong."
+
+"I've been through all that," said Dr. Bull, "and I've made up my mind.
+I gave my promise to the Secretary--you know him, man who smiles upside down.
+My friends, that man is the most utterly unhappy man that was ever human.
+It may be his digestion, or his [[Conscience|conscience]], or his nerves, or his [[philosophy]]
+of the universe, but he's damned, he's in hell!  [[Well]], I can't turn
+on a man like that, and hunt him down.  It's like whipping a leper.
+I may be mad, but that's how I feel; and there's jolly [[Well|well]] the end of it."
 
 "I don't think you're mad," said Syme.  "I knew you would decide
 like that when first you--"

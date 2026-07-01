@@ -14,6 +14,10 @@ tags:
 </nav>
 
 
+‘Come, you drop that stick or it’ll be worse for you,’ said his boy,
+dodging round him and watching an opportunity to rush in; ‘you drop
+that stick.’
+
 ‘Come a little nearer, and I’ll drop it on your skull, you dog,’ said
 Quilp, with gleaming eyes; ‘a little nearer--nearer yet.’
 
@@ -142,12 +146,3 @@ streaming eyes; ‘but it is a long [[Time|time]] now, since he first began to--
 thought I saw that door moving!’
 
 ‘It’s the [[Wind|wind]],’ said Mrs Quilp, faintly. ‘Began to--’
-
-‘To be so thoughtful and dejected, and to forget our old way of
-spending the [[Time|time]] in the long evenings,’ said the [[Child|child]]. ‘I used to
-read to him by the fireside, and he sat listening, and when I stopped
-and we began to talk, he told me about my mother, and how she once
-looked and spoke just like me when she was a little [[Child|child]]. Then he used
-to take me on his knee, and try to make me understand that she was not
-lying in her [[Grave|grave]], but had flown to a beautiful country beyond the sky
-where nothing died or ever grew old--we were very happy once!’

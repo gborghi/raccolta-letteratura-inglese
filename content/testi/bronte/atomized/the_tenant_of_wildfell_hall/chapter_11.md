@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 11"
+title: "The Tenant of Wildfell Hall — Chapter 11"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -120,7 +120,7 @@ then, how suddenly she started up and left the room when that person
 
 came—whom she took good care not to let us catch a glimpse of, and who
 
-[[arthur|Arthur]], with such an air of mystery, told us was his mamma’s friend?”
+[[Arthur]], with such an air of mystery, told us was his mamma’s friend?”
 
 
 

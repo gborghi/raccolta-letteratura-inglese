@@ -1,5 +1,5 @@
 ---
-title: "[[Pride and Prejudice]] — Chapter 50 (part 1)"
+title: "Pride and Prejudice — Chapter 50 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/pride-and-prejudice-(austen)"
@@ -118,10 +118,3 @@ possible. She was more alive to the disgrace, which her want of new
 clothes must reflect on her daughter’s nuptials, than to any sense of
 shame at her eloping and living with Wickham a fortnight before they
 took place.
-
-Elizabeth was now most heartily sorry that she had, from the distress of
-the moment, been led to make Mr. Darcy acquainted with their fears for
-her sister; for since her [[Marriage|marriage]] would so shortly give the proper
-termination to the elopement, they might [[Hope|hope]] to conceal its
-unfavourable beginning from all those who were not immediately on the
-spot.

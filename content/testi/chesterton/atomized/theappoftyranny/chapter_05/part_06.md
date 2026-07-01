@@ -1,5 +1,5 @@
 ---
-title: "[[TheAppOfTyranny]] — Chapter 4 (part 6)"
+title: "TheAppOfTyranny — Chapter 4 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/theappoftyranny-(chesterton)"
@@ -13,6 +13,30 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/theappoftyranny/chapter_05/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/theappoftyranny/chapter_05/part_07">part 07 ›</a></div>
 </nav>
 
+
+sympathised with the feeling of a Switzer for Switzerland; the feeling of a
+
+Norwegian for Norway; the feeling of a Tuscan for Tuscany. Even when
+
+nations are neutral, Prussia can hardly bear them to be patriotic. Even
+
+when they are courting every one else they can praise no one but
+
+themselves. They fail in diplomacy, they fail in [[debate]], they fail even in
+
+demagogy. They have stupid plots, stupid explanations, and even stupid
+
+apologies. But there is one thing they really do not fail in. They do not
+
+fail in finding people stupid enough to carry them out.
+
+Now, it is this question I would ask you to consider; you, as a good middle
+
+type of the Latins, a Liberal but a Catholic, an [[artist]] but a soldier. The
+
+danger to the whole civilisation of which Rome was the fountain lies in
+
+this. That the more this strange Pruss people fail in all the other things,
 
 the more they will fall back on this mere fact of a brutal obedience. They
 
@@ -126,8 +150,6 @@ ill adapted to popular propaganda; and I cannot but say that on this third
 
 point of [[Persuasion|persuasion]], the German attempt is not striking.
 
-
-
 Now all this is important for this reason. If you consider it carefully
 
 you will see why Europe must, at whatever cost, break [[Germany]] in battle:
@@ -151,29 +173,3 @@ more ridiculous, if that is all, than the moral position of the Prussian in
 Poland; where a magnificent officer, making a vast parade of "ruling,"
 
 tries to cheat poor peasants out of their fields (and gets cheated) and
-
-then takes refuge in beating little boys for saying their prayers in their
-
-native tongue. All who remember anything of dignity, of irony, in short of
-
-Rome and reason, can see why an officer need not, should not, had better
-
-not, and generally does not, beat little boys. But an officer _can_ beat
-
-little boys: and a Prussian officer will go on doing it until you take away
-
-the stick. Nothing could be more comic, if that is all, than the position
-
-of Prussians in Alsace: which they declare to be purely German and admit to
-
-be furiously French; so that they have to terrorise it by sabring anybody,
-
-including cripples. Again, any of us can see why an officer need not,
-
-should not, had better not, and generally does not, sabre a cripple. But an
-
-officer _can_ sabre a cripple; and a Prussian officer will go on doing it
-
-until you take away the sabre. It is this insane and rigid realism that
-
-makes their case peculiar: like that of a Chinaman copying something, or a

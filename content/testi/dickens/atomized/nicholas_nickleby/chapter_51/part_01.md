@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 51 (part 1)"
+title: "Nicholas Nickleby — Chapter 51 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -145,8 +145,3 @@ he roared in her ear:
 look much at you, master, take your oath of that; and as to how you look
 yourself--pepper-and-salt, bottle-green, sky-blue, or tartan-plaid will
 make no difference in you.’
-
-With which consolatory assurance, Peg Sliderskew gathered up the chosen
-suit, and folding her skinny arms upon the bundle, stood, mouthing, and
-grinning, and blinking her watery eyes, like an uncouth figure in some
-monstrous piece of carving.

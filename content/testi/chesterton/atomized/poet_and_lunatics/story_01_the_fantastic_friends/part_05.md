@@ -14,6 +14,15 @@ tags:
 </nav>
 
 
+Unfortunately, a [[Shadow|shadow]] came between her and the sun in a shape
+that did not remind her of the medieval world.  Mr. James Hurrel,
+the agent, his stiff hat a little on one side, jumped on to the same
+table on which the [[artist]] stood, and sat within two yards of him,
+with dangling legs, and somewhat aggressive cigar.  "Always have
+to keep an eye on him, your ladyship, or he'd be giving 'em away,"
+he called out, and somehow his voice and figure failed to fit
+in with the picture of pious and primitive craftsmanship.
+
 [[Diana]] Westermaine explained to herself lucidly that she had no
 sort of reason to be angry; but she was exceedingly angry.
 The conversation of the two had been of no particular intimacy;
@@ -121,24 +130,3 @@ into the stable, congratulating himself on having saved the valuable
 quadruped from the worst inconveniences of what threatened to be a flood.
 Then he betook himself to his own occupations, leaving a trail
 of destiny behind him.
-
-Meanwhile [[Diana]] Westermaine had left the stable and made her way
-across the grounds to rejoin the guest who had gone in front of her.
-As she went up through a lane of hollyhocks and tall plants,
-she saw the vast flying island or continent of rain cloud,
-with its volcanic hues and outline, come sailing slowly
-over the dark, wooded ridge that was the wall of the valley.
-There was already something faintly lurid about the twilight
-with which it covered the rich colours of the [[Garden|garden]]; but higher
-up the climbing path a strip of lawn was golden in a chance gleam
-of sunlight, and against it she saw the figure she had come to seek.
-She recognized it by the light-brown clothes that had looked
-like gold in the evening light, but there was something very
-extraordinary about the shape as distinct from the colour.
-He seemed to be waving his arms slowly like branches in
-a breeze, and she fancied the arms were unnaturally long.
-For an instant she had the ugly fancy that the figure was deformed;
-and yet the more unearthly fancy that it had no head.
-Then the [[nightmare]] turned into ordinary nonsense, for the man
-threw a sort of cartwheel and alighted on his feet laughing.
-He had actually been standing on his head, or rather on his hands.

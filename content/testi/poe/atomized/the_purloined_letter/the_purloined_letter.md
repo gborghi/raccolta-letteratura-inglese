@@ -1,5 +1,5 @@
 ---
-title: "[[The Purloined Letter]]"
+title: "The Purloined Letter"
 author: "Poe"
 unitType: work
 parentWork: "works/the-purloined-letter-(poe)"

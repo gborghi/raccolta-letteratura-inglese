@@ -119,8 +119,3 @@ it should have been his whole object to keep our thoughts away from it.
 If it was an after - thought, it was the after - thought of a very
 thoughtless person. And I have a notion that this assassin is a very
 thoughtful person. Can you make anything of it?'
-
-'No; but I see what you mean,' said Stanes, 'by saying that I didn't
-even see the problem. It isn't merely who killed Sand; it's why anybody
-should accuse somebody else of killing Sand and then accuse Sand of
-killing himself.'

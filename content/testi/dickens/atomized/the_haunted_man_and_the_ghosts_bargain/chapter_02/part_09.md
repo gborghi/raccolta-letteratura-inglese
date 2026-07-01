@@ -1,5 +1,5 @@
 ---
-title: "The Haunted Man and the [[Ghost]]'s Bargain — Chapter 2 (part 9)"
+title: "The Haunted Man and the Ghost's Bargain — Chapter 2 (part 9)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-haunted-man-and-the-ghost's-bargain-(dickens)"
@@ -14,6 +14,40 @@ tags:
 </nav>
 
 
+He coldly took a book, and sat down at the table.
+
+She watched him for a little while, until her smile was quite gone, and
+then, returning to where her basket was, said gently:
+
+“Mr. [[Edmund]], would you rather be [[Alone|alone]]?”
+
+“There is no reason why I should detain you here,” he replied.
+
+“Except—” said Milly, hesitating, and showing her work.
+
+“Oh! the curtain,” he answered, with a supercilious laugh. “That’s not
+worth staying for.”
+
+She made up the little packet again, and put it in her basket. Then,
+standing before him with such an air of patient entreaty that he could
+not choose but look at her, she said:
+
+“If you should want me, I will come back willingly. When you did want
+me, I was quite happy to come; there was no merit in it. I think you
+must be afraid, that, now you are getting [[Well|well]], I may be troublesome to
+you; but I should not have been, indeed. I should have come no longer
+than your weakness and confinement lasted. You owe me nothing; but it is
+right that you should deal as justly by me as if I was a lady—even the
+very lady that you [[Love|love]]; and if you suspect me of meanly making much of
+the little I have tried to do to comfort your sick room, you do yourself
+more wrong than ever you can do me. That is why I am sorry. That is why
+I am very sorry.”
+
+If she had been as passionate as she was quiet, as indignant as she was
+calm, as angry in her look as she was gentle, as loud of tone as she was
+low and clear, she might have left no sense of her departure in the room,
+compared with that which fell upon the lonely student when she went away.
+
 He was gazing drearily upon the place where she had been, when Redlaw
 came out of his concealment, and came to the door.
 
@@ -27,7 +61,7 @@ Give me back _my_self!”
 “Give me back myself!” exclaimed Redlaw like a madman. “I am infected!
 I am infectious! I am charged with [[Poison|poison]] for my own mind, and the minds
 of all mankind. Where I felt interest, compassion, sympathy, I am
-turning into stone. Selfishness and ingratitude [[Spring|spring]] up in my
+turning into stone. Selfishness and ingratitude [[spring]] up in my
 blighting footsteps. I am only so much less base than the wretches whom
 I make so, that in the moment of their transformation I can hate them.”
 
@@ -92,58 +126,3 @@ yours.”
 
 The Chemist’s steady eye controlled him somewhat, or inspired him with
 enough submission to be raised upon his feet, and looked at.
-
-“Who washed them, and put those bandages where they were bruised and
-cracked?” asked the Chemist, pointing to their altered state.
-
-“The woman did.”
-
-“And is it she who has made you cleaner in the face, too?”
-
-“Yes, the woman.”
-
-Redlaw asked these questions to attract his eyes towards himself, and
-with the same intent now held him by the chin, and threw his wild hair
-back, though he loathed to touch him. The boy watched his eyes keenly,
-as if he thought it needful to his own defence, not knowing what he might
-do next; and Redlaw could see [[Well|well]] that no change came over him.
-
-“Where are they?” he inquired.
-
-“The woman’s out.”
-
-“I know she is. Where is the old man with the white hair, and his son?”
-
-“The woman’s husband, d’ye mean?” inquired the boy.
-
-“Ay. Where are those two?”
-
-“Out. Something’s the matter, somewhere. They were fetched out in a
-hurry, and told me to stop here.”
-
-“Come with me,” said the Chemist, “and I’ll give you money.”
-
-“Come where? and how much will you give?”
-
-“I’ll give you more shillings than you ever saw, and bring you back soon.
-Do you know your way to where you came from?”
-
-“You let me go,” returned the boy, suddenly twisting out of his grasp.
-“I’m not a going to take you there. Let me be, or I’ll heave some [[Fire|fire]]
-at you!”
-
-He was down before it, and ready, with his savage little hand, to pluck
-the burning coals out.
-
-What the Chemist had felt, in observing the effect of his charmed
-influence stealing over those with whom he came in contact, was not
-nearly equal to the cold vague terror with which he saw this baby-[[Monster|monster]]
-put it at defiance. It chilled his [[Blood|blood]] to look on the immovable
-impenetrable thing, in the likeness of a [[Child|child]], with its sharp malignant
-face turned up to his, and its almost infant hand, ready at the bars.
-
-“Listen, boy!” he said. “You shall take me where you please, so that you
-take me where the people are very miserable or very wicked. I want to do
-them good, and not to harm them. You shall have money, as I have told
-you, and I will bring you back. Get up! Come quickly!” He made a hasty
-step towards the door, afraid of her returning.

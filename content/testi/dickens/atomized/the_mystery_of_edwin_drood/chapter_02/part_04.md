@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 2 (part 4)"
+title: "The Mystery of Edwin Drood — Chapter 2 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_02/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_03/part_01">part 01 ›</a></div>
 </nav>
 
+
+“I thought you had so exactly found your niche in life, Jack,” Edwin
+Drood returns, astonished, bending forward in his chair to lay a
+sympathetic hand on Jasper’s knee, and looking at him with an anxious
+face.
+
+“I know you thought so. They all think so.”
 
 “[[Well]], I suppose they do,” says Edwin, meditating aloud. “Pussy thinks
 so.”

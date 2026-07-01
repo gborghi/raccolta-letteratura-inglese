@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 7 (part 2)"
+title: "Shirley — Chapter 7 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_07/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_07/part_03">part 03 ›</a></div>
 </nav>
 
+
+[[Hope|hope]] he will be so some day) is not like what we read of in books,--it
+
+is far better--original, quiet, manly, sincere. I _do_ like him; I would
+
+be an excellent wife to him if he did marry me; I would tell him of his
+
+faults (for he has a few faults), but I would study his comfort, and
+
+cherish him, and do my best to make him happy. Now, I am sure he will
 
 not be cold to-morrow. I feel almost certain that to-morrow evening he
 
@@ -237,19 +247,3 @@ figure standing beside her uncle's--a strange shape, dim, sinister,
 scarcely earthly--the half-remembered image of her own father, James
 
 Helstone, Matthewson Helstone's brother.
-
-
-
-Rumours had reached her ear of what that father's character was; old
-
-servants had dropped hints; she knew, too, that he was not a good man,
-
-and that he was never kind to her. She recollected--a dark recollection
-
-it was--some weeks that she had spent with him in a great town
-
-somewhere, when she had had no maid to dress her or take care of her;
-
-when she had been shut up, day and [[Night|night]], in a high garret-room, without
-
-a carpet, with a bare uncurtained bed, and scarcely any other furniture;

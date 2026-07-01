@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 54 (part 3)"
+title: "Great Expectations — Chapter 54 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_54/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_54/part_04">part 04 ›</a></div>
 </nav>
 
+
+As the [[Night|night]] was fast falling, and as the [[Moon|moon]], being past the full,
+would not rise early, we held a little council; a short one, for
+clearly our course was to lie by at the first lonely tavern we could
+find. So, they plied their oars once more, and I looked out for
+anything like a [[house]]. Thus we held on, speaking little, for four or
+five dull miles. It was very cold, and, a collier coming by us, with
+her galley-[[Fire|fire]] smoking and flaring, looked like a comfortable [[Home|home]].
+The [[Night|night]] was as dark by this [[Time|time]] as it would be until morning; and
+what light we had, seemed to come more from the [[River|river]] than the sky, as
+the oars in their dipping struck at a few reflected [[Stars|stars]].
 
 At this dismal [[Time|time]] we were evidently all possessed by the idea that we
 were followed. As the tide made, it flapped heavily at irregular
@@ -126,14 +137,3 @@ deemed it the better course to lie where we were, until within an hour
 or so of the steamer’s [[Time|time]], and then to get out in her track, and
 drift easily with the tide. Having settled to do this, we returned into
 the [[house]] and went to bed.
-
-I lay down with the greater part of my clothes on, and slept [[Well|well]] for a
-few hours. When I awoke, the [[Wind|wind]] had risen, and the sign of the [[house]]
-(the [[Ship]]) was creaking and banging about, with noises that startled
-me. Rising softly, for my charge lay fast asleep, I looked out of the
-[[Window|window]]. It commanded the causeway where we had hauled up our boat, and,
-as my eyes adapted themselves to the light of the clouded [[Moon|moon]], I saw
-two men looking into her. They passed by under the [[Window|window]], looking at
-nothing else, and they did not go down to the landing-place which I
-could discern to be empty, but struck across the marsh in the direction
-of the Nore.

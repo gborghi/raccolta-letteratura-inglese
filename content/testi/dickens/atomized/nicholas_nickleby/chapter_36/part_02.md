@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 36 (part 2)"
+title: "Nicholas Nickleby — Chapter 36 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -147,7 +147,3 @@ you.’
 
 ‘And I have been,’ added Nicholas, ‘already in town for some days,
 without having had an opportunity of doing so.’
-
-‘It’s no matter, sir,’ said Mr. Kenwigs. ‘I dare say it’s none the
-worse for keeping cold. Message from the country!’ said Mr. Kenwigs,
-ruminating; ‘that’s curious. I don’t know anybody in the country.’

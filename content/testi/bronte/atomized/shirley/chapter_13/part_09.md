@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 13 (part 9)"
+title: "Shirley — Chapter 13 (part 9)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -10,9 +10,71 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_13/part_08">‹ part 08</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_14/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_13/part_08">‹ part 08</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_13/part_10">part 10 ›</a></div>
 </nav>
 
+
+dozen of them, moving to and fro, I seemed to see a figure resembling
+
+yours. It was some effect of doubtful light or shade, or of dazzling
+
+sunbeam. I walked up to this group. What I sought had glided away; I
+
+found myself between two buxom lasses in pinafores."
+
+
+
+"I shall not follow you into your mill, Robert, unless you call me
+
+there."
+
+
+
+"Nor is that the only occasion on which [[Imagination|imagination]] has played me a
+
+trick. One [[Night|night]], when I came [[Home|home]] late from market, I walked into the
+
+cottage parlour thinking to find Hortense; but instead of her I thought
+
+I found you. There was no candle in the room; my sister had taken the
+
+light upstairs with her. The [[Window|window]]-blind was not drawn, and broad
+
+moonbeams poured through the panes. There you were, Lina, at the
+
+casement, shrinking a little to one side in an attitude not unusual with
+
+you. You were dressed in white, as I have seen you dressed at an evening
+
+party. For half a second your fresh, living face seemed turned towards
+
+me, looking at me; for half a second my idea was to go and take your
+
+hand, to chide you for your long absence, and welcome your present
+
+visit. Two steps forward broke the spell. The drapery of the dress
+
+changed outline; the tints of the complexion dissolved, and were
+
+formless. Positively, as I reached the spot, there was nothing left but
+
+the sweep of a white muslin curtain, and a balsam plant in a flower-pot,
+
+covered with a flush of bloom. 'Sic transit,' et cetera."
+
+
+
+"It was not my wraith, then? I almost thought it was."
+
+
+
+"No; only gauze, crockery, and pink blossom--a sample of earthly
+
+illusions."
+
+
+
+"I [[Wonder|wonder]] you have [[Time|time]] for such illusions, occupied as your mind must
 
 be."
 
@@ -197,103 +259,3 @@ The beseeching words were aided by a beseeching gesture and a more
 beseeching look. Moore covered her clasped hands an instant with his,
 
 answered her upward by a downward gaze, said "Good-[[Night|night]]!" and went.
-
-
-
-Caroline was in a moment at the kitchen door behind Fanny. The [[Shadow|shadow]] of
-
-the shovel-hat at that very instant fell on a moonlit tomb. The rector
-
-emerged, erect as a cane, from his [[Garden|garden]], and proceeded in slow march,
-
-his hands behind him, down the cemetery. Moore was almost caught. He had
-
-to "dodge" after all, to coast round the church, and finally to bend his
-
-tall form behind the Wynnes' ambitious monument. There he was forced to
-
-hide full ten minutes, kneeling with one knee on the turf, his hat off,
-
-his curls bare to the dew, his dark eye shining, and his lips parted
-
-with inward laughter at his position; for the rector meantime stood
-
-coolly star-gazing, and taking snuff within three feet of him.
-
-
-
-It happened, however, that Mr. Helstone had no suspicion whatever on his
-
-mind; for being usually but vaguely informed of his niece's movements,
-
-not thinking it worth while to follow them closely, he was not aware
-
-that she had been out at all that day, and imagined her then occupied
-
-with book or work in her chamber--where, indeed, she was by this [[Time|time]],
-
-though not absorbed in the tranquil employment he ascribed to her, but
-
-standing at her [[Window|window]] with fast-throbbing heart, peeping anxiously from
-
-behind the blind, watching for her uncle to re-enter and her cousin to
-
-escape. And at last she was gratified. She heard Mr. Helstone come in;
-
-she saw Robert stride the tombs and vault the wall; she then went down
-
-to prayers. When she returned to her chamber, it was to meet the [[Memory|memory]]
-
-of Robert. Slumber's visitation was long averted. Long she sat at her
-
-lattice, long gazed down on the old [[Garden|garden]] and older church, on the
-
-tombs laid out all gray and calm, and clear in moonlight. She followed
-
-the steps of the [[Night|night]], on its pathway of [[Stars|stars]], far into the "wee sma'
-
-hours ayont the twal'." She was with Moore, in spirit, the whole [[Time|time]];
-
-she was at his side; she heard his voice; she gave her hand into his
-
-hand; it rested warm in his fingers. When the church [[Clock|clock]] struck, when
-
-any other sound stirred, when a little mouse familiar to her chamber--an
-
-intruder for which she would never permit Fanny to lay a trap--came
-
-rattling amongst the links of her locket-chain, her one ring, and
-
-another trinket or two on the toilet-table, to nibble a bit of biscuit
-
-laid ready for it, she looked up, recalled momentarily to the real. Then
-
-she said half aloud, as if deprecating the accusation of some unseen and
-
-unheard monitor, "I am not cherishing [[Love|love]] [[Dreams|dreams]]; I am only thinking
-
-because I cannot [[Sleep|sleep]]. Of course, I know he will marry [[Shirley]]."
-
-
-
-With returning [[Silence|silence]], with the lull of the chime, and the retreat of
-
-her small untamed and unknown _protégé_, she still resumed the dream,
-
-nestling to the vision's side--listening to, conversing with it. It
-
-paled at last. As [[Dawn|dawn]] approached, the setting [[Stars|stars]] and breaking day
-
-dimmed the creation of fancy; the wakened [[Song|song]] of [[Birds|birds]] hushed her
-
-whispers. The tale full of [[Fire|fire]], quick with interest, borne away by the
-
-morning [[Wind|wind]], became a vague murmur. The shape that, seen in a moonbeam,
-
-lived, had a pulse, had movement, wore health's glow and youth's
-
-freshness, turned cold and ghostly gray, confronted with the red of
-
-sunrise. It wasted. She was left solitary at last. She crept to her
-
-couch, chill and dejected.

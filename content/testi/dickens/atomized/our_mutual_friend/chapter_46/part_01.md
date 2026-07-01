@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 5 (part 1)"
+title: "Our Mutual Friend — Chapter 8 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,139 +14,110 @@ tags:
 </nav>
 
 
-Chapter 5
+Chapter 8
 
-THE GOLDEN DUSTMAN FALLS INTO BAD COMPANY
+THE END OF A LONG [[Journey|JOURNEY]]
 
 
-Were [[Bella Wilfer]]’s bright and ready little wits at fault, or was the
-Golden Dustman passing through the furnace of proof and coming out
-dross? Ill news travels fast. We shall know full soon.
+The train of carts and horses came and went all day from [[Dawn|dawn]] to
+nightfall, making little or no daily impression on the heap of ashes,
+though, as the days passed on, the heap was seen to be slowly melting.
+My lords and gentlemen and honourable boards, when you in the course
+of your [[Dust|dust]]-shovelling and cinder-raking have piled up a mountain of
+pretentious failure, you must off with your honourable coats for the
+removal of it, and fall to the work with the power of all the [[Queen|queen]]’s
+horses and all the [[Queen|queen]]’s men, or it will come rushing down and bury us
+alive.
 
-On that very [[Night|night]] of her return from the Happy Return, something
-chanced which Bella closely followed with her eyes and ears. There was
-an apartment at the side of the Boffin mansion, known as Mr Boffin’s
-room. Far less grand than the rest of the [[house]], it was far more
-comfortable, being pervaded by a certain air of homely snugness, which
-upholstering despotism had banished to that spot when it inexorably set
-its face against Mr Boffin’s appeals for [[Mercy|mercy]] in behalf of any other
-chamber. Thus, although a room of modest situation—for its windows gave
-on [[Silas Wegg]]’s old corner—and of no pretensions to velvet, satin, or
-gilding, it had got itself established in a domestic position analogous
-to that of an easy dressing-gown or pair of slippers; and whenever the
-family wanted to enjoy a particularly pleasant fireside evening, they
-enjoyed it, as an institution that must be, in Mr Boffin’s room.
+Yes, verily, my lords and gentlemen and honourable boards, adapting your
+Catechism to the occasion, and by God’s help so you must. For when we
+have got things to the pass that with an enormous treasure at disposal
+to relieve the poor, the best of the poor detest our mercies, hide their
+heads from us, and shame us by starving to [[Death|death]] in the midst of us, it
+is a pass impossible of prosperity, impossible of continuance. It may
+not be so written in the Gospel according to Podsnappery; you may not
+‘find these words’ for the text of a sermon, in the Returns of the Board
+of Trade; but they have been the [[Truth|truth]] since the foundations of the
+universe were laid, and they will be the [[Truth|truth]] until the foundations of
+the universe are shaken by the Builder. This boastful handiwork of
+ours, which fails in its terrors for the professional pauper, the sturdy
+breaker of windows and the rampant tearer of clothes, strikes with a
+cruel and a wicked stab at the stricken sufferer, and is a horror to
+the deserving and unfortunate. We must mend it, lords and gentlemen and
+honourable boards, or in its own evil hour it will mar every one of us.
 
-Mr and Mrs Boffin were reported sitting in this room, when Bella got
-back. Entering it, she found the Secretary there too; in official
-attendance it would appear, for he was standing with some papers in his
-hand by a table with shaded candles on it, at which Mr Boffin was seated
-thrown back in his easy chair.
+Old Betty Higden fared upon her pilgrimage as many ruggedly honest
+creatures, women and men, fare on their toiling way along the roads
+of life. Patiently to earn a spare bare living, and quietly to die,
+untouched by workhouse hands—this was her highest sublunary [[Hope|hope]].
 
-‘You are busy, sir,’ said Bella, hesitating at the door.
+Nothing had been heard of her at Mr Boffin’s [[house]] since she trudged
+off. The weather had been hard and the roads had been bad, and her
+spirit was up. A less stanch spirit might have been subdued by such
+adverse influences; but the loan for her little outfit was in no part
+repaid, and it had gone worse with her than she had foreseen, and she
+was put upon proving her case and maintaining her independence.
 
-‘Not at all, my dear, not at all. You’re one of ourselves. We never
-make company of you. Come in, come in. Here’s the old lady in her usual
-place.’
+Faithful [[Soul|soul]]! When she had spoken to the Secretary of that ‘deadness
+that steals over me at times’, her fortitude had made too little of it.
+Oftener and ever oftener, it came stealing over her; darker and ever
+darker, like the [[Shadow|shadow]] of advancing [[Death]]. That the [[Shadow|shadow]] should
+be deep as it came on, like the [[Shadow|shadow]] of an actual presence, was in
+accordance with the laws of the physical world, for all the Light that
+shone on Betty Higden lay beyond [[Death]].
 
-Mrs Boffin adding her nod and smile of welcome to Mr Boffin’s words,
-Bella took her book to a chair in the fireside corner, by Mrs Boffin’s
-work-table. Mr Boffin’s station was on the opposite side.
+The poor old creature had taken the upward course of the [[River Thames|river Thames]] as
+her general track; it was the track in which her last [[Home|home]] lay, and of
+which she had last had local [[Love|love]] and knowledge. She had hovered for a
+little while in the near neighbourhood of her abandoned dwelling, and
+had sold, and knitted and sold, and gone on. In the pleasant towns of
+Chertsey, Walton, Kingston, and Staines, her figure came to be quite
+[[Well|well]] known for some short weeks, and then again passed on.
 
-‘Now, Rokesmith,’ said the Golden Dustman, so sharply rapping the table
-to bespeak his attention as Bella turned the [[Leaves|leaves]] of her book, that
-she started; ‘where were we?’
+She would take her stand in market-places, where there were such things,
+on market days; at other times, in the busiest (that was seldom very
+busy) portion of the little quiet High Street; at still other times she
+would explore the outlying roads for great houses, and would ask leave
+at the Lodge to pass in with her basket, and would not often get it. But
+ladies in carriages would frequently make purchases from her trifling
+stock, and were usually pleased with her bright eyes and her hopeful
+speech. In these and her clean dress originated a [[Fable|fable]] that she was
+[[Well|well]] to do in the world: one might say, for her station, rich. As making
+a comfortable provision for its subject which costs nobody anything,
+this class of [[Fable|fable]] has long been popular.
 
-‘You were saying, sir,’ returned the Secretary, with an air of some
-reluctance and a glance towards those others who were present, ‘that you
-considered the [[Time|time]] had come for fixing my salary.’
+In those pleasant little towns on Thames, you may hear the fall of
+the [[Water|water]] over the weirs, or even, in still weather, the rustle of the
+rushes; and from the bridge you may see the young [[River|river]], dimpled like a
+young [[Child|child]], playfully gliding away among the trees, unpolluted by the
+defilements that lie in wait for it on its course, and as yet out of
+hearing of the deep summons of the sea. It were too much to pretend that
+Betty Higden made out such thoughts; no; but she heard the tender [[River|river]]
+whispering to many like herself, ‘Come to me, come to me! When the cruel
+shame and terror you have so long fled from, most beset you, come to me!
+I am the Relieving Officer appointed by eternal ordinance to do my work;
+I am not held in estimation according as I shirk it. My breast is softer
+than the pauper-[[Nurse|nurse]]’s; [[Death|death]] in my arms is peacefuller than among the
+pauper-wards. Come to me!’
 
-‘Don’t be above calling it wages, man,’ said Mr Boffin, testily. ‘What
-the deuce! I never talked of any salary when I was in service.’
-
-‘My wages,’ said the Secretary, correcting himself.
-
-‘Rokesmith, you are not proud, I [[Hope|hope]]?’ observed Mr Boffin, eyeing him
-askance.
-
-‘I [[Hope|hope]] not, sir.’
-
-‘Because I never was, when I was poor,’ said Mr Boffin. ‘[[Poverty]] and
-[[Pride|pride]] don’t go at all [[Well|well]] together. Mind that. How can they go [[Well|well]]
-together? Why it stands to reason. A man, being poor, has nothing to be
-proud of. It’s nonsense.’
-
-With a slight inclination of his head, and a look of some surprise,
-the Secretary seemed to assent by forming the syllables of the word
-‘nonsense’ on his lips.
-
-‘Now, concerning these same wages,’ said Mr Boffin. ‘Sit down.’
-
-The Secretary sat down.
-
-‘Why didn’t you sit down before?’ asked Mr Boffin, distrustfully. ‘I
-[[Hope|hope]] that wasn’t [[Pride|pride]]? But about these wages. Now, I’ve gone into the
-matter, and I say two hundred a year. What do you think of it? Do you
-think it’s enough?’
-
-‘Thank you. It is a fair proposal.’
-
-‘I don’t say, you know,’ Mr Boffin stipulated, ‘but what it may be more
-than enough. And I’ll tell you why, Rokesmith. A man of property, like
-me, is bound to consider the market-price. At first I didn’t enter into
-that as much as I might have done; but I’ve got acquainted with other
-men of property since, and I’ve got acquainted with the duties of
-property. I mustn’t go putting the market-price up, because money may
-happen not to be an object with me. A sheep is worth so much in the
-market, and I ought to give it and no more. A secretary is worth so much
-in the market, and I ought to give it and no more. However, I don’t mind
-stretching a point with you.’
-
-‘Mr Boffin, you are very good,’ replied the Secretary, with an effort.
-
-‘Then we put the figure,’ said Mr Boffin, ‘at two hundred a year.
-Then the figure’s disposed of. Now, there must be no misunderstanding
-regarding what I buy for two hundred a year. If I pay for a sheep, I buy
-it out and out. Similarly, if I pay for a secretary, I buy HIM out and
-out.’
-
-‘In other words, you purchase my whole [[Time|time]]?’
-
-‘Certainly I do. Look here,’ said Mr Boffin, ‘it ain’t that I want to
-occupy your whole [[Time|time]]; you can take up a book for a minute or two when
-you’ve nothing better to do, though I think you’ll a’most always find
-something useful to do. But I want to keep you in attendance. It’s
-convenient to have you at all times ready on the premises. Therefore,
-betwixt your breakfast and your supper,—on the premises I expect to
-find you.’
-
-The Secretary bowed.
-
-‘In bygone days, when I was in service myself,’ said Mr Boffin, ‘I
-couldn’t go cutting about at my will and pleasure, and you won’t expect
-to go cutting about at your will and pleasure. You’ve rather got into
-a habit of that, lately; but perhaps it was for want of a right
-specification betwixt us. Now, let there be a right specification
-betwixt us, and let it be this. If you want leave, ask for it.’
-
-Again the Secretary bowed. His manner was uneasy and astonished, and
-showed a sense of humiliation.
-
-‘I’ll have a bell,’ said Mr Boffin, ‘hung from this room to yours,
-and when I want you, I’ll touch it. I don’t call to mind that I have
-anything more to say at the present moment.’
-
-The Secretary [[Rose|rose]], gathered up his papers, and withdrew. Bella’s eyes
-followed him to the door, lighted on Mr Boffin complacently thrown back
-in his easy chair, and drooped over her book.
-
-‘I have let that chap, that young man of mine,’ said Mr Boffin, taking a
-trot up and down the room, ‘get above his work. It won’t do. I must have
-him down a peg. A man of property owes a duty to other men of property,
-and must look sharp after his inferiors.’
-
-Bella felt that Mrs Boffin was not comfortable, and that the eyes of
-that good creature sought to discover from her face what attention she
-had given to this discourse, and what impression it had made upon her.
-For which reason Bella’s eyes drooped more engrossedly over her book,
-and she turned the page with an air of profound absorption in it.
+There was abundant place for gentler fancies too, in her untutored mind.
+Those gentlefolks and their children inside those fine houses, could
+they think, as they looked out at her, what it was to be really hungry,
+really cold? Did they feel any of the [[Wonder|wonder]] about her, that she felt
+about them? Bless the dear laughing children! If they could have seen
+sick Johnny in her arms, would they have cried for pity? If they could
+have seen dead Johnny on that little bed, would they have understood it?
+Bless the dear children for his sake, anyhow! So with the humbler houses
+in the little street, the inner firelight shining on the panes as the
+outer twilight darkened. When the families gathered in-doors there, for
+the [[Night|night]], it was only a foolish fancy to feel as if it were a little
+hard in them to close the shutter and blacken the flame. So with the
+lighted shops, and speculations whether their masters and mistresses
+taking tea in a perspective of back-parlour—not so far within but that
+the flavour of tea and toast came out, mingled with the glow of light,
+into the street—ate or drank or wore what they sold, with the greater
+relish because they dealt in it. So with the churchyard on a branch of
+the solitary way to the [[Night|night]]’s sleeping-place. ‘Ah me! The dead and
+I seem to have it pretty much to ourselves in the dark and in this
+weather! But so much the better for all who are warmly housed at [[Home|home]].’
+The poor [[Soul|soul]] envied no one in bitterness, and grudged no one anything.

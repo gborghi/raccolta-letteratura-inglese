@@ -1,5 +1,5 @@
 ---
-title: "[[TheAppOfTyranny]] — Chapter 2"
+title: "TheAppOfTyranny — Chapter 2"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/theappoftyranny-(chesterton)"
@@ -16,13 +16,7 @@ tags:
 
 II
 
-
-
 THE REFUSAL OF RECIPROCITY
-
-
-
-
 
 In the last summary I suggested that Barbarism, as we mean it, is not mere
 
@@ -43,8 +37,6 @@ necessity" of not respecting it on Tuesday. In short, he is like a [[Child|child
 who at the end of all reasonable explanations and reminders of admitted
 
 arrangements, has no answer except "But I _want_ to."
-
-
 
 There is another idea in human arrangements so fundamental as to be
 
@@ -77,8 +69,6 @@ on Rhine; and what a shame it would be if any one took their own little
 [[River|river]] away from them. That is what I mean by not being reciprocal: and you
 
 will find it in all that they do: as in all that is done by savages.
-
-
 
 Here, again, it is very necessary to avoid confusing this [[Soul|soul]] of the
 
@@ -152,8 +142,6 @@ in [[Truth|truth]] they could not play at any game; for the essence of every gam
 
 that the rules are the same on both sides.
 
-
-
 But taking every German institution in turn, the case is the same; and it
 
 is not a case of mere bloodshed or military bravado. The duel, for
@@ -192,8 +180,6 @@ redeeming points of interest on an otherwise somewhat unenlightening
 
 countenance. The duel may be defended; the sham duel may be defended.
 
-
-
 What cannot be defended is something really peculiar to Prussia, of which
 
 we hear numberless stories, some of them certainly true. It might be called
@@ -230,8 +216,6 @@ different in German. It seems to mean something more like what we should
 
 call "prestige."
 
-
-
 The fundamental fact, however, is the absence of the reciprocal idea. The
 
 Prussian is not sufficiently civilised for the duel. Even when he crosses
@@ -257,8 +241,6 @@ national boundaries, the view of military methods, the view of personal
 simplicity; something too simple for us to understand: the idea that glory
 
 consists in holding the steel, and not in facing it.
-
-
 
 If further examples were necessary, it would be easy to give hundreds of
 
@@ -314,8 +296,6 @@ the husband. In fact, it often is. The [[Sword|sword]] and the whip are the weap
 
 of a privileged caste.
 
-
-
 Pass from the closest of all differences, that between husband and wife, to
 
 the most distant of all differences, that of the remote and unrelated races
@@ -366,8 +346,6 @@ only a Chinaman." This is probably the highest point to which the German
 
 culture has risen.
 
-
-
 The principle here neglected, which may be called Mutuality by those who
 
 misunderstand and dislike the word Equality, does not offer so clear a
@@ -401,8 +379,6 @@ men. Certainly there can be no better summary of the savage than this,
 which as we have seen, unfits him for the duel. He is the man who cannot
 
 [[Love|love]]--no, nor even hate--his neighbour as himself.
-
-
 
 But this quality in Prussia does have one effect which has reference to the
 
@@ -469,8 +445,6 @@ Prussian calls all men to admire the [[Beauty|beauty]] of his large blue eyes. I
 do, it is because they have inferior eyes: if they don't, it is because
 
 they have no eyes.
-
-
 
 Wherever the most miserable remnant of our race, astray and dried up in
 

@@ -1,5 +1,5 @@
 ---
-title: "[[The Literary Life of Thingum Bob, Esq]] (part 5)"
+title: "The Literary Life of Thingum Bob, Esq (part 5)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-literary-life-of-thingum-bob,-esq-(poe)"
@@ -13,6 +13,28 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_literary_life_of_thingum_bob_esq/part/part_04">‹ part 04</a><a class="ex-next" href="/testi/poe/atomized/the_literary_life_of_thingum_bob_esq/part/part_06">part 06 ›</a></div>
 </nav>
 
+
+      the critiques.
+
+
+
+      The “Owl,” a journal of profound sagacity, and [[Well|well]] known for the
+
+      deliberate gravity of its literary decisions—the “Owl,” I say,
+
+      spoke as follows:
+
+
+
+      “‘The Lollipop!’ The October number of this delicious Magazine
+
+      surpasses its predecessors, and sets competition at defiance. In
+
+      the [[Beauty|beauty]] of its typography and paper—in the number and
+
+      excellence of its steel plates—as [[Well|well]] as in the literary merit
+
+      of its contributions—the ‘Lollipop’ compares with its slow-paced
 
       rivals as [[Hyperion]] with a Satyr. The ‘Hum-Drum,’ the ‘Rowdy-Dow,’
 
@@ -191,21 +213,3 @@ tags:
       “The contributors to the number before us are Mr. Crab, (the
 
       eminent editor,) Snob, Mumblethumb, Fatquack, and others; but,
-
-      after the inimitable compositions of the editor himself, we
-
-      prefer a diamond-like effusion from the pen of a rising poet who
-
-      writes over the signature ‘Snob’—a nom de guerre which we predict
-
-      will one day extinguish the radiance of ‘Boz.’ ‘Snob,’ we learn,
-
-      is a Mr. Thingum Bob, Esq., sole heir of a wealthy merchant of
-
-      this [[City|city]], Thomas Bob, Esq., and a near relative of the
-
-      distinguished Mr. Thingum. The title of Mr. B.‘s admirable poem
-
-      is the ‘Oil-of-Bob’—a somewhat unfortunate name, by-the-by, as
-
-      some contemptible vagabond connected with the penny press has

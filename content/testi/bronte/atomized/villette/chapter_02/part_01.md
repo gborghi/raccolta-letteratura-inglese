@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 2 (part 1)"
+title: "Villette — Chapter 2 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/works/villette-(bronte)">Villette</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_01/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_02/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_01/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_02/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -124,14 +124,3 @@ secretly feel on some matters. “Polly,” he said, looking down on his
 little girl, “go into the hall; you will see papa’s great-coat lying on
 a chair; put your hand into the pockets, you will find a
 pocket-handkerchief there; bring it to me.”
-
-She obeyed; went and returned deftly and nimbly. He was talking to Mrs.
-Bretton when she came back, and she waited with the handkerchief in her
-hand. It was a picture, in its way, to see her, with her tiny stature,
-and trim, neat shape, standing at his knee. Seeing that he continued to
-talk, apparently unconscious of her return, she took his hand, opened
-the unresisting fingers, insinuated into them the handkerchief, and
-closed them upon it one by one. He still seemed not to see or to feel
-her; but by-and-by, he lifted her to his knee; she nestled against him,
-and though neither looked at nor spoke to the other for an hour
-following, I suppose both were satisfied.

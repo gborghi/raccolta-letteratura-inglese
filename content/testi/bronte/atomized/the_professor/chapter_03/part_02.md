@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 2 (part 2)"
+title: "The Professor — Chapter 2 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -14,6 +14,12 @@ tags:
 </nav>
 
 
+with this gentleman. Come back when you hear the bell.”
+
+The individual at the desk [[Rose|rose]] and departed, closing the door as he
+
+went out. Mr. Crimsworth stirred the [[Fire|fire]], then folded his arms, and sat
+
 a moment thinking, his lips compressed, his brow knit. I had nothing to
 
 do but to watch him--how [[Well|well]] his features were cut! what a handsome man
@@ -22,27 +28,15 @@ he was! Whence, then, came that air of contraction--that narrow and hard
 
 aspect on his forehead, in all his lineaments?
 
-
-
 Turning to me he began abruptly:
-
-
 
 “You are come down to ----shire to learn to be a tradesman?”
 
-
-
 “Yes, I am.”
-
-
 
 “Have you made up your mind on the point? Let me know that at once.”
 
-
-
 “Yes.”
-
-
 
 “[[Well]], I am not bound to help you, but I have a place here vacant, if
 
@@ -52,35 +46,21 @@ you know anything besides that useless trash of college learning--Greek,
 
 Latin, and so forth?”
 
-
-
 “I have studied mathematics.”
-
-
 
 “Stuff! I dare say you have.”
 
-
-
 “I can read and write French and German.”
-
-
 
 “Hum!” He reflected a moment, then opening a drawer in a desk near him
 
 took out a letter, and gave it to me.
 
-
-
 “Can you read that?” he asked.
-
-
 
 It was a German commercial letter; I translated it; I could not tell
 
 whether he was gratified or not--his countenance remained fixed.
-
-
 
 “It is [[Well|well]],” he said, after a pause, “that you are acquainted with
 
@@ -112,8 +92,6 @@ establishment--business-like habits, feelings, and ideas, suit me best.
 
 Do you understand?”
 
-
-
 “Partly,” I replied. “I suppose you mean that I am to do my work for my
 
 wages; not to expect favour from you, and not to depend on you for any
@@ -122,15 +100,11 @@ help but what I earn; that suits me exactly, and on these terms I will
 
 consent to be your clerk.”
 
-
-
 I turned on my heel, and walked to the [[Window|window]]; this [[Time|time]] I did not
 
 consult his face to learn his opinion: what it was I do not know, nor
 
 did I then care. After a [[Silence|silence]] of some minutes he recommenced:--
-
-
 
 “You perhaps expect to be accommodated with apartments at Crimsworth
 
@@ -144,17 +118,11 @@ business reasons I may wish to take down to the hall for a [[Night|night]] or so
 
 You will seek out lodgings in X----.”
 
-
-
 Quitting the [[Window|window]], I walked back to the hearth.
-
-
 
 “Of course I shall seek out lodgings in X----,” I answered. “It would
 
 not suit me either to lodge at Crimsworth Hall.”
-
-
 
 My tone was quiet. I always speak quietly. Yet Mr. Crimsworth’s blue eye
 
@@ -162,25 +130,15 @@ became incensed; he took his [[Revenge|revenge]] rather oddly. Turning to me he 
 
 bluntly--
 
-
-
 “You are poor enough, I suppose; how do you expect to live till your
 
 quarter’s salary becomes due?”
 
-
-
 “I shall get on,” said I.
-
-
 
 “How do you expect to live?” he repeated in a louder voice.
 
-
-
 “As I can, Mr. Crimsworth.”
-
-
 
 “Get into debt at your peril! that’s all,” he answered. “For aught I
 
@@ -190,11 +148,7 @@ them; I tolerate nothing of the sort here, and I will never give you a
 
 shilling extra, whatever liabilities you may incur--mind that.”
 
-
-
 “Yes, Mr. Crimsworth, you will find I have a good [[Memory|memory]].”
-
-
 
 I said no more. I did not think the [[Time|time]] was come for much parley. I
 
@@ -228,15 +182,11 @@ first clerk, the individual dismissed previously to our conference,
 
 re-entered.
 
-
-
 “Mr. Steighton,” said he, “show Mr. William the letters from Voss,
 
 Brothers, and give him English copies of the answers; he will translate
 
 them.”
-
-
 
 Mr. Steighton, a man of about thirty-five, with a face at once sly and
 

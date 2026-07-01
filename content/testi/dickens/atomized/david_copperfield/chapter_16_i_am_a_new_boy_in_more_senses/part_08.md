@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 16: I AM A NEW BOY IN MORE SENSES THAN ONE (part 8)"
+title: "David Copperfield — Chapter 16: I AM A NEW BOY IN MORE SENSES THAN ONE (part 8)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,57 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_16_i_am_a_new_boy_in_more_senses/part_07">‹ part 07</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_17_somebody_turns_up/part_01">part 01 ›</a></div>
 </nav>
 
+
+Mrs. Markleham fanned herself, and shook her head.
+
+‘Farewell, Mr. Jack,’ said the Doctor, standing up; on which we all
+stood up. ‘A prosperous voyage out, a thriving career abroad, and a
+happy return [[Home|home]]!’
+
+We all drank the toast, and all shook hands with Mr. Jack Maldon; after
+which he hastily took leave of the ladies who were there, and hurried
+to the door, where he was received, as he got into the chaise, with a
+tremendous broadside of cheers discharged by our boys, who had assembled
+on the lawn for the purpose. Running in among them to swell the ranks,
+I was very near the chaise when it rolled away; and I had a lively
+impression made upon me, in the midst of the noise and [[Dust|dust]], of having
+seen Mr. Jack Maldon rattle past with an agitated face, and something
+cherry-coloured in his hand.
+
+After another broadside for the Doctor, and another for the Doctor’s
+wife, the boys dispersed, and I went back into the [[house]], where I found
+the guests all standing in a group about the Doctor, discussing how Mr.
+Jack Maldon had gone away, and how he had borne it, and how he had
+felt it, and all the rest of it. In the midst of these remarks, Mrs.
+Markleham cried: ‘Where’s Annie?’
+
+No Annie was there; and when they called to her, no Annie replied. But
+all pressing out of the room, in a crowd, to see what was the matter, we
+found her lying on the hall floor. There was great alarm at first, until
+it was found that she was in a swoon, and that the swoon was yielding
+to the usual means of recovery; when the Doctor, who had lifted her
+head upon his knee, put her curls aside with his hand, and said, looking
+around:
+
+‘Poor Annie! She’s so faithful and tender-hearted! It’s the parting from
+her old playfellow and friend--her favourite cousin--that has done this.
+Ah! It’s a pity! I am very sorry!’
+
+When she opened her eyes, and saw where she was, and that we were all
+standing about her, she arose with assistance: turning her head, as she
+did so, to lay it on the Doctor’s shoulder--or to hide it, I don’t know
+which. We went into the drawing-room, to leave her with the Doctor and
+her mother; but she said, it seemed, that she was better than she had
+been since morning, and that she would rather be brought among us; so
+they brought her in, looking very white and weak, I thought, and sat her
+on a sofa.
+
+‘Annie, my dear,’ said her mother, doing something to her dress. ‘See
+here! You have lost a bow. Will anybody be so good as find a ribbon; a
+cherry-coloured ribbon?’
+
+It was the one she had worn at her bosom. We all looked for it; I myself
+looked everywhere, I am certain--but nobody could find it.
 
 ‘Do you recollect where you had it last, Annie?’ said her mother.
 

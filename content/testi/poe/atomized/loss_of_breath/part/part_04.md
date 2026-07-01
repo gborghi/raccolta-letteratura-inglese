@@ -1,5 +1,5 @@
 ---
-title: "[[Loss of Breath]] (part 4)"
+title: "Loss of Breath (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/loss-of-breath-(poe)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/loss_of_breath/part/part_03">‹ part 03</a><a class="ex-next" href="/testi/poe/atomized/loss_of_breath/part/part_05">part 05 ›</a></div>
 </nav>
 
+
+      composed a treatise upon getting drunk.
+
+
+
+      I may just mention, however, that die I did not. My [[Body|body]] was, but
+
+      I had no breath to be, suspended; and but for the knot under my
+
+      left ear (which had the feel of a military stock) I dare say that
+
+      I should have experienced very little inconvenience. As for the
+
+      jerk given to my neck upon the falling of the drop, it merely
 
       proved a corrective to the twist afforded me by the fat gentleman
 
@@ -172,7 +186,7 @@ tags:
 
       walked against [[Time]], would not walk against him. Windham and
 
-      Allbreath were his favorite writers,—his favorite [[Artist|artist]], Phiz.
+      Allbreath were his favorite writers,—his favorite [[artist]], Phiz.
 
       He died gloriously while inhaling gas—levique flatu corrupitur,
 
@@ -203,21 +217,3 @@ expatiate—to be able to communicate with a person like yourself, who do
 not think yourself called upon at every period to interrupt the thread
 
 of a gentleman’s discourse. Interruptions are annoying and should
-
-undoubtedly be abolished—don’t you think so?—no reply, I beg you,—one
-
-person is enough to be speaking at a [[Time|time]].—I shall be done by and by,
-
-and then you may begin.—How the devil sir, did you get into this
-
-place?—not a word I beseech you—been here some [[Time|time]] myself—terrible
-
-accident!—heard of it, I suppose?—awful calamity!—walking under your
-
-windows—some short while ago—about the [[Time|time]] you were
-
-stage-struck—horrible occurrence!—heard of “catching one’s breath,”
-
-eh?—hold your tongue I tell you!—I caught somebody else’s!—had always
-
-too much of my own—met Blab at the corner of the street—wouldn’t give

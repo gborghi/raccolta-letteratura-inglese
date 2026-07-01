@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 35 (part 2)"
+title: "Bleak House — Chapter 35 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -140,6 +140,3 @@ young creatures might be friends instead of distrustful foes and that
 we might so far counter-act the suit and prove too strong for it. But
 it was too much to expect. Jarndyce and Jarndyce was the curtain of
 Rick’s cradle.”
-
-“But, guardian, may we not [[Hope|hope]] that a little experience will teach
-him what a false and wretched thing it is?”

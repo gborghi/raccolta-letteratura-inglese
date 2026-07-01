@@ -1,5 +1,5 @@
 ---
-title: "Napoleon of Notting [[Hill]] — Chapter 2"
+title: "Napoleon of Notting Hill — Chapter 1"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/napoleon-of-notting-hill-(chesterton)"
@@ -14,361 +14,454 @@ tags:
 </nav>
 
 
-CHAPTER II
+BOOK IV
+CHAPTER I
 
-THE REMARKABLE MR.  TURNBULL
+THE BATTLE OF THE LAMPS
 
-AFTER two more interviews with shopmen, however, the patriot's
-confidence in his own psychological diplomacy began vaguely to wane.
-Despite the care with which he considered the peculiar rationale and
-the peculiar glory of each separate shop, there seemed to be something
-unresponsive about the shopmen.  Whether it was a dark resentment
-against the uninitiate for peeping into their masonic magnificence,
-he could not quite conjecture.
+MR.  BUCK, who, though retired, frequently went down to his
+big drapery stores in Kensington High Street, was locking up
+those premises, being the last to leave.  It was a wonderful
+evening of green and gold, but that did not trouble him very much.
+If you had pointed it out, he would have agreed seriously,
+for the rich always [[Desire|desire]] to be artistic.
 
-His conversation with the man who kept the shop of curiosities
-had begun encouragingly.  The man who kept the shop of curiosities
-had indeed enchanted him with a phrase.  He was standing drearily
-at the door of his shop, a wrinkled man with a grey pointed beard,
-evidently a gentleman who had come down in the world.
+He stepped out into the cool air, buttoning up his light coat,
+and blowing great clouds from his cigar, when a figure dashed up to him
+in another yellow overcoat, but unbuttoned and flying behind him.
 
-"And how does your commerce go, you strange guardian of the past?"
-said Wayne, affably.
+"Hullo, Barker!" said the draper.  "Any of our [[Summer|summer]] articles?
+You're too late.  Factory Acts, Barker.  Humanity and progress, my boy."
 
-"[[Well]], sir, not very [[Well|well]]," replied the man, with that patient voice
-of his class which is one of the most heart-breaking things in the world.
-"Things are terribly quiet."
+"Oh, don't chatter," cried Barker, stamping.  "We've been beaten."
 
-Wayne's eyes shone suddenly.
+"Beaten...by what?" asked Buck, mystified.
 
-"A great saying," he said, "worthy of a man whose merchandise
-is human [[history]].  Terribly quiet; that is in two words the spirit
-of this age, as I have felt it from my cradle.  I sometimes wondered
-how many other people felt the oppression of this [[Union|union]] between quietude
-and terror.  I see blank [[Well|well]]-ordered streets, and men in black
-moving about inoffensively, sullenly.  It goes on day after day,
-day after day, and nothing happens; but to me it is like [[A Dream|a dream]]
-from which I might awake screaming.  To me the straightness
-of our life is the straightness of a thin cord stretched tight.
-Its stillness is terrible.  It might snap with a noise like thunder.
-And you who sit, amid the debris of the great wars, you who sit,
-as it were, upon a [[Battlefield|battlefield]], you know that war was less terrible
-than this evil peace; you know that the idle lads who carried
-those swords under Francis or Elizabeth, the rude Squire or Baron
-who swung that mace about in Picardy or Northumberland battles,
-may have been terribly noisy, but were not, like us, terribly quiet."
+"By Wayne."
 
-Whether it was a faint embarrassment of [[Conscience|conscience]] as to the
-original source and date of the weapons referred to, or merely an
-engrained depression, the guardian of the past looked, if anything,
-a little more worried.
+Buck looked at Barker's fierce white face for the first [[Time|time]],
+as it gleamed in the lamplight.
 
-"But I do not think," continued Wayne, "that this horrible [[Silence|silence]]
-of modernity will last, though I think for the present it will increase.
-What a farce is this modern liberality.  [[Freedom]] of speech means
-practically in our modern civilization that we must only talk
-about unimportant things.  We must not talk about religion, for that
-is illiberal; we must not talk about bread and [[cheese]], for that is
-talking shop; we must not talk about [[Death|death]], for that is depressing;
-we must not talk about birth, for that is indelicate.  It cannot last.
-Something must break this strange indifference, this strange
-dreamy egoism, this strange [[Loneliness|loneliness]] of millions in a crowd.
-Something must break it.  Why should it not be you and I?  Can you
-do nothing else but guard relics?"
+"Come and have a drink," he said.
 
-The shopman wore a gradually clearing expression, which would
-have led those unsympathetic with the cause of the Red [[Lion]]
-to think that the last sentence was the only one to which he had
-attached any meaning.
+They adjourned to a cushioned and glaring buffet, and Buck established
+himself slowly and lazily in a seat, and pulled out his cigar-case.
 
-"I am rather old to go into a new business," he said, "and I don't
-quite know what to be either."
+"Have a smoke," he said.
 
-"Why not," said Wayne, gently having reached the crisis of his
-delicate [[Persuasion|persuasion]] "why not be a Colonel?"
+Barker was still standing, and on the fret, but after a moment's
+hesitation, he sat down, as if he might [[spring]] up again the next minute.
+They ordered drinks in [[Silence|silence]].
 
-It was at this point, in all probability, that the interview
-began to yield more disappointing results.  The man appeared
-inclined at first to regard the suggestion of becoming a Colonel
-as outside the sphere of immediate and relevant discussion.
-A long exposition of the inevitable war of independence,
-coupled with the purchase of a doubtful sixteenth-century
-[[Sword|sword]] for an exaggerated price, seemed to resettle matters.
-Wayne left the shop, however, somewhat infected with the [[Melancholy|melancholy]]
-of its owner.
+"How did it happen?" asked Buck, turning his big bold eyes on him.
 
-That [[Melancholy|melancholy]] was completed at the barber's.
+"How the devil do I know?" cried Barker.  "It happened
+like...like [[A Dream|a dream]].  How can two hundred men beat six hundred?
+How can they?"
 
-"Shaving, sir?" inquired that [[Artist|artist]] from inside his shop.
+"[[Well]]," said Buck, coolly.  "How did they?  You ought to know."
 
-"War!" replied Wayne, standing on the threshold.
+"I don't know.  I can't describe," said the other, drumming on the table.
+"It seemed like this.  We were six hundred and marched with those
+damned poleaxes of Auberon's...the only weapons we've got.
+We marched two abreast.  We went up to Holland Walk, between the high
+palings which seemed to me to go straight as an arrow for Pump Street.
+I was near the tail of the line and it was a long one.
+When the end of it was still between the high palings,
+the head of the line was already crossing Holland Park Avenue.
+Then the head plunged into the network of narrow streets on the
+other side, and the tail and myself came out on the great crossing.
+When we also had reached northern side and turned up a small
+street that points, crookedly as it were, towards Pump Street,
+the whole thing felt different.  The street dodged and bent
+so much that the head of our line seemed lost altogether:
+it might as [[Well|well]] have been in North [[America]].  And all this [[Time|time]] we
+hadn't seen a [[Soul|soul]]."
 
-"I beg your pardon," said the other sharply.
+Buck, who was idly dabbing the ash of his cigar on the ash-tray,
+began to move it deliberately over the table, making feathery
+grey lines, a kind of map.
 
-"War!" said Wayne, warmly.  "But not for anything inconsistent
-with the beautiful and the civilized arts.  War for [[Beauty|beauty]].
-War for society.  War for peace.  A great chance is offered you
-of repelling that slander which, in defiance of the lives of so
-many artists, attributes poltroonery to those who beautify and polish
-the surface of our lives.  Why should not hairdressers be heroes?
-Why should not..."
+"But though the little streets were all deserted (which got a trifle
+on my nerves), as we got deeper and deeper into them, a thing
+began to happen that I couldn't understand.  Sometimes a long way
+ahead...three turns or corners ahead, as it were...there broke suddenly
+a sort of noise, clattering, and confused cries, and then stopped.
+Then, when it happened, something, I can't describe it...a kind of shake
+or stagger went down the line, as if the line were a live thing,
+whose head had been struck, or had been an electric cord.
+None of us knew why we were moving, but we moved and jostled.
+Then we recovered, and went on through the little dirty streets,
+round corners, and up twisted ways.  The little crooked streets
+began to give me a feeling I can't explain...as if it were [[A Dream|a dream]].
+I felt as if things had lost their reason, and we should never
+get out of the maze.  Odd to hear me talk like that, isn't it?
+The streets were quite [[Well|well]]-known streets, all down on the map.
+But the fact remains.  I wasn't afraid of something happening.
+I was afraid of nothing ever happening...nothing ever happening
+for all God's [[Eternity|eternity]]."
 
-"Now, you get out," said the barber, irascibly.  "We don't want
-any of your sort here.  You get out."
+He drained his glass and called for more whisky.  He drank it
+and went on.
 
-And he came forward with the desperate annoyance of a mild
-person when enraged.
+"And then something did happen.  Buck, it's the solemn [[Truth|truth]],
+that nothing has ever happened to you in your life.  Nothing had
+ever happened to me in my life."
 
-[[Adam Wayne]] laid his hand for a moment on the [[Sword|sword]], then dropped it.
+"Nothing ever happened!" said Buck, staring.  "What do you mean?"
 
-"Notting [[Hill]]," he said, "will need her bolder sons;" and he turned
-gloomily to the toy-shop.
+"Nothing has ever happened," repeated Barker, with a
+morbid obstinacy.  "You don't know what a thing happening means?
+You sit in your office expecting customers, and customers come;
+you walk in the street expecting friends, and friends meet you;
+you want a drink and get it; you feel inclined for a bet and make it.
+You expect either to win or lose, and you do either one or the other.
+But things happening!" and he shuddered ungovernably.
 
-It was one of those queer little shops so constantly seen in
-the side streets of [[London]], which must be called toy-shops only
-because toys upon the whole predominate; for the remainder of goods
-seem to consist of almost everything else in the world...tobacco,
-exercise-books, sweet-stuff, novelettes, halfpenny paper clips,
-halfpenny pencil sharpeners, bootlaces, and cheap fireworks.
-It also sold newspapers, and a row of dirty-looking posters hung
-along the front of it.
+"Go on," said Buck, shortly.  "Get on."
 
-"I am afraid," said Wayne, as he entered, "that I am not getting
-on with these tradesmen as I should.  Is it that I have neglected
-to rise to the full meaning of their work?  Is there some secret
-buried in each of these shops which no mere poet can discover?"
+"As we walked wearily round the corners, something happened.
+When something happens, it happens first, and you see it afterwards.
+It happens of itself, and you have nothing to do with it.  It proves
+a dreadful thing...that there are other things besides one's [[Self|self]].
+I can only put it in this way.  We went round one turning, two turnings,
+three turnings, four turnings, five.  Then I lifted myself slowly
+up from the gutter where I had been shot half senseless, and was
+beaten down again by living men crashing on top of me, and the world
+was full of roaring, and big men [[rolling]] about like ninepins."
 
-He stepped to the counter with a depression which he rapidly conquered
-as he addressed the man on the other side of it...a man of short stature,
-and hair prematurely white, and the look of a large baby.
+Buck looked at his map with knitted brows.
 
-"Sir," said Wayne, "I am going from [[house]] to [[house]] in this street of ours,
-seeking to stir up some sense of the danger which now threatens
-our [[City|city]].  Nowhere have I felt my duty so difficult as here.
-For the toy-shop keeper has to do with all that remains to us of Eden
-before the first wars began.  You sit here meditating continually
-upon the wants of that wonderful [[Time|time]] when every staircase leads
-to the [[Stars|stars]], and every [[Garden|garden]]-path to the other end of nowhere.
-Is it thoughtlessly, do you think, that I strike the dark old drum
-of peril in the paradise of children?  But consider a moment;
-do not condemn me hastily.  Even that paradise itself contains
-the rumour or beginning of that danger, just as the Eden that was made
-for perfection contained the terrible tree.  For judge [[Childhood|childhood]],
-even by your own arsenal of its pleasures.  You keep bricks;
-you make yourself thus, doubtless, the witness of the constructive
-instinct older than the destructive.  You keep dolls; you make
-yourself the priest of that divine idolatry.  You keep Noah's Arks;
-you perpetuate the [[Memory|memory]] of the salvation of all life as a precious,
-an irreplaceable thing.  But do you keep only, sir, the symbols
-of this prehistoric [[Sanity|sanity]], this childish rationality of the earth?
-Do you not keep more terrible things?  What are those boxes,
-seemingly of lead soldiers, that I see in that glass case?
-Are they not witnesses to that terror and [[Beauty|beauty]], that [[Desire|desire]] for a
-lovely [[Death|death]], which could not be excluded even from the [[Immortality|immortality]]
-of Eden?  Do not despise the lead soldiers, Mr. Turnbull."
+"Was that Portobello [[Road]]?" he asked.
 
-"I don't," said Mr. Turnbull, of the toy-shop, shortly,
-but with great emphasis.
+"Yes," said Barker.  "Yes; Portobello [[Road]]...I saw it afterwards;
+but, my God...what a place it was!  Buck, have you ever stood
+and let a six foot of a man lash and lash at your head with six feet
+of pole with six pounds of steel at the end?  Because, when you
+have had that experience, as Walt Whitman says, 'you re-examine
+philosophies and religions.'  "
 
-"I am glad to hear it," replied Wayne.  "I confess that I feared
-for my military schemes the awful [[innocence]] of your profession.
-How, I thought to myself, will this man, used only to the wooden
-swords that give pleasure, think of the steel swords that give [[Pain|pain]]?
-But I am at least partly reassured.  Your tone suggests to me that I have
-at least the entry of a gate of your fairyland...the gate through which
-the soldiers enter, for it cannot be denied...I ought, sir, no longer
-to deny, that it is of soldiers that I come to speak.  Let your gentle
-employment make you merciful towards the troubles of the world.
-Let your own silvery experience tone down our sanguine sorrows.
-For there is war in Notting [[Hill]]."
+"I have no [[Doubt|doubt]]," said Buck.  "If that was Portobello [[Road]],
+don't you see what happened?"
 
-The little toy-shop keeper sprang up suddenly, slapping his fat
-hands like two fans on the counter.
+"I know what happened exceedingly [[Well|well]].  I was knocked down four times;
+an experience which, as I say, has an effect on the mental attitude.
+And another thing happened, too.  I knocked down two men.
+After the fourth fall (there was not much bloodshed...more brutal
+rushing and throwing...for nobody could use their weapons),
+after the fourth fall, I say, I got up like a devil,
+and I tore a poleaxe out of a man's hand and struck where I
+saw the scarlet of Wayne's fellows, struck again and again.
+Two of them went over, bleeding oh the stones, thank God...and I
+laughed and found myself sprawling in the gutter again, and got
+up again, and struck again, and broke my halberd to pieces.
+I hurt a man's head, though."
 
-"War?" he cried.  "Not really, sir?  Is it true?  Oh, what a joke?
-Oh, what a sight for sore eyes!"
+Buck set down his glass with a bang, and spat out curses through
+his thick moustache.
 
-Wayne was almost taken aback by this outburst.
+"What is the matter?" asked Barker, stopping, for the man had
+been calm up to now, and now his agitation was far more violent
+than his own.
 
-"I am delighted," he stammered.  "I had no notion..."
+"The matter?" said Buck, bitterly; "don't you see how these maniacs
+have got us?  Why should two idiots, one a clown and the other
+a screaming lunatic, make sane men so different from themselves?
+Look here, Barker; I will give you a picture.  A very [[Well|well]]-bred
+young man of this century is dancing about in a frock-coat. He
+has in his hands a nonsensical seventeenth century halberd,
+with which he is trying to kill men in the street in Notting [[Hill]].
+Damn it! don't you see how they've got us?  Never mind how you
+felt...that is how you looked.  The [[King]] would put his cursed head
+on one side and call it exquisite.  The Provost of Notting [[Hill]]
+would put his cursed nose in the air and call it heroic.
+But in Heaven's name what would you have called it...two days before?"
 
-He sprang out of the way just in [[Time|time]] to avoid Mr. Turnbull,
-who took a flying leap over the counter and dashed to the front
-of the shop.
+Barker bit his lip.
 
-"You look here, sir," he said; "you just look here."
+"You haven't been through it, Buck," he said.  "You don't
+understand fighting...the atmosphere."
 
-He came back with two of the torn posters in his hand which were
-flapping outside his shop.
+"I don't deny the atmosphere," said Buck, striking the table.
+"I only say it's their atmosphere.  It's [[Adam Wayne]]'s atmosphere.
+It's the atmosphere which you and I thought had vanished from
+an educated world for ever."
 
-"Look at those, sir," he said, and flung them down on the counter.
+"[[Well]], it hasn't," said Barker; "and if you have any lingering doubts,
+lend me a poleaxe and I'll show you."
 
-Wayne bent over them, and read on one:
+There was a long [[Silence|silence]], and then Buck turned to his neighbour
+and spoke in that good-tempered tone that comes of a power of looking
+facts in the face; the tone in which he concluded great bargains.
 
-"LAST FIGHTING.  REDUCTION OF THE CENTRAL DERVISH [[City|CITY]].  REMARKABLE, ETC."
+"Barker," he said, "you are right.  This old thing...this fighting,
+has come back.  It has come back suddenly and taken us by surprise.
+So it is first [[Blood|blood]] to [[Adam Wayne]].  But, unless reason and arithmetic
+and everything else have gone crazy, it must be next and last
+[[Blood|blood]] to us.  But when an issue has really arisen, there is only
+one thing to do...to study that issue as such and win in it.
+Barker, since it is fighting, we must understand fighting.
+I must understand fighting as coolly and completely as I
+understand drapery; you must understand fighting as coolly and
+completely as you understand politics.  Now, look at the facts.
+I stick without hesitation to my original formula.  Fighting, when we
+have the stronger force, is only a matter of arithmetic.  It must be.
+You asked me just now how two hundred men could defeat six hundred.
+I can tell you.  Two hundred men can defeat six hundred when the six
+hundred behave like fools.  When they forget the very conditions they
+are fighting in; when they fight in a swamp as if it were a mountain;
+when they fight in a forest as if it were a plain; when they fight
+in streets without remembering the object of streets."
 
-On the other he read:
+"What is the object of streets?" asked Barker.
 
-"LAST SMALL REPUBLIC ANNEXED.  NICARAGUAN CAPITAL SURRENDERS AFTER
-A MONTH'S FIGHTING.  GREAT SLAUGHTER."
+"What is the object of supper?" cried Buck, furiously.
+"Isn't it obvious?  This military science is mere common sense.
+The object of a street is to lead from one place to another;
+therefore all streets join; therefore street fighting is quite
+a peculiar thing.  You advanced into that hive of streets as if you
+were advancing into an open plain where you could see everything.
+Instead of that you were advancing into the bowels of a fortress,
+with streets pointing at you, streets turning on you,
+streets jumping out at you, and all in the hands of the enemy.
+Do you know what Portobello [[Road]] is?  It is the only point on
+your [[Journey|journey]] where two side streets run up opposite each other.
+Wayne massed his men on the two sides, and when he had let
+enough of your line go past, cut it in two like a worm.
+Don't you see what would have saved you?"
 
-Wayne bent over them again, evidently puzzled; then he looked at
-the dates.  They were both dated in August fifteen years before.
+Barker shook his head.
 
-"Why do you keep these old things?" he said, startled entirely
-out of his absurd tact of mysticism.  "Why do you hang them
-outside your shop?"
+"Can't your 'atmosphere' help you?" asked Buck, bitterly.
+"Must I attempt explanations in the romantic manner?  Suppose that,
+as you were fighting blindly with the red Notting Hillers who
+imprisoned you on both sides, you had heard a shout from behind them.
+Suppose, oh, romantic Barker! that behind the red tunics you had
+seen the blue and gold of South Kensington taking them in the rear,
+surrounding them in their turn and hurling them on to your halberds."
 
-"Because," said the other simply, "they are the records of the last war.
-You mentioned war just now.  It happens to be my hobby."
+"If the thing had been possible," began Barker, cursing.
 
-Wayne lifted his large blue eyes with an infantile [[Wonder|wonder]].
+"The thing would have been as possible," said Buck, simply; "as simple
+as arithmetic.  There are a certain number of street entries that lead
+to Pump Street.  There are not nine hundred; there are not nine million.
+They do not grow in the [[Night|night]].  They do not increase like mushrooms.
+It must be possible with such an overwhelming force as we have
+to advance by all of them at once.  In every one of the arteries,
+or approaches, we can put almost as many men as Wayne can put into
+the field altogether.  Once do that and we have him to demonstration.
+It is like a proposition in Euclid."
 
-"Come with me," said Turnbull, shortly, and led him into a parlour
-at the back of the shop.
+"You think that is certain," said Barker, anxious but
+dominated delightfully.
 
-In the centre of the parlour stood a large deal table.
-On it were set rows and rows of the tin and lead soldiers which were
-part of the shopkeeper's stock.  The visitor would have thought
-nothing of it if it had not been for a certain odd grouping of them,
-which did not seem either entirely commercial or entirely haphazard.
+"I'll tell you what I think," said Buck, getting up jovially.
+"I think [[Adam Wayne]] made an uncommonly spirited little fight.
+And I think I am confoundedly sorry for him."
 
-"You are acquainted, no [[Doubt|doubt]]," said Turnbull, turning his big eyes
-upon Wayne "you are acquainted, no [[Doubt|doubt]], with the arrangement
-of the American and Nicaraguan troops in the last battle."
-And he waved his hand towards the table.
+"Buck, you are a great man," cried Barker, rising also.
+"You've knocked me sensible again.  I am ashamed to say it,
+but I was getting romantic.  Of course, what you say is
+adamantine sense.  Fighting, being physical, must be mathematical.
+We were beaten because we were neither mathematical nor
+physical nor anything else...because we deserved to be beaten.
+Hold all the approaches, and with our force we must have him.
+When shall we open the next campaign?"
 
-"I am afraid not," said Wayne.  "I..."
+"Now," said Buck, and walked out of the bar.
 
-"Ah, you were at that [[Time|time]] occupied too much, perhaps with
-the Dervish affair.  You will find it in this corner."
-And he pointed to a part of the floor where there was another
-arrangement of children's soldiers grouped here and there.
+"Now!" cried Barker, following him eagerly.  "Do you mean now?
+It is so late."
 
-"You seem," said Wayne, "to be interested in military matters."
+Buck turned on him, stamping.
 
-"I am interested in nothing else," answered the toy-shop keeper, simply.
-
-Wayne appeared convulsed with a singular, suppressed excitement.
-
-"In that case," he said, "I may approach you with an unusual degree
-of confidence.  Touching the matter of the defence of Notting [[Hill]], I..."
-
-"Defence of Notting [[Hill]]?  Yes, sir.  This way, sir," said Turnbull,
-with great perturbation.  "Just step into this side room;"
-and he led Wayne into another apartment, in which the table
-was entirely covered with an arrangement of children's bricks.
-A second glance at it told Wayne that the bricks were arranged
-in the form of a precise and perfect plan of Notting [[Hill]].
-"Sir," said Turnbull, impressively, "you have, by a kind of accident,
-hit upon the whole secret of my life.  As a boy, I grew up among the last
-wars of the world, when Nicaragua was taken and the dervishes wiped out.
-And I adopted it as a hobby, sir, as you might adopt astronomy
-or bird-stuffing. I had no ill-will to any one, but I was interested
-in war as a science, as a game.  And suddenly I was bowled out.
-The big Powers of the world, having swallowed up all the small ones,
-came to that confounded agreement, and there was no more war.
-There was nothing more for me to do but to do what I do now...to
-read the old campaigns in dirty old newspapers, and to work them
-out with tin soldiers.  One other thing had occurred to me.
-I thought it an amusing fancy to make a plan of how this
-district of ours ought to be defended if it were ever attacked.
-It seems to interest you too."
-
-"If it were ever attacked," repeated Wayne, awed into an
-almost mechanical.  enunciation.  "Mr. Turnbull, it is attacked.
-Thank Heaven, I am bringing to at least one human being the news
-that is at [[Bottom|bottom]] the only good news to any son of Adam.  Your life has
-not been useless.  Your work has not been play.  Now, when the hair
-is already grey on your head, Turnbull, you shall have your youth.
-God has not destroyed it, He has only deferred it.  Let us sit down here,
-and you shall explain to me this military map of Notting [[Hill]].
-For you and I have to defend Notting [[Hill]] together."
-
-Mr. Turnbull looked at the other for a moment, then hesitated,
-and then sat down beside the bricks and the stranger.
-He did not rise again for seven hours, when the [[Dawn|dawn]] broke.
+"Do you think fighting is under the Factory Acts?" he said.
+And he called a cab.  "Notting [[Hill]] Gate Station," he said,
+and the two drove off.
 
 . . . . .
 
-The headquarters of Provost [[Adam Wayne]] and his Commander-in-Chief
-consisted of a small and somewhat unsuccessful milk-shop at the corner
-of Pump Street.  The blank white morning had only just begun
-to break over the blank [[London]] buildings when Wayne and Turnbull
-were to be found seated in the cheerless and unswept shop.
-Wayne had something feminine in his character; he belonged to that
-class of persons who forget their meals when anything interesting
-is in hand.  He had had nothing for sixteen hours but hurried
-glasses of milk, and, with a glass standing empty beside him,
-he was writing and sketching and dotting and crossing out with
-inconceivable rapidity with a pencil and a piece of paper.
-Turnbull was of that more masculine type in which a sense of
-responsibility increases the appetite, and with his [[Sketch|sketch]]-map
-beside him he was dealing strenuously with a pile of sandwiches
-in a paper packet, and a tankard of ale from the tavern opposite,
-whose shutters had just been taken down.  Neither of them spoke,
-and there was no sound in the living stillness except the scratching
-of Wayne's pencil and the squealing of an aimless-looking cat.
-At length Wayne broke the [[Silence|silence]] by saying:
+A genuine reputation can sometimes be made in an hour.  Buck, in the next
+sixty or eighty minutes showed himself a really great man of action.
+His cab carried him like a thunderbolt from the [[King]] to Wilson,
+from Wilson to Swindon, from Swindon to Barker again;
+if his course was jagged, it had the jaggedness of the [[Lightning|lightning]].
+Only two things he carried with him, his inevitable cigar
+and the map of North Kensington and Notting [[Hill]].  There were,
+as he again and again pointed out, with every variety of [[Persuasion|persuasion]]
+and violence, only nine possible ways of approaching Pump Street
+within a quarter of a mile around it; three out of Westbourne Grove,
+two out of Ladbroke Grove, and four out of Notting [[Hill]] High Street.
+And he had detachments of two hundred each, stationed at every
+one of the entrances before the last green of that strange sunset
+had sunk out of the black sky.
 
-"Seventeen pounds, eight shillings and nine-pence."
+The sky was particularly black, and on this [[Alone|alone]] was one false
+protest raised against the triumphant optimism of the Provost of
+North Kensington.  He overruled it with his infectious common sense.
 
-Turnbull nodded and put his head in the tankard.
+"There is no such thing," he said, "as [[Night|night]] in [[London]].
+You have only to follow the line of street lamps.  Look, here is the map.
+Two hundred purple North Kensington soldiers under myself march
+up Ossington Street, two hundred more under Captain Bruce,
+of the North Kensington Guard, up Clanricarde Gardens.
+[Clanricarde Gardens at this [[Time|time]] was no longer a cul-de-sac,
+but was connected by Pump Street to Pembridge Square.  See map.] Two
+hundred yellow West Kensingtons under Provost Swindon attack from
+Pembridge [[Road]].  Two hundred more of my men from the eastern streets,
+leading away from [[Queen]]'s [[Road]].  Two detachments of yellows enter
+by two roads from Westbourne Grove.  Lastly, two hundred green
+Bayswaters come down from the North through Ghepstow Place,
+and two hundred more under Provost Wilson himself, through the upper
+part of Pembridge [[Road]].  Gentlemen, it is mate in two moves.
+The enemy must either mass in Pump Street and be cut to pieces...or
+they must retreat past the Gaslight & Coke Co....and rush on my four
+hundred...or they must retreat past St. Luke's Church and rush on
+the six hundred from the West.  Unless we are all mad, it's plain.
+Come on.  To your quarters and await Captain Brace's signal to advance.
+Then you have only to walk up a line of gas-lamps and smash this nonsense
+by pure mathematics.  To-morrow we shall be all civilians again."
 
-"That," said Wayne, "is not counting the five pounds you took yesterday.
-What did you do with it?"
+His optimism glowed like a great [[Fire|fire]] in the [[Night|night]], and ran
+round the terrible ring in which Wayne was now held helpless.
+The fight was already over.  One's man energy for one hour had saved
+the [[City|city]] from war.
 
-"Ah, that is rather interesting!" replied Turnbull, with his mouth full.
-"I used that five pounds in a kindly and philanthropic act."
+For the next ten minutes Buck walked up and down silently beside
+the motionless clump of his two hundred.  He had not changed his
+appearance in any way, except to sling across his yellow overcoat
+a case with a revolver in it.  So that his light-clad modern figure
+showed up oddly beside the pompous purple uniforms of his halberdiers,
+which darkly but richly coloured the black [[Night|night]].
 
-Wayne was gazing with [[Mystification|mystification]] in his queer and [[Innocent|innocent]] eyes.
+At length a shrill trumpet rang from some way up the street;
+it was the signal of advance.  Buck briefly gave the word, and the whole
+purple line, with its dimly shining steel, moved up the side alley.
+Before it was a slope of street, long, straight, and shining in the dark.
+It was a [[Sword|sword]] pointed at Pump Street, the heart at which nine
+other swords were pointed that [[Night|night]].
 
-"I used that five pounds," continued the other, "in giving no less
-than forty little [[London]] boys rides in hansom cabs."
+A quarter of an hour's silent marching brought them almost within
+earshot of any tumult in the doomed citadel.  But still there
+was no sound and no sign of the enemy.  This [[Time|time]], at any rate,
+they knew that they were closing in on it mechanically, and they
+marched on under the lamplight and the dark without any of that eerie
+sense of ignorance which Barker had felt when entering the hostile
+country by one avenue [[Alone|alone]].
 
-"Are you insane?" asked the Provost.
+"Halt...point arms!" cried Buck, suddenly, and as he,
+spoke there came a clatter of feet tumbling along the stones.
+But the halberds were levelled in vain.  The figure that rushed up
+was a messenger from the contingent of the North.
 
-"It is only my light touch," returned Turnbull.  "These hansom-cab
-rides will raise the tone...raise the tone, my dear fellow...of
-our [[London]] youths, widen their horizon, brace their nervous system,
-make them acquainted with the various public monuments of our great [[City|city]].
-[[Education]], Wayne, [[Education|education]].  How many excellent thinkers have pointed out
-that political [[Reform|reform]] is useless until we produce a cultured populace.
-So that twenty years hence, when these boys are grown up..."
+"Victory, Mr. Buck!" he cried, panting, "they are ousted.
+Provost Wilson of Bayswater has taken Pump Street."
 
-"Mad!" said Wayne, laying down his pencil; "and five pounds gone!"
+Buck ran forward in his excitement.
 
-"You are in error," explained Turnbull.  "You [[Grave|grave]] creatures
-can never be brought to understand how much quicker work
-really goes with the assistance of nonsense and good meals.
-Stripped of its decorative beauties, my statement was strictly accurate.
-Last [[Night|night]] I gave forty half-crowns to forty little boys,
-and sent them all over [[London]] to take hansom cabs.  I told them
-in every case to tell the [[cabman]] to bring them to this spot.
-In half an hour from now the declaration of war will be posted up.
-At the same [[Time|time]] the cabs will have begun to come in, you will have
-ordered out the guard, the little boys will drive up in state,
-we shall commandeer the horses for cavalry, use the cabs for barricade,
-and give the men the choice between serving in our ranks and detention
-in our basements and cellars.  The little boys we can use as scouts.
-The main thing is that we start the war with an advantage unknown
-in all the other armies...horses. And now," he said, finishing his beer,
-"I will go and drill the troops."
+"Then, which way are they retreating?  It must be either by St. Luke's
+to meet Swindon, or by the Gas Company to meet us.  Run like mad
+to Swindon and see that the yellows are holding the St. Luke's [[Road]].
+We will hold this, never [[Fear|fear]].  We have them in an iron trap.  Run!"
 
-And he walked out of the milk-shop, leaving the Provost staring.
+As the messenger dashed away into the darkness, the great guard
+of North Kensington swung on with the certainty of a [[Machine|machine]].
+Yet scarcely a hundred yards further their halberd points again fell
+in line gleaming in the gaslight.  For again a clatter of feet was
+heard on the stones, and again it proved to be only the messenger.
 
-A minute or two afterwards, the Provost laughed.  He only laughed
-once or twice in his life, and then he did it in a queer way as if it
-were an art he had not mastered.  Even he saw something funny
-in the preposterous coup of the half-crowns and the little boys.
-He did not see the monstrous absurdity of the whole policy
-and the whole war.  He enjoyed it seriously as a crusade,
-that is, he enjoyed it far more than any joke can be enjoyed.
-Turnbull enjoyed it partly as a joke, even more perhaps as a reversion
-from the things he hated...modernity and monotony and civilization.
-To break up the vast machinery of modern life and use the fragments as
-engines of war, to make the barricade of omnibuses and points of vantage
-of chimneypots, was to him a game worth infinite risk and trouble.
-He had that rational and deliberate preference which will always
-to the end trouble the peace of the world, the rational and deliberate
-preference for a short life and a merry one.
+"Mr. Provost," he said, "the yellow West Kensingtons have been
+holding the [[Road|road]] by St. Luke's for twenty minutes since the capture
+of Pump Street.  Pump Street is not two hundred yards away,
+they cannot be retreating down that [[Road|road]]."
+
+"Then they are retreating down this!" said Provost Buck, with a
+final cheerfulness, "and by good fortune down a [[Well|well]]-lighted [[Road|road]],
+though it twists about.  Forward!"
+
+As they moved along the last three hundred yards of their [[Journey|journey]],
+Buck fell, for the first [[Time|time]] in his life, perhaps, into a kind
+of philosophical reverie, for men of his type are always made kindly,
+and as it were [[Melancholy|melancholy]], by [[success]].
+
+"I am sorry for poor old Wayne, I really am," he thought.
+"He spoke up splendidly for me at that Council.
+And he blacked old Barker's eye with considerable spirit.
+But I don't see what a man can expect when he fights against arithmetic,
+to say nothing of civilization.  And what a wonderful hoax all
+this military genius is.  I suspect I've just discovered what
+Cromwell discovered, that a sensible tradesman is the best general,
+and that a man who can buy men and sell men can lead and kill them.
+The thing's simply like adding up a column in a ledger.  If Wayne has
+two hundred men, he can't put two hundred men in nine places at once.
+If they're ousted from Pump Street they're flying somewhere.
+If they're not flying past the church they're flying past the Works.
+And so we have them.  We business men should have no chance at
+all except that cleverer people than we get [[Bees|bees]] in their bonnets
+that prevent them from reasoning properly...so we reason [[Alone|alone]].
+And so I, who am comparatively stupid, see things as God sees them,
+as a vast [[Machine|machine]].  My God, what's this?"  And he clapped his hands
+to his eyes and staggered back.
+
+Then through the darkness he cried in a dreadful voice:
+
+"Did I blaspheme God?...I am struck blind."
+
+"What?" wailed another voice behind him, the voice of a certain
+Wilfred Jarvis of North Kensington.
+
+"Blind!" cried Buck; "blind!"
+
+"I'm blind, too!" cried Jarvis, in an agony.
+
+"Fools, all of you," said a gross voice behind them; "we're all blind.
+The lamps have gone out."
+
+"The lamps...but why? where?" cried Buck, turning furiously in
+the darkness.  "How are we to get on?  How are we to chase the enemy?
+Where have they gone?"
+
+"The enemy went..." said the rough voice behind,
+and then stopped, doubtfully.
+
+"Where?" shouted Buck, stamping like a madman.
+
+"They went," said the gruff voice, "past the Gas Works, and they've
+used their chance."
+
+"Great God!" thundered Buck, and snatched at his revolver;
+"do you mean they've turned out..."
+
+But almost before he had spoken the words, he was hurled like a stone
+from a catapult into the midst of his own men.
+
+"Notting [[Hill]]!  Notting [[Hill]]!" cried frightful voices out of the darkness,
+and they seemed to come from all sides, for the men of North Kensington,
+unacquainted with the [[Road|road]], had lost all their bearings in the black
+world of blindness.
+
+"Notting [[Hill]]!  Notting [[Hill]]!" cried the invisible people,
+and the invaders were hewn down horribly with black steel,
+with steel that gave no glint against any light.
+
+. . . . .
+
+Buck, though badly maimed with the blow of a halberd, kept an angry
+but splendid [[Sanity|sanity]].  He groped madxy for the wall and found it.
+Struggling with crawling fingers along it, he found a side
+opening and retreated into it with the remnants of his men.
+Their adventures during that prodigious [[Night|night]] are not to be described.
+They did not know whether they were going towards or away from the enemy.
+Not knowing where they themselves were, or where their opponents were,
+it was mere irony to ask where was the rest of their army.
+For a thing had descended upon them which [[London]] does
+not know...darkness, which was before the [[Stars|stars]] were made, and they
+were as much lost in it as if they had been made before the [[Stars|stars]].
+Every now and then, as those frightful hours wore on, they buffetted
+in the darkness against living men, who struck at them and at whom
+they struck, with an idiot fury.  When at last the grey [[Dawn|dawn]] came,
+they found they had wandered back to the edge of the Uxbridge [[Road]].
+They found that in those horrible eyeless encounters,
+the North Kensingtons and the Bayswaters and the West Kensingtons
+had again and again met and butchered each other, and they heard
+that [[Adam Wayne]] was barricaded in Pump Street.

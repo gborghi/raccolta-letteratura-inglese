@@ -21,7 +21,7 @@ Those articles which expose and explode Spiritualism are
 certainly calculated to make converts to that [[Novel|novel]] creed;
 but fortunately the balance is redressed by the articles
 which defend and expound Spiritualism, which will probably
-make any thoughtful [[convert]] hastily recant his [[Conversion|conversion]].
+make any thoughtful [[convert]] hastily recant his [[conversion]].
 I believe myself that nothing but advantage can accrue
 to Spiritualism from all criticisms founded on Materialism.
 I think there is a mystical minimum in human [[history]] and experience,

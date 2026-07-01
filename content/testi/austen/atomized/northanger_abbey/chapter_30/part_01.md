@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 29 (part 1)"
+title: "Northanger Abbey — Chapter 29 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/works/northanger-abbey-(austen)">Northanger Abbey</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_29/part_03">‹ part 03</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_30/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_29/part_04">‹ part 04</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_30/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -199,13 +199,3 @@ widely different; I bring back my heroine to her [[Home|home]] in [[Solitude|sol
 disgrace; and no sweet elation of spirits can lead me into minuteness.
 
 A heroine in a hack post-chaise is such a blow upon sentiment, as no
-
-attempt at grandeur or pathos can withstand. Swiftly therefore shall
-
-her post-boy drive through the village, amid the gaze of [[Sunday]] groups,
-
-and speedy shall be her descent from it.
-
-
-
-But, whatever might be the distress of Catherine’s mind, as she thus

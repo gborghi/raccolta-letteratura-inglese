@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 22 (part 2)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 22 (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_21/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_21/part_03">part 03 ›</a></div>
 </nav>
 
+
+great [[success]], however, came too late for the salvation of our devoted
+
+people. The canoe party were already on board the schooner to the
 
 number of more than a hundred and fifty, the most of them having
 
@@ -193,11 +197,3 @@ recommencing, when suddenly a mass of smoke puffed up from the decks,
 resembling a black and heavy thunder-cloud--then, as if from its
 
 bowels, arose a tall stream of vivid [[Fire|fire]] to the height, apparently, of
-
-a quarter of a mile--then there came a sudden circular expansion of the
-
-flame--then the whole atmosphere was magically crowded, in a single
-
-instant, with a wild chaos of wood, and metal, and human limbs--and,
-
-lastly, came the concussion in its fullest fury, which hurled us

@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 57 (part 3)"
+title: "Nicholas Nickleby — Chapter 57 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,36 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_57/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_57/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘That’s the [[Time|time]] of day!’ said Mr. Squeers. ‘You look twenty pound ten
+better than you did.’
+
+Again Mrs. Sliderskew chuckled, but modesty forbade her assenting
+verbally to the compliment.
+
+‘Twenty pound ten better,’ repeated Mr. Squeers, ‘than you did that day
+when I first introduced myself. Don’t you know?’
+
+‘Ah!’ said Peg, shaking her head, ‘but you frightened me that day.’
+
+‘Did I?’ said Squeers; ‘[[Well|well]], it was rather a startling thing for a
+stranger to come and recommend himself by saying that he knew all about
+you, and what your name was, and why you were living so quiet here, and
+what you had boned, and who you boned it from, wasn’t it?’
+
+Peg nodded her head in strong assent.
+
+‘But I know everything that happens in that way, you see,’ continued
+Squeers. ‘Nothing takes place, of that kind, that I an’t up to
+entirely. I’m a sort of a lawyer, Slider, of first-rate standing, and
+understanding too; I’m the intimate friend and confidential adwiser
+of pretty nigh every man, woman, and [[Child|child]] that gets themselves into
+difficulties by being too nimble with their fingers, I’m--’
+
+Mr. Squeers’s catalogue of his own merits and accomplishments, which
+was partly the result of a concerted plan between himself and Ralph
+Nickleby, and flowed, in part, from the black bottle, was here
+interrupted by Mrs. Sliderskew.
 
 ‘Ha, ha, ha!’ she cried, folding her arms and wagging her head; ‘and so
 he wasn’t married after all, wasn’t he. Not married after all?’
@@ -105,33 +135,3 @@ get any money by, we’ll keep; and if there’s any we could get him into
 trouble by, and fret and waste away his heart to shreds, those we’ll
 take particular care of; for that’s what I want to do, and what I hoped
 to do when I left him.’
-
-‘I thought,’ said Squeers, ‘that you didn’t bear him any particular
-good-will. But, I say, why didn’t you take some money besides?’
-
-‘Some what?’ asked Peg.
-
-‘Some money,’ roared Squeers. ‘I do believe the woman hears me, and
-wants to make me break a wessel, so that she may have the pleasure of
-nursing me. Some money, Slider, money!’
-
-‘Why, what a man you are to ask!’ cried Peg, with some contempt. ‘If I
-had taken money from [[arthur|Arthur]] Gride, he’d have scoured the whole earth to
-find me--aye, and he’d have smelt it out, and raked it up, somehow, if
-I had buried it at the [[Bottom|bottom]] of the deepest [[Well|well]] in England. No, no!
-I knew better than that. I took what I thought his [[Secrets|secrets]] were hid in:
-and them he couldn’t afford to make public, let’em be worth ever so much
-money. He’s an old dog; a sly, old, cunning, thankless dog! He first
-starved, and then tricked me; and if I could I’d kill him.’
-
-‘All right, and very laudable,’ said Squeers. ‘But, first and foremost,
-Slider, burn the box. You should never keep things as may lead to
-discovery. Always mind that. So while you pull it to pieces (which you
-can easily do, for it’s very old and rickety) and burn it in little
-bits, I’ll look over the papers and tell you what they are.’
-
-Peg, expressing her acquiescence in this arrangement, Mr. Squeers turned
-the box [[Bottom|bottom]] upwards, and tumbling the contents upon the floor, handed
-it to her; the destruction of the box being an extemporary device for
-engaging her attention, in case it should prove desirable to distract it
-from his own proceedings.

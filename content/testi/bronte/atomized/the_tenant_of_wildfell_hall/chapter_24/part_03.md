@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 24 (part 3)"
+title: "The Tenant of Wildfell Hall — Chapter 24 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,28 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_24/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_25/part_01">part 01 ›</a></div>
 </nav>
 
+
+“No,” was the answer, and I shut the door and departed. I saw nothing
+
+more of him till the following morning at breakfast, when he came down
+
+a full hour after the usual [[Time|time]].
+
+
+
+“You’re very late,” was my morning’s salutation.
+
+
+
+“You needn’t have waited for me,” was his; and he walked up to the
+
+[[Window|window]] again. It was just such weather as yesterday.
+
+
+
+“Oh, this confounded rain!” he muttered. But, after studiously
+
+regarding it for a minute or two, a bright idea, seemed to strike him,
 
 for he suddenly exclaimed, “But I know what I’ll do!” and then returned
 
@@ -128,7 +150,7 @@ forehead sunk upon his arm.
 
 
 
-“Where do you want to go, [[arthur|Arthur]]?” said I.
+“Where do you want to go, [[Arthur]]?” said I.
 
 
 
@@ -214,7 +236,7 @@ never was happier in my life than at that moment.
 
 
 
-“Then you won’t go to [[London]], [[arthur|Arthur]]?” I said, when the first transport
+“Then you won’t go to [[London]], [[Arthur]]?” I said, when the first transport
 
 of [[Tears|tears]] and kisses had subsided.
 
@@ -250,7 +272,7 @@ So we are to go to [[London]] on Monday, the day after to-morrow. It is now
 
 four days since the termination of our quarrel, and I am sure it has
 
-done us both good: it has made me like [[arthur|Arthur]] a great deal better, and
+done us both good: it has made me like [[Arthur]] a great deal better, and
 
 made him behave a great deal better to me. He has never once attempted
 

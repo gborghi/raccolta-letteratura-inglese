@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 7 (part 1)"
+title: "Nicholas Nickleby — Chapter 7 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -160,10 +160,3 @@ convince me that it isn’t. I’d beat it out of him; and I told you that,
 six months ago.’
 
 ‘So you did, my [[Love|love]],’ rejoined Squeers. ‘We’ll try what can be done.’
-
-Pending these little endearments, Nicholas had stood, awkwardly enough,
-in the middle of the room: not very [[Well|well]] knowing whether he was expected
-to retire into the passage, or to remain where he was. He was now
-relieved from his perplexity by Mr. Squeers.
-
-‘This is the new young man, my dear,’ said that gentleman.

@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 13 (part 2)"
+title: "Our Mutual Friend — Chapter 17 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,122 +14,144 @@ tags:
 </nav>
 
 
-‘Your exact words,’ said John, laying his hand on hers.
+‘But, excuse me,’ says Podsnap, with his temper and his shirt-collar
+about equally rumpled; ‘was this young woman ever a female waterman?’
 
-‘That’s a very good arrangement,’ cried Mrs Boffin. ‘Keep it there,
-John. And as we was all of us in it, Noddy you come and lay yours a top
-of his, and we won’t break the pile till the story’s done.’
+‘Never. But she sometimes rowed in a boat with her father, I believe.’
 
-Mr Boffin hitched up a chair, and added his broad brown right hand to
-the heap.
+General sensation against the young woman. Brewer shakes his head. Boots
+shakes his head. Buffer shakes his head.
 
-‘That’s capital!’ said Mrs Boffin, giving it a kiss. ‘Seems quite a
-family building; don’t it? But the horses is off. [[Well]]! When I cries
-out that [[Night|night]], “I know you now! you’re John!” John catches of me, it
-is true; but I ain’t a light weight, bless ye, and he’s forced to let me
-down. Noddy, he hears a noise, and in he trots, and as soon as I anyways
-comes to myself I calls to him, “Noddy, [[Well|well]] I might say as I did say,
-that [[Night|night]] at the Bower, for the Lord be thankful this is John!” On
-which he gives a heave, and down he goes likewise, with his head under
-the writing-table. This brings me round comfortable, and that brings him
-round comfortable, and then John and him and me we all fall a crying for
-joy.’
+‘And now, Mr Lightwood, was she ever,’ pursues Podsnap, with his
+indignation rising high into those hair-brushes of his, ‘a factory
+girl?’
 
-‘Yes! They cry for joy, my darling,’ her husband struck in. ‘You
-understand? These two, whom I come to life to disappoint and dispossess,
-cry for joy!’
+‘Never. But she had some employment in a paper mill, I believe.’
 
-Bella looked at him confusedly, and looked again at Mrs Boffin’s radiant
-face.
+General sensation repeated. Brewer says, ‘Oh dear!’ Boots says, ‘Oh
+dear!’ Buffer says, ‘Oh dear!’ All, in a rumbling tone of protest.
 
-‘That’s right, my dear, don’t you mind him,’ said Mrs Boffin, ‘stick
-to me. [[Well]]! Then we sits down, gradually gets cool, and holds a
-confabulation. John, he tells us how he is despairing in his mind on
-accounts of a certain fair young person, and how, if I hadn’t found him
-out, he was going away to seek his fortune far and wide, and had fully
-meant never to come to life, but to leave the property as our wrongful
-inheritance for ever and a day. At which you never see a man so
-frightened as my Noddy was. For to think that he should have come into
-the property wrongful, however [[Innocent|innocent]], and—more than that—might have
-gone on keeping it to his dying day, turned him whiter than [[chalk]].’
+‘Then all I have to say is,’ returns Podsnap, putting the thing away
+with his right arm, ‘that my gorge rises against such a [[Marriage|marriage]]—that
+it offends and disgusts me—that it makes me sick—and that I [[Desire|desire]] to
+know no more about it.’
 
-‘And you too,’ said Mr Boffin.
+(‘Now I [[Wonder|wonder]],’ thinks Mortimer, amused, ‘whether YOU are the Voice of
+Society!’)
 
-‘Don’t you mind him, neither, my deary,’ resumed Mrs Boffin; ‘stick
-to me. This brings up a confabulation regarding the certain fair young
-person; when Noddy he gives it as his opinion that she is a deary
-creetur. “She may be a leetle spoilt, and nat’rally spoilt,” he says,
-“by circumstances, but that’s only the surface, and I lay my life,” he
-says, “that she’s the true golden gold at heart.”’
+‘Hear, hear, hear!’ cries Lady Tippins. ‘Your opinion of this
+MESALLIANCE, honourable colleagues of the honourable member who has just
+sat down?’
 
-‘So did you,’ said Mr Boffin.
+Mrs Podsnap is of opinion that in these matters there should be an
+equality of station and fortune, and that a man accustomed to Society
+should look out for a woman accustomed to Society and capable of bearing
+her part in it with—an ease and elegance of carriage—that.’ Mrs
+Podsnap stops there, delicately intimating that every such man should
+look out for a fine woman as nearly resembling herself as he may [[Hope|hope]] to
+discover.
 
-‘Don’t you mind him a single morsel, my dear,’ proceeded Mrs Boffin,
-‘but stick to me. Then says John, O, if he could but prove so! Then we
-both of us ups and says, that minute, “Prove so!”’
+(‘Now I [[Wonder|wonder]],’ thinks Mortimer, ‘whether you are the Voice!’)
 
-With a start, Bella directed a hurried glance towards Mr Boffin. But,
-he was sitting thoughtfully smiling at that broad brown hand of his, and
-either didn’t see it, or would take no notice of it.
+Lady Tippins next canvasses the Contractor, of five hundred thousand
+power. It appears to this potentate, that what the man in question
+should have done, would have been, to buy the young woman a boat and a
+small annuity, and set her up for herself. These things are a question
+of beefsteaks and porter. You buy the young woman a boat. Very good. You
+buy her, at the same [[Time|time]], a small annuity. You speak of that annuity in
+pounds sterling, but it is in reality so many pounds of beefsteaks and
+so many pints of porter. On the one hand, the young woman has the boat.
+On the other hand, she consumes so many pounds of beefsteaks and so many
+pints of porter. Those beefsteaks and that porter are the fuel to that
+young woman’s engine. She derives therefrom a certain amount of power to
+row the boat; that power will produce so much money; you add that to the
+small annuity; and thus you get at the young woman’s income. That (it
+seems to the Contractor) is the way of looking at it.
 
-‘“Prove it, John!” we says,’ repeated Mrs Boffin. ‘“Prove it and
-overcome your doubts with triumph, and be happy for the first [[Time|time]] in
-your life, and for the rest of your life.” This puts John in a state,
-to be sure. Then we says, “What will content you? If she was to stand up
-for you when you was slighted, if she was to show herself of a generous
-mind when you was oppressed, if she was to be truest to you when you was
-poorest and friendliest, and all this against her own seeming interest,
-how would that do?” “Do?” says John, “it would raise me to the skies.”
- “Then,” says my Noddy, “make your preparations for the ascent, John, it
-being my firm belief that up you go!”’
+The fair enslaver having fallen into one of her gentle sleeps during the
+last exposition, nobody likes to wake her. Fortunately, she comes
+awake of herself, and puts the question to the Wandering Chairman. The
+Wanderer can only speak of the case as if it were his own. If such a
+young woman as the young woman described, had saved his own life, he
+would have been very much obliged to her, wouldn’t have married her, and
+would have got her a berth in an Electric Telegraph Office, where young
+women answer very [[Well|well]].
 
-Bella caught Mr Boffin’s twinkling eye for half an instant; but he got
-it away from her, and restored it to his broad brown hand.
+What does the Genius of the three hundred and seventy-five thousand
+pounds, no shillings, and nopence, think? He can’t say what he thinks,
+without asking: Had the young woman any money?
 
-‘From the first, you was always a special favourite of Noddy’s,’ said
-Mrs Boffin, shaking her head. ‘O you were! And if I had been inclined
-to be jealous, I don’t know what I mightn’t have done to you. But as I
-wasn’t—why, my [[Beauty|beauty]],’ with a hearty laugh and an embrace, ‘I made you
-a special favourite of my own too. But the horses is coming round the
-corner. [[Well]]! Then says my Noddy, shaking his sides till he was fit to
-make ’em ache again: “Look out for being slighted and oppressed, John,
-for if ever a man had a hard master, you shall find me from this present
-[[Time|time]] to be such to you.” And then he began!’ cried Mrs Boffin, in an
-ecstacy of admiration. ‘Lord bless you, then he began! And how he DID
-begin; didn’t he!’
+‘No,’ says Lightwood, in an uncompromising voice; ‘no money.’
 
-Bella looked half frightened, and yet half laughed.
+‘[[Madness]] and moonshine,’ is then the compressed verdict of the Genius.
+‘A man may do anything lawful, for money. But for no money!—Bosh!’
 
-‘But, bless you,’ pursued Mrs Boffin, ‘if you could have seen him of a
-[[Night|night]], at that [[Time|time]] of it! The way he’d sit and chuckle over himself!
-The way he’d say “I’ve been a regular brown bear to-day,” and take
-himself in his arms and hug himself at the thoughts of the brute he had
-pretended. But every [[Night|night]] he says to me: “Better and better, old lady.
-What did we say of her? She’ll come through it, the true golden gold.
-This’ll be the happiest piece of work we ever done.” And then he’d say,
-“I’ll be a grislier old growler to-morrow!” and laugh, he would, till
-John and me was often forced to slap his back, and bring it out of his
-windpipes with a little [[Water|water]].’
+What does Boots say?
 
-Mr Boffin, with his face bent over his heavy hand, made no sound,
-but rolled his shoulders when thus referred to, as if he were vastly
-enjoying himself.
+Boots says he wouldn’t have done it under twenty thousand pound.
 
-‘And so, my good and pretty,’ pursued Mrs Boffin, ‘you was married, and
-there was we hid up in the church-organ by this husband of yours; for
-he wouldn’t let us out with it then, as was first meant. “No,” he says,
-“she’s so unselfish and contented, that I can’t afford to be rich yet. I
-must wait a little longer.” Then, when baby was expected, he says, “She
-is such a cheerful, glorious housewife that I can’t afford to be rich
-yet. I must wait a little longer.” Then when baby was born, he says,
-“She is so much better than she ever was, that I can’t afford to be rich
-yet. I must wait a little longer.” And so he goes on and on, till I says
-outright, “Now, John, if you don’t fix a [[Time|time]] for setting her up in her
-own [[house]] and [[Home|home]], and letting us walk out of it, I’ll turn Informer.”
- Then he says he’ll only wait to triumph beyond what we ever thought
-possible, and to show her to us better than even we ever supposed; and
-he says, “She shall see me under suspicion of having murdered myself,
-and YOU shall see how trusting and how true she’ll be.” [[Well]]! Noddy and
-me agreed to that, and he was right, and here you are, and the horses is
-in, and the story is done, and God bless you my [[Beauty]], and God bless us
-all!’
+What does Brewer say?
+
+Brewer says what Boots says.
+
+What does Buffer say?
+
+Buffer says he knows a man who married a bathing-woman, and bolted.
+
+Lady Tippins fancies she has collected the suffrages of the whole
+Committee (nobody dreaming of asking the Veneerings for their opinion),
+when, looking round the table through her eyeglass, she perceives Mr
+Twemlow with his hand to his forehead.
+
+Good gracious! My Twemlow forgotten! My dearest! My own! What is his
+vote?
+
+Twemlow has the air of being ill at ease, as he takes his hand from his
+forehead and replies.
+
+‘I am disposed to think,’ says he, ‘that this is a question of the
+feelings of a gentleman.’
+
+‘A gentleman can have no feelings who contracts such a [[Marriage|marriage]],’
+flushes Podsnap.
+
+‘Pardon me, sir,’ says Twemlow, rather less mildly than usual, ‘I don’t
+agree with you. If this gentleman’s feelings of gratitude, of respect,
+of admiration, and affection, induced him (as I presume they did) to
+marry this lady—’
+
+‘This lady!’ echoes Podsnap.
+
+‘Sir,’ returns Twemlow, with his wristbands bristling a little, ‘YOU
+repeat the word; I repeat the word. This lady. What else would you call
+her, if the gentleman were present?’
+
+This being something in the [[Nature|nature]] of a poser for Podsnap, he merely
+waves it away with a speechless wave.
+
+‘I say,’ resumes Twemlow, ‘if such feelings on the part of this
+gentleman, induced this gentleman to marry this lady, I think he is the
+greater gentleman for the action, and makes her the greater lady. I beg
+to say, that when I use the word, gentleman, I use it in the sense in
+which the degree may be attained by any man. The feelings of a gentleman
+I hold sacred, and I confess I am not comfortable when they are made the
+subject of sport or general discussion.’
+
+‘I should like to know,’ sneers Podsnap, ‘whether your noble relation
+would be of your opinion.’
+
+‘Mr Podsnap,’ retorts Twemlow, ‘permit me. He might be, or he might not
+be. I cannot say. But, I could not allow even him to dictate to me on a
+point of great delicacy, on which I feel very strongly.’
+
+Somehow, a canopy of wet blanket seems to descend upon the company, and
+Lady Tippins was never known to turn so very greedy or so very [[Cross|cross]].
+Mortimer Lightwood [[Alone|alone]] brightens. He has been asking himself, as to
+every other member of the Committee in turn, ‘I [[Wonder|wonder]] whether you are
+the Voice!’ But he does not ask himself the question after Twemlow has
+spoken, and he glances in Twemlow’s direction as if he were grateful.
+When the company disperse—by which [[Time|time]] Mr and Mrs Veneering have had
+quite as much as they want of the [[Honour|honour]], and the guests have had quite
+as much as THEY want of the other [[Honour|honour]]—Mortimer sees Twemlow [[Home|home]],
+shakes hands with him cordially at parting, and fares to the Temple,
+gaily.

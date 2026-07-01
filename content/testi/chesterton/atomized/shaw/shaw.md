@@ -1,5 +1,5 @@
 ---
-title: "[[Shaw]]"
+title: "Shaw"
 author: "Chesterton"
 unitType: work
 parentWork: "works/shaw-(chesterton)"
@@ -848,9 +848,9 @@ by the divorces and the adulteries as he is by the "splits."
 And he has always been foremost among the fierce modern critics
 who ask indignantly, "Why do you object to a thing full of sincere
 [[philosophy]] like THE WILD DUCk while you tolerate a mere dirty joke
-like THE [[Spring|SPRING]] CHICKEN?"  I do not think he has ever understood
+like THE [[spring|SPRING]] CHICKEN?"  I do not think he has ever understood
 what seems to me the very sensible answer of the man in the street,
-"I laugh at the dirty joke of THE [[Spring|SPRING]] CHICKEN because it is a joke.
+"I laugh at the dirty joke of THE [[spring|SPRING]] CHICKEN because it is a joke.
 I criticise the [[philosophy]] of THE WILD DUCk because it
 is a [[philosophy]]."
 
@@ -2182,7 +2182,7 @@ Into all this enters Bluntschli, the little sturdy crop-haired Swiss
 professional soldier, a man without a country but with a trade.
 He tells the army-adoring heroine frankly that she is a humbug;
 and she, after a moment's reflection, appears to agree with him.
-The play is like nearly all [[Shaw]]'s plays, the dialogue of a [[Conversion|conversion]].
+The play is like nearly all [[Shaw]]'s plays, the dialogue of a [[conversion]].
 By the end of it the young lady has lost all her military illusions
 and admires this mercenary soldier not because he faces guns,
 but because he faces facts.
@@ -2506,7 +2506,7 @@ it is even finer and more important because of its fate,
 which was to rouse a long and serious [[Storm|storm]] and to be vetoed
 by the Censor of Plays.  I say that this drama is most
 important because of the quarrel that came out of it.
-If I were speaking of some mere [[Artist|artist]] this might be an insult.
+If I were speaking of some mere [[artist]] this might be an insult.
 But there are high and heroic things in Bernard [[Shaw]];
 and one of the highest and most heroic is this, that he certainly
 cares much more for a quarrel than for a play.  And this quarrel
@@ -2702,7 +2702,7 @@ arresting and even indecent; I do not think that anyone thought
 of connecting it with the old Calvinistic [[morality]].  But [[Shaw]],
 who knew better than the Shavians, was at this moment on the very eve
 of confessing his moral origin.  The next book of plays he produced
-(including THE DEVIL'S DISCIPLE, CAPTAIN BRASSBOUND'S [[Conversion|CONVERSION]],
+(including THE DEVIL'S DISCIPLE, CAPTAIN BRASSBOUND'S [[conversion|CONVERSION]],
 and CAESAR AND [[Cleopatra|CLEOPATRA]]), actually bore the title of PLAYS FOR PURITANS.
 
 The play called THE DEVIL'S DISCIPLE has great merits,
@@ -2754,7 +2754,7 @@ asks rhetorically why he cannot be shot like a soldier.
 "Now there you speak like a civilian," replies General Burgoyne.
 "Have you formed any conception of the condition of marksmanship
 in the British Army?"  Excellent, too, is the passage in which
-his subordinate speaks of crushing the enemy in [[America]],
+his subordinate speaks of crushing the enemy in [[america|America]],
 and Burgoyne asks him who will crush their enemies in England,
 snobbery and jobbery and incurable carelessness and sloth.
 And in one sentence towards the end, [[Shaw]] reaches a wider and more
@@ -2792,7 +2792,7 @@ The question, however, need not detain us, for the batch of plays
 contained two others about which it is easier to speak.
 
 The third play in order in the series called PLAYS FOR PURITANS
-is a very charming one; CAPTAIN BRASSBOUND'S [[Conversion|CONVERSION]].
+is a very charming one; CAPTAIN BRASSBOUND'S [[conversion|CONVERSION]].
 This also turns, as does so much of the Caesar drama, on the idea
 of [[Vanity|vanity]] of [[Revenge|revenge]]--the idea that it is too slight and silly
 a thing for a man to allow to occupy and corrupt his consciousness.
@@ -2828,7 +2828,7 @@ a question of losing a life as of throwing away a bullet.
 But indeed the Irish comparison [[Alone|alone]] suggests a [[Doubt|doubt]] which
 wriggles in the recesses of my mind about the complete reliability
 of the [[philosophy]] of Lady Cicely Waynefleet, the complete
-finality of the moral of CAPTAIN BRASSBOUND'S [[Conversion|CONVERSION]].
+finality of the moral of CAPTAIN BRASSBOUND'S [[conversion|CONVERSION]].
 Of course, it was very natural in an [[aristocrat]] like
 Lady Cicely Waynefleet to wish to let sleeping [[dogs]] lie,
 especially those whom Mr. Blatchford calls under-[[dogs]]. Of
@@ -2929,7 +2929,7 @@ who wrote it down in gold and scarlet, sea-green and turquoise.
 Nevertheless, it is a good thing that the more austere
 method should exist separately, and that some men should be
 specially good at it.  Bernard [[Shaw]] is specially good at it;
-he is pre-eminently a black and white [[Artist|artist]].
+he is pre-eminently a black and white [[artist]].
 
 And as a study in black and white nothing could be better
 than this [[Sketch|sketch]] of [[Julius Caesar]].  He is not so much
@@ -3027,7 +3027,7 @@ tradition he comes a terrible cropper, as in this case.
 Bernard [[Shaw]] (I strongly suspect) began to disbelieve in Santa Claus
 at a discreditably early age.  And by this [[Time|time]] Santa Claus has avenged
 himself by taking away the key of all the prehistoric scriptures; so that
-a noble and honourable [[Artist|artist]] flounders about like any German professor.
+a noble and honourable [[artist]] flounders about like any German professor.
 Here is a whole fairy literature which is almost exclusively devoted
 to the unexpected victory of the weak over the strong; and Bernard [[Shaw]]
 manages to make it mean the inevitable victory of the strong over
@@ -3161,7 +3161,7 @@ that he had a [[Shadow|shadow]]."
 As has been said already, there must be some [[Truth|truth]] in every
 popular impression.  And the impression that [[Shaw]], the most
 savagely serious man of his [[Time|time]], is a mere music-hall
-[[Artist|artist]] must have reference to such rare outbreaks as these.
+[[artist]] must have reference to such rare outbreaks as these.
 As a rule his speeches are full, not only of substance,
 but of substances, materials like pork, mahogany, lead, and leather.
 There is no man whose arguments cover a more Napoleonic map
@@ -3642,7 +3642,7 @@ of animation, to the thing which is common to him and the [[Birds|birds]]
 and plants.  Man should have the blind [[Faith|faith]] of a beast:
 he should be as mystically immutable as a cow, and as deaf
 to sophistries as a fish.  [[Shaw]] does not wish him to be a
-philosopher or an [[Artist|artist]]; he does not even wish him to be a man,
+philosopher or an [[artist]]; he does not even wish him to be a man,
 so much as he wishes him to be, in this holy sense, an animal.
 He must follow the [[Flag|flag]] of life as fiercely from conviction
 as all other creatures follow it from instinct.
@@ -4130,7 +4130,7 @@ serious quality is as full as any of his minor sort of [[success]].
 In a more solid sense two important facts stand out:  the first is
 the character of the young American; the other is the character
 of Straker, the chauffeur.  In these [[Shaw]] has realised and made vivid
-two most important facts.  First, that [[America]] is not intellectually
+two most important facts.  First, that [[america|America]] is not intellectually
 a go-ahead country, but both for good and evil an old-fashioned one.
 It is full of stale culture and ancestral simplicity, just as [[Shaw]]'s
 young millionaire quotes Macaulay and piously worships his wife.
@@ -4188,7 +4188,7 @@ and sometimes before.  Moreover, this particular problem
 (though [[Shaw]] is certainly, as we shall see, nearer to pure
 [[Doubt|doubt]] about it than about anything else) does not strike
 the critic as being such an exasperating problem after all.
-An [[Artist|artist]] of vast power and promise, who is also a scamp
+An [[artist]] of vast power and promise, who is also a scamp
 of vast profligacy and treachery, has a chance of life if
 specially treated for a special disease.  The modern doctors
 (and even the modern dramatist) are in [[Doubt|doubt]] whether he should
@@ -4226,7 +4226,7 @@ thing everywhere else, was quite unsalable in the theatrical world.
 In spite of this he had conquered by his wit and his good dialogue;
 and by the [[Time|time]] of which we now speak he was victorious and secure.
 All his plays were being produced as a matter of course in England
-and as a matter of the fiercest fashion and enthusiasm in [[America]]
+and as a matter of the fiercest fashion and enthusiasm in [[america|America]]
 and [[Germany]].  No one who knows the [[Nature|nature]] of the man will [[Doubt|doubt]]
 that under such circumstances his first act would be to produce
 his wit naked and unashamed.  He had been told that he could not
@@ -4492,7 +4492,7 @@ he has definitely done harm.  He has much influence among the young men;
 but it is not an influence in the direction of keeping them young.
 One cannot imagine him inspiring any of his followers to write
 a war-[[Song|song]] or a drinking-[[Song|song]] or a [[Love|love]]-[[Song|song]], the three forms
-of human utterance which come next in nobility to a [[Prayer|prayer]].
+of human utterance which come next in nobility to a [[prayer]].
 It may seem odd to say that the net effect of a man so apparently
 impudent will be to make men shy.  But it is certainly the [[Truth|truth]].
 Shyness is always the sign of a divided [[Soul|soul]]; a man is shy because
@@ -4524,7 +4524,7 @@ that most men are against a thing is thought to be in its favour;
 it is vaguely supposed to show that some day most men will be for it.
 If a man says that cows are reptiles, or that Bacon wrote Shakespeare,
 he can always quote the contempt of his contemporaries as in some
-mysterious way proving the complete [[Conversion|conversion]] of posterity.
+mysterious way proving the complete [[conversion]] of posterity.
 The objections to this theory scarcely need any elaborate indication.
 The final objection to it is that it amounts to this:
 say anything, however idiotic, and you are in advance of your age.
@@ -4790,7 +4790,7 @@ In this great sense [[Shaw]] has brought [[philosophy]] back into drama--
 This is not a [[Freedom|freedom]] to think what one likes (which is absurd,
 for one can only think what one thinks); it is a [[Freedom|freedom]]
 to think about what one likes, which is quite a different
-thing and the [[Spring|spring]] of all thought.  Shakespeare (in a
+thing and the [[spring]] of all thought.  Shakespeare (in a
 weak moment, I think) said that all the world is a stage.
 But Shakespeare acted on the much finer principle that a stage
 is all the world.  So there are in all Bernard [[Shaw]]'s plays
@@ -4878,7 +4878,7 @@ actually turned into a [[Shaw]] idealist.  This is no exaggeration.
 I meet men who, when I knew them in 1898, were just a little too
 lazy to destroy the universe.  They are now conscious of not being
 quite worthy to abolish some [[Prison|prison]] regulations.  This destruction
-and [[Conversion|conversion]] seem to me the mark of something actually great.
+and [[conversion]] seem to me the mark of something actually great.
 It is always great to destroy a type without destroying a man.
 The followers of [[Shaw]] are optimists; some of them are so simple
 as even to use the word.  They are sometimes rather pallid optimists,
@@ -5419,7 +5419,7 @@ the wildest praises of War as War such as have not been heard
 since barbarous times, if then.  And where did this happen?
 Did it break out in the negro population of [[Paris]] ?
 Was it a feature of the ruthless militarism of Belgium,
-or of Britain and [[America]] and the other Allies?  No, the second
+or of Britain and [[america|America]] and the other Allies?  No, the second
 setback occurred exactly where my brother and I and all
 our group had always said that such things would occur:
 in the Prussianised countries that are an alien thing in Christendom.
@@ -5449,7 +5449,7 @@ There is a certain [[Puritanism]] even in what many would call his lapses,
 theoretical or practical, into the [[philosophy]] of Nudism.
 He has given practical provocative expression to a vague but
 very widespread modern notion that nothing ought to be hidden;
-whether in the form of being photographed like an [[Artist|artist]]'s model,
+whether in the form of being photographed like an [[artist]]'s model,
 or of publishing the [[Love|love]] letters of an actress with whom
 the whole world was in [[Love|love]].  These are acts of bad taste;
 but not of inconsistency and certainly not merely of levity.
@@ -5507,7 +5507,7 @@ these are coincidences fitted, not so much for the Victorian
 more and more widely recognised in Europe; and the official
 defence of Darwinism is wearing very thin even in England.
 It had its most conspicuous collapse in the astonishing incident
-of the encounter between Sir [[arthur|Arthur]] Keith and Mr. Belloc.
+of the encounter between Sir [[Arthur]] Keith and Mr. Belloc.
 If our public opinion were enlightened about the latest scientific
 news, that encounter would be recognised as a decisive battle.
 Mr. Wells had suggested that there was no scientific
@@ -5516,12 +5516,12 @@ a score of scientific names and quotations to the contrary;
 including one from Vialleton.  Mr. Wells seemed to be sufficiently
 soothed by finding that the printer had misspelt the name
 of Vialleton on one particular page.  He was easily pleased.
-Sir [[arthur|Arthur]] Keith did make some attempt to deal with the matter
+Sir [[Arthur]] Keith did make some attempt to deal with the matter
 in dispute; and his contribution was a flat contradiction;
 he said that Vialleton had never said anything of the sort.
 It was then discovered, to the [[Wonder|wonder]] of the world, that Mr. Belloc,
 that obscure amateur, was talking about the last and most important
-book by Vialleton, of which Sir [[arthur|Arthur]] Keith, that supreme specialist,
+book by Vialleton, of which Sir [[Arthur]] Keith, that supreme specialist,
 had never even heard.  Our specialists are very fortunate.
 Reputations are ruined for ever by that sort of thing, when it
 happens on the Continent.

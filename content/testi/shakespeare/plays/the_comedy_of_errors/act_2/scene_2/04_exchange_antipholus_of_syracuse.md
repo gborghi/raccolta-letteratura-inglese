@@ -1,5 +1,5 @@
 ---
-title: "The [[Comedy]] of Errors — Act II, Scene 2 — exchange ([[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]]) [4]"
+title: "The Comedy of Errors — Act II, Scene 2 — exchange (ANTIPHOLUS OF SYRACUSE) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-comedy-of-errors-(shakespeare)"

@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 3 (part 2)"
+title: "Nicholas Nickleby — Chapter 3 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_03/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_03/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘I’ll speak to you a moment, ma’am, with your leave,’ said Ralph.
+
+The voice replied that the gentleman was to walk up; but he had walked
+up before it spoke, and stepping into the first floor, was received by
+the wearer of the yellow head-dress, who had a gown to correspond, and
+was of much the same colour herself. Miss La Creevy was a mincing
+young lady of fifty, and Miss La Creevy’s apartment was the gilt frame
+downstairs on a larger scale and something dirtier.
 
 ‘Hem!’ said Miss La Creevy, coughing delicately behind her black silk
 mitten. ‘A miniature, I presume. A very strongly-marked countenance for
@@ -147,19 +156,3 @@ to her eyes.
 
 ‘It was no UNcommon loss, ma’am,’ returned Ralph, as he coolly
 unbuttoned his spencer. ‘Husbands die every day, ma’am, and wives too.’
-
-‘And brothers also, sir,’ said Nicholas, with a glance of indignation.
-
-‘Yes, sir, and puppies, and pug-[[dogs]] likewise,’ replied his uncle,
-taking a chair. ‘You didn’t mention in your letter what my brother’s
-complaint was, ma’am.’
-
-‘The doctors could attribute it to no particular disease,’ said Mrs
-Nickleby; shedding [[Tears|tears]]. ‘We have too much reason to [[Fear|fear]] that he died
-of a broken heart.’
-
-‘Pooh!’ said Ralph, ‘there’s no such thing. I can understand a man’s
-dying of a broken neck, or [[Suffering|suffering]] from a broken arm, or a broken
-head, or a broken leg, or a broken nose; but a broken heart!--nonsense,
-it’s the cant of the day. If a man can’t pay his debts, he dies of a
-broken heart, and his widow’s a martyr.’

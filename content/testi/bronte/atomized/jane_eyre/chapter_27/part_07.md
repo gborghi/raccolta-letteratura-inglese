@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 27 (part 7)"
+title: "Jane Eyre — Chapter 27 (part 7)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -82,7 +82,7 @@ youth and manhood passed half in unutterable misery and half in dreary
 found _you_. You are my sympathy—my better [[Self|self]]—my good angel. I am
 bound to you with a strong attachment. I think you good, gifted,
 lovely: a fervent, a solemn passion is conceived in my heart; it leans
-to you, draws you to my centre and [[spring]] of life, wraps my existence
+to you, draws you to my centre and [[Spring|spring]] of life, wraps my existence
 about you, and, kindling in pure, powerful flame, fuses you and me in
 one.
 

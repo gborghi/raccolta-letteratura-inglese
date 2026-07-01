@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 18 (part 4)"
+title: "Shirley — Chapter 18 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,40 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_18/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_19/part_01">part 01 ›</a></div>
 </nav>
 
+
+see a newspaper every day, and two of a [[Sunday]]?"
+
+
+
+"I should think you'll read the marriages, probably, miss, and the
+
+murders, and the accidents, and sich like?"
+
+
+
+"I read the leading articles, Joe, and the foreign intelligence, and I
+
+look over the market prices. In short, I read just what gentlemen read."
+
+
+
+Joe looked as if he thought this talk was like the chattering of a pie.
+
+He replied to it by a disdainful [[Silence|silence]].
+
+
+
+"Joe," continued Miss Keeldar, "I never yet could ascertain properly
+
+whether you are a Whig or a Tory. Pray, which party has the [[Honour|honour]] of
+
+your alliance?"
+
+
+
+"It is rayther difficult to explain where you are sure not to be
+
+understood," was Joe's haughty response; "but as to being a Tory, I'd as
 
 soon be an old woman, or a young one, which is a more flimsier article
 

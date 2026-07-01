@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 21 (part 1)"
+title: "Sense and Sensibility — Chapter 21 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -203,5 +203,3 @@ encroachments and mischievous tricks to which her cousins submitted.
 She saw their sashes untied, their hair pulled about their ears, their
 
 work-bags searched, and their knives and scissors stolen away, and felt
-
-no [[Doubt|doubt]] of its being a reciprocal enjoyment. It suggested no other

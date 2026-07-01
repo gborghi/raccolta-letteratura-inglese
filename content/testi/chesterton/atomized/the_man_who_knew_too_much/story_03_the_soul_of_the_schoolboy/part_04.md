@@ -1,5 +1,5 @@
 ---
-title: "The Man Who Knew Too Much — The [[Soul]] of the Schoolboy (part 4)"
+title: "The Man Who Knew Too Much — The Soul of the Schoolboy (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/the-man-who-knew-too-much-(chesterton)"
@@ -13,6 +13,21 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_03_the_soul_of_the_schoolboy/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_03_the_soul_of_the_schoolboy/part_05">part 05 ›</a></div>
 </nav>
 
+
+signature.
+Insensibly comforted by this, the clergyman found his thoughts
+
+reverting voluntarily to his favorite relic, which came a good
+
+second in his sympathies to his favorite nephew, and before he knew
+
+where he was he found himself encircled by the group discussing its
+
+loss, and more or less carried away on the current of their
+
+excitement. But an undercurrent of query continued to run in his
+
+mind, as to what had really happened to the boy, and what was the
 
 boy's exact definition of being all right.
 Meanwhile Horne Fisher had considerably puzzled everybody with his
@@ -174,18 +189,3 @@ with the magician at his own game."
 always the suspect. I don't think he was necessarily a thief in the
 
 vulgar sense. The police always seem to think that silver is stolen
-
-for the sake of silver, but a thing like that might [[Well|well]] be stolen
-
-out of some religious mania. A runaway monk turned mystic might [[Well|well]]
-
-want it for some mystical purpose."
-"No," replied Fisher, "the runaway monk is not a thief. At any rate
-
-he is not the thief. And he's not altogether a liar, either. He said
-
-one true thing at least that [[Night|night]]."
-"And what was that?" inquired March.
-"He said it was all magnetism. As a matter of fact, it was done by
-
-means of a magnet." Then, seeing they still looked puzzled, he

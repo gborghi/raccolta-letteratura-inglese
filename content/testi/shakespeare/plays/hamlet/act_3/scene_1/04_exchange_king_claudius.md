@@ -1,5 +1,5 @@
 ---
-title: "[[Hamlet]] — Act III, Scene 1 — exchange ([[King|KING]] [[Claudius|CLAUDIUS]]) [4]"
+title: "Hamlet — Act III, Scene 1 — exchange (KING CLAUDIUS) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/hamlet-(shakespeare)"

@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 5 (part 1)"
+title: "Oliver Twist — Chapter 5 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -136,8 +136,3 @@ hear?”
 
 “Lor, Noah!” said Charlotte, “what a rum creature you are! Why don’t
 you let the boy [[Alone|alone]]?”
-
-“Let him [[Alone|alone]]!” said Noah. “Why everybody lets him [[Alone|alone]] enough, for
-the matter of that. Neither his father nor his mother will ever
-interfere with him. All his relations let him have his own way pretty
-[[Well|well]]. Eh, Charlotte? He! he! he!”

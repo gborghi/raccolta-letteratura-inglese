@@ -1,5 +1,5 @@
 ---
-title: "[[Hop-Frog]] (part 2)"
+title: "Hop-Frog (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/hop-frog-(poe)"
@@ -129,14 +129,3 @@ tags:
       “Here we are!” cried the [[King|king]], laughing at his acute discovery of the
       coincidence; “eight to a fraction—I and my seven ministers. Come!
       what is the diversion?”
-
-
-      “We call it,” replied the cripple, “the Eight Chained Ourang-Outangs, and
-      it really is excellent sport if [[Well|well]] enacted.”
-
-
-      “We will enact it,” remarked the [[King|king]], drawing himself up, and lowering
-      his eyelids.
-
-      “The [[Beauty|beauty]] of the game,” continued [[Hop-Frog]], “lies in the fright it
-      occasions among the women.”

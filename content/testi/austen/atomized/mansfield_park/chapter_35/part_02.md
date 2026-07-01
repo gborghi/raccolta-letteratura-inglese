@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 35 (part 2)"
+title: "Mansfield Park — Chapter 35 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"

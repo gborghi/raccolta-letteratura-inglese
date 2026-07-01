@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 75 (part 1)"
+title: "Barnaby Rudge — Chapter 75 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -132,8 +132,3 @@ freely.’
 manner, ‘but I have come to ask no favour of you, though I come on
 business.--Private,’ he added, with a glance at the man who stood
 looking on, ‘and very pressing business.’
-
-‘I cannot say you are the more welcome for being independent, and having
-nothing to ask of me,’ returned Sir John, graciously, ‘for I should have
-been happy to render you a service; still, you are welcome on any terms.
-Oblige me with some more chocolate, Peak, and don’t wait.’

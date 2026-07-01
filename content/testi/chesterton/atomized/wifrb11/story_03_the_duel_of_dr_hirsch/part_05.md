@@ -1,5 +1,5 @@
 ---
-title: "[[wifrb11]] — The Duel of Dr Hirsch (part 5)"
+title: "wifrb11 — The Duel of Dr Hirsch (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -149,8 +149,5 @@ then they were covered with a pair of blue spectacles.  Slipping on
 a loose black coat, the figure vanished towards the front of the [[house]]. 
 A few moments later a roar of popular applause from the street beyond
 announced that Dr Hirsch had once more appeared upon the balcony.
-
-
-
 
                                  FOUR

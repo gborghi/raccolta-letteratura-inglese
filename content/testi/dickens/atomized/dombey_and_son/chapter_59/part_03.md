@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 3 (part 3)"
+title: "Dombey and Son — Chapter 31 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,130 +14,122 @@ tags:
 </nav>
 
 
-The [[Child|child]] looked quickly from one [[Nurse|nurse]] to the other, as if she
-understood and felt what was said.
+“Mrs Dombey, that is to be,” returns Mr Dombey, condescendingly, “will
+be very sensible of your attention, Carker, I am sure.”
 
-“You surprise me!” cried Polly. “Hasn’t Mr Dombey seen her since—”
+“And if she is to be Mrs Dombey this morning, Sir,” says the Major,
+putting down his coffee-cup, and looking at his watch, “it’s high [[Time|time]]
+we were off!”
 
-“No,” interrupted [[Susan Nipper]]. “Not once since, and he hadn’t hardly
-set his eyes upon her before that for months and months, and I don’t
-think he’d have known her for his own [[Child|child]] if he had met her in the
-streets, or would know her for his own [[Child|child]] if he was to meet her in
-the streets to-morrow, Mrs Richards, as to me,” said Spitfire, with a
-giggle, “I [[Doubt|doubt]] if he’s aweer of my existence.”
+Forth, in a barouche, ride Mr Dombey, [[Major Bagstock]], and Mr Carker, to
+the church. Mr Sownds the Beadle has long risen from the steps, and is
+in waiting with his cocked hat in his hand. Mrs Miff curtseys and
+proposes chairs in the vestry. Mr Dombey prefers remaining in the
+church. As he looks up at the organ, Miss Tox in the gallery shrinks
+behind the fat leg of a cherubim on a monument, with cheeks like a
+young [[Wind]]. [[Captain Cuttle]], on the contrary, stands up and waves his
+hook, in token of welcome and encouragement. Mr Toots informs the
+Chicken, behind his hand, that the middle gentleman, he in the
+fawn-coloured pantaloons, is the father of his [[Love|love]]. The Chicken
+hoarsely whispers Mr Toots that he’s as stiff a cove as ever he see,
+but that it is within the resources of Science to [[Double|double]] him up, with
+one blow in the waistcoat.
 
-“Pretty dear!” said Richards; meaning, not Miss Nipper, but the little
-Florence.
+Mr Sownds and Mrs Miff are eyeing Mr Dombey from a little distance,
+when the noise of approaching wheels is heard, and Mr Sownds goes out.
+Mrs Miff, meeting Mr Dombey’s eye as it is withdrawn from the
+presumptuous maniac upstairs, who salutes him with so much urbanity,
+drops a curtsey, and informs him that she believes his “good lady” is
+come. Then there is a crowding and a whispering at the door, and the
+good lady enters, with a haughty step.
 
-“Oh! there’s a Tartar within a hundred miles of where we’re now in
-conversation, I can tell you, Mrs Richards, present company always
-excepted too,” said [[Susan Nipper]]; “wish you good morning, Mrs Richards,
-now Miss Floy, you come along with me, and don’t go hanging back like a
-naughty wicked [[Child|child]] that judgments is no example to, don’t!”
+There is no sign upon her face, of last [[Night|night]]’s [[Suffering|suffering]]; there is no
+trace in her manner, of the woman on the bended knees, reposing her
+wild head, in beautiful abandonment, upon the pillow of the sleeping
+girl. That girl, all gentle and lovely, is at her side—a striking
+contrast to her own disdainful and defiant figure, standing there,
+composed, erect, inscrutable of will, resplendent and majestic in the
+zenith of its charms, yet beating down, and treading on, the admiration
+that it challenges.
 
-In spite of being thus adjured, and in spite also of some hauling on
-the part of [[Susan Nipper]], tending towards the dislocation of her right
-shoulder, little Florence broke away, and kissed her new friend,
-affectionately.
+There is a pause while Mr Sownds the Beadle glides into the vestry for
+the clergyman and clerk. At this juncture, Mrs Skewton speaks to Mr
+Dombey: more distinctly and emphatically than her custom is, and moving
+at the same [[Time|time]], close to Edith.
 
-“Oh dear! after it was given out so “tickerlerly, that Mrs Richards
-wasn’t to be made free with!” exclaimed Susan. “Very [[Well|well]], Miss Floy!”
+“My dear Dombey,” said the good Mama, “I [[Fear|fear]] I must relinquish darling
+Florence after all, and suffer her to go [[Home|home]], as she herself proposed.
+After my loss of today, my dear Dombey, I feel I shall not have
+spirits, even for her society.”
 
-“God bless the sweet thing!” said Richards, “Good-bye, dear!”
+“Had she not better stay with you?” returns the Bridegroom.
 
-“Good-bye!” returned the [[Child|child]]. “God bless you! I shall come to see you
-again soon, and you’ll come to see me? Susan will let us. Won’t you,
-Susan?”
+“I think not, my dear Dombey. No, I think not. I shall be better [[Alone|alone]].
+Besides, my dearest Edith will be her natural and constant guardian
+when you return, and I had better not encroach upon her trust, perhaps.
+She might be jealous. Eh, dear Edith?”
 
-Spitfire seemed to be in the main a good-natured little [[Body|body]], although
-a disciple of that school of trainers of the young idea which holds
-that [[Childhood|childhood]], like money, must be shaken and rattled and jostled
-about a good deal to keep it bright. For, being thus appealed to with
-some endearing gestures and caresses, she folded her small arms and
-shook her head, and conveyed a relenting expression into her
-very-wide-open black eyes.
+The affectionate Mama presses her daughter’s arm, as she says this;
+perhaps entreating her attention earnestly.
 
-“It ain’t right of you to ask it, Miss Floy, for you know I can’t
-refuse you, but Mrs Richards and me will see what can be done, if Mrs
-Richards likes, I may wish, you see, to take a voyage to Chaney, Mrs
-Richards, but I mayn’t know how to leave the [[London]] Docks.”
+“To be serious, my dear Dombey,” she resumes, “I will relinquish our
+dear [[Child|child]], and not inflict my gloom upon her. We have settled that,
+just now. She fully understands, dear Dombey. Edith, my dear,—she fully
+understands.”
 
-Richards assented to the proposition.
+Again, the good mother presses her daughter’s arm. Mr Dombey offers no
+additional remonstrance; for the clergyman and clerk appear; and Mrs
+Miff, and Mr Sownds the Beadle, group the party in their proper places
+at the altar rails.
 
-“This [[house]] ain’t so exactly ringing with merry-making,” said Miss
-Nipper, “that one need be lonelier than one must be. Your Toxes and
-your Chickses may draw out my two front [[Double|double]] teeth, Mrs Richards, but
-that’s no reason why I need offer ’em the whole set.”
+The sun is shining down, upon the golden letters of the ten
+commandments. Why does the Bride’s eye read them, one by one? Which one
+of all the ten appears the plainest to her in the glare of light? False
+Gods; murder; theft; the [[Honour|honour]] that she owes her mother;—which is it
+that appears to leave the wall, and printing itself in glowing letters,
+on her book!
 
-This proposition was also assented to by Richards, as an obvious one.
+“Who giveth this woman to be married to this man?”
 
-“So I’m agreeable, I’m sure,” said [[Susan Nipper]], “to live friendly, Mrs
-Richards, while Master Paul continues a permanency, if the means can be
-planned out without going openly against orders, but goodness gracious
-Miss Floy, you haven’t got your things off yet, you naughty [[Child|child]], you
-haven’t, come along!”
+Cousin Feenix does that. He has come from Baden-Baden on purpose.
+“Confound it,” Cousin Feenix says—good-natured creature, Cousin
+Feenix—“when we do get a rich [[City]] fellow into the family, let us show
+him some attention; let us do something for him.”
 
-With these words, [[Susan Nipper]], in a transport of coercion, made a
-charge at her young ward, and swept her out of the room.
+“I give this woman to be married to this man,” saith Cousin Feenix
+therefore. Cousin Feenix, meaning to go in a straight line, but turning
+off sideways by reason of his wilful legs, gives the wrong woman to be
+married to this man, at first—to wit, a brides—maid of some condition,
+distantly connected with the family, and ten years Mrs Skewton’s junior
+—but Mrs Miff, interposing her mortified bonnet, dexterously turns him
+back, and runs him, as on castors, full at the “good lady:” whom Cousin
+Feenix giveth to married to this man accordingly.
 
-The [[Child|child]], in her grief and neglect, was so gentle, so quiet, and
-uncomplaining; was possessed of so much affection that no one seemed to
-care to have, and so much sorrowful intelligence that no one seemed to
-mind or think about the wounding of, that Polly’s heart was sore when
-she was left [[Alone|alone]] again. In the simple passage that had taken place
-between herself and the motherless little girl, her own motherly heart
-had been touched no less than the [[Child|child]]’s; and she felt, as the [[Child|child]]
-did, that there was something of confidence and interest between them
-from that moment.
+And will they in the sight of heaven—?
 
-Notwithstanding Mr Toodle’s great reliance on Polly, she was perhaps in
-point of artificial accomplishments very little his superior. She had
-been good-humouredly working and drudging for her life all her life,
-and was a sober steady-going person, with matter-of-fact ideas about
-the butcher and baker, and the division of pence into farthings. But
-she was a good plain sample of a [[Nature|nature]] that is ever, in the mass,
-better, truer, higher, nobler, quicker to feel, and much more constant
-to retain, all tenderness and pity, [[Self|self]]-denial and devotion, than the
-[[Nature|nature]] of men. And, perhaps, unlearned as she was, she could have
-brought a dawning knowledge [[Home|home]] to Mr Dombey at that early day, which
-would not then have struck him in the end like [[Lightning|lightning]].
+Ay, that they will: Mr Dombey says he will. And what says Edith? She
+will.
 
-But this is from the purpose. Polly only thought, at that [[Time|time]], of
-improving on her successful propitiation of Miss Nipper, and devising
-some means of having little Florence aide her, lawfully, and without
-rebellion. An opening happened to present itself that very [[Night|night]].
+So, from that day forward, for better for worse, for richer for poorer,
+in sickness and in health, to [[Love|love]] and to cherish, till [[Death|death]] do them
+part, they plight their troth to one another, and are married.
 
-She had been rung down into the glass room as usual, and had walked
-about and about it a long [[Time|time]], with the baby in her arms, when, to her
-great surprise and dismay, Mr Dombey—whom she had seen at first leaning
-on his elbow at the table, and afterwards walking up and down the
-middle room, drawing, each [[Time|time]], a little nearer, she thought, to the
-open folding doors—came out, suddenly, and stopped before her.
+In a firm, free hand, the Bride subscribes her name in the register,
+when they adjourn to the vestry. “There ain’t a many ladies come here,”
+Mrs Miff says with a curtsey—to look at Mrs Miff, at such a season, is
+to make her mortified bonnet go down with a dip—“writes their names
+like this good lady!” Mr Sownds the Beadle thinks it is a truly
+spanking signature, and worthy of the writer—this, however, between
+himself and [[Conscience|conscience]].
 
-“Good evening, Richards.”
+Florence signs too, but unapplauded, for her hand shakes. All the party
+sign; Cousin Feenix last; who puts his noble name into a wrong place,
+and enrols himself as having been born that morning.
 
-Just the same austere, stiff gentleman, as he had appeared to her on
-that first day. Such a hard-looking gentleman, that she involuntarily
-dropped her eyes and her curtsey at the same [[Time|time]].
-
-“How is Master Paul, Richards?”
-
-“Quite thriving, Sir, and [[Well|well]].”
-
-“He looks so,” said Mr Dombey, glancing with great interest at the tiny
-face she uncovered for his observation, and yet affecting to be half
-careless of it. “They give you everything you want, I [[Hope|hope]]?”
-
-“Oh yes, thank you, Sir.”
-
-She suddenly appended such an obvious hesitation to this reply,
-however, that Mr Dombey, who had turned away; stopped, and turned round
-again, inquiringly.
-
-“If you please, Sir, the [[Child|child]] is very much disposed to take notice of
-things,” said Richards, with another curtsey, “and—upstairs is a little
-dull for him, perhaps, Sir.”
-
-“I begged them to take you out for airings, constantly,” said Mr
-Dombey. “Very [[Well|well]]! You shall go out oftener. You’re quite right to
-mention it.”
+The Major now salutes the Bride right gallantly, and carries out that
+branch of military tactics in reference to all the ladies:
+notwithstanding Mrs Skewton’s being extremely hard to kiss, and
+squeaking shrilly in the sacred edifice. The example is followed by
+Cousin Feenix and even by Mr Dombey. Lastly, Mr Carker, with his white
+teeth glistening, approaches Edith, more as if he meant to bite her,
+than to taste the sweets that linger on her lips.

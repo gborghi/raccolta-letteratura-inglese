@@ -14,6 +14,31 @@ tags:
 </nav>
 
 
+“Oh, yes, sir; very healthy place, Peaceways,” he said, peering through the lattice. “Very … dash it, what do they mean? … Very healthy place. Of course they have their little ways.”
+
+
+
+
+“Only drink pure milk, don’t they?” asked Dalroy.
+
+
+
+
+The householder looked at him with a rather wild eye and grunted.
+
+
+
+
+“Yes; so they say,” and he went again to the [[Window|window]].
+
+
+
+
+“I’ve bought some of it,” said Patrick, patting his pet milk can, which he carried under his arm, as if unable to be separated from Dr. Meadows’s discovery. “Have a glass of milk, sir.”
+
+
+
+
 The man’s boiled eye began to bulge in anger–or some other emotion.
 
 
@@ -125,18 +150,3 @@ And the gentleman with the good clothes spat on the carpet.
 
 
 “Look here!” cried Dalroy, in some excitement, “if I stick up that sign outside, and stay here to help, will you defy them? You’d be strictly within the law, and any private coercion I can promise you they shall repent. Plant the sign and sell the stuff openly like a man, and you may stand in English [[history]] like a deliverer.”
-
-
-
-
-Mr. Hugby, of Hugby’s Ales, only looked gloomily at the table. His was not the sort of drinking nor the sort of drink-selling on which the revolutionary sentiment flourishes.
-
-
-
-
-“[[Well]],” said the Captain, “will you come with me and say ‘Hear, hear!’ and ‘How true!’–‘What matchless eloquence!’ if I make a speech in the market-place? Come along! There’s room in our car.”
-
-
-
-
-“[[Well]], I’ll come with you, if you like,” replied Mr. Hugby, heavily. “It’s true if yours is allowed we might get our trade back, too.” And putting on a silk hat he followed the Captain and the innkeeper out to their little car. The model village was not an appropriate background for Mr. Hugby’s silk hat. Indeed, the hat somehow seemed to bring out by contrast all that was fantastic in the place.

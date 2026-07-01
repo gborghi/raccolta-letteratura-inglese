@@ -1,5 +1,5 @@
 ---
-title: "[[Henry VI]] Part One — Act V, Scene 5 — exchange (SUFFOLK) [2]"
+title: "Henry VI Part One — Act V, Scene 5 — exchange (SUFFOLK) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/henry-vi-part-one-(shakespeare)"

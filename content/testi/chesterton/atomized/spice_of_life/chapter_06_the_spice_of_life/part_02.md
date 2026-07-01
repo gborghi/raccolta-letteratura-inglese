@@ -38,7 +38,6 @@ it merely in this way:  What would any six streets in Hoxton
 or Whitechapel give if they could elect (however indirectly)
 the policeman who should stand at the street corner?
 
-
 CAPONE'S PAL
 
 I HAVE sometimes shocked the conventions of our [[Time|time]] by defending
@@ -89,7 +88,6 @@ saying that Barrabas was a publisher.
 "Sure," he said with explosive emphasis; and we parted excellent friends.
 "It was just Robbery!"
 
-
 ON LOSING ONE'S HEAD
 
 WHEN I was a little boy I had an [[Imagination|imagination]], though this has long been
@@ -123,30 +121,3 @@ some separate and eccentric kind of eye, like that of a Cyclops;
 an eye of blue sky or [[Lightning|lightning]] that opened suddenly in his hat
 or his coat-tails and blazed through black fantastic tempests;
 a strange star of the [[Storm|storm]].
-
-But there were many cases, even among more terrestrial and commonplace
-metaphors, where the material metaphor photographed itself on my fancy.
-One of them was the phrase about a man "Losing his heart."
-A man, considered as a material envelope, seemed so securely done up
-that how the heart could get out of the [[Body|body]] was a problem analogous
-to that of how the apple could get into the dumpling.  Perhaps, I mused,
-the phrase about a man having his heart in his mouth might throw
-some light on the somewhat revolting phrase, which spoke of a man
-with his heart in his boots; where there was clearly no thoroughfare.
-From this my childish taste turned with a certain relief to the easier
-and more popular picture of a man losing his head; which seemed
-the sort of thing that might happen to anybody.  Indeed, by this
-dream of symbolic decapitation I was much haunted in infancy
-and am not infrequently inspired and comforted even to this day.
-Whatever other metaphors may mean, this metaphor of the lost head has
-some primary and poetic meaning; and I have written many bad [[Poems|poems]],
-bad fairy tales, and bad apologues in my industrious attempt
-to find it out and declare it.  The connection between the animal
-and intellectual meaning of it became close and even confused.
-I vaguely thought of Charles I as having lost his head equally
-in both senses; which is not perhaps wholly untrue.  When I read
-of the miracle of St. Dennis, who carried his head in his hand,
-it seemed to me quite a soothing and graceful proceeding, like a
-gentleman carrying his hat in his hand.  St. Dennis did not lose
-his head anyhow; he carried it in his hand so as not to lose it;
-as ladies do their ridiculous handbags.

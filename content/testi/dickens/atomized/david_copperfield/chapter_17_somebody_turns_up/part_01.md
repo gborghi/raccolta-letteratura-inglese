@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 17: SOMEBODY TURNS UP (part 1)"
+title: "David Copperfield — Chapter 17: SOMEBODY TURNS UP (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -117,8 +117,3 @@ observe the effect which this description of her made upon me.
 ‘The first [[Time|time]] he came,’ said Mr. Dick, ‘was--let me see--sixteen
 hundred and forty-nine was the date of [[King]] Charles’s execution. I think
 you said sixteen hundred and forty-nine?’
-
-‘Yes, sir.’
-
-‘I don’t know how it can be,’ said Mr. Dick, sorely puzzled and shaking
-his head. ‘I don’t think I am as old as that.’

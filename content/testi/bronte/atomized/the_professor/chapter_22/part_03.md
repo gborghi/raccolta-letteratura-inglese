@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 21 (part 3)"
+title: "The Professor — Chapter 21 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_professor/chapter_22/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/the_professor/chapter_23/part_01">part 01 ›</a></div>
 </nav>
 
+
+relinquished a temporary and contingent good to avoid a permanent and
+
+certain evil he did [[Well|well]]. Let him reflect now, and when your blinding
+
+[[Dust|dust]] and deafening hum subside, he will discover a path.”
+
+I sat down; I propped my forehead on both my hands; I thought and
+
+thought an hour--two hours; vainly. I seemed like one sealed in a
 
 subterranean vault, who gazes at utter blackness; at blackness ensured
 
@@ -35,8 +45,6 @@ brain and [[Memory|memory]], I disinterred certain remains of circumstances, and
 conceived a [[Hope|hope]] that by putting them together an expedient might be
 
 framed, and a resource discovered. The circumstances were briefly these:
-
-
 
 Some three months ago M. Pelet had, on the occasion of his fete, given
 
@@ -127,8 +135,6 @@ my [[Pride|pride]] and contradicted my habits, would, I felt, be an indulgence o
 false and indolent fastidiousness. I might repent the omission all my
 
 life; I would not then be guilty of it.
-
-
 
 That evening I went to M. Vandenhuten’s; but I had bent the bow and
 

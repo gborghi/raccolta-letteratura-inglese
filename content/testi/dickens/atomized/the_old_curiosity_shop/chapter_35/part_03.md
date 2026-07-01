@@ -135,10 +135,3 @@ spies.  In this last respect, servants are the devil.  There’s only one
 here.’
 
 ‘And a very little one,’ said Dick.
-
-‘And a very little one,’ repeated the lodger.  ‘[[Well]], the place will
-suit me, will it?’
-
-‘Yes,’ said Dick.
-
-‘Sharks, I suppose?’ said the lodger.

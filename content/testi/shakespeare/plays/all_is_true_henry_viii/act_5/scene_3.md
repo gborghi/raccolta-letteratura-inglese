@@ -1,5 +1,5 @@
 ---
-title: "All Is True ([[Henry VIII]]) — Act V, Scene 3"
+title: "All Is True (Henry VIII) — Act V, Scene 3"
 author: "Shakespeare"
 unitType: scene
 parentWork: "works/all-is-true---(henry-viii)-(shakespeare)"

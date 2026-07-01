@@ -127,12 +127,12 @@ by the proverb about letting a sleeping dog lie, or the [[Fable|fable]]
 about the dog in the manger.  Now those dead phrases are quite alive
 to me, for they are parts of a perfectly practical psychology.
 Until I went to live in the country, I had no notion of the meaning
-of the maxim, `It's an ill [[Wind|wind]] that blows nobody good'.
+of the maxim, `It's an ill wind that blows nobody good'.
 Now it seems to me as pertinent and even pungent as if it were
-a new remark just made to me by a neighbour at the [[Garden|garden]] gate.
+a new remark just made to me by a neighbour at the garden gate.
 It is something to come to live in a world of living and significant
 things instead of dead and unmeaning things.  And it is youth
 in revolt, even in righteous revolt, which sees its surroundings
-as dead and unmeaning.  It is old age, and even second [[Childhood|childhood]],
+as dead and unmeaning.  It is old age, and even second childhood,
 that has come to see that everything means something and that life
 itself has never died.

@@ -1,5 +1,5 @@
 ---
-title: "[[Berenice]] (part 2)"
+title: "Berenice (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/berenice-(poe)"
@@ -105,10 +105,3 @@ tags:
       bitterly lamenting her fallen and desolate condition, I called to
       mind that she had loved me long, and, in an evil moment, I spoke
       to her of [[Marriage|marriage]].
-
-      And at length the period of our nuptials was approaching, when,
-      upon an afternoon in the [[Winter|winter]] of the year—one of those
-      unseasonably warm, calm, and misty days which are the [[Nurse|nurse]] of
-      the beautiful Halcyon (*1),—I sat, (and sat, as I thought,
-      [[Alone|alone]],) in the inner apartment of the library. But, uplifting my
-      eyes, I saw that [[Berenice]] stood before me.

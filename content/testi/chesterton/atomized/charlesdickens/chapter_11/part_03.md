@@ -1,5 +1,5 @@
 ---
-title: "[[CharlesDickens]] — Chapter 8 (part 3)"
+title: "CharlesDickens — Chapter 8 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/charlesdickens-(chesterton)"
@@ -49,7 +49,7 @@ And as with art, so with reality.  He wished to show that he could
 construct as [[Well|well]] as anybody.  He also wished to show that he could
 be as accurate as anybody.  And in this connection (as in many others)
 we must recur constantly to the facts mentioned in connection
-with [[america|America]] and with his money-matters. We must recur, I mean,
+with [[America]] and with his money-matters. We must recur, I mean,
 to the central fact that his desires were extravagant in quantity,
 but not in quality; that his wishes were excessive, but not eccentric.
 It must never be forgotten that [[Sanity|sanity]] was his ideal, even when
@@ -108,26 +108,3 @@ The perfection and pointedness of art are a sort of substitute for the
 pungency of actuality.  Without this selection and completion our life
 seems a tangle of unfinished tales, a heap of novels, all volume one.
 Dickens determined to make one complete [[Novel|novel]] of it.
-
-For though there are many other aspects of "[[David Copperfield]],"
-this autobiographical aspect is, after all, the greatest.
-The point of the book is that, unlike all the other books
-of Dickens, it is concerned with quite common actualities, but it
-is concerned with them warmly and with the warlike sympathies.
-It is not only both realistic and romantic; it is realistic
-because it is romantic.  It is human [[Nature|nature]] described with the
-human exaggeration.  We all know the actual types in the book;
-they are not like the turgid and preternatural types elsewhere
-in Dickens.  They are not purely poetic creations like Mr. Kenwigs
-or Mr. Bunsby.  We all know that they exist.  We all know
-the stiff-necked and humorous old-fashioned [[Nurse|nurse]], so conventional
-and yet so original, so dependent and yet so independent.
-We all know the intrusive stepfather, the abstract strange male,
-coarse, handsome, sulky, successful, a breaker-up of homes.
-We all know the erect and sardonic spinster, the spinster
-who is so mad in small things and so sane in great ones.
-We all know the cock of the school; we all know Steerforth,
-the creature whom the gods [[Love|love]] and even the servants respect.
-We know his poor and aristocratic mother, so proud, so gratified,
-so desolate.  We know the Rosa Dartle type, the lonely woman
-in whom affection itself has stagnated into a sort of [[Poison|poison]].

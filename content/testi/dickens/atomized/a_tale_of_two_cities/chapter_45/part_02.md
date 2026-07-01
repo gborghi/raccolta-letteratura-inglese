@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities — Chapter 13 (part 2)"
+title: "A Tale of Two Cities — Chapter 15 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-tale-of-two-cities-(dickens)"
@@ -10,169 +10,135 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/a-tale-of-two-cities-(dickens)">A Tale of Two Cities</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_45/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_45/part_03">part 03 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_45/part_01">‹ part 01</a><span></span></div>
 </nav>
 
 
-The hours went on as he walked to and fro, and the clocks struck the
-numbers he would never hear again. Nine gone for ever, ten gone for
-ever, eleven gone for ever, twelve coming on to pass away. After a hard
-contest with that eccentric action of thought which had last perplexed
-him, he had got the better of it. He walked up and down, softly
-repeating their names to himself. The worst of the strife was over.
-He could walk up and down, free from distracting fancies, praying for
-himself and for them.
+As The Vengeance descends from her elevation to do it, the tumbrils
+begin to discharge their loads. The ministers of Sainte Guillotine are
+robed and ready. Crash!--A head is held up, and the knitting-women who
+scarcely lifted their eyes to look at it a moment ago when it could
+think and speak, count One.
 
-Twelve gone for ever.
+The second tumbril empties and moves on; the third comes up. Crash!--And
+the knitting-women, never faltering or pausing in their Work, count Two.
 
-He had been apprised that the final hour was Three, and he knew he would
-be summoned some [[Time|time]] earlier, inasmuch as the tumbrils jolted heavily
-and slowly through the streets. Therefore, he resolved to keep Two
-before his mind, as the hour, and so to strengthen himself in the
-interval that he might be able, after that [[Time|time]], to strengthen others.
+The supposed Evrémonde descends, and the seamstress is lifted out next
+after him. He has not relinquished her patient hand in getting out, but
+still holds it as he promised. He gently places her with her back to the
+crashing engine that constantly whirrs up and falls, and she looks into
+his face and thanks him.
 
-Walking regularly to and fro with his arms folded on his breast, a very
-different man from the prisoner, who had walked to and fro at La Force,
-he heard One struck away from him, without surprise. The hour had
-measured like most other hours. Devoutly thankful to Heaven for his
-recovered [[Self|self]]-possession, he thought, “There is but another now,” and
-turned to walk again.
+“But for you, dear stranger, I should not be so composed, for I am
+naturally a poor little thing, faint of heart; nor should I have been
+able to raise my thoughts to Him who was put to [[Death|death]], that we might
+have [[Hope|hope]] and comfort here to-day. I think you were sent to me by
+Heaven.”
 
-Footsteps in the stone passage outside the door. He stopped.
+“Or you to me,” says [[Sydney Carton]]. “Keep your eyes upon me, dear [[Child|child]],
+and mind no other object.”
 
-The key was put in the lock, and turned. Before the door was opened, or
-as it opened, a man said in a low voice, in English: “He has never seen
-me here; I have kept out of his way. Go you in [[Alone|alone]]; I wait near. Lose
-no [[Time|time]]!”
+“I mind nothing while I hold your hand. I shall mind nothing when I let
+it go, if they are rapid.”
 
-The door was quickly opened and closed, and there stood before him
-face to face, quiet, intent upon him, with the light of a smile on his
-features, and a cautionary finger on his lip, [[Sydney Carton]].
+“They will be rapid. [[Fear]] not!”
 
-There was something so bright and remarkable in his look, that, for the
-first moment, the prisoner misdoubted him to be an apparition of his own
-imagining. But, he spoke, and it was his voice; he took the prisoner’s
-hand, and it was his real grasp.
+The two stand in the fast-thinning throng of victims, but they speak as
+if they were [[Alone|alone]]. Eye to eye, voice to voice, hand to hand, heart to
+heart, these two children of the Universal Mother, else so wide apart
+and differing, have come together on the dark highway, to repair [[Home|home]]
+together, and to rest in her bosom.
 
-“Of all the people upon earth, you least expected to see me?” he said.
+“Brave and generous friend, will you let me ask you one last question? I
+am very ignorant, and it troubles me--just a little.”
 
-“I could not believe it to be you. I can scarcely believe it now. You
-are not”--the apprehension came suddenly into his mind--“a prisoner?”
+“Tell me what it is.”
 
-“No. I am accidentally possessed of a power over one of the keepers
-here, and in virtue of it I stand before you. I come from her--your
-wife, dear Darnay.”
+“I have a cousin, an only relative and an [[Orphan|orphan]], like myself, whom I
+[[Love|love]] very dearly. She is five years younger than I, and she lives in a
+farmer’s [[house]] in the south country. [[Poverty]] parted us, and she knows
+nothing of my fate--for I cannot write--and if I could, how should I
+tell her! It is better as it is.”
 
-The prisoner wrung his hand.
+“Yes, yes: better as it is.”
 
-“I bring you a request from her.”
+“What I have been thinking as we came along, and what I am still
+thinking now, as I look into your kind strong face which gives me so
+much support, is this:--If the Republic really does good to the poor,
+and they come to be less hungry, and in all ways to suffer less, she may
+live a long [[Time|time]]: she may even live to be old.”
 
-“What is it?”
+“What then, my gentle sister?”
 
-“A most earnest, pressing, and emphatic entreaty, addressed to you
-in the most pathetic tones of the voice so dear to you, that you [[Well|well]]
-remember.”
+“Do you think:” the uncomplaining eyes in which there is so much
+[[Endurance|endurance]], fill with [[Tears|tears]], and the lips part a little more and tremble:
+“that it will seem long to me, while I wait for her in the better land
+where I trust both you and I will be mercifully sheltered?”
 
-The prisoner turned his face partly aside.
+“It cannot be, my [[Child|child]]; there is no [[Time]] there, and no trouble there.”
 
-“You have no [[Time|time]] to ask me why I bring it, or what it means; I have
-no [[Time|time]] to tell you. You must comply with it--take off those boots you
-wear, and draw on these of mine.”
+“You comfort me so much! I am so ignorant. Am I to kiss you now? Is the
+moment come?”
 
-There was a chair against the wall of the cell, behind the prisoner.
-Carton, pressing forward, had already, with the [[Speed|speed]] of [[Lightning|lightning]], got
-him down into it, and stood over him, barefoot.
+“Yes.”
 
-“Draw on these boots of mine. Put your hands to them; put your will to
-them. Quick!”
+She kisses his lips; he kisses hers; they solemnly bless each other.
+The spare hand does not tremble as he releases it; nothing worse than
+a sweet, bright constancy is in the patient face. She goes next before
+him--is gone; the knitting-women count Twenty-Two.
 
-“Carton, there is no escaping from this place; it never can be done. You
-will only die with me. It is [[Madness|madness]].”
+“I am the [[Resurrection]] and the Life, saith the Lord: he that believeth
+in me, though he were dead, yet shall he live: and whosoever liveth and
+believeth in me shall never die.”
 
-“It would be [[Madness|madness]] if I asked you to escape; but do I? When I ask you
-to pass out at that door, tell me it is [[Madness|madness]] and remain here. Change
-that cravat for this of mine, that coat for this of mine. While you do
-it, let me take this ribbon from your hair, and shake out your hair like
-this of mine!”
+The murmuring of many voices, the upturning of many faces, the pressing
+on of many footsteps in the outskirts of the crowd, so that it swells
+forward in a mass, like one great heave of [[Water|water]], all flashes away.
+Twenty-Three.
 
-With wonderful quickness, and with a strength both of will and action,
-that appeared quite [[Supernatural|supernatural]], he forced all these changes upon him.
-The prisoner was like a young [[Child|child]] in his hands.
+        *****
 
-“Carton! Dear Carton! It is [[Madness|madness]]. It cannot be accomplished, it never
-can be done, it has been attempted, and has always failed. I implore you
-not to add your [[Death|death]] to the bitterness of mine.”
+They said of him, about the [[City|city]] that [[Night|night]], that it was the
+peacefullest man’s face ever beheld there. Many added that he looked
+[[Sublime|sublime]] and prophetic.
 
-“Do I ask you, my dear Darnay, to pass the door? When I ask that,
-refuse. There are pen and ink and paper on this table. Is your hand
-steady enough to write?”
+One of the most remarkable sufferers by the same axe--a woman--had asked
+at the foot of the same scaffold, not long before, to be allowed to
+write down the thoughts that were inspiring her. If he had given any
+utterance to his, and they were prophetic, they would have been these:
 
-“It was when you came in.”
+“I see Barsad, and Cly, Defarge, The Vengeance, the Juryman, the Judge,
+long ranks of the new oppressors who have risen on the destruction of
+the old, perishing by this retributive instrument, before it shall cease
+out of its present use. I see a beautiful [[City|city]] and a brilliant people
+rising from this abyss, and, in their struggles to be truly free, in
+their triumphs and defeats, through long years to come, I see the evil
+of this [[Time|time]] and of the previous [[Time|time]] of which this is the natural
+birth, gradually making expiation for itself and wearing out.
 
-“Steady it again, and write what I shall dictate. Quick, friend, quick!”
+“I see the lives for which I lay down my life, peaceful, useful,
+prosperous and happy, in that England which I shall see no more. I see
+Her with a [[Child|child]] upon her bosom, who bears my name. I see her father,
+aged and bent, but otherwise restored, and faithful to all men in his
+healing office, and at peace. I see the good old man, so long their
+friend, in ten years’ [[Time|time]] enriching them with all he has, and passing
+tranquilly to his reward.
 
-Pressing his hand to his bewildered head, Darnay sat down at the table.
-Carton, with his right hand in his breast, stood close beside him.
+“I see that I hold a sanctuary in their hearts, and in the hearts of
+their descendants, generations hence. I see her, an old woman, weeping
+for me on the anniversary of this day. I see her and her husband, their
+course done, lying side by side in their last earthly bed, and I know
+that each was not more honoured and held sacred in the other’s [[Soul|soul]],
+than I was in the souls of both.
 
-“Write exactly as I speak.”
+“I see that [[Child|child]] who lay upon her bosom and who bore my name, a man
+winning his way up in that path of life which once was mine. I see him
+winning it so [[Well|well]], that my name is made illustrious there by the
+light of his. I see the blots I threw upon it, faded away. I see him,
+fore-most of just judges and honoured men, bringing a boy of my name,
+with a forehead that I know and golden hair, to this place--then fair to
+look upon, with not a trace of this day’s disfigurement--and I hear him
+tell the [[Child|child]] my story, with a tender and a faltering voice.
 
-“To whom do I address it?”
-
-“To no one.” Carton still had his hand in his breast.
-
-“Do I date it?”
-
-“No.”
-
-The prisoner looked up, at each question. Carton, standing over him with
-his hand in his breast, looked down.
-
-“‘If you remember,’” said Carton, dictating, “‘the words that passed
-between us, long ago, you will readily comprehend this when you see it.
-You do remember them, I know. It is not in your [[Nature|nature]] to forget them.’”
-
-He was drawing his hand from his breast; the prisoner chancing to look
-up in his hurried [[Wonder|wonder]] as he wrote, the hand stopped, closing upon
-something.
-
-“Have you written ‘forget them’?” Carton asked.
-
-“I have. Is that a weapon in your hand?”
-
-“No; I am not armed.”
-
-“What is it in your hand?”
-
-“You shall know directly. Write on; there are but a few words more.” He
-dictated again. “‘I am thankful that the [[Time|time]] has come, when I can prove
-them. That I do so is no subject for regret or grief.’” As he said these
-words with his eyes fixed on the writer, his hand slowly and softly
-moved down close to the writer’s face.
-
-The pen dropped from Darnay’s fingers on the table, and he looked about
-him vacantly.
-
-“What vapour is that?” he asked.
-
-“Vapour?”
-
-“Something that crossed me?”
-
-“I am conscious of nothing; there can be nothing here. Take up the pen
-and finish. Hurry, hurry!”
-
-As if his [[Memory|memory]] were impaired, or his faculties disordered, the
-prisoner made an effort to rally his attention. As he looked at Carton
-with clouded eyes and with an altered manner of breathing, Carton--his
-hand again in his breast--looked steadily at him.
-
-“Hurry, hurry!”
-
-The prisoner bent over the paper, once more.
-
-“‘If it had been otherwise;’” Carton’s hand was again watchfully and
-softly stealing down; “‘I never should have used the longer opportunity.
-If it had been otherwise;’” the hand was at the prisoner’s face; “‘I
-should but have had so much the more to answer for. If it had been
-otherwise--’” Carton looked at the pen and saw it was trailing off into
-unintelligible signs.
+“It is a far, far better thing that I do, than I have ever done; it is a
+far, far better rest that I go to than I have ever known.”

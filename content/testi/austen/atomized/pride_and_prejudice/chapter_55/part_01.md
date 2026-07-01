@@ -1,5 +1,5 @@
 ---
-title: "[[Pride and Prejudice]] — Chapter 55 (part 1)"
+title: "Pride and Prejudice — Chapter 55 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/pride-and-prejudice-(austen)"
@@ -139,9 +139,3 @@ delight, which words could but poorly express. Every sentence of
 kindness was a fresh source of happiness to Jane. But she would not
 allow herself to stay with her sister, or say half that remained to be
 said, for the present.
-
-“I must go instantly to my mother,” she cried. “I would not on any
-account trifle with her affectionate solicitude, or allow her to hear it
-from anyone but myself. He is gone to my father already. Oh, Lizzy, to
-know that what I have to relate will give such pleasure to all my dear
-family! how shall I bear so much happiness?”

@@ -1,5 +1,5 @@
 ---
-title: "Alls [[Well]] that Ends [[Well]] — Act I, Scene 3 — monologue ([[Helen|HELEN]]) [4]"
+title: "Alls Well that Ends Well — Act I, Scene 3 — monologue (HELEN) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/all’s-well-that-ends-well-(shakespeare)"

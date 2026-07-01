@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 23 (part 1)"
+title: "Jane Eyre — Chapter 23 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -125,15 +125,3 @@ strayed down in the direction of the sunk fence and the [[Horse|horse]]-chestnut
 “You must have become in some degree attached to the [[house]],—you, who
 have an eye for natural beauties, and a good deal of the organ of
 Adhesiveness?”
-
-“I am attached to it, indeed.”
-
-“And though I don’t comprehend how it is, I perceive you have acquired
-a degree of regard for that foolish little [[Child|child]] Adèle, too; and even
-for simple dame Fairfax?”
-
-“Yes, sir; in different ways, I have an affection for both.”
-
-“And would be sorry to part with them?”
-
-“Yes.”

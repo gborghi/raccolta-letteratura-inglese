@@ -14,6 +14,13 @@ tags:
 </nav>
 
 
+After two hours and a half of this odd travelling (including a stoppage
+at a small town, where we were saluted by a gun considerably bigger than
+our own chimney), we reached Hartford, and straightway repaired to an
+extremely comfortable hotel: except, as usual, in the article of
+bedrooms, which, in almost every place we visited, were very conducive to
+early rising.
+
 We tarried here, four days.  The town is beautifully situated in a basin
 of green hills; the soil is rich, [[Well|well]]-wooded, and carefully improved.
 It is the seat of the local legislature of Connecticut, which sage [[Body|body]]
@@ -142,13 +149,3 @@ out of doors.  I [[Hope|hope]] _she_ is not mad?’
 ‘[[Well]]!’ thought I, ‘it would be [[Well|well]] if we could shut up a few false
 prophets of these later times, who have professed to do the same; and I
 should like to try the experiment on a Mormonist or two to begin with.’
-
-In this place, there is the best jail for untried offenders in the world.
-There is also a very [[Well|well]]-ordered State [[Prison|prison]], arranged upon the same
-plan as that at Boston, except that here, there is always a sentry on the
-wall with a loaded gun.  It contained at that [[Time|time]] about two hundred
-prisoners.  A spot was shown me in the sleeping ward, where a watchman
-was murdered some years since in the dead of [[Night|night]], in a desperate
-attempt to escape, made by a prisoner who had broken from his cell.  A
-woman, too, was pointed out to me, who, for the murder of her husband,
-had been a close prisoner for sixteen years.

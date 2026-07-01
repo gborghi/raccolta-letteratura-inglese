@@ -1,5 +1,5 @@
 ---
-title: "The Ballad of the White [[Horse]]"
+title: "The Ballad of the White Horse"
 author: "Chesterton"
 unitType: work
 parentWork: "works/the-ballad-of-the-white-horse-(chesterton)"

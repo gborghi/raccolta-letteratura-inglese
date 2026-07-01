@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 44 (part 1)"
+title: "The Tenant of Wildfell Hall — Chapter 44 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/works/the-tenant-of-wildfell-hall-(bronte)">The Tenant of Wildfell Hall</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_43/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_44/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_43/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_44/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -100,7 +100,7 @@ I had been constrained to borrow of Rachel, for want of such an article
 
 myself. It was not in the newest fashion, of course; but none the worse
 
-for that, under present circumstances. [[arthur|Arthur]] was clad in his plainest
+for that, under present circumstances. [[Arthur]] was clad in his plainest
 
 clothes, and wrapped in a coarse woollen shawl; and Rachel was muffled
 
@@ -150,7 +150,7 @@ was in bed. And a dreary ride we had of it, that last stage of the
 
 to cling to, nothing to lean against, slowly dragged and cruelly shaken
 
-over the rough, hilly roads. But [[arthur|Arthur]] was asleep in Rachel’s lap, and
+over the rough, hilly roads. But [[Arthur]] was asleep in Rachel’s lap, and
 
 between us we managed pretty [[Well|well]] to shield him from the cold [[Night|night]]
 
@@ -164,7 +164,7 @@ spite of the darkness, Rachel said she remembered [[Well|well]]: she had often
 
 walked there with me in her arms, and little thought to come again so
 
-many years after, under such circumstances as the present. [[arthur|Arthur]] being
+many years after, under such circumstances as the present. [[Arthur]] being
 
 now awakened by the jolting and the stoppages, we all got out and
 
@@ -203,11 +203,3 @@ as a kitchen. Here she procured us a light, roused the [[Fire|fire]] to a
 cheerful blaze, and soon prepared a simple repast for our refreshment;
 
 while we disencumbered ourselves of our travelling-gear, and took a
-
-hasty survey of our new abode. Besides the kitchen, there were two
-
-bedrooms, a good-sized parlour, and another smaller one, which I
-
-destined for my studio, all [[Well|well]] aired and seemingly in good repair,
-
-but only partly furnished with a few old articles, chiefly of ponderous

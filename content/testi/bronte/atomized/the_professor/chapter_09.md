@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 8"
+title: "The Professor — Chapter 8"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-professor-(bronte)"
@@ -15,8 +15,6 @@ tags:
 
 
 CHAPTER VIII.
-
-
 
 AND Pelet himself? How did I continue to like him? Oh, extremely [[Well|well]]!
 
@@ -36,11 +34,7 @@ that I was a little shocked at the difference he made between them and
 
 me, and accounted for it by saying, with a quiet sarcastic smile--
 
-
-
 “Ce ne sont que des Flamands--allez!”
-
-
 
 And then he took his cigar gently from his lips and spat on the painted
 
@@ -104,8 +98,6 @@ mere licentiousness. He felt the difference of our notions, and, by
 
 mutual consent, we kept off ground debateable.
 
-
-
 Pelet’s [[house]] was kept and his kitchen managed by his mother, a real
 
 old Frenchwoman; she had been handsome--at least she told me so, and I
@@ -140,8 +132,6 @@ her, his reproofs were bitter and unsparing; but he seldom gave himself
 
 that trouble.
 
-
-
 Madame Pelet had her own society, her own circle of chosen visitors,
 
 whom, however, I seldom saw, as she generally entertained them in what
@@ -164,8 +154,6 @@ quite out of the question. These details will sound very odd in English
 
 ears, but Belgium is not England, and its ways are not our ways.
 
-
-
 Madame Pelet’s habits of life, then, being taken into consideration,
 
 I was a good deal surprised when, one [[thursday|Thursday]] evening ([[thursday|Thursday]] was
@@ -179,8 +167,6 @@ tapped at the door, and, on its being opened, presented Madame Pelet’s
 compliments, and she would be happy to see me to take my “gouter” (a
 
 meal which answers to our English “tea”) with her in the dining-room.
-
-
 
 “Plait-il?” said I, for I thought I must have misunderstood, the
 
@@ -196,15 +182,11 @@ he was a member. Just as I laid my hand on the handle of the dining-room
 
 door, a queer idea glanced across my mind.
 
-
-
 “Surely she’s not going to make [[Love|love]] to me,” said I. “I’ve heard of
 
 old Frenchwomen doing odd things in that line; and the gouter? They
 
 generally begin such affairs with eating and drinking, I believe.”
-
-
 
 There was a fearful dismay in this suggestion of my excited [[Imagination|imagination]],
 
@@ -223,8 +205,6 @@ anticipation shall be realized. I turned the door-handle, and in an
 instant had crossed the fatal threshold, closed the door behind me, and
 
 stood in the presence of Madame Pelet.
-
-
 
 Gracious heavens! The first view of her seemed to confirm my worst
 
@@ -246,21 +226,17 @@ fauteuil beside it. This was a woman, too, and, moreover, an old woman,
 
 and as fat and as rubicund as Madame Pelet was meagre and yellow; her
 
-attire was likewise very fine, and [[spring]] [[Flowers|flowers]] of different hues
+attire was likewise very fine, and [[Spring|spring]] [[Flowers|flowers]] of different hues
 
 circled in a bright wreath the [[Crown|crown]] of her violet-coloured velvet
 
 bonnet.
-
-
 
 I had only [[Time|time]] to make these general observations when Madame Pelet,
 
 coming forward with what she intended should be a graceful and elastic
 
 step, thus accosted me:
-
-
 
 “Monsieur is indeed most obliging to quit his books, his studies, at the
 
@@ -270,13 +246,9 @@ kindness by allowing me to present him to my dear friend Madame Reuter,
 
 who resides in the neighbouring [[house]]--the young ladies’ school.”
 
-
-
 “Ah!” thought I, “I knew she was old,” and I bowed and took my seat.
 
 Madame Reuter placed herself at the table opposite to me.
-
-
 
 “How do you like Belgium, Monsieur?” asked she, in an accent of the
 
@@ -334,8 +306,6 @@ I obeyed; and being seated fairly between them, I was thus addressed
 
 first by Madame Pelet, then by Madame Reuter.
 
-
-
 “We will now speak of business,” said Madame Pelet, and she went on to
 
 make an elaborate speech, which, being interpreted, was to the effect
@@ -346,8 +316,6 @@ order to give her friend Madame Reuter an opportunity of broaching an
 
 important proposal, which might turn out greatly to my advantage.
 
-
-
 “Pourvu que vous soyez sage,” said Madame Reuter, “et a vrai dire,
 
 vous en avez bien l’air. Take one drop of the punch” (or ponche, as she
@@ -356,11 +324,7 @@ pronounced it); “it is an agreeable and wholesome beverage after a full
 
 meal.”
 
-
-
 I bowed, but again declined it. She went on:
-
-
 
 “I feel,” said she, after a solemn sip--“I feel profoundly the
 
@@ -370,15 +334,11 @@ me, for you are aware, Monsieur, that it is my daughter who directs the
 
 establishment in the next [[house]]?”
 
-
-
 “Ah! I thought it was yourself, madame.” Though, indeed, at that moment
 
 I recollected that it was called Mademoiselle, not Madame Reuter’s
 
 pensionnat.
-
-
 
 “I! Oh, no! I manage the [[house]] and look after the servants, as my friend
 
@@ -386,13 +346,9 @@ Madame Pelet does for Monsieur her son--nothing more. Ah! you thought I
 
 gave lessons in class--did you?”
 
-
-
 And she laughed loud and long, as though the idea tickled her fancy
 
 amazingly.
-
-
 
 “Madame is in the wrong to laugh,” I observed; “if she does not give
 
@@ -402,15 +358,11 @@ white pocket-handkerchief and wafted it, with a French grace, past my
 
 nose, bowing at the same [[Time|time]].
 
-
-
 “Quel charmant jeune homme!” murmured Madame Pelet in a low voice.
 
 Madame Reuter, being less sentimental, as she was Flamand and not
 
 French, only laughed again.
-
-
 
 “You are a dangerous person, I [[Fear|fear]],” said she; “if you can forge
 
@@ -444,11 +396,7 @@ daughter, I mean; she is so discreet and circumspect herself, she cannot
 
 understand that one should find a pleasure in gossiping a little--”
 
-
-
 “C’est absolument comme mon fils!” cried Madame Pelet.
-
-
 
 “All the world is so changed since our girlhood!” rejoined the other:
 
@@ -466,8 +414,6 @@ you from M. Pelet himself, and be sure you never mention my name, for I
 
 would not displease Zoraide on any account.”
 
-
-
 “Bien! bien!” interrupted I--for all this chatter and circumlocution
 
 began to bore me very much; “I will consult M. Pelet, and the thing
@@ -476,23 +422,15 @@ shall be settled as you [[Desire|desire]]. Good evening, mesdames--I am infinite
 
 obliged to you.”
 
-
-
 “Comment! vous vous en allez deja?” exclaimed Madame Pelet.
-
-
 
 “Prenez encore quelquechose, monsieur; une pomme cuite, des biscuits,
 
 encore une tasse de cafe?”
 
-
-
 “Merci, merci, madame--au revoir.” And I backed at last out of the
 
 apartment.
-
-
 
 Having regained my own room, I set myself to turn over in my mind
 

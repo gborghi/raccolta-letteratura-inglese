@@ -1,5 +1,5 @@
 ---
-title: "[[AllThingsConsidered-8]] — THE MAID OF ORLEANS"
+title: "AllThingsConsidered-8 — THE MAID OF ORLEANS"
 author: "Chesterton"
 unitType: story
 parentWork: "works/allthingsconsidered-8-(chesterton)"
@@ -10,12 +10,11 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/allthingsconsidered-8-(chesterton)">AllThingsConsidered 8</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_32_tom_jones_and_morality">‹ Story 32 TOM JONES AND MORALITY</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_34_a_dead_poet">Story 34 A DEAD POET ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_32_tom_jones_jones_and_morality_morality">‹ Story 32 TOM Jones JONES AND morality MORALITY</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_34_a_dead_poet">Story 34 A DEAD POET ›</a></div>
 </nav>
 
 
 THE MAID OF ORLEANS
-
 
 A considerable [[Time|time]] ago (at far too early an age, in fact)
 I read Voltaire's "La Pucelle," a savage sarcasm on the

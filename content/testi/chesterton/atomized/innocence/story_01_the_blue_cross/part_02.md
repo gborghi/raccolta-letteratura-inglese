@@ -1,5 +1,5 @@
 ---
-title: "[[innocence]] — The Blue [[Cross]] (part 2)"
+title: "innocence — The Blue Cross (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -110,9 +110,3 @@ which puts the sugar in the salt-cellars and the salt in the sugar-basin.
 Except for an odd splash of some dark fluid on one of the white-papered
 walls, the whole place appeared neat, cheerful and ordinary.
 He rang the bell for the waiter.
-
-When that official hurried up, fuzzy-haired and somewhat
-blear-eyed at that early hour, the [[Detective|detective]] (who was not without
-an appreciation of the simpler forms of [[Humour|humour]]) asked him to taste
-the sugar and see if it was up to the high reputation of the hotel.
-The result was that the waiter yawned suddenly and woke up.

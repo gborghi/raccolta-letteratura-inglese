@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 45 (part 1)"
+title: "The Tenant of Wildfell Hall — Chapter 45 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -150,7 +150,7 @@ Just in [[Time|time]] to prevent me from committing the impropriety of taking
 
 the citadel by [[Storm|storm]], and pushing forward unannounced, an inner door
 
-opened, and little [[arthur|Arthur]] appeared with his frolicsome playfellow, the
+opened, and little [[Arthur]] appeared with his frolicsome playfellow, the
 
 dog. He seized my hand between both his, and smilingly drew me forward.
 
@@ -235,9 +235,3 @@ reap them to the end.”
 Bitter, indeed, was the tone of anguish, repressed by resolute
 
 firmness, in which this was spoken. Now, I raised her hand to my lips,
-
-and fervently kissed it again and again; for [[Tears|tears]] prevented any other
-
-reply. She suffered these wild caresses without resistance or
-
-resentment; then, suddenly turning from me, she paced twice or thrice

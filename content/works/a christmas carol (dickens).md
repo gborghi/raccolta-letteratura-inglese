@@ -66,7 +66,7 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Chapter 01 MARLEY S GHOST](/testi/dickens/atomized/a_christmas_carol/chapter_01_marley_s_ghost)
+- Chapter 01 MARLEY S GHOST
 - [Chapter 02 THE FIRST OF THE THREE SPIRITS](/testi/dickens/atomized/a_christmas_carol/chapter_02_the_first_of_the_three_spirits)
 - [Chapter 03 THE SECOND OF THE THREE SPIRIT](/testi/dickens/atomized/a_christmas_carol/chapter_03_the_second_of_the_three_spirit)
 - [Chapter 04 THE LAST OF THE SPIRITS](/testi/dickens/atomized/a_christmas_carol/chapter_04_the_last_of_the_spirits)

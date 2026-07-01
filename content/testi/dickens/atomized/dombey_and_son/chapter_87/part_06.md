@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 31 (part 6)"
+title: "Dombey and Son — Chapter 59 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -10,105 +10,111 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/dombey-and-son-(dickens)">Dombey and Son</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_87/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_88/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_87/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_87/part_07">part 07 ›</a></div>
 </nav>
 
 
-The chariot is at the door; the Bride is descending to the hall, where
-Mr Dombey waits for her. Florence is ready on the staircase to depart
-too; and Miss Nipper, who has held a middle state between the parlour
-and the kitchen, is prepared to accompany her. As Edith appears,
-Florence hastens towards her, to bid her farewell.
+He came out of his [[Solitude|solitude]] when it was the dead of [[Night|night]], and with a
+candle in his hand went softly up the stairs. Of all the footmarks
+there, making them as common as the common street, there was not one,
+he thought, but had seemed at the [[Time|time]] to set itself upon his brain
+while he had kept close, listening. He looked at their number, and
+their hurry, and contention—foot treading foot out, and upward track
+and downward jostling one another—and thought, with absolute dread and
+[[Wonder|wonder]], how much he must have suffered during that trial, and what a
+changed man he had cause to be. He thought, besides, oh was there,
+somewhere in the world, a light footstep that might have worn out in a
+moment half those marks!—and bent his head, and wept as he went up.
 
-Is Edith cold, that she should tremble! Is there anything unnatural or
-unwholesome in the touch of Florence, that the beautiful form recedes
-and contracts, as if it could not bear it! Is there so much hurry in
-this going away, that Edith, with a wave of her hand, sweeps on, and is
-gone!
+He almost saw it, going on before. He stopped, looking up towards the
+skylight; and a figure, childish itself, but carrying a [[Child|child]], and
+singing as it went, seemed to be there again. Anon, it was the same
+figure, [[Alone|alone]], stopping for an instant, with suspended breath; the
+bright hair clustering loosely round its tearful face; and looking back
+at him.
 
-Mrs Skewton, overpowered by her feelings as a mother, sinks on her sofa
-in the [[Cleopatra]] attitude, when the clatter of the chariot wheels is
-lost, and sheds several [[Tears|tears]]. The Major, coming with the rest of the
-company from table, endeavours to comfort her; but she will not be
-comforted on any terms, and so the Major takes his leave. Cousin Feenix
-takes his leave, and Mr Carker takes his leave. The guests all go away.
-[[Cleopatra]], left [[Alone|alone]], feels a little giddy from her strong emotion,
-and falls asleep.
+He wandered through the rooms: lately so luxurious; now so bare and
+dismal and so changed, apparently, even in their shape and size. The
+press of footsteps was as thick here; and the same consideration of the
+[[Suffering|suffering]] he had had, perplexed and terrified him. He began to [[Fear|fear]]
+that all this intricacy in his brain would drive him mad; and that his
+thoughts already lost coherence as the footprints did, and were pieced
+on to one another, with the same trackless involutions, and varieties
+of indistinct shapes.
 
-Giddiness prevails below stairs too. The very tall young man whose
-excitement came on so soon, appears to have his head glued to the table
-in the pantry, and cannot be detached from it. A violent revulsion has
-taken place in the spirits of Mrs Perch, who is low on account of Mr
-Perch, and tells cook that she fears he is not so much attached to his
-[[Home|home]], as he used to be, when they were only nine in family. Mr
-Towlinson has a singing in his ears and a large [[Wheel|wheel]] going round and
-round inside his head. The housemaid wishes it wasn’t wicked to wish
-that one was dead.
+He did not so much as know in which of these rooms she had lived, when
+she was [[Alone|alone]]. He was glad to leave them, and go wandering higher up.
+Abundance of associations were here, connected with his false wife, his
+false friend and servant, his false grounds of [[Pride|pride]]; but he put them
+all by now, and only recalled miserably, weakly, fondly, his two
+children.
 
-There is a general delusion likewise, in these lower regions, on the
-subject of [[Time|time]]; everybody conceiving that it ought to be, at the
-earliest, ten o’[[Clock|clock]] at [[Night|night]], whereas it is not yet three in the
-afternoon. A shadowy idea of wickedness committed, haunts every
-individual in the party; and each one secretly thinks the other a
-companion in [[Guilt|guilt]], whom it would be agreeable to avoid. No man or
-woman has the hardihood to hint at the projected visit to the play.
-Anyone reviving the notion of the ball, would be scouted as a malignant
-idiot.
+Everywhere, the footsteps! They had had no respect for the old room
+high up, where the little bed had been; he could hardly find a clear
+space there, to throw himself down, on the floor, against the wall,
+poor broken man, and let his [[Tears|tears]] flow as they would. He had shed so
+many [[Tears|tears]] here, long ago, that he was less ashamed of his weakness in
+this place than in any other—perhaps, with that consciousness, had made
+excuses to himself for coming here. Here, with stooping shoulders, and
+his chin dropped on his breast, he had come. Here, thrown upon the bare
+boards, in the dead of [[Night|night]], he wept, [[Alone|alone]]—a proud man, even then;
+who, if a kind hand could have been stretched out, or a kind face could
+have looked in, would have risen up, and turned away, and gone down to
+his cell.
 
-Mrs Skewton sleeps upstairs, two hours afterwards, and naps are not yet
-over in the kitchen. The hatchments in the dining-room look down on
-crumbs, dirty plates, spillings of wine, half-thawed ice, stale
-discoloured heel-taps, scraps of lobster, drumsticks of fowls, and
-pensive jellies, gradually resolving themselves into a lukewarm gummy
-soup. The [[Marriage|marriage]] is, by this [[Time|time]], almost as denuded of its show and
-garnish as the breakfast. Mr Dombey’s servants moralise so much about
-it, and are so repentant over their early tea, at [[Home|home]], that by eight
-o’[[Clock|clock]] or so, they settle down into confirmed seriousness; and Mr
-Perch, arriving at that [[Time|time]] from the [[City]], fresh and jocular, with a
-white waistcoat and a comic [[Song|song]], ready to spend the evening, and
-prepared for any amount of dissipation, is amazed to find himself
-coldly received, and Mrs Perch but poorly, and to have the pleasing
-duty of escorting that lady [[Home|home]] by the next omnibus.
+When the day broke he was shut up in his rooms again. He had meant to
+go away today, but clung to this tie in the [[house]] as the last and only
+thing left to him. He would go to-morrow. To-morrow came. He would go
+to-morrow. Every [[Night|night]], within the knowledge of no human creature, he
+came forth, and wandered through the despoiled [[house]] like a [[Ghost|ghost]]. Many
+a morning when the day broke, his altered face, drooping behind the
+closed blind in his [[Window|window]], imperfectly transparent to the light as
+yet, pondered on the loss of his two children. It was one [[Child|child]] no
+more. He reunited them in his thoughts, and they were never asunder.
+Oh, that he could have united them in his past [[Love|love]], and in [[Death|death]], and
+that one had not been so much worse than dead!
 
-[[Night]] closes in. Florence, having rambled through the handsome [[house]],
-from room to room, seeks her own chamber, where the care of Edith has
-surrounded her with luxuries and comforts; and divesting herself of her
-handsome dress, puts on her old simple mourning for dear Paul, and sits
-down to read, with Diogenes winking and blinking on the ground beside
-her. But Florence cannot read tonight. The [[house]] seems strange and new,
-and there are loud echoes in it. There is a [[Shadow|shadow]] on her heart: she
-knows not why or what: but it is heavy. Florence shuts her book, and
-gruff Diogenes, who takes that for a signal, puts his paws upon her
-lap, and rubs his ears against her caressing hands. But Florence cannot
-see him plainly, in a little [[Time|time]], for there is a mist between her eyes
-and him, and her dead brother and dead mother shine in it like angels.
-Walter, too, poor wandering shipwrecked boy, oh, where is he?
+Strong mental agitation and disturbance was no novelty to him, even
+before his late sufferings. It never is, to obstinate and sullen
+natures; for they struggle hard to be such. Ground, long undermined,
+will often fall down in a moment; what was undermined here in so many
+ways, weakened, and crumbled, little by little, more and more, as the
+hand moved on the dial.
 
-The Major don’t know; that’s for certain; and don’t care. The Major,
-having choked and slumbered, all the afternoon, has taken a late dinner
-at his club, and now sits over his pint of wine, driving a modest young
-man, with a fresh-coloured face, at the next table (who would give a
-handsome sum to be able to rise and go away, but cannot do it) to the
-verge of [[Madness|madness]], by anecdotes of Bagstock, Sir, at Dombey’s wedding,
-and Old Joe’s devilish gentle manly friend, Lord Feenix. While Cousin
-Feenix, who ought to be at Long’s, and in bed, finds himself, instead,
-at a gaming-table, where his wilful legs have taken him, perhaps, in
-his own despite.
+At last he began to think he need not go at all. He might yet give up
+what his creditors had spared him (that they had not spared him more,
+was his own act), and only sever the tie between him and the ruined
+[[house]], by severing that other link—
 
-[[Night]], like a giant, fills the church, from pavement to roof, and holds
-dominion through the silent hours. Pale [[Dawn|dawn]] again comes peeping
-through the windows: and, giving place to day, sees [[Night|night]] withdraw into
-the vaults, and follows it, and drives it out, and hides among the
-dead. The timid mice again cower close together, when the great door
-clashes, and Mr Sownds and Mrs Miff treading the circle of their daily
-lives, unbroken as a [[Marriage|marriage]] ring, come in. Again, the cocked hat and
-the mortified bonnet stand in the background at the [[Marriage|marriage]] hour; and
-again this man taketh this woman, and this woman taketh this man, on
-the solemn terms:
+It was then that his footfall was audible in the late housekeeper’s
+room, as he walked to and fro; but not audible in its true meaning, or
+it would have had an appalling sound.
 
-“To have and to hold, from this day forward, for better for worse, for
-richer for poorer, in sickness and in health, to [[Love|love]] and to cherish,
-until [[Death|death]] do them part.”
+The world was very busy and restless about him. He became aware of that
+again. It was whispering and babbling. It was never quiet. This, and
+the intricacy and complication of the footsteps, harassed him to [[Death|death]].
+Objects began to take a bleared and russet colour in his eyes. Dombey
+and Son was no more—his children no more. This must be thought of,
+[[Well|well]], to-morrow.
 
-The very words that Mr Carker rides into town repeating, with his mouth
-stretched to the utmost, as he picks his dainty way.
+He thought of it to-morrow; and sitting thinking in his chair, saw in
+the glass, from [[Time|time]] to [[Time|time]], this picture:
+
+A spectral, haggard, wasted likeness of himself, brooded and brooded
+over the empty fireplace. Now it lifted up its head, examining the
+lines and hollows in its face; now hung it down again, and brooded
+afresh. Now it [[Rose|rose]] and walked about; now passed into the next room,
+and came back with something from the dressing-table in its breast.
+Now, it was looking at the [[Bottom|bottom]] of the door, and thinking.
+
+—Hush! what?
+
+It was thinking that if [[Blood|blood]] were to trickle that way, and to leak out
+into the hall, it must be a long [[Time|time]] going so far. It would move so
+stealthily and slowly, creeping on, with here a lazy little pool, and
+there a start, and then another little pool, that a desperately wounded
+man could only be discovered through its means, either dead or dying.
+When it had thought of this a long while, it got up again, and walked
+to and fro with its hand in its breast. He glanced at it occasionally,
+very curious to watch its motions, and he marked how wicked and
+murderous that hand looked.

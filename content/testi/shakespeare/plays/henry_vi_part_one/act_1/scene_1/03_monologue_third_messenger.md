@@ -1,5 +1,5 @@
 ---
-title: "[[Henry VI]] Part One — Act I, Scene 1 — monologue (THIRD MESSENGER) [3]"
+title: "Henry VI Part One — Act I, Scene 1 — monologue (THIRD MESSENGER) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/henry-vi-part-one-(shakespeare)"

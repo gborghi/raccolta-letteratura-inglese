@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 21: LITTLE EM’LY (part 4)"
+title: "David Copperfield — Chapter 21: LITTLE EM’LY (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_21_little_emly/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_21_little_emly/part_05">part 05 ›</a></div>
 </nav>
 
+
+I was too bashful to do so then--I was afraid of confusing her, and I
+was no less afraid of confusing myself.--but I informed myself of the
+hour at which she left of an evening, in order that our visit might
+be timed accordingly; and taking leave of Mr. Omer, and his pretty
+daughter, and her little children, went away to my dear old Peggotty’s.
 
 Here she was, in the tiled kitchen, cooking dinner! The moment I knocked
 at the door she opened it, and asked me what I pleased to want. I looked
@@ -153,15 +159,3 @@ woke up from a refreshing [[Sleep|sleep]], and to produce a guinea from under hi
 pillow. His satisfaction in which happy imposition on us, and in
 having preserved the impenetrable secret of the box, appeared to be a
 sufficient compensation to him for all his tortures.
-
-I prepared Peggotty for Steerforth’s arrival and it was not long before
-he came. I am persuaded she knew no difference between his having been a
-personal benefactor of hers, and a kind friend to me, and that she would
-have received him with the utmost gratitude and devotion in any case.
-But his easy, spirited good [[Humour|humour]]; his genial manner, his handsome
-looks, his natural gift of adapting himself to whomsoever he pleased,
-and making direct, when he cared to do it, to the main point of interest
-in anybody’s heart; bound her to him wholly in five minutes. His
-manner to me, [[Alone|alone]], would have won her. But, through all these causes
-combined, I sincerely believe she had a kind of adoration for him before
-he left the [[house]] that [[Night|night]].

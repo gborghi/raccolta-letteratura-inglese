@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 10 (part 4)"
+title: "Our Mutual Friend — Chapter 11 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,152 +14,142 @@ tags:
 </nav>
 
 
-In which state of affairs, the usual ceremonies rather droop and [[Flag|flag]],
-and the splendid cake when cut by the fair hand of the bride has but
-an indigestible appearance. However, all the things indispensable to
-be said are said, and all the things indispensable to be done are
-done (including Lady Tippins’s yawning, falling asleep, and waking
-insensible), and there is hurried preparation for the nuptial [[Journey|journey]]
-to the Isle of Wight, and the outer air teems with brass bands and
-spectators. In full sight of whom, the malignant star of the Analytical
-has pre-ordained that [[Pain|pain]] and ridicule shall befall him. For he,
-standing on the doorsteps to grace the departure, is suddenly caught a
-most prodigious thump on the side of his head with a heavy shoe, which
-a Buffer in the hall, champagne-flushed and wild of aim, has borrowed on
-the spur of the moment from the pastrycook’s porter, to cast after the
-departing pair as an auspicious omen.
+The Lammles were so fond of the dear Veneerings that they could not for
+some [[Time|time]] detach themselves from those excellent friends; but at length,
+either a very open smile on Mr Lammle’s part, or a very secret elevation
+of one of his gingerous eyebrows—certainly the one or the other—seemed
+to say to Mrs Lammle, ‘Why don’t you play?’ And so, looking about her,
+she saw Miss Podsnap, and seeming to say responsively, ‘That card?’ and
+to be answered, ‘Yes,’ went and sat beside Miss Podsnap.
 
-So they all go up again into the gorgeous drawing-rooms—all of them
-flushed with breakfast, as having taken scarlatina sociably—and there
-the combined unknowns do malignant things with their legs to ottomans,
-and take as much as possible out of the splendid furniture. And so, Lady
-Tippins, quite undetermined whether today is the day before yesterday,
-or the day after to-morrow, or the week after next, fades away; and
-Mortimer Lightwood and Eugene fade away, and Twemlow fades away, and
-the stoney aunt goes away—she declines to fade, proving rock to the
-last—and even the unknowns are slowly strained off, and it is all over.
+Mrs Lammle was overjoyed to escape into a corner for a little quiet
+talk.
 
-All over, that is to say, for the [[Time|time]] being. But, there is another [[Time|time]]
-to come, and it comes in about a fortnight, and it comes to Mr and Mrs
-Lammle on the sands at Shanklin, in the Isle of Wight.
+It promised to be a very quiet talk, for Miss Podsnap replied in a
+flutter, ‘Oh! Indeed, it’s very kind of you, but I am afraid I DON’T
+talk.’
 
-Mr and Mrs Lammle have walked for some [[Time|time]] on the Shanklin sands, and
-one may see by their footprints that they have not walked arm in arm,
-and that they have not walked in a straight track, and that they have
-walked in a moody [[Humour|humour]]; for, the lady has prodded little spirting
-holes in the damp sand before her with her parasol, and the gentleman
-has trailed his stick after him. As if he were of the Mephistopheles
-family indeed, and had walked with a drooping tail.
+‘Let us make a beginning,’ said the insinuating Mrs Lammle, with her
+best smile.
 
-‘Do you mean to tell me, then, Sophronia—’
+‘Oh! I am afraid you’ll find me very dull. But Ma talks!’
 
-Thus he begins after a long [[Silence|silence]], when Sophronia flashes fiercely,
-and turns upon him.
+That was plainly to be seen, for Ma was talking then at her usual
+canter, with arched head and mane, opened eyes and nostrils.
 
-‘Don’t put it upon ME, sir. I ask you, do YOU mean to tell me?’
+‘Fond of reading perhaps?’
 
-Mr Lammle falls silent again, and they walk as before. Mrs Lammle opens
-her nostrils and bites her under-lip; Mr Lammle takes his gingerous
-whiskers in his left hand, and, bringing them together, frowns furtively
-at his beloved, out of a thick gingerous bush.
+‘Yes. At least I—don’t mind that so much,’ returned Miss Podsnap.
 
-‘Do I mean to say!’ Mrs Lammle after a [[Time|time]] repeats, with indignation.
-‘Putting it on me! The unmanly disingenuousness!’
+‘M-m-m-m-music.’ So insinuating was Mrs Lammle that she got half a dozen
+ms into the word before she got it out.
 
-Mr Lammle stops, releases his whiskers, and looks at her. ‘The what?’
+‘I haven’t nerve to play even if I could. Ma plays.’
 
-Mrs Lammle haughtily replies, without stopping, and without looking
-back. ‘The meanness.’
+(At exactly the same canter, and with a certain flourishing appearance
+of doing something, Ma did, in fact, occasionally take a rock upon the
+instrument.)
 
-He is at her side again in a pace or two, and he retorts, ‘That is not
-what you said. You said disingenuousness.’
+‘Of course you like dancing?’
 
-‘What if I did?’
+‘Oh no, I don’t,’ said Miss Podsnap.
 
-‘There is no “if” in the case. You did.’
+‘No? With your youth and attractions? Truly, my dear, you surprise me!’
 
-‘I did, then. And what of it?’
+‘I can’t say,’ observed Miss Podsnap, after hesitating considerably, and
+stealing several timid looks at Mrs Lammle’s carefully arranged face,
+‘how I might have liked it if I had been a—you won’t mention it, WILL
+you?’
 
-‘What of it?’ says Mr Lammle. ‘Have you the face to utter the word to
-me?’
+‘My dear! Never!’
 
-‘The face, too!’ replied Mrs Lammle, staring at him with cold scorn.
-‘Pray, how dare you, sir, utter the word to me?’
+‘No, I am sure you won’t. I can’t say then how I should have liked it,
+if I had been a chimney-sweep on May-day.’
 
-‘I never did.’
+‘Gracious!’ was the exclamation which amazement elicited from Mrs
+Lammle.
 
-As this happens to be true, Mrs Lammle is thrown on the feminine
-resource of saying, ‘I don’t care what you uttered or did not utter.’
+‘There! I knew you’d [[Wonder|wonder]]. But you won’t mention it, will you?’
 
-After a little more walking and a little more [[Silence|silence]], Mr Lammle breaks
-the latter.
+‘Upon my word, my [[Love|love]],’ said Mrs Lammle, ‘you make me ten times more
+desirous, now I talk to you, to know you [[Well|well]] than I was when I sat over
+yonder looking at you. How I wish we could be real friends! Try me as a
+real friend. Come! Don’t fancy me a frumpy old married woman, my dear;
+I was married but the other day, you know; I am dressed as a bride now,
+you see. About the chimney-sweeps?’
 
-‘You shall proceed in your own way. You claim a right to ask me do I
-mean to tell you. Do I mean to tell you what?’
+‘Hush! Ma’ll hear.’
 
-‘That you are a man of property?’
+‘She can’t hear from where she sits.’
 
-‘No.’
+‘Don’t you be too sure of that,’ said Miss Podsnap, in a lower voice.
+‘[[Well]], what I mean is, that they seem to enjoy it.’
 
-‘Then you married me on false pretences?’
+‘And that perhaps you would have enjoyed it, if you had been one of
+them?’
 
-‘So be it. Next comes what you mean to say. Do you mean to say you are a
-woman of property?’
+Miss Podsnap nodded significantly.
 
-‘No.’
+‘Then you don’t enjoy it now?’
 
-‘Then you married me on false pretences.’
+‘How is it possible?’ said Miss Podsnap. ‘Oh it is such a dreadful
+thing! If I was wicked enough—and strong enough—to kill anybody, it
+should be my partner.’
 
-‘If you were so dull a fortune-hunter that you deceived yourself, or
-if you were so greedy and grasping that you were over-willing to be
-deceived by appearances, is it my fault, you adventurer?’ the lady
-demands, with great asperity.
+This was such an entirely new view of the Terpsichorean art as
+socially practised, that Mrs Lammle looked at her young friend in some
+astonishment. Her young friend sat nervously twiddling her fingers in
+a pinioned attitude, as if she were trying to hide her elbows. But this
+latter Utopian object (in short sleeves) always appeared to be the great
+inoffensive aim of her existence.
 
-‘I asked Veneering, and he told me you were rich.’
+‘It sounds horrid, don’t it?’ said Miss Podsnap, with a penitential
+face.
 
-‘Veneering!’ with great contempt. ‘And what does Veneering know about
-me!’
+Mrs Lammle, not very [[Well|well]] knowing what to answer, resolved herself into
+a look of smiling encouragement.
 
-‘Was he not your trustee?’
+‘But it is, and it always has been,’ pursued Miss Podsnap, ‘such a trial
+to me! I so dread being awful. And it is so awful! No one knows what
+I suffered at Madame Sauteuse’s, where I learnt to [[Dance|dance]] and make
+presentation-curtseys, and other dreadful things—or at least where they
+tried to teach me. Ma can do it.’
 
-‘No. I have no trustee, but the one you saw on the day when you
-fraudulently married me. And his trust is not a very difficult one, for
-it is only an annuity of a hundred and fifteen pounds. I think there are
-some odd shillings or pence, if you are very particular.’
+‘At any rate, my [[Love|love]],’ said Mrs Lammle, soothingly, ‘that’s over.’
 
-Mr Lammle bestows a by no means loving look upon the partner of his joys
-and sorrows, and he mutters something; but checks himself.
+‘Yes, it’s over,’ returned Miss Podsnap, ‘but there’s nothing gained by
+that. It’s worse here, than at Madame Sauteuse’s. Ma was there, and Ma’s
+here; but Pa wasn’t there, and company wasn’t there, and there were not
+real partners there. Oh there’s Ma speaking to the man at the piano! Oh
+there’s Ma going up to somebody! Oh I know she’s going to bring him
+to me! Oh please don’t, please don’t, please don’t! Oh keep away, keep
+away, keep away!’ These pious ejaculations Miss Podsnap uttered with her
+eyes closed, and her head leaning back against the wall.
 
-‘Question for question. It is my turn again, Mrs Lammle. What made you
-suppose me a man of property?’
+But the Ogre advanced under the pilotage of Ma, and Ma said, ‘Georgiana,
+Mr Grompus,’ and the Ogre clutched his victim and bore her off to his
+[[Castle|castle]] in the top couple. Then the discreet automaton who had surveyed
+his ground, played a blossomless tuneless ‘set,’ and sixteen disciples
+of Podsnappery went through the figures of - 1, Getting up at eight and
+shaving close at a quarter past - 2, Breakfasting at nine - 3, Going to
+the [[City]] at ten - 4, Coming [[Home|home]] at half-past five - 5, Dining at seven,
+and the grand chain.
 
-‘You made me suppose you so. Perhaps you will deny that you always
-presented yourself to me in that character?’
+While these solemnities were in progress, Mr Alfred Lammle (most loving
+of husbands) approached the chair of Mrs Alfred Lammle (most loving of
+wives), and bending over the back of it, trifled for some few seconds
+with Mrs Lammle’s bracelet. Slightly in contrast with this brief airy
+toying, one might have noticed a certain dark attention in Mrs Lammle’s
+face as she said some words with her eyes on Mr Lammle’s waistcoat, and
+seemed in return to receive some lesson. But it was all done as a breath
+passes from a [[Mirror|mirror]].
 
-‘But you asked somebody, too. Come, Mrs Lammle, admission for admission.
-You asked somebody?’
-
-‘I asked Veneering.’
-
-‘And Veneering knew as much of me as he knew of you, or as anybody knows
-of him.’
-
-After more silent walking, the bride stops short, to say in a passionate
-manner:
-
-‘I never will forgive the Veneerings for this!’
-
-‘Neither will I,’ returns the bridegroom.
-
-With that, they walk again; she, making those angry spirts in the sand;
-he, dragging that dejected tail. The tide is low, and seems to have
-thrown them together high on the bare shore. A gull comes sweeping by
-their heads and flouts them. There was a golden surface on the brown
-cliffs but now, and behold they are only damp earth. A taunting roar
-comes from the sea, and the far-out rollers mount upon one another,
-to look at the entrapped impostors, and to join in impish and exultant
-gambols.
-
-‘Do you pretend to believe,’ Mrs Lammle resumes, sternly, ‘when you talk
-of my marrying you for worldly advantages, that it was within the bounds
-of reasonable probability that I would have married you for yourself?’
+And now, the grand chain riveted to the last link, the discreet
+automaton ceased, and the sixteen, two and two, took a walk among
+the furniture. And herein the unconsciousness of the Ogre Grompus was
+pleasantly conspicuous; for, that complacent [[Monster|monster]], believing that
+he was giving Miss Podsnap a treat, prolonged to the utmost stretch
+of possibility a peripatetic account of an archery meeting; while his
+victim, heading the procession of sixteen as it slowly circled about,
+like a revolving funeral, never raised her eyes except once to steal a
+glance at Mrs Lammle, expressive of intense [[Despair|despair]].

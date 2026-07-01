@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 33 (part 1)"
+title: "Sense and Sensibility — Chapter 33 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"

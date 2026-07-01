@@ -16,10 +16,6 @@ tags:
 
 CHARLES II
 
-
-
-
-
 There are a great many bonds which still connect us with Charles II.,
 
 one of the idlest men of one of the idlest epochs. Among other things
@@ -50,8 +46,6 @@ But he has quite equally profound doubts as to whether the tree he is
 
 looking at is a tree and not a rhinoceros.
 
-
-
 This is the real meaning of that mystery which appears so prominently in
 
 the lives of great sceptics, which appears with especial prominence in
@@ -69,8 +63,6 @@ of judgment. For it is the assertion of a universal negative; for a man
 to say that there is no God in the universe is like saying that there
 
 are no [[Insects|insects]] in any of the [[Stars|stars]].
-
-
 
 Thus it was with that wholesome and systematic sceptic, Charles II. When
 
@@ -102,8 +94,6 @@ sanctity, with the [[Cross|cross]] uplifted and the prayers poured out, was
 
 consummated the last great act of logical unbelief.
 
-
-
 The problem of Charles II. consists in this, that he has scarcely a
 
 moral virtue to his name, and yet he attracts us morally. We feel that
@@ -117,8 +107,6 @@ these wild and unmentionable virtues. The real [[Truth|truth]] of this matter an
 the real relation of Charles II. to the moral ideal is worth somewhat
 
 more exhaustive study.
-
-
 
 It is a commonplace that the Restoration movement can only be understood
 
@@ -172,8 +160,6 @@ and reverenced, for it is humanity on [[Fire|fire]]; hatred can be genial,
 
 fanatics, but because they were rationalists.
 
-
-
 When we consider these things, when we remember that [[Puritanism]], which
 
 means in our day a moral and almost temperamental attitude, meant in
@@ -223,8 +209,6 @@ George IV. he was a gentleman, and a gentleman is a man who obeys
 strange statutes, not to be found in any moral text-book, and practises
 
 strange virtues nameless from the beginning of the world.
-
-
 
 So much may be said and should be said for the Restoration, that it was
 
@@ -276,8 +260,6 @@ of lawn tennis. It would have appeared to Charles II.'s poets quite as
 
 arduous to write '[[Paradise Lost]]' as to regain Paradise.
 
-
-
 All old and vigorous languages abound in images and metaphors, which,
 
 though lightly and casually used, are in [[Truth|truth]] [[Poems|poems]] in themselves, and
@@ -302,8 +284,6 @@ to those lower epicureans who kill [[Time|time]], as opposed to those higher
 
 epicureans who make [[Time|time]] live.
 
-
-
 Of a people in this temper Charles II. was the natural and rightful
 
 head. He may have been a pantomime [[King]], but he was a [[King]], and with all
@@ -324,15 +304,11 @@ it was greatly due to the temper of the nation and the age. Despotism is
 
 the easiest of all governments, at any rate for the governed.
 
-
-
 It is indeed a form of [[Slavery|slavery]], and it is the despot who is the slave.
 
 Men in a state of decadence employ professionals to fight for them,
 
 professionals to [[Dance|dance]] for them, and a professional to rule them.
-
-
 
 Almost all the faces in the portraits of that [[Time|time]] look, as it were,
 
@@ -344,19 +320,7 @@ problems, we can afford to rejoice. Our [[Tears|tears]] are less desolate than
 
 their laughter, our restraints are larger than their liberty.
 
-
-
-
-
-
-
-
-
 STEVENSON[A]
-
-
-
-
 
 A recent incident has finally convinced us that Stevenson was, as we
 
@@ -394,8 +358,6 @@ the principles of art and ethics which would have struck us as the very
 
 things that Stevenson nearly killed himself to express.
 
-
-
 Mr Baildon, for example, is perpetually lecturing Stevenson for his
 
 'pessimism'; surely a strange charge against the man who has done more
@@ -428,8 +390,6 @@ is strange that men should see [[Sublime|sublime]] inspiration in the ruins of a
 
 old church and see none in the ruins of a man.
 
-
-
 The author has most extraordinary ideas about Stevenson's tales of [[Blood|blood]]
 
 and spoil; he appears to think that they prove Stevenson to have had (we
@@ -457,8 +417,6 @@ gibbets in his Latin grammar. It was not that he took pleasure in [[Death|death]
 but that he took pleasure in life, in every muscular and emphatic action
 
 of life, even if it were an action that took the life of another.
-
-
 
 Let us suppose that one gentleman throws a knife at another gentleman
 
@@ -499,8 +457,6 @@ his own hand and the table. There is always in his work a certain
 clean-cut angularity which makes us remember that he was fond of cutting
 
 wood with an axe.
-
-
 
 Stevenson's new biographer, however, cannot make any allowance for this
 
@@ -543,8 +499,6 @@ man in real life. For ourselves, Prince [[Florizel]] is almost our favourite
 character in fiction; but we willingly add the proviso that if we met
 
 him in real life we should kill him.
-
-
 
 The fact is, that the whole mass of Stevenson's spiritual and
 
@@ -594,8 +548,6 @@ as that of [[Dante]], as confident as that of Whitman, and as practical as
 
 that of James Watt.
 
-
-
 The conception which unites the whole varied work of Stevenson was that
 
 [[Romance|romance]], or the vision of the possibilities of things, was far more
@@ -637,8 +589,6 @@ George Moore by 'Esther Waters.' These novels were only the two or
 three of his [[Soul|soul]]'s adventures that he happened to tell. But he died
 
 with a thousand stories in his heart.
-
-
 
 [Footnote A: 'Robert Louis Stevenson: A Life Study in Criticism.' By H.
 

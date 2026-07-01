@@ -1,5 +1,5 @@
 ---
-title: "[[William Wilson]] (part 1)"
+title: "William Wilson (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/william-wilson-(poe)"

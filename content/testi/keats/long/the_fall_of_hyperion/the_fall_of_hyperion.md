@@ -1,5 +1,5 @@
 ---
-title: "The Fall of [[Hyperion]]"
+title: "The Fall of Hyperion"
 author: "Keats"
 unitType: work
 parentWork: "works/the-fall-of-hyperion-(keats)"

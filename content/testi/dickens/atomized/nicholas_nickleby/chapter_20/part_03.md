@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 20 (part 3)"
+title: "Nicholas Nickleby — Chapter 20 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_20/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_20/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘A lie!’ cried a voice, as the door was dashed open, and Nicholas came
+into the room.
 
 In the first moment of surprise, and possibly of alarm, Ralph [[Rose|rose]] from
 his seat, and fell back a few paces, quite taken off his guard by this

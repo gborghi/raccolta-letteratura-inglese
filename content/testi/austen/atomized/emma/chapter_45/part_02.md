@@ -1,5 +1,5 @@
 ---
-title: "[[Emma]] — Chapter 7 (part 2)"
+title: "Emma — Chapter 9 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/emma-(austen)"
@@ -10,134 +10,117 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/works/emma-(austen)">Emma</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/emma/chapter_45/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/emma/chapter_45/part_03">part 03 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/emma/chapter_45/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/emma/chapter_46/part_01">part 01 ›</a></div>
 </nav>
 
 
-Her mutterings were chiefly to her husband; and he murmured, in reply,
+Harriet behaved extremely [[Well|well]] on the occasion, with great
+[[Self|self]]-command. What ever she might feel of brighter [[Hope|hope]], she betrayed
+nothing. [[Emma]] was gratified, to observe such a proof in her of
+strengthened character, and refrained from any allusion that might
+endanger its maintenance. They spoke, therefore, of Mrs. Churchill’s
+[[Death|death]] with mutual forbearance.
 
-“Very true, my [[Love|love]], very true. Exactly so, indeed—quite unheard of—but
-some ladies say any thing. Better pass it off as a joke. Every [[Body|body]]
-knows what is due to _you_.”
+Short letters from Frank were received at Randalls, communicating all
+that was immediately important of their state and plans. Mr. Churchill
+was better than could be expected; and their first removal, on the
+departure of the funeral for Yorkshire, was to be to the [[house]] of a
+very old friend in Windsor, to whom Mr. Churchill had been promising a
+visit the last ten years. At present, there was nothing to be done for
+Harriet; good wishes for the future were all that could yet be possible
+on [[Emma]]’s side.
 
-“It will not do,” whispered Frank to [[Emma]]; “they are most of them
-affronted. I will attack them with more address. Ladies and gentlemen—I
-am ordered by Miss Woodhouse to say, that she waives her right of
-knowing exactly what you may all be thinking of, and only requires
-something very entertaining from each of you, in a general way. Here
-are seven of you, besides myself, (who, she is pleased to say, am very
-entertaining already,) and she only demands from each of you either one
-thing very clever, be it prose or verse, original or repeated—or two
-things moderately clever—or three things very dull indeed, and she
-engages to laugh heartily at them all.”
+It was a more pressing concern to shew attention to [[Jane Fairfax]], whose
+prospects were closing, while Harriet’s opened, and whose engagements
+now allowed of no delay in any one at Highbury, who wished to shew her
+kindness—and with [[Emma]] it was grown into a first wish. She had scarcely
+a stronger regret than for her past coldness; and the person, whom she
+had been so many months neglecting, was now the very one on whom she
+would have lavished every distinction of regard or sympathy. She wanted
+to be of use to her; wanted to shew a value for her society, and
+testify respect and consideration. She resolved to prevail on her to
+spend a day at Hartfield. A note was written to urge it. The invitation
+was refused, and by a verbal message. “Miss Fairfax was not [[Well|well]] enough
+to write;” and when Mr. Perry called at Hartfield, the same morning, it
+appeared that she was so much indisposed as to have been visited,
+though against her own consent, by himself, and that she was [[Suffering|suffering]]
+under severe headaches, and a nervous fever to a degree, which made him
+[[Doubt|doubt]] the possibility of her going to Mrs. Smallridge’s at the [[Time|time]]
+proposed. Her health seemed for the moment completely deranged—appetite
+quite gone—and though there were no absolutely alarming symptoms,
+nothing touching the pulmonary complaint, which was the standing
+apprehension of the family, Mr. Perry was uneasy about her. He thought
+she had undertaken more than she was equal to, and that she felt it so
+herself, though she would not own it. Her spirits seemed overcome. Her
+present [[Home|home]], he could not but observe, was unfavourable to a nervous
+disorder:—confined always to one room;—he could have wished it
+otherwise—and her good aunt, though his very old friend, he must
+acknowledge to be not the best companion for an invalid of that
+description. Her care and attention could not be questioned; they were,
+in fact, only too great. He very much feared that Miss Fairfax derived
+more evil than good from them. [[Emma]] listened with the warmest concern;
+grieved for her more and more, and looked around eager to discover some
+way of being useful. To take her—be it only an hour or two—from her
+aunt, to give her change of air and scene, and quiet rational
+conversation, even for an hour or two, might do her good; and the
+following morning she wrote again to say, in the most feeling language
+she could command, that she would call for her in the carriage at any
+hour that Jane would name—mentioning that she had Mr. Perry’s decided
+opinion, in favour of such exercise for his patient. The answer was
+only in this short note:
 
-“Oh! very [[Well|well]],” exclaimed [[Miss Bates]], “then I need not be uneasy.
-‘Three things very dull indeed.’ That will just do for me, you know. I
-shall be sure to say three dull things as soon as ever I open my mouth,
-shan’t I? (looking round with the most good-humoured dependence on
-every [[Body|body]]’s assent)—Do not you all think I shall?”
+“Miss Fairfax’s compliments and thanks, but is quite unequal to any
+exercise.”
 
-[[Emma]] could not resist.
+[[Emma]] felt that her own note had deserved something better; but it was
+impossible to quarrel with words, whose tremulous inequality shewed
+indisposition so plainly, and she thought only of how she might best
+counteract this unwillingness to be seen or assisted. In spite of the
+answer, therefore, she ordered the carriage, and drove to Mrs. Bates’s,
+in the [[Hope|hope]] that Jane would be induced to join her—but it would not
+do;—[[Miss Bates]] came to the carriage door, all gratitude, and agreeing
+with her most earnestly in thinking an airing might be of the greatest
+service—and every thing that message could do was tried—but all in
+vain. [[Miss Bates]] was obliged to return without [[success]]; Jane was quite
+unpersuadable; the mere proposal of going out seemed to make her
+worse.—[[Emma]] wished she could have seen her, and tried her own powers;
+but, almost before she could hint the wish, [[Miss Bates]] made it appear
+that she had promised her niece on no account to let Miss Woodhouse in.
+“Indeed, the [[Truth|truth]] was, that poor dear Jane could not bear to see any
+[[Body|body]]—any [[Body|body]] at all—Mrs. Elton, indeed, could not be denied—and Mrs.
+Cole had made such a point—and Mrs. Perry had said so much—but, except
+them, Jane would really see nobody.”
 
-“Ah! ma’am, but there may be a difficulty. Pardon me—but you will be
-limited as to number—only three at once.”
+[[Emma]] did not want to be classed with the Mrs. Eltons, the Mrs. Perrys,
+and the Mrs. Coles, who would force themselves anywhere; neither could
+she feel any right of preference herself—she submitted, therefore, and
+only questioned [[Miss Bates]] farther as to her niece’s appetite and diet,
+which she longed to be able to assist. On that subject poor [[Miss Bates]]
+was very unhappy, and very communicative; Jane would hardly eat any
+thing:—Mr. Perry recommended nourishing food; but every thing they
+could command (and never had any [[Body|body]] such good neighbours) was
+distasteful.
 
-[[Miss Bates]], deceived by the mock ceremony of her manner, did not
-immediately catch her meaning; but, when it burst on her, it could not
-anger, though a slight blush shewed that it could [[Pain|pain]] her.
+[[Emma]], on reaching [[Home|home]], called the housekeeper directly, to an
+examination of her stores; and some arrowroot of very superior quality
+was speedily despatched to [[Miss Bates]] with a most friendly note. In
+half an hour the arrowroot was returned, with a thousand thanks from
+[[Miss Bates]], but “dear Jane would not be satisfied without its being
+sent back; it was a thing she could not take—and, moreover, she
+insisted on her saying, that she was not at all in want of any thing.”
 
-“Ah!—[[Well|well]]—to be sure. Yes, I see what she means, (turning to Mr.
-Knightley,) and I will try to hold my tongue. I must make myself very
-disagreeable, or she would not have said such a thing to an old
-friend.”
-
-“I like your plan,” cried Mr. Weston. “Agreed, agreed. I will do my
-best. I am making a conundrum. How will a conundrum reckon?”
-
-“Low, I am afraid, sir, very low,” answered his son;—“but we shall be
-indulgent—especially to any one who leads the way.”
-
-“No, no,” said [[Emma]], “it will not reckon low. A conundrum of Mr.
-Weston’s shall clear him and his next neighbour. Come, sir, pray let me
-hear it.”
-
-“I [[Doubt|doubt]] its being very clever myself,” said Mr. Weston. “It is too
-much a matter of fact, but here it is.—What two letters of the alphabet
-are there, that express perfection?”
-
-“What two letters!—express perfection! I am sure I do not know.”
-
-“Ah! you will never guess. You, (to [[Emma]]), I am certain, will never
-guess.—I will tell you.—M. and A.—Em-ma.—Do you understand?”
-
-Understanding and gratification came together. It might be a very
-indifferent piece of wit, but [[Emma]] found a great deal to laugh at and
-enjoy in it—and so did Frank and Harriet.—It did not seem to touch the
-rest of the party equally; some looked very stupid about it, and Mr.
-Knightley gravely said,
-
-“This explains the sort of clever thing that is wanted, and Mr. Weston
-has done very [[Well|well]] for himself; but he must have knocked up every [[Body|body]]
-else. _Perfection_ should not have come quite so soon.”
-
-“Oh! for myself, I protest I must be excused,” said Mrs. Elton; “_I_
-really cannot attempt—I am not at all fond of the sort of thing. I had
-an acrostic once sent to me upon my own name, which I was not at all
-pleased with. I knew who it came from. An abominable puppy!—You know
-who I mean (nodding to her husband). These kind of things are very [[Well|well]]
-at Christmas, when one is sitting round the [[Fire|fire]]; but quite out of
-place, in my opinion, when one is exploring about the country in
-[[Summer|summer]]. Miss Woodhouse must excuse me. I am not one of those who have
-witty things at every [[Body|body]]’s service. I do not pretend to be a wit. I
-have a great deal of vivacity in my own way, but I really must be
-allowed to judge when to speak and when to hold my tongue. Pass us, if
-you please, Mr. Churchill. Pass Mr. E., Knightley, Jane, and myself. We
-have nothing clever to say—not one of us.
-
-“Yes, yes, pray pass _me_,” added her husband, with a sort of sneering
-consciousness; “_I_ have nothing to say that can entertain Miss
-Woodhouse, or any other young lady. An old married man—quite good for
-nothing. Shall we walk, Augusta?”
-
-“With all my heart. I am really tired of exploring so long on one spot.
-Come, Jane, take my other arm.”
-
-Jane declined it, however, and the husband and wife walked off. “Happy
-couple!” said [[Frank Churchill]], as soon as they were out of
-hearing:—“How [[Well|well]] they suit one another!—Very lucky—marrying as they
-did, upon an acquaintance formed only in a public place!—They only knew
-each other, I think, a few weeks in Bath! Peculiarly lucky!—for as to
-any real knowledge of a person’s disposition that Bath, or any public
-place, can give—it is all nothing; there can be no knowledge. It is
-only by seeing women in their own homes, among their own set, just as
-they always are, that you can form any just judgment. Short of that, it
-is all guess and luck—and will generally be ill-luck. How many a man
-has committed himself on a short acquaintance, and rued it all the rest
-of his life!”
-
-Miss Fairfax, who had seldom spoken before, except among her own
-confederates, spoke now.
-
-“Such things do occur, undoubtedly.”—She was stopped by a cough. Frank
-Churchill turned towards her to listen.
-
-“You were speaking,” said he, gravely. She recovered her voice.
-
-“I was only going to observe, that though such unfortunate
-circumstances do sometimes occur both to men and women, I cannot
-imagine them to be very frequent. A hasty and imprudent attachment may
-arise—but there is generally [[Time|time]] to recover from it afterwards. I
-would be understood to mean, that it can be only weak, irresolute
-characters, (whose happiness must be always at the [[Mercy|mercy]] of chance,)
-who will suffer an unfortunate acquaintance to be an inconvenience, an
-oppression for ever.”
-
-He made no answer; merely looked, and bowed in submission; and soon
-afterwards said, in a lively tone,
-
-“[[Well]], I have so little confidence in my own judgment, that whenever I
-marry, I [[Hope|hope]] some [[Body|body]] will chuse my wife for me. Will you? (turning
-to [[Emma]].) Will you chuse a wife for me?—I am sure I should like any
-[[Body|body]] fixed on by you. You provide for the family, you know, (with a
-smile at his father). Find some [[Body|body]] for me. I am in no hurry. Adopt
-her, educate her.”
+When [[Emma]] afterwards heard that [[Jane Fairfax]] had been seen wandering
+about the meadows, at some distance from Highbury, on the afternoon of
+the very day on which she had, under the plea of being unequal to any
+exercise, so peremptorily refused to go out with her in the carriage,
+she could have no [[Doubt|doubt]]—putting every thing together—that Jane was
+resolved to receive no kindness from _her_. She was sorry, very sorry.
+Her heart was grieved for a state which seemed but the more pitiable
+from this sort of irritation of spirits, inconsistency of action, and
+inequality of powers; and it mortified her that she was given so little
+credit for proper feeling, or esteemed so little worthy as a friend:
+but she had the consolation of knowing that her intentions were good,
+and of being able to say to herself, that could Mr. Knightley have been
+privy to all her attempts of assisting [[Jane Fairfax]], could he even have
+seen into her heart, he would not, on this occasion, have found any
+thing to reprove.

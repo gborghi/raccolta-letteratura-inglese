@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity]] — The [[Resurrection]] of [[Father Brown]]"
+title: "Incredulity — The Resurrection of Father Brown"
 author: "Chesterton"
 unitType: story
 parentWork: "works/incredulity-(chesterton)"
@@ -20,7 +20,7 @@ THERE was a brief period during which [[Father Brown]] enjoyed,
 or rather did not enjoy, something like fame.  He was a nine days'
 [[Wonder|wonder]] in the newspapers; he was even a common topic of controversy
 in the weekly reviews; his exploits were narrated eagerly and inaccurately
-in any number of clubs and drawing--rooms, especially in [[america|America]].
+in any number of clubs and drawing--rooms, especially in [[America]].
 Incongruous and indeed incredible as it may seem to any one who knew him,
 his adventures as a [[Detective|detective]] were even made the subject of short
 stories appearing in magazines.
@@ -29,7 +29,7 @@ Strangely enough, this wandering limelight struck him in the most obscure,
 or at least the most remote, of his many places of residence.
 He had been sent out to officiate, as something between a missionary
 and a parish priest, in one of those sections of the northern coast
-of South [[america|America]], where strips of country still cling insecurely
+of South [[America]], where strips of country still cling insecurely
 to European powers, or are continually threatening to become
 independent republics, under the gigantic [[Shadow|shadow]] of President Monroe.
 The population was red and brown with pink spots; that is,
@@ -526,7 +526,7 @@ angry but more argumentative:  `I don't believe it, but you do.
 Isn't it better to have no God than one that robs you in
 this fashion?  I, at least, am not afraid to say that there
 is none.  There is no power in all this blind and brainless
-universe that can hear your [[prayer]] or return your friend.
+universe that can hear your [[Prayer|prayer]] or return your friend.
 Though you beg Heaven to raise him, he will not rise.
 Though I dare Heaven to raise him, he will not rise.
 Here and now I will put it to the test--I defy the God who is

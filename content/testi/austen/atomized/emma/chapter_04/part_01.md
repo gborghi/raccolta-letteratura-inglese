@@ -1,5 +1,5 @@
 ---
-title: "[[Emma]] — Chapter 4 (part 1)"
+title: "Emma — Chapter 4 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/emma-(austen)"
@@ -112,17 +112,3 @@ Mrs. Goddard a beautiful goose—the finest goose Mrs. Goddard had ever
 seen. Mrs. Goddard had dressed it on a [[Sunday]], and asked all the three
 teachers, Miss Nash, and Miss Prince, and Miss Richardson, to sup with
 her.”
-
-“Mr. Martin, I suppose, is not a man of information beyond the line of
-his own business? He does not read?”
-
-“Oh yes!—that is, no—I do not know—but I believe he has read a good
-deal—but not what you would think any thing of. He reads the
-Agricultural Reports, and some other books that lay in one of the
-[[Window|window]] seats—but he reads all _them_ to himself. But sometimes of an
-evening, before we went to cards, he would read something aloud out of
-the Elegant Extracts, very entertaining. And I know he has read the
-Vicar of Wakefield. He never read the [[Romance]] of the Forest, nor The
-Children of the Abbey. He had never heard of such books before I
-mentioned them, but he is determined to get them now as soon as ever he
-can.”

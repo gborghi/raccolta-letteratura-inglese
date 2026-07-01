@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 23 (part 6)"
+title: "Shirley — Chapter 23 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,40 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_23/part_05">‹ part 05</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_23/part_07">part 07 ›</a></div>
 </nav>
 
+
+become thoroughly moist with evening dew.
+
+
+
+The lady and her daughters being gone, Caroline felt that she also ought
+
+to resume her scarf, kiss her cousin's cheek, and trip away homeward. If
+
+she lingered much later dusk would draw on, and Fanny would be put to
+
+the trouble of coming to fetch her. It was both baking and ironing day
+
+at the rectory, she remembered--Fanny would be busy. Still, she could
+
+not quit her seat at the little parlour [[Window|window]]. From no point of view
+
+could the west look so lovely as from that lattice with the garland of
+
+jessamine round it, whose white [[Stars|stars]] and green [[Leaves|leaves]] seemed now but
+
+gray pencil outlines--graceful in form, but colourless in tint--against
+
+the gold incarnadined of a [[Summer|summer]] evening--against the [[Fire|fire]]-tinged blue
+
+of an August sky at eight o'[[Clock|clock]] p.m.
+
+
+
+Caroline looked at the wicket-gate, beside which holly-oaks spired up
+
+tall. She looked at the close hedge of privet and laurel fencing in the
+
+[[Garden|garden]]; her eyes longed to see something more than the shrubs before
 
 they turned from that limited prospect. They longed to see a human
 
@@ -195,55 +229,3 @@ his rebukes.
 "What d'ye mean by being all i' darkness? Sarah, thou quean, canst t'
 
 not light a candle? It war sundown an hour syne. He'll brak his shins
-
-agean some o' yer pots, and tables, and stuff.--Tak tent o' this
-
-baking-bowl, sir; they've set it i' yer way, fair as if they did it i'
-
-malice."
-
-
-
-To Joe's observations succeeded a confused sort of pause, which
-
-Caroline, though she was listening with both her ears, could not
-
-understand. It was very brief. A cry broke it--a sound of surprise,
-
-followed by the sound of a kiss; ejaculations, but half articulate,
-
-succeeded.
-
-
-
-"Mon Dieu! mon Dieu! Est-ce que je m'y attendais?" were the words
-
-chiefly to be distinguished.
-
-
-
-"Et tu te portes toujours bien, bonne sœur?" inquired another
-
-voice--Robert's, certainly.
-
-
-
-Caroline was puzzled. Obeying an impulse the wisdom of which she had not
-
-[[Time|time]] to question, she escaped from the little parlour, by way of leaving
-
-the coast clear, and running upstairs took up a position at the head of
-
-the banisters, whence she could make further observations ere presenting
-
-herself. It was considerably past sunset now; dusk filled the passage,
-
-yet not such deep dusk but that she could presently see Robert and
-
-Hortense traverse it.
-
-
-
-"Caroline! Caroline!" called Hortense, a moment afterwards, "venez voir
-
-mon frère!"

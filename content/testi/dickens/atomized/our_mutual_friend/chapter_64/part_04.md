@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 5 (part 4)"
+title: "Our Mutual Friend — Chapter 9 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,134 +10,139 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_64/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_64/part_05">part 05 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_64/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_65/part_01">part 01 ›</a></div>
 </nav>
 
 
-‘There’s not much in the thought, my [[Soul|soul]]. I was thinking whether you
-wouldn’t like me to be rich?’
+The simple arrangements were of her own making, and were stated to Riah
+thus:
 
-‘You rich, John?’ repeated Bella, shrinking a little.
+‘I mean to go [[Alone|alone]], godmother, in my usual carriage, and you’ll be so
+kind as keep [[house]] while I am gone. It’s not far off. And when I return,
+we’ll have a cup of tea, and a chat over future arrangements. It’s a
+very plain last [[house]] that I have been able to give my poor unfortunate
+boy; but he’ll accept the will for the deed if he knows anything about
+it; and if he doesn’t know anything about it,’ with a sob, and wiping
+her eyes, ‘why, it won’t matter to him. I see the service in the
+[[prayer|Prayer]]-book says, that we brought nothing into this world and it is
+certain we can take nothing out. It comforts me for not being able to
+hire a lot of stupid undertaker’s things for my poor [[Child|child]], and seeming
+as if I was trying to smuggle ’em out of this world with him, when of
+course I must break down in the attempt, and bring ’em all back again.
+As it is, there’ll be nothing to bring back but me, and that’s quite
+consistent, for I shan’t be brought back, some day!’
 
-‘I mean, really rich. Say, as rich as Mr Boffin. You would like that?’
+After that previous carrying of him in the streets, the wretched old
+fellow seemed to be twice buried. He was taken on the shoulders of half
+a dozen blossom-faced men, who shuffled with him to the churchyard,
+and who were preceded by another blossom-faced man, affecting a
+stately stalk, as if he were a Policeman of the D(eath) Division, and
+ceremoniously pretending not to know his intimate acquaintances, as he
+led the pageant. Yet, the spectacle of only one little mourner hobbling
+after, caused many people to turn their heads with a look of interest.
 
-‘I should be almost afraid to try, John dear. Was he much the better for
-his wealth? Was I much the better for the little part I once had in it?’
+At last the troublesome deceased was got into the ground, to be buried
+no more, and the stately stalker stalked back before the solitary
+dressmaker, as if she were bound in [[Honour|honour]] to have no notion of the way
+[[Home|home]]. Those Furies, the conventionalities, being thus appeased, he left
+her.
 
-‘But all people are not the worse for riches, my own.’
+‘I must have a very short cry, godmother, before I cheer up for good,’
+said the little creature, coming in. ‘Because after all a [[Child|child]] is a
+[[Child|child]], you know.’
 
-‘Most people?’ Bella musingly suggested with raised eyebrows.
+It was a longer cry than might have been expected. Howbeit, it wore
+itself out in a shadowy corner, and then the dressmaker came forth, and
+washed her face, and made the tea. ‘You wouldn’t mind my cutting out
+something while we are at tea, would you?’ she asked her Jewish friend,
+with a coaxing air.
 
-‘Nor even most people, it may be hoped. If you were rich, for instance,
-you would have a great power of doing good to others.’
+‘Cinderella, dear [[Child|child]],’ the old man expostulated, ‘will you never
+rest?’
 
-‘Yes, sir, for instance,’ Bella playfully rejoined; ‘but should I
-exercise the power, for instance? And again, sir, for instance; should
-I, at the same [[Time|time]], have a great power of doing harm to myself?’
+‘Oh! It’s not work, cutting out a pattern isn’t,’ said Miss Jenny, with
+her busy little scissors already snipping at some paper. ‘The [[Truth|truth]] is,
+godmother, I want to fix it while I have it correct in my mind.’
 
-Laughing and pressing her arm, he retorted: ‘But still, again for
-instance; would you exercise that power?’
+‘Have you seen it to-day then?’ asked Riah.
 
-‘I don’t know,’ said Bella, thoughtfully shaking her head. ‘I [[Hope|hope]] not.
-I think not. But it’s so easy to [[Hope|hope]] not and think not, without the
-riches.’
+‘Yes, godmother. Saw it just now. It’s a surplice, that’s what it
+is. Thing our clergymen wear, you know,’ explained Miss Jenny, in
+consideration of his professing another [[Faith|faith]].
 
-‘Why don’t you say, my darling—instead of that phrase—being poor?’ he
-asked, looking earnestly at her.
+‘And what have you to do with that, Jenny?’
 
-‘Why don’t I say, being poor! Because I am not poor. Dear John, it’s not
-possible that you suppose I think we are poor?’
+‘Why, godmother,’ replied the dressmaker, ‘you must know that we
+Professors who live upon our taste and invention, are obliged to keep
+our eyes always open. And you know already that I have many extra
+expenses to meet just now. So, it came into my head while I was weeping
+at my poor boy’s [[Grave|grave]], that something in my way might be done with a
+clergyman.’
 
-‘I do, my [[Love|love]].’
+‘What can be done?’ asked the old man.
 
-‘Oh John!’
+‘Not a funeral, never [[Fear|fear]]!’ returned Miss Jenny, anticipating his
+objection with a nod. ‘The public don’t like to be made [[Melancholy|melancholy]], I
+know very [[Well|well]]. I am seldom called upon to put my young friends into
+mourning; not into real mourning, that is; [[Court]] mourning they are
+rather proud of. But a doll clergyman, my dear,—glossy black curls
+and whiskers—uniting two of my young friends in matrimony,’ said Miss
+Jenny, shaking her forefinger, ‘is quite another affair. If you don’t
+see those three at the altar in Bond Street, in a jiffy, my name’s Jack
+Robinson!’
 
-‘Understand me, sweetheart. I know that I am rich beyond all wealth in
-having you; but I think OF you, and think FOR you. In such a dress as
-you are wearing now, you first charmed me, and in no dress could you
-ever look, to my thinking, more graceful or more beautiful. But you have
-admired many finer dresses this very day; and is it not natural that I
-wish I could give them to you?’
+With her expert little ways in sharp action, she had got a doll into
+whitey-brown paper orders, before the meal was over, and was displaying
+it for the edification of the Jewish mind, when a knock was heard at the
+street-door. Riah went to open it, and presently came back, ushering in,
+with the [[Grave|grave]] and courteous air that sat so [[Well|well]] upon him, a gentleman.
 
-‘It’s very nice that you should wish it, John. It brings these [[Tears|tears]] of
-grateful pleasure into my eyes, to hear you say so with such tenderness.
-But I don’t want them.’
+The gentleman was a stranger to the dressmaker; but even in the moment
+of his casting his eyes upon her, there was something in his manner
+which brought to her remembrance Mr [[Eugene Wrayburn]].
 
-‘Again,’ he pursued, ‘we are now walking through the muddy streets. I
-[[Love|love]] those pretty feet so dearly, that I feel as if I could not bear the
-dirt to soil the sole of your shoe. Is it not natural that I wish you
-could ride in a carriage?’
+‘Pardon me,’ said the gentleman. ‘You are the dolls’ dressmaker?’
 
-‘It’s very nice,’ said Bella, glancing downward at the feet in question,
-‘to know that you admire them so much, John dear, and since you do, I
-am sorry that these shoes are a full size too large. But I don’t want a
-carriage, believe me.’
+‘I am the dolls’ dressmaker, sir.’
 
-‘You would like one if you could have one, Bella?’
+‘[[Lizzie Hexam]]’s friend?’
 
-‘I shouldn’t like it for its own sake, half so [[Well|well]] as such a wish for
-it. Dear John, your wishes are as real to me as the wishes in the Fairy
-story, that were all fulfilled as soon as spoken. Wish me everything
-that you can wish for the woman you dearly [[Love|love]], and I have as good as
-got it, John. I have better than got it, John!’
+‘Yes, sir,’ replied Miss Jenny, instantly on the defensive. ‘And Lizzie
+Hexam’s friend.’
 
-They were not the less happy for such talk, and [[Home|home]] was not the less
-[[Home|home]] for coming after it. Bella was fast developing a perfect genius
-for [[Home|home]]. All the loves and graces seemed (her husband thought) to have
-taken domestic service with her, and to help her to make [[Home|home]] engaging.
+‘Here is a note from her, entreating you to accede to the request of
+Mr Mortimer Lightwood, the bearer. Mr Riah chances to know that I am Mr
+Mortimer Lightwood, and will tell you so.’
 
-Her married life glided happily on. She was [[Alone|alone]] all day, for, after an
-early breakfast her husband repaired every morning to the [[City]], and did
-not return until their late dinner hour. He was ‘in a China [[house]],’ he
-explained to Bella: which she found quite satisfactory, without pursuing
-the China [[house]] into minuter details than a wholesale vision of tea,
-rice, odd-smelling silks, carved boxes, and tight-eyed people in more
-than [[Double|double]]-soled shoes, with their pigtails pulling their heads of
-hair off, painted on transparent porcelain. She always walked with her
-husband to the railroad, and was always there again to meet him; her old
-coquettish ways a little sobered down (but not much), and her dress
-as daintily managed as if she managed nothing else. But, John gone to
-business and Bella returned [[Home|home]], the dress would be laid aside, trim
-little wrappers and aprons would be substituted, and Bella, putting back
-her hair with both hands, as if she were making the most business-like
-arrangements for going dramatically distracted, would enter on the
-household affairs of the day. Such weighing and mixing and chopping
-and grating, such dusting and washing and polishing, such snipping
-and weeding and trowelling and other small gardening, such making and
-[[mending]] and folding and airing, such diverse arrangements, and above all
-such severe study! For Mrs J. R., who had never been wont to do too much
-at [[Home|home]] as Miss B. W., was under the constant necessity of referring for
-advice and support to a sage volume entitled The Complete British Family
-Housewife, which she would sit consulting, with her elbows on the table
-and her temples on her hands, like some perplexed enchantress poring
-over the Black Art. This, principally because the Complete British
-Housewife, however sound a Briton at heart, was by no means an expert
-Briton at expressing herself with clearness in the British tongue,
-and sometimes might have issued her directions to equal purpose in the
-Kamskatchan language. In any crisis of this [[Nature|nature]], Bella would suddenly
-exclaim aloud, ‘Oh you ridiculous old thing, what do you mean by that?
-You must have been drinking!’ And having made this marginal note, would
-try the Housewife again, with all her dimples screwed into an expression
-of profound research.
+Riah bent his head in corroboration.
 
-There was likewise a coolness on the part of the British Housewife,
-which Mrs John Rokesmith found highly exasperating. She would say,
-‘Take a salamander,’ as if a general should command a private to catch
-a Tartar. Or, she would casually issue the order, ‘Throw in a handful—’
-of something entirely [[Unattainable|unattainable]]. In these, the Housewife’s most
-glaring moments of unreason, Bella would shut her up and knock her on
-the table, apostrophising her with the compliment, ‘O you ARE a stupid
-old [[donkey|Donkey]]! Where am I to get it, do you think?’
+‘Will you read the note?’
 
-Another branch of study claimed the attention of Mrs John Rokesmith for
-a regular period every day. This was the mastering of the newspaper, so
-that she might be close up with John on general topics when John came
-[[Home|home]]. In her [[Desire|desire]] to be in all things his companion, she would have
-set herself with equal zeal to master Algebra, or Euclid, if he had
-divided his [[Soul|soul]] between her and either. Wonderful was the way in which
-she would store up the [[City]] Intelligence, and beamingly shed it
-upon John in the course of the evening; incidentally mentioning the
-commodities that were looking up in the markets, and how much gold had
-been taken to the Bank, and trying to look wise and serious over it
-until she would laugh at herself most charmingly and would say, kissing
-him: ‘It all comes of my [[Love|love]], John dear.’
+‘It’s very short,’ said Jenny, with a look of [[Wonder|wonder]], when she had read
+it.
+
+‘There was no [[Time|time]] to make it longer. [[Time]] was so very precious. My dear
+friend Mr [[Eugene Wrayburn]] is dying.’
+
+The dressmaker clasped her hands, and uttered a little piteous cry.
+
+‘Is dying,’ repeated Lightwood, with emotion, ‘at some distance from
+here. He is sinking under injuries received at the hands of a [[Villain|villain]]
+who attacked him in the dark. I come straight from his bedside. He is
+almost always insensible. In a short restless interval of sensibility,
+or partial sensibility, I made out that he asked for you to be brought
+to sit by him. Hardly relying on my own interpretation of the indistinct
+sounds he made, I caused Lizzie to hear them. We were both sure that he
+asked for you.’
+
+The dressmaker, with her hands still clasped, looked affrightedly from
+the one to the other of her two companions.
+
+‘If you delay, he may die with his request ungratified, with his
+last wish—intrusted to me—we have long been much more than
+brothers—unfulfilled. I shall break down, if I try to say more.’
+
+In a few moments the black bonnet and the crutch-stick were on duty, the
+good Jew was left in possession of the [[house]], and the dolls’ dressmaker,
+side by side in a chaise with Mortimer Lightwood, was posting out of
+town.

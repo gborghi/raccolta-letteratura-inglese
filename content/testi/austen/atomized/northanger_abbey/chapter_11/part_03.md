@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 10 (part 3)"
+title: "Northanger Abbey — Chapter 10 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_11/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_11/part_04">part 04 ›</a></div>
 </nav>
 
+
+room; and when they see you standing up with somebody else, they will
+
+quiz me famously.”
+
+
+
+“Oh, no; they will never think of _me_, after such a description as
+
+that.”
+
+
+
+“By heavens, if they do not, I will kick them out of the room for
+
+blockheads. What chap have you there?” Catherine satisfied his
 
 curiosity. “Tilney,” he repeated. “Hum—I do not know him. A good figure
 
@@ -217,39 +233,3 @@ last because they can afford to stay no longer.”
 village in the country, can never find greater sameness in such a place
 
 as this than in my own [[Home|home]]; for here are a variety of amusements, a
-
-variety of things to be seen and done all day long, which I can know
-
-nothing of there.”
-
-
-
-“You are not fond of the country.”
-
-
-
-“Yes, I am. I have always lived there, and always been very happy. But
-
-certainly there is much more sameness in a country life than in a Bath
-
-life. One day in the country is exactly like another.”
-
-
-
-“But then you spend your [[Time|time]] so much more rationally in the country.”
-
-
-
-“Do I?”
-
-
-
-“Do you not?”
-
-
-
-“I do not believe there is much difference.”
-
-
-
-“Here you are in pursuit only of amusement all day long.”

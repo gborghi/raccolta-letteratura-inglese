@@ -1,5 +1,5 @@
 ---
-title: "The Haunted Man and the [[Ghost]]'s Bargain — Chapter 2 (part 8)"
+title: "The Haunted Man and the Ghost's Bargain — Chapter 2 (part 8)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-haunted-man-and-the-ghost's-bargain-(dickens)"
@@ -13,6 +13,45 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_02/part_07">‹ part 07</a><a class="ex-next" href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_02/part_09">part 09 ›</a></div>
 </nav>
 
+
+Redlaw released his hold, as he listened.
+
+“I have feared, from the first moment,” he murmured to himself, “to meet
+her. There is a steady quality of goodness in her, that I dread to
+influence. I may be the murderer of what is tenderest and best within
+her bosom.”
+
+She was knocking at the door.
+
+“Shall I dismiss it as an idle foreboding, or still avoid her?” he
+muttered, looking uneasily around.
+
+She was knocking at the door again.
+
+“Of all the visitors who could come here,” he said, in a hoarse alarmed
+voice, turning to his companion, “this is the one I should [[Desire|desire]] most to
+avoid. Hide me!”
+
+The student opened a frail door in the wall, communicating where the
+garret-roof began to slope towards the floor, with a small inner room.
+Redlaw passed in hastily, and shut it after him.
+
+The student then resumed his place upon the couch, and called to her to
+enter.
+
+“Dear Mr. [[Edmund]],” said Milly, looking round, “they told me there was a
+gentleman here.”
+
+“There is no one here but I.”
+
+“There has been some one?”
+
+“Yes, yes, there has been some one.”
+
+She put her little basket on the table, and went up to the back of the
+couch, as if to take the extended hand—but it was not there. A little
+surprised, in her quiet way, she leaned over to look at his face, and
+gently touched him on the brow.
 
 “Are you quite as [[Well|well]] to-[[Night|night]]? Your head is not so cool as in the
 afternoon.”
@@ -106,37 +145,3 @@ myself? To me?” laying her hand upon her bosom with a simple and
 had an indisposition, which your solicitude—observe! I say
 solicitude—makes a great deal more of, than it merits; and it’s over, and
 we can’t perpetuate it.”
-
-He coldly took a book, and sat down at the table.
-
-She watched him for a little while, until her smile was quite gone, and
-then, returning to where her basket was, said gently:
-
-“Mr. [[Edmund]], would you rather be [[Alone|alone]]?”
-
-“There is no reason why I should detain you here,” he replied.
-
-“Except—” said Milly, hesitating, and showing her work.
-
-“Oh! the curtain,” he answered, with a supercilious laugh. “That’s not
-worth staying for.”
-
-She made up the little packet again, and put it in her basket. Then,
-standing before him with such an air of patient entreaty that he could
-not choose but look at her, she said:
-
-“If you should want me, I will come back willingly. When you did want
-me, I was quite happy to come; there was no merit in it. I think you
-must be afraid, that, now you are getting [[Well|well]], I may be troublesome to
-you; but I should not have been, indeed. I should have come no longer
-than your weakness and confinement lasted. You owe me nothing; but it is
-right that you should deal as justly by me as if I was a lady—even the
-very lady that you [[Love|love]]; and if you suspect me of meanly making much of
-the little I have tried to do to comfort your sick room, you do yourself
-more wrong than ever you can do me. That is why I am sorry. That is why
-I am very sorry.”
-
-If she had been as passionate as she was quiet, as indignant as she was
-calm, as angry in her look as she was gentle, as loud of tone as she was
-low and clear, she might have left no sense of her departure in the room,
-compared with that which fell upon the lonely student when she went away.

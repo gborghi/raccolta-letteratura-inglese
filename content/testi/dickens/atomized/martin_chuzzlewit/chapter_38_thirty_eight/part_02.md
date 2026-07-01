@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 38: THIRTY EIGHT (part 2)"
+title: "Martin Chuzzlewit — Chapter 38: THIRTY EIGHT (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -141,9 +141,3 @@ secret.’
 Nadgett, as he tied the string about his pocket-book, and put it up. ‘It
 always takes away any pleasure I may have had in this inquiry even to
 make it known to you.’
-
-‘A most invaluable constitution,’ Tigg retorted. ‘A great gift for a
-gentleman employed as you are, Mr Nadgett. Much better than discretion;
-though you possess that quality also in an eminent degree. I think I
-heard a [[Double|double]] knock. Will you put your head out of [[Window|window]], and tell me
-whether there is anybody at the door?’

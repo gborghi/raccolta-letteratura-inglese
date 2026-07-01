@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 16 (part 4)"
+title: "Nicholas Nickleby — Chapter 16 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,48 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_16/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_16/part_05">part 05 ›</a></div>
 </nav>
 
+
+‘My conduct, Pugstyles,’ said Mr. Gregsbury, looking round upon the
+deputation with gracious magnanimity--‘my conduct has been, and ever
+will be, regulated by a sincere regard for the true and real interests
+of this great and happy country. Whether I look at [[Home|home]], or abroad;
+whether I behold the peaceful industrious communities of our island
+[[Home|home]]: her rivers covered with steamboats, her roads with locomotives,
+her streets with cabs, her skies with balloons of a power and magnitude
+hitherto unknown in the [[history]] of aeronautics in this or any other
+nation--I say, whether I look merely at [[Home|home]], or, stretching my
+eyes farther, contemplate the boundless prospect of conquest and
+possession--achieved by British perseverance and British valour--which
+is outspread before me, I clasp my hands, and turning my eyes to the
+broad expanse above my head, exclaim, “Thank Heaven, I am a Briton!”’
+
+The [[Time|time]] had been, when this burst of enthusiasm would have been cheered
+to the very echo; but now, the deputation received it with chilling
+coldness. The general impression seemed to be, that as an explanation
+of Mr. Gregsbury’s political conduct, it did not enter quite enough into
+detail; and one gentleman in the rear did not scruple to remark aloud,
+that, for his purpose, it savoured rather too much of a ‘gammon’
+tendency.
+
+‘The meaning of that term--gammon,’ said Mr. Gregsbury, ‘is unknown
+to me. If it means that I grow a little too fervid, or perhaps even
+hyperbolical, in extolling my native land, I admit the full justice of
+the remark. I AM proud of this free and happy country. My form dilates,
+my eye glistens, my breast heaves, my heart swells, my bosom burns, when
+I call to mind her [[Greatness|greatness]] and her glory.’
+
+‘We wish, sir,’ remarked Mr. Pugstyles, calmly, ‘to ask you a few
+questions.’
+
+‘If you please, gentlemen; my [[Time|time]] is yours--and my country’s--and my
+country’s--’ said Mr. Gregsbury.
+
+This permission being conceded, Mr. Pugstyles put on his spectacles, and
+referred to a written paper which he drew from his pocket; whereupon
+nearly every other member of the deputation pulled a written paper from
+HIS pocket, to check Mr. Pugstyles off, as he read the questions.
+
+This done, Mr. Pugstyles proceeded to business.
 
 ‘Question number one.--Whether, sir, you did not give a voluntary pledge
 previous to your election, that in event of your being returned, you
@@ -95,58 +137,3 @@ attempt to explain, for they are really beneath the comprehension of
 those who have not made themselves masters, as I have, of the intricate
 and arduous study of politics; I would rather keep my seat, and intend
 doing so.
-
-‘Will you do me the favour to present my compliments to the constituent
-[[Body|body]], and acquaint them with this circumstance?
-
-‘With great esteem, ‘My dear Mr. Pugstyles, ‘&c.&c.’
-
-‘Then you will not resign, under any circumstances?’ asked the
-spokesman.
-
-Mr. Gregsbury smiled, and shook his head.
-
-‘Then, good-morning, sir,’ said Pugstyles, angrily.
-
-‘Heaven bless you!’ said Mr. Gregsbury. And the deputation, with many
-growls and scowls, filed off as quickly as the narrowness of the
-staircase would allow of their getting down.
-
-The last man being gone, Mr. Gregsbury rubbed his hands and chuckled, as
-merry fellows will, when they think they have said or done a more than
-commonly good thing; he was so engrossed in this [[Self|self]]-congratulation,
-that he did not observe that Nicholas had been left behind in the [[Shadow|shadow]]
-of the [[Window|window]]-curtains, until that young gentleman, fearing he might
-otherwise overhear some soliloquy intended to have no listeners, coughed
-twice or thrice, to attract the member’s notice.
-
-‘What’s that?’ said Mr. Gregsbury, in sharp accents.
-
-Nicholas stepped forward, and bowed.
-
-‘What do you do here, sir?’ asked Mr. Gregsbury; ‘a spy upon my privacy!
-A concealed voter! You have heard my answer, sir. Pray follow the
-deputation.’
-
-‘I should have done so, if I had belonged to it, but I do not,’ said
-Nicholas.
-
-‘Then how came you here, sir?’ was the natural inquiry of Mr. Gregsbury,
-MP. ‘And where the devil have you come from, sir?’ was the question
-which followed it.
-
-‘I brought this card from the General Agency Office, sir,’ said
-Nicholas, ‘wishing to offer myself as your secretary, and understanding
-that you stood in need of one.’
-
-‘That’s all you have come for, is it?’ said Mr. Gregsbury, eyeing him in
-some [[Doubt|doubt]].
-
-Nicholas replied in the affirmative.
-
-‘You have no connection with any of those rascally papers have you?’
-said Mr. Gregsbury. ‘You didn’t get into the room, to hear what was going
-forward, and put it in print, eh?’
-
-‘I have no connection, I am sorry to say, with anything at present,’
-rejoined Nicholas,--politely enough, but quite at his ease.

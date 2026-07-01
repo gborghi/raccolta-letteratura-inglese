@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 3 (part 1)"
+title: "Shirley — Chapter 3 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -229,5 +229,3 @@ sensible, and an honest nation."
 of that filthy, feeble [[Ferdinand]] to a throne which he disgraced. Your
 
 fit representative of an honest people is a dull-witted drover, acting
-
-for a duller-witted farmer; and against these are arrayed victorious

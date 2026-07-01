@@ -46,7 +46,7 @@ which we regard as indispensable, had doubtless a very favourable
 influence upon the bill of costs.
 
 In every [[Court]], ample and commodious provision is made for the
-accommodation of the citizens.  This is the case all through [[America]].  In
+accommodation of the citizens.  This is the case all through [[america|America]].  In
 every Public Institution, the right of the people to attend, and to have
 an interest in the proceedings, is most fully and distinctly recognised.
 There are no grim door-keepers to dole out their tardy civility by the
@@ -82,7 +82,7 @@ too, there is undoubtedly a degree of protection in the wig and gown—a
 dismissal of individual responsibility in dressing for the part—which
 encourages that insolent bearing and language, and that gross perversion
 of the office of a pleader for The [[Truth]], so frequent in our courts of
-law.  Still, I cannot help doubting whether [[America]], in her [[Desire|desire]] to
+law.  Still, I cannot help doubting whether [[america|America]], in her [[Desire|desire]] to
 shake off the absurdities and abuses of the old system, may not have gone
 too far into the opposite extreme; and whether it is not desirable,
 especially in the small community of a [[City|city]] like this, where each man
@@ -96,7 +96,7 @@ which includes some prisoners and many witnesses.  These institutions
 were established, no [[Doubt|doubt]], upon the principle that those who had so
 large a share in making the laws, would certainly respect them.  But
 experience has proved this [[Hope|hope]] to be fallacious; for no men know better
-than the judges of [[America]], that on the occasion of any great popular
+than the judges of [[america|America]], that on the occasion of any great popular
 excitement the law is powerless, and cannot, for the [[Time|time]], assert its own
 supremacy.
 

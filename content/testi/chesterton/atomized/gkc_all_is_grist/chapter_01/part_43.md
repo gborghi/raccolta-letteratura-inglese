@@ -10,70 +10,123 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/gkc-all-is-grist-(chesterton)">GKC All is Grist</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_all_is_grist/chapter_01/part_42">‹ part 42</a><span></span></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_all_is_grist/chapter_01/part_42">‹ part 42</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_all_is_grist/chapter_01/part_44">part 44 ›</a></div>
 </nav>
 
 
-This is an obvious example of the modern muddle, but it
-is an annoying one.  Whether certain acts are wicked or no
-we will [[debate]] when the statement is clearly made to us.
-But a thing cannot be so wicked that it is insane to suggest it,
-and so [[Innocent|innocent]] that it is blameless to do it.  There are, however,
-a large number of other confusions which any clear-thinking man can
-see in the modern commentary.  We talk about the pagan [[philosophy]];
-but the trouble with our own pagans is that they have no [[philosophy]].
-We talk, by a sort of habit, about Modern Thought, forgetting
-the familiar fact that moderns do not think.  They only feel,
-and that is why they are so much stronger in fiction than in facts;
-why their novels are so much better than their newspapers.
-The current comment on all these things is not even pagan; it is
-the queerest sort of patchwork of pagan and purely Christian ideas.
+Now the Guild method is no more medieval than it is modern, in so far
+as it is a principle apart from [[Time|time]].  The best proof is that it does
+still exist in a practical profession with which we are all acquainted.
+The Doctor, the ordinary general practitioner, whom most of us know
+and to whom many of us owe our lives, is a typical example of the member
+of a Guild.  He is not a Socialist official; he is not a State servant;
+he is an example of private enterprise.  That is to say, he owns
+his own lancet and stethoscope; he has to buy his own practice;
+he does in a certain degree compete with the men of his own trade.
+But he is forbidden to compete with them by certain methods;
+he is forbidden to drive another doctor out of his practice by certain
+expedients of [[Self|self]]-assertion or [[Self|self]]-advertisement.; he has to observe
+towards his fellow-doctor a certain respect and consideration.
+He has to do this because he has joined a Guild or confraternity,
+which exists for the maintenance of the members of his profession
+as a whole.  Its definite and deliberate policy is to keep all
+the doctors in existence, as far as possible, and prevent one of them
+destroying all the rest.  Once it is admitted that a man may use
+any methods of advancement and advertisement, the chances are that
+about twenty honest doctors will be swallowed up by one quack.
+We know this is what has happened in journalism and in commerce,
+and in any number of other things.
 
-For instance, somebody is sure to say in the [[debate]] about Decorum:
-`Is not the human body beautiful?'  To which somebody a little more
-sensible will be quite entitled to answer `No'. If he is a Scot,
-and therefore a Socratic philosopher, he will be entitled to answer
-the question with a question, and say:  `Is the hippopotamus beautiful?'
-The hippopotamus is certainly natural, even if he looks unnatural.
-He is certainly naked, and accepts no regulations about bathing-tents
-or bathing-costumes. But the mere fact that he is natural does
-not make us, in the ordinary sense, admit that he is beautiful.
-Personally, for my own part, I think he is beautiful; but then,
-I have a Gothic taste for the [[Grotesque|grotesque]], nourished upon [[gargoyles]].
-I know what I mean by saying that [[gargoyles]] may be beautiful.
-But the modern materialists do not know what they mean by saying
-that men must be beautiful.
+It is also to be noted that the other side of the old Guild idea,
+which balances this idea of preserving the small man in independence,
+the idea of testing him as to his claims to such independence,
+is also true of the modern doctor, as of the medieval Master.
+It is often regretted that Trade Unions do not insist,
+as did the Guilds, on a standard of work and finish.
+They cannot do so under modern conditions, because they exist
+to contend with another and specially modern evil.  But it is quite
+true that, before the Guild protected a man from unfair competition,
+it examined him in the mastery of his craft; and all that obviously
+corresponds to modern medical examinations and medical degrees.
+Now a man may quite reasonably disapprove of this system,
+just as I, in my own opinion, quite reasonably approve of it.
+He may say quite truly that it has evils of its own.  He may say
+quite tenably that in his view those evils outweigh the good.
+But his attitude is neither true nor tenable if he pretends that the case
+for this social system is a mass of romantic rubbish about the perfect
+[[Beauty|beauty]] of the Middle Ages.  He is simply making a [[Fool|fool]] of himself
+when he talks of the method by which all the most modern surgery
+accomplished and all the most [[Novel|novel]] medical theories advanced as if it
+were a mere fantastic dream of bringing back falconry and tilting-armour;
+or as if nobody could trust Sir Stanley Hewett or Sir Thomas Horder
+without wanting to wave a pennon or wear a tabard.
 
-All that talk about the divinity and dignity of the human [[Body|body]] is
-stolen from theology, and is quite meaningless without theology.
-It dates from the [[Garden]] of Eden, and the idea (which I happen to
-hold firmly) that God created Man in His own image.  But, if you remove
-that religious idea, there is no more sense in saying that every human
-being is lovely than in saying that every hippopotamus is lovely.
-It is a matter of taste; and many of us, after watching a sufficient
-number of human beings at Brighton, might prefer the hippopotamus.
+XXXVI.  On Sophistication
 
-The old atheists had a theory of life, that could be stated
-as a connected train of thought.  The old theologians had a theory
-of life, that could be stated as a connected train of thought.
-But the moderns who call themselves Pagans have no connected theory
-that can be stated at all.  Their view of life is a hotch-potch
-of human and superhuman and subhuman ideas, collected everywhere
-and connected nowhere.  The modern muddler likes to think
-he is the Superman; likes to think he is the image of God;
-likes to think as he pleases; but prefers not to think at all.
-If he had the [[Humility|humility]] to behave like a beast, we should at
-least be free from the obligation to regard him as a god.
-We should not be bound to admit that every beast is beautiful;
-having religious doubts, perhaps, about the hippopotamus or the hornbill.
-If he would clearly and consistently aspire to [[Beauty|beauty]], we might ask
-him to add to it a little dignity.  But in fact he has returned
-to chaos, where there is no asking, nor is there any answer.
-If man comes out of chaos, by blind evolution or merely groping growth,
-there is no more sense in calling his [[Body|body]] noble than in calling
-any lump of fungus or cactus noble.  If it is noble, it is so by
-some patent of nobility; and nobility is conferred by a [[King]].
-But I advise such writers to defer the study of the [[Body]] and begin
-to employ the Mind.
+SOME are complaining that the rising generation is sophisticated;
+and it is true that some members of it are too sophisticated even
+to believe in sophistry.  They believe in nothing; which I suppose
+is one way of returning to simplicity.  The [[Golden Age|golden age]] of the sophists
+was somewhere about the last half of the nineteenth century.
+The Victorians were lectured and led a [[Dance|dance]] by any number of sophists;
+but that was because the Victorians were unsophisticated.
+They believed the most crazy paradoxes; as that it was more practical
+not to be logical; which is like saying that we should make sure
+of having a chain and not bother whether it consists of missing links.
+They believed that men must always have the same [[morality]],
+though they had a new religion or no religion; that is, they said
+that what was done now for a definite reason would be done indefinitely
+for no reason.  Those sturdy Saxon ideas were all sophistries;
+but that did not mean that the sturdy Saxon who accepted them
+was necessarily a sophist.  What I think has really happened,
+in the ease of the more sophisticated youth of to-day, is that they
+have become sceptical of everything, including scepticism.
+And though two blacks do not make a white, it has sometimes been known,
+in grammar and [[philosophy]], that two negatives make a positive.
+So that the sophisticated youth who has seen through the sophistical
+old men, may even yet see something worth seeing.
 
-XXXVIII.  On Algernon Charles Swinburne
+But there is one way in which the young seem to me not sophistical
+but very simple; and there is one type or section of them that is
+sufficiently simple to be called silly.  A great deal of the current
+cult of pleasure, of luxury, of liberty in [[Love|love]], and all the rest of it,
+appears to me to be perfectly childish and childish in the literal
+sense that it is greedy without any grasp of consequences.
+I read novels and [[Poems|poems]] in which the seeker after pleasure simply
+goes on saying, over and over again:  `I must have Happiness.
+I must have Life.  I must have Love.  Why do you reproach me because I
+cannot live without passing from ecstasy to ecstasy?'  This seems
+to me about as simple as the speech of a savage who should say:
+`I must have Gin.  I like Gin.  I like more and more Gin.
+Why will you not instantly provide me with a hundred bottles
+of Gin?'  It does not seem to require much intellectual
+strenuousness to say this.  It is, like other simple things,
+quite true as far as it goes.  But in the matter of connected
+thought and the sense of consequence it does not go very far.
+Gin does make a man happy; up to a point more gin will make him
+more happy; but even more gin will make him many other things as [[Well|well]].
+By a succession of phases not contemplated by the philosopher
+in his first phase, it will make him first drunk, then dead drunk,
+and then dead to the world, and then very possibly dead altogether.
+That also seems to be a simple [[Truth|truth]], requiring no great subtlety;
+but the savage cannot see it, and the sex novelist cannot see it.
+He cannot see, what nearly everybody in [[history]] has hitherto seen,
+that there are certain laws and limits to the mind, as there
+are certain laws and limits to the [[Body|body]].  There is such a thing
+as concentration; there is such a thing as contrast; there is such
+a thing as proportion; there is emphatically such a thing as boredom.
+Above all, there is such a thing as a contradiction in terms;
+and it is a contradiction in terms to have every moment a crisis,
+every event an escapade, every fact an exception, every person
+an eccentric, every day a holiday, or society an endless Saturnalia.
+If people try to do that, they will find it dull; just as certainly as,
+if they drink unlimited gin, we shall find them drunk.
+If you do literally paint the town red, you will not be able to use
+it as a background, either to the red [[Flag|flag]] of Bolshevism or the red
+flower of a blameful life.  If you do literally go on till all is blue,
+you will not be able to distinguish the special and delicate
+blueness even of the decadents' blue roses and blue wine.
+These are laws of the mind, analogous to laws of the eye.
+And the laws of the eye are not altered by everybody putting on
+the same sort of horned spectacles, that each one of them may look
+separate and distinguished.

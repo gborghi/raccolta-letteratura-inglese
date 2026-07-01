@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 35: DEPRESSION (part 7)"
+title: "David Copperfield — Chapter 35: DEPRESSION (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -10,9 +10,40 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_35_depression/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_36_enthusiasm/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_35_depression/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_35_depression/part_08">part 08 ›</a></div>
 </nav>
 
+
+‘I think,’ said Agnes, turning pale, ‘it’s papa. He promised me that he
+would come.’
+
+I opened the door, and admitted, not only Mr. Wickfield, but [[Uriah Heep]].
+I had not seen Mr. Wickfield for some [[Time|time]]. I was prepared for a great
+change in him, after what I had heard from Agnes, but his appearance
+shocked me.
+
+It was not that he looked many years older, though still dressed
+with the old scrupulous cleanliness; or that there was an unwholesome
+ruddiness upon his face; or that his eyes were full and bloodshot; or
+that there was a nervous trembling in his hand, the cause of which I
+knew, and had for some years seen at work. It was not that he had lost
+his good looks, or his old bearing of a gentleman--for that he had
+not--but the thing that struck me most, was, that with the evidences of
+his native superiority still upon him, he should submit himself to that
+crawling impersonation of meanness, [[Uriah Heep]]. The reversal of the
+two natures, in their relative positions, Uriah’s of power and Mr.
+Wickfield’s of dependence, was a sight more painful to me than I can
+express. If I had seen an Ape taking command of a Man, I should hardly
+have thought it a more degrading spectacle.
+
+He appeared to be only too conscious of it himself. When he came in, he
+stood still; and with his head bowed, as if he felt it. This was
+only for a moment; for Agnes softly said to him, ‘Papa! Here is Miss
+Trotwood--and Trotwood, whom you have not seen for a long while!’ and
+then he approached, and constrainedly gave my aunt his hand, and shook
+hands more cordially with me. In the moment’s pause I speak of, I saw
+Uriah’s countenance form itself into a most ill-favoured smile. Agnes
+saw it too, I think, for she shrank from him.
 
 What my aunt saw, or did not see, I defy the science of physiognomy
 to have made out, without her own consent. I believe there never was
@@ -99,64 +130,3 @@ concur in!’
 of bringing down upon himself another visitation from my aunt, ‘to be so
 trusted in! But I [[Hope|hope]] I am able to do something to relieve him from the
 fatigues of business, Master Copperfield!’
-
-‘[[Uriah Heep]] is a great relief to me,’ said Mr. Wickfield, in the same
-dull voice. ‘It’s a load off my mind, Trotwood, to have such a partner.’
-
-The red fox made him say all this, I knew, to exhibit him to me in the
-light he had indicated on the [[Night|night]] when he poisoned my rest. I saw the
-same ill-favoured smile upon his face again, and saw how he watched me.
-
-‘You are not going, papa?’ said Agnes, anxiously. ‘Will you not walk
-back with Trotwood and me?’
-
-He would have looked to Uriah, I believe, before replying, if that
-worthy had not anticipated him.
-
-‘I am bespoke myself,’ said Uriah, ‘on business; otherwise I should
-have been appy to have kept with my friends. But I leave my partner to
-represent the firm. Miss Agnes, ever yours! I wish you good-day, Master
-Copperfield, and leave my umble respects for Miss [[Betsey Trotwood]].’
-
-With those words, he retired, kissing his great hand, and leering at us
-like a mask.
-
-We sat there, talking about our pleasant old Canterbury days, an hour
-or two. Mr. Wickfield, left to Agnes, soon became more like his former
-[[Self|self]]; though there was a settled depression upon him, which he never
-shook off. For all that, he brightened; and had an evident pleasure in
-hearing us recall the little incidents of our old life, many of which he
-remembered very [[Well|well]]. He said it was like those times, to be [[Alone|alone]] with
-Agnes and me again; and he wished to Heaven they had never changed. I am
-sure there was an influence in the placid face of Agnes, and in the very
-touch of her hand upon his arm, that did wonders for him.
-
-My aunt (who was busy nearly all this while with Peggotty, in the inner
-room) would not accompany us to the place where they were staying, but
-insisted on my going; and I went. We dined together. After dinner, Agnes
-sat beside him, as of old, and poured out his wine. He took what she
-gave him, and no more--like a [[Child|child]]--and we all three sat together at a
-[[Window|window]] as the evening gathered in. When it was almost dark, he lay down
-on a sofa, Agnes pillowing his head and bending over him a little while;
-and when she came back to the [[Window|window]], it was not so dark but I could see
-[[Tears|tears]] glittering in her eyes.
-
-I pray Heaven that I never may forget the dear girl in her [[Love|love]] and
-[[Truth|truth]], at that [[Time|time]] of my life; for if I should, I must be drawing near
-the end, and then I would [[Desire|desire]] to remember her best! She filled my
-heart with such good resolutions, strengthened my weakness so, by her
-example, so directed--I know not how, she was too modest and gentle
-to advise me in many words--the wandering ardour and unsettled purpose
-within me, that all the little good I have done, and all the harm I have
-forborne, I solemnly believe I may refer to her.
-
-And how she spoke to me of Dora, sitting at the [[Window|window]] in the dark;
-listened to my praises of her; praised again; and round the little
-fairy-figure shed some glimpses of her own pure light, that made it yet
-more precious and more [[Innocent|innocent]] to me! Oh, Agnes, sister of my boyhood,
-if I had known then, what I knew long afterwards--!
-
-There was a beggar in the street, when I went down; and as I turned my
-head towards the [[Window|window]], thinking of her calm seraphic eyes, he made me
-start by muttering, as if he were an echo of the morning: ‘Blind! Blind!
-Blind!’

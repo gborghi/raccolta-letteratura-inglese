@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 32 (part 4)"
+title: "Shirley — Chapter 32 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -12,6 +12,28 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_32/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_33/part_01">part 01 ›</a></div>
 </nav>
+
+
+something about his bandages that finished everything. He would have got
+
+better but for them. I am sure they should be arrested, cribbed, tried,
+
+and brought in for Botany Bay, at the very least."
+
+
+
+The questioner, perhaps, did nor hear this judgment. She stood
+
+motionless. In two minutes, without another word, she moved forwards; no
+
+good-[[Night|night]], no further inquiry. This was not amusing, nor what Martin
+
+had calculated on. He expected something dramatic and demonstrative. It
+
+was hardly worth while to frighten the girl if she would not entertain
+
+him in return. He called, "Miss Helstone!"
+
 
 
 She did not hear or turn. He hastened after and overtook her.

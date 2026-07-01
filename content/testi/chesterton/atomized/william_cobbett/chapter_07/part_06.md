@@ -77,7 +77,7 @@ the influence of the man I have been studying and trying to understand;
 who has been called egotistical, though I should be content to call
 him autobiographical.  As Mr. Cole pointed out in his admirable [[Biography|biography]],
 Cobbett treated his ego as an emblematic figure of England, as Whitman
-did his of [[america|America]].  My own memories can have no such symbolic excuse;
+did his of [[America]].  My own memories can have no such symbolic excuse;
 but I passed much of my [[Childhood|childhood]] along that main thoroughfare
 where Cobbett had his seed farm at Kensington; and one of the last
 things my own fattier told me was a tale of a strange object hanging

@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 21 (part 5)"
+title: "Shirley — Chapter 21 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,32 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_21/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_21/part_06">part 06 ›</a></div>
 </nav>
 
+
+"How untrue? You are fond of Miss Keeldar, are you not, my dear?"
+
+
+
+"Very fond of [[Shirley]]. I both like and admire her. But I am painfully
+
+circumstanced. For a reason I cannot explain I want to go away from this
+
+place, and to forget it."
+
+
+
+"You told me before you wished to be a governess; but, my dear, if you
+
+remember, I did not encourage the idea. I have been a governess myself
+
+great part of my life. In Miss Keeldar's acquaintance I esteem myself
+
+most fortunate. Her talents and her really sweet disposition have
+
+rendered my office easy to me; but when I was young, before I married,
+
+my trials were severe, poignant. I should not like a---- I should not
+
+like you to endure similar ones. It was my lot to enter a family of
 
 considerable pretensions to good birth and mental superiority, and the
 
@@ -175,35 +201,3 @@ of society), are, in my opinion, indispensable to the [[Well|well]]-being of
 every community. All I mean to say, my dear, is that you had better not
 
 attempt to be a governess, as the duties of the position would be too
-
-severe for your constitution. Not one word of disrespect would I breathe
-
-towards either Mrs. or Miss Hardman; only, recalling my own experience,
-
-I cannot but feel that, were you to fall under auspices such as theirs,
-
-you would contend a while courageously with your doom, then you would
-
-pine and grow too weak for your work; you would come [[Home|home]]--if you still
-
-had a [[Home|home]]--broken down. Those languishing years would follow of which
-
-none but the invalid and her immediate friends feel the heart-sickness
-
-and know the burden. Consumption or decline would close the chapter.
-
-Such is the [[history]] of many a life. I would not have it yours. My dear,
-
-we will now walk about a little, if you please."
-
-
-
-They both [[Rose|rose]], and slowly paced a green natural terrace bordering the
-
-chasm.
-
-
-
-"My dear," ere long again began Mrs. Pryor, a sort of timid, embarrassed
-
-abruptness marking her manner as she spoke, "the young, especially those

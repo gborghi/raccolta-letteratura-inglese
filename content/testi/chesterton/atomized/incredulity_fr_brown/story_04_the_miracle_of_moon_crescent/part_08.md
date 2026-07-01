@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The Miracle of [[Moon]] Crescent (part 8)"
+title: "incredulity Fr Brown — The Miracle of Moon Crescent (part 8)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -127,6 +127,3 @@ Remember the lane was always empty; remember the wall opposite was quite
 blank; remember it was all over in five minutes after the Irishman gave
 the signal with the [[Pistol|pistol]]. There were three of them in it of course;
 and I [[Wonder|wonder]] whether you can all guess who they were.'
-
-They were all three staring at the plain, square [[Window|window]] and the blank,
-white wall beyond; and nobody answered.

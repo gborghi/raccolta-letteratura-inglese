@@ -1,5 +1,5 @@
 ---
-title: "[[GKC-Autobiography]] — Chapter 5 (part 4)"
+title: "GKC-Autobiography — Chapter 5 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/gkc-autobiography-(chesterton)"
@@ -55,7 +55,6 @@ and of the blend of nations in his [[Blood|blood]].
   And in his gait the narrow seas
   And on his mouth Burgundian [[songs]]
   And in his heart the Pyrenees?
-
 
 He sat down heavily on one of the benches and began to talk at once
 about some controversy or other; I gathered that the question

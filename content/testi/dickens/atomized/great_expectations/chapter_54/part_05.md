@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 54 (part 5)"
+title: "Great Expectations — Chapter 54 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,23 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_54/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_55/part_01">part 01 ›</a></div>
 </nav>
 
+
+It was but for an instant that I seemed to struggle with a thousand
+mill-weirs and a thousand flashes of light; that instant past, I was
+taken on board the galley. Herbert was there, and Startop was there;
+but our boat was gone, and the two convicts were gone.
+
+What with the cries aboard the steamer, and the furious blowing off of
+her steam, and her driving on, and our driving on, I could not at first
+distinguish sky from [[Water|water]] or shore from shore; but the crew of the
+galley righted her with great [[Speed|speed]], and, pulling certain swift strong
+strokes ahead, lay upon their oars, every man looking silently and
+eagerly at the [[Water|water]] astern. Presently a dark object was seen in it,
+bearing towards us on the tide. No man spoke, but the steersman held up
+his hand, and all softly backed [[Water|water]], and kept the boat straight and
+true before it. As it came nearer, I saw it to be Magwitch, swimming,
+but not swimming freely. He was taken on board, and instantly manacled
+at the wrists and ankles.
 
 The galley was kept steady, and the silent, eager look-out at the [[Water|water]]
 was resumed. But, the Rotterdam steamer now came up, and apparently not

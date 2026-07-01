@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 10 (part 6)"
+title: "Martin Chuzzlewit — Chapter 10 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,43 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_10/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_11_eleven/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘There’s Jinkins,’ said the youngest gentleman, moodily. ‘Your
+favourite. He’ll console you, and the gentlemen too, for the loss of
+twenty such as me. I’m not understood in this [[house]]. I never have been.’
+
+‘Don’t run away with that opinion, sir!’ cried Mrs Todgers, with a show
+of honest indignation. ‘Don’t make such a charge as that against the
+establishment, I must beg of you. It is not so bad as that comes to,
+sir. Make any remark you please against the gentlemen, or against me;
+but don’t say you’re not understood in this [[house]].’
+
+‘I’m not treated as if I was,’ said the youngest gentleman.
+
+‘There you make a great mistake, sir,’ returned Mrs Todgers, in the same
+strain. ‘As many of the gentlemen and I have often said, you are too
+sensitive. That’s where it is. You are of too susceptible a [[Nature|nature]]; it’s
+in your spirit.’
+
+The young gentleman coughed.
+
+‘And as,’ said Mrs Todgers, ‘as to Mr Jinkins, I must beg of you, if we
+ARE to part, to understand that I don’t abet Mr Jinkins by any means.
+Far from it. I could wish that Mr Jinkins would take a lower tone in
+this establishment, and would not be the means of raising differences
+between me and gentlemen that I can much less bear to part with than I
+could with Mr Jinkins. Mr Jinkins is not such a boarder, sir,’ added Mrs
+Todgers, ‘that all considerations of private feeling and respect give
+way before him. Quite the contrary, I assure you.’
+
+The young gentleman was so much mollified by these and similar speeches
+on the part of Mrs Todgers, that he and that lady gradually changed
+positions; so that she became the injured party, and he was understood
+to be the injurer; but in a complimentary, not in an offensive sense;
+his cruel conduct being attributable to his exalted [[Nature|nature]], and to that
+[[Alone|alone]]. So, in the end, the young gentleman withdrew his notice, and
+assured Mrs Todgers of his unalterable regard; and having done so, went
+back to business.
 
 ‘Goodness me, Miss Pecksniffs!’ cried that lady, as she came into the
 back room, and sat wearily down, with her basket on her knees, and her

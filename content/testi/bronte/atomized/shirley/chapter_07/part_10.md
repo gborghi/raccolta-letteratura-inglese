@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 7 (part 10)"
+title: "Shirley — Chapter 7 (part 10)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,68 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_07/part_09">‹ part 09</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_08/part_01">part 01 ›</a></div>
 </nav>
 
+
+There was something so diffident and downcast in the air and tone with
+
+which she said this, any one might perceive that some saddening change
+
+had lately passed over her prospects, and that the faculty of cheerful
+
+[[Self|self]]-possession had left her. Mr. Moore, probably, remembered how she
+
+had formerly been accustomed to meet him with gentle ardour and hopeful
+
+confidence. He must have seen how the check of this morning had
+
+operated. Here was an opportunity for carrying out his new system with
+
+effect, if he chose to improve it. Perhaps he found it easier to
+
+practise that system in broad daylight, in his mill-yard, amidst busy
+
+occupations, than in a quiet parlour, disengaged, at the hour of
+
+eventide. Fanny lit the candles, which before had stood unlit on the
+
+table, brought writing materials, and left the room. Caroline was about
+
+to follow her. Moore, to act consistently, should have let her go;
+
+whereas he stood in the doorway, and, holding out his hand, gently kept
+
+her back. He did not ask her to stay, but he would not let her go.
+
+
+
+"Shall I tell my uncle you are here?" asked she, still in the same
+
+subdued voice.
+
+
+
+"No; I can say to you all I had to say to him. You will be my
+
+messenger?"
+
+
+
+"Yes, Robert."
+
+
+
+"Then you may just inform him that I have got a clue to the [[Identity|identity]] of
+
+one, at least, of the men who broke my frames; that he belongs to the
+
+same gang who attacked Sykes and Pearson's dressing-shop, and that I
+
+[[Hope|hope]] to have him in custody to-morrow. You can remember that?"
+
+
+
+"Oh yes!" These two monosyllables were uttered in a sadder tone than
+
+ever; and as she said them she shook her head slightly and sighed. "Will
 
 you prosecute him?"
 

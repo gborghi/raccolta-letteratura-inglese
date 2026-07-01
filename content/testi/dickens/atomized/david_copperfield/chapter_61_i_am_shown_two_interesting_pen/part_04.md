@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 61: I AM SHOWN TWO INTERESTING PENITENTS (part 4)"
+title: "David Copperfield — Chapter 61: I AM SHOWN TWO INTERESTING PENITENTS (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_61_i_am_shown_two_interesting_pen/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_62_a_light_shines_on_my_way/part_01">part 01 ›</a></div>
 </nav>
 
+
+I observed that several gentlemen were shading their eyes, each with one
+hand, as if they had just come into church.
 
 ‘This does you credit, Twenty Eight,’ returned the questioner. ‘I should
 have expected it of you. Is there anything else?’
@@ -140,7 +143,7 @@ being took by a [[Dwarf|dwarf]].’
 
 ‘Not Mowcher?’
 
-‘That’s it! He had eluded pursuit, and was going to [[America]] in a flaxen
+‘That’s it! He had eluded pursuit, and was going to [[america|America]] in a flaxen
 wig, and whiskers, and such a complete disguise as never you see in all
 your born days; when the little woman, being in Southampton, met
 him walking along the street--picked him out with her sharp eye in a

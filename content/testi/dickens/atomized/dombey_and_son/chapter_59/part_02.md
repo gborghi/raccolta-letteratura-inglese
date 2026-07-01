@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 3 (part 2)"
+title: "Dombey and Son — Chapter 31 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,152 +14,128 @@ tags:
 </nav>
 
 
-“It’s Miss Florence come [[Home|home]] from her aunt’s, no [[Doubt|doubt]],” thought
-Richards, who had never seen the [[Child|child]] before. “[[Hope]] I see you [[Well|well]],
-Miss.”
+Besides all this, and much more, twenty nursery-maids in Mr Dombey’s
+street [[Alone|alone]], have promised twenty families of little women, whose
+instinctive interest in nuptials dates from their cradles, that they
+shall go and see the [[Marriage|marriage]]. Truly, Mr Sownds the Beadle has good
+reason to feel himself in office, as he suns his portly figure on the
+church steps, waiting for the [[Marriage|marriage]] hour. Truly, Mrs Miff has cause
+to pounce on an unlucky [[Dwarf|dwarf]] [[Child|child]], with a giant baby, who peeps in at
+the porch, and drive her forth with indignation!
 
-“Is that my brother?” asked the [[Child|child]], pointing to the Baby.
+Cousin Feenix has come over from abroad, expressly to attend the
+[[Marriage|marriage]]. Cousin Feenix was a man about town, forty years ago; but he
+is still so juvenile in figure and in manner, and so [[Well|well]] got up, that
+strangers are amazed when they discover latent wrinkles in his
+lordship’s face, and crows’ feet in his eyes: and first observe him,
+not exactly certain when he walks across a room, of going quite
+straight to where he wants to go. But Cousin Feenix, getting up at
+half-past seven o’[[Clock|clock]] or so, is quite another thing from Cousin
+Feenix got up; and very dim, indeed, he looks, while being shaved at
+Long’s Hotel, in Bond Street.
 
-“Yes, my pretty,” answered Richards. “Come and kiss him.”
+Mr Dombey [[Leaves|leaves]] his dressing-room, amidst a general whisking away of
+the women on the staircase, who disperse in all directions, with a
+great rustling of skirts, except Mrs Perch, who, being (but that she
+always is) in an interesting situation, is not nimble, and is obliged
+to face him, and is ready to sink with confusion as she curtesys;—may
+Heaven avert all evil consequences from the [[house]] of Perch! Mr Dombey
+walks up to the drawing-room, to bide his [[Time|time]]. Gorgeous are Mr
+Dombey’s new blue coat, fawn-coloured pantaloons, and lilac waistcoat;
+and a whisper goes about the [[house]], that Mr Dombey’s hair is curled.
 
-But the [[Child|child]], instead of advancing, looked her earnestly in the face,
-and said:
+A [[Double|double]] knock announces the arrival of the Major, who is gorgeous too,
+and wears a whole geranium in his button-hole, and has his hair curled
+tight and crisp, as [[Well|well]] the Native knows.
 
-“What have you done with my Mama?”
+“Dombey!” says the Major, putting out both hands, “how are you?”
 
-“Lord bless the little creeter!” cried Richards, “what a sad question!
-I done? Nothing, Miss.”
+“Major,” says Mr Dombey, “how are You?”
 
-“What have they done with my Mama?” inquired the [[Child|child]], with exactly
-the same look and manner.
+“By Jove, Sir,” says the Major, “Joey B. is in such case this morning,
+Sir,”—and here he hits himself hard upon the breast—“In such case this
+morning, Sir, that, damme, Dombey, he has half a mind to make a [[Double|double]]
+[[Marriage|marriage]] of it, Sir, and take the mother.”
 
-“I never saw such a melting thing in all my life!” said Richards, who
-naturally substituted for this [[Child|child]] one of her own, inquiring for
-herself in like circumstances. “Come nearer here, my dear Miss! Don’t
-be afraid of me.”
+Mr Dombey smiles; but faintly, even for him; for Mr Dombey feels that
+he is going to be related to the mother, and that, under those
+circumstances, she is not to be joked about.
 
-“I am not afraid of you,” said the [[Child|child]], drawing nearer. “But I want
-to know what they have done with my Mama.”
+“Dombey,” says the Major, seeing this, “I give you joy. I congratulate
+you, Dombey. By the Lord, Sir,” says the Major, “you are more to be
+envied, this day, than any man in England!”
 
-Her heart swelled so as she stood before the woman, looking into her
-eyes, that she was fain to press her little hand upon her breast and
-hold it there. Yet there was a purpose in the [[Child|child]] that prevented both
-her slender figure and her searching gaze from faltering.
+Here again Mr Dombey’s assent is qualified; because he is going to
+confer a great distinction on a lady; and, no [[Doubt|doubt]], she is to be
+envied most.
 
-“My darling,” said Richards, “you wear that pretty black frock in
-remembrance of your Mama.”
+“As to [[Edith Granger]], Sir,” pursues the Major, “there is not a woman in
+all Europe but might—and would, Sir, you will allow Bagstock to add—and
+would—give her ears, and her earrings, too, to be in [[Edith Granger]]’s
+place.”
 
-“I can remember my Mama,” returned the [[Child|child]], with [[Tears|tears]] springing to
-her eyes, “in any frock.”
+“You are good enough to say so, Major,” says Mr Dombey.
 
-“But people put on black, to remember people when they’re gone.”
+“Dombey,” returns the Major, “you know it. Let us have no false
+delicacy. You know it. Do you know it, or do you not, Dombey?” says the
+Major, almost in a passion.
 
-“Where gone?” asked the [[Child|child]].
+“Oh, really, Major—”
 
-“Come and sit down by me,” said Richards, “and I’ll tell you a story.”
+“Damme, Sir,” retorts the Major, “do you know that fact, or do you not?
+Dombey! Is old Joe your friend? Are we on that footing of unreserved
+intimacy, Dombey, that may justify a man—a blunt old Joseph B., Sir—in
+speaking out; or am I to take open order, Dombey, and to keep my
+distance, and to stand on forms?”
 
-With a quick perception that it was intended to relate to what she had
-asked, little Florence laid aside the bonnet she had held in her hand
-until now, and sat down on a stool at the [[Nurse]]’s feet, looking up into
-her face.
+“My dear [[Major Bagstock]],” says Mr Dombey, with a gratified air, “you
+are quite warm.”
 
-“Once upon a [[Time|time]],” said Richards, “there was a lady—a very good lady,
-and her little daughter dearly loved her.”
+“By Gad, Sir,” says the Major, “I am warm. Joseph B. does not deny it,
+Dombey. He is warm. This is an occasion, Sir, that calls forth all the
+honest sympathies remaining in an old, infernal, battered, used-up,
+invalided, J. B. carcase. And I tell you what, Dombey—at such a [[Time|time]] a
+man must blurt out what he feels, or put a muzzle on; and Joseph
+Bagstock tells you to your face, Dombey, as he tells his club behind
+your back, that he never will be muzzled when [[Paul Dombey]] is in
+question. Now, damme, Sir,” concludes the Major, with great firmness,
+“what do you make of that?”
 
-“A very good lady and her little daughter dearly loved her,” repeated
-the [[Child|child]].
+“Major,” says Mr Dombey, “I assure you that I am really obliged to you.
+I had no idea of checking your too partial [[Friendship|friendship]].”
 
-“Who, when God thought it right that it should be so, was taken ill and
-died.”
+“Not too partial, Sir!” exclaims the choleric Major. “Dombey, I deny
+it.”
 
-The [[Child|child]] shuddered.
+“Your [[Friendship|friendship]] I will say then,” pursues Mr Dombey, “on any account.
+Nor can I forget, Major, on such an occasion as the present, how much I
+am indebted to it.”
 
-“Died, never to be seen again by anyone on earth, and was buried in the
-ground where the trees grow.”
+“Dombey,” says the Major, with appropriate action, “that is the hand of
+Joseph Bagstock: of plain old Joey B., Sir, if you like that better!
+That is the hand, of which His Royal Highness the late [[Duke of York]],
+did me the [[Honour|honour]] to observe, Sir, to His Royal Highness the late Duke
+of [[Kent]], that it was the hand of Josh: a rough and tough, and possibly
+an up-to-snuff, old vagabond. Dombey, may the present moment be the
+least unhappy of our lives. God bless you!”
 
-“The cold ground?” said the [[Child|child]], shuddering again.
+Now enters Mr Carker, gorgeous likewise, and smiling like a
+wedding-guest indeed. He can scarcely let Mr Dombey’s hand go, he is so
+congratulatory; and he shakes the Major’s hand so heartily at the same
+[[Time|time]], that his voice shakes too, in accord with his arms, as it comes
+sliding from between his teeth.
 
-“No! The warm ground,” returned Polly, seizing her advantage, “where
-the ugly little seeds turn into beautiful [[Flowers|flowers]], and into grass, and
-corn, and I don’t know what all besides. Where good people turn into
-bright angels, and fly away to Heaven!”
+“The very day is auspicious,” says Mr Carker. “The brightest and most
+genial weather! I [[Hope|hope]] I am not a moment late?”
 
-The [[Child|child]], who had dropped her head, raised it again, and sat looking
-at her intently.
+“Punctual to your [[Time|time]], Sir,” says the Major.
 
-“So; let me see,” said Polly, not a little flurried between this
-earnest scrutiny, her [[Desire|desire]] to comfort the [[Child|child]], her sudden [[success]],
-and her very slight confidence in her own powers. “So, when this lady
-died, wherever they took her, or wherever they put her, she went to
-GOD! and she prayed to Him, this lady did,” said Polly, affecting
-herself beyond measure; being heartily in earnest, “to teach her little
-daughter to be sure of that in her heart: and to know that she was
-happy there and loved her still: and to [[Hope|hope]] and try—Oh, all her
-life—to meet her there one day, never, never, never to part any more.”
-
-“It was my Mama!” exclaimed the [[Child|child]], springing up, and clasping her
-round the neck.
-
-“And the [[Child|child]]’s heart,” said Polly, drawing her to her breast: “the
-little daughter’s heart was so full of the [[Truth|truth]] of this, that even
-when she heard it from a strange [[Nurse|nurse]] that couldn’t tell it right, but
-was a poor mother herself and that was all, she found a comfort in
-it—didn’t feel so lonely—sobbed and cried upon her bosom—took kindly to
-the baby lying in her lap—and—there, there, there!” said Polly,
-smoothing the [[Child|child]]’s curls and dropping [[Tears|tears]] upon them. “There, poor
-dear!”
-
-“Oh [[Well|well]], Miss Floy! And won’t your Pa be angry neither!” cried a quick
-voice at the door, proceeding from a short, brown, womanly girl of
-fourteen, with a little snub nose, and black eyes like jet beads. “When
-it was “tickerlerly given out that you wasn’t to go and worrit the wet
-[[Nurse|nurse]].”
-
-“She don’t worry me,” was the surprised rejoinder of Polly. “I am very
-fond of children.”
-
-“Oh! but begging your pardon, Mrs Richards, that don’t matter, you
-know,” returned the black-eyed girl, who was so desperately sharp and
-biting that she seemed to make one’s eyes [[Water|water]]. “I may be very fond of
-pennywinkles, Mrs Richards, but it don’t follow that I’m to have ’em
-for tea.”
-
-“[[Well]], it don’t matter,” said Polly.
-
-“Oh, thank’ee, Mrs Richards, don’t it!” returned the sharp girl.
-“Remembering, however, if you’ll be so good, that Miss Floy’s under my
-charge, and Master Paul’s under your’n.”
-
-“But still we needn’t quarrel,” said Polly.
-
-“Oh no, Mrs Richards,” rejoined Spitfire. “Not at all, I don’t wish it,
-we needn’t stand upon that footing, Miss Floy being a permanency,
-Master Paul a temporary.” Spitfire made use of none but comma pauses;
-shooting out whatever she had to say in one sentence, and in one
-breath, if possible.
-
-“Miss Florence has just come [[Home|home]], hasn’t she?” asked Polly.
-
-“Yes, Mrs Richards, just come, and here, Miss Floy, before you’ve been
-in the [[house]] a quarter of an hour, you go a smearing your wet face
-against the expensive mourning that Mrs Richards is a wearing for your
-Ma!” With this remonstrance, young Spitfire, whose real name was Susan
-Nipper, detached the [[Child|child]] from her new friend by a wrench—as if she
-were a tooth. But she seemed to do it, more in the excessively sharp
-exercise of her official functions, than with any deliberate
-unkindness.
-
-“She’ll be quite happy, now she has come [[Home|home]] again,” said Polly,
-nodding to her with an encouraging smile upon her wholesome face, “and
-will be so pleased to see her dear Papa tonight.”
-
-“Lork, Mrs Richards!” cried Miss Nipper, taking up her words with a
-jerk. “Don’t. See her dear Papa indeed! I should like to see her do
-it!”
-
-“Won’t she then?” asked Polly.
-
-“Lork, Mrs Richards, no, her Pa’s a deal too wrapped up in somebody
-else, and before there was a somebody else to be wrapped up in she
-never was a favourite, girls are thrown away in this [[house]], Mrs
-Richards, I assure you.”
+“I am rejoiced, I am sure,” says Mr Carker. “I was afraid I might be a
+few seconds after the appointed [[Time|time]], for I was delayed by a procession
+of waggons; and I took the liberty of riding round to Brook
+Street”—this to Mr Dombey—“to leave a few poor rarities of [[Flowers|flowers]] for
+Mrs Dombey. A man in my position, and so distinguished as to be invited
+here, is proud to offer some homage in acknowledgment of his vassalage:
+and as I have no [[Doubt|doubt]] Mrs Dombey is overwhelmed with what is costly
+and magnificent;” with a strange glance at his patron; “I [[Hope|hope]] the very
+[[Poverty|poverty]] of my offering, may find favour for it.”

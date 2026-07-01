@@ -1,5 +1,5 @@
 ---
-title: "[[AllThingsConsidered-8]] — EDWARD VII.  AND SCOTLAND"
+title: "AllThingsConsidered-8 — EDWARD VII.  AND SCOTLAND"
 author: "Chesterton"
 unitType: story
 parentWork: "works/allthingsconsidered-8-(chesterton)"

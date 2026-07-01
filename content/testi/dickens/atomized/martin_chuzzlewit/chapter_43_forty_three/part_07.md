@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 43: FORTY THREE (part 7)"
+title: "Martin Chuzzlewit — Chapter 43: FORTY THREE (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,65 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_43_forty_three/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_43_forty_three/part_08">part 08 ›</a></div>
 </nav>
 
+
+Still Martin looked steadily and mildly at his grandfather. ‘Will you
+give me no answer,’ he said, at length, ‘not a word?’
+
+‘You hear what has been said,’ replied the old man, without averting his
+eyes from the face of Mr Pecksniff; who nodded encouragingly.
+
+‘I have not heard your voice. I have not heard your spirit,’ returned
+Martin.
+
+‘Tell him again,’ said the old man, still gazing up in Mr Pecksniff’s
+face.
+
+‘I only hear,’ replied Martin, strong in his purpose from the first, and
+stronger in it as he felt how Pecksniff winced and shrunk beneath his
+contempt; ‘I only hear what you say to me, grandfather.’
+
+Perhaps it was [[Well|well]] for Mr Pecksniff that his venerable friend found
+in his (Mr Pecksniff’s) features an exclusive and engrossing object
+of contemplation, for if his eyes had gone astray, and he had compared
+young Martin’s bearing with that of his zealous defender, the latter
+disinterested gentleman would scarcely have shown to greater advantage
+than on the memorable afternoon when he took [[Tom Pinch]]’s last receipt
+in full of all demands. One really might have thought there was some
+quality in Mr Pecksniff--an emanation from the brightness and purity
+within him perhaps--which set off and adorned his foes; they looked so
+gallant and so manly beside him.
+
+‘Not a word?’ said Martin, for the second [[Time|time]].
+
+‘I remember that I have a word to say, Pecksniff,’ observed the old man.
+‘But a word. You spoke of being indebted to the charitable help of some
+stranger for the means of returning to England. Who is he? And what help
+in money did he render you?’
+
+Although he asked this question of Martin, he did not look towards him,
+but kept his eyes on Mr Pecksniff as before. It appeared to have become
+a habit with him, both in a literal and figurative sense, to look to Mr
+Pecksniff [[Alone|alone]].
+
+Martin took out his pencil, tore a leaf from his pocket-book, and
+hastily wrote down the particulars of his debt to Mr Bevan. The old man
+stretched out his hand for the paper, and took it; but his eyes did not
+wander from Mr Pecksniff’s face.
+
+‘It would be a poor [[Pride|pride]] and a false [[Humility|humility]],’ said Martin, in a
+low voice, ‘to say, I do not wish that to be paid, or that I have any
+present [[Hope|hope]] of being able to pay it. But I never felt my [[Poverty|poverty]] so
+deeply as I feel it now.’
+
+‘Read it to me, Pecksniff,’ said the old man.
+
+Mr Pecksniff, after approaching the perusal of the paper as if it were a
+manuscript confession of a murder, complied.
+
+‘I think, Pecksniff,’ said old Martin, ‘I could wish that to be
+discharged. I should not like the lender, who was abroad, who had
+no opportunity of making inquiry, and who did (as he thought) a kind
+action, to suffer.’
 
 ‘An honourable sentiment, my dear sir. Your own entirely. But a
 dangerous precedent,’ said Mr Pecksniff, ‘permit me to suggest.’
@@ -83,64 +142,3 @@ only once. But Pecksniff? You needn’t [[Fear|fear]] to tell me the whole tale;
 for you saw me with him face to face, hearing him speak, and not taking
 him by the throat; what is the [[history]] of his pursuit of you? Is it
 known to my grandfather?’
-
-‘Yes.’
-
-‘And he assists him in it?’
-
-‘No,’ she answered eagerly.
-
-‘Thank Heaven!’ cried Martin, ‘that it [[Leaves|leaves]] his mind unclouded in that
-one respect!’
-
-‘I do not think,’ said Mary, ‘it was known to him at first. When
-this man had sufficiently prepared his mind, he revealed it to him by
-degrees. I think so, but I only know it from my own impression: now from
-anything they told me. Then he spoke to me [[Alone|alone]].’
-
-‘My grandfather did?’ said Martin.
-
-‘Yes--spoke to me [[Alone|alone]], and told me--’
-
-‘What the hound had said,’ cried Martin. ‘Don’t repeat it.’
-
-‘And said I knew [[Well|well]] what qualities he possessed; that he was
-moderately rich; in good repute; and high in his favour and confidence.
-But seeing me very much distressed, he said that he would not control
-or force my inclinations, but would content himself with telling me the
-fact. He would not [[Pain|pain]] me by dwelling on it, or reverting to it; nor
-has he ever done so since, but has truly kept his word.’
-
-‘The man himself?--’ asked Martin.
-
-‘He has had few opportunities of pursuing his suit. I have never walked
-out [[Alone|alone]], or remained [[Alone|alone]] an instant in his presence. Dear Martin, I
-must tell you,’ she continued, ‘that the kindness of your grandfather
-to me remains unchanged. I am his companion still. An indescribable
-tenderness and compassion seem to have mingled themselves with his old
-regard; and if I were his only [[Child|child]], I could not have a gentler father.
-What former fancy or old habit survives in this, when his heart has
-turned so cold to you, is a mystery I cannot penetrate; but it has been,
-and it is, a happiness to me, that I remained true to him; that if he
-should wake from his delusion, even at the point of [[Death|death]], I am here,
-[[Love|love]], to recall you to his thoughts.’
-
-Martin looked with admiration on her glowing face, and pressed his lips
-to hers.
-
-‘I have sometimes heard, and read,’ she said, ‘that those whose powers
-had been enfeebled long ago, and whose lives had faded, as it were, into
-[[A Dream|a dream]], have been known to rouse themselves before [[Death|death]], and inquire
-for familiar faces once very dear to them; but forgotten, unrecognized,
-hated even, in the meantime. Think, if with his old impressions of this
-man, he should suddenly resume his former [[Self|self]], and find in him his only
-friend!’
-
-‘I would not urge you to abandon him, dearest,’ said Martin, ‘though I
-could count the years we are to wear out asunder. But the influence this
-fellow exercises over him has steadily increased, I [[Fear|fear]].’
-
-She could not help admitting that. Steadily, imperceptibly, and surely,
-until it was paramount and supreme. She herself had none; and yet
-he treated her with more affection than at any previous [[Time|time]]. Martin
-thought the inconsistency a part of his weakness and [[Decay|decay]].

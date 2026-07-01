@@ -1,5 +1,5 @@
 ---
-title: "[[Troilus]] and [[Cressida]] — Act I, Scene 3 — exchange ([[Agamemnon|AGAMEMNON]]) [11]"
+title: "Troilus and Cressida — Act I, Scene 3 — exchange (AGAMEMNON) [11]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/troilus-and-cressida-(shakespeare)"

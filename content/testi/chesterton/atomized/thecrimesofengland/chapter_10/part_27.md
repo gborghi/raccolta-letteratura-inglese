@@ -1,5 +1,5 @@
 ---
-title: "[[TheCrimesOfEngland]] — Chapter 10 (part 27)"
+title: "TheCrimesOfEngland — Chapter 10 (part 27)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thecrimesofengland-(chesterton)"
@@ -13,6 +13,156 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thecrimesofengland/chapter_10/part_26">‹ part 26</a><a class="ex-next" href="/testi/chesterton/atomized/thecrimesofengland/chapter_10/part_28">part 28 ›</a></div>
 </nav>
 
+
+and consecrated the Crescent. And when he had consecrated it a few [[Hill|hill]]
+
+tribes had risen and trampled it like mire. One or two other things
+
+about the same [[Time|time]], less important in themselves, struck in the
+
+Prussian's ear the same new note of warning and [[Doubt|doubt]]. He sought to
+
+obtain a small advantage on the north-west coast of Africa; and England
+
+seemed to show a certain strange stiffness in insisting on its
+
+abandonment. In the councils over Morocco, England agreed with France
+
+with what did not seem altogether an accidental agreement. But we shall
+
+not be wrong if we put the crucial point of the German surprise and
+
+anger at the attack from the Balkans and the fall of Adrianople. Not
+
+only did it menace the key of Asia and the whole Eastern dream of German
+
+commerce; not only did it offer the picture of one army trained by
+
+France and victorious, and another army trained by [[Germany]] and beaten.
+
+There was more than the material victory of the Creusot over the Krupp
+
+gun. It was also the victory of the peasant's field over the Krupp
+
+factory. By this [[Time|time]] there was in the North German brain an awful
+
+inversion of all the legends and heroic lives that the human race has
+
+loved. Prussia _hated_ [[Romance|romance]]. Chivalry was not a thing she neglected;
+
+it was a thing that tormented her as any bully is tormented by an
+
+unanswered challenge. That weird process was completed of which I have
+
+spoken on an earlier page, whereby the [[Soul|soul]] of this strange people was
+
+everywhere on the side of the dragon against the knight, of the giant
+
+against the [[Hero|hero]]. Anything unexpected--the forlorn hopes, the
+
+eleventh-hour inspirations, by which the weak can elude the strong, and
+
+which take the hearts of happier men like trumpets--filled the Prussian
+
+with a cold fury, as of a frustrated fate. The Prussian felt as a
+
+Chicago pork butcher would feel if the pigs not only refused to pass
+
+through his [[Machine|machine]], but turned into romantic wild boars, raging and
+
+rending, calling for the old hunting of princes and fit to be the crests
+
+of kings.
+
+The Prussian saw these things and his mind was made up. He was silent;
+
+but he laboured: laboured for three long years without intermission at
+
+the making of a military [[Machine|machine]] that should cut out of the world for
+
+ever such romantic accident or random adventure; a [[Machine|machine]] that should
+
+cure the human pigs for ever of any illusion that they had wings. That
+
+he did so plot and prepare for an attack that should come from him,
+
+anticipating and overwhelming any resistance, is now, even in the
+
+documents he has himself published, a fact of common sense. Suppose a
+
+man sells all his lands except a small yard containing a [[Well|well]]; suppose
+
+in the division of the effects of an old friend he particularly asks for
+
+his razors; suppose when a corded trunk is sent him he sends back the
+
+trunk, but keeps the cord. And then suppose we hear that a rival of his
+
+has been lassoed with a rope, his throat then cut, apparently with a
+
+razor, and his [[Body|body]] hidden in a [[Well|well]], we do not call in Sherlock Holmes
+
+to project a preliminary suspicion about the guilty party. In the
+
+discussions held by the Prussian [[government|Government]] with Lord Haldane and Sir
+
+Edward Grey we can now see quite as plainly the meaning of the things
+
+that were granted and the things that were withheld, the things that
+
+would have satisfied the Prussian plotter and the things that did not
+
+satisfy him. The German Chancellor refused an English promise not to be
+
+aggressive and asked instead for an English promise to be neutral. There
+
+is no meaning in the distinction, except in the mind of an aggressor.
+
+[[Germany]] proposed a pacific arrangement which forbade England to form a
+
+fighting alliance with France, but permitted [[Germany]] to retain her old
+
+fighting alliance with Austria. When the hour of war came she used
+
+Austria, used the old fighting alliance and tried to use the new idea of
+
+English neutrality. That is to say, she used the rope, the razor, and
+
+the [[Well|well]].
+
+But it was either by accident or by individual diplomatic skill that
+
+England at the end of the three years even had her own hands free to
+
+help in frustrating the German plot. The mass of the English people had
+
+no notion of such a plot; and indeed regarded the occasional suggestion
+
+of it as absurd. Nor did even the people who knew best know very much
+
+better. Thanks and even apologies are doubtless due to those who in the
+
+deepest lull of our sleeping partnership with Prussia saw her not as a
+
+partner but a potential enemy; such men as Mr. Blatchford, Mr. Bart
+
+Kennedy, or the late Emil Reich. But there is a distinction to be made.
+
+Few even of these, with the admirable and indeed almost magical
+
+exception of Dr. Sarolea, saw [[Germany]] as she was; occupied mainly with
+
+Europe and only incidentally with England; indeed, in the first stages,
+
+not occupied with England at all. Even the Anti-Germans were too
+
+insular. Even those who saw most of [[Germany]]'s plan saw too much of
+
+England's part in it. They saw it almost wholly as a commercial and
+
+colonial quarrel; and saw its issue under the image of an invasion of
+
+England, which is even now not very probable. This [[Fear|fear]] of [[Germany]] was
 
 indeed a very German [[Fear|fear]] of [[Germany]]. This also conceived the English as
 
@@ -31,163 +181,3 @@ also had sadly strayed. Then we should remember what we were and see
 whence we also had come; and far and high upon that mountain from which
 
 the Crescent was cast down, behold what was everywhere the real enemy of
-
-the Iron [[Cross]]--the peasant's [[Cross|cross]], which is of wood.
-
-
-
-Even our very slight ripples of panic, therefore, were provincial, and
-
-even shallow; and for the most part we were possessed and convinced of
-
-peace. That peace was not a noble one. We had indeed reached one of the
-
-lowest and flattest levels of all our undulating [[history]]; and it must be
-
-admitted that the contemptuous calculation with which [[Germany]] counted on
-
-our submission and abstention was not altogether unfounded, though it
-
-was, thank God, unfulfilled. The full fruition of our alliances against
-
-[[Freedom|freedom]] had come. The meek acceptance of Kultur in our books and schools
-
-had stiffened what was once a free country with a German formalism and a
-
-German [[Fear|fear]]. By a queer irony, even the same popular writer who had
-
-already warned us against the Prussians, had sought to preach among the
-
-populace a very Prussian fatalism, pivoted upon the importance of the
-
-charlatan Haeckel. The wrestle of the two great parties had long
-
-slackened into an embrace. The fact was faintly denied, and a pretence
-
-was still made that no pact: existed beyond a common patriotism. But the
-
-pretence failed altogether; for it was evident that the leaders on
-
-either side, so far from leading in divergent directions, were much
-
-closer to each other than to their own followers. The power of these
-
-leaders had enormously increased; but the distance between them had
-
-diminished, or, rather, disappeared. It was said about 1800, in derision
-
-of the Foxite rump, that the Whig Party came down to Parliament in a
-
-four-wheeler. It might literally be said in 1900 that the Whig Party and
-
-the Tory Party came to Parliament in a hansom cab. It was not a case of
-
-two towers rising into different roofs or spires, but founded in the
-
-same soil. It was rather the case of an arch, of which the
-
-foundation-stones on either side might fancy they were two buildings;
-
-but the stones nearest the keystone would know there was only one. This
-
-"two-handed engine" still stood ready to strike, not, indeed, the other
-
-part of itself, but anyone who ventured to deny that it was doing so. We
-
-were ruled, as it were, by a Wonderland [[King|king]] and [[Queen|queen]], who cut off our
-
-heads, not for saying they quarrelled but for saying they didn't. The
-
-libel law was now used, not to crush lies about private life, but to
-
-crush truths about public life. Representation had become mere
-
-misrepresentation; a maze of loopholes. This was mainly due to the
-
-monstrous presence of certain secret moneys, on which [[Alone|alone]] many men
-
-could win the ruinous elections of the age, and which were contributed
-
-and distributed with less check or record than is tolerated in the
-
-lowest trade or club. Only one or two people attacked these funds;
-
-nobody defended them. Through them the great capitalists had the handle
-
-of politics, as of everything else. The poor were struggling hopelessly
-
-against rising prices; and their attempts at collective bargaining, by
-
-the collective refusal of badly-paid work, were discussed in the press,
-
-Liberal and Tory, as attacks upon the State. And so they were; upon the
-
-Servile State.
-
-
-
-Such was the condition of England in 1914, when Prussia, now at last
-
-armed to the teeth and secure of triumph, stood up before the world, and
-
-solemnly, like one taking a sacrament, consecrated her campaign with a
-
-crime. She entered by a forbidden door, one which she had herself
-
-forbidden--marching upon France through neutralised Belgium, where every
-
-step was on her broken word. Her neutralised neighbours resisted, as
-
-indeed they, like ourselves, were pledged to do. Instantly the whole
-
-invasion was lit up with a flame of moral lunacy, that turned the
-
-watching nations white who had never known the Prussian. The statistics
-
-of non-combatants killed and tortured by this [[Time|time]] only stun the
-
-[[Imagination|imagination]]. But two friends of my own have been in villages sacked by
-
-the Prussian march. One saw a tabernacle containing the Sacrament
-
-patiently picked out in pattern by shot after shot. The other saw a
-
-rocking-[[Horse|horse]] and the wooden toys in a nursery laboriously hacked to
-
-pieces. Those two facts together will be enough to satisfy some of us of
-
-the name of the Spirit that had passed.
-
-
-
-And then a strange thing happened. England, that had not in the modern
-
-sense any army at all, was justified of all her children. Respected
-
-institutions and reputations did indeed waver and collapse on many
-
-sides: though the chief of the states replied worthily to a bribe from
-
-the foreign bully, many other politicians were sufficiently wild and
-
-weak, though doubtless patriotic in intention. One was set to restrain
-
-the journalists, and had to be restrained himself, for being more
-
-sensational than any of them. Another scolded the working-classes in the
-
-style of an intoxicated temperance lecturer. But England was saved by a
-
-forgotten thing--the English. Simple men with simple motives, the chief
-
-one a hate of injustice which grows simpler the longer we stare at it,
-
-came out of their dreary tenements and their tidy shops, their fields
-
-and their suburbs and their factories and their rookeries, and asked for
-
-the arms of men. In a throng that was at last three million men, the
-
-islanders went forth from their island, as simply as the mountaineers
-
-had gone forth from their mountain, with their faces to the [[Dawn|dawn]].

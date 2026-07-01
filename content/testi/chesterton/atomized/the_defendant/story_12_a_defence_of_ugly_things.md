@@ -16,7 +16,6 @@ tags:
 
 A DEFENCE OF UGLY THINGS
 
-
 There are some people who state that the exterior, sex, or physique of
 another person is indifferent to them, that they care only for the
 communion of mind with mind; but these people need not detain us. There
@@ -132,7 +131,5 @@ her definite departures, her fearlessness and savage [[Pride|pride]] in her
 children. The moment we have snapped the spell of conventional [[Beauty|beauty]],
 there are a million beautiful faces waiting for us everywhere, just as
 there are a million beautiful spirits.
-
-
 
        *       *       *       *       *

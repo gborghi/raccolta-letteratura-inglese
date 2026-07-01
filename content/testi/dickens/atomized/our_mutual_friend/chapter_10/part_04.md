@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 5 (part 4)"
+title: "Our Mutual Friend — Chapter 6 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,136 +14,120 @@ tags:
 </nav>
 
 
-‘Could you begin to [[Night|night]], Wegg?’ he then demanded.
+‘You don’t know father, Miss, when you talk like that. Indeed, indeed,
+you don’t know father.’
 
-‘Yes, sir,’ said Mr Wegg, careful to leave all the eagerness to him.
-‘I see no difficulty if you wish it. You are provided with the needful
-implement—a book, sir?’
+‘Lizzie, Lizzie,’ said Miss Potterson. ‘Leave him. You needn’t break
+with him altogether, but leave him. Do [[Well|well]] away from him; not because
+of what I have told you to-[[Night|night]]—we’ll pass no judgment upon that,
+and we’ll [[Hope|hope]] it may not be—but because of what I have urged on you
+before. No matter whether it’s owing to your good looks or not, I like
+you and I want to serve you. Lizzie, come under my direction. Don’t
+fling yourself away, my girl, but be persuaded into being respectable
+and happy.’
 
-‘Bought him at a sale,’ said Mr Boffin. ‘Eight wollumes. Red and gold.
-Purple ribbon in every wollume, to keep the place where you leave off.
-Do you know him?’
+In the sound good feeling and good sense of her entreaty, Miss Abbey
+had softened into a soothing tone, and had even drawn her arm round the
+girl’s waist. But, she only replied, ‘Thank you, thank you! I can’t. I
+won’t. I must not think of it. The harder father is borne upon, the more
+he needs me to lean on.’
 
-‘The book’s name, sir?’ inquired Silas.
+And then Miss Abbey, who, like all hard people when they do soften,
+felt that there was considerable compensation owing to her, underwent
+reaction and became frigid.
 
-‘I thought you might have know’d him without it,’ said Mr
-Boffin slightly disappointed. ‘His name is
-Decline-And-Fall-Off-The-Rooshan-Empire.’ (Mr Boffin went over these
-stones slowly and with much caution.)
+‘I have done what I can,’ she said, ‘and you must go your way. You make
+your bed, and you must lie on it. But tell your father one thing: he
+must not come here any more.’
 
-‘Ay indeed!’ said Mr Wegg, nodding his head with an air of friendly
-recognition.
+‘Oh, Miss, will you forbid him the [[house]] where I know he’s safe?’
 
-‘You know him, Wegg?’
+‘The Fellowships,’ returned Miss Abbey, ‘has itself to look to, as [[Well|well]]
+as others. It has been hard work to establish order here, and make the
+Fellowships what it is, and it is daily and nightly hard work to keep it
+so. The Fellowships must not have a taint upon it that may give it a bad
+name. I forbid the [[house]] to Riderhood, and I forbid the [[house]] to Gaffer.
+I forbid both, equally. I find from Riderhood and you together, that
+there are suspicions against both men, and I’m not going to take upon
+myself to decide betwixt them. They are both tarred with a dirty brush,
+and I can’t have the Fellowships tarred with the same brush. That’s all
+I know.’
 
-‘I haven’t been not to say right slap through him, very lately,’ Mr Wegg
-made answer, ‘having been otherways employed, Mr Boffin. But know him?
-Old familiar declining and falling off the Rooshan? Rather, sir! Ever
-since I was not so high as your stick. Ever since my eldest brother left
-our cottage to enlist into the army. On which occasion, as the ballad
-that was made about it describes:
+‘Good-[[Night|night]], Miss!’ said [[Lizzie Hexam]], sorrowfully.
 
-     ‘Beside that cottage door, Mr Boffin,
-             A girl was on her knees;
-     She held aloft a snowy scarf, Sir,
-             Which (my eldest brother noticed) fluttered in the breeze.
-     She breathed a [[prayer]] for him, Mr Boffin;
-             A [[prayer]] he coold not hear.
-     And my eldest brother lean’d upon his [[Sword|sword]], Mr Boffin,
-              And wiped away a tear.’
+‘Hah!—Good-[[Night|night]]!’ returned Miss Abbey with a shake of her head.
 
-Much impressed by this family circumstance, and also by the friendly
-disposition of Mr Wegg, as exemplified in his so soon dropping into
-poetry, Mr Boffin again shook hands with that ligneous sharper, and
-besought him to name his hour. Mr Wegg named eight.
+‘Believe me, Miss Abbey, I am truly grateful all the same.’
 
-‘Where I live,’ said Mr Boffin, ‘is called The Bower. Boffin’s Bower is
-the name Mrs Boffin christened it when we come into it as a property.
-If you should meet with anybody that don’t know it by that name (which
-hardly anybody does), when you’ve got nigh upon about a odd mile, or
-say and a quarter if you like, up Maiden Lane, Battle Bridge, ask for
-Harmony Jail, and you’ll be put right. I shall expect you, Wegg,’ said
-Mr Boffin, clapping him on the shoulder with the greatest enthusiasm,
-‘most joyfully. I shall have no peace or patience till you come. Print
-is now opening ahead of me. This [[Night|night]], a literary man—WITH a wooden
-leg—’ he bestowed an admiring look upon that decoration, as if it
-greatly enhanced the relish of Mr Wegg’s attainments—‘will begin to
-lead me a new life! My fist again, Wegg. Morning, morning, morning!’
+‘I can believe a good deal,’ returned the stately Abbey, ‘so I’ll try to
+believe that too, Lizzie.’
 
-Left [[Alone|alone]] at his stall as the other ambled off, Mr Wegg subsided
-into his screen, produced a small pocket-handkerchief of a
-penitentially-scrubbing character, and took himself by the nose with
-a thoughtful aspect. Also, while he still grasped that feature, he
-directed several thoughtful looks down the street, after the retiring
-figure of Mr Boffin. But, profound gravity sat enthroned on Wegg’s
-countenance. For, while he considered within himself that this was
-an old fellow of rare simplicity, that this was an opportunity to
-be improved, and that here might be money to be got beyond present
-calculation, still he compromised himself by no admission that his new
-engagement was at all out of his way, or involved the least element of
-the ridiculous. Mr Wegg would even have picked a handsome quarrel with
-any one who should have challenged his deep acquaintance with those
-aforesaid eight volumes of Decline and Fall. His gravity was unusual,
-portentous, and immeasurable, not because he admitted any [[Doubt|doubt]] of
-himself but because he perceived it necessary to forestall any [[Doubt|doubt]] of
-himself in others. And herein he ranged with that very numerous class
-of impostors, who are quite as determined to keep up appearances to
-themselves, as to their neighbours.
+No supper did Miss Potterson take that [[Night|night]], and only half her usual
+tumbler of hot Port Negus. And the female domestics—two robust sisters,
+with staring black eyes, shining flat red faces, blunt noses, and strong
+black curls, like dolls—interchanged the sentiment that Missis had had
+her hair combed the wrong way by somebody. And the pot-boy afterwards
+remarked, that he hadn’t been ‘so rattled to bed’, since his late mother
+had systematically accelerated his retirement to rest with a poker.
 
-A certain loftiness, likewise, took possession of Mr Wegg; a
-condescending sense of being in request as an official expounder of
-mysteries. It did not move him to commercial [[Greatness|greatness]], but rather to
-littleness, insomuch that if it had been within the possibilities of
-things for the wooden measure to hold fewer nuts than usual, it would
-have done so that day. But, when [[Night|night]] came, and with her veiled eyes
-beheld him stumping towards Boffin’s Bower, he was elated too.
+The chaining of the door behind her, as she went forth, disenchanted
+[[Lizzie Hexam]] of that first relief she had felt. The [[Night|night]] was black and
+shrill, the [[River|river]]-side wilderness was [[Melancholy|melancholy]], and there was a sound
+of casting-out, in the rattling of the iron-links, and the grating of
+the bolts and staples under Miss Abbey’s hand. As she came beneath
+the lowering sky, a sense of being involved in a murky shade of Murder
+dropped upon her; and, as the tidal swell of the [[River|river]] broke at her feet
+without her seeing how it gathered, so, her thoughts startled her by
+rushing out of an unseen void and striking at her heart.
 
-The Bower was as difficult to find, as Fair Rosamond’s without the clue.
-Mr Wegg, having reached the quarter indicated, inquired for the Bower
-half a dozen times without the least [[success]], until he remembered to
-ask for Harmony Jail. This occasioned a quick change in the spirits of a
-hoarse gentleman and a [[donkey]], whom he had much perplexed.
+Of her father’s being groundlessly suspected, she felt sure. Sure. Sure.
+And yet, repeat the word inwardly as often as she would, the attempt to
+reason out and prove that she was sure, always came after it and failed.
+Riderhood had done the deed, and entrapped her father. Riderhood had
+not done the deed, but had resolved in his malice to turn against her
+father, the appearances that were ready to his hand to distort. Equally
+and swiftly upon either putting of the case, followed the frightful
+possibility that her father, being [[Innocent|innocent]], yet might come to be
+believed guilty. She had heard of people [[Suffering|suffering]] [[Death]] for bloodshed
+of which they were afterwards proved pure, and those ill-fated persons
+were not, first, in that dangerous wrong in which her father stood. Then
+at the best, the beginning of his being set apart, whispered against,
+and avoided, was a certain fact. It dated from that very [[Night|night]]. And as
+the great black [[River|river]] with its dreary shores was soon lost to her view
+in the gloom, so, she stood on the [[River|river]]’s brink unable to see into the
+vast blank misery of a life suspected, and fallen away from by good and
+bad, but knowing that it lay there dim before her, stretching away to
+the great ocean, [[Death]].
 
-‘Why, yer mean Old Harmon’s, do yer?’ said the hoarse gentleman, who was
-driving his [[donkey]] in a truck, with a carrot for a whip. ‘Why didn’t yer
-niver say so? Eddard and me is a goin’ by HIM! Jump in.’
+One thing only, was clear to the girl’s mind. Accustomed from her very
+babyhood promptly to do the thing that could be done—whether to keep
+out weather, to ward off cold, to postpone hunger, or what not—she
+started out of her meditation, and ran [[Home|home]].
 
-Mr Wegg complied, and the hoarse gentleman invited his attention to the
-third person in company, thus;
+The room was quiet, and the lamp burnt on the table. In the bunk in the
+corner, her brother lay asleep. She bent over him softly, kissed him,
+and came to the table.
 
-‘Now, you look at Eddard’s ears. What was it as you named, agin?
-Whisper.’
+‘By the [[Time|time]] of Miss Abbey’s closing, and by the run of the tide, it
+must be one. Tide’s running up. Father at Chiswick, wouldn’t think of
+coming down, till after the turn, and that’s at half after four. I’ll
+call Charley at six. I shall hear the church-clocks strike, as I sit
+here.’
 
-Mr Wegg whispered, ‘Boffin’s Bower.’
+Very quietly, she placed a chair before the scanty [[Fire|fire]], and sat down in
+it, drawing her shawl about her.
 
-‘Eddard! (keep yer hi on his ears) cut away to Boffin’s Bower!’
+‘Charley’s hollow down by the flare is not there now. Poor Charley!’
 
-Edward, with his ears lying back, remained immoveable.
-
-‘Eddard! (keep yer hi on his ears) cut away to Old Harmon’s.’ Edward
-instantly pricked up his ears to their utmost, and rattled off at such
-a pace that Mr Wegg’s conversation was jolted out of him in a most
-dislocated state.
-
-‘Was-it-Ev-verajail?’ asked Mr Wegg, holding on.
-
-‘Not a proper jail, wot you and me would get committed to,’ returned
-his escort; ‘they giv’ it the name, on accounts of Old Harmon living
-solitary there.’
-
-‘And-why-did-they-callitharm-Ony?’ asked Wegg.
-
-‘On accounts of his never agreeing with nobody. Like a speeches of
-chaff. Harmon’s Jail; Harmony Jail. Working it round like.’
-
-‘Doyouknow-Mist-Erboff-in?’ asked Wegg.
-
-‘I should think so! Everybody do about here. Eddard knows him. (Keep yer
-hi on his ears.) Noddy Boffin, Eddard!’
-
-The effect of the name was so very alarming, in respect of causing a
-temporary disappearance of Edward’s head, casting his hind hoofs in the
-air, greatly accelerating the pace and increasing the jolting, that Mr
-Wegg was fain to devote his attention exclusively to holding on, and to
-relinquish his [[Desire|desire]] of ascertaining whether this homage to Boffin was
-to be considered complimentary or the reverse.
+The [[Clock|clock]] struck two, and the [[Clock|clock]] struck three, and the [[Clock|clock]] struck
+four, and she remained there, with a woman’s patience and her own
+purpose. When the morning was [[Well|well]] on between four and five, she slipped
+off her shoes (that her going about might not wake Charley), trimmed
+the [[Fire|fire]] sparingly, put [[Water|water]] on to boil, and set the table for
+breakfast. Then she went up the ladder, lamp in hand, and came down
+again, and glided about and about, making a little bundle. Lastly, from
+her pocket, and from the chimney-piece, and from an inverted basin
+on the highest shelf she brought halfpence, a few sixpences, fewer
+shillings, and fell to laboriously and noiselessly counting them, and
+setting aside one little heap. She was still so engaged, when she was
+startled by:

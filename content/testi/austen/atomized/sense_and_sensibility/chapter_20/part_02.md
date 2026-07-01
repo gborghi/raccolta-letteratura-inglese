@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 20 (part 2)"
+title: "Sense and Sensibility — Chapter 20 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_20/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_21/part_01">part 01 ›</a></div>
 </nav>
 
+
+“But indeed you must and shall come. I am sure you will like it of all
+
+things. The Westons will be with us, and it will be quite delightful.
 
 You cannot think what a sweet place Cleveland is; and we are so gay
 

@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 7 (part 2)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 7 (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_06/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_06/part_03">part 03 ›</a></div>
 </nav>
 
+
+vessel which lies to is under full sail, the manoeuvre is usually
+
+accomplished by throwing round some portion of her sails so as to let
 
 the [[Wind|wind]] take them aback, when she becomes stationary. But we are now
 
@@ -191,15 +195,3 @@ and lain under [[Water|water]] for many weeks. The hands were in the same
 condition, while the face was shrunken, shrivelled, and of a chalky
 
 whiteness, except where relieved by two or three glaring red splotches,
-
-like those occasioned by the erysipelas: one of these splotches
-
-extended diagonally across the face, completely covering up an eye as
-
-if with a band of red velvet. In this disgusting condition the [[Body|body]] had
-
-been brought up from the cabin at [[Noon|noon]] to be thrown overboard, when the
-
-mate getting a glimpse of it (for he now saw it for the first [[Time|time]]),
-
-and being either touched with remorse for his crime or struck with

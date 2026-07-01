@@ -34,49 +34,49 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Story 01 The Common Man](/testi/chesterton/atomized/common_man/story_01_the_common_man)
-- [Story 02 The Common Man](/testi/chesterton/atomized/common_man/story_02_the_common_man)
-- [Story 03 A Midsummer Night S Dream](/testi/chesterton/atomized/common_man/story_03_a_midsummer_night_s_dream)
-- [Story 04 On Reading](/testi/chesterton/atomized/common_man/story_04_on_reading)
-- [Story 05 Monsters And The Middle Ages](/testi/chesterton/atomized/common_man/story_05_monsters_and_the_middle_ages)
-- [Story 06 What Novelists Are For](/testi/chesterton/atomized/common_man/story_06_what_novelists_are_for)
-- [Story 07 The Song Of Roland](/testi/chesterton/atomized/common_man/story_07_the_song_of_roland)
-- [Story 08 The Superstition Of School](/testi/chesterton/atomized/common_man/story_08_the_superstition_of_school)
-- [Story 09 The Romance Of A Rascal](/testi/chesterton/atomized/common_man/story_09_the_romance_of_a_rascal)
-- [Story 10 Paying For Patriotism](/testi/chesterton/atomized/common_man/story_10_paying_for_patriotism)
-- [Story 11 The Pantomime](/testi/chesterton/atomized/common_man/story_11_the_pantomime)
-- [Story 12 Reading The Riddle](/testi/chesterton/atomized/common_man/story_12_reading_the_riddle)
-- [Story 13 A Tale Of Two Cities](/testi/chesterton/atomized/common_man/story_13_a_tale_of_two_cities)
-- [Story 14 God And Goods](/testi/chesterton/atomized/common_man/story_14_god_and_goods)
-- [Story 15 From Meredith To Rupert Brooke](/testi/chesterton/atomized/common_man/story_15_from_meredith_to_rupert_brooke)
-- [Story 16 The Dangers Of Necromancy](/testi/chesterton/atomized/common_man/story_16_the_dangers_of_necromancy)
-- [Story 17 Giotto And St Francis](/testi/chesterton/atomized/common_man/story_17_giotto_and_st_francis)
-- [Story 18 The New Groove](/testi/chesterton/atomized/common_man/story_18_the_new_groove)
-- [Story 19 The Real Dr Johnson](/testi/chesterton/atomized/common_man/story_19_the_real_dr_johnson)
-- [Story 20 Rabelaisian Regrets](/testi/chesterton/atomized/common_man/story_20_rabelaisian_regrets)
-- [Story 21 The Hound Of Heaven](/testi/chesterton/atomized/common_man/story_21_the_hound_of_heaven)
-- [Story 22 The Frivolous Man](/testi/chesterton/atomized/common_man/story_22_the_frivolous_man)
-- [Story 23 Two Stubborn Pieces Of Iron](/testi/chesterton/atomized/common_man/story_23_two_stubborn_pieces_of_iron)
-- [Story 24 Henry James](/testi/chesterton/atomized/common_man/story_24_henry_james)
-- [Story 25 The Strange Talk Of Two Victorians](/testi/chesterton/atomized/common_man/story_25_the_strange_talk_of_two_victorians)
-- [Story 26 Laughter](/testi/chesterton/atomized/common_man/story_26_laughter)
-- [Story 27 Tales From Tolstoi](/testi/chesterton/atomized/common_man/story_27_tales_from_tolstoi)
-- [Story 28 The New Case For Catholic Schools](/testi/chesterton/atomized/common_man/story_28_the_new_case_for_catholic_schools)
-- [Story 29 Vulgarity](/testi/chesterton/atomized/common_man/story_29_vulgarity)
-- [Story 30 The Revival Of Philosophy Why](/testi/chesterton/atomized/common_man/story_30_the_revival_of_philosophy_why)
-- [Story 31 Vandalism](/testi/chesterton/atomized/common_man/story_31_vandalism)
-- [Story 32 Elizabeth Barrett Browning](/testi/chesterton/atomized/common_man/story_32_elizabeth_barrett_browning)
-- [Story 33 The Erastian On The Establishment](/testi/chesterton/atomized/common_man/story_33_the_erastian_on_the_establishment)
-- [Story 34 The Meaning Of Metre](/testi/chesterton/atomized/common_man/story_34_the_meaning_of_metre)
-- [Story 35 Concerning A Strange City](/testi/chesterton/atomized/common_man/story_35_concerning_a_strange_city)
-- [Story 36 The Epitaph Of Pierpont Morgan](/testi/chesterton/atomized/common_man/story_36_the_epitaph_of_pierpont_morgan)
-- [Story 37 The New Bigotry](/testi/chesterton/atomized/common_man/story_37_the_new_bigotry)
-- [Story 38 Books For Boys](/testi/chesterton/atomized/common_man/story_38_books_for_boys)
-- [Story 39 The Outline Of Liberty](/testi/chesterton/atomized/common_man/story_39_the_outline_of_liberty)
-- [Story 40 A Note On Nudism](/testi/chesterton/atomized/common_man/story_40_a_note_on_nudism)
-- [Story 41 Consulting The Encyclopaedia](/testi/chesterton/atomized/common_man/story_41_consulting_the_encyclopaedia)
-- [Story 42 If I Had Only One Sermon To Preach](/testi/chesterton/atomized/common_man/story_42_if_i_had_only_one_sermon_to_preach)
-- [Story 43 If Don John Of Austria Had Married Mary](/testi/chesterton/atomized/common_man/story_43_if_don_john_of_austria_had_married_mary)
+- Story 01 The Common Man
+- Story 02 The Common Man
+- Story 03 A Midsummer Night S Dream
+- Story 04 On Reading
+- Story 05 Monsters And The Middle Ages
+- Story 06 What Novelists Are For
+- Story 07 The Song Of Roland
+- Story 08 The Superstition Of School
+- Story 09 The Romance Of A Rascal
+- Story 10 Paying For Patriotism
+- Story 11 The Pantomime
+- Story 12 Reading The Riddle
+- Story 13 A Tale Of Two Cities
+- Story 14 God And Goods
+- Story 15 From Meredith To Rupert Brooke
+- Story 16 The Dangers Of Necromancy
+- Story 17 Giotto And St Francis
+- Story 18 The New Groove
+- Story 19 The Real Dr Johnson
+- Story 20 Rabelaisian Regrets
+- Story 21 The Hound Of Heaven
+- Story 22 The Frivolous Man
+- Story 23 Two Stubborn Pieces Of Iron
+- Story 24 Henry James
+- Story 25 The Strange Talk Of Two Victorians
+- Story 26 Laughter
+- Story 27 Tales From Tolstoi
+- Story 28 The New Case For Catholic Schools
+- Story 29 Vulgarity
+- Story 30 The Revival Of Philosophy Why
+- Story 31 Vandalism
+- Story 32 Elizabeth Barrett Browning
+- Story 33 The Erastian On The Establishment
+- Story 34 The Meaning Of Metre
+- Story 35 Concerning A Strange City
+- Story 36 The Epitaph Of Pierpont Morgan
+- Story 37 The New Bigotry
+- Story 38 Books For Boys
+- Story 39 The Outline Of Liberty
+- Story 40 A Note On Nudism
+- Story 41 Consulting The Encyclopaedia
+- Story 42 If I Had Only One Sermon To Preach
+- Story 43 If Don John Of Austria Had Married Mary
 
 ## Testo integrale / Full text
 

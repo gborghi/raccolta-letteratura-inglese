@@ -1,5 +1,5 @@
 ---
-title: "[[A Descent Into the Maelstrom]] (part 4)"
+title: "A Descent Into the Maelstrom (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/a-descent-into-the-maelstrom-(poe)"
@@ -13,6 +13,34 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/a_descent_into_the_maelstrom/part/part_03">‹ part 03</a><a class="ex-next" href="/testi/poe/atomized/a_descent_into_the_maelstrom/part/part_05">part 05 ›</a></div>
 </nav>
 
+
+      “The three of us—my two brothers and myself—had crossed over to
+      the islands about two o’[[Clock|clock]] P. M., and had soon nearly loaded
+      the smack with fine fish, which, we all remarked, were more
+      plenty that day than we had ever known them. It was just seven,
+      _by my watch_, when we weighed and started for [[Home|home]], so as to
+      make the worst of the Ström at slack [[Water|water]], which we knew would
+      be at eight.
+
+      “We set out with a fresh [[Wind|wind]] on our starboard quarter, and for
+      some [[Time|time]] spanked along at a great rate, never dreaming of
+      danger, for indeed we saw not the slightest reason to apprehend
+      it. All at once we were taken aback by a breeze from over
+      Helseggen. This was most unusual—something that had never
+      happened to us before—and I began to feel a little uneasy,
+      without exactly knowing why. We put the boat on the [[Wind|wind]], but
+      could make no headway at all for the eddies, and I was upon the
+      point of proposing to return to the anchorage, when, looking
+      astern, we saw the whole horizon covered with a singular
+      copper-colored cloud that [[Rose|rose]] with the most amazing velocity.
+
+      “In the meantime the breeze that had headed us off fell away, and
+      we were dead becalmed, drifting about in every direction. This
+      state of things, however, did not last long enough to give us
+      [[Time|time]] to think about it. In less than a minute the [[Storm|storm]] was upon
+      us—in less than two the sky was entirely overcast—and what with
+      this and the driving spray, it became suddenly so dark that we
+      could not see each other in the smack.
 
       “Such a hurricane as then blew it is folly to attempt describing.
       The oldest seaman in Norway never experienced any thing like it.
@@ -86,31 +114,3 @@ tags:
       I screamed at the top of my voice in his ear. Presently he shook
       his head, looking as pale as [[Death|death]], and held up one of his
       fingers, as if to say _‘listen! ‘_
-
-      “At first I could not make out what he meant—but soon a hideous
-      thought flashed upon me. I dragged my watch from its fob. It was
-      not going. I glanced at its face by the moonlight, and then burst
-      into [[Tears|tears]] as I flung it far away into the ocean. _It had run
-      down at seven o’[[Clock|clock]]! We were behind the [[Time|time]] of the slack, and
-      the whirl of the Ström was in full fury!_
-
-      “When a boat is [[Well|well]] built, properly trimmed, and not deep laden,
-      the waves in a strong gale, when she is going large, seem always
-      to slip from beneath her—which appears very strange to a
-      landsman—and this is what is called _riding_, in sea phrase.
-
-      “[[Well]], so far we had ridden the swells very cleverly; but
-      presently a gigantic sea happened to take us right under the
-      counter, and bore us with it as it [[Rose|rose]]—up—up—as if into the sky.
-      I would not have believed that any wave could rise so high. And
-      then down we came with a sweep, a slide, and a plunge, that made
-      me feel sick and dizzy, as if I was falling from some lofty
-      mountain-top in [[A Dream|a dream]]. But while we were up I had thrown a
-      quick glance around—and that one glance was all sufficient. I saw
-      our exact position in an instant. The Moskoe-Ström whirlpool was
-      about a quarter of a mile dead ahead—but no more like the
-      every-day Moskoe-Ström than the whirl as you now see it, is like
-      a mill-race. If I had not known where we were, and what we had to
-      expect, I should not have recognised the place at all. As it was,
-      I involuntarily closed my eyes in horror. The lids clenched
-      themselves together as if in a spasm.

@@ -109,25 +109,3 @@ attire worn by all the commercial classes; the thing more commonly
 called in England a fez.  The fez is not a sort of smoking cap.
 It is a tower of scarlet often tall enough to be the head-dress
 of a priest.  And it is a hat one cannot take off to a lady.
-
-This fact is familiar enough in talk about Moslem and oriental
-life generally; but I only repeat it in order to refer it back
-to the same simplification which is the advantage and disadvantage
-of the [[philosophy]] of the [[Desert|desert]].  Chivalry is not an obvious idea.
-It is not as plain as a pike-staff or as a palm-tree. It is a delicate
-balance between the sexes which gives the rarest and most poetic
-kind of pleasure to those who can strike it.  But it is not
-[[Self|self]]-evident to a savage merely because he is also a sane man.
-It often seems to him as much a part of his own coarse common sense
-that all the fame and fun should go to the sex that is stronger
-and less tied, as that all the authority should go to the parents
-rather than the children.  Pity for weakness he can understand;
-and the Moslem is quite capable of giving royal alms to a cripple
-or an [[Orphan|orphan]].  But reverence for weakness is to him simply meaningless.
-It is a mystical idea that is to him no more than a mystery.
-But the same is true touching what may be called the lighter side of
-the more civilised sentiment.  This hard and literal view of life gives
-no place for that slight element of a magnanimous sort of play-acting,
-which has run through all our tales of true [[lovers]] in the West.
-Wherever there is chivalry there is courtesy; and wherever there
-is courtesy there is [[Comedy|comedy]].  There is no [[Comedy|comedy]] in the [[Desert|desert]].

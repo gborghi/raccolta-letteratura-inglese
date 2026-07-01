@@ -1,5 +1,5 @@
 ---
-title: "Antony and [[Cleopatra]] — Act V, Scene 2 — monologue (ALL’S [[Well|WELL]] THAT ENDS [[Well|WELL]]) [7]"
+title: "Antony and Cleopatra — Act V, Scene 2 — monologue (ALL’S WELL THAT ENDS WELL) [7]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/antony-and-cleopatra-(shakespeare)"

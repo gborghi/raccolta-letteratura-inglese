@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 52: I ASSIST AT AN EXPLOSION (part 3)"
+title: "David Copperfield — Chapter 52: I ASSIST AT AN EXPLOSION (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_52_i_assist_at_an_explosion/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_52_i_assist_at_an_explosion/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘You are not busy, Mr. Heep?’ said Traddles, whose eye the cunning red
+eye accidentally caught, as it at once scrutinized and evaded us.
+
+‘No, Mr. Traddles,’ replied Uriah, resuming his official seat, and
+squeezing his bony hands, laid palm to palm between his bony knees. ‘Not
+so much so as I could wish. But lawyers, sharks, and leeches, are not
+easily satisfied, you know! Not but what myself and Micawber have our
+hands pretty full, in general, on account of Mr. Wickfield’s being
+hardly fit for any occupation, sir. But it’s a pleasure as [[Well|well]] as a
+duty, I am sure, to work for him. You’ve not been intimate with Mr.
+Wickfield, I think, Mr. Traddles? I believe I’ve only had the [[Honour|honour]] of
+seeing you once myself?’
 
 ‘No, I have not been intimate with Mr. Wickfield,’ returned Traddles;
 ‘or I might perhaps have waited on you long ago, Mr. Heep.’
@@ -123,27 +136,3 @@ please, to Mr. Micawber.’
 
 ‘YOU hold your tongue, mother,’ he returned; ‘least said, soonest
 mended.’
-
-‘But, my Ury--’
-
-‘Will you hold your tongue, mother, and leave it to me?’
-
-Though I had long known that his servility was false, and all his
-pretences knavish and hollow, I had had no adequate conception of the
-extent of his hypocrisy, until I now saw him with his mask off. The
-suddenness with which he dropped it, when he perceived that it was
-useless to him; the malice, insolence, and hatred, he revealed; the leer
-with which he exulted, even at this moment, in the evil he had done--all
-this [[Time|time]] being desperate too, and at his wits’ end for the means
-of getting the better of us--though perfectly consistent with the
-experience I had of him, at first took even me by surprise, who had
-known him so long, and disliked him so heartily.
-
-I say nothing of the look he conferred on me, as he stood eyeing us,
-one after another; for I had always understood that he hated me, and I
-remembered the marks of my hand upon his cheek. But when his eyes passed
-on to Agnes, and I saw the rage with which he felt his power over her
-slipping away, and the exhibition, in their disappointment, of the
-odious passions that had led him to aspire to one whose virtues he could
-never appreciate or care for, I was shocked by the mere thought of her
-having lived, an hour, within sight of such a man.

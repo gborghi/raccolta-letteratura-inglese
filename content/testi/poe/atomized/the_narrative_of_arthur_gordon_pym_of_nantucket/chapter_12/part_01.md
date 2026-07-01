@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 13 (part 1)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 13 (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -203,11 +203,3 @@ everything in our power for his comfort, and trebled his allowance of
 
 
 _July 30._ An excessively hot day, with no [[Wind|wind]]. An enormous shark kept
-
-close by the hulk during the whole of the forenoon. We made several
-
-unsuccessful attempts to capture him by means of a noose. Augustus much
-
-worse, and evidently sinking as much from want of proper nourishment as
-
-from the effect of his wounds. He constantly prayed to be released from

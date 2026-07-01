@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 27 (part 3)"
+title: "Bleak House — Chapter 27 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_27/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_27/part_04">part 04 ›</a></div>
 </nav>
 
+
+Mr. Tulkinghorn, with some shadowy sign of amusement manifesting
+itself through his [[Self|self]]-possession, stands on the hearth-rug with his
+back to the [[Fire|fire]], watching the disappearance of Mr. Smallweed and
+acknowledging the trooper’s parting salute with one slight nod.
 
 It is more difficult to get rid of the old gentleman, Mr. George
 finds, than to bear a hand in carrying him downstairs, for when he is
@@ -132,18 +137,3 @@ Mat’s old mother in Scotland, and your old father somewhere else,
 corresponded with, and helped a little, and—[[Well|well]], [[Well|well]]! To be sure,
 I don’t know why I shouldn’t be wished a hundred mile away, for I
 have not much to do with all this!”
-
-Mr. George is becoming thoughtful, sitting before the [[Fire|fire]] in the
-whitewashed room, which has a sanded floor and a barrack smell and
-contains nothing superfluous and has not a visible speck of dirt or
-[[Dust|dust]] in it, from the faces of Quebec and Malta to the bright tin pots
-and pannikins upon the dresser shelves—Mr. George is becoming
-thoughtful, sitting here while Mrs. Bagnet is busy, when Mr. Bagnet
-and young Woolwich opportunely come [[Home|home]]. Mr. Bagnet is an
-ex-artilleryman, tall and upright, with shaggy eyebrows and whiskers
-like the fibres of a coco-nut, not a hair upon his head, and a torrid
-complexion. His voice, short, deep, and resonant, is not at all
-unlike the tones of the instrument to which he is devoted. Indeed
-there may be generally observed in him an unbending, unyielding,
-brass-bound air, as if he were himself the bassoon of the human
-orchestra. Young Woolwich is the type and model of a young drummer.

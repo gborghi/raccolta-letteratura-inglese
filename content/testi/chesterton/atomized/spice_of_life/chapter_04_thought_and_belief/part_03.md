@@ -21,13 +21,13 @@ of rationalism was very short.  Things always overlap, and Bentham and
 Jefferson inherited from something that had already passed its prime.
 Not for long did man remain in that state of really sane and
 sunny negation.  For instance, having covered the period with
-the great name of Voltaire, I may [[Well|well]] be expected to add the name
+the great name of Voltaire, I may well be expected to add the name
 of Rousseau.  But even in passing from one name to the other,
 we feel a fine shade of change which is not mere progression.
 The rationalist movement is tinged with the romantic movement,
-which is to lead men back as [[Well|well]] as forward.  They are asked
-to believe in the General Will, that is the [[Soul|soul]] of the people;
-a mystery.  By the [[Time|time]] the [[French Revolution]] is passed, it is
+which is to lead men back as well as forward.  They are asked
+to believe in the General Will, that is the soul of the people;
+a mystery.  By the time the French Revolution is passed, it is
 elemental that things are loose that have not been rationalized.
 Danton has said, "It is treason to the people to take away the dream".
 Napoleon has been crowned, like Charlemagne, by a Pope.
@@ -41,16 +41,15 @@ the goddess of Reason was dead.
 
 One word may be added, to link up the age with many other ages.
 It will be noted that it is not true, as many suppose, that the
-rational attack on [[Christianity]] came from the modern discoveries
+rational attack on Christianity came from the modern discoveries
 in material science.  It had already come, in a sense it had already
 come and gone, before these discoveries really began.  They were
 pursued persistently partly through a tradition that already existed.
 But men were not rationalistic because they were scientists.
 Rather they became scientists because they were rationalists.
-Here as everywhere the [[Soul|soul]] of man went first, even when it denied itself.
+Here as everywhere the soul of man went first, even when it denied itself.
 
-
-THE CAMP AND THE [[Cathedral|CATHEDRAL]]
+THE CAMP AND THE CATHEDRAL
 
 IT MUST always be something of a problem how far the private amateur
 may venture merely to guess that the professional specialist
@@ -58,7 +57,7 @@ is mistaken.  On the other hand it is quite certain that the man
 who knows most about a thing is often quite wrong about it.
 He is often quite wrong in fact, and still more wrong in spirit.
 On the other hand, the fact that the learned man has lost
-[[Humility|humility]] is no reason why the unlearned man also should lose
+humility is no reason why the unlearned man also should lose
 that humorous and healthy gift.  On the whole, I think the test
 of the question is in the size and simplicity of the mistake.
 It depends on whether the scholar is blind to something because it
@@ -69,9 +68,9 @@ But I may sometimes draw his attention to something obvious,
 for that is the sort of thing that the learned man has a way
 of falling over in the street.
 
-[[history|History]] is the only hobby in which I have dabbled even in this
-tentative fashion; and it is to [[history]] that I should specially
-apply the test.  I mean the test of whether the [[Truth|truth]] has been
+History is the only hobby in which I have dabbled even in this
+tentative fashion; and it is to history that I should specially
+apply the test.  I mean the test of whether the truth has been
 missed because it is small and hidden, or actually because it
 is big and plain.  Cobbett, for instance, was an amateur historian
 in somewhat the same sense, though less amateurish than myself.
@@ -80,13 +79,13 @@ he had an eye for large and obvious things.  His eye went across
 a great landscape like a bird, and was master of the lie of the land.
 Thus his broadest deduction was simply from the big churches
 in England, and especially from the very fact of their bigness.
-It was a fact filling the sky; a thing whose [[Shadow|shadow]] lay at evening
+It was a fact filling the sky; a thing whose shadow lay at evening
 on the whole landscape.  But it never seems to have occurred to
-anybody but Cobbett at that [[Time|time]], to ask whether a sparse remnant
+anybody but Cobbett at that time, to ask whether a sparse remnant
 of ignorant savages were likely to have raised a sort of sacred
-tower of Babel to the [[Stars|stars]], in half the hamlets of England.
+tower of Babel to the stars, in half the hamlets of England.
 
-The obscurantism of the [[Reformation]], and the rationalists
+The obscurantism of the Reformation, and the rationalists
 who were its heirs, was in this way quite unique.
 Nobody before or since ever kept a people quite so much in darkness
 as those who put out all the candles in the sixteenth century.
@@ -97,7 +96,7 @@ moral horror of the last phase of the great civilization of Rome;
 but they never attempted to pretend that it was not a great civilization,
 or that it had not been made by Rome.  Their moral horror was in
 most matters justified; in some matters considerably exaggerated.
-But in its wildest exaggerations of [[Fanaticism|fanaticism]], it never talks
+But in its wildest exaggerations of fanaticism, it never talks
 as if the heathen had not built bridges or produced poetry.
 They did not call the classical architecture the Vandal architecture,
 as if it had been built only by the barbarians who destroyed it.

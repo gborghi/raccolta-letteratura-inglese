@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 34 (part 3)"
+title: "Wuthering Heights — Chapter 34 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -124,11 +124,3 @@ rain; the bed-clothes dripped, and he was perfectly still. The lattice,
 flapping to and fro, had grazed one hand that rested on the sill; no
 [[Blood|blood]] trickled from the broken skin, and when I put my fingers to it, I
 could [[Doubt|doubt]] no more: he was dead and stark!
-
-I hasped the [[Window|window]]; I combed his black long hair from his forehead; I
-tried to close his eyes: to extinguish, if possible, that frightful,
-life-like gaze of exultation before any one else beheld it. They would
-not shut: they seemed to sneer at my attempts; and his parted lips and
-sharp white teeth sneered too! Taken with another fit of cowardice, I
-cried out for Joseph. Joseph shuffled up and made a noise, but
-resolutely refused to meddle with him.

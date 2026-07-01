@@ -18,52 +18,52 @@ PART FIVE:  THE SPICE OF LIFE
 
 THE COMIC CONSTABLE
 
-SOME LITTLE [[Time|time]] ago a small, strange incident occurred to me
-which is not without its application to the [[history]] and quality
+SOME LITTLE time ago a small, strange incident occurred to me
+which is not without its application to the history and quality
 of this country.  I was sitting quietly in rustic retirement,
 endeavouring to feel as bucolic as possible, when I was summoned
 to the telephone, not perhaps the most bucolic of institutions.
-Nor, indeed, was it the voice of any other ale [[house]] gaffer that
+Nor, indeed, was it the voice of any other ale house gaffer that
 addressed me through the instrument, but the voice of a man I know
-on one of the big [[London]] dailies.
+on one of the big London dailies.
 
 He said, "We hear you've been made Constable of Beaconsfield."
 
 I said, "Then your hearing is defective."
 
-He said after a pause.  "[[Well]], but haven't you been made
+He said after a pause.  "Well, but haven't you been made
 Constable of Beaconsfield?"  "Why, of course not," I said.
 "Have you been made Pope of Rome?  Am I a person whom any sane men
 (except perhaps the criminals) would want to have for a constable?"
 
-"[[Well]]," replied my friend doubtfully, "It's down in the
+"Well," replied my friend doubtfully, "It's down in the
 `Daily Gazette', anyhow.  `Mr. G. K. Chesterton has been nominated
 as a Parish Constable of Beaconsfield.'"
 
 "And a jolly good joke, too," I answered.  "I thought you had a more
-vivid and vulgar sense of [[Humour|humour]]."
+vivid and vulgar sense of humour."
 
 "We may take it, then, that the thing is a hoax?" said the inquisitor.
 "You may indeed," I said, "and apparently a successful one."
 I then hung up the receiver and went back and tried to feel bucolic again.
 
 When I had tried for three minutes the telephone rang again.
-A [[Well|well]]-known weekly illustrated paper had important business with me.
+A well-known weekly illustrated paper had important business with me.
 
-"We hear," said a [[Grave|grave]] voice, "that you are now Parish Constable
+"We hear," said a grave voice, "that you are now Parish Constable
 of Beaconsfield, and any experiences of yours in that capacity--"
 
 "I am not Parish Constable of Beaconsfield," I cried in a
 tearful rage, "nor am I Senior Wrangler, nor Gold Stick in Waiting,
-nor the Grand Lama, nor the Living [[skeleton|Skeleton]], nor the Derby Favourite,
-nor the [[Queen]] of [[Love]] and [[Beauty]] at an approaching tournament.
+nor the Grand Lama, nor the Living Skeleton, nor the Derby Favourite,
+nor the Queen of Love and Beauty at an approaching tournament.
 Has the human race lost all notion of a joke?"
 
 I went back somewhat impatiently to my bucolic efforts;
-and then another bell rang, this [[Time|time]] the front-door bell.
+and then another bell rang, this time the front-door bell.
 I was informed that the representative of yet a third paper
-(an illustrated daily this [[Time|time]]) had come down all the way from
-[[London]] with a camera to photograph me as a Parish Constable.
+(an illustrated daily this time) had come down all the way from
+London with a camera to photograph me as a Parish Constable.
 I do not know whether he thought to find me in some flamboyant
 uniform, with feathers and epaulettes, or whether he merely
 wished to snapshot the new and rapturous expression of my face
@@ -91,7 +91,7 @@ you know, you are nominated as a Parish Constable of Beaconsfield."
 I turned, stiff with astonishment; I saw the shocking sincerity
 in his eyes,
 
-"But this is [[Madness|madness]]," I cried, "It must be a joke."
+"But this is madness," I cried, "It must be a joke."
 
 "If it is," he said, apologetically, "it is a joke written up
 on the church door."
@@ -99,20 +99,20 @@ on the church door."
 My wits were scattered to the four winds; I collected them
 with difficulty.  I could not fancy that those who go to a modern parish
 church would permit such a thing as a practical joke in the porch.
-It was no [[Time|time]] for half measures, but rather for desperate ones.
+It was no time for half measures, but rather for desperate ones.
 It was clearly necessary to go to church.
 
 My friend and I walked to the stone entrance of that strong and
 fine building, and there, sure enough, stood in cold print the openly
 crazy statement that some five men, including Mr. G. K. Chesterton,
 had been nominated as Parish Constables, and that objections to them
-would be entertained.  Unless Englishmen have lost their historic [[Fire|fire]],
+would be entertained.  Unless Englishmen have lost their historic fire,
 those objections should be prompt and overwhelming.  On the way back
 my friend fortified and consoled me by describing the institution
 which had thus forcibly descended on me like an extinguisher.
 I have since received a letter from a kind correspondent including
 much the same technicalities, for which I am very grateful;
-but at the [[Time|time]] the explanation was a little confusing.
+but at the time the explanation was a little confusing.
 The only thing I clearly remember out of the tangle of rules is this;
 that I must not go officially beyond the bounds of my Constablewick,
 "except in hot pursuit of a fugitive."  I may be enticed
@@ -130,14 +130,14 @@ But if we consider the thing itself, and why so wild a joke ever
 came to be possible as the present writer being a constable, we may
 find ourselves facing some rather curious and interesting elements
 in the old life of England.  The institution of the Parish Constable
-dates from the [[Time|time]] when there was no official and efficient police;
+dates from the time when there was no official and efficient police;
 but when there was a great deal of incidental local sentiment
-and local [[Self|self]]-[[government]]. In short, the Parish Constable
+and local self-government. In short, the Parish Constable
 belongs to another age, when there was not really such a thing
 as a constable, but when there was such a thing as a parish.
 The very form of his appointment breathes of a somewhat breezier age;
 for (as in my own case) he is not even asked if he will stand.
-This suggests the jolly [[Time|time]] when there was no nonsense about wanting
+This suggests the jolly time when there was no nonsense about wanting
 to serve your country; no buying of peerages by breeding cattle;
 no climbing into rich idleness by means of `polite work'.
 
@@ -148,18 +148,18 @@ is to be a judge, but in nothing is the jury system more medieval
 that every good man will primarily care more for his babies
 or his bullocks than for the codes and thrones of legality;
 and that, therefore, he must be summoned to a jury.  That is perhaps
-what Christ meant when he described the Kingdom of Heaven as sending
+what [[Christ]] meant when he described the Kingdom of Heaven as sending
 into the highways and byeways, and compelling them to come in;
 perhaps He meant that if you want the simple and modest mortal you
 must call him.  However this may be with the Kingdom of Heaven,
-it is assuredly so with the Kingdom of Earth.  The other method leaves
+it is assuredly so with the Kingdom of Earth.  The other method [[Leaves|leaves]]
 us open to that offensive class which comes without being called,
 the vulgarly and basely ambitious, who are already destroying England.
 
 The other element in the case is so very long that I will here make it
 very short.  The Parish Constable, nominated by a District Council,
 is one of the very few reminders of a certain natural notion
-of self-government which modern science and modern discipline
+of [[Self|self]]-[[government]] which modern science and modern discipline
 have made very difficult to retain.  For the present I will put
 it merely in this way:  What would any six streets in Hoxton
 or Whitechapel give if they could elect (however indirectly)
@@ -167,10 +167,10 @@ the policeman who should stand at the street corner?
 
 CAPONE'S PAL
 
-I HAVE sometimes shocked the conventions of our time by defending
+I HAVE sometimes shocked the conventions of our [[Time|time]] by defending
 Private Property; and pointing out that Private Property has
 really been destroyed by Private Enterprise.  In connection with
-this paradox, that our common conscience does really disapprove
+this [[Paradox|paradox]], that our common [[Conscience|conscience]] does really disapprove
 of a thief, I came upon a very curious case the other day;
 an actual incident which I will leave to speak for itself.
 It seemed to me to combine amusement with instruction.
@@ -188,12 +188,12 @@ but a Spaniard speaking American.  Some accident of talk led me to
 admit that I followed the low trade of literature; whereupon he leapt
 into new life and proclaimed that he also had written a book.
 He showed me the book.  It seemed to me on a hasty glance,
-rather a good book, written with spirit and humour; but it was
+rather a good book, written with spirit and [[Humour|humour]]; but it was
 simply his own memoirs as a gunman and a gangster under Al Capone.
 It was a perfectly honest record of dishonesty; and described robbing
 and racketeering without any of the cant that excuses capitalism.
 Still, there was something warming to a melodramatic mind in being
-alone with a gunman.  He was dark and brooding and suddenly broke
+[[Alone|alone]] with a gunman.  He was dark and brooding and suddenly broke
 off to say, "I shan't write another book."
 
 "No," I said applauding warmly, "keeping a bar is much better
@@ -204,7 +204,7 @@ And at this he was transfigured into tremendous and vibrant vitality.
 He shouted till the tavern shook with the crimes of his publisher.
 He said that his publisher had cheated him at every turn.
 He said he had to rush round the world to see that all his publishers
-and translators were not doing him out of his well-earned money.
+and translators were not doing him out of his [[Well|well]]-earned money.
 I think it quite likely that they were.  I also have no illusions
 about publishing or other phases of modern plutocracy.
 But I thought it was faintly ironical.  I reminded him of Byron's
@@ -217,13 +217,13 @@ saying that Barrabas was a publisher.
 
 ON LOSING ONE'S HEAD
 
-WHEN I was a little boy I had an imagination, though this has long been
+WHEN I was a little boy I had an [[Imagination|imagination]], though this has long been
 washed out of me by the wordy abstractions of politics and journalism.
-For imagination, real imagination, is never a vague thing of vistas.
-Real imagination is always materialistic; for imagination consists
+For [[Imagination|imagination]], real [[Imagination|imagination]], is never a vague thing of vistas.
+Real [[Imagination|imagination]] is always materialistic; for [[Imagination|imagination]] consists
 of images, generally graven images.  There is a mad literalism
-about imagination; and when I had it I turned everything that
-any one mentioned into a concrete body and a staring shape.
+about [[Imagination|imagination]]; and when I had it I turned everything that
+any one mentioned into a concrete [[Body|body]] and a staring shape.
 Thus, I would hear grown-up people using ordinary proverbs and
 figures of speech; pale, worn-out proverbs, battered and colourless
 figures of speech.  But every one of these phrases sprang out
@@ -233,27 +233,27 @@ of nautical metaphors.  Thus, when I heard that my uncle on a sea
 voyage "had got his sea legs" I pictured the most horrible bodily
 transformations in my uncle.  Had my uncle now got four legs?
 Or had it been necessary for his two original and (to my eye)
-unobjectionable legs to be amputated by the ship's doctor?
+unobjectionable legs to be amputated by the [[Ship|ship]]'s doctor?
 Did the new legs arrive as a sort of extra luggage, or did they
 loathsomely grow upon him, like hair or fungoids, with all the awful
-unnaturalness of Nature?  I pictured my uncle's sea legs as two
+unnaturalness of [[Nature]]?  I pictured my uncle's sea legs as two
 green and glittering members, covered with scales like fishes,
 and bearing some resemblance to the two fish tails with which exuberant
-Renaissance artists sometimes provided Tritons and mermaids.
+[[Renaissance]] artists sometimes provided Tritons and mermaids.
 Again when I heard (in some seafaring connection) that "the
 Captain kept his weather eye open," I assumed with faultless
-infantile logic that he kept the other one quite shut.
-And in some dreams I rather pictured the Captain's weather eye as being
+infantile [[logic]] that he kept the other one quite shut.
+And in some [[Dreams|dreams]] I rather pictured the Captain's weather eye as being
 some separate and eccentric kind of eye, like that of a Cyclops;
-an eye of blue sky or lightning that opened suddenly in his hat
+an eye of blue sky or [[Lightning|lightning]] that opened suddenly in his hat
 or his coat-tails and blazed through black fantastic tempests;
-a strange star of the storm.
+a strange star of the [[Storm|storm]].
 
 But there were many cases, even among more terrestrial and commonplace
 metaphors, where the material metaphor photographed itself on my fancy.
 One of them was the phrase about a man "Losing his heart."
 A man, considered as a material envelope, seemed so securely done up
-that how the heart could get out of the body was a problem analogous
+that how the heart could get out of the [[Body|body]] was a problem analogous
 to that of how the apple could get into the dumpling.  Perhaps, I mused,
 the phrase about a man having his heart in his mouth might throw
 some light on the somewhat revolting phrase, which spoke of a man
@@ -264,7 +264,7 @@ the sort of thing that might happen to anybody.  Indeed, by this
 dream of symbolic decapitation I was much haunted in infancy
 and am not infrequently inspired and comforted even to this day.
 Whatever other metaphors may mean, this metaphor of the lost head has
-some primary and poetic meaning; and I have written many bad poems,
+some primary and poetic meaning; and I have written many bad [[Poems|poems]],
 bad fairy tales, and bad apologues in my industrious attempt
 to find it out and declare it.  The connection between the animal
 and intellectual meaning of it became close and even confused.
@@ -278,60 +278,60 @@ as ladies do their ridiculous handbags.
 
 Indeed, this drifting and dancing dream of decapitation, in which
 kings and saints figured with gothic fantasticality, had a kind
-of allegory in the core of it.  The separation of body and head is
-a sort of symbol of that separation of body and soul which is made
+of [[Allegory|allegory]] in the core of it.  The separation of [[Body|body]] and head is
+a sort of symbol of that separation of [[Body|body]] and [[Soul|soul]] which is made
 by all the heresies and the sophistries, which are the nightmares
-of the mind.  The mere materialist is a body that has lost its head;
-the mere spiritualist is a head that has mislaid its body.
+of the mind.  The mere materialist is a [[Body|body]] that has lost its head;
+the mere spiritualist is a head that has mislaid its [[Body|body]].
 Under the same symbol can be found the old distinction between the sinner
 and the heretic about which theology has uttered many paradoxes,
 more profitable to study than some modern people fancy.
 For there is one kind of man who takes off his head and throws
 it in the gutter, who dethrones and forgets the reason that
 should be his ruler and witness; and the horrible headless
-body strides away over cities and sanctuaries, breaking them
-down and treading them into mire and blood.  He is the criminal;
+[[Body|body]] strides away over cities and sanctuaries, breaking them
+down and treading them into mire and [[Blood|blood]].  He is the criminal;
 but there is another figure equally sinister and strange.
-This man forgets his body, with all its instinctive honesties
-and recurrent sanities and laws of God; he leaves his body working
-in the fields like a slave; and the head goes away to think alone.
+This man forgets his [[Body|body]], with all its instinctive honesties
+and recurrent sanities and laws of God; he [[Leaves|leaves]] his [[Body|body]] working
+in the fields like a slave; and the head goes away to think [[Alone|alone]].
 The head, detached and dehumanized, thinks faster and faster
-like a clock gone mad; it is never heated by any generous blood,
+like a [[Clock|clock]] gone mad; it is never heated by any generous [[Blood|blood]],
 never softened by any healthy fatigue, never checked or warned by any
 of the terrible tocsins of instinct.  The head thinks because it
-cannot do anything else; because it cannot feel or doubt or know.
+cannot do anything else; because it cannot feel or [[Doubt|doubt]] or know.
 This man is the heretic; and in this way all the heresies were made.
-The anarchist goes off his head and the sophist goes off his body;
+The anarchist goes off his head and the sophist goes off his [[Body|body]];
 I will not renew the old dispute about which is the worse amputation;
 but I should recommend the prudent reader to avoid both.
 
 THE SPICE OF LIFE**
 
 FORGIVE ME if I begin by enacting the part which I have played at
-so many dinner-parties, I mean the part of the skeleton at the feast.
+so many dinner-parties, I mean the part of the [[skeleton]] at the feast.
 Pardon me if the first few words that reach you resemble a hollow
-voice from the tomb.  For the truth is that the very title of this
+voice from the tomb.  For the [[Truth|truth]] is that the very title of this
 series makes me feel a little funereal.  When I was asked to speak
 on the Spice of Life, I am sorry to say that the first thought
 that crossed my perverse and morbid mind was that spices, as spices,
-are quite as much associated with death as with life.  Corpses embalmed
+are quite as much associated with [[Death|death]] as with life.  Corpses embalmed
 and preserved were always swathed amid spices; mummies also, I suppose.
 I am no Egyptologist to decide the point.  But even if they were,
 you would hardly go sniffing round a mummy in the British Museum,
 drawing deep breaths and saying, "This is indeed the spice of life."
-Egypt was almost a civilization organized as a funeral procession;
+[[Egypt]] was almost a civilization organized as a funeral procession;
 it is hardly an exaggeration to say that the living lived to serve
 the dead.  And yet I suppose that an actual Egyptian walking
 about alive, was in no hurry to be spiced.  Or take a homelier
-scene nearer home.  Suppose you are chased by a mad bull;
-we will not debate which animal enjoys more of the spice of life;
+scene nearer [[Home|home]].  Suppose you are chased by a mad bull;
+we will not [[debate]] which animal enjoys more of the spice of life;
 but both at the moment will give unmistakable signs of life.
 But the quadruped must wait until he is killed and cut up into cold beef,
-before he can have the pride and privilege of being spiced beef.
+before he can have the [[Pride|pride]] and privilege of being spiced beef.
 In short, I want you to remember first of all that there has been
-in history, not only the spice of life, but something else that
-may fairly be called the spice of death.  And I mention it first
-because it is a sort of parable; and there are a good many things
+in [[history]], not only the spice of life, but something else that
+may fairly be called the spice of [[Death|death]].  And I mention it first
+because it is a sort of [[Parable|parable]]; and there are a good many things
 in the modern world that seem to me to be dead, not to say damned,
 and yet are considered very spicy.
 
@@ -352,7 +352,7 @@ But while I resist the suggestion that we must eat beef without
 mustard, I do recognize that there is now a much deeper and more
 subtle danger that men may want to eat mustard without beef.
 I mean that they may lose their appetite; their appetite for beef
-and bread and cheese and the broad daylight of life; and depend
+and bread and [[cheese]] and the broad daylight of life; and depend
 entirely on spices and condiments.  I have even been blamed for
 defending the spices of life against what was called the Simple Life.
 I have been blamed for making myself a champion of beer and skittles.
@@ -360,13 +360,13 @@ Fortunately, if I was a champion of skittles, there was never any
 danger of my being a champion at skittles.  But I have played ordinary
 games like skittles, always badly; but all healthy people will agree
 that you never enjoy a game till you enjoy being beaten at the game.
-I have even played golf in Scotland before Arthur Balfour brought
+I have even played golf in Scotland before [[Arthur]] Balfour brought
 it to England and it became a fashion and then a religion.
 I have been since inhibited by a difficulty in regarding a game
 as a religion, and the horrid secret of my failure is that I
 never could quite see the difference between cricket and golf,
 as I played them when I was a boy, and puss-in-the-corner
-and honey-pots as I played them when I was a child.
+and honey-pots as I played them when I was a [[Child|child]].
 Perhaps those nursery games are now forgotten; anyhow, I will not reveal
 what good games they were, lest they should become fashionable.
 If once they were taken seriously in that most serious world,
@@ -381,10 +381,10 @@ of life.  But I am more and more convinced that neither in your
 special spices nor in mine, neither in honey-pots nor quart-pots,
 neither in mustard nor in music, nor in any other distraction from life,
 is the secret we are all seeking, the secret of enjoying life.
-I am perfectly certain that all our world will end in [[Despair|despair]],
+I am perfectly certain that all our world will end in despair,
 unless there is some way of making the mind itself, the ordinary
 thought we have at ordinary times, more healthy and more happy than
-they seem to be just now, to judge by most modern novels and [[Poems|poems]].
+they seem to be just now, to judge by most modern novels and poems.
 You have to be happy in those quiet moments when you remember
 that you are alive; not in those noisy moments when you forget.
 Unless we can learn again to enjoy life, we shall not long enjoy
@@ -392,18 +392,18 @@ the spices of life.  I once read a French fairy-tale that expressed
 exactly what I mean.  Never believe that French wit is shallow;
 it is the shining surface of French irony, which is unfathomable.
 It was about a pessimist poet who decided to drown himself;
-and as he went down to the [[River|river]], he gave away his eyes to a blind man,
+and as he went down to the river, he gave away his eyes to a blind man,
 his ears to a deaf man, his legs to a lame man, and so on,
 up to the moment when the reader was waiting for the splash of
-his [[suicide]]; but the author wrote that this senseless trunk settled
+his suicide; but the author wrote that this senseless trunk settled
 itself on the shore and began to experience the joy of living:
 la joie de vivre.  The joy of being alive.  You have to go deep,
 and perhaps to grow old, to know how true that story is.
 
 If I were to ask myself where and when I have been happiest,
 I could of course give the obvious answers, as true of me as of
-everybody else; at some [[Dance|dance]] or feast of the romantic [[Time|time]] of life;
-at some juvenile triumph of [[debate]]; at some sight of beautiful
+everybody else; at some dance or feast of the romantic time of life;
+at some juvenile triumph of debate; at some sight of beautiful
 things in strange lands.  But it is much more important to remember
 that I have been intensely and imaginatively happy in the queerest
 because the quietest places.  I have been filled with life from
@@ -411,12 +411,12 @@ within in a cold waiting-room in a deserted railway junction.
 I have been completely alive sitting on an iron seat under an ugly
 lamp-post at a third-rate watering place.  In short, I have experienced
 the mere excitement of existence in places that would commonly be
-called as dull as ditch-[[Water|water]]. And by the way, is ditch-[[Water|water]] dull?
+called as dull as ditch-water. And by the way, is ditch-water dull?
 Naturalists with microscopes have told me that it teems with quiet fun.
 Even that proverbial phrase will prove that we cannot always trust
 what is proverbial, when it professes to describe what is prosaic.
-I [[Doubt|doubt]] whether the fifteen gushing fountains to be found in your
-ornamental [[Garden|garden]] contain creatures so amusing as those the
+I doubt whether the fifteen gushing fountains to be found in your
+ornamental garden contain creatures so amusing as those the
 miscroscope reveals; like the profiles of politicians in caricature.
 And that is only one example out of a thousand, of the things
 in daily life we call dull that are not really so dull after all.
@@ -432,13 +432,13 @@ is to amuse himself.  At this moment he is more and more dependent
 upon anything which he thinks will amuse him.  And, to judge
 by the expression of his face, it does not amuse him very much.
 When we consider what he receives, it is indeed a most magnificent
-[[Wonder|wonder]] and wealth and concentration of amusement.  He can travel
+wonder and wealth and concentration of amusement.  He can travel
 in a racing-car almost as quick as a cannon-ball; and still have
 his car fitted up with wireless from all the ends of the earth.
 He can get Vienna and Moscow; he can hear Cairo and Warsaw;
 and if he cannot see England, through which he happens to be travelling,
-that is after all a small matter.  In a century, no [[Doubt|doubt]], his car will
-travel like a comet, and his wireless will hear the noises in the [[Moon|moon]].
+that is after all a small matter.  In a century, no doubt, his car will
+travel like a comet, and his wireless will hear the noises in the moon.
 But all this does not help him when the car stops; and he has
 to stand stamping about in a line, with nothing to think about.
 All this does not help him even when the wireless stops and he has
@@ -451,17 +451,17 @@ what comes out of him, as a result of all this absorption,
 the result we have to record is rather serious.  In the vast majority
 of cases, nothing.  Not even conversation, as it used to be.
 He does not conduct long arguments, as young men did when I was young.
-The first and startling effect of all this noise is [[Silence|silence]].
+The first and startling effect of all this noise is silence.
 Second, when he does have the itch to write or say something,
 it is always an itch in the sense of an irritation.
 
 Everything has its better and baser form; and there is irritation
 and irritation.  There is a great deal of difference between
 the irritation of Aldous Huxley and the irritation of some nasty
-little degenerate in a [[Novel|novel]] by Aldous Huxley.  But honestly I do not
-think I am unfair to the whole trend of the [[Time|time]], if I say that it
+little degenerate in a novel by Aldous Huxley.  But honestly I do not
+think I am unfair to the whole trend of the time, if I say that it
 is intellectually irritated; and therefore without that sort of rich
-repose in the mind which I mean, when I say that a man when he is [[Alone|alone]]
+repose in the mind which I mean, when I say that a man when he is alone
 can be happy because he is alive.  For instance, a man of genius
 of the same generation, for whom I have a very special admiration,
 is Mr. T. S. Eliot.  But nobody will deny that there was a sense
@@ -471,13 +471,13 @@ and more subtle things; but I hardly think he has found repose.
 And it is just here that I will have the effrontery to distinguish
 between his generation and mine.  It used to be thought impudent
 for a boy to criticize an old gentleman, it now requires far
-more [[Sublime|sublime]] impudence for an older man to criticize a younger.
+more sublime impudence for an older man to criticize a younger.
 Yet I will defend my own idea of the spiritual spice of life against even
 the spirituality that finds this ordinary life entirely without spice.
-I know very [[Well|well]] that Mr. Eliot described the desolation he found
+I know very well that Mr. Eliot described the desolation he found
 more than the desolation he felt.  But I think that `The Waste Land'
 was at least a world in which he had wandered.  And as I am describing
-the recent world, I may as well describe it as he has described it,
+the recent world, I may as [[Well|well]] describe it as he has described it,
 in `The Hollow Men'--though nobody would describe him as a hollow man.
 This is the impression of many impressions.
 
@@ -489,16 +489,16 @@ This is the impression of many impressions.
 Now forgive me if I say, in my old-world fashion, that I'm damned
 if I ever felt like that.  I recognize the great realities Mr. Eliot
 has revealed; but I do not admit that this is the deepest reality.
-I am ready to admit that our generation made too much of [[Romance|romance]]
+I am ready to admit that our generation made too much of romance
 and comfort, but even when I was uncomfortable I was more comfortable
 than that.  I was more comfortable on the iron seat.  I was more happy
 in the cold waiting-room. I knew the world was perishable and would end,
 but I did not think it would end with a whimper, but if anything
-with a trump of doom.  It is doubtless a [[Grotesque|grotesque]] spectacle that
+with a trump of doom.  It is doubtless a grotesque spectacle that
 the great-grandfathers should still be dancing with indecent gaiety,
-when the young are so [[Grave|grave]] and sad; but in this matter of the spice
+when the young are so grave and sad; but in this matter of the spice
 of life, I will defend the spiritual appetite of my own age.
-I will even be so indecently frivolous as to break into [[Song|song]],
+I will even be so indecently frivolous as to break into song,
 and say to the young pessimists:
 
   Some sneer; some snigger; some simper;
@@ -518,7 +518,7 @@ has its fascination; and if you ever see your companion's face
 turned towards you with the rounded and complete expression
 of a congenital idiot, you may be certain again that he is
 nearer at that moment than at any other to knowing what you
-really are; which I fancy is the last thing that you [[Desire|desire]].
+really are; which I fancy is the last thing that you desire.
 When we cast `an intelligent look' (as they say in books)
 at a thing, it only means that we stamp our own significance upon it.
 When we look wisely at a post we see what we mean by a post.
@@ -647,7 +647,7 @@ The Everlasting Nights Daily News, November 7, 1901
 
 Aesop's Fables Introduction to a limited edition of Aesop's Fables
 published by William Heinemann, [[London]] and Doubleday Page & Co.,
-[[New York]], 1912.  Illustrated by [[arthur|Arthur]] Rackham
+[[New York]], 1912.  Illustrated by [[Arthur]] Rackham
 
 Both Sides of the Looking--The Listener, November 29.  1933
 

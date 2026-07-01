@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_02_birds_of_a_feather">‹ Chapter 02 BIRDS OF A FEATHER</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_04_a_turning">Chapter 04 A TURNING ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_02_birds_birds_of_a_feather">‹ Chapter 02 Birds BIRDS OF A FEATHER</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_04_a_turning">Chapter 04 A TURNING ›</a></div>
 </nav>
 
 

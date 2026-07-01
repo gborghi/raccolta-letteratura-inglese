@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity]] — The Doom of the Darnaways (part 7)"
+title: "Incredulity — The Doom of the Darnaways (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-(chesterton)"
@@ -129,16 +129,16 @@ or an evil god of the garden.
 `What do you mean?' she asked steadily.  `What is this word
 that will set us free?'
 
-`The word is murder,' he said, `and the [[Freedom|freedom]] it brings is as fresh
-as the [[Flowers|flowers]] of [[spring]].  No; I do not mean I have murdered anybody.
+`The word is murder,' he said, `and the freedom it brings is as fresh
+as the flowers of spring.  No; I do not mean I have murdered anybody.
 But the fact that anybody can be murdered is itself good news,
-after the evil [[Dreams|dreams]] you have been living in.  Don't you understand?
+after the evil dreams you have been living in.  Don't you understand?
 In that dream of yours everything that happened to you came from
 inside you; the Doom of the Darnaways was stored up in the Darnaways;
 it unfolded itself like a horrible flower.  There was no escape
 even by happy accident; it was all inevitable; whether it was Vine
 and his old--wives' tales, or Barnet and his new--fangled heredity.
-But this man who died was not the victim of a [[Magic|magic]] curse or an
-inherited [[Madness|madness]].  He was murdered; and for us that murder is simply
+But this man who died was not the victim of a magic curse or an
+inherited madness.  He was murdered; and for us that murder is simply
 an accident; yes, requiescat in pace:  but a happy accident.
 It is a ray of daylight, because it comes from outside.'

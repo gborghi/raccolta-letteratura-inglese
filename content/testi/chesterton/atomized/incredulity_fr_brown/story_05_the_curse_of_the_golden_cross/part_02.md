@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The Curse of the Golden [[Cross]] (part 2)"
+title: "incredulity Fr Brown — The Curse of the Golden Cross (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity_fr_brown/story_05_the_curse_of_the_golden_cross/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity_fr_brown/story_05_the_curse_of_the_golden_cross/part_03">part 03 ›</a></div>
 </nav>
 
+
+'Sussex is pretty large, as these little English sections go,' replied
+[[The Professor|the Professor]]. 'One might wander about in it for a goodish [[Time|time]]; and
+it's a good place to wander in. It's wonderful how large those low hills
+seem when you're on them.'
 
 There was an abrupt accidental [[Silence|silence]]; and then the lady said, 'Oh, I'm
 going on deck,' and [[Rose|rose]], the men rising with her. But [[The Professor|the Professor]]

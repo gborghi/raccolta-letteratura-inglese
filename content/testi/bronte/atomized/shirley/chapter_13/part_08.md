@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 13 (part 8)"
+title: "Shirley — Chapter 13 (part 8)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -12,6 +12,82 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_13/part_07">‹ part 07</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_13/part_09">part 09 ›</a></div>
 </nav>
+
+
+gathered up her work, put the embroidery, the scissors, the thimble into
+
+her bag. She bade Mrs. Pryor a quiet good-[[Night|night]], receiving from that
+
+lady a warmer pressure of the hand than usual. She stepped up to Miss
+
+Keeldar.
+
+
+
+"Good-[[Night|night]], [[Shirley]]!"
+
+
+
+[[Shirley]] started up. "What! so soon? Are you going already?"
+
+
+
+"It is past nine."
+
+
+
+"I never heard the [[Clock|clock]]. You will come again to-morrow, and you will be
+
+happy to-[[Night|night]], will you not? Remember our plans."
+
+
+
+"Yes," said Caroline; "I have not forgotten."
+
+
+
+Her mind misgave her that neither those plans nor any other could
+
+permanently restore her mental tranquillity. She turned to Robert, who
+
+stood close behind her. As he looked up, the light of the candles on the
+
+mantelpiece fell full on her face. All its paleness, all its change, all
+
+its forlorn meaning were clearly revealed. Robert had good eyes, and
+
+might have seen it if he would; whether he did see it, nothing
+
+indicated.
+
+
+
+"Good-[[Night|night]]!" she said, shaking like a leaf, offering her thin hand
+
+hastily, anxious to part from him quickly.
+
+
+
+"You are going [[Home|home]]?" he asked, not touching her hand.
+
+
+
+"Yes."
+
+
+
+"Is Fanny come for you?"
+
+
+
+"Yes."
+
+
+
+"I may as [[Well|well]] accompany you a step of the way; not up to the rectory,
+
+though, lest my old friend Helstone should shoot me from the [[Window|window]]."
+
 
 
 He laughed, and took his hat. Caroline spoke of unnecessary trouble; he
@@ -227,65 +303,3 @@ what you would wish unseen and unheard."
 you there once. But a week ago I was standing at the top of one of my
 
 long rooms; girls were working at the other end, and amongst half a
-
-dozen of them, moving to and fro, I seemed to see a figure resembling
-
-yours. It was some effect of doubtful light or shade, or of dazzling
-
-sunbeam. I walked up to this group. What I sought had glided away; I
-
-found myself between two buxom lasses in pinafores."
-
-
-
-"I shall not follow you into your mill, Robert, unless you call me
-
-there."
-
-
-
-"Nor is that the only occasion on which [[Imagination|imagination]] has played me a
-
-trick. One [[Night|night]], when I came [[Home|home]] late from market, I walked into the
-
-cottage parlour thinking to find Hortense; but instead of her I thought
-
-I found you. There was no candle in the room; my sister had taken the
-
-light upstairs with her. The [[Window|window]]-blind was not drawn, and broad
-
-moonbeams poured through the panes. There you were, Lina, at the
-
-casement, shrinking a little to one side in an attitude not unusual with
-
-you. You were dressed in white, as I have seen you dressed at an evening
-
-party. For half a second your fresh, living face seemed turned towards
-
-me, looking at me; for half a second my idea was to go and take your
-
-hand, to chide you for your long absence, and welcome your present
-
-visit. Two steps forward broke the spell. The drapery of the dress
-
-changed outline; the tints of the complexion dissolved, and were
-
-formless. Positively, as I reached the spot, there was nothing left but
-
-the sweep of a white muslin curtain, and a balsam plant in a flower-pot,
-
-covered with a flush of bloom. 'Sic transit,' et cetera."
-
-
-
-"It was not my wraith, then? I almost thought it was."
-
-
-
-"No; only gauze, crockery, and pink blossom--a sample of earthly
-
-illusions."
-
-
-
-"I [[Wonder|wonder]] you have [[Time|time]] for such illusions, occupied as your mind must

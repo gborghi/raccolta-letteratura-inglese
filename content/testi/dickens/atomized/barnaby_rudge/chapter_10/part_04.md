@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 10 (part 4)"
+title: "Barnaby Rudge — Chapter 10 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,26 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_10/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_12/part_01">part 01 ›</a></div>
 </nav>
 
+
+Very thoughtful old John Willet was, while the dinner was preparing; and
+if his brain were ever less clear at one [[Time|time]] than another, it is but
+reasonable to suppose that he addled it in no slight degree by shaking
+his head so much that day. That Mr Chester, between whom and Mr
+Haredale, it was notorious to all the neighbourhood, a deep and bitter
+animosity existed, should come down there for the sole purpose, as it
+seemed, of seeing him, and should choose the Maypole for their place
+of meeting, and should send to him express, were stumbling blocks John
+could not overcome. The only resource he had, was to consult the boiler,
+and wait impatiently for Barnaby’s return.
+
+But Barnaby delayed beyond all precedent. The visitor’s dinner was
+served, removed, his wine was set, the [[Fire|fire]] replenished, the hearth
+clean swept; the light waned without, it grew dusk, became quite dark,
+and still no Barnaby appeared. Yet, though John Willet was full of
+[[Wonder|wonder]] and misgiving, his guest sat [[Cross|cross]]-legged in the easy-chair, to
+all appearance as little ruffled in his thoughts as in his dress--the
+same calm, easy, cool gentleman, without a care or thought beyond his
+golden toothpick.
 
 ‘Barnaby’s late,’ John ventured to observe, as he placed a pair of
 tarnished candlesticks, some three feet high, upon the table, and

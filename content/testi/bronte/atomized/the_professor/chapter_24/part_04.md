@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 23 (part 4)"
+title: "The Professor — Chapter 23 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -14,6 +14,22 @@ tags:
 </nav>
 
 
+restraining herself she only added with earnest emphasis--“Master, I
+
+consent to pass my life with you.”
+
+“Very [[Well|well]], Frances.”
+
+I drew her a little nearer to my heart; I took a first kiss from her
+
+lips, thereby sealing the compact, now framed between us; afterwards she
+
+and I were silent, nor was our [[Silence|silence]] brief. Frances’ thoughts, during
+
+this interval, I know not, nor did I attempt to guess them; I was not
+
+occupied in searching her countenance, nor in otherwise troubling her
+
 composure. The peace I felt, I wished her to feel; my arm, it is true,
 
 still detained her; but with a restraint that was gentle enough, so long
@@ -24,15 +40,11 @@ measuring its own content; it sounded and sounded, and found the depth
 
 fathomless.
 
-
-
 “Monsieur,” at last said my quiet companion, as stirless in her
 
 happiness as a mouse in its terror. Even now in speaking she scarcely
 
 lifted her head.
-
-
 
 “[[Well]], Frances?” I like unexaggerated intercourse; it is not my way to
 
@@ -40,11 +52,7 @@ overpower with amorous epithets, any more than to worry with selfishly
 
 importunate caresses.
 
-
-
 “Monsieur est raisonnable, n’est-ce pas?”
-
-
 
 “Yes; especially when I am requested to be so in English: but why do
 
@@ -52,15 +60,9 @@ you ask me? You see nothing vehement or obtrusive in my manner; am I not
 
 tranquil enough?”
 
-
-
 “Ce n’est pas cela--” began Frances.
 
-
-
 “English!” I reminded her.
-
-
 
 “[[Well]], monsieur, I wished merely to say, that I should like, of course,
 
@@ -68,11 +70,7 @@ to retain my employment of teaching. You will teach still, I suppose,
 
 monsieur?”
 
-
-
 “Oh, yes! It is all I have to depend on.”
-
-
 
 “Bon!--I mean good. Thus we shall have both the same profession. I like
 
@@ -80,15 +78,9 @@ that; and my efforts to get on will be as unrestrained as yours--will
 
 they not, monsieur?”
 
-
-
 “You are laying plans to be independent of me,” said I.
 
-
-
 “Yes, monsieur; I must be no incumbrance to you--no burden in any way.”
-
-
 
 “But, Frances, I have not yet told you what my prospects are. I have
 
@@ -102,8 +94,6 @@ for you to fag yourself by going out to give lessons; on six thousand
 
 francs you and I can live, and live [[Well|well]].”
 
-
-
 Frances seemed to consider. There is something flattering to man’s
 
 strength, something consonant to his honourable [[Pride|pride]], in the idea of
@@ -113,8 +103,6 @@ becoming the [[Providence|providence]] of what he loves--feeding and clothing it
 God does the lilies of the field. So, to decide her resolution, I went
 
 on:--
-
-
 
 “Life has been painful and laborious enough to you so far, Frances; you
 
@@ -126,15 +114,11 @@ it! Relinquish your labours: you must be weary, and let me have the
 
 happiness of giving you rest.”
 
-
-
 I am not sure whether Frances had accorded due attention to my harangue;
 
 instead of answering me with her usual respectful promptitude, she only
 
 sighed and said,--
-
-
 
 “How rich you are, monsieur!” and then she stirred uneasy in my
 
@@ -148,8 +132,6 @@ place? Oh no! I shall hold it fast;” and her little fingers emphatically
 
 tightened on mine.
 
-
-
 “Think of my marrying you to be kept by you, monsieur! I could not do
 
 it; and how dull my days would be! You would be away teaching in close,
@@ -160,11 +142,7 @@ at [[Home|home]], unemployed and solitary; I should get depressed and sullen, an
 
 you would soon tire of me.”
 
-
-
 “Frances, you could read and study--two things you like so [[Well|well]].”
-
-
 
 “Monsieur, I could not; I like a contemplative life, but I like an
 
@@ -178,15 +156,11 @@ other so highly, as those who work together, and perhaps suffer
 
 together.”
 
-
-
 “You speak God’s [[Truth|truth]],” said I at last, “and you shall have your own
 
 way, for it is the best way. Now, as a reward for such ready consent,
 
 give me a voluntary kiss.”
-
-
 
 After some hesitation, natural to a novice in the art of kissing, she
 
@@ -195,8 +169,6 @@ brought her lips into very shy and gentle contact with my forehead; I
 took the small gift as a loan, and repaid it promptly, and with generous
 
 interest.
-
-
 
 I know not whether Frances was really much altered since the [[Time|time]]
 
@@ -233,21 +205,3 @@ bay the admiration of the boldest male champions of intellect (for
 women can [[Love|love]] a downright ugly man if he be but talented); had she been
 
 either “edentee, myope, rugueuse, ou bossue,” my feelings towards
-
-her might still have been kindly, but they could never have been
-
-impassioned; I had affection for the poor little misshapen Sylvie, but
-
-for her I could never have had [[Love|love]]. It is true Frances’ mental points
-
-had been the first to interest me, and they still retained the strongest
-
-hold on my preference; but I liked the graces of her person too. I
-
-derived a pleasure, purely material, from contemplating the clearness
-
-of her brown eyes, the fairness of her fine skin, the purity of her
-
-[[Well|well]]-set teeth, the proportion of her delicate form; and that pleasure
-
-I could ill have dispensed with. It appeared, then, that I too was a

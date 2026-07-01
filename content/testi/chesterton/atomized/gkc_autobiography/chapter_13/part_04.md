@@ -1,5 +1,5 @@
 ---
-title: "[[GKC-Autobiography]] — Chapter 13 (part 4)"
+title: "GKC-Autobiography — Chapter 13 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/gkc-autobiography-(chesterton)"
@@ -36,7 +36,7 @@ to depend a good deal on what comes out of it.
 But among these literary figures, there was one figure whom I
 shall put last because I ought to put it first.  It was the figure
 of a contemporary and companion of all that world of culture;
-a close friend of Meredith; an [[artist]] admired as artistic
+a close friend of Meredith; an [[Artist|artist]] admired as artistic
 by the aesthetes and even by the decadents.  But Alice Meynell,
 though she preferred to be aesthetic rather than anaesthetic,
 was no aesthete; and there was nothing about her that can [[Decay|decay]].
@@ -47,8 +47,8 @@ find things to think about; even on a sick bed in a darkened room,
 where the [[Shadow|shadow]] of a bird on the blind was more than the
 bird itself, she said, because it was a message from the sun.
 Since she was so emphatically a craftsman, she was emphatically
-an [[artist]] and not an aesthete; above all, she was like that famous
-[[artist]] who said that he always mixed his paints with brains.
+an [[Artist|artist]] and not an aesthete; above all, she was like that famous
+[[Artist|artist]] who said that he always mixed his paints with brains.
 But there was something else about her which I did not understand
 at the [[Time|time]], which set her apart as something separate from the [[Time|time]].
 She was strong with deep roots where all the Stoics were only stiff

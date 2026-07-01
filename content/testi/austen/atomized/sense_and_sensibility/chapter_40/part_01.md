@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 40 (part 1)"
+title: "Sense and Sensibility — Chapter 40 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -261,7 +261,3 @@ her to be acquainted with it; which, with the consciousness of what she
 had been thinking of, and what she had to tell him, made her feel
 
 particularly uncomfortable for some minutes. He too was much
-
-distressed; and they sat down together in a most promising state of
-
-embarrassment.—Whether he had asked her pardon for his intrusion on

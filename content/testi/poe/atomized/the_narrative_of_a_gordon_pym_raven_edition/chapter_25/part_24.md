@@ -14,6 +14,144 @@ tags:
 </nav>
 
 
+      discover, perhaps, the very information you seem to [[Desire|desire]]. It is
+
+      now, to be sure, growing rather dark—but you can examine it at
+
+      your leisure in the morning. In the meantime, you shall be my
+
+      escort [[Home|home]] to-[[Night|night]]. My friends are about holding a little
+
+      musical _levée_. I can promise you, too, some good singing. We
+
+      French are not nearly so punctilious as you Americans, and I
+
+      shall have no difficulty in smuggling you in, in the character of
+
+      an old acquaintance.”
+
+
+
+      With this, she took my arm, and I attended her [[Home|home]]. The mansion
+
+      was quite a fine one, and, I believe, furnished in good taste. Of
+
+      this latter point, however, I am scarcely qualified to judge; for
+
+      it was just dark as we arrived; and in American mansions of the
+
+      better sort lights seldom, during the heat of [[Summer|summer]], make their
+
+      appearance at this, the most pleasant period of the day. In about
+
+      an hour after my arrival, to be sure, a single shaded solar lamp
+
+      was lit in the principal drawing-room; and this apartment, I
+
+      could thus see, was arranged with unusual good taste and even
+
+      splendor; but two other rooms of the suite, and in which the
+
+      company chiefly assembled, remained, during the whole evening, in
+
+      a very agreeable [[Shadow|shadow]]. This is a [[Well|well]]-conceived custom, giving
+
+      the party at least a choice of light or shade, and one which our
+
+      friends over the [[Water|water]] could not do better than immediately
+
+      adopt.
+
+
+
+      The evening thus spent was unquestionably the most delicious of
+
+      my life. Madame Lalande had not overrated the musical abilities
+
+      of her friends; and the singing I here heard I had never heard
+
+      excelled in any private circle out of Vienna. The instrumental
+
+      performers were many and of superior talents. The vocalists were
+
+      chiefly ladies, and no individual sang less than [[Well|well]]. At length,
+
+      upon a peremptory call for “Madame Lalande,” she arose at once,
+
+      without affectation or demur, from the chaise longue upon which
+
+      she had sat by my side, and, accompanied by one or two gentlemen
+
+      and her female friend of the opera, repaired to the piano in the
+
+      main drawing-room. I would have escorted her myself, but felt
+
+      that, under the circumstances of my introduction to the [[house]], I
+
+      had better remain unobserved where I was. I was thus deprived of
+
+      the pleasure of seeing, although not of hearing, her sing.
+
+
+
+      The impression she produced upon the company seemed
+
+      electrical—but the effect upon myself was something even more. I
+
+      know not how adequately to describe it. It arose in part, no
+
+      [[Doubt|doubt]], from the sentiment of [[Love|love]] with which I was imbued; but
+
+      chiefly from my conviction of the extreme sensibility of the
+
+      singer. It is beyond the reach of art to endow either air or
+
+      recitative with more impassioned expression than was hers. Her
+
+      utterance of the [[Romance|romance]] in Otello—the tone with which she gave
+
+      the words “Sul mio sasso,” in the Capuletti—is ringing in my
+
+      [[Memory|memory]] yet. Her lower tones were absolutely miraculous. Her voice
+
+      embraced three complete octaves, extending from the contralto D
+
+      to the D upper soprano, and, though sufficiently powerful to have
+
+      filled the San Carlos, executed, with the minutest precision,
+
+      every difficulty of vocal composition—ascending and descending
+
+      scales, cadences, or fiorituri. In the final of the Somnambula,
+
+      she brought about a most remarkable effect at the words:
+
+
+
+     Ah! non guinge uman pensiero
+
+     Al contento ond ’io son piena.
+
+
+
+      Here, in [[Imitation|imitation]] of Malibran, she modified the original phrase
+
+      of Bellini, so as to let her voice descend to the tenor G, when,
+
+      by a rapid transition, she struck the G above the treble stave,
+
+      springing over an interval of two octaves.
+
+
+
+      Upon rising from the piano after these miracles of vocal
+
+      execution, she resumed her seat by my side; when I expressed to
+
+      her, in terms of the deepest enthusiasm, my delight at her
+
+      performance. Of my surprise I said nothing, and yet was I most
+
       unfeignedly surprised; for a certain feebleness, or rather a
 
       certain tremulous indecision of voice in ordinary conversation,
@@ -65,151 +203,3 @@ tags:
       have been surely injudicious in coming to confession; for,
 
       without the confession, I take it for granted that no one would
-
-      have accused you of the crime. By the by,” she continued, “have
-
-      you any recollection—” and here I fancied that a blush, even
-
-      through the gloom of the apartment, became distinctly visible
-
-      upon her cheek—“have you any recollection, _mon cher ami_, of
-
-      this little ocular assistant, which now depends from my neck?”
-
-
-
-      As she spoke she twirled in her fingers the identical [[Double|double]]
-
-      eye-glass which had so overwhelmed me with confusion at the
-
-      opera.
-
-
-
-      “Full [[Well|well]]—alas! do I remember it,” I exclaimed, pressing
-
-      passionately the delicate hand which offered the glasses for my
-
-      inspection. They formed a complex and magnificent toy, richly
-
-      chased and filigreed, and gleaming with jewels, which, even in
-
-      the deficient light, I could not help perceiving were of high
-
-      value.
-
-
-
-      “_Eh bien! mon ami_,” she resumed with a certain _empressment_ of
-
-      manner that rather surprised me—“_Eh bien! mon ami_, you have
-
-      earnestly besought of me a favor which you have been pleased to
-
-      denominate priceless. You have demanded of me my hand upon the
-
-      morrow. Should I yield to your entreaties—and, I may add, to the
-
-      pleadings of my own bosom—would I not be entitled to demand of
-
-      you a very—a very little boon in return?”
-
-
-
-      “Name it!” I exclaimed with an energy that had nearly drawn upon
-
-      us the observation of the company, and restrained by their
-
-      presence [[Alone|alone]] from throwing myself impetuously at her feet.
-
-      “Name it, my beloved, my Eugénie, my own!—name it!—but, alas! it
-
-      is already yielded ere named.”
-
-
-
-      “You shall conquer, then, _mon ami_,” said she, “for the sake of
-
-      the Eugénie whom you [[Love|love]], this little weakness which you have at
-
-      last confessed—this weakness more moral than physical—and which,
-
-      let me assure you, is so unbecoming the nobility of your real
-
-      [[Nature|nature]]—so inconsistent with the candor of your usual
-
-      character—and which, if permitted further control, will assuredly
-
-      involve you, sooner or later, in some very disagreeable scrape.
-
-      You shall conquer, for my sake, this affectation which leads you,
-
-      as you yourself acknowledge, to the tacit or implied denial of
-
-      your infirmity of vision. For, this infirmity you virtually deny,
-
-      in refusing to employ the customary means for its relief. You
-
-      will understand me to say, then, that I wish you to wear
-
-      spectacles;—ah, hush!—you have already consented to wear them,
-
-      for my sake. You shall accept the little toy which I now hold in
-
-      my hand, and which, though admirable as an aid to vision, is
-
-      really of no very immense value as a gem. You perceive that, by a
-
-      trifling modification thus—or thus—it can be adapted to the eyes
-
-      in the form of spectacles, or worn in the waistcoat pocket as an
-
-      eye-glass. It is in the former mode, however, and habitually,
-
-      that you have already consented to wear it for my sake.”
-
-
-
-      This request—must I confess it?—confused me in no little degree.
-
-      But the condition with which it was coupled rendered hesitation,
-
-      of course, a matter altogether out of the question.
-
-
-
-      “It is done!” I cried, with all the enthusiasm that I could
-
-      muster at the moment. “It is done—it is most cheerfully agreed. I
-
-      sacrifice every feeling for your sake. To-[[Night|night]] I wear this dear
-
-      eye-glass, as an eye-glass, and upon my heart; but with the
-
-      earliest [[Dawn|dawn]] of that morning which gives me the pleasure of
-
-      calling you wife, I will place it upon my—upon my nose,—and there
-
-      wear it ever afterward, in the less romantic, and less
-
-      fashionable, but certainly in the more serviceable, form which
-
-      you [[Desire|desire]].”
-
-
-
-      Our conversation now turned upon the details of our arrangements
-
-      for the morrow. Talbot, I learned from my betrothed, had just
-
-      arrived in town. I was to see him at once, and procure a
-
-      carriage. The _soirée_ would scarcely break up before two; and by
-
-      this hour the vehicle was to be at the door; when, in the
-
-      confusion occasioned by the departure of the company, Madame L.
-
-      could easily enter it unobserved. We were then to call at the
-
-      [[house]] of a clergyman who would be in waiting; there be married,

@@ -16,7 +16,6 @@ tags:
 
 CHAPTER IV
 
-
 FRANCIS THE BUILDER
 
 We have now reached the great break in the life of Francis of Assisi;

@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 2 (part 1)"
+title: "Northanger Abbey — Chapter 2 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -207,7 +207,3 @@ squeezed in as [[Well|well]] as they could. As for Mr. Allen, he repaired
 directly to the card-room, and left them to enjoy a mob by themselves.
 
 With more care for the safety of her new gown than for the comfort of
-
-her protégée, Mrs. Allen made her way through the throng of men by the
-
-door, as swiftly as the necessary caution would allow; Catherine,

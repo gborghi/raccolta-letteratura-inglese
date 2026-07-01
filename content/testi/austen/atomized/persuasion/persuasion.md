@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]]"
+title: "Persuasion"
 author: "Austen"
 unitType: work
 parentWork: "works/persuasion-(austen)"
@@ -427,7 +427,7 @@ been met with any warmth, he had persevered in seeking it, making
 
 allowance for the modest drawing-back of youth; and, in one of their
 
-[[spring]] excursions to [[London]], when Elizabeth was in her first bloom, Mr
+[[Spring|spring]] excursions to [[London]], when Elizabeth was in her first bloom, Mr
 
 Elliot had been forced into the introduction.
 
@@ -441,7 +441,7 @@ favour was confirmed. He was invited to Kellynch Hall; he was talked of
 
 and expected all the rest of the year; but he never came. The following
 
-[[spring]] he was seen again in town, found equally agreeable, again
+[[Spring|spring]] he was seen again in town, found equally agreeable, again
 
 encouraged, invited, and expected, and again he did not come; and the
 
@@ -551,7 +551,7 @@ dreadfully in debt, but was hearing of it so often, that it became vain
 
 to attempt concealing it longer, even partially, from his daughter. He
 
-had given her some hints of it the last [[spring]] in town; he had gone so
+had given her some hints of it the last [[Spring|spring]] in town; he had gone so
 
 far even as to say, “Can we retrench? Does it occur to you that there
 
@@ -1213,7 +1213,7 @@ father, his father might have disdained to speak to, and of becoming
 
 prematurely an object of disgust himself, than in any other line. One
 
-day last [[spring]], in town, I was in company with two men, striking
+day last [[Spring|spring]], in town, I was in company with two men, striking
 
 instances of what I am talking of; Lord St Ives, whose father we all
 
@@ -4397,7 +4397,7 @@ be interrupting, thinking only of his own thoughts, began with—
 
 
 
-“If you had been a week later at Lisbon, last [[spring]], Frederick, you
+“If you had been a week later at Lisbon, last [[Spring|spring]], Frederick, you
 
 would have been asked to give a passage to Lady Mary Grierson and her
 
@@ -5497,7 +5497,7 @@ scenes of [[Autumn|autumn]] were for a while put by, unless some tender [[Sonnet
 
 fraught with the apt analogy of the declining year, with declining
 
-happiness, and the images of youth and [[Hope|hope]], and [[spring]], all gone
+happiness, and the images of youth and [[Hope|hope]], and [[Spring|spring]], all gone
 
 together, blessed her [[Memory|memory]]. She roused herself to say, as they struck
 
@@ -5515,7 +5515,7 @@ another half mile of gradual ascent through large enclosures, where the
 
 ploughs at work, and the fresh made path spoke the farmer counteracting
 
-the sweets of poetical despondence, and meaning to have [[spring]] again,
+the sweets of poetical despondence, and meaning to have [[Spring|spring]] again,
 
 they gained the summit of the most considerable [[Hill|hill]], which parted
 
@@ -6661,7 +6661,7 @@ till Henrietta suddenly began again with—
 
 sea-air always does good. There can be no [[Doubt|doubt]] of its having been of
 
-the greatest service to Dr [[Shirley]], after his illness, last [[spring]]
+the greatest service to Dr [[Shirley]], after his illness, last [[Spring|spring]]
 
 twelvemonth. He declares himself, that coming to Lyme for a month, did
 
@@ -7959,7 +7959,7 @@ and Anne, in receiving her compliments on the occasion, had the
 
 amusement of connecting them with the silent admiration of her cousin,
 
-and of hoping that she was to be blessed with a second [[spring]] of youth
+and of hoping that she was to be blessed with a second [[Spring|spring]] of youth
 
 and [[Beauty|beauty]].
 
@@ -9427,7 +9427,7 @@ thing in particular?” “No, nothing.” “Merely Gowland,” he supposed.
 
 be better than [[Well|well]]; or I should recommend Gowland, the constant use of
 
-Gowland, during the [[spring]] months. Mrs Clay has been using it at my
+Gowland, during the [[Spring|spring]] months. Mrs Clay has been using it at my
 
 recommendation, and you see what it has done for her. You see how it
 
@@ -15343,7 +15343,7 @@ not done for her. Miss Elliot, do you remember our walking together at
 
 Lyme, and grieving for him? I little thought then—but no matter. This
 
-was drawn at the Cape. He met with a clever young German [[artist]] at the
+was drawn at the Cape. He met with a clever young German [[Artist|artist]] at the
 
 Cape, and in compliance with a promise to my poor sister, sat to him,
 
@@ -16705,7 +16705,7 @@ bid defiance even to greater accessions of worldly prosperity. She
 
 might have been absolutely rich and perfectly healthy, and yet be
 
-happy. Her [[spring]] of felicity was in the glow of her spirits, as her
+happy. Her [[Spring|spring]] of felicity was in the glow of her spirits, as her
 
 friend Anne’s was in the warmth of her heart. Anne was tenderness
 

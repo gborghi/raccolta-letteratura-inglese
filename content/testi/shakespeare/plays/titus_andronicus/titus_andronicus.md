@@ -1,5 +1,5 @@
 ---
-title: "[[Titus Andronicus|TITUS ANDRONICUS]]"
+title: "TITUS ANDRONICUS"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/titus-andronicus-(shakespeare)"

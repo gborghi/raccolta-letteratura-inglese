@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 37 (part 3)"
+title: "Sense and Sensibility — Chapter 37 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_37/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_37/part_04">part 04 ›</a></div>
 </nav>
 
+
+I can think and speak of it with little emotion. I would not have you
+
+suffer on my account; for I assure you I no longer suffer materially
+
+myself. I have many things to support me. I am not conscious of having
+
+provoked the disappointment by any imprudence of my own, I have borne
+
+it as much as possible without spreading it farther. I acquit Edward of
+
+essential misconduct. I wish him very happy; and I am so sure of his
 
 always doing his duty, that though now he may harbour some regret, in
 
@@ -199,21 +211,3 @@ cannot [[Wonder|wonder]] at it, after being so deceived!—meeting with such
 ingratitude, where so much kindness had been shown, so much confidence
 
 had been placed! It was quite out of the benevolence of her heart, that
-
-she had asked these young women to her [[house]]; merely because she
-
-thought they deserved some attention, were harmless, [[Well|well]]-behaved
-
-girls, and would be pleasant companions; for otherwise we both wished
-
-very much to have invited you and Marianne to be with us, while your
-
-kind friend there, was attending her daughter. And now to be so
-
-rewarded! ‘I wish, with all my heart,’ says poor Fanny in her
-
-affectionate way, ‘that we had asked your sisters instead of them.’”
-
-
-
-Here he stopped to be thanked; which being done, he went on.

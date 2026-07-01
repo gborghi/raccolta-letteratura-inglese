@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 36 (part 3)"
+title: "Sense and Sensibility — Chapter 36 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_36/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_37/part_01">part 01 ›</a></div>
 </nav>
 
+
+Lord Courtland came to me the other day on purpose to ask my advice,
+
+and laid before me three different plans of Bonomi’s. I was to decide
+
+on the best of them. ‘My dear Courtland,’ said I, immediately throwing
 
 them all into the [[Fire|fire]], ‘do not adopt either of them, but by all means
 

@@ -1,5 +1,5 @@
 ---
-title: "[[The Angel of the Odd]] (part 4)"
+title: "The Angel of the Odd (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-angel-of-the-odd-(poe)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_angel_of_the_odd/part/part_03">‹ part 03</a><span></span></div>
 </nav>
 
+
+      brandy-saturated corn, and so had staggered away from his
+
+      fellows. No sooner had I entered the [[Water|water]] than this bird took it
+
+      into its head to fly away with the most indispensable portion of
+
+      my apparel. Postponing, therefore, for the present, my suicidal
+
+      design, I just slipped my nether extremities into the sleeves of
+
+      my coat, and betook myself to a pursuit of the felon with all the
 
       nimbleness which the case required and its circumstances would
 

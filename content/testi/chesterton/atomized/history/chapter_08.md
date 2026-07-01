@@ -1,5 +1,5 @@
 ---
-title: "[[history]] — Chapter 8"
+title: "history — Chapter 8"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/history-(chesterton)"
@@ -92,7 +92,7 @@ The reactions of recent centuries have left most educated men
 bankrupt of the corporate [[Imagination|imagination]] required even to imagine this.
 They only think of a mob as a thing that breaks things--even if they
 admit it is right to break them.  But the mob made these things.
-An [[artist]] mocked as many-headed, an [[artist]] with many eyes and hands,
+An [[Artist|artist]] mocked as many-headed, an [[Artist|artist]] with many eyes and hands,
 created these masterpieces.  And if the modern sceptic in his
 detestation of the democratic ideal, complains of my calling
 them masterpieces, a simple answer will for the moment serve.
@@ -347,7 +347,7 @@ a point of complaint against the modern Trades Unions.
 But they insisted also, as the Trades Unions cannot do, upon a high
 standard of craftsmanship, which still astonishes the world in
 the corners of perishing buildings or the colours of broken glass.
-There is no [[artist]] or art critic who will not concede, however distant
+There is no [[Artist|artist]] or art critic who will not concede, however distant
 his own style from the Gothic school, that there was in this
 [[Time|time]] a nameless but universal artistic touch in the moulding
 of the very tools of life.  Accident has preserved the rudest
@@ -413,7 +413,7 @@ became the sceptre.  Blake, in one of his symbolic fantasies,
 suggests that in the [[Golden Age]] the gold and gems should be taken
 from the hilt of the [[Sword|sword]] and put upon the handle of the plough.
 But something very like this did happen in the interlude of this
-mediaeval [[Democracy|democracy]], fermenting under the crust of mediaeval
+mediaeval [[democracy]], fermenting under the crust of mediaeval
 monarchy and aristocracy; where productive implements often
 took on the pomp of heraldry.  The Guilds often exhibited
 emblems and pageantry so compact of their most prosaic uses,

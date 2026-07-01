@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 52 (part 1)"
+title: "Bleak House — Chapter 52 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -132,9 +132,3 @@ down, which seemed to give him great satisfaction.
 
 “Now, George,” observed my guardian, “as we require no new assurances
 on your part, so I believe we need give you none on ours.”
-
-“Not at all, sir. I thank you with all my heart. If I was not
-[[Innocent|innocent]] of this crime, I couldn’t look at you and keep my secret to
-myself under the condescension of the present visit. I feel the
-present visit very much. I am not one of the eloquent sort, but I
-feel it, Miss Summerson and gentlemen, deeply.”

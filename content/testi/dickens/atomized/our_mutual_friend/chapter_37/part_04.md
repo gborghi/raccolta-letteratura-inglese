@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 13 (part 4)"
+title: "Our Mutual Friend — Chapter 15 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,134 +14,132 @@ tags:
 </nav>
 
 
-‘What would I have? If the dead could know, or do know, how the living
-use them, who among the hosts of dead has found a more disinterested
-fidelity on earth than I? Is not that enough for me? If I had come back,
-these noble creatures would have welcomed me, wept over me, given up
-everything to me with joy. I did not come back, and they have passed
-unspoiled into my place. Let them rest in it, and let Bella rest in
-hers.
+‘O, Mr Headstone, you talk quite wildly.’
 
-‘What course for me then? This. To live the same quiet Secretary life,
-carefully avoiding chances of recognition, until they shall have become
-more accustomed to their altered state, and until the great swarm of
-swindlers under many names shall have found newer prey. By that [[Time|time]],
-the method I am establishing through all the affairs, and with which I
-will every day take new pains to make them both familiar, will be, I may
-[[Hope|hope]], a [[Machine|machine]] in such working order as that they can keep it going.
-I know I need but ask of their generosity, to have. When the right [[Time|time]]
-comes, I will ask no more than will replace me in my former path of
-life, and John Rokesmith shall tread it as contentedly as he may. But
-[[John Harmon]] shall come back no more.
+‘Quite collectedly. I know what I say too [[Well|well]]. Now I have said all. I
+have used no threat, remember; I have done no more than show you how the
+case stands;—how the case stands, so far.’
 
-‘That I may never, in the days to come afar off, have any weak misgiving
-that Bella might, in any contingency, have taken me for my own sake if
-I had plainly asked her, I WILL plainly ask her: proving beyond all
-question what I already know too [[Well|well]]. And now it is all thought out,
-from the beginning to the end, and my mind is easier.’
+At this moment her brother sauntered into view close by. She darted to
+him, and caught him by the hand. Bradley followed, and laid his heavy
+hand on the boy’s opposite shoulder.
 
+‘Charley Hexam, I am going [[Home|home]]. I must walk [[Home|home]] by myself to-[[Night|night]],
+and get shut up in my room without being spoken to. Give me half an
+hour’s start, and let me be, till you find me at my work in the morning.
+I shall be at my work in the morning just as usual.’
 
-So deeply engaged had the living-dead man been, in thus communing with
-himself, that he had regarded neither the [[Wind|wind]] nor the way, and had
-resisted the former instinctively as he had pursued the latter. But
-being now come into the [[City]], where there was a coach-stand, he stood
-irresolute whether to go to his lodgings, or to go first to Mr Boffin’s
-[[house]]. He decided to go round by the [[house]], arguing, as he carried his
-overcoat upon his arm, that it was less likely to attract notice if left
-there, than if taken to Holloway: both Mrs Wilfer and Miss [[Lavinia]] being
-ravenously curious touching every article of which the lodger stood
-possessed.
+Clasping his hands, he uttered a short unearthly broken cry, and went
+his way. The brother and sister were left looking at one another near
+a lamp in the solitary churchyard, and the boy’s face clouded and
+darkened, as he said in a rough tone: ‘What is the meaning of this? What
+have you done to my best friend? Out with the [[Truth|truth]]!’
 
-Arriving at the [[house]], he found that Mr and Mrs Boffin were out, but
-that Miss Wilfer was in the drawing-room. Miss Wilfer had remained at
-[[Home|home]], in consequence of not feeling very [[Well|well]], and had inquired in the
-evening if Mr Rokesmith were in his room.
+‘Charley!’ said his sister. ‘Speak a little more considerately!’
 
-‘Make my compliments to Miss Wilfer, and say I am here now.’
+‘I am not in the [[Humour|humour]] for consideration, or for nonsense of any sort,’
+replied the boy. ‘What have you been doing? Why has Mr Headstone gone
+from us in that way?’
 
-Miss Wilfer’s compliments came down in return, and, if it were not too
-much trouble, would Mr Rokesmith be so kind as to come up before he
-went?
+‘He asked me—you know he asked me—to be his wife, Charley.’
 
-It was not too much trouble, and Mr Rokesmith came up.
+‘[[Well]]?’ said the boy, impatiently.
 
-Oh she looked very pretty, she looked very, very pretty! If the father
-of the late [[John Harmon]] had but left his money unconditionally to his
-son, and if his son had but lighted on this loveable girl for himself,
-and had the happiness to make her loving as [[Well|well]] as loveable!
+‘And I was obliged to tell him that I could not be his wife.’
 
-‘Dear me! Are you not [[Well|well]], Mr Rokesmith?’
+‘You were obliged to tell him,’ repeated the boy angrily, between his
+teeth, and rudely pushing her away. ‘You were obliged to tell him! Do
+you know that he is worth fifty of you?’
 
-‘Yes, quite [[Well|well]]. I was sorry to hear, when I came in, that YOU were
-not.’
+‘It may easily be so, Charley, but I cannot marry him.’
 
-‘A mere nothing. I had a headache—gone now—and was not quite fit for
-a hot theatre, so I stayed at [[Home|home]]. I asked you if you were not [[Well|well]],
-because you look so white.’
+‘You mean that you are conscious that you can’t appreciate him, and
+don’t deserve him, I suppose?’
 
-‘Do I? I have had a busy evening.’
+‘I mean that I do not like him, Charley, and that I will never marry
+him.’
 
-She was on a low ottoman before the [[Fire|fire]], with a little shining [[Jewel|jewel]]
-of a table, and her book and her work, beside her. Ah! what a different
-life the late [[John Harmon]]’s, if it had been his happy privilege to take
-his place upon that ottoman, and draw his arm about that waist, and say,
-‘I [[Hope|hope]] the [[Time|time]] has been long without me? What a [[Home]] Goddess you look,
-my darling!’
+‘Upon my [[Soul|soul]],’ exclaimed the boy, ‘you are a nice picture of a sister!
+Upon my [[Soul|soul]], you are a pretty piece of disinterestedness! And so all my
+endeavours to cancel the past and to raise myself in the world, and to
+raise you with me, are to be beaten down by YOUR low whims; are they?’
 
-But, the present John Rokesmith, far removed from the late [[John Harmon]],
-remained standing at a distance. A little distance in respect of space,
-but a great distance in respect of separation.
+‘I will not reproach you, Charley.’
 
-‘Mr Rokesmith,’ said Bella, taking up her work, and inspecting it all
-round the corners, ‘I wanted to say something to you when I could have
-the opportunity, as an explanation why I was rude to you the other day.
-You have no right to think ill of me, sir.’
+‘Hear her!’ exclaimed the boy, looking round at the darkness. ‘She won’t
+reproach me! She does her best to destroy my fortunes and her own,
+and she won’t reproach me! Why, you’ll tell me, next, that you won’t
+reproach Mr Headstone for coming out of the sphere to which he is an
+ornament, and putting himself at YOUR feet, to be rejected by YOU!’
 
-The sharp little way in which she darted a look at him, half sensitively
-injured, and half pettishly, would have been very much admired by the
-late [[John Harmon]].
+‘No, Charley; I will only tell you, as I told himself, that I thank him
+for doing so, that I am sorry he did so, and that I [[Hope|hope]] he will do much
+better, and be happy.’
 
-‘You don’t know how [[Well|well]] I think of you, Miss Wilfer.’
+Some touch of compunction smote the boy’s hardening heart as he looked
+upon her, his patient little [[Nurse|nurse]] in infancy, his patient friend,
+adviser, and reclaimer in boyhood, the [[Self|self]]-forgetting sister who had
+done everything for him. His tone relented, and he drew her arm through
+his.
 
-‘Truly, you must have a very high opinion of me, Mr Rokesmith, when you
-believe that in prosperity I neglect and forget my old [[Home|home]].’
+‘Now, come, Liz; don’t let us quarrel: let us be reasonable and talk
+this over like brother and sister. Will you listen to me?’
 
-‘Do I believe so?’
+‘Oh, Charley!’ she replied through her starting [[Tears|tears]]; ‘do I not listen
+to you, and hear many hard things!’
 
-‘You DID, sir, at any rate,’ returned Bella.
+‘Then I am sorry. There, Liz! I am unfeignedly sorry. Only you do put me
+out so. Now see. Mr Headstone is perfectly devoted to you. He has told
+me in the strongest manner that he has never been his old [[Self|self]] for one
+single minute since I first brought him to see you. Miss Peecher, our
+schoolmistress—pretty and young, and all that—is known to be very much
+attached to him, and he won’t so much as look at her or hear of her.
+Now, his devotion to you must be a disinterested one; mustn’t it? If he
+married Miss Peecher, he would be a great deal better off in all worldly
+respects, than in marrying you. [[Well]] then; he has nothing to get by it,
+has he?’
 
-‘I took the liberty of reminding you of a little omission into which you
-had fallen—insensibly and naturally fallen. It was no more than that.’
+‘Nothing, Heaven knows!’
 
-‘And I beg leave to ask you, Mr Rokesmith,’ said Bella, ‘why you took
-that liberty?—I [[Hope|hope]] there is no offence in the phrase; it is your own,
-remember.’
+‘Very [[Well|well]] then,’ said the boy; ‘that’s something in his favour, and a
+great thing. Then I come in. Mr Headstone has always got me on, and he
+has a good deal in his power, and of course if he was my brother-in-law
+he wouldn’t get me on less, but would get me on more. Mr Headstone
+comes and confides in me, in a very delicate way, and says, “I [[Hope|hope]] my
+marrying your sister would be agreeable to you, Hexam, and useful to
+you?” I say, “There’s nothing in the world, Mr Headstone, that I could
+be better pleased with.” Mr Headstone says, “Then I may rely upon your
+intimate knowledge of me for your good word with your sister, Hexam?”
+ And I say, “Certainly, Mr Headstone, and naturally I have a good deal of
+influence with her.” So I have; haven’t I, Liz?’
 
-‘Because I am truly, deeply, profoundly interested in you, Miss Wilfer.
-Because I wish to see you always at your best. Because I—shall I go
-on?’
+‘Yes, Charley.’
 
-‘No, sir,’ returned Bella, with a burning face, ‘you have said more than
-enough. I beg that you will NOT go on. If you have any generosity, any
-[[Honour|honour]], you will say no more.’
+‘[[Well]] said! Now, you see, we begin to get on, the moment we begin to
+be really talking it over, like brother and sister. Very [[Well|well]]. Then
+YOU come in. As Mr Headstone’s wife you would be occupying a most
+respectable station, and you would be holding a far better place in
+society than you hold now, and you would at length get quit of the
+[[River|river]]-side and the old disagreeables belonging to it, and you would be
+rid for good of dolls’ dressmakers and their drunken fathers, and the
+like of that. Not that I want to disparage Miss [[Jenny Wren]]: I dare
+say she is all very [[Well|well]] in her way; but her way is not your way as
+Mr Headstone’s wife. Now, you see, Liz, on all three accounts—on
+Mr Headstone’s, on mine, on yours—nothing could be better or more
+desirable.’
 
-The late [[John Harmon]], looking at the proud face with the down-cast eyes,
-and at the quick breathing as it stirred the fall of bright brown hair
-over the beautiful neck, would probably have remained silent.
+They were walking slowly as the boy spoke, and here he stood still, to
+see what effect he had made. His sister’s eyes were fixed upon him; but
+as they showed no yielding, and as she remained silent, he walked her on
+again. There was some discomfiture in his tone as he resumed, though he
+tried to conceal it.
 
-‘I wish to speak to you, sir,’ said Bella, ‘once for all, and I don’t
-know how to do it. I have sat here all this evening, wishing to speak to
-you, and determining to speak to you, and feeling that I must. I beg for
-a moment’s [[Time|time]].’
-
-He remained silent, and she remained with her face averted, sometimes
-making a slight movement as if she would turn and speak. At length she
-did so.
-
-‘You know how I am situated here, sir, and you know how I am situated
-at [[Home|home]]. I must speak to you for myself, since there is no one about
-me whom I could ask to do so. It is not generous in you, it is not
-honourable in you, to conduct yourself towards me as you do.’
-
-‘Is it ungenerous or dishonourable to be devoted to you; fascinated by
-you?’
+‘Having so much influence with you, Liz, as I have, perhaps I should
+have done better to have had a little chat with you in the first
+instance, before Mr Headstone spoke for himself. But really all this in
+his favour seemed so plain and undeniable, and I knew you to have always
+been so reasonable and sensible, that I didn’t consider it worth while.
+Very likely that was a mistake of mine. However, it’s soon set right.
+All that need be done to set it right, is for you to tell me at once
+that I may go [[Home|home]] and tell Mr Headstone that what has taken place is
+not final, and that it will all come round by-and-by.’

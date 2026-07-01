@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 22 (part 1)"
+title: "The Professor — Chapter 22 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -15,8 +15,6 @@ tags:
 
 
 CHAPTER XXII
-
-
 
 A WEEK is gone; LE JOUR DES NOCES arrived; the [[Marriage|marriage]] was solemnized
 
@@ -44,8 +42,6 @@ that street till such [[Time|time]] as the mist of [[Doubt|doubt]] should clear 
 
 prospects.
 
-
-
 It was a sweet September evening--very mild, very still; I had nothing
 
 to do; at that hour I knew Frances would be equally released from
@@ -55,8 +51,6 @@ occupation; I thought she might possibly be wishing for her master, I
 knew I wished for my pupil. [[Imagination]] began with her low whispers,
 
 infusing into my [[Soul|soul]] the soft tale of pleasures that might be.
-
-
 
 “You will find her reading or writing,” said she; “you can take your
 
@@ -94,8 +88,6 @@ her by a sign. Try their influence now. Go--they are not passions; you
 
 may handle them safely.”
 
-
-
 “I will NOT go was my answer to the sweet [[Temptress|temptress]]. A man is master
 
 of himself to a certain point, but not beyond it. Could I seek Frances
@@ -104,19 +96,13 @@ to-[[Night|night]], could I sit with her [[Alone|alone]] in a quiet room, and ad
 
 only in the language of Reason and Affection?”
 
-
-
 “No,” was the brief, fervent reply of that [[Love]] which had conquered and
 
 now controlled me.
 
-
-
 [[Time]] seemed to stagnate; the sun would not go down; my watch ticked, but
 
 I thought the hands were paralyzed.
-
-
 
 “What a hot evening!” I cried, throwing open the lattice; for, indeed, I
 
@@ -136,8 +122,6 @@ smart, prompt rap; and, almost before I could invite him in, he was over
 
 the threshold, and had closed the door behind him.
 
-
-
 “And how are you?” asked an indifferent, quiet voice, in the English
 
 language; while my visitor, without any sort of bustle or introduction,
@@ -147,8 +131,6 @@ put his hat on the table, and his gloves into his hat, and drawing
 the only armchair the room afforded a little forward, seated himself
 
 tranquilly therein.
-
-
 
 “Can’t you speak?” he inquired in a few moments, in a tone whose
 
@@ -188,8 +170,6 @@ use in attempting to describe what is indescribable. Being in no hurry
 
 to address him, I sat and stared at my ease.
 
-
-
 “Oh, that’s your game--is it?” said he at last. “[[Well]], we’ll see which
 
 is soonest tired.” And he slowly drew out a fine cigar-case, picked one
@@ -206,16 +186,8 @@ conceived the whim, so I [[Rose|rose]], and taking the book from his hand, I
 
 said,--
 
-
-
 “You did not ask for it, and you shall not have it.”
-
-
 
 “It is silly and dull,” he observed, “so I have not lost much;” then the
 
 spell being broken, he went on: “I thought you lived at Pelet’s; I went
-
-there this afternoon expecting to be starved to [[Death|death]] by sitting in
-
-a boarding-school drawing-room, and they told me you were gone, had

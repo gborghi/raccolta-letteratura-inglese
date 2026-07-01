@@ -14,6 +14,10 @@ tags:
 </nav>
 
 
+‘I carried her myself, to-[[Night|night]],’ said Trotty.  ‘In these arms!’
+
+‘Show him what he calls himself,’ said the dark figures, one and all.
+
 The tower opened at his feet.  He looked down, and beheld his own form,
 lying at the [[Bottom|bottom]], on the outside: crushed and motionless.
 
@@ -142,10 +146,3 @@ Friends and Children in another Hall first; and, at a given signal,
 Friends and Children flocking in among their Friends and Fathers, were to
 form a family assemblage, with not one manly eye therein unmoistened by
 emotion.
-
-But, there was more than this to happen.  Even more than this.  Sir
-Joseph Bowley, Baronet and Member of Parliament, was to play a match at
-skittles—real skittles—with his tenants!
-
-‘Which quite reminds me,’ said [[Alderman Cute]], ‘of the days of old [[King]]
-Hal, stout [[King]] Hal, bluff [[King]] Hal.  Ah!  Fine character!’

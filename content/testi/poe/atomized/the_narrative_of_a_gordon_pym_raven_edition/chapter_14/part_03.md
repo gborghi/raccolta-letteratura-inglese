@@ -14,6 +14,12 @@ tags:
 </nav>
 
 
+      their wings drooping like two arms, and, as their tails project
+
+      from their [[Body|body]] in a line with the legs, the resemblance to a
+
+      human figure is very striking, and would be apt to deceive the
+
       spectator at a casual glance or in the gloom of the evening. The
 
       royal penguins which we met with on Kerguelen’s Land were rather
@@ -197,13 +203,3 @@ tags:
       wherever they can find room, never interfering, however, with the
 
       stations of the larger species. The appearance of such
-
-      encampments, when seen from a distance, is exceedingly singular.
-
-      The whole atmosphere just above the settlement is darkened with
-
-      the immense number of the albatross (mingled with the smaller
-
-      tribes) which are continually hovering over it, either going to
-
-      the ocean or returning [[Home|home]]. At the same [[Time|time]] a crowd of penguins

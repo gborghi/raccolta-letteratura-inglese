@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 48 (part 2)"
+title: "Barnaby Rudge — Chapter 48 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -127,10 +127,3 @@ lead them on to [[Death|death]], I’d do it--Yes, and fall first myself!’
 ‘It is a proud sight,’ said the secretary. ‘It is a noble day for
 England, and for the great cause throughout the world. Such homage, my
 lord, as I, an humble but devoted man, can render--’
-
-‘What are you doing?’ cried his master, catching him by both hands;
-for he had made a show of kneeling at his feet. ‘Do not unfit me, dear
-Gashford, for the solemn duty of this glorious day--’ the [[Tears|tears]] stood in
-the eyes of the poor gentleman as he said the words.--‘Let us go
-among them; we have to find a place in some division for this new
-recruit--give me your hand.’

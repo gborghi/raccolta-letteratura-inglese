@@ -1,5 +1,5 @@
 ---
-title: "[[TheCrimesOfEngland]] — Chapter 10 (part 8)"
+title: "TheCrimesOfEngland — Chapter 10 (part 8)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thecrimesofengland-(chesterton)"
@@ -13,6 +13,46 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thecrimesofengland/chapter_10/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/thecrimesofengland/chapter_10/part_09">part 09 ›</a></div>
 </nav>
 
+
+Austria played in the matter is symbolic. For he was what is called an
+
+enlightened despot, which is the worst kind of despot. He was as
+
+irreligious as Frederick the Great, but not so disgusting or amusing.
+
+The old and kindly Austrian family, of which [[Maria]] Theresa was the
+
+affectionate mother, and Marie Antoinette the rather uneducated
+
+daughter, was already superseded and summed up by a rather dried-up
+
+young man [[Self|self]]-schooled to a Prussian efficiency. The needle is already
+
+veering northward. Prussia is already beginning to be the captain of the
+
+Germanics "in shining armour." Austria is already becoming a loyal
+
+_sekundant_.
+
+But there still remains one great difference between Austria and Prussia
+
+which developed more and more as the energy of the young Napoleon was
+
+driven like a wedge between them. The difference can be most shortly
+
+stated by saying that Austria did, in some blundering and barbaric way,
+
+care for Europe; but Prussia cared for nothing but Prussia. Austria is
+
+not a nation; you cannot really find Austria on the map. But Austria is
+
+a kind of Empire; a Holy Roman Empire that never came, an expanding and
+
+contracting-dream. It does feel itself, in a vague patriarchal way, the
+
+leader, not of a nation, but of nations. It is like some dying Emperor
+
+of Rome in the decline; who should admit that the legions had been
 
 withdrawn from Britain or from Parthia, but would feel it as
 
@@ -33,8 +73,6 @@ responsibility for Christendom. And it was this that made the difference
 between its proceedings and those of the purely selfish adventurer from
 
 the north, the wild dog of Pomerania.
-
-
 
 It may be believed, as Fox himself came at last to believe, that
 
@@ -77,8 +115,6 @@ only as subordinates or seconds. That duel, first, last, and for ever,
 was a duel between the Frenchman and the German; that is, between the
 
 citizen and the barbarian.
-
-
 
 It is not necessary nowadays to defend the [[French Revolution]], it is not
 
@@ -130,8 +166,6 @@ living or splendidly dead for it, along the line from Switzerland to the
 
 sea.
 
-
-
 But for Austria, and even more for [[Russia]], there was this to be said;
 
 that the French Republican ideal was incomplete, and that they
@@ -151,47 +185,3 @@ White Czar: for [[Russia]] even destruction has a deathly softness as of
 Peace. The phrase Holy Alliance was a beautiful [[Truth|truth]] for the Czar,
 
 though only a blasphemous jest for his rascally allies, Metternich and
-
-Castlereagh. Austria, though she had lately fallen to a somewhat
-
-treasonable toying with heathens and heretics of Turkey and Prussia,
-
-still retained something of the old Catholic comfort for the [[Soul|soul]].
-
-Priests still bore witness to that mighty mediaeval institution which
-
-even its enemies concede to be a noble [[nightmare]]. All their hoary
-
-political iniquities had not deprived them of that dignity. If they
-
-darkened the sun in heaven, they clothed it with the strong colours of
-
-sunrise in garment or gloriole; if they had given men stones for bread,
-
-the stones were carved with kindly faces and fascinating tales. If
-
-justice counted on their shameful gibbets hundreds of the [[Innocent|innocent]] dead,
-
-they could still say that for them [[Death|death]] was more hopeful than life for
-
-the heathen. If the new daylight discovered their vile tortures, there
-
-had lingered in the darkness some dim [[Memory|memory]] that they were tortures of
-
-Purgatory and not, like those which Parisian and Prussian diabolists
-
-showed shameless in the sunshine, of naked hell. They claimed a [[Truth|truth]]
-
-not yet disentangled from human [[Nature|nature]]; for indeed earth is not even
-
-earth without heaven, as a landscape is not a landscape without the sky.
-
-And in, a universe without God there is not room enough for a man.
-
-
-
-It may be held, therefore, that there must in any case have come a
-
-conflict between the old world and the new; if only because the old are
-
-often broad, while the young are always narrow. The Church had learnt,

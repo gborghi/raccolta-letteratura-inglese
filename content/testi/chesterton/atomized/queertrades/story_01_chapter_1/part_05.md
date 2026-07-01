@@ -1,5 +1,5 @@
 ---
-title: "[[queertrades]] — Chapter 1 (part 5)"
+title: "queertrades — Chapter 1 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/queertrades-(chesterton)"
@@ -13,6 +13,30 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/queertrades/story_01_chapter_1/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/queertrades/story_01_chapter_1/part_06">part 06 ›</a></div>
 </nav>
 
+
+"But what the deuce else can the letter be but criminal?"
+
+"We have [[Eternity|eternity]] to stretch our legs in," replied the mystic.
+"It can be an infinity of things.  I haven't seen any of them--
+I've only seen the letter.  I look at that, and say it's not criminal."
+
+"Then what's the origin of it?"
+
+"I haven't the vaguest idea."
+
+"Then why don't you accept the ordinary explanation?"
+
+Basil continued for a little to glare at the coals, and seemed
+collecting his thoughts in a humble and even painful way.
+Then he said:
+
+"Suppose you went out into the moonlight.  Suppose you passed
+through silent, silvery streets and squares until you came into
+an open and deserted space, set with a few monuments, and you
+beheld one dressed as a ballet girl dancing in the argent glimmer.
+And suppose you looked, and saw it was a man disguised.
+And suppose you looked again, and saw it was Lord Kitchener.
+What would you think?"
 
 He paused a moment, and went on:
 
@@ -111,7 +135,7 @@ suddenly over his shoulder, "when I say `Four', follow me with a rush.
 If I say `Hold him', pin the fellows down, whoever they are.
 If I say `Stop', stop.  I shall say that if there are more than three.
 If they attack us I shall empty my revolver on them.  Basil, have your
-[[Sword|sword]]-stick ready.  Now--one, two three, four!"
+sword-stick ready.  Now--one, two three, four!"
 
 With the sound of the word the door burst open, and we fell into
 the room like an invasion, only to stop dead.
@@ -128,34 +152,3 @@ What can I do for you?"
 
 There was a doubtful pause, and then, by general consent,
 the Major himself, the victim of the outrage, stepped forward.
-
-The letter was in his hand, and he looked unusually grim.
-
-"Is your name P. G. Northover?" he asked.
-
-"That is my name," replied the other, smiling.
-
-"I think," said Major Brown, with an increase in the dark glow
-of his face, "that this letter was written by you."  And with a loud
-clap he struck open the letter on the desk with his clenched fist.
-The man called Northover looked at it with unaffected interest
-and merely nodded.
-
-"[[Well]], sir," said the Major, breathing hard, "what about that?"
-
-"What about it, precisely," said the man with the moustache.
-
-"I am Major Brown," said that gentleman sternly.
-
-Northover bowed.  "Pleased to meet you, sir.  What have you
-to say to me?"
-
-"Say!" cried the Major, loosing a sudden tempest; "why, I want this
-confounded thing settled.  I want--"
-
-"Certainly, sir," said Northover, jumping up with a slight
-elevation of the eyebrows.  "Will you take a chair for a moment."
-And he pressed an electric bell just above him, which thrilled
-and tinkled in a room beyond.  The Major put his hand on the back
-of the chair offered him, but stood chafing and beating the floor
-with his polished boot.

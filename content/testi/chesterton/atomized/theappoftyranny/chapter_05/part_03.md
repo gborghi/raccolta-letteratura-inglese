@@ -1,5 +1,5 @@
 ---
-title: "[[TheAppOfTyranny]] — Chapter 4 (part 3)"
+title: "TheAppOfTyranny — Chapter 4 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/theappoftyranny-(chesterton)"
@@ -14,6 +14,14 @@ tags:
 </nav>
 
 
+It is a long [[Time|time]] since we met; and I [[Fear|fear]] these letters may never reach
+
+you. But in these violent times I remember with a curious vividness how you
+
+brandished a paintbrush about your easel when I was a boy; and how it
+
+thrilled me to think that you had so brandished a bayonet against the
+
 Teutons--I [[Hope|hope]] with the same precision and happy results. Round about
 
 that period, the very pigments seemed to have some sort of picturesque
@@ -25,8 +33,6 @@ and terrible about Venetian Red; and something quite catastrophic about
 Burnt Sienna. But somehow or other, when I saw in the street yesterday the
 
 colours on your [[Flag|flag]], it reminded me of the colours on your palette.
-
-
 
 You need not [[Fear|fear]] that I shall try to entangle you or your countrymen in
 
@@ -59,8 +65,6 @@ one's hair. But I repeat that I am not concerned to interfere with your
 decision, save in so far as I may provide some materials for it by
 
 describing our own.
-
-
 
 For I think the first, perhaps the only, fruitful work an Englishman can do
 
@@ -120,8 +124,6 @@ is very great. But to give up one's hate for one's country, this may also
 
 have in it something of [[Pride|pride]] and something of [[Purification|purification]].
 
-
-
 What is it that has made the British peoples thus defer not only their
 
 artificial parade of party politics but their real social and moral
@@ -154,8 +156,6 @@ when you will have to tell him, if you only tell him the wrong [[Time|time]]. An
 
 that is exactly what the second-rate civilisation does.
 
-
-
 But the vital point is here. The abstract barbarian would copy. The cockney
 
 and incomplete civilisation always sets itself up to be copied. And in the
@@ -171,19 +171,3 @@ terrible to our opponents and ensures a German future for Europe." That is,
 as shortly as it can be put, what we are fighting about. We are fighting to
 
 prevent a German future for Europe. We think it would be narrower, nastier,
-
-less sane, less capable of liberty and of laughter, than any of the worst
-
-parts of the European past. And when I cast about for a form in which to
-
-explain shortly why we think so, I thought of you. For this is a matter so
-
-large that I know not how to express it except in terms of artists like
-
-you, in the service of [[Beauty|beauty]] and the [[Faith|faith]] in [[Freedom|freedom]]. Prussia, at least
-
-cannot help me; Lord Palmerston, I believe, called it a country of damned
-
-professors. Lord Palmerston, I [[Fear|fear]], used the word "damned" more or less
-
-flippantly. I use it reverently.

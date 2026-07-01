@@ -21,7 +21,7 @@ The Period
 It was the best of times, it was the worst of times, it was the age of
 wisdom, it was the age of foolishness, it was the epoch of belief, it
 was the epoch of [[Incredulity|incredulity]], it was the season of Light, it was the
-season of Darkness, it was the [[Spring|spring]] of [[Hope|hope]], it was the [[Winter|winter]] of
+season of Darkness, it was the [[spring]] of [[Hope|hope]], it was the [[Winter|winter]] of
 [[Despair|despair]], we had everything before us, we had nothing before us, we were
 all going direct to Heaven, we were all going direct the other way--in
 short, the period was so far like the present period, that some of its

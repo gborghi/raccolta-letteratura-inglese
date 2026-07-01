@@ -14,6 +14,52 @@ tags:
 </nav>
 
 
+      beloved, the august, the beautiful, the entombed. I revelled in
+
+      recollections of her purity, of her wisdom, of her lofty, her
+
+      ethereal [[Nature|nature]], of her passionate, her idolatrous [[Love|love]]. Now,
+
+      then, did my spirit fully and freely burn with more than all the
+
+      fires of her own. In the excitement of my opium [[Dreams|dreams]] (for I was
+
+      habitually fettered in the shackles of the drug) I would call
+
+      aloud upon her name, during the [[Silence|silence]] of the [[Night|night]], or among
+
+      the sheltered recesses of the glens by day, as if, through the
+
+      wild eagerness, the solemn passion, the consuming ardor of my
+
+      [[Longing|longing]] for the departed, I could restore her to the pathway she
+
+      had abandoned—ah, could it be forever?—upon the earth.
+
+
+
+      About the commencement of the second month of the [[Marriage|marriage]], the
+
+      Lady Rowena was attacked with sudden illness, from which her
+
+      recovery was slow. The fever which consumed her rendered her
+
+      nights uneasy; and in her perturbed state of half-slumber, she
+
+      spoke of sounds, and of motions, in and about the chamber of the
+
+      turret, which I concluded had no origin save in the distemper of
+
+      her fancy, or perhaps in the phantasmagoric influences of the
+
+      chamber itself. She became at length convalescent—finally [[Well|well]].
+
+      Yet but a brief period elapsed, ere a second more violent
+
+      disorder again threw her upon a bed of [[Suffering|suffering]]; and from this
+
+      attack her frame, at all times feeble, never altogether
+
       recovered. Her illnesses were, after this epoch, of alarming
 
       character, and of more alarming recurrence, defying alike the
@@ -141,57 +187,3 @@ tags:
       Wild visions, opium-engendered, flitted, [[Shadow|shadow]]-like, before me.
 
       I gazed with unquiet eye upon the sarcophagi in the angles of the
-
-      room, upon the varying figures of the drapery, and upon the
-
-      writhing of the parti-colored fires in the censer overhead. My
-
-      eyes then fell, as I called to mind the circumstances of a former
-
-      [[Night|night]], to the spot beneath the glare of the censer where I had
-
-      seen the faint traces of the [[Shadow|shadow]]. It was there, however, no
-
-      longer; and breathing with greater [[Freedom|freedom]], I turned my glances
-
-      to the pallid and rigid figure upon the bed. Then rushed upon me
-
-      a thousand memories of Ligeia—and then came back upon my heart,
-
-      with the turbulent violence of a flood, the whole of that
-
-      unutterable woe with which I had regarded her thus enshrouded.
-
-      The [[Night|night]] waned; and still, with a bosom full of bitter thoughts
-
-      of the one only and supremely beloved, I remained gazing upon the
-
-      [[Body|body]] of Rowena.
-
-
-
-      It might have been midnight, or perhaps earlier, or later, for I
-
-      had taken no note of [[Time|time]], when a sob, low, gentle, but very
-
-      distinct, startled me from my revery. I _felt_ that it came from
-
-      the bed of ebony—the bed of [[Death|death]]. I listened in an agony of
-
-      superstitious terror—but there was no repetition of the sound. I
-
-      strained my vision to detect any motion in the corpse—but there
-
-      was not the slightest perceptible. Yet I could not have been
-
-      deceived. I had heard the noise, however faint, and my [[Soul|soul]] was
-
-      awakened within me. I resolutely and perseveringly kept my
-
-      attention riveted upon the [[Body|body]]. Many minutes elapsed before any
-
-      circumstance occurred tending to throw light upon the mystery. At
-
-      length it became evident that a slight, a very feeble, and barely
-
-      noticeable tinge of color had flushed up within the cheeks, and

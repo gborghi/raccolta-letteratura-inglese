@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 32: THE BEGINNING OF A LONG [[Journey|JOURNEY]] (part 5)"
+title: "David Copperfield — Chapter 32: THE BEGINNING OF A LONG [[Journey|JOURNEY (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,23 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_32_the_beginning_of_a_long_journe/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_32_the_beginning_of_a_long_journe/part_06">part 06 ›</a></div>
 </nav>
 
+
+I gave Miss Mowcher my hand, with a very different opinion of her from
+that which I had hitherto entertained, and opened the door to let her
+out. It was not a trifling business to get the great umbrella up, and
+properly balanced in her grasp; but at last I successfully accomplished
+this, and saw it go bobbing down the street through the rain, without
+the least appearance of having anybody underneath it, except when a
+heavier fall than usual from some over-charged [[Water|water]]-spout sent it
+toppling over, on one side, and discovered Miss Mowcher struggling
+violently to get it right. After making one or two sallies to her
+relief, which were rendered futile by the umbrella’s hopping on again,
+like an immense bird, before I could reach it, I came in, went to bed,
+and slept till morning.
+
+In the morning I was joined by Mr. Peggotty and by my old [[Nurse|nurse]], and we
+went at an early hour to the coach office, where Mrs. Gummidge and Ham
+were waiting to take leave of us.
 
 ‘Mas’r Davy,’ Ham whispered, drawing me aside, while Mr. Peggotty was
 stowing his bag among the luggage, ‘his life is quite broke up. He
@@ -102,35 +119,3 @@ air, that it seemed as if nothing could disturb. She looked very
 steadfastly at Mr. Peggotty when he stood before her; and he looked
 quite as steadfastly at her. Rosa Dartle’s keen glance comprehended all
 of us. For some moments not a word was spoken.
-
-She motioned to Mr. Peggotty to be seated. He said, in a low voice, ‘I
-shouldn’t feel it nat’ral, ma’am, to sit down in this [[house]]. I’d sooner
-stand.’ And this was succeeded by another [[Silence|silence]], which she broke thus:
-
-‘I know, with deep regret, what has brought you here. What do you want
-of me? What do you ask me to do?’
-
-He put his hat under his arm, and feeling in his breast for Emily’s
-letter, took it out, unfolded it, and gave it to her. ‘Please to read
-that, ma’am. That’s my niece’s hand!’
-
-She read it, in the same stately and impassive way,--untouched by its
-contents, as far as I could see,--and returned it to him.
-
-‘“Unless he brings me back a lady,”’ said Mr. Peggotty, tracing out that
-part with his finger. ‘I come to know, ma’am, whether he will keep his
-wured?’
-
-‘No,’ she returned.
-
-‘Why not?’ said Mr. Peggotty.
-
-‘It is impossible. He would disgrace himself. You cannot fail to know
-that she is far below him.’
-
-‘Raise her up!’ said Mr. Peggotty.
-
-‘She is uneducated and ignorant.’
-
-‘Maybe she’s not; maybe she is,’ said Mr. Peggotty. ‘I think not, ma’am;
-but I’m no judge of them things. Teach her better!’

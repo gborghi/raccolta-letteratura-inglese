@@ -1,5 +1,5 @@
 ---
-title: "A MIDSUMMER [[Night|NIGHT]]’S DREAM"
+title: "A MIDSUMMER NIGHT’S DREAM"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/a-midsummer-night’s-dream-(shakespeare)"

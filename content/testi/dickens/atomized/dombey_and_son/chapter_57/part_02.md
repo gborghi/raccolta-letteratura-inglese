@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 1 (part 2)"
+title: "Dombey and Son — Chapter 29 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,133 +14,132 @@ tags:
 </nav>
 
 
-Mr Dombey’s cup of satisfaction was so full at this moment, however,
-that he felt he could afford a drop or two of its contents, even to
-sprinkle on the [[Dust|dust]] in the by-path of his little daughter.
+“Thank you, Lucretia,” said Mrs Chick, “I have. I took an early
+breakfast”—the good lady seemed curious on the subject of Princess’s
+Place, and looked all round it as she spoke—“with my brother, who has
+come [[Home|home]].”
 
-So he said, “Florence, you may go and look at your pretty brother, if
-you like, I daresay. Don’t touch him!”
+“He is better, I trust, my [[Love|love]],” faltered Miss Tox.
 
-The [[Child|child]] glanced keenly at the blue coat and stiff white cravat,
-which, with a pair of creaking boots and a very loud ticking watch,
-embodied her idea of a father; but her eyes returned to her mother’s
-face immediately, and she neither moved nor answered.
+“He is greatly better, thank you. Hem!”
 
-“Her insensibility is as proof against a brother as against every thing
-else,” said Mr Dombey to himself He seemed so confirmed in a previous
-opinion by the discovery, as to be quite glad of it.”
+“My dear Louisa must be careful of that cough” remarked Miss Tox.
 
-Next moment, the lady had opened her eyes and seen the [[Child|child]]; and the
-[[Child|child]] had run towards her; and, standing on tiptoe, the better to hide
-her face in her embrace, had clung about her with a desperate affection
-very much at variance with her years.
+“It’s nothing,” returned Mrs Chick. “It’s merely change of weather. We
+must expect change.”
 
-“Oh Lord bless me!” said Mr Dombey, rising testily. “A very ill-advised
-and feverish proceeding this, I am sure. Please to ring there for Miss
-Florence’s [[Nurse|nurse]]. Really the person should be more care-”
+“Of weather?” asked Miss Tox, in her simplicity.
 
-“Wait! I—had better ask Doctor Peps if he’ll have the goodness to step
-upstairs again perhaps. I’ll go down. I’ll go down. I needn’t beg you,”
-he added, pausing for a moment at the settee before the [[Fire|fire]], “to take
-particular care of this young gentleman, Mrs ——”
+“Of everything,” returned Mrs Chick. “Of course we must. It’s a world
+of change. Anyone would surprise me very much, Lucretia, and would
+greatly alter my opinion of their understanding, if they attempted to
+contradict or evade what is so perfectly evident. Change!” exclaimed
+Mrs Chick, with severe [[philosophy]]. “Why, my gracious me, what is there
+that does _not_ change! even the silkworm, who I am sure might be
+supposed not to trouble itself about such subjects, changes into all
+sorts of unexpected things continually.”
 
-“Blockitt, Sir?” suggested the [[Nurse|nurse]], a simpering piece of faded
-gentility, who did not presume to state her name as a fact, but merely
-offered it as a mild suggestion.
+“My Louisa,” said the mild Miss Tox, “is ever happy in her
+illustrations.”
 
-“Of this young gentleman, Mrs Blockitt.”
+“You are so kind, Lucretia,” returned Mrs Chick, a little softened, “as
+to say so, and to think so, I believe. I [[Hope|hope]] neither of us may ever
+have any cause to lessen our opinion of the other, Lucretia.”
 
-“No, Sir, indeed. I remember when Miss Florence was born—”
+“I am sure of it,” returned Miss Tox.
 
-“Ay, ay, ay,” said Mr Dombey, bending over the basket bedstead, and
-slightly bending his brows at the same [[Time|time]]. “Miss Florence was all
-very [[Well|well]], but this is another matter. This young gentleman has to
-accomplish a destiny. A destiny, little fellow!” As he thus
-apostrophised the infant he raised one of his hands to his lips, and
-kissed it; then, seeming to [[Fear|fear]] that the action involved some
-compromise of his dignity, went, awkwardly enough, away.
+Mrs Chick coughed as before, and drew lines on the carpet with the
+ivory end of her parasol. Miss Tox, who had experience of her fair
+friend, and knew that under the pressure of any slight fatigue or
+vexation she was prone to a discursive kind of irritability, availed
+herself of the pause, to change the subject.
 
-Doctor Parker Peps, one of the [[Court]] Physicians, and a man of immense
-reputation for assisting at the increase of great families, was walking
-up and down the drawing-room with his hands behind him, to the
-unspeakable admiration of the family Surgeon, who had regularly puffed
-the case for the last six weeks, among all his patients, friends, and
-acquaintances, as one to which he was in hourly expectation day and
-[[Night|night]] of being summoned, in conjunction with Doctor Parker Pep.
+“Pardon me, my dear Louisa,” said Miss Tox, “but have I caught sight of
+the manly form of Mr Chick in the carriage?”
 
-“[[Well]], Sir,” said Doctor Parker Peps in a round, deep, sonorous voice,
-muffled for the occasion, like the knocker; “do you find that your dear
-lady is at all roused by your visit?”
+“He is there,” said Mrs Chick, “but pray leave him there. He has his
+newspaper, and would be quite contented for the next two hours. Go on
+with your [[Flowers|flowers]], Lucretia, and allow me to sit here and rest.”
 
-“Stimulated as it were?” said the family practitioner faintly: bowing
-at the same [[Time|time]] to the Doctor, as much as to say, “Excuse my putting
-in a word, but this is a valuable connexion.”
+“My Louisa knows,” observed Miss Tox, “that between friends like
+ourselves, any approach to ceremony would be out of the question.
+Therefore—” Therefore Miss Tox finished the sentence, not in words but
+action; and putting on her gloves again, which she had taken off, and
+arming herself once more with her scissors, began to snip and clip
+among the [[Leaves|leaves]] with microscopic industry.
 
-Mr Dombey was quite discomfited by the question. He had thought so
-little of the patient, that he was not in a condition to answer it. He
-said that it would be a satisfaction to him, if Doctor Parker Peps
-would walk upstairs again.
+“Florence has returned [[Home|home]] also,” said Mrs Chick, after sitting silent
+for some [[Time|time]], with her head on one side, and her parasol sketching on
+the floor; “and really Florence is a great deal too old now, to
+continue to lead that solitary life to which she has been accustomed.
+Of course she is. There can be no [[Doubt|doubt]] about it. I should have very
+little respect, indeed, for anybody who could advocate a different
+opinion. Whatever my wishes might be, I could not respect them. We
+cannot command our feelings to such an extent as that.”
 
-“Good! We must not disguise from you, Sir,” said Doctor Parker Peps,
-“that there is a want of power in Her Grace the Duchess—I beg your
-pardon; I confound names; I should say, in your amiable lady. That
-there is a certain degree of languor, and a general absence of
-elasticity, which we would rather—not—”
+Miss Tox assented, without being particular as to the intelligibility
+of the proposition.
 
-“See,” interposed the family practitioner with another inclination of
-the head.
+“If she’s a strange girl,” said Mrs Chick, “and if my brother Paul
+cannot feel perfectly comfortable in her society, after all the sad
+things that have happened, and all the terrible disappointments that
+have been undergone, then, what is the reply? That he must make an
+effort. That he is bound to make an effort. We have always been a
+family remarkable for effort. Paul is at the head of the family; almost
+the only representative of it left—for what am I—I am of no
+consequence—”
 
-“Quite so,” said Doctor Parker Peps, “which we would rather not see. It
-would appear that the system of Lady Cankaby—excuse me: I should say of
-Mrs Dombey: I confuse the names of cases—”
+“My dearest [[Love|love]],” remonstrated Miss Tox.
 
-“So very numerous,” murmured the family practitioner—“can’t be expected
-I’m sure—quite wonderful if otherwise—Doctor Parker Peps’s West-End
-practice—”
+Mrs Chick dried her eyes, which were, for the moment, overflowing; and
+proceeded:
 
-“Thank you,” said the Doctor, “quite so. It would appear, I was
-observing, that the system of our patient has sustained a shock, from
-which it can only [[Hope|hope]] to rally by a great and strong—”
+“And consequently he is more than ever bound to make an effort. And
+though his having done so, comes upon me with a sort of shock—for mine
+is a very weak and foolish [[Nature|nature]]; which is anything but a blessing I
+am sure; I often wish my heart was a marble slab, or a paving-stone—”
 
-“And vigorous,” murmured the family practitioner.
+“My sweet Louisa,” remonstrated Miss Tox again.
 
-“Quite so,” assented the Doctor—“and vigorous effort. Mr Pilkins here,
-who from his position of medical adviser in this family—no one better
-qualified to fill that position, I am sure.”
+“Still, it is a triumph to me to know that he is so true to himself,
+and to his name of Dombey; although, of course, I always knew he would
+be. I only [[Hope|hope]],” said Mrs Chick, after a pause, “that she may be
+worthy of the name too.”
 
-“Oh!” murmured the family practitioner. “‘Praise from Sir [[Hubert]]
-Stanley!’”
+Miss Tox filled a little green watering-pot from a jug, and happening
+to look up when she had done so, was so surprised by the amount of
+expression Mrs Chick had conveyed into her face, and was bestowing upon
+her, that she put the little watering-pot on the table for the present,
+and sat down near it.
 
-“You are good enough,” returned Doctor Parker Peps, “to say so. Mr
-Pilkins who, from his position, is best acquainted with the patient’s
-constitution in its normal state (an acquaintance very valuable to us
-in forming our opinions in these occasions), is of opinion, with me,
-that [[Nature]] must be called upon to make a vigorous effort in this
-instance; and that if our interesting friend the Countess of Dombey—I
-_beg_ your pardon; Mrs Dombey—should not be—”
+“My dear Louisa,” said Miss Tox, “will it be the least satisfaction to
+you, if I venture to observe in reference to that remark, that I, as a
+humble individual, think your sweet niece in every way most promising?”
 
-“Able,” said the family practitioner.
+“What do you mean, Lucretia?” returned Mrs Chick, with increased
+stateliness of manner. “To what remark of mine, my dear, do you refer?”
 
-“To make,” said Doctor Parker Peps.
+“Her being worthy of her name, my [[Love|love]],” replied Miss Tox.
 
-“That effort,” said the family practitioner.
+“If,” said Mrs Chick, with solemn patience, “I have not expressed
+myself with clearness, Lucretia, the fault of course is mine. There is,
+perhaps, no reason why I should express myself at all, except the
+intimacy that has subsisted between us, and which I very much [[Hope|hope]],
+Lucretia—confidently [[Hope|hope]]—nothing will occur to disturb. Because, why
+should I do anything else? There is no reason; it would be absurd. But
+I wish to express myself clearly, Lucretia; and therefore to go back to
+that remark, I must beg to say that it was not intended to relate to
+Florence, in any way.”
 
-“Successfully,” said they both together.
+“Indeed!” returned Miss Tox.
 
-“Then,” added Doctor Parker Peps, [[Alone|alone]] and very gravely, “a crisis
-might arise, which we should both sincerely deplore.”
+“No,” said Mrs Chick shortly and decisively.
 
-With that, they stood for a few seconds looking at the ground. Then, on
-the motion—made in dumb show—of Doctor Parker Peps, they went upstairs;
-the family practitioner opening the room door for that distinguished
-professional, and following him out, with most obsequious politeness.
+“Pardon me, my dear,” rejoined her meek friend; “but I cannot have
+understood it. I [[Fear|fear]] I am dull.”
 
-To record of Mr Dombey that he was not in his way affected by this
-intelligence, would be to do him an injustice. He was not a man of whom
-it could properly be said that he was ever startled, or shocked; but he
-certainly had a sense within him, that if his wife should sicken and
-[[Decay|decay]], he would be very sorry, and that he would find a something gone
-from among his plate and furniture, and other household possessions,
-which was [[Well|well]] worth the having, and could not be lost without sincere
-regret. Though it would be a cool, business-like, gentlemanly,
-[[Self|self]]-possessed regret, no [[Doubt|doubt]].
+Mrs Chick looked round the room and over the way; at the plants, at the
+bird, at the watering-pot, at almost everything within view, except
+Miss Tox; and finally dropping her glance upon Miss Tox, for a moment,
+on its way to the ground, said, looking meanwhile with elevated
+eyebrows at the carpet:

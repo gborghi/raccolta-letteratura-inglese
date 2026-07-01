@@ -1,5 +1,5 @@
 ---
-title: "[[Pride and Prejudice]] — Chapter 18"
+title: "Pride and Prejudice — Chapter 18"
 author: "Austen"
 unitType: chapter
 parentWork: "works/pride-and-prejudice-(austen)"

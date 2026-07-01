@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 56"
+title: "Nicholas Nickleby — Chapter 56"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -24,7 +24,7 @@ Counsels a tried Auxiliary
 The course which these adventures shape out for themselves, and
 imperatively call upon the historian to observe, now demands that they
 should revert to the point they attained previously to the commencement
-of the last chapter, when [[Ralph Nickleby]] and [[Arthur]] Gride were left
+of the last chapter, when [[Ralph Nickleby]] and [[arthur|Arthur]] Gride were left
 together in the [[house]] where [[Death|death]] had so suddenly reared his dark and
 heavy banner.
 
@@ -95,10 +95,10 @@ being disturbed. We’ll go down arm in arm.’
 ‘But you pinch me black and blue,’ urged Gride.
 
 Ralph let him go impatiently, and descending the stairs with his usual
-firm and heavy tread, got into the coach. [[Arthur]] Gride followed. After
+firm and heavy tread, got into the coach. [[arthur|Arthur]] Gride followed. After
 looking doubtfully at Ralph when the man asked where he was to drive,
 and finding that he remained silent, and expressed no wish upon the
-subject, [[Arthur]] mentioned his own [[house]], and thither they proceeded.
+subject, [[arthur|Arthur]] mentioned his own [[house]], and thither they proceeded.
 
 On their way, Ralph sat in the furthest corner with folded arms, and
 uttered not a word. With his chin sunk upon his breast, and his downcast
@@ -136,7 +136,7 @@ it) that she had fallen into a fit. This last suggestion particularly
 delighted the bystanders, who cheered it rather uproariously, and were,
 with some difficulty, deterred from dropping down the area and breaking
 open the kitchen door to ascertain the fact. Nor was this all. Rumours
-having gone abroad that [[Arthur]] was to be married that morning, very
+having gone abroad that [[arthur|Arthur]] was to be married that morning, very
 particular inquiries were made after the bride, who was held by the
 majority to be disguised in the person of Mr. [[Ralph Nickleby]], which gave
 rise to much jocose indignation at the public appearance of a bride in
@@ -146,7 +146,7 @@ and, being accommodated with a ladder, clambered over the wall of the
 back-yard--which was not a high one--and descended in safety on the
 other side.
 
-‘I am almost afraid to go in, I declare,’ said [[Arthur]], turning to Ralph
+‘I am almost afraid to go in, I declare,’ said [[arthur|Arthur]], turning to Ralph
 when they were [[Alone|alone]]. ‘Suppose she should be murdered. Lying with her
 brains knocked out by a poker, eh?’
 
@@ -171,7 +171,7 @@ they should have passed him by.
 
 From cellar to garret went the two usurers, opening every creaking door
 and looking into every deserted room. But no Peg was there. At
-last, they sat them down in the apartment which [[Arthur]] Gride usually
+last, they sat them down in the apartment which [[arthur|Arthur]] Gride usually
 inhabited, to rest after their search.
 
 ‘The hag is out, on some preparation for your wedding festivities, I
@@ -184,7 +184,7 @@ yell.
 
 ‘How now?’ said Ralph, looking sternly round.
 
-‘Robbed! robbed!’ screamed [[Arthur]] Gride.
+‘Robbed! robbed!’ screamed [[arthur|Arthur]] Gride.
 
 ‘Robbed! of money?’
 

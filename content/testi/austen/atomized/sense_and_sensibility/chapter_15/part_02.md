@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 15 (part 2)"
+title: "Sense and Sensibility — Chapter 15 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_15/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_15/part_03">part 03 ›</a></div>
 </nav>
 
+
+“Can you, indeed!”
+
+
+
+“Yes. I have explained it to myself in the most satisfactory way;—but
+
+you, Elinor, who [[Love|love]] to [[Doubt|doubt]] where you can—it will not satisfy _you_,
+
+I know; but you shall not talk _me_ out of my trust in it. I am
 
 persuaded that Mrs. [[smith|Smith]] suspects his regard for Marianne, disapproves
 
@@ -221,15 +231,3 @@ create alarm? can he be deceitful?”
 
 
 “I [[Hope|hope]] not, I believe not,” cried Elinor. “I [[Love|love]] Willoughby,
-
-sincerely [[Love|love]] him; and suspicion of his integrity cannot be more
-
-painful to yourself than to me. It has been involuntary, and I will not
-
-encourage it. I was startled, I confess, by the alteration in his
-
-manners this morning;—he did not speak like himself, and did not return
-
-your kindness with any cordiality. But all this may be explained by
-
-such a situation of his affairs as you have supposed. He had just

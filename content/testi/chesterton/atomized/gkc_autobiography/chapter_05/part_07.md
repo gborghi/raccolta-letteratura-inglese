@@ -1,5 +1,5 @@
 ---
-title: "[[GKC-Autobiography]] — Chapter 5 (part 7)"
+title: "GKC-Autobiography — Chapter 5 (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/gkc-autobiography-(chesterton)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_05/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_05/part_08">part 08 ›</a></div>
 </nav>
 
+
+At this point she received hearty, one might almost say heavy support,
+from what was probably an unexpected quarter.
+
+"No, my dear," said Mrs. Crooks in resounding tones,
+"A man doesn't want a cutlet!  What's the good of a cutlet?
+What a man wants is a good chump chop or a bit of the under-cut;
+and I'd see he got it."
 
 The other lady sighed; it was not quite what she had meant; and she
 was obviously a little alarmed to advance again against her large

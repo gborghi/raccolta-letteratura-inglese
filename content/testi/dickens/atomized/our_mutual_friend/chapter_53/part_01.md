@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 12 (part 1)"
+title: "Our Mutual Friend — Chapter 15 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,165 +10,137 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_52/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_53/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_52/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_53/part_02">part 02 ›</a></div>
 </nav>
 
 
-Chapter 12
+Chapter 15
 
-MEANING MISCHIEF
+THE GOLDEN DUSTMAN AT HIS WORST
 
 
-Up came the sun, streaming all over [[London]], and in its glorious
-impartiality even condescending to make prismatic sparkles in the
-whiskers of Mr Alfred Lammle as he sat at breakfast. In need of some
-brightening from without, was Mr Alfred Lammle, for he had the air of
-being dull enough within, and looked grievously discontented.
+The breakfast table at Mr Boffin’s was usually a very pleasant one, and
+was always presided over by Bella. As though he began each new day in
+his healthy natural character, and some waking hours were necessary to
+his relapse into the corrupting influences of his wealth, the face and
+the demeanour of the Golden Dustman were generally unclouded at that
+meal. It would have been easy to believe then, that there was no change
+in him. It was as the day went on that the clouds gathered, and the
+brightness of the morning became obscured. One might have said that the
+shadows of avarice and distrust lengthened as his own [[Shadow|shadow]] lengthened,
+and that the [[Night|night]] closed around him gradually.
 
-Mrs Alfred Lammle faced her lord. The happy pair of swindlers, with
-the comfortable tie between them that each had swindled the other, sat
-moodily observant of the tablecloth. Things looked so gloomy in the
-breakfast-room, albeit on the sunny side of Sackville Street, that any
-of the family tradespeople glancing through the blinds might have taken
-the hint to send in his account and press for it. But this, indeed, most
-of the family tradespeople had already done, without the hint.
+But, one morning long afterwards to be remembered, it was black midnight
+with the Golden Dustman when he first appeared. His altered character
+had never been so grossly marked. His bearing towards his Secretary was
+so charged with insolent distrust and arrogance, that the latter [[Rose|rose]]
+and left the table before breakfast was half done. The look he directed
+at the Secretary’s retiring figure was so cunningly malignant, that
+Bella would have sat astounded and indignant, even though he had not
+gone the length of secretly threatening Rokesmith with his clenched
+fist as he closed the door. This unlucky morning, of all mornings in the
+year, was the morning next after Mr Boffin’s interview with Mrs Lammle
+in her little carriage.
 
-‘It seems to me,’ said Mrs Lammle, ‘that you have had no money at all,
-ever since we have been married.’
+Bella looked to Mrs Boffin’s face for comment on, or explanation of,
+this stormy [[Humour|humour]] in her husband, but none was there. An anxious and
+a distressed observation of her own face was all she could read in it.
+When they were left [[Alone|alone]] together—which was not until [[Noon|noon]], for Mr
+Boffin sat long in his easy-chair, by turns jogging up and down
+the breakfast-room, clenching his fist and muttering—Bella, in
+consternation, asked her what had happened, what was wrong? ‘I am
+forbidden to speak to you about it, Bella dear; I mustn’t tell you,’
+was all the answer she could get. And still, whenever, in her [[Wonder|wonder]] and
+dismay, she raised her eyes to Mrs Boffin’s face, she saw in it the same
+anxious and distressed observation of her own.
 
-‘What seems to you,’ said Mr Lammle, ‘to have been the case, may
-possibly have been the case. It doesn’t matter.’
+Oppressed by her sense that trouble was impending, and lost in
+speculations why Mrs Boffin should look at her as if she had any part in
+it, Bella found the day long and dreary. It was far on in the afternoon
+when, she being in her own room, a servant brought her a message from Mr
+Boffin begging her to come to his.
 
-Was it the speciality of Mr and Mrs Lammle, or does it ever obtain
-with other loving couples? In these matrimonial dialogues they never
-addressed each other, but always some invisible presence that appeared
-to take a station about midway between them. Perhaps the [[skeleton]] in the
-cupboard comes out to be talked to, on such domestic occasions?
+Mrs Boffin was there, seated on a sofa, and Mr Boffin was jogging up and
+down. On seeing Bella he stopped, beckoned her to him, and drew her arm
+through his. ‘Don’t be alarmed, my dear,’ he said, gently; ‘I am not
+angry with you. Why you actually tremble! Don’t be alarmed, Bella my
+dear. I’ll see you righted.’
 
-‘I have never seen any money in the [[house]],’ said Mrs Lammle to the
-[[skeleton]], ‘except my own annuity. That I swear.’
+‘See me righted?’ thought Bella. And then repeated aloud in a tone of
+astonishment: ‘see me righted, sir?’
 
-‘You needn’t take the trouble of swearing,’ said Mr Lammle to the
-[[skeleton]]; ‘once more, it doesn’t matter. You never turned your annuity
-to so good an account.’
+‘Ay, ay!’ said Mr Boffin. ‘See you righted. Send Mr Rokesmith here, you
+sir.’
 
-‘Good an account! In what way?’ asked Mrs Lammle.
+Bella would have been lost in perplexity if there had been pause
+enough; but the servant found Mr Rokesmith near at hand, and he almost
+immediately presented himself.
 
-‘In the way of getting credit, and living [[Well|well]],’ said Mr Lammle. Perhaps
-the [[skeleton]] laughed scornfully on being intrusted with this question
-and this answer; certainly Mrs Lammle did, and Mr Lammle did.
+‘Shut the door, sir!’ said Mr Boffin. ‘I have got something to say to
+you which I fancy you’ll not be pleased to hear.’
 
-‘And what is to happen next?’ asked Mrs Lammle of the [[skeleton]].
+‘I am sorry to reply, Mr Boffin,’ returned the Secretary, as, having
+closed the door, he turned and faced him, ‘that I think that very
+likely.’
 
-‘Smash is to happen next,’ said Mr Lammle to the same authority.
+‘What do you mean?’ blustered Mr Boffin.
 
-After this, Mrs Lammle looked disdainfully at the [[skeleton]]—but without
-carrying the look on to Mr Lammle—and drooped her eyes. After that, Mr
-Lammle did exactly the same thing, and drooped HIS eyes. A servant then
-entering with toast, the [[skeleton]] retired into the closet, and shut
-itself up.
+‘I mean that it has become no novelty to me to hear from your lips what
+I would rather not hear.’
 
-‘Sophronia,’ said Mr Lammle, when the servant had withdrawn. And then,
-very much louder: ‘Sophronia!’
+‘Oh! Perhaps we shall change that,’ said Mr Boffin with a threatening
+roll of his head.
 
-‘[[Well]]?’
+‘I [[Hope|hope]] so,’ returned the Secretary. He was quiet and respectful; but
+stood, as Bella thought (and was glad to think), on his manhood too.
 
-‘Attend to me, if you please.’ He eyed her sternly until she did attend,
-and then went on. ‘I want to take counsel with you. Come, come; no more
-trifling. You know our league and covenant. We are to work together for
-our joint interest, and you are as knowing a hand as I am. We shouldn’t
-be together, if you were not. What’s to be done? We are hemmed into a
-corner. What shall we do?’
+‘Now, sir,’ said Mr Boffin, ‘look at this young lady on my arm.’
 
-‘Have you no scheme on foot that will bring in anything?’
+Bella involuntarily raising her eyes, when this sudden reference was
+made to herself, met those of Mr Rokesmith. He was pale and seemed
+agitated. Then her eyes passed on to Mrs Boffin’s, and she met the look
+again. In a flash it enlightened her, and she began to understand what
+she had done.
 
-Mr Lammle plunged into his whiskers for reflection, and came out
-hopeless: ‘No; as adventurers we are obliged to play rash games for
-chances of high winnings, and there has been a run of luck against us.’
+‘I say to you, sir,’ Mr Boffin repeated, ‘look at this young lady on my
+arm.’
 
-She was resuming, ‘Have you nothing—’ when he stopped her.
+‘I do so,’ returned the Secretary.
 
-‘We, Sophronia. We, we, we.’
+As his glance rested again on Bella for a moment, she thought there was
+reproach in it. But it is possible that the reproach was within herself.
 
-‘Have we nothing to sell?’
+‘How dare you, sir,’ said Mr Boffin, ‘tamper, unknown to me, with this
+young lady? How dare you come out of your station, and your place in my
+[[house]], to pester this young lady with your impudent addresses?’
 
-‘Deuce a bit. I have given a Jew a bill of sale on this furniture, and
-he could take it to-morrow, to-day, now. He would have taken it before
-now, I believe, but for Fledgeby.’
+‘I must decline to answer questions,’ said the Secretary, ‘that are so
+offensively asked.’
 
-‘What has Fledgeby to do with him?’
+‘You decline to answer?’ retorted Mr Boffin. ‘You decline to answer,
+do you? Then I’ll tell you what it is, Rokesmith; I’ll answer for you.
+There are two sides to this matter, and I’ll take ’em separately. The
+first side is, sheer Insolence. That’s the first side.’
 
-‘Knew him. Cautioned me against him before I got into his claws.
-Couldn’t persuade him then, in behalf of somebody else.’
+The Secretary smiled with some bitterness, as though he would have said,
+‘So I see and hear.’
 
-‘Do you mean that Fledgeby has at all softened him towards you?’
+‘It was sheer Insolence in you, I tell you,’ said Mr Boffin, ‘even to
+think of this young lady. This young lady was far above YOU. This young
+lady was no match for YOU. This young lady was lying in wait (as she was
+qualified to do) for money, and you had no money.’
 
-‘Us, Sophronia. Us, us, us.’
+Bella hung her head and seemed to shrink a little from Mr Boffin’s
+protecting arm.
 
-‘Towards us?’
+‘What are you, I should like to know,’ pursued Mr Boffin, ‘that you were
+to have the audacity to follow up this young lady? This young lady was
+looking about the market for a good bid; she wasn’t in it to be snapped
+up by fellows that had no money to lay out; nothing to buy with.’
 
-‘I mean that the Jew has not yet done what he might have done, and that
-Fledgeby takes the credit of having got him to hold his hand.’
+‘Oh, Mr Boffin! Mrs Boffin, pray say something for me!’ murmured Bella,
+disengaging her arm, and covering her face with her hands.
 
-‘Do you believe Fledgeby?’
-
-‘Sophronia, I never believe anybody. I never have, my dear, since I
-believed you. But it looks like it.’
-
-Having given her this back-handed reminder of her mutinous observations
-to the [[skeleton]], Mr Lammle [[Rose|rose]] from table—perhaps, the better to
-conceal a smile, and a white dint or two about his nose—and took a turn
-on the carpet and came to the hearthrug.
-
-‘If we could have packed the brute off with Georgiana;—but however;
-that’s spilled milk.’
-
-As Lammle, standing gathering up the skirts of his dressing-gown with
-his back to the [[Fire|fire]], said this, looking down at his wife, she turned
-pale and looked down at the ground. With a sense of disloyalty upon
-her, and perhaps with a sense of personal danger—for she was afraid of
-him—even afraid of his hand and afraid of his foot, though he had never
-done her violence—she hastened to put herself right in his eyes.
-
-‘If we could borrow money, Alfred—’
-
-‘Beg money, borrow money, or steal money. It would be all one to us,
-Sophronia,’ her husband struck in.
-
-‘—Then, we could weather this?’
-
-‘No [[Doubt|doubt]]. To offer another original and undeniable remark, Sophronia,
-two and two make four.’
-
-But, seeing that she was turning something in her mind, he gathered up
-the skirts of his dressing-gown again, and, tucking them under one arm,
-and collecting his ample whiskers in his other hand, kept his eye upon
-her, silently.
-
-‘It is natural, Alfred,’ she said, looking up with some timidity into
-his face, ‘to think in such an emergency of the richest people we know,
-and the simplest.’
-
-‘Just so, Sophronia.’
-
-‘The Boffins.’
-
-‘Just so, Sophronia.’
-
-‘Is there nothing to be done with them?’
-
-‘What is there to be done with them, Sophronia?’
-
-She cast about in her thoughts again, and he kept his eye upon her as
-before.
-
-‘Of course I have repeatedly thought of the Boffins, Sophronia,’ he
-resumed, after a fruitless [[Silence|silence]]; ‘but I have seen my way to nothing.
-They are [[Well|well]] guarded. That infernal Secretary stands between them
-and—people of merit.’
-
-‘If he could be got rid of?’ said she, brightening a little, after more
-casting about.
-
-‘Take [[Time|time]], Sophronia,’ observed her watchful husband, in a patronizing
-manner.
+‘Old lady,’ said Mr Boffin, anticipating his wife, ‘you hold your
+tongue. Bella, my dear, don’t you let yourself be put out. I’ll right
+you.’

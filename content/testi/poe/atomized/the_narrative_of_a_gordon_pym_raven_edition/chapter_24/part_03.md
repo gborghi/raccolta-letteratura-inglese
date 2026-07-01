@@ -14,6 +14,14 @@ tags:
 </nav>
 
 
+      and from all visible quarters of the island, making toward us
+
+      with gesticulations of extreme fury, and howling like wild
+
+      beasts. We were upon the point of turning upon our steps, and
+
+      trying to secure a retreat among the fastnesses of the rougher
+
       ground, when I discovered the bows of two canoes projecting from
 
       behind a large rock which ran out into the [[Water|water]]. Toward these we

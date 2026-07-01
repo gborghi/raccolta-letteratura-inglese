@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 33: THIRTY THREE (part 5)"
+title: "Martin Chuzzlewit — Chapter 33: THIRTY THREE (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_33_thirty_three/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_33_thirty_three/part_06">part 06 ›</a></div>
 </nav>
 
+
+Mark fought against it; but the malady fought harder, and his efforts
+were in vain.
+
+‘Floored for the present, sir,’ he said one morning, sinking back upon
+his bed; ‘but jolly!’
+
+Floored indeed, and by a heavy blow! As any one but Martin might have
+known beforehand.
+
+If Mark’s friends had been kind to Martin (and they had been very), they
+were twenty times kinder to Mark. And now it was Martin’s turn to work,
+and sit beside the bed and watch, and listen through the long, long
+nights, to every sound in the gloomy wilderness; and hear poor Mr
+Tapley, in his wandering fancy, playing at skittles in the Dragon,
+making [[Love|love]]-remonstrances to Mrs Lupin, getting his sea-legs on board
+the Screw, travelling with old [[Tom Pinch]] on English roads, and burning
+stumps of trees in Eden, all at once.
 
 But whenever Martin gave him drink or medicine, or tended him in any
 way, or came into the [[house]] returning from some drudgery without, the
@@ -104,25 +122,3 @@ left [[Home|home]] on a mad enterprise, and have failed. The only [[Hope|hope]] 
 us, the only one end for which we have now to try, is to quit this
 settlement for ever, and get back to England. Anyhow! by any means! only
 to get back there, Mark.’
-
-‘That’s all, sir,’ returned Mr Tapley, with a significant stress upon
-the words; ‘only that!’
-
-‘Now, upon this side of the [[Water|water]],’ said Martin, ‘we have but one friend
-who can help us, and that is Mr Bevan.’
-
-‘I thought of him when you was ill,’ said Mark.
-
-‘But for the [[Time|time]] that would be lost, I would even write to my
-grandfather,’ Martin went on to say, ‘and implore him for money to free
-us from this trap into which we were so cruelly decoyed. Shall I try Mr
-Bevan first?’
-
-‘He’s a very pleasant sort of a gentleman,’ said Mark. ‘I think so.’
-
-‘The few goods we brought here, and in which we spent our money, would
-produce something if sold,’ resumed Martin; ‘and whatever they realise
-shall be paid him instantly. But they can’t be sold here.’
-
-‘There’s nobody but corpses to buy ‘em,’ said Mr Tapley, shaking his
-head with a rueful air, ‘and pigs.’

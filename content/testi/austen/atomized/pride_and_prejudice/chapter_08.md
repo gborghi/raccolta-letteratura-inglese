@@ -1,5 +1,5 @@
 ---
-title: "[[Pride and Prejudice]] — Chapter 8"
+title: "Pride and Prejudice — Chapter 8"
 author: "Austen"
 unitType: chapter
 parentWork: "works/pride-and-prejudice-(austen)"
@@ -174,7 +174,7 @@ attention for her book; and, soon laying it wholly aside, she drew near
 the card-table, and stationed herself between Mr. Bingley and his eldest
 sister, to observe the game.
 
-“Is Miss Darcy much grown since the [[spring]]?” said Miss Bingley: “will
+“Is Miss Darcy much grown since the [[Spring|spring]]?” said Miss Bingley: “will
 she be as tall as I am?”
 
 “I think she will. She is now about Miss [[Elizabeth Bennet]]’s height, or

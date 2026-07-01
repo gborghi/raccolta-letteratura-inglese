@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 8 (part 4)"
+title: "Villette — Chapter 8 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -129,10 +129,3 @@ hard since I came here, yet I still speak it with far too much
 hesitation—too little accuracy to be able to command their respect I
 shall make blunders that will lay me open to the scorn of the most
 ignorant. Still I mean to give the lesson.”
-
-“They always throw over timid teachers,” said she.
-
-“I know that too, Madame; I have heard how they rebelled against and
-persecuted Miss Turner”—a poor friendless English teacher, whom Madame
-had employed, and lightly discarded; and to whose piteous [[history]] I was
-no stranger.

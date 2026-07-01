@@ -1,5 +1,5 @@
 ---
-title: "[[Berenice]] (part 3)"
+title: "Berenice (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/berenice-(poe)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/berenice/part/part_02">‹ part 02</a><span></span></div>
 </nav>
 
+
+      And at length the period of our nuptials was approaching, when,
+      upon an afternoon in the [[Winter|winter]] of the year—one of those
+      unseasonably warm, calm, and misty days which are the [[Nurse|nurse]] of
+      the beautiful Halcyon (*1),—I sat, (and sat, as I thought,
+      [[Alone|alone]],) in the inner apartment of the library. But, uplifting my
+      eyes, I saw that [[Berenice]] stood before me.
 
       Was it my own excited [[Imagination|imagination]]—or the misty influence of the
       atmosphere—or the uncertain twilight of the chamber—or the gray

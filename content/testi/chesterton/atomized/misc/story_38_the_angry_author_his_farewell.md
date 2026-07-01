@@ -1,5 +1,5 @@
 ---
-title: "[[misc]] — THE ANGRY AUTHOR: HIS FAREWELL"
+title: "misc — THE ANGRY AUTHOR: HIS FAREWELL"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -126,7 +126,7 @@ If two madmen had ever agreed they might have conquered the world.
 because some men are tall and some short, some clever and some stupid.
 At the height of the [[French Revolution]] it was noticed that Danton
 was tall and Murat short.  In the wildest popular excitement
-of [[america|America]] it is known that Rockefeller is stupid and that Bryan
+of [[America]] it is known that Rockefeller is stupid and that Bryan
 is clever.  The doctrine of human equality reposes upon this:
 That there is no man really clever who has not found that
 he is stupid.  That there is no big man who has not felt small.

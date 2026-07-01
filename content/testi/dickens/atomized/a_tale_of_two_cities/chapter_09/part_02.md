@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities — Chapter 2 (part 2)"
+title: "A Tale of Two Cities — Chapter 3 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-tale-of-two-cities-(dickens)"
@@ -10,139 +10,174 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/a-tale-of-two-cities-(dickens)">A Tale of Two Cities</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_09/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_10/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_09/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_09/part_03">part 03 ›</a></div>
 </nav>
 
 
-“What’s _he_ got to do with the case?” asked the man he had spoken with.
+The virtuous servant, Roger Cly, swore his way through the case at a
+great rate. He had taken service with the prisoner, in good [[Faith|faith]] and
+simplicity, four years ago. He had asked the prisoner, aboard the Calais
+packet, if he wanted a handy fellow, and the prisoner had engaged him.
+He had not asked the prisoner to take the handy fellow as an act of
+[[Charity|charity]]--never thought of such a thing. He began to have suspicions of
+the prisoner, and to keep an eye upon him, soon afterwards. In arranging
+his clothes, while travelling, he had seen similar lists to these in the
+prisoner’s pockets, over and over again. He had taken these lists from
+the drawer of the prisoner’s desk. He had not put them there first. He
+had seen the prisoner show these identical lists to French gentlemen
+at Calais, and similar lists to French gentlemen, both at Calais and
+Boulogne. He loved his country, and couldn’t bear it, and had given
+information. He had never been suspected of stealing a silver tea-pot;
+he had been maligned respecting a mustard-pot, but it turned out to be
+only a plated one. He had known the last witness seven or eight years;
+that was merely a coincidence. He didn’t call it a particularly curious
+coincidence; most coincidences were curious. Neither did he call it a
+curious coincidence that true patriotism was _his_ only motive too. He
+was a true Briton, and hoped there were many like him.
 
-“Blest if I know,” said Jerry.
+The blue-flies buzzed again, and Mr. Attorney-General called Mr. Jarvis
+Lorry.
 
-“What have _you_ got to do with it, then, if a person may inquire?”
+“Mr. [[Jarvis Lorry]], are you a clerk in Tellson’s bank?”
 
-“Blest if I know that either,” said Jerry.
+“I am.”
 
-The entrance of the Judge, and a consequent great stir and settling
-down in the [[Court|court]], stopped the dialogue. Presently, the dock became the
-central point of interest. Two gaolers, who had been standing there,
-went out, and the prisoner was brought in, and put to the bar.
+“On a certain Friday [[Night|night]] in November one thousand seven hundred and
+seventy-five, did business occasion you to travel between [[London]] and
+Dover by the mail?”
 
-Everybody present, except the one wigged gentleman who looked at the
-ceiling, stared at him. All the human breath in the place, rolled
-at him, like a sea, or a [[Wind|wind]], or a [[Fire|fire]]. Eager faces strained round
-pillars and corners, to get a sight of him; spectators in back rows
-stood up, not to miss a hair of him; people on the floor of the [[Court|court]],
-laid their hands on the shoulders of the people before them, to help
-themselves, at anybody’s cost, to a view of him--stood a-tiptoe, got
-upon ledges, stood upon next to nothing, to see every inch of him.
-Conspicuous among these latter, like an animated bit of the spiked wall
-of Newgate, Jerry stood: aiming at the prisoner the beery breath of a
-whet he had taken as he came along, and discharging it to mingle with
-the waves of other beer, and gin, and tea, and coffee, and what not,
-that flowed at him, and already broke upon the great windows behind him
-in an impure mist and rain.
+“It did.”
 
-The object of all this staring and blaring, was a young man of about
-five-and-twenty, [[Well|well]]-grown and [[Well|well]]-looking, with a sunburnt cheek and
-a dark eye. His condition was that of a young gentleman. He was plainly
-dressed in black, or very dark grey, and his hair, which was long and
-dark, was gathered in a ribbon at the back of his neck; more to be out
-of his way than for ornament. As an emotion of the mind will express
-itself through any covering of the [[Body|body]], so the paleness which his
-situation engendered came through the brown upon his cheek, showing the
-[[Soul|soul]] to be stronger than the sun. He was otherwise quite [[Self|self]]-possessed,
-bowed to the Judge, and stood quiet.
+“Were there any other passengers in the mail?”
 
-The sort of interest with which this man was stared and breathed at,
-was not a sort that elevated humanity. Had he stood in peril of a less
-horrible sentence--had there been a chance of any one of its savage
-details being spared--by just so much would he have lost in his
-fascination. The form that was to be doomed to be so shamefully mangled,
-was the sight; the immortal creature that was to be so butchered
-and torn asunder, yielded the sensation. Whatever gloss the various
-spectators put upon the interest, according to their several arts and
-powers of [[Self|self]]-deceit, the interest was, at the root of it, Ogreish.
+“Two.”
 
-[[Silence]] in the [[Court|court]]! [[Charles Darnay]] had yesterday pleaded Not Guilty to
-an indictment denouncing him (with infinite jingle and jangle) for that
-he was a false traitor to our serene, illustrious, excellent, and so
-forth, prince, our Lord the [[King]], by reason of his having, on divers
-occasions, and by divers means and ways, assisted Lewis, the French
-[[King]], in his wars against our said serene, illustrious, excellent, and
-so forth; that was to say, by coming and going, between the dominions of
-our said serene, illustrious, excellent, and so forth, and those of the
-said French Lewis, and wickedly, falsely, traitorously, and otherwise
-evil-adverbiously, revealing to the said French Lewis what forces our
-said serene, illustrious, excellent, and so forth, had in preparation
-to send to Canada and North [[America]]. This much, Jerry, with his head
-becoming more and more spiky as the law terms bristled it, made out with
-huge satisfaction, and so arrived circuitously at the understanding that
-the aforesaid, and over and over again aforesaid, [[Charles Darnay]], stood
-there before him upon his trial; that the jury were swearing in; and
-that Mr. Attorney-General was making ready to speak.
+“Did they alight on the [[Road|road]] in the course of the [[Night|night]]?”
 
-The accused, who was (and who knew he was) being mentally hanged,
-beheaded, and quartered, by everybody there, neither flinched from
-the situation, nor assumed any theatrical air in it. He was quiet and
-attentive; watched the opening proceedings with a [[Grave|grave]] interest;
-and stood with his hands resting on the slab of wood before him, so
-composedly, that they had not displaced a leaf of the herbs with which
-it was strewn. The [[Court|court]] was all bestrewn with herbs and sprinkled with
-vinegar, as a precaution against gaol air and gaol fever.
+“They did.”
 
-Over the prisoner’s head there was a [[Mirror|mirror]], to throw the light down
-upon him. Crowds of the wicked and the wretched had been reflected in
-it, and had passed from its surface and this earth’s together. Haunted
-in a most ghastly manner that abominable place would have been, if the
-glass could ever have rendered back its reflections, as the ocean is one
-day to give up its dead. Some passing thought of the infamy and disgrace
-for which it had been reserved, may have struck the prisoner’s mind. Be
-that as it may, a change in his position making him conscious of a bar
-of light across his face, he looked up; and when he saw the glass his
-face flushed, and his right hand pushed the herbs away.
+“Mr. Lorry, look upon the prisoner. Was he one of those two passengers?”
 
-It happened, that the action turned his face to that side of the [[Court|court]]
-which was on his left. About on a level with his eyes, there sat,
-in that corner of the Judge’s bench, two persons upon whom his look
-immediately rested; so immediately, and so much to the changing of his
-aspect, that all the eyes that were turned upon him, turned to them.
+“I cannot undertake to say that he was.”
 
-The spectators saw in the two figures, a young lady of little more than
-twenty, and a gentleman who was evidently her father; a man of a very
-remarkable appearance in respect of the absolute whiteness of his hair,
-and a certain indescribable intensity of face: not of an active kind,
-but pondering and [[Self|self]]-communing. When this expression was upon him, he
-looked as if he were old; but when it was stirred and broken up--as
-it was now, in a moment, on his speaking to his daughter--he became a
-handsome man, not past the prime of life.
+“Does he resemble either of these two passengers?”
 
-His daughter had one of her hands drawn through his arm, as she sat by
-him, and the other pressed upon it. She had drawn close to him, in her
-dread of the scene, and in her pity for the prisoner. Her forehead had
-been strikingly expressive of an engrossing terror and compassion
-that saw nothing but the peril of the accused. This had been so very
-noticeable, so very powerfully and naturally shown, that starers who
-had had no pity for him were touched by her; and the whisper went about,
-“Who are they?”
+“Both were so wrapped up, and the [[Night|night]] was so dark, and we were all so
+reserved, that I cannot undertake to say even that.”
 
-Jerry, the messenger, who had made his own observations, in his own
-manner, and who had been sucking the rust off his fingers in his
-absorption, stretched his neck to hear who they were. The crowd about
-him had pressed and passed the inquiry on to the nearest attendant, and
-from him it had been more slowly pressed and passed back; at last it got
-to Jerry:
+“Mr. Lorry, look again upon the prisoner. Supposing him wrapped up as
+those two passengers were, is there anything in his bulk and stature to
+render it unlikely that he was one of them?”
 
-“Witnesses.”
+“No.”
 
-“For which side?”
+“You will not swear, Mr. Lorry, that he was not one of them?”
 
-“Against.”
+“No.”
 
-“Against what side?”
+“So at least you say he may have been one of them?”
 
-“The prisoner’s.”
+“Yes. Except that I remember them both to have been--like
+myself--timorous of highwaymen, and the prisoner has not a timorous
+air.”
 
-The Judge, whose eyes had gone in the general direction, recalled them,
-leaned back in his seat, and looked steadily at the man whose life was
-in his hand, as Mr. Attorney-General [[Rose|rose]] to spin the rope, grind the
-axe, and hammer the nails into the scaffold.
+“Did you ever see a counterfeit of timidity, Mr. Lorry?”
+
+“I certainly have seen that.”
+
+“Mr. Lorry, look once more upon the prisoner. Have you seen him, to your
+certain knowledge, before?”
+
+“I have.”
+
+“When?”
+
+“I was returning from France a few days afterwards, and, at Calais, the
+prisoner came on board the packet-[[Ship|ship]] in which I returned, and made the
+voyage with me.”
+
+“At what hour did he come on board?”
+
+“At a little after midnight.”
+
+“In the dead of the [[Night|night]]. Was he the only passenger who came on board
+at that untimely hour?”
+
+“He happened to be the only one.”
+
+“Never mind about ‘happening,’ Mr. Lorry. He was the only passenger who
+came on board in the dead of the [[Night|night]]?”
+
+“He was.”
+
+“Were you travelling [[Alone|alone]], Mr. Lorry, or with any companion?”
+
+“With two companions. A gentleman and lady. They are here.”
+
+“They are here. Had you any conversation with the prisoner?”
+
+“Hardly any. The weather was stormy, and the passage long and rough, and
+I lay on a sofa, almost from shore to shore.”
+
+“Miss Manette!”
+
+The young lady, to whom all eyes had been turned before, and were now
+turned again, stood up where she had sat. Her father [[Rose|rose]] with her, and
+kept her hand drawn through his arm.
+
+“Miss Manette, look upon the prisoner.”
+
+To be confronted with such pity, and such earnest youth and [[Beauty|beauty]], was
+far more trying to the accused than to be confronted with all the crowd.
+Standing, as it were, apart with her on the edge of his [[Grave|grave]], not all
+the staring curiosity that looked on, could, for the moment, nerve him
+to remain quite still. His hurried right hand parcelled out the herbs
+before him into imaginary beds of [[Flowers|flowers]] in a [[Garden|garden]]; and his efforts
+to control and steady his breathing shook the lips from which the colour
+rushed to his heart. The buzz of the great flies was loud again.
+
+“Miss Manette, have you seen the prisoner before?”
+
+“Yes, sir.”
+
+“Where?”
+
+“On board of the packet-[[Ship|ship]] just now referred to, sir, and on the same
+occasion.”
+
+“You are the young lady just now referred to?”
+
+“O! most unhappily, I am!”
+
+The plaintive tone of her compassion merged into the less musical voice
+of the Judge, as he said something fiercely: “Answer the questions put
+to you, and make no remark upon them.”
+
+“Miss Manette, had you any conversation with the prisoner on that
+passage across the Channel?”
+
+“Yes, sir.”
+
+“Recall it.”
+
+In the midst of a profound stillness, she faintly began: “When the
+gentleman came on board--”
+
+“Do you mean the prisoner?” inquired the Judge, knitting his brows.
+
+“Yes, my Lord.”
+
+“Then say the prisoner.”
+
+“When the prisoner came on board, he noticed that my father,” turning
+her eyes lovingly to him as he stood beside her, “was much fatigued
+and in a very weak state of health. My father was so reduced that I was
+afraid to take him out of the air, and I had made a bed for him on the
+deck near the cabin steps, and I sat on the deck at his side to take
+care of him. There were no other passengers that [[Night|night]], but we four.
+The prisoner was so good as to beg permission to advise me how I could
+shelter my father from the [[Wind|wind]] and weather, better than I had done. I
+had not known how to do it [[Well|well]], not understanding how the [[Wind|wind]] would
+set when we were out of the harbour. He did it for me. He expressed
+great gentleness and kindness for my father’s state, and I am sure he
+felt it. That was the manner of our beginning to speak together.”

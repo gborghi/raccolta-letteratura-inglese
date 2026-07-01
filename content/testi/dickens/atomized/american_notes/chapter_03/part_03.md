@@ -14,6 +14,22 @@ tags:
 </nav>
 
 
+There I remained until I got better: [[Suffering|suffering]], whenever I was
+recommended to eat anything, an amount of anguish only second to that
+which is said to be endured by the apparently drowned, in the process of
+restoration to life.  One gentleman on board had a letter of introduction
+to me from a mutual friend in [[London]].  He sent it below with his card, on
+the morning of the head-[[Wind|wind]]; and I was long troubled with the idea that
+he might be up, and [[Well|well]], and a hundred times a day expecting me to call
+upon him in the saloon.  I imagined him one of those cast-iron images—I
+will not call them men—who ask, with red faces, and lusty voices, what
+sea-sickness means, and whether it really is as bad as it is represented
+to be.  This was very torturing indeed; and I don’t think I ever felt
+such perfect gratification and gratitude of heart, as I did when I heard
+from the [[Ship|ship]]’s doctor that he had been obliged to put a large mustard
+poultice on this very gentleman’s stomach.  I date my recovery from the
+receipt of that intelligence.
+
 It was materially assisted though, I have no [[Doubt|doubt]], by a heavy gale of
 [[Wind|wind]], which came slowly up at sunset, when we were about ten days out,
 and raged with gradually increasing fury until morning, saving that it
@@ -97,22 +113,3 @@ and they whirled and dashed their spray about the decks at random.
 Chimney, white with crusted salt; topmasts struck; [[Storm|storm]]-sails set;
 rigging all knotted, tangled, wet, and drooping: a gloomier picture it
 would be hard to look upon.
-
-I was now comfortably established by courtesy in the ladies’ cabin,
-where, besides ourselves, there were only four other passengers.  First,
-the little Scotch lady before mentioned, on her way to join her husband
-at [[New York]], who had settled there three years before.  Secondly and
-thirdly, an honest young Yorkshireman, connected with some American
-[[house]]; domiciled in that same [[City|city]], and carrying thither his beautiful
-young wife to whom he had been married but a fortnight, and who was the
-fairest specimen of a comely English country girl I have ever seen.
-Fourthly, fifthly, and lastly, another couple: newly married too, if one
-might judge from the endearments they frequently interchanged: of whom I
-know no more than that they were rather a mysterious, run-away kind of
-couple; that the lady had great personal attractions also; and that the
-gentleman carried more guns with him than Robinson Crusoe, wore a
-shooting-coat, and had two great [[dogs]] on board.  On further
-consideration, I remember that he tried hot roast pig and bottled ale as
-a cure for sea-sickness; and that he took these remedies (usually in bed)
-day after day, with astonishing perseverance.  I may add, for the
-information of the curious, that they decidedly failed.

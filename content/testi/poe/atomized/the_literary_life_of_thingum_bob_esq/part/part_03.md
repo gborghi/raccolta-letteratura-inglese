@@ -1,5 +1,5 @@
 ---
-title: "[[The Literary Life of Thingum Bob, Esq]] (part 3)"
+title: "The Literary Life of Thingum Bob, Esq (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-literary-life-of-thingum-bob,-esq-(poe)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_literary_life_of_thingum_bob_esq/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/the_literary_life_of_thingum_bob_esq/part/part_04">part 04 ›</a></div>
 </nav>
 
+
+      ‘_holy light_’ We always regarded it as _frozen rain_. Will he
+
+      inform us, also, how frozen rain can be, at one and the same
+
+      [[Time|time]], both ‘holy light,’ (whatever that is,) and an
+
+      ‘offspring?’—which latter term, (if we understand any thing about
 
       English,) is only employed, with propriety, in reference to small
 
@@ -209,15 +217,3 @@ tags:
       inexperience. Begging me to be seated, he entered at once upon
 
       the subject of my poem;—but modesty will ever forbid me to repeat
-
-      the thousand compliments which he lavished upon me. The eulogies
-
-      of Mr. Crab, (such was the editor’s name,) were, however, by no
-
-      means fulsomely indiscriminate. He analyzed my composition with
-
-      much [[Freedom|freedom]] and great ability—not hesitating to point out a few
-
-      trivial defects—a circumstance which elevated him highly in my
-
-      esteem. The “Gad-Fly” was, of course, brought upon the _tapis_,

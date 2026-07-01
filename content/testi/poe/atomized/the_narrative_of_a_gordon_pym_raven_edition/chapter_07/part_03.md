@@ -14,6 +14,18 @@ tags:
 </nav>
 
 
+      spasms after drinking some spirits and [[Water|water]]. Peters had
+
+      expressed to us his opinion that this man had been poisoned by
+
+      the mate, and for this belief he had reasons, so he said, which
+
+      were incontrovertible, but which he could not be prevailed upon
+
+      to explain to us—this wayward refusal being only in keeping with
+
+      other points of his singular character. But whether or not he had
+
       any better grounds for suspecting the mate than we had ourselves,
 
       we were easily led to fall in with his suspicion, and determined

@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 28 (part 2)"
+title: "Nicholas Nickleby — Chapter 28 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -154,7 +154,3 @@ that Mrs. Wititterly’s profile reminds you of?’
 
 ‘Who do you mean?’ said Pluck, in the same mysterious manner. ‘The D. of
 B.?’
-
-‘The C. of B.,’ replied Pyke, with the faintest trace of a grin
-lingering in his countenance. ‘The beautiful sister is the countess; not
-the duchess.’

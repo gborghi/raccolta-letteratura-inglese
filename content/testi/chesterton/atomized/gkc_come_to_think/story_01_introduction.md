@@ -17,7 +17,7 @@ tags:
 Introduction
 
 MOST of the essays printed here are republished by the kind
-permission of the Illustrated [[London]] News; and Mr. J. P. de Fonseka,
+permission of the Illustrated London News; and Mr. J. P. de Fonseka,
 who was kind enough to select and arrange them for me, reminds me
 of the coincidence that I began writing the `Note-Book' in that paper
 exactly twenty-five years ago.  I may thus be said to celebrate a sort
@@ -124,7 +124,5 @@ in the matter; and in such a place, and on so slight an occasion,
 the most conclusive thing I can do is to conclude.
 
 G. K. CHESTERTON
-
-
 
 COME TO THINK OF IT

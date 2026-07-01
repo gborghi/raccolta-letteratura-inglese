@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 2"
+title: "The Professor — Chapter 2"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-professor-(bronte)"

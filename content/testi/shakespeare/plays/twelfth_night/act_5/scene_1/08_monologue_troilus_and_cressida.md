@@ -1,5 +1,5 @@
 ---
-title: "[[Twelfth Night]] — Act V, Scene 1 — monologue ([[Troilus|TROILUS]] AND [[Cressida|CRESSIDA]]) [8]"
+title: "Twelfth Night — Act V, Scene 1 — monologue (TROILUS AND CRESSIDA) [8]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/twelfth-night-(shakespeare)"

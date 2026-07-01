@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 20 (part 3)"
+title: "The Professor — Chapter 20 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_professor/chapter_21/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/the_professor/chapter_22/part_01">part 01 ›</a></div>
 </nav>
 
+
+certain tone of feeling, fervid and modest, refined and practical, pure
+
+and powerful, delighting and troubling my [[Memory|memory]]--visions of new ties I
+
+longed to contract, of new duties I longed to undertake, had taken the
+
+rover and the [[Rebel|rebel]] out of me, and had shown [[Endurance|endurance]] of my hated lot
+
+in the light of a Spartan virtue.
+
+But Pelet’s fury subsided; a fortnight sufficed for its rise, progress,
 
 and extinction: in that space of [[Time|time]] the dismissal of the obnoxious
 
@@ -62,8 +74,6 @@ husbands of his acquaintance; I perceived it would not now be difficult
 
 to pay him back in his own coin.
 
-
-
 The crisis drew on. No sooner had the holidays commenced than note of
 
 preparation for some momentous event sounded all through the premises
@@ -83,8 +93,6 @@ use, I concluded, in common with the cook, the two housemaids, and the
 kitchen-scullion, that a new and more juvenile Madame was destined to be
 
 the tenant of these gay chambers.
-
-
 
 Presently official announcement of the coming event was put forth. In
 
@@ -126,8 +134,6 @@ Opportunity would be too strong for either of these--[[Temptation]] would
 
 shiver their restraints.
 
-
-
 I was no pope--I could not boast infallibility: in short, if I stayed,
 
 the probability was that, in three months’ [[Time|time]], a practical modern
@@ -163,8 +169,6 @@ unlawful pleasure, trenching on another’s rights, is delusive and
 envenomed pleasure--its hollowness disappoints at the [[Time|time]], its [[Poison|poison]]
 
 cruelly tortures afterwards, its effects deprave for ever.
-
-
 
 From all this resulted the conclusion that I must leave Pelet’s, and
 

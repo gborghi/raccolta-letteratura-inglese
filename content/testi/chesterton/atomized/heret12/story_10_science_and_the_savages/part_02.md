@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]] — Science and the Savages (part 2)"
+title: "heret12 — Science and the Savages (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/heret12-(chesterton)"
@@ -91,7 +91,7 @@ Such a story, for instance, is that of a great man having
 his strength swayed or thwarted by the mysterious weakness
 of a woman.  The anecdotal story, the story of William Tell,
 is as I have said, popular, because it is peculiar.
-But this kind of story, the story of Samson and Delilah, of [[Arthur]]
+But this kind of story, the story of Samson and Delilah, of [[arthur|Arthur]]
 and Guinevere, is obviously popular because it is not peculiar.
 It is popular as good, quiet fiction is popular, because it
 tells the [[Truth|truth]] about people.  If the ruin of Samson by a woman,

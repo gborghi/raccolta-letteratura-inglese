@@ -18,7 +18,6 @@ CHAPTER VIII
 
 THE [[philosophy|PHILOSOPHY]] OF BROWNING
 
-
 The great fault of most of the appreciation of Browning lies in the
 fact that it conceives the moral and artistic value of his work to lie
 in what is called "the message of Browning," or "the teaching of
@@ -102,7 +101,7 @@ the ingenious machinery which he possesses inside him; the thing which
 delights him is simply the full possession of his own human [[Body|body]]. I
 cannot in the least understand why a good digestion--that is, a good
 [[Body|body]]--should not be held to be as mystic a benefit as a sunset or the
-first flower of [[Spring|spring]]. But there is about digestion this peculiarity
+first flower of [[spring]]. But there is about digestion this peculiarity
 throwing a great light on human pessimism, that it is one of the many
 things which we never speak of as existing until they go wrong. We
 should think it ridiculous to speak of a man as [[Suffering|suffering]] from his

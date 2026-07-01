@@ -1,5 +1,5 @@
 ---
-title: "[[Romeo]] and [[Juliet]] — Act I, Scene 4 — exchange ([[Romeo|ROMEO]]) [3]"
+title: "Romeo and Juliet — Act I, Scene 4 — exchange (ROMEO) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/romeo-and-juliet-(shakespeare)"

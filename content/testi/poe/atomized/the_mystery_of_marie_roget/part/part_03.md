@@ -1,5 +1,5 @@
 ---
-title: "[[The Mystery of Marie Roget]] (part 3)"
+title: "The Mystery of Marie Roget (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-mystery-of-marie-roget-(poe)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_mystery_of_marie_roget/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/the_mystery_of_marie_roget/part/part_04">part 04 ›</a></div>
 </nav>
 
+
+      liberty to disclose, but which has no bearing upon the proper
+
+      subject of my narrative.
+
+
+
+      The compliment my friend rebutted as best he could, but the
+
+      proposition he accepted at once, although its advantages were
 
       altogether provisional. This point being settled, the Prefect
 
@@ -189,17 +199,3 @@ tags:
       muslin slip and the slip of lace, the strings of a bonnet were
 
       attached; the bonnet being appended. The knot by which the
-
-      strings of the bonnet were fastened, was not a lady’s, but a slip
-
-      or sailor’s knot.
-
-
-
-      After the recognition of the corpse, it was not, as usual, taken
-
-      to the Morgue, (this formality being superfluous,) but hastily
-
-      interred not far from the spot at which it was brought ashore.
-
-      Through the exertions of Beauvais, the matter was industriously

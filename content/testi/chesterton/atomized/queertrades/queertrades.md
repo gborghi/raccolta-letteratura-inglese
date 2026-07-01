@@ -1,5 +1,5 @@
 ---
-title: "[[queertrades]]"
+title: "queertrades"
 author: "Chesterton"
 unitType: work
 parentWork: "works/queertrades-(chesterton)"
@@ -24,7 +24,7 @@ Chapter 1
 The Tremendous Adventures of Major Brown
 
 Rabelais, or his wild illustrator Gustave Dore, must have had something to
-do with the designing of the things called flats in England and [[America]].
+do with the designing of the things called flats in England and [[america|America]].
 There is something entirely Gargantuan in the idea of economising
 space by piling houses on top of each other, front doors and all.
 And in the chaos and complexity of those perpendicular streets
@@ -4794,7 +4794,7 @@ before he knew clearly that his head had struck the floor.
 Then Basil sprang at Greenwood, whom Rupert was struggling
 to hold down, and between them they secured him easily.
 The man who had hold of me let go and turned to his rescue, but I
-leaped up like a [[Spring|spring]] released, and, to my infinite satisfaction,
+leaped up like a [[spring]] released, and, to my infinite satisfaction,
 knocked the fellow down.  The other footman, bleeding at the mouth
 and quite demoralized, was stumbling out of the room.  My late captor,
 without a word, slunk after him, seeing that the battle was won.

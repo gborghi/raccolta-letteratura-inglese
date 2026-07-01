@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 50 (part 1)"
+title: "The Tenant of Wildfell Hall — Chapter 50 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -207,9 +207,3 @@ than surprised to find it did not come. Of course, I was burning with
 anger, but [[Pride|pride]] obliged me to suppress my feelings, and preserve a
 
 smooth face, or at least a stoic calmness, throughout the interview. It
-
-was [[Well|well]] it did, for, reviewing the matter in my sober judgment, I must
-
-say it would have been highly absurd and improper to have quarrelled
-
-with him on such an occasion. I must confess, too, that I wronged him

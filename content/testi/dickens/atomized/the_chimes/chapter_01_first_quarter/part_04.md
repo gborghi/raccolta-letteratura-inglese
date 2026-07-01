@@ -143,7 +143,3 @@ breaking your precious fast, nor wanting to, when—’
 
 ‘But I have broken it, father,’ interposed his daughter, laughing, ‘all
 to bits.  I have had my dinner.’
-
-‘Nonsense,’ said Trotty.  ‘Two dinners in one day!  It an’t possible!
-You might as [[Well|well]] tell me that two New Year’s Days will come together, or
-that I have had a gold head all my life, and never changed it.’

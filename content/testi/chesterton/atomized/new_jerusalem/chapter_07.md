@@ -163,7 +163,7 @@ for this is akin to what has already been said about Jerusalem as a
 knot of realities.  It is especially a knot of popular realities.
 Although it is so small a place, or rather because it is so
 small a place, it is a domain and a dominion for the masses.
-[[Democracy]] is never quite democratic except when it is quite direct;
+[[democracy|Democracy]] is never quite democratic except when it is quite direct;
 and it is never quite direct except when it is quite small.
 So soon as a mob has grown large enough to have delegates it has
 grown large enough to have despots; indeed the despots are often
@@ -249,7 +249,7 @@ It is these masses whom we ought to consider everywhere; but it
 is especially these masses whom we must consider in Jerusalem.
 And the reason is in the reality I have described; that the place
 is like a Greek [[City|city]] or a medieval parish; it is sufficiently
-small and simple to be a [[Democracy|democracy]].  This is not a university town
+small and simple to be a [[democracy]].  This is not a university town
 full of philosophies; it is a Zion of the hundred sieges raging
 with religions; not a place where resolutions can be voted and amended,
 but a place where men can be crowned and crucified.
@@ -257,8 +257,8 @@ but a place where men can be crowned and crucified.
 There is one small thing neglected in all our talk
 about [[Self|self]]-determination; and that is determination.
 There is a great deal more difference than there is between most
-motions and amendments between the things for which a [[Democracy|democracy]]
-will vote and the things on which a [[Democracy|democracy]] is determined.
+motions and amendments between the things for which a [[democracy]]
+will vote and the things on which a [[democracy]] is determined.
 You can take a vote among Jews and Christians and Moslems about whether
 lamp-posts should be painted green or portraits of politicians painted
 at all, and even their solid unanimity may be solid indifference.
@@ -275,7 +275,7 @@ parliamentary election, to vote on the other side for a change, to choose
 afresh between two middle-class gentlemen, who look exactly alike and
 only differ on a question about which nobody knows or cares anything.
 It is a question of contrasts that will almost certainly remain contrasts,
-except under the flood of some spiritual [[Conversion|conversion]] which cannot
+except under the flood of some spiritual [[conversion]] which cannot
 be foreseen and certainly cannot be enforced.  We cannot enrol
 these people under our religion, because we have not got one.
 We can enrol them under our [[government]], and if we are obliged to do that,

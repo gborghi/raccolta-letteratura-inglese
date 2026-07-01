@@ -21,11 +21,11 @@ especially when they have a suggestion of literary plagiarisms.
 I object to the parallels on many grounds; but, among others,
 on the ground that they are never parallel.  Or, if we may
 (with all respectful allowance for Mr. Einstein) put the matter
-as a mathematical [[Paradox|paradox]], we might say that the two lines of
+as a mathematical paradox, we might say that the two lines of
 thought are indeed parallel because they never manage to meet.
 In almost all the cases I come across, the resemblance between
 one passage and another, suggested by the ingenious critic,
-is really not a resemblance at all, let [[Alone|alone]] an artificial or unusual
+is really not a resemblance at all, let alone an artificial or unusual
 or suspicious resemblance.  There is no reason why two independent
 poets should not think of the same image or idea quite independently.
 Only when the critic produces it, it is not the same idea at all.
@@ -39,45 +39,45 @@ when it is examined, that it will not be identical but quite individual.
 Everybody mentions Villon to prove the platitude that a poet can
 be a thief; but I protest when they prove his literary thieving
 by quoting `Where are the snows of yesteryear?' and then giving
-a list of all the poets who had previously mentioned [[Snow|snow]].
+a list of all the poets who had previously mentioned snow.
 
-To prove that even a good poet, as [[Well|well]] as a good critic, can admit
+To prove that even a good poet, as well as a good critic, can admit
 (or at least tolerate) this error, I will venture to remonstrate
-with Mr. [[Edmund]] Blunden, who can write good poetry as [[Well|well]] as
+with Mr. Edmund Blunden, who can write good poetry as well as
 read it, upon a reading of his of the case of Keats and Horace.
 Mr. Blunden does not, indeed, fully endorse the alleged parallel;
 but he does not definitely dispute it; so that I, as very much minor poet,
 am goaded into doing it for him.  For, indeed, the example strikes
 me as very illuminating, touching the hasty and misleading character
 of these assimilations.  The suggestion is that in at least two
-phrases of the Ode to a [[Nightingale]] Keats echoes the Odes of Horace;
+phrases of the Ode to a Nightingale Keats echoes the Odes of Horace;
 which would be no very great crime; but is in fact, as it seems to me,
 a crime that was never committed.  There is something about the mood
 of the critics who find comparisons, something eager and hasty
 and superficially satisfied, which prevents them, when considering
 two sayings of two poets, from really considering what the poets say.
 In this case the critic observes, `"Hungry generations" appears to be
-a powerful and majestic translation of his (Horace's) tempus edax,
-"devouring time".' Now it does not seem to me to be anything
+a powerful and majestic [[Translation|translation]] of his (Horace's) tempus edax,
+"devouring [[Time|time]]".' Now it does not seem to me to be anything
 of the kind.  Even if Keats had happened to use the expression
-`devouring [[Time|time]]', I should not have thought it necessary to
+`devouring time', I should not have thought it necessary to
 suppose that he had ever even heard of the phrase tempus edax.
-It seems to me that any [[Body|body]], at any [[Time|time]], a poet as good as Mr. Blunden
-or a poet as minor as myself, might use the phrase `devouring time'.
-We might talk about devouring time as we might talk about barking dogs;
-because dogs do bark and time does devour.  But, over and above this
+It seems to me that any body, at any time, a poet as good as Mr. Blunden
+or a poet as minor as myself, might use the phrase `devouring [[Time|time]]'.
+We might talk about devouring [[Time|time]] as we might talk about barking [[dogs]];
+because [[dogs]] do bark and [[Time|time]] does devour.  But, over and above this
 preliminary objection to parallels, there is a very particular objection
 to this parallel; that it is not, as I have said, a parallel at all.
-Keats did not mean that the hungry generations were hungry as time
+Keats did not mean that the hungry generations were hungry as [[Time|time]]
 is hungry; that they ate towers and temples and ground crowns
-and sceptres in their teeth till they were crushed to dust.
+and sceptres in their teeth till they were crushed to [[Dust|dust]].
 He meant the hunger as a human attribute; the hunger which,
 whether mystical or material, is in a sense the chief attribute
 of humanity.  The point was that so many generations had rushed
 and trampled past, all eager for their own passing needs, and left
-the nightingale still singing as it had sung in the beginning.
+the [[Nightingale|nightingale]] still singing as it had sung in the beginning.
 I do not see any real parallel between this and the idea of the dead
-destructiveness of time.  And I would bet my boots, or my books,
+destructiveness of [[Time|time]].  And I would bet my boots, or my books,
 or whatever may be the more appropriate wager, that Keats never
 thought of any such parallel at all; and certainly had no need
 to look up an old Latin poet for the idea.

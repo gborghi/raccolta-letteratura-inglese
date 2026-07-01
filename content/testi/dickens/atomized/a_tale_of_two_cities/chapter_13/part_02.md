@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities — Chapter 6 (part 2)"
+title: "A Tale of Two Cities — Chapter 7 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-tale-of-two-cities-(dickens)"
@@ -14,155 +14,105 @@ tags:
 </nav>
 
 
-It proceeded from [[Miss Pross]], the wild red woman, strong of hand, whose
-acquaintance he had first made at the Royal George Hotel at Dover, and
-had since improved.
+The leprosy of unreality disfigured every human creature in attendance
+upon Monseigneur. In the outermost room were half a dozen exceptional
+people who had had, for a few years, some vague misgiving in them that
+things in general were going rather wrong. As a promising way of setting
+them right, half of the half-dozen had become members of a fantastic
+sect of Convulsionists, and were even then considering within themselves
+whether they should foam, rage, roar, and turn cataleptic on the
+spot--thereby setting up a highly intelligible finger-post to the
+Future, for Monseigneur’s guidance. Besides these Dervishes, were other
+three who had rushed into another sect, which mended matters with a
+jargon about “the Centre of [[Truth]]:” holding that Man had got out of the
+Centre of [[Truth]]--which did not need much demonstration--but had not got
+out of the Circumference, and that he was to be kept from flying out of
+the Circumference, and was even to be shoved back into the Centre,
+by fasting and seeing of spirits. Among these, accordingly, much
+discoursing with spirits went on--and it did a world of good which never
+became manifest.
 
-“I should have thought--” Mr. Lorry began.
+But, the comfort was, that all the company at the grand hotel of
+Monseigneur were perfectly dressed. If the Day of Judgment had only been
+ascertained to be a dress day, everybody there would have been eternally
+correct. Such frizzling and powdering and sticking up of hair, such
+delicate complexions artificially preserved and mended, such gallant
+swords to look at, and such delicate [[Honour|honour]] to the sense of smell, would
+surely keep anything going, for ever and ever. The exquisite gentlemen
+of the finest breeding wore little pendent trinkets that chinked as they
+languidly moved; these golden fetters rang like precious little [[Bells|bells]];
+and what with that ringing, and with the rustle of silk and brocade and
+fine linen, there was a flutter in the air that fanned Saint Antoine and
+his devouring hunger far away.
 
-“Pooh! You’d have thought!” said [[Miss Pross]]; and Mr. Lorry left off.
+Dress was the one unfailing talisman and charm used for keeping all
+things in their places. Everybody was dressed for a Fancy Ball that
+was never to leave off. From the Palace of the Tuileries, through
+Monseigneur and the whole [[Court]], through the Chambers, the Tribunals
+of Justice, and all society (except the scarecrows), the Fancy Ball
+descended to the Common Executioner: who, in pursuance of the charm, was
+required to officiate “frizzled, powdered, in a gold-laced coat, pumps,
+and white silk stockings.” At the gallows and the [[Wheel|wheel]]--the axe was a
+rarity--Monsieur [[Paris]], as it was the episcopal mode among his brother
+Professors of the provinces, Monsieur Orleans, and the rest, to call
+him, presided in this dainty dress. And who among the company at
+Monseigneur’s reception in that seventeen hundred and eightieth year
+of our Lord, could possibly [[Doubt|doubt]], that a system rooted in a frizzled
+hangman, powdered, gold-laced, pumped, and white-silk stockinged, would
+see the very [[Stars|stars]] out!
 
-“How do you do?” inquired that lady then--sharply, and yet as if to
-express that she bore him no malice.
+Monseigneur having eased his four men of their burdens and taken his
+chocolate, caused the doors of the Holiest of Holiests to be thrown
+open, and issued forth. Then, what submission, what cringing and
+fawning, what servility, what abject humiliation! As to bowing down in
+[[Body|body]] and spirit, nothing in that way was left for Heaven--which may have
+been one among other reasons why the worshippers of Monseigneur never
+troubled it.
 
-“I am pretty [[Well|well]], I thank you,” answered Mr. Lorry, with meekness; “how
-are you?”
+Bestowing a word of promise here and a smile there, a whisper on one
+happy slave and a wave of the hand on another, Monseigneur affably
+passed through his rooms to the remote region of the Circumference of
+[[Truth]]. There, Monseigneur turned, and came back again, and so in due
+course of [[Time|time]] got himself shut up in his sanctuary by the chocolate
+sprites, and was seen no more.
 
-“Nothing to boast of,” said [[Miss Pross]].
+The show being over, the flutter in the air became quite a little [[Storm|storm]],
+and the precious little [[Bells|bells]] went ringing downstairs. There was soon
+but one person left of all the crowd, and he, with his hat under his arm
+and his snuff-box in his hand, slowly passed among the mirrors on his
+way out.
 
-“Indeed?”
+“I devote you,” said this person, stopping at the last door on his way,
+and turning in the direction of the sanctuary, “to the Devil!”
 
-“Ah! indeed!” said [[Miss Pross]]. “I am very much put out about my
-Ladybird.”
+With that, he shook the snuff from his fingers as if he had shaken the
+[[Dust|dust]] from his feet, and quietly walked downstairs.
 
-“Indeed?”
+He was a man of about sixty, handsomely dressed, haughty in manner, and
+with a face like a fine mask. A face of a transparent paleness; every
+feature in it clearly defined; one set expression on it. The nose,
+beautifully formed otherwise, was very slightly pinched at the top
+of each nostril. In those two compressions, or dints, the only little
+change that the face ever showed, resided. They persisted in changing
+colour sometimes, and they would be occasionally dilated and contracted
+by something like a faint pulsation; then, they gave a look of
+treachery, and cruelty, to the whole countenance. Examined with
+attention, its capacity of helping such a look was to be found in the
+line of the mouth, and the lines of the orbits of the eyes, being much
+too horizontal and thin; still, in the effect of the face made, it was a
+handsome face, and a remarkable one.
 
-“For gracious sake say something else besides ‘indeed,’ or you’ll
-fidget me to [[Death|death]],” said [[Miss Pross]]: whose character (dissociated from
-stature) was shortness.
-
-“Really, then?” said Mr. Lorry, as an amendment.
-
-“Really, is bad enough,” returned [[Miss Pross]], “but better. Yes, I am
-very much put out.”
-
-“May I ask the cause?”
-
-“I don’t want dozens of people who are not at all worthy of Ladybird, to
-come here looking after her,” said [[Miss Pross]].
-
-“_Do_ dozens come for that purpose?”
-
-“Hundreds,” said [[Miss Pross]].
-
-It was characteristic of this lady (as of some other people before her
-[[Time|time]] and since) that whenever her original proposition was questioned,
-she exaggerated it.
-
-“Dear me!” said Mr. Lorry, as the safest remark he could think of.
-
-“I have lived with the darling--or the darling has lived with me, and
-paid me for it; which she certainly should never have done, you may take
-your affidavit, if I could have afforded to keep either myself or her
-for nothing--since she was ten years old. And it’s really very hard,”
- said [[Miss Pross]].
-
-Not seeing with precision what was very hard, Mr. Lorry shook his head;
-using that important part of himself as a sort of fairy cloak that would
-fit anything.
-
-“All sorts of people who are not in the least degree worthy of the pet,
-are always turning up,” said [[Miss Pross]]. “When you began it--”
-
-“_I_ began it, [[Miss Pross]]?”
-
-“Didn’t you? Who brought her father to life?”
-
-“Oh! If _that_ was beginning it--” said Mr. Lorry.
-
-“It wasn’t ending it, I suppose? I say, when you began it, it was hard
-enough; not that I have any fault to find with [[Doctor Manette]], except
-that he is not worthy of such a daughter, which is no imputation on
-him, for it was not to be expected that anybody should be, under any
-circumstances. But it really is doubly and trebly hard to have crowds
-and multitudes of people turning up after him (I could have forgiven
-him), to take Ladybird’s affections away from me.”
-
-Mr. Lorry knew [[Miss Pross]] to be very jealous, but he also knew her by
-this [[Time|time]] to be, beneath the service of her eccentricity, one of those
-unselfish creatures--found only among women--who will, for pure [[Love|love]] and
-admiration, bind themselves willing slaves, to youth when they have lost
-it, to [[Beauty|beauty]] that they never had, to accomplishments that they were
-never fortunate enough to gain, to bright hopes that never shone upon
-their own sombre lives. He knew enough of the world to know that there
-is nothing in it better than the faithful service of the heart; so
-rendered and so free from any mercenary taint, he had such an exalted
-respect for it, that in the retributive arrangements made by his own
-mind--we all make such arrangements, more or less--he stationed Miss
-Pross much nearer to the lower Angels than many ladies immeasurably
-better got up both by [[Nature]] and Art, who had balances at Tellson’s.
-
-“There never was, nor will be, but one man worthy of Ladybird,” said
-[[Miss Pross]]; “and that was my brother Solomon, if he hadn’t made a
-mistake in life.”
-
-Here again: Mr. Lorry’s inquiries into [[Miss Pross]]’s personal [[history]] had
-established the fact that her brother Solomon was a heartless scoundrel
-who had stripped her of everything she possessed, as a stake to
-speculate with, and had abandoned her in her [[Poverty|poverty]] for evermore, with
-no touch of compunction. [[Miss Pross]]’s fidelity of belief in Solomon
-(deducting a mere trifle for this slight mistake) was quite a serious
-matter with Mr. Lorry, and had its weight in his good opinion of her.
-
-“As we happen to be [[Alone|alone]] for the moment, and are both people of
-business,” he said, when they had got back to the drawing-room and had
-sat down there in friendly relations, “let me ask you--does the Doctor,
-in talking with Lucie, never refer to the shoemaking [[Time|time]], yet?”
-
-“Never.”
-
-“And yet keeps that bench and those tools beside him?”
-
-“Ah!” returned [[Miss Pross]], shaking her head. “But I don’t say he don’t
-refer to it within himself.”
-
-“Do you believe that he thinks of it much?”
-
-“I do,” said [[Miss Pross]].
-
-“Do you imagine--” Mr. Lorry had begun, when [[Miss Pross]] took him up
-short with:
-
-“Never imagine anything. Have no [[Imagination|imagination]] at all.”
-
-“I stand corrected; do you suppose--you go so far as to suppose,
-sometimes?”
-
-“Now and then,” said [[Miss Pross]].
-
-“Do you suppose,” Mr. Lorry went on, with a laughing twinkle in his
-bright eye, as it looked kindly at her, “that [[Doctor Manette]] has any
-theory of his own, preserved through all those years, relative to
-the cause of his being so oppressed; perhaps, even to the name of his
-oppressor?”
-
-“I don’t suppose anything about it but what Ladybird tells me.”
-
-“And that is--?”
-
-“That she thinks he has.”
-
-“Now don’t be angry at my asking all these questions; because I am a
-mere dull man of business, and you are a woman of business.”
-
-“Dull?” [[Miss Pross]] inquired, with placidity.
-
-Rather wishing his modest adjective away, Mr. Lorry replied, “No, no,
-no. Surely not. To return to business:--Is it not remarkable that Doctor
-Manette, unquestionably [[Innocent|innocent]] of any crime as we are all [[Well|well]] assured
-he is, should never touch upon that question? I will not say with me,
-though he had business relations with me many years ago, and we are now
-intimate; I will say with the fair daughter to whom he is so devotedly
-attached, and who is so devotedly attached to him? Believe me, Miss
-Pross, I don’t approach the topic with you, out of curiosity, but out of
-zealous interest.”
+Its owner went downstairs into the courtyard, got into his carriage, and
+drove away. Not many people had talked with him at the reception; he had
+stood in a little space apart, and Monseigneur might have been warmer
+in his manner. It appeared, under the circumstances, rather agreeable
+to him to see the common people dispersed before his horses, and
+often barely escaping from being run down. His man drove as if he were
+charging an enemy, and the furious recklessness of the man brought no
+check into the face, or to the lips, of the master. The complaint had
+sometimes made itself audible, even in that deaf [[City|city]] and dumb age,
+that, in the narrow streets without footways, the fierce patrician
+custom of hard driving endangered and maimed the mere vulgar in a
+barbarous manner. But, few cared enough for that to think of it a second
+[[Time|time]], and, in this matter, as in all others, the common wretches were
+left to get out of their difficulties as they could.

@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 9 (part 1)"
+title: "Great Expectations — Chapter 9 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -150,6 +150,3 @@ been there, I have been took up to the outside of her door, and the
 door has stood ajar, and she has spoke to me that way. Don’t say you
 don’t know _that_, Mum. Howsever, the boy went there to play. What did
 you play at, boy?”
-
-“We played with flags,” I said. (I beg to observe that I think of
-myself with amazement, when I recall the lies I told on this occasion.)

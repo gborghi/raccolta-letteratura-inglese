@@ -18,7 +18,6 @@ CHAPTER VII
 
 _THE RING AND THE BOOK_
 
-
 When we have once realised the great conception of the plan of _The
 Ring and the Book_, the studying of a single matter from nine
 different stand-points, it becomes exceedingly interesting to notice
@@ -363,7 +362,7 @@ was no way to frustrate them, except by overthrowing the cold and
 priggish and incapable egotist who ruled the country, and the whole
 artificial and bombastic schemes which bred these moral evils. It
 might be that in spite of this new view of the case, it would
-ultimately appear that [[Ulysses]] was really right and [[arthur|Arthur]] was really
+ultimately appear that [[Ulysses]] was really right and [[Arthur]] was really
 right, just as Browning makes it ultimately appear that Pompilia was
 really right. But any one can see the enormous difference in scope and
 difficulty between the old [[Epic|epic]] which told the whole story from one

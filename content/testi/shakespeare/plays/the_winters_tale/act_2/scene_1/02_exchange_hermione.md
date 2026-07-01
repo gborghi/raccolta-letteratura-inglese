@@ -1,5 +1,5 @@
 ---
-title: "The Winters Tale — Act II, Scene 1 — exchange ([[Hermione|HERMIONE]]) [2]"
+title: "The Winters Tale — Act II, Scene 1 — exchange (HERMIONE) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-winter’s-tale-(shakespeare)"

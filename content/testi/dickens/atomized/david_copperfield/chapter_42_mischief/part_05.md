@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 42: MISCHIEF (part 5)"
+title: "David Copperfield — Chapter 42: MISCHIEF (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_42_mischief/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_42_mischief/part_06">part 06 ›</a></div>
 </nav>
 
+
+The Doctor, in the perfect goodness of his [[Nature|nature]], put out his hand. Mr.
+Wickfield held it for a little while in his, with his head bowed down.
+
+‘I am sure,’ said Uriah, writhing himself into the [[Silence|silence]] like a
+Conger-eel, ‘that this is a subject full of unpleasantness to everybody.
+But since we have got so far, I ought to take the liberty of mentioning
+that Copperfield has noticed it too.’
 
 I turned upon him, and asked him how he dared refer to me!
 
@@ -116,19 +124,3 @@ it come soon, if it be His merciful pleasure!--when my [[Death|death]] shall
 release her from constraint, I shall close my eyes upon her honoured
 face, with unbounded confidence and [[Love|love]]; and leave her, with no sorrow
 then, to happier and brighter days.’
-
-I could not see him for the [[Tears|tears]] which his earnestness and goodness,
-so adorned by, and so adorning, the perfect simplicity of his manner,
-brought into my eyes. He had moved to the door, when he added:
-
-‘Gentlemen, I have shown you my heart. I am sure you will respect it.
-What we have said tonight is never to be said more. Wickfield, give me
-an old friend’s arm upstairs!’
-
-Mr. Wickfield hastened to him. Without interchanging a word they went
-slowly out of the room together, Uriah looking after them.
-
-‘[[Well]], Master Copperfield!’ said Uriah, meekly turning to me. ‘The thing
-hasn’t took quite the turn that might have been expected, for the old
-Scholar--what an excellent man!--is as blind as a brickbat; but this
-family’s out of the cart, I think!’

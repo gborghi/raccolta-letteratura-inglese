@@ -18,7 +18,6 @@ And when we have reached that point, it is not difficult to see
 that the very invasion and spoliation proclaim it to be a Holy [[City]];
 unique and universal and towering over the tribes of men.
 
-
 -/-
 
 A SPIRITUALIST LOOKS BACK
@@ -58,7 +57,7 @@ They always come back to boo and riot in our churches when they
 have got tired of trying to build their own.
 
 One who thus reveals all that he does not know, and certainly ought
-to know, is Sir [[arthur|Arthur]] Conan Doyle.  He broke out the other day
+to know, is Sir [[Arthur]] Conan Doyle.  He broke out the other day
 into a diatribe, which was supposed to begin with the relations
 of his new religion to others, but which turned with incalculable
 rapidity into mere abuse of his old original family religion,
@@ -68,7 +67,7 @@ Perhaps he is right; and there is not.  But you would think
 a man fresh from founding a new religion might have a few
 new things to say about that; instead of old and negative
 things to say about something else.  But the special strictures
-of Sir [[arthur|Arthur]] Conan Doyle on Catholic orthodoxy had a certain
+of Sir [[Arthur]] Conan Doyle on Catholic orthodoxy had a certain
 very curious character, which [[Alone|alone]] makes them worth noting at all.
 In themselves they are almost indescribably stale and thin and shabby;
 and have been thrashed threadbare in a hundred controversies.
@@ -118,7 +117,7 @@ the most abstract allusion to the things that she hears shouted
 and cat-called in all the theatrical art and social conversation
 of the day.
 
-Sir [[arthur|Arthur]] Conan Doyle must know as [[Well|well]] as I do that modesty
+Sir [[Arthur]] Conan Doyle must know as [[Well|well]] as I do that modesty
 of that sort is not being regarded at all by the modern world;
 and that nobody [[Dreams|dreams]] of attempting to safeguard it so strictly as it
 is safeguarded in Catholic conversation and Catholic confessions.

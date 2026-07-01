@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 2 (part 2)"
+title: "Dombey and Son — Chapter 30 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,132 +14,116 @@ tags:
 </nav>
 
 
-Running downstairs again as fast as she had run up, Miss Tox got the
-party out of the hackney-coach, and soon returned with it under convoy.
+“We have come to [[London]] now, my mother and I,” said Edith, “and you
+shall stay with us until I am married. I wish that we should know and
+trust each other, Florence.”
 
-It then appeared that she had used the word, not in its legal or
-business acceptation, when it merely expresses an individual, but as a
-noun of multitude, or signifying many: for Miss Tox escorted a plump
-rosy-cheeked wholesome apple-faced young woman, with an infant in her
-arms; a younger woman not so plump, but apple-faced also, who led a
-plump and apple-faced [[Child|child]] in each hand; another plump and also
-apple-faced boy who walked by himself; and finally, a plump and
-apple-faced man, who carried in his arms another plump and apple-faced
-boy, whom he stood down on the floor, and admonished, in a husky
-whisper, to “kitch hold of his brother Johnny.”
+“You are very kind to me,” said Florence, “dear Mama. How much I thank
+you!”
 
-[Illustration]
+“Let me say now, for it may be the best opportunity,” continued Edith,
+looking round to see that they were quite [[Alone|alone]], and speaking in a
+lower voice, “that when I am married, and have gone away for some
+weeks, I shall be easier at heart if you will come [[Home|home]] here. No matter
+who invites you to stay elsewhere. Come [[Home|home]] here. It is better to be
+[[Alone|alone]] than—what I would say is,” she added, checking herself, “that I
+know [[Well|well]] you are best at [[Home|home]], dear Florence.”
 
-“My dear Louisa,” said Miss Tox, “knowing your great anxiety, and
-wishing to relieve it, I posted off myself to the [[Queen]] Charlotte’s
-Royal Married Females,” which you had forgot, and put the question, Was
-there anybody there that they thought would suit? No, they said there
-was not. When they gave me that answer, I do assure you, my dear, I was
-almost driven to [[Despair|despair]] on your account. But it did so happen, that
-one of the Royal Married Females, hearing the inquiry, reminded the
-matron of another who had gone to her own [[Home|home]], and who, she said,
-would in all likelihood be most satisfactory. The moment I heard this,
-and had it corroborated by the matron—excellent references and
-unimpeachable character—I got the address, my dear, and posted off
-again.”
+“I will come [[Home|home]] on the very day, Mama”
 
-“Like the dear good Tox, you are!” said Louisa.
+“Do so. I rely on that promise. Now, prepare to come with me, dear
+girl. You will find me downstairs when you are ready.”
 
-“Not at all,” returned Miss Tox. “Don’t say so. Arriving at the [[house]]
-(the cleanest place, my dear! You might eat your dinner off the floor),
-I found the whole family sitting at table; and feeling that no account
-of them could be half so comfortable to you and Mr Dombey as the sight
-of them all together, I brought them all away. This gentleman,” said
-Miss Tox, pointing out the apple-faced man, “is the father. Will you
-have the goodness to come a little forward, Sir?”
+Slowly and thoughtfully did Edith wander [[Alone|alone]] through the mansion of
+which she was so soon to be the lady: and little heed took she of all
+the elegance and splendour it began to display. The same indomitable
+haughtiness of [[Soul|soul]], the same proud scorn expressed in eye and lip, the
+same fierce [[Beauty|beauty]], only tamed by a sense of its own little worth, and
+of the little worth of everything around it, went through the grand
+saloons and halls, that had got loose among the shady trees, and raged
+and rent themselves. The mimic roses on the walls and floors were set
+round with sharp thorns, that tore her breast; in every scrap of gold
+so dazzling to the eye, she saw some hateful atom of her
+purchase-money; the broad high mirrors showed her, at full length, a
+woman with a noble quality yet dwelling in her [[Nature|nature]], who was too
+false to her better [[Self|self]], and too debased and lost, to save herself.
+She believed that all this was so plain, more or less, to all eyes,
+that she had no resource or power of [[Self|self]]-assertion but in [[Pride|pride]]: and
+with this [[Pride|pride]], which tortured her own heart [[Night|night]] and day, she fought
+her fate out, braved it, and defied it.
 
-The apple-faced man having sheepishly complied with this request, stood
-chuckling and grinning in a front row.
+Was this the woman whom Florence—an [[Innocent|innocent]] girl, strong only in her
+earnestness and simple [[Truth|truth]]—could so impress and quell, that by her
+side she was another creature, with her tempest of passion hushed, and
+her very [[Pride|pride]] itself subdued? Was this the woman who now sat beside
+her in a carriage, with her arms entwined, and who, while she courted
+and entreated her to [[Love|love]] and trust her, drew her fair head to nestle
+on her breast, and would have laid down life to shield it from wrong or
+harm?
 
-“This is his wife, of course,” said Miss Tox, singling out the young
-woman with the baby. “How do you do, Polly?”
+Oh, Edith! it were [[Well|well]] to die, indeed, at such a [[Time|time]]! Better and
+happier far, perhaps, to die so, Edith, than to live on to the end!
 
-“I’m pretty [[Well|well]], I thank you, Ma’am,” said Polly.
+The Honourable Mrs Skewton, who was thinking of anything rather than of
+such sentiments—for, like many genteel persons who have existed at
+various times, she set her face against [[Death|death]] altogether, and objected
+to the mention of any such low and levelling upstart—had borrowed a
+[[house]] in Brook Street, Grosvenor Square, from a stately relative (one
+of the Feenix brood), who was out of town, and who did not object to
+lending it, in the handsomest manner, for nuptial purposes, as the loan
+implied his final release and acquittance from all further loans and
+gifts to Mrs Skewton and her daughter. It being necessary for the
+credit of the family to make a handsome appearance at such a [[Time|time]], Mrs
+Skewton, with the assistance of an accommodating tradesman resident in
+the parish of Mary-le-bone, who lent out all sorts of articles to the
+nobility and gentry, from a service of plate to an army of footmen,
+clapped into this [[house]] a silver-headed butler (who was charged extra
+on that account, as having the appearance of an ancient family
+retainer), two very tall young men in livery, and a select staff of
+kitchen-servants; so that a legend arose, downstairs, that Withers the
+page, released at once from his numerous household duties, and from the
+propulsion of the wheeled-chair (inconsistent with the metropolis), had
+been several times observed to rub his eyes and pinch his limbs, as if
+he misdoubted his having overslept himself at the Leamington milkman’s,
+and being still in a celestial dream. A variety of requisites in plate
+and china being also conveyed to the same establishment from the same
+convenient source, with several miscellaneous articles, including a
+neat chariot and a pair of bays, Mrs Skewton cushioned herself on the
+principal sofa, in the [[Cleopatra]] attitude, and held her [[Court|court]] in fair
+state.
 
-By way of bringing her out dexterously, Miss Tox had made the inquiry
-as in condescension to an old acquaintance whom she hadn’t seen for a
-fortnight or so.
+“And how,” said Mrs Skewton, on the entrance of her daughter and her
+charge, “is my charming Florence? You must come and kiss me, Florence,
+if you please, my [[Love|love]].”
 
-“I’m glad to hear it,” said Miss Tox. “The other young woman is her
-unmarried sister who lives with them, and would take care of her
-children. Her name’s Jemima. How do you do, Jemima?”
+Florence was timidly stooping to pick out a place in the white part of
+Mrs Skewton’s face, when that lady presented her ear, and relieved her
+of her difficulty.
 
-“I’m pretty [[Well|well]], I thank you, Ma’am,” returned Jemima.
+“Edith, my dear,” said Mrs Skewton, “positively, I—stand a little more
+in the light, my sweetest Florence, for a moment.”
 
-“I’m very glad indeed to hear it,” said Miss Tox. “I [[Hope|hope]] you’ll keep
-so. Five children. Youngest six weeks. The fine little boy with the
-blister on his nose is the eldest. The blister, I believe,” said Miss
-Tox, looking round upon the family, “is not constitutional, but
-accidental?”
+Florence blushingly complied.
 
-The apple-faced man was understood to growl, “Flat iron.”
+“You don’t remember, dearest Edith,” said her mother, “what you were
+when you were about the same age as our exceedingly precious Florence,
+or a few years younger?”
 
-“I beg your pardon, Sir,” said Miss Tox, “did you—”
+“I have long forgotten, mother.”
 
-“Flat iron,” he repeated.
+“For positively, my dear,” said Mrs Skewton, “I do think that I see a
+decided resemblance to what you were then, in our extremely fascinating
+young friend. And it shows,” said Mrs Skewton, in a lower voice, which
+conveyed her opinion that Florence was in a very unfinished state,
+“what cultivation will do.”
 
-“Oh yes,” said Miss Tox. “Yes! quite true. I forgot. The little
-creature, in his mother’s absence, smelt a warm flat iron. You’re quite
-right, Sir. You were going to have the goodness to inform me, when we
-arrived at the door that you were by trade a—”
+“It does, indeed,” was Edith’s stern reply.
 
-“Stoker,” said the man.
+Her mother eyed her sharply for a moment, and feeling herself on unsafe
+ground, said, as a diversion:
 
-“A choker!” said Miss Tox, quite aghast.
+“My charming Florence, you must come and kiss me once more, if you
+please, my [[Love|love]].”
 
-“Stoker,” said the man. “Steam ingine.”
-
-“Oh-h! Yes!” returned Miss Tox, looking thoughtfully at him, and
-seeming still to have but a very imperfect understanding of his
-meaning.
-
-“And how do you like it, Sir?”
-
-“Which, Mum?” said the man.
-
-“That,” replied Miss Tox. “Your trade.”
-
-“Oh! Pretty [[Well|well]], Mum. The ashes sometimes gets in here;” touching his
-chest: “and makes a man speak gruff, as at the present [[Time|time]]. But it is
-ashes, Mum, not crustiness.”
-
-Miss Tox seemed to be so little enlightened by this reply, as to find a
-difficulty in pursuing the subject. But Mrs Chick relieved her, by
-entering into a close private examination of Polly, her children, her
-[[Marriage|marriage]] certificate, testimonials, and so forth. Polly coming out
-unscathed from this ordeal, Mrs Chick withdrew with her report to her
-brother’s room, and as an emphatic comment on it, and corroboration of
-it, carried the two rosiest little Toodles with her. Toodle being the
-family name of the apple-faced family.
-
-Mr Dombey had remained in his own apartment since the [[Death|death]] of his
-wife, absorbed in visions of the youth, [[Education|education]], and destination of
-his baby son. Something lay at the [[Bottom|bottom]] of his cool heart, colder and
-heavier than its ordinary load; but it was more a sense of the [[Child|child]]’s
-loss than his own, awakening within him an almost angry sorrow. That
-the life and progress on which he built such hopes, should be
-endangered in the outset by so mean a want; that Dombey and Son should
-be tottering for a [[Nurse|nurse]], was a sore humiliation. And yet in his [[Pride|pride]]
-and [[Jealousy|jealousy]], he viewed with so much bitterness the thought of being
-dependent for the very first step towards the accomplishment of his
-[[Soul|soul]]’s [[Desire|desire]], on a hired serving-woman who would be to the [[Child|child]], for
-the [[Time|time]], all that even his alliance could have made his own wife, that
-in every new rejection of a candidate he felt a secret pleasure. The
-[[Time|time]] had now come, however, when he could no longer be divided between
-these two sets of feelings. The less so, as there seemed to be no flaw
-in the title of Polly Toodle after his sister had set it forth, with
-many commendations on the indefatigable [[Friendship|friendship]] of Miss Tox.
-
-“These children look healthy,” said Mr Dombey. “But my God, to think of
-their some day claiming a sort of relationship to Paul!”
-
-“But what relationship is there!” Louisa began—
-
-“Is there!” echoed Mr Dombey, who had not intended his sister to
-participate in the thought he had unconsciously expressed. “Is there,
-did you say, Louisa!”
+Florence complied, of course, and again imprinted her lips on Mrs
+Skewton’s ear.

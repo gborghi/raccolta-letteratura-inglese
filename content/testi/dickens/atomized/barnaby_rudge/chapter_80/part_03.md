@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 80 (part 3)"
+title: "Barnaby Rudge — Chapter 80 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_80/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_81/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘You hear what your mistress says, my [[Love|love]],’ remarked the locksmith.
+‘You had better go, I think. Stay; take this with you, for the sake of
+old service.’
 
 Miss Miggs clutched the bank-note he took from his pocket-book and held
 out to her; deposited it in a small, red leather purse; put the purse

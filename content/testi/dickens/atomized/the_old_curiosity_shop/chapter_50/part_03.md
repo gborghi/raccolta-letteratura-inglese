@@ -14,6 +14,18 @@ tags:
 </nav>
 
 
+‘That’s unfortunate,’ said the [[Dwarf|dwarf]], ‘for I came, in fact, to ask you
+about him.  A thought has occurred to me, Dick; your friend over the
+way--’
+
+‘Which friend?’
+
+‘In the first floor.’
+
+‘Yes?’
+
+‘Your friend in the first floor, Dick, may know him.’
+
 ‘No, he don’t,’ said Mr Swiveller, shaking his head.
 
 ‘Don’t!  No, because he has never seen him,’ rejoined Quilp; ‘but if we

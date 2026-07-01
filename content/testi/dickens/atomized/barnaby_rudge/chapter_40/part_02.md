@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 40 (part 2)"
+title: "Barnaby Rudge — Chapter 40 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_40/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_41/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘I meant to give you no offence,’ said Hugh. ‘I don’t know what to say.
+You catch me up so very short.’
 
 ‘You will be caught up much shorter, my good friend--infinitely
 shorter--one of these days, depend upon it,’ replied his patron calmly.

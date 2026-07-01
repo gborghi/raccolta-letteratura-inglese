@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 41 (part 3)"
+title: "Barnaby Rudge — Chapter 41 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,35 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_41/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_41/part_04">part 04 ›</a></div>
 </nav>
 
+
+Dolly might have remonstrated against this summary dismissal of the
+subject, notwithstanding the appearance of dinner, but at the mention
+of Blue Beard Mrs Varden interposed, protesting she could not find it
+in her [[Conscience|conscience]] to sit tamely by, and hear her [[Child|child]] recommended to
+peruse the adventures of a Turk and Mussulman--far less of a fabulous
+Turk, which she considered that potentate to be. She held that, in such
+stirring and tremendous times as those in which they lived, it would
+be much more to the purpose if Dolly became a regular subscriber to the
+Thunderer, where she would have an opportunity of reading Lord George
+Gordon’s speeches word for word, which would be a greater comfort and
+solace to her, than a hundred and fifty Blue Beards ever could impart.
+She appealed in support of this proposition to Miss Miggs, then in
+waiting, who said that indeed the peace of mind she had derived from the
+perusal of that paper generally, but especially of one article of the
+very last week as ever was, entitled ‘Great Britain drenched in gore,’
+exceeded all belief; the same composition, she added, had also wrought
+such a comforting effect on the mind of a married sister of hers, then
+resident at Golden [[Lion]] [[Court]], number twenty-sivin, second bell-handle
+on the right-hand door-post, that, being in a delicate state of health,
+and in fact expecting an addition to her family, she had been seized
+with fits directly after its perusal, and had raved of the [[Inquisition]]
+ever since; to the great improvement of her husband and friends. Miss
+Miggs went on to say that she would recommend all those whose hearts
+were hardened to hear Lord George themselves, whom she commended first,
+in respect of his steady Protestantism, then of his oratory, then of
+his eyes, then of his nose, then of his legs, and lastly of his figure
+generally, which she looked upon as fit for any statue, prince, or
+angel, to which sentiment Mrs Varden fully subscribed.
 
 Mrs Varden having cut in, looked at a box upon the mantelshelf, painted
 in [[Imitation|imitation]] of a very red-brick dwelling-[[house]], with a yellow roof;
@@ -85,44 +114,3 @@ foreign black who played the tambourine, and bursting with the spiteful
 feelings which the taunt awoke in her fair breast, exploded in the
 manner we have witnessed. Matters having now arrived at a crisis, the
 locksmith, as usual, and for the sake of peace and quietness, gave in.
-
-‘What are you crying for, girl?’ he said. ‘What’s the matter with you?
-What are you talking about hatred for? I don’t hate you; I don’t hate
-anybody. Dry your eyes and make yourself agreeable, in Heaven’s name,
-and let us all be happy while we can.’
-
-The allied powers deeming it good generalship to consider this a
-sufficient apology on the part of the enemy, and confession of having
-been in the wrong, did dry their eyes and take it in good part. Miss
-Miggs observed that she bore no malice, no not to her greatest foe, whom
-she rather loved the more indeed, the greater persecution she sustained.
-Mrs Varden approved of this meek and forgiving spirit in high terms,
-and incidentally declared as a closing article of agreement, that Dolly
-should accompany her to the Clerkenwell branch of the association, that
-very [[Night|night]]. This was an extraordinary instance of her great prudence and
-policy; having had this end in view from the first, and entertaining
-a secret misgiving that the locksmith (who was bold when Dolly was in
-question) would object, she had backed Miss Miggs up to this point, in
-order that she might have him at a disadvantage. The manoeuvre succeeded
-so [[Well|well]] that Gabriel only made a wry face, and with the warning he had
-just had, fresh in his mind, did not dare to say one word.
-
-The difference ended, therefore, in Miggs being presented with a gown
-by Mrs Varden and half-a-[[Crown|crown]] by Dolly, as if she had eminently
-distinguished herself in the paths of [[morality]] and goodness. Mrs V.,
-according to custom, expressed her [[Hope|hope]] that Varden would take a lesson
-from what had passed and learn more generous conduct for the [[Time|time]] to
-come; and the dinner being now cold and nobody’s appetite very much
-improved by what had passed, they went on with it, as Mrs Varden said,
-‘like Christians.’
-
-As there was to be a grand parade of the Royal East [[London]] Volunteers
-that afternoon, the locksmith did no more work; but sat down comfortably
-with his pipe in his mouth, and his arm round his pretty daughter’s
-waist, looking lovingly on Mrs V., from [[Time|time]] to [[Time|time]], and exhibiting
-from the [[Crown|crown]] of his head to the sole of his foot, one smiling surface
-of good [[Humour|humour]]. And to be sure, when it was [[Time|time]] to dress him in his
-regimentals, and Dolly, hanging about him in all kinds of graceful
-winning ways, helped to button and buckle and brush him up and get him
-into one of the tightest coats that ever was made by mortal tailor, he
-was the proudest father in all England.

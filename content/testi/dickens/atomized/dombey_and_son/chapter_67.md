@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 11"
+title: "Dombey and Son — Chapter 39"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,668 +14,747 @@ tags:
 </nav>
 
 
-CHAPTER XI.
-Paul’s Introduction to a New Scene
-
-
-Mrs Pipchin’s constitution was made of such hard metal, in spite of its
-liability to the fleshly weaknesses of standing in need of repose after
-chops, and of requiring to be coaxed to [[Sleep|sleep]] by the soporific agency
-of sweet-breads, that it utterly set at naught the predictions of Mrs
-Wickam, and showed no symptoms of decline. Yet, as Paul’s rapt interest
-in the old lady continued unbated, Mrs Wickam would not budge an inch
-from the position she had taken up. Fortifying and entrenching herself
-on the strong ground of her Uncle’s Betsey Jane, she advised Miss
-Berry, as a friend, to prepare herself for the worst; and forewarned
-her that her aunt might, at any [[Time|time]], be expected to go off suddenly,
-like a powder-mill.
-
-“I [[Hope|hope]], Miss Berry,” Mrs Wickam would observe, “that you’ll come into
-whatever little property there may be to leave. You deserve it, I am
-sure, for yours is a trying life. Though there don’t seem much worth
-coming into—you’ll excuse my being so open—in this dismal den.”
-
-Poor Berry took it all in good part, and drudged and slaved away as
-usual; perfectly convinced that Mrs Pipchin was one of the most
-meritorious persons in the world, and making every day innumerable
-sacrifices of herself upon the altar of that noble old woman. But all
-these immolations of Berry were somehow carried to the credit of Mrs
-Pipchin by Mrs Pipchin’s friends and admirers; and were made to
-harmonise with, and carry out, that [[Melancholy|melancholy]] fact of the deceased Mr
-Pipchin having broken his heart in the Peruvian mines.
-
-For example, there was an honest [[grocer]] and general dealer in the
-retail line of business, between whom and Mrs Pipchin there was a small
-memorandum book, with a greasy red cover, perpetually in question, and
-concerning which divers secret councils and conferences were
-continually being held between the parties to that register, on the mat
-in the passage, and with closed doors in the parlour. Nor were there
-wanting dark hints from Master Bitherstone (whose temper had been made
-revengeful by the solar heats of India acting on his [[Blood|blood]]), of
-balances unsettled, and of a failure, on one occasion within his
-[[Memory|memory]], in the supply of moist sugar at tea-[[Time|time]]. This [[grocer]] being a
-bachelor and not a man who looked upon the surface for [[Beauty|beauty]], had once
-made honourable offers for the hand of Berry, which Mrs Pipchin had,
-with contumely and scorn, rejected. Everybody said how laudable this
-was in Mrs Pipchin, relict of a man who had died of the Peruvian mines;
-and what a staunch, high, independent spirit the old lady had. But
-nobody said anything about poor Berry, who cried for six weeks (being
-soundly rated by her good aunt all the [[Time|time]]), and lapsed into a state
-of hopeless spinsterhood.
-
-“Berry’s very fond of you, ain’t she?” Paul once asked Mrs Pipchin when
-they were sitting by the [[Fire|fire]] with the cat.
-
-“Yes,” said Mrs Pipchin.
-
-“Why?” asked Paul.
-
-“Why!” returned the disconcerted old lady. “How can you ask such
-things, Sir! why are you fond of your sister Florence?”
-
-“Because she’s very good,” said Paul. “There’s nobody like Florence.”
-
-“[[Well]]!” retorted Mrs Pipchin, shortly, “and there’s nobody like me, I
-suppose.”
-
-“Ain’t there really though?” asked Paul, leaning forward in his chair,
-and looking at her very hard.
-
-“No,” said the old lady.
-
-“I am glad of that,” observed Paul, rubbing his hands thoughtfully.
-“That’s a very good thing.”
-
-Mrs Pipchin didn’t dare to ask him why, lest she should receive some
-perfectly annihilating answer. But as a compensation to her wounded
-feelings, she harassed Master Bitherstone to that extent until
-bed-[[Time|time]], that he began that very [[Night|night]] to make arrangements for an
-overland return to India, by secreting from his supper a quarter of a
-round of bread and a [[Fragment|fragment]] of moist Dutch [[cheese]], as the beginning
-of a stock of provision to support him on the voyage.
-
-Mrs Pipchin had kept watch and ward over little Paul and his sister for
-nearly twelve months. They had been [[Home|home]] twice, but only for a few
-days; and had been constant in their weekly visits to Mr Dombey at the
-hotel. By little and little Paul had grown stronger, and had become
-able to dispense with his carriage; though he still looked thin and
-delicate; and still remained the same old, quiet, dreamy [[Child|child]] that he
-had been when first consigned to Mrs Pipchin’s care. One Saturday
-afternoon, at dusk, great consternation was occasioned in the [[Castle]] by
-the unlooked-for announcement of Mr Dombey as a visitor to Mrs Pipchin.
-The population of the parlour was immediately swept upstairs as on the
-wings of a whirlwind, and after much slamming of bedroom doors, and
-trampling overhead, and some knocking about of Master Bitherstone by
-Mrs Pipchin, as a relief to the perturbation of her spirits, the black
-bombazeen garments of the worthy old lady darkened the audience-chamber
-where Mr Dombey was contemplating the vacant arm-chair of his son and
-heir.
-
-“Mrs Pipchin,” said Mr Dombey, “How do you do?”
-
-“Thank you, Sir,” said Mrs Pipchin, “I am pretty [[Well|well]], considering.”
-
-Mrs Pipchin always used that form of words. It meant, considering her
-virtues, sacrifices, and so forth.
-
-“I can’t expect, Sir, to be very [[Well|well]],” said Mrs Pipchin, taking a
-chair and fetching her breath; “but such health as I have, I am
-grateful for.”
-
-Mr Dombey inclined his head with the satisfied air of a patron, who
-felt that this was the sort of thing for which he paid so much a
-quarter. After a moment’s [[Silence|silence]] he went on to say:
-
-“Mrs Pipchin, I have taken the liberty of calling, to consult you in
-reference to my son. I have had it in my mind to do so for some [[Time|time]]
-past; but have deferred it from [[Time|time]] to [[Time|time]], in order that his health
-might be thoroughly re-established. You have no misgivings on that
-subject, Mrs Pipchin?”
-
-“Brighton has proved very beneficial, Sir,” returned Mrs Pipchin. “Very
-beneficial, indeed.”
-
-“I purpose,” said Mr Dombey, “his remaining at Brighton.”
-
-Mrs Pipchin rubbed her hands, and bent her grey eyes on the [[Fire|fire]].
-
-“But,” pursued Mr Dombey, stretching out his forefinger, “but possibly
-that he should now make a change, and lead a different kind of life
-here. In short, Mrs Pipchin, that is the object of my visit. My son is
-getting on, Mrs Pipchin. Really, he is getting on.”
-
-There was something [[Melancholy|melancholy]] in the triumphant air with which Mr
-Dombey said this. It showed how long Paul’s childish life had been to
-him, and how his hopes were set upon a later stage of his existence.
-Pity may appear a strange word to connect with anyone so haughty and so
-cold, and yet he seemed a worthy subject for it at that moment.
-
-“Six years old!” said Mr Dombey, settling his neckcloth—perhaps to hide
-an irrepressible smile that rather seemed to strike upon the surface of
-his face and glance away, as finding no resting-place, than to play
-there for an instant. “Dear me, six will be changed to sixteen, before
-we have [[Time|time]] to look about us.”
-
-“Ten years,” croaked the unsympathetic Pipchin, with a frosty
-glistening of her hard grey eye, and a dreary shaking of her bent head,
-“is a long [[Time|time]].”
-
-“It depends on circumstances, returned Mr Dombey; “at all events, Mrs
-Pipchin, my son is six years old, and there is no [[Doubt|doubt]], I [[Fear|fear]], that
-in his studies he is behind many children of his age—or his youth,”
-said Mr Dombey, quickly answering what he mistrusted was a shrewd
-twinkle of the frosty eye, “his youth is a more appropriate expression.
-Now, Mrs Pipchin, instead of being behind his peers, my son ought to be
-before them; far before them. There is an eminence ready for him to
-mount upon. There is nothing of chance or [[Doubt|doubt]] in the course before my
-son. His way in life was clear and prepared, and marked out before he
-existed. The [[Education|education]] of such a young gentleman must not be delayed.
-It must not be left imperfect. It must be very steadily and seriously
-undertaken, Mrs Pipchin.”
-
-“[[Well]], Sir,” said Mrs Pipchin, “I can say nothing to the contrary.”
-
-“I was quite sure, Mrs Pipchin,” returned Mr Dombey, approvingly, “that
-a person of your good sense could not, and would not.”
-
-“There is a great deal of nonsense—and worse—talked about young people
-not being pressed too hard at first, and being tempted on, and all the
-rest of it, Sir,” said Mrs Pipchin, impatiently rubbing her hooked
-nose. “It never was thought of in my [[Time|time]], and it has no business to be
-thought of now. My opinion is ‘keep ’em at it’.”
-
-“My good madam,” returned Mr Dombey, “you have not acquired your
-reputation undeservedly; and I beg you to believe, Mrs Pipchin, that I
-am more than satisfied with your excellent system of management, and
-shall have the greatest pleasure in commending it whenever my poor
-commendation—” Mr Dombey’s loftiness when he affected to disparage his
-own importance, passed all bounds—“can be of any service. I have been
-thinking of Doctor Blimber’s, Mrs Pipchin.”
-
-“My neighbour, Sir?” said Mrs Pipchin. “I believe the Doctor’s is an
-excellent establishment. I’ve heard that it’s very strictly conducted,
-and there is nothing but learning going on from morning to [[Night|night]].”
-
-“And it’s very expensive,” added Mr Dombey.
-
-“And it’s very expensive, Sir,” returned Mrs Pipchin, catching at the
-fact, as if in omitting that, she had omitted one of its leading
-merits.
-
-“I have had some communication with the Doctor, Mrs Pipchin,” said Mr
-Dombey, hitching his chair anxiously a little nearer to the [[Fire|fire]], “and
-he does not consider Paul at all too young for his purpose. He
-mentioned several instances of boys in Greek at about the same age. If
-I have any little uneasiness in my own mind, Mrs Pipchin, on the
-subject of this change, it is not on that head. My son not having known
-a mother has gradually concentrated much—too much—of his childish
-affection on his sister. Whether their separation—” Mr Dombey said no
-more, but sat silent.
-
-“Hoity-toity!” exclaimed Mrs Pipchin, shaking out her black bombazeen
-skirts, and plucking up all the ogress within her. “If she don’t like
-it, Mr Dombey, she must be taught to lump it.” The good lady apologised
-immediately afterwards for using so common a figure of speech, but said
-(and truly) that that was the way she reasoned with ’em.
-
-Mr Dombey waited until Mrs Pipchin had done bridling and shaking her
-head, and frowning down a legion of Bitherstones and Pankeys; and then
-said quietly, but correctively, “He, my good madam, he.”
-
-Mrs Pipchin’s system would have applied very much the same mode of cure
-to any uneasiness on the part of Paul, too; but as the hard grey eye
-was sharp enough to see that the recipe, however Mr Dombey might admit
-its efficacy in the case of the daughter, was not a sovereign remedy
-for the son, she argued the point; and contended that change, and new
-society, and the different form of life he would lead at Doctor
-Blimber’s, and the studies he would have to master, would very soon
-prove sufficient alienations. As this chimed in with Mr Dombey’s own
-[[Hope|hope]] and belief, it gave that gentleman a still higher opinion of Mrs
-Pipchin’s understanding; and as Mrs Pipchin, at the same [[Time|time]], bewailed
-the loss of her dear little friend (which was not an overwhelming shock
-to her, as she had long expected it, and had not looked, in the
-beginning, for his remaining with her longer than three months), he
-formed an equally good opinion of Mrs Pipchin’s disinterestedness. It
-was plain that he had given the subject anxious consideration, for he
-had formed a plan, which he announced to the ogress, of sending Paul to
-the Doctor’s as a weekly boarder for the first half year, during which
-[[Time|time]] Florence would remain at the [[Castle]], that she might receive her
-brother there, on Saturdays. This would wean him by degrees, Mr Dombey
-said; possibly with a recollection of his not having been weaned by
-degrees on a former occasion.
-
-Mr Dombey finished the interview by expressing his [[Hope|hope]] that Mrs
-Pipchin would still remain in office as general superintendent and
-overseer of his son, pending his studies at Brighton; and having kissed
-Paul, and shaken hands with Florence, and beheld Master Bitherstone in
-his collar of state, and made Miss Pankey cry by patting her on the
-head (in which region she was uncommonly tender, on account of a habit
-Mrs Pipchin had of sounding it with her knuckles, like a cask), he
-withdrew to his hotel and dinner: resolved that Paul, now that he was
-getting so old and [[Well|well]], should begin a vigorous course of [[Education|education]]
-forthwith, to qualify him for the position in which he was to shine;
-and that Doctor Blimber should take him in hand immediately.
-
-Whenever a young gentleman was taken in hand by Doctor Blimber, he
-might consider himself sure of a pretty tight squeeze. The Doctor only
-undertook the charge of ten young gentlemen, but he had, always ready,
-a supply of learning for a hundred, on the lowest estimate; and it was
-at once the business and delight of his life to gorge the unhappy ten
-with it.
-
-In fact, Doctor Blimber’s establishment was a great hot-[[house]], in which
-there was a forcing apparatus incessantly at work. All the boys blew
-before their [[Time|time]]. Mental green-peas were produced at Christmas, and
-intellectual [[asparagus]] all the year round. Mathematical gooseberries
-(very sour ones too) were common at untimely [[Seasons|seasons]], and from mere
-sprouts of bushes, under Doctor Blimber’s cultivation. Every
-description of Greek and Latin vegetable was got off the driest twigs
-of boys, under the frostiest circumstances. [[Nature]] was of no
-consequence at all. No matter what a young gentleman was intended to
-bear, Doctor Blimber made him bear to pattern, somehow or other.
-
-This was all very pleasant and ingenious, but the system of forcing was
-attended with its usual disadvantages. There was not the right taste
-about the premature productions, and they didn’t keep [[Well|well]]. Moreover,
-one young gentleman, with a swollen nose and an excessively large head
-(the oldest of the ten who had “gone through” everything), suddenly
-left off blowing one day, and remained in the establishment a mere
-stalk. And people did say that the Doctor had rather overdone it with
-young Toots, and that when he began to have whiskers he left off having
-brains.
-
-There young Toots was, at any rate; possessed of the gruffest of voices
-and the shrillest of minds; sticking ornamental pins into his shirt,
-and keeping a ring in his waistcoat pocket to put on his little finger
-by stealth, when the pupils went out walking; constantly falling in
-[[Love|love]] by sight with nurserymaids, who had no idea of his existence; and
-looking at the gas-lighted world over the little iron bars in the
-left-hand corner [[Window|window]] of the front three pairs of stairs, after
-bed-[[Time|time]], like a greatly overgrown cherub who had sat up aloft much too
-long.
-
-The Doctor was a portly gentleman in a suit of black, with strings at
-his knees, and stockings below them. He had a bald head, highly
-polished; a deep voice; and a chin so very [[Double|double]], that it was a [[Wonder|wonder]]
-how he ever managed to shave into the creases. He had likewise a pair
-of little eyes that were always half shut up, and a mouth that was
-always half expanded into a grin, as if he had, that moment, posed a
-boy, and were waiting to convict him from his own lips. Insomuch, that
-when the Doctor put his right hand into the breast of his coat, and
-with his other hand behind him, and a scarcely perceptible wag of his
-head, made the commonest observation to a nervous stranger, it was like
-a sentiment from the sphynx, and settled his business.
-
-The Doctor’s was a mighty fine [[house]], fronting the sea. Not a joyful
-style of [[house]] within, but quite the contrary. Sad-coloured curtains,
-whose proportions were spare and lean, hid themselves despondently
-behind the windows. The tables and chairs were put away in rows, like
-figures in a sum; fires were so rarely lighted in the rooms of
-ceremony, that they felt like wells, and a visitor represented the
-bucket; the dining-room seemed the last place in the world where any
-eating or drinking was likely to occur; there was no sound through all
-the [[house]] but the ticking of a great [[Clock|clock]] in the hall, which made
-itself audible in the very garrets; and sometimes a dull cooing of
-young gentlemen at their lessons, like the murmurings of an assemblage
-of [[Melancholy|melancholy]] pigeons.
-
-Miss Blimber, too, although a slim and graceful maid, did no soft
-violence to the gravity of the [[house]]. There was no light nonsense about
-Miss Blimber. She kept her hair short and crisp, and wore spectacles.
-She was dry and sandy with working in the graves of deceased languages.
-None of your live languages for Miss Blimber. They must be dead—stone
-dead—and then Miss Blimber dug them up like a Ghoul.
-
-Mrs Blimber, her Mama, was not learned herself, but she pretended to
-be, and that did quite as [[Well|well]]. She said at evening parties, that if
-she could have known Cicero, she thought she could have died contented.
-It was the steady joy of her life to see the Doctor’s young gentlemen
-go out walking, unlike all other young gentlemen, in the largest
-possible shirt-collars, and the stiffest possible cravats. It was so
-classical, she said.
-
-As to Mr Feeder, B.A., Doctor Blimber’s assistant, he was a kind of
-human barrel-organ, with a little list of tunes at which he was
-continually working, over and over again, without any variation. He
-might have been fitted up with a change of barrels, perhaps, in early
-life, if his destiny had been favourable; but it had not been; and he
-had only one, with which, in a monotonous round, it was his occupation
-to bewilder the young ideas of Doctor Blimber’s young gentlemen. The
-young gentlemen were prematurely full of carking anxieties. They knew
-no rest from the pursuit of stony-hearted verbs, savage
-noun-substantives, inflexible syntactic passages, and [[Ghosts|ghosts]] of
-exercises that appeared to them in their [[Dreams|dreams]]. Under the forcing
-system, a young gentleman usually took leave of his spirits in three
-weeks. He had all the cares of the world on his head in three months.
-He conceived bitter sentiments against his parents or guardians in
-four; he was an old misanthrope, in five; envied Curtius that blessed
-refuge in the earth, in six; and at the end of the first twelvemonth
-had arrived at the conclusion, from which he never afterwards departed,
-that all the fancies of the poets, and lessons of the sages, were a
-mere collection of words and grammar, and had no other meaning in the
-world.
-
-But he went on blow, blow, blowing, in the Doctor’s hothouse, all the
-[[Time|time]]; and the Doctor’s glory and reputation were great, when he took
-his wintry growth [[Home|home]] to his relations and friends.
-
-Upon the Doctor’s door-steps one day, Paul stood with a fluttering
-heart, and with his small right hand in his father’s. His other hand
-was locked in that of Florence. How tight the tiny pressure of that
-one; and how loose and cold the other!
-
-Mrs Pipchin hovered behind the victim, with her sable plumage and her
-hooked beak, like a bird of ill-omen. She was out of breath—for Mr
-Dombey, full of great thoughts, had walked fast—and she croaked
-hoarsely as she waited for the opening of the door.
-
-“Now, Paul,” said Mr Dombey, exultingly. “This is the way indeed to be
-Dombey and Son, and have money. You are almost a man already.”
-
-“Almost,” returned the [[Child|child]].
-
-Even his childish agitation could not master the sly and quaint yet
-touching look, with which he accompanied the reply.
-
-It brought a vague expression of dissatisfaction into Mr Dombey’s face;
-but the door being opened, it was quickly gone.
-
-“Doctor Blimber is at [[Home|home]], I believe?” said Mr Dombey.
-
-The man said yes; and as they passed in, looked at Paul as if he were a
-little mouse, and the [[house]] were a trap. He was a weak-eyed young man,
-with the first faint streaks or early [[Dawn|dawn]] of a grin on his
-countenance. It was mere imbecility; but Mrs Pipchin took it into her
-head that it was impudence, and made a snap at him directly.
-
-“How dare you laugh behind the gentleman’s back?” said Mrs Pipchin.
-“And what do you take me for?”
-
-“I ain’t a laughing at nobody, and I’m sure I don’t take you for
-nothing, Ma’am,” returned the young man, in consternation.
-
-“A pack of idle [[dogs]]!” said Mrs Pipchin, “only fit to be turnspits. Go
-and tell your master that Mr Dombey’s here, or it’ll be worse for you!”
-
-The weak-eyed young man went, very meekly, to discharge himself of this
-commission; and soon came back to invite them to the Doctor’s study.
-
-“You’re laughing again, Sir,” said Mrs Pipchin, when it came to her
-turn, bringing up the rear, to pass him in the hall.
-
-“I ain’t,” returned the young man, grievously oppressed. “I never see
-such a thing as this!”
-
-“What is the matter, Mrs Pipchin?” said Mr Dombey, looking round.
-“Softly! Pray!”
-
-Mrs Pipchin, in her deference, merely muttered at the young man as she
-passed on, and said, “Oh! he was a precious fellow”—leaving the young
-man, who was all meekness and incapacity, affected even to [[Tears|tears]] by the
-incident. But Mrs Pipchin had a way of falling foul of all meek people;
-and her friends said who could [[Wonder|wonder]] at it, after the Peruvian mines!
-
-The Doctor was sitting in his portentous study, with a globe at each
-knee, books all round him, Homer over the door, and Minerva on the
-mantel-shelf. “And how do you do, Sir?” he said to Mr Dombey, “and how
-is my little friend?” [[Grave]] as an organ was the Doctor’s speech; and
-when he ceased, the great [[Clock|clock]] in the hall seemed (to Paul at least)
-to take him up, and to go on saying, “how, is, my, lit, tle, friend?
-how, is, my, lit, tle, friend?” over and over and over again.
-
-The little friend being something too small to be seen at all from
-where the Doctor sat, over the books on his table, the Doctor made
-several futile attempts to get a view of him round the legs; which Mr
-Dombey perceiving, relieved the Doctor from his embarrassment by taking
-Paul up in his arms, and sitting him on another little table, over
-against the Doctor, in the middle of the room.
-
-“Ha!” said the Doctor, leaning back in his chair with his hand in his
-breast. “Now I see my little friend. How do you do, my little friend?”
-
-The [[Clock|clock]] in the hall wouldn’t subscribe to this alteration in the form
-of words, but continued to repeat how, is, my, lit, tle, friend? how,
-is, my, lit, tle, friend?”
-
-“Very [[Well|well]], I thank you, Sir,” returned Paul, answering the [[Clock|clock]] quite
-as much as the Doctor.
-
-“Ha!” said Doctor Blimber. “Shall we make a man of him?”
-
-“Do you hear, Paul?” added Mr Dombey; Paul being silent.
-
-“Shall we make a man of him?” repeated the Doctor.
-
-“I had rather be a [[Child|child]],” replied Paul.
-
-“Indeed!” said the Doctor. “Why?”
-
-The [[Child|child]] sat on the table looking at him, with a curious expression of
-suppressed emotion in his face, and beating one hand proudly on his
-knee as if he had the rising [[Tears|tears]] beneath it, and crushed them. But
-his other hand strayed a little way the while, a little farther—farther
-from him yet—until it lighted on the neck of Florence. “This is why,”
-it seemed to say, and then the steady look was broken up and gone; the
-working lip was loosened; and the [[Tears|tears]] came streaming forth.
-
-“Mrs Pipchin,” said his father, in a querulous manner, “I am really
-very sorry to see this.”
-
-“Come away from him, do, Miss Dombey,” quoth the matron.
-
-“Never mind,” said the Doctor, blandly nodding his head, to keep Mrs
-Pipchin back. “Never mind; we shall substitute new cares and new
-impressions, Mr Dombey, very shortly. You would still wish my little
-friend to acquire—”
-
-“Everything, if you please, Doctor,” returned Mr Dombey, firmly.
-
-“Yes,” said the Doctor, who, with his half-shut eyes, and his usual
-smile, seemed to survey Paul with the sort of interest that might
-attach to some choice little animal he was going to stuff. “Yes,
-exactly. Ha! We shall impart a great variety of information to our
-little friend, and bring him quickly forward, I daresay. I daresay.
-Quite a virgin soil, I believe you said, Mr Dombey?”
-
-“Except some ordinary preparation at [[Home|home]], and from this lady,” replied
-Mr Dombey, introducing Mrs Pipchin, who instantly communicated a
-rigidity to her whole muscular system, and snorted defiance beforehand,
-in case the Doctor should disparage her; “except so far, Paul has, as
-yet, applied himself to no studies at all.”
-
-Doctor Blimber inclined his head, in gentle tolerance of such
-insignificant poaching as Mrs Pipchin’s, and said he was glad to hear
-it. It was much more satisfactory, he observed, rubbing his hands, to
-begin at the foundation. And again he leered at Paul, as if he would
-have liked to tackle him with the Greek alphabet, on the spot.
-
-“That circumstance, indeed, Doctor Blimber,” pursued Mr Dombey,
-glancing at his little son, “and the interview I have already had the
-pleasure of holding with you, renders any further explanation, and
-consequently, any further intrusion on your valuable [[Time|time]], so
-unnecessary, that—”
-
-“Now, Miss Dombey!” said the acid Pipchin.
-
-“Permit me,” said the Doctor, “one moment. Allow me to present Mrs
-Blimber and my daughter; who will be associated with the domestic life
-of our young [[Pilgrim]] to Parnassus Mrs Blimber,” for the lady, who had
-perhaps been in waiting, opportunely entered, followed by her daughter,
-that fair Sexton in spectacles, “Mr Dombey. My daughter Cornelia, Mr
-Dombey. Mr Dombey, my [[Love|love]],” pursued the Doctor, turning to his wife,
-“is so confiding as to—do you see our little friend?”
-
-Mrs Blimber, in an excess of politeness, of which Mr Dombey was the
-object, apparently did not, for she was backing against the little
-friend, and very much endangering his position on the table. But, on
-this hint, she turned to admire his classical and intellectual
-lineaments, and turning again to Mr Dombey, said, with a sigh, that she
-envied his dear son.
-
-“Like a bee, Sir,” said Mrs Blimber, with uplifted eyes, “about to
-plunge into a [[Garden|garden]] of the choicest [[Flowers|flowers]], and sip the sweets for
-the first [[Time|time]] Virgil, Horace, Ovid, Terence, Plautus, Cicero. What a
-world of honey have we here. It may appear remarkable, Mr Dombey, in
-one who is a wife—the wife of such a husband—”
-
-“Hush, hush,” said Doctor Blimber. “Fie for shame.”
-
-“Mr Dombey will forgive the partiality of a wife,” said Mrs Blimber,
-with an engaging smile.
-
-Mr Dombey answered “Not at all:” applying those words, it is to be
-presumed, to the partiality, and not to the [[Forgiveness|forgiveness]].
-
-“And it may seem remarkable in one who is a mother also,” resumed Mrs
-Blimber.
-
-“And such a mother,” observed Mr Dombey, bowing with some confused idea
-of being complimentary to Cornelia.
-
-“But really,” pursued Mrs Blimber, “I think if I could have known
-Cicero, and been his friend, and talked with him in his retirement at
-Tusculum (beau-ti-ful Tusculum!), I could have died contented.”
-
-A learned enthusiasm is so very contagious, that Mr Dombey half
-believed this was exactly his case; and even Mrs Pipchin, who was not,
-as we have seen, of an accommodating disposition generally, gave
-utterance to a little sound between a groan and a sigh, as if she would
-have said that nobody but Cicero could have proved a lasting
-consolation under that failure of the Peruvian Mines, but that he
-indeed would have been a very Davy-lamp of refuge.
-
-Cornelia looked at Mr Dombey through her spectacles, as if she would
-have liked to crack a few quotations with him from the authority in
-question. But this design, if she entertained it, was frustrated by a
-knock at the room-door.
-
-“Who is that?” said the Doctor. “Oh! Come in, Toots; come in. Mr
-Dombey, Sir.” Toots bowed. “Quite a coincidence!” said Doctor Blimber.
-“Here we have the beginning and the end. Alpha and Omega. Our head boy,
-Mr Dombey.”
-
-The Doctor might have called him their head and shoulders boy, for he
-was at least that much taller than any of the rest. He blushed very
-much at finding himself among strangers, and chuckled aloud.
-
-“An addition to our little Portico, Toots,” said the Doctor; “Mr
-Dombey’s son.”
-
-Young Toots blushed again; and finding, from a solemn [[Silence|silence]] which
-prevailed, that he was expected to say something, said to Paul, “How
-are you?” in a voice so deep, and a manner so sheepish, that if a [[Lamb|lamb]]
-had roared it couldn’t have been more surprising.
-
-“Ask Mr Feeder, if you please, Toots,” said the Doctor, “to prepare a
-few introductory volumes for Mr Dombey’s son, and to allot him a
-convenient seat for study. My dear, I believe Mr Dombey has not seen
-the dormitories.”
-
-“If Mr Dombey will walk upstairs,” said Mrs Blimber, “I shall be more
-than proud to show him the dominions of the drowsy god.”
-
-With that, Mrs Blimber, who was a lady of great suavity, and a wiry
-figure, and who wore a cap composed of sky-blue materials, proceeded
-upstairs with Mr Dombey and Cornelia; Mrs Pipchin following, and
-looking out sharp for her enemy the footman.
-
-While they were gone, Paul sat upon the table, holding Florence by the
-hand, and glancing timidly from the Doctor round and round the room,
-while the Doctor, leaning back in his chair, with his hand in his
-breast as usual, held a book from him at arm’s length, and read. There
-was something very awful in this manner of reading. It was such a
-determined, unimpassioned, inflexible, cold-blooded way of going to
-work. It left the Doctor’s countenance exposed to view; and when the
-Doctor smiled suspiciously at his author, or knit his brows, or shook
-his head and made wry faces at him, as much as to say, “Don’t tell me,
-Sir; I know better,” it was terrific.
-
-Toots, too, had no business to be outside the door, ostentatiously
-examining the wheels in his watch, and counting his half-crowns. But
-that didn’t last long; for Doctor Blimber, happening to change the
-position of his tight plump legs, as if he were going to get up, Toots
-swiftly vanished, and appeared no more.
-
-Mr Dombey and his conductress were soon heard coming downstairs again,
-talking all the way; and presently they re-entered the Doctor’s study.
-
-“I [[Hope|hope]], Mr Dombey,” said the Doctor, laying down his book, “that the
-arrangements meet your approval.”
-
-“They are excellent, Sir,” said Mr Dombey.
-
-“Very fair, indeed,” said Mrs Pipchin, in a low voice; never disposed
-to give too much encouragement.
-
-“Mrs Pipchin,” said Mr Dombey, wheeling round, “will, with your
-permission, Doctor and Mrs Blimber, visit Paul now and then.”
-
-“Whenever Mrs Pipchin pleases,” observed the Doctor.
-
-“Always happy to see her,” said Mrs Blimber.
-
-“I think,” said Mr Dombey, “I have given all the trouble I need, and
-may take my leave. Paul, my [[Child|child]],” he went close to him, as he sat
-upon the table. “Good-bye.”
-
-“Good-bye, Papa.”
-
-The limp and careless little hand that Mr Dombey took in his, was
-singularly out of keeping with the wistful face. But he had no part in
-its sorrowful expression. It was not addressed to him. No, no. To
-Florence—all to Florence.
-
-If Mr Dombey in his insolence of wealth, had ever made an enemy, hard
-to appease and cruelly vindictive in his hate, even such an enemy might
-have received the pang that wrung his proud heart then, as compensation
-for his injury.
-
-He bent down, over his boy, and kissed him. If his sight were dimmed as
-he did so, by something that for a moment blurred the little face, and
-made it indistinct to him, his mental vision may have been, for that
-short [[Time|time]], the clearer perhaps.
-
-“I shall see you soon, Paul. You are free on Saturdays and Sundays, you
-know.”
-
-“Yes, Papa,” returned Paul: looking at his sister. “On Saturdays and
-Sundays.”
-
-“And you’ll try and learn a great deal here, and be a clever man,” said
-Mr Dombey; “won’t you?”
-
-“I’ll try,” returned the [[Child|child]], wearily.
-
-“And you’ll soon be grown up now!” said Mr Dombey.
-
-“Oh! very soon!” replied the [[Child|child]]. Once more the old, old look passed
-rapidly across his features like a strange light. It fell on Mrs
-Pipchin, and extinguished itself in her black dress. That excellent
-ogress stepped forward to take leave and to bear off Florence, which
-she had long been thirsting to do. The move on her part roused Mr
-Dombey, whose eyes were fixed on Paul. After patting him on the head,
-and pressing his small hand again, he took leave of Doctor Blimber, Mrs
-Blimber, and Miss Blimber, with his usual polite frigidity, and walked
-out of the study.
-
-Despite his entreaty that they would not think of stirring, Doctor
-Blimber, Mrs Blimber, and Miss Blimber all pressed forward to attend
-him to the hall; and thus Mrs Pipchin got into a state of entanglement
-with Miss Blimber and the Doctor, and was crowded out of the study
-before she could clutch Florence. To which happy accident Paul stood
-afterwards indebted for the dear remembrance, that Florence ran back to
-throw her arms round his neck, and that hers was the last face in the
-doorway: turned towards him with a smile of encouragement, the brighter
-for the [[Tears|tears]] through which it beamed.
-
-It made his childish bosom heave and swell when it was gone; and sent
-the globes, the books, blind Homer and Minerva, swimming round the
-room. But they stopped, all of a sudden; and then he heard the loud
-[[Clock|clock]] in the hall still gravely inquiring “how, is, my, lit, tle,
-friend? how, is, my, lit, tle, friend?” as it had done before.
-
-He sat, with folded hands, upon his pedestal, silently listening. But
-he might have answered “weary, weary! very lonely, very sad!” And
-there, with an aching void in his young heart, and all outside so cold,
-and bare, and strange, Paul sat as if he had taken life unfurnished,
-and the upholsterer were never coming.
+CHAPTER XXXIX.
+Further Adventures of Captain Edward Cuttle, Mariner
+
+
+[[Time]], sure of foot and strong of will, had so pressed onward, that the
+year enjoined by the old Instrument-maker, as the term during which his
+friend should refrain from opening the sealed packet accompanying the
+letter he had left for him, was now nearly expired, and [[Captain Cuttle]]
+began to look at it, of an evening, with feelings of mystery and
+uneasiness.
+
+The Captain, in his [[Honour|honour]], would as soon have thought of opening the
+parcel one hour before the expiration of the term, as he would have
+thought of opening himself, to study his own anatomy. He merely brought
+it out, at a certain stage of his first evening pipe, laid it on the
+table, and sat gazing at the outside of it, through the smoke, in
+silent gravity, for two or three hours at a spell. Sometimes, when he
+had contemplated it thus for a pretty long while, the Captain would
+hitch his chair, by degrees, farther and farther off, as if to get
+beyond the range of its fascination; but if this were his design, he
+never succeeded: for even when he was brought up by the parlour wall,
+the packet still attracted him; or if his eyes, in thoughtful
+wandering, roved to the ceiling or the [[Fire|fire]], its image immediately
+followed, and posted itself conspicuously among the coals, or took up
+an advantageous position on the whitewash.
+
+In respect of Heart’s Delight, the Captain’s parental and admiration
+knew no change. But since his last interview with Mr Carker, Captain
+Cuttle had come to entertain doubts whether his former intervention in
+behalf of that young lady and his dear boy Wal”r, had proved altogether
+so favourable as he could have wished, and as he at the [[Time|time]] believed.
+The Captain was troubled with a serious misgiving that he had done more
+harm than good, in short; and in his remorse and modesty he made the
+best atonement he could think of, by putting himself out of the way of
+doing any harm to anyone, and, as it were, throwing himself overboard
+for a dangerous person.
+
+[[Self]]-buried, therefore, among the instruments, the Captain never went
+near Mr Dombey’s [[house]], or reported himself in any way to Florence or
+Miss Nipper. He even severed himself from Mr Perch, on the occasion of
+his next visit, by dryly informing that gentleman, that he thanked him
+for his company, but had cut himself adrift from all such acquaintance,
+as he didn’t know what magazine he mightn’t blow up, without meaning of
+it. In this [[Self|self]]-imposed retirement, the Captain passed whole days and
+weeks without interchanging a word with anyone but Rob the Grinder,
+whom he esteemed as a pattern of disinterested attachment and fidelity.
+In this retirement, the Captain, gazing at the packet of an evening,
+would sit smoking, and thinking of Florence and poor Walter, until they
+both seemed to his homely fancy to be dead, and to have passed away
+into eternal youth, the beautiful and [[Innocent|innocent]] children of his first
+remembrance.
+
+The Captain did not, however, in his musings, neglect his own
+improvement, or the mental culture of Rob the Grinder. That young man
+was generally required to read out of some book to the Captain, for one
+hour, every evening; and as the Captain implicitly believed that all
+books were true, he accumulated, by this means, many remarkable facts.
+On [[Sunday]] nights, the Captain always read for himself, before going to
+bed, a certain Divine Sermon once delivered on a Mount; and although he
+was accustomed to quote the text, without book, after his own manner,
+he appeared to read it with as reverent an understanding of its
+heavenly spirit, as if he had got it all by heart in Greek, and had
+been able to write any number of fierce theological disquisitions on
+its every phrase.
+
+Rob the Grinder, whose reverence for the inspired writings, under the
+admirable system of the Grinders’ School, had been developed by a
+perpetual bruising of his intellectual shins against all the proper
+names of all the tribes of Judah, and by the monotonous repetition of
+hard verses, especially by way of punishment, and by the parading of
+him at six years old in leather breeches, three times a [[Sunday]], very
+high up, in a very hot church, with a great organ buzzing against his
+drowsy head, like an exceedingly busy bee—Rob the Grinder made a mighty
+show of being edified when the Captain ceased to read, and generally
+yawned and nodded while the reading was in progress. The latter fact
+being never so much as suspected by the good Captain.
+
+[[Captain Cuttle]], also, as a man of business; took to keeping books. In
+these he entered observations on the weather, and on the currents of
+the waggons and other vehicles: which he observed, in that quarter, to
+set westward in the morning and during the greater part of the day, and
+eastward towards the evening. Two or three stragglers appearing in one
+week, who “spoke him”—so the Captain entered it—on the subject of
+spectacles, and who, without positively purchasing, said they would
+look in again, the Captain decided that the business was improving, and
+made an entry in the day-book to that effect: the [[Wind|wind]] then blowing
+(which he first recorded) pretty fresh, west and by north; having
+changed in the [[Night|night]].
+
+One of the Captain’s chief difficulties was Mr Toots, who called
+frequently, and who without saying much seemed to have an idea that the
+little back parlour was an eligible room to chuckle in, as he would sit
+and avail himself of its accommodations in that regard by the half-hour
+together, without at all advancing in intimacy with the Captain. The
+Captain, rendered cautious by his late experience, was unable quite to
+satisfy his mind whether Mr Toots was the mild subject he appeared to
+be, or was a profoundly artful and dissimulating hypocrite. His
+frequent reference to Miss Dombey was suspicious; but the Captain had a
+secret kindness for Mr Toots’s apparent reliance on him, and forbore to
+decide against him for the present; merely eyeing him, with a sagacity
+not to be described, whenever he approached the subject that was
+nearest to his heart.
+
+“Captain Gills,” blurted out Mr Toots, one day all at once, as his
+manner was, “do you think you could think favourably of that
+proposition of mine, and give me the pleasure of your acquaintance?”
+
+“Why, I tell you what it is, my lad,” replied the Captain, who had at
+length concluded on a course of action; “I’ve been turning that there,
+over.”
+
+“Captain Gills, it’s very kind of you,” retorted Mr Toots. “I’m much
+obliged to you. Upon my word and [[Honour|honour]], Captain Gills, it would be a
+[[Charity|charity]] to give me the pleasure of your acquaintance. It really would.”
+
+“You see, brother,” argued the Captain slowly, “I don’t know you.”
+
+“But you never can know me, Captain Gills,” replied Mr Toots, steadfast
+to his point, “if you don’t give me the pleasure of your acquaintance.”
+
+The Captain seemed struck by the originality and power of this remark,
+and looked at Mr Toots as if he thought there was a great deal more in
+him than he had expected.
+
+“[[Well]] said, my lad,” observed the Captain, nodding his head
+thoughtfully; “and true. Now look’ee here: You’ve made some
+observations to me, which gives me to understand as you admire a
+certain sweet creetur. Hey?”
+
+“Captain Gills,” said Mr Toots, gesticulating violently with the hand
+in which he held his hat, “Admiration is not the word. Upon my [[Honour|honour]],
+you have no conception what my feelings are. If I could be dyed black,
+and made Miss Dombey’s slave, I should consider it a compliment. If, at
+the sacrifice of all my property, I could get transmigrated into Miss
+Dombey’s dog—I—I really think I should never leave off wagging my tail.
+I should be so perfectly happy, Captain Gills!”
+
+Mr Toots said it with watery eyes, and pressed his hat against his
+bosom with deep emotion.
+
+“My lad,” returned the Captain, moved to compassion, “if you’re in
+arnest—”
+
+“Captain Gills,” cried Mr Toots, “I’m in such a state of mind, and am
+so dreadfully in earnest, that if I could swear to it upon a hot piece
+of iron, or a live coal, or melted lead, or burning sealing-wax, Or
+anything of that sort, I should be glad to hurt myself, as a relief to
+my feelings.” And Mr Toots looked hurriedly about the room, as if for
+some sufficiently painful means of accomplishing his dread purpose.
+
+The Captain pushed his glazed hat back upon his head, stroked his face
+down with his heavy hand—making his nose more mottled in the
+process—and planting himself before Mr Toots, and hooking him by the
+lapel of his coat, addressed him in these words, while Mr Toots looked
+up into his face, with much attention and some [[Wonder|wonder]].
+
+“If you’re in arnest, you see, my lad,” said the Captain, “you’re a
+object of clemency, and clemency is the brightest [[Jewel|jewel]] in the [[Crown|crown]] of
+a Briton’s head, for which you’ll overhaul the constitution as laid
+down in Rule Britannia, and, when found, that is the charter as them
+[[Garden|garden]] angels was a singing of, so many times over. Stand by! This here
+proposal o’ you’rn takes me a little aback. And why? Because I holds my
+own only, you understand, in these here waters, and haven’t got no
+consort, and may be don’t wish for none. Steady! You hailed me first,
+along of a certain young lady, as you was chartered by. Now if you and
+me is to keep one another’s company at all, that there young creetur’s
+name must never be named nor referred to. I don’t know what harm mayn’t
+have been done by naming of it too free, afore now, and thereby I
+brings up short. D’ye make me out pretty clear, brother?”
+
+“[[Well]], you’ll excuse me, Captain Gills,” replied Mr Toots, “if I don’t
+quite follow you sometimes. But upon my word I—it’s a hard thing,
+Captain Gills, not to be able to mention Miss Dombey. I really have got
+such a dreadful load here!”—Mr Toots pathetically touched his
+shirt-front with both hands—“that I feel [[Night|night]] and day, exactly as if
+somebody was sitting upon me.”
+
+“Them,” said the Captain, “is the terms I offer. If they’re hard upon
+you, brother, as mayhap they are, give ’em a wide berth, sheer off, and
+part company cheerily!”
+
+“Captain Gills,” returned Mr Toots, “I hardly know how it is, but after
+what you told me when I came here, for the first [[Time|time]], I—I feel that
+I’d rather think about Miss Dombey in your society than talk about her
+in almost anybody else’s. Therefore, Captain Gills, if you’ll give me
+the pleasure of your acquaintance, I shall be very happy to accept it
+on your own conditions. I wish to be honourable, Captain Gills,” said
+Mr Toots, holding back his extended hand for a moment, “and therefore I
+am obliged to say that I can not help thinking about Miss Dombey. It’s
+impossible for me to make a promise not to think about her.”
+
+“My lad,” said the Captain, whose opinion of Mr Toots was much improved
+by this candid avowal, “a man’s thoughts is like the winds, and nobody
+can’t answer for ’em for certain, any length of [[Time|time]] together. Is it a
+treaty as to words?”
+
+“As to words, Captain Gills,” returned Mr Toots, “I think I can bind
+myself.”
+
+Mr Toots gave [[Captain Cuttle]] his hand upon it, then and there; and the
+Captain with a pleasant and gracious show of condescension, bestowed
+his acquaintance upon him formally. Mr Toots seemed much relieved and
+gladdened by the acquisition, and chuckled rapturously during the
+remainder of his visit. The Captain, for his part, was not ill pleased
+to occupy that position of patronage, and was exceedingly [[Well|well]]
+satisfied by his own prudence and foresight.
+
+But rich as [[Captain Cuttle]] was in the latter quality, he received a
+surprise that same evening from a no less ingenuous and simple youth,
+than Rob the Grinder. That artless lad, drinking tea at the same table,
+and bending meekly over his cup and saucer, having taken sidelong
+observations of his master for some [[Time|time]], who was reading the newspaper
+with great difficulty, but much dignity, through his glasses, broke
+[[Silence|silence]] by saying—
+
+“Oh! I beg your pardon, Captain, but you mayn’t be in want of any
+pigeons, may you, Sir?”
+
+“No, my lad,” replied the Captain.
+
+“Because I was wishing to dispose of mine, Captain,” said Rob.
+
+“Ay, ay?” cried the Captain, lifting up his bushy eyebrows a little.
+
+“Yes; I’m going, Captain, if you please,” said Rob.
+
+“Going? Where are you going?” asked the Captain, looking round at him
+over the glasses.
+
+“What? didn’t you know that I was going to leave you, Captain?” asked
+Rob, with a sneaking smile.
+
+The Captain put down the paper, took off his spectacles, and brought
+his eyes to bear on the deserter.
+
+“Oh yes, Captain, I am going to give you warning. I thought you’d have
+known that beforehand, perhaps,” said Rob, rubbing his hands, and
+getting up. “If you could be so good as provide yourself soon, Captain,
+it would be a great convenience to me. You couldn’t provide yourself by
+to-morrow morning, I am afraid, Captain: could you, do you think?”
+
+“And you’re a going to [[Desert|desert]] your colours, are you, my lad?” said the
+Captain, after a long examination of his face.
+
+“Oh, it’s very hard upon a cove, Captain,” cried the tender Rob,
+injured and indignant in a moment, “that he can’t give lawful warning,
+without being frowned at in that way, and called a deserter. You
+haven’t any right to call a poor cove names, Captain. It ain’t because
+I’m a servant and you’re a master, that you’re to go and libel me. What
+wrong have I done? Come, Captain, let me know what my crime is, will
+you?”
+
+The stricken Grinder wept, and put his coat-cuff in his eye.
+
+“Come, Captain,” cried the injured youth, “give my crime a name! What
+have I been and done? Have I stolen any of the property? have I set the
+[[house]] a-[[Fire|fire]]? If I have, why don’t you give me in charge, and try it?
+But to take away the character of a lad that’s been a good servant to
+you, because he can’t afford to stand in his own light for your good,
+what a injury it is, and what a bad return for faithful service! This
+is the way young coves is spiled and drove wrong. I [[Wonder|wonder]] at you,
+Captain, I do.”
+
+All of which the Grinder howled forth in a lachrymose whine, and
+backing carefully towards the door.
+
+“And so you’ve got another berth, have you, my lad?” said the Captain,
+eyeing him intently.
+
+“Yes, Captain, since you put it in that shape, I have got another
+berth,” cried Rob, backing more and more; “a better berth than I’ve got
+here, and one where I don’t so much as want your good word, Captain,
+which is fort’nate for me, after all the dirt you’ve throw’d at me,
+because I’m poor, and can’t afford to stand in my own light for your
+good. Yes, I have got another berth; and if it wasn’t for leaving you
+unprovided, Captain, I’d go to it now, sooner than I’d take them names
+from you, because I’m poor, and can’t afford to stand in my own light
+for your good. Why do you reproach me for being poor, and not standing
+in my own light for your good, Captain? How can you so demean
+yourself?”
+
+“Look ye here, my boy,” replied the peaceful Captain. “Don’t you pay
+out no more of them words.”
+
+“[[Well]], then, don’t you pay in no more of your words, Captain,” retorted
+the roused [[Innocent|innocent]], getting louder in his whine, and backing into the
+shop. “I’d sooner you took my [[Blood|blood]] than my character.”
+
+“Because,” pursued the Captain calmly, “you have heerd, may be, of such
+a thing as a rope’s end.”
+
+“Oh, have I though, Captain?” cried the taunting Grinder. “No I
+haven’t. I never heerd of any such a article!”
+
+“[[Well]],” said the Captain, “it’s my belief as you’ll know more about it
+pretty soon, if you don’t keep a bright look-out. I can read your
+signals, my lad. You may go.”
+
+“Oh! I may go at once, may I, Captain?” cried Rob, exulting in his
+[[success]]. “But mind! I never asked to go at once, Captain. You are not
+to take away my character again, because you send me off of your own
+accord. And you’re not to stop any of my wages, Captain!”
+
+His employer settled the last point by producing the tin canister and
+telling the Grinder’s money out in full upon the table. Rob, snivelling
+and sobbing, and grievously wounded in his feelings, took up the pieces
+one by one, with a sob and a snivel for each, and tied them up
+separately in knots in his pockethandkerchief; then he ascended to the
+roof of the [[house]] and filled his hat and pockets with pigeons; then,
+came down to his bed under the counter and made up his bundle,
+snivelling and sobbing louder, as if he were cut to the heart by old
+associations; then he whined, “Good-[[Night|night]], Captain. I leave you without
+malice!” and then, going out upon the door-step, pulled the little
+Midshipman’s nose as a parting indignity, and went away down the street
+grinning triumphantly.
+
+The Captain, left to himself, resumed his perusal of the news as if
+nothing unusual or unexpected had taken place, and went reading on with
+the greatest assiduity. But never a word did [[Captain Cuttle]] understand,
+though he read a vast number, for Rob the Grinder was scampering up one
+column and down another all through the newspaper.
+
+It is doubtful whether the worthy Captain had ever felt himself quite
+abandoned until now; but now, old Sol Gills, Walter, and Heart’s
+Delight were lost to him indeed, and now Mr Carker deceived and jeered
+him cruelly. They were all represented in the false Rob, to whom he had
+held forth many a [[Time|time]] on the recollections that were warm within him;
+he had believed in the false Rob, and had been glad to believe in him;
+he had made a companion of him as the last of the old [[Ship|ship]]’s company;
+he had taken the command of the little Midshipman with him at his right
+hand; he had meant to do his duty by him, and had felt almost as kindly
+towards the boy as if they had been shipwrecked and cast upon a [[Desert|desert]]
+place together. And now, that the false Rob had brought distrust,
+treachery, and meanness into the very parlour, which was a kind of
+sacred place, [[Captain Cuttle]] felt as if the parlour might have gone
+down next, and not surprised him much by its sinking, or given him any
+very great concern.
+
+Therefore [[Captain Cuttle]] read the newspaper with profound attention and
+no comprehension, and therefore [[Captain Cuttle]] said nothing whatever
+about Rob to himself, or admitted to himself that he was thinking about
+him, or would recognise in the most distant manner that Rob had
+anything to do with his feeling as lonely as Robinson Crusoe.
+
+In the same composed, business-like way, the Captain stepped over to
+Leadenhall Market in the dusk, and effected an arrangement with a
+private watchman on duty there, to come and put up and take down the
+shutters of the wooden Midshipman every [[Night|night]] and morning. He then
+called in at the eating-[[house]] to diminish by one half the daily rations
+theretofore supplied to the Midshipman, and at the public-[[house]] to stop
+the traitor’s beer. “My young man,” said the Captain, in explanation to
+the young lady at the bar, “my young man having bettered himself,
+Miss.” Lastly, the Captain resolved to take possession of the bed under
+the counter, and to turn in there o’ nights instead of upstairs, as
+sole guardian of the property.
+
+From this bed [[Captain Cuttle]] daily [[Rose|rose]] thenceforth, and clapped on his
+glazed hat at six o’[[Clock|clock]] in the morning, with the solitary air of
+Crusoe finishing his toilet with his goat-skin cap; and although his
+fears of a visitation from the savage tribe, MacStinger, were somewhat
+cooled, as similar apprehensions on the part of that lone mariner used
+to be by the lapse of a long interval without any symptoms of the
+cannibals, he still observed a regular routine of defensive operations,
+and never encountered a bonnet without previous survey from his [[Castle|castle]]
+of retreat. In the meantime (during which he received no call from Mr
+Toots, who wrote to say he was out of town) his own voice began to have
+a strange sound in his ears; and he acquired such habits of profound
+meditation from much polishing and stowing away of the stock, and from
+much sitting behind the counter reading, or looking out of [[Window|window]], that
+the red rim made on his forehead by the hard glazed hat, sometimes
+ached again with excess of reflection.
+
+The year being now expired, [[Captain Cuttle]] deemed it expedient to open
+the packet; but as he had always designed doing this in the presence of
+Rob the Grinder, who had brought it to him, and as he had an idea that
+it would be regular and [[Ship|ship]]-shape to open it in the presence of
+somebody, he was sadly put to it for want of a witness. In this
+difficulty, he hailed one day with unusual delight the announcement in
+the Shipping Intelligence of the arrival of the Cautious Clara, Captain
+John Bunsby, from a coasting voyage; and to that philosopher
+immediately dispatched a letter by post, enjoining inviolable secrecy
+as to his place of residence, and requesting to be favoured with an
+early visit, in the evening season.
+
+Bunsby, who was one of those sages who act upon conviction, took some
+days to get the conviction thoroughly into his mind, that he had
+received a letter to this effect. But when he had grappled with the
+fact, and mastered it, he promptly sent his boy with the message, “He’s
+a coming tonight.” Who being instructed to deliver those words and
+disappear, fulfilled his mission like a tarry spirit, charged with a
+mysterious warning.
+
+The Captain, [[Well|well]] pleased to receive it, made preparation of pipes and
+rum and [[Water|water]], and awaited his visitor in the back parlour. At the hour
+of eight, a deep lowing, as of a nautical Bull, outside the shop-door,
+succeeded by the knocking of a stick on the panel, announced to the
+listening ear of [[Captain Cuttle]], that Bunsby was alongside; whom he
+instantly admitted, shaggy and loose, and with his stolid mahogany
+visage, as usual, appearing to have no consciousness of anything before
+it, but to be attentively observing something that was taking place in
+quite another part of the world.
+
+“Bunsby,” said the Captain, grasping him by the hand, “what cheer, my
+lad, what cheer?”
+
+“Shipmet,” replied the voice within Bunsby, unaccompanied by any sign
+on the part of the Commander himself, “hearty, hearty.”
+
+“Bunsby!” said the Captain, rendering irrepressible homage to his
+genius, “here you are! a man as can give an opinion as is brighter than
+di’monds—and give me the lad with the tarry trousers as shines to me
+like di’monds bright, for which you’ll overhaul the Stanfell’s Budget,
+and when found make a note. Here you are, a man as gave an opinion in
+this here very place, that has come true, every letter on it,” which
+the Captain sincerely believed.
+
+“Ay, ay?” growled Bunsby.
+
+“Every letter,” said the Captain.
+
+“For why?” growled Bunsby, looking at his friend for the first [[Time|time]].
+“Which way? If so, why not? Therefore.” With these oracular words—they
+seemed almost to make the Captain giddy; they launched him upon such a
+sea of speculation and conjecture—the sage submitted to be helped off
+with his pilot-coat, and accompanied his friend into the back parlour,
+where his hand presently alighted on the rum-bottle, from which he
+brewed a stiff glass of grog; and presently afterwards on a pipe, which
+he filled, lighted, and began to smoke.
+
+[[Captain Cuttle]], imitating his visitor in the matter of these
+particulars, though the rapt and imperturbable manner of the great
+Commander was far above his powers, sat in the opposite corner of the
+fireside, observing him respectfully, and as if he waited for some
+encouragement or expression of curiosity on Bunsby’s part which should
+lead him to his own affairs. But as the mahogany philosopher gave no
+evidence of being sentient of anything but warmth and tobacco, except
+once, when taking his pipe from his lips to make room for his glass, he
+incidentally remarked with exceeding gruffness, that his name was Jack
+Bunsby—a declaration that presented but small opening for
+conversation—the Captain bespeaking his attention in a short
+complimentary exordium, narrated the whole [[history]] of Uncle Sol’s
+departure, with the change it had produced in his own life and
+fortunes; and concluded by placing the packet on the table.
+
+After a long pause, Mr Bunsby nodded his head.
+
+“Open?” said the Captain.
+
+Bunsby nodded again.
+
+The Captain accordingly broke the seal, and disclosed to view two
+folded papers, of which he severally read the endorsements, thus: “Last
+Will and Testament of [[Solomon Gills]].” “Letter for Ned Cuttle.”
+
+Bunsby, with his eye on the coast of Greenland, seemed to listen for
+the contents. The Captain therefore hemmed to clear his throat, and
+read the letter aloud.
+
+“‘My dear Ned Cuttle. When I left [[Home|home]] for the West Indies’—”
+
+Here the Captain stopped, and looked hard at Bunsby, who looked fixedly
+at the coast of Greenland.
+
+“—‘in forlorn search of intelligence of my dear boy, I knew that if you
+were acquainted with my design, you would thwart it, or accompany me;
+and therefore I kept it secret. If you ever read this letter, Ned, I am
+likely to be dead. You will easily forgive an old friend’s folly then,
+and will feel for the restlessness and uncertainty in which he wandered
+away on such a wild voyage. So no more of that. I have little [[Hope|hope]] that
+my poor boy will ever read these words, or gladden your eyes with the
+sight of his frank face any more.’ No, no; no more,” said Captain
+Cuttle, sorrowfully meditating; “no more. There he lays, all his days—”
+
+Mr Bunsby, who had a musical ear, suddenly bellowed, “In the Bays of
+Biscay, O!” which so affected the good Captain, as an appropriate
+tribute to departed worth, that he shook him by the hand in
+acknowledgment, and was fain to wipe his eyes.
+
+“[[Well]], [[Well|well]]!” said the Captain with a sigh, as the Lament of Bunsby
+ceased to ring and vibrate in the skylight. “Affliction sore, long [[Time|time]]
+he bore, and let us overhaul the wollume, and there find it.”
+
+“Physicians,” observed Bunsby, “was in vain.”
+
+“Ay, ay, to be sure,” said the Captain, “what’s the good o’ them in two
+or three hundred fathoms o’ [[Water|water]]!” Then, returning to the letter, he
+read on:—“"But if he should be by, when it is opened;’” the Captain
+involuntarily looked round, and shook his head; “‘or should know of it
+at any other [[Time|time]];’” the Captain shook his head again; “‘my blessing on
+him! In case the accompanying paper is not legally written, it matters
+very little, for there is no one interested but you and he, and my
+plain wish is, that if he is living he should have what little there
+may be, and if (as I [[Fear|fear]]) otherwise, that you should have it, Ned. You
+will respect my wish, I know. God bless you for it, and for all your
+friendliness besides, to [[Solomon Gills]].’ Bunsby!” said the Captain,
+appealing to him solemnly, “what do you make of this? There you sit, a
+man as has had his head broke from infancy up’ards, and has got a new
+opinion into it at every seam as has been opened. Now, what do you make
+o’ this?”
+
+“If so be,” returned Bunsby, with unusual promptitude, “as he’s dead,
+my opinion is he won’t come back no more. If so be as he’s alive, my
+opinion is he will. Do I say he will? No. Why not? Because the bearings
+of this obserwation lays in the application on it.”
+
+“Bunsby!” said [[Captain Cuttle]], who would seem to have estimated the
+value of his distinguished friend’s opinions in proportion to the
+immensity of the difficulty he experienced in making anything out of
+them; “Bunsby,” said the Captain, quite confounded by admiration, “you
+carry a weight of mind easy, as would swamp one of my tonnage soon. But
+in regard o’ this here will, I don’t mean to take no steps towards the
+property—Lord forbid!—except to keep it for a more rightful owner; and
+I [[Hope|hope]] yet as the rightful owner, Sol Gills, is living and’ll come
+back, strange as it is that he ain’t forwarded no dispatches. Now, what
+is your opinion, Bunsby, as to stowing of these here papers away again,
+and marking outside as they was opened, such a day, in the presence of
+John Bunsby and Ed’ard Cuttle?”
+
+Bunsby, descrying no objection, on the coast of Greenland or elsewhere,
+to this proposal, it was carried into execution; and that great man,
+bringing his eye into the present for a moment, affixed his sign-manual
+to the cover, totally abstaining, with characteristic modesty, from the
+use of capital letters. [[Captain Cuttle]], having attached his own
+left-handed signature, and locked up the packet in the iron safe,
+entreated his guest to mix another glass and smoke another pipe; and
+doing the like himself, fell a musing over the [[Fire|fire]] on the possible
+fortunes of the poor old Instrument-maker.
+
+And now a surprise occurred, so overwhelming and terrific that Captain
+Cuttle, unsupported by the presence of Bunsby, must have sunk beneath
+it, and been a lost man from that fatal hour.
+
+How the Captain, even in the satisfaction of admitting such a guest,
+could have only shut the door, and not locked it, of which negligence
+he was undoubtedly guilty, is one of those questions that must for ever
+remain mere points of speculation, or vague charges against destiny.
+But by that unlocked door, at this quiet moment, did the fell
+MacStinger dash into the parlour, bringing Alexander MacStinger in her
+parental arms, and confusion and vengeance (not to mention Juliana
+MacStinger, and the sweet [[Child|child]]’s brother, Charles MacStinger,
+popularly known about the scenes of his youthful sports, as Chowley) in
+her train. She came so swiftly and so silently, like a rushing air from
+the neighbourhood of the East India Docks, that [[Captain Cuttle]] found
+himself in the very act of sitting looking at her, before the calm face
+with which he had been meditating, changed to one of horror and dismay.
+
+But the moment [[Captain Cuttle]] understood the full extent of his
+misfortune, [[Self|self]]-preservation dictated an attempt at flight. Darting at
+the little door which opened from the parlour on the steep little range
+of cellar-steps, the Captain made a rush, head-foremost, at the latter,
+like a man indifferent to bruises and contusions, who only sought to
+hide himself in the bowels of the earth. In this gallant effort he
+would probably have succeeded, but for the affectionate dispositions of
+Juliana and Chowley, who pinning him by the legs—one of those dear
+children holding on to each—claimed him as their friend, with
+lamentable cries. In the meantime, Mrs MacStinger, who never entered
+upon any action of importance without previously inverting Alexander
+MacStinger, to bring him within the range of a brisk battery of slaps,
+and then sitting him down to cool as the reader first beheld him,
+performed that solemn rite, as if on this occasion it were a sacrifice
+to the Furies; and having deposited the victim on the floor, made at
+the Captain with a strength of purpose that appeared to threaten
+scratches to the interposing Bunsby.
+
+The cries of the two elder MacStingers, and the wailing of young
+Alexander, who may be said to have passed a piebald [[Childhood|childhood]],
+forasmuch as he was black in the face during one half of that fairy
+period of existence, combined to make this visitation the more awful.
+But when [[Silence|silence]] reigned again, and the Captain, in a violent
+perspiration, stood meekly looking at Mrs MacStinger, its terrors were
+at their height.
+
+“Oh, Cap’en Cuttle, Cap’en Cuttle!” said Mrs MacStinger, making her
+chin rigid, and shaking it in unison with what, but for the weakness of
+her sex, might be described as her fist. “Oh, Cap’en Cuttle, Cap’en
+Cuttle, do you dare to look me in the face, and not be struck down in
+the berth!”
+
+The Captain, who looked anything but daring, feebly muttered “Stand
+by!”
+
+“Oh I was a weak and trusting [[Fool]] when I took you under my roof,
+Cap’en Cuttle, I was!” cried Mrs MacStinger. “To think of the benefits
+I’ve showered on that man, and the way in which I brought my children
+up to [[Love|love]] and [[Honour|honour]] him as if he was a father to ’em, when there
+ain’t a housekeeper, no nor a lodger in our street, don’t know that I
+lost money by that man, and by his guzzlings and his muzzlings”—Mrs
+MacStinger used the last word for the joint sake of alliteration and
+aggravation, rather than for the expression of any idea—“and when they
+cried out one and all, shame upon him for putting upon an industrious
+woman, up early and late for the good of her young family, and keeping
+her poor place so clean that a individual might have ate his dinner,
+yes, and his tea too, if he was so disposed, off any one of the floors
+or stairs, in spite of all his guzzlings and his muzzlings, such was
+the care and pains bestowed upon him!”
+
+Mrs MacStinger stopped to fetch her breath; and her face flushed with
+triumph in this second happy introduction of [[Captain Cuttle]]’s
+muzzlings.
+
+“And he runs awa-a-a-y!” cried Mrs MacStinger, with a lengthening out
+of the last syllable that made the unfortunate Captain regard himself
+as the meanest of men; “and keeps away a twelve-month! From a woman!
+Such is his [[Conscience|conscience]]! He hasn’t the [[Courage|courage]] to meet her hi-i-igh;”
+long syllable again; “but steals away, like a fellon. Why, if that baby
+of mine,” said Mrs MacStinger, with sudden rapidity, “was to offer to
+go and steal away, I’d do my duty as a mother by him, till he was
+covered with wales!”
+
+[Illustration]
+
+The young Alexander, interpreting this into a positive promise, to be
+shortly redeemed, tumbled over with [[Fear|fear]] and grief, and lay upon the
+floor, exhibiting the soles of his shoes and making such a deafening
+outcry, that Mrs MacStinger found it necessary to take him up in her
+arms, where she quieted him, ever and anon, as he broke out again, by a
+shake that seemed enough to loosen his teeth.
+
+“A pretty sort of a man is Cap’en Cuttle,” said Mrs MacStinger, with a
+sharp stress on the first syllable of the Captain’s name, “to take on
+for—and to lose [[Sleep|sleep]] for—and to faint along of—and to think dead
+forsooth—and to go up and down the blessed town like a [[Madwoman|madwoman]], asking
+questions after! Oh, a pretty sort of a man! Ha ha ha ha! He’s worth
+all that trouble and distress of mind, and much more. That’s nothing,
+bless you! Ha ha ha ha! Cap’en Cuttle,” said Mrs MacStinger, with
+severe reaction in her voice and manner, “I wish to know if you’re
+a-coming [[Home|home]].”
+
+The frightened Captain looked into his hat, as if he saw nothing for it
+but to put it on, and give himself up.
+
+“Cap’en Cuttle,” repeated Mrs MacStinger, in the same determined
+manner, “I wish to know if you’re a-coming [[Home|home]], Sir.”
+
+The Captain seemed quite ready to go, but faintly suggested something
+to the effect of “not making so much noise about it.”
+
+“Ay, ay, ay,” said Bunsby, in a soothing tone. “Awast, my lass, awast!”
+
+“And who may you be, if you please!” retorted Mrs MacStinger, with
+chaste loftiness. “Did you ever lodge at Number Nine, Brig Place, Sir?
+My [[Memory|memory]] may be bad, but not with me, I think. There was a Mrs Jollson
+lived at Number Nine before me, and perhaps you’re mistaking me for
+her. That is my only ways of accounting for your familiarity, Sir.”
+
+“Come, come, my lass, awast, awast!” said Bunsby.
+
+[[Captain Cuttle]] could hardly believe it, even of this great man, though
+he saw it done with his waking eyes; but Bunsby, advancing boldly, put
+his shaggy blue arm round Mrs MacStinger, and so softened her by his
+[[Magic|magic]] way of doing it, and by these few words—he said no more—that she
+melted into [[Tears|tears]], after looking upon him for a few moments, and
+observed that a [[Child|child]] might conquer her now, she was so low in her
+[[Courage|courage]].
+
+Speechless and utterly amazed, the Captain saw him gradually persuade
+this inexorable woman into the shop, return for rum and [[Water|water]] and a
+candle, take them to her, and pacify her without appearing to utter one
+word. Presently he looked in with his pilot-coat on, and said, “Cuttle,
+I’m a-going to act as convoy [[Home|home]];” and [[Captain Cuttle]], more to his
+confusion than if he had been put in irons himself, for safe transport
+to Brig Place, saw the family pacifically filing off, with Mrs
+MacStinger at their head. He had scarcely [[Time|time]] to take down his
+canister, and stealthily convey some money into the hands of Juliana
+MacStinger, his former favourite, and Chowley, who had the claim upon
+him that he was naturally of a maritime build, before the Midshipman
+was abandoned by them all; and Bunsby whispering that he’d carry on
+smart, and hail Ned Cuttle again before he went aboard, shut the door
+upon himself, as the last member of the party.
+
+Some uneasy ideas that he must be walking in his [[Sleep|sleep]], or that he had
+been troubled with phantoms, and not a family of flesh and [[Blood|blood]], beset
+the Captain at first, when he went back to the little parlour, and
+found himself [[Alone|alone]]. Illimitable [[Faith|faith]] in, and immeasurable admiration
+of, the Commander of the Cautious Clara, succeeded, and threw the
+Captain into a wondering trance.
+
+Still, as [[Time|time]] wore on, and Bunsby failed to reappear, the Captain
+began to entertain uncomfortable doubts of another kind. Whether Bunsby
+had been artfully decoyed to Brig Place, and was there detained in safe
+custody as hostage for his friend; in which case it would become the
+Captain, as a man of [[Honour|honour]], to release him, by the sacrifice of his
+own liberty. Whether he had been attacked and defeated by Mrs
+MacStinger, and was ashamed to show himself after his discomfiture.
+Whether Mrs MacStinger, thinking better of it, in the uncertainty of
+her temper, had turned back to board the Midshipman again, and Bunsby,
+pretending to conduct her by a short cut, was endeavouring to lose the
+family amid the wilds and savage places of the [[City]]. Above all, what it
+would behove him, [[Captain Cuttle]], to do, in case of his hearing no
+more, either of the MacStingers or of Bunsby, which, in these wonderful
+and unforeseen conjunctions of events, might possibly happen.
+
+He debated all this until he was tired; and still no Bunsby. He made up
+his bed under the counter, all ready for turning in; and still no
+Bunsby. At length, when the Captain had given him up, for that [[Night|night]] at
+least, and had begun to undress, the sound of approaching wheels was
+heard, and, stopping at the door, was succeeded by Bunsby’s hail.
+
+The Captain trembled to think that Mrs MacStinger was not to be got rid
+of, and had been brought back in a coach.
+
+But no. Bunsby was accompanied by nothing but a large box, which he
+hauled into the shop with his own hands, and as soon as he had hauled
+in, sat upon. [[Captain Cuttle]] knew it for the chest he had left at Mrs
+MacStinger’s [[house]], and looking, candle in hand, at Bunsby more
+attentively, believed that he was three sheets in the [[Wind|wind]], or, in
+plain words, drunk. It was difficult, however, to be sure of this; the
+Commander having no trace of expression in his face when sober.
+
+“Cuttle,” said the Commander, getting off the chest, and opening the
+lid, “are these here your traps?”
+
+[[Captain Cuttle]] looked in and identified his property.
+
+“Done pretty taut and trim, hey, shipmet?” said Bunsby.
+
+The grateful and bewildered Captain grasped him by the hand, and was
+launching into a reply expressive of his astonished feelings, when
+Bunsby disengaged himself by a jerk of his wrist, and seemed to make an
+effort to wink with his revolving eye, the only effect of which
+attempt, in his condition, was nearly to over-balance him. He then
+abruptly opened the door, and shot away to rejoin the Cautious Clara
+with all [[Speed|speed]]—supposed to be his invariable custom, whenever he
+considered he had made a point.
+
+As it was not his [[Humour|humour]] to be often sought, [[Captain Cuttle]] decided not
+to go or send to him next day, or until he should make his gracious
+pleasure known in such wise, or failing that, until some little [[Time|time]]
+should have lapsed. The Captain, therefore, renewed his solitary life
+next morning, and thought profoundly, many mornings, noons, and nights,
+of old Sol Gills, and Bunsby’s sentiments concerning him, and the hopes
+there were of his return. Much of such thinking strengthened Captain
+Cuttle’s hopes; and he humoured them and himself by watching for the
+Instrument-maker at the door—as he ventured to do now, in his strange
+liberty—and setting his chair in its place, and arranging the little
+parlour as it used to be, in case he should come [[Home|home]] unexpectedly. He
+likewise, in his thoughtfulness, took down a certain little miniature
+of Walter as a schoolboy, from its accustomed nail, lest it should
+shock the old man on his return. The Captain had his presentiments,
+too, sometimes, that he would come on such a day; and one particular
+[[Sunday]], even ordered a [[Double|double]] allowance of dinner, he was so sanguine.
+But come, old Solomon did not; and still the neighbours noticed how the
+seafaring man in the glazed hat, stood at the shop-door of an evening,
+looking up and down the street.

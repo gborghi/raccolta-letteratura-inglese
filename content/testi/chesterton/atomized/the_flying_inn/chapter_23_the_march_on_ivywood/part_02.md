@@ -14,6 +14,16 @@ tags:
 </nav>
 
 
+“Look here,” said Dorian, “this [[cheese]] is pretty heavy as it is. Have I got to carry a piano, too?”
+
+
+
+
+“You misunderstand me,” said the Captain, calmly. And as he had never thought of music shops until his eye had caught one an instant before, he darted into the doorway. Returning almost immediately with a long parcel under his arm, he resumed the conversation.
+
+
+
+
 “Did you go anywhere else,” asked Dorian, “except to shops?”
 
 
@@ -140,13 +150,3 @@ He tramped on for a while in [[Silence|silence]] and then said, with some air of
 
 
 “And his estate, too,” said Patrick, rather gloomily. “If you would climb his [[Garden|garden]]-wall, Wimpole, I think you would find an answer to a good many of your questions. Oh, yes, the right honourable gentlemen are making full provision for public order and national defence–in a way.”
-
-
-
-
-He fell into an almost sullen [[Silence|silence]] again; and several villages had been passed before he spoke again.
-
-
-
-
-They tramped through the darkness; and [[Dawn|dawn]] surprised them somewhere in the wilder and more wooded parts where the roads began to rise and roam. Dalroy gave an exclamation of pleasure and pointed ahead, drawing the attention of Dorian to the distance. Against the silver and scarlet bars of the daybreak could be seen afar a dark purple dome, with a [[Crown|crown]] of dark green [[Leaves|leaves]]; the place they had called Roundabout.

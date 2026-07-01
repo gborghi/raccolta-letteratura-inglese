@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 21 (part 7)"
+title: "Jane Eyre — Chapter 21 (part 7)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,25 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_21/part_06">‹ part 06</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_21/part_08">part 08 ›</a></div>
 </nav>
 
+
+She closed her lips.
+
+“You might have spared yourself the trouble of delivering that tirade,”
+answered Georgiana. “Everybody knows you are the most selfish,
+heartless creature in existence: and _I_ know your spiteful hatred
+towards me: I have had a specimen of it before in the trick you played
+me about Lord Edwin Vere: you could not bear me to be raised above you,
+to have a title, to be received into circles where you dare not show
+your face, and so you acted the spy and informer, and ruined my
+prospects for ever.” Georgiana took out her handkerchief and blew her
+nose for an hour afterwards; Eliza sat cold, impassable, and
+assiduously industrious.
+
+True, generous feeling is made small account of by some, but here were
+two natures rendered, the one intolerably acrid, the other despicably
+savourless for the want of it. Feeling without judgment is a washy
+draught indeed; but judgment untempered by feeling is too bitter and
+husky a morsel for human deglutition.
 
 It was a wet and windy afternoon: Georgiana had fallen asleep on the
 sofa over the perusal of a [[Novel|novel]]; Eliza was gone to attend a
@@ -124,23 +143,3 @@ miserable cruelty. I could not forget my own sensations when you thus
 started up and poured out the venom of your mind: I felt [[Fear|fear]] as if an
 animal that I had struck or pushed had looked up at me with human eyes
 and cursed me in a man’s voice.—Bring me some [[Water|water]]! Oh, make haste!”
-
-“Dear Mrs. Reed,” said I, as I offered her the draught she required,
-“think no more of all this, let it pass away from your mind. Forgive me
-for my passionate language: I was a [[Child|child]] then; eight, nine years have
-passed since that day.”
-
-She heeded nothing of what I said; but when she had tasted the [[Water|water]]
-and drawn breath, she went on thus—
-
-“I tell you I could not forget it; and I took my [[Revenge|revenge]]: for you to be
-adopted by your uncle, and placed in a state of ease and comfort, was
-what I could not endure. I wrote to him; I said I was sorry for his
-disappointment, but [[Jane Eyre]] was dead: she had died of typhus fever at
-Lowood. Now act as you please: write and contradict my assertion—expose
-my falsehood as soon as you like. You were born, I think, to be my
-torment: my last hour is racked by the recollection of a deed which,
-but for you, I should never have been tempted to commit.”
-
-“If you could but be persuaded to think no more of it, aunt, and to
-regard me with kindness and [[Forgiveness|forgiveness]]——”

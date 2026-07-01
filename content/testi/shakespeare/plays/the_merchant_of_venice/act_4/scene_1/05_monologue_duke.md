@@ -1,5 +1,5 @@
 ---
-title: "The Merchant of [[Venice]] — Act IV, Scene 1 — monologue (DUKE) [5]"
+title: "The Merchant of Venice — Act IV, Scene 1 — monologue (DUKE) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-merchant-of-venice-(shakespeare)"

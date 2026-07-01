@@ -1,5 +1,5 @@
 ---
-title: "[[queertrades]] — Chapter 6 (part 4)"
+title: "queertrades — Chapter 6 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/queertrades-(chesterton)"
@@ -20,9 +20,9 @@ enlighten you further about their ethics."
 "And may I ask," said Basil gloomily, "what it is that you
 propose to do?"
 
-"I propose, first of all," said Rupert, "to get into this [[house]];
-secondly, to have a look at these nice young [[Oxford]] men; thirdly, to knock
-them down, bind them, gag them, and search the [[house]]."
+"I propose, first of all," said Rupert, "to get into this house;
+secondly, to have a look at these nice young Oxford men; thirdly, to knock
+them down, bind them, gag them, and search the house."
 
 Basil stared indignantly for a few minutes.  Then he was shaken
 for an instant with one of his sudden laughs.
@@ -51,16 +51,16 @@ and a square, snub-nosed face.  He wore slippers and a sort of blazer
 of some incredible college purple.
 
 "This way," he said; "mind the steps by the staircase.
-This [[house]] is more crooked and old-fashioned than you would think
+This house is more crooked and old-fashioned than you would think
 from its snobbish exterior.  There are quite a lot of odd corners
 in the place really."
 
 "That," said Rupert, with a savage smile, "I can quite believe."
 
-We were by this [[Time|time]] in the study or back parlour, used by
+We were by this time in the study or back parlour, used by
 the young inhabitants as a sitting-room, an apartment littered
-with magazines and books ranging from [[Dante]] to [[Detective|detective]] stories.
-The other youth, who stood with his back to the [[Fire|fire]] smoking
+with magazines and books ranging from Dante to detective stories.
+The other youth, who stood with his back to the fire smoking
 a corncob, was big and burly, with dead brown hair brushed forward
 and a Norfolk jacket.  He was that particular type of man whose
 every feature and action is heavy and clumsy, and yet who is,
@@ -72,25 +72,25 @@ of science such as we.  I've half a mind to chuck my D.Sc. and
 turn minor poet."
 
 "Bosh," answered Grant.  "I never said a word against eminent men
-of science.  What I complain of is a vague popular [[philosophy]]
+of science.  What I complain of is a vague popular philosophy
 which supposes itself to be scientific when it is really nothing
 but a sort of new religion and an uncommonly nasty one.
 When people talked about the fall of man they knew they were
 talking about a mystery, a thing they didn't understand.
-Now that they talk about the [[Survival|survival]] of the fittest they think
+Now that they talk about the survival of the fittest they think
 they do understand it, whereas they have not merely no notion,
 they have an elaborately false notion of what the words mean.
 The Darwinian movement has made no difference to mankind,
-except that, instead of talking unphilosophically about [[philosophy]],
+except that, instead of talking unphilosophically about philosophy,
 they now talk unscientifically about science."
 
-"That is all very [[Well|well]]," said the big young man, whose name appeared
+"That is all very well," said the big young man, whose name appeared
 to be Burrows.  "Of course, in a sense, science, like mathematics
 or the violin, can only be perfectly understood by specialists.
 Still, the rudiments may be of public use.  Greenwood here,"
 indicating the little man in the blazer, "doesn't know one note
 of music from another.  Still, he knows something.  He knows enough
-to take off his hat when they play `God save the King'.  He doesn't
+to take off his hat when they play `God save the [[King]]'.  He doesn't
 take it off by mistake when they play `Oh, dem Golden Slippers'.
 Just in the same way science--"
 

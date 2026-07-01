@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 50 (part 4)"
+title: "Oliver Twist — Chapter 50 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_50/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_51/part_01">part 01 ›</a></div>
 </nav>
 
+
+The panic-stricken men pointed to where such articles were kept; the
+murderer, hastily selecting the longest and strongest cord, hurried up
+to the [[house]]-top.
+
+All the windows in the rear of the [[house]] had been long ago bricked up,
+except one small trap in the room where the boy was locked, and that
+was too small even for the passage of his [[Body|body]]. But, from this
+aperture, he had never ceased to call on those without, to guard the
+back; and thus, when the murderer emerged at last on the [[house]]-top by
+the door in the roof, a loud shout proclaimed the fact to those in
+front, who immediately began to pour round, pressing upon each other in
+an unbroken stream.
 
 He planted a board, which he had carried up with him for the purpose,
 so firmly against the door that it must be matter of great difficulty
@@ -105,7 +118,7 @@ the dangling [[Body|body]] which obscured his view, called to the people to come
 and take him out, for God’s sake.
 
 A dog, which had lain concealed till now, ran backwards and forwards on
-the parapet with a dismal howl, and collecting himself for a [[Spring|spring]],
+the parapet with a dismal howl, and collecting himself for a [[spring]],
 jumped for the dead man’s shoulders. Missing his aim, he fell into the
 ditch, turning completely over as he went; and striking his head
 against a stone, dashed out his brains.

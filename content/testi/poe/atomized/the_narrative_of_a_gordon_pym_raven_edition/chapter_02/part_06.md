@@ -14,6 +14,32 @@ tags:
 </nav>
 
 
+      on the other side. The former alternative presented too many
+
+      difficulties and dangers to be thought of without a shudder. In
+
+      my present weak state of both mind and [[Body|body]], I should infallibly
+
+      lose my way if I attempted it, and perish miserably amid the
+
+      dismal and disgusting labyrinths of the hold. I proceeded,
+
+      therefore, without hesitation, to summon up all my remaining
+
+      strength and fortitude, and endeavour, as I best might, to
+
+      clamber over the crate.
+
+
+
+      Upon standing erect, with this end in view, I found the
+
+      undertaking even a more serious task than my fears had led me to
+
+      imagine. On each side of the narrow passage arose a complete wall
+
+      of various heavy lumber, which the least blunder on my part might
+
       be the means of bringing down upon my head; or, if this accident
 
       did not occur, the path might be effectually blocked up against

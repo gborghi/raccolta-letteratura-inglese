@@ -1,5 +1,5 @@
 ---
-title: "scandal Fr Brown — The Scandal of [[Father Brown]] (part 4)"
+title: "scandal Fr Brown — The Scandal of Father Brown (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/scandal-fr-brown-(chesterton)"
@@ -122,11 +122,5 @@ she and her troubadour disappeared into the dark thickets.
 Agar Rock turned on his companion a face of final and awful justice;
 like the Day of Judgement.
 
-'[[Well]], all [[America]] is going to hear of this,' he said. 'In plain words,
+'[[Well]], all [[america|America]] is going to hear of this,' he said. 'In plain words,
 you helped her to bolt with that curly - haired [[Lover|lover]].'
-
-'Yes,' said [[Father Brown]], 'I helped her to bolt with that curly - haired
-[[Lover|lover]].'
-
-'You call yourself a minister of Jesus [[Christ]],' cried Rock, 'and you
-boast of a crime.'

@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Volume 31: never hazarded a second. With all this, I had never yet been"
+title: "Villette — Volume 31: never hazarded a second. With all this, I had never yet been"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/villette-(bronte)"

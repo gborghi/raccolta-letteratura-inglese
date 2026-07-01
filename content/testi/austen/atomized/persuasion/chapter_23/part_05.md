@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 23 (part 5)"
+title: "Persuasion — Chapter 23 (part 5)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -13,6 +13,30 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_23/part_04">‹ part 04</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_23/part_06">part 06 ›</a></div>
 </nav>
 
+
+knowledge of each other’s character, [[Truth|truth]], and attachment; more equal
+
+to act, more justified in acting. And there, as they slowly paced the
+
+gradual ascent, heedless of every group around them, seeing neither
+
+sauntering politicians, bustling housekeepers, flirting girls, nor
+
+nursery-maids and children, they could indulge in those retrospections
+
+and acknowledgements, and especially in those explanations of what had
+
+directly preceded the present moment, which were so poignant and so
+
+ceaseless in interest. All the little variations of the last week were
+
+gone through; and of yesterday and to-day there could scarcely be an
+
+end.
+
+
+
+She had not mistaken him. [[Jealousy]] of Mr Elliot had been the retarding
 
 weight, the [[Doubt|doubt]], the torment. That had begun to operate in the very
 
@@ -187,31 +211,3 @@ engagement with Benwick.
 “Here,” said he, “ended the worst of my state; for now I could at least
 
 put myself in the way of happiness; I could exert myself; I could do
-
-something. But to be waiting so long in inaction, and waiting only for
-
-evil, had been dreadful. Within the first five minutes I said, ‘I will
-
-be at Bath on Wednesday,’ and I was. Was it unpardonable to think it
-
-worth my while to come? and to arrive with some degree of [[Hope|hope]]? You
-
-were single. It was possible that you might retain the feelings of the
-
-past, as I did; and one encouragement happened to be mine. I could
-
-never [[Doubt|doubt]] that you would be loved and sought by others, but I knew to
-
-a certainty that you had refused one man, at least, of better
-
-pretensions than myself; and I could not help often saying, ‘Was this
-
-for me?’”
-
-
-
-Their first meeting in Milsom Street afforded much to be said, but the
-
-concert still more. That evening seemed to be made up of exquisite
-
-moments. The moment of her stepping forward in the Octagon Room to

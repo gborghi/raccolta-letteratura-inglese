@@ -1,5 +1,5 @@
 ---
-title: "[[manalive]] — Chapter 4 (part 2)"
+title: "manalive — Chapter 4 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/manalive-(chesterton)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/manalive/chapter_04/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/manalive/chapter_04/part_03">part 03 ›</a></div>
 </nav>
 
+
+"[[Michael]]," said Miss Hunt, in a very soft voice, "if you won't talk so much,
+I'll marry you."
 
 "It's no [[Time|time]] for talking," cried [[Michael]] [[Moon]]; "singing is the only thing.
 Can't you find that mandoline of yours, Rosamund?"
@@ -126,19 +129,3 @@ Those giant gestures of Man, that made the high statues
 and the strokes of war, tossed and tormented all their limbs.
 Silently as they strolled and stood they were bursting like
 batteries with an animal magnetism.
-
-"And now," cried [[Moon]] quite suddenly, stretching out a hand on each side,
-"let's [[Dance|dance]] round that bush!"
-
-"Why, what bush do you mean?" asked Rosamund, looking round with a sort
-of radiant rudeness.
-
-"The bush that isn't there," said [[Michael]]--"the Mulberry Bush."
-
-They had taken each other's hands, half laughing and quite ritually;
-and before they could disconnect again [[Michael]] spun them all round,
-like a demon spinning the world for a top.  [[Diana]] felt, as the circle of
-the horizon flew instantaneously around her, a far aerial sense of the ring
-of heights beyond [[London]] and corners where she had climbed as a [[Child|child]];
-she seemed almost to hear the rooks cawing about the old pines on Highgate,
-or to see the glowworms gathering and kindling in the woods of Box [[Hill]].

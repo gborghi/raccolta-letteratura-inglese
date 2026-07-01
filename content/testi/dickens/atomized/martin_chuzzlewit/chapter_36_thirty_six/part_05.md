@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 36: THIRTY SIX (part 5)"
+title: "Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_36_thirty_six/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_36_thirty_six/part_06">part 06 ›</a></div>
 </nav>
 
+
+‘My dear friend,’ said Tom, extending his hand, ‘it is very generous and
+gallant in you to receive me and my disclosure in this spirit; it makes
+me blush to think that I should have felt a moment’s uneasiness as I
+came along. You can’t think what a weight is lifted off my mind,’ said
+Tom, taking up his knife and fork again, and looking very cheerful. ‘I
+shall punish the Boar’s Head dreadfully.’
+
+The host, thus reminded of his duties, instantly betook himself to
+piling up all kinds of irreconcilable and contradictory viands in Tom’s
+plate, and a very capital breakfast Tom made, and very much the better
+for it Tom felt.
+
+‘That’s all right,’ said John, after contemplating his visitor’s
+proceedings with infinite satisfaction. ‘Now, about our plans. You are
+going to stay with me, of course. Where’s your box?’
 
 ‘It’s at the Inn,’ said Tom. ‘I didn’t intend--’
 
@@ -121,27 +137,3 @@ said, ‘You are a nice man, YOU are; where did YOU come from?’
 
 ‘It’s the same young lady,’ said Tom. ‘It’s quite right. Is she at
 [[Home|home]]?’
-
-‘I don’t know, I’m sure,’ rejoined the porter.
-
-‘Do you think you could have the goodness to ascertain?’ said Tom. He
-had quite a delicacy in offering the suggestion, for the possibility
-of such a step did not appear to present itself to the porter’s mind at
-all.
-
-The fact was that the porter in answering the gate-bell had, according
-to usage, rung the [[house]]-bell (for it is as [[Well|well]] to do these things in
-the Baronial style while you are about it), and that there the functions
-of his office had ceased. Being hired to open and shut the gate, and
-not to explain himself to strangers, he left this little incident to be
-developed by the footman with the tags, who, at this juncture, called
-out from the door steps:
-
-‘Hollo, there! wot are you up to? This way, young man!’
-
-‘Oh!’ said Tom, hurrying towards him. ‘I didn’t observe that there was
-anybody else. Pray is Miss Pinch at [[Home|home]]?’
-
-‘She’s IN,’ replied the footman. As much as to say to Tom: ‘But if you
-think she has anything to do with the proprietorship of this place you
-had better abandon that idea.’

@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 13 (part 3)"
+title: "Jane Eyre — Chapter 13 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_13/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_13/part_04">part 04 ›</a></div>
 </nav>
 
+
+“That was very false economy,” remarked Mrs. Fairfax, who now again
+caught the drift of the dialogue.
 
 “And was that the head and front of his offending?” demanded Mr.
 Rochester.
@@ -151,8 +154,3 @@ presently.
 
 “I was absorbed, sir: yes, and I was happy. To paint them, in short,
 was to enjoy one of the keenest pleasures I have ever known.”
-
-“That is not saying much. Your pleasures, by your own account, have
-been few; but I daresay you did exist in a kind of [[artist]]’s dreamland
-while you blent and arranged these strange tints. Did you sit at them
-long each day?”

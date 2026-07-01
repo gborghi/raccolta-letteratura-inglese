@@ -125,26 +125,3 @@ the [[Child|child]] comfortably bestowed among the softer packages, her
 grandfather and the schoolmaster walking on beside the driver, and the
 landlady and all the good folks of the inn screaming out their good
 wishes and farewells.
-
-What a soothing, luxurious, drowsy way of travelling, to lie inside
-that slowly-moving mountain, listening to the tinkling of the horses’
-[[Bells|bells]], the occasional smacking of the carter’s whip, the smooth [[rolling]]
-of the great broad wheels, the rattle of the harness, the cheery
-good-nights of passing travellers jogging past on little short-stepped
-horses--all made pleasantly indistinct by the thick awning, which
-seemed made for lazy listening under, till one fell asleep!  The very
-going to [[Sleep|sleep]], still with an indistinct idea, as the head jogged to
-and fro upon the pillow, of moving onward with no trouble or fatigue,
-and hearing all these sounds like dreamy music, lulling to the
-senses--and the slow waking up, and finding one’s [[Self|self]] staring out
-through the breezy curtain half-opened in the front, far up into the
-cold bright sky with its countless [[Stars|stars]], and downward at the driver’s
-lantern dancing on like its namesake Jack of the swamps and marshes,
-and sideways at the dark grim trees, and forward at the long bare [[Road|road]]
-rising up, up, up, until it stopped abruptly at a sharp high ridge as
-if there were no more [[Road|road]], and all beyond was sky--and the stopping at
-the inn to bait, and being helped out, and going into a room with [[Fire|fire]]
-and candles, and winking very much, and being agreeably reminded that
-the [[Night|night]] was cold, and anxious for very comfort’s sake to think it
-colder than it was!--What a delicious [[Journey|journey]] was that [[Journey|journey]] in the
-waggon.

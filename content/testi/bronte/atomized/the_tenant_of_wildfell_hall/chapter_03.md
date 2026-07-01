@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 3"
+title: "The Tenant of Wildfell Hall — Chapter 3"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -46,7 +46,7 @@ must beg you to make my excuses to the Millwards and Mrs. Wilson, when
 
 you see them, as I [[Fear|fear]] I cannot do myself the pleasure of calling upon
 
-them till my little [[arthur|Arthur]] is able to accompany me.”
+them till my little [[Arthur]] is able to accompany me.”
 
 
 
@@ -148,7 +148,7 @@ In a little while, however, I was sensible that some one was
 
 approaching me, with a light, but slow and hesitating tread. It was
 
-little [[arthur|Arthur]], irresistibly attracted by my dog Sancho, that was lying
+little [[Arthur]], irresistibly attracted by my dog Sancho, that was lying
 
 at my feet. On looking up I beheld him standing about two yards off,
 
@@ -176,7 +176,7 @@ she was uneasy at the [[Child|child]]’s position.
 
 
 
-“[[arthur|Arthur]],” said she, at length, “come here. You are troublesome to Mr.
+“[[Arthur]],” said she, at length, “come here. You are troublesome to Mr.
 
 Markham: he wishes to read.”
 
@@ -224,7 +224,7 @@ to make acquaintance.”
 
 “I do know something of him—but you must excuse me this [[Time|time]]; for the
 
-evenings, now, are dark and damp, and [[arthur|Arthur]], I [[Fear|fear]], is too delicate
+evenings, now, are dark and damp, and [[Arthur]], I [[Fear|fear]], is too delicate
 
 to risk exposure to their influence with impunity. We must defer the
 
@@ -242,7 +242,7 @@ sideboard, and the refreshment was duly presented to the guests. They
 
 both partook of the cake, but obstinately refused the wine, in spite of
 
-their hostess’s hospitable attempts to force it upon them. [[arthur|Arthur]],
+their hostess’s hospitable attempts to force it upon them. [[Arthur]],
 
 especially shrank from the ruby nectar as if in terror and disgust, and
 
@@ -250,7 +250,7 @@ was ready to cry when urged to take it.
 
 
 
-“Never mind, [[arthur|Arthur]],” said his mamma; “Mrs. Markham thinks it will do
+“Never mind, [[Arthur]],” said his mamma; “Mrs. Markham thinks it will do
 
 you good, as you were tired with your walk; but she will not oblige you
 

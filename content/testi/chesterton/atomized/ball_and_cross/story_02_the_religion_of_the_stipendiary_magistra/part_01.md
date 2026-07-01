@@ -1,5 +1,5 @@
 ---
-title: "ball and [[Cross|cross]] — The Religion of the Stipendiary Magistrate (part 1)"
+title: "ball and cross — The Religion of the Stipendiary Magistrate (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/ball-and-cross-(chesterton)"
@@ -109,19 +109,3 @@ of divine debris, the broken remainder of his first vision.
 The skies and [[Mountains|mountains]] were the splendid off-scourings of another place.
 The [[Stars|stars]] were lost jewels of the [[Queen]].  Our Lady had gone and left
 the [[Stars|stars]] by accident.
-
-His private tradition was equally wild and unworldly.
-His great-grandfather had been cut down at Culloden,
-certain in his last instant that God would restore the [[King]].
-His grandfather, then a boy of ten, had taken the terrible
-claymore from the hand of the dead and hung it up in his [[house]],
-burnishing it and sharpening it for sixty years, to be ready
-for the next rebellion.  His father, the youngest son and the last
-left alive, had refused to attend on [[Queen]] Victoria in Scotland.
-And Evan himself had been of one piece with his progenitors;
-and was not dead with them, but alive in the twentieth century.
-He was not in the least the pathetic Jacobite of whom we read,
-left behind by a final advance of all things.  He was, in his own fancy,
-a conspirator, fierce and up to date.  In the long, dark afternoons
-of the Highland [[Winter|winter]], he plotted and fumed in the dark.
-He drew plans of the capture of [[London]] on the desolate sand of Arisaig.

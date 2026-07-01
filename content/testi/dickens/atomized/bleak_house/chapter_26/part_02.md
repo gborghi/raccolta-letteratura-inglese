@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 26 (part 2)"
+title: "Bleak House — Chapter 26 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_26/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_26/part_03">part 03 ›</a></div>
 </nav>
 
+
+“Did she die at ninety, guv’ner?” inquires Phil.
+
+“No. Bosh! Let her rest in peace, God bless her!” says the
+trooper. “What set me on about country boys, and runaways, and
+good-for-nothings? You, to be sure! So you never clapped your eyes
+upon the country—marshes and [[Dreams|dreams]] excepted. Eh?”
 
 Phil shakes his head.
 
@@ -132,13 +139,3 @@ Squod shoulders his way round three sides of the gallery, and
 abruptly tacking off at his commander, makes a butt at him with his
 head, intended to express devotion to his service. He then begins to
 clear away the breakfast.
-
-Mr. George, after laughing cheerfully and clapping him on the
-shoulder, assists in these arrangements and helps to get the gallery
-into business order. That done, he takes a turn at the dumb-[[Bells|bells]],
-and afterwards weighing himself and opining that he is getting “too
-fleshy,” engages with great gravity in solitary broadsword practice.
-Meanwhile Phil has fallen to work at his usual table, where he screws
-and unscrews, and cleans, and files, and whistles into small
-apertures, and blackens himself more and more, and seems to do and
-undo everything that can be done and undone about a gun.

@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 15 (part 3)"
+title: "The Tenant of Wildfell Hall — Chapter 15 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_15/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_16/part_01">part 01 ›</a></div>
 </nav>
 
+
+gleaming with restless excitement—sometimes glancing at me while I
+
+spoke, then coursing the opposite wall, or fixed upon the carpet.
+
+
+
+“You should have come to me after all,” said she, “and heard what I had
+
+to say in my own justification. It was ungenerous and wrong to withdraw
+
+yourself so secretly and suddenly, immediately after such ardent
 
 protestations of attachment, without ever assigning a reason for the
 

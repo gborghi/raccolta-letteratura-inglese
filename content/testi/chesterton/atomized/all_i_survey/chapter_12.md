@@ -109,7 +109,6 @@ jerk of disappointment--
         Religion-refined
     Will shine through the veil with sweet lustre.
 
-
 If you read much of it, you will reach a state of mind in which,
 even though you know the jolt is coming, you can hardly forbear
 to scream.  We have read much of the gloomy life of the Brontë

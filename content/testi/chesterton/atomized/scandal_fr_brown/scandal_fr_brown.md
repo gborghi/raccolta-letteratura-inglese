@@ -304,7 +304,7 @@ her, ducked and darted to the door and disappeared.
 then, rather at a loss, and turning to the little priest: 'as I say, if
 you're English, you ought really to be on my side against these Dagos,
 anyhow. Oh, I'm not one of those who talk tosh about Anglo - Saxons; but
-there is such a thing as [[history]]. You can always claim that [[America]] got
+there is such a thing as [[history]]. You can always claim that [[america|America]] got
 her civilization from England.'
 
 'Also, to temper our [[Pride|pride]],' said [[Father Brown]], 'we must always admit
@@ -472,7 +472,7 @@ she and her troubadour disappeared into the dark thickets.
 Agar Rock turned on his companion a face of final and awful justice;
 like the Day of Judgement.
 
-'[[Well]], all [[America]] is going to hear of this,' he said. 'In plain words,
+'[[Well]], all [[america|America]] is going to hear of this,' he said. 'In plain words,
 you helped her to bolt with that curly - haired [[Lover|lover]].'
 
 'Yes,' said [[Father Brown]], 'I helped her to bolt with that curly - haired
@@ -5828,7 +5828,7 @@ the Tiger turned to escape by it. [[Flambeau]] and Tiger Tyrone looked at
 each other with steady eyes and exchanged something that was almost like
 a military salute.
 
-Meanwhile [[Father Brown]] had slipped into the chapel, to say a [[Prayer|prayer]] for
+Meanwhile [[Father Brown]] had slipped into the chapel, to say a [[prayer]] for
 several persons involved in these unseemly events. But he was rather
 smiling than otherwise, and, to tell the [[Truth|truth]], he was not by any means
 hopeless about Mr Tyrone and his deplorable family; but rather more

@@ -1,5 +1,5 @@
 ---
-title: "[[history]] — Chapter 7"
+title: "history — Chapter 7"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/history-(chesterton)"
@@ -339,7 +339,7 @@ in the responsible and even religious sense which had made
 his father so savage a Crusader against heretics, that he laid
 about him with his great [[Sword|sword]] before he fell at Evesham.
 
-Magna Carta was not a step towards [[Democracy|democracy]], but it was a step
+Magna Carta was not a step towards [[democracy]], but it was a step
 away from despotism.  If we hold that [[Double|double]] [[Truth|truth]] firmly, we have
 something like a key to the rest of English [[history]].  A rather loose
 aristocracy not only gained but often deserved the name of liberty.

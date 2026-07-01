@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 8 (part 5)"
+title: "Nicholas Nickleby — Chapter 8 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,26 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_08/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_09/part_01">part 01 ›</a></div>
 </nav>
 
+
+This business dispatched, a few slovenly lessons were performed, and
+Squeers retired to his fireside, leaving Nicholas to take care of the
+boys in the school-room, which was very cold, and where a meal of bread
+and [[cheese]] was served out shortly after dark.
+
+There was a small stove at that corner of the room which was nearest
+to the master’s desk, and by it Nicholas sat down, so depressed and
+[[Self|self]]-degraded by the consciousness of his position, that if [[Death|death]] could
+have come upon him at that [[Time|time]], he would have been almost happy to meet
+it. The cruelty of which he had been an unwilling witness, the coarse
+and ruffianly behaviour of Squeers even in his best moods, the filthy
+place, the sights and sounds about him, all contributed to this state of
+feeling; but when he recollected that, being there as an assistant,
+he actually seemed--no matter what unhappy train of circumstances had
+brought him to that pass--to be the aider and abettor of a system which
+filled him with honest disgust and indignation, he loathed himself, and
+felt, for the moment, as though the mere consciousness of his present
+situation must, through all [[Time|time]] to come, prevent his raising his head
+again.
 
 But, for the present, his resolve was taken, and the resolution he had
 formed on the preceding [[Night|night]] remained undisturbed. He had written to

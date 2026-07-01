@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities — Chapter 18"
+title: "A Tale of Two Cities — Chapter 19"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/a-tale-of-two-cities-(dickens)"
@@ -14,275 +14,330 @@ tags:
 </nav>
 
 
-CHAPTER XVIII.
-Nine Days
+CHAPTER XIX.
+An Opinion
 
 
-The [[Marriage|marriage]]-day was shining brightly, and they were ready outside the
-closed door of the Doctor’s room, where he was speaking with Charles
-Darnay. They were ready to go to church; the beautiful bride, Mr.
-Lorry, and [[Miss Pross]]--to whom the event, through a gradual process of
-reconcilement to the inevitable, would have been one of absolute bliss,
-but for the yet lingering consideration that her brother Solomon should
-have been the bridegroom.
+Worn out by anxious watching, Mr. Lorry fell asleep at his post. On the
+tenth morning of his suspense, he was startled by the shining of the sun
+into the room where a heavy slumber had overtaken him when it was dark
+[[Night|night]].
 
-“And so,” said Mr. Lorry, who could not sufficiently admire the bride,
-and who had been moving round her to take in every point of her quiet,
-pretty dress; “and so it was for this, my sweet Lucie, that I brought
-you across the Channel, such a baby! Lord bless me! How little I thought
-what I was doing! How lightly I valued the obligation I was conferring
-on my friend Mr. Charles!”
+He rubbed his eyes and roused himself; but he doubted, when he had
+done so, whether he was not still asleep. For, going to the door of the
+Doctor’s room and looking in, he perceived that the shoemaker’s bench
+and tools were put aside again, and that the Doctor himself sat reading
+at the [[Window|window]]. He was in his usual morning dress, and his face (which
+Mr. Lorry could distinctly see), though still very pale, was calmly
+studious and attentive.
 
-“You didn’t mean it,” remarked the matter-of-fact [[Miss Pross]], “and
-therefore how could you know it? Nonsense!”
+Even when he had satisfied himself that he was awake, Mr. Lorry felt
+giddily uncertain for some few moments whether the late shoemaking might
+not be a disturbed dream of his own; for, did not his eyes show him his
+friend before him in his accustomed clothing and aspect, and employed
+as usual; and was there any sign within their range, that the change of
+which he had so strong an impression had actually happened?
 
-“Really? [[Well]]; but don’t cry,” said the gentle Mr. Lorry.
+It was but the inquiry of his first confusion and astonishment, the
+answer being obvious. If the impression were not produced by a real
+corresponding and sufficient cause, how came he, [[Jarvis Lorry]], there?
+How came he to have fallen asleep, in his clothes, on the sofa in Doctor
+Manette’s consulting-room, and to be debating these points outside the
+Doctor’s bedroom door in the early morning?
 
-“I am not crying,” said [[Miss Pross]]; “_you_ are.”
+Within a few minutes, [[Miss Pross]] stood whispering at his side. If he
+had had any particle of [[Doubt|doubt]] left, her talk would of necessity have
+resolved it; but he was by that [[Time|time]] clear-headed, and had none.
+He advised that they should let the [[Time|time]] go by until the regular
+breakfast-hour, and should then meet the Doctor as if nothing unusual
+had occurred. If he appeared to be in his customary state of mind, Mr.
+Lorry would then cautiously proceed to seek direction and guidance from
+the opinion he had been, in his anxiety, so anxious to obtain.
 
-“I, my Pross?” (By this [[Time|time]], Mr. Lorry dared to be pleasant with her,
-on occasion.)
+[[Miss Pross]], submitting herself to his judgment, the scheme was worked
+out with care. Having abundance of [[Time|time]] for his usual methodical
+toilette, Mr. Lorry presented himself at the breakfast-hour in his usual
+white linen, and with his usual neat leg. The Doctor was summoned in the
+usual way, and came to breakfast.
 
-“You were, just now; I saw you do it, and I don’t [[Wonder|wonder]] at it. Such
-a present of plate as you have made ’em, is enough to bring [[Tears|tears]] into
-anybody’s eyes. There’s not a fork or a spoon in the collection,” said
-[[Miss Pross]], “that I didn’t cry over, last [[Night|night]] after the box came, till
-I couldn’t see it.”
+So far as it was possible to comprehend him without overstepping those
+delicate and gradual approaches which Mr. Lorry felt to be the only safe
+advance, he at first supposed that his daughter’s [[Marriage|marriage]] had taken
+place yesterday. An incidental allusion, purposely thrown out, to
+the day of the week, and the day of the month, set him thinking and
+counting, and evidently made him uneasy. In all other respects, however,
+he was so composedly himself, that Mr. Lorry determined to have the aid
+he sought. And that aid was his own.
 
-“I am highly gratified,” said Mr. Lorry, “though, upon my [[Honour|honour]], I
-had no intention of rendering those trifling articles of remembrance
-invisible to any one. Dear me! This is an occasion that makes a man
-speculate on all he has lost. Dear, dear, dear! To think that there
-might have been a Mrs. Lorry, any [[Time|time]] these fifty years almost!”
+Therefore, when the breakfast was done and cleared away, and he and the
+Doctor were left together, Mr. Lorry said, feelingly:
 
-“Not at all!” From [[Miss Pross]].
+“My dear Manette, I am anxious to have your opinion, in confidence, on a
+very curious case in which I am deeply interested; that is to say, it is
+very curious to me; perhaps, to your better information it may be less
+so.”
 
-“You think there never might have been a Mrs. Lorry?” asked the
-gentleman of that name.
+Glancing at his hands, which were discoloured by his late work, the
+Doctor looked troubled, and listened attentively. He had already glanced
+at his hands more than once.
 
-“Pooh!” rejoined [[Miss Pross]]; “you were a bachelor in your cradle.”
+“[[Doctor Manette]],” said Mr. Lorry, touching him affectionately on the
+arm, “the case is the case of a particularly dear friend of mine. Pray
+give your mind to it, and advise me [[Well|well]] for his sake--and above all,
+for his daughter’s--his daughter’s, my dear Manette.”
 
-“[[Well]]!” observed Mr. Lorry, beamingly adjusting his little wig, “that
-seems probable, too.”
+“If I understand,” said the Doctor, in a subdued tone, “some mental
+shock--?”
 
-“And you were cut out for a bachelor,” pursued [[Miss Pross]], “before you
-were put in your cradle.”
+“Yes!”
 
-“Then, I think,” said Mr. Lorry, “that I was very unhandsomely dealt
-with, and that I ought to have had a voice in the selection of my
-pattern. Enough! Now, my dear Lucie,” drawing his arm soothingly round
-her waist, “I hear them moving in the next room, and [[Miss Pross]] and
-I, as two formal folks of business, are anxious not to lose the final
-opportunity of saying something to you that you wish to hear. You leave
-your good father, my dear, in hands as earnest and as loving as your
-own; he shall be taken every conceivable care of; during the next
-fortnight, while you are in Warwickshire and thereabouts, even Tellson’s
-shall go to the wall (comparatively speaking) before him. And when, at
-the fortnight’s end, he comes to join you and your beloved husband, on
-your other fortnight’s trip in Wales, you shall say that we have sent
-him to you in the best health and in the happiest frame. Now, I hear
-Somebody’s step coming to the door. Let me kiss my dear girl with an
-old-fashioned bachelor blessing, before Somebody comes to claim his
-own.”
+“Be explicit,” said the Doctor. “Spare no detail.”
 
-For a moment, he held the fair face from him to look at the
-[[Well|well]]-remembered expression on the forehead, and then laid the bright
-golden hair against his little brown wig, with a genuine tenderness and
-delicacy which, if such things be old-fashioned, were as old as Adam.
+Mr. Lorry saw that they understood one another, and proceeded.
 
-The door of the Doctor’s room opened, and he came out with Charles
-Darnay. He was so deadly pale--which had not been the case when they
-went in together--that no vestige of colour was to be seen in his face.
-But, in the composure of his manner he was unaltered, except that to the
-shrewd glance of Mr. Lorry it disclosed some shadowy indication that the
-old air of avoidance and dread had lately passed over him, like a cold
-[[Wind|wind]].
+“My dear Manette, it is the case of an old and a prolonged shock,
+of great acuteness and severity to the affections, the feelings,
+the--the--as you express it--the mind. The mind. It is the case of a
+shock under which the sufferer was borne down, one cannot say for how
+long, because I believe he cannot calculate the [[Time|time]] himself, and there
+are no other means of getting at it. It is the case of a shock from
+which the sufferer recovered, by a process that he cannot trace
+himself--as I once heard him publicly relate in a striking manner. It is
+the case of a shock from which he has recovered, so completely, as to
+be a highly intelligent man, capable of close application of mind, and
+great exertion of [[Body|body]], and of constantly making fresh additions to his
+stock of knowledge, which was already very large. But, unfortunately,
+there has been,” he paused and took a deep breath--“a slight relapse.”
 
-He gave his arm to his daughter, and took her down-stairs to the chariot
-which Mr. Lorry had hired in [[Honour|honour]] of the day. The rest followed in
-another carriage, and soon, in a neighbouring church, where no strange
-eyes looked on, [[Charles Darnay]] and [[Lucie Manette]] were happily married.
+The Doctor, in a low voice, asked, “Of how long duration?”
 
-Besides the glancing [[Tears|tears]] that shone among the smiles of the little
-group when it was done, some diamonds, very bright and sparkling,
-glanced on the bride’s hand, which were newly released from the
-dark obscurity of one of Mr. Lorry’s pockets. They returned [[Home|home]] to
-breakfast, and all went [[Well|well]], and in due course the golden hair that had
-mingled with the poor shoemaker’s white locks in the [[Paris]] garret, were
-mingled with them again in the morning sunlight, on the threshold of the
-door at parting.
+“Nine days and nights.”
 
-It was a hard parting, though it was not for long. But her father
-cheered her, and said at last, gently disengaging himself from her
-enfolding arms, “Take her, Charles! She is yours!”
+“How did it show itself? I infer,” glancing at his hands again, “in the
+resumption of some old pursuit connected with the shock?”
 
-And her agitated hand waved to them from a chaise [[Window|window]], and she was
-gone.
+“That is the fact.”
 
-The corner being out of the way of the idle and curious, and the
-preparations having been very simple and few, the Doctor, Mr. Lorry,
-and [[Miss Pross]], were left quite [[Alone|alone]]. It was when they turned into
-the welcome shade of the cool old hall, that Mr. Lorry observed a great
-change to have come over the Doctor; as if the golden arm uplifted
-there, had struck him a poisoned blow.
+“Now, did you ever see him,” asked the Doctor, distinctly and
+collectedly, though in the same low voice, “engaged in that pursuit
+originally?”
 
-He had naturally repressed much, and some revulsion might have been
-expected in him when the occasion for repression was gone. But, it was
-the old scared lost look that troubled Mr. Lorry; and through his absent
-manner of clasping his head and drearily wandering away into his own
-room when they got up-stairs, Mr. Lorry was reminded of Defarge the
-wine-shop keeper, and the starlight ride.
+“Once.”
 
-“I think,” he whispered to [[Miss Pross]], after anxious consideration, “I
-think we had best not speak to him just now, or at all disturb him.
-I must look in at Tellson’s; so I will go there at once and come back
-presently. Then, we will take him a ride into the country, and dine
-there, and all will be [[Well|well]].”
+“And when the relapse fell on him, was he in most respects--or in all
+respects--as he was then?”
 
-It was easier for Mr. Lorry to look in at Tellson’s, than to look out of
-Tellson’s. He was detained two hours. When he came back, he ascended the
-old staircase [[Alone|alone]], having asked no question of the servant; going thus
-into the Doctor’s rooms, he was stopped by a low sound of knocking.
+“I think in all respects.”
 
-“Good God!” he said, with a start. “What’s that?”
+“You spoke of his daughter. Does his daughter know of the relapse?”
 
-[[Miss Pross]], with a terrified face, was at his ear. “O me, O me! All is
-lost!” cried she, wringing her hands. “What is to be told to Ladybird?
-He doesn’t know me, and is making shoes!”
+“No. It has been kept from her, and I [[Hope|hope]] will always be kept from her.
+It is known only to myself, and to one other who may be trusted.”
 
-Mr. Lorry said what he could to calm her, and went himself into the
-Doctor’s room. The bench was turned towards the light, as it had been
-when he had seen the shoemaker at his work before, and his head was bent
-down, and he was very busy.
+The Doctor grasped his hand, and murmured, “That was very kind. That was
+very thoughtful!” Mr. Lorry grasped his hand in return, and neither of
+the two spoke for a little while.
 
-“[[Doctor Manette]]. My dear friend, [[Doctor Manette]]!”
+“Now, my dear Manette,” said Mr. Lorry, at length, in his most
+considerate and most affectionate way, “I am a mere man of business,
+and unfit to cope with such intricate and difficult matters. I do not
+possess the kind of information necessary; I do not possess the kind of
+intelligence; I want guiding. There is no man in this world on whom
+I could so rely for right guidance, as on you. Tell me, how does this
+relapse come about? Is there danger of another? Could a repetition of it
+be prevented? How should a repetition of it be treated? How does it come
+about at all? What can I do for my friend? No man ever can have been
+more desirous in his heart to serve a friend, than I am to serve mine,
+if I knew how.
 
-The Doctor looked at him for a moment--half inquiringly, half as if he
-were angry at being spoken to--and bent over his work again.
+“But I don’t know how to originate, in such a case. If your sagacity,
+knowledge, and experience, could put me on the right track, I might be
+able to do so much; unenlightened and undirected, I can do so little.
+Pray discuss it with me; pray enable me to see it a little more clearly,
+and teach me how to be a little more useful.”
 
-He had laid aside his coat and waistcoat; his shirt was open at the
-throat, as it used to be when he did that work; and even the old
-haggard, faded surface of face had come back to him. He worked
-hard--impatiently--as if in some sense of having been interrupted.
+[[Doctor Manette]] sat meditating after these earnest words were spoken, and
+Mr. Lorry did not press him.
 
-Mr. Lorry glanced at the work in his hand, and observed that it was a
-shoe of the old size and shape. He took up another that was lying by
-him, and asked what it was.
+“I think it probable,” said the Doctor, breaking [[Silence|silence]] with an effort,
+“that the relapse you have described, my dear friend, was not quite
+unforeseen by its subject.”
 
-“A young lady’s walking shoe,” he muttered, without looking up. “It
-ought to have been finished long ago. Let it be.”
+“Was it dreaded by him?” Mr. Lorry ventured to ask.
 
-“But, [[Doctor Manette]]. Look at me!”
+“Very much.” He said it with an involuntary shudder.
 
-He obeyed, in the old mechanically submissive manner, without pausing in
-his work.
+“You have no idea how such an apprehension weighs on the sufferer’s
+mind, and how difficult--how almost impossible--it is, for him to force
+himself to utter a word upon the topic that oppresses him.”
 
-“You know me, my dear friend? Think again. This is not your proper
-occupation. Think, dear friend!”
+“Would he,” asked Mr. Lorry, “be sensibly relieved if he could prevail
+upon himself to impart that secret brooding to any one, when it is on
+him?”
 
-Nothing would induce him to speak more. He looked up, for an instant at
-a [[Time|time]], when he was requested to do so; but, no [[Persuasion|persuasion]] would extract
-a word from him. He worked, and worked, and worked, in [[Silence|silence]], and
-words fell on him as they would have fallen on an echoless wall, or on
-the air. The only ray of [[Hope|hope]] that Mr. Lorry could discover, was, that
-he sometimes furtively looked up without being asked. In that, there
-seemed a faint expression of curiosity or perplexity--as though he were
-trying to reconcile some doubts in his mind.
+“I think so. But it is, as I have told you, next to impossible. I even
+believe it--in some cases--to be quite impossible.”
 
-Two things at once impressed themselves on Mr. Lorry, as important above
-all others; the first, that this must be kept secret from Lucie;
-the second, that it must be kept secret from all who knew him. In
-conjunction with [[Miss Pross]], he took immediate steps towards the latter
-precaution, by giving out that the Doctor was not [[Well|well]], and required a
-few days of complete rest. In aid of the kind [[Deception|deception]] to be practised
-on his daughter, [[Miss Pross]] was to write, describing his having been
-called away professionally, and referring to an imaginary letter of
-two or three hurried lines in his own hand, represented to have been
-addressed to her by the same post.
+“Now,” said Mr. Lorry, gently laying his hand on the Doctor’s arm again,
+after a short [[Silence|silence]] on both sides, “to what would you refer this
+attack?”
 
-These measures, advisable to be taken in any case, Mr. Lorry took in
-the [[Hope|hope]] of his coming to himself. If that should happen soon, he kept
-another course in reserve; which was, to have a certain opinion that he
-thought the best, on the Doctor’s case.
+“I believe,” returned [[Doctor Manette]], “that there had been a strong and
+extraordinary revival of the train of thought and remembrance that
+was the first cause of the malady. Some intense associations of a most
+distressing [[Nature|nature]] were vividly recalled, I think. It is probable that
+there had long been a dread lurking in his mind, that those associations
+would be recalled--say, under certain circumstances--say, on a
+particular occasion. He tried to prepare himself in vain; perhaps the
+effort to prepare himself made him less able to bear it.”
 
-In the [[Hope|hope]] of his recovery, and of resort to this third course
-being thereby rendered practicable, Mr. Lorry resolved to watch him
-attentively, with as little appearance as possible of doing so. He
-therefore made arrangements to absent himself from Tellson’s for the
-first [[Time|time]] in his life, and took his post by the [[Window|window]] in the same
-room.
+“Would he remember what took place in the relapse?” asked Mr. Lorry,
+with natural hesitation.
 
-He was not long in discovering that it was worse than useless to speak
-to him, since, on being pressed, he became worried. He abandoned that
-attempt on the first day, and resolved merely to keep himself always
-before him, as a silent protest against the delusion into which he had
-fallen, or was falling. He remained, therefore, in his seat near the
-[[Window|window]], reading and writing, and expressing in as many pleasant and
-natural ways as he could think of, that it was a free place.
+The Doctor looked desolately round the room, shook his head, and
+answered, in a low voice, “Not at all.”
 
-[[Doctor Manette]] took what was given him to eat and drink, and worked on,
-that first day, until it was too dark to see--worked on, half an hour
-after Mr. Lorry could not have seen, for his life, to read or write.
-When he put his tools aside as useless, until morning, Mr. Lorry [[Rose|rose]]
-and said to him:
+“Now, as to the future,” hinted Mr. Lorry.
 
-“Will you go out?”
+“As to the future,” said the Doctor, recovering firmness, “I should have
+great [[Hope|hope]]. As it pleased Heaven in its [[Mercy|mercy]] to restore him so soon, I
+should have great [[Hope|hope]]. He, yielding under the pressure of a complicated
+something, long dreaded and long vaguely foreseen and contended against,
+and recovering after the cloud had burst and passed, I should [[Hope|hope]] that
+the worst was over.”
 
-He looked down at the floor on either side of him in the old manner,
-looked up in the old manner, and repeated in the old low voice:
+“[[Well]], [[Well|well]]! That’s good comfort. I am thankful!” said Mr. Lorry.
 
-“Out?”
+“I am thankful!” repeated the Doctor, bending his head with reverence.
 
-“Yes; for a walk with me. Why not?”
+“There are two other points,” said Mr. Lorry, “on which I am anxious to
+be instructed. I may go on?”
 
-He made no effort to say why not, and said not a word more. But, Mr.
-Lorry thought he saw, as he leaned forward on his bench in the dusk,
-with his elbows on his knees and his head in his hands, that he was in
-some misty way asking himself, “Why not?” The sagacity of the man of
-business perceived an advantage here, and determined to hold it.
+“You cannot do your friend a better service.” The Doctor gave him his
+hand.
 
-[[Miss Pross]] and he divided the [[Night|night]] into two watches, and observed him
-at intervals from the adjoining room. He paced up and down for a long
-[[Time|time]] before he lay down; but, when he did finally lay himself down, he
-fell asleep. In the morning, he was up betimes, and went straight to his
-bench and to work.
+“To the first, then. He is of a studious habit, and unusually energetic;
+he applies himself with great ardour to the acquisition of professional
+knowledge, to the conducting of experiments, to many things. Now, does
+he do too much?”
 
-On this second day, Mr. Lorry saluted him cheerfully by his name,
-and spoke to him on topics that had been of late familiar to them. He
-returned no reply, but it was evident that he heard what was said, and
-that he thought about it, however confusedly. This encouraged Mr. Lorry
-to have [[Miss Pross]] in with her work, several times during the day;
-at those times, they quietly spoke of Lucie, and of her father then
-present, precisely in the usual manner, and as if there were nothing
-amiss. This was done without any demonstrative accompaniment, not long
-enough, or often enough to harass him; and it lightened Mr. Lorry’s
-friendly heart to believe that he looked up oftener, and that he
-appeared to be stirred by some perception of inconsistencies surrounding
-him.
+“I think not. It may be the character of his mind, to be always in
+singular need of occupation. That may be, in part, natural to it; in
+part, the result of affliction. The less it was occupied with healthy
+things, the more it would be in danger of turning in the unhealthy
+direction. He may have observed himself, and made the discovery.”
 
-When it fell dark again, Mr. Lorry asked him as before:
+“You are sure that he is not under too great a strain?”
 
-“Dear Doctor, will you go out?”
+“I think I am quite sure of it.”
 
-As before, he repeated, “Out?”
+“My dear Manette, if he were overworked now--”
 
-“Yes; for a walk with me. Why not?”
+“My dear Lorry, I [[Doubt|doubt]] if that could easily be. There has been a
+violent stress in one direction, and it needs a counterweight.”
 
-This [[Time|time]], Mr. Lorry feigned to go out when he could extract no answer
-from him, and, after remaining absent for an hour, returned. In the
-meanwhile, the Doctor had removed to the seat in the [[Window|window]], and had
-sat there looking down at the plane-tree; but, on Mr. Lorry’s return, he
-slipped away to his bench.
+“Excuse me, as a persistent man of business. Assuming for a moment,
+that he _was_ overworked; it would show itself in some renewal of this
+disorder?”
 
-The [[Time|time]] went very slowly on, and Mr. Lorry’s [[Hope|hope]] darkened, and his
-heart grew heavier again, and grew yet heavier and heavier every day.
-The third day came and went, the fourth, the fifth. Five days, six days,
-seven days, eight days, nine days.
+“I do not think so. I do not think,” said [[Doctor Manette]] with the
+firmness of [[Self|self]]-conviction, “that anything but the one train of
+association would renew it. I think that, henceforth, nothing but some
+extraordinary jarring of that chord could renew it. After what has
+happened, and after his recovery, I find it difficult to imagine any
+such violent sounding of that string again. I trust, and I almost
+believe, that the circumstances likely to renew it are exhausted.”
 
-With a [[Hope|hope]] ever darkening, and with a heart always growing heavier and
-heavier, Mr. Lorry passed through this anxious [[Time|time]]. The secret was
-[[Well|well]] kept, and Lucie was unconscious and happy; but he could not fail to
-observe that the shoemaker, whose hand had been a little out at first,
-was growing dreadfully skilful, and that he had never been so intent on
-his work, and that his hands had never been so nimble and expert, as in
-the dusk of the ninth evening.
+He spoke with the diffidence of a man who knew how slight a thing
+would overset the delicate organisation of the mind, and yet with the
+confidence of a man who had slowly won his assurance out of personal
+[[Endurance|endurance]] and distress. It was not for his friend to abate that
+confidence. He professed himself more relieved and encouraged than he
+really was, and approached his second and last point. He felt it to
+be the most difficult of all; but, remembering his old [[Sunday]] morning
+conversation with [[Miss Pross]], and remembering what he had seen in the
+last nine days, he knew that he must face it.
+
+“The occupation resumed under the influence of this passing affliction
+so happily recovered from,” said Mr. Lorry, clearing his throat, “we
+will call--Blacksmith’s work, Blacksmith’s work. We will say, to put a
+case and for the sake of illustration, that he had been used, in his bad
+[[Time|time]], to work at a little forge. We will say that he was unexpectedly
+found at his forge again. Is it not a pity that he should keep it by
+him?”
+
+The Doctor shaded his forehead with his hand, and beat his foot
+nervously on the ground.
+
+“He has always kept it by him,” said Mr. Lorry, with an anxious look at
+his friend. “Now, would it not be better that he should let it go?”
+
+Still, the Doctor, with shaded forehead, beat his foot nervously on the
+ground.
+
+“You do not find it easy to advise me?” said Mr. Lorry. “I quite
+understand it to be a nice question. And yet I think--” And there he
+shook his head, and stopped.
+
+“You see,” said [[Doctor Manette]], turning to him after an uneasy pause,
+“it is very hard to explain, consistently, the innermost workings
+of this poor man’s mind. He once yearned so frightfully for that
+occupation, and it was so welcome when it came; no [[Doubt|doubt]] it relieved
+his [[Pain|pain]] so much, by substituting the perplexity of the fingers for
+the perplexity of the brain, and by substituting, as he became more
+practised, the ingenuity of the hands, for the ingenuity of the mental
+torture; that he has never been able to bear the thought of putting it
+quite out of his reach. Even now, when I believe he is more hopeful of
+himself than he has ever been, and even speaks of himself with a kind
+of confidence, the idea that he might need that old employment, and not
+find it, gives him a sudden sense of terror, like that which one may
+fancy strikes to the heart of a lost [[Child|child]].”
+
+He looked like his illustration, as he raised his eyes to Mr. Lorry’s
+face.
+
+“But may not--mind! I ask for information, as a plodding man of business
+who only deals with such material objects as guineas, shillings, and
+bank-notes--may not the retention of the thing involve the retention of
+the idea? If the thing were gone, my dear Manette, might not the [[Fear|fear]] go
+with it? In short, is it not a concession to the misgiving, to keep the
+forge?”
+
+There was another [[Silence|silence]].
+
+“You see, too,” said the Doctor, tremulously, “it is such an old
+companion.”
+
+“I would not keep it,” said Mr. Lorry, shaking his head; for he gained
+in firmness as he saw the Doctor disquieted. “I would recommend him to
+sacrifice it. I only want your authority. I am sure it does no good.
+Come! Give me your authority, like a dear good man. For his daughter’s
+sake, my dear Manette!”
+
+Very strange to see what a struggle there was within him!
+
+“In her name, then, let it be done; I sanction it. But, I would not take
+it away while he was present. Let it be removed when he is not there;
+let him miss his old companion after an absence.”
+
+Mr. Lorry readily engaged for that, and the conference was ended. They
+passed the day in the country, and the Doctor was quite restored. On the
+three following days he remained perfectly [[Well|well]], and on the fourteenth
+day he went away to join Lucie and her husband. The precaution that
+had been taken to account for his [[Silence|silence]], Mr. Lorry had previously
+explained to him, and he had written to Lucie in accordance with it, and
+she had no suspicions.
+
+On the [[Night|night]] of the day on which he left the [[house]], Mr. Lorry went into
+his room with a chopper, saw, chisel, and hammer, attended by [[Miss Pross]]
+carrying a light. There, with closed doors, and in a mysterious and
+guilty manner, Mr. Lorry hacked the shoemaker’s bench to pieces, while
+[[Miss Pross]] held the candle as if she were assisting at a murder--for
+which, indeed, in her grimness, she was no unsuitable figure. The
+burning of the [[Body|body]] (previously reduced to pieces convenient for the
+purpose) was commenced without delay in the kitchen [[Fire|fire]]; and the tools,
+shoes, and leather, were buried in the [[Garden|garden]]. So wicked do destruction
+and secrecy appear to honest minds, that Mr. Lorry and [[Miss Pross]],
+while engaged in the commission of their deed and in the removal of its
+traces, almost felt, and almost looked, like accomplices in a horrible
+crime.

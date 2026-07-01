@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 11: ELEVEN (part 6)"
+title: "Martin Chuzzlewit — Chapter 11: ELEVEN (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_11_eleven/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_11_eleven/part_07">part 07 ›</a></div>
 </nav>
 
+
+By the [[Time|time]] he had unfolded all the peddling schemes he knew upon the
+cards, it was growing late in the evening; and Mr Pecksniff not making
+his appearance, the young ladies expressed a wish to return [[Home|home]]. But
+this, Mr Jonas, in his gallantry, would by no means allow, until they
+had partaken of some bread and [[cheese]] and porter; and even then he was
+excessively unwilling to allow them to depart; often beseeching Miss
+[[Charity]] to come a little closer, or to stop a little longer, and
+preferring many other complimentary petitions of that [[Nature|nature]] in his own
+hospitable and earnest way. When all his efforts to detain them were
+fruitless, he put on his hat and greatcoat preparatory to escorting them
+to Todgers’s; remarking that he knew they would rather walk thither than
+ride; and that for his part he was quite of their opinion.
 
 ‘Good [[Night|night]],’ said Anthony. ‘Good [[Night|night]]; remember me to--ha, ha, ha!--to
 Pecksniff. Take care of your cousin, my dears; beware of Jonas; he’s a
@@ -112,15 +125,3 @@ the tune, gasping for breath. He was a tremendous performer. There was
 no knowing where to have him; and exactly when you thought he was doing
 nothing at all, then was he doing the very thing that ought to astonish
 you most.
-
-There were several of these concerted pieces; perhaps two or three too
-many, though that, as Mrs Todgers said, was a fault on the right side.
-But even then, even at that solemn moment, when the thrilling sounds may
-be presumed to have penetrated into the very depths of his [[Nature|nature]], if he
-had any depths, Jinkins couldn’t leave the youngest gentleman [[Alone|alone]]. He
-asked him distinctly, before the second [[Song|song]] began--as a personal favour
-too, mark the [[Villain|villain]] in that--not to play. Yes; he said so; not to
-play. The breathing of the youngest gentleman was heard through the
-key-hole of the door. He DIDN’T play. What vent was a flute for the
-passions swelling up within his breast? A trombone would have been a
-world too mild.

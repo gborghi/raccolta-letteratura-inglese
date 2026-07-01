@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 9 (part 3)"
+title: "Wuthering Heights — Chapter 9 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_09/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_09/part_04">part 04 ›</a></div>
 </nav>
 
+
+She seated herself by me again: her countenance grew sadder and graver,
+and her clasped hands trembled.
+
+“Nelly, do you never dream queer [[Dreams|dreams]]?” she said, suddenly, after
+some minutes’ reflection.
+
+“Yes, now and then,” I answered.
 
 “And so do I. I’ve dreamt in my life [[Dreams|dreams]] that have stayed with me
 ever after, and changed my ideas: they’ve gone through and through me,

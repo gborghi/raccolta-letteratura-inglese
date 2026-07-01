@@ -1,5 +1,5 @@
 ---
-title: "[[Shaw]] — THE PHILOSOPHER (part 12)"
+title: "Shaw — THE PHILOSOPHER (part 12)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/shaw-(chesterton)"
@@ -13,6 +13,69 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/shaw/story_08_the_philosopher/part_11">‹ part 11</a><a class="ex-next" href="/testi/chesterton/atomized/shaw/story_08_the_philosopher/part_13">part 13 ›</a></div>
 </nav>
 
+
+Bernard [[Shaw]] has occupied much of his life in trying to
+elude his followers.  The fox has enthusiastic followers,
+and [[Shaw]] seems to regard his in much the same way.
+This man whom men accuse of bidding for applause seems to me
+to shrink even from assent.  If you agree with [[Shaw]] he is very
+likely to contradict you; I have contradicted [[Shaw]] throughout,
+that is why I come at last almost to agree with him.
+His critics have accused him of vulgar [[Self|self]]-advertisement;
+in his relation to his followers he seems to me rather marked
+with a sort of mad modesty.  He seems to wish to fly from agreement,
+to have as few followers as possible.  All this reaches back,
+I think, to the three roots from which this meditation grew.
+It is partly the mere impatience and irony of the Irishman.
+It is partly the thought of the Calvinist that the host
+of God should be thinned rather than thronged;
+that Gideon must reject soldiers rather than recruit them.
+And it is partly, alas, the unhappy Progressive trying to be
+in front of his own religion, trying to destroy his own idol
+and even to desecrate his own tomb.  But from whatever causes,
+this furious escape from popularity has involved [[Shaw]] in some
+perversities and refinements which are almost mere insincerities,
+and which make it necessary to disentangle the good he has
+done from the evil in this dazzling course.  I will attempt
+some summary by stating the three things in which his influence
+seems to me thoroughly good and the three in which it seems bad.
+But for the pleasure of ending on the finer note I will speak
+first of those that seem bad.
+
+The primary respect in which [[Shaw]] has been a bad
+influence is that he has encouraged fastidiousness.
+He has made men dainty about their moral meals.
+This is indeed the root of his whole objection to [[Romance|romance]].
+Many people have objected to [[Romance|romance]] for being too airy
+and exquisite.  [[Shaw]] objects to [[Romance|romance]] for being too rank
+and coarse.  Many have despised [[Romance|romance]] because it is unreal;
+[[Shaw]] really hates it because it is a great deal too real.
+[[Shaw]] dislikes [[Romance|romance]] as he dislikes beef and beer, raw brandy
+or raw beefsteaks.  [[Romance]] is too masculine for his taste.
+You will find throughout his criticisms, amid all their [[Truth|truth]],
+their wild justice or pungent impartiality, a curious undercurrent
+of prejudice upon one point:  the preference for the refined
+rather than the rude or ugly.  Thus he will dislike a joke
+because it is coarse without asking if it is really immoral.
+He objects to a man sitting down on his hat, whereas the austere
+moralist should only object to his sitting down on someone
+else's hat.  This sensibility is barren because it is universal.
+It is useless to object to man being made ridiculous.
+Man is born ridiculous, as can easily be seen if you look
+at him soon after he is born.  It is [[Grotesque|grotesque]] to drink beer,
+but it is equally [[Grotesque|grotesque]] to drink soda-[[Water|water]];
+the grotesqueness lies in the act of filling yourself like
+a bottle through a hole.  It is undignified to walk with a
+drunken stagger; but it is fairly undignified to walk at all,
+for all walking is a sort of balancing, and there is always
+in the human being something of a quadruped on its hind legs.
+I do not say he would be more dignified if he went on all fours;
+I do not know that he ever is dignified except when he is dead.
+We shall not be refined till we are refined into [[Dust|dust]].
+Of course it is only because he is not wholly an animal
+that man sees he is a rum animal; and if man on his hind legs
+is in an artificial attitude, it is only because, like a dog,
+he is begging or saying thank you.
 
 Everything important is in that sense absurd from the [[Grave|grave]] baby
 to the grinning skull; everything practical is a practical joke.
@@ -40,7 +103,7 @@ he has definitely done harm.  He has much influence among the young men;
 but it is not an influence in the direction of keeping them young.
 One cannot imagine him inspiring any of his followers to write
 a war-[[Song|song]] or a drinking-[[Song|song]] or a [[Love|love]]-[[Song|song]], the three forms
-of human utterance which come next in nobility to a [[Prayer|prayer]].
+of human utterance which come next in nobility to a [[prayer]].
 It may seem odd to say that the net effect of a man so apparently
 impudent will be to make men shy.  But it is certainly the [[Truth|truth]].
 Shyness is always the sign of a divided [[Soul|soul]]; a man is shy because
@@ -57,65 +120,3 @@ all these things, but do them awkwardly.  That which was of old a free
 and hilarious function becomes an important and embarrassing necessity.
 Let us endure all the pagan pleasures with a Christian patience.
 Let us eat, drink, and be serious.
-
-The second of the two points on which I think [[Shaw]] has done definite
-harm is this:  that he has (not always or even as a rule intentionally)
-increased that anarchy of thought which is always the destruction
-of thought.  Much of his early writing has encouraged among the modern
-youth that most pestilent of all popular tricks and fallacies;
-what is called the argument of progress.  I mean this kind of thing.
-Previous ages were often, alas, aristocratic in politics or clericalist
-in religion; but they were always democratic in [[philosophy]];
-they appealed to man, not to particular men.  And if most men
-were against an idea, that was so far against it.  But nowadays
-that most men are against a thing is thought to be in its favour;
-it is vaguely supposed to show that some day most men will be for it.
-If a man says that cows are reptiles, or that Bacon wrote Shakespeare,
-he can always quote the contempt of his contemporaries as in some
-mysterious way proving the complete [[conversion]] of posterity.
-The objections to this theory scarcely need any elaborate indication.
-The final objection to it is that it amounts to this:
-say anything, however idiotic, and you are in advance of your age.
-This kind of stuff must be stopped.  The sort of democrat who appeals
-to the babe [[unborn]] must be classed with the sort of [[aristocrat]]
-who appeals to his deceased great-grandfather. Both should be sharply
-reminded that they are appealing to individuals whom they [[Well|well]] know
-to be at a disadvantage in the matter of prompt and witty reply.
-Now although Bernard [[Shaw]] has survived this simple confusion, he has
-in his [[Time|time]] greatly contributed to it.  If there is, for instance,
-one thing that is really rare in [[Shaw]] it is hesitation.  He makes
-up his mind quicker than a calculating boy or a county magistrate.
-Yet on this subject of the next change in ethics he has felt hesitation,
-and being a strictly honest man has expressed it.
-
-"I know no harder practical question than how much selfishness
-one ought to stand from a gifted person for the sake of his
-gifts or on the chance of his being right in the long run.
-The Superman will certainly come like a thief in the [[Night|night]],
-and be shot at accordingly; but we cannot leave our property
-wholly undefended on that account.  On the other hand,
-we cannot ask the Superman simply to add a higher set of virtues
-to current respectable morals; for he is undoubtedly going
-to empty a good deal of respectable [[morality]] out like so much
-dirty [[Water|water]], and replace it by new and strange customs,
-shedding old obligations and accepting new and heavier ones.
-Every step of his progress must horrify conventional people;
-and if it were possible for even the most superior man to
-march ahead all the [[Time|time]], every pioneer of the march towards
-the Superman would be crucified."
-
-When the most emphatic man alive, a man unmatched in violent
-precision of statement, speaks with such avowed vagueness and [[Doubt|doubt]]
-as this, it is no [[Wonder|wonder]] if all his more weak-minded followers
-are in a mere whirlpool of uncritical and unmeaning innovation.
-If the superior person will be apparently criminal, the most probable
-result is simply that the criminal person will think himself superior.
-A very slight knowledge of human [[Nature|nature]] is required in the matter.
-If the Superman may possibly be a thief, you may bet your boots
-that the next thief will be a Superman.  But indeed the Supermen
-(of whom I have met many) have generally been more weak in
-the head than in the moral conduct; they have simply offered
-the first fancy which occupied their minds as the new [[morality]].
-I [[Fear|fear]] that [[Shaw]] had a way of encouraging these follies.
-It is obvious from the passage I have quoted that he has no way
-of restraining them.

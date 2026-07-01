@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 42 (part 2)"
+title: "Nicholas Nickleby — Chapter 42 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -144,5 +144,3 @@ wickedly there, I suspect.’
 ‘O’ course she did,’ said John Browdie, passing his huge forefinger
 through one of his wife’s pretty ringlets, and looking very proud of
 her. ‘She wur always as skittish and full o’ tricks as a--’
-
-‘[[Well]], as a what?’ said his wife.

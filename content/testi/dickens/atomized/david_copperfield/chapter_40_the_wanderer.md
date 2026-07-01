@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 40: THE WANDERER"
+title: "David Copperfield — Chapter 40: THE WANDERER"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/david-copperfield-(dickens)"

@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 46: INTELLIGENCE (part 4)"
+title: "David Copperfield — Chapter 46: INTELLIGENCE (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_46_intelligence/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_46_intelligence/part_05">part 05 ›</a></div>
 </nav>
 
+
+‘Yes.’
+
+‘And has he heard Littimer himself?’
+
+‘Yes; I have told him why you wished it.’ ‘You are a good girl. I have
+had some slight correspondence with your former friend, sir,’ addressing
+me, ‘but it has not restored his sense of duty or natural obligation.
+Therefore I have no other object in this, than what Rosa has mentioned.
+If, by the course which may relieve the mind of the decent man you
+brought here (for whom I am sorry--I can say no more), my son may be
+saved from again falling into the snares of a designing enemy, [[Well|well]]!’
 
 She drew herself up, and sat looking straight before her, far away.
 
@@ -132,19 +144,3 @@ He looked almost like a man inspired, as he said it. I waited for a
 few moments, until he could give me his undivided attention; and then
 proceeded to explain the precaution, that, it had occurred to me last
 [[Night|night]], it would be wise to take.
-
-‘Now, my dear friend--‘I began.
-
-‘Thankee, thankee, kind sir,’ he said, grasping my hand in both of his.
-
-‘If she should make her way to [[London]], which is likely--for where could
-she lose herself so readily as in this vast [[City|city]]; and what would she
-wish to do, but lose and hide herself, if she does not go [[Home|home]]?--’
-
-‘And she won’t go [[Home|home]],’ he interposed, shaking his head mournfully. ‘If
-she had left of her own accord, she might; not as It was, sir.’
-
-‘If she should come here,’ said I, ‘I believe there is one person,
-here, more likely to discover her than any other in the world. Do
-you remember--hear what I say, with fortitude--think of your great
-object!--do you remember Martha?’

@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 23 (part 3)"
+title: "Dombey and Son — Chapter 51 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -10,127 +10,123 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/dombey-and-son-(dickens)">Dombey and Son</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_79/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_79/part_04">part 04 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_79/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_80/part_01">part 01 ›</a></div>
 </nav>
 
 
-[[Susan Nipper]] stood opposite to her young mistress one morning, as she
-folded and sealed a note she had been writing: and showed in her looks
-an approving knowledge of its contents.
+This hint of the Peruvian Mines, causes Miss Tox to rise to go away;
+when Mrs Pipchin rings the bell for Towlinson to show her out, Mr
+Towlinson, not having seen Miss Tox for ages, grins, and hopes she’s
+[[Well|well]]; observing that he didn’t know her at first, in that bonnet.
 
-“Better late than never, dear Miss Floy,” said Susan, “and I do say,
-that even a visit to them old Skettleses will be a Godsend.”
+“Pretty [[Well|well]], Towlinson, I thank you,” says Miss Tox. “I beg you’ll
+have the goodness, when you happen to see me here, not to mention it.
+My visits are merely to Mrs Pipchin.”
 
-“It is very good of Sir Barnet and Lady Skettles, Susan,” returned
-Florence, with a mild correction of that young lady’s familiar mention
-of the family in question, “to repeat their invitation so kindly.”
+“Very good, Miss,” says Towlinson.
 
-Miss Nipper, who was perhaps the most thoroughgoing partisan on the
-face of the earth, and who carried her partisanship into all matters
-great or small, and perpetually waged war with it against society,
-screwed up her lips and shook her head, as a protest against any
-recognition of disinterestedness in the Skettleses, and a plea in bar
-that they would have valuable consideration for their kindness, in the
-company of Florence.
+“Shocking circumstances occur, Towlinson,” says Miss Tox.
 
-“They know what they’re about, if ever people did,” murmured Miss
-Nipper, drawing in her breath “oh! trust them Skettleses for that!”
+“Very much so indeed, Miss,” rejoins Towlinson.
 
-“I am not very anxious to go to Fulham, Susan, I confess,” said
-Florence thoughtfully: “but it will be right to go. I think it will be
-better.”
+“I [[Hope|hope]], Towlinson,” says Miss Tox, who, in her instruction of the
+Toodle family, has acquired an admonitorial tone, and a habit of
+improving passing occasions, “that what has happened here, will be a
+warning to you, Towlinson.”
 
-“Much better,” interposed Susan, with another emphatic shake of her
-head.
+“Thank you, Miss, I’m sure,” says Towlinson.
 
-“And so,” said Florence, “though I would prefer to have gone when there
-was no one there, instead of in this vacation [[Time|time]], when it seems there
-are some young people staying in the [[house]], I have thankfully said
-yes.”
+He appears to be falling into a consideration of the manner in which
+this warning ought to operate in his particular case, when the vinegary
+Mrs Pipchin, suddenly stirring him up with a “What are you doing? Why
+don’t you show the lady to the door?” he ushers Miss Tox forth. As she
+passes Mr Dombey’s room, she shrinks into the inmost depths of the
+black bonnet, and walks, on tip-toe; and there is not another atom in
+the world which haunts him so, that feels such sorrow and solicitude
+about him, as Miss Tox takes out under the black bonnet into the
+street, and tries to carry [[Home|home]] shadowed it from the newly-lighted
+lamps.
 
-“For which _I_ say, Miss Floy, Oh be joyful!” returned Susan, “Ah!
-h—h!”
+But Miss Tox is not a part of Mr Dombey’s world. She comes back every
+evening at dusk; adding clogs and an umbrella to the bonnet on wet
+nights; and bears the grins of Towlinson, and the huffs and rebuffs of
+Mrs Pipchin, and all to ask how he does, and how he bears his
+misfortune: but she has nothing to do with Mr Dombey’s world. Exacting
+and harassing as ever, it goes on without her; and she, a by no means
+bright or particular star, moves in her little orbit in the corner of
+another system, and knows it quite [[Well|well]], and comes, and cries, and goes
+away, and is satisfied. Verily Miss Tox is easier of satisfaction than
+the world that troubles Mr Dombey so much!
 
-This last ejaculation, with which Miss Nipper frequently wound up a
-sentence, at about that epoch of [[Time|time]], was supposed below the level of
-the hall to have a general reference to Mr Dombey, and to be expressive
-of a yearning in Miss Nipper to favour that gentleman with a piece of
-her mind. But she never explained it; and it had, in consequence, the
-charm of mystery, in addition to the advantage of the sharpest
-expression.
+At the Counting [[house|House]], the clerks discuss the great disaster in all its
+lights and shades, but chiefly [[Wonder|wonder]] who will get Mr Carker’s place.
+They are generally of opinion that it will be shorn of some of its
+emoluments, and made uncomfortable by newly-devised checks and
+restrictions; and those who are beyond all [[Hope|hope]] of it are quite sure
+they would rather not have it, and don’t at all envy the person for
+whom it may prove to be reserved. Nothing like the prevailing sensation
+has existed in the Counting [[house|House]] since Mr Dombey’s little son died;
+but all such excitements there take a social, not to say a jovial turn,
+and lead to the cultivation of good fellowship. A [[Reconciliation|reconciliation]] is
+established on this propitious occasion between the acknowledged wit of
+the Counting [[house|House]] and an aspiring rival, with whom he has been at
+deadly feud for months; and a little dinner being proposed, in
+commemoration of their happily restored amity, takes place at a
+neighbouring tavern; the wit in the chair; the rival acting as
+Vice-President. The orations following the removal of the cloth are
+opened by the Chair, who says, Gentlemen, he can’t disguise from
+himself that this is not a [[Time|time]] for private dissensions. Recent
+occurrences to which he need not more particularly allude, but which
+have not been altogether without notice in some [[Sunday]] Papers, and in a
+daily paper which he need not name (here every other member of the
+company names it in an audible murmur), have caused him to reflect; and
+he feels that for him and Robinson to have any personal differences at
+such a moment, would be for ever to deny that good feeling in the
+general cause, for which he has reason to think and [[Hope|hope]] that the
+gentlemen in Dombey’s [[house|House]] have always been distinguished. Robinson
+replies to this like a man and a brother; and one gentleman who has
+been in the office three years, under continual notice to quit on
+account of lapses in his arithmetic, appears in a perfectly new light,
+suddenly bursting out with a thrilling speech, in which he says, May
+their respected chief never again know the desolation which has fallen
+on his hearth! and says a great variety of things, beginning with “May
+he never again,” which are received with thunders of applause. In
+short, a most delightful evening is passed, only interrupted by a
+difference between two juniors, who, quarrelling about the probable
+amount of Mr Carker’s late receipts per annum, defy each other with
+decanters, and are taken out greatly excited. Soda [[Water|water]] is in general
+request at the office next day, and most of the party deem the bill an
+imposition.
 
-“How long it is before we have any news of Walter, Susan!” observed
-Florence, after a moment’s [[Silence|silence]].
+As to Perch, the messenger, he is in a fair way of being ruined for
+life. He finds himself again constantly in bars of public-houses, being
+treated and lying dreadfully. It appears that he met everybody
+concerned in the late transaction, everywhere, and said to them, “Sir,”
+or “Madam,” as the case was, “why do you look so pale?” at which each
+shuddered from head to foot, and said, “Oh, Perch!” and ran away.
+Either the consciousness of these enormities, or the reaction
+consequent on liquor, reduces Mr Perch to an extreme state of low
+spirits at that hour of the evening when he usually seeks consolation
+in the society of Mrs Perch at Balls Pond; and Mrs Perch frets a good
+deal, for she fears his confidence in woman is shaken now, and that he
+half expects on coming [[Home|home]] at [[Night|night]] to find her gone off with some
+Viscount—“which,” as she observes to an intimate female friend, “is
+what these wretches in the form of woman have to answer for, Mrs P. It
+ain’t the harm they do themselves so much as what they reflect upon us,
+Ma’am; and I see it in Perch’s eye.”
 
-“Long indeed, Miss Floy!” replied her maid. “And Perch said, when he
-came just now to see for letters—but what signifies what he says!”
-exclaimed Susan, reddening and breaking off. “Much he knows about it!”
+Mr Dombey’s servants are becoming, at the same [[Time|time]], quite dissipated,
+and unfit for other service. They have hot suppers every [[Night|night]], and
+“talk it over” with smoking drinks upon the board. Mr Towlinson is
+always maudlin after half-past ten, and frequently begs to know whether
+he didn’t say that no good would ever come of living in a corner [[house]]?
+They whisper about Miss Florence, and [[Wonder|wonder]] where she is; but agree
+that if Mr Dombey don’t know, Mrs Dombey does. This brings them to the
+latter, of whom Cook says, She had a stately way though, hadn’t she?
+But she was too high! They all agree that she was too high, and Mr
+Towlinson’s old flame, the housemaid (who is very virtuous), entreats
+that you will never talk to her any more about people who hold their
+heads up, as if the ground wasn’t good enough for ’em.
 
-Florence raised her eyes quickly, and a flush overspread her face.
-
-“If I hadn’t,” said [[Susan Nipper]], evidently struggling with some latent
-anxiety and alarm, and looking full at her young mistress, while
-endeavouring to work herself into a state of resentment with the
-unoffending Mr Perch’s image, “if I hadn’t more manliness than that
-insipidest of his sex, I’d never take [[Pride|pride]] in my hair again, but turn
-it up behind my ears, and wear coarse caps, without a bit of border,
-until [[Death|death]] released me from my insignificance. I may not be a Amazon,
-Miss Floy, and wouldn’t so demean myself by such disfigurement, but
-anyways I’m not a giver up, I [[Hope|hope]].”
-
-“Give up! What?” cried Florence, with a face of terror.
-
-“Why, nothing, Miss,” said Susan. “Good gracious, nothing! It’s only
-that wet curl-paper of a man, Perch, that anyone might almost make away
-with, with a touch, and really it would be a blessed event for all
-parties if someone would take pity on him, and would have the
-goodness!”
-
-“Does he give up the [[Ship|ship]], Susan?” inquired Florence, very pale.
-
-“No, Miss,” returned Susan, “I should like to see him make so bold as
-do it to my face! No, Miss, but he goes on about some bothering ginger
-that Mr Walter was to send to Mrs Perch, and shakes his dismal head,
-and says he hopes it may be coming; anyhow, he says, it can’t come now
-in [[Time|time]] for the intended occasion, but may do for next, which really,”
-said Miss Nipper, with aggravated scorn, “puts me out of patience with
-the man, for though I can bear a great deal, I am not a camel, neither
-am I,” added Susan, after a moment’s consideration, “if I know myself,
-a dromedary neither.”
-
-“What else does he say, Susan?” inquired Florence, earnestly. “Won’t
-you tell me?”
-
-“As if I wouldn’t tell you anything, Miss Floy, and everything!” said
-Susan. “Why, nothing Miss, he says that there begins to be a general
-talk about the [[Ship|ship]], and that they have never had a [[Ship|ship]] on that voyage
-half so long unheard of, and that the Captain’s wife was at the office
-yesterday, and seemed a little put out about it, but anyone could say
-that, we knew nearly that before.”
-
-“I must visit Walter’s uncle,” said Florence, hurriedly, “before I
-leave [[Home|home]]. I will go and see him this morning. Let us walk there,
-directly, Susan.”
-
-Miss Nipper having nothing to urge against the proposal, but being
-perfectly acquiescent, they were soon equipped, and in the streets, and
-on their way towards the little Midshipman.
-
-The state of mind in which poor Walter had gone to [[Captain Cuttle]]’s, on
-the day when Brogley the broker came into possession, and when there
-seemed to him to be an execution in the very steeples, was pretty much
-the same as that in which Florence now took her way to Uncle Sol’s;
-with this difference, that Florence suffered the added [[Pain|pain]] of thinking
-that she had been, perhaps, the [[Innocent|innocent]] occasion of involving Walter
-in peril, and all to whom he was dear, herself included, in an agony of
-suspense. For the rest, uncertainty and danger seemed written upon
-everything. The weathercocks on spires and housetops were mysterious
-with hints of stormy [[Wind|wind]], and pointed, like so many ghostly fingers,
-out to dangerous seas, where fragments of great wrecks were drifting,
-perhaps, and helpless men were rocked upon them into a [[Sleep|sleep]] as deep as
-the unfathomable waters. When Florence came into the [[City]], and passed
-gentlemen who were talking together, she dreaded to hear them speaking
-of the [[Ship|ship]], and saying it was lost. Pictures and prints of vessels
-fighting with the [[rolling]] waves filled her with alarm. The smoke and
-clouds, though moving gently, moved too fast for her apprehensions, and
-made her [[Fear|fear]] there was a tempest blowing at that moment on the ocean.
+Everything that is said and done about it, except by Mr Dombey, is done
+in [[Chorus|chorus]]. Mr Dombey and the world are [[Alone|alone]] together.

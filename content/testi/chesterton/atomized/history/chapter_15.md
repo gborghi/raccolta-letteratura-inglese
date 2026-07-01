@@ -1,5 +1,5 @@
 ---
-title: "[[history]] — Chapter 15"
+title: "history — Chapter 15"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/history-(chesterton)"
@@ -57,7 +57,7 @@ by talking, and trying to talk [[Well|well]].  It did not merely do things
 because they do not bear talking about--as it does now.  It was then,
 to the eternal glory of our country, a great "talking-shop," not a mere
 buying and selling shop for financial tips and official places.
-And as with any other [[artist]], the care the eighteenth century man
+And as with any other [[Artist|artist]], the care the eighteenth century man
 expended on oratory is a proof of his sincerity not a disproof of it.
 An enthusiastic eulogium by Burke is as rich and elaborate as a
 [[Lover|lover]]'s [[Sonnet|sonnet]]; but it is because Burke is really enthusiastic,
@@ -80,7 +80,7 @@ there is one practical test and reply.  It might be tested in many ways:
 by the game laws and enclosure laws they passed, or by the strict code
 of the duel and the definition of [[Honour|honour]] on which they all insisted.
 But if it be really questioned whether I am right in calling their
-whole world an aristocracy, and the very reverse of it a [[Democracy|democracy]],
+whole world an aristocracy, and the very reverse of it a [[democracy]],
 the true historical test is this:  that when republicanism really entered
 the world, they instantly waged two great wars with it--or (if the
 view be preferred) it instantly waged two great wars with them.
@@ -102,7 +102,7 @@ admiration for the military genius of Washington and Napoleon;
 they had the most unmixed contempt for the German Royal Family.
 But they were, as a class, not only against both Washington
 and Napoleon, but against them both for the same reason.
-And it was that they both stood for [[Democracy|democracy]].
+And it was that they both stood for [[democracy]].
 
 Great injustice is done to the English aristocratic [[government]]
 of the [[Time|time]] through a failure to realize this fundamental difference,
@@ -168,9 +168,9 @@ because Washington was a gentleman; but Chatham could
 hardly have conceived a country not governed by gentlemen.
 Burke was apparently ready to grant everything to [[America]];
 but he would not have been ready to grant what [[America]]
-eventually gained.  If he had seen American [[Democracy|democracy]],
+eventually gained.  If he had seen American [[democracy]],
 he would have been as much appalled by it as he was by
-French [[Democracy|democracy]], and would always have been by any [[Democracy|democracy]].
+French [[democracy]], and would always have been by any [[democracy]].
 In a word the Whigs were liberal and even generous aristocrats,
 but they were aristocrats; that is why their concessions were
 as vain as their conquests.  We talk, with a humiliation too rare
@@ -255,7 +255,7 @@ the future to devour Belgium as France could never have devoured it,
 and threaten us across the sea with terrors of which no Frenchman
 would ever dream.  But indeed much deeper things unified
 our attitude towards France before and after the Revolution.
-It is but one stride from despotism to [[Democracy|democracy]], in [[logic]] as
+It is but one stride from despotism to [[democracy]], in [[logic]] as
 [[Well|well]] as in [[history]]; and oligarchy is equally remote from both.
 The Bastille fell, and it seemed to an Englishman merely that a
 despot had turned into a demos.  The young Bonaparte [[Rose|rose]], and it

@@ -120,9 +120,3 @@ away, ‘since the [[Night|night]] when old Luke Withers won thirteen times runn
 on the red.  We all said he had the Devil’s luck and his own, and as it
 was the kind of [[Night|night]] for the Devil to be out and busy, I suppose he
 was looking over his shoulder, if anybody could have seen him.’
-
-‘Ah!’ returned the gruff voice; ‘for all old Luke’s winning through
-thick and thin of late years, I remember the [[Time|time]] when he was the
-unluckiest and unfortunatest of men.  He never took a dice-box in his
-hand, or held a card, but he was plucked, pigeoned, and cleaned out
-completely.’

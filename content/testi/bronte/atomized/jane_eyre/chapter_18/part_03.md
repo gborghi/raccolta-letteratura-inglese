@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 18 (part 3)"
+title: "Jane Eyre — Chapter 18 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"

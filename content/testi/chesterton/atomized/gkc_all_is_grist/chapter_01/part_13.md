@@ -111,15 +111,3 @@ and yeomen and all sorts of plain and hard-working people.
 Now these people are all Tories.  They inherit the old Tory tradition
 of loyalty to a [[King|king]], which belonged to purely middle-class people
 like Dr. Johnson or Dr. Goldsmith.
-
-Far above all these people, like gods on Olympus, like higher
-beings living on a loftier plane, there are two or three people
-who are of prodigious public importance, like emperors or kings.
-The tone of everybody else in talking about them implies the remote
-condescension of a sovereign.  The obvious example is the Duke of Omnium.
-He is spoken of as playing a great princely part like a prince.
-We need not deny him the credit, but we need not disguise the fact
-that his importance rested on being what we call a millionaire.
-More presentable, I admit, than the millionaires who are flattered
-to-day. But he is ruler of all England because he is gigantically rich.
-Now this kind of man is always a Whig.

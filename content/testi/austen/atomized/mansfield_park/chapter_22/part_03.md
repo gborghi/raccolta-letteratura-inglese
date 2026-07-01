@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 22 (part 3)"
+title: "Mansfield Park — Chapter 22 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -129,17 +129,3 @@ Miss Crawford,” he added, in a more serious tone, “there _are_
 distinctions which I should be miserable if I thought myself without
 any chance—absolutely without chance or possibility of obtaining—but
 they are of a different character.”
-
-A look of consciousness as he spoke, and what seemed a consciousness of
-manner on Miss Crawford’s side as she made some laughing answer, was
-sorrowfull food for Fanny’s observation; and finding herself quite
-unable to attend as she ought to Mrs. Grant, by whose side she was now
-following the others, she had nearly resolved on going [[Home|home]]
-immediately, and only waited for [[Courage|courage]] to say so, when the sound of
-the great [[Clock|clock]] at [[Mansfield Park]], striking three, made her feel that
-she had really been much longer absent than usual, and brought the
-previous [[Self|self]]-inquiry of whether she should take leave or not just
-then, and how, to a very speedy issue. With undoubting decision she
-directly began her adieus; and [[Edmund]] began at the same [[Time|time]] to
-recollect that his mother had been inquiring for her, and that he had
-walked down to the Parsonage on purpose to bring her back.

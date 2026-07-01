@@ -1,5 +1,5 @@
 ---
-title: "[[Henry V]] — Act II, Scene 4 — monologue ([[Chorus|CHORUS]]) [4]"
+title: "Henry V — Act II, Scene 4 — monologue (CHORUS) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/henry-v-(shakespeare)"

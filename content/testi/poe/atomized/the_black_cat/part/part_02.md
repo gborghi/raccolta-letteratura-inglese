@@ -1,5 +1,5 @@
 ---
-title: "[[The Black Cat]] (part 2)"
+title: "The Black Cat (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-black-cat-(poe)"
@@ -111,7 +111,7 @@ tags:
       With my aversion to this cat, however, its partiality for myself
       seemed to increase. It followed my footsteps with a pertinacity
       which it would be difficult to make the reader comprehend.
-      Whenever I sat, it would crouch beneath my chair, or [[Spring|spring]] upon
+      Whenever I sat, it would crouch beneath my chair, or [[spring]] upon
       my knees, covering me with its loathsome caresses. If I arose to
       walk it would get between my feet and thus nearly throw me down,
       or, fastening its long and sharp claws in my dress, clamber, in

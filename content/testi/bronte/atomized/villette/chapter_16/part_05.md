@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 16 (part 5)"
+title: "Villette — Chapter 16 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,32 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_16/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_17/part_01">part 01 ›</a></div>
 </nav>
 
+
+To _say_ anything on the subject, to _hint_ at my discovery, had not
+suited my habits of thought, or assimilated with my system of feeling.
+On the contrary, I had preferred to keep the matter to myself. I liked
+entering his presence covered with a cloud he had not seen through,
+while he stood before me under a ray of special illumination which
+shone all partial over his head, trembled about his feet, and cast
+light no farther.
+
+[[Well]] I knew that to him it could make little difference, were I to come
+forward and announce, “This is [[Lucy Snowe]]!” So I kept back in my
+teacher’s place; and as he never asked my name, so I never gave it. He
+heard me called “Miss,” and “Miss Lucy;” he never heard the surname,
+“Snowe.” As to spontaneous recognition—though I, perhaps, was still
+less changed than he—the idea never approached his mind, and why should
+I suggest it?
+
+During tea, Dr. John was kind, as it was his [[Nature|nature]] to be; that meal
+over, and the tray carried out, he made a cosy arrangement of the
+cushions in a corner of the sofa, and obliged me to settle amongst
+them. He and his mother also drew to the [[Fire|fire]], and ere we had sat ten
+minutes, I caught the eye of the latter fastened steadily upon me.
+Women are certainly quicker in some things than men.
+
+“[[Well]],” she exclaimed, presently, “I have seldom seen a stronger
+likeness! Graham, have you observed it?”
 
 “Observed what? What ails the Old Lady now? How you stare, mamma! One
 would think you had an attack of second sight.”

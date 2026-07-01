@@ -1,5 +1,5 @@
 ---
-title: "The Merchant of [[Venice]] — Act V, Scene 1"
+title: "The Merchant of Venice — Act V, Scene 1"
 author: "Shakespeare"
 unitType: scene
 parentWork: "works/the-merchant-of-venice-(shakespeare)"

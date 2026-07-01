@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 23 (part 3)"
+title: "Wuthering Heights — Chapter 23 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_23/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_24/part_01">part 01 ›</a></div>
 </nav>
 
+
+Catherine repeated the longest she could remember. The employment
+pleased both mightily. Linton would have another, and after that
+another, notwithstanding my strenuous objections; and so they went on
+until the [[Clock|clock]] struck twelve, and we heard Hareton in the [[Court|court]],
+returning for his dinner.
+
+“And to-morrow, Catherine, will you be here to-morrow?” asked young
+[[Heathcliff]], holding her frock as she [[Rose|rose]] reluctantly.
 
 “No,” I answered, “nor next day neither.” She, however, gave a
 different response evidently, for his forehead cleared as she stooped

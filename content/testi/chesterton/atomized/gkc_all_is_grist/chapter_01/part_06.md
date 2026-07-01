@@ -21,7 +21,7 @@ Is it more intelligent than any one of any number of past generations?
 Most of those writing on the subject say `Yes'. Most of them,
 by a curious coincidence, belong to the present generation,
 or some very recent generation.  I have no axe to grind in the matter;
-neither the ancestral axe of Brutus, red with the blood of his sons,
+neither the ancestral axe of [[Brutus]], red with the [[Blood|blood]] of his sons,
 nor the latest pattern of guillotine on which a revolutionary son
 can enthusiastically execute his father.  There are some matters
 in which the world has lately veered towards my own opinions;
@@ -35,11 +35,11 @@ In artistic sensibilities, and even in social sympathies (at least,
 of a certain kind), I think there has been a quickening and a response.
 I think it probable that the number of people who can rapidly get
 used to a foreign fashion or style of ornament, who can guess what
-an eccentric artist is driving at, who can feel the emotions evoked
+an eccentric [[Artist|artist]] is driving at, who can feel the emotions evoked
 by unusual music, is larger than it was in mid-Victorian times.
 But these things do not appeal to the intellect.  And I think they
 appeal to the modern mood because they do not appeal to the intellect.
-They make signals to the sentimental part of human nature,
+They make signals to the sentimental part of human [[Nature|nature]],
 and the code of those signals is learned more quickly than it
 would once have been.  But when it comes to anything like a strain
 on the intellect as such, I think that most modern people are
@@ -61,13 +61,13 @@ The listeners provided something of the liveliness needed
 to carry them through a purely logical process.  When there
 was a congregation of logicians, as there was in some of the old
 Scottish Calvinist kirks, the preacher could reckon on being
-followed when his discourse was a pure demonstration in logic.
+followed when his discourse was a pure demonstration in [[logic]].
 It is when the congregation is dull that it wants to be amused.
 Cobden stood for various views which I do not myself find convincing;
 but his audience was convinced, it was not merely amused.
 Now, a man cannot be convinced by an argument without following
-the argument.  He can be amused, even if he goes to sleep
-in the middle of the argument and wakes up just in time to hear
+the argument.  He can be amused, even if he goes to [[Sleep|sleep]]
+in the middle of the argument and wakes up just in [[Time|time]] to hear
 a joke about Tories drinking beer or Bolshevists sharing boots.
 I believe there is infinitely less of this intellectual attention
 to an argument than there used to be.
@@ -75,7 +75,7 @@ to an argument than there used to be.
 It is illustrated, for instance, in the great modern change in the Press.
 I am not now arguing about whether Lord Northcliffe's revolution in
 journalistic methods was morally or socially good.  I only say it may
-well stand for something which is intellectually very much to the bad.
+[[Well|well]] stand for something which is intellectually very much to the bad.
 When I was a boy, the papers printed long and detailed reports of
 speeches by Gladstone or Goschen or Asquith, on complex controversies
 of economies and finance.  Perhaps they were not worth printing;

@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 12 (part 2)"
+title: "Oliver Twist — Chapter 12 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -137,13 +137,3 @@ there existed no affinity or connection whatsoever.
 “Ugh!” said Mr. Brownlow, with a slight shudder; “a couple of glasses
 of port wine would have done him a great deal more good. Wouldn’t they,
 Tom White, eh?”
-
-“My name is [[Oliver]], sir,” replied the little invalid with a look of
-great astonishment.
-
-“[[Oliver]],” said Mr. Brownlow; “[[Oliver]] what? [[Oliver]] White, eh?”
-
-“No, sir, Twist, [[Oliver Twist]].”
-
-“Queer name!” said the old gentleman. “What made you tell the
-magistrate your name was White?”

@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 2 (part 2)"
+title: "Great Expectations — Chapter 2 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_02/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_02/part_03">part 03 ›</a></div>
 </nav>
 
+
+On the present occasion, though I was hungry, I dared not eat my slice.
+I felt that I must have something in reserve for my dreadful
+acquaintance, and his ally the still more dreadful young man. I knew
+Mrs. Joe’s housekeeping to be of the strictest kind, and that my
+larcenous researches might find nothing available in the safe.
+Therefore I resolved to put my hunk of bread and butter down the leg of
+my trousers.
 
 The effort of resolution necessary to the achievement of this purpose I
 found to be quite awful. It was as if I had to make up my mind to leap
@@ -115,14 +123,3 @@ mistake the [[Time|time]], and should think himself accredited to my heart and
 liver to-[[Night|night]], instead of to-morrow! If ever anybody’s hair stood on
 end with terror, mine must have done so then. But, perhaps, nobody’s
 ever did?
-
-It was Christmas Eve, and I had to stir the pudding for next day, with
-a copper-stick, from seven to eight by the Dutch [[Clock|clock]]. I tried it with
-the load upon my leg (and that made me think afresh of the man with the
-load on _his_ leg), and found the tendency of exercise to bring the
-bread and butter out at my ankle, quite unmanageable. Happily I slipped
-away, and deposited that part of my [[Conscience|conscience]] in my garret bedroom.
-
-“Hark!” said I, when I had done my stirring, and was taking a final
-warm in the chimney corner before being sent up to bed; “was that great
-guns, Joe?”

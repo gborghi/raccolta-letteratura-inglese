@@ -14,6 +14,14 @@ tags:
 </nav>
 
 
+      of the cabin; and as to his father, he would only laugh heartily
+
+      at the joke. Vessels enough would be met with by which a letter
+
+      might be sent [[Home|home]] explaining the adventure to my parents.
+
+
+
       The middle of June at length arrived, and every thing had been
 
       matured. The note was written and delivered, and on a Monday
@@ -183,11 +191,3 @@ tags:
       trouble, holding on to the skirts of my friend’s coat. He brought
 
       me, at length, after creeping and winding through innumerable
-
-      narrow passages, to an iron-bound box, such as is used sometimes
-
-      for packing fine earthenware. It was nearly four feet high, and
-
-      full six long, but very narrow. Two large empty oil-casks lay on
-
-      the top of it, and above these, again, a vast quantity of straw

@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 37 (part 3)"
+title: "Shirley — Chapter 37 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_37/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_37/part_04">part 04 ›</a></div>
 </nav>
 
+
+reserved for her unimpeachable taste. She decided on the wreath, the
+
+veil, the dress to be worn at the altar. She chose various robes and
+
+fashions for more ordinary occasions, without much reference to the
+
+bride's opinion--that lady, indeed, being in a somewhat impracticable
+
+mood.
+
+
+
+Louis had presaged difficulties, and he had found them--in fact, his
 
 mistress had shown herself exquisitely provoking, putting off her
 
@@ -223,39 +237,3 @@ England; now I shall be no longer poor; now I can pay my debts; now all
 the cloth I have in my warehouses will be taken off my hands, and
 
 commissions given me for much more. This day lays for my fortunes a
-
-broad, firm foundation, on which, for the first [[Time|time]] in my life, I can
-
-securely build."
-
-
-
-Caroline devoured his words; she held his hand in hers; she drew a long
-
-breath.
-
-
-
-"You are saved? Your heavy difficulties are lifted?"
-
-
-
-"They are lifted. I breathe. I can act."
-
-
-
-"At last! Oh, [[Providence]] is kind! Thank Him, Robert."
-
-
-
-"I do thank [[Providence]]."
-
-
-
-"And I also, for your sake!" She looked up devoutly.
-
-
-
-"Now I can take more workmen, give better wages, lay wiser and more
-
-liberal plans, do some good, be less selfish. _Now_, Caroline, I can

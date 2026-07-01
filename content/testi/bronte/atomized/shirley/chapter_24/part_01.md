@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 24 (part 1)"
+title: "Shirley — Chapter 24 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -247,15 +247,3 @@ Pryor, under ordinary circumstances, had neither the habit nor the art
 of performing little offices of service; but all now passed with such
 
 ease, so naturally, that the patient was as willing to be cherished as
-
-the [[Nurse|nurse]] was bent on cherishing; no sign of weariness in the latter
-
-ever reminded the former that she ought to be anxious. There was, in
-
-fact, no very hard duty to perform; but a hireling might have found it
-
-hard.
-
-
-
-With all this care it seemed strange the sick girl did not get [[Well|well]]; yet

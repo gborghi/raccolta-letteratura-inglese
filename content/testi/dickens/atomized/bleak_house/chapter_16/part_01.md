@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 16 (part 1)"
+title: "Bleak House — Chapter 16 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -117,12 +117,3 @@ have filled a bed or two in the nearest hospital. The gaps remain,
 and there are not unpopular lodgings among the rubbish. As several
 more houses are nearly ready to go, the next crash in Tom-all-[[Alone]]’s
 may be expected to be a good one.
-
-This desirable property is in Chancery, of course. It would be an
-insult to the discernment of any man with half an eye to tell him so.
-Whether “Tom” is the popular representative of the original plaintiff
-or defendant in Jarndyce and Jarndyce, or whether Tom lived here when
-the suit had laid the street waste, all [[Alone|alone]], until other settlers
-came to join him, or whether the traditional title is a comprehensive
-name for a retreat cut off from honest company and put out of the
-pale of [[Hope|hope]], perhaps nobody knows. Certainly Jo don’t know.

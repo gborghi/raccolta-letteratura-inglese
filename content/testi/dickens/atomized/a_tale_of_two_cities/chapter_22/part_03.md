@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities — Chapter 15 (part 3)"
+title: "A Tale of Two Cities — Chapter 16 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-tale-of-two-cities-(dickens)"
@@ -14,130 +14,155 @@ tags:
 </nav>
 
 
-“And once again listen, Jacques!” said the kneeling Number Three:
-his fingers ever wandering over and over those fine nerves, with a
-strikingly greedy air, as if he hungered for something--that was neither
-food nor drink; “the guard, [[Horse|horse]] and foot, surrounded the petitioner,
-and struck him blows. You hear?”
+“_John_,” thought madame, checking off her work as her fingers knitted,
+and her eyes looked at the stranger. “Stay long enough, and I shall knit
+‘BARSAD’ before you go.”
 
-“I hear, messieurs.”
+“You have a husband, madame?”
 
-“Go on then,” said Defarge.
+“I have.”
 
-“Again; on the other hand, they whisper at the fountain,” resumed the
-countryman, “that he is brought down into our country to be executed on
-the spot, and that he will very certainly be executed. They even whisper
-that because he has slain Monseigneur, and because Monseigneur was the
-father of his tenants--serfs--what you will--he will be executed as a
-parricide. One old man says at the fountain, that his right hand, armed
-with the knife, will be burnt off before his face; that, into wounds
-which will be made in his arms, his breast, and his legs, there will be
-poured boiling oil, melted lead, hot resin, wax, and sulphur; finally,
-that he will be torn limb from limb by four strong horses. That old man
-says, all this was actually done to a prisoner who made an attempt on
-the life of the late [[King]], Louis Fifteen. But how do I know if he lies?
-I am not a scholar.”
+“Children?”
 
-“Listen once again then, Jacques!” said the man with the restless hand
-and the craving air. “The name of that prisoner was Damiens, and it was
-all done in open day, in the open streets of this [[City|city]] of [[Paris]]; and
-nothing was more noticed in the vast concourse that saw it done, than
-the crowd of ladies of quality and fashion, who were full of eager
-attention to the last--to the last, Jacques, prolonged until nightfall,
-when he had lost two legs and an arm, and still breathed! And it was
-done--why, how old are you?”
+“No children.”
 
-“Thirty-five,” said the mender of roads, who looked sixty.
+“Business seems bad?”
 
-“It was done when you were more than ten years old; you might have seen
-it.”
+“Business is very bad; the people are so poor.”
 
-“Enough!” said Defarge, with grim impatience. “Long live the Devil! Go
-on.”
+“Ah, the unfortunate, miserable people! So oppressed, too--as you say.”
 
-“[[Well]]! Some whisper this, some whisper that; they speak of nothing else;
-even the fountain appears to fall to that tune. At length, on [[Sunday]]
-[[Night|night]] when all the village is asleep, come soldiers, winding down from
-the [[Prison|prison]], and their guns ring on the stones of the little street.
-Workmen dig, workmen hammer, soldiers laugh and sing; in the morning, by
-the fountain, there is raised a gallows forty feet high, poisoning the
-[[Water|water]].”
+“As _you_ say,” madame retorted, correcting him, and deftly knitting an
+extra something into his name that boded him no good.
 
-The mender of roads looked _through_ rather than _at_ the low ceiling,
-and pointed as if he saw the gallows somewhere in the sky.
+“Pardon me; certainly it was I who said so, but you naturally think so.
+Of course.”
 
-“All work is stopped, all assemble there, nobody leads the cows out,
-the cows are there with the rest. At midday, the roll of drums. Soldiers
-have marched into the [[Prison|prison]] in the [[Night|night]], and he is in the midst
-of many soldiers. He is bound as before, and in his mouth there is
-a gag--tied so, with a tight string, making him look almost as if he
-laughed.” He suggested it, by creasing his face with his two thumbs,
-from the corners of his mouth to his ears. “On the top of the gallows is
-fixed the knife, blade upwards, with its point in the air. He is hanged
-there forty feet high--and is left hanging, poisoning the [[Water|water]].”
+“_I_ think?” returned madame, in a high voice. “I and my husband have
+enough to do to keep this wine-shop open, without thinking. All we
+think, here, is how to live. That is the subject _we_ think of, and
+it gives us, from morning to [[Night|night]], enough to think about, without
+embarrassing our heads concerning others. _I_ think for others? No, no.”
 
-They looked at one another, as he used his blue cap to wipe his face,
-on which the perspiration had started afresh while he recalled the
-spectacle.
+The spy, who was there to pick up any crumbs he could find or make, did
+not allow his baffled state to express itself in his sinister face; but,
+stood with an air of gossiping gallantry, leaning his elbow on Madame
+Defarge’s little counter, and occasionally sipping his cognac.
 
-“It is frightful, messieurs. How can the women and the children draw
-[[Water|water]]! Who can gossip of an evening, under that [[Shadow|shadow]]! Under it, have
-I said? When I left the village, Monday evening as the sun was going to
-bed, and looked back from the [[Hill|hill]], the [[Shadow|shadow]] struck across the church,
-across the mill, across the [[Prison|prison]]--seemed to strike across the earth,
-messieurs, to where the sky rests upon it!”
+“A bad business this, madame, of Gaspard’s execution. Ah! the poor
+Gaspard!” With a sigh of great compassion.
 
-The hungry man gnawed one of his fingers as he looked at the other
-three, and his finger quivered with the craving that was on him.
+“My [[Faith|faith]]!” returned madame, coolly and lightly, “if people use knives
+for such purposes, they have to pay for it. He knew beforehand what the
+price of his luxury was; he has paid the price.”
 
-“That’s all, messieurs. I left at sunset (as I had been warned to do),
-and I walked on, that [[Night|night]] and half next day, until I met (as I was
-warned I should) this comrade. With him, I came on, now riding and now
-walking, through the rest of yesterday and through last [[Night|night]]. And here
-you see me!”
+“I believe,” said the spy, dropping his soft voice to a tone
+that invited confidence, and expressing an injured revolutionary
+susceptibility in every muscle of his wicked face: “I believe there
+is much compassion and anger in this neighbourhood, touching the poor
+fellow? Between ourselves.”
 
-After a gloomy [[Silence|silence]], the first Jacques said, “Good! You have acted
-and recounted faithfully. Will you wait for us a little, outside the
-door?”
+“Is there?” asked madame, vacantly.
 
-“Very willingly,” said the mender of roads. Whom Defarge escorted to the
-top of the stairs, and, leaving seated there, returned.
+“Is there not?”
 
-The three had risen, and their heads were together when he came back to
-the garret.
+“--Here is my husband!” said [[Madame Defarge]].
 
-“How say you, Jacques?” demanded Number One. “To be registered?”
+As the keeper of the wine-shop entered at the door, the spy saluted
+him by touching his hat, and saying, with an engaging smile, “Good day,
+Jacques!” Defarge stopped short, and stared at him.
 
-“To be registered, as doomed to destruction,” returned Defarge.
+“Good day, Jacques!” the spy repeated; with not quite so much
+confidence, or quite so easy a smile under the stare.
 
-“Magnificent!” croaked the man with the craving.
+“You deceive yourself, monsieur,” returned the keeper of the wine-shop.
+“You mistake me for another. That is not my name. I am [[Ernest Defarge]].”
 
-“The chateau, and all the race?” inquired the first.
+“It is all the same,” said the spy, airily, but discomfited too: “good
+day!”
 
-“The chateau and all the race,” returned Defarge. “Extermination.”
+“Good day!” answered Defarge, drily.
 
-The hungry man repeated, in a rapturous croak, “Magnificent!” and began
-gnawing another finger.
+“I was saying to madame, with whom I had the pleasure of chatting when
+you entered, that they tell me there is--and no [[Wonder|wonder]]!--much sympathy
+and anger in Saint Antoine, touching the unhappy fate of poor Gaspard.”
 
-“Are you sure,” asked Jacques Two, of Defarge, “that no embarrassment
-can arise from our manner of keeping the register? Without [[Doubt|doubt]] it is
-safe, for no one beyond ourselves can decipher it; but shall we always
-be able to decipher it--or, I ought to say, will she?”
+“No one has told me so,” said Defarge, shaking his head. “I know nothing
+of it.”
 
-“Jacques,” returned Defarge, drawing himself up, “if madame my wife
-undertook to keep the register in her [[Memory|memory]] [[Alone|alone]], she would not lose
-a word of it--not a syllable of it. Knitted, in her own stitches and her
-own symbols, it will always be as plain to her as the sun. Confide in
-[[Madame Defarge]]. It would be easier for the weakest poltroon that lives,
-to erase himself from existence, than to erase one letter of his name or
-crimes from the knitted register of [[Madame Defarge]].”
+Having said it, he passed behind the little counter, and stood with his
+hand on the back of his wife’s chair, looking over that barrier at the
+person to whom they were both opposed, and whom either of them would
+have shot with the greatest satisfaction.
 
-There was a murmur of confidence and approval, and then the man who
-hungered, asked: “Is this rustic to be sent back soon? I [[Hope|hope]] so. He is
-very simple; is he not a little dangerous?”
+The spy, [[Well|well]] used to his business, did not change his unconscious
+attitude, but drained his little glass of cognac, took a sip of fresh
+[[Water|water]], and asked for another glass of cognac. [[Madame Defarge]] poured it
+out for him, took to her knitting again, and hummed a little [[Song|song]] over
+it.
 
-“He knows nothing,” said Defarge; “at least nothing more than would
-easily elevate himself to a gallows of the same height. I charge myself
-with him; let him remain with me; I will take care of him, and set him
-on his [[Road|road]]. He wishes to see the fine world--the [[King]], the [[Queen]], and
-[[Court]]; let him see them on [[Sunday]].”
+“You seem to know this quarter [[Well|well]]; that is to say, better than I do?”
+ observed Defarge.
+
+“Not at all, but I [[Hope|hope]] to know it better. I am so profoundly interested
+in its miserable inhabitants.”
+
+“Hah!” muttered Defarge.
+
+“The pleasure of conversing with you, Monsieur Defarge, recalls to me,”
+ pursued the spy, “that I have the [[Honour|honour]] of cherishing some interesting
+associations with your name.”
+
+“Indeed!” said Defarge, with much indifference.
+
+“Yes, indeed. When [[Doctor Manette]] was released, you, his old domestic,
+had the charge of him, I know. He was delivered to you. You see I am
+informed of the circumstances?”
+
+“Such is the fact, certainly,” said Defarge. He had had it conveyed
+to him, in an accidental touch of his wife’s elbow as she knitted and
+warbled, that he would do best to answer, but always with brevity.
+
+“It was to you,” said the spy, “that his daughter came; and it was
+from your care that his daughter took him, accompanied by a neat brown
+monsieur; how is he called?--in a little wig--Lorry--of the bank of
+Tellson and Company--over to England.”
+
+“Such is the fact,” repeated Defarge.
+
+“Very interesting remembrances!” said the spy. “I have known Doctor
+Manette and his daughter, in England.”
+
+“Yes?” said Defarge.
+
+“You don’t hear much about them now?” said the spy.
+
+“No,” said Defarge.
+
+“In effect,” madame struck in, looking up from her work and her little
+[[Song|song]], “we never hear about them. We received the news of their safe
+arrival, and perhaps another letter, or perhaps two; but, since then,
+they have gradually taken their [[Road|road]] in life--we, ours--and we have held
+no correspondence.”
+
+“Perfectly so, madame,” replied the spy. “She is going to be married.”
+
+“Going?” echoed madame. “She was pretty enough to have been married long
+ago. You English are cold, it seems to me.”
+
+“Oh! You know I am English.”
+
+“I perceive your tongue is,” returned madame; “and what the tongue is, I
+suppose the man is.”
+
+He did not take the identification as a compliment; but he made the best
+of it, and turned it off with a laugh. After sipping his cognac to the
+end, he added:
+
+“Yes, Miss Manette is going to be married. But not to an Englishman; to
+one who, like herself, is French by birth. And speaking of Gaspard (ah,
+poor Gaspard! It was cruel, cruel!), it is a curious thing that she is
+going to marry the nephew of Monsieur the Marquis, for whom Gaspard
+was exalted to that height of so many feet; in other words, the present
+Marquis. But he lives unknown in England, he is no Marquis there; he is
+Mr. [[Charles Darnay]]. D’Aulnais is the name of his mother’s family.”

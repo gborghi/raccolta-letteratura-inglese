@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 42: MISCHIEF (part 6)"
+title: "David Copperfield — Chapter 42: MISCHIEF (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_42_mischief/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_42_mischief/part_07">part 07 ›</a></div>
 </nav>
 
+
+I could not see him for the [[Tears|tears]] which his earnestness and goodness,
+so adorned by, and so adorning, the perfect simplicity of his manner,
+brought into my eyes. He had moved to the door, when he added:
+
+‘Gentlemen, I have shown you my heart. I am sure you will respect it.
+What we have said tonight is never to be said more. Wickfield, give me
+an old friend’s arm upstairs!’
+
+Mr. Wickfield hastened to him. Without interchanging a word they went
+slowly out of the room together, Uriah looking after them.
+
+‘[[Well]], Master Copperfield!’ said Uriah, meekly turning to me. ‘The thing
+hasn’t took quite the turn that might have been expected, for the old
+Scholar--what an excellent man!--is as blind as a brickbat; but this
+family’s out of the cart, I think!’
 
 I needed but the sound of his voice to be so madly enraged as I never
 was before, and never have been since.
@@ -126,15 +142,3 @@ an injunction on me, in a few affectionate words, never to refer to the
 subject of that evening. I had confided it to my aunt, but to no
 one else. It was not a subject I could discuss with Agnes, and Agnes
 certainly had not the least suspicion of what had passed.
-
-Neither, I felt convinced, had Mrs. Strong then. Several weeks elapsed
-before I saw the least change in her. It came on slowly, like a cloud
-when there is no [[Wind|wind]]. At first, she seemed to [[Wonder|wonder]] at the gentle
-compassion with which the Doctor spoke to her, and at his wish that she
-should have her mother with her, to relieve the dull monotony of her
-life. Often, when we were at work, and she was sitting by, I would see
-her pausing and looking at him with that memorable face. Afterwards, I
-sometimes observed her rise, with her eyes full of [[Tears|tears]], and go out
-of the room. Gradually, an unhappy [[Shadow|shadow]] fell upon her [[Beauty|beauty]], and
-deepened every day. Mrs. Markleham was a regular inmate of the cottage
-then; but she talked and talked, and saw nothing.

@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 8 (part 1)"
+title: "Wuthering Heights — Chapter 8 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -122,12 +122,3 @@ difficult to make an equally deep impression. He was my late master:
 that is his portrait over the fireplace. It used to hang on one side,
 and his wife’s on the other; but hers has been removed, or else you
 might see something of what she was. Can you make that out?
-
-Mrs. Dean raised the candle, and I discerned a soft-featured face,
-exceedingly resembling the young lady at the Heights, but more pensive
-and amiable in expression. It formed a sweet picture. The long light
-hair curled slightly on the temples; the eyes were large and serious;
-the figure almost too graceful. I did not marvel how [[Catherine Earnshaw]]
-could forget her first friend for such an individual. I marvelled much
-how he, with a mind to correspond with his person, could fancy my idea
-of [[Catherine Earnshaw]].

@@ -1,5 +1,5 @@
 ---
-title: "[[history]] — Chapter 3 (part 1)"
+title: "history — Chapter 3 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/history-(chesterton)"
@@ -34,7 +34,7 @@ against men as tall as trees or as short as toadstools.  The soldier
 of civilization is no longer fighting with Goths but with goblins;
 the land becomes a labyrinth of faërie towns unknown to [[history]];
 and scholars can suggest but cannot explain how a Roman ruler or a Welsh
-chieftain towers up in the twilight as the awful and unbegotten [[Arthur]].
+chieftain towers up in the twilight as the awful and unbegotten [[arthur|Arthur]].
 The scientific age comes first and the mythological age after it.
 One working example, the echoes of which lingered till very late
 in English literature, may serve to sum up the contrast.  The British

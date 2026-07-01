@@ -16,7 +16,6 @@ tags:
 
 CHAPTER IV
 
-
 FRANCIS THE BUILDER
 
 We have now reached the great break in the life of Francis of Assisi;
@@ -236,7 +235,7 @@ almost like children talking a secret language.  Of these individual
 elements on their first [[Friendship|friendship]] we can say little with certainty;
 but it is certain that they remained friends to the end.
 Bernard of Quintaville occupies in the story something of the position
-of Sir Bedivere, "first made and latest left of [[arthur|Arthur]]'s knights,"
+of Sir Bedivere, "first made and latest left of [[Arthur]]'s knights,"
 for he reappears at the right hand side of the saint on
 his deathbed and receives some sort of special blessing.
 But all these things belong to another historical world and were quite
@@ -317,7 +316,6 @@ what the story really looked like, when thus seen from the outside.
 Given a critic of rather coarse common sense, with no feeling
 about the incident except annoyance, and how would the story
 seem to stand?
-
 
 A young [[Fool|fool]] or rascal is caught robbing his father and selling
 goods which he ought to guard; and the only explanation he will

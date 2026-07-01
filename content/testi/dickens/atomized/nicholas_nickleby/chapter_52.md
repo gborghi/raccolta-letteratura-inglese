@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 52"
+title: "Nicholas Nickleby — Chapter 52"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -59,7 +59,7 @@ Nickleby and Gride would not invalidate the [[Marriage|marriage]], or render Bra
 averse to it, who, if he did not actually know of the existence of some
 such understanding, doubtless suspected it. What had been hinted with
 reference to some fraud on [[Madeline]], had been put, with sufficient
-obscurity by [[Arthur]] Gride, but coming from [[Newman Noggs]], and obscured
+obscurity by [[arthur|Arthur]] Gride, but coming from [[Newman Noggs]], and obscured
 still further by the smoke of his pocket-[[Pistol|pistol]], it became wholly
 unintelligible, and involved in utter darkness.
 

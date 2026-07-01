@@ -10,15 +10,11 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/twelve-types-(chesterton)">Twelve Types</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/twelve_types/story_09_tolstoy_and_the_cult_of_simplicity/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/twelve_types/story_11_the_position_of_sir_walter_scott/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/twelve_types/story_09_tolstoy_tolstoy_and_the_cult_of_simplici/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/twelve_types/story_11_the_position_of_sir_walter_scott/part_02">part 02 ›</a></div>
 </nav>
 
 
 THE POSITION OF SIR WALTER SCOTT
-
-
-
-
 
 Walter Scott is a writer who should just now be re-emerging into his own
 
@@ -41,8 +37,6 @@ case, we have learnt in our day to arrange our literary effects
 carefully, and the only point in which we fall short of Scott is in the
 
 incidental misfortune that we have nothing particular to arrange.
-
-
 
 It is said that Scott is neglected by modern readers; if so, the matter
 
@@ -98,8 +92,6 @@ of hearts, probably would have liked to write an endless story without
 
 either beginning or close.
 
-
-
 Walter Scott is a great, and, therefore, mysterious man. He will never
 
 be understood until [[Romance]] is understood, and that will be only when
@@ -146,8 +138,6 @@ which is the mother of all day-[[Dreams|dreams]] and adventures, the one sin tha
 
 is not shared with any boon companion, or whispered to any priest.
 
-
-
 In estimating, therefore, the ground of Scott's pre-eminence in [[Romance|romance]]
 
 we must absolutely rid ourselves of the notion that [[Romance|romance]] or
@@ -176,7 +166,7 @@ the same quality which is often possessed by those nocturnal
 
 comedies--that of seeming more human than our waking life--even while
 
-they are less possible. Sir [[arthur|Arthur]] Wardour, with his daughter and the
+they are less possible. Sir [[Arthur]] Wardour, with his daughter and the
 
 old beggar crouching in a cranny of the cliff as [[Night|night]] falls and the
 
@@ -187,11 +177,3 @@ practical situations. Yet the whole incident has a quality that can only
 be called boyish. It is warmed with all the colours of an incredible
 
 sunset. Rob Roy trapped in the Tolbooth, and confronted with Bailie
-
-Nicol Jarvie, draws no [[Sword|sword]], leaps from no [[Window|window]], affects none of the
-
-dazzling external acts upon which contemporary [[Romance|romance]] depends, yet that
-
-plain and humorous dialogue is full of the essential [[philosophy]] of
-
-[[Romance|romance]] which is an almost equal betting upon man and destiny. Perhaps

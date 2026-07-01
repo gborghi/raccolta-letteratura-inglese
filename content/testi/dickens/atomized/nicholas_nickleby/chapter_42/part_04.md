@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 42 (part 4)"
+title: "Nicholas Nickleby — Chapter 42 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_42/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_43/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘As for the matther o’ that,’ observed John, ‘it’ll be [[Time|time]] eneaf to
+think aboot neaming of it when it cooms.’
 
 ‘John!’ interposed his wife, ‘don’t tease her.’
 

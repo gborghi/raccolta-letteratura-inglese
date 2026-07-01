@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 42: MISCHIEF (part 1)"
+title: "David Copperfield — Chapter 42: MISCHIEF (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -135,10 +135,3 @@ and umble--and I am. But I didn’t like that sort of thing--and I don’t!’
 He left off scraping his chin, and sucked in his cheeks until they
 seemed to meet inside; keeping his sidelong glance upon me all the
 while.
-
-‘She is one of your lovely women, she is,’ he pursued, when he had
-slowly restored his face to its natural form; ‘and ready to be no friend
-to such as me, I know. She’s just the person as would put my Agnes up
-to higher sort of game. Now, I ain’t one of your lady’s men, Master
-Copperfield; but I’ve had eyes in my ed, a pretty long [[Time|time]] back. We
-umble ones have got eyes, mostly speaking--and we look out of ‘em.’

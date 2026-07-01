@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 37 (part 2)"
+title: "Barnaby Rudge — Chapter 37 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_37/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_37/part_03">part 03 ›</a></div>
 </nav>
 
+
+--‘“Called, and chosen, and faithful,”’ said Gashford, taking up
+Lord George’s watch which lay upon a chair, and seeming to read the
+[[Inscription|inscription]] on the seal, abstractedly.
+
+It was the slightest action possible, not obtruded on his notice, and
+apparently the result of a moment’s absence of mind, not worth remark.
+But as the words were uttered, Lord George, who had been going on
+impetuously, stopped short, reddened, and was silent. Apparently quite
+unconscious of this change in his demeanour, the wily Secretary stepped
+a little apart, under pretence of pulling up the [[Window|window]]-blind, and
+returning when the other had had [[Time|time]] to recover, said:
 
 ‘The holy cause goes bravely on, my lord. I was not idle, even last
 [[Night|night]]. I dropped two of the handbills before I went to bed, and both are
@@ -106,11 +118,3 @@ profound gravity and respect; bowing very low, and so frequently that
 his hat was more off his head than on; and looking up at the houses as
 he passed along, with the air of one who was making a public entry, and
 yet was not puffed up or proud.
-
-So they rode (to the deep and unspeakable disgust of John Grueby) the
-whole length of Whitechapel, Leadenhall Street, and Cheapside, and into
-St Paul’s Churchyard. Arriving close to the [[Cathedral|cathedral]], he halted; spoke
-to Gashford; and looking upward at its lofty dome, shook his head, as
-though he said, ‘The Church in Danger!’ Then to be sure, the bystanders
-stretched their throats indeed; and he went on again with mighty
-acclamations from the mob, and lower bows than ever.

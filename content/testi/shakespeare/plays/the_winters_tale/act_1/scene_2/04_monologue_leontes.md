@@ -1,5 +1,5 @@
 ---
-title: "The Winters Tale — Act I, Scene 2 — monologue ([[Leontes|LEONTES]]) [4]"
+title: "The Winters Tale — Act I, Scene 2 — monologue (LEONTES) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-winter’s-tale-(shakespeare)"

@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 5 (part 1)"
+title: "Nicholas Nickleby — Chapter 5 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -128,12 +128,3 @@ half as light a heart in his breast as the man had, although he had no
 waistcoat to cover it with, and had evidently, from the appearance of
 his other garments, been spending the [[Night|night]] in a stable, and taking his
 breakfast at a pump.
-
-Regarding, with no small curiosity and interest, all the busy
-preparations for the coming day which every street and almost every
-[[house]] displayed; and thinking, now and then, that it seemed rather hard
-that so many people of all ranks and stations could earn a livelihood in
-[[London]], and that he should be compelled to [[Journey|journey]] so far in search of
-one; Nicholas speedily arrived at the Saracen’s Head, [[Snow]] [[Hill]]. Having
-dismissed his attendant, and seen the box safely deposited in the
-coach-office, he looked into the coffee-room in search of Mr. Squeers.

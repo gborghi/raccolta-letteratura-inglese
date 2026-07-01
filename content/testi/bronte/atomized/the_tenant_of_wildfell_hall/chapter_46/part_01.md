@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 46 (part 1)"
+title: "The Tenant of Wildfell Hall — Chapter 46 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/works/the-tenant-of-wildfell-hall-(bronte)">The Tenant of Wildfell Hall</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_45/part_05">‹ part 05</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_46/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_45/part_06">‹ part 06</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_46/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -231,7 +231,3 @@ search after another [[Home|home]].”
 her to do so, had she been inclined; but happily she was not: she only
 
 asked a few questions concerning you, and seemed satisfied with my
-
-brief answers, wherein she showed herself wiser than her friend; and I
-
-may tell you, too, that she seemed to be far more anxious lest you

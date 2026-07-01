@@ -10,9 +10,21 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/the-old-curiosity-shop-(dickens)">The Old Curiosity Shop</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_old_curiosity_shop/chapter_09/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/the_old_curiosity_shop/chapter_11/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_old_curiosity_shop/chapter_09/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/the_old_curiosity_shop/chapter_09/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘She’s so,’ said Quilp, speaking very slowly, and feigning to be quite
+absorbed in the subject, ‘so small, so compact, so beautifully
+modelled, so fair, with such blue veins and such a transparent skin,
+and such little feet, and such winning ways--but bless me, you’re
+nervous!  Why neighbour, what’s the matter?  I swear to you,’ continued
+the [[Dwarf|dwarf]] dismounting from the chair and sitting down in it, with a
+careful slowness of gesture very different from the rapidity with which
+he had sprung up unheard, ‘I swear to you that I had no idea old [[Blood|blood]]
+ran so fast or kept so warm.  I thought it was sluggish in its course,
+and cool, quite cool.  I am pretty sure it ought to be.  Yours must be
+out of order, neighbour.’
 
 ‘I believe it is,’ groaned the old man, clasping his head with both
 hands.  ‘There’s burning fever here, and something now and then to
@@ -121,68 +133,3 @@ scraps of paper from his pocket with a trembling hand, and clasping the
 calculation, and painful and hard experience.  I MUST win.  I only want
 a little help once more, a few pounds, but two score pounds, dear
 Quilp.’
-
-‘The last advance was seventy,’ said the [[Dwarf|dwarf]]; ‘and it went in one
-[[Night|night]].’
-
-‘I know it did,’ answered the old man, ‘but that was the very worst
-fortune of all, and the [[Time|time]] had not come then.  Quilp, consider,
-consider,’ the old man cried, trembling so much the while, that the
-papers in his hand fluttered as if they were shaken by the [[Wind|wind]], ‘that
-[[Orphan|orphan]] [[Child|child]]!  If I were [[Alone|alone]], I could die with gladness--perhaps even
-anticipate that doom which is dealt out so unequally: coming, as it
-does, on the proud and happy in their strength, and shunning the needy
-and afflicted, and all who [[Court|court]] it in their [[Despair|despair]]--but what I have
-done, has been for her.  Help me for her sake I implore you; not for
-mine; for hers!’
-
-‘I’m sorry I’ve got an appointment in the [[City|city]],’ said Quilp, looking at
-his watch with perfect [[Self|self]]-possession, ‘or I should have been very
-glad to have spent half an hour with you while you composed yourself,
-very glad.’
-
-‘Nay, Quilp, good Quilp,’ gasped the old man, catching at his skirts,
-‘you and I have talked together, more than once, of her poor mother’s
-story.  The [[Fear|fear]] of her coming to [[Poverty|poverty]] has perhaps been bred in me
-by that.  Do not be hard upon me, but take that into account.  You are
-a great gainer by me.  Oh spare me the money for this one last [[Hope|hope]]!’
-
-‘I couldn’t do it really,’ said Quilp with unusual politeness, ‘though
-I tell you what--and this is a circumstance worth bearing in mind as
-showing how the sharpest among us may be taken in sometimes--I was so
-deceived by the penurious way in which you lived, [[Alone|alone]] with Nelly--’
-
-‘All done to save money for tempting fortune, and to make her triumph
-greater,’ cried the old man.
-
-‘Yes, yes, I understand that now,’ said Quilp; ‘but I was going to say,
-I was so deceived by that, your miserly way, the reputation you had
-among those who knew you of being rich, and your repeated assurances
-that you would make of my advances treble and quadruple the interest
-you paid me, that I’d have advanced you, even now, what you want, on
-your simple note of hand, if I hadn’t unexpectedly become acquainted
-with your secret way of life.’
-
-‘Who is it,’ retorted the old man desperately, ‘that, notwithstanding
-all my caution, told you?  Come.  Let me know the name--the person.’
-
-The crafty [[Dwarf|dwarf]], bethinking himself that his giving up the [[Child|child]] would
-lead to the disclosure of the artifice he had employed, which, as
-nothing was to be gained by it, it was [[Well|well]] to conceal, stopped short
-in his answer and said, ‘Now, who do you think?’
-
-‘It was Kit, it must have been the boy; he played the spy, and you
-tampered with him?’ said the old man.
-
-‘How came you to think of him?’ said the [[Dwarf|dwarf]] in a tone of great
-commiseration.  ‘Yes, it was Kit.  Poor Kit!’
-
-So saying, he nodded in a friendly manner, and took his leave: stopping
-when he had passed the outer door a little distance, and grinning with
-extraordinary delight.
-
-‘Poor Kit!’ muttered Quilp.  ‘I think it was Kit who said I was an
-uglier [[Dwarf|dwarf]] than could be seen anywhere for a penny, wasn’t it.  Ha ha
-ha!  Poor Kit!’
-
-And with that he went his way, still chuckling as he went.

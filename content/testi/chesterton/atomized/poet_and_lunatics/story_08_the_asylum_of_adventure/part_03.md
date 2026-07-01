@@ -14,6 +14,9 @@ tags:
 </nav>
 
 
+"Make it a prose poem, then," said the man whose name was Simeon Wolfe,
+"and tell us how you felt about the [[Garden|garden]] and the [[Garden|garden]]-swing."
+
 Gabriel Gale was both sociable and talkative; he talked
 a great deal about himself because he was not an egoist.
 He talked a great deal about himself on the present occasion.

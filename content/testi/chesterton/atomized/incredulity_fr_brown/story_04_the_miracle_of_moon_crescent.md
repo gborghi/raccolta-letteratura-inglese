@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The Miracle of [[Moon]] Crescent"
+title: "incredulity Fr Brown — The Miracle of Moon Crescent"
 author: "Chesterton"
 unitType: story
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -20,7 +20,7 @@ FOUR: The Miracle of [[Moon]] Crescent
 the things that happened there were romantic enough in their way. At
 least it had been an expression of that genuine element of sentiment -
 historic and almost heroic - which manages to remain side by side with
-commercialism in the elder cities on the eastern coast of [[america|America]]. It
+commercialism in the elder cities on the eastern coast of [[America]]. It
 was originally a curve of classical architecture really recalling that
 eighteenth - century atmosphere in which men like Washington and
 Jefferson had seemed to be all the more republicans for being
@@ -182,7 +182,7 @@ movement out [[Home|home]]: we breathe. We don't pray; we breathe.'
 intelligent face which could hardly conceal the weariness; but he had
 listened to the two monologues with the admirable patience and
 politeness (so much in contrast with the legends of impatience and
-insolence) with which such monologues are listened to in [[america|America]].
+insolence) with which such monologues are listened to in [[America]].
 
 'Nothing [[Supernatural|supernatural]],' continued Alboin, 'just the great natural fact
 behind all the [[Supernatural|supernatural]] fancies. What did the Jews want with a God
@@ -505,7 +505,7 @@ and a comparatively short length of it hung from the fork of the branch
 to the [[Body|body]]. A long [[Garden|garden]] tub was rolled a yard or so from under the
 feet, like the stool kicked away from the feet of a [[suicide]].
 
-'Oh, my God!' said Alboin, so that it seemed as much a [[prayer]] as an
+'Oh, my God!' said Alboin, so that it seemed as much a [[Prayer|prayer]] as an
 oath.' What was it that man said about him? - 'If he knew, he would be
 ready to hang himself.' Wasn't that what he said, [[Father Brown]]?'
 
@@ -720,7 +720,7 @@ a miracle, as disbelieve in any man having any right to believe in a
 fact. The priest tells me that a man can appeal to a God I know nothing
 about to avenge him by the laws of some higher justice that I know
 nothing about. There's nothing for me to say except that I know nothing
-about it. But, at least, if the poor Paddy's [[prayer]] and [[Pistol|pistol]] could be
+about it. But, at least, if the poor Paddy's [[Prayer|prayer]] and [[Pistol|pistol]] could be
 heard in a higher world, that higher world might act in some way that
 seems odd to us. But you ask me to disbelieve the facts of this world as
 they appear to my own five wits. According to you, a whole procession of

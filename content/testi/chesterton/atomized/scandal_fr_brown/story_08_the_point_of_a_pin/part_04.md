@@ -14,6 +14,28 @@ tags:
 </nav>
 
 
+In the tangle of thin trees by the [[River|river]] two figures seemed to divide or
+scatter; one of them glided swiftly into the shadows and the other came
+forward to face them; bringing them to a halt and an abrupt and rather
+unaccountable [[Silence|silence]]. Then Henry Sand said in his heavy way: 'I think
+you know [[Father Brown]] . . . Lady Sand.'
+
+[[Father Brown]] did know her; but at that moment he might almost have said
+that he did not know her. The pallor and constriction of her face was
+like a mask of [[Tragedy|tragedy]]; she was much younger than her husband, but at
+that moment she looked somehow older than everything in that old [[house]]
+and [[Garden|garden]]. And the priest remembered, with a subconscious thrill, that
+she was indeed older in type and lineage and was the true possessor of
+the place. For her own family had owned it as impoverished aristocrats,
+before she had restored its fortunes by marrying a successful business
+man. As she stood there, she might have been a family picture, or even a
+family [[Ghost|ghost]]. Her pale face was of that pointed yet oval type seen in
+some old pictures of Mary [[Queen]] of Scots; and its expression seemed
+almost to go beyond the natural unnaturalness of a situation, in which
+her husband had vanished under suspicion of [[suicide]]. [[Father Brown]], with
+the same subconscious movement of the mind, wondered who it was with
+whom she had been talking among the trees.
+
 'I suppose you know all this dreadful news,' she said, with a
 comfortless composure. 'Poor [[Hubert]] must have broken down under all this
 revolutionary persecution, and been just maddened into taking his own
@@ -103,37 +125,3 @@ said. He would still write on a tree, as the [[Song|song]] says, if all the worl
 were paper and all the sea were ink; if that [[River|river]] flowed with
 everlasting ink or all these woods were a forest of quills and fountain
 - pens.'
-
-It was evident that Sand felt something creepy about the priest's
-fanciful imagery; whether because he found it incomprehensible or
-because he was beginning to comprehend.
-
-'You see,' said [[Father Brown]], turning the dressing - gown over slowly as
-he spoke, 'a man isn't expected to write his very best handwriting when
-he chips it on a tree. And if the man were not the man, if I make myself
-clear - Hullo!'
-
-He was looking down at the red dressing - gown, and it seemed for the
-moment as if some of the red had come off on his finger; but both the
-faces turned towards it were already a shade paler.
-
-'[[Blood]]!' said [[Father Brown]]; and for the instant there was a deadly
-stillness save for the melodious noises of the [[River|river]].
-
-Henry Sand cleared his throat and nose with noises that were by no means
-melodious. Then he said rather hoarsely: 'Whose [[Blood|blood]]?'
-
-'Oh, mine,' said [[Father Brown]]; but he did not smile.
-
-A moment after he said: 'There was a pin in this thing and I pricked
-myself. But I don't think you quite appreciate the point . . . the point
-of the pin, I do'; and he sucked his finger like a [[Child|child]].
-
-'You see,' he said after another [[Silence|silence]], 'the gown was folded up and
-pinned together; nobody could have unfolded it - at least without
-scratching himself. In plain words, [[Hubert]] Sand never wore this dressing
-- gown. Any more than [[Hubert]] Sand ever wrote on that tree. Or drowned
-himself in that [[River|river]].'
-
-The pince - nez tilted on Henry's inquiring nose fell off with a click;
-but he was otherwise motionless, as if rigid with surprise.

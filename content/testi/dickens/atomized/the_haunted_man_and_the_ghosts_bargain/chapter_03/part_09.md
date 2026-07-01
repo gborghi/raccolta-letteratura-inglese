@@ -1,5 +1,5 @@
 ---
-title: "The Haunted Man and the [[Ghost]]'s Bargain — Chapter 3 (part 9)"
+title: "The Haunted Man and the Ghost's Bargain — Chapter 3 (part 9)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-haunted-man-and-the-ghost's-bargain-(dickens)"
@@ -13,6 +13,32 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_03/part_08">‹ part 08</a><span></span></div>
 </nav>
 
+
+Redlaw raised his head, and looked towards her.
+
+“All through life, it seems by me,” she continued, “to tell me something.
+For poor neglected children, my little [[Child|child]] pleads as if it were alive,
+and had a voice I knew, with which to speak to me. When I hear of youth
+in [[Suffering|suffering]] or shame, I think that my [[Child|child]] might have come to that,
+perhaps, and that God took it from me in His [[Mercy|mercy]]. Even in age and grey
+hair, such as father’s, it is present: saying that it too might have
+lived to be old, long and long after you and I were gone, and to have
+needed the respect and [[Love|love]] of younger people.”
+
+Her quiet voice was quieter than ever, as she took her husband’s arm, and
+laid her head against it.
+
+“Children [[Love|love]] me so, that sometimes I half fancy—it’s a silly fancy,
+William—they have some way I don’t know of, of feeling for my little
+[[Child|child]], and me, and understanding why their [[Love|love]] is precious to me. If I
+have been quiet since, I have been more happy, William, in a hundred
+ways. Not least happy, dear, in this—that even when my little [[Child|child]] was
+born and dead but a few days, and I was weak and sorrowful, and could not
+help grieving a little, the thought arose, that if I tried to lead a good
+life, I should meet in Heaven a bright creature, who would call me,
+Mother!”
+
+Redlaw fell upon his knees, with a loud cry.
 
 “O Thou,” he said, “who through the teaching of pure [[Love|love]], hast
 graciously restored me to the [[Memory|memory]] which was the [[Memory|memory]] of [[Christ]] upon

@@ -1,5 +1,5 @@
 ---
-title: "The Man Who Knew Too Much — The [[Soul]] of the Schoolboy"
+title: "The Man Who Knew Too Much — The Soul of the Schoolboy"
 author: "Chesterton"
 unitType: story
 parentWork: "works/the-man-who-knew-too-much-(chesterton)"

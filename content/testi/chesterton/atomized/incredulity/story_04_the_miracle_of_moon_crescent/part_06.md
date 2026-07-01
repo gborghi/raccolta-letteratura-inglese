@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity]] — The Miracle of [[Moon]] Crescent (part 6)"
+title: "Incredulity — The Miracle of Moon Crescent (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-(chesterton)"
@@ -31,20 +31,20 @@ but as the inspector said the last sentence, he lifted it,
 shaking his hoary mane in a leonine fashion, and looking dazed
 but awakened.  He moved forward into the centre of the group,
 and they had a vague feeling that he was even vaster than before.
-They had been only too prone to take him for a [[Fool|fool]] or a mountebank;
+They had been only too prone to take him for a fool or a mountebank;
 but he was not altogether wrong when he said that there
 was in him a certain depth of lungs and life, like a west
-[[Wind|wind]] stored up in its strength, which might some day puff
+wind stored up in its strength, which might some day puff
 lighter things away.
 
-`So you're a practical man, Mr Collins,' he said, in a voice
+`So you're a practical man, [[Mr Collins]],' he said, in a voice
 at once soft and heavy.  `It must be the second or third
-[[Time|time]] you've mentioned in this little conversation that you
+time you've mentioned in this little conversation that you
 are a practical man; so I can't be mistaken about that.
 And a very interesting little fact it is for anybody engaged
 in writing your life, letters, and table--talk, with portrait
 at the age of five, daguerreotype of your grandmother and views
-of the old [[Home|home]]--town; and I'm sure your biographer won't
+of the old home--town; and I'm sure your biographer won't
 forget to mention it along with the fact that you had a pug
 nose with a pimple on it, and were nearly too fat to walk.
 And as you're a practical man, perhaps you would just go
@@ -66,17 +66,17 @@ of the event when the authorities fully realized who were
 the backers of the story, and what were the implications of it.
 Already it had broken out in the Press in its most sensationally
 and even shamelessly psychic form.  Interviews with Vandam
-on his marvellous adventure, articles about [[Father Brown]]
+on his marvellous adventure, articles about Father Brown
 and his mystical intuitions, soon led those who feel
 responsible for guiding the public, to wish to guide it
-into a wiser channel.  Next [[Time|time]] the inconvenient witnesses
+into a wiser channel.  Next time the inconvenient witnesses
 were approached in a more indirect and tactful manner.
 They were told, almost in an airy fashion, that Professor Vair
 was very much interested in such abnormal experiences;
 was especially interested in their own astonishing case.
 Professor Vair was a psychologist of great distinction;
 he had been known to take a detached interest in criminology;
-it was only some little [[Time|time]] afterwards that they discovered
+it was only some little time afterwards that they discovered
 that he was in any way connected with the police.
 
 Professor Vair was a courteous gentleman, quietly dressed
@@ -95,25 +95,25 @@ It is even more essential to have the fancies.'
 `Do you mean,' asked Vandam gravely, `that all that we thought
 facts were merely fancies?'
 
-`Not at all,' said the professor; `I only mean that
+`Not at all,' said [[The Professor|the professor]]; `I only mean that
 the police are stupid in thinking they can leave out
-the psychological element in these things.  [[Well]], of course,
+the psychological element in these things.  Well, of course,
 the psychological element is everything in everything,
 though it is only just beginning to be understood.
 To begin with, take the element called personality.
-Now I have heard of this priest, [[Father Brown]], before;
-and he is one of the most remarkable men of our [[Time|time]].
+Now I have heard of this priest, Father Brown, before;
+and he is one of the most remarkable men of our time.
 Men of that sort carry a sort of atmosphere with them;
 and nobody knows how much his nerves and even his very senses
-are affected by it for the [[Time|time]] being.  People are hypnotized--
+are affected by it for the time being.  People are hypnotized--
 yes, hypnotized; for hypnotism, like everything else, is a matter
 of degree; it enters slightly into all daily conversation:
 it is not necessarily conducted by a man in evening--
-dress on a platform in a public hall.  [[Father Brown]]'s religion
+dress on a platform in a public hall.  Father Brown's religion
 has always understood the psychology of atmospheres, and knows
 bow to appeal to everything simultaneously; even, for instance,
 to the sense of smell.  It understands those curious effects
-produced by music on [[Animals|animals]] and human beings; it can--`
+produced by music on animals and human beings; it can--`
 
 `Hang it,' protested Fenner, `you don't think he walked down the corridor
 carrying a church organ?'
@@ -122,7 +122,7 @@ carrying a church organ?'
 `He knows how to concentrate the essence of all these spiritual
 sounds and sights, and even smells, in a few restrained gestures;
 in an art or school of manners.  He could contrive so to concentrate
-your minds on the supernatural by his mere presence, that natural things
+your minds on the [[Supernatural|supernatural]] by his mere presence, that natural things
 slipped off your minds to left and right unnoticed.  Now you know,'
 he proceeded with a return to cheerful good sense, `that the more we
 study it the more queer the whole question of human evidence becomes.
@@ -137,5 +137,5 @@ They have suffered optical illusions in broad daylight.
 They have done this even without the hypnotic effect of personality;
 but here we have a very powerful and persuasive personality bent upon
 fixing only one picture on your minds; the picture of the wild Irish
-[[Rebel|rebel]] shaking his [[Pistol|pistol]] at the sky and firing that vain volley,
+rebel shaking his pistol at the sky and firing that vain volley,
 whose echoes were the thunders of heaven.'

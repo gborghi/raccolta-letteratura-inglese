@@ -1,5 +1,5 @@
 ---
-title: "[[innocence]]"
+title: "innocence"
 author: "Chesterton"
 unitType: work
 parentWork: "works/innocence-(chesterton)"
@@ -1500,7 +1500,7 @@ pretence of reverence at the big black [[Body|body]] with the yellow head.
 
 "His name was Arnold Becker," said the under-[[Detective|detective]], "though
 he went by many aliases.  He was a wandering sort of scamp,
-and is known to have been in [[america|America]]; so that was where Brayne got
+and is known to have been in [[America]]; so that was where Brayne got
 his knife into him.  We didn't have much to do with him ourselves,
 for he worked mostly in [[Germany]].  We've communicated, of course,
 with the German police.  But, oddly enough, there was a twin brother
@@ -1525,7 +1525,7 @@ any page in [[aquinas|Aquinas]] once.  Will my head split--or will it see?
 I see half--I only see half."
 
 He buried his head in his hands, and stood in a sort of rigid torture
-of thought or [[prayer]], while the other three could only go on staring
+of thought or [[Prayer|prayer]], while the other three could only go on staring
 at this last prodigy of their wild twelve hours.
 
 When [[Father Brown]]'s hands fell they showed a face quite fresh
@@ -6055,7 +6055,7 @@ of the place.  It was upon this crossway, in the lifting of a leaden
 and silver daybreak, that two brothers met in the street and spoke;
 though one was beginning the day and the other finishing it.
 The Rev. and Hon. Wilfred Bohun was very devout, and was making his
-way to some austere exercises of [[prayer]] or contemplation at [[Dawn|dawn]].
+way to some austere exercises of [[Prayer|prayer]] or contemplation at [[Dawn|dawn]].
 Colonel the Hon. Norman Bohun, his elder brother, was by no means devout,
 and was sitting in evening dress on the bench outside "The Blue Boar,"
 drinking what the philosophic observer was free to regard either
@@ -6096,7 +6096,7 @@ another and purer turn of the almost morbid thirst for [[Beauty|beauty]]
 which sent his brother raging after women and wine.
 This charge was doubtful, while the man's practical piety
 was indubitable.  Indeed, the charge was mostly an ignorant
-misunderstanding of the [[Love|love]] of [[Solitude|solitude]] and secret [[prayer]],
+misunderstanding of the [[Love|love]] of [[Solitude|solitude]] and secret [[Prayer|prayer]],
 and was founded on his being often found kneeling, not before
 the altar, but in peculiar places, in the crypts or gallery,
 or even in the belfry.  He was at the moment about to enter

@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 7 (part 3)"
+title: "Our Mutual Friend — Chapter 8 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,172 +10,150 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_12/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_13/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_12/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_12/part_04">part 04 ›</a></div>
 </nav>
 
 
-‘[[Well]],’ replies [[Venus]], still blowing his tea, ‘I’m not prepared, at a
-moment’s notice, to tell you, Mr Wegg.’
+‘My dear Mr Boffin, everything wears to rags,’ said Mortimer, with a
+light laugh.
 
-‘Come! According to your own account I’m not worth much,’ Wegg reasons
-persuasively.
+‘I won’t go so far as to say everything,’ returned Mr Boffin, on whom
+his manner seemed to grate, ‘because there’s some things that I never
+found among the [[Dust|dust]]. [[Well]], sir. So Mrs Boffin and me grow older and
+older in the old man’s service, living and working pretty hard in it,
+till the old man is discovered dead in his bed. Then Mrs Boffin and me
+seal up his box, always standing on the table at the side of his bed,
+and having frequently heerd tell of the Temple as a spot where lawyer’s
+[[Dust|dust]] is contracted for, I come down here in search of a lawyer to
+advise, and I see your young man up at this present elevation, chopping
+at the flies on the [[Window|window]]-sill with his penknife, and I give him a Hoy!
+not then having the pleasure of your acquaintance, and by that
+means come to gain the [[Honour|honour]]. Then you, and the gentleman in the
+uncomfortable neck-cloth under the little archway in Saint Paul’s
+Churchyard—’
 
-‘Not for miscellaneous working in, I grant you, Mr Wegg; but you might
-turn out valuable yet, as a—’ here [[Mr Venus]] takes a gulp of tea, so
-hot that it makes him choke, and sets his weak eyes watering; ‘as a
-Monstrosity, if you’ll excuse me.’
+‘Doctors’ Commons,’ observed Lightwood.
 
-Repressing an indignant look, indicative of anything but a disposition
-to excuse him, Silas pursues his point.
+‘I understood it was another name,’ said Mr Boffin, pausing, ‘but you
+know best. Then you and Doctor Scommons, you go to work, and you do the
+thing that’s proper, and you and Doctor S. take steps for finding out
+the poor boy, and at last you do find out the poor boy, and me and Mrs
+Boffin often exchange the observation, “We shall see him again,
+under happy circumstances.” But it was never to be; and the want of
+satisfactoriness is, that after all the money never gets to him.’
 
-‘I think you know me, [[Mr Venus]], and I think you know I never bargain.’
+‘But it gets,’ remarked Lightwood, with a languid inclination of the
+head, ‘into excellent hands.’
 
-[[Mr Venus]] takes gulps of hot tea, shutting his eyes at every gulp, and
-opening them again in a spasmodic manner; but does not commit himself to
-assent.
+‘It gets into the hands of me and Mrs Boffin only this very day and
+hour, and that’s what I am working round to, having waited for this day
+and hour a’ purpose. Mr Lightwood, here has been a wicked cruel
+murder. By that murder me and Mrs Boffin mysteriously profit. For the
+apprehension and conviction of the murderer, we offer a reward of one
+tithe of the property—a reward of Ten Thousand Pound.’
 
-‘I have a prospect of getting on in life and elevating myself by my own
-independent exertions,’ says Wegg, feelingly, ‘and I shouldn’t like—I
-tell you openly I should NOT like—under such circumstances, to be what
-I may call dispersed, a part of me here, and a part of me there, but
-should wish to collect myself like a genteel person.’
+‘Mr Boffin, it’s too much.’
 
-‘It’s a prospect at present, is it, Mr Wegg? Then you haven’t got the
-money for a deal about you? Then I’ll tell you what I’ll do with you;
-I’ll hold you over. I am a man of my word, and you needn’t be afraid of
-my disposing of you. I’ll hold you over. That’s a promise. Oh dear me,
-dear me!’
+‘Mr Lightwood, me and Mrs Boffin have fixed the sum together, and we
+stand to it.’
 
-Fain to accept his promise, and wishing to propitiate him, Mr Wegg looks
-on as he sighs and pours himself out more tea, and then says, trying to
-get a sympathetic tone into his voice:
+‘But let me represent to you,’ returned Lightwood, ‘speaking now with
+professional profundity, and not with individual imbecility, that the
+offer of such an immense reward is a [[Temptation|temptation]] to forced suspicion,
+forced construction of circumstances, strained accusation, a whole
+tool-box of edged tools.’
 
-‘You seem very low, [[Mr Venus]]. Is business bad?’
+‘[[Well]],’ said Mr Boffin, a little staggered, ‘that’s the sum we put o’
+one side for the purpose. Whether it shall be openly declared in the new
+notices that must now be put about in our names—’
 
-‘Never was so good.’
+‘In your name, Mr Boffin; in your name.’
 
-‘Is your hand out at all?’
+‘Very [[Well|well]]; in my name, which is the same as Mrs Boffin’s, and means
+both of us, is to be considered in drawing ’em up. But this is the first
+instruction that I, as the owner of the property, give to my lawyer on
+coming into it.’
 
-‘Never was so [[Well|well]] in. Mr Wegg, I’m not only first in the trade, but I’m
-THE trade. You may go and buy a [[skeleton]] at the West End if you like,
-and pay the West End price, but it’ll be my putting together. I’ve as
-much to do as I can possibly do, with the assistance of my young man,
-and I take a [[Pride|pride]] and a pleasure in it.’
+‘Your lawyer, Mr Boffin,’ returned Lightwood, making a very short
+note of it with a very rusty pen, ‘has the gratification of taking the
+instruction. There is another?’
 
-[[Mr Venus]] thus delivers himself, his right hand extended, his smoking
-saucer in his left hand, protesting as though he were going to burst
-into a flood of [[Tears|tears]].
+‘There is just one other, and no more. Make me as compact a little will
+as can be reconciled with tightness, leaving the whole of the property
+to “my beloved wife, Henerietty Boffin, sole executrix”. Make it as
+short as you can, using those words; but make it tight.’
 
-‘That ain’t a state of things to make you low, [[Mr Venus]].’
+At some loss to fathom Mr Boffin’s notions of a tight will, Lightwood
+felt his way.
 
-‘Mr Wegg, I know it ain’t. Mr Wegg, not to name myself as a workman
-without an equal, I’ve gone on improving myself in my knowledge of
-Anatomy, till both by sight and by name I’m perfect. Mr Wegg, if you was
-brought here loose in a bag to be articulated, I’d name your smallest
-bones blindfold equally with your largest, as fast as I could pick ’em
-out, and I’d sort ’em all, and sort your wertebrae, in a manner that
-would equally surprise and charm you.’
+‘I beg your pardon, but professional profundity must be exact. When you
+say tight—’
 
-‘[[Well]],’ remarks Silas (though not quite so readily as last [[Time|time]]), ‘THAT
-ain’t a state of things to be low about.—Not for YOU to be low about,
-leastways.’
+‘I mean tight,’ Mr Boffin explained.
 
-‘Mr Wegg, I know it ain’t; Mr Wegg, I know it ain’t. But it’s the heart
-that lowers me, it is the heart! Be so good as take and read that card
-out loud.’
+‘Exactly so. And nothing can be more laudable. But is the tightness to
+bind Mrs Boffin to any and what conditions?’
 
-Silas receives one from his hand, which [[Venus]] takes from a wonderful
-litter in a drawer, and putting on his spectacles, reads:
+‘Bind Mrs Boffin?’ interposed her husband. ‘No! What are you thinking
+of! What I want is, to make it all hers so tight as that her hold of it
+can’t be loosed.’
 
-‘“[[Mr Venus]],”’
+‘Hers freely, to do what she likes with? Hers absolutely?’
 
-‘Yes. Go on.’
+‘Absolutely?’ repeated Mr Boffin, with a short sturdy laugh. ‘Hah! I
+should think so! It would be handsome in me to begin to bind Mrs Boffin
+at this [[Time|time]] of day!’
 
-‘“Preserver of [[Animals]] and [[Birds]],”’
+So that instruction, too, was taken by Mr Lightwood; and Mr Lightwood,
+having taken it, was in the act of showing Mr Boffin out, when Mr Eugene
+Wrayburn almost jostled him in the door-way. Consequently Mr Lightwood
+said, in his cool manner, ‘Let me make you two known to one another,’
+and further signified that Mr Wrayburn was counsel learned in the
+law, and that, partly in the way of business and partly in the way of
+pleasure, he had imparted to Mr Wrayburn some of the interesting facts
+of Mr Boffin’s [[Biography|biography]].
 
-‘Yes. Go on.’
+‘Delighted,’ said Eugene—though he didn’t look so—‘to know Mr Boffin.’
 
-‘“Articulator of human bones.”’
+‘Thankee, sir, thankee,’ returned that gentleman. ‘And how do YOU like
+the law?’
 
-‘That’s it,’ with a groan. ‘That’s it! Mr Wegg, I’m thirty-two, and a
-bachelor. Mr Wegg, I [[Love|love]] her. Mr Wegg, she is worthy of being loved by
-a Potentate!’ Here Silas is rather alarmed by [[Mr Venus]]’s springing to
-his feet in the hurry of his spirits, and haggardly confronting him with
-his hand on his coat collar; but [[Mr Venus]], begging pardon, sits down
-again, saying, with the calmness of [[Despair|despair]], ‘She objects to the
-business.’
+‘A—not particularly,’ returned Eugene.
 
-‘Does she know the profits of it?’
+‘Too dry for you, eh? [[Well]], I suppose it wants some years of sticking
+to, before you master it. But there’s nothing like work. Look at the
+[[Bees|bees]].’
 
-‘She knows the profits of it, but she don’t appreciate the art of
-it, and she objects to it. “I do not wish,” she writes in her own
-handwriting, “to regard myself, nor yet to be regarded, in that boney
-light”.’
+‘I beg your pardon,’ returned Eugene, with a reluctant smile, ‘but will
+you excuse my mentioning that I always protest against being referred to
+the [[Bees|bees]]?’
 
-[[Mr Venus]] pours himself out more tea, with a look and in an attitude of
-the deepest desolation.
+‘Do you!’ said Mr Boffin.
 
-‘And so a man climbs to the top of the tree, Mr Wegg, only to see that
-there’s no look-out when he’s up there! I sit here of a [[Night|night]] surrounded
-by the lovely trophies of my art, and what have they done for me? Ruined
-me. Brought me to the pass of being informed that “she does not wish to
-regard herself, nor yet to be regarded, in that boney light”!’ Having
-repeated the fatal expressions, [[Mr Venus]] drinks more tea by gulps, and
-offers an explanation of his doing so.
+‘I object on principle,’ said Eugene, ‘as a biped—’
 
-‘It lowers me. When I’m equally lowered all over, lethargy sets in. By
-sticking to it till one or two in the morning, I get oblivion. Don’t let
-me detain you, Mr Wegg. I’m not company for any one.’
+‘As a what?’ asked Mr Boffin.
 
-‘It is not on that account,’ says Silas, rising, ‘but because I’ve got
-an appointment. It’s [[Time|time]] I was at Harmon’s.’
+‘As a two-footed creature;—I object on principle, as a two-footed
+creature, to being constantly referred to [[Insects|insects]] and four-footed
+creatures. I object to being required to model my proceedings according
+to the proceedings of the bee, or the dog, or the spider, or the camel.
+I fully admit that the camel, for instance, is an excessively temperate
+person; but he has several stomachs to entertain himself with, and I
+have only one. Besides, I am not fitted up with a convenient cool cellar
+to keep my drink in.’
 
-‘Eh?’ said [[Mr Venus]]. ‘Harmon’s, up Battle Bridge way?’
+‘But I said, you know,’ urged Mr Boffin, rather at a loss for an answer,
+‘the bee.’
 
-Mr Wegg admits that he is bound for that port.
-
-‘You ought to be in a good thing, if you’ve worked yourself in there.
-There’s lots of money going, there.’
-
-‘To think,’ says Silas, ‘that you should catch it up so quick, and know
-about it. Wonderful!’
-
-‘Not at all, Mr Wegg. The old gentleman wanted to know the [[Nature|nature]] and
-worth of everything that was found in the [[Dust|dust]]; and many’s the bone, and
-feather, and what not, that he’s brought to me.’
-
-‘Really, now!’
-
-‘Yes. (Oh dear me, dear me!) And he’s buried quite in this
-neighbourhood, you know. Over yonder.’
-
-Mr Wegg does not know, but he makes as if he did, by responsively
-nodding his head. He also follows with his eyes, the toss of [[Venus]]’s
-head: as if to seek a direction to over yonder.
-
-‘I took an interest in that discovery in the [[River|river]],’ says [[Venus]].
-‘(She hadn’t written her cutting refusal at that [[Time|time]].) I’ve got up
-there—never mind, though.’
-
-He had raised the candle at arm’s length towards one of the dark
-shelves, and Mr Wegg had turned to look, when he broke off.
-
-‘The old gentleman was [[Well|well]] known all round here. There used to be
-stories about his having hidden all kinds of property in those [[Dust|dust]]
-mounds. I suppose there was nothing in ’em. Probably you know, Mr Wegg?’
-
-‘Nothing in ’em,’ says Wegg, who has never heard a word of this before.
-
-‘Don’t let me detain you. Good [[Night|night]]!’
-
-The unfortunate [[Mr Venus]] gives him a shake of the hand with a shake of
-his own head, and drooping down in his chair, proceeds to pour himself
-out more tea. Mr Wegg, looking back over his shoulder as he pulls the
-door open by the strap, notices that the movement so shakes the crazy
-shop, and so shakes a momentary flare out of the candle, as that the
-babies—Hindoo, African, and British—the ‘human warious’, the French
-gentleman, the green glass-eyed cats, the [[dogs]], the ducks, and all
-the rest of the collection, show for an instant as if paralytically
-animated; while even poor little Cock Robin at [[Mr Venus]]’s elbow turns
-over on his [[Innocent|innocent]] side. Next moment, Mr Wegg is stumping under the
-gaslights and through the mud.
+‘Exactly. And may I represent to you that it’s injudicious to say the
+bee? For the whole case is assumed. Conceding for a moment that there is
+any analogy between a bee, and a man in a shirt and pantaloons (which
+I deny), and that it is settled that the man is to learn from the bee
+(which I also deny), the question still remains, what is he to learn?
+To imitate? Or to avoid? When your friends the [[Bees|bees]] worry themselves to
+that highly fluttered extent about their sovereign, and become perfectly
+distracted touching the slightest monarchical movement, are we men to
+learn the [[Greatness|greatness]] of Tuft-hunting, or the littleness of the
+[[Court]] Circular? I am not clear, Mr Boffin, but that the hive may be
+satirical.’

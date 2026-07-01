@@ -1,5 +1,5 @@
 ---
-title: "[[CharlesDickens]] — Chapter 7 (part 1)"
+title: "CharlesDickens — Chapter 7 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/charlesdickens-(chesterton)"
@@ -115,20 +115,3 @@ detachment from it can be found in one fact.  A great part of the [[Time|time]]
 that he was in [[Italy]] he was engaged in writing "The Chimes,"
 and such Christmas tales, tales of Christmas in the English towns,
 tales full of fog and [[Snow|snow]] and hail and happiness.
-
-Dickens could find in any street divergences between man
-and man deeper than the divisions of nations.  His fault was to
-exaggerate differences.  He could find types almost as distinct
-as separate tribes of [[Animals|animals]] in his own brain and his own [[City|city]],
-those two homes of a magnificent chaos.  The only two southerners
-introduced prominently into his novels, the two in "Little Dorrit,"
-are popular English foreigners, I had almost said stage foreigners.
-Villainy is, in English eyes, a southern trait, therefore one
-of the foreigners is villainous.  Vivacity is, in English eyes,
-another southern trait, therefore the other foreigner is vivacious.
-But we can see from the outlines of both that Dickens did not have
-to go to [[Italy]] to get them.  While poor panting millionaires,
-poor tired earls and poor God-forsaken American men of culture
-are plodding about [[Italy]] for literary inspiration, Charles Dickens
-made up the whole of that Italian [[Romance|romance]] (as I strongly suspect)
-from the faces of two [[London]] organ-grinders.

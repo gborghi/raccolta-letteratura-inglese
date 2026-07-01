@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 32: THE BEGINNING OF A LONG [[Journey|JOURNEY]] (part 2)"
+title: "David Copperfield — Chapter 32: THE BEGINNING OF A LONG [[Journey|JOURNEY (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_32_the_beginning_of_a_long_journe/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_32_the_beginning_of_a_long_journe/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘Ay, Mas’r Davy. I doen’t rightly know how ‘tis, but from over yon there
+seemed to me to come--the end of it like,’ looking at me as if he were
+waking, but with the same determined face.
+
+‘What end?’ I asked, possessed by my former [[Fear|fear]].
+
+‘I doen’t know,’ he said, thoughtfully; ‘I was calling to mind that the
+beginning of it all did take place here--and then the end come. But it’s
+gone! Mas’r Davy,’ he added; answering, as I think, my look; ‘you han’t
+no call to be afeerd of me: but I’m kiender muddled; I don’t fare to
+feel no matters,’--which was as much as to say that he was not himself,
+and quite confounded.
 
 Mr. Peggotty stopping for us to join him: we did so, and said no more.
 The remembrance of this, in connexion with my former thought, however,
@@ -113,15 +126,3 @@ her head down on the pillow beside her till she was fast asleep! The
 ribbon’s round my little Minnie’s neck now. It ought not to be, perhaps,
 but what can I do? Em’ly is very bad, but they were fond of one another.
 And the [[Child|child]] knows nothing!’
-
-Mrs. Joram was so unhappy that her husband came out to take care of
-her. Leaving them together, I went [[Home|home]] to Peggotty’s; more [[Melancholy|melancholy]]
-myself, if possible, than I had been yet.
-
-That good creature--I mean Peggotty--all untired by her late anxieties
-and sleepless nights, was at her brother’s, where she meant to stay till
-morning. An old woman, who had been employed about the [[house]] for some
-weeks past, while Peggotty had been unable to attend to it, was the
-[[house]]’s only other occupant besides myself. As I had no occasion for her
-services, I sent her to bed, by no means against her will, and sat down
-before the kitchen [[Fire|fire]] a little while, to think about all this.

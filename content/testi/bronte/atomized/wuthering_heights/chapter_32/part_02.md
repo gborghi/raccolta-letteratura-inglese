@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 32 (part 2)"
+title: "Wuthering Heights — Chapter 32 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_32/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_32/part_03">part 03 ›</a></div>
 </nav>
 
+
+The task was done, not free from further blunders; but the pupil
+claimed a reward, and received at least five kisses; which, however, he
+generously returned. Then they came to the door, and from their
+conversation I judged they were about to issue out and have a walk on
+the moors. I supposed I should be condemned in [[Hareton Earnshaw]]’s
+heart, if not by his mouth, to the lowest pit in the infernal regions
+if I showed my unfortunate person in his neighbourhood then; and
+feeling very mean and malignant, I skulked round to seek refuge in the
+kitchen. There was unobstructed admittance on that side also; and at
+the door sat my old friend [[Nelly Dean]], sewing and singing a [[Song|song]]; which
+was often interrupted from within by harsh words of scorn and
+intolerance, uttered in far from musical accents.
 
 “I’d rayther, by th’ haulf, hev’ ’em swearing i’ my lugs fro’h morn to
 neeght, nor hearken ye hahsiver!” said the tenant of the kitchen, in
@@ -117,24 +130,3 @@ dozing.
 cart-[[Horse|horse]]? He does his work, eats his food, and sleeps eternally! What
 a blank, dreary mind he must have! Do you ever dream, Hareton? And, if
 you do, what is it about? But you can’t speak to me!”
-
-Then she looked at him; but he would neither open his mouth nor look
-again.
-
-“He’s, perhaps, dreaming now,” she continued. “He twitched his shoulder
-as Juno twitches hers. Ask him, Ellen.”
-
-“Mr. Hareton will ask the master to send you upstairs, if you don’t
-behave!” I said. He had not only twitched his shoulder but clenched his
-fist, as if tempted to use it.
-
-“I know why Hareton never speaks, when I am in the kitchen,” she
-exclaimed, on another occasion. “He is afraid I shall laugh at him.
-Ellen, what do you think? He began to teach himself to read once; and,
-because I laughed, he burned his books, and dropped it: was he not a
-[[Fool|fool]]?”
-
-“Were not you naughty?” I said; “answer me that.”
-
-“Perhaps I was,” she went on; “but I did not expect him to be so silly.
-Hareton, if I gave you a book, would you take it now? I’ll try!”

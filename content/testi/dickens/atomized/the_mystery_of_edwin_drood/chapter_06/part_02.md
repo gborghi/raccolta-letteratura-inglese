@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 5 (part 2)"
+title: "The Mystery of Edwin Drood — Chapter 5 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_06/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_07/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Anything old, I think you mean,” growls [[Durdles]]. “It ain’t a spot for
+novelty.”
+
+“Any new discovery on your part, I meant.”
+
+“There’s a old ’un under the seventh pillar on the left as you go down
+the broken steps of the little underground chapel as formerly was; I
+make him out (so fur as I’ve made him out yet) to be one of them old
+’uns with a crook. To judge from the size of the passages in the walls,
+and of the steps and doors, by which they come and went, them crooks
+must have been a good deal in the way of the old ’uns! Two on ’em
+meeting promiscuous must have hitched one another by the mitre pretty
+often, I should say.”
 
 Without any endeavour to correct the literality of this opinion, Jasper
 surveys his companion—covered from head to foot with old mortar, lime,

@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 10 (part 1)"
+title: "Our Mutual Friend — Chapter 12 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,142 +10,109 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_33/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_34/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_33/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_34/part_02">part 02 ›</a></div>
 </nav>
 
 
-Chapter 10
+Chapter 12
 
-A SUCCESSOR
+MORE [[Birds|BIRDS]] OF PREY
 
 
-Some of the Reverend Frank Milvey’s brethren had found themselves
-exceedingly uncomfortable in their minds, because they were required to
-bury the dead too hopefully. But, the Reverend Frank, inclining to the
-belief that they were required to do one or two other things (say out of
-nine-and-thirty) calculated to trouble their consciences rather more if
-they would think as much about them, held his peace.
+Rogue Riderhood dwelt deep and dark in Limehouse Hole, among the
+riggers, and the mast, oar and block makers, and the boat-builders, and
+the sail-lofts, as in a kind of [[Ship|ship]]’s hold stored full of waterside
+characters, some no better than himself, some very much better, and
+none much worse. The Hole, albeit in a general way not over nice in
+its choice of company, was rather shy in reference to the [[Honour|honour]] of
+cultivating the Rogue’s acquaintance; more frequently giving him the
+cold shoulder than the warm hand, and seldom or never drinking with him
+unless at his own expense. A part of the Hole, indeed, contained so
+much public spirit and private virtue that not even this strong leverage
+could move it to good fellowship with a tainted accuser. But, there may
+have been the drawback on this magnanimous [[morality]], that its exponents
+held a true witness before Justice to be the next unneighbourly and
+accursed character to a false one.
 
-Indeed, the Reverend Frank Milvey was a forbearing man, who noticed many
-sad warps and blights in the vineyard wherein he worked, and did not
-profess that they made him savagely wise. He only learned that the more
-he himself knew, in his little limited human way, the better he could
-distantly imagine what Omniscience might know.
+Had it not been for the daughter whom he often mentioned, Mr Riderhood
+might have found the Hole a mere [[Grave|grave]] as to any means it would yield
+him of getting a living. But Miss Pleasant Riderhood had some little
+position and connection in Limehouse Hole. Upon the smallest of small
+scales, she was an unlicensed pawnbroker, keeping what was popularly
+called a Leaving Shop, by lending insignificant sums on insignificant
+articles of property deposited with her as security. In her
+four-and-twentieth year of life, Pleasant was already in her fifth year
+of this way of trade. Her deceased mother had established the business,
+and on that parent’s demise she had appropriated a secret capital of
+fifteen shillings to establishing herself in it; the existence of
+such capital in a pillow being the last intelligible confidential
+communication made to her by the departed, before succumbing to
+dropsical conditions of snuff and gin, incompatible equally with
+coherence and existence.
 
-Wherefore, if the Reverend Frank had had to read the words that troubled
-some of his brethren, and profitably touched innumerable hearts, in
-a worse case than Johnny’s, he would have done so out of the pity and
-[[Humility|humility]] of his [[Soul|soul]]. Reading them over Johnny, he thought of his own
-six children, but not of his [[Poverty|poverty]], and read them with dimmed eyes.
-And very seriously did he and his bright little wife, who had been
-listening, look down into the small [[Grave|grave]] and walk [[Home|home]] arm-in-arm.
+Why christened Pleasant, the late Mrs Riderhood might possibly have
+been at some [[Time|time]] able to explain, and possibly not. Her daughter had no
+information on that point. Pleasant she found herself, and she couldn’t
+help it. She had not been consulted on the question, any more than on
+the question of her coming into these terrestrial parts, to want a name.
+Similarly, she found herself possessed of what is colloquially termed
+a swivel eye (derived from her father), which she might perhaps have
+declined if her sentiments on the subject had been taken. She was not
+otherwise positively ill-looking, though anxious, meagre, of a muddy
+complexion, and looking as old again as she really was.
 
-There was grief in the aristocratic [[house]], and there was joy in the
-Bower. Mr Wegg argued, if an [[Orphan|orphan]] were wanted, was he not an [[Orphan|orphan]]
-himself; and could a better be desired? And why go beating about
-Brentford bushes, seeking orphans forsooth who had established no claims
-upon you and made no sacrifices for you, when here was an [[Orphan|orphan]] ready
-to your hand who had given up in your cause, Miss Elizabeth, Master
-George, Aunt Jane, and Uncle Parker?
+As some [[dogs]] have it in the [[Blood|blood]], or are trained, to worry certain
+creatures to a certain point, so—not to make the comparison
+disrespectfully—Pleasant Riderhood had it in the [[Blood|blood]], or had been
+trained, to regard seamen, within certain limits, as her prey. Show
+her a man in a blue jacket, and, figuratively speaking, she pinned him
+instantly. Yet, all things considered, she was not of an evil mind or an
+unkindly disposition. For, observe how many things were to be considered
+according to her own unfortunate experience. Show Pleasant Riderhood a
+Wedding in the street, and she only saw two people taking out a regular
+licence to quarrel and fight. Show her a Christening, and she saw a
+little heathen personage having a quite superfluous name bestowed upon
+it, inasmuch as it would be commonly addressed by some abusive epithet:
+which little personage was not in the least wanted by anybody, and would
+be shoved and banged out of everybody’s way, until it should grow
+big enough to shove and bang. Show her a Funeral, and she saw an
+unremunerative ceremony in the [[Nature|nature]] of a black masquerade, conferring
+a temporary gentility on the performers, at an immense expense, and
+representing the only formal party ever given by the deceased. Show her
+a live father, and she saw but a duplicate of her own father, who from
+her infancy had been taken with fits and starts of discharging his duty
+to her, which duty was always incorporated in the form of a fist or a
+leathern strap, and being discharged hurt her. All things considered,
+therefore, Pleasant Riderhood was not so very, very bad. There was even
+a touch of [[Romance|romance]] in her—of such [[Romance|romance]] as could creep into Limehouse
+Hole—and maybe sometimes of a [[Summer|summer]] evening, when she stood with
+folded arms at her shop-door, looking from the reeking street to the
+sky where the sun was setting, she may have had some vaporous visions
+of far-off islands in the southern seas or elsewhere (not being
+geographically particular), where it would be good to roam with a
+congenial partner among groves of bread-fruit, waiting for ships to be
+wafted from the hollow ports of civilization. For, sailors to be got the
+better of, were essential to Miss Pleasant’s Eden.
 
-Mr Wegg chuckled, consequently, when he heard the tidings. Nay, it was
-afterwards affirmed by a witness who shall at present be nameless,
-that in the seclusion of the Bower he poked out his wooden leg, in the
-stage-ballet manner, and executed a taunting or triumphant pirouette on
-the genuine leg remaining to him.
+Not on a [[Summer|summer]] evening did she come to her little shop-door, when a
+certain man standing over against the [[house]] on the opposite side of
+the street took notice of her. That was on a cold shrewd windy evening,
+after dark. Pleasant Riderhood shared with most of the lady inhabitants
+of the Hole, the peculiarity that her hair was a ragged knot, constantly
+coming down behind, and that she never could enter upon any undertaking
+without first twisting it into place. At that particular moment, being
+newly come to the threshold to take a look out of doors, she was winding
+herself up with both hands after this fashion. And so prevalent was the
+fashion, that on the occasion of a fight or other disturbance in the
+Hole, the ladies would be seen flocking from all quarters universally
+twisting their back-hair as they came along, and many of them, in the
+hurry of the moment, carrying their back-combs in their mouths.
 
-John Rokesmith’s manner towards Mrs Boffin at this [[Time|time]], was more the
-manner of a young man towards a mother, than that of a Secretary towards
-his employer’s wife. It had always been marked by a subdued affectionate
-deference that seemed to have sprung up on the very day of his
-engagement; whatever was odd in her dress or her ways had seemed to have
-no oddity for him; he had sometimes borne a quietly-amused face in her
-company, but still it had seemed as if the pleasure her genial temper
-and radiant [[Nature|nature]] yielded him, could have been quite as naturally
-expressed in a tear as in a smile. The completeness of his sympathy with
-her fancy for having a little [[John Harmon]] to protect and rear, he
-had shown in every act and word, and now that the kind fancy was
-disappointed, he treated it with a manly tenderness and respect for
-which she could hardly thank him enough.
-
-‘But I do thank you, Mr Rokesmith,’ said Mrs Boffin, ‘and I thank you
-most kindly. You [[Love|love]] children.’
-
-‘I [[Hope|hope]] everybody does.’
-
-‘They ought,’ said Mrs Boffin; ‘but we don’t all of us do what we ought,
-do us?’
-
-John Rokesmith replied, ‘Some among us supply the short-comings of the
-rest. You have loved children [[Well|well]], Mr Boffin has told me.’
-
-‘Not a bit better than he has, but that’s his way; he puts all the good
-upon me. You speak rather sadly, Mr Rokesmith.’
-
-‘Do I?’
-
-‘It sounds to me so. Were you one of many children?’ He shook his head.
-
-‘An only [[Child|child]]?’
-
-‘No there was another. Dead long ago.’
-
-‘Father or mother alive?’
-
-‘Dead.’—
-
-‘And the rest of your relations?’
-
-‘Dead—if I ever had any living. I never heard of any.’
-
-At this point of the dialogue Bella came in with a light step. She
-paused at the door a moment, hesitating whether to remain or retire;
-perplexed by finding that she was not observed.
-
-‘Now, don’t mind an old lady’s talk,’ said Mrs Boffin, ‘but tell me. Are
-you quite sure, Mr Rokesmith, that you have never had a disappointment
-in [[Love|love]]?’
-
-‘Quite sure. Why do you ask me?’
-
-‘Why, for this reason. Sometimes you have a kind of kept-down manner
-with you, which is not like your age. You can’t be thirty?’
-
-‘I am not yet thirty.’
-
-Deeming it high [[Time|time]] to make her presence known, Bella coughed here to
-attract attention, begged pardon, and said she would go, fearing that
-she interrupted some matter of business.
-
-‘No, don’t go,’ rejoined Mrs Boffin, ‘because we are coming to business,
-instead of having begun it, and you belong to it as much now, my dear
-Bella, as I do. But I want my Noddy to consult with us. Would somebody
-be so good as find my Noddy for me?’
-
-Rokesmith departed on that errand, and presently returned accompanied by
-Mr Boffin at his jog-trot. Bella felt a little vague trepidation as to
-the subject-matter of this same consultation, until Mrs Boffin announced
-it.
-
-‘Now, you come and sit by me, my dear,’ said that worthy [[Soul|soul]], taking
-her comfortable place on a large ottoman in the centre of the room,
-and drawing her arm through Bella’s; ‘and Noddy, you sit here, and Mr
-Rokesmith you sit there. Now, you see, what I want to talk about, is
-this. Mr and Mrs Milvey have sent me the kindest note possible (which
-Mr Rokesmith just now read to me out aloud, for I ain’t good at
-handwritings), offering to find me another little [[Child|child]] to name and
-educate and bring up. [[Well]]. This has set me thinking.’
-
-(‘And she is a steam-ingein at it,’ murmured Mr Boffin, in an admiring
-parenthesis, ‘when she once begins. It mayn’t be so easy to start her;
-but once started, she’s a ingein.’)
-
-‘—This has set me thinking, I say,’ repeated Mrs Boffin, cordially
-beaming under the influence of her husband’s compliment, ‘and I have
-thought two things. First of all, that I have grown timid of reviving
-[[John Harmon]]’s name. It’s an unfortunate name, and I fancy I should
-reproach myself if I gave it to another dear [[Child|child]], and it proved again
-unlucky.’
-
-‘Now, whether,’ said Mr Boffin, gravely propounding a case for his
-Secretary’s opinion; ‘whether one might call that a superstition?’
+It was a wretched little shop, with a roof that any man standing in it
+could touch with his hand; little better than a cellar or [[Cave|cave]], down
+three steps. Yet in its ill-lighted [[Window|window]], among a flaring handkerchief
+or two, an old peacoat or so, a few valueless watches and compasses, a
+jar of tobacco and two crossed pipes, a bottle of walnut ketchup, and
+some horrible sweets these—creature discomforts serving as a blind to
+the main business of the Leaving Shop—was displayed the [[Inscription|inscription]]
+SEAMAN’S BOARDING-[[house|HOUSE]].

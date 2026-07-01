@@ -1,5 +1,5 @@
 ---
-title: "[[longbow2]] — Chapter 6 (part 7)"
+title: "longbow2 — Chapter 6 (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/longbow2/chapter_06/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/longbow2/chapter_07/part_01">part 01 ›</a></div>
 </nav>
 
+
+As the path dropped to the level and she began to walk by farms
+and villages, the [[Storm|storm]] in her mind began to settle and she recovered
+the reasonable prudence with which she had pottered about her
+own farm.  She even felt some responsibility and embarrassment
+about troubling her friend by coming on so vague an errand.  But she
+told herself convincingly enough that after all she was justified. 
+One would not normally be alarmed about a strayed lodger as if he
+were a [[Lion|lion]] escaped from a menagerie.  But she had after all very
+good reason for regarding this [[Lion|lion]] as rather a fearful wildfowl. 
+His way of talking had been so eccentric that everybody for miles round
+would have agreed, if they had heard him, that he had a tile loose. 
+She was very glad they had not heard him; but their imaginary
+opinion fortified her own.  They had a duty in common humanity;
+they could not let a poor gentleman of doubtful [[Sanity|sanity]] disappear
+without further inquiry.
 
 She entered the inn with a firm step and hailed her friend with something
 of that hearty cheerfulness that is so unpopular in the early riser. 

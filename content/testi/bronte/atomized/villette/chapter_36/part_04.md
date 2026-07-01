@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 34 (part 4)"
+title: "Villette — Chapter 34 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -36,7 +36,7 @@ inundated streets?”
 
 “He and none other.”
 
-A brief [[Silence|silence]] fell. The [[spring]] of junction seemed suddenly to have
+A brief [[Silence|silence]] fell. The [[Spring|spring]] of junction seemed suddenly to have
 become palpable; I felt it yield to pressure.
 
 “Was it of M. Paul you have been speaking?” I presently inquired. “Was

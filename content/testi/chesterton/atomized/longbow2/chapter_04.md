@@ -1,5 +1,5 @@
 ---
-title: "[[longbow2]] — Chapter 4"
+title: "longbow2 — Chapter 4"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/longbow2-(chesterton)"
@@ -17,7 +17,6 @@ tags:
 Chapter IV
 
 The Elusive Companion of Parson White
-
 
 In the scriptures and the chronicles of the League of the Long Bow,
 or fellowship of foolish persons doing impossible things,
@@ -106,7 +105,6 @@ It was written in what had once been a good hand-writing of the
 bolder sort, but which had degenerated through excessive energy
 and haste into an illegible scrawl.  It appeared to run as follows:
 
-
 "`My dear Owen,--My mind is quite made up; though I know the sort
 of legal long-winded things you will say against it; I know
 especially one thing a leathery old lawyer like you is bound to say;
@@ -121,7 +119,6 @@ the Game Laws.  You won't mind me talking like this; I know jolly
 [[Well|well]] you'd think you were acting as a friend; but I think the [[Time|time]]
 has come to speak plainly.'"
 
-
 "Quite right," said the Colonel.
 
 "Yes," said young Pierce, with a rather vague expression, "I'm glad
@@ -129,14 +126,12 @@ he feels that the [[Time|time]] has come to speak plainly."
 
 "Quite so," observed the lawyer dryly; "he continues as follows:"
 
-
 "`I've got a lot to tell you about the new arrangement, which works
 much better even than I hoped.  I was afraid at first it would
 really be an encumbrance, as you know it's always supposed to be. 
 But there are more things, and all the rest of it, and God
 fulfils himself, and so on and so on.  It gives one quite a weird
 Asiatic feeling sometimes.'"
-
 
 "Yes," said the Colonel, "it does."
 
@@ -146,7 +141,6 @@ bear no more.
 "You are not used to the epistolary method," said Hood indulgently;
 "you haven't got into the swing of the style.  It goes on:"
 
-
 "`Of course, he's a big pot down here, and all sorts of skunks
 are afraid of him and pretend to boycott me.  Nobody could expect
 anything else of those pineapple people, but I confess I was
@@ -155,7 +149,6 @@ but she goes to Scotland a good deal and you can't blame her.
 Sometimes I'm left pretty severely [[Alone|alone]], but I'm not downhearted;
 you'll probably laugh if I tell you that Snowdrop is really a very
 intelligent companion.'"
-
 
 "I confess I am long past laughter," said Hilary Pierce sadly;
 "but I rather wish I knew who Snowdrop is."
@@ -172,12 +165,10 @@ of fiction and film-drama if Snowdrop were the daughter of the lady,
 when she had married Another.  But there seems to be something
 more about Snowdrop, that little sunbeam in the [[house]]:"
 
-
 "`Snowdrop tries to enter our ways, as they always do; but, of course,
 it would be awkward if she played tricks.  How alarmed they would
 all be if she took it into her head to walk about on two legs,
 like everybody else.'"
-
 
 "Nonsense!" ejaculated Colonel Crane.  "Can't be a child--
 talking about it walking about on two legs."
@@ -270,7 +261,6 @@ you'd be surprised at what you saw."
 "I mean," replied Pierce, "that you'd find Mr. White talking
 to somebody who didn't seem to be there."
 
-
 Hilary Pierce, fired by his detective fever, made a good many
 more inquiries about the Rev. Wilding White, both of his two old
 friends and elsewhere.
@@ -327,7 +317,6 @@ by the way, that I had a letter from him too.  Came the day
 after I heard yours.  Shorter, and perhaps a little plainer." 
 And he handed the letter to Hood, who read it out slowly:
 
-
 "`I never knew the old British populace, here in Avalon itself,
 could be so broken down by squires and sneaking lawyers. 
 Nobody dared help me move my [[house]] again; said it was illegal
@@ -336,7 +325,6 @@ carted it all away in two or three journeys; took it right clean
 off the old [[Fool|fool]]'s land altogether this [[Time|time]].  I fancy the old
 [[Fool|fool]] will have to admit there are things in this world he wasn't
 prepared to believe in.'"
-
 
 "But look here," began Hood as if impulsively, and then stopped
 and spoke more slowly and carefully.  "I don't understand this;
@@ -525,7 +513,6 @@ that he has been very much too exact."
 he used.  It was very exact; it was dull, deadly, literal [[Truth|truth]]. 
 But I can be exact, too, at times, and just now I should like to look
 at a [[Time|time]]-table."
-
 
 They found the village of Ponder's End in a condition as comically
 incongruous as could [[Well|well]] be with the mystical experiences
@@ -753,7 +740,7 @@ be called the main feature of the story.  An elusive, flexible and
 insinuating nose, the serpent of their Eden.  [[Well]], they seem
 to have returned to their Eden now; and I have no [[Doubt|doubt]] it will
 be all right; for it is when people are separated that these sort
-of [[Secrets|secrets]] [[Spring|spring]] up between them.  After all, it was a mystery
+of [[Secrets|secrets]] [[spring]] up between them.  After all, it was a mystery
 to us and we cannot be surprised if it was a mystery to her."
 
 "A good deal of this talk is still rather a mystery to me,"
@@ -802,8 +789,8 @@ without knowing it?"
 
 "Yes," replied Hood.  "You remember when you were smuggling pigs
 in defiance of the regulations, you indulged (I regret to say)
-in a [[Deception|deception]] of putting them in cages and pretending you were
-travelling with a menagerie of dangerous [[Animals|animals]].  The consequence was,
+in a deception of putting them in cages and pretending you were
+travelling with a menagerie of dangerous animals.  The consequence was,
 you remember, that the authorities forbade menageries altogether. 
 Our friend White took up the case of a travelling circus being
 stopped in his town as a case of gross oppression; and when they
@@ -815,7 +802,7 @@ had to break it up, he took over the elephant."
 "He might not have done it if he'd known what it involved," said Hood. 
 "As I say, he was a quarrelsome fellow, with all his good points."
 
-There was a [[Silence|silence]], and then Pierce said in a musing manner: 
+There was a silence, and then Pierce said in a musing manner: 
 "It's odd it should be the sequel of my little pig adventure. 
 A sort of reversal of the ~parturiunt montes~; I put in a little pig
 and it brought forth an elephant."

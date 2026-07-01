@@ -14,6 +14,34 @@ tags:
 </nav>
 
 
+Another school has also arisen to-day with the same idea
+in a much grosser form.  It is the school which believes
+that everything can be learnt:  that [[success]] in art and
+commerce is equally an ingenious trick.  A series is issued
+entitled the "How To" series.  It teaches in one volume "How
+to Choose Your Banker," in another "How to Dine in [[Paris]],"
+and in a third, which now lies before us, "How to Write a [[Novel]]."
+It never seems to strike the writers of this school that there
+is some difference between the psychological profundity and
+delicacy of choosing your banker and that of choosing your idea.
+An idea is a nameless thing; it melts into all other ideas,
+whereas a banker is detachable and does not melt into any one.
+The same is true, though in a lesser degree, of the comparison
+which the author makes in his first chapter.  He says,
+with some apparent reason, that as painting and sculpture require
+training on fixed lines there is no reason why such training
+should not be given in fiction.  Surely the answer is distinct.
+Fiction is more dark and chaotic than painting because,
+though both arts symbolise spiritual conditions, painting employs
+as its symbol the bodily form, which has been measured,
+while fiction employs as its symbol the thoughts and actions
+which have never been measured.  Painting deals with what
+a man looks like, which we can all know; fiction deals
+with what he means, which he generally does not know himself.
+It is not possible to know how many thoughts a man has;
+it is possible to know, with reasonable industry, how many
+legs he has.
+
 Painting has an intellectual object also; and may modify physical
 facts to attain it, but only within limits.  By giving a figure
 unusually long legs a painter may suggest heroic stature;
@@ -83,33 +111,3 @@ to bring the chosen of Meg Merrilies.  The conversation is almost
 entirely about ducks and peas, and is conducted between a fantastic
 old lawyer and a frivolous girl, and yet we know no scene in fiction
 where the cord of romantic excitement is stretched so tight.
-
-Thus the author of How to Write Fiction is in reality wrong at
-the very start.  He treats a [[Novel|novel]] as if it was based on its plot.
-There are some novels which are so based: The Moonstone,
-for example.  But he does not realise that the real germ
-of a [[Novel|novel]] may be any kind of matter-a man, a society,
-a curse, a landscape, a vision, a school of thought, a joke.
-When Thackeray called [[Vanity]] Fair a [[Novel|novel]] without a [[Hero|hero]],
-he spoke the strict [[Truth|truth]], for the protagonist in [[Vanity]] Fair
-is not a man, but a crowd, jostling, noisy, and monstrous.
-The [[Hero|hero]] of Notre Dame is a stone church, the [[Hero|hero]] of The Wrong Box
-is a wooden barrel, the [[Hero|hero]] of Peleas and Melisandre is an atmosphere.
-The author of this book seems to us very much beside the mark
-when he says of Maeterlinck that his atmosphere, "put into
-bald language, means that he has succeeded in creating an artistic
-environment for his weird characters," and proceeds to compare it
-with the darkness and strangeness of the first scene in [[Hamlet]].
-In [[Hamlet]] the sombre background symbolises the human figure:
-in Maeterlinck the human figures themselves merely symbolise
-the sombre background.  He does not "create an artistic environment
-for his characters:"  the environment creates the characters
-and then kills them-no very difficult task, for they are a small
-and frightened race, like men created by a man and not by God.
-And this contradiction is merely typical of the thousand
-contradictions which render a science of fiction impossible.
-The fact is that every novelist begins to draw his figure at
-a different extremity.  There can be no biology of these strange
-creatures of the brain in one of which the centre of life is
-in the tail, in another in the horns, in another in the stomach,
-in another in the wings.

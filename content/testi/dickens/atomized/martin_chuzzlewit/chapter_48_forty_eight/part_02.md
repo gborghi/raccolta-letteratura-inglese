@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 48: FORTY EIGHT (part 2)"
+title: "Martin Chuzzlewit — Chapter 48: FORTY EIGHT (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_48_forty_eight/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_48_forty_eight/part_03">part 03 ›</a></div>
 </nav>
 
+
+Mr Tapley was the first to resume his composure. In a very short space
+of [[Time|time]] he was discovered to have somehow installed himself in office as
+waiter, or attendant upon the party; a fact which was first suggested to
+them by his temporary absence in the kitchen, and speedy return with a
+kettle of boiling [[Water|water]], from which he replenished the tea-pot with a
+[[Self|self]]-possession that was quite his own.
 
 ‘Sit down, and take your breakfast, Mark,’ said Tom. ‘Make him sit down
 and take his breakfast, Martin.’
@@ -125,16 +132,3 @@ Tom laughed, and taking leave of his sister, hurried Mark and Martin out
 into the street, and away to John Westlock’s by the nearest [[Road|road]]; for
 his hour of business was very near at hand, and he prided himself on
 always being exact to his [[Time|time]].
-
-John Westlock was at [[Home|home]], but, strange to say, was rather embarrassed
-to see them; and when Tom was about to go into the room where he
-was breakfasting, said he had a stranger there. It appeared to be a
-mysterious stranger, for John shut that door as he said it, and led them
-into the next room.
-
-He was very much delighted, though, to see [[Mark Tapley]]; and received
-Martin with his own frank courtesy. But Martin felt that he did not
-inspire John Westlock with any unusual interest; and twice or
-thrice observed that he looked at [[Tom Pinch]] doubtfully; not to say
-compassionately. He thought, and blushed to think, that he knew the
-cause of this.

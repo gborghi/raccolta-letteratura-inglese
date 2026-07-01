@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]] — Science and the Savages"
+title: "heret12 — Science and the Savages"
 author: "Chesterton"
 unitType: story
 parentWork: "works/heret12-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 XI.  Science and the Savages
-
 
 A permanent disadvantage of the study of folk-lore and kindred
 subjects is that the man of science can hardly be in the [[Nature|nature]]

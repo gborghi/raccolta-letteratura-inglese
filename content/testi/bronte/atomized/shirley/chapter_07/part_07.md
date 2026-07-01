@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 7 (part 7)"
+title: "Shirley — Chapter 7 (part 7)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,56 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_07/part_06">‹ part 06</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_07/part_08">part 08 ›</a></div>
 </nav>
 
+
+respectable gentlefolks. I ought, no [[Doubt|doubt]], to be proud of their
+
+countenance. I don't say they are not as good as I am--far from it--but
+
+they are different from me."
+
+
+
+She went in.
+
+
+
+Yorkshire people in those days took their tea round the table, sitting
+
+[[Well|well]] into it, with their knees duly introduced under the mahogany. It
+
+was essential to have a multitude of plates of bread and butter, varied
+
+in sorts and plentiful in quantity. It was thought proper, too, that on
+
+the centre plate should stand a glass dish of marmalade. Among the
+
+viands was expected to be found a small assortment of cheesecakes and
+
+tarts. If there was also a plate of thin slices of pink ham garnished
+
+with green parsley, so much the better.
+
+
+
+Eliza, the rector's cook, fortunately knew her business as provider. She
+
+had been put out of [[Humour|humour]] a little at first, when the invaders came so
+
+unexpectedly in such strength; but it appeared that she regained her
+
+cheerfulness with action, for in due [[Time|time]] the tea was spread forth in
+
+handsome style, and neither ham, tarts, nor marmalade were wanting among
+
+its accompaniments.
+
+
+
+The curates, summoned to this bounteous repast, entered joyous; but at
+
+once, on seeing the ladies, of whose presence they had not been
+
+forewarned, they came to a stand in the doorway. Malone headed the
 
 party; he stopped short and fell back, almost capsizing Donne, who was
 
@@ -163,51 +213,3 @@ being only with the one lady of his own family that he maintained a grim
 taciturnity--kept up a brilliant flow of easy prattle with his
 
 right-hand and left-hand neighbours, and even with his _vis-à-vis_, Miss
-
-Mary; though, as Mary was the most sensible, the least coquettish, of
-
-the three, to her the elderly widower was the least attentive. At heart
-
-he could not abide sense in women. He liked to see them as silly, as
-
-light-headed, as vain, as open to ridicule as possible, because they
-
-were then in reality what he held them to be, and wished them to
-
-be--inferior, toys to play with, to amuse a vacant hour, and to be
-
-thrown away.
-
-
-
-Hannah was his favourite. Harriet, though beautiful, egotistical, and
-
-[[Self|self]]-satisfied, was not quite weak enough for him. She had some genuine
-
-[[Self|self]]-respect amidst much false [[Pride|pride]], and if she did not talk like an
-
-oracle, neither would she babble like one crazy; she would not permit
-
-herself to be treated quite as a doll, a [[Child|child]], a plaything; she
-
-expected to be bent to like a [[Queen|queen]].
-
-
-
-Hannah, on the contrary, demanded no respect, only flattery. If her
-
-admirers only _told_ her that she was an angel, she would let them
-
-_treat_ her like an idiot. So very credulous and frivolous was she, so
-
-very silly did she become when besieged with attention, flattered and
-
-admired to the proper degree, that there were moments when Helstone
-
-actually felt tempted to commit matrimony a second [[Time|time]], and to try the
-
-experiment of taking her for his second helpmeet; but fortunately the
-
-salutary recollection of the _ennuis_ of his first [[Marriage|marriage]], the
-
-impression still left on him of the weight of the millstone he had once

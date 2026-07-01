@@ -146,13 +146,3 @@ and very much more frequented.  Even Mr. Hibbs,
 who would honestly have thought entering a public-[[house]] more disgraceful than entering a brothel, could
 not connect any conception of disgrace with Lord
 Ivywood's champagne.
-
-For the purpose of the lecture was not wholly
-devoted to the great and awful Pig, and the purpose of
-the meeting even less.  Lord Ivywood, the white
-furnace of whose mind was always full of new fancies
-hardening into ambitions, wanted to have a [[debate]] on
-the diet of East and West, and felt that Misysra might
-very appropriately open with an account of the
-Moslem veto on pork or other coarse forms of flesh food.
-He reserved it to himself to speak second.

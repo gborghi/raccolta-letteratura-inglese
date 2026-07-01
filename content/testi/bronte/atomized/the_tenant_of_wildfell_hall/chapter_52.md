@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 52"
+title: "The Tenant of Wildfell Hall — Chapter 52"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -144,7 +144,7 @@ it—all presented a picture, striking indeed, and pleasing to an
 
 unencumbered mind, but by no means encouraging to me. There was one
 
-comfort, however,—all this was entailed upon little [[arthur|Arthur]], and could
+comfort, however,—all this was entailed upon little [[Arthur]], and could
 
 not under any circumstances, strictly speaking, be his mother’s. But
 
@@ -290,7 +290,7 @@ deep, [[Well|well]]-cut ditches, and fine timber-trees, growing sometimes on the
 
 borders, sometimes in the midst of the enclosure: “_very_ fine land, if
 
-you saw it in the [[Summer|summer]] or [[spring]].”
+you saw it in the [[Summer|summer]] or [[Spring|spring]].”
 
 
 

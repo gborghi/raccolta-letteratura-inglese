@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 10 (part 5)"
+title: "thursday — Chapter 10 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_10/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_11/part_01">part 01 ›</a></div>
 </nav>
 
+
+"I am Inspector Ratcliffe," he said, with a sort of haste
+that verged on harshness.  "My name is pretty [[Well|well]] known to
+the police, and I can see [[Well|well]] enough that you belong to them.
+But if there is any [[Doubt|doubt]] about my position, I have a card,"
+and he began to pull a blue card from his pocket.
+
+[[The Professor]] gave a tired gesture.
+
+"Oh, don't show it us," he said wearily; "we've got enough of them
+to equip a paper-chase."
+
+The little man named Bull, had, like many men who seem to be
+of a mere vivacious vulgarity, sudden movements of good taste.
+Here he certainly saved the situation.  In the midst of this
+staggering transformation scene he stepped forward with all
+the gravity and responsibility of a second, and addressed
+the two seconds of the Marquis.
 
 "Gentlemen," he said, "we all owe you a serious apology; but I assure
 you that you have not been made the victims of such a low joke as

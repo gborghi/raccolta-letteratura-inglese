@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 13 (part 2)"
+title: "Dombey and Son — Chapter 41 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,141 +14,121 @@ tags:
 </nav>
 
 
-This was Carker the Manager. Mr Carker the Junior, Walter’s friend, was
-his brother; two or three years older than he, but widely removed in
-station. The younger brother’s post was on the top of the official
-ladder; the elder brother’s at the [[Bottom|bottom]]. The elder brother never
-gained a stave, or raised his foot to mount one. Young men passed above
-his head, and [[Rose|rose]] and [[Rose|rose]]; but he was always at the [[Bottom|bottom]]. He was
-quite resigned to occupy that low condition: never complained of it:
-and certainly never hoped to escape from it.
+Briggs is still grinding in the mill of knowledge; and Tozer, too; and
+Johnson, too; and all the rest; the older pupils being principally
+engaged in forgetting, with prodigious labour, everything they knew
+when they were younger. All are as polite and as pale as ever; and
+among them, Mr Feeder, B.A., with his bony hand and bristly head, is
+still hard at it; with his Herodotus stop on just at present, and his
+other barrels on a shelf behind him.
 
-“How do you do this morning?” said Mr Carker the Manager, entering Mr
-Dombey’s room soon after his arrival one day: with a bundle of papers
-in his hand.
+A mighty sensation is created, even among these [[Grave|grave]] young gentlemen,
+by a visit from the emancipated Toots; who is regarded with a kind of
+awe, as one who has passed the Rubicon, and is pledged never to come
+back, and concerning the cut of whose clothes, and fashion of whose
+jewellery, whispers go about, behind hands; the bilious Bitherstone,
+who is not of Mr Toots’s [[Time|time]], affecting to despise the latter to the
+smaller boys, and saying he knows better, and that he should like to
+see him coming that sort of thing in Bengal, where his mother had got
+an emerald belonging to him that was taken out of the footstool of a
+Rajah. Come now!
 
-“How do you do, Carker?” said Mr Dombey.
+Bewildering emotions are awakened also by the sight of Florence, with
+whom every young gentleman immediately falls in [[Love|love]], again; except, as
+aforesaid, the bilious Bitherstone, who declines to do so, out of
+contradiction. Black jealousies of Mr Toots arise, and Briggs is of
+opinion that he ain’t so very old after all. But this disparaging
+insinuation is speedily made nought by Mr Toots saying aloud to Mr
+Feeder, B.A., “How are you, Feeder?” and asking him to come and dine
+with him today at the Bedford; in right of which feats he might set up
+as Old Parr, if he chose, unquestioned.
 
-“Coolish!” observed Carker, stirring the [[Fire|fire]].
+There is much shaking of hands, and much bowing, and a great [[Desire|desire]] on
+the part of each young gentleman to take Toots down in Miss Dombey’s
+good graces; and then, Mr Toots having bestowed a chuckle on his old
+desk, Florence and he withdraw with Mrs Blimber and Cornelia; and
+Doctor Blimber is heard to observe behind them as he comes out last,
+and shuts the door, “Gentlemen, we will now resume our studies,” For
+that and little else is what the Doctor hears the sea say, or has heard
+it saying all his life.
 
-“Rather,” said Mr Dombey.
+Florence then steals away and goes upstairs to the old bedroom with Mrs
+Blimber and Cornelia; Mr Toots, who feels that neither he nor anybody
+else is wanted there, stands talking to the Doctor at the study-door,
+or rather hearing the Doctor talk to him, and wondering how he ever
+thought the study a great sanctuary, and the Doctor, with his round
+turned legs, like a clerical pianoforte, an awful man. Florence soon
+comes down and takes leave; Mr Toots takes leave; and Diogenes, who has
+been worrying the weak-eyed young man pitilessly all the [[Time|time]], shoots
+out at the door, and barks a glad defiance down the cliff; while Melia,
+and another of the Doctor’s female domestics, looks out of an upper
+[[Window|window]], laughing “at that there Toots,” and saying of Miss Dombey, “But
+really though, now—ain’t she like her brother, only prettier?”
 
-“Any news of the young gentleman who is so important to us all?” asked
-Carker, with his whole regiment of teeth on parade.
+Mr Toots, who saw when Florence came down that there were [[Tears|tears]] upon
+her face, is desperately anxious and uneasy, and at first fears that he
+did wrong in proposing the visit. But he is soon relieved by her saying
+she is very glad to have been there again, and by her talking quite
+cheerfully about it all, as they walked on by the sea. What with the
+voices there, and her sweet voice, when they come near Mr Dombey’s
+[[house]], and Mr Toots must leave her, he is so enslaved that he has not a
+scrap of free-will left; when she gives him her hand at parting, he
+cannot let it go.
 
-“Yes—not direct news—I hear he’s very [[Well|well]],” said Mr Dombey. Who had
-come from Brighton over-[[Night|night]]. But no one knew It.
+“Miss Dombey, I beg your pardon,” says Mr Toots, in a sad fluster, “but
+if you would allow me to—to—”
 
-“Very [[Well|well]], and becoming a great scholar, no [[Doubt|doubt]]?” observed the
-Manager.
+The smiling and unconscious look of Florence brings him to a dead stop.
 
-“I [[Hope|hope]] so,” returned Mr Dombey.
+“If you would allow me to—if you would not consider it a liberty, Miss
+Dombey, if I was to—without any encouragement at all, if I was to [[Hope|hope]],
+you know,” says Mr Toots.
 
-“Egad!” said Mr Carker, shaking his head, “[[Time]] flies!”
+Florence looks at him inquiringly.
 
-“I think so, sometimes,” returned Mr Dombey, glancing at his newspaper.
+“Miss Dombey,” says Mr Toots, who feels that he is in for it now, “I
+really am in that state of adoration of you that I don’t know what to
+do with myself. I am the most deplorable wretch. If it wasn’t at the
+corner of the Square at present, I should go down on my knees, and beg
+and entreat of you, without any encouragement at all, just to let me
+[[Hope|hope]] that I may—may think it possible that you—”
 
-“Oh! You! You have no reason to think so,” observed Carker. “One who
-sits on such an elevation as yours, and can sit there, unmoved, in all
-[[Seasons|seasons]]—hasn’t much reason to know anything about the flight of [[Time|time]].
-It’s men like myself, who are low down and are not superior in
-circumstances, and who inherit new masters in the course of [[Time]], that
-have cause to look about us. I shall have a rising sun to worship,
-soon.”
+“Oh, if you please, don’t!” cries Florence, for the moment quite
+alarmed and distressed. “Oh, pray don’t, Mr Toots. Stop, if you please.
+Don’t say any more. As a kindness and a favour to me, don’t.”
 
-“[[Time]] enough, [[Time|time]] enough, Carker!” said Mr Dombey, rising from his
-chair, and standing with his back to the [[Fire|fire]]. “Have you anything there
-for me?”
+Mr Toots is dreadfully abashed, and his mouth opens.
 
-“I don’t know that I need trouble you,” returned Carker, turning over
-the papers in his hand. “You have a committee today at three, you
-know.”
+“You have been so good to me,” says Florence, “I am so grateful to you,
+I have such reason to like you for being a kind friend to me, and I do
+like you so much;” and here the ingenuous face smiles upon him with the
+pleasantest look of honesty in the world; “that I am sure you are only
+going to say good-bye!”
 
-“And one at three, three-quarters,” added Mr Dombey.
+“Certainly, Miss Dombey,” says Mr Toots, “I—I—that’s exactly what I
+mean. It’s of no consequence.”
 
-“Catch you forgetting anything!” exclaimed Carker, still turning over
-his papers. “If Mr Paul inherits your [[Memory|memory]], he’ll be a troublesome
-customer in the [[house|House]]. One of you is enough.”
+“Good-bye!” cries Florence.
 
-“You have an accurate [[Memory|memory]] of your own,” said Mr Dombey.
+“Good-bye, Miss Dombey!” stammers Mr Toots. “I [[Hope|hope]] you won’t think
+anything about it. It’s—it’s of no consequence, thank you. It’s not of
+the least consequence in the world.”
 
-“Oh! I!” returned the manager. “It’s the only capital of a man like
-me.”
+Poor Mr Toots goes [[Home|home]] to his hotel in a state of desperation, locks
+himself into his bedroom, flings himself upon his bed, and lies there
+for a long [[Time|time]]; as if it were of the greatest consequence,
+nevertheless. But Mr Feeder, B.A., is coming to dinner, which happens
+[[Well|well]] for Mr Toots, or there is no knowing when he might get up again.
+Mr Toots is obliged to get up to receive him, and to give him
+hospitable entertainment.
 
-Mr Dombey did not look less pompous or at all displeased, as he stood
-leaning against the chimney-piece, surveying his (of course
-unconscious) clerk, from head to foot. The stiffness and nicety of Mr
-Carker’s dress, and a certain arrogance of manner, either natural to
-him or imitated from a pattern not far off, gave great additional
-effect to his [[Humility|humility]]. He seemed a man who would contend against the
-power that vanquished him, if he could, but who was utterly borne down
-by the [[Greatness|greatness]] and superiority of Mr Dombey.
-
-“Is Morfin here?” asked Mr Dombey after a short pause, during which Mr
-Carker had been fluttering his papers, and muttering little abstracts
-of their contents to himself.
-
-“Morfin’s here,” he answered, looking up with his widest and almost
-sudden smile; “humming musical recollections—of his last [[Night|night]]’s
-quartette party, I suppose—through the walls between us, and driving me
-half mad. I wish he’d make a bonfire of his violoncello, and burn his
-music-books in it.”
-
-“You respect nobody, Carker, I think,” said Mr Dombey.
-
-“No?” inquired Carker, with another wide and most feline show of his
-teeth. “[[Well]]! Not many people, I believe. I wouldn’t answer perhaps,”
-he murmured, as if he were only thinking it, “for more than one.”
-
-A dangerous quality, if real; and a not less dangerous one, if feigned.
-But Mr Dombey hardly seemed to think so, as he still stood with his
-back to the [[Fire|fire]], drawn up to his full height, and looking at his
-head-clerk with a dignified composure, in which there seemed to lurk a
-stronger latent sense of power than usual.
-
-“Talking of Morfin,” resumed Mr Carker, taking out one paper from the
-rest, “he reports a junior dead in the agency at Barbados, and proposes
-to reserve a passage in the Son and Heir—she’ll sail in a month or
-so—for the successor. You don’t care who goes, I suppose? We have
-nobody of that sort here.”
-
-Mr Dombey shook his head with supreme indifference.
-
-“It’s no very precious appointment,” observed Mr Carker, taking up a
-pen, with which to endorse a memorandum on the back of the paper. “I
-[[Hope|hope]] he may bestow it on some [[Orphan|orphan]] nephew of a musical friend. It may
-perhaps stop his fiddle-playing, if he has a gift that way. Who’s that?
-Come in!”
-
-“I beg your pardon, Mr Carker. I didn’t know you were here, Sir,”
-answered Walter; appearing with some letters in his hand, unopened, and
-newly arrived. “Mr Carker the junior, Sir—”
-
-At the mention of this name, Mr Carker the Manager was or affected to
-be, touched to the quick with shame and humiliation. He cast his eyes
-full on Mr Dombey with an altered and apologetic look, abased them on
-the ground, and remained for a moment without speaking.
-
-“I thought, Sir,” he said suddenly and angrily, turning on Walter,
-“that you had been before requested not to drag Mr Carker the Junior
-into your conversation.”
-
-“I beg your pardon,” returned Walter. “I was only going to say that Mr
-Carker the Junior had told me he believed you were gone out, or I
-should not have knocked at the door when you were engaged with Mr
-Dombey. These are letters for Mr Dombey, Sir.”
-
-“Very [[Well|well]], Sir,” returned Mr Carker the Manager, plucking them sharply
-from his hand. “Go about your business.”
-
-But in taking them with so little ceremony, Mr Carker dropped one on
-the floor, and did not see what he had done; neither did Mr Dombey
-observe the letter lying near his feet. Walter hesitated for a moment,
-thinking that one or other of them would notice it; but finding that
-neither did, he stopped, came back, picked it up, and laid it himself
-on Mr Dombey’s desk. The letters were post-letters; and it happened
-that the one in question was Mrs Pipchin’s regular report, directed as
-usual—for Mrs Pipchin was but an indifferent penwoman—by Florence. Mr
-Dombey, having his attention silently called to this letter by Walter,
-started, and looked fiercely at him, as if he believed that he had
-purposely selected it from all the rest.
+And the generous influence of that social virtue, hospitality (to make
+no mention of wine and good cheer), opens Mr Toots’s heart, and warms
+him to conversation. He does not tell Mr Feeder, B.A., what passed at
+the corner of the Square; but when Mr Feeder asks him “When it is to
+come off?” Mr Toots replies, “that there are certain subjects”—which
+brings Mr Feeder down a peg or two immediately. Mr Toots adds, that he
+don’t know what right Blimber had to notice his being in Miss Dombey’s
+company, and that if he thought he meant impudence by it, he’d have him
+out, Doctor or no Doctor; but he supposes its only his ignorance. Mr
+Feeder says he has no [[Doubt|doubt]] of it.

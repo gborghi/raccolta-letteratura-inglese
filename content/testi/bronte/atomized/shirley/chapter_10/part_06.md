@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 10 (part 6)"
+title: "Shirley — Chapter 10 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,38 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_10/part_05">‹ part 05</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_10/part_07">part 07 ›</a></div>
 </nav>
 
+
+aside with a certain disdain. Still, though thus pitiless in moral
+
+anatomy, she was no scandal-monger. She never disseminated really
+
+malignant or dangerous reports. It was not her heart so much as her
+
+temper that was wrong.
+
+
+
+Caroline made this discovery for the first [[Time|time]] to-day, and moved
+
+thereby to regret divers unjust judgments she had more than once passed
+
+on the crabbed old maid, she began to talk to her softly, not in
+
+sympathizing words, but with a sympathizing voice. The [[Loneliness|loneliness]] of her
+
+condition struck her visitor in a new light, as did also the character
+
+of her ugliness--a bloodless pallor of complexion, and deeply worn lines
+
+of feature. The girl pitied the solitary and afflicted woman; her looks
+
+told what she felt. A sweet countenance is never so sweet as when the
+
+moved heart animates it with compassionate tenderness. Miss Mann, seeing
+
+such a countenance raised to her, was touched in her turn. She
+
+acknowledged her sense of the interest thus unexpectedly shown in her,
 
 who usually met with only coldness and ridicule, by replying to her
 
@@ -169,39 +201,3 @@ it was developed. She talked never of herself, always of others. Their
 faults she passed over. Her theme was their wants, which she sought to
 
 supply; their sufferings, which she longed to alleviate. She was
-
-religious, a professor of religion--what some would call "a saint;" and
-
-she referred to religion often in sanctioned phrase--in phrase which
-
-those who possess a perception of the ridiculous, without owning the
-
-power of exactly testing and truly judging character, would certainly
-
-have esteemed a proper subject for [[Satire|satire]], a matter for mimicry and
-
-laughter. They would have been hugely mistaken for their pains.
-
-Sincerity is never ludicrous; it is always respectable. Whether
-
-[[Truth|truth]]--be it religious or moral [[Truth|truth]]--speak eloquently and in
-
-[[Well|well]]-chosen language or not, its voice should be heard with reverence.
-
-Let those who cannot nicely, and with certainty, discern the difference
-
-between the tones of hypocrisy and those of sincerity, never presume to
-
-laugh at all, lest they should have the miserable misfortune to laugh in
-
-the wrong place, and commit impiety when they think they are achieving
-
-wit.
-
-
-
-Not from Miss Ainley's own lips did Caroline hear of her good works, but
-
-she knew much of them nevertheless. Her beneficence was the familiar
-
-topic of the poor in Briarfield. They were not works of almsgiving. The

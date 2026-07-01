@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 29"
+title: "The Tenant of Wildfell Hall — Chapter 29"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -48,7 +48,7 @@ faithful Rachel, who evidently guessed my sorrows and felt for them,
 
 though she was too discreet to allude to them, I had my books and
 
-pencil, my domestic affairs, and the welfare and comfort of [[arthur|Arthur]]’s
+pencil, my domestic affairs, and the welfare and comfort of [[Arthur]]’s
 
 poor tenants and labourers to attend to: and I sometimes sought and
 
@@ -68,7 +68,7 @@ her in the beginning of June, and stayed till near the close of August.
 
 The first [[Time|time]] I saw him was on a sweet, warm evening, when I was
 
-sauntering in the park with little [[arthur|Arthur]] and Rachel, who is head-[[Nurse|nurse]]
+sauntering in the park with little [[Arthur]] and Rachel, who is head-[[Nurse|nurse]]
 
 and lady’s-maid in one—for, with my secluded life and tolerably active
 
@@ -80,7 +80,7 @@ preferred committing the important charge to her, with a young
 
 nursery-maid under her directions, to engaging any one else: besides,
 
-it saves money; and since I have made acquaintance with [[arthur|Arthur]]’s
+it saves money; and since I have made acquaintance with [[Arthur]]’s
 
 affairs, I have learnt to regard that as no trifling recommendation;
 
@@ -384,7 +384,7 @@ newly-acquired domestic habits.
 
 The [[Time|time]] that I met him [[Alone|alone]] was on a bright, but not oppressively hot
 
-day, in the beginning of July: I had taken little [[arthur|Arthur]] into the wood
+day, in the beginning of July: I had taken little [[Arthur]] into the wood
 
 that skirts the park, and there seated him on the moss-cushioned roots
 
@@ -454,7 +454,7 @@ witnessed his [[Fear|fear]] to offend.
 
 could show to his lady.” He half drew from his waistcoat-pocket a
 
-letter with [[arthur|Arthur]]’s still beloved hand on the address, scowled at it,
+letter with [[Arthur]]’s still beloved hand on the address, scowled at it,
 
 and put it back again, adding—“But he tells me he is about to return
 
@@ -514,7 +514,7 @@ my thoughts unscrutinized, within the sanctum of my [[Home|home]].
 
 
 
-And _was_ I glad? Yes, delighted; though I was angered by [[arthur|Arthur]]’s
+And _was_ I glad? Yes, delighted; though I was angered by [[Arthur]]’s
 
 conduct, and though I felt that he had wronged me, and was determined
 

@@ -14,6 +14,24 @@ tags:
 </nav>
 
 
+Royal Family. Nor did wealth or birth make any barriers for those once
+
+within this singular Whig world. The platform was high, but it was
+
+level. Moreover the upstart nowadays pushes himself by wealth: but the
+
+Whigs could choose their upstarts. In that world Macaulay found Rogers,
+
+with his phosphorescent and corpse-like brilliancy; there he found
+
+Sydney [[smith|Smith]], bursting with crackers of common sense, an admirable old
+
+heathen; there he found Tom Moore, the romantic of the Regency, a
+
+shortened [[Shadow|shadow]] of Lord Byron. That he reached this platform and
+
+remained on it is, I say, typical of a turning-point in the century. For
+
 the fundamental fact of early Victorian [[history]] was this: the decision
 
 of the middle classes to employ their new wealth in backing up a sort of
@@ -38,8 +56,6 @@ is marked even more significantly in his speech against the Chartists.
 
 Cobbett was dead.
 
-
-
 Macaulay makes the foundation of the Victorian age in all its very
 
 English and unique elements: its praise of Puritan politics and
@@ -63,8 +79,6 @@ derives from the dull parliamentarism of men like Sir James Mackintosh;
 but all that was great in him has much more kinship with the festive
 
 antiquarianism of Sir Walter Scott.
-
-
 
 As a philosopher he had only two thoughts; and neither of them is true.
 
@@ -124,8 +138,6 @@ ringing sentences, which at its best is like steel and at its worst like
 
 tin.
 
-
-
 This was the small conscious Macaulay; the great unconscious Macaulay
 
 was very different. His noble enduring quality in our literature is
@@ -171,33 +183,3 @@ solitary outlaw advances to attack enemies formidable separately, and,
 it might have been thought, irresistible when combined; distributes his
 
 swashing blows right and left among Wycherley, Congreve and Vanbrugh,
-
-treads the wretched D'Urfey down in the dirt beneath his feet; and
-
-strikes with all his strength full at the towering crest of Dryden."
-
-That is exactly where Macaulay is great; because he is almost Homeric.
-
-The whole triumph turns upon mere names; but men are commanded by
-
-names. So his poem on the Armada is really a good geography book gone
-
-mad; one sees the map of England come alive and march and mix under the
-
-eye.
-
-
-
-The chief [[Tragedy|tragedy]] in the trend of later literature may be expressed by
-
-saying that the smaller Macaulay conquered the larger. Later men had
-
-less and less of that hot [[Love|love]] of [[history]] he had inherited from Scott.
-
-They had more and more of that cold science of [[Self|self]]-interests which he
-
-had learnt from Bentham.
-
-
-
-The name of this great man, though it belongs to a period before the

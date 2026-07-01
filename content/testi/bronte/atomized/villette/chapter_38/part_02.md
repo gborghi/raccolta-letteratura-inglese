@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 36 (part 2)"
+title: "Villette — Chapter 36 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -24,7 +24,7 @@ Sylvie, gaily frisking, emerged into view once more, heralding the
 returning paletôt; the watering-pot was deposited beside the [[Well|well]]; it
 had fulfilled its office; how glad I was! Monsieur washed his hands in
 a little stone bowl. There was no longer [[Time|time]] for a lesson now; ere
-long the [[Prayer|prayer]]-bell must ring; but still we should meet; he would
+long the [[prayer]]-bell must ring; but still we should meet; he would
 speak; a chance would be offered of reading in his eyes the [[Riddle|riddle]] of
 his shyness. His ablutions over, he stood, slowly re-arranging his
 cuffs, looking at the horn of a young [[Moon|moon]], set pale in the opal sky,
@@ -50,7 +50,7 @@ closed front door.
 
 Gathering in my arms all that was spread on the desk before me, I
 carried back the unused heap to its place in the third classe. The
-[[Prayer|prayer]]-bell rang; I obeyed its summons.
+[[prayer]]-bell rang; I obeyed its summons.
 
 The morrow would not restore him to the Rue Fossette, that day being
 devoted entirely to his college. I got through my teaching; I got over
@@ -79,7 +79,7 @@ preached and it persuaded.
 
 I lent to it my ear very willingly, for, small as it was, it possessed
 its own spell, and bound my attention at once. It preached Romanism; it
-persuaded to [[conversion]]. The voice of that sly little book was a
+persuaded to [[Conversion|conversion]]. The voice of that sly little book was a
 honeyed voice; its accents were all unction and balm. Here roared no
 utterance of Rome’s thunders, no blasting of the breath of her
 displeasure. The Protestant was to turn Papist, not so much in [[Fear|fear]] of

@@ -1,5 +1,5 @@
 ---
-title: "[[Don Quixote]] — Chapter 10 (part 3)"
+title: "Don Quixote — Chapter 10 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/don-quixote-(chesterton)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_11/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_12/part_01">part 01 ›</a></div>
 </nav>
 
+
+Dr. Hendry, once famous in the artistic world, walked out between
+the dark pillars of the porch that stood out against the sea;
+as free as the sea-gull that was swerving along the line of the cliff.
+He had an air of almost aggressive good taste; as if informing
+the whole street that he would refuse to inform anybody about
+the delicate professional [[Secrets|secrets]] just confided to him.  He made
+a movement as if pulling on a pair of invisible gloves, and he quite
+naturally stepped into the hansom cab, before he had thought of it.
+The conscientious [[cabman]] pulled down his top hat over his brows
+and rapidly drove him away up the steep and stony streets.
 
 For the present at least, the chronicler may [[Well|well]] maintain an awful
 [[Silence|silence]] about what happened between the magistrate and the doctor.

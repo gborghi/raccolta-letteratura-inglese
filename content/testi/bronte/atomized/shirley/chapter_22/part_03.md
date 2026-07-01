@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 22 (part 3)"
+title: "Shirley — Chapter 22 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,26 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_22/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_22/part_04">part 04 ›</a></div>
 </nav>
 
+
+fresh bubbling in her heart keeps it green.
+
+
+
+[[Shirley]] takes life easily. Is not that fact written in her eye? In her
+
+good-tempered moments is it not as full of lazy softness as in her brief
+
+fits of anger it is fulgent with quick-flashing [[Fire|fire]]? Her [[Nature|nature]] is in
+
+her eye. So long as she is calm, [[Indolence|indolence]], indulgence, [[Humour|humour]], and
+
+tenderness possess that large gray sphere; incense her, a red ray
+
+pierces the dew, it quickens instantly to flame.
+
+
+
+Ere the month of July was past, Miss Keeldar would probably have started
 
 with Caroline on that northern tour they had planned; but just at that
 
@@ -177,27 +197,3 @@ more to do--better chances of interesting and profitable occupation than
 they possess now. And when I speak thus I have no impression that I
 
 displease God by my words; that I am either impious or impatient,
-
-irreligious or sacrilegious. My consolation is, indeed, that God hears
-
-many a groan, and compassionates much grief which man stops his ears
-
-against, or frowns on with impotent contempt. I say _impotent_, for I
-
-observe that to such grievances as society cannot readily cure it
-
-usually forbids utterance, on [[Pain|pain]] of its scorn, this scorn being only a
-
-sort of tinselled cloak to its deformed weakness. People hate to be
-
-reminded of ills they are unable or unwilling to remedy. Such reminder,
-
-in forcing on them a sense of their own incapacity, or a more painful
-
-sense of an obligation to make some unpleasant effort, troubles their
-
-ease and shakes their [[Self|self]]-complacency. Old maids, like the houseless
-
-and unemployed poor, should not ask for a place and an occupation in the
-
-world; the demand disturbs the happy and rich--it disturbs parents. Look

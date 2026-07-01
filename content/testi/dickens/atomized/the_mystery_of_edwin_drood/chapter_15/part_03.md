@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 14 (part 3)"
+title: "The Mystery of Edwin Drood — Chapter 14 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_15/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_15/part_04">part 04 ›</a></div>
 </nav>
 
+
+That was a curious look of Rosa’s when they parted at the gate. Did it
+mean that she saw below the surface of his thoughts, and down into
+their twilight depths? Scarcely that, for it was a look of astonished
+and keen inquiry. He decides that he cannot understand it, though it
+was remarkably expressive.
 
 As he only waits for Mr. Grewgious now, and will depart immediately
 after having seen him, he takes a sauntering leave of the ancient [[City|city]]
@@ -145,20 +151,3 @@ his face.
 
 She is moving away, with another “Bless ye, and thank’ee, deary!” when
 he adds: “You were to tell me something; you may as [[Well|well]] do so.”
-
-“So I was, so I was. [[Well]], then. Whisper. You be thankful that your
-name ain’t Ned.”
-
-He looks at her quite steadily, as he asks: “Why?”
-
-“Because it’s a bad name to have just now.”
-
-“How a bad name?”
-
-“A threatened name. A dangerous name.”
-
-“The proverb says that threatened men live long,” he tells her,
-lightly.
-
-“Then Ned—so threatened is he, wherever he may be while I am a-talking
-to you, deary—should live to all [[Eternity|eternity]]!” replies the woman.

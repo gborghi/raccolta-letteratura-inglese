@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 6 (part 3)"
+title: "The Professor — Chapter 6 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -14,9 +14,13 @@ tags:
 </nav>
 
 
+suit such a one as you better than [[London]].”
+
+“But occupation, Mr. Hunsden! I must go where occupation is to be had;
+
+and how could I get recommendation, or introduction, or employment at
+
 Brussels?”
-
-
 
 “There speaks the organ of caution. You hate to advance a step before
 
@@ -24,15 +28,11 @@ you know every inch of the way. You haven’t a sheet of paper and a
 
 pen-and-ink?”
 
-
-
 “I [[Hope|hope]] so,” and I produced writing materials with alacrity; for I
 
 guessed what he was going to do. He sat down, wrote a few lines, folded,
 
 sealed, and addressed a letter, and held it out to me.
-
-
 
 “There, Prudence, there’s a pioneer to hew down the first rough
 
@@ -48,13 +48,9 @@ concerns of such a one. Those who are reckless for themselves are
 
 generally ten times more so for their friends.”
 
-
-
 “This is a letter of introduction, I suppose?” said I, taking the
 
 epistle.
-
-
 
 “Yes. With that in your pocket you will run no risk of finding yourself
 
@@ -66,17 +62,11 @@ present it generally has two or three respectable places depending upon
 
 his recommendation.”
 
-
-
 “That will just suit me,” said I.
-
-
 
 “[[Well]], and where’s your gratitude?” demanded Mr. Hunsden; “don’t you
 
 know how to say ‘Thank you?’”
-
-
 
 “I’ve fifteen pounds and a watch, which my godmother, whom I never saw,
 
@@ -86,17 +76,11 @@ further avowed myself a happy man, and professed that I did not envy any
 
 being in Christendom.
 
-
-
 “But your gratitude?”
-
-
 
 “I shall be off presently, Mr. Hunsden--to-morrow, if all be [[Well|well]]: I’ll
 
 not stay a day longer in X---- than I’m obliged.”
-
-
 
 “Very good--but it will be decent to make due acknowledgment for the
 
@@ -104,19 +88,13 @@ assistance you have received; be quick! It is just going to strike
 
 seven: I’m waiting to be thanked.”
 
-
-
 “Just stand out of the way, will you, Mr. Hunsden: I want a key there is
 
 on the corner of the mantelpiece. I’ll pack my portmanteau before I go
 
 to bed.”
 
-
-
 The [[house]] [[Clock|clock]] struck seven.
-
-
 
 “The lad is a heathen,” said Hunsden, and taking his hat from a
 
@@ -127,7 +105,5 @@ inclination to follow him: I really intended to leave X---- the next
 morning, and should certainly not have another opportunity of bidding
 
 him good-bye. The front door banged to.
-
-
 
 “Let him go,” said I, “we shall meet again some day.”

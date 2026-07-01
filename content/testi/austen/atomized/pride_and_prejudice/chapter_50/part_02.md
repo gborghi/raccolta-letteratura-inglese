@@ -1,5 +1,5 @@
 ---
-title: "[[Pride and Prejudice]] — Chapter 50 (part 2)"
+title: "Pride and Prejudice — Chapter 50 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/pride-and-prejudice-(austen)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/pride_and_prejudice/chapter_50/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/pride_and_prejudice/chapter_52/part_01">part 01 ›</a></div>
 </nav>
 
+
+Elizabeth was now most heartily sorry that she had, from the distress of
+the moment, been led to make Mr. Darcy acquainted with their fears for
+her sister; for since her [[Marriage|marriage]] would so shortly give the proper
+termination to the elopement, they might [[Hope|hope]] to conceal its
+unfavourable beginning from all those who were not immediately on the
+spot.
 
 She had no [[Fear|fear]] of its spreading farther, through his means. There were
 few people on whose secrecy she would have more confidently depended;

@@ -16,7 +16,6 @@ tags:
 
 A DEFENCE OF SKELETONS
 
-
 Some little [[Time|time]] ago I stood among immemorial English trees that seemed
 to take hold upon the [[Stars|stars]] like a brood of Ygdrasils. As I walked among
 these living pillars I became gradually aware that the rustics who lived
@@ -145,6 +144,5 @@ standing on one leg; the [[Moon|moon]] is like the eye of a Cyclops. And, howeve
 much my face clouds with sombre [[Vanity|vanity]], or vulgar vengeance, or
 contemptible contempt, the bones of my skull beneath it are laughing for
 ever.
-
 
        *       *       *       *       *

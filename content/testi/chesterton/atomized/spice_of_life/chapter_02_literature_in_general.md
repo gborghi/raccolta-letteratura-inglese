@@ -143,7 +143,6 @@ of a dream; that we can never know whether the ascetics, who drugged
 themselves with visions and scourged themselves with rods,
 were not the happiest of all the children of men.
 
-
 HOW TO WRITE A DETECTIVE STORY
 
 From G. K.'s Weekly, October 17, 1925
@@ -345,7 +344,6 @@ which is in itself a simple notion; some fact of daily life
 that the writer can remember and the reader can forget.
 But anyhow, a tale has to be founded on a truth; and though opium
 may be added to it, it must not merely be an opium dream.
-
 
 HUMOUR
 
@@ -592,7 +590,6 @@ so it is the worst sort of pomposity to be monotonously proud of humour;
 for it is itself the chief antidote to pride; and has been,
 ever since the time of the Book of Proverbs, the hammer of fools.
 
-
 FICTION AS FOOD
 
 I have been asked to explain what I meant by saying that "Literature
@@ -794,7 +791,6 @@ And it is, I think, the abstract [[Truth|truth]] that any literature
 that represents our life as dangerous and startling is truer
 than any literature that represents it as dubious and languid.
 For life is a fight and is not a conversation.
-
 
 THE [[Soul|SOUL]] IN EVERY LEGEND
 

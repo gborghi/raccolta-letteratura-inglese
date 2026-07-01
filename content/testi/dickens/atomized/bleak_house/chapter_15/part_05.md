@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 15 (part 5)"
+title: "Bleak House — Chapter 15 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_15/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_15/part_06">part 06 ›</a></div>
 </nav>
 
+
+“I believe I and my family have also had the [[Honour|honour]] of furnishing
+some entertainment in the same [[Grave|grave]] place,” said my guardian
+composedly. “You may have heard my name—Jarndyce.”
 
 “Mr. Jarndyce,” said Gridley with a rough sort of salutation, “you
 bear your wrongs more quietly than I can bear mine. More than that, I
@@ -109,12 +113,3 @@ was going to die, and could be carried there, and had a voice to
 speak with, I would die there, saying, ‘You have brought me here and
 sent me from here many and many a [[Time|time]]. Now send me out feet
 foremost!’”
-
-His countenance had, perhaps for years, become so set in its
-contentious expression that it did not soften, even now when he was
-quiet.
-
-“I came to take these babies down to my room for an hour,” he said,
-going to them again, “and let them play about. I didn’t mean to say
-all this, but it don’t much signify. You’re not afraid of me, Tom,
-are you?”

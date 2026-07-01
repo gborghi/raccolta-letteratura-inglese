@@ -64,65 +64,65 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Chapter 01 IN WHICH THE PICKWICK CLUB IS](/testi/dickens/atomized/the_pickwick_papers/chapter_01_in_which_the_pickwick_club_is)
+- Chapter 01 IN WHICH THE PICKWICK CLUB IS
 - [Chapter 02 THE PICKWICKIANS](/testi/dickens/atomized/the_pickwick_papers/chapter_02_the_pickwickians)
-- [Chapter 03 THE FIRST DAYS JOURNEY AND THE](/testi/dickens/atomized/the_pickwick_papers/chapter_03_the_first_days_journey_and_the)
-- [Chapter 04 A NEW ACQUAINTANCE THE STROLLE](/testi/dickens/atomized/the_pickwick_papers/chapter_04_a_new_acquaintance_the_strolle)
-- [Chapter 05 A FIELD DAY AND BIVOUAC MORE N](/testi/dickens/atomized/the_pickwick_papers/chapter_05_a_field_day_and_bivouac_more_n)
-- [Chapter 06 A SHORT ONE SHOWING AMONG OTHE](/testi/dickens/atomized/the_pickwick_papers/chapter_06_a_short_one_showing_among_othe)
-- [Chapter 07 AN OLD FASHIONED CARD PARTY TH](/testi/dickens/atomized/the_pickwick_papers/chapter_07_an_old_fashioned_card_party_th)
-- [Chapter 08 HOW MR WINKLE INSTEAD OF SHOOT](/testi/dickens/atomized/the_pickwick_papers/chapter_08_how_mr_winkle_instead_of_shoot)
-- [Chapter 09 STRONGLY ILLUSTRATIVE OF THE P](/testi/dickens/atomized/the_pickwick_papers/chapter_09_strongly_illustrative_of_the_p)
-- [Chapter 10 A DISCOVERY AND A CHASE](/testi/dickens/atomized/the_pickwick_papers/chapter_10_a_discovery_and_a_chase)
-- [Chapter 11 CLEARING UP ALL DOUBTS IF ANY](/testi/dickens/atomized/the_pickwick_papers/chapter_11_clearing_up_all_doubts_if_any)
-- [Chapter 12 INVOLVING ANOTHER JOURNEY AND](/testi/dickens/atomized/the_pickwick_papers/chapter_12_involving_another_journey_and)
-- [Chapter 13 DESCRIPTIVE OF A VERY IMPORTAN](/testi/dickens/atomized/the_pickwick_papers/chapter_13_descriptive_of_a_very_importan)
-- [Chapter 14 SOME ACCOUNT OF EATANSWILL OF](/testi/dickens/atomized/the_pickwick_papers/chapter_14_some_account_of_eatanswill_of)
-- [Chapter 15 COMPRISING A BRIEF DESCRIPTION](/testi/dickens/atomized/the_pickwick_papers/chapter_15_comprising_a_brief_description)
-- [Chapter 16 IN WHICH IS GIVEN A FAITHFUL P](/testi/dickens/atomized/the_pickwick_papers/chapter_16_in_which_is_given_a_faithful_p)
-- [Chapter 17](/testi/dickens/atomized/the_pickwick_papers/chapter_17)
-- [Chapter 18 TOO FULL OF ADVENTURE TO BE BR](/testi/dickens/atomized/the_pickwick_papers/chapter_18_too_full_of_adventure_to_be_br)
-- [Chapter 19 SHOWING THAT AN ATTACK OF RHEU](/testi/dickens/atomized/the_pickwick_papers/chapter_19_showing_that_an_attack_of_rheu)
-- [Chapter 20 BRIEFLY ILLUSTRATIVE OF TWO PO](/testi/dickens/atomized/the_pickwick_papers/chapter_20_briefly_illustrative_of_two_po)
-- [Chapter 21 A PLEASANT DAY WITH AN UNPLEAS](/testi/dickens/atomized/the_pickwick_papers/chapter_21_a_pleasant_day_with_an_unpleas)
-- [Chapter 22 SHOWING HOW DODSON AND FOGG WE](/testi/dickens/atomized/the_pickwick_papers/chapter_22_showing_how_dodson_and_fogg_we)
-- [Chapter 23 IN WHICH THE OLD MAN LAUNCHES](/testi/dickens/atomized/the_pickwick_papers/chapter_23_in_which_the_old_man_launches)
-- [Chapter 24 MR PICKWICK JOURNEYS TO IPSWIC](/testi/dickens/atomized/the_pickwick_papers/chapter_24_mr_pickwick_journeys_to_ipswic)
-- [Chapter 25 IN WHICH MR SAMUEL WELLER BEGI](/testi/dickens/atomized/the_pickwick_papers/chapter_25_in_which_mr_samuel_weller_begi)
-- [Chapter 26 WHEREIN MR PETER MAGNUS GROWS](/testi/dickens/atomized/the_pickwick_papers/chapter_26_wherein_mr_peter_magnus_grows)
-- [Chapter 27 SHOWING AMONG A VARIETY OF PLE](/testi/dickens/atomized/the_pickwick_papers/chapter_27_showing_among_a_variety_of_ple)
-- [Chapter 28 WHICH CONTAINS A BRIEF ACCOUNT](/testi/dickens/atomized/the_pickwick_papers/chapter_28_which_contains_a_brief_account)
-- [Chapter 29 SAMUEL WELLER MAKES A PILGRIMA](/testi/dickens/atomized/the_pickwick_papers/chapter_29_samuel_weller_makes_a_pilgrima)
-- [Chapter 30 A GOOD HUMOURED CHRISTMAS CHAP](/testi/dickens/atomized/the_pickwick_papers/chapter_30_a_good_humoured_christmas_chap)
-- [Chapter 31 THE STORY OF THE GOBLINS WHO S](/testi/dickens/atomized/the_pickwick_papers/chapter_31_the_story_of_the_goblins_who_s)
-- [Chapter 32 HOW THE PICKWICKIANS MADE AND](/testi/dickens/atomized/the_pickwick_papers/chapter_32_how_the_pickwickians_made_and)
-- [Chapter 33 WHICH IS ALL ABOUT THE LAW AND](/testi/dickens/atomized/the_pickwick_papers/chapter_33_which_is_all_about_the_law_and)
-- [Chapter 34 DESCRIBES FAR MORE FULLY THAN](/testi/dickens/atomized/the_pickwick_papers/chapter_34_describes_far_more_fully_than)
-- [Chapter 35 MR WELLER THE ELDER DELIVERS S](/testi/dickens/atomized/the_pickwick_papers/chapter_35_mr_weller_the_elder_delivers_s)
-- [Chapter 36 IS WHOLLY DEVOTED TO A FULL AN](/testi/dickens/atomized/the_pickwick_papers/chapter_36_is_wholly_devoted_to_a_full_an)
-- [Chapter 37 IN WHICH MR PICKWICK THINKS HE](/testi/dickens/atomized/the_pickwick_papers/chapter_37_in_which_mr_pickwick_thinks_he)
-- [Chapter 38 THE CHIEF FEATURES OF WHICH WI](/testi/dickens/atomized/the_pickwick_papers/chapter_38_the_chief_features_of_which_wi)
-- [Chapter 39 HONOURABLY ACCOUNTS FOR MR WEL](/testi/dickens/atomized/the_pickwick_papers/chapter_39_honourably_accounts_for_mr_wel)
-- [Chapter 40 HOW MR WINKLE WHEN HE STEPPED](/testi/dickens/atomized/the_pickwick_papers/chapter_40_how_mr_winkle_when_he_stepped)
-- [Chapter 41 MR SAMUEL WELLER BEING INTRUST](/testi/dickens/atomized/the_pickwick_papers/chapter_41_mr_samuel_weller_being_intrust)
-- [Chapter 42 INTRODUCES MR PICKWICK TO A NE](/testi/dickens/atomized/the_pickwick_papers/chapter_42_introduces_mr_pickwick_to_a_ne)
-- [Chapter 43 WHAT BEFELL MR PICKWICK WHEN H](/testi/dickens/atomized/the_pickwick_papers/chapter_43_what_befell_mr_pickwick_when_h)
-- [Chapter 44 ILLUSTRATIVE LIKE THE PRECEDIN](/testi/dickens/atomized/the_pickwick_papers/chapter_44_illustrative_like_the_precedin)
-- [Chapter 45 SHOWING HOW MR SAMUEL WELLER G](/testi/dickens/atomized/the_pickwick_papers/chapter_45_showing_how_mr_samuel_weller_g)
-- [Chapter 46 TREATS OF DIVERS LITTLE MATTER](/testi/dickens/atomized/the_pickwick_papers/chapter_46_treats_of_divers_little_matter)
-- [Chapter 47 DESCRIPTIVE OF AN AFFECTING IN](/testi/dickens/atomized/the_pickwick_papers/chapter_47_descriptive_of_an_affecting_in)
-- [Chapter 48 RECORDS A TOUCHING ACT OF DELI](/testi/dickens/atomized/the_pickwick_papers/chapter_48_records_a_touching_act_of_deli)
-- [Chapter 49 IS CHIEFLY DEVOTED TO MATTERS](/testi/dickens/atomized/the_pickwick_papers/chapter_49_is_chiefly_devoted_to_matters)
-- [Chapter 50 RELATES HOW MR PICKWICK WITH T](/testi/dickens/atomized/the_pickwick_papers/chapter_50_relates_how_mr_pickwick_with_t)
-- [Chapter 51 CONTAINING THE STORY OF THE BA](/testi/dickens/atomized/the_pickwick_papers/chapter_51_containing_the_story_of_the_ba)
-- [Chapter 52 HOW MR PICKWICK SPED UPON HIS](/testi/dickens/atomized/the_pickwick_papers/chapter_52_how_mr_pickwick_sped_upon_his)
-- [Chapter 53 IN WHICH MR PICKWICK ENCOUNTER](/testi/dickens/atomized/the_pickwick_papers/chapter_53_in_which_mr_pickwick_encounter)
-- [Chapter 54 INVOLVING A SERIOUS CHANGE IN](/testi/dickens/atomized/the_pickwick_papers/chapter_54_involving_a_serious_change_in)
-- [Chapter 55 COMPRISING THE FINAL EXIT OF M](/testi/dickens/atomized/the_pickwick_papers/chapter_55_comprising_the_final_exit_of_m)
-- [Chapter 56 CONTAINING SOME PARTICULARS RE](/testi/dickens/atomized/the_pickwick_papers/chapter_56_containing_some_particulars_re)
-- [Chapter 57 MR SOLOMON PELL ASSISTED BY A](/testi/dickens/atomized/the_pickwick_papers/chapter_57_mr_solomon_pell_assisted_by_a)
-- [Chapter 58 AN IMPORTANT CONFERENCE TAKES](/testi/dickens/atomized/the_pickwick_papers/chapter_58_an_important_conference_takes)
-- [Chapter 59 IN WHICH THE PICKWICK CLUB IS](/testi/dickens/atomized/the_pickwick_papers/chapter_59_in_which_the_pickwick_club_is)
+- Chapter 03 THE FIRST DAYS JOURNEY AND THE
+- Chapter 04 A NEW ACQUAINTANCE THE STROLLE
+- Chapter 05 A FIELD DAY AND BIVOUAC MORE N
+- Chapter 06 A SHORT ONE SHOWING AMONG OTHE
+- Chapter 07 AN OLD FASHIONED CARD PARTY TH
+- Chapter 08 HOW MR WINKLE INSTEAD OF SHOOT
+- Chapter 09 STRONGLY ILLUSTRATIVE OF THE P
+- Chapter 10 A DISCOVERY AND A CHASE
+- Chapter 11 CLEARING UP ALL DOUBTS IF ANY
+- Chapter 12 INVOLVING ANOTHER JOURNEY AND
+- Chapter 13 DESCRIPTIVE OF A VERY IMPORTAN
+- Chapter 14 SOME ACCOUNT OF EATANSWILL OF
+- Chapter 15 COMPRISING A BRIEF DESCRIPTION
+- Chapter 16 IN WHICH IS GIVEN A FAITHFUL P
+- Chapter 17
+- Chapter 18 TOO FULL OF ADVENTURE TO BE BR
+- Chapter 19 SHOWING THAT AN ATTACK OF RHEU
+- Chapter 20 BRIEFLY ILLUSTRATIVE OF TWO PO
+- Chapter 21 A PLEASANT DAY WITH AN UNPLEAS
+- Chapter 22 SHOWING HOW DODSON AND FOGG WE
+- Chapter 23 IN WHICH THE OLD MAN LAUNCHES
+- Chapter 24 MR PICKWICK JOURNEYS TO IPSWIC
+- Chapter 25 IN WHICH MR SAMUEL WELLER BEGI
+- Chapter 26 WHEREIN MR PETER MAGNUS GROWS
+- Chapter 27 SHOWING AMONG A VARIETY OF PLE
+- Chapter 28 WHICH CONTAINS A BRIEF ACCOUNT
+- Chapter 29 SAMUEL WELLER MAKES A PILGRIMA
+- Chapter 30 A GOOD HUMOURED CHRISTMAS CHAP
+- Chapter 31 THE STORY OF THE GOBLINS WHO S
+- Chapter 32 HOW THE PICKWICKIANS MADE AND
+- Chapter 33 WHICH IS ALL ABOUT THE LAW AND
+- Chapter 34 DESCRIBES FAR MORE FULLY THAN
+- Chapter 35 MR WELLER THE ELDER DELIVERS S
+- Chapter 36 IS WHOLLY DEVOTED TO A FULL AN
+- Chapter 37 IN WHICH MR PICKWICK THINKS HE
+- Chapter 38 THE CHIEF FEATURES OF WHICH WI
+- Chapter 39 HONOURABLY ACCOUNTS FOR MR WEL
+- Chapter 40 HOW MR WINKLE WHEN HE STEPPED
+- Chapter 41 MR SAMUEL WELLER BEING INTRUST
+- Chapter 42 INTRODUCES MR PICKWICK TO A NE
+- Chapter 43 WHAT BEFELL MR PICKWICK WHEN H
+- Chapter 44 ILLUSTRATIVE LIKE THE PRECEDIN
+- Chapter 45 SHOWING HOW MR SAMUEL WELLER G
+- Chapter 46 TREATS OF DIVERS LITTLE MATTER
+- Chapter 47 DESCRIPTIVE OF AN AFFECTING IN
+- Chapter 48 RECORDS A TOUCHING ACT OF DELI
+- Chapter 49 IS CHIEFLY DEVOTED TO MATTERS
+- Chapter 50 RELATES HOW MR PICKWICK WITH T
+- Chapter 51 CONTAINING THE STORY OF THE BA
+- Chapter 52 HOW MR PICKWICK SPED UPON HIS
+- Chapter 53 IN WHICH MR PICKWICK ENCOUNTER
+- Chapter 54 INVOLVING A SERIOUS CHANGE IN
+- Chapter 55 COMPRISING THE FINAL EXIT OF M
+- Chapter 56 CONTAINING SOME PARTICULARS RE
+- Chapter 57 MR SOLOMON PELL ASSISTED BY A
+- Chapter 58 AN IMPORTANT CONFERENCE TAKES
+- Chapter 59 IN WHICH THE PICKWICK CLUB IS
 
 
 ## Testo integrale / Full text

@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 1"
+title: "thursday — Chapter 1"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/thursday-(chesterton)"
@@ -17,7 +17,6 @@ tags:
                           CHAPTER I
 
                  THE TWO POETS OF SAFFRON PARK
-
 
 THE suburb of Saffron Park lay on the sunset side of [[London]], as red and
 ragged as a cloud of sunset.  It was built of a bright brick throughout;
@@ -125,13 +124,13 @@ and disapproval as she gave commonly to the family oracle.
 
 Gregory resumed in high oratorical good [[Humour|humour]].
 
-"An [[Artist|artist]] is identical with an anarchist," he cried.
-"You might transpose the words anywhere.  An anarchist is an [[Artist|artist]].
-The man who throws a bomb is an [[Artist|artist]], because he prefers
+"An [[artist]] is identical with an anarchist," he cried.
+"You might transpose the words anywhere.  An anarchist is an [[artist]].
+The man who throws a bomb is an [[artist]], because he prefers
 a great moment to everything.  He sees how much more valuable
 is one burst of blazing light, one peal of perfect thunder,
 than the mere common bodies of a few shapeless policemen.
-An [[Artist|artist]] disregards all governments, abolishes all conventions.
+An [[artist]] disregards all governments, abolishes all conventions.
 The poet delights in disorder only.  If it were not so, the most
 poetical thing in the world would be the Underground Railway."
 
@@ -409,7 +408,7 @@ Syme suddenly took off his hat.
 You say that a poet is always an anarchist.  I disagree;
 but I [[Hope|hope]] at least that he is always a sportsman.
 Permit me, here and now, to swear as a Christian, and promise
-as a good comrade and a fellow-[[Artist|artist]], that I will not
+as a good comrade and a fellow-[[artist]], that I will not
 report anything of this, whatever it is, to the police.
 And now, in the name of Colney Hatch, what is it?"
 

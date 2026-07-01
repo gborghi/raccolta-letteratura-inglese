@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 29: I VISIT STEERFORTH AT HIS [[Home|HOME]], AGAIN (part 3)"
+title: "David Copperfield — Chapter 29: I VISIT STEERFORTH AT HIS HOME, AGAIN (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_29_i_visit_steerforth_at_his_home/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_30_a_loss/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘Don’t get up,’ said Steerforth (which she had already done)’ my dear
+Rosa, don’t! Be kind for once, and sing us an Irish [[Song|song]].’
+
+‘What do you care for an Irish [[Song|song]]?’ she returned.
 
 ‘Much!’ said Steerforth. ‘Much more than for any other. Here is Daisy,
 too, loves music from his [[Soul|soul]]. Sing us an Irish [[Song|song]], Rosa! and let me

@@ -32,50 +32,50 @@ tags:
 ## Chapters / scenes / sections
 
 - [Story 01 ABOUT MAD METAPHORS](/testi/chesterton/atomized/as_i_was_saying/story_01_about_mad_metaphors)
-- [Story 02 ABOUT LOVING GERMANS](/testi/chesterton/atomized/as_i_was_saying/story_02_about_loving_germans)
-- [Story 03 ABOUT IMPENITENCE](/testi/chesterton/atomized/as_i_was_saying/story_03_about_impenitence)
-- [Story 04 ABOUT TRAFFIC](/testi/chesterton/atomized/as_i_was_saying/story_04_about_traffic)
-- [Story 05 ABOUT THE CENSOR](/testi/chesterton/atomized/as_i_was_saying/story_05_about_the_censor)
-- [Story 06 ABOUT SHAMELESSNESS](/testi/chesterton/atomized/as_i_was_saying/story_06_about_shamelessness)
-- [Story 07 ABOUT PURITANISM](/testi/chesterton/atomized/as_i_was_saying/story_07_about_puritanism)
-- [Story 08 ABOUT SIR JAMES JEANS](/testi/chesterton/atomized/as_i_was_saying/story_08_about_sir_james_jeans)
-- [Story 09 ABOUT VOLTAIRE](/testi/chesterton/atomized/as_i_was_saying/story_09_about_voltaire)
-- [Story 10 ABOUT BELIEFS](/testi/chesterton/atomized/as_i_was_saying/story_10_about_beliefs)
-- [Story 11 ABOUT MODERN GIRLS](/testi/chesterton/atomized/as_i_was_saying/story_11_about_modern_girls)
-- [Story 12 ABOUT POETRY](/testi/chesterton/atomized/as_i_was_saying/story_12_about_poetry)
-- [Story 13 ABOUT BLONDES](/testi/chesterton/atomized/as_i_was_saying/story_13_about_blondes)
-- [Story 14 ABOUT S T C](/testi/chesterton/atomized/as_i_was_saying/story_14_about_s_t_c)
-- [Story 15 ABOUT THE PAST](/testi/chesterton/atomized/as_i_was_saying/story_15_about_the_past)
-- [Story 16 ABOUT MEREDITH](/testi/chesterton/atomized/as_i_was_saying/story_16_about_meredith)
-- [Story 17 ABOUT POLITICAL CREEDS](/testi/chesterton/atomized/as_i_was_saying/story_17_about_political_creeds)
-- [Story 18 ABOUT SHIRTS](/testi/chesterton/atomized/as_i_was_saying/story_18_about_shirts)
-- [Story 19 ABOUT WHITE FRONTS](/testi/chesterton/atomized/as_i_was_saying/story_19_about_white_fronts)
-- [Story 20 ABOUT IMPERMANENCE](/testi/chesterton/atomized/as_i_was_saying/story_20_about_impermanence)
-- [Story 21 ABOUT MORRIS](/testi/chesterton/atomized/as_i_was_saying/story_21_about_morris)
-- [Story 22 ABOUT WIDOWS](/testi/chesterton/atomized/as_i_was_saying/story_22_about_widows)
-- [Story 23 ABOUT RELATIVITY](/testi/chesterton/atomized/as_i_was_saying/story_23_about_relativity)
-- [Story 24 ABOUT CHANGING HUMAN NATURE](/testi/chesterton/atomized/as_i_was_saying/story_24_about_changing_human_nature)
-- [Story 25 ABOUT HISTORIANS](/testi/chesterton/atomized/as_i_was_saying/story_25_about_historians)
-- [Story 26 ABOUT BAD COMPARISONS](/testi/chesterton/atomized/as_i_was_saying/story_26_about_bad_comparisons)
-- [Story 27 ABOUT CHANGE](/testi/chesterton/atomized/as_i_was_saying/story_27_about_change)
-- [Story 28 ABOUT THE WORKERS](/testi/chesterton/atomized/as_i_was_saying/story_28_about_the_workers)
-- [Story 29 ABOUT EDUCATION](/testi/chesterton/atomized/as_i_was_saying/story_29_about_education)
-- [Story 30 ABOUT THE TELEPHONE](/testi/chesterton/atomized/as_i_was_saying/story_30_about_the_telephone)
-- [Story 31 ABOUT THE FILMS](/testi/chesterton/atomized/as_i_was_saying/story_31_about_the_films)
-- [Story 32 ABOUT DARWINISM](/testi/chesterton/atomized/as_i_was_saying/story_32_about_darwinism)
-- [Story 33 ABOUT SHOCKERS](/testi/chesterton/atomized/as_i_was_saying/story_33_about_shockers)
-- [Story 34 ABOUT BEGGARS AND SOLDIERS](/testi/chesterton/atomized/as_i_was_saying/story_34_about_beggars_and_soldiers)
-- [Story 35 ABOUT SACRIFICE](/testi/chesterton/atomized/as_i_was_saying/story_35_about_sacrifice)
-- [Story 36 ABOUT ROYAL WEDDINGS](/testi/chesterton/atomized/as_i_was_saying/story_36_about_royal_weddings)
-- [Story 37 N dealing with such things as Prohibitio](/testi/chesterton/atomized/as_i_was_saying/story_37_n_dealing_with_such_things_as_prohibitio)
-- [Story 38 HAPPENED to meet again recently after ma](/testi/chesterton/atomized/as_i_was_saying/story_38_happened_to_meet_again_recently_after_ma)
-- [Story 39 CONFESS that to me the celebration of th](/testi/chesterton/atomized/as_i_was_saying/story_39_confess_that_to_me_the_celebration_of_th)
-- [Story 40 ANY modern debates are still revolving r](/testi/chesterton/atomized/as_i_was_saying/story_40_any_modern_debates_are_still_revolving_r)
-- [Story 41 T is often said truly though perhaps not](/testi/chesterton/atomized/as_i_was_saying/story_41_t_is_often_said_truly_though_perhaps_not)
-- [Story 42 READ a chance phrase in a daily paper th](/testi/chesterton/atomized/as_i_was_saying/story_42_read_a_chance_phrase_in_a_daily_paper_th)
-- [Story 43 T is well that students sternly devoted](/testi/chesterton/atomized/as_i_was_saying/story_43_t_is_well_that_students_sternly_devoted)
-- [Story 44 T amuses me to think that amid all the i](/testi/chesterton/atomized/as_i_was_saying/story_44_t_amuses_me_to_think_that_amid_all_the_i)
-- [Story 45 MAY explain that I am one of the people](/testi/chesterton/atomized/as_i_was_saying/story_45_may_explain_that_i_am_one_of_the_people)
+- Story 02 ABOUT LOVING GERMANS
+- Story 03 ABOUT IMPENITENCE
+- Story 04 ABOUT TRAFFIC
+- Story 05 ABOUT THE CENSOR
+- Story 06 ABOUT SHAMELESSNESS
+- Story 07 ABOUT PURITANISM
+- Story 08 ABOUT SIR JAMES JEANS
+- Story 09 ABOUT VOLTAIRE
+- Story 10 ABOUT BELIEFS
+- Story 11 ABOUT MODERN GIRLS
+- Story 12 ABOUT POETRY
+- Story 13 ABOUT BLONDES
+- Story 14 ABOUT S T C
+- Story 15 ABOUT THE PAST
+- Story 16 ABOUT MEREDITH
+- Story 17 ABOUT POLITICAL CREEDS
+- Story 18 ABOUT SHIRTS
+- Story 19 ABOUT WHITE FRONTS
+- Story 20 ABOUT IMPERMANENCE
+- Story 21 ABOUT MORRIS
+- Story 22 ABOUT WIDOWS
+- Story 23 ABOUT RELATIVITY
+- Story 24 ABOUT CHANGING HUMAN NATURE
+- Story 25 ABOUT HISTORIANS
+- Story 26 ABOUT BAD COMPARISONS
+- Story 27 ABOUT CHANGE
+- Story 28 ABOUT THE WORKERS
+- Story 29 ABOUT EDUCATION
+- Story 30 ABOUT THE TELEPHONE
+- Story 31 ABOUT THE FILMS
+- Story 32 ABOUT DARWINISM
+- Story 33 ABOUT SHOCKERS
+- Story 34 ABOUT BEGGARS AND SOLDIERS
+- Story 35 ABOUT SACRIFICE
+- Story 36 ABOUT ROYAL WEDDINGS
+- Story 37 N dealing with such things as Prohibitio
+- Story 38 HAPPENED to meet again recently after ma
+- Story 39 CONFESS that to me the celebration of th
+- Story 40 ANY modern debates are still revolving r
+- Story 41 T is often said truly though perhaps not
+- Story 42 READ a chance phrase in a daily paper th
+- Story 43 T is well that students sternly devoted
+- Story 44 T amuses me to think that amid all the i
+- Story 45 MAY explain that I am one of the people
 
 ## Testo integrale / Full text
 

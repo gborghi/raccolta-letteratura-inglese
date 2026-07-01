@@ -63,8 +63,3 @@ The girl with the dark hair smiled, and began to think that this man was better 
 
 
 “Why should there be a Bull?” he cried, prolonging the word in his own way. “Why should there be a Bull in connection with a festive locality? Who thinks about a Bull in gardens of delight? What need is there of a Bull when we watch the tulip-tinted maidens [[Dance|dance]] or pour the sparkling sherbert? You yourselves, my friends?” And he looked around radiantly, as if addressing an enormous mob. “You yourselves have a proverb, ‘It is not calculated to promote prosperity to have a Bull in a china shop.’ Equally, my friends, it would not be calculated to promote prosperity to have a Bull in a wine shop. All this is clear.”
-
-
-
-
-He stuck his umbrella upright in the sand and struck one finger against another, like a man getting to business at last.

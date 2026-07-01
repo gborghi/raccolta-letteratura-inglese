@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 47 (part 1)"
+title: "Nicholas Nickleby — Chapter 47 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -130,7 +130,3 @@ looking out to take the other at a disadvantage.
 ‘Aha! you’re a bold man, Mr. Nickleby,’ cried the other, apparently very
 much relieved by Ralph’s leading the way to business. ‘Oh dear, dear,
 what a bold man you are!’
-
-‘Why, you have a sleek and slinking way with you that makes me seem so
-by contrast,’ returned Ralph. ‘I don’t know but that yours may answer
-better, but I want the patience for it.’

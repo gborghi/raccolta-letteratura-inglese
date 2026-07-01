@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 2 (part 4)"
+title: "Shirley — Chapter 2 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,28 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_02/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_02/part_05">part 05 ›</a></div>
 </nav>
 
+
+When he parts his lips in a smile, his physiognomy is agreeable--not
+
+that it is frank or cheerful even then, but you feel the influence of a
+
+certain sedate charm, suggestive, whether truly or delusively, of a
+
+considerate, perhaps a kind [[Nature|nature]], of feelings that may wear [[Well|well]] at
+
+[[Home|home]]--patient, forbearing, possibly faithful feelings. He is still
+
+young--not more than thirty; his stature is tall, his figure slender.
+
+His manner of speaking displeases. He has an outlandish accent, which,
+
+notwithstanding a studied carelessness of pronunciation and diction,
+
+grates on a British, and especially on a Yorkshire, ear.
+
+
+
+Mr. Moore, indeed, was but half a Briton, and scarcely that. He came of
 
 a foreign ancestry by the mother's side, and was himself born and partly
 
@@ -169,31 +191,3 @@ and cried out for peace on any terms. National [[Honour|honour]] was become a me
 empty name, of no value in the eyes of many, because their sight was dim
 
 with famine; and for a morsel of meat they would have sold their
-
-birthright.
-
-
-
-The "Orders in Council," provoked by Napoleon's Milan and Berlin
-
-decrees, and forbidding neutral powers to trade with France, had, by
-
-offending [[America]], cut off the principal market of the Yorkshire woollen
-
-trade, and brought it consequently to the verge of ruin. Minor foreign
-
-markets were glutted, and would receive no more. The Brazils, Portugal,
-
-Sicily, were all overstocked by nearly two years' consumption. At this
-
-crisis certain inventions in machinery were introduced into the staple
-
-manufactures of the north, which, greatly reducing the number of hands
-
-necessary to be employed, threw thousands out of work, and left them
-
-without legitimate means of sustaining life. A bad harvest supervened.
-
-Distress reached its climax. [[Endurance]], overgoaded, stretched the hand
-
-of fraternity to sedition. The throes of a sort of moral earthquake were

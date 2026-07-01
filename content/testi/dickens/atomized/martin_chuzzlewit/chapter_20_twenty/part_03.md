@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 20: TWENTY (part 3)"
+title: "Martin Chuzzlewit — Chapter 20: TWENTY (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_20_twenty/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_20_twenty/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘We shall need ‘em by the [[Time|time]] we get there,’ said Jonas. ‘Why the devil
+don’t you talk? What are you thinking of?’
+
+‘To tell you the [[Truth|truth]], Mr Jonas,’ said Pecksniff with great solemnity,
+‘my mind was running at that moment on our late dear friend, your
+departed father.’
 
 Mr Jonas immediately let his burden fall, and said, threatening him with
 his hand:
@@ -137,19 +144,3 @@ anything.
 had kissed her father on both cheeks, and in her frolicsome [[Nature|nature]] had
 bestowed a supernumerary salute upon the tip of his nose, ‘YOU here,
 fright! [[Well]], I’m very thankful that you won’t trouble ME much!’
-
-‘What! you’re as lively as ever, are you?’ said Jonas. ‘Oh! You’re a
-wicked one!’
-
-‘There, go along!’ retorted Merry, pushing him away. ‘I’m sure I don’t
-know what I shall ever do, if I have to see much of you. Go along, for
-gracious’ sake!’
-
-Mr Pecksniff striking in here, with a request that Mr Jonas would
-immediately walk upstairs, he so far complied with the young lady’s
-adjuration as to go at once. But though he had the fair Cherry on his
-arm, he could not help looking back at her sister, and exchanging some
-further dialogue of the same bantering description, as they all four
-ascended to the parlour; where--for the young ladies happened, by good
-fortune, to be a little later than usual that [[Night|night]]--the tea-board was
-at that moment being set out.

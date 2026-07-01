@@ -1,5 +1,5 @@
 ---
-title: "The Merchant of [[Venice]] — Act III, Scene 2 — monologue ([[Portia|PORTIA]]) [9]"
+title: "The Merchant of Venice — Act III, Scene 2 — monologue (PORTIA) [9]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-merchant-of-venice-(shakespeare)"

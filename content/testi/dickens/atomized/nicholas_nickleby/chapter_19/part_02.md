@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 19 (part 2)"
+title: "Nicholas Nickleby — Chapter 19 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_19/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_19/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘What has come over you, my dear, in the name of goodness?’ asked Mrs
+Nickleby, when they had walked on, for some [[Time|time]], in [[Silence|silence]].
 
 ‘I was only thinking, mama,’ answered Kate.
 
@@ -109,12 +112,3 @@ taste.
 At length, the door opened, and Ralph himself, divested of his boots,
 and ceremoniously embellished with black silks and shoes, presented his
 crafty face.
-
-‘I couldn’t see you before, my dear,’ he said, in a low tone, and
-pointing, as he spoke, to the next room. ‘I was engaged in receiving
-them. Now--shall I take you in?’
-
-‘Pray, uncle,’ said Kate, a little flurried, as people much more
-conversant with society often are, when they are about to enter a room
-full of strangers, and have had [[Time|time]] to think of it previously, ‘are
-there any ladies here?’

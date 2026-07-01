@@ -1,5 +1,5 @@
 ---
-title: "whats wrong — Part 4 (part 4)"
+title: "whats wrong — Part 5 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/whats-wrong-(chesterton)"
@@ -14,113 +14,127 @@ tags:
 </nav>
 
 
-I know that certain crazy pedants have attempted to counter this
-difficulty by maintaining that [[Education|education]] is not instruction at all,
-does not teach by authority at all.  They present the process
-as coming, not from the outside, from the teacher, but entirely
-from inside the boy.  [[Education]], they say, is the Latin for
-leading out or drawing out the dormant faculties of each person.
-Somewhere far down in the dim boyish [[Soul|soul]] is a primordial yearning
-to learn Greek accents or to wear clean collars; and the schoolmaster
-only gently and tenderly liberates this imprisoned purpose.
-Sealed up in the newborn babe are the intrinsic [[Secrets|secrets]] of how to
-eat [[asparagus]] and what was the date of Bannockburn.  The educator
-only draws out the [[Child|child]]'s own unapparent [[Love|love]] of long division;
-only leads out the [[Child|child]]'s slightly veiled preference for milk
-pudding to tarts.  I am not sure that I believe in the derivation;
-I have heard the disgraceful suggestion that "educator," if applied
-to a Roman schoolmaster, did not mean leading our young functions
-into [[Freedom|freedom]]; but only meant taking out little boys for a walk.
-But I am much more certain that I do not agree with the doctrine;
-I think it would be about as sane to say that the baby's milk comes
-from the baby as to say that the baby's educational merits do.
-There is, indeed, in each living creature a collection of forces
-and functions; but [[Education|education]] means producing these in particular shapes
-and training them to particular purposes, or it means nothing at all.
-Speaking is the most practical instance of the whole situation.
-You may indeed "draw out" squeals and grunts from the [[Child|child]] by simply
-poking him and pulling him about, a pleasant but cruel pastime to
-which many psychologists are addicted.  But you will wait and watch
-very patiently indeed before you draw the English language out of him.
-That you have got to put into him; and there is an end of the matter.
+* * *
+
+IV
+
+A LAST INSTANCE
+
+And now, as this book is drawing to a close, I will whisper in
+the reader's ear a horrible suspicion that has sometimes haunted me:
+the suspicion that Hudge and Gudge are secretly in partnership.
+That the quarrel they keep up in public is very much of a put-up job,
+and that the way in which they perpetually play into each other's hands
+is not an everlasting coincidence.  Gudge, the plutocrat, wants an
+anarchic industrialism; Hudge, the idealist, provides him with [[Lyric|lyric]]
+praises of anarchy.  Gudge wants women-workers because they are cheaper;
+Hudge calls the woman's work "[[Freedom|freedom]] to live her own life."
+Gudge wants steady and obedient workmen, Hudge preaches teetotalism--
+to workmen, not to Gudge--Gudge wants a tame and timid population
+who will never take arms against tyranny; Hudge proves from Tolstoi
+that nobody must take arms against anything.  Gudge is naturally
+a healthy and [[Well|well]]-washed gentleman; Hudge earnestly preaches
+the perfection of Gudge's washing to people who can't practice it.
+Above all, Gudge rules by a coarse and cruel system of sacking
+and sweating and bi-sexual toil which is totally inconsistent with
+the free family and which is bound to destroy it; therefore Hudge,
+stretching out his arms to the universe with a prophetic smile, tells us
+that the family is something that we shall soon gloriously outgrow.
+
+I do not know whether the partnership of Hudge and Gudge is conscious
+or unconscious.  I only know that between them they still keep the common
+man homeless.  I only know I still meet [[Jones]] walking the streets
+in the gray twilight, looking sadly at the poles and barriers and low
+red goblin lanterns which still guard the [[house]] which is none the less
+his because he has never been in it.
 
 * * *
 
-VI
+V
 
-AUTHORITY THE UNAVOIDABLE
+CONCLUSION
 
-But the important point here is only that you cannot anyhow
-get rid of authority in [[Education|education]]; it is not so much
-(as poor Conservatives say) that parental authority ought to
-be preserved, as that it cannot be destroyed.  Mr. Bernard [[Shaw]]
-once said that he hated the idea of forming a [[Child|child]]'s mind.
-In that case Mr. Bernard [[Shaw]] had better hang himself;
-for he hates something inseparable from human life.
-I only mentioned educere and the drawing out of the faculties
-in order to point out that even this mental trick does not avoid
-the inevitable idea of parental or scholastic authority.
-The educator drawing out is just as arbitrary and coercive
-as the instructor pouring in; for he draws out what he chooses.
-He decides what in the [[Child|child]] shall be developed and what
-shall not be developed.  He does not (I suppose) draw out
-the neglected faculty of forgery.  He does not (so far at least)
-lead out, with timid steps, a shy talent for torture.
-The only result of all this pompous and precise distinction
-between the educator and the instructor is that the instructor
-pokes where he likes and the educator pulls where he likes.
-Exactly the same intellectual violence is done to the creature
-who is poked and pulled.  Now we must all accept the responsibility
-of this intellectual violence.  [[Education]] is violent;
-because it is creative.  It is creative because it is human.
-It is as reckless as playing on the fiddle; as dogmatic
-as drawing a picture; as brutal as building a [[house]].
-In short, it is what all human action is; it is an interference
-with life and growth.  After that it is a trifling and even
-a jocular question whether we say of this tremendous tormentor,
-the [[artist]] Man, that he puts things into us like an apothecary,
-or draws things out of us, like a dentist.
+Here, it may be said, my book ends just where it ought to begin.
+I have said that the strong centers of modern English property
+must swiftly or slowly be broken up, if even the idea of property
+is to remain among Englishmen.  There are two ways in which it
+could be done, a cold administration by quite detached officials,
+which is called Collectivism, or a personal distribution,
+so as to produce what is called Peasant Proprietorship.  I think
+the latter solution the finer and more fully human, because it
+makes each man as somebody blamed somebody for saying of the Pope,
+a sort of small god.  A man on his own turf tastes [[Eternity|eternity]] or,
+in other words, will give ten minutes more work than is required.
+But I believe I am justified in shutting the door on this vista
+of argument, instead of opening it.  For this book is not designed
+to prove the case for Peasant Proprietorship, but to prove
+the case against modern sages who turn [[Reform|reform]] to a routine.
+The whole of this book has been a rambling and elaborate urging
+of one purely ethical fact.  And if by any chance it should happen
+that there are still some who do not quite see what that point is,
+I will end with one plain [[Parable|parable]], which is none the worse
+for being also a fact.
 
-The point is that Man does what he likes.  He claims
-the right to take his mother [[Nature]] under his control;
-he claims the right to make his [[Child|child]] the Superman, in his image.
-Once flinch from this creative authority of man, and the whole
-courageous raid which we call civilization wavers and falls
-to pieces.  Now most modern [[Freedom|freedom]] is at root [[Fear|fear]].
-It is not so much that we are too bold to endure rules;
-it is rather that we are too timid to endure responsibilities.
-And Mr. [[Shaw]] and such people are especially shrinking from
-that awful and ancestral responsibility to which our fathers
-committed us when they took the wild step of becoming men.
-I mean the responsibility of affirming the [[Truth|truth]] of our human
-tradition and handing it on with a voice of authority,
-an unshaken voice.  That is the one eternal [[Education|education]];
-to be sure enough that something is true that you dare to tell
-it to a [[Child|child]].  From this high audacious duty the moderns
-are fleeing on every side; and the only excuse for them is,
-(of course,) that their modern philosophies are so half-baked
-and hypothetical that they cannot convince themselves
-enough to convince even a newborn babe.  This, of course,
-is connected with the [[Decay|decay]] of [[democracy]]; and is somewhat
-of a separate subject.  Suffice it to say here that when I say
-that we should instruct our children, I mean that we should do it,
-not that Mr. Sully or Professor Earl Barnes should do it.
-The trouble in too many of our modern schools is that the State,
-being controlled so specially by the few, allows cranks and
-experiments to go straight to the schoolroom when they have never
-passed through the Parliament, the public [[house]], the private [[house]],
-the church, or the marketplace.  Obviously, it ought to be
-the oldest things that are taught to the youngest people;
-the assured and experienced truths that are put first to the baby.
-But in a school to-day the baby has to submit to a system
-that is younger than himself.  The flopping infant of four
-actually has more experience, and has weathered the world longer,
-than the dogma to which he is made to submit.  Many a school
-boasts of having the last ideas in [[Education|education]], when it has not
-even the first idea; for the first idea is that even [[innocence]],
-divine as it is, may learn something from experience.
-But this, as I say, is all due to the mere fact that we are
-managed by a little oligarchy; my system presupposes that men
-who govern themselves will govern their children.  To-day we
-all use Popular [[Education]] as meaning [[Education|education]] of the people.
-I wish I could use it as meaning [[Education|education]] by the people.
+A little while ago certain doctors and other persons permitted
+by modern law to dictate to their shabbier fellow-citizens, sent
+out an order that all little girls should have their hair cut short.
+I mean, of course, all little girls whose parents were poor.
+Many very unhealthy habits are common among rich little girls,
+but it will be long before any doctors interfere forcibly with them.
+Now, the case for this particular interference was this,
+that the poor are pressed down from above into such stinking
+and suffocating underworlds of squalor, that poor people must not
+be allowed to have hair, because in their case it must mean lice
+in the hair.  Therefore, the doctors propose to abolish the hair.
+It never seems to have occurred to them to abolish the lice.
+Yet it could be done.  As is common in most modern discussions
+the unmentionable thing is the pivot of the whole discussion.
+It is obvious to any Christian man (that is, to any man with a
+free [[Soul|soul]]) that any coercion applied to a [[cabman]]'s daughter ought,
+if possible, to be applied to a Cabinet Minister's daughter.
+I will not ask why the doctors do not, as a matter of fact
+apply their rule to a Cabinet Minister's daughter.
+I will not ask, because I know.  They do not because they dare not.
+But what is the excuse they would urge, what is the plausible
+argument they would use, for thus cutting and clipping poor children
+and not rich?  Their argument would be that the disease is more
+likely to be in the hair of poor people than of rich.  And why?
+Because the poor children are forced (against all the instincts
+of the highly domestic working classes) to crowd together in close
+rooms under a wildly inefficient system of public instruction;
+and because in one out of the forty children there may be offense.
+And why?  Because the poor man is so ground down by the great
+rents of the great ground landlords that his wife often has
+to work as [[Well|well]] as he.  Therefore she has no [[Time|time]] to look
+after the children, therefore one in forty of them is dirty.
+Because the workingman has these two persons on top of him,
+the landlord sitting (literally) on his stomach, and the
+schoolmaster sitting (literally) on his head, the workingman must
+allow his little girl's hair, first to be neglected from [[Poverty|poverty]],
+next to be poisoned by promiscuity, and, lastly, to be abolished
+by hygiene.  He, perhaps, was proud of his little girl's hair.
+But he does not count.
+
+Upon this simple principle (or rather precedent) the sociological
+doctor drives gayly ahead.  When a crapulous tyranny crushes men
+down into the dirt, so that their very hair is dirty, the scientific
+course is clear.  It would be long and laborious to cut off the heads
+of the tyrants; it is easier to cut off the hair of the slaves.
+In the same way, if it should ever happen that poor children,
+screaming with toothache, disturbed any schoolmaster or artistic
+gentleman, it would be easy to pull out all the teeth of the poor;
+if their nails were disgustingly dirty, their nails could be
+plucked out; if their noses were indecently blown, their noses
+could be cut off.  The appearance of our humbler fellow-citizen
+could be quite strikingly simplified before we had done with him.
+But all this is not a bit wilder than the brute fact that a doctor
+can walk into the [[house]] of a free man, whose daughter's hair
+may be as clean as [[spring]] [[Flowers|flowers]], and order him to cut it off.
+It never seems to strike these people that the lesson of lice
+in the slums is the wrongness of slums, not the wrongness of hair.
+Hair is, to say the least of it, a rooted thing.  Its enemy
+(like the other [[Insects|insects]] and oriental armies of whom we have spoken)
+sweep upon us but seldom.  In [[Truth|truth]], it is only by eternal institutions
+like hair that we can test passing institutions like empires.
+If a [[house]] is so built as to knock a man's head off when he enters it,
+it is built wrong.

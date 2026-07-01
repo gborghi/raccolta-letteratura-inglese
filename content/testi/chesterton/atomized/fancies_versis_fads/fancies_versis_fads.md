@@ -463,10 +463,10 @@ so that things that may never have happened, or, as some say,
 could never have happened, are nevertheless rooted in our racial
 [[Memory|memory]] like things that have happened to ourselves.  The whole
 Arthurian Cycle, for instance, seems something more real than reality.
-If the faces in that darkness of the Dark Ages, Lancelot and [[Arthur]]
+If the faces in that darkness of the Dark Ages, Lancelot and [[arthur|Arthur]]
 and Merlin and Modred, are indeed faces in [[A Dream|a dream]], they are like
 faces in a real dream:  [[A Dream|a dream]] in a bed and not [[A Dream|a dream]] in a book.
-Sub-consciously at least, I should be much less surprised if [[Arthur]]
+Sub-consciously at least, I should be much less surprised if [[arthur|Arthur]]
 was to come again than I should be if the Superman were to come
 at all.  Again, the thing might be called Gossip:  a noble name,
 having in it the name of God and one of the most generous and genial
@@ -482,7 +482,7 @@ Finally, of course, it can be called ignorance, barbarism,
 black superstition, a reaction towards obscurantism and old [[Night|night]];
 and such a vie is eminently complete and satisfactory, only that it
 [[Leaves|leaves]] behind it a sort of weak [[Wonder|wonder]] as to why the very youngest
-poets do still go on writing [[Poems|poems]] about the [[Sword|sword]] of [[Arthur]]
+poets do still go on writing [[Poems|poems]] about the [[Sword|sword]] of [[arthur|Arthur]]
 and the horn of Roland.
 
 All this was but the beginning of a process which has two great points
@@ -642,7 +642,7 @@ But _vers libre,_ or nine-tenths of it, is not a new metre any
 more than sleeping in a ditch is a new school of architecture.
 It is no more a revolution in literary form than eating meat
 raw is an innovation in cookery.  It is not even original,
-because it is not creative; the [[artist]] does not invent anything,
+because it is not creative; the [[Artist|artist]] does not invent anything,
 but only abolishes something.  But the only point about it
 that is to my present purpose is expressed in the word "[[Pride|pride]]."
 It is not merely proud in the sense of being exultant, but proud
@@ -656,8 +656,8 @@ the sensational and [[Self|self]]-evident character of that separation.
 I need not recommend the modern poet to attempt to sing his _vers
 libres_ in a public-[[house]]. I need not even urge the young Imagist
 to read out a number of his disconnected Images to a public meeting.
-The thing is not only admitted but admired.  The old [[artist]] remained
-proud in spite of his unpopularity; the new [[artist]] is proud because
+The thing is not only admitted but admired.  The old [[Artist|artist]] remained
+proud in spite of his unpopularity; the new [[Artist|artist]] is proud because
 of his unpopularity; perhaps it is his chief ground for [[Pride|pride]].
 
 Dwelling as I do in the Dark Ages, or at latest along the mediaeval
@@ -800,7 +800,7 @@ that the theory "adumbrated the suggestion of a freer [[morality]],
 by dwelling upon the physical and spiritual necessity for the
 liberation of impulse," the point seems somehow to be missed.
 Not a single giggle is heard in the deep and disappointing [[Silence|silence]].
-It seems truly strange that when a modern and brilliant [[artist]]
+It seems truly strange that when a modern and brilliant [[Artist|artist]]
 actually provides jokes far more truly humorous than the rude jests
 of the yokels and the milkmaids, the finer effort should meet with
 the feebler response.  It is but an example of the unnatural solemnity,
@@ -990,7 +990,7 @@ of Professor Freud.  He has to make him a champion of psycho-analysis,
 which is like making him a champion of vaccination.  He has to fit
 [[Hamlet]]'s [[Soul|soul]] somehow into the classifications of Freud and Jung;
 which is just as if he had to fit [[Hamlet]]'s father into the
-classifications of Sir [[Oliver]] Lodge and Sir [[Arthur]] Conan Doyle.
+classifications of Sir [[Oliver]] Lodge and Sir [[arthur|Arthur]] Conan Doyle.
 He has to interpret the whole thing by a new [[morality]] that Shakespeare
 had never heard of, because he has an intense internal dislike
 of the old [[morality]] that Shakespeare could not help hearing of.
@@ -1087,7 +1087,7 @@ Probably he will be confused with Mr. G. D. H. Cole, the first President
 of the Guild Socialistic Republic.  With the greatest admiration
 for Mr. Cole, I cannot quite picture him as so festive a figure;
 and I incline to think that the same influences will probably
-eliminate the festivity.  It is said that [[america|America]], having already
+eliminate the festivity.  It is said that [[America]], having already
 abolished the bowl, is now attempting to abolish the pipe.
 After that it might very reasonably go on to abolish the fiddlers;
 for music can be far more maddening than wine.  [[tolstoy|Tolstoy]], the only
@@ -1514,7 +1514,7 @@ The greatest of Roman satirists noted that in his day the more fast of
 the fashionable ladies liked to fight as gladiators in the amphitheatre.
 In that one statement he pinned and killed, like moths on a cork,
 a host of women prophets and women pioneers and large-minded liberators
-of their sex in modern England and [[america|America]].  But besides these more
+of their sex in modern England and [[America]].  But besides these more
 showy she-gladiators there are also multitudes of worthy and sincere
 women who take the new (or rather old) professions seriously.
 The only disadvantage is that in many of those professions they
@@ -1757,8 +1757,8 @@ lurid simplicity as "The Cow with the India-rubber Tongue."
 It sounds rather a good title for a creepy [[Short Story|short story]].
 At the base of the Albert Memorial (I may explain for those
 who have never enjoyed that monument) are four groups
-of statuary representing Europe, Asia, Africa, and [[america|America]].
-[[america|America]] especially is very overwhelming; borne onward on a
+of statuary representing Europe, Asia, Africa, and [[America]].
+[[America]] especially is very overwhelming; borne onward on a
 snorting bison who plunges forward in a fury of western progress,
 and is surrounded with Red Indians, Mexicans, and all sorts
 of pioneers, 0 pioneers, armed to the teeth.  The [[Child|child]] passed this
@@ -2150,7 +2150,7 @@ I am glad to find better words than my own.
 PROHIBITION AND THE PRESS
 
 AN organ of the Nonconformist [[Conscience]], while commenting
-very kindly on my recent remarks about [[america|America]], naturally went on
+very kindly on my recent remarks about [[America]], naturally went on
 to criticize, though equally kind, my remarks about Prohibition.
 Now, so far as I am concerned, the problem is not so much
 Prohibition with a large P as prohibition with a small one.
@@ -2363,7 +2363,7 @@ kind to them.
 
 For after all, blame is itself a compliment.  It is a compliment
 because it is an appeal; and an appeal to a man as a creative
-[[artist]] making his [[Soul|soul]].  To say to a man, "rascal" or "[[Villain|villain]]"
+[[Artist|artist]] making his [[Soul|soul]].  To say to a man, "rascal" or "[[Villain|villain]]"
 in ordinary society may seem abrupt; but it is also elliptical.
 It is an abbreviation of a [[Sublime|sublime]] spiritual apostrophe for which
 there may be no [[Time|time]] in our busy social life.  When you meet
@@ -2459,7 +2459,7 @@ be as villainous as that.
 For that matter, it would be easy to find examples much
 nearer than this one to the torturing of the Roman slaves.
 There is a very close parallel in the Third Degree, as applied by
-the police to the criminal class on suspicion, especially in [[america|America]];
+the police to the criminal class on suspicion, especially in [[America]];
 for the criminal class is a submerged class like the slaves;
 and it is but an experiment on the nerves in one way instead of another,
 like a preference for the rack rather than the thumbscrew.
@@ -2519,7 +2519,7 @@ Like all such things, it is indescribable when it is successful:
 it is easier to describe the disregard of it as unsuccessful.
 Thus Stevenson's masterpiece, "The Master of Ballantrae," always seems
 to me to fall into two parts, the finer which revolves round
-Durisdeer and the inferior which rambles through India and [[america|America]].
+Durisdeer and the inferior which rambles through India and [[America]].
 The slender and sinister figure in black, standing on the shore or
 vanishing from the shrubbery, does really seem to have come from the ends
 of the earth.  In the chapters of travel he only serves to show that,
@@ -2695,7 +2695,7 @@ which the old ballads always talk of as true [[Love|love]].  But the story
 always turns on the keeping of a bond or the breaking of it; and this
 quite apart from orthodox [[morality]] in the matter of the [[Marriage|marriage]] bond.
 The [[Love|love]] may be in the strict sense sinful, but it is never anarchical.
-There was quite as little [[Freedom|freedom]] for Lancelot as for [[Arthur]];
+There was quite as little [[Freedom|freedom]] for Lancelot as for [[arthur|Arthur]];
 quite as little mere philandering in the [[philosophy]] of Tristram
 as in the [[philosophy]] of Galahad.  It may have been unlawful [[Love|love]],
 but it certainly was not lawless [[Love|love]].  In the old ballads there is
@@ -2865,7 +2865,7 @@ Thus we have all heard of savages who try a tomahawk for murder,
 or burn a wooden club for the damage it has done to society.
 To such intellectual levels may the world return.
 
-There are indeed yet lower levels.  There is a story from [[america|America]]
+There are indeed yet lower levels.  There is a story from [[America]]
 about a little boy who gave up his toy cannon to assist the disarmament
 of the world.  I do not know if it is true, but on the whole I
 prefer to think so; for it is perhaps more tolerable to imagine
@@ -2910,7 +2910,7 @@ who is clever enough to know better, defended it on the ground
 that nothing must interfere with the perfection of a work of art.
 I dispute the moral thesis in any case; and Nero would no [[Doubt|doubt]]
 have urged it in defence of having real deaths in the amphitheatre.
-I do not admit in any case that the [[artist]] can be entirely indifferent
+I do not admit in any case that the [[Artist|artist]] can be entirely indifferent
 to hunger and unemployment, any more than to lions or boiling oil.
 But, as a matter of fact, there is no need to raise the moral question,
 because the case is equally strong in relation to the artistic question.
@@ -2920,8 +2920,8 @@ I think it is the last and lowest phase of the vulgarity that is
 called realism.  It is in the same style and taste as the triumphs
 on which, I believe, some actor-managers have prided themselves:
 the triumphs of having real silver for goblets or real jewels for crowns.
-That is not the spirit of a perfect [[artist]], but rather of a
-purse-proud parvenu.  The perfect [[artist]] would be he who could put
+That is not the spirit of a perfect [[Artist|artist]], but rather of a
+purse-proud parvenu.  The perfect [[Artist|artist]] would be he who could put
 on a [[Crown|crown]] of gilt wire or tinsel and make us feel he was a [[King|king]].
 
 Moreover, if the principle is to be extended from properties
@@ -2969,7 +2969,7 @@ the arts if I say simply that I do not believe in the resemblance.
 I do not believe that a Chinaman does look like a Chinaman.
 That is, I do not believe that any Chinaman will necessarily
 look like _the_ Chinaman--the Chinaman in the [[Imagination|imagination]] of
-the [[artist]] and the interest of the crowd.  We all know the [[Fable|fable]]
+the [[Artist|artist]] and the interest of the crowd.  We all know the [[Fable|fable]]
 of the man who imitated a pig, and his rival who was hooted
 by the crowd because he could only produce what was (in fact)
 the squeak of a real pig.  The crowd was perfectly right.
@@ -2993,10 +2993,10 @@ he might appear, and generally does appear, singularly unconscious
 of his own lack of feathers.  But the same principle is true
 of things more dignified than the most dignified porker,
 though clad in the most superb plumage.  If a vision of a stately
-Arab has risen in the [[Imagination|imagination]] of an author who is an [[artist]],
-he will be wise if he confides it to an actor who is also an [[artist]].
+Arab has risen in the [[Imagination|imagination]] of an author who is an [[Artist|artist]],
+he will be wise if he confides it to an actor who is also an [[Artist|artist]].
 He will be much wiser to confide it to an actor than to an Arab.
-The actor, being a fellow-countryman and a fellow-[[artist]], may bring
+The actor, being a fellow-countryman and a fellow-[[Artist|artist]], may bring
 out what the author thinks the Arab stands for; whereas the real
 Arab might be a particular individual who at that particular moment
 refused to stand for anything of the sort, or for anything at all.
@@ -3018,7 +3018,7 @@ reasonable to expect the remote person to feel remote from himself,
 or the man at the other end of the world not to feel it as this end.
 We must not ask the outlandish Oriental to feel outlandish,
 or a Chinaman to be astonished at being Chinese.  If, therefore,
-the literary [[artist]] has the legitimate literary purpose of expressing
+the literary [[Artist|artist]] has the legitimate literary purpose of expressing
 the mysterious and alien atmosphere which China implies to him,
 he will probably do it much better with the aid of an actor who is
 not Chinese.  Of course, I am not criticizing the particular details
@@ -3838,7 +3838,7 @@ THE PRUDERY OF THE FEMINISTS
 
 IN the ultimate and universal sense I am astonished at the lack
 of astonishment.  Starting from scratch, so to speak, we are all
-in the position of the first frog, whose pious and compact [[prayer]]
+in the position of the first frog, whose pious and compact [[Prayer|prayer]]
 was "Lord, how you made me jump!"  Matthew Arnold told us to see life
 steadily and see it whole.  But the flaw in his whole [[philosophy]]
 is that when we do see life whole we do not see it steadily,
@@ -4336,16 +4336,16 @@ no heroic qualities; any more than I deny that Charlemagne was
 a great man because the legend says he was two hundred years old;
 any more than I deny that the resistance of Roman Britain to the heathen
 invasion was valiant and valuable, because the legend says that
-[[Arthur]] at Mount Badon killed nine hundred men with his own hand.
+[[arthur|Arthur]] at Mount Badon killed nine hundred men with his own hand.
 I mean that there exists in millions of modern minds a traditional
 image or vision called the "Mayflower," which has far less relation
-to the real facts than Charlemagne's two hundred years or [[Arthur]]'s
-nine hundred corpses.  Multitudes of people in England and [[america|America]],
+to the real facts than Charlemagne's two hundred years or [[arthur|Arthur]]'s
+nine hundred corpses.  Multitudes of people in England and [[America]],
 as intelligent and sympathetic as the young lady in Mr. Wells's [[Novel|novel]],
 think of the "Mayflower" as an origin, or archetype, like the Ark
 or at least the Argo.  Perhaps it would be an exaggeration
-to say that they think the "Mayflower" discovered [[america|America]].
-They do really talk as if the "Mayflower" populated [[america|America]].
+to say that they think the "Mayflower" discovered [[America]].
+They do really talk as if the "Mayflower" populated [[America]].
 Above all, they talk as if the establishment of [[New England]] had
 been the first and formative example of the expansion of England.
 They believe that English expansion was a Puritan experiment;
@@ -4586,7 +4586,7 @@ the test, why bother to join the League of Nations [[Union]]?
 
 THE EVOLUTION OF SLAVES
 
-A VERY curious and interesting thing has recently happened in [[america|America]].
+A VERY curious and interesting thing has recently happened in [[America]].
 There has suddenly appeared an organized political attack on
 Darwinian Evolution, led by an old demagogue appealing entirely
 to the ideals of [[democracy]].  I mean no discredit to Mr. Bryan
@@ -4671,9 +4671,9 @@ retaining only the ornaments; as a good many fashionable people
 in our own civilization seem to be doing now.  And there is nothing
 to show that ruder races who brew their "native beers" in Africa
 or Polynesia have not lost the art of brewing something better;
-just as Prohibitionist [[america|America]], before our very eyes, has left off
+just as Prohibitionist [[America]], before our very eyes, has left off
 brewing Christian beer and taken to drinking fermented wood-pulp
-and methylated spirit.  The very example of modern [[america|America]] falling
+and methylated spirit.  The very example of modern [[America]] falling
 from better to baser drinks, under a dismal taboo, is a perfect
 model of the way in which civilizations have relapsed into savagery,
 and produced the savages we know.  But the point is that drink,
@@ -4724,7 +4724,7 @@ that evolution seems a probable conjecture, and natural selection
 is on the face of it an extravagantly improbable one.  All this,
 which is obvious to thinking people, has at last become obvious even to
 the most unthinking; and _that_ is the meaning of the attack on Darwinism
-in [[america|America]] and the battle of Mr. Bryan against the Missing Link.
+in [[America]] and the battle of Mr. Bryan against the Missing Link.
 The secret is out.  The obscurantism of the professors is over.
 Those of us who have humbly hammered on this point from [[Time|time]]
 to [[Time|time]] suddenly find ourselves hammering on an open door.
@@ -4983,7 +4983,7 @@ If [[Education|education]] is the largest thing in the world, what is the sense
 of talking about a woman being liberated from the largest thing
 in the world?  It is as if we were to rescue her from the cruel
 doom of being a poet like Shakespeare; or to pity the limitations
-of an all-round [[artist]] like Leonardo da Vinci.  Nor can there
+of an all-round [[Artist|artist]] like Leonardo da Vinci.  Nor can there
 be any [[Doubt|doubt]] that there is [[Truth|truth]] in this claim for [[Education|education]].
 Only precisely the sort of which it is particularly true is the sort
 called domestic [[Education|education]].  Private [[Education|education]] really is universal.
@@ -5243,7 +5243,7 @@ legendary lady secretary of Madam Blavatsky or Mrs. Besant,
 who was so much delighted with a new sofa or ottoman that she sat
 on it by preference when resting or reading her correspondence.
 At last it moved slightly, and she found it was a mahatma covered with
-his Eastern robe and rigid in [[prayer]], or some more impersonal ecstasy.
+his Eastern robe and rigid in [[Prayer|prayer]], or some more impersonal ecstasy.
 That a lady secretary should have a seat any gentleman will approve;
 that a mahatma should be sat on no Christian will deny;
 nevertheless, there is another possible moral to the [[Fable|fable]]
@@ -5654,8 +5654,8 @@ the butterfly becomes a burden, and the green carnation flourishes like
 the green baytree.  For the moment I do believe in "art for art's sake."
 And that name is John [[Milton]].
 
-It does really seem to me that [[Milton]] was an [[artist]], and nothing
-but an [[artist]]; and yet so great an [[artist]] as to sustain by his own
+It does really seem to me that [[Milton]] was an [[Artist|artist]], and nothing
+but an [[Artist|artist]]; and yet so great an [[Artist|artist]] as to sustain by his own
 strength the idea that art can exist [[Alone|alone]].  He seems to me an almost
 solitary example of a man of magnificent genius whose [[Greatness|greatness]]
 does not depend at all upon moral earnestness, or upon anything
@@ -5729,7 +5729,7 @@ and for the mere lust of saying it as often as possible:
 And the exuberant joy I take in it is the nearest thing I have ever
 known to art for art's sake.
 
-In short it seems to me that [[Milton]] was a great [[artist]], and that
+In short it seems to me that [[Milton]] was a great [[Artist|artist]], and that
 he was also a great accident.  It was rather in the same sense that
 his master Cromwell was a great accident.  It is not true that all
 the moral virtues were crystallized in [[Milton]] and his Puritans.
@@ -5969,7 +5969,7 @@ of the finger of [[Fear|fear]].  But this justice which is done to the Puritan
 masters of [[Imagination|imagination]] has hardly been done to the great Tory
 masters of irony.  No critic I have read has noticed the real point
 and climax of that passage about the Yahoos.  Swift leads up to it
-ruthlessly enough, for an [[artist]] of that sort is often ruthless;
+ruthlessly enough, for an [[Artist|artist]] of that sort is often ruthless;
 and it is increased by his natural talent for a sort of mad reality
 of detail, as in his description of the slowly diminished distance
 between himself and his wife at the dinner-table. But he was working
@@ -6071,7 +6071,7 @@ I thought that the pagans would certainly have called it an omen;
 and it was one that strangely fitted my own sense of some great work
 half fulfilled and half frustrated.  And I thought vaguely of that
 man in Virgil, who prayed that he might slay his foe and return
-to his country; and the gods heard half the [[prayer]], and the other half
+to his country; and the gods heard half the [[Prayer|prayer]], and the other half
 was scattered to the winds.  For I knew we were right to rejoice;
 since the [[Tyrant|tyrant]] was indeed slain and his tyranny fallen for ever;
 but I know not when we shall find our way back to our own land.

@@ -1,5 +1,5 @@
 ---
-title: "[[Timon]] of Athens — Act V, Scene 2"
+title: "Timon of Athens — Act V, Scene 2"
 author: "Shakespeare"
 unitType: scene
 parentWork: "works/timon-of-athens-(shakespeare)"

@@ -142,14 +142,3 @@ and driven from [[house]] and [[Home|home]].’
 ‘We had warrant for what we did, my good sir,’ rejoined Quilp, ‘we had
 our warrant.  Don’t say driven either.  He went of his own
 accord--vanished in the [[Night|night]], sir.’
-
-‘No matter,’ said the single gentleman angrily.  ‘He was gone.’
-
-‘Yes, he was gone,’ said Quilp, with the same exasperating composure.
-‘No [[Doubt|doubt]] he was gone.  The only question was, where.  And it’s a
-question still.’
-
-‘Now, what am I to think,’ said the single gentleman, sternly regarding
-him, ‘of you, who, plainly indisposed to give me any information
-then--nay, obviously holding back, and sheltering yourself with all
-kinds of cunning, trickery, and evasion--are dogging my footsteps now?’

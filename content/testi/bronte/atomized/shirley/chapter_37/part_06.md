@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 37 (part 6)"
+title: "Shirley — Chapter 37 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -12,6 +12,44 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_37/part_05">‹ part 05</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_37/part_07">part 07 ›</a></div>
 </nav>
+
+
+that pierced a [[Body|body]] through. There is no such ladies nowadays."
+
+
+
+"What was the Hollow like then, Martha?"
+
+
+
+"Different to what it is now; but I can tell of it clean different
+
+again, when there was neither mill, nor cot, nor hall, except Fieldhead,
+
+within two miles of it. I can tell, one [[Summer|summer]] evening, fifty years
+
+syne, my mother coming running in just at the edge of dark, almost
+
+fleyed out of her wits, saying she had seen a fairish [fairy] in
+
+Fieldhead Hollow; and that was the last fairish that ever was seen on
+
+this countryside (though they've been heard within these forty years). A
+
+lonesome spot it was, and a bonny spot, full of oak trees and nut trees.
+
+It is altered now."
+
+
+
+The story is told. I think I now see the judicious reader putting on his
+
+spectacles to look for the moral. It would be an insult to his sagacity
+
+to offer directions. I only say, God [[Speed|speed]] him in the [[Quest|quest]]!
+
+
+
 
 
 THE END.
@@ -325,69 +363,3 @@ Toilers of the Sea" shows the conflict of man with [[Nature|nature]]; "The Laugh
 Man" expounds the tyranny of the aristocratic ideal as exemplified in
 
 England. But being a great [[artist]] as [[Well|well]] as a great thinker, he never
-
-turned his romances into pamphlets. Drama is always his aim, and no
-
-novelist has attained more often the supreme dramatic moment.
-
-
-
-
-
-=The Heir of Redclyffe.= C. M. YONGE.
-
-
-
-This is a reprint of Miss Yonge's most famous tale. It has been said of
-
-her that she domesticated the historical [[Romance|romance]], which owed its origin
-
-to Sir Walter Scott, and her characters were for long the ideal figures
-
-of most English households.
-
-
-
-
-
-=Wild Wales.= GEORGE BORROW.
-
-
-
-This book was the result of Borrow's wanderings after the publication of
-
-"Lavengro" and "The Romany Rye." He tramped on foot throughout the
-
-country, and the work is a classic of description, both of the scenery
-
-and people.
-
-
-
-
-
-=The Cloister and the Hearth.= CHARLES READE.
-
-
-
-There are many who think this the greatest of all historical novels, and
-
-it is certain that there are few better. It is not a story so much as a
-
-vast and varied transcript of life. It is also a delightful [[Romance|romance]], and
-
-Gerard and Margaret are among the immortals of fiction.
-
-
-
-
-
-=Romola.= GEORGE ELIOT.
-
-
-
-This is the only [[Novel|novel]] of George Eliot's in which the scene is laid
-
-outside her own country. It is a story of Florence during the [[Time|time]] of
-
-the [[Renaissance]], a marvellous picture of the intellectual and moral

@@ -348,7 +348,7 @@ In their treatment of the great national fairy-tale of good
 and evil, the Puritans killed St. George but carefully preserved
 the Dragon, And this seventeenth-century tradition of dealing
 with the psychic life still lies like a great [[Shadow|shadow]] over England
-and [[america|America]], so that if we glance at a [[Novel|novel]] about occultism we
+and [[America]], so that if we glance at a [[Novel|novel]] about occultism we
 may be perfectly certain that it deals with sad or evil destiny.
 Whatever else we expect we certainly should never expect to find
 in it spirits such as those in <Aylwin> as inspirers of a tale of

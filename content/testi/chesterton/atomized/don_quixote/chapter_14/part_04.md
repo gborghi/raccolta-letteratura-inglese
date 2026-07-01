@@ -1,5 +1,5 @@
 ---
-title: "[[Don Quixote]] — Chapter 13 (part 4)"
+title: "Don Quixote — Chapter 13 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/don-quixote-(chesterton)"
@@ -136,21 +136,3 @@ into it much of that popular passion which at one [[Time|time]]
 filled half the towns and villages in England with pageants;
 the hunger of a populace which [[Puritanism]] and Industrialism
 had so long starved for the feast of the eyes and the fancy.
-
-As it was more than a pageant, it was more than a fashion;
-but it had its stages and turning points like a fashion.
-Perhaps the chief turning point was the moment when Mr. Julian Archer
-(now Sir Julian Archer under the accolade of one of the new orders
-of knighthood) had seriously discovered that he must lead the fashion
-or be left behind it.  All of us who have observed changes passing
-over a society know that indeterminate and yet determining instant.
-It applies to everything from women being allowed votes to women
-not being allowed hair.  It was marked in the Suffragette movement,
-which many middle-class women had long supported, when great ladies
-began to take it up.  It marks the transition from the [[Time|time]]
-when it is the new fashion to the [[Time|time]] when it is the fashion.
-Up to that moment examples may be numerous, but they are still notable;
-after that moment it is the neglect that is notable.  That is
-the sort of moment, in every movement, at which Sir Julian Archer
-appears as he appeared now; a knight in shining armour, ready for
-every perilous emprise.

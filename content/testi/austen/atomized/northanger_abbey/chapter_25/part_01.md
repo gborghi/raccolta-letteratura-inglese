@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 24 (part 1)"
+title: "Northanger Abbey — Chapter 24 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -197,9 +197,3 @@ much better in every respect that [[Eleanor]] should know nothing of the
 matter. To involve her in the danger of a second detection, to [[Court|court]]
 
 her into an apartment which must wring her heart, could not be the
-
-office of a friend. The General’s utmost anger could not be to herself
-
-what it might be to a daughter; and, besides, she thought the
-
-examination itself would be more satisfactory if made without any

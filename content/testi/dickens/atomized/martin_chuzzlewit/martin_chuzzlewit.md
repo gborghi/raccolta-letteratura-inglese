@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]]"
+title: "Martin Chuzzlewit"
 author: "Dickens"
 unitType: work
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -103,7 +103,7 @@ POSTSCRIPT
 
 At a Public Dinner given to me on Saturday the 18th of April, 1868, in
 the [[City|city]] of [[New York]], by two hundred representatives of the Press of
-the United States of [[America]], I made the following observations, among
+the United States of [[america|America]], I made the following observations, among
 others:--
 
 “So much of my voice has lately been heard in the land, that I might
@@ -111,7 +111,7 @@ have been contented with troubling you no further from my present
 standing-point, were it not a duty with which I henceforth charge
 myself, not only here but on every suitable occasion, whatsoever
 and wheresoever, to express my high and grateful sense of my second
-reception in [[America]], and to bear my honest testimony to the national
+reception in [[america|America]], and to bear my honest testimony to the national
 generosity and magnanimity. Also, to declare how astounded I have been
 by the amazing changes I have seen around me on every side--changes
 moral, changes physical, changes in the amount of land subdued and
@@ -132,7 +132,7 @@ Indeed, I have, now and again, been more surprised by printed news that
 I have read of myself, than by any printed news that I have ever read
 in my present state of existence. Thus, the vigour and perseverance with
 which I have for some months past been collecting materials for, and
-hammering away at, a new book on [[America]] has much astonished me; seeing
+hammering away at, a new book on [[america|America]] has much astonished me; seeing
 that all that [[Time|time]] my declaration has been perfectly [[Well|well]] known to my
 publishers on both sides of the Atlantic, that no consideration on earth
 would induce me to write one. But what I have intended, what I have
@@ -147,7 +147,7 @@ the privacy daily enforced upon me by the [[Nature|nature]] of my avocation here
 and the state of my health. This testimony, so long as I live, and so
 long as my descendants have any legal right in my books, I shall cause
 to be republished, as an appendix to every copy of those two books of
-mine in which I have referred to [[America]]. And this I will do and cause
+mine in which I have referred to [[america|America]]. And this I will do and cause
 to be done, not in mere [[Love|love]] and thankfulness, but because I regard it
 as an act of plain justice and [[Honour|honour]].”
 
@@ -155,7 +155,7 @@ I said these words with the greatest earnestness that I could lay upon
 them, and I repeat them in print here with equal earnestness. So long as
 this book shall last, I [[Hope|hope]] that they will form a part of it, and will
 be fairly read as inseparable from my experiences and impressions of
-[[America]].
+[[america|America]].
 
 CHARLES DICKENS.
 
@@ -421,7 +421,7 @@ yet stood together bravely, resisting to the last the tyranny of nipping
 winds and early frosts--took heart and brightened up; the stream which
 had been dull and sullen all day long, broke out into a cheerful smile;
 the [[Birds|birds]] began to chirp and twitter on the naked boughs, as though the
-hopeful creatures half believed that [[Winter|winter]] had gone by, and [[Spring|spring]]
+hopeful creatures half believed that [[Winter|winter]] had gone by, and [[spring]]
 had come already. The vane upon the tapering spire of the old church
 glistened from its lofty station in sympathy with the general gladness;
 and from the ivy-shaded windows such gleams of light shone back upon
@@ -2910,7 +2910,7 @@ any means, than a fresh, frosty morning, when [[Hope|hope]] runs cheerily throug
 the veins with the brisk [[Blood|blood]], and tingles in the frame from head to
 foot! This was the glad commencement of a bracing day in early [[Winter|winter]],
 such as may put the languid [[Summer|summer]] season (speaking of it when it can’t
-be had) to the blush, and shame the [[Spring|spring]] for being sometimes cold by
+be had) to the blush, and shame the [[spring]] for being sometimes cold by
 halves. The sheep-[[Bells|bells]] rang as clearly in the vigorous air, as if they
 felt its wholesome influence like living creatures; the trees, in lieu
 of [[Leaves|leaves]] or blossoms, shed upon the ground a frosty rime that sparkled
@@ -9498,14 +9498,14 @@ weather--on foot--without your clothes--with no money?’ cried Tom.
 
 ‘And where?’ cried Tom. ‘Oh where will you go?’
 
-‘I don’t know,’ he said. ‘Yes, I do. I’ll go to [[America]]!’
+‘I don’t know,’ he said. ‘Yes, I do. I’ll go to [[america|America]]!’
 
 ‘No, no,’ cried Tom, in a kind of agony. ‘Don’t go there. Pray don’t.
 Think better of it. Don’t be so dreadfully regardless of yourself. Don’t
-go to [[America]]!’
+go to [[america|America]]!’
 
 ‘My mind is made up,’ he said. ‘Your friend was right. I’ll go to
-[[America]]. God bless you, Pinch!’
+[[america|America]]. God bless you, Pinch!’
 
 ‘Take this!’ cried Tom, pressing a book upon him in great agitation.
 ‘I must make haste back, and can’t say anything I would. Heaven be with
@@ -10076,7 +10076,7 @@ and when he strung his harp was old, and had never seen the righteous
 forsaken, or his seed begging their bread; go, Teachers of content and
 honest [[Pride|pride]], into the mine, the mill, the forge, the squalid depths of
 deepest ignorance, and uttermost abyss of man’s neglect, and say can any
-hopeful plant [[Spring|spring]] up in air so foul that it extinguishes the [[Soul|soul]]’s
+hopeful plant [[spring]] up in air so foul that it extinguishes the [[Soul|soul]]’s
 bright torch as fast as it is kindled! And, oh! ye Pharisees of the
 nineteen hundredth year of Christian Knowledge, who soundingly appeal
 to human [[Nature|nature]], see that it be human first. Take heed it has not been
@@ -10094,7 +10094,7 @@ unsuccessfully. He was years and years too old for a cabin-boy, and
 years upon years too inexperienced to be accepted as a common seaman.
 His dress and manner, too, militated fatally against any such proposal
 as the latter; and yet he was reduced to making it; for even if he could
-have contemplated the being set down in [[America]] totally without money,
+have contemplated the being set down in [[america|America]] totally without money,
 he had not enough left now for a steerage passage and the poorest
 provisions upon the voyage.
 
@@ -10102,7 +10102,7 @@ It is an illustration of a very common tendency in the mind of man, that
 all this [[Time|time]] he never once doubted, one may almost say the certainty
 of doing great things in the New World, if he could only get there.
 In proportion as he became more and more dejected by his present
-circumstances, and the means of gaining [[America]] receded from his grasp,
+circumstances, and the means of gaining [[america|America]] receded from his grasp,
 the more he fretted himself with the conviction that that was the only
 place in which he could [[Hope|hope]] to achieve any high end, and worried his
 brain with the thought that men going there in the meanwhile might
@@ -10269,10 +10269,10 @@ He said this so pointedly, that Martin stopped in his eating, and said:
 ‘Yes, I do, sir,’ interposed Mark.
 
 ‘Then you may judge from my style of living here, of my means of keeping
-a man-servant. Besides, I am going to [[America]] immediately.’
+a man-servant. Besides, I am going to [[america|America]] immediately.’
 
 ‘[[Well]], sir,’ returned Mark, quite unmoved by this intelligence ‘from all
-that ever I heard about it, I should say [[America]] is a very likely sort
+that ever I heard about it, I should say [[america|America]] is a very likely sort
 of place for me to be jolly in!’
 
 Again Martin looked at him angrily; and again his anger melted away in
@@ -10294,7 +10294,7 @@ down; and will you take me, or will you leave me?’
 
 ‘When I say take,’ rejoined Mark, ‘I mean will you let me go? and when I
 say will you let me go, I mean will you let me go along with you? for go
-I will, somehow or another. Now that you’ve said [[America]], I see clear at
+I will, somehow or another. Now that you’ve said [[america|America]], I see clear at
 once, that that’s the place for me to be jolly in. Therefore, if I don’t
 pay my own passage in the [[Ship|ship]] you go in, sir, I’ll pay my own passage
 in another. And mark my words, if I go [[Alone|alone]] it shall be, to carry out
@@ -10308,7 +10308,7 @@ way, sir, there’ll be a drowned man at your door--and always a-knocking
 ‘Very good, sir,’ returned Mark. ‘I’m glad to hear it, because if you
 don’t mean to let me go, you’ll be more comfortable, perhaps, on account
 of thinking so. Therefore I contradict no gentleman. But all I say is,
-that if I don’t emigrate to [[America]] in that case, in the beastliest old
+that if I don’t emigrate to [[america|America]] in that case, in the beastliest old
 cockle-shell as goes out of port, I’m--’
 
 ‘You don’t mean what you say, I’m sure,’ said Martin.
@@ -10597,7 +10597,7 @@ your sake. I am going,’ he added slowly, looking far into the deep
 
 ‘Abroad, Martin!’
 
-‘Only to [[America]]. See now. How you droop directly!’
+‘Only to [[america|America]]. See now. How you droop directly!’
 
 ‘If I do, or, I [[Hope|hope]] I may say, if I did,’ she answered, raising her
 head after a short [[Silence|silence]], and looking once more into his face, ‘it was
@@ -10671,7 +10671,7 @@ over his shoulder, that there was no one near, and that Mark was still
 intent upon the fog, not only looked at her lips, too, but kissed them
 into the bargain.
 
-‘Now I am going to [[America]], with great prospects of doing [[Well|well]], and of
+‘Now I am going to [[america|America]], with great prospects of doing [[Well|well]], and of
 returning [[Home|home]] myself very soon; it may be to take you there for a few
 years, but, at all events, to claim you for my wife; which, after such
 trials, I should do with no [[Fear|fear]] of your still thinking it a duty to
@@ -10738,7 +10738,7 @@ thinks an angel.’
 ‘Mr Pecksniff again?’ asked Mary.
 
 ‘The same,’ said Martin ‘--will be at once apparent to you. I have
-completed my arrangements for going to [[America]]; and you will be
+completed my arrangements for going to [[america|America]]; and you will be
 surprised to hear that I am to be accompanied by [[Mark Tapley]], upon whom
 I have stumbled strangely in [[London]], and who insists on putting himself
 under my protection’--meaning, my [[Love|love]],’ said Martin, breaking off
@@ -11370,7 +11370,7 @@ An English gentleman who was strongly suspected of having run away from
 a bank, with something in his possession belonging to its strong box
 besides the key, grew eloquent upon the subject of the rights of man,
 and hummed the Marseillaise [[Hymn]] constantly. In a word, one great
-sensation pervaded the whole [[Ship|ship]], and the soil of [[America]] lay close
+sensation pervaded the whole [[Ship|ship]], and the soil of [[america|America]] lay close
 before them; so close at last, that, upon a certain starlight [[Night|night]] they
 took a pilot on board, and within a few hours afterwards lay to until
 the morning, awaiting the arrival of a steamboat in which the passengers
@@ -11399,7 +11399,7 @@ is it? Very [[Well|well]]. I’m agreeable. Any land will do for me, after so mu
 CHAPTER SIXTEEN
 
 MARTIN DISEMBARKS FROM THAT NOBLE AND FAST-SAILING LINE-OF-PACKET [[Ship|SHIP]],
-‘THE SCREW’, AT THE PORT OF [[New York|NEW YORK]], IN THE UNITED STATES OF [[America|AMERICA]].
+‘THE SCREW’, AT THE PORT OF [[New York|NEW YORK]], IN THE UNITED STATES OF [[america|AMERICA]].
 HE MAKES SOME ACQUAINTANCES, AND DINES AT A BOARDING-[[house|HOUSE]]. THE
 PARTICULARS OF THOSE TRANSACTIONS
 
@@ -11874,7 +11874,7 @@ Nothing would have delighted the colonel more than to be told that
 no such man as he could walk in high [[success]] the streets of any other
 country in the world; for that would only have been a logical assurance
 to him of the correct adaptation of his labours to the prevailing taste,
-and of his being strictly and peculiarly a national feature of [[America]].
+and of his being strictly and peculiarly a national feature of [[america|America]].
 
 They walked a mile or more along a handsome street which the colonel
 said was called Broadway, and which Mr Jefferson Brick said ‘whipped the
@@ -12025,7 +12025,7 @@ commercial depression,’ said the major.
 ‘I am sorry to hear that,’ returned Martin. ‘It’s not likely to last, I
 [[Hope|hope]]?’
 
-Martin knew nothing about [[America]], or he would have known perfectly [[Well|well]]
+Martin knew nothing about [[america|America]], or he would have known perfectly [[Well|well]]
 that if its individual citizens, to a man, are to be believed, it always
 IS depressed, and always IS stagnated, and always IS at an alarming
 crisis, and never was otherwise; though as a [[Body|body]] they are ready to make
@@ -12393,7 +12393,7 @@ away, or patched into praise.’
 ‘Think of what you have seen and heard to-day, beginning with the
 colonel,’ said his friend, ‘and ask yourself. How THEY came about,
 is another question. Heaven forbid that they should be samples of the
-intelligence and virtue of [[America]], but they come uppermost, and in
+intelligence and virtue of [[america|America]], but they come uppermost, and in
 great numbers, and too often represent it. Will you walk?’
 
 There was a cordial candour in his manner, and an engaging confidence
@@ -12411,7 +12411,7 @@ lost to view, appealed in these words--
      ‘Oh, but for such, Columbia’s days were done;
      Rank without ripeness, quickened without sun,
      Crude at the surface, rotten at the core,
-     Her fruits would fall before her [[Spring|spring]] were o’er!’
+     Her fruits would fall before her [[spring]] were o’er!’
 
 
 
@@ -13023,7 +13023,7 @@ social decoration, to which he is a stranger in his own country. Let us
 [[Hope|hope]] it may awake a moral sense within him.’
 
 If that peculiarly transatlantic article, a moral sense--for, if native
-statesmen, orators, and pamphleteers, are to be believed, [[America]] quite
+statesmen, orators, and pamphleteers, are to be believed, [[america|America]] quite
 monopolises the commodity--if that peculiarly transatlantic article be
 supposed to include a benevolent [[Love|love]] of all mankind, certainly Martin’s
 would have borne, just then, a deal of waking. As he strode along
@@ -13282,7 +13282,7 @@ it were even in the old bedroom at Pecksniff’s!’
 ‘Oh, Dragon, Dragon!’ echoed Mark, cheerfully, ‘if there warn’t any
 [[Water|water]] between you and me, and nothing faint-hearted-like in going back,
 I don’t know that I mightn’t say the same. But here am I, Dragon, in
-[[New York]], [[America]]; and there are you in Wiltshire, Europe; and there’s a
+[[New York]], [[america|America]]; and there are you in Wiltshire, Europe; and there’s a
 fortune to make, Dragon, and a beautiful young lady to make it for; and
 whenever you go to see the Monument, Dragon, you mustn’t give in on the
 doorsteps, or you’ll never get up to the top!’
@@ -13331,7 +13331,7 @@ extent to which the natural laws of change asserted their supremacy
 in that limited sphere of action which Martin had deserted, shall be
 faithfully set down in these pages.
 
-‘What a cold [[Spring|spring]] it is!’ whimpered old Anthony, drawing near the
+‘What a cold [[spring]] it is!’ whimpered old Anthony, drawing near the
 evening [[Fire|fire]], ‘It was a warmer season, sure, when I was young!’
 
 ‘You needn’t go scorching your clothes into holes, whether it was or
@@ -14761,7 +14761,7 @@ on tiptoe as if, without this precaution, his fond children, being then
 at a distance of a couple of miles or so, would have some filial sense
 of his approach.
 
-It was a lovely evening in the [[Spring|spring]]-[[Time|time]] of the year; and in the soft
+It was a lovely evening in the [[spring]]-[[Time|time]] of the year; and in the soft
 stillness of the twilight, all [[Nature|nature]] was very calm and beautiful. The
 day had been fine and warm; but at the coming on of [[Night|night]], the air grew
 cool, and in the mellowing distance smoke was rising gently from the
@@ -15316,7 +15316,7 @@ approaching consummation of his fondest wishes.
 ‘A military officer,’ said Mark.
 
 ‘Confound you for a ridiculous fellow!’ cried Martin, laughing heartily
-in spite of himself. ‘What military officer? You know they [[Spring|spring]] up in
+in spite of himself. ‘What military officer? You know they [[spring]] up in
 every field.’
 
 ‘As thick as scarecrows in England, sir,’ interposed Mark, ‘which is a
@@ -15784,7 +15784,7 @@ land may be got into a dice-box, and why may not a whole territory be
 bargained for in a shed? It was but a temporary office too; for the
 Edeners were ‘going’ to build a superb establishment for the transaction
 of their business, and had already got so far as to mark out the site.
-Which is a great way in [[America]]. The office-door was wide open, and in
+Which is a great way in [[america|America]]. The office-door was wide open, and in
 the doorway was the agent; no [[Doubt|doubt]] a tremendous fellow to get through
 his work, for he seemed to have no arrears, but was swinging backwards
 and forwards in a rocking-chair, with one of his legs planted high up
@@ -15819,7 +15819,7 @@ by the name of Scadder.
 ‘Ac-tive and spry, sir, in my country’s service and the sympathetic
 cause. Two gentlemen on business, Mr Scadder.’
 
-He shook hands with each of them--nothing is done in [[America]] without
+He shook hands with each of them--nothing is done in [[america|America]] without
 shaking hands--then went on rocking.
 
 ‘I think I know what bis’ness you have brought these strangers here
@@ -15874,7 +15874,7 @@ but some geological and botanical specimens, one or two rusty ledgers, a
 homely desk, and a stool. ‘Heyday! what’s that?’
 
 ‘That’s Eden,’ said Scadder, picking his teeth with a sort of young
-bayonet that flew out of his knife when he touched a [[Spring|spring]].
+bayonet that flew out of his knife when he touched a [[spring]].
 
 ‘Why, I had no idea it was a [[City|city]].’
 
@@ -16119,7 +16119,7 @@ runs:
 
 
 ‘“SIR--I address you on behalf of the Watertoast Association of United
-Sympathisers. It is founded, sir, in the great republic of [[America]]! and
+Sympathisers. It is founded, sir, in the great republic of [[america|America]]! and
 now holds its breath, and swells the blue veins in its forehead nigh to
 bursting, as it watches, sir, with feverish intensity and sympathetic
 ardour, your noble efforts in the cause of [[Freedom]].”’
@@ -16318,7 +16318,7 @@ Lord Byron?
 
 ‘PUTNAM SMIF
 
-‘P.S.--Address your answer to [[America]] Junior, Messrs. Hancock & Floby,
+‘P.S.--Address your answer to [[america|America]] Junior, Messrs. Hancock & Floby,
 Dry Goods Store, as above.’
 
 
@@ -16596,7 +16596,7 @@ she had it all her own way, and bruised him to her heart’s content.
 It is no great matter what Mrs Hominy said, save that she had learnt it
 from the cant of a class, and a large class, of her fellow countrymen,
 who in their every word, avow themselves to be as senseless to the high
-principles on which [[America]] sprang, a nation, into life, as any Orson in
+principles on which [[america|America]] sprang, a nation, into life, as any Orson in
 her legislative halls. Who are no more capable of feeling, or of caring
 if they did feel, that by reducing their own country to the ebb of
 honest men’s contempt, they put in hazard the rights of nations yet
@@ -22349,7 +22349,7 @@ before thy elevation to the lofty seat, from which thou dealest out thy
 homilies to other tarriers for dead men’s shoes, whose duty to society
 has not begun! Oh! magistrate, so rare a country gentleman and brave a
 squire, had you no duty to society, before the ricks were blazing and
-the mob were mad; or did it [[Spring|spring]] up, armed and booted from the earth,
+the mob were mad; or did it [[spring]] up, armed and booted from the earth,
 a corps of yeomanry full-grown!
 
 Mr Pecksniff’s duty to society could not be paid till Tom came back. The
@@ -23952,7 +23952,7 @@ rooted in the British mind!’
 
 ‘Good Heaven, sir,’ cried Martin. ‘Is the Eden Land Corporation, with Mr
 Scadder at its head, and all the misery it has worked, at its door, an
-Institution of [[America]]? A part of any form of [[government]] that ever was
+Institution of [[america|America]]? A part of any form of [[government]] that ever was
 known or heard of?’
 
 ‘I con-sider the cause of this to be,’ said Pogram, looking round again
@@ -23988,7 +23988,7 @@ and the [[Tyrant]] is, that his bright [[Home|home]] is in the Settin Sun.’
 
 Part of this referred to Chollop, and part to a Western postmaster, who,
 being a public defaulter not very long before (a character not at all
-uncommon in [[America]]), had been removed from office; and on whose behalf
+uncommon in [[america|America]]), had been removed from office; and on whose behalf
 Mr Pogram (he voted for Pogram) had thundered the last sentence from
 his seat in Congress, at the head of an unpopular President. It told
 brilliantly; for the bystanders were delighted, and one of them said to
@@ -24561,7 +24561,7 @@ own case, and impress upon it how much [[Suffering|suffering]] may be prevented 
 little pains!’
 
 Cheerily, lads, cheerily! Anchor weighed. [[Ship]] in full sail. Her sturdy
-bowsprit pointing true to England. [[America]] a cloud upon the sea behind
+bowsprit pointing true to England. [[america|America]] a cloud upon the sea behind
 them!
 
 ‘Why, Cook! what are you thinking of so steadily?’ said Martin.
@@ -26260,7 +26260,7 @@ very small one in her case, that she might have been excused for looking
 sharp after it, lest it should entirely vanish from her sight--had taken
 a firm hold on Mrs Todgers’s attention. But in some odd nook in Mrs
 Todgers’s breast, up a great many steps, and in a corner easy to be
-overlooked, there was a secret door, with ‘Woman’ written on the [[Spring|spring]],
+overlooked, there was a secret door, with ‘Woman’ written on the [[spring]],
 which, at a touch from [[Mercy]]’s hand, had flown wide open, and admitted
 her for shelter.
 
@@ -29397,11 +29397,11 @@ too, for the light required a deal of trimming.
 
 ‘Where did he go, ma’am?’ asked the traveller, in a gentler voice.
 
-‘He went,’ said Mrs Lupin, with increased distress, ‘to [[America]]. He was
+‘He went,’ said Mrs Lupin, with increased distress, ‘to [[america|America]]. He was
 always tender-hearted and kind, and perhaps at this moment may be lying
 in [[Prison|prison]] under sentence of [[Death|death]], for taking pity on some miserable
 black, and helping the poor runaway creetur to escape. How could he ever
-go to [[America]]! Why didn’t he go to some of those countries where the
+go to [[america|America]]! Why didn’t he go to some of those countries where the
 savages eat each other fairly, and give an equal chance to every one!’
 
 Quite subdued by this [[Time|time]], Mrs Lupin sobbed, and was retiring to a
@@ -29528,7 +29528,7 @@ Pecksniff’s young gentlemen were the life and [[Soul|soul]] of the Dragon, and
 that without them it would be too dull to live in--little did I ever
 think I am sure, that any one of them would ever make so free as you, Mr
 Martin! And still less that I shouldn’t be angry with him, but should be
-glad with all my heart to be the first to welcome him [[Home|home]] from [[America]],
+glad with all my heart to be the first to welcome him [[Home|home]] from [[america|America]],
 with [[Mark Tapley]] for his--’
 
 ‘For his friend, Mrs Lupin,’ interposed Martin.
@@ -30762,7 +30762,7 @@ it was a good thing for that same paved yard to have such a delicate
 little figure flitting through it; that it passed like a smile from the
 grimy old houses, and the worn flagstones, and left them duller, darker,
 sterner than before; there is no sort of [[Doubt|doubt]]. The Temple fountain
-might have leaped up twenty feet to greet the [[Spring|spring]] of hopeful
+might have leaped up twenty feet to greet the [[spring]] of hopeful
 maidenhood, that in her person stole on, sparkling, through the dry and
 dusty channels of the Law; the chirping sparrows, bred in Temple
 chinks and crannies, might have held their peace to listen to imaginary
@@ -37196,7 +37196,7 @@ over and over again, in Monument Yard.
 ‘Neighbours, WHERE? old Martin shouted; almost maddened by his
 ineffectual efforts to get out at the coach-door.
 
-‘Neighbours in [[America]]! Neighbours in Eden!’ cried Mark. ‘Neighbours in
+‘Neighbours in [[america|America]]! Neighbours in Eden!’ cried Mark. ‘Neighbours in
 the swamp, neighbours in the bush, neighbours in the fever. Didn’t she
 [[Nurse|nurse]] us! Didn’t he help us! Shouldn’t we both have died without ‘em!
 Haven’t they come a-strugglin’ back, without a single [[Child|child]] for their

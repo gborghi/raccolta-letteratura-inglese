@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The [[Ghost]] of Gideon Wise (part 5)"
+title: "incredulity Fr Brown — The Ghost of Gideon Wise (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity_fr_brown/story_09_the_ghost_of_gideon_wise/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity_fr_brown/story_09_the_ghost_of_gideon_wise/part_06">part 06 ›</a></div>
 </nav>
 
+
+'And it was Gideon Wise, you say?'
+
+[[Home]] nodded without speech. There was a [[Silence|silence]] broken abruptly by Nares
+rising to his feet; so abruptly indeed that he knocked a chair over.
+
+'Oh, this is all nonsense,' he said, 'but we'd better go out and see.'
+
+'I won't go,' said [[Home]] with sudden violence. 'I'll never walk by that
+path again.'
+
+'I think we must all walk by that path tonight,' said the priest
+gravely; 'though I will never deny it has been a perilous path ... to
+more people than one.'
+
+'I will not... God, how you all goad me,' cried [[Home]], and his eyes began
+to roll in a strange fashion. He had risen with the rest, hut he made no
+motion towards the door.
 
 'Mr [[Home]],' said Nares firmly, 'I am a police - officer, and this [[house]],
 though you may not know it, is surrounded by the police. I have tried to
@@ -120,32 +138,3 @@ landscape that was empty except for the black square back and business -
 like figure of the priest advancing [[Alone|alone]] towards it. Then the prisoner
 [[Home]] broke suddenly from his captors with a piercing cry and ran ahead
 of the priest, falling on his knees before the spectre.
-
-'I have confessed,' they heard him crying. 'Why have you come to tell
-them I killed you?'
-
-'I have come to tell them you did not,' said the [[Ghost|ghost]], and stretched
-forth a hand to him. Then the kneeling man sprang up with quite a new
-kind of scream; and they knew it was the hand of flesh.
-
-It was the most remarkable escape from [[Death|death]] in recent records, said the
-experienced [[Detective|detective]] and the no less experienced journalist. Yet, in a
-sense, it had been very simple after all. Flakes and shards of the cliff
-were continually falling away, and some had caught in the gigantic
-crevice, so as to form what was really a ledge or pocket in what was
-supposed to be a sheer drop through darkness to the sea. The old man,
-who was a very tough and wiry old man, had fallen on this lower shoulder
-of rock and had passed a pretty terrible twenty - four hours in trying
-to climb back by crags that constantly collapsed under him, but at
-length formed by their very ruins a sort of stairway of escape. This
-might be the explanation of [[Home]]'s optical illusion about a white wave
-that appeared and disappeared, and finally came to stay. But anyhow
-there was Gideon Wise, solid in bone and sinew, with his white hair and
-white dusty country clothes and harsh country features, which were,
-however, a great deal less harsh than usual. Perhaps it is good for
-millionaires to spend twenty - four hours on a ledge of rock within a
-foot of [[Eternity|eternity]]. Anyhow, he not only disclaimed all malice against the
-criminal, but gave an account of the matter which considerably modified
-the crime. He declared that [[Home]] had not thrown him over at all; that
-the continually breaking ground had given way under him, and that [[Home]]
-had even made some movement as of attempted rescue.

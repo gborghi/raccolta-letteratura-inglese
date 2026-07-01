@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 54 (part 6)"
+title: "Bleak House — Chapter 54 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_54/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_54/part_07">part 07 ›</a></div>
 </nav>
 
+
+Mr. Bucket merely shakes the finger at her.
+
+“Ah, my God, you are an unhappy idiot!” cries mademoiselle with a
+toss of her head and a laugh. “Leave me to pass downstairs, great
+pig.” With a stamp of her foot and a menace.
 
 “Now, mademoiselle,” says Mr. Bucket in a cool determined way, “you
 go and sit down upon that sofy.”

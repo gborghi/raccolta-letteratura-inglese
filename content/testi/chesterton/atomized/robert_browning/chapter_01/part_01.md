@@ -18,7 +18,6 @@ CHAPTER I
 
 BROWNING IN EARLY LIFE
 
-
 On the subject of Browning's work innumerable things have been said
 and remain to be said; of his life, considered as a narrative of
 facts, there is little or nothing to say. It was a lucid and public

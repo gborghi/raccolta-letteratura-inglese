@@ -14,6 +14,42 @@ tags:
 </nav>
 
 
+"You will pull down that old swing, I suppose?" he had said as they
+went through the [[Garden|garden]], "and put up an electric steel swing
+that will take anybody in ten seconds to the [[Moon|moon]]."
+
+"I can't pull down the [[Moon|moon]], anyhow," replied the girl, with a smile,
+"and I don't know that I want to."
+
+"That's rather reactionary of you," remarked Mallow.  "The [[Moon|moon]] is
+a very extinct volcano, valuable only to old-fashioned romanticists.
+And I suppose you'll turn our old lawn-tennis lawn into a place
+where tennis can be played by machinery, by pressing buttons
+a hundred miles away.  I'm not sure whether they've yet finished
+the plans for a pear-tree that grows pears by electricity."
+
+"But surely," she replied, looking a little troubled, "the world can go
+on without losing the things it seems to leave behind.  And, after all,
+surely the world must go on; at least, it must go on growing.
+I think that's where you misunderstand.  It isn't only going on;
+it's more like growing outwards.
+
+"It's expansion, that's the word; growing broader, always describing
+wider and wider circles; but that only means more [[Self|self]]-fulfilment,
+and therefore serenity and peace; it means..."
+
+She stopped short, as if at a spoken answer, but it was
+only because the [[Moon|moon]] had flung a new [[Shadow|shadow]] across her.
+It was from a figure standing on the wall.  The moonshine made a halo
+of pale yellow round the head; and for a moment they thought it
+was the Russian, standing on the wall as he had stood on the roof.
+Then Mallow looked more closely at the face in [[Shadow|shadow]], and uttered,
+with some astonishment, the name of Gale.
+
+"You must get away from here at once," said the poet sharply;
+"everybody who can must get away from this [[house]].  There's no
+[[Time|time]] to explain."
+
 As he spoke, he sprang from the wall and alighted beside them,
 and his friend, catching his face in a new light, saw that it
 was quite pale.
@@ -102,30 +138,3 @@ we cease to be ourselves, and, perhaps, to be anything.
 That was when I asked you whether an isosceles triangle felt itself
 in [[Prison|prison]], and if there were such a thing as a round [[Prison|prison]].
 We shall hear more of the round [[Prison|prison]] before this story is over.
-
-"Then I saw the man on the roof, with his hands spread like wings
-to the sky.  I knew nothing of him; but I knew on the instant
-that he was the man who had given a bird its [[Freedom|freedom]] at any risk.
-As we went down the [[Hill|hill]] I heard a little more about him;
-how he had escaped by blowing up his [[Prison|prison]]; and I felt that one fact
-had filled all his life with a [[philosophy]] of emancipation and escape.
-Always at the back of his mind, I was certain, was that one bursting
-moment when he saw white daylight shining through the shattered wall.
-I knew why he let [[Birds|birds]] out of cages and why he had written a book
-on the psychology of liberty.  Then I stopped outside a [[Window|window]]
-to stare at those gorgeous goldfish, merely because I had a fancy
-for such things; they coloured my thoughts, so to speak, with a sort
-of orange or scarlet, for long afterwards.  And long afterwards I
-was again passing that [[Window|window]]; and I found their colours were faded
-and their positions changed.  At that [[Time|time]] it was already dark,
-with a rising [[Moon|moon]]; and what forms I could see scattered in the [[Shadow|shadow]]
-seemed almost grey, and even outlined in lines of grey light,
-which might have been moonlight, but I think was the corpse-light
-of phosphorescence.  They lay scattered at random on the round table;
-and I saw by the faint glimmer that the glass bowl was broken.
-So I found my [[Romance|romance]] when I returned to it; for those fantastic
-fishes had been to me like the hieroglyphics of a message,
-which the fiery finger of God had thus written in red-hot gold.
-But when I looked again, the finger had written another lesson in letters
-of an awful and ashen silver.  And what the new message said was:
-'The man is mad.'

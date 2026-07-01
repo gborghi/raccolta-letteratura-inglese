@@ -1,5 +1,5 @@
 ---
-title: "[[Well]] And Shallows"
+title: "Well And Shallows"
 author: "Chesterton"
 unitType: work
 parentWork: "works/well-and-shallows-(chesterton)"
@@ -2080,7 +2080,7 @@ rather snappishly, "At least I suppose we are men of science;
 there is science to appeal to and she will always answer;
 the evidential and experimental discovery of real things."
 And the other sceptic will answer, if he has any sense of [[Humour|humour]]:
-"Why certainly.  Sir [[Arthur]] Eddington is Science; and he will
+"Why certainly.  Sir [[arthur|Arthur]] Eddington is Science; and he will
 tell you that science cannot destroy religion, or even defend
 the multiplication table.  Sir [[Bertram]] Windle was Science;
 and he would tell you that the scientific mind is completely
@@ -5539,7 +5539,7 @@ Many of his concessions are as graceful as any that he himself
 praises in the chronicles of the tournament or the tented field.
 But he was very far from being merely an amiable old antiquary
 haunting Melrose by moonlight; or even a dazed [[Don Quixote]]
-with his head hidden in folios about [[Arthur]] and Amadis of Gaul.
+with his head hidden in folios about [[arthur|Arthur]] and Amadis of Gaul.
 I cannot resist making another quotation which will serve
 to show that Kenelm Digby was not by any means unconscious
 of what was going on in his own [[Time|time]]--and, I will add,

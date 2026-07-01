@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 35: DEPRESSION (part 5)"
+title: "David Copperfield — Chapter 35: DEPRESSION (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,32 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_35_depression/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_35_depression/part_06">part 06 ›</a></div>
 </nav>
 
+
+‘And now they are partners,’ said I. ‘Confound him!’
+
+‘Yes,’ said Agnes. ‘They have some business here; and I took advantage
+of their coming, to come too. You must not think my visit all friendly
+and disinterested, Trotwood, for--I am afraid I may be cruelly
+prejudiced--I do not like to let papa go away [[Alone|alone]], with him.’ ‘Does he
+exercise the same influence over Mr. Wickfield still, Agnes?’
+
+Agnes shook her head. ‘There is such a change at [[Home|home]],’ said she, ‘that
+you would scarcely know the dear old [[house]]. They live with us now.’
+
+‘They?’ said I.
+
+‘Mr. Heep and his mother. He sleeps in your old room,’ said Agnes,
+looking up into my face.
+
+‘I wish I had the ordering of his [[Dreams|dreams]],’ said I. ‘He wouldn’t [[Sleep|sleep]]
+there long.’
+
+‘I keep my own little room,’ said Agnes, ‘where I used to learn my
+lessons. How the [[Time|time]] goes! You remember? The little panelled room that
+opens from the drawing-room?’
+
+‘Remember, Agnes? When I saw you, for the first [[Time|time]], coming out at the
+door, with your quaint little basket of keys hanging at your side?’
 
 ‘It is just the same,’ said Agnes, smiling. ‘I am glad you think of it
 so pleasantly. We were very happy.’
@@ -100,29 +126,3 @@ at the other end of the world, and tumbled into space, for what I know;
 anyhow, it fell to pieces, and never will and never can pay sixpence;
 and Betsey’s sixpences were all there, and there’s an end of them. Least
 said, soonest mended!’
-
-My aunt concluded this philosophical summary, by fixing her eyes with a
-kind of triumph on Agnes, whose colour was gradually returning.
-
-‘Dear Miss Trotwood, is that all the [[history]]?’ said Agnes.
-
-‘I [[Hope|hope]] it’s enough, [[Child|child]],’ said my aunt. ‘If there had been more
-money to lose, it wouldn’t have been all, I dare say. Betsey would have
-contrived to throw that after the rest, and make another chapter, I have
-little [[Doubt|doubt]]. But there was no more money, and there’s no more story.’
-
-Agnes had listened at first with suspended breath. Her colour still came
-and went, but she breathed more freely. I thought I knew why. I thought
-she had had some [[Fear|fear]] that her unhappy father might be in some way to
-blame for what had happened. My aunt took her hand in hers, and laughed.
-
-‘Is that all?’ repeated my aunt. ‘Why, yes, that’s all, except, “And she
-lived happy ever afterwards.” Perhaps I may add that of Betsey yet, one
-of these days. Now, Agnes, you have a wise head. So have you, Trot, in
-some things, though I can’t compliment you always’; and here my aunt
-shook her own at me, with an energy peculiar to herself. ‘What’s to be
-done? Here’s the cottage, taking one [[Time|time]] with another, will produce
-say seventy pounds a year. I think we may safely put it down at
-that. [[Well]]!--That’s all we’ve got,’ said my aunt; with whom it was an
-idiosyncrasy, as it is with some horses, to stop very short when she
-appeared to be in a fair way of going on for a long while.

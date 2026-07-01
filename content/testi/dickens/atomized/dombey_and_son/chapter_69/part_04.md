@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 13 (part 4)"
+title: "Dombey and Son — Chapter 41 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -10,140 +10,121 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/dombey-and-son-(dickens)">Dombey and Son</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_69/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_69/part_05">part 05 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_69/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_70/part_01">part 01 ›</a></div>
 </nav>
 
 
-Generous and quick in all his emotions, and regarding himself as the
-[[Innocent|innocent]] occasion of these taunts, Walter now struck in, with all the
-earnestness he felt.
+A [[Shadow|shadow]] even on that shadowed face, a sharpening even of the sharpened
+features, and a thickening of the veil before the eyes into a pall that
+shuts out the dim world, is come. Her wandering hands upon the coverlet
+join feebly palm to palm, and move towards her daughter; and a voice
+not like hers, not like any voice that speaks our mortal language—says,
+“For I nursed you!”
 
-“Mr Carker,” he said, addressing himself to the Manager. “Indeed,
-indeed, this is my fault solely. In a kind of heedlessness, for which I
-cannot blame myself enough, I have, I have no [[Doubt|doubt]], mentioned Mr
-Carker the Junior much oftener than was necessary; and have allowed his
-name sometimes to slip through my lips, when it was against your
-expressed wish. But it has been my own mistake, Sir. We have never
-exchanged one word upon the subject—very few, indeed, on any subject.
-And it has not been,” added Walter, after a moment’s pause, “all
-heedlessness on my part, Sir; for I have felt an interest in Mr Carker
-ever since I have been here, and have hardly been able to help speaking
-of him sometimes, when I have thought of him so much!”
+Edith, without a tear, kneels down to bring her voice closer to the
+sinking head, and answers:
 
-Walter said this from his [[Soul|soul]], and with the very breath of [[Honour|honour]]. For
-he looked upon the bowed head, and the downcast eyes, and upraised
-hand, and thought, “I have felt it; and why should I not avow it in
-behalf of this unfriended, broken man!”
+“Mother, can you hear me?”
 
-Mr Carker the Manager looked at him, as he spoke, and when he had
-finished speaking, with a smile that seemed to divide his face into two
-parts.
+Staring wide, she tries to nod in answer.
 
-“You are an excitable youth, Gay,” he said; “and should endeavour to
-cool down a little now, for it would be unwise to encourage feverish
-predispositions. Be as cool as you can, Gay. Be as cool as you can. You
-might have asked Mr John Carker himself (if you have not done so)
-whether he claims to be, or is, an object of such strong interest.”
+“Can you recollect the [[Night|night]] before I married?”
 
-“James, do me justice,” said his brother. “I have claimed nothing; and
-I claim nothing. Believe me, on my—”
+The head is motionless, but it expresses somehow that she does.
 
-“[[Honour]]?” said his brother, with another smile, as he warmed himself
-before the [[Fire|fire]].
+“I told you then that I forgave your part in it, and prayed God to
+forgive my own. I told you that [[Time|time]] past was at an end between us. I
+say so now, again. Kiss me, mother.”
 
-“On my Me—on my fallen life!” returned the other, in the same low
-voice, but with a deeper stress on his words than he had yet seemed
-capable of giving them. “Believe me, I have held myself aloof, and kept
-[[Alone|alone]]. This has been unsought by me. I have avoided him and everyone.
+Edith touches the white lips, and for a moment all is still. A moment
+afterwards, her mother, with her girlish laugh, and the [[skeleton]] of the
+[[Cleopatra]] manner, rises in her bed.
 
-“Indeed, you have avoided me, Mr Carker,” said Walter, with the [[Tears|tears]]
-rising to his eyes; so true was his compassion. “I know it, to my
-disappointment and regret. When I first came here, and ever since, I am
-sure I have tried to be as much your friend, as one of my age could
-presume to be; but it has been of no use.
+Draw the [[Rose|rose]]-coloured curtains. There is something else upon its
+flight besides the [[Wind|wind]] and clouds. Draw the [[Rose|rose]]-coloured curtains
+close!
 
-“And observe,” said the Manager, taking him up quickly, “it will be of
-still less use, Gay, if you persist in forcing Mr John Carker’s name on
-people’s attention. That is not the way to befriend Mr John Carker. Ask
-him if he thinks it is.”
+Intelligence of the event is sent to Mr Dombey in town, who waits upon
+Cousin Feenix (not yet able to make up his mind for Baden-Baden), who
+has just received it too. A good-natured creature like Cousin Feenix is
+the very man for a [[Marriage|marriage]] or a funeral, and his position in the
+family renders it right that he should be consulted.
 
-“It is no service to me,” said the brother. “It only leads to such a
-conversation as the present, which I need not say I could have [[Well|well]]
-spared. No one can be a better friend to me:” he spoke here very
-distinctly, as if he would impress it upon Walter: “than in forgetting
-me, and leaving me to go my way, unquestioned and unnoticed.”
+“Dombey,” said Cousin Feenix, “upon my [[Soul|soul]], I am very much shocked to
+see you on such a [[Melancholy|melancholy]] occasion. My poor aunt! She was a devilish
+lively woman.”
 
-“Your [[Memory|memory]] not being retentive, Gay, of what you are told by others,”
-said Mr Carker the Manager, warming himself with great and increased
-satisfaction, “I thought it [[Well|well]] that you should be told this from the
-best authority,” nodding towards his brother. “You are not likely to
-forget it now, I [[Hope|hope]]. That’s all, Gay. You can go.”
+Mr Dombey replies, “Very much so.”
 
-Walter passed out at the door, and was about to close it after him,
-when, hearing the voices of the brothers again, and also the mention of
-his own name, he stood irresolutely, with his hand upon the lock, and
-the door ajar, uncertain whether to return or go away. In this position
-he could not help overhearing what followed.
+“And made up,” says Cousin Feenix, “really young, you know,
+considering. I am sure, on the day of your [[Marriage|marriage]], I thought she was
+good for another twenty years. In point of fact, I said so to a man at
+Brooks’s—little Billy Joper—you know him, no [[Doubt|doubt]]—man with a glass in
+his eye?”
 
-“Think of me more leniently, if you can, James,” said John Carker,
-“when I tell you I have had—how could I help having, with my [[history]],
-written here”—striking himself upon the breast—“my whole heart awakened
-by my observation of that boy, [[Walter Gay]]. I saw in him when he first
-came here, almost my other [[Self|self]].”
+Mr Dombey bows a negative. “In reference to the obsequies,” he hints,
+“whether there is any suggestion—”
 
-“Your other [[Self|self]]!” repeated the Manager, disdainfully.
+“[[Well]], upon my life,” says Cousin Feenix, stroking his chin, which he
+has just enough of hand below his wristbands to do; “I really don’t
+know. There’s a Mausoleum down at my place, in the park, but I’m afraid
+it’s in bad repair, and, in point of fact, in a devil of a state. But
+for being a little out at elbows, I should have had it put to rights;
+but I believe the people come and make pic-nic parties there inside the
+iron railings.”
 
-“Not as I am, but as I was when I first came here too; as sanguine,
-giddy, youthful, inexperienced; flushed with the same restless and
-adventurous fancies; and full of the same qualities, fraught with the
-same capacity of leading on to good or evil.”
+Mr Dombey is clear that this won’t do.
 
-“I [[Hope|hope]] not,” said his brother, with some hidden and sarcastic meaning
-in his tone.
+“There’s an uncommon good church in the village,” says Cousin Feenix,
+thoughtfully; “pure specimen of the Anglo-Norman style, and admirably
+[[Well|well]] sketched too by Lady Jane Finchbury—woman with tight stays—but
+they’ve spoilt it with whitewash, I understand, and it’s a long
+[[Journey|journey]].”
 
-“You strike me sharply; and your hand is steady, and your thrust is
-very deep,” returned the other, speaking (or so Walter thought) as if
-some cruel weapon actually stabbed him as he spoke. “I imagined all
-this when he was a boy. I believed it. It was a [[Truth|truth]] to me. I saw him
-lightly walking on the edge of an unseen gulf where so many others walk
-with equal gaiety, and from which—”
+“Perhaps Brighton itself,” Mr Dombey suggests.
 
-“The old excuse,” interrupted his brother, as he stirred the [[Fire|fire]]. “So
-many. Go on. Say, so many fall.”
+“Upon my [[Honour|honour]], Dombey, I don’t think we could do better,” says Cousin
+Feenix. “It’s on the spot, you see, and a very cheerful place.”
 
-“From which ONE traveller fell,” returned the other, “who set forward,
-on his way, a boy like him, and missed his footing more and more, and
-slipped a little and a little lower; and went on stumbling still, until
-he fell headlong and found himself below a shattered man. Think what I
-suffered, when I watched that boy.”
+“And when,” hints Mr Dombey, “would it be convenient?”
 
-“You have only yourself to thank for it,” returned the brother.
+“I shall make a point,” says Cousin Feenix, “of pledging myself for any
+day you think best. I shall have great pleasure ([[Melancholy|melancholy]] pleasure,
+of course) in following my poor aunt to the confines of the—in point of
+fact, to the [[Grave|grave]],” says Cousin Feenix, failing in the other turn of
+speech.
 
-“Only myself,” he assented with a sigh. “I don’t seek to divide the
-blame or shame.”
+“Would Monday do for leaving town?” says Mr Dombey.
 
-“You have divided the shame,” [[James Carker]] muttered through his teeth.
-And, through so many and such close teeth, he could mutter [[Well|well]].
+“Monday would suit me to perfection,” replies Cousin Feenix. Therefore
+Mr Dombey arranges to take Cousin Feenix down on that day, and
+presently takes his leave, attended to the stairs by Cousin Feenix, who
+says, at parting, “I’m really excessively sorry, Dombey, that you
+should have so much trouble about it;” to which Mr Dombey answers, “Not
+at all.”
 
-“Ah, James,” returned his brother, speaking for the first [[Time|time]] in an
-accent of reproach, and seeming, by the sound of his voice, to have
-covered his face with his hands, “I have been, since then, a useful
-foil to you. You have trodden on me freely in your climbing up. Don’t
-spurn me with your heel!”
+At the appointed [[Time|time]], Cousin Feenix and Mr Dombey meet, and go down to
+Brighton, and representing, in their two selves, all the other mourners
+for the deceased lady’s loss, attend her remains to their place of
+rest. Cousin Feenix, sitting in the mourning-coach, recognises
+innumerable acquaintances on the [[Road|road]], but takes no other notice of
+them, in decorum, than checking them off aloud, as they go by, for Mr
+Dombey’s information, as “Tom Johnson. Man with cork leg, from White’s.
+What, are you here, Tommy? Foley on a [[Blood|blood]] mare. The Smalder
+girls”—and so forth. At the ceremony Cousin Feenix is depressed,
+observing, that these are the occasions to make a man think, in point
+of fact, that he is getting shaky; and his eyes are really moistened,
+when it is over. But he soon recovers; and so do the rest of Mrs
+Skewton’s relatives and friends, of whom the Major continually tells
+the club that she never did wrap up enough; while the young lady with
+the back, who has so much trouble with her eyelids, says, with a little
+scream, that she must have been enormously old, and that she died of
+all kinds of horrors, and you mustn’t mention it.
 
-A [[Silence|silence]] ensued. After a [[Time|time]], Mr Carker the Manager was heard
-rustling among his papers, as if he had resolved to bring the interview
-to a conclusion. At the same [[Time|time]] his brother withdrew nearer to the
-door.
-
-“That’s all,” he said. “I watched him with such trembling and such
-[[Fear|fear]], as was some little punishment to me, until he passed the place
-where I first fell; and then, though I had been his father, I believe I
-never could have thanked God more devoutly. I didn’t dare to warn him,
-and advise him; but if I had seen direct cause, I would have shown him
-my example. I was afraid to be seen speaking with him, lest it should
-be thought I did him harm, and tempted him to evil, and corrupted him:
-or lest I really should. There may be such contagion in me; I don’t
-know. Piece out my [[history]], in connexion with young [[Walter Gay]], and
-what he has made me feel; and think of me more leniently, James, if you
-can.”
+So Edith’s mother lies unmentioned of her dear friends, who are deaf to
+the waves that are hoarse with repetition of their mystery, and blind
+to the [[Dust|dust]] that is piled upon the shore, and to the white arms that
+are beckoning, in the moonlight, to the invisible country far away. But
+all goes on, as it was wont, upon the margin of the unknown sea; and
+Edith standing there [[Alone|alone]], and listening to its waves, has dank weed
+cast up at her feet, to strew her path in life withal.

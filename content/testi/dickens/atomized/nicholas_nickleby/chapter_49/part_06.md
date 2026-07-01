@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 49 (part 6)"
+title: "Nicholas Nickleby — Chapter 49 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_49/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_50/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘Kate,’ murmured Mrs. Nickleby, reviving when the coast was clear, ‘is he
+gone?’
 
 She was assured that he was.
 

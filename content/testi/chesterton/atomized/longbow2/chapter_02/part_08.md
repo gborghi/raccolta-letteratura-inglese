@@ -1,5 +1,5 @@
 ---
-title: "[[longbow2]] — Chapter 2 (part 8)"
+title: "longbow2 — Chapter 2 (part 8)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -114,11 +114,11 @@ Is he something like Old Moore?"
 It's what he said that's so important.  He didn't like my moping
 about with books and a fishing-rod, and he said, standing on that
 very island, `You may know a lot; but I don't think you'll ever set
-the Thames on [[Fire|fire]].  I'll eat my hat if you do.'"
+the Thames on fire.  I'll eat my hat if you do.'"
 
 But the story of how Old Crane ate his hat is one upon which some readers
-at least can look back as on labour and [[Suffering|suffering]] bravely endured. 
-And if it be possible for any of them to [[Desire|desire]] to know any more
+at least can look back as on labour and suffering bravely endured. 
+And if it be possible for any of them to desire to know any more
 either about Mr. Crane or Mr. Hood, then they must gird themselves
 for the ordeal of reading the story of The Unobtrusive Traffic
-of Captain Pierce, and their trials are for a [[Time|time]] deferred.
+of Captain Pierce, and their trials are for a time deferred.

@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 36 (part 4)"
+title: "Bleak House — Chapter 36 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_36/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_36/part_05">part 05 ›</a></div>
 </nav>
 
+
+“Has he any suspicions?”
+
+“Many.”
+
+“Not of you?” I said alarmed.
+
+“Yes! He is always vigilant and always near me. I may keep him at a
+standstill, but I can never shake him off.”
 
 “Has he so little pity or compunction?”
 
@@ -122,17 +131,3 @@ of a proud family name. That I was so confused and shaken as to be
 possessed by a belief that it was right and had been intended that I
 should die in my birth, and that it was wrong and not intended that I
 should be then alive.
-
-These are the real feelings that I had. I fell asleep worn out, and
-when I awoke I cried afresh to think that I was back in the world
-with my load of trouble for others. I was more than ever frightened
-of myself, thinking anew of her against whom I was a witness, of the
-owner of Chesney Wold, of the new and terrible meaning of the old
-words now moaning in my ear like a surge upon the shore, “Your
-mother, Esther, was your disgrace, and you are hers. The [[Time|time]] will
-come—and soon enough—when you will understand this better, and will
-feel it too, as no one save a woman can.” With them, those other
-words returned, “Pray daily that the sins of others be not visited
-upon your head.” I could not disentangle all that was about me, and I
-felt as if the blame and the shame were all in me, and the visitation
-had come down.

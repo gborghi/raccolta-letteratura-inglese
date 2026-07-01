@@ -1,5 +1,5 @@
 ---
-title: "[[GKC-Autobiography]] — Chapter 1 (part 2)"
+title: "GKC-Autobiography — Chapter 1 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/gkc-autobiography-(chesterton)"
@@ -116,13 +116,3 @@ that about the age of three or four, I screamed for a hat hanging
 on a peg, and at last in convulsions of fury uttered the awful words,
 "If you don't give it me, I'll say 'at." I felt sure that would
 lay all my relations prostrate for miles around.
-
-And this care about [[Education|education]] and diction, though I can see
-much to criticise in it now, did really have its good side.
-It meant that my father knew all his English literature backwards,
-and that I knew a great deal of it by heart, long before I could
-really get it into my head.  I knew pages of Shakespeare's
-[[Blank Verse|blank verse]] without a notion of the meaning of most of it;
-which is perhaps the right way to begin to appreciate verse.
-And it is also recorded of me that, at the age of six or seven,
-I tumbled down in the street in the act of excitedly reciting the words,

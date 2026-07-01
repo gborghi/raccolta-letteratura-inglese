@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 37 (part 5)"
+title: "Bleak House — Chapter 37 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,38 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_37/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_37/part_06">part 06 ›</a></div>
 </nav>
 
+
+“[[Richard]],” said I, “you place great confidence in me, but I [[Fear|fear]] you
+will not take advice from me?”
+
+“It’s impossible that I can on this subject, my dear girl. On any
+other, readily.”
+
+As if there were any other in his life! As if his whole career and
+character were not being dyed one colour!
+
+“But I may ask you a question, [[Richard]]?”
+
+“I think so,” said he, laughing. “I don’t know who may not, if you
+may not.”
+
+“You say, yourself, you are not leading a very settled life.”
+
+“How can I, my dear Esther, with nothing settled!”
+
+“Are you in debt again?”
+
+“Why, of course I am,” said [[Richard]], astonished at my simplicity.
+
+“Is it of course?”
+
+“My dear [[Child|child]], certainly. I can’t throw myself into an object so
+completely without expense. You forget, or perhaps you don’t know,
+that under either of the wills Ada and I take something. It’s only a
+question between the larger sum and the smaller. I shall be within
+the mark any way. Bless your heart, my excellent girl,” said [[Richard]],
+quite amused with me, “I shall be all right! I shall pull through, my
+dear!”
 
 I felt so deeply sensible of the danger in which he stood that I
 tried, in Ada’s name, in my guardian’s, in my own, by every fervent
@@ -111,27 +143,3 @@ tell me I owe more than that. I dare say I do. I dare say I owe as
 much as good-natured people will let me owe. If they don’t stop, why
 should I? There you have [[Harold Skimpole]] in little. If that’s
 responsibility, I am responsible.”
-
-The perfect ease of manner with which he put the money up again and
-looked at me with a smile on his refined face, as if he had been
-mentioning a curious little fact about somebody else, almost made me
-feel as if he really had nothing to do with it.
-
-“Now, when you mention responsibility,” he resumed, “I am disposed to
-say that I never had the happiness of knowing any one whom I should
-consider so refreshingly responsible as yourself. You appear to me
-to be the very [[Touchstone|touchstone]] of responsibility. When I see you, my
-dear Miss Summerson, intent upon the perfect working of the whole
-little orderly system of which you are the centre, I feel inclined
-to say to myself—in fact I do say to myself very often—THAT’S
-responsibility!”
-
-It was difficult, after this, to explain what I meant; but I
-persisted so far as to say that we all hoped he would check and not
-confirm [[Richard]] in the sanguine views he entertained just then.
-
-“Most willingly,” he retorted, “if I could. But, my dear Miss
-Summerson, I have no art, no disguise. If he takes me by the hand and
-leads me through Westminster Hall in an airy procession after
-fortune, I must go. If he says, ‘Skimpole, join the [[Dance|dance]]!’ I must
-join it. Common sense wouldn’t, I know, but I have NO common sense.”

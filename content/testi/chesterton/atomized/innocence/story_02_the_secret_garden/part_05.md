@@ -1,5 +1,5 @@
 ---
-title: "[[innocence]] — The Secret [[Garden]] (part 5)"
+title: "innocence — The Secret Garden (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_06">part 06 ›</a></div>
 </nav>
 
+
+For Neil O'Brien, indeed, that gesture was the turning-point of existence.
+By the [[Time|time]] he was wandering in the mysterious [[Garden|garden]] again in
+the colours of the morning the tragic futility of his ordinary mien
+had fallen from him; he was a man with many reasons for happiness.
+Lord Galloway was a gentleman, and had offered him an apology.
+Lady Margaret was something better than a lady, a woman at least,
+and had perhaps given him something better than an apology,
+as they drifted among the old flowerbeds before breakfast.
+The whole company was more lighthearted and humane, for though
+the [[Riddle|riddle]] of the [[Death|death]] remained, the load of suspicion was lifted off
+them all, and sent flying off to [[Paris]] with the strange millionaire--
+a man they hardly knew.  The devil was cast out of the [[house]]--
+he had cast himself out.
 
 Still, the [[Riddle|riddle]] remained; and when O'Brien threw himself on a [[Garden|garden]]
 seat beside Dr. Simon, that keenly scientific person at once resumed it.
@@ -115,24 +129,3 @@ silver [[Fire|fire]] in the red and level morning light; the face,
 which seemed of an ugly, empurpled and perhaps criminal type,
 had been much battered against trees or stones as it tossed
 in the [[Water|water]].
-
-"Good morning, Commandant O'Brien," said Valentin, with quiet cordiality.
-"You have heard of Brayne's last experiment in butchery, I suppose?"
-
-[[Father Brown]] was still bending over the head with white hair,
-and he said, without looking up:
-
-"I suppose it is quite certain that Brayne cut off this head, too."
-
-"[[Well]], it seems common sense," said Valentin, with his hands in his pockets.
-"Killed in the same way as the other.  Found within a few yards of the other.
-And sliced by the same weapon which we know he carried away."
-
-"Yes, yes; I know," replied [[Father Brown]] submissively.
-"Yet, you know, I [[Doubt|doubt]] whether Brayne could have cut
-off this head."
-
-"Why not?" inquired Dr. Simon, with a rational stare.
-
-"[[Well]], doctor," said the priest, looking up blinking, "can a man
-cut off his own head?  I don't know."

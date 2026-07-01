@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 58 (part 4)"
+title: "Bleak House — Chapter 58 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_58/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_58/part_05">part 05 ›</a></div>
 </nav>
 
+
+[[Volumnia]] understands him perfectly, and in [[Truth|truth]] he delivers himself
+with far greater plainness than could have been supposed possible a
+minute ago. The effort by which he does so is written in the anxious
+and labouring expression of his face. Nothing but the strength of his
+purpose enables him to make it.
 
 “Therefore, [[Volumnia]], I [[Desire|desire]] to say in your presence—and in the
 presence of my old retainer and friend, Mrs. Rouncewell, whose [[Truth|truth]]
@@ -119,12 +125,3 @@ But they find that however dejected and ill he is, he brightens when
 a quiet pretence is made of looking at the fires in her rooms and
 being sure that everything is ready to receive her. Poor pretence as
 it is, these allusions to her being expected keep up [[Hope|hope]] within him.
-
-Midnight comes, and with it the same blank. The carriages in the
-streets are few, and other late sounds in that neighbourhood there
-are none, unless a man so very nomadically drunk as to stray into the
-frigid zone goes brawling and bellowing along the pavement. Upon this
-wintry [[Night|night]] it is so still that listening to the intense [[Silence|silence]] is
-like looking at intense darkness. If any distant sound be audible in
-this case, it departs through the gloom like a feeble light in that,
-and all is heavier than before.

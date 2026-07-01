@@ -1,5 +1,5 @@
 ---
-title: "[[TheCrimesOfEngland]] — Chapter 9"
+title: "TheCrimesOfEngland — Chapter 9"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/thecrimesofengland-(chesterton)"
@@ -16,11 +16,7 @@ tags:
 
 CHAPTER IX
 
-
-
 THE AWAKENING OF ENGLAND
-
-
 
 The March of Montenegro--The Anti-Servile
 

@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 45 (part 2)"
+title: "Sense and Sensibility — Chapter 45 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -12,6 +12,16 @@ tags:
 <div class="excerpt-crumb">Austen · <a href="/works/sense-and-sensibility-(austen)">Sense and Sensibility</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_45/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_46/part_01">part 01 ›</a></div>
 </nav>
+
+
+soon as any opportunity of private conference between them occurred.
+
+
+
+“At last we are [[Alone|alone]]. My Elinor, you do not yet know all my happiness.
+
+[[Colonel Brandon]] loves Marianne. He has told me so himself.”
+
 
 
 Her daughter, feeling by turns both pleased and pained, surprised and

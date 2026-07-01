@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 21 (part 1)"
+title: "Shirley — Chapter 21 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -239,11 +239,3 @@ themselves."
 
 
 "Which means you would have left him by himself to face that mob. Good!
-
-He has plenty of [[Courage|courage]], but the greatest amount of gallantry that ever
-
-garrisoned one human breast could scarce avail against two hundred."
-
-
-
-"He had the soldiers, those poor slaves who hire out their own [[Blood|blood]] and

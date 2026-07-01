@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 64 (part 1)"
+title: "Bleak House — Chapter 64 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -120,13 +120,3 @@ what I thought of him, but I could not articulate a word.
 
 “Tut, tut!” said my guardian. “You make too much of it, little woman.
 Why, how you sob, Dame Durden, how you sob!”
-
-“It is with exquisite pleasure, guardian—with a heart full of
-thanks.”
-
-“[[Well]], [[Well|well]],” said he. “I am delighted that you approve. I thought
-you would. I meant it as a pleasant surprise for the little mistress
-of Bleak [[house|House]].”
-
-I kissed him and dried my eyes. “I know now!” said I. “I have seen
-this in your face a long while.”

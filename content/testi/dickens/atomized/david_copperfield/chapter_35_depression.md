@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 35: DEPRESSION"
+title: "David Copperfield — Chapter 35: DEPRESSION"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/david-copperfield-(dickens)"

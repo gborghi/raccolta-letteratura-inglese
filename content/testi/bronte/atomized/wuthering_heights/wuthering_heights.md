@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]]"
+title: "Wuthering Heights"
 author: "Bronte"
 unitType: work
 parentWork: "works/wuthering-heights-(bronte)"
@@ -705,7 +705,7 @@ Joseph must needs get up a congregation in the garret; and, while
 Hindley and his wife basked downstairs before a comfortable [[Fire|fire]]—doing
 anything but reading their Bibles, I’ll answer for it—[[Heathcliff]],
 myself, and the unhappy ploughboy were commanded to take our
-[[Prayer|prayer]]-books, and mount: we were ranged in a row, on a sack of corn,
+[[prayer]]-books, and mount: we were ranged in a row, on a sack of corn,
 groaning and shivering, and hoping that Joseph would shiver too, so
 that he might give us a short homily for his own sake. A vain idea! The
 service lasted precisely three hours; and yet my brother had the face
@@ -892,7 +892,7 @@ in!”
 
 The fingers relaxed, I snatched mine through the hole, hurriedly piled
 the books up in a pyramid against it, and stopped my ears to exclude
-the lamentable [[Prayer|prayer]].
+the lamentable [[prayer]].
 
 I seemed to keep them closed above a quarter of an hour; yet, the
 instant I listened again, there was the doleful cry moaning on!
@@ -1875,7 +1875,7 @@ oven, and making the [[house]] and kitchen cheerful with great fires,
 befitting Christmas-eve, I prepared to sit down and amuse myself by
 singing carols, all [[Alone|alone]]; regardless of Joseph’s affirmations that he
 considered the merry tunes I chose as next door to [[songs]]. He had
-retired to private [[Prayer|prayer]] in his chamber, and Mr. and Mrs. Earnshaw
+retired to private [[prayer]] in his chamber, and Mr. and Mrs. Earnshaw
 were engaging Missy’s attention by sundry gay trifles bought for her to
 present to the little Lintons, as an acknowledgment of their kindness.
 They had invited them to spend the morrow at [[Wuthering Heights]], and the
@@ -2633,7 +2633,7 @@ forgetting what he had in his hands. “Who is that?” he asked, hearing
 some one approaching the stairs’-foot. I leant forward also, for the
 purpose of signing to [[Heathcliff]], whose step I recognised, not to come
 further; and, at the instant when my eye quitted Hareton, he gave a
-sudden [[spring]], delivered himself from the careless grasp that held him,
+sudden [[Spring|spring]], delivered himself from the careless grasp that held him,
 and fell.
 
 There was scarcely [[Time|time]] to experience a thrill of horror before we saw
@@ -3014,7 +3014,7 @@ would have affected him. She was absent such a while that Joseph
 proposed we should wait no longer. He cunningly conjectured they were
 staying away in order to avoid hearing his protracted blessing. They
 were “ill eneugh for ony fahl manners,” he affirmed. And on their
-behalf he added that [[Night|night]] a special [[Prayer|prayer]] to the usual
+behalf he added that [[Night|night]] a special [[prayer]] to the usual
 quarter-of-an-hour’s supplication before meat, and would have tacked
 another to the end of the grace, had not his young mistress broken in
 upon him with a hurried command that he must run down the [[Road|road]], and,
@@ -3262,7 +3262,7 @@ tossing, and sickness! Oh, these bleak winds and bitter northern skies,
 and impassable roads, and dilatory country surgeons! And oh, this
 dearth of the human physiognomy! and, worse than all, the terrible
 intimation of Kenneth that I need not expect to be out of doors till
-[[spring]]!
+[[Spring|spring]]!
 
 Mr. [[Heathcliff]] has just honoured me with a call. About seven days ago
 he sent me a brace of grouse—the last of the season. Scoundrel! He is
@@ -3288,7 +3288,7 @@ Keep your fingers from that bitter phalanx of vials. Draw your knitting
 out of your pocket—that will do—now continue the [[history]] of Mr.
 [[Heathcliff]], from where you left off, to the present day. Did he finish
 his [[Education|education]] on the Continent, and come back a gentleman? or did he
-get a sizar’s place at college, or escape to [[America]], and earn honours
+get a sizar’s place at college, or escape to [[america|America]], and earn honours
 by drawing [[Blood|blood]] from his foster-country? or make a fortune more
 promptly on the English highways?”
 
@@ -3918,7 +3918,7 @@ visits were a continual [[nightmare]] to me; and, I suspected, to my master
 also. His abode at the Heights was an oppression past explaining. I
 felt that God had forsaken the stray sheep there to its own wicked
 wanderings, and an evil beast prowled between it and the fold, waiting
-his [[Time|time]] to [[spring]] and destroy.
+his [[Time|time]] to [[Spring|spring]] and destroy.
 
 
 
@@ -4666,7 +4666,7 @@ attention on him, and discovered who it was that held her.
 animation. “You are one of those things that are ever found when least
 wanted, and when you are wanted, never! I suppose we shall have plenty
 of lamentations now—I see we shall—but they can’t keep me from my
-narrow [[Home|home]] out yonder: my resting-place, where I’m bound before [[spring]]
+narrow [[Home|home]] out yonder: my resting-place, where I’m bound before [[Spring|spring]]
 is over! There it is: not among the Lintons, mind, under the
 chapel-roof, but in the open air, with a head-stone; and you may please
 yourself whether you go to them or come to me!”
@@ -4675,7 +4675,7 @@ yourself whether you go to them or come to me!”
 you any more? Do you [[Love|love]] that wretch Heath—”
 
 “Hush!” cried Mrs. Linton. “Hush, this moment! You mention that name
-and I end the matter instantly by a [[spring]] from the [[Window|window]]! What you
+and I end the matter instantly by a [[Spring|spring]] from the [[Window|window]]! What you
 touch at present you may have; but my [[Soul|soul]] will be on that [[Hill|hill]]-top
 before you lay hands on me again. I don’t want you, [[Edgar]]: I’m past
 wanting you. Return to your books. I’m glad you possess a consolation,
@@ -4914,12 +4914,12 @@ gone?”
 “The [[Snow|snow]] is quite gone down here, darling,” replied her husband; “and
 I only see two white spots on the whole range of moors: the sky is
 blue, and the larks are singing, and the becks and brooks are all brim
-full. Catherine, last [[spring]] at this [[Time|time]], I was [[Longing|longing]] to have you
+full. Catherine, last [[Spring|spring]] at this [[Time|time]], I was [[Longing|longing]] to have you
 under this roof; now, I wish you were a mile or two up those hills: the
 air blows so sweetly, I feel that it would cure you.”
 
 “I shall never be there but once more,” said the invalid; “and then
-you’ll leave me, and I shall remain for ever. Next [[spring]] you’ll long
+you’ll leave me, and I shall remain for ever. Next [[Spring|spring]] you’ll long
 again to have me under this roof, and you’ll look back and think you
 were happy to-day.”
 
@@ -5124,7 +5124,7 @@ bolt—don’t omit it!”
 deliberately fastening myself in with [[Heathcliff]].
 
 “Look here!” he replied, pulling from his waistcoat a
-curiously-constructed [[Pistol|pistol]], having a [[Double|double]]-edged [[spring]] knife
+curiously-constructed [[Pistol|pistol]], having a [[Double|double]]-edged [[Spring|spring]] knife
 attached to the barrel. “That’s a great tempter to a desperate man, is
 it not? I cannot resist going up with this every [[Night|night]], and trying his
 door. If once I find it open he’s done for; I do it invariably, even
@@ -5657,7 +5657,7 @@ daughter turned out a second edition of the mother.
 CHAPTER XV
 
 
-Another week over—and I am so many days nearer health, and [[spring]]! I
+Another week over—and I am so many days nearer health, and [[Spring|spring]]! I
 have now heard all my neighbour’s [[history]], at different sittings, as
 the housekeeper could spare [[Time|time]] from more important occupations. I’ll
 continue it in her own words, only a little condensed. She is, on the
@@ -5854,7 +5854,7 @@ In her eagerness she [[Rose|rose]] and supported herself on the arm of the
 chair. At that earnest appeal he turned to her, looking absolutely
 desperate. His eyes, wide and wet, at last flashed fiercely on her; his
 breast heaved convulsively. An instant they held asunder, and then how
-they met I hardly saw, but Catherine made a [[spring]], and he caught her,
+they met I hardly saw, but Catherine made a [[Spring|spring]], and he caught her,
 and they were locked in an embrace from which I thought my mistress
 would never be released alive: in fact, to my eyes, she seemed directly
 insensible. He flung himself into the nearest seat, and on my
@@ -6104,7 +6104,7 @@ gentle dream—may she wake as kindly in the other world!”
 his foot, and groaning in a sudden paroxysm of ungovernable passion.
 “Why, she’s a liar to the end! Where is she? Not _there_—not in
 heaven—not perished—where? Oh! you said you cared nothing for my
-sufferings! And I pray one [[Prayer|prayer]]—I repeat it till my tongue
+sufferings! And I pray one [[prayer]]—I repeat it till my tongue
 stiffens—[[Catherine Earnshaw]], may you not rest as long as I am living;
 you said I killed you—haunt me, then! The murdered _do_ haunt their
 murderers, I believe. I know that [[Ghosts|ghosts]] _have_ wandered on earth. Be
@@ -6493,7 +6493,7 @@ Lord—’
 
 “[[Heathcliff]] gave him a push on to his knees in the middle of the [[Blood|blood]],
 and flung a towel to him; but instead of proceeding to dry it up, he
-joined his hands and began a [[Prayer|prayer]], which excited my laughter from its
+joined his hands and began a [[prayer]], which excited my laughter from its
 odd phraseology. I was in the condition of mind to be shocked at
 nothing: in fact, I was as reckless as some malefactors show themselves
 at the foot of the gallows.
@@ -7714,7 +7714,7 @@ mistress’s [[Death|death]]. Her father invariably spent that day [[Alone|alone
 library; and walked, at dusk, as far as Gimmerton kirkyard, where he
 would frequently prolong his stay beyond midnight. Therefore Catherine
 was thrown on her own resources for amusement. This twentieth of March
-was a beautiful [[spring]] day, and when her father had retired, my young
+was a beautiful [[Spring|spring]] day, and when her father had retired, my young
 lady came down dressed for going out, and said she asked to have a
 ramble on the edge of the moor with me: Mr. Linton had given her leave,
 if we went only a short distance and were back within the hour.
@@ -7966,7 +7966,7 @@ nicely as you can.”
 
 He watched the couple walking past the [[Window|window]]. Earnshaw had his
 countenance completely averted from his companion. He seemed studying
-the familiar landscape with a stranger’s and an [[Artist|artist]]’s interest.
+the familiar landscape with a stranger’s and an [[artist]]’s interest.
 Catherine took a sly look at him, expressing small admiration. She then
 turned her attention to seeking out objects of amusement for herself,
 and tripped merrily on, lilting a tune to supply the lack of
@@ -8869,7 +8869,7 @@ after we were used to each other? Don’t you like him, Ellen?”
 
 “Like him!” I exclaimed. “The worst-tempered bit of a sickly slip that
 ever struggled into its teens. Happily, as Mr. [[Heathcliff]] conjectured,
-he’ll not win twenty. I [[Doubt|doubt]] whether he’ll see [[spring]], indeed. And
+he’ll not win twenty. I [[Doubt|doubt]] whether he’ll see [[Spring|spring]], indeed. And
 small loss to his family whenever he drops off. And lucky it is for us
 that his father took him: the kinder he was treated, the more tedious
 and selfish he’d be. I’m glad you have no chance of having him for a
@@ -9028,7 +9028,7 @@ satisfied him better.
 
 “On my second visit Linton seemed in lively spirits; and Zillah (that
 is their housekeeper) made us a clean room and a good [[Fire|fire]], and told us
-that, as Joseph was out at a [[Prayer|prayer]]-meeting and [[Hareton Earnshaw]] was
+that, as Joseph was out at a [[prayer]]-meeting and [[Hareton Earnshaw]] was
 off with his [[dogs]]—robbing our woods of pheasants, as I heard
 afterwards—we might do what we liked. She brought me some warm wine and
 gingerbread, and appeared exceedingly good-natured; and Linton sat in
@@ -9381,7 +9381,7 @@ counsellor to the last. Miss Catherine is a good girl: I don’t [[Fear|fear]]
 that she will go wilfully wrong; and people who do their duty are
 always finally rewarded.”
 
-[[spring|Spring]] advanced; yet my master gathered no real strength, though he
+[[Spring]] advanced; yet my master gathered no real strength, though he
 resumed his walks in the grounds with his daughter. To her
 inexperienced notions, this itself was a sign of convalescence; and
 then his cheek was often flushed, and his eyes were bright; she felt
@@ -11304,7 +11304,7 @@ myself we should get on in tolerable comfort. The delusion did not last
 long. Catherine, contented at first, in a brief space grew irritable
 and restless. For one thing, she was forbidden to move out of the
 [[Garden|garden]], and it fretted her sadly to be confined to its narrow bounds as
-[[spring]] drew on; for another, in following the [[house]], I was forced to
+[[Spring|spring]] drew on; for another, in following the [[house]], I was forced to
 quit her frequently, and she complained of [[Loneliness|loneliness]]: she preferred
 quarrelling with Joseph in the kitchen to sitting at peace in her
 [[Solitude|solitude]]. I did not mind their skirmishes: but Hareton was often
@@ -11854,7 +11854,7 @@ temperate mode of living, and unperilous occupations, I ought to, and
 probably _shall_, remain above ground till there is scarcely a black
 hair on my head. And yet I cannot continue in this condition! I have to
 remind myself to breathe—almost to remind my heart to beat! And it is
-like bending back a stiff [[spring]]: it is by compulsion that I do the
+like bending back a stiff [[Spring|spring]]: it is by compulsion that I do the
 slightest act not prompted by one thought; and by compulsion that I
 notice anything alive or dead, which is not associated with one
 universal idea. I have a single wish, and my whole being and faculties
@@ -11898,7 +11898,7 @@ my work under the fir-trees at the end of the [[house]]; and she beguiled
 Hareton, who had perfectly recovered from his accident, to dig and
 arrange her little [[Garden|garden]], which was shifted to that corner by the
 influence of Joseph’s complaints. I was comfortably revelling in the
-[[spring]] fragrance around, and the beautiful soft blue overhead, when my
+[[Spring|spring]] fragrance around, and the beautiful soft blue overhead, when my
 young lady, who had run down near the gate to procure some primrose
 roots for a border, returned only half laden, and informed us that Mr.
 [[Heathcliff]] was coming in. “And he spoke to me,” she added, with a

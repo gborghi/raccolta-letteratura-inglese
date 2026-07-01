@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 8 (part 2)"
+title: "The Mystery of Edwin Drood — Chapter 8 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_09/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_09/part_03">part 03 ›</a></div>
 </nav>
 
+
+“All over then! Now, my bachelor gatehouse is a few yards from here,
+and the heater is on the [[Fire|fire]], and the wine and glasses are on the
+table, and it is not a stone’s throw from Minor Canon Corner. Ned, you
+are up and away to-morrow. We will carry Mr. Neville in with us, to
+take a stirrup-cup.”
 
 “With all my heart, Jack.”
 
@@ -41,7 +47,7 @@ the light upon it.
 it.”
 
 “I am sorry for that, Mr. Drood.” Neville apologises, with a real
-intention to apologise; “if I had known I was in the [[artist]]’s
+intention to apologise; “if I had known I was in the [[Artist|artist]]’s
 presence—”
 
 “O, a joke, sir, a mere joke,” Edwin cuts in, with a provoking yawn. “A
@@ -142,23 +148,3 @@ upright.
 Mr. Jasper quickly looks to the other for his retort.
 
 “I have.”
-
-“And what have they made you sensible of?”
-
-Mr. Jasper’s play of eyes between the two holds good throughout the
-dialogue, to the end.
-
-“I have told you once before to-[[Night|night]].”
-
-“You have done nothing of the sort.”
-
-“I tell you I have. That you take a great deal too much upon yourself.”
-
-“You added something else to that, if I remember?”
-
-“Yes, I did say something else.”
-
-“Say it again.”
-
-“I said that in the part of the world I come from, you would be called
-to account for it.”

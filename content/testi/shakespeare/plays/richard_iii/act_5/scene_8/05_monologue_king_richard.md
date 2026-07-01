@@ -1,5 +1,5 @@
 ---
-title: "[[Richard III]] — Act V, Scene 8 — monologue ([[King|KING]] [[Richard|RICHARD]]) [5]"
+title: "Richard III — Act V, Scene 8 — monologue (KING RICHARD) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/richard-iii-(shakespeare)"

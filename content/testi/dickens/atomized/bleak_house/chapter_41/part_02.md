@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 41 (part 2)"
+title: "Bleak House — Chapter 41 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_41/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_41/part_03">part 03 ›</a></div>
 </nav>
 
+
+And she would do it, thinks the lawyer, watchful of the firm hand
+with which she takes the pen!
 
 “I will not trouble you, [[Lady Dedlock]]. Pray spare yourself.”
 
@@ -144,9 +147,3 @@ shake your hold upon Sir Leicester and Sir Leicester’s trust and
 confidence in you. And even now, with this case, I hesitate. Not that
 he could [[Doubt|doubt]] (that, even with him, is impossible), but that nothing
 can prepare him for the blow.”
-
-“Not my flight?” she returned. “Think of it again.”
-
-“Your flight, [[Lady Dedlock]], would spread the whole [[Truth|truth]], and a
-hundred times the whole [[Truth|truth]], far and wide. It would be impossible
-to save the family credit for a day. It is not to be thought of.”

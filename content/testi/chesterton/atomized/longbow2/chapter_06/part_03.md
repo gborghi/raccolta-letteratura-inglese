@@ -1,5 +1,5 @@
 ---
-title: "[[longbow2]] — Chapter 6 (part 3)"
+title: "longbow2 — Chapter 6 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -121,8 +121,3 @@ thinking about he was by no means fully conscious.
 
 "I suppose you have to be awfully clever even to understand it,"
 observed Margery Dale conversationally.
-
-"I don't know," he said, slightly stirred to the defensive. 
-"I'm sure I could make you see--I don't mean you aren't clever,
-of course; I mean I'm quite sure you're clever enough to see--
-to see anything."

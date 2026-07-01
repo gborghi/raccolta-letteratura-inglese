@@ -35,7 +35,6 @@ In either case the name had a certain significance, as connecting
 Francis from the first with what he himself regarded as the romantic
 fairy land of the Troubadours.
 
-
 The name of the father was Pietro Bernadone and he was a substantial
 citizen of the guild of the cloth merchants in the town of Assisi.
 It is hard to describe the position of such a man without

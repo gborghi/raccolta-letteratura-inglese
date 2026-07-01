@@ -14,6 +14,26 @@ tags:
 </nav>
 
 
+From the distant and slowly darkening music room,
+Enid Wimpole's [[Song|song]] came thin and clear:
+
+  "Less than the [[Dust|dust]] beneath thy chariot [[Wheel|wheel]],
+   Less than the rust that never stained thy [[Sword|sword]]--"
+
+"Do you know what we are?" demanded Joan
+Brett, again. "We are a Harem."
+
+"Why, what can you mean?" cried the younger
+girl, in great agitation.  "Why, Lord Ivywood has
+never--"
+
+"I know he has never.  I am not sure," said Joan,
+"even whether he would ever.  I shall never understand
+that man, nor will anybody else.  But I tell
+you that is the spirit.  That is what we _are_.  And
+this room stinks of polygamy as certainly as it smells
+of tube-roses."
+
 "Why, Joan," cried Lady Enid, entering the room
 like a [[Well|well]]-bred [[Ghost|ghost]], "what on earth is the matter
 with you.  You all look as white as sheets."

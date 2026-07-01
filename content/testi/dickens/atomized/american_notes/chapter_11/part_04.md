@@ -14,6 +14,29 @@ tags:
 </nav>
 
 
+Then there were new settlements and detached log-cabins and frame-houses,
+full of interest for strangers from an old country: cabins with simple
+ovens, outside, made of clay; and lodgings for the pigs nearly as good as
+many of the human quarters; broken windows, patched with worn-out hats,
+old clothes, old boards, fragments of blankets and paper; and [[Home|home]]-made
+dressers standing in the open air without the door, whereon was ranged
+the household store, not hard to count, of earthen jars and pots.  The
+eye was pained to see the stumps of great trees thickly strewn in every
+field of wheat, and seldom to lose the eternal swamp and dull morass,
+with hundreds of rotten trunks and twisted branches steeped in its
+unwholesome [[Water|water]].  It was quite sad and oppressive, to come upon great
+tracts where settlers had been burning down the trees, and where their
+wounded bodies lay about, like those of murdered creatures, while here
+and there some charred and blackened giant reared aloft two withered
+arms, and seemed to call down curses on his foes.  Sometimes, at [[Night|night]],
+the way wound through some lonely gorge, like a mountain pass in
+Scotland, shining and coldly glittering in the light of the [[Moon|moon]], and so
+closed in by high steep hills all round, that there seemed to be no
+egress save through the narrower path by which we had come, until one
+rugged [[Hill|hill]]-side seemed to open, and shutting out the moonlight as we
+passed into its gloomy throat, wrapped our new course in shade and
+darkness.
+
 We had left Harrisburg on Friday.  On [[Sunday]] morning we arrived at the
 foot of the mountain, which is crossed by railroad.  There are ten
 inclined planes; five ascending, and five descending; the carriages are

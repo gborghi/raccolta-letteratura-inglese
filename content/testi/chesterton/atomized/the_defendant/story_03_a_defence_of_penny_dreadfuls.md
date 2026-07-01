@@ -16,7 +16,6 @@ tags:
 
 A DEFENCE OF PENNY DREADFULS
 
-
 One of the strangest examples of the degree to which ordinary life is
 undervalued is the example of popular literature, the vast mass of which
 we contentedly describe as vulgar. The boy's novelette may be ignorant
@@ -191,6 +190,5 @@ burden of life--have often been mad, scatter-brained and cruel, but
 never hopeless. That is a class privilege, like cigars. Their drivelling
 literature will always be a '[[Blood|blood]] and thunder' literature, as simple as
 the thunder of heaven and the [[Blood|blood]] of men.
-
 
        *       *       *       *       *

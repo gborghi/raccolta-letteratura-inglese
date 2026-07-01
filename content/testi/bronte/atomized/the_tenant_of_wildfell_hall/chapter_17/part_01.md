@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 17 (part 1)"
+title: "The Tenant of Wildfell Hall — Chapter 17 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -209,5 +209,3 @@ he had drunk—a circumstance that rendered him infinitely the more
 disgusting; but greatly as I abhorred him at that moment, I did not
 
 like to treat him with rudeness, as I was now his guest, and had just
-
-been enjoying his hospitality; and I was no hand at a polite but

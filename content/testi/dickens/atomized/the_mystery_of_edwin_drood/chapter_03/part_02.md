@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 3 (part 2)"
+title: "The Mystery of Edwin Drood — Chapter 3 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -154,10 +154,3 @@ game to be their brothers. It _was_ so droll!”
 “I [[Hope|hope]] she did it pretty [[Well|well]],” says Edwin rather doubtfully.
 
 “O, it was excellent!—I wouldn’t [[Dance|dance]] with you, you know.”
-
-Edwin scarcely seems to see the force of this; begs to know if he may
-take the liberty to ask why?
-
-“Because I was so tired of you,” returns Rosa. But she quickly adds,
-and pleadingly too, seeing displeasure in his face: “Dear Eddy, you
-were just as tired of me, you know.”

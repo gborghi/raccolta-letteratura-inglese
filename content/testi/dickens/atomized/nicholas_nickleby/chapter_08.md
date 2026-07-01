@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 8"
+title: "Nicholas Nickleby — Chapter 8"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/nicholas-nickleby-(dickens)"

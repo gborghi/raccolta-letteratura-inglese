@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 54: Mr. MICAWBER’S TRANSACTIONS (part 3)"
+title: "David Copperfield — Chapter 54: Mr. MICAWBER’S TRANSACTIONS (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,38 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_54_mr_micawbers_transactions/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_54_mr_micawbers_transactions/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘I am quite myself,’ said I, after a pause. ‘We have more cause to think
+of my aunt than of anyone. You know how much she has done.’
+
+‘Surely, surely,’ answered Traddles. ‘Who can forget it!’
+
+‘But even that is not all,’ said I. ‘During the last fortnight, some new
+trouble has vexed her; and she has been in and out of [[London]] every day.
+Several times she has gone out early, and been absent until evening.
+Last [[Night|night]], Traddles, with this [[Journey|journey]] before her, it was almost
+midnight before she came [[Home|home]]. You know what her consideration for
+others is. She will not tell me what has happened to distress her.’
+
+My aunt, very pale, and with deep lines in her face, sat immovable until
+I had finished; when some stray [[Tears|tears]] found their way to her cheeks, and
+she put her hand on mine.
+
+‘It’s nothing, Trot; it’s nothing. There will be no more of it. You
+shall know by and by. Now Agnes, my dear, let us attend to these
+affairs.’
+
+‘I must do Mr. Micawber the justice to say,’ Traddles began, ‘that
+although he would appear not to have worked to any good account for
+himself, he is a most untiring man when he works for other people. I
+never saw such a fellow. If he always goes on in the same way, he must
+be, virtually, about two hundred years old, at present. The heat into
+which he has been continually putting himself; and the distracted and
+impetuous manner in which he has been diving, day and [[Night|night]], among
+papers and books; to say nothing of the immense number of letters he has
+written me between this [[house]] and Mr. Wickfield’s, and often across the
+table when he has been sitting opposite, and might much more easily have
+spoken; is quite extraordinary.’
 
 ‘Letters!’ cried my aunt. ‘I believe he [[Dreams|dreams]] in letters!’
 
@@ -96,52 +128,3 @@ it back.’
 
 ‘It was originally, I think, eight thousand pounds, Consols?’ said
 Traddles.
-
-‘Right!’ replied my aunt.
-
-‘I can’t account for more than five,’ said Traddles, with an air of
-perplexity.
-
-‘--thousand, do you mean?’ inquired my aunt, with uncommon composure,
-‘or pounds?’
-
-‘Five thousand pounds,’ said Traddles.
-
-‘It was all there was,’ returned my aunt. ‘I sold three, myself. One, I
-paid for your articles, Trot, my dear; and the other two I have by me.
-When I lost the rest, I thought it wise to say nothing about that sum,
-but to keep it secretly for a rainy day. I wanted to see how you would
-come out of the trial, Trot; and you came out nobly--persevering,
-[[Self|self]]-reliant, [[Self|self]]-denying! So did Dick. Don’t speak to me, for I find
-my nerves a little shaken!’
-
-Nobody would have thought so, to see her sitting upright, with her arms
-folded; but she had wonderful [[Self|self]]-command.
-
-‘Then I am delighted to say,’ cried Traddles, beaming with joy, ‘that we
-have recovered the whole money!’
-
-‘Don’t congratulate me, anybody!’ exclaimed my aunt. ‘How so, sir?’
-
-‘You believed it had been misappropriated by Mr. Wickfield?’ said
-Traddles.
-
-‘Of course I did,’ said my aunt, ‘and was therefore easily silenced.
-Agnes, not a word!’
-
-‘And indeed,’ said Traddles, ‘it was sold, by virtue of the power of
-management he held from you; but I needn’t say by whom sold, or on whose
-actual signature. It was afterwards pretended to Mr. Wickfield, by that
-rascal,--and proved, too, by figures,--that he had possessed himself of
-the money (on general instructions, he said) to keep other deficiencies
-and difficulties from the light. Mr. Wickfield, being so weak and
-helpless in his hands as to pay you, afterwards, several sums of
-interest on a pretended principal which he knew did not exist, made
-himself, unhappily, a party to the fraud.’
-
-‘And at last took the blame upon himself,’ added my aunt; ‘and wrote me
-a mad letter, charging himself with robbery, and wrong unheard of. Upon
-which I paid him a visit early one morning, called for a candle, burnt
-the letter, and told him if he ever could right me and himself, to
-do it; and if he couldn’t, to keep his own counsel for his daughter’s
-sake.---If anybody speaks to me, I’ll leave the [[house]]!’

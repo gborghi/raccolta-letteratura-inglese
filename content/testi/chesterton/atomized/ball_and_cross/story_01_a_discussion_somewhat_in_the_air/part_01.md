@@ -1,5 +1,5 @@
 ---
-title: "ball and [[Cross|cross]] — A Discussion Somewhat in the Air (part 1)"
+title: "ball and cross — A Discussion Somewhat in the Air (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/ball-and-cross-(chesterton)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/ball-and-cross-(chesterton)">ball and cross</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ball_and_cross/story_20_dies_irae">‹ Story 20 Dies Irae</a><a class="ex-next" href="/testi/chesterton/atomized/ball_and_cross/story_01_a_discussion_somewhat_in_the_air/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ball_and_cross/story_16_dies_irae">‹ Story 16 Dies Irae</a><a class="ex-next" href="/testi/chesterton/atomized/ball_and_cross/story_01_a_discussion_somewhat_in_the_air/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -116,10 +116,3 @@ such little study of you and your school in human [[history]] as I have
 been enabled to make has led me to--er--rather singular conclusion,
 which I find great difficulty in expressing, especially in
 a foreign language."
-
-"Come, come," said [[The Professor|the Professor]], encouragingly, "I'll help you out.
-How did my view strike you?"
-
-"[[Well]], the [[Truth|truth]] is, I know I don't express it properly, but somehow
-it seemed to me that you always convey ideas of that kind with
-most eloquence, when--er--when-- --"

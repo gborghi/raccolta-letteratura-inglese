@@ -43,52 +43,52 @@ tags:
 ## Chapters / scenes / sections
 
 - [Story 01 IN GENERAL](/testi/chesterton/atomized/wild_ducks/story_01_in_general)
-- [Story 02 A Sermon on Cheapness](/testi/chesterton/atomized/wild_ducks/story_02_a_sermon_on_cheapness)
-- [Story 03 On Manners](/testi/chesterton/atomized/wild_ducks/story_03_on_manners)
-- [Story 04 For Persons of the Name of Smith](/testi/chesterton/atomized/wild_ducks/story_04_for_persons_of_the_name_of_smith)
-- [Story 05 The True Vanity of Vanities](/testi/chesterton/atomized/wild_ducks/story_05_the_true_vanity_of_vanities)
-- [Story 06 Written in the Sand](/testi/chesterton/atomized/wild_ducks/story_06_written_in_the_sand)
-- [Story 07 A Case of Comrades](/testi/chesterton/atomized/wild_ducks/story_07_a_case_of_comrades)
-- [Story 08 Something](/testi/chesterton/atomized/wild_ducks/story_08_something)
-- [Story 09 Asparagus](/testi/chesterton/atomized/wild_ducks/story_09_asparagus)
-- [Story 10 The English Spirit and the Flea](/testi/chesterton/atomized/wild_ducks/story_10_the_english_spirit_and_the_flea)
-- [Story 11 The Hobby and the Head Waiter](/testi/chesterton/atomized/wild_ducks/story_11_the_hobby_and_the_head_waiter)
-- [Story 12 In Praise of Pie](/testi/chesterton/atomized/wild_ducks/story_12_in_praise_of_pie)
-- [Story 13 Culture versus Civilisation](/testi/chesterton/atomized/wild_ducks/story_13_culture_versus_civilisation)
-- [Story 14 The Winter Feast](/testi/chesterton/atomized/wild_ducks/story_14_the_winter_feast)
-- [Story 15 They Tell a Story](/testi/chesterton/atomized/wild_ducks/story_15_they_tell_a_story)
-- [Story 16 HERE AND THERE](/testi/chesterton/atomized/wild_ducks/story_16_here_and_there)
-- [Story 17 Walking Tours](/testi/chesterton/atomized/wild_ducks/story_17_walking_tours)
-- [Story 18 The Blindness of the Sightseer](/testi/chesterton/atomized/wild_ducks/story_18_the_blindness_of_the_sightseer)
-- [Story 19 The Aesthetes in the Kitchen Garden](/testi/chesterton/atomized/wild_ducks/story_19_the_aesthetes_in_the_kitchen_garden)
-- [Story 20 The Need of Personalities in Politics](/testi/chesterton/atomized/wild_ducks/story_20_the_need_of_personalities_in_politics)
-- [Story 21 The Largest Window in the World](/testi/chesterton/atomized/wild_ducks/story_21_the_largest_window_in_the_world)
-- [Story 22 The Apostle and the Wild Ducks](/testi/chesterton/atomized/wild_ducks/story_22_the_apostle_and_the_wild_ducks)
-- [Story 23 Travellers Joys](/testi/chesterton/atomized/wild_ducks/story_23_travellers_joys)
-- [Story 24 Understanding France](/testi/chesterton/atomized/wild_ducks/story_24_understanding_france)
-- [Story 25 Salute to New York](/testi/chesterton/atomized/wild_ducks/story_25_salute_to_new_york)
-- [Story 26 The British Beech](/testi/chesterton/atomized/wild_ducks/story_26_the_british_beech)
-- [Story 27 Public Monuments](/testi/chesterton/atomized/wild_ducks/story_27_public_monuments)
-- [Story 28 THE MAKING OF HISTORY](/testi/chesterton/atomized/wild_ducks/story_28_the_making_of_history)
-- [Story 29 Statues](/testi/chesterton/atomized/wild_ducks/story_29_statues)
-- [Story 30 A Theory of Tyrants](/testi/chesterton/atomized/wild_ducks/story_30_a_theory_of_tyrants)
-- [Story 31 The Return of Pageantry](/testi/chesterton/atomized/wild_ducks/story_31_the_return_of_pageantry)
-- [Story 32 Rational History](/testi/chesterton/atomized/wild_ducks/story_32_rational_history)
-- [Story 33 The Unknown Warrior](/testi/chesterton/atomized/wild_ducks/story_33_the_unknown_warrior)
-- [Story 34 William Penn and his Royalist Friends](/testi/chesterton/atomized/wild_ducks/story_34_william_penn_and_his_royalist_friends)
-- [Story 35 ON LITERATURE](/testi/chesterton/atomized/wild_ducks/story_35_on_literature)
-- [Story 36 Ruskin The Humorist](/testi/chesterton/atomized/wild_ducks/story_36_ruskin_the_humorist)
-- [Story 37 Literature of Information](/testi/chesterton/atomized/wild_ducks/story_37_literature_of_information)
-- [Story 38 Eulogy of Robin Hood](/testi/chesterton/atomized/wild_ducks/story_38_eulogy_of_robin_hood)
-- [Story 39 A Plea for Hasty Journalism](/testi/chesterton/atomized/wild_ducks/story_39_a_plea_for_hasty_journalism)
-- [Story 40 The Voice of Shelley](/testi/chesterton/atomized/wild_ducks/story_40_the_voice_of_shelley)
-- [Story 41 The Great Translation](/testi/chesterton/atomized/wild_ducks/story_41_the_great_translation)
-- [Story 42 Jane Austen s Juvenilia](/testi/chesterton/atomized/wild_ducks/story_42_jane_austen_s_juvenilia)
-- [Story 43 The Countrymen of Mary Webb and Thomas H](/testi/chesterton/atomized/wild_ducks/story_43_the_countrymen_of_mary_webb_and_thomas_h)
-- [Story 44 The Words of Strong Poetry](/testi/chesterton/atomized/wild_ducks/story_44_the_words_of_strong_poetry)
-- [Story 45 The Refrain of the Rover](/testi/chesterton/atomized/wild_ducks/story_45_the_refrain_of_the_rover)
-- [Story 46 ON REFLECTION](/testi/chesterton/atomized/wild_ducks/story_46_on_reflection)
-- [Story 47 What is Right with the World](/testi/chesterton/atomized/wild_ducks/story_47_what_is_right_with_the_world)
+- Story 02 A Sermon on Cheapness
+- Story 03 On Manners
+- Story 04 For Persons of the Name of Smith
+- Story 05 The True Vanity of Vanities
+- Story 06 Written in the Sand
+- Story 07 A Case of Comrades
+- Story 08 Something
+- Story 09 Asparagus
+- Story 10 The English Spirit and the Flea
+- Story 11 The Hobby and the Head Waiter
+- Story 12 In Praise of Pie
+- Story 13 Culture versus Civilisation
+- Story 14 The Winter Feast
+- Story 15 They Tell a Story
+- Story 16 HERE AND THERE
+- Story 17 Walking Tours
+- Story 18 The Blindness of the Sightseer
+- Story 19 The Aesthetes in the Kitchen Garden
+- Story 20 The Need of Personalities in Politics
+- Story 21 The Largest Window in the World
+- Story 22 The Apostle and the Wild Ducks
+- Story 23 Travellers Joys
+- Story 24 Understanding France
+- Story 25 Salute to New York
+- Story 26 The British Beech
+- Story 27 Public Monuments
+- Story 28 THE MAKING OF HISTORY
+- Story 29 Statues
+- Story 30 A Theory of Tyrants
+- Story 31 The Return of Pageantry
+- Story 32 Rational History
+- Story 33 The Unknown Warrior
+- Story 34 William Penn and his Royalist Friends
+- Story 35 ON LITERATURE
+- Story 36 Ruskin The Humorist
+- Story 37 Literature of Information
+- Story 38 Eulogy of Robin Hood
+- Story 39 A Plea for Hasty Journalism
+- Story 40 The Voice of Shelley
+- Story 41 The Great Translation
+- Story 42 Jane Austen s Juvenilia
+- Story 43 The Countrymen of Mary Webb and Thomas H
+- Story 44 The Words of Strong Poetry
+- Story 45 The Refrain of the Rover
+- Story 46 ON REFLECTION
+- Story 47 What is Right with the World
 
 ## Testo integrale / Full text
 

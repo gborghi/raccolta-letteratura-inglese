@@ -1,5 +1,5 @@
 ---
-title: "[[innocence]] — The Hammer of God (part 1)"
+title: "innocence — The Hammer of God (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -125,23 +125,3 @@ a trophy that hung in the old family hall.
 
 "It was the first hat to hand," explained his brother airily;
 "always the nearest hat--and the nearest woman."
-
-"The blacksmith is away at Greenford," said Wilfred quietly;
-"the [[Time|time]] of his return is unsettled."
-
-And with that he turned and went into the church with bowed head,
-crossing himself like one who wishes to be quit of an unclean spirit.
-He was anxious to forget such grossness in the cool twilight of his tall
-Gothic cloisters; but on that morning it was fated that his still round
-of religious exercises should be everywhere arrested by small shocks.
-As he entered the church, hitherto always empty at that hour, a kneeling
-figure [[Rose|rose]] hastily to its feet and came towards the full daylight
-of the doorway.  When the curate saw it he stood still with surprise.
-For the early worshipper was none other than the village idiot,
-a nephew of the blacksmith, one who neither would nor could care
-for the church or for anything else.  He was always called "Mad Joe,"
-and seemed to have no other name; he was a dark, strong, slouching lad,
-with a heavy white face, dark straight hair, and a mouth always open.
-As he passed the priest, his [[Moon|moon]]-calf countenance gave no hint of what
-he had been doing or thinking of.  He had never been known to pray before.
-What sort of prayers was he saying now?  Extraordinary prayers surely.

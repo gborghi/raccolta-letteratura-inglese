@@ -1,5 +1,5 @@
 ---
-title: "[[The Landscape Garden]] (part 1)"
+title: "The Landscape Garden (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-landscape-garden-(poe)"
@@ -195,9 +195,3 @@ The [[Garden|garden]] like a lady fair was cut
       amount of money might have been imagined to perform any one of a
 
       thousand things. With riches merely surpassing those of any
-
-      citizen, it would have been easy to suppose him engaging to
-
-      supreme excess in the fashionable extravagances of his [[Time|time]]; or
-
-      busying himself with political intrigues; or aiming at

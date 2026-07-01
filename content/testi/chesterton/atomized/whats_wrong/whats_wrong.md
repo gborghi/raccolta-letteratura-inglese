@@ -760,8 +760,8 @@ ignoring of them in the past.  Anyone can test this for himself.
 Read any thirty or forty pages of pamphlets advocating peace
 in Europe and see how many of them praise the old Popes or Emperors
 for keeping the peace in Europe.  Read any armful of essays
-and [[Poems|poems]] in praise of social [[democracy]], and see how many of them
-praise the old Jacobins who created [[democracy]] and died for it.
+and [[Poems|poems]] in praise of social [[Democracy|democracy]], and see how many of them
+praise the old Jacobins who created [[Democracy|democracy]] and died for it.
 These colossal ruins are to the modern only enormous eyesores.
 He looks back along the valley of the past and sees a perspective
 of splendid but unfinished cities.  They are unfinished,
@@ -945,7 +945,7 @@ is a very poor [[Fragment|fragment]] of the full republican idea.
 The theory of the [[French Revolution]] presupposed two things
 in [[government]], things which it achieved at the [[Time|time]], but which it
 has certainly not bequeathed to its imitators in England, [[Germany]],
-and [[america|America]].  The first of these was the idea of honorable [[Poverty|poverty]];
+and [[America]].  The first of these was the idea of honorable [[Poverty|poverty]];
 that a statesman must be something of a stoic; the second was
 the idea of extreme publicity.  Many imaginative English writers,
 including Carlyle, seem quite unable to imagine how it was
@@ -1113,7 +1113,7 @@ straight lines, he is still an [[artist]]; because he has chosen.
 The average man cannot paint the sunset whose colors be admires;
 but he can paint his own [[house]] with what color he chooses, and though
 he paints it pea green with pink spots, he is still an [[artist]];
-because that is his choice.  Property is merely the art of the [[democracy]].
+because that is his choice.  Property is merely the art of the [[Democracy|democracy]].
 It means that every man should have something that he can shape
 in his own image, as he is shaped in the image of heaven.
 But because he is not God, but only a graven image of God,
@@ -1656,7 +1656,7 @@ instead Utopias which are called (appropriately enough)
 "Anticipations" or "News from Nowhere."  We come back, in fact,
 to the main feature which has already been mentioned.
 The past is communal:  the future must be individualist.
-In the past are all the evils of [[democracy]], variety and violence
+In the past are all the evils of [[Democracy|democracy]], variety and violence
 and [[Doubt|doubt]], but the future is pure despotism, for the future
 is pure caprice.  Yesterday, I know I was a human [[Fool|fool]],
 but to-morrow I can easily be the Superman.
@@ -1931,7 +1931,7 @@ for talking about the weather, reasons that are delicate as [[Well|well]]
 as deep; they lie in layer upon layer of stratified sagacity.
 First of all it is a gesture of primeval worship.
 The sky must be invoked; and to begin everything with the weather
-is a sort of pagan way of beginning everything with [[prayer]].
+is a sort of pagan way of beginning everything with [[Prayer|prayer]].
 [[Jones]] and Brown talk about the weather:  but so do [[Milton]]
 and Shelley.  Then it is an expression of that elementary
 idea in politeness--equality.  For the very word politeness
@@ -2075,15 +2075,15 @@ THE COMMON VISION
 Now this masculine [[Love|love]] of an open and level camaraderie is
 the life within all democracies and attempts to govern by [[debate]];
 without it the republic would be a dead formula.  Even as it is,
-of course, the spirit of [[democracy]] frequently differs widely
+of course, the spirit of [[Democracy|democracy]] frequently differs widely
 from the letter, and a pothouse is often a better test than
-a Parliament.  [[democracy|Democracy]] in its human sense is not arbitrament
+a Parliament.  [[Democracy]] in its human sense is not arbitrament
 by the majority; it is not even arbitrament by everybody.
 It can be more nearly defined as arbitrament by anybody.
 I mean that it rests on that club habit of taking a total
 stranger for granted, of assuming certain things to be inevitably
 common to yourself and him.  Only the things that anybody
-may be presumed to hold have the full authority of [[democracy]].
+may be presumed to hold have the full authority of [[Democracy|democracy]].
 Look out of the [[Window|window]] and notice the first man who walks by.
 The Liberals may have swept England with an over-whelming majority;
 but you would not stake a button that the man is a Liberal.  The [[Bible]]
@@ -2103,7 +2103,7 @@ the real English law.  The first man you see from the [[Window|window]],
 he is the [[King]] of England.
 
 The [[Decay|decay]] of taverns, which is but a part of the general [[Decay|decay]]
-of [[democracy]], has undoubtedly weakened this masculine spirit
+of [[Democracy|democracy]], has undoubtedly weakened this masculine spirit
 of equality.  I remember that a roomful of Socialists literally
 laughed when I told them that there were no two nobler words
 in all poetry than Public [[house|House]].  They thought it was a joke.
@@ -2163,7 +2163,7 @@ that they are abstract and even severe republicans.
 
 No; the real objection to equality and [[Self|self]]-rule has nothing to do with
 any of these free and festive aspects of mankind; all men are democrats
-when they are happy.  The philosophic opponent of [[democracy]] would
+when they are happy.  The philosophic opponent of [[Democracy|democracy]] would
 substantially sum up his position by saying that it "will not work."
 Before going further, I will register in passing a protest
 against the assumption that working is the one test of humanity.
@@ -2172,7 +2172,7 @@ are free; and if I find that men are snobs in their work but democrats
 on their holidays, I shall take the liberty to believe their holidays.
 But it is this question of work which really perplexes the question
 of equality; and it is with that that we must now deal.
-Perhaps the [[Truth|truth]] can be put most pointedly thus:  that [[democracy]]
+Perhaps the [[Truth|truth]] can be put most pointedly thus:  that [[Democracy|democracy]]
 has one real enemy, and that is civilization.  Those utilitarian
 miracles which science has made are anti-democratic, not so much
 in their perversion, or even in their practical result, as in their
@@ -2182,7 +2182,7 @@ but certainly in thinking that machines would make fewer men masters.
 More wheels do mean fewer handles; fewer handles do mean fewer hands.
 The machinery of science must be individualistic and isolated.
 A mob can shout round a palace; but a mob cannot shout down a telephone.
-The specialist appears and [[democracy]] is half spoiled at a stroke.
+The specialist appears and [[Democracy|democracy]] is half spoiled at a stroke.
 
 * * *
 
@@ -2339,7 +2339,7 @@ argument is "Specialists must be despots; men must be specialists.
 You cannot have equality in a soap factory; so you cannot have
 it anywhere.  You cannot have [[Comradeship|comradeship]] in a wheat corner;
 so you cannot have it at all.  We must have commercial civilization;
-therefore we must destroy [[democracy]]."  I know that plutocrats have
+therefore we must destroy [[Democracy|democracy]]."  I know that plutocrats have
 seldom sufficient fancy to soar to such examples as soap or wheat.
 They generally confine themselves, with fine freshness of mind,
 to a comparison between the state and a [[Ship|ship]].  One anti-democratic
@@ -2368,8 +2368,8 @@ modern heresy of altering the human [[Soul|soul]] to fit its conditions,
 instead of altering human conditions to fit the human [[Soul|soul]].
 If soap boiling is really inconsistent with brotherhood,
 so much the worst for soap-boiling, not for brotherhood.
-If civilization really cannot get on with [[democracy]], so much
-the worse for civilization, not for [[democracy]].  Certainly, it would
+If civilization really cannot get on with [[Democracy|democracy]], so much
+the worse for civilization, not for [[Democracy|democracy]].  Certainly, it would
 be far better to go back to village communes, if they really
 are communes.  Certainly, it would be better to do without soap
 rather than to do without society.  Certainly, we would sacrifice
@@ -2457,7 +2457,7 @@ of the matter.  The working objection to the Suffragette [[philosophy]]
 is simply that overmastering millions of women do not agree with it.
 I am aware that some maintain that women ought to have votes whether the
 majority wants them or not; but this is surely a strange and childish case
-of setting up formal [[democracy]] to the destruction of actual [[democracy]].
+of setting up formal [[Democracy|democracy]] to the destruction of actual [[Democracy|democracy]].
 What should the mass of women decide if they do not decide their general
 place in the State?  These people practically say that females may vote
 about everything except about Female Suffrage.
@@ -3369,11 +3369,11 @@ It is possible that a future society may find a way of doing without
 the question by hunger as we have done without the question by [[Fire|fire]].
 It is equally possible, for the matter of that, that a future society
 may reestablish legal torture with the whole apparatus of rack and fagot.
-The most modern of countries, [[america|America]], has introduced with a vague
+The most modern of countries, [[America]], has introduced with a vague
 savor of science, a method which it calls "the third degree."
 This is simply the extortion of [[Secrets|secrets]] by nervous fatigue;
 which is surely uncommonly close to their extortion by bodily [[Pain|pain]].
-And this is legal and scientific in [[america|America]].  Amateur ordinary [[america|America]],
+And this is legal and scientific in [[America]].  Amateur ordinary [[America]],
 of course, simply burns people alive in broad daylight, as they
 did in the [[Reformation]] Wars.  But though some punishments are more
 inhuman than others there is no such thing as humane punishment.
@@ -3429,7 +3429,7 @@ countries this coercion of criminals is a collective coercion.
 The abnormal person is theoretically thumped by a million
 fists and kicked by a million feet.  If a man is flogged we
 all flogged him; if a man is hanged, we all hanged him.
-That is the only possible meaning of [[democracy]], which can give
+That is the only possible meaning of [[Democracy|democracy]], which can give
 any meaning to the first two syllables and also to the last two.
 In this sense each citizen has the high responsibility of a rioter.
 Every statute is a declaration of war, to be backed by arms.
@@ -3461,7 +3461,7 @@ civilization women would not really be required to capture,
 to sentence, or to slay; that all this is done indirectly,
 that specialists kill our criminals as they kill our cattle.
 To urge this is not to urge the reality of the vote, but to urge
-its unreality.  [[democracy|Democracy]] was meant to be a more direct way
+its unreality.  [[Democracy]] was meant to be a more direct way
 of ruling, not a more indirect way; and if we do not feel that we
 are all jailers, so much the worse for us, and for the prisoners.
 If it is really an unwomanly thing to lock up a robber
@@ -3788,7 +3788,7 @@ destroy womanhood.  That is the only difference.
 Whether we can recover the clear vision of woman as a tower
 with many windows, the fixed eternal feminine from which her sons,
 the specialists, go forth; whether we can preserve the tradition
-of a central thing which is even more human than [[democracy]]
+of a central thing which is even more human than [[Democracy|democracy]]
 and even more practical than politics; whether, in word,
 it is possible to re-establish the family, freed from the filthy
 cynicism and cruelty of the commercial epoch, I shall discuss
@@ -4231,7 +4231,7 @@ are fleeing on every side; and the only excuse for them is,
 (of course,) that their modern philosophies are so half-baked
 and hypothetical that they cannot convince themselves
 enough to convince even a newborn babe.  This, of course,
-is connected with the [[Decay|decay]] of [[democracy]]; and is somewhat
+is connected with the [[Decay|decay]] of [[Democracy|democracy]]; and is somewhat
 of a separate subject.  Suffice it to say here that when I say
 that we should instruct our children, I mean that we should do it,
 not that Mr. Sully or Professor Earl Barnes should do it.
@@ -4333,8 +4333,8 @@ be done; but, because (in his own admirable republican formula)
 some popular mandate; the unconventional authority does not.
 The Puritan who forbids soldiers on [[Sunday]] is at least
 expressing Puritan opinion; not merely his own opinion.
-He is not a despot; he is a [[democracy]], a tyrannical [[democracy]],
-a dingy and local [[democracy]] perhaps; but one that could do
+He is not a despot; he is a [[Democracy|democracy]], a tyrannical [[Democracy|democracy]],
+a dingy and local [[Democracy|democracy]] perhaps; but one that could do
 and has done the two ultimate virile things--fight and appeal
 to God.  But the veto of the new educationist is like the veto
 of the [[house|House]] of Lords; it does not pretend to be representative.
@@ -4403,7 +4403,7 @@ nay, rather they are persecuted.  There are no people in [[London]]
 who are not appealed to by the rich; the appeals of the rich
 shriek from every hoarding and shout from every hustings.
 For it should always be remembered that the queer, abrupt ugliness
-of our streets and costumes are not the creation of [[democracy]],
+of our streets and costumes are not the creation of [[Democracy|democracy]],
 but of aristocracy.  The [[house|House]] of Lords objected to the Embankment
 being disfigured by trams.  But most of the rich men who disfigure
 the street-walls with their wares are actually in the [[house|House]]
@@ -4800,7 +4800,7 @@ England has aristocracy and the English public schools support it.
 If it means rule by ancient families or flawless [[Blood|blood]],
 England has not got aristocracy, and the public schools
 systematically destroy it.  In these circles real aristocracy,
-like real [[democracy]], has become bad form.  A modern fashionable
+like real [[Democracy|democracy]], has become bad form.  A modern fashionable
 host dare not praise his ancestry; it would so often be an insult
 to half the other oligarchs at table, who have no ancestry.
 We have said he has not the moral [[Courage|courage]] to wear his uniform;
@@ -5072,7 +5072,7 @@ and Socialism are two hobbies of the upper middle class.
 These "healthy" ideals, as they are called, which our politicians
 and schoolmasters have borrowed from the aristocratic schools and
 applied to the democratic, are by no means particularly appropriate
-to an impoverished [[democracy]].  A vague admiration for organized
+to an impoverished [[Democracy|democracy]].  A vague admiration for organized
 [[government]] and a vague distrust of individual aid cannot be made
 to fit in at all into the lives of people among whom kindness means
 lending a saucepan and honor means keeping out of the workhouse.
@@ -5349,7 +5349,7 @@ under a [[house|House]] of Lords, as [[Birds|birds]] under a [[house]] of [[Leav
 we live under a monarchy as niggers live under a tropic sun;
 it is not their fault if they are slaves, and it is not ours
 if we are snobs.  Thus, long before Darwin struck his great blow
-at [[democracy]], the essential of the Darwinian argument had been
+at [[Democracy|democracy]], the essential of the Darwinian argument had been
 already urged against the [[French Revolution]].  Man, said Burke
 in effect, must adapt himself to everything, like an animal;
 he must not try to alter everything, like an angel.
@@ -5915,7 +5915,7 @@ definitely disliked General Elections, then it was a thoroughly
 undemocratic thing to do; if we are democrats we ought to undo it.
 We want the will of the people, not the votes of the people;
 and to give a man a vote against his will is to make voting
-more valuable than the [[democracy]] it declares.
+more valuable than the [[Democracy|democracy]] it declares.
 
 But this analogy is false, for a plain and particular reason.
 Many voteless women regard a vote as unwomanly.
@@ -5938,7 +5938,7 @@ but I violently deny that any democrat has a right to override
 such prejudices, if they are popular and positive.  Thus he would
 not have a right to make millions of Moslems vote with a [[Cross|cross]]
 if they had a prejudice in favor of voting with a crescent.
-Unless this is admitted, [[democracy]] is a farce we need scarcely keep up.
+Unless this is admitted, [[Democracy|democracy]] is a farce we need scarcely keep up.
 If it is admitted, the Suffragists have not merely to awaken
 an indifferent, but to [[convert]] a hostile majority.
 

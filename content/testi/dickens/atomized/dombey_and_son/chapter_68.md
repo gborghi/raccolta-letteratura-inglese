@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 12"
+title: "Dombey and Son — Chapter 40"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,870 +14,729 @@ tags:
 </nav>
 
 
-CHAPTER XII.
-Paul’s [[Education]]
-
-
-After the lapse of some minutes, which appeared an immense [[Time|time]] to
-little [[Paul Dombey]] on the table, Doctor Blimber came back. The Doctor’s
-walk was stately, and calculated to impress the juvenile mind with
-solemn feelings. It was a sort of march; but when the Doctor put out
-his right foot, he gravely turned upon his axis, with a semi-circular
-sweep towards the left; and when he put out his left foot, he turned in
-the same manner towards the right. So that he seemed, at every stride
-he took, to look about him as though he were saying, “Can anybody have
-the goodness to indicate any subject, in any direction, on which I am
-uninformed? I rather think not.”
-
-Mrs Blimber and Miss Blimber came back in the Doctor’s company; and the
-Doctor, lifting his new pupil off the table, delivered him over to Miss
-Blimber.
-
-“Cornelia,” said the Doctor, “Dombey will be your charge at first.
-Bring him on, Cornelia, bring him on.”
-
-Miss Blimber received her young ward from the Doctor’s hands; and Paul,
-feeling that the spectacles were surveying him, cast down his eyes.
-
-“How old are you, Dombey?” said Miss Blimber.
-
-“Six,” answered Paul, wondering, as he stole a glance at the young
-lady, why her hair didn’t grow long like Florence’s, and why she was
-like a boy.
-
-“How much do you know of your Latin Grammar, Dombey?” said Miss
-Blimber.
-
-“None of it,” answered Paul. Feeling that the answer was a shock to
-Miss Blimber’s sensibility, he looked up at the three faces that were
-looking down at him, and said:
-
-“I haven’t been [[Well|well]]. I have been a weak [[Child|child]]. I couldn’t learn a
-Latin Grammar when I was out, every day, with old Glubb. I wish you’d
-tell old Glubb to come and see me, if you please.”
-
-“What a dreadfully low name” said Mrs Blimber. “Unclassical to a
-degree! Who is the [[Monster|monster]], [[Child|child]]?”
-
-“What [[Monster|monster]]?” inquired Paul.
-
-“Glubb,” said Mrs Blimber, with a great disrelish.
-
-“He’s no more a [[Monster|monster]] than you are,” returned Paul.
-
-“What!” cried the Doctor, in a terrible voice. “Ay, ay, ay? Aha! What’s
-that?”
-
-Paul was dreadfully frightened; but still he made a stand for the
-absent Glubb, though he did it trembling.
-
-“He’s a very nice old man, Ma’am,” he said. “He used to draw my couch.
-He knows all about the deep sea, and the fish that are in it, and the
-great monsters that come and lie on rocks in the sun, and dive into the
-[[Water|water]] again when they’re startled, blowing and splashing so, that they
-can be heard for miles. There are some creatures, said Paul, warming
-with his subject, “I don’t know how many yards long, and I forget their
-names, but Florence knows, that pretend to be in distress; and when a
-man goes near them, out of compassion, they open their great jaws, and
-attack him. But all he has got to do,” said Paul, boldly tendering this
-information to the very Doctor himself, “is to keep on turning as he
-runs away, and then, as they turn slowly, because they are so long, and
-can’t bend, he’s sure to beat them. And though old Glubb don’t know why
-the sea should make me think of my Mama that’s dead, or what it is that
-it is always saying—always saying! he knows a great deal about it. And
-I wish,” the [[Child|child]] concluded, with a sudden falling of his countenance,
-and failing in his animation, as he looked like one forlorn, upon the
-three strange faces, “that you’d let old Glubb come here to see me, for
-I know him very [[Well|well]], and he knows me.”
-
-“Ha!” said the Doctor, shaking his head; “this is bad, but study will
-do much.”
-
-Mrs Blimber opined, with something like a shiver, that he was an
-unaccountable [[Child|child]]; and, allowing for the difference of visage, looked
-at him pretty much as Mrs Pipchin had been used to do.
-
-“Take him round the [[house]], Cornelia,” said the Doctor, “and familiarise
-him with his new sphere. Go with that young lady, Dombey.”
-
-Dombey obeyed; giving his hand to the abstruse Cornelia, and looking at
-her sideways, with timid curiosity, as they went away together. For her
-spectacles, by reason of the glistening of the glasses, made her so
-mysterious, that he didn’t know where she was looking, and was not
-indeed quite sure that she had any eyes at all behind them.
-
-Cornelia took him first to the schoolroom, which was situated at the
-back of the hall, and was approached through two baize doors, which
-deadened and muffled the young gentlemen’s voices. Here, there were
-eight young gentlemen in various stages of mental prostration, all very
-hard at work, and very [[Grave|grave]] indeed. Toots, as an old hand, had a desk
-to himself in one corner: and a magnificent man, of immense age, he
-looked, in Paul’s young eyes, behind it.
-
-Mr Feeder, B.A., who sat at another little desk, had his Virgil stop
-on, and was slowly grinding that tune to four young gentlemen. Of the
-remaining four, two, who grasped their foreheads convulsively, were
-engaged in solving mathematical problems; one with his face like a
-dirty [[Window|window]], from much crying, was endeavouring to flounder through a
-hopeless number of lines before dinner; and one sat looking at his task
-in stony stupefaction and [[Despair|despair]]—which it seemed had been his
-condition ever since breakfast [[Time|time]].
-
-The appearance of a new boy did not create the sensation that might
-have been expected. Mr Feeder, B.A. (who was in the habit of shaving
-his head for coolness, and had nothing but little bristles on it), gave
-him a bony hand, and told him he was glad to see him—which Paul would
-have been very glad to have told him, if he could have done so with the
-least sincerity. Then Paul, instructed by Cornelia, shook hands with
-the four young gentlemen at Mr Feeder’s desk; then with the two young
-gentlemen at work on the problems, who were very feverish; then with
-the young gentleman at work against [[Time|time]], who was very inky; and lastly
-with the young gentleman in a state of stupefaction, who was flabby and
-quite cold.
-
-Paul having been already introduced to Toots, that pupil merely
-chuckled and breathed hard, as his custom was, and pursued the
-occupation in which he was engaged. It was not a severe one; for on
-account of his having “gone through” so much (in more senses than one),
-and also of his having, as before hinted, left off blowing in his
-prime, Toots now had licence to pursue his own course of study: which
-was chiefly to write long letters to himself from persons of
-distinction, adds “P. Toots, Esquire, Brighton, Sussex,” and to
-preserve them in his desk with great care.
-
-These ceremonies passed, Cornelia led Paul upstairs to the top of the
-[[house]]; which was rather a slow [[Journey|journey]], on account of Paul being
-obliged to land both feet on every stair, before he mounted another.
-But they reached their [[Journey|journey]]’s end at last; and there, in a front
-room, looking over the wild sea, Cornelia showed him a nice little bed
-with white hangings, close to the [[Window|window]], on which there was already
-beautifully written on a card in round text—down strokes very thick,
-and up strokes very fine—DOMBEY; while two other little bedsteads in
-the same room were announced, through like means, as respectively
-appertaining unto BRIGGS and TOZER.
-
-Just as they got downstairs again into the hall, Paul saw the weak-eyed
-young man who had given that mortal offence to Mrs Pipchin, suddenly
-seize a very large drumstick, and fly at a gong that was hanging up, as
-if he had gone mad, or wanted vengeance. Instead of receiving warning,
-however, or being instantly taken into custody, the young man left off
-unchecked, after having made a dreadful noise. Then Cornelia Blimber
-said to Dombey that dinner would be ready in a quarter of an hour, and
-perhaps he had better go into the schoolroom among his “friends.”
-
-So Dombey, deferentially passing the great [[Clock|clock]] which was still as
-anxious as ever to know how he found himself, opened the schoolroom
-door a very little way, and strayed in like a lost boy: shutting it
-after him with some difficulty. His friends were all dispersed about
-the room except the stony friend, who remained immoveable. Mr Feeder
-was stretching himself in his grey gown, as if, regardless of expense,
-he were resolved to pull the sleeves off.
-
-“Heigh ho hum!” cried Mr Feeder, shaking himself like a cart-[[Horse|horse]]. “Oh
-dear me, dear me! Ya-a-a-ah!”
-
-Paul was quite alarmed by Mr Feeder’s yawning; it was done on such a
-great scale, and he was so terribly in earnest. All the boys too (Toots
-excepted) seemed knocked up, and were getting ready for dinner—some
-newly tying their neckcloths, which were very stiff indeed; and others
-washing their hands or brushing their hair, in an adjoining
-ante-chamber—as if they didn’t think they should enjoy it at all.
-
-Young Toots who was ready beforehand, and had therefore nothing to do,
-and had leisure to bestow upon Paul, said, with heavy good [[Nature|nature]]:
-
-“Sit down, Dombey.”
-
-“Thank you, Sir,” said Paul.
-
-His endeavouring to hoist himself on to a very high [[Window|window]]-seat, and
-his slipping down again, appeared to prepare Toots’s mind for the
-reception of a discovery.
-
-“You’re a very small chap;” said Mr Toots.
-
-“Yes, Sir, I’m small,” returned Paul. “Thank you, Sir.”
-
-For Toots had lifted him into the seat, and done it kindly too.
-
-“Who’s your tailor?” inquired Toots, after looking at him for some
-moments.
-
-“It’s a woman that has made my clothes as yet,” said Paul. “My sister’s
-dressmaker.”
-
-“My tailor’s Burgess and Co.,” said Toots. “Fash’nable. But very dear.”
-
-Paul had wit enough to shake his head, as if he would have said it was
-easy to see that; and indeed he thought so.
-
-“Your father’s regularly rich, ain’t he?” inquired Mr Toots.
-
-“Yes, Sir,” said Paul. “He’s Dombey and Son.”
-
-“And which?” demanded Toots.
-
-“And Son, Sir,” replied Paul.
-
-Mr Toots made one or two attempts, in a low voice, to fix the Firm in
-his mind; but not quite succeeding, said he would get Paul to mention
-the name again to-morrow morning, as it was rather important. And
-indeed he purposed nothing less than writing himself a private and
-confidential letter from Dombey and Son immediately.
-
-By this [[Time|time]] the other pupils (always excepting the stony boy) gathered
-round. They were polite, but pale; and spoke low; and they were so
-depressed in their spirits, that in comparison with the general tone of
-that company, Master Bitherstone was a perfect Miller, or complete Jest
-Book.” And yet he had a sense of injury upon him, too, had Bitherstone.
-
-“You [[Sleep|sleep]] in my room, don’t you?” asked a solemn young gentleman,
-whose shirt-collar curled up the lobes of his ears.
-
-“Master Briggs?” inquired Paul.
-
-“Tozer,” said the young gentleman.
-
-Paul answered yes; and Tozer pointing out the stony pupil, said that
-was Briggs. Paul had already felt certain that it must be either Briggs
-or Tozer, though he didn’t know why.
-
-“Is yours a strong constitution?” inquired Tozer.
-
-Paul said he thought not. Tozer replied that he thought not also,
-judging from Paul’s looks, and that it was a pity, for it need be. He
-then asked Paul if he were going to begin with Cornelia; and on Paul
-saying “yes,” all the young gentlemen (Briggs excepted) gave a low
-groan.
-
-It was drowned in the tintinnabulation of the gong, which sounding
-again with great fury, there was a general move towards the
-dining-room; still excepting Briggs the stony boy, who remained where
-he was, and as he was; and on its way to whom Paul presently
-encountered a round of bread, genteelly served on a plate and napkin,
-and with a silver fork lying crosswise on the top of it. Doctor Blimber
-was already in his place in the dining-room, at the top of the table,
-with Miss Blimber and Mrs Blimber on either side of him. Mr Feeder in a
-black coat was at the [[Bottom|bottom]]. Paul’s chair was next to Miss Blimber;
-but it being found, when he sat in it, that his eyebrows were not much
-above the level of the table-cloth, some books were brought in from the
-Doctor’s study, on which he was elevated, and on which he always sat
-from that [[Time|time]]— carrying them in and out himself on after occasions,
-like a little elephant and [[Castle|castle]].
-
-Grace having been said by the Doctor, dinner began. There was some nice
-soup; also roast meat, boiled meat, vegetables, pie, and [[cheese]]. Every
-young gentleman had a massive silver fork, and a napkin; and all the
-arrangements were stately and handsome. In particular, there was a
-butler in a blue coat and bright buttons, who gave quite a winey
-flavour to the table beer; he poured it out so superbly.
-
-Nobody spoke, unless spoken to, except Doctor Blimber, Mrs Blimber, and
-Miss Blimber, who conversed occasionally. Whenever a young gentleman
-was not actually engaged with his knife and fork or spoon, his eye,
-with an irresistible attraction, sought the eye of Doctor Blimber, Mrs
-Blimber, or Miss Blimber, and modestly rested there. Toots appeared to
-be the only exception to this rule. He sat next Mr Feeder on Paul’s
-side of the table, and frequently looked behind and before the
-intervening boys to catch a glimpse of Paul.
-
-Only once during dinner was there any conversation that included the
-young gentlemen. It happened at the epoch of the [[cheese]], when the
-Doctor, having taken a glass of port wine, and hemmed twice or thrice,
-said:
-
-“It is remarkable, Mr Feeder, that the Romans—”
-
-At the mention of this terrible people, their implacable enemies, every
-young gentleman fastened his gaze upon the Doctor, with an assumption
-of the deepest interest. One of the number who happened to be drinking,
-and who caught the Doctor’s eye glaring at him through the side of his
-tumbler, left off so hastily that he was convulsed for some moments,
-and in the sequel ruined Doctor Blimber’s point.
-
-“It is remarkable, Mr Feeder,” said the Doctor, beginning again slowly,
-“that the Romans, in those gorgeous and profuse entertainments of which
-we read in the days of the Emperors, when luxury had attained a height
-unknown before or since, and when whole provinces were ravaged to
-supply the splendid means of one Imperial Banquet—”
-
-Here the offender, who had been swelling and straining, and waiting in
-vain for a full stop, broke out violently.
-
-“Johnson,” said Mr Feeder, in a low reproachful voice, “take some
-[[Water|water]].”
-
-The Doctor, looking very stern, made a pause until the [[Water|water]] was
-brought, and then resumed:
-
-“And when, Mr Feeder—”
-
-But Mr Feeder, who saw that Johnson must break out again, and who knew
-that the Doctor would never come to a period before the young gentlemen
-until he had finished all he meant to say, couldn’t keep his eye off
-Johnson; and thus was caught in the fact of not looking at the Doctor,
-who consequently stopped.
-
-“I beg your pardon, Sir,” said Mr Feeder, reddening. “I beg your
-pardon, Doctor Blimber.”
-
-“And when,” said the Doctor, raising his voice, “when, Sir, as we read,
-and have no reason to [[Doubt|doubt]]—incredible as it may appear to the
-vulgar—of our [[Time|time]]—the brother of Vitellius prepared for him a feast,
-in which were served, of fish, two thousand dishes—”
-
-“Take some [[Water|water]], Johnson—dishes, Sir,” said Mr Feeder.
-
-“Of various sorts of fowl, five thousand dishes.”
-
-“Or try a crust of bread,” said Mr Feeder.
-
-“And one dish,” pursued Doctor Blimber, raising his voice still higher
-as he looked all round the table, “called, from its enormous
-dimensions, the Shield of Minerva, and made, among other costly
-ingredients, of the brains of pheasants—”
-
-“Ow, ow, ow!” (from Johnson.)
-
-“Woodcocks—”
-
-“Ow, ow, ow!”
-
-“The sounds of the fish called scari—”
-
-“You’ll burst some vessel in your head,” said Mr Feeder. “You had
-better let it come.”
-
-“And the spawn of the lamprey, brought from the Carpathian Sea,”
-pursued the Doctor, in his severest voice; “when we read of costly
-entertainments such as these, and still remember, that we have a
-Titus—”
-
-“What would be your mother’s feelings if you died of apoplexy!” said Mr
-Feeder.
-
-“A Domitian—”
-
-“And you’re blue, you know,” said Mr Feeder.
-
-“A Nero, a Tiberius, a Caligula, a Heliogabalus, and many more, pursued
-the Doctor; “it is, Mr Feeder—if you are doing me the [[Honour|honour]] to
-attend—remarkable; VERY remarkable, Sir—”
-
-But Johnson, unable to suppress it any longer, burst at that moment
-into such an overwhelming fit of coughing, that although both his
-immediate neighbours thumped him on the back, and Mr Feeder himself
-held a glass of [[Water|water]] to his lips, and the butler walked him up and
-down several times between his own chair and the sideboard, like a
-sentry, it was a full five minutes before he was moderately composed.
-Then there was a profound [[Silence|silence]].
-
-“Gentlemen,” said Doctor Blimber, “rise for Grace! Cornelia, lift
-Dombey down”—nothing of whom but his scalp was accordingly seen above
-the tablecloth. “Johnson will repeat to me tomorrow morning before
-breakfast, without book, and from the Greek Testament, the first
-chapter of the Epistle of Saint Paul to the Ephesians. We will resume
-our studies, Mr Feeder, in half-an-hour.”
-
-[Illustration]
-
-The young gentlemen bowed and withdrew. Mr Feeder did likewise. During
-the half-hour, the young gentlemen, broken into pairs, loitered
-arm-in-arm up and down a small piece of ground behind the [[house]], or
-endeavoured to kindle a spark of animation in the breast of Briggs. But
-nothing happened so vulgar as play. Punctually at the appointed [[Time|time]],
-the gong was sounded, and the studies, under the joint auspices of
-Doctor Blimber and Mr Feeder, were resumed.
-
-As the Olympic game of lounging up and down had been cut shorter than
-usual that day, on Johnson’s account, they all went out for a walk
-before tea. Even Briggs (though he hadn’t begun yet) partook of this
-dissipation; in the enjoyment of which he looked over the cliff two or
-three times darkly. Doctor Blimber accompanied them; and Paul had the
-[[Honour|honour]] of being taken in tow by the Doctor himself: a distinguished
-state of things, in which he looked very little and feeble.
-
-Tea was served in a style no less polite than the dinner; and after
-tea, the young gentlemen rising and bowing as before, withdrew to fetch
-up the unfinished tasks of that day, or to get up the already looming
-tasks of to-morrow. In the meantime Mr Feeder withdrew to his own room;
-and Paul sat in a corner wondering whether Florence was thinking of
-him, and what they were all about at Mrs Pipchin’s.
-
-Mr Toots, who had been detained by an important letter from the Duke of
-Wellington, found Paul out after a [[Time|time]]; and having looked at him for a
-long while, as before, inquired if he was fond of waistcoats.
-
-Paul said “Yes, Sir.”
-
-“So am I,” said Toots.
-
-No word more spoke Toots that [[Night|night]]; but he stood looking at Paul as if
-he liked him; and as there was company in that, and Paul was not
-inclined to talk, it answered his purpose better than conversation.
-
-At eight o’[[Clock|clock]] or so, the gong sounded again for prayers in the
-dining-room, where the butler afterwards presided over a side-table, on
-which bread and [[cheese]] and beer were spread for such young gentlemen as
-desired to partake of those refreshments. The ceremonies concluded by
-the Doctor’s saying, “Gentlemen, we will resume our studies at seven
-to-morrow;” and then, for the first [[Time|time]], Paul saw Cornelia Blimber’s
-eye, and saw that it was upon him. When the Doctor had said these
-words, “Gentlemen, we will resume our studies at seven tomorrow,” the
-pupils bowed again, and went to bed.
-
-In the confidence of their own room upstairs, Briggs said his head
-ached ready to split, and that he should wish himself dead if it wasn’t
-for his mother, and a blackbird he had at [[Home|home]]. Tozer didn’t say much,
-but he sighed a good deal, and told Paul to look out, for his turn
-would come to-morrow. After uttering those prophetic words, he
-undressed himself moodily, and got into bed. Briggs was in his bed too,
-and Paul in his bed too, before the weak-eyed young man appeared to
-take away the candle, when he wished them good-[[Night|night]] and pleasant
-[[Dreams|dreams]]. But his benevolent wishes were in vain, as far as Briggs and
-Tozer were concerned; for Paul, who lay awake for a long while, and
-often woke afterwards, found that Briggs was ridden by his lesson as a
-[[nightmare]]: and that Tozer, whose mind was affected in his [[Sleep|sleep]] by
-similar causes, in a minor degree talked unknown tongues, or scraps of
-Greek and Latin—it was all one to Paul—which, in the [[Silence|silence]] of [[Night|night]],
-had an inexpressibly wicked and guilty effect.
-
-Paul had sunk into a sweet [[Sleep|sleep]], and dreamed that he was walking hand
-in hand with Florence through beautiful gardens, when they came to a
-large sunflower which suddenly expanded itself into a gong, and began
-to sound. Opening his eyes, he found that it was a dark, windy morning,
-with a drizzling rain: and that the real gong was giving dreadful note
-of preparation, down in the hall.
-
-So he got up directly, and found Briggs with hardly any eyes, for
-[[nightmare]] and grief had made his face puffy, putting his boots on:
-while Tozer stood shivering and rubbing his shoulders in a very bad
-[[Humour|humour]]. Poor Paul couldn’t dress himself easily, not being used to it,
-and asked them if they would have the goodness to tie some strings for
-him; but as Briggs merely said “Bother!” and Tozer, “Oh yes!” he went
-down when he was otherwise ready, to the next storey, where he saw a
-pretty young woman in leather gloves, cleaning a stove. The young woman
-seemed surprised at his appearance, and asked him where his mother was.
-When Paul told her she was dead, she took her gloves off, and did what
-he wanted; and furthermore rubbed his hands to warm them; and gave him
-a kiss; and told him whenever he wanted anything of that sort—meaning
-in the dressing way—to ask for “Melia; which Paul, thanking her very
-much, said he certainly would. He then proceeded softly on his [[Journey|journey]]
-downstairs, towards the room in which the young gentlemen resumed their
-studies, when, passing by a door that stood ajar, a voice from within
-cried, “Is that Dombey?” On Paul replying, “Yes, Ma’am:” for he knew
-the voice to be Miss Blimber’s: Miss Blimber said, “Come in, Dombey.”
-And in he went.
-
-Miss Blimber presented exactly the appearance she had presented
-yesterday, except that she wore a shawl. Her little light curls were as
-crisp as ever, and she had already her spectacles on, which made Paul
-[[Wonder|wonder]] whether she went to bed in them. She had a cool little
-sitting-room of her own up there, with some books in it, and no [[Fire|fire]]
-But Miss Blimber was never cold, and never sleepy.
-
-Now, Dombey,” said Miss Blimber, “I am going out for a constitutional.”
-
-Paul wondered what that was, and why she didn’t send the footman out to
-get it in such unfavourable weather. But he made no observation on the
-subject: his attention being devoted to a little pile of new books, on
-which Miss Blimber appeared to have been recently engaged.
-
-“These are yours, Dombey,” said Miss Blimber.
-
-“All of ’em, Ma’am?” said Paul.
-
-“Yes,” returned Miss Blimber; “and Mr Feeder will look you out some
-more very soon, if you are as studious as I expect you will be,
+CHAPTER XL.
+Domestic Relations
+
+
+It was not in the [[Nature|nature]] of things that a man of Mr Dombey’s mood,
+opposed to such a spirit as he had raised against himself, should be
+softened in the imperious asperity of his temper; or that the cold hard
+armour of [[Pride|pride]] in which he lived encased, should be made more flexible
+by constant collision with haughty scorn and defiance. It is the curse
+of such a [[Nature|nature]]—it is a main part of the heavy retribution on itself
+it bears within itself—that while deference and concession swell its
+evil qualities, and are the food it grows upon, resistance and a
+questioning of its exacting claims, foster it too, no less. The evil
+that is in it finds equally its means of growth and propagation in
+opposites. It draws support and life from sweets and bitters; bowed
+down before, or unacknowledged, it still enslaves the breast in which
+it has its throne; and, worshipped or rejected, is as hard a master as
+the Devil in dark fables.
+
+Towards his first wife, Mr Dombey, in his cold and lofty arrogance, had
+borne himself like the removed Being he almost conceived himself to be.
+He had been “Mr Dombey” with her when she first saw him, and he was “Mr
+Dombey” when she died. He had asserted his [[Greatness|greatness]] during their whole
+married life, and she had meekly recognised it. He had kept his distant
+seat of state on the top of his throne, and she her humble station on
+its lowest step; and much good it had done him, so to live in solitary
+bondage to his one idea. He had imagined that the proud character of
+his second wife would have been added to his own—would have merged into
+it, and exalted his [[Greatness|greatness]]. He had pictured himself haughtier than
+ever, with Edith’s haughtiness subservient to his. He had never
+entertained the possibility of its arraying itself against him. And
+now, when he found it rising in his path at every step and turn of his
+daily life, fixing its cold, defiant, and contemptuous face upon him,
+this [[Pride|pride]] of his, instead of withering, or hanging down its head
+beneath the shock, put forth new shoots, became more concentrated and
+intense, more gloomy, sullen, irksome, and unyielding, than it had ever
+been before.
+
+Who wears such armour, too, bears with him ever another heavy
+retribution. It is of proof against conciliation, [[Love|love]], and confidence;
+against all gentle sympathy from without, all trust, all tenderness,
+all soft emotion; but to deep stabs in the [[Self|self]]-[[Love|love]], it is as
+vulnerable as the bare breast to steel; and such tormenting festers
+rankle there, as follow on no other wounds, no, though dealt with the
+mailed hand of [[Pride]] itself, on weaker [[Pride|pride]], disarmed and thrown down.
+
+Such wounds were his. He felt them sharply, in the [[Solitude|solitude]] of his old
+rooms; whither he now began often to retire again, and pass long
+solitary hours. It seemed his fate to be ever proud and powerful; ever
+humbled and powerless where he would be most strong. Who seemed fated
+to work out that doom?
+
+Who? Who was it who could win his wife as she had won his boy? Who was
+it who had shown him that new victory, as he sat in the dark corner?
+Who was it whose least word did what his utmost means could not? Who
+was it who, unaided by his [[Love|love]], regard or notice, thrived and grew
+beautiful when those so aided died? Who could it be, but the same [[Child|child]]
+at whom he had often glanced uneasily in her motherless infancy, with a
+kind of dread, lest he might come to hate her; and of whom his
+foreboding was fulfilled, for he DID hate her in his heart?
+
+Yes, and he would have it hatred, and he made it hatred, though some
+sparkles of the light in which she had appeared before him on the
+memorable [[Night|night]] of his return [[Home|home]] with his Bride, occasionally hung
+about her still. He knew now that she was beautiful; he did not dispute
+that she was graceful and winning, and that in the bright [[Dawn|dawn]] of her
+womanhood she had come upon him, a surprise. But he turned even this
+against her. In his sullen and unwholesome brooding, the unhappy man,
+with a dull perception of his [[Alienation|alienation]] from all hearts, and a vague
+yearning for what he had all his life repelled, made a distorted
+picture of his rights and wrongs, and justified himself with it against
+her. The worthier she promised to be of him, the greater claim he was
+disposed to antedate upon her duty and submission. When had she ever
+shown him duty and submission? Did she grace his life—or Edith’s? Had
+her attractions been manifested first to him—or Edith? Why, he and she
+had never been, from her birth, like father and [[Child|child]]! They had always
+been estranged. She had crossed him every way and everywhere. She was
+leagued against him now. Her very [[Beauty|beauty]] softened natures that were
+obdurate to him, and insulted him with an unnatural triumph.
+
+It may have been that in all this there were mutterings of an awakened
+feeling in his breast, however selfishly aroused by his position of
+disadvantage, in comparison with what she might have made his life. But
+he silenced the distant thunder with the [[rolling]] of his sea of [[Pride|pride]].
+He would bear nothing but his [[Pride|pride]]. And in his [[Pride|pride]], a heap of
+inconsistency, and misery, and [[Self|self]]-inflicted torment, he hated her.
+
+To the moody, stubborn, sullen demon, that possessed him, his wife
+opposed her different [[Pride|pride]] in its full force. They never could have
+led a happy life together; but nothing could have made it more unhappy,
+than the wilful and determined warfare of such elements. His [[Pride|pride]] was
+set upon maintaining his magnificent supremacy, and forcing recognition
+of it from her. She would have been racked to [[Death|death]], and turned but her
+haughty glance of calm inflexible disdain upon him, to the last. Such
+recognition from Edith! He little knew through what a [[Storm|storm]] and
+struggle she had been driven onward to the crowning [[Honour|honour]] of his hand.
+He little knew how much she thought she had conceded, when she suffered
+him to call her wife.
+
+Mr Dombey was resolved to show her that he was supreme. There must be
+no will but his. Proud he desired that she should be, but she must be
+proud for, not against him. As he sat [[Alone|alone]], hardening, he would often
+hear her go out and come [[Home|home]], treading the round of [[London]] life with
+no more heed of his liking or disliking, pleasure or displeasure, than
+if he had been her groom. Her cold supreme indifference—his own
+unquestioned attribute usurped—stung him more than any other kind of
+treatment could have done; and he determined to bend her to his
+magnificent and stately will.
+
+He had been long communing with these thoughts, when one [[Night|night]] he
+sought her in her own apartment, after he had heard her return [[Home|home]]
+late. She was [[Alone|alone]], in her brilliant dress, and had but that moment
+come from her mother’s room. Her face was [[Melancholy|melancholy]] and pensive, when
+he came upon her; but it marked him at the door; for, glancing at the
+[[Mirror|mirror]] before it, he saw immediately, as in a picture-frame, the
+knitted brow, and darkened [[Beauty|beauty]] that he knew so [[Well|well]].
+
+“Mrs Dombey,” he said, entering, “I must beg leave to have a few words
+with you.”
+
+“To-morrow,” she replied.
+
+“There is no [[Time|time]] like the present, Madam,” he returned. “You mistake
+your position. I am used to choose my own times; not to have them
+chosen for me. I think you scarcely understand who and what I am, Mrs
 Dombey.”
 
-“Thank you, Ma’am,” said Paul.
+“I think,” she answered, “that I understand you very [[Well|well]].”
 
-“I am going out for a constitutional,” resumed Miss Blimber; “and while
-I am gone, that is to say in the interval between this and breakfast,
-Dombey, I wish you to read over what I have marked in these books, and
-to tell me if you quite understand what you have got to learn. Don’t
-lose [[Time|time]], Dombey, for you have none to spare, but take them
-downstairs, and begin directly.”
-
-“Yes, Ma’am,” answered Paul.
-
-There were so many of them, that although Paul put one hand under the
-[[Bottom|bottom]] book and his other hand and his chin on the top book, and hugged
-them all closely, the middle book slipped out before he reached the
-door, and then they all tumbled down on the floor. Miss Blimber said,
-“Oh, Dombey, Dombey, this is really very careless!” and piled them up
-afresh for him; and this [[Time|time]], by dint of balancing them with great
-nicety, Paul got out of the room, and down a few stairs before two of
-them escaped again. But he held the rest so tight, that he only left
-one more on the first floor, and one in the passage; and when he had
-got the main [[Body|body]] down into the schoolroom, he set off upstairs again
-to collect the stragglers. Having at last amassed the whole library,
-and climbed into his place, he fell to work, encouraged by a remark
-from Tozer to the effect that he “was in for it now;” which was the
-only interruption he received till breakfast [[Time|time]]. At that meal, for
-which he had no appetite, everything was quite as solemn and genteel as
-at the others; and when it was finished, he followed Miss Blimber
-upstairs.
-
-“Now, Dombey,” said Miss Blimber. “How have you got on with those
-books?”
-
-They comprised a little English, and a deal of Latin—names of things,
-declensions of articles and substantives, exercises thereon, and
-preliminary rules—a trifle of orthography, a glance at ancient [[history]],
-a wink or two at modern ditto, a few tables, two or three weights and
-measures, and a little general information. When poor Paul had spelt
-out number two, he found he had no idea of number one; fragments
-whereof afterwards obtruded themselves into number three, which slided
-into number four, which grafted itself on to number two. So that
-whether twenty Romuluses made a Remus, or hic haec hoc was troy weight,
-or a verb always agreed with an ancient Briton, or three times four was
-Taurus a bull, were open questions with him.
-
-“Oh, Dombey, Dombey!” said Miss Blimber, “this is very shocking.”
-
-“If you please,” said Paul, “I think if I might sometimes talk a little
-to old Glubb, I should be able to do better.”
-
-“Nonsense, Dombey,” said Miss Blimber. “I couldn’t hear of it. This is
-not the place for Glubbs of any kind. You must take the books down, I
-suppose, Dombey, one by one, and perfect yourself in the day’s
-instalment of subject A, before you turn at all to subject B. I am
-sorry to say, Dombey, that your [[Education|education]] appears to have been very
-much neglected.”
-
-“So Papa says,” returned Paul; “but I told you—I have been a weak
-[[Child|child]]. Florence knows I have. So does Wickam.”
-
-“Who is Wickam?” asked Miss Blimber.
-
-“She has been my [[Nurse|nurse]],” Paul answered.
-
-“I must beg you not to mention Wickam to me, then,” said Miss Blimber.
-“I couldn’t allow it”.
-
-“You asked me who she was,” said Paul.
-
-“Very [[Well|well]],” returned Miss Blimber; “but this is all very different
-indeed from anything of that sort, Dombey, and I couldn’t think of
-permitting it. As to having been weak, you must begin to be strong. And
-now take away the top book, if you please, Dombey, and return when you
-are master of the theme.”
-
-Miss Blimber expressed her opinions on the subject of Paul’s
-uninstructed state with a gloomy delight, as if she had expected this
-result, and were glad to find that they must be in constant
-communication. Paul withdrew with the top task, as he was told, and
-laboured away at it, down below: sometimes remembering every word of
-it, and sometimes forgetting it all, and everything else besides: until
-at last he ventured upstairs again to repeat the lesson, when it was
-nearly all driven out of his head before he began, by Miss Blimber’s
-shutting up the book, and saying, “Go on, Dombey!” a proceeding so
-suggestive of the knowledge inside of her, that Paul looked upon the
-young lady with consternation, as a kind of learned Guy Fawkes, or
-artificial Bogle, stuffed full of scholastic straw.
-
-He acquitted himself very [[Well|well]], nevertheless; and Miss Blimber,
-commending him as giving promise of getting on fast, immediately
-provided him with subject B; from which he passed to C, and even D
-before dinner. It was hard work, resuming his studies, soon after
-dinner; and he felt giddy and confused and drowsy and dull. But all the
-other young gentlemen had similar sensations, and were obliged to
-resume their studies too, if there were any comfort in that. It was a
-[[Wonder|wonder]] that the great [[Clock|clock]] in the hall, instead of being constant to
-its first inquiry, never said, “Gentlemen, we will now resume our
-studies,” for that phrase was often enough repeated in its
-neighbourhood. The studies went round like a mighty [[Wheel|wheel]], and the
-young gentlemen were always stretched upon it.
-
-After tea there were exercises again, and preparations for next day by
-candlelight. And in due course there was bed; where, but for that
-resumption of the studies which took place in [[Dreams|dreams]], were rest and
-sweet forgetfulness.
-
-Oh Saturdays! Oh happy Saturdays, when Florence always came at [[Noon|noon]],
-and never would, in any weather, stay away, though Mrs Pipchin snarled
-and growled, and worried her bitterly. Those Saturdays were Sabbaths
-for at least two little Christians among all the Jews, and did the holy
-Sabbath work of strengthening and knitting up a brother’s and a
-sister’s [[Love|love]].
-
-Not even [[Sunday]] nights—the heavy [[Sunday]] nights, whose [[Shadow|shadow]] darkened
-the first waking burst of light on [[Sunday]] mornings—could mar those
-precious Saturdays. Whether it was the great sea-shore, where they sat,
-and strolled together; or whether it was only Mrs Pipchin’s dull back
-room, in which she sang to him so softly, with his drowsy head upon her
-arm; Paul never cared. It was Florence. That was all he thought of. So,
-on [[Sunday]] nights, when the Doctor’s dark door stood agape to [[Swallow|swallow]]
-him up for another week, the [[Time|time]] was come for taking leave of
-Florence; no one else.
-
-Mrs Wickam had been drafted [[Home|home]] to the [[house]] in town, and Miss Nipper,
-now a smart young woman, had come down. To many a single combat with
-Mrs Pipchin, did Miss Nipper gallantly devote herself, and if ever Mrs
-Pipchin in all her life had found her match, she had found it now. Miss
-Nipper threw away the scabbard the first morning she arose in Mrs
-Pipchin’s [[house]]. She asked and gave no quarter. She said it must be
-war, and war it was; and Mrs Pipchin lived from that [[Time|time]] in the midst
-of surprises, harassings, and defiances, and skirmishing attacks that
-came bouncing in upon her from the passage, even in unguarded moments
-of chops, and carried desolation to her very toast.
-
-Miss Nipper had returned one [[Sunday]] [[Night|night]] with Florence, from walking
-back with Paul to the Doctor’s, when Florence took from her bosom a
-little piece of paper, on which she had pencilled down some words.
-
-“See here, Susan,” she said. “These are the names of the little books
-that Paul brings [[Home|home]] to do those long exercises with, when he is so
-tired. I copied them last [[Night|night]] while he was writing.”
-
-“Don’t show ’em to me, Miss Floy, if you please,” returned Nipper, “I’d
-as soon see Mrs Pipchin.”
-
-“I want you to buy them for me, Susan, if you will, tomorrow morning. I
-have money enough,” said Florence.
-
-“Why, goodness gracious me, Miss Floy,” returned Miss Nipper, “how can
-you talk like that, when you have books upon books already, and
-masterses and mississes a teaching of you everything continual, though
-my belief is that your Pa, Miss Dombey, never would have learnt you
-nothing, never would have thought of it, unless you’d asked him—when he
-couldn’t [[Well|well]] refuse; but giving consent when asked, and offering when
-unasked, Miss, is quite two things; I may not have my objections to a
-young man’s keeping company with me, and when he puts the question, may
-say ‘yes,’ but that’s not saying ‘would you be so kind as like me.’”
-
-“But you can buy me the books, Susan; and you will, when you know why I
-want them.”
-
-“[[Well]], Miss, and why do you want ’em?” replied Nipper; adding, in a
-lower voice, “If it was to fling at Mrs Pipchin’s head, I’d buy a
-cart-load.”
-
-“Paul has a great deal too much to do, Susan,” said Florence, “I am
-sure of it.”
-
-“And [[Well|well]] you may be, Miss,” returned her maid, “and make your mind
-quite easy that the willing dear is worked and worked away. If those is
-Latin legs,” exclaimed Miss Nipper, with strong feeling—in allusion to
-Paul’s; “give me English ones.”
-
-“I am afraid he feels lonely and lost at Doctor Blimber’s, Susan,”
-pursued Florence, turning away her face.
-
-“Ah,” said Miss Nipper, with great sharpness, “Oh, them ‘Blimbers’”
-
-“Don’t blame anyone,” said Florence. “It’s a mistake.”
-
-“I say nothing about blame, Miss,” cried Miss Nipper, “for I know that
-you object, but I may wish, Miss, that the family was set to work to
-make new roads, and that Miss Blimber went in front and had the
-pickaxe.”
-
-After this speech, Miss Nipper, who was perfectly serious, wiped her
+She looked upon him as she said so, and folding her white arms,
+sparkling with gold and gems, upon her swelling breast, turned away her
 eyes.
+
+If she had been less handsome, and less stately in her cold composure,
+she might not have had the power of impressing him with the sense of
+disadvantage that penetrated through his utmost [[Pride|pride]]. But she had the
+power, and he felt it keenly. He glanced round the room: saw how the
+splendid means of personal adornment, and the luxuries of dress, were
+scattered here and there, and disregarded; not in mere caprice and
+carelessness (or so he thought), but in a steadfast haughty disregard
+of costly things: and felt it more and more. Chaplets of [[Flowers|flowers]],
+plumes of feathers, jewels, laces, silks and satins; look where he
+would, he saw riches, despised, poured out, and made of no account. The
+very diamonds—a [[Marriage|marriage]] gift—that [[Rose|rose]] and fell impatiently upon her
+bosom, seemed to pant to break the chain that clasped them round her
+neck, and roll down on the floor where she might tread upon them.
+
+He felt his disadvantage, and he showed it. Solemn and strange among
+this wealth of colour and voluptuous glitter, strange and constrained
+towards its haughty mistress, whose repellent [[Beauty|beauty]] it repeated, and
+presented all around him, as in so many fragments of a [[Mirror|mirror]], he was
+conscious of embarrassment and awkwardness. Nothing that ministered to
+her disdainful [[Self|self]]-possession could fail to gall him. Galled and
+irritated with himself, he sat down, and went on, in no improved
+[[Humour|humour]]:
+
+“Mrs Dombey, it is very necessary that there should be some
+understanding arrived at between us. Your conduct does not please me,
+Madam.”
+
+She merely glanced at him again, and again averted her eyes; but she
+might have spoken for an hour, and expressed less.
+
+“I repeat, Mrs Dombey, does not please me. I have already taken
+occasion to request that it may be corrected. I now insist upon it.”
+
+“You chose a fitting occasion for your first remonstrance, Sir, and you
+adopt a fitting manner, and a fitting word for your second. You insist!
+To me!”
+
+“Madam,” said Mr Dombey, with his most offensive air of state, “I have
+made you my wife. You bear my name. You are associated with my position
+and my reputation. I will not say that the world in general may be
+disposed to think you honoured by that association; but I will say that
+I am accustomed to ‘insist,’ to my connexions and dependents.”
+
+“Which may you be pleased to consider me? she asked.
+
+“Possibly I may think that my wife should partake—or does partake, and
+cannot help herself—of both characters, Mrs Dombey.”
+
+She bent her eyes upon him steadily, and set her trembling lips. He saw
+her bosom throb, and saw her face flush and turn white. All this he
+could know, and did: but he could not know that one word was whispering
+in the deep recesses of her heart, to keep her quiet; and that the word
+was Florence.
+
+Blind idiot, rushing to a precipice! He thought she stood in awe of
+him.
+
+“You are too expensive, Madam,” said Mr Dombey. “You are extravagant.
+You waste a great deal of money—or what would be a great deal in the
+pockets of most gentlemen—in cultivating a kind of society that is
+useless to me, and, indeed, that upon the whole is disagreeable to me.
+I have to insist upon a total change in all these respects. I know that
+in the novelty of possessing a tithe of such means as Fortune has
+placed at your disposal, ladies are apt to run into a sudden extreme.
+There has been more than enough of that extreme. I beg that Mrs
+Granger’s very different experiences may now come to the instruction of
+Mrs Dombey.”
+
+Still the fixed look, the trembling lips, the throbbing breast, the
+face now crimson and now white; and still the deep whisper Florence,
+Florence, speaking to her in the beating of her heart.
+
+His insolence of [[Self|self]]-importance dilated as he saw this alteration in
+her. Swollen no less by her past scorn of him, and his so recent
+feeling of disadvantage, than by her present submission (as he took it
+to be), it became too mighty for his breast, and burst all bounds. Why,
+who could long resist his lofty will and pleasure! He had resolved to
+conquer her, and look here!
+
+“You will further please, Madam,” said Mr Dombey, in a tone of
+sovereign command, “to understand distinctly, that I am to be deferred
+to and obeyed. That I must have a positive show and confession of
+deference before the world, Madam. I am used to this. I require it as
+my right. In short I will have it. I consider it no unreasonable return
+for the worldly advancement that has befallen you; and I believe nobody
+will be surprised, either at its being required from you, or at your
+making it.—To Me—To Me!” he added, with emphasis.
+
+No word from her. No change in her. Her eyes upon him.
+
+“I have learnt from your mother, Mrs Dombey,” said Mr Dombey, with
+magisterial importance, “what no [[Doubt|doubt]] you know, namely, that Brighton
+is recommended for her health. Mr Carker has been so good.”
+
+She changed suddenly. Her face and bosom glowed as if the red light of
+an angry sunset had been flung upon them. Not unobservant of the
+change, and putting his own interpretation upon it, Mr Dombey resumed:
+
+“Mr Carker has been so good as to go down and secure a [[house]] there, for
+a [[Time|time]]. On the return of the establishment to [[London]], I shall take such
+steps for its better management as I consider necessary. One of these,
+will be the engagement at Brighton (if it is to be effected), of a very
+respectable reduced person there, a Mrs Pipchin, formerly employed in a
+situation of trust in my family, to act as housekeeper. An
+establishment like this, presided over but nominally, Mrs Dombey,
+requires a competent head.”
+
+She had changed her attitude before he arrived at these words, and now
+sat—still looking at him fixedly—turning a bracelet round and round
+upon her arm; not winding it about with a light, womanly touch, but
+pressing and dragging it over the smooth skin, until the white limb
+showed a bar of red.
+
+“I observed,” said Mr Dombey—“and this concludes what I deem it
+necessary to say to you at present, Mrs Dombey—I observed a moment ago,
+Madam, that my allusion to Mr Carker was received in a peculiar manner.
+On the occasion of my happening to point out to you, before that
+confidential agent, the objection I had to your mode of receiving my
+visitors, you were pleased to object to his presence. You will have to
+get the better of that objection, Madam, and to accustom yourself to it
+very probably on many similar occasions; unless you adopt the remedy
+which is in your own hands, of giving me no cause of complaint. Mr
+Carker,” said Mr Dombey, who, after the emotion he had just seen, set
+great store by this means of reducing his proud wife, and who was
+perhaps sufficiently willing to exhibit his power to that gentleman in
+a new and triumphant aspect, “Mr Carker being in my confidence, Mrs
+Dombey, may very [[Well|well]] be in yours to such an extent. I [[Hope|hope]], Mrs
+Dombey,” he continued, after a few moments, during which, in his
+increasing haughtiness, he had improved on his idea, “I may not find it
+necessary ever to entrust Mr Carker with any message of objection or
+remonstrance to you; but as it would be derogatory to my position and
+reputation to be frequently holding trivial disputes with a lady upon
+whom I have conferred the highest distinction that it is in my power to
+bestow, I shall not scruple to avail myself of his services if I see
+occasion.”
+
+“And now,” he thought, rising in his moral magnificence, and rising a
+stiffer and more impenetrable man than ever, “she knows me and my
+resolution.”
+
+The hand that had so pressed the bracelet was laid heavily upon her
+breast, but she looked at him still, with an unaltered face, and said
+in a low voice:
+
+“Wait! For God’s sake! I must speak to you.”
+
+Why did she not, and what was the inward struggle that rendered her
+incapable of doing so, for minutes, while, in the strong constraint she
+put upon her face, it was as fixed as any statue’s—looking upon him
+with neither yielding nor unyielding, liking nor hatred, [[Pride|pride]] not
+[[Humility|humility]]: nothing but a searching gaze?
+
+“Did I ever tempt you to seek my hand? Did I ever use any art to win
+you? Was I ever more conciliating to you when you pursued me, than I
+have been since our [[Marriage|marriage]]? Was I ever other to you than I am?”
+
+“It is wholly unnecessary, Madam,” said Mr Dombey, “to enter upon such
+discussions.”
+
+“Did you think I loved you? Did you know I did not? Did you ever care,
+Man! for my heart, or propose to yourself to win the worthless thing?
+Was there any poor pretence of any in our bargain? Upon your side, or
+on mine?”
+
+“These questions,” said Mr Dombey, “are all wide of the purpose,
+Madam.”
+
+She moved between him and the door to prevent his going away, and
+drawing her majestic figure to its height, looked steadily upon him
+still.
+
+“You answer each of them. You answer me before I speak, I see. How can
+you help it; you who know the miserable [[Truth|truth]] as [[Well|well]] as I? Now, tell
+me. If I loved you to devotion, could I do more than render up my whole
+will and being to you, as you have just demanded? If my heart were pure
+and all untried, and you its idol, could you ask more; could you have
+more?”
+
+“Possibly not, Madam,” he returned coolly.
+
+“You know how different I am. You see me looking on you now, and you
+can read the warmth of passion for you that is breathing in my face.”
+Not a curl of the proud lip, not a flash of the dark eye, nothing but
+the same intent and searching look, accompanied these words. “You know
+my general [[history]]. You have spoken of my mother. Do you think you can
+degrade, or bend or break, me to submission and obedience?”
+
+Mr Dombey smiled, as he might have smiled at an inquiry whether he
+thought he could raise ten thousand pounds.
+
+“If there is anything unusual here,” she said, with a slight motion of
+her hand before her brow, which did not for a moment flinch from its
+immovable and otherwise expressionless gaze, “as I know there are
+unusual feelings here,” raising the hand she pressed upon her bosom,
+and heavily returning it, “consider that there is no common meaning in
+the appeal I am going to make you. Yes, for I am going;” she said it as
+in prompt reply to something in his face; “to appeal to you.”
+
+Mr Dombey, with a slightly condescending bend of his chin that rustled
+and crackled his stiff cravat, sat down on a sofa that was near him, to
+hear the appeal.
+
+“If you can believe that I am of such a [[Nature|nature]] now,”—he fancied he saw
+[[Tears|tears]] glistening in her eyes, and he thought, complacently, that he had
+forced them from her, though none fell on her cheek, and she regarded
+him as steadily as ever,—“as would make what I now say almost
+incredible to myself, said to any man who had become my husband, but,
+above all, said to you, you may, perhaps, attach the greater weight to
+it. In the dark end to which we are tending, and may come, we shall not
+involve ourselves [[Alone|alone]] (that might not be much) but others.”
+
+Others! He knew at whom that word pointed, and frowned heavily.
+
+“I speak to you for the sake of others. Also your own sake; and for
+mine. Since our [[Marriage|marriage]], you have been arrogant to me; and I have
+repaid you in kind. You have shown to me and everyone around us, every
+day and hour, that you think I am graced and distinguished by your
+alliance. I do not think so, and have shown that too. It seems you do
+not understand, or (so far as your power can go) intend that each of us
+shall take a separate course; and you expect from me instead, a homage
+you will never have.”
+
+Although her face was still the same, there was emphatic confirmation
+of this “Never” in the very breath she drew.
+
+“I feel no tenderness towards you; that you know. You would care
+nothing for it, if I did or could. I know as [[Well|well]] that you feel none
+towards me. But we are linked together; and in the knot that ties us,
+as I have said, others are bound up. We must both die; we are both
+connected with the dead already, each by a little [[Child|child]]. Let us
+forbear.”
+
+Mr Dombey took a long respiration, as if he would have said, Oh! was
+this all!
+
+“There is no wealth,” she went on, turning paler as she watched him,
+while her eyes grew yet more lustrous in their earnestness, “that could
+buy these words of me, and the meaning that belongs to them. Once cast
+away as idle breath, no wealth or power can bring them back. I mean
+them; I have weighed them; and I will be true to what I undertake. If
+you will promise to forbear on your part, I will promise to forbear on
+mine. We are a most unhappy pair, in whom, from different causes, every
+sentiment that blesses [[Marriage|marriage]], or justifies it, is rooted out; but in
+the course of [[Time|time]], some [[Friendship|friendship]], or some fitness for each other,
+may arise between us. I will try to [[Hope|hope]] so, if you will make the
+endeavour too; and I will look forward to a better and a happier use of
+age than I have made of youth or prime.”
+
+Throughout she had spoken in a low plain voice, that neither [[Rose|rose]] nor
+fell; ceasing, she dropped the hand with which she had enforced herself
+to be so passionless and distinct, but not the eyes with which she had
+so steadily observed him.
+
+“Madam,” said Mr Dombey, with his utmost dignity, “I cannot entertain
+any proposal of this extraordinary [[Nature|nature]].”
+
+She looked at him yet, without the least change.
+
+“I cannot,” said Mr Dombey, rising as he spoke, “consent to temporise
+or treat with you, Mrs Dombey, upon a subject as to which you are in
+possession of my opinions and expectations. I have stated my ultimatum,
+Madam, and have only to request your very serious attention to it.”
+
+To see the face change to its old expression, deepened in intensity! To
+see the eyes droop as from some mean and odious object! To see the
+lighting of the haughty brow! To see scorn, anger, indignation, and
+abhorrence starting into sight, and the pale blank earnestness vanish
+like a mist! He could not choose but look, although he looked to his
+dismay.
+
+“Go, Sir!” she said, pointing with an imperious hand towards the door.
+“Our first and last confidence is at an end. Nothing can make us
+stranger to each other than we are henceforth.”
+
+“I shall take my rightful course, Madam,” said Mr Dombey, “undeterred,
+you may be sure, by any general declamation.”
+
+She turned her back upon him, and, without reply, sat down before her
+glass.
+
+“I place my reliance on your improved sense of duty, and more correct
+feeling, and better reflection, Madam,” said Mr Dombey.
+
+She answered not one word. He saw no more expression of any heed of
+him, in the [[Mirror|mirror]], than if he had been an unseen spider on the wall,
+or beetle on the floor, or rather, than if he had been the one or
+other, seen and crushed when she last turned from him, and forgotten
+among the ignominious and dead vermin of the ground.
+
+He looked back, as he went out at the door, upon the [[Well|well]]-lighted and
+luxurious room, the beautiful and glittering objects everywhere
+displayed, the shape of Edith in its rich dress seated before her
+glass, and the face of Edith as the glass presented it to him; and
+betook himself to his old chamber of cogitation, carrying away with him
+a vivid picture in his mind of all these things, and a rambling and
+unaccountable speculation (such as sometimes comes into a man’s head)
+how they would all look when he saw them next.
+
+For the rest, Mr Dombey was very taciturn, and very dignified, and very
+confident of carrying out his purpose; and remained so.
+
+He did not design accompanying the family to Brighton; but he
+graciously informed [[Cleopatra]] at breakfast, on the morning of
+departure, which arrived a day or two afterwards, that he might be
+expected down, soon. There was no [[Time|time]] to be lost in getting [[Cleopatra]]
+to any place recommended as being salutary; for, indeed, she seemed
+upon the wane, and turning of the earth, earthy.
+
+Without having undergone any decided second attack of her malady, the
+old woman seemed to have crawled backward in her recovery from the
+first. She was more lean and shrunken, more uncertain in her
+imbecility, and made stranger confusions in her mind and [[Memory|memory]]. Among
+other symptoms of this last affliction, she fell into the habit of
+confounding the names of her two sons-in-law, the living and the
+deceased; and in general called Mr Dombey, either “Grangeby,” or
+“Domber,” or indifferently, both.
+
+But she was youthful, very youthful still; and in her youthfulness
+appeared at breakfast, before going away, in a new bonnet made express,
+and a travelling robe that was embroidered and braided like an old
+baby’s. It was not easy to put her into a fly-away bonnet now, or to
+keep the bonnet in its place on the back of her poor nodding head, when
+it was got on. In this instance, it had not only the extraneous effect
+of being always on one side, but of being perpetually tapped on the
+[[Crown|crown]] by [[Flowers]] the maid, who attended in the background during
+breakfast to perform that duty.
+
+“Now, my dearest Grangeby,” said Mrs Skewton, “you must posively prom,”
+she cut some of her words short, and cut out others altogether, “come
+down very soon.”
+
+“I said just now, Madam,” returned Mr Dombey, loudly and laboriously,
+“that I am coming in a day or two.”
+
+“Bless you, Domber!”
+
+Here the Major, who was come to take leave of the ladies, and who was
+staring through his apoplectic eyes at Mrs Skewton’s face with the
+disinterested composure of an immortal being, said:
+
+“Begad, Ma’am, you don’t ask old Joe to come!”
+
+“Sterious wretch, who’s he?” lisped [[Cleopatra]]. But a tap on the bonnet
+from [[Flowers]] seeming to jog her [[Memory|memory]], she added, “Oh! You mean
+yourself, you naughty creature!”
+
+“Devilish queer, Sir,” whispered the Major to Mr Dombey. “Bad case.
+Never did wrap up enough;” the Major being buttoned to the chin. “Why
+who should J. B. mean by Joe, but old Joe Bagstock—Joseph—your
+slave—Joe, Ma’am? Here! Here’s the man! Here are the Bagstock bellows,
+Ma’am!” cried the Major, striking himself a sounding blow on the chest.
+
+“My dearest Edith—Grangeby—it’s most trordinry thing,” said [[Cleopatra]],
+pettishly, “that Major—”
+
+“Bagstock! J. B.!” cried the Major, seeing that she faltered for his
+name.
+
+“[[Well]], it don’t matter,” said [[Cleopatra]]. “Edith, my [[Love|love]], you know I
+never could remember names—what was it? oh!—most trordinry thing that
+so many people want to come down to see me. I’m not going for long. I’m
+coming back. Surely they can wait, till I come back!”
+
+[[Cleopatra]] looked all round the table as she said it, and appeared very
+uneasy.
+
+“I won’t have visitors—really don’t want visitors,” she said; “little
+repose—and all that sort of thing—is what I quire. No odious brutes
+must proach me till I’ve shaken off this numbness;” and in a grisly
+resumption of her coquettish ways, she made a dab at the Major with her
+fan, but overset Mr Dombey’s breakfast cup instead, which was in quite
+a different direction.
+
+Then she called for Withers, and charged him to see particularly that
+word was left about some trivial alterations in her room, which must be
+all made before she came back, and which must be set about immediately,
+as there was no saying how soon she might come back; for she had a
+great many engagements, and all sorts of people to call upon. Withers
+received these directions with becoming deference, and gave his
+guarantee for their execution; but when he withdrew a pace or two
+behind her, it appeared as if he couldn’t help looking strangely at the
+Major, who couldn’t help looking strangely at Mr Dombey, who couldn’t
+help looking strangely at [[Cleopatra]], who couldn’t help nodding her
+bonnet over one eye, and rattling her knife and fork upon her plate in
+using them, as if she were playing castanets.
+
+Edith [[Alone|alone]] never lifted her eyes to any face at the table, and never
+seemed dismayed by anything her mother said or did. She listened to her
+disjointed talk, or at least, turned her head towards her when
+addressed; replied in a few low words when necessary; and sometimes
+stopped her when she was rambling, or brought her thoughts back with a
+monosyllable, to the point from which they had strayed. The mother,
+however unsteady in other things, was constant in this—that she was
+always observant of her. She would look at the beautiful face, in its
+marble stillness and severity, now with a kind of fearful admiration;
+now in a giggling foolish effort to move it to a smile; now with
+capricious [[Tears|tears]] and jealous shakings of her head, as imagining herself
+neglected by it; always with an attraction towards it, that never
+fluctuated like her other ideas, but had constant possession of her.
+From Edith she would sometimes look at Florence, and back again at
+Edith, in a manner that was wild enough; and sometimes she would try to
+look elsewhere, as if to escape from her daughter’s face; but back to
+it she seemed forced to come, although it never sought hers unless
+sought, or troubled her with one single glance.
+
+The breakfast concluded, Mrs Skewton, affecting to lean girlishly upon
+the Major’s arm, but heavily supported on the other side by [[Flowers]] the
+maid, and propped up behind by Withers the page, was conducted to the
+carriage, which was to take her, Florence, and Edith to Brighton.
+
+“And is Joseph absolutely banished?” said the Major, thrusting in his
+purple face over the steps. “Damme, Ma’am, is [[Cleopatra]] so hard-hearted
+as to forbid her faithful Antony Bagstock to approach the presence?”
+
+“Go along!” said [[Cleopatra]], “I can’t bear you. You shall see me when I
+come back, if you are very good.”
+
+“Tell Joseph, he may live in [[Hope|hope]], Ma’am,” said the Major; “or he’ll
+die in [[Despair|despair]].”
+
+[[Cleopatra]] shuddered, and leaned back. “Edith, my dear,” she said. “Tell
+him—”
+
+“What?”
+
+“Such dreadful words,” said [[Cleopatra]]. “He uses such dreadful words!”
+
+Edith signed to him to retire, gave the word to go on, and left the
+objectionable Major to Mr Dombey. To whom he returned, whistling.
+
+“I’ll tell you what, Sir,” said the Major, with his hands behind him,
+and his legs very wide asunder, “a fair friend of ours has removed to
+Queer Street.”
+
+“What do you mean, Major?” inquired Mr Dombey.
+
+“I mean to say, Dombey,” returned the Major, “that you’ll soon be an
+[[Orphan|orphan]]-in-law.”
+
+Mr Dombey appeared to relish this waggish description of himself so
+very little, that the Major wound up with the [[Horse|horse]]’s cough, as an
+expression of gravity.
+
+“Damme, Sir,” said the Major, “there is no use in disguising a fact.
+Joe is blunt, Sir. That’s his [[Nature|nature]]. If you take old Josh at all, you
+take him as you find him; and a devilish rusty, old rasper, of a
+close-toothed, J. B. file, you do find him. Dombey,” said the Major,
+“your wife’s mother is on the move, Sir.”
+
+“I [[Fear|fear]],” returned Mr Dombey, with much [[philosophy]], “that Mrs Skewton
+is shaken.”
+
+“Shaken, Dombey!” said the Major. “Smashed!”
+
+“Change, however,” pursued Mr Dombey, “and attention, may do much yet.”
+
+“Don’t believe it, Sir,” returned the Major. “Damme, Sir, she never
+wrapped up enough. If a man don’t wrap up,” said the Major, taking in
+another button of his buff waistcoat, “he has nothing to fall back
+upon. But some people will die. They will do it. Damme, they will.
+They’re obstinate. I tell you what, Dombey, it may not be ornamental;
+it may not be refined; it may be rough and tough; but a little of the
+genuine old English Bagstock stamina, Sir, would do all the good in the
+world to the human breed.”
+
+After imparting this precious piece of information, the Major, who was
+certainly true-blue, whatever other endowments he may have had or
+wanted, coming within the “genuine old English” classification, which
+has never been exactly ascertained, took his lobster-eyes and his
+apoplexy to the club, and choked there all day.
+
+[[Cleopatra]], at one [[Time|time]] fretful, at another [[Self|self]]-complacent, sometimes
+awake, sometimes asleep, and at all times juvenile, reached Brighton
+the same [[Night|night]], fell to pieces as usual, and was put away in bed; where
+a gloomy fancy might have pictured a more potent [[skeleton]] than the
+maid, who should have been one, watching at the [[Rose|rose]]-coloured curtains,
+which were carried down to shed their bloom upon her.
+
+It was settled in high council of medical authority that she should
+take a carriage airing every day, and that it was important she should
+get out every day, and walk if she could. Edith was ready to attend
+her—always ready to attend her, with the same mechanical attention and
+immovable [[Beauty|beauty]]—and they drove out [[Alone|alone]]; for Edith had an uneasiness
+in the presence of Florence, now that her mother was worse, and told
+Florence, with a kiss, that she would rather they two went [[Alone|alone]].
+
+Mrs Skewton, on one particular day, was in the irresolute, exacting,
+jealous temper that had developed itself on her recovery from her first
+attack. After sitting silent in the carriage watching Edith for some
+[[Time|time]], she took her hand and kissed it passionately. The hand was
+neither given nor withdrawn, but simply yielded to her raising of it,
+and being released, dropped down again, almost as if it were
+insensible. At this she began to whimper and moan, and say what a
+mother she had been, and how she was forgotten! This she continued to
+do at capricious intervals, even when they had alighted: when she
+herself was halting along with the joint support of Withers and a
+stick, and Edith was walking by her side, and the carriage slowly
+following at a little distance.
+
+It was a bleak, lowering, windy day, and they were out upon the Downs
+with nothing but a bare sweep of land between them and the sky. The
+mother, with a querulous satisfaction in the monotony of her complaint,
+was still repeating it in a low voice from [[Time|time]] to [[Time|time]], and the proud
+form of her daughter moved beside her slowly, when there came advancing
+over a dark ridge before them, two other figures, which in the
+distance, were so like an exaggerated [[Imitation|imitation]] of their own, that
+Edith stopped.
+
+Almost as she stopped, the two figures stopped; and that one which to
+Edith’s thinking was like a distorted [[Shadow|shadow]] of her mother, spoke to
+the other, earnestly, and with a pointing hand towards them. That one
+seemed inclined to turn back, but the other, in which Edith recognised
+enough that was like herself to strike her with an unusual feeling, not
+quite free from [[Fear|fear]], came on; and then they came on together.
 
 [Illustration]
 
-“I think I could perhaps give Paul some help, Susan, if I had these
-books,” said Florence, “and make the coming week a little easier to
-him. At least I want to try. So buy them for me, dear, and I will never
-forget how kind it was of you to do it!”
+The greater part of this observation, she made while walking towards
+them, for her stoppage had been momentary. Nearer observation showed
+her that they were poorly dressed, as wanderers about the country; that
+the younger woman carried knitted work or some such goods for sale; and
+that the old one toiled on empty-handed.
 
-It must have been a harder heart than [[Susan Nipper]]’s that could have
-rejected the little purse Florence held out with these words, or the
-gentle look of entreaty with which she seconded her petition. Susan put
-the purse in her pocket without reply, and trotted out at once upon her
-errand.
+And yet, however far removed she was in dress, in dignity, in [[Beauty|beauty]],
+Edith could not but compare the younger woman with herself, still. It
+may have been that she saw upon her face some traces which she knew
+were lingering in her own [[Soul|soul]], if not yet written on that index; but,
+as the woman came on, returning her gaze, fixing her shining eyes upon
+her, undoubtedly presenting something of her own air and stature, and
+appearing to reciprocate her own thoughts, she felt a chill creep over
+her, as if the day were darkening, and the [[Wind|wind]] were colder.
 
-The books were not easy to procure; and the answer at several shops
-was, either that they were just out of them, or that they never kept
-them, or that they had had a great many last month, or that they
-expected a great many next week But Susan was not easily baffled in
-such an enterprise; and having entrapped a white-haired youth, in a
-black calico apron, from a library where she was known, to accompany
-her in her [[Quest|quest]], she led him such a life in going up and down, that he
-exerted himself to the utmost, if it were only to get rid of her; and
-finally enabled her to return [[Home|home]] in triumph.
+They had now come up. The old woman, holding out her hand
+importunately, stopped to beg of Mrs Skewton. The younger one stopped
+too, and she and Edith looked in one another’s eyes.
 
-With these treasures then, after her own daily lessons were over,
-Florence sat down at [[Night|night]] to track Paul’s footsteps through the thorny
-ways of learning; and being possessed of a naturally quick and sound
-capacity, and taught by that most wonderful of masters, [[Love|love]], it was
-not long before she gained upon Paul’s heels, and caught and passed
-him.
+“What is it that you have to sell?” said Edith.
 
-Not a word of this was breathed to Mrs Pipchin: but many a [[Night|night]] when
-they were all in bed, and when Miss Nipper, with her hair in papers and
-herself asleep in some uncomfortable attitude, reposed unconscious by
-her side; and when the chinking ashes in the grate were cold and grey;
-and when the candles were burnt down and guttering out;—Florence tried
-so hard to be a substitute for one small Dombey, that her fortitude and
-perseverance might have almost won her a free right to bear the name
-herself.
+“Only this,” returned the woman, holding out her wares, without looking
+at them. “I sold myself long ago.”
 
-And high was her reward, when one Saturday evening, as little Paul was
-sitting down as usual to “resume his studies,” she sat down by his
-side, and showed him all that was so rough, made smooth, and all that
-was so dark, made clear and plain, before him. It was nothing but a
-startled look in Paul’s wan face—a flush—a smile—and then a close
-embrace—but God knows how her heart leapt up at this rich payment for
-her trouble.
+“My Lady, don’t believe her,” croaked the old woman to Mrs Skewton;
+“don’t believe what she says. She loves to talk like that. She’s my
+handsome and undutiful daughter. She gives me nothing but reproaches,
+my Lady, for all I have done for her. Look at her now, my Lady, how she
+turns upon her poor old mother with her looks.”
 
-“Oh, Floy!” cried her brother, “how I [[Love|love]] you! How I [[Love|love]] you, Floy!”
+As Mrs Skewton drew her purse out with a trembling hand, and eagerly
+fumbled for some money, which the other old woman greedily watched
+for—their heads all but touching, in their hurry and decrepitude—Edith
+interposed:
 
-“And I you, dear!”
+“I have seen you,” addressing the old woman, “before.”
 
-“Oh! I am sure of that, Floy.”
+“Yes, my Lady,” with a curtsey. “Down in Warwickshire. The morning
+among the trees. When you wouldn’t give me nothing. But the gentleman,
+he give me something! Oh, bless him, bless him!” mumbled the old woman,
+holding up her skinny hand, and grinning frightfully at her daughter.
 
-He said no more about it, but all that evening sat close by her, very
-quiet; and in the [[Night|night]] he called out from his little room within hers,
-three or four times, that he loved her.
+“It’s of no use attempting to stay me, Edith!” said Mrs Skewton,
+angrily anticipating an objection from her. “You know nothing about it.
+I won’t be dissuaded. I am sure this is an excellent woman, and a good
+mother.”
 
-Regularly, after that, Florence was prepared to sit down with Paul on
-Saturday [[Night|night]], and patiently assist him through so much as they could
-anticipate together of his next week’s work. The cheering thought that
-he was labouring on where Florence had just toiled before him, would,
-of itself, have been a stimulant to Paul in the perpetual resumption of
-his studies; but coupled with the actual lightening of his load,
-consequent on this assistance, it saved him, possibly, from sinking
-underneath the burden which the fair Cornelia Blimber piled upon his
-back.
+“Yes, my Lady, yes,” chattered the old woman, holding out her
+avaricious hand. “Thankee, my Lady. Lord bless you, my Lady. Sixpence
+more, my pretty Lady, as a good mother yourself.”
 
-It was not that Miss Blimber meant to be too hard upon him, or that
-Doctor Blimber meant to bear too heavily on the young gentlemen in
-general. Cornelia merely held the [[Faith|faith]] in which she had been bred; and
-the Doctor, in some partial confusion of his ideas, regarded the young
-gentlemen as if they were all Doctors, and were born grown up.
-Comforted by the applause of the young gentlemen’s nearest relations,
-and urged on by their blind [[Vanity|vanity]] and ill-considered haste, it would
-have been strange if Doctor Blimber had discovered his mistake, or
-trimmed his swelling sails to any other tack.
+“And treated undutifully enough, too, my good old creature, sometimes,
+I assure you,” said Mrs Skewton, whimpering. “There! Shake hands with
+me. You’re a very good old creature—full of what’s-his-name—and all
+that. You’re all affection and et cetera, ain’t you?”
 
-Thus in the case of Paul. When Doctor Blimber said he made great
-progress and was naturally clever, Mr Dombey was more bent than ever on
-his being forced and crammed. In the case of Briggs, when Doctor
-Blimber reported that he did not make great progress yet, and was not
-naturally clever, Briggs senior was inexorable in the same purpose. In
-short, however high and false the temperature at which the Doctor kept
-his hothouse, the owners of the plants were always ready to lend a
-helping hand at the bellows, and to stir the [[Fire|fire]].
+“Oh, yes, my Lady!”
 
-Such spirits as he had in the outset, Paul soon lost of course. But he
-retained all that was strange, and old, and thoughtful in his
-character: and under circumstances so favourable to the development of
-those tendencies, became even more strange, and old, and thoughtful,
-than before.
+“Yes, I’m sure you are; and so’s that gentlemanly creature Grangeby. I
+must really shake hands with you again. And now you can go, you know;
+and I [[Hope|hope]],” addressing the daughter, “that you’ll show more gratitude,
+and natural what’s-its-name, and all the rest of it—but I never
+remember names—for there never was a better mother than the good old
+creature’s been to you. Come, Edith!”
 
-The only difference was, that he kept his character to himself. He grew
-more thoughtful and reserved, every day; and had no such curiosity in
-any living member of the Doctor’s household, as he had had in Mrs
-Pipchin. He loved to be [[Alone|alone]]; and in those short intervals when he was
-not occupied with his books, liked nothing so [[Well|well]] as wandering about
-the [[house]] by himself, or sitting on the stairs, listening to the great
-[[Clock|clock]] in the hall. He was intimate with all the paperhanging in the
-[[house]]; saw things that no one else saw in the patterns; found out
-miniature tigers and lions running up the bedroom walls, and squinting
-faces leering in the squares and diamonds of the floor-cloth.
+As the ruin of [[Cleopatra]] tottered off whimpering, and wiping its eyes
+with a gingerly remembrance of rouge in their neighbourhood, the old
+woman hobbled another way, mumbling and counting her money. Not one
+word more, nor one other gesture, had been exchanged between Edith and
+the younger woman, but neither had removed her eyes from the other for
+a moment. They had remained confronted until now, when Edith, as
+awakening from [[A Dream|a dream]], passed slowly on.
 
-The solitary [[Child|child]] lived on, surrounded by this arabesque work of his
-musing fancy, and no one understood him. Mrs Blimber thought him “odd,”
-and sometimes the servants said among themselves that little Dombey
-“moped;” but that was all.
-
-Unless young Toots had some idea on the subject, to the expression of
-which he was wholly unequal. Ideas, like [[Ghosts|ghosts]] (according to the
-common notion of [[Ghosts|ghosts]]), must be spoken to a little before they will
-explain themselves; and Toots had long left off asking any questions of
-his own mind. Some mist there may have been, issuing from that leaden
-casket, his cranium, which, if it could have taken shape and form,
-would have become a genie; but it could not; and it only so far
-followed the example of the smoke in the Arabian story, as to roll out
-in a thick cloud, and there hang and hover. But it left a little figure
-visible upon a lonely shore, and Toots was always staring at it.
-
-“How are you?” he would say to Paul, fifty times a day. “Quite [[Well|well]],
-Sir, thank you,” Paul would answer. “Shake hands,” would be Toots’s
-next advance.
-
-Which Paul, of course, would immediately do. Mr Toots generally said
-again, after a long interval of staring and hard breathing, “How are
-you?” To which Paul again replied, “Quite [[Well|well]], Sir, thank you.”
-
-One evening Mr Toots was sitting at his desk, oppressed by
-correspondence, when a great purpose seemed to flash upon him. He laid
-down his pen, and went off to seek Paul, whom he found at last, after a
-long search, looking through the [[Window|window]] of his little bedroom.
-
-“I say!” cried Toots, speaking the moment he entered the room, lest he
-should forget it; “what do you think about?”
-
-“Oh! I think about a great many things,” replied Paul.
-
-“Do you, though?” said Toots, appearing to consider that fact in itself
-surprising. “If you had to die,” said Paul, looking up into his face—Mr
-Toots started, and seemed much disturbed.
-
-“Don’t you think you would rather die on a moonlight [[Night|night]], when the
-sky was quite clear, and the [[Wind|wind]] blowing, as it did last [[Night|night]]?”
-
-Mr Toots said, looking doubtfully at Paul, and shaking his head, that
-he didn’t know about that.
-
-“Not blowing, at least,” said Paul, “but sounding in the air like the
-sea sounds in the shells. It was a beautiful [[Night|night]]. When I had listened
-to the [[Water|water]] for a long [[Time|time]], I got up and looked out. There was a boat
-over there, in the full light of the [[Moon|moon]]; a boat with a sail.”
-
-The [[Child|child]] looked at him so steadfastly, and spoke so earnestly, that Mr
-Toots, feeling himself called upon to say something about this boat,
-said, “Smugglers.” But with an impartial remembrance of there being two
-sides to every question, he added, “or Preventive.”
-
-“A boat with a sail,” repeated Paul, “in the full light of the [[Moon|moon]].
-The sail like an arm, all silver. It went away into the distance, and
-what do you think it seemed to do as it moved with the waves?”
-
-“Pitch,” said Mr Toots.
-
-“It seemed to beckon,” said the [[Child|child]], “to beckon me to come!—There she
-is! There she is!”
-
-Toots was almost beside himself with dismay at this sudden exclamation,
-after what had gone before, and cried “Who?”
-
-“My sister Florence!” cried Paul, “looking up here, and waving her
-hand. She sees me—she sees me! Good-[[Night|night]], dear, good-[[Night|night]],
-good-[[Night|night]].”
-
-His quick transition to a state of unbounded pleasure, as he stood at
-his [[Window|window]], kissing and clapping his hands: and the way in which the
-light retreated from his features as she passed out of his view, and
-left a patient [[Melancholy|melancholy]] on the little face: were too remarkable
-wholly to escape even Toots’s notice. Their interview being interrupted
-at this moment by a visit from Mrs Pipchin, who usually brought her
-black skirts to bear upon Paul just before dusk, once or twice a week,
-Toots had no opportunity of improving the occasion: but it left so
-marked an impression on his mind that he twice returned, after having
-exchanged the usual salutations, to ask Mrs Pipchin how she did. This
-the irascible old lady conceived to be a deeply devised and
-long-meditated insult, originating in the diabolical invention of the
-weak-eyed young man downstairs, against whom she accordingly lodged a
-formal complaint with Doctor Blimber that very [[Night|night]]; who mentioned to
-the young man that if he ever did it again, he should be obliged to
-part with him.
-
-The evenings being longer now, Paul stole up to his [[Window|window]] every
-evening to look out for Florence. She always passed and repassed at a
-certain [[Time|time]], until she saw him; and their mutual recognition was a
-gleam of sunshine in Paul’s daily life. Often after dark, one other
-figure walked [[Alone|alone]] before the Doctor’s [[house]]. He rarely joined them on
-the Saturdays now. He could not bear it. He would rather come
-unrecognised, and look up at the windows where his son was qualifying
-for a man; and wait, and watch, and plan, and [[Hope|hope]].
-
-Oh! could he but have seen, or seen as others did, the slight spare boy
-above, watching the waves and clouds at twilight, with his earnest
-eyes, and breasting the [[Window|window]] of his solitary cage when [[Birds|birds]] flew by,
-as if he would have emulated them, and soared away!
+“You’re a handsome woman,” muttered her [[Shadow|shadow]], looking after her; “but
+good looks won’t save us. And you’re a proud woman; but [[Pride|pride]] won’t
+save us. We had need to know each other when we meet again!”

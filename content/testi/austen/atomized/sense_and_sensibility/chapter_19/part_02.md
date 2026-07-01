@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 19 (part 2)"
+title: "Sense and Sensibility — Chapter 19 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_19/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_19/part_03">part 03 ›</a></div>
 </nav>
 
+
+shortly took place, and left an uncomfortable impression on Elinor’s
+
+feelings especially, which required some trouble and [[Time|time]] to subdue.
 
 But as it was her determination to subdue it, and to prevent herself
 
@@ -213,19 +217,3 @@ speaking a word, and, after briefly surveying them and their
 apartments, took up a newspaper from the table, and continued to read
 
 it as long as he staid.
-
-
-
-Mrs. Palmer, on the contrary, who was strongly endowed by [[Nature|nature]] with a
-
-turn for being uniformly civil and happy, was hardly seated before her
-
-admiration of the parlour and every thing in it burst forth.
-
-
-
-“[[Well]]! what a delightful room this is! I never saw anything so
-
-charming! Only think, Mama, how it is improved since I was here last! I
-
-always thought it such a sweet place, ma’am! (turning to Mrs. Dashwood)

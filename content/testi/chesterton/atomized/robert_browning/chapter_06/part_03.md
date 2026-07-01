@@ -14,6 +14,44 @@ tags:
 </nav>
 
 
+    "Up jumped Tokay on our table,
+    Like a pigmy [[Castle|castle]]-warder,
+    Dwarfish to see, but stout and able,
+    Arms and accoutrements all in order;
+    And fierce he looked North, then, wheeling South
+    Blew with his bugle a challenge to Drouth,
+    Cocked his flap-hat with the tosspot-feather,
+    Twisted his thumb in his red moustache,
+    Jingled his huge brass spurs together,
+    Tightened his waist with its Buda sash,
+    And then, with an impudence nought could abash,
+    Shrugged his hump-shoulder, to tell the beholder,
+    For twenty such knaves he would laugh but the bolder:
+    And so, with his [[Sword|sword]]-hilt gallantly jutting,
+    And dexter-hand on his haunch abutting,
+    Went the little man, Sir Ausbruch, strutting!"
+
+I suppose there are Browning students in existence who would think
+that this poem contained something pregnant about the Temperance
+question, or was a marvellously subtle analysis of the romantic
+movement in [[Germany]]. But surely to most of us it is sufficiently
+apparent that Browning was simply fashioning a ridiculous
+knick-knack, exactly as if he were actually moulding one of these
+preposterous German jugs. Now before studying the real character of
+this Browningesque style, there is one general [[Truth|truth]] to be recognised
+about Browning's work. It is this--that it is absolutely necessary to
+remember that Browning had, like every other poet, his simple and
+indisputable failures, and that it is one thing to speak of the
+badness of his artistic failures, and quite another thing to speak of
+the badness of his artistic aim. Browning's style may be a good style,
+and yet exhibit many examples of a thoroughly bad use of it. On this
+point there is indeed a singularly unfair system of judgment used by
+the public towards the poets. It is very little realised that the vast
+majority of great poets have written an enormous amount of very bad
+poetry. The unfortunate Wordsworth is generally supposed to be almost
+[[Alone|alone]] in this; but any one who thinks so can scarcely have read a
+certain number of the minor [[Poems|poems]] of Byron and Shelley and Tennyson.
+
 Now it is only just to Browning that his more uncouth effusions should
 not be treated as masterpieces by which he must stand or fall, but
 treated simply as his failures. It is really true that such a line as
@@ -69,16 +107,16 @@ question is not whether that particular preposterous couplet about
 lilies and roses redounds to the credit of the Swinburnian style, but
 whether it would be possible in any other style than the Swinburnian
 to have written the [[Hymn]] to Proserpine. In the same way, the essential
-issue about Browning as an [[Artist|artist]] is not whether he, in common with
+issue about Browning as an [[artist]] is not whether he, in common with
 Byron, Wordsworth, Shelley, Tennyson, and Swinburne, sometimes wrote
 bad poetry, but whether in any other style except Browning's you could
 have achieved the precise artistic effect which is achieved by such
 incomparable lyrics as "The Patriot" or "The Laboratory." The answer
 must be in the negative, and in that answer lies the whole
-justification of Browning as an [[Artist|artist]].
+justification of Browning as an [[artist]].
 
 The question now arises, therefore, what was his conception of his
-functions as an [[Artist|artist]]? We have already agreed that his artistic
+functions as an [[artist]]? We have already agreed that his artistic
 originality concerned itself chiefly with the serious use of the
 [[Grotesque|grotesque]]. It becomes necessary, therefore, to ask what is the serious
 use of the [[Grotesque|grotesque]], and what relation does the [[Grotesque|grotesque]] bear to the

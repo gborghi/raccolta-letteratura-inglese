@@ -14,6 +14,33 @@ tags:
 </nav>
 
 
+We had another odd specimen on board, of a different kind.  This was a
+thin-faced, spare-figured man of middle age and stature, dressed in a
+dusty drabbish-coloured suit, such as I never saw before.  He was
+perfectly quiet during the first part of the [[Journey|journey]]: indeed I don’t
+remember having so much as seen him until he was brought out by
+circumstances, as great men often are.  The conjunction of events which
+made him famous, happened, briefly, thus.
+
+The canal extends to the foot of the mountain, and there, of course, it
+stops; the passengers being conveyed across it by land carriage, and
+taken on afterwards by another canal boat, the counterpart of the first,
+which awaits them on the other side.  There are two canal lines of
+passage-boats; one is called The Express, and one (a cheaper one) The
+Pioneer.  The Pioneer gets first to the mountain, and waits for the
+Express people to come up; both sets of passengers being conveyed across
+it at the same [[Time|time]].  We were the Express company; but when we had
+crossed the mountain, and had come to the second boat, the proprietors
+took it into their beads to draft all the Pioneers into it likewise, so
+that we were five-and-forty at least, and the accession of passengers was
+not at all of that kind which improved the prospect of sleeping at [[Night|night]].
+Our people grumbled at this, as people do in such cases; but suffered the
+boat to be towed off with the whole freight aboard nevertheless; and away
+we went down the canal.  At [[Home|home]], I should have protested lustily, but
+being a foreigner here, I held my peace.  Not so this passenger.  He
+cleft a path among the people on deck (we were nearly all on deck), and
+without addressing anybody whomsoever, soliloquised as follows:
+
 ‘This may suit _you_, this may, but it don’t suit _me_.  This may be all
 very [[Well|well]] with Down Easters, and men of Boston raising, but it won’t suit
 my figure nohow; and no two ways about _that_; and so I tell you.  Now!
@@ -88,26 +115,3 @@ unseen men lay crouching round a [[Fire|fire]]; the shining out of the bright
 [[Stars|stars]] undisturbed by noise of wheels or steam, or any other sound than
 the limpid rippling of the [[Water|water]] as the boat went on: all these were pure
 delights.
-
-Then there were new settlements and detached log-cabins and frame-houses,
-full of interest for strangers from an old country: cabins with simple
-ovens, outside, made of clay; and lodgings for the pigs nearly as good as
-many of the human quarters; broken windows, patched with worn-out hats,
-old clothes, old boards, fragments of blankets and paper; and [[Home|home]]-made
-dressers standing in the open air without the door, whereon was ranged
-the household store, not hard to count, of earthen jars and pots.  The
-eye was pained to see the stumps of great trees thickly strewn in every
-field of wheat, and seldom to lose the eternal swamp and dull morass,
-with hundreds of rotten trunks and twisted branches steeped in its
-unwholesome [[Water|water]].  It was quite sad and oppressive, to come upon great
-tracts where settlers had been burning down the trees, and where their
-wounded bodies lay about, like those of murdered creatures, while here
-and there some charred and blackened giant reared aloft two withered
-arms, and seemed to call down curses on his foes.  Sometimes, at [[Night|night]],
-the way wound through some lonely gorge, like a mountain pass in
-Scotland, shining and coldly glittering in the light of the [[Moon|moon]], and so
-closed in by high steep hills all round, that there seemed to be no
-egress save through the narrower path by which we had come, until one
-rugged [[Hill|hill]]-side seemed to open, and shutting out the moonlight as we
-passed into its gloomy throat, wrapped our new course in shade and
-darkness.

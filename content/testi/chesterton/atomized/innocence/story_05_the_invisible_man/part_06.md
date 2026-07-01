@@ -1,5 +1,5 @@
 ---
-title: "[[innocence]] — The Invisible Man (part 6)"
+title: "innocence — The Invisible Man (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -15,7 +15,7 @@ tags:
 
 
 "An invisible man?" inquired Angus, raising his red eyebrows.
-"A mentally invisible man," said [[Father Brown]].
+"A mentally invisible man," said Father Brown.
 
 A minute or two after he resumed in the same unassuming voice,
 like a man thinking his way.  "Of course you can't think
@@ -23,36 +23,36 @@ of such a man, until you do think of him.  That's where his
 cleverness comes in.  But I came to think of him through
 two or three little things in the tale Mr. Angus told us.
 First, there was the fact that this Welkin went for long walks.
-And then there was the vast lot of stamp paper on the [[Window|window]].
+And then there was the vast lot of stamp paper on the window.
 And then, most of all, there were the two things the young
 lady said--things that couldn't be true.  Don't get annoyed,"
 he added hastily, noting a sudden movement of the Scotchman's head;
 "she thought they were true.  A person can't be quite
-[[Alone|alone]] in a street a second before she receives a letter.
-She can't be quite [[Alone|alone]] in a street when she starts reading
+alone in a street a second before she receives a letter.
+She can't be quite alone in a street when she starts reading
 a letter just received.  There must be somebody pretty near her;
 he must be mentally invisible."
 
 "Why must there be somebody near her?" asked Angus.
 
-"Because," said [[Father Brown]], "barring carrier-pigeons, somebody must
+"Because," said Father Brown, "barring carrier-pigeons, somebody must
 have brought her the letter."
 
-"Do you really mean to say," asked [[Flambeau]], with energy,
+"Do you really mean to say," asked Flambeau, with energy,
 "that Welkin carried his rival's letters to his lady?"
 
 "Yes," said the priest.  "Welkin carried his rival's letters to his lady.
 You see, he had to."
 
-"Oh, I can't stand much more of this," exploded [[Flambeau]].  "Who is
+"Oh, I can't stand much more of this," exploded Flambeau.  "Who is
 this fellow?  What does he look like?  What is the usual get-up
 of a mentally invisible man?"
 
 "He is dressed rather handsomely in red, blue and gold,"
 replied the priest promptly with precision, "and in this striking,
 and even showy, costume he entered Himylaya Mansions under eight
-human eyes; he killed Smythe in cold [[Blood|blood]], and came down into
-the street again carrying the dead [[Body|body]] in his arms--"
+human eyes; he killed Smythe in cold blood, and came down into
+the street again carrying the dead body in his arms--"
 
 "Reverend sir," cried Angus, standing still, "are you raving mad,
 or am I?"
@@ -69,13 +69,13 @@ under the shade of the trees.
 bags where a small corpse can be stowed quite easily."
 
 The postman, instead of turning naturally, had ducked and tumbled against
-the [[Garden|garden]] fence.  He was a lean fair-bearded man of very ordinary appearance,
+the garden fence.  He was a lean fair-bearded man of very ordinary appearance,
 but as he turned an alarmed face over his shoulder, all three men were fixed
 with an almost fiendish squint.
                             * * * * * *
 
-[[Flambeau]] went back to his sabres, purple rugs and Persian cat, having many
+Flambeau went back to his sabres, purple rugs and Persian cat, having many
 things to attend to.  John Turnbull Angus went back to the lady at the shop,
 with whom that imprudent young man contrives to be extremely comfortable.
-But [[Father Brown]] walked those [[Snow|snow]]-covered hills under the [[Stars|stars]] for many
+But Father Brown walked those snow-covered hills under the stars for many
 hours with a murderer, and what they said to each other will never be known.

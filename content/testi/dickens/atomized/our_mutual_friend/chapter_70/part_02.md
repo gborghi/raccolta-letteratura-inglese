@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 11 (part 2)"
+title: "Our Mutual Friend — Chapter 15 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,106 +14,135 @@ tags:
 </nav>
 
 
-He was even better convinced of the [[Truth|truth]] of what she said than she was,
-as he felt her loving arms about him. If the Golden Dustman’s riches had
-been his to stake, he would have staked them to the last farthing on the
-fidelity through good and evil of her affectionate and trusting heart.
+Another tossing of arms, another nod, and another shrill [[Chorus|chorus]]:
 
-‘Now, I’ll go down to, and go away with, Mr Lightwood,’ said Bella,
-springing up. ‘You are the most creasing and tumbling Clumsy-Boots of a
-packer, John, that ever was; but if you’re quite good, and will promise
-never to do so any more (though I don’t know what you have done!) you
-may pack me a little bag for a [[Night|night]], while I get my bonnet on.’
+‘[[Bradley Headstone]]!’
 
-He gaily complied, and she tied her dimpled chin up, and shook her head
-into her bonnet, and pulled out the bows of her bonnet-strings, and
-got her gloves on, finger by finger, and finally got them on her
-little plump hands, and bade him good-bye and went down. Mr Lightwood’s
-impatience was much relieved when he found her dressed for departure.
+‘I’ve got it now!’ said Riderhood, after attentively listening, and
+internally repeating: ‘Bradley. I see. Chris’en name, Bradley sim’lar to
+Roger which is my own. Eh? Fam’ly name, Headstone, sim’lar to Riderhood
+which is my own. Eh?’
 
-‘Mr Rokesmith goes with us?’ he said, hesitating, with a look towards
-the door.
+Shrill [[Chorus|chorus]]. ‘Yes!’
 
-‘Oh, I forgot!’ replied Bella. ‘His best compliments. His face is
-swollen to the size of two faces, and he is to go to bed directly, poor
-fellow, to wait for the doctor, who is coming to lance him.’
+‘Might you be acquainted, learned governor,’ said Riderhood, ‘with a
+person of about your own heighth and breadth, and wot ’ud pull down in
+a scale about your own weight, answering to a name sounding summat like
+Totherest?’
 
-‘It is curious,’ observed Lightwood, ‘that I have never yet seen Mr
-Rokesmith, though we have been engaged in the same affairs.’
+With a desperation in him that made him perfectly quiet, though his jaw
+was heavily squared; with his eyes upon Riderhood; and with traces of
+quickened breathing in his nostrils; the schoolmaster replied, in a
+suppressed voice, after a pause: ‘I think I know the man you mean.’
 
-‘Really?’ said the unblushing Bella.
+‘I thought you knowed the man I mean, learned governor. I want the man.’
 
-‘I begin to think,’ observed Lightwood, ‘that I never shall see him.’
+With a half glance around him at his pupils, Bradley returned:
 
-‘These things happen so oddly sometimes,’ said Bella with a steady
-countenance, ‘that there seems a kind of fatality in them. But I am
-quite ready, Mr Lightwood.’
+‘Do you suppose he is here?’
 
-They started directly, in a little carriage that Lightwood had brought
-with him from never-to-be-forgotten Greenwich; and from Greenwich they
-started directly for [[London]]; and in [[London]] they waited at a railway
-station until such [[Time|time]] as the Reverend Frank Milvey, and Margaretta
-his wife, with whom Mortimer Lightwood had been already in conference,
-should come and join them.
+‘Begging your pardon, learned governor, and by your leave,’ said
+Riderhood, with a laugh, ‘how could I suppose he’s here, when there’s
+nobody here but you, and me, and these young lambs wot you’re a learning
+on? But he is most excellent company, that man, and I want him to come
+and see me at my Lock, up the [[River|river]].’
 
-That worthy couple were delayed by a portentous old parishioner of the
-female gender, who was one of the plagues of their lives, and with whom
-they bore with most exemplary sweetness and good-[[Humour|humour]], notwithstanding
-her having an infection of absurdity about her, that communicated itself
-to everything with which, and everybody with whom, she came in contact.
-She was a member of the Reverend Frank’s congregation, and made a point
-of distinguishing herself in that [[Body|body]], by conspicuously weeping at
-everything, however cheering, said by the Reverend Frank in his public
-ministration; also by applying to herself the various lamentations of
-David, and complaining in a personally injured manner (much in arrear of
-the clerk and the rest of the respondents) that her enemies were digging
-pit-falls about her, and breaking her with rods of iron. Indeed, this
-old widow discharged herself of that portion of the Morning and Evening
-Service as if she were lodging a complaint on oath and applying for
-a warrant before a magistrate. But this was not her most inconvenient
-characteristic, for that took the form of an impression, usually
-recurring in inclement weather and at about daybreak, that she had
-something on her mind and stood in immediate need of the Reverend Frank
-to come and take it off. Many a [[Time|time]] had that kind creature got up, and
-gone out to Mrs Sprodgkin (such was the disciple’s name), suppressing
-a strong sense of her comicality by his strong sense of duty, and
-perfectly knowing that nothing but a cold would come of it. However,
-beyond themselves, the Reverend Frank Milvey and Mrs Milvey seldom
-hinted that Mrs Sprodgkin was hardly worth the trouble she gave; but
-both made the best of her, as they did of all their troubles.
+‘I’ll tell him so.’
 
-This very exacting member of the fold appeared to be endowed with a
-sixth sense, in regard of knowing when the Reverend Frank Milvey least
-desired her company, and with promptitude appearing in his little hall.
-Consequently, when the Reverend Frank had willingly engaged that he and
-his wife would accompany Lightwood back, he said, as a matter of course:
-‘We must make haste to get out, Margaretta, my dear, or we shall be
-descended on by Mrs Sprodgkin.’ To which Mrs Milvey replied, in her
-pleasantly emphatic way, ‘Oh YES, for she IS such a marplot, Frank, and
-DOES worry so!’ Words that were scarcely uttered when their theme
-was announced as in faithful attendance below, desiring counsel on a
-spiritual matter. The points on which Mrs Sprodgkin sought elucidation
-being seldom of a pressing [[Nature|nature]] (as Who begat Whom, or some
-information concerning the Amorites), Mrs Milvey on this special
-occasion resorted to the device of buying her off with a present of tea
-and sugar, and a loaf and butter. These gifts Mrs Sprodgkin accepted,
-but still insisted on dutifully remaining in the hall, to curtsey to the
-Reverend Frank as he came forth. Who, incautiously saying in his genial
-manner, ‘[[Well]], Sally, there you are!’ involved himself in a discursive
-address from Mrs Sprodgkin, revolving around the result that she
-regarded tea and sugar in the light of myrrh and frankincense, and
-considered bread and butter identical with locusts and wild honey.
-Having communicated this edifying piece of information, Mrs Sprodgkin
-was left still unadjourned in the hall, and Mr and Mrs Milvey hurried in
-a heated condition to the railway station. All of which is here recorded
-to the [[Honour|honour]] of that good Christian pair, representatives of hundreds
-of other good Christian pairs as conscientious and as useful, who merge
-the smallness of their work in its [[Greatness|greatness]], and feel in no danger of
-losing dignity when they adapt themselves to incomprehensible humbugs.
+‘D’ye think he’ll come?’ asked Riderhood.
 
-‘Detained at the last moment by one who had a claim upon me,’ was the
-Reverend Frank’s apology to Lightwood, taking no thought of himself.
-To which Mrs Milvey added, taking thought for him, like the championing
-little wife she was; ‘Oh yes, detained at the last moment. But AS to
-the claim, Frank, I MUST say that I DO think you are OVER-considerate
-sometimes, and allow THAT to be a LITTLE abused.’
+‘I am sure he will.’
+
+‘Having got your word for him,’ said Riderhood, ‘I shall count upon him.
+P’raps you’d so fur obleege me, learned governor, as tell him that if he
+don’t come precious soon, I’ll look him up.’
+
+‘He shall know it.’
+
+‘Thankee. As I says a while ago,’ pursued Riderhood, changing his hoarse
+tone and leering round upon the class again, ‘though not a learned
+character my own [[Self|self]], I do admire learning in others, to be sure! Being
+here and having met with your kind attention, Master, might I, afore I
+go, ask a question of these here young lambs of yourn?’
+
+‘If it is in the way of school,’ said Bradley, always sustaining his
+dark look at the other, and speaking in his suppressed voice, ‘you may.’
+
+‘Oh! It’s in the way of school!’ cried Riderhood. ‘I’ll pound it,
+Master, to be in the way of school. Wot’s the diwisions of [[Water|water]], my
+lambs? Wot sorts of [[Water|water]] is there on the land?’
+
+Shrill [[Chorus|chorus]]: ‘Seas, rivers, lakes, and ponds.’
+
+‘Seas, rivers, lakes, and ponds,’ said Riderhood. ‘They’ve got all the
+lot, Master! Blowed if I shouldn’t have left out lakes, never having
+clapped eyes upon one, to my knowledge. Seas, rivers, lakes, and ponds.
+Wot is it, lambs, as they ketches in seas, rivers, lakes, and ponds?’
+
+Shrill [[Chorus|chorus]] (with some contempt for the ease of the question):
+
+‘Fish!’
+
+‘Good a-gin!’ said Riderhood. ‘But wot else is it, my lambs, as they
+sometimes ketches in rivers?’
+
+[[Chorus]] at a loss. One shrill voice: ‘Weed!’
+
+‘Good agin!’ cried Riderhood. ‘But it ain’t weed neither. You’ll never
+guess, my dears. Wot is it, besides fish, as they sometimes ketches in
+rivers? [[Well]]! I’ll tell you. It’s suits o’ clothes.’
+
+Bradley’s face changed.
+
+‘Leastways, lambs,’ said Riderhood, observing him out of the corners
+of his eyes, ‘that’s wot I my own [[Self|self]] sometimes ketches in rivers. For
+strike me blind, my lambs, if I didn’t ketch in a [[River|river]] the wery bundle
+under my arm!’
+
+The class looked at the master, as if appealing from the irregular
+entrapment of this mode of examination. The master looked at the
+examiner, as if he would have torn him to pieces.
+
+‘I ask your pardon, learned governor,’ said Riderhood, smearing his
+sleeve across his mouth as he laughed with a relish, ‘tain’t fair to the
+lambs, I know. It wos a bit of fun of mine. But upon my [[Soul|soul]] I drawed
+this here bundle out of a [[River|river]]! It’s a Bargeman’s suit of clothes. You
+see, it had been sunk there by the man as wore it, and I got it up.’
+
+‘How do you know it was sunk by the man who wore it?’ asked Bradley.
+
+‘Cause I see him do it,’ said Riderhood.
+
+They looked at each other. Bradley, slowly withdrawing his eyes, turned
+his face to the black board and slowly wiped his name out.
+
+‘A heap of thanks, Master,’ said Riderhood, ‘for bestowing so much of
+your [[Time|time]], and of the lambses’ [[Time|time]], upon a man as hasn’t got no other
+recommendation to you than being a honest man. Wishing to see at my Lock
+up the [[River|river]], the person as we’ve spoke of, and as you’ve answered for,
+I takes my leave of the lambs and of their learned governor both.’
+
+With those words, he slouched out of the school, leaving the master
+to get through his weary work as he might, and leaving the whispering
+pupils to observe the master’s face until he fell into the fit which had
+been long impending.
+
+The next day but one was Saturday, and a holiday. Bradley [[Rose|rose]] early,
+and set out on foot for Plashwater Weir Mill Lock. He [[Rose|rose]] so early that
+it was not yet light when he began his [[Journey|journey]]. Before extinguishing the
+candle by which he had dressed himself, he made a little parcel of his
+decent silver watch and its decent guard, and wrote inside the paper:
+‘Kindly take care of these for me.’ He then addressed the parcel to Miss
+Peecher, and left it on the most protected corner of the little seat in
+her little porch.
+
+It was a cold hard easterly morning when he latched the [[Garden|garden]] gate
+and turned away. The light snowfall which had feathered his schoolroom
+windows on the [[thursday|Thursday]], still lingered in the air, and was falling
+white, while the [[Wind|wind]] blew black. The tardy day did not appear until he
+had been on foot two hours, and had traversed a greater part of [[London]]
+from east to west. Such breakfast as he had, he took at the comfortless
+public-[[house]] where he had parted from Riderhood on the occasion of
+their [[Night|night]]-walk. He took it, standing at the littered bar, and looked
+loweringly at a man who stood where Riderhood had stood that early
+morning.

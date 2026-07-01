@@ -1,5 +1,5 @@
 ---
-title: "[[innocence]] — The Blue [[Cross]] (part 3)"
+title: "innocence — The Blue Cross (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_01_the_blue_cross/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_01_the_blue_cross/part_04">part 04 ›</a></div>
 </nav>
 
+
+When that official hurried up, fuzzy-haired and somewhat
+blear-eyed at that early hour, the [[Detective|detective]] (who was not without
+an appreciation of the simpler forms of [[Humour|humour]]) asked him to taste
+the sugar and see if it was up to the high reputation of the hotel.
+The result was that the waiter yawned suddenly and woke up.
 
 "Do you play this delicate joke on your customers every morning?"
 inquired Valentin.  "Does changing the salt and sugar never pall
@@ -130,12 +136,3 @@ and crossed the [[Road|road]] with such contagious energy that the
 ponderous policeman was moved to almost agile obedience.
 In a minute and a half the French [[Detective|detective]] was joined on
 the opposite pavement by an inspector and a man in plain clothes.
-
-"[[Well]], sir," began the former, with smiling importance,
-"and what may--?"
-
-Valentin pointed suddenly with his cane.  "I'll tell you on
-the top of that omnibus," he said, and was darting and dodging
-across the tangle of the traffic.  When all three sank panting
-on the top seats of the yellow vehicle, the inspector said:
-"We could go four times as quick in a taxi."

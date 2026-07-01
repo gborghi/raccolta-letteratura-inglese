@@ -14,6 +14,46 @@ tags:
 </nav>
 
 
+There are certain recognised and accepted statements in this matter
+which may for brevity and convenience be described as lies.  We have
+all heard people say that [[Christianity]] arose in an age of barbarism.
+They might just as [[Well|well]] say that Christian Science arose in an age
+of barbarism.  They may think [[Christianity]] was a symptom of
+social [[Decay|decay]], as I think Christian Science a symptom of mental [[Decay|decay]].
+They may think [[Christianity]] a superstition that ultimately destroyed
+a civilisation, as I think Christian Science a superstition capable
+(if taken seriously) of destroying any number of civilisations.
+But to say that a Christian of the fourth or fifth centuries
+was a barbarian living in a barbarous [[Time|time]] is exactly like saying
+that Mrs. Eddy was a Red Indian.  And if I allowed my constitutional
+impatience with Mrs. Eddy to impel me to call her a Red Indian, I should
+incidentally be telling a lie.  We may like or dislike the imperial
+civilisation of Rome in the fourth century; we may like or dislike
+the industrial civilisation of [[America]] in the nineteenth century;
+but that they both were what we commonly mean by a civilisation
+no person of commonsense could deny if he wanted to.  This is a very
+obvious fact but it is also a very fundamental one; and we must
+make it the foundation of any further description of constructive
+[[Christianity]] in the past.  For good or evil, it was pre-eminently
+the product of a civilised age, perhaps of an over-civilised age.
+This is the first fact apart from all praise or blame; indeed I am
+so unfortunate as not to feel that I praise a thing when I compare
+it to Christian Science.  But it is at least desirable to know
+something of the savour of a society in which we are condemning
+or praising anything; and the science that connects Mrs. Eddy
+with tomahawks or the Mater Dolorosa with totems may for our general
+convenience be eliminated.  The dominant fact, not merely about
+the Christian religion, but about the whole pagan civilisation,
+was that which has been more than once repeated in these pages.
+The Mediterranean was a lake in the real sense of a pool;
+in which a number of different cults or cultures were,
+as the phrase goes, pooled.  Those cities facing each other round
+the circle of the lake became more and more one cosmopolitan culture.
+On its legal and military side it was the Roman Empire, but it
+was very many-sided. It might be called superstitious in the sense
+that it contained a great number of varied superstitions;
+but by no possibility can any part of it be called barbarous.
+
 In this level of cosmopolitan culture arose the Christian
 religion and the [[Catholic Church]]; and everything in the story
 suggests that it was felt to be something new and strange.
@@ -26,7 +66,7 @@ totally different.  It is certainly a Christmas tree in the sense
 that it keeps the kindliness and moral [[Beauty|beauty]] of the story of Bethlehem;
 but it was as ritualistic as the seven-branched candlestick,
 and the candles it carried were considerably more than were
-probably permitted by the first [[prayer]]-book of Edward the Sixth.
+probably permitted by the first [[Prayer|prayer]]-book of Edward the Sixth.
 It might [[Well|well]] be asked, indeed, why any one accepting the Bethlehem
 tradition should object to golden or gilded ornament since
 the Magi themselves brought gold, why he should dislike incense
@@ -94,28 +134,3 @@ would not instantly rush away to establish everything that he hated.
 No, if the 'ecclesiastical and dogmatic system' is as old as Pentecost
 it is as old as Christmas.  If we trace it back to such very early
 Christians we must trace it back to [[Christ]].
-
-We may begin then with these two negations.  It is nonsense
-to say that the Christian [[Faith|faith]] appeared in a simple age;
-in the sense of an unlettered and gullible age.  It is equally
-nonsense to say that the Christian [[Faith|faith]] was a simple thing;
-in the sense of a vague or childish or merely instinctive thing.
-Perhaps the only point in which we could possibly say that the Church
-fitted into the pagan world, is the fact that they were both not
-only highly civilised but rather complicated.  They were both
-emphatically many-sided; but antiquity was then a many-sided hole,
-like a hexagonal hole waiting for an equally hexagonal stopper.
-In that sense only the Church was many-sided enough to fit the world.
-The six sides of the Mediterranean world faced each other across
-the sea and waited for something that should look all ways at once.
-The Church had to be both Roman and Greek and Jewish and African
-and Asiatic.  In the very words of the Apostle of the Gentiles,
-it was indeed all things to all men.  [[Christianity]] then was not
-merely crude and simple and was the very reverse of the growth
-of a barbaric [[Time|time]].  But when we come to the contrary charge,
-we come to a much more plausible charge.  It is very much more tenable
-that the [[Faith]] was but the final phase of the [[Decay|decay]] of civilisation,
-in the sense of the excess of civilisation; that this superstition
-was a sign that Rome was dying, and dying of being much too civilised.
-That is an argument much better worth considering; and we will
-proceed to consider it.

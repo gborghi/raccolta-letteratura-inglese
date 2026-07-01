@@ -135,14 +135,3 @@ To this amorous address Miss Brass briefly responded ‘Bother!’
 
 ‘Hard-hearted as the metal from which she takes her name,’ said Quilp.
 ‘Why don’t she change it--melt down the brass, and take another name?’
-
-‘Hold your nonsense, Mr Quilp, do,’ returned Miss Sally, with a grim
-smile.  ‘I [[Wonder|wonder]] you’re not ashamed of yourself before a strange young
-man.’
-
-‘The strange young man,’ said Quilp, handing [[Dick Swiveller]] forward,
-‘is too susceptible himself not to understand me [[Well|well]].  This is Mr
-Swiveller, my intimate friend--a gentleman of good family and great
-expectations, but who, having rather involved himself by youthful
-indiscretion, is content for a [[Time|time]] to fill the humble station of a
-clerk--humble, but here most enviable.  What a delicious atmosphere!’

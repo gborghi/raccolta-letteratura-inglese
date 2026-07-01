@@ -1,5 +1,5 @@
 ---
-title: "[[Agnes Grey]] — Chapter 13 (part 2)"
+title: "Agnes Grey — Chapter 13 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/agnes-grey-(bronte)"
@@ -150,10 +150,10 @@ pleasanter channel. Thus we proceeded up the park, and entered the
 hall; and as I ascended the stairs to my own chamber, I had but one
 thought within me: my heart was filled to overflowing with one single
 earnest wish. Having entered the room, and shut the door, I fell upon
-my knees and offered up a fervent but not impetuous [[Prayer|prayer]]: “Thy will
+my knees and offered up a fervent but not impetuous [[prayer]]: “Thy will
 be done,” I strove to say throughout; but, “Father, all things are
 possible with Thee, and may it be Thy will,” was sure to follow. That
-wish—that [[Prayer|prayer]]—both men and women would have scorned me for—“But,
+wish—that [[prayer]]—both men and women would have scorned me for—“But,
 Father, _Thou_ wilt _not_ despise!” I said, and felt that it was true.
 It seemed to me that another’s welfare was at least as ardently
 implored for as my own; nay, even _that_ was the principal object of my

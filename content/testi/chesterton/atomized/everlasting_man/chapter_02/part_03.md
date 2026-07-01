@@ -75,20 +75,20 @@ its walls large and sprawling outlines diversified with coloured earths;
 and when they followed the lines of them they recognised,
 across that vast and void of ages, the movement and the gesture
 of a man's hand.  They were drawings or paintings of [[Animals|animals]];
-and they were drawn or painted not only by a man but by an [[artist]].
+and they were drawn or painted not only by a man but by an [[Artist|artist]].
 Under whatever archaic limitations, they showed that [[Love|love]] of
 the long sweeping or the long wavering line which any man who has
 ever drawn or tried to draw will recognise; and about which no
-[[artist]] will allow himself to be contradicted by any scientist.
-They showed the experimental and adventurous spirit of the [[artist]],
+[[Artist|artist]] will allow himself to be contradicted by any scientist.
+They showed the experimental and adventurous spirit of the [[Artist|artist]],
 the spirit that does not avoid but attempt difficult things;
 as where the draughtsman had represented the action of the stag when
 he swings his head clean round and noses towards his tail, an action
 familiar enough in the [[Horse|horse]].  But there are many modern animal-painters
 who would set themselves something of a task in rendering it truly.
-In this and twenty other details it is clear that the [[artist]] had watched
+In this and twenty other details it is clear that the [[Artist|artist]] had watched
 [[Animals|animals]] with a certain interest and presumably a certain pleasure.
-In that sense it would seem that he was not only an [[artist]] but
+In that sense it would seem that he was not only an [[Artist|artist]] but
 a naturalist; the sort of naturalist who is really natural.
 
 Now it is needless to note, except in passing, that there is nothing

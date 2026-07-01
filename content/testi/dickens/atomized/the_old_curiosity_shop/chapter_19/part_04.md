@@ -14,6 +14,18 @@ tags:
 </nav>
 
 
+Along the uncleared course, Short led his party, sounding the brazen
+trumpet and revelling in the voice of Punch; and at his heels went
+Thomas Codlin, bearing the show as usual, and keeping his eye on Nelly
+and her grandfather, as they rather lingered in the rear.  The [[Child|child]]
+bore upon her arm the little basket with her [[Flowers|flowers]], and sometimes
+stopped, with timid and modest looks, to offer them at some gay
+carriage; but alas! there were many bolder beggars there, gipsies who
+promised husbands, and other adepts in their trade, and although some
+ladies smiled gently as they shook their heads, and others cried to the
+gentlemen beside them ‘See, what a pretty face!’ they let the pretty
+face pass on, and never thought that it looked tired or hungry.
+
 There was but one lady who seemed to understand the [[Child|child]], and she was
 one who sat [[Alone|alone]] in a handsome carriage, while two young men in
 dashing clothes, who had just dismounted from it, talked and laughed

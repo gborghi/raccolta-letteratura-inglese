@@ -1,5 +1,5 @@
 ---
-title: "Antony and [[Cleopatra]] — Act V, Scene 2 — exchange (PROCULEIUS) [2]"
+title: "Antony and Cleopatra — Act V, Scene 2 — exchange (PROCULEIUS) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/antony-and-cleopatra-(shakespeare)"

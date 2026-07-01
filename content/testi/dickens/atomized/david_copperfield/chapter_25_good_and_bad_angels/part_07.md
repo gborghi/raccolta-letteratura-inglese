@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 25: GOOD AND BAD ANGELS (part 7)"
+title: "David Copperfield — Chapter 25: GOOD AND BAD ANGELS (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,42 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_25_good_and_bad_angels/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_26_i_fall_into_captivity/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘Why that, Master Copperfield,’ said Uriah, ‘is, in fact, the confidence
+that I am going to take the liberty of reposing. Umble as I am,’ he
+wiped his hands harder, and looked at them and at the [[Fire|fire]] by turns,
+‘umble as my mother is, and lowly as our poor but honest roof has ever
+been, the image of Miss Agnes (I don’t mind trusting you with my secret,
+Master Copperfield, for I have always overflowed towards you since the
+first moment I had the pleasure of beholding you in a pony-shay) has
+been in my breast for years. Oh, Master Copperfield, with what a pure
+affection do I [[Love|love]] the ground my Agnes walks on!’
+
+I believe I had a delirious idea of seizing the red-hot poker out of
+the [[Fire|fire]], and running him through with it. It went from me with a shock,
+like a ball fired from a rifle: but the image of Agnes, outraged by so
+much as a thought of this red-headed animal’s, remained in my mind when
+I looked at him, sitting all awry as if his mean [[Soul|soul]] griped his [[Body|body]],
+and made me giddy. He seemed to swell and grow before my eyes; the room
+seemed full of the echoes of his voice; and the strange feeling (to
+which, perhaps, no one is quite a stranger) that all this had occurred
+before, at some indefinite [[Time|time]], and that I knew what he was going to
+say next, took possession of me.
+
+A timely observation of the sense of power that there was in his face,
+did more to bring back to my remembrance the entreaty of Agnes, in
+its full force, than any effort I could have made. I asked him, with
+a better appearance of composure than I could have thought possible a
+minute before, whether he had made his feelings known to Agnes.
+
+‘Oh no, Master Copperfield!’ he returned; ‘oh dear, no! Not to anyone
+but you. You see I am only just emerging from my lowly station. I rest a
+good deal of [[Hope|hope]] on her observing how useful I am to her father (for
+I trust to be very useful to him indeed, Master Copperfield), and how I
+smooth the way for him, and keep him straight. She’s so much attached
+to her father, Master Copperfield (oh, what a lovely thing it is in a
+daughter!), that I think she may come, on his account, to be kind to
+me.’
 
 I fathomed the depth of the rascal’s whole scheme, and understood why he
 laid it bare.

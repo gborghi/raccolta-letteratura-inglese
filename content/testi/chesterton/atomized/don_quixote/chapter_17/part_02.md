@@ -1,5 +1,5 @@
 ---
-title: "[[Don Quixote]] — Chapter 16 (part 2)"
+title: "Don Quixote — Chapter 16 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/don-quixote-(chesterton)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_17/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_17/part_03">part 03 ›</a></div>
 </nav>
 
+
+"You know what I mean," answered the other good-humouredly. "A statesman.
+A man who knows his own mind."
+
+"[[Well]], I suppose a madman knows his own mind," answered Murrel.
+"I rather fancy a statesman ought to know a little about
+other people's minds."
 
 "My dear Monkey, what's the matter with you," demanded Archer.
 "You seem to be quite sulky when everybody else is pleased."

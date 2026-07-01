@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 8 (part 1)"
+title: "Jane Eyre — Chapter 8 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/works/jane-eyre-(bronte)">Jane Eyre</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_07/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_08/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_07/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_08/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -123,8 +123,3 @@ intricate passages, and mount a staircase before we reached her
 apartment; it contained a good [[Fire|fire]], and looked cheerful. Miss Temple
 told [[Helen Burns]] to be seated in a low arm-chair on one side of the
 hearth, and herself taking another, she called me to her side.
-
-“Is it all over?” she asked, looking down at my face. “Have you cried
-your grief away?”
-
-“I am afraid I never shall do that.”

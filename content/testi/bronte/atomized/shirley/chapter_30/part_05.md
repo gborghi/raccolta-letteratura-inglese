@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 30 (part 5)"
+title: "Shirley — Chapter 30 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -10,9 +10,53 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_30/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_31/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_30/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_30/part_06">part 06 ›</a></div>
 </nav>
 
+
+"Who has a look of her?"
+
+
+
+"That black-coated [[Tyrant|tyrant]]'s niece--that quiet, delicate Miss Helstone.
+
+Many a [[Time|time]] I have put on my spectacles to look at the lassie in church,
+
+because she has gentle blue een, wi' long lashes; and when she sits in
+
+[[Shadow|shadow]], and is very still and very pale, and is, happen, about to fall
+
+asleep wi' the length of the sermon and the heat of the biggin', she is
+
+as like one of Canova's marbles as aught else."
+
+
+
+"Was Mary [[Cave]] in that style?"
+
+
+
+"Far grander!--less lass-like and flesh-like. You wondered why she
+
+hadn't wings and a [[Crown|crown]]. She was a stately, peaceful angel was my
+
+Mary."
+
+
+
+"And you could not persuade her to [[Love|love]] you?"
+
+
+
+"Not with all I could do, though I prayed Heaven many a [[Time|time]], on my
+
+bended knees, to help me."
+
+
+
+"Mary [[Cave]] was not what you think her, Yorke. I have seen her picture at
+
+the rectory. She is no angel, but a fair, regular-featured,
 
 taciturn-looking woman--rather too white and lifeless for my taste. But,
 
@@ -179,87 +223,3 @@ altered. While I was in Birmingham I looked a little into reality,
 considered closely and at their source the causes of the present
 
 troubles of this country. I did the same in [[London]]. Unknown, I could go
-
-where I pleased, mix with whom I would. I went where there was want of
-
-food, of fuel, of clothing; where there was no occupation and no [[Hope|hope]]. I
-
-saw some, with naturally elevated tendencies and good feelings, kept
-
-down amongst sordid privations and harassing griefs. I saw many
-
-originally low, and to whom lack of [[Education|education]] left scarcely anything but
-
-animal wants, disappointed in those wants, ahungered, athirst, and
-
-desperate as famished [[Animals|animals]]. I saw what taught my brain a new lesson,
-
-and filled my breast with fresh feelings. I have no intention to profess
-
-more softness or sentiment than I have hitherto professed; mutiny and
-
-[[Ambition|ambition]] I regard as I have always regarded them. I should resist a
-
-riotous mob just as heretofore; I should open on the scent of a runaway
-
-ringleader as eagerly as ever, and run him down as relentlessly, and
-
-follow him up to condign punishment as rigorously; but I should do it
-
-now chiefly for the sake and the security of those he misled. Something
-
-there is to look to, Yorke, beyond a man's personal interest, beyond the
-
-advancement of [[Well|well]]-laid schemes, beyond even the discharge of
-
-dishonouring debts. To respect himself, a man must believe he renders
-
-justice to his fellow-men. Unless I am more considerate to ignorance,
-
-more forbearing to [[Suffering|suffering]], than I have hitherto been, I shall scorn
-
-myself as grossly unjust.--What now?" he said, addressing his [[Horse|horse]],
-
-which, hearing the ripple of [[Water|water]], and feeling thirsty, turned to a
-
-wayside trough, where the moonbeam was playing in a crystal eddy.
-
-
-
-"Yorke," pursued Moore, "ride on; I must let him drink."
-
-
-
-Yorke accordingly rode slowly forwards, occupying himself as he advanced
-
-in discriminating, amongst the many lights now spangling the distance,
-
-those of Briarmains. Stilbro' Moor was left behind; plantations [[Rose|rose]]
-
-dusk on either hand; they were descending the [[Hill|hill]]; below them lay the
-
-valley with its populous parish: they felt already at [[Home|home]].
-
-
-
-Surrounded no longer by heath, it was not startling to Mr. Yorke to see
-
-a hat rise, and to hear a voice speak behind the wall. The words,
-
-however, were peculiar.
-
-
-
-"When the wicked perisheth there is shouting," it said; and added, "As
-
-the whirlwind passeth, so is the wicked no more" (with a deeper growl):
-
-"terrors take hold of him as waters; hell is naked before him. He shall
-
-die without knowledge."
-
-
-
-A fierce flash and sharp crack violated the calm of [[Night|night]]. Yorke, ere he
-
-turned, knew the four convicts of Birmingham were avenged.

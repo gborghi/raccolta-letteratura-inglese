@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 37 (part 7)"
+title: "Shirley — Chapter 37 (part 7)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,72 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_37/part_06">‹ part 06</a><span></span></div>
 </nav>
 
+
+turned his romances into pamphlets. Drama is always his aim, and no
+
+novelist has attained more often the supreme dramatic moment.
+
+
+
+
+
+=The Heir of Redclyffe.= C. M. YONGE.
+
+
+
+This is a reprint of Miss Yonge's most famous tale. It has been said of
+
+her that she domesticated the historical [[Romance|romance]], which owed its origin
+
+to Sir Walter Scott, and her characters were for long the ideal figures
+
+of most English households.
+
+
+
+
+
+=Wild Wales.= GEORGE BORROW.
+
+
+
+This book was the result of Borrow's wanderings after the publication of
+
+"Lavengro" and "The Romany Rye." He tramped on foot throughout the
+
+country, and the work is a classic of description, both of the scenery
+
+and people.
+
+
+
+
+
+=The Cloister and the Hearth.= CHARLES READE.
+
+
+
+There are many who think this the greatest of all historical novels, and
+
+it is certain that there are few better. It is not a story so much as a
+
+vast and varied transcript of life. It is also a delightful [[Romance|romance]], and
+
+Gerard and Margaret are among the immortals of fiction.
+
+
+
+
+
+=Romola.= GEORGE ELIOT.
+
+
+
+This is the only [[Novel|novel]] of George Eliot's in which the scene is laid
+
+outside her own country. It is a story of Florence during the [[Time|time]] of
+
+the [[Renaissance]], a marvellous picture of the intellectual and moral
 
 ferment which the New Learning created. With amazing learning and
 

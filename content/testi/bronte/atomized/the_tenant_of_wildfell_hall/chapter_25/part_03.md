@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 25 (part 3)"
+title: "The Tenant of Wildfell Hall — Chapter 25 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_25/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_25/part_04">part 04 ›</a></div>
 </nav>
 
+
+I feel, but you don’t know _how_ she talks. Mr. Hattersley, you know,
+
+is the son of a rich banker, and as Esther and I have no fortunes, and
+
+Walter very little, our dear mamma is very anxious to see us all [[Well|well]]
+
+married, that is, united to rich partners. It is not _my_ idea of being
+
+[[Well|well]] married, but she means it all for the best. She says when I am
+
+safe off her hands it will be such a relief to her mind; and she
+
+assures me it will be a good thing for the family as [[Well|well]] as for me.
 
 Even Walter is pleased at the prospect, and when I confessed my
 
@@ -175,31 +189,3 @@ vigour and vivacity quite departed. I have not upbraided him by word or
 look; I have not even asked him what he has been doing. I have not the
 
 heart to do it, for I think he is ashamed of himself—he must be so
-
-indeed, and such inquiries could not fail to be painful to both. My
-
-forbearance pleases him—touches him even, I am inclined to think. He
-
-says he is glad to be [[Home|home]] again, and God knows how glad I am to get
-
-him back, even as he is. He lies on the sofa, nearly all day long; and
-
-I play and sing to him for hours together. I write his letters for him,
-
-and get him everything he wants; and sometimes I read to him, and
-
-sometimes I talk, and sometimes only sit by him and soothe him with
-
-silent caresses. I know he does not deserve it; and I [[Fear|fear]] I am
-
-spoiling him; but this once, I will forgive him, freely and entirely. I
-
-will shame him into virtue if I can, and I will never let him leave me
-
-again.
-
-
-
-He is pleased with my attentions—it may be, grateful for them. He likes
-
-to have me near him: and though he is peevish and testy with his

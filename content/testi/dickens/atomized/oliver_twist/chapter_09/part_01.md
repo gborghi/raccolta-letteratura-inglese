@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 9 (part 1)"
+title: "Oliver Twist — Chapter 9 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -134,6 +134,3 @@ might get up.
 “Certainly, my dear, certainly,” replied the old gentleman. “Stay.
 There’s a pitcher of [[Water|water]] in the corner by the door. Bring it here;
 and I’ll give you a basin to wash in, my dear.”
-
-[[Oliver]] got up; walked across the room; and stooped for an instant to
-raise the pitcher. When he turned his head, the box was gone.

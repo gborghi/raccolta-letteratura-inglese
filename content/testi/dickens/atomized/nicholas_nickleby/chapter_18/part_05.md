@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 18 (part 5)"
+title: "Nicholas Nickleby — Chapter 18 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,28 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_18/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_19/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘I am afraid you have been giving her some of your wicked looks, my
+lord,’ said the intended.
+
+‘No, no, no,’ replied the old lord, ‘no, no, I’m going to be married,
+and lead a new life. Ha, ha, ha! a new life, a new life! ha, ha, ha!’
+
+It was a satisfactory thing to hear that the old gentleman was going to
+lead a new life, for it was pretty evident that his old one would not
+last him much longer. The mere exertion of protracted chuckling reduced
+him to a fearful ebb of coughing and gasping; it was some minutes
+before he could find breath to remark that the girl was too pretty for a
+milliner.
+
+‘I [[Hope|hope]] you don’t think good looks a disqualification for the business,
+my lord,’ said Madame Mantalini, simpering.
+
+‘Not by any means,’ replied the old lord, ‘or you would have left it
+long ago.’
+
+‘You naughty creature,’ said the lively lady, poking the peer with her
+parasol; ‘I won’t have you talk so. How dare you?’
 
 This playful inquiry was accompanied with another poke, and another,
 and then the old lord caught the parasol, and wouldn’t give it up again,

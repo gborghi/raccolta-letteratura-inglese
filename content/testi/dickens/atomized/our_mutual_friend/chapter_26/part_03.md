@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 2 (part 3)"
+title: "Our Mutual Friend — Chapter 4 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,124 +14,107 @@ tags:
 </nav>
 
 
-‘There’s something in that,’ replied Miss Wren; ‘you have a sort of an
-idea in your noddle sometimes.’ Then, in a changed tone; ‘Talking of
-ideas, my Lizzie,’ they were sitting side by side as they had sat at
-first, ‘I [[Wonder|wonder]] how it happens that when I am work, work, working here,
-all [[Alone|alone]] in the [[Summer|summer]]-[[Time|time]], I smell [[Flowers|flowers]].’
+The happy pair being left together, Mrs Lammle said to her husband:
 
-‘As a commonplace individual, I should say,’ Eugene suggested
-languidly—for he was growing weary of the person of the [[house]]—‘that
-you smell [[Flowers|flowers]] because you DO smell [[Flowers|flowers]].’
+‘If I understand this girl, sir, your dangerous fascinations have
+produced some effect upon her. I mention the conquest in good [[Time|time]]
+because I apprehend your scheme to be more important to you than your
+[[Vanity|vanity]].’
 
-‘No I don’t,’ said the little creature, resting one arm upon the elbow
-of her chair, resting her chin upon that hand, and looking vacantly
-before her; ‘this is not a flowery neighbourhood. It’s anything but
-that. And yet as I sit at work, I smell miles of [[Flowers|flowers]]. I smell roses,
-till I think I see the [[Rose|rose]]-[[Leaves|leaves]] lying in heaps, bushels, on the
-floor. I smell fallen [[Leaves|leaves]], till I put down my hand—so—and expect to
-make them rustle. I smell the white and the pink May in the hedges, and
-all sorts of [[Flowers|flowers]] that I never was among. For I have seen very few
-[[Flowers|flowers]] indeed, in my life.’
+There was a [[Mirror|mirror]] on the wall before them, and her eyes just caught
+him smirking in it. She gave the reflected image a look of the deepest
+disdain, and the image received it in the glass. Next moment they
+quietly eyed each other, as if they, the principals, had had no part in
+that expressive transaction.
 
-‘Pleasant fancies to have, Jenny dear!’ said her friend: with a glance
-towards Eugene as if she would have asked him whether they were given
-the [[Child|child]] in compensation for her losses.
+It may have been that Mrs Lammle tried in some manner to excuse her
+conduct to herself by depreciating the poor little victim of whom she
+spoke with acrimonious contempt. It may have been too that in this she
+did not quite succeed, for it is very difficult to resist confidence,
+and she knew she had Georgiana’s.
 
-‘So I think, Lizzie, when they come to me. And the [[Birds|birds]] I hear! Oh!’
-cried the little creature, holding out her hand and looking upward, ‘how
-they sing!’
+Nothing more was said between the happy pair. Perhaps conspirators
+who have once established an understanding, may not be over-fond of
+repeating the terms and objects of their conspiracy. Next day came; came
+Georgiana; and came Fledgeby.
 
-There was something in the face and action for the moment, quite
-inspired and beautiful. Then the chin dropped musingly upon the hand
-again.
+Georgiana had by this [[Time|time]] seen a good deal of the [[house]] and its
+frequenters. As there was a certain handsome room with a billiard table
+in it—on the ground floor, eating out a backyard—which might have
+been Mr Lammle’s office, or library, but was called by neither name, but
+simply Mr Lammle’s room, so it would have been hard for stronger female
+heads than Georgiana’s to determine whether its frequenters were men
+of pleasure or men of business. Between the room and the men there were
+strong points of general resemblance. Both were too gaudy, too slangey,
+too odorous of cigars, and too much given to horseflesh; the latter
+characteristic being exemplified in the room by its decorations, and in
+the men by their conversation. High-stepping horses seemed necessary to
+all Mr Lammle’s friends—as necessary as their transaction of business
+together in a gipsy way at untimely hours of the morning and evening,
+and in rushes and snatches. There were friends who seemed to be always
+coming and going across the Channel, on errands about the Bourse, and
+Greek and Spanish and India and Mexican and par and premium and discount
+and three quarters and seven eighths. There were other friends who
+seemed to be always lolling and lounging in and out of the [[City]], on
+questions of the Bourse, and Greek and Spanish and India and Mexican and
+par and premium and discount and three quarters and seven eighths. They
+were all feverish, boastful, and indefinably loose; and they all ate and
+drank a great deal; and made bets in eating and drinking. They all spoke
+of sums of money, and only mentioned the sums and left the money to
+be understood; as ‘five and forty thousand Tom,’ or ‘Two hundred and
+twenty-two on every individual share in the lot Joe.’ They seemed to
+divide the world into two classes of people; people who were making
+enormous fortunes, and people who were being enormously ruined. They
+were always in a hurry, and yet seemed to have nothing tangible to do;
+except a few of them (these, mostly asthmatic and thick-lipped) who were
+for ever demonstrating to the rest, with gold pencil-cases which they
+could hardly hold because of the big rings on their forefingers, how
+money was to be made. Lastly, they all swore at their grooms, and the
+grooms were not quite as respectful or complete as other men’s grooms;
+seeming somehow to fall short of the groom point as their masters fell
+short of the gentleman point.
 
-‘I dare say my [[Birds|birds]] sing better than other [[Birds|birds]], and my [[Flowers|flowers]] smell
-better than other [[Flowers|flowers]]. For when I was a little [[Child|child]],’ in a tone as
-though it were ages ago, ‘the children that I used to see early in the
-morning were very different from any others that I ever saw. They were
-not like me; they were not chilled, anxious, ragged, or beaten; they
-were never in [[Pain|pain]]. They were not like the children of the neighbours;
-they never made me tremble all over, by setting up shrill noises, and
-they never mocked me. Such numbers of them too! All in white dresses,
-and with something shining on the borders, and on their heads, that I
-have never been able to imitate with my work, though I know it so
-[[Well|well]]. They used to come down in long bright slanting rows, and say all
-together, “Who is this in [[Pain|pain]]! Who is this in [[Pain|pain]]!” When I told them
-who it was, they answered, “Come and play with us!” When I said “I never
-play! I can’t play!” they swept about me and took me up, and made me
-light. Then it was all delicious ease and rest till they laid me
-down, and said, all together, “Have patience, and we will come again.”
- Whenever they came back, I used to know they were coming before I saw
-the long bright rows, by hearing them ask, all together a long way off,
-“Who is this in [[Pain|pain]]! Who is this in [[Pain|pain]]!” And I used to cry out, “O my
-blessed children, it’s poor me. Have pity on me. Take me up and make me
-light!”’
+Young Fledgeby was none of these. Young Fledgeby had a peachy cheek,
+or a cheek compounded of the peach and the red red red wall on which
+it grows, and was an awkward, sandy-haired, small-eyed youth, exceeding
+slim (his enemies would have said lanky), and prone to [[Self|self]]-examination
+in the articles of whisker and moustache. While feeling for the whisker
+that he anxiously expected, Fledgeby underwent remarkable fluctuations
+of spirits, ranging along the whole scale from confidence to [[Despair|despair]].
+There were times when he started, as exclaiming ‘By Jupiter here it is
+at last!’ There were other times when, being equally depressed, he would
+be seen to shake his head, and give up [[Hope|hope]]. To see him at those periods
+leaning on a chimneypiece, like as on an urn containing the ashes of his
+[[Ambition|ambition]], with the cheek that would not sprout, upon the hand on which
+that cheek had forced conviction, was a distressing sight.
 
-By degrees, as she progressed in this remembrance, the hand was raised,
-the late ecstatic look returned, and she became quite beautiful. Having
-so paused for a moment, silent, with a listening smile upon her face,
-she looked round and recalled herself.
+Not so was Fledgeby seen on this occasion. Arrayed in superb raiment,
+with his opera hat under his arm, he concluded his [[Self|self]]-examination
+hopefully, awaited the arrival of Miss Podsnap, and talked small-talk
+with Mrs Lammle. In facetious homage to the smallness of his talk, and
+the jerky [[Nature|nature]] of his manners, Fledgeby’s familiars had agreed to
+confer upon him (behind his back) the honorary title of Fascination
+Fledgeby.
 
-‘What poor fun you think me; don’t you, Mr Wrayburn? You may [[Well|well]] look
-tired of me. But it’s Saturday [[Night|night]], and I won’t detain you.’
+‘Warm weather, Mrs Lammle,’ said Fascination Fledgeby. Mrs Lammle
+thought it scarcely as warm as it had been yesterday. ‘Perhaps not,’
+said Fascination Fledgeby, with great quickness of repartee; ‘but I
+expect it will be devilish warm to-morrow.’
 
-‘That is to say, Miss Wren,’ observed Eugene, quite ready to profit by
-the hint, ‘you wish me to go?’
+He threw off another little scintillation. ‘Been out to-day, Mrs
+Lammle?’
 
-‘[[Well]], it’s Saturday [[Night|night]],’ she returned, ‘and my [[Child|child]]’s coming
-[[Home|home]]. And my [[Child|child]] is a troublesome bad [[Child|child]], and costs me a world of
-scolding. I would rather you didn’t see my [[Child|child]].’
+Mrs Lammle answered, for a short drive.
 
-‘A doll?’ said Eugene, not understanding, and looking for an
-explanation.
+‘Some people,’ said Fascination Fledgeby, ‘are accustomed to take long
+drives; but it generally appears to me that if they make ’em too long,
+they overdo it.’
 
-But Lizzie, with her lips only, shaping the two words, ‘Her father,’ he
-delayed no longer. He took his leave immediately. At the corner of the
-street he stopped to light another cigar, and possibly to ask himself
-what he was doing otherwise. If so, the answer was indefinite and vague.
-Who knows what he is doing, who is careless what he does!
-
-A man stumbled against him as he turned away, who mumbled some maudlin
-apology. Looking after this man, Eugene saw him go in at the door by
-which he himself had just come out.
-
-On the man’s stumbling into the room, Lizzie [[Rose|rose]] to leave it.
-
-‘Don’t go away, Miss Hexam,’ he said in a submissive manner, speaking
-thickly and with difficulty. ‘Don’t fly from unfortunate man in
-shattered state of health. Give poor invalid [[Honour|honour]] of your company. It
-ain’t—ain’t catching.’
-
-Lizzie murmured that she had something to do in her own room, and went
-away upstairs.
-
-‘How’s my Jenny?’ said the man, timidly. ‘How’s my [[Jenny Wren]], best of
-children, object dearest affections broken-hearted invalid?’
-
-To which the person of the [[house]], stretching out her arm in an attitude
-of command, replied with irresponsive asperity: ‘Go along with you! Go
-along into your corner! Get into your corner directly!’
-
-The wretched spectacle made as if he would have offered some
-remonstrance; but not venturing to resist the person of the [[house]],
-thought better of it, and went and sat down on a particular chair of
-disgrace.
-
-‘Oh-h-h!’ cried the person of the [[house]], pointing her little finger,
-‘You bad old boy! Oh-h-h you naughty, wicked creature! WHAT do you mean
-by it?’
-
-The shaking figure, unnerved and disjointed from head to foot, put
-out its two hands a little way, as making overtures of peace and
-[[Reconciliation|reconciliation]]. Abject [[Tears|tears]] stood in its eyes, and stained the blotched
-red of its cheeks. The swollen lead-coloured under lip trembled with a
-shameful whine. The whole indecorous threadbare ruin, from the broken
-shoes to the prematurely-grey scanty hair, grovelled. Not with any sense
-worthy to be called a sense, of this dire reversal of the places of
-parent and [[Child|child]], but in a pitiful expostulation to be let off from a
-scolding.
-
-‘I know your tricks and your manners,’ cried Miss Wren. ‘I know where
-you’ve been to!’ (which indeed it did not require discernment to
-discover). ‘Oh, you disgraceful old chap!’
+Being in such feather, he might have surpassed himself in his next
+sally, had not Miss Podsnap been announced. Mrs Lammle flew to embrace
+her darling little Georgy, and when the first transports were over,
+presented Mr Fledgeby. Mr Lammle came on the scene last, for he was
+always late, and so were the frequenters always late; all hands being
+bound to be made late, by private information about the Bourse, and
+Greek and Spanish and India and Mexican and par and premium and discount
+and three quarters and seven eighths.

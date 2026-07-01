@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 6 (part 4)"
+title: "Dombey and Son — Chapter 34 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,137 +14,147 @@ tags:
 </nav>
 
 
-“Susan ain’t far off,” said Good Mrs Brown; “and the others are close
-to her.”
+“What joy is to come to us of this [[Marriage|marriage]], mother?” asked the
+daughter. “You have not told me that.”
 
-“Is anybody hurt?” cried Florence.
+“The joy,” she replied, attiring herself, with fumbling fingers, “of no
+[[Love|love]] at all, and much [[Pride|pride]] and hate, my deary. The joy of confusion
+and strife among ’em, proud as they are, and of danger—danger, Alice!”
 
-“Not a bit of it,” said Good Mrs Brown.
+“What danger?”
 
-The [[Child|child]] shed [[Tears|tears]] of delight on hearing this, and accompanied the
-old woman willingly; though she could not help glancing at her face as
-they went along—particularly at that industrious mouth—and wondering
-whether Bad Mrs Brown, if there were such a person, was at all like
-her.
+“I have seen what I have seen. I know what I know!” chuckled the
+mother. “Let some look to it. Let some be upon their guard. My gal may
+keep good company yet!”
 
-They had not gone far, but had gone by some very uncomfortable places,
-such as brick-fields and tile-yards, when the old woman turned down a
-dirty lane, where the mud lay in deep black ruts in the middle of the
-[[Road|road]]. She stopped before a shabby little [[house]], as closely shut up as a
-[[house]] that was full of cracks and crevices could be. Opening the door
-with a key she took out of her bonnet, she pushed the [[Child|child]] before her
-into a back room, where there was a great heap of rags of different
-colours lying on the floor; a heap of bones, and a heap of sifted [[Dust|dust]]
-or cinders; but there was no furniture at all, and the walls and
-ceiling were quite black.
+Then, seeing that in the wondering earnestness with which her daughter
+regarded her, her hand involuntarily closed upon the money, the old
+woman made more [[Speed|speed]] to secure it, and hurriedly added, “but I’ll go
+buy something; I’ll go buy something.”
 
-The [[Child|child]] became so terrified the she was stricken speechless, and
-looked as though about to swoon.
+As she stood with her hand stretched out before her daughter, her
+daughter, glancing again at the money, put it to her lips before
+parting with it.
 
-“Now don’t be a young mule,” said Good Mrs Brown, reviving her with a
-shake. “I’m not a going to hurt you. Sit upon the rags.”
+“What, Ally! Do you kiss it?” chuckled the old woman. “That’s like me—I
+often do. Oh, it’s so good to us!” squeezing her own tarnished
+halfpence up to her bag of a throat, “so good to us in everything but
+not coming in heaps!”
 
-Florence obeyed her, holding out her folded hands, in mute
-supplication.
+“I kiss it, mother,” said the daughter, “or I did then—I don’t know
+that I ever did before—for the giver’s sake.”
 
-“I’m not a going to keep you, even, above an hour,” said Mrs Brown.
-“D’ye understand what I say?”
+“The giver, eh, deary?” retorted the old woman, whose dimmed eyes
+glistened as she took it. “Ay! I’ll kiss it for the giver’s sake, too,
+when the giver can make it go farther. But I’ll go spend it, deary.
+I’ll be back directly.”
 
-The [[Child|child]] answered with great difficulty, “Yes.”
+“You seem to say you know a great deal, mother,” said the daughter,
+following her to the door with her eyes. “You have grown very wise
+since we parted.”
 
-“Then,” said Good Mrs Brown, taking her own seat on the bones, “don’t
-vex me. If you don’t, I tell you I won’t hurt you. But if you do, I’ll
-kill you. I could have you killed at any [[Time|time]]—even if you was in your
-own bed at [[Home|home]]. Now let’s know who you are, and what you are, and all
-about it.”
+“Know!” croaked the old woman, coming back a step or two, “I know more
+than you think I know more than he thinks, deary, as I’ll tell you by
+and bye. I know all.”
 
-The old woman’s threats and promises; the dread of giving her offence;
-and the habit, unusual to a [[Child|child]], but almost natural to Florence now,
-of being quiet, and repressing what she felt, and feared, and hoped;
-enabled her to do this bidding, and to tell her little [[history]], or what
-she knew of it. Mrs Brown listened attentively, until she had finished.
+The daughter smiled incredulously.
 
-“So your name’s Dombey, eh?” said Mrs Brown.
+“I know of his brother, Alice,” said the old woman, stretching out her
+neck with a leer of malice absolutely frightful, “who might have been
+where you have been—for stealing money—and who lives with his sister,
+over yonder, by the north [[Road|road]] out of [[London]].”
 
-“I want that pretty frock, Miss Dombey,” said Good Mrs Brown, “and that
-little bonnet, and a petticoat or two, and anything else you can spare.
-Come! Take ’em off.”
+“Where?”
 
-Florence obeyed, as fast as her trembling hands would allow; keeping,
-all the while, a frightened eye on Mrs Brown. When she had divested
-herself of all the articles of apparel mentioned by that lady, Mrs B.
-examined them at leisure, and seemed tolerably [[Well|well]] satisfied with
-their quality and value.
+“By the north [[Road|road]] out of [[London]], deary. You shall see the [[house]] if you
+like. It ain’t much to boast of, genteel as his own is. No, no, no,”
+cried the old woman, shaking her head and laughing; for her daughter
+had started up, “not now; it’s too far off; it’s by the milestone,
+where the stones are heaped;—to-morrow, deary, if it’s fine, and you
+are in the [[Humour|humour]]. But I’ll go spend—”
 
-“Humph!” she said, running her eyes over the [[Child|child]]’s slight figure, “I
-don’t see anything else—except the shoes. I must have the shoes, Miss
-Dombey.”
+“Stop!” and the daughter flung herself upon her, with her former
+passion raging like a [[Fire|fire]]. “The sister is a fair-faced Devil, with
+brown hair?”
 
-Poor little Florence took them off with equal alacrity, only too glad
-to have any more means of conciliation about her. The old woman then
-produced some wretched substitutes from the [[Bottom|bottom]] of the heap of rags,
-which she turned up for that purpose; together with a girl’s cloak,
-quite worn out and very old; and the crushed remains of a bonnet that
-had probably been picked up from some ditch or dunghill. In this dainty
-raiment, she instructed Florence to dress herself; and as such
-preparation seemed a prelude to her release, the [[Child|child]] complied with
-increased readiness, if possible.
+The old woman, amazed and terrified, nodded her head.
 
-In hurriedly putting on the bonnet, if that may be called a bonnet
-which was more like a pad to carry loads on, she caught it in her hair
-which grew luxuriantly, and could not immediately disentangle it. Good
-Mrs Brown whipped out a large pair of scissors, and fell into an
-unaccountable state of excitement.
+“I see the [[Shadow|shadow]] of him in her face! It’s a red [[house]] standing by
+itself. Before the door there is a small green porch.”
 
-“Why couldn’t you let me be!” said Mrs Brown, “when I was contented?
-You little [[Fool|fool]]!”
+Again the old woman nodded.
 
-“I beg your pardon. I don’t know what I have done,” panted Florence. “I
-couldn’t help it.”
+“In which I sat today! Give me back the money.”
 
-“Couldn’t help it!” cried Mrs Brown. “How do you expect I can help it?
-Why, Lord!” said the old woman, ruffling her curls with a furious
-pleasure, “anybody but me would have had ’em off, first of all.”
+“Alice! Deary!”
 
-Florence was so relieved to find that it was only her hair and not her
-head which Mrs Brown coveted, that she offered no resistance or
-entreaty, and merely raised her mild eyes towards the face of that good
-[[Soul|soul]].
+“Give me back the money, or you’ll be hurt.”
 
-“If I hadn’t once had a gal of my own—beyond seas now—that was proud of
-her hair,” said Mrs Brown, “I’d have had every lock of it. She’s far
-away, she’s far away! Oho! Oho!”
+She forced it from the old woman’s hand as she spoke, and utterly
+indifferent to her complainings and entreaties, threw on the garments
+she had taken off, and hurried out, with headlong [[Speed|speed]].
 
-Mrs Brown’s was not a melodious cry, but, accompanied with a wild
-tossing up of her lean arms, it was full of passionate grief, and
-thrilled to the heart of Florence, whom it frightened more than ever.
-It had its part, perhaps, in saving her curls; for Mrs Brown, after
-hovering about her with the scissors for some moments, like a new kind
-of butterfly, bade her hide them under the bonnet and let no trace of
-them escape to tempt her. Having accomplished this victory over
-herself, Mrs Brown resumed her seat on the bones, and smoked a very
-short black pipe, mowing and mumbling all the [[Time|time]], as if she were
-eating the stem.
+The mother followed, limping after her as she could, and expostulating
+with no more effect upon her than upon the [[Wind|wind]] and rain and darkness
+that encompassed them. Obdurate and fierce in her own purpose, and
+indifferent to all besides, the daughter defied the weather and the
+distance, as if she had known no travel or fatigue, and made for the
+[[house]] where she had been relieved. After some quarter of an hour’s
+walking, the old woman, spent and out of breath, ventured to hold by
+her skirts; but she ventured no more, and they travelled on in [[Silence|silence]]
+through the wet and gloom. If the mother now and then uttered a word of
+complaint, she stifled it lest her daughter should break away from her
+and leave her behind; and the daughter was dumb.
 
-When the pipe was smoked out, she gave the [[Child|child]] a rabbit-skin to
-carry, that she might appear the more like her ordinary companion, and
-told her that she was now going to lead her to a public street whence
-she could inquire her way to her friends. But she cautioned her, with
-threats of summary and deadly vengeance in case of disobedience, not to
-talk to strangers, nor to repair to her own [[Home|home]] (which may have been
-too near for Mrs Brown’s convenience), but to her father’s office in
-the [[City]]; also to wait at the street corner where she would be left,
-until the [[Clock|clock]] struck three. These directions Mrs Brown enforced with
-assurances that there would be potent eyes and ears in her employment
-cognizant of all she did; and these directions Florence promised
-faithfully and earnestly to observe.
+It was within an hour or so of midnight, when they left the regular
+streets behind them, and entered on the deeper gloom of that neutral
+ground where the [[house]] was situated. The town lay in the distance,
+lurid and lowering; the bleak [[Wind|wind]] howled over the open space; all
+around was black, wild, desolate.
 
-At length, Mrs Brown, issuing forth, conducted her changed and ragged
-little friend through a labyrinth of narrow streets and lanes and
-alleys, which emerged, after a long [[Time|time]], upon a stable yard, with a
-gateway at the end, whence the roar of a great thoroughfare made itself
-audible. Pointing out this gateway, and informing Florence that when
-the clocks struck three she was to go to the left, Mrs Brown, after
-making a parting grasp at her hair which seemed involuntary and quite
-beyond her own control, told her she knew what to do, and bade her go
-and do it: remembering that she was watched.
+“This is a fit place for me!” said the daughter, stopping to look back.
+“I thought so, when I was here before, today.”
+
+“Alice, my deary,” cried the mother, pulling her gently by the skirt.
+“Alice!”
+
+“What now, mother?”
+
+“Don’t give the money back, my darling; please don’t. We can’t afford
+it. We want supper, deary. Money is money, whoever gives it. Say what
+you will, but keep the money.”
+
+“See there!” was all the daughter’s answer. “That is the [[house]] I mean.
+Is that it?”
+
+The old woman nodded in the affirmative; and a few more paces brought
+them to the threshold. There was the light of [[Fire|fire]] and candle in the
+room where Alice had sat to dry her clothes; and on her knocking at the
+door, John Carker appeared from that room.
+
+He was surprised to see such visitors at such an hour, and asked Alice
+what she wanted.
+
+“I want your sister,” she said. “The woman who gave me money today.”
+
+At the sound of her raised voice, Harriet came out.
+
+“Oh!” said Alice. “You are here! Do you remember me?”
+
+“Yes,” she answered, wondering.
+
+The face that had humbled itself before her, looked on her now with
+such invincible hatred and defiance; and the hand that had gently
+touched her arm, was clenched with such a show of evil purpose, as if
+it would gladly strangle her; that she drew close to her brother for
+protection.
+
+“That I could speak with you, and not know you! That I could come near
+you, and not feel what [[Blood|blood]] was running in your veins, by the tingling
+of my own!” said Alice, with a menacing gesture.
+
+“What do you mean? What have I done?”
+
+“Done!” returned the other. “You have sat me by your [[Fire|fire]]; you have
+given me food and money; you have bestowed your compassion on me! You!
+whose name I spit upon!”

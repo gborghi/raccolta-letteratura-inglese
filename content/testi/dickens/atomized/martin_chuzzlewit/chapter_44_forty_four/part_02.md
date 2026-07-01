@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 44: FORTY FOUR (part 2)"
+title: "Martin Chuzzlewit — Chapter 44: FORTY FOUR (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -86,7 +86,7 @@ Primed in this artful manner, Mr Pecksniff presented himself at
 dinner-[[Time|time]] in such a state of suavity, benevolence, cheerfulness,
 politeness, and cordiality, as even he had perhaps never attained
 before. The frankness of the country gentleman, the refinement of
-the [[artist]], the good-humoured allowance of the man of the world;
+the [[Artist|artist]], the good-humoured allowance of the man of the world;
 philanthropy, forbearance, piety, toleration, all blended together in a
 flexible adaptability to anything and everything; were expressed in Mr
 Pecksniff, as he shook hands with the great speculator and capitalist.

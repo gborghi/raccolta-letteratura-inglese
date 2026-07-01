@@ -1,5 +1,5 @@
 ---
-title: "[[Maelzel's Chess-Player]] (part 6)"
+title: "Maelzel's Chess-Player (part 6)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/maelzel's-chess-player-(poe)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/maelzel_s_chess_player/part/part_05">‹ part 05</a><a class="ex-next" href="/testi/poe/atomized/maelzel_s_chess_player/part/part_07">part 07 ›</a></div>
 </nav>
 
+
+      partitions, is of no consequence whatever. It was altogether
+
+      unnecessary to devote seven or eight pages for the purpose of
+
+      proving what no one in his senses would deny—viz: that the
+
+      wonderful mechanical genius of Baron Kempelen could invent the
+
+      necessary means for shutting a door or slipping aside a pannel,
+
+      with a human agent too at his service in actual contact with the
+
+      pannel or the door, and the whole operations carried on, as the
+
+      author of the [[Essay]] himself shows, and as we shall attempt to
 
       show more fully hereafter, entirely out of reach of the
 
@@ -175,25 +191,3 @@ tags:
       [[Machine|machine]]—is most probably contained within the little cupboard (of
 
       about six inches in breadth) partitioned off at the right (the
-
-      spectators’ right) of the main compartment.
-
-
-
-      In this analysis of the operations of the Automaton, we have
-
-      purposely avoided any allusion to the manner in which the
-
-      partitions are shifted, and it will now be readily comprehended
-
-      that this point is a matter of no importance, since, by mechanism
-
-      within the ability of any common carpenter, it might be effected
-
-      in an infinity of different ways, and since we have shown that,
-
-      however performed, it is performed out of the view of the
-
-      spectators. Our result is founded upon the following
-
-      _observations _taken during frequent visits to the exhibition of

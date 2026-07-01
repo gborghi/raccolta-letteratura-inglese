@@ -1,5 +1,5 @@
 ---
-title: "[[CharlesDickens]] — Chapter 9 (part 2)"
+title: "CharlesDickens — Chapter 9 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/charlesdickens-(chesterton)"
@@ -25,7 +25,7 @@ of insane and inspired improvisation So far as he could prevent it,
 he never permitted a day of his life to be ordinary.  There was
 always some prank, some impetuous proposal, some practical joke,
 some sudden hospitality, some sudden disappearance.  It is related of him
-(I give one anecdote out of a hundred) that in his last visit to [[america|America]],
+(I give one anecdote out of a hundred) that in his last visit to [[America]],
 when he was already reeling as it were under the blow that was to
 be mortal, he remarked quite casually to his companions that a row of
 painted cottages looked exactly like the painted shops in a pantomime.

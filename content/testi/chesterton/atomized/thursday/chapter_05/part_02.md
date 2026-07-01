@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 5 (part 2)"
+title: "thursday — Chapter 5 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -118,6 +118,3 @@ agree with me, my dear Tuesday, that he is not likely even to forget it.
 Now when you were found under Admiral Biffin's bed--"
 
 "I am not good at [[Deception|deception]]," said Tuesday gloomily, flushing.
-
-"Right, my boy, right," said the President with a ponderous heartiness,
-"you aren't good at anything."

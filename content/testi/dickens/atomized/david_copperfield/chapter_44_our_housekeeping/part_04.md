@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 44: OUR HOUSEKEEPING (part 4)"
+title: "David Copperfield — Chapter 44: OUR HOUSEKEEPING (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_44_our_housekeeping/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_44_our_housekeeping/part_05">part 05 ›</a></div>
 </nav>
 
+
+However, as I knew how tender-hearted my dear Dora was, and how
+sensitive she would be to any slight upon her favourite, I hinted no
+objection. For similar reasons I made no allusion to the skirmishing
+plates upon the floor; or to the disreputable appearance of the castors,
+which were all at sixes and sevens, and looked drunk; or to the further
+blockade of Traddles by wandering vegetable dishes and jugs. I could
+not help wondering in my own mind, as I contemplated the boiled leg of
+mutton before me, previous to carving it, how it came to pass that
+our joints of meat were of such extraordinary shapes--and whether our
+butcher contracted for all the deformed sheep that came into the world;
+but I kept my reflections to myself.
 
 ‘My [[Love|love]],’ said I to Dora, ‘what have you got in that dish?’
 
@@ -128,32 +140,3 @@ head towards me once again; and I can still declare that this one little
 speech was constantly in my [[Memory|memory]]. I may not have used it to the best
 account; I was young and inexperienced; but I never turned a deaf ear to
 its artless pleading.
-
-Dora told me, shortly afterwards, that she was going to be a wonderful
-housekeeper. Accordingly, she polished the tablets, pointed the pencil,
-bought an immense account-book, carefully stitched up with a needle and
-thread all the [[Leaves|leaves]] of the Cookery Book which Jip had torn, and made
-quite a desperate little attempt ‘to be good’, as she called it. But the
-figures had the old obstinate propensity--they WOULD NOT add up. When
-she had entered two or three laborious items in the account-book, Jip
-would walk over the page, wagging his tail, and smear them all out. Her
-own little right-hand middle finger got steeped to the very bone in ink;
-and I think that was the only decided result obtained.
-
-Sometimes, of an evening, when I was at [[Home|home]] and at work--for I wrote
-a good deal now, and was beginning in a small way to be known as a
-writer--I would lay down my pen, and watch my [[Child|child]]-wife trying to be
-good. First of all, she would bring out the immense account-book, and
-lay it down upon the table, with a deep sigh. Then she would open it at
-the place where Jip had made it illegible last [[Night|night]], and call Jip
-up, to look at his misdeeds. This would occasion a diversion in Jip’s
-favour, and some inking of his nose, perhaps, as a penalty. Then she
-would tell Jip to lie down on the table instantly, ‘like a [[Lion|lion]]’--which
-was one of his tricks, though I cannot say the likeness was
-striking--and, if he were in an obedient [[Humour|humour]], he would obey. Then she
-would take up a pen, and begin to write, and find a hair in it. Then
-she would take up another pen, and begin to write, and find that it
-spluttered. Then she would take up another pen, and begin to write, and
-say in a low voice, ‘Oh, it’s a talking pen, and will disturb Doady!’
-And then she would give it up as a bad job, and put the account-book
-away, after pretending to crush the [[Lion|lion]] with it.

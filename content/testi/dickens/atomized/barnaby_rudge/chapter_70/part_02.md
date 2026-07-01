@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 70 (part 2)"
+title: "Barnaby Rudge — Chapter 70 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_70/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_71/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘Lovey, my dear,’ whispered Dennis, drawing his chair close to hers.
+‘When was your young man here last, eh?’
+
+‘MY young man, good gentleman!’ answered Miggs in a tone of exquisite
+distress.
 
 ‘Ah! Simmuns, you know--him?’ said Dennis.
 

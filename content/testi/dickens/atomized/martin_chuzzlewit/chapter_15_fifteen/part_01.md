@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 15: FIFTEEN (part 1)"
+title: "Martin Chuzzlewit — Chapter 15: FIFTEEN (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -122,11 +122,3 @@ been aboard--for I’ve been perpetually holding-on to something or other
 in a upside-down position--what with that, sir, and putting a very
 little into myself, and taking a good deal out of myself, there an’t too
 much of me to swear by. How do you find yourself this morning, sir?’
-
-‘Very miserable,’ said Martin, with a peevish groan. ‘Ugh. This is
-wretched, indeed!’
-
-‘Creditable,’ muttered Mark, pressing one hand upon his aching head and
-looking round him with a rueful grin. ‘That’s the great comfort. It IS
-creditable to keep up one’s spirits here. Virtue’s its own reward. So’s
-jollity.’

@@ -1,5 +1,5 @@
 ---
-title: "[[wifrb11]] — The Fairy Tale of [[Father Brown]] (part 2)"
+title: "wifrb11 — The Fairy Tale of Father Brown (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -15,20 +15,20 @@ tags:
 
 
      "Human science can never be quite certain of things like that,"
-said [[Father Brown]], still looking at the red budding of the branches
+said Father Brown, still looking at the red budding of the branches
 over his head, "if only because of the difficulty about definition
 and connotation.  What is a weapon?  People have been murdered
 with the mildest domestic comforts; certainly with tea-kettles,
 probably with tea-cosies.  On the other hand, if you showed
-an Ancient Briton a revolver, I [[Doubt|doubt]] if he would know it was a weapon--
+an Ancient Briton a revolver, I doubt if he would know it was a weapon--
 until it was fired into him, of course.  Perhaps somebody introduced
 a firearm so new that it didn't even look like a firearm. 
 Perhaps it looked like a thimble or something.  Was the bullet
 at all peculiar?"
 
-     "Not that I ever heard of," answered [[Flambeau]]; "but my information
+     "Not that I ever heard of," answered Flambeau; "but my information
 is fragmentary, and only comes from my old friend Grimm. 
-He was a very able [[Detective|detective]] in the German service, and he tried
+He was a very able detective in the German service, and he tried
 to arrest me; I arrested him instead, and we had many interesting chats. 
 He was in charge here of the inquiry about Prince Otto, but I forgot
 to ask him anything about the bullet.  According to Grimm,
@@ -39,20 +39,20 @@ of his dark lager at a draught, and then resumed:
 to appear in one of the outer rooms, because he had to receive
 certain visitors whom he really wished to meet.  They were geological
 experts sent to investigate the old question of the alleged supply of gold
-from the rocks round here, upon which (as it was said) the small [[City|city]]-state
+from the rocks round here, upon which (as it was said) the small city-state
 had so long maintained its credit and been able to negotiate with
 its neighbours even under the ceaseless bombardment of bigger armies. 
 Hitherto it had never been found by the most exacting inquiry
 which could--"
 
-     "Which could be quite certain of discovering a toy [[Pistol|pistol]],"
-said [[Father Brown]] with a smile.  "But what about the brother who ratted? 
+     "Which could be quite certain of discovering a toy pistol,"
+said Father Brown with a smile.  "But what about the brother who ratted? 
 Hadn't he anything to tell the Prince?"
 
-     "He always asseverated that he did not know," replied [[Flambeau]];
+     "He always asseverated that he did not know," replied Flambeau;
 "that this was the one secret his brothers had not told him. 
 It is only right to say that it received some support from
-fragmentary words--spoken by the great Ludwig in the hour of [[Death|death]],
+fragmentary words--spoken by the great Ludwig in the hour of death,
 when he looked at Heinrich but pointed at Paul, and said,
 `You have not told him...' and was soon afterwards incapable of speech. 
 Anyhow, the deputation of distinguished geologists and mineralogists
@@ -101,7 +101,7 @@ at the veil of the branches above him.
 
      "Yes," replied [[Flambeau]].  "I particularly remember that
 the Chamberlain, or old Grimm or somebody, said how horrible it was,
-when they came up at her call, to see a girl holding [[Spring|spring]] [[Flowers|flowers]]
+when they came up at her call, to see a girl holding [[spring]] [[Flowers|flowers]]
 and bending over that--that bloody collapse.  However, the main point is
 that before help arrived he was dead, and the news, of course,
 had to be carried back to the [[Castle|castle]].  The consternation it created was
@@ -116,8 +116,3 @@ secret apartments and strong military protection were due less to [[Fear|fear]]
 of the populace than to the pursuit of some private investigation of--"
 
      "Had the [[Flowers|flowers]] got long stalks?" asked [[Father Brown]].
-
-     [[Flambeau]] stared at him.  "What an odd person you are!" he said. 
-"That's exactly what old Grimm said.  He said the ugliest part of it,
-he thought--uglier than the [[Blood|blood]] and bullet--was that the [[Flowers|flowers]]
-were quite short, plucked close under the head."

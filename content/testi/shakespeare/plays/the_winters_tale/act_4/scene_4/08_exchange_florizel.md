@@ -1,5 +1,5 @@
 ---
-title: "The Winters Tale — Act IV, Scene 4 — exchange ([[Florizel|FLORIZEL]]) [8]"
+title: "The Winters Tale — Act IV, Scene 4 — exchange (FLORIZEL) [8]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-winter’s-tale-(shakespeare)"

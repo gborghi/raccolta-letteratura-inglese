@@ -1,5 +1,5 @@
 ---
-title: "[[longbow2]] — Chapter 1 (part 6)"
+title: "longbow2 — Chapter 1 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -13,6 +13,44 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/longbow2/chapter_01/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/longbow2/chapter_01/part_07">part 07 ›</a></div>
 </nav>
 
+
+And he rose from the table with a gesture of apology.
+
+The girl stood up.  "I think it's perfectly splendid," she said. 
+"It's as wild as one of those stories about looking for the Holy Grail."
+
+The lawyer also had risen, rather abruptly, and stood stroking
+his long chin with his thumb and looking at his old friend under
+bent brows in a rather reflective manner.
+
+"Well, you've subpoena'd me as a witness all right," he said, "and now,
+with the permission of the court, I'll leave the witness-box. I'm
+afraid I must be going.  I've got important business at home. 
+Good-bye, Miss Smith."
+
+The girl returned his farewell a little mechanically; and Crane
+seemed to recover from a similar trance as he stepped after
+the retreating figure of his friend.
+
+"I say, Owen," he said hastily, "I'm sorry you're leaving so early. 
+Must you really go?"
+
+"Yes," replied Owen Hood gravely.  "My private affairs are quite
+real and practical, I assure you."  His grave mouth worked a little
+humourously at the corners as he added:  "The truth is, I don't
+think I mentioned it, but I'm thinking of getting married."
+
+"Married!" repeated the Colonel, as if thunderstruck.
+
+"Thanks for your compliments and congratulations, old fellow,"
+said the satiric Mr. Hood.  "Yes, it's all been thought out. 
+I've even decided whom I am going to marry.  She knows about it herself. 
+She has been warned."
+
+"I really beg your pardon," said the Colonel in great distress,
+"of course I congratulate you most heartily; and her even more heartily. 
+Of course I'm delighted to hear it.  The truth is, I was surprised...
+not so much in that way..."
 
 "Not so much in what way?" asked Hood.  "I suppose you mean
 some would say I am on the way to be an old bachelor.  But I've
@@ -36,27 +74,27 @@ after all in doing--what I did.  She was the inspiration, you know.
 I have done what is called an impossible thing; but believe me,
 she is really the impossible part of it."
 
-"[[Well]], I must not keep you from such an impossible engagement,"
+"Well, I must not keep you from such an impossible engagement,"
 said Crane smiling.  "Really, I'm confoundedly glad to hear about
-all this.  [[Well]], good-bye for the present."
+all this.  Well, good-bye for the present."
 
 Colonel Crane stood watching the square shoulders and russet mane
-of his old friend, as they disappeared down the [[Road|road]], in a rather
+of his old friend, as they disappeared down the road, in a rather
 indescribable state of mind.  As he turned hastily back towards
-his [[Garden|garden]] and his other guest, he was conscious of a change;
+his garden and his other guest, he was conscious of a change;
 things seemed different in some light-headed and illogical fashion. 
 He could not himself trace the connexion; indeed, he did not know
 whether it was a connexion or a disconnexion.  He was very far from
-being a [[Fool|fool]]; but his brains were of the sort that are directed
+being a fool; but his brains were of the sort that are directed
 outwards to things; the brains of the soldier or the scientific man;
 and he had no practice in analysing his own mind.  He did not
 quite understand why the news about Owen Hood should give him that
 dazed sense of a difference in things in general.  Doubtless he
 was very fond of Owen Hood; but he had been fond of other people
 who had got married without especially disturbing the atmosphere
-of his own back-[[Garden|garden]]. He even dimly felt that mere affection
+of his own back-garden. He even dimly felt that mere affection
 might have worked the other way; that it might have made him worry
-about Hood, and [[Wonder|wonder]] whether Hood was making a [[Fool|fool]] of himself,
+about Hood, and wonder whether Hood was making a fool of himself,
 or even feel suspicious or jealous of Mrs. Hood--if there had
 not been something else that made him feel quite the other way. 
 He could not quite understand it; there seemed to be an increasing
@@ -65,63 +103,30 @@ himself wore garlands of green cabbage and in which his old friend
 the lawyer got married suddenly like a man going mad--this world
 was a new world, at once fresh and frightening, in which he could
 hardly understand the figures that were walking about, even his own. 
-The [[Flowers|flowers]] in the flower-pots had a new look about them, at once
+The flowers in the flower-pots had a new look about them, at once
 bright and nameless; and even the line of vegetables beyond could
 not altogether depress him with the memories of recent levity. 
-Had he indeed been a [[Prophet|prophet]], or a visionary seeing the future,
+Had he indeed been a prophet, or a visionary seeing the future,
 he might have seen that green line of cabbages extending infinitely
 like a green sea to the horizon.  For he stood at the beginning
 of a story which was not to terminate until his incongruous
 cabbage had come to mean something that he had never meant by it. 
 That green patch was to spread like a great green conflagration
 almost to the ends of the earth.  But he was a practical person and
-the very reverse of a [[Prophet|prophet]]; and like many other practical persons,
+the very reverse of a prophet; and like many other practical persons,
 he often did things without very clearly knowing what he was doing. 
-He had the [[innocence]] of some patriarch or primitive [[Hero|hero]] in
+He had the innocence of some patriarch or primitive hero in
 the morning of the world, founding more than he could himself
 realize of his legend and his line.  Indeed he felt very much
 like someone in the morning of the world; but beyond that he could
 grasp nothing.
 
-Audrey [[smith|Smith]] was standing not so very many yards away; for it
+Audrey Smith was standing not so very many yards away; for it
 was only for a few strides that he had followed his elder guest
 towards the gate.  Yet her figure had fallen far enough back out
-of the foreground to take on the green framework of the [[Garden|garden]];
+of the foreground to take on the green framework of the garden;
 so that her dress might almost have been blue with a shade of distance. 
 And when she spoke to him, even from that little way off, her voice
 took on inevitably a new suggestion of one calling out familiarly
 and from afar, as one calls to an old companion.  It moved him
 in a disproportionate fashion, though all that she said was:
-
-"What became of your old hat?"
-
-"I lost it," he replied gravely, "obviously I had to lose it. 
-I believe the scarecrow found it."
-
-"Oh, do let's go and look at the scarecrow," she cried.
-
-He led her without a word to the kitchen-[[Garden|garden]] and gravely explained
-each of its outstanding features; from the serious Mr. Archer
-resting on his spade to the [[Grotesque|grotesque]] South Sea Island god grinning
-at the corner of the plot.  He spoke as with an increasing solemnity
-and verbosity, and all the [[Time|time]] knew little or nothing of what he said.
-
-At last she cut into his monologue with an abstraction that was
-almost rude; yet her brown eyes were bright and her sympathy undisguised.
-
-"Don't talk about it," she cried with illogical enthusiasm. 
-"It looks as if we were really right in the middle of the country. 
-It's as unique as the [[Garden]] of Eden.  It's simply the most
-delightful place--"
-
-It was at this moment, for some unaccountable reason, that the
-Colonel who had lost his hat suddenly proceeded to lose his head. 
-Standing in that [[Grotesque|grotesque]] vegetable scenery, a black and stiff
-yet somehow stately figure, he proceeded in the most traditional
-manner to offer the lady everything he possessed, not forgetting
-the scarecrow or the cabbages; a half-humourous [[Memory|memory]] of which
-returned to him with the boomerang of bathos.
-
-"When I think of the encumbrances on the estate--" he concluded gloomily. 
-"[[Well]], there they are; a scarecrow and a cannibal fetish and a stupid
-man who has stuck in a rut of respectability and conventional ways."

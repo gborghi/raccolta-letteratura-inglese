@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 12 (part 4)"
+title: "Jane Eyre — Chapter 12 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,28 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_12/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_13/part_01">part 01 ›</a></div>
 </nav>
 
+
+I took up my muff and walked on. The incident had occurred and was gone
+for me: it _was_ an incident of no moment, no [[Romance|romance]], no interest in a
+sense; yet it marked with change one single hour of a monotonous life.
+My help had been needed and claimed; I had given it: I was pleased to
+have done something; trivial, transitory though the deed was, it was
+yet an active thing, and I was weary of an existence all passive. The
+new face, too, was like a new picture introduced to the gallery of
+[[Memory|memory]]; and it was dissimilar to all the others hanging there: firstly,
+because it was masculine; and, secondly, because it was dark, strong,
+and stern. I had it still before me when I entered Hay, and slipped the
+letter into the post-office; I saw it as I walked fast down-[[Hill|hill]] all
+the way [[Home|home]]. When I came to the stile, I stopped a minute, looked
+round and listened, with an idea that a [[Horse|horse]]’s hoofs might ring on the
+causeway again, and that a rider in a cloak, and a Gytrash-like
+Newfoundland dog, might be again apparent: I saw only the hedge and a
+pollard willow before me, rising up still and straight to meet the
+moonbeams; I heard only the faintest waft of [[Wind|wind]] roaming fitful among
+the trees round Thornfield, a mile distant; and when I glanced down in
+the direction of the murmur, my eye, traversing the hall-front, caught
+a light kindling in a [[Window|window]]: it reminded me that I was late, and I
+hurried on.
 
 I did not like re-entering Thornfield. To pass its threshold was to
 return to stagnation; to [[Cross|cross]] the silent hall, to ascend the darksome

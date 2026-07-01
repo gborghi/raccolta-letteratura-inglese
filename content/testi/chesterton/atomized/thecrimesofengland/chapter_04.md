@@ -1,5 +1,5 @@
 ---
-title: "[[TheCrimesOfEngland]] — Chapter 4"
+title: "TheCrimesOfEngland — Chapter 4"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/thecrimesofengland-(chesterton)"
@@ -16,11 +16,7 @@ tags:
 
 CHAPTER IV
 
-
-
 THE COMING OF THE JANISSARIES
-
-
 
 The Sad Story of Lord Salisbury--Ireland
 

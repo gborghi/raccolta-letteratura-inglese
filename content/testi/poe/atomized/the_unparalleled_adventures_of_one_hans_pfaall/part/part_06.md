@@ -1,5 +1,5 @@
 ---
-title: "[[The Unparalleled Adventures of one Hans Pfaall]] (part 6)"
+title: "The Unparalleled Adventures of one Hans Pfaall (part 6)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-unparalleled-adventures-of-one-hans-pfaall-(poe)"
@@ -12,6 +12,28 @@ tags:
 <div class="excerpt-crumb">Poe · <a href="/works/the-unparalleled-adventures-of-one-hans-pfaall-(poe)">The Unparalleled Adventures of one Hans Pfaall</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/part/part_05">‹ part 05</a><a class="ex-next" href="/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/part/part_07">part 07 ›</a></div>
 </nav>
+
+
+      dangling, at a terrific height, with my head downward, and my
+
+      face outwards, by a piece of slender cord about three feet in
+
+      length, which hung accidentally through a crevice near the [[Bottom|bottom]]
+
+      of the wicker-work, and in which, as I fell, my left foot became
+
+      most providentially entangled. It is impossible—utterly
+
+      impossible—to form any adequate idea of the horror of my
+
+      situation. I gasped convulsively for breath—a shudder resembling
+
+      a fit of the ague agitated every nerve and muscle of my frame—I
+
+      felt my eyes starting from their sockets—a horrible nausea
+
+      overwhelmed me—and at length I fainted away.
+
 
 
       “How long I remained in this state it is impossible to say. It
@@ -165,29 +187,3 @@ tags:
       and throat, and which had hitherto buoyed up my spirits with
 
       [[Madness|madness]] and delirium, had now begun to retire within their proper
-
-      channels, and the distinctness which was thus added to my
-
-      perception of the danger, merely served to deprive me of the
-
-      [[Self|self]]-possession and [[Courage|courage]] to encounter it. But this weakness
-
-      was, luckily for me, of no very long duration. In good [[Time|time]] came
-
-      to my rescue the spirit of [[Despair|despair]], and, with frantic cries and
-
-      struggles, I jerked my way bodily upwards, till at length,
-
-      clutching with a vise-like grip the long-desired rim, I writhed
-
-      my person over it, and fell headlong and shuddering within the
-
-      car.
-
-
-
-      “It was not until some [[Time|time]] afterward that I recovered myself
-
-      sufficiently to attend to the ordinary cares of the balloon. I
-
-      then, however, examined it with attention, and found it, to my

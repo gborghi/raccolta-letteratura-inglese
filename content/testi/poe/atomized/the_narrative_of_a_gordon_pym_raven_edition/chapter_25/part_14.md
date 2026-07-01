@@ -14,6 +14,94 @@ tags:
 </nav>
 
 
+      phaseless and unceasing gloom. His eyes were abnormally large,
+
+      and round like those of a cat. The pupils, too, upon any
+
+      accession or diminution of light, underwent contraction or
+
+      dilation, just such as is observed in the feline tribe. In
+
+      moments of excitement the orbs grew bright to a degree almost
+
+      inconceivable; seeming to emit luminous rays, not of a reflected
+
+      but of an intrinsic lustre, as does a candle or the sun; yet
+
+      their ordinary condition was so totally vapid, filmy, and dull as
+
+      to convey the idea of the eyes of a long-interred corpse.
+
+
+
+      These peculiarities of person appeared to cause him much
+
+      annoyance, and he was continually alluding to them in a sort of
+
+      half explanatory, half apologetic strain, which, when I first
+
+      heard it, impressed me very painfully. I soon, however, grew
+
+      accustomed to it, and my uneasiness wore off. It seemed to be his
+
+      design rather to insinuate than directly to assert that,
+
+      physically, he had not always been what he was—that a long series
+
+      of neuralgic attacks had reduced him from a condition of more
+
+      than usual personal [[Beauty|beauty]], to that which I saw. For many years
+
+      past he had been attended by a physician, named Templeton—an old
+
+      gentleman, perhaps seventy years of age—whom he had first
+
+      encountered at Saratoga, and from whose attention, while there,
+
+      he either received, or fancied that he received, great benefit.
+
+      The result was that Bedloe, who was wealthy, had made an
+
+      arrangement with Dr. Templeton, by which the latter, in
+
+      consideration of a liberal annual allowance, had consented to
+
+      devote his [[Time|time]] and medical experience exclusively to the care of
+
+      the invalid.
+
+
+
+      Doctor Templeton had been a traveller in his younger days, and at
+
+      [[Paris]] had become a [[convert]], in great measure, to the doctrines of
+
+      Mesmer. It was altogether by means of magnetic remedies that he
+
+      had succeeded in alleviating the acute pains of his patient; and
+
+      this [[success]] had very naturally inspired the latter with a
+
+      certain degree of confidence in the opinions from which the
+
+      remedies had been educed. The Doctor, however, like all
+
+      enthusiasts, had struggled hard to make a thorough [[convert]] of his
+
+      pupil, and finally so far gained his point as to induce the
+
+      sufferer to submit to numerous experiments. By a frequent
+
+      repetition of these, a result had arisen, which of late days has
+
+      become so common as to attract little or no attention, but which,
+
+      at the period of which I write, had very rarely been known in
+
+      [[america|America]]. I mean to say, that between Doctor Templeton and Bedloe
+
+      there had grown up, little by little, a very distinct and
+
       strongly marked rapport, or magnetic relation. I am not prepared
 
       to assert, however, that this rapport extended beyond the limits
@@ -72,7 +160,7 @@ tags:
 
       Upon a dim, warm, misty day, toward the close of November, and
 
-      during the strange interregnum of the [[Seasons|seasons]] which in [[America]] is
+      during the strange interregnum of the [[Seasons|seasons]] which in [[america|America]] is
 
       termed the Indian [[Summer]], Mr. Bedloe departed as usual for the
 
@@ -109,95 +197,3 @@ tags:
       indescribable and to me a delicious aspect of dreary desolation.
 
       The [[Solitude|solitude]] seemed absolutely virgin. I could not help believing
-
-      that the green sods and the gray rocks upon which I trod had been
-
-      trodden never before by the foot of a human being. So entirely
-
-      secluded, and in fact inaccessible, except through a series of
-
-      accidents, is the entrance of the ravine, that it is by no means
-
-      impossible that I was indeed the first adventurer—the very first
-
-      and sole adventurer who had ever penetrated its recesses.
-
-
-
-      “The thick and peculiar mist, or smoke, which distinguishes the
-
-      Indian [[Summer]], and which now hung heavily over all objects,
-
-      served, no [[Doubt|doubt]], to deepen the vague impressions which these
-
-      objects created. So dense was this pleasant fog that I could at
-
-      no [[Time|time]] see more than a dozen yards of the path before me. This
-
-      path was excessively sinuous, and as the sun could not be seen, I
-
-      soon lost all idea of the direction in which I journeyed. In the
-
-      meantime the morphine had its customary effect—that of enduing
-
-      all the external world with an intensity of interest. In the
-
-      quivering of a leaf—in the hue of a blade of grass—in the shape
-
-      of a trefoil—in the humming of a bee—in the gleaming of a
-
-      dew-drop—in the breathing of the [[Wind|wind]]—in the faint odors that
-
-      came from the forest—there came a whole universe of suggestion—a
-
-      gay and motley train of rhapsodical and immethodical thought.
-
-
-
-      “Busied in this, I walked on for several hours, during which the
-
-      mist deepened around me to so great an extent that at length I
-
-      was reduced to an absolute groping of the way. And now an
-
-      indescribable uneasiness possessed me—a species of nervous
-
-      hesitation and tremor. I feared to tread, lest I should be
-
-      precipitated into some abyss. I remembered, too, strange stories
-
-      told about these Ragged Hills, and of the uncouth and fierce
-
-      races of men who tenanted their groves and caverns. A thousand
-
-      vague fancies oppressed and disconcerted me—fancies the more
-
-      distressing because vague. Very suddenly my attention was
-
-      arrested by the loud beating of a drum.
-
-
-
-      “My amazement was, of course, extreme. A drum in these hills was
-
-      a thing unknown. I could not have been more surprised at the
-
-      sound of the trump of the Archangel. But a new and still more
-
-      astounding source of interest and perplexity arose. There came a
-
-      wild rattling or jingling sound, as if of a bunch of large keys,
-
-      and upon the instant a dusky-visaged and half-naked man rushed
-
-      past me with a shriek. He came so close to my person that I felt
-
-      his hot breath upon my face. He bore in one hand an instrument
-
-      composed of an assemblage of steel rings, and shook them
-
-      vigorously as he ran. Scarcely had he disappeared in the mist
-
-      before, panting after him, with open mouth and glaring eyes,
-
-      there darted a huge beast. I could not be mistaken in its

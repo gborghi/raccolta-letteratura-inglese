@@ -1,5 +1,5 @@
 ---
-title: "Robert Louis Stevenson — Chapter 9 (part 1)"
+title: "Robert Louis Stevenson — Chapter 8 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/robert-louis-stevenson-(chesterton)"
@@ -10,162 +10,153 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/robert-louis-stevenson-(chesterton)">Robert Louis Stevenson</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/robert_louis_stevenson/chapter_08/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/robert_louis_stevenson/chapter_09/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/robert_louis_stevenson/chapter_08/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/robert_louis_stevenson/chapter_09/part_02">part 02 ›</a></div>
 </nav>
 
 
-CHAPTER IX
+CHAPTER VIII
 
-THE [[philosophy|PHILOSOPHY]] OF GESTURE
+THE LIMITS OF A CRAFT
 
-SOMETHING has been said, from [[Time|time]] to [[Time|time]], in these pages about
-the justice or injustice of the alleged reaction against Stevenson.
-Little or nothing will be said about its final [[success]] or failure,
-and that for at least two reasons.  First, that such guesses
-about the fashions of the future are generally quite wide of
-the mark, because they are founded on a very obvious fallacy.
-They always imply that public taste will continue to progress
-in its present direction; which is, in [[Truth|truth]], the only thing we know
-that it will not do.  A thing that wanders away in great winding
-curves may end anywhere; but to turn each curve into a straight
-line striking out into the void will be wrong in any case.
-This is obvious even in the tolerably short [[history]] of the modern [[Novel|novel]].
-Victorians had a sort of parlour game of comparing Dickens and Thackeray;
-but they would have been amazed to hear modern young people
-declaring that Thackeray is much more sentimental than Dickens.
-They would have been astounded by the revival of Trollope,
-accompanied by the comparative neglect of Thackeray.
-For to the more earnest Victorians of that world, Trollope was
-another name for triviality.  They would have felt as we should feel
-if we were told that Charles Garvice would outlive John Galsworthy.
-For a great genius may appear in almost any disguise; even in the disguise
-of a successful novelist.  The second reason for which I wave away
-from me the [[Prophet|prophet]]'s mantle, and decline to decide the question
-of the future, is that I do not think it very much matters.
-There are fine writers of the past as [[Well|well]] as the present,
-who are read only by few; and I do not admit that the many
-know all about them, merely because they never knew them.
-I do not see why we should so blindly distrust popularity and so
-blindly trust posterity.  But some of the conditions of [[Survival|survival]]
-may perhaps be generally considered.
+THE truest adverse criticism of Stevenson was written by Stevenson.
+It was also very Stevensonian; for it took the form of saying,
+about his own fictitious characters, that his [[Temptation|temptation]] was always
+"to cut the flesh off the bones."  Even here we may note his peculiar
+cutting or hacking accent; it sounds like some horrid crime of
+Barbecue or Billy Bones.  Indeed that word is sufficiently symbolic
+of Stevenson.  His name might have been Bones, like the seafaring
+man at the "Admiral Benbow"; nor was this only because his eternal
+boyhood was as full of skeletons as the school life of Traddles.
+It was also because of a certain bony structure in his whole
+taste and turn of mind; something that was angular though slender
+like his own slim and brittle frame and long Quixotic face.
+Nevertheless the words were uttered as a condemnation; and they
+were a just condemnation.
 
-The fame of Stevenson in the future will stand or fall
-with the strength or weakness of a particular argument.
-It was perhaps most compactly expressed by a critic who accused him
-of "externality." What he called the fault of externality I should
-be inclined to ascribe to the fallacy of internalism.  Perhaps it
-will be recognised better if I call it the fallacy of "psychology."
-It is the notion that a serious novelist should confine himself
-to the inside of the human skull.  Now Stevenson's fiction is full
-of pantomime; in the strict sense of animated action or gesture.
-And it really seems as if the critics, by a sort of pun or
-perversion of meaning, associated it with a children's pantomime;
-though Stevenson would have been the last to object even to that.
-Anyhow, this idea that intellectual fiction should concern the solitary
-and uncommunicative intellect is a very obvious fallacy indeed.
-It is sound enough to say that we can see below the surface;
-but not that we cannot see what is on the surface.  Least of all is
-it sensible to say that we cannot believe in it because it has come
-to the surface; though it were as enormous as a spouting whale.
-Indeed the tone rather recalls that of some sceptics who implied
-that sailors ought not to think they saw the Great Sea Serpent,
-because it was a quarter of a mile long when they saw it.
-So we may [[Well|well]] urge that psychological things are not less
-psychological because they come to the surface in pantomime.
-The argument amounts to saying that a really delicate piece of
-clockwork only exists when the [[Clock|clock]] stops.  And indeed I suppose
-these critics would consider the action of a [[Clock|clock]], in whirling
-its hands about, a very offensive piece of foreign gesticulation.
-It is like saying that a locomotive steam-engine is only a steam-engine
-when it is standing still; or that a building blowing up with a loud
-bang offers a final proof that it was not a powder-magazine.
+The real defect of Stevenson as a writer, so far from being a sort
+of silken trifling and superficial or superfluous embroidery,
+was that he simplified so much that he lost some of the
+comfortable complexity of real life.  He treated everything
+with an economy of detail and a suppression of irrelevance
+which had at last something about it stark and unnatural.
+He is to be commended among authors for sticking to the point;
+but real people do not stick quite so stubbornly to the point as that.
+We can here best realise his real error, as [[Well|well]] as his real originality,
+by comparing him with the great Victorian novelists in whose vast
+[[Shadow|shadow]] he grew up.  I shall have occasion to note afterwards
+that his collision was not with these in the matter of morals
+or [[philosophy]]; for on that side he was looking forward and not back.
+But there is a strong contrast, and a striking new departure,
+in the passage from the very best of Thackeray or Trollope to
+the first sketches, I had almost said scratches, of Stevenson.
+Those sketches were in a few lines, and only of the necessary lines;
+it was the whole point that one necessary line was a loss and not a gain.
+Compared with this, the very best of the old Victorian novels
+were full of padding.  But there was something to be said for
+the Victorian padding; as there was for the Victorian upholstery.
+Comfort is not always a contemptible thing, when its other name
+is hospitality; and Dickens and Thackeray and Trollope had a huge
+hospitality for their own characters.  They were heartily and
+unaffectedly glad to see them; and especially glad to see them again.
+Hence their taste for sequels and continuous family histories;
+and all the positively last appearances of Mr. Pendennis or Mrs. Proudie.
+And this repetition, this rambling, even this padding, did in a curious
+confused fashion confirm the reality of the characters.  As the padded
+Victorian furniture did really make people feel at [[Home|home]], so the padded
+Victorian novels made the reader feel at [[Home|home]] with the characters.
+Now the reader never does feel quite at [[Home|home]] with Stevenson's characters.
+He cannot get rid of an impression that he knows too little about them;
+though he knows that he knows all that is important about them.
+His [[Tragedy|tragedy]] is that he knows only what is important.  Alan Breck Stewart
+is not only a very lively but a very loveable character.
+And yet there is too little of him to [[Love|love]]; though he might [[Well|well]] draw
+his claymore upon us, if we made so dangerous an allusion.  We are not
+quite at ease with him, as we are at ease with [[Pickwick]] or Pendennis.
+We know the vital things about him; and they are very vital.
+But we do not know _thousands_ of things about him; as we do about
+a man with whom we have lived through a long Early Victorian [[Novel|novel]].
+Stevenson has in fact done exactly what he accused himself of doing;
+it is he who wields the claymore and he has cut the flesh off the bones.
 
-Indeed in this respect the psychological critics are rather
-backward even in psychology.  It generally distresses such people
-more to be behind the times than to be against the [[Truth|truth]];
-and in this case it seems possible that they are both.
-The objection to their fallacy of internalism is that it is
-nonsense to think only of thoughts and not of words or deeds,
-since words are only spoken thoughts and deeds are only acted words.
-They are in fact the most dominant words and the most triumphant thoughts;
-the thoughts that emerge.  But, according to "the latest
-modern psychology" (that infallible and immutable authority),
-it is even more of a mistake to treat the surface so superficially.
-Acts are not only the swiftest thoughts; they are even too swift
-to be called thoughts.  They come from something more fundamental
-than common or conscious thinking.  It is exactly our subconsciousness
-that appears in acts more than in words, or even thoughts.
-It is precisely our subconsciousness that bites its nails or twirls
-its moustaches, that kicks its heels or grinds its teeth.
-According to some, it is even our subconsciousness (that jolly companion)
-that occasionally cuts our mother's throat or picks our father's pocket.
-I do not take the latest modern psychology quite so seriously;
-but what element of [[Truth|truth]] there is in it is all against the tone
-of the latest Stevensonian, or Anti-Stevensonian, criticism.
-The test of fine fiction, by this or any other standard,
-is not whether it follows out threads of thought in [[Silence|silence]];
-not whether it is subjective rather than objective or avoids any
-violent issue in events.  It is simply whether it is right; whether the
-psychology is right and whether the act represents it rightly.
-In psychology, as in any other science, one cannot be more than right.
-And the most embittered critic will find it very difficult to show that
-Stevenson was very often wrong.  What the embittered critic can show,
-and what will make him still more embittered, is that Stevenson
-expressed everything by some dramatic act.  And, according to
-such critics, anything that is dramatic is melodramatic.
-The boyish brooding and smarting sentimental [[Self|self]]-importance
-of David Balfour during his one quarrel with Alan Breck Stewart are
-described so delicately and exactly as to be worthy of George Meredith,
-who was so excellent with boys; they might easily be the broodings
-of Evan Harrington or Harry Richmond.  Only in Stevenson's story
-they end (alas!) in the crossing of blades and Alan tossing away
-his [[Sword|sword]]; and that, of course, is dreadfully melodramatic.
-One cannot be psychological inside a [[Sword|sword]]-belt; and cerebral
-processes must not take place under a three-cornered hat.
-The interlude of Henry Durie's crippled and almost half-witted happiness,
-when the [[Shadow|shadow]] of his brother is withdrawn for a season and his [[Child|child]]
-is growing in the sun, is as pathetic and as true as any lucid interval
-(if such there be) in the suburban depression of the school of Gissing.
-Only when the [[Fool|fool]]'s paradise is lost, by a random word about the possible
-perversion of the [[Child|child]], it is not to be denied that Henry Durie
-falls to the earth like a stone.  And the thoughtful critic explains
-that such a man cannot have had any really internal feelings;
-because his internal feelings were strong enough to knock him down.
-The dark, drudging and almost automatic altruism of poor Herrick,
-amid all his tangle of treasons in _The Ebb-Tide,_ is as sad
-and true as the most miserable modern could wish it to be.
-But then Herrick jumps into the sea with a great splash;
-though he ought to endear himself to the modern critic by not actually
-doing anything after all, even for the fruitful cult of [[suicide]].
-The girl Kirstie's "gabble" of recollection and daydream
-and imaginary [[lovers]]' quarrels, as she goes [[Home|home]] from church,
-is quite as true to the actual inner workings of the young
-sentimental mind as any feminine fine shade in Henry James.
-But then the critic cannot be expected to forgive her for giving
-two or three little skips as she walks along the [[Road|road]].
-No lady in Henry James ever skipped.  It is because in each of
-these cases some outward motion makes memorable the inward mood
-that these critics feel that it cannot really be so very inward.
-It is to be noted that they do not commit themselves to a
-positive negation; they do not affirm that the characters in question
-would _not_ feel as they are described as feeling; they do not
-even say that they would not act as they are described as acting;
-that David would not fight or Durie fall or Kirstie leap upon the [[Road|road]].
-They simply have a refined and delicate feeling that psychological
-fiction ought to deal only, or mostly, with unspoken words or
-uncompleted thoughts.  That is a very interesting point of view;
-and it is just as [[Well|well]] to have it clearly stated and understood.
-If Stevenson had only served as an excuse for expounding this
-interesting critical thesis, they might so far thank him
-and even constrain themselves to be reasonably polite to him.
-Anyhow, that seems to be their principle; and I have paused
-long enough upon it to show that I do not wish to ignore it.
-Only I would respectfully submit that their quarrel is not
-with Stevenson; certainly their quarrel is not merely with Stevenson.
-It is with Homer and the bending of the bow; it is with [[Hamlet]]
-and the leap into the [[Grave|grave]]; it is with Francesca dropping the book
-or Quixote driving at the windmill; it is with Henry putting on his [[Crown|crown]]
-or Anthony putting off his helmet; it is with Roland in Roncesvaux,
-blowing the horn and breaking the [[Sword|sword]] and holding up his glove to God.
-It is in all those [[Epic|epic]] energies which gave to the last story and its
-sequel the noble title of [[songs|Songs]] of Action--_Chansons de Geste._
+An illustration of the difference, of course, could be found in
+the presentation of the externals of a character.  The dark vivacity
+of the face of Alan Breck, the eyes with their "dancing [[Madness|madness]],
+at once engaging and alarming," springs up before us as clearly
+as a coloured photograph in the first few words of description;
+and the same few words have already set strutting the whole
+brisk little figure in the blue coat and silver buttons and
+the swagger of the big [[Sword|sword]].  But the whole operation is so rapid
+and complete as to have something about it almost unconvincing,
+like a conjuring trick.  It is like seeing something by a single flash
+of [[Lightning|lightning]]; there is in that illumination a sort of illusion.
+For in the heart of anything that partakes of [[Magic|magic]] there is
+also something of mockery.  It is not so that we "get to know"
+the personal appearance of somebody in Thackeray or Trollope.
+It is by a multitude of apparently accidental or even unnecessary
+allusions that we gradually gain the impression that Warrington was
+dark and moody with a blue shaven chin.  The appearance of Lord Steyne
+is scattered all over _Vanity Fair_ in scraps; his red whiskers
+in one chapter, his bandy legs in another, his bald head in a third.
+But this is so like the way in which we really do talk about
+real people, that in comparison there is something almost unreal
+about Stevenson's rapid realism.  Perhaps the story-teller
+ought to remember more often that he is a man telling a story.
+Perhaps he even forgets that it is supposed to sound like a true story.
+And after all a man does not say to his wife at dinner,
+in real life, "A stranger came to my office this morning;
+he was of an elegant, strenuous figure, with a fine falcon profile,
+the eyebrows and the corners of the mouth touched with temper;
+and a general appearance which, though not without distinction,
+was thrown up in a somewhat theatrical fashion by his dashing cutaway
+coat and white spats and the magenta coloured orchid in his buttonhole."
+Such a soliloquy seldom resounds in the suburban [[Home|home]];
+and if the stranger's appearance comes to count for anything,
+it comes out bit by bit; as in saying, "I wasn't altogether
+surprised when he threw the inkstand; for I saw by his eyebrows
+he had a beast of a temper," or, "The office-boy was taken out
+incapacitated with laughter at the first sight of the spats."
+In the same way, nobody does actually say, as Mackellar does
+in the Stevensonian [[Romance|romance]], "I was now near enough to see him,
+a very handsome figure and countenance, swarthy, lean, long, with a
+quick, alert, black look, as of one who was a fighter and accustomed
+to command; upon one cheek he had a mole, not unbecoming; a large
+diamond sparkled on his hand; his clothes, although of the one hue,
+were of a French and foppish design; his ruffles, which he wore
+longer than common, of exquisite lace."  Men do not really describe
+things like that; would that they described anything so [[Well|well]]!
+These facts about the Master of Ballantrae would have come out in a
+more fragmentary fashion in the real record of a real Mackellar.
+The diamond would have been mentioned in connection with a rumour
+of thieves; the lace in connection with the laundry.  And that is more
+or less how the older Victorian novelists did often describe or mention
+these things; and I think it really does give an impression of reality.
+Compared with it, the very completeness of Stevenson seems incomplete.
+But it is also true that the older Victorians could not have achieved this
+familiar realism except by being a little more formless than Stevenson
+and lacking his beautiful and piercing sense of the clarity of form.
+Though he may seem to describe his subject in detail, he describes it
+to be done with it; and he does not return to the subject.  He never
+says anything needlessly; above all he never says anything twice.
+Few will venture to say that Thackeray never says anything twice;
+or that he was incapable in some cases of saying twenty times.
+Yet in some ways this repetition, though sometimes boring,
+is somehow convincing; I might almost say comforting.  It comes from
+that comfortable sense of social ease, which was a mark of the England
+of that brief period of mercantile [[success]]; or at least of that part
+of England which consisted of the merchants who had succeeded.
+And it exhibited, along with its other virtues and vices, that rather
+coarse benevolence that was at once a virtue and a vice.  "The British
+merchant's son shan't want, sir," said old Mr. Osborne; and neither
+should the spiritual [[Child|child]] of Mr. William Makepeace Thackeray.
+Words shall be poured out on him like wine; pages shall
+be open for him like parks, in which he may wander.
+He shall be allowed to hang about as long as he likes and the poorest
+relations of the story shall be asked again and again to dinner.
+In short, the reader shall "get to know him" and discuss all sorts
+of little details about him at leisure; they shall not all be
+disposed of once and for all in one closely packed paragraph.
+We return to the word hospitality; and the chatter of a
+hundred friends and relations at an English Christmas party.
+In comparison the verbal economy of the Scottish romancer suggests
+something of the old joke against the Scot.  He is so very thrifty
+that his characters are almost thin.

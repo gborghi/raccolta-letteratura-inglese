@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 12 (part 1)"
+title: "Shirley — Chapter 12 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -263,11 +263,3 @@ world."
 
 
 "I have seen such storms in hilly districts in Yorkshire; and at their
-
-riotous climax, while the sky was all cataract, the earth all flood, I
-
-have remembered the [[deluge|Deluge]]."
-
-
-
-"It is singularly reviving after such hurricanes to feel calm return,

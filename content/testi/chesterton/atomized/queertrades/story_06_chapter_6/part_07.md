@@ -1,5 +1,5 @@
 ---
-title: "[[queertrades]] — Chapter 6 (part 7)"
+title: "queertrades — Chapter 6 (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/queertrades-(chesterton)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/queertrades/story_06_chapter_6/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/queertrades/story_06_chapter_6/part_08">part 08 ›</a></div>
 </nav>
 
+
+"The lady downstairs," replied Rupert.  "The lady who was locked up.
+She won't come out.  And she says that all she wants is for us
+to let these fellows loose."
 
 "And a jolly sensible suggestion," cried Basil, and with a bound
 he was on top of the prostrate Burrows once more and was unknotting

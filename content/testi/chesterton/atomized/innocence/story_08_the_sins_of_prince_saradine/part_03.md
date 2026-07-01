@@ -1,5 +1,5 @@
 ---
-title: "[[innocence]] — The Sins of Prince Saradine (part 3)"
+title: "innocence — The Sins of Prince Saradine (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_08_the_sins_of_prince_saradine/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_08_the_sins_of_prince_saradine/part_04">part 04 ›</a></div>
 </nav>
 
+
+The Italian housekeeper was somewhat more communicative, being,
+as Brown fancied, somewhat less content.  Her tone about her
+master was faintly acid; though not without a certain awe.
+[[Flambeau]] and his friend were standing in the room of the
+looking-glasses examining the red [[Sketch|sketch]] of the two boys,
+when the housekeeper swept in swiftly on some domestic errand.
+It was a peculiarity of this glittering, glass-panelled place
+that anyone entering was reflected in four or five mirrors at once;
+and [[Father Brown]], without turning round, stopped in the middle
+of a sentence of family criticism.  But [[Flambeau]], who had his face
+close up to the picture, was already saying in a loud voice,
+"The brothers Saradine, I suppose.  They both look [[Innocent|innocent]] enough.
+It would be hard to say which is the good brother and which the bad."
+Then, realising the lady's presence, he turned the conversation
+with some triviality, and strolled out into the [[Garden|garden]].
+But [[Father Brown]] still gazed steadily at the red crayon [[Sketch|sketch]];
+and Mrs. Anthony still gazed steadily at [[Father Brown]].
 
 She had large and tragic brown eyes, and her olive face glowed
 darkly with a curious and painful [[Wonder|wonder]]--as of one doubtful of a
@@ -107,24 +125,3 @@ and opium dens, Australian bushrangers or Italian brigands.
 [[Father Brown]] knew that the once-celebrated Saradine had spent his
 last few years in almost ceaseless travel, but he had not guessed
 that the travels were so disreputable or so amusing.
-
-Indeed, with all his dignity of a man of the world,
-Prince Saradine radiated to such sensitive observers as the priest,
-a certain atmosphere of the restless and even the unreliable.
-His face was fastidious, but his eye was wild; he had little
-nervous tricks, like a man shaken by drink or drugs, and he neither had,
-nor professed to have, his hand on the helm of household affairs.
-All these were left to the two old servants, especially to
-the butler, who was plainly the central pillar of the [[house]].
-Mr. Paul, indeed, was not so much a butler as a sort of
-steward or, even, chamberlain; he dined privately, but with almost
-as much pomp as his master; he was feared by all the servants;
-and he consulted with the prince decorously, but somewhat unbendingly--
-rather as if he were the prince's solicitor.  The sombre housekeeper
-was a mere [[Shadow|shadow]] in comparison; indeed, she seemed to efface
-herself and wait only on the butler, and Brown heard no more
-of those volcanic whispers which had half told him of the younger
-brother who blackmailed the elder.  Whether the prince was really
-being thus bled by the absent captain, he could not be certain,
-but there was something insecure and secretive about Saradine
-that made the tale by no means incredible.

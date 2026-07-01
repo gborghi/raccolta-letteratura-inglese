@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 45 (part 1)"
+title: "Sense and Sensibility — Chapter 45 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -197,11 +197,3 @@ in encouraging the unfortunate attachment to Willoughby, had
 contributed to place her;—and in her recovery she had yet another
 
 source of joy unthought of by Elinor. It was thus imparted to her, as
-
-soon as any opportunity of private conference between them occurred.
-
-
-
-“At last we are [[Alone|alone]]. My Elinor, you do not yet know all my happiness.
-
-[[Colonel Brandon]] loves Marianne. He has told me so himself.”

@@ -199,7 +199,3 @@ CHAPTER 20
       to the beat of the sun. But they do not bring forth their young
 
       in shallow [[Water|water]], as we never see any of their progeny, and
-
-      full-grown ones are always observed coming in from deep [[Water|water]].
-
-      They feed principally on that class of zoophytes which produce

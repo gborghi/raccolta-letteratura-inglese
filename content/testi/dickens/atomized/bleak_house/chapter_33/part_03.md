@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 33 (part 3)"
+title: "Bleak House — Chapter 33 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -149,16 +149,3 @@ is deposited by his own [[Desire|desire]] in the parlour of the Sol’s Arms.
 an arm-chair. “Oh, dear me! Oh, my bones and back! Oh, my aches and
 pains! Sit down, you dancing, prancing, shambling, scrambling
 poll-parrot! Sit down!”
-
-This little apostrophe to Mrs. Smallweed is occasioned by a
-propensity on the part of that unlucky old lady whenever she finds
-herself on her feet to amble about and “set” to inanimate objects,
-accompanying herself with a chattering noise, as in a [[Witch|witch]] [[Dance|dance]]. A
-nervous affection has probably as much to do with these
-demonstrations as any imbecile intention in the poor old woman, but
-on the present occasion they are so particularly lively in connexion
-with the Windsor arm-chair, fellow to that in which Mr. Smallweed is
-seated, that she only quite desists when her grandchildren have held
-her down in it, her lord in the meanwhile bestowing upon her, with
-great volubility, the endearing epithet of “a pig-headed jackdaw,”
-repeated a surprising number of times.

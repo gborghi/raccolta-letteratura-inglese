@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 9 (part 7)"
+title: "Martin Chuzzlewit — Chapter 9 (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_09/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_09/part_08">part 08 ›</a></div>
 </nav>
 
+
+Benjamin was supposed to be the real name of this young retainer but he
+was known by a great variety of names. Benjamin, for instance, had been
+converted into Uncle Ben, and that again had been corrupted into Uncle;
+which, by an easy transition, had again passed into Barnwell, in [[Memory|memory]]
+of the celebrated relative in that degree who was shot by his nephew
+George, while meditating in his [[Garden|garden]] at Camberwell. The gentlemen at
+Todgers’s had a merry habit, too, of bestowing upon him, for the [[Time|time]]
+being, the name of any notorious malefactor or minister; and sometimes
+when current events were flat they even sought the pages of [[history]] for
+these distinctions; as Mr Pitt, Young Brownrigg, and the like. At the
+period of which we write, he was generally known among the gentlemen as
+Bailey junior; a name bestowed upon him in contradistinction, perhaps,
+to Old Bailey; and possibly as involving the recollection of an
+unfortunate lady of the same name, who perished by her own hand early in
+life, and has been immortalised in a ballad.
 
 The usual [[Sunday]] dinner-hour at Todgers’s was two o’[[Clock|clock]]--a suitable
 [[Time|time]], it was considered for all parties; convenient to Mrs Todgers, on
@@ -90,32 +106,3 @@ met with in [[Germany]]; and the gentleman of a literary turn repeated (by
 of the tank at the back of the [[house]]. These amusements, with the
 miscellaneous conversation arising out of them, passed the [[Time|time]]
 splendidly, until dinner was announced by Bailey junior in these terms:
-
-‘The wittles is up!’
-
-On which notice they immediately descended to the banquet-hall; some of
-the more facetious spirits in the rear taking down gentlemen as if they
-were ladies, in [[Imitation|imitation]] of the fortunate possessors of the two Miss
-Pecksniffs.
-
-Mr Pecksniff said grace--a short and pious grace, involving a blessing
-on the appetites of those present, and committing all persons who had
-nothing to eat, to the care of [[Providence]]; whose business (so said the
-grace, in effect) it clearly was, to look after them. This done, they
-fell to with less ceremony than appetite; the table groaning beneath the
-weight, not only of the delicacies whereof the Miss Pecksniffs had been
-previously forewarned, but of boiled beef, roast veal, bacon, pies
-and abundance of such heavy vegetables as are favourably known to
-housekeepers for their satisfying qualities. Besides which, there were
-bottles of stout, bottles of wine, bottles of ale, and divers other
-strong drinks, native and foreign.
-
-All this was highly agreeable to the two Miss Pecksniffs, who were in
-immense request; sitting one on either hand of Mr Jinkins at the [[Bottom|bottom]]
-of the table; and who were called upon to take wine with some new
-admirer every minute. They had hardly ever felt so pleasant, and so full
-of conversation, in their lives; [[Mercy]], in particular, was uncommonly
-brilliant, and said so many good things in the way of lively repartee
-that she was looked upon as a prodigy. ‘In short,’ as that young lady
-observed, ‘they felt now, indeed, that they were in [[London]], and for the
-first [[Time|time]] too.’

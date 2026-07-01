@@ -535,7 +535,7 @@ They did not interest themselves in the [[Blood|blood]] of the yokel
 and the mystic paternity of the tinker.  In other words,
 the evil was not that there was too much genealogy,
 but that there was not enough.  And the real work to which
-[[democracy]] ought to address itself is that of extending
+[[Democracy|democracy]] ought to address itself is that of extending
 this racial interest to the case of all ordinary men,
 of teaching the butcher to be proud of his grandfather,
 and the railway porter to remember his name with [[Pride|pride]].
@@ -3955,7 +3955,7 @@ that one [[Death|death]] was less glorious than the other.
 William Penn and His Royalist Friends
 
 The Americans have established a Thanksgiving Day to celebrate
-the fact that the [[Pilgrim]] Fathers reached [[america|America]].
+the fact that the [[Pilgrim]] Fathers reached [[America]].
 The English might very [[Well|well]] establish another Thanksgiving Day
 to celebrate the happy fact that the [[Pilgrim]] Fathers left England.
 I know this is still regarded as a historical heresy by those
@@ -3971,7 +3971,7 @@ liberal and large-minded Americans, was originally intended,
 I believe, as a sort of iconoclastic expedient for destroying
 the celebration of Christmas, which does not encourage me, for one,
 to develop a special and spiritual fervour for [[Puritanism]].
-Oddly enough, however, the Puritan tradition in [[america|America]] has
+Oddly enough, however, the Puritan tradition in [[America]] has
 always celebrated Thanksgiving Day by often eliminating
 the Christmas Pudding but preserving the Christmas Turkey.
 I do not know why, unless the very name of Turkey reminded
@@ -3993,7 +3993,7 @@ or the Argo; indeed, it is legendary in more ways than one,
 so far as the aim and atmosphere of the expedition are concerned.
 But I [[Doubt|doubt]] whether most people even know the names of the ships
 in which many of the other devoted or heroic colonists
-of [[america|America]] sailed; I, for one, most certainly do not.
+of [[America]] sailed; I, for one, most certainly do not.
 I will not insist especially on the very noble example
 of Lord Baltimore and the founders of the State of Maryland,
 who established the first system of religious toleration
@@ -4039,7 +4039,7 @@ a Quaker very much as an American Puritan in the twentieth
 century would regard a Bolshevist.  And, though Bolshevists
 are supposed to be fierce and Quakers were supposed to be meek,
 they were at least like each other in this:  they were what modern
-[[america|America]] would call Radical, in the sense of going to the real
+[[America]] would call Radical, in the sense of going to the real
 root of the question and answering it rightly or wrongly.
 In short, they were really Fundamentalists, and most
 Fundamentalists are not Fundamentalists.  For whatever we think
@@ -4352,7 +4352,7 @@ where the papers in question procure their myriads of readers.
 The natural necessity and natural good underlying such crude
 institutions is far less often a subject of speculation;
 yet the healthy hungers which lie at the back of the habits
-of modern [[democracy]] are surely worthy of the same sympathetic
+of modern [[Democracy|democracy]] are surely worthy of the same sympathetic
 study that we give to the dogmas of the fanatics long dethroned
 and the intrigues of commonwealths long obliterated from the earth.
 And this is the base and consideration which I have to offer:
@@ -4655,11 +4655,11 @@ in spite of these things; I call him an [[aristocrat]] because
 of them.  The true [[aristocrat]] is by [[Nature|nature]] an anarchist.
 The [[aristocrat]] was and is the person desiring to do as he liked.
 His [[Castle|castle]] was a defiance of the decent orders of the [[King|king]].
-His motorcar was a defiance of the decent orders of the [[democracy]].
+His motorcar was a defiance of the decent orders of the [[Democracy|democracy]].
 The gentlemen of real [[history]] were never anything but rowdy.
 They were admired for being rowdy.  They were hanged for being rowdy.
 They are no longer hanged which seems to me to mark a considerable
-falling-off in the fullness of the control of the [[democracy]].
+falling-off in the fullness of the control of the [[Democracy|democracy]].
 They are still admired.
 
 Now all this patrician rebelliousness seems to me
@@ -4672,7 +4672,7 @@ between them has flamed since the beginning of the world.
 Shelley hated priests, and hated them most of all; for priests
 represent a startling and [[Supernatural|supernatural]] denial of the gradations
 of mankind; an aristocracy can submit to a [[King|king]] or [[Humour|humour]]
-a [[democracy]], but another aristocracy is too much for them.
+a [[Democracy|democracy]], but another aristocracy is too much for them.
 Of course, Shelley, a man of quite crystalline sincerity, did not
 know that his anarchism had this feudal foundation; he imagined,
 I have no [[Doubt|doubt]], that he was a veritable voice of the people.

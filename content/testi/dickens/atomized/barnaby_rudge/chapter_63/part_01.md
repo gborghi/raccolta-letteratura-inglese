@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 63 (part 1)"
+title: "Barnaby Rudge — Chapter 63 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -111,6 +111,3 @@ angry sea, the crowd pressed after them.
 Instead of going straight down Holborn to the jail, as all expected,
 their leaders took the way to Clerkenwell, and pouring down a quiet
 street, halted before a locksmith’s [[house]]--the Golden Key.
-
-‘Beat at the door,’ cried Hugh to the men about him. ‘We want one of his
-craft to-[[Night|night]]. Beat it in, if no one answers.’

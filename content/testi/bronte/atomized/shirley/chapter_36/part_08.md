@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 36 (part 8)"
+title: "Shirley — Chapter 36 (part 8)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,48 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_36/part_07">‹ part 07</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_37/part_01">part 01 ›</a></div>
 </nav>
 
+
+business I can be useful. Every day I ride over to Fieldhead. How long
+
+will it be before I can call that place my [[Home|home]], and its mistress mine?
+
+I am not easy, not tranquil; I am tantalized, sometimes tortured. To see
+
+her now, one would think she had never pressed her cheek to my shoulder,
+
+or clung to me with tenderness or trust. I feel unsafe; she renders me
+
+miserable. I am shunned when I visit her; she withdraws from my reach.
+
+Once this day I lifted her face, resolved to get a full look down her
+
+deep, dark eyes. Difficult to describe what I read there! Pantheress!
+
+beautiful forest-born! wily, tameless, peerless [[Nature|nature]]! She gnaws her
+
+chain; I see the white teeth working at the steel! She has [[Dreams|dreams]] of her
+
+wild woods and pinings after virgin [[Freedom|freedom]]. I wish Sympson would come
+
+again, and oblige her again to entwine her arms about me. I wish there
+
+was danger she should lose me, as there is risk I shall lose her. No;
+
+final loss I do not [[Fear|fear]], but long delay----
+
+
+
+"It is now [[Night|night]]--midnight. I have spent the afternoon and evening at
+
+Fieldhead. Some hours ago she passed me, coming down the oak staircase
+
+to the hall. She did not know I was standing in the twilight, near the
+
+staircase [[Window|window]], looking at the [[Frost|frost]]-bright constellations. How
+
+closely she glided against the banisters! How shyly shone her large eyes
+
+upon me! How evanescent, fugitive, fitful she looked--slim and swift as
 
 a northern streamer!
 

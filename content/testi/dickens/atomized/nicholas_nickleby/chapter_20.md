@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 20"
+title: "Nicholas Nickleby — Chapter 20"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -86,7 +86,7 @@ and if she enjoyed a little bit of [[Revenge|revenge]], no living [[Soul|soul]] 
 the worse. One of the many to whom, from straitened circumstances, a
 consequent inability to form the associations they would wish, and a
 disinclination to mix with the society they could obtain, [[London]] is
-as complete a [[Solitude|solitude]] as the plains of Syria, the humble [[artist]] had
+as complete a [[Solitude|solitude]] as the plains of Syria, the humble [[Artist|artist]] had
 pursued her lonely, but contented way for many years; and, until the
 peculiar misfortunes of the Nickleby family attracted her attention,
 had made no friends, though brimful of the friendliest feelings to all

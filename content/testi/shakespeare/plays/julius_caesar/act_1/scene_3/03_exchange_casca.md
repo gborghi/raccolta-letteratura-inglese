@@ -1,5 +1,5 @@
 ---
-title: "[[Julius Caesar]] — Act I, Scene 3 — exchange ([[Casca|CASCA]]) [3]"
+title: "Julius Caesar — Act I, Scene 3 — exchange (CASCA) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/julius-caesar-(shakespeare)"

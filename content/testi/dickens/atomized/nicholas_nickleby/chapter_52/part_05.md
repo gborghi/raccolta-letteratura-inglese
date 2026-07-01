@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 52 (part 5)"
+title: "Nicholas Nickleby — Chapter 52 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,34 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_52/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_53/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘Susan, my dear,’ said Mr. Kenwigs, ‘consider your [[Child|child]].’
+
+‘Yes,’ shrieked Mrs. Kenwigs, ‘I will consider my [[Child|child]]! I will consider
+my [[Child|child]]! My own [[Child|child]], that no uncles can deprive me of; my own hated,
+despised, deserted, cut-off little [[Child|child]].’ And, here, the emotions of
+Mrs. Kenwigs became so violent, that Mr. Kenwigs was fain to administer
+hartshorn internally, and vinegar externally, and to destroy a staylace,
+four petticoat strings, and several small buttons.
+
+Newman had been a silent spectator of this scene; for Mr. Lillyvick had
+signed to him not to withdraw, and Mr. Kenwigs had further solicited
+his presence by a nod of invitation. When Mrs. Kenwigs had been, in some
+degree, restored, and Newman, as a person possessed of some influence
+with her, had remonstrated and begged her to compose herself, Mr
+Lillyvick said in a faltering voice:
+
+‘I never shall ask anybody here to receive my--I needn’t mention the
+word; you know what I mean. Kenwigs and Susan, yesterday was a week she
+eloped with a half-pay captain!’
+
+Mr. and Mrs. Kenwigs started together.
+
+‘Eloped with a half-pay captain,’ repeated Mr. Lillyvick, ‘basely and
+falsely eloped with a half-pay captain. With a bottle-nosed captain that
+any man might have considered himself safe from. It was in this room,’
+said Mr. Lillyvick, looking sternly round, ‘that I first see Henrietta
+Petowker. It is in this room that I turn her off, for ever.’
 
 This declaration completely changed the whole posture of affairs.
 Mrs. Kenwigs threw herself upon the old gentleman’s neck, bitterly

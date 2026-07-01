@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 22"
+title: "The Professor — Chapter 22"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-professor-(bronte)"
@@ -15,8 +15,6 @@ tags:
 
 
 CHAPTER XXII
-
-
 
 A WEEK is gone; LE JOUR DES NOCES arrived; the [[Marriage|marriage]] was solemnized
 
@@ -44,8 +42,6 @@ that street till such [[Time|time]] as the mist of [[Doubt|doubt]] should clear 
 
 prospects.
 
-
-
 It was a sweet September evening--very mild, very still; I had nothing
 
 to do; at that hour I knew Frances would be equally released from
@@ -55,8 +51,6 @@ occupation; I thought she might possibly be wishing for her master, I
 knew I wished for my pupil. [[Imagination]] began with her low whispers,
 
 infusing into my [[Soul|soul]] the soft tale of pleasures that might be.
-
-
 
 “You will find her reading or writing,” said she; “you can take your
 
@@ -94,8 +88,6 @@ her by a sign. Try their influence now. Go--they are not passions; you
 
 may handle them safely.”
 
-
-
 “I will NOT go was my answer to the sweet [[Temptress|temptress]]. A man is master
 
 of himself to a certain point, but not beyond it. Could I seek Frances
@@ -104,19 +96,13 @@ to-[[Night|night]], could I sit with her [[Alone|alone]] in a quiet room, and ad
 
 only in the language of Reason and Affection?”
 
-
-
 “No,” was the brief, fervent reply of that [[Love]] which had conquered and
 
 now controlled me.
 
-
-
 [[Time]] seemed to stagnate; the sun would not go down; my watch ticked, but
 
 I thought the hands were paralyzed.
-
-
 
 “What a hot evening!” I cried, throwing open the lattice; for, indeed, I
 
@@ -136,8 +122,6 @@ smart, prompt rap; and, almost before I could invite him in, he was over
 
 the threshold, and had closed the door behind him.
 
-
-
 “And how are you?” asked an indifferent, quiet voice, in the English
 
 language; while my visitor, without any sort of bustle or introduction,
@@ -147,8 +131,6 @@ put his hat on the table, and his gloves into his hat, and drawing
 the only armchair the room afforded a little forward, seated himself
 
 tranquilly therein.
-
-
 
 “Can’t you speak?” he inquired in a few moments, in a tone whose
 
@@ -188,8 +170,6 @@ use in attempting to describe what is indescribable. Being in no hurry
 
 to address him, I sat and stared at my ease.
 
-
-
 “Oh, that’s your game--is it?” said he at last. “[[Well]], we’ll see which
 
 is soonest tired.” And he slowly drew out a fine cigar-case, picked one
@@ -206,11 +186,7 @@ conceived the whim, so I [[Rose|rose]], and taking the book from his hand, I
 
 said,--
 
-
-
 “You did not ask for it, and you shall not have it.”
-
-
 
 “It is silly and dull,” he observed, “so I have not lost much;” then the
 
@@ -226,23 +202,15 @@ which I wondered at; it was a more practical and sensible precaution
 
 than I should have imagined you capable of. Why did you leave?”
 
-
-
 “Because M. Pelet has just married the lady whom you and Mr. Brown
 
 assigned to me as my wife.”
-
-
 
 “Oh, indeed!” replied Hunsden with a short laugh; “so you’ve lost both
 
 your wife and your place?”
 
-
-
 “Precisely so.”
-
-
 
 I saw him give a quick, covert glance all round my room; he marked its
 
@@ -270,49 +238,29 @@ softening change had taken place both in his voice and look ere he spoke
 
 again.
 
-
-
 “You have got another place?”
 
-
-
 “No.”
-
-
 
 “You are in the way of getting one?”
 
-
-
 “No.”
-
-
 
 “That is bad; have you applied to Brown?”
 
-
-
 “No, indeed.”
-
-
 
 “You had better; he often has it in his power to give useful information
 
 in such matters.”
 
-
-
 “He served me once very [[Well|well]]; I have no claim on him, and am not in the
 
 [[Humour|humour]] to bother him again.”
 
-
-
 “Oh, if you’re bashful, and dread being intrusive, you need only
 
 commission me. I shall see him to-[[Night|night]]; I can put in a word.”
-
-
 
 “I beg you will not, Mr. Hunsden; I am in your debt already; you did me
 
@@ -321,8 +269,6 @@ an important service when I was at X----; got me out of a den where I
 was dying: that service I have never repaid, and at present I decline
 
 positively adding another item to the account.”
-
-
 
 “If the [[Wind|wind]] sits that way, I’m satisfied. I thought my unexampled
 
@@ -342,13 +288,9 @@ is more, you are a [[Fool|fool]] if you refuse to take one from any hand that
 
 offers it.”
 
-
-
 “Very [[Well|well]], Mr. Hunsden; now you have settled that point, talk of
 
 something else. What news from X----?”
-
-
 
 “I have not settled that point, or at least there is another to settle
 
@@ -356,29 +298,19 @@ before we get to X----. Is this Miss Zenobie” (Zoraide, interposed
 
 I)--“[[Well|well]], Zoraide--is she really married to Pelet?”
 
-
-
 “I tell you yes--and if you don’t believe me, go and ask the cure of St.
 
 Jacques.”
 
-
-
 “And your heart is broken?”
 
-
-
 “I am not aware that it is; it feels all right--beats as usual.”
-
-
 
 “Then your feelings are less superfine than I took them to be; you must
 
 be a coarse, callous character, to bear such a thwack without staggering
 
 under it.”
-
-
 
 “Staggering under it? What the deuce is there to stagger under in the
 
@@ -388,23 +320,13 @@ The progeny will doubtless be a strange hybrid race; but that’s their
 
 look-out--not mine.”
 
-
-
 “He indulges in scurrilous jests, and the bride was his affianced one!”
-
-
 
 “Who said so?”
 
-
-
 “Brown.”
 
-
-
 “I’ll tell you what, Hunsden--Brown is an old gossip.”
-
-
 
 “He is; but in the meantime, if his gossip be founded on less than
 
@@ -414,31 +336,21 @@ youthful pedagogue! did you leave your place in consequence of her
 
 becoming Madame Pelet?”
 
-
-
 “Because--” I felt my face grow a little hot; “because--in short, Mr.
 
 Hunsden, I decline answering any more questions,” and I plunged my hands
 
 deep in my breeches pocket.
 
-
-
 Hunsden triumphed: his eyes--his laugh announced victory.
 
-
-
 “What the deuce are you laughing at, Mr. Hunsden?”
-
-
 
 “At your exemplary composure. [[Well]], lad, I’ll not bore you; I see how
 
 it is: Zoraide has jilted you--married some one richer, as any sensible
 
 woman would have done if she had had the chance.”
-
-
 
 I made no reply--I let him think so, not feeling inclined to enter into
 
@@ -449,8 +361,6 @@ false account; but it was not easy to blind Hunsden; my very [[Silence|silence]]
 instead of convincing him that he had hit the [[Truth|truth]], seemed to render
 
 him doubtful about it; he went on:--
-
-
 
 “I suppose the affair has been conducted as such affairs always
 
@@ -472,8 +382,6 @@ she accepted, and he has got her: a correct transaction--perfectly
 
 so--business-like and legitimate. And now we’ll talk of something else.”
 
-
-
 “Do,” said I, very glad to dismiss the topic, and especially glad to
 
 have baffled the sagacity of my [[Cross|cross]]-questioner--if, indeed, I had
@@ -483,8 +391,6 @@ baffled it; for though his words now led away from the dangerous point,
 his eyes, keen and watchful, seemed still preoccupied with the former
 
 idea.
-
-
 
 “You want to hear news from X----? And what interest can you have in
 
@@ -497,8 +403,6 @@ the men look as if I had spoken of Prester John; and the women sneer
 covertly. Our X---- belles must have disliked you. How did you excite
 
 their displeasure?”
-
-
 
 “I don’t know. I seldom spoke to them--they were nothing to me. I
 
@@ -513,8 +417,6 @@ countenances. When I caught snatches of what they said, I could never
 make much of it; and the play of their lips and eyes did not help me at
 
 all.”
-
-
 
 “That was your fault, not theirs. There are sensible, as [[Well|well]] as
 
@@ -536,11 +438,7 @@ you think, ever to communicate pleasure or excite interest? No; and if
 
 you are generally unpopular, it is because you deserve to be so.”
 
-
-
 “Content!” I ejaculated.
-
-
 
 “No, you are not content; you see [[Beauty|beauty]] always turning its back on
 
@@ -555,8 +453,6 @@ tantalize in you the lust of the eye; but they are out of reach: you
 have not the address to fetch a ladder, and you’ll go away calling them
 
 sour.”
-
-
 
 Cutting as these words might have been under some circumstances, they
 
@@ -622,8 +518,6 @@ the beginning of life yet; and since happily I was not quite without
 
 sense, every false step I made would be a good lesson.
 
-
-
 Just then I turned my face a little to the light; the approach of
 
 twilight, and my position in the [[Window|window]]-seat, had, for the last ten
@@ -631,8 +525,6 @@ twilight, and my position in the [[Window|window]]-seat, had, for the last ten
 minutes, prevented him from studying my countenance; as I moved,
 
 however, he caught an expression which he thus interpreted:--
-
-
 
 “Confound it! How doggedly [[Self|self]]-approving the lad looks! I thought he
 
@@ -643,8 +535,6 @@ to say, ‘Let the world wag as it will, I’ve the philosopher’s stone
 in my waist-coat pocket, and the elixir of life in my cupboard; I’m
 
 independent of both Fate and Fortune.’”
-
-
 
 “Hunsden--you spoke of grapes; I was thinking of a fruit I like better
 
@@ -660,11 +550,7 @@ use your offering me the draught of bitterness, or threatening me with
 
 exhausting.”
 
-
-
 “For how long?”
-
-
 
 “Till the next opportunity for effort; and as the prize of [[success]] will
 
@@ -672,23 +558,17 @@ be a treasure after my own heart, I’ll bring a bull’s strength to the
 
 struggle.”
 
-
-
 “Bad luck crushes bulls as easily as bullaces; and, I believe, the fury
 
 [[dogs]] you: you were born with a wooden spoon in your mouth, depend on
 
 it.”
 
-
-
 “I believe you; and I mean to make my wooden spoon do the work of some
 
 people’s silver ladles: grasped firmly, and handled nimbly, even a
 
 wooden spoon will shovel up broth.”
-
-
 
 Hunsden [[Rose|rose]]: “I see,” said he; “I suppose you’re one of those who
 
@@ -698,23 +578,13 @@ I’ll go.” And, without another word, he was going; at the door he
 
 turned:--
 
-
-
 “Crimsworth Hall is sold,” said he.
-
-
 
 “Sold!” was my echo.
 
-
-
 “Yes; you know, of course, that your brother failed three months ago?”
 
-
-
 “What! [[Edward Crimsworth]]?”
-
-
 
 “Precisely; and his wife went [[Home|home]] to her father’s; when affairs went
 
@@ -722,11 +592,7 @@ awry, his temper sympathized with them; he used her ill; I told you he
 
 would be a [[Tyrant|tyrant]] to her some day; as to him--”
 
-
-
 “Ay, as to him--what is become of him?”
-
-
 
 “Nothing extraordinary--don’t be alarmed; he put himself under the
 
@@ -736,41 +602,25 @@ the pound; in six weeks set up again, coaxed back his wife, and is
 
 flourishing like a green bay-tree.”
 
-
-
 “And Crimsworth Hall--was the furniture sold too?”
-
-
 
 “Everything--from the grand piano down to the [[rolling]]-pin.”
 
-
-
 “And the contents of the oak dining-room--were they sold?”
-
-
 
 “Of course; why should the sofas and chairs of that room be held more
 
 sacred than those of any other?”
 
-
-
 “And the pictures?”
-
-
 
 “What pictures? Crimsworth had no special collection that I know of--he
 
 did not profess to be an amateur.”
 
-
-
 “There were two portraits, one on each side the mantelpiece; you cannot
 
 have forgotten them, Mr. Hunsden; you once noticed that of the lady--”
-
-
 
 “Oh, I know! the thin-faced gentlewoman with a shawl put on like
 
@@ -782,15 +632,11 @@ you said it represented your mother: you see what it is to be without a
 
 sou.”
 
-
-
 I did. “But surely,” I thought to myself, “I shall not always be so
 
 [[Poverty|poverty]]-stricken; I may one day buy it back yet.--Who purchased it? do
 
 you know?” I asked.
-
-
 
 “How is it likely? I never inquired who purchased anything; there spoke
 
@@ -806,8 +652,6 @@ and see you again; I [[Wonder|wonder]] whether you’ll be still out of place!�
 
 laughing, vanished.
 
-
-
 Some people, however indifferent they may become after a considerable
 
 space of absence, always contrive to leave a pleasant impression just
@@ -819,8 +663,6 @@ draught of Peruvian bark; it seemed a concentration of the specially
 harsh, stringent, bitter; whether, like bark, it invigorated, I scarcely
 
 knew.
-
-
 
 A ruffled mind makes a restless pillow; I slept little on the [[Night|night]]
 
@@ -852,17 +694,11 @@ had doubtless shoved it forward, but seeing no occupant of the room, had
 
 left it at the entrance.
 
-
-
 “That is none of mine,” thought I, approaching; “it must be meant for
 
 somebody else.” I stooped to examine the address:--
 
-
-
 “Wm. Crimsworth, Esq., No --, -- St., Brussels.”
-
-
 
 I was puzzled, but concluding that the best way to obtain information
 
@@ -920,8 +756,6 @@ the care of its natural keeper?” I took the note from its niche; thus it
 
 spoke:--
 
-
-
 “There is a sort of stupid pleasure in giving a [[Child|child]] sweets, a [[Fool|fool]] his
 
 [[Bells|bells]], a dog a bone. You are repaid by seeing the [[Child|child]] besmear his face
@@ -938,17 +772,11 @@ the result; I would have added five shillings more to my bid if the
 
 auctioneer could only have promised me that pleasure.
 
-
-
 “H. Y. H.
-
-
 
 “P.S.--You said last [[Night|night]] you positively declined adding another item
 
 to your account with me; don’t you think I’ve saved you that trouble?”
-
-
 
 I muffled the picture in its green baize covering, restored it to the
 
@@ -963,8 +791,6 @@ had come in at that moment, I should have said to him, “I owe you
 nothing, Hunsden--not a fraction of a farthing: you have paid yourself
 
 in taunts!”
-
-
 
 Too anxious to remain any longer quiescent, I had no sooner breakfasted,
 
@@ -996,8 +822,6 @@ I caught a glimpse of the ground, and at once I felt assured of its
 
 solidity; I knew where it was.
 
-
-
 M. Vandenhuten was rich, respected, and influential; I, poor, despised
 
 and powerless; so we stood to the world at large as members of the
@@ -1017,8 +841,6 @@ was benevolent, the Englishman susceptible; in short our characters
 dovetailed, but my mind having more [[Fire|fire]] and action than his,
 
 instinctively assumed and kept the predominance.
-
-
 
 This point settled, and my position [[Well|well]] ascertained, I addressed him
 
@@ -1045,8 +867,6 @@ benevolence of his truthful face was better than the intelligence of my
 own. Characters of my order experience a balm-like solace in the contact
 
 of such souls as animated the honest breast of Victor Vandenhuten.
-
-
 
 The next fortnight was a period of many alternations; my existence
 
@@ -1098,8 +918,6 @@ acquaintance--though God knows I had never met her before--and threw a
 
 prize into my lap.
 
-
-
 In the second week of October, 18--, I got the appointment of English
 
 professor to all the classes of ---- College, Brussels, with a salary
@@ -1116,8 +934,6 @@ of M. Vandenhuten, negociant, which had turned the scale of choice in my
 
 favour.
 
-
-
 No sooner had I read the announcement than I hurried to M. Vandenhuten’s
 
 bureau, pushed the document under his nose, and when he had perused
@@ -1132,11 +948,7 @@ done nothing meriting such thanks. He had not laid out a centime--only
 
 scratched a few words on a sheet of paper.
 
-
-
 Again I repeated to him--
-
-
 
 “You have made me quite happy, and in a way that suits me; I do not
 
@@ -1147,8 +959,6 @@ disposed to shun you because you have done me a favour; from this day
 you must consent to admit me to your intimate acquaintance, for I shall
 
 hereafter recur again and again to the pleasure of your society.”
-
-
 
 “Ainsi soit-il,” was the reply, accompanied by a smile of benignant
 

@@ -117,10 +117,3 @@ The client bit his nails, and pondered again.
 
 ‘And I am not even personally safe in England?  You hold to that, do
 you?’
-
-‘In no part of the United Kingdom of Great Britain and Ireland,’ replied
-Mr. Snitchey.
-
-‘A mere prodigal son with no father to go back to, no swine to keep, and
-no husks to share with them?  Eh?’ pursued the client, rocking one leg
-over the other, and searching the ground with his eyes.

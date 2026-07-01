@@ -14,6 +14,140 @@ tags:
 </nav>
 
 
+      opportunity, when I thought the audience were fully engaged with
+
+      the opera, I at length caught the eyes of Madame Lalande, and,
+
+      upon the instant, made a slight but unmistakable bow.
+
+
+
+      She blushed very deeply—then averted her eyes—then slowly and
+
+      cautiously looked around, apparently to see if my rash action had
+
+      been noticed—then leaned over toward the gentleman who sat by her
+
+      side.
+
+
+
+      I now felt a burning sense of the impropriety I had committed,
+
+      and expected nothing less than instant exposure; while a vision
+
+      of pistols upon the morrow floated rapidly and uncomfortably
+
+      through my brain. I was greatly and immediately relieved,
+
+      however, when I saw the lady merely hand the gentleman a
+
+      play-bill, without speaking; but the reader may form some feeble
+
+      conception of my astonishment—of my profound amazement—my
+
+      delirious bewilderment of heart and [[Soul|soul]]—when, instantly
+
+      afterward, having again glanced furtively around, she allowed her
+
+      bright eyes to set fully and steadily upon my own, and then, with
+
+      a faint smile, disclosing a bright line of her pearly teeth, made
+
+      two distinct, pointed, and unequivocal affirmative inclinations
+
+      of the head.
+
+
+
+      It is useless, of course, to dwell upon my joy—upon my
+
+      transport—upon my illimitable ecstasy of heart. If ever man was
+
+      mad with excess of happiness, it was myself at that moment. I
+
+      loved. This was my first [[Love|love]]—so I felt it to be. It was [[Love|love]]
+
+      supreme—indescribable. It was “[[Love|love]] at first sight;” and at first
+
+      sight, too, it had been appreciated and returned.
+
+
+
+      Yes, returned. How and why should I [[Doubt|doubt]] it for an instant. What
+
+      other construction could I possibly put upon such conduct, on the
+
+      part of a lady so beautiful—so wealthy—evidently so
+
+      accomplished—of so high breeding—of so lofty a position in
+
+      society—in every regard so entirely respectable as I felt assured
+
+      was Madame Lalande? Yes, she loved me—she returned the enthusiasm
+
+      of my [[Love|love]], with an enthusiasm as blind—as uncompromising—as
+
+      uncalculating—as abandoned—and as utterly unbounded as my own!
+
+      These delicious fancies and reflections, however, were now
+
+      interrupted by the falling of the drop-curtain. The audience
+
+      arose; and the usual tumult immediately supervened. Quitting
+
+      Talbot abruptly, I made every effort to force my way into closer
+
+      proximity with Madame Lalande. Having failed in this, on account
+
+      of the crowd, I at length gave up the chase, and bent my steps
+
+      homeward; consoling myself for my disappointment in not having
+
+      been able to touch even the hem of her robe, by the reflection
+
+      that I should be introduced by Talbot, in due form, upon the
+
+      morrow.
+
+
+
+      This morrow at last came, that is to say, a day finally dawned
+
+      upon a long and weary [[Night|night]] of impatience; and then the hours
+
+      until “one” were snail-paced, dreary, and innumerable. But even
+
+      Stamboul, it is said, shall have an end, and there came an end to
+
+      this long delay. The [[Clock|clock]] struck. As the last echo ceased, I
+
+      stepped into B——’s and inquired for Talbot.
+
+
+
+      “Out,” said the footman—Talbot’s own.
+
+
+
+      “Out!” I replied, staggering back half a dozen paces—“let me tell
+
+      you, my fine fellow, that this thing is thoroughly impossible and
+
+      impracticable; Mr. Talbot is not out. What do you mean?”
+
+
+
+      “Nothing, sir; only Mr. Talbot is not in, that’s all. He rode
+
+      over to S——, immediately after breakfast, and left word that he
+
+      would not be in town again for a week.”
+
+
+
+      I stood petrified with horror and rage. I endeavored to reply,
+
       but my tongue refused its office. At length I turned on my heel,
 
       livid with wrath, and inwardly consigning the whole tribe of the
@@ -91,147 +225,3 @@ tags:
       “_Still!_” said I, “and why shouldn’t she be? But compared with
 
       her friend she is as a rush-light to the [[Evening Star|evening star]]—a glow-worm
-
-      to Antares.”
-
-
-
-      “Ha! ha! ha!—why, Simpson, you have an astonishing tact at making
-
-      discoveries—original ones, I mean.” And here we separated, while
-
-      one of the trio began humming a gay _vaudeville_, of which I
-
-      caught only the lines—
-
-
-
-      Ninon, Ninon, Ninon à bas—
-
-      A bas Ninon De L’Enclos!
-
-
-
-      During this little scene, however, one thing had served greatly
-
-      to console me, although it fed the passion by which I was
-
-      consumed. As the carriage of Madame Lalande rolled by our group,
-
-      I had observed that she recognized me; and more than this, she
-
-      had blessed me, by the most seraphic of all imaginable smiles,
-
-      with no equivocal mark of the recognition.
-
-
-
-      As for an introduction, I was obliged to abandon all [[Hope|hope]] of it
-
-      until such [[Time|time]] as Talbot should think proper to return from the
-
-      country. In the meantime I perseveringly frequented every
-
-      reputable place of public amusement; and, at length, at the
-
-      theatre, where I first saw her, I had the supreme bliss of
-
-      meeting her, and of exchanging glances with her once again. This
-
-      did not occur, however, until the lapse of a fortnight. Every
-
-      day, in the interim, I had inquired for Talbot at his hotel, and
-
-      every day had been thrown into a spasm of wrath by the
-
-      everlasting “Not come [[Home|home]] yet” of his footman.
-
-
-
-      Upon the evening in question, therefore, I was in a condition
-
-      little short of [[Madness|madness]]. Madame Lalande, I had been told, was a
-
-      Parisian—had lately arrived from [[Paris]]—might she not suddenly
-
-      return?—return before Talbot came back—and might she not be thus
-
-      lost to me forever? The thought was too terrible to bear. Since
-
-      my future happiness was at issue, I resolved to act with a manly
-
-      decision. In a word, upon the breaking up of the play, I traced
-
-      the lady to her residence, noted the address, and the next
-
-      morning sent her a full and elaborate letter, in which I poured
-
-      out my whole heart.
-
-
-
-      I spoke boldly, freely—in a word, I spoke with passion. I
-
-      concealed nothing—nothing even of my weakness. I alluded to the
-
-      romantic circumstances of our first meeting—even to the glances
-
-      which had passed between us. I went so far as to say that I felt
-
-      assured of her [[Love|love]]; while I offered this assurance, and my own
-
-      intensity of devotion, as two excuses for my otherwise
-
-      unpardonable conduct. As a third, I spoke of my [[Fear|fear]] that she
-
-      might quit the [[City|city]] before I could have the opportunity of a
-
-      formal introduction. I concluded the most wildly enthusiastic
-
-      epistle ever penned, with a frank declaration of my worldly
-
-      circumstances—of my affluence—and with an offer of my heart and
-
-      of my hand.
-
-
-
-      In an agony of expectation I awaited the reply. After what seemed
-
-      the lapse of a century it came.
-
-
-
-      Yes, actually came. Romantic as all this may appear, I really
-
-      received a letter from Madame Lalande—the beautiful, the wealthy,
-
-      the idolized Madame Lalande. Her eyes—her magnificent eyes, had
-
-      not belied her noble heart. Like a true Frenchwoman as she was
-
-      she had obeyed the frank dictates of her reason—the generous
-
-      impulses of her [[Nature|nature]]—despising the conventional pruderies of
-
-      the world. She had not scorned my proposals. She had not
-
-      sheltered herself in [[Silence|silence]]. She had not returned my letter
-
-      unopened. She had even sent me, in reply, one penned by her own
-
-      exquisite fingers. It ran thus:
-
-
-
-      “Monsieur Simpson vill pardonne me for not compose de butefulle
-
-      tong of his contrée so vell as might. It is only de late dat I am
-
-      arrive, and not yet ave do opportunité for to—l’étudier.
-
-
-
-      “Vid dis apologie for the manière, I vill now say dat,
-
-      hélas!—Monsieur Simpson ave guess but de too true. Need I say de

@@ -10,9 +10,45 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/poet-and-lunatics-(chesterton)">Poet and Lunatics</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/poet_and_lunatics/story_05_the_finger_of_stone/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/poet_and_lunatics/story_06_the_house_of_the_peacock/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/poet_and_lunatics/story_05_the_finger_of_stone/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/poet_and_lunatics/story_06_the_house_house_of_the_peacock/part_01">part 01 ›</a></div>
 </nav>
 
+
+He made a gesture with his hand, and went on, with something
+more like excitement:
+
+"M. Bertrand is right in saying that [[Truth|truth]] is not in a [[Well|well]], but on
+a tower.  It is on a pedestal.  You have looked at it every day.
+There is the [[Body|body]] of Boyg!"
+
+And he pointed to the statue in the middle of the market-place,
+wreathed with laurel and defaced with stones, as it had stood so long
+in that quiet square, and looked down at so many casual passers-by.
+
+"Somebody suggested just now," he went on, glancing over a sea
+of gaping faces, "that I carried the statue in my waistcoat pocket.
+[[Well]], I don't carry all of it, of course, but this is a part of it,"
+and he took out a small object like a stick of grey [[chalk]]; "this is
+a finger of it knocked off by a stone.  I picked it up by the pedestal.
+If anybody who understands these things likes to look at it, he will
+agree that the consistency is precisely the same as the admitted
+fossils in the geological museum."
+
+He held it out to them, but the whole mob stood still as if it
+also was a mob of men turned to stone.
+
+"Perhaps you think I'm mad," he said pleasantly.  "[[Well]], I'm not
+exactly mad, but I have an odd sort of sympathy with madmen.
+I can manage them better than most people can, because I can fancy
+somehow the wild way their minds will work.  I understand the man
+who did this.  I know he did, because I talked to him for half
+the morning; and it's exactly the sort of thing he would do.
+And when first I heard talk of fossil shells and petrified
+[[Insects|insects]] and so on, I did the same thing that such men always do.
+I exaggerated it into a sort of extravagant vision, a vision of
+fossil forests, and fossil cattle, and fossil elephants and camels;
+and so, naturally, to another thought:  a coincidence that somehow
+turned me cold.  A Fossil Man.
 
 "It was then that I looked up at the statue; and knew it was not
 a statue.  It was a corpse petrified by the curious chemistry of your
@@ -120,6 +156,5 @@ heaven may look down with more [[Wonder|wonder]] at the man than at the [[Monste
 And we of all schools and of all philosophies can pass it like
 a funeral procession taking leave of an illustrious [[Grave|grave]] and,
 like soldiers, salute it as we pass."
-
 
 VI

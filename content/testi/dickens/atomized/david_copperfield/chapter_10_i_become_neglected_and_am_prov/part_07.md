@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 10: I BECOME NEGLECTED, AND AM PROVIDED FOR (part 7)"
+title: "David Copperfield — Chapter 10: I BECOME NEGLECTED, AND AM PROVIDED FOR (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"

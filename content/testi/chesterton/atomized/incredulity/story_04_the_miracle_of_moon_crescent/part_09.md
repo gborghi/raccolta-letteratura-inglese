@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity]] — The Miracle of [[Moon]] Crescent (part 9)"
+title: "Incredulity — The Miracle of Moon Crescent (part 9)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-(chesterton)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent/part_08">‹ part 08</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_05_the_curse_of_the_golden_cross/part_01">part 01 ›</a></div>
 </nav>
 
+
+They were all three staring at the plain, square [[Window|window]] and the blank,
+white wall beyond; and nobody answered.
 
 `By the way,' went on Father Brown, `don't think I blame you for jumping
 to preternatural conclusions.  The reason's very simple, really.

@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 28 (part 1)"
+title: "Northanger Abbey — Chapter 28 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/works/northanger-abbey-(austen)">Northanger Abbey</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_27/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_29/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_27/part_03">‹ part 03</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_29/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -207,9 +207,3 @@ listened for its continuance; but all was silent. Scarcely, however,
 had she convicted her fancy of error, when the noise of something
 
 moving close to her door made her start; it seemed as if someone was
-
-touching the very doorway—and in another moment a slight motion of the
-
-lock proved that some hand must be on it. She trembled a little at the
-
-idea of anyone’s approaching so cautiously; but resolving not to be

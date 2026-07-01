@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 55"
+title: "Nicholas Nickleby — Chapter 55"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -252,7 +252,7 @@ At other times, when Nicholas was not there to overhear, and Kate was
 upstairs busily tending her sick friend, the worthy lady would throw out
 dark hints of an intention to send her daughter to France for three or
 four years, or to Scotland for the improvement of her health impaired by
-her late fatigues, or to [[America]] on a visit, or anywhere that threatened
+her late fatigues, or to [[america|America]] on a visit, or anywhere that threatened
 a long and tedious separation. Nay, she even went so far as to hint,
 obscurely, at an attachment entertained for her daughter by the son of
 an old neighbour of theirs, one [[Horatio]] Peltirogus (a young gentleman
@@ -529,4 +529,4 @@ fervently together.
 
 ‘In heaven. I humbly pray to God in heaven.’
 
-It sounded like the [[Prayer|prayer]] of a broken heart.
+It sounded like the [[prayer]] of a broken heart.

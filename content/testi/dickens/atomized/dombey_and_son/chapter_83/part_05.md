@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 27 (part 5)"
+title: "Dombey and Son — Chapter 55 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -10,130 +10,78 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/dombey-and-son-(dickens)">Dombey and Son</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_83/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_83/part_06">part 06 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_83/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_84/part_01">part 01 ›</a></div>
 </nav>
 
 
-Warwick [[Castle]] being at length pretty [[Well|well]] exhausted, and the Major
-very much so: to say nothing of Mrs Skewton, whose peculiar
-demonstrations of delight had become very frequent Indeed: the carriage
-was again put in requisition, and they rode to several admired points
-of view in the neighbourhood. Mr Dombey ceremoniously observed of one
-of these, that a [[Sketch|sketch]], however slight, from the fair hand of Mrs
-Granger, would be a remembrance to him of that agreeable day: though he
-wanted no artificial remembrance, he was sure (here Mr Dombey made
-another of his bows), which he must always highly value. Withers the
-lean having Edith’s [[Sketch|sketch]]-book under his arm, was immediately called
-upon by Mrs Skewton to produce the same: and the carriage stopped, that
-Edith might make the drawing, which Mr Dombey was to put away among his
-treasures.
+“At what [[Time|time]],” he asked the man who had waited on him over-[[Night|night]], now
+entering with a candle, “do I leave here, did you say?”
 
-“But I am afraid I trouble you too much,” said Mr Dombey.
+“About a quarter after four, Sir. Express comes through at four,
+Sir.—It don’t stop.”
 
-“By no means. Where would you wish it taken from?” she answered,
-turning to him with the same enforced attention as before.
+He passed his hand across his throbbing head, and looked at his watch.
+Nearly half-past three.
 
-Mr Dombey, with another bow, which cracked the starch in his cravat,
-would beg to leave that to the [[Artist]].
+“Nobody going with you, Sir, probably,” observed the man. “Two
+gentlemen here, Sir, but they’re waiting for the train to [[London]].”
 
-“I would rather you chose for yourself,” said Edith.
+“I thought you said there was nobody here,” said Carker, turning upon
+him with the [[Ghost|ghost]] of his old smile, when he was angry or suspicious.
 
-“Suppose then,” said Mr Dombey, “we say from here. It appears a good
-spot for the purpose, or—Carker, what do you think?”
+“Not then, sir. Two gentlemen came in the [[Night|night]] by the short train that
+stops here, Sir. Warm [[Water|water]], Sir?”
 
-There happened to be in the foreground, at some little distance, a
-grove of trees, not unlike that in which Mr Carker had made his chain
-of footsteps in the morning, and with a seat under one tree, greatly
-resembling, in the general character of its situation, the point where
-his chain had broken.
+“No; and take away the candle. There’s day enough for me.”
 
-“Might I venture to suggest to Mrs Granger,” said Carker, “that that is
-an interesting—almost a curious—point of view?”
+Having thrown himself upon the bed, half-dressed he was at the [[Window|window]]
+as the man left the room. The cold light of morning had succeeded to
+[[Night|night]] and there was already, in the sky, the red suffusion of the
+coming sun. He bathed his head and face with [[Water|water]]—there was no cooling
+influence in it for him—hurriedly put on his clothes, paid what he
+owed, and went out.
 
-She followed the direction of his riding-whip with her eyes, and raised
-them quickly to his face. It was the second glance they had exchanged
-since their introduction; and would have been exactly like the first,
-but that its expression was plainer.
+The air struck chill and comfortless as it breathed upon him. There was
+a heavy dew; and, hot as he was, it made him shiver. After a glance at
+the place where he had walked last [[Night|night]], and at the signal-lights
+burning in the morning, and bereft of their significance, he turned to
+where the sun was rising, and beheld it, in its glory, as it broke upon
+the scene.
 
-“Will you like that?” said Edith to Mr Dombey.
+So awful, so transcendent in its [[Beauty|beauty]], so divinely solemn. As he cast
+his faded eyes upon it, where it [[Rose|rose]], tranquil and serene, unmoved by
+all the wrong and wickedness on which its beams had shone since the
+beginning of the world, who shall say that some weak sense of virtue
+upon Earth, and its in Heaven, did not manifest itself, even to him? If
+ever he remembered sister or brother with a touch of tenderness and
+remorse, who shall say it was not then?
 
-“I shall be charmed,” said Mr Dombey to Edith.
+He needed some such touch then. [[Death]] was on him. He was marked off—the
+living world, and going down into his [[Grave|grave]].
 
-Therefore the carriage was driven to the spot where Mr Dombey was to be
-charmed; and Edith, without moving from her seat, and opening her
-[[Sketch|sketch]]-book with her usual proud indifference, began to [[Sketch|sketch]].
+He paid the money for his [[Journey|journey]] to the country-place he had thought
+of; and was walking to and fro, [[Alone|alone]], looking along the lines of iron,
+across the valley in one direction, and towards a dark bridge near at
+hand in the other; when, turning in his walk, where it was bounded by
+one end of the wooden stage on which he paced up and down, he saw the
+man from whom he had fled, emerging from the door by which he himself
+had entered. And their eyes met.
 
-“My pencils are all pointless,” she said, stopping and turning them
-over.
+In the quick unsteadiness of the surprise, he staggered, and slipped on
+to the [[Road|road]] below him. But recovering his feet immediately, he stepped
+back a pace or two upon that [[Road|road]], to interpose some wider space
+between them, and looked at his pursuer, breathing short and quick.
 
-“Pray allow me,” said Mr Dombey. “Or Carker will do it better, as he
-understands these things. Carker, have the goodness to see to these
-pencils for Mrs Granger.”
+He heard a shout—another—saw the face change from its vindictive
+passion to a faint sickness and terror—felt the earth tremble—knew in a
+moment that the rush was come—uttered a shriek—looked round—saw the red
+eyes, bleared and dim, in the daylight, close upon him—was beaten down,
+caught up, and whirled away upon a jagged mill, that spun him round and
+round, and struck him limb from limb, and licked his stream of life up
+with its fiery heat, and cast his mutilated fragments in the air.
 
-Mr Carker rode up close to the carriage-door on Mrs Granger’s side, and
-letting the rein fall on his [[Horse|horse]]’s neck, took the pencils from her
-hand with a smile and a bow, and sat in the saddle leisurely [[mending]]
-them. Having done so, he begged to be allowed to hold them, and to hand
-them to her as they were required; and thus Mr Carker, with many
-commendations of Mrs Granger’s extraordinary skill—especially in
-trees—remained—close at her side, looking over the drawing as she made
-it. Mr Dombey in the meantime stood bolt upright in the carriage like a
-highly respectable [[Ghost|ghost]], looking on too; while [[Cleopatra]] and the Major
-dallied as two ancient doves might do.
-
-“Are you satisfied with that, or shall I finish it a little more?” said
-Edith, showing the [[Sketch|sketch]] to Mr Dombey.
-
-Mr Dombey begged that it might not be touched; it was perfection.
-
-“It is most extraordinary,” said Carker, bringing every one of his red
-gums to bear upon his praise. “I was not prepared for anything so
-beautiful, and so unusual altogether.”
-
-This might have applied to the sketcher no less than to the [[Sketch|sketch]]; but
-Mr Carker’s manner was openness itself—not as to his mouth [[Alone|alone]], but
-as to his whole spirit. So it continued to be while the drawing was
-laid aside for Mr Dombey, and while the sketching materials were put
-up; then he handed in the pencils (which were received with a distant
-acknowledgment of his help, but without a look), and tightening his
-rein, fell back, and followed the carriage again.
-
-Thinking, perhaps, as he rode, that even this trivial [[Sketch|sketch]] had been
-made and delivered to its owner, as if it had been bargained for and
-bought. Thinking, perhaps, that although she had assented with such
-perfect readiness to his request, her haughty face, bent over the
-drawing, or glancing at the distant objects represented in it, had been
-the face of a proud woman, engaged in a sordid and miserable
-transaction. Thinking, perhaps, of such things: but smiling certainly,
-and while he seemed to look about him freely, in enjoyment of the air
-and exercise, keeping always that sharp corner of his eye upon the
-carriage.
-
-A stroll among the haunted ruins of Kenilworth, and more rides to more
-points of view: most of which, Mrs Skewton reminded Mr Dombey, Edith
-had already sketched, as he had seen in looking over her drawings:
-brought the day’s expedition to a close. Mrs Skewton and Edith were
-driven to their own lodgings; Mr Carker was graciously invited by
-[[Cleopatra]] to return thither with Mr Dombey and the Major, in the
-evening, to hear some of Edith’s music; and the three gentlemen
-repaired to their hotel to dinner.
-
-The dinner was the counterpart of yesterday’s, except that the Major
-was twenty-four hours more triumphant and less mysterious. Edith was
-toasted again. Mr Dombey was again agreeably embarrassed. And Mr Carker
-was full of interest and praise.
-
-There were no other visitors at Mrs Skewton’s. Edith’s drawings were
-strewn about the room, a little more abundantly than usual perhaps; and
-Withers, the wan page, handed round a little stronger tea. The harp was
-there; the piano was there; and Edith sang and played. But even the
-music was played by Edith to Mr Dombey’s order, as it were, in the same
-uncompromising way. As thus.
-
-“Edith, my dearest [[Love|love]],” said Mrs Skewton, half an hour after tea, “Mr
-Dombey is dying to hear you, I know.”
-
-“Mr Dombey has life enough left to say so for himself, Mama, I have no
-[[Doubt|doubt]].”
-
-“I shall be immensely obliged,” said Mr Dombey.
+When the traveller, who had been recognised, recovered from a swoon, he
+saw them bringing from a distance something covered, that lay heavy and
+still, upon a board, between four men, and saw that others drove some
+[[dogs]] away that sniffed upon the [[Road|road]], and soaked his [[Blood|blood]] up, with a
+train of ashes.

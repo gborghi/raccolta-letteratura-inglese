@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 44"
+title: "Nicholas Nickleby — Chapter 44"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -277,7 +277,7 @@ another thing.’
 the change that you must see in me after so long an absence--must see,
 for I, upon whom it has come by slow and hard degrees, see it and know
 it [[Well|well]]--will not move you to pity, let the knowledge that bread; not
-the daily bread of the Lord’s [[Prayer]], which, as it is offered up in
+the daily bread of the Lord’s [[prayer|Prayer]], which, as it is offered up in
 cities like this, is understood to include half the luxuries of the
 world for the rich, and just as much coarse food as will support life
 for the poor--not that, but bread, a crust of dry hard bread, is beyond

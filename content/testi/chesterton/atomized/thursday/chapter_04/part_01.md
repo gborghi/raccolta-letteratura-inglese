@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 4 (part 1)"
+title: "thursday — Chapter 4 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -17,7 +17,6 @@ tags:
                          CHAPTER IV
 
                    THE TALE OF A [[Detective|DETECTIVE]]
-
 
 [[Gabriel Syme|GABRIEL SYME]] was not merely a [[Detective|detective]] who pretended to be
 a poet; he was really a poet who had become a [[Detective|detective]].
@@ -135,10 +134,3 @@ outbreaks of the human will.  I trust I make myself clear."
 But as for making yourself clear, it is the last thing you do.
 How comes a man like you to be talking [[philosophy]] in a blue helmet
 on the Thames embankment?"
-
-"You have evidently not heard of the latest development in our
-police system," replied the other.  "I am not surprised at it.
-We are keeping it rather dark from the educated class,
-because that class contains most of our enemies.
-But you seem to be exactly in the right frame of mind.
-I think you might almost join us."

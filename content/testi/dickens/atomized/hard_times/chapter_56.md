@@ -1,5 +1,5 @@
 ---
-title: "Hard Times — Chapter 1"
+title: "Hard Times — Chapter 3"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/hard-times-(dickens)"
@@ -14,551 +14,218 @@ tags:
 </nav>
 
 
-CHAPTER I
-EFFECTS IN THE BANK
-
-
-A SUNNY midsummer day.  There was such a thing sometimes, even in
-Coketown.
-
-Seen from a distance in such weather, Coketown lay shrouded in a haze of
-its own, which appeared impervious to the sun’s rays.  You only knew the
-town was there, because you knew there could have been no such sulky
-blotch upon the prospect without a town.  A blur of soot and smoke, now
-confusedly tending this way, now that way, now aspiring to the vault of
-Heaven, now murkily creeping along the earth, as the [[Wind|wind]] [[Rose|rose]] and fell,
-or changed its quarter: a dense formless jumble, with sheets of [[Cross|cross]]
-light in it, that showed nothing but masses of darkness:—Coketown in the
-distance was suggestive of itself, though not a brick of it could be
-seen.
-
-The [[Wonder|wonder]] was, it was there at all.  It had been ruined so often, that
-it was amazing how it had borne so many shocks.  Surely there never was
-such fragile china-ware as that of which the millers of Coketown were
-made.  Handle them never so lightly, and they fell to pieces with such
-ease that you might suspect them of having been flawed before.  They were
-ruined, when they were required to send labouring children to school;
-they were ruined when inspectors were appointed to look into their works;
-they were ruined, when such inspectors considered it doubtful whether
-they were quite justified in chopping people up with their machinery;
-they were utterly undone, when it was hinted that perhaps they need not
-always make quite so much smoke.  Besides Mr. Bounderby’s gold spoon
-which was generally received in Coketown, another prevalent fiction was
-very popular there.  It took the form of a threat.  Whenever a Coketowner
-felt he was ill-used—that is to say, whenever he was not left entirely
-[[Alone|alone]], and it was proposed to hold him accountable for the consequences
-of any of his acts—he was sure to come out with the awful menace, that he
-would ‘sooner pitch his property into the Atlantic.’  This had terrified
-the [[Home]] Secretary within an inch of his life, on several occasions.
-
-However, the Coketowners were so patriotic after all, that they never had
-pitched their property into the Atlantic yet, but, on the contrary, had
-been kind enough to take mighty good care of it.  So there it was, in the
-haze yonder; and it increased and multiplied.
-
-The streets were hot and dusty on the [[Summer|summer]] day, and the sun was so
-bright that it even shone through the heavy vapour drooping over
-Coketown, and could not be looked at steadily.  Stokers emerged from low
-underground doorways into factory yards, and sat on steps, and posts, and
-palings, wiping their swarthy visages, and contemplating coals.  The
-whole town seemed to be frying in oil.  There was a stifling smell of hot
-oil everywhere.  The steam-engines shone with it, the dresses of the
-Hands were soiled with it, the mills throughout their many stories oozed
-and trickled it.  The atmosphere of those Fairy palaces was like the
-breath of the simoom: and their inhabitants, wasting with heat, toiled
-languidly in the [[Desert|desert]].  But no temperature made the [[Melancholy|melancholy]] mad
-elephants more mad or more sane.  Their wearisome heads went up and down
-at the same rate, in hot weather and cold, wet weather and dry, fair
-weather and foul.  The measured motion of their shadows on the walls, was
-the substitute Coketown had to show for the shadows of rustling woods;
-while, for the [[Summer|summer]] hum of [[Insects|insects]], it could offer, all the year round,
-from the [[Dawn|dawn]] of Monday to the [[Night|night]] of Saturday, the whirr of shafts and
-wheels.
-
-Drowsily they whirred all through this sunny day, making the passenger
-more sleepy and more hot as he passed the humming walls of the mills.
-Sun-blinds, and sprinklings of [[Water|water]], a little cooled the main streets
-and the shops; but the mills, and the courts and alleys, baked at a
-fierce heat.  Down upon the [[River|river]] that was black and thick with dye, some
-Coketown boys who were at large—a rare sight there—rowed a crazy boat,
-which made a spumous track upon the [[Water|water]] as it jogged along, while every
-dip of an oar stirred up vile smells.  But the sun itself, however
-beneficent, generally, was less kind to Coketown than hard [[Frost|frost]], and
-rarely looked intently into any of its closer regions without engendering
-more [[Death|death]] than life.  So does the eye of Heaven itself become an evil
-eye, when incapable or sordid hands are interposed between it and the
-things it looks upon to bless.
-
-Mrs. Sparsit sat in her afternoon apartment at the Bank, on the shadier
-side of the frying street.  Office-hours were over: and at that period of
-the day, in warm weather, she usually embellished with her genteel
-presence, a managerial board-room over the public office.  Her own
-private sitting-room was a story higher, at the [[Window|window]] of which post of
-observation she was ready, every morning, to greet Mr. Bounderby, as he
-came across the [[Road|road]], with the sympathizing recognition appropriate to a
-Victim.  He had been married now a year; and Mrs. Sparsit had never
-released him from her determined pity a moment.
-
-The Bank offered no violence to the wholesome monotony of the town.  It
-was another red brick [[house]], with black outside shutters, green inside
-blinds, a black street-door up two white steps, a brazen door-plate, and
-a brazen door-handle full stop.  It was a size larger than Mr.
-Bounderby’s [[house]], as other houses were from a size to half-a-dozen sizes
-smaller; in all other particulars, it was strictly according to pattern.
-
-Mrs. Sparsit was conscious that by coming in the evening-tide among the
-desks and writing implements, she shed a feminine, not to say also
-aristocratic, grace upon the office.  Seated, with her needlework or
-netting apparatus, at the [[Window|window]], she had a [[Self|self]]-laudatory sense of
-correcting, by her ladylike deportment, the rude business aspect of the
-place.  With this impression of her interesting character upon her, Mrs.
-Sparsit considered herself, in some sort, the Bank Fairy.  The
-townspeople who, in their passing and repassing, saw her there, regarded
-her as the Bank Dragon keeping watch over the treasures of the mine.
-
-What those treasures were, Mrs. Sparsit knew as little as they did.  Gold
-and silver coin, precious paper, [[Secrets|secrets]] that if divulged would bring
-vague destruction upon vague persons (generally, however, people whom she
-disliked), were the chief items in her ideal catalogue thereof.  For the
-rest, she knew that after office-hours, she reigned supreme over all the
-office furniture, and over a locked-up iron room with three locks,
-against the door of which strong chamber the light porter laid his head
-every [[Night|night]], on a truckle bed, that disappeared at cockcrow.  Further,
-she was lady paramount over certain vaults in the basement, sharply
-spiked off from communication with the predatory world; and over the
-relics of the current day’s work, consisting of blots of ink, worn-out
-pens, fragments of wafers, and scraps of paper torn so small, that
-nothing interesting could ever be deciphered on them when Mrs. Sparsit
-tried.  Lastly, she was guardian over a little armoury of cutlasses and
-carbines, arrayed in vengeful order above one of the official
-chimney-pieces; and over that respectable tradition never to be separated
-from a place of business claiming to be wealthy—a row of
-[[Fire|fire]]-buckets—vessels calculated to be of no physical utility on any
-occasion, but observed to exercise a fine moral influence, almost equal
-to bullion, on most beholders.
-
-A deaf serving-woman and the light porter completed Mrs. Sparsit’s
-empire.  The deaf serving-woman was rumoured to be wealthy; and a saying
-had for years gone about among the lower orders of Coketown, that she
-would be murdered some [[Night|night]] when the Bank was shut, for the sake of her
-money.  It was generally considered, indeed, that she had been due some
-[[Time|time]], and ought to have fallen long ago; but she had kept her life, and
-her situation, with an ill-conditioned tenacity that occasioned much
-offence and disappointment.
-
-Mrs. Sparsit’s tea was just set for her on a pert little table, with its
-tripod of legs in an attitude, which she insinuated after office-hours,
-into the company of the stern, leathern-topped, long board-table that
-bestrode the middle of the room.  The light porter placed the tea-tray on
-it, knuckling his forehead as a form of homage.
-
-‘Thank you, Bitzer,’ said Mrs. Sparsit.
-
-‘Thank _you_, ma’am,’ returned the light porter.  He was a very light
-porter indeed; as light as in the days when he blinkingly defined a
-[[Horse|horse]], for girl number twenty.
-
-‘All is shut up, Bitzer?’ said Mrs. Sparsit.
-
-‘All is shut up, ma’am.’
-
-‘And what,’ said Mrs. Sparsit, pouring out her tea, ‘is the news of the
-day?  Anything?’
-
-‘[[Well]], ma’am, I can’t say that I have heard anything particular.  Our
-people are a bad lot, ma’am; but that is no news, unfortunately.’
-
-‘What are the restless wretches doing now?’ asked Mrs. Sparsit.
-
-‘Merely going on in the old way, ma’am.  Uniting, and leaguing, and
-engaging to stand by one another.’
-
-‘It is much to be regretted,’ said Mrs. Sparsit, making her nose more
-Roman and her eyebrows more Coriolanian in the strength of her severity,
-‘that the united masters allow of any such class-combinations.’
-
-‘Yes, ma’am,’ said Bitzer.
-
-‘Being united themselves, they ought one and all to set their faces
-against employing any man who is united with any other man,’ said Mrs.
-Sparsit.
-
-‘They have done that, ma’am,’ returned Bitzer; ‘but it rather fell
-through, ma’am.’
-
-‘I do not pretend to understand these things,’ said Mrs. Sparsit, with
-dignity, ‘my lot having been signally cast in a widely different sphere;
-and Mr. Sparsit, as a Powler, being also quite out of the pale of any
-such dissensions.  I only know that these people must be conquered, and
-that it’s high [[Time|time]] it was done, once for all.’
-
-‘Yes, ma’am,’ returned Bitzer, with a demonstration of great respect for
-Mrs. Sparsit’s oracular authority.  ‘You couldn’t put it clearer, I am
-sure, ma’am.’
-
-As this was his usual hour for having a little confidential chat with
-Mrs. Sparsit, and as he had already caught her eye and seen that she was
-going to ask him something, he made a pretence of arranging the rulers,
-inkstands, and so forth, while that lady went on with her tea, glancing
-through the open [[Window|window]], down into the street.
-
-‘Has it been a busy day, Bitzer?’ asked Mrs. Sparsit.
-
-‘Not a very busy day, my lady.  About an average day.’  He now and then
-slided into my lady, instead of ma’am, as an involuntary acknowledgment
-of Mrs. Sparsit’s personal dignity and claims to reverence.
-
-‘The clerks,’ said Mrs. Sparsit, carefully brushing an imperceptible
-crumb of bread and butter from her left-hand mitten, ‘are trustworthy,
-punctual, and industrious, of course?’
-
-‘Yes, ma’am, pretty fair, ma’am.  With the usual exception.’
-
-He held the respectable office of general spy and informer in the
-establishment, for which volunteer service he received a present at
-Christmas, over and above his weekly wage.  He had grown into an
-extremely clear-headed, cautious, prudent young man, who was safe to rise
-in the world.  His mind was so exactly regulated, that he had no
-affections or passions.  All his proceedings were the result of the
-nicest and coldest calculation; and it was not without cause that Mrs.
-Sparsit habitually observed of him, that he was a young man of the
-steadiest principle she had ever known.  Having satisfied himself, on his
-father’s [[Death|death]], that his mother had a right of settlement in Coketown,
-this excellent young economist had asserted that right for her with such
-a steadfast adherence to the principle of the case, that she had been
-shut up in the workhouse ever since.  It must be admitted that he allowed
-her half a pound of tea a year, which was weak in him: first, because all
-gifts have an inevitable tendency to pauperise the recipient, and
-secondly, because his only reasonable transaction in that commodity would
-have been to buy it for as little as he could possibly give, and sell it
-for as much as he could possibly get; it having been clearly ascertained
-by philosophers that in this is comprised the whole duty of man—not a
-part of man’s duty, but the whole.
-
-‘Pretty fair, ma’am.  With the usual exception, ma’am,’ repeated Bitzer.
-
-‘Ah—h!’ said Mrs. Sparsit, shaking her head over her tea-cup, and taking
-a long gulp.
-
-‘Mr. Thomas, ma’am, I [[Doubt|doubt]] Mr. Thomas very much, ma’am, I don’t like his
-ways at all.’
-
-‘Bitzer,’ said Mrs. Sparsit, in a very impressive manner, ‘do you
-recollect my having said anything to you respecting names?’
-
-‘I beg your pardon, ma’am.  It’s quite true that you did object to names
-being used, and they’re always best avoided.’
-
-‘Please to remember that I have a charge here,’ said Mrs. Sparsit, with
-her air of state.  ‘I hold a trust here, Bitzer, under Mr. Bounderby.
-However improbable both Mr. Bounderby and myself might have deemed it
-years ago, that he would ever become my patron, making me an annual
-compliment, I cannot but regard him in that light.  From Mr. Bounderby I
-have received every acknowledgment of my social station, and every
-recognition of my family descent, that I could possibly expect.  More,
-far more.  Therefore, to my patron I will be scrupulously true.  And I do
-not consider, I will not consider, I cannot consider,’ said Mrs. Sparsit,
-with a most extensive stock on hand of [[Honour|honour]] and [[morality]], ‘that I
-_should_ be scrupulously true, if I allowed names to be mentioned under
-this roof, that are unfortunately—most unfortunately—no [[Doubt|doubt]] of
-that—connected with his.’
-
-Bitzer knuckled his forehead again, and again begged pardon.
-
-‘No, Bitzer,’ continued Mrs. Sparsit, ‘say an individual, and I will hear
-you; say Mr. Thomas, and you must excuse me.’
-
-‘With the usual exception, ma’am,’ said Bitzer, trying back, ‘of an
-individual.’
-
-‘Ah—h!’  Mrs. Sparsit repeated the ejaculation, the shake of the head
-over her tea-cup, and the long gulp, as taking up the conversation again
-at the point where it had been interrupted.
-
-‘An individual, ma’am,’ said Bitzer, ‘has never been what he ought to
-have been, since he first came into the place.  He is a dissipated,
-extravagant idler.  He is not worth his salt, ma’am.  He wouldn’t get it
-either, if he hadn’t a friend and relation at [[Court|court]], ma’am!’
-
-‘Ah—h!’ said Mrs. Sparsit, with another [[Melancholy|melancholy]] shake of her head.
-
-‘I only [[Hope|hope]], ma’am,’ pursued Bitzer, ‘that his friend and relation may
-not supply him with the means of carrying on.  Otherwise, ma’am, we know
-out of whose pocket _that_ money comes.’
-
-‘Ah—h!’ sighed Mrs. Sparsit again, with another [[Melancholy|melancholy]] shake of her
-head.
-
-‘He is to be pitied, ma’am.  The last party I have alluded to, is to be
-pitied, ma’am,’ said Bitzer.
-
-‘Yes, Bitzer,’ said Mrs. Sparsit.  ‘I have always pitied the delusion,
-always.’
-
-‘As to an individual, ma’am,’ said Bitzer, dropping his voice and drawing
-nearer, ‘he is as improvident as any of the people in this town.  And you
-know what _their_ improvidence is, ma’am.  No one could wish to know it
-better than a lady of your eminence does.’
-
-‘They would do [[Well|well]],’ returned Mrs. Sparsit, ‘to take example by you,
-Bitzer.’
-
-‘Thank you, ma’am.  But, since you do refer to me, now look at me, ma’am.
-I have put by a little, ma’am, already.  That gratuity which I receive at
-Christmas, ma’am: I never touch it.  I don’t even go the length of my
-wages, though they’re not high, ma’am.  Why can’t they do as I have done,
-ma’am?  What one person can do, another can do.’
-
-This, again, was among the fictions of Coketown.  Any capitalist there,
-who had made sixty thousand pounds out of sixpence, always professed to
-[[Wonder|wonder]] why the sixty thousand nearest Hands didn’t each make sixty
-thousand pounds out of sixpence, and more or less reproached them every
-one for not accomplishing the little feat.  What I did you can do.  Why
-don’t you go and do it?
-
-‘As to their wanting recreations, ma’am,’ said Bitzer, ‘it’s stuff and
-nonsense.  _I_ don’t want recreations.  I never did, and I never shall; I
-don’t like ’em.  As to their combining together; there are many of them,
-I have no [[Doubt|doubt]], that by watching and informing upon one another could
-earn a trifle now and then, whether in money or good will, and improve
-their livelihood.  Then, why don’t they improve it, ma’am!  It’s the
-first consideration of a rational creature, and it’s what they pretend to
-want.’
-
-‘Pretend indeed!’ said Mrs. Sparsit.
-
-‘I am sure we are constantly hearing, ma’am, till it becomes quite
-nauseous, concerning their wives and families,’ said Bitzer.  ‘Why look
-at me, ma’am!  I don’t want a wife and family.  Why should they?’
-
-‘Because they are improvident,’ said Mrs. Sparsit.
-
-‘Yes, ma’am,’ returned Bitzer, ‘that’s where it is.  If they were more
-provident and less perverse, ma’am, what would they do?  They would say,
-“While my hat covers my family,” or “while my bonnet covers my
-family,”—as the case might be, ma’am—“I have only one to feed, and that’s
-the person I most like to feed.”’
-
-‘To be sure,’ assented Mrs. Sparsit, eating muffin.
-
-‘Thank you, ma’am,’ said Bitzer, knuckling his forehead again, in return
-for the favour of Mrs. Sparsit’s improving conversation.  ‘Would you wish
-a little more hot [[Water|water]], ma’am, or is there anything else that I could
-fetch you?’
-
-‘Nothing just now, Bitzer.’
-
-‘Thank you, ma’am.  I shouldn’t wish to disturb you at your meals, ma’am,
-particularly tea, knowing your partiality for it,’ said Bitzer, craning a
-little to look over into the street from where he stood; ‘but there’s a
-gentleman been looking up here for a minute or so, ma’am, and he has come
-across as if he was going to knock.  That _is_ his knock, ma’am, no
-[[Doubt|doubt]].’
-
-He stepped to the [[Window|window]]; and looking out, and drawing in his head again,
-confirmed himself with, ‘Yes, ma’am.  Would you wish the gentleman to be
-shown in, ma’am?’
-
-‘I don’t know who it can be,’ said Mrs. Sparsit, wiping her mouth and
-arranging her mittens.
-
-‘A stranger, ma’am, evidently.’
-
-‘What a stranger can want at the Bank at this [[Time|time]] of the evening, unless
-he comes upon some business for which he is too late, I don’t know,’ said
-Mrs. Sparsit, ‘but I hold a charge in this establishment from Mr.
-Bounderby, and I will never shrink from it.  If to see him is any part of
-the duty I have accepted, I will see him.  Use your own discretion,
-Bitzer.’
-
-Here the visitor, all unconscious of Mrs. Sparsit’s magnanimous words,
-repeated his knock so loudly that the light porter hastened down to open
-the door; while Mrs. Sparsit took the precaution of concealing her little
-table, with all its appliances upon it, in a cupboard, and then decamped
-up-stairs, that she might appear, if needful, with the greater dignity.
-
-‘If you please, ma’am, the gentleman would wish to see you,’ said Bitzer,
-with his light eye at Mrs. Sparsit’s keyhole.  So, Mrs. Sparsit, who had
-improved the interval by touching up her cap, took her classical features
-down-stairs again, and entered the board-room in the manner of a Roman
-matron going outside the [[City|city]] walls to treat with an invading general.
-
-The visitor having strolled to the [[Window|window]], and being then engaged in
-looking carelessly out, was as unmoved by this impressive entry as man
-could possibly be.  He stood whistling to himself with all imaginable
-coolness, with his hat still on, and a certain air of exhaustion upon
-him, in part arising from excessive [[Summer|summer]], and in part from excessive
-gentility.  For it was to be seen with half an eye that he was a thorough
-gentleman, made to the model of the [[Time|time]]; weary of everything, and
-putting no more [[Faith|faith]] in anything than [[Lucifer]].
-
-‘I believe, sir,’ quoth Mrs. Sparsit, ‘you wished to see me.’
-
-‘I beg your pardon,’ he said, turning and removing his hat; ‘pray excuse
-me.’
-
-‘Humph!’ thought Mrs. Sparsit, as she made a stately bend.  ‘Five and
-thirty, good-looking, good figure, good teeth, good voice, good breeding,
-[[Well|well]]-dressed, dark hair, bold eyes.’  All which Mrs. Sparsit observed in
-her womanly way—like the Sultan who put his head in the pail of
-[[Water|water]]—merely in dipping down and coming up again.
-
-‘Please to be seated, sir,’ said Mrs. Sparsit.
-
-‘Thank you.  Allow me.’  He placed a chair for her, but remained himself
-carelessly lounging against the table.  ‘I left my servant at the railway
-looking after the luggage—very heavy train and vast quantity of it in the
-van—and strolled on, looking about me.  Exceedingly odd place.  Will you
-allow me to ask you if it’s _always_ as black as this?’
-
-‘In general much blacker,’ returned Mrs. Sparsit, in her uncompromising
-way.
-
-‘Is it possible!  Excuse me: you are not a native, I think?’
-
-‘No, sir,’ returned Mrs. Sparsit.  ‘It was once my good or ill fortune,
-as it may be—before I became a widow—to move in a very different sphere.
-My husband was a Powler.’
-
-‘Beg your pardon, really!’ said the stranger.  ‘Was—?’
-
-Mrs. Sparsit repeated, ‘A Powler.’
-
-‘Powler Family,’ said the stranger, after reflecting a few moments.  Mrs.
-Sparsit signified assent.  The stranger seemed a little more fatigued
-than before.
-
-‘You must be very much bored here?’ was the inference he drew from the
-communication.
-
-‘I am the servant of circumstances, sir,’ said Mrs. Sparsit, ‘and I have
-long adapted myself to the governing power of my life.’
-
-‘Very philosophical,’ returned the stranger, ‘and very exemplary and
-laudable, and—’  It seemed to be scarcely worth his while to finish the
-sentence, so he played with his watch-chain wearily.
-
-‘May I be permitted to ask, sir,’ said Mrs. Sparsit, ‘to what I am
-indebted for the favour of—’
-
-‘Assuredly,’ said the stranger.  ‘Much obliged to you for reminding me.
-I am the bearer of a letter of introduction to Mr. Bounderby, the banker.
-Walking through this extraordinarily black town, while they were getting
-dinner ready at the hotel, I asked a fellow whom I met; one of the
-working people; who appeared to have been taking a shower-bath of
-something fluffy, which I assume to be the raw material—’
-
-Mrs. Sparsit inclined her head.
-
-‘—Raw material—where Mr. Bounderby, the banker, might reside.  Upon
-which, misled no [[Doubt|doubt]] by the word Banker, he directed me to the Bank.
-Fact being, I presume, that Mr. Bounderby the Banker does _not_ reside in
-the edifice in which I have the [[Honour|honour]] of offering this explanation?’
-
-‘No, sir,’ returned Mrs. Sparsit, ‘he does not.’
-
-‘Thank you.  I had no intention of delivering my letter at the present
-moment, nor have I. But strolling on to the Bank to kill [[Time|time]], and having
-the good fortune to observe at the [[Window|window]],’ towards which he languidly
-waved his hand, then slightly bowed, ‘a lady of a very superior and
-agreeable appearance, I considered that I could not do better than take
-the liberty of asking that lady where Mr. Bounderby the Banker _does_
-live.  Which I accordingly venture, with all suitable apologies, to do.’
-
-The inattention and [[Indolence|indolence]] of his manner were sufficiently relieved,
-to Mrs. Sparsit’s thinking, by a certain gallantry at ease, which offered
-her homage too.  Here he was, for instance, at this moment, all but
-sitting on the table, and yet lazily bending over her, as if he
-acknowledged an attraction in her that made her charming—in her way.
-
-‘Banks, I know, are always suspicious, and officially must be,’ said the
-stranger, whose lightness and smoothness of speech were pleasant
-likewise; suggesting matter far more sensible and humorous than it ever
-contained—which was perhaps a shrewd device of the founder of this
-numerous sect, whosoever may have been that great man: ‘therefore I may
-observe that my letter—here it is—is from the member for this
-place—Gradgrind—whom I have had the pleasure of knowing in [[London]].’
-
-Mrs. Sparsit recognized the hand, intimated that such confirmation was
-quite unnecessary, and gave Mr. Bounderby’s address, with all needful
-clues and directions in aid.
-
-‘Thousand thanks,’ said the stranger.  ‘Of course you know the Banker
-[[Well|well]]?’
-
-‘Yes, sir,’ rejoined Mrs. Sparsit.  ‘In my dependent relation towards
-him, I have known him ten years.’
-
-‘Quite an [[Eternity|eternity]]!  I think he married Gradgrind’s daughter?’
-
-‘Yes,’ said Mrs. Sparsit, suddenly compressing her mouth, ‘he had
-that—[[Honour|honour]].’
-
-‘The lady is quite a philosopher, I am told?’
-
-‘Indeed, sir,’ said Mrs. Sparsit.  ‘_Is_ she?’
-
-‘Excuse my impertinent curiosity,’ pursued the stranger, fluttering over
-Mrs. Sparsit’s eyebrows, with a propitiatory air, ‘but you know the
-family, and know the world.  I am about to know the family, and may have
-much to do with them.  Is the lady so very alarming?  Her father gives
-her such a portentously hard-headed reputation, that I have a burning
-[[Desire|desire]] to know.  Is she absolutely unapproachable?  Repellently and
-stunningly clever?  I see, by your meaning smile, you think not.  You
-have poured balm into my anxious [[Soul|soul]].  As to age, now.  Forty?  Five and
-thirty?’
-
-Mrs. Sparsit laughed outright.  ‘A chit,’ said she.  ‘Not twenty when she
-was married.’
-
-‘I give you my [[Honour|honour]], Mrs. Powler,’ returned the stranger, detaching
-himself from the table, ‘that I never was so astonished in my life!’
-
-It really did seem to impress him, to the utmost extent of his capacity
-of being impressed.  He looked at his informant for full a quarter of a
-minute, and appeared to have the surprise in his mind all the [[Time|time]].  ‘I
-assure you, Mrs. Powler,’ he then said, much exhausted, ‘that the
-father’s manner prepared me for a grim and stony maturity.  I am obliged
-to you, of all things, for correcting so absurd a mistake.  Pray excuse
-my intrusion.  Many thanks.  Good day!’
-
-He bowed himself out; and Mrs. Sparsit, hiding in the [[Window|window]] curtain, saw
-him languishing down the street on the shady side of the way, observed of
-all the town.
-
-‘What do you think of the gentleman, Bitzer?’ she asked the light porter,
-when he came to take away.
-
-‘Spends a deal of money on his dress, ma’am.’
-
-‘It must be admitted,’ said Mrs. Sparsit, ‘that it’s very tasteful.’
-
-‘Yes, ma’am,’ returned Bitzer, ‘if that’s worth the money.’
-
-‘Besides which, ma’am,’ resumed Bitzer, while he was polishing the table,
-‘he looks to me as if he gamed.’
-
-‘It’s immoral to game,’ said Mrs. Sparsit.
-
-‘It’s ridiculous, ma’am,’ said Bitzer, ‘because the chances are against
-the players.’
-
-Whether it was that the heat prevented Mrs. Sparsit from working, or
-whether it was that her hand was out, she did no work that [[Night|night]].  She
-sat at the [[Window|window]], when the sun began to sink behind the smoke; she sat
-there, when the smoke was burning red, when the colour faded from it,
-when darkness seemed to rise slowly out of the ground, and creep upward,
-upward, up to the [[house]]-tops, up the church steeple, up to the summits of
-the factory chimneys, up to the sky.  Without a candle in the room, Mrs.
-Sparsit sat at the [[Window|window]], with her hands before her, not thinking much
-of the sounds of evening; the whooping of boys, the barking of [[dogs]], the
-rumbling of wheels, the steps and voices of passengers, the shrill street
-cries, the clogs upon the pavement when it was their hour for going by,
-the shutting-up of shop-shutters.  Not until the light porter announced
-that her nocturnal sweetbread was ready, did Mrs. Sparsit arouse herself
-from her reverie, and convey her dense black eyebrows—by that [[Time|time]]
-creased with meditation, as if they needed ironing out-up-stairs.
-
-‘O, you [[Fool]]!’ said Mrs. Sparsit, when she was [[Alone|alone]] at her supper.  Whom
-she meant, she did not say; but she could scarcely have meant the
-sweetbread.
+CHAPTER III
+THE WHELP
+
+
+IT was very remarkable that a young gentleman who had been brought up
+under one continuous system of unnatural restraint, should be a
+hypocrite; but it was certainly the case with Tom.  It was very strange
+that a young gentleman who had never been left to his own guidance for
+five consecutive minutes, should be incapable at last of governing
+himself; but so it was with Tom.  It was altogether unaccountable that a
+young gentleman whose [[Imagination|imagination]] had been strangled in his cradle,
+should be still inconvenienced by its [[Ghost|ghost]] in the form of grovelling
+sensualities; but such a [[Monster|monster]], beyond all [[Doubt|doubt]], was Tom.
+
+‘Do you smoke?’ asked Mr. [[James Harthouse]], when they came to the hotel.
+
+‘I believe you!’ said Tom.
+
+He could do no less than ask Tom up; and Tom could do no less than go up.
+What with a cooling drink adapted to the weather, but not so weak as
+cool; and what with a rarer tobacco than was to be bought in those parts;
+Tom was soon in a highly free and easy state at his end of the sofa, and
+more than ever disposed to admire his new friend at the other end.
+
+Tom blew his smoke aside, after he had been smoking a little while, and
+took an observation of his friend.  ‘He don’t seem to care about his
+dress,’ thought Tom, ‘and yet how capitally he does it.  What an easy
+swell he is!’
+
+Mr. [[James Harthouse]], happening to catch Tom’s eye, remarked that he drank
+nothing, and filled his glass with his own negligent hand.
+
+‘Thank’ee,’ said Tom.  ‘Thank’ee.  [[Well]], Mr. Harthouse, I [[Hope|hope]] you have
+had about a dose of old Bounderby to-[[Night|night]].’  Tom said this with one eye
+shut up again, and looking over his glass knowingly, at his entertainer.
+
+‘A very good fellow indeed!’ returned Mr. [[James Harthouse]].
+
+‘You think so, don’t you?’ said Tom.  And shut up his eye again.
+
+Mr. [[James Harthouse]] smiled; and rising from his end of the sofa, and
+lounging with his back against the chimney-piece, so that he stood before
+the empty [[Fire|fire]]-grate as he smoked, in front of Tom and looking down at
+him, observed:
+
+‘What a comical brother-in-law you are!’
+
+‘What a comical brother-in-law old Bounderby is, I think you mean,’ said
+Tom.
+
+‘You are a piece of caustic, Tom,’ retorted Mr. [[James Harthouse]].
+
+There was something so very agreeable in being so intimate with such a
+waistcoat; in being called Tom, in such an intimate way, by such a voice;
+in being on such off-hand terms so soon, with such a pair of whiskers;
+that Tom was uncommonly pleased with himself.
+
+‘Oh!  I don’t care for old Bounderby,’ said he, ‘if you mean that.  I
+have always called old Bounderby by the same name when I have talked
+about him, and I have always thought of him in the same way.  I am not
+going to begin to be polite now, about old Bounderby.  It would be rather
+late in the day.’
+
+‘Don’t mind me,’ returned James; ‘but take care when his wife is by, you
+know.’
+
+‘His wife?’ said Tom.  ‘My sister Loo?  O yes!’  And he laughed, and took
+a little more of the cooling drink.
+
+[[James Harthouse]] continued to lounge in the same place and attitude,
+smoking his cigar in his own easy way, and looking pleasantly at the
+whelp, as if he knew himself to be a kind of agreeable demon who had only
+to hover over him, and he must give up his whole [[Soul|soul]] if required.  It
+certainly did seem that the whelp yielded to this influence.  He looked
+at his companion sneakingly, he looked at him admiringly, he looked at
+him boldly, and put up one leg on the sofa.
+
+‘My sister Loo?’ said Tom.  ‘_She_ never cared for old Bounderby.’
+
+‘That’s the past tense, Tom,’ returned Mr. [[James Harthouse]], striking the
+ash from his cigar with his little finger.  ‘We are in the present tense,
+now.’
+
+‘Verb neuter, not to care.  Indicative mood, present tense.  First person
+singular, I do not care; second person singular, thou dost not care;
+third person singular, she does not care,’ returned Tom.
+
+‘Good!  Very quaint!’ said his friend.  ‘Though you don’t mean it.’
+
+‘But I _do_ mean it,’ cried Tom.  ‘Upon my [[Honour|honour]]!  Why, you won’t tell
+me, Mr. Harthouse, that you really suppose my sister Loo does care for
+old Bounderby.’
+
+‘My dear fellow,’ returned the other, ‘what am I bound to suppose, when I
+find two married people living in harmony and happiness?’
+
+Tom had by this [[Time|time]] got both his legs on the sofa.  If his second leg
+had not been already there when he was called a dear fellow, he would
+have put it up at that great stage of the conversation.  Feeling it
+necessary to do something then, he stretched himself out at greater
+length, and, reclining with the back of his head on the end of the sofa,
+and smoking with an infinite assumption of negligence, turned his common
+face, and not too sober eyes, towards the face looking down upon him so
+carelessly yet so potently.
+
+‘You know our governor, Mr. Harthouse,’ said Tom, ‘and therefore, you
+needn’t be surprised that Loo married old Bounderby.  She never had a
+[[Lover|lover]], and the governor proposed old Bounderby, and she took him.’
+
+‘Very dutiful in your interesting sister,’ said Mr. [[James Harthouse]].
+
+‘Yes, but she wouldn’t have been as dutiful, and it would not have come
+off as easily,’ returned the whelp, ‘if it hadn’t been for me.’
+
+The tempter merely lifted his eyebrows; but the whelp was obliged to go
+on.
+
+‘_I_ persuaded her,’ he said, with an edifying air of superiority.  ‘I
+was stuck into old Bounderby’s bank (where I never wanted to be), and I
+knew I should get into scrapes there, if she put old Bounderby’s pipe
+out; so I told her my wishes, and she came into them.  She would do
+anything for me.  It was very game of her, wasn’t it?’
+
+‘It was charming, Tom!’
+
+‘Not that it was altogether so important to her as it was to me,’
+continued Tom coolly, ‘because my liberty and comfort, and perhaps my
+getting on, depended on it; and she had no other [[Lover|lover]], and staying at
+[[Home|home]] was like staying in jail—especially when I was gone.  It wasn’t as
+if she gave up another [[Lover|lover]] for old Bounderby; but still it was a good
+thing in her.’
+
+‘Perfectly delightful.  And she gets on so placidly.’
+
+‘Oh,’ returned Tom, with contemptuous patronage, ‘she’s a regular girl.
+A girl can get on anywhere.  She has settled down to the life, and _she_
+don’t mind.  It does just as [[Well|well]] as another.  Besides, though Loo is a
+girl, she’s not a common sort of girl.  She can shut herself up within
+herself, and think—as I have often known her sit and watch the [[Fire|fire]]—for
+an hour at a stretch.’
+
+‘Ay, ay?  Has resources of her own,’ said Harthouse, smoking quietly.
+
+‘Not so much of that as you may suppose,’ returned Tom; ‘for our governor
+had her crammed with all sorts of dry bones and sawdust.  It’s his
+system.’
+
+‘Formed his daughter on his own model?’ suggested Harthouse.
+
+‘His daughter?  Ah! and everybody else.  Why, he formed Me that way!’
+said Tom.
+
+‘Impossible!’
+
+‘He did, though,’ said Tom, shaking his head.  ‘I mean to say, Mr.
+Harthouse, that when I first left [[Home|home]] and went to old Bounderby’s, I was
+as flat as a warming-pan, and knew no more about life, than any oyster
+does.’
+
+‘Come, Tom!  I can hardly believe that.  A joke’s a joke.’
+
+‘Upon my [[Soul|soul]]!’ said the whelp.  ‘I am serious; I am indeed!’  He smoked
+with great gravity and dignity for a little while, and then added, in a
+highly complacent tone, ‘Oh!  I have picked up a little since.  I don’t
+deny that.  But I have done it myself; no thanks to the governor.’
+
+‘And your intelligent sister?’
+
+‘My intelligent sister is about where she was.  She used to complain to
+me that she had nothing to fall back upon, that girls usually fall back
+upon; and I don’t see how she is to have got over that since.  But _she_
+don’t mind,’ he sagaciously added, puffing at his cigar again.  ‘Girls
+can always get on, somehow.’
+
+‘Calling at the Bank yesterday evening, for Mr. Bounderby’s address, I
+found an ancient lady there, who seems to entertain great admiration for
+your sister,’ observed Mr. [[James Harthouse]], throwing away the last small
+remnant of the cigar he had now smoked out.
+
+‘Mother Sparsit!’ said Tom.  ‘What! you have seen her already, have you?’
+
+His friend nodded.  Tom took his cigar out of his mouth, to shut up his
+eye (which had grown rather unmanageable) with the greater expression,
+and to tap his nose several times with his finger.
+
+‘Mother Sparsit’s feeling for Loo is more than admiration, I should
+think,’ said Tom.  ‘Say affection and devotion.  Mother Sparsit never set
+her cap at Bounderby when he was a bachelor.  Oh no!’
+
+These were the last words spoken by the whelp, before a giddy drowsiness
+came upon him, followed by complete oblivion.  He was roused from the
+latter state by an uneasy dream of being stirred up with a boot, and also
+of a voice saying: ‘Come, it’s late.  Be off!’
+
+‘[[Well]]!’ he said, scrambling from the sofa.  ‘I must take my leave of you
+though.  I say.  Yours is very good tobacco.  But it’s too mild.’
+
+‘Yes, it’s too mild,’ returned his entertainer.
+
+‘It’s—it’s ridiculously mild,’ said Tom.  ‘Where’s the door!  Good
+[[Night|night]]!’
+
+He had another odd dream of being taken by a waiter through a mist,
+which, after giving him some trouble and difficulty, resolved itself into
+the main street, in which he stood [[Alone|alone]].  He then walked [[Home|home]] pretty
+easily, though not yet free from an impression of the presence and
+influence of his new friend—as if he were lounging somewhere in the air,
+in the same negligent attitude, regarding him with the same look.
+
+The whelp went [[Home|home]], and went to bed.  If he had had any sense of what he
+had done that [[Night|night]], and had been less of a whelp and more of a brother,
+he might have turned short on the [[Road|road]], might have gone down to the
+ill-smelling [[River|river]] that was dyed black, might have gone to bed in it for
+good and all, and have curtained his head for ever with its filthy
+waters.

@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 25: TWENTY FIVE (part 1)"
+title: "Martin Chuzzlewit — Chapter 25: TWENTY FIVE (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -125,10 +125,3 @@ it.’
 
 ‘Tell ‘em to go somewhere else. We don’t do that style of business
 here,’ said Mr Mould. ‘Like their impudence to propose it. Who is it?’
-
-‘Why,’ returned Tacker, pausing, ‘that’s where it is, you see. It’s the
-beadle’s son-in-law.’
-
-‘The beadle’s son-in-law, eh?’ said Mould. ‘[[Well]]! I’ll do it if the
-beadle follows in his cocked hat; not else. We carry it off that way, by
-looking official, but it’ll be low enough, then. His cocked hat, mind!’

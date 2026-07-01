@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 57 (part 2)"
+title: "Bleak House — Chapter 57 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -126,8 +126,3 @@ As we ascended the [[Hill|hill]], he looked about him with a sharp eye—the
 day was now breaking—and reminded me that I had come down it one
 [[Night|night]], as I had reason for remembering, with my little servant and
 poor Jo, whom he called Toughey.
-
-I wondered how he knew that.
-
-“When you passed a man upon the [[Road|road]], just yonder, you know,” said
-Mr. Bucket.

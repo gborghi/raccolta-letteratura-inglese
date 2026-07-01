@@ -1,5 +1,5 @@
 ---
-title: "[[Romeo]] and [[Juliet]] — Act V, Scene 3 — exchange (CHIEF WATCHMAN) [5]"
+title: "Romeo and Juliet — Act V, Scene 3 — exchange (CHIEF WATCHMAN) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/romeo-and-juliet-(shakespeare)"

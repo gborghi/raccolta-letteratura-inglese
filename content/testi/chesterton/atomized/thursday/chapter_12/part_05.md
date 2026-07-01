@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 12 (part 5)"
+title: "thursday — Chapter 12 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -13,6 +13,33 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_12/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_13/part_01">part 01 ›</a></div>
 </nav>
 
+
+"Stop!" cried Bull suddenly, "the gendarmes are out."
+
+The low lights of the police station were indeed blotted and broken
+with hurrying figures, and they heard through the darkness the clash
+and jingle of a disciplined cavalry.
+
+"They are charging the mob!" cried Bull in ecstacy or alarm.
+
+"No," said Syme, "they are formed along the parade."
+
+"They have unslung their carbines," cried Bull dancing with excitement.
+
+"Yes," said Ratcliffe, "and they are going to [[Fire|fire]] on us."
+
+As he spoke there came a long crackle of musketry, and bullets seemed
+to hop like hailstones on the stones in front of them.
+
+"The gendarmes have joined them!" cried [[The Professor|the Professor]],
+and struck his forehead.
+
+"I am in the padded cell," said Bull solidly.
+
+There was a long [[Silence|silence]], and then Ratcliffe said, looking out over
+the swollen sea, all a sort of grey purple--
+
+"What does it matter who is mad or who is sane?  We shall all be dead soon."
 
 Syme turned to him and said--
 

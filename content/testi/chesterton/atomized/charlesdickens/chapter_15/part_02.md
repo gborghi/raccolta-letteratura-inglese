@@ -1,5 +1,5 @@
 ---
-title: "[[CharlesDickens]] — Chapter 12 (part 2)"
+title: "CharlesDickens — Chapter 12 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/charlesdickens-(chesterton)"
@@ -77,7 +77,7 @@ No one but an Englishman could have filled his books at once
 with a furious caricature and with a positively furious kindness.
 In more central countries, full of cruel memories of political change,
 caricature is always inhumane.  No one but an Englishman
-could have described the [[Democracy|democracy]] as consisting of free men,
+could have described the [[democracy]] as consisting of free men,
 but yet of funny men.  In other countries where the democratic
 issue has been more bitterly fought, it is felt that unless you
 describe a man as dignified you are describing him as a slave.

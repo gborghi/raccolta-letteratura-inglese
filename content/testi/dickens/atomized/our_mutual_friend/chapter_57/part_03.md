@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 16 (part 3)"
+title: "Our Mutual Friend — Chapter 2 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,133 +14,115 @@ tags:
 </nav>
 
 
-With another tearful laugh Bella joyfully kissed him again.
+‘Oh, my dear Sophronia,’ cried Georgiana, wringing her hands as she ran
+up to embrace her, ‘to think that you and Alfred should be ruined! Oh,
+my poor dear Sophronia, to think that you should have had a Sale at your
+[[house]] after all your kindness to me! Oh, Mr and Mrs Boffin, pray forgive
+me for this intrusion, but you don’t know how fond I was of Sophronia
+when Pa wouldn’t let me go there any more, or what I have felt for
+Sophronia since I heard from Ma of her having been brought low in the
+world. You don’t, you can’t, you never can, think, how I have lain awake
+at [[Night|night]] and cried for my good Sophronia, my first and only friend!’
 
-‘And therefore—and therefore,’ the cherub went on in a glowing voice,
-as Bella’s hand stole gradually up his waistcoat to his neck, ‘this
-mercenary young person distantly related to myself, refused the
-price, took off the splendid fashions that were part of it, put on the
-comparatively poor dress that I had last given her, and trusting to my
-supporting her in what was right, came straight to me. Have I led up to
-it?’
+Mrs Lammle’s manner changed under the poor silly girl’s embraces, and
+she turned extremely pale: directing one appealing look, first to Mrs
+Boffin, and then to Mr Boffin. Both understood her instantly, with
+a more delicate subtlety than much better educated people, whose
+perception came less directly from the heart, could have brought to bear
+upon the case.
 
-Bella’s hand was round his neck by this [[Time|time]], and her face was on it.
+‘I haven’t a minute,’ said poor little Georgiana, ‘to stay. I am out
+shopping early with Ma, and I said I had a headache and got Ma to leave
+me outside in the phaeton, in Piccadilly, and ran round to Sackville
+Street, and heard that Sophronia was here, and then Ma came to see, oh
+such a dreadful old stony woman from the country in a turban in Portland
+Place, and I said I wouldn’t go up with Ma but would drive round and
+leave cards for the Boffins, which is taking a liberty with the name;
+but oh my goodness I am distracted, and the phaeton’s at the door, and
+what would Pa say if he knew it!’
 
-‘The mercenary young person distantly related to myself,’ said her
-good father, ‘did [[Well|well]]! The mercenary young person distantly related
-to myself, did not trust to me in vain! I admire this mercenary young
-person distantly related to myself, more in this dress than if she had
-come to me in China silks, Cashmere shawls, and Golconda diamonds. I
-[[Love|love]] this young person dearly. I say to the man of this young person’s
-heart, out of my heart and with all of it, “My blessing on this
-engagement betwixt you, and she brings you a good fortune when she
-brings you the [[Poverty|poverty]] she has accepted for your sake and the honest
-[[Truth|truth]]’s!”’
+‘Don’t ye be timid, my dear,’ said Mrs Boffin. ‘You came in to see us.’
 
-The stanch little man’s voice failed him as he gave John Rokesmith his
-hand, and he was silent, bending his face low over his daughter. But,
-not for long. He soon looked up, saying in a sprightly tone:
+‘Oh, no, I didn’t,’ cried Georgiana. ‘It’s very impolite, I know, but
+I came to see my poor Sophronia, my only friend. Oh! how I felt the
+separation, my dear Sophronia, before I knew you were brought low in the
+world, and how much more I feel it now!’
 
-‘And now, my dear [[Child|child]], if you think you can entertain John Rokesmith
-for a minute and a half, I’ll run over to the Dairy, and fetch HIM a
-cottage loaf and a drink of milk, that we may all have tea together.’
+There were actually [[Tears|tears]] in the bold woman’s eyes, as the soft-headed
+and soft-hearted girl twined her arms about her neck.
 
-It was, as Bella gaily said, like the supper provided for the three
-nursery hobgoblins at their [[house]] in the forest, without their
-thunderous low growlings of the alarming discovery, ‘Somebody’s been
-drinking MY milk!’ It was a delicious repast; by far the most delicious
-that Bella, or John Rokesmith, or even R. Wilfer had ever made. The
-uncongenial oddity of its surroundings, with the two brass knobs of the
-iron safe of Chicksey, Veneering, and Stobbles staring from a corner,
-like the eyes of some dull dragon, only made it the more delightful.
+‘But I’ve come on business,’ said Georgiana, sobbing and drying her
+face, and then searching in a little reticule, ‘and if I don’t despatch
+it I shall have come for nothing, and oh good gracious! what would Pa
+say if he knew of Sackville Street, and what would Ma say if she was
+kept waiting on the doorsteps of that dreadful turban, and there never
+were such pawing horses as ours unsettling my mind every moment more
+and more when I want more mind than I have got, by pawing up Mr Boffin’s
+street where they have no business to be. Oh! where is, where is it?
+Oh! I can’t find it!’ All this [[Time|time]] sobbing, and searching in the little
+reticule.
 
-‘To think,’ said the cherub, looking round the office with unspeakable
-enjoyment, ‘that anything of a tender [[Nature|nature]] should come off here, is
-what tickles me. To think that ever I should have seen my Bella folded
-in the arms of her future husband, HERE, you know!’
+‘What do you miss, my dear?’ asked Mr Boffin, stepping forward.
 
-It was not until the cottage loaves and the milk had for some [[Time|time]]
-disappeared, and the foreshadowings of [[Night|night]] were creeping over Mincing
-Lane, that the cherub by degrees became a little nervous, and said to
-Bella, as he cleared his throat:
+‘Oh! it’s little enough,’ replied Georgiana, ‘because Ma always treats
+me as if I was in the nursery (I am sure I wish I was!), but I hardly
+ever spend it and it has mounted up to fifteen pounds, Sophronia, and I
+[[Hope|hope]] three five-pound notes are better than nothing, though so little,
+so little! And now I have found that—oh, my goodness! there’s the other
+gone next! Oh no, it isn’t, here it is!’
 
-‘Hem!—Have you thought at all about your mother, my dear?’
+With that, always sobbing and searching in the reticule, Georgiana
+produced a necklace.
 
-‘Yes, Pa.’
+‘Ma says chits and jewels have no business together,’ pursued Georgiana,
+‘and that’s the reason why I have no trinkets except this, but I suppose
+my aunt Hawkinson was of a different opinion, because she left me this,
+though I used to think she might just as [[Well|well]] have buried it, for it’s
+always kept in jewellers’ cotton. However, here it is, I am thankful
+to say, and of use at last, and you’ll sell it, dear Sophronia, and buy
+things with it.’
 
-‘And your sister Lavvy, for instance, my dear?’
+‘Give it to me,’ said Mr Boffin, gently taking it. ‘I’ll see that it’s
+properly disposed of.’
 
-‘Yes, Pa. I think we had better not enter into particulars at [[Home|home]]. I
-think it will be quite enough to say that I had a difference with Mr
-Boffin, and have left for good.’
+‘Oh! are you such a friend of Sophronia’s, Mr Boffin?’ cried Georgiana.
+‘Oh, how good of you! Oh, my gracious! there was something else, and
+it’s gone out of my head! Oh no, it isn’t, I remember what it was. My
+grandmamma’s property, that’ll come to me when I am of age, Mr Boffin,
+will be all my own, and neither Pa nor Ma nor anybody else will have
+any control over it, and what I wish to do is to make some of it over
+somehow to Sophronia and Alfred, by signing something somewhere that’ll
+prevail on somebody to advance them something. I want them to have
+something handsome to bring them up in the world again. Oh, my goodness
+me! Being such a friend of my dear Sophronia’s, you won’t refuse me,
+will you?’
 
-‘John Rokesmith being acquainted with your Ma, my [[Love|love]],’ said her
-father, after some slight hesitation, ‘I need have no delicacy in
-hinting before him that you may perhaps find your Ma a little wearing.’
+‘No, no,’ said Mr Boffin, ‘it shall be seen to.’
 
-‘A little, patient Pa?’ said Bella with a tuneful laugh: the tune fuller
-for being so loving in its tone.
+‘Oh, thank you, thank you!’ cried Georgiana. ‘If my maid had a little
+note and half a [[Crown|crown]], I could run round to the pastrycook’s to sign
+something, or I could sign something in the Square if somebody would
+come and cough for me to let ’em in with the key, and would bring a pen
+and ink with ’em and a bit of blotting-paper. Oh, my gracious! I must
+tear myself away, or Pa and Ma will both find out! Dear, dear Sophronia,
+good, good-bye!’
 
-‘[[Well]]! We’ll say, strictly in confidence among ourselves, wearing;
-we won’t qualify it,’ the cherub stoutly admitted. ‘And your sister’s
-temper is wearing.’
+The credulous little creature again embraced Mrs Lammle most
+affectionately, and then held out her hand to Mr Lammle.
 
-‘I don’t mind, Pa.’
+‘Good-bye, dear Mr Lammle—I mean Alfred. You won’t think after to-day
+that I have deserted you and Sophronia because you have been brought low
+in the world, will you? Oh me! oh me! I have been crying my eyes out of
+my head, and Ma will be sure to ask me what’s the matter. Oh, take me
+down, somebody, please, please, please!’
 
-‘And you must prepare yourself you know, my precious,’ said her father,
-with much gentleness, ‘for our looking very poor and meagre at [[Home|home]], and
-being at the best but very uncomfortable, after Mr Boffin’s [[house]].’
+Mr Boffin took her down, and saw her driven away, with her poor
+little red eyes and weak chin peering over the great apron of the
+custard-coloured phaeton, as if she had been ordered to expiate some
+childish misdemeanour by going to bed in the daylight, and were peeping
+over the counterpane in a miserable flutter of repentance and low
+spirits. Returning to the breakfast-room, he found Mrs Lammle still
+standing on her side of the table, and Mr Lammle on his.
 
-‘I don’t mind, Pa. I could bear much harder trials—for John.’
-
-The closing words were not so softly and blushingly said but that John
-heard them, and showed that he heard them by again assisting Bella to
-another of those mysterious disappearances.
-
-‘[[Well]]!’ said the cherub gaily, and not expressing disapproval, ‘when
-you—when you come back from retirement, my [[Love|love]], and reappear on the
-surface, I think it will be [[Time|time]] to lock up and go.’
-
-If the counting-[[house]] of Chicksey, Veneering, and Stobbles had ever been
-shut up by three happier people, glad as most people were to shut it up,
-they must have been superlatively happy indeed. But first Bella mounted
-upon Rumty’s Perch, and said, ‘Show me what you do here all day long,
-dear Pa. Do you write like this?’ laying her round cheek upon her plump
-left arm, and losing sight of her pen in waves of hair, in a highly
-unbusiness-like manner. Though John Rokesmith seemed to like it.
-
-So, the three hobgoblins, having effaced all traces of their feast, and
-swept up the crumbs, came out of Mincing Lane to walk to Holloway; and
-if two of the hobgoblins didn’t wish the distance twice as long as it
-was, the third hobgoblin was much mistaken. Indeed, that modest spirit
-deemed himself so much in the way of their deep enjoyment of the
-[[Journey|journey]], that he apologetically remarked: ‘I think, my dears, I’ll take
-the lead on the other side of the [[Road|road]], and seem not to belong to you.’
-Which he did, cherubically strewing the path with smiles, in the absence
-of [[Flowers|flowers]].
-
-It was almost ten o’[[Clock|clock]] when they stopped within view of Wilfer
-[[Castle]]; and then, the spot being quiet and deserted, Bella began a
-series of disappearances which threatened to last all [[Night|night]].
-
-‘I think, John,’ the cherub hinted at last, ‘that if you can spare me
-the young person distantly related to myself, I’ll take her in.’
-
-‘I can’t spare her,’ answered John, ‘but I must lend her to you.—My
-Darling!’ A word of [[Magic|magic]] which caused Bella instantly to disappear
-again.
-
-‘Now, dearest Pa,’ said Bella, when she became visible, ‘put your hand
-in mine, and we’ll run [[Home|home]] as fast as ever we can run, and get it over.
-Now, Pa. Once!—’
-
-‘My dear,’ the cherub faltered, with something of a craven air, ‘I was
-going to observe that if your mother—’
-
-‘You mustn’t hang back, sir, to gain [[Time|time]],’ cried Bella, putting out her
-right foot; ‘do you see that, sir? That’s the mark; come up to the mark,
-sir. Once! Twice! Three times and away, Pa!’ Off she skimmed, bearing
-the cherub along, nor ever stopped, nor suffered him to stop, until she
-had pulled at the bell. ‘Now, dear Pa,’ said Bella, taking him by both
-ears as if he were a pitcher, and conveying his face to her rosy lips,
-‘we are in for it!’
+‘I’ll take care,’ said Mr Boffin, showing the money and the necklace,
+‘that these are soon given back.’

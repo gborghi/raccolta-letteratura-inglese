@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 34 (part 2)"
+title: "Nicholas Nickleby — Chapter 34 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_34/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_34/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘Don’t talk of feelings, sir,’ rejoined Madame Mantalini, seating
+herself, and turning her back upon him. ‘You don’t consider mine.’
 
 ‘I do not consider yours, my [[Soul|soul]]!’ exclaimed Mr. Mantalini.
 

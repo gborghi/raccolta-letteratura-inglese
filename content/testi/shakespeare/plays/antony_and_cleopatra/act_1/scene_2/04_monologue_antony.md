@@ -1,5 +1,5 @@
 ---
-title: "Antony and [[Cleopatra]] — Act I, Scene 2 — monologue (ANTONY) [4]"
+title: "Antony and Cleopatra — Act I, Scene 2 — monologue (ANTONY) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/antony-and-cleopatra-(shakespeare)"

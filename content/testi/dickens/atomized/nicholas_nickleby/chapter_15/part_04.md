@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 15 (part 4)"
+title: "Nicholas Nickleby — Chapter 15 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_15/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_15/part_05">part 05 ›</a></div>
 </nav>
 
+
+‘It’s a strange [[Time|time]] of [[Night|night]] to be called away, sir, certainly,’ said
+the collector; ‘and the behaviour of Mr. Noggs himself, is, to say the
+least of it, mysterious.’
+
+‘[[Well]], so it is,’ rejoined Crowl; ‘and I’ll tell you what’s more--I
+think these two geniuses, whoever they are, have run away from
+somewhere.’
+
+‘What makes you think that, sir?’ demanded the collector, who seemed, by
+a tacit understanding, to have been chosen and elected mouthpiece to
+the company. ‘You have no reason to suppose that they have run away from
+anywhere without paying the rates and taxes due, I [[Hope|hope]]?’
 
 Mr. Crowl, with a look of some contempt, was about to enter a general
 protest against the payment of rates or taxes, under any circumstances,
@@ -110,19 +123,3 @@ the audacity to burn her hair off, and who, after receiving sundry small
 slaps and pushes from the more energetic of the ladies, was mercifully
 sent [[Home|home]]: the ninepence, with which she was to have been rewarded,
 being escheated to the Kenwigs family.
-
-‘And whatever we are to say to you, sir,’ exclaimed Mrs. Kenwigs,
-addressing young Lillyvick’s deliverer, ‘I am sure I don’t know.’
-
-‘You need say nothing at all,’ replied Nicholas. ‘I have done nothing to
-found any very strong claim upon your eloquence, I am sure.’
-
-‘He might have been burnt to [[Death|death]], if it hadn’t been for you, sir,’
-simpered Miss Petowker.
-
-‘Not very likely, I think,’ replied Nicholas; ‘for there was abundance
-of assistance here, which must have reached him before he had been in
-any danger.’
-
-‘You will let us drink your health, anyvays, sir!’ said Mr. Kenwigs
-motioning towards the table.

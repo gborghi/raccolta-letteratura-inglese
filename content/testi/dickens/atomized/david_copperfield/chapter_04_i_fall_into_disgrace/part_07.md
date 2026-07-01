@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 4: I FALL INTO DISGRACE (part 7)"
+title: "David Copperfield — Chapter 4: I FALL INTO DISGRACE (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -10,9 +10,57 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_04_i_fall_into_disgrace/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_05_i_am_sent_away_from_home/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_04_i_fall_into_disgrace/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_05_i_am_sent_away_from_home_home/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘Is that you, Peggotty?’
+
+There was no immediate answer, but presently I heard my name again, in a
+tone so very mysterious and awful, that I think I should have gone into
+a fit, if it had not occurred to me that it must have come through the
+keyhole.
+
+I groped my way to the door, and putting my own lips to the keyhole,
+whispered: ‘Is that you, Peggotty dear?’
+
+‘Yes, my own precious Davy,’ she replied. ‘Be as soft as a mouse, or the
+Cat’ll hear us.’
+
+I understood this to mean Miss Murdstone, and was sensible of the
+urgency of the case; her room being close by.
+
+‘How’s mama, dear Peggotty? Is she very angry with me?’
+
+I could hear Peggotty crying softly on her side of the keyhole, as I was
+doing on mine, before she answered. ‘No. Not very.’
+
+‘What is going to be done with me, Peggotty dear? Do you know?’
+
+‘School. Near [[London]],’ was Peggotty’s answer. I was obliged to get her
+to repeat it, for she spoke it the first [[Time|time]] quite down my throat,
+in consequence of my having forgotten to take my mouth away from the
+keyhole and put my ear there; and though her words tickled me a good
+deal, I didn’t hear them.
+
+‘When, Peggotty?’
+
+‘Tomorrow.’
+
+‘Is that the reason why Miss Murdstone took the clothes out of my
+drawers?’ which she had done, though I have forgotten to mention it.
+
+‘Yes,’ said Peggotty. ‘Box.’
+
+‘Shan’t I see mama?’
+
+‘Yes,’ said Peggotty. ‘Morning.’
+
+Then Peggotty fitted her mouth close to the keyhole, and delivered these
+words through it with as much feeling and earnestness as a keyhole
+has ever been the medium of communicating, I will venture to assert:
+shooting in each broken little sentence in a convulsive little burst of
+its own.
 
 ‘Davy, dear. If I ain’t been azackly as intimate with you. Lately, as I
 used to be. It ain’t because I don’t [[Love|love]] you. Just as [[Well|well]] and more, my

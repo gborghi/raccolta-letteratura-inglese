@@ -14,6 +14,11 @@ tags:
 </nav>
 
 
+He gazed about him—Heaven only knows how wearily!—as he said these words;
+and in the act of doing so, fell into a strange stare as if he had
+forgotten something.  A moment afterwards he sighed heavily, put on his
+spectacles, and went about his work again.
+
 In another cell, there was a German, sentenced to five years’
 [[Imprisonment|imprisonment]] for larceny, two of which had just expired.  With colours
 procured in the same manner, he had painted every inch of the walls and

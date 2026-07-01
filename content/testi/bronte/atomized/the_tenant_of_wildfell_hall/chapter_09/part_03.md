@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 9 (part 3)"
+title: "The Tenant of Wildfell Hall — Chapter 9 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_09/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_09/part_04">part 04 ›</a></div>
 </nav>
 
+
+harbour that detestable idea for a moment! Did I not know Mrs. Graham?
+
+Had I not seen her, conversed with her [[Time|time]] after [[Time|time]]? Was I not
+
+certain that she, in intellect, in purity and elevation of [[Soul|soul]], was
+
+immeasurably superior to any of her detractors; that she was, in fact,
+
+the noblest, the most adorable, of her sex I had ever beheld, or even
 
 imagined to exist? Yes, and I would say with Mary Millward (sensible
 
@@ -92,7 +102,7 @@ more than one), my vexation instantly subsided, and far other feelings
 
 agitated my still unquiet [[Soul|soul]]; for there was Mrs. Graham, slowly
 
-moving down the walk with [[arthur|Arthur]] by her side, and no one else. Why were
+moving down the walk with [[Arthur]] by her side, and no one else. Why were
 
 they [[Alone|alone]]? Had the [[Poison|poison]] of detracting tongues already spread through
 
@@ -146,7 +156,7 @@ absent myself in this uncourteous fashion from my guests.”
 
 “I was rather, but it’s over now. Do sit here a little and rest, and
 
-tell me how you like this arbour,” said I, and, lifting [[arthur|Arthur]] by the
+tell me how you like this arbour,” said I, and, lifting [[Arthur]] by the
 
 shoulders, I planted him in the middle of the seat by way of securing
 
@@ -207,23 +217,3 @@ of my remark.
 
 
 “No, certainly; I exonerate my sister from such degraded tastes, and my
-
-mother too, if you included _her_ in your animadversions.”
-
-
-
-“I meant no animadversions against any one, and certainly intended no
-
-disrespectful allusions to your mother. I have known some sensible
-
-persons great adepts in that style of conversation when circumstances
-
-impelled them to it; but it is a gift I cannot boast the possession of.
-
-I kept up my attention on this occasion as long as I could, but when my
-
-powers were exhausted I stole away to seek a few minutes’ repose in
-
-this quiet walk. I hate talking where there is no exchange of ideas or
-
-sentiments, and no good given or received.”

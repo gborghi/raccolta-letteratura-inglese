@@ -14,6 +14,11 @@ tags:
 </nav>
 
 
+Gabriel Gale, who had rather the appearance of having gone to [[Sleep|sleep]],
+seemed to rouse himself with an unusual animation.
+
+"That's true," he said, "and that's the [[Truth|truth]] about the whole business."
+
 Armitage turned to him with an expression of quiet amusement.
 
 "Surely you're not playing the [[Detective|detective]], Gale," he said.
@@ -27,7 +32,6 @@ in his dazed fashion:
 
 "Why, yes, in a way," he said; "in fact, I'm pretty sure I can find
 the [[Body|body]].  In fact, in a manner of speaking, I've found it."
-
 
 Those with any intimations of the personality of Mr. [[Arthur]] Armitage
 will not need to be told that he kept a diary; and endeavoured
@@ -119,39 +123,3 @@ But before the tumult had yet died away Armitage, moved by some
 odd nervous instinct, had turned abruptly to Garth and said,
 "What's become of Gale?  He said he was going to be here.
 Didn't he talk some nonsense about bringing the [[Body|body]] himself?"
-
-Dr. Garth shrugged his shoulders.  "I imagine he's talking
-some other nonsense at the top of the [[Hill|hill]] somewhere else.
-You mustn't ask poets to remember all the nonsense they talk."
-
-"My friends," Father Hyacinth was saying, in quiet but
-penetrating tones.  "I have no answer to give to this charge.
-I have no proofs with which to refute it.  If a man can be sent
-to the guillotine on such evidence, to the guillotine I will go.
-Do you fancy I do not know that [[Innocent|innocent]] men have been guillotined?
-M. Bertrand spoke of the burning of Bruno, as if it is only
-the enemies of the Church that have been burned.  Does any
-Frenchman forget that Joan of Arc was burned; and was she guilty?
-The first Christians were tortured for being cannibals,
-a charge as probable as the charge against me.  Do you imagine
-because you kill men now by modern machinery and modern law,
-that we do not know that you are as likely to kill unjustly as Herod
-or Heliogabalus?  Do you think we do not know that the powers
-of the world are what they always were, that your lawyers who
-oppress the poor for hire will shed [[Innocent|innocent]] [[Blood|blood]] for gold?
-If I were here to bandy such lawyer's talk, I could use it against
-you more reasonably than you against me.  For what reason am I
-supposed to have imperilled my [[Soul|soul]] by such a monstrous crime?
-For a theory about a theory; for a hypothesis about a hypothesis,
-for some thin fantastic notion that a discovery about fossils
-threatened the everlasting [[Truth|truth]].  I could point to others who had
-better reasons for murder than that.  I could point to a man who by
-the [[Death|death]] of Boyg has inherited the whole power and position of Boyg.
-I could point to one who is truly the heir and the man whom the
-crime benefits; who is known to claim much of the discovery as his own;
-who has been not so much the assistant as the rival of the dead.
-He [[Alone|alone]] has given evidence that Boyg was seen on the [[Hill|hill]] at all
-on that fatal day.  He [[Alone|alone]] inherits by the [[Death|death]] anything solid,
-from the largest ambitions in the scientific world, to the smallest
-magnifying glass in his collection.  The man lives, and I could
-stretch out my hand and touch him."

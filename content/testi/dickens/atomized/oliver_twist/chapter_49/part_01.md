@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 49 (part 1)"
+title: "Oliver Twist — Chapter 49 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -138,18 +138,3 @@ shall interest you by and by. I know that of the wretched [[Marriage|marriage]],
 into which family [[Pride|pride]], and the most sordid and narrowest of all
 [[Ambition|ambition]], forced your unhappy father when a mere boy, you were the sole
 and most unnatural issue.”
-
-“I don’t care for hard names,” interrupted [[Monks]] with a jeering laugh.
-“You know the fact, and that’s enough for me.”
-
-“But I also know,” pursued the old gentleman, “the misery, the slow
-torture, the protracted anguish of that ill-assorted [[Union|union]]. I know how
-listlessly and wearily each of that wretched pair dragged on their
-heavy chain through a world that was poisoned to them both. I know how
-cold formalities were succeeded by open taunts; how indifference gave
-place to dislike, dislike to hate, and hate to loathing, until at last
-they wrenched the clanking bond asunder, and retiring a wide space
-apart, carried each a galling [[Fragment|fragment]], of which nothing but [[Death|death]]
-could break the rivets, to hide it in new society beneath the gayest
-looks they could assume. Your mother succeeded; she forgot it soon. But
-it rusted and cankered at your father’s heart for years.”

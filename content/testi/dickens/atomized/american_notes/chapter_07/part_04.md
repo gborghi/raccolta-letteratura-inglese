@@ -14,6 +14,27 @@ tags:
 </nav>
 
 
+Are there no amusements?  Yes.  There is a lecture-room across the way,
+from which that glare of light proceeds, and there may be evening service
+for the ladies thrice a week, or oftener.  For the young gentlemen, there
+is the counting-[[house]], the store, the bar-room: the latter, as you may
+see through these windows, pretty full.  Hark! to the clinking sound of
+hammers breaking lumps of ice, and to the cool gurgling of the pounded
+bits, as, in the process of mixing, they are poured from glass to glass!
+No amusements?  What are these suckers of cigars and swallowers of strong
+drinks, whose hats and legs we see in every possible variety of twist,
+doing, but amusing themselves?  What are the fifty newspapers, which
+those precocious urchins are bawling down the street, and which are kept
+filed within, what are they but amusements?  Not vapid, waterish
+amusements, but good strong stuff; dealing in round abuse and blackguard
+names; pulling off the roofs of private houses, as the Halting Devil did
+in Spain; pimping and pandering for all degrees of vicious taste, and
+gorging with coined lies the most voracious maw; imputing to every man in
+public life the coarsest and the vilest motives; scaring away from the
+stabbed and prostrate [[Body|body]]-politic, every Samaritan of clear [[Conscience|conscience]]
+and good deeds; and setting on, with yell and whistle and the clapping of
+foul hands, the vilest vermin and worst [[Birds|birds]] of prey.—No amusements!
+
 Let us go on again; and passing this wilderness of an hotel with stores
 about its base, like some Continental theatre, or the [[London]] Opera [[house|House]]
 shorn of its colonnade, plunge into the Five Points.  But it is needful,
@@ -87,38 +108,3 @@ retreats, some figure crawls half-awakened, as if the judgment-hour were
 near at hand, and every obscene [[Grave|grave]] were giving up its dead.  Where
 [[dogs]] would howl to lie, women, and men, and boys slink off to [[Sleep|sleep]],
 forcing the dislodged rats to move away in [[Quest|quest]] of better lodgings.
-
-Here too are lanes and alleys, paved with mud knee-deep, underground
-chambers, where they [[Dance|dance]] and game; the walls bedecked with rough
-designs of ships, and forts, and flags, and American eagles out of
-number: ruined houses, open to the street, whence, through wide gaps in
-the walls, other ruins loom upon the eye, as though the world of vice and
-misery had nothing else to show: hideous tenements which take their name
-from robbery and murder: all that is loathsome, drooping, and decayed is
-here.
-
-Our leader has his hand upon the latch of ‘Almack’s,’ and calls to us
-from the [[Bottom|bottom]] of the steps; for the assembly-room of the Five Point
-fashionables is approached by a descent.  Shall we go in?  It is but a
-moment.
-
-Heyday! the landlady of Almack’s thrives!  A buxom fat mulatto woman,
-with sparkling eyes, whose head is daintily ornamented with a
-handkerchief of many colours.  Nor is the landlord much behind her in his
-finery, being attired in a smart blue jacket, like a [[Ship|ship]]’s steward, with
-a thick gold ring upon his little finger, and round his neck a gleaming
-golden watch-guard.  How glad he is to see us!  What will we please to
-call for?  A [[Dance|dance]]?  It shall be done directly, sir: ‘a regular
-break-down.’
-
-The corpulent black fiddler, and his friend who plays the tambourine,
-stamp upon the boarding of the small raised orchestra in which they sit,
-and play a lively measure.  Five or six couple come upon the floor,
-marshalled by a lively young negro, who is the wit of the assembly, and
-the greatest dancer known.  He never [[Leaves|leaves]] off making queer faces, and
-is the delight of all the rest, who grin from ear to ear incessantly.
-Among the dancers are two young mulatto girls, with large, black,
-drooping eyes, and head-gear after the fashion of the hostess, who are as
-shy, or feign to be, as though they never danced before, and so look down
-before the visitors, that their partners can see nothing but the long
-fringed lashes.

@@ -1,5 +1,5 @@
 ---
-title: "[[TheAppOfTyranny]]"
+title: "TheAppOfTyranny"
 author: "Chesterton"
 unitType: work
 parentWork: "works/theappoftyranny-(chesterton)"

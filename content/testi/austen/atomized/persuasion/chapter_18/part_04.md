@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 18 (part 4)"
+title: "Persuasion — Chapter 18 (part 4)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_18/part_03">‹ part 03</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_19/part_01">part 01 ›</a></div>
 </nav>
 
+
+had not such a number of fine Christian names. I should never be out if
+
+they were all Sophys, or something of that sort. [[Well]], this Miss
+
+Louisa, we all thought, you know, was to marry Frederick. He was
+
+courting her week after week. The only [[Wonder|wonder]] was, what they could be
+
+waiting for, till the business at Lyme came; then, indeed, it was clear
+
+enough that they must wait till her brain was set to right. But even
+
+then there was something odd in their way of going on. Instead of
 
 staying at Lyme, he went off to Plymouth, and then he went off to see
 

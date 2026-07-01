@@ -1,5 +1,5 @@
 ---
-title: "[[conversion]] — Chapter 1: INTRODUCTORY:  A NEW RELIGION (part 2)"
+title: "conversion — Chapter 1: INTRODUCTORY:  A NEW RELIGION (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/conversion-(chesterton)"

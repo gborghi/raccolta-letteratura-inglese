@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]]"
+title: "The Narrative of Arthur Gordon Pym of Nantucket"
 author: "Poe"
 unitType: work
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -13,7 +13,7 @@ tags:
 </nav>
 
 
-THE NARRATIVE OF [[arthur|ARTHUR]] GORDON PYM.
+THE NARRATIVE OF [[Arthur|ARTHUR]] GORDON PYM.
 
 
 
@@ -253,7 +253,7 @@ NARRATIVE OF A. GORDON PYM.
 
 
 
-My name is [[arthur|Arthur]] Gordon Pym. My father was a respectable trader in
+My name is [[Arthur]] Gordon Pym. My father was a respectable trader in
 
 sea-stores at Nantucket, where I was born. My maternal grandfather was
 
@@ -333,7 +333,7 @@ a word on his favourite topic. It might have been half an hour from the
 
 when he suddenly started up, and swore with a terrible oath that he
 
-would not go to [[Sleep|sleep]] for any [[arthur|Arthur]] Pym in Christendom, when there was
+would not go to [[Sleep|sleep]] for any [[Arthur]] Pym in Christendom, when there was
 
 so glorious a breeze from the southwest. I never was so astonished in
 

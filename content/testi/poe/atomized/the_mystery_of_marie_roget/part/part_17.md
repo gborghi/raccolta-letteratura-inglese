@@ -1,5 +1,5 @@
 ---
-title: "[[The Mystery of Marie Roget]] (part 17)"
+title: "The Mystery of Marie Roget (part 17)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-mystery-of-marie-roget-(poe)"
@@ -13,6 +13,94 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_mystery_of_marie_roget/part/part_16">‹ part 16</a><a class="ex-next" href="/testi/poe/atomized/the_mystery_of_marie_roget/part/part_18">part 18 ›</a></div>
 </nav>
 
+
+      and apparently from various sources, tended all to the same
+
+      point—viz., the directing of attention to a gang as the
+
+      perpetrators of the outrage, and to the neighborhood of the
+
+      Barrière du Roule as its scene. Now here, of course, the
+
+      suspicion is not that, in consequence of these communications, or
+
+      of the public attention by them directed, the articles were found
+
+      by the boys; but the suspicion might and may [[Well|well]] have been, that
+
+      the articles were not before found by the boys, for the reason
+
+      that the articles had not before been in the thicket; having been
+
+      deposited there only at so late a period as at the date, or
+
+      shortly prior to the date of the communication, by the guilty
+
+      authors of these communications themselves.
+
+
+
+      “This thicket was a singular—an exceedingly singular one. It was
+
+      unusually dense. Within its naturally walled enclosure were three
+
+      extraordinary stones, forming a seat with a back and footstool.
+
+      And this thicket, so full of a natural art, was in the immediate
+
+      vicinity, within a few rods, of the dwelling of Madame Deluc,
+
+      whose boys were in the habit of closely examining the shrubberies
+
+      about them in search of the bark of the sassafras. Would it be a
+
+      rash wager—a wager of one thousand to one—that a day never passed
+
+      over the heads of these boys without finding at least one of them
+
+      ensconced in the umbrageous hall, and enthroned upon its natural
+
+      throne? Those who would hesitate at such a wager, have either
+
+      never been boys themselves, or have forgotten the boyish [[Nature|nature]].
+
+      I repeat—it is exceedingly hard to comprehend how the articles
+
+      could have remained in this thicket undiscovered, for a longer
+
+      period than one or two days; and that thus there is good ground
+
+      for suspicion, in spite of the dogmatic ignorance of Le Soleil,
+
+      that they were, at a comparatively late date, deposited where
+
+      found.
+
+
+
+      “But there are still other and stronger reasons for believing
+
+      them so deposited, than any which I have as yet urged. And, now,
+
+      let me beg your notice to the highly artificial arrangement of
+
+      the articles. On the _upper_ stone lay a white petticoat; on the
+
+      _second_, a silk scarf; scattered around, were a parasol, gloves,
+
+      and a pocket-handkerchief bearing the name, ‘Marie Rogêt.’ Here
+
+      is just such an arrangement as would naturally be made by a not
+
+      over-acute person wishing to dispose the articles naturally. But
+
+      it is by no means a really natural arrangement. I should rather
+
+      have looked to see the things all lying on the ground and
+
+      trampled under foot. In the narrow limits of that bower, it would
+
+      have been scarcely possible that the petticoat and scarf should
 
       have retained a position upon the stones, when subjected to the
 
@@ -101,95 +189,3 @@ tags:
       have apprehended me rightly, however, if you suppose it my design
 
       to deny this thicket as the scene of the outrage. There might
-
-      have been a wrong here, or, more possibly, an accident at Madame
-
-      Deluc’s. But, in fact, this is a point of minor importance. We
-
-      are not engaged in an attempt to discover the scene, but to
-
-      produce the perpetrators of the murder. What I have adduced,
-
-      notwithstanding the minuteness with which I have adduced it, has
-
-      been with the view, first, to show the folly of the positive and
-
-      headlong assertions of Le Soleil, but secondly and chiefly, to
-
-      bring you, by the most natural route, to a further contemplation
-
-      of the [[Doubt|doubt]] whether this assassination has, or has not, been the
-
-      work of a gang.
-
-
-
-      “We will resume this question by mere allusion to the revolting
-
-      details of the surgeon examined at the inquest. It is only
-
-      necessary to say that his published inferences, in regard to the
-
-      number of ruffians, have been properly ridiculed as unjust and
-
-      totally baseless, by all the reputable anatomists of [[Paris]]. Not
-
-      that the matter might not have been as inferred, but that there
-
-      was no ground for the inference:—was there not much for another?
-
-
-
-      “Let us reflect now upon ‘the traces of a struggle;’ and let me
-
-      ask what these traces have been supposed to demonstrate. A gang.
-
-      But do they not rather demonstrate the absence of a gang? What
-
-      struggle could have taken place—what struggle so violent and so
-
-      enduring as to have left its ‘traces’ in all directions—between a
-
-      weak and defenceless girl and the gang of ruffians imagined? The
-
-      silent grasp of a few rough arms and all would have been over.
-
-      The victim must have been absolutely passive at their will. You
-
-      will here bear in mind that the arguments urged against the
-
-      thicket as the scene, are applicable in chief part, only against
-
-      it as the scene of an outrage committed by more than a single
-
-      individual. If we imagine but one violator, we can conceive, and
-
-      thus only conceive, the struggle of so violent and so obstinate a
-
-      [[Nature|nature]] as to have left the ‘traces’ apparent.
-
-
-
-      “And again. I have already mentioned the suspicion to be excited
-
-      by the fact that the articles in question were suffered to remain
-
-      at all in the thicket where discovered. It seems almost
-
-      impossible that these evidences of [[Guilt|guilt]] should have been
-
-      accidentally left where found. There was sufficient presence of
-
-      mind (it is supposed) to remove the corpse; and yet a more
-
-      positive evidence than the corpse itself (whose features might
-
-      have been quickly obliterated by [[Decay|decay]],) is allowed to lie
-
-      conspicuously in the scene of the outrage—I allude to the
-
-      handkerchief with the name of the deceased. If this was accident,
-
-      it was not the accident of a gang. We can imagine it only the
-
-      accident of an individual. Let us see. An individual has

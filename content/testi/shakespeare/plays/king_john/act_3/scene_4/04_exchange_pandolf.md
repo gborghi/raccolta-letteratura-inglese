@@ -1,5 +1,5 @@
 ---
-title: "[[King John]] — Act III, Scene 4 — exchange (PANDOLF) [4]"
+title: "King John — Act III, Scene 4 — exchange (PANDOLF) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/king-john-(shakespeare)"

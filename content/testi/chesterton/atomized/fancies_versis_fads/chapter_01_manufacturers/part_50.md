@@ -64,8 +64,8 @@ the butterfly becomes a burden, and the green carnation flourishes like
 the green baytree.  For the moment I do believe in "art for art's sake."
 And that name is John [[Milton]].
 
-It does really seem to me that [[Milton]] was an [[artist]], and nothing
-but an [[artist]]; and yet so great an [[artist]] as to sustain by his own
+It does really seem to me that [[Milton]] was an [[Artist|artist]], and nothing
+but an [[Artist|artist]]; and yet so great an [[Artist|artist]] as to sustain by his own
 strength the idea that art can exist [[Alone|alone]].  He seems to me an almost
 solitary example of a man of magnificent genius whose [[Greatness|greatness]]
 does not depend at all upon moral earnestness, or upon anything

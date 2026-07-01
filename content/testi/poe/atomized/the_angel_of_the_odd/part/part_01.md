@@ -1,5 +1,5 @@
 ---
-title: "[[The Angel of the Odd]] (part 1)"
+title: "The Angel of the Odd (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-angel-of-the-odd-(poe)"
@@ -223,5 +223,3 @@ AN EXTRAVAGANZA.
 
 
       “You are a drunken vagabond,” said I, “and I shall ring the bell
-
-      and order my footman to kick you into the street.”

@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 30 (part 3)"
+title: "Great Expectations — Chapter 30 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -10,9 +10,11 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/great-expectations-(dickens)">Great Expectations</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_30/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_32/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_30/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_31/part_01">part 01 ›</a></div>
 </nav>
 
+
+“You won’t succeed,” said I.
 
 “O yes I shall!” said he. “One, two, three, and now I am in for it.
 Handel, my good fellow;”—though he spoke in this light tone, he was

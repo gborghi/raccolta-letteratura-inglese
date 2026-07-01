@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 25"
+title: "Mansfield Park — Chapter 25"
 author: "Austen"
 unitType: chapter
 parentWork: "works/mansfield-park-(austen)"
@@ -342,7 +342,7 @@ understanding the question, was at no loss for an answer.
 I refuse you as a tenant, come to me as a friend. Consider the [[house]] as
 half your own every [[Winter|winter]], and we will add to the stables on your own
 improved plan, and with all the improvements of your improved plan that
-may occur to you this [[spring]].”
+may occur to you this [[Spring|spring]].”
 
 “We shall be the losers,” continued Sir Thomas. “His going, though only
 eight miles, will be an unwelcome contraction of our family circle; but

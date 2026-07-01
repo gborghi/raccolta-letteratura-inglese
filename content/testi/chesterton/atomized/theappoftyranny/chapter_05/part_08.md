@@ -1,5 +1,5 @@
 ---
-title: "[[TheAppOfTyranny]] — Chapter 4 (part 8)"
+title: "TheAppOfTyranny — Chapter 4 (part 8)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/theappoftyranny-(chesterton)"
@@ -13,6 +13,36 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/theappoftyranny/chapter_05/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/theappoftyranny/chapter_05/part_09">part 09 ›</a></div>
 </nav>
 
+
+good digestion, because the [[Poison|poison]] of praise does not make him sick. He
+
+thinks the absence of such [[Doubt|doubt]], or [[Self-Knowledge|self-knowledge]], makes for composure,
+
+grandeur, a colossal calm, a superior race--in short, the whole claim of
+
+the Teutons to be the highest spiritual product of [[Nature]] and Evolution.
+
+But as I have noticed a calm [[unity]] even more complete, not only in [[dogs]] and
+
+negroes, but in slugs, slow-worms, mangoldwurzels, moss, mud and bits of
+
+stone, I am a sceptic about this test for the marshalling in rank of all
+
+the children of God. Now I point this out to you here for a very practical
+
+reason. The Prussian will never understand revolutions--which are
+
+generally reactions. He regards them, not only with dislike, but with a
+
+mysterious kind of pity. Throughout his confused popular histories, there
+
+runs a strange suggestion that civic populations have failed hitherto, and
+
+failed because they were always fighting. The population of Berlin does not
+
+fight, or can't; and therefore Berlin will succeed where Greece and Rome
+
+have failed. Hitherto it is plain enough that Berlin has succeeded in
 
 nothing except in bad copies of Greece and Rome; and Prussians would be
 
@@ -58,13 +88,9 @@ toy-trade of [[Germany]] had begun to flood this country, there was a priggish
 
 British couplet, engraven on the minds of governesses, which ran--
 
-
-
     What the German children delight to make
 
     The English children delight to break.
-
-
 
 I can answer for the delight of the English children; a just and godlike
 
@@ -77,8 +103,6 @@ factories. But, for the present, I am only concerned to say that I do not
 accept this line of historical division. I do not think [[history]] supports
 
 the view that those who could break things could not make them.
-
-
 
 This is the least intrusive approach by which I can touch on a topic that
 
@@ -112,8 +136,6 @@ turnip-face of _ce type là_, as the French say, who conceives that he can
 
 make them both like himself and yet remain superior to both.
 
-
-
 I implore you to keep out of the hands of this [[Fool]] the quarrel of the
 
 great saints and of the great blasphemers. He will do to religion what he
@@ -144,8 +166,6 @@ victory in Flanders. And I suppose (now I come to think of it) that the
 
 Germans do.
 
-
-
 By the fulness of your [[Faith|faith]] and even the fulness of your [[Despair|despair]], you that
 
 remember Rome, have earned a right to prevent all our quarrels being
@@ -155,43 +175,3 @@ quenched in such cold [[Water|water]] from the north. But it is not too much to 
 that neither religion at its worst nor republicanism at its worst ever
 
 offered the coarse insult to all mankind that is offered by this new and
-
-nakedly universal monarchy.
-
-
-
-There has always been something common to civilised men, whether they
-
-called it being merely a citizen; or being merely a sinner. There has
-
-always been something which your ancestors called _Verecundia_; which is at
-
-once [[Humility|humility]] and dignity. Whatever our faults, we do not do exactly as
-
-the Prussians do. We do not bellow day and [[Night|night]] to draw attention to our
-
-own stern [[Silence|silence]]. We do not praise ourselves solely because nobody else
-
-will praise us. I, for one, say at the end of these letters, as I said at
-
-the beginning; that in these international matters I have often differed
-
-from my countrymen; I have often differed from myself. I shall not claim
-
-the completeness of this silly creature we discuss. I shall not answer his
-
-boasts with boasts; but with blows.
-
-
-
-My front-door is beaten in and broken down suddenly. I see nothing outside,
-
-except a sort of smiling, straw-haired commercial traveller with a notebook
-
-open, who says, "Excuse me, I am a faultless being, I have persuaded
-
-Poland; I can count on my respectful Allies in Alsace. I am simply loved in
-
-Lorraine. _Quae reggio in terris_ ... What place is there on earth where
-
-the name of Prussia is not the signal for hopeful prayers and joyful

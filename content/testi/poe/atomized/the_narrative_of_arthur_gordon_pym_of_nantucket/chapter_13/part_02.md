@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 14 (part 2)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 14 (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_13/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_13/part_03">part 03 ›</a></div>
 </nav>
 
+
+had then ever beheld. Everything had been made as snug as possible, but
+
+the schooner laboured excessively, and gave evidence of her bad
 
 qualities as a seaboat, pitching her forecastle under at every plunge,
 
@@ -195,13 +199,3 @@ carnivorous. It is frequently called the break-bones, or osprey
 peterel. They are not at all shy, and, when properly cooked, are
 
 palatable food. In flying they sometimes sail very close to the surface
-
-of the [[Water|water]], with the wings expanded, without appearing to move them
-
-in the least degree, or make any exertion with them whatever.
-
-
-
-The albatross is one of the largest and fiercest of the South Sea
-
-[[Birds|birds]]. It is of the gull species, and takes its prey on the wing, never

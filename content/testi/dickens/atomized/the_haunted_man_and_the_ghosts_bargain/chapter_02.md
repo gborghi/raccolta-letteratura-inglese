@@ -1,5 +1,5 @@
 ---
-title: "The Haunted Man and the [[Ghost]]'s Bargain — Chapter 2"
+title: "The Haunted Man and the Ghost's Bargain — Chapter 2"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/the-haunted-man-and-the-ghost's-bargain-(dickens)"
@@ -1047,7 +1047,7 @@ Give me back _my_self!”
 “Give me back myself!” exclaimed Redlaw like a madman. “I am infected!
 I am infectious! I am charged with [[Poison|poison]] for my own mind, and the minds
 of all mankind. Where I felt interest, compassion, sympathy, I am
-turning into stone. Selfishness and ingratitude [[Spring|spring]] up in my
+turning into stone. Selfishness and ingratitude [[spring]] up in my
 blighting footsteps. I am only so much less base than the wretches whom
 I make so, that in the moment of their transformation I can hate them.”
 
@@ -1279,7 +1279,7 @@ head was bent down on her hands and knees. As it was not easy to pass
 without treading on her, and as she was perfectly regardless of his near
 approach, he stopped, and touched her on the shoulder. Looking up, she
 showed him quite a young face, but one whose bloom and promise were all
-swept away, as if the haggard [[Winter|winter]] should unnaturally kill the [[Spring|spring]].
+swept away, as if the haggard [[Winter|winter]] should unnaturally kill the [[spring]].
 
 With little or no show of concern on his account, she moved nearer to the
 wall to leave him a wider passage.

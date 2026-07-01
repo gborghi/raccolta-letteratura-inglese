@@ -1,5 +1,5 @@
 ---
-title: "Napoleon of Notting [[Hill]] — Chapter 2 (part 1)"
+title: "Napoleon of Notting Hill — Chapter 2 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/napoleon-of-notting-hill-(chesterton)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_19">‹ Chapter 19</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_15">‹ Chapter 15</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02/part_02">part 02 ›</a></div>
 </nav>
 
 

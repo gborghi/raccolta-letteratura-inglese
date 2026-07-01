@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 16 (part 3)"
+title: "Northanger Abbey — Chapter 16 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -12,6 +12,20 @@ tags:
 <div class="excerpt-crumb">Austen · <a href="/works/northanger-abbey-(austen)">Northanger Abbey</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_17/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_21/part_01">part 01 ›</a></div>
 </nav>
+
+
+kind intentions of his father fully explained. A living, of which Mr.
+
+Morland was himself patron and incumbent, of about four hundred pounds
+
+yearly value, was to be resigned to his son as soon as he should be old
+
+enough to take it; no trifling deduction from the family income, no
+
+niggardly assignment to one of ten children. An estate of at least
+
+equal value, moreover, was assured as his future inheritance.
+
 
 
 James expressed himself on the occasion with becoming gratitude; and

@@ -1,5 +1,5 @@
 ---
-title: "[[GKC-Autobiography]] — Chapter 13 (part 1)"
+title: "GKC-Autobiography — Chapter 13 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/gkc-autobiography-(chesterton)"
@@ -70,7 +70,7 @@ But though their story is rewritten, I rather [[Doubt|doubt]] whether
 Browning is re-read, or whether Mrs. Browning is read at all.
 There seem to be more details remembered out of the story of the Brontës
 than there are details remembered out of the Brontë stories.
-It is a queer ending for all the aesthetic talk about an [[artist]] being
+It is a queer ending for all the aesthetic talk about an [[Artist|artist]] being
 only important in his art.  Queerest of all, there is more popularity
 for a book about a man like Palmerston, whose politics are quite dead,
 than for a book by a man like Carlyle, whose politics would seem

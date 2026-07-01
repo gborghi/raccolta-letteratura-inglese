@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 37 (part 3)"
+title: "Mansfield Park — Chapter 37 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/mansfield_park/chapter_37/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/mansfield_park/chapter_38/part_01">part 01 ›</a></div>
 </nav>
 
+
+He did not scruple to add that her being at [[Home|home]] for a while would be a
+great advantage to everybody.
+
+“I do not know how it is,” said he; “but we seem to want some of your
+nice ways and orderliness at my father’s. The [[house]] is always in
+confusion. You will set things going in a better way, I am sure. You
+will tell my mother how it all ought to be, and you will be so useful
+to Susan, and you will teach Betsey, and make the boys [[Love|love]] and mind
+you. How right and comfortable it will all be!”
 
 By the [[Time|time]] Mrs. Price’s answer arrived, there remained but a very few
 days more to be spent at Mansfield; and for part of one of those days

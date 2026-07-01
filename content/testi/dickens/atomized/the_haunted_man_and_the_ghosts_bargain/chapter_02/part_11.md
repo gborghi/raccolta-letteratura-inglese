@@ -1,5 +1,5 @@
 ---
-title: "The Haunted Man and the [[Ghost]]'s Bargain — Chapter 2 (part 11)"
+title: "The Haunted Man and the Ghost's Bargain — Chapter 2 (part 11)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-haunted-man-and-the-ghost's-bargain-(dickens)"
@@ -13,6 +13,48 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_02/part_10">‹ part 10</a><a class="ex-next" href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_02/part_12">part 12 ›</a></div>
 </nav>
 
+
+“In there!” said the boy, pointing out the [[house]] again. “I’ll wait.”
+
+“Will they let me in?” asked Redlaw.
+
+“Say you’re a doctor,” he answered with a nod. “There’s plenty ill
+here.”
+
+Looking back on his way to the [[house]]-door, Redlaw saw him trail himself
+upon the [[Dust|dust]] and crawl within the shelter of the smallest arch, as if he
+were a rat. He had no pity for the thing, but he was afraid of it; and
+when it looked out of its den at him, he hurried to the [[house]] as a
+retreat.
+
+“Sorrow, wrong, and trouble,” said the Chemist, with a painful effort at
+some more distinct remembrance, “at least haunt this place darkly. He
+can do no harm, who brings forgetfulness of such things here!”
+
+With these words, he pushed the yielding door, and went in.
+
+There was a woman sitting on the stairs, either asleep or forlorn, whose
+head was bent down on her hands and knees. As it was not easy to pass
+without treading on her, and as she was perfectly regardless of his near
+approach, he stopped, and touched her on the shoulder. Looking up, she
+showed him quite a young face, but one whose bloom and promise were all
+swept away, as if the haggard [[Winter|winter]] should unnaturally kill the [[spring]].
+
+With little or no show of concern on his account, she moved nearer to the
+wall to leave him a wider passage.
+
+“What are you?” said Redlaw, pausing, with his hand upon the broken
+stair-rail.
+
+“What do you think I am?” she answered, showing him her face again.
+
+He looked upon the ruined Temple of God, so lately made, so soon
+disfigured; and something, which was not compassion—for the springs in
+which a true compassion for such miseries has its rise, were dried up in
+his breast—but which was nearer to it, for the moment, than any feeling
+that had lately struggled into the darkening, but not yet wholly
+darkened, [[Night|night]] of his mind—mingled a touch of softness with his next
+words.
 
 “I am come here to give relief, if I can,” he said. “Are you thinking of
 any wrong?”
@@ -113,43 +155,3 @@ merciful and beautifying.
 
 “My son George, Mr. Redlaw,” said the old man, wringing his hands. “My
 eldest son, George, who was more his mother’s [[Pride|pride]] than all the rest!”
-
-Redlaw’s eyes wandered from the old man’s grey head, as he laid it down
-upon the bed, to the person who had recognised him, and who had kept
-aloof, in the remotest corner of the room. He seemed to be about his own
-age; and although he knew no such hopeless [[Decay|decay]] and broken man as he
-appeared to be, there was something in the turn of his figure, as he
-stood with his back towards him, and now went out at the door, that made
-him pass his hand uneasily across his brow.
-
-“William,” he said in a gloomy whisper, “who is that man?”
-
-“Why you see, sir,” returned Mr. William, “that’s what I say, myself.
-Why should a man ever go and gamble, and the like of that, and let
-himself down inch by inch till he can’t let himself down any lower!”
-
-“Has _he_ done so?” asked Redlaw, glancing after him with the same uneasy
-action as before.
-
-“Just exactly that, sir,” returned [[William Swidger]], “as I’m told. He
-knows a little about medicine, sir, it seems; and having been wayfaring
-towards [[London]] with my unhappy brother that you see here,” Mr. William
-passed his coat-sleeve across his eyes, “and being lodging up stairs for
-the [[Night|night]]—what I say, you see, is that strange companions come together
-here sometimes—he looked in to attend upon him, and came for us at his
-request. What a mournful spectacle, sir! But that’s where it is. It’s
-enough to kill my father!”
-
-Redlaw looked up, at these words, and, recalling where he was and with
-whom, and the spell he carried with him—which his surprise had
-obscured—retired a little, hurriedly, debating with himself whether to
-shun the [[house]] that moment, or remain.
-
-Yielding to a certain sullen doggedness, which it seemed to be a part of
-his condition to struggle with, he argued for remaining.
-
-“Was it only yesterday,” he said, “when I observed the [[Memory|memory]] of this old
-man to be a tissue of sorrow and trouble, and shall I be afraid,
-to-[[Night|night]], to shake it? Are such remembrances as I can drive away, so
-precious to this dying man that I need [[Fear|fear]] for _him_? No! I’ll stay
-here.”

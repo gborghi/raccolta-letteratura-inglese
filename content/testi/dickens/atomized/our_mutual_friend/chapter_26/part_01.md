@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 2 (part 1)"
+title: "Our Mutual Friend — Chapter 4 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,174 +10,137 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_25_the_streets_being_for_pupils_o/part_07">‹ part 07</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_26/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_25/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_26/part_02">part 02 ›</a></div>
 </nav>
 
 
-Chapter 2
+Chapter 4
 
-STILL EDUCATIONAL
+CUPID PROMPTED
 
 
-The person of the [[house]], doll’s dressmaker and manufacturer of
-ornamental pincushions and pen-wipers, sat in her quaint little low
-arm-chair, singing in the dark, until Lizzie came back. The person
-of the [[house]] had attained that dignity while yet of very tender years
-indeed, through being the only trustworthy person IN the [[house]].
+To use the cold language of the world, Mrs Alfred Lammle rapidly
+improved the acquaintance of Miss Podsnap. To use the warm language of
+Mrs Lammle, she and her sweet Georgiana soon became one: in heart, in
+mind, in sentiment, in [[Soul|soul]].
 
-‘[[Well]] Lizzie-Mizzie-Wizzie,’ said she, breaking off in her [[Song|song]], ‘what’s
-the news out of doors?’
+Whenever Georgiana could escape from the thraldom of Podsnappery; could
+throw off the bedclothes of the custard-coloured phaeton, and get up;
+could shrink out of the range of her mother’s rocking, and (so to speak)
+rescue her poor little frosty toes from being rocked over; she repaired
+to her friend, Mrs Alfred Lammle. Mrs Podsnap by no means objected. As
+a consciously ‘splendid woman,’ accustomed to overhear herself so
+denominated by elderly osteologists pursuing their studies in dinner
+society, Mrs Podsnap could dispense with her daughter. Mr Podsnap, for
+his part, on being informed where Georgiana was, swelled with patronage
+of the Lammles. That they, when unable to lay hold of him, should
+respectfully grasp at the hem of his mantle; that they, when they could
+not bask in the glory of him the sun, should take up with the pale
+reflected light of the watery young [[Moon|moon]] his daughter; appeared quite
+natural, becoming, and proper. It gave him a better opinion of the
+discretion of the Lammles than he had heretofore held, as showing that
+they appreciated the value of the connexion. So, Georgiana repairing
+to her friend, Mr Podsnap went out to dinner, and to dinner, and yet to
+dinner, arm in arm with Mrs Podsnap: settling his obstinate head in his
+cravat and shirt-collar, much as if he were performing on the Pandean
+pipes, in his own [[Honour|honour]], the triumphal march, See the conquering
+Podsnap comes, Sound the trumpets, beat the drums!
 
-‘What’s the news in doors?’ returned Lizzie, playfully smoothing the
-bright long fair hair which grew very luxuriant and beautiful on the
-head of the doll’s dressmaker.
+It was a trait in Mr Podsnap’s character (and in one form or other
+it will be generally seen to pervade the depths and shallows of
+Podsnappery), that he could not endure a hint of disparagement of any
+friend or acquaintance of his. ‘How dare you?’ he would seem to say, in
+such a case. ‘What do you mean? I have licensed this person. This person
+has taken out MY certificate. Through this person you strike at me,
+Podsnap the Great. And it is not that I particularly care for the
+person’s dignity, but that I do most particularly care for Podsnap’s.’
+Hence, if any one in his presence had presumed to [[Doubt|doubt]] the
+responsibility of the Lammles, he would have been mightily huffed. Not
+that any one did, for Veneering, M.P., was always the authority for
+their being very rich, and perhaps believed it. As indeed he might, if
+he chose, for anything he knew of the matter.
 
-‘Let me see, said the blind man. Why the last news is, that I don’t mean
-to marry your brother.’
+Mr and Mrs Lammle’s [[house]] in Sackville Street, Piccadilly, was but
+a temporary residence. It has done [[Well|well]] enough, they informed their
+friends, for Mr Lammle when a bachelor, but it would not do now. So,
+they were always looking at palatial residences in the best situations,
+and always very nearly taking or buying one, but never quite concluding
+the bargain. Hereby they made for themselves a shining little reputation
+apart. People said, on seeing a vacant palatial residence, ‘The very
+thing for the Lammles!’ and wrote to the Lammles about it, and the
+Lammles always went to look at it, but unfortunately it never exactly
+answered. In short, they suffered so many disappointments, that they
+began to think it would be necessary to build a palatial residence.
+And hereby they made another shining reputation; many persons of their
+acquaintance becoming by anticipation dissatisfied with their own
+houses, and envious of the non-existent Lammle structure.
 
-‘No?’
+The handsome fittings and furnishings of the [[house]] in Sackville Street
+were piled thick and high over the [[skeleton]] up-stairs, and if it ever
+whispered from under its load of upholstery, ‘Here I am in the closet!’
+it was to very few ears, and certainly never to Miss Podsnap’s. What
+Miss Podsnap was particularly charmed with, next to the graces of
+her friend, was the happiness of her friend’s married life. This was
+frequently their theme of conversation.
 
-‘No-o,’ shaking her head and her chin. ‘Don’t like the boy.’
+‘I am sure,’ said Miss Podsnap, ‘Mr Lammle is like a [[Lover|lover]]. At least
+I—I should think he was.’
 
-‘What do you say to his master?’
+‘Georgiana, darling!’ said Mrs Lammle, holding up a forefinger, ‘Take
+care!’
 
-‘I say that I think he’s bespoke.’
+‘Oh my goodness me!’ exclaimed Miss Podsnap, reddening. ‘What have I
+said now?’
 
-Lizzie finished putting the hair carefully back over the misshapen
-shoulders, and then lighted a candle. It showed the little parlour to
-be dingy, but orderly and clean. She stood it on the mantelshelf, remote
-from the dressmaker’s eyes, and then put the room door open, and the
-[[house]] door open, and turned the little low chair and its occupant
-towards the outer air. It was a sultry [[Night|night]], and this was a
-fine-weather arrangement when the day’s work was done. To complete
-it, she seated herself in a chair by the side of the little chair, and
-protectingly drew under her arm the spare hand that crept up to her.
+‘Alfred, you know,’ hinted Mrs Lammle, playfully shaking her head. ‘You
+were never to say Mr Lammle any more, Georgiana.’
 
-‘This is what your loving [[Jenny Wren]] calls the best [[Time|time]] in the day and
-[[Night|night]],’ said the person of the [[house]]. Her real name was Fanny Cleaver;
-but she had long ago chosen to bestow upon herself the appellation of
-Miss [[Jenny Wren]].
+‘Oh! Alfred, then. I am glad it’s no worse. I was afraid I had said
+something shocking. I am always saying something wrong to ma.’
 
-‘I have been thinking,’ Jenny went on, ‘as I sat at work to-day, what
-a thing it would be, if I should be able to have your company till I am
-married, or at least courted. Because when I am courted, I shall make
-Him do some of the things that you do for me. He couldn’t brush my hair
-like you do, or help me up and down stairs like you do, and he couldn’t
-do anything like you do; but he could take my work [[Home|home]], and he could
-call for orders in his clumsy way. And he shall too. I’LL trot him
-about, I can tell him!’
+‘To me, Georgiana dearest?’
 
-[[Jenny Wren]] had her personal vanities—happily for her—and no intentions
-were stronger in her breast than the various trials and torments that
-were, in the fulness of [[Time|time]], to be inflicted upon ‘him.’
+‘No, not to you; you are not ma. I wish you were.’
 
-‘Wherever he may happen to be just at present, or whoever he may happen
-to be,’ said Miss Wren, ‘I know his tricks and his manners, and I give
-him warning to look out.’
+Mrs Lammle bestowed a sweet and loving smile upon her friend, which Miss
+Podsnap returned as she best could. They sat at lunch in Mrs Lammle’s
+own boudoir.
 
-‘Don’t you think you are rather hard upon him?’ asked her friend,
-smiling, and smoothing her hair.
+‘And so, dearest Georgiana, Alfred is like your notion of a [[Lover|lover]]?’
 
-‘Not a bit,’ replied the sage Miss Wren, with an air of vast experience.
-‘My dear, they don’t care for you, those fellows, if you’re NOT hard
-upon ’em. But I was saying If I should be able to have your company. Ah!
-What a large If! Ain’t it?’
+‘I don’t say that, Sophronia,’ Georgiana replied, beginning to conceal
+her elbows. ‘I haven’t any notion of a [[Lover|lover]]. The dreadful wretches that
+ma brings up at places to torment me, are not [[lovers]]. I only mean that
+Mr—’
 
-‘I have no intention of parting company, Jenny.’
+‘Again, dearest Georgiana?’
 
-‘Don’t say that, or you’ll go directly.’
+‘That Alfred—’
 
-‘Am I so little to be relied upon?’
+‘Sounds much better, darling.’
 
-‘You’re more to be relied upon than silver and gold.’ As she said it,
-Miss Wren suddenly broke off, screwed up her eyes and her chin, and
-looked prodigiously knowing. ‘Aha!
+‘—Loves you so. He always treats you with such delicate gallantry and
+attention. Now, don’t he?’
 
-     Who comes here?
-     A Grenadier.
-     What does he want?
-     A pot of beer.
+‘Truly, my dear,’ said Mrs Lammle, with a rather singular expression
+crossing her face. ‘I believe that he loves me, fully as much as I [[Love|love]]
+him.’
 
-And nothing else in the world, my dear!’
+‘Oh, what happiness!’ exclaimed Miss Podsnap.
 
-A man’s figure paused on the pavement at the outer door. ‘Mr Eugene
-Wrayburn, ain’t it?’ said Miss Wren.
+‘But do you know, my Georgiana,’ Mrs Lammle resumed presently, ‘that
+there is something suspicious in your enthusiastic sympathy with
+Alfred’s tenderness?’
 
-‘So I am told,’ was the answer.
+‘Good gracious no, I [[Hope|hope]] not!’
 
-‘You may come in, if you’re good.’
+‘Doesn’t it rather suggest,’ said Mrs Lammle archly, ‘that my
+Georgiana’s little heart is—’
 
-‘I am not good,’ said Eugene, ‘but I’ll come in.’
+‘Oh don’t!’ Miss Podsnap blushingly besought her. ‘Please don’t! I
+assure you, Sophronia, that I only praise Alfred, because he is your
+husband and so fond of you.’
 
-He gave his hand to [[Jenny Wren]], and he gave his hand to Lizzie, and he
-stood leaning by the door at Lizzie’s side. He had been strolling with
-his cigar, he said, (it was smoked out and gone by this [[Time|time]],) and he
-had strolled round to return in that direction that he might look in as
-he passed. Had she not seen her brother to-[[Night|night]]?
-
-‘Yes,’ said Lizzie, whose manner was a little troubled.
-
-Gracious condescension on our brother’s part! Mr [[Eugene Wrayburn]] thought
-he had passed my young gentleman on the bridge yonder. Who was his
-friend with him?
-
-‘The schoolmaster.’
-
-‘To be sure. Looked like it.’
-
-Lizzie sat so still, that one could not have said wherein the fact of
-her manner being troubled was expressed; and yet one could not have
-doubted it. Eugene was as easy as ever; but perhaps, as she sat with
-her eyes cast down, it might have been rather more perceptible that
-his attention was concentrated upon her for certain moments, than its
-concentration upon any subject for any short [[Time|time]] ever was, elsewhere.
-
-‘I have nothing to report, Lizzie,’ said Eugene. ‘But, having promised
-you that an eye should be always kept on Mr Riderhood through my friend
-Lightwood, I like occasionally to renew my assurance that I keep my
-promise, and keep my friend up to the mark.’
-
-‘I should not have doubted it, sir.’
-
-‘Generally, I confess myself a man to be doubted,’ returned Eugene,
-coolly, ‘for all that.’
-
-‘Why are you?’ asked the sharp Miss Wren.
-
-‘Because, my dear,’ said the airy Eugene, ‘I am a bad idle dog.’
-
-‘Then why don’t you [[Reform|reform]] and be a good dog?’ inquired Miss Wren.
-
-‘Because, my dear,’ returned Eugene, ‘there’s nobody who makes it worth
-my while. Have you considered my suggestion, Lizzie?’ This in a lower
-voice, but only as if it were a graver matter; not at all to the
-exclusion of the person of the [[house]].
-
-‘I have thought of it, Mr Wrayburn, but I have not been able to make up
-my mind to accept it.’
-
-‘False [[Pride|pride]]!’ said Eugene.
-
-‘I think not, Mr Wrayburn. I [[Hope|hope]] not.’
-
-‘False [[Pride|pride]]!’ repeated Eugene. ‘Why, what else is it? The thing is
-worth nothing in itself. The thing is worth nothing to me. What can it
-be worth to me? You know the most I make of it. I propose to be of some
-use to somebody—which I never was in this world, and never shall be on
-any other occasion—by paying some qualified person of your own sex and
-age, so many (or rather so few) contemptible shillings, to come here,
-certain nights in the week, and give you certain instruction which you
-wouldn’t want if you hadn’t been a [[Self|self]]-denying daughter and sister.
-You know that it’s good to have it, or you would never have so devoted
-yourself to your brother’s having it. Then why not have it: especially
-when our friend Miss Jenny here would profit by it too? If I proposed to
-be the teacher, or to attend the lessons—obviously incongruous!—but
-as to that, I might as [[Well|well]] be on the other side of the globe, or not
-on the globe at all. False [[Pride|pride]], Lizzie. Because true [[Pride|pride]] wouldn’t
-shame, or be shamed by, your thankless brother. True [[Pride|pride]] wouldn’t have
-schoolmasters brought here, like doctors, to look at a bad case. True
-[[Pride|pride]] would go to work and do it. You know that, [[Well|well]] enough, for you
-know that your own true [[Pride|pride]] would do it to-morrow, if you had the ways
-and means which false [[Pride|pride]] won’t let me supply. Very [[Well|well]]. I add no
-more than this. Your false [[Pride|pride]] does wrong to yourself and does wrong
-to your dead father.’
+Sophronia’s glance was as if a rather new light broke in upon her. It
+shaded off into a cool smile, as she said, with her eyes upon her lunch,
+and her eyebrows raised:

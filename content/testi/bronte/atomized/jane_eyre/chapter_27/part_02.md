@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 27 (part 2)"
+title: "Jane Eyre — Chapter 27 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -121,6 +121,3 @@ silk has run smoothly enough so far; but I always knew there would come
 a knot and a puzzle: here it is. Now for vexation, and exasperation,
 and endless trouble! By God! I long to exert a fraction of Samson’s
 strength, and break the entanglement like tow!”
-
-He recommenced his walk, but soon again stopped, and this [[Time|time]] just
-before me.

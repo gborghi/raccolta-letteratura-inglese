@@ -14,6 +14,14 @@ tags:
 </nav>
 
 
+      gloomily revolving over our lamentable condition, there flashed
+
+      through my mind all at once an idea which inspired me with a
+
+      bright gleam of [[Hope|hope]]. I remembered that, when the foremast had
+
+      been cut away, Peters, being in the windward [[Chains|chains]], passed one
+
       of the axes into my hand, requesting me to put it, if possible,
 
       in a place of security, and that a few minutes before the last
@@ -189,15 +197,3 @@ tags:
       every respect, in as good order at the expiration of the [[Time|time]] as
 
       when they were first put in. In one particular these
-
-      extraordinary [[Animals|animals]] bear a resemblance to the dromedary, or
-
-      camel of the [[Desert|desert]]. In a bag at the root of the neck they carry
-
-      with them a constant supply of [[Water|water]]. In some instances, upon
-
-      killing them after a full year’s deprivation of all nourishment,
-
-      as much as three gallons of perfectly sweet and fresh [[Water|water]] have
-
-      been found in their bags. Their food is chiefly wild parsley and

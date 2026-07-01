@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 2 (part 6)"
+title: "Shirley — Chapter 2 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,50 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_02/part_05">‹ part 05</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_03/part_01">part 01 ›</a></div>
 </nav>
 
+
+be a folded paper--a billet. It bore no address without; within was the
+
+superscription:--
+
+
+
+"To the Divil of Hollow's Miln."
+
+
+
+We will not copy the rest of the orthography, which was very peculiar,
+
+but translate it into legible English. It ran thus:--
+
+
+
+"Your hellish machinery is shivered to smash on Stilbro' Moor, and your
+
+men are lying bound hand and foot in a ditch by the roadside. Take this
+
+as a warning from men that are starving, and have starving wives and
+
+children to go [[Home|home]] to when they have done this deed. If you get new
+
+machines, or if you otherwise go on as you have done, you shall hear
+
+from us again. Beware!"
+
+
+
+"Hear from you again? Yes, I'll hear from you again, and you shall hear
+
+from me. I'll speak to you directly. On Stilbro' Moor you shall hear
+
+from me in a moment."
+
+
+
+Having led the wagons within the gates, he hastened towards the cottage.
+
+Opening the door, he spoke a few words quickly but quietly to two
+
+females who ran to meet him in the passage. He calmed the seeming alarm
 
 of one by a brief palliative account of what had taken place; to the
 

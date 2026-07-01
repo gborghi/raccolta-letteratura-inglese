@@ -14,6 +14,22 @@ tags:
 </nav>
 
 
+The girl's lip trembled.
+
+"Poor old Hump!" she said.  "Why, I'd forgotten
+about him.  He must be very nearly as worried as I
+am!  I [[Hope|hope]] this man won't be too silly about this!
+I'd rather it weren't about this!"
+
+"And Mr. Pumph to-old me the inn was named by
+a vary intimate friend of his, an Irishman who had
+been a Captain in the Britannic Royal Navy, but had
+resigned his po-ost in anger at the treatment of
+Ireland.  Though quitting the service, he retained joost
+enough of the superstition of your western sailors, to
+wish his friend's inn to be named after his old [[Ship|ship]].
+But as the name of the [[Ship|ship]] was 'The United Kingdom--'"
+
 His female pupil, if she could not exactly be said
 to be sitting at his feet, was undoubtedly leaning out
 very eagerly above his head.  Amid the [[Solitude|solitude]] of

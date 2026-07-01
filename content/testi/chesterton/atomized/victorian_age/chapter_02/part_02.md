@@ -14,6 +14,14 @@ tags:
 </nav>
 
 
+other a [[vegetarian]] who desired the abolition of chickens on both farms:
+
+and it is at once apparent that a quarrel of quite a different kind
+
+would begin; and that in that quarrel it would not be a question of
+
+farmer against farmer, but of individual against individual. This
+
 fundamental sense of human fraternity can only exist in the presence of
 
 positive religion. Man is merely man only when he is seen against the
@@ -33,8 +41,6 @@ Victorian [[Time|time]]) the differences between human beings become
 overpoweringly plain; whether they are expressed in the high caricatures
 
 of Dickens or the low lunacies of Zola.
-
-
 
 This can be seen in a sort of picture in the Prologue of the _Canterbury
 
@@ -80,8 +86,6 @@ d'Ivry and Warrington and Captain Blackball and Lady Kew travel,
 
 laughing and telling tales together?
 
-
-
 The growth of the [[Novel|novel]], therefore, must not be too easily called an
 
 increase in the interest in humanity. It is an increase in the interest
@@ -107,8 +111,6 @@ unquestionable benefit than these: and in that development women played
 a peculiar part, English women especially, and Victorian women most of
 
 all.
-
-
 
 It is perhaps partly, though certainly not entirely, this influence of
 
@@ -179,17 +181,3 @@ compromise, they have in the long run worked for impurity rather than
 purity. In one point I do certainly think that Victorian Bowdlerism did
 
 pure harm. This is the simple point that, nine times out of ten, the
-
-coarse word is the word that condemns an evil and the refined word the
-
-word that excuses it. A common evasion, for instance, substitutes for
-
-the word that brands [[Self|self]]-sale as the essential sin, a word which weakly
-
-suggests that it is no more wicked than walking down the street. The
-
-great peril of such soft mystifications is that extreme evils (they
-
-that are abnormal even by the standard of evil) have a very long start.
-
-Where ordinary wrong is made unintelligible, extraordinary wrong can

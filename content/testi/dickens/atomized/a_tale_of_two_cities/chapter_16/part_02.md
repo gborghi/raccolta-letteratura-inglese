@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities — Chapter 9 (part 2)"
+title: "A Tale of Two Cities — Chapter 10 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-tale-of-two-cities-(dickens)"
@@ -14,134 +14,129 @@ tags:
 </nav>
 
 
-“But, however that may be,” resumed the nephew, glancing at him with
-deep distrust, “I know that your diplomacy would stop me by any means,
-and would know no scruple as to means.”
+The Doctor sat with his face turned away, and his eyes bent on the
+ground. At the last words, he stretched out his hand again, hurriedly,
+and cried:
 
-“My friend, I told you so,” said the uncle, with a fine pulsation in the
-two marks. “Do me the favour to recall that I told you so, long ago.”
+“Not that, sir! Let that be! I adjure you, do not recall that!”
 
-“I recall it.”
+His cry was so like a cry of actual [[Pain|pain]], that it rang in Charles
+Darnay’s ears long after he had ceased. He motioned with the hand he had
+extended, and it seemed to be an appeal to Darnay to pause. The latter
+so received it, and remained silent.
 
-“Thank you,” said the Marquis--very sweetly indeed.
+“I ask your pardon,” said the Doctor, in a subdued tone, after some
+moments. “I do not [[Doubt|doubt]] your loving Lucie; you may be satisfied of it.”
 
-His tone lingered in the air, almost like the tone of a musical
-instrument.
+He turned towards him in his chair, but did not look at him, or
+raise his eyes. His chin dropped upon his hand, and his white hair
+overshadowed his face:
 
-“In effect, sir,” pursued the nephew, “I believe it to be at once your
-bad fortune, and my good fortune, that has kept me out of a [[Prison|prison]] in
-France here.”
+“Have you spoken to Lucie?”
 
-“I do not quite understand,” returned the uncle, sipping his coffee.
-“Dare I ask you to explain?”
+“No.”
 
-“I believe that if you were not in disgrace with the [[Court]], and had not
-been overshadowed by that cloud for years past, a letter de cachet would
-have sent me to some fortress indefinitely.”
+“Nor written?”
 
-“It is possible,” said the uncle, with great calmness. “For the [[Honour|honour]]
-of the family, I could even resolve to incommode you to that extent.
-Pray excuse me!”
+“Never.”
 
-“I perceive that, happily for me, the Reception of the day before
-yesterday was, as usual, a cold one,” observed the nephew.
+“It would be ungenerous to affect not to know that your [[Self|self]]-denial is
+to be referred to your consideration for her father. Her father thanks
+you.”
 
-“I would not say happily, my friend,” returned the uncle, with refined
-politeness; “I would not be sure of that. A good opportunity for
-consideration, surrounded by the advantages of [[Solitude|solitude]], might influence
-your destiny to far greater advantage than you influence it for
-yourself. But it is useless to discuss the question. I am, as you say,
-at a disadvantage. These little instruments of correction, these gentle
-aids to the power and [[Honour|honour]] of families, these slight favours that
-might so incommode you, are only to be obtained now by interest
-and importunity. They are sought by so many, and they are granted
-(comparatively) to so few! It used not to be so, but France in all such
-things is changed for the worse. Our not remote ancestors held the right
-of life and [[Death|death]] over the surrounding vulgar. From this room, many such
-[[dogs]] have been taken out to be hanged; in the next room (my bedroom),
-one fellow, to our knowledge, was poniarded on the spot for professing
-some insolent delicacy respecting his daughter--_his_ daughter? We have
-lost many privileges; a new [[philosophy]] has become the mode; and the
-assertion of our station, in these days, might (I do not go so far as
-to say would, but might) cause us real inconvenience. All very bad, very
-bad!”
+He offered his hand; but his eyes did not go with it.
 
-The Marquis took a gentle little pinch of snuff, and shook his head;
-as elegantly despondent as he could becomingly be of a country still
-containing himself, that great means of [[Regeneration|regeneration]].
+“I know,” said Darnay, respectfully, “how can I fail to know, Doctor
+Manette, I who have seen you together from day to day, that between
+you and Miss Manette there is an affection so unusual, so touching, so
+belonging to the circumstances in which it has been nurtured, that it
+can have few parallels, even in the tenderness between a father and
+[[Child|child]]. I know, [[Doctor Manette]]--how can I fail to know--that, mingled
+with the affection and duty of a daughter who has become a woman, there
+is, in her heart, towards you, all the [[Love|love]] and reliance of infancy
+itself. I know that, as in her [[Childhood|childhood]] she had no parent, so she is
+now devoted to you with all the constancy and fervour of her present
+years and character, united to the trustfulness and attachment of the
+early days in which you were lost to her. I know perfectly [[Well|well]] that if
+you had been restored to her from the world beyond this life, you could
+hardly be invested, in her sight, with a more sacred character than that
+in which you are always with her. I know that when she is clinging to
+you, the hands of baby, girl, and woman, all in one, are round your
+neck. I know that in loving you she sees and loves her mother at her
+own age, sees and loves you at my age, loves her mother broken-hearted,
+loves you through your dreadful trial and in your blessed restoration. I
+have known this, [[Night|night]] and day, since I have known you in your [[Home|home]].”
 
-“We have so asserted our station, both in the old [[Time|time]] and in the modern
-[[Time|time]] also,” said the nephew, gloomily, “that I believe our name to be
-more detested than any name in France.”
+Her father sat silent, with his face bent down. His breathing was a
+little quickened; but he repressed all other signs of agitation.
 
-“Let us [[Hope|hope]] so,” said the uncle. “Detestation of the high is the
-involuntary homage of the low.”
+“Dear [[Doctor Manette]], always knowing this, always seeing her and you
+with this hallowed light about you, I have forborne, and forborne, as
+long as it was in the [[Nature|nature]] of man to do it. I have felt, and do even
+now feel, that to bring my [[Love|love]]--even mine--between you, is to touch
+your [[history]] with something not quite so good as itself. But I [[Love|love]] her.
+Heaven is my witness that I [[Love|love]] her!”
 
-“There is not,” pursued the nephew, in his former tone, “a face I can
-look at, in all this country round about us, which looks at me with any
-deference on it but the dark deference of [[Fear|fear]] and [[Slavery|slavery]].”
+“I believe it,” answered her father, mournfully. “I have thought so
+before now. I believe it.”
 
-“A compliment,” said the Marquis, “to the grandeur of the family,
-merited by the manner in which the family has sustained its grandeur.
-Hah!” And he took another gentle little pinch of snuff, and lightly
-crossed his legs.
+“But, do not believe,” said Darnay, upon whose ear the mournful voice
+struck with a reproachful sound, “that if my fortune were so cast as
+that, being one day so happy as to make her my wife, I must at any [[Time|time]]
+put any separation between her and you, I could or would breathe a
+word of what I now say. Besides that I should know it to be hopeless, I
+should know it to be a baseness. If I had any such possibility, even at
+a remote distance of years, harboured in my thoughts, and hidden in my
+heart--if it ever had been there--if it ever could be there--I could not
+now touch this honoured hand.”
 
-But, when his nephew, leaning an elbow on the table, covered his eyes
-thoughtfully and dejectedly with his hand, the fine mask looked at
-him sideways with a stronger concentration of keenness, closeness,
-and dislike, than was comportable with its wearer’s assumption of
-indifference.
+He laid his own upon it as he spoke.
 
-“Repression is the only lasting [[philosophy]]. The dark deference of [[Fear|fear]]
-and [[Slavery|slavery]], my friend,” observed the Marquis, “will keep the [[dogs]]
-obedient to the whip, as long as this roof,” looking up to it, “shuts
-out the sky.”
+“No, dear [[Doctor Manette]]. Like you, a voluntary [[Exile|exile]] from France; like
+you, driven from it by its distractions, oppressions, and miseries; like
+you, striving to live away from it by my own exertions, and trusting
+in a happier future; I look only to sharing your fortunes, sharing your
+life and [[Home|home]], and being faithful to you to the [[Death|death]]. Not to divide
+with Lucie her privilege as your [[Child|child]], companion, and friend; but to
+come in aid of it, and bind her closer to you, if such a thing can be.”
 
-That might not be so long as the Marquis supposed. If a picture of the
-chateau as it was to be a very few years hence, and of fifty like it as
-they too were to be a very few years hence, could have been shown to
-him that [[Night|night]], he might have been at a loss to claim his own from
-the ghastly, [[Fire|fire]]-charred, plunder-wrecked rains. As for the roof
-he vaunted, he might have found _that_ shutting out the sky in a new
-way--to wit, for ever, from the eyes of the bodies into which its lead
-was fired, out of the barrels of a hundred thousand muskets.
+His touch still lingered on her father’s hand. Answering the touch for a
+moment, but not coldly, her father rested his hands upon the arms of
+his chair, and looked up for the first [[Time|time]] since the beginning of the
+conference. A struggle was evidently in his face; a struggle with that
+occasional look which had a tendency in it to dark [[Doubt|doubt]] and dread.
 
-“Meanwhile,” said the Marquis, “I will preserve the [[Honour|honour]] and repose
-of the family, if you will not. But you must be fatigued. Shall we
-terminate our conference for the [[Night|night]]?”
+“You speak so feelingly and so manfully, [[Charles Darnay]], that I thank
+you with all my heart, and will open all my heart--or nearly so. Have
+you any reason to believe that Lucie loves you?”
 
-“A moment more.”
+“None. As yet, none.”
 
-“An hour, if you please.”
+“Is it the immediate object of this confidence, that you may at once
+ascertain that, with my knowledge?”
 
-“Sir,” said the nephew, “we have done wrong, and are reaping the fruits
-of wrong.”
+“Not even so. I might not have the hopefulness to do it for weeks; I
+might (mistaken or not mistaken) have that hopefulness to-morrow.”
 
-“_We_ have done wrong?” repeated the Marquis, with an inquiring smile,
-and delicately pointing, first to his nephew, then to himself.
+“Do you seek any guidance from me?”
 
-“Our family; our honourable family, whose [[Honour|honour]] is of so much account
-to both of us, in such different ways. Even in my father’s [[Time|time]], we did
-a world of wrong, injuring every human creature who came between us and
-our pleasure, whatever it was. Why need I speak of my father’s [[Time|time]],
-when it is equally yours? Can I separate my father’s twin-brother, joint
-inheritor, and next successor, from himself?”
+“I ask none, sir. But I have thought it possible that you might have it
+in your power, if you should deem it right, to give me some.”
 
-“[[Death]] has done that!” said the Marquis.
+“Do you seek any promise from me?”
 
-“And has left me,” answered the nephew, “bound to a system that is
-frightful to me, responsible for it, but powerless in it; seeking to
-execute the last request of my dear mother’s lips, and obey the last
-look of my dear mother’s eyes, which implored me to have [[Mercy|mercy]] and to
-redress; and tortured by seeking assistance and power in vain.”
+“I do seek that.”
 
-“Seeking them from me, my nephew,” said the Marquis, touching him on the
-breast with his forefinger--they were now standing by the hearth--“you
-will for ever seek them in vain, be assured.”
+“What is it?”
 
-Every fine straight line in the clear whiteness of his face, was
-cruelly, craftily, and closely compressed, while he stood looking
-quietly at his nephew, with his snuff-box in his hand. Once again he
-touched him on the breast, as though his finger were the fine point of
-a small [[Sword|sword]], with which, in delicate finesse, he ran him through the
-[[Body|body]], and said,
+“I [[Well|well]] understand that, without you, I could have no [[Hope|hope]]. I [[Well|well]]
+understand that, even if Miss Manette held me at this moment in her
+[[Innocent|innocent]] heart--do not think I have the presumption to assume so much--I
+could retain no place in it against her [[Love|love]] for her father.”
+
+“If that be so, do you see what, on the other hand, is involved in it?”
+
+“I understand equally [[Well|well]], that a word from her father in any suitor’s
+favour, would outweigh herself and all the world. For which reason,
+[[Doctor Manette]],” said Darnay, modestly but firmly, “I would not ask that
+word, to save my life.”

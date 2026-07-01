@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]] — Concluding Remarks on the Importance of Orthodoxy (part 1)"
+title: "heret12 — Concluding Remarks on the Importance of Orthodoxy (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/heret12-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 XX.  Concluding Remarks on the Importance of Orthodoxy
-
 
 Whether the human mind can advance or not, is a question too
 little discussed, for nothing can be more dangerous than to found
@@ -100,10 +99,10 @@ to preach Socialism.  All the art of all the artists looked tiny
 and tedious beside the art which was a byproduct of propaganda.
 
 The reason, indeed, is very simple.  A man cannot be wise enough to be
-a great [[artist]] without being wise enough to wish to be a philosopher.
+a great [[Artist|artist]] without being wise enough to wish to be a philosopher.
 A man cannot have the energy to produce good art without having
-the energy to wish to pass beyond it.  A small [[artist]] is content
-with art; a great [[artist]] is content with nothing except everything.
+the energy to wish to pass beyond it.  A small [[Artist|artist]] is content
+with art; a great [[Artist|artist]] is content with nothing except everything.
 So we find that when real forces, good or bad, like Kipling and
 G. B. S., enter our arena, they bring with them not only startling
 and arresting art, but very startling and arresting dogmas.  And they

@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities — Chapter 22"
+title: "A Tale of Two Cities — Chapter 23"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/a-tale-of-two-cities-(dickens)"
@@ -14,217 +14,290 @@ tags:
 </nav>
 
 
-CHAPTER XXII.
-The Sea Still Rises
+CHAPTER XXIII.
+[[Fire]] Rises
 
 
-Haggard Saint Antoine had had only one exultant week, in which to soften
-his modicum of hard and bitter bread to such extent as he could, with
-the relish of fraternal embraces and congratulations, when Madame
-Defarge sat at her counter, as usual, presiding over the customers.
-[[Madame Defarge]] wore no [[Rose|rose]] in her head, for the great brotherhood of
-Spies had become, even in one short week, extremely chary of trusting
-themselves to the saint’s mercies. The lamps across his streets had a
-portentously elastic swing with them.
+There was a change on the village where the fountain fell, and where
+the mender of roads went forth daily to hammer out of the stones on the
+highway such morsels of bread as might serve for patches to hold his
+poor ignorant [[Soul|soul]] and his poor reduced [[Body|body]] together. The [[Prison|prison]] on the
+crag was not so dominant as of yore; there were soldiers to guard it,
+but not many; there were officers to guard the soldiers, but not one of
+them knew what his men would do--beyond this: that it would probably not
+be what he was ordered.
 
-[[Madame Defarge]], with her arms folded, sat in the morning light and heat,
-contemplating the wine-shop and the street. In both, there were several
-knots of loungers, squalid and miserable, but now with a manifest sense
-of power enthroned on their distress. The raggedest nightcap, awry on
-the wretchedest head, had this crooked significance in it: “I know how
-hard it has grown for me, the wearer of this, to support life in myself;
-but do you know how easy it has grown for me, the wearer of this, to
-destroy life in you?” Every lean bare arm, that had been without work
-before, had this work always ready for it now, that it could strike.
-The fingers of the knitting women were vicious, with the experience that
-they could tear. There was a change in the appearance of Saint Antoine;
-the image had been hammering into this for hundreds of years, and the
-last finishing blows had told mightily on the expression.
+Far and wide lay a ruined country, yielding nothing but desolation.
+Every green leaf, every blade of grass and blade of grain, was as
+shrivelled and poor as the miserable people. Everything was bowed down,
+dejected, oppressed, and broken. Habitations, fences, domesticated
+[[Animals|animals]], men, women, children, and the soil that bore them--all worn
+out.
 
-[[Madame Defarge]] sat observing it, with such suppressed approval as was
-to be desired in the leader of the Saint Antoine women. One of her
-sisterhood knitted beside her. The short, rather plump wife of a starved
-[[grocer]], and the mother of two children withal, this lieutenant had
-already earned the complimentary name of The Vengeance.
+Monseigneur (often a most worthy individual gentleman) was a national
+blessing, gave a chivalrous tone to things, was a polite example of
+luxurious and shining life, and a great deal more to equal purpose;
+nevertheless, Monseigneur as a class had, somehow or other, brought
+things to this. Strange that Creation, designed expressly for
+Monseigneur, should be so soon wrung dry and squeezed out! There must
+be something short-sighted in the eternal arrangements, surely! Thus it
+was, however; and the last drop of [[Blood|blood]] having been extracted from the
+flints, and the last screw of the rack having been turned so often that
+its purchase crumbled, and it now turned and turned with nothing
+to bite, Monseigneur began to run away from a phenomenon so low and
+unaccountable.
 
-“Hark!” said The Vengeance. “Listen, then! Who comes?”
+But, this was not the change on the village, and on many a village like
+it. For scores of years gone by, Monseigneur had squeezed it and wrung
+it, and had seldom graced it with his presence except for the pleasures
+of the chase--now, found in hunting the people; now, found in hunting
+the beasts, for whose preservation Monseigneur made edifying spaces
+of barbarous and barren wilderness. No. The change consisted in
+the appearance of strange faces of low caste, rather than in the
+disappearance of the high caste, chiselled, and otherwise beautified and
+beautifying features of Monseigneur.
 
-As if a train of powder laid from the outermost bound of Saint Antoine
-Quarter to the wine-shop door, had been suddenly fired, a fast-spreading
-murmur came rushing along.
+For, in these times, as the mender of roads worked, solitary, in the
+[[Dust|dust]], not often troubling himself to reflect that [[Dust|dust]] he was and
+to [[Dust|dust]] he must return, being for the most part too much occupied in
+thinking how little he had for supper and how much more he would eat if
+he had it--in these times, as he raised his eyes from his lonely labour,
+and viewed the prospect, he would see some rough figure approaching on
+foot, the like of which was once a rarity in those parts, but was now
+a frequent presence. As it advanced, the mender of roads would discern
+without surprise, that it was a shaggy-haired man, of almost barbarian
+aspect, tall, in wooden shoes that were clumsy even to the eyes of a
+mender of roads, grim, rough, swart, steeped in the mud and [[Dust|dust]] of many
+highways, dank with the marshy moisture of many low grounds, sprinkled
+with the thorns and [[Leaves|leaves]] and moss of many byways through woods.
 
-“It is Defarge,” said madame. “[[Silence]], patriots!”
+Such a man came upon him, like a [[Ghost|ghost]], at [[Noon|noon]] in the July weather,
+as he sat on his heap of stones under a bank, taking such shelter as he
+could get from a shower of hail.
 
-Defarge came in breathless, pulled off a red cap he wore, and looked
-around him! “Listen, everywhere!” said madame again. “Listen to him!”
- Defarge stood, panting, against a background of eager eyes and open
-mouths, formed outside the door; all those within the wine-shop had
-sprung to their feet.
+The man looked at him, looked at the village in the hollow, at the mill,
+and at the [[Prison|prison]] on the crag. When he had identified these objects
+in what benighted mind he had, he said, in a dialect that was just
+intelligible:
 
-“Say then, my husband. What is it?”
+“How goes it, Jacques?”
 
-“News from the other world!”
+“All [[Well|well]], Jacques.”
 
-“How, then?” cried madame, contemptuously. “The other world?”
+“Touch then!”
 
-“Does everybody here recall old Foulon, who told the famished people
-that they might eat grass, and who died, and went to Hell?”
+They joined hands, and the man sat down on the heap of stones.
 
-“Everybody!” from all throats.
+“No dinner?”
 
-“The news is of him. He is among us!”
+“Nothing but supper now,” said the mender of roads, with a hungry face.
 
-“Among us!” from the universal throat again. “And dead?”
+“It is the fashion,” growled the man. “I meet no dinner anywhere.”
 
-“Not dead! He feared us so much--and with reason--that he caused himself
-to be represented as dead, and had a grand mock-funeral. But they have
-found him alive, hiding in the country, and have brought him in. I have
-seen him but now, on his way to the Hotel de Ville, a prisoner. I have
-said that he had reason to [[Fear|fear]] us. Say all! _Had_ he reason?”
+He took out a blackened pipe, filled it, lighted it with flint and
+steel, pulled at it until it was in a bright glow: then, suddenly held
+it from him and dropped something into it from between his finger and
+thumb, that blazed and went out in a puff of smoke.
 
-Wretched old sinner of more than threescore years and ten, if he had
-never known it yet, he would have known it in his heart of hearts if he
-could have heard the answering cry.
+“Touch then.” It was the turn of the mender of roads to say it this
+[[Time|time]], after observing these operations. They again joined hands.
 
-A moment of profound [[Silence|silence]] followed. Defarge and his wife looked
-steadfastly at one another. The Vengeance stooped, and the jar of a drum
-was heard as she moved it at her feet behind the counter.
+“To-[[Night|night]]?” said the mender of roads.
 
-“Patriots!” said Defarge, in a determined voice, “are we ready?”
+“To-[[Night|night]],” said the man, putting the pipe in his mouth.
 
-Instantly [[Madame Defarge]]’s knife was in her girdle; the drum was beating
-in the streets, as if it and a drummer had flown together by [[Magic|magic]]; and
-The Vengeance, uttering terrific shrieks, and flinging her arms about
-her head like all the forty Furies at once, was tearing from [[house]] to
-[[house]], rousing the women.
+“Where?”
 
-The men were terrible, in the bloody-minded anger with which they looked
-from windows, caught up what arms they had, and came pouring down into
-the streets; but, the women were a sight to chill the boldest. From
-such household occupations as their bare [[Poverty|poverty]] yielded, from their
-children, from their aged and their sick crouching on the bare ground
-famished and naked, they ran out with streaming hair, urging one
-another, and themselves, to [[Madness|madness]] with the wildest cries and actions.
-[[Villain]] Foulon taken, my sister! Old Foulon taken, my mother! Miscreant
-Foulon taken, my daughter! Then, a score of others ran into the midst of
-these, beating their breasts, tearing their hair, and screaming, Foulon
-alive! Foulon who told the starving people they might eat grass! Foulon
-who told my old father that he might eat grass, when I had no bread
-to give him! Foulon who told my baby it might suck grass, when these
-breasts were dry with want! O mother of God, this Foulon! O Heaven our
-[[Suffering|suffering]]! Hear me, my dead baby and my withered father: I swear on my
-knees, on these stones, to avenge you on Foulon! Husbands, and brothers,
-and young men, Give us the [[Blood|blood]] of Foulon, Give us the head of Foulon,
-Give us the heart of Foulon, Give us the [[Body|body]] and [[Soul|soul]] of Foulon, Rend
-Foulon to pieces, and dig him into the ground, that grass may grow from
-him! With these cries, numbers of the women, lashed into blind frenzy,
-whirled about, striking and tearing at their own friends until they
-dropped into a passionate swoon, and were only saved by the men
-belonging to them from being trampled under foot.
+“Here.”
 
-Nevertheless, not a moment was lost; not a moment! This Foulon was at
-the Hotel de Ville, and might be loosed. Never, if Saint Antoine knew
-his own sufferings, insults, and wrongs! Armed men and women flocked out
-of the Quarter so fast, and drew even these last dregs after them with
-such a force of suction, that within a quarter of an hour there was not
-a human creature in Saint Antoine’s bosom but a few old crones and the
-wailing children.
+He and the mender of roads sat on the heap of stones looking silently at
+one another, with the hail driving in between them like a pigmy charge
+of bayonets, until the sky began to clear over the village.
 
-No. They were all by that [[Time|time]] choking the Hall of Examination where
-this old man, ugly and wicked, was, and overflowing into the adjacent
-open space and streets. The Defarges, husband and wife, The Vengeance,
-and Jacques Three, were in the first press, and at no great distance
-from him in the Hall.
+“Show me!” said the traveller then, moving to the brow of the [[Hill|hill]].
 
-“See!” cried madame, pointing with her knife. “See the old [[Villain|villain]] bound
-with ropes. That was [[Well|well]] done to tie a bunch of grass upon his back.
-Ha, ha! That was [[Well|well]] done. Let him eat it now!” Madame put her knife
-under her arm, and clapped her hands as at a play.
+“See!” returned the mender of roads, with extended finger. “You go down
+here, and straight through the street, and past the fountain--”
 
-The people immediately behind [[Madame Defarge]], explaining the cause of
-her satisfaction to those behind them, and those again explaining to
-others, and those to others, the neighbouring streets resounded with the
-clapping of hands. Similarly, during two or three hours of drawl,
-and the winnowing of many bushels of words, [[Madame Defarge]]’s frequent
-expressions of impatience were taken up, with marvellous quickness, at
-a distance: the more readily, because certain men who had by some
-wonderful exercise of agility climbed up the external architecture
-to look in from the windows, knew [[Madame Defarge]] [[Well|well]], and acted as a
-telegraph between her and the crowd outside the building.
+“To the Devil with all that!” interrupted the other, [[rolling]] his eye
+over the landscape. “_I_ go through no streets and past no fountains.
+[[Well]]?”
 
-At length the sun [[Rose|rose]] so high that it struck a kindly ray as of [[Hope|hope]] or
-protection, directly down upon the old prisoner’s head. The favour was
-too much to bear; in an instant the barrier of [[Dust|dust]] and chaff that had
-stood surprisingly long, went to the winds, and Saint Antoine had got
-him!
+“[[Well]]! About two leagues beyond the summit of that [[Hill|hill]] above the
+village.”
 
-It was known directly, to the furthest confines of the crowd. Defarge
-had but sprung over a railing and a table, and folded the miserable
-wretch in a deadly embrace--[[Madame Defarge]] had but followed and turned
-her hand in one of the ropes with which he was tied--The Vengeance and
-Jacques Three were not yet up with them, and the men at the windows
-had not yet swooped into the Hall, like [[Birds|birds]] of prey from their high
-perches--when the cry seemed to go up, all over the [[City|city]], “Bring him
-out! Bring him to the lamp!”
+“Good. When do you cease to work?”
 
-Down, and up, and head foremost on the steps of the building; now, on
-his knees; now, on his feet; now, on his back; dragged, and struck at,
-and stifled by the bunches of grass and straw that were thrust into his
-face by hundreds of hands; torn, bruised, panting, bleeding, yet always
-entreating and beseeching for [[Mercy|mercy]]; now full of vehement agony of
-action, with a small clear space about him as the people drew one
-another back that they might see; now, a log of dead wood drawn through
-a forest of legs; he was hauled to the nearest street corner where one
-of the fatal lamps swung, and there [[Madame Defarge]] let him go--as a cat
-might have done to a mouse--and silently and composedly looked at him
-while they made ready, and while he besought her: the women passionately
-screeching at him all the [[Time|time]], and the men sternly calling out to have
-him killed with grass in his mouth. Once, he went aloft, and the rope
-broke, and they caught him shrieking; twice, he went aloft, and the rope
-broke, and they caught him shrieking; then, the rope was merciful, and
-held him, and his head was soon upon a pike, with grass enough in the
-mouth for all Saint Antoine to [[Dance|dance]] at the sight of.
+“At sunset.”
 
-Nor was this the end of the day’s bad work, for Saint Antoine so shouted
-and danced his angry [[Blood|blood]] up, that it boiled again, on hearing when
-the day closed in that the son-in-law of the despatched, another of the
-people’s enemies and insulters, was coming into [[Paris]] under a guard
-five hundred strong, in cavalry [[Alone|alone]]. Saint Antoine wrote his crimes
-on flaring sheets of paper, seized him--would have torn him out of the
-breast of an army to bear Foulon company--set his head and heart on
-pikes, and carried the three spoils of the day, in Wolf-procession
-through the streets.
+“Will you wake me, before departing? I have walked two nights without
+resting. Let me finish my pipe, and I shall [[Sleep|sleep]] like a [[Child|child]]. Will you
+wake me?”
 
-Not before dark [[Night|night]] did the men and women come back to the children,
-wailing and breadless. Then, the miserable bakers’ shops were beset by
-long files of them, patiently waiting to buy bad bread; and while
-they waited with stomachs faint and empty, they beguiled the [[Time|time]] by
-embracing one another on the triumphs of the day, and achieving them
-again in gossip. Gradually, these strings of ragged people shortened and
-frayed away; and then poor lights began to shine in high windows, and
-slender fires were made in the streets, at which neighbours cooked in
-common, afterwards supping at their doors.
+“Surely.”
 
-Scanty and insufficient suppers those, and [[Innocent|innocent]] of meat, as of
-most other sauce to wretched bread. Yet, human fellowship infused
-some nourishment into the flinty viands, and struck some sparks of
-cheerfulness out of them. Fathers and mothers who had had their full
-share in the worst of the day, played gently with their meagre children;
-and [[lovers]], with such a world around them and before them, loved and
-hoped.
+The wayfarer smoked his pipe out, put it in his breast, slipped off his
+great wooden shoes, and lay down on his back on the heap of stones. He
+was fast asleep directly.
 
-It was almost morning, when Defarge’s wine-shop parted with its last
-knot of customers, and Monsieur Defarge said to madame his wife, in
-husky tones, while fastening the door:
+As the [[Road|road]]-mender plied his dusty labour, and the hail-clouds, [[rolling]]
+away, revealed bright bars and streaks of sky which were responded to
+by silver gleams upon the landscape, the little man (who wore a red cap
+now, in place of his blue one) seemed fascinated by the figure on the
+heap of stones. His eyes were so often turned towards it, that he used
+his tools mechanically, and, one would have said, to very poor account.
+The bronze face, the shaggy black hair and beard, the coarse woollen
+red cap, the rough medley dress of [[Home|home]]-spun stuff and hairy skins of
+beasts, the powerful frame attenuated by spare living, and the sullen
+and desperate compression of the lips in [[Sleep|sleep]], inspired the mender
+of roads with awe. The traveller had travelled far, and his feet were
+footsore, and his ankles chafed and bleeding; his great shoes, stuffed
+with [[Leaves|leaves]] and grass, had been heavy to drag over the many long
+leagues, and his clothes were chafed into holes, as he himself was into
+sores. Stooping down beside him, the [[Road|road]]-mender tried to get a peep at
+secret weapons in his breast or where not; but, in vain, for he slept
+with his arms crossed upon him, and set as resolutely as his lips.
+Fortified towns with their stockades, guard-houses, gates, trenches, and
+drawbridges, seemed to the mender of roads, to be so much air as against
+this figure. And when he lifted his eyes from it to the horizon and
+looked around, he saw in his small fancy similar figures, stopped by no
+obstacle, tending to centres all over France.
 
-“At last it is come, my dear!”
+The man slept on, indifferent to showers of hail and intervals of
+brightness, to sunshine on his face and [[Shadow|shadow]], to the paltering lumps
+of dull ice on his [[Body|body]] and the diamonds into which the sun changed
+them, until the sun was low in the west, and the sky was glowing. Then,
+the mender of roads having got his tools together and all things ready
+to go down into the village, roused him.
 
-“Eh [[Well|well]]!” returned madame. “Almost.”
+“Good!” said [[The Sleeper|the sleeper]], rising on his elbow. “Two leagues beyond the
+summit of the [[Hill|hill]]?”
 
-Saint Antoine slept, the Defarges slept: even The Vengeance slept with
-her starved [[grocer]], and the drum was at rest. The drum’s was the
-only voice in Saint Antoine that [[Blood|blood]] and hurry had not changed. The
-Vengeance, as custodian of the drum, could have wakened him up and had
-the same speech out of him as before the Bastille fell, or old Foulon
-was seized; not so with the hoarse tones of the men and women in Saint
-Antoine’s bosom.
+“About.”
+
+“About. Good!”
+
+The mender of roads went [[Home|home]], with the [[Dust|dust]] going on before him
+according to the set of the [[Wind|wind]], and was soon at the fountain,
+squeezing himself in among the lean kine brought there to drink, and
+appearing even to whisper to them in his whispering to all the village.
+When the village had taken its poor supper, it did not creep to bed,
+as it usually did, but came out of doors again, and remained there. A
+curious contagion of whispering was upon it, and also, when it gathered
+together at the fountain in the dark, another curious contagion of
+looking expectantly at the sky in one direction only. Monsieur Gabelle,
+chief functionary of the place, became uneasy; went out on his [[house]]-top
+[[Alone|alone]], and looked in that direction too; glanced down from behind his
+chimneys at the darkening faces by the fountain below, and sent word to
+the sacristan who kept the keys of the church, that there might be need
+to ring the tocsin by-and-bye.
+
+The [[Night|night]] deepened. The trees environing the old chateau, keeping its
+solitary state apart, moved in a rising [[Wind|wind]], as though they threatened
+the pile of building massive and dark in the gloom. Up the two terrace
+flights of steps the rain ran wildly, and beat at the great door, like a
+swift messenger rousing those within; uneasy rushes of [[Wind|wind]] went through
+the hall, among the old spears and knives, and passed lamenting up the
+stairs, and shook the curtains of the bed where the last Marquis
+had slept. East, West, North, and South, through the woods, four
+heavy-treading, unkempt figures crushed the high grass and cracked the
+branches, striding on cautiously to come together in the courtyard. Four
+lights broke out there, and moved away in different directions, and all
+was black again.
+
+But, not for long. Presently, the chateau began to make itself strangely
+visible by some light of its own, as though it were growing luminous.
+Then, a flickering streak played behind the architecture of the front,
+picking out transparent places, and showing where balustrades, arches,
+and windows were. Then it soared higher, and grew broader and brighter.
+Soon, from a score of the great windows, flames burst forth, and the
+stone faces awakened, stared out of [[Fire|fire]].
+
+A faint murmur arose about the [[house]] from the few people who were left
+there, and there was a saddling of a [[Horse|horse]] and riding away. There was
+spurring and splashing through the darkness, and bridle was drawn in the
+space by the village fountain, and the [[Horse|horse]] in a foam stood at Monsieur
+Gabelle’s door. “Help, Gabelle! Help, every one!” The tocsin rang
+impatiently, but other help (if that were any) there was none. The
+mender of roads, and two hundred and fifty particular friends, stood
+with folded arms at the fountain, looking at the pillar of [[Fire|fire]] in the
+sky. “It must be forty feet high,” said they, grimly; and never moved.
+
+The rider from the chateau, and the [[Horse|horse]] in a foam, clattered away
+through the village, and galloped up the stony steep, to the [[Prison|prison]] on
+the crag. At the gate, a group of officers were looking at the [[Fire|fire]];
+removed from them, a group of soldiers. “Help, gentlemen--officers! The
+chateau is on [[Fire|fire]]; valuable objects may be saved from the flames by
+timely aid! Help, help!” The officers looked towards the soldiers who
+looked at the [[Fire|fire]]; gave no orders; and answered, with shrugs and biting
+of lips, “It must burn.”
+
+As the rider rattled down the [[Hill|hill]] again and through the street, the
+village was illuminating. The mender of roads, and the two hundred and
+fifty particular friends, inspired as one man and woman by the idea of
+lighting up, had darted into their houses, and were putting candles in
+every dull little pane of glass. The general scarcity of everything,
+occasioned candles to be borrowed in a rather peremptory manner of
+Monsieur Gabelle; and in a moment of reluctance and hesitation on
+that functionary’s part, the mender of roads, once so submissive to
+authority, had remarked that carriages were good to make bonfires with,
+and that post-horses would roast.
+
+The chateau was left to itself to flame and burn. In the roaring and
+raging of the conflagration, a red-hot [[Wind|wind]], driving straight from the
+infernal regions, seemed to be blowing the edifice away. With the rising
+and falling of the blaze, the stone faces showed as if they were in
+torment. When great masses of stone and timber fell, the face with the
+two dints in the nose became obscured: anon struggled out of the smoke
+again, as if it were the face of the cruel Marquis, burning at the stake
+and contending with the [[Fire|fire]].
+
+The chateau burned; the nearest trees, laid hold of by the [[Fire|fire]],
+scorched and shrivelled; trees at a distance, fired by the four fierce
+figures, begirt the blazing edifice with a new forest of smoke. Molten
+lead and iron boiled in the marble basin of the fountain; the [[Water|water]] ran
+dry; the extinguisher tops of the towers vanished like ice before the
+heat, and trickled down into four rugged wells of flame. Great rents and
+splits branched out in the solid walls, like crystallisation; stupefied
+[[Birds|birds]] wheeled about and dropped into the furnace; four fierce figures
+trudged away, East, West, North, and South, along the [[Night|night]]-enshrouded
+roads, guided by the beacon they had lighted, towards their next
+destination. The illuminated village had seized hold of the tocsin, and,
+abolishing the lawful ringer, rang for joy.
+
+Not only that; but the village, light-headed with famine, [[Fire|fire]], and
+bell-ringing, and bethinking itself that Monsieur Gabelle had to do with
+the collection of rent and taxes--though it was but a small instalment
+of taxes, and no rent at all, that Gabelle had got in those latter
+days--became impatient for an interview with him, and, surrounding his
+[[house]], summoned him to come forth for personal conference. Whereupon,
+Monsieur Gabelle did heavily bar his door, and retire to hold counsel
+with himself. The result of that conference was, that Gabelle again
+withdrew himself to his housetop behind his stack of chimneys; this [[Time|time]]
+resolved, if his door were broken in (he was a small Southern man
+of retaliative temperament), to pitch himself head foremost over the
+parapet, and crush a man or two below.
+
+Probably, Monsieur Gabelle passed a long [[Night|night]] up there, with the
+distant chateau for [[Fire|fire]] and candle, and the beating at his door,
+combined with the joy-ringing, for music; not to mention his having an
+ill-omened lamp slung across the [[Road|road]] before his posting-[[house]] gate,
+which the village showed a lively inclination to displace in his favour.
+A trying suspense, to be passing a whole [[Summer|summer]] [[Night|night]] on the brink of
+the black ocean, ready to take that plunge into it upon which Monsieur
+Gabelle had resolved! But, the friendly [[Dawn|dawn]] appearing at last, and the
+rush-candles of the village guttering out, the people happily dispersed,
+and Monsieur Gabelle came down bringing his life with him for that
+while.
+
+Within a hundred miles, and in the light of other fires, there were
+other functionaries less fortunate, that [[Night|night]] and other nights, whom
+the rising sun found hanging across once-peaceful streets, where they
+had been born and bred; also, there were other villagers and townspeople
+less fortunate than the mender of roads and his fellows, upon whom the
+functionaries and soldiery turned with [[success]], and whom they strung up
+in their turn. But, the fierce figures were steadily wending East, West,
+North, and South, be that as it would; and whosoever hung, [[Fire|fire]] burned.
+The altitude of the gallows that would turn to [[Water|water]] and quench it,
+no functionary, by any stretch of mathematics, was able to calculate
+successfully.

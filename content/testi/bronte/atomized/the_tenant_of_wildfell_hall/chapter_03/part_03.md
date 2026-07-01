@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 3 (part 3)"
+title: "The Tenant of Wildfell Hall — Chapter 3 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_03/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_04/part_01">part 01 ›</a></div>
 </nav>
 
+
+[[Temptation|temptation]],—would you—?”
+
+
+
+“I beg your pardon, Mrs. Graham—but you get on too fast. I have not yet
+
+said that a boy should be taught to rush into the snares of life,—or
+
+even wilfully to seek [[Temptation|temptation]] for the sake of exercising his virtue
+
+by overcoming it;—I only say that it is better to arm and strengthen
+
+your [[Hero|hero]], than to disarm and enfeeble the foe;—and if you were to rear
+
+an oak sapling in a hothouse, tending it carefully [[Night|night]] and day, and
 
 shielding it from every breath of [[Wind|wind]], you could not expect it to
 

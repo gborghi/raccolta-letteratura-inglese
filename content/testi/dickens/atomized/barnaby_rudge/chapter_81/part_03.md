@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 81 (part 3)"
+title: "Barnaby Rudge — Chapter 81 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_81/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_81/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘Listen to me,’ said Mr Haredale. ‘Listen to me.’
+
+‘While you rail?’ inquired Sir John.
+
+‘While I deliver your infamy. You urged and stimulated to do your work
+a fit agent, but one who in his [[Nature|nature]]--in the very essence of his
+being--is a traitor, and who has been false to you (despite the sympathy
+you two should have together) as he has been to all others. With hints,
+and looks, and crafty words, which told again are nothing, you set on
+Gashford to this work--this work before us now. With these same hints,
+and looks, and crafty words, which told again are nothing, you urged
+him on to gratify the deadly hate he owes me--I have earned it, I thank
+Heaven--by the abduction and dishonour of my niece. You did. I see
+denial in your looks,’ he cried, abruptly pointing in his face, and
+stepping back, ‘and denial is a lie!’
 
 He had his hand upon his [[Sword|sword]]; but the knight, with a contemptuous
 smile, replied to him as coldly as before.
@@ -103,28 +119,3 @@ made, sir.’
 ‘although you tear me from my better angel, I implore you not to come
 within the reach of my [[Sword|sword]] to-[[Night|night]]. Oh! why were you here at all! Why
 have we met! To-morrow would have cast us far apart for ever!’
-
-‘That being the case,’ returned Sir John, without the least emotion, ‘it
-is very fortunate we have met to-[[Night|night]]. Haredale, I have always despised
-you, as you know, but I have given you credit for a species of brute
-[[Courage|courage]]. For the [[Honour|honour]] of my judgment, which I had thought a good one,
-I am sorry to find you a coward.’
-
-Not another word was spoken on either side. They crossed swords, though
-it was now quite dusk, and attacked each other fiercely. They were
-[[Well|well]] matched, and each was thoroughly skilled in the management of his
-weapon.
-
-After a few seconds they grew hotter and more furious, and pressing on
-each other inflicted and received several slight wounds. It was directly
-after receiving one of these in his arm, that Mr Haredale, making a
-keener thrust as he felt the warm [[Blood|blood]] spirting out, plunged his [[Sword|sword]]
-through his opponent’s [[Body|body]] to the hilt.
-
-Their eyes met, and were on each other as he drew it out. He put his
-arm about the dying man, who repulsed him, feebly, and dropped upon the
-turf. Raising himself upon his hands, he gazed at him for an instant,
-with scorn and hatred in his look; but, seeming to remember, even then,
-that this expression would distort his features after [[Death|death]], he tried
-to smile, and, faintly moving his right hand, as if to hide his bloody
-linen in his vest, fell back dead--the [[Phantom|phantom]] of last [[Night|night]].

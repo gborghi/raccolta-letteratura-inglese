@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 3 (part 1)"
+title: "Villette — Chapter 3 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -190,9 +190,3 @@ heart. Papa, will soon come back to his Polly.”
 “Polly would be sorry to give papa [[Pain|pain]]; would she not?”
 
 “Sorrier than sorry.”
-
-“Then Polly must be cheerful: not cry at parting; not fret afterwards.
-She must look forward to meeting again, and try to be happy meanwhile.
-Can she do this?”
-
-“She will try.”

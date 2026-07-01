@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 57 (part 4)"
+title: "Great Expectations — Chapter 57 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,27 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_57/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_58/part_01">part 01 ›</a></div>
 </nav>
 
+
+“The man says?” I observed, as Joe waited for me to speak.
+
+“The man says,” Joe assented. “Is he right, that man?”
+
+“Dear Joe, he is always right.”
+
+“[[Well]], old chap,” said Joe, “then abide by your words. If he’s always
+right (which in general he’s more likely wrong), he’s right when he
+says this: Supposing ever you kep any little matter to yourself, when
+you was a little [[Child|child]], you kep it mostly because you know’d as J.
+Gargery’s power to part you and Tickler in sunders were not fully equal
+to his inclinations. Theerfore, think no more of it as betwixt two
+sech, and do not let us pass remarks upon onnecessary subjects. [[Biddy]]
+giv’ herself a deal o’ trouble with me afore I left (for I am almost
+awful dull), as I should view it in this light, and, viewing it in this
+light, as I should so put it. Both of which,” said Joe, quite charmed
+with his logical arrangement, “being done, now this to you a true
+friend, say. Namely. You mustn’t go a overdoing on it, but you must
+have your supper and your wine and [[Water|water]], and you must be put betwixt
+the sheets.”
 
 The delicacy with which Joe dismissed this theme, and the sweet tact
 and kindness with which [[Biddy]]—who with her woman’s wit had found me out

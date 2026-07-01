@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 22 (part 2)"
+title: "Persuasion — Chapter 22 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_22/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_22/part_03">part 03 ›</a></div>
 </nav>
 
+
+seemed the destruction of everything like peace and comfort. It was so
+
+humiliating to reflect on the constant [[Deception|deception]] practised on her
 
 father and Elizabeth; to consider the various sources of mortification
 
@@ -199,11 +203,3 @@ recommendation. Not that he will value it as he ought,” he observed,
 “I am extremely glad, indeed,” cried Anne, “particularly glad that this
 
 should happen; and that of two sisters, who both deserve equally [[Well|well]],
-
-and who have always been such good friends, the pleasant prospect of
-
-one should not be dimming those of the other—that they should be so
-
-equal in their prosperity and comfort. I [[Hope|hope]] your father and mother
-
-are quite happy with regard to both.”

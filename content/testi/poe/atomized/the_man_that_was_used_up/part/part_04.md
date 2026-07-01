@@ -1,5 +1,5 @@
 ---
-title: "[[The Man That Was Used Up]] (part 4)"
+title: "The Man That Was Used Up (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-man-that-was-used-up-(poe)"
@@ -12,6 +12,30 @@ tags:
 <div class="excerpt-crumb">Poe · <a href="/works/the-man-that-was-used-up-(poe)">The Man That Was Used Up</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_man_that_was_used_up/part/part_03">‹ part 03</a><span></span></div>
 </nav>
+
+
+      he’s the ma-a-an—”
+
+
+
+      “_Mr_. Sinivate,” said I, imploringly, “_is_ he the man in the
+
+      mask?”
+
+
+
+      “No-o-o!” said he, looking wise, “nor the man in the mo-o-on.”
+
+
+
+      This reply I considered a pointed and positive insult, and so
+
+      left the [[house]] at once in high dudgeon, with a firm resolve to
+
+      call my friend, Mr. Sinivate, to a speedy account for his
+
+      ungentlemanly conduct and ill-breeding.
+
 
 
       In the meantime, however, I had no notion of being thwarted
@@ -220,7 +244,7 @@ tags:
 
       off at least seven-eighths of my tongue. There isn’t Bonfanti’s
 
-      equal, however, in [[America]], for really good articles of this
+      equal, however, in [[america|America]], for really good articles of this
 
       description. I can recommend you to him with confidence,” [here
 

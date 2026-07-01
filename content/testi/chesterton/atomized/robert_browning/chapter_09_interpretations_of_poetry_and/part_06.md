@@ -16,7 +16,6 @@ tags:
 
 INDEX
 
-
 A
 
 _Agamemnon of Aeschylus, The_, 120.
@@ -36,7 +35,6 @@ Asolo ([[Italy]]), 42, 131.
 "At the [[Mermaid]]," 117.
 
 Austria, 88, 89.
-
 
 B
 
@@ -128,7 +126,7 @@ Browning, Robert: birth and family [[history]], 3;
   politics, 86 _seq._;
   Browning as a father, 105;
   as dramatist, 52;
-  as a literary [[Artist|artist]], 133 _seq._;
+  as a literary [[artist]], 133 _seq._;
   his use of the [[Grotesque|grotesque]], 48, 140, 143, 148 _seq._;
   his failures, 141;
   artistic originality, 136, 143, 158;
@@ -163,7 +161,6 @@ Byron, 11, 38, 141, 143.
 
 Byronism, 19, 117.
 
-
 C
 
 "[[Caliban]]," 9, 120.
@@ -194,14 +191,13 @@ Church in [[Italy]], The, 88.
 
 "Clive," 127.
 
-Clough, [[arthur|Arthur]] Hugh, 56.
+Clough, [[Arthur]] Hugh, 56.
 
 _Colombe's Birthday_, 32.
 
 Corelli, Miss Marie, 38.
 
 Cromwell, [[Oliver]], 73.
-
 
 D
 
@@ -223,13 +219,11 @@ _Dramatis Personæ_, 105.
 
 Duffy, Sir Charles Gavan, 187, 188.
 
-
 E
 
 _Edinburgh Review_, 122.
 
 "Englishman in [[Italy]], The," 150.
-
 
 F
 
@@ -261,7 +255,6 @@ _Fra Lippo Lippi_, 83, 199.
 
 Furnivall, Dr., 7, 129.
 
-
 G
 
 "[[Garden]] Fancies," 46.
@@ -281,7 +274,6 @@ Goldsmith, 169, 170.
 Gordon, General, 90.
 
 "Guido Franceschini," 106, 120, 200.
-
 
 H
 
@@ -313,7 +305,6 @@ Hugo, Victor, 17.
 
 Hunt, Leigh, 26.
 
-
 I
 
 _Incondita_, 17.
@@ -327,7 +318,6 @@ _Instans Tyrannus_, 9.
 Italian Revolution, 88 _seq._
 
 "Ivàn Ivànovitch," 127.
-
 
 J
 
@@ -343,7 +333,6 @@ _Julius Cæsar_ (Shakespeare), 28.
 
 "Juris Doctor Bottinius," 161.
 
-
 K
 
 Keats, 15, 16, 19, 137, 142.
@@ -353,26 +342,3 @@ Kenyon, Mr., 22, 58, 69-70, 74, 76.
 _King Victor and [[King]] Charles_, 32.
 
 Kipling, Rudyard, 142.
-
-Kirkup, Seymour, 103.
-
-
-L
-
-_L'Aiglon_, 28.
-
-"Laboratory, The," 47, 143.
-
-Landor, 26, 56, 93, 101-103.
-
-_La Saisiaz_, 127.
-
-_Letters, The Browning_, 63.
-
-Liberalism, 86.
-
-"Lines to Edward Fitzgerald," 131.
-
-Llangollen, 130.
-
-Lockhart, 112.

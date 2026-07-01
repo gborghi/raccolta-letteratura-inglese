@@ -1,5 +1,5 @@
 ---
-title: "The [[Comedy]] of Errors — Act V, Scene 1 — exchange ([[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]]) [8]"
+title: "The Comedy of Errors — Act V, Scene 1 — exchange (ANTIPHOLUS OF EPHESUS) [8]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-comedy-of-errors-(shakespeare)"

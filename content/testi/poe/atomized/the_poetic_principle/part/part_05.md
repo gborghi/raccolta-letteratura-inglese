@@ -1,5 +1,5 @@
 ---
-title: "[[The Poetic Principle]] (part 5)"
+title: "The Poetic Principle (part 5)"
 author: "Poe"
 unitType: excerpt
 tags:
@@ -12,6 +12,59 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_poetic_principle/part/part_04">‹ part 04</a><a class="ex-next" href="/testi/poe/atomized/the_poetic_principle/part/part_06">part 06 ›</a></div>
 </nav>
 
+
+      The taint of which I speak is clearly perceptible even in a poem so full
+      of brilliancy and spirit as “The Health” of Edward Coate Pinckney:—
+
+     I fill this cup to one made up
+         Of loveliness [[Alone|alone]],
+     A woman, of her gentle sex
+         The seeming paragon;
+     To whom the better elements
+         And kindly [[Stars|stars]] have given
+     A form so fair that, like the air,
+         ’Tis less of earth than heaven.
+     Her every tone is music’s own,
+         Like those of morning [[Birds|birds]],
+     And something more than melody
+         Dwells ever in her words;
+     The coinage of her heart are they,
+         And from her lips each flows
+     As one may see the burden’d bee
+         Forth issue from the [[Rose|rose]].
+     Affections are as thoughts to her,
+         The measures of her hours;
+     Her feelings have the flagrancy,
+         The freshness of young [[Flowers|flowers]];
+     And lovely passions, changing oft,
+         So fill her, she appears
+     The image of themselves by turns,—
+         The idol of past years!
+     Of her bright face one glance will trace
+         A picture on the brain,
+     And of her voice in echoing hearts
+         A sound must long remain;
+     But [[Memory|memory]], such as mine of her,
+         So very much endears,
+     When [[Death|death]] is nigh my latest sigh
+         Will not be life’s, but hers.
+     I fill’d this cup to one made up
+         Of loveliness [[Alone|alone]],
+     A woman, of her gentle sex
+         The seeming paragon—
+     Her health! and would on earth there stood,
+         Some more of such a frame,
+     That life might be all poetry,
+         And weariness a name.
+
+      It was the misfortune of Mr. Pinckney to have been born too far south. Had
+      he been a New Englander, it is probable that he would have been ranked as
+      the first of American lyrists by that magnanimous cabal which has so long
+      controlled the destinies of American Letters, in conducting the thing
+      called “The North American Review.” The poem just cited is especially
+      beautiful; but the poetic elevation which it induces we must refer chiefly
+      to our sympathy in the poet’s enthusiasm. We pardon his hyperboles for the
+      evident earnestness with which they are uttered.
 
       It was by no means my design, however, to expatiate upon the _merits
       _of what I should read you. These will necessarily speak for
@@ -118,117 +171,3 @@ tags:
          And sorrow on the shorel
      The smile that blest one [[Lover|lover]]’s heart
          Has broken many more!
-
-      “The Haunted [[house|House]],” by the same author, is one of the truest [[Poems|poems]] ever
-      written,—one of the truest, one of the most unexceptionable, one of
-      the most thoroughly artistic, both in its theme and in its execution. It
-      is, moreover, powerfully ideal—imaginative. I regret that its length
-      renders it unsuitable for the purposes of this lecture. In place of it
-      permit me to offer the universally appreciated “Bridge of Sighs”:—
-
-     One more Unfortunate,
-     Weary of breath,
-     Rashly importunate
-     Gone to her [[Death|death]]!
-     Take her up tenderly,
-     Lift her with care;—
-     Fashion’d so slenderly,
-     Young and so fair!
-     Look at her garments
-     Clinging like cerements;
-     Whilst the wave constantly
-     Drips from her clothing;
-     Take her up instantly,
-     Loving not loathing.
-     Touch her not scornfully;
-     Think of her mournfully,
-     Gently and humanly;
-     Not of the stains of her,
-     All that remains of her
-     Now is pure womanly.
-     Make no deep scrutiny
-     Into her mutiny
-     Rash and undutiful;
-     Past all dishonor,
-     [[Death]] has left on her
-     Only the beautiful.
-     Where the lamps quiver
-     So far in the [[River|river]],
-     With many a light
-     From [[Window|window]] and casement
-     From garret to basement,
-     She stood, with amazement,
-     Houseless by [[Night|night]].
-     The bleak [[Wind|wind]] of March
-     Made her tremble and shiver,
-     But not the dark arch,
-     Or the black flowing [[River|river]]:
-     Mad from life’s [[history]],
-     Glad to [[Death|death]]’s mystery,
-     Swift to be hurl’d—
-     Anywhere, anywhere
-     Out of the world!
-     In she plunged boldly,
-     No matter how coldly
-     The rough [[River|river]] ran,—
-     Over the brink of it,
-     Picture it,—think of it,
-     Dissolute Man!
-     Lave in it, drink of it
-     Then, if you can!
-     Still, for all slips of hers,
-     One of Eve’s family—
-     Wipe those poor lips of hers
-     Oozing so clammily,
-     Loop up her tresses
-     Escaped from the comb,
-     Her fair auburn tresses;
-     Whilst wonderment guesses
-     Where was her [[Home|home]]?
-     Who was her father?
-     Who was her mother?
-     Had she a sister?
-     Had she a brother?
-     Or was there a dearer one
-     Still, and a nearer one
-     Yet, than all other?
-     Alas! for the rarity
-     Of Christian [[Charity|charity]]
-     Under the sun!
-     Oh! it was pitiful!
-     Near a whole [[City|city]] full,
-     [[Home]] she had none.
-     Sisterly, brotherly,
-     Fatherly, motherly,
-     Feelings had changed:
-     [[Love]], by harsh evidence,
-     Thrown from its eminence;
-     Even God’s [[Providence|providence]]
-     Seeming estranged.
-     Take her up tenderly;
-     Lift her with care;
-     Fashion’d so slenderly,
-     Young, and so fair!
-     Ere her limbs frigidly
-     Stiffen too rigidly,
-     Decently,—kindly,—
-     Smooth and compose them;
-     And her eyes, close them,
-     Staring so blindly!
-     Dreadfully staring
-     Through muddy impurity,
-     As when with the daring
-     Last look of despairing
-     Fixed on futurity.
-     Perhishing gloomily,
-     Spurred by contumely,
-     Cold inhumanity,
-     Burning insanity,
-     Into her rest,—
-     [[Cross]] her hands humbly,
-     As if praying dumbly,
-     Over her breast!
-     Owning her weakness,
-     Her evil behavior,
-     And leaving, with meekness,
-     Her sins to her Saviour!

@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 8 (part 5)"
+title: "Villette — Chapter 8 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_08/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_09/part_01">part 01 ›</a></div>
 </nav>
 
+
+“They always throw over timid teachers,” said she.
+
+“I know that too, Madame; I have heard how they rebelled against and
+persecuted Miss Turner”—a poor friendless English teacher, whom Madame
+had employed, and lightly discarded; and to whose piteous [[history]] I was
+no stranger.
 
 “C’est vrai,” said she, coolly. “Miss Turner had no more command over
 them than a servant from the kitchen would have had. She was weak and

@@ -1,5 +1,5 @@
 ---
-title: "[[Eugenics]] — Part 2 (part 16)"
+title: "Eugenics — Part 2 (part 16)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/eugenics-(chesterton)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/eugenics/chapter_03/part_15">‹ part 15</a><a class="ex-next" href="/testi/chesterton/atomized/eugenics/chapter_03/part_17">part 17 ›</a></div>
 </nav>
 
+
+After all, it was not found necessary to have an office competing
+with another office, trying to send out pinker postage-stamps
+or more picturesque postmen.  It was not necessary to efficiency
+that the postmistress should buy a penny stamp for a halfpenny and
+sell it for two pence; or that she should haggle and beat customers
+down about the price of a postal order; or that she should always
+take tenders for telegrams.  There was obviously nothing actually
+impossible about the State management of national needs; and the
+Post Office was at least tolerably managed.  Though it was not always
+a model employer, by any means, it might be made so by similar methods.
+It was not impossible that equitable pay, and even equal pay,
+could be given to the Post-Master-General and the postman.
+We had only to extend this rule of public responsibility,
+and we should escape from all the terror of insecurity and torture
+of compassion, which hag-rides humanity in the insane extremes
+of economic inequality and injustice.  As Mr. [[Shaw]] put it, "A man
+must save Society's [[Honour|honour]] before he can save his own."
 
 That was one side of the argument:  that the change would
 remove inequality; and there was an answer on the other side.
@@ -98,28 +116,3 @@ it only sends an inspector into the [[house]] to punish the parents
 for having no food to feed them.  It does not see that they have
 got a [[Fire|fire]]; it only punishes them for not having a fireguard.
 It does not even occur to it to provide the fireguard.
-
-Now this anomalous situation will probably ultimately evolve into the
-Servile State of Mr. Belloc's thesis.  The poor will sink into [[Slavery|slavery]];
-it might as correctly be said that the poor will rise into [[Slavery|slavery]].
-That is to say, sooner or later, it is very probable that the rich
-will take over the philanthropic as [[Well|well]] as the tyrannic side
-of the bargain; and will feed men like slaves as [[Well|well]] as hunting
-them like outlaws.  But for the purpose of my own argument it
-is not necessary to carry the process so far as this, or indeed
-any farther than it has already gone.  The purely negative
-stage of interference, at which we have stuck for the present,
-is in itself quite favourable to all these eugenical experiments.
-The capitalist whose half-conscious thought and course of action
-I have simplified into a story in the preceding chapters,
-finds this insufficient solution quite sufficient for his purposes.
-What he has felt for a long [[Time|time]] is that he must check or improve
-the reckless and random breeding of the submerged race, which is at
-once outstripping his requirements and failing to fulfil his needs.
-Now the anomalous situation has already accustomed him to
-stopping things.  The first interferences with sex need only be negative;
-and there are already negative interferences without number.  So that
-the study of this stage of Socialism brings us to the same conclusion
-as that of the ideal of liberty as formally professed by Liberalism.
-The ideal of liberty is lost, and the ideal of Socialism is changed,
-till it is a mere excuse for the oppression of the poor.

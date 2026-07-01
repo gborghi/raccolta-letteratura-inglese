@@ -1,5 +1,5 @@
 ---
-title: "[[manalive]] — Chapter 3 (part 3)"
+title: "manalive — Chapter 3 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/manalive-(chesterton)"
@@ -67,7 +67,6 @@ the New Jerusalem.
 	   How yellow mud is sold;
 	 All is gold that glitters,
 	   For the glitter is the gold."
-
 
 "And who wrote that?" asked Rosamund, amused.
 
@@ -141,13 +140,3 @@ when his abysses are in revolt, [[Michael]] was silent for
 some seconds, and then stepped back with an ironical bow.
 "Not literally true, of course," he said; "only really true.
 An [[Allegory|allegory]], shall we say? a social [[Satire|satire]]."
-
-"And I hate and despise your satires," cried Rosamund Hunt,
-letting loose her whole forcible female personality like a cyclone,
-and speaking every word to wound.  "I despise it as I despise
-your rank tobacco, and your nasty, loungy ways, and your snarling,
-and your Radicalism, and your old clothes, and your potty
-little newspaper, and your rotten failure at everything.
-I don't care whether you call it snobbishness or not, I like
-life and [[success]], and jolly things to look at, and action.
-You won't frighten me with Diogenes; I prefer Alexander."

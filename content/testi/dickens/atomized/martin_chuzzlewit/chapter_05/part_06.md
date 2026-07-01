@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 5 (part 6)"
+title: "Martin Chuzzlewit — Chapter 5 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_05/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_05/part_07">part 07 ›</a></div>
 </nav>
 
+
+‘Why, that depends, Mr Pinch,’ said Martin, laughing, ‘upon what sort
+of a [[Horse|horse]] you have. Because if he’s a bad one, I would rather keep my
+hands warm by holding them comfortably in my greatcoat pockets.’
 
 He appeared to think this such a good joke, that Mr Pinch was quite sure
 it must be a capital one. Accordingly, he laughed too, and was fully
@@ -136,14 +140,3 @@ at those times until I was an old man; quite contented if she sometimes
 thought of a poor fellow like me, as a part of the music; and more than
 recompensed if she ever mixed me up with anything she liked as [[Well|well]] as
 she liked that!’
-
-The new pupil was clearly very much amazed by Mr Pinch’s weakness, and
-would probably have told him so, and given him some good advice, but
-for their opportune arrival at Mr Pecksniff’s door; the front door this
-[[Time|time]], on account of the occasion being one of ceremony and rejoicing.
-The same man was in waiting for the [[Horse|horse]] who had been adjured by Mr
-Pinch in the morning not to yield to his rabid [[Desire|desire]] to start;
-and after delivering the animal into his charge, and beseeching Mr
-Chuzzlewit in a whisper never to reveal a syllable of what he had just
-told him in the fullness of his heart, Tom led the pupil in, for instant
-presentation.

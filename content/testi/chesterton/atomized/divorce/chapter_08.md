@@ -1,5 +1,5 @@
 ---
-title: "[[divorce]] — Chapter 8"
+title: "divorce — Chapter 8"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/divorce-(chesterton)"
@@ -85,7 +85,7 @@ brilliant and most fair-minded controversialists on that side;
 and he has said, for instance, that he agrees with me in supporting
 the ideal of indissoluble or, at least, of undissolved [[Marriage|marriage]].
 Mr. Haynes is one of the few friends of [[divorce]] who are also real
-friends of [[Democracy|democracy]]; and I am sure that in practice this stands
+friends of [[democracy]]; and I am sure that in practice this stands
 for a real sympathy with the [[Home|home]], especially the poor [[Home|home]].
 Unfortunately, on the theoretic side, the word "ideal" is far from being
 an exact term, and is open to two almost opposite interpretations.
@@ -144,7 +144,7 @@ unusually blessed and inspired.  But whatever they [[Desire|desire]],
 it is as [[Well|well]] that they should realise exactly what they do;
 and in this case I should like to hear their criticisms in the matter
 of what they see.  They must surely see that in England at present,
-as in many parts of [[america|America]] in the past, the new liberty is being
+as in many parts of [[America]] in the past, the new liberty is being
 taken in the spirit of licence as if the exception were to be
 the rule, or, rather, perhaps the absence of rule.  This will especially
 be made manifest if we consider that the effect of the process is

@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 45 (part 2)"
+title: "Barnaby Rudge — Chapter 45 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -130,8 +130,3 @@ neither you nor your son ever learn under them. They are rough masters.’
 
 ‘You have wandered from the [[Road|road]], too,’ said the widow, in a tone of
 pity.
-
-‘Maybe, maybe,’ returned the blind man with a sigh, and yet with
-something of a smile upon his face, ‘that’s likely. Handposts and
-milestones are dumb, indeed, to me. Thank you the more for this rest,
-and this refreshing drink!’

@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 17 (part 2)"
+title: "Persuasion — Chapter 17 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_17/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_17/part_03">part 03 ›</a></div>
 </nav>
 
+
+had weathered it, however, and could truly say that it had done her
+
+good. It had increased her comforts by making her feel herself to be in
+
+good hands. She had seen too much of the world, to expect sudden or
+
+disinterested attachment anywhere, but her illness had proved to her
 
 that her landlady had a character to preserve, and would not use her
 
@@ -191,27 +199,3 @@ Forty?”
 
 
 “No, sir, she is not one-and-thirty; but I do not think I can put off
-
-my engagement, because it is the only evening for some [[Time|time]] which will
-
-at once suit her and myself. She goes into the warm bath to-morrow, and
-
-for the rest of the week, you know, we are engaged.”
-
-
-
-“But what does [[Lady Russell]] think of this acquaintance?” asked
-
-Elizabeth.
-
-
-
-“She sees nothing to blame in it,” replied Anne; “on the contrary, she
-
-approves it, and has generally taken me when I have called on Mrs
-
-[[smith|Smith]].”
-
-
-
-“Westgate Buildings must have been rather surprised by the appearance

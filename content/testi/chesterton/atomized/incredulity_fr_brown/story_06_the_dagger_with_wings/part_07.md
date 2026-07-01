@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The Dagger with Wings (part 7)"
+title: "incredulity Fr Brown — The Dagger with Wings (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -108,18 +108,3 @@ asked. 'There is something very queer and close to the nerves, I think,
 about notions affecting [[Identity|identity]]. I don't know whether it would be more
 weird to get a guess like that swiftly or slowly. I [[Wonder|wonder]] when you
 suspected and when you were sure.'
-
-'I think I really suspected when I telephoned to you,' replied his
-friend. 'And it was nothing more than the red light from the closed door
-brightening and darkening on the carpet. It looked like a splash of
-[[Blood|blood]] that grew vivid as it cried for vengeance. Why should it change
-like that? I knew the sun had not come out; it could only be because the
-second door behind it had been opened and shut on the [[Garden|garden]]. But if he
-had gone out and seen his enemy then, he would have raised the alarm
-then; and it was some [[Time|time]] afterwards that the fracas occurred. I began
-to feel he had gone out to do something ... to prepare something ... but
-as to when I was certain, that is a different matter. I knew that right
-at the end he was trying to hypnotize me, to master me by the black art
-of eyes like talismans and a voice like an incantation. That's what he
-used to do with old Aylmer, no [[Doubt|doubt]]. But it wasn't only the way he said
-it, it was what he said. It was the religion and [[philosophy]] of it.'

@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 11 (part 3)"
+title: "Wuthering Heights — Chapter 11 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_11/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_11/part_04">part 04 ›</a></div>
 </nav>
 
+
+“Have you been listening at the door, [[Edgar]]?” asked the mistress, in a
+tone particularly calculated to provoke her husband, implying both
+carelessness and contempt of his irritation. [[Heathcliff]], who had raised
+his eyes at the former speech, gave a sneering laugh at the latter; on
+purpose, it seemed, to draw Mr. Linton’s attention to him. He
+succeeded; but [[Edgar]] did not mean to entertain him with any high
+flights of passion.
 
 “I’ve been so far forbearing with you, sir,” he said quietly; “not that
 I was ignorant of your miserable, degraded character, but I felt you

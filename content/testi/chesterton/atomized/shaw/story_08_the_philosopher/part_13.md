@@ -1,5 +1,5 @@
 ---
-title: "[[Shaw]] — THE PHILOSOPHER (part 13)"
+title: "Shaw — THE PHILOSOPHER (part 13)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/shaw-(chesterton)"
@@ -13,6 +13,68 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/shaw/story_08_the_philosopher/part_12">‹ part 12</a><a class="ex-next" href="/testi/chesterton/atomized/shaw/story_08_the_philosopher/part_14">part 14 ›</a></div>
 </nav>
 
+
+The second of the two points on which I think [[Shaw]] has done definite
+harm is this:  that he has (not always or even as a rule intentionally)
+increased that anarchy of thought which is always the destruction
+of thought.  Much of his early writing has encouraged among the modern
+youth that most pestilent of all popular tricks and fallacies;
+what is called the argument of progress.  I mean this kind of thing.
+Previous ages were often, alas, aristocratic in politics or clericalist
+in religion; but they were always democratic in [[philosophy]];
+they appealed to man, not to particular men.  And if most men
+were against an idea, that was so far against it.  But nowadays
+that most men are against a thing is thought to be in its favour;
+it is vaguely supposed to show that some day most men will be for it.
+If a man says that cows are reptiles, or that Bacon wrote Shakespeare,
+he can always quote the contempt of his contemporaries as in some
+mysterious way proving the complete [[conversion]] of posterity.
+The objections to this theory scarcely need any elaborate indication.
+The final objection to it is that it amounts to this:
+say anything, however idiotic, and you are in advance of your age.
+This kind of stuff must be stopped.  The sort of democrat who appeals
+to the babe [[unborn]] must be classed with the sort of [[aristocrat]]
+who appeals to his deceased great-grandfather. Both should be sharply
+reminded that they are appealing to individuals whom they [[Well|well]] know
+to be at a disadvantage in the matter of prompt and witty reply.
+Now although Bernard [[Shaw]] has survived this simple confusion, he has
+in his [[Time|time]] greatly contributed to it.  If there is, for instance,
+one thing that is really rare in [[Shaw]] it is hesitation.  He makes
+up his mind quicker than a calculating boy or a county magistrate.
+Yet on this subject of the next change in ethics he has felt hesitation,
+and being a strictly honest man has expressed it.
+
+"I know no harder practical question than how much selfishness
+one ought to stand from a gifted person for the sake of his
+gifts or on the chance of his being right in the long run.
+The Superman will certainly come like a thief in the [[Night|night]],
+and be shot at accordingly; but we cannot leave our property
+wholly undefended on that account.  On the other hand,
+we cannot ask the Superman simply to add a higher set of virtues
+to current respectable morals; for he is undoubtedly going
+to empty a good deal of respectable [[morality]] out like so much
+dirty [[Water|water]], and replace it by new and strange customs,
+shedding old obligations and accepting new and heavier ones.
+Every step of his progress must horrify conventional people;
+and if it were possible for even the most superior man to
+march ahead all the [[Time|time]], every pioneer of the march towards
+the Superman would be crucified."
+
+When the most emphatic man alive, a man unmatched in violent
+precision of statement, speaks with such avowed vagueness and [[Doubt|doubt]]
+as this, it is no [[Wonder|wonder]] if all his more weak-minded followers
+are in a mere whirlpool of uncritical and unmeaning innovation.
+If the superior person will be apparently criminal, the most probable
+result is simply that the criminal person will think himself superior.
+A very slight knowledge of human [[Nature|nature]] is required in the matter.
+If the Superman may possibly be a thief, you may bet your boots
+that the next thief will be a Superman.  But indeed the Supermen
+(of whom I have met many) have generally been more weak in
+the head than in the moral conduct; they have simply offered
+the first fancy which occupied their minds as the new [[morality]].
+I [[Fear|fear]] that [[Shaw]] had a way of encouraging these follies.
+It is obvious from the passage I have quoted that he has no way
+of restraining them.
 
 The [[Truth|truth]] is that all feeble spirits naturally live in
 the future, because it is featureless; it is a soft job;
@@ -65,73 +127,3 @@ praise of him is almost as complex as it is necessary;
 and I shall devote the last few pages of this book to a triad
 corresponding to the last one--to the three important elements
 in which the work of [[Shaw]] has been good as [[Well|well]] as great.
-
-In the first place, and quite apart from all particular theories,
-the world owes thanks to Bernard [[Shaw]] for having combined being
-intelligent with being intelligible.  He has popularised [[philosophy]],
-or rather he has re-popularised it, for [[philosophy]] is always popular,
-except in peculiarly corrupt and oligarchic ages like our own.
-We have passed the age of the demagogue, the man who has
-little to say and says it loud.  We have come to the age
-of the mystagogue or don, the man who has nothing to say,
-but says it softly and impressively in an indistinct whisper.
-After all, short words must mean something, even if they mean filth
-or lies; but long words may sometimes mean literally nothing,
-especially if they are used (as they mostly are in modern books
-and magazine articles) to balance and modify each other.
-A plain figure 4, scrawled in [[chalk]] anywhere, must always
-mean something; it must always mean 2 + 2.  But the most enormous
-and mysterious algebraic equation, full of letters, brackets,
-and fractions, may all cancel out at last and be equal to nothing.
-When a demagogue says to a mob, "There is the Bank of England,
-why shouldn't you have some of that money?" he says something
-which is at least as honest and intelligible as the figure 4.
-When a writer in the TIMES remarks, "We must raise the economic
-efficiency of the masses without diverting anything from those
-classes which represent the national prosperity and refinement,"
-then his equation cancels out; in a literal and logical sense
-his remark amounts to nothing.
-
-There are two kinds of charlatans or people called quacks to-day.
-The power of the first is that he advertises--and cures.
-The power of the second is that though he is not learned
-enough to cure he is much too learned to advertise.
-The former give away their dignity with a pound of tea;
-the latter are paid a pound of tea merely for being dignified.
-I think them the worse quacks of the two.  [[Shaw]] is certainly
-of the other sort.  Dickens, another man who was great enough
-to be a demagogue (and greater than [[Shaw]] because more heartily
-a demagogue), puts for ever the true difference between the demagogue
-and the mystagogue in DR.  MARIGOLD:  "Except that we're cheap-jacks
-and they're dear-jacks, I don't see any difference between us."
-Bernard [[Shaw]] is a great cheap-jack, with plenty of patter and I
-dare say plenty of nonsense, but with this also (which is not
-wholly unimportant), with goods to sell.  People accuse such
-a man of [[Self|self]]-advertisement. But at least the cheap-jack does
-advertise his wares, whereas the don or dear-jack advertises
-nothing except himself.  His very [[Silence|silence]], nay his very sterility,
-are supposed to be marks of the richness of his erudition.
-He is too learned to teach, and sometimes too wise even to talk.
-St. Thomas [[aquinas|Aquinas]] said:  "In auctore auctoritas."
-But there is more than one man at [[Oxford]] or Cambridge who is
-considered an authority because he has never been an author.
-
-Against all this [[Mystification|mystification]] both of [[Silence|silence]] and verbosity [[Shaw]] has
-been a splendid and smashing protest.  He has stood up for the fact
-that [[philosophy]] is not the concern of those who pass through
-Divinity and Greats, but of those who pass through birth and [[Death|death]].
-Nearly all the most awful and abstruse statements can be put
-in words of one syllable, from "A [[Child|child]] is born" to "A [[Soul|soul]]
-is damned."  If the ordinary man may not discuss existence,
-why should he be asked to conduct it?  About concrete matters
-indeed one naturally appeals to an oligarchy or select class.
-For information about Lapland I go to an aristocracy of Laplanders;
-for the ways of rabbits to an aristocracy of naturalists or,
-preferably, an aristocracy of poachers.  But only mankind itself
-can bear witness to the abstract first principles of mankind,
-and in matters of theory I would always consult the mob.  Only the mass
-of men, for instance, have authority to say whether life is good.
-Whether life is good is an especially mystical and delicate question,
-and, like all such questions, is asked in words of one syllable.
-It is also answered in words of one syllable, and Bernard [[Shaw]]
-(as also mankind) answers "yes."

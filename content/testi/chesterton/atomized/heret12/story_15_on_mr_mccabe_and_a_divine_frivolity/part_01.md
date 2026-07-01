@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]] — On Mr. McCabe and a Divine Frivolity (part 1)"
+title: "heret12 — On Mr. McCabe and a Divine Frivolity (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/heret12-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 XVI.  On Mr. McCabe and a Divine Frivolity
-
 
 A critic once remonstrated with me saying, with an air
 of indignant reasonableness, "If you must make jokes,
@@ -104,7 +103,7 @@ thoughtlessness of our generation by strained paradoxes; of giving
 people a sane grasp of social problems by literary sleight-of-hand;
 of settling important questions by a reckless shower of
 rocket-metaphors and inaccurate `facts,' and the substitution
-of [[Imagination|imagination]] for judgment, I cannot see."
+of imagination for judgment, I cannot see."
 
 I quote this passage with a particular pleasure, because Mr. McCabe certainly
 cannot put too strongly the degree to which I give him and his school credit
@@ -113,28 +112,5 @@ I am quite certain that they mean every word they say.  I also mean every word
 I say.  But why is it that Mr. McCabe has some sort of mysterious hesitation
 about admitting that I mean every word I say; why is it that he is not quite
 as certain of my mental responsibility as I am of his mental responsibility?
-If we attempt to answer the question directly and [[Well|well]], we shall, I think,
+If we attempt to answer the question directly and well, we shall, I think,
 have come to the root of the matter by the shortest cut.
-
-Mr. McCabe thinks that I am not serious but only funny,
-because Mr. McCabe thinks that funny is the opposite of serious.
-Funny is the opposite of not funny, and of nothing else.
-The question of whether a man expresses himself in a [[Grotesque|grotesque]]
-or laughable phraseology, or in a stately and restrained phraseology,
-is not a question of motive or of moral state, it is a question
-of instinctive language and [[Self|self]]-expression. Whether a man
-chooses to tell the [[Truth|truth]] in long sentences or short jokes
-is a problem analogous to whether he chooses to tell the [[Truth|truth]]
-in French or German.  Whether a man preaches his gospel
-grotesquely or gravely is merely like the question of whether
-he preaches it in prose or verse.  The question of whether
-Swift was funny in his irony is quite another sort of question
-to the question of whether Swift was serious in his pessimism.
-Surely even Mr. McCabe would not maintain that the more funny
-"Gulliver" is in its method the less it can be sincere in its object.
-The [[Truth|truth]] is, as I have said, that in this sense the two qualities
-of fun and seriousness have nothing whatever to do with each other,
-they are no more comparable than black and triangular.
-Mr. Bernard [[Shaw]] is funny and sincere.  Mr. George Robey is
-funny and not sincere.  Mr. McCabe is sincere and not funny.
-The average Cabinet Minister is not sincere and not funny.

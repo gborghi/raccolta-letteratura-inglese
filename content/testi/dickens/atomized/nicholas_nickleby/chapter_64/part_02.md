@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 64 (part 2)"
+title: "Nicholas Nickleby — Chapter 64 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_64/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_64/part_03">part 03 ›</a></div>
 </nav>
 
+
+Very little affected, to judge from her action, by this tender appeal,
+the lady was on the point of returning some angry reply, when Nicholas,
+raising his voice, asked his way to Piccadilly.
 
 Mr. Mantalini turned round, caught sight of Kate, and, without another
 word, leapt at one bound into a bed which stood behind the door, and
@@ -127,22 +131,3 @@ to the cold bleak morning, and received the utmost justice from all
 parties. At last, it came to a close; and the [[Fire|fire]] which had been
 lighted in the best parlour having by this [[Time|time]] burnt up, they adjourned
 thither, to hear what Nicholas had to tell.
-
-Nicholas told them all, and never was there a story which awakened so
-many emotions in the breasts of two eager listeners. At one [[Time|time]], honest
-John groaned in sympathy, and at another roared with joy; at one [[Time|time]]
-he vowed to go up to [[London]] on purpose to get a sight of the brothers
-Cheeryble; and, at another, swore that Tim Linkinwater should receive
-such a ham by coach, and carriage free, as mortal knife had never
-carved. When Nicholas began to describe [[Madeline]], he sat with his mouth
-wide open, nudging Mrs. Browdie from [[Time|time]] to [[Time|time]], and exclaiming under
-his breath that she must be ‘raa’ther a tidy sart,’ and when he heard
-at last that his young friend had come down purposely to communicate his
-good fortune, and to convey to him all those assurances of [[Friendship|friendship]]
-which he could not state with sufficient warmth in writing--that the
-only object of his [[Journey|journey]] was to share his happiness with them, and
-to tell them that when he was married they must come up to see him,
-and that [[Madeline]] insisted on it as [[Well|well]] as he--John could hold out no
-longer, but after looking indignantly at his wife, and demanding to
-know what she was whimpering for, drew his coat sleeve over his eyes and
-blubbered outright.

@@ -14,98 +14,118 @@ tags:
 </nav>
 
 
-The next great example I shall take of the princely sage is Gautama,
-the great Lord Buddha.  I know he is not generally classed
-merely with the philosophers; but I am more and more convinced
-from all information that reaches me, that this is the real
-interpretation of his immense importance.  He was by far the
-greatest and the best of these intellectuals born in the purple.
-His reaction was perhaps the noblest and most sincere of all the
-resultant actions of that combination of thinkers and of thrones.
-For his reaction was [[Renunciation|renunciation]].  Marcus Aurelius was content to say,
-with a refined irony, that even in a palace life could be lived [[Well|well]].
-The fierier Egyptian [[King|king]] concluded that it could be lived even better
-after a palace revolution.  But the great Gautama was the only
-one of them who proved he could really do without his palace.
-One fell back on toleration and the other on revolution.
-But after all there is something more absolute about abdication.
-Abdication is perhaps the one really absolute action of an
-absolute monarch.  The Indian prince, reared in Oriental luxury
-and pomp, deliberately went out and lived the life of a beggar.
-That is magnificent, but it is not war; that is, it is not necessarily
-a Crusade in the Christian sense.  It does not decide the question
-of whether the life of a beggar was the life of a saint or the life
-of a philosopher.  It does not decide whether this great man is
-really to go into the tub of Diogenes or the [[Cave|cave]] of St. Jerome.
-Now those who seem to be nearest to the study of Buddha,
-and certainly those who write most clearly and intelligently
-about him, convince me for one that he was simply a philosopher
-who founded a successful school of [[philosophy]], and was turned
-into a sort of divus or sacred being merely by the more mysterious
-and unscientific atmosphere of all such traditions in Asia.
-So that it is necessary to say at this point a word about that invisible
-yet vivid border-line that we [[Cross|cross]] in passing from the Mediterranean
-into the mystery of the East.
+One of the great philosophers said that it would be [[Well|well]]
+if philosophers were kings, or kings were philosophers.
+He spoke as of something too good to be true; but, as a matter of fact,
+it not unfrequently was true.  A certain type, perhaps too little
+noticed in [[history]], may really be called the royal philosopher.
+To begin with, apart from actual royalty, it did occasionally
+become possible for the sage, though he was not what we call
+a religious founder, to be something like a political founder.
+And the great example of this, one of the very greatest in the world,
+will with the very thought of it carry us thousands of miles across
+the vast spaces of Asia to that very wonderful and in some ways that
+very wise world of ideas and institutions, which we dismiss somewhat
+cheaply when we talk of China.  Men have served many very strange gods;
+and trusted themselves loyally to many ideals and even idols.
+China is a society that has really chosen to believe in intellect.
+It has taken intellect seriously; and it may be that it stands [[Alone|alone]]
+in the world.  From a very early age it faced the dilemma of the [[King|king]]
+and the philosopher by actually appointing a philosopher to advise
+the [[King|king]].  It made a public institution out of a private individual,
+who had nothing in the world to do but to be intellectual.
+It had and has, of course, many other things on the same pattern.
+It creates all ranks and privileges by public examination;
+it has nothing that we call an aristocracy; it is a [[democracy]]
+dominated by an intelligensia.  But the point here is that it had
+philosophers to advise kings; and one of those philosophers must
+have been a great philosopher and a great statesman.
 
-Perhaps there are no things out of which we get so little of the [[Truth|truth]]
-as the truisms; especially when they are really true.  We are all in
-the habit of saying certain things about Asia, which are true enough
-but which hardly help us because we do not understand their [[Truth|truth]];
-as that Asia is old or looks to the past or is not progressive.
-Now it is true that Christendom is more progressive, in a sense
-that has very little to do with the rather provincial notion of an
-endless fuss of political improvement.  Christendom does believe,
-for [[Christianity]] does believe, that man can eventually get somewhere,
-here or hereafter, or in various ways according to various doctrines.
-The world's [[Desire|desire]] can somehow be satisfied as desires are satisfied,
-whether by a new life or an old [[Love|love]] or some form of positive
-possession and fulfilment.  For the rest, we all know there is a
-rhythm and not a mere progress in things, that things rise and fall;
-only with us the rhythm is a fairly free and incalculable rhythm.
-For most of Asia the rhythm has hardened into a recurrence.
-It is no longer merely a rather topsy-turvy sort of world; it is a [[Wheel|wheel]].
-What has happened to all those highly intelligent and highly
-civilised peoples is that they have been caught up in a sort
-of cosmic rotation, of which the hollow hub is really nothing.
-In that sense the worst part of existence is that it may just
-as [[Well|well]] go on like that forever.  That is what we really mean
-when we say that Asia is old or unprogressive or looking backwards.
-That is why we see even her curved swords as arcs broken
-from that blinding [[Wheel|wheel]]; why we see her serpentine ornament
-as returning everywhere, like a snake that is never slain.
-It has very little to do with the political varnish of progress;
-all Asiatics might have top-hats on their heads but if they had this
-spirit still in their hearts, they would only think the hats would
-vanish and come round again like the planets; not that running
-after a hat could lead them to heaven or even to [[Home|home]].
+Confucius was not a religious founder or even a religious teacher;
+possibly not even a religious man.  He was not an atheist;
+he was apparently what we call an agnostic.  But the really vital point
+is that it is utterly irrelevant to talk about his religion at all.
+It is like talking of theology as the first thing in the story
+of how Rowland [[Hill]] established the postal system or Baden Powell
+organised the Boy Scouts.  Confucius was not there to bring a
+message from heaven to humanity, but to organise China; and he must
+have organised it exceedingly [[Well|well]].  It follows that he dealt
+much with morals; but he bound them up strictly with manners.
+The peculiarity of his scheme and of his country, in which it
+contrasts with its great pendant the system of Christendom,
+is that he insisted on perpetuating an external life with all
+its forms, that outward continuity might preserve internal peace.
+Anyone who knows how much habit has to do with health,
+of mind as [[Well|well]] as [[Body|body]], will see the [[Truth|truth]] in his idea.
+But he will also see that the ancestor-worship and the reverence
+for the Sacred Emperor were habits and not creeds.  It is unfair
+to the great Confucius to say he was a religious founder.
+It is even unfair to him to say he was not a religious founder.
+It is as unfair as going out of one's way to say that Jeremy Bentham
+was not a Christian martyr.
 
-Now when the genius of Buddha arose to deal with the matter, this sort
-of cosmic sentiment was already common to almost everything in the east.
-There was indeed the jungle of an extraordinarily extravagant
-and almost asphyxiating mythology.  Nevertheless it is possible
-to have more sympathy with this popular fruitfulness in folk-lore
-than with some of the higher pessimism that might have withered it.
-It must always be remembered, however, when all fair allowances are made,
-that a great deal of spontaneous eastern imagery really is idolatry;
-the local and literal worship of an idol.  This is probably not true
-of the ancient Brahminical system, at least as seen by Brahmins.
-But that phrase [[Alone|alone]] will remind us of a reality of much greater moment.
-This great reality is the Caste System of ancient India.  It may have had
-some of the practical advantages of the Guild System of Medieval Europe.
-But it contrasts not only with that Christian [[democracy]], but with every
-extreme type of Christian aristocracy, in the fact that it does
-really conceive the social superiority as a spiritual superiority.
-This not only divides it fundamentally from the fraternity
-of Christendom, but [[Leaves|leaves]] it standing like a mighty and terraced
-mountain of [[Pride|pride]] between the relatively egalitarian levels
-both of [[Islam]] and of China.  But the fixity of this formation
-through thousands of years is another illustration of that spirit
-of repetition that has marked [[Time|time]] from [[Time|time]] immemorial.
-Now we may also presume the prevalence of another idea which we
-associate with the Buddhists as interpreted by the Theosophists.
-As a fact, some of the strictest Buddhists repudiate the idea
-and still more scornfully repudiate the Theosophists.
-But whether the idea is in Buddhism, or only in the birthplace
-of Buddhism, or only in a tradition or a travesty of Buddhism,
-it is an idea entirely proper to this principle of recurrence.
-I mean of course the idea of Reincarnation.
+But there is a class of most interesting cases in which
+philosophers were kings, and not merely the friends of kings.
+The combination is not accidental.  It has a great deal to do with
+this rather elusive question of the function of the philosopher.
+It contains in it some hint of why [[philosophy]] and mythology
+seldom came to an open rupture.  It was not only because there
+was something a little frivolous about the mythology.
+It was also because there was something a little supercilious
+about the philosopher.  He despised the myths, but he also
+despised the mob; and thought they suited each other.  The pagan
+philosopher was seldom a man of the people, at any rate in spirit;
+he was seldom a democrat and often a bitter critic of [[democracy]].
+He had about him an air of aristocratic and humane leisure;
+and his part was most easily played by men who happened to be
+in such a position.  It was very easy and natural for a prince
+or a prominent person to play at being as philosophical as [[Hamlet]]
+or [[Theseus]] in the Midsummer [[Night]]'s Dream.  And from very early ages
+we find ourselves in the presence of these princely intellectuals.
+In fact, we find one of them in the very first recorded [[Ages of the World|ages of the world]];
+sitting on the primeval throne that looked over ancient [[Egypt]].
+
+The most intense interest of the incident of Akenahten, commonly called
+the Heretic Pharaoh, lies in the fact that he was the one example, at any
+rate before Christian times, of one of these royal philosophers who set
+himself to fight popular mythology in the name of private [[philosophy]].
+Most of them assumed the attitude of Marcus Aurelius,
+who is in many ways the model of this sort of monarch and sage.
+Marcus Aurelius has been blamed for tolerating the pagan amphitheatre
+or the Christian martyrdoms.  But it was characteristic;
+for this sort of man really thought of popular religion just as
+he thought of popular circuses.  Of him Professor Phillimore has
+profoundly said 'a great and good man--and he knew it.'  The heretic
+Pharaoh had a [[philosophy]] more earnest and perhaps more humble.
+For there is a corollary to the conception of being too proud to fight.
+It is that the humble have to do most of the fighting.
+Anyhow, the Egyptian prince was simple enough to take his own
+[[philosophy]] seriously, and [[Alone|alone]] among such intellectual princes
+he affected a sort of coup d'etat; hurling down the high gods of [[Egypt]]
+with one imperial gesture and lifting up for all men, like a blazing
+[[Mirror|mirror]] of monotheistic [[Truth|truth]], the disc of the universal sun.
+He had other interesting ideas often to be found in such idealists.
+In the sense in which we speak of a Little Englander he was a
+Little Egypter.  In art he was a realist because he was an idealist;
+for realism is more impossible than any other ideal.  But after
+all there falls on him something of the [[Shadow|shadow]] of Marcus Aurelius,
+stalked by the [[Shadow|shadow]] of Professor Phillimore.  That is the matter
+with this noble sort of prince is that he has nowhere quite escaped
+being something of a prig.  Priggishness is so pungent a smell
+that it clings amid the faded spices even to an Egyptian mummy.
+That was the matter with the heretic Pharaoh, as with a good many
+other heretics, was that he probably never paused to ask himself
+whether there was anything in the popular beliefs and tales
+of people less educated than himself.  And, as already suggested,
+there was something in them.  There was a real human hunger
+in all that element of feature and locality, that procession
+of deities like enormous pet [[Animals|animals]], in that unwearied watching
+at certain haunted spots, in all the many wanderings of mythology.
+[[Nature]] may not have the name of Isis; Isis may not be really
+looking for Osiris.  But it is true that [[Nature]] is really looking
+for something; [[Nature]] is always looking for the [[Supernatural|supernatural]].
+Something much more definite was to satisfy that need; but a dignified
+monarch with a disc of the sun did not satisfy it.  The royal
+experiment failed amid a roaring reaction of popular superstitions,
+in which the priests [[Rose|rose]] on the shoulders of the people and ascended
+the throne of the kings.

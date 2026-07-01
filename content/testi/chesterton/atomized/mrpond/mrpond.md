@@ -1,5 +1,5 @@
 ---
-title: "[[MrPond]]"
+title: "MrPond"
 author: "Chesterton"
 unitType: work
 parentWork: "works/mrpond-(chesterton)"
@@ -1075,7 +1075,7 @@ looking down on the broken wings and white and golden armour of
 
 some defeated champion of the Cherubim.
 
-Grock said no [[prayer]] and uttered no pity; but in some dark way his
+Grock said no [[Prayer|prayer]] and uttered no pity; but in some dark way his
 
 mind was moved, as even the dark and mighty swamp will sometimes
 
@@ -1497,7 +1497,7 @@ too tired to finish it; Artemis did so as if she were really too
 
 eager to get on to the next.  There was within her, somehow, a
 
-thing, a spirit of life, which survives every criticism of [[america|America]].
+thing, a spirit of life, which survives every criticism of [[America]].
 
 "Joan Varney's much nicer," continued Artemis, "and you bet your
 
@@ -5089,7 +5089,7 @@ ever having been any label or previous [[Inscription|inscription]] at all.  But 
 
 would do a great deal more than that.  The clown is not the only
 
-[[artist]] who wields a poker; there is the whole elegant craft called
+[[Artist|artist]] who wields a poker; there is the whole elegant craft called
 
 poker-work.  It would be quite easy to change the whole appearance
 
@@ -5405,7 +5405,7 @@ because he really did believe in the old individualistic theory of
 
 what he called free contract.  The type is almost unknown in
 
-England; the theory is more common in [[america|America]].  But nobody who
+England; the theory is more common in [[America]].  But nobody who
 
 looked at the baldish, rather corrugated brow that bulged between
 
@@ -7799,7 +7799,7 @@ perhaps because it was a quiet [[Time|time]].
 
 all the trouble and [[Tragedy|tragedy]] began.
 
-"First of all, a young [[artist]] of the name of Albert Ayres rented
+"First of all, a young [[Artist|artist]] of the name of Albert Ayres rented
 
 the [[house]] next door, though he seemed to want it mostly for a base
 
@@ -7817,7 +7817,7 @@ Unfortunately, I know only too [[Well|well]] what became of him.
 
 "He was an interesting individual; perhaps a little too like the
 
-old notion of an [[artist]]; the sort one can hardly call either
+old notion of an [[Artist|artist]]; the sort one can hardly call either
 
 carelessly or carefully picturesque; with a halo of yellow hair
 
@@ -7953,7 +7953,7 @@ Mr. Pond sat up abruptly and seemed to exhale a breath; but all he
 
 said was, "I thought so."
 
-"The [[artist]] named Ayres," continued the vicar, "seemed more annoyed
+"The [[Artist|artist]] named Ayres," continued the vicar, "seemed more annoyed
 
 than either of us at this absurd adventure; and his comment was
 
@@ -8033,9 +8033,9 @@ and distorted; you know how deceptive shadows are; but I could see
 
 the straggling tufts that reminded one of Struwwelpeter; and I
 
-think I told you before that Ayres, the [[artist]], was a little too
+think I told you before that Ayres, the [[Artist|artist]], was a little too
 
-like the traditional [[artist]] who hasn't had his hair cut.  Also, he
+like the traditional [[Artist|artist]] who hasn't had his hair cut.  Also, he
 
 affected that sort of languid stoop that such artists assume; and
 
@@ -8109,7 +8109,7 @@ flash; but the other I saw plainly enough.
 
 "The first figure, the long-haired figure I had already identified
 
-with the [[artist]], ran very quickly across the moonlit patch and
+with the [[Artist|artist]], ran very quickly across the moonlit patch and
 
 vanished into the vast [[Shadow|shadow]] of the creeper that climbed the
 
@@ -8131,7 +8131,7 @@ himself.
 
 "At that instant the whole situation became finally clear; for I
 
-saw the hairy head of the unfortunate [[artist]] rising out of the
+saw the hairy head of the unfortunate [[Artist|artist]] rising out of the
 
 tangle of tropical [[Leaves|leaves]], in [[Shadow|shadow]], but all the more unmistakable
 
@@ -8337,7 +8337,7 @@ paused, as with a new embarrassment.
 
 "Go on," said Mr. Pond gently.
 
-"Only my rival wasn't the [[artist]] with the long hair," said Gahagan.
+"Only my rival wasn't the [[Artist|artist]] with the long hair," said Gahagan.
 
 [[Hubert]] Wotton again looked up sharply, with a frowning stare; but
 
@@ -8351,7 +8351,7 @@ just about the [[Time|time]] when we both heard the howl of a dog in the
 
 dark [[Garden|garden]].  I may explain that I was actually staying with Ayres,
 
-the [[artist]], for that [[Night|night]]; we had become quite good friends,
+the [[Artist|artist]], for that [[Night|night]]; we had become quite good friends,
 
 really; though there may have been a bit of romantic swagger about
 
@@ -8949,7 +8949,7 @@ walk across the Atlantic, where even he was apparently submerged.
 
 It is believed that the unfortunate creature was going to give
 
-lectures in [[america|America]]; driven by that mysterious instinct which leads
+lectures in [[America]]; driven by that mysterious instinct which leads
 
 any person who is notorious for any reason to adopt that course."
 
@@ -8993,11 +8993,11 @@ Butt, bull-necked and broad-shouldered, but quite short; and a much
 
 taller and more talkative and elegant [[government]]-office clerk named
 
-Travers, but referred to by nearly everybody as [[Arthur]].  The
+Travers, but referred to by nearly everybody as [[arthur|Arthur]].  The
 
 stalwart Butt commonly occupied a desk on the ground floor,
 
-watching the door and anyone who entered it; while [[Arthur]] Travers
+watching the door and anyone who entered it; while [[arthur|Arthur]] Travers
 
 worked in the office upstairs, where there were some very valuable
 
@@ -9445,11 +9445,11 @@ there?"
 
 "[[Well]]," Butt blurted out at last, "I'm not a bit comfortable about
 
-[[Arthur]]."
+[[arthur|Arthur]]."
 
 Then, after a sort of gasp, he tried again:  "At least, it isn't so
 
-much [[Arthur]] as [[Arthur]]'s . . . what [[Arthur]]'s doing.  It makes it all
+much [[arthur|Arthur]] as [[arthur|Arthur]]'s . . . what [[arthur|Arthur]]'s doing.  It makes it all
 
 the nastier to have put it like that.  But you know he got engaged
 
@@ -9459,7 +9459,7 @@ last week.  Have you met his fiancée, sir?"
 
 way.
 
-"[[Well]], sir, [[Arthur]] brought her in here to-day while you were out;
+"[[Well]], sir, [[arthur|Arthur]] brought her in here to-day while you were out;
 
 he'd just taken her to the pantomime of Puss-in-Boots on the pier,
 
@@ -9537,7 +9537,7 @@ did."
 
 Mr. Pond received the news in [[Silence|silence]].
 
-"I [[Hope|hope]], sir, you won't assume anything against [[Arthur]]," said Butt,
+"I [[Hope|hope]], sir, you won't assume anything against [[arthur|Arthur]]," said Butt,
 
 huskily.  "I'm sure I'd do anything to clear him of any--"
 
@@ -9553,7 +9553,7 @@ did just then.
 
 They flung open the door, and they saw all that was to be seen.
 
-All that was to be seen was [[Arthur]] Travers stretched out face
+All that was to be seen was [[arthur|Arthur]] Travers stretched out face
 
 downwards on the ground, and between his shoulder-blades stood out
 
@@ -9653,7 +9653,7 @@ thing before.
 
 Touching many other things, the darkness began to thin away to a
 
-somewhat dreary [[Dawn|dawn]].  It was ascertained that poor [[Arthur]]'s
+somewhat dreary [[Dawn|dawn]].  It was ascertained that poor [[arthur|Arthur]]'s
 
 equivocal fiancée had indeed fled; very possibly in company with
 
@@ -9827,7 +9827,7 @@ magician; but he is always depicted, in pictures and pantomimes, as
 
 an ogre with a large knife.  Signor Alberto Tizzi, that somewhat
 
-dubious foreign [[artist]], enacts the part on the pier by the usual
+dubious foreign [[Artist|artist]], enacts the part on the pier by the usual
 
 expedient of walking on very high stilts, covered by very long
 

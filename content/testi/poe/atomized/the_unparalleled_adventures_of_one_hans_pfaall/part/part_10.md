@@ -1,5 +1,5 @@
 ---
-title: "[[The Unparalleled Adventures of one Hans Pfaall]] (part 10)"
+title: "The Unparalleled Adventures of one Hans Pfaall (part 10)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-unparalleled-adventures-of-one-hans-pfaall-(poe)"
@@ -13,6 +13,44 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/part/part_09">‹ part 09</a><a class="ex-next" href="/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/part/part_11">part 11 ›</a></div>
 </nav>
 
+
+      ears—still, however, breathing with tolerable [[Freedom|freedom]]. The cat
+
+      and pigeons seemed to suffer no inconvenience whatsoever.
+
+
+
+      “At twenty minutes before seven, the balloon entered a long
+
+      series of dense cloud, which put me to great trouble, by damaging
+
+      my condensing apparatus and wetting me to the skin. This was, to
+
+      be sure, a singular recontre, for I had not believed it possible
+
+      that a cloud of this [[Nature|nature]] could be sustained at so great an
+
+      elevation. I thought it best, however, to throw out two
+
+      five-pound pieces of ballast, reserving still a weight of one
+
+      hundred and sixty-five pounds. Upon so doing, I soon [[Rose|rose]] above
+
+      the difficulty, and perceived immediately, that I had obtained a
+
+      great increase in my rate of ascent. In a few seconds after my
+
+      leaving the cloud, a flash of vivid [[Lightning|lightning]] shot from one end
+
+      of it to the other, and caused it to kindle up, throughout its
+
+      vast extent, like a mass of ignited and glowing charcoal. This,
+
+      it must be remembered, was in the broad light of day. No fancy
+
+      may picture the sublimity which might have been exhibited by a
+
+      similar phenomenon taking place amid the darkness of the [[Night|night]].
 
       Hell itself might have been found a fitting image. Even as it
 
@@ -145,49 +183,3 @@ tags:
       ascension. The difficulty of breathing, however, was diminished
 
       in a very slight degree, and I found that it would soon be
-
-      positively necessary to make use of my condenser. In the
-
-      meantime, looking toward the cat, who was again snugly stowed
-
-      away upon my coat, I discovered to my infinite surprise, that she
-
-      had taken the opportunity of my indisposition to bring into light
-
-      a litter of three little kittens. This was an addition to the
-
-      number of passengers on my part altogether unexpected; but I was
-
-      pleased at the occurrence. It would afford me a chance of
-
-      bringing to a kind of test the [[Truth|truth]] of a surmise, which, more
-
-      than anything else, had influenced me in attempting this
-
-      ascension. I had imagined that the habitual [[Endurance|endurance]] of the
-
-      atmospheric pressure at the surface of the earth was the cause,
-
-      or nearly so, of the [[Pain|pain]] attending animal existence at a
-
-      distance above the surface. Should the kittens be found to suffer
-
-      uneasiness in an equal degree with their mother, I must consider
-
-      my theory in fault, but a failure to do so I should look upon as
-
-      a strong confirmation of my idea.
-
-
-
-      “By eight o’[[Clock|clock]] I had actually attained an elevation of
-
-      seventeen miles above the surface of the earth. Thus it seemed to
-
-      me evident that my rate of ascent was not only on the increase,
-
-      but that the progression would have been apparent in a slight
-
-      degree even had I not discharged the ballast which I did. The
-
-      pains in my head and ears returned, at intervals, with violence,

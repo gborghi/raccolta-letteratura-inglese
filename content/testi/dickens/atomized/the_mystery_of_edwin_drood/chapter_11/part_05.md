@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 10 (part 5)"
+title: "The Mystery of Edwin Drood — Chapter 10 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -13,6 +13,21 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_11/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_12/part_01">part 01 ›</a></div>
 </nav>
 
+
+“It is only I, Jasper. I am sorry to have disturbed you.”
+
+The glare of his eyes settled down into a look of recognition, and he
+moved a chair or two, to make a way to the fireside.
+
+“I was dreaming at a great rate, and am glad to be disturbed from an
+indigestive after-dinner [[Sleep|sleep]]. Not to mention that you are always
+welcome.”
+
+“Thank you. I am not confident,” returned Mr. Crisparkle, as he sat
+himself down in the easy-chair placed for him, “that my subject will at
+first sight be quite as welcome as myself; but I am a minister of
+peace, and I pursue my subject in the interests of peace. In a word,
+Jasper, I want to establish peace between these two young fellows.”
 
 A very perplexed expression took hold of Mr. Jasper’s face; a very
 perplexing expression too, for Mr. Crisparkle could make nothing of it.

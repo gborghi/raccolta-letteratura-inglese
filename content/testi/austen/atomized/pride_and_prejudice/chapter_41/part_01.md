@@ -1,5 +1,5 @@
 ---
-title: "[[Pride and Prejudice]] — Chapter 41 (part 1)"
+title: "Pride and Prejudice — Chapter 41 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/pride-and-prejudice-(austen)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/works/pride-and-prejudice-(austen)">Pride and Prejudice</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/pride_and_prejudice/chapter_34/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/pride_and_prejudice/chapter_41/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/pride_and_prejudice/chapter_36/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/pride_and_prejudice/chapter_41/part_02">part 02 ›</a></div>
 </nav>
 
 

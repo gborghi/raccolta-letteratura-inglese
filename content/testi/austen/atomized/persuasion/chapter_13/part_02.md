@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 13 (part 2)"
+title: "Persuasion — Chapter 13 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -14,7 +14,11 @@ tags:
 </nav>
 
 
-and of hoping that she was to be blessed with a second [[spring]] of youth
+and Anne, in receiving her compliments on the occasion, had the
+
+amusement of connecting them with the silent admiration of her cousin,
+
+and of hoping that she was to be blessed with a second [[Spring|spring]] of youth
 
 and [[Beauty|beauty]].
 
@@ -207,17 +211,3 @@ long Miss Musgrove’s recovery might yet be doubtful, and how liable she
 would still remain to suffer from the concussion hereafter! The Admiral
 
 wound it up summarily by exclaiming—
-
-
-
-“Ay, a very bad business indeed. A new sort of way this, for a young
-
-fellow to be making [[Love|love]], by breaking his mistress’s head, is not it,
-
-Miss Elliot? This is breaking a head and giving a plaster, truly!”
-
-
-
-[[Admiral Croft]]’s manners were not quite of the tone to suit Lady
-
-Russell, but they delighted Anne. His goodness of heart and simplicity

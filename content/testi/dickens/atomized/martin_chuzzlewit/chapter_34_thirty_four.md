@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 34: THIRTY FOUR"
+title: "Martin Chuzzlewit — Chapter 34: THIRTY FOUR"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -175,7 +175,7 @@ rooted in the British mind!’
 
 ‘Good Heaven, sir,’ cried Martin. ‘Is the Eden Land Corporation, with Mr
 Scadder at its head, and all the misery it has worked, at its door, an
-Institution of [[America]]? A part of any form of [[government]] that ever was
+Institution of [[america|America]]? A part of any form of [[government]] that ever was
 known or heard of?’
 
 ‘I con-sider the cause of this to be,’ said Pogram, looking round again
@@ -211,7 +211,7 @@ and the [[Tyrant]] is, that his bright [[Home|home]] is in the Settin Sun.’
 
 Part of this referred to Chollop, and part to a Western postmaster, who,
 being a public defaulter not very long before (a character not at all
-uncommon in [[America]]), had been removed from office; and on whose behalf
+uncommon in [[america|America]]), had been removed from office; and on whose behalf
 Mr Pogram (he voted for Pogram) had thundered the last sentence from
 his seat in Congress, at the head of an unpopular President. It told
 brilliantly; for the bystanders were delighted, and one of them said to
@@ -784,7 +784,7 @@ own case, and impress upon it how much [[Suffering|suffering]] may be prevented 
 little pains!’
 
 Cheerily, lads, cheerily! Anchor weighed. [[Ship]] in full sail. Her sturdy
-bowsprit pointing true to England. [[America]] a cloud upon the sea behind
+bowsprit pointing true to England. [[america|America]] a cloud upon the sea behind
 them!
 
 ‘Why, Cook! what are you thinking of so steadily?’ said Martin.

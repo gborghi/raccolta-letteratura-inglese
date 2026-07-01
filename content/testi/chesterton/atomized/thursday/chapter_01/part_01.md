@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 1 (part 1)"
+title: "thursday — Chapter 1 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -17,7 +17,6 @@ tags:
                           CHAPTER I
 
                  THE TWO POETS OF SAFFRON PARK
-
 
 THE suburb of Saffron Park lay on the sunset side of [[London]], as red and
 ragged as a cloud of sunset.  It was built of a bright brick throughout;
@@ -108,10 +107,3 @@ So all the Saffron Parkers looked at him as if he had that moment fallen
 out of that impossible sky.
 
 In fact, Mr. [[Lucian Gregory]], the anarchic poet, connected the two events.
-
-"It may [[Well|well]] be," he said, in his sudden lyrical manner, "it may
-[[Well|well]] be on such a [[Night|night]] of clouds and cruel colours that there is
-brought forth upon the earth such a portent as a respectable poet.
-You say you are a poet of law; I say you are a contradiction in terms.
-I only [[Wonder|wonder]] there were not comets and earthquakes on the [[Night|night]] you
-appeared in this [[Garden|garden]]."

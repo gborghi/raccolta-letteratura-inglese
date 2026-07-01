@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 15 (part 1)"
+title: "Persuasion — Chapter 15 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/works/persuasion-(austen)">Persuasion</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_14/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_15/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_14/part_03">‹ part 03</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_15/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -213,9 +213,3 @@ Mr Elliot had called repeatedly, had dined with them once, evidently
 delighted by the distinction of being asked, for they gave no dinners
 
 in general; delighted, in short, by every proof of cousinly notice, and
-
-placing his whole happiness in being on intimate terms in Camden Place.
-
-
-
-Anne listened, but without quite understanding it. Allowances, large

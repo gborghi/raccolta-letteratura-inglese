@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 54 (part 1)"
+title: "Great Expectations — Chapter 54 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -121,12 +121,3 @@ either attended or followed by any boat. If we had been waited on by
 any boat, I should have run in to shore, and have obliged her to go on,
 or to make her purpose evident. But we held our own without any
 appearance of molestation.
-
-He had his boat-cloak on him, and looked, as I have said, a natural
-part of the scene. It was remarkable (but perhaps the wretched life he
-had led accounted for it) that he was the least anxious of any of us.
-He was not indifferent, for he told me that he hoped to live to see his
-gentleman one of the best of gentlemen in a foreign country; he was not
-disposed to be passive or resigned, as I understood it; but he had no
-notion of meeting danger half way. When it came upon him, he confronted
-it, but it must come before he troubled himself.

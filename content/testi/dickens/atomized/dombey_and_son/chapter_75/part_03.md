@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 19 (part 3)"
+title: "Dombey and Son — Chapter 47 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,123 +14,109 @@ tags:
 </nav>
 
 
-“Wally! say a word for me, my dear. I’m very grateful.”
+“Mama,” said Florence, anxiously, “there is a change in you, in more
+than what you say to me, which alarms me. Let me stay with you a
+little.”
 
-“No, Walter,” returned Florence with her quiet smile. “Say nothing for
-him, if you please. I understand him very [[Well|well]], and we must learn to
-talk together without you, dear Walter.”
+“No,” said Edith, “no, dearest. I am best left [[Alone|alone]] now, and I do best
+to keep apart from you, of all else. Ask me no questions, but believe
+that what I am when I seem fickle or capricious to you, I am not of my
+own will, or for myself. Believe, though we are stranger to each other
+than we have been, that I am unchanged to you within. Forgive me for
+having ever darkened your dark [[Home|home]]—I am a [[Shadow|shadow]] on it, I know
+[[Well|well]]—and let us never speak of this again.”
 
-The regretful tone in which she said these latter words, touched Walter
-more than all the rest.
+“Mama,” sobbed Florence, “we are not to part?”
 
-“Miss Florence,” he replied, with an effort to recover the cheerful
-manner he had preserved while talking with his Uncle, “I know no more
-than my Uncle, what to say in acknowledgment of such kindness, I am
-sure. But what could I say, after all, if I had the power of talking
-for an hour, except that it is like you?”
+“We do this that we may not part,” said Edith. “Ask no more. Go,
+Florence! My [[Love|love]] and my remorse go with you!”
 
-[[Susan Nipper]] began upon a new part of her bonnet string, and nodded at
-the skylight, in approval of the sentiment expressed.
+She embraced her, and dismissed her; and as Florence passed out of her
+room, Edith looked on the retiring figure, as if her good angel went
+out in that form, and left her to the haughty and indignant passions
+that now claimed her for their own, and set their seal upon her brow.
 
-“Oh! but, Walter,” said Florence, “there is something that I wish to
-say to you before you go away, and you must call me Florence, if you
-please, and not speak like a stranger.”
+From that hour, Florence and she were, as they had been, no more. For
+days together, they would seldom meet, except at table, and when Mr
+Dombey was present. Then Edith, imperious, inflexible, and silent,
+never looked at her. Whenever Mr Carker was of the party, as he often
+was, during the progress of Mr Dombey’s recovery, and afterwards, Edith
+held herself more removed from her, and was more distant towards her,
+than at other times. Yet she and Florence never encountered, when there
+was no one by, but she would embrace her as affectionately as of old,
+though not with the same relenting of her proud aspect; and often, when
+she had been out late, she would steal up to Florence’s room, as she
+had been used to do, in the dark, and whisper “Good-[[Night|night]],” on her
+pillow. When unconscious, in her slumber, of such visits, Florence
+would sometimes awake, as from [[A Dream|a dream]] of those words, softly spoken,
+and would seem to feel the touch of lips upon her face. But less and
+less often as the months went on.
 
-“Like a stranger!” returned Walter, “No. I couldn’t speak so. I am
-sure, at least, I couldn’t feel like one.”
+And now the void in Florence’s own heart began again, indeed, to make a
+[[Solitude|solitude]] around her. As the image of the father whom she loved had
+insensibly become a mere abstraction, so Edith, following the fate of
+all the rest about whom her affections had entwined themselves, was
+fleeting, fading, growing paler in the distance, every day. Little by
+little, she receded from Florence, like the retiring [[Ghost|ghost]] of what she
+had been; little by little, the chasm between them widened and seemed
+deeper; little by little, all the power of earnestness and tenderness
+she had shown, was frozen up in the bold, angry hardihood with which
+she stood, upon the brink of a deep precipice unseen by Florence,
+daring to look down.
 
-“Ay, but that is not enough, and is not what I mean. For, Walter,”
-added Florence, bursting into [[Tears|tears]], “he liked you very much, and said
-before he died that he was fond of you, and said ‘Remember Walter!’ and
-if you’ll be a brother to me, Walter, now that he is gone and I have
-none on earth, I’ll be your sister all my life, and think of you like
-one wherever we may be! This is what I wished to say, dear Walter, but
-I cannot say it as I would, because my heart is full.”
+There was but one consideration to set against the heavy loss of Edith,
+and though it was slight comfort to her burdened heart, she tried to
+think it some relief. No longer divided between her affection and duty
+to the two, Florence could [[Love|love]] both and do no injustice to either. As
+shadows of her fond [[Imagination|imagination]], she could give them equal place in her
+own bosom, and wrong them with no doubts.
 
-And in its fulness and its sweet simplicity, she held out both her
-hands to him. Walter taking them, stooped down and touched the tearful
-face that neither shrunk nor turned away, nor reddened as he did so,
-but looked up at him with confidence and [[Truth|truth]]. In that one moment,
-every [[Shadow|shadow]] of [[Doubt|doubt]] or agitation passed away from Walter’s [[Soul|soul]]. It
-seemed to him that he responded to her [[Innocent|innocent]] appeal, beside the dead
-[[Child|child]]’s bed: and, in the solemn presence he had seen there, pledged
-himself to cherish and protect her very image, in his banishment, with
-brotherly regard; to garner up her simple [[Faith|faith]], inviolate; and hold
-himself degraded if he breathed upon it any thought that was not in her
-own breast when she gave it to him.
+So she tried to do. At times, and often too, wondering speculations on
+the cause of this change in Edith, would obtrude themselves upon her
+mind and frighten her; but in the calm of its abandonment once more to
+silent grief and [[Loneliness|loneliness]], it was not a curious mind. Florence had
+only to remember that her star of promise was clouded in the general
+gloom that hung upon the [[house]], and to weep and be resigned.
 
-[[Susan Nipper]], who had bitten both her bonnet strings at once, and
-imparted a great deal of private emotion to the skylight, during this
-transaction, now changed the subject by inquiring who took milk and who
-took sugar; and being enlightened on these points, poured out the tea.
-They all four gathered socially about the little table, and took tea
-under that young lady’s active superintendence; and the presence of
-Florence in the back parlour, brightened the Tartar frigate on the
-wall.
+Thus living, in [[A Dream|a dream]] wherein the overflowing [[Love|love]] of her young heart
+expended itself on airy forms, and in a real world where she had
+experienced little but the [[rolling]] back of that strong tide upon
+itself, Florence grew to be seventeen. Timid and retiring as her
+solitary life had made her, it had not embittered her sweet temper, or
+her earnest [[Nature|nature]]. A [[Child|child]] in [[Innocent|innocent]] simplicity; a woman in her
+modest [[Self-Reliance|self-reliance]], and her deep intensity of feeling; both [[Child|child]] and
+woman seemed at once expressed in her face and fragile delicacy of
+shape, and gracefully to mingle there;—as if the [[spring]] should be
+unwilling to depart when [[Summer|summer]] came, and sought to blend the earlier
+beauties of the [[Flowers|flowers]] with their bloom. But in her thrilling voice,
+in her calm eyes, sometimes in a sage ethereal light that seemed to
+rest upon her head, and always in a certain pensive air upon her
+[[Beauty|beauty]], there was an expression, such as had been seen in the dead boy;
+and the council in the Servants’ Hall whispered so among themselves,
+and shook their heads, and ate and drank the more, in a closer bond of
+good-fellowship.
 
-Half an hour ago Walter, for his life, would have hardly called her by
-her name. But he could do so now when she entreated him. He could think
-of her being there, without a lurking misgiving that it would have been
-better if she had not come. He could calmly think how beautiful she
-was, how full of promise, what a [[Home|home]] some happy man would find in such
-a heart one day. He could reflect upon his own place in that heart,
-with [[Pride|pride]]; and with a brave determination, if not to deserve it—he
-still thought that far above him—never to deserve it less.
+This observant [[Body|body]] had plenty to say of Mr and Mrs Dombey, and of Mr
+Carker, who appeared to be a mediator between them, and who came and
+went as if he were trying to make peace, but never could. They all
+deplored the uncomfortable state of affairs, and all agreed that Mrs
+Pipchin (whose unpopularity was not to be surpassed) had some hand in
+it; but, upon the whole, it was agreeable to have so good a subject for
+a rallying point, and they made a great deal of it, and enjoyed
+themselves very much.
 
-Some fairy influence must surely have hovered round the hands of Susan
-Nipper when she made the tea, engendering the tranquil air that reigned
-in the back parlour during its discussion. Some counter-influence must
-surely have hovered round the hands of Uncle Sol’s chronometer, and
-moved them faster than the Tartar frigate ever went before the [[Wind|wind]]. Be
-this as it may, the visitors had a coach in waiting at a quiet corner
-not far off; and the chronometer, on being incidentally referred to,
-gave such a positive opinion that it had been waiting a long [[Time|time]], that
-it was impossible to [[Doubt|doubt]] the fact, especially when stated on such
-unimpeachable authority. If Uncle Sol had been going to be hanged by
-his own [[Time|time]], he never would have allowed that the chronometer was too
-fast, by the least fraction of a second.
-
-Florence at parting recapitulated to the old man all that she had said
-before, and bound him to their compact. Uncle Sol attended her lovingly
-to the legs of the wooden Midshipman, and there resigned her to Walter,
-who was ready to escort her and [[Susan Nipper]] to the coach.
-
-“Walter,” said Florence by the way, “I have been afraid to ask before
-your Uncle. Do you think you will be absent very long?”
-
-“Indeed,” said Walter, “I don’t know. I [[Fear|fear]] so. Mr Dombey signified as
-much, I thought, when he appointed me.”
-
-“Is it a favour, Walter?” inquired Florence, after a moment’s
-hesitation, and looking anxiously in his face.
-
-“The appointment?” returned Walter.
-
-“Yes.”
-
-Walter would have given anything to have answered in the affirmative,
-but his face answered before his lips could, and Florence was too
-attentive to it not to understand its reply.
-
-“I am afraid you have scarcely been a favourite with Papa,” she said,
-timidly.
-
-“There is no reason,” replied Walter, smiling, “why I should be.”
-
-“No reason, Walter!”
-
-“There was no reason,” said Walter, understanding what she meant.
-“There are many people employed in the [[house|House]]. Between Mr Dombey and a
-young man like me, there’s a wide space of separation. If I do my duty,
-I do what I ought, and do no more than all the rest.”
-
-Had Florence any misgiving of which she was hardly conscious: any
-misgiving that had sprung into an indistinct and undefined existence
-since that recent [[Night|night]] when she had gone down to her father’s room:
-that Walter’s accidental interest in her, and early knowledge of her,
-might have involved him in that powerful displeasure and dislike? Had
-Walter any such idea, or any sudden thought that it was in her mind at
-that moment? Neither of them hinted at it. Neither of them spoke at
-all, for some short [[Time|time]]. Susan, walking on the other side of Walter,
-eyed them both sharply; and certainly Miss Nipper’s thoughts travelled
-in that direction, and very confidently too.
+The general visitors who came to the [[house]], and those among whom Mr and
+Mrs Dombey visited, thought it a pretty equal match, as to haughtiness,
+at all events, and thought nothing more about it. The young lady with
+the back did not appear for some [[Time|time]] after Mrs Skewton’s [[Death|death]];
+observing to some particular friends, with her usual engaging little
+scream, that she couldn’t separate the family from a notion of
+tombstones, and horrors of that sort; but when she did come, she saw
+nothing wrong, except Mr Dombey’s wearing a bunch of gold seals to his
+watch, which shocked her very much, as an exploded superstition. This
+youthful fascinator considered a daughter-in-law objectionable in
+principle; otherwise, she had nothing to say against Florence, but that
+she sadly wanted “style”—which might mean back, perhaps. Many, who only
+came to the [[house]] on state occasions, hardly knew who Florence was, and
+said, going [[Home|home]], “Indeed, was that Miss Dombey, in the corner? Very
+pretty, but a little delicate and thoughtful in appearance!”

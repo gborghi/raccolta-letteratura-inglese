@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 59 (part 3)"
+title: "Barnaby Rudge — Chapter 59 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_59/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_59/part_04">part 04 ›</a></div>
 </nav>
 
+
+They were proceeding at a rapid pace, and apparently with fewer
+attendants than before, though it was so dark (the torches being
+extinguished) that this was mere conjecture. They shrunk from his touch,
+each into the farthest corner of the carriage; but shrink as Dolly
+would, his arm encircled her waist, and held her fast. She neither cried
+nor spoke, for terror and disgust deprived her of the power; but she
+plucked at his hand as though she would die in the effort to disengage
+herself; and crouching on the ground, with her head averted and held
+down, repelled him with a strength she wondered at as much as he. The
+carriage stopped again.
 
 ‘Lift this one out,’ said Hugh to the man who opened the door, as
 he took Miss Haredale’s hand, and felt how heavily it fell. ‘She’s
@@ -114,31 +125,3 @@ fairly threw herself into his arms.
 
 ‘I knew it, I was sure of it!’ cried Dolly. ‘My dear father’s at the
 door. Thank God, thank God! Bless you, Sim. Heaven bless you for this!’
-
-[[Simon Tappertit]], who had at first implicitly believed that the
-locksmith’s daughter, unable any longer to suppress her secret passion
-for himself, was about to give it full vent in its intensity, and to
-declare that she was his for ever, looked extremely foolish when she
-said these words;--the more so, as they were received by Hugh and Dennis
-with a loud laugh, which made her draw back, and regard him with a fixed
-and earnest look.
-
-‘Miss Haredale,’ said Sim, after a very awkward [[Silence|silence]], ‘I [[Hope|hope]]
-you’re as comfortable as circumstances will permit of. [[Dolly Varden]],
-my darling--my own, my lovely one--I [[Hope|hope]] YOU’RE pretty comfortable
-likewise.’
-
-Poor little Dolly! She saw how it was; hid her face in her hands; and
-sobbed more bitterly than ever.
-
-‘You meet in me, Miss V.,’ said Simon, laying his hand upon his breast,
-‘not a ‘prentice, not a workman, not a slave, not the wictim of your
-father’s tyrannical behaviour, but the leader of a great people, the
-captain of a noble band, in which these gentlemen are, as I may say,
-corporals and serjeants. You behold in me, not a private individual, but
-a public character; not a mender of locks, but a healer of the wounds of
-his unhappy country. Dolly V., sweet Dolly V., for how many years have
-I looked forward to this present meeting! For how many years has it been
-my intention to exalt and ennoble you! I redeem it. Behold in me, your
-husband. Yes, beautiful Dolly--charmer--enslaver--S. Tappertit is all
-your own!’

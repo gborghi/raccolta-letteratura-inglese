@@ -18,7 +18,6 @@ CHAPTER V
 
 BROWNING IN LATER LIFE
 
-
 Browning's confidences, what there were of them, immediately after his
 wife's [[Death|death]] were given to several women-friends; all his life,
 indeed, he was chiefly intimate with women. The two most intimate of

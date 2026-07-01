@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 32 (part 2)"
+title: "Sense and Sensibility — Chapter 32 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -12,6 +12,12 @@ tags:
 <div class="excerpt-crumb">Austen · <a href="/works/sense-and-sensibility-(austen)">Sense and Sensibility</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_32/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_32/part_03">part 03 ›</a></div>
 </nav>
+
+
+a fellow! such a deceitful dog! It was only the last [[Time|time]] they met that
+
+he had offered him one of Folly’s puppies! and this was the end of it!”
+
 
 
 Mrs. Palmer, in her way, was equally angry. “She was determined to drop
@@ -205,19 +211,3 @@ would most likely change your mind when it came to the point. It would
 have been such a great pity to have went away before your brother and
 
 sister came. And now to be sure you will be in no _hurry_ to be gone. I
-
-am amazingly glad you did not keep to _your word_.”
-
-
-
-Elinor perfectly understood her, and was forced to use all her
-
-[[Self|self]]-command to make it appear that she did _not_.
-
-
-
-“[[Well]], my dear,” said Mrs. Jennings, “and how did you travel?”
-
-
-
-“Not in the stage, I assure you,” replied Miss Steele, with quick

@@ -1,5 +1,5 @@
 ---
-title: "whats wrong — Part 3 (part 5)"
+title: "whats wrong — Part 4 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/whats-wrong-(chesterton)"
@@ -14,112 +14,103 @@ tags:
 </nav>
 
 
-A man can only fully comprehend it if he thinks of some sudden joke
-or expedient got up with such materials as may be found in a private
-[[house]] on a rainy day.  A man's definite daily work is generally
-run with such rigid convenience of modern science that thrift,
-the picking up of potential helps here and there, has almost
-become unmeaning to him.  He comes across it most (as I say)
-when he is playing some game within four walls; when in charades,
-a hearthrug will just do for a fur coat, or a tea-cozy just do
-for a cocked hat; when a toy theater needs timber and cardboard,
-and the [[house]] has just enough firewood and just enough bandboxes.
-This is the man's occasional glimpse and pleasing [[Parody|parody]] of thrift.
-But many a good housekeeper plays the same game every day
-with ends of [[cheese]] and scraps of silk, not because she is mean,
-but on the contrary, because she is magnanimous; because she
-wishes her creative [[Mercy|mercy]] to be over all her works, that not one
-sardine should be destroyed, or cast as rubbish to the void,
-when she has made the pile complete.
+The urgent point at present is that these expansive educators
+do not avoid the violence of authority an inch more than the old
+school masters.  Nay, it might be maintained that they avoid it less.
+The old village schoolmaster beat a boy for not learning grammar
+and sent him out into the playground to play anything he liked;
+or at nothing, if he liked that better.  The modern scientific
+schoolmaster pursues him into the playground and makes him play
+at cricket, because exercise is so good for the health.  The modern
+Dr. Busby is a doctor of medicine as [[Well|well]] as a doctor of divinity.
+He may say that the good of exercise is [[Self|self]]-evident; but he must
+say it, and say it with authority.  It cannot really be [[Self|self]]-evident
+or it never could have been compulsory.  But this is in modern
+practice a very mild case.  In modern practice the free educationists
+forbid far more things than the old-fashioned educationists.
+A person with a taste for [[Paradox|paradox]] (if any such shameless creature
+could exist) might with some plausibility maintain concerning
+all our expansion since the failure of Luther's frank paganism
+and its replacement by Calvin's [[Puritanism]], that all this expansion
+has not been an expansion, but the closing in of a [[Prison|prison]], so that
+less and less beautiful and humane things have been permitted.
+The Puritans destroyed images; the Rationalists forbade fairy tales.
+Count Tostoi practically issued one of his papal encyclicals
+against music; and I have heard of modern educationists who forbid
+children to play with tin soldiers.  I remember a meek little madman
+who came up to me at some Socialist soiree or other, and asked me to use
+my influence (have I any influence?) against adventure stories for boys.
+It seems they breed an appetite for [[Blood|blood]].  But never mind that;
+one must keep one's temper in this madhouse.  I need only insist here
+that these things, even if a just deprivation, are a deprivation.
+I do not deny that the old vetoes and punishments were often idiotic
+and cruel; though they are much more so in a country like England
+(where in practice only a rich man decrees the punishment and only a poor
+man receives it) than in countries with a clearer popular tradition--
+such as [[Russia]].  In [[Russia]] flogging is often inflicted by peasants
+on a peasant.  In modern England flogging can only in practice
+be inflicted by a gentleman on a very poor man.  Thus only a few
+days ago as I write a small boy (a son of the poor, of course)
+was sentenced to flogging and [[Imprisonment|imprisonment]] for five years for having
+picked up a small piece of coal which the experts value at 5d.
+I am entirely on the side of such liberals and humanitarians as
+have protested against this almost bestial ignorance about boys.
+But I do think it a little unfair that these humanitarians, who excuse
+boys for being robbers, should denounce them for playing at robbers.
+I do think that those who understand a guttersnipe playing with a piece
+of coal might, by a sudden spurt of [[Imagination|imagination]], understand him
+playing with a tin soldier.  To sum it up in one sentence:
+I think my meek little madman might have understood that there
+is many a boy who would rather be flogged, and unjustly flogged,
+than have his adventure story taken away.
 
-The modern world must somehow be made to understand
-(in theology and other things) that a view may be vast,
-broad, universal, liberal and yet come into conflict with
-another view that is vast, broad, universal and liberal also.
-There is never a war between two sects, but only between two
-universal Catholic Churches.  The only possible collision
-is the collision of one cosmos with another.  So in a smaller
-way it must be first made clear that this female economic ideal
-is a part of that female variety of outlook and all-round
-art of life which we have already attributed to the sex:
-thrift is not a small or timid or provincial thing; it is part
-of that great idea of the woman watching on all sides out of all
-the windows of the [[Soul|soul]] and being answerable for everything.
-For in the average human [[house]] there is one hole by
-which money comes in and a hundred by which it goes out;
-man has to do with the one hole, woman with the hundred.
-But though the very stinginess of a woman is a part of her
-spiritual breadth, it is none the less true that it brings her
-into conflict with the special kind of spiritual breadth that
-belongs to the males of the tribe.  It brings her into conflict
-with that shapeless cataract of [[Comradeship]], of chaotic feasting
-and deafening [[debate]], which we noted in the last section.
-The very touch of the eternal in the two sexual tastes brings
-them the more into antagonism; for one stands for a universal
-vigilance and the other for an almost infinite output.
-Partly through the [[Nature|nature]] of his moral weakness, and partly
-through the [[Nature|nature]] of his physical strength, the male is
-normally prone to expand things into a sort of [[Eternity|eternity]];
-he always thinks of a dinner party as lasting all [[Night|night]];
-and he always thinks of a [[Night|night]] as lasting forever.
-When the working women in the poor districts come to the doors
-of the public houses and try to get their husbands [[Home|home]],
-simple minded "social workers" always imagine that every husband
-is a tragic drunkard and every wife a broken-hearted saint.
-It never occurs to them that the poor woman is only doing under
-coarser conventions exactly what every fashionable hostess does
-when she tries to get the men from arguing over the cigars to come
-and gossip over the teacups.  These women are not exasperated
-merely at the amount of money that is wasted in beer; they are
-exasperated also at the amount of [[Time|time]] that is wasted in talk.
-It is not merely what goeth into the mouth but what cometh
-out the mouth that, in their opinion, defileth a man.
-They will raise against an argument (like their sisters of all ranks)
-the ridiculous objection that nobody is convinced by it;
-as if a man wanted to make a [[Body|body]]-slave of anybody with whom he had
-played single-stick. But the real female prejudice on this point
-is not without a basis; the real feeling is this, that the most
-masculine pleasures have a quality of the [[ephemeral]].  A duchess
-may ruin a duke for a diamond necklace; but there is the necklace.
-A coster may ruin his wife for a pot of beer; and where is the beer?
-The duchess quarrels with another duchess in order to crush her,
-to produce a result; the coster does not argue with another
-coster in order to convince him, but in order to enjoy at once
-the sound of his own voice, the clearness of his own opinions
-and the sense of masculine society.  There is this element
-of a fine fruitlessness about the male enjoyments; wine is poured
-into a bottomless bucket; thought plunges into a bottomless abyss.
-All this has set woman against the Public [[house|House]]--that is,
-against the Parliament [[house|House]].  She is there to prevent waste;
-and the "pub" and the parliament are the very palaces of waste.
-In the upper classes the "pub" is called the club, but that makes
-no more difference to the reason than it does to the rhyme.
-High and low, the woman's objection to the Public [[house|House]] is
-perfectly definite and rational, it is that the Public [[house|House]]
-wastes the energies that could be used on the private [[house]].
+* * *
 
-As it is about feminine thrift against masculine waste,
-so it is about feminine dignity against masculine rowdiness.
-The woman has a fixed and very [[Well|well]]-founded idea that if
-she does not insist on good manners nobody else will.
-Babies are not always strong on the point of dignity,
-and grown-up men are quite unpresentable.  It is true that
-there are many very polite men, but none that I ever heard
-of who were not either fascinating women or obeying them.
-But indeed the female ideal of dignity, like the female ideal
-of thrift, lies deeper and may easily be misunderstood.
-It rests ultimately on a strong idea of spiritual isolation;
-the same that makes women religious.  They do not like being
-melted down; they dislike and avoid the mob.  That anonymous
-quality we have remarked in the club conversation would be common
-impertinence in a case of ladies.  I remember an artistic
-and eager lady asking me in her grand green drawing-room whether
-I believed in [[Comradeship|comradeship]] between the sexes, and why not.
-I was driven back on offering the obvious and sincere answer
-"Because if I were to treat you for two minutes like a comrade
-you would turn me out of the [[house]]."  The only certain rule on
-this subject is always to deal with woman and never with women.
-"Women" is a profligate word; I have used it repeatedly in
-this chapter; but it always has a blackguard sound.  It smells
-of oriental cynicism and hedonism.  Every woman is a captive [[Queen|queen]].
-But every crowd of women is only a harem broken loose.
+VII
+
+THE [[Humility|HUMILITY]] OF MRS.  GRUNDY
+
+In short, the new [[Education|education]] is as harsh as the old, whether or no
+it is as high.  The freest fad, as much as the strictest formula,
+is stiff with authority.  It is because the humane father thinks
+soldiers wrong that they are forbidden; there is no pretense,
+there can be no pretense, that the boy would think so.
+The average boy's impression certainly would be simply this:
+"If your father is a Methodist you must not play with soldiers
+on [[Sunday]].  If your father is a Socialist you must not play
+with them even on week days."  All educationists are utterly
+dogmatic and authoritarian.  You cannot have free [[Education|education]];
+for if you left a [[Child|child]] free you would not educate him at all.
+Is there, then, no distinction or difference between the most hide-bound
+conventionalists and the most brilliant and bizarre innovators?
+Is there no difference between the heaviest heavy father and the most
+reckless and speculative maiden aunt?  Yes; there is.  The difference
+is that the heavy father, in his heavy way, is a democrat.
+He does not urge a thing merely because to his fancy it should
+be done; but, because (in his own admirable republican formula)
+"Everybody does it."  The conventional authority does claim
+some popular mandate; the unconventional authority does not.
+The Puritan who forbids soldiers on [[Sunday]] is at least
+expressing Puritan opinion; not merely his own opinion.
+He is not a despot; he is a [[Democracy|democracy]], a tyrannical [[Democracy|democracy]],
+a dingy and local [[Democracy|democracy]] perhaps; but one that could do
+and has done the two ultimate virile things--fight and appeal
+to God.  But the veto of the new educationist is like the veto
+of the [[house|House]] of Lords; it does not pretend to be representative.
+These innovators are always talking about the blushing modesty
+of Mrs. Grundy.  I do not know whether Mrs. Grundy is more modest
+than they are; but I am sure she is more humble.
+
+But there is a further complication.  The more anarchic modern
+may again attempt to escape the dilemma by saying that [[Education|education]]
+should only be an enlargement of the mind, an opening of all
+the organs of receptivity.  Light (he says) should be brought
+into darkness; blinded and thwarted existences in all our ugly
+corners should merely be permitted to perceive and expand; in short,
+enlightenment should be shed over darkest [[London]].  Now here is
+just the trouble; that, in so far as this is involved, there is no
+darkest [[London]].  [[London]] is not dark at all; not even at [[Night|night]].
+We have said that if [[Education|education]] is a solid substance, then there
+is none of it.  We may now say that if [[Education|education]] is an abstract
+expansion there is no lack of it.  There is far too much of it.
+In fact, there is nothing else.

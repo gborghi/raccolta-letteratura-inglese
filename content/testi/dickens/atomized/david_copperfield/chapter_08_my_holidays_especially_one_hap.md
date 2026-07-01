@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 8: MY HOLIDAYS. ESPECIALLY ONE HAPPY AFTERNOON"
+title: "David Copperfield — Chapter 8: MY HOLIDAYS. ESPECIALLY ONE HAPPY AFTERNOON"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/david-copperfield-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_07_my_first_half_at_salem_house">‹ Chapter 07 MY FIRST HALF AT SALEM HOUSE</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_09_i_have_a_memorable_birthday">Chapter 09 I HAVE A MEMORABLE BIRTHDAY ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_07_my_first_half_at_salem_house_h">‹ Chapter 07 MY FIRST HALF AT SALEM house H</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_09_i_have_a_memorable_birthday">Chapter 09 I HAVE A MEMORABLE BIRTHDAY ›</a></div>
 </nav>
 
 

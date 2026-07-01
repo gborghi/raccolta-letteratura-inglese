@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 59 (part 5)"
+title: "Nicholas Nickleby — Chapter 59 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,27 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_59/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_60/part_01">part 01 ›</a></div>
 </nav>
 
+
+Ralph had put a great command upon himself; but he could not have
+suppressed a slight start, if he had been certain to be beheaded for it
+next moment.
+
+‘Aha!’ cried Newman, ‘you mind me now, do you? What first set this fag
+to be jealous of his master’s actions, and to feel that, if he hadn’t
+crossed him when he might, he would have been as bad as he, or worse?
+That master’s cruel treatment of his own flesh and [[Blood|blood]], and vile
+designs upon a young girl who interested even his broken-down, drunken,
+miserable hack, and made him linger in his service, in the [[Hope|hope]] of doing
+her some good (as, thank God, he had done others once or twice before),
+when he would, otherwise, have relieved his feelings by pummelling his
+master soundly, and then going to the Devil. He would--mark that; and
+mark this--that I’m here now, because these gentlemen thought it best.
+When I sought them out (as I did; there was no tampering with me),
+I told them I wanted help to find you out, to trace you down, to go
+through with what I had begun, to help the right; and that when I had
+done it, I’d burst into your room and tell you all, face to face, man
+to man, and like a man. Now I’ve said my say, and let anybody else say
+theirs, and [[Fire|fire]] away!’
 
 With this concluding sentiment, [[Newman Noggs]], who had been perpetually
 sitting down and getting up again all through his speech, which he had

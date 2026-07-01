@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 41 (part 1)"
+title: "Oliver Twist — Chapter 41 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -123,11 +123,3 @@ some importunate person who—I beg you will excuse me. Be seated, pray.”
 
 “Mr. Brownlow, I believe, sir?” said [[Rose]], glancing from the other
 gentleman to the one who had spoken.
-
-“That is my name,” said the old gentleman. “This is my friend, Mr.
-Grimwig. Grimwig, will you leave us for a few minutes?”
-
-“I believe,” interposed Miss Maylie, “that at this period of our
-interview, I need not give that gentleman the trouble of going away. If
-I am correctly informed, he is cognizant of the business on which I
-wish to speak to you.”

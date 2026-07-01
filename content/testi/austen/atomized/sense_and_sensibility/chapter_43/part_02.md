@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 43 (part 2)"
+title: "Sense and Sensibility — Chapter 43 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_43/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_43/part_03">part 03 ›</a></div>
 </nav>
 
+
+[[Melancholy|melancholy]] idea, and he could not expel from his mind the [[Persuasion|persuasion]]
+
+that he should see Marianne no more.
+
+
+
+On the morning of the third day however, the gloomy anticipations of
 
 both were almost done away; for when Mr. Harris arrived, he declared
 
@@ -201,15 +209,3 @@ arriving too late to see this darling [[Child|child]], or to see her rational.
 
 
 She was on the point of sending again for Mr. Harris, or if _he_ could
-
-not come, for some other advice, when the former—but not till after
-
-five o’[[Clock|clock]]—arrived. His opinion, however, made some little amends for
-
-his delay, for though acknowledging a very unexpected and unpleasant
-
-alteration in his patient, he would not allow the danger to be
-
-material, and talked of the relief which a fresh mode of treatment must
-
-procure, with a confidence which, in a lesser degree, was communicated

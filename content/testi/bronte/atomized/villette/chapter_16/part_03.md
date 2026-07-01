@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 16 (part 3)"
+title: "Villette — Chapter 16 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_16/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_16/part_04">part 04 ›</a></div>
 </nav>
 
+
+Once more I lay down. My bed stood in a little alcove; on turning my
+face to the wall, the room with its bewildering accompaniments became
+excluded. Excluded? No! For as I arranged my position in this [[Hope|hope]],
+behold, on the green space between the divided and looped-up curtains,
+hung a broad, gilded picture-frame enclosing a portrait. It was
+drawn—[[Well|well]] drawn, though but a [[Sketch|sketch]]—in [[Water|water]]-colours; a head, a boy’s
+head, fresh, life-like, speaking, and animated. It seemed a youth of
+sixteen, fair-complexioned, with sanguine health in his cheek; hair
+long, not dark, and with a sunny sheen; penetrating eyes, an arch
+mouth, and a gay smile. On the whole a most pleasant face to look at,
+especially for those claiming a right to that youth’s
+affections—parents, for instance, or sisters. Any romantic little
+school-girl might almost have loved it in its frame. Those eyes looked
+as if when somewhat older they would flash a [[Lightning|lightning]]-response to
+[[Love|love]]: I cannot tell whether they kept in store the steady-beaming shine
+of [[Faith|faith]]. For whatever sentiment met him in form too facile, his lips
+menaced, beautifully but surely, caprice and light esteem.
 
 Striving to take each new discovery as quietly as I could, I whispered
 to myself—
@@ -117,34 +135,3 @@ declining these attentions, I proceeded to dress myself:
 
 The business was just achieved, and I was sitting down to take breath,
 when Mrs. Bretton once more appeared.
-
-“Dressed!” she exclaimed, smiling with that smile I so [[Well|well]] knew—a
-pleasant smile, though not soft. “You are quite better then? Quite
-strong—eh?”
-
-She spoke to me so much as of old she used to speak that I almost
-fancied she was beginning to know me. There was the same sort of
-patronage in her voice and manner that, as a girl, I had always
-experienced from her—a patronage I yielded to and even liked; it was
-not founded on conventional grounds of superior wealth or station (in
-the last particular there had never been any inequality; her degree was
-mine); but on natural reasons of physical advantage: it was the shelter
-the tree gives the herb. I put a request without further ceremony.
-
-“Do let me go down-stairs, madam; I am so cold and dull here.”
-
-“I [[Desire|desire]] nothing better, if you are strong enough to bear the change,”
-was her reply. “Come then; here is an arm.” And she offered me hers: I
-took it, and we descended one flight of carpeted steps to a landing
-where a tall door, standing open, gave admission into the blue-damask
-room. How pleasant it was in its air of perfect domestic comfort! How
-warm in its amber lamp-light and vermilion [[Fire|fire]]-flush! To render the
-picture perfect, tea stood ready on the table—an English tea, whereof
-the whole shining service glanced at me familiarly; from the solid
-silver urn, of antique pattern, and the massive pot of the same metal,
-to the thin porcelain cups, dark with purple and gilding. I knew the
-very seed-cake of peculiar form, baked in a peculiar mould, which
-always had a place on the tea-table at Bretton. Graham liked it, and
-there it was as of yore—set before Graham’s plate with the silver knife
-and fork beside it. Graham was then expected to tea: Graham was now,
-perhaps, in the [[house]]; ere many minutes I might see him.

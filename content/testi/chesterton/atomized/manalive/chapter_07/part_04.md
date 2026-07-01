@@ -1,5 +1,5 @@
 ---
-title: "[[manalive]] — Chapter 1 (part 4)"
+title: "manalive — Chapter 1 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/manalive-(chesterton)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/manalive/chapter_07/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/manalive/chapter_07/part_05">part 05 ›</a></div>
 </nav>
 
+
+"Yet they were fired from a few feet away."
+
+"Yes; about four feet."
+
+"And no shots hit the Warden, though they were fired quite close
+to him too?" asked [[Moon]].
 
 "That is so," said the witness gravely.
 
@@ -96,7 +103,6 @@ of the Cambridge incident is contained, and then that document itself.
 When you have heard both, there will be no [[Doubt|doubt]] about your decision.
 The covering letter runs as follows:--
 
-
 "Dear Sir,--The following is a very exact and even vivid account of the
 incident as it really happened at Brakespeare College.  We, the undersigned,
 do not see any particular reason why we should refer it to any
@@ -109,9 +115,7 @@ But every word of it is true.--We are, yours faithfully,
 
 					    "[[Innocent]] [[smith|Smith]].
 
-
 "The enclosed statement," continued Inglewood, "runs as follows:--
-
 
 "A celebrated English university backs so abruptly on the [[River|river]],
 that it has, so to speak, to be propped up and patched
@@ -137,12 +141,3 @@ below the world as its original appears above it.
 Every scrap of [[Water|water]] is not only a [[Window|window]] but a skylight.
 Earth splits under men's feet into precipitous aerial perspectives,
 into which a bird could as easily wing its way as--"
-
-Dr. Cyrus Pym [[Rose|rose]] in protest.  The documents he had put
-in evidence had been confined to cold affirmation of fact.
-The defence, in a general way, had an indubitable right to put
-their case in their own way, but all this landscape gardening
-seemed to him (Dr. Cyrus Pym) to be not up to the business.
-"Will the leader of the defence tell me," he asked, "how it can
-possibly affect this case, that a cloud was cor'l-coloured,
-or that a bird could have winged itself anywhere?"

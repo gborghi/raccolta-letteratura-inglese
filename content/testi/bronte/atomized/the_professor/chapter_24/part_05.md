@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 23 (part 5)"
+title: "The Professor — Chapter 23 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -14,17 +14,31 @@ tags:
 </nav>
 
 
+her might still have been kindly, but they could never have been
+
+impassioned; I had affection for the poor little misshapen Sylvie, but
+
+for her I could never have had [[Love|love]]. It is true Frances’ mental points
+
+had been the first to interest me, and they still retained the strongest
+
+hold on my preference; but I liked the graces of her person too. I
+
+derived a pleasure, purely material, from contemplating the clearness
+
+of her brown eyes, the fairness of her fine skin, the purity of her
+
+[[Well|well]]-set teeth, the proportion of her delicate form; and that pleasure
+
+I could ill have dispensed with. It appeared, then, that I too was a
+
 sensualist, in my temperate and fastidious way.
-
-
 
 Now, reader, during the last two pages I have been giving you honey
 
 fresh from [[Flowers|flowers]], but you must not live entirely on food so luscious;
 
 taste then a little gall--just a drop, by way of change.
-
-
 
 At a somewhat late hour I returned to my lodgings: having temporarily
 
@@ -54,8 +68,6 @@ brought unto me, and mine ear received a little thereof; there was
 
 [[Death|death]].”
 
-
-
 That sound, and the sensation of chill anguish accompanying it, many
 
 would have regarded as [[Supernatural|supernatural]]; but I recognized it at once as the
@@ -73,8 +85,6 @@ darkness fell upon me; I felt my chamber invaded by one I had known
 formerly, but had thought for ever departed. I was temporarily a prey to
 
 hypochondria.
-
-
 
 She had been my acquaintance, nay, my guest, once before in boyhood; I
 
@@ -104,8 +114,6 @@ than moonlight. “Necropolis!” she would whisper, pointing to the pale
 
 piles, and add, “It contains a mansion prepared for you.”
 
-
-
 But my boyhood was lonely, parentless; uncheered by brother or sister;
 
 and there was no marvel that, just as I [[Rose|rose]] to youth, a sorceress,
@@ -127,8 +135,6 @@ folding wings, weary with long flight, had just alighted on the very lap
 of fruition, and nestled there warm, content, under the caress of a soft
 
 hand--why did hypochondria accost me now?
-
-
 
 I repulsed her as one would a dreaded and ghastly concubine coming to
 

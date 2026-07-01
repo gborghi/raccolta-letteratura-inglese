@@ -14,6 +14,17 @@ tags:
 </nav>
 
 
+Then he also [[Rose|rose]]; clutching his clumsy umbrella with a new resolution,
+he addressed the girl with a new gravity.
+
+'There is something else that I know, which is the key to all these
+riddles of yours; but I won't tell you yet. I suppose it's bad news; but
+it's nothing like so bad as the things you have been fancying.' He
+buttoned up his coat and turned towards the gate. 'I'm going to see this
+Mr Rook of yours. In a shed by the shore, near where Mr Harker saw him
+walking. I rather think he lives there.' And he went bustling off in the
+direction of the beach.
+
 Olive was an imaginative person; perhaps too imaginative to be safely
 left to brood over such hints as her friend had thrown out; but he was
 in rather a hurry to find the best relief for her broodings. The
@@ -121,19 +132,3 @@ But [[Father Brown]] was already out of hearing, and a moment afterwards was
 plunged in talk with Harker in the porch. They walked to and fro
 together for a few paces and then disappeared into the dark interior. It
 was about twelve minutes afterwards that [[Father Brown]] came out [[Alone|alone]].
-
-To their surprise he showed no dispostion to re - enter the [[house]], now
-that the whole company were at last about to enter it. He threw himself
-down on the rather rickety seat in the leafy arbour, and as the
-procession disappeared through the doorway, lit a pipe and proceeded to
-stare vacantly at the long ragged [[Leaves|leaves]] about his head and to listen to
-the [[Birds|birds]]. There was no man who had a more hearty and enduring appetite
-for doing nothing.
-
-He was, apparently, in a cloud of smoke and [[A Dream|a dream]] of abstraction, when
-the front doors were once more flung open and two or three figures came
-out helter - skelter, running towards him, the daughter of the [[house]] and
-her young admirer Mr Rook being easily winners in the race. Their faces
-were alight with astonishment; and the face of Inspector Burns, who
-advanced more heavily behind them, like an elephant shaking the [[Garden|garden]],
-was inflamed with some indignation as [[Well|well]].

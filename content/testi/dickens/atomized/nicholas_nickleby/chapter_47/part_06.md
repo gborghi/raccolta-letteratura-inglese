@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 47 (part 6)"
+title: "Nicholas Nickleby — Chapter 47 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,33 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_47/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_48/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘I should imagine not, indeed!’ said Ralph, quietly. ‘If she profits
+by anybody’s [[Death|death]],’ this was said in a lower tone, ‘let it be by her
+husband’s. Don’t let her have to look back to yours, as the event from
+which to date a happier life. Where is the objection? Let me hear it
+stated. What is it? That her suitor is an old man? Why, how often do men
+of family and fortune, who haven’t your excuse, but have all the means
+and superfluities of life within their reach, how often do they marry
+their daughters to old men, or (worse still) to young men without heads
+or hearts, to tickle some idle [[Vanity|vanity]], strengthen some family interest,
+or secure some seat in Parliament! Judge for her, sir, judge for her.
+You must know best, and she will live to thank you.’
+
+‘Hush! hush!’ cried Mr. Bray, suddenly starting up, and covering Ralph’s
+mouth with his trembling hand. ‘I hear her at the door!’
+
+There was a gleam of [[Conscience|conscience]] in the shame and terror of this hasty
+action, which, in one short moment, tore the thin covering of sophistry
+from the cruel design, and laid it bare in all its meanness and
+heartless deformity. The father fell into his chair pale and trembling;
+[[arthur|Arthur]] Gride plucked and fumbled at his hat, and durst not raise his
+eyes from the floor; even Ralph crouched for the moment like a beaten
+hound, cowed by the presence of one young [[Innocent|innocent]] girl!
+
+The effect was almost as brief as sudden. Ralph was the first to recover
+himself, and observing [[Madeline]]’s looks of alarm, entreated the poor
+girl to be composed, assuring her that there was no cause for [[Fear|fear]].
 
 ‘A sudden spasm,’ said Ralph, glancing at Mr. Bray. ‘He is quite [[Well|well]]
 now.’

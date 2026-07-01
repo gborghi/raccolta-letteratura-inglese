@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 23 (part 1)"
+title: "Dombey and Son — Chapter 51 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,110 +14,124 @@ tags:
 </nav>
 
 
-CHAPTER XXIII.
-Florence solitary, and the Midshipman mysterious
+CHAPTER LI.
+Mr Dombey and the World
 
 
-Florence lived [[Alone|alone]] in the great dreary [[house]], and day succeeded day,
-and still she lived [[Alone|alone]]; and the blank walls looked down upon her
-with a vacant stare, as if they had a Gorgon-like mind to stare her
-youth and [[Beauty|beauty]] into stone.
+What is the proud man doing, while the days go by? Does he ever think
+of his daughter, or [[Wonder|wonder]] where she is gone? Does he suppose she has
+come [[Home|home]], and is leading her old life in the weary [[house]]? No one can
+answer for him. He has never uttered her name, since. His household
+dread him too much to approach a subject on which he is resolutely
+dumb; and the only person who dares question him, he silences
+immediately.
 
-No [[Magic|magic]] dwelling-place in [[Magic|magic]] story, shut up in the heart of a thick
-wood, was ever more solitary and deserted to the fancy, than was her
-father’s mansion in its grim reality, as it stood lowering on the
-street: always by [[Night|night]], when lights were shining from neighbouring
-windows, a blot upon its scanty brightness; always by day, a frown upon
-its never-smiling face.
+“My dear Paul!” murmurs his sister, sidling into the room, on the day
+of Florence’s departure, “your wife! that upstart woman! Is it possible
+that what I hear confusedly, is true, and that this is her return for
+your unparalleled devotion to her; extending, I am sure, even to the
+sacrifice of your own relations, to her caprices and haughtiness? My
+poor brother!”
 
-There were not two dragon sentries keeping ward before the gate of this
-above, as in [[Magic|magic]] legend are usually found on duty over the wronged
-[[innocence]] imprisoned; but besides a glowering visage, with its thin
-lips parted wickedly, that surveyed all comers from above the archway
-of the door, there was a monstrous fantasy of rusty iron, curling and
-twisting like a petrifaction of an arbour over threshold, budding in
-spikes and corkscrew points, and bearing, one on either side, two
-ominous extinguishers, that seemed to say, “Who enter here, leave light
-behind!” There were no talismanic characters engraven on the portal,
-but the [[house]] was now so neglected in appearance, that boys chalked the
-railings and the pavement—particularly round the corner where the side
-wall was—and drew [[Ghosts|ghosts]] on the stable door; and being sometimes driven
-off by Mr Towlinson, made portraits of him, in return, with his ears
-growing out horizontally from under his hat. Noise ceased to be, within
-the [[Shadow|shadow]] of the roof. The brass band that came into the street once a
-week, in the morning, never brayed a note in at those windows; but all
-such company, down to a poor little piping organ of weak intellect,
-with an imbecile party of automaton dancers, waltzing in and out at
-folding-doors, fell off from it with one accord, and shunned it as a
-hopeless place.
+With this speech feelingly reminiscent of her not having been asked to
+dinner on the day of the first party, Mrs Chick makes great use of her
+pocket-handkerchief, and falls on Mr Dombey’s neck. But Mr Dombey
+frigidly lifts her off, and hands her to a chair.
 
-The spell upon it was more wasting than the spell that used to set
-enchanted houses sleeping once upon a [[Time|time]], but left their waking
-freshness unimpaired.
+“I thank you, Louisa,” he says, “for this mark of your affection; but
+[[Desire|desire]] that our conversation may refer to any other subject. When I
+bewail my fate, Louisa, or express myself as being in want of
+consolation, you can offer it, if you will have the goodness.”
 
-The passive desolation of disuse was everywhere silently manifest about
-it. Within doors, curtains, drooping heavily, lost their old folds and
-shapes, and hung like cumbrous palls. Hecatombs of furniture, still
-piled and covered up, shrunk like imprisoned and forgotten men, and
-changed insensibly. Mirrors were dim as with the breath of years.
-Patterns of carpets faded and became perplexed and faint, like the
-[[Memory|memory]] of those years’ trifling incidents. Boards, starting at unwonted
-footsteps, creaked and shook. Keys rusted in the locks of doors. Damp
-started on the walls, and as the stains came out, the pictures seemed
-to go in and secrete themselves. Mildew and mould began to lurk in
-closets. Fungus trees grew in corners of the cellars. [[Dust]] accumulated,
-nobody knew whence nor how; spiders, moths, and grubs were heard of
-every day. An exploratory blackbeetle now and then was found immovable
-upon the stairs, or in an upper room, as wondering how he got there.
-Rats began to squeak and scuffle in the [[Night|night]] [[Time|time]], through dark
-galleries they mined behind the panelling.
+“My dear Paul,” rejoins his sister, with her handkerchief to her face,
+and shaking her head, “I know your great spirit, and will say no more
+upon a theme so painful and revolting;” on the heads of which two
+adjectives, Mrs Chick visits scathing indignation; “but pray let me ask
+you—though I dread to hear something that will shock and distress
+me—that unfortunate [[Child|child]] Florence—”
 
-The dreary magnificence of the state rooms, seen imperfectly by the
-doubtful light admitted through closed shutters, would have answered
-[[Well|well]] enough for an enchanted abode. Such as the tarnished paws of
-gilded lions, stealthily put out from beneath their wrappers; the
-marble lineaments of busts on pedestals, fearfully revealing themselves
-through veils; the clocks that never told the [[Time|time]], or, if wound up by
-any chance, told it wrong, and struck unearthly numbers, which are not
-upon the dial; the accidental tinklings among the pendant lustres, more
-startling than alarm-[[Bells|bells]]; the softened sounds and laggard air that
-made their way among these objects, and a [[Phantom|phantom]] crowd of others,
-shrouded and hooded, and made spectral of shape. But, besides, there
-was the great staircase, where the lord of the place so rarely set his
-foot, and by which his little [[Child|child]] had gone up to Heaven. There were
-other staircases and passages where no one went for weeks together;
-there were two closed rooms associated with dead members of the family,
-and with whispered recollections of them; and to all the [[house]] but
-Florence, there was a gentle figure moving through the [[Solitude|solitude]] and
-gloom, that gave to every lifeless thing a touch of present human
-interest and [[Wonder|wonder]].
+“Louisa!” says her brother, sternly, “[[Silence|silence]]! Not another word of
+this!”
 
-For Florence lived [[Alone|alone]] in the deserted [[house]], and day succeeded day,
-and still she lived [[Alone|alone]], and the cold walls looked down upon her with
-a vacant stare, as if they had a Gorgon-like mind to stare her youth
-and [[Beauty|beauty]] into stone.
+Mrs Chick can only shake her head, and use her handkerchief, and moan
+over degenerate Dombeys, who are no Dombeys. But whether Florence has
+been inculpated in the flight of Edith, or has followed her, or has
+done too much, or too little, or anything, or nothing, she has not the
+least idea.
 
-The grass began to grow upon the roof, and in the crevices of the
-basement paving. A scaly crumbling vegetation sprouted round the
-[[Window|window]]-sills. Fragments of mortar lost their hold upon the insides of
-the unused chimneys, and came dropping down. The two trees with the
-smoky trunks were blighted high up, and the withered branches
-domineered above the [[Leaves|leaves]], Through the whole building white had
-turned yellow, yellow nearly black; and since the [[Time|time]] when the poor
-lady died, it had slowly become a dark gap in the long monotonous
-street.
+He goes on, without deviation, keeping his thoughts and feelings close
+within his own breast, and imparting them to no one. He makes no search
+for his daughter. He may think that she is with his sister, or that she
+is under his own roof. He may think of her constantly, or he may never
+think about her. It is all one for any sign he makes.
 
-But Florence bloomed there, like the [[King|king]]’s fair daughter in the story.
-Her books, her music, and her daily teachers, were her only real
-companions, [[Susan Nipper]] and Diogenes excepted: of whom the former, in
-her attendance on the studies of her young mistress, began to grow
-quite learned herself, while the latter, softened possibly by the same
-influences, would lay his head upon the [[Window|window]]-ledge, and placidly open
-and shut his eyes upon the street, all through a [[Summer|summer]] morning;
-sometimes pricking up his head to look with great significance after
-some noisy dog in a cart, who was barking his way along, and sometimes,
-with an exasperated and unaccountable recollection of his supposed
-enemy in the neighbourhood, rushing to the door, whence, after a
-deafening disturbance, he would come jogging back with a ridiculous
-complacency that belonged to him, and lay his jaw upon the [[Window|window]]-ledge
-again, with the air of a dog who had done a public service.
+But this is sure; he does not think that he has lost her. He has no
+suspicion of the [[Truth|truth]]. He has lived too long shut up in his towering
+supremacy, seeing her, a patient gentle creature, in the path below it,
+to have any [[Fear|fear]] of that. Shaken as he is by his disgrace, he is not
+yet humbled to the level earth. The root is broad and deep, and in the
+course of years its fibres have spread out and gathered nourishment
+from everything around it. The tree is struck, but not down.
+
+Though he hide the world within him from the world without—which he
+believes has but one purpose for the [[Time|time]], and that, to watch him
+eagerly wherever he goes—he cannot hide those [[Rebel|rebel]] traces of it, which
+escape in hollow eyes and cheeks, a haggard forehead, and a moody,
+brooding air. Impenetrable as before, he is still an altered man; and,
+proud as ever, he is humbled, or those marks would not be there.
+
+[Illustration]
+
+The world. What the world thinks of him, how it looks at him, what it
+sees in him, and what it says—this is the haunting demon of his mind.
+It is everywhere where he is; and, worse than that, it is everywhere
+where he is not. It comes out with him among his servants, and yet he
+[[Leaves|leaves]] it whispering behind; he sees it pointing after him in the
+street; it is waiting for him in his counting-[[house]]; it leers over the
+shoulders of rich men among the merchants; it goes beckoning and
+babbling among the crowd; it always anticipates him, in every place;
+and is always busiest, he knows, when he has gone away. When he is shut
+up in his room at [[Night|night]], it is in his [[house]], outside it, audible in
+footsteps on the pavement, visible in print upon the table, steaming to
+and fro on railroads and in ships; restless and busy everywhere, with
+nothing else but him.
+
+It is not a [[Phantom|phantom]] of his [[Imagination|imagination]]. It is as active in other
+people’s minds as in his. Witness Cousin Feenix, who comes from
+Baden-Baden, purposely to talk to him. Witness [[Major Bagstock]], who
+accompanies Cousin Feenix on that friendly mission.
+
+Mr Dombey receives them with his usual dignity, and stands erect, in
+his old attitude, before the [[Fire|fire]]. He feels that the world is looking
+at him out of their eyes. That it is in the stare of the pictures. That
+Mr Pitt, upon the bookcase, represents it. That there are eyes in its
+own map, hanging on the wall.
+
+“An unusually cold [[spring]],” says Mr Dombey—to deceive the world.
+
+“Damme, Sir,” says the Major, in the warmth of [[Friendship|friendship]], “Joseph
+Bagstock is a bad hand at a counterfeit. If you want to hold your
+friends off, Dombey, and to give them the cold shoulder, J. B. is not
+the man for your purpose. Joe is rough and tough, Sir; blunt, Sir,
+blunt, is Joe. His Royal Highness the late [[Duke of York]] did me the
+[[Honour|honour]] to say, deservedly or undeservedly—never mind that—‘If there is
+a man in the service on whom I can depend for coming to the point, that
+man is Joe—Joe Bagstock.’”
+
+Mr Dombey intimates his acquiescence.
+
+“Now, Dombey,” says the Major, “I am a man of the world. Our friend
+Feenix—if I may presume to—”
+
+“Honoured, I am sure,” says Cousin Feenix.
+
+“—is,” proceeds the Major, with a wag of his head, “also a man of the
+world. Dombey, you are a man of the world. Now, when three men of the
+world meet together, and are friends—as I believe—” again appealing to
+Cousin Feenix.
+
+“I am sure,” says Cousin Feenix, “most friendly.”
+
+“—and are friends,” resumes the Major, “Old Joe’s opinion is (I may be
+wrong), that the opinion of the world on any particular subject, is
+very easily got at.”

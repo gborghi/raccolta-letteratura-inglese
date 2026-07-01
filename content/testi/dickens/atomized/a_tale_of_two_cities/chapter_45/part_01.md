@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities — Chapter 13 (part 1)"
+title: "A Tale of Two Cities — Chapter 15 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-tale-of-two-cities-(dickens)"
@@ -10,123 +10,126 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/a-tale-of-two-cities-(dickens)">A Tale of Two Cities</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_44/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_45/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_44/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_45/part_02">part 02 ›</a></div>
 </nav>
 
 
-CHAPTER XIII.
-Fifty-two
+CHAPTER XV.
+The Footsteps Die Out For Ever
 
 
-In the black [[Prison|prison]] of the Conciergerie, the doomed of the day awaited
-their fate. They were in number as the weeks of the year. Fifty-two were
-to roll that afternoon on the life-tide of the [[City|city]] to the boundless
-everlasting sea. Before their cells were quit of them, new occupants
-were appointed; before their [[Blood|blood]] ran into the [[Blood|blood]] spilled yesterday,
-the [[Blood|blood]] that was to mingle with theirs to-morrow was already set
-apart.
+Along the [[Paris]] streets, the [[Death|death]]-carts rumble, hollow and harsh. Six
+tumbrils carry the day’s wine to La Guillotine. All the devouring and
+insatiate Monsters imagined since [[Imagination|imagination]] could record itself,
+are fused in the one realisation, Guillotine. And yet there is not in
+France, with its rich variety of soil and climate, a blade, a leaf,
+a root, a sprig, a peppercorn, which will grow to maturity under
+conditions more certain than those that have produced this horror. Crush
+humanity out of shape once more, under similar hammers, and it will
+twist itself into the same tortured forms. Sow the same seed of
+rapacious license and oppression over again, and it will surely yield
+the same fruit according to its kind.
 
-Two score and twelve were told off. From the farmer-general of seventy,
-whose riches could not buy his life, to the seamstress of twenty, whose
-[[Poverty|poverty]] and obscurity could not save her. Physical diseases, engendered
-in the vices and neglects of men, will seize on victims of all degrees;
-and the frightful moral disorder, born of unspeakable [[Suffering|suffering]],
-intolerable oppression, and heartless indifference, smote equally
-without distinction.
+Six tumbrils roll along the streets. Change these back again to what
+they were, thou powerful enchanter, [[Time]], and they shall be seen to be
+the carriages of absolute monarchs, the equipages of feudal nobles, the
+toilettes of flaring Jezebels, the churches that are not my father’s
+[[house]] but dens of thieves, the huts of millions of starving peasants!
+No; the great magician who majestically works out the appointed order
+of the Creator, never reverses his transformations. “If thou be changed
+into this shape by the will of God,” say the seers to the enchanted, in
+the wise Arabian stories, “then remain so! But, if thou wear this
+form through mere passing conjuration, then resume thy former aspect!”
+ Changeless and hopeless, the tumbrils roll along.
 
-[[Charles Darnay]], [[Alone|alone]] in a cell, had sustained himself with no
-flattering delusion since he came to it from the Tribunal. In every line
-of the narrative he had heard, he had heard his condemnation. He had
-fully comprehended that no personal influence could possibly save him,
-that he was virtually sentenced by the millions, and that units could
-avail him nothing.
+As the sombre wheels of the six carts go round, they seem to plough up
+a long crooked furrow among the populace in the streets. Ridges of faces
+are thrown to this side and to that, and the ploughs go steadily onward.
+So used are the regular inhabitants of the houses to the spectacle, that
+in many windows there are no people, and in some the occupation of the
+hands is not so much as suspended, while the eyes survey the faces in
+the tumbrils. Here and there, the inmate has visitors to see the sight;
+then he points his finger, with something of the complacency of a
+curator or authorised exponent, to this cart and to this, and seems to
+tell who sat here yesterday, and who there the day before.
 
-Nevertheless, it was not easy, with the face of his beloved wife fresh
-before him, to compose his mind to what it must bear. His hold on life
-was strong, and it was very, very hard, to loosen; by gradual efforts
-and degrees unclosed a little here, it clenched the tighter there; and
-when he brought his strength to bear on that hand and it yielded,
-this was closed again. There was a hurry, too, in all his thoughts,
-a turbulent and heated working of his heart, that contended against
-[[Resignation|resignation]]. If, for a moment, he did feel resigned, then his wife and
-[[Child|child]] who had to live after him, seemed to protest and to make it a
-selfish thing.
+Of the riders in the tumbrils, some observe these things, and all
+things on their last roadside, with an impassive stare; others, with
+a lingering interest in the ways of life and men. Some, seated with
+drooping heads, are sunk in silent [[Despair|despair]]; again, there are some so
+heedful of their looks that they cast upon the multitude such glances as
+they have seen in theatres, and in pictures. Several close their eyes,
+and think, or try to get their straying thoughts together. Only one, and
+he a miserable creature, of a crazed aspect, is so shattered and made
+drunk by horror, that he sings, and tries to [[Dance|dance]]. Not one of the whole
+number appeals by look or gesture, to the pity of the people.
 
-But, all this was at first. Before long, the consideration that there
-was no disgrace in the fate he must meet, and that numbers went the same
-[[Road|road]] wrongfully, and trod it firmly every day, sprang up to stimulate
-him. Next followed the thought that much of the future peace of mind
-enjoyable by the dear ones, depended on his quiet fortitude. So,
-by degrees he calmed into the better state, when he could raise his
-thoughts much higher, and draw comfort down.
+There is a guard of sundry horsemen riding abreast of the tumbrils,
+and faces are often turned up to some of them, and they are asked some
+question. It would seem to be always the same question, for, it is
+always followed by a press of people towards the third cart. The
+horsemen abreast of that cart, frequently point out one man in it with
+their swords. The leading curiosity is, to know which is he; he stands
+at the back of the tumbril with his head bent down, to converse with a
+mere girl who sits on the side of the cart, and holds his hand. He has
+no curiosity or care for the scene about him, and always speaks to the
+girl. Here and there in the long street of St. Honore, cries are raised
+against him. If they move him at all, it is only to a quiet smile, as he
+shakes his hair a little more loosely about his face. He cannot easily
+touch his face, his arms being bound.
 
-Before it had set in dark on the [[Night|night]] of his condemnation, he had
-travelled thus far on his last way. Being allowed to purchase the means
-of writing, and a light, he sat down to write until such [[Time|time]] as the
-[[Prison|prison]] lamps should be extinguished.
+On the steps of a church, awaiting the coming-up of the tumbrils, stands
+the Spy and [[Prison|prison]]-sheep. He looks into the first of them: not there.
+He looks into the second: not there. He already asks himself, “Has he
+sacrificed me?” when his face clears, as he looks into the third.
 
-He wrote a long letter to Lucie, showing her that he had known nothing
-of her father’s [[Imprisonment|imprisonment]], until he had heard of it from herself,
-and that he had been as ignorant as she of his father’s and uncle’s
-responsibility for that misery, until the paper had been read. He had
-already explained to her that his concealment from herself of the name
-he had relinquished, was the one condition--fully intelligible now--that
-her father had attached to their betrothal, and was the one promise he
-had still exacted on the morning of their [[Marriage|marriage]]. He entreated her,
-for her father’s sake, never to seek to know whether her father had
-become oblivious of the existence of the paper, or had had it recalled
-to him (for the moment, or for good), by the story of the Tower, on
-that old [[Sunday]] under the dear old plane-tree in the [[Garden|garden]]. If he had
-preserved any definite remembrance of it, there could be no [[Doubt|doubt]] that
-he had supposed it destroyed with the Bastille, when he had found no
-mention of it among the relics of prisoners which the populace had
-discovered there, and which had been described to all the world. He
-besought her--though he added that he knew it was needless--to console
-her father, by impressing him through every tender means she could think
-of, with the [[Truth|truth]] that he had done nothing for which he could justly
-reproach himself, but had uniformly forgotten himself for their joint
-sakes. Next to her preservation of his own last grateful [[Love|love]] and
-blessing, and her overcoming of her sorrow, to devote herself to their
-dear [[Child|child]], he adjured her, as they would meet in Heaven, to comfort her
-father.
+“Which is Evrémonde?” says a man behind him.
 
-To her father himself, he wrote in the same strain; but, he told her
-father that he expressly confided his wife and [[Child|child]] to his care. And
-he told him this, very strongly, with the [[Hope|hope]] of rousing him from any
-despondency or dangerous retrospect towards which he foresaw he might be
-tending.
+“That. At the back there.”
 
-To Mr. Lorry, he commended them all, and explained his worldly affairs.
-That done, with many added sentences of grateful [[Friendship|friendship]] and warm
-attachment, all was done. He never thought of Carton. His mind was so
-full of the others, that he never once thought of him.
+“With his hand in the girl’s?”
 
-He had [[Time|time]] to finish these letters before the lights were put out. When
-he lay down on his straw bed, he thought he had done with this world.
+“Yes.”
 
-But, it beckoned him back in his [[Sleep|sleep]], and showed itself in shining
-forms. Free and happy, back in the old [[house]] in Soho (though it had
-nothing in it like the real [[house]]), unaccountably released and light of
-heart, he was with Lucie again, and she told him it was all [[A Dream|a dream]], and
-he had never gone away. A pause of forgetfulness, and then he had even
-suffered, and had come back to her, dead and at peace, and yet there
-was no difference in him. Another pause of oblivion, and he awoke in the
-sombre morning, unconscious where he was or what had happened, until it
-flashed upon his mind, “this is the day of my [[Death|death]]!”
+The man cries, “Down, Evrémonde! To the Guillotine all aristocrats!
+Down, Evrémonde!”
 
-Thus, had he come through the hours, to the day when the fifty-two heads
-were to fall. And now, while he was composed, and hoped that he could
-meet the end with quiet [[Heroism|heroism]], a new action began in his waking
-thoughts, which was very difficult to master.
+“Hush, hush!” the Spy entreats him, timidly.
 
-He had never seen the instrument that was to terminate his life. How
-high it was from the ground, how many steps it had, where he would be
-stood, how he would be touched, whether the touching hands would be dyed
-red, which way his face would be turned, whether he would be the first,
-or might be the last: these and many similar questions, in nowise
-directed by his will, obtruded themselves over and over again, countless
-times. Neither were they connected with [[Fear|fear]]: he was conscious of no
-[[Fear|fear]]. Rather, they originated in a strange besetting [[Desire|desire]] to know what
-to do when the [[Time|time]] came; a [[Desire|desire]] gigantically disproportionate to the
-few swift moments to which it referred; a wondering that was more like
-the wondering of some other spirit within his, than his own.
+“And why not, citizen?”
+
+“He is going to pay the forfeit: it will be paid in five minutes more.
+Let him be at peace.”
+
+But the man continuing to exclaim, “Down, Evrémonde!” the face of
+Evrémonde is for a moment turned towards him. Evrémonde then sees the
+Spy, and looks attentively at him, and goes his way.
+
+The clocks are on the stroke of three, and the furrow ploughed among the
+populace is turning round, to come on into the place of execution, and
+end. The ridges thrown to this side and to that, now crumble in and
+close behind the last plough as it passes on, for all are following
+to the Guillotine. In front of it, seated in chairs, as in a [[Garden|garden]] of
+public diversion, are a number of women, busily knitting. On one of the
+fore-most chairs, stands The Vengeance, looking about for her friend.
+
+“Thérèse!” she cries, in her shrill tones. “Who has seen her? Thérèse
+Defarge!”
+
+“She never missed before,” says a knitting-woman of the sisterhood.
+
+“No; nor will she miss now,” cries The Vengeance, petulantly. “Thérèse.”
+
+“Louder,” the woman recommends.
+
+Ay! Louder, Vengeance, much louder, and still she will scarcely hear
+thee. Louder yet, Vengeance, with a little oath or so added, and yet
+it will hardly bring her. Send other women up and down to seek her,
+lingering somewhere; and yet, although the messengers have done dread
+deeds, it is questionable whether of their own wills they will go far
+enough to find her!
+
+“Bad Fortune!” cries The Vengeance, stamping her foot in the chair, “and
+here are the tumbrils! And Evrémonde will be despatched in a wink, and
+she not here! See her knitting in my hand, and her empty chair ready for
+her. I cry with vexation and disappointment!”

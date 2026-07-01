@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 1: INTRODUCTORY (part 2)"
+title: "The Professor — Chapter 1: INTRODUCTORY (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_professor/chapter_02_introductory/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/the_professor/chapter_02_introductory/part_03">part 03 ›</a></div>
 </nav>
 
+
+him, some three or four times a year; which said letters never concluded
+
+without some expression of determined enmity against the [[house]] of
 
 Seacombe, and some reproach to me for living, as he said, on the bounty
 
@@ -36,8 +40,6 @@ these feelings I was influenced when I refused the Rectory of Seacombe,
 
 and the [[Union|union]] with one of my patrician cousins.
 
-
-
 “An irreparable breach thus being effected between my uncles and myself,
 
 I wrote to Edward; told him what had occurred, and informed him of my
@@ -54,8 +56,6 @@ I repressed all--even mental comment on his note--packed my trunk and
 
 carpet-bag, and started for the North directly.
 
-
-
 “After two days’ travelling (railroads were not then in existence) I
 
 arrived, one wet October afternoon, in the town of X----. I had always
@@ -67,8 +67,6 @@ it was only Mr. Crimsworth’s mill and warehouse which were situated in
 the smoky atmosphere of Bigben Close; his RESIDENCE lay four miles out,
 
 in the country.
-
-
 
 “It was late in the evening when I alighted at the gates of the
 
@@ -83,8 +81,6 @@ grounds surrounding it sufficiently spacious. I paused a moment on the
 lawn in front, and leaning my back against a tall tree which [[Rose|rose]] in the
 
 centre, I gazed with interest on the exterior of Crimsworth Hall.
-
-
 
 “Edward is rich,” thought I to myself. ‘I believed him to be doing
 
@@ -103,8 +99,6 @@ burning on the table; he informed me that his master was not yet
 returned from X----market, but that he would certainly be at [[Home|home]] in the
 
 course of half an hour.
-
-
 
 “Being left to myself, I took the stuffed easy chair, covered with red
 
@@ -134,8 +128,6 @@ clenched itself to repress the tremor with which impatience would fain
 
 have shaken it.
 
-
-
 “I thought of my uncles; and as I was engaged in wondering whether
 
 Edward’s indifference would equal the cold disdain I had always
@@ -149,8 +141,6 @@ minutes, and a brief dialogue between himself and his servant in the
 hall, his tread drew near the library door--that tread [[Alone|alone]] announced
 
 the master of the [[house]].
-
-
 
 “I still retained some confused recollection of Edward as he was ten
 
@@ -170,8 +160,6 @@ of shaking hands, scanned me from head to foot; he took his seat in the
 
 morocco covered arm-chair, and motioned me to another seat.
 
-
-
 “‘I expected you would have called at the counting-[[house]] in the Close,’
 
 said he; and his voice, I noticed, had an abrupt accent, probably
@@ -182,15 +170,11 @@ sounded harsh in my ears, accustomed to the silvery utterance of the
 
 South.
 
-
-
 “‘The landlord of the inn, where the coach stopped, directed me here,’
 
 said I. ‘I doubted at first the accuracy of his information, not being
 
 aware that you had such a residence as this.’
-
-
 
 “‘Oh, it is all right!’ he replied, ‘only I was kept half an hour behind
 
@@ -198,28 +182,12 @@ aware that you had such a residence as this.’
 
 eight o’[[Clock|clock]] coach.’
 
-
-
 “I expressed regret that he had had to wait; he made no answer, but
 
 stirred the [[Fire|fire]], as if to cover a movement of impatience; then he
 
 scanned me again.
 
-
-
 “I felt an inward satisfaction that I had not, in the first moment of
 
 meeting, betrayed any warmth, any enthusiasm; that I had saluted this
-
-man with a quiet and steady phlegm.
-
-
-
-“‘Have you quite broken with Tynedale and Seacombe?’ he asked hastily.
-
-
-
-“‘I do not think I shall have any further communication with them; my
-
-refusal of their proposals will, I fancy, operate as a barrier against

@@ -18,7 +18,6 @@ CHAPTER IV
 
 BROWNING IN [[Italy|ITALY]]
 
-
 The married pair went to Pisa in 1846, and moved soon afterwards to
 Florence. Of the life of the Brownings in [[Italy]] there is much perhaps
 to be said in the way of description and analysis, little to be said

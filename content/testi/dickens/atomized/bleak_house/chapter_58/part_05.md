@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 58 (part 5)"
+title: "Bleak House — Chapter 58 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_58/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_59/part_01">part 01 ›</a></div>
 </nav>
 
+
+Midnight comes, and with it the same blank. The carriages in the
+streets are few, and other late sounds in that neighbourhood there
+are none, unless a man so very nomadically drunk as to stray into the
+frigid zone goes brawling and bellowing along the pavement. Upon this
+wintry [[Night|night]] it is so still that listening to the intense [[Silence|silence]] is
+like looking at intense darkness. If any distant sound be audible in
+this case, it departs through the gloom like a feeble light in that,
+and all is heavier than before.
 
 The corporation of servants are dismissed to bed (not unwilling to
 go, for they were up all last [[Night|night]]), and only Mrs. Rouncewell and

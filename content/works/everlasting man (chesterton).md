@@ -48,7 +48,7 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Chapter 01 ON THE MAN CALLED CHRIST](/testi/chesterton/atomized/everlasting_man/chapter_01_on_the_man_called_christ)
+- Chapter 01 ON THE MAN CALLED CHRIST
 - [Chapter 02](/testi/chesterton/atomized/everlasting_man/chapter_02)
 - [Chapter 03](/testi/chesterton/atomized/everlasting_man/chapter_03)
 

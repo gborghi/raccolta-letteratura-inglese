@@ -1,5 +1,5 @@
 ---
-title: "[[AllThingsConsidered-8]] — THE ZOLA CONTROVERSY"
+title: "AllThingsConsidered-8 — THE ZOLA CONTROVERSY"
 author: "Chesterton"
 unitType: story
 parentWork: "works/allthingsconsidered-8-(chesterton)"
@@ -10,12 +10,11 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/allthingsconsidered-8-(chesterton)">AllThingsConsidered 8</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_09_french_and_english">‹ Story 09 FRENCH AND ENGLISH</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_11_oxford_from_without">Story 11 OXFORD FROM WITHOUT ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_09_french_and_english">‹ Story 09 FRENCH AND ENGLISH</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_11_oxford_oxford_from_without">Story 11 Oxford OXFORD FROM WITHOUT ›</a></div>
 </nav>
 
 
 THE ZOLA CONTROVERSY
-
 
 The difference between two great nations can be illustrated
 by the coincidence that at this moment both France and England

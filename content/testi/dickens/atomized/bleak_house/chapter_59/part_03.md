@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 59 (part 3)"
+title: "Bleak House — Chapter 59 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_59/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_59/part_04">part 04 ›</a></div>
 </nav>
 
+
+“My little woman,” said Mr. Snagsby, entering behind us, “to
+wave—not to put too fine a point upon it, my dear—hostilities for
+one single moment in the course of this prolonged [[Night|night]], here is
+[[Inspector Bucket]], Mr. Woodcourt, and a lady.”
+
+She looked very much astonished, as she had reason for doing, and
+looked particularly hard at me.
+
+“My little woman,” said Mr. Snagsby, sitting down in the remotest
+corner by the door, as if he were taking a liberty, “it is not
+unlikely that you may inquire of me why [[Inspector Bucket]], Mr.
+Woodcourt, and a lady call upon us in Cook’s [[Court]], Cursitor Street,
+at the present hour. I don’t know. I have not the least idea. If I
+was to be informed, I should [[Despair|despair]] of understanding, and I’d rather
+not be told.”
 
 He appeared so miserable, sitting with his head upon his hand, and I
 appeared so unwelcome, that I was going to offer an apology when Mr.
@@ -118,32 +134,3 @@ to me at my guardian’s.
 
 “You know the hand,” he said, “and if you are firm enough to read it
 to me, do! But be particular to a word.”
-
-It had been written in portions, at different times. I read what
-follows:
-
-
-   I came to the cottage with two objects. First, to see the
-   dear one, if I could, once more—but only to see her—not
-   to speak to her or let her know that I was near. The other
-   object, to elude pursuit and to be lost. Do not blame the
-   mother for her share. The assistance that she rendered me,
-   she rendered on my strongest assurance that it was for the
-   dear one’s good. You remember her dead [[Child|child]]. The men’s
-   consent I bought, but her help was freely given.
-
-
-“‘I came.’ That was written,” said my companion, “when she rested
-there. It bears out what I made of it. I was right.”
-
-The next was written at another [[Time|time]]:
-
-
-   I have wandered a long distance, and for many hours, and
-   I know that I must soon die. These streets! I have no
-   purpose but to die. When I left, I had a worse, but I am
-   saved from adding that [[Guilt|guilt]] to the rest. Cold, wet, and
-   fatigue are sufficient causes for my being found dead, but
-   I shall die of others, though I suffer from these. It was
-   right that all that had sustained me should give way at
-   once and that I should die of terror and my [[Conscience|conscience]].

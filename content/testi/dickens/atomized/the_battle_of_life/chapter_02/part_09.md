@@ -14,6 +14,44 @@ tags:
 </nav>
 
 
+‘All that one of them has ever done, or may do—may do, dearest father—to
+cause you [[Pain|pain]] or grief, forgive her,’ said Marion, ‘forgive her now,
+when her heart is full.  Say that you forgive her.  That you will forgive
+her.  That she shall always share your [[Love|love]], and—,’ and the rest was not
+said, for her face was hidden on the old man’s shoulder.
+
+‘Tut, tut, tut,’ said the Doctor gently.  ‘Forgive!  What have I to
+forgive?  Heyday, if our true [[lovers]] come back to flurry us like this, we
+must hold ’em at a distance; we must send expresses out to stop ’em short
+upon the [[Road|road]], and bring ’em on a mile or two a day, until we’re properly
+prepared to meet ’em.  Kiss me, Puss.  Forgive!  Why, what a silly [[Child|child]]
+you are!  If you had vexed and crossed me fifty times a day, instead of
+not at all, I’d forgive you everything, but such a supplication.  Kiss me
+again, Puss.  There!  Prospective and retrospective—a clear score between
+us.  Pile up the [[Fire|fire]] here!  Would you freeze the people on this bleak
+December [[Night|night]]!  Let us be light, and warm, and merry, or I’ll not
+forgive some of you!’
+
+So gaily the old Doctor carried it!  And the [[Fire|fire]] was piled up, and the
+lights were bright, and company arrived, and a murmuring of lively
+tongues began, and already there was a pleasant air of cheerful
+excitement stirring through all the [[house]].
+
+More and more company came flocking in.  Bright eyes sparkled upon
+Marion; smiling lips gave her joy of his return; sage mothers fanned
+themselves, and hoped she mightn’t be too youthful and inconstant for the
+quiet round of [[Home|home]]; impetuous fathers fell into disgrace for too much
+exaltation of her [[Beauty|beauty]]; daughters envied her; sons envied him;
+innumerable pairs of [[lovers]] profited by the occasion; all were
+interested, animated, and expectant.
+
+Mr. and Mrs. Craggs came arm in arm, but Mrs. Snitchey came [[Alone|alone]].  ‘Why,
+what’s become of _him_?’ inquired the Doctor.
+
+The feather of a Bird of Paradise in Mrs. Snitchey’s turban, trembled as
+if the Bird of Paradise were alive again, when she said that doubtless
+Mr. Craggs knew.  _She_ was never told.
+
 ‘That nasty office,’ said Mrs. Craggs.
 
 ‘I wish it was burnt down,’ said Mrs. Snitchey.
@@ -102,61 +140,3 @@ dare-devil he is—before the [[Wind|wind]].  There’s no such lonely [[Road|ro
 else.  That’s one thing.  The tide flows, he says, an hour before
 midnight—about this [[Time|time]].  I’m glad it’s over.’  Mr. Snitchey wiped his
 forehead, which looked hot and anxious.
-
-‘What do you think,’ said Mr. Craggs, ‘about—’
-
-‘Hush!’ replied his cautious partner, looking straight before him.  ‘I
-understand you.  Don’t mention names, and don’t let us, seem to be
-talking [[Secrets|secrets]].  I don’t know what to think; and to tell you the [[Truth|truth]],
-I don’t care now.  It’s a great relief.  His [[Self|self]]-[[Love|love]] deceived him, I
-suppose.  Perhaps the young lady coquetted a little.  The evidence would
-seem to point that way.  Alfred not arrived?’
-
-‘Not yet,’ said Mr. Craggs.  ‘Expected every minute.’
-
-‘Good.’ Mr. Snitchey wiped his forehead again.  ‘It’s a great relief.  I
-haven’t been so nervous since we’ve been in partnership.  I intend to
-spend the evening now, Mr. Craggs.’
-
-Mrs. Craggs and Mrs. Snitchey joined them as he announced this intention.
-The Bird of Paradise was in a state of extreme vibration, and the little
-[[Bells|bells]] were ringing quite audibly.
-
-‘It has been the theme of general comment, Mr. Snitchey,’ said Mrs.
-Snitchey.  ‘I [[Hope|hope]] the office is satisfied.’
-
-‘Satisfied with what, my dear?’ asked Mr. Snitchey.
-
-‘With the exposure of a defenceless woman to ridicule and remark,’
-returned his wife.  ‘That is quite in the way of the office, _that_ is.’
-
-‘I really, myself,’ said Mrs. Craggs, ‘have been so long accustomed to
-connect the office with everything opposed to domesticity, that I am glad
-to know it as the avowed enemy of my peace.  There is something honest in
-that, at all events.’
-
-‘My dear,’ urged Mr. Craggs, ‘your good opinion is invaluable, but _I_
-never avowed that the office was the enemy of your peace.’
-
-‘No,’ said Mrs. Craggs, ringing a perfect peal upon the little [[Bells|bells]].
-‘Not you, indeed.  You wouldn’t be worthy of the office, if you had the
-candour to.’
-
-‘As to my having been away to-[[Night|night]], my dear,’ said Mr. Snitchey, giving
-her his arm, ‘the deprivation has been mine, I’m sure; but, as Mr. Craggs
-knows—’
-
-Mrs. Snitchey cut this reference very short by hitching her husband to a
-distance, and asking him to look at that man.  To do her the favour to
-look at him!
-
-‘At which man, my dear?’ said Mr. Snitchey.
-
-‘Your chosen companion; _I_’m no companion to you, Mr. Snitchey.’
-
-‘Yes, yes, you are, my dear,’ he interposed.
-
-‘No, no, I’m not,’ said Mrs. Snitchey with a majestic smile.  ‘I know my
-station.  Will you look at your chosen companion, Mr. Snitchey; at your
-referee, at the keeper of your [[Secrets|secrets]], at the man you trust; at your
-other [[Self|self]], in short?’

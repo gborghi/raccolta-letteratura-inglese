@@ -1,5 +1,5 @@
 ---
-title: "[[Pride and Prejudice]] — Chapter 26 (part 2)"
+title: "Pride and Prejudice — Chapter 26 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/pride-and-prejudice-(austen)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/pride_and_prejudice/chapter_26/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/pride_and_prejudice/chapter_29/part_01">part 01 ›</a></div>
 </nav>
 
+
+Her impatience for this second letter was as [[Well|well]] rewarded as impatience
+generally is. Jane had been a week in town, without either seeing or
+hearing from Caroline. She accounted for it, however, by supposing that
+her last letter to her friend from Longbourn had by some accident been
+lost.
 
 “My aunt,” she continued, “is going to-morrow into that part of the
 town, and I shall take the opportunity of calling in Grosvenor Street.”

@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 47 (part 2)"
+title: "The Tenant of Wildfell Hall — Chapter 47 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_47/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_47/part_03">part 03 ›</a></div>
 </nav>
 
+
+“I suppose I mayn’t know where she is?” said I, as I dismounted, and
+
+relinquished my [[Horse|horse]] to the gardener, who, being the only servant
 
 within call, had been summoned by his master, from his employment of
 
@@ -216,7 +220,7 @@ for?”
 
 
 
-“It is I, [[arthur|Arthur]]—it is [[Helen]], your wife,” I replied.
+“It is I, [[Arthur]]—it is [[Helen]], your wife,” I replied.
 
 
 
@@ -273,17 +277,3 @@ then not above my breath. At first he addressed me as the [[Nurse|nurse]], but,
 on my crossing the room to draw up the [[Window|window]]-blinds, in obedience to
 
 his directions, he said, “No, it isn’t [[Nurse|nurse]]; it’s Alice. Stay with me,
-
-do! That old hag will be the [[Death|death]] of me.”
-
-
-
-“I mean to stay with you,” said I. And after that he would call me
-
-Alice, or some other name almost equally repugnant to my feelings. I
-
-forced myself to endure it for a while, fearing a contradiction might
-
-disturb him too much; but when, having asked for a glass of [[Water|water]],
-
-while I held it to his lips, he murmured, “Thanks, dearest!” I could

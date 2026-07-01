@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 18 (part 5)"
+title: "Bleak House — Chapter 18 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_18/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_18/part_06">part 06 ›</a></div>
 </nav>
 
+
+“He believes he is!” said Mr. Boythorn. “He firmly believes it. So
+did his father, and his grandfather, and his great-grandfather!”
 
 “Do you know,” pursued Mr. Skimpole very unexpectedly to Mr.
 Boythorn, “it’s agreeable to me to see a man of that sort.”
@@ -123,17 +126,3 @@ which we saw it that it was like a glimpse of the better land. Upon
 the Saturday we sat here, Mr. Jarndyce, Ada, and I, until we heard
 thunder muttering in the distance and felt the large raindrops rattle
 through the [[Leaves|leaves]].
-
-The weather had been all the week extremely sultry, but the [[Storm|storm]]
-broke so suddenly—upon us, at least, in that sheltered spot—that
-before we reached the outskirts of the wood the thunder and [[Lightning|lightning]]
-were frequent and the rain came plunging through the [[Leaves|leaves]] as if
-every drop were a great leaden bead. As it was not a [[Time|time]] for
-standing among trees, we ran out of the wood, and up and down the
-moss-grown steps which crossed the plantation-fence like two
-broad-staved ladders placed back to back, and made for a keeper’s
-lodge which was close at hand. We had often noticed the dark [[Beauty|beauty]]
-of this lodge standing in a deep twilight of trees, and how the ivy
-clustered over it, and how there was a steep hollow near, where we
-had once seen the keeper’s dog dive down into the fern as if it were
-[[Water|water]].

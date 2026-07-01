@@ -1,5 +1,5 @@
 ---
-title: "[[Loss of Breath]]"
+title: "Loss of Breath"
 author: "Poe"
 unitType: work
 parentWork: "works/loss-of-breath-(poe)"
@@ -775,7 +775,7 @@ O breathe not, etc.
 
       walked against [[Time]], would not walk against him. Windham and
 
-      Allbreath were his favorite writers,—his favorite [[Artist|artist]], Phiz.
+      Allbreath were his favorite writers,—his favorite [[artist]], Phiz.
 
       He died gloriously while inhaling gas—levique flatu corrupitur,
 

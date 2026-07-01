@@ -1,5 +1,5 @@
 ---
-title: "A Christmas [[carol|Carol]] — Stave 2: THE FIRST OF THE THREE SPIRITS (part 3)"
+title: "A Christmas Carol — Stave 2: THE FIRST OF THE THREE SPIRITS (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-christmas-carol-(dickens)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_christmas_carol/chapter_02_the_first_of_the_three_spirits/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/a_christmas_carol/chapter_02_the_first_of_the_three_spirits/part_04">part 04 ›</a></div>
 </nav>
 
+
+"Why, it's Ali Baba!" Scrooge exclaimed in ecstasy. "It's
+dear old honest Ali Baba! Yes, yes, I know! One Christmas
+[[Time|time]], when yonder solitary [[Child|child]] was left here all [[Alone|alone]],
+he did come, for the first [[Time|time]], just like that. Poor boy! And
+[[Valentine]]," said Scrooge, "and his wild brother, Orson; there
+they go! And what's his name, who was put down in his
+drawers, asleep, at the Gate of Damascus; don't you see him!
+And the Sultan's Groom turned upside down by the Genii;
+there he is upon his head! Serve him right. I'm glad of it.
+What business had he to be married to the Princess!"
 
 To hear Scrooge expending all the earnestness of his [[Nature|nature]]
 on such subjects, in a most extraordinary voice between
@@ -134,31 +145,3 @@ tumult of a real [[City|city]] were. It was made plain enough, by
 the dressing of the shops, that here too it was Christmas
 [[Time|time]] again; but it was evening, and the streets were
 lighted up.
-
-The [[Ghost]] stopped at a certain warehouse door, and asked
-Scrooge if he knew it.
-
-"Know it!" said Scrooge. "Was I apprenticed here!"
-
-They went in. At sight of an old gentleman in a Welsh
-wig, sitting behind such a high desk, that if he had been two
-inches taller he must have knocked his head against the
-ceiling, Scrooge cried in great excitement:
-
-"Why, it's old Fezziwig! Bless his heart; it's Fezziwig
-alive again!"
-
-Old Fezziwig laid down his pen, and looked up at the
-[[Clock|clock]], which pointed to the hour of seven. He rubbed his
-hands; adjusted his capacious waistcoat; laughed all over
-himself, from his shoes to his organ of benevolence; and
-called out in a comfortable, oily, rich, fat, jovial voice:
-
-"Yo ho, there! Ebenezer! Dick!"
-
-Scrooge's former [[Self|self]], now grown a young man, came briskly
-in, accompanied by his fellow-'prentice.
-
-"Dick Wilkins, to be sure!" said Scrooge to the [[Ghost]].
-"Bless me, yes. There he is. He was very much attached
-to me, was Dick. Poor Dick! Dear, dear!"

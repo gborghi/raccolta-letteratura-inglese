@@ -16,10 +16,7 @@ tags:
 
 Chapter IX
 
-
-
 MIRACLES AND [[Death|DEATH]]
-
 
 The tremendous story of the Stigmata of St. Francis, which was
 the end of the last chapter, was in some sense the end of his life.

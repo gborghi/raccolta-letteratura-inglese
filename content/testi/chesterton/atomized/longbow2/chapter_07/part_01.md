@@ -1,5 +1,5 @@
 ---
-title: "[[longbow2]] — Chapter 7 (part 1)"
+title: "longbow2 — Chapter 7 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -18,7 +18,6 @@ Chapter VII
 
 The Unprecedented Architecture
 of Commander Blair
-
 
 The Earl of Eden had become Prime Minister for the third [[Time|time]],
 and his face and figure were therefore familiar in the political
@@ -97,16 +96,16 @@ they like."
 other examples.  They say that Owen Hood, another of these eccentrics,
 has actually bought one of these little farms and stuck it all round
 with absurd battlements and a moat and drawbridge, with the motto
-`The Englishman's [[house|House]] is his [[Castle]].'"
+`The Englishman's House is his Castle.'"
 
 "I think," said the Prime Minister quietly, "that however English
-the Englishman may be, he will find his [[Castle|castle]] is a [[Castle|castle]] in Spain;
-not to say a [[Castle|castle]] in the air.  Mr. Oates," he said, addressing very
+the Englishman may be, he will find his castle is a castle in Spain;
+not to say a castle in the air.  Mr. Oates," he said, addressing very
 courteously the big brooding American at the other end of the table,
 "please do not imagine that I cannot sympathize with such romances,
 although they are only in the air.  But I think in all sincerity
 that you will find they are unsuited to the English climate. 
-~Et ego in Arcadia~, you know; we have all had such [[Dreams|dreams]] of all men
+~Et ego in Arcadia~, you know; we have all had such dreams of all men
 piping in Arcady.  But after all, you have already paid the piper;
 and if you are wise, I think you can still call the tune."
 
@@ -117,7 +116,7 @@ and if you are wise, I think you can still call the tune."
 not be in too much of a hurry to call it too late.  It seems
 to me that the door is still open for a reasonable compromise;
 I understand that the deed of gift, considered as a legal instrument,
-is still the subject of some legal discussion and may [[Well|well]] be
+is still the subject of some legal discussion and may well be
 the subject of revision.  I happened to be talking of it yesterday
-with the law officers of the [[Crown]]; and I am sure that the least
+with the law officers of the Crown; and I am sure that the least
 hint that you yourself--"

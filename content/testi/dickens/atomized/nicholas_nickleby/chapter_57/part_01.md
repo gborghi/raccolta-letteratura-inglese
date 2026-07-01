@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 57 (part 1)"
+title: "Nicholas Nickleby — Chapter 57 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -117,18 +117,3 @@ wouldn’t have a father as didn’t [[Love|love]] him! Pretty wicious that for 
 Mr. Squeers was so much moved by the contemplation of this hardened
 [[Nature|nature]] in one so young, that he angrily put up the letter, and sought,
 in a new train of ideas, a subject of consolation.
-
-‘It’s a long [[Time|time]] to have been a-lingering in [[London]],’ he said; ‘and
-this is a precious hole to come and live in, even if it has been only
-for a week or so. Still, one hundred pound is five boys, and five boys
-takes a whole year to pay one hundred pounds, and there’s their keep to
-be substracted, besides. There’s nothing lost, neither, by one’s being
-here; because the boys’ money comes in just the same as if I was at
-[[Home|home]], and Mrs. Squeers she keeps them in order. There’ll be some lost
-[[Time|time]] to make up, of course. There’ll be an arrear of flogging as’ll have
-to be gone through: still, a couple of days makes that all right, and
-one don’t mind a little extra work for one hundred pound. It’s pretty
-nigh the [[Time|time]] to wait upon the old woman. From what she said last [[Night|night]],
-I suspect that if I’m to succeed at all, I shall succeed tonight; so
-I’ll have half a glass more, to wish myself [[success]], and put myself in
-spirits. Mrs. Squeers, my dear, your health!’

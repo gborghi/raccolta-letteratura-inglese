@@ -1,5 +1,5 @@
 ---
-title: "[[The Murders in the Rue Morgue]] (part 12)"
+title: "The Murders in the Rue Morgue (part 12)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-murders-in-the-rue-morgue-(poe)"
@@ -13,6 +13,52 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_murders_in_the_rue_morgue/part/part_11">‹ part 11</a><a class="ex-next" href="/testi/poe/atomized/the_murders_in_the_rue_morgue/part/part_13">part 13 ›</a></div>
 </nav>
 
+
+      depraved of men. Think, too, how great must have been that
+
+      strength which could have thrust the [[Body|body]] _up_ such an aperture
+
+      so forcibly that the united vigor of several persons was found
+
+      barely sufficient to drag it _down!_
+
+
+
+      “Turn, now, to other indications of the employment of a vigor
+
+      most marvellous. On the hearth were thick tresses—very thick
+
+      tresses—of grey human hair. These had been torn out by the roots.
+
+      You are aware of the great force necessary in tearing thus from
+
+      the head even twenty or thirty hairs together. You saw the locks
+
+      in question as [[Well|well]] as myself. Their roots (a hideous sight!)
+
+      were clotted with fragments of the flesh of the scalp—sure token
+
+      of the prodigious power which had been exerted in uprooting
+
+      perhaps half a million of hairs at a [[Time|time]]. The throat of the old
+
+      lady was not merely cut, but the head absolutely severed from the
+
+      [[Body|body]]: the instrument was a mere razor. I wish you also to look at
+
+      the _brutal_ ferocity of these deeds. Of the bruises upon the
+
+      [[Body|body]] of Madame L’Espanaye I do not speak. Monsieur Dumas, and his
+
+      worthy coadjutor Monsieur Etienne, have pronounced that they were
+
+      inflicted by some obtuse instrument; and so far these gentlemen
+
+      are very correct. The obtuse instrument was clearly the stone
+
+      pavement in the yard, upon which the victim had fallen from the
+
+      [[Window|window]] which looked in upon the bed. This idea, however simple it
 
       may now seem, escaped the police for the same reason that the
 
@@ -173,57 +219,3 @@ tags:
       “True; and you will remember an expression attributed almost
 
       unanimously, by the evidence, to this voice,—the expression,
-
-      ‘_mon Dieu!_’ This, under the circumstances, has been justly
-
-      characterized by one of the witnesses (Montani, the
-
-      confectioner,) as an expression of remonstrance or expostulation.
-
-      Upon these two words, therefore, I have mainly built my hopes of
-
-      a full solution of the [[Riddle|riddle]]. A Frenchman was cognizant of the
-
-      murder. It is possible—indeed it is far more than probable—that
-
-      he was [[Innocent|innocent]] of all participation in the bloody transactions
-
-      which took place. The Ourang-Outang may have escaped from him. He
-
-      may have traced it to the chamber; but, under the agitating
-
-      circumstances which ensued, he could never have re-captured it.
-
-      It is still at large. I will not pursue these guesses—for I have
-
-      no right to call them more—since the shades of reflection upon
-
-      which they are based are scarcely of sufficient depth to be
-
-      appreciable by my own intellect, and since I could not pretend to
-
-      make them intelligible to the understanding of another. We will
-
-      call them guesses then, and speak of them as such. If the
-
-      Frenchman in question is indeed, as I suppose, [[Innocent|innocent]] of this
-
-      atrocity, this advertisement which I left last [[Night|night]], upon our
-
-      return [[Home|home]], at the office of ‘Le Monde’ (a paper devoted to the
-
-      shipping interest, and much sought by sailors), will bring him to
-
-      our residence.”
-
-
-
-      He handed me a paper, and I read thus:
-
-
-
-      CAUGHT—_In the Bois de Boulogne, early in the morning of the
-
-      ——inst.,_ (the morning of the murder), _a very large, tawny
-
-      Ourang-Outang of the Bornese species. The owner (who is

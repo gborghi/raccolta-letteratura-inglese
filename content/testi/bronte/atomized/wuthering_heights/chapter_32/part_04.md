@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 32 (part 4)"
+title: "Wuthering Heights — Chapter 32 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_32/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_33/part_01">part 01 ›</a></div>
 </nav>
 
+
+She returned to the hearth, and frankly extended her hand. He blackened
+and scowled like a thunder-cloud, and kept his fists resolutely
+clenched, and his gaze fixed on the ground. Catherine, by instinct,
+must have divined it was obdurate perversity, and not dislike, that
+prompted this dogged conduct; for, after remaining an instant
+undecided, she stooped and impressed on his cheek a gentle kiss. The
+little rogue thought I had not seen her, and, drawing back, she took
+her former station by the [[Window|window]], quite demurely. I shook my head
+reprovingly, and then she blushed and whispered—“[[Well]]! what should I
+have done, Ellen? He wouldn’t shake hands, and he wouldn’t look: I must
+show him some way that I like him—that I want to be friends.”
+
+Whether the kiss convinced Hareton, I cannot tell: he was very careful,
+for some minutes, that his face should not be seen, and when he did
+raise it, he was sadly puzzled where to turn his eyes.
 
 Catherine employed herself in wrapping a handsome book neatly in white
 paper, and having tied it with a bit of ribbon, and addressed it to

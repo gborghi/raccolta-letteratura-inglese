@@ -1,5 +1,5 @@
 ---
-title: "[[Eugenics]] — Part 1 (part 7)"
+title: "Eugenics — Part 1 (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/eugenics-(chesterton)"
@@ -13,6 +13,36 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/eugenics/chapter_02/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/eugenics/chapter_02/part_08">part 08 ›</a></div>
 </nav>
 
+
+The madman is not he that defies the world.  The saint, the criminal,
+the martyr, the cynic, the nihilist may all defy the world quite sanely.
+And even if such fanatics would destroy the world the world owes
+them a strictly fair trial according to proof and public law.
+But the madman is not the man who defies the world; he is the man
+who denies it.  Suppose we are all standing round a field and looking
+at a tree in the middle of it.  It is perfectly true that we all
+see it (as the decadents say) in infinitely different aspects:
+that is not the point; the point is that we all say it is a tree.
+Suppose, if you will, that we are all poets? which seems improbable;
+so that each of us could turn his aspect into a vivid image
+distinct from a tree.  Suppose one says it looks like a green
+cloud and another like a green fountain, and a third like a green
+dragon and the fourth like a green [[cheese]].  The fact remains:
+that they all say it looks like these things.  It is a tree.
+Nor are any of the poets in the least mad because of any opinions
+they may form, however frenzied, about the functions or future
+of the tree.  A conservative poet may wish to clip the tree;
+a revolutionary poet may wish to burn it.  An optimist poet
+may want to make it a Christmas tree and hang candles on it.
+A pessimist poet may want to hang himself on it.  None of these
+are mad, because they are all talking about the same thing.
+But there is another man who is talking horribly about something else.
+There is a monstrous exception to mankind.  Why he is so we know not;
+a new theory says it is heredity; an older theory says it is devils.
+But in any case, the spirit of it is the spirit that denies,
+the spirit that really denies realities.  This is the man who looks
+at the tree and does not say it looks like a [[Lion|lion]], but says that it
+is a lamp-post.
 
 I do not mean that all mad delusions are as concrete as this,
 though some are more concrete.  Believing your own [[Body|body]] is
@@ -104,24 +134,3 @@ And then we can lock him up.  The principle of the indeterminate
 sentence is the creation of the indeterminate mind.
 It does apply to the incomprehensible creature, the lunatic.
 And it applies to nobody else.
-
-The second thing to be noted is this:  that it is only by the unanimity
-of sane men that we can condemn this man as utterly separate.
-If he says a tree is a lamp-post he is mad; but only because all
-other men say it is a tree.  If some men thought it was a tree
-with a lamp on it, and others thought it was a lamp-post wreathed
-with branches and vegetation, then it would be a matter of opinion
-and degree; and he would not be mad, but merely extreme.
-Certainly he would not be mad if nobody but a botanist could see
-it was a tree.  Certainly his enemies might be madder than he,
-if nobody but a lamplighter could see it was not a lamp-post. And
-similarly a man is not an imbecile if only a Eugenist thinks so.
-The question then raised would not be his [[Sanity|sanity]], but the [[Sanity|sanity]]
-of one botanist or one lamplighter or one Eugenist.  That which can
-condemn the abnormally foolish is not the abnormally clever,
-which is obviously a matter in dispute.  That which can condemn
-the abnormally foolish is the normally foolish.  It is when he begins
-to say and do things that even stupid people do not say or do,
-that we have a right to treat him as the exception and not the rule.
-It is only because we none of us profess to be anything more than
-man that we have authority to treat him as something less.

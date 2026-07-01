@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 32 (part 2)"
+title: "Shirley — Chapter 32 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_32/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_32/part_03">part 03 ›</a></div>
 </nav>
 
+
+on the unperturbed head of one Mr. Graves, a stony young assistant he
+
+usually carried about with him; with a second nosegay he gifted another
+
+young gentleman in his train--an interesting fac-simile of himself,
 
 being indeed his own son; but the full _corbeille_ of blushing bloom
 
@@ -211,17 +217,3 @@ eye seems prepared to note any incipient attempt to control or overreach
 him, and the rest of his features indicate faculties alert for
 
 resistance. Wise ushers avoid unnecessary interference with that lad.
-
-To break him in by severity would be a useless attempt; to win him by
-
-flattery would be an effort worse than useless. He is best let [[Alone|alone]].
-
-[[Time]] will educate and experience train him.
-
-
-
-Professedly Martin Yorke (it is a young Yorke, of course) tramples on
-
-the name of poetry. Talk sentiment to him, and you would be answered by
-
-sarcasm. Here he is, wandering [[Alone|alone]], waiting duteously on [[Nature]], while

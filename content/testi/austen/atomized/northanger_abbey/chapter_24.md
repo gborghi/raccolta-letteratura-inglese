@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 23"
+title: "Northanger Abbey — Chapter 23"
 author: "Austen"
 unitType: chapter
 parentWork: "works/northanger-abbey-(austen)"
@@ -80,7 +80,7 @@ before—gathered all that she could from this storehouse of knowledge,
 
 by running over the titles of half a shelf, and was ready to proceed.
 
-But suites of apartments did not [[spring]] up with her wishes. Large as
+But suites of apartments did not [[Spring|spring]] up with her wishes. Large as
 
 was the building, she had already visited the greatest part; though, on
 

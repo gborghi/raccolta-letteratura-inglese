@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 40 (part 3)"
+title: "Sense and Sensibility — Chapter 40 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -12,6 +12,18 @@ tags:
 <div class="excerpt-crumb">Austen · <a href="/works/sense-and-sensibility-(austen)">Sense and Sensibility</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_40/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_41/part_01">part 01 ›</a></div>
 </nav>
+
+
+it again as soon as Elinor appeared.
+
+
+
+“[[Well]], my dear,” she cried, “I sent you up the young man. Did not I do
+
+right?—And I suppose you had no great difficulty—You did not find him
+
+very unwilling to accept your proposal?”
+
 
 
 “No, ma’am; _that_ was not very likely.”

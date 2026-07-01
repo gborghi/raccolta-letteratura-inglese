@@ -1,5 +1,5 @@
 ---
-title: "The Merry Wives of Windsor — Act III, Scene 3 — exchange ([[Mistress Page|MISTRESS PAGE]]) [4]"
+title: "The Merry Wives of Windsor — Act III, Scene 3 — exchange (MISTRESS PAGE) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-merry-wives-of-windsor-(shakespeare)"

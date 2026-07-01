@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 15 (part 2)"
+title: "Jane Eyre — Chapter 15 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -112,17 +112,3 @@ a lonely little [[Orphan|orphan]], who leans towards her as a friend?”
 
 “Oh, that is the light in which you view it! [[Well]], I must go in now;
 and you too: it darkens.”
-
-But I stayed out a few minutes longer with Adèle and Pilot—ran a race
-with her, and played a game of battledore and shuttlecock. When we went
-in, and I had removed her bonnet and coat, I took her on my knee; kept
-her there an hour, allowing her to prattle as she liked: not rebuking
-even some little freedoms and trivialities into which she was apt to
-stray when much noticed, and which betrayed in her a superficiality of
-character, inherited probably from her mother, hardly congenial to an
-English mind. Still she had her merits; and I was disposed to
-appreciate all that was good in her to the utmost. I sought in her
-countenance and features a likeness to Mr. Rochester, but found none:
-no trait, no turn of expression announced relationship. It was a pity:
-if she could but have been proved to resemble him, he would have
-thought more of her.

@@ -1,5 +1,5 @@
 ---
-title: "[[Henry VI]] Part One — Act III, Scene 7 — exchange ([[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]]) [5]"
+title: "Henry VI Part One — Act III, Scene 7 — exchange (RICHARD DUKE OF YORK) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/henry-vi-part-one-(shakespeare)"

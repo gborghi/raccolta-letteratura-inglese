@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 5 (part 3)"
+title: "Bleak House — Chapter 5 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_05/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_05/part_04">part 04 ›</a></div>
 </nav>
 
+
+“My landlord, Krook,” said the little old lady, condescending to him
+from her lofty station as she presented him to us. “He is called
+among the neighbours the Lord Chancellor. His shop is called the
+[[Court]] of Chancery. He is a very eccentric person. He is very odd. Oh,
+I assure you he is very odd!”
 
 She shook her head a great many times and tapped her forehead with
 her finger to express to us that we must have the goodness to excuse
@@ -130,14 +136,3 @@ comfortable as I thought, in the arm-chair by the [[Fire|fire]], and company
 with him. I hadn’t hardly got back here when I heard a shot go
 echoing and rattling right away into the inn. I ran out—neighbours
 ran out—twenty of us cried at once, ‘Tom Jarndyce!’”
-
-The old man stopped, looked hard at us, looked down into the lantern,
-blew the light out, and shut the lantern up.
-
-“We were right, I needn’t tell the present hearers. Hi! To be sure,
-how the neighbourhood poured into [[Court|court]] that afternoon while the
-cause was on! How my noble and learned brother, and all the rest of
-’em, grubbed and muddled away as usual and tried to look as if they
-hadn’t heard a word of the last fact in the case or as if they
-had—Oh, dear me!—nothing at all to do with it if they had heard of
-it by any chance!”

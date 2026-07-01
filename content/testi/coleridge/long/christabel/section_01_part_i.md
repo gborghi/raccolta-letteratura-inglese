@@ -1,5 +1,5 @@
 ---
-title: "[[Christabel]] — Part I"
+title: "Christabel — Part I"
 author: "Coleridge"
 unitType: section
 parentWork: "works/christabel-(coleridge)"

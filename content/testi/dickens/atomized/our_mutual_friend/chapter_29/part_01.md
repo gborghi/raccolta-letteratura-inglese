@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 5 (part 1)"
+title: "Our Mutual Friend — Chapter 7 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,140 +14,128 @@ tags:
 </nav>
 
 
-Chapter 5
+Chapter 7
 
-MERCURY PROMPTING
+IN WHICH A FRIENDLY MOVE IS ORIGINATED
 
 
-Fledgeby deserved Mr Alfred Lammle’s eulogium. He was the meanest
-cur existing, with a single pair of legs. And instinct (a word we all
-clearly understand) going largely on four legs, and reason always on
-two, meanness on four legs never attains the perfection of meanness on
-two.
+The arrangement between Mr Boffin and his literary man, Mr [[Silas Wegg]],
+so far altered with the altered habits of Mr Boffin’s life, as that
+the Roman Empire usually declined in the morning and in the eminently
+aristocratic family mansion, rather than in the evening, as of yore,
+and in Boffin’s Bower. There were occasions, however, when Mr Boffin,
+seeking a brief refuge from the blandishments of fashion, would present
+himself at the Bower after dark, to anticipate the next sallying
+forth of Wegg, and would there, on the old settle, pursue the downward
+fortunes of those enervated and corrupted masters of the world who were
+by this [[Time|time]] on their last legs. If Wegg had been worse paid for his
+office, or better qualified to discharge it, he would have considered
+these visits complimentary and agreeable; but, holding the position of
+a handsomely-remunerated humbug, he resented them. This was quite
+according to rule, for the incompetent servant, by whomsoever employed,
+is always against his employer. Even those born governors, noble and
+right honourable creatures, who have been the most imbecile in high
+places, have uniformly shown themselves the most opposed (sometimes in
+belying distrust, sometimes in vapid insolence) to THEIR employer. What
+is in such wise true of the public master and servant, is equally true
+of the private master and servant all the world over.
 
-The father of this young gentleman had been a money-lender, who
-had transacted professional business with the mother of this
-young gentleman, when he, the latter, was waiting in the vast dark
-ante-chambers of the present world to be born. The lady, a widow, being
-unable to pay the money-lender, married him; and in due course, Fledgeby
-was summoned out of the vast dark ante-chambers to come and be presented
-to the Registrar-General. Rather a curious speculation how Fledgeby
-would otherwise have disposed of his leisure until Doomsday.
+When Mr [[Silas Wegg]] did at last obtain free access to ‘Our [[house|House]]’, as he
+had been wont to call the mansion outside which he had sat shelterless
+so long, and when he did at last find it in all particulars as different
+from his mental plans of it as according to the [[Nature|nature]] of things it
+[[Well|well]] could be, that far-seeing and far-reaching character, by way of
+asserting himself and making out a case for compensation, affected to
+fall into a [[Melancholy|melancholy]] strain of musing over the mournful past; as if
+the [[house]] and he had had a fall in life together.
 
-Fledgeby’s mother offended her family by marrying Fledgeby’s father. It
-is one of the easiest achievements in life to offend your family when
-your family want to get rid of you. Fledgeby’s mother’s family had
-been very much offended with her for being poor, and broke with her
-for becoming comparatively rich. Fledgeby’s mother’s family was the
-Snigsworth family. She had even the high [[Honour|honour]] to be cousin to Lord
-Snigsworth—so many times removed that the noble Earl would have had no
-compunction in removing her one [[Time|time]] more and dropping her clean outside
-the cousinly pale; but cousin for all that.
+‘And this, sir,’ Silas would say to his patron, sadly nodding his head
+and musing, ‘was once Our [[house|House]]! This, sir, is the building from which I
+have so often seen those great creatures, Miss Elizabeth, Master
+George, Aunt Jane, and Uncle Parker’—whose very names were of his own
+inventing—‘pass and repass! And has it come to this, indeed! Ah dear
+me, dear me!’
 
-Among her pre-matrimonial transactions with Fledgeby’s father,
-Fledgeby’s mother had raised money of him at a great disadvantage on a
-certain reversionary interest. The reversion falling in soon after they
-were married, Fledgeby’s father laid hold of the cash for his separate
-use and benefit. This led to subjective differences of opinion, not to
-say objective interchanges of boot-jacks, backgammon boards, and other
-such domestic missiles, between Fledgeby’s father and Fledgeby’s mother,
-and those led to Fledgeby’s mother spending as much money as she
-could, and to Fledgeby’s father doing all he couldn’t to restrain her.
-Fledgeby’s [[Childhood|childhood]] had been, in consequence, a stormy one; but the
-winds and the waves had gone down in the [[Grave|grave]], and Fledgeby flourished
-[[Alone|alone]].
+So tender were his lamentations, that the kindly Mr Boffin was quite
+sorry for him, and almost felt mistrustful that in buying the [[house]] he
+had done him an irreparable injury.
 
-He lived in chambers in the Albany, did Fledgeby, and maintained a
-spruce appearance. But his youthful [[Fire|fire]] was all composed of sparks from
-the grindstone; and as the sparks flew off, went out, and never warmed
-anything, be sure that Fledgeby had his tools at the grindstone, and
-turned it with a wary eye.
+Two or three diplomatic interviews, the result of great subtlety on Mr
+Wegg’s part, but assuming the mask of careless yielding to a fortuitous
+combination of circumstances impelling him towards Clerkenwell, had
+enabled him to complete his bargain with [[Mr Venus]].
 
-Mr Alfred Lammle came round to the Albany to breakfast with Fledgeby.
-Present on the table, one scanty pot of tea, one scanty loaf, two scanty
-pats of butter, two scanty rashers of bacon, two pitiful eggs, and an
-abundance of handsome china bought a secondhand bargain.
+‘Bring me round to the Bower,’ said Silas, when the bargain was closed,
+‘next Saturday evening, and if a sociable glass of old Jamaikey warm
+should meet your views, I am not the man to begrudge it.’
 
-‘What did you think of Georgiana?’ asked Mr Lammle.
+‘You are aware of my being poor company, sir,’ replied [[Mr Venus]], ‘but be
+it so.’
 
-‘Why, I’ll tell you,’ said Fledgeby, very deliberately.
+It being so, here is Saturday evening come, and here is [[Mr Venus]] come,
+and ringing at the Bower-gate.
 
-‘Do, my boy.’
+Mr Wegg opens the gate, descries a sort of brown paper truncheon under
+[[Mr Venus]]’s arm, and remarks, in a dry tone: ‘Oh! I thought perhaps you
+might have come in a cab.’
 
-‘You misunderstand me,’ said Fledgeby. ‘I don’t mean I’ll tell you that.
-I mean I’ll tell you something else.’
+‘No, Mr Wegg,’ replies [[Venus]]. ‘I am not above a parcel.’
 
-‘Tell me anything, old fellow!’
+‘Above a parcel! No!’ says Wegg, with some dissatisfaction. But does not
+openly growl, ‘a certain sort of parcel might be above you.’
 
-‘Ah, but there you misunderstand me again,’ said Fledgeby. ‘I mean I’ll
-tell you nothing.’
+‘Here is your purchase, Mr Wegg,’ says [[Venus]], politely handing it over,
+‘and I am glad to restore it to the source from whence it—flowed.’
 
-Mr Lammle sparkled at him, but frowned at him too.
+‘Thankee,’ says Wegg. ‘Now this affair is concluded, I may mention to
+you in a friendly way that I’ve my doubts whether, if I had consulted a
+lawyer, you could have kept this article back from me. I only throw it
+out as a legal point.’
 
-‘Look here,’ said Fledgeby. ‘You’re deep and you’re ready. Whether I am
-deep or not, never mind. I am not ready. But I can do one thing, Lammle,
-I can hold my tongue. And I intend always doing it.’
+‘Do you think so, Mr Wegg? I bought you in open contract.’
 
-‘You are a long-headed fellow, Fledgeby.’
+‘You can’t buy human flesh and [[Blood|blood]] in this country, sir; not alive,
+you can’t,’ says Wegg, shaking his head. ‘Then query, bone?’
 
-‘May be, or may not be. If I am a short-tongued fellow, it may amount to
-the same thing. Now, Lammle, I am never going to answer questions.’
+‘As a legal point?’ asks [[Venus]].
 
-‘My dear fellow, it was the simplest question in the world.’
+‘As a legal point.’
 
-‘Never mind. It seemed so, but things are not always what they seem. I
-saw a man examined as a witness in Westminster Hall. Questions put to
-him seemed the simplest in the world, but turned out to be anything
-rather than that, after he had answered ’em. Very [[Well|well]]. Then he should
-have held his tongue. If he had held his tongue he would have kept out
-of scrapes that he got into.’
+‘I am not competent to speak upon that, Mr Wegg,’ says [[Venus]], reddening
+and growing something louder; ‘but upon a point of fact I think myself
+competent to speak; and as a point of fact I would have seen you—will
+you allow me to say, further?’
 
-‘If I had held my tongue, you would never have seen the subject of my
-question,’ remarked Lammle, darkening.
+‘I wouldn’t say more than further, if I was you,’ Mr Wegg suggests,
+pacifically.
 
-‘Now, Lammle,’ said Fascination Fledgeby, calmly feeling for his
-whisker, ‘it won’t do. I won’t be led on into a discussion. I can’t
-manage a discussion. But I can manage to hold my tongue.’
+—‘Before I’d have given that packet into your hand without being paid
+my price for it. I don’t pretend to know how the point of law may stand,
+but I’m thoroughly confident upon the point of fact.’
 
-‘Can?’ Mr Lammle fell back upon propitiation. ‘I should think you could!
-Why, when these fellows of our acquaintance drink and you drink with
-them, the more talkative they get, the more silent you get. The more
-they let out, the more you keep in.’
+As [[Mr Venus]] is irritable (no [[Doubt|doubt]] owing to his disappointment in [[Love|love]]),
+and as it is not the cue of Mr Wegg to have him out of temper, the
+latter gentleman soothingly remarks, ‘I only put it as a little case; I
+only put it ha’porthetically.’
 
-‘I don’t object, Lammle,’ returned Fledgeby, with an internal chuckle,
-‘to being understood, though I object to being questioned. That
-certainly IS the way I do it.’
+‘Then I’d rather, Mr Wegg, you put it another [[Time|time]], penn’orth-etically,’
+is [[Mr Venus]]’s retort, ‘for I tell you candidly I don’t like your little
+cases.’
 
-‘And when all the rest of us are discussing our ventures, none of us
-ever know what a single venture of yours is!’
+Arrived by this [[Time|time]] in Mr Wegg’s sitting-room, made bright on the
+chilly evening by gaslight and [[Fire|fire]], [[Mr Venus]] softens and compliments
+him on his abode; profiting by the occasion to remind Wegg that he
+([[Venus]]) told him he had got into a good thing.
 
-‘And none of you ever will from me, Lammle,’ replied Fledgeby, with
-another internal chuckle; ‘that certainly IS the way I do it.’
+‘Tolerable,’ Wegg rejoins. ‘But bear in mind, [[Mr Venus]], that there’s
+no gold without its alloy. Mix for yourself and take a seat in the
+chimbley-corner. Will you perform upon a pipe, sir?’
 
-‘Why of course it is, I know!’ rejoined Lammle, with a flourish of
-frankness, and a laugh, and stretching out his hands as if to show
-the universe a remarkable man in Fledgeby. ‘If I hadn’t known it of my
-Fledgeby, should I have proposed our little compact of advantage, to my
-Fledgeby?’
+‘I am but an indifferent performer, sir,’ returns the other; ‘but I’ll
+accompany you with a whiff or two at intervals.’
 
-‘Ah!’ remarked Fascination, shaking his head slyly. ‘But I am not to
-be got at in that way. I am not vain. That sort of [[Vanity|vanity]] don’t pay,
-Lammle. No, no, no. Compliments only make me hold my tongue the more.’
+So, [[Mr Venus]] mixes, and Wegg mixes; and [[Mr Venus]] lights and puffs, and
+Wegg lights and puffs.
 
-Alfred Lammle pushed his plate away (no great sacrifice under the
-circumstances of there being so little in it), thrust his hands in his
-pockets, leaned back in his chair, and contemplated Fledgeby in [[Silence|silence]].
-Then he slowly released his left hand from its pocket, and made that
-bush of his whiskers, still contemplating him in [[Silence|silence]]. Then he slowly
-broke [[Silence|silence]], and slowly said: ‘What—the—Dev-il is this fellow about
-this morning?’
-
-‘Now, look here, Lammle,’ said Fascination Fledgeby, with the meanest
-of twinkles in his meanest of eyes: which were too near together, by
-the way: ‘look here, Lammle; I am very [[Well|well]] aware that I didn’t show to
-advantage last [[Night|night]], and that you and your wife—who, I consider, is
-a very clever woman and an agreeable woman—did. I am not calculated to
-show to advantage under that sort of circumstances. I know very [[Well|well]] you
-two did show to advantage, and managed capitally. But don’t you on that
-account come talking to me as if I was your doll and puppet, because I
-am not.
+‘And there’s alloy even in this metal of yours, Mr Wegg, you was
+remarking?’

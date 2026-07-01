@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 9: I HAVE A MEMORABLE BIRTHDAY (part 1)"
+title: "David Copperfield — Chapter 9: I HAVE A MEMORABLE BIRTHDAY (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -131,11 +131,3 @@ his pillow. I don’t know what good he thought it would do me, for I
 had one of my own: but it was all he had to lend, poor fellow, except a
 sheet of letter-paper full of skeletons; and that he gave me at parting,
 as a soother of my sorrows and a contribution to my peace of mind.
-
-I left Salem [[house|House]] upon the morrow afternoon. I little thought then that
-I left it, never to return. We travelled very slowly all [[Night|night]], and
-did not get into Yarmouth before nine or ten o’[[Clock|clock]] in the morning. I
-looked out for Mr. Barkis, but he was not there; and instead of him a
-fat, short-winded, merry-looking, little old man in black, with rusty
-little bunches of ribbons at the knees of his breeches, black stockings,
-and a broad-brimmed hat, came puffing up to the coach [[Window|window]], and said:

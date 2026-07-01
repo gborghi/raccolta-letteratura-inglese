@@ -32,28 +32,28 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Story 01 Published September 1905](/testi/chesterton/atomized/variedtypes/story_01_published_september_1905)
-- [Story 02 G K C](/testi/chesterton/atomized/variedtypes/story_02_g_k_c)
-- [Story 03 William Morris And His School](/testi/chesterton/atomized/variedtypes/story_03_william_morris_and_his_school)
-- [Story 04 Optimism Of Byron](/testi/chesterton/atomized/variedtypes/story_04_optimism_of_byron)
-- [Story 05 Pope And The Art Of Satire](/testi/chesterton/atomized/variedtypes/story_05_pope_and_the_art_of_satire)
-- [Story 06 Francis](/testi/chesterton/atomized/variedtypes/story_06_francis)
-- [Story 07 Rostand](/testi/chesterton/atomized/variedtypes/story_07_rostand)
-- [Story 08 Charles Ii](/testi/chesterton/atomized/variedtypes/story_08_charles_ii)
-- [Story 09 Thomas Carlyle](/testi/chesterton/atomized/variedtypes/story_09_thomas_carlyle)
-- [Story 10 Tolstoy And The Cult Of Simplicity](/testi/chesterton/atomized/variedtypes/story_10_tolstoy_and_the_cult_of_simplicity)
-- [Story 11 Savonarola](/testi/chesterton/atomized/variedtypes/story_11_savonarola)
-- [Story 12 The Position Of Sir Walter Scott](/testi/chesterton/atomized/variedtypes/story_12_the_position_of_sir_walter_scott)
-- [Story 13 Bret Harte](/testi/chesterton/atomized/variedtypes/story_13_bret_harte)
-- [Story 14 Alfred The Great](/testi/chesterton/atomized/variedtypes/story_14_alfred_the_great)
-- [Story 15 Maeterlinck](/testi/chesterton/atomized/variedtypes/story_15_maeterlinck)
-- [Story 16 Queen Victoria](/testi/chesterton/atomized/variedtypes/story_16_queen_victoria)
-- [Story 17 The German Emperor](/testi/chesterton/atomized/variedtypes/story_17_the_german_emperor)
-- [Story 18 Tennyson](/testi/chesterton/atomized/variedtypes/story_18_tennyson)
-- [Story 19 Elizabeth Barrett Browning](/testi/chesterton/atomized/variedtypes/story_19_elizabeth_barrett_browning)
-- [Story 20 Please Read This Before You Distribute O](/testi/chesterton/atomized/variedtypes/story_20_please_read_this_before_you_distribute_o)
-- [Story 21 1 E 9](/testi/chesterton/atomized/variedtypes/story_21_1_e_9)
-- [Story 22 Damage](/testi/chesterton/atomized/variedtypes/story_22_damage)
+- Story 01 Published September 1905
+- Story 02 G K C
+- Story 03 William Morris And His School
+- Story 04 Optimism Of Byron
+- Story 05 Pope And The Art Of Satire
+- Story 06 Francis
+- Story 07 Rostand
+- Story 08 Charles Ii
+- Story 09 Thomas Carlyle
+- Story 10 Tolstoy And The Cult Of Simplicity
+- Story 11 Savonarola
+- Story 12 The Position Of Sir Walter Scott
+- Story 13 Bret Harte
+- Story 14 Alfred The Great
+- Story 15 Maeterlinck
+- Story 16 Queen Victoria
+- Story 17 The German Emperor
+- Story 18 Tennyson
+- Story 19 Elizabeth Barrett Browning
+- Story 20 Please Read This Before You Distribute O
+- Story 21 1 E 9
+- Story 22 Damage
 
 ## Testo integrale / Full text
 

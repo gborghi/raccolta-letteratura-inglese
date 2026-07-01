@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 58 (part 2)"
+title: "Barnaby Rudge — Chapter 58 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_58/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_58/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘True enough!--I’ll tell you what. I wish, Tom Green, that I was a
+commissioned instead of a non-commissioned officer, and that I had the
+command of two companies--only two companies--of my own regiment.
+Call me out to stop these riots--give me the needful authority, and
+half-a-dozen rounds of ball cartridge--’
 
 ‘Ay!’ said the other voice. ‘That’s all very [[Well|well]], but they won’t give
 the needful authority. If the magistrate won’t give the word, what’s the
@@ -128,17 +134,3 @@ However that might be, he built on sand. The other went away directly
 he had finished speaking, and neither answered him, nor returned. No
 matter. They were all against him here: he might have known as much.
 Good bye, old Grip, good bye!
-
-After some [[Time|time]], they came and unlocked the door, and called to him to
-come out. He [[Rose|rose]] directly, and complied, for he would not have THEM
-think he was subdued or frightened. He walked out like a man, and looked
-from face to face.
-
-None of them returned his gaze or seemed to notice it. They marched
-him back to the parade by the way they had brought him, and there they
-halted, among a [[Body|body]] of soldiers, at least twice as numerous as that
-which had taken him prisoner in the afternoon. The officer he had seen
-before, bade him in a few brief words take notice that if he attempted
-to escape, no matter how favourable a chance he might suppose he had,
-certain of the men had orders to [[Fire|fire]] upon him, that moment. They then
-closed round him as before, and marched him off again.

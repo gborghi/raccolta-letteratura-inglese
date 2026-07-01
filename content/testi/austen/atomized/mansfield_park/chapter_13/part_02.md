@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 13 (part 2)"
+title: "Mansfield Park — Chapter 13 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/mansfield_park/chapter_13/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/mansfield_park/chapter_13/part_03">part 03 ›</a></div>
 </nav>
 
+
+“I believe we must be satisfied with _less_,” said [[Maria]]. “There would
+not be [[Time|time]], and other difficulties would arise. We must rather adopt
+Mr. Crawford’s views, and make the _performance_, not the _theatre_,
+our object. Many parts of our best plays are independent of scenery.”
 
 “Nay,” said [[Edmund]], who began to listen with alarm. “Let us do nothing
 by halves. If we are to act, let it be in a theatre completely fitted
@@ -119,13 +124,3 @@ a decided taste. I am sure he encouraged it in us as boys. How many a
 and not _to_ _be’d_, in this very room, for his amusement? And I am
 sure, _my_ _name_ _was_ _Norval_, every evening of my life through one
 Christmas holidays.”
-
-“It was a very different thing. You must see the difference yourself.
-My father wished us, as schoolboys, to speak [[Well|well]], but he would never
-wish his grown-up daughters to be acting plays. His sense of decorum is
-strict.”
-
-“I know all that,” said Tom, displeased. “I know my father as [[Well|well]] as
-you do; and I’ll take care that his daughters do nothing to distress
-him. Manage your own concerns, [[Edmund]], and I’ll take care of the rest
-of the family.”

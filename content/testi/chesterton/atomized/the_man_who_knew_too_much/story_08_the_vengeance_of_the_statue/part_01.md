@@ -190,8 +190,3 @@ particular reason. The [[Truth|truth]] is I have a curious kind of
 cheerfulness at the moment. It isn't altogether the sun and the sea,
 
 sir. I am enjoying an emotion that is entirely new to me; a happy
-
-sensation I never remember having had before."
-"What the devil do you mean?"
-"I am feeling proud of my family," said Horne Fisher.
-Harold March stared at him with round blue eyes, and seemed too much

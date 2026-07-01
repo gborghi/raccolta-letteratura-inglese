@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 45"
+title: "The Tenant of Wildfell Hall — Chapter 45"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -150,7 +150,7 @@ Just in [[Time|time]] to prevent me from committing the impropriety of taking
 
 the citadel by [[Storm|storm]], and pushing forward unannounced, an inner door
 
-opened, and little [[arthur|Arthur]] appeared with his frolicsome playfellow, the
+opened, and little [[Arthur]] appeared with his frolicsome playfellow, the
 
 dog. He seized my hand between both his, and smilingly drew me forward.
 
@@ -808,7 +808,7 @@ ourselves apart, and I rushed from the [[house]].
 
 
 
-I have a confused remembrance of seeing little [[arthur|Arthur]] running up the
+I have a confused remembrance of seeing little [[Arthur]] running up the
 
 [[Garden|garden]]-walk to meet me, and of bolting over the wall to avoid him—and
 

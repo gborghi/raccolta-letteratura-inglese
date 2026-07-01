@@ -1,5 +1,5 @@
 ---
-title: "Napoleon of Notting [[Hill]] — Chapter 2 (part 2)"
+title: "Napoleon of Notting Hill — Chapter 3 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/napoleon-of-notting-hill-(chesterton)"
@@ -14,112 +14,155 @@ tags:
 </nav>
 
 
-The reception which the Charter of the Cities met at
-the hands of the public may mildly be described as mixed.
-In one sense it was popular enough.  In many happy homes that
-remarkable legal document was read aloud on [[Winter|winter]] evenings amid
-uproarious appreciation, when everything had been learnt by heart
-from that quaint but immortal old classic, Mr. W. W. Jacobs.
-But when it was discovered that the [[King]] had every intention of
-seriously requiring the provisions to be carried out, of insisting
-that the [[Grotesque|grotesque]] cities, with their tocsins and [[City|city]] guards,
-should really come into existence, things were thrown into a far
-angrier confusion.  Londoners had no particular objection
-to the [[King]] making a [[Fool|fool]] of himself, but they became indignant
-when it became evident that he wished to make fools of them;
-and protests began to come in.
+"They've sold dirtier things," said Wayne, calmly; "they have
+sold themselves."
 
-The Lord High Provost of the Good and Valiant [[City]] of West Kensington
-wrote a respectful letter to the [[King]], explaining that upon State
-occasions it would, of course, be his duty to observe what formalities
-the [[King]] thought proper, but that it was really awkward for a decent
-householder not to be allowed to go out and put a post-card in a
-pillar-box without being escorted by five heralds, who announced,
-with formal cries and blasts of a trumpet, that the Lord High Provost
-desired to catch the post.
+"It's no good, my Buckling," said the [[King]], [[rolling]] about on
+his chair.  "You can't cope with this chivalrous eloquence.
+You can't cope with an [[Artist|artist]].  You can't cope with the humourist
+of Notting [[Hill]].  O, Nunc dimittis...that I have lived to see this day!
+Provost Wayne, you stand firm?"
 
-The Lord High Provost of North Kensington, who was a prosperous draper,
-wrote a curt business note, like a man complaining of a railway company,
-stating that definite inconvenience had been caused him by the presence
-of the halberdiers, whom he had to take with him everywhere.
-When attempting to catch an omnibus to the [[City]], he had found that
-while room could have been found for himself, the halberdiers had a
-difficulty in getting into the vehicle-believe him, theirs faithfuly.
+"Let them wait and see," said Wayne.  "If I stood firm before,
+do you think I shall weaken now that I have seen the face of
+the [[King]]?  For I fight for something greater, if greater there can be,
+than the hearthstones of my people and the Lordship of the [[Lion]].
+I fight for your royal vision, for the great dream you dreamt
+of the League of the Free Cities.  You have given me this liberty.
+If I had been a beggar and you had flung me a coin, if I had
+been a peasant in a [[Dance|dance]] and you had flung me a favour, do you
+think I would have let it be taken by any ruffians on the [[Road|road]]?
+This leadership and liberty of Notting [[Hill]] is a gift from your Majesty.
+And if it is taken from me, by God! it shall be taken in battle,
+and the noise of that battle shall be heard in the flats of Chelsea
+and in the studios of St. John's Wood."
 
-The Lord High Provost of Shepherd's Bush said his wife did not
-like men hanging round the kitchen.
+"It is too much...it is too much," said the [[King]].  "[[Nature]] is weak.
+I must speak to you, brother [[Artist|artist]], without further disguise.
+Let me ask you a solemn question.  [[Adam Wayne]], Lord High Provost
+of Notting [[Hill]], don't you think it splendid?"
 
-The [[King]] was always delighted to listen to these grievances,
-delivering lenient and kingly answers, but as he always insisted,
-as the absolute sine qua non, that verbal complaints should be presented
-to him with the fullest pomp of trumpets, plumes, and halberds,
-only a few resolute spirits were prepared to run the gauntlet
-of the little boys in the street.
+"Splendid!" cried [[Adam Wayne]].  "It has the splendour of God."
 
-Among these, however, was prominent the abrupt and business-like
-gentleman who ruled North Kensington.  And he had before long,
-occasion to interview the [[King]] about a matter wider and even more
-urgent than the problem of the halberdiers and the omnibus.
-This was the greatest question which then and for long afterwards
-brought a stir to the [[Blood|blood]] and a flush to the cheek of all
-the speculative builders and [[house]] agents from Shepherd's Bush to
-the Marble Arch, and from Westbourne Grove to High Street, Kensington.
-I refer to the great affair of the improvements in Notting [[Hill]].
-The scheme was conducted chiefly by Mr. Buck, the abrupt
-North Kensington magnate, and by Mr. Wilson, the Provost of Bayswater.
-A great thoroughfare was to be driven through three boroughs,
-through West Kensington, North Kensington and Notting [[Hill]],
-opening at one end into Hammersmith Broadway, and at the other
-into Westbourne Grove.  The negotiations, buyings, sellings,
-bullying and bribing took ten years, and by the end of it Buck,
-who had conducted them almost single-handed, had proved himself a man
-of the strongest type of material energy and material diplomacy.
-And just as his splendid patience and more splendid impatience had
-finally brought him victory, when workmen were already demolishing houses
-and walls along the great line from Hammersmith, a sudden obstacle
-appeared that had neither been reckoned with nor dreamed of, a small
-and strange obstacle, which, like a speck of grit in a great [[Machine|machine]],
-jarred the whole vast scheme and brought it to a standstill,
-and Mr. Buck, the draper, getting with great impatience into his robes
-of office and summoning with indescribable disgust his halberdiers,
-hurried over to speak to the [[King]].
+"Bowled out again," said the [[King]].  "You will keep up the pose.
+Funnily, of course, it is serious.  But seriously, isn't it funny?"
 
-Ten years had not tired the [[King]] of his joke.  There were still
-new faces to be seen looking out from the symbolic head-gears
-he had designed, gazing at him from amid the [[Pastoral|pastoral]] ribbons of
-Shepherd's Bush or from under the sombre hoods of the Blackfriars [[Road]].
-And the interview which was promised him with the Provost
-of North Kensington he anticipated with a particular pleasure,
-for "he never really enjoyed," he said, "the full richness of
-the mediaeval garments unless the people compelled to wear them
-were very angry and businesslike."
+"What?" asked Wayne, with the eyes of a baby.
 
-Mr. Buck was both.  At the [[King]]'s command the door of the
-audience-chamber was thrown open and a herald appeared in the purple
-colours of Mr. Buck's commonwealth emblazoned with the Great Eagle
-which the [[King]] had attributed to North Kensington, in vague
-reminiscence of [[Russia]], for he always insisted on regarding
-North Kensington as some kind of semi-arctic neighbourhood.
-The herald announced that the Provost of that [[City|city]] desired audience
-of the [[King]].
+"Hang it all, don't play any more.  The whole business...the Charter
+of the Cities.  Isn't it immense?"
 
-"From North Kensington?" said the [[King]], rising graciously.
-"What news does he bring from that land of high hills and fair women?
-He is welcome."
+"Immense is no unworthy word for that glorious design."
 
-The herald advanced into the room, and was immediately followed
-by twelve guards clad in purple, who were followed by an attendant
-bearing the banner of the Eagle, who was followed by another attendant
-bearing the keys of the [[City|city]] upon a cushion, who was followed
-by Mr. Buck in a great hurry.  When the [[King]] saw his strong animal
-face and steady eyes, he knew that he was in the presence of a great
-man of business, and consciously braced himself.
+"Oh, hang you...but, of course, I see.  You want me to clear the room
+of these reasonable sows.  You want the two humourists [[Alone|alone]] together.
+Leave us, gentlemen."
 
-"[[Well]], [[Well|well]]," he said, cheerily coming down two or three steps from
-a dais, and striking his hands lightly together, "I am glad to see you.
-Never mind, never mind.  Ceremony is not everything."
+Buck threw a sour look at Barker, and at a sullen signal the whole
+pageant of blue and green, of red, gold and purple rolled out
+of the room, leaving only two in the great hall, the [[King]] sitting
+in his seat on the dais, and the red-clad figure still kneeling
+on the floor before his fallen [[Sword|sword]].
 
-"I don't understand your Majesty," said the Provost stolidly.
+The [[King]] bounded down the steps and smacked Provost Wayne on the back.
 
-"Never mind, never mind," said the [[King]], gaily.  "A knowledge of Courts
-is by no means an unmixed merit; you will do it next [[Time|time]], no [[Doubt|doubt]]."
+"Before the [[Stars|stars]] were made," he cried, "we were made for each other.
+It is too beautiful.  Think of the valiant independence of Pump Street.
+That is the real thing.  It is the deification of the ludicrous."
+
+The kneeling figure sprang to his feet with a fierce stagger.
+
+"Ludicrous!" he cried, with a fiery face.
+
+"Oh, come, come," said the [[King]], impatiently.  "You needn't keep
+it up with me.  The augurs must wink sometimes from sheer fatigue
+of the eyelids.  Let us enjoy this for half an hour, not as actors,
+but as dramatic critics.  Isn't it a joke?"
+
+[[Adam Wayne]] looked down like a boy, and answered in a constrained voice:
+
+"I do not understand your Majesty.  I cannot believe that while I
+fight for your royal charter your Majesty deserts me for these [[dogs]]
+of the gold hunt."
+
+"Oh, damn your...But what's this?  What the devil's this?"
+
+The [[King]] stared into the young Provost's face, and in the twilight
+of the room began to see that his face was quite white,
+and his lip shaking.
+
+"What in God's name is the matter?" cried Auberon, holding his wrist.
+
+Wayne flung back his face, and the [[Tears|tears]] were shining on it.
+
+"I am only a boy," he said, "but it's true.  I would paint the Red [[Lion]]
+on my shield if I had only my [[Blood|blood]]."
+
+[[King]] Auberon dropped the hand and stood without stirring, thunderstruck.
+
+"My God in Heaven!" he said; "is it possible that there is within
+the four seas of Britain a man who takes Notting [[Hill]] seriously?"
+
+"And my God in Heaven!" said Wayne passionately; "is it possible
+that there is within the four seas of Britain a man who does not
+take it seriously?"
+
+The [[King]] said nothing, but merely went back up the steps of the dais
+like a man dazed.  He fell back in his chair again and kicked his heels.
+
+"If this sort of thing is to go on," he said weakly, "I shall
+begin to [[Doubt|doubt]] the superiority of art to life.  In Heaven's name,
+do not play with me.  Do you really mean that you are...God help
+me!...a Notting [[Hill]] patriot...that you are..."
+
+Wayne made a violent gesture, and the [[King]] soothed him wildly.
+
+"All right...all right...I see you are; but let me take it in.
+You do really propose to fight these modern improvers with their
+boards and inspectors and surveyors and all the rest of it..."
+
+"Are they so terrible?" asked Wayne, scornfully.
+
+The [[King]] continued to stare at him as if he were a human curiosity.
+
+"And I suppose," he said, "that you think that the dentists
+and small tradesmen and maiden ladies who inhabit Notting [[Hill]],
+will rally with war-hymns to your standard?"
+
+"If they have [[Blood|blood]] they will," said the Provost.
+
+"And I suppose," said the [[King]], with his head back among
+the cushions, "that it never crossed your mind that...his voice
+seemed to lose itself luxuriantly...never crossed your mind
+that any one ever thought that the idea of a Notting [[Hill]]
+idealism was...er...slightly...slightly ridiculous."
+
+"Of course they think so," said Wayne.  "What was the meaning
+of mocking the prophets?"
+
+"Where?" asked the [[King]], leaning forward.  "Where in Heaven's name
+did you get this miraculously inane idea?"
+
+"You have been my tutor, Sire," said the Provost, "in all that is
+high and honourable."
+
+"Eh?" said the [[King]].
+
+"It was your Majesty who first stirred my dim patriotism into flame.
+Ten years ago, when I was a boy (I am only nineteen), I was playing
+on the slope of Pump Street, with a wooden [[Sword|sword]] and a paper helmet,
+dreaming of great wars.  In an angry trance I struck out with my [[Sword|sword]]
+and stood petrified, for I saw that I had struck you, Sire, my [[King]],
+as you wandered in a noble secrecy, watching over your people's welfare.
+But I need have had no [[Fear|fear]].  Then was I taught to understand kingliness.
+You neither shrank nor frowned.  You summoned no guards.
+You invoked no punishments.  But in august and burning words,
+which are written in my [[Soul|soul]], never to be erased, you told me
+ever to turn my [[Sword|sword]] against the enemies of my inviolate [[City|city]].
+Like a priest pointing to the altar, you pointed to the [[Hill|hill]] of Notting.
+' So long,' you said, ' as you are ready to die for the sacred mountain,
+even if it were ringed with all the armies of Bayswater.'
+I have not forgotten the words, and I have reason now to
+remember them, for the hour is come and the [[Crown|crown]] of your prophecy.
+The sacred [[Hill|hill]] is ringed with the armies of Bayswater, and I am
+ready to die."

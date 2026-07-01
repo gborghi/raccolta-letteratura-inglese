@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — ' (part 5)"
+title: "incredulity Fr Brown — ' (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity_fr_brown/story_08_x/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity_fr_brown/story_08_x/part_06">part 06 ›</a></div>
 </nav>
 
+
+As the man of science spoke there sprang suddenly and with startling
+clearness into Payne's [[Memory|memory]] the face of the daughter of the Darnaways,
+a tragic mask pale against an unfathomable blackness, but itself of a
+blinding and more than mortal [[Beauty|beauty]]. He opened his mouth to speak and
+found himself speechless.
 
 'I see,' said [[Father Brown]] to the doctor; 'so you do believe in the
 superstition after all?'
@@ -119,17 +125,3 @@ towards her and thrusting away the bronze [[Monster|monster]] so that it seemed 
 rock on its pedestal.
 
 '[[Well]], until you did,' she said and smiled again.
-
-So was the sleeping palace awakened, and it is no part of this story to
-describe the stages of its awakening, though much of it had come to pass
-before the dark of that evening had fallen upon the shore. As Harry
-Payne strode homewards once more, across those dark sands that he had
-crossed in so many moods, he was at the highest turn of happiness that
-is given in this mortal life, - and the whole red sea within him was at
-the top of its tide. He would have had no difficulty in picturing all
-that place again in flower, and the bronze triton bright as a golden god
-and the fountain flowing with [[Water|water]] or with wine. But all this
-brightness and blossoming had been unfolded for him by the one word
-'murder', and it was still a word that he did not understand. He had
-taken it on trust, and he was not unwise; for he was one of those who
-have a sense of the sound of [[Truth|truth]].

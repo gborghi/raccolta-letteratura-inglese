@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 44 (part 1)"
+title: "Sense and Sensibility — Chapter 44 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/works/sense-and-sensibility-(austen)">Sense and Sensibility</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_43/part_03">‹ part 03</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_44/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_43/part_04">‹ part 04</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_44/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -277,9 +277,3 @@ of returning her affection.”
 Miss Dashwood, at this point, turning her eyes on him with the most
 
 angry contempt, stopped him, by saying,
-
-
-
-“It is hardly worth while, Mr. Willoughby, for you to relate, or for me
-
-to listen any longer. Such a beginning as this cannot be followed by

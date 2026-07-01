@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 3: I HAVE A CHANGE (part 4)"
+title: "David Copperfield — Chapter 3: I HAVE A CHANGE (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -130,10 +130,3 @@ Dan’l?’
 Peggotty.
 
 ‘I’m sorry I should drive you there,’ said Mrs. Gummidge.
-
-‘Drive! I don’t want no driving,’ returned Mr. Peggotty with an honest
-laugh. ‘I only go too ready.’
-
-‘Very ready,’ said Mrs. Gummidge, shaking her head, and wiping her eyes.
-‘Yes, yes, very ready. I am sorry it should be along of me that you’re
-so ready.’

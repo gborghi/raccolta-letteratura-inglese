@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 25 (part 4)"
+title: "Jane Eyre — Chapter 25 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -10,9 +10,42 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/works/jane-eyre-(bronte)">Jane Eyre</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_25/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_26/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_25/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_25/part_05">part 05 ›</a></div>
 </nav>
 
+
+“I will tease you and vex you to your heart’s content, when I have
+finished my tale: but hear me to the end.”
+
+“I thought, Jane, you had told me all. I thought I had found the source
+of your [[Melancholy|melancholy]] in [[A Dream|a dream]].”
+
+I shook my head. “What! is there more? But I will not believe it to be
+anything important. I warn you of [[Incredulity|incredulity]] beforehand. Go on.”
+
+The disquietude of his air, the somewhat apprehensive impatience of his
+manner, surprised me: but I proceeded.
+
+“I dreamt another dream, sir: that Thornfield Hall was a dreary ruin,
+the retreat of bats and owls. I thought that of all the stately front
+nothing remained but a shell-like wall, very high and very
+fragile-looking. I wandered, on a moonlight [[Night|night]], through the
+grass-grown enclosure within: here I stumbled over a marble hearth, and
+there over a fallen [[Fragment|fragment]] of cornice. Wrapped up in a shawl, I still
+carried the unknown little [[Child|child]]: I might not lay it down anywhere,
+however tired were my arms—however much its weight impeded my progress,
+I must retain it. I heard the gallop of a [[Horse|horse]] at a distance on the
+[[Road|road]]; I was sure it was you; and you were departing for many years and
+for a distant country. I climbed the thin wall with frantic perilous
+haste, eager to catch one glimpse of you from the top: the stones
+rolled from under my feet, the ivy branches I grasped gave way, the
+[[Child|child]] clung round my neck in terror, and almost strangled me; at last I
+gained the summit. I saw you like a speck on a white track, lessening
+every moment. The blast blew so strong I could not stand. I sat down on
+the narrow ledge; I hushed the scared infant in my lap: you turned an
+angle of the [[Road|road]]: I bent forward to take a last look; the wall
+crumbled; I was shaken; the [[Child|child]] rolled from my knee, I lost my
+balance, fell, and woke.”
 
 “Now, Jane, that is all.”
 
@@ -112,82 +145,3 @@ recurrence of these mental terrors: I guarantee that.”
 “Mental terrors, sir! I wish I could believe them to be only such: I
 wish it more now than ever; since even you cannot explain to me the
 mystery of that awful visitant.”
-
-“And since I cannot do it, Jane, it must have been unreal.”
-
-“But, sir, when I said so to myself on rising this morning, and when I
-looked round the room to gather [[Courage|courage]] and comfort from the cheerful
-aspect of each familiar object in full daylight, there—on the carpet—I
-saw what gave the distinct lie to my hypothesis,—the veil, torn from
-top to [[Bottom|bottom]] in two halves!”
-
-I felt Mr. Rochester start and shudder; he hastily flung his arms round
-me. “Thank God!” he exclaimed, “that if anything malignant did come
-near you last [[Night|night]], it was only the veil that was harmed. Oh, to think
-what might have happened!”
-
-He drew his breath short, and strained me so close to him, I could
-scarcely pant. After some minutes’ [[Silence|silence]], he continued, cheerily—
-
-“Now, Janet, I’ll explain to you all about it. It was half dream, half
-reality. A woman did, I [[Doubt|doubt]] not, enter your room: and that woman
-was—must have been—Grace Poole. You call her a strange being yourself:
-from all you know, you have reason so to call her—what did she do to
-me? what to Mason? In a state between sleeping and waking, you noticed
-her entrance and her actions; but feverish, almost delirious as you
-were, you ascribed to her a goblin appearance different from her own:
-the long dishevelled hair, the swelled black face, the exaggerated
-stature, were figments of [[Imagination|imagination]]; results of [[nightmare]]: the
-spiteful tearing of the veil was real: and it is like her. I see you
-would ask why I keep such a woman in my [[house]]: when we have been
-married a year and a day, I will tell you; but not now. Are you
-satisfied, Jane? Do you accept my solution of the mystery?”
-
-I reflected, and in [[Truth|truth]] it appeared to me the only possible one:
-satisfied I was not, but to please him I endeavoured to appear
-so—relieved, I certainly did feel; so I answered him with a contented
-smile. And now, as it was long past one, I prepared to leave him.
-
-“Does not Sophie [[Sleep|sleep]] with Adèle in the nursery?” he asked, as I lit
-my candle.
-
-“Yes, sir.”
-
-“And there is room enough in Adèle’s little bed for you. You must share
-it with her to-[[Night|night]], Jane: it is no [[Wonder|wonder]] that the incident you have
-related should make you nervous, and I would rather you did not [[Sleep|sleep]]
-[[Alone|alone]]: promise me to go to the nursery.”
-
-“I shall be very glad to do so, sir.”
-
-“And fasten the door securely on the inside. Wake Sophie when you go
-upstairs, under pretence of requesting her to rouse you in good [[Time|time]]
-to-morrow; for you must be dressed and have finished breakfast before
-eight. And now, no more sombre thoughts: chase dull care away, Janet.
-Don’t you hear to what soft whispers the [[Wind|wind]] has fallen? and there is
-no more beating of rain against the [[Window|window]]-panes: look here” (he lifted
-up the curtain)—“it is a lovely [[Night|night]]!”
-
-It was. Half heaven was pure and stainless: the clouds, now trooping
-before the [[Wind|wind]], which had shifted to the west, were filing off
-eastward in long, silvered columns. The [[Moon|moon]] shone peacefully.
-
-“[[Well]],” said Mr. Rochester, gazing inquiringly into my eyes, “how is my
-Janet now?”
-
-“The [[Night|night]] is serene, sir; and so am I.”
-
-“And you will not dream of separation and sorrow to-[[Night|night]]; but of happy
-[[Love|love]] and blissful [[Union|union]].”
-
-This prediction was but half fulfilled: I did not indeed dream of
-sorrow, but as little did I dream of joy; for I never slept at all.
-With little Adèle in my arms, I watched the slumber of [[Childhood|childhood]]—so
-tranquil, so passionless, so [[Innocent|innocent]]—and waited for the coming day:
-all my life was awake and astir in my frame: and as soon as the sun
-[[Rose|rose]] I [[Rose|rose]] too. I remember Adèle clung to me as I left her: I remember
-I kissed her as I loosened her little hands from my neck; and I cried
-over her with strange emotion, and quitted her because I feared my sobs
-would break her still sound repose. She seemed the emblem of my past
-life; and he, I was now to array myself to meet, the dread, but adored,
-type of my unknown future day.

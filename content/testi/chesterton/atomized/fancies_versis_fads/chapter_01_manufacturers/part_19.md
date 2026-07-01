@@ -64,7 +64,7 @@ I am glad to find better words than my own.
 PROHIBITION AND THE PRESS
 
 AN organ of the Nonconformist [[Conscience]], while commenting
-very kindly on my recent remarks about [[america|America]], naturally went on
+very kindly on my recent remarks about [[America]], naturally went on
 to criticize, though equally kind, my remarks about Prohibition.
 Now, so far as I am concerned, the problem is not so much
 Prohibition with a large P as prohibition with a small one.

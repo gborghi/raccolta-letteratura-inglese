@@ -44,7 +44,6 @@ a general awe and reverence for turnips.
 
 --G.K.C.
 
-
 "The [[morality|Morality]] of the Hat" March 2, 1901, The Speaker
 
 There was a [[Time|time]] when we (like most ill-dressed people)

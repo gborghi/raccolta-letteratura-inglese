@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 5 (part 3)"
+title: "Great Expectations — Chapter 5 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_05/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_05/part_04">part 04 ›</a></div>
 </nav>
 
+
+“Here are both men!” panted the sergeant, struggling at the [[Bottom|bottom]] of a
+ditch. “Surrender, you two! and confound you for two wild beasts! Come
+asunder!”
 
 [[Water]] was splashing, and mud was flying, and oaths were being sworn,
 and blows were being struck, when some more men went down into the

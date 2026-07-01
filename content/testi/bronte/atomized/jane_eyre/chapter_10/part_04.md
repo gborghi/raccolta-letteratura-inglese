@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 10 (part 4)"
+title: "Jane Eyre — Chapter 10 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_10/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_11/part_01">part 01 ›</a></div>
 </nav>
 
+
+“You’re not grown so very tall, Miss Jane, nor so very stout,”
+continued Mrs. Leaven. “I dare say they’ve not kept you too [[Well|well]] at
+school: Miss Reed is the head and shoulders taller than you are; and
+Miss Georgiana would make two of you in breadth.”
 
 “Georgiana is handsome, I suppose, Bessie?”
 

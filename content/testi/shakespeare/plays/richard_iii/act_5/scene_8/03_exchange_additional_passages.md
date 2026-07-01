@@ -1,5 +1,5 @@
 ---
-title: "[[Richard III]] — Act V, Scene 8 — exchange (ADDITIONAL PASSAGES) [3]"
+title: "Richard III — Act V, Scene 8 — exchange (ADDITIONAL PASSAGES) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/richard-iii-(shakespeare)"

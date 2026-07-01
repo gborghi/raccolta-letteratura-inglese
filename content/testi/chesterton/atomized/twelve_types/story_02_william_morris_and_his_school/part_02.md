@@ -10,15 +10,19 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/twelve-types-(chesterton)">Twelve Types</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/twelve_types/story_02_william_morris_and_his_school/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/twelve_types/story_04_pope_and_the_art_of_satire/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/twelve_types/story_02_william_morris_and_his_school/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/twelve_types/story_04_pope_and_the_art_of_satire_satire/part_01">part 01 ›</a></div>
 </nav>
 
+
+improved, and if we look back at the early Victorian drawing-rooms it is
+
+only to realise the strange but essential [[Truth|truth]] that art, or human
+
+decoration, has, nine times out of ten in [[history]], made things uglier
 
 than they were before, from the 'coiffure' of a Papuan savage to the
 
 wall-paper of a British merchant in 1830.
-
-
 
 But great and beneficent as was the aesthetic revolution of Morris, there
 
@@ -52,7 +56,7 @@ sprang honestly and naturally out of the life they led and preferred to
 
 lead. And it may surely be maintained that any real advance in the
 
-[[Beauty|beauty]] of modern dress must [[Spring|spring]] honestly and naturally out of the
+[[Beauty|beauty]] of modern dress must [[spring]] honestly and naturally out of the
 
 life we lead and prefer to lead. We are not altogether without hints and
 
@@ -147,8 +151,6 @@ this was because, with all his healthiness and energy, he had not the
 supreme [[Courage|courage]] to face the ugliness of things; [[Beauty]] shrank from the
 
 Beast and the fairy-tale had a different ending.
-
-
 
 But herein, indeed, lay Morris's deepest claim to the name of a great
 

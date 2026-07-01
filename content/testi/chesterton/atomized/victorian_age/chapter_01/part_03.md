@@ -14,6 +14,18 @@ tags:
 </nav>
 
 
+brilliant aristocracy of the Whigs. It lived on the legend of Trafalgar;
+
+the sense that insularity was independence; the sense that anomalies are
+
+as jolly as family jokes; the general sense that old salts are the salt
+
+of the earth. It still lives in some old [[songs]] about Nelson or Waterloo,
+
+which are vastly more pompous and vastly more sincere than the cockney
+
+cocksureness of later Jingo lyrics. But it is hard to connect De Quincey
+
 with it; or, indeed, with anything else. De Quincey would certainly have
 
 been a happier man, and almost certainly a better man, if he had got
@@ -43,8 +55,6 @@ pinpricks of Wilde or Whistler, wants to convict them of plagiarism in
 their "art for art" epigrams--he will find most of what they said said
 
 better in _Murder as One of the Fine Arts_.
-
-
 
 One great man remains of this elder group, who did their last work only
 
@@ -104,8 +114,6 @@ would have been a great epigrammatist, like Hugo. In England he is a
 
 punster.
 
-
-
 There was nothing at least in this group I have loosely called the
 
 Eccentrics that disturbs the general sense that all their generation was
@@ -142,8 +150,6 @@ wave of the world, or Byron sank in [[Death|death]] as he drew the [[Sword|sword
 
 Hellas.
 
-
-
 The chief turn of nineteenth-century England was taken about the [[Time|time]]
 
 when a footman at Holland [[house|House]] opened a door and announced "Mr.
@@ -175,21 +181,3 @@ did get into it he was in a much freer atmosphere than any other in
 England. Of those aristocrats, the Old Guard of the eighteenth century,
 
 many denied God, many defended Bonaparte, and nearly all sneered at the
-
-Royal Family. Nor did wealth or birth make any barriers for those once
-
-within this singular Whig world. The platform was high, but it was
-
-level. Moreover the upstart nowadays pushes himself by wealth: but the
-
-Whigs could choose their upstarts. In that world Macaulay found Rogers,
-
-with his phosphorescent and corpse-like brilliancy; there he found
-
-Sydney [[smith|Smith]], bursting with crackers of common sense, an admirable old
-
-heathen; there he found Tom Moore, the romantic of the Regency, a
-
-shortened [[Shadow|shadow]] of Lord Byron. That he reached this platform and
-
-remained on it is, I say, typical of a turning-point in the century. For

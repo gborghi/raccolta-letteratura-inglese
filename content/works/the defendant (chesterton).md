@@ -55,10 +55,10 @@ tags:
 - [Story 11 A DEFENCE OF HERALDRY](/testi/chesterton/atomized/the_defendant/story_11_a_defence_of_heraldry)
 - [Story 12 A DEFENCE OF UGLY THINGS](/testi/chesterton/atomized/the_defendant/story_12_a_defence_of_ugly_things)
 - [Story 13 A DEFENCE OF FARCE](/testi/chesterton/atomized/the_defendant/story_13_a_defence_of_farce)
-- [Story 14 A DEFENCE OF HUMILITY](/testi/chesterton/atomized/the_defendant/story_14_a_defence_of_humility)
+- Story 14 A DEFENCE OF HUMILITY
 - [Story 15 A DEFENCE OF SLANG](/testi/chesterton/atomized/the_defendant/story_15_a_defence_of_slang)
 - [Story 16 A DEFENCE OF BABY WORSHIP](/testi/chesterton/atomized/the_defendant/story_16_a_defence_of_baby_worship)
-- [Story 17 A DEFENCE OF DETECTIVE STORIES](/testi/chesterton/atomized/the_defendant/story_17_a_defence_of_detective_stories)
+- Story 17 A DEFENCE OF DETECTIVE STORIES
 - [Story 18 A DEFENCE OF PATRIOTISM](/testi/chesterton/atomized/the_defendant/story_18_a_defence_of_patriotism)
 
 ## Testo integrale / Full text

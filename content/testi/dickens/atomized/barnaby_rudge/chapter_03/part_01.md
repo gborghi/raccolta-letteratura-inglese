@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 3 (part 1)"
+title: "Barnaby Rudge — Chapter 3 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -142,7 +142,3 @@ bade him good [[Night|night]].
 ‘Good [[Night|night]]!’ cried Gabriel. ‘Now think better of what we have just
 been speaking of; and don’t be rash, there’s a good fellow! I have an
 interest in you, and wouldn’t have you cast yourself away. Good [[Night|night]]!’
-
-Returning his cheery farewell with cordial goodwill, Joe Willet lingered
-until the sound of wheels ceased to vibrate in his ears, and then,
-shaking his head mournfully, re-entered the [[house]].

@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity]] — The Curse of the Golden [[Cross]] (part 8)"
+title: "Incredulity — The Curse of the Golden Cross (part 8)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-(chesterton)"
@@ -129,22 +129,22 @@ like a Prince of the Church in a shrine built before the Crusade.'
 that the embalmed [[Body|body]] was really the corpse of a murdered man.'
 
 [[Father Brown]] was silent for a moment; then he said almost with an air
-of irrelevance:  `The first thing I noticed about it was the [[Cross|cross]];
-or rather the string suspending the [[Cross|cross]].  Naturally, for most of you,
+of irrelevance:  `The first thing I noticed about it was the cross;
+or rather the string suspending the cross.  Naturally, for most of you,
 it was only a string of beads and nothing else in particular;
 but, naturally also, it was rather more in my line than yours.
 You remember it lay close up to the chin, with only a few
 beads showing, as if the whole necklet were quite short.
 But the beads that showed were arranged in a special way, first one
 and then three, and so on; in fact, I knew at a glance that it
-was a rosary, an ordinary rosary with a [[Cross|cross]] at the end of it.
-But a rosary has at least five decades and additional beads as [[Well|well]];
+was a rosary, an ordinary rosary with a cross at the end of it.
+But a rosary has at least five decades and additional beads as well;
 and I naturally wondered where all the rest of it was.
 It would go much more than once round the old man's neck.
-I couldn't understand it at the [[Time|time]]; and it was only
+I couldn't understand it at the time; and it was only
 afterwards I guessed where the extra length had gone to.
 It was coiled round and round the foot of the wooden prop
 that was fixed in the corner of the coffin, holding up the lid.
-So that when poor Smaill merely plucked at the [[Cross|cross]] it jerked
+So that when poor Smaill merely plucked at the cross it jerked
 the prop out of its place and the lid fell on his skull like a
 club of stone.'

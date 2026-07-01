@@ -1,5 +1,5 @@
 ---
-title: "[[Eugenics]] — Part 1 (part 18)"
+title: "Eugenics — Part 1 (part 18)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/eugenics-(chesterton)"
@@ -13,6 +13,77 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/eugenics/chapter_02/part_17">‹ part 17</a><a class="ex-next" href="/testi/chesterton/atomized/eugenics/chapter_03/part_01">part 01 ›</a></div>
 </nav>
 
+
+In the third chapter I seek to describe the quite extraordinary
+atmosphere in which such things have become possible.
+I call that atmosphere anarchy; but insist that it is an anarchy
+in the centres where there should be authority.  [[government|Government]] has
+become ungovernable; that is, it cannot leave off governing.
+Law has become lawless; that is, it cannot see where laws should stop.
+The chief feature of our [[Time|time]] is the meekness of the mob and the
+[[Madness|madness]] of the [[government]].  In this atmosphere it is natural enough
+that medical experts, being authorities, should go mad, and attempt
+so crude and random and immature dream as this of petting and patting
+(and rather spoiling) the babe [[unborn]].
+
+In chapter four I point out how this impatience has burst
+through the narrow channel of the Lunacy Laws, and has
+obliterated them by extending them.  The whole point of
+the madman is that he is the exception that prove the rule.
+But [[Eugenics]] seeks to treat the whole rule as a series of exceptions ---
+to make all men mad.  And on that ground there is [[Hope|hope]] for nobody;
+for all opinions have an author, and all authors have a heredity.
+The mentality of the Eugenist makes him believe in [[Eugenics]] as much
+as the mentality of the reckless [[Lover|lover]] makes him violate [[Eugenics]];
+and both mentalities are, on the materialist hypothesis, equally the
+irresponsible product of more or less unknown physical causes.
+The real security of the man against any logical [[Eugenics]] is
+like the false security of [[Macbeth]].  The only Eugenist that could
+rationally attack him must be a man of no woman born.
+
+In the chapter following this, which is called
+"The Flying Authority," I try in vain to locate and fix any authority
+that could rationally rule men in so rooted and universal a matter;
+little would be gained by ordinary men doing it to each other;
+and if ordinary practitioners did it they would very soon show,
+by a thousand whims and quarrels, that they were ordinary men.
+I then discussed the enlightened despotism of a few general professors
+of hygiene, and found it unworkable, for an essential reason:
+that while we can always get men intelligent enough to know more
+than the rest of us about this or that accident or [[Pain|pain]] or pest,
+we cannot count on the appearance of great cosmic philosophers;
+and only such men can be even supposed to know more than we do about
+normal conduct and common [[Sanity|sanity]].  Every sort of man, in short,
+would shirk such a responsibility, except the worst sort of man,
+who would accept it.
+
+I pass on, in the next chapter, to consider whether we know enough about
+heredity to act decisively, even if we were certain who ought to act.
+Here I refer the Eugenists to the reply of Mr. Wells, which they
+have never dealt with to my knowledge or satisfaction --- the important
+and primary objection that health is not a quality but a proportion
+of qualities; so that even health married to health might produce
+the exaggeration called disease.  It should be noted here, of course,
+that an individual biologist may quite honestly believe that he has
+found a fixed principle with the help of Weissmann or Mendel.  But we
+are not discussing whether he knows enough to be justified in thinking
+(as is somewhat the habit of the anthropoid Homo) that he is right.
+We are discussing whether we know enough, as responsible citizens,
+to put such powers into the hands of men who may be deceived
+or who may be deceivers.  I conclude that we do not.
+
+In the last chapter of the first half of the book I give what is,
+I believe, the real secret of this confusion, the secret of what
+the Eugenists really want.  They want to be allowed to find
+out what they want.  Not content with the endowment of research,
+they [[Desire|desire]] the establishment of research; that is the making of it
+a thing official and compulsory, like [[Education|education]] or state insurance;
+but still it is only research and not discovery.  In short, they want
+a new kind of State Church, which shall be an Established Church
+of [[Doubt]] --- instead of [[Faith]].  They have no Science of [[Eugenics]]
+at all, but they do really mean that if we will give ourselves
+up to be vivisected they may very probably have one some day.
+I point out, in more dignified diction, that this is a bit thick.
 
 And now, in the second half of this book, we will proceed
 to the consideration of things that really exist.  It is,

@@ -1,5 +1,5 @@
 ---
-title: "[[wifrb11]] — The God of the Gongs (part 3)"
+title: "wifrb11 — The God of the Gongs (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -14,23 +14,23 @@ tags:
 </nav>
 
 
-     The [[Silence|silence]] that ensued was broken by their host saying quietly: 
+     The silence that ensued was broken by their host saying quietly: 
 "Whereabouts did you meet the one man on your march?"
 
      "Curiously enough," answered the priest, "close by here--
 just by that bandstand."
 
-     [[Flambeau]], who had sat on the long iron seat to finish his sherry,
-put it down and [[Rose|rose]] to his feet, staring at his friend in amazement. 
+     Flambeau, who had sat on the long iron seat to finish his sherry,
+put it down and rose to his feet, staring at his friend in amazement. 
 He opened his mouth to speak, and then shut it again.
 
      "Curious," said the dark-haired man thoughtfully.  "What was he like?"
 
-     "It was rather dark when I saw him," began [[Father Brown]],
+     "It was rather dark when I saw him," began Father Brown,
 "but he was--"
 
      As has been said, the hotel-keeper can be proved to have told
-the precise [[Truth|truth]].  His phrase that the cook was starting presently
+the precise truth.  His phrase that the cook was starting presently
 was fulfilled to the letter, for the cook came out, pulling his gloves on,
 even as they spoke.
 
@@ -46,27 +46,27 @@ his waistcoat.  The red flower stood up in his buttonhole aggressively,
 as if it had suddenly grown there.  And in the way he carried his cane
 in one hand and his cigar in the other there was a certain attitude--
 an attitude we must always remember when we talk of racial prejudices: 
-something [[Innocent|innocent]] and insolent--the cake walk.
+something innocent and insolent--the cake walk.
 
-     "Sometimes," said [[Flambeau]], looking after him, "I'm not surprised
+     "Sometimes," said Flambeau, looking after him, "I'm not surprised
 that they lynch them."
 
-     "I am never surprised," said [[Father Brown]], "at any work of hell. 
+     "I am never surprised," said Father Brown, "at any work of hell. 
 But as I was saying," he resumed, as the negro, still ostentatiously
 pulling on his yellow gloves, betook himself briskly towards
 the watering-place, a queer music-hall figure against that grey and
 frosty scene--"as I was saying, I couldn't describe the man very minutely,
 but he had a flourish and old-fashioned whiskers and moustachios,
 dark or dyed, as in the pictures of foreign financiers, round his neck
-was wrapped a long purple scarf that thrashed out in the [[Wind|wind]] as he walked. 
+was wrapped a long purple scarf that thrashed out in the wind as he walked. 
 It was fixed at the throat rather in the way that nurses
 fix children's comforters with a safety-pin.  Only this,"
 added the priest, gazing placidly out to sea, "was not a safety-pin."
 
      The man sitting on the long iron bench was also gazing placidly
-out to sea.  Now he was once more in repose.  [[Flambeau]] felt quite certain
+out to sea.  Now he was once more in repose.  Flambeau felt quite certain
 that one of his eyes was naturally larger than the other. 
-Both were now [[Well|well]] opened, and he could almost fancy the left eye
+Both were now well opened, and he could almost fancy the left eye
 grew larger as he gazed.
 
      "It was a very long gold pin, and had the carved head of a monkey
@@ -77,45 +77,45 @@ in a rather odd way--he wore pince-nez and a broad black--"
 his head might have belonged to two different men.  Then he made
 a movement of blinding swiftness.
 
-     [[Father Brown]] had his back to him, and in that flash might have
-fallen dead on his face.  [[Flambeau]] had no weapon, but his large
+     Father Brown had his back to him, and in that flash might have
+fallen dead on his face.  Flambeau had no weapon, but his large
 brown hands were resting on the end of the long iron seat. 
 His shoulders abruptly altered their shape, and he heaved
 the whole huge thing high over his head, like a headsman's axe
 about to fall.  The mere height of the thing, as he held it vertical,
 looked like a long iron ladder by which he was inviting men to climb
-towards the [[Stars|stars]].  But the long [[Shadow|shadow]], in the level evening light,
+towards the stars.  But the long shadow, in the level evening light,
 looked like a giant brandishing the Eiffel Tower.  It was the shock
-of that [[Shadow|shadow]], before the shock of the iron crash, that made the stranger
+of that shadow, before the shock of the iron crash, that made the stranger
 quail and dodge, and then dart into his inn, leaving the flat and
 shining dagger he had dropped exactly where it had fallen.
 
-     "We must get away from here instantly," cried [[Flambeau]],
+     "We must get away from here instantly," cried Flambeau,
 flinging the huge seat away with furious indifference on the beach. 
 He caught the little priest by the elbow and ran him down
-a grey perspective of barren back [[Garden|garden]], at the end of which there
-was a closed back [[Garden|garden]] door.  [[Flambeau]] bent over it an instant
-in violent [[Silence|silence]], and then said:  "The door is locked."
+a grey perspective of barren back garden, at the end of which there
+was a closed back garden door.  Flambeau bent over it an instant
+in violent silence, and then said:  "The door is locked."
 
      As he spoke a black feather from one of the ornamental firs fell,
 brushing the brim of his hat.  It startled him more than the small
 and distant detonation that had come just before.  Then came another
 distant detonation, and the door he was trying to open shook
-under the bullet buried in it.  [[Flambeau]]'s shoulders again filled out
+under the bullet buried in it.  Flambeau's shoulders again filled out
 and altered suddenly.  Three hinges and a lock burst at the same instant,
-and he went out into the empty path behind, carrying the great [[Garden|garden]] door
+and he went out into the empty path behind, carrying the great garden door
 with him, as Samson carried the gates of Gaza.
 
-     Then he flung the [[Garden|garden]] door over the [[Garden|garden]] wall, just as
-a third shot picked up a spurt of [[Snow|snow]] and [[Dust|dust]] behind his heel. 
+     Then he flung the garden door over the garden wall, just as
+a third shot picked up a spurt of snow and dust behind his heel. 
 Without ceremony he snatched up the little priest, slung him astraddle
 on his shoulders, and went racing towards Seawood as fast as
 his long legs could carry him.  It was not until nearly two miles
 farther on that he set his small companion down.  It had hardly been
 a dignified escape, in spite of the classic model of Anchises,
-but [[Father Brown]]'s face only wore a broad grin.
+but Father Brown's face only wore a broad grin.
 
-     "[[Well]]," said [[Flambeau]], after an impatient [[Silence|silence]], as they resumed
+     "Well," said Flambeau, after an impatient silence, as they resumed
 their more conventional tramp through the streets on the edge of the town,
 where no outrage need be feared, "I don't know what all this means,
 but I take it I may trust my own eyes that you never met the man

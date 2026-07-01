@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 4 (part 2)"
+title: "Shirley — Chapter 4 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_04/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_04/part_03">part 03 ›</a></div>
 </nav>
 
+
+in the counting-[[house]], of the tradesman in the Piece Hall, might have
+
+lived despised, and died scorned, under the eyes of Hiram Yorke.
+
+
+
+And as there are many Hiram Yorkes in the world, it is [[Well|well]] that the
 
 true poet, quiet externally though he may be, has often a truculent
 
@@ -187,11 +195,3 @@ accent; and that his dark, thin face, with its fine though rather wasted
 lines, had a most anti-British and anti-Yorkshire look. These points
 
 seem frivolous, unlikely to influence a character like Yorke's; but the
-
-fact is they recalled old, perhaps pleasurable, associations--they
-
-brought back his travelling, his youthful days. He had seen, amidst
-
-Italian cities and scenes, faces like Moore's; he had heard, in Parisian
-
-cafés and theatres, voices like his. He was young then, and when he

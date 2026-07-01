@@ -1,5 +1,5 @@
 ---
-title: "THE MERCHANT OF [[Venice|VENICE]]"
+title: "THE MERCHANT OF VENICE"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-merchant-of-venice-(shakespeare)"

@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 6 (part 1)"
+title: "The Professor — Chapter 6 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -15,8 +15,6 @@ tags:
 
 
 CHAPTER VI.
-
-
 
 I RE-ENTERED the town a hungry man; the dinner I had forgotten recurred
 
@@ -64,17 +62,11 @@ explain, he might, but the explanation should be a perfectly voluntary
 
 one on his part; I thought he was entering upon it.
 
-
-
 “You owe me a debt of gratitude,” were his first words.
-
-
 
 “Do I?” said I; “I [[Hope|hope]] it is not a large one, for I am much too poor to
 
 charge myself with heavy liabilities of any kind.”
-
-
 
 “Then declare yourself bankrupt at once, for this liability is a ton
 
@@ -84,23 +76,15 @@ again, and made that sulky drab of a servant stay and blow at it with
 
 the bellows till it had burnt up properly; now, say ‘Thank you!’”
 
-
-
 “Not till I have had something to eat; I can thank nobody while I am so
 
 famished.”
 
-
-
 I rang the bell and ordered tea and some cold meat.
-
-
 
 “Cold meat!” exclaimed Hunsden, as the servant closed the door, “what a
 
 glutton you are; man! Meat with tea! you’ll die of eating too much.”
-
-
 
 “No, Mr. Hunsden, I shall not.” I felt a necessity for contradicting
 
@@ -108,11 +92,7 @@ him; I was irritated with hunger, and irritated at seeing him there, and
 
 irritated at the continued roughness of his manner.
 
-
-
 “It is over-eating that makes you so ill-tempered,” said he.
-
-
 
 “How do you know?” I demanded. “It is like you to give a pragmatical
 
@@ -120,21 +100,15 @@ opinion without being acquainted with any of the circumstances of the
 
 case; I have had no dinner.”
 
-
-
 What I said was petulant and snappish enough, and Hunsden only replied
 
 by looking in my face and laughing.
-
-
 
 “Poor thing!” he whined, after a pause. “It has had no dinner, has it?
 
 What! I suppose its master would not let it come [[Home|home]]. Did Crimsworth
 
 order you to fast by way of punishment, William!”
-
-
 
 “No, Mr. Hunsden.” Fortunately at this sulky juncture, tea, was brought
 
@@ -146,8 +120,6 @@ Mr. Hunsden that he need not sit there staring, but might come to the
 
 table and do as I did, if he liked.
 
-
-
 “But I don’t like in the least,” said he, and therewith he summoned the
 
 servant by a fresh pull of the bell-rope, and intimated a [[Desire|desire]] to
@@ -156,17 +128,11 @@ have a glass of toast-and-[[Water|water]]. “And some more coal,” he added; �
 
 Crimsworth shall keep a good [[Fire|fire]] while I stay.”
 
-
-
 His orders being executed, he wheeled his chair round to the table, so
 
 as to be opposite me.
 
-
-
 “[[Well]],” he proceeded. “You are out of work, I suppose.”
-
-
 
 “Yes,” said I; and not disposed to show the satisfaction I felt on this
 
@@ -180,17 +146,11 @@ a minute’s notice, owing to some interference of yours at a public
 
 meeting, I understand.”
 
-
-
 “Ah! what! he mentioned that? He observed me signalling the lads, did
 
 he? What had he to say about his friend Hunsden--anything sweet?”
 
-
-
 “He called you a treacherous [[Villain|villain]].”
-
-
 
 “Oh, he hardly knows me yet! I’m one of those shy people who don’t come
 
@@ -224,8 +184,6 @@ at work within me. I followed my instinct, opposed a [[Tyrant|tyrant]], and brok
 
 chain.”
 
-
-
 Now this speech interested me much, both because it brought out
 
 Hunsden’s character, and because it explained his motives; it interested
@@ -234,14 +192,6 @@ me so much that I forgot to reply to it, and sat silent, pondering over
 
 a throng of ideas it had suggested.
 
-
-
 “Are you grateful to me?” he asked, presently.
 
-
-
 In fact I was grateful, or almost so, and I believe I half liked him at
-
-the moment, notwithstanding his proviso that what he had done was not
-
-out of regard for me. But human [[Nature|nature]] is perverse. Impossible to answer

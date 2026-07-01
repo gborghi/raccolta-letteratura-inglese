@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 9 (part 2)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 9 (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_08/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_08/part_03">part 03 ›</a></div>
 </nav>
 
+
+now called to Augustus. He replied, although very feebly, so that I
+
+could not distinguish what he said. I then spoke to Peters and to
+
+Parker, neither of whom returned any answer.
+
+
+
+Shortly after this period I fell into a state of partial insensibility,
 
 during which the most pleasing images floated in my [[Imagination|imagination]]; such
 
@@ -175,19 +185,3 @@ frightful situation. We derived much comfort from taking off our
 clothes and wringing the [[Water|water]] from them. When we put them on after
 
 this, they felt remarkably warm and pleasant, and served to invigorate
-
-us in no little degree. We helped Augustus off with his, and wrung them
-
-for him, when he experienced the same comfort.
-
-
-
-Our chief sufferings were now those of hunger and thirst, and, when we
-
-looked forward to the means of relief in this respect, our hearts sunk
-
-within us, and we were induced to regret that we had escaped the less
-
-dreadful perils of the sea. We endeavoured, however, to console
-
-ourselves with the [[Hope|hope]] of being speedily picked up by some vessel, and

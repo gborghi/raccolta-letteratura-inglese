@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 35"
+title: "Villette — Chapter 35"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/villette-(bronte)"
@@ -198,7 +198,7 @@ facts were found, selected, and properly jointed; nor could I rest from
 research and effort till I was satisfied of correct anatomy; the
 strength of my inward repugnance to the idea of flaw or falsity
 sometimes enabled me to shun egregious blunders; but the knowledge was
-not there in my head, ready and mellow; it had not been sown in [[spring|Spring]],
+not there in my head, ready and mellow; it had not been sown in [[Spring]],
 grown in [[Summer]], harvested in [[Autumn]], and garnered through [[Winter]];
 whatever I wanted I must go out and gather fresh; glean of wild herbs
 my lapful, and shred them green into the pot. Messieurs Boissec and

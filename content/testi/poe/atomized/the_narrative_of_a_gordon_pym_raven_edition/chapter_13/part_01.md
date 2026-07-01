@@ -199,11 +199,3 @@ CHAPTER 13
 
 
       July 29. A continuance of the same weather. Augustus’s wounded
-
-      arm began to evince symptoms of mortification. He complained of
-
-      drowsiness and excessive thirst, but no acute [[Pain|pain]]. Nothing could
-
-      be done for his relief beyond rubbing his wounds with a little of
-
-      the vinegar from the olives, and from this no benefit seemed to

@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 23 (part 2)"
+title: "The Mystery of Edwin Drood — Chapter 23 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_25/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_25/part_03">part 03 ›</a></div>
 </nav>
 
+
+But she finds the candle, and lights it, before the cough comes on. It
+seizes her in the moment of [[success]], and she sits down rocking herself
+to and fro, and gasping at intervals: “O, my lungs is awful bad! my
+lungs is wore away to cabbage-nets!” until the fit is over. During its
+continuance she has had no power of sight, or any other power not
+absorbed in the struggle; but as it [[Leaves|leaves]] her, she begins to strain
+her eyes, and as soon as she is able to articulate, she cries, staring:
 
 “Why, it’s you!”
 
@@ -166,31 +174,3 @@ for some consecutive moments, with a singular appearance in his eyes of
 seeming to see her a long way off, instead of so near him: “I’ll
 warrant you made the [[Journey|journey]] in a many ways, when you made it so
 often?”
-
-“No, always in one way.”
-
-“Always in the same way?”
-
-“Ay.”
-
-“In the way in which it was really made at last?”
-
-“Ay.”
-
-“And always took the same pleasure in harping on it?”
-
-“Ay.”
-
-For the [[Time|time]] he appears unequal to any other reply than this lazy
-monosyllabic assent. Probably to assure herself that it is not the
-assent of a mere automaton, she reverses the form of her next sentence.
-
-“Did you never get tired of it, deary, and try to call up something
-else for a change?”
-
-He struggles into a sitting posture, and retorts upon her: “What do you
-mean? What did I want? What did I come for?”
-
-She gently lays him back again, and before returning him the instrument
-he has dropped, revives the [[Fire|fire]] in it with her own breath; then says
-to him, coaxingly:

@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 21 (part 3)"
+title: "Jane Eyre — Chapter 21 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_21/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_21/part_04">part 04 ›</a></div>
 </nav>
 
+
+“What must I say?”
+
+“The same, if you like, sir.”
+
+“Farewell, Miss Eyre, for the present; is that all?”
+
+“Yes.”
+
+“It seems stingy, to my notions, and dry, and unfriendly. I should like
+something else: a little addition to the rite. If one shook hands, for
+instance; but no—that would not content me either. So you’ll do no more
+than say Farewell, Jane?”
 
 “It is enough, sir: as much good-will may be conveyed in one hearty
 word as in many.”
@@ -122,23 +135,3 @@ regular features, languishing blue eyes, and ringleted yellow hair. The
 hue of her dress was black too; but its fashion was so different from
 her sister’s—so much more flowing and becoming—it looked as stylish as
 the other’s looked puritanical.
-
-In each of the sisters there was one trait of the mother—and only one;
-the thin and pallid elder daughter had her parent’s Cairngorm eye: the
-blooming and luxuriant younger girl had her contour of jaw and
-chin—perhaps a little softened, but still imparting an indescribable
-hardness to the countenance otherwise so voluptuous and buxom.
-
-Both ladies, as I advanced, [[Rose|rose]] to welcome me, and both addressed me
-by the name of “Miss Eyre.” Eliza’s greeting was delivered in a short,
-abrupt voice, without a smile; and then she sat down again, fixed her
-eyes on the [[Fire|fire]], and seemed to forget me. Georgiana added to her “How
-d’ye do?” several commonplaces about my [[Journey|journey]], the weather, and so
-on, uttered in rather a drawling tone: and accompanied by sundry
-side-glances that measured me from head to foot—now traversing the
-folds of my drab merino pelisse, and now lingering on the plain
-trimming of my cottage bonnet. Young ladies have a remarkable way of
-letting you know that they think you a “quiz” without actually saying
-the words. A certain superciliousness of look, coolness of manner,
-nonchalance of tone, express fully their sentiments on the point,
-without committing them by any positive rudeness in word or deed.

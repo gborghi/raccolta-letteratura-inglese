@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]] — On the Negative Spirit (part 2)"
+title: "heret12 — On the Negative Spirit (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/heret12-(chesterton)"

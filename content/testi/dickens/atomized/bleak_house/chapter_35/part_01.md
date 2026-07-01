@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 35 (part 1)"
+title: "Bleak House — Chapter 35 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -61,7 +61,7 @@ sky’, I think!” and labouring on again.
 Dare I hint at that worse [[Time|time]] when, strung together somewhere in
 great black space, there was a flaming necklace, or ring, or starry
 circle of some kind, of which I was one of the beads! And when my
-only [[Prayer|prayer]] was to be taken off from the rest and when it was such
+only [[prayer]] was to be taken off from the rest and when it was such
 inexplicable agony and misery to be a part of the dreadful thing?
 
 Perhaps the less I say of these sick experiences, the less tedious

@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]] — Introductory Remarks on the Importance of Orthodoxy (part 1)"
+title: "heret12 — Introductory Remarks on the Importance of Orthodoxy (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/heret12-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 I. Introductory Remarks on the Importance of Orthodoxy
-
 
 Nothing more strangely indicates an enormous and silent evil of modern society
 than the extraordinary use which is made nowadays of the word "orthodox."

@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 25 (part 3)"
+title: "Dombey and Son — Chapter 53 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,128 +14,111 @@ tags:
 </nav>
 
 
-[[Captain Cuttle]] at last abandoned these attempts as hopeless, and set
-himself to consider what was to be done next. After several new
-perusals of his poor friend’s letter, he considered that the
-maintenance of “a [[Home|home]] in the old place for Walter” was the primary
-duty imposed upon him. Therefore, the Captain’s decision was, that he
-would keep [[house]] on the premises of [[Solomon Gills]] himself, and would go
-into the instrument-business, and see what came of it.
+“Harriet,” said her brother, who had listened with close attention,
+“describe this gentleman to me. I surely ought to know one who knows me
+so [[Well|well]].”
 
-But as this step involved the relinquishment of his apartments at Mrs
-MacStinger’s, and he knew that resolute woman would never hear of his
-deserting them, the Captain took the desperate determination of running
-away.
+His sister painted, as vividly as she could, the features, stature, and
+dress of her visitor; but John Carker, either from having no knowledge
+of the original, or from some fault in her description, or from some
+abstraction of his thoughts as he walked to and fro, pondering, could
+not recognise the portrait she presented to him.
 
-“Now, look ye here, my lad,” said the Captain to Rob, when he had
-matured this notable scheme, “to-morrow, I shan’t be found in this here
-roadstead till [[Night|night]]—not till arter midnight p’rhaps. But you keep
-watch till you hear me knock, and the moment you do, turn-to, and open
-the door.”
+However, it was agreed between them that he should see the original
+when he next appeared. This concluded, the sister applied herself, with
+a less anxious breast, to her domestic occupations; and the grey-haired
+man, late Junior of Dombey’s, devoted the first day of his unwonted
+liberty to working in the [[Garden|garden]].
 
-“Very good, Captain,” said Rob.
+It was quite late at [[Night|night]], and the brother was reading aloud while the
+sister plied her needle, when they were interrupted by a knocking at
+the door. In the atmosphere of vague anxiety and dread that lowered
+about them in connexion with their fugitive brother, this sound,
+unusual there, became almost alarming. The brother going to the door,
+the sister sat and listened timidly. Someone spoke to him, and he
+replied and seemed surprised; and after a few words, the two approached
+together.
 
-“You’ll continue to be rated on these here books,” pursued the Captain
-condescendingly, “and I don’t say but what you may get promotion, if
-you and me should pull together with a will. But the moment you hear me
-knock to-morrow [[Night|night]], whatever [[Time|time]] it is, turn-to and show yourself
-smart with the door.”
+“Harriet,” said her brother, lighting in their late visitor, and
+speaking in a low voice, “Mr Morfin—the gentleman so long in Dombey’s
+[[house|House]] with James.”
 
-“I’ll be sure to do it, Captain,” replied Rob.
+His sister started back, as if a [[Ghost|ghost]] had entered. In the doorway
+stood the unknown friend, with the dark hair sprinkled with grey, the
+ruddy face, the broad clear brow, and hazel eyes, whose secret she had
+kept so long!
 
-“Because you understand,” resumed the Captain, coming back again to
-enforce this charge upon his mind, “there may be, for anything I can
-say, a chase; and I might be took while I was waiting, if you didn’t
-show yourself smart with the door.”
+“John!” she said, half-breathless. “It is the gentleman I told you of,
+today!”
 
-Rob again assured the Captain that he would be prompt and wakeful; and
-the Captain having made this prudent arrangement, went [[Home|home]] to Mrs
-MacStinger’s for the last [[Time|time]].
+“The gentleman, Miss Harriet,” said the visitor, coming in—for he had
+stopped a moment in the doorway—“is greatly relieved to hear you say
+that: he has been devising ways and means, all the way here, of
+explaining himself, and has been satisfied with none. Mr John, I am not
+quite a stranger here. You were stricken with astonishment when you saw
+me at your door just now. I observe you are more astonished at present.
+[[Well]]! That’s reasonable enough under existing circumstances. If we were
+not such creatures of habit as we are, we shouldn’t have reason to be
+astonished half so often.”
 
-The sense the Captain had of its being the last [[Time|time]], and of the awful
-purpose hidden beneath his blue waistcoat, inspired him with such a
-mortal dread of Mrs MacStinger, that the sound of that lady’s foot
-downstairs at any [[Time|time]] of the day, was sufficient to throw him into a
-fit of trembling. It fell out, too, that Mrs MacStinger was in a
-charming temper—mild and placid as a [[house]]—[[Lamb|lamb]]; and [[Captain Cuttle]]’s
-[[Conscience|conscience]] suffered terrible twinges, when she came up to inquire if
-she could cook him nothing for his dinner.
+By this [[Time|time]], he had greeted Harriet with that able mingling of
+cordiality and respect which she recollected so [[Well|well]], and had sat down
+near her, pulled off his gloves, and thrown them into his hat upon the
+table.
 
-“A nice small kidney-pudding now, Cap’en Cuttle,” said his landlady:
-“or a sheep’s heart. Don’t mind my trouble.”
+“There’s nothing astonishing,” he said, “in my having conceived a
+[[Desire|desire]] to see your sister, Mr John, or in my having gratified it in my
+own way. As to the regularity of my visits since (which she may have
+mentioned to you), there is nothing extraordinary in that. They soon
+grew into a habit; and we are creatures of habit—creatures of habit!”
 
-“No thank’ee, Ma’am,” returned the Captain.
+Putting his hands into his pockets, and leaning back in his chair, he
+looked at the brother and sister as if it were interesting to him to
+see them together; and went on to say, with a kind of irritable
+thoughtfulness: “It’s this same habit that confirms some of us, who are
+capable of better things, in [[Lucifer]]’s own [[Pride|pride]] and stubbornness—that
+confirms and deepens others of us in villainy—more of us in
+indifference —that hardens us from day to day, according to the temper
+of our clay, like images, and [[Leaves|leaves]] us as susceptible as images to new
+impressions and convictions. You shall judge of its influence on me,
+John. For more years than I need name, I had my small, and exactly
+defined share, in the management of Dombey’s [[house|House]], and saw your
+brother (who has proved himself a scoundrel! Your sister will forgive
+my being obliged to mention it) extending and extending his influence,
+until the business and its owner were his football; and saw you toiling
+at your obscure desk every day; and was quite content to be as little
+troubled as I might be, out of my own strip of duty, and to let
+everything about me go on, day by day, unquestioned, like a great
+[[Machine|machine]]—that was its habit and mine—and to take it all for granted, and
+consider it all right. My Wednesday nights came regularly round, our
+quartette parties came regularly off, my violoncello was in good tune,
+and there was nothing wrong in my world—or if anything not much—or
+little or much, it was no affair of mine.”
 
-“Have a roast fowl,” said Mrs MacStinger, “with a bit of weal stuffing
-and some egg sauce. Come, Cap’en Cuttle! Give yourself a little treat!”
+“I can answer for your being more respected and beloved during all that
+[[Time|time]] than anybody in the [[house|House]], Sir,” said John Carker.
 
-“No thank’ee, Ma’am,” returned the Captain very humbly.
+“Pooh! Good-natured and easy enough, I daresay,” returned the other, “a
+habit I had. It suited the Manager; it suited the man he managed: it
+suited me best of all. I did what was allotted to me to do, made no
+[[Court|court]] to either of them, and was glad to occupy a station in which none
+was required. So I should have gone on till now, but that my room had a
+thin wall. You can tell your sister that it was divided from the
+Manager’s room by a wainscot partition.”
 
-“I’m sure you’re out of sorts, and want to be stimulated,” said Mrs
-MacStinger. “Why not have, for once in a way, a bottle of sherry wine?”
+“They were adjoining rooms; had been one, Perhaps, originally; and were
+separated, as Mr Morfin says,” said her brother, looking back to him
+for the resumption of his explanation.
 
-“[[Well]], Ma’am,” rejoined the Captain, “if you’d be so good as take a
-glass or two, I think I would try that. Would you do me the favour,
-Ma’am,” said the Captain, torn to pieces by his [[Conscience|conscience]], “to accept
-a quarter’s rent ahead?”
+“I have whistled, hummed tunes, gone accurately through the whole of
+Beethoven’s Sonata in B, to let him know that I was within hearing,”
+said Mr Morfin; “but he never heeded me. It happened seldom enough that
+I was within hearing of anything of a private [[Nature|nature]], certainly. But
+when I was, and couldn’t otherwise avoid knowing something of it, I
+walked out. I walked out once, John, during a conversation between two
+brothers, to which, in the beginning, young [[Walter Gay]] was a party. But
+I overheard some of it before I left the room. You remember it
+sufficiently, perhaps, to tell your sister what its [[Nature|nature]] was?”
 
-“And why so, Cap’en Cuttle?” retorted Mrs MacStinger—sharply, as the
-Captain thought.
-
-The Captain was frightened to dead “If you would Ma’am,” he said with
-submission, “it would oblige me. I can’t keep my money very [[Well|well]]. It
-pays itself out. I should take it kind if you’d comply.”
-
-“[[Well]], Cap’en Cuttle,” said the unconscious MacStinger, rubbing her
-hands, “you can do as you please. It’s not for me, with my family, to
-refuse, no more than it is to ask.”
-
-“And would you, Ma’am,” said the Captain, taking down the tin canister
-in which he kept his cash, from the top shelf of the cupboard, “be so
-good as offer eighteen-pence a-piece to the little family all round? If
-you could make it convenient, Ma’am, to pass the word presently for
-them children to come for’ard, in a [[Body|body]], I should be glad to see ’em.”
-
-These [[Innocent|innocent]] MacStingers were so many daggers to the Captain’s
-breast, when they appeared in a swarm, and tore at him with the
-confiding trustfulness he so little deserved. The eye of Alexander
-MacStinger, who had been his favourite, was insupportable to the
-Captain; the voice of Juliana MacStinger, who was the picture of her
-mother, made a coward of him.
-
-[[Captain Cuttle]] kept up appearances, nevertheless, tolerably [[Well|well]], and
-for an hour or two was very hardly used and roughly handled by the
-young MacStingers: who in their childish frolics, did a little damage
-also to the glazed hat, by sitting in it, two at a [[Time|time]], as in a nest,
-and drumming on the inside of the [[Crown|crown]] with their shoes. At length the
-Captain sorrowfully dismissed them: taking leave of these cherubs with
-the poignant remorse and grief of a man who was going to execution.
-
-In the [[Silence|silence]] of [[Night|night]], the Captain packed up his heavier property in
-a chest, which he locked, intending to leave it there, in all
-probability for ever, but on the forlorn chance of one day finding a
-man sufficiently bold and desperate to come and ask for it. Of his
-lighter necessaries, the Captain made a bundle; and disposed his plate
-about his person, ready for flight. At the hour of midnight, when Brig
-Place was buried in slumber, and Mrs MacStinger was lulled in sweet
-oblivion, with her infants around her, the guilty Captain, stealing
-down on tiptoe, in the dark, opened the door, closed it softly after
-him, and took to his heels.
-
-Pursued by the image of Mrs MacStinger springing out of bed, and,
-regardless of costume, following and bringing him back; pursued also by
-a consciousness of his enormous crime; [[Captain Cuttle]] held on at a
-great pace, and allowed no grass to grow under his feet, between Brig
-Place and the Instrument-maker’s door. It opened when he knocked—for
-Rob was on the watch—and when it was bolted and locked behind him,
-[[Captain Cuttle]] felt comparatively safe.
-
-“Whew!” cried the Captain, looking round him. “It’s a breather!”
-
-“Nothing the matter, is there, Captain?” cried the gaping Rob.
-
-“No, no!” said [[Captain Cuttle]], after changing colour, and listening to
-a passing footstep in the street. “But mind ye, my lad; if any lady,
-except either of them two as you see t’other day, ever comes and asks
-for Cap’en Cuttle, be sure to report no person of that name known, nor
-never heard of here; observe them orders, will you?”
+“It referred, Harriet,” said her brother in a low voice, “to the past,
+and to our relative positions in the [[house|House]].”

@@ -1,5 +1,5 @@
 ---
-title: "[[Don Quixote]] — Chapter 9 (part 2)"
+title: "Don Quixote — Chapter 9 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/don-quixote-(chesterton)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_10/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_10/part_03">part 03 ›</a></div>
 </nav>
 
+
+Murrel having, by this circuitous route, at last reached his [[Desire|desire]],
+almost leapt like an unleashed hound.  He inquired the number
+in the street which was honoured by Mr. Hendry's residence;
+and almost immediately after went striding down the steep
+street towards it.
 
 Having knocked at the door, he waited; and after a considerable interval
 he heard the sounds of it being very slowly unlocked behind him.

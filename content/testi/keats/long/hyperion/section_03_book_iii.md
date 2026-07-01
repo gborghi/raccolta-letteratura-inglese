@@ -1,5 +1,5 @@
 ---
-title: "[[Hyperion]] — Book III"
+title: "Hyperion — Book III"
 author: "Keats"
 unitType: section
 parentWork: "works/hyperion-(keats)"

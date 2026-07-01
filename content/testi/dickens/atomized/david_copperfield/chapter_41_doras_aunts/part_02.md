@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 41: DORA’S AUNTS (part 2)"
+title: "David Copperfield — Chapter 41: DORA’S AUNTS (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_41_doras_aunts/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_41_doras_aunts/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘You did at last?’ said I.
+
+‘[[Well]], the Reverend Horace did,’ said Traddles. ‘He is an excellent man,
+most exemplary in every way; and he pointed out to her that she ought,
+as a Christian, to reconcile herself to the sacrifice (especially as it
+was so uncertain), and to bear no uncharitable feeling towards me. As to
+myself, Copperfield, I give you my word, I felt a perfect bird of prey
+towards the family.’
 
 ‘The sisters took your part, I [[Hope|hope]], Traddles?’
 
@@ -124,6 +133,3 @@ swilling Bath [[Water|water]]. They had a lurking suspicion even, that he died o
 secret [[Love|love]]; though I must say there was a picture of him in the [[house]]
 with a damask nose, which concealment did not appear to have ever preyed
 upon.
-
-‘We will not,’ said Miss [[Lavinia]], ‘enter on the past [[history]] of this
-matter. Our poor brother Francis’s [[Death|death]] has cancelled that.’

@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-thing-(chesterton)">The Thing</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_15_the_revolt_against_ideas/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_21_on_courage_and_independence/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_15_the_revolt_against_ideas/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_21_on_courage_courage_and_independence/part_01">part 01 ›</a></div>
 </nav>
 
 
@@ -65,7 +65,7 @@ of practical politics and called an idealist and a failure.
 
 The same progress of Capitalism that made the squires has
 destroyed the squires.  The same commercial advance that exalted
-England before Europe has abased England before [[America]].
+England before Europe has abased England before [[america|America]].
 Exactly in so far as we have our affections healthily attached to this
 adventurous and patriotic England of the last few centuries, we shall
 see that our affections and attachments are bound to be betrayed.
@@ -123,6 +123,5 @@ save us from all this gunpowder, for God's sake let us listen to them."
 Even [[logic]] they are prepared, in their [[Despair|despair]], to accept.
 They will not only listen to religion, they will even perhaps listen
 to reason, if it will promise them a little peace.
-
 
 -/-

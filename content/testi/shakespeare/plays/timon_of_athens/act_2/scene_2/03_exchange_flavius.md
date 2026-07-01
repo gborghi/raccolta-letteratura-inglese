@@ -1,5 +1,5 @@
 ---
-title: "[[Timon]] of Athens — Act II, Scene 2 — exchange ([[Flavius|FLAVIUS]]) [3]"
+title: "Timon of Athens — Act II, Scene 2 — exchange (FLAVIUS) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/timon-of-athens-(shakespeare)"

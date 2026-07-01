@@ -1,5 +1,5 @@
 ---
-title: "[[Edward III]] — Scene 12 — monologue (PRINCE OF WALES) [3]"
+title: "Edward III — Scene 12 — monologue (PRINCE OF WALES) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/edward-iii-(shakespeare)"

@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 59: RETURN (part 6)"
+title: "David Copperfield — Chapter 59: RETURN (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,27 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_59_return/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_60_agnes/part_01">part 01 ›</a></div>
 </nav>
 
+
+Mr. Chillip shook his head, stirred his negus, and sipped it.
+
+‘She was a charming woman, sir!’ he observed in a plaintive manner.
+
+‘The present Mrs. Murdstone?’
+
+‘A charming woman indeed, sir,’ said Mr. Chillip; ‘as amiable, I am sure,
+as it was possible to be! Mrs. Chillip’s opinion is, that her spirit
+has been entirely broken since her [[Marriage|marriage]], and that she is all but
+[[Melancholy|melancholy]] mad. And the ladies,’ observed Mr. Chillip, timorously, ‘are
+great observers, sir.’
+
+‘I suppose she was to be subdued and broken to their detestable mould,
+Heaven help her!’ said I. ‘And she has been.’
+
+‘[[Well]], sir, there were violent quarrels at first, I assure you,’ said
+Mr. Chillip; ‘but she is quite a [[Shadow|shadow]] now. Would it be considered
+forward if I was to say to you, sir, in confidence, that since the
+sister came to help, the brother and sister between them have nearly
+reduced her to a state of imbecility?’
 
 I told him I could easily believe it.
 

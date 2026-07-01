@@ -1,5 +1,5 @@
 ---
-title: "[[Emma]] — Chapter 6 (part 1)"
+title: "Emma — Chapter 6 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/emma-(austen)"
@@ -119,7 +119,7 @@ she would ever submit to. She played and sang;—and drew in almost every
 style; but steadiness had always been wanting; and in nothing had she
 approached the degree of excellence which she would have been glad to
 command, and ought not to have failed of. She was not much deceived as
-to her own skill either as an [[artist]] or a musician, but she was not
+to her own skill either as an [[Artist|artist]] or a musician, but she was not
 unwilling to have others deceived, or sorry to know her reputation for
 accomplishment often higher than it deserved.
 

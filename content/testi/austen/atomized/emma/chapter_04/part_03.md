@@ -1,5 +1,5 @@
 ---
-title: "[[Emma]] — Chapter 4 (part 3)"
+title: "Emma — Chapter 4 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/emma-(austen)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/emma/chapter_04/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/emma/chapter_06/part_01">part 01 ›</a></div>
 </nav>
 
+
+They remained but a few minutes together, as Miss Woodhouse must not be
+kept waiting; and Harriet then came running to her with a smiling face,
+and in a flutter of spirits, which Miss Woodhouse hoped very soon to
+compose.
+
+“Only think of our happening to meet him!—How very odd! It was quite a
+chance, he said, that he had not gone round by Randalls. He did not
+think we ever walked this [[Road|road]]. He thought we walked towards Randalls
+most days. He has not been able to get the [[Romance]] of the Forest yet.
+He was so busy the last [[Time|time]] he was at Kingston that he quite forgot
+it, but he goes again to-morrow. So very odd we should happen to meet!
+[[Well]], Miss Woodhouse, is he like what you expected? What do you think
+of him? Do you think him so very plain?”
 
 “He is very plain, undoubtedly—remarkably plain:—but that is nothing
 compared with his entire want of gentility. I had no right to expect

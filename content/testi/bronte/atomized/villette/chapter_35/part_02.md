@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 33 (part 2)"
+title: "Villette — Chapter 33 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -20,7 +20,7 @@ strength, and strong in its simplicity. There were beautiful touches in
 that little tale; sweet glimpses of feeling and hues of description
 that, while I listened, sunk into my mind, and since have never faded.
 He tinted a twilight scene—I hold it in [[Memory|memory]] still—such a picture I
-have never looked on from [[Artist|artist]]’s pencil.
+have never looked on from [[artist]]’s pencil.
 
 I have said, that, for myself, I had no impromptu faculty; and perhaps
 that very deficiency made me marvel the more at one who possessed it in
@@ -100,7 +100,7 @@ was a [[Lamb|lamb]]; he would not harm a fly. Only to the very stupid, perverse,
 or unsympathizing, was he in the slightest degree dangerous.
 
 Mindful always of his religion, he made the youngest of the party say a
-little [[Prayer|prayer]] before we began breakfast, crossing himself as devotedly
+little [[prayer]] before we began breakfast, crossing himself as devotedly
 as a woman. I had never seen him pray before, or make that pious sign;
 he did it so simply, with such [[Child|child]]-like [[Faith|faith]], I could not help
 smiling pleasurably as I watched; his eyes met my smile; he just

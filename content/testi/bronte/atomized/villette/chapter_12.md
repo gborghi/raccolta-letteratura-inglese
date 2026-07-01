@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 12"
+title: "Villette — Chapter 12"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/villette-(bronte)"
@@ -38,7 +38,7 @@ ages ago, for there were houses all round now; but certain
 convent-relics, in the shape of old and huge fruit-trees, yet
 consecrated the spot; and, at the foot of one—a Methuselah of a
 pear-tree, dead, all but a few boughs which still faithfully renewed
-their perfumed [[Snow|snow]] in [[spring]], and their honey-sweet pendants in
+their perfumed [[Snow|snow]] in [[Spring|spring]], and their honey-sweet pendants in
 [[Autumn|autumn]]—you saw, in scraping away the mossy earth between the half-bared
 roots, a glimpse of slab, smooth, hard, and black. The legend went,
 unconfirmed and unaccredited, but still propagated, that this was the

@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 2 (part 1)"
+title: "Dombey and Son — Chapter 30 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,137 +14,124 @@ tags:
 </nav>
 
 
-CHAPTER II.
-In which Timely Provision is made for an Emergency that will sometimes
-arise in the best-regulated Families.
+CHAPTER XXX.
+The interval before the [[Marriage]]
 
 
-I shall never cease to congratulate myself,” said Mrs Chick,” on having
-said, when I little thought what was in store for us,—really as if I
-was inspired by something,—that I forgave poor dear Fanny everything.
-Whatever happens, that must always be a comfort to me!”
+Although the enchanted [[house]] was no more, and the working world had
+broken into it, and was hammering and crashing and tramping up and down
+stairs all day long keeping Diogenes in an incessant paroxysm of
+barking, from sunrise to sunset—evidently convinced that his enemy had
+got the better of him at last, and was then sacking the premises in
+triumphant defiance—there was, at first, no other great change in the
+method of Florence’s life. At [[Night|night]], when the workpeople went away, the
+[[house]] was dreary and deserted again; and Florence, listening to their
+voices echoing through the hall and staircase as they departed,
+pictured to herself the cheerful homes to which they were returning,
+and the children who were waiting for them, and was glad to think that
+they were merry and [[Well|well]] pleased to go.
 
-Mrs Chick made this impressive observation in the drawing-room, after
-having descended thither from the inspection of the mantua-makers
-upstairs, who were busy on the family mourning. She delivered it for
-the behoof of Mr Chick, who was a stout bald gentleman, with a very
-large face, and his hands continually in his pockets, and who had a
-tendency in his [[Nature|nature]] to whistle and hum tunes, which, sensible of the
-indecorum of such sounds in a [[house]] of grief, he was at some pains to
-repress at present.
+She welcomed back the evening [[Silence|silence]] as an old friend, but it came now
+with an altered face, and looked more kindly on her. Fresh [[Hope|hope]] was in
+it. The beautiful lady who had soothed and carressed her, in the very
+room in which her heart had been so wrung, was a spirit of promise to
+her. Soft shadows of the bright life dawning, when her father’s
+affection should be gradually won, and all, or much should be restored,
+of what she had lost on the dark day when a mother’s [[Love|love]] had faded
+with a mother’s last breath on her cheek, moved about her in the
+twilight and were welcome company. Peeping at the rosy children her
+neighbours, it was a new and precious sensation to think that they
+might soon speak together and know each other; when she would not [[Fear|fear]],
+as of old, to show herself before them, lest they should be grieved to
+see her in her black dress sitting there [[Alone|alone]]!
 
-“Don’t you over-exert yourself, Loo,” said Mr Chick, “or you’ll be laid
-up with spasms, I see. Right tol loor rul! Bless my [[Soul|soul]], I forgot!
-We’re here one day and gone the next!”
+In her thoughts of her new mother, and in the [[Love|love]] and trust
+overflowing her pure heart towards her, Florence loved her own dead
+mother more and more. She had no [[Fear|fear]] of setting up a rival in her
+breast. The new flower sprang from the deep-planted and long-cherished
+root, she knew. Every gentle word that had fallen from the lips of the
+beautiful lady, sounded to Florence like an echo of the voice long
+hushed and silent. How could she [[Love|love]] that [[Memory|memory]] less for living
+tenderness, when it was her [[Memory|memory]] of all parental tenderness and [[Love|love]]!
 
-Mrs Chick contented herself with a glance of reproof, and then
-proceeded with the thread of her discourse.
+Florence was, one day, sitting reading in her room, and thinking of the
+lady and her promised visit soon—for her book turned on a kindred
+subject—when, raising her eyes, she saw her standing in the doorway.
 
-“I am sure,” she said, “I [[Hope|hope]] this heart-rending occurrence will be a
-warning to all of us, to accustom ourselves to rouse ourselves, and to
-make efforts in [[Time|time]] where they’re required of us. There’s a moral in
-everything, if we would only avail ourselves of it. It will be our own
-faults if we lose sight of this one.”
+“Mama!” cried Florence, joyfully meeting her. “Come again!”
 
-Mr Chick invaded the [[Grave|grave]] [[Silence|silence]] which ensued on this remark with the
-singularly inappropriate air of “A cobbler there was;” and checking
-himself, in some confusion, observed, that it was undoubtedly our own
-faults if we didn’t improve such [[Melancholy|melancholy]] occasions as the present.
+“Not Mama yet,” returned the lady, with a serious smile, as she
+encircled Florence’s neck with her arm.
 
-“Which might be better improved, I should think, Mr C.,” retorted his
-helpmate, after a short pause, “than by the introduction, either of the
-college hornpipe, or the equally unmeaning and unfeeling remark of
-rump-te-iddity, bow-wow-wow!”—which Mr Chick had indeed indulged in,
-under his breath, and which Mrs Chick repeated in a tone of withering
-scorn.
+“But very soon to be,” cried Florence.
 
-“Merely habit, my dear,” pleaded Mr Chick.
+“Very soon now, Florence: very soon.”
 
-“Nonsense! Habit!” returned his wife. “If you’re a rational being,
-don’t make such ridiculous excuses. Habit! If I was to get a habit (as
-you call it) of walking on the ceiling, like the flies, I should hear
-enough of it, I daresay.”
+Edith bent her head a little, so as to press the blooming cheek of
+Florence against her own, and for some few moments remained thus
+silent. There was something so very tender in her manner, that Florence
+was even more sensible of it than on the first occasion of their
+meeting.
 
-It appeared so probable that such a habit might be attended with some
-degree of notoriety, that Mr Chick didn’t venture to dispute the
-position.
+She led Florence to a chair beside her, and sat down: Florence looking
+in her face, quite wondering at its [[Beauty|beauty]], and willingly leaving her
+hand in hers.
 
-“Bow-wow-wow!” repeated Mrs Chick with an emphasis of blighting
-contempt on the last syllable. “More like a professional singer with
-the hydrophobia, than a man in your station of life!”
+“Have you been [[Alone|alone]], Florence, since I was here last?”
 
-“How’s the Baby, Loo?” asked Mr Chick: to change the subject.
+“Oh yes!” smiled Florence, hastily.
 
-“What Baby do you mean?” answered Mrs Chick.
+She hesitated and cast down her eyes; for her new Mama was very earnest
+in her look, and the look was intently and thoughtfully fixed upon her
+face.
 
-“The poor bereaved little baby,” said Mr Chick. “I don’t know of any
-other, my dear.”
+“I—I—am used to be [[Alone|alone]],” said Florence. “I don’t mind it at all. Di
+and I pass whole days together, sometimes.” Florence might have said,
+whole weeks and months.
 
-“You don’t know of any other,” retorted Mrs Chick. “More shame for you,
-I was going to say.”
+“Is Di your maid, [[Love|love]]?”
 
-Mr Chick looked astonished.
+“My dog, Mama,” said Florence, laughing. “Susan is my maid.”
 
-“I am sure the morning I have had, with that dining-room downstairs,
-one mass of babies, no one in their senses would believe.”
+“And these are your rooms,” said Edith, looking round. “I was not shown
+these rooms the other day. We must have them improved, Florence. They
+shall be made the prettiest in the [[house]].”
 
-“One mass of babies!” repeated Mr Chick, staring with an alarmed
-expression about him.
+“If I might change them, Mama,” returned Florence; “there is one
+upstairs I should like much better.”
 
-“It would have occurred to most men,” said Mrs Chick, “that poor dear
-Fanny being no more,—those words of mine will always be a balm and
-comfort to me,” here she dried her eyes; “it becomes necessary to
-provide a [[Nurse]].”
+“Is this not high enough, dear girl?” asked Edith, smiling.
 
-“Oh! Ah!” said Mr Chick. “Toor-ru!—such is life, I mean. I [[Hope|hope]] you are
-suited, my dear.”
+“The other was my brother’s room,” said Florence, “and I am very fond
+of it. I would have spoken to Papa about it when I came [[Home|home]], and found
+the workmen here, and everything changing; but—”
 
-“Indeed I am not,” said Mrs Chick; “nor likely to be, so far as I can
-see, and in the meantime the poor [[Child|child]] seems likely to be starved to
-[[Death|death]]. Paul is so very particular—naturally so, of course, having set
-his whole heart on this one boy—and there are so many objections to
-everybody that offers, that I don’t see, myself, the least chance of an
-arrangement. Meanwhile, of course, the [[Child|child]] is—”
+Florence dropped her eyes, lest the same look should make her falter
+again.
 
-“Going to the Devil,” said Mr Chick, thoughtfully, “to be sure.”
+“but I was afraid it might distress him; and as you said you would be
+here again soon, Mama, and are the mistress of everything, I determined
+to take [[Courage|courage]] and ask you.”
 
-Admonished, however, that he had committed himself, by the indignation
-expressed in Mrs Chick’s countenance at the idea of a Dombey going
-there; and thinking to atone for his misconduct by a bright suggestion,
-he added:
+Edith sat looking at her, with her brilliant eyes intent upon her face,
+until Florence raising her own, she, in her turn, withdrew her gaze,
+and turned it on the ground. It was then that Florence thought how
+different this lady’s [[Beauty|beauty]] was, from what she had supposed. She had
+thought it of a proud and lofty kind; yet her manner was so subdued and
+gentle, that if she had been of Florence’s own age and character, it
+scarcely could have invited confidence more.
 
-“Couldn’t something temporary be done with a teapot?”
+Except when a constrained and singular reserve crept over her; and then
+she seemed (but Florence hardly understood this, though she could not
+choose but notice it, and think about it) as if she were humbled before
+Florence, and ill at ease. When she had said that she was not her Mama
+yet, and when Florence had called her the mistress of everything there,
+this change in her was quick and startling; and now, while the eyes of
+Florence rested on her face, she sat as though she would have shrunk
+and hidden from her, rather than as one about to [[Love|love]] and cherish her,
+in right of such a near connexion.
 
-If he had meant to bring the subject prematurely to a close, he could
-not have done it more effectually. After looking at him for some
-moments in silent [[Resignation|resignation]], Mrs Chick said she trusted he hadn’t
-said it in aggravation, because that would do very little [[Honour|honour]] to his
-heart. She trusted he hadn’t said it seriously, because that would do
-very little [[Honour|honour]] to his head. As in any case, he couldn’t, however
-sanguine his disposition, [[Hope|hope]] to offer a remark that would be a
-greater outrage on human [[Nature|nature]] in general, we would beg to leave the
-discussion at that point.
-
-Mrs Chick then walked majestically to the [[Window|window]] and peeped through the
-blind, attracted by the sound of wheels. Mr Chick, finding that his
-destiny was, for the [[Time|time]], against him, said no more, and walked off.
-But it was not always thus with Mr Chick. He was often in the ascendant
-himself, and at those times punished Louisa roundly. In their
-matrimonial bickerings they were, upon the whole, a [[Well|well]]-matched,
-fairly-balanced, give-and-take couple. It would have been, generally
-speaking, very difficult to have betted on the winner. Often when Mr
-Chick seemed beaten, he would suddenly make a start, turn the tables,
-clatter them about the ears of Mrs Chick, and carry all before him.
-Being liable himself to similar unlooked for checks from Mrs Chick,
-their little contests usually possessed a character of uncertainty that
-was very animating.
-
-Miss Tox had arrived on the wheels just now alluded to, and came
-running into the room in a breathless condition.
-
-“My dear Louisa,” said Miss Tox, “is the vacancy still unsupplied?”
-
-“You good [[Soul|soul]], yes,” said Mrs Chick.
-
-“Then, my dear Louisa,” returned Miss Tox, “I [[Hope|hope]] and believe—but in
-one moment, my dear, I’ll introduce the party.”
+She gave Florence her ready promise, about her new room, and said she
+would give directions about it herself. She then asked some questions
+concerning poor Paul; and when they had sat in conversation for some
+[[Time|time]], told Florence she had come to take her to her own [[Home|home]].

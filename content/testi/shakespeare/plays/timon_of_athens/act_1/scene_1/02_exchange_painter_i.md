@@ -1,5 +1,5 @@
 ---
-title: "[[Timon]] of Athens — Act I, Scene 1 — exchange (PAINTER I) [2]"
+title: "Timon of Athens — Act I, Scene 1 — exchange (PAINTER I) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/timon-of-athens-(shakespeare)"

@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 28: TWENTY EIGHT (part 1)"
+title: "Martin Chuzzlewit — Chapter 28: TWENTY EIGHT (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -135,9 +135,3 @@ dining room, along with his distinguished host, and took his seat at the
 board between that individual and his friend the doctor. The rest fell
 into their places like men who were [[Well|well]] accustomed to the [[house]]; and
 dinner was done full justice to, by all parties.
-
-It was a good a one as money (or credit, no matter which) could produce.
-The dishes, wines, and fruits were of the choicest kind. Everything was
-elegantly served. The plate was gorgeous. Mr Jonas was in the midst of
-a calculation of the value of this item [[Alone|alone]], when his host disturbed
-him.

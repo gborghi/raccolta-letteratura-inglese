@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 20 (part 4)"
+title: "Jane Eyre — Chapter 20 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_20/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_20/part_05">part 05 ›</a></div>
 </nav>
 
+
+I flew thither and back, bringing the desired vessels.
+
+“That’s [[Well|well]]! Now, doctor, I shall take the liberty of administering a
+dose myself, on my own responsibility. I got this cordial at Rome, of
+an Italian charlatan—a fellow you would have kicked, Carter. It is not
+a thing to be used indiscriminately, but it is good upon occasion: as
+now, for instance. Jane, a little [[Water|water]].”
 
 He held out the tiny glass, and I half filled it from the [[Water|water]]-bottle
 on the washstand.
@@ -111,7 +119,7 @@ and cherry trees on one side, and a border on the other full of all
 sorts of old-fashioned [[Flowers|flowers]], stocks, sweet-williams, primroses,
 pansies, mingled with southernwood, sweet-briar, and various fragrant
 herbs. They were fresh now as a succession of April showers and gleams,
-followed by a lovely [[spring]] morning, could make them: the sun was just
+followed by a lovely [[Spring|spring]] morning, could make them: the sun was just
 entering the dappled east, and his light illumined the wreathed and
 dewy orchard trees and shone down the quiet walks under them.
 
@@ -159,21 +167,3 @@ and spue [[Fire|fire]] any day.”
 “But Mr. Mason seems a man easily led. Your influence, sir, is
 evidently potent with him: he will never set you at defiance or
 wilfully injure you.”
-
-“Oh, no! Mason will not defy me; nor, knowing it, will he hurt me—but,
-unintentionally, he might in a moment, by one careless word, deprive
-me, if not of life, yet for ever of happiness.”
-
-“Tell him to be cautious, sir: let him know what you [[Fear|fear]], and show him
-how to avert the danger.”
-
-He laughed sardonically, hastily took my hand, and as hastily threw it
-from him.
-
-“If I could do that, simpleton, where would the danger be? Annihilated
-in a moment. Ever since I have known Mason, I have only had to say to
-him ‘Do that,’ and the thing has been done. But I cannot give him
-orders in this case: I cannot say ‘Beware of harming me, [[Richard]];’ for
-it is imperative that I should keep him ignorant that harm to me is
-possible. Now you look puzzled; and I will puzzle you further. You are
-my little friend, are you not?”

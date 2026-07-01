@@ -1,5 +1,5 @@
 ---
-title: "[[The Premature Burial]]"
+title: "The Premature Burial"
 author: "Poe"
 unitType: work
 tags:

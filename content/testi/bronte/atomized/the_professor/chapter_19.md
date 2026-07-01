@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 18"
+title: "The Professor — Chapter 18"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-professor-(bronte)"
@@ -15,8 +15,6 @@ tags:
 
 
 CHAPTER XVIII.
-
-
 
 THE young Anglo-Swiss evidently derived both pleasure and profit from
 
@@ -56,23 +54,15 @@ over her shoulder, was writing some directions with a pencil on the
 
 margin of her book.
 
-
-
 “[[Well]], are you pleased that I am satisfied with your progress?” I asked.
-
-
 
 “Yes,” said she slowly, gently, the blush that had half subsided
 
 returning.
 
-
-
 “But I do not say enough, I suppose?” I continued. “My praises are too
 
 cool?”
-
-
 
 She made no answer, and, I thought, looked a little sad. I divined her
 
@@ -99,8 +89,6 @@ occasion to walk past in order to ascertain by what art I prolonged so
 disproportionately the period necessary for filling it. I was obliged to
 
 go. Distasteful effort--to leave what we most prefer!
-
-
 
 Frances did not become pale or feeble in consequence of her sedentary
 
@@ -152,8 +140,6 @@ symmetry, and allowed a lightness and [[Freedom|freedom]] of movement which
 
 corresponded with my ideas of grace.
 
-
-
 Thus improved, thus wakened to life, Mdlle. Henri began to take a
 
 new footing in the school; her mental power, manifested gradually but
@@ -165,8 +151,6 @@ the young and healthy saw that she could smile brightly, converse gaily,
 move with vivacity and alertness, they acknowledged in her a sisterhood
 
 of youth and health, and tolerated her as of their kind accordingly.
-
-
 
 To speak [[Truth|truth]], I watched this change much as a gardener watches the
 
@@ -196,8 +180,6 @@ best suited Frances’ feelings, as susceptible as deep vibrating--her
 
 [[Nature|nature]] at once proud and shy.
 
-
-
 The benefits of my system became apparent also in her altered demeanour
 
 as a teacher; she now took her place amongst her pupils with an air
@@ -213,8 +195,6 @@ rebellion to heart; she possessed a source of comfort they could not
 drain, a pillar of support they could not overthrow: formerly, when
 
 insulted, she wept; now, she smiled.
-
-
 
 The public reading of one of her devoirs achieved the revelation of her
 
@@ -246,13 +226,9 @@ period. At the close, consolation was suggested; religious [[Faith|faith]] becam
 
 there the speaker, and she spoke [[Well|well]].
 
-
-
 The devoir was powerfully written in language at once chaste and choice,
 
 in a style nerved with vigour and graced with harmony.
-
-
 
 Mdlle. Reuter was quite sufficiently acquainted with English to
 
@@ -274,21 +250,15 @@ countenance, so no more were disdain, envy, annoyance, weariness; if
 
 that inscrutable mien said anything, it was simply this--
 
-
-
 “The matter is too trite to excite an emotion, or call forth an
 
 opinion.”
-
-
 
 As soon as I had done, a hum [[Rose|rose]]; several of the pupils, pressing round
 
 Mdlle. Henri, began to beset her with compliments; the composed voice of
 
 the directress was now heard:--
-
-
 
 “Young ladies, such of you as have cloaks and umbrellas will hasten
 
@@ -298,19 +268,13 @@ little), “the remainder will wait till their respective servants arrive
 
 to fetch them.” And the school dispersed, for it was four o’[[Clock|clock]].
 
-
-
 “Monsieur, a word,” said Mdlle. Reuter, stepping on to the estrade, and
 
 signifying, by a movement of the hand, that she wished me to relinquish,
 
 for an instant, the castor I had clutched.
 
-
-
 “Mademoiselle, I am at your service.”
-
-
 
 “Monsieur, it is of course an excellent plan to encourage effort in
 
@@ -366,15 +330,11 @@ even in celibacy it would be better for her to retain the character and
 
 habits of a respectable decorous female.”
 
-
-
 “Indisputably, mademoiselle,” was my answer. “Your opinion admits of no
 
 [[Doubt|doubt]];” and, fearful of the harangue being renewed, I retreated under
 
 cover of that cordial sentence of assent.
-
-
 
 At the date of a fortnight after the little incident noted above, I find
 
@@ -404,39 +364,23 @@ knew that I should at least get a sensible answer, unaccompanied by
 
 wriggle, titter, or other flourish of folly.
 
-
-
 “Ou donc est Mdlle. Henri?” I said one day as I returned an
 
 exercise-book I had been examining.
 
-
-
 “Elle est partie, monsieur.”
-
-
 
 “Partie? et pour combien de temps? Quand reviendra-t-elle?”
 
-
-
 “Elle est partie pour toujours, monsieur; elle ne reviendra plus.”
-
-
 
 “Ah!” was my involuntary exclamation; then after a pause:--
 
-
-
 “En etes-vous bien sure, Sylvie?”
-
-
 
 “Oui, oui, monsieur, mademoiselle la directrice nous l’a dit elle-meme
 
 il y a deux ou trois jours.”
-
-
 
 And I could pursue my inquiries no further; [[Time|time]], place, and
 
@@ -452,19 +396,13 @@ listeners all round. An hour after, in passing Sylvie in the corridor as
 
 she was putting on her bonnet, I stopped short and asked:--
 
-
-
 “Sylvie, do you know Mdlle. Henri’s address? I have some books of hers,”
 
  I added carelessly, “and I should wish to send them to her.”
 
-
-
 “No, monsieur,” replied Sylvie; “but perhaps Rosalie, the portress, will
 
 be able to give it you.”
-
-
 
 Rosalie’s cabinet was just at hand; I stepped in and repeated the
 
@@ -498,8 +436,6 @@ bland smile played on her features; my harsh apology was received with
 
 good-humoured facility.
 
-
-
 “Oh, don’t mention it, monsieur; you only touched my hair with your
 
 elbow; it is no worse, only a little dishevelled.” She shook it back,
@@ -508,15 +444,11 @@ and passing her fingers through her curls, loosened them into more
 
 numerous and flowing ringlets. Then she went on with vivacity:
 
-
-
 “Rosalie, I was coming to tell you to go instantly and close the windows
 
 of the salon; the [[Wind|wind]] is rising, and the muslin curtains will be
 
 covered with [[Dust|dust]].”
-
-
 
 Rosalie departed. “Now,” thought I, “this will not do; Mdlle. Reuter
 
@@ -532,13 +464,9 @@ two of plain [[Truth|truth]]. “The rough-shod foot treads most firmly on slipp
 
 ground,” thought I; so I began:
 
-
-
 “Mademoiselle Henri has left your establishment--been dismissed, I
 
 presume?”
-
-
 
 “Ah, I wished to have a little conversation with you, monsieur,” replied
 
@@ -550,8 +478,6 @@ minute?” And she preceded me, stepping out through the glass-door I have
 
 before mentioned.
 
-
-
 “There,” said she, when we had reached the centre of the middle alley,
 
 and when the foliage of shrubs and trees, now in their [[Summer|summer]] [[Pride|pride]],
@@ -561,8 +487,6 @@ closing behind and around us, shut out the view of the [[house]], and thus
 imparted a sense of seclusion even to this little plot of ground in the
 
 very core of a capital.
-
-
 
 “There, one feels quiet and free when there are only pear-trees and
 
@@ -580,11 +504,7 @@ propre, tout entouree de champs et de bois; quelle vie charmante que la
 
 vie champetre! N’est-ce pas, monsieur?”
 
-
-
 “Cela depend, mademoiselle.”
-
-
 
 “Que le vent est bon et frais!” continued the directress; and she was
 
@@ -600,11 +520,7 @@ Mdlle. Reuter, my heart was still hot within me, and while I was musing
 
 the [[Fire|fire]] burned; then spake I with my tongue:--
 
-
-
 “I understand Mdlle. Henri is gone from hence, and will not return?”
-
-
 
 “Ah, true! I meant to have named the subject to you some days ago, but
 
@@ -614,15 +530,11 @@ have you never experienced what it is, monsieur, to find the day too
 
 short by twelve hours for your numerous duties?”
 
-
-
 “Not often. Mdlle. Henri’s departure was not voluntary, I presume? If it
 
 had been, she would certainly have given me some intimation of it, being
 
 my pupil.”
-
-
 
 “Oh, did she not tell you? that was strange; for my part, I never
 
@@ -632,13 +544,9 @@ attend to, one is apt to forget little incidents that are not of primary
 
 importance.”
 
-
-
 “You consider Mdlle. Henri’s dismission, then, as a very insignificant
 
 event?”
-
-
 
 “Dismission? Ah! she was not dismissed; I can say with [[Truth|truth]], monsieur,
 
@@ -646,11 +554,7 @@ that since I became the head of this establishment no master or teacher
 
 has ever been dismissed from it.”
 
-
-
 “Yet some have left it, mademoiselle?”
-
-
 
 “Many; I have found it necessary to change frequently--a change of
 
@@ -660,13 +564,9 @@ life and variety to the proceedings; it amuses the pupils, and suggests
 
 to the parents the idea of exertion and progress.”
 
-
-
 “Yet when you are tired of a professor or maitresse, you scruple to
 
 dismiss them?”
-
-
 
 “No need to have recourse to such extreme measures, I assure you.
 
@@ -708,11 +608,7 @@ her blue eye glittered upon me--it did not flash--nothing of flame ever
 
 kindled in its temperate gleam.
 
-
-
 “Monsieur fears to sit by me?” she inquired playfully.
-
-
 
 “I have no wish to usurp Pelet’s place,” I answered, for I had got the
 
@@ -728,11 +624,7 @@ flutters in its cage, and would fain fly from its jail and jailer, and
 
 seek its natural mate and pleasant nest.
 
-
-
 “[[Well]]--and your lesson?” I demanded briefly.
-
-
 
 “Ah!” she exclaimed, recovering herself, “you are so young, so frank
 
@@ -746,8 +638,6 @@ that before, for there is delicacy as [[Well|well]] as power in your
 
 character--policy, as [[Well|well]] as [[Pride|pride]]?”
 
-
-
 “Go on,” said I; and I could hardly help smiling, the flattery was so
 
 piquant, so finely seasoned. She caught the prohibited smile, though I
@@ -757,8 +647,6 @@ passed my hand over my month to conceal it; and again she made room for
 me to sit beside her. I shook my head, though [[Temptation|temptation]] penetrated to
 
 my senses at the moment, and once more I told her to go on.
-
-
 
 “[[Well]], then, if ever you are at the head of a large establishment,
 
@@ -777,8 +665,6 @@ archness, more deference, a spicy dash of coquetry, an unveiled
 consciousness of capacity. I nodded; she treated me like the great
 
 Mogul; so I became the great Mogul as far as she was concerned.
-
-
 
 “I like, monsieur, to take my knitting in my hands, and to sit quietly
 
@@ -814,8 +700,6 @@ stumbling-block removed--and no one saw me: I have not made an enemy, I
 
 am rid of an incumbrance.”
 
-
-
 A moment since, and I thought her alluring; this speech concluded, I
 
 looked on her with distaste. “Just like you,” was my cold answer.
@@ -823,8 +707,6 @@ looked on her with distaste. “Just like you,” was my cold answer.
 “And in this way you have ousted Mdlle. Henri? You wanted her office,
 
 therefore you rendered it intolerable to her?”
-
-
 
 “Not at all, monsieur, I was merely anxious about Mdlle. Henri’s health;
 
@@ -842,13 +724,9 @@ than teach sewing. I reasoned with her; left the decision to herself;
 
 she saw the correctness of my views, and adopted them.”
 
-
-
 “Excellent! and now, mademoiselle, you will have the goodness to give me
 
 her address.”
-
-
 
 “Her address!” and a sombre and stony change came over the mien of
 
@@ -866,8 +744,6 @@ abode; her means were narrow, her origin obscure; she lives somewhere,
 
 doubtless, in the ‘basse ville.’”
 
-
-
 “I’ll not lose sight of my best pupil yet,” said I, “though she were
 
 born of beggars and lodged in a cellar; for the rest, it is absurd to
@@ -879,8 +755,6 @@ Swiss pastor’s daughter, neither more nor less; and, as to her narrow
 means, I care nothing for the [[Poverty|poverty]] of her purse so long as her heart
 
 overflows with affluence.”
-
-
 
 “Your sentiments are perfectly noble, monsieur,” said the directress,
 

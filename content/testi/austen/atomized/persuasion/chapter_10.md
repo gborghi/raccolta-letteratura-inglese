@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 10"
+title: "Persuasion — Chapter 10"
 author: "Austen"
 unitType: chapter
 parentWork: "works/persuasion-(austen)"
@@ -238,7 +238,7 @@ scenes of [[Autumn|autumn]] were for a while put by, unless some tender [[Sonnet
 
 fraught with the apt analogy of the declining year, with declining
 
-happiness, and the images of youth and [[Hope|hope]], and [[spring]], all gone
+happiness, and the images of youth and [[Hope|hope]], and [[Spring|spring]], all gone
 
 together, blessed her [[Memory|memory]]. She roused herself to say, as they struck
 
@@ -256,7 +256,7 @@ another half mile of gradual ascent through large enclosures, where the
 
 ploughs at work, and the fresh made path spoke the farmer counteracting
 
-the sweets of poetical despondence, and meaning to have [[spring]] again,
+the sweets of poetical despondence, and meaning to have [[Spring|spring]] again,
 
 they gained the summit of the most considerable [[Hill|hill]], which parted
 

@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 22 (part 4)"
+title: "Shirley — Chapter 22 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,30 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_22/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_23/part_01">part 01 ›</a></div>
 </nav>
 
+
+irreligious or sacrilegious. My consolation is, indeed, that God hears
+
+many a groan, and compassionates much grief which man stops his ears
+
+against, or frowns on with impotent contempt. I say _impotent_, for I
+
+observe that to such grievances as society cannot readily cure it
+
+usually forbids utterance, on [[Pain|pain]] of its scorn, this scorn being only a
+
+sort of tinselled cloak to its deformed weakness. People hate to be
+
+reminded of ills they are unable or unwilling to remedy. Such reminder,
+
+in forcing on them a sense of their own incapacity, or a more painful
+
+sense of an obligation to make some unpleasant effort, troubles their
+
+ease and shakes their [[Self|self]]-complacency. Old maids, like the houseless
+
+and unemployed poor, should not ask for a place and an occupation in the
+
+world; the demand disturbs the happy and rich--it disturbs parents. Look
 
 at the numerous families of girls in this neighbourhood--the Armitages,
 

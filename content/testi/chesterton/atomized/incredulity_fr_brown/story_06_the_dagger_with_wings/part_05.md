@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The Dagger with Wings (part 5)"
+title: "incredulity Fr Brown — The Dagger with Wings (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity_fr_brown/story_06_the_dagger_with_wings/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity_fr_brown/story_06_the_dagger_with_wings/part_06">part 06 ›</a></div>
 </nav>
 
+
+Aylmer half started from his chair with an enthusiasm of eager assent.
+
+'By God! you are right,' he cried. 'A refined intellectual face! That is
+the face of John Strake.'
+
+Then he raised himself and stood looking at the priest with a curious
+concentration. 'If you will wait here a little while,' he said, 'I will
+show you something.'
 
 He went back through the central door, closing it after him; going, the
 priest presumed, to the old sideboard or possibly to his bedroom. Father
@@ -121,12 +130,3 @@ brandy after plunging his hand rather blindly into several cupboards and
 corners. He did not at any [[Time|time]] look like a methodical person, but at
 this moment his distraction must have been extreme. He drank with a long
 gulp and began to talk rather feverishly, as if to fill up a [[Silence|silence]].
-
-'I see you are still doubtful,' he said, 'though you have seen the thing
-with your own eyes. Believe me, there was something more behind the
-quarrel between the spirit of Strake and the spirit of the [[house]] of
-Aylmer. Besides, you have no business to be an unbeliever. You ought to
-stand for all the things these stupid people call superstitions. Come
-now, don't you think there's a lot in those old wives' tales about luck
-and charms and so on, silver bullets included? What do you say about
-them as a Catholic?'

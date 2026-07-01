@@ -1,5 +1,5 @@
 ---
-title: "[[TheCrimesOfEngland]] — Chapter 10 (part 24)"
+title: "TheCrimesOfEngland — Chapter 10 (part 24)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thecrimesofengland-(chesterton)"
@@ -13,6 +13,140 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thecrimesofengland/chapter_10/part_23">‹ part 23</a><a class="ex-next" href="/testi/chesterton/atomized/thecrimesofengland/chapter_10/part_25">part 25 ›</a></div>
 </nav>
 
+
+always painting and repainting France like a [[house]]. No state of social
+
+good that does not mean the Citizen _choosing_ good, as [[Well|well]] as getting
+
+it, has the idea of the Citizen at all. To say the Germanies are
+
+naturally at war with this idea is merely to respect them and take them
+
+seriously: otherwise their war on the [[French Revolution]] would be only an
+
+ignorant feud. It is this, to them, risky and fanciful notion of the
+
+critical and creative Citizen, which in 1870 lay prostrate under United
+
+[[Germany]]--under the undivided hoof.
+
+Nevertheless, when the German says he has or loves [[Freedom|freedom]], what he says
+
+is not false. He means something; and what he means is the second
+
+principle, which I may summarise as the Irresponsibility of Thought.
+
+Within the iron framework of the fixed State, the German has not only
+
+liberty but anarchy. Anything can be said although, or rather because,
+
+nothing can be done. [[philosophy|Philosophy]] is really free. But this practically
+
+means only that the prisoner's cell has become the madman's cell: that
+
+it is scrawled all over inside with [[Stars|stars]] and systems, so that it looks
+
+like [[Eternity|eternity]]. This is the contradiction remarked by Dr. Sarolea, in his
+
+brilliant book, between the wildness of German theory and the tameness
+
+of German practice. The Germans _sterilise_ thought, making it active
+
+with a wild virginity; which can bear no fruit.
+
+But though there are so many mad theories, most of them have one root;
+
+and depend upon one assumption. It matters little whether we call it,
+
+with the German Socialists, "the Materialist Theory of [[history|History]]"; or,
+
+with Bismarck, "[[Blood|blood]] and iron." It can be put most fairly thus: that
+
+all _important_ events of [[history]] are biological, like a change of
+
+pasture or the communism of a pack of wolves. Professors are still
+
+tearing their hair in the effort to prove somehow that the Crusaders
+
+were migrating for food like swallows; or that the French Revolutionists
+
+were somehow only swarming like [[Bees|bees]]. This works in two ways often
+
+accounted opposite; and explains both the German Socialist and the
+
+Junker. For, first, it fits in with Teutonic Imperialism; making the
+
+"blonde beasts" of Germania into lions whose [[Nature|nature]] it is to eat such
+
+lambs as the French. The highest [[success]] of this notion in Europe is
+
+marked by praise given to a race famous for its physical firmness and
+
+fighting breed, but which has frankly pillaged and scarcely pretended
+
+to rule; the Turk, whom some Tories called "the gentleman of Europe."
+
+The Kaiser paused to adore the Crescent on his way to patronise the
+
+[[Cross]]. It was corporately embodied when Greece attempted a solitary
+
+adventure against Turkey and was quickly crushed. That English guns
+
+helped to impose the mainly Germanic policy of the Concert upon Crete,
+
+cannot be left out of mind while we are making appeals to Greece--or
+
+considering the crimes of England.
+
+But the same principle serves to keep the internal politics of the
+
+Germans quiet, and prevent Socialism being the practical [[Hope|hope]] or peril
+
+it has been in so many other countries. It operates in two ways; first,
+
+by a curious fallacy about "the [[Time|time]] not being ripe"--as if _time_ could
+
+ever be ripe. The same savage superstition from the forests had infected
+
+Matthew Arnold pretty badly when he made a personality out of the
+
+Zeitgeist--perhaps the only [[Ghost|ghost]] that was ever entirely fabulous. It is
+
+tricked by a biological parallel, by which the chicken always comes out
+
+of the egg "at the right [[Time|time]]." He does not; he comes out when he comes
+
+out. The Marxian Socialist will not strike till the [[Clock|clock]] strikes; and
+
+the [[Clock|clock]] is made in [[Germany]], and never strikes. Moreover, the theory of
+
+all [[history]] as a search for food makes the masses content with having
+
+food and physic, but not [[Freedom|freedom]]. The best working model in the matter
+
+is the system of Compulsory Insurance; which was a total failure and
+
+dead letter in France but has been, in the German sense, a great [[success]]
+
+in [[Germany]]. It treats employed persons as a fixed, separate, and lower
+
+caste, who must not themselves dispose of the margin of their small
+
+wages. In 1911 it was introduced into England by Mr. Lloyd George, who
+
+had studied its operations in [[Germany]], and, by the Prussian prestige in
+
+"social [[Reform|reform]]," was passed.
+
+These three tendencies cohere, or are cohering, in an institution which
+
+is not without a great historical basis and not without great modern
+
+conveniences. And as France was the standard-bearer of citizenship in
+
+1798, [[Germany]] is the standard-bearer of this alternative solution in
+
+1915. The institution which our fathers called [[Slavery]] fits in with, or
 
 rather logically flows from, all the three spirits of which I have
 
@@ -45,157 +179,3 @@ rather than bad. When I once pointed out how precisely the "model
 village" of a great employer reproduces the safety and seclusion of an
 
 old slave estate, the employer thought it quite enough to answer
-
-indignantly that he had provided baths, playing-grounds, a theatre,
-
-etc., for his workers. He would probably have thought it odd to hear a
-
-planter in South Carolina boast that he had provided banjos, [[Hymn|hymn]]-books,
-
-and places suitable for the cake-walk. Yet the planter must have
-
-provided the banjos, for a slave cannot own property. And if this
-
-Germanic sociology is indeed to prevail among us, I think some of the
-
-broad-minded thinkers who concur in its prevalence owe something like an
-
-apology to many gallant gentlemen whose graves lie where the last battle
-
-was fought in the Wilderness; men who had the [[Courage|courage]] to fight for it,
-
-the [[Courage|courage]] to die for it and, above all, the [[Courage|courage]] to call it by its
-
-name.
-
-
-
-With the acceptance by England of the German Insurance Act, I bring this
-
-[[Sketch|sketch]] of the past relations of the two countries to an end. I have
-
-written this book because I wish, once and for all, to be done with my
-
-friend Professor Whirlwind of Prussia, who has long despaired of really
-
-defending his own country, and has fallen back upon abusing mine. He has
-
-dropped, amid general derision, his attempt to call a thing right when
-
-even the Chancellor who did it called it wrong. But he has an idea that
-
-if he can show that somebody from England somewhere did another wrong,
-
-the two wrongs may make a right. Against the cry of the Roman Catholic
-
-Poles the Prussian has never done, or even pretended to do, anything but
-
-harden his heart; but he has (such are the lovable inconsistencies of
-
-human [[Nature|nature]]) a warm corner in his heart for the Roman Catholic Irish.
-
-He has not a word to say for himself about the campaign in Belgium, but
-
-he still has many wise, reproachful words to utter about the campaign in
-
-South Africa. I propose to take those words out of his mouth. I will
-
-have nothing to do with the fatuous front-bench pretensions that our
-
-governors always govern [[Well|well]], that our statesmen are never whitewashed
-
-and never in need of whitewash. The only moral superiority I claim is
-
-that of not defending the indefensible. I most earnestly urge my
-
-countrymen not to hide behind thin official excuses, which the sister
-
-kingdoms and the subject races can easily see through. We can confess
-
-that our crimes have been as [[Mountains|mountains]], and still not be afraid of the
-
-present comparison. There may be, in the eyes of some, a risk in
-
-dwelling in this dark hour on our failures in the past: I believe
-
-profoundly that the risk is all the other way. I believe that the most
-
-deadly danger to our arms to-day lies in any whiff of that [[Self|self]]-praise,
-
-any flavour of that moral cowardice, any glimpse of that impudent and
-
-ultimate impenitence, that may make one Boer or Scot or Welshman or
-
-Irishman or Indian feel that he is only smoothing the path for a second
-
-Prussia. I have passed the great part of my life in criticising and
-
-condemning the existing rulers and institutions of my country: I think
-
-it is infinitely the most patriotic thing that a man can do. I have no
-
-illusions either about our past or our present. _I_ think our whole
-
-[[history]] in Ireland has been a vulgar and ignorant hatred of the
-
-crucifix, expressed by a crucifixion. I think the South African War was
-
-a dirty work which we did under the whips of moneylenders. I think
-
-Mitchelstown was a disgrace; I think Denshawi was a devilry.
-
-
-
-Yet there is one part of life and [[history]] in which I would assert the
-
-absolute spotlessness of England. In one department we wear a robe of
-
-white and a halo of [[innocence]]. Long and weary as may be the records of
-
-our wickedness, in one direction we have done nothing but good. Whoever
-
-we may have wronged, we have never wronged [[Germany]]. Again and again we
-
-have dragged her from under the just vengeance of her enemies, from the
-
-holy anger of [[Maria]] Teresa, from the impatient and contemptuous common
-
-sense of Napoleon. We have kept a ring fence around the Germans while
-
-they sacked [[Denmark]] and dismembered France. And if we had served our God
-
-as we have served _their_ kings, there would not be to-day one remnant
-
-of them in our path, either to slander or to slay us.
-
-
-
-
-
-
-
-IX--_The Awakening of England_
-
-
-
-
-
-In October 1912 silent and seemingly uninhabited crags and chasms in the
-
-high western region of the Balkans echoed and re-echoed with a single
-
-shot. It was fired by the hand of a [[King|king]]--real [[King|king]], who sat listening
-
-to his people in front of his own [[house]] (for it was hardly a palace),
-
-and who, in consequence of his listening to the people, not unfrequently
-
-imprisoned the politicians. It is said of him that his great respect for
-
-Gladstone as the western advocate of Balkan [[Freedom|freedom]] was slightly
-
-shadowed by the fact that Gladstone did not succeed in effecting the
-
-bodily capture of Jack the Ripper. This simple monarch knew that if a
-
-malefactor were the terror of the mountain hamlets, his subjects would

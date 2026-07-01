@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 15 (part 2)"
+title: "Our Mutual Friend — Chapter 1 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,129 +14,139 @@ tags:
 </nav>
 
 
-‘I said,’ he began, ‘when I saw you last, that there was something
-unexplained, which might perhaps influence you. I have come this evening
-to explain it. I [[Hope|hope]] you will not judge of me by my hesitating manner
-when I speak to you. You see me at my greatest disadvantage. It is most
-unfortunate for me that I wish you to see me at my best, and that I know
-you see me at my worst.’
+‘Now!’ said Fledgeby. ‘Fork out your balance in hand, and prove by
+figures how you make it out that it ain’t more. First of all, light that
+candle.’
 
-She moved slowly on when he paused, and he moved slowly on beside her.
+Riah obeyed, and then taking a bag from his breast, and referring to
+the sum in the accounts for which they made him responsible, told it out
+upon the table. Fledgeby told it again with great care, and rang every
+sovereign.
 
-‘It seems egotistical to begin by saying so much about myself,’ he
-resumed, ‘but whatever I say to you seems, even in my own ears, below
-what I want to say, and different from what I want to say. I can’t help
-it. So it is. You are the ruin of me.’
+‘I suppose,’ he said, taking one up to eye it closely, ‘you haven’t been
+lightening any of these; but it’s a trade of your people’s, you know.
+YOU understand what sweating a pound means, don’t you?’
 
-She started at the passionate sound of the last words, and at the
-passionate action of his hands, with which they were accompanied.
+‘Much as you do, sir,’ returned the old man, with his hands under
+opposite cuffs of his loose sleeves, as he stood at the table,
+deferentially observant of the master’s face. ‘May I take the liberty to
+say something?’
 
-‘Yes! you are the ruin—the ruin—the ruin—of me. I have no resources
-in myself, I have no confidence in myself, I have no [[government]] of
-myself when you are near me or in my thoughts. And you are always in my
-thoughts now. I have never been quit of you since I first saw you. Oh,
-that was a wretched day for me! That was a wretched, miserable day!’
+‘You may,’ Fledgeby graciously conceded.
 
-A touch of pity for him mingled with her dislike of him, and she said:
-‘Mr Headstone, I am grieved to have done you any harm, but I have never
-meant it.’
+‘Do you not, sir—without intending it—of a surety without intending
+it—sometimes mingle the character I fairly earn in your employment,
+with the character which it is your policy that I should bear?’
 
-‘There!’ he cried, despairingly. ‘Now, I seem to have reproached you,
-instead of revealing to you the state of my own mind! Bear with me. I am
-always wrong when you are in question. It is my doom.’
+‘I don’t find it worth my while to cut things so fine as to go into the
+inquiry,’ Fascination coolly answered.
 
-Struggling with himself, and by times looking up at the deserted windows
-of the houses as if there could be anything written in their grimy panes
-that would help him, he paced the whole pavement at her side, before he
-spoke again.
+‘Not in justice?’
 
-‘I must try to give expression to what is in my mind; it shall and must
-be spoken. Though you see me so confounded—though you strike me so
-helpless—I ask you to believe that there are many people who think [[Well|well]]
-of me; that there are some people who highly esteem me; that I have in
-my way won a Station which is considered worth winning.’
+‘Bother justice!’ said Fledgeby.
 
-‘Surely, Mr Headstone, I do believe it. Surely I have always known it
-from Charley.’
+‘Not in generosity?’
 
-‘I ask you to believe that if I were to offer my [[Home|home]] such as it is, my
-station such as it is, my affections such as they are, to any one of the
-best considered, and best qualified, and most distinguished, among the
-young women engaged in my calling, they would probably be accepted. Even
-readily accepted.’
+‘Jews and generosity!’ said Fledgeby. ‘That’s a good connexion! Bring
+out your vouchers, and don’t talk Jerusalem palaver.’
 
-‘I do not [[Doubt|doubt]] it,’ said Lizzie, with her eyes upon the ground.
+The vouchers were produced, and for the next half-hour Mr Fledgeby
+concentrated his [[Sublime|sublime]] attention on them. They and the accounts were
+all found correct, and the books and the papers resumed their places in
+the bag.
 
-‘I have sometimes had it in my thoughts to make that offer and to settle
-down as many men of my class do: I on the one side of a school, my wife
-on the other, both of us interested in the same work.’
+‘Next,’ said Fledgeby, ‘concerning that bill-broking branch of the
+business; the branch I like best. What queer bills are to be bought, and
+at what prices? You have got your list of what’s in the market?’
 
-‘Why have you not done so?’ asked [[Lizzie Hexam]]. ‘Why do you not do so?’
+‘Sir, a long list,’ replied Riah, taking out a pocket-book, and
+selecting from its contents a folded paper, which, being unfolded,
+became a sheet of foolscap covered with close writing.
 
-‘Far better that I never did! The only one grain of comfort I have had
-these many weeks,’ he said, always speaking passionately, and, when
-most emphatic, repeating that former action of his hands, which was
-like flinging his heart’s [[Blood|blood]] down before her in drops upon the
-pavement-stones; ‘the only one grain of comfort I have had these many
-weeks is, that I never did. For if I had, and if the same spell had come
-upon me for my ruin, I know I should have broken that tie asunder as if
-it had been thread.’
+‘Whew!’ whistled Fledgeby, as he took it in his hand. ‘Queer Street is
+full of lodgers just at present! These are to be disposed of in parcels;
+are they?’
 
-She glanced at him with a glance of [[Fear|fear]], and a shrinking gesture. He
-answered, as if she had spoken.
+‘In parcels as set forth,’ returned the old man, looking over his
+master’s shoulder; ‘or the lump.’
 
-‘No! It would not have been voluntary on my part, any more than it is
-voluntary in me to be here now. You draw me to you. If I were shut up in
-a strong [[Prison|prison]], you would draw me out. I should break through the wall
-to come to you. If I were lying on a sick bed, you would draw me up—to
-stagger to your feet and fall there.’
+‘Half the lump will be waste-paper, one knows beforehand,’ said
+Fledgeby. ‘Can you get it at waste-paper price? That’s the question.’
 
-The wild energy of the man, now quite let loose, was absolutely
-terrible. He stopped and laid his hand upon a piece of the coping of the
-burial-ground enclosure, as if he would have dislodged the stone.
+Riah shook his head, and Fledgeby cast his small eyes down the list.
+They presently began to twinkle, and he no sooner became conscious of
+their twinkling, than he looked up over his shoulder at the [[Grave|grave]] face
+above him, and moved to the chimney-piece. Making a desk of it, he stood
+there with his back to the old man, warming his knees, perusing the list
+at his leisure, and often returning to some lines of it, as though
+they were particularly interesting. At those times he glanced in the
+chimney-glass to see what note the old man took of him. He took none
+that could be detected, but, aware of his employer’s suspicions, stood
+with his eyes on the ground.
 
-‘No man knows till the [[Time|time]] comes, what depths are within him. To some
-men it never comes; let them rest and be thankful! To me, you brought
-it; on me, you forced it; and the [[Bottom|bottom]] of this raging sea,’ striking
-himself upon the breast, ‘has been heaved up ever since.’
+Mr Fledgeby was thus amiably engaged when a step was heard at the outer
+door, and the door was heard to open hastily. ‘Hark! That’s your doing,
+you Pump of Israel,’ said Fledgeby; ‘you can’t have shut it.’ Then the
+step was heard within, and the voice of Mr Alfred Lammle called aloud,
+‘Are you anywhere here, Fledgeby?’ To which Fledgeby, after cautioning
+Riah in a low voice to take his cue as it should be given him, replied,
+‘Here I am!’ and opened his bedroom door.
 
-‘Mr Headstone, I have heard enough. Let me stop you here. It will be
-better for you and better for me. Let us find my brother.’
+‘Come in!’ said Fledgeby. ‘This gentleman is only Pubsey and Co. of
+Saint Mary Axe, that I am trying to make terms for an unfortunate friend
+with in a matter of some dishonoured bills. But really Pubsey and Co.
+are so strict with their debtors, and so hard to move, that I seem to be
+wasting my [[Time|time]]. Can’t I make ANY terms with you on my friend’s part, Mr
+Riah?’
 
-‘Not yet. It shall and must be spoken. I have been in torments ever
-since I stopped short of it before. You are alarmed. It is another of my
-miseries that I cannot speak to you or speak of you without stumbling at
-every syllable, unless I let the check go altogether and run mad. Here
-is a man lighting the lamps. He will be gone directly. I entreat of you
-let us walk round this place again. You have no reason to look alarmed;
-I can restrain myself, and I will.’
+‘I am but the representative of another, sir,’ returned the Jew in a low
+voice. ‘I do as I am bidden by my principal. It is not my capital that
+is invested in the business. It is not my profit that arises therefrom.’
 
-She yielded to the entreaty—how could she do otherwise!—and they paced
-the stones in [[Silence|silence]]. One by one the lights leaped up making the cold
-grey church tower more remote, and they were [[Alone|alone]] again. He said no
-more until they had regained the spot where he had broken off; there, he
-again stood still, and again grasped the stone. In saying what he said
-then, he never looked at her; but looked at it and wrenched at it.
+‘Ha ha!’ laughed Fledgeby. ‘Lammle?’
 
-‘You know what I am going to say. I [[Love|love]] you. What other men may mean
-when they use that expression, I cannot tell; what I mean is, that I am
-under the influence of some tremendous attraction which I have resisted
-in vain, and which overmasters me. You could draw me to [[Fire|fire]], you could
-draw me to [[Water|water]], you could draw me to the gallows, you could draw me to
-any [[Death|death]], you could draw me to anything I have most avoided, you could
-draw me to any exposure and disgrace. This and the confusion of my
-thoughts, so that I am fit for nothing, is what I mean by your being the
-ruin of me. But if you would return a favourable answer to my offer
-of myself in [[Marriage|marriage]], you could draw me to any good—every good—with
-equal force. My circumstances are quite easy, and you would want for
-nothing. My reputation stands quite high, and would be a shield for
-yours. If you saw me at my work, able to do it [[Well|well]] and respected in
-it, you might even come to take a sort of [[Pride|pride]] in me;—I would try hard
-that you should. Whatever considerations I may have thought of against
-this offer, I have conquered, and I make it with all my heart. Your
-brother favours me to the utmost, and it is likely that we might live
-and work together; anyhow, it is certain that he would have my best
-influence and support. I don’t know what I could say more if I tried. I
-might only weaken what is ill enough said as it is. I only add that
-if it is any claim on you to be in earnest, I am in thorough earnest,
-dreadful earnest.’
+‘Ha ha!’ laughed Lammle. ‘Yes. Of course. We know.’
+
+‘Devilish good, ain’t it, Lammle?’ said Fledgeby, unspeakably amused by
+his hidden joke.
+
+‘Always the same, always the same!’ said Lammle. ‘Mr—’
+
+‘Riah, Pubsey and Co. Saint Mary Axe,’ Fledgeby put in, as he wiped away
+the [[Tears|tears]] that trickled from his eyes, so rare was his enjoyment of his
+secret joke.
+
+‘Mr Riah is bound to observe the invariable forms for such cases made
+and provided,’ said Lammle.
+
+‘He is only the representative of another!’ cried Fledgeby. ‘Does as
+he is told by his principal! Not his capital that’s invested in the
+business. Oh, that’s good! Ha ha ha ha!’ Mr Lammle joined in the laugh
+and looked knowing; and the more he did both, the more exquisite the
+secret joke became for Mr Fledgeby.
+
+‘However,’ said that fascinating gentleman, wiping his eyes again, ‘if
+we go on in this way, we shall seem to be almost making game of Mr Riah,
+or of Pubsey and Co. Saint Mary Axe, or of somebody: which is far from
+our intention. Mr Riah, if you would have the kindness to step into the
+next room for a few moments while I speak with Mr Lammle here, I should
+like to try to make terms with you once again before you go.’
+
+The old man, who had never raised his eyes during the whole transaction
+of Mr Fledgeby’s joke, silently bowed and passed out by the door which
+Fledgeby opened for him. Having closed it on him, Fledgeby returned to
+Lammle, standing with his back to the bedroom [[Fire|fire]], with one hand under
+his coat-skirts, and all his whiskers in the other.
+
+‘Halloa!’ said Fledgeby. ‘There’s something wrong!’
+
+‘How do you know it?’ demanded Lammle.
+
+‘Because you show it,’ replied Fledgeby in unintentional rhyme.
+
+‘[[Well]] then; there is,’ said Lammle; ‘there IS something wrong; the whole
+thing’s wrong.’
+
+‘I say!’ remonstrated Fascination very slowly, and sitting down with his
+hands on his knees to stare at his glowering friend with his back to the
+[[Fire|fire]].

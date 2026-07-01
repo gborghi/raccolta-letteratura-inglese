@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 13 (part 1)"
+title: "Great Expectations — Chapter 13 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -135,16 +135,3 @@ five-and-twenty guineas in this bag. Give it to your master, Pip.”
 As if he were absolutely out of his mind with the [[Wonder|wonder]] awakened in
 him by her strange figure and the strange room, Joe, even at this pass,
 persisted in addressing me.
-
-“This is wery liberal on your part, Pip,” said Joe, “and it is as such
-received and grateful welcome, though never looked for, far nor near,
-nor nowheres. And now, old chap,” said Joe, conveying to me a
-sensation, first of burning and then of freezing, for I felt as if that
-familiar expression were applied to [[Miss Havisham]],—“and now, old chap,
-may we do our duty! May you and me do our duty, both on us, by one and
-another, and by them which your liberal present—have-conweyed—to be—for
-the satisfaction of mind-of—them as never—” here Joe showed that he
-felt he had fallen into frightful difficulties, until he triumphantly
-rescued himself with the words, “and from myself far be it!” These
-words had such a round and convincing sound for him that he said them
-twice.

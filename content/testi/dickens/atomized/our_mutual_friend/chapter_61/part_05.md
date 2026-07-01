@@ -1,0 +1,140 @@
+---
+title: "Our Mutual Friend — Chapter 6 (part 5)"
+author: "Dickens"
+unitType: excerpt
+parentWork: "works/our-mutual-friend-(dickens)"
+tags:
+  - graph/excerpt
+  - author/Dickens
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_61/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_62/part_01">part 01 ›</a></div>
+</nav>
+
+
+At length, she reached a part of the green bank, much and newly trodden,
+where there lay some broken splintered pieces of wood and some torn
+fragments of clothes. Stooping, she saw that the grass was bloody.
+Following the drops and smears, she saw that the watery margin of the
+bank was bloody. Following the current with her eyes, she saw a bloody
+face turned up towards the [[Moon|moon]], and drifting away.
+
+Now, merciful Heaven be thanked for that old [[Time|time]], and grant, O Blessed
+Lord, that through thy wonderful workings it may turn to good at last!
+To whomsoever the drifting face belongs, be it man’s or woman’s, help
+my humble hands, Lord God, to raise it from [[Death|death]] and restore it to some
+one to whom it must be dear!
+
+It was thought, fervently thought, but not for a moment did the [[prayer]]
+check her. She was away before it welled up in her mind, away, swift
+and true, yet steady above all—for without steadiness it could never
+be done—to the landing-place under the willow-tree, where she also had
+seen the boat lying moored among the stakes.
+
+A sure touch of her old practised hand, a sure step of her old practised
+foot, a sure light balance of her [[Body|body]], and she was in the boat. A
+quick glance of her practised eye showed her, even through the deep dark
+[[Shadow|shadow]], the sculls in a rack against the red-brick [[Garden|garden]]-wall. Another
+moment, and she had cast off (taking the line with her), and the boat
+had shot out into the moonlight, and she was rowing down the stream as
+never other woman rowed on English [[Water|water]].
+
+Intently over her shoulder, without slackening [[Speed|speed]], she looked ahead
+for the driving face. She passed the scene of the struggle—yonder it
+was, on her left, [[Well|well]] over the boat’s stern—she passed on her right,
+the end of [[The Village Street|the village street]], a hilly street that almost dipped into
+the [[River|river]]; its sounds were growing faint again, and she slackened;
+looking as the boat drove, everywhere, everywhere, for the floating
+face.
+
+She merely kept the boat before the stream now, and rested on her oars,
+knowing [[Well|well]] that if the face were not soon visible, it had gone down,
+and she would overshoot it. An untrained sight would never have seen by
+the moonlight what she saw at the length of a few strokes astern. She
+saw the drowning figure rise to the surface, slightly struggle, and as
+if by instinct turn over on its back to float. Just so had she first
+dimly seen the face which she now dimly saw again.
+
+Firm of look and firm of purpose, she intently watched its coming on,
+until it was very near; then, with a touch unshipped her sculls, and
+crept aft in the boat, between kneeling and crouching. Once, she let the
+[[Body|body]] evade her, not being sure of her grasp. Twice, and she had seized
+it by its bloody hair.
+
+It was insensible, if not virtually dead; it was mutilated, and streaked
+the [[Water|water]] all about it with dark red streaks. As it could not help
+itself, it was impossible for her to get it on board. She bent over the
+stern to secure it with the line, and then the [[River|river]] and its shores rang
+to the terrible cry she uttered.
+
+But, as if possessed by [[Supernatural|supernatural]] spirit and strength, she lashed
+it safe, resumed her seat, and rowed in, desperately, for the nearest
+shallow [[Water|water]] where she might run the boat aground. Desperately, but not
+wildly, for she knew that if she lost distinctness of intention, all was
+lost and gone.
+
+She ran the boat ashore, went into the [[Water|water]], released him from the
+line, and by main strength lifted him in her arms and laid him in the
+[[Bottom|bottom]] of the boat. He had fearful wounds upon him, and she bound them
+up with her dress torn into strips. Else, supposing him to be still
+alive, she foresaw that he must bleed to [[Death|death]] before he could be landed
+at his inn, which was the nearest place for succour.
+
+This done very rapidly, she kissed his disfigured forehead, looked up
+in anguish to the [[Stars|stars]], and blessed him and forgave him, ‘if she had
+anything to forgive.’ It was only in that instant that she thought of
+herself, and then she thought of herself only for him.
+
+Now, merciful Heaven be thanked for that old [[Time|time]], enabling me, without
+a wasted moment, to have got the boat afloat again, and to row back
+against the stream! And grant, O Blessed Lord God, that through poor me
+he may be raised from [[Death|death]], and preserved to some one else to whom he
+may be dear one day, though never dearer than to me!
+
+She rowed hard—rowed desperately, but never wildly—and seldom removed
+her eyes from him in the [[Bottom|bottom]] of the boat. She had so laid him there,
+as that she might see his disfigured face; it was so much disfigured
+that his mother might have covered it, but it was above and beyond
+disfigurement in her eyes.
+
+The boat touched the edge of the patch of inn lawn, sloping gently to
+the [[Water|water]]. There were lights in the windows, but there chanced to be
+no one out of doors. She made the boat fast, and again by main strength
+took him up, and never laid him down until she laid him down in the
+[[house]].
+
+Surgeons were sent for, and she sat supporting his head. She had
+oftentimes heard in days that were gone, how doctors would lift the hand
+of an insensible wounded person, and would drop it if the person were
+dead. She waited for the awful moment when the doctors might lift this
+hand, all broken and bruised, and let it fall.
+
+The first of the surgeons came, and asked, before proceeding to his
+examination, ‘Who brought him in?’
+
+‘I brought him in, sir,’ answered Lizzie, at whom all present looked.
+
+‘You, my dear? You could not lift, far less carry, this weight.’
+
+‘I think I could not, at another [[Time|time]], sir; but I am sure I did.’
+
+The surgeon looked at her with great attention, and with some
+compassion. Having with a [[Grave|grave]] face touched the wounds upon the head,
+and the broken arms, he took the hand.
+
+O! would he let it drop?
+
+He appeared irresolute. He did not retain it, but laid it gently down,
+took a candle, looked more closely at the injuries on the head, and at
+the pupils of the eyes. That done, he replaced the candle and took the
+hand again. Another surgeon then coming in, the two exchanged a whisper,
+and the second took the hand. Neither did he let it fall at once, but
+kept it for a while and laid it gently down.
+
+‘Attend to the poor girl,’ said the first surgeon then. ‘She is quite
+unconscious. She sees nothing and hears nothing. All the better for
+her! Don’t rouse her, if you can help it; only move her. Poor girl, poor
+girl! She must be amazingly strong of heart, but it is much to be feared
+that she has set her heart upon the dead. Be gentle with her.’

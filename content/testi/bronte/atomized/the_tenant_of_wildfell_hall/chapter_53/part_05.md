@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 53 (part 5)"
+title: "The Tenant of Wildfell Hall — Chapter 53 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,48 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_53/part_04">‹ part 04</a><span></span></div>
 </nav>
 
+
+circumstances; and we will live either here or elsewhere as you and she
+
+may determine, and you shall see her as often as you like. I know she
+
+must be pained to part with you, and I am willing to make any
+
+reparation in my power. I [[Love|love]] her for your sake, and her happiness
+
+shall be as dear to me as that of my own mother.”
+
+
+
+“Thank you, darling! you shall have a kiss for that. Good-by. There
+
+now—there, Gilbert—let me go—here’s [[Arthur]]; don’t astonish his
+
+infantile brain with your [[Madness|madness]].”
+
+
+
+* * * * *
+
+
+
+
+
+But it is [[Time|time]] to bring my narrative to a close. Any one but you would
+
+say I had made it too long already. But for _your_ satisfaction I will
+
+add a few words more; because I know you will have a fellow-feeling for
+
+the old lady, and will wish to know the last of her [[history]]. I did come
+
+again in [[Spring|spring]], and, agreeably [[To Helen|to Helen]]’s injunctions, did my best to
+
+cultivate her acquaintance. She received me very kindly, having been,
+
+doubtless, already prepared to think highly of my character by her
+
+niece’s too favourable report. I turned my best side out, of course,
 
 and we got along marvellously [[Well|well]] together. When my ambitious
 

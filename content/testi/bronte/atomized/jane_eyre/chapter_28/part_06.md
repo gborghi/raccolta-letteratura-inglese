@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 28 (part 6)"
+title: "Jane Eyre — Chapter 28 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,45 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_28/part_05">‹ part 05</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_29/part_01">part 01 ›</a></div>
 </nav>
 
+
+“What do you want?” she inquired, in a voice of surprise, as she
+surveyed me by the light of the candle she held.
+
+“May I speak to your mistresses?” I said.
+
+“You had better tell me what you have to say to them. Where do you come
+from?”
+
+“I am a stranger.”
+
+“What is your business here at this hour?”
+
+“I want a [[Night|night]]’s shelter in an out-[[house]] or anywhere, and a morsel of
+bread to eat.”
+
+Distrust, the very feeling I dreaded, appeared in Hannah’s face. “I’ll
+give you a piece of bread,” she said, after a pause; “but we can’t take
+in a vagrant to lodge. It isn’t likely.”
+
+“Do let me speak to your mistresses.”
+
+“No, not I. What can they do for you? You should not be roving about
+now; it looks very ill.”
+
+“But where shall I go if you drive me away? What shall I do?”
+
+“Oh, I’ll warrant you know where to go and what to do. Mind you don’t
+do wrong, that’s all. Here is a penny; now go—”
+
+“A penny cannot feed me, and I have no strength to go farther. Don’t
+shut the door:—oh, don’t, for God’s sake!”
+
+“I must; the rain is driving in—”
+
+“Tell the young ladies. Let me see them—”
+
+“Indeed, I will not. You are not what you ought to be, or you wouldn’t
+make such a noise. Move off.”
 
 “But I must die if I am turned away.”
 

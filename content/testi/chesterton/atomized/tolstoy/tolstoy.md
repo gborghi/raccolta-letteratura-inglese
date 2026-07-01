@@ -1,5 +1,5 @@
 ---
-title: "[[tolstoy]]"
+title: "tolstoy"
 author: "Chesterton"
 unitType: work
 parentWork: "works/tolstoy-(chesterton)"
@@ -189,7 +189,7 @@ For once, the second greatest of modern Russians took a narrow view
 of character and destiny.  Genius must work itself out on its own lines.
 [[tolstoy|Tolstoy]] remained a Russian from tip to toe--that is one of his
 supreme values for us; and he remained an indivisible personality.
-The [[Artist|artist]] and the moralist are inseparable in his works.
+The [[artist]] and the moralist are inseparable in his works.
 "We are not to take 'Anna Karenina' as a work of art,"
 said Matthew Arnold; "we are to take it as a piece of life."
 The distinction is not very satisfactorily stated, but the meaning
@@ -209,7 +209,7 @@ conception of Karenina at that crucial moment when the cruelly
 outraged man sees that he cannot be good with dignity.  This [[Leaves|leaves]]
 all tricks of fancy, all effects of art, immeasurably behind."
 So much being said, however, we may be allowed to emphasise
-in this qualities and achievements of [[tolstoy|Tolstoy]] as [[Artist|artist]],
+in this qualities and achievements of [[tolstoy|Tolstoy]] as [[artist]],
 rather than the expositions of Christian Anarchism and the social
 philippics under which those achievements have been somewhat hidden
 in recent years.
@@ -319,7 +319,7 @@ in the West, Flaubert (how the name carries us backward!) wrote:
 "It is of the first order.  What a painter and what a psychologist!
 The two first volumes are [[Sublime|sublime]], but the third drags frightfully.
 There are some quite Shakespearean things in it."
-The [[Artist|artist]]'s hand was now strengthening for his highest attainment.
+The [[artist]]'s hand was now strengthening for his highest attainment.
 In 1876 appeared "Anna Karenina," his greatest, and as he intended
 at the [[Time|time]] (but Art is not so easily jilted), his last [[Novel|novel]].
 The fine qualities of this book, which, though long, is dramatically
@@ -369,7 +369,7 @@ gradually risen to the position of the one man who can continue
 with impunity a public more satisfactory contribution to the subject.
 
 It is more to our purpose to note that in this volcanic and fecund
-if fundamentally simple personality the [[Artist|artist]] has dogged
+if fundamentally simple personality the [[artist]] has dogged
 the steps of the evangelist to the last.  "Master and Man"
 (1895) is one of the most exquisite short stories ever written.
 "The [[Death]] of Ivan Ilyitch" (1884) and "[[Resurrection]]"
@@ -408,7 +408,7 @@ His service to literature is precisely the same as his service to morals.
 Like Bunyan and Burns, Dickens and Whitman, he throws down in a
 world of decadent conventions the gauge of the democratic ideal.
 As he calls the politician and the social reformer back to the land
-and the common people, so he calls the [[Artist|artist]] back to the elemental
+and the common people, so he calls the [[artist]] back to the elemental
 forces ever at work beneath the surface-show of [[Nature|nature]] and humanity.
 With an extraordinary penetration into the hidden recesses of character,
 he joins a terrible truthfulness, and that absolute simplicity
@@ -484,7 +484,7 @@ and least distorted the complex daily life of the European world.
 With a marked moral bias, driven onward in his search for [[Truth|truth]]
 by his passionate religious temperament, [[tolstoy|Tolstoy]], in his pictures
 of life, has constructed a truer whole, a human world less bounded
-by the [[Artist|artist]]'s individual limitations, more mysteriously living in its
+by the [[artist]]'s individual limitations, more mysteriously living in its
 vast flux and flow than is the world of any writer of the century.
 War and Peace and Anna Karenina, those great worlds where the
 physical environment, mental outlook, emotional [[Aspiration|aspiration]], and moral
@@ -521,7 +521,7 @@ of new serf classes at the dictates of a ruling class.
 All this the nineteenth century has seen accomplished,
 and not seen [[Alone|alone]] in [[Russia]].  It is [[tolstoy|Tolstoy]]'s distinction
 to have combined in his life-work more than any other great
-[[Artist|artist]] two main conflicting points of view.  He has fused
+[[artist]] two main conflicting points of view.  He has fused
 by his art the science that defines the way Humanity is forced
 forward blindly and irresponsibly from century to century
 by the mere pressure of events, he has fused with this science
@@ -530,7 +530,7 @@ of man which leads the generations into taking the ceaseless
 roads of evil which every age unwinds.
 
 Let us cite [[tolstoy|Tolstoy]]'s treatment of War as an instance of how this
-great [[Artist|artist]] symbolises the Age for us and so marks the advance
+great [[artist]] symbolises the Age for us and so marks the advance
 in [[Self|self]]-consciousness of the modern mind, and as a nearer
 approximation to a realisation of what life is.  We have only got
 to compare [[tolstoy|Tolstoy]]'s "Sebastopol" (1856) with any other document

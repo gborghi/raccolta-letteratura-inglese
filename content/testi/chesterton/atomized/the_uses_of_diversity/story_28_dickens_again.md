@@ -39,7 +39,7 @@ the coach amid repeated applause and enthusiastic encores.
 as of Sam's hyperbolical old gentleman who was tipped into
 the hyperbolical canal, that "'is 'at was found, but I can't be
 certain 'is 'ead was in it."  It seems to me like a euthanasia:
-more beautiful than the passing of [[arthur|Arthur]].
+more beautiful than the passing of [[Arthur]].
 
 But though the failure of this particular festivity was merely accidental
 (like my own unfortunate fall off the coach), it is not without

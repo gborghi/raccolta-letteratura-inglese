@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 37 (part 1)"
+title: "Shirley — Chapter 37 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -217,5 +217,3 @@ have thus far shown a criminal remissness in pursuing, catching, and
 bringing to condign punishment the would-be assassin of Mr. Robert
 
 Moore. Here was a fine opening to lead my willing readers a [[Dance|dance]], at
-
-once decorous and exciting--a [[Dance|dance]] of law and gospel, of the dungeon,

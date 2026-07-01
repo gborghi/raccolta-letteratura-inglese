@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 35: THIRTY FIVE (part 1)"
+title: "Martin Chuzzlewit — Chapter 35: THIRTY FIVE (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -121,9 +121,3 @@ peculiar care, smiling with even more than usual blandness, pondering
 on the beauties of his art with a mild abstraction from all sordid
 thoughts, and gently travelling across the disc, as if he were a figure
 in a [[Magic|magic]] lantern.
-
-As Mr Pecksniff passed, a person coming in the opposite direction
-stopped to look after him with great interest and respect, almost with
-veneration; and the landlord bouncing out of the [[house]], as if he had
-seen him too, joined this person, and spoke to him, and shook his head
-gravely, and looked after Mr Pecksniff likewise.

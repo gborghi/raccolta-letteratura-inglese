@@ -17,7 +17,7 @@ tags:
 Broadly speaking, if there was one man who was bound to be
 the antithesis of William Cobbett it was William Pitt.
 Anybody who expected anything else, merely because the two
-men were at one [[Time|time]] classed as Tories, is the person really
+men were at one time classed as Tories, is the person really
 incapable of understanding intellectual consistency.
 Cobbett had only supported Pitt because he thought the Pitt rule
 stood for Old England; but it did not.  Cobbett never supported
@@ -36,7 +36,7 @@ tolerable to one fleeing from that of Lord Castlereagh.
 But Cobbett's public alliances, as distinct from his
 private affections, seldom went much further than this.
 He may have come eventually almost to hate Orator Hunt;
-but I [[Doubt|doubt]] whether he had ever really liked him.
+but I doubt whether he had ever really liked him.
 Windham I am inclined to think that he really liked;
 and lie made earnest efforts to explain to that perplexed
 Tory that there was nothing inconsistent with Toryism in his
@@ -59,21 +59,21 @@ of his mind he would always have preferred the French to the German;
 and nobody would have rejoiced more than he at that great
 and just alliance that brought about the downfall of Prussia.
 Anyhow he printed his protest; and instantly discovered that
-he had touched the [[Spring|spring]] which launched a whole huge engine
-of destruction against himself.  The great Tory [[government|Government]],
-which he had come back from [[america|America]] to serve, had no [[Doubt|doubt]]
+he had touched the spring which launched a whole huge engine
+of destruction against himself.  The great Tory Government,
+which he had come back from America to serve, had no doubt
 about how it should deal with this sort of patriotic service.
 He was instantly pinned with a prosecution, tried before the usual
 packed jury of the White Terror, and eventually sentenced
-to [[Imprisonment|imprisonment]] for two years in Newgate, accompanied by a fine
+to imprisonment for two years in Newgate, accompanied by a fine
 that meant ruin.
 
 Cobbett was bewildered by the blow; and seems at first
-to have been reduced to [[Despair|despair]].  It is said that he talked
+to have been reduced to despair.  It is said that he talked
 of throwing up his whole public work, since it could not
 be conducted without involving his family in such ruin.
 There has been much dispute about the story of some such
-despairing surrender being communicated to the [[government|Government]].
+despairing surrender being communicated to the Government.
 It seems to me that Cobbett's own account of the incident
 is probably true in the main; all the more as he owned frankly
 that his family had once persuaded him to this course:
@@ -96,7 +96,7 @@ not give a real picture of his complex and confused situation.
 In order to understand the meaning of the whole business, we must
 understand two things that are relevant to the whole of his life;
 though the first refers more particularly to this earlier
-passage in his life.  It will be [[Well|well]] to get these conceptions
+passage in his life.  It will be well to get these conceptions
 clear before this chapter concludes.
 
 First, it must be clearly understood that Cobbett was not yet
@@ -106,34 +106,34 @@ on all Revolutionists.  He had indeed kept his English journalism
 independent of parties; but if he had originally had any party,
 it was the Tory party.  In other words, his disappointment
 had begun, but he still had enough admiration to be disappointed.
-He was still sufficiently orthodox to be troubled by [[Doubt|doubt]].
+He was still sufficiently orthodox to be troubled by doubt.
 Then came the shameful and incredible shock of the Constitution
 he had once defended swinging round and knocking him silly.
-It was no [[Wonder|wonder]] if, for the moment, it did knock him very silly.
+It was no wonder if, for the moment, it did knock him very silly.
 But it is reading the last lucid rage of the Radical Cobbett into
 the first dark and confused doubts of the Conservative Cobbett to expect
 him to have met his first trial in as he met his second trial in His
-real revolutionary spirit was not the cause of his [[Imprisonment|imprisonment]];
+real revolutionary spirit was not the cause of his imprisonment;
 it was the result of it.
 
-The fools who put Cobbett in [[Prison|prison]] probably did believe they
+The fools who put Cobbett in prison probably did believe they
 were crushing a Jacobin, when they were really creating one.
 And they were creating a Jacobin out of the best Anti-Jacobin
 of the age.  Apart from all political labels, they were
-manufacturing the greatest [[Rebel|rebel]], of English [[history]] out of the most
-unpromising materials.  Perhaps he was the only real [[Rebel|rebel]] that
+manufacturing the greatest rebel, of English history out of the most
+unpromising materials.  Perhaps he was the only real rebel that
 was ever manufactured out of purely English materials.  But he was
-all the more a furious [[Rebel|rebel]] because he was a reluctant [[Rebel|rebel]].
-For the man who paced that cell, like a [[Lion|lion]] in a cage, had not
+all the more a furious rebel because he was a reluctant rebel.
+For the man who paced that cell, like a lion in a cage, had not
 any of the detachment given either by idealism or cynicism.
 He had not fully learned to expect injustice; he had not
 yet survived disappointment, the dark surprise of youth.
 The man in that cell was no Stoic, trained in the Latin
-[[logic]] of Condorcet or Carnot, seeing his own virtues
+logic of Condorcet or Carnot, seeing his own virtues
 as part of the ideal system of the Republic and his own
 sufferings as part of the inevitable system of the Kings.
 He was no Irish martyr, schooled to breathe the very air
-of [[Tragedy|tragedy]] and tyranny and vengeance, and living in a noble
+of tragedy and tyranny and vengeance, and living in a noble
 but unnatural exaltation of wholly spiritual hate.  Like most men
 of a very English type, he was inordinately fond of happiness.
 And happiness to him was concrete and not abstract;
@@ -141,21 +141,21 @@ it was his own farm, his own family, his own children.
 Like most men of a very masculine type, he was probably a good deal
 dominated by his wife.  And his wife and family had evidently
 hung on heavily to drag him back from his political precipice.
-But the worst of it was that he was [[Suffering|suffering]] for an idea;
+But the worst of it was that he was suffering for an idea;
 and as yet did not quite know what idea.  That is where this great
 angry and bewildered Englishman differed from the French Stoics
 or the Irish patriots.  They appealed to the gods against
 the kings, to the ideas against the facts; but it seemed
-to the Englishman that his own god and [[King|king]] had condemned him.
+to the Englishman that his own god and king had condemned him.
 They saw clear skies above a confused world; but it was upon
 him that his own sky had fallen.  He had indeed in his mind
 all that volcanic amalgam of ancient loyalties and popular
 sympathies which puzzles the student of party labels; but it
 was still in his subconscious mind.  He had not yet a creed
 as Robespierre or Jefferson or O'Connell had a creed.  In fact,
-he was not [[Suffering|suffering]] for an idea he was [[Suffering|suffering]] for an instinct.
+he was not suffering for an idea he was suffering for an instinct.
 But the instinct seemed to him a natural part of that natural
-order which had suddenly sprung on him an unnatural [[Revenge|revenge]].
+order which had suddenly sprung on him an unnatural revenge.
 In so far as he had originally believed in anything,
 it was in the authorities that had thrown him into gaol.
 In so far as he had any creed, it had been the Constitution which

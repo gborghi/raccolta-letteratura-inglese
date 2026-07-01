@@ -33,27 +33,27 @@ But there is a more subtle criticism uttered against the more
 old-fashioned missionary; to the effect that he generalises
 too broadly about the heathen and pays too little attention to
 the difference between Mahomet and Mumbo-Jumbo. There was probably
-[[Truth|truth]] in this complaint, especially in the past; but it is my main
+truth in this complaint, especially in the past; but it is my main
 contention here that the exaggeration is all the other way at present.
-It is the [[Temptation|temptation]] of the professors to treat mythologies too much
+It is the temptation of the professors to treat mythologies too much
 as theologies; as things thoroughly thought out are seriously held.
-It is the [[Temptation|temptation]] of the intellectuals to take much too seriously
+It is the temptation of the intellectuals to take much too seriously
 the fine shades of various schools in the rather irresponsible
-metaphysics of Asia.  Above all it is their [[Temptation|temptation]] to miss
-the real [[Truth|truth]] implied in the idea of [[aquinas|Aquinas]] contra Gentiles
+metaphysics of Asia.  Above all it is their temptation to miss
+the real truth implied in the idea of Aquinas contra Gentiles
 or Athanasius contra mundum.
 
 If the missionary says, in fact, that he is exceptional in being
 a Christian, and that the rest of the races and religions can
 be collectively classified as heathen, he is perfectly right.
 He may say it in quite the wrong spirit, in which case he is
-spiritually wrong.  But in the cold light of [[philosophy]] and [[history]],
+spiritually wrong.  But in the cold light of philosophy and history,
 he is intellectually right.  He may not be right minded, but he is right.
 He may not even have a right to be right, but he is right.
 The outer world to which he brings his creed really is some thing
 subject to certain generalisations covering all its varieties,
 and is not merely a variety of similar creeds.  Perhaps it is in any case
-too much of a [[Temptation|temptation]] to [[Pride|pride]] or hypocrisy to call it heathenry.
+too much of a temptation to pride or hypocrisy to call it heathenry.
 Perhaps it could be better simply to call it humanity.
 But there are certain broad characteristics of what we
 call humanity while it remains in what we call heathenry.
@@ -67,8 +67,8 @@ as the sea.
 
 For instance, all real scholars who have studied the Greek and Roman
 culture say one thing about it.  They agree that in the ancient
-world religion was one thing and [[philosophy]] quite another.
-There was very little effort to rationalise and at the same [[Time|time]]
+world religion was one thing and philosophy quite another.
+There was very little effort to rationalise and at the same time
 to realise a real belief in the gods.  There was very little
 pretense of any such real belief among the philosophers.
 But neither had the passion or perhaps the power to persecute
@@ -77,7 +77,7 @@ the philosopher in his school nor the priest in his temple seems ever
 to have seriously contemplated his own concept as covering the world.
 A priest sacrificing to Artemis in Calydon did not seem to think that
 people would some day sacrifice to her instead of to Isis beyond the sea;
-a sage following the [[vegetarian]] rule of the Neo-Pythagoreans did not
+a sage following the vegetarian rule of the Neo-Pythagoreans did not
 seem to think it would universally prevail and exclude the methods
 of Epictetus or Epicurus.  We may call this liberality if we like;
 I am not dealing with an argument but describing an atmosphere.
@@ -94,28 +94,28 @@ that pavement came from the earthquake of the Crucifixion.
 The modern European seeking his religion in Asia is reading
 his religion into Asia.  Religion there is something different;
 it is both more and less.  He is like a man mapping out the sea as land;
-marking waves as [[Mountains|mountains]]; not understanding the [[Nature|nature]] of its
+marking waves as mountains; not understanding the nature of its
 peculiar permanence.  It is perfectly true that Asia has its own
 dignity and poetry and high civilisation.  But it is not in the least
-true that Asia has its own definite dominions of moral [[government]],
-where all loyalty is conceived in terms of [[morality]]; as when we
-say that Ireland is Catholic or that [[New England]] was Puritan.
+true that Asia has its own definite dominions of moral government,
+where all loyalty is conceived in terms of morality; as when we
+say that Ireland is Catholic or that New England was Puritan.
 The map is not marked out in religions, in our sense of churches.
 The state of mind is far more subtle, more relative, more secretive,
 more varied and changing, like the colours of the snake.
 The Moslem is the nearest approach to a militant Christian;
 and that is precisely because he is a much nearer approach
 to an envoy from western civilisation.  The Moslem in
-the heart of Asia almost stands for the [[Soul|soul]] of Europe.
+the heart of Asia almost stands for the soul of Europe.
 And as he stands between them and Europe in the matter of space
-so he stands between them and [[Christianity]] in the matter of [[Time|time]].
+so he stands between them and Christianity in the matter of time.
 In that sense the Moslems in Asia are merely like the Nestorians in Asia.
-[[Islam]], historically speaking, is the greatest of the Eastern heresies.
+Islam, historically speaking, is the greatest of the Eastern heresies.
 It owed something to the quite isolated and unique individuality
 of Israel; but it owed more to Byzantium and the theological
-enthusiasm of Christendom.  It owed something even to the [[Crusades]].
+enthusiasm of Christendom.  It owed something even to the Crusades.
 It owed nothing whatever to Asia.  It owed nothing to the atmosphere
 of the ancient and traditional world of Asia, with its immemorial
 etiquette and its bottomless or bewildering philosophies.
-All that ancient and actual Asia felt the entrance of [[Islam]] as something
+All that ancient and actual Asia felt the entrance of Islam as something
 foreign and western and warlike, piercing it like a spear.

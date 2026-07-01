@@ -16,13 +16,7 @@ tags:
 
 CHAPTER II
 
-
-
 THE GREAT VICTORIAN NOVELISTS
-
-
-
-
 
 The Victorian [[Novel|novel]] was a thing entirely Victorian; quite unique and
 
@@ -166,8 +160,6 @@ collars and documents, cut across this purely female discovery and
 
 destroyed it.
 
-
-
 It may seem mere praise of the [[Novel|novel]] to say it is the art of sympathy
 
 and the study of human variations. But indeed, though this is a good
@@ -187,11 +179,3 @@ breaking it at the moment. The very cause of their quarrel was the cause
 of their fraternity; they both liked land. But suppose one of them a
 
 teetotaler who desired the abolition of hops on both farms; suppose the
-
-other a [[vegetarian]] who desired the abolition of chickens on both farms:
-
-and it is at once apparent that a quarrel of quite a different kind
-
-would begin; and that in that quarrel it would not be a question of
-
-farmer against farmer, but of individual against individual. This

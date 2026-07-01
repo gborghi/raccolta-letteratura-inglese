@@ -14,6 +14,42 @@ tags:
 </nav>
 
 
+people ought to tell the [[Truth|truth]]; apparently supposing, to quote
+
+Stevenson's phrase, that telling the [[Truth|truth]] is as easy as blind hookey.
+
+Yet, though his general honesty is unquestionable, he was by no means
+
+one of those who will give up a fancy under the shock of a fact. If by
+
+sheer genius he frequently guessed right, he was not the kind of man to
+
+admit easily that he had guessed wrong. His version of Cromwell's filthy
+
+cruelties in Ireland, or his impatient slurring over of the most
+
+sinister [[Riddle|riddle]] in the [[morality]] of Frederick the Great--these passages
+
+are, one must frankly say, disingenuous. But it is, so to speak, a
+
+generous disingenuousness; the heat and momentum of sincere admirations,
+
+not the shuffling [[Fear|fear]] and flattery of the constitutional or patriotic
+
+historian. It bears most resemblance to the incurable prejudices of a
+
+woman.
+
+For the rest there hovered behind all this transcendental haze a certain
+
+presence of old northern paganism; he really had some sympathy with the
+
+vast vague gods of that moody but not unmanly [[Nature]]-worship which seems
+
+to have filled the darkness of the North before the coming of the Roman
+
+Eagle or the Christian [[Cross]]. This he combined, allowing for certain
+
 sceptical omissions, with the grisly Old Testament God he had heard
 
 about in the black Sabbaths of his [[Childhood|childhood]]; and so promulgated
@@ -21,8 +57,6 @@ about in the black Sabbaths of his [[Childhood|childhood]]; and so promulgated
 (against both Rationalists and Catholics) a sort of heathen [[Puritanism]]:
 
 Protestantism purged of its evidences of [[Christianity]].
-
-
 
 His great and real work was the attack on Utilitarianism: which did real
 
@@ -92,8 +126,6 @@ representative quarrel; for if the Utilitarian spirit reached its
 
 highest point in Mill, it certainly reached its lowest point in Malthus.
 
-
-
 One last element in the influence of Carlyle ought to be mentioned;
 
 because it very strongly dominated his disciples--especially Kingsley,
@@ -120,7 +152,7 @@ finds its right level. It began with what we may call the "[[Bible]] of
 
 revelation of the divine. Thus any enormous and unaltered human
 
-settlement--as the Norman Conquest or the secession of [[america|America]]--we must
+settlement--as the Norman Conquest or the secession of [[America]]--we must
 
 suppose to be the will of God. It lent itself to picturesque treatment;
 
@@ -149,41 +181,3 @@ said the [[French Revolution]] was a thing settled in the eternal councils
 to be; and therefore (and not because it was right) attacking it was
 
 "fighting against God." And Kingsley even carried the principle so far
-
-as to tell a lady she should remain in the Church of England mainly
-
-because God had put her there. But in spite of its superficial
-
-spirituality and encouragement, it is not hard to see how such a
-
-doctrine could be abused. It practically comes to saying that God is on
-
-the side of the big battalions--or at least, of the victorious ones.
-
-Thus a creed which set out to create conquerors would only corrupt
-
-soldiers; corrupt them with a craven and unsoldierly worship of [[success]]:
-
-and that which began as the [[philosophy]] of [[Courage|courage]] ends as the [[philosophy]]
-
-of cowardice. If, indeed, Carlyle were right in saying that right is
-
-only "rightly articulated" might, men would never articulate or move in
-
-any way. For no act can have might before it is done: if there is no
-
-right, it cannot rationally be done at all. This element, like the
-
-Anti-Utilitarian element, is to be kept in mind in connection with after
-
-developments: for in this Carlyle is the first cry of Imperialism, as
-
-(in the other case) of Socialism: and the two babes [[unborn]] who stir at
-
-the trumpet are Mr. Bernard [[Shaw]] and Mr. Rudyard Kipling. Kipling also
-
-carries on from Carlyle the concentration on the purely Hebraic parts of
-
-the [[Bible]]. The fallacy of this whole [[philosophy]] is that if God is indeed
-
-present at a modern battle, He may be present not as on Gilboa but

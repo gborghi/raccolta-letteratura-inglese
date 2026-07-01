@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 25: GOOD AND BAD ANGELS"
+title: "David Copperfield — Chapter 25: GOOD AND BAD ANGELS"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/david-copperfield-(dickens)"

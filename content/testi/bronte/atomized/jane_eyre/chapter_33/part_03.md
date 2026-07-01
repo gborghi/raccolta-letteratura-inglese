@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 33 (part 3)"
+title: "Jane Eyre — Chapter 33 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_33/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_33/part_04">part 04 ›</a></div>
 </nav>
 
+
+“[[Well]],” said he, “if you had committed a murder, and I had told you
+your crime was discovered, you could scarcely look more aghast.”
 
 “It is a large sum—don’t you think there is a mistake?”
 
@@ -156,12 +159,3 @@ rich and welcome enough in its way, but sobering from its weight. I now
 clapped my hands in sudden joy—my pulse bounded, my veins thrilled.
 
 “Oh, I am glad!—I am glad!” I exclaimed.
-
-St. John smiled. “Did I not say you neglected essential points to
-pursue trifles?” he asked. “You were serious when I told you you had
-got a fortune; and now, for a matter of no moment, you are excited.”
-
-“What _can_ you mean? It may be of no moment to you; you have sisters
-and don’t care for a cousin; but I had nobody; and now three
-relations,—or two, if you don’t choose to be counted,—are born into my
-world full-grown. I say again, I am glad!”

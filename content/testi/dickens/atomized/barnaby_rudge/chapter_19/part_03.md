@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 19 (part 3)"
+title: "Barnaby Rudge — Chapter 19 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_19/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_19/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘Here’s master, mim,’ said Miggs. ‘Oh, what a happiness it is when man
+and wife come round again! Oh gracious, to think that him and her should
+ever have a word together!’ In the energy of these sentiments, which
+were uttered as an apostrophe to the Heavens in general, Miss Miggs
+perched the bonnet on the top of her own head, and folding her hands,
+turned on her [[Tears|tears]].
 
 ‘I can’t help it,’ cried Miggs. ‘I couldn’t, if I was to be drownded in
 ‘em. She has such a forgiving spirit! She’ll forget all that has passed,
@@ -108,12 +115,3 @@ and was all affability and delight--but such a [[Body|body]] of evidence as
 she collected against the unfortunate locksmith that day, to be used
 thereafter as occasion might require, never was got together for
 matrimonial purposes.
-
-In course of [[Time|time]]--and in course of a pretty long [[Time|time]] too, for these
-agreeable interruptions delayed them not a little,--they arrived upon
-the skirts of the Forest, and riding pleasantly on among the trees, came
-at last to the Maypole, where the locksmith’s cheerful ‘Yoho!’ speedily
-brought to the porch old John, and after him young Joe, both of whom
-were so transfixed at sight of the ladies, that for a moment they were
-perfectly unable to give them any welcome, and could do nothing but
-stare.

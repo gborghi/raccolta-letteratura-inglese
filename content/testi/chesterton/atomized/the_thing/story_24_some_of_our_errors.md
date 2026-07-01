@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-thing-(chesterton)">The Thing</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_23_the_roots_of_sanity">‹ Story 23 THE ROOTS OF SANITY</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_25_the_slavery_of_the_mind">Story 25 THE SLAVERY OF THE MIND ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_23_the_roots_of_sanity_sanity">‹ Story 23 THE ROOTS OF Sanity SANITY</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_25_the_slavery_slavery_of_the_mind">Story 25 THE Slavery SLAVERY OF THE MIND ›</a></div>
 </nav>
 
 

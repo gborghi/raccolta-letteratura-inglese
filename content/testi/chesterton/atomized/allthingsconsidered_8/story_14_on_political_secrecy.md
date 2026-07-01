@@ -1,5 +1,5 @@
 ---
-title: "[[AllThingsConsidered-8]] — ON POLITICAL SECRECY"
+title: "AllThingsConsidered-8 — ON POLITICAL SECRECY"
 author: "Chesterton"
 unitType: story
 parentWork: "works/allthingsconsidered-8-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 ON POLITICAL SECRECY
-
 
 Generally, instinctively, in the absence of any special reason,
 humanity hates the idea of anything being hidden--that is,

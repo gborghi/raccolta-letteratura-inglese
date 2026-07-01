@@ -14,9 +14,65 @@ tags:
 </nav>
 
 
+many champions do. I have little [[Doubt|doubt]] that when St. George had killed
+
+the dragon he was heartily afraid of the princess. But certainly neither
+
+of these two vital enthusiasms touched the Victorian trouble. The
+
+disaster of the modern English is not that they are not Celtic, but that
+
+they are not English. The [[Tragedy|tragedy]] of the modern woman is not that she is
+
+not allowed to follow man, but that she follows him far too slavishly.
+
+This conscious and theorising Meredith did not get very near his problem
+
+and is certainly miles away from ours. But the other Meredith was a
+
+creator; which means a god. That is true of him which is true of so
+
+different a man as Dickens, that all one can say of him is that he is
+
+full of good things. A reader opening one of his books feels like a
+
+schoolboy opening a hamper which he knows to have somehow cost a hundred
+
+pounds. He may be more bewildered by it than by an ordinary hamper; but
+
+he gets the impression of a real richness of thought; and that is what
+
+one really gets from such riots of felicity as _Evan Harrington_ or
+
+_Harry Richmond_. His [[philosophy]] may be barren, but he was not. And the
+
+chief feeling among those that enjoy him is a mere wish that more people
+
+could enjoy him too.
+
+I end here upon Hardy and Meredith; because this parting of the ways to
+
+open optimism and open pessimism really was the end of the Victorian
+
+peace. There are many other men, very nearly as great, on whom I might
+
+delight to linger: on Shorthouse, for instance, who in one way goes with
+
+Mrs. Browning or Coventry Patmore. I mean that he has a wide culture,
+
+which is called by some a narrow religion. When we think what even the
+
+best novels about cavaliers have been (written by men like Scott or
+
+Stevenson) it is a wonderful thing that the author of _John Inglesant_
+
+could write a cavalier [[Romance|romance]] in which he forgot Cromwell but
+
+remembered Hobbes. But Shorthouse is outside the period in fiction in
+
+the same sort of way in which Francis Thompson is outside it in poetry.
+
 He did not accept the Victorian basis. He knew too much.
-
-
 
 There is one more matter that may best be considered here, though
 
@@ -64,8 +120,6 @@ section devoted to novelists, or the section devoted to liars, nobody
 
 else has ever known, even if he did.
 
-
-
 But the strongest case of this Victorian power of being abruptly
 
 original in a corner can be found in two things: the literature meant
@@ -112,8 +166,6 @@ the Victorians than even their just and exquisite appreciation of
 
 children. It came from the deep Victorian sense of [[Humour|humour]].
 
-
-
 It may appear, because I have used from [[Time|time]] to [[Time|time]] the only possible
 
 phrases for the case, that I mean the Victorian Englishman to appear as
@@ -136,8 +188,6 @@ had largely forgotten both art and arms: but the gods had left them
 
 laughter.
 
-
-
 But the final proof that the Victorians were alive by this laughter, can
 
 be found in the fact they could manage and master for a moment even the
@@ -149,8 +199,6 @@ Ballads" on the stage. To turn a private name into a public epithet is a
 thing given to few: but the word "Gilbertian" will probably last longer
 
 than the name Gilbert.
-
-
 
 It meant a real Victorian talent; that of exploding unexpectedly and
 

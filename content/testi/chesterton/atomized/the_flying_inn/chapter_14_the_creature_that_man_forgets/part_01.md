@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_12_vegetarianism_in_the_forest/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_14_the_creature_that_man_forgets/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_13_the_battle_of_the_tunnel/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_14_the_creature_that_man_forgets/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -71,13 +71,3 @@ His speech was graceful and [[Well|well]] worded and enormously long, and it was
 
 
 The Poet of the [[Birds]] was so excited with his own speech that, after the meeting, he walked out with a wild eye to the motor car, which had been long awaiting him, the chauffeur giving some faint signs of relief.
-
-
-
-
-“Toward [[Home|home]], for the present,” said the poet, and stared at the [[Moon|moon]] with an inspired face.
-
-
-
-
-He was very fond of motoring, finding it fed him with inspirations; and he had been doing it from an early hour that morning, having enjoyed a slightly lessened [[Sleep|sleep]]. He had scarcely spoken to anybody until he spoke to the cultured crowd at Ivywood. He did not wish to speak to anyone for many hours yet. His ideas were racing. He had thrown on a fur coat over his velvet jacket, but he let it fly open, having long forgotten the coldness in the splendour of the moonstruck [[Night|night]]. He realised only two things: the swiftness of his car and the swiftness of his thoughts. He felt, as it were, a fury of omniscience; he seemed flying with every bird that sped or spun above the woods, with every squirrel that had leapt and tumbled within them, with every tree that had swung under and sustained the blast.

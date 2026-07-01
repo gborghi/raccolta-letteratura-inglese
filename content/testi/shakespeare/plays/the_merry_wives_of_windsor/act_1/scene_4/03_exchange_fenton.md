@@ -1,5 +1,5 @@
 ---
-title: "The Merry Wives of Windsor — Act I, Scene 4 — exchange ([[Fenton|FENTON]]) [3]"
+title: "The Merry Wives of Windsor — Act I, Scene 4 — exchange (FENTON) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-merry-wives-of-windsor-(shakespeare)"

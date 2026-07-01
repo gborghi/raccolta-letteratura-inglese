@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 9 (part 2)"
+title: "Martin Chuzzlewit — Chapter 9 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -115,9 +115,3 @@ nothing to say a joint won’t yield--a whole animal wouldn’t yield--the
 amount of gravy they expect each day at dinner. And what I have
 undergone in consequence,’ cried Mrs Todgers, raising her eyes and
 shaking her head, ‘no one would believe!’
-
-‘Just like Mr Pinch, Merry!’ said [[Charity]]. ‘We have always noticed it in
-him, you remember?’
-
-‘Yes, my dear,’ giggled Merry, ‘but we have never given it him, you
-know.’

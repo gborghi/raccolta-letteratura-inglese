@@ -1,5 +1,5 @@
 ---
-title: "[[King John]] — Act III, Scene 4 — monologue ([[Constance|CONSTANCE]]) [3]"
+title: "King John — Act III, Scene 4 — monologue (CONSTANCE) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/king-john-(shakespeare)"

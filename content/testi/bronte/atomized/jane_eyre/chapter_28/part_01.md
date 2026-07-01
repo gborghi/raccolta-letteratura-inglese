@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 28 (part 1)"
+title: "Jane Eyre — Chapter 28 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -27,7 +27,7 @@ must remain; and now, I am absolutely destitute.
 
 Whitcross is no town, nor even a [[Hamlet|hamlet]]; it is but a stone pillar set
 up where four roads meet: whitewashed, I suppose, to be more obvious at
-a distance and in darkness. Four arms [[spring]] from its summit: the
+a distance and in darkness. Four arms [[Spring|spring]] from its summit: the
 nearest town to which these point is, according to the [[Inscription|inscription]],
 distant ten miles; the farthest, above twenty. From the [[Well|well]]-known
 names of these towns I learn in what county I have lighted; a
@@ -112,13 +112,7 @@ Milky-way. Remembering what it was—what countless systems there swept
 space like a soft trace of light—I felt the might and strength of God.
 Sure was I of His efficiency to save what He had made: convinced I grew
 that neither earth should perish, nor one of the souls it treasured. I
-turned my [[Prayer|prayer]] to thanksgiving: the Source of Life was also the
+turned my [[prayer]] to thanksgiving: the Source of Life was also the
 Saviour of spirits. Mr. Rochester was safe: he was God’s, and by God
 would he be guarded. I again nestled to the breast of the [[Hill|hill]]; and ere
 long in [[Sleep|sleep]] forgot sorrow.
-
-But next day, Want came to me pale and bare. Long after the little
-[[Birds|birds]] had left their nests; long after [[Bees|bees]] had come in the sweet prime
-of day to gather the heath honey before the dew was dried—when the long
-morning shadows were curtailed, and the sun filled earth and sky—I got
-up, and I looked round me.

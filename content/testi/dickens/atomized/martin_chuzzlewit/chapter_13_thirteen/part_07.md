@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 13: THIRTEEN (part 7)"
+title: "Martin Chuzzlewit — Chapter 13: THIRTEEN (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,47 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_13_thirteen/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_13_thirteen/part_08">part 08 ›</a></div>
 </nav>
 
+
+Martin reddened as he pointed to the table, and said, somewhat hastily:
+
+‘[[Well]]! What then?’
+
+‘Why, then, sir,’ said Mark, ‘I made bold to foller; and as I told ‘em
+downstairs that you expected me, I was let up.’
+
+‘Are you charged with any message, that you told them you were
+expected?’ inquired Martin.
+
+‘No, sir, I an’t,’ said Mark. ‘That was what you may call a pious fraud,
+sir, that was.’
+
+Martin cast an angry look at him; but there was something in the
+fellow’s merry face, and in his manner--which with all its cheerfulness
+was far from being obtrusive or familiar--that quite disarmed him.
+He had lived a solitary life too, for many weeks, and the voice was
+pleasant in his ear.
+
+‘Tapley,’ he said, ‘I’ll deal openly with you. From all I can judge and
+from all I have heard of you through Pinch, you are not a likely kind of
+fellow to have been brought here by impertinent curiosity or any other
+offensive motive. Sit down. I’m glad to see you.’
+
+‘Thankee, sir,’ said Mark. ‘I’d as lieve stand.’
+
+‘If you don’t sit down,’ retorted Martin, ‘I’ll not talk to you.’
+
+‘Very good, sir,’ observed Mark. ‘Your will’s a law, sir. Down it is;’
+and he sat down accordingly upon the bedstead.
+
+‘Help yourself,’ said Martin, handing him the only knife.
+
+‘Thankee, sir,’ rejoined Mark. ‘After you’ve done.’
+
+‘If you don’t take it now, you’ll not have any,’ said Martin.
+
+‘Very good, sir,’ rejoined Mark. ‘That being your [[Desire|desire]]--now it is.’
+With which reply he gravely helped himself and went on eating. Martin
+having done the like for a short [[Time|time]] in [[Silence|silence]], said abruptly:
 
 ‘What are you doing in [[London]]?’
 
@@ -116,34 +157,3 @@ But Mr Tapley was eating the boiled beef and bread with such entire good
 not but be satisfied. Another [[Doubt|doubt]] arose in his mind however, as this
 one disappeared. He produced the blank cover in which the note had been
 enclosed, and fixing his eyes on Mark as he put it in his hands, said:
-
-‘Now tell me the [[Truth|truth]]. Do you know anything about that?’
-
-Mark turned it over and over; held it near his eyes; held it away from
-him at arm’s length; held it with the superscription upwards and with
-the superscription downwards; and shook his head with such a genuine
-expression of astonishment at being asked the question, that Martin
-said, as he took it from him again:
-
-‘No, I see you don’t. How should you! Though, indeed, your knowing about
-it would not be more extraordinary than its being here. Come, Tapley,’
-he added, after a moment’s thought, ‘I’ll trust you with my [[history]],
-such as it is, and then you’ll see more clearly what sort of fortunes
-you would link yourself to, if you followed me.’
-
-‘I beg your pardon, sir,’ said Mark; ‘but afore you enter upon it
-will you take me if I choose to go? Will you turn off me--Mark
-Tapley--formerly of the Blue Dragon, as can be [[Well|well]] recommended by Mr
-Pinch, and as wants a gentleman of your strength of mind to look up to;
-or will you, in climbing the ladder as you’re certain to get to the
-top of, take me along with you at a respectful distance? Now, sir,’
-said Mark, ‘it’s of very little importance to you, I know, there’s the
-difficulty; but it’s of very great importance to me, and will you be so
-good as to consider of it?’
-
-If this were meant as a second appeal to Martin’s weak side, founded on
-his observation of the effect of the first, Mr Tapley was a skillful and
-shrewd observer. Whether an intentional or an accidental shot, it
-hit the mark fully for Martin, relenting more and more, said with a
-condescension which was inexpressibly delicious to him, after his recent
-humiliation:

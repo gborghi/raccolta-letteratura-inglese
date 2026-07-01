@@ -1,5 +1,5 @@
 ---
-title: "[[GKC-Autobiography]] — Chapter 11 (part 6)"
+title: "GKC-Autobiography — Chapter 11 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/gkc-autobiography-(chesterton)"
@@ -131,7 +131,7 @@ in which so many lives were ended; the Germans made their last vast
 and vain assaults and Foch struck his final blow before Chalons,
 where Christendom had broken the Huns a thousand years before.
 But in England the politicians continued to beam benevolently upon us;
-new noblemen continued to [[Spring|spring]] into life from somewhat obscure
+new noblemen continued to [[spring]] into life from somewhat obscure
 commercial soils; there were any number of flourishing economic ventures,
 supported by forceful publicity and magnetic personality;
 and all the powers of the scientific mergers and newspaper combines,

@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 19 (part 4)"
+title: "Dombey and Son — Chapter 47 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,127 +14,134 @@ tags:
 </nav>
 
 
-“You may come back very soon,” said Florence, “perhaps, Walter.”
+None the less so, certainly, for her life of the last six months.
+Florence took her seat at the dinner-table, on the day before the
+second anniversary of her father’s [[Marriage|marriage]] to Edith (Mrs Skewton had
+been lying stricken with paralysis when the first came round), with an
+uneasiness, amounting to dread. She had no other warrant for it, than
+the occasion, the expression of her father’s face, in the hasty glance
+she caught of it, and the presence of Mr Carker, which, always
+unpleasant to her, was more so on this day, than she had ever felt it
+before.
 
-“I may come back,” said Walter, “an old man, and find you an old lady.
-But I [[Hope|hope]] for better things.”
+Edith was richly dressed, for she and Mr Dombey were engaged in the
+evening to some large assembly, and the dinner-hour that day was late.
+She did not appear until they were seated at table, when Mr Carker [[Rose|rose]]
+and led her to her chair. Beautiful and lustrous as she was, there was
+that in her face and air which seemed to separate her hopelessly from
+Florence, and from everyone, for ever more. And yet, for an instant,
+Florence saw a beam of kindness in her eyes, when they were turned on
+her, that made the distance to which she had withdrawn herself a
+greater cause of sorrow and regret than ever.
 
-“Papa,” said Florence, after a moment, “will—will recover from his
-grief, and—speak more freely to me one day, perhaps; and if he should,
-I will tell him how much I wish to see you back again, and ask him to
-recall you for my sake.”
+There was very little said at dinner. Florence heard her father speak
+to Mr Carker sometimes on business matters, and heard him softly reply,
+but she paid little attention to what they said, and only wished the
+dinner at an end. When the dessert was placed upon the table, and they
+were left [[Alone|alone]], with no servant in attendance, Mr Dombey, who had been
+several times clearing his throat in a manner that augured no good,
+said:
 
-There was a touching modulation in these words about her father, that
-Walter understood too [[Well|well]].
+“Mrs Dombey, you know, I suppose, that I have instructed the
+housekeeper that there will be some company to dinner here to-morrow.”
 
-The coach being close at hand, he would have left her without speaking,
-for now he felt what parting was; but Florence held his hand when she
-was seated, and then he found there was a little packet in her own.
+“I do not dine at [[Home|home]],” she answered.
 
-“Walter,” she said, looking full upon him with her affectionate eyes,
-“like you, I [[Hope|hope]] for better things. I will pray for them, and believe
-that they will arrive. I made this little gift for Paul. Pray take it
-with my [[Love|love]], and do not look at it until you are gone away. And now,
-God bless you, Walter! never forget me. You are my brother, dear!”
+“Not a large party,” pursued Mr Dombey, with an indifferent assumption
+of not having heard her; “merely some twelve or fourteen. My sister,
+[[Major Bagstock]], and some others whom you know but slightly.”
 
-He was glad that [[Susan Nipper]] came between them, or he might have left
-her with a sorrowful remembrance of him. He was glad too that she did
-not look out of the coach again, but waved the little hand to him
-instead, as long as he could see it.
+“I do not dine at [[Home|home]],” she repeated.
 
-In spite of her request, he could not help opening the packet that
-[[Night|night]] when he went to bed. It was a little purse: and there was money
-in it.
+“However doubtful reason I may have, Mrs Dombey,” said Mr Dombey, still
+going majestically on, as if she had not spoken, “to hold the occasion
+in very pleasant remembrance just now, there are appearances in these
+things which must be maintained before the world. If you have no
+respect for yourself, Mrs Dombey—”
 
-Bright [[Rose|rose]] the sun next morning, from his absence in strange countries
-and up [[Rose|rose]] Walter with it to receive the Captain, who was already at
-the door: having turned out earlier than was necessary, in order to get
-under weigh while Mrs MacStinger was still slumbering. The Captain
-pretended to be in tip-top spirits, and brought a very smoky tongue in
-one of the pockets of the broad blue coat for breakfast.
+“I have none,” she said.
 
-“And, Wal”r,” said the Captain, when they took their seats at table, if
-your Uncle’s the man I think him, he’ll bring out the last bottle of
-the Madeira on the present occasion.”
+“Madam,” cried Mr Dombey, striking his hand upon the table, “hear me if
+you please. I say, if you have no respect for yourself—”
 
-“No, no, Ned,” returned the old man. “No! That shall be opened when
-Walter comes [[Home|home]] again.”
+“And _I_ say I have none,” she answered.
 
-“[[Well]] said!” cried the Captain. “Hear him!”
+He looked at her; but the face she showed him in return would not have
+changed, if [[Death|death]] itself had looked.
 
-“There it lies,” said Sol Gills, “down in the little cellar, covered
-with dirt and cobwebs. There may be dirt and cobwebs over you and me
-perhaps, Ned, before it sees the light.”
+“Carker,” said Mr Dombey, turning more quietly to that gentleman, “as
+you have been my medium of communication with Mrs Dombey on former
+occasions, and as I choose to preserve the decencies of life, so far as
+I am individually concerned, I will trouble you to have the goodness to
+inform Mrs Dombey that if she has no respect for herself, I have some
+respect for myself, and therefore insist on my arrangements for
+to-morrow.”
 
-“Hear him!” cried the Captain. “Good [[morality]]! Wal”r, my lad. Train up
-a fig-tree in the way it should go, and when you are old sit under the
-shade on it. Overhaul the—[[Well]],” said the Captain on second thoughts,
-“I ain’t quite certain where that’s to be found, but when found, make a
-note of. Sol Gills, heave ahead again!”
+“Tell your sovereign master, Sir,” said Edith, “that I will take leave
+to speak to him on this subject by-and-bye, and that I will speak to
+him [[Alone|alone]].”
 
-“But there or somewhere, it shall lie, Ned, until Wally comes back to
-claim it,” said the old man. “That’s all I meant to say.”
+“Mr Carker, Madam,” said her husband, “being in possession of the
+reason which obliges me to refuse you that privilege, shall be absolved
+from the delivery of any such message.” He saw her eyes move, while he
+spoke, and followed them with his own.
 
-“And [[Well|well]] said too,” returned the Captain; “and if we three don’t crack
-that bottle in company, I’ll give you two leave to.”
+“Your daughter is present, Sir,” said Edith.
 
-Notwithstanding the Captain’s excessive joviality, he made but a poor
-hand at the smoky tongue, though he tried very hard, when anybody
-looked at him, to appear as if he were eating with a vast appetite. He
-was terribly afraid, likewise, of being left [[Alone|alone]] with either Uncle or
-nephew; appearing to consider that his only chance of safety as to
-keeping up appearances, was in there being always three together. This
-terror on the part of the Captain, reduced him to such ingenious
-evasions as running to the door, when Solomon went to put his coat on,
-under pretence of having seen an extraordinary hackney-coach pass: and
-darting out into the [[Road|road]] when Walter went upstairs to take leave of
-the lodgers, on a feint of smelling [[Fire|fire]] in a neighbouring chimney.
-These artifices [[Captain Cuttle]] deemed inscrutable by any uninspired
-observer.
+“My daughter will remain present,” said Mr Dombey.
 
-Walter was coming down from his parting expedition upstairs, and was
-crossing the shop to go back to the little parlour, when he saw a faded
-face he knew, looking in at the door, and darted towards it.
+Florence, who had risen, sat down again, hiding her face in her hands,
+and trembling.
 
-“Mr Carker!” cried Walter, pressing the hand of John Carker the Junior.
-“Pray come in! This is kind of you, to be here so early to say good-bye
-to me. You knew how glad it would make me to shake hands with you,
-once, before going away. I cannot say how glad I am to have this
-opportunity. Pray come in.”
+“My daughter, Madam”—began Mr Dombey.
 
-“It is not likely that we may ever meet again, Walter,” returned the
-other, gently resisting his invitation, “and I am glad of this
-opportunity too. I may venture to speak to you, and to take you by the
-hand, on the eve of separation. I shall not have to resist your frank
-approaches, Walter, any more.”
+But Edith stopped him, in a voice which, although not raised in the
+least, was so clear, emphatic, and distinct, that it might have been
+heard in a whirlwind.
 
-There was a [[Melancholy|melancholy]] in his smile as he said it, that showed he had
-found some company and [[Friendship|friendship]] for his thoughts even in that.
+“I tell you I will speak to you [[Alone|alone]],” she said. “If you are not mad,
+heed what I say.”
 
-“Ah, Mr Carker!” returned Walter. “Why did you resist them? You could
-have done me nothing but good, I am very sure.”
+“I have authority to speak to you, Madam,” returned her husband, “when
+and where I please; and it is my pleasure to speak here and now.”
 
-He shook his head. “If there were any good,” he said, “I could do on
-this earth, I would do it, Walter, for you. The sight of you from day
-to day, has been at once happiness and remorse to me. But the pleasure
-has outweighed the [[Pain|pain]]. I know that, now, by knowing what I lose.”
+She [[Rose|rose]] up as if to leave the room; but sat down again, and looking at
+him with all outward composure, said, in the same voice:
 
-“Come in, Mr Carker, and make acquaintance with my good old Uncle,”
-urged Walter. “I have often talked to him about you, and he will be
-glad to tell you all he hears from me. I have not,” said Walter,
-noticing his hesitation, and speaking with embarrassment himself: “I
-have not told him anything about our last conversation, Mr Carker; not
-even him, believe me.
+“You shall!”
 
-The grey Junior pressed his hand, and [[Tears|tears]] [[Rose|rose]] in his eyes.
+“I must tell you first, that there is a threatening appearance in your
+manner, Madam,” said Mr Dombey, “which does not become you.”
 
-“If I ever make acquaintance with him, Walter,” he returned, “it will
-be that I may hear tidings of you. Rely on my not wronging your
-forbearance and consideration. It would be to wrong it, not to tell him
-all the [[Truth|truth]], before I sought a word of confidence from him. But I
-have no friend or acquaintance except you: and even for your sake, am
-little likely to make any.”
+She laughed. The shaken diamonds in her hair started and trembled.
+There are fables of precious stones that would turn pale, their wearer
+being in danger. Had these been such, their imprisoned rays of light
+would have taken flight that moment, and they would have been as dull
+as lead.
 
-“I wish,” said Walter, “you had suffered me to be your friend indeed. I
-always wished it, Mr Carker, as you know; but never half so much as
-now, when we are going to part.”
+Carker listened, with his eyes cast down.
+
+“As to my daughter, Madam,” said Mr Dombey, resuming the thread of his
+discourse, “it is by no means inconsistent with her duty to me, that
+she should know what conduct to avoid. At present you are a very strong
+example to her of this kind, and I [[Hope|hope]] she may profit by it.”
+
+“I would not stop you now,” returned his wife, immoveable in eye, and
+voice, and attitude; “I would not rise and go away, and save you the
+utterance of one word, if the room were burning.”
+
+Mr Dombey moved his head, as if in a sarcastic acknowledgment of the
+attention, and resumed. But not with so much [[Self|self]]-possession as before;
+for Edith’s quick uneasiness in reference to Florence, and Edith’s
+indifference to him and his censure, chafed and galled him like a
+stiffening wound.
+
+“Mrs Dombey,” said he, “it may not be inconsistent with my daughter’s
+improvement to know how very much to be lamented, and how necessary to
+be corrected, a stubborn disposition is, especially when it is indulged
+in—unthankfully indulged in, I will add—after the gratification of
+[[Ambition|ambition]] and interest. Both of which, I believe, had some share in
+inducing you to occupy your present station at this board.”
+
+“No! I would not rise, and go away, and save you the utterance of one
+word,” she repeated, exactly as before, “if the room were burning.”

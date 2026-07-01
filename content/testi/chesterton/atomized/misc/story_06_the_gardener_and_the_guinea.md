@@ -1,5 +1,5 @@
 ---
-title: "[[misc]] — THE GARDENER AND THE GUINEA"
+title: "misc — THE GARDENER AND THE GUINEA"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 THE GARDENER AND THE GUINEA
-
 
 Strictly speaking, there is no such thing as an
 English Peasant.  Indeed, the type can only exist in community,
@@ -110,7 +109,6 @@ If there is a treasure it will never be found, for I am not interested
 in wealth beyond the [[Dreams|dreams]] of avarice since I know that avarice has
 no [[Dreams|dreams]], but only insomnia.  And, for the other party, my gardener
 would never consent to dig up the [[Garden|garden]].
-
 
 Nevertheless, I was overwhelmed with intellectual emotions when I saw
 that answer to my question; the question of why the [[Garden|garden]] did not belong

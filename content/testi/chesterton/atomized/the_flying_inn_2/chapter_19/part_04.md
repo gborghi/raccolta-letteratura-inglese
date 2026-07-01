@@ -14,6 +14,25 @@ tags:
 </nav>
 
 
+Mr. Hugby, of Hugby's Ales, only looked gloomily
+at the table.  His was not the sort of drinking nor the
+sort of drink-selling on which the revolutionary
+sentiment flourishes.
+
+"[[Well]]," said the Captain, "will you come with me
+and say 'Hear, hear!' and 'How true!'--'What matchless
+eloquence!' if I make a speech in the market-place?
+Come along!  There's room in our car."
+
+"[[Well]], I'll come with you, if you like," replied Mr.
+Hugby, heavily.  "It's true if yours is allowed we
+might get our trade back, too."  And putting on a
+silk hat he followed the Captain and the innkeeper
+out to their little car.  The model village was not an
+appropriate background for Mr. Hugby's silk hat.
+Indeed, the hat somehow seemed to bring out by
+contrast all that was fantastic in the place.
+
 It was a superb morning, some hours after sunrise.
 The edges of the sky touching the ring of dim woods
 and distant hills were still jewelled with the tiny

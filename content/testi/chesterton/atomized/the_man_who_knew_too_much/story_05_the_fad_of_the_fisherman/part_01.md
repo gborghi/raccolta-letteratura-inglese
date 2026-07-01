@@ -193,7 +193,3 @@ A little before sunset he arrived, with his light suitcase in hand,
 before the gate of the long riverside gardens of Willowood Place,
 
 one of the smaller seats of Sir Isaac Hook, the master of much
-
-shipping and many newspapers. He entered by the gate giving on the
-
-[[Road|road]], at the opposite side to the [[River|river]], but there was a mixed

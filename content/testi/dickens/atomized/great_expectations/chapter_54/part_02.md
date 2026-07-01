@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 54 (part 2)"
+title: "Great Expectations — Chapter 54 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_54/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_54/part_03">part 03 ›</a></div>
 </nav>
 
+
+He had his boat-cloak on him, and looked, as I have said, a natural
+part of the scene. It was remarkable (but perhaps the wretched life he
+had led accounted for it) that he was the least anxious of any of us.
+He was not indifferent, for he told me that he hoped to live to see his
+gentleman one of the best of gentlemen in a foreign country; he was not
+disposed to be passive or resigned, as I understood it; but he had no
+notion of meeting danger half way. When it came upon him, he confronted
+it, but it must come before he troubled himself.
 
 “If you knowed, dear boy,” he said to me, “what it is to sit here
 alonger my dear boy and have my smoke, arter having been day by day
@@ -114,14 +123,3 @@ the low level of the shore, in a purple haze, fast deepening into
 black; and there was the solitary flat marsh; and far away there were
 the rising grounds, between which and us there seemed to be no life,
 save here and there in the foreground a [[Melancholy|melancholy]] gull.
-
-As the [[Night|night]] was fast falling, and as the [[Moon|moon]], being past the full,
-would not rise early, we held a little council; a short one, for
-clearly our course was to lie by at the first lonely tavern we could
-find. So, they plied their oars once more, and I looked out for
-anything like a [[house]]. Thus we held on, speaking little, for four or
-five dull miles. It was very cold, and, a collier coming by us, with
-her galley-[[Fire|fire]] smoking and flaring, looked like a comfortable [[Home|home]].
-The [[Night|night]] was as dark by this [[Time|time]] as it would be until morning; and
-what light we had, seemed to come more from the [[River|river]] than the sky, as
-the oars in their dipping struck at a few reflected [[Stars|stars]].

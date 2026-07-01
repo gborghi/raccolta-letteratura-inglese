@@ -1,5 +1,5 @@
 ---
-title: "[[Cymbeline]] — Act IV, Scene 2 — exchange ([[Lucius|LUCIUS]]) [8]"
+title: "Cymbeline — Act IV, Scene 2 — exchange (LUCIUS) [8]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/cymbeline-(shakespeare)"

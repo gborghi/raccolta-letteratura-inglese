@@ -1,5 +1,5 @@
 ---
-title: "[[AllThingsConsidered-8]] — THE MODERN MARTYR"
+title: "AllThingsConsidered-8 — THE MODERN MARTYR"
 author: "Chesterton"
 unitType: story
 parentWork: "works/allthingsconsidered-8-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 THE MODERN MARTYR
-
 
 The incident of the Suffragettes who chained themselves with iron
 [[Chains|chains]] to the railings of Downing Street is a good ironical

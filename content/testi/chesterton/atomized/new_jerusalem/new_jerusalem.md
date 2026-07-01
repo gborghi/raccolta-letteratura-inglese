@@ -306,9 +306,9 @@ The ninth century, the [[Time|time]] of the Norse invasions, was not saintly
 in the sense of being filled with saints; it was filled with pirates
 and petty tyrants, and the first feudal anarchy.  But sanctity
 was the only ideal those barbarians had, when they had any at all.
-And [[Democracy|democracy]] is the only ideal the industrial millions have,
+And [[democracy]] is the only ideal the industrial millions have,
 when they have any at all.  Sanctity was the light of the Dark Ages,
-or if you will the dream of the Dark Ages.  And [[Democracy|democracy]] is the dream
+or if you will the dream of the Dark Ages.  And [[democracy]] is the dream
 of the dark age of industrialism; if it be very much of [[A Dream|a dream]].
 It is this which prophets promise to achieve, and politicians pretend
 to achieve, and poets sometimes [[Desire|desire]] to achieve, and sometimes
@@ -376,7 +376,7 @@ I mean that I saw what it was; the thing itself and the whole thing.
 The Labour problem of to-day stood up quite simply, like a
 peak at which a man looks back and sees single and solid,
 though when he was walking over it it was a wilderness of rocks.
-The Labour problem is the attempt to have the [[Democracy|democracy]] of [[Paris]]
+The Labour problem is the attempt to have the [[democracy]] of [[Paris]]
 without the [[Slavery|slavery]] of Rome.  Between the Roman Republic and the
 French Republic something had happened.  Whatever else it was, it was
 the abandonment of the ancient and fundamental human habit of [[Slavery|slavery]];
@@ -787,7 +787,7 @@ as to be rejected.  It is not easy to define this quality of
 something primitive, something not mature enough to be fruitful.
 Indeed there is a hard simplicity about many Eastern things that is
 as much crude as archaic.  A palm-tree is very like a tree drawn
-by a [[Child|child]]--or by a very futurist [[artist]].  Even a pyramid is like
+by a [[Child|child]]--or by a very futurist [[Artist|artist]].  Even a pyramid is like
 a mathematical figure drawn by a schoolmaster teaching children;
 and its very impressiveness is that of an ultimate Platonic abstraction.
 There is something curiously simple about the shape in which
@@ -1597,7 +1597,7 @@ the cloud concealing the sunburst that broods upon the [[Road|road]] to Damascus
 But I am here only confessing the facts or fancies of my first impression;
 and again the fancy that came to me first was not of any such
 alien or awful things.  I did not think of damask or damascene
-or the great Arabian [[City|city]] or even the [[Conversion|conversion]] of St. Paul.
+or the great Arabian [[City|city]] or even the [[conversion]] of St. Paul.
 I thought of my own little [[house]] in Buckinghamshire, and how the edge
 of the country town where it stands is called Aylesbury End,
 merely because it is the corner nearest to Aylesbury.
@@ -2408,7 +2408,7 @@ and justice in the distinction, even in the world of ideas.
 That most people with much more [[Education|education]] than the Arab, and therefore
 much less excuse than the Arab, entirely ignore that distinction,
 is merely a result of their ignoring ideas, and being satisfied
-with long words.  They like [[Democracy|democracy]] because it is a long word;
+with long words.  They like [[democracy]] because it is a long word;
 that is the only thing they do like about it.
 
 People are entitled to [[Self|self]]-[[government]]; that is, to such
@@ -2629,7 +2629,7 @@ at the back of Zionism is in the difference between the picture
 of a Jew by Rembrandt and a picture of a Jew by Sargent.
 For Rembrandt the Rabbi was, in a special and [[Double|double]] sense,
 a distinguished figure.  He was something distinct from the world
-of the [[artist]], who drew a Rabbi as he would a Brahmin.  But Sargent
+of the [[Artist|artist]], who drew a Rabbi as he would a Brahmin.  But Sargent
 had to treat his sitters as solid citizens of England or [[America]];
 and consequently his pictures are direct provocations to a pogrom.
 But the light that Rembrandt loved falls not irreverently on
@@ -3223,7 +3223,7 @@ For the religious and political parties have yet another point
 in common with separate nations; that even within this narrow
 space the complicated curve of their frontiers is really more
 or less fixed, and certainly not particularly fluctuating.
-Persecution is impossible and [[Conversion|conversion]] is not at all common.
+Persecution is impossible and [[conversion]] is not at all common.
 The very able Anglo-Catholic leader, to whom I have already referred,
 uttered to me a [[Paradox|paradox]] that was a very practical [[Truth|truth]].
 He said he felt exasperated with the Christian sects,
@@ -3716,7 +3716,7 @@ for this is akin to what has already been said about Jerusalem as a
 knot of realities.  It is especially a knot of popular realities.
 Although it is so small a place, or rather because it is so
 small a place, it is a domain and a dominion for the masses.
-[[Democracy]] is never quite democratic except when it is quite direct;
+[[democracy|Democracy]] is never quite democratic except when it is quite direct;
 and it is never quite direct except when it is quite small.
 So soon as a mob has grown large enough to have delegates it has
 grown large enough to have despots; indeed the despots are often
@@ -3802,7 +3802,7 @@ It is these masses whom we ought to consider everywhere; but it
 is especially these masses whom we must consider in Jerusalem.
 And the reason is in the reality I have described; that the place
 is like a Greek [[City|city]] or a medieval parish; it is sufficiently
-small and simple to be a [[Democracy|democracy]].  This is not a university town
+small and simple to be a [[democracy]].  This is not a university town
 full of philosophies; it is a Zion of the hundred sieges raging
 with religions; not a place where resolutions can be voted and amended,
 but a place where men can be crowned and crucified.
@@ -3810,8 +3810,8 @@ but a place where men can be crowned and crucified.
 There is one small thing neglected in all our talk
 about [[Self|self]]-determination; and that is determination.
 There is a great deal more difference than there is between most
-motions and amendments between the things for which a [[Democracy|democracy]]
-will vote and the things on which a [[Democracy|democracy]] is determined.
+motions and amendments between the things for which a [[democracy]]
+will vote and the things on which a [[democracy]] is determined.
 You can take a vote among Jews and Christians and Moslems about whether
 lamp-posts should be painted green or portraits of politicians painted
 at all, and even their solid unanimity may be solid indifference.
@@ -3828,7 +3828,7 @@ parliamentary election, to vote on the other side for a change, to choose
 afresh between two middle-class gentlemen, who look exactly alike and
 only differ on a question about which nobody knows or cares anything.
 It is a question of contrasts that will almost certainly remain contrasts,
-except under the flood of some spiritual [[Conversion|conversion]] which cannot
+except under the flood of some spiritual [[conversion]] which cannot
 be foreseen and certainly cannot be enforced.  We cannot enrol
 these people under our religion, because we have not got one.
 We can enrol them under our [[government]], and if we are obliged to do that,
@@ -4902,7 +4902,7 @@ As for the more vulgar and universal fashions that have followed
 after the Celtic movement, they have left such trifles far behind.
 And they have been directed not by imaginative artists
 like Mr. Yeats or even Mr. Moore, but by solid scientific
-students like Sir William Crookes and Sir [[Arthur]] Conan Doyle.
+students like Sir William Crookes and Sir [[arthur|Arthur]] Conan Doyle.
 I find it easier to imagine an evil spirit agitating the legs
 of a pig than a good spirit agitating the legs of a table.
 But I will not here enter into the argument, since I am only
@@ -5658,7 +5658,7 @@ of Mahomet.  For when the Persians who had destroyed Jerusalem rode
 out in triumph to the village of Bethlehem, they looked up and saw
 above the door a picture in coloured stone, a picture of themselves.
 They were following a strange star and worshipping an unknown [[Child|child]].
-For a Christian [[artist]], following some ancient Eastern tradition
+For a Christian [[Artist|artist]], following some ancient Eastern tradition
 containing an eternal [[Truth|truth]], had drawn the three wise men with
 the long robes and high head-dresses of Persia.  The worshippers
 of the sun had come westward for the worship of the star.
@@ -6083,7 +6083,7 @@ through the same vague nomadic need as the Christian Army in Palestine.
 Surely Pershing as [[Well|well]] as Peter the Hermit was merely a rather restless
 gentleman who found his health improved by frequent change of scene.
 The Americans said, and perhaps thought, that they were fighting
-for [[Democracy|democracy]]; and the Crusaders said, and perhaps thought,
+for [[democracy]]; and the Crusaders said, and perhaps thought,
 that they were fighting for [[Christianity]].  But as we know what
 the Crusaders meant better than they did themselves, I cannot
 quite understand why we do not enjoy the same valuable omniscience
@@ -6140,7 +6140,7 @@ in fighting another nation than in fighting another [[Faith|faith]].
 The Crusader is in every sense more rational than the modern
 conscript or professional soldier.  He is more rational in
 his object, which is the intelligent and intelligible object
-of [[Conversion|conversion]]; where the modern militarist has an object much
+of [[conversion]]; where the modern militarist has an object much
 more confused by momentary [[Vanity|vanity]] and one-sided satisfaction.
 The Crusader wished to make Jerusalem a Christian town;
 but the Englishman does not wish to make Berlin an English town.
@@ -6153,7 +6153,7 @@ this purpose, but the purpose itself is looser and more irrational.
 The object of all war is peace; but the object of religious
 war is mental as [[Well|well]] as material peace; it is agreement.
 In short religious war aims ultimately at equality, where national
-war aims relatively at superiority.  [[Conversion]] is the one sort
+war aims relatively at superiority.  [[conversion|Conversion]] is the one sort
 of conquest in which the conquered must rejoice.
 
 In that sense [[Alone|alone]] it is foolish for us in the West to sneer
@@ -6269,7 +6269,7 @@ but it was a more purely popular revolution than either of them.
 The truly modern mind will of course regard the contention that it
 was popular as tantamount to a confession that it was animal.
 In these days when papers and speeches are full of words like
-[[Democracy|democracy]] and [[Self|self]]-determination, anything really resembling
+[[democracy]] and [[Self|self]]-determination, anything really resembling
 the movement of a mass of angry men is regarded as no better than
 a stampede of bulls or a scurry of rats.  The new sociologists
 call it the herd instinct, just as the old reactionaries called it
@@ -6312,7 +6312,7 @@ that the masses [[Alone|alone]] failed where the two together succeeded.
 But it was the uneducated who educated the educated.
 The case of the Crusade is emphatically not a case in which certain
 ideas were first suggested by a few philosophers, and then preached
-by demagogues to the [[Democracy|democracy]].  This was to a great extent true
+by demagogues to the [[democracy]].  This was to a great extent true
 of the [[French Revolution]]; it was probably yet more true of the
 Russian Revolution; and we need not here pause upon the fine shade
 of difference that Rousseau was right and Karl Marx was wrong.
@@ -6386,7 +6386,7 @@ like any boy [[Hero|hero]] in a boy's adventure story.  But he was also,
 the realist will be surprised to hear, a perfectly honest man,
 and a perfectly genuine practiser of the theoretical magnanimity
 of knighthood.  Everything about him suggests it; from his first
-[[Conversion|conversion]] from the imperial to the papal (and popular) cause, to his
+[[conversion]] from the imperial to the papal (and popular) cause, to his
 great refusal of the kinghood of the [[City|city]] he had taken; "I will
 not wear a [[Crown|crown]] of gold where my Master wore a [[Crown|crown]] of thorns."
 He was a just ruler, and the laws he made were full of the plainest
@@ -7774,7 +7774,7 @@ true on both its different sides.  Suppose somebody proposes to mix up
 England and [[America]], under some absurd name like the Anglo-Saxon Empire.
 One man may say, "Why should the jolly English inns and villages
 be swamped by these priggish provincial Yankees?"  Another may say,
-"Why should the real [[Democracy|democracy]] of a young country be tied to your
+"Why should the real [[democracy]] of a young country be tied to your
 snobbish old squirarchy?"  But both these views are only versions
 of the same view of a great American:  "God never made one people
 good enough to rule another."
@@ -7846,7 +7846,7 @@ many laborious Jewish blacksmiths, many active Jewish hedgers
 and ditchers, or even many energetic Jewish hunters and fishermen.
 In short, the popular impression is tolerably true to life,
 as popular impressions very often are; though it is not fashionable
-to say so in these days of [[Democracy|democracy]] and [[Self|self]]-determination. Jews
+to say so in these days of [[democracy]] and [[Self|self]]-determination. Jews
 do not generally work on the land, or in any of the handicrafts
 that are akin to the land; but the Zionists reply that this is
 because it can never really be their own land.  That is Zionism,
@@ -8141,7 +8141,7 @@ that is he must belong to the soil and not merely make the soil
 belong to him.  He must have the simplicity, and what many would
 call the stupidity of the peasant.  He must not only call a spade
 a spade, but regard it as a spade and not as a speculation.
-By some true [[Conversion|conversion]] the urban and modern man must be not
+By some true [[conversion]] the urban and modern man must be not
 only on the soil, but of the soil, and free from our urban trick
 of inventing the word dirt for the [[Dust|dust]] to which we shall return.
 He must be washed in mud, that he may be clean.

@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 31: THIRTY ONE (part 6)"
+title: "Martin Chuzzlewit — Chapter 31: THIRTY ONE (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_31_thirty_one/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_31_thirty_one/part_07">part 07 ›</a></div>
 </nav>
 
+
+Something without a name; compassion, sorrow, old tenderness, mistaken
+gratitude, habit; none of these, and yet all of them; smote upon Tom’s
+gentle heart at parting. There was no such [[Soul|soul]] as Pecksniff’s in
+that carcase; and yet, though his speaking out had not involved the
+compromise of one he loved, he couldn’t have denounced the very shape
+and figure of the man. Not even then.
 
 ‘I will not say,’ cried Mr Pecksniff, shedding [[Tears|tears]], ‘what a blow this
 is. I will not say how much it tries me; how it works upon my [[Nature|nature]];
@@ -115,11 +122,3 @@ than he could go [[Alone|alone]]. Tom took the carpet-bag, and went downstairs
 along with him. At the outer door stood Jane, crying with all her might;
 and on the steps was Mrs Lupin, sobbing bitterly, and putting out her
 hand for Tom to shake.
-
-‘You’re coming to the Dragon, Mr Pinch?’
-
-‘No,’ said Tom, ‘no. I shall walk to Salisbury to-[[Night|night]]. I couldn’t stay
-here. For goodness’ sake, don’t make me so unhappy, Mrs Lupin.’
-
-‘But you’ll come to the Dragon, Mr Pinch. If it’s only for tonight. To
-see me, you know; not as a traveller.’

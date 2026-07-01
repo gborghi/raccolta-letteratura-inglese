@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 3 (part 3)"
+title: "Oliver Twist — Chapter 3 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_03/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_04/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Now, [[Oliver]], my dear, come to the gentleman.” As Mr. Bumble said this,
+he put on a grim and threatening look, and added, in a low voice, “Mind
+what I told you, you young rascal!”
+
+[[Oliver]] stared innocently in Mr. Bumble’s face at this somewhat
+contradictory style of address; but that gentleman prevented his
+offering any remark thereupon, by leading him at once into an adjoining
+room: the door of which was open. It was a large room, with a great
+[[Window|window]]. Behind a desk, sat two old gentleman with powdered heads: one
+of whom was reading the newspaper; while the other was perusing, with
+the aid of a pair of tortoise-shell spectacles, a small piece of
+parchment which lay before him. Mr. Limbkins was standing in front of
+the desk on one side; and Mr. Gamfield, with a partially washed face,
+on the other; while two or three bluff-looking men, in top-boots, were
+lounging about.
 
 The old gentleman with the spectacles gradually dozed off, over the
 little bit of parchment; and there was a short pause, after [[Oliver]] had

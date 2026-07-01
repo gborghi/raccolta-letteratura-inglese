@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 31 (part 1)"
+title: "Oliver Twist — Chapter 31 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -142,9 +142,3 @@ don’t think it would exonerate him, either with them, or with legal
 functionaries of a higher grade. What is he, after all, they would say?
 A runaway. Judged by mere worldly considerations and probabilities, his
 story is a very doubtful one.”
-
-“You believe it, surely?” interrupted [[Rose]].
-
-“_I_ believe it, strange as it is; and perhaps I may be an old [[Fool|fool]] for
-doing so,” rejoined the doctor; “but I don’t think it is exactly the
-tale for a practical police-officer, nevertheless.”

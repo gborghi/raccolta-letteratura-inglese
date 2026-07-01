@@ -1,5 +1,5 @@
 ---
-title: "The Merchant of [[Venice]] — Act II, Scene 9"
+title: "The Merchant of Venice — Act II, Scene 9"
 author: "Shakespeare"
 unitType: scene
 parentWork: "works/the-merchant-of-venice-(shakespeare)"

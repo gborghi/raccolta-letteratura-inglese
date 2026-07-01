@@ -1,5 +1,5 @@
 ---
-title: "[[CharlesDickens]] — Chapter 11 (part 1)"
+title: "CharlesDickens — Chapter 11 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/charlesdickens-(chesterton)"
@@ -109,7 +109,7 @@ he always looks forward, because the bailiff is coming to-morrow.
 You cannot say he is defeated, for his absurd battle never ends;
 he cannot [[Despair|despair]] of life, for he is so much occupied in living.
 All this is of immense importance in the understanding of the poor;
-it is worth all the slum novelists that ever insulted [[Democracy|democracy]].
+it is worth all the slum novelists that ever insulted [[democracy]].
 But how did it happen that the man who created this Micawber
 could pension him off at the end of the story and make him
 a successful colonial mayor?  Micawber never did succeed,

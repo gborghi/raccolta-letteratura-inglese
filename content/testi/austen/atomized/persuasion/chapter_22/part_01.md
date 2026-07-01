@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 22 (part 1)"
+title: "Persuasion — Chapter 22 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -223,7 +223,3 @@ evening of his return; but from [[thursday|Thursday]] to Saturday evening his
 absence was certain. It was bad enough that a Mrs Clay should be always
 
 before her; but that a deeper hypocrite should be added to their party,
-
-seemed the destruction of everything like peace and comfort. It was so
-
-humiliating to reflect on the constant [[Deception|deception]] practised on her

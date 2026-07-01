@@ -1,5 +1,5 @@
 ---
-title: "[[Mellonta Tauta]] (part 3)"
+title: "Mellonta Tauta (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/mellonta-tauta-(poe)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/mellonta_tauta/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/mellonta_tauta/part/part_04">part 04 ›</a></div>
 </nav>
 
+
+      farther, but pronounced the “theorist” a [[Fool|fool]], and would have
+
+      nothing to do with him or his [[Truth|truth]].
+
+
+
+      Now, it cannot be maintained, even, that by the crawling system
+
+      the greatest amount of [[Truth|truth]] would be attained in any long series
 
       of ages, for the repression of [[Imagination|imagination]] was an evil not to be
 
@@ -181,17 +191,3 @@ tags:
       from the works of God the vital fact that a perfect consistency
 
       must be an absolute [[Truth|truth]]! How plain has been our progress since
-
-      the late announcement of this proposition! Investigation has been
-
-      taken out of the hands of the ground-moles and given, as a task,
-
-      to the true and only true thinkers, the men of ardent
-
-      [[Imagination|imagination]]. These latter theorize. Can you not fancy the shout
-
-      of scorn with which my words would be received by our progenitors
-
-      were it possible for them to be now looking over my shoulder?
-
-      These men, I say, theorize; and their theories are simply

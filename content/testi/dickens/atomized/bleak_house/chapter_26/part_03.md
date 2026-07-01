@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 26 (part 3)"
+title: "Bleak House — Chapter 26 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_26/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_26/part_04">part 04 ›</a></div>
 </nav>
 
+
+Mr. George, after laughing cheerfully and clapping him on the
+shoulder, assists in these arrangements and helps to get the gallery
+into business order. That done, he takes a turn at the dumb-[[Bells|bells]],
+and afterwards weighing himself and opining that he is getting “too
+fleshy,” engages with great gravity in solitary broadsword practice.
+Meanwhile Phil has fallen to work at his usual table, where he screws
+and unscrews, and cleans, and files, and whistles into small
+apertures, and blackens himself more and more, and seems to do and
+undo everything that can be done and undone about a gun.
 
 Master and man are at length disturbed by footsteps in the passage,
 where they make an unusual sound, denoting the arrival of unusual
@@ -125,23 +135,3 @@ rubbing his legs.
 “And you’re doing [[Well|well]], Mr. George?” he says to the trooper, squarely
 standing faced about towards him with his broadsword in his hand.
 “You are prospering, please the Powers?”
-
-Mr. George answers with a cool nod, adding, “Go on. You have not come
-to say that, I know.”
-
-“You are so sprightly, Mr. George,” returns the venerable
-grandfather. “You are such good company.”
-
-“Ha ha! Go on!” says Mr. George.
-
-“My dear friend! But that [[Sword|sword]] looks awful gleaming and sharp. It
-might cut somebody, by accident. It makes me shiver, Mr. George.
-Curse him!” says the excellent old gentleman apart to Judy as the
-trooper takes a step or two away to lay it aside. “He owes me money,
-and might think of paying off old scores in this murdering place. I
-wish your brimstone grandmother was here, and he’d shave her head
-off.”
-
-Mr. George, returning, folds his arms, and looking down at the old
-man, sliding every moment lower and lower in his chair, says quietly,
-“Now for it!”

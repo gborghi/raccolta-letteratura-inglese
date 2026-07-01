@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 11 (part 5)"
+title: "Our Mutual Friend — Chapter 12 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,134 +14,137 @@ tags:
 </nav>
 
 
-‘Oh I know all about myself,’ said Miss Podsnap.
+‘No,’ said Eugene.
 
-‘I’ll tell you something I know about you, my dear,’ returned Mrs Lammle
-in her winning way, ‘and that is, you are most unnecessarily shy.’
+‘Certainly not, Governor,’ Mr Riderhood acquiesced. ‘So I made up my
+mind to get my trouble off my mind, and to earn by the sweat of my brow
+what was held out to me. And what’s more,’ he added, suddenly turning
+bloodthirsty, ‘I mean to have it! And now I tell you, once and away,
+Lawyer Lightwood, that Jesse Hexam, commonly called Gaffer, his hand and
+no other, done the deed, on his own confession to me. And I give him up
+to you, and I want him took. This [[Night|night]]!’
 
-‘Ma ain’t,’ said Miss Podsnap. ‘—I detest you! Go along!’ This shot
-was levelled under her breath at the gallant Grompus for bestowing an
-insinuating smile upon her in passing.
+After another [[Silence|silence]], broken only by the fall of the ashes in the
+grate, which attracted the informer’s attention as if it were the
+chinking of money, Mortimer Lightwood leaned over his friend, and said
+in a whisper:
 
-‘Pardon me if I scarcely see, my dear Miss Podsnap,’ Mrs Lammle was
-beginning when the young lady interposed.
+‘I suppose I must go with this fellow to our imperturbable friend at the
+police-station.’
 
-‘If we are going to be real friends (and I suppose we are, for you are
-the only person who ever proposed it) don’t let us be awful. It’s awful
-enough to BE Miss Podsnap, without being called so. Call me Georgiana.’
+‘I suppose,’ said Eugene, ‘there is no help for it.’
 
-‘Dearest Georgiana,’ Mrs Lammle began again.
+‘Do you believe him?’
 
-‘Thank you,’ said Miss Podsnap.
+‘I believe him to be a thorough rascal. But he may tell the [[Truth|truth]], for
+his own purpose, and for this occasion only.’
 
-‘Dearest Georgiana, pardon me if I scarcely see, my [[Love|love]], why your
-mamma’s not being shy, is a reason why you should be.’
+‘It doesn’t look like it.’
 
-‘Don’t you really see that?’ asked Miss Podsnap, plucking at her fingers
-in a troubled manner, and furtively casting her eyes now on Mrs Lammle,
-now on the ground. ‘Then perhaps it isn’t?’
+‘HE doesn’t,’ said Eugene. ‘But neither is his late partner, whom he
+denounces, a prepossessing person. The firm are cut-throat Shepherds
+both, in appearance. I should like to ask him one thing.’
 
-‘My dearest Georgiana, you defer much too readily to my poor opinion.
-Indeed it is not even an opinion, darling, for it is only a confession
-of my dullness.’
+The subject of this conference sat leering at the ashes, trying with
+all his might to overhear what was said, but feigning abstraction as the
+‘Governors Both’ glanced at him.
 
-‘Oh YOU are not dull,’ returned Miss Podsnap. ‘I am dull, but you
-couldn’t have made me talk if you were.’
+‘You mentioned (twice, I think) a daughter of this Hexam’s,’ said
+Eugene, aloud. ‘You don’t mean to imply that she had any guilty
+knowledge of the crime?’
 
-Some little touch of [[Conscience|conscience]] answering this perception of her having
-gained a purpose, called bloom enough into Mrs Lammle’s face to make it
-look brighter as she sat smiling her best smile on her dear Georgiana,
-and shaking her head with an affectionate playfulness. Not that it meant
-anything, but that Georgiana seemed to like it.
+The honest man, after considering—perhaps considering how his answer
+might affect the fruits of the sweat of his brow—replied, unreservedly,
+‘No, I don’t.’
 
-‘What I mean is,’ pursued Georgiana, ‘that Ma being so endowed with
-awfulness, and Pa being so endowed with awfulness, and there being
-so much awfulness everywhere—I mean, at least, everywhere where I
-am—perhaps it makes me who am so deficient in awfulness, and frightened
-at it—I say it very badly—I don’t know whether you can understand what
-I mean?’
+‘And you implicate no other person?’
 
-‘Perfectly, dearest Georgiana!’ Mrs Lammle was proceeding with every
-reassuring wile, when the head of that young lady suddenly went back
-against the wall again and her eyes closed.
+‘It ain’t what I implicate, it’s what Gaffer implicated,’ was the dogged
+and determined answer. ‘I don’t pretend to know more than that his words
+to me was, “I done it.” Those was his words.’
 
-‘Oh there’s Ma being awful with somebody with a glass in his eye! Oh I
-know she’s going to bring him here! Oh don’t bring him, don’t bring him!
-Oh he’ll be my partner with his glass in his eye! Oh what shall I do!’
-This [[Time|time]] Georgiana accompanied her ejaculations with taps of her feet
-upon the floor, and was altogether in quite a desperate condition. But,
-there was no escape from the majestic Mrs Podsnap’s production of an
-ambling stranger, with one eye screwed up into extinction and the other
-framed and glazed, who, having looked down out of that organ, as if he
-descried Miss Podsnap at the [[Bottom|bottom]] of some perpendicular shaft, brought
-her to the surface, and ambled off with her. And then the captive at the
-piano played another ‘set,’ expressive of his mournful aspirations after
-[[Freedom|freedom]], and other sixteen went through the former [[Melancholy|melancholy]] motions,
-and the ambler took Miss Podsnap for a furniture walk, as if he had
-struck out an entirely original conception.
+‘I must see this out, Mortimer,’ whispered Eugene, rising. ‘How shall we
+go?’
 
-In the mean [[Time|time]] a stray personage of a meek demeanour, who had wandered
-to the hearthrug and got among the heads of tribes assembled there in
-conference with Mr Podsnap, eliminated Mr Podsnap’s flush and
-flourish by a highly unpolite remark; no less than a reference to the
-circumstance that some half-dozen people had lately died in the streets,
-of starvation. It was clearly ill-timed after dinner. It was not adapted
-to the cheek of the young person. It was not in good taste.
+‘Let us walk,’ whispered Lightwood, ‘and give this fellow [[Time|time]] to think
+of it.’
 
-‘I don’t believe it,’ said Mr Podsnap, putting it behind him.
+Having exchanged the question and answer, they prepared themselves
+for going out, and Mr Riderhood [[Rose|rose]]. While extinguishing the candles,
+Lightwood, quite as a matter of course took up the glass from which that
+honest gentleman had drunk, and coolly tossed it under the grate, where
+it fell shivering into fragments.
 
-The meek man was afraid we must take it as proved, because there were
-the Inquests and the Registrar’s returns.
+‘Now, if you will take the lead,’ said Lightwood, ‘Mr Wrayburn and I
+will follow. You know where to go, I suppose?’
 
-‘Then it was their own fault,’ said Mr Podsnap.
+‘I suppose I do, Lawyer Lightwood.’
 
-Veneering and other elders of tribes commended this way out of it. At
-once a short cut and a broad [[Road|road]].
+‘Take the lead, then.’
 
-The man of meek demeanour intimated that truly it would seem from
-the facts, as if starvation had been forced upon the culprits in
-question—as if, in their wretched manner, they had made their weak
-protests against it—as if they would have taken the liberty of staving
-it off if they could—as if they would rather not have been starved upon
-the whole, if perfectly agreeable to all parties.
+The waterside character pulled his drowned cap over his ears with both
+hands, and making himself more round-shouldered than [[Nature|nature]] had made
+him, by the sullen and persistent slouch with which he went, went
+down the stairs, round by the Temple Church, across the Temple into
+Whitefriars, and so on by the waterside streets.
 
-‘There is not,’ said Mr Podsnap, flushing angrily, ‘there is not a
-country in the world, sir, where so noble a provision is made for the
-poor as in this country.’
+‘Look at his hang-dog air,’ said Lightwood, following.
 
-The meek man was quite willing to concede that, but perhaps it
-rendered the matter even worse, as showing that there must be something
-appallingly wrong somewhere.
+‘It strikes me rather as a hang-MAN air,’ returned Eugene. ‘He has
+undeniable intentions that way.’
 
-‘Where?’ said Mr Podsnap.
+They said little else as they followed. He went on before them as an
+ugly Fate might have done, and they kept him in view, and would have
+been glad enough to lose sight of him. But on he went before them,
+always at the same distance, and the same rate. Aslant against the hard
+implacable weather and the rough [[Wind|wind]], he was no more to be driven back
+than hurried forward, but held on like an advancing Destiny. There came,
+when they were about midway on their [[Journey|journey]], a heavy rush of hail,
+which in a few minutes pelted the streets clear, and whitened them. It
+made no difference to him. A man’s life being to be taken and the price
+of it got, the hailstones to arrest the purpose must lie larger and
+deeper than those. He crashed through them, leaving marks in the
+fast-melting slush that were mere shapeless holes; one might have
+fancied, following, that the very fashion of humanity had departed from
+his feet.
 
-The meek man hinted Wouldn’t it be [[Well|well]] to try, very seriously, to find
-out where?
+The blast went by, and the [[Moon|moon]] contended with the fast-flying clouds,
+and the wild disorder reigning up there made the pitiful little tumults
+in the streets of no account. It was not that the [[Wind|wind]] swept all
+the brawlers into places of shelter, as it had swept the hail still
+lingering in heaps wherever there was refuge for it; but that it seemed
+as if the streets were absorbed by the sky, and the [[Night|night]] were all in
+the air.
 
-‘Ah!’ said Mr Podsnap. ‘Easy to say somewhere; not so easy to say
-where! But I see what you are driving at. I knew it from the first.
-Centralization. No. Never with my consent. Not English.’
+‘If he has had [[Time|time]] to think of it,’ said Eugene, ‘he has not had [[Time|time]] to
+think better of it—or differently of it, if that’s better. There is no
+sign of drawing back in him; and as I recollect this place, we must be
+close upon the corner where we alighted that [[Night|night]].’
 
-An approving murmur arose from the heads of tribes; as saying, ‘There
-you have him! Hold him!’
+In fact, a few abrupt turns brought them to the [[River|river]] side, where they
+had slipped about among the stones, and where they now slipped more; the
+[[Wind|wind]] coming against them in slants and flaws, across the tide and the
+windings of the [[River|river]], in a furious way. With that habit of getting
+under the lee of any shelter which waterside characters acquire, the
+waterside character at present in question led the way to the leeside of
+the Six Jolly Fellowship Porters before he spoke.
 
-He was not aware (the meek man submitted of himself) that he was driving
-at any ization. He had no favourite ization that he knew of. But he
-certainly was more staggered by these terrible occurrences than he was
-by names, of howsoever so many syllables. Might he ask, was dying of
-destitution and neglect necessarily English?
+‘Look round here, Lawyer Lightwood, at them red curtains. It’s the
+Fellowships, the ’ouse as I told you wouldn’t run away. And has it run
+away?’
 
-‘You know what the population of [[London]] is, I suppose,’ said Mr Podsnap.
+Not showing himself much impressed by this remarkable confirmation of
+the informer’s evidence, Lightwood inquired what other business they had
+there?
 
-The meek man supposed he did, but supposed that had absolutely nothing
-to do with it, if its laws were [[Well|well]] administered.
+‘I wished you to see the Fellowships for yourself, Lawyer Lightwood,
+that you might judge whether I’m a liar; and now I’ll see Gaffer’s
+[[Window|window]] for myself, that we may know whether he’s at [[Home|home]].’
 
-‘And you know; at least I [[Hope|hope]] you know;’ said Mr Podsnap, with
-severity, ‘that [[Providence]] has declared that you shall have the poor
-always with you?’
+With that, he crept away.
 
-The meek man also hoped he knew that.
+‘He’ll come back, I suppose?’ murmured Lightwood.
 
-‘I am glad to hear it,’ said Mr Podsnap with a portentous air. ‘I am
-glad to hear it. It will render you cautious how you fly in the face of
-[[Providence]].’
+‘Ay! and go through with it,’ murmured Eugene.
+
+He came back after a very short interval indeed.

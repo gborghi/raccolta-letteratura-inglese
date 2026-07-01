@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 21 (part 5)"
+title: "Jane Eyre — Chapter 21 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,44 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_21/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_21/part_06">part 06 ›</a></div>
 </nav>
 
+
+I felt [[Pain|pain]], and then I felt ire; and then I felt a determination to
+subdue her—to be her mistress in spite both of her [[Nature|nature]] and her will.
+My [[Tears|tears]] had risen, just as in [[Childhood|childhood]]: I ordered them back to their
+source. I brought a chair to the bed-head: I sat down and leaned over
+the pillow.
+
+“You sent for me,” I said, “and I am here; and it is my intention to
+stay till I see how you get on.”
+
+“Oh, of course! You have seen my daughters?”
+
+“Yes.”
+
+“[[Well]], you may tell them I wish you to stay till I can talk some things
+over with you I have on my mind: to-[[Night|night]] it is too late, and I have a
+difficulty in recalling them. But there was something I wished to
+say—let me see—”
+
+The wandering look and changed utterance told what wreck had taken
+place in her once vigorous frame. Turning restlessly, she drew the
+bedclothes round her; my elbow, resting on a corner of the quilt, fixed
+it down: she was at once irritated.
+
+“Sit up!” said she; “don’t annoy me with holding the clothes fast. Are
+you [[Jane Eyre]]?”
+
+“I am [[Jane Eyre]].”
+
+“I have had more trouble with that [[Child|child]] than any one would believe.
+Such a burden to be left on my hands—and so much annoyance as she
+caused me, daily and hourly, with her incomprehensible disposition, and
+her sudden starts of temper, and her continual, unnatural watchings of
+one’s movements! I declare she talked to me once like something mad, or
+like a fiend—no [[Child|child]] ever spoke or looked as she did; I was glad to
+get her away from the [[house]]. What did they do with her at Lowood? The
+fever broke out there, and many of the pupils died. She, however, did
+not die: but I said she did—I wish she had died!”
 
 “A strange wish, Mrs. Reed; why do you hate her so?”
 
@@ -99,29 +137,3 @@ brilliantly—a happy touch or two secured [[success]]. There, I had a
 friend’s face under my gaze; and what did it signify that those young
 ladies turned their backs on me? I looked at it; I smiled at the
 speaking likeness: I was absorbed and content.
-
-“Is that a portrait of some one you know?” asked Eliza, who had
-approached me unnoticed. I responded that it was merely a fancy head,
-and hurried it beneath the other sheets. Of course, I lied: it was, in
-fact, a very faithful representation of Mr. Rochester. But what was
-that to her, or to any one but myself? Georgiana also advanced to look.
-The other drawings pleased her much, but she called that “an ugly man.”
-They both seemed surprised at my skill. I offered to [[Sketch|sketch]] their
-portraits; and each, in turn, sat for a pencil outline. Then Georgiana
-produced her album. I promised to contribute a [[Water|water]]-colour drawing:
-this put her at once into good [[Humour|humour]]. She proposed a walk in the
-grounds. Before we had been out two hours, we were deep in a
-confidential conversation: she had favoured me with a description of
-the brilliant [[Winter|winter]] she had spent in [[London]] two [[Seasons|seasons]] ago—of the
-admiration she had there excited—the attention she had received; and I
-even got hints of the titled conquest she had made. In the course of
-the afternoon and evening these hints were enlarged on: various soft
-conversations were reported, and sentimental scenes represented; and,
-in short, a volume of a [[Novel|novel]] of fashionable life was that day
-improvised by her for my benefit. The communications were renewed from
-day to day: they always ran on the same theme—herself, her loves, and
-woes. It was strange she never once adverted either to her mother’s
-illness, or her brother’s [[Death|death]], or the present gloomy state of the
-family prospects. Her mind seemed wholly taken up with reminiscences of
-past gaiety, and aspirations after dissipations to come. She passed
-about five minutes each day in her mother’s sick-room, and no more.

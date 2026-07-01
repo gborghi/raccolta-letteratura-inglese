@@ -1,5 +1,5 @@
 ---
-title: "The Ballad of the White [[Horse]] — Book VI"
+title: "The Ballad of the White Horse — Book VI"
 author: "Chesterton"
 unitType: section
 parentWork: "works/the-ballad-of-the-white-horse-(chesterton)"

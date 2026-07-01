@@ -1,5 +1,5 @@
 ---
-title: "A Christmas [[carol|Carol]] — Stave 2: THE FIRST OF THE THREE SPIRITS (part 4)"
+title: "A Christmas Carol — Stave 2: THE FIRST OF THE THREE SPIRITS (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-christmas-carol-(dickens)"
@@ -13,6 +13,34 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_christmas_carol/chapter_02_the_first_of_the_three_spirits/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/a_christmas_carol/chapter_02_the_first_of_the_three_spirits/part_05">part 05 ›</a></div>
 </nav>
 
+
+The [[Ghost]] stopped at a certain warehouse door, and asked
+Scrooge if he knew it.
+
+"Know it!" said Scrooge. "Was I apprenticed here!"
+
+They went in. At sight of an old gentleman in a Welsh
+wig, sitting behind such a high desk, that if he had been two
+inches taller he must have knocked his head against the
+ceiling, Scrooge cried in great excitement:
+
+"Why, it's old Fezziwig! Bless his heart; it's Fezziwig
+alive again!"
+
+Old Fezziwig laid down his pen, and looked up at the
+[[Clock|clock]], which pointed to the hour of seven. He rubbed his
+hands; adjusted his capacious waistcoat; laughed all over
+himself, from his shoes to his organ of benevolence; and
+called out in a comfortable, oily, rich, fat, jovial voice:
+
+"Yo ho, there! Ebenezer! Dick!"
+
+Scrooge's former [[Self|self]], now grown a young man, came briskly
+in, accompanied by his fellow-'prentice.
+
+"Dick Wilkins, to be sure!" said Scrooge to the [[Ghost]].
+"Bless me, yes. There he is. He was very much attached
+to me, was Dick. Poor Dick! Dear, dear!"
 
 "Yo ho, my boys!" said Fezziwig. "No more work to-[[Night|night]].
 Christmas Eve, Dick. Christmas, Ebenezer! Let's
@@ -116,25 +144,3 @@ bright faces of his former [[Self|self]] and Dick were turned from
 them, that he remembered the [[Ghost]], and became conscious
 that it was looking full upon him, while the light upon its
 head burnt very clear.
-
-"A small matter," said the [[Ghost]], "to make these silly
-folks so full of gratitude."
-
-"Small!" echoed Scrooge.
-
-The Spirit signed to him to listen to the two apprentices,
-who were pouring out their hearts in praise of Fezziwig:
-and when he had done so, said,
-
-"Why! Is it not? He has spent but a few pounds of
-your mortal money: three or four perhaps. Is that so
-much that he deserves this praise?"
-
-"It isn't that," said Scrooge, heated by the remark, and
-speaking unconsciously like his former, not his latter, [[Self|self]].
-"It isn't that, Spirit. He has the power to render us happy
-or unhappy; to make our service light or burdensome; a
-pleasure or a toil. Say that his power lies in words and
-looks; in things so slight and insignificant that it is
-impossible to add and count 'em up: what then? The happiness
-he gives, is quite as great as if it cost a fortune."

@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 29 (part 2)"
+title: "Mansfield Park — Chapter 29 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -113,9 +113,3 @@ suit the sort of friendly acquaintance we have had together? So many
 months’ acquaintance! But compliments may be sufficient here. Was his
 letter a long one? Does he give you much account of what he is doing?
 Is it Christmas gaieties that he is staying for?”
-
-“I only heard a part of the letter; it was to my uncle; but I believe
-it was very short; indeed I am sure it was but a few lines. All that I
-heard was that his friend had pressed him to stay longer, and that he
-had agreed to do so. A _few_ days longer, or _some_ days longer; I am
-not quite sure which.”

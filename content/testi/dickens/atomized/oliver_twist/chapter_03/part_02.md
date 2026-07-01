@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 3 (part 2)"
+title: "Oliver Twist — Chapter 3 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_03/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_03/part_03">part 03 ›</a></div>
 </nav>
 
+
+“Young boys have been smothered in chimneys before now,” said another
+gentleman.
+
+“That’s acause they damped the straw afore they lit it in the chimbley
+to make ’em come down again,” said Gamfield; “that’s all smoke, and no
+blaze; vereas smoke ain’t o’ no use at all in making a boy come down,
+for it only sinds him to [[Sleep|sleep]], and that’s wot he likes. Boys is wery
+obstinit, and wery lazy, Gen’l’men, and there’s nothink like a good hot
+blaze to make ’em come down vith a run. It’s humane too, gen’l’men,
+acause, even if they’ve stuck in the chimbley, roasting their feet
+makes ’em struggle to hextricate theirselves.”
 
 The gentleman in the white waistcoat appeared very much amused by this
 explanation; but his mirth was speedily checked by a look from Mr.
@@ -126,19 +138,3 @@ him.
 There the boy remained, with a palpitating heart, for half an hour. At
 the expiration of which [[Time|time]] Mr. Bumble thrust in his head, unadorned
 with the cocked hat, and said aloud:
-
-“Now, [[Oliver]], my dear, come to the gentleman.” As Mr. Bumble said this,
-he put on a grim and threatening look, and added, in a low voice, “Mind
-what I told you, you young rascal!”
-
-[[Oliver]] stared innocently in Mr. Bumble’s face at this somewhat
-contradictory style of address; but that gentleman prevented his
-offering any remark thereupon, by leading him at once into an adjoining
-room: the door of which was open. It was a large room, with a great
-[[Window|window]]. Behind a desk, sat two old gentleman with powdered heads: one
-of whom was reading the newspaper; while the other was perusing, with
-the aid of a pair of tortoise-shell spectacles, a small piece of
-parchment which lay before him. Mr. Limbkins was standing in front of
-the desk on one side; and Mr. Gamfield, with a partially washed face,
-on the other; while two or three bluff-looking men, in top-boots, were
-lounging about.

@@ -1,5 +1,5 @@
 ---
-title: "[[Pride and Prejudice]] — Chapter 18 (part 1)"
+title: "Pride and Prejudice — Chapter 18 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/pride-and-prejudice-(austen)"
@@ -129,8 +129,3 @@ the [[Dance|dance]], when he asked her if she and her sisters did not very often
 walk to Meryton. She answered in the affirmative; and, unable to resist
 the [[Temptation|temptation]], added, “When you met us there the other day, we had just
 been forming a new acquaintance.”
-
-The effect was immediate. A deeper shade of _hauteur_ overspread his
-features, but he said not a word; and Elizabeth, though blaming herself
-for her own weakness, could not go on. At length Darcy spoke, and in a
-constrained manner said,--

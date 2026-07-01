@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 4"
+title: "Bleak House — Chapter 4"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/bleak-house-(dickens)"

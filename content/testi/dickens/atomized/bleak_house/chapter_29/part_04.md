@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 29 (part 4)"
+title: "Bleak House — Chapter 29 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_29/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_30/part_01">part 01 ›</a></div>
 </nav>
 
+
+“It was supposed, your ladyship, that he left no rag or scrap behind
+him by which he could be possibly identified. But he did. He left a
+bundle of old letters.”
+
+The screen still goes, as before. All this [[Time|time]] her eyes never once
+release him.
+
+“They were taken and secreted. And to-morrow [[Night|night]], your ladyship,
+they will come into my possession.”
+
+“Still I ask you, what is this to me?”
 
 “Your ladyship, I conclude with that.” Mr. Guppy rises. “If you think
 there’s enough in this chain of circumstances put together—in the

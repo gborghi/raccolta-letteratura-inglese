@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 2 (part 4)"
+title: "Our Mutual Friend — Chapter 5 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,73 +10,148 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_43/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_44/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_43/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_43/part_05">part 05 ›</a></div>
 </nav>
 
 
-It appeared to Miss Abbey and her two companions that a considerable
-[[Time|time]] had been thus occupied. There was now as eager a set towards the
-shore beneath the [[house]] as there had been from it; and it was only
-on the first boat of the rush coming in that it was known what had
-occurred.
+But between [[Bella Wilfer]] and Georgiana Podsnap there was this one
+difference, among many others, that Bella was in no danger of being
+captivated by Alfred. She distrusted and disliked him. Indeed, her
+perception was so quick, and her observation so sharp, that after all
+she mistrusted his wife too, though with her giddy [[Vanity|vanity]] and wilfulness
+she squeezed the mistrust away into a corner of her mind, and blocked it
+up there.
 
-‘If that’s Tom Tootle,’ Miss Abbey made proclamation, in her most
-commanding tones, ‘let him instantly come underneath here.’
+Mrs Lammle took the friendliest interest in Bella’s making a good match.
+Mrs Lammle said, in a sportive way, she really must show her beautiful
+Bella what kind of wealthy creatures she and Alfred had on hand, who
+would as one man fall at her feet enslaved. Fitting occasion made,
+Mrs Lammle accordingly produced the most passable of those feverish,
+boastful, and indefinably loose gentlemen who were always lounging in
+and out of the [[City]] on questions of the Bourse and Greek and Spanish and
+India and Mexican and par and premium and discount and three-quarters
+and seven-eighths. Who in their agreeable manner did homage to Bella
+as if she were a compound of fine girl, thorough-bred [[Horse|horse]], [[Well|well]]-built
+drag, and remarkable pipe. But without the least effect, though even Mr
+Fledgeby’s attractions were cast into the scale.
 
-The submissive Tom complied, attended by a crowd.
+‘I [[Fear|fear]], Bella dear,’ said Mrs Lammle one day in the chariot, ‘that you
+will be very hard to please.’
 
-‘What is it, Tootle?’ demanded Miss Abbey.
+‘I don’t expect to be pleased, dear,’ said Bella, with a languid turn of
+her eyes.
 
-‘It’s a foreign steamer, miss, run down a wherry.’
+‘Truly, my [[Love|love]],’ returned Sophronia, shaking her head, and smiling
+her best smile, ‘it would not be very easy to find a man worthy of your
+attractions.’
 
-‘How many in the wherry?’
+‘The question is not a man, my dear,’ said Bella, coolly, ‘but an
+establishment.’
 
-‘One man, Miss Abbey.’
+‘My [[Love|love]],’ returned Mrs Lammle, ‘your prudence amazes me—where DID you
+study life so [[Well|well]]!—you are right. In such a case as yours, the object
+is a fitting establishment. You could not descend to an inadequate one
+from Mr Boffin’s [[house]], and even if your [[Beauty|beauty]] [[Alone|alone]] could not command
+it, it is to be assumed that Mr and Mrs Boffin will—’
 
-‘Found?’
+‘Oh! they have already,’ Bella interposed.
 
-‘Yes. He’s been under [[Water|water]] a long [[Time|time]], Miss; but they’ve grappled up
-the [[Body|body]].’
+‘No! Have they really?’
 
-‘Let ’em bring it here. You, Bob Gliddery, shut the [[house]]-door and stand
-by it on the inside, and don’t you open till I tell you. Any police down
-there?’
+A little vexed by a suspicion that she had spoken precipitately, and
+withal a little defiant of her own vexation, Bella determined not to
+retreat.
 
-‘Here, Miss Abbey,’ was official rejoinder.
+‘That is to say,’ she explained, ‘they have told me they mean to portion
+me as their adopted [[Child|child]], if you mean that. But don’t mention it.’
 
-‘After they have brought the [[Body|body]] in, keep the crowd out, will you? And
-help Bob Gliddery to shut ’em out.’
+‘Mention it!’ replied Mrs Lammle, as if she were full of awakened
+feeling at the suggestion of such an impossibility. ‘Men-tion it!’
 
-‘All right, Miss Abbey.’
+‘I don’t mind telling you, Mrs Lammle—’ Bella began again.
 
-The autocratic landlady withdrew into the [[house]] with Riah and Miss
-Jenny, and disposed those forces, one on either side of her, within the
-half-door of the bar, as behind a breastwork.
+‘My [[Love|love]], say Sophronia, or I must not say Bella.’
 
-‘You two stand close here,’ said Miss Abbey, ‘and you’ll come to no
-hurt, and see it brought in. Bob, you stand by the door.’
+With a little short, petulant ‘Oh!’ Bella complied. ‘Oh!—Sophronia
+then—I don’t mind telling you, Sophronia, that I am convinced I have
+no heart, as people call it; and that I think that sort of thing is
+nonsense.’
 
-That sentinel, smartly giving his rolled shirt-sleeves an extra and a
-final tuck on his shoulders, obeyed.
+‘Brave girl!’ murmured Mrs Lammle.
 
-Sound of advancing voices, sound of advancing steps. Shuffle and talk
-without. Momentary pause. Two peculiarly blunt knocks or pokes at the
-door, as if the dead man arriving on his back were striking at it with
-the soles of his motionless feet.
+‘And so,’ pursued Bella, ‘as to seeking to please myself, I don’t;
+except in the one respect I have mentioned. I am indifferent otherwise.’
 
-‘That’s the stretcher, or the shutter, whichever of the two they are
-carrying,’ said Miss Abbey, with experienced ear. ‘Open, you Bob!’
+‘But you can’t help pleasing, Bella,’ said Mrs Lammle, rallying her with
+an arch look and her best smile, ‘you can’t help making a proud and an
+admiring husband. You may not care to please yourself, and you may not
+care to please him, but you are not a free agent as to pleasing: you
+are forced to do that, in spite of yourself, my dear; so it may be a
+question whether you may not as [[Well|well]] please yourself too, if you can.’
 
-Door opened. Heavy tread of laden men. A halt. A rush. Stoppage of rush.
-Door shut. Baffled boots from the vexed souls of disappointed outsiders.
+Now, the very grossness of this flattery put Bella upon proving that she
+actually did please in spite of herself. She had a misgiving that she
+was doing wrong—though she had an indistinct foreshadowing that some
+harm might come of it thereafter, she little thought what consequences
+it would really bring about—but she went on with her confidence.
 
-‘Come on, men!’ said Miss Abbey; for so potent was she with her subjects
-that even then the bearers awaited her permission. ‘First floor.’
+‘Don’t talk of pleasing in spite of one’s [[Self|self]], dear,’ said Bella. ‘I
+have had enough of that.’
 
-The entry being low, and the staircase being low, they so took up the
-burden they had set down, as to carry that low. The recumbent figure, in
-passing, lay hardly as high as the half door.
+‘Ay?’ cried Mrs Lammle. ‘Am I already corroborated, Bella?’
 
-Miss Abbey started back at sight of it. ‘Why, good God!’ said she,
-turning to her two companions, ‘that’s the very man who made the
-declaration we have just had in our hands. That’s Riderhood!’
+‘Never mind, Sophronia, we will not speak of it any more. Don’t ask me
+about it.’
+
+This plainly meaning Do ask me about it, Mrs Lammle did as she was
+requested.
+
+‘Tell me, Bella. Come, my dear. What provoking burr has been
+inconveniently attracted to the charming skirts, and with difficulty
+shaken off?’
+
+‘Provoking indeed,’ said Bella, ‘and no burr to boast of! But don’t ask
+me.’
+
+‘Shall I guess?’
+
+‘You would never guess. What would you say to our Secretary?’
+
+‘My dear! The hermit Secretary, who creeps up and down the back stairs,
+and is never seen!’
+
+‘I don’t know about his creeping up and down the back stairs,’ said
+Bella, rather contemptuously, ‘further than knowing that he does no such
+thing; and as to his never being seen, I should be content never to have
+seen him, though he is quite as visible as you are. But I pleased HIM
+(for my sins) and he had the presumption to tell me so.’
+
+‘The man never made a declaration to you, my dear Bella!’
+
+‘Are you sure of that, Sophronia?’ said Bella. ‘I am not. In fact, I am
+sure of the contrary.’
+
+‘The man must be mad,’ said Mrs Lammle, with a kind of [[Resignation|resignation]].
+
+‘He appeared to be in his senses,’ returned Bella, tossing her head,
+‘and he had plenty to say for himself. I told him my opinion of his
+declaration and his conduct, and dismissed him. Of course this has all
+been very inconvenient to me, and very disagreeable. It has remained a
+secret, however. That word reminds me to observe, Sophronia, that I have
+glided on into telling you the secret, and that I rely upon you never to
+mention it.’
+
+‘Mention it!’ repeated Mrs Lammle with her former feeling. ‘Men-tion
+it!’
+
+This [[Time|time]] Sophronia was so much in earnest that she found it necessary
+to bend forward in the carriage and give Bella a kiss. A Judas order of
+kiss; for she thought, while she yet pressed Bella’s hand after giving
+it, ‘Upon your own showing, you vain heartless girl, puffed up by the
+doting folly of a dustman, I need have no relenting towards YOU. If my
+husband, who sends me here, should form any schemes for making YOU a
+victim, I should certainly not [[Cross|cross]] him again.’ In those very same
+moments, Bella was thinking, ‘Why am I always at war with myself? Why
+have I told, as if upon compulsion, what I knew all along I ought to
+have withheld? Why am I making a friend of this woman beside me, in
+spite of the whispers against her that I hear in my heart?’

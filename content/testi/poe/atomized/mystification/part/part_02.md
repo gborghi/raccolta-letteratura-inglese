@@ -1,5 +1,5 @@
 ---
-title: "[[Mystification]] (part 2)"
+title: "Mystification (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/mystification-(poe)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/mystification/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/mystification/part/part_03">part 03 ›</a></div>
 </nav>
 
+
+      Continually enveloped in an atmosphere of whim, my friend
+
+      appeared to live only for the severities of society; and not even
 
       his own household have for a moment associated other ideas than
 
@@ -195,11 +199,3 @@ tags:
       he was in sober earnest. He appeared to be stifling with passion,
 
       and his face was cadaverously white. For a short [[Time|time]] he remained
-
-      silent, apparently striving to master his emotion. Having at
-
-      length seemingly succeeded, he reached a decanter which stood
-
-      near him, saying as he held it firmly clenched—“The language you
-
-      have thought proper to employ, Mynheer Hermann, in addressing

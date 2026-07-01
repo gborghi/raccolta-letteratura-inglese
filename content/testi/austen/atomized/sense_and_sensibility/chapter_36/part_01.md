@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 36 (part 1)"
+title: "Sense and Sensibility — Chapter 36 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -201,11 +201,3 @@ expect to go out with her a second [[Time|time]]? The power of disappointing
 them, it was true, must always be hers. But that was not enough; for
 
 when people are determined on a mode of conduct which they know to be
-
-wrong, they feel injured by the expectation of any thing better from
-
-them.
-
-
-
-Marianne had now been brought by degrees, so much into the habit of

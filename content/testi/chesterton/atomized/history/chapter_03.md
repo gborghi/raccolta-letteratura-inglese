@@ -1,5 +1,5 @@
 ---
-title: "[[history]] — Chapter 3"
+title: "history — Chapter 3"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/history-(chesterton)"
@@ -34,7 +34,7 @@ against men as tall as trees or as short as toadstools.  The soldier
 of civilization is no longer fighting with Goths but with goblins;
 the land becomes a labyrinth of faërie towns unknown to [[history]];
 and scholars can suggest but cannot explain how a Roman ruler or a Welsh
-chieftain towers up in the twilight as the awful and unbegotten [[Arthur]].
+chieftain towers up in the twilight as the awful and unbegotten [[arthur|Arthur]].
 The scientific age comes first and the mythological age after it.
 One working example, the echoes of which lingered till very late
 in English literature, may serve to sum up the contrast.  The British
@@ -127,7 +127,7 @@ And though Alfred the Great seems to have deserved his title
 even as a personality, he was not so great as the work
 he had to do.
 
-But the [[Paradox|paradox]] remains that [[Arthur]] is more real than Alfred.
+But the [[Paradox|paradox]] remains that [[arthur|Arthur]] is more real than Alfred.
 For the age is the age of legends.  Towards these legends
 most men adopt by instinct a sane attitude; and, of the two,
 credulity is certainly much more sane than [[Incredulity|incredulity]].
@@ -141,7 +141,7 @@ both of them tending to correct the crude and very thoughtless
 scepticism which has made this part of the story so sterile.
 The nineteenth-century historians went on the curious principle
 of dismissing all people of whom tales are told, and concentrating
-upon people of whom nothing is told.  Thus, [[Arthur]] is made
+upon people of whom nothing is told.  Thus, [[arthur|Arthur]] is made
 utterly impersonal because all legends are lies, but somebody
 of the type of Hengist is made quite an important personality,
 merely because nobody thought him important enough to lie about.
@@ -153,7 +153,7 @@ That fictitious stories are told about a person is, nine times
 out of ten, extremely good evidence that there was somebody
 to tell them about.  Indeed some allow that marvellous
 things were done, and that there may have been a man named
-[[Arthur]] at the [[Time|time]] in which they were done; but here,
+[[arthur|Arthur]] at the [[Time|time]] in which they were done; but here,
 so far as I am concerned, the distinction becomes rather dim.
 I do not understand the attitude which holds that there was
 an Ark and a man named Noah, but cannot believe in the existence
@@ -198,7 +198,7 @@ to a valley which through all the oldest records is called Avalon.
 Something of rich rains and warmth in its westland meadows,
 or something in some lost pagan traditions about it,
 made it persistently regarded as a kind of Earthly Paradise.
-[[Arthur]], after being slain at Lyonesse, is carried here,
+[[arthur|Arthur]], after being slain at Lyonesse, is carried here,
 as if to heaven.  Here the [[Pilgrim|pilgrim]] planted his staff in the soil;
 and it took root as a tree that blossoms on Christmas Day.
 

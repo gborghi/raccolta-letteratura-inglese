@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 25 (part 4)"
+title: "The Tenant of Wildfell Hall — Chapter 25 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,34 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_25/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_27/part_01">part 01 ›</a></div>
 </nav>
 
+
+indeed, and such inquiries could not fail to be painful to both. My
+
+forbearance pleases him—touches him even, I am inclined to think. He
+
+says he is glad to be [[Home|home]] again, and God knows how glad I am to get
+
+him back, even as he is. He lies on the sofa, nearly all day long; and
+
+I play and sing to him for hours together. I write his letters for him,
+
+and get him everything he wants; and sometimes I read to him, and
+
+sometimes I talk, and sometimes only sit by him and soothe him with
+
+silent caresses. I know he does not deserve it; and I [[Fear|fear]] I am
+
+spoiling him; but this once, I will forgive him, freely and entirely. I
+
+will shame him into virtue if I can, and I will never let him leave me
+
+again.
+
+
+
+He is pleased with my attentions—it may be, grateful for them. He likes
+
+to have me near him: and though he is peevish and testy with his
 
 servants and his [[dogs]], he is gentle and kind to me. What he would be,
 
@@ -42,7 +70,7 @@ he pressed my hand to his feverish lips), “and what more could you
 
 
 
-“Only, [[arthur|Arthur]], that you would [[Love|love]] _yourself_ as truly and as
+“Only, [[Arthur]], that you would [[Love|love]] _yourself_ as truly and as
 
 faithfully as you are loved by me.”
 
@@ -52,7 +80,7 @@ faithfully as you are loved by me.”
 
 
 
-August 24th.—[[arthur|Arthur]] is himself again, as lusty and reckless, as light
+August 24th.—[[Arthur]] is himself again, as lusty and reckless, as light
 
 of heart and head as ever, and as restless and hard to amuse as a
 
@@ -104,7 +132,7 @@ shooting [[Alone|alone]]; he must have a friend or two to help him.
 
 
 
-“Let them be tolerably decent then, [[arthur|Arthur]],” said I. The word “friend”
+“Let them be tolerably decent then, [[Arthur]],” said I. The word “friend”
 
 in his mouth makes me shudder: I know it was some of his “friends” that
 

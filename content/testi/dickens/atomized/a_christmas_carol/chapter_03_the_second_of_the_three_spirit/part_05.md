@@ -1,5 +1,5 @@
 ---
-title: "A Christmas [[carol|Carol]] — Stave 3: THE SECOND OF THE THREE SPIRITS (part 5)"
+title: "A Christmas Carol — Stave 3: THE SECOND OF THE THREE SPIRITS (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-christmas-carol-(dickens)"
@@ -13,6 +13,43 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_christmas_carol/chapter_03_the_second_of_the_three_spirit/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/a_christmas_carol/chapter_03_the_second_of_the_three_spirit/part_06">part 06 ›</a></div>
 </nav>
 
+
+"My dear," was Bob's mild answer, "Christmas Day."
+
+"I'll drink his health for your sake and the Day's," said
+Mrs. Cratchit, "not for his. Long life to him! A merry
+Christmas and a happy new year! He'll be very merry and
+very happy, I have no [[Doubt|doubt]]!"
+
+The children drank the toast after her. It was the first of
+their proceedings which had no heartiness. [[Tiny Tim]] drank
+it last of all, but he didn't care twopence for it. Scrooge
+was the Ogre of the family. The mention of his name cast
+a dark [[Shadow|shadow]] on the party, which was not dispelled for full
+five minutes.
+
+After it had passed away, they were ten times merrier than
+before, from the mere relief of Scrooge the Baleful being done
+with. [[Bob Cratchit]] told them how he had a situation in his
+eye for Master Peter, which would bring in, if obtained, full
+five-and-sixpence weekly. The two young Cratchits laughed
+tremendously at the idea of Peter's being a man of business;
+and Peter himself looked thoughtfully at the [[Fire|fire]] from
+between his collars, as if he were deliberating what particular
+investments he should favour when he came into the receipt
+of that bewildering income. Martha, who was a poor
+apprentice at a milliner's, then told them what kind of work
+she had to do, and how many hours she worked at a stretch,
+and how she meant to lie abed to-morrow morning for a
+good long rest; to-morrow being a holiday she passed at
+[[Home|home]]. Also how she had seen a countess and a lord some
+days before, and how the lord "was much about as tall as
+Peter;" at which Peter pulled up his collars so high that you
+couldn't have seen his head if you had been there. All this
+[[Time|time]] the chestnuts and the jug went round and round; and
+by-and-bye they had a [[Song|song]], about a lost [[Child|child]] travelling in
+the [[Snow|snow]], from [[Tiny Tim]], who had a plaintive little voice,
+and sang it very [[Well|well]] indeed.
 
 There was nothing of high mark in this. They were not
 a handsome family; they were not [[Well|well]] dressed; their shoes
@@ -91,46 +128,3 @@ the last of the land, a frightful range of rocks, behind them;
 and his ears were deafened by the thundering of [[Water|water]], as it
 rolled and roared, and raged among the dreadful caverns it
 had worn, and fiercely tried to undermine the earth.
-
-Built upon a dismal reef of sunken rocks, some league
-or so from shore, on which the waters chafed and dashed,
-the wild year through, there stood a solitary lighthouse.
-Great heaps of sea-weed clung to its base, and [[Storm|storm]]-[[Birds|birds]]
---born of the [[Wind|wind]] one might suppose, as sea-weed of the
-[[Water|water]]--[[Rose|rose]] and fell about it, like the waves they skimmed.
-
-But even here, two men who watched the light had made
-a [[Fire|fire]], that through the loophole in the thick stone wall shed
-out a ray of brightness on the awful sea. Joining their
-horny hands over the rough table at which they sat, they
-wished each other Merry Christmas in their can of grog; and
-one of them: the elder, too, with his face all damaged and
-scarred with hard weather, as the figure-head of an old [[Ship|ship]]
-might be: struck up a sturdy [[Song|song]] that was like a Gale in
-itself.
-
-Again the [[Ghost]] sped on, above the black and heaving sea
---on, on--until, being far away, as he told Scrooge, from any
-shore, they lighted on a [[Ship|ship]]. They stood beside the helmsman
-at the [[Wheel|wheel]], the look-out in the bow, the officers who
-had the watch; dark, ghostly figures in their several stations;
-but every man among them hummed a Christmas tune, or
-had a Christmas thought, or spoke below his breath to his
-companion of some bygone Christmas Day, with homeward
-hopes belonging to it. And every man on board, waking or
-sleeping, good or bad, had had a kinder word for another
-on that day than on any day in the year; and had shared
-to some extent in its festivities; and had remembered those
-he cared for at a distance, and had known that they delighted
-to remember him.
-
-It was a great surprise to Scrooge, while listening to the
-moaning of the [[Wind|wind]], and thinking what a solemn thing it
-was to move on through the lonely darkness over an unknown
-abyss, whose depths were [[Secrets|secrets]] as profound as [[Death]]: it
-was a great surprise to Scrooge, while thus engaged, to hear
-a hearty laugh. It was a much greater surprise to Scrooge
-to recognise it as his own nephew's and to find himself in a
-bright, dry, gleaming room, with the Spirit standing smiling
-by his side, and looking at that same nephew with approving
-affability!

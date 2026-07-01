@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 9 (part 3)"
+title: "Jane Eyre — Chapter 9 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,31 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_09/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_10/part_01">part 01 ›</a></div>
 </nav>
 
+
+It might be two hours later, probably near eleven, when I—not having
+been able to fall asleep, and deeming, from the perfect [[Silence|silence]] of the
+dormitory, that my companions were all wrapt in profound repose—[[Rose|rose]]
+softly, put on my frock over my [[Night|night]]-dress, and, without shoes, crept
+from the apartment, and set off in [[Quest|quest]] of Miss Temple’s room. It was
+quite at the other end of the [[house]]; but I knew my way; and the light
+of the unclouded [[Summer|summer]] [[Moon|moon]], entering here and there at passage
+windows, enabled me to find it without difficulty. An odour of camphor
+and burnt vinegar warned me when I came near the fever room: and I
+passed its door quickly, fearful lest the [[Nurse|nurse]] who sat up all [[Night|night]]
+should hear me. I dreaded being discovered and sent back; for I _must_
+see [[Helen]],—I must embrace her before she died,—I must give her one last
+kiss, exchange with her one last word.
+
+Having descended a staircase, traversed a portion of the [[house]] below,
+and succeeded in opening and shutting, without noise, two doors, I
+reached another flight of steps; these I mounted, and then just
+opposite to me was Miss Temple’s room. A light shone through the
+keyhole and from under the door; a profound stillness pervaded the
+vicinity. Coming near, I found the door slightly ajar; probably to
+admit some fresh air into the close abode of sickness. Indisposed to
+hesitate, and full of impatient impulses—[[Soul|soul]] and senses quivering with
+keen throes—I put it back and looked in. My eye sought [[Helen]], and
+feared to find [[Death|death]].
 
 Close by Miss Temple’s bed, and half covered with its white curtains,
 there stood a little crib. I saw the outline of a form under the

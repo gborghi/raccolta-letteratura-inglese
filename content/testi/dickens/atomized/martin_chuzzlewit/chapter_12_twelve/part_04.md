@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 12: TWELVE (part 4)"
+title: "Martin Chuzzlewit — Chapter 12: TWELVE (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,23 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_12_twelve/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_12_twelve/part_05">part 05 ›</a></div>
 </nav>
 
+
+They were very merry and full of enjoyment the whole [[Time|time]], but not the
+least pleasant part of the festival was when they all three sat about
+the [[Fire|fire]], cracking nuts, drinking wine and talking cheerfully. It
+happened that [[Tom Pinch]] had a word to say to his friend the organist’s
+assistant, and so deserted his warm corner for a few minutes at this
+season, lest it should grow too late; leaving the other two young men
+together.
+
+They drank his health in his absence, of course; and John Westlock took
+that opportunity of saying, that he had never had even a peevish word
+with Tom during the whole term of their residence in Mr Pecksniff’s
+[[house]]. This naturally led him to dwell upon Tom’s character, and to hint
+that Mr Pecksniff understood it pretty [[Well|well]]. He only hinted this, and
+very distantly; knowing that it pained [[Tom Pinch]] to have that gentleman
+disparaged, and thinking it would be as [[Well|well]] to leave the new pupil to
+his own discoveries.
 
 ‘Yes,’ said Martin. ‘It’s impossible to like Pinch better than I do,
 or to do greater justice to his good qualities. He is the most willing
@@ -129,24 +146,3 @@ out as [[Well|well]] as you can [[Desire|desire]]!’
 Westlock, laughing; ‘whose parents, or guardians, are destined to be
 hooked by the advertisement. What! Don’t you know that he has advertised
 again?’
-
-‘No.’
-
-‘Oh, yes. I read it just before dinner in the old newspaper. I know it
-to be his; having some reason to remember the style. Hush! Here’s Pinch.
-Strange, is it not, that the more he likes Pecksniff (if he can like him
-better than he does), the greater reason one has to like HIM? Not a word
-more, or we shall spoil his whole enjoyment.’
-
-Tom entered as the words were spoken, with a radiant smile upon his
-face; and rubbing his hands, more from a sense of delight than because
-he was cold (for he had been running fast), sat down in his warm corner
-again, and was as happy as only [[Tom Pinch]] could be. There is no other
-simile that will express his state of mind.
-
-‘And so,’ he said, when he had gazed at his friend for some [[Time|time]] in
-silent pleasure, ‘so you really are a gentleman at last, John. [[Well]], to
-be sure!’
-
-‘Trying to be, Tom; trying to be,’ he rejoined good-humouredly. ‘There
-is no saying what I may turn out, in [[Time|time]].’

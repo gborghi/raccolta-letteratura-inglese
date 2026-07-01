@@ -1,5 +1,5 @@
 ---
-title: "The Man Who Knew Too Much — The Temple of [[Silence]] (part 2)"
+title: "The Man Who Knew Too Much — The Temple of Silence (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/the-man-who-knew-too-much-(chesterton)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_07_the_temple_of_silence/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_07_the_temple_of_silence/part_03">part 03 ›</a></div>
 </nav>
 
+
+of some interest—a young Cambridge man named Eric Hughes who was
+
+the rising [[Hope|hope]] of the party of [[Reform]], to which the Fisher family,
+
+along with their friend Saltoun, had long been at least formally
 
 attached. The personality of Hughes was substantially summed up in
 
@@ -176,16 +182,3 @@ will. But we can all back you up, can't we? I see what Lord Saltoun
 means, and, of course, he's right. He's always right."
 "So I will go down to Somerset," said Horne Fisher.
 "Yes, it is on the way to Westminster," said Lord Saltoun, with a
-
-smile.
-And so it happened that Horne Fisher arrived some days later at the
-
-little station of a rather remote market town in the west,
-
-accompanied by a light suitcase and a lively brother. It must not be
-
-supposed, however, that the brother's cheerful tone consisted
-
-entirely of chaff. He supported the new candidate with [[Hope|hope]] as [[Well|well]]
-
-as hilarity; and at the back of his boisterous partnership there was

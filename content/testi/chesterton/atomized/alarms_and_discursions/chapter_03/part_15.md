@@ -14,6 +14,36 @@ tags:
 </nav>
 
 
+I do not know whose heads are criminal, but I think I know
+whose are imbecile.
+
+-/-
+
+The Wrath of the Roses
+
+THE position of the [[Rose|rose]] among [[Flowers|flowers]] is like that of the dog
+among [[Animals|animals]].  It is not so much that both are domesticated as
+that we have some dim feeling that they were always domesticated.
+There are wild roses and there are wild [[dogs]].  I do not know the
+wild [[dogs]]; wild roses are very nice.  But nobody ever thinks of either
+of them if the name is abruptly mentioned in a gossip or a poem.
+On the other hand, there are tame tigers and tame cobras, but if one says,
+"I have a cobra in my pocket," or "There is a tiger in the music-room,"
+the adjective "tame" has to be somewhat hastily added.
+If one speaks of beasts one thinks first of wild beasts;
+if of [[Flowers|flowers]] one thinks first of wild [[Flowers|flowers]].
+
+But there are two great exceptions; caught so completely into the [[Wheel|wheel]]
+of man's civilisation, entangled so unalterably with his ancient
+emotions and images, that the artificial product seems more natural
+than the natural.  The dog is not a part of natural [[history]],
+but of human [[history]]; and the real [[Rose|rose]] grows in a [[Garden|garden]].
+All must regard the elephant as something tremendous, but tamed;
+and many, especially in our great cultured centres, regard every
+bull as presumably a mad bull.  In the same way we think of most
+[[Garden|garden]] trees and plants as fierce creatures of the forest or morass
+taught at last to endure the curb.
+
 But with the dog and the [[Rose|rose]] this instinctive principle is reversed.
 With them we think of the artificial as the archetype; the earth-born
 as the erratic exception.  We think vaguely of the wild dog as if
@@ -90,51 +120,3 @@ And when I walk round a [[Summer|summer]] [[Garden|garden]], I can understand ho
 lords at the end of the Middle Ages, just before their swords clashed,
 caught at roses for their instinctive emblems of empire and rivalry.
 For to me any such [[Garden|garden]] is full of the [[Wars of the Roses|wars of the roses]].
-
--/-
-
-The Gold of Glastonbury
-
-ONE silver morning I walked into a small grey town of stone, like twenty
-other grey western towns, which happened to be called Glastonbury;
-and saw the [[Magic|magic]] thorn of near two thousand years growing in the open
-air as casually as any bush in my [[Garden|garden]].
-
-In Glastonbury, as in all noble and humane things, the myth is more
-important than the [[history]].  One cannot say anything stronger of
-the strange old tale of St. Joseph and the Thorn than that it dwarfs
-St. Dunstan.  Standing among the actual stones and shrubs one thinks
-of the first century and not of the tenth; one's mind goes back beyond
-the Saxons and beyond the greatest statesman of the Dark Ages.  The tale
-that Joseph of Arimathea came to Britain is presumably a mere legend.
-But it is not by any means so incredible or preposterous a legend
-as many modern people suppose.  The popular notion is that the thing
-is quite comic and inconceivable; as if one said that Wat Tyler
-went to Chicago, or that John Bunyan discovered the North Pole.
-We think of Palestine as little, localised and very private,
-of [[Christ]]'s followers as poor folk, _astricti glebis_, rooted to their
-towns or trades; and we think of vast routes of travel and constant
-world-communications as things of recent and scientific origin.
-But this is wrong; at least, the last part of it is.
-It is part of that large and placid lie that the rationalists tell
-when they say that [[Christianity]] arose in ignorance and barbarism.
-[[Christianity]] arose in the thick of a brilliant and bustling
-cosmopolitan civilisation.  Long sea-voyages were not so quick,
-but were quite as incessant as to-day; and though in the [[Nature|nature]]
-of things [[Christ]] had not many rich followers, it is not unnatural
-to suppose that He had some.  And a Joseph of Arimathea may easily
-have been a Roman citizen with a yacht that could visit Britain.
-The same fallacy is employed with the same partisan motive in the case
-of the Gospel of St. John; which critics say could not have been
-written by one of the first few Christians because of its Greek
-transcendentalism and its Platonic tone.  I am no judge of the philology,
-but every human being is a divinely appointed judge of the [[philosophy]]:
-and the Platonic tone seems to me to prove nothing at all.
-Palestine was not a secluded valley of barbarians; it was
-an open province of a polyglot empire, overrun with all sorts
-of people of all kinds of [[Education|education]].  To take a rough parallel:
-suppose some great [[Prophet|prophet]] arose among the Boers in South Africa.
-The [[Prophet|prophet]] himself might be a simple or unlettered man.
-But no one who knows the modern world would be surprised if one
-of his closest followers were a Professor from Heidelberg or an
-M.A. from [[Oxford]].

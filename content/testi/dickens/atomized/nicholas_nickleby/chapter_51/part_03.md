@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 51 (part 3)"
+title: "Nicholas Nickleby — Chapter 51 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -12,6 +12,15 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/nicholas-nickleby-(dickens)">Nicholas Nickleby</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_51/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_51/part_04">part 04 ›</a></div>
 </nav>
+
+
+‘That’s “Curse Mr. Noggs with all my heart!” then, if you do,’ thought
+Newman, as Gride hurried out.
+
+The letter had fallen on the ground. Looking carefully about him for an
+instant, Newman, impelled by curiosity to know the result of the design
+he had overheard from his office closet, caught it up and rapidly read
+as follows:
 
 
 ‘GRIDE.
@@ -136,20 +145,3 @@ world knows.
 ‘Bah!’ cried Ralph impatiently. ‘Give me his note, if he gave you one:
 his message, if he didn’t. And don’t go away. I want a word with you,
 sir.’
-
-Newman handed in the note, and looked very virtuous and [[Innocent|innocent]] while
-his employer broke the seal, and glanced his eye over it.
-
-‘He’ll be sure to come,’ muttered Ralph, as he tore it to pieces; ‘why
-of course, I know he’ll be sure to come. What need to say that? Noggs!
-Pray, sir, what man was that, with whom I saw you in the street last
-[[Night|night]]?’
-
-‘I don’t know,’ replied Newman.
-
-‘You had better refresh your [[Memory|memory]], sir,’ said Ralph, with a
-threatening look.
-
-‘I tell you,’ returned Newman boldly, ‘that I don’t know. He came here
-twice, and asked for you. You were out. He came again. You packed him
-off, yourself. He gave the name of Brooker.’

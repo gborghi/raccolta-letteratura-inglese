@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 15 (part 2)"
+title: "The Mystery of Edwin Drood — Chapter 15 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_16/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_16/part_03">part 03 ›</a></div>
 </nav>
 
+
+“What is all this, sir? What is the matter? I feel as if I had lost my
+senses!” cried Neville, the group closing in around him.
 
 “Where is my nephew?” asked Mr. Jasper, wildly.
 
@@ -139,17 +142,3 @@ horror and amazement: [[Neville Landless]], or [[John Jasper]]. But that
 Jasper’s position forced him to be active, while Neville’s forced him
 to be passive, there would have been nothing to choose between them.
 Each was bowed down and broken.
-
-With the earliest light of the next morning, men were at work upon the
-[[River|river]], and other men—most of whom volunteered for the service—were
-examining the banks. All the livelong day the search went on; upon the
-[[River|river]], with barge and pole, and drag and net; upon the muddy and rushy
-shore, with jack-boots, hatchet, spade, rope, [[dogs]], and all imaginable
-appliances. Even at [[Night|night]], the [[River|river]] was specked with lanterns, and
-lurid with fires; far-off creeks, into which the tide washed as it
-changed, had their knots of watchers, listening to the lapping of the
-stream, and looking out for any burden it might bear; remote shingly
-causeways near the sea, and lonely points off which there was a race of
-[[Water|water]], had their unwonted flaring cressets and rough-coated figures
-when the next day dawned; but no trace of [[Edwin Drood]] revisited the
-light of the sun.

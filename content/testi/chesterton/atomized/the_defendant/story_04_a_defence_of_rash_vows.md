@@ -25,7 +25,7 @@ name of Brown, to remain for thirty-one hours holding his left ear in
 his right hand, to sing the names of all his aunts in order of age on
 the top of an omnibus, or make any such unusual undertaking, we should
 immediately conclude that the man was mad, or, as it is sometimes
-expressed, was 'an [[Artist|artist]] in life.' Yet these vows are not more
+expressed, was 'an [[artist]] in life.' Yet these vows are not more
 extraordinary than the vows which in the Middle Ages and in similar
 periods were made, not by fanatics merely, but by the greatest figures
 in civic and national civilization--by kings, judges, poets, and
@@ -184,6 +184,5 @@ snows. All around us is the [[City|city]] of small sins, abounding in backways
 and retreats, but surely, sooner or later, the towering flame will rise
 from the harbour announcing that the reign of the cowards is over and a
 man is burning his ships.
-
 
        *       *       *       *       *

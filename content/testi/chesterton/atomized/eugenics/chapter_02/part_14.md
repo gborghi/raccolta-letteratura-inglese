@@ -1,5 +1,5 @@
 ---
-title: "[[Eugenics]] — Part 1 (part 14)"
+title: "Eugenics — Part 1 (part 14)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/eugenics-(chesterton)"
@@ -13,6 +13,56 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/eugenics/chapter_02/part_13">‹ part 13</a><a class="ex-next" href="/testi/chesterton/atomized/eugenics/chapter_02/part_15">part 15 ›</a></div>
 </nav>
 
+
+Now the students of heredity, especially, understand all of their
+subject except their subject.  They were, I suppose, bred and
+born in that brier-patch, and have really explored it without
+coming to the end of it.  That is, they have studied everything
+but the question of what they are studying.  Now I do not propose
+to rely merely on myself to tell them what they are studying.
+I propose, as will be seen in a moment, to call the testimony
+of a great man who has himself studied it.  But to begin with,
+the domain of heredity (for those who see its frontiers)
+is a sort of triangle, enclosed on its three sides by three facts.
+The first is that heredity undoubtedly exists, or there would
+be no such thing as a family likeness, and every [[Marriage|marriage]] might
+suddenly produce a small negro.  The second is that even simple
+heredity can never be simple; its complexity must be literally,
+unfathomable, for in that field fight unthinkable millions.
+But yet again it never is simple heredity:  for the instant anyone is,
+he experiences.  The third is that these innumerable ancient influences,
+these instant inundations of experiences, come together according
+to a combination that is unlike anything else on this earth.
+It is a combination that does combine.  It cannot be sorted out again,
+even on the Day of Judgment.  Two totally different people have become
+in the sense most sacred, frightful, and unanswerable, one flesh.
+If a golden-haired Scandinavian girl has married a very swarthy Jew,
+the Scandinavian side of the family may say till they are blue in
+the face that the baby has his mother's nose or his mother's eyes.
+They can never be certain the black-haired Bedouin is not present
+in every feature, in every inch.  In the person of the baby he may
+have gently pulled his wife's nose.  In the person of the baby
+he may have partly blacked his wife's eyes.
+
+Those are the three first facts of heredity.  That it exists;
+that it is subtle and made of a million elements; that it is simple,
+and cannot be unmade into those elements.  To summarize:
+you know there is wine in the soup.  You do not know how many wines
+there are in the soup, because you do not know how many wines there
+are in the world.  And you never will know, because all chemists,
+all cooks, and all common-sense people tell you that the soup is
+of such a sort that it can never be chemically analysed.  That is a
+perfectly fair parallel to the hereditary element in the human [[Soul|soul]].
+There are many ways in which one can feel that there is wine
+in the soup, as in suddenly tasting a wine specially favoured;
+that corresponds to seeing suddenly flash on a young face the image
+of some ancestor you have known.  But even then the taster cannot be
+certain he is not tasting one familiar wine among many unfamiliar ones ---
+or seeing one known ancestor among a million unknown ancestors.
+Another way is to get drunk on the soup, which corresponds to the case
+of those who say they are driven to sin and [[Death|death]] by hereditary doom.
+But even then the drunkard cannot be certain it was the soup,
+any more than the traditional drunkard who is certain it was the salmon.
 
 Those are the facts about heredity which anyone can see.  The upshot
 of them is not only that a miss is as good as a mile, but a miss
@@ -63,56 +113,3 @@ will do everything except shut.  And so far from being the sort of man
 who would stop a man from propagating, he cannot even stop a full stop.
 He is not Eugenic enough to prevent the black dot at the end
 of a sentence from breeding a line of little dots.
-
-But this is not the clear-cut blunder of which I spoke.
-The real blunder is this.  Mr. Wells deserves a tiara
-of crowns and a garland of medals for all kinds of reasons.
-But if I were restricted, on grounds of public economy, to giving
-Mr. Wells only one medal ob cives servatos, I would give him
-a medal as the Eugenist who destroyed [[Eugenics]].  For everyone spoke
-of him rightly or wrongly, as a Eugenist; and he certainly had,
-as I have not, the training and type of culture required to consider
-the matter merely in a biological and not in a generally moral sense.
-The result was that in that fine book, "Mankind in the Making,"
-where he inevitably came to grips with the problem, he threw
-down to the Eugenists an intellectual challenge which seems
-to me unanswerable, but which, at any rate, is unanswered.
-I do not mean that no remote Eugenist wrote upon the subject;
-for it is impossible to read all writings, especially Eugenist writings.
-I do not mean that the leading Eugenists write as if this challenge
-had never been offered.  The gauntlet lies unlifted on the ground.
-
-Having given [[Honour|honour]] for the idea where it is due, I may be
-permitted to summarize it myself for the sake of brevity.
-Mr. Wells' point was this.  That we cannot be certain about
-the inheritance of health, because health is not a quality.
-It is not a thing like darkness in the hair or length in the limbs.
-It is a relation, a balance.  You have a tall, strong man; but his
-very strength depends on his not being too tall for his strength.
-You catch a healthy, full-blooded fellow; but his very health
-depends on his being not too full of [[Blood|blood]].  A heart that is strong
-for a [[Dwarf|dwarf]] will be weak for a giant; a nervous system that would kill
-a man with a trace of a certain illness will sustain him to ninety
-if he has no trace of that illness.  Nay, the same nervous system
-might kill him if he had an excess of some other comparatively
-healthy thing.  Seeing, therefore, that there are apparently healthy
-people of all types, it is obvious that if you mate two of them,
-you may even then produce a discord out of two inconsistent harmonies.
-It is obvious that you can no more be certain of a good offspring than
-you can be certain of a good tune if you play two fine airs at once
-on the same piano.  You can be even less certain of it in the more
-delicate case of [[Beauty|beauty]], of which the Eugenists talk a great deal.
-Marry two handsome people whose noses tend to the aquiline,
-and their baby (for all you know) may be a goblin with a nose like
-an enormous parrot's. Indeed, I actually know a case of this kind.
-The Eugenist has to settle, not the result of fixing one steady thing
-to a second steady thing; but what will happen when one toppling
-and dizzy equilibrium crashes into another.
-
-This is the interesting conclusion.  It is on this degree of knowledge
-that we are asked to abandon the universal [[morality]] of mankind.
-When we have stopped the [[Lover|lover]] from marrying the unfortunate woman
-he loves, when we have found him another uproariously healthy
-female whom he does not [[Love|love]] in the least, even then we have no
-logical evidence that the result may not be as horrid and dangerous
-as if he had behaved like a man of [[Honour|honour]].

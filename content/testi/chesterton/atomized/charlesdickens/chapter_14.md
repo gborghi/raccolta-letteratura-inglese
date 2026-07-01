@@ -1,5 +1,5 @@
 ---
-title: "[[CharlesDickens]] — Chapter 11"
+title: "CharlesDickens — Chapter 11"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/charlesdickens-(chesterton)"
@@ -55,7 +55,7 @@ if you will, a kind of coarse benevolence.  Food and [[Fire|fire]] and such
 things should always be the symbols of the man entertaining men;
 because they are things which all men beyond question have in common.
 But something more than this is needed from a man who is imagining
-and making men, the [[artist]], the man who is not receiving men,
+and making men, the [[Artist|artist]], the man who is not receiving men,
 but rather sending them forth.
 
 As I shall remark in a moment in the matter of the Dickens villains,

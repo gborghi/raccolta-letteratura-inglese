@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 16: I AM A NEW BOY IN MORE SENSES THAN ONE (part 6)"
+title: "David Copperfield — Chapter 16: I AM A NEW BOY IN MORE SENSES THAN ONE (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,53 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_16_i_am_a_new_boy_in_more_senses/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_16_i_am_a_new_boy_in_more_senses/part_07">part 07 ›</a></div>
 </nav>
 
+
+Mrs. Strong’s mama was a lady I took great delight in. Her name was Mrs.
+Markleham; but our boys used to call her the Old Soldier, on account of
+her generalship, and the skill with which she marshalled great forces
+of relations against the Doctor. She was a little, sharp-eyed woman,
+who used to wear, when she was dressed, one unchangeable cap, ornamented
+with some artificial [[Flowers|flowers]], and two artificial butterflies supposed
+to be hovering above the [[Flowers|flowers]]. There was a superstition among us
+that this cap had come from France, and could only originate in the
+workmanship of that ingenious nation: but all I certainly know about it,
+is, that it always made its appearance of an evening, wheresoever Mrs.
+Markleham made HER appearance; that it was carried about to friendly
+meetings in a Hindoo basket; that the butterflies had the gift of
+trembling constantly; and that they improved the shining hours at Doctor
+Strong’s expense, like busy [[Bees|bees]].
+
+I observed the Old Soldier--not to adopt the name disrespectfully--to
+pretty good advantage, on a [[Night|night]] which is made memorable to me by
+something else I shall relate. It was the [[Night|night]] of a little party at the
+Doctor’s, which was given on the occasion of Mr. Jack Maldon’s departure
+for India, whither he was going as a cadet, or something of that kind:
+Mr. Wickfield having at length arranged the business. It happened to be
+the Doctor’s birthday, too. We had had a holiday, had made presents to
+him in the morning, had made a speech to him through the head-boy, and
+had cheered him until we were hoarse, and until he had shed [[Tears|tears]]. And
+now, in the evening, Mr. Wickfield, Agnes, and I, went to have tea with
+him in his private capacity.
+
+Mr. Jack Maldon was there, before us. Mrs. Strong, dressed in white,
+with cherry-coloured ribbons, was playing the piano, when we went in;
+and he was leaning over her to turn the [[Leaves|leaves]]. The clear red and
+white of her complexion was not so blooming and flower-like as usual, I
+thought, when she turned round; but she looked very pretty, Wonderfully
+pretty.
+
+‘I have forgotten, Doctor,’ said Mrs. Strong’s mama, when we were
+seated, ‘to pay you the compliments of the day--though they are, as you
+may suppose, very far from being mere compliments in my case. Allow me
+to wish you many happy returns.’
+
+‘I thank you, ma’am,’ replied the Doctor.
+
+‘Many, many, many, happy returns,’ said the Old Soldier. ‘Not only
+for your own sake, but [[For Annie|for Annie]]’s, and John Maldon’s, and many other
+people’s. It seems but yesterday to me, John, when you were a little
+creature, a head shorter than Master Copperfield, making baby [[Love|love]] to
+Annie behind the gooseberry bushes in the back-[[Garden|garden]].’
 
 ‘My dear mama,’ said Mrs. Strong, ‘never mind that now.’
 
@@ -78,58 +125,3 @@ late father: he will represent the head of our family, he will represent
 the wisdom and station, and I may say the means, of our family; and will
 be, in short, a Boon to it.” I used the word at the [[Time|time]], and I have
 used it again, today. If I have any merit it is consistency.’
-
-The daughter had sat quite silent and still during this speech, with her
-eyes fixed on the ground; her cousin standing near her, and looking on
-the ground too. She now said very softly, in a trembling voice:
-
-‘Mama, I [[Hope|hope]] you have finished?’ ‘No, my dear Annie,’ returned the Old
-Soldier, ‘I have not quite finished. Since you ask me, my [[Love|love]], I reply
-that I have not. I complain that you really are a little unnatural
-towards your own family; and, as it is of no use complaining to you. I
-mean to complain to your husband. Now, my dear Doctor, do look at that
-silly wife of yours.’
-
-As the Doctor turned his kind face, with its smile of simplicity and
-gentleness, towards her, she drooped her head more. I noticed that Mr.
-Wickfield looked at her steadily.
-
-‘When I happened to say to that naughty thing, the other day,’ pursued
-her mother, shaking her head and her fan at her, playfully, ‘that there
-was a family circumstance she might mention to you--indeed, I think, was
-bound to mention--she said, that to mention it was to ask a favour;
-and that, as you were too generous, and as for her to ask was always to
-have, she wouldn’t.’
-
-‘Annie, my dear,’ said the Doctor. ‘That was wrong. It robbed me of a
-pleasure.’
-
-‘Almost the very words I said to her!’ exclaimed her mother. ‘Now
-really, another [[Time|time]], when I know what she would tell you but for this
-reason, and won’t, I have a great mind, my dear Doctor, to tell you
-myself.’
-
-‘I shall be glad if you will,’ returned the Doctor.
-
-‘Shall I?’
-
-‘Certainly.’
-
-‘[[Well]], then, I will!’ said the Old Soldier. ‘That’s a bargain.’ And
-having, I suppose, carried her point, she tapped the Doctor’s hand
-several times with her fan (which she kissed first), and returned
-triumphantly to her former station.
-
-Some more company coming in, among whom were the two masters and Adams,
-the talk became general; and it naturally turned on Mr. Jack Maldon, and
-his voyage, and the country he was going to, and his various plans and
-prospects. He was to leave that [[Night|night]], after supper, in a post-chaise,
-for Gravesend; where the [[Ship|ship]], in which he was to make the voyage, lay;
-and was to be gone--unless he came [[Home|home]] on leave, or for his health--I
-don’t know how many years. I recollect it was settled by general
-consent that India was quite a misrepresented country, and had nothing
-objectionable in it, but a tiger or two, and a little heat in the warm
-part of the day. For my own part, I looked on Mr. Jack Maldon as a
-modern Sindbad, and pictured him the bosom friend of all the Rajahs in
-the East, sitting under canopies, smoking curly golden pipes--a mile
-long, if they could be straightened out.

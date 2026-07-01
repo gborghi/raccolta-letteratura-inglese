@@ -1,5 +1,5 @@
 ---
-title: "Hard Times — Chapter 4 (part 1)"
+title: "Hard Times — Chapter 5 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/hard-times-(dickens)"
@@ -10,120 +10,102 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/hard-times-(dickens)">Hard Times</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/hard_times/chapter_78">‹ Chapter 78</a><a class="ex-next" href="/testi/dickens/atomized/hard_times/chapter_42/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/hard_times/chapter_41/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/hard_times/chapter_42/part_02">part 02 ›</a></div>
 </nav>
 
 
-CHAPTER IV
-MR. BOUNDERBY
+CHAPTER V
+THE KEYNOTE
 
 
-NOT being Mrs. Grundy, who _was_ Mr. Bounderby?
+COKETOWN, to which Messrs. Bounderby and Gradgrind now walked, was a
+triumph of fact; it had no greater taint of fancy in it than Mrs.
+Gradgrind herself.  Let us strike the key-note, Coketown, before pursuing
+our tune.
 
-Why, Mr. Bounderby was as near being Mr. Gradgrind’s bosom friend, as a
-man perfectly devoid of sentiment can approach that spiritual
-relationship towards another man perfectly devoid of sentiment.  So near
-was Mr. Bounderby—or, if the reader should prefer it, so far off.
+It was a town of red brick, or of brick that would have been red if the
+smoke and ashes had allowed it; but as matters stood, it was a town of
+unnatural red and black like the painted face of a savage.  It was a town
+of machinery and tall chimneys, out of which interminable serpents of
+smoke trailed themselves for ever and ever, and never got uncoiled.  It
+had a black canal in it, and a [[River|river]] that ran purple with ill-smelling
+dye, and vast piles of building full of windows where there was a
+rattling and a trembling all day long, and where the piston of the
+steam-engine worked monotonously up and down, like the head of an
+elephant in a state of [[Melancholy|melancholy]] [[Madness|madness]].  It contained several large
+streets all very like one another, and many small streets still more like
+one another, inhabited by people equally like one another, who all went
+in and out at the same hours, with the same sound upon the same
+pavements, to do the same work, and to whom every day was the same as
+yesterday and to-morrow, and every year the counterpart of the last and
+the next.
 
-He was a rich man: banker, merchant, manufacturer, and what not.  A big,
-loud man, with a stare, and a metallic laugh.  A man made out of a coarse
-material, which seemed to have been stretched to make so much of him.  A
-man with a great puffed head and forehead, swelled veins in his temples,
-and such a strained skin to his face that it seemed to hold his eyes
-open, and lift his eyebrows up.  A man with a pervading appearance on him
-of being inflated like a balloon, and ready to start.  A man who could
-never sufficiently vaunt himself a [[Self-Made Man|self-made man]].  A man who was always
-proclaiming, through that brassy speaking-trumpet of a voice of his, his
-old ignorance and his old [[Poverty|poverty]].  A man who was the Bully of [[Humility|humility]].
+These attributes of Coketown were in the main inseparable from the work
+by which it was sustained; against them were to be set off, comforts of
+life which found their way all over the world, and elegancies of life
+which made, we will not ask how much of the fine lady, who could scarcely
+bear to hear the place mentioned.  The rest of its features were
+voluntary, and they were these.
 
-A year or two younger than his eminently practical friend, Mr. Bounderby
-looked older; his seven or eight and forty might have had the seven or
-eight added to it again, without surprising anybody.  He had not much
-hair.  One might have fancied he had talked it off; and that what was
-left, all standing up in disorder, was in that condition from being
-constantly blown about by his windy boastfulness.
+You saw nothing in Coketown but what was severely workful.  If the
+members of a religious [[Persuasion|persuasion]] built a chapel there—as the members of
+eighteen religious persuasions had done—they made it a pious warehouse of
+red brick, with sometimes (but this is only in highly ornamental
+examples) a bell in a birdcage on the top of it.  The solitary exception
+was the New Church; a stuccoed edifice with a square steeple over the
+door, terminating in four short pinnacles like florid wooden legs.  All
+the public inscriptions in the town were painted alike, in severe
+characters of black and white.  The jail might have been the infirmary,
+the infirmary might have been the jail, the town-hall might have been
+either, or both, or anything else, for anything that appeared to the
+contrary in the graces of their construction.  Fact, fact, fact,
+everywhere in the material aspect of the town; fact, fact, fact,
+everywhere in the immaterial.  The M’Choakumchild school was all fact,
+and the school of design was all fact, and the relations between master
+and man were all fact, and everything was fact between the lying-in
+hospital and the cemetery, and what you couldn’t state in figures, or
+show to be purchaseable in the cheapest market and saleable in the
+dearest, was not, and never should be, world without end, Amen.
 
-In the formal drawing-room of Stone Lodge, standing on the hearthrug,
-warming himself before the [[Fire|fire]], Mr. Bounderby delivered some
-observations to Mrs. Gradgrind on the circumstance of its being his
-birthday.  He stood before the [[Fire|fire]], partly because it was a cool [[spring]]
-afternoon, though the sun shone; partly because the shade of Stone Lodge
-was always haunted by the [[Ghost|ghost]] of damp mortar; partly because he thus
-took up a commanding position, from which to subdue Mrs. Gradgrind.
+A town so sacred to fact, and so triumphant in its assertion, of course
+got on [[Well|well]]?  Why no, not quite [[Well|well]].  No?  Dear me!
 
-‘I hadn’t a shoe to my foot.  As to a stocking, I didn’t know such a
-thing by name.  I passed the day in a ditch, and the [[Night|night]] in a pigsty.
-That’s the way I spent my tenth birthday.  Not that a ditch was new to
-me, for I was born in a ditch.’
-
-Mrs. Gradgrind, a little, thin, white, pink-eyed bundle of shawls, of
-surpassing feebleness, mental and bodily; who was always taking physic
-without any effect, and who, whenever she showed a symptom of coming to
-life, was invariably stunned by some weighty piece of fact tumbling on
-her; Mrs. Gradgrind hoped it was a dry ditch?
-
-‘No!  As wet as a sop.  A foot of [[Water|water]] in it,’ said Mr. Bounderby.
-
-‘Enough to give a baby cold,’ Mrs. Gradgrind considered.
-
-‘Cold?  I was born with inflammation of the lungs, and of everything
-else, I believe, that was capable of inflammation,’ returned Mr.
-Bounderby.  ‘For years, ma’am, I was one of the most miserable little
-wretches ever seen.  I was so sickly, that I was always moaning and
-groaning.  I was so ragged and dirty, that you wouldn’t have touched me
-with a pair of tongs.’
-
-Mrs. Gradgrind faintly looked at the tongs, as the most appropriate thing
-her imbecility could think of doing.
-
-‘How I fought through it, _I_ don’t know,’ said Bounderby.  ‘I was
-determined, I suppose.  I have been a determined character in later life,
-and I suppose I was then.  Here I am, Mrs. Gradgrind, anyhow, and nobody
-to thank for my being here, but myself.’
-
-Mrs. Gradgrind meekly and weakly hoped that his mother—
-
-‘_My_ mother?  Bolted, ma’am!’ said Bounderby.
-
-Mrs. Gradgrind, stunned as usual, collapsed and gave it up.
-
-‘My mother left me to my grandmother,’ said Bounderby; ‘and, according to
-the best of my remembrance, my grandmother was the wickedest and the
-worst old woman that ever lived.  If I got a little pair of shoes by any
-chance, she would take ’em off and sell ’em for drink.  Why, I have known
-that grandmother of mine lie in her bed and drink her four-teen glasses
-of liquor before breakfast!’
-
-Mrs. Gradgrind, weakly smiling, and giving no other sign of vitality,
-looked (as she always did) like an indifferently executed transparency of
-a small female figure, without enough light behind it.
-
-‘She kept a chandler’s shop,’ pursued Bounderby, ‘and kept me in an
-egg-box.  That was the cot of _my_ infancy; an old egg-box.  As soon as I
-was big enough to run away, of course I ran away.  Then I became a young
-vagabond; and instead of one old woman knocking me about and starving me,
-everybody of all ages knocked me about and starved me.  They were right;
-they had no business to do anything else.  I was a nuisance, an
-incumbrance, and a pest.  I know that very [[Well|well]].’
-
-His [[Pride|pride]] in having at any [[Time|time]] of his life achieved such a great social
-distinction as to be a nuisance, an incumbrance, and a pest, was only to
-be satisfied by three sonorous repetitions of the boast.
-
-‘I was to pull through it, I suppose, Mrs. Gradgrind.  Whether I was to
-do it or not, ma’am, I did it.  I pulled through it, though nobody threw
-me out a rope.  Vagabond, errand-boy, vagabond, labourer, porter, clerk,
-chief manager, small partner, [[Josiah Bounderby]] of Coketown.  Those are
-the antecedents, and the culmination.  [[Josiah Bounderby]] of Coketown
-learnt his letters from the outsides of the shops, Mrs. Gradgrind, and
-was first able to tell the [[Time|time]] upon a dial-plate, from studying the
-steeple [[Clock|clock]] of St. Giles’s Church, [[London]], under the direction of a
-drunken cripple, who was a convicted thief, and an incorrigible vagrant.
-Tell [[Josiah Bounderby]] of Coketown, of your district schools and your
-model schools, and your training schools, and your whole kettle-of-fish
-of schools; and [[Josiah Bounderby]] of Coketown, tells you plainly, all
-right, all correct—he hadn’t such advantages—but let us have hard-headed,
-solid-fisted people—the [[Education|education]] that made him won’t do for everybody,
-he knows [[Well|well]]—such and such his [[Education|education]] was, however, and you may force
-him to [[Swallow|swallow]] boiling fat, but you shall never force him to suppress the
-facts of his life.’
+No.  Coketown did not come out of its own furnaces, in all respects like
+gold that had stood the [[Fire|fire]].  First, the perplexing mystery of the place
+was, Who belonged to the eighteen denominations?  Because, whoever did,
+the labouring people did not.  It was very strange to walk through the
+streets on a [[Sunday]] morning, and note how few of _them_ the barbarous
+jangling of [[Bells|bells]] that was driving the sick and nervous mad, called away
+from their own quarter, from their own close rooms, from the corners of
+their own streets, where they lounged listlessly, gazing at all the
+church and chapel going, as at a thing with which they had no manner of
+concern.  Nor was it merely the stranger who noticed this, because there
+was a native organization in Coketown itself, whose members were to be
+heard of in the [[house|House]] of Commons every session, indignantly petitioning
+for acts of parliament that should make these people religious by main
+force.  Then came the Teetotal Society, who complained that these same
+people _would_ get drunk, and showed in tabular statements that they did
+get drunk, and proved at tea parties that no inducement, human or Divine
+(except a medal), would induce them to forego their custom of getting
+drunk.  Then came the chemist and druggist, with other tabular
+statements, showing that when they didn’t get drunk, they took opium.
+Then came the experienced chaplain of the jail, with more tabular
+statements, outdoing all the previous tabular statements, and showing
+that the same people _would_ resort to low haunts, hidden from the public
+eye, where they heard low singing and saw low dancing, and mayhap joined
+in it; and where A. B., aged twenty-four next birthday, and committed for
+eighteen months’ solitary, had himself said (not that he had ever shown
+himself particularly worthy of belief) his ruin began, as he was
+perfectly sure and confident that otherwise he would have been a tip-top
+moral specimen.  Then came Mr. Gradgrind and Mr. Bounderby, the two
+gentlemen at this present moment walking through Coketown, and both
+eminently practical, who could, on occasion, furnish more tabular
+statements derived from their own personal experience, and illustrated by
+cases they had known and seen, from which it clearly appeared—in short,
+it was the only clear thing in the case—that these same people were a bad
+lot altogether, gentlemen; that do what you would for them they were
+never thankful for it, gentlemen; that they were restless, gentlemen;
+that they never knew what they wanted; that they lived upon the best, and
+bought fresh butter; and insisted on Mocha coffee, and rejected all but
+prime parts of meat, and yet were eternally dissatisfied and
+unmanageable.  In short, it was the moral of the old nursery [[Fable|fable]]:

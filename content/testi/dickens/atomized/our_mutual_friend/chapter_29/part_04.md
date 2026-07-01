@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 5 (part 4)"
+title: "Our Mutual Friend — Chapter 7 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,156 +10,135 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_29/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_29/part_05">part 05 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_29/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_30/part_01">part 01 ›</a></div>
 </nav>
 
 
-‘You have not told me what you were up to, you sir,’ said Fledgeby,
-scratching his head with the brim of his hat.
+To all this, [[Mr Venus]], with his shock of dusty hair cocked after the
+manner of a terrier’s ears, attends profoundly. When Mr Wegg, having
+finished, opens his arms wide, as if to show [[Mr Venus]] how bare his
+breast is, and then folds them pending a reply, [[Mr Venus]] winks at him
+with both eyes some little [[Time|time]] before speaking.
 
-‘Sir, I was breathing the air.’
+‘I see you have tried it by yourself, Mr Wegg,’ he says when he does
+speak. ‘You have found out the difficulties by experience.’
 
-‘In the cellar, that you didn’t hear?’
+‘No, it can hardly be said that I have tried it,’ replies Wegg, a little
+dashed by the hint. ‘I have just skimmed it. Skimmed it.’
 
-‘On the [[house]]-top.’
+‘And found nothing besides the difficulties?’
 
-‘Upon my [[Soul|soul]]! That’s a way of doing business.’
+Wegg shakes his head.
 
-‘Sir,’ the old man represented with a [[Grave|grave]] and patient air, ‘there must
-be two parties to the transaction of business, and the holiday has left
-me [[Alone|alone]].’
+‘I scarcely know what to say to this, Mr Wegg,’ observes [[Venus]], after
+ruminating for a while.
 
-‘Ah! Can’t be buyer and seller too. That’s what the Jews say; ain’t it?’
+‘Say yes,’ Wegg naturally urges.
 
-‘At least we say truly, if we say so,’ answered the old man with a
-smile.
+‘If I wasn’t soured, my answer would be no. But being soured, Mr Wegg,
+and driven to reckless [[Madness|madness]] and desperation, I suppose it’s Yes.’
 
-‘Your people need speak the [[Truth|truth]] sometimes, for they lie enough,’
-remarked Fascination Fledgeby.
+Wegg joyfully reproduces the two glasses, repeats the ceremony of
+clinking their rims, and inwardly drinks with great heartiness to the
+health and [[success]] in life of the young lady who has reduced [[Mr Venus]] to
+his present convenient state of mind.
 
-‘Sir, there is,’ returned the old man with quiet emphasis, ‘too much
-untruth among all denominations of men.’
+The articles of the friendly move are then severally recited and agreed
+upon. They are but secrecy, fidelity, and perseverance. The Bower to
+be always free of access to [[Mr Venus]] for his researches, and every
+precaution to be taken against their attracting observation in the
+neighbourhood.
 
-Rather dashed, Fascination Fledgeby took another scratch at his
-intellectual head with his hat, to gain [[Time|time]] for rallying.
+‘There’s a footstep!’ exclaims [[Venus]].
 
-‘For instance,’ he resumed, as though it were he who had spoken last,
-‘who but you and I ever heard of a poor Jew?’
+‘Where?’ cries Wegg, starting.
 
-‘The Jews,’ said the old man, raising his eyes from the ground with his
-former smile. ‘They hear of poor Jews often, and are very good to them.’
+‘Outside. St!’
 
-‘Bother that!’ returned Fledgeby. ‘You know what I mean. You’d persuade
-me if you could, that you are a poor Jew. I wish you’d confess how much
-you really did make out of my late governor. I should have a better
-opinion of you.’
+They are in the act of ratifying the treaty of friendly move, by shaking
+hands upon it. They softly break off, light their pipes which have gone
+out, and lean back in their chairs. No [[Doubt|doubt]], a footstep. It approaches
+the [[Window|window]], and a hand taps at the glass. ‘Come in!’ calls Wegg; meaning
+come round by the door. But the heavy old-fashioned sash is slowly
+raised, and a head slowly looks in out of the dark background of [[Night|night]].
 
-The old man only bent his head, and stretched out his hands as before.
+‘Pray is Mr [[Silas Wegg]] here? Oh! I see him!’
 
-‘Don’t go on posturing like a Deaf and Dumb School,’ said the ingenious
-Fledgeby, ‘but express yourself like a Christian—or as nearly as you
-can.’
+The friendly movers might not have been quite at their ease, even
+though the visitor had entered in the usual manner. But, leaning on the
+breast-high [[Window|window]], and staring in out of the darkness, they find the
+visitor extremely embarrassing. Especially [[Mr Venus]]: who removes his
+pipe, draws back his head, and stares at the starer, as if it were his
+own Hindoo baby come to fetch him [[Home|home]].
 
-‘I had had sickness and misfortunes, and was so poor,’ said the old
-man, ‘as hopelessly to owe the father, principal and interest. The son
-inheriting, was so merciful as to forgive me both, and place me here.’
+‘Good evening, Mr Wegg. The yard gate-lock should be looked to, if you
+please; it don’t catch.’
 
-He made a little gesture as though he kissed the hem of an imaginary
-garment worn by the noble youth before him. It was humbly done, but
-picturesquely, and was not abasing to the doer.
+‘Is it Mr Rokesmith?’ falters Wegg.
 
-‘You won’t say more, I see,’ said Fledgeby, looking at him as if he
-would like to try the effect of extracting a [[Double|double]]-tooth or two, ‘and
-so it’s of no use my putting it to you. But confess this, Riah; who
-believes you to be poor now?’
+‘It is Mr Rokesmith. Don’t let me disturb you. I am not coming in. I
+have only a message for you, which I undertook to deliver on my way [[Home|home]]
+to my lodgings. I was in two minds about coming beyond the gate without
+ringing: not knowing but you might have a dog about.’
 
-‘No one,’ said the old man.
+‘I wish I had,’ mutters Wegg, with his back turned as he [[Rose|rose]] from his
+chair. ‘St! Hush! The talking-over stranger, [[Mr Venus]].’
 
-‘There you’re right,’ assented Fledgeby.
+‘Is that any one I know?’ inquires the staring Secretary.
 
-‘No one,’ repeated the old man with a [[Grave|grave]] slow wave of his head. ‘All
-scout it as a [[Fable|fable]]. Were I to say “This little fancy business is not
-mine”;’ with a lithe sweep of his easily-turning hand around him,
-to comprehend the various objects on the shelves; ‘“it is the little
-business of a Christian young gentleman who places me, his servant, in
-trust and charge here, and to whom I am accountable for every single
-bead,” they would laugh. When, in the larger money-business, I tell the
-borrowers—’
+‘No, Mr Rokesmith. Friend of mine. Passing the evening with me.’
 
-‘I say, old chap!’ interposed Fledgeby, ‘I [[Hope|hope]] you mind what you DO
-tell ’em?’
+‘Oh! I beg his pardon. Mr Boffin wishes you to know that he does not
+expect you to stay at [[Home|home]] any evening, on the chance of his coming. It
+has occurred to him that he may, without intending it, have been a tie
+upon you. In future, if he should come without notice, he will take his
+chance of finding you, and it will be all the same to him if he does
+not. I undertook to tell you on my way. That’s all.’
 
-‘Sir, I tell them no more than I am about to repeat. When I tell them,
-“I cannot promise this, I cannot answer for the other, I must see my
-principal, I have not the money, I am a poor man and it does not rest
-with me,” they are so unbelieving and so impatient, that they sometimes
-curse me in Jehovah’s name.’
+With that, and ‘Good [[Night|night]],’ the Secretary lowers the [[Window|window]], and
+disappears. They listen, and hear his footsteps go back to the gate, and
+hear the gate close after him.
 
-‘That’s deuced good, that is!’ said Fascination Fledgeby.
+‘And for that individual, [[Mr Venus]],’ remarks Wegg, when he is fully
+gone, ‘I have been passed over! Let me ask you what you think of him?’
 
-‘And at other times they say, “Can it never be done without these
-tricks, Mr Riah? Come, come, Mr Riah, we know the arts of your
-people”—my people!—“If the money is to be lent, fetch it, fetch it; if
-it is not to be lent, keep it and say so.” They never believe me.’
+Apparently, [[Mr Venus]] does not know what to think of him, for he makes
+sundry efforts to reply, without delivering himself of any other
+articulate utterance than that he has ‘a singular look’.
 
-‘THAT’S all right,’ said Fascination Fledgeby.
+‘A [[Double|double]] look, you mean, sir,’ rejoins Wegg, playing bitterly upon the
+word. ‘That’s HIS look. Any amount of singular look for me, but not a
+[[Double|double]] look! That’s an under-handed mind, sir.’
 
-‘They say, “We know, Mr Riah, we know. We have but to look at you, and
-we know.”’
+‘Do you say there’s something against him?’ [[Venus]] asks.
 
-‘Oh, a good ’un are you for the post,’ thought Fledgeby, ‘and a good ’un
-was I to mark you out for it! I may be slow, but I am precious sure.’
+‘Something against him?’ repeats Wegg. ‘Something? What would the relief
+be to my feelings—as a fellow-man—if I wasn’t the slave of [[Truth|truth]], and
+didn’t feel myself compelled to answer, Everything!’
 
-Not a syllable of this reflection shaped itself in any scrap of Mr
-Fledgeby’s breath, lest it should tend to put his servant’s price up.
-But looking at the old man as he stood quiet with his head bowed and his
-eyes cast down, he felt that to relinquish an inch of his baldness,
-an inch of his grey hair, an inch of his coat-skirt, an inch of his
-hat-brim, an inch of his walking-staff, would be to relinquish hundreds
-of pounds.
+See into what wonderful maudlin refuges, featherless ostriches plunge
+their heads! It is such unspeakable moral compensation to Wegg, to be
+overcome by the consideration that Mr Rokesmith has an underhanded mind!
 
-‘Look here, Riah,’ said Fledgeby, mollified by these [[Self|self]]-approving
-considerations. ‘I want to go a little more into buying-up queer bills.
-Look out in that direction.’
+‘On this starlight [[Night|night]], [[Mr Venus]],’ he remarks, when he is showing that
+friendly mover out across the yard, and both are something the worse
+for mixing again and again: ‘on this starlight [[Night|night]] to think that
+talking-over strangers, and underhanded minds, can go walking [[Home|home]] under
+the sky, as if they was all square!’
 
-‘Sir, it shall be done.’
+‘The spectacle of those orbs,’ says [[Mr Venus]], gazing upward with his hat
+tumbling off; ‘brings heavy on me her crushing words that she did not
+wish to regard herself nor yet to be regarded in that—’
 
-‘Casting my eye over the accounts, I find that branch of business pays
-pretty fairly, and I am game for extending it. I like to know people’s
-affairs likewise. So look out.’
+‘I know! I know! You needn’t repeat ’em,’ says Wegg, pressing his hand.
+‘But think how those [[Stars|stars]] steady me in the cause of the right against
+some that shall be nameless. It isn’t that I bear malice. But see how
+they glisten with old remembrances! Old remembrances of what, sir?’
 
-‘Sir, I will, promptly.’
+[[Mr Venus]] begins drearily replying, ‘Of her words, in her own
+handwriting, that she does not wish to regard herself, nor yet—’ when
+Silas cuts him short with dignity.
 
-‘Put it about in the right quarters, that you’ll buy queer bills by the
-lump—by the pound weight if that’s all—supposing you see your way to a
-fair chance on looking over the parcel. And there’s one thing more. Come
-to me with the books for periodical inspection as usual, at eight on
-Monday morning.’
-
-Riah drew some folding tablets from his breast and noted it down.
-
-‘That’s all I wanted to say at the present [[Time|time]],’ continued Fledgeby in
-a grudging vein, as he got off the stool, ‘except that I wish you’d take
-the air where you can hear the bell, or the knocker, either one of the
-two or both. By-the-by how DO you take the air at the top of the [[house]]?
-Do you stick your head out of a chimney-pot?’
-
-‘Sir, there are leads there, and I have made a little [[Garden|garden]] there.’
-
-‘To bury your money in, you old dodger?’
-
-‘A thumbnail’s space of [[Garden|garden]] would hold the treasure I bury, master,’
-said Riah. ‘Twelve shillings a week, even when they are an old man’s
-wages, bury themselves.’
-
-‘I should like to know what you really are worth,’ returned Fledgeby,
-with whom his growing rich on that stipend and gratitude was a very
-convenient fiction. ‘But come! Let’s have a look at your [[Garden|garden]] on the
-tiles, before I go!’
-
-The old man took a step back, and hesitated.
-
-‘Truly, sir, I have company there.’
-
-‘Have you, by George!’ said Fledgeby; ‘I suppose you happen to know
-whose premises these are?’
+‘No, sir! Remembrances of Our [[house|House]], of Master George, of Aunt Jane, of
+Uncle Parker, all laid waste! All offered up sacrifices to the minion of
+fortune and the worm of the hour!’

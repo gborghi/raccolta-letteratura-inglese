@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 25 (part 2)"
+title: "Bleak House — Chapter 25 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -121,6 +121,3 @@ into Mr. Snagsby with the thumb-nail already mentioned.
 
 “It is,” says Chadband, “the ray of rays, the sun of suns, the [[Moon|moon]]
 of moons, the star of [[Stars|stars]]. It is the light of Terewth.”
-
-Mr. Chadband draws himself up again and looks triumphantly at Mr.
-Snagsby as if he would be glad to know how he feels after that.

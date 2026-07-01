@@ -1,5 +1,5 @@
 ---
-title: "The Two Noble Kinsmen — Act III, Scene 6 — exchange ([[Theseus|THESEUS]]) [6]"
+title: "The Two Noble Kinsmen — Act III, Scene 6 — exchange (THESEUS) [6]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-two-noble-kinsmen-(shakespeare)"

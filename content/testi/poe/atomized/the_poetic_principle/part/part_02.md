@@ -1,5 +1,5 @@
 ---
-title: "[[The Poetic Principle]] (part 2)"
+title: "The Poetic Principle (part 2)"
 author: "Poe"
 unitType: excerpt
 tags:
@@ -11,6 +11,11 @@ tags:
 <div class="excerpt-crumb">Poe · The Poetic Principle</div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_poetic_principle/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/the_poetic_principle/part/part_03">part 03 ›</a></div>
 </nav>
+
+
+      A remarkable instance of the effect of undue brevity in depressing a poem,
+      in keeping it out of the popular view, is afforded by the following
+      exquisite little Serenade—
 
 
 I arise from [[Dreams|dreams]] of thee

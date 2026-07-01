@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 6"
+title: "Mansfield Park — Chapter 6"
 author: "Austen"
 unitType: chapter
 parentWork: "works/mansfield-park-(austen)"
@@ -91,7 +91,7 @@ to enjoy anything, and _that_ disheartened me from doing several things
 that Sir Thomas and I used to talk of. If it had not been for _that_,
 we should have carried on the [[Garden|garden]] wall, and made the plantation to
 shut out the churchyard, just as Dr. Grant has done. We were always
-doing something as it was. It was only the [[spring]] twelvemonth before
+doing something as it was. It was only the [[Spring|spring]] twelvemonth before
 Mr. Norris’s [[Death|death]] that we put in the apricot against the stable wall,
 which is now grown such a noble tree, and getting to such perfection,
 sir,” addressing herself then to Dr. Grant.

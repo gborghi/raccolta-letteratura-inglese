@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 35 (part 2)"
+title: "Villette — Chapter 35 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -84,7 +84,7 @@ facts were found, selected, and properly jointed; nor could I rest from
 research and effort till I was satisfied of correct anatomy; the
 strength of my inward repugnance to the idea of flaw or falsity
 sometimes enabled me to shun egregious blunders; but the knowledge was
-not there in my head, ready and mellow; it had not been sown in [[spring|Spring]],
+not there in my head, ready and mellow; it had not been sown in [[Spring]],
 grown in [[Summer]], harvested in [[Autumn]], and garnered through [[Winter]];
 whatever I wanted I must go out and gather fresh; glean of wild herbs
 my lapful, and shred them green into the pot. Messieurs Boissec and
@@ -129,19 +129,3 @@ over a whole quarter of the town.
 “Pious mentors!” thought I. “Pure guides for youth! If ‘Human Justice’
 were what she ought to be, you two would scarce hold your present post,
 or enjoy your present credit.”
-
-An idea once seized, I fell to work. “Human Justice” rushed before me
-in [[Novel|novel]] guise, a red, random beldame, with arms akimbo. I saw her in
-her [[house]], the den of confusion: servants called to her for orders or
-help which she did not give; beggars stood at her door waiting and
-starving unnoticed; a swarm of children, sick and quarrelsome, crawled
-round her feet, and yelled in her ears appeals for notice, sympathy,
-cure, redress. The honest woman cared for none of these things. She had
-a warm seat of her own by the [[Fire|fire]], she had her own solace in a short
-black pipe, and a bottle of Mrs. Sweeny’s soothing syrup; she smoked
-and she sipped, and she enjoyed her paradise; and whenever a cry of the
-[[Suffering|suffering]] souls about her pierced her ears too keenly—my jolly dame
-seized the poker or the hearth-brush: if the offender was weak,
-wronged, and sickly, she effectually settled him: if he was strong,
-lively, and violent, she only menaced, then plunged her hand in her
-deep pouch, and flung a liberal shower of sugar-plums.

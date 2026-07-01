@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 21 (part 4)"
+title: "Jane Eyre — Chapter 21 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,26 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_21/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_21/part_05">part 05 ›</a></div>
 </nav>
 
+
+In each of the sisters there was one trait of the mother—and only one;
+the thin and pallid elder daughter had her parent’s Cairngorm eye: the
+blooming and luxuriant younger girl had her contour of jaw and
+chin—perhaps a little softened, but still imparting an indescribable
+hardness to the countenance otherwise so voluptuous and buxom.
+
+Both ladies, as I advanced, [[Rose|rose]] to welcome me, and both addressed me
+by the name of “Miss Eyre.” Eliza’s greeting was delivered in a short,
+abrupt voice, without a smile; and then she sat down again, fixed her
+eyes on the [[Fire|fire]], and seemed to forget me. Georgiana added to her “How
+d’ye do?” several commonplaces about my [[Journey|journey]], the weather, and so
+on, uttered in rather a drawling tone: and accompanied by sundry
+side-glances that measured me from head to foot—now traversing the
+folds of my drab merino pelisse, and now lingering on the plain
+trimming of my cottage bonnet. Young ladies have a remarkable way of
+letting you know that they think you a “quiz” without actually saying
+the words. A certain superciliousness of look, coolness of manner,
+nonchalance of tone, express fully their sentiments on the point,
+without committing them by any positive rudeness in word or deed.
 
 A sneer, however, whether covert or open, had now no longer that power
 over me it once possessed: as I sat between my cousins, I was surprised
@@ -103,41 +123,3 @@ towards me—was unchanged and unchangeable. I knew by her stony
 eye—opaque to tenderness, indissoluble to [[Tears|tears]]—that she was resolved
 to consider me bad to the last; because to believe me good would give
 her no generous pleasure: only a sense of mortification.
-
-I felt [[Pain|pain]], and then I felt ire; and then I felt a determination to
-subdue her—to be her mistress in spite both of her [[Nature|nature]] and her will.
-My [[Tears|tears]] had risen, just as in [[Childhood|childhood]]: I ordered them back to their
-source. I brought a chair to the bed-head: I sat down and leaned over
-the pillow.
-
-“You sent for me,” I said, “and I am here; and it is my intention to
-stay till I see how you get on.”
-
-“Oh, of course! You have seen my daughters?”
-
-“Yes.”
-
-“[[Well]], you may tell them I wish you to stay till I can talk some things
-over with you I have on my mind: to-[[Night|night]] it is too late, and I have a
-difficulty in recalling them. But there was something I wished to
-say—let me see—”
-
-The wandering look and changed utterance told what wreck had taken
-place in her once vigorous frame. Turning restlessly, she drew the
-bedclothes round her; my elbow, resting on a corner of the quilt, fixed
-it down: she was at once irritated.
-
-“Sit up!” said she; “don’t annoy me with holding the clothes fast. Are
-you [[Jane Eyre]]?”
-
-“I am [[Jane Eyre]].”
-
-“I have had more trouble with that [[Child|child]] than any one would believe.
-Such a burden to be left on my hands—and so much annoyance as she
-caused me, daily and hourly, with her incomprehensible disposition, and
-her sudden starts of temper, and her continual, unnatural watchings of
-one’s movements! I declare she talked to me once like something mad, or
-like a fiend—no [[Child|child]] ever spoke or looked as she did; I was glad to
-get her away from the [[house]]. What did they do with her at Lowood? The
-fever broke out there, and many of the pupils died. She, however, did
-not die: but I said she did—I wish she had died!”

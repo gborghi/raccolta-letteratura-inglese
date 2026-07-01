@@ -14,6 +14,49 @@ tags:
 </nav>
 
 
+It is so also with the more special fancy about evolution and
+social stability.  According to the real records available, barbarism and
+civilisation were not successive states in the progress of the world.
+They were conditions that existed side by side, as they still
+exist side by side.  There were civilisations then as there are
+civilisations now; there are savages now as there were savages then.
+It is suggested that all men passed through a nomadic stage;
+but it is certain that there are some who have never passed out of it,
+and it seems not unlikely that there were some who never passed into it.
+It is probable that from very primitive times the static tiller
+of the soil and the wandering shepherd were two distinct types of men;
+and the chronological rearrangement of them is but a mark of that mania
+for progressive stages that has largely falsified [[history]].  It is
+suggested that there was a communist stage, in which private property was
+everywhere unknown, a whole humanity living on the negation of property;
+but the evidences of this negation are themselves rather negative.
+Redistributions of property, jubilees, and agrarian laws,
+occur at various intervals and in various forms; but that humanity
+inevitably passed through a communist stage seems as doubtful as
+the parallel proposition that humanity will inevitably return to it.
+It is chiefly interesting as evidence that the boldest plans for the
+future invoke the authority of the past; and that even a revolutionary
+seeks to satisfy himself that he is also a reactionary.  There is
+an amusing parallel example in the case of what is called feminism.
+In spite of all the pseudo-scientific gossip about [[Marriage|marriage]]
+by capture and the [[Cave|cave]]-man beating the [[Cave|cave]]-woman with a club,
+it may be noted that as soon as feminism became a fashionable cry,
+it was insisted that human civilisation in its first stage had been
+a matriarchy.  Apparently it was the [[Cave|cave]]-woman who carried the club.
+Anyhow all these ideas are little better than guesses; they have
+a curious way of following the fortune of modern theories and fads.
+In any case they are not [[history]] in the sense of record; and we may
+repeat that when it comes to record, the broad [[Truth|truth]] is that barbarism
+and civilisation have always dwelt side by side in the world,
+the civilisation sometimes spreading to absorb the barbarians,
+sometimes decaying into relative barbarism, and in almost all cases
+possessing in a more finished form certain ideas and institutions
+which the barbarians possess in a ruder form; such as [[government]]
+or social authority, the arts and especially the decorative arts,
+mysteries and taboos of various kinds especially surrounding the matter
+of sex, and some form of that fundamental thing which is the chief
+concern of this enquiry; the thing that we call religion.
+
 Now [[Egypt]] and Babylon, those two primeval monsters, might in this
 matter have been specially provided as models.  They might almost be
 called working models to show how these modern theories do not work.
@@ -102,31 +145,3 @@ can communicate.  And here in [[Egypt]] arose probably the primary
 and certainly the typical invention to which we owe all [[history]],
 and the whole difference between the historic and the prehistoric:
 the archetypal script, the art of writing.
-
-The popular pictures of these primeval empires are not half so popular
-as they might be.  There is shed over them the [[Shadow|shadow]] of an exaggerated
-gloom, more than the normal and even healthy sadness of heathen men.
-It is part of the same sort of secret pessimism that loves to make
-primitive man a crawling creature, whose [[Body|body]] is filth and whose
-[[Soul|soul]] is [[Fear|fear]].  It comes of course from the fact that men are
-moved most by their religion; especially when it is irreligion.
-For them anything primary and elemental must be evil.
-But it is the curious consequence that while we have been
-deluged with the wildest experiments in primitive [[Romance|romance]],
-they have all missed the real [[Romance|romance]] of being primitive.
-They have described scenes that are wholly imaginary, in which
-the men of the Stone Age are men of stone like walking statues;
-in which the Assyrians or Egyptians are as stiff or as painted
-as their own most archaic art.  But none of these makers of imaginary
-scenes have tried to imagine what it must really have been like to
-see those things as fresh which we see as familiar.  They have not
-seen a man discovering [[Fire|fire]] like a [[Child|child]] discovering fireworks.
-They have not seen a man playing with the wonderful invention called
-the [[Wheel|wheel]], like a boy playing at putting up a wireless station.
-They have never put the spirit of youth into their descriptions
-of the youth of the world.  It follows that amid all their primitive
-or prehistoric fancies there are no jokes.  There are not even
-practical jokes, in connection with the practical inventions.
-And this is very sharply defined in the particular case of hieroglyphics;
-for there seems to be serious indication that the whole high human
-art of scripture or writing began with a joke.

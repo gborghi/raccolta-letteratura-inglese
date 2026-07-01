@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 41 (part 1)"
+title: "Sense and Sensibility — Chapter 41 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -237,9 +237,3 @@ be. When the [[Marriage|marriage]] takes place, I [[Fear|fear]] she must hear of
 
 
 “But why should such precaution be used? Though it is not to be
-
-supposed that Mrs. Ferrars can have the smallest satisfaction in
-
-knowing that her son has money enough to live upon, for _that_ must be
-
-quite out of the question; yet why, upon her late behaviour, is she

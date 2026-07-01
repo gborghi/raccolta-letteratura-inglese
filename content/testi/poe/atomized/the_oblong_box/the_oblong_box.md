@@ -1,5 +1,5 @@
 ---
-title: "[[The Oblong Box]]"
+title: "The Oblong Box"
 author: "Poe"
 unitType: work
 tags:

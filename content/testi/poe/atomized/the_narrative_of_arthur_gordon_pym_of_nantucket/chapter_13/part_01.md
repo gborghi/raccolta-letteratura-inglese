@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 14 (part 1)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 14 (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -205,7 +205,3 @@ It was about six in the morning when the blow came on with a white
 squall, and, as usual, from the northward. By eight it had increased
 
 very much, and brought down upon us one of the most tremendous seas I
-
-had then ever beheld. Everything had been made as snug as possible, but
-
-the schooner laboured excessively, and gave evidence of her bad

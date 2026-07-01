@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 48"
+title: "Barnaby Rudge — Chapter 48"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -170,7 +170,7 @@ mean by tempting, and by danger? Do you think his lordship is a roaring
 ‘No, no, my lord, forgive me,’ implored the widow, laying both her hands
 upon his breast, and scarcely knowing what she did, or said, in the
 earnestness of her supplication, ‘but there are reasons why you should
-hear my earnest, mother’s [[Prayer|prayer]], and leave my son with me. Oh do! He is
+hear my earnest, mother’s [[prayer]], and leave my son with me. Oh do! He is
 not in his right senses, he is not, indeed!’
 
 ‘It is a bad sign of the wickedness of these times,’ said Lord George,

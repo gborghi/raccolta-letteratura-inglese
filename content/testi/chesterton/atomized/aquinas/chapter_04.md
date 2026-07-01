@@ -1,5 +1,5 @@
 ---
-title: "[[aquinas]] — Chapter 4"
+title: "aquinas — Chapter 4"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/aquinas-(chesterton)"
@@ -970,12 +970,12 @@ and tramps; but it was intensely disliked by the upper servants.
 
 Still, if we take the thing as seriously as all childish things should
 be taken, we may learn something from that mysterious state of [[innocence]],
-which is the first and best [[spring]] of all our later indignations.
+which is the first and best [[Spring|spring]] of all our later indignations.
 We may begin to understand why it was that there grew steadily
 with his growing mind, a great and very solitary mind,
 an [[Ambition|ambition]] that was the inversion of all the things about him.
 We shall guess what had continuously swelled within him, whether in
-protest or prophecy or [[Prayer|prayer]] for deliverance, before he startled
+protest or prophecy or [[prayer]] for deliverance, before he startled
 his family by flinging away not only the trappings of nobility,
 but all forms of [[Ambition|ambition]], even ecclesiastical [[Ambition|ambition]].
 His [[Childhood|childhood]] may contain the hint of that first stride of his manhood,
@@ -1122,12 +1122,12 @@ statement of his own solution.  Needless to say he felt with
 hearty simplicity the heavy responsibility and gravity of such
 a judicial decision; and not unnaturally seems to have worried
 about it more than he commonly did over his work.  He sought for
-guidance in more than usually prolonged [[Prayer|prayer]] and intercession;
+guidance in more than usually prolonged [[prayer]] and intercession;
 and finally, with one of those few but striking bodily gestures
 that mark the turning points of his life, he threw down his thesis
 at the foot of the crucifix on the altar, and left it lying there;
 as if awaiting judgment.  Then he turned and came down the altar
-steps and buried himself once more in [[Prayer|prayer]]; but the other Friars,
+steps and buried himself once more in [[prayer]]; but the other Friars,
 it is said, were watching; and [[Well|well]] they might be.  For they declared
 afterwards that the figure of [[Christ]] had come down from the [[Cross|cross]]
 before their mortal eyes; and stood upon the scroll, saying "Thomas,
@@ -1152,7 +1152,7 @@ It is less individual, but it is much more intense.  It is concerned
 with the common origin; but it is hardly an occasion for originality.
 Thus we are forced to think first of Thomas as the maker of
 the Thomist [[philosophy]]; as we think first of Christopher [[Columbus]]
-as the discoverer of [[America]], though he may have been quite sincere
+as the discoverer of [[america|America]], though he may have been quite sincere
 in his pious [[Hope|hope]] to [[convert]] the Khan of Tartary; or of James Watt
 as the discoverer of the steam-engine, though he may have been
 a devout [[Fire|fire]]-worshipper, or a sincere Scottish Calvinist,
@@ -1193,7 +1193,7 @@ practical prose writer; some would say a very prosaic prose writer.
 He maintained controversy with an eye on only two qualities;
 clarity and courtesy.  And he maintained these because they
 were entirely practical qualities; affecting the probabilities
-of [[Conversion|conversion]].  But the composer of the Corpus Christi service
+of [[conversion]].  But the composer of the Corpus Christi service
 was not merely what even the wild and woolly would call a poet;
 he was what the most fastidious would call an [[artist]].
 His [[Double|double]] function rather recalls the [[Double|double]] activity of some

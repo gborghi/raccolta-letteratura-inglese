@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 14 (part 3)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 14 (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_13/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_17/part_01">part 01 ›</a></div>
 </nav>
 
+
+of the [[Water|water]], with the wings expanded, without appearing to move them
+
+in the least degree, or make any exertion with them whatever.
+
+
+
+The albatross is one of the largest and fiercest of the South Sea
+
+[[Birds|birds]]. It is of the gull species, and takes its prey on the wing, never
 
 coming on land except for the purpose of breeding. Between this bird
 

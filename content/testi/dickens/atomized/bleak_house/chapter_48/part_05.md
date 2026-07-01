@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 48 (part 5)"
+title: "Bleak House — Chapter 48 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_48/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_48/part_06">part 06 ›</a></div>
 </nav>
 
+
+“I am quite prepared.”
+
+Mr. Tulkinghorn inclines his head. “That is all I have to trouble you
+with, [[Lady Dedlock]].”
+
+She stops him as he is moving out of the room by asking, “This is the
+notice I was to receive? I wish not to misapprehend you.”
 
 “Not exactly the notice you were to receive, [[Lady Dedlock]], because
 the contemplated notice supposed the agreement to have been observed.
@@ -94,7 +102,7 @@ loosely muffled, goes out into the moonlight. Mercury attends with
 the key. Having opened the [[Garden|garden]]-gate, he delivers the key into his
 Lady’s hands at her request and is bidden to go back. She will walk
 there some [[Time|time]] to ease her aching head. She may be an hour, she may
-be more. She needs no further escort. The gate shuts upon its [[Spring|spring]]
+be more. She needs no further escort. The gate shuts upon its [[spring]]
 with a clash, and he [[Leaves|leaves]] her passing on into the dark shade of
 some trees.
 

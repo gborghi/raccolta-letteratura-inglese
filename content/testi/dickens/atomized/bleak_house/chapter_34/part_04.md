@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 34 (part 4)"
+title: "Bleak House — Chapter 34 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_34/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_34/part_05">part 05 ›</a></div>
 </nav>
 
+
+“Judy,” says the old man. “Have you got the pipe? Give it to me. Did
+you say what does it mean, my good friend?”
 
 “Aye! Now, come, come, you know, Mr. Smallweed,” urges the trooper,
 constraining himself to speak as smoothly and confidentially as he
@@ -135,5 +138,3 @@ with some distinction there, for the clerk steps out of his pew to
 show her through the outer office and to let her out. The old lady is
 thanking him for his attention when she observes the comrades in
 waiting.
-
-“I beg your pardon, sir, but I think those gentlemen are military?”

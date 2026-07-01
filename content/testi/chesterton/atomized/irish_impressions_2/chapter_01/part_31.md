@@ -10,62 +10,103 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/irish-impressions-(chesterton)-(2)">Irish Impressions 2</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/irish_impressions_2/chapter_01/part_30">‹ part 30</a><span></span></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/irish_impressions_2/chapter_01/part_30">‹ part 30</a><a class="ex-next" href="/testi/chesterton/atomized/irish_impressions_2/chapter_01/part_32">part 32 ›</a></div>
 </nav>
 
 
-When I came back from the desolate splendour of the Donegal sea and shore,
-and saw again the square [[Garden|garden]] and the statue outside the Dublin hotel,
-I did not know I was returning to something that might [[Well|well]] be called
-more desolate.  For it was when I entered the hotel that I first found
-that it was full of the awful [[Tragedy|tragedy]] of the _Leinster._ I had often
-seen [[Death|death]] in a [[Home|home]], but never [[Death|death]] decimating a vast hostelry;
-and there was something strangely shocking about the empty seats
-of men and women with whom I had talked so idly a few days before.
-It was almost as if there was more [[Tragedy|tragedy]] in the cutting short
-of such trivial talk than in the sundering of life-long ties.
-But there was all the dignity as [[Well|well]] as the [[Tragedy|tragedy]] of man;
-and I was glad, before I left Ireland, to have seen the nobler
-side of the Anglo-Irish garrison; and to have known men of my
-own [[Blood|blood]], however mistaken, so enduring the end of things.
-With the bad news from the sea came better news from the war;
-Mangin had struck the sensational blow that cut off the Germans
-as they marched upon Chalons; and with all the emotions of an [[Exile|exile]],
-however temporary, I knew that my own land was secure.
-Somehow, the bad and good news together turned my mind more and more
-towards England; and all the inner [[Humour|humour]] and insular geniality
-which even the Irish may some day be allowed to understand.
-As I went homewards on the next boat that started from the Irish port,
-and the Wicklow hills receded in a rainy and broken sunlight,
-it was with all the simplest of those ancient appetites
-with which a man should come back to his own country.
-Only there clung to me, not to be denied, one sentiment about Ireland,
-one sentiment that I could not transfer to England; which called me
-like an elfland of so many happy figures, from [[Puck]] to [[Pickwick]].
-As I looked at those rainy hills, I knew at least that I was looking,
-perhaps for the last [[Time|time]], on something rooted in the Christian [[Faith|faith]].
-There at least the Christian ideal was something more than an ideal;
-it was in a special sense real.  It was so real that it appeared
-even in statistics.  It was so [[Self|self]]-evident as to be seen even
-by sociologists.  It was a land where our religion had made even its
-vision visible.  It had made even its unpopular virtues popular.
-It must be, in the times to come, a final testing-place, of whether
-a people that will take that name seriously, and even solidly,
-is fated to suffer or to succeed.
+In [[logic]] a wise man will always put the cart before the [[Horse|horse]].
+That is to say, he will always put the end before the means;
+when he is considering the question as a whole.
+He does not construct a cart in order to exercise a [[Horse|horse]].
+He employs a [[Horse|horse]] to draw a cart, and whatever is in the cart.
+In all modern reasoning there is a tendency to make the mere political
+beast of burden more important than the chariot of man it is meant
+to draw.  This had led to a dismissal of all such spiritual questions
+in favour of what are called social questions; and this to a too facile
+treatment of things like the religious question in Belfast.  There is
+a religious question; and it will not have an irreligious answer.
+It will not be met by the limitation of Christian [[Faith|faith]], but rather
+by the extension of Christian [[Charity|charity]].  But if a man says that there
+is no difference between a Protestant and a Catholic, and that both
+can act in an identical fashion everywhere but in a church or chapel,
+he is madly driving the cart-[[Horse|horse]] when he has forgotten the cart.
+A religion is not the church a man goes to but the cosmos he lives in;
+and if any sceptic forgets it, the maddest fanatic beating an Orange
+drum about the Battle of the Boyne is a better philosopher than he.
 
-As the long line of the mountain coast unfolded before me I had
-an optical illusion; it may be that many have had it before.
-As new lengths of coast and lines of heights were unfolded,
-I had the fancy that the whole land was not receding but advancing,
-like something spreading out its arms to the world.  A chance
-shred of sunshine rested, like a riven banner, on the [[Hill|hill]] which I
-believe is called in Irish the Mountain of the Golden Spears;
-and I could have imagined that the spears and the banner were coming on.
-And in that flash I remembered that the men of this island had
-once gone forth, not the torches of conquerors or destroyers;
-but as missionaries in the very midnight of the Dark Ages,
-like a multitude of moving candles, that were the light of the world.
+Many uneducated and some educated people in Belfast, quite sincerely
+believe that Roman priests are fiends, only waiting to rekindle the fires
+of the [[Inquisition]].  For two simple reasons, however, I declined
+to take this fact as evidence of anything except their sincerity.
+First, because the stories, when reduced to their rudiment of [[Truth|truth]],
+generally resolved themselves into the [[Riddle|riddle]] of poor Roman Catholics
+giving money to their own religion; and seemed to deplore not
+so much a dependence on priests as an independence of employers.
+And second for a reason drawn from my own experience,
+as [[Well|well]] as common knowledge, concerning the Protestant gentry
+in the south of Ireland.  The southern Unionists spoke quite
+without this special horror of Catholic priests or peasants.
+They grumbled at them or laughed at them as a man grumbles
+or laughs at his neighbours; but obviously they no more dreamed
+that the priest would burn them than that he would eat them.
+If the priests were as black as the black Protestants painted them,
+they would be at their worst where they are with the majority; and would
+be known at their worst by the minority.  It was clear that Belfast
+held the more bigoted tradition, not because it knew more of priests,
+but because it knew less of them; not because it was on the spot,
+but because the spot was barred.  An even more general delusion
+was the idea that all the southern Irish dreamed and did no work.
+I pointed out that this also was inconsistent with concrete experience;
+since all over the world a man who makes a small farm pay has to work
+very hard indeed.  In historic fact, the old notion that the Irish
+peasant did no work, but only dreamed, had a simple explanation.
+It merely meant that he did no work for a capitalist's profit;
+but dreamed of some day doing work for his own profit.
+But there may also have been this distorted [[Truth|truth]] in the tradition;
+that a free peasant, while he extends his own work, creates his
+own holidays.  He is not idle all day, but he may be idle at any
+[[Time|time]] of the day; he does not dream whenever he feels inclined,
+but he does dream whenever he chooses.  A famous Belfast manufacturer,
+a man of capacity, but one who shook his head over the unaccountable
+prevalence of priests, assured me that he had seen peasants
+in the south doing nothing, at all sorts of odd times; and this
+is doubtless the difference between the farm and the factory.
+The same gentleman showed me over the colossal shipping of the
+great harbour, with all machinery and transport leading up to it.
+No man of any [[Imagination|imagination]] would be insensible to such [[titanic]]
+experiments of his race; or deny the dark poetry of those
+furnaces fit for Vulcan or those hammers worthy of Thor.
+But as I stood on the dock I said to my guide:  "Have you ever asked
+what all this is for?"  He was an intelligent man, an [[Exile|exile]] from
+metaphysical Scotland, and he knew what I meant.  "I don't know,"
+he said, "perhaps we are only [[Insects|insects]] building a coral reef.
+I don't know what is the good of the coral reef."  "Perhaps," I said,
+"that is what the peasant [[Dreams|dreams]] about, and, why he listens
+to the priest."
 
-~||~
-
-THE END
+For there seems to be a fashionable fallacy to the effect
+that religious equality is something to be done and done with,
+that we may go on to the real matter of political equality.
+In [[philosophy]] it is the flat contrary that is true.
+Political equality is something to be done and done with,
+that we may go on to the much more real matter of religion.
+At the Abbey Theatre I saw a forcible play by Mr. St. John Ervine,
+called _The Mixed [[Marriage]];_ which I should remember if it were only
+for the beautiful acting of Miss Maire O'Neill. But the play moved
+me very much as a play; yet I felt that the presence of this fallacy
+falsified it in some measure.  The dramatist seemed to resent a schism
+merely because it interfered with a strike.  But the only object
+of striking is liberty; and the only object of liberty is life:
+a thing wholly spiritual.  It is economic liberty that should be dismissed
+as these people dismiss theology.  We only get it, to forget it.
+It is right that men should have houses, right that they should have land,
+right that they should have laws to protect the land; but all these
+things are only machinery to make leisure for the labouring [[Soul|soul]].
+The [[house]] is only a stage set up by stage carpenters for the acting
+of what Mr. J. B. Yeats has called "the drama of the [[Home|home]]."  All the
+most dramatic things happen at [[Home|home]], from being born to being dead.
+What a man thinks about these things is his life; and to substitute
+for them a bustle of electioneering and legislation is to wander about
+among screens and pulleys on the wrong side of pasteboard scenery;
+and never to act the play.  And that play is always a miracle play;
+and the name of its [[Hero|hero]] is Everyman.

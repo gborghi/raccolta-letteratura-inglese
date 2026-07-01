@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]] — The Moods of Mr. George Moore"
+title: "heret12 — The Moods of Mr. George Moore"
 author: "Chesterton"
 unitType: story
 parentWork: "works/heret12-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 IX.  The Moods of Mr. George Moore
-
 
 Mr. George Moore began his literary career by writing
 his personal confessions; nor is there any harm in this
@@ -99,7 +98,7 @@ and influential aesthetic weakness as [[Well|well]].  We should really be much m
 interested in Mr. Moore if he were not quite so interested in himself.
 We feel as if we were being shown through a gallery of really fine pictures,
 into each of which, by some useless and discordant convention,
-the [[artist]] had represented the same figure in the same attitude.
+the [[Artist|artist]] had represented the same figure in the same attitude.
 "The Grand Canal with a distant view of Mr. Moore," "Effect of Mr. Moore
 through a Scotch Mist," "Mr. Moore by Firelight," "Ruins of Mr. Moore
 by Moonlight," and so on, seems to be the endless series.  He would no

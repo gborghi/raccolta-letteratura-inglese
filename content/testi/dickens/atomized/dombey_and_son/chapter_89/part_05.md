@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 33 (part 5)"
+title: "Dombey and Son — Chapter 61 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,117 +14,106 @@ tags:
 </nav>
 
 
-“Why do you rest in the rain?” said Harriet, gently.
+“Did you tell me,” asked Edith, “that you were very dear to him?”
 
-“Because I have no other resting-place,” was the reply.
+“Yes!” said Florence, in a thrilling voice.
 
-“But there are many places of shelter near here. This,” referring to
-the little porch, “is better than where you were. You are very welcome
-to rest here.”
+“Tell him I am sorry that we ever met.”
 
-The wanderer looked at her, in [[Doubt|doubt]] and surprise, but without any
-expression of thankfulness; and sitting down, and taking off one of her
-worn shoes to beat out the fragments of stone and [[Dust|dust]] that were
-inside, showed that her foot was cut and bleeding.
+“No more?” said Florence after a pause.
 
-Harriet uttering an expression of pity, the traveller looked up with a
-contemptuous and incredulous smile.
+“Tell him, if he asks, that I do not repent of what I have done—not
+yet—for if it were to do again to-morrow, I should do it. But if he is
+a changed man—-”
 
-“Why, what’s a torn foot to such as me?” she said. “And what’s a torn
-foot in such as me, to such as you?”
+She stopped. There was something in the silent touch of Florence’s hand
+that stopped her.
 
-“Come in and wash it,” answered Harriet, mildly, “and let me give you
-something to bind it up.”
+“—But that being a changed man, he knows, now, it would never be. Tell
+him I wish it never had been.”
 
-The woman caught her arm, and drawing it before her own eyes, hid them
-against it, and wept. Not like a woman, but like a stern man surprised
-into that weakness; with a violent heaving of her breast, and struggle
-for recovery, that showed how unusual the emotion was with her.
+“May I say,” said Florence, “that you grieved to hear of the
+afflictions he has suffered?”
 
-She submitted to be led into the [[house]], and, evidently more in
-gratitude than in any care for herself, washed and bound the injured
-place. Harriet then put before her fragments of her own frugal dinner,
-and when she had eaten of them, though sparingly, besought her, before
-resuming her [[Road|road]] (which she showed her anxiety to do), to dry her
-clothes before the [[Fire|fire]]. Again, more in gratitude than with any
-evidence of concern in her own behalf, she sat down in front of it, and
-unbinding the handkerchief about her head, and letting her thick wet
-hair fall down below her waist, sat drying it with the palms of her
-hands, and looking at the blaze.
+“Not,” she replied, “if they have taught him that his daughter is very
+dear to him. He will not grieve for them himself, one day, if they have
+brought that lesson, Florence.”
 
-“I daresay you are thinking,” she said, lifting her head suddenly,
-“that I used to be handsome, once. I believe I was—I know I was—Look
-here!”
+“You wish [[Well|well]] to him, and would have him happy. I am sure you would!”
+said Florence. “Oh! let me be able, if I have the occasion at some
+future [[Time|time]], to say so?”
 
-She held up her hair roughly with both hands; seizing it as if she
-would have torn it out; then, threw it down again, and flung it back as
-though it were a heap of serpents.
+Edith sat with her dark eyes gazing steadfastly before her, and did not
+reply until Florence had repeated her entreaty; when she drew her hand
+within her arm, and said, with the same thoughtful gaze upon the [[Night|night]]
+outside:
 
-“Are you a stranger in this place?” asked Harriet.
+“Tell him that if, in his own present, he can find any reason to
+compassionate my past, I sent word that I asked him to do so. Tell him
+that if, in his own present, he can find a reason to think less
+bitterly of me, I asked him to do so. Tell him, that, dead as we are to
+one another, never more to meet on this side of [[Eternity|eternity]], he knows
+there is one feeling in common between us now, that there never was
+before.”
 
-“A stranger!” she returned, stopping between each short reply, and
-looking at the [[Fire|fire]]. “Yes. Ten or a dozen years a stranger. I have had
-no almanack where I have been. Ten or a dozen years. I don’t know this
-part. It’s much altered since I went away.”
+Her sternness seemed to yield, and there were [[Tears|tears]] in her dark eyes.
 
-“Have you been far?”
+“I trust myself to that,” she said, “for his better thoughts of me, and
+mine of him. When he loves his Florence most, he will hate me least.
+When he is most proud and happy in her and her children, he will be
+most repentant of his own part in the dark vision of our married life.
+At that [[Time|time]], I will be repentant too—let him know it then—and think
+that when I thought so much of all the causes that had made me what I
+was, I needed to have allowed more for the causes that had made him
+what he was. I will try, then, to forgive him his share of blame. Let
+him try to forgive me mine!”
 
-“Very far. Months upon months over the sea, and far away even then. I
-have been where convicts go,” she added, looking full upon her
-entertainer. “I have been one myself.”
+“Oh Mama!” said Florence. “How it lightens my heart, even in such a
+strange meeting and parting, to hear this!”
 
-“Heaven help you and forgive you!” was the gentle answer.
+“Strange words in my own ears,” said Edith, “and foreign to the sound
+of my own voice! But even if I had been the wretched creature I have
+given him occasion to believe me, I think I could have said them still,
+hearing that you and he were very dear to one another. Let him, when
+you are dearest, ever feel that he is most forbearing in his thoughts
+of me—that I am most forbearing in my thoughts of him! Those are the
+last words I send him! Now, goodbye, my life!”
 
-“Ah! Heaven help me and forgive me!” she returned, nodding her head at
-the [[Fire|fire]]. “If man would help some of us a little more, God would
-forgive us all the sooner perhaps.”
+She clasped her in her arms, and seemed to pour out all her woman’s
+[[Soul|soul]] of [[Love|love]] and tenderness at once.
 
-But she was softened by the earnest manner, and the cordial face so
-full of mildness and so free from judgment, of her, and said, less
-hardily:
+“This kiss for your [[Child|child]]! These kisses for a blessing on your head! My
+own dear Florence, my sweet girl, farewell!”
 
-“We may be about the same age, you and me. If I am older, it is not
-above a year or two. Oh think of that!”
+“To meet again!” cried Florence.
 
-She opened her arms, as though the exhibition of her outward form would
-show the moral wretch she was; and letting them drop at her sides, hung
-down her head.
+“Never again! Never again! When you leave me in this dark room, think
+that you have left me in the [[Grave|grave]]. Remember only that I was once, and
+that I loved you!”
 
-“There is nothing we may not [[Hope|hope]] to repair; it is never too late to
-amend,” said Harriet. “You are penitent?”
+And Florence left her, seeing her face no more, but accompanied by her
+embraces and caresses to the last.
 
-“No,” she answered. “I am not! I can’t be. I am no such thing. Why
-should I be penitent, and all the world go free? They talk to me of my
-penitence. Who’s penitent for the wrongs that have been done to me?”
+Cousin Feenix met her at the door, and took her down to Walter in the
+dingy dining room, upon whose shoulder she laid her head weeping.
 
-She [[Rose|rose]] up, bound her handkerchief about her head, and turned to move
-away.
-
-“Where are you going?” said Harriet.
-
-“Yonder,” she answered, pointing with her hand. “To [[London]].”
-
-“Have you any [[Home|home]] to go to?”
-
-“I think I have a mother. She’s as much a mother, as her dwelling is a
-[[Home|home]],” she answered with a bitter laugh.
-
-“Take this,” cried Harriet, putting money in her hand. “Try to do [[Well|well]].
-It is very little, but for one day it may keep you from harm.”
-
-“Are you married?” said the other, faintly, as she took it.
-
-“No. I live here with my brother. We have not much to spare, or I would
-give you more.”
-
-“Will you let me kiss you?”
-
-Seeing no scorn or repugnance in her face, the object of her [[Charity|charity]]
-bent over her as she asked the question, and pressed her lips against
-her cheek. Once more she caught her arm, and covered her eyes with it;
-and then was gone.
-
-Gone into the deepening [[Night|night]], and howling [[Wind|wind]], and pelting rain;
-urging her way on towards the mist-enshrouded [[City|city]] where the blurred
-lights gleamed; and with her black hair, and disordered head-gear,
-fluttering round her reckless face.
+“I am devilish sorry,” said Cousin Feenix, lifting his wristbands to
+his eyes in the simplest manner possible, and without the least
+concealment, “that the lovely and accomplished daughter of my friend
+Dombey and amiable wife of my friend Gay, should have had her sensitive
+[[Nature|nature]] so very much distressed and cut up by the interview which is
+just concluded. But I [[Hope|hope]] and trust I have acted for the best, and
+that my honourable friend Dombey will find his mind relieved by the
+disclosures which have taken place. I exceedingly lament that my friend
+Dombey should have got himself, in point of fact, into the devil’s own
+state of conglomeration by an alliance with our family; but am strongly
+of opinion that if it hadn’t been for the infernal scoundrel Barker—man
+with white teeth—everything would have gone on pretty smoothly. In
+regard to my relative who does me the [[Honour|honour]] to have formed an
+uncommonly good opinion of myself, I can assure the amiable wife of my
+friend Gay, that she may rely on my being, in point of fact, a father
+to her. And in regard to the changes of human life, and the
+extraordinary manner in which we are perpetually conducting ourselves,
+all I can say is, with my friend Shakespeare—man who wasn’t for an age
+but for all [[Time|time]], and with whom my friend Gay is no [[Doubt|doubt]]
+acquainted—that its like the [[Shadow|shadow]] of [[A Dream|a dream]].”

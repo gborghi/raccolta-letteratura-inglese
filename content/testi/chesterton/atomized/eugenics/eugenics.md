@@ -1,5 +1,5 @@
 ---
-title: "[[Eugenics]]"
+title: "Eugenics"
 author: "Chesterton"
 unitType: work
 parentWork: "works/eugenics-(chesterton)"
@@ -434,7 +434,7 @@ are agnostic or generally unsympathetic to official religion.
 Suppose one of them said "The Church of England is full of hypocrisy."
 What would he think of me if I answered, "I assure you
 that hypocrisy is condemned by every form of [[Christianity]];
-and is particularly repudiated in the [[prayer|Prayer]] Book"?  Suppose he said
+and is particularly repudiated in the [[Prayer]] Book"?  Suppose he said
 that the Church of Rome had been guilty of great cruelties.
 What would he think of me if I answered, "The Church is expressly
 bound to meekness and [[Charity|charity]]; and therefore cannot be cruel"?
@@ -1934,7 +1934,7 @@ used to end our indecision, the whole point here is that the violence
 is used to end the indecision of the persecutors.  This is what
 the honest Eugenists really mean, so far as they mean anything.
 They mean that the public is to be given up, not as a heathen
-land for [[Conversion|conversion]], but simply as a pabulum for a experiment.
+land for [[conversion]], but simply as a pabulum for a experiment.
 That is the real, rude, barbaric sense behind this Eugenic legislation.
 The Eugenist doctors are not such fools as they look in the light of any
 logical inquiry about what they want.  They do not know what they want,

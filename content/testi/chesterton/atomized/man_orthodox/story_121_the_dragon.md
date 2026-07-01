@@ -1,0 +1,32 @@
+---
+title: "Man Orthodox — The Dragon"
+author: "Chesterton"
+unitType: story
+parentWork: "works/man-orthodox-(chesterton)"
+tags:
+  - graph/excerpt
+  - author/Chesterton
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_120_the_person_of_jesus_christ">‹ Story 120 The Person Of Jesus Christ</a><span></span></div>
+</nav>
+
+
+THE DRAGON
+
+The following is the last sentence of Chesterton's first published [[Essay|essay]];
+it appeared in the first number of The Debater, the journal of the famous
+J.D.C. at St Paul's School.  In spite of its schoolboy rhetoric,
+it expresses something of which Chesterton's whole literary career was,
+in a very real sense, a fulfilment.
+
+Reader, when you or I meet him [the dragon], under whatever disguise,
+and perhaps rescue a few captives from his black cavern, may we bear
+a brave lance and a spotless shield through the crashing mÃªlÃ©e
+of life's narrow lists and may our wearied swords have struck fiercely
+on the painted crests of Imposture and Injustice when the Dark Herald
+comes to lead us to the pavilion of the [[King]].
+
+                                           The Debater, March--April, 1891

@@ -1,5 +1,5 @@
 ---
-title: "[[Emma]] — Chapter 14 (part 1)"
+title: "Emma — Chapter 15 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/emma-(austen)"
@@ -10,128 +10,123 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/works/emma-(austen)">Emma</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/emma/chapter_30/part_03">‹ part 03</a><a class="ex-next" href="/testi/austen/atomized/emma/chapter_33/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/emma/chapter_32/part_03">‹ part 03</a><a class="ex-next" href="/testi/austen/atomized/emma/chapter_33/part_02">part 02 ›</a></div>
 </nav>
 
 
-CHAPTER XIV
+CHAPTER XV
 
 
-Mrs. Elton was first seen at church: but though devotion might be
-interrupted, curiosity could not be satisfied by a bride in a pew, and
-it must be left for the visits in form which were then to be paid, to
-settle whether she were very pretty indeed, or only rather pretty, or
-not pretty at all.
+[[Emma]] was not required, by any subsequent discovery, to retract her ill
+opinion of Mrs. Elton. Her observation had been pretty correct. Such as
+Mrs. Elton appeared to her on this second interview, such she appeared
+whenever they met again,—[[Self|self]]-important, presuming, familiar, ignorant,
+and ill-bred. She had a little [[Beauty|beauty]] and a little accomplishment, but
+so little judgment that she thought herself coming with superior
+knowledge of the world, to enliven and improve a country neighbourhood;
+and conceived Miss Hawkins to have held such a place in society as Mrs.
+Elton’s consequence only could surpass.
 
-[[Emma]] had feelings, less of curiosity than of [[Pride|pride]] or propriety, to
-make her resolve on not being the last to pay her respects; and she
-made a point of Harriet’s going with her, that the worst of the
-business might be gone through as soon as possible.
+There was no reason to suppose Mr. Elton thought at all differently
+from his wife. He seemed not merely happy with her, but proud. He had
+the air of congratulating himself on having brought such a woman to
+Highbury, as not even Miss Woodhouse could equal; and the greater part
+of her new acquaintance, disposed to commend, or not in the habit of
+judging, following the lead of [[Miss Bates]]’s good-will, or taking it for
+granted that the bride must be as clever and as agreeable as she
+professed herself, were very [[Well|well]] satisfied; so that Mrs. Elton’s
+praise passed from one mouth to another as it ought to do, unimpeded by
+Miss Woodhouse, who readily continued her first contribution and talked
+with a good grace of her being “very pleasant and very elegantly
+dressed.”
 
-She could not enter the [[house]] again, could not be in the same room to
-which she had with such vain artifice retreated three months ago, to
-lace up her boot, without _recollecting_. A thousand vexatious thoughts
-would recur. Compliments, charades, and horrible blunders; and it was
-not to be supposed that poor Harriet should not be recollecting too;
-but she behaved very [[Well|well]], and was only rather pale and silent. The
-visit was of course short; and there was so much embarrassment and
-occupation of mind to shorten it, that [[Emma]] would not allow herself
-entirely to form an opinion of the lady, and on no account to give one,
-beyond the nothing-meaning terms of being “elegantly dressed, and very
-pleasing.”
+In one respect Mrs. Elton grew even worse than she had appeared at
+first. Her feelings altered towards [[Emma]].—Offended, probably, by the
+little encouragement which her proposals of intimacy met with, she drew
+back in her turn and gradually became much more cold and distant; and
+though the effect was agreeable, the ill-will which produced it was
+necessarily increasing [[Emma]]’s dislike. Her manners, too—and Mr.
+Elton’s, were unpleasant towards Harriet. They were sneering and
+negligent. [[Emma]] hoped it must rapidly work Harriet’s cure; but the
+sensations which could prompt such behaviour sunk them both very
+much.—It was not to be doubted that poor Harriet’s attachment had been
+an offering to conjugal unreserve, and her own share in the story,
+under a colouring the least favourable to her and the most soothing to
+him, had in all likelihood been given also. She was, of course, the
+object of their joint dislike.—When they had nothing else to say, it
+must be always easy to begin abusing Miss Woodhouse; and the enmity
+which they dared not shew in open disrespect to her, found a broader
+vent in contemptuous treatment of Harriet.
 
-She did not really like her. She would not be in a hurry to find fault,
-but she suspected that there was no elegance;—ease, but not elegance.—
-She was almost sure that for a young woman, a stranger, a bride, there
-was too much ease. Her person was rather good; her face not unpretty;
-but neither feature, nor air, nor voice, nor manner, were elegant. [[Emma]]
-thought at least it would turn out so.
+Mrs. Elton took a great fancy to [[Jane Fairfax]]; and from the first. Not
+merely when a state of warfare with one young lady might be supposed to
+recommend the other, but from the very first; and she was not satisfied
+with expressing a natural and reasonable admiration—but without
+solicitation, or plea, or privilege, she must be wanting to assist and
+befriend her.—Before [[Emma]] had forfeited her confidence, and about the
+third [[Time|time]] of their meeting, she heard all Mrs. Elton’s knight-errantry
+on the subject.—
 
-As for Mr. Elton, his manners did not appear—but no, she would not
-permit a hasty or a witty word from herself about his manners. It was
-an awkward ceremony at any [[Time|time]] to be receiving wedding visits, and a
-man had need be all grace to acquit himself [[Well|well]] through it. The woman
-was better off; she might have the assistance of fine clothes, and the
-privilege of bashfulness, but the man had only his own good sense to
-depend on; and when she considered how peculiarly unlucky poor Mr.
-Elton was in being in the same room at once with the woman he had just
-married, the woman he had wanted to marry, and the woman whom he had
-been expected to marry, she must allow him to have the right to look as
-little wise, and to be as much affectedly, and as little really easy as
-could be.
+“[[Jane Fairfax]] is absolutely charming, Miss Woodhouse.—I quite rave
+about [[Jane Fairfax]].—A sweet, interesting creature. So mild and
+ladylike—and with such talents!—I assure you I think she has very
+extraordinary talents. I do not scruple to say that she plays extremely
+[[Well|well]]. I know enough of music to speak decidedly on that point. Oh! she
+is absolutely charming! You will laugh at my warmth—but, upon my word,
+I talk of nothing but [[Jane Fairfax]].—And her situation is so calculated
+to affect one!—Miss Woodhouse, we must exert ourselves and endeavour to
+do something for her. We must bring her forward. Such talent as hers
+must not be suffered to remain unknown.—I dare say you have heard those
+charming lines of the poet,
 
-“[[Well]], Miss Woodhouse,” said Harriet, when they had quitted the [[house]],
-and after waiting in vain for her friend to begin; “[[Well]], Miss
-Woodhouse, (with a gentle sigh,) what do you think of her?—Is not she
-very charming?”
+‘Full many a flower is born to blush unseen,
+    ‘And waste its fragrance on the [[Desert|desert]] air.’
 
-There was a little hesitation in [[Emma]]’s answer.
 
-“Oh! yes—very—a very pleasing young woman.”
+We must not allow them to be verified in sweet [[Jane Fairfax]].”
 
-“I think her beautiful, quite beautiful.”
+“I cannot think there is any danger of it,” was [[Emma]]’s calm answer—“and
+when you are better acquainted with Miss Fairfax’s situation and
+understand what her [[Home|home]] has been, with Colonel and Mrs. Campbell, I
+have no idea that you will suppose her talents can be unknown.”
 
-“Very nicely dressed, indeed; a remarkably elegant gown.”
+“Oh! but dear Miss Woodhouse, she is now in such retirement, such
+obscurity, so thrown away.—Whatever advantages she may have enjoyed
+with the Campbells are so palpably at an end! And I think she feels it.
+I am sure she does. She is very timid and silent. One can see that she
+feels the want of encouragement. I like her the better for it. I must
+confess it is a recommendation to me. I am a great advocate for
+timidity—and I am sure one does not often meet with it.—But in those
+who are at all inferior, it is extremely prepossessing. Oh! I assure
+you, [[Jane Fairfax]] is a very delightful character, and interests me more
+than I can express.”
 
-“I am not at all surprized that he should have fallen in [[Love|love]].”
+“You appear to feel a great deal—but I am not aware how you or any of
+Miss Fairfax’s acquaintance here, any of those who have known her
+longer than yourself, can shew her any other attention than”—
 
-“Oh! no—there is nothing to surprize one at all.—A pretty fortune; and
-she came in his way.”
-
-“I dare say,” returned Harriet, sighing again, “I dare say she was very
-much attached to him.”
-
-“Perhaps she might; but it is not every man’s fate to marry the woman
-who loves him best. Miss Hawkins perhaps wanted a [[Home|home]], and thought
-this the best offer she was likely to have.”
-
-“Yes,” said Harriet earnestly, “and [[Well|well]] she might, nobody could ever
-have a better. [[Well]], I wish them happy with all my heart. And now, Miss
-Woodhouse, I do not think I shall mind seeing them again. He is just as
-superior as ever;—but being married, you know, it is quite a different
-thing. No, indeed, Miss Woodhouse, you need not be afraid; I can sit
-and admire him now without any great misery. To know that he has not
-thrown himself away, is such a comfort!—She does seem a charming young
-woman, just what he deserves. Happy creature! He called her ‘Augusta.’
-How delightful!”
-
-When the visit was returned, [[Emma]] made up her mind. She could then see
-more and judge better. From Harriet’s happening not to be at Hartfield,
-and her father’s being present to engage Mr. Elton, she had a quarter
-of an hour of the lady’s conversation to herself, and could composedly
-attend to her; and the quarter of an hour quite convinced her that Mrs.
-Elton was a vain woman, extremely [[Well|well]] satisfied with herself, and
-thinking much of her own importance; that she meant to shine and be
-very superior, but with manners which had been formed in a bad school,
-pert and familiar; that all her notions were drawn from one set of
-people, and one style of living; that if not foolish she was ignorant,
-and that her society would certainly do Mr. Elton no good.
-
-Harriet would have been a better match. If not wise or refined herself,
-she would have connected him with those who were; but Miss Hawkins, it
-might be fairly supposed from her easy conceit, had been the best of
-her own set. The rich brother-in-law near Bristol was the [[Pride|pride]] of the
-alliance, and his place and his carriages were the [[Pride|pride]] of him.
-
-The very first subject after being seated was Maple Grove, “My brother
-Mr. Suckling’s seat;”—a comparison of Hartfield to Maple Grove. The
-grounds of Hartfield were small, but neat and pretty; and the [[house]] was
-modern and [[Well|well]]-built. Mrs. Elton seemed most favourably impressed by
-the size of the room, the entrance, and all that she could see or
-imagine. “Very like Maple Grove indeed!—She was quite struck by the
-likeness!—That room was the very shape and size of the morning-room at
-Maple Grove; her sister’s favourite room.”—Mr. Elton was appealed
-to.—“Was not it astonishingly like?—She could really almost fancy
-herself at Maple Grove.”
-
-“And the staircase—You know, as I came in, I observed how very like the
-staircase was; placed exactly in the same part of the [[house]]. I really
-could not help exclaiming! I assure you, Miss Woodhouse, it is very
-delightful to me, to be reminded of a place I am so extremely partial
-to as Maple Grove. I have spent so many happy months there! (with a
-little sigh of sentiment). A charming place, undoubtedly. Every [[Body|body]]
-who sees it is struck by its [[Beauty|beauty]]; but to me, it has been quite a
-[[Home|home]]. Whenever you are transplanted, like me, Miss Woodhouse, you will
-understand how very delightful it is to meet with any thing at all like
-what one has left behind. I always say this is quite one of the evils
-of matrimony.”
+“My dear Miss Woodhouse, a vast deal may be done by those who dare to
+act. You and I need not be afraid. If _we_ set the example, many will
+follow it as far as they can; though all have not our situations. _We_
+have carriages to fetch and convey her [[Home|home]], and _we_ live in a style
+which could not make the addition of [[Jane Fairfax]], at any [[Time|time]], the
+least inconvenient.—I should be extremely displeased if Wright were to
+send us up such a dinner, as could make me regret having asked _more_
+than [[Jane Fairfax]] to partake of it. I have no idea of that sort of
+thing. It is not likely that I _should_, considering what I have been
+used to. My greatest danger, perhaps, in housekeeping, may be quite the
+other way, in doing too much, and being too careless of expense. Maple
+Grove will probably be my model more than it ought to be—for we do not
+at all affect to equal my brother, Mr. Suckling, in income.—However, my
+resolution is taken as to noticing [[Jane Fairfax]].—I shall certainly have
+her very often at my [[house]], shall introduce her wherever I can, shall
+have musical parties to draw out her talents, and shall be constantly
+on the watch for an eligible situation. My acquaintance is so very
+extensive, that I have little [[Doubt|doubt]] of hearing of something to suit her
+shortly.—I shall introduce her, of course, very particularly to my
+brother and sister when they come to us. I am sure they will like her
+extremely; and when she gets a little acquainted with them, her fears
+will completely wear off, for there really is nothing in the manners of
+either but what is highly conciliating.—I shall have her very often
+indeed while they are with me, and I dare say we shall sometimes find a
+seat for her in the barouche-landau in some of our exploring parties.”

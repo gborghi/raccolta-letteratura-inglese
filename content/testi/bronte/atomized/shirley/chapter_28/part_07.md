@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 28 (part 7)"
+title: "Shirley — Chapter 28 (part 7)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,90 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_28/part_06">‹ part 06</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_29/part_01">part 01 ›</a></div>
 </nav>
 
+
+_quite_ gone?"
+
+
+
+"Wholly. As I _was_ two hours since, and as I _am_ now, are two
+
+different states of existence. I believe, Mr. Moore, griefs and fears
+
+nursed in [[Silence|silence]] grow like Titan infants."
+
+
+
+"You will cherish such feelings no more in [[Silence|silence]]?"
+
+
+
+"Not if I dare speak."
+
+
+
+"In using the word '_dare_,' to whom do you allude?"
+
+
+
+"To you."
+
+
+
+"How is it applicable to me?"
+
+
+
+"On account of your austerity and shyness."
+
+
+
+"Why am I austere and shy?"
+
+
+
+"Because you are proud."
+
+
+
+"Why am I proud?"
+
+
+
+"I should like to know. Will you be good enough to tell me?"
+
+
+
+"Perhaps, because I am poor, for one reason. [[Poverty]] and [[Pride|pride]] often go
+
+together."
+
+
+
+"That is such a nice reason. I should be charmed to discover another
+
+that would pair with it. Mate that turtle, Mr. Moore."
+
+
+
+"Immediately. What do you think of marrying to sober [[Poverty]] many-tinted
+
+Caprice?"
+
+
+
+"Are you capricious?"
+
+
+
+"_You_ are."
+
+
+
+"A libel. I am steady as a rock, fixed as the polar star."
+
+
+
+"I look out at some early hour of the day, and see a fine, perfect
 
 rainbow, bright with promise, gloriously spanning the beclouded welkin
 

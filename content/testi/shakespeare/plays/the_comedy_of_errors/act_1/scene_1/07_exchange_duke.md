@@ -1,5 +1,5 @@
 ---
-title: "The [[Comedy]] of Errors — Act I, Scene 1 — exchange (DUKE) [7]"
+title: "The Comedy of Errors — Act I, Scene 1 — exchange (DUKE) [7]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-comedy-of-errors-(shakespeare)"

@@ -1,5 +1,5 @@
 ---
-title: "[[Emma]] — Chapter 7 (part 2)"
+title: "Emma — Chapter 8 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/emma-(austen)"
@@ -10,115 +10,133 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/works/emma-(austen)">Emma</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/emma/chapter_26/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/emma/chapter_27/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/emma/chapter_26/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/emma/chapter_26/part_03">part 03 ›</a></div>
 </nav>
 
 
-It was the arrival of this very invitation while the Westons were at
-Hartfield, which made their presence so acceptable; for though her
-first remark, on reading it, was that “of course it must be declined,”
-she so very soon proceeded to ask them what they advised her to do,
-that their advice for her going was most prompt and successful.
+“One can suppose nothing else,” added Mrs. Cole, “and I was only
+surprized that there could ever have been a [[Doubt|doubt]]. But Jane, it seems,
+had a letter from them very lately, and not a word was said about it.
+She knows their ways best; but I should not consider their [[Silence|silence]] as
+any reason for their not meaning to make the present. They might chuse
+to surprize her.”
 
-She owned that, considering every thing, she was not absolutely without
-inclination for the party. The Coles expressed themselves so
-properly—there was so much real attention in the manner of it—so much
-consideration for her father. “They would have solicited the [[Honour|honour]]
-earlier, but had been waiting the arrival of a folding-screen from
-[[London]], which they hoped might keep Mr. Woodhouse from any draught of
-air, and therefore induce him the more readily to give them the [[Honour|honour]]
-of his company.” Upon the whole, she was very persuadable; and it being
-briefly settled among themselves how it might be done without
-neglecting his comfort—how certainly Mrs. Goddard, if not Mrs. Bates,
-might be depended on for bearing him company—Mr. Woodhouse was to be
-talked into an acquiescence of his daughter’s going out to dinner on a
-day now near at hand, and spending the whole evening away from him. As
-for _his_ going, [[Emma]] did not wish him to think it possible, the hours
-would be too late, and the party too numerous. He was soon pretty [[Well|well]]
-resigned.
+Mrs. Cole had many to agree with her; every [[Body|body]] who spoke on the
+subject was equally convinced that it must come from Colonel Campbell,
+and equally rejoiced that such a present had been made; and there were
+enough ready to speak to allow [[Emma]] to think her own way, and still
+listen to Mrs. Cole.
 
-“I am not fond of dinner-visiting,” said he—“I never was. No more is
-[[Emma]]. Late hours do not agree with us. I am sorry Mr. and Mrs. Cole
-should have done it. I think it would be much better if they would come
-in one afternoon next [[Summer|summer]], and take their tea with us—take us in
-their afternoon walk; which they might do, as our hours are so
-reasonable, and yet get [[Home|home]] without being out in the damp of the
-evening. The dews of a [[Summer|summer]] evening are what I would not expose any
-[[Body|body]] to. However, as they are so very desirous to have dear [[Emma]] dine
-with them, and as you will both be there, and Mr. Knightley too, to
-take care of her, I cannot wish to prevent it, provided the weather be
-what it ought, neither damp, nor cold, nor windy.” Then turning to Mrs.
-Weston, with a look of gentle reproach—“Ah! Miss Taylor, if you had not
-married, you would have staid at [[Home|home]] with me.”
+“I declare, I do not know when I have heard any thing that has given me
+more satisfaction!—It always has quite hurt me that [[Jane Fairfax]], who
+plays so delightfully, should not have an instrument. It seemed quite a
+shame, especially considering how many houses there are where fine
+instruments are absolutely thrown away. This is like giving ourselves a
+slap, to be sure! and it was but yesterday I was telling Mr. Cole, I
+really was ashamed to look at our new grand pianoforte in the
+drawing-room, while I do not know one note from another, and our little
+girls, who are but just beginning, perhaps may never make any thing of
+it; and there is poor [[Jane Fairfax]], who is mistress of music, has not
+any thing of the [[Nature|nature]] of an instrument, not even the pitifullest old
+spinet in the world, to amuse herself with.—I was saying this to Mr.
+Cole but yesterday, and he quite agreed with me; only he is so
+particularly fond of music that he could not help indulging himself in
+the purchase, hoping that some of our good neighbours might be so
+obliging occasionally to put it to a better use than we can; and that
+really is the reason why the instrument was bought—or else I am sure we
+ought to be ashamed of it.—We are in great hopes that Miss Woodhouse
+may be prevailed with to try it this evening.”
 
-“[[Well]], sir,” cried Mr. Weston, “as I took Miss Taylor away, it is
-incumbent on me to supply her place, if I can; and I will step to Mrs.
-Goddard in a moment, if you wish it.”
+Miss Woodhouse made the proper acquiescence; and finding that nothing
+more was to be entrapped from any communication of Mrs. Cole’s, turned
+to [[Frank Churchill]].
 
-But the idea of any thing to be done in a _moment_, was increasing, not
-lessening, Mr. Woodhouse’s agitation. The ladies knew better how to
-allay it. Mr. Weston must be quiet, and every thing deliberately
-arranged.
+“Why do you smile?” said she.
 
-With this treatment, Mr. Woodhouse was soon composed enough for talking
-as usual. “He should be happy to see Mrs. Goddard. He had a great
-regard for Mrs. Goddard; and [[Emma]] should write a line, and invite her.
-James could take the note. But first of all, there must be an answer
-written to Mrs. Cole.”
+“Nay, why do you?”
 
-“You will make my excuses, my dear, as civilly as possible. You will
-say that I am quite an invalid, and go no where, and therefore must
-decline their obliging invitation; beginning with my _compliments_, of
-course. But you will do every thing right. I need not tell you what is
-to be done. We must remember to let James know that the carriage will
-be wanted on Tuesday. I shall have no fears for you with him. We have
-never been there above once since the new approach was made; but still
-I have no [[Doubt|doubt]] that James will take you very safely. And when you get
-there, you must tell him at what [[Time|time]] you would have him come for you
-again; and you had better name an early hour. You will not like staying
-late. You will get very tired when tea is over.”
+“Me!—I suppose I smile for pleasure at Colonel Campbell’s being so rich
+and so liberal.—It is a handsome present.”
 
-“But you would not wish me to come away before I am tired, papa?”
+“Very.”
 
-“Oh! no, my [[Love|love]]; but you will soon be tired. There will be a great
-many people talking at once. You will not like the noise.”
+“I rather [[Wonder|wonder]] that it was never made before.”
 
-“But, my dear sir,” cried Mr. Weston, “if [[Emma]] comes away early, it
-will be breaking up the party.”
+“Perhaps Miss Fairfax has never been staying here so long before.”
 
-“And no great harm if it does,” said Mr. Woodhouse. “The sooner every
-party breaks up, the better.”
+“Or that he did not give her the use of their own instrument—which must
+now be shut up in [[London]], untouched by any [[Body|body]].”
 
-“But you do not consider how it may appear to the Coles. [[Emma]]’s going
-away directly after tea might be giving offence. They are good-natured
-people, and think little of their own claims; but still they must feel
-that any [[Body|body]]’s hurrying away is no great compliment; and Miss
-Woodhouse’s doing it would be more thought of than any other person’s
-in the room. You would not wish to disappoint and mortify the Coles, I
-am sure, sir; friendly, good sort of people as ever lived, and who have
-been your neighbours these _ten_ years.”
+“That is a grand pianoforte, and he might think it too large for Mrs.
+Bates’s [[house]].”
 
-“No, upon no account in the world, Mr. Weston; I am much obliged to you
-for reminding me. I should be extremely sorry to be giving them any
-[[Pain|pain]]. I know what worthy people they are. Perry tells me that Mr. Cole
-never touches malt liquor. You would not think it to look at him, but
-he is bilious—Mr. Cole is very bilious. No, I would not be the means of
-giving them any [[Pain|pain]]. My dear [[Emma]], we must consider this. I am sure,
-rather than run the risk of hurting Mr. and Mrs. Cole, you would stay a
-little longer than you might wish. You will not regard being tired. You
-will be perfectly safe, you know, among your friends.”
+“You may _say_ what you chuse—but your countenance testifies that your
+_thoughts_ on this subject are very much like mine.”
 
-“Oh yes, papa. I have no fears at all for myself; and I should have no
-scruples of staying as late as Mrs. Weston, but on your account. I am
-only afraid of your sitting up for me. I am not afraid of your not
-being exceedingly comfortable with Mrs. Goddard. She loves piquet, you
-know; but when she is gone [[Home|home]], I am afraid you will be sitting up by
-yourself, instead of going to bed at your usual [[Time|time]]—and the idea of
-that would entirely destroy my comfort. You must promise me not to sit
-up.”
+“I do not know. I rather believe you are giving me more credit for
+acuteness than I deserve. I smile because you smile, and shall probably
+suspect whatever I find you suspect; but at present I do not see what
+there is to question. If Colonel Campbell is not the person, who can
+be?”
 
-He did, on the condition of some promises on her side: such as that, if
-she came [[Home|home]] cold, she would be sure to warm herself thoroughly; if
-hungry, that she would take something to eat; that her own maid should
-sit up for her; and that Serle and the butler should see that every
-thing were safe in the [[house]], as usual.
+“What do you say to Mrs. Dixon?”
+
+“Mrs. Dixon! very true indeed. I had not thought of Mrs. Dixon. She
+must know as [[Well|well]] as her father, how acceptable an instrument would be;
+and perhaps the mode of it, the mystery, the surprize, is more like a
+young woman’s scheme than an elderly man’s. It is Mrs. Dixon, I dare
+say. I told you that your suspicions would guide mine.”
+
+“If so, you must extend your suspicions and comprehend _Mr_. Dixon in
+them.”
+
+“Mr. Dixon.—Very [[Well|well]]. Yes, I immediately perceive that it must be the
+joint present of Mr. and Mrs. Dixon. We were speaking the other day,
+you know, of his being so warm an admirer of her performance.”
+
+“Yes, and what you told me on that head, confirmed an idea which I had
+entertained before.—I do not mean to reflect upon the good intentions
+of either Mr. Dixon or Miss Fairfax, but I cannot help suspecting
+either that, after making his proposals to her friend, he had the
+misfortune to fall in [[Love|love]] with _her_, or that he became conscious of a
+little attachment on her side. One might guess twenty things without
+guessing exactly the right; but I am sure there must be a particular
+cause for her chusing to come to Highbury instead of going with the
+Campbells to Ireland. Here, she must be leading a life of privation and
+penance; there it would have been all enjoyment. As to the pretence of
+trying her native air, I look upon that as a mere excuse.—In the [[Summer|summer]]
+it might have passed; but what can any [[Body|body]]’s native air do for them in
+the months of January, February, and March? Good fires and carriages
+would be much more to the purpose in most cases of delicate health, and
+I dare say in her’s. I do not require you to adopt all my suspicions,
+though you make so noble a profession of doing it, but I honestly tell
+you what they are.”
+
+“And, upon my word, they have an air of great probability. Mr. Dixon’s
+preference of her music to her friend’s, I can answer for being very
+decided.”
+
+“And then, he saved her life. Did you ever hear of that?—A [[Water|water]] party;
+and by some accident she was falling overboard. He caught her.”
+
+“He did. I was there—one of the party.”
+
+“Were you really?—[[Well]]!—But you observed nothing of course, for it
+seems to be a new idea to you.—If I had been there, I think I should
+have made some discoveries.”
+
+“I dare say you would; but I, simple I, saw nothing but the fact, that
+Miss Fairfax was nearly dashed from the vessel and that Mr. Dixon
+caught her.—It was the work of a moment. And though the consequent
+shock and alarm was very great and much more durable—indeed I believe
+it was half an hour before any of us were comfortable again—yet that
+was too general a sensation for any thing of peculiar anxiety to be
+observable. I do not mean to say, however, that you might not have made
+discoveries.”
+
+The conversation was here interrupted. They were called on to share in
+the awkwardness of a rather long interval between the courses, and
+obliged to be as formal and as orderly as the others; but when the
+table was again safely covered, when every corner dish was placed
+exactly right, and occupation and ease were generally restored, [[Emma]]
+said,

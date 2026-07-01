@@ -1,5 +1,5 @@
 ---
-title: "The Haunted Man and the [[Ghost]]'s Bargain — Chapter 2 (part 3)"
+title: "The Haunted Man and the Ghost's Bargain — Chapter 2 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-haunted-man-and-the-ghost's-bargain-(dickens)"
@@ -139,6 +139,3 @@ from the adjoining closet to see what was going on in the eating way.
 
 “I am sure, ’Dolphus,” sobbed Mrs. Tetterby, “coming [[Home|home]], I had no more
 idea than a [[Child|child]] [[unborn]]—”
-
-Mr. Tetterby seemed to dislike this figure of speech, and observed, “Say
-than the baby, my dear.”

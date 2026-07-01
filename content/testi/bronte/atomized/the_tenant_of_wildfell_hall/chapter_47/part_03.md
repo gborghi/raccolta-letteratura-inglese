@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 47 (part 3)"
+title: "The Tenant of Wildfell Hall — Chapter 47 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_47/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_47/part_04">part 04 ›</a></div>
 </nav>
 
+
+do! That old hag will be the [[Death|death]] of me.”
+
+
+
+“I mean to stay with you,” said I. And after that he would call me
+
+Alice, or some other name almost equally repugnant to my feelings. I
+
+forced myself to endure it for a while, fearing a contradiction might
+
+disturb him too much; but when, having asked for a glass of [[Water|water]],
+
+while I held it to his lips, he murmured, “Thanks, dearest!” I could
 
 not help distinctly observing, “You would not say so if you knew me,”
 
@@ -98,7 +112,7 @@ to unravel the mystery.
 
 
 
-“No, [[arthur|Arthur]], it was not [[A Dream|a dream]], that your conduct was such as to
+“No, [[Arthur]], it was not [[A Dream|a dream]], that your conduct was such as to
 
 oblige me to leave you; but I heard that you were ill and [[Alone|alone]], and I
 
@@ -222,7 +236,7 @@ All this may strike you as harsh, but I felt I must not lose my present
 
 advantage, and my son’s future welfare should not be sacrificed to any
 
-mistaken tenderness for this man’s feelings. Little [[arthur|Arthur]] had not
+mistaken tenderness for this man’s feelings. Little [[Arthur]] had not
 
 forgotten his father, but thirteen months of absence, during which he
 
@@ -237,49 +251,3 @@ his former [[Self|self]], with fiercely flushed face and wildly-gleaming eyes—
 instinctively clung to me, and stood looking on his father with a
 
 countenance expressive of far more awe than pleasure.
-
-
-
-“Come here, [[arthur|Arthur]],” said the latter, extending his hand towards him.
-
-The [[Child|child]] went, and timidly touched that burning hand, but almost
-
-started in alarm, when his father suddenly clutched his arm and drew
-
-him nearer to his side.
-
-
-
-“Do you know me?” asked Mr. Huntingdon, intently perusing his features.
-
-
-
-“Yes.”
-
-
-
-“Who am I?”
-
-
-
-“Papa.”
-
-
-
-“Are you glad to see me?”
-
-
-
-“Yes.”
-
-
-
-“You’re _not!_” replied the disappointed parent, relaxing his hold, and
-
-darting a vindictive glance at me.
-
-
-
-[[arthur|Arthur]], thus released, crept back to me and put his hand in mine. His
-
-father swore I had made the [[Child|child]] hate him, and abused and cursed me

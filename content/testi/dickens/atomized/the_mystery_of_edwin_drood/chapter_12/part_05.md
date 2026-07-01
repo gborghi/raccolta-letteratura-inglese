@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 11 (part 5)"
+title: "The Mystery of Edwin Drood — Chapter 11 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -13,6 +13,8 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_12/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_13/part_01">part 01 ›</a></div>
 </nav>
 
+
+The young man took the little case, and placed it in his breast.
 
 “If anything should be amiss, if anything should be even slightly
 wrong, between you; if you should have any secret consciousness that

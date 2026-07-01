@@ -19,17 +19,17 @@ II. The Root of Reality
 The only excuse of literature is to make things new; and the chief
 misfortune of journalism is that it has to make them old.
 What is hurried has to be hackneyed. Suppose a man has to write
-on a particular subject, let us say [[america|America]]; if he has a day
+on a particular subject, let us say [[America]]; if he has a day
 to do it in, it is possible that, in the last afterglow of sunset,
 he may have discovered at least one thing which he himself really
-thinks about [[america|America]]. It is conceivable that somewhere under
+thinks about [[America]]. It is conceivable that somewhere under
 the [[Evening Star|evening star]] he may have a new idea, even about the new world.
 If he has only half an hour in which to write, he will just have
 [[Time|time]] to consult an encyclopaedia and vaguely remember the latest
 leading articles. The encyclopaedia will be only about a decade
 out of date; the leading articles will be aeons out of date--
 having been written under similar conditions of modern rush.
-If he has only a quarter of an hour in which to write about [[america|America]],
+If he has only a quarter of an hour in which to write about [[America]],
 he may be driven in mere delirium and [[Madness|madness]] to call her his
 Gigantic Daughter in the west, to talk of the feasibility
 of Hands Across the Sea, or even to call himself an Anglo-Saxon,
@@ -165,7 +165,7 @@ not even differ from it. It may be that Trusts are rising like towers
 of gold and iron, overshadowing the earth and shutting out the sun;
 but they are only rising on the left side of the [[Road|road]]. It may be
 that Trades Unions are laying labyrinths of international insurrection,
-cellars stored with the dynamite of a merely destructive [[Democracy|democracy]];
+cellars stored with the dynamite of a merely destructive [[democracy]];
 but all that international maze lies to the left side of the [[Road|road]].
 Employment and unemployment are there; Marx and the Manchester School
 are there. The left side of the [[Road|road]] may even go through

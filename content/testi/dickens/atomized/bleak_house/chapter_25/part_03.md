@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 25 (part 3)"
+title: "Bleak House — Chapter 25 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_25/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_26/part_01">part 01 ›</a></div>
 </nav>
 
+
+Mr. Chadband draws himself up again and looks triumphantly at Mr.
+Snagsby as if he would be glad to know how he feels after that.
 
 “Of Terewth,” says Mr. Chadband, hitting him again. “Say not to me
 that it is NOT the lamp of lamps. I say to you it is. I say to you, a

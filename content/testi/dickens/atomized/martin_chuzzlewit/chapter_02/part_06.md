@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 2 (part 6)"
+title: "Martin Chuzzlewit — Chapter 2 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_02/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_02/part_07">part 07 ›</a></div>
 </nav>
 
+
+‘Money, John,’ said Mr Pecksniff, ‘is the root of all evil. I grieve
+to see that it is already bearing evil fruit in you. But I will not
+remember its existence. I will not even remember the conduct of that
+misguided person’--and here, although he spoke like one at peace with
+all the world, he used an emphasis that plainly said “I have my eye
+upon the rascal now”--‘that misguided person who has brought you here
+to-[[Night|night]], seeking to disturb (it is a happiness to say, in vain) the
+heart’s repose and peace of one who would have shed his dearest [[Blood|blood]] to
+serve him.’
+
+The voice of Mr Pecksniff trembled as he spoke, and sobs were heard from
+his daughters. Sounds floated on the air, moreover, as if two spirit
+voices had exclaimed: one, ‘Beast!’ the other, ‘Savage!’
 
 ‘[[Forgiveness]],’ said Mr Pecksniff, ‘entire and pure [[Forgiveness|forgiveness]] is not
 incompatible with a wounded heart; perchance when the heart is wounded,
@@ -114,28 +128,3 @@ which nobody knows better than I: that I was born for much plainer and
 poorer things, that I am not a good hand for his kind of business, and
 have no talent for it, or indeed for anything else but odds and ends
 that are of no use or service to anybody.’
-
-He said this with so much earnestness, and in a tone so full of feeling,
-that his companion instinctively changed his manner as he sat down on
-the box (they had by this [[Time|time]] reached the finger-post at the end of the
-lane); motioned him to sit down beside him; and laid his hand upon his
-shoulder.
-
-‘I believe you are one of the best fellows in the world,’ he said, ‘Tom
-Pinch.’
-
-‘Not at all,’ rejoined Tom. ‘If you only knew Pecksniff as [[Well|well]] as I do,
-you might say it of him, indeed, and say it truly.’
-
-‘I’ll say anything of him, you like,’ returned the other, ‘and not
-another word to his disparagement.’
-
-‘It’s for my sake, then; not his, I am afraid,’ said Pinch, shaking his
-head gravely.
-
-‘For whose you please, Tom, so that it does please you. Oh! He’s a
-famous fellow! HE never scraped and clawed into his pouch all your poor
-grandmother’s hard savings--she was a housekeeper, wasn’t she, Tom?’
-
-‘Yes,’ said Mr Pinch, nursing one of his large knees, and nodding his
-head; ‘a gentleman’s housekeeper.’

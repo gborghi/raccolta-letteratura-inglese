@@ -129,12 +129,12 @@ tags:
 - [Chapter 70](/testi/dickens/atomized/hard_times/chapter_70)
 - [Chapter 71](/testi/dickens/atomized/hard_times/chapter_71)
 - [Chapter 72](/testi/dickens/atomized/hard_times/chapter_72)
-- [Chapter 73](/testi/dickens/atomized/hard_times/chapter_73)
+- Chapter 73
 - [Chapter 74](/testi/dickens/atomized/hard_times/chapter_74)
 - [Chapter 75](/testi/dickens/atomized/hard_times/chapter_75)
-- [Chapter 76 it was consented that Sissy an](/testi/dickens/atomized/hard_times/chapter_76_it_was_consented_that_sissy_an)
-- [Chapter 77](/testi/dickens/atomized/hard_times/chapter_77)
-- [Chapter 78](/testi/dickens/atomized/hard_times/chapter_78)
+- Chapter 76 it was consented that Sissy an
+- Chapter 77
+- Chapter 78
 
 
 ## Testo integrale / Full text

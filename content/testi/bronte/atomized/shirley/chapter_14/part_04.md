@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 14 (part 4)"
+title: "Shirley — Chapter 14 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,30 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_14/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_14/part_05">part 05 ›</a></div>
 </nav>
 
+
+been to involve her in painful embarrassment. She was far better
+
+informed, better read, a deeper thinker than Miss Ainley, but of
+
+administrative energy, of executive activity, she had none. She would
+
+subscribe her own modest mite to a charitable object willingly--secret
+
+almsgiving suited her; but in public plans, on a large scale, she could
+
+take no part; as to originating them, that was out of the question. This
+
+[[Shirley]] knew, and therefore she did not trouble Mrs. Pryor by unavailing
+
+conferences, which could only remind her of her own deficiencies, and do
+
+no good.
+
+
+
+It was a bright day for Miss Ainley when she was summoned to Fieldhead
+
+to deliberate on projects so congenial to her; when she was seated with
 
 all [[Honour|honour]] and deference at a table with paper, pen, ink, and--what was
 
@@ -181,27 +205,3 @@ occupation and grade he was acceptable. The [[Truth|truth]], simplicity, frankne
 of his manners, the nobleness of his integrity, the reality and
 
 elevation of his piety, won him friends in every grade. His poor clerk
-
-and sexton delighted in him; the noble patron of his living esteemed him
-
-highly. It was only with young, handsome, fashionable, and stylish
-
-ladies he felt a little shy. Being himself a plain man--plain in aspect,
-
-plain in manners, plain in speech--he seemed to [[Fear|fear]] their dash,
-
-elegance, and airs. But Miss Helstone had neither dash nor airs, and her
-
-native elegance was of a very quiet order--quiet as the [[Beauty|beauty]] of a
-
-ground-loving hedge-flower. He was a fluent, cheerful, agreeable talker.
-
-Caroline could talk too in a _tête-à-tête_. She liked Mr. Hall to come
-
-and take the seat next her in a party, and thus secure her from Peter
-
-Augustus Malone, Joseph Donne, or John Sykes; and Mr. Hall never failed
-
-to avail himself of this privilege when he possibly could. Such
-
-preference shown by a single gentleman to a single lady would certainly,

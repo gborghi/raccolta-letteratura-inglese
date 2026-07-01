@@ -201,7 +201,3 @@ CHAPTER 11
 
 
       I now found myself, as it were, [[Alone|alone]] in the brig, and my
-
-      reflections, to be sure, were of the most fearful and gloomy
-
-      [[Nature|nature]]. No prospect offered itself to my view but a lingering

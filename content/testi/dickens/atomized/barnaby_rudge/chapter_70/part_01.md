@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 70 (part 1)"
+title: "Barnaby Rudge — Chapter 70 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/barnaby-rudge-(dickens)">Barnaby Rudge</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_69/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_70/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_69/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_70/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -120,9 +120,3 @@ harmless jocularity, such as is adapted to please and fascinate the sex,
 converted his right forefinger into an ideal bradawl or gimlet, and
 made as though he would screw the same into her side--whereat Miss Miggs
 shrieked again, and evinced symptoms of faintness.
-
-‘Lovey, my dear,’ whispered Dennis, drawing his chair close to hers.
-‘When was your young man here last, eh?’
-
-‘MY young man, good gentleman!’ answered Miggs in a tone of exquisite
-distress.

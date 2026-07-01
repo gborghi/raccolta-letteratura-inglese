@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 37"
+title: "Nicholas Nickleby — Chapter 37"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -500,7 +500,7 @@ very much so, and really I don’t know why it should not be, if it’s
 depends upon that.’
 
 With which preface, Mrs. Nickleby took her nightcap from between the
-[[Leaves|leaves]] of a very large [[Prayer|prayer]]-book where it had been folded up small,
+[[Leaves|leaves]] of a very large [[prayer]]-book where it had been folded up small,
 and proceeded to tie it on: talking away in her usual discursive manner,
 all the [[Time|time]].
 

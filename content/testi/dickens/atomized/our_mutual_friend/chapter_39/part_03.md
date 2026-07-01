@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 15 (part 3)"
+title: "Our Mutual Friend — Chapter 1 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,154 +14,144 @@ tags:
 </nav>
 
 
-The powdered mortar from under the stone at which he wrenched, rattled
-on the pavement to confirm his words.
+‘I tell you, Fledgeby,’ repeated Lammle, with a sweep of his right arm,
+‘the whole thing’s wrong. The game’s up.’
 
-‘Mr Headstone—’
+‘What game’s up?’ demanded Fledgeby, as slowly as before, and more
+sternly.
 
-‘Stop! I implore you, before you answer me, to walk round this place
-once more. It will give you a minute’s [[Time|time]] to think, and me a minute’s
-[[Time|time]] to get some fortitude together.’
+‘THE game. OUR game. Read that.’
 
-Again she yielded to the entreaty, and again they came back to the same
-place, and again he worked at the stone.
+Fledgeby took a note from his extended hand and read it aloud. ‘Alfred
+Lammle, Esquire. Sir: Allow Mrs Podsnap and myself to express our united
+sense of the polite attentions of Mrs Alfred Lammle and yourself towards
+our daughter, Georgiana. Allow us also, wholly to reject them for the
+future, and to communicate our final [[Desire|desire]] that the two families
+may become entire strangers. I have the [[Honour|honour]] to be, Sir, your most
+obedient and very humble servant, JOHN PODSNAP.’ Fledgeby looked at the
+three blank sides of this note, quite as long and earnestly as at the
+first expressive side, and then looked at Lammle, who responded with
+another extensive sweep of his right arm.
 
-‘Is it,’ he said, with his attention apparently engrossed by it, ‘yes,
-or no?’
+‘Whose doing is this?’ said Fledgeby.
 
-‘Mr Headstone, I thank you sincerely, I thank you gratefully, and [[Hope|hope]]
-you may find a worthy wife before long and be very happy. But it is no.’
+‘Impossible to imagine,’ said Lammle.
 
-‘Is no short [[Time|time]] necessary for reflection; no weeks or days?’ he asked,
-in the same half-suffocated way.
+‘Perhaps,’ suggested Fledgeby, after reflecting with a very discontented
+brow, ‘somebody has been giving you a bad character.’
 
-‘None whatever.’
+‘Or you,’ said Lammle, with a deeper frown.
 
-‘Are you quite decided, and is there no chance of any change in my
-favour?’
+Mr Fledgeby appeared to be on the verge of some mutinous expressions,
+when his hand happened to touch his nose. A certain remembrance
+connected with that feature operating as a timely warning, he took it
+thoughtfully between his thumb and forefinger, and pondered; Lammle
+meanwhile eyeing him with furtive eyes.
 
-‘I am quite decided, Mr Headstone, and I am bound to answer I am certain
-there is none.’
+‘[[Well]]!’ said Fledgeby. ‘This won’t improve with talking about. If we
+ever find out who did it, we’ll mark that person. There’s nothing more
+to be said, except that you undertook to do what circumstances prevent
+your doing.’
 
-‘Then,’ said he, suddenly changing his tone and turning to her, and
-bringing his clenched hand down upon the stone with a force that laid
-the knuckles raw and bleeding; ‘then I [[Hope|hope]] that I may never kill him!’
+‘And that you undertook to do what you might have done by this [[Time|time]], if
+you had made a prompter use of circumstances,’ snarled Lammle.
 
-The dark look of hatred and [[Revenge|revenge]] with which the words broke from his
-livid lips, and with which he stood holding out his smeared hand as
-if it held some weapon and had just struck a mortal blow, made her so
-afraid of him that she turned to run away. But he caught her by the arm.
+‘Hah! That,’ remarked Fledgeby, with his hands in the Turkish trousers,
+‘is matter of opinion.’
 
-‘Mr Headstone, let me go. Mr Headstone, I must call for help!’
+‘Mr Fledgeby,’ said Lammle, in a bullying tone, ‘am I to understand that
+you in any way reflect upon me, or hint dissatisfaction with me, in this
+affair?’
 
-‘It is I who should call for help,’ he said; ‘you don’t know yet how
-much I need it.’
+‘No,’ said Fledgeby; ‘provided you have brought my promissory note in
+your pocket, and now hand it over.’
 
-The working of his face as she shrank from it, glancing round for her
-brother and uncertain what to do, might have extorted a cry from her in
-another instant; but all at once he sternly stopped it and fixed it, as
-if [[Death]] itself had done so.
+Lammle produced it, not without reluctance. Fledgeby looked at it,
+identified it, twisted it up, and threw it into the [[Fire|fire]]. They both
+looked at it as it blazed, went out, and flew in feathery ash up the
+chimney.
 
-‘There! You see I have recovered myself. Hear me out.’
+‘NOW, Mr Fledgeby,’ said Lammle, as before; ‘am I to understand that
+you in any way reflect upon me, or hint dissatisfaction with me, in this
+affair?’
 
-With much of the dignity of [[Courage|courage]], as she recalled her [[Self|self]]-reliant
-life and her right to be free from accountability to this man, she
-released her arm from his grasp and stood looking full at him. She had
-never been so handsome, in his eyes. A shade came over them while
-he looked back at her, as if she drew the very light out of them to
-herself.
+‘No,’ said Fledgeby.
 
-‘This [[Time|time]], at least, I will leave nothing unsaid,’ he went on, folding
-his hands before him, clearly to prevent his being betrayed into any
-impetuous gesture; ‘this last [[Time|time]] at least I will not be tortured with
-after-thoughts of a lost opportunity. Mr [[Eugene Wrayburn]].’
+‘Finally and unreservedly no?’
 
-‘Was it of him you spoke in your ungovernable rage and violence?’ Lizzie
-Hexam demanded with spirit.
+‘Yes.’
 
-He bit his lip, and looked at her, and said never a word.
+‘Fledgeby, my hand.’
 
-‘Was it Mr Wrayburn that you threatened?’
+Mr Fledgeby took it, saying, ‘And if we ever find out who did this,
+we’ll mark that person. And in the most friendly manner, let me mention
+one thing more. I don’t know what your circumstances are, and I don’t
+ask. You have sustained a loss here. Many men are liable to be involved
+at times, and you may be, or you may not be. But whatever you do,
+Lammle, don’t—don’t—don’t, I beg of you—ever fall into the hands of
+Pubsey and Co. in the next room, for they are grinders. Regular flayers
+and grinders, my dear Lammle,’ repeated Fledgeby with a peculiar relish,
+‘and they’ll skin you by the inch, from the nape of your neck to the
+sole of your foot, and grind every inch of your skin to tooth-powder.
+You have seen what Mr Riah is. Never fall into his hands, Lammle, I beg
+of you as a friend!’
 
-He bit his lip again, and looked at her, and said never a word.
+Mr Lammle, disclosing some alarm at the solemnity of this affectionate
+adjuration, demanded why the devil he ever should fall into the hands of
+Pubsey and Co.?
 
-‘You asked me to hear you out, and you will not speak. Let me find my
-brother.’
+‘To confess the fact, I was made a little uneasy,’ said the candid
+Fledgeby, ‘by the manner in which that Jew looked at you when he heard
+your name. I didn’t like his eye. But it may have been the heated
+fancy of a friend. Of course if you are sure that you have no personal
+security out, which you may not be quite equal to meeting, and which can
+have got into his hands, it must have been fancy. Still, I didn’t like
+his eye.’
 
-‘Stay! I threatened no one.’
+The brooding Lammle, with certain white dints coming and going in his
+palpitating nose, looked as if some tormenting imp were pinching it.
+Fledgeby, watching him with a twitch in his mean face which did duty
+there for a smile, looked very like the tormentor who was pinching.
 
-Her look dropped for an instant to his bleeding hand. He lifted it to
-his mouth, wiped it on his sleeve, and again folded it over the other.
-‘Mr [[Eugene Wrayburn]],’ he repeated.
+‘But I mustn’t keep him waiting too long,’ said Fledgeby, ‘or he’ll
+[[Revenge|revenge]] it on my unfortunate friend. How’s your very clever and
+agreeable wife? She knows we have broken down?’
 
-‘Why do you mention that name again and again, Mr Headstone?’
+‘I showed her the letter.’
 
-‘Because it is the text of the little I have left to say. Observe! There
-are no threats in it. If I utter a threat, stop me, and fasten it upon
-me. Mr [[Eugene Wrayburn]].’
+‘Very much surprised?’ asked Fledgeby.
 
-A worse threat than was conveyed in his manner of uttering the name,
-could hardly have escaped him.
+‘I think she would have been more so,’ answered Lammle, ‘if there had
+been more go in YOU?’
 
-‘He haunts you. You accept favours from him. You are willing enough to
-listen to HIM. I know it, as [[Well|well]] as he does.’
+‘Oh!—She lays it upon me, then?’
 
-‘Mr Wrayburn has been considerate and good to me, sir,’ said Lizzie,
-proudly, ‘in connexion with the [[Death|death]] and with the [[Memory|memory]] of my poor
-father.’
+‘Mr Fledgeby, I will not have my words misconstrued.’
 
-‘No [[Doubt|doubt]]. He is of course a very considerate and a very good man, Mr
-[[Eugene Wrayburn]].’
+‘Don’t break out, Lammle,’ urged Fledgeby, in a submissive tone,
+‘because there’s no occasion. I only asked a question. Then she don’t
+lay it upon me? To ask another question.’
 
-‘He is nothing to you, I think,’ said Lizzie, with an indignation she
-could not repress.
+‘No, sir.’
 
-‘Oh yes, he is. There you mistake. He is much to me.’
+‘Very good,’ said Fledgeby, plainly seeing that she did. ‘My compliments
+to her. Good-bye!’
 
-‘What can he be to you?’
+They shook hands, and Lammle strode out pondering. Fledgeby saw him
+into the fog, and, returning to the [[Fire|fire]] and musing with his face to it,
+stretched the legs of the [[Rose|rose]]-coloured Turkish trousers wide apart, and
+meditatively bent his knees, as if he were going down upon them.
 
-‘He can be a rival to me among other things,’ said Bradley.
+‘You have a pair of whiskers, Lammle, which I never liked,’ murmured
+Fledgeby, ‘and which money can’t produce; you are boastful of your
+manners and your conversation; you wanted to pull my nose, and you have
+let me in for a failure, and your wife says I am the cause of it. I’ll
+bowl you down. I will, though I have no whiskers,’ here he rubbed the
+places where they were due, ‘and no manners, and no conversation!’
 
-‘Mr Headstone,’ returned Lizzie, with a burning face, ‘it is cowardly in
-you to speak to me in this way. But it makes me able to tell you that
-I do not like you, and that I never have liked you from the first, and
-that no other living creature has anything to do with the effect you
-have produced upon me for yourself.’
-
-His head bent for a moment, as if under a weight, and he then looked up
-again, moistening his lips. ‘I was going on with the little I had left
-to say. I knew all this about Mr [[Eugene Wrayburn]], all the while you were
-drawing me to you. I strove against the knowledge, but quite in vain. It
-made no difference in me. With Mr [[Eugene Wrayburn]] in my mind, I went
-on. With Mr [[Eugene Wrayburn]] in my mind, I spoke to you just now. With Mr
-[[Eugene Wrayburn]] in my mind, I have been set aside and I have been cast
-out.’
-
-‘If you give those names to my thanking you for your proposal
-and declining it, is it my fault, Mr Headstone?’ said Lizzie,
-compassionating the bitter struggle he could not conceal, almost as much
-as she was repelled and alarmed by it.
-
-‘I am not complaining,’ he returned, ‘I am only stating the case. I had
-to wrestle with my [[Self|self]]-respect when I submitted to be drawn to you in
-spite of Mr Wrayburn. You may imagine how low my [[Self|self]]-respect lies now.’
-
-She was hurt and angry; but repressed herself in consideration of his
-[[Suffering|suffering]], and of his being her brother’s friend.
-
-‘And it lies under his feet,’ said Bradley, unfolding his hands in spite
-of himself, and fiercely motioning with them both towards the stones of
-the pavement. ‘Remember that! It lies under that fellow’s feet, and he
-treads upon it and exults above it.’
-
-‘He does not!’ said Lizzie.
-
-‘He does!’ said Bradley. ‘I have stood before him face to face, and he
-crushed me down in the dirt of his contempt, and walked over me. Why?
-Because he knew with triumph what was in store for me to-[[Night|night]].’
-
-‘O, Mr Headstone, you talk quite wildly.’
-
-‘Quite collectedly. I know what I say too [[Well|well]]. Now I have said all. I
-have used no threat, remember; I have done no more than show you how the
-case stands;—how the case stands, so far.’
+Having thus relieved his noble mind, he collected the legs of the
+Turkish trousers, straightened himself on his knees, and called out
+to Riah in the next room, ‘Halloa, you sir!’ At sight of the old man
+re-entering with a gentleness monstrously in contrast with the character
+he had given him, Mr Fledgeby was so tickled again, that he exclaimed,
+laughing, ‘Good! Good! Upon my [[Soul|soul]] it is uncommon good!’

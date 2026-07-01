@@ -14,6 +14,65 @@ tags:
 </nav>
 
 
+The earliest works of Browning bear witness, without exception, to
+this ardent and somewhat sentimental evolution. _Pauline_ appeared
+anonymously in 1833. It exhibits the characteristic mark of a juvenile
+poem, the general suggestion that the author is a thousand years old.
+Browning calls it a [[Fragment|fragment]] of a confession; and Mr. Johnson Fox, an
+old friend of Browning's father, who reviewed it for _Tait's
+Magazine_, said, with [[Truth|truth]], that it would be difficult to find
+anything more purely confessional. It is the typical confession of a
+boy laying bare all the spiritual crimes of infidelity and moral
+waste, in a state of genuine ignorance of the fact that every one else
+has committed them. It is wholesome and natural for youth to go about
+confessing that the grass is green, and whispering to a priest
+hoarsely that it has found a sun in heaven. But the records of that
+particular period of development, even when they are as ornate and
+beautiful as _Pauline_, are not necessarily or invariably wholesome
+reading. The chief interest of _Pauline_, with all its beauties, lies
+in a certain almost humorous singularity, the fact that Browning, of
+all people, should have signalised his entrance into the world of
+letters with a poem which may fairly be called morbid. But this is a
+morbidity so general and recurrent that it may be called in a
+contradictory phrase a healthy morbidity; it is a kind of intellectual
+measles. No one of any degree of maturity in reading _Pauline_ will be
+quite so horrified at the sins of the young gentleman who tells the
+story as he seems to be himself. It is the utterance of that bitter
+and heartrending period of youth which comes before we realise the one
+grand and logical basis of all optimism--the doctrine of [[Original Sin|original sin]].
+The boy at this stage being an ignorant and inhuman idealist, regards
+all his faults as frightful secret malformations, and it is only later
+that he becomes conscious of that large and beautiful and benignant
+explanation that the heart of man is deceitful above all things and
+desperately wicked. That Browning, whose judgment on his own work was
+one of the best in the world, took this view of _Pauline_ in after
+years is quite obvious. He displayed a very manly and unique capacity
+of really laughing at his own work without being in the least ashamed
+of it. "This," he said of _Pauline_, "is the only crab apple that
+remains of the shapely tree of life in my [[Fool|fool]]'s paradise." It would
+be difficult to express the matter more perfectly. Although _Pauline_
+was published anonymously, its authorship was known to a certain
+circle, and Browning began to form friendships in the literary world.
+He had already become acquainted with two of the best friends he was
+ever destined to have, Alfred Domett, celebrated in "The Guardian
+Angel" and "Waring," and his cousin Silverthorne, whose [[Death|death]] is
+spoken of in one of the most perfect lyrics in the English language,
+Browning's "May and [[Death]]." These were men of his own age, and his
+manner of speaking of them gives us many glimpses into that splendid
+world of [[Comradeship|comradeship]] which. Plato and Walt Whitman knew, with its
+endless days and its immortal nights. Browning had a third friend
+destined to play an even greater part in his life, but who belonged to
+an older generation and a statelier school of manners and
+scholarship. Mr. Kenyon was a schoolfellow of Browning's father, and
+occupied towards his son something of the position of an irresponsible
+uncle. He was a rotund, rosy old gentleman, fond of comfort and the
+courtesies of life, but fond of them more for others, though much for
+himself. Elizabeth Barrett in after years wrote of "the brightness of
+his carved speech," which would appear to suggest that he practised
+that urbane and precise order of wit which was even then
+old-fashioned. Yet, notwithstanding many talents of this kind, he was
+not so much an able man as the natural friend and equal of able men.
+
 Browning's circle of friends, however, widened about this [[Time|time]] in all
 directions. One friend in particular he made, the Comte de
 Ripert-Monclar, a French Royalist with whom he prosecuted with renewed
@@ -92,20 +151,3 @@ quite equally true that they never tried. The Eden of the Middle Ages
 was really a [[Garden|garden]], where each of God's [[Flowers|flowers]]--[[Truth|truth]] and [[Beauty|beauty]] and
 reason--flourished for its own sake, and with its own name. The Eden
 of modern progress is a kitchen [[Garden|garden]].
-
-It would have been hard, therefore, for Browning to have chosen a
-better example for his study of intellectual egotism than Paracelsus.
-Modern life accuses the mediæval tradition of crushing the intellect;
-Browning, with a truer instinct, accuses that tradition of
-over-glorifying it. There is, however, another and even more important
-deduction to be made from the moral of _Paracelsus_. The usual
-accusation against Browning is that he was consumed with [[logic]]; that
-he thought all subjects to be the proper pabulum of intellectual
-disquisition; that he gloried chiefly in his own power of plucking
-knots to pieces and rending fallacies in two; and that to this method
-he sacrificed deliberately, and with complete [[Self|self]]-complacency, the
-element of poetry and sentiment. To people who imagine Browning to
-have been this frigid believer in the intellect there is only one
-answer necessary or sufficient. It is the fact that he wrote a play
-designed to destroy the whole of this intellectualist fallacy at the
-age of twenty-three.

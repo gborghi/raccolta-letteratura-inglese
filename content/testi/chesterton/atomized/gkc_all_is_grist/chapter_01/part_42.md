@@ -14,125 +14,118 @@ tags:
 </nav>
 
 
-But there is one particular form of this modern simplicity that has
-always puzzled me very much.  I mean the way in which those who dislike
-certain old things, such as war or discipline or various forms
-of danger, talk about ending them without asking how they begin.
-They always assume an association between these things, which none of us
-particularly likes, and other things which they particularly dislike.
-They say, for instance, that kings or capitalists, or some
-other privileged class, have invented flags and frontiers,
-that we may be drilled to defend them with guns and bayonets.
-They do not seem to see that they might need the guns and bayonets
-even if they were not defending the frontiers and flags.
-They might need them if they were defending anything.
-They might need them if they were defending their own ideal
-social state.  And, as a matter of historical fact, they always
-do find that they need them to defend the very state that was
-invented to do away with them.  But I am very much puzzled by
-the childlike simplicity with which idealists walk into this trap.
-It was true to some extent of the eighteenth century republicans,
-though those old republicans were a hundred times more intelligent
-than most of our twentieth century sceptics.  Still, some of
-those charming philosophical gentlemen, of the age of Rousseau
-and Voltaire, did tend to talk as if the Natural Man would find
-it easy to break the [[Sword|sword]] when once he had broken the sceptre.
-They did talk as if nobody but kings would ever want cannons, and battles
-could only arise out of the dynastic ambitions of despotic states.
-We all know the ironic but very inspiring sequel.  The sequel
-was that the Republic was born amid the roar of its own cannons;
-that it could only manage to survive by fighting battle after battle
-with merciless valour and armies growing more military every day;
-until the final fury of that militancy sent forth the greatest
-warrior of the world.
+Now, I do not wish myself to make England and France one nation;
+my views on that subject are the same as those energetically advanced
+by St. Joan of Arc.  But I do think it a fitting subject for sober
+and prayerful consideration, whether with invocations to St. George
+or St. Denis, to St. Joan the fighter or St. Francis the peacemaker,
+that these two great Western nations have steadily drifted further
+and further apart through the centuries, and are now so very far apart
+as they are.  The national division is really dangerous when it cuts
+across all other differences, and is really much deeper than they.
+There have always been strong hatreds against special types
+or tendencies, such as much of the medieval world felt against
+the Moslem or much of the modern world feels against the Bolshevist.
+But, though men may hate Russia because of Bolshevism, they do
+not hate France because of Republicanism or Roman Catholicism,
+or any one definable intellectual idea.
 
-In the face of this example, the Bolshevists did exactly the same.
-In face even of the Bolshevist example, our own English Communists
-are doing exactly the same.  The Russian revolutionists
-also began by being pacifists.  They also set all their hopes
-on merely dissolving the discipline of the despotic armies.
-They also seem never to have reflected that they would want to
-have revolutionist armies, if only to fight the despotic armies.
-And of course, in an incredibly short period of [[Time|time]], they found
-out the very simple fact that revolutionists cannot be pacifists.
-They may set up what they call a peaceful republic, but they have
-to make up their minds what to do, if other people will not leave
-it in peace.
+The ordinary Englishman does not understand either the French Republican
+or the French Royalist; he is equally mystified by the French atheist
+and the French Catholic.  The English Radical cannot comprehend
+the French Radical; the Englishman who is most loyal to his own monarch
+is utterly ignorant of the French case for a return to monarchy.
+Yet France is still what she always was, the intellectual focus
+and creative crater of Christendom; the place where the ideas are
+hammered out and tested which are to build or to destroy a world.
+Those who do not understand what is happening in Paris are
+dangerously ignorant of what will soon be happening everywhere;
+for all Frenchmen are Radicals in the sense of going to the roots
+of things, and none more Radical than the Royalist.  And it seems
+to me a very menacing and perilous thing that we have lost, so much
+as we have, that one flash of the ancient Western understanding
+which shone for an instant on the marching armies of the Marne.
 
-Suppose the Utopian has founded his Utopia, and another country
-makes war on Utopia.  What, when all is said and done, is he to do?
-Is he to allow his perfect state (or what he is so simple
-as to think his perfect state) to be destroyed and disappear?
-Or is he to defend it by the only weapons that will defend it?
-One would think this dilemma was so staringly obvious that anybody must
-have seen it from the very first.  That dilemma has nothing in the world
-to do with crowns or sceptres or capitalism or private property.
-Let anybody imagine any sort of simplified society, and I can imagine it
-being attacked.  That fact seems simple enough for an infant to see.
-Yet I have read scores of young pacifist poets and prophets
-who could not see it.  That is an example of what I mean by a
-sort of simplicity almost more exasperating than sophistry.
-That is a case of the same sort of simplicity as supposing that
-cocktails can be unlimited or gate-crashing continue when there
-are no gates.
+XXXV.  On the Bad Word for Guild
 
-XXXVII.  On Dress and Decorum
+IT is a very old controversial custom to give a dog a bad name,
+which is generally the more learned scientific name for a cat.
+It is then, of course, a comparatively easy and natural matter
+to nail him up as a bat or a barn-door owl.  Such fantasies
+of logic are the commonplaces of controversial history.
+The most usual form of the process, as we all know, is to fix
+some person with a definite label, and then proceed to deduce
+everything from the label and nothing from the person.
+I have experienced this, in my own small way often enough.
+Somebody will write:  `Mr. Chesterton is a medievalist; and he is
+therefore quite justified (from his own benighted standpoint)
+in indulging as he does, in the sport of tearing out the teeth of Jews,
+burning hundreds of human beings alive, and perpetually seeking
+for the Philosopher's Stone.'  But I never said I was a medievalist;
+and I have only the very vaguest idea of what it would mean.
+But I have a very vivid and definite idea of what I mean.
+And what I mean does not involve providing free dentistry for Jews;
+though indeed there is only one doubtful tale of [[King John]] doing to one
+Jew what it is now considered highly hygienic to do to everybody.
+Nor does it include seeking for the Philosopher's Stone; though it
+might involve seeking, somewhat wearily, for the Philosopher.
+The simple [[Truth|truth]], which some people, seem to find it so difficult
+to understand or to believe, is that what a reasonable man
+believes in is not this or that period, with all its ideas,
+good or bad, but in certain ideas that may happen to have been
+present in one period and relatively absent from another period.
+But nothing can convince his critics that he does not think in terms
+of hats and coats and caps and feathers and jerkins and hooded robes.
+Nothing will convince them that he thinks in terms of thought.
 
-T HE newspapers very frequently, perhaps too frequently, describe to us
-the Victorian Girl, who was always covered with blushes and confusion.
-On the other hand, the Modern Girl has more and more of the confusion,
-as she has less and less of the blushes.  Confusion of thought,
-confusion of phraseology, confusion of [[philosophy]], deepen and darken
-upon her as she advances into what she regards as the daylight,
-or the sunlight of the Sun Cure.  She and all her world seem to
-have got into a hopeless chaos about deciding the real principles
-of convention and civilization.  Whatever theory we may hold,
-we find that she holds all the theories and none of the theories;
-that her theories contradict each other and cancel out.  The ordinary
-argument in the newspapers, on the subject of Dress and Decorum,
-for instance, is a hash of half a hundred inconsistent philosophies.
-It may be worth while that some of them should be sorted out,
-before there are too many of them to be counted.
+A very good working example is in the word Guild.
+As a matter of fact, it is the moderns and not the medievals
+who use the word in a romantic and irrational way.
+Anything in the world may be called a Guild nowadays:  a society
+for picking up orange-peel may be the Guild of the Golden Gleaners;
+or a company of pierrots performing at Margate and Ramsgate may be
+the Guild of the Ghostly Guitars; or a movement for muzzling cats as
+[[Well|well]] as [[dogs]] may be a Guild for Equal Rights for Four-Footed Friends.
+But whenever we, who are accused of this mysterious medievalism,
+happen to say a word in favour of the Guild idea, nobody seems to imagine
+for a moment that it is really an idea.  Now, as a matter of fact,
+it is an idea, and in that sense nothing less or more than an idea.
+It is an economic and ethical theory for the construction of certain
+parts of society; and it has nothing in the world to do with the
+[[Romance|romance]] or ritual externals or picturesque costume of that society.
+To say that you believe in Guilds is like saying that you
+believe in Trusts, or in State Ownership, or in Syndicalism,
+or in any other definite way of managing certain matters of trade
+and employment and exchange.  In my opinion, the Middle Ages
+were fortunate in having begun to develop industry in this way.
+But the Middle Ages were extremely unfortunate in many other ways;
+and not least in being ultimately unable to develop it.
+But if anybody says that I merely behold, as in [[A Dream|a dream]],
+ideal craftsmen in coloured garments carving exquisite masterpieces,
+or happy apprentices dancing round the maypole or distributing
+the Christmas ale, then he is a hundred miles away from the point
+at issue.  The case for the Guild has nothing to do with the [[Romance|romance]]
+of medievalism; nothing whatever.
 
-To begin with, there is the great contradiction that the modern
-person pretends to be at once too [[Innocent|innocent]] and too sophisticated.
-First he says that certain sins are so remote and repulsive
-that only a low-minded spy would suspect their existence.
-Then he goes on to say that these sins are not so very bad,
-even if they exist.  He shouts at the top of his voice `To the pure
-in heart all things are pure'; and then goes on to explain that there
-is really no such thing as purity.  He calls the moralist a Puritan,
-as the most withering of all terms of abuse; which is very amusing
-to some of us, who remember how recently we were called upon
-to admire the [[Puritanism]] of the Mayflower and the execution
-of Charles the First, and to pardon the massacre of Wexford
-and the [[Witch|witch]]-smelling of Salem merely because they were Puritan.
-He describes any decent citizen as Nosey Parker or (with a touch
-of fierce anti-feminism) as Mrs. Grundy; all with the object of
-suggesting that nobody but a person with an impure [[Imagination|imagination]] could
-see anything but spotless purity in the pagan habits of our [[Time|time]].
-
-[[Well]], all that is applicable enough, when there is really anybody to
-apply it to.  I have myself protested against [[Puritanism]] and Parkerism
-and the sour vigilance that would arrest the amusements of the populace.
-I entirely agree that it is disgusting to be nosey about anything
-that is normal; such as dancing or swimming, considered in themselves.
-My position on that point is what it has always been, and my
-position is perfectly clear.  But the position of the New Pagan
-is not in the least clear.  For the New Pagan attempts to maintain,
-at the same [[Time|time]], that the real violation of Christian morals is
-unimportant to the Pagan moralist.  But in that case, how can it
-be wrong for the Christian moralist to accuse the Pagan moralist?
-The Christian cannot be merely morbid in saying that sin is involved,
-if the Pagan says that sin is irrelevant even if it is involved.
-I may be mad if I accuse my friend [[smith|Smith]] of stealing the spoons,
-when he is a respectable person with the ordinary respect
-for private property.  But I cannot be morbidly and insanely
-malicious when I say he might steal the spoons, if he says himself
-that he will steal the spoons.  I may call it being a thief,
-and he may call it being a Class-conscious Communist Expropriator.
-But it is absurd to pretend that property does not matter, and then
-to be indignant at the charge of thinking it does not matter.
-It is equally absurd to deny propriety as to deny property,
-and then to say that only a fiend would suspect you of disregarding
-the property or propriety that you deny.
+The theory of a Guild, as distinct from Socialism as generally defined,
+and Capitalism as at present practised, is simply this.
+The men working in a particular trade remain independent tradesmen;
+in the sense that they are independent and therefore up to a
+point competitive.  Each is working for himself, with his own capital
+or machinery, and in that sense each is working against the others.
+But each has entered into an agreement with the others, that he will
+not compete past a certain point or work against the others in certain
+unfair and forbidden ways.  In other words, there is a competition,
+but it is a deliberately limited competition; or, if you will,
+an artificially limited competition.  The object is perfectly simple:
+that it should remain a competition, and not merely turn into a combine.
+Capitalist competition, which started avowedly as unlimited competition,
+has only been running freely for about a hundred years,
+and everywhere it has turned into a combine.  I use the word combine
+as a polite convention; for, of course, we all know that it involves
+no equality of combination.  The true story of the thing is that
+when all the shops are let loose to compete anyhow and everywhere,
+by any method good or bad, one shop swallows all the rest.
+To speak more rightly and worthily, one man swallows all the rest.
+It is very often, by the [[Nature|nature]] of the competition, the worst shop
+and the worst man.

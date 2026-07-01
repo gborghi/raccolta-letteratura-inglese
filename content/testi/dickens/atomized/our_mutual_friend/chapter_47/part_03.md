@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 6 (part 3)"
+title: "Our Mutual Friend — Chapter 9 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,125 +14,146 @@ tags:
 </nav>
 
 
-‘Eh? What’s that?’ demanded Mr Boffin.
+‘No one is useless in this world,’ retorted the Secretary, ‘who lightens
+the burden of it for any one else.’
 
-‘“The Treasures,” sir,’ repeated Silas, reading very distinctly, ‘“of a
-Dunghill.” [[Mr Venus]], sir, would you obleege with the snuffers?’ This, to
-secure attention to his adding with his lips only, ‘Mounds!’
+‘But I assure you I DON’T, Mr Rokesmith,’ said Bella, half-crying.
 
-Mr Boffin drew an arm-chair into the space where he stood, and said,
-seating himself and slyly rubbing his hands:
+‘Not for your father?’
 
-‘Give us Dancer.’
+‘Dear, loving, [[Self|self]]-forgetting, easily-satisfied Pa! Oh, yes! He thinks
+so.’
 
-Mr Wegg pursued the [[Biography|biography]] of that eminent man through its various
-phases of avarice and dirt, through Miss Dancer’s [[Death|death]] on a sick
-regimen of cold dumpling, and through Mr Dancer’s keeping his rags
-together with a hayband, and warming his dinner by sitting upon it, down
-to the consolatory incident of his dying naked in a sack. After which he
-read on as follows:
+‘It is enough if he only thinks so,’ said the Secretary. ‘Excuse the
+interruption: I don’t like to hear you depreciate yourself.’
 
-‘“The [[house]], or rather the heap of ruins, in which Mr Dancer lived, and
-which at his [[Death|death]] devolved to the right of Captain Holmes, was a most
-miserable, decayed building, for it had not been repaired for more than
-half a century.”’
+‘But YOU once depreciated ME, sir,’ thought Bella, pouting, ‘and I [[Hope|hope]]
+you may be satisfied with the consequences you brought upon your head!’
+However, she said nothing to that purpose; she even said something to a
+different purpose.
 
-(Here Mr Wegg eyes his comrade and the room in which they sat: which had
-not been repaired for a long [[Time|time]].)
+‘Mr Rokesmith, it seems so long since we spoke together naturally, that
+I am embarrassed in approaching another subject. Mr Boffin. You know I
+am very grateful to him; don’t you? You know I feel a true respect for
+him, and am bound to him by the strong ties of his own generosity; now
+don’t you?’
 
-‘“But though poor in external structure, the ruinous fabric was very
-rich in the interior. It took many weeks to explore its whole contents;
-and Captain Holmes found it a very agreeable task to dive into the
-miser’s secret hoards.”’
+‘Unquestionably. And also that you are his favourite companion.’
 
-(Here Mr Wegg repeated ‘secret hoards’, and pegged his comrade again.)
+‘That makes it,’ said Bella, ‘so very difficult to speak of him. But—.
+Does he treat you [[Well|well]]?’
 
-‘“One of Mr Dancer’s richest escretoires was found to be a dungheap in
-the cowhouse; a sum but little short of two thousand five hundred
-pounds was contained in this rich piece of manure; and in an old jacket,
-carefully tied, and strongly nailed down to the manger, in bank notes
-and gold were found five hundred pounds more.”’
+‘You see how he treats me,’ the Secretary answered, with a patient and
+yet proud air.
 
-(Here Mr Wegg’s wooden leg started forward under the table, and slowly
-elevated itself as he read on.)
+‘Yes, and I see it with [[Pain|pain]],’ said Bella, very energetically.
 
-‘“Several bowls were discovered filled with guineas and half-guineas;
-and at different times on searching the corners of the [[house]] they found
-various parcels of bank notes. Some were crammed into the crevices of
-the wall”’;
+The Secretary gave her such a radiant look, that if he had thanked her a
+hundred times, he could not have said as much as the look said.
 
-(Here [[Mr Venus]] looked at the wall.)
+‘I see it with [[Pain|pain]],’ repeated Bella, ‘and it often makes me miserable.
+Miserable, because I cannot bear to be supposed to approve of it, or
+have any indirect share in it. Miserable, because I cannot bear to be
+forced to admit to myself that Fortune is spoiling Mr Boffin.’
 
-‘“Bundles were hid under the cushions and covers of the chairs”’;
+‘Miss Wilfer,’ said the Secretary, with a beaming face, ‘if you could
+know with what delight I make the discovery that Fortune isn’t spoiling
+YOU, you would know that it more than compensates me for any slight at
+any other hands.’
 
-(Here [[Mr Venus]] looked under himself on the settle.)
+‘Oh, don’t speak of ME,’ said Bella, giving herself an impatient little
+slap with her glove. ‘You don’t know me as [[Well|well]] as—’
 
-‘“Some were reposing snugly at the back of the drawers; and notes
-amounting to six hundred pounds were found neatly doubled up in the
-inside of an old teapot. In the stable the Captain found jugs full of
-old dollars and shillings. The chimney was not left unsearched, and paid
-very [[Well|well]] for the trouble; for in nineteen different holes, all filled
-with soot, were found various sums of money, amounting together to more
-than two hundred pounds.”’
+‘As you know yourself?’ suggested the Secretary, finding that she
+stopped. ‘DO you know yourself?’
 
-On the way to this crisis Mr Wegg’s wooden leg had gradually elevated
-itself more and more, and he had nudged [[Mr Venus]] with his opposite
-elbow deeper and deeper, until at length the preservation of his balance
-became incompatible with the two actions, and he now dropped over
-sideways upon that gentleman, squeezing him against the settle’s edge.
-Nor did either of the two, for some few seconds, make any effort to
-recover himself; both remaining in a kind of pecuniary swoon.
+‘I know quite enough of myself,’ said Bella, with a charming air of
+being inclined to give herself up as a bad job, ‘and I don’t improve
+upon acquaintance. But Mr Boffin.’
 
-But the sight of Mr Boffin sitting in the arm-chair hugging himself,
-with his eyes upon the [[Fire|fire]], acted as a restorative. Counterfeiting a
-sneeze to cover their movements, Mr Wegg, with a spasmodic ‘Tish-ho!’
-pulled himself and [[Mr Venus]] up in a masterly manner.
+‘That Mr Boffin’s manner to me, or consideration for me, is not what it
+used to be,’ observed the Secretary, ‘must be admitted. It is too plain
+to be denied.’
 
-‘Let’s have some more,’ said Mr Boffin, hungrily.
+‘Are you disposed to deny it, Mr Rokesmith?’ asked Bella, with a look of
+[[Wonder|wonder]].
 
-‘John Elwes is the next, sir. Is it your pleasure to take John Elwes?’
+‘Ought I not to be glad to do so, if I could: though it were only for my
+own sake?’
 
-‘Ah!’ said Mr Boffin. ‘Let’s hear what John did.’
+‘Truly,’ returned Bella, ‘it must try you very much, and—you must
+please promise me that you won’t take ill what I am going to add, Mr
+Rokesmith?’
 
-He did not appear to have hidden anything, so went off rather flatly.
-But an exemplary lady named Wilcocks, who had stowed away gold and
-silver in a pickle-pot in a [[Clock|clock]]-case, a canister-full of treasure in
-a hole under her stairs, and a quantity of money in an old rat-trap,
-revived the interest. To her succeeded another lady, claiming to be a
-pauper, whose wealth was found wrapped up in little scraps of paper and
-old rag. To her, another lady, apple-woman by trade, who had saved a
-fortune of ten thousand pounds and hidden it ‘here and there, in cracks
-and corners, behind bricks and under the flooring.’ To her, a French
-gentleman, who had crammed up his chimney, rather to the detriment
-of its drawing powers, ‘a leather valise, containing twenty thousand
-francs, gold coins, and a large quantity of precious stones,’ as
-discovered by a chimneysweep after his [[Death|death]]. By these steps Mr Wegg
-arrived at a concluding instance of the human Magpie:
+‘I promise it with all my heart.’
 
-‘Many years ago, there lived at Cambridge a miserly old couple of the
-name of Jardine: they had two sons: the father was a perfect miser, and
-at his [[Death|death]] one thousand guineas were discovered secreted in his bed.
-The two sons grew up as parsimonious as their sire. When about twenty
-years of age, they commenced business at Cambridge as drapers, and
-they continued there until their [[Death|death]]. The establishment of the Messrs
-Jardine was the most dirty of all the shops in Cambridge. Customers
-seldom went in to purchase, except perhaps out of curiosity. The
-brothers were most disreputable-looking beings; for, although surrounded
-with gay apparel as their staple in trade, they wore the most filthy
-rags themselves. It is said that they had no bed, and, to save the
-expense of one, always slept on a bundle of packing-cloths under the
-counter. In their housekeeping they were penurious in the extreme. A
-joint of meat did not grace their board for twenty years. Yet when the
-first of the brothers died, the other, much to his surprise, found large
-sums of money which had been secreted even from him.’
+‘—And it must sometimes, I should think,’ said Bella, hesitating, ‘a
+little lower you in your own estimation?’
 
-‘There!’ cried Mr Boffin. ‘Even from him, you see! There was only two of
-’em, and yet one of ’em hid from the other.’
+Assenting with a movement of his head, though not at all looking as if
+it did, the Secretary replied:
 
-[[Mr Venus]], who since his introduction to the French gentleman, had been
-stooping to peer up the chimney, had his attention recalled by the last
-sentence, and took the liberty of repeating it.
+‘I have very strong reasons, Miss Wilfer, for bearing with the drawbacks
+of my position in the [[house]] we both inhabit. Believe that they are not
+all mercenary, although I have, through a series of strange fatalities,
+faded out of my place in life. If what you see with such a gracious
+and good sympathy is calculated to rouse my [[Pride|pride]], there are other
+considerations (and those you do not see) urging me to quiet [[Endurance|endurance]].
+The latter are by far the stronger.’
 
-‘Do you like it?’ asked Mr Boffin, turning suddenly.
+‘I think I have noticed, Mr Rokesmith,’ said Bella, looking at him with
+curiosity, as not quite making him out, ‘that you repress yourself, and
+force yourself, to act a passive part.’
 
-‘I beg your pardon, sir?’
+‘You are right. I repress myself and force myself to act a part. It is
+not in tameness of spirit that I submit. I have a settled purpose.’
+
+‘And a good one, I [[Hope|hope]],’ said Bella.
+
+‘And a good one, I [[Hope|hope]],’ he answered, looking steadily at her.
+
+‘Sometimes I have fancied, sir,’ said Bella, turning away her eyes,
+‘that your great regard for Mrs Boffin is a very powerful motive with
+you.’
+
+‘You are right again; it is. I would do anything for her, bear anything
+for her. There are no words to express how I esteem that good, good
+woman.’
+
+‘As I do too! May I ask you one thing more, Mr Rokesmith?’
+
+‘Anything more.’
+
+‘Of course you see that she really suffers, when Mr Boffin shows how he
+is changing?’
+
+‘I see it, every day, as you see it, and am grieved to give her [[Pain|pain]].’
+
+‘To give her [[Pain|pain]]?’ said Bella, repeating the phrase quickly, with her
+eyebrows raised.
+
+‘I am generally the unfortunate cause of it.’
+
+‘Perhaps she says to you, as she often says to me, that he is the best
+of men, in spite of all.’
+
+‘I often overhear her, in her honest and beautiful devotion to him,
+saying so to you,’ returned the Secretary, with the same steady look,
+‘but I cannot assert that she ever says so to me.’
+
+Bella met the steady look for a moment with a wistful, musing little
+look of her own, and then, nodding her pretty head several times, like
+a dimpled philosopher (of the very best school) who was moralizing on
+Life, heaved a little sigh, and gave up things in general for a bad job,
+as she had previously been inclined to give up herself.
+
+But, for all that, they had a very pleasant walk. The trees were bare of
+[[Leaves|leaves]], and the [[River|river]] was bare of [[Water|water]]-lilies; but the sky was not bare
+of its beautiful blue, and the [[Water|water]] reflected it, and a delicious
+[[Wind|wind]] ran with the stream, touching the surface crisply. Perhaps the old
+[[Mirror|mirror]] was never yet made by human hands, which, if all the images it
+has in its [[Time|time]] reflected could pass across its surface again, would
+fail to reveal some scene of horror or distress. But the great serene
+[[Mirror|mirror]] of the [[River|river]] seemed as if it might have reproduced all it had
+ever reflected between those placid banks, and brought nothing to the
+light save what was peaceful, [[Pastoral|pastoral]], and blooming.

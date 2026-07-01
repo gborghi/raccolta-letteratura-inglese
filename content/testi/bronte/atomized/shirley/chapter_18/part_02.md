@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 18 (part 2)"
+title: "Shirley — Chapter 18 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_18/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_18/part_03">part 03 ›</a></div>
 </nav>
 
+
+she fixed her eyes on the deep-burning west, and sank into a pleasurable
+
+trance. Caroline, going a little apart, paced to and fro beneath the
+
+rectory [[Garden|garden]] wall, dreaming too in her way. [[Shirley]] had mentioned the
+
+word "mother." That word suggested to Caroline's [[Imagination|imagination]] not the
 
 mighty and mystical parent of [[Shirley]]'s visions, but a gentle human
 
@@ -146,7 +154,7 @@ had known from her [[Childhood|childhood]]; unconsciously she was his ideal of a
 
 Her gentle mien, step, gestures, her grace of person and attire, moved
 
-some [[Artist|artist]]-fibres about his peasant heart. He had a pleasure in looking
+some [[artist]]-fibres about his peasant heart. He had a pleasure in looking
 
 at her, as he had in examining rare [[Flowers|flowers]] or in seeing pleasant
 
@@ -213,19 +221,3 @@ give you something, what a difficulty I had in making you take it!"
 
 
 "It is partly true, Miss Caroline. Ony day I'd rather give than take,
-
-especially from sich as ye. Look at t' difference between us. Ye're a
-
-little, young, slender lass, and I'm a great strong man; I'm rather more
-
-nor twice your age. It is not _my_ part, then, I think, to tak fro'
-
-_ye_--to be under obligations (as they say) to _ye_. And that day ye
-
-came to our [[house]], and called me to t' door, and offered me five
-
-shillings, which I [[Doubt|doubt]] ye could ill spare--for ye've no fortin', I
-
-know--that day I war fair a [[Rebel|rebel]], a radical, an insurrectionist; and
-
-_ye_ made me so. I thought it shameful that, willing and able as I was

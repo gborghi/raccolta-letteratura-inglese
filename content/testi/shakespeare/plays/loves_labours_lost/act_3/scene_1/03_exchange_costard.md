@@ -1,5 +1,5 @@
 ---
-title: "Loves Labours Lost — Act III, Scene 1 — exchange ([[Costard|COSTARD]]) [3]"
+title: "Loves Labours Lost — Act III, Scene 1 — exchange (COSTARD) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/love’s-labour’s-lost-(shakespeare)"

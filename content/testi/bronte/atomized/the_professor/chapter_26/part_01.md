@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 25 (part 1)"
+title: "The Professor — Chapter 25 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -15,8 +15,6 @@ tags:
 
 
 CHAPTER XXV.
-
-
 
 IN two months more Frances had fulfilled the [[Time|time]] of mourning for her
 
@@ -68,11 +66,9 @@ Vandenhuten received her, and seated her beside himself; we drove all
 
 together to the Protestant chapel, went through a certain service in the
 
-Common [[Prayer]] Book, and she and I came out married. M. Vandenhuten had
+Common [[prayer|Prayer]] Book, and she and I came out married. M. Vandenhuten had
 
 given the bride away.
-
-
 
 We took no bridal trip; our modesty, screened by the peaceful obscurity
 
@@ -83,8 +79,6 @@ exact that additional precaution. We repaired at once to a small [[house]]
 I had taken in the faubourg nearest to that part of the [[City|city]] where the
 
 scene of our avocations lay.
-
-
 
 Three or four hours after the wedding ceremony, Frances, divested of her
 
@@ -120,8 +114,6 @@ into the pot, she administered to me a proper British repast, at which
 
 there wanted neither candles nor urn, firelight nor comfort.
 
-
-
 Our week’s holiday glided by, and we readdressed ourselves to labour.
 
 Both my wife and I began in good earnest with the notion that we were
@@ -142,8 +134,6 @@ Unvaried were they as each cut gem, and like each gem brilliant and
 
 burning.
 
-
-
 A year and a half passed. One morning (it was a FETE, and we had the day
 
 to ourselves) Frances said to me, with a suddenness peculiar to her when
@@ -154,11 +144,7 @@ a conclusion, wished to test its soundness by the [[Touchstone|touchstone]] of m
 
 judgment:--
 
-
-
 “I don’t work enough.”
-
-
 
 “What now?” demanded I, looking up from my coffee, which I had been
 
@@ -172,8 +158,6 @@ saw at once, in the serious ardour of her face, a project of vital
 
 importance.
 
-
-
 “I am not satisfied,” returned she: “you are now earning eight thousand
 
 francs a year” (it was true; my efforts, punctuality, the fame of my
@@ -184,17 +168,11 @@ on), “while I am still at my miserable twelve hundred francs. I CAN do
 
 better, and I WILL.”
 
-
-
 “You work as long and as diligently as I do, Frances.”
-
-
 
 “Yes, monsieur, but I am not working in the right way, and I am
 
 convinced of it.”
-
-
 
 “You wish to change--you have a plan for progress in your mind; go and
 
@@ -202,11 +180,7 @@ put on your bonnet; and, while we take our walk, you shall tell me of
 
 it.”
 
-
-
 “Yes, monsieur.”
-
-
 
 She went--as docile as a [[Well|well]]-trained [[Child|child]]; she was a curious mixture
 
@@ -214,20 +188,12 @@ of tractability and firmness: I sat thinking about her, and wondering
 
 what her plan could be, when she re-entered.
 
-
-
 “Monsieur, I have given Minnie” (our bonne) “leave to go out too, as it
 
 is so very fine; so will you be kind enough to lock the door, and take
 
 the key with you?”
 
-
-
 “Kiss me, Mrs. Crimsworth,” was my not very apposite reply; but she
 
 looked so engaging in her light [[Summer|summer]] dress and little cottage bonnet,
-
-and her manner in speaking to me was then, as always, so unaffectedly
-
-and suavely respectful, that my heart expanded at the sight of her, and

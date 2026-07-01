@@ -240,7 +240,7 @@ through the same vague nomadic need as the Christian Army in Palestine.
 Surely Pershing as [[Well|well]] as Peter the Hermit was merely a rather restless
 gentleman who found his health improved by frequent change of scene.
 The Americans said, and perhaps thought, that they were fighting
-for [[Democracy|democracy]]; and the Crusaders said, and perhaps thought,
+for [[democracy]]; and the Crusaders said, and perhaps thought,
 that they were fighting for [[Christianity]].  But as we know what
 the Crusaders meant better than they did themselves, I cannot
 quite understand why we do not enjoy the same valuable omniscience
@@ -297,7 +297,7 @@ in fighting another nation than in fighting another [[Faith|faith]].
 The Crusader is in every sense more rational than the modern
 conscript or professional soldier.  He is more rational in
 his object, which is the intelligent and intelligible object
-of [[Conversion|conversion]]; where the modern militarist has an object much
+of [[conversion]]; where the modern militarist has an object much
 more confused by momentary [[Vanity|vanity]] and one-sided satisfaction.
 The Crusader wished to make Jerusalem a Christian town;
 but the Englishman does not wish to make Berlin an English town.
@@ -310,7 +310,7 @@ this purpose, but the purpose itself is looser and more irrational.
 The object of all war is peace; but the object of religious
 war is mental as [[Well|well]] as material peace; it is agreement.
 In short religious war aims ultimately at equality, where national
-war aims relatively at superiority.  [[Conversion]] is the one sort
+war aims relatively at superiority.  [[conversion|Conversion]] is the one sort
 of conquest in which the conquered must rejoice.
 
 In that sense [[Alone|alone]] it is foolish for us in the West to sneer
@@ -426,7 +426,7 @@ but it was a more purely popular revolution than either of them.
 The truly modern mind will of course regard the contention that it
 was popular as tantamount to a confession that it was animal.
 In these days when papers and speeches are full of words like
-[[Democracy|democracy]] and [[Self|self]]-determination, anything really resembling
+[[democracy]] and [[Self|self]]-determination, anything really resembling
 the movement of a mass of angry men is regarded as no better than
 a stampede of bulls or a scurry of rats.  The new sociologists
 call it the herd instinct, just as the old reactionaries called it
@@ -469,7 +469,7 @@ that the masses [[Alone|alone]] failed where the two together succeeded.
 But it was the uneducated who educated the educated.
 The case of the Crusade is emphatically not a case in which certain
 ideas were first suggested by a few philosophers, and then preached
-by demagogues to the [[Democracy|democracy]].  This was to a great extent true
+by demagogues to the [[democracy]].  This was to a great extent true
 of the [[French Revolution]]; it was probably yet more true of the
 Russian Revolution; and we need not here pause upon the fine shade
 of difference that Rousseau was right and Karl Marx was wrong.
@@ -543,7 +543,7 @@ like any boy [[Hero|hero]] in a boy's adventure story.  But he was also,
 the realist will be surprised to hear, a perfectly honest man,
 and a perfectly genuine practiser of the theoretical magnanimity
 of knighthood.  Everything about him suggests it; from his first
-[[Conversion|conversion]] from the imperial to the papal (and popular) cause, to his
+[[conversion]] from the imperial to the papal (and popular) cause, to his
 great refusal of the kinghood of the [[City|city]] he had taken; "I will
 not wear a [[Crown|crown]] of gold where my Master wore a [[Crown|crown]] of thorns."
 He was a just ruler, and the laws he made were full of the plainest

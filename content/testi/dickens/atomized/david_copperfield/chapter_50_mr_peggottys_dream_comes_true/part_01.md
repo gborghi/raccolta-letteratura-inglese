@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 50: Mr. PEGGOTTY’S DREAM COMES TRUE (part 1)"
+title: "David Copperfield — Chapter 50: Mr. PEGGOTTY’S DREAM COMES TRUE (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_49_i_am_involved_in_mystery/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_50_mr_peggottys_dream_comes_true/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_49_i_am_involved_in_mystery/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_50_mr_peggottys_dream_comes_true/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -123,13 +123,3 @@ inclination too, at such a [[Time|time]], I did not attempt to break the [[Silen
 We proceeded without a word being spoken. Sometimes she glanced out of
 the [[Window|window]], as though she thought we were going slowly, though indeed we
 were going fast; but otherwise remained exactly as at first.
-
-We alighted at one of the entrances to the Square she had mentioned,
-where I directed the coach to wait, not knowing but that we might have
-some occasion for it. She laid her hand on my arm, and hurried me on
-to one of the sombre streets, of which there are several in that part,
-where the houses were once fair dwellings in the occupation of single
-families, but have, and had, long degenerated into poor lodgings let off
-in rooms. Entering at the open door of one of these, and releasing my
-arm, she beckoned me to follow her up the common staircase, which was
-like a tributary channel to the street.

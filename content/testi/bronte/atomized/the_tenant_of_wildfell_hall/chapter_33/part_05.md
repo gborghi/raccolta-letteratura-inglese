@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 33 (part 5)"
+title: "The Tenant of Wildfell Hall — Chapter 33 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -12,6 +12,48 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/the-tenant-of-wildfell-hall-(bronte)">The Tenant of Wildfell Hall</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_33/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_35/part_01">part 01 ›</a></div>
 </nav>
+
+
+the talk of the country for your fastidious caprices?”
+
+
+
+“Then I must stay here, to be hated and despised. But henceforth we are
+
+husband and wife only in the name.”
+
+
+
+“Very good.”
+
+
+
+“I am your [[Child|child]]’s mother, and _your_ housekeeper, nothing more. So you
+
+need not trouble yourself any longer to feign the [[Love|love]] you cannot feel:
+
+I will exact no more heartless caresses from you, nor offer nor endure
+
+them either. I will not be mocked with the empty husk of conjugal
+
+endearments, when you have given the substance to another!”
+
+
+
+“Very good, if _you_ please. We shall see who will tire first, my
+
+lady.”
+
+
+
+“If I tire, it will be of living in the world with you: not of living
+
+without your mockery of [[Love|love]]. When _you_ tire of your sinful ways, and
+
+show yourself truly repentant, I will forgive you, and, perhaps, try to
+
+[[Love|love]] you again, though that will be hard indeed.”
+
 
 
 “Humph! and meantime you will go and talk me over to Mrs. Hargrave, and

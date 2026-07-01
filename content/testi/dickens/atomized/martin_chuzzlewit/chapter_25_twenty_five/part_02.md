@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 25: TWENTY FIVE (part 2)"
+title: "Martin Chuzzlewit — Chapter 25: TWENTY FIVE (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_25_twenty_five/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_25_twenty_five/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘Why,’ returned Tacker, pausing, ‘that’s where it is, you see. It’s the
+beadle’s son-in-law.’
+
+‘The beadle’s son-in-law, eh?’ said Mould. ‘[[Well]]! I’ll do it if the
+beadle follows in his cocked hat; not else. We carry it off that way, by
+looking official, but it’ll be low enough, then. His cocked hat, mind!’
 
 ‘I’ll take care, sir,’ rejoined Tacker. ‘Oh! Mrs Gamp’s below, and wants
 to speak to you.’

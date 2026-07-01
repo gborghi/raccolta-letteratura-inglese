@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 13"
+title: "The Professor — Chapter 13"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-professor-(bronte)"
@@ -15,8 +15,6 @@ tags:
 
 
 CHAPTER XIII.
-
-
 
 NEXT morning I [[Rose|rose]] with the [[Dawn|dawn]], and having dressed myself and stood
 
@@ -76,8 +74,6 @@ face looking as knowing and more haggard than usual, his blue eye
 
 turned, now sternly on his boys and ushers, and now graciously on me.
 
-
-
 “Circumstances must guide me,” said I; and meeting Pelet’s false glance
 
 and insinuating smile, I thanked heaven that I had last [[Night|night]] opened
@@ -91,8 +87,6 @@ his [[Nature|nature]] was now known to me; smile and flatter as he would, I saw 
 [[Soul|soul]] lurk behind his smile, and heard in every one of his smooth phrases
 
 a voice interpreting their treacherous import.
-
-
 
 But [[Zoraide Reuter]]? Of course her defection had cut me to the quick?
 
@@ -146,19 +140,13 @@ stood close by my side; she had nothing to say. I would not relieve her
 
 embarrassment, and negligently turned over the [[Leaves|leaves]] of a book.
 
-
-
 “I [[Hope|hope]] you feel quite recovered to-day,” at last she said, in a low
 
 tone.
 
-
-
 “And I, mademoiselle, [[Hope|hope]] that you took no cold last [[Night|night]] in
 
 consequence of your late walk in the [[Garden|garden]].”
-
-
 
 Quick enough of comprehension, she understood me directly; her face
 
@@ -212,13 +200,9 @@ lengthened, though shrewd upper lip, no coward shame on her austere
 
 forehead!
 
-
-
 “There is metal there,” I said, as I gazed. “Would that there were [[Fire|fire]]
 
 also, living ardour to make the steel glow--then I could [[Love|love]] her.”
-
-
 
 Presently I discovered that she knew I was watching her, for she stirred
 
@@ -239,8 +223,6 @@ I read that the wish of her heart, the design of her brain, was to lure
 back the game she had scared. A little incident gave her the opportunity
 
 of addressing me again.
-
-
 
 While all was [[Silence|silence]] in the class--[[Silence|silence]], but for the rustling of
 
@@ -263,8 +245,6 @@ up, in order to make out her [[Identity|identity]]--for, shortsighted as I was, 
 not recognized her at her entrance--Mdlle. Reuter, leaving her chair,
 
 approached the estrade.
-
-
 
 “Monsieur Creemsvort,” said she, in a whisper: for when the schoolrooms
 
@@ -296,11 +276,7 @@ instruction--n’est ce pas, monsieur?” And Mdlle. Reuter’s eyes were
 
 raised to mine with a look at once naive, benign, and beseeching.
 
-
-
 I replied, “Of course,” very laconically, almost abruptly.
-
-
 
 “Another word,” she said, with softness: “Mdlle. Henri has not received
 
@@ -320,8 +296,6 @@ me by attending to this hint?” I nodded. She continued with subdued
 
 earnestness--
 
-
-
 “Pardon me, monsieur, if I venture to add that what I have just said is
 
 of importance to the poor girl; she already experiences great difficulty
@@ -337,8 +311,6 @@ establishment too painful to be retained; a circumstance I should much
 regret for her sake, as she can ill afford to lose the profits of her
 
 occupation here.”
-
-
 
 Mdlle. Reuter possessed marvellous tact; but tact the most exclusive,
 
@@ -364,13 +336,9 @@ proceeded to collect them. As I passed the governess-pupil, I said to
 
 her--
 
-
-
 “You have come in too late to receive a lesson to-day; try to be more
 
 punctual next [[Time|time]].”
-
-
 
 I was behind her, and could not read in her face the effect of my not
 

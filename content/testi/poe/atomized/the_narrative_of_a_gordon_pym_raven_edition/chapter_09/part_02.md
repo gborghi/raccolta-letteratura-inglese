@@ -14,6 +14,12 @@ tags:
 </nav>
 
 
+      should offer itself to relieve him. He replied that it would soon
+
+      be too late; that it would be all over with him before we could
+
+      help him; and then, after moaning for some minutes, lay silent,
+
       when we concluded that he had perished.
 
 
@@ -183,15 +189,3 @@ tags:
       signs of recognizing any of us, or had sufficient strength to
 
       speak. By the [[Time|time]] we had thus got clear of our lashings it was
-
-      quite dark, and it began to cloud up, so that we were again in
-
-      the greatest agony lest it should come on to blow hard, in which
-
-      event nothing could have saved us from perishing, exhausted as we
-
-      were. By good fortune it continued very moderate during the
-
-      [[Night|night]], the sea subsiding every minute, which gave us great hopes
-
-      of ultimate preservation. A gentle breeze still blew from the N.

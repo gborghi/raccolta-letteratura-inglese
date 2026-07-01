@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 6 (part 4)"
+title: "Martin Chuzzlewit — Chapter 6 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_06/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_06/part_05">part 05 ›</a></div>
 </nav>
 
+
+Some men would have slapped him on the back, and pledged him in a bumper
+of the currant wine, though it had been the sharpest vinegar--aye, and
+liked its flavour too; some would have seized him by his honest hand,
+and thanked him for the lesson that his simple [[Nature|nature]] taught them. Some
+would have laughed with, and others would have laughed at him; of which
+last class was [[Martin Chuzzlewit]], who, unable to restrain himself, at
+last laughed loud and long.
 
 ‘That’s right,’ said Tom, nodding approvingly. ‘Cheer up! That’s
 capital!’
@@ -135,19 +143,3 @@ told her,’ he added, glancing at Martin’s handsome face.
 she has some girlish notions about duty and gratitude, and all the rest
 of it, which are rather hard to fathom; but in the main you are right.
 Her heart was mine, I found.’
-
-‘Just what I supposed,’ said Tom. ‘Quite natural!’ and, in his great
-satisfaction, he took a long sip out of his wine-glass.
-
-‘Although I had conducted myself from the first with the utmost
-circumspection,’ pursued Martin, ‘I had not managed matters so [[Well|well]] but
-that my grandfather, who is full of [[Jealousy|jealousy]] and distrust, suspected me
-of loving her. He said nothing to her, but straightway attacked me
-in private, and charged me with designing to corrupt the fidelity to
-himself (there you observe his selfishness), of a young creature whom
-he had trained and educated to be his only disinterested and faithful
-companion, when he should have disposed of me in [[Marriage|marriage]] to his heart’s
-content. Upon that, I took [[Fire|fire]] immediately, and told him that with his
-good leave I would dispose of myself in [[Marriage|marriage]], and would rather
-not be knocked down by him or any other auctioneer to any bidder
-whomsoever.’

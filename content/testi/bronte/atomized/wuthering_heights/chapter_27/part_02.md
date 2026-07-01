@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 27 (part 2)"
+title: "Wuthering Heights — Chapter 27 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -133,12 +133,3 @@ them suddenly, and resigned the object of dispute; but, ere she had
 her on his knee, administered with the other a shower of terrific slaps
 on both sides of the head, each sufficient to have fulfilled his
 threat, had she been able to fall.
-
-At this diabolical violence I rushed on him furiously. “You [[Villain|villain]]!” I
-began to cry, “you [[Villain|villain]]!” A touch on the chest silenced me: I am
-stout, and soon put out of breath; and, what with that and the rage, I
-staggered dizzily back, and felt ready to suffocate, or to burst a
-[[Blood|blood]]-vessel. The scene was over in two minutes; Catherine, released,
-put her two hands to her temples, and looked just as if she were not
-sure whether her ears were off or on. She trembled like a reed, poor
-thing, and leant against the table perfectly bewildered.

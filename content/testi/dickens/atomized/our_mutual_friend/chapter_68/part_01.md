@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 9 (part 1)"
+title: "Our Mutual Friend — Chapter 13 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,134 +10,132 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_67/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_68/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_67/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_68/part_02">part 02 ›</a></div>
 </nav>
 
 
-Chapter 9
+Chapter 13
 
-TWO PLACES VACATED
+SHOWING HOW THE GOLDEN DUSTMAN HELPED TO SCATTER [[Dust|DUST]]
 
 
-Set down by the omnibus at the corner of Saint Mary Axe, and trusting
-to her feet and her crutch-stick within its precincts, the dolls’
-dressmaker proceeded to the place of business of Pubsey and Co. All
-there was sunny and quiet externally, and shady and quiet internally.
-Hiding herself in the entry outside the glass door, she could see from
-that post of observation the old man in his spectacles sitting writing
-at his desk.
+In all the first bewilderment of her [[Wonder|wonder]], the most bewilderingly
+wonderful thing to Bella was the shining countenance of Mr Boffin. That
+his wife should be joyous, open-hearted, and genial, or that her face
+should express every quality that was large and trusting, and no quality
+that was little or mean, was accordant with Bella’s experience. But,
+that he, with a perfectly beneficent air and a plump rosy face, should
+be standing there, looking at her and John, like some jovial good
+spirit, was marvellous. For, how had he looked when she last saw him in
+that very room (it was the room in which she had given him that piece of
+her mind at parting), and what had become of all those crooked lines of
+suspicion, avarice, and distrust, that twisted his visage then?
 
-‘Boh!’ cried the dressmaker, popping in her head at the glass-door. ‘Mr
-Wolf at [[Home|home]]?’
+Mrs Boffin seated Bella on the large ottoman, and seated herself beside
+her, and John her husband seated himself on the other side of her, and
+Mr Boffin stood beaming at every one and everything he could see, with
+surpassing jollity and enjoyment. Mrs Boffin was then taken with a
+laughing fit of clapping her hands, and clapping her knees, and rocking
+herself to and fro, and then with another laughing fit of embracing
+Bella, and rocking her to and fro—both fits, of considerable duration.
 
-The old man took his glasses off, and mildly laid them down beside him.
-‘Ah Jenny, is it you? I thought you had given me up.’
+‘Old lady, old lady,’ said Mr Boffin, at length; ‘if you don’t begin
+somebody else must.’
 
-‘And so I had given up the treacherous wolf of the forest,’ she replied;
-‘but, godmother, it strikes me you have come back. I am not quite sure,
-because the wolf and you change forms. I want to ask you a question or
-two, to find out whether you are really godmother or really wolf. May
-I?’
+‘I’m a going to begin, Noddy, my dear,’ returned Mrs Boffin. ‘Only it
+isn’t easy for a person to know where to begin, when a person is in this
+state of delight and happiness. Bella, my dear. Tell me, who’s this?’
 
-‘Yes, Jenny, yes.’ But Riah glanced towards the door, as if he thought
-his principal might appear there, unseasonably.
+‘Who is this?’ repeated Bella. ‘My husband.’
 
-‘If you’re afraid of the fox,’ said Miss Jenny, ‘you may dismiss all
-present expectations of seeing that animal. HE won’t show himself
-abroad, for many a day.’
+‘Ah! But tell me his name, deary!’ cried Mrs Boffin.
 
-‘What do you mean, my [[Child|child]]?’
+‘Rokesmith.’
 
-‘I mean, godmother,’ replied Miss Wren, sitting down beside the Jew,
-‘that the fox has caught a famous flogging, and that if his skin and
-bones are not tingling, aching, and smarting at this present instant, no
-fox did ever tingle, ache, and smart.’ Therewith Miss Jenny related what
-had come to pass in the Albany, omitting the few grains of pepper.
+‘No, it ain’t!’ cried Mrs Boffin, clapping her hands, and shaking her
+head. ‘Not a bit of it.’
 
-‘Now, godmother,’ she went on, ‘I particularly wish to ask you what has
-taken place here, since I left the wolf here? Because I have an idea
-about the size of a marble, [[rolling]] about in my little noddle. First and
-foremost, are you Pubsey and Co., or are you either? Upon your solemn
-word and [[Honour|honour]].’
+‘Handford then,’ suggested Bella.
 
-The old man shook his head.
+‘No, it ain’t!’ cried Mrs Boffin, again clapping her hands and shaking
+her head. ‘Not a bit of it.’
 
-‘Secondly, isn’t Fledgeby both Pubsey and Co.?’
+‘At least, his name is John, I suppose?’ said Bella.
 
-The old man answered with a reluctant nod.
+‘Ah! I should think so, deary!’ cried Mrs Boffin. ‘I should [[Hope|hope]] so!
+Many and many is the [[Time|time]] I have called him by his name of John. But
+what’s his other name, his true other name? Give a guess, my pretty!’
 
-‘My idea,’ exclaimed Miss Wren, ‘is now about the size of an orange. But
-before it gets any bigger, welcome back, dear godmother!’
+‘I can’t guess,’ said Bella, turning her pale face from one to another.
 
-The little creature folded her arms about the old man’s neck with great
-earnestness, and kissed him. ‘I humbly beg your [[Forgiveness|forgiveness]], godmother.
-I am truly sorry. I ought to have had more [[Faith|faith]] in you. But what could
-I suppose when you said nothing for yourself, you know? I don’t mean to
-offer that as a justification, but what could I suppose, when you were a
-silent party to all he said? It did look bad; now didn’t it?’
+‘I could,’ cried Mrs Boffin, ‘and what’s more, I did! I found him out,
+all in a flash as I may say, one [[Night|night]]. Didn’t I, Noddy?’
 
-‘It looked so bad, Jenny,’ responded the old man, with gravity, ‘that I
-will straightway tell you what an impression it wrought upon me. I was
-hateful in mine own eyes. I was hateful to myself, in being so hateful
-to the debtor and to you. But more than that, and worse than that,
-and to pass out far and broad beyond myself—I reflected that evening,
-sitting [[Alone|alone]] in my [[Garden|garden]] on the housetop, that I was doing dishonour
-to my ancient [[Faith|faith]] and race. I reflected—clearly reflected for the
-first [[Time|time]]—that in bending my neck to the yoke I was willing to wear,
-I bent the unwilling necks of the whole Jewish people. For it is not, in
-Christian countries, with the Jews as with other peoples. Men say, “This
-is a bad Greek, but there are good Greeks. This is a bad Turk, but there
-are good Turks.” Not so with the Jews. Men find the bad among us easily
-enough—among what peoples are the bad not easily found?—but they take
-the worst of us as samples of the best; they take the lowest of us as
-presentations of the highest; and they say “All Jews are alike.” If,
-doing what I was content to do here, because I was grateful for the past
-and have small need of money now, I had been a Christian, I could have
-done it, compromising no one but my individual [[Self|self]]. But doing it as a
-Jew, I could not choose but compromise the Jews of all conditions and
-all countries. It is a little hard upon us, but it is the [[Truth|truth]]. I would
-that all our people remembered it! Though I have little right to say so,
-seeing that it came [[Home|home]] so late to me.’
+‘Ay! That the old lady did!’ said Mr Boffin, with stout [[Pride|pride]] in the
+circumstance.
 
-The dolls’ dressmaker sat holding the old man by the hand, and looking
-thoughtfully in his face.
+‘Harkee to me, deary,’ pursued Mrs Boffin, taking Bella’s hands between
+her own, and gently beating on them from [[Time|time]] to [[Time|time]]. ‘It was after a
+particular [[Night|night]] when John had been disappointed—as he thought—in
+his affections. It was after a [[Night|night]] when John had made an offer to a
+certain young lady, and the certain young lady had refused it. It was
+after a particular [[Night|night]], when he felt himself cast-away-like, and had
+made up his mind to go seek his fortune. It was the very next [[Night|night]]. My
+Noddy wanted a paper out of his Secretary’s room, and I says to Noddy,
+“I am going by the door, and I’ll ask him for it.” I tapped at his door,
+and he didn’t hear me. I looked in, and saw him a sitting lonely by his
+[[Fire|fire]], brooding over it. He chanced to look up with a pleased kind of
+smile in my company when he saw me, and then in a single moment every
+grain of the gunpowder that had been lying sprinkled thick about him
+ever since I first set eyes upon him as a man at the Bower, took [[Fire|fire]]!
+Too many a [[Time|time]] had I seen him sitting lonely, when he was a poor [[Child|child]],
+to be pitied, heart and hand! Too many a [[Time|time]] had I seen him in need of
+being brightened up with a comforting word! Too many and too many a [[Time|time]]
+to be mistaken, when that glimpse of him come at last! No, no! I just
+makes out to cry, “I know you now! You’re John!” And he catches me as
+I drops.—So what,’ says Mrs Boffin, breaking off in the rush of her
+speech to smile most radiantly, ‘might you think by this [[Time|time]] that your
+husband’s name was, dear?’
 
-‘Thus I reflected, I say, sitting that evening in my [[Garden|garden]] on the
-housetop. And passing the painful scene of that day in review before
-me many times, I always saw that the poor gentleman believed the story
-readily, because I was one of the Jews—that you believed the story
-readily, my [[Child|child]], because I was one of the Jews—that the story itself
-first came into the invention of the originator thereof, because I was
-one of the Jews. This was the result of my having had you three before
-me, face to face, and seeing the thing visibly presented as upon a
-theatre. Wherefore I perceived that the obligation was upon me to leave
-this service. But Jenny, my dear,’ said Riah, breaking off, ‘I promised
-that you should pursue your questions, and I obstruct them.’
+‘Not,’ returned Bella, with quivering lips; ‘not Harmon? That’s not
+possible?’
 
-‘On the contrary, godmother; my idea is as large now as a pumpkin—and
-YOU know what a pumpkin is, don’t you? So you gave notice that you
-were going? Does that come next?’ asked Miss Jenny with a look of close
-attention.
+‘Don’t tremble. Why not possible, deary, when so many things are
+possible?’ demanded Mrs Boffin, in a soothing tone.
 
-‘I indited a letter to my master. Yes. To that effect.’
+‘He was killed,’ gasped Bella.
 
-‘And what said Tingling-Tossing-Aching-Screaming-Scratching-Smarter?’
-asked Miss Wren with an unspeakable enjoyment in the utterance of those
-honourable titles and in the recollection of the pepper.
+‘Thought to be,’ said Mrs Boffin. ‘But if ever [[John Harmon]] drew the
+breath of life on earth, that is certainly [[John Harmon]]’s arm round your
+waist now, my pretty. If ever [[John Harmon]] had a wife on earth, that wife
+is certainly you. If ever [[John Harmon]] and his wife had a [[Child|child]] on earth,
+that [[Child|child]] is certainly this.’
 
-‘He held me to certain months of servitude, which were his lawful term
-of notice. They expire to-morrow. Upon their expiration—not before—I
-had meant to set myself right with my Cinderella.’
+By a master-stroke of secret arrangement, the inexhaustible baby here
+appeared at the door, suspended in mid-air by invisible agency. Mrs
+Boffin, plunging at it, brought it to Bella’s lap, where both Mrs and Mr
+Boffin (as the saying is) ‘took it out of’ the Inexhaustible in a shower
+of caresses. It was only this timely appearance that kept Bella from
+swooning. This, and her husband’s earnestness in explaining further to
+her how it had come to pass that he had been supposed to be slain, and
+had even been suspected of his own murder; also, how he had put a pious
+fraud upon her which had preyed upon his mind, as the [[Time|time]] for its
+disclosure approached, lest she might not make full allowance for
+the object with which it had originated, and in which it had fully
+developed.
 
-‘My idea is getting so immense now,’ cried Miss Wren, clasping her
-temples, ‘that my head won’t hold it! Listen, godmother; I am going to
-expound. Little Eyes (that’s Screaming-Scratching-Smarter) owes you a
-heavy grudge for going. Little Eyes casts about how best to pay you off.
-Little Eyes thinks of Lizzie. Little Eyes says to himself, “I’ll find
-out where he has placed that girl, and I’ll betray his secret because
-it’s dear to him.” Perhaps Little Eyes thinks, “I’ll make [[Love|love]] to her
-myself too;” but that I can’t swear—all the rest I can. So, Little Eyes
-comes to me, and I go to Little Eyes. That’s the way of it. And now the
-murder’s all out, I’m sorry,’ added the dolls’ dressmaker, rigid from
-head to foot with energy as she shook her little fist before her eyes,
-‘that I didn’t give him Cayenne pepper and chopped pickled Capsicum!’
+‘But bless ye, my [[Beauty|beauty]]!’ cried Mrs Boffin, taking him up short at this
+point, with another hearty clap of her hands. ‘It wasn’t John only that
+was in it. We was all of us in it.’
+
+‘I don’t,’ said Bella, looking vacantly from one to another, ‘yet
+understand—’
+
+‘Of course you don’t, my deary,’ exclaimed Mrs Boffin. ‘How can you till
+you’re told! So now I am a going to tell you. So you put your two hands
+between my two hands again,’ cried the comfortable creature, embracing
+her, ‘with that blessed little picter lying on your lap, and you shall
+be told all the story. Now, I’m a going to tell the story. Once, twice,
+three times, and the horses is off. Here they go! When I cries out that
+[[Night|night]], “I know you now, you’re John!”—which was my exact words; wasn’t
+they, John?’

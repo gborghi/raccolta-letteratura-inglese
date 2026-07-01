@@ -1,5 +1,5 @@
 ---
-title: "[[CharlesDickens]] — Chapter 10 (part 2)"
+title: "CharlesDickens — Chapter 10 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/charlesdickens-(chesterton)"
@@ -31,7 +31,7 @@ out across the advancing sea.
 Now, I have dwelt on this strong point of Scott because it is the best
 illustration of the one weak point of Dickens.  Dickens had little
 or none of this sense of the concealed sublimity of every separate man.
-Dickens's sense of [[Democracy|democracy]] was entirely of the other kind; it rested
+Dickens's sense of [[democracy]] was entirely of the other kind; it rested
 on the other of the two supports of which I have spoken.  It rested on
 the sense that all men were wildly interesting and wildly varied.  When a
 Dickens character becomes excited he becomes more and more himself.
@@ -63,9 +63,9 @@ Wherever you do not get [[Humour|humour]], you get unconscious [[Humour|humour]]
 As I have said elsewhere in this book Dickens was deeply
 and radically English; the most English of our great writers.
 And there is something very English in this contentment with a
-[[Grotesque|grotesque]] [[Democracy|democracy]]; and in this absence of the eloquence and
-elevation of Scott.  The English [[Democracy|democracy]] is the most humorous
-[[Democracy|democracy]] in the world.  The Scotch [[Democracy|democracy]] is the most dignified,
+[[Grotesque|grotesque]] [[democracy]]; and in this absence of the eloquence and
+elevation of Scott.  The English [[democracy]] is the most humorous
+[[democracy]] in the world.  The Scotch [[democracy]] is the most dignified,
 while the whole abandon and satiric genius of the English
 populace come from its being quite undignified in every way.
 A comparison of the two types might be found, for instance,
@@ -79,8 +79,8 @@ wishes to follow his nose as Crooks.  Mr. Keir Hardie is very
 like a poor man in Walter Scott.  Mr. Crooks is very like a poor
 man in Dickens.
 
-Dickens then had this English feeling of a [[Grotesque|grotesque]] [[Democracy|democracy]].
-By that is more properly meant a vastly varying [[Democracy|democracy]].
+Dickens then had this English feeling of a [[Grotesque|grotesque]] [[democracy]].
+By that is more properly meant a vastly varying [[democracy]].
 The intoxicating variety of men--that was his vision and conception
 of human brotherhood.  And certainly it is a great part of
 human brotherhood.  In one sense things can only be equal if they

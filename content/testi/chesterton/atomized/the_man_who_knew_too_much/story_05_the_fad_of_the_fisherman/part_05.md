@@ -14,6 +14,26 @@ tags:
 </nav>
 
 
+standing and staring outside some antiquated shop. Then March heard
+
+his voice, and it was high and almost hysterical:
+"But he must see it; he must be made to understand. It cannot have
+
+been put to him properly." Then, with a certain recovery of fullness
+
+and even pomposity in the voice, "I shall go and tell him myself."
+Among the queer incidents of that afternoon, March always remembered
+
+something almost comical about the clear picture of the old
+
+gentleman in his wonderful white hat carefully stepping from stone
+
+to stone across the [[River|river]], like a figure crossing the traffic in
+
+Piccadilly. Then he disappeared behind the trees of the island, and
+
+March and Fisher turned to meet the Attorney-General, who was coming
+
 out of the [[house]] with a visage of grim assurance.
 "Everybody is saying," he said, "that the Prime Minister has made
 
@@ -164,31 +184,3 @@ simplicity of manner:
 "You have a motive for killing him," said Fisher.
 The duke continued to stare, but he seemed unable to speak.
 "I [[Hope|hope]] you had a motive for killing him," continued Fisher, mildly.
-
-"You see, it's rather a curious situation. If you have a motive for
-
-murdering, you probably didn't murder. But if you hadn't any motive,
-
-why, then perhaps, you did."
-"What on earth are you talking about?" demanded the duke, violently.
-"It's quite simple," said Fisher. "When you went across he was
-
-either alive or dead. If he was alive, it might be you who killed
-
-him, or why should you have held your tongue about his [[Death|death]]? But if
-
-he was dead, and you had a reason for killing him, you might have
-
-held your tongue for [[Fear|fear]] of being accused." Then after a [[Silence|silence]] he
-
-added, abstractedly: "Cyprus is a beautiful place, I believe.
-
-Romantic scenery and romantic people. Very intoxicating for a young
-
-man."
-The duke suddenly clenched his hands and said, thickly, "[[Well]], I had
-
-a motive."
-"Then you're all right," said Fisher, holding out his hand with an
-
-air of huge relief. "I was pretty sure you wouldn't really do it;

@@ -1,5 +1,5 @@
 ---
-title: "[[conversion]] — Chapter 2: THE OBVIOUS BLUNDERS (part 3)"
+title: "conversion — Chapter 2: THE OBVIOUS BLUNDERS (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/conversion-(chesterton)"

@@ -1,5 +1,5 @@
 ---
-title: "[[Troilus]] and [[Cressida]] — Act I, Scene 3 — monologue (AENEAS) [10]"
+title: "Troilus and Cressida — Act I, Scene 3 — monologue (AENEAS) [10]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/troilus-and-cressida-(shakespeare)"

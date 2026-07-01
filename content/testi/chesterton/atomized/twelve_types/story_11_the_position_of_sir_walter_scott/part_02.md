@@ -14,6 +14,14 @@ tags:
 </nav>
 
 
+Nicol Jarvie, draws no [[Sword|sword]], leaps from no [[Window|window]], affects none of the
+
+dazzling external acts upon which contemporary [[Romance|romance]] depends, yet that
+
+plain and humorous dialogue is full of the essential [[philosophy]] of
+
+[[Romance|romance]] which is an almost equal betting upon man and destiny. Perhaps
+
 the most profoundly thrilling of all Scott's situations is that in
 
 which the family of Colonel Mannering are waiting for the carriage which
@@ -29,8 +37,6 @@ old lawyer and a fashionable girl. We can say nothing about what makes
 these scenes, except that the [[Wind|wind]] bloweth where it listeth, and that
 
 here the [[Wind|wind]] blows strong.
-
-
 
 It is in this quality of what may be called spiritual adventurousness
 
@@ -88,8 +94,6 @@ adventure is concerned with a man who lived for years on a [[Desert|desert]]
 
 island with two guns and a [[Sword|sword]], which he never had to use on an enemy.
 
-
-
 Closely connected with this is one of the charges most commonly brought
 
 against Scott, particularly in his own day--the charge of a fanciful and
@@ -140,8 +144,6 @@ menial in a procession, but it was something important and immeasurably
 
 fascinating--it was a two-handed [[Sword|sword]].
 
-
-
 There is one quality which is supreme and continuous in Scott which is
 
 little appreciated at present. One of the values we have really lost in
@@ -171,25 +173,3 @@ word; he will ruin a man, but he will not [[Silence|silence]] him. In [[Truth|tr
 Scott's most splendid traits is his difficulty, or rather incapacity,
 
 for despising any of his characters. He did not scorn the most revolting
-
-miscreant as the realist of to-day commonly scorns his own [[Hero|hero]]. Though
-
-his [[Soul|soul]] may be in rags, every man of Scott can speak like a [[King|king]].
-
-
-
-This quality, as I have said, is sadly to seek in the fiction of the
-
-passing hour. The realist would, of course, repudiate the bare idea of
-
-putting a bold and brilliant tongue in every man's head, but even where
-
-the moment of the story naturally demands eloquence the eloquence seems
-
-frozen in the tap. Take any contemporary work of fiction and turn to the
-
-scene where the young Socialist denounces the millionaire, and then
-
-compare the stilted sociological lecture given by that [[Self|self]]-sacrificing
-
-bore with the surging joy of words in Rob Roy's declaration of himself,

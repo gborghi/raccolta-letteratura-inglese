@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 21 (part 6)"
+title: "Villette — Chapter 21 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,21 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_21/part_05">‹ part 05</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_22/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Est-ce que vous avez l’intention de m’insulter?” said he to me, in a
+low, furious voice, as he thus outraged, under pretence of arranging
+the [[Fire|fire]].
+
+It was [[Time|time]] to soothe him a little if possible.
+
+“Mais, Monsieur,” said I, “I would not insult you for the world. I
+remember too [[Well|well]] that you once said we should be friends.”
+
+I did not intend my voice to falter, but it did: more, I think, through
+the agitation of late delight than in any spasm of present [[Fear|fear]]. Still
+there certainly was something in M. Paul’s anger—a kind of passion of
+emotion—that specially tended to draw [[Tears|tears]]. I was not unhappy, nor
+much afraid, yet I wept.
 
 “Allons, allons!” said he presently, looking round and seeing the
 [[deluge]] universal. “Decidedly I am a [[Monster|monster]] and a ruffian. I have only

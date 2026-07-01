@@ -107,8 +107,3 @@ sigh that seemed quite reckless in its hopelessness, ‘Oh yes, oh yes!  I
 am resigned to it.’  ‘And are a better man, you think?’  ‘[[Well]], I [[Hope|hope]]
 so: I’m sure I [[Hope|hope]] I may be.’  ‘And [[Time|time]] goes pretty quickly?’  ‘[[Time]] is
 very long gentlemen, within these four walls!’
-
-He gazed about him—Heaven only knows how wearily!—as he said these words;
-and in the act of doing so, fell into a strange stare as if he had
-forgotten something.  A moment afterwards he sighed heavily, put on his
-spectacles, and went about his work again.

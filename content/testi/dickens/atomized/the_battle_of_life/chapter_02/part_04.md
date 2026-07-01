@@ -14,6 +14,36 @@ tags:
 </nav>
 
 
+‘You’ll live to see me making a good use of riches yet.  Henceforth the
+star of my destiny is, Marion!’
+
+‘Take care of the stairs, sir,’ replied Snitchey; ‘for she don’t shine
+there.  Good [[Night|night]]!’
+
+‘Good [[Night|night]]!’
+
+So they both stood at the stair-head with a pair of office-candles,
+watching him down.  When he had gone away, they stood looking at each
+other.
+
+‘What do you think of all this, Mr. Craggs?’ said Snitchey.
+
+Mr. Craggs shook his head.
+
+‘It was our opinion, on the day when that release was executed, that
+there was something curious in the parting of that pair; I recollect,’
+said Snitchey.
+
+‘It was,’ said Mr. Craggs.
+
+‘Perhaps he deceives himself altogether,’ pursued Mr. Snitchey, locking
+up the fireproof box, and putting it away; ‘or, if he don’t, a little bit
+of fickleness and perfidy is not a miracle, Mr. Craggs.  And yet I
+thought that pretty face was very true.  I thought,’ said Mr. Snitchey,
+putting on his great-coat (for the weather was very cold), drawing on his
+gloves, and snuffing out one candle, ‘that I had even seen her character
+becoming stronger and more resolved of late.  More like her sister’s.’
+
 ‘Mrs. Craggs was of the same opinion,’ returned Craggs.
 
 ‘I’d really give a trifle to-[[Night|night]],’ observed Mr. Snitchey, who was a
@@ -104,33 +134,3 @@ is true, to range within that class of personal charms called
 [[Beauty|beauty]]-spots.  But, it is better, going through the world, to have the
 arms chafed in that narrow passage, than the temper: and Clemency’s was
 sound and whole as any [[Beauty|beauty]]’s in the land.
-
-‘Nothing an’t the matter with me,’ said Clemency, entering, ‘but—come a
-little closer, Mister.’
-
-The Doctor, in some astonishment, complied with this invitation.
-
-‘You said I wasn’t to give you one before them, you know,’ said Clemency.
-
-A novice in the family might have supposed, from her extraordinary ogling
-as she said it, as [[Well|well]] as from a singular rapture or ecstasy which
-pervaded her elbows, as if she were embracing herself, that ‘one,’ in its
-most favourable interpretation, meant a chaste salute.  Indeed the Doctor
-himself seemed alarmed, for the moment; but quickly regained his
-composure, as Clemency, having had recourse to both her pockets—beginning
-with the right one, going away to the wrong one, and afterwards coming
-back to the right one again—produced a letter from the Post-office.
-
-‘Britain was riding by on a errand,’ she chuckled, handing it to the
-Doctor, ‘and see the mail come in, and waited for it.  There’s A. H. in
-the corner.  Mr. Alfred’s on his [[Journey|journey]] [[Home|home]], I bet.  We shall have a
-wedding in the [[house]]—there was two spoons in my saucer this morning.  Oh
-Luck, how slow he opens it!’
-
-All this she delivered, by way of soliloquy, gradually rising higher and
-higher on tiptoe, in her impatience to hear the news, and making a
-corkscrew of her apron, and a bottle of her mouth.  At last, arriving at
-a climax of suspense, and seeing the Doctor still engaged in the perusal
-of the letter, she came down flat upon the soles of her feet again, and
-cast her apron, as a veil, over her head, in a mute [[Despair|despair]], and
-inability to bear it any longer.

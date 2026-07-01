@@ -1,5 +1,5 @@
 ---
-title: "[[TheCrimesOfEngland]] — Chapter 2"
+title: "TheCrimesOfEngland — Chapter 2"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/thecrimesofengland-(chesterton)"
@@ -16,11 +16,7 @@ tags:
 
 CHAPTER II
 
-
-
 THE PROTESTANT [[Hero|HERO]]
-
-
 
 Suitable Finale for the German Emperor--Frederick
 

@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 17 (part 2)"
+title: "Shirley — Chapter 17 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_17/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_17/part_03">part 03 ›</a></div>
 </nav>
 
+
+whole in limb, though sorely tried in [[Wind|wind]].
+
+
+
+The fat Dissenter who had given out the [[Hymn|hymn]] was left sitting in the
+
+ditch. He was a spirit merchant by trade, a leader of the
 
 Nonconformists, and, it was said, drank more [[Water|water]] in that one afternoon
 
@@ -189,13 +197,3 @@ Moore," her heart yet beat and her cheek yet glowed with it, when a note
 from the organ pealed above the confused hum of the place. Dr. Boultby,
 
 Mr. Helstone, and Mr. Hall [[Rose|rose]], so did all present, and grace was sung
-
-to the accompaniment of the music; and then tea began. She was kept too
-
-busy with her office for a while to have leisure for looking round, but
-
-the last cup being filled, she threw a restless glance over the room.
-
-There were some ladies and several gentlemen standing about yet
-
-unaccommodated with seats. Amidst a group she recognized her spinster

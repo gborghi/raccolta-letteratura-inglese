@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 18 (part 2)"
+title: "The Mystery of Edwin Drood — Chapter 18 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -150,9 +150,3 @@ calling it iron, on account of its strength), that in this case the
 long arm will reach, and the strong arm will strike.—This is our
 [[Cathedral]], sir. The best judges are pleased to admire it, and the best
 among our townsmen own to being a little vain of it.”
-
-All this [[Time|time]] Mr. Datchery had walked with his hat under his arm, and
-his white hair streaming. He had an odd momentary appearance upon him
-of having forgotten his hat, when Mr. Sapsea now touched it; and he
-clapped his hand up to his head as if with some vague expectation of
-finding another hat upon it.

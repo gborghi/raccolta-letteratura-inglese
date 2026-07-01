@@ -1,5 +1,5 @@
 ---
-title: "[[How to Write a Blackwood Article]] (part 3)"
+title: "How to Write a Blackwood Article (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/how-to-write-a-blackwood-article-(poe)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/how_to_write_a_blackwood_article/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/how_to_write_a_blackwood_article/part/part_04">part 04 ›</a></div>
 </nav>
 
+
+      Some of our best novelists patronize this tone. The words must be
+
+      all in a whirl, like a humming-top, and make a noise very
+
+      similar, which answers remarkably [[Well|well]] instead of meaning. This
 
       is the best of all possible styles where the writer is in too
 
@@ -207,11 +213,3 @@ tags:
       the frequent repetition of the phrase, _la tendre Zaire_, in the
 
       French [[Tragedy|tragedy]] of that name. Properly introduced, will show not
-
-      only your knowledge of the language, but your general reading and
-
-      wit. You can say, for instance, that the chicken you were eating
-
-      (write an article about being choked to [[Death|death]] by a chicken-bone)
-
-      was not altogether _aussi tendre que Zaire_. Write!

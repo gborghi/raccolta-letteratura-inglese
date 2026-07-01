@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 13 (part 1)"
+title: "Dombey and Son — Chapter 41 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -10,115 +10,133 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/dombey-and-son-(dickens)">Dombey and Son</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_68/part_07">‹ part 07</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_69/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_68/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_69/part_02">part 02 ›</a></div>
 </nav>
 
 
-CHAPTER XIII.
-Shipping Intelligence and Office Business
+CHAPTER XLI.
+New Voices in the Waves
 
 
-Mr Dombey’s offices were in a [[Court|court]] where there was an old-established
-stall of choice fruit at the corner: where perambulating merchants, of
-both sexes, offered for sale at any [[Time|time]] between the hours of ten and
-five, slippers, pocket-books, sponges, [[dogs]]’ collars, and Windsor soap;
-and sometimes a pointer or an oil-painting.
+All is going on as it was wont. The waves are hoarse with repetition of
+their mystery; the [[Dust|dust]] lies piled upon the shore; the sea-[[Birds|birds]] soar
+and hover; the winds and clouds go forth upon their trackless flight;
+the white arms beckon, in the moonlight, to the invisible country far
+away.
 
-The pointer always came that way, with a view to the Stock Exchange,
-where a sporting taste (originating generally in bets of new hats) is
-much in vogue. The other commodities were addressed to the general
-public; but they were never offered by the vendors to Mr Dombey. When
-he appeared, the dealers in those wares fell off respectfully. The
-principal slipper and [[dogs]]’ collar man—who considered himself a public
-character, and whose portrait was screwed on to an [[artist]]’s door in
-Cheapside—threw up his forefinger to the brim of his hat as Mr Dombey
-went by. The ticket-porter, if he were not absent on a job, always ran
-officiously before, to open Mr Dombey’s office door as wide as
-possible, and hold it open, with his hat off, while he entered.
+With a tender [[Melancholy|melancholy]] pleasure, Florence finds herself again on the
+old ground so sadly trodden, yet so happily, and thinks of him in the
+quiet place, where he and she have many and many a [[Time|time]] conversed
+together, with the [[Water|water]] welling up about his couch. And now, as she
+sits pensive there, she hears in the wild low murmur of the sea, his
+little story told again, his very words repeated; and finds that all
+her life and hopes, and griefs, since—in the solitary [[house]], and in the
+pageant it has changed to—have a portion in the burden of the
+marvellous [[Song|song]].
 
-The clerks within were not a whit behind-hand in their demonstrations
-of respect. A solemn hush prevailed, as Mr Dombey passed through the
-outer office. The wit of the Counting-[[house|House]] became in a moment as mute
-as the row of leathern [[Fire|fire]]-buckets hanging up behind him. Such vapid
-and flat daylight as filtered through the ground-glass windows and
-skylights, leaving a black sediment upon the panes, showed the books
-and papers, and the figures bending over them, enveloped in a studious
-gloom, and as much abstracted in appearance, from the world without, as
-if they were assembled at the [[Bottom|bottom]] of the sea; while a mouldy little
-strong room in the obscure perspective, where a shaded lamp was always
-burning, might have represented the cavern of some ocean [[Monster|monster]],
-looking on with a red eye at these mysteries of the deep.
+And gentle Mr Toots, who wanders at a distance, looking wistfully
+towards the figure that he dotes upon, and has followed there, but
+cannot in his delicacy disturb at such a [[Time|time]], likewise hears the
+requiem of little Dombey on the waters, rising and falling in the lulls
+of their eternal madrigal in praise of Florence. Yes! and he faintly
+understands, poor Mr Toots, that they are saying something of a [[Time|time]]
+when he was sensible of being brighter and not addle-brained; and the
+[[Tears|tears]] rising in his eyes when he fears that he is dull and stupid now,
+and good for little but to be laughed at, diminish his satisfaction in
+their soothing reminder that he is relieved from present responsibility
+to the Chicken, by the absence of that game head of poultry in the
+country, training (at Toots’s cost) for his great mill with the Larkey
+Boy.
 
-When Perch the messenger, whose place was on a little bracket, like a
-timepiece, saw Mr Dombey come in—or rather when he felt that he was
-coming, for he had usually an instinctive sense of his approach—he
-hurried into Mr Dombey’s room, stirred the [[Fire|fire]], carried fresh coals
-from the bowels of the coal-box, hung the newspaper to air upon the
-fender, put the chair ready, and the screen in its place, and was round
-upon his heel on the instant of Mr Dombey’s entrance, to take his
-great-coat and hat, and hang them up. Then Perch took the newspaper,
-and gave it a turn or two in his hands before the [[Fire|fire]], and laid it,
-deferentially, at Mr Dombey’s elbow. And so little objection had Perch
-to being deferential in the last degree, that if he might have laid
-himself at Mr Dombey’s feet, or might have called him by some such
-title as used to be bestowed upon the Caliph Haroun Alraschid, he would
-have been all the better pleased.
+But Mr Toots takes [[Courage|courage]], when they whisper a kind thought to him;
+and by slow degrees and with many indecisive stoppages on the way,
+approaches Florence. Stammering and blushing, Mr Toots affects
+amazement when he comes near her, and says (having followed close on
+the carriage in which she travelled, every inch of the way from [[London]],
+loving even to be choked by the [[Dust|dust]] of its wheels) that he never was
+so surprised in all his life.
 
-As this [[Honour|honour]] would have been an innovation and an experiment, Perch
-was fain to content himself by expressing as [[Well|well]] as he could, in his
-manner, You are the light of my Eyes. You are the Breath of my [[Soul]].
-You are the commander of the Faithful Perch! With this imperfect
-happiness to cheer him, he would shut the door softly, walk away on
-tiptoe, and leave his great chief to be stared at, through a
-dome-shaped [[Window|window]] in the leads, by ugly chimney-pots and backs of
-houses, and especially by the bold [[Window|window]] of a hair-cutting saloon on a
-first floor, where a waxen effigy, bald as a Mussulman in the morning,
-and covered, after eleven o’[[Clock|clock]] in the day, with luxuriant hair and
-whiskers in the latest Christian fashion, showed him the wrong side of
-its head for ever.
+“And you’ve brought Diogenes, too, Miss Dombey!” says Mr Toots,
+thrilled through and through by the touch of the small hand so
+pleasantly and frankly given him.
 
-Between Mr Dombey and the common world, as it was accessible through
-the medium of the outer office—to which Mr Dombey’s presence in his own
-room may be said to have struck like damp, or cold air—there were two
-degrees of descent. Mr Carker in his own office was the first step; Mr
-Morfin, in his own office, was the second. Each of these gentlemen
-occupied a little chamber like a bath-room, opening from the passage
-outside Mr Dombey’s door. Mr Carker, as Grand Vizier, inhabited the
-room that was nearest to the Sultan. Mr Morfin, as an officer of
-inferior state, inhabited the room that was nearest to the clerks.
+No [[Doubt|doubt]] Diogenes is there, and no [[Doubt|doubt]] Mr Toots has reason to observe
+him, for he comes straightway at Mr Toots’s legs, and tumbles over
+himself in the desperation with which he makes at him, like a very dog
+of Montargis. But he is checked by his sweet mistress.
 
-The gentleman last mentioned was a cheerful-looking, hazel-eyed elderly
-bachelor: gravely attired, as to his upper man, in black; and as to his
-legs, in pepper-and-salt colour. His dark hair was just touched here
-and there with specks of gray, as though the tread of [[Time]] had splashed
-it; and his whiskers were already white. He had a mighty respect for Mr
-Dombey, and rendered him due homage; but as he was of a genial temper
-himself, and never wholly at his ease in that stately presence, he was
-disquieted by no [[Jealousy|jealousy]] of the many conferences enjoyed by Mr Carker,
-and felt a secret satisfaction in having duties to discharge, which
-rarely exposed him to be singled out for such distinction. He was a
-great musical amateur in his way—after business; and had a paternal
-affection for his violoncello, which was once in every week transported
-from Islington, his place of abode, to a certain club-room hard by the
-Bank, where quartettes of the most tormenting and excruciating [[Nature|nature]]
-were executed every Wednesday evening by a private party.
+“Down, Di, down. Don’t you remember who first made us friends, Di? For
+shame!”
 
-Mr Carker was a gentleman thirty-eight or forty years old, of a florid
-complexion, and with two unbroken rows of glistening teeth, whose
-regularity and whiteness were quite distressing. It was impossible to
-escape the observation of them, for he showed them whenever he spoke;
-and bore so wide a smile upon his countenance (a smile, however, very
-rarely, indeed, extending beyond his mouth), that there was something
-in it like the snarl of a cat. He affected a stiff white cravat, after
-the example of his principal, and was always closely buttoned up and
-tightly dressed. His manner towards Mr Dombey was deeply conceived and
-perfectly expressed. He was familiar with him, in the very extremity of
-his sense of the distance between them. “Mr Dombey, to a man in your
-position from a man in mine, there is no show of subservience
-compatible with the transaction of business between us, that I should
-think sufficient. I frankly tell you, Sir, I give it up altogether. I
-feel that I could not satisfy my own mind; and Heaven knows, Mr Dombey,
-you can afford to dispense with the endeavour.” If he had carried these
-words about with him printed on a placard, and had constantly offered
-it to Mr Dombey’s perusal on the breast of his coat, he could not have
-been more explicit than he was.
+Oh! [[Well]] may Di lay his loving cheek against her hand, and run off, and
+run back, and run round her, barking, and run headlong at anybody
+coming by, to show his devotion. Mr Toots would run headlong at
+anybody, too. A military gentleman goes past, and Mr Toots would like
+nothing better than to run at him, full tilt.
+
+“Diogenes is quite in his native air, isn’t he, Miss Dombey?” says Mr
+Toots.
+
+Florence assents, with a grateful smile.
+
+“Miss Dombey,” says Mr Toots, “beg your pardon, but if you would like
+to walk to Blimber’s, I—I’m going there.”
+
+Florence puts her arm in that of Mr Toots without a word, and they walk
+away together, with Diogenes going on before. Mr Toots’s legs shake
+under him; and though he is splendidly dressed, he feels misfits, and
+sees wrinkles, in the masterpieces of Burgess and Co., and wishes he
+had put on that brightest pair of boots.
+
+Doctor Blimber’s [[house]], outside, has as scholastic and studious an air
+as ever; and up there is the [[Window|window]] where she used to look for the pale
+face, and where the pale face brightened when it saw her, and the
+wasted little hand waved kisses as she passed. The door is opened by
+the same weak-eyed young man, whose imbecility of grin at sight of Mr
+Toots is feebleness of character personified. They are shown into the
+Doctor’s study, where blind Homer and Minerva give them audience as of
+yore, to the sober ticking of the great [[Clock|clock]] in the hall; and where
+the globes stand still in their accustomed places, as if the world were
+stationary too, and nothing in it ever perished in obedience to the
+universal law, that, while it keeps it on the roll, calls everything to
+earth.
+
+And here is Doctor Blimber, with his learned legs; and here is Mrs
+Blimber, with her sky-blue cap; and here Cornelia, with her sandy
+little row of curls, and her bright spectacles, still working like a
+sexton in the graves of languages. Here is the table upon which he sat
+forlorn and strange, the “new boy” of the school; and hither comes the
+distant cooing of the old boys, at their old lives in the old room on
+the old principle!
+
+“Toots,” says Doctor Blimber, “I am very glad to see you, Toots.”
+
+Mr Toots chuckles in reply.
+
+“Also to see you, Toots, in such good company,” says Doctor Blimber.
+
+Mr Toots, with a scarlet visage, explains that he has met Miss Dombey
+by accident, and that Miss Dombey wishing, like himself, to see the old
+place, they have come together.
+
+“You will like,” says Doctor Blimber, “to step among our young friends,
+Miss Dombey, no [[Doubt|doubt]]. All fellow-students of yours, Toots, once. I
+think we have no new disciples in our little portico, my dear,” says
+Doctor Blimber to Cornelia, “since Mr Toots left us.”
+
+“Except Bitherstone,” returns Cornelia.
+
+“Ay, truly,” says the Doctor. “Bitherstone is new to Mr Toots.”
+
+New to Florence, too, almost; for, in the schoolroom, Bitherstone—no
+longer Master Bitherstone of Mrs Pipchin’s—shows in collars and a
+neckcloth, and wears a watch. But Bitherstone, born beneath some Bengal
+star of ill-omen, is extremely inky; and his Lexicon has got so
+dropsical from constant reference, that it won’t shut, and yawns as if
+it really could not bear to be so bothered. So does Bitherstone its
+master, forced at Doctor Blimber’s highest pressure; but in the yawn of
+Bitherstone there is malice and snarl, and he has been heard to say
+that he wishes he could catch “old Blimber” in India. He’d precious
+soon find himself carried up the country by a few of his
+(Bitherstone’s) Coolies, and handed over to the Thugs; he can tell him
+that.

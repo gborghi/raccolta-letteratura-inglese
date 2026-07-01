@@ -1,5 +1,5 @@
 ---
-title: "[[longbow2]]"
+title: "longbow2"
 author: "Chesterton"
 unitType: work
 parentWork: "works/longbow2-(chesterton)"
@@ -3365,7 +3365,7 @@ be called the main feature of the story.  An elusive, flexible and
 insinuating nose, the serpent of their Eden.  [[Well]], they seem
 to have returned to their Eden now; and I have no [[Doubt|doubt]] it will
 be all right; for it is when people are separated that these sort
-of [[Secrets|secrets]] [[Spring|spring]] up between them.  After all, it was a mystery
+of [[Secrets|secrets]] [[spring]] up between them.  After all, it was a mystery
 to us and we cannot be surprised if it was a mystery to her."
 
 "A good deal of this talk is still rather a mystery to me,"

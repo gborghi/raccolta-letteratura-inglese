@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 38: A DISSOLUTION OF PARTNERSHIP (part 5)"
+title: "David Copperfield — Chapter 38: A DISSOLUTION OF PARTNERSHIP (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -134,9 +134,3 @@ his late partner as his late partner had applied to him:
 
 ‘Mr. Spenlow was very difficult to move from the beaten track. You know
 what he was! I am disposed to think he had made no will.’
-
-‘Oh, I know he had!’ said I.
-
-They both stopped and looked at me. ‘On the very day when I last saw
-him,’ said I, ‘he told me that he had, and that his affairs were long
-since settled.’

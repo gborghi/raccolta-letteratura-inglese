@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 15 (part 4)"
+title: "Our Mutual Friend — Chapter 16 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,145 +14,125 @@ tags:
 </nav>
 
 
-‘You remember, Wegg, when I first told you that I wanted to make a sort
-of offer to you?’
+‘And does he work for you?’ asked the Secretary, gently bringing the
+discourse back to Master or Mister Sloppy.
 
-‘Let me get on my considering cap, sir,’ replied that gentleman, turning
-the open book face downward. ‘When you first told me that you wanted
-to make a sort of offer to me? Now let me think.’ (as if there were the
-least necessity) ‘Yes, to be sure I do, Mr Boffin. It was at my corner.
-To be sure it was! You had first asked me whether I liked your name,
-and Candour had compelled a reply in the negative case. I little thought
-then, sir, how familiar that name would come to be!’
+‘Yes,’ said Betty with a good-humoured smile and nod of the head. ‘And
+[[Well|well]] too.’
 
-‘I [[Hope|hope]] it will be more familiar still, Wegg.’
+‘Does he live here?’
 
-‘Do you, Mr Boffin? Much obliged to you, I’m sure. Is it your pleasure,
-sir, that we decline and we fall?’ with a feint of taking up the book.
+‘He lives more here than anywhere. He was thought to be no better than a
+Natural, and first come to me as a Minder. I made interest with Mr Blogg
+the Beadle to have him as a Minder, seeing him by chance up at church,
+and thinking I might do something with him. For he was a weak ricketty
+creetur then.’
 
-‘Not just yet awhile, Wegg. In fact, I have got another offer to make
-you.’
+‘Is he called by his right name?’
 
-Mr Wegg (who had had nothing else in his mind for several nights) took
-off his spectacles with an air of bland surprise.
+‘Why, you see, speaking quite correctly, he has no right name. I always
+understood he took his name from being found on a Sloppy [[Night|night]].’
 
-‘And I [[Hope|hope]] you’ll like it, Wegg.’
+‘He seems an amiable fellow.’
 
-‘Thank you, sir,’ returned that reticent individual. ‘I [[Hope|hope]] it may
-prove so. On all accounts, I am sure.’ (This, as a philanthropic
-[[Aspiration|aspiration]].)
+‘Bless you, sir, there’s not a bit of him,’ returned Betty, ‘that’s not
+amiable. So you may judge how amiable he is, by running your eye along
+his heighth.’
 
-‘What do you think,’ said Mr Boffin, ‘of not keeping a stall, Wegg?’
+Of an ungainly make was Sloppy. Too much of him longwise, too little of
+him broadwise, and too many sharp angles of him angle-wise. One of those
+shambling male human creatures, born to be indiscreetly candid in the
+revelation of buttons; every button he had about him glaring at the
+public to a quite preternatural extent. A considerable capital of knee
+and elbow and wrist and ankle, had Sloppy, and he didn’t know how to
+dispose of it to the best advantage, but was always investing it in
+wrong securities, and so getting himself into embarrassed circumstances.
+Full-Private Number One in the Awkward Squad of the rank and file of
+life, was Sloppy, and yet had his glimmering notions of standing true to
+the Colours.
 
-‘I think, sir,’ replied Wegg, ‘that I should like to be shown the
-gentleman prepared to make it worth my while!’
+‘And now,’ said Mrs Boffin, ‘concerning Johnny.’
 
-‘Here he is,’ said Mr Boffin.
+As Johnny, with his chin tucked in and lips pouting, reclined in Betty’s
+lap, concentrating his blue eyes on the visitors and shading them from
+observation with a dimpled arm, old Betty took one of his fresh fat
+hands in her withered right, and fell to gently beating it on her
+withered left.
 
-Mr Wegg was going to say, My Benefactor, and had said My Bene, when a
-grandiloquent change came over him.
+‘Yes, ma’am. Concerning Johnny.’
 
-‘No, Mr Boffin, not you sir. Anybody but you. Do not [[Fear|fear]], Mr Boffin,
-that I shall contaminate the premises which your gold has bought, with
-MY lowly pursuits. I am aware, sir, that it would not become me to carry
-on my little traffic under the windows of your mansion. I have already
-thought of that, and taken my measures. No need to be bought out, sir.
-Would Stepney Fields be considered intrusive? If not remote enough, I
-can go remoter. In the words of the poet’s [[Song|song]], which I do not quite
-remember:
+‘If you trust the dear [[Child|child]] to me,’ said Mrs Boffin, with a face
+inviting trust, ‘he shall have the best of homes, the best of care, the
+best of [[Education|education]], the best of friends. Please God I will be a true good
+mother to him!’
 
-     Thrown on the wide world, doom’d to wander and roam,
-     Bereft of my parents, bereft of a [[Home|home]],
-     A stranger to something and what’s his name joy,
-     Behold little [[Edmund]] the poor Peasant boy.
+‘I am thankful to you, ma’am, and the dear [[Child|child]] would be thankful if
+he was old enough to understand.’ Still lightly beating the little hand
+upon her own. ‘I wouldn’t stand in the dear [[Child|child]]’s light, not if I had
+all my life before me instead of a very little of it. But I [[Hope|hope]] you
+won’t take it ill that I cleave to the [[Child|child]] closer than words can tell,
+for he’s the last living thing left me.’
 
-—And equally,’ said Mr Wegg, repairing the want of direct application
-in the last line, ‘behold myself on a similar footing!’
+‘Take it ill, my dear [[Soul|soul]]? Is it likely? And you so tender of him as to
+bring him [[Home|home]] here!’
 
-‘Now, Wegg, Wegg, Wegg,’ remonstrated the excellent Boffin. ‘You are too
-sensitive.’
+‘I have seen,’ said Betty, still with that light beat upon her hard
+rough hand, ‘so many of them on my lap. And they are all gone but this
+one! I am ashamed to seem so selfish, but I don’t really mean it. It’ll
+be the making of his fortune, and he’ll be a gentleman when I am dead.
+I—I—don’t know what comes over me. I—try against it. Don’t notice
+me!’ The light beat stopped, the resolute mouth gave way, and the fine
+strong old face broke up into weakness and [[Tears|tears]].
 
-‘I know I am, sir,’ returned Wegg, with obstinate magnanimity. ‘I am
-acquainted with my faults. I always was, from a [[Child|child]], too sensitive.’
+Now, greatly to the relief of the visitors, the emotional Sloppy no
+sooner beheld his patroness in this condition, than, throwing back his
+head and throwing open his mouth, he lifted up his voice and bellowed.
+This alarming note of something wrong instantly terrified Toddles and
+Poddles, who were no sooner heard to roar surprisingly, than Johnny,
+curving himself the wrong way and striking out at Mrs Boffin with a pair
+of indifferent shoes, became a prey to [[Despair|despair]]. The absurdity of the
+situation put its pathos to the rout. Mrs Betty Higden was herself in
+a moment, and brought them all to order with that [[Speed|speed]], that Sloppy,
+stopping short in a polysyllabic bellow, transferred his energy to
+the mangle, and had taken several penitential turns before he could be
+stopped.
 
-‘But listen,’ pursued the Golden Dustman; ‘hear me out, Wegg. You have
-taken it into your head that I mean to pension you off.’
+‘There, there, there!’ said Mrs Boffin, almost regarding her kind [[Self|self]]
+as the most ruthless of women. ‘Nothing is going to be done. Nobody need
+be frightened. We’re all comfortable; ain’t we, Mrs Higden?’
 
-‘True, sir,’ returned Wegg, still with an obstinate magnanimity. ‘I am
-acquainted with my faults. Far be it from me to deny them. I HAVE taken
-it into my head.’
+‘Sure and certain we are,’ returned Betty.
 
-‘But I DON’T mean it.’
+‘And there really is no hurry, you know,’ said Mrs Boffin in a lower
+voice. ‘Take [[Time|time]] to think of it, my good creature!’
 
-The assurance seemed hardly as comforting to Mr Wegg, as Mr Boffin
-intended it to be. Indeed, an appreciable elongation of his visage might
-have been observed as he replied:
+‘Don’t you [[Fear|fear]] ME no more, ma’am,’ said Betty; ‘I thought of it for
+good yesterday. I don’t know what come over me just now, but it’ll never
+come again.’
 
-‘Don’t you, indeed, sir?’
+‘[[Well]], then, Johnny shall have more [[Time|time]] to think of it,’ returned Mrs
+Boffin; ‘the pretty [[Child|child]] shall have [[Time|time]] to get used to it. And you’ll
+get him more used to it, if you think [[Well|well]] of it; won’t you?’
 
-‘No,’ pursued Mr Boffin; ‘because that would express, as I understand
-it, that you were not going to do anything to deserve your money. But
-you are; you are.’
+Betty undertook that, cheerfully and readily.
 
-‘That, sir,’ replied Mr Wegg, cheering up bravely, ‘is quite another
-pair of shoes. Now, my independence as a man is again elevated. Now, I
-no longer
+‘Lor,’ cried Mrs Boffin, looking radiantly about her, ‘we want to make
+everybody happy, not dismal!—And perhaps you wouldn’t mind letting me
+know how used to it you begin to get, and how it all goes on?’
 
-     Weep for the hour,
-     When to Boffinses bower,
-     The Lord of the valley with offers came;
-     Neither does the [[Moon|moon]] hide her light
-     From the heavens to-[[Night|night]],
-     And weep behind her clouds o’er any individual in the present
-     Company’s shame.
+‘I’ll send Sloppy,’ said Mrs Higden.
 
-—Please to proceed, Mr Boffin.’
+‘And this gentleman who has come with me will pay him for his trouble,’
+said Mrs Boffin. ‘And Mr Sloppy, whenever you come to my [[house]], be
+sure you never go away without having had a good dinner of meat, beer,
+vegetables, and pudding.’
 
-‘Thank’ee, Wegg, both for your confidence in me and for your frequent
-dropping into poetry; both of which is friendly. [[Well]], then; my idea is,
-that you should give up your stall, and that I should put you into the
-Bower here, to keep it for us. It’s a pleasant spot; and a man with
-coals and candles and a pound a week might be in clover here.’
-
-‘Hem! Would that man, sir—we will say that man, for the purposes of
-argueyment;’ Mr Wegg made a smiling demonstration of great perspicuity
-here; ‘would that man, sir, be expected to throw any other capacity in,
-or would any other capacity be considered extra? Now let us (for the
-purposes of argueyment) suppose that man to be engaged as a reader: say
-(for the purposes of argueyment) in the evening. Would that man’s pay as
-a reader in the evening, be added to the other amount, which, adopting
-your language, we will call clover; or would it merge into that amount,
-or clover?’
-
-‘[[Well]],’ said Mr Boffin, ‘I suppose it would be added.’
-
-‘I suppose it would, sir. You are right, sir. Exactly my own views,
-Mr Boffin.’ Here Wegg [[Rose|rose]], and balancing himself on his wooden leg,
-fluttered over his prey with extended hand. ‘Mr Boffin, consider it
-done. Say no more, sir, not a word more. My stall and I are for ever
-parted. The collection of ballads will in future be reserved for private
-study, with the object of making poetry tributary’—Wegg was so proud
-of having found this word, that he said it again, with a capital
-letter—‘Tributary, to [[Friendship|friendship]]. Mr Boffin, don’t allow yourself to
-be made uncomfortable by the pang it gives me to part from my stock and
-stall. Similar emotion was undergone by my own father when promoted
-for his merits from his occupation as a waterman to a situation under
-[[government|Government]]. His Christian name was Thomas. His words at the [[Time|time]] (I was
-then an infant, but so deep was their impression on me, that I committed
-them to [[Memory|memory]]) were:
-
-     Then farewell, my trim-built wherry,
-     Oars and coat and badge farewell!
-     Never more at Chelsea Ferry,
-     Shall your Thomas take a spell!
-
-—My father got over it, Mr Boffin, and so shall I.’
-
-While delivering these valedictory observations, Wegg continually
-disappointed Mr Boffin of his hand by flourishing it in the air. He now
-darted it at his patron, who took it, and felt his mind relieved of a
-great weight: observing that as they had arranged their joint affairs
-so satisfactorily, he would now be glad to look into those of Bully
-Sawyers. Which, indeed, had been left over-[[Night|night]] in a very unpromising
-posture, and for whose impending expedition against the Persians the
-weather had been by no means favourable all day.
+This still further brightened the face of affairs; for, the highly
+sympathetic Sloppy, first broadly staring and grinning, and then roaring
+with laughter, Toddles and Poddles followed suit, and Johnny trumped
+the trick. T and P considering these favourable circumstances for
+the resumption of that dramatic descent upon Johnny, again came
+across-country hand-in-hand upon a buccaneering expedition; and this
+having been fought out in the chimney corner behind Mrs Higden’s chair,
+with great valour on both sides, those desperate pirates returned
+hand-in-hand to their stools, across the dry bed of a mountain torrent.

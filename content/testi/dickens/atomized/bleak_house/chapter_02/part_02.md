@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 2 (part 2)"
+title: "Bleak House — Chapter 2 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -109,6 +109,3 @@ exaggerate at all.
 
 Therefore, while Mr. Tulkinghorn may not know what is passing in the
 Dedlock mind at present, it is very possible that he may.
-
-“My Lady’s cause has been again before the Chancellor, has it, Mr.
-Tulkinghorn?” says Sir Leicester, giving him his hand.

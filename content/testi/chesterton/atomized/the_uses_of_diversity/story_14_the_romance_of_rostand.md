@@ -1,5 +1,5 @@
 ---
-title: "The Uses of Diversity — The [[Romance]] of Rostand"
+title: "The Uses of Diversity — The Romance of Rostand"
 author: "Chesterton"
 unitType: story
 parentWork: "works/the-uses-of-diversity-(chesterton)"

@@ -1,5 +1,5 @@
 ---
-title: "The Taming of the Shrew — Act V, Scene 2 — exchange ([[Baptista|BAPTISTA]]) [2]"
+title: "The Taming of the Shrew — Act V, Scene 2 — exchange (BAPTISTA) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-taming-of-the-shrew-(shakespeare)"

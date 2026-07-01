@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 3 (part 2)"
+title: "Mansfield Park — Chapter 3 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/mansfield_park/chapter_03/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/mansfield_park/chapter_03/part_03">part 03 ›</a></div>
 </nav>
 
+
+“I can say nothing for her manner to you as a [[Child|child]]; but it was the
+same with us all, or nearly so. She never knew how to be pleasant to
+children. But you are now of an age to be treated better; I think she
+is behaving better already; and when you are her only companion, you
+_must_ be important to her.”
 
 “I can never be important to any one.”
 

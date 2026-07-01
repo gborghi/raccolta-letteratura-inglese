@@ -1,5 +1,5 @@
 ---
-title: "[[longbow2]] — Chapter 6 (part 2)"
+title: "longbow2 — Chapter 6 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/longbow2/chapter_06/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/longbow2/chapter_06/part_03">part 03 ›</a></div>
 </nav>
 
+
+"But what the devil can he want with a gun?" muttered Pierce,
+peering at the dark outline.
 
 "And who the devil is HE, if it comes to that?" said the Colonel.
 

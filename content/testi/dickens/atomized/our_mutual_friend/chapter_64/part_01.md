@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 5 (part 1)"
+title: "Our Mutual Friend — Chapter 9 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,146 +14,130 @@ tags:
 </nav>
 
 
-Chapter 5
+Chapter 9
 
-CONCERNING THE MENDICANT’S BRIDE
+TWO PLACES VACATED
 
 
-The impressive gloom with which Mrs Wilfer received her husband on his
-return from the wedding, knocked so hard at the door of the cherubic
-[[Conscience|conscience]], and likewise so impaired the firmness of the cherubic legs,
-that the culprit’s tottering condition of mind and [[Body|body]] might have
-roused suspicion in less occupied persons than the grimly heroic lady,
-Miss [[Lavinia]], and that esteemed friend of the family, Mr George Sampson.
-But, the attention of all three being fully possessed by the main
-fact of the [[Marriage|marriage]], they had happily none to bestow on the guilty
-conspirator; to which fortunate circumstance he owed the escape for
-which he was in nowise indebted to himself.
+Set down by the omnibus at the corner of Saint Mary Axe, and trusting
+to her feet and her crutch-stick within its precincts, the dolls’
+dressmaker proceeded to the place of business of Pubsey and Co. All
+there was sunny and quiet externally, and shady and quiet internally.
+Hiding herself in the entry outside the glass door, she could see from
+that post of observation the old man in his spectacles sitting writing
+at his desk.
 
-‘You do not, R. W.’ said Mrs Wilfer from her stately corner, ‘inquire
-for your daughter Bella.’
+‘Boh!’ cried the dressmaker, popping in her head at the glass-door. ‘Mr
+Wolf at [[Home|home]]?’
 
-‘To be sure, my dear,’ he returned, with a most flagrant assumption of
-unconsciousness, ‘I did omit it. How—or perhaps I should rather say
-where—IS Bella?’
+The old man took his glasses off, and mildly laid them down beside him.
+‘Ah Jenny, is it you? I thought you had given me up.’
 
-‘Not here,’ Mrs Wilfer proclaimed, with folded arms.
+‘And so I had given up the treacherous wolf of the forest,’ she replied;
+‘but, godmother, it strikes me you have come back. I am not quite sure,
+because the wolf and you change forms. I want to ask you a question or
+two, to find out whether you are really godmother or really wolf. May
+I?’
 
-The cherub faintly muttered something to the abortive effect of ‘Oh,
-indeed, my dear!’
+‘Yes, Jenny, yes.’ But Riah glanced towards the door, as if he thought
+his principal might appear there, unseasonably.
 
-‘Not here,’ repeated Mrs Wilfer, in a stern sonorous voice. ‘In a word,
-R. W., you have no daughter Bella.’
+‘If you’re afraid of the fox,’ said Miss Jenny, ‘you may dismiss all
+present expectations of seeing that animal. HE won’t show himself
+abroad, for many a day.’
 
-‘No daughter Bella, my dear?’
+‘What do you mean, my [[Child|child]]?’
 
-‘No. Your daughter Bella,’ said Mrs Wilfer, with a lofty air of never
-having had the least copartnership in that young lady: of whom she now
-made reproachful mention as an article of luxury which her husband had
-set up entirely on his own account, and in direct opposition to her
-advice: ‘—your daughter Bella has bestowed herself upon a Mendicant.’
+‘I mean, godmother,’ replied Miss Wren, sitting down beside the Jew,
+‘that the fox has caught a famous flogging, and that if his skin and
+bones are not tingling, aching, and smarting at this present instant, no
+fox did ever tingle, ache, and smart.’ Therewith Miss Jenny related what
+had come to pass in the Albany, omitting the few grains of pepper.
 
-‘Good gracious, my dear!’
+‘Now, godmother,’ she went on, ‘I particularly wish to ask you what has
+taken place here, since I left the wolf here? Because I have an idea
+about the size of a marble, [[rolling]] about in my little noddle. First and
+foremost, are you Pubsey and Co., or are you either? Upon your solemn
+word and [[Honour|honour]].’
 
-‘Show your father his daughter Bella’s letter, [[Lavinia]],’ said Mrs
-Wilfer, in her monotonous Act of Parliament tone, and waving her hand.
-‘I think your father will admit it to be documentary proof of what I
-tell him. I believe your father is acquainted with his daughter Bella’s
-writing. But I do not know. He may tell you he is not. Nothing will
-surprise me.’
+The old man shook his head.
 
-‘Posted at Greenwich, and dated this morning,’ said the Irrepressible,
-flouncing at her father in handing him the evidence. ‘Hopes Ma won’t be
-angry, but is happily married to Mr John Rokesmith, and didn’t mention
-it beforehand to avoid words, and please tell darling you, and [[Love|love]]
-to me, and I should like to know what you’d have said if any other
-unmarried member of the family had done it!’
+‘Secondly, isn’t Fledgeby both Pubsey and Co.?’
 
-He read the letter, and faintly exclaimed ‘Dear me!’
+The old man answered with a reluctant nod.
 
-‘You may [[Well|well]] say Dear me!’ rejoined Mrs Wilfer, in a deep tone. Upon
-which encouragement he said it again, though scarcely with the [[success]]
-he had expected; for the scornful lady then remarked, with extreme
-bitterness: ‘You said that before.’
+‘My idea,’ exclaimed Miss Wren, ‘is now about the size of an orange. But
+before it gets any bigger, welcome back, dear godmother!’
 
-‘It’s very surprising. But I suppose, my dear,’ hinted the cherub, as he
-folded the letter after a disconcerting [[Silence|silence]], ‘that we must make the
-best of it? Would you object to my pointing out, my dear, that Mr
-John Rokesmith is not (so far as I am acquainted with him), strictly
-speaking, a Mendicant.’
+The little creature folded her arms about the old man’s neck with great
+earnestness, and kissed him. ‘I humbly beg your [[Forgiveness|forgiveness]], godmother.
+I am truly sorry. I ought to have had more [[Faith|faith]] in you. But what could
+I suppose when you said nothing for yourself, you know? I don’t mean to
+offer that as a justification, but what could I suppose, when you were a
+silent party to all he said? It did look bad; now didn’t it?’
 
-‘Indeed?’ returned Mrs Wilfer, with an awful air of politeness. ‘Truly
-so? I was not aware that Mr John Rokesmith was a gentleman of landed
-property. But I am much relieved to hear it.’
+‘It looked so bad, Jenny,’ responded the old man, with gravity, ‘that I
+will straightway tell you what an impression it wrought upon me. I was
+hateful in mine own eyes. I was hateful to myself, in being so hateful
+to the debtor and to you. But more than that, and worse than that,
+and to pass out far and broad beyond myself—I reflected that evening,
+sitting [[Alone|alone]] in my [[Garden|garden]] on the housetop, that I was doing dishonour
+to my ancient [[Faith|faith]] and race. I reflected—clearly reflected for the
+first [[Time|time]]—that in bending my neck to the yoke I was willing to wear,
+I bent the unwilling necks of the whole Jewish people. For it is not, in
+Christian countries, with the Jews as with other peoples. Men say, “This
+is a bad Greek, but there are good Greeks. This is a bad Turk, but there
+are good Turks.” Not so with the Jews. Men find the bad among us easily
+enough—among what peoples are the bad not easily found?—but they take
+the worst of us as samples of the best; they take the lowest of us as
+presentations of the highest; and they say “All Jews are alike.” If,
+doing what I was content to do here, because I was grateful for the past
+and have small need of money now, I had been a Christian, I could have
+done it, compromising no one but my individual [[Self|self]]. But doing it as a
+Jew, I could not choose but compromise the Jews of all conditions and
+all countries. It is a little hard upon us, but it is the [[Truth|truth]]. I would
+that all our people remembered it! Though I have little right to say so,
+seeing that it came [[Home|home]] so late to me.’
 
-‘I [[Doubt|doubt]] if you HAVE heard it, my dear,’ the cherub submitted with
-hesitation.
+The dolls’ dressmaker sat holding the old man by the hand, and looking
+thoughtfully in his face.
 
-‘Thank you,’ said Mrs Wilfer. ‘I make false statements, it appears? So
-be it. If my daughter flies in my face, surely my husband may. The one
-thing is not more unnatural than the other. There seems a fitness in the
-arrangement. By all means!’ Assuming, with a shiver of [[Resignation|resignation]], a
-deadly cheerfulness.
+‘Thus I reflected, I say, sitting that evening in my [[Garden|garden]] on the
+housetop. And passing the painful scene of that day in review before
+me many times, I always saw that the poor gentleman believed the story
+readily, because I was one of the Jews—that you believed the story
+readily, my [[Child|child]], because I was one of the Jews—that the story itself
+first came into the invention of the originator thereof, because I was
+one of the Jews. This was the result of my having had you three before
+me, face to face, and seeing the thing visibly presented as upon a
+theatre. Wherefore I perceived that the obligation was upon me to leave
+this service. But Jenny, my dear,’ said Riah, breaking off, ‘I promised
+that you should pursue your questions, and I obstruct them.’
 
-But, here the Irrepressible skirmished into the conflict, dragging the
-reluctant form of Mr Sampson after her.
+‘On the contrary, godmother; my idea is as large now as a pumpkin—and
+YOU know what a pumpkin is, don’t you? So you gave notice that you
+were going? Does that come next?’ asked Miss Jenny with a look of close
+attention.
 
-‘Ma,’ interposed the young lady, ‘I must say I think it would be much
-better if you would keep to the point, and not hold forth about
-people’s flying into people’s faces, which is nothing more nor less than
-impossible nonsense.’
+‘I indited a letter to my master. Yes. To that effect.’
 
-‘How!’ exclaimed Mrs Wilfer, knitting her dark brows.
+‘And what said Tingling-Tossing-Aching-Screaming-Scratching-Smarter?’
+asked Miss Wren with an unspeakable enjoyment in the utterance of those
+honourable titles and in the recollection of the pepper.
 
-‘Just im-possible nonsense, Ma,’ returned Lavvy, ‘and George Sampson
-knows it is, as [[Well|well]] as I do.’
+‘He held me to certain months of servitude, which were his lawful term
+of notice. They expire to-morrow. Upon their expiration—not before—I
+had meant to set myself right with my Cinderella.’
 
-Mrs Wilfer suddenly becoming petrified, fixed her indignant eyes upon
-the wretched George: who, divided between the support due from him to
-his [[Love|love]], and the support due from him to his [[Love|love]]’s mamma, supported
-nobody, not even himself.
-
-‘The true point is,’ pursued [[Lavinia]], ‘that Bella has behaved in a most
-unsisterly way to me, and might have severely compromised me with George
-and with George’s family, by making off and getting married in this very
-low and disreputable manner—with some pew-opener or other, I suppose,
-for a bridesmaid—when she ought to have confided in me, and ought
-to have said, “If, Lavvy, you consider it due to your engagement with
-George, that you should countenance the occasion by being present, then
-Lavvy, I beg you to BE present, keeping my secret from Ma and Pa.” As of
-course I should have done.’
-
-‘As of course you would have done? Ingrate!’ exclaimed Mrs Wilfer.
-‘Viper!’
-
-‘I say! You know ma’am. Upon my [[Honour|honour]] you mustn’t,’ Mr Sampson
-remonstrated, shaking his head seriously. ‘With the highest respect for
-you, ma’am, upon my life you mustn’t. No really, you know. When a man
-with the feelings of a gentleman finds himself engaged to a young lady,
-and it comes (even on the part of a member of the family) to vipers, you
-know!—I would merely put it to your own good feeling, you know,’ said
-Mr Sampson, in rather lame conclusion.
-
-Mrs Wilfer’s baleful stare at the young gentleman in acknowledgment of
-his obliging interference was of such a [[Nature|nature]] that Miss [[Lavinia]] burst
-into [[Tears|tears]], and caught him round the neck for his protection.
-
-‘My own unnatural mother,’ screamed the young lady, ‘wants to annihilate
-George! But you shan’t be annihilated, George. I’ll die first!’
-
-Mr Sampson, in the arms of his mistress, still struggled to shake his
-head at Mrs Wilfer, and to remark: ‘With every sentiment of respect for
-you, you know, ma’am—vipers really doesn’t do you credit.’
-
-‘You shall not be annihilated, George!’ cried Miss [[Lavinia]]. ‘Ma shall
-destroy me first, and then she’ll be contented. Oh, oh, oh! Have I lured
-George from his happy [[Home|home]] to expose him to this! George, dear, be free!
-Leave me, ever dearest George, to Ma and to my fate. Give my [[Love|love]] to
-your aunt, George dear, and implore her not to curse the viper that has
-crossed your path and blighted your existence. Oh, oh, oh!’ The young
-lady who, hysterically speaking, was only just come of age, and had
-never gone off yet, here fell into a highly creditable crisis, which,
-regarded as a first performance, was very successful; Mr Sampson,
-bending over the [[Body|body]] meanwhile, in a state of distraction, which
-induced him to address Mrs Wilfer in the inconsistent expressions:
-‘Demon—with the highest respect for you—behold your work!’
+‘My idea is getting so immense now,’ cried Miss Wren, clasping her
+temples, ‘that my head won’t hold it! Listen, godmother; I am going to
+expound. Little Eyes (that’s Screaming-Scratching-Smarter) owes you a
+heavy grudge for going. Little Eyes casts about how best to pay you off.
+Little Eyes thinks of Lizzie. Little Eyes says to himself, “I’ll find
+out where he has placed that girl, and I’ll betray his secret because
+it’s dear to him.” Perhaps Little Eyes thinks, “I’ll make [[Love|love]] to her
+myself too;” but that I can’t swear—all the rest I can. So, Little Eyes
+comes to me, and I go to Little Eyes. That’s the way of it. And now the
+murder’s all out, I’m sorry,’ added the dolls’ dressmaker, rigid from
+head to foot with energy as she shook her little fist before her eyes,
+‘that I didn’t give him Cayenne pepper and chopped pickled Capsicum!’

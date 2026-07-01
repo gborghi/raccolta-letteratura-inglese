@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 39 (part 5)"
+title: "The Tenant of Wildfell Hall — Chapter 39 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,28 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_39/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_41/part_01">part 01 ›</a></div>
 </nav>
 
+
+drowning men catch at straws: they had driven me desperate between
+
+them; I hardly knew what I said. There was no other to preserve my name
+
+from being blackened and aspersed among this nest of boon companions,
+
+and through them, perhaps, into the world; and beside my abandoned
+
+wretch of a husband, the base, malignant Grimsby, and the false [[Villain|villain]]
+
+Hargrave, this boorish ruffian, coarse and brutal as he was, shone like
+
+a glow-worm in the dark, among its fellow worms.
+
+
+
+What a scene was this! Could I ever have imagined that I should be
+
+doomed to bear such insults under my own roof—to hear such things
+
+spoken in my presence; nay, spoken _to_ me and _of_ me; and by those
 
 who arrogated to themselves the name of gentlemen? And could I have
 
@@ -72,7 +94,7 @@ all her might: on one condition only: that she might share my [[Exile|exile]]:
 
 otherwise, she was utterly inexorable, regarding it as perfect [[Madness|madness]]
 
-for me and [[arthur|Arthur]] to go [[Alone|alone]]. With touching generosity, she modestly
+for me and [[Arthur]] to go [[Alone|alone]]. With touching generosity, she modestly
 
 offered to aid me with her little hoard of savings, hoping I would
 
@@ -126,7 +148,7 @@ gravely asked,—“Mamma, why are you wicked?”
 
 
 
-“No, [[arthur|Arthur]], Rachel never said so, I am certain.”
+“No, [[Arthur]], Rachel never said so, I am certain.”
 
 
 
@@ -152,7 +174,7 @@ people be damned, nor show that they deserve it. God will judge us by
 
 our own thoughts and deeds, not by what others say about us. And when
 
-you hear such words spoken, [[arthur|Arthur]], remember never to repeat them: it
+you hear such words spoken, [[Arthur]], remember never to repeat them: it
 
 is wicked to say such things of others, not to have them said against
 

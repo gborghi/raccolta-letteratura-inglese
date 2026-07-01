@@ -14,6 +14,23 @@ tags:
 </nav>
 
 
+And from this standpoint the holy [[City|city]] was a happy [[City|city]];
+it had no suburbs.  That is to say, there are all sorts
+of buildings outside the wall; but they are outside the wall.
+Everybody is conscious of being inside or outside a boundary; but it
+is the whole character of the true suburbs which grow round our great
+industrial towns that they grow, as it were, unconsciously and blindly,
+like grass that covers up a boundary line traced on the earth.
+This indefinite expansion is controlled neither by the [[Soul|soul]] of the [[City|city]]
+from within, nor by the resistance of the lands round about.  It destroys
+at once the dignity of a town and the [[Freedom|freedom]] of a countryside.
+The citizens are too new and numerous for citizenship; yet they
+never learn what there is to be learned of the ancient traditions
+of agriculture.  The first sight of the sharp outline of Jerusalem
+is like a [[Memory|memory]] of the older types of limitation and liberty.
+Happy is the [[City|city]] that has a wall; and happier still if it
+is a precipice.
+
 Again, Jerusalem might be called a [[City|city]] of staircases.
 Many streets are steep and most actually cut into steps.
 It is, I believe, an element in the controversy about the [[Cave|cave]]
@@ -95,32 +112,3 @@ from which can be caught the first and finest vision of what stands
 on the other [[Hill|hill]] to the east.  The great Mosque of Omar stands
 up like a peacock, lustrous with mosaics that are like plumes
 of blue and green.
-
-Scholars, I may say here, object to calling it the Mosque of Omar;
-on the petty and pedantic ground that it is not a mosque and was
-not built by Omar.  But it is my fixed intention to call it
-the Mosque of Omar, and with ever renewed pertinacity to continue
-calling it the Mosque of Omar.  I possess a special permit from
-the Grand Mufti to call it the Mosque of Omar.  He is the head
-of the whole Moslem religion, and if he does not know, who does?
-He told me, in the beautiful French which matches his beautiful manners,
-that it really is not so ridiculous after all to call the place
-the Mosque of Omar, since the great Caliph desired and even designed
-such a building, though he did not build it.  I suppose it is
-rather as if Solomon's Temple had been called David's Temple.
-Omar was a great man and the Mosque was a great work, and the two were
-telescoped together by the excellent common sense of vulgar tradition.
-There could not be a better example of that great [[Truth|truth]] for
-all travellers; that popular tradition is never so right as when it
-is wrong; and that pedantry is never so wrong as when it is right.
-And as for the other objection, that the Dome of the Rock
-(to give it its other name) is not actually used as a Mosque, I
-answer that Westminster Abbey is not used as an Abbey.
-But modern Englishmen would be much surprised if I were to refer to it
-as Westminster Church; to say nothing of the many modern Englishmen
-for whom it would be more suitable to call it Westminster Museum.
-And for whatever purposes the Moslems may actually use their
-great and glorious sanctuary, at least they have not allowed
-it to become the private [[house]] of a particular rich man.
-And that is what we have suffered to happen, if not to Westminster Abbey,
-at least to Welbeck Abbey.

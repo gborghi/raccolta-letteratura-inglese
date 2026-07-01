@@ -1,5 +1,5 @@
 ---
-title: "[[longbow2]] — Chapter 4 (part 3)"
+title: "longbow2 — Chapter 4 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -14,10 +14,14 @@ tags:
 </nav>
 
 
+Hilary Pierce, fired by his detective fever, made a good many
+more inquiries about the Rev. Wilding White, both of his two old
+friends and elsewhere.
+
 One long legal conversation with Owen Hood did indeed put him in
 possession of the legal outline of certain matters, which might be
 said to throw a light on some parts of the strange letter, and which
-might in [[Time|time]] even be made to throw a light on the rest.  White was
+might in time even be made to throw a light on the rest.  White was
 the vicar of a parish lying deep in the western parts of Somersetshire,
 where the principal landowner was a certain Lord Arlington.  And in
 this case there had been a quarrel between the squire and the parson,
@@ -26,11 +30,11 @@ The clergyman intensely resented that irony or anomaly which has
 caused so much discontent among tenants in Ireland and throughout
 the world; the fact that improvements or constructive work actually
 done by the tenant only pass into the possession of the landlord. 
-He had considerably improved a [[house]] that he himself had rented from
-the squire, but in some kind of crisis of defiance or [[Renunciation|renunciation]],
+He had considerably improved a house that he himself had rented from
+the squire, but in some kind of crisis of defiance or renunciation,
 he had quitted this more official residence bag and baggage, and built
-himself a sort of wooden lodge or bungalow on a small [[Hill|hill]] or mound
-that [[Rose|rose]] amid woods on the extreme edge of the same grounds. 
+himself a sort of wooden lodge or bungalow on a small hill or mound
+that rose amid woods on the extreme edge of the same grounds. 
 This quarrel about the claim of the tenant to his own work was evidently
 the meaning of certain phrases in the letter--such as the timber
 coming from the other end of the county, the sort of work being
@@ -53,7 +57,7 @@ words he had used; but all could state in general terms that it
 referred to some sort of negative nuisance or barren responsibility. 
 This could hardly refer to Snowdrop, of whom he always wrote in
 terms of tenderness as if she were a baby or a kitten.  It seemed
-hard to believe it could refer to the [[house]] he had built entirely
+hard to believe it could refer to the house he had built entirely
 to suit himself.  It seemed as if there must be some third thing
 in his muddled existence, which loomed vaguely in the background
 through the vapour of his confused correspondence.
@@ -66,7 +70,6 @@ by the way, that I had a letter from him too.  Came the day
 after I heard yours.  Shorter, and perhaps a little plainer." 
 And he handed the letter to Hood, who read it out slowly:
 
-
 "`I never knew the old British populace, here in Avalon itself,
 could be so broken down by squires and sneaking lawyers. 
 Nobody dared help me move my [[house]] again; said it was illegal
@@ -75,7 +78,6 @@ carted it all away in two or three journeys; took it right clean
 off the old [[Fool|fool]]'s land altogether this [[Time|time]].  I fancy the old
 [[Fool|fool]] will have to admit there are things in this world he wasn't
 prepared to believe in.'"
-
 
 "But look here," began Hood as if impulsively, and then stopped
 and spoke more slowly and carefully.  "I don't understand this;
@@ -118,14 +120,3 @@ the Air Ministry to-morrow."
 And there was something in the lightness and youth of his vanishing
 gesture that seemed really like Icarus spurning the earth,
 the first man to mount upon wings.
-
-Perhaps this literally flying figure shone the more vividly in
-their memories because, when they saw it again, it was in a subtle
-sense changed.  When the other two next saw Hilary Pierce on
-the steps of the Air Ministry, they were conscious that his manner
-was a little quieter, but his wild eye rather wilder than usual. 
-They adjourned to a neighbouring restaurant and talked of trivialities
-while luncheon was served; but the Colonel, who was a keen observer,
-was sure that Pierce had suffered some sort of shock, or at least
-some sort of check.  While they were considering what to say Pierce
-himself said abruptly, staring at a mustard-pot on the table:

@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 28"
+title: "Villette — Chapter 28"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/villette-(bronte)"
@@ -499,7 +499,7 @@ day, politely turned the conversation when it ran on the wild gifts of
 the actress Vashti, because, as he kindly said, ‘Miss Snowe looked
 uncomfortable.’ Dr. John Bretton knows you only as ‘quiet Lucy’—‘a
 creature inoffensive as a [[Shadow|shadow]];’ he has said, and you have heard him
-say it: ‘Lucy’s disadvantages [[spring]] from over-gravity in tastes and
+say it: ‘Lucy’s disadvantages [[Spring|spring]] from over-gravity in tastes and
 manner—want of colour in character and costume.’ Such are your own and
 your friends’ impressions; and behold! there starts up a little man,
 differing diametrically from all these, roundly charging you with being

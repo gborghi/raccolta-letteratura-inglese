@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 20 (part 2)"
+title: "Oliver Twist — Chapter 20 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_20/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_20/part_03">part 03 ›</a></div>
 </nav>
 
+
+“Me. Only me,” replied a tremulous voice.
+
+[[Oliver]] raised the candle above his head: and looked towards the door.
+It was [[Nancy]].
+
+“Put down the light,” said the girl, turning away her head. “It hurts
+my eyes.”
+
+[[Oliver]] saw that she was very pale, and gently inquired if she were ill.
+The girl threw herself into a chair, with her back towards him: and
+wrung her hands; but made no reply.
 
 “God forgive me!” she cried after a while, “I never thought of this.”
 
@@ -142,17 +154,3 @@ got over at once.”
 Thus addressing his new pupil, Mr. Sikes pulled off [[Oliver]]’s cap and
 threw it into a corner; and then, taking him by the shoulder, sat
 himself down by the table, and stood the boy in front of him.
-
-“Now, first: do you know wot this is?” inquired Sikes, taking up a
-pocket-[[Pistol|pistol]] which lay on the table.
-
-[[Oliver]] replied in the affirmative.
-
-“[[Well]], then, look here,” continued Sikes. “This is powder; that ’ere’s
-a bullet; and this is a little bit of a old hat for waddin’.”
-
-[[Oliver]] murmured his comprehension of the different bodies referred to;
-and Mr. Sikes proceeded to load the [[Pistol|pistol]], with great nicety and
-deliberation.
-
-“Now it’s loaded,” said Mr. Sikes, when he had finished.

@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 29 (part 1)"
+title: "Sense and Sensibility — Chapter 29 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -213,19 +213,3 @@ that such grief, shocking as it was to witness it, must have its
 course, watched by her till this excess of [[Suffering|suffering]] had somewhat spent
 
 itself, and then turning eagerly to Willoughby’s letter, read as
-
-follows:
-
-
-
-                                    “Bond Street, January.
-
-
-
-
-
-        MY DEAR MADAM,
-
-    “I have just had the [[Honour|honour]] of receiving your letter, for which I
-
-    beg to return my sincere acknowledgments. I am much concerned to

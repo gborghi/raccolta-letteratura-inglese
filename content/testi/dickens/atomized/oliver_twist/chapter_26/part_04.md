@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 26 (part 4)"
+title: "Oliver Twist — Chapter 26 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_26/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_27/part_01">part 01 ›</a></div>
 </nav>
 
+
+[[Fagin]] looked as if he could have willingly excused himself from taking
+[[Home|home]] a visitor at that unseasonable hour; and, indeed, muttered
+something about having no [[Fire|fire]]; but his companion repeating his request
+in a peremptory manner, he unlocked the door, and requested him to
+close it softly, while he got a light.
 
 “It’s as dark as the [[Grave|grave]],” said the man, groping forward a few steps.
 “Make haste!”

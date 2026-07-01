@@ -1,5 +1,5 @@
 ---
-title: "Hard Times — Chapter 2 (part 1)"
+title: "Hard Times — Chapter 4 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/hard-times-(dickens)"
@@ -10,117 +10,110 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/hard-times-(dickens)">Hard Times</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/hard_times/chapter_56/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/hard_times/chapter_57/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/hard_times/chapter_55/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/hard_times/chapter_57/part_02">part 02 ›</a></div>
 </nav>
 
 
-CHAPTER II
-MR. [[James Harthouse|JAMES HARTHOUSE]]
+CHAPTER IV
+MEN AND BROTHERS
 
 
-THE Gradgrind party wanted assistance in cutting the throats of the
-Graces.  They went about recruiting; and where could they enlist recruits
-more hopefully, than among the fine gentlemen who, having found out
-everything to be worth nothing, were equally ready for anything?
+‘OH, my friends, the down-trodden operatives of Coketown!  Oh, my friends
+and fellow-countrymen, the slaves of an iron-handed and a grinding
+despotism!  Oh, my friends and fellow-sufferers, and fellow-workmen, and
+fellow-men!  I tell you that the hour is come, when we must rally round
+one another as One united power, and crumble into [[Dust|dust]] the oppressors
+that too long have battened upon the plunder of our families, upon the
+sweat of our brows, upon the labour of our hands, upon the strength of
+our sinews, upon the God-created glorious rights of Humanity, and upon
+the holy and eternal privileges of Brotherhood!’
 
-Moreover, the healthy spirits who had mounted to this [[Sublime|sublime]] height were
-attractive to many of the Gradgrind school.  They liked fine gentlemen;
-they pretended that they did not, but they did.  They became exhausted in
-[[Imitation|imitation]] of them; and they yaw-yawed in their speech like them; and they
-served out, with an enervated air, the little mouldy rations of political
-economy, on which they regaled their disciples.  There never before was
-seen on earth such a wonderful hybrid race as was thus produced.
+‘Good!’  ‘Hear, hear, hear!’  ‘Hurrah!’ and other cries, arose in many
+voices from various parts of the densely crowded and suffocatingly close
+Hall, in which the orator, perched on a stage, delivered himself of this
+and what other froth and fume he had in him.  He had declaimed himself
+into a violent heat, and was as hoarse as he was hot.  By dint of roaring
+at the top of his voice under a flaring gaslight, clenching his fists,
+knitting his brows, setting his teeth, and pounding with his arms, he had
+taken so much out of himself by this [[Time|time]], that he was brought to a stop,
+and called for a glass of [[Water|water]].
 
-Among the fine gentlemen not regularly belonging to the Gradgrind school,
-there was one of a good family and a better appearance, with a happy turn
-of [[Humour|humour]] which had told immensely with the [[house|House]] of Commons on the
-occasion of his entertaining it with his (and the Board of Directors)
-view of a railway accident, in which the most careful officers ever
-known, employed by the most liberal managers ever heard of, assisted by
-the finest mechanical contrivances ever devised, the whole in action on
-the best line ever constructed, had killed five people and wounded
-thirty-two, by a casualty without which the excellence of the whole
-system would have been positively incomplete.  Among the slain was a cow,
-and among the scattered articles unowned, a widow’s cap.  And the
-honourable member had so tickled the [[house|House]] (which has a delicate sense of
-[[Humour|humour]]) by putting the cap on the cow, that it became impatient of any
-serious reference to the Coroner’s Inquest, and brought the railway off
-with Cheers and Laughter.
+As he stood there, trying to quench his fiery face with his drink of
+[[Water|water]], the comparison between the orator and the crowd of attentive faces
+turned towards him, was extremely to his disadvantage.  Judging him by
+[[Nature]]’s evidence, he was above the mass in very little but the stage on
+which he stood.  In many great respects he was essentially below them.
+He was not so honest, he was not so manly, he was not so good-humoured;
+he substituted cunning for their simplicity, and passion for their safe
+solid sense.  An ill-made, high-shouldered man, with lowering brows, and
+his features crushed into an habitually sour expression, he contrasted
+most unfavourably, even in his mongrel dress, with the great [[Body|body]] of his
+hearers in their plain working clothes.  Strange as it always is to
+consider any assembly in the act of submissively resigning itself to the
+dreariness of some complacent person, lord or commoner, whom
+three-fourths of it could, by no human means, raise out of the slough of
+inanity to their own intellectual level, it was particularly strange, and
+it was even particularly affecting, to see this crowd of earnest faces,
+whose honesty in the main no competent observer free from bias could
+[[Doubt|doubt]], so agitated by such a leader.
 
-Now, this gentleman had a younger brother of still better appearance than
-himself, who had tried life as a Cornet of Dragoons, and found it a bore;
-and had afterwards tried it in the train of an English minister abroad,
-and found it a bore; and had then strolled to Jerusalem, and got bored
-there; and had then gone yachting about the world, and got bored
-everywhere.  To whom this honourable and jocular, member fraternally said
-one day, ‘Jem, there’s a good opening among the hard Fact fellows, and
-they want men.  I [[Wonder|wonder]] you don’t go in for statistics.’  Jem, rather
-taken by the novelty of the idea, and very hard up for a change, was as
-ready to ‘go in’ for statistics as for anything else.  So, he went in.
-He coached himself up with a blue-book or two; and his brother put it
-about among the hard Fact fellows, and said, ‘If you want to bring in,
-for any place, a handsome dog who can make you a devilish good speech,
-look after my brother Jem, for he’s your man.’  After a few dashes in the
-public meeting way, Mr. Gradgrind and a council of political sages
-approved of Jem, and it was resolved to send him down to Coketown, to
-become known there and in the neighbourhood.  Hence the letter Jem had
-last [[Night|night]] shown to Mrs. Sparsit, which Mr. Bounderby now held in his
-hand; superscribed, ‘[[Josiah Bounderby]], Esquire, Banker, Coketown.
-Specially to introduce [[James Harthouse]], Esquire.  [[Thomas Gradgrind]].’
+Good!  Hear, hear!  Hurrah!  The eagerness both of attention and
+intention, exhibited in all the countenances, made them a most impressive
+sight.  There was no carelessness, no languor, no idle curiosity; none of
+the many shades of indifference to be seen in all other assemblies,
+visible for one moment there.  That every man felt his condition to be,
+somehow or other, worse than it might be; that every man considered it
+incumbent on him to join the rest, towards the making of it better; that
+every man felt his only [[Hope|hope]] to be in his allying himself to the comrades
+by whom he was surrounded; and that in this belief, right or wrong
+(unhappily wrong then), the whole of that crowd were gravely, deeply,
+faithfully in earnest; must have been as plain to any one who chose to
+see what was there, as the bare beams of the roof and the whitened brick
+walls.  Nor could any such spectator fail to know in his own breast, that
+these men, through their very delusions, showed great qualities,
+susceptible of being turned to the happiest and best account; and that to
+pretend (on the strength of sweeping axioms, howsoever cut and dried)
+that they went astray wholly without cause, and of their own irrational
+wills, was to pretend that there could be smoke without [[Fire|fire]], [[Death|death]]
+without birth, harvest without seed, anything or everything produced from
+nothing.
 
-Within an hour of the receipt of this dispatch and Mr. [[James Harthouse]]’s
-card, Mr. Bounderby put on his hat and went down to the Hotel.  There he
-found Mr. [[James Harthouse]] looking out of [[Window|window]], in a state of mind so
-disconsolate, that he was already half-disposed to ‘go in’ for something
-else.
+The orator having refreshed himself, wiped his corrugated forehead from
+left to right several times with his handkerchief folded into a pad, and
+concentrated all his revived forces, in a sneer of great disdain and
+bitterness.
 
-‘My name, sir,’ said his visitor, ‘is [[Josiah Bounderby]], of Coketown.’
+‘But oh, my friends and brothers!  Oh, men and Englishmen, the
+down-trodden operatives of Coketown!  What shall we say of that man—that
+working-man, that I should find it necessary so to libel the glorious
+name—who, being practically and [[Well|well]] acquainted with the grievances and
+wrongs of you, the injured pith and marrow of this land, and having heard
+you, with a noble and majestic unanimity that will make Tyrants tremble,
+resolve for to subscribe to the funds of the United Aggregate Tribunal,
+and to abide by the injunctions issued by that [[Body|body]] for your benefit,
+whatever they may be—what, I ask you, will you say of that working-man,
+since such I must acknowledge him to be, who, at such a [[Time|time]], deserts his
+post, and sells his [[Flag|flag]]; who, at such a [[Time|time]], turns a traitor and a
+craven and a recreant, who, at such a [[Time|time]], is not ashamed to make to you
+the dastardly and humiliating avowal that he will hold himself aloof, and
+will _not_ be one of those associated in the gallant stand for [[Freedom]]
+and for Right?’
 
-Mr. [[James Harthouse]] was very happy indeed (though he scarcely looked so)
-to have a pleasure he had long expected.
+The assembly was divided at this point.  There were some groans and
+hisses, but the general sense of [[Honour|honour]] was much too strong for the
+condemnation of a man unheard.  ‘Be sure you’re right, Slackbridge!’
+‘Put him up!’  ‘Let’s hear him!’  Such things were said on many sides.
+Finally, one strong voice called out, ‘Is the man heer?  If the man’s
+heer, Slackbridge, let’s hear the man himseln, ’stead o’ yo.’  Which was
+received with a round of applause.
 
-‘Coketown, sir,’ said Bounderby, obstinately taking a chair, ‘is not the
-kind of place you have been accustomed to.  Therefore, if you will allow
-me—or whether you will or not, for I am a plain man—I’ll tell you
-something about it before we go any further.’
+Slackbridge, the orator, looked about him with a withering smile; and,
+holding out his right hand at arm’s length (as the manner of all
+Slackbridges is), to still the thundering sea, waited until there was a
+profound [[Silence|silence]].
 
-Mr. Harthouse would be charmed.
-
-‘Don’t be too sure of that,’ said Bounderby.  ‘I don’t promise it.  First
-of all, you see our smoke.  That’s meat and drink to us.  It’s the
-healthiest thing in the world in all respects, and particularly for the
-lungs.  If you are one of those who want us to consume it, I differ from
-you.  We are not going to wear the bottoms of our boilers out any faster
-than we wear ’em out now, for all the humbugging sentiment in Great
-Britain and Ireland.’
-
-By way of ‘going in’ to the fullest extent, Mr. Harthouse rejoined, ‘Mr.
-Bounderby, I assure you I am entirely and completely of your way of
-thinking.  On conviction.’
-
-‘I am glad to hear it,’ said Bounderby.  ‘Now, you have heard a lot of
-talk about the work in our mills, no [[Doubt|doubt]].  You have?  Very good.  I’ll
-state the fact of it to you.  It’s the pleasantest work there is, and
-it’s the lightest work there is, and it’s the best-paid work there is.
-More than that, we couldn’t improve the mills themselves, unless we laid
-down Turkey carpets on the floors.  Which we’re not a-going to do.’
-
-‘Mr. Bounderby, perfectly right.’
-
-‘Lastly,’ said Bounderby, ‘as to our Hands.  There’s not a Hand in this
-town, sir, man, woman, or [[Child|child]], but has one ultimate object in life.
-That object is, to be fed on turtle soup and venison with a gold spoon.
-Now, they’re not a-going—none of ’em—ever to be fed on turtle soup and
-venison with a gold spoon.  And now you know the place.’
-
-Mr. Harthouse professed himself in the highest degree instructed and
-refreshed, by this condensed epitome of the whole Coketown question.
-
-‘Why, you see,’ replied Mr. Bounderby, ‘it suits my disposition to have a
-full understanding with a man, particularly with a public man, when I
-make his acquaintance.  I have only one thing more to say to you, Mr.
-Harthouse, before assuring you of the pleasure with which I shall
-respond, to the utmost of my poor ability, to my friend [[Tom Gradgrind]]’s
-letter of introduction.  You are a man of family.  Don’t you deceive
-yourself by supposing for a moment that I am a man of family.  I am a bit
-of dirty riff-raff, and a genuine scrap of tag, rag, and bobtail.’
+‘Oh, my friends and fellow-men!’ said Slackbridge then, shaking his head
+with violent scorn, ‘I do not [[Wonder|wonder]] that you, the prostrate sons of
+labour, are incredulous of the existence of such a man.  But he who sold
+his birthright for a mess of pottage existed, and Judas Iscariot existed,
+and Castlereagh existed, and this man exists!’

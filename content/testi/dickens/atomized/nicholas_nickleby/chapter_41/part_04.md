@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 41 (part 4)"
+title: "Nicholas Nickleby — Chapter 41 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -127,6 +127,3 @@ laugh.
 
 ‘Oh! he’s much the same as usual,’ was the reply. ‘No better and no
 worse.’
-
-‘The young Prince of China,’ said the old gentleman, with much interest.
-‘Is he reconciled to his father-in-law, the great potato salesman?’

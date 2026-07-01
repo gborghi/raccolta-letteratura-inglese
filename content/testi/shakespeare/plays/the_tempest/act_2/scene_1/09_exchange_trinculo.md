@@ -1,5 +1,5 @@
 ---
-title: "The Tempest — Act II, Scene 1 — exchange ([[Trinculo|TRINCULO]]) [9]"
+title: "The Tempest — Act II, Scene 1 — exchange (TRINCULO) [9]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-tempest-(shakespeare)"

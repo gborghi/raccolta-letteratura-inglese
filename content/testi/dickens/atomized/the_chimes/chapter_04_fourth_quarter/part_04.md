@@ -143,13 +143,3 @@ question them, and say to this one, ‘Go to such a place,’ to that one,
 and there, from hand to hand, from [[house]] to [[house]], until he wearied and
 lay down to die; or started up and robbed, and so became a higher sort of
 criminal, whose claims allowed of no delay.  Here, too, she failed.
-
-She loved her [[Child|child]], and wished to have it lying on her breast.  And that
-was quite enough.
-
-It was [[Night|night]]: a bleak, dark, cutting [[Night|night]]: when, pressing the [[Child|child]]
-close to her for warmth, she arrived outside the [[house]] she called her
-[[Home|home]].  She was so faint and giddy, that she saw no one standing in the
-doorway until she was close upon it, and about to enter.  Then, she
-recognised the master of the [[house]], who had so disposed himself—with his
-person it was not difficult—as to fill up the whole entry.

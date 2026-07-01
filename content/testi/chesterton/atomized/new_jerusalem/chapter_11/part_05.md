@@ -27,7 +27,7 @@ that the masses [[Alone|alone]] failed where the two together succeeded.
 But it was the uneducated who educated the educated.
 The case of the Crusade is emphatically not a case in which certain
 ideas were first suggested by a few philosophers, and then preached
-by demagogues to the [[Democracy|democracy]].  This was to a great extent true
+by demagogues to the [[democracy]].  This was to a great extent true
 of the [[French Revolution]]; it was probably yet more true of the
 Russian Revolution; and we need not here pause upon the fine shade
 of difference that Rousseau was right and Karl Marx was wrong.
@@ -101,7 +101,7 @@ like any boy [[Hero|hero]] in a boy's adventure story.  But he was also,
 the realist will be surprised to hear, a perfectly honest man,
 and a perfectly genuine practiser of the theoretical magnanimity
 of knighthood.  Everything about him suggests it; from his first
-[[Conversion|conversion]] from the imperial to the papal (and popular) cause, to his
+[[conversion]] from the imperial to the papal (and popular) cause, to his
 great refusal of the kinghood of the [[City|city]] he had taken; "I will
 not wear a [[Crown|crown]] of gold where my Master wore a [[Crown|crown]] of thorns."
 He was a just ruler, and the laws he made were full of the plainest

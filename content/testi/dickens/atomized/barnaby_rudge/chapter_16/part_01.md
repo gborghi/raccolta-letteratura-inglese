@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 16 (part 1)"
+title: "Barnaby Rudge — Chapter 16 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -106,17 +106,3 @@ gentleman (half-drunk) to Tyburn, dressed in the newest fashion, and
 damning the ordinary with unspeakable gallantry and grace, furnished to
 the populace, at once a pleasant excitement and a wholesome and profound
 example.
-
-Among all the dangerous characters who, in such a state of society,
-prowled and skulked in the metropolis at [[Night|night]], there was one man from
-whom many as uncouth and fierce as he, shrunk with an involuntary dread.
-Who he was, or whence he came, was a question often asked, but which
-none could answer. His name was unknown, he had never been seen until
-within about eight days or thereabouts, and was equally a stranger to
-the old ruffians, upon whose haunts he ventured fearlessly, as to the
-young. He could be no spy, for he never removed his slouched hat to look
-about him, entered into conversation with no man, heeded nothing that
-passed, listened to no discourse, regarded nobody that came or went.
-But so surely as the dead of [[Night|night]] set in, so surely this man was in the
-midst of the loose concourse in the [[Night|night]]-cellar where outcasts of every
-grade resorted; and there he sat till morning.

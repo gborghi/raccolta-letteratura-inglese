@@ -1,5 +1,5 @@
 ---
-title: "[[Don Quixote]] — Chapter 15"
+title: "Don Quixote — Chapter 15"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/don-quixote-(chesterton)"

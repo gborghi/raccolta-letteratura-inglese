@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 13 (part 3)"
+title: "The Mystery of Edwin Drood — Chapter 13 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_14/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_14/part_04">part 04 ›</a></div>
 </nav>
 
+
+“All this that I say of you is true of me as [[Well|well]], Eddy. Unless it was,
+I might not be bold enough to say it. Only, the difference between us
+was, that by little and little there crept into my mind a habit of
+thinking about it, instead of dismissing it. My life is not so busy as
+yours, you see, and I have not so many things to think of. So I thought
+about it very much, and I cried about it very much too (though that was
+not your fault, poor boy); when all at once my guardian came down, to
+prepare for my leaving the Nuns’ [[house|House]]. I tried to hint to him that I
+was not quite settled in my mind, but I hesitated and failed, and he
+didn’t understand me. But he is a good, good man. And he put before me
+so kindly, and yet so strongly, how seriously we ought to consider, in
+our circumstances, that I resolved to speak to you the next moment we
+were [[Alone|alone]] and [[Grave|grave]]. And if I seemed to come to it easily just now,
+because I came to it all at once, don’t think it was so really, Eddy,
+for O, it was very, very hard, and O, I am very, very sorry!”
 
 Her full heart broke into [[Tears|tears]] again. He put his arm about her waist,
 and they walked by the [[River|river]]-side together.
@@ -128,11 +144,3 @@ which he had unwillingly taken them; and there, like old letters or old
 vows, or other records of old aspirations come to nothing, they would
 be disregarded, until, being valuable, they were sold into circulation
 again, to repeat their former round.
-
-Let them be. Let them lie unspoken of, in his breast. However
-distinctly or indistinctly he entertained these thoughts, he arrived at
-the conclusion, Let them be. Among the mighty store of wonderful [[Chains|chains]]
-that are for ever forging, day and [[Night|night]], in the vast iron-works of
-[[Time|time]] and circumstance, there was one chain forged in the moment of that
-small conclusion, riveted to the foundations of heaven and earth, and
-gifted with invincible force to hold and drag.

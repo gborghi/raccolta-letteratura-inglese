@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 38 (part 3)"
+title: "Sense and Sensibility — Chapter 38 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -12,6 +12,18 @@ tags:
 <div class="excerpt-crumb">Austen · <a href="/works/sense-and-sensibility-(austen)">Sense and Sensibility</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_38/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_40/part_01">part 01 ›</a></div>
 </nav>
+
+
+should want company, I am sure we should be very glad to come and stay
+
+with her for as long a [[Time|time]] as she likes. I suppose Lady Middleton
+
+won’t ask us any more this bout. Good-by; I am sorry Miss Marianne was
+
+not here. Remember me kindly to her. La! if you have not got your
+
+spotted muslin on!—I [[Wonder|wonder]] you was not afraid of its being torn.”
+
 
 
 Such was her parting concern; for after this, she had [[Time|time]] only to pay

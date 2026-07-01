@@ -144,9 +144,3 @@ as if he were Father [[Time]], or the Clerk of the
 Weather.  He was called "He."  The fifth [[Time|time]] he
 was called "He," Joan could not understand why she
 seemed to smell the plants in the hot conservatory.
-
-"You see," said Miss Browning, "we mustn't interfere
-with his career; that is the important thing.  And,
-really, I think the quieter we keep about everything
-the better.  I am sure he is maturing very big plans.
-You heard what the [[Prophet]] said the other [[Night|night]]?"

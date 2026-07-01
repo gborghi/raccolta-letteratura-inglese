@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 13 (part 4)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 13 (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -12,6 +12,32 @@ tags:
 <div class="excerpt-crumb">Poe · <a href="/works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)">The Narrative of Arthur Gordon Pym of Nantucket</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_12/part_03">‹ part 03</a><a class="ex-next" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_13/part_01">part 01 ›</a></div>
 </nav>
+
+
+danger, than before.
+
+
+
+The difficulty, however, of now obtaining [[Water|water]] blinded us to all the
+
+benefits of the change in our condition. That we might be ready to
+
+avail ourselves, as far as possible, of any shower which might fall, we
+
+took off our shirts, to make use of them as we had of the sheets--not
+
+hoping, of course, to get more in this way, even under the most
+
+favourable circumstances, than half a gill at a [[Time|time]]. No signs of a
+
+cloud appeared during the day, and the agonies of our thirst were
+
+nearly intolerable. At [[Night|night]] Peters obtained about an hour's disturbed
+
+[[Sleep|sleep]], but my intense sufferings would not permit me to close my eyes
+
+for a single moment.
+
 
 
 _August 5._ To-day, a gentle breeze springing up carried us through a

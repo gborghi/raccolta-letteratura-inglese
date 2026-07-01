@@ -1,5 +1,5 @@
 ---
-title: "[[conversion]] — Chapter 4: THE WORLD INSIDE OUT (part 2)"
+title: "conversion — Chapter 4: THE WORLD INSIDE OUT (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/conversion-(chesterton)"

@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 26 (part 2)"
+title: "Dombey and Son — Chapter 54 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,129 +14,133 @@ tags:
 </nav>
 
 
-“Carker,” said Mr Dombey, taking a chair near him, “I cannot say that
-young man, Gay, ever impressed me favourably—”
+The hot dishes were on a chafing-dish; the cold already set forth, with
+the change of service on a sideboard. Monsieur was satisfied with this
+arrangement. The supper table being small, it pleased him very [[Well|well]].
+Let them set the chafing-dish upon the floor, and go. He would remove
+the dishes with his own hands.
 
-“Nor me,” interposed the Manager.
+“Pardon!” said the bald man, politely. “It was impossible!”
 
-“—But I wish,” said Mr Dombey, without heeding the interruption, “he
-had never gone on board that [[Ship|ship]]. I wish he had never been sent out.
+Monsieur was of another opinion. He required no further attendance that
+[[Night|night]].
 
-“It is a pity you didn’t say so, in good [[Time|time]], is it not?” retorted
-Carker, coolly. “However, I think it’s all for the best. I really,
-think it’s all for the best. Did I mention that there was something
-like a little confidence between Miss Dombey and myself?”
+“But Madame—” the bald man hinted.
 
-“No,” said Mr Dombey, sternly.
+“Madame,” replied Monsieur, “had her own maid. It was enough.”
 
-“I have no [[Doubt|doubt]],” returned Mr Carker, after an impressive pause, “that
-wherever Gay is, he is much better where he is, than at [[Home|home]] here. If I
-were, or could be, in your place, I should be satisfied of that. I am
-quite satisfied of it myself. Miss Dombey is confiding and
-young—perhaps hardly proud enough, for your daughter—if she have a
-fault. Not that that is much though, I am sure. Will you check these
-balances with me?”
+“A million pardons! No! Madame had no maid!”
 
-Mr Dombey leaned back in his chair, instead of bending over the papers
-that were laid before him, and looked the Manager steadily in the face.
-The Manager, with his eyelids slightly raised, affected to be glancing
-at his figures, and to await the leisure of his principal. He showed
-that he affected this, as if from great delicacy, and with a design to
-spare Mr Dombey’s feelings; and the latter, as he looked at him, was
-cognizant of his intended consideration, and felt that but for it, this
-confidential Carker would have said a great deal more, which he, Mr
-Dombey, was too proud to ask for. It was his way in business, often.
-Little by little, Mr Dombey’s gaze relaxed, and his attention became
-diverted to the papers before him; but while busy with the occupation
-they afforded him, he frequently stopped, and looked at Mr Carker
-again. Whenever he did so, Mr Carker was demonstrative, as before, in
-his delicacy, and impressed it on his great chief more and more.
+“I came here [[Alone|alone]],” said Edith “It was my choice to do so. I am [[Well|well]]
+used to travelling; I want no attendance. They need send nobody to me.
 
-While they were thus engaged; and under the skilful culture of the
-Manager, angry thoughts in reference to poor Florence brooded and bred
-in Mr Dombey’s breast, usurping the place of the cold dislike that
-generally reigned there; [[Major Bagstock]], much admired by the old ladies
-of Leamington, and followed by the Native, carrying the usual amount of
-light baggage, straddled along the shady side of the way, to make a
-morning call on Mrs Skewton. It being midday when the Major reached the
-bower of [[Cleopatra]], he had the good fortune to find his Princess on her
-usual sofa, languishing over a cup of coffee, with the room so darkened
-and shaded for her more luxurious repose, that Withers, who was in
-attendance on her, loomed like a [[Phantom|phantom]] page.
+Monsieur accordingly, persevering in his first proposed impossibility,
+proceeded to follow the two attendants to the outer door, and secure it
+after them for the [[Night|night]]. The bald man turning round to bow, as he went
+out, observed that Madame still stood with her hand upon the velvet
+back of the great chair, and that her face was quite regardless of him,
+though she was looking straight before her.
 
-“What insupportable creature is this, coming in?” said Mrs Skewton, “I
-cannot hear it. Go away, whoever you are!”
+As the sound of Carker’s fastening the door resounded through the
+intermediate rooms, and seemed to come hushed and stilled into that
+last distant one, the sound of the [[Cathedral]] [[Clock|clock]] striking twelve
+mingled with it, in Edith’s ears. She heard him pause, as if he heard
+it too and listened; and then came back towards her, laying a long
+train of footsteps through the [[Silence|silence]], and shutting all the doors
+behind him as he came along. Her hand, for a moment, left the velvet
+chair to bring a knife within her reach upon the table; then she stood
+as she had stood before.
 
-“You have not the heart to banish J. B., Ma’am!” said the Major halting
-midway, to remonstrate, with his cane over his shoulder.
+“How strange to come here by yourself, my [[Love|love]]!” he said as he entered.
 
-“Oh it’s you, is it? On second thoughts, you may enter,” observed
-[[Cleopatra]].
+“What?” she returned.
 
-The Major entered accordingly, and advancing to the sofa pressed her
-charming hand to his lips.
+Her tone was so harsh; the quick turn of her head so fierce; her
+attitude so repellent; and her frown so black; that he stood, with the
+lamp in his hand, looking at her, as if she had struck him motionless.
 
-“Sit down,” said [[Cleopatra]], listlessly waving her fan, “a long way off.
-Don’t come too near me, for I am frightfully faint and sensitive this
-morning, and you smell of the Sun. You are absolutely tropical.”
+“I say,” he at length repeated, putting down the lamp, and smiling his
+most courtly smile, “how strange to come here [[Alone|alone]]! It was unnecessary
+caution surely, and might have defeated itself. You were to have
+engaged an attendant at Havre or Rouen, and have had abundance of [[Time|time]]
+for the purpose, though you had been the most capricious and difficult
+(as you are the most beautiful, my [[Love|love]]) of women.”
 
-“By George, Ma’am,” said the Major, “the [[Time|time]] has been when Joseph
-Bagstock has been grilled and blistered by the Sun; then [[Time|time]] was, when
-he was forced, Ma’am, into such full blow, by high hothouse heat in the
-West Indies, that he was known as the Flower. A man never heard of
-Bagstock, Ma’am, in those days; he heard of the Flower—the Flower of
-Ours. The Flower may have faded, more or less, Ma’am,” observed the
-Major, dropping into a much nearer chair than had been indicated by his
-cruel Divinity, “but it is a tough plant yet, and constant as the
-evergreen.”
+Her eyes gleamed strangely on him, but she stood with her hand resting
+on the chair, and said not a word.
 
-Here the Major, under cover of the dark room, shut up one eye, rolled
-his head like a Harlequin, and, in his great [[Self|self]]-satisfaction, perhaps
-went nearer to the confines of apoplexy than he had ever gone before.
+[Illustration]
 
-“Where is Mrs Granger?” inquired [[Cleopatra]] of her page.
+“I have never,” resumed Carker, “seen you look so handsome, as you do
+tonight. Even the picture I have carried in my mind during this cruel
+probation, and which I have contemplated [[Night|night]] and day, is exceeded by
+the reality.”
 
-Withers believed she was in her own room.
+Not a word. Not a look Her eyes completely hidden by their drooping
+lashes, but her head held up.
 
-“Very [[Well|well]],” said Mrs Skewton. “Go away, and shut the door. I am
-engaged.”
+“Hard, unrelenting terms they were!” said Carker, with a smile, “but
+they are all fulfilled and passed, and make the present more delicious
+and more safe. Sicily shall be the place of our retreat. In the idlest
+and easiest part of the world, my [[Soul|soul]], we’ll both seek compensation
+for old [[Slavery|slavery]].”
 
-As Withers disappeared, Mrs Skewton turned her head languidly towards
-the Major, without otherwise moving, and asked him how his friend was.
+He was coming gaily towards her, when, in an instant, she caught the
+knife up from the table, and started one pace back.
 
-“Dombey, Ma’am,” returned the Major, with a facetious gurgling in his
-throat, “is as [[Well|well]] as a man in his condition can be. His condition is
-a desperate one, Ma’am. He is touched, is Dombey! Touched!” cried the
-Major. “He is bayonetted through the [[Body|body]].”
+“Stand still!” she said, “or I shall murder you!”
 
-[[Cleopatra]] cast a sharp look at the Major, that contrasted forcibly with
-the affected drawl in which she presently said:
+The sudden change in her, the towering fury and intense abhorrence
+sparkling in her eyes and lighting up her brow, made him stop as if a
+[[Fire|fire]] had stopped him.
 
-“[[Major Bagstock]], although I know but little of the world,—nor can I
-really regret my experience, for I [[Fear|fear]] it is a false place, full of
-withering conventionalities: where [[Nature]] is but little regarded, and
-where the music of the heart, and the gushing of the [[Soul|soul]], and all that
-sort of thing, which is so truly poetical, is seldom heard,—I cannot
-misunderstand your meaning. There is an allusion to Edith—to my
-extremely dear [[Child|child]],” said Mrs Skewton, tracing the outline of her
-eyebrows with her forefinger, “in your words, to which the tenderest of
-chords vibrates excessively.”
+“Stand still!” she said, “come no nearer me, upon your life!”
 
-“Bluntness, Ma’am,” returned the Major, “has ever been the
-characteristic of the Bagstock breed. You are right. Joe admits it.”
+They both stood looking at each other. Rage and astonishment were in
+his face, but he controlled them, and said lightly,
 
-“And that allusion,” pursued [[Cleopatra]], “would involve one of the
-most—if not positively the most—touching, and thrilling, and sacred
-emotions of which our sadly-fallen [[Nature|nature]] is susceptible, I conceive.”
+“Come, come! Tush, we are [[Alone|alone]], and out of everybody’s sight and
+hearing. Do you think to frighten me with these tricks of virtue?”
 
-The Major laid his hand upon his lips, and wafted a kiss to [[Cleopatra]],
-as if to identify the emotion in question.
+“Do you think to frighten me,” she answered fiercely, “from any purpose
+that I have, and any course I am resolved upon, by reminding me of the
+[[Solitude|solitude]] of this place, and there being no help near? Me, who am here
+[[Alone|alone]], designedly? If I feared you, should I not have avoided you? If I
+feared you, should I be here, in the dead of [[Night|night]], telling you to your
+face what I am going to tell?”
 
-“I feel that I am weak. I feel that I am wanting in that energy, which
-should sustain a Mama: not to say a parent: on such a subject,” said
-Mrs Skewton, trimming her lips with the laced edge of her
-pocket-handkerchief; “but I can hardly approach a topic so excessively
-momentous to my dearest Edith without a feeling of faintness.
-Nevertheless, bad man, as you have boldly remarked upon it, and as it
-has occasioned me great anguish:” Mrs Skewton touched her left side
-with her fan: “I will not shrink from my duty.”
+“And what is that,” he said, “you handsome shrew? Handsomer so, than
+any other woman in her best [[Humour|humour]]?”
+
+“I tell you nothing,” she returned, until you go back to that
+chair—except this, once again—Don’t come near me! Not a step nearer. I
+tell you, if you do, as Heaven sees us, I shall murder you!”
+
+“Do you mistake me for your husband?” he retorted, with a grin.
+
+Disdaining to reply, she stretched her arm out, pointing to the chair.
+He bit his lip, frowned, laughed, and sat down in it, with a baffled,
+irresolute, impatient air, he was unable to conceal; and biting his
+nail nervously, and looking at her sideways, with bitter discomfiture,
+even while he feigned to be amused by her caprice.
+
+She put the knife down upon the table, and touching her bosom with her
+hand, said:
+
+“I have something lying here that is no [[Love|love]] trinket, and sooner than
+endure your touch once more, I would use it on you—and you know it,
+while I speak—with less reluctance than I would on any other creeping
+thing that lives.”
+
+He affected to laugh jestingly, and entreated her to act her play out
+quickly, for the supper was growing cold. But the secret look with
+which he regarded her, was more sullen and lowering, and he struck his
+foot once upon the floor with a muttered oath.
+
+“How many times,” said Edith, bending her darkest glance upon him, “has
+your bold knavery assailed me with outrage and insult? How many times
+in your smooth manner, and mocking words and looks, have I been twitted
+with my courtship and my [[Marriage|marriage]]? How many times have you laid bare my
+wound of [[Love|love]] for that sweet, injured girl and lacerated it? How often
+have you fanned the [[Fire|fire]] on which, for two years, I have writhed; and
+tempted me to take a desperate [[Revenge|revenge]], when it has most tortured me?”

@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 39 (part 4)"
+title: "Villette — Chapter 39 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -38,7 +38,7 @@ Gaining the Rue Fossette, reaching the pensionnat, all there was still;
 no fiacre had yet arrived with Madame and Désirée. I had left the great
 door ajar; should I find it thus? Perhaps the [[Wind|wind]] or some other
 accident may have thrown it to with sufficient force to start the
-[[spring]]-bolt? In that case, hopeless became admission; my adventure must
+[[Spring|spring]]-bolt? In that case, hopeless became admission; my adventure must
 issue in catastrophe. I lightly pushed the heavy leaf; would it yield?
 
 Yes. As soundless, as unresisting, as if some propitious genius had
@@ -59,7 +59,7 @@ usurping shape, supine, long, and strange? Is it a robber who has made
 his way through the open street-door, and lies there in wait? It looks
 very black, I think it looks—not human. Can it be a wandering dog that
 has come in from the street and crept and nestled hither? Will it
-[[spring]], will it leap out if I approach? Approach I must. [[Courage]]! One
+[[Spring|spring]], will it leap out if I approach? Approach I must. [[Courage]]! One
 step!—
 
 My head reeled, for by the faint [[Night|night]]-lamp, I saw stretched on my bed

@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 27 (part 3)"
+title: "Nicholas Nickleby — Chapter 27 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -119,6 +119,3 @@ kind, Sir Mulberry.’
 
 ‘No, no upon my [[Soul|soul]]!’ replied Sir Mulberry Hawk. ‘It’s you that’s kind,
 upon my [[Soul|soul]] it is. It was so kind of you to come tonight.’
-
-‘So very kind of you to invite me, you mean, Sir Mulberry,’ replied Mrs
-Nickleby, tossing her head, and looking prodigiously sly.

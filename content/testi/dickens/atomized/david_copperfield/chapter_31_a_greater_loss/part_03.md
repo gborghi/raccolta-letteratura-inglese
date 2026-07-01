@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 31: A GREATER LOSS (part 3)"
+title: "David Copperfield — Chapter 31: A GREATER LOSS (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_31_a_greater_loss/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_32_the_beginning_of_a_long_journe/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘Ham! what’s the matter?’
+
+‘Mas’r Davy!--’ Oh, for his broken heart, how dreadfully he wept!
 
 I was paralysed by the sight of such grief. I don’t know what I thought,
 or what I dreaded. I could only look at him.

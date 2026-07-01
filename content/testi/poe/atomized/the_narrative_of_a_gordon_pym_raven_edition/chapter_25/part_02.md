@@ -14,6 +14,10 @@ tags:
 </nav>
 
 
+      found only in a valley near the [[Court|court]] of the [[King|king]]—that the
+
+      inhabitants of the group fabricated no other boats than the
+
       flat-bottomed rafts; the four canoes being all of the kind in
 
       their possession, and, these having been obtained, by mere
@@ -203,11 +207,3 @@ tags:
       before us. Many gigantic and pallidly white [[Birds|birds]] flew
 
       continuously now from beyond the veil, and their scream was the
-
-      eternal _Tekeli-li!_as they retreated from our vision. Hereupon
-
-      Nu-Nu stirred in the [[Bottom|bottom]] of the boat; but upon touching him we
-
-      found his spirit departed. And now we rushed into the embraces of
-
-      the cataract, where a chasm threw itself open to receive us. But

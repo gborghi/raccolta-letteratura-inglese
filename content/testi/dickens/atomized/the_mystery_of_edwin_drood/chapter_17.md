@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 16"
+title: "The Mystery of Edwin Drood — Chapter 16"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"

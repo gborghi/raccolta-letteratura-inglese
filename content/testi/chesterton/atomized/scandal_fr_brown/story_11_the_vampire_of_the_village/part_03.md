@@ -14,6 +14,18 @@ tags:
 </nav>
 
 
+He was not so illogical (nor so unorthodox) as to infer from this [[Alone|alone]]
+that she was [[Innocent|innocent]] of the alleged crime. He was [[Well|well]] aware that his
+old religious communion could boast of several distinguished poisoners.
+But he had no difficulty in understanding its connection, in this sort
+of case, with a certain intellectual liberty which these Puritans would
+call laxity; and which would certainly seem to this parochial patch of
+an older England to be almost cosmopolitan. Anyhow, he was sure she
+could count for a great deal, whether for good or evil. Her brown eyes
+were brave to the point of battle, and her enigmatic mouth, humorous and
+rather large, suggested that her purposes touching the parson's poetical
+son, whatever they might be, were planted pretty deep.
+
 The parson's poetical son himself, interviewed amid vast village scandal
 on a bench outside the Blue [[Lion]], gave an impression of pure sulks.
 Hurrel Horner, a son of the Rev. Samuel Horner, was a square - built
@@ -100,29 +112,3 @@ my best scenes and ruined my career? I was the finest Tubal that ever
 trod the boards. He acted [[Shylock]] - he didn't need to act much for that!
 And so with the greatest opportunity of my whole career. I could show
 you press - cuttings on my renderings of Fortinbras - '
-
-'I'm quite sure they were splendid and very [[Well|well]] - deserved,' gasped the
-little priest. 'I understood the company had left the village before
-Maltravers died. But it's all right. It's quite all right.' And he began
-to hurry down the street again.
-
-'He was to act [[Polonius]],' continued the unquenchable orator behind him.
-[[Father Brown]] suddenly stopped dead.
-
-'Oh,' he said very slowly, 'he was to act [[Polonius]].'
-
-'That [[Villain|villain]] Hankin!' shrieked the actor. 'Follow his trail. Follow him
-to the ends of the earth! Of course he'd left the village; trust him for
-that. Follow him - find him; and may the curses - ' But the priest was
-again hurrying away down the street.
-
-Two much more prosaic and perhaps more practical interviews followed
-this melodramatic scene. First the priest went into the bank, where he
-was closeted for ten minutes with the manager; and then paid a very
-proper call on the aged and amiable clergyman. Here again all seemed
-very much as described, unaltered and seemingly unalterable; a touch or
-two of devotion from more austere traditions, in the narrow crucifix on
-the wall, the big [[Bible]] on the bookstand and the old gentleman's opening
-lament over the increasing disregard of [[Sunday]]; but all with a flavour
-of gentility that was not without its little refinements and faded
-luxuries.

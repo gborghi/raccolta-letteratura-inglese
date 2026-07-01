@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 28"
+title: "The Tenant of Wildfell Hall — Chapter 28"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -36,7 +36,7 @@ new and calmer bliss, and stronger hopes to comfort me.
 
 
 
-Dec. 25th, 1823.—Another year is gone. My little [[arthur|Arthur]] lives and
+Dec. 25th, 1823.—Another year is gone. My little [[Arthur]] lives and
 
 thrives. He is healthy, but not robust, full of gentle playfulness and
 
@@ -80,7 +80,7 @@ have now been full two years united; the “[[Romance|romance]]” of our attach
 
 must be worn away. Surely I have now got down to the lowest gradation
 
-in [[arthur|Arthur]]’s affection, and discovered all the evils of his [[Nature|nature]]: if
+in [[Arthur]]’s affection, and discovered all the evils of his [[Nature|nature]]: if
 
 there be any further change, it must be for the better, as we become
 
@@ -92,7 +92,7 @@ have borne it hitherto.
 
 
 
-[[arthur|Arthur]] is not what is commonly called a _bad_ man: he has many good
+[[Arthur]] is not what is commonly called a _bad_ man: he has many good
 
 qualities; but he is a man without [[Self|self]]-restraint or lofty aspirations,
 
@@ -114,7 +114,7 @@ matter how he may be occupied in the meantime.
 
 
 
-Early in [[spring]] he announced his intention of going to [[London]]: his
+Early in [[Spring|spring]] he announced his intention of going to [[London]]: his
 
 affairs there demanded his attendance, he said, and he could refuse it
 
@@ -160,7 +160,7 @@ proposed separate apartments; but it would not do.
 
 
 
-“The [[Truth|truth]] is, [[arthur|Arthur]],” I said at last, “you are weary of my company,
+“The [[Truth|truth]] is, [[Arthur]],” I said at last, “you are weary of my company,
 
 and determined not to have me with you. You might as [[Well|well]] have said so
 
@@ -216,7 +216,7 @@ your being there among your friends, as you call them.”
 
 
 
-“You didn’t last [[Time|time]]. But THIS [[Time|time]], [[arthur|Arthur]],” I added, earnestly,
+“You didn’t last [[Time|time]]. But THIS [[Time|time]], [[Arthur]],” I added, earnestly,
 
 “show me that you can, and teach me that I need not [[Fear|fear]] to trust you!”
 

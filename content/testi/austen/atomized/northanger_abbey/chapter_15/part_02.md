@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 14 (part 2)"
+title: "Northanger Abbey — Chapter 14 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_15/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_15/part_03">part 03 ›</a></div>
 </nav>
 
+
+the true. In the principal facts they have sources of intelligence in
+
+former histories and records, which may be as much depended on, I
 
 conclude, as anything that does not actually pass under one’s own
 
@@ -193,11 +197,3 @@ withered oak which he had placed near its summit, to oaks in general,
 to forests, the enclosure of them, waste lands, [[Crown|crown]] lands and
 
 [[government]], he shortly found himself arrived at politics; and from
-
-politics, it was an easy step to [[Silence|silence]]. The general pause which
-
-succeeded his short disquisition on the state of the nation was put an
-
-end to by Catherine, who, in rather a solemn tone of voice, uttered
-
-these words, “I have heard that something very shocking indeed will

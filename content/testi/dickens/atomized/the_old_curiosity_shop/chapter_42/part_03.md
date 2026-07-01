@@ -14,6 +14,22 @@ tags:
 </nav>
 
 
+‘I blame you!’ returned the person addressed; ‘not for the world, Mr
+Jowl.  I wish I could afford to be as liberal as you; and, as you say,
+he might pay it back if he won--and if he lost--’
+
+‘You’re not to take that into consideration at all,’ said Jowl.
+
+‘But suppose he did (and nothing’s less likely, from all I know of
+chances), why, it’s better to lose other people’s money than one’s own,
+I [[Hope|hope]]?’
+
+‘Ah!’ cried Isaac List rapturously, ‘the pleasures of winning!  The
+delight of picking up the money--the bright, shining yellow-boys--and
+sweeping ‘em into one’s pocket!  The deliciousness of having a triumph
+at last, and thinking that one didn’t stop short and turn back, but
+went half-way to meet it!  The--but you’re not going, old gentleman?’
+
 ‘I’ll do it,’ said the old man, who had risen and taken two or three
 hurried steps away, and now returned as hurriedly.  ‘I’ll have it,
 every penny.’

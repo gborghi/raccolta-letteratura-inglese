@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The [[Resurrection]] of [[Father Brown]]"
+title: "incredulity Fr Brown — The Resurrection of Father Brown"
 author: "Chesterton"
 unitType: story
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -20,7 +20,7 @@ THERE was a brief period during which [[Father Brown]] enjoyed, or rather
 did not enjoy, something like fame. He was a nine days' [[Wonder|wonder]] in the
 newspapers; he was even a common topic of controversy in the weekly
 reviews; his exploits were narrated eagerly and inaccurately in any
-number of clubs and drawing - rooms, especially in [[america|America]]. Incongruous
+number of clubs and drawing - rooms, especially in [[America]]. Incongruous
 and indeed incredible as it may seem to any one who knew him, his
 adventures as a [[Detective|detective]] were even made the subject of short stories
 appearing in magazines.
@@ -29,7 +29,7 @@ Strangely enough, this wandering limelight struck him in the most
 obscure, or at least the most remote, of his many places of residence.
 He had been sent out to officiate, as something between a missionary and
 a parish priest, in one of those sections of the northern coast of South
-[[america|America]], where strips of country still cling insecurely to European
+[[America]], where strips of country still cling insecurely to European
 powers, or are continually threatening to become independent republics,
 under the gigantic [[Shadow|shadow]] of President Monroe. The population was red
 and brown with pink spots; that is, it was Spanish - American, and
@@ -189,7 +189,7 @@ Middle West. He took snapshots of the unfortunate cleric in the most
 commonplace occupations, and exhibited them in gigantic photographs in
 the gigantic [[Sunday]] papers of the United States. He turned his sayings
 into slogans, and was continually presenting the world with 'A message'
-from the reverend gentleman in South [[america|America]]. Any stock less strong and
+from the reverend gentleman in South [[America]]. Any stock less strong and
 strenuously receptive than the American race would have become very much
 bored with [[Father Brown]]. As it was, he received handsome and eager
 offers to go on a lecturing tour in the States; and when he declined,
@@ -279,7 +279,7 @@ American, particularly different from Mr Paul Snaith. His name was John
 Adams Race, and he was an electrical engineer, employed by Mendoza to
 fit out the old town with all the new conveniences. He was a figure far
 less familiar in [[Satire|satire]] and international gossip than that of the
-American journalist. Yet, as a matter of fact, [[america|America]] contains a
+American journalist. Yet, as a matter of fact, [[America]] contains a
 million men of the moral type of Race to one of the moral type of
 Snaith. He was exceptional in being exceptionally good at his job, but
 in every other way he was very simple. He had begun life as a druggist's
@@ -477,7 +477,7 @@ little, he went on in a tone still angry but more argumentative: 'I
 don't believe it, but you do. Isn't it better to have no God than one
 that robs you in this fashion? I, at least, am not afraid to say that
 there is none. There is no power in all this blind and brainless
-universe that can hear your [[prayer]] or return your friend. Though you beg
+universe that can hear your [[Prayer|prayer]] or return your friend. Though you beg
 Heaven to raise him, he will not rise. Though I dare Heaven to raise
 him, he will not rise. Here and now I will put it to the test - I defy
 the God who is not there to waken the man who sleeps for ever.'

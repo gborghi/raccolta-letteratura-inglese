@@ -1,5 +1,5 @@
 ---
-title: "[[Don Quixote]] — Chapter 9 (part 1)"
+title: "Don Quixote — Chapter 9 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/don-quixote-(chesterton)"
@@ -117,9 +117,3 @@ It seemed that the next stoppage of the crawling cab would be a little
 further down the street, outside the lodgings where lived a man
 whom the [[cabman]] had sometimes met in the neighbouring public [[house]];
 a curious card by the name of Hendry.
-
-Murrel having, by this circuitous route, at last reached his [[Desire|desire]],
-almost leapt like an unleashed hound.  He inquired the number
-in the street which was honoured by Mr. Hendry's residence;
-and almost immediately after went striding down the steep
-street towards it.

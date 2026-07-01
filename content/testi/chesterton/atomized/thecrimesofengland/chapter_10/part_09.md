@@ -1,5 +1,5 @@
 ---
-title: "[[TheCrimesOfEngland]] — Chapter 10 (part 9)"
+title: "TheCrimesOfEngland — Chapter 10 (part 9)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thecrimesofengland-(chesterton)"
@@ -13,6 +13,48 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thecrimesofengland/chapter_10/part_08">‹ part 08</a><a class="ex-next" href="/testi/chesterton/atomized/thecrimesofengland/chapter_10/part_10">part 10 ›</a></div>
 </nav>
 
+
+Castlereagh. Austria, though she had lately fallen to a somewhat
+
+treasonable toying with heathens and heretics of Turkey and Prussia,
+
+still retained something of the old Catholic comfort for the [[Soul|soul]].
+
+Priests still bore witness to that mighty mediaeval institution which
+
+even its enemies concede to be a noble [[nightmare]]. All their hoary
+
+political iniquities had not deprived them of that dignity. If they
+
+darkened the sun in heaven, they clothed it with the strong colours of
+
+sunrise in garment or gloriole; if they had given men stones for bread,
+
+the stones were carved with kindly faces and fascinating tales. If
+
+justice counted on their shameful gibbets hundreds of the [[Innocent|innocent]] dead,
+
+they could still say that for them [[Death|death]] was more hopeful than life for
+
+the heathen. If the new daylight discovered their vile tortures, there
+
+had lingered in the darkness some dim [[Memory|memory]] that they were tortures of
+
+Purgatory and not, like those which Parisian and Prussian diabolists
+
+showed shameless in the sunshine, of naked hell. They claimed a [[Truth|truth]]
+
+not yet disentangled from human [[Nature|nature]]; for indeed earth is not even
+
+earth without heaven, as a landscape is not a landscape without the sky.
+
+And in, a universe without God there is not room enough for a man.
+
+It may be held, therefore, that there must in any case have come a
+
+conflict between the old world and the new; if only because the old are
+
+often broad, while the young are always narrow. The Church had learnt,
 
 not at the end but at the beginning of her centuries, that the funeral
 
@@ -37,8 +79,6 @@ had any tincture of Jacobin idealism. Neither of them, therefore, had
 any real moral reason for being in the war at all. The first was
 
 England, and the second was Prussia.
-
-
 
 It is very arguable that England must, in any case, have fought to keep
 
@@ -80,8 +120,6 @@ still, as it was called in the Middle Ages, a [[Garden|garden]]; but it is the k
 
 where grow the plants called "lords and ladies."
 
-
-
 We became more and more insular even about our continental conquests; we
 
 stood upon our island as if on an anchored [[Ship|ship]]. We never thought of
@@ -97,8 +135,6 @@ true. It only changes the tale from a [[Tragedy|tragedy]] of choice to a [[Trage
 chance. And the [[Tragedy|tragedy]] was that, for a second [[Time|time]], we were at one with
 
 the Germans.
-
-
 
 But if England had nothing to fight for but a compromise, Prussia had
 
@@ -126,8 +162,6 @@ had not the star of one solitary ideal to light the [[Night|night]] of her
 
 nihilism.
 
-
-
 The [[French Revolution]] has a quality which all men feel; and which may be
 
 called a sudden antiquity. Its classicalism was not altogether a cant.
@@ -149,49 +183,3 @@ and top-hats beginning to be tried. And it is a curious fact, giving a
 kind of completeness to this sense of the thing as something that
 
 happened outside the world, that its first great act of arms and also
-
-its last were both primarily symbols; and but for this visionary
-
-character, were in a manner vain. It began with the taking of the old
-
-and almost empty [[Prison|prison]] called the Bastille; and we always think of it
-
-as the beginning of the Revolution, though the real Revolution did not
-
-come till some [[Time|time]] after. And it ended when Wellington and Blucher met
-
-in 1815; and we always think of it as the end of Napoleon; though
-
-Napoleon had really fallen before. And the popular imagery is right, as
-
-it generally is in such things: for the mob is an [[artist]], though not a
-
-man of science. The riot of the 14th of July did not specially deliver
-
-prisoners inside the Bastille, but it did deliver the prisoners outside.
-
-Napoleon when he returned was indeed a _revenant_, that is, a [[Ghost|ghost]]. But
-
-Waterloo was all the more final in that it was a spectral [[Resurrection|resurrection]]
-
-and a second [[Death|death]]. And in this second case there were other elements
-
-that were yet more strangely symbolic. That doubtful and [[Double|double]] battle
-
-before Waterloo was like the dual personality in [[A Dream|a dream]]. It
-
-corresponded curiously to the [[Double|double]] mind of the Englishman. We connect
-
-Quatre Bras with things romantically English to the verge of
-
-sentimentalism, with Byron and "The Black Brunswicker." We naturally
-
-sympathise with Wellington against Ney. We do not sympathise, and even
-
-then we did not really sympathise, with Blucher against Napoleon.
-
-[[Germany]] has complained that we passed over lightly the presence of
-
-Prussians at the decisive action. And [[Well|well]] we might. Even at the [[Time|time]]
-
-our sentiment was not solely [[Jealousy|jealousy]], but very largely shame.

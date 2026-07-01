@@ -361,7 +361,7 @@ Thus it happened that his contribution to the metrical
 inquiry into the crooked roads was avowedly hasty
 and flippant.  While Dorian who was of the opposite
 temper, the temper that receives impressions instead
-of pushing out to make them, found his [[Artist|artist]]'s [[Love|love]]
+of pushing out to make them, found his [[artist]]'s [[Love|love]]
 of [[Beauty|beauty]] fulfilled as it had never been before in that
 noble nest; and was far more serious and human than
 usual.  Patrick's verses ran:

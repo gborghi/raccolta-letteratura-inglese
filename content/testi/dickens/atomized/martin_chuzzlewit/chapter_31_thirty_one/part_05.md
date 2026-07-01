@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 31: THIRTY ONE (part 5)"
+title: "Martin Chuzzlewit — Chapter 31: THIRTY ONE (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_31_thirty_one/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_31_thirty_one/part_06">part 06 ›</a></div>
 </nav>
 
+
+No physiognomist that ever dwelt on earth could have construed Tom’s
+face when he heard these words. [[Wonder]] was in it, and a mild look of
+reproach, but certainly no [[Fear|fear]] or [[Guilt|guilt]], although a host of strong
+emotions struggled to display themselves. He bowed, and without saying
+one word, good or bad, withdrew.
 
 ‘Pecksniff,’ cried Martin, in a tremble, ‘what does all this mean? You
 are not going to do anything in haste, you may regret!’
@@ -36,7 +42,7 @@ before thy elevation to the lofty seat, from which thou dealest out thy
 homilies to other tarriers for dead men’s shoes, whose duty to society
 has not begun! Oh! magistrate, so rare a country gentleman and brave a
 squire, had you no duty to society, before the ricks were blazing and
-the mob were mad; or did it [[Spring|spring]] up, armed and booted from the earth,
+the mob were mad; or did it [[spring]] up, armed and booted from the earth,
 a corps of yeomanry full-grown!
 
 Mr Pecksniff’s duty to society could not be paid till Tom came back. The
@@ -128,10 +134,3 @@ mistaken in his ‘fragments.’ Deny it! No.
 ‘A person is waiting in the kitchen,’ said Mr Pecksniff, ‘to carry
 your luggage wherever you please. We part, Mr Pinch, at once, and are
 strangers from this [[Time|time]].’
-
-Something without a name; compassion, sorrow, old tenderness, mistaken
-gratitude, habit; none of these, and yet all of them; smote upon Tom’s
-gentle heart at parting. There was no such [[Soul|soul]] as Pecksniff’s in
-that carcase; and yet, though his speaking out had not involved the
-compromise of one he loved, he couldn’t have denounced the very shape
-and figure of the man. Not even then.

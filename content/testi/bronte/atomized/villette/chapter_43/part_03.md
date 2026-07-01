@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 41 (part 3)"
+title: "Villette — Chapter 41 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_43/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_43/part_04">part 04 ›</a></div>
 </nav>
 
+
+“Indeed, I had not: I was doing my best to save what would enable me to
+put it in practice.”
 
 “He did not like leaving me in the Rue Fossette; he feared I should
 miss him there too much—I should feel desolate—I should grow sad—?”

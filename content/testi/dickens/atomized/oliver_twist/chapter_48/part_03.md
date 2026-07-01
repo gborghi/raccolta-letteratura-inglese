@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 48 (part 3)"
+title: "Oliver Twist — Chapter 48 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_48/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_49/part_01">part 01 ›</a></div>
 </nav>
 
+
+At times, he turned, with desperate determination, resolved to beat
+this [[Phantom|phantom]] off, though it should look him dead; but the hair [[Rose|rose]] on
+his head, and his [[Blood|blood]] stood still, for it had turned with him and was
+behind him then. He had kept it before him that morning, but it was
+behind now—always. He leaned his back against a bank, and felt that it
+stood above him, visibly out against the cold [[Night|night]]-sky. He threw
+himself upon the [[Road|road]]—on his back upon the [[Road|road]]. At his head it stood,
+silent, erect, and still—a living [[Grave|grave]]-stone, with its epitaph in
+[[Blood|blood]].
+
+Let no man talk of murderers escaping justice, and hint that [[Providence]]
+must [[Sleep|sleep]]. There were twenty score of violent deaths in one long
+minute of that agony of [[Fear|fear]].
 
 There was a shed in a field he passed, that offered shelter for the
 [[Night|night]]. Before the door, were three tall poplar trees, which made it

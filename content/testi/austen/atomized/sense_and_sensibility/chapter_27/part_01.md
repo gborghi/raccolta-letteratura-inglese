@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 27 (part 1)"
+title: "Sense and Sensibility — Chapter 27 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -265,7 +265,3 @@ communicate, and I, because I conceal nothing.”
 
 
 Elinor, distressed by this charge of reserve in herself, which she was
-
-not at liberty to do away, knew not how, under such circumstances, to
-
-press for greater openness in Marianne.

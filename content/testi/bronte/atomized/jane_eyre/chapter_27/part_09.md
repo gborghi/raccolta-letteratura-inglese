@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 27 (part 9)"
+title: "Jane Eyre — Chapter 27 (part 9)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_27/part_08">‹ part 08</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_28/part_01">part 01 ›</a></div>
 </nav>
 
+
+He turned away; he threw himself on his face on the sofa. “Oh, Jane! my
+[[Hope|hope]]—my [[Love|love]]—my life!” broke in anguish from his lips. Then came a
+deep, strong sob.
+
+I had already gained the door; but, reader, I walked back—walked back
+as determinedly as I had retreated. I knelt down by him; I turned his
+face from the cushion to me; I kissed his cheek; I smoothed his hair
+with my hand.
 
 “God bless you, my dear master!” I said. “God keep you from harm and
 wrong—direct you, solace you—reward you [[Well|well]] for your past kindness to
@@ -77,7 +86,7 @@ listened. There was a heaven—a temporary heaven—in this room for me, if
 I chose: I had but to go in and to say—
 
 “Mr. Rochester, I will [[Love|love]] you and live with you through life till
-[[Death|death]],” and a fount of rapture would [[spring]] to my lips. I thought of
+[[Death|death]],” and a fount of rapture would [[Spring|spring]] to my lips. I thought of
 this.
 
 That kind master, who could not [[Sleep|sleep]] now, was waiting with impatience

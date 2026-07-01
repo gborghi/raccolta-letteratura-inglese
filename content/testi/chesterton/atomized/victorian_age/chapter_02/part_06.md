@@ -14,6 +14,36 @@ tags:
 </nav>
 
 
+[[Novel|novel]] from Smollett and the rest. Dickens, as we have also stated,
+
+consented to expurgate that [[Novel|novel]]. But when all origins and all
+
+restraints have been defined and allowed for, the creature that came out
+
+was such as we shall not see again. Smollett was coarse; but Smollett
+
+was also cruel. Dickens was frequently horrible; he was never cruel. The
+
+art of Dickens was the most exquisite of arts: it was the art of
+
+enjoying everybody. Dickens, being a very human writer, had to be a very
+
+human being; he had his faults and sensibilities in a strong degree; and
+
+I do not for a moment maintain that he enjoyed everybody in his daily
+
+life. But he enjoyed everybody in his books: and everybody has enjoyed
+
+everybody in those books even till to-day. His books are full of baffled
+
+villains stalking out or cowardly bullies kicked downstairs. But the
+
+villains and the cowards are such delightful people that the reader
+
+always hopes the [[Villain|villain]] will put his head through a side [[Window|window]] and
+
+make a last remark; or that the bully will say one thing more, even from
+
 the [[Bottom|bottom]] of the stairs. The reader really hopes this; and he cannot
 
 get rid of the fancy that the author hopes so too. I cannot at the
@@ -53,8 +83,6 @@ creating people, both possible and impossible, who were simply precious
 and priceless people; and anything subtler added to that [[Truth|truth]] really
 
 only weakens it.
-
-
 
 The mention of Mrs. Wilfer (whom the heart is loth to leave) reminds one
 
@@ -110,8 +138,6 @@ factions he satirised; he was larger than any of our great social
 
 schools that have gone forward since he died.
 
-
-
 The seemingly quaint custom of comparing Dickens and Thackeray existed
 
 in their own [[Time|time]], and no one will dismiss it with entire disdain who
@@ -151,41 +177,3 @@ not told us so much [[Truth|truth]] about them. It was the special and not less
 splendid task of Thackeray to introduce us to people whom we knew
 
 already. Paradoxically, but very practically, it followed that his
-
-introductions were the longer of the two. When we hear of Aunt Betsy
-
-Trotwood, we vividly envisage everything about her, from her gardening
-
-gloves to her seaside residence, from her hard, handsome face to her
-
-tame lunatic laughing at the bedroom [[Window|window]]. It is all so minutely true
-
-that she must be true also. We only feel inclined to walk round the
-
-English coast until we find that particular [[Garden|garden]] and that particular
-
-aunt. But when we turn from the aunt of Copperfield to the uncle of
-
-Pendennis, we are more likely to run round the coast trying to find a
-
-watering-place where he isn't than one where he is. The moment one sees
-
-Major Pendennis, one sees a hundred Major Pendennises. It is not a
-
-matter of mere realism. Miss Trotwood's bonnet and gardening tools and
-
-cupboard full of old-fashioned bottles are quite as true in the
-
-materialistic way as the Major's cuffs and corner table and toast and
-
-newspaper. Both writers are realistic: but Dickens writes realism in
-
-order to make the incredible credible. Thackeray writes it in order to
-
-make us recognise an old friend. Whether we shall be pleased to meet the
-
-old friend is quite another matter: I think we should be better pleased
-
-to meet Miss Trotwood, and find, as [[David Copperfield]] did, a new friend,
-
-a new world. But we recognise Major Pendennis even when we avoid him.

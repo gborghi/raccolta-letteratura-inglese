@@ -14,118 +14,104 @@ tags:
 </nav>
 
 
-The first stages of the political or commercial quarrel can be
-followed in far too much detail, precisely because it is merely
-political or commercial.  The Punic Wars looked at one [[Time|time]] as if they
-would never end; and it is not easy to say when they ever began.
-The Greeks and the Sicilians had already been fighting vaguely on
-the European side against the African [[City|city]].  Carthage had defeated
-Greece and conquered Sicily.  Carthage had also planted herself
-firmly in Spain; and between Spain and Sicily the Latin [[City|city]] was
-contained and would have been crushed; if the Romans had been of
-the sort to be easily crushed.  Yet the interest of the story really
-consists in the fact that Rome was crushed.  If there had not been
-certain moral elements as [[Well|well]] as the material elements, the story
-would have ended where Carthage certainly thought it had ended.
-It is common enough to blame Rome for not making peace.
-But it was a true popular instinct that there could be no peace with
-that sort of people.  It is common enough to blame the Roman for his
-Delenda est Carthago; Carthage must be destroyed.  It is commoner to
-forget that, to all appearance, Rome itself was destroyed.  The sacred
-savour that hung round Rome for ever, it is too often forgotten,
-clung to her partly because she had risen suddenly from the dead.
-Carthage was an aristocracy, as are most of such mercantile states.
-The pressure of the rich on the poor was impersonal as [[Well|well]]
-as irresistible.  For such aristocracies never permit personal [[government]],
-which is perhaps why this one was jealous of personal talent.
-But genius can turn up anywhere, even in a governing class.
-As if to make the world's supreme test as terrible as possible,
-it was ordained that one of the great houses of Carthage should
-produce a man who came out of those gilded palaces with all
-the energy and originality of Napoleon coming from nowhere.
-At the worst crisis of the war Rome learned that [[Italy]] itself,
-by a military miracle, was invaded from the north.  Hannibal, the Grace
-of Baal as his name ran in his own tongue, had dragged a ponderous
-chain of armaments over the starry solitudes of the Alps;
-and pointed southward to the [[City|city]] which he had been pledged by all
-his dreadful gods to destroy.
+Men are moved in these things by something far higher and holier
+than policy; by hatred.  When men hung on in the darkest days
+of the Great War, [[Suffering|suffering]] either in their bodies or in their souls
+for those they loved, they were long past caring about details
+of diplomatic objects as motives for their refusal to surrender.
+Of myself and those I knew best I can answer for the vision that made
+surrender impossible.  It was the vision of the German Emperor's
+face as he rode into [[Paris]].  This is not the sentiment which some
+of my idealistic friends describe as [[Love]].  I am quite content
+to call it hatred; the hatred of hell and all its works, and to agree
+that as they do not believe in hell they need not believe in hatred.
+But in the face of this prevalent prejudice, this long introduction
+has been unfortunately necessary, to ensure an understanding
+of what is meant by a religious war.  There is a religious war
+when two worlds meet; that is when two visions of the world meet;
+or in more modern language when two moral atmospheres meet.
+What is the one man's breath is the other man's [[Poison|poison]];
+and it is vain to talk of giving a pestilence a place in the sun.
+And this is what we must understand, even at the expense of digression,
+if we would see what really happened in the Mediterranean;
+when right athwart the rising of the Republic on the Tiber,
+a thing overtopping and disdaining it, dark with all the riddles
+of Asia and trailing all the tribes and dependencies of imperialism,
+came Carthage riding on the sea.
 
-Hannibal marched down the [[Road|road]] to Rome, and the Romans who rushed
-to war with him felt as if they were fighting with a magician.
-Two great armies sank to right and left of him into the swamps
-of the Trebia; more and more were sucked into the horrible whirlpool
-of Cannae; more and more went forth only to fall in ruin at his touch.
-The supreme sign of all disasters, which is treason, turned tribe after
-tribe against the falling cause of Rome, and still the unconquerable
-enemy rolled nearer and nearer to the [[City|city]]; and following their
-great leader the swelling cosmopolitan army of Carthage passed
-like a pageant of the whole world; the elephants shaking the earth
-like marching [[Mountains|mountains]] and the gigantic Gauls with their barbaric
-panoply and the dark Spaniards girt in gold and the brown Numidians
-on their unbridled [[Desert|desert]] horses wheeling and darting like hawks,
-and whole mobs of deserters and mercenaries and miscellaneous peoples;
-and the grace of Baal went before them.
+The ancient religion of [[Italy]] was on the whole that mixture which we
+have considered under the head of mythology; save that where
+the Greeks had a natural turn for the mythology, the Latins seem
+to have had a real turn for religion.  Both multiplied gods, yet they
+sometimes seem to have multiplied them for almost opposite reasons.
+It would seem sometimes as if the Greek polytheism branched
+and blossomed upwards like the boughs of a tree, while the Italian
+polytheism ramified downward like the roots.  Perhaps it would
+be truer to say that the former branches lifted themselves lightly,
+bearing [[Flowers|flowers]]; while the latter hung down, being heavy with fruit.
+I mean that the Latins seem to multiply gods to bring them nearer to men,
+while the Greek gods [[Rose|rose]] and radiated outwards into the morning sky.
+What strikes us in the Italian cults is their local and especially
+their domestic character.  We gain the impression of divinities
+swarming about the [[house]] like flies; of deities clustering
+and clinging like bats about the pillars or building like [[Birds|birds]]
+under the eaves.  We have a vision of a god of roofs and a god
+of gate-posts, of a god of doors and even a god of drains.
+It has been suggested that all mythology was a sort of fairy-tale;
+but this was a particular sort of fairy-tale which may truly be
+called a fireside tale, or a nursery-tale; because it was a tale
+of the interior of the [[Home|home]]; like those which make chairs and tables
+talk like elves.  The old household gods of the Italian peasants
+seem to have been great, clumsy, wooden images, more featureless
+than the figure-head which Quilp battered with the poker.
+This religion of the [[Home|home]] was very homely.  Of course there were
+other less human elements in the tangle of Italian mythology.
+There were Greek deities superimposed on the Roman; there were
+here and there uglier things underneath, experiments in the cruel
+kind of paganism, like the Arician rite of the priest slaying
+the slayer.  But these things were always potential in paganism;
+they are certainly not the peculiar character of Latin paganism.
+The peculiarity of that may be roughly covered by saying that if
+mythology personified the forces of [[Nature|nature]], this mythology personified
+[[Nature|nature]] as transformed by the forces of man.  It was the god
+of the corn and not of the grass, of the cattle and not the wild
+things of the forest; in short the cult was literally a culture;
+as when we speak of it as agriculture.
 
-The Roman augurs and scribes who said in that hour that it brought forth
-unearthly prodigies, that a [[Child|child]] was born with the head of an elephant
-or that [[Stars|stars]] fell down like hailstones, had a far more philosophical
-grasp of what had really happened than the modern historian who can see
-nothing in it but a [[success]] of strategy concluding a rivalry in commerce.
-Something far different was felt at the [[Time|time]] and on the spot,
-as it is always felt by those who experience a foreign atmosphere
-entering their own like a fog or a foul savour.  It was no mere
-military defeat, it was certainly no mere mercantile rivalry,
-that filled the Roman [[Imagination|imagination]] with such hideous omens of [[Nature|nature]]
-herself becoming unnatural.  It was Moloch upon the mountain
-of the Latins, looking with his appalling face across the plain;
-it was Baal who trampled the vineyards with his feet of stone;
-it was the voice of Tanit the invisible, behind her trailing veils,
-whispering of the [[Love|love]] that is more horrible than hate.
-The burning of the Italian cornfields, the ruin of the Italian vines,
-were some thing more than actual; they were allegorical.
-They were the destruction of domestic and fruitful things,
-the withering of what was human before that inhumanity that is far
-beyond the human thing called cruelty.  The household gods bowed low
-in darkness under their lowly roofs; and above them went the demons upon
-a [[Wind|wind]] from beyond all walls, blowing the trumpet of the Tramontane.
-The door of the Alps was broken down; and in no vulgar but a
-very solemn sense, it was Hell let loose.  The war of the gods
-and demons seemed already to have ended; and the gods were dead.
-The eagles were lost, the legions were broken; and in Rome nothing
-remained but [[Honour|honour]] and the cold [[Courage|courage]] of [[Despair|despair]].
+With this there was a [[Paradox|paradox]] which is still for many the puzzle
+or [[Riddle|riddle]] of the Latins.  With religion running through every
+domestic detail like a climbing plant, there went what seems
+to many the very opposite spirit; the spirit of revolt.
+Imperialists and reactionaries often involve Rome as the very
+model of order and obedience; but Rome was the very reverse.
+The real [[history]] of [[Ancient Rome|ancient Rome]] is much more like the [[history]]
+of modern [[Paris]].  It might be called in modern language a [[City|city]]
+built out of barricades.  It is said that the gate of Janus
+was never closed because there was an eternal war without;
+it is almost as true that there was an eternal revolution within.
+From the first Plebeian riots to the last Servile Wars, the state
+that imposed peace on the world was never really at peace.
+The rulers were themselves rebels.
 
-In the whole world one thing still threatened Carthage, and that
-was Carthage.  There still remained the inner working of an element
-strong in all successful commercial states, and the presence of a
-spirit that we know.  There was still the solid sense and shrewdness
-of the men who manage big enterprises; there was still the advice
-of the best financial experts; there was still business [[government]];
-there was still the broad and sane outlook of practical men
-of affairs, and in these things could the Romans [[Hope|hope]].
-As the war trailed on to what seemed its tragic end, there grew
-gradually a faint and strange possibility that even now they
-might not [[Hope|hope]] in vain.  The plain business men of Carthage,
-thinking as such men do in terms of living and dying races,
-saw clearly that Rome was not only dying but dead.  The war was over;
-it was obviously hopeless for the Italian [[City|city]] to resist any longer,
-and inconceivable that anybody should resist when it was hopeless.
-Under these circumstances, another set of broad, sound business
-principles remained to be considered.  Wars were waged with money,
-and consequently cost money; perhaps they felt in their hearts,
-as do so many of their kind, that after all war must be a little
-wicked because it costs money.  The [[Time|time]] had now come for peace;
-and still more for economy.  The messages sent by Hannibal from [[Time|time]]
-to [[Time|time]] asking for reinforcements were a ridiculous anachronism;
-there were much more important things to attend to now.
-It might be true that some consul or other had made a last dash
-to the Metaurus, had killed Hannibal's brother and flung his head,
-with Latin fury, into Hannibal's camp; and mad actions of that sort
-showed how utterly hopeless the Latins felt about their cause.
-But even excitable Latins could not be so mad as to cling
-to a lost cause for ever.  So argued the best financial experts;
-and tossed aside more and more letters, full of rather queer
-alarmist reports.  So argued and acted the great Carthaginian Empire.
-That meaningless prejudice, the curse of commercial states, that stupidity
-is in some way practical and that genius is in some way futile,
-led them to starve and abandon that great [[artist]] in the school of arms,
-whom the gods had given them in vain.
+There is a real relation between this religion in private and this
+revolution in public life.  Stories none the less heroic for being
+hackneyed remind us that the Republic was founded on a tyrannicide
+that avenged an insult to a wife; that the Tribunes of the people were
+re-established after another which avenged an insult to a daughter.
+The [[Truth|truth]] is that only men to whom the family is sacred will ever
+have a standard or a status by which to criticise the state.
+They [[Alone|alone]] can appeal to something more holy than the gods of the [[City|city]];
+the gods of the hearth.  That is why men are mystified in seeing
+that the same nations that are thought rigid in domesticity are also
+thought restless in politics, for instance the Irish and the French.
+It is worth while to dwell on this domestic point because it is
+an exact example of what is meant here by the inside of [[history]],
+like the inside of houses.  Merely political histories of Rome may be
+right enough in saying that this or that was a cynical or cruel act
+of the Roman politicians; but the spirit that lifted Rome from beneath
+was the spirit of all the Romans; and it is not a cant to call it
+the ideal of Cincinnatus passing from the senate to the plough.
+Men of that sort had strengthened their village on every side,
+had extended its victories already over Italians and even over Greeks,
+when they found themselves confronted with a war that changed the world.
+I have called it here the war of the gods and demons.

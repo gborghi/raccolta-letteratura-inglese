@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 13 (part 1)"
+title: "Shirley — Chapter 13 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_12/part_07">‹ part 07</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_13/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_12/part_08">‹ part 08</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_13/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -239,7 +239,3 @@ her port--what is natural to and inseparable from her, what she retains
 in her most careless as in her most guarded moments. Robert must think,
 
 as I think, that he is at this instant looking down on a fine face; and
-
-he must think it with a man's brain, not with mine. She has such
-
-generous yet soft [[Fire|fire]] in her eyes. She smiles--what makes her smile so

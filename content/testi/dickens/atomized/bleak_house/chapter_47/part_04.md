@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 47 (part 4)"
+title: "Bleak House — Chapter 47 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_47/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_47/part_05">part 05 ›</a></div>
 </nav>
 
+
+Mr. George has been so excited that he finds it necessary to wipe his
+forehead on his shirt-sleeve. Even while he whistles his impetuosity
+away with the national anthem, some involuntary shakings of his head
+and heavings of his chest still linger behind, not to mention an
+occasional hasty adjustment with both hands of his open shirt-collar,
+as if it were scarcely open enough to prevent his being troubled by a
+choking sensation. In short, Allan Woodcourt has not much [[Doubt|doubt]] about
+the going down of Mr. Tulkinghorn on the field referred to.
 
 Jo and his conductor presently return, and Jo is assisted to his
 mattress by the careful Phil, to whom, after due administration of
@@ -131,19 +140,3 @@ with his cough of sympathy.
 “I am in luck, Mr. Sangsby, I am,” returns Jo, “and don’t want for
 nothink. I’m more cumfbler nor you can’t think. Mr. Sangsby! I’m wery
 sorry that I done it, but I didn’t go fur to do it, sir.”
-
-The stationer softly lays down another half-[[Crown|crown]] and asks him what
-it is that he is sorry for having done.
-
-“Mr. Sangsby,” says Jo, “I went and giv a illness to the lady as wos
-and yit as warn’t the t’other lady, and none of ’em never says
-nothink to me for having done it, on accounts of their being ser good
-and my having been s’unfortnet. The lady come herself and see me
-yesday, and she ses, ‘Ah, Jo!’ she ses. ‘We thought we’d lost you,
-Jo!’ she ses. And she sits down a-smilin so quiet, and don’t pass a
-word nor yit a look upon me for having done it, she don’t, and I
-turns agin the wall, I doos, Mr. Sangsby. And Mr. Jarnders, I see him
-a-forced to turn away his own [[Self|self]]. And Mr. Woodcot, he come fur to
-giv me somethink fur to ease me, wot he’s allus a-doin’ on day and
-[[Night|night]], and wen he come a-bending over me and a-speakin up so bold, I
-see his [[Tears|tears]] a-fallin, Mr. Sangsby.”

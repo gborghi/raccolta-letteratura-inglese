@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 61 (part 3)"
+title: "Nicholas Nickleby — Chapter 61 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -130,26 +130,3 @@ could not efface; and that I had fruitlessly endeavoured to trace her,
 and become acquainted with her [[history]]. I did not tell you so, because
 I vainly thought I could conquer my weaker feelings, and render every
 consideration subservient to my duty to you.’
-
-‘Mr. Nickleby,’ said brother Charles, ‘you did not violate the confidence
-I placed in you, or take an unworthy advantage of it. I am sure you did
-not.’
-
-‘I did not,’ said Nicholas, firmly. ‘Although I found that the necessity
-for [[Self|self]]-command and restraint became every day more imperious, and the
-difficulty greater, I never, for one instant, spoke or looked but as I
-would have done had you been by. I never, for one moment, deserted my
-trust, nor have I to this instant. But I find that constant association
-and companionship with this sweet girl is fatal to my peace of mind, and
-may prove destructive to the resolutions I made in the beginning, and up
-to this [[Time|time]] have faithfully kept. In short, sir, I cannot trust myself,
-and I implore and beseech you to remove this young lady from under the
-charge of my mother and sister without delay. I know that to anyone but
-myself--to you, who consider the immeasurable distance between me and
-this young lady, who is now your ward, and the object of your peculiar
-care--my loving her, even in thought, must appear the height of rashness
-and presumption. I know it is so. But who can see her as I have seen,
-who can know what her life has been, and not [[Love|love]] her? I have no excuse
-but that; and as I cannot fly from this [[Temptation|temptation]], and cannot repress
-this passion, with its object constantly before me, what can I do but
-pray and beseech you to remove it, and to leave me to forget her?’

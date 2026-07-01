@@ -1,5 +1,5 @@
 ---
-title: "[[Mystification]] (part 3)"
+title: "Mystification (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/mystification-(poe)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/mystification/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/mystification/part/part_04">part 04 ›</a></div>
 </nav>
 
+
+      silent, apparently striving to master his emotion. Having at
+
+      length seemingly succeeded, he reached a decanter which stood
+
+      near him, saying as he held it firmly clenched—“The language you
+
+      have thought proper to employ, Mynheer Hermann, in addressing
 
       yourself to me, is objectionable in so many particulars, that I
 
@@ -199,17 +207,3 @@ tags:
       Hedelin, as set forth in the ninth paragraph of the chapter of
 
       “_Injuriae per applicationem, per constructionem, et per se_,” in
-
-      his “_Duelli Lex scripta, et non; aliterque_.” The nicety of your
-
-      discernment in all the matters here treated, will be sufficient,
-
-      I am assured, to convince you _that the mere circumstance of me
-
-      referring you_ to this admirable passage, ought to satisfy your
-
-      request, as a man of honor, for explanation.
-
-
-
-      “With sentiments of profound respect,

@@ -14,127 +14,99 @@ tags:
 </nav>
 
 
-I have called the fourth and final division of the spiritual
-elements into which I should divide heathen humanity by the name
-of The Philosophers.  I confess that it covers in my mind much
-that would generally be classified otherwise; and that what are
-here called philosophies are very often called religions.
-I believe however that my own description will be found
-to be much the more realistic and not the less respectful.
-But we must first take [[philosophy]] in its purest and clearest form
-that we may trace its normal outline; and that is to be found
-in the world of the purest and clearest outlines, that culture of
-the Mediterranean of which we have been considering the mythologies
-and idolatries in the last two chapters.
+In any case it is clear enough that the painted and gilded civilisation
+of tropical [[America]] systematically indulged in human sacrifice.
+It is by no means clear, so far as I know, that the Eskimos ever
+indulged in human sacrifice.  They were not civilised enough.
+They were too closely imprisoned by the white [[Winter|winter]] and the
+endless dark.  Chill penury repressed their noble rage and froze
+the genial current of the [[Soul|soul]].  It was in brighter days and broader
+daylight that the noble rage is found unmistakably raging.
+It was in richer and more instructed lands that the genial
+current flowed on the altars, to be drunk by great gods wearing
+goggling and grinning masks and called on in terror or torment
+by long cacophonous names that sound like laughter in hell.
+A warmer climate and a more scientific cultivation were needed
+to bring forth these blooms; to draw up towards the sun the large
+[[Leaves|leaves]] and flamboyant blossoms that gave their gold and crimson and
+purple to that [[Garden|garden]], which Swinburne compares to the Hesperides.
+There was at least no [[Doubt|doubt]] about the dragon.
 
-Polytheism, or that aspect of paganism, was never to the pagan
-what Catholicism is to the Catholic.  It was never a view of the
-universe satisfying all sides of life; a complete and complex [[Truth|truth]]
-with something to say about everything.  It was only a satisfaction
-of one side of the [[Soul|soul]] of man, even if we call it the religious side;
-and I think it is truer to call it the imaginative side.
-But this it did satisfy; in the end it satisfied it to satiety.
-All that world was a tissue of interwoven tales and cults, and there ran
-in and out of it, as we have already seen, that black thread among its
-more blameless colours; the darker paganism that was really diabolism.
-But we all know that this did not mean that all pagan men thought
-of nothing but pagan gods.  Precisely because mythology only satisfied
-one mood, they turned in other moods to something totally different.
-But it is very important to realise that it was totally different.
-It was too different to be inconsistent.  It was so alien that it
-did not clash.  While a mob of people were pouring on a public
-holiday to the feast of [[Adonis]] or the games in [[Honour|honour]] of [[Apollo]],
-this or that man would prefer to stop at [[Home|home]] and think out
-a little theory about the [[Nature|nature]] of things.  Sometimes his hobby
-would even take the form of thinking about the [[Nature|nature]] of God;
-or even in that sense about the [[Nature|nature]] of the gods.
-But he very seldom thought of pitting his [[Nature|nature]] of the gods against
-the gods of [[Nature|nature]].
+I do not raise in this connection the special controversy about Spain
+and Mexico; but I may remark in passing that it resembles exactly
+the question that must in some sense be raised afterwards about Rome
+and Carthage.  In both cases there has been a queer habit among
+the English of always siding against the Europeans, and representing
+the rival civilisation, in Swinburne's phrase, as sinless;
+when its sins were obviously crying or rather screaming to heaven.
+For Carthage also was a high civilisation, indeed a much more
+highly civilised civilisation.  And Carthage also founded that
+civilisation on a religion of [[Fear|fear]], sending up everywhere the smoke
+of human sacrifice.  Now it is very right to rebuke our own race
+or religion for falling short of our own standards and ideals.
+But it is absurd to pretend that they fell lower than the other races
+and religions that professed the very opposite standards and ideals.
+There is a very real sense in which the Christian is worse than
+the heathen, the Spaniard worse than the Red Indian, or even the Roman
+potentially worse than the Carthaginian.  But there is only one sense
+in which he is worse; and that is not in being positively worse.
+The Christian is only worse because it is his business to be better.
 
-It is necessary to insist on this abstraction in the first student
-of abstractions.  He was not so much antagonistic as absent-minded.
-His hobby might be the universe; but at first the hobby was
-as private as if it had been numismatics or playing draughts.
-And even when his wisdom came to be a public possession,
-and almost a political situation, it was very seldom on
-the same plane as the popular and religious institutions.
-Aristotle, with his colossal common sense, was perhaps the greatest
-of all philosophers; certainly the most practical of all philosophies.
-But Aristotle would no more have set up the Absolute side by side
-with the [[Apollo]] of Delphi, as a similar or rival religion,
-than Archimedes would have thought of setting up the lever as a sort
-of idol or fetish to be substituted for the Palladium of the [[City|city]].
-Or we might as [[Well|well]] imagine Euclid building an altar to an isosceles
-triangle, or offering sacrifices to the square of the hypotenuse.
-The one man meditated on metaphysics as the other man did on mathematics;
-for the [[Love|love]] of [[Truth|truth]] or for curiosity or for the fun of the thing.
-But that sort of fun never seems to have interfered very much with
-the other sort of fun; the fun of dancing or singing to celebrate
-some rascally [[Romance|romance]] about Zeus becoming a bull or a swan.
-It is perhaps the proof of a certain superficiality and even
-insincerity about the popular polytheism, that men could
-be philosophers and even sceptics without disturbing it.
-These thinkers could move the foundations of the world without
-altering even the outline of that coloured cloud that hung above
-it in the air.
+This inverted [[Imagination|imagination]] produces things of which it is better
+not to speak.  Some of them indeed might almost be named without
+being known; for they are of that extreme evil which seems [[Innocent|innocent]]
+to the [[Innocent|innocent]].  They are too inhuman even to be indecent.
+But without dwelling much longer in these dark corners,
+it may be noted as not irrelevant here that certain anti-human
+antagonisms seem to recur in this tradition of black [[Magic|magic]].
+There may be suspected as running through it everywhere,
+for instance, a mystical hatred of the idea of [[Childhood|childhood]].
+People would understand better the popular fury against the witches,
+if they remembered that the malice most commonly attributed to them
+was preventing the birth of children.  The Hebrew prophets were
+perpetually protesting against the Hebrew race relapsing into an idolatry
+that involved such a war upon children; and it is probable enough
+that this abominable apostasy from the God of Israel has occasionally
+appeared in Israel since, in the form of what is called ritual murder;
+not of course by any representative of the religion of Judaism,
+but by individual and irresponsible diabolists who did happen to be Jews.
+This sense that the forces of evil especially threaten [[Childhood|childhood]] is found
+again in the enormous popularity of the [[Child]] Martyr of the Middle Ages.
+Chaucer did but give another version of a very national English legend,
+when he conceived the wickedest of all possible witches as the dark
+alien woman watching behind her high lattice and heading,
+like the babble of a brook down the stony street, the singing
+of little St. Hugh.
 
-For the thinkers did move the foundations of the world,
-even when a curious compromise seemed to prevent them from
-moving the foundations of the [[City|city]].  The two great philosophers
-of antiquity do indeed appear to us as defenders of sane and even
-of sacred ideas; their maxims often read like the answers to
-sceptical questions too completely answered to be always recorded.
-Aristotle annihilated a hundred anarchists and [[Nature|nature]]-worshipping
-cranks by the fundamental statement that man is a political animal.
-Plato in some sense anticipated the Catholic realism, as attacked
-by the heretical nominalism, by insisting on the equally fundamental
-fact that ideas are realities; that ideas exist just as men exist.
-Plato however seemed sometimes almost to fancy that ideas exist as men
-do not exist; or that the men need hardly be considered where they
-conflict with the ideas.  He had something of the social sentiment
-that we call Fabian in his ideal of fitting the citizen to the [[City|city]].
-Like an imaginary head to an ideal hat; and great and glorious
-as he remains, he has been the Father of all faddists.
-Aristotle anticipated more fully the sacramental [[Sanity|sanity]] that was
-to combine the [[Body|body]] and the [[Soul|soul]] of things; for he considered
-the [[Nature|nature]] of men as [[Well|well]] as the [[Nature|nature]] of morals, and looked
-to the eyes as [[Well|well]] as to the light.  But though these great men
-were in that sense constructive and conservative, they belonged
-to a world where thought was free to the point of being fanciful.
-Many other great intellects did indeed follow them,
-some exalting an abstract vision of virtue, others following more
-rationalistically the necessity of the human pursuit of happiness.
-The former had the name of Stoics; and their name has passed into
-a proverb for what is indeed one of the main moral ideals of mankind:
-that of strengthening the mind itself until it is of a texture to
-resist calamity or even [[Pain|pain]].  But it is admitted that a great number
-of the philosophers degenerated into what we still call sophists.
-They became a sort of professional sceptics who went about asking
-uncomfortable questions, and were handsomely paid for making themselves
-a nuisance to normal people.  It was perhaps an accidental resemblance
-to such questioning quacks that was responsible for the unpopularity
-of the great Socrates; whose [[Death|death]] might seem to contradict the suggestion
-of the permanent truce between the philosophers and the gods.
-But Socrates did not die as a monotheist who denounced polytheism;
-certainly not as a [[Prophet|prophet]] who denounced idols.  It is clear to anyone
-reading between the lines that there was some notion, right or wrong,
-of a purely personal influence affecting morals and perhaps politics.
-The general compromise remained, whether it was that the Greeks thought
-their myths a joke or that they thought their theories a joke.
-There was never any collision in which one really destroyed the other,
-and there was never any combination in which one was really
-reconciled with the other.  They certainly did not work together;
-if anything the philosopher was a rival of the priest.
-But both seemed to have accepted a sort of separation of functions
-and remained parts of the same social system.  Another important
-tradition descends from Pythagoras; who is significant because he stands
-nearest to the Oriental mystics who must be considered in their turn.
-He taught a sort of mysticism of mathematics, that number is the
-ultimate reality; but he also seems to have taught the transmigration
-of souls like the Brahmins; and to have left to his followers
-certain traditional tricks of vegetarianism and [[Water|water]]-drinking
-very common among the eastern sages, especially those who figure
-in fashionable drawing-rooms, like those of the later Roman Empire.
-But in passing to eastern sages, and the somewhat different
-atmosphere of the east, we may approach a rather important [[Truth|truth]]
-by other path.
+Anyhow the part of such speculations that concerns this story
+centered especially round that eastern end of the Mediterranean,
+where the nomads had turned gradually into traders and had begun
+to trade with the whole world.  Indeed in the sense of trade
+and travel and colonial extension, it already had something
+like an empire of the whole world.  Its purple dye, the emblem
+of its rich pomp and luxury, had steeped the wares which were sold
+far away amid the last crags of Cornwall and the sails that entered
+the [[Silence|silence]] of tropic seas amid all the mystery of Africa.
+It might be said truly to have painted the map purple.
+It was already a world-wide [[success]], when the princes of Tyre
+would hardly have troubled to notice that one of their princesses
+had condescended to marry the chief of some tribe called Judah;
+when the merchants of its African outpost would only have curled
+their bearded and Semitic lips with a slight smile at the mention
+of a village called Rome.  And indeed no two things could have seemed
+more distant from each other, not only in space but in Spirit,
+than the monotheism of the Palestinian tribe and the very virtues
+of the small Italian republic.  There was but one thing between them;
+and the thing which divided them has united them.  Very various and
+incompatible were the things that could be loved by the consuls of Rome
+and the prophets of Israel; but they were at one in what they hated.
+It is very easy in both cases to represent that hatred as something
+merely hateful.  It is easy enough to make a merely harsh
+and inhuman figure either of Elijah raving above the slaughter
+of Carmel or Cato thundering against the amnesty of Africa.
+These men had their limitations and their local passions;
+but this criticism of them is unimaginative and therefore unreal.
+It [[Leaves|leaves]] out something, something immense and intermediate,
+facing east and west and calling up this passion in its eastern
+and western enemies; and that something is the first subject
+of this chapter.

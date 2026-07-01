@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 42: FORTY TWO (part 4)"
+title: "Martin Chuzzlewit — Chapter 42: FORTY TWO (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,27 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_42_forty_two/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_43_forty_three/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘I am not afraid of anything,’ replied the other, whose looks and manner
+were in flat contradiction to his words. ‘But we’ll keep together.’
+
+‘You were mighty anxious about the boy, a minute ago,’ said Jonas. ‘I
+suppose you know that he may die in the meantime?’
+
+‘Aye, aye. I know. But we’ll keep together.’
+
+As it was clear that he was not to be moved from this determination,
+Jonas made no other rejoinder than such as his face expressed; and they
+proceeded in company. They had three or four good miles to travel; and
+the way was not made easier by the state of the [[Road|road]], the burden by
+which they were embarrassed, or their own stiff and sore condition.
+After a sufficiently long and painful walk, they arrived at the Inn; and
+having knocked the people up (it being yet very early in the morning),
+sent out messengers to see to the carriage and its contents, and roused
+a surgeon from his bed to tend the chief sufferer. All the service he
+could render, he rendered promptly and skillfully. But he gave it as
+his opinion that the boy was labouring under a severe concussion of the
+brain, and that Mr Bailey’s mortal course was run.
 
 If Montague’s strong interest in the announcement could have been
 considered as unselfish in any degree, it might have been a redeeming

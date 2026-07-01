@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 42 (part 3)"
+title: "Nicholas Nickleby — Chapter 42 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,8 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_42/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_42/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘[[Well]], as a what?’ said his wife.
 
 ‘As a woman,’ returned John. ‘Ding! But I dinnot know ought else that
 cooms near it.’
@@ -139,6 +141,3 @@ Squeers, with such a sudden accession of violence that John started in
 his boots, ‘I throw you off for ever, miss. I abandon you. I renounce
 you. I wouldn’t,’ cried Miss Squeers in a solemn voice, ‘have a [[Child|child]]
 named ‘Tilda, not to save it from its [[Grave|grave]].’
-
-‘As for the matther o’ that,’ observed John, ‘it’ll be [[Time|time]] eneaf to
-think aboot neaming of it when it cooms.’

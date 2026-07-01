@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 38"
+title: "Villette — Chapter 38"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/villette-(bronte)"
@@ -610,7 +610,7 @@ does not aid [[Freedom|freedom]]?
 
 There, in the corridor, hangs my [[Garden|garden]]-costume, my large hat, my
 shawl. There is no lock on the huge, heavy, porte-cochère; there is no
-key to seek: it fastens with a sort of [[spring]]-bolt, not to be opened
+key to seek: it fastens with a sort of [[Spring|spring]]-bolt, not to be opened
 from the outside, but which, from within, may be noiselessly withdrawn.
 Can I manage it? It yields to my hand, yields with propitious facility.
 I [[Wonder|wonder]] as that portal seems almost spontaneously to unclose—I [[Wonder|wonder]]
@@ -945,7 +945,7 @@ could not mark unmoved. Amidst reserve and phlegm, amidst contrasts of
 character and of countenance, something there still was which recalled
 a face—mobile, fervent, feeling—a face changeable, now clouded, and now
 alight—a face from my world taken away, for my eyes lost, but where my
-best [[spring]]-hours of life had alternated in [[Shadow|shadow]] and in glow; that
+best [[Spring|spring]]-hours of life had alternated in [[Shadow|shadow]] and in glow; that
 face, where I had often seen movements so near the signs of genius—that
 why there did not shine fully out the undoubted [[Fire|fire]], the thing, the
 spirit, and the secret itself—I could never tell. Yes—this Josef

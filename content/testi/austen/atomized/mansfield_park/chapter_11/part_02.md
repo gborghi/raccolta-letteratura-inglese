@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 11 (part 2)"
+title: "Mansfield Park — Chapter 11 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/mansfield_park/chapter_11/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/mansfield_park/chapter_12/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Oh! no [[Doubt|doubt]] he is very sincere in preferring an income ready made, to
+the trouble of working for one; and has the best intentions of doing
+nothing all the rest of his days but eat, drink, and grow fat. It is
+[[Indolence|indolence]], Mr. [[Bertram]], indeed. [[Indolence]] and [[Love|love]] of ease; a want of
+all laudable [[Ambition|ambition]], of taste for good company, or of inclination to
+take the trouble of being agreeable, which make men clergymen. A
+clergyman has nothing to do but be slovenly and selfish—read the
+newspaper, watch the weather, and quarrel with his wife. His curate
+does all the work, and the business of his own life is to dine.”
 
 “There are such clergymen, no [[Doubt|doubt]], but I think they are not so common
 as to justify Miss Crawford in esteeming it their general character. I

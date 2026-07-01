@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 29: TWENTY NINE (part 4)"
+title: "Martin Chuzzlewit — Chapter 29: TWENTY NINE (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_29_twenty_nine/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_30_thirty/part_01">part 01 ›</a></div>
 </nav>
 
+
+At last, her bundle, and her pattens, and her basket, and everything
+else, being disposed of, she took a friendly leave of Poll and Mr
+Bailey, dropped a curtsey to John Westlock, and parted as from a
+cherished member of the sisterhood with Betsey Prig.
 
 ‘Wishin you lots of sickness, my darlin creetur,’ Mrs Gamp observed,
 ‘and good places. It won’t be long, I [[Hope|hope]], afore we works together, off

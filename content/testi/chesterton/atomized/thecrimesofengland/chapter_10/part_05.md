@@ -1,5 +1,5 @@
 ---
-title: "[[TheCrimesOfEngland]] — Chapter 10 (part 5)"
+title: "TheCrimesOfEngland — Chapter 10 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thecrimesofengland-(chesterton)"
@@ -14,6 +14,32 @@ tags:
 </nav>
 
 
+Victories. [[Henry VIII]]., a far less reputable person, was in his early
+
+days a good knight of the later and more florid school of chivalry; we
+
+might almost say that he was a fine old English gentleman so long as he
+
+was young. Even Nero was loved in his first days: and there must have
+
+been some cause to make that Christian maiden cast [[Flowers|flowers]] on his
+
+dishonourable [[Grave|grave]]. But the spirit of the great Hohenzollern smelt from
+
+the first of the charnel. He came out to his first victory like one
+
+broken by defeats; his strength was stripped to the bone and fearful as
+
+a fleshless [[Resurrection|resurrection]]; for the worst of what could come had already
+
+befallen him. The very construction of his kingship was built upon the
+
+destruction of his manhood. He had known the final shame; his [[Soul|soul]] had
+
+surrendered to force. He could not redress that wrong; he could only
+
+repeat it and repay it. He could make the souls of his soldiers
+
 surrender to his gibbet and his whipping-post; he could 'make the souls
 
 of the nations surrender to his soldiers. He could only break men in as
@@ -27,8 +53,6 @@ He could not slay in anger, nor even sin with simplicity. Thus he stands
 mere misdirection of [[Courage|courage]]. Before the whisper of war had come to him
 
 the foundations of his audacity had been laid in [[Fear|fear]].
-
-
 
 Of the work he did in this world there need be no considerable [[debate]].
 
@@ -78,8 +102,6 @@ pacifists. He did not want any more wars. He had tortured and beggared
 
 all his neighbours; but he bore them no malice for it.
 
-
-
 The immediate cause of that spirited disaster, the intervention of
 
 England on behalf of the new Hohenzollern throne, was due, of course,
@@ -103,8 +125,6 @@ ultimately a religious war. He had not a shade of irony in his whole
 being; and beside Frederick, already as old as sin, he was like a rather
 
 brilliant schoolboy.
-
-
 
 But the direct causes were not the only causes, nor the true ones. The
 
@@ -156,40 +176,8 @@ the situation that the [[King]] to whom Tories appealed as a refuge from
 
 Germanism was himself a German.
 
-
-
 We have thus to refer the origins of the German influence in England
 
 back to the beginning of the Hanoverian Succession; and thence back to
 
 the quarrel between the [[King]] and the lawyers which had issue at Naseby;
-
-and thence again to the angry exit of [[Henry VIII]]. from the mediaeval
-
-council of Europe. It is easy to exaggerate the part played in the
-
-matter by that great and human, though very pagan person, Martin Luther.
-
-[[Henry VIII]]. was sincere in his hatred for the heresies of the German
-
-monk, for in speculative opinions Henry was wholly Catholic; and the two
-
-wrote against each other innumerable pages, largely consisting of terms
-
-of abuse, which were pretty [[Well|well]] deserved on both sides. But Luther was
-
-not a Lutheran. He was a sign of the break-up of Catholicism; but he was
-
-not a builder of Protestantism. The countries which became corporately
-
-and democratically Protestant, Scotland, for instance, and Holland,
-
-followed Calvin and not Luther. And Calvin was a Frenchman; an
-
-unpleasant Frenchman, it is true, but one full of that French capacity
-
-for creating official entities which can really act, and have a kind of
-
-impersonal personality, such as the French Monarchy or the Terror.
-
-Luther was an anarchist, and therefore a dreamer. He made that which is,

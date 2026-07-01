@@ -1,5 +1,5 @@
 ---
-title: "[[Shaw]] — THE PHILOSOPHER (part 9)"
+title: "Shaw — THE PHILOSOPHER (part 9)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/shaw-(chesterton)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/shaw/story_08_the_philosopher/part_08">‹ part 08</a><a class="ex-next" href="/testi/chesterton/atomized/shaw/story_08_the_philosopher/part_10">part 10 ›</a></div>
 </nav>
 
+
+There is one really noble moment when Anne offers for all her cynical
+husband-hunting the only defence that is really great enough to cover it.
+"It will not be all happiness for me.  Perhaps [[Death|death]]."
+And the man rises also at that real crisis, saying, "Oh, that clutch
+holds and hurts.  What have you grasped in me?  Is there a father's
+heart as [[Well|well]] as a mother's?"  That seems to me actually great;
+I do not like either of the characters an atom more than formerly;
+but I can see shining and shaking through them at that instant
+the splendour of the God that made them and of the image of God
+who wrote their story.
 
 A logician is like a liar in many respects, but chiefly in the fact
 that he should have a good [[Memory|memory]].  That cutting and inquisitive
@@ -104,42 +115,3 @@ the first in a controversial and the second in a technical sense.
 Neither need prevent our saying that the moment when John Tanner
 and Anne agree that it is doom for him and [[Death|death]] for her and life
 only for the thing [[unborn]], is the peak of his utterance as a [[Prophet|prophet]].
-
-The two important plays that he has since given
-us are THE DOCTOR'S DILEMMa and GETTING MARRIED.
-The first is as regards its most amusing and effective elements
-a throw-back to his old game of guying the men of science.
-It was a very good game, and he was an admirable player.
-The actual story of the DOCTOR'S DILEMMa itself seems to me
-less poignant and important than the things with which [[Shaw]] had
-lately been dealing.  First of all, as has been said, [[Shaw]] has
-neither the kind of justice nor the kind of weakness that goes
-to make a true problem.  We cannot feel the Doctor's Dilemma,
-because we cannot really fancy Bernard [[Shaw]] being in a dilemma.
-His mind is both fond of abruptness and fond of finality;
-he always makes up his mind when he knows the facts
-and sometimes before.  Moreover, this particular problem
-(though [[Shaw]] is certainly, as we shall see, nearer to pure
-[[Doubt|doubt]] about it than about anything else) does not strike
-the critic as being such an exasperating problem after all.
-An [[Artist|artist]] of vast power and promise, who is also a scamp
-of vast profligacy and treachery, has a chance of life if
-specially treated for a special disease.  The modern doctors
-(and even the modern dramatist) are in [[Doubt|doubt]] whether he should
-be specially favoured because he is aesthetically important
-or specially disregarded because he is ethically anti-social.
-They see-saw between the two despicable modern doctrines,
-one that geniuses should be worshipped like idols and the other
-that criminals should be merely wiped out like germs.
-That both clever men and bad men ought to be treated like men does
-not seem to occur to them.  As a matter of fact, in these affairs
-of life and [[Death|death]] one never does think of such distinctions.
-Nobody does shout out at sea, "Bad citizen over-board!"
-I should recommend the doctor in his dilemma to do exactly what I
-am sure any decent doctor would do without any dilemma at all:
-to treat the man simply as a man, and give him no more and
-no less favour than he would to anybody else.  In short,
-I am sure a practical physician would drop all these visionary,
-unworkable modern [[Dreams|dreams]] about type and criminology and go
-back to the plain business-like facts of the [[French Revolution]]
-and the Rights of Man.

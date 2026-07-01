@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 50: FIFTY (part 2)"
+title: "Martin Chuzzlewit — Chapter 50: FIFTY (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_50_fifty/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_50_fifty/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘Not to her,’ interrupted Tom. ‘Pray, do not appeal to her. She will
+never believe you.’
+
+He drew her arm through his own, as he said it.
 
 ‘I believe it, Tom!’
 
@@ -139,12 +144,3 @@ to her thus, cheerily, though gravely:
 ‘I am very glad, my dear, that this has passed between us. Not because
 it assures me of your tender affection (for I was [[Well|well]] assured of that
 before), but because it relieves my mind of a great weight.’
-
-Tom’s eyes glistened when he spoke of her affection; and he kissed her
-on the cheek.
-
-‘My dear girl,’ said Tom; ‘with whatever feeling I regard her’--they
-seemed to avoid the name by mutual consent--‘I have long ago--I am sure
-I may say from the very first--looked upon it as [[A Dream|a dream]]. As something
-that might possibly have happened under very different circumstances,
-but which can never be. Now, tell me. What would you have set right?’

@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 31: THIRTY ONE"
+title: "Martin Chuzzlewit — Chapter 31: THIRTY ONE"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -522,7 +522,7 @@ before thy elevation to the lofty seat, from which thou dealest out thy
 homilies to other tarriers for dead men’s shoes, whose duty to society
 has not begun! Oh! magistrate, so rare a country gentleman and brave a
 squire, had you no duty to society, before the ricks were blazing and
-the mob were mad; or did it [[Spring|spring]] up, armed and booted from the earth,
+the mob were mad; or did it [[spring]] up, armed and booted from the earth,
 a corps of yeomanry full-grown!
 
 Mr Pecksniff’s duty to society could not be paid till Tom came back. The

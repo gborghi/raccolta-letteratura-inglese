@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 34 (part 2)"
+title: "Bleak House — Chapter 34 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -100,7 +100,7 @@ haven’t had the letter more than a quarter of an hour.”
 him my opinion?”
 
 “Oh! Why didn’t he marry,” Mrs. Bagnet answers, half laughing and
-half crying, “Joe Pouch’s widder in North [[America]]? Then he wouldn’t
+half crying, “Joe Pouch’s widder in North [[america|America]]? Then he wouldn’t
 have got himself into these troubles.”
 
 “The old girl,” says Mr. Bagnet, “puts it correct—why didn’t you?”

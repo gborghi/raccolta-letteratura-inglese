@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 49 (part 2)"
+title: "Sense and Sensibility — Chapter 49 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_49/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_49/part_03">part 03 ›</a></div>
 </nav>
 
+
+week should be given up to the enjoyment of Elinor’s company, or
+
+suffice to say half that was to be said of the past, the present, and
+
+the future;—for though a very few hours spent in the hard labor of
+
+incessant talking will despatch more subjects than can really be in
 
 common between any two rational creatures, yet with [[lovers]] it is
 
@@ -213,19 +221,3 @@ the modesty with which he rated his own deserts, and the politeness
 with which he talked of his doubts, he did not, upon the whole, expect
 
 a very cruel reception. It was his business, however, to say that he
-
-_did_, and he said it very prettily. What he might say on the subject a
-
-twelvemonth after, must be referred to the [[Imagination|imagination]] of husbands and
-
-wives.
-
-
-
-That Lucy had certainly meant to deceive, to go off with a flourish of
-
-malice against him in her message by Thomas, was perfectly clear to
-
-Elinor; and Edward himself, now thoroughly enlightened on her
-
-character, had no scruple in believing her capable of the utmost

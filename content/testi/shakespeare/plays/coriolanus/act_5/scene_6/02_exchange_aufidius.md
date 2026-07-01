@@ -1,5 +1,5 @@
 ---
-title: "[[Coriolanus]] — Act V, Scene 6 — exchange ([[Aufidius|AUFIDIUS]]) [2]"
+title: "Coriolanus — Act V, Scene 6 — exchange (AUFIDIUS) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/coriolanus-(shakespeare)"

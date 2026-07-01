@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 26"
+title: "Shirley — Chapter 26"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/shirley-(bronte)"
@@ -1410,7 +1410,7 @@ sumptuous luncheon was discussed.--"Would not you, Mr. Hall?"
 
 "To please you, I should; but, for my own part, I have cut him as an
 
-[[Artist|artist]]. I had enough of him in that capacity in Cumberland and
+[[artist]]. I had enough of him in that capacity in Cumberland and
 
 Westmoreland. Many a wetting we got amongst the [[Mountains|mountains]] because he
 

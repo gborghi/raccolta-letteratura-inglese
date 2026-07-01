@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 4 (part 2)"
+title: "Oliver Twist — Chapter 4 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -137,7 +137,3 @@ the boy.” [[Oliver]] made a bow.
 “Oh! that’s the boy, is it?” said the undertaker: raising the candle
 above his head, to get a better view of [[Oliver]]. “Mrs. Sowerberry, will
 you have the goodness to come here a moment, my dear?”
-
-Mrs. Sowerberry emerged from a little room behind the shop, and
-presented the form of a short, thin, squeezed-up woman, with a vixenish
-countenance.

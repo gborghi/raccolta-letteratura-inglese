@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 29 (part 1)"
+title: "Bleak House — Chapter 29 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -120,7 +120,3 @@ announcing with this abruptness a young man of the name of Guppy?”
 “I beg your pardon, Sir Leicester, but my Lady said she would see the
 young man whenever he called. I was not aware that you were here, Sir
 Leicester.”
-
-With this apology, Mercury directs a scornful and indignant look at
-the young man of the name of Guppy which plainly says, “What do you
-come calling here for and getting ME into a row?”

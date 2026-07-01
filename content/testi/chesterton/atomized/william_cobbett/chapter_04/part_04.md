@@ -25,21 +25,21 @@ more genuine than most; but that also was disturbed by quarrels.
 In one case, curiously enough, Cobbett was more O'Connellite than
 O'Connell. He fiercely (and perhaps rightly) blamed the Liberator for
 accepting a compromise suited to the more reactionary Irish bishops.
-His quarrel with Hunt dates originally from his second visit to [[america|America]],
+His quarrel with Hunt dates originally from his second visit to America,
 from which he sent word, in his reckless way, repudiating some letter
 of which he had forgotten the details, and which contained a charge
 against the domestic morals of Hunt, whom Cobbett did not then even know.
 Yet even the misunderstanding is of the sort that wants understanding.
 Many of the Radicals really were cut off from Cobbett by a deep
 difference about morals; and anybody who thinks the Radical Programme
-must look a larger thing than the institution of [[Marriage|marriage]] does not
+must look a larger thing than the institution of marriage does not
 know what the story of Cobbett is all about.
 
 Another work of this period bore the fine title of
-The Last Hundred Days of English [[Freedom]], attacking the
+The Last Hundred Days of English Freedom, attacking the
 coercion acts that had threatened his liberty in England.
 It is notable that Cobbett always treated tyranny as a new thing;
-his attitude to abstract revolution was [[Well|well]] expressed
+his attitude to abstract revolution was well expressed
 in the phrase, `I was born under a [[King]] and Constitution;
 but I was not born under the Six Acts.'  It was a new Tory
 raid and reign of terror that had driven him into [[Exile|exile]];

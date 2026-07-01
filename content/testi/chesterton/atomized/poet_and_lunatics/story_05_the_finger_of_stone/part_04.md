@@ -120,8 +120,3 @@ of the world's greatest men was done to [[Death|death]] by his enemies.
 For the moment I will only say one word.  As the great [[Edgar]] Poe
 said in your own language, '[[Truth]] is not always in a [[Well|well]].'
 I believe it is sometimes too obvious to be seen."
-
-Gabriel Gale, who had rather the appearance of having gone to [[Sleep|sleep]],
-seemed to rouse himself with an unusual animation.
-
-"That's true," he said, "and that's the [[Truth|truth]] about the whole business."

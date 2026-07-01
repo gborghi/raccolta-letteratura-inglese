@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 64 (part 4)"
+title: "Bleak House — Chapter 64 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,41 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_64/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_65/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Miss Summerson,” returned my guardian, smiling, “has made a
+communication to that effect to me.”
+
+“That,” said Mr. Guppy, “makes matters easier. Sir, I have come out
+of my articles at Kenge and Carboy’s, and I believe with satisfaction
+to all parties. I am now admitted (after undergoing an examination
+that’s enough to badger a man blue, touching a pack of nonsense that
+he don’t want to know) on the roll of attorneys and have taken out my
+certificate, if it would be any satisfaction to you to see it.”
+
+“Thank you, Mr. Guppy,” returned my guardian. “I am quite willing—I
+believe I use a legal phrase—to admit the certificate.”
+
+Mr. Guppy therefore desisted from taking something out of his pocket
+and proceeded without it.
+
+“I have no capital myself, but my mother has a little property which
+takes the form of an annuity”—here Mr. Guppy’s mother rolled her
+head as if she never could sufficiently enjoy the observation, and
+put her handkerchief to her mouth, and again winked at me—“and a few
+pounds for expenses out of pocket in conducting business will never
+be wanting, free of interest, which is an advantage, you know,” said
+Mr. Guppy feelingly.
+
+“Certainly an advantage,” returned my guardian.
+
+“I HAVE some connexion,” pursued Mr. Guppy, “and it lays in the
+direction of Walcot Square, Lambeth. I have therefore taken a ’ouse
+in that locality, which, in the opinion of my friends, is a hollow
+bargain (taxes ridiculous, and use of fixtures included in the rent),
+and intend setting up professionally for myself there forthwith.”
+
+Here Mr. Guppy’s mother fell into an extraordinary passion of [[rolling]]
+her head and smiling waggishly at anybody who would look at her.
 
 “It’s a six-roomer, exclusive of kitchens,” said Mr. Guppy, “and in
 the opinion of my friends, a commodious tenement. When I mention my

@@ -1,5 +1,5 @@
 ---
-title: "[[queertrades]] — Chapter 2 (part 3)"
+title: "queertrades — Chapter 2 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/queertrades-(chesterton)"
@@ -15,7 +15,7 @@ tags:
 
 
 "My good fellow," I said firmly, striking my foot on the pavement,
-"the [[Truth|truth]] of this affair is very simple.  To use your own eloquent
+"the truth of this affair is very simple.  To use your own eloquent
 language, you have the `slight disadvantage' of being off your head.
 You see a total stranger in a public street; you choose to start
 certain theories about his eyebrows.  You then treat him as a burglar
@@ -148,8 +148,3 @@ as he helped us off with our coats.  "He has not the modern mind."
 "Oh, it's enlightened, you know, and progressive--and faces the facts
 of life seriously."  At this moment another roar of laughter
 came from within.
-
-"I only ask," said Basil, "because of the last two friends of yours
-who had the modern mind; one thought it wrong to eat fishes
-and the other thought it right to eat men.  I beg your pardon--
-this way, if I remember right."

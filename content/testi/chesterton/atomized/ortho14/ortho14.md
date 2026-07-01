@@ -1,5 +1,5 @@
 ---
-title: "[[ortho14]]"
+title: "ortho14"
 author: "Chesterton"
 unitType: work
 parentWork: "works/ortho14-(chesterton)"
@@ -1955,7 +1955,7 @@ for sunsets.  We can pay for them by not being Oscar Wilde.
 
      [[Well]], I left the fairy tales lying on the floor of the nursery,
 and I have not found any books so sensible since.  I left the [[Nurse|nurse]] guardian
-of tradition and [[Democracy|democracy]], and I have not found any modern type
+of tradition and [[democracy]], and I have not found any modern type
 so sanely radical or so sanely conservative.  But the matter
 for important comment was here: that when I first went out into
 the mental atmosphere of the modern world, I found that the modern world
@@ -3628,8 +3628,8 @@ that there is no equality in [[Nature|nature]].  He is right, but he does not
 see the logical addendum.  There is no equality in [[Nature|nature]];
 also there is no inequality in [[Nature|nature]].  Inequality, as much as equality,
 implies a standard of value.  To read aristocracy into the anarchy
-of [[Animals|animals]] is just as sentimental as to read [[Democracy|democracy]] into it. 
-Both aristocracy and [[Democracy|democracy]] are human ideals:  the one saying that
+of [[Animals|animals]] is just as sentimental as to read [[democracy]] into it. 
+Both aristocracy and [[democracy]] are human ideals:  the one saying that
 all men are valuable, the other that some men are more valuable. 
 But [[Nature|nature]] does not say that cats are more valuable than mice;
 [[Nature|nature]] makes no remark on the subject.  She does not even say
@@ -4156,12 +4156,12 @@ or the [[Well|well]]-bred.  I have listened often enough to Socialists,
 or even to democrats, saying that the physical conditions of the poor
 must of necessity make them mentally and morally degraded. 
 I have listened to scientific men (and there are still scientific men
-not opposed to [[Democracy|democracy]]) saying that if we give the poor
+not opposed to [[democracy]]) saying that if we give the poor
 healthier conditions vice and wrong will disappear.  I have listened
 to them with a horrible attention, with a hideous fascination. 
 For it was like watching a man energetically sawing from the tree
 the branch he is sitting on.  If these happy democrats could
-prove their case, they would strike [[Democracy|democracy]] dead.  If the poor are thus
+prove their case, they would strike [[democracy]] dead.  If the poor are thus
 utterly demoralized, it may or may not be practical to raise them. 
 But it is certainly quite practical to disfranchise them. 
 If the man with a bad bedroom cannot give a good vote,
@@ -4244,10 +4244,10 @@ I must be prepared for the moral fall of any man in any position
 at any moment; especially for my fall from my position at this moment.
 
      Much vague and sentimental journalism has been poured out
-to the effect that [[Christianity]] is akin to [[Democracy|democracy]], and most of it
+to the effect that [[Christianity]] is akin to [[democracy]], and most of it
 is scarcely strong or clear enough to refute the fact that the two things
 have often quarrelled.  The real ground upon which [[Christianity]] and
-[[Democracy|democracy]] are one is very much deeper.  The one specially and peculiarly
+[[democracy]] are one is very much deeper.  The one specially and peculiarly
 un-Christian idea is the idea of Carlyle--the idea that the man should rule
 who feels that he can rule.  Whatever else is Christian, this is heathen. 
 If our [[Faith|faith]] comments on [[government]] at all, its comment must be this--
@@ -4261,8 +4261,8 @@ Carlyle was quite wrong; we have not got to [[Crown|crown]] the exceptional man
 who knows he can rule.  Rather we must [[Crown|crown]] the much more exceptional man
 who knows he can't.
 
-     Now, this is one of the two or three vital defences of working [[Democracy|democracy]]. 
-The mere machinery of voting is not [[Democracy|democracy]], though at present
+     Now, this is one of the two or three vital defences of working [[democracy]]. 
+The mere machinery of voting is not [[democracy]], though at present
 it is not easy to effect any simpler democratic method.  But even the
 machinery of voting is profoundly Christian in this practical sense--
 that it is an attempt to get at the opinion of those who would be
@@ -4363,7 +4363,7 @@ has the same amusing sadness.  I was always rushing out of
 my architectural study with plans for a new turret only to find it
 sitting up there in the sunlight, shining, and a thousand years old. 
 For me, in the ancient and partly in the modern sense, God answered
-the [[Prayer|prayer]], "Prevent us, O Lord, in all our doings."  Without [[Vanity|vanity]],
+the [[prayer]], "Prevent us, O Lord, in all our doings."  Without [[Vanity|vanity]],
 I really think there was a moment when I could have invented
 the [[Marriage|marriage]] vow (as an institution) out of my own head;
 but I discovered, with a sigh, that it had been invented already. 
@@ -4820,7 +4820,7 @@ deeper rings of the labyrinth of our own ego.  But only we of Christendom
 have said that we should hunt God like an eagle upon the [[Mountains|mountains]]: 
 and we have killed all monsters in the chase.
 
-     Here again, therefore, we find that in so far as we value [[Democracy|democracy]]
+     Here again, therefore, we find that in so far as we value [[democracy]]
 and the [[Self|self]]-renewing energies of the west, we are much more likely
 to find them in the old theology than the new.  If we want [[Reform|reform]],
 we must adhere to orthodoxy: especially in this matter (so much disputed
@@ -5076,7 +5076,7 @@ is always in favour of the rich one.
 the whole matter.  A reasonable agnostic, if he has happened to
 agree with me so far, may justly turn round and say, "You have found
 a practical [[philosophy]] in the doctrine of the Fall; very [[Well|well]]. 
-You have found a side of [[Democracy|democracy]] now dangerously neglected
+You have found a side of [[democracy]] now dangerously neglected
 wisely asserted in [[Original Sin]]; all right.  You have found a [[Truth|truth]]
 in the doctrine of hell; I congratulate you.  You are convinced
 that worshippers of a personal God look outwards and are progressive;
@@ -5396,7 +5396,7 @@ intellectual conviction like the certainty of [[Self|self]] of the good of livin
 Any one who likes, therefore, may call my belief in God merely mystical;
 the phrase is not worth fighting about. But my belief that miracles
 have happened in human [[history]] is not a mystical belief at all;
-I believe in them upon human evidences as I do in the discovery of [[America]]. 
+I believe in them upon human evidences as I do in the discovery of [[america|America]]. 
 Upon this point there is a simple logical fact that only requires
 to be stated and cleared up.  Somehow or other an extraordinary idea
 has arisen that the disbelievers in miracles consider them coldly
@@ -5417,7 +5417,7 @@ to human testimony there is a choking cataract of human testimony
 in favour of the [[Supernatural|supernatural]].  If you reject it, you can only mean
 one of two things.  You reject the peasant's story about the [[Ghost|ghost]]
 either because the man is a peasant or because the story is a [[Ghost|ghost]] story. 
-That is, you either deny the main principle of [[Democracy|democracy]],
+That is, you either deny the main principle of [[democracy]],
 or you affirm the main principle of materialism--the abstract impossibility
 of miracle.  You have a perfect right to do so; but in that case
 you are the dogmatist.  It is we Christians who accept all actual evidence--
@@ -5494,7 +5494,7 @@ if you call it Levitation, and will very likely admit the [[Resurrection]]
 when it has thought of another word for it.  I suggest the Regalvanisation. 
 But the strongest of all is the dilemma above mentioned,
 that these [[Supernatural|supernatural]] things are never denied except on the basis either
-of anti-[[Democracy|democracy]] or of materialist dogmatism--I may say
+of anti-[[democracy]] or of materialist dogmatism--I may say
 materialist mysticism.  The sceptic always takes one of the two positions;
 either an ordinary man need not be believed, or an extraordinary event
 must not be believed.  For I [[Hope|hope]] we may dismiss the argument

@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 30: THIRTY (part 3)"
+title: "Martin Chuzzlewit — Chapter 30: THIRTY (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -129,5 +129,3 @@ Martin mused a moment; and then said, as he shook him by the hand:
 
 ‘The very sight of skittles,’ Mr Pecksniff eloquently pursued, ‘is far
 from being congenial to a delicate mind.’
-
-‘It’s an amusement of the vulgar,’ said old Martin, ‘certainly.’

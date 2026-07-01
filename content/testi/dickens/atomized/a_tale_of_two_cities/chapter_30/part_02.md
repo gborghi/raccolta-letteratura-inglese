@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities — Chapter 23 (part 2)"
+title: "A Tale of Two Cities — Chapter 24 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-tale-of-two-cities-(dickens)"
@@ -10,145 +10,124 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/a-tale-of-two-cities-(dickens)">A Tale of Two Cities</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_30/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_31/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_30/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_30/part_03">part 03 ›</a></div>
 </nav>
 
 
-The man slept on, indifferent to showers of hail and intervals of
-brightness, to sunshine on his face and [[Shadow|shadow]], to the paltering lumps
-of dull ice on his [[Body|body]] and the diamonds into which the sun changed
-them, until the sun was low in the west, and the sky was glowing. Then,
-the mender of roads having got his tools together and all things ready
-to go down into the village, roused him.
+“How I admire the gallantry of your youthful spirit, Mr. Lorry.”
 
-“Good!” said [[The Sleeper|the sleeper]], rising on his elbow. “Two leagues beyond the
-summit of the [[Hill|hill]]?”
+“Tut! Nonsense, sir!--And, my dear Charles,” said Mr. Lorry, glancing at
+the [[house|House]] again, “you are to remember, that getting things out of
+[[Paris]] at this present [[Time|time]], no matter what things, is next to an
+impossibility. Papers and precious matters were this very day brought
+to us here (I speak in strict confidence; it is not business-like to
+whisper it, even to you), by the strangest bearers you can imagine,
+every one of whom had his head hanging on by a single hair as he passed
+the Barriers. At another [[Time|time]], our parcels would come and go, as easily
+as in business-like Old England; but now, everything is stopped.”
 
-“About.”
+“And do you really go to-[[Night|night]]?”
 
-“About. Good!”
+“I really go to-[[Night|night]], for the case has become too pressing to admit of
+delay.”
 
-The mender of roads went [[Home|home]], with the [[Dust|dust]] going on before him
-according to the set of the [[Wind|wind]], and was soon at the fountain,
-squeezing himself in among the lean kine brought there to drink, and
-appearing even to whisper to them in his whispering to all the village.
-When the village had taken its poor supper, it did not creep to bed,
-as it usually did, but came out of doors again, and remained there. A
-curious contagion of whispering was upon it, and also, when it gathered
-together at the fountain in the dark, another curious contagion of
-looking expectantly at the sky in one direction only. Monsieur Gabelle,
-chief functionary of the place, became uneasy; went out on his [[house]]-top
-[[Alone|alone]], and looked in that direction too; glanced down from behind his
-chimneys at the darkening faces by the fountain below, and sent word to
-the sacristan who kept the keys of the church, that there might be need
-to ring the tocsin by-and-bye.
+“And do you take no one with you?”
 
-The [[Night|night]] deepened. The trees environing the old chateau, keeping its
-solitary state apart, moved in a rising [[Wind|wind]], as though they threatened
-the pile of building massive and dark in the gloom. Up the two terrace
-flights of steps the rain ran wildly, and beat at the great door, like a
-swift messenger rousing those within; uneasy rushes of [[Wind|wind]] went through
-the hall, among the old spears and knives, and passed lamenting up the
-stairs, and shook the curtains of the bed where the last Marquis
-had slept. East, West, North, and South, through the woods, four
-heavy-treading, unkempt figures crushed the high grass and cracked the
-branches, striding on cautiously to come together in the courtyard. Four
-lights broke out there, and moved away in different directions, and all
-was black again.
+“All sorts of people have been proposed to me, but I will have nothing
+to say to any of them. I intend to take Jerry. Jerry has been my
+bodyguard on [[Sunday]] nights for a long [[Time|time]] past and I am used to him.
+Nobody will suspect Jerry of being anything but an English bull-dog, or
+of having any design in his head but to fly at anybody who touches his
+master.”
 
-But, not for long. Presently, the chateau began to make itself strangely
-visible by some light of its own, as though it were growing luminous.
-Then, a flickering streak played behind the architecture of the front,
-picking out transparent places, and showing where balustrades, arches,
-and windows were. Then it soared higher, and grew broader and brighter.
-Soon, from a score of the great windows, flames burst forth, and the
-stone faces awakened, stared out of [[Fire|fire]].
+“I must say again that I heartily admire your gallantry and
+youthfulness.”
 
-A faint murmur arose about the [[house]] from the few people who were left
-there, and there was a saddling of a [[Horse|horse]] and riding away. There was
-spurring and splashing through the darkness, and bridle was drawn in the
-space by the village fountain, and the [[Horse|horse]] in a foam stood at Monsieur
-Gabelle’s door. “Help, Gabelle! Help, every one!” The tocsin rang
-impatiently, but other help (if that were any) there was none. The
-mender of roads, and two hundred and fifty particular friends, stood
-with folded arms at the fountain, looking at the pillar of [[Fire|fire]] in the
-sky. “It must be forty feet high,” said they, grimly; and never moved.
+“I must say again, nonsense, nonsense! When I have executed this little
+commission, I shall, perhaps, accept Tellson’s proposal to retire and
+live at my ease. [[Time]] enough, then, to think about growing old.”
 
-The rider from the chateau, and the [[Horse|horse]] in a foam, clattered away
-through the village, and galloped up the stony steep, to the [[Prison|prison]] on
-the crag. At the gate, a group of officers were looking at the [[Fire|fire]];
-removed from them, a group of soldiers. “Help, gentlemen--officers! The
-chateau is on [[Fire|fire]]; valuable objects may be saved from the flames by
-timely aid! Help, help!” The officers looked towards the soldiers who
-looked at the [[Fire|fire]]; gave no orders; and answered, with shrugs and biting
-of lips, “It must burn.”
+This dialogue had taken place at Mr. Lorry’s usual desk, with
+Monseigneur swarming within a yard or two of it, boastful of what he
+would do to avenge himself on the rascal-people before long. It was too
+much the way of Monseigneur under his reverses as a refugee, and it
+was much too much the way of native British orthodoxy, to talk of this
+terrible Revolution as if it were the only harvest ever known under
+the skies that had not been sown--as if nothing had ever been done, or
+omitted to be done, that had led to it--as if observers of the wretched
+millions in France, and of the misused and perverted resources that
+should have made them prosperous, had not seen it inevitably coming,
+years before, and had not in plain words recorded what they saw. Such
+vapouring, combined with the extravagant plots of Monseigneur for the
+restoration of a state of things that had utterly exhausted itself,
+and worn out Heaven and earth as [[Well|well]] as itself, was hard to be endured
+without some remonstrance by any sane man who knew the [[Truth|truth]]. And it was
+such vapouring all about his ears, like a troublesome confusion of [[Blood|blood]]
+in his own head, added to a latent uneasiness in his mind, which had
+already made [[Charles Darnay]] restless, and which still kept him so.
 
-As the rider rattled down the [[Hill|hill]] again and through the street, the
-village was illuminating. The mender of roads, and the two hundred and
-fifty particular friends, inspired as one man and woman by the idea of
-lighting up, had darted into their houses, and were putting candles in
-every dull little pane of glass. The general scarcity of everything,
-occasioned candles to be borrowed in a rather peremptory manner of
-Monsieur Gabelle; and in a moment of reluctance and hesitation on
-that functionary’s part, the mender of roads, once so submissive to
-authority, had remarked that carriages were good to make bonfires with,
-and that post-horses would roast.
+Among the talkers, was Stryver, of the [[King]]’s Bench Bar, far on his
+way to state promotion, and, therefore, loud on the theme: broaching
+to Monseigneur, his devices for blowing the people up and exterminating
+them from the face of the earth, and doing without them: and for
+accomplishing many similar objects akin in their [[Nature|nature]] to the abolition
+of eagles by sprinkling salt on the tails of the race. Him, Darnay heard
+with a particular feeling of objection; and Darnay stood divided between
+going away that he might hear no more, and remaining to interpose his
+word, when the thing that was to be, went on to shape itself out.
 
-The chateau was left to itself to flame and burn. In the roaring and
-raging of the conflagration, a red-hot [[Wind|wind]], driving straight from the
-infernal regions, seemed to be blowing the edifice away. With the rising
-and falling of the blaze, the stone faces showed as if they were in
-torment. When great masses of stone and timber fell, the face with the
-two dints in the nose became obscured: anon struggled out of the smoke
-again, as if it were the face of the cruel Marquis, burning at the stake
-and contending with the [[Fire|fire]].
+The [[house|House]] approached Mr. Lorry, and laying a soiled and unopened letter
+before him, asked if he had yet discovered any traces of the person to
+whom it was addressed? The [[house|House]] laid the letter down so close to Darnay
+that he saw the direction--the more quickly because it was his own right
+name. The address, turned into English, ran:
 
-The chateau burned; the nearest trees, laid hold of by the [[Fire|fire]],
-scorched and shrivelled; trees at a distance, fired by the four fierce
-figures, begirt the blazing edifice with a new forest of smoke. Molten
-lead and iron boiled in the marble basin of the fountain; the [[Water|water]] ran
-dry; the extinguisher tops of the towers vanished like ice before the
-heat, and trickled down into four rugged wells of flame. Great rents and
-splits branched out in the solid walls, like crystallisation; stupefied
-[[Birds|birds]] wheeled about and dropped into the furnace; four fierce figures
-trudged away, East, West, North, and South, along the [[Night|night]]-enshrouded
-roads, guided by the beacon they had lighted, towards their next
-destination. The illuminated village had seized hold of the tocsin, and,
-abolishing the lawful ringer, rang for joy.
+“Very pressing. To Monsieur heretofore the Marquis St. Evrémonde, of
+France. Confided to the cares of Messrs. Tellson and Co., Bankers,
+[[London]], England.”
 
-Not only that; but the village, light-headed with famine, [[Fire|fire]], and
-bell-ringing, and bethinking itself that Monsieur Gabelle had to do with
-the collection of rent and taxes--though it was but a small instalment
-of taxes, and no rent at all, that Gabelle had got in those latter
-days--became impatient for an interview with him, and, surrounding his
-[[house]], summoned him to come forth for personal conference. Whereupon,
-Monsieur Gabelle did heavily bar his door, and retire to hold counsel
-with himself. The result of that conference was, that Gabelle again
-withdrew himself to his housetop behind his stack of chimneys; this [[Time|time]]
-resolved, if his door were broken in (he was a small Southern man
-of retaliative temperament), to pitch himself head foremost over the
-parapet, and crush a man or two below.
+On the [[Marriage|marriage]] morning, [[Doctor Manette]] had made it his one urgent and
+express request to [[Charles Darnay]], that the secret of this name should
+be--unless he, the Doctor, dissolved the obligation--kept inviolate
+between them. Nobody else knew it to be his name; his own wife had no
+suspicion of the fact; Mr. Lorry could have none.
 
-Probably, Monsieur Gabelle passed a long [[Night|night]] up there, with the
-distant chateau for [[Fire|fire]] and candle, and the beating at his door,
-combined with the joy-ringing, for music; not to mention his having an
-ill-omened lamp slung across the [[Road|road]] before his posting-[[house]] gate,
-which the village showed a lively inclination to displace in his favour.
-A trying suspense, to be passing a whole [[Summer|summer]] [[Night|night]] on the brink of
-the black ocean, ready to take that plunge into it upon which Monsieur
-Gabelle had resolved! But, the friendly [[Dawn|dawn]] appearing at last, and the
-rush-candles of the village guttering out, the people happily dispersed,
-and Monsieur Gabelle came down bringing his life with him for that
-while.
+“No,” said Mr. Lorry, in reply to the [[house|House]]; “I have referred it,
+I think, to everybody now here, and no one can tell me where this
+gentleman is to be found.”
 
-Within a hundred miles, and in the light of other fires, there were
-other functionaries less fortunate, that [[Night|night]] and other nights, whom
-the rising sun found hanging across once-peaceful streets, where they
-had been born and bred; also, there were other villagers and townspeople
-less fortunate than the mender of roads and his fellows, upon whom the
-functionaries and soldiery turned with [[success]], and whom they strung up
-in their turn. But, the fierce figures were steadily wending East, West,
-North, and South, be that as it would; and whosoever hung, [[Fire|fire]] burned.
-The altitude of the gallows that would turn to [[Water|water]] and quench it,
-no functionary, by any stretch of mathematics, was able to calculate
-successfully.
+The hands of the [[Clock|clock]] verging upon the hour of closing the Bank, there
+was a general set of the current of talkers past Mr. Lorry’s desk. He
+held the letter out inquiringly; and Monseigneur looked at it, in the
+person of this plotting and indignant refugee; and Monseigneur looked at
+it in the person of that plotting and indignant refugee; and This, That,
+and The Other, all had something disparaging to say, in French or in
+English, concerning the Marquis who was not to be found.
+
+“Nephew, I believe--but in any case degenerate successor--of the
+polished Marquis who was murdered,” said one. “Happy to say, I never
+knew him.”
+
+“A craven who abandoned his post,” said another--this Monseigneur had
+been got out of [[Paris]], legs uppermost and half suffocated, in a load of
+hay--“some years ago.”
+
+“Infected with the new doctrines,” said a third, eyeing the direction
+through his glass in passing; “set himself in opposition to the last
+Marquis, abandoned the estates when he inherited them, and left them to
+the ruffian herd. They will recompense him now, I [[Hope|hope]], as he deserves.”
+
+“Hey?” cried the blatant Stryver. “Did he though? Is that the sort of
+fellow? Let us look at his infamous name. D--n the fellow!”
+
+Darnay, unable to restrain himself any longer, touched Mr. Stryver on
+the shoulder, and said:
+
+“I know the fellow.”
+
+“Do you, by Jupiter?” said Stryver. “I am sorry for it.”
+
+“Why?”
+
+“Why, Mr. Darnay? D’ye hear what he did? Don’t ask, why, in these
+times.”

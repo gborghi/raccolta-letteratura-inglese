@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 54 (part 1)"
+title: "Bleak House — Chapter 54 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -136,7 +136,3 @@ affairs.”
 necessary; though I give it credit for being [[Well|well]] intended. Be so
 good as to go on. Also”—Sir Leicester seems to shrink in the [[Shadow|shadow]]
 of his figure—“also, to take a seat, if you have no objection.”
-
-None at all. Mr. Bucket brings a chair and diminishes his [[Shadow|shadow]].
-“Now, [[Sir Leicester Dedlock]], Baronet, with this short preface I come
-to the point. [[Lady Dedlock]]—”

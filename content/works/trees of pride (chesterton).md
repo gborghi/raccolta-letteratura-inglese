@@ -37,13 +37,13 @@ tags:
 ## Chapters / scenes / sections
 
 - [Story 01 THE TALE OF THE PEACOCK TREES](/testi/chesterton/atomized/trees_of_pride/story_01_the_tale_of_the_peacock_trees)
-- [Story 02 THE WAGER OF SQUIRE VANE](/testi/chesterton/atomized/trees_of_pride/story_02_the_wager_of_squire_vane)
-- [Story 03 THE MYSTERY OF THE WELL](/testi/chesterton/atomized/trees_of_pride/story_03_the_mystery_of_the_well)
-- [Story 04 THE CHASE AFTER THE TRUTH](/testi/chesterton/atomized/trees_of_pride/story_04_the_chase_after_the_truth)
-- [Story 05 THE TALE OF THE PEACOCK TREES](/testi/chesterton/atomized/trees_of_pride/story_05_the_tale_of_the_peacock_trees)
-- [Story 06 THE WAGER OF SQUIRE VANE](/testi/chesterton/atomized/trees_of_pride/story_06_the_wager_of_squire_vane)
-- [Story 07 THE MYSTERY OF THE WELL](/testi/chesterton/atomized/trees_of_pride/story_07_the_mystery_of_the_well)
-- [Story 08 THE CHASE AFTER THE TRUTH](/testi/chesterton/atomized/trees_of_pride/story_08_the_chase_after_the_truth)
+- Story 02 THE WAGER OF SQUIRE VANE
+- Story 03 THE MYSTERY OF THE WELL
+- Story 04 THE CHASE AFTER THE TRUTH
+- Story 05 THE TALE OF THE PEACOCK TREES
+- Story 06 THE WAGER OF SQUIRE VANE
+- Story 07 THE MYSTERY OF THE WELL
+- Story 08 THE CHASE AFTER THE TRUTH
 
 ## Testo integrale / Full text
 

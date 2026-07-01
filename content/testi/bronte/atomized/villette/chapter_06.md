@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 6"
+title: "Villette — Chapter 6"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/villette-(bronte)"
@@ -67,7 +67,7 @@ Prodigious was the amount of life I lived that morning. Finding myself
 before St. Paul’s, I went in; I mounted to the dome: I saw thence
 [[London]], with its [[River|river]], and its bridges, and its churches; I saw
 antique Westminster, and the green Temple Gardens, with sun upon them,
-and a glad, blue sky, of early [[spring]] above; and between them and it,
+and a glad, blue sky, of early [[Spring|spring]] above; and between them and it,
 not too dense, a cloud of haze.
 
 Descending, I went wandering whither chance might lead, in a still

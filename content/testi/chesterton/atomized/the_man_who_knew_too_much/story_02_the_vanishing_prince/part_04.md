@@ -14,6 +14,30 @@ tags:
 </nav>
 
 
+even the colors were hardly created, when there was only blank
+
+daylight between cloud and clay. These dead hues were relieved only
+
+by one spot of gold—the spark of the candle alight in the [[Window|window]]
+
+of the lonely tower, and burning on into the broadening daylight. As
+
+the group of detectives, followed by a cordon of policemen, spread
+
+out into a crescent to cut off all escape, the light in the tower
+
+flashed as if it were moved for a moment, and then went out. They
+
+knew the man inside had realized the daylight and blown out his
+
+candle.
+"There are other windows, aren't there?" asked Morton, "and a door,
+
+of course, somewhere round the corner? Only a round tower has no
+
+corners."
+"Another example of my small suggestion," observed Wilson, quietly.
+
 "That queer tower was the first thing I saw when I came to these
 
 parts; and I can tell you a little more about it—or, at any rate,
@@ -161,35 +185,3 @@ and the candlestick. Halfway up the high wall there was a rude
 timber platform under the upper [[Window|window]], a small loft which was more
 
 like a large shelf. It was reached only by a ladder, and it seemed
-
-to be as bare as the bare walls. Wilson completed his survey of the
-
-place and then went and stared at the things on the table. Then he
-
-silently pointed with his lean forefinger at the open page of the
-
-large notebook. The writer had suddenly stopped writing, even in the
-
-middle of a word.
-"I said it was like an explosion," said Sir Walter Carey at last.
-
-"And really the man himself seems to have suddenly exploded. But he
-
-has blown himself up somehow without touching the tower. He's burst
-
-more like a bubble than a bomb."
-"He has touched more valuable things than the tower," said Wilson,
-
-gloomily.
-There was a long [[Silence|silence]], and then Sir Walter said, seriously:
-
-"[[Well]], Mr. Wilson, I am not a [[Detective|detective]], and these unhappy
-
-happenings have left you in charge of that branch of the business.
-
-We all lament the cause of this, but I should like to say that I
-
-myself have the strongest confidence in your capacity for carrying
-
-on the work. What do you think we should do next?"
-Wilson seemed to rouse himself from his depression and acknowledged

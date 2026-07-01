@@ -1,5 +1,5 @@
 ---
-title: "[[Milton]] (part 2)"
+title: "Milton (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/milton-(chesterton)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/milton/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/milton/part/part_03">part 03 ›</a></div>
 </nav>
 
+
+in an age when nearly all poets were proud of being unintelligible;
+
+an age of one hundred Brownings gone mad.  The seventeenth century was
+
+a most extraordinary [[Time|time]], which still awaits its adequate explanation.
 
 It was something coming after the [[Renaissance]] which developed and yet
 
@@ -56,8 +62,6 @@ was horribly complex; it was learned, it was crabbed, and in nearly
 
 all its art and utterance, it was crooked.
 
-
-
 Remember the wonderfully witty poets of Charles I.;
 
 those wonderfully witty poets who were incomprehensible at
@@ -88,8 +92,6 @@ appeared more pure and translucent than it really was in contrast
 
 with all the mad [[Mystification|mystification]] and darkness.
 
-
-
 A [[Riddle|riddle]] itself, that [[Time|time]] is full of minor riddles; and one of
 
 the most inexplicable of them involves the whole position of [[Milton]].
@@ -107,8 +109,6 @@ after the [[Reformation]], lay the real seed of modern [[Self|self]]-[[governmen
 and [[Freedom|freedom]], or, to speak more strictly, of the modern belief in them;
 
 for we rather praise these things than possess them.
-
-
 
 The first and fundamental fact is certainly against the liberalizing
 
@@ -168,8 +168,6 @@ The [[King]] of the Cavaliers was certainly not so purely willful,
 
 so sublimely capricious a sultan, as the God of the Puritans.
 
-
-
 But we can add something much more plain and practical.
 
 It is not merely that despotism or oligarchy might [[Well|well]] have
@@ -195,15 +193,3 @@ universal suffrage would have been a clear victory for the [[King|king]].
 The really brilliant triumph of Cromwell was not his triumph
 
 over the monarchy, but his triumph over the [[democracy]]; the fact
-
-that he somehow kept the enormous crowd called England quiet.
-
-In short, his great glory was not in heading the Great Rebellion,
-
-but in avoiding the Great Rebellion.  For the really Great Rebellion
-
-was the one that never happened.  But, indeed, it is unnecessary even
-
-to urge so generally accepted a conjecture as this.  Whatever may be true
-
-of the rebellion as a whole, no one will deny that at certain moments

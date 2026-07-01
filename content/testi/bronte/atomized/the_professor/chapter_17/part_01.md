@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 16 (part 1)"
+title: "The Professor — Chapter 16 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -15,8 +15,6 @@ tags:
 
 
 CHAPTER XVI.
-
-
 
 In the course of another fortnight I had seen sufficient of Frances
 
@@ -110,8 +108,6 @@ the same preoccupied, unsmiling, sorrowfully resolved air that always
 
 shaded her features under the roof of Mdlle. Reuter, I could not tell.
 
-
-
 One day I gave, as a devoir, the trite little anecdote of Alfred tending
 
 cakes in the herdsman’s hut, to be related with amplifications. A
@@ -132,8 +128,6 @@ copied the anecdote out fair. I wrote on the margin of her production
 
 “Stupid and deceitful,” and then tore it down the middle.
 
-
-
 Last in the pile of single-leaved devoirs, I found one of several
 
 sheets, neatly written out and stitched together; I knew the hand, and
@@ -141,8 +135,6 @@ sheets, neatly written out and stitched together; I knew the hand, and
 scarcely needed the evidence of the signature “Frances Evans Henri” to
 
 confirm my conjecture as to the writer’s [[Identity|identity]].
-
-
 
 [[Night]] was my usual [[Time|time]] for correcting devoirs, and my own room the
 
@@ -154,8 +146,6 @@ as I snuffed the candle and addressed myself to the perusal of the poor
 
 teacher’s manuscript.
 
-
-
 “Now,” thought I, “I shall see a glimpse of what she really is; I shall
 
 get an idea of the [[Nature|nature]] and extent of her powers; not that she can be
@@ -163,8 +153,6 @@ get an idea of the [[Nature|nature]] and extent of her powers; not that she can 
 expected to express herself [[Well|well]] in a foreign tongue, but still, if she
 
 has any mind, here will be a reflection of it.”
-
-
 
 The narrative commenced by a description of a Saxon peasant’s hut,
 
@@ -188,8 +176,6 @@ who rests half reclined on a bed of rushes near the hearth, bids him
 
 mind the bread till her return.
 
-
-
 “Take care, young man,” she continues, “that you fasten the door [[Well|well]]
 
 after us; and, above all, open to none in our absence; whatever sound
@@ -197,9 +183,3 @@ after us; and, above all, open to none in our absence; whatever sound
 you hear, stir not, and look not out. The [[Night|night]] will soon fall; this
 
 forest is most wild and lonely; strange noises are often heard therein
-
-after sunset; wolves haunt these glades, and Danish warriors infest the
-
-country; worse things are talked of; you might chance to hear, as it
-
-were, a [[Child|child]] cry, and on opening the door to afford it succour, a great

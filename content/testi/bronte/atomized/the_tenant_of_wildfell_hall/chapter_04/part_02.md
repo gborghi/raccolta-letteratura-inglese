@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 4 (part 2)"
+title: "The Tenant of Wildfell Hall — Chapter 4 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_04/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_04/part_03">part 03 ›</a></div>
 </nav>
 
+
+seldom quitting the secluded place of his birth, where he had lived in
+
+solitary state since the [[Death|death]] of his father, he had neither the
+
+opportunity nor the inclination for forming many acquaintances; and, of
 
 all he had ever known, I (judging by the results) was the companion
 
@@ -231,19 +237,3 @@ concluding with, “Now, don’t you think it is wrong?”
 I should say—criminal! Not only is it making a [[Fool|fool]] of the boy, but it
 
 is despising the gifts of [[Providence]], and teaching him to trample them
-
-under his feet.”
-
-
-
-He then entered more fully into the question, and explained at large
-
-the folly and impiety of such a proceeding. My mother heard him with
-
-profoundest reverence; and even Mrs. Wilson vouchsafed to rest her
-
-tongue for a moment, and listen in [[Silence|silence]], while she complacently
-
-sipped her gin-and-[[Water|water]]. Mr. Lawrence sat with his elbow on the table,
-
-carelessly playing with his half-empty wine-glass, and covertly smiling

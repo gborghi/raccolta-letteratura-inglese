@@ -1,5 +1,5 @@
 ---
-title: "[[THE PICCOLOMINI|THE PICCOLOMINI]]"
+title: "THE PICCOLOMINI"
 author: "Coleridge"
 unitType: work
 parentWork: "works/the-piccolomini-(coleridge)"

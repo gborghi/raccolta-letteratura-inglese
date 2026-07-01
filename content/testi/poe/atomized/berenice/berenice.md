@@ -1,5 +1,5 @@
 ---
-title: "[[Berenice]]"
+title: "Berenice"
 author: "Poe"
 unitType: work
 parentWork: "works/berenice-(poe)"

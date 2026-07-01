@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 30 (part 4)"
+title: "Villette — Chapter 30 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,26 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_32/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_33/part_01">part 01 ›</a></div>
 </nav>
 
+
+And at last he liberated me on parole. My own plan was to go and return
+with [[Speed|speed]] and good [[Faith|faith]], to put the plate in at the door, and then to
+vanish incontinent, leaving all consequences for future settlement.
+
+That intolerably keen instinct of his seemed to have anticipated my
+scheme: he met me at the threshold, hurried me into the room, and fixed
+me in a minute in my former seat. Taking the plate of fruit from my
+hand, he divided the portion intended only for himself, and ordered me
+to eat my share. I complied with no good grace, and vexed, I suppose,
+by my reluctance, he opened a masked and dangerous battery. All he had
+yet said, I could count as mere sound and fury, signifying nothing: not
+so of the present attack.
+
+It consisted in an unreasonable proposition with which he had before
+afflicted me: namely, that on the next public examination-day I should
+engage—foreigner as I was—to take my place on the first form of
+first-class pupils, and with them improvise a composition in French, on
+any subject any spectator might dictate, without benefit of grammar or
+lexicon.
 
 I knew what the result of such an experiment would be. I, to whom
 [[Nature|nature]] had denied the impromptu faculty; who, in public, was by [[Nature|nature]]

@@ -1,5 +1,5 @@
 ---
-title: "[[to-frances]] (part 1)"
+title: "to-frances (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/to-frances-(chesterton)"

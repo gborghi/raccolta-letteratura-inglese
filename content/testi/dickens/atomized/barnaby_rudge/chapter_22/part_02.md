@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 22 (part 2)"
+title: "Barnaby Rudge — Chapter 22 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_22/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_23/part_01">part 01 ›</a></div>
 </nav>
 
+
+In fact, Dolly had thrown herself upon the sofa, quite regardless of
+all the little finery of which she had been so proud in the morning, and
+with her face buried in her hands was crying very much.
 
 At first sight of this phenomenon (for Dolly was by no means accustomed
 to displays of this sort, rather learning from her mother’s example to

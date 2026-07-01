@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 21"
+title: "Mansfield Park — Chapter 21"
 author: "Austen"
 unitType: chapter
 parentWork: "works/mansfield-park-(austen)"
@@ -246,7 +246,7 @@ she was complete: being prepared for matrimony by an hatred of [[Home|home]],
 restraint, and tranquillity; by the misery of disappointed affection,
 and contempt of the man she was to marry. The rest might wait. The
 preparations of new carriages and furniture might wait for [[London]] and
-[[spring]], when her own taste could have fairer play.
+[[Spring|spring]], when her own taste could have fairer play.
 
 The principals being all agreed in this respect, it soon appeared that
 a very few weeks would be sufficient for such arrangements as must

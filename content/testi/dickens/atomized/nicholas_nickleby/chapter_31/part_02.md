@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 31 (part 2)"
+title: "Nicholas Nickleby — Chapter 31 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_31/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_31/part_03">part 03 ›</a></div>
 </nav>
 
+
+It was opened by a strange servant, on whom the odd figure of the
+visitor did not appear to make the most favourable impression possible,
+inasmuch as she no sooner saw him than she very nearly closed it, and
+placing herself in the narrow gap, inquired what he wanted. But Newman
+merely uttering the monosyllable ‘Noggs,’ as if it were some cabalistic
+word, at sound of which bolts would fly back and doors open, pushed
+briskly past and gained the door of Miss La Creevy’s sitting-room,
+before the astonished servant could offer any opposition.
 
 ‘Walk in if you please,’ said Miss La Creevy in reply to the sound of
 Newman’s knuckles; and in he walked accordingly.
@@ -117,16 +126,3 @@ before I die, I’m quite certain of it.’
 
 ‘I shall scream if you don’t compose yourself, Mr. Noggs,’ said Miss La
 Creevy; ‘I’m sure I shan’t be able to help it.’
-
-‘Never mind,’ rejoined Newman, darting violently to and fro. ‘He’s
-coming up tonight: I wrote to tell him. He little thinks I know; he
-little thinks I care. Cunning scoundrel! he don’t think that. Not
-he, not he. Never mind, I’ll thwart him--I, [[Newman Noggs]]. Ho, ho, the
-rascal!’
-
-Lashing himself up to an extravagant pitch of fury, [[Newman Noggs]] jerked
-himself about the room with the most eccentric motion ever beheld in a
-human being: now sparring at the little miniatures on the wall, and
-now giving himself violent thumps on the head, as if to heighten the
-delusion, until he sank down in his former seat quite breathless and
-exhausted.

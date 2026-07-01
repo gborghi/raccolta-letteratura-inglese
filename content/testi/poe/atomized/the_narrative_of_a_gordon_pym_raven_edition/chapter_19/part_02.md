@@ -14,6 +14,8 @@ tags:
 </nav>
 
 
+      skins being used only by the men of the canoes. All the weapons
+
       of the country seemed also to be in the possession of the latter,
 
       for there was no appearance of any among the villagers. There

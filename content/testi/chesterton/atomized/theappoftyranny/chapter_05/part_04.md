@@ -1,5 +1,5 @@
 ---
-title: "[[TheAppOfTyranny]] — Chapter 4 (part 4)"
+title: "TheAppOfTyranny — Chapter 4 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/theappoftyranny-(chesterton)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/theappoftyranny/chapter_05/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/theappoftyranny/chapter_05/part_05">part 05 ›</a></div>
 </nav>
 
+
+less sane, less capable of liberty and of laughter, than any of the worst
+
+parts of the European past. And when I cast about for a form in which to
+
+explain shortly why we think so, I thought of you. For this is a matter so
+
+large that I know not how to express it except in terms of artists like
+
+you, in the service of [[Beauty|beauty]] and the [[Faith|faith]] in [[Freedom|freedom]]. Prussia, at least
+
+cannot help me; Lord Palmerston, I believe, called it a country of damned
+
+professors. Lord Palmerston, I [[Fear|fear]], used the word "damned" more or less
+
+flippantly. I use it reverently.
 
 Rome, at her very weakest, has always been a [[River|river]] that wanders and widens
 
@@ -31,8 +47,6 @@ expressed more often in the slangs than in the tongues of men. The English
 call it a fad. I do not know what the Italians call it; the Prussians call
 
 it [[philosophy]].
-
-
 
 Here is the sort of instance that made me think of you. What would you feel
 
@@ -61,8 +75,6 @@ worthy of the man's terrible paganism and his more terrible [[Christianity]].
 Who but God could have graven [[Michael]] [[Angelo]]; who came so near to graving
 
 the Mother of God?
-
-
 
 German culture deals with the matter as follows:--"Michelangelo Buonarotti
 
@@ -104,8 +116,6 @@ though originally of German family he was a hybrid between the North and
 
 West brunette race."
 
-
-
 Would you take the trouble to prove that [[Michael]] [[Angelo]] was an Italian that
 
 this man takes to prove that he was a German? Of course not. The only
@@ -144,8 +154,6 @@ begins with the popular sporting cry "Go!" But the ultimate difference
 
 between us and the Prussian professor is simply that we are not mad.
 
-
-
 The father of Frederick the Great, the founder of the more modern
 
 Hohenzollerns, was mad. His [[Madness|madness]] consisted of stealing giants; like an
@@ -169,23 +177,3 @@ Leonardo da Vinci, and Shakespeare himself are among the monstrosities
 exhibited at Frederick-William fair--on grounds as good as those quoted
 
 above. But I have put this particular case before you, as an [[artist]] rather
-
-than an Italian, to show what I mean when I object to a "German future for
-
-Europe." I object to something which believes very much in itself, and in
-
-which I do not in the least believe. I object to something which is
-
-conceited and small-minded; but which also has that kind of pertinacity
-
-which always belongs to lunatics. It wants to be able to congratulate
-
-itself on [[Michael]] [[Angelo]]; never to congratulate the world. It is the spirit
-
-that can be seen in those who go bald trying to trace a genealogy; or go
-
-bankrupt trying to make out a claim to some remote estate. The Prussian has
-
-the inconsistency of the _parvenu_; he will labour to prove that he is
-
-related to some gentleman of the [[Renaissance]], even while he boasts of being

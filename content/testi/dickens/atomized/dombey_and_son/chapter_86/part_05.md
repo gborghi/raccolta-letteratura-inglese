@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 30 (part 5)"
+title: "Dombey and Son — Chapter 58 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,133 +14,136 @@ tags:
 </nav>
 
 
-The week fled faster. It had nearly winged its flight away. The last
-[[Night|night]] of the week, the [[Night|night]] before the [[Marriage|marriage]], was come. In the dark
-room—for Mrs Skewton’s head was no better yet, though she expected to
-recover permanently to-morrow—were that lady, Edith, and Mr Dombey.
-Edith was at her open [[Window|window]] looking out into the street; Mr Dombey and
-[[Cleopatra]] were talking softly on the sofa. It was growing late; and
-Florence, being fatigued, had gone to bed.
+Mrs Wickam, with her eyebrows elevated, and her head on one side,
+lighted the way upstairs to a clean, neat chamber, opening on another
+chamber dimly lighted, where there was a bed. In the first room, an old
+woman sat mechanically staring out at the open [[Window|window]], on the darkness.
+In the second, stretched upon the bed, lay the [[Shadow|shadow]] of a figure that
+had spurned the [[Wind|wind]] and rain, one wintry [[Night|night]]; hardly to be
+recognised now, but by the long black hair that showed so very black
+against the colourless face, and all the white things about it.
 
-“My dear Dombey,” said [[Cleopatra]], “you will leave me Florence
-to-morrow, when you deprive me of my sweetest Edith.”
+Oh, the strong eyes, and the weak frame! The eyes that turned so
+eagerly and brightly to the door when Harriet came in; the feeble head
+that could not raise itself, and moved so slowly round upon its pillow!
 
-Mr Dombey said he would, with pleasure.
+“Alice!” said the visitor’s mild voice, “am I late tonight?”
 
-“To have her about me, here, while you are both at [[Paris]], and to think
-at her age, I am assisting in the formation of her mind, my dear
-Dombey,” said [[Cleopatra]], “will be a perfect balm to me in the extremely
-shattered state to which I shall be reduced.”
+“You always seem late, but are always early.”
 
-Edith turned her head suddenly. Her listless manner was exchanged, in a
-moment, to one of burning interest, and, unseen in the darkness, she
-attended closely to their conversation.
+Harriet had sat down by the bedside now, and put her hand upon the thin
+hand lying there.
 
-Mr Dombey would be delighted to leave Florence in such admirable
-guardianship.
+“You are better?”
 
-“My dear Dombey,” returned [[Cleopatra]], “a thousand thanks for your good
-opinion. I feared you were going, with malice aforethought, as the
-dreadful lawyers say—those horrid prosers!—to condemn me to utter
-[[Solitude|solitude]].”
+Mrs Wickam, standing at the foot of the bed, like a disconsolate
+spectre, most decidedly and forcibly shook her head to negative this
+position.
 
-“Why do me so great an injustice, my dear madam?” said Mr Dombey.
+“It matters very little!” said Alice, with a faint smile. “Better or
+worse today, is but a day’s difference—perhaps not so much.”
 
-“Because my charming Florence tells me so positively she must go [[Home|home]]
-tomorrow, returned [[Cleopatra]], that I began to be afraid, my dearest
-Dombey, you were quite a Bashaw.”
+Mrs Wickam, as a serious character, expressed her approval with a
+groan; and having made some cold dabs at the [[Bottom|bottom]] of the bedclothes,
+as feeling for the patient’s feet and expecting to find them stony;
+went clinking among the medicine bottles on the table, as who should
+say, “while we are here, let us repeat the mixture as before.”
 
-“I assure you, madam!” said Mr Dombey, “I have laid no commands on
-Florence; and if I had, there are no commands like your wish.”
+“No,” said Alice, whispering to her visitor, “evil courses, and
+remorse, travel, want, and weather, [[Storm|storm]] within, and [[Storm|storm]] without,
+have worn my life away. It will not last much longer.
 
-“My dear Dombey,” replied [[Cleopatra]], what a courtier you are! Though
-I’ll not say so, either; for courtiers have no heart, and yours
-pervades your farming life and character. And are you really going so
-early, my dear Dombey!”
+She drew the hand up as she spoke, and laid her face against it.
 
-Oh, indeed! it was late, and Mr Dombey feared he must.
+“I lie here, sometimes, thinking I should like to live until I had had
+a little [[Time|time]] to show you how grateful I could be! It is a weakness,
+and soon passes. Better for you as it is. Better for me!”
 
-“Is this a fact, or is it all [[A Dream|a dream]]!” lisped [[Cleopatra]]. “Can I
-believe, my dearest Dombey, that you are coming back tomorrow morning
-to deprive me of my sweet companion; my own Edith!”
+How different her hold upon the hand, from what it had been when she
+took it by the fireside on the bleak [[Winter|winter]] evening! Scorn, rage,
+defiance, recklessness, look here! This is the end.
 
-Mr Dombey, who was accustomed to take things literally, reminded Mrs
-Skewton that they were to meet first at the church.
+Mrs Wickam having clinked sufficiently among the bottles, now produced
+the mixture. Mrs Wickam looked hard at her patient in the act of
+drinking, screwed her mouth up tight, her eyebrows also, and shook her
+head, expressing that tortures shouldn’t make her say it was a hopeless
+case. Mrs Wickam then sprinkled a little cooling-stuff about the room,
+with the air of a female [[Grave|grave]]-digger, who was strewing ashes on ashes,
+[[Dust|dust]] on [[Dust|dust]]—for she was a serious character—and withdrew to partake of
+certain funeral baked meats downstairs.
 
-“The pang,” said Mrs Skewton, “of consigning a [[Child|child]], even to you, my
-dear Dombey, is one of the most excruciating imaginable, and combined
-with a naturally delicate constitution, and the extreme stupidity of
-the pastry-cook who has undertaken the breakfast, is almost too much
-for my poor strength. But I shall rally, my dear Dombey, in the
-morning; do not [[Fear|fear]] for me, or be uneasy on my account. Heaven bless
-you! My dearest Edith!” she cried archly. “Somebody is going, pet.”
+“How long is it,” asked Alice, “since I went to you and told you what I
+had done, and when you were advised it was too late for anyone to
+follow?”
 
-Edith, who had turned her head again towards the [[Window|window]], and whose
-interest in their conversation had ceased, [[Rose|rose]] up in her place, but
-made no advance towards him, and said nothing. Mr Dombey, with a lofty
-gallantry adapted to his dignity and the occasion, betook his creaking
-boots towards her, put her hand to his lips, said, “Tomorrow morning I
-shall have the happiness of claiming this hand as Mrs Dombey’s,” and
-bowed himself solemnly out.
+“It is a year and more,” said Harriet.
 
-Mrs Skewton rang for candles as soon as the [[house]]-door had closed upon
-him. With the candles appeared her maid, with the juvenile dress that
-was to delude the world to-morrow. The dress had savage retribution in
-it, as such dresses ever have, and made her infinitely older and more
-hideous than her greasy flannel gown. But Mrs Skewton tried it on with
-mincing satisfaction; smirked at her cadaverous [[Self|self]] in the glass, as
-she thought of its killing effect upon the Major; and [[Suffering|suffering]] her
-maid to take it off again, and to prepare her for repose, tumbled into
-ruins like a [[house]] of painted cards.
+“A year and more,” said Alice, thoughtfully intent upon her face.
+“Months upon months since you brought me here!”
 
-All this [[Time|time]], Edith remained at the dark [[Window|window]] looking out into the
-street. When she and her mother were at last left [[Alone|alone]], she moved from
-it for the first [[Time|time]] that evening, and came opposite to her. The
-yawning, shaking, peevish figure of the mother, with her eyes raised to
-confront the proud erect form of the daughter, whose glance of [[Fire|fire]] was
-bent downward upon her, had a conscious air upon it, that no levity or
-temper could conceal.
+Harriet answered “Yes.”
 
-“I am tired to [[Death|death]],” said she. “You can’t be trusted for a moment.
-You are worse than a [[Child|child]]. [[Child]]! No [[Child|child]] would be half so obstinate
-and undutiful.”
+“Brought me here, by force of gentleness and kindness. Me!” said Alice,
+shrinking with her face behind her hand, “and made me human by woman’s
+looks and words, and angel’s deeds!”
 
-“Listen to me, mother,” returned Edith, passing these words by with a
-scorn that would not descend to trifle with them. “You must remain
-[[Alone|alone]] here until I return.”
+Harriet bending over her, composed and soothed her. By and bye, Alice
+lying as before, with the hand against her face, asked to have her
+mother called.
 
-“Must remain [[Alone|alone]] here, Edith, until you return!” repeated her mother.
+Harriet called to her more than once, but the old woman was so absorbed
+looking out at the open [[Window|window]] on the darkness, that she did not hear.
+It was not until Harriet went to her and touched her, that she [[Rose|rose]] up,
+and came.
 
-“Or in that name upon which I shall call to-morrow to witness what I
-do, so falsely: and so shamefully, I swear I will refuse the hand of
-this man in the church. If I do not, may I fall dead upon the
-pavement!”
+“Mother,” said Alice, taking the hand again, and fixing her lustrous
+eyes lovingly upon her visitor, while she merely addressed a motion of
+her finger to the old woman, “tell her what you know.”
 
-The mother answered with a look of quick alarm, in no degree diminished
-by the look she met.
+“Tonight, my deary?”
 
-“It is enough,” said Edith, steadily, “that we are what we are. I will
-have no youth and [[Truth|truth]] dragged down to my level. I will have no
-guileless [[Nature|nature]] undermined, corrupted, and perverted, to amuse the
-leisure of a world of mothers. You know my meaning. Florence must go
-[[Home|home]].”
+“Ay, mother,” answered Alice, faintly and solemnly, “tonight!”
 
-“You are an idiot, Edith,” cried her angry mother. “Do you expect there
-can ever be peace for you in that [[house]], till she is married, and
-away?”
+The old woman, whose wits appeared disorderly by alarm, remorse, or
+grief, came creeping along the side of the bed, opposite to that on
+which Harriet sat; and kneeling down, so as to bring her withered face
+upon a level with the coverlet, and stretching out her hand, so as to
+touch her daughter’s arm, began:
 
-“Ask me, or ask yourself, if I ever expect peace in that [[house]],” said
-her daughter, “and you know the answer.”
+“My handsome gal—”
 
-“And am I to be told tonight, after all my pains and labour, and when
-you are going, through me, to be rendered independent,” her mother
-almost shrieked in her passion, while her palsied head shook like a
-leaf, “that there is corruption and contagion in me, and that I am not
-fit company for a girl! What are you, pray? What are you?”
+Heaven, what a cry was that, with which she stopped there, gazing at
+the poor form lying on the bed!
 
-“I have put the question to myself,” said Edith, ashy pale, and
-pointing to the [[Window|window]], “more than once when I have been sitting there,
-and something in the faded likeness of my sex has wandered past
-outside; and God knows I have met with my reply. Oh mother, mother, if
-you had but left me to my natural heart when I too was a girl—a younger
-girl than Florence—how different I might have been!”
+“Changed, long ago, mother! Withered, long ago,” said Alice, without
+looking at her. “Don’t grieve for that now.”
+
+“—My daughter,” faltered the old woman, “my gal who’ll soon get better,
+and shame ’em all with her good looks.”
+
+Alice smiled mournfully at Harriet, and fondled her hand a little
+closer, but said nothing.
+
+“Who’ll soon get better, I say,” repeated the old woman, menacing the
+vacant air with her shrivelled fist, “and who’ll shame ’em all with her
+good looks—she will. I say she will! she shall!”—as if she were in
+passionate contention with some unseen opponent at the bedside, who
+contradicted her—“my daughter has been turned away from, and cast out,
+but she could boast relationship to proud folks too, if she chose. Ah!
+To proud folks! There’s relationship without your clergy and your
+wedding rings—they may make it, but they can’t break it—and my
+daughter’s [[Well|well]] related. Show me Mrs Dombey, and I’ll show you my
+Alice’s first cousin.”
+
+Harriet glanced from the old woman to the lustrous eyes intent upon her
+face, and derived corroboration from them.
+
+“What!” cried the old woman, her nodding head bridling with a ghastly
+[[Vanity|vanity]]. “Though I am old and ugly now,—much older by life and habit
+than years though,—I was once as young as any. Ah! as pretty too, as
+many! I was a fresh country wench in my [[Time|time]], darling,” stretching out
+her arm to Harriet, across the bed, “and looked it, too. Down in my
+country, Mrs Dombey’s father and his brother were the gayest gentlemen
+and the best-liked that came a visiting from [[London]]—they have long been
+dead, though! Lord, Lord, this long while! The brother, who was my
+Ally’s father, longest of the two.”

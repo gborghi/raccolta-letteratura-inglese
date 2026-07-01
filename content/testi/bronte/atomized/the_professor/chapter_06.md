@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 5"
+title: "The Professor — Chapter 5"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-professor-(bronte)"
@@ -15,8 +15,6 @@ tags:
 
 
 CHAPTER V.
-
-
 
 THERE is a climax to everything, to every state of feeling as [[Well|well]] as to
 
@@ -41,8 +39,6 @@ still numb; I could not write till they had regained vitality, so I
 went on thinking, and still the theme of my thoughts was the “climax.”
 
  [[Self]]-dissatisfaction troubled exceedingly the current of my meditations.
-
-
 
 “Come, [[William Crimsworth]],” said my [[Conscience|conscience]], or whatever it is that
 
@@ -100,8 +96,6 @@ never be made perfect. Eight o’[[Clock|clock]] strikes! your hands are thawed,
 
 to work!”
 
-
-
 “Work? why should I work?” said I sullenly: “I cannot please though I
 
 toil like a slave.” “Work, work!” reiterated the inward voice. “I may
@@ -113,8 +107,6 @@ packet of letters and commenced my task--task thankless and bitter as
 that of the Israelite crawling over the sun-baked fields of [[Egypt]] in
 
 search of straw and stubble wherewith to accomplish his tale of bricks.
-
-
 
 About ten o’[[Clock|clock]] I heard Mr. Crimsworth’s gig turn into the yard, and
 
@@ -132,8 +124,6 @@ eye, instead of being cold, was fierce. He studied me a minute or two
 
 longer than usual, but went out in [[Silence|silence]].
 
-
-
 Twelve o’[[Clock|clock]] arrived; the bell rang for a suspension of labour; the
 
 workpeople went off to their dinners; Steighton, too, departed, desiring
@@ -146,13 +136,9 @@ preparatory to closing my desk, when Crimsworth reappeared at the door,
 
 and entering closed it behind him.
 
-
-
 “You’ll stay here a minute,” said he, in a deep, brutal voice, while his
 
 nostrils distended and his eye shot a spark of sinister [[Fire|fire]].
-
-
 
 [[Alone]] with Edward I remembered our relationship, and remembering that
 
@@ -160,21 +146,13 @@ forgot the difference of position; I put away deference and careful
 
 forms of speech; I answered with simple brevity.
 
-
-
 “It is [[Time|time]] to go [[Home|home]],” I said, turning the key in my desk.
-
-
 
 “You’ll stay here!” he reiterated. “And take your hand off that key!
 
 leave it in the lock!”
 
-
-
 “Why?” asked I. “What cause is there for changing my usual plans?”
-
-
 
 “Do as I order,” was the answer, “and no questions! You are my servant,
 
@@ -184,21 +162,13 @@ breath, when an abrupt pause announced that rage had for the moment got
 
 the better of articulation.
 
-
-
 “You may look, if you wish to know,” I replied. “There is the open desk,
 
 there are the papers.”
 
-
-
 “Confound your insolence! What have you been about?”
 
-
-
 “Your work, and have done it [[Well|well]].”
-
-
 
 “Hypocrite and twaddler! Smooth-faced, snivelling greasehorn!” (This
 
@@ -208,8 +178,6 @@ black, rancid whale-oil, usually to be seen suspended to cart-wheels,
 
 and employed for greasing the same.)
 
-
-
 “Come, [[Edward Crimsworth]], enough of this. It is [[Time|time]] you and I wound up
 
 accounts. I have now given your service three months’ trial, and I find
@@ -218,13 +186,9 @@ it the most nauseous [[Slavery|slavery]] under the sun. Seek another clerk. I st
 
 no longer.”
 
-
-
 “What! do you dare to give me notice? Stop at least for your wages.” He
 
 took down the heavy gig whip hanging beside his mackintosh.
-
-
 
 I permitted myself to laugh with a degree of scorn I took no pains to
 
@@ -234,19 +198,13 @@ vulgar, impious oaths, without, however, venturing to lift the whip, he
 
 continued:
 
-
-
 “I’ve found you out and know you thoroughly, you mean, whining
 
 lickspittle! What have you been saying all over X---- about me? answer
 
 me that!”
 
-
-
 “You? I have neither inclination nor [[Temptation|temptation]] to talk about you.”
-
-
 
 “You lie! It is your practice to talk about me; it is your constant
 
@@ -260,8 +218,6 @@ minute, and never stir from the spot till I’d cut every strip of flesh
 
 from your bones with this whip.”
 
-
-
 He flourished his tool. The end of the lash just touched my forehead.
 
 A warm excited thrill ran through my veins, my [[Blood|blood]] seemed to give a
@@ -270,15 +226,9 @@ bound, and then raced fast and hot along its channels. I got up nimbly,
 
 came round to where he stood, and faced him.
 
-
-
 “Down with your whip!” said I, “and explain this instant what you mean.”
 
-
-
 “Sirrah! to whom are you speaking?”
-
-
 
 “To you. There is no one else present, I think. You say I have been
 
@@ -286,13 +236,9 @@ calumniating you--complaining of your low wages and bad treatment. Give
 
 your grounds for these assertions.”
 
-
-
 Crimsworth had no dignity, and when I sternly demanded an explanation,
 
 he gave one in a loud, scolding voice.
-
-
 
 “Grounds! you shall have them; and turn to the light that I may see your
 
@@ -318,8 +264,6 @@ in close conversation with Hunsden at my [[house]] a month ago, and I know
 
 that you were at Hunsden’s rooms last [[Night|night]]. Deny it if you dare.”
 
-
-
 “Oh, I shall not deny it! And if Hunsden hounded on the people to hiss
 
 you, he did quite right. You deserve popular execration; for a worse
@@ -328,13 +272,9 @@ man, a harder master, a more brutal brother than you are has seldom
 
 existed.”
 
-
-
 “Sirrah! sirrah!” reiterated Crimsworth; and to complete his apostrophe,
 
 he cracked the whip straight over my head.
-
-
 
 A minute sufficed to wrest it from him, break it in two pieces, and
 
@@ -342,11 +282,7 @@ throw it under the grate. He made a headlong rush at me, which I evaded,
 
 and said--
 
-
-
 “Touch me, and I’ll have you up before the nearest magistrate.”
-
-
 
 Men like Crimsworth, if firmly and calmly resisted, always abate
 
@@ -364,8 +300,6 @@ and more dignified mode of [[Revenge|revenge]] than the somewhat hazardous one o
 
 personal chastisement.
 
-
-
 “Take your hat,” said he. “Take what belongs to you, and go out at
 
 that door; get away to your parish, you pauper: beg, steal, starve, get
@@ -376,8 +310,6 @@ my sight! If ever I hear of your setting foot on an inch of ground
 
 belonging to me, I’ll hire a man to cane you.”
 
-
-
 “It is not likely you’ll have the chance; once off your premises, what
 
 [[Temptation|temptation]] can I have to return to them? I leave a [[Prison|prison]], I leave a
@@ -386,11 +318,7 @@ belonging to me, I’ll hire a man to cane you.”
 
 no [[Fear|fear]] of my coming back.”
 
-
-
 “Go, or I’ll make you!” exclaimed Crimsworth.
-
-
 
 I walked deliberately to my desk, took out such of its contents as were
 
@@ -398,23 +326,17 @@ my own property, put them in my pocket, locked the desk, and placed the
 
 key on the top.
 
-
-
 “What are you abstracting from that desk?” demanded the millowner.
 
 “Leave all behind in its place, or I’ll send for a policeman to search
 
 you.”
 
-
-
 “Look sharp about it, then,” said I, and I took down my hat, drew on my
 
 gloves, and walked leisurely out of the counting-[[house]]--walked out of it
 
 to enter it no more.
-
-
 
 I recollect that when the mill-bell rang the dinner hour, before Mr.
 

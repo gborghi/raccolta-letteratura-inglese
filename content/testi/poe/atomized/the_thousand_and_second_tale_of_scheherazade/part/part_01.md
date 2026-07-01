@@ -1,5 +1,5 @@
 ---
-title: "[[The Thousand-And-Second Tale of Scheherazade]] (part 1)"
+title: "The Thousand-And-Second Tale of Scheherazade (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-thousand-and-second-tale-of-scheherazade-(poe)"

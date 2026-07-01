@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 39 (part 2)"
+title: "Nicholas Nickleby — Chapter 39 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -152,6 +152,3 @@ leave the accounts and the new boys to the agent, don’t you see? So it’s
 very lucky you come today, or you’d have missed us; and as it is, unless
 you could come and tea with me tonight, we shan’t see anything more of
 you before we go away.’
-
-‘Dean’t say anoother wurd,’ returned the Yorkshireman, shaking him by
-the hand. ‘We’d coom, if it was twonty mile.’

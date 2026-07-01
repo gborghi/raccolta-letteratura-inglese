@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 39 (part 1)"
+title: "Oliver Twist — Chapter 39 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/oliver-twist-(dickens)">Oliver Twist</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_38/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_39/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_38/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_39/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -133,10 +133,3 @@ long in producing the desired effect. The girl gradually recovered her
 senses; and, staggering to a chair by the bedside, hid her face upon
 the pillow: leaving Mr. Sikes to confront the new comers, in some
 astonishment at their unlooked-for appearance.
-
-“Why, what evil [[Wind|wind]] has blowed you here?” he asked [[Fagin]].
-
-“No evil [[Wind|wind]] at all, my dear, for evil winds blow nobody any good; and
-I’ve brought something good with me, that you’ll be glad to see.
-Dodger, my dear, open the bundle; and give Bill the little trifles that
-we spent all our money on, this morning.”

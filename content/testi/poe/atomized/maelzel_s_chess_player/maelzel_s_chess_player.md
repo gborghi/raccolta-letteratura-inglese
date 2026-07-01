@@ -1,5 +1,5 @@
 ---
-title: "[[Maelzel's Chess-Player]]"
+title: "Maelzel's Chess-Player"
 author: "Poe"
 unitType: work
 parentWork: "works/maelzel's-chess-player-(poe)"
@@ -181,7 +181,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       sound of quacking in the most natural manner. In the anatomical
 
-      structure the [[Artist|artist]] exhibited the highest skill. Every bone in
+      structure the [[artist]] exhibited the highest skill. Every bone in
 
       the real duck had its representative In the automaton, and its
 

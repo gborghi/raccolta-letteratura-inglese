@@ -14,6 +14,16 @@ tags:
 </nav>
 
 
+entirely rural and romantic, and one could easily imagine that the
+
+depths of that dark forest faded away indefinitely into distant
+
+vales and hills. The gray and black and silver of the wintry wood
+
+were all the more severe or somber as a contrast to the colored
+
+carnival groups that already stood on and around the frozen pool.
+
 For the [[house]] party had already flung themselves impatiently into
 
 fancy dress, and the lawyer, with his neat black suit and red hair,
@@ -180,21 +190,3 @@ Prior's farm and the hole in the wall, and disposed of any
 fashionable fancy about [[Monks|monks]] and [[Magic|magic]] wells, when he began to be
 
 conscious of a noise audible in the frozen [[Silence|silence]] of the [[Night|night]]. It
-
-was not a particularly loud noise, but it seemed to consist of a
-
-series of thuds or heavy blows, such as might be struck on a wooden
-
-door by a man seeking to enter. They were followed by something like
-
-a faint creak or crack, as if the obstacle had either been opened or
-
-had given way. He opened his own bedroom door and listened, but as
-
-he heard talk and laughter all over the lower floors, he had no
-
-reason to [[Fear|fear]] that a summons would be neglected or the [[house]] left
-
-without protection. He went to his open [[Window|window]], looking out over the
-
-frozen pond and the moonlit statue in the middle of their circle of

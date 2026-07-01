@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 1 (part 1)"
+title: "Shirley — Chapter 1 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -201,11 +201,3 @@ exercised of late. The present week is yet but at [[thursday|Thursday]], and on
 Monday Mr. Malone, the curate of Briarfield, came to breakfast and
 
 stayed dinner; on Tuesday Mr. Malone and Mr. Sweeting of Nunnely came to
-
-tea, remained to supper, occupied the spare bed, and favoured her with
-
-their company to breakfast on Wednesday morning; now, on [[thursday|Thursday]], they
-
-are both here at dinner, and she is almost certain they will stay all
-
-[[Night|night]]. "C'en est trop," she would say, if she could speak French.

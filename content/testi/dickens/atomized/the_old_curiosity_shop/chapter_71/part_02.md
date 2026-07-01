@@ -14,6 +14,12 @@ tags:
 </nav>
 
 
+The door was indeed opened, for the entrance of Mr Garland and his
+friend, accompanied by two other persons.  These were the schoolmaster,
+and the bachelor.  The former held a light in his hand.  He had, it
+seemed, but gone to his own cottage to replenish the exhausted lamp, at
+the moment when Kit came up and found the old man [[Alone|alone]].
+
 He softened again at sight of these two friends, and, laying aside the
 angry manner--if to anything so feeble and so sad the term can be
 applied--in which he had spoken when the door opened, resumed his

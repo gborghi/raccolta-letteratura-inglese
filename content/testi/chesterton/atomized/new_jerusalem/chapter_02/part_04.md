@@ -14,6 +14,28 @@ tags:
 </nav>
 
 
+This fact is familiar enough in talk about Moslem and oriental
+life generally; but I only repeat it in order to refer it back
+to the same simplification which is the advantage and disadvantage
+of the [[philosophy]] of the [[Desert|desert]].  Chivalry is not an obvious idea.
+It is not as plain as a pike-staff or as a palm-tree. It is a delicate
+balance between the sexes which gives the rarest and most poetic
+kind of pleasure to those who can strike it.  But it is not
+[[Self|self]]-evident to a savage merely because he is also a sane man.
+It often seems to him as much a part of his own coarse common sense
+that all the fame and fun should go to the sex that is stronger
+and less tied, as that all the authority should go to the parents
+rather than the children.  Pity for weakness he can understand;
+and the Moslem is quite capable of giving royal alms to a cripple
+or an [[Orphan|orphan]].  But reverence for weakness is to him simply meaningless.
+It is a mystical idea that is to him no more than a mystery.
+But the same is true touching what may be called the lighter side of
+the more civilised sentiment.  This hard and literal view of life gives
+no place for that slight element of a magnanimous sort of play-acting,
+which has run through all our tales of true [[lovers]] in the West.
+Wherever there is chivalry there is courtesy; and wherever there
+is courtesy there is [[Comedy|comedy]].  There is no [[Comedy|comedy]] in the [[Desert|desert]].
+
 Another quite logical and consistent element, in the very logical
 and consistent creed we call Mahometanism, is the element
 that we call Vandalism.  Since such few and obvious things [[Alone|alone]]
@@ -82,50 +104,3 @@ It is the friction of two spiritual things, of tradition and invention,
 or of substance and symbol, from which the mind takes [[Fire|fire]].
 The creeds condemned as complex have something like the secret of sex;
 they can breed thoughts.
-
-An idealistic intellectual remarked recently that there were
-a great many things in the creed for which he had no use.
-He might just as [[Well|well]] have said that there were a great many
-things in the _Encyclopedia Britannica_ for which he had no use.
-It would probably have occurred to him that the work in question
-was meant for humanity and not for him.  But even in the case
-of the _Encyclopedia_, it will often be found a stimulating
-exercise to read two articles on two widely different subjects
-and note where they touch.  In fact there is really a great deal
-to be said for the man in _Pickwick_ who read first about China
-and then about metaphysics and combined his information.
-But however this may be in the famous case of Chinese metaphysics,
-it is this which is chiefly lacking in Arabian metaphysics.
-They suffer, as I have said of the palm-tree in the [[Desert|desert]],
-from a lack of the vitality that comes from complexity,
-and of the complexity that comes from comparison.  They suffer
-from having been in a single movement in a single direction;
-from having begun as a mood and ended rather as a mode,
-that is a mere custom or fashion.  But any modern Christian thus
-criticising the Moslem movement will do [[Well|well]] to criticise himself
-and his world at the same [[Time|time]].  For in [[Truth|truth]] most modern things
-are mere movements in the same sense as the Moslem movement.
-They are at best fashions, in which one thing is exaggerated
-because it has been neglected.  They are at worst mere monomanias,
-in which everything is neglected that one thing may be exaggerated.
-Good or bad, they are alike movements which in their [[Nature|nature]] can only
-move for a certain distance and then stop.  Feminism, for instance,
-is in its [[Nature|nature]] a movement, and one that must stop somewhere.
-But the Suffragettes no more established a [[philosophy]] of the sexes
-by their feminism than the Arabs did by their anti-feminism. A woman
-can find her [[Home|home]] on the hustings even less than in the harem;
-but such movements do not really attempt to find a final [[Home|home]] for
-anybody or anything.  Bolshevism is a movement; and in my opinion
-a very natural and just movement considered as a revolt against
-the crude cruelty of Capitalism.  But when we find the Bolshevists
-making a rule that the drama "must encourage the proletarian spirit,"
-it is obvious that those who say so are not only maniacs but,
-what is more to the point here, are monomaniacs.  Imagine having
-to apply that principle, let us say, to "Charley's Aunt."
-None of these things seek to establish a complete [[philosophy]]
-such as [[aquinas|Aquinas]] founded on Aristotle.  The only two modern men
-who attempted it were Comte and Herbert Spencer.  Spencer, I think,
-was too small a man to do it at all; and Comte was a great enough
-man to show how difficult it is to do it in modern times.
-None of these movements can do anything but move; they have not
-discovered where to rest.

@@ -1,5 +1,5 @@
 ---
-title: "[[Richard]] [[Duke of York]] (3 [[Henry VI]]) — Act II, Scene 5 — exchange (SECOND SOLDIER) [4]"
+title: "Richard Duke of York (3 Henry VI) — Act II, Scene 5 — exchange (SECOND SOLDIER) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/richard-duke-of-york---(3-henry-vi)-(shakespeare)"

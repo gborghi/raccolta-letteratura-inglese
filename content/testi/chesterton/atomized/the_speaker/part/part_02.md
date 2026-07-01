@@ -46,7 +46,6 @@ throughout her unconquerable [[history]], the colour of folly and of [[Hope|hope
 
 G. K. C.
 
-
 How the Church Stands To-Day
 
 --October 27, 1900

@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities — Chapter 8"
+title: "A Tale of Two Cities — Chapter 9"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/a-tale-of-two-cities-(dickens)"
@@ -14,247 +14,501 @@ tags:
 </nav>
 
 
-CHAPTER VIII.
-Monseigneur in the Country
+CHAPTER IX.
+The Gorgon’s Head
 
 
-A beautiful landscape, with the corn bright in it, but not abundant.
-Patches of poor rye where corn should have been, patches of poor peas
-and beans, patches of most coarse vegetable substitutes for wheat. On
-inanimate [[Nature|nature]], as on the men and women who cultivated it, a prevalent
-tendency towards an appearance of vegetating unwillingly--a dejected
-disposition to give up, and wither away.
+It was a heavy mass of building, that chateau of Monsieur the Marquis,
+with a large stone courtyard before it, and two stone sweeps of
+staircase meeting in a stone terrace before the principal door. A stony
+business altogether, with heavy stone balustrades, and stone urns, and
+stone [[Flowers|flowers]], and stone faces of men, and stone heads of lions, in
+all directions. As if the Gorgon’s head had surveyed it, when it was
+finished, two centuries ago.
 
-Monsieur the Marquis in his travelling carriage (which might have been
-lighter), conducted by four post-horses and two postilions, fagged up
-a steep [[Hill|hill]]. A blush on the countenance of Monsieur the Marquis was
-no impeachment of his high breeding; it was not from within; it was
-occasioned by an external circumstance beyond his control--the setting
-sun.
+Up the broad flight of shallow steps, Monsieur the Marquis, [[Flambeau|flambeau]]
+preceded, went from his carriage, sufficiently disturbing the darkness
+to elicit loud remonstrance from an owl in the roof of the great pile
+of stable building away among the trees. All else was so quiet, that the
+[[Flambeau|flambeau]] carried up the steps, and the other [[Flambeau|flambeau]] held at the great
+door, burnt as if they were in a close room of state, instead of being
+in the open [[Night|night]]-air. Other sound than the owl’s voice there was none,
+save the falling of a fountain into its stone basin; for, it was one of
+those dark nights that hold their breath by the hour together, and then
+heave a long low sigh, and hold their breath again.
 
-The sunset struck so brilliantly into the travelling carriage when it
-gained the [[Hill|hill]]-top, that its occupant was steeped in crimson. “It will
-die out,” said Monsieur the Marquis, glancing at his hands, “directly.”
+The great door clanged behind him, and Monsieur the Marquis crossed a
+hall grim with certain old boar-spears, swords, and knives of the chase;
+grimmer with certain heavy riding-rods and riding-whips, of which many a
+peasant, gone to his benefactor [[Death]], had felt the weight when his lord
+was angry.
 
-In effect, the sun was so low that it dipped at the moment. When the
-heavy drag had been adjusted to the [[Wheel|wheel]], and the carriage slid down
-[[Hill|hill]], with a cinderous smell, in a cloud of [[Dust|dust]], the red glow departed
-quickly; the sun and the Marquis going down together, there was no glow
-left when the drag was taken off.
+Avoiding the larger rooms, which were dark and made fast for the [[Night|night]],
+Monsieur the Marquis, with his [[Flambeau|flambeau]]-bearer going on before, went up
+the staircase to a door in a corridor. This thrown open, admitted him
+to his own private apartment of three rooms: his bed-chamber and two
+others. High vaulted rooms with cool uncarpeted floors, great [[dogs]] upon
+the hearths for the burning of wood in [[Winter|winter]] [[Time|time]], and all luxuries
+befitting the state of a marquis in a luxurious age and country.
+The fashion of the last Louis but one, of the line that was never to
+break--the fourteenth Louis--was conspicuous in their rich furniture;
+but, it was diversified by many objects that were illustrations of old
+pages in the [[history]] of France.
 
-But, there remained a broken country, bold and open, a little village
-at the [[Bottom|bottom]] of the [[Hill|hill]], a broad sweep and rise beyond it, a
-church-tower, a windmill, a forest for the chase, and a crag with a
-fortress on it used as a [[Prison|prison]]. Round upon all these darkening objects
-as the [[Night|night]] drew on, the Marquis looked, with the air of one who was
-coming near [[Home|home]].
+A supper-table was laid for two, in the third of the rooms; a round
+room, in one of the chateau’s four extinguisher-topped towers. A small
+lofty room, with its [[Window|window]] wide open, and the wooden jalousie-blinds
+closed, so that the dark [[Night|night]] only showed in slight horizontal lines of
+black, alternating with their broad lines of stone colour.
 
-The village had its one poor street, with its poor brewery, poor
-tannery, poor tavern, poor stable-yard for relays of post-horses, poor
-fountain, all usual poor appointments. It had its poor people too. All
-its people were poor, and many of them were sitting at their doors,
-shredding spare onions and the like for supper, while many were at the
-fountain, washing [[Leaves|leaves]], and grasses, and any such small yieldings of
-the earth that could be eaten. Expressive signs of what made them poor,
-were not wanting; the tax for the state, the tax for the church, the tax
-for the lord, tax local and tax general, were to be paid here and to be
-paid there, according to solemn [[Inscription|inscription]] in the little village, until
-the [[Wonder|wonder]] was, that there was any village left unswallowed.
+“My nephew,” said the Marquis, glancing at the supper preparation; “they
+said he was not arrived.”
 
-Few children were to be seen, and no [[dogs]]. As to the men and women,
-their choice on earth was stated in the prospect--Life on the lowest
-terms that could sustain it, down in the little village under the mill;
-or captivity and [[Death]] in the dominant [[Prison|prison]] on the crag.
+Nor was he; but, he had been expected with Monseigneur.
 
-Heralded by a courier in advance, and by the cracking of his postilions’
-whips, which twined snake-like about their heads in the evening air, as
-if he came attended by the Furies, Monsieur the Marquis drew up in
-his travelling carriage at the posting-[[house]] gate. It was hard by the
-fountain, and the peasants suspended their operations to look at him.
-He looked at them, and saw in them, without knowing it, the slow
-sure filing down of misery-worn face and figure, that was to make the
-meagreness of Frenchmen an English superstition which should survive the
-[[Truth|truth]] through the best part of a hundred years.
+“Ah! It is not probable he will arrive to-[[Night|night]]; nevertheless, leave the
+table as it is. I shall be ready in a quarter of an hour.”
 
-Monsieur the Marquis cast his eyes over the submissive faces that
-drooped before him, as the like of himself had drooped before
-Monseigneur of the [[Court]]--only the difference was, that these faces
-drooped merely to suffer and not to propitiate--when a grizzled mender
-of the roads joined the group.
+In a quarter of an hour Monseigneur was ready, and sat down [[Alone|alone]] to his
+sumptuous and choice supper. His chair was opposite to the [[Window|window]], and
+he had taken his soup, and was raising his glass of Bordeaux to his
+lips, when he put it down.
 
-“Bring me hither that fellow!” said the Marquis to the courier.
+“What is that?” he calmly asked, looking with attention at the
+horizontal lines of black and stone colour.
 
-The fellow was brought, cap in hand, and the other fellows closed round
-to look and listen, in the manner of the people at the [[Paris]] fountain.
+“Monseigneur? That?”
 
-“I passed you on the [[Road|road]]?”
+“Outside the blinds. Open the blinds.”
 
-“Monseigneur, it is true. I had the [[Honour|honour]] of being passed on the [[Road|road]].”
-
-“Coming up the [[Hill|hill]], and at the top of the [[Hill|hill]], both?”
-
-“Monseigneur, it is true.”
-
-“What did you look at, so fixedly?”
-
-“Monseigneur, I looked at the man.”
-
-He stooped a little, and with his tattered blue cap pointed under the
-carriage. All his fellows stooped to look under the carriage.
-
-“What man, pig? And why look there?”
-
-“Pardon, Monseigneur; he swung by the chain of the shoe--the drag.”
-
-“Who?” demanded the traveller.
-
-“Monseigneur, the man.”
-
-“May the Devil carry away these idiots! How do you call the man? You
-know all the men of this part of the country. Who was he?”
-
-“Your clemency, Monseigneur! He was not of this part of the country. Of
-all the days of my life, I never saw him.”
-
-“Swinging by the chain? To be suffocated?”
-
-“With your gracious permission, that was the [[Wonder|wonder]] of it, Monseigneur.
-His head hanging over--like this!”
-
-He turned himself sideways to the carriage, and leaned back, with his
-face thrown up to the sky, and his head hanging down; then recovered
-himself, fumbled with his cap, and made a bow.
-
-“What was he like?”
-
-“Monseigneur, he was whiter than the miller. All covered with [[Dust|dust]],
-white as a spectre, tall as a spectre!”
-
-The picture produced an immense sensation in the little crowd; but all
-eyes, without comparing notes with other eyes, looked at Monsieur
-the Marquis. Perhaps, to observe whether he had any spectre on his
-[[Conscience|conscience]].
-
-“Truly, you did [[Well|well]],” said the Marquis, felicitously sensible that such
-vermin were not to ruffle him, “to see a thief accompanying my carriage,
-and not open that great mouth of yours. Bah! Put him aside, Monsieur
-Gabelle!”
-
-Monsieur Gabelle was the Postmaster, and some other taxing functionary
-united; he had come out with great obsequiousness to assist at this
-examination, and had held the examined by the drapery of his arm in an
-official manner.
-
-“Bah! Go aside!” said Monsieur Gabelle.
-
-“Lay hands on this stranger if he seeks to lodge in your village
-to-[[Night|night]], and be sure that his business is honest, Gabelle.”
-
-“Monseigneur, I am flattered to devote myself to your orders.”
-
-“Did he run away, fellow?--where is that Accursed?”
-
-The accursed was already under the carriage with some half-dozen
-particular friends, pointing out the chain with his blue cap. Some
-half-dozen other particular friends promptly hauled him out, and
-presented him breathless to Monsieur the Marquis.
-
-“Did the man run away, Dolt, when we stopped for the drag?”
-
-“Monseigneur, he precipitated himself over the [[Hill|hill]]-side, head first, as
-a person plunges into the [[River|river]].”
-
-“See to it, Gabelle. Go on!”
-
-The half-dozen who were peering at the chain were still among the
-wheels, like sheep; the wheels turned so suddenly that they were lucky
-to save their skins and bones; they had very little else to save, or
-they might not have been so fortunate.
-
-The burst with which the carriage started out of the village and up the
-rise beyond, was soon checked by the steepness of the [[Hill|hill]]. Gradually,
-it subsided to a foot pace, swinging and lumbering upward among the many
-sweet scents of a [[Summer|summer]] [[Night|night]]. The postilions, with a thousand gossamer
-gnats circling about them in lieu of the Furies, quietly mended the
-points to the lashes of their whips; the valet walked by the horses; the
-courier was audible, trotting on ahead into the dull distance.
-
-At the steepest point of the [[Hill|hill]] there was a little burial-ground,
-with a [[Cross]] and a new large figure of Our Saviour on it; it was a poor
-figure in wood, done by some inexperienced rustic carver, but he had
-studied the figure from the life--his own life, maybe--for it was
-dreadfully spare and thin.
-
-To this distressful emblem of a great distress that had long been
-growing worse, and was not at its worst, a woman was kneeling. She
-turned her head as the carriage came up to her, [[Rose|rose]] quickly, and
-presented herself at the carriage-door.
-
-“It is you, Monseigneur! Monseigneur, a petition.”
-
-With an exclamation of impatience, but with his unchangeable face,
-Monseigneur looked out.
-
-“How, then! What is it? Always petitions!”
-
-“Monseigneur. For the [[Love|love]] of the great God! My husband, the forester.”
-
-“What of your husband, the forester? Always the same with you people. He
-cannot pay something?”
-
-“He has paid all, Monseigneur. He is dead.”
-
-“[[Well]]! He is quiet. Can I restore him to you?”
-
-“Alas, no, Monseigneur! But he lies yonder, under a little heap of poor
-grass.”
+It was done.
 
 “[[Well]]?”
 
-“Monseigneur, there are so many little heaps of poor grass?”
+“Monseigneur, it is nothing. The trees and the [[Night|night]] are all that are
+here.”
 
-“Again, [[Well|well]]?”
+The servant who spoke, had thrown the blinds wide, had looked out into
+the vacant darkness, and stood with that blank behind him, looking round
+for instructions.
 
-She looked an old woman, but was young. Her manner was one of passionate
-grief; by turns she clasped her veinous and knotted hands together
-with wild energy, and laid one of them on the carriage-door--tenderly,
-caressingly, as if it had been a human breast, and could be expected to
-feel the appealing touch.
+“Good,” said the imperturbable master. “Close them again.”
 
-“Monseigneur, hear me! Monseigneur, hear my petition! My husband died of
-want; so many die of want; so many more will die of want.”
+That was done too, and the Marquis went on with his supper. He was
+half way through it, when he again stopped with his glass in his hand,
+hearing the sound of wheels. It came on briskly, and came up to the
+front of the chateau.
 
-“Again, [[Well|well]]? Can I feed them?”
+“Ask who is arrived.”
 
-“Monseigneur, the good God knows; but I don’t ask it. My petition is,
-that a morsel of stone or wood, with my husband’s name, may be placed
-over him to show where he lies. Otherwise, the place will be quickly
-forgotten, it will never be found when I am dead of the same malady, I
-shall be laid under some other heap of poor grass. Monseigneur, they
-are so many, they increase so fast, there is so much want. Monseigneur!
-Monseigneur!”
+It was the nephew of Monseigneur. He had been some few leagues behind
+Monseigneur, early in the afternoon. He had diminished the distance
+rapidly, but not so rapidly as to come up with Monseigneur on the [[Road|road]].
+He had heard of Monseigneur, at the posting-houses, as being before him.
 
-The valet had put her away from the door, the carriage had broken into
-a brisk trot, the postilions had quickened the pace, she was left far
-behind, and Monseigneur, again escorted by the Furies, was rapidly
-diminishing the league or two of distance that remained between him and
-his chateau.
+He was to be told (said Monseigneur) that supper awaited him then and
+there, and that he was prayed to come to it. In a little while he came.
+He had been known in England as [[Charles Darnay]].
 
-The sweet scents of the [[Summer|summer]] [[Night|night]] [[Rose|rose]] all around him, and [[Rose|rose]], as
-the rain falls, impartially, on the dusty, ragged, and toil-worn group
-at the fountain not far away; to whom the mender of roads, with the aid
-of the blue cap without which he was nothing, still enlarged upon his
-man like a spectre, as long as they could bear it. By degrees, as they
-could bear no more, they dropped off one by one, and lights twinkled
-in little casements; which lights, as the casements darkened, and more
-[[Stars|stars]] came out, seemed to have shot up into the sky instead of having
-been extinguished.
+Monseigneur received him in a courtly manner, but they did not shake
+hands.
 
-The [[Shadow|shadow]] of a large high-roofed [[house]], and of many over-hanging trees,
-was upon Monsieur the Marquis by that [[Time|time]]; and the [[Shadow|shadow]] was exchanged
-for the light of a [[Flambeau|flambeau]], as his carriage stopped, and the great door
-of his chateau was opened to him.
+“You left [[Paris]] yesterday, sir?” he said to Monseigneur, as he took his
+seat at table.
 
-“Monsieur Charles, whom I expect; is he arrived from England?”
+“Yesterday. And you?”
 
-“Monseigneur, not yet.”
+“I come direct.”
+
+“From [[London]]?”
+
+“Yes.”
+
+“You have been a long [[Time|time]] coming,” said the Marquis, with a smile.
+
+“On the contrary; I come direct.”
+
+“Pardon me! I mean, not a long [[Time|time]] on the [[Journey|journey]]; a long [[Time|time]]
+intending the [[Journey|journey]].”
+
+“I have been detained by”--the nephew stopped a moment in his
+answer--“various business.”
+
+“Without [[Doubt|doubt]],” said the polished uncle.
+
+So long as a servant was present, no other words passed between them.
+When coffee had been served and they were [[Alone|alone]] together, the nephew,
+looking at the uncle and meeting the eyes of the face that was like a
+fine mask, opened a conversation.
+
+“I have come back, sir, as you anticipate, pursuing the object that
+took me away. It carried me into great and unexpected peril; but it is
+a sacred object, and if it had carried me to [[Death|death]] I [[Hope|hope]] it would have
+sustained me.”
+
+“Not to [[Death|death]],” said the uncle; “it is not necessary to say, to [[Death|death]].”
+
+“I [[Doubt|doubt]], sir,” returned the nephew, “whether, if it had carried me to
+the utmost brink of [[Death|death]], you would have cared to stop me there.”
+
+The deepened marks in the nose, and the lengthening of the fine straight
+lines in the cruel face, looked ominous as to that; the uncle made a
+graceful gesture of protest, which was so clearly a slight form of good
+breeding that it was not reassuring.
+
+“Indeed, sir,” pursued the nephew, “for anything I know, you may have
+expressly worked to give a more suspicious appearance to the suspicious
+circumstances that surrounded me.”
+
+“No, no, no,” said the uncle, pleasantly.
+
+“But, however that may be,” resumed the nephew, glancing at him with
+deep distrust, “I know that your diplomacy would stop me by any means,
+and would know no scruple as to means.”
+
+“My friend, I told you so,” said the uncle, with a fine pulsation in the
+two marks. “Do me the favour to recall that I told you so, long ago.”
+
+“I recall it.”
+
+“Thank you,” said the Marquis--very sweetly indeed.
+
+His tone lingered in the air, almost like the tone of a musical
+instrument.
+
+“In effect, sir,” pursued the nephew, “I believe it to be at once your
+bad fortune, and my good fortune, that has kept me out of a [[Prison|prison]] in
+France here.”
+
+“I do not quite understand,” returned the uncle, sipping his coffee.
+“Dare I ask you to explain?”
+
+“I believe that if you were not in disgrace with the [[Court]], and had not
+been overshadowed by that cloud for years past, a letter de cachet would
+have sent me to some fortress indefinitely.”
+
+“It is possible,” said the uncle, with great calmness. “For the [[Honour|honour]]
+of the family, I could even resolve to incommode you to that extent.
+Pray excuse me!”
+
+“I perceive that, happily for me, the Reception of the day before
+yesterday was, as usual, a cold one,” observed the nephew.
+
+“I would not say happily, my friend,” returned the uncle, with refined
+politeness; “I would not be sure of that. A good opportunity for
+consideration, surrounded by the advantages of [[Solitude|solitude]], might influence
+your destiny to far greater advantage than you influence it for
+yourself. But it is useless to discuss the question. I am, as you say,
+at a disadvantage. These little instruments of correction, these gentle
+aids to the power and [[Honour|honour]] of families, these slight favours that
+might so incommode you, are only to be obtained now by interest
+and importunity. They are sought by so many, and they are granted
+(comparatively) to so few! It used not to be so, but France in all such
+things is changed for the worse. Our not remote ancestors held the right
+of life and [[Death|death]] over the surrounding vulgar. From this room, many such
+[[dogs]] have been taken out to be hanged; in the next room (my bedroom),
+one fellow, to our knowledge, was poniarded on the spot for professing
+some insolent delicacy respecting his daughter--_his_ daughter? We have
+lost many privileges; a new [[philosophy]] has become the mode; and the
+assertion of our station, in these days, might (I do not go so far as
+to say would, but might) cause us real inconvenience. All very bad, very
+bad!”
+
+The Marquis took a gentle little pinch of snuff, and shook his head;
+as elegantly despondent as he could becomingly be of a country still
+containing himself, that great means of [[Regeneration|regeneration]].
+
+“We have so asserted our station, both in the old [[Time|time]] and in the modern
+[[Time|time]] also,” said the nephew, gloomily, “that I believe our name to be
+more detested than any name in France.”
+
+“Let us [[Hope|hope]] so,” said the uncle. “Detestation of the high is the
+involuntary homage of the low.”
+
+“There is not,” pursued the nephew, in his former tone, “a face I can
+look at, in all this country round about us, which looks at me with any
+deference on it but the dark deference of [[Fear|fear]] and [[Slavery|slavery]].”
+
+“A compliment,” said the Marquis, “to the grandeur of the family,
+merited by the manner in which the family has sustained its grandeur.
+Hah!” And he took another gentle little pinch of snuff, and lightly
+crossed his legs.
+
+But, when his nephew, leaning an elbow on the table, covered his eyes
+thoughtfully and dejectedly with his hand, the fine mask looked at
+him sideways with a stronger concentration of keenness, closeness,
+and dislike, than was comportable with its wearer’s assumption of
+indifference.
+
+“Repression is the only lasting [[philosophy]]. The dark deference of [[Fear|fear]]
+and [[Slavery|slavery]], my friend,” observed the Marquis, “will keep the [[dogs]]
+obedient to the whip, as long as this roof,” looking up to it, “shuts
+out the sky.”
+
+That might not be so long as the Marquis supposed. If a picture of the
+chateau as it was to be a very few years hence, and of fifty like it as
+they too were to be a very few years hence, could have been shown to
+him that [[Night|night]], he might have been at a loss to claim his own from
+the ghastly, [[Fire|fire]]-charred, plunder-wrecked rains. As for the roof
+he vaunted, he might have found _that_ shutting out the sky in a new
+way--to wit, for ever, from the eyes of the bodies into which its lead
+was fired, out of the barrels of a hundred thousand muskets.
+
+“Meanwhile,” said the Marquis, “I will preserve the [[Honour|honour]] and repose
+of the family, if you will not. But you must be fatigued. Shall we
+terminate our conference for the [[Night|night]]?”
+
+“A moment more.”
+
+“An hour, if you please.”
+
+“Sir,” said the nephew, “we have done wrong, and are reaping the fruits
+of wrong.”
+
+“_We_ have done wrong?” repeated the Marquis, with an inquiring smile,
+and delicately pointing, first to his nephew, then to himself.
+
+“Our family; our honourable family, whose [[Honour|honour]] is of so much account
+to both of us, in such different ways. Even in my father’s [[Time|time]], we did
+a world of wrong, injuring every human creature who came between us and
+our pleasure, whatever it was. Why need I speak of my father’s [[Time|time]],
+when it is equally yours? Can I separate my father’s twin-brother, joint
+inheritor, and next successor, from himself?”
+
+“[[Death]] has done that!” said the Marquis.
+
+“And has left me,” answered the nephew, “bound to a system that is
+frightful to me, responsible for it, but powerless in it; seeking to
+execute the last request of my dear mother’s lips, and obey the last
+look of my dear mother’s eyes, which implored me to have [[Mercy|mercy]] and to
+redress; and tortured by seeking assistance and power in vain.”
+
+“Seeking them from me, my nephew,” said the Marquis, touching him on the
+breast with his forefinger--they were now standing by the hearth--“you
+will for ever seek them in vain, be assured.”
+
+Every fine straight line in the clear whiteness of his face, was
+cruelly, craftily, and closely compressed, while he stood looking
+quietly at his nephew, with his snuff-box in his hand. Once again he
+touched him on the breast, as though his finger were the fine point of
+a small [[Sword|sword]], with which, in delicate finesse, he ran him through the
+[[Body|body]], and said,
+
+“My friend, I will die, perpetuating the system under which I have
+lived.”
+
+When he had said it, he took a culminating pinch of snuff, and put his
+box in his pocket.
+
+“Better to be a rational creature,” he added then, after ringing a small
+bell on the table, “and accept your natural destiny. But you are lost,
+Monsieur Charles, I see.”
+
+“This property and France are lost to me,” said the nephew, sadly; “I
+renounce them.”
+
+“Are they both yours to renounce? France may be, but is the property? It
+is scarcely worth mentioning; but, is it yet?”
+
+“I had no intention, in the words I used, to claim it yet. If it passed
+to me from you, to-morrow--”
+
+“Which I have the [[Vanity|vanity]] to [[Hope|hope]] is not probable.”
+
+“--or twenty years hence--”
+
+“You do me too much [[Honour|honour]],” said the Marquis; “still, I prefer that
+supposition.”
+
+“--I would abandon it, and live otherwise and elsewhere. It is little to
+relinquish. What is it but a wilderness of misery and ruin!”
+
+“Hah!” said the Marquis, glancing round the luxurious room.
+
+“To the eye it is fair enough, here; but seen in its integrity,
+under the sky, and by the daylight, it is a crumbling tower of waste,
+mismanagement, extortion, debt, mortgage, oppression, hunger, [[Nakedness|nakedness]],
+and [[Suffering|suffering]].”
+
+“Hah!” said the Marquis again, in a [[Well|well]]-satisfied manner.
+
+“If it ever becomes mine, it shall be put into some hands better
+qualified to free it slowly (if such a thing is possible) from the
+weight that drags it down, so that the miserable people who cannot leave
+it and who have been long wrung to the last point of [[Endurance|endurance]], may, in
+another generation, suffer less; but it is not for me. There is a curse
+on it, and on all this land.”
+
+“And you?” said the uncle. “Forgive my curiosity; do you, under your new
+[[philosophy]], graciously intend to live?”
+
+“I must do, to live, what others of my countrymen, even with nobility at
+their backs, may have to do some day--work.”
+
+“In England, for example?”
+
+“Yes. The family [[Honour|honour]], sir, is safe from me in this country. The
+family name can suffer from me in no other, for I bear it in no other.”
+
+The ringing of the bell had caused the adjoining bed-chamber to be
+lighted. It now shone brightly, through the door of communication. The
+Marquis looked that way, and listened for the retreating step of his
+valet.
+
+“England is very attractive to you, seeing how indifferently you have
+prospered there,” he observed then, turning his calm face to his nephew
+with a smile.
+
+“I have already said, that for my prospering there, I am sensible I may
+be indebted to you, sir. For the rest, it is my Refuge.”
+
+“They say, those boastful English, that it is the Refuge of many. You
+know a compatriot who has found a Refuge there? A Doctor?”
+
+“Yes.”
+
+“With a daughter?”
+
+“Yes.”
+
+“Yes,” said the Marquis. “You are fatigued. Good [[Night|night]]!”
+
+As he bent his head in his most courtly manner, there was a secrecy
+in his smiling face, and he conveyed an air of mystery to those words,
+which struck the eyes and ears of his nephew forcibly. At the same
+[[Time|time]], the thin straight lines of the setting of the eyes, and the thin
+straight lips, and the markings in the nose, curved with a sarcasm that
+looked handsomely diabolic.
+
+“Yes,” repeated the Marquis. “A Doctor with a daughter. Yes. So
+commences the new [[philosophy]]! You are fatigued. Good [[Night|night]]!”
+
+It would have been of as much avail to interrogate any stone face
+outside the chateau as to interrogate that face of his. The nephew
+looked at him, in vain, in passing on to the door.
+
+“Good [[Night|night]]!” said the uncle. “I look to the pleasure of seeing you
+again in the morning. Good repose! Light Monsieur my nephew to his
+chamber there!--And burn Monsieur my nephew in his bed, if you will,” he
+added to himself, before he rang his little bell again, and summoned his
+valet to his own bedroom.
+
+The valet come and gone, Monsieur the Marquis walked to and fro in his
+loose chamber-robe, to prepare himself gently for [[Sleep|sleep]], that hot still
+[[Night|night]]. Rustling about the room, his softly-slippered feet making no
+noise on the floor, he moved like a refined tiger:--looked like some
+enchanted marquis of the impenitently wicked sort, in story, whose
+periodical change into tiger form was either just going off, or just
+coming on.
+
+He moved from end to end of his voluptuous bedroom, looking again at the
+scraps of the day’s [[Journey|journey]] that came unbidden into his mind; the slow
+toil up the [[Hill|hill]] at sunset, the setting sun, the descent, the mill, the
+[[Prison|prison]] on the crag, the little village in the hollow, the peasants at
+the fountain, and the mender of roads with his blue cap pointing out the
+chain under the carriage. That fountain suggested the [[Paris]] fountain,
+the little bundle lying on the step, the women bending over it, and the
+tall man with his arms up, crying, “Dead!”
+
+“I am cool now,” said Monsieur the Marquis, “and may go to bed.”
+
+So, leaving only one light burning on the large hearth, he let his thin
+gauze curtains fall around him, and heard the [[Night|night]] break its [[Silence|silence]]
+with a long sigh as he composed himself to [[Sleep|sleep]].
+
+The stone faces on the outer walls stared blindly at the black [[Night|night]]
+for three heavy hours; for three heavy hours, the horses in the stables
+rattled at their racks, the [[dogs]] barked, and the owl made a noise with
+very little resemblance in it to the noise conventionally assigned to
+the owl by men-poets. But it is the obstinate custom of such creatures
+hardly ever to say what is set down for them.
+
+For three heavy hours, the stone faces of the chateau, [[Lion|lion]] and human,
+stared blindly at the [[Night|night]]. Dead darkness lay on all the landscape,
+dead darkness added its own hush to the hushing [[Dust|dust]] on all the roads.
+The burial-place had got to the pass that its little heaps of poor grass
+were undistinguishable from one another; the figure on the [[Cross]] might
+have come down, for anything that could be seen of it. In the village,
+taxers and taxed were fast asleep. Dreaming, perhaps, of banquets, as
+the starved usually do, and of ease and rest, as the driven slave and
+the yoked ox may, its lean inhabitants slept soundly, and were fed and
+freed.
+
+The fountain in the village flowed unseen and unheard, and the fountain
+at the chateau dropped unseen and unheard--both melting away, like the
+minutes that were falling from the [[spring]] of [[Time]]--through three dark
+hours. Then, the grey [[Water|water]] of both began to be ghostly in the light,
+and the eyes of the stone faces of the chateau were opened.
+
+Lighter and lighter, until at last the sun touched the tops of the still
+trees, and poured its radiance over the [[Hill|hill]]. In the glow, the [[Water|water]]
+of the chateau fountain seemed to turn to [[Blood|blood]], and the stone faces
+crimsoned. The [[carol]] of the [[Birds|birds]] was loud and high, and, on the
+weather-beaten sill of the great [[Window|window]] of the bed-chamber of Monsieur
+the Marquis, one little bird sang its sweetest [[Song|song]] with all its might.
+At this, the nearest stone face seemed to stare amazed, and, with open
+mouth and dropped under-jaw, looked awe-stricken.
+
+Now, the sun was full up, and movement began in the village. Casement
+windows opened, crazy doors were unbarred, and people came forth
+shivering--chilled, as yet, by the new sweet air. Then began the rarely
+lightened toil of the day among the village population. Some, to the
+fountain; some, to the fields; men and women here, to dig and delve; men
+and women there, to see to the poor live stock, and lead the bony cows
+out, to such pasture as could be found by the roadside. In the church
+and at the [[Cross]], a kneeling figure or two; attendant on the latter
+prayers, the led cow, trying for a breakfast among the weeds at its
+foot.
+
+The chateau awoke later, as became its quality, but awoke gradually and
+surely. First, the lonely boar-spears and knives of the chase had been
+reddened as of old; then, had gleamed trenchant in the morning sunshine;
+now, doors and windows were thrown open, horses in their stables looked
+round over their shoulders at the light and freshness pouring in at
+doorways, [[Leaves|leaves]] sparkled and rustled at iron-grated windows, [[dogs]]
+pulled hard at their [[Chains|chains]], and reared impatient to be loosed.
+
+All these trivial incidents belonged to the routine of life, and the
+return of morning. Surely, not so the ringing of the great bell of the
+chateau, nor the running up and down the stairs; nor the hurried
+figures on the terrace; nor the booting and tramping here and there and
+everywhere, nor the quick saddling of horses and riding away?
+
+What winds conveyed this hurry to the grizzled mender of roads, already
+at work on the [[Hill|hill]]-top beyond the village, with his day’s dinner (not
+much to carry) lying in a bundle that it was worth no crow’s while to
+peck at, on a heap of stones? Had the [[Birds|birds]], carrying some grains of it
+to a distance, dropped one over him as they sow chance seeds? Whether or
+no, the mender of roads ran, on the sultry morning, as if for his life,
+down the [[Hill|hill]], knee-high in [[Dust|dust]], and never stopped till he got to the
+fountain.
+
+All the people of the village were at the fountain, standing about
+in their depressed manner, and whispering low, but showing no other
+emotions than grim curiosity and surprise. The led cows, hastily brought
+in and tethered to anything that would hold them, were looking stupidly
+on, or lying down chewing the cud of nothing particularly repaying their
+trouble, which they had picked up in their interrupted saunter. Some of
+the people of the chateau, and some of those of the posting-[[house]], and
+all the taxing authorities, were armed more or less, and were crowded
+on the other side of the little street in a purposeless way, that was
+highly fraught with nothing. Already, the mender of roads had penetrated
+into the midst of a group of fifty particular friends, and was smiting
+himself in the breast with his blue cap. What did all this portend,
+and what portended the swift hoisting-up of Monsieur Gabelle behind
+a servant on horseback, and the conveying away of the said Gabelle
+([[Double|double]]-laden though the [[Horse|horse]] was), at a gallop, like a new version of
+the German ballad of Leonora?
+
+It portended that there was one stone face too many, up at the chateau.
+
+The Gorgon had surveyed the building again in the [[Night|night]], and had added
+the one stone face wanting; the stone face for which it had waited
+through about two hundred years.
+
+It lay back on the pillow of Monsieur the Marquis. It was like a fine
+mask, suddenly startled, made angry, and petrified. Driven [[Home|home]] into the
+heart of the stone figure attached to it, was a knife. Round its hilt
+was a frill of paper, on which was scrawled:
+
+“Drive him fast to his tomb. This, from Jacques.”

@@ -1,5 +1,5 @@
 ---
-title: "[[TheCrimesOfEngland]] — Chapter 10 (part 17)"
+title: "TheCrimesOfEngland — Chapter 10 (part 17)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thecrimesofengland-(chesterton)"
@@ -14,11 +14,87 @@ tags:
 </nav>
 
 
+there is such a thing as Grimm's Law, I would break it, if I knew what
+
+it was. I like the Prussian's legs (in their beautiful boots) to fall
+
+down the chimney and walk about my room. But when he procures a head and
+
+begins to talk, I feel a little bored. The Germans cannot really be deep
+
+because they will not consent to be superficial. They are bewitched by
+
+art, and stare at it, and cannot see round it. They will not believe
+
+that art is a light and slight thing--a feather, even if it be from an
+
+angelic wing. Only the slime is at the [[Bottom|bottom]] of a pool; the sky is on
+
+the surface. We see this in that very typical process, the Germanising
+
+of Shakespeare. I do not complain of the Germans forgetting that
+
+Shakespeare was an Englishman. I complain of their forgetting that
+
+Shakespeare was a man; that he had moods, that he made mistakes, and,
+
+above all, that he knew his art was an art and not an attribute of
+
+deity. That is what is the matter with the Germans; they cannot "ring
+
+fancy's knell"; their knells have no gaiety. The phrase of [[Hamlet]] about
+
+"holding the [[Mirror|mirror]] up to [[Nature|nature]]" is always quoted by such earnest
+
+critics as meaning that art is nothing if not realistic. But it really
+
+means (or at least its author really thought) that art is nothing if not
+
+artificial. Realists, like other barbarians, really _believe_ the
+
+[[Mirror|mirror]]; and therefore break the [[Mirror|mirror]]. Also they leave out the phrase
+
+"as 'twere," which must be read into every remark of Shakespeare, and
+
+especially every remark of [[Hamlet]]. What I mean by believing the [[Mirror|mirror]],
+
+and breaking it, can be recorded in one case I remember; in which a
+
+realistic critic quoted German authorities to prove that [[Hamlet]] had a
+
+particular psycho-pathological abnormality, which is admittedly nowhere
+
+mentioned in the play. The critic was bewitched; he was thinking of
+
+[[Hamlet]] as a real man, with a background behind him three dimensions
+
+deep--which does not exist in a looking-glass. "The best in this kind
+
+are but shadows." No German commentator has ever made an adequate note
+
+on that. Nevertheless, Shakespeare was an Englishman; he was nowhere
+
+more English than in his blunders; but he was nowhere more successful
+
+than in the description of very English types of character. And if
+
+anything is to be said about [[Hamlet]], beyond what Shakespeare has said
+
+about him, I should say that [[Hamlet]] was an Englishman too. He was as
+
+much an Englishman as he was a gentleman, and he had the very [[Grave|grave]]
+
+weaknesses of both characters. The chief English fault, especially in
+
+the nineteenth century, has been lack of decision, not only lack of
+
+decision in action, but lack of the equally essential decision in
+
+thought--which some call dogma. And in the politics of the last century,
+
 this English [[Hamlet]], as we shall see, played a great part, or rather
 
 refused to play it.
-
-
 
 There were, then, two elements in the German influence; a sort of pretty
 
@@ -31,8 +107,6 @@ that unconscious symbolism with which all this story develops, it was
 soon to be dramatically tested, by a definite political query, whether
 
 what we really respected was the Teutonic fantasy or the Teutonic [[Fear|fear]].
-
-
 
 The Germanisation of England, its transition and turning-point, was [[Well|well]]
 
@@ -61,8 +135,6 @@ always turns to mere immoralism. The wilfulness is no longer liked, but
 is actually obeyed. The [[Fear|fear]] becomes a [[philosophy]]. Panic hardens into
 
 pessimism; or else, what is often equally depressing, optimism.
-
-
 
 Carlyle, the most influential English writer of that [[Time|time]], marks all
 
@@ -103,93 +175,3 @@ Mountain, a Tory like Carlyle rather liked the Mountain and quite unduly
 despised the Girondists. This appetite for formless force belongs, of
 
 course, to the forests, to [[Germany]]. But when Carlyle got there, there
-
-fell upon him a sort of spell which is his [[Tragedy|tragedy]] and the English
-
-[[Tragedy|tragedy]], and, in no small degree, the German [[Tragedy|tragedy]] too. The real
-
-[[Romance|romance]] of the Teutons was largely a [[Romance|romance]] of the Southern Teutons,
-
-with their castles, which are almost literally castles in the air, and
-
-their [[River|river]] which is walled with vineyards and rhymes so naturally to
-
-wine. But as Carlyle's was rootedly a [[Romance|romance]] of conquest, he had to
-
-prove that the thing which conquered in [[Germany]] was really more poetical
-
-than anything else in [[Germany]]. Now the thing that conquered in [[Germany]]
-
-was about the most prosaic thing of which the world ever grew weary.
-
-There is a great deal more poetry in Brixton than in Berlin. Stella said
-
-that Swift could write charmingly about a broom-stick; and poor Carlyle
-
-had to write romantically about a ramrod. Compare him with Heine, who
-
-had also a detached taste in the mystical grotesques of [[Germany]], but who
-
-saw what was their enemy: and offered to nail up the Prussian eagle like
-
-an old crow as a target for the archers of the Rhine. Its prosaic
-
-essence is not proved by the fact that it did not produce poets: it is
-
-proved by the more deadly fact that it did. The actual written poetry of
-
-Frederick the Great, for instance, was not even German or barbaric, but
-
-simply feeble--and French. Thus Carlyle became continually gloomier as
-
-his fit of the blues deepened into Prussian blues; nor can there be any
-
-[[Wonder|wonder]]. His [[philosophy]] had brought out the result that the Prussian was
-
-the first of Germans, and, therefore, the first of men. No [[Wonder|wonder]] he
-
-looked at the rest of us with little [[Hope|hope]].
-
-
-
-But a stronger test was coming both for Carlyle and England. Prussia,
-
-plodding, policing, as materialist as mud, went on solidifying and
-
-strengthening after unconquered [[Russia]] and unconquered England had
-
-rescued her where she lay prostrate under Napoleon. In this interval the
-
-two most important events were the Polish national revival, with which
-
-[[Russia]] was half inclined to be sympathetic, but Prussia was implacably
-
-coercionist; and the positive refusal of the [[Crown|crown]] of a united [[Germany]]
-
-by the [[King]] of Prussia, simply because it was constitutionally offered
-
-by a free German Convention. Prussia did not want to lead the Germans:
-
-she wanted to conquer the Germans. And she wanted to conquer other
-
-people first. She had already found her brutal, if humorous, embodiment
-
-in Bismarck; and he began with a scheme full of brutality and not
-
-without [[Humour|humour]]. He took up, or rather pretended to take up, the claim of
-
-the Prince of Augustenberg to duchies which were a quite lawful part of
-
-the land of [[Denmark]]. In support of this small pretender he enlisted two
-
-large things, the Germanic [[Body|body]] called the Bund and the Austrian Empire.
-
-It is possibly needless to say that after he had seized the disputed
-
-provinces by pure Prussian violence, he kicked out the Prince of
-
-Augustenberg, kicked out the German Bund, and finally kicked out the
-
-Austrian Empire too, in the sudden campaign of Sadowa. He was a good
-
-husband and a good father; he did not paint in [[Water|water]] colours; and of

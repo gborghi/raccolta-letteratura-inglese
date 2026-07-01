@@ -122,6 +122,3 @@ were still unaware.  They were both young; and they both walked
 without hats, probably through the heat of walking; for the one held
 a hard straw hat in his hand, and the other had a loose grey felt
 stuffed anyhow into his knapsack.
-
-They came to a halt before the inn; and the shorter man said jovially
-to his companion, "Here's a field for your efforts, anyhow."

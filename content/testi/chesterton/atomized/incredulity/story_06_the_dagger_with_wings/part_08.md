@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity]] — The Dagger with Wings (part 8)"
+title: "Incredulity — The Dagger with Wings (part 8)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-(chesterton)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_06_the_dagger_with_wings/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways/part_01">part 01 ›</a></div>
 </nav>
 
+
+`I think I really suspected when I telephoned to you,'
+replied his friend.  `And it was nothing more than the red light
+from the closed door brightening and darkening on the carpet.
+It looked like a splash of [[Blood|blood]] that grew vivid as it
+cried for vengeance.  Why should it change like that?
+I knew the sun had not come out; it could only be because the
+second door behind it had been opened and shut on the [[Garden|garden]].
+But if he had gone out and seen his enemy then, he would
+have raised the alarm then; and it was some [[Time|time]] afterwards
+that the fracas occurred.  I began to feel he had gone out
+to do something ... to prepare something ... but as to when I
+was certain, that is a different matter.  I knew that right at
+the end he was trying to hypnotize me, to master me by the black
+art of eyes like talismans and a voice like an incantation.
+That's what he used to do with old Aylmer, no [[Doubt|doubt]].
+But it wasn't only the way he said it, it was what he said.
+It was the religion and [[philosophy]] of it.'
 
 `I'm afraid I'm a practical man,' said the doctor with gruff humour,
 `and I don't bother much about religion and [[philosophy]].'
@@ -47,8 +65,8 @@ Any sort of mask can be put on any sort of face.  Anybody can learn
 certain phrases or state verbally that he holds certain views.
 I can go out into the street and state that I am a Wesleyan Methodist
 or a Sandemanian, though I [[Fear|fear]] in no very convincing accent.
-But we are talking about an [[artist]]; and for the enjoyment of
-the [[artist]] the mask must be to some extent moulded on the face.
+But we are talking about an [[Artist|artist]]; and for the enjoyment of
+the [[Artist|artist]] the mask must be to some extent moulded on the face.
 What he makes outside him must correspond to something inside him;
 he can only make his effects out of some of the materials of his [[Soul|soul]].
 I suppose he could have said he was a Wesleyan Methodist;
@@ -69,7 +87,7 @@ you're denouncing or defending him.'
 
 `It isn't defending a man to say he is a genius,' said Father Brown.
 `Far from it.  And it is simply a psychological fact that
-an [[artist]] will betray himself by some sort of sincerity.
+an [[Artist|artist]] will betray himself by some sort of sincerity.
 Leonardo da Vinci cannot draw as if he couldn't draw.
 Even if he tried, it will always be a strong [[Parody|parody]] of a weak thing.
 This man would have made something much too fearful and wonderful
@@ -97,5 +115,5 @@ and deeper draughts of that virginal vivacity of the air.
 Some forgotten muddle and morbidity seemed to be left behind, or wiped
 out as the [[Snow|snow]] had painted out the footprints of the man of [[Blood|blood]].
 As he shuffled homewards through the [[Snow|snow]], he muttered to himself:
-`And yet he is right enough about there being a white [[Magic|magic]],
+`And yet he is right enough about there being a white magic,
 if he only knows where to look for it.'

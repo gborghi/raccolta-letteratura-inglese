@@ -16,13 +16,7 @@ tags:
 
 CHAPTER I
 
-
-
 THE VICTORIAN COMPROMISE AND ITS ENEMIES
-
-
-
-
 
 The previous literary life of this country had left vigorous many old
 
@@ -132,15 +126,11 @@ Shakespeare seems rather proud of talking nonsense: I never can read
 
 that rousing and mounting description of the [[Storm|storm]], where it comes to--
 
-
-
     "Who take the ruffian billows by the top,
 
     Curling their monstrous heads, and _hanging_ them
 
     With deafening clamour in the slippery clouds."
-
-
 
 without seeing an immense balloon rising from the ground, with
 
@@ -151,8 +141,6 @@ stop me: I am above reason now." That is the nearest we can get to the
 general national spirit, which we have now to follow through one brief
 
 and curious but very national episode.
-
-
 
 Three years before the young [[Queen|queen]] was crowned, William Cobbett was
 
@@ -179,8 +167,6 @@ with after Liberals in the ideal of Man under an equal law, a citizen of
 no mean [[City|city]]. He differed from after Liberals in strongly affirming that
 
 Liverpool and Leeds are mean cities.
-
-
 
 It is no idle Hibernianism to say that towards the end of the eighteenth
 
@@ -235,8 +221,6 @@ it was what people wrote. It is a quaint comment on the notion that the
 English are practical and the French merely visionary, that we were
 
 rebels in arts while they were rebels in arms.
-
-
 
 It has been [[Well|well]] and wittily said (as illustrating the mildness of
 
@@ -297,8 +281,6 @@ revolutionary than the real [[French Revolution]]: and if Carrier, in an
 exaggerative phrase, empurpled the Loire with carnage, Turner almost
 
 literally set the Thames on [[Fire|fire]].
-
-
 
 This trend of the English Romantics to carry out the revolutionary idea
 
@@ -410,8 +392,6 @@ their "art for art" epigrams--he will find most of what they said said
 
 better in _Murder as One of the Fine Arts_.
 
-
-
 One great man remains of this elder group, who did their last work only
 
 under Victoria; he knew most of the members of it, yet he did not belong
@@ -470,8 +450,6 @@ would have been a great epigrammatist, like Hugo. In England he is a
 
 punster.
 
-
-
 There was nothing at least in this group I have loosely called the
 
 Eccentrics that disturbs the general sense that all their generation was
@@ -507,8 +485,6 @@ sterility; since the pantheist Shelley was in fact washed under by the
 wave of the world, or Byron sank in [[Death|death]] as he drew the [[Sword|sword]] for
 
 Hellas.
-
-
 
 The chief turn of nineteenth-century England was taken about the [[Time|time]]
 
@@ -584,8 +560,6 @@ is marked even more significantly in his speech against the Chartists.
 
 Cobbett was dead.
 
-
-
 Macaulay makes the foundation of the Victorian age in all its very
 
 English and unique elements: its praise of Puritan politics and
@@ -609,8 +583,6 @@ derives from the dull parliamentarism of men like Sir James Mackintosh;
 but all that was great in him has much more kinship with the festive
 
 antiquarianism of Sir Walter Scott.
-
-
 
 As a philosopher he had only two thoughts; and neither of them is true.
 
@@ -669,8 +641,6 @@ upheld this one-sidedly but not malignantly in a style of rounded and
 ringing sentences, which at its best is like steel and at its worst like
 
 tin.
-
-
 
 This was the small conscious Macaulay; the great unconscious Macaulay
 
@@ -732,8 +702,6 @@ mad; one sees the map of England come alive and march and mix under the
 
 eye.
 
-
-
 The chief [[Tragedy|tragedy]] in the trend of later literature may be expressed by
 
 saying that the smaller Macaulay conquered the larger. Later men had
@@ -743,8 +711,6 @@ less and less of that hot [[Love|love]] of [[history]] he had inherited from Sco
 They had more and more of that cold science of [[Self|self]]-interests which he
 
 had learnt from Bentham.
-
-
 
 The name of this great man, though it belongs to a period before the
 
@@ -782,8 +748,6 @@ all the more touching because, in his department, as it were, he could
 
 only offer them so dry a gift as the Victorian Parliamentary Franchise.
 
-
-
 Now in trying to describe how the Victorian writers stood to each other,
 
 we must recur to the very real difficulty noted at the beginning: the
@@ -813,8 +777,6 @@ delivered, that was coming from the club of Darwin. For this reason no
 one can understand tradition, or even [[history]], who has not some
 
 tenderness for anachronism.
-
-
 
 Now for the great part of the Victorian era the utilitarian tradition
 
@@ -858,8 +820,6 @@ his religion: but Huxley was always talking about the religion he hadn't
 
 got.
 
-
-
 But though this simple Victorian rationalism held the centre, and in a
 
 certain sense _was_ the Victorian era, it was assailed on many sides,
@@ -898,8 +858,6 @@ the Victorian poets. From Ruskin, again, descend those who may be called
 
 the Pre-Raphaelites of prose and poetry.
 
-
-
 It is really with this rationalism triumphant, and with the [[Romance|romance]] of
 
 these various attacks on it, that the study of Victorian literature
@@ -931,8 +889,6 @@ mirrors. With every allowance for aliens and eccentrics and all the
 accidents that must always eat the edges of any systematic
 
 circumference, it may still be said that the Utilitarians held the fort.
-
-
 
 Of the [[Oxford]] Movement what remains most strongly in the Victorian Epoch
 
@@ -973,8 +929,6 @@ your cake and eating it too. It saw that the solid and serious
 Victorians were fundamentally frivolous--because they were
 
 fundamentally inconsistent.
-
-
 
 A man making the confession of any creed worth ten minutes' intelligent
 
@@ -1019,8 +973,6 @@ a Christian had a feast day he must have a fast day too. Otherwise, all
 days ought to be alike; and this was that very Utilitarianism against
 
 which their [[Oxford]] Movement was the first and most rational assault.
-
-
 
 This idea, even by reason of its reason, narrowed into a sort of sharp
 
@@ -1118,8 +1070,6 @@ Ruskin's Socialism) he has no followers in his own age: but very many in
 
 ours.
 
-
-
 The next group of reactionaries or romantics or whatever we elect to
 
 call them, gathers roughly around one great name. Scotland, from which
@@ -1206,8 +1156,6 @@ considered as a kind of poet than considered as anything else; and the
 
 central idea of poetry is the idea of guessing right, like a [[Child|child]].
 
-
-
 He first emerged, as it were, as a student and disciple of Goethe. The
 
 connection was not wholly fortunate. With much of what Goethe really
@@ -1276,8 +1224,6 @@ historian. It bears most resemblance to the incurable prejudices of a
 
 woman.
 
-
-
 For the rest there hovered behind all this transcendental haze a certain
 
 presence of old northern paganism; he really had some sympathy with the
@@ -1295,8 +1241,6 @@ about in the black Sabbaths of his [[Childhood|childhood]]; and so promulgated
 (against both Rationalists and Catholics) a sort of heathen [[Puritanism]]:
 
 Protestantism purged of its evidences of [[Christianity]].
-
-
 
 His great and real work was the attack on Utilitarianism: which did real
 
@@ -1366,8 +1310,6 @@ representative quarrel; for if the Utilitarian spirit reached its
 
 highest point in Mill, it certainly reached its lowest point in Malthus.
 
-
-
 One last element in the influence of Carlyle ought to be mentioned;
 
 because it very strongly dominated his disciples--especially Kingsley,
@@ -1394,7 +1336,7 @@ finds its right level. It began with what we may call the "[[Bible]] of
 
 revelation of the divine. Thus any enormous and unaltered human
 
-settlement--as the Norman Conquest or the secession of [[america|America]]--we must
+settlement--as the Norman Conquest or the secession of [[America]]--we must
 
 suppose to be the will of God. It lent itself to picturesque treatment;
 
@@ -1464,8 +1406,6 @@ present at a modern battle, He may be present not as on Gilboa but
 
 Golgotha.
 
-
-
 Carlyle's direct historical worship of strength and the rest of it was
 
 fortunately not very fruitful; and perhaps lingered only in Froude the
@@ -1529,8 +1469,6 @@ as he wrote on the Elizabethan seamen and adventurers, represent very
 triumphantly the sort of [[Romance|romance]] of England that all this school was
 
 attempting to establish; and link him up with Kingsley and the rest.
-
-
 
 Ruskin may be very roughly regarded as the young lieutenant of Carlyle
 
@@ -1604,9 +1542,7 @@ say of him that he seemed to want all parts of the [[Cathedral]] except the
 
 altar.
 
-
-
-As an [[Artist|artist]] in prose he is one of the most miraculous products of the
+As an [[artist]] in prose he is one of the most miraculous products of the
 
 extremely poetical genius of England. The length of a Ruskin sentence is
 
@@ -1647,8 +1583,6 @@ Ruskin sentence (occupying one or two pages of small print) does not
 remind us of the growth of a tree, the only other thing it does remind
 
 of is the triumphant passage of a railway train.
-
-
 
 Ruskin left behind him in his turn two quite separate streams of
 
@@ -1704,8 +1638,6 @@ to understand. Within his own limits, he talked the most cold common
 
 sense about political economy, which was no business of his at all.
 
-
-
 On the other side of his literary [[Soul|soul]], his mere unwrapping of the
 
 wealth and [[Wonder|wonder]] of European art, he set going another influence,
@@ -1729,8 +1661,6 @@ Catholic ethics had borne rapid or even flagrant fruit by the [[Time|time]] that
 Swinburne, writing about a harlot, composed a learned and sympathetic
 
 and indecent [[Parody|parody]] on the [[litany|Litany]] of the Blessed Virgin.
-
-
 
 With the poets I deal in another part of this book; but the influence of
 
@@ -1770,8 +1700,6 @@ peroration of _The Renaissance_. The only objection to being where all
 
 the keenest emotions meet is that you feel none of them.
 
-
-
 In this sense Pater may [[Well|well]] stand for a substantial summary of the
 
 æsthetes, apart from the purely poetical merits of men like Rossetti and
@@ -1806,11 +1734,9 @@ who could smile the same smile as the mother of [[Helen]] and the mother of
 
 Mary. But it is the high-[[Water|water]] mark of that vast attempt at an
 
-impartiality reached through art: and no other mere [[Artist|artist]] ever [[Rose|rose]] so
+impartiality reached through art: and no other mere [[artist]] ever [[Rose|rose]] so
 
 high again.
-
-
 
 Apart from this Ruskinian offshoot through Pre-Raphaelitism into what
 
@@ -1853,8 +1779,6 @@ things is not to be forgotten: but they leave the domain of letters. The
 voice of Carlyle is not heard again in letters till the coming of
 
 Kipling and Henley.
-
-
 
 One other name of great importance should appear here, because it cannot
 
@@ -1932,8 +1856,6 @@ illiberal life in Islington to a dismal and illiberal life in
 
 Camberwell?"
 
-
-
 His attitude to that great religious enigma round which all these great
 
 men were grouped as in a ring, was individual and decidedly curious. He
@@ -1977,8 +1899,6 @@ belief, actually was the practice of the ancient world. Arnold may have
 thought that he was building an altar to the Unknown God; but he was
 
 really building it to Divus Cæsar.
-
-
 
 As a critic he was chiefly concerned to preserve criticism itself; to
 
@@ -2028,8 +1948,6 @@ error was that he sometimes thus wearied us of his own phrases, as [[Well|well]]
 
 as of his enemies'.
 
-
-
 These names are roughly representative of the long series of protests
 
 against the cold commercial rationalism which held Parliament and the
@@ -2043,8 +1961,6 @@ were made in the name of neglected intellect, insulted art, forgotten
 been more heavily bombarded on the other side by one lonely and
 
 unlettered man of genius.
-
-
 
 The rise of Dickens is like the rising of a vast mob. This is not only
 
@@ -2092,8 +2008,6 @@ proceeding towards heaven or hell. When humanity is going to hell, the
 
 poor are always nearest to heaven.
 
-
-
 Dickens was a mob--and a mob in revolt; he fought by the light of
 
 [[Nature|nature]]; he had not a theory, but a thirst. If any one chooses to offer
@@ -2137,8 +2051,6 @@ gone very far--infecting many finer minds who had fought the
 Utilitarians. In the _Edinburgh Review_, a thing like Malthus could be
 
 championed by a man like Macaulay.
-
-
 
 The twin root facts of the revolution called Dickens are these: first,
 
@@ -2242,8 +2154,6 @@ his mouth and shut his eyes and saw what the Age of Reason would give
 
 him. And, having tasted it, he spat it out.
 
-
-
 I am constrained to consider Dickens here among the fighters; though I
 
 ought (on the pure principles of Art) to be considering him in the
@@ -2293,8 +2203,6 @@ sense, Dickens, the great romanticist, is truly the great realist also.
 For he had no abstractions: he had nothing except realities out of which
 
 to make a [[Romance|romance]].
-
-
 
 With Dickens, then, re-arises that reality with which I began and which
 

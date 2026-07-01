@@ -1,5 +1,5 @@
 ---
-title: "[[longbow2]] — Chapter 8 (part 4)"
+title: "longbow2 — Chapter 8 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"

@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 2 (part 5)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 2 (part 5)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -13,6 +13,32 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_01/part_04">‹ part 04</a><a class="ex-next" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_01/part_06">part 06 ›</a></div>
 </nav>
 
+
+had been my inseparable companion, and in a multitude of instances had
+
+given evidence of all the noble qualities for which we value the
+
+animal. I had rescued him, when a puppy, from the clutches of a
+
+malignant little [[Villain|villain]] in Nantucket, who was leading him, with a rope
+
+around his neck, to the [[Water|water]]; and the grown dog repaid the obligation,
+
+about three years afterward, by saving me from the bludgeon of a
+
+street-robber.
+
+
+
+Getting now hold of the watch, I found, upon applying it to my ear,
+
+that it had again run down; but at this I was not at all surprised,
+
+being convinced, from the peculiar state of my feelings, that I had
+
+slept, as before, for a very long period of [[Time|time]]; how long, it was of
+
+course impossible to say. I was burning up with fever, and my thirst
 
 was almost intolerable. I felt about the box for my little remaining
 
@@ -165,33 +191,3 @@ Augustus might be in his stateroom. The door, however, to my
 astonishment, remained steady, and I became somewhat uneasy, for I knew
 
 that it had formerly required little or no effort to remove it. I
-
-pushed it strongly--it was nevertheless firm: with all my strength--it
-
-still did not give way: with rage, with fury, with [[Despair|despair]]--it set at
-
-defiance my utmost efforts; and it was evident, from the unyielding
-
-[[Nature|nature]] of the resistance, that the hole had either been discovered and
-
-effectually nailed up, or that some immense weight had been placed upon
-
-it, which it was useless to think of removing.
-
-
-
-My sensations were those of extreme horror and dismay. In vain I
-
-attempted to reason on the probable cause of my being thus entombed. I
-
-could summon up no connected chain of reflection, and, sinking on the
-
-floor, gave way, unresistingly, to the most gloomy imaginings, in which
-
-the dreadful deaths of thirst, famine, suffocation, and premature
-
-interment, crowded upon me as the prominent disasters to be
-
-encountered. At length there returned to me some portion of presence of
-
-mind. I arose, and felt with my fingers for the seams or cracks of the

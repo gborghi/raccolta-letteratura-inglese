@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 17 (part 2)"
+title: "Villette — Chapter 17 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -121,24 +121,3 @@ idea?”
 
 “The manner in which you were consigned to me last [[Night|night]] made me
 [[Doubt|doubt]].”
-
-“I consigned to you? But, indeed, I forget. It yet remains for me to
-learn how I fell into your hands.”
-
-“Why, under circumstances that puzzled me. I had been in attendance all
-day yesterday on a case of singularly interesting and critical
-character; the disease being rare, and its treatment doubtful: I saw a
-similar and still finer case in a hospital in [[Paris]]; but that will not
-interest you. At last a mitigation of the patient’s most urgent
-symptoms (acute [[Pain|pain]] is one of its accompaniments) liberated me, and I
-set out homeward. My shortest way lay through the Basse-Ville, and as
-the [[Night|night]] was excessively dark, wild, and wet, I took it. In riding
-past an old church belonging to a community of Béguines, I saw by a
-lamp burning over the porch or deep arch of the entrance, a priest
-lifting some object in his arms. The lamp was bright enough to reveal
-the priest’s features clearly, and I recognised him; he was a man I
-have often met by the sick beds of both rich and poor: and chiefly the
-latter. He is, I think, a good old man, far better than most of his
-class in this country; superior, indeed, in every way, better informed,
-as [[Well|well]] as more devoted to duty. Our eyes met; he called on me to stop:
-what he supported was a woman, fainting or dying. I alighted.

@@ -136,7 +136,7 @@ refuse from a foreigner.  I can only plead that I have endeavoured
 to carry out the excellent patriotic principle of "See England First"
 in the equally patriotic paraphrase of "Criticize England First."
 I have been engaged upon it long enough to be quite [[Well|well]] aware that there
-are evils present in England that are relatively absent from [[America]];
+are evils present in England that are relatively absent from [[america|America]];
 and none more conspicuously absent, as Mr. Belloc has pointed out
 to the surprise of many, than the real, servile, superstitious,
 and mystical adoration of Money.
@@ -229,7 +229,7 @@ he wrote DIE WALKURIE, and a hen achieves every [[Time|time]] she lays an egg."
 That is all consistent enough as far as it goes; but unfortunately
 Mr. Mencken appears to go on to something quite inconsistent with it.
 According to the quotation, he afterwards bursts into a [[Song|song]]
-of triumph because there is now in [[America]] not only criticism,
+of triumph because there is now in [[america|America]] not only criticism,
 but controversy.  "To-day for the first [[Time|time]] in years there is strife
 in American criticism... ears are bitten off, noses are bloodied.
 There are wallops both above and below the belt."
@@ -307,7 +307,7 @@ and while I believe we are both heavy men, I [[Doubt|doubt]] not that he is
 the more formidable.  The very possibility of our being reduced
 to this inarticulate explanation may possibly throw some light
 on Mr. Mencken's remarkable description of the new literary life
-in [[America]].  "Ears are bitten off," he says; and this curious
+in [[america|America]].  "Ears are bitten off," he says; and this curious
 form of cultural intercourse might really be the only solution,
 when ears are no longer organs of hearing and there are no organs
 except organs of [[Self|self]]-expression. He that hath ears to hear and will

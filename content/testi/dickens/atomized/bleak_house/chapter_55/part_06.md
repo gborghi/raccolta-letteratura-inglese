@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 55 (part 6)"
+title: "Bleak House — Chapter 55 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,32 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_55/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_56/part_01">part 01 ›</a></div>
 </nav>
 
+
+She scarcely acknowledges these parting words by any look, but when
+he has been gone a little while, she rings her bell.
+
+“Where is Sir Leicester?”
+
+Mercury reports that he is at present shut up in the library [[Alone|alone]].
+
+“Has Sir Leicester had any visitors this morning?”
+
+Several, on business. Mercury proceeds to a description of them,
+which has been anticipated by Mr. Guppy. Enough; he may go.
+
+So! All is broken down. Her name is in these many mouths, her husband
+knows his wrongs, her shame will be published—may be spreading while
+she thinks about it—and in addition to the thunderbolt so long
+foreseen by her, so unforeseen by him, she is denounced by an
+invisible accuser as the murderess of her enemy.
+
+Her enemy he was, and she has often, often, often wished him dead.
+Her enemy he is, even in his [[Grave|grave]]. This dreadful accusation comes
+upon her like a new torment at his lifeless hand. And when she
+recalls how she was secretly at his door that [[Night|night]], and how she may
+be represented to have sent her favourite girl away so soon before
+merely to release herself from observation, she shudders as if the
+hangman’s hands were at her neck.
 
 She has thrown herself upon the floor and lies with her hair all
 wildly scattered and her face buried in the cushions of a couch. She

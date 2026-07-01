@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 41 (part 1)"
+title: "The Tenant of Wildfell Hall — Chapter 41 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -30,7 +30,7 @@ with the [[Hope|hope]] of escape—he has taken care to leave me no visible chan
 
 of that—but with a determination to make the best of existing
 
-circumstances. Here was [[arthur|Arthur]] left to me at last; and rousing from my
+circumstances. Here was [[Arthur]] left to me at last; and rousing from my
 
 despondent apathy, I exerted all my powers to eradicate the weeds that
 
@@ -38,7 +38,7 @@ had been fostered in his infant mind, and sow again the good seed they
 
 had rendered unproductive. Thank heaven, it is not a barren or a stony
 
-soil; if weeds [[spring]] fast there, so do better plants. His
+soil; if weeds [[Spring|spring]] fast there, so do better plants. His
 
 apprehensions are more quick, his heart more overflowing with affection
 
@@ -100,9 +100,9 @@ sight of any one of them is sufficient to make him sick, I have given
 
 up teasing him about them, except now and then as objects of terror in
 
-cases of misbehaviour. “[[arthur|Arthur]], if you’re not a good boy I shall give
+cases of misbehaviour. “[[Arthur]], if you’re not a good boy I shall give
 
-you a glass of wine,” or “Now, [[arthur|Arthur]], if you say that again you shall
+you a glass of wine,” or “Now, [[Arthur]], if you say that again you shall
 
 have some brandy-and-[[Water|water]],” is as good as any other threat; and once
 
@@ -193,13 +193,3 @@ I was married; but, since our father’s [[Death|death]], I have only seen him
 once, when he came for a few days while Mr. Huntingdon was away. He
 
 shall stay many days this [[Time|time]], and there shall be more candour and
-
-cordiality between us than ever there was before, since our early
-
-[[Childhood|childhood]]. My heart clings to him more than ever; and my [[Soul|soul]] is sick
-
-of [[Solitude|solitude]].
-
-
-
-April 16th.—He is come and gone. He would not stay above a fortnight.

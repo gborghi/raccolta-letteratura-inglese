@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 42: FORTY TWO (part 2)"
+title: "Martin Chuzzlewit — Chapter 42: FORTY TWO (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -132,8 +132,3 @@ They agreed that they would go to Salisbury, and would [[Cross|cross]] to Mr
 Pecksniff’s in the morning; and at the prospect of deluding that worthy
 gentleman, the spirits of his amiable son-in-law became more boisterous
 than ever.
-
-As the [[Night|night]] wore on, the thunder died away, but still rolled
-gloomily and mournfully in the distance. The [[Lightning|lightning]] too, though now
-comparatively harmless, was yet bright and frequent. The rain was quite
-as violent as it had ever been.

@@ -1,5 +1,5 @@
 ---
-title: "[[Agnes Grey]] — Chapter 11"
+title: "Agnes Grey — Chapter 11"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/agnes-grey-(bronte)"
@@ -210,7 +210,7 @@ It’s your duty to go there as often as you can. If you want comfort,
 you must seek it in the path of duty,’—an’ a deal more he said, but I
 cannot remember all his fine words. However, it all came to this, that
 I was to come to church as oft as ever I could, and bring my
-[[Prayer|prayer]]-book with me, an’ read up all the sponsers after the clerk, an’
+[[prayer]]-book with me, an’ read up all the sponsers after the clerk, an’
 stand, an’ kneel, an’ sit, an’ do all as I should, and take the Lord’s
 Supper at every opportunity, an’ hearken his sermons, and Maister
 Bligh’s, an’ it ’ud be all right: if I went on doing my duty, I should
@@ -246,9 +246,9 @@ wasn’t going to tell you about my eyes, I was talking about my trouble
 o’ mind;—and to tell the [[Truth|truth]], Miss Grey, I don’t think it was anyways
 eased by coming to church—nought to speak on, at least: I like got my
 health better; but that didn’t mend my [[Soul|soul]]. I hearkened and hearkened
-the ministers, and read an’ read at my [[Prayer|prayer]]-book; but it was all like
+the ministers, and read an’ read at my [[prayer]]-book; but it was all like
 sounding brass and a tinkling cymbal: the sermons I couldn’t
-understand, an’ th’ [[Prayer|prayer]]-book only served to show me how wicked I
+understand, an’ th’ [[prayer]]-book only served to show me how wicked I
 was, that I could read such good words an’ never be no better for it,
 and oftens feel it a sore labour an’ a heavy task beside, instead of a
 blessing and a privilege as all good Christians does. It seemed like as
@@ -431,7 +431,7 @@ who, before the other’s arrival at Horton, had now and then paid him a
 visit; on which occasions he would always insist upon having the
 cottage-door kept open, to admit the fresh air for his own convenience,
 without considering how it might injure the sufferer; and having opened
-his [[Prayer|prayer]]-book and hastily read over a part of the Service for the
+his [[prayer]]-book and hastily read over a part of the Service for the
 Sick, would hurry away again: if he did not stay to administer some
 harsh rebuke to the afflicted wife, or to make some thoughtless, not to
 say heartless, observation, rather calculated to increase than diminish

@@ -14,6 +14,16 @@ tags:
 </nav>
 
 
+She loved her [[Child|child]], and wished to have it lying on her breast.  And that
+was quite enough.
+
+It was [[Night|night]]: a bleak, dark, cutting [[Night|night]]: when, pressing the [[Child|child]]
+close to her for warmth, she arrived outside the [[house]] she called her
+[[Home|home]].  She was so faint and giddy, that she saw no one standing in the
+doorway until she was close upon it, and about to enter.  Then, she
+recognised the master of the [[house]], who had so disposed himself—with his
+person it was not difficult—as to fill up the whole entry.
+
 ‘O!’ he said softly.  ‘You have come back?’
 
 She looked at the [[Child|child]], and shook her head.
@@ -132,16 +142,3 @@ seed bears such fruit!  Heaven meant her to be good.  There is no loving
 mother on the earth who might not come to this, if such a life had gone
 before.  O, have [[Mercy|mercy]] on my [[Child|child]], who, even at this pass, means [[Mercy|mercy]]
 to her own, and dies herself, and perils her immortal [[Soul|soul]], to save it!’
-
-She was in his arms.  He held her now.  His strength was like a giant’s.
-
-‘I see the Spirit of the Chimes among you!’ cried the old man, singling
-out the [[Child|child]], and speaking in some inspiration, which their looks
-conveyed to him.  ‘I know that our inheritance is held in store for us by
-[[Time]].  I know there is a sea of [[Time]] to rise one day, before which all
-who wrong us or oppress us will be swept away like [[Leaves|leaves]].  I see it, on
-the flow!  I know that we must trust and [[Hope|hope]], and neither [[Doubt|doubt]]
-ourselves, nor [[Doubt|doubt]] the good in one another.  I have learnt it from the
-creature dearest to my heart.  I clasp her in my arms again.  O Spirits,
-merciful and good, I take your lesson to my breast along with her!  O
-Spirits, merciful and good, I am grateful!’

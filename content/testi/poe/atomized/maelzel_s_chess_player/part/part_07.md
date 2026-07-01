@@ -1,5 +1,5 @@
 ---
-title: "[[Maelzel's Chess-Player]] (part 7)"
+title: "Maelzel's Chess-Player (part 7)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/maelzel's-chess-player-(poe)"
@@ -13,6 +13,28 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/maelzel_s_chess_player/part/part_06">‹ part 06</a><a class="ex-next" href="/testi/poe/atomized/maelzel_s_chess_player/part/part_08">part 08 ›</a></div>
 </nav>
 
+
+      spectators’ right) of the main compartment.
+
+
+
+      In this analysis of the operations of the Automaton, we have
+
+      purposely avoided any allusion to the manner in which the
+
+      partitions are shifted, and it will now be readily comprehended
+
+      that this point is a matter of no importance, since, by mechanism
+
+      within the ability of any common carpenter, it might be effected
+
+      in an infinity of different ways, and since we have shown that,
+
+      however performed, it is performed out of the view of the
+
+      spectators. Our result is founded upon the following
+
+      _observations _taken during frequent visits to the exhibition of
 
       Maelzel. {*5}
 
@@ -177,27 +199,3 @@ tags:
       interior of the trunk is seen to be crowded with machinery. In
 
       scrutinizing this machinery while the Automaton was in motion,
-
-      that is to say while the whole [[Machine|machine]] was moving on the castors,
-
-      it appeared to us that certain portions of the mechanism changed
-
-      their shape and position in a degree too great to be accounted
-
-      for by the simple laws of perspective; and subsequent
-
-      examinations convinced us that these undue alterations were
-
-      attributable to mirrors in the interior of the trunk. The
-
-      introduction of mirrors among the machinery could not have been
-
-      intended to influence, in any degree, the machinery itself. Their
-
-      operation, whatever that operation should prove to be, must
-
-      necessarily have reference to the eye of the spectator. We at
-
-      once concluded that these mirrors were so placed to multiply to
-
-      the vision some few pieces of machinery within the trunk so as to

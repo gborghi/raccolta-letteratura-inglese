@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 14 (part 1)"
+title: "The Tenant of Wildfell Hall — Chapter 14 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -205,13 +205,3 @@ bemired; and his hat was [[rolling]] in the mud on the other side of the
 [[Road|road]]. But his thoughts seemed chiefly bent upon his pony, on which he
 
 was wistfully gazing—half in helpless anxiety, and half in hopeless
-
-abandonment to his fate.
-
-
-
-I dismounted, however, and having fastened my own animal to the nearest
-
-tree, first picked up his hat, intending to clap it on his head; but
-
-either he considered his head unfit for a hat, or the hat, in its

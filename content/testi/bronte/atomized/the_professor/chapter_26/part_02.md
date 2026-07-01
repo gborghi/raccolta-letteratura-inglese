@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 25 (part 2)"
+title: "The Professor — Chapter 25 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -14,23 +14,19 @@ tags:
 </nav>
 
 
+and her manner in speaking to me was then, as always, so unaffectedly
+
+and suavely respectful, that my heart expanded at the sight of her, and
+
 a kiss seemed necessary to content its importunity.
-
-
 
 “There, monsieur.”
 
-
-
 “Why do you always call me ‘Monsieur’? Say, ‘William.’”
-
-
 
 “I cannot pronounce your W; besides, ‘Monsieur’ belongs to you; I like
 
 it best.”
-
-
 
 Minnie having departed in clean cap and smart shawl, we, too, set out,
 
@@ -51,8 +47,6 @@ to be declined; we took it, and when we had admired and examined some
 English-looking wild-[[Flowers|flowers]] growing at our feet, I recalled Frances’
 
 attention and my own to the topic touched on at breakfast.
-
-
 
 “What was her plan?” A natural one--the next step to be mounted by
 
@@ -80,8 +74,6 @@ old to enjoy it; then both she and I would rest; and what was to hinder
 
 us from going to live in England? England was still her Promised Land.
 
-
-
 I put no obstacle in her way; raised no objection; I knew she was
 
 not one who could live quiescent and inactive, or even comparatively
@@ -96,15 +88,11 @@ was not the hand ever to starve or cramp them; no, I delighted in
 
 offering them sustenance, and in clearing them wider space for action.
 
-
-
 “You have conceived a plan, Frances,” said I, “and a good plan; execute
 
 it; you have my free consent, and wherever and whenever my assistance is
 
 wanted, ask and you shall have.”
-
-
 
 Frances’ eyes thanked me almost with [[Tears|tears]]; just a sparkle or two, soon
 
@@ -114,13 +102,9 @@ some [[Time|time]] very close clasped in both her own, but she said no more than
 
 “Thank you, monsieur.”
 
-
-
 We passed a divine day, and came [[Home|home]] late, lighted by a full [[Summer|summer]]
 
 [[Moon|moon]].
-
-
 
 Ten years rushed now upon me with dusty, vibrating, unresting wings;
 
@@ -156,8 +140,6 @@ went back, and soon after sent a leash of young ----shire heiresses--his
 
 cousins; as he said “to be polished off by Mrs. Crimsworth.”
 
-
-
 As to this same Mrs. Crimsworth, in one sense she was become another
 
 woman, though in another she remained unchanged. So different was
@@ -182,8 +164,6 @@ ready to yield an exquisite fragrance and present a [[Beauty|beauty]] as chaste 
 
 radiant.
 
-
-
 In the daytime my [[house]] and establishment were conducted by Madame the
 
 directress, a stately and elegant woman, bearing much anxious thought on
@@ -207,13 +187,3 @@ more animated; she seemed to feel a certain enjoyment in the occupation.
 The language in which she addressed her pupils, though simple and
 
 unpretending, was never trite or dry; she did not speak from routine
-
-formulas--she made her own phrases as she went on, and very nervous
-
-and impressive phrases they frequently were; often, when elucidating
-
-favourite points of [[history]], or geography, she would wax genuinely
-
-eloquent in her earnestness. Her pupils, or at least the elder and more
-
-intelligent amongst them, recognized [[Well|well]] the language of a superior

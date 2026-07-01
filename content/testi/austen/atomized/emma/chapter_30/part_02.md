@@ -1,5 +1,5 @@
 ---
-title: "[[Emma]] — Chapter 11 (part 2)"
+title: "Emma — Chapter 12 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/emma-(austen)"
@@ -10,126 +10,126 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/works/emma-(austen)">Emma</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/emma/chapter_30/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/emma/chapter_30/part_03">part 03 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/emma/chapter_30/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/emma/chapter_32/part_01">part 01 ›</a></div>
 </nav>
 
 
-Before the middle of the next day, he was at Hartfield; and he entered
-the room with such an agreeable smile as certified the continuance of
-the scheme. It soon appeared that he came to announce an improvement.
+[[Emma]] looked graciously.
 
-“[[Well]], Miss Woodhouse,” he almost immediately began, “your inclination
-for dancing has not been quite frightened away, I [[Hope|hope]], by the terrors
-of my father’s little rooms. I bring a new proposal on the subject:—a
-thought of my father’s, which waits only your approbation to be acted
-upon. May I [[Hope|hope]] for the [[Honour|honour]] of your hand for the two first dances
-of this little projected ball, to be given, not at Randalls, but at the
-[[Crown]] Inn?”
+“Such a fortnight as it has been!” he continued; “every day more
+precious and more delightful than the day before!—every day making me
+less fit to bear any other place. Happy those, who can remain at
+Highbury!”
 
-“The [[Crown]]!”
+“As you do us such ample justice now,” said [[Emma]], laughing, “I will
+venture to ask, whether you did not come a little doubtfully at first?
+Do not we rather surpass your expectations? I am sure we do. I am sure
+you did not much expect to like us. You would not have been so long in
+coming, if you had had a pleasant idea of Highbury.”
 
-“Yes; if you and Mr. Woodhouse see no objection, and I trust you
-cannot, my father hopes his friends will be so kind as to visit him
-there. Better accommodations, he can promise them, and not a less
-grateful welcome than at Randalls. It is his own idea. Mrs. Weston sees
-no objection to it, provided you are satisfied. This is what we all
-feel. Oh! you were perfectly right! Ten couple, in either of the
-Randalls rooms, would have been insufferable!—Dreadful!—I felt how
-right you were the whole [[Time|time]], but was too anxious for securing _any_
-_thing_ to like to yield. Is not it a good exchange?—You consent—I [[Hope|hope]]
-you consent?”
+He laughed rather consciously; and though denying the sentiment, [[Emma]]
+was convinced that it had been so.
 
-“It appears to me a plan that nobody can object to, if Mr. and Mrs.
-Weston do not. I think it admirable; and, as far as I can answer for
-myself, shall be most happy—It seems the only improvement that could
-be. Papa, do you not think it an excellent improvement?”
+“And you must be off this very morning?”
 
-She was obliged to repeat and explain it, before it was fully
-comprehended; and then, being quite new, farther representations were
-necessary to make it acceptable.
+“Yes; my father is to join me here: we shall walk back together, and I
+must be off immediately. I am almost afraid that every moment will
+bring him.”
 
-“No; he thought it very far from an improvement—a very bad plan—much
-worse than the other. A room at an inn was always damp and dangerous;
-never properly aired, or fit to be inhabited. If they must [[Dance|dance]], they
-had better [[Dance|dance]] at Randalls. He had never been in the room at the
-[[Crown]] in his life—did not know the people who kept it by sight.—Oh!
-no—a very bad plan. They would catch worse colds at the [[Crown]] than
-anywhere.”
+“Not five minutes to spare even for your friends Miss Fairfax and Miss
+Bates? How unlucky! [[Miss Bates]]’s powerful, argumentative mind might
+have strengthened yours.”
 
-“I was going to observe, sir,” said [[Frank Churchill]], “that one of the
-great recommendations of this change would be the very little danger of
-any [[Body|body]]’s catching cold—so much less danger at the [[Crown]] than at
-Randalls! Mr. Perry might have reason to regret the alteration, but
-nobody else could.”
+“Yes—I _have_ called there; passing the door, I thought it better. It
+was a right thing to do. I went in for three minutes, and was detained
+by [[Miss Bates]]’s being absent. She was out; and I felt it impossible not
+to wait till she came in. She is a woman that one may, that one _must_
+laugh at; but that one would not wish to slight. It was better to pay
+my visit, then”—
 
-“Sir,” said Mr. Woodhouse, rather warmly, “you are very much mistaken
-if you suppose Mr. Perry to be that sort of character. Mr. Perry is
-extremely concerned when any of us are ill. But I do not understand how
-the room at the [[Crown]] can be safer for you than your father’s [[house]].”
+He hesitated, got up, walked to a [[Window|window]].
 
-“From the very circumstance of its being larger, sir. We shall have no
-occasion to open the windows at all—not once the whole evening; and it
-is that dreadful habit of opening the windows, letting in cold air upon
-heated bodies, which (as you [[Well|well]] know, sir) does the mischief.”
+“In short,” said he, “perhaps, Miss Woodhouse—I think you can hardly be
+quite without suspicion”—
 
-“Open the windows!—but surely, Mr. Churchill, nobody would think of
-opening the windows at Randalls. Nobody could be so imprudent! I never
-heard of such a thing. Dancing with open windows!—I am sure, neither
-your father nor Mrs. Weston (poor Miss Taylor that was) would suffer
-it.”
+He looked at her, as if wanting to read her thoughts. She hardly knew
+what to say. It seemed like the forerunner of something absolutely
+serious, which she did not wish. Forcing herself to speak, therefore,
+in the [[Hope|hope]] of putting it by, she calmly said,
 
-“Ah! sir—but a thoughtless young person will sometimes step behind a
-[[Window|window]]-curtain, and throw up a sash, without its being suspected. I
-have often known it done myself.”
+“You are quite in the right; it was most natural to pay your visit,
+then”—
 
-“Have you indeed, sir?—Bless me! I never could have supposed it. But I
-live out of the world, and am often astonished at what I hear. However,
-this does make a difference; and, perhaps, when we come to talk it
-over—but these sort of things require a good deal of consideration. One
-cannot resolve upon them in a hurry. If Mr. and Mrs. Weston will be so
-obliging as to call here one morning, we may talk it over, and see what
-can be done.”
+He was silent. She believed he was looking at her; probably reflecting
+on what she had said, and trying to understand the manner. She heard
+him sigh. It was natural for him to feel that he had _cause_ to sigh.
+He could not believe her to be encouraging him. A few awkward moments
+passed, and he sat down again; and in a more determined manner said,
 
-“But, unfortunately, sir, my [[Time|time]] is so limited—”
+“It was something to feel that all the rest of my [[Time|time]] might be given
+to Hartfield. My regard for Hartfield is most warm”—
 
-“Oh!” interrupted [[Emma]], “there will be plenty of [[Time|time]] for talking every
-thing over. There is no hurry at all. If it can be contrived to be at
-the [[Crown]], papa, it will be very convenient for the horses. They will
-be so near their own stable.”
+He stopt again, [[Rose|rose]] again, and seemed quite embarrassed.—He was more
+in [[Love|love]] with her than [[Emma]] had supposed; and who can say how it might
+have ended, if his father had not made his appearance? Mr. Woodhouse
+soon followed; and the necessity of exertion made him composed.
 
-“So they will, my dear. That is a great thing. Not that James ever
-complains; but it is right to spare our horses when we can. If I could
-be sure of the rooms being thoroughly aired—but is Mrs. Stokes to be
-trusted? I [[Doubt|doubt]] it. I do not know her, even by sight.”
+A very few minutes more, however, completed the present trial. Mr.
+Weston, always alert when business was to be done, and as incapable of
+procrastinating any evil that was inevitable, as of foreseeing any that
+was doubtful, said, “It was [[Time|time]] to go;” and the young man, though he
+might and did sigh, could not but agree, to take leave.
 
-“I can answer for every thing of that [[Nature|nature]], sir, because it will be
-under Mrs. Weston’s care. Mrs. Weston undertakes to direct the whole.”
+“I shall hear about you all,” said he; “that is my chief consolation. I
+shall hear of every thing that is going on among you. I have engaged
+Mrs. Weston to correspond with me. She has been so kind as to promise
+it. Oh! the blessing of a female correspondent, when one is really
+interested in the absent!—she will tell me every thing. In her letters
+I shall be at dear Highbury again.”
 
-“There, papa!—Now you must be satisfied—Our own dear Mrs. Weston, who
-is carefulness itself. Do not you remember what Mr. Perry said, so many
-years ago, when I had the measles? ‘If _Miss_ _Taylor_ undertakes to
-wrap Miss [[Emma]] up, you need not have any fears, sir.’ How often have I
-heard you speak of it as such a compliment to her!”
+A very friendly shake of the hand, a very earnest “Good-bye,” closed
+the speech, and the door had soon shut out [[Frank Churchill]]. Short had
+been the notice—short their meeting; he was gone; and [[Emma]] felt so
+sorry to part, and foresaw so great a loss to their little society from
+his absence as to begin to be afraid of being too sorry, and feeling it
+too much.
 
-“Aye, very true. Mr. Perry did say so. I shall never forget it. Poor
-little [[Emma]]! You were very bad with the measles; that is, you would
-have been very bad, but for Perry’s great attention. He came four times
-a day for a week. He said, from the first, it was a very good
-sort—which was our great comfort; but the measles are a dreadful
-complaint. I [[Hope|hope]] whenever poor [[Isabella]]’s little ones have the
-measles, she will send for Perry.”
+It was a sad change. They had been meeting almost every day since his
+arrival. Certainly his being at Randalls had given great spirit to the
+last two weeks—indescribable spirit; the idea, the expectation of
+seeing him which every morning had brought, the assurance of his
+attentions, his liveliness, his manners! It had been a very happy
+fortnight, and forlorn must be the sinking from it into the common
+course of Hartfield days. To complete every other recommendation, he
+had _almost_ told her that he loved her. What strength, or what
+constancy of affection he might be subject to, was another point; but
+at present she could not [[Doubt|doubt]] his having a decidedly warm admiration,
+a conscious preference of herself; and this [[Persuasion|persuasion]], joined to all
+the rest, made her think that she _must_ be a little in [[Love|love]] with him,
+in spite of every previous determination against it.
 
-“My father and Mrs. Weston are at the [[Crown]] at this moment,” said Frank
-Churchill, “examining the capabilities of the [[house]]. I left them there
-and came on to Hartfield, impatient for your opinion, and hoping you
-might be persuaded to join them and give your advice on the spot. I was
-desired to say so from both. It would be the greatest pleasure to them,
-if you could allow me to attend you there. They can do nothing
-satisfactorily without you.”
+“I certainly must,” said she. “This sensation of listlessness,
+weariness, stupidity, this disinclination to sit down and employ
+myself, this feeling of every thing’s being dull and insipid about the
+[[house]]!— I must be in [[Love|love]]; I should be the oddest creature in the world
+if I were not—for a few weeks at least. [[Well]]! evil to some is always
+good to others. I shall have many fellow-mourners for the ball, if not
+for [[Frank Churchill]]; but Mr. Knightley will be happy. He may spend the
+evening with his dear William Larkins now if he likes.”
 
-[[Emma]] was most happy to be called to such a council; and her father,
-engaging to think it all over while she was gone, the two young people
-set off together without delay for the [[Crown]]. There were Mr. and Mrs.
-Weston; delighted to see her and receive her approbation, very busy and
-very happy in their different way; she, in some little distress; and
-he, finding every thing perfect.
+Mr. Knightley, however, shewed no triumphant happiness. He could not
+say that he was sorry on his own account; his very cheerful look would
+have contradicted him if he had; but he said, and very steadily, that
+he was sorry for the disappointment of the others, and with
+considerable kindness added,
+
+“You, [[Emma]], who have so few opportunities of dancing, you are really
+out of luck; you are very much out of luck!”
+
+It was some days before she saw [[Jane Fairfax]], to judge of her honest
+regret in this woeful change; but when they did meet, her composure was
+odious. She had been particularly unwell, however, [[Suffering|suffering]] from
+headache to a degree, which made her aunt declare, that had the ball
+taken place, she did not think Jane could have attended it; and it was
+[[Charity|charity]] to impute some of her unbecoming indifference to the languor of
+ill-health.

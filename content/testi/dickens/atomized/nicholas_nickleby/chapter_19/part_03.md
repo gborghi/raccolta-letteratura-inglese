@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 19 (part 3)"
+title: "Nicholas Nickleby — Chapter 19 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_19/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_19/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘I couldn’t see you before, my dear,’ he said, in a low tone, and
+pointing, as he spoke, to the next room. ‘I was engaged in receiving
+them. Now--shall I take you in?’
+
+‘Pray, uncle,’ said Kate, a little flurried, as people much more
+conversant with society often are, when they are about to enter a room
+full of strangers, and have had [[Time|time]] to think of it previously, ‘are
+there any ladies here?’
 
 ‘No,’ said Ralph, shortly, ‘I don’t know any.’
 
@@ -138,13 +147,3 @@ Mulberry as his lordship sat down.
 ‘[[Well]], you attend to your dinner,’ said Sir Mulberry, ‘and don’t mind
 Miss Nickleby and me, for we shall prove very indifferent company, I
 dare say.’
-
-‘I wish you’d interfere here, Nickleby,’ said Lord Frederick.
-
-‘What is the matter, my lord?’ demanded Ralph from the [[Bottom|bottom]] of the
-table, where he was supported by Messrs Pyke and Pluck.
-
-‘This fellow, Hawk, is monopolising your niece,’ said Lord Frederick.
-
-‘He has a tolerable share of everything that you lay claim to, my lord,’
-said Ralph with a sneer.

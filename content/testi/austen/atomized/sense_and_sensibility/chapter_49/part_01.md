@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 49 (part 1)"
+title: "Sense and Sensibility — Chapter 49 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -203,11 +203,3 @@ tranquillity to her heart.
 Edward was now fixed at the cottage at least for a week;—for whatever
 
 other claims might be made on him, it was impossible that less than a
-
-week should be given up to the enjoyment of Elinor’s company, or
-
-suffice to say half that was to be said of the past, the present, and
-
-the future;—for though a very few hours spent in the hard labor of
-
-incessant talking will despatch more subjects than can really be in

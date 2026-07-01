@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 25 (part 5)"
+title: "Nicholas Nickleby — Chapter 25 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,39 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_25/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_26/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘To hang himself!’ cried Mr. Lillyvick again. ‘Is any parallel attempted
+to be drawn in this company between matrimony and hanging?’
+
+‘The noose, you know,’ said Mr. Folair, a little crest-fallen.
+
+‘The noose, sir?’ retorted Mr. Lillyvick. ‘Does any man dare to speak to
+me of a noose, and Henrietta Pe--’
+
+‘Lillyvick,’ suggested Mr. Crummles.
+
+‘--And Henrietta Lillyvick in the same breath?’ said the collector. ‘In
+this [[house]], in the presence of Mr. and Mrs. Crummles, who have brought
+up a talented and virtuous family, to be blessings and phenomenons, and
+what not, are we to hear talk of nooses?’
+
+‘Folair,’ said Mr. Crummles, deeming it a matter of decency to be
+affected by this allusion to himself and partner, ‘I’m astonished at
+you.’
+
+‘What are you going on in this way at me for?’ urged the unfortunate
+actor. ‘What have I done?’
+
+‘Done, sir!’ cried Mr. Lillyvick, ‘aimed a blow at the whole framework of
+society--’
+
+‘And the best and tenderest feelings,’ added Crummles, relapsing into
+the old man.
+
+‘And the highest and most estimable of social ties,’ said the collector.
+‘Noose! As if one was caught, trapped into the married state, pinned by
+the leg, instead of going into it of one’s own accord and glorying in
+the act!’
 
 ‘I didn’t mean to make it out, that you were caught and trapped, and
 pinned by the leg,’ replied the actor. ‘I’m sorry for it; I can’t say

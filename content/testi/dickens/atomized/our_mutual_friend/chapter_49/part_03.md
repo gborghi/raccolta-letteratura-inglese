@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 8 (part 3)"
+title: "Our Mutual Friend — Chapter 11 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,149 +14,159 @@ tags:
 </nav>
 
 
-‘Now, Missis,’ said he; ‘where did you come from and where are you going
-to?’
+They had walked along the Strand, and into Pall Mall, and had turned
+up-[[Hill|hill]] towards Hyde Park Corner; [[Bradley Headstone]] waiting on the pace
+and lead of Riderhood, and leaving him to indicate the course. So slow
+were the schoolmaster’s thoughts, and so indistinct his purposes when
+they were but tributary to the one absorbing purpose or rather when,
+like dark trees under a stormy sky, they only lined the long vista at
+the end of which he saw those two figures of Wrayburn and Lizzie on
+which his eyes were fixed—that at least a good half-mile was traversed
+before he spoke again. Even then, it was only to ask:
 
-The poor [[Soul|soul]] confusedly asked the counter-question where she was?
+‘Where is your Lock?’
 
-‘I am the Lock,’ said the man.
+‘Twenty mile and odd—call it five-and-twenty mile and odd, if you
+like—up stream,’ was the sullen reply.
 
-‘The Lock?’
+‘How is it called?’
 
-‘I am the Deputy Lock, on job, and this is the Lock-[[house]]. (Lock or
-Deputy Lock, it’s all one, while the t’other man’s in the hospital.)
-What’s your Parish?’
+‘Plashwater Weir Mill Lock.’
 
-‘Parish!’ She was up from the truckle-bed directly, wildly feeling about
-her for her basket, and gazing at him in affright.
+‘Suppose I was to offer you five shillings; what then?’
 
-‘You’ll be asked the question down town,’ said the man. ‘They won’t let
-you be more than a Casual there. They’ll pass you on to your settlement,
-Missis, with all [[Speed|speed]]. You’re not in a state to be let come upon
-strange parishes ’ceptin as a Casual.’
+‘Why, then, I’d take it,’ said Mr Riderhood.
 
-‘’Twas the deadness again!’ murmured Betty Higden, with her hand to her
-head.
+The schoolmaster put his hand in his pocket, and produced two
+half-crowns, and placed them in Mr Riderhood’s palm: who stopped at
+a convenient doorstep to ring them both, before acknowledging their
+receipt.
 
-‘It was the deadness, there’s not a [[Doubt|doubt]] about it,’ returned the man.
-‘I should have thought the deadness was a mild word for it, if it had
-been named to me when we brought you in. Have you got any friends,
-Missis?’
+‘There’s one thing about you, T’otherest Governor,’ said Riderhood,
+faring on again, ‘as looks [[Well|well]] and goes fur. You’re a ready money man.
+Now;’ when he had carefully pocketed the coins on that side of himself
+which was furthest from his new friend; ‘what’s this for?’
 
-‘The best of friends, Master.’
+‘For you.’
 
-‘I should recommend your looking ’em up if you consider ’em game to do
-anything for you,’ said the Deputy Lock. ‘Have you got any money?’
+‘Why, o’ course I know THAT,’ said Riderhood, as arguing something that
+was [[Self|self]]-evident. ‘O’ course I know very [[Well|well]] as no man in his right
+senses would suppose as anythink would make me give it up agin when I’d
+once got it. But what do you want for it?’
 
-‘Just a morsel of money, sir.’
+‘I don’t know that I want anything for it. Or if I do want anything
+for it, I don’t know what it is.’ Bradley gave this answer in a stolid,
+vacant, and [[Self|self]]-communing manner, which Mr Riderhood found very
+extraordinary.
 
-‘Do you want to keep it?’
+‘You have no goodwill towards this Wrayburn,’ said Bradley, coming to
+the name in a reluctant and forced way, as if he were dragged to it.
 
-‘Sure I do!’
+‘No.’
 
-‘[[Well]], you know,’ said the Deputy Lock, shrugging his shoulders with his
-hands in his pockets, and shaking his head in a sulkily ominous manner,
-‘the parish authorities down town will have it out of you, if you go on,
-you may take your Alfred David.’
+‘Neither have I.’
 
-‘Then I’ll not go on.’
+Riderhood nodded, and asked: ‘Is it for that?’
 
-‘They’ll make you pay, as fur as your money will go,’ pursued the
-Deputy, ‘for your relief as a Casual and for your being passed to your
-Parish.’
+‘It’s as much for that as anything else. It’s something to be agreed
+with, on a subject that occupies so much of one’s thoughts.’
 
-‘Thank ye kindly, Master, for your warning, thank ye for your shelter,
-and good [[Night|night]].’
+‘It don’t agree with YOU,’ returned Mr Riderhood, bluntly. ‘No! It
+don’t, T’otherest Governor, and it’s no use a lookin’ as if you wanted
+to make out that it did. I tell you it rankles in you. It rankles in
+you, rusts in you, and pisons you.’
 
-‘Stop a bit,’ said the Deputy, striking in between her and the door.
-‘Why are you all of a shake, and what’s your hurry, Missis?’
+‘Say that it does so,’ returned Bradley with quivering lips; ‘is there
+no cause for it?’
 
-‘Oh, Master, Master,’ returned Betty Higden, ‘I’ve fought against the
-Parish and fled from it, all my life, and I want to die free of it!’
+‘Cause enough, I’ll bet a pound!’ cried Mr Riderhood.
 
-‘I don’t know,’ said the Deputy, with deliberation, ‘as I ought to let
-you go. I’m a honest man as gets my living by the sweat of my brow, and
-I may fall into trouble by letting you go. I’ve fell into trouble afore
-now, by George, and I know what it is, and it’s made me careful. You
-might be took with your deadness again, half a mile off—or half of half
-a quarter, for the matter of that—and then it would be asked, Why did
-that there honest Deputy Lock, let her go, instead of putting her safe
-with the Parish? That’s what a man of his character ought to have done,
-it would be argueyfied,’ said the Deputy Lock, cunningly harping on the
-strong string of her terror; ‘he ought to have handed her over safe to
-the Parish. That was to be expected of a man of his merits.’
+‘Haven’t you yourself declared that the fellow has heaped provocations,
+insults, and affronts on you, or something to that effect? He has done
+the same by me. He is made of venomous insults and affronts, from the
+[[Crown|crown]] of his head to the sole of his foot. Are you so hopeful or so
+stupid, as not to know that he and the other will treat your application
+with contempt, and light their cigars with it?’
 
-As he stood in the doorway, the poor old careworn wayworn woman burst
-into [[Tears|tears]], and clasped her hands, as if in a very agony she prayed to
-him.
+‘I shouldn’t [[Wonder|wonder]] if they did, by George!’ said Riderhood, turning
+angry.
 
-‘As I’ve told you, Master, I’ve the best of friends. This letter will
-show how true I spoke, and they will be thankful for me.’
+‘If they did! They will. Let me ask you a question. I know something
+more than your name about you; I knew something about Gaffer Hexam. When
+did you last set eyes upon his daughter?’
 
-The Deputy Lock opened the letter with a [[Grave|grave]] face, which underwent no
-change as he eyed its contents. But it might have done, if he could have
-read them.
+‘When did I last set eyes upon his daughter, T’otherest Governor?’
+repeated Mr Riderhood, growing intentionally slower of comprehension as
+the other quickened in his speech.
 
-‘What amount of small change, Missis,’ he said, with an abstracted air,
-after a little meditation, ‘might you call a morsel of money?’
+‘Yes. Not to speak to her. To see her—anywhere?’
 
-Hurriedly emptying her pocket, old Betty laid down on the table, a
-shilling, and two sixpenny pieces, and a few pence.
+The Rogue had got the clue he wanted, though he held it with a clumsy
+hand. Looking perplexedly at the passionate face, as if he were trying
+to work out a sum in his mind, he slowly answered:
 
-‘If I was to let you go instead of handing you over safe to the Parish,’
-said the Deputy, counting the money with his eyes, ‘might it be your own
-free wish to leave that there behind you?’
+‘I ain’t set eyes upon her—never once—not since the day of Gaffer’s
+[[Death|death]].’
 
-‘Take it, Master, take it, and welcome and thankful!’
+‘You know her [[Well|well]], by sight?’
 
-‘I’m a man,’ said the Deputy, giving her back the letter, and pocketing
-the coins, one by one, ‘as earns his living by the sweat of his brow;’
-here he drew his sleeve across his forehead, as if this particular
-portion of his humble gains were the result of sheer hard labour and
-virtuous industry; ‘and I won’t stand in your way. Go where you like.’
+‘I should think I did! No one better.’
 
-She was gone out of the Lock-[[house]] as soon as he gave her this
-permission, and her tottering steps were on the [[Road|road]] again. But, afraid
-to go back and afraid to go forward; seeing what she fled from, in the
-sky-glare of the lights of the little town before her, and leaving a
-confused horror of it everywhere behind her, as if she had escaped it
-in every stone of every market-place; she struck off by side ways, among
-which she got bewildered and lost. That [[Night|night]] she took refuge from the
-Samaritan in his latest accredited form, under a farmer’s rick; and
-if—worth thinking of, perhaps, my fellow-Christians—the Samaritan had
-in the lonely [[Night|night]], ‘passed by on the other side’, she would have most
-devoutly thanked High Heaven for her escape from him.
+‘And you know him as [[Well|well]]?’
 
-The morning found her afoot again, but fast declining as to the
-clearness of her thoughts, though not as to the steadiness of her
-purpose. Comprehending that her strength was quitting her, and that the
-struggle of her life was almost ended, she could neither reason out the
-means of getting back to her protectors, nor even form the idea. The
-overmastering dread, and the proud stubborn resolution it engendered
-in her to die undegraded, were the two distinct impressions left in her
-failing mind. Supported only by a sense that she was bent on conquering
-in her life-long fight, she went on.
+‘Who’s him?’ asked Riderhood, taking off his hat and rubbing his
+forehead, as he directed a dull look at his questioner.
 
-The [[Time|time]] was come, now, when the wants of this little life were passing
-away from her. She could not have swallowed food, though a table had
-been spread for her in the next field. The day was cold and wet, but
-she scarcely knew it. She crept on, poor [[Soul|soul]], like a criminal afraid of
-being taken, and felt little beyond the terror of falling down while it
-was yet daylight, and being found alive. She had no [[Fear|fear]] that she would
-live through another [[Night|night]].
+‘Curse the name! Is it so agreeable to you that you want to hear it
+again?’
 
-Sewn in the breast of her gown, the money to pay for her burial was
-still intact. If she could wear through the day, and then lie down to
-die under cover of the darkness, she would die independent. If she were
-captured previously, the money would be taken from her as a pauper who
-had no right to it, and she would be carried to the accursed workhouse.
-Gaining her end, the letter would be found in her breast, along with
-the money, and the gentlefolks would say when it was given back to them,
-‘She prized it, did old Betty Higden; she was true to it; and while she
-lived, she would never let it be disgraced by falling into the hands
-of those that she held in horror.’ Most illogical, inconsequential, and
-light-headed, this; but travellers in the valley of the [[Shadow|shadow]] of [[Death|death]]
-are apt to be light-headed; and worn-out old people of low estate have
-a trick of reasoning as indifferently as they live, and doubtless
-would appreciate our Poor Law more philosophically on an income of ten
-thousand a year.
+‘Oh! HIM!’ said Riderhood, who had craftily worked the schoolmaster into
+this corner, that he might again take note of his face under its evil
+possession. ‘I’d know HIM among a thousand.’
+
+‘Did you—’ Bradley tried to ask it quietly; but, do what he might
+with his voice, he could not subdue his face;—‘did you ever see them
+together?’
+
+(The Rogue had got the clue in both hands now.)
+
+‘I see ’em together, T’otherest Governor, on the very day when Gaffer
+was towed ashore.’
+
+Bradley could have hidden a reserved piece of information from the sharp
+eyes of a whole inquisitive class, but he could not veil from the eyes
+of the ignorant Riderhood the withheld question next in his breast.
+‘You shall put it plain if you want it answered,’ thought the Rogue,
+doggedly; ‘I ain’t a-going a wolunteering.’
+
+‘[[Well]]! was he insolent to her too?’ asked Bradley after a struggle. ‘Or
+did he make a show of being kind to her?’
+
+‘He made a show of being most uncommon kind to her,’ said Riderhood. ‘By
+George! now I—’
+
+His flying off at a tangent was indisputably natural. Bradley looked at
+him for the reason.
+
+‘Now I think of it,’ said Mr Riderhood, evasively, for he was
+substituting those words for ‘Now I see you so jealous,’ which was the
+phrase really in his mind; ‘P’r’aps he went and took me down wrong, a
+purpose, on account o’ being sweet upon her!’
+
+The baseness of confirming him in this suspicion or pretence of one (for
+he could not have really entertained it), was a line’s breadth beyond
+the mark the schoolmaster had reached. The baseness of communing and
+intriguing with the fellow who would have set that stain upon her, and
+upon her brother too, was attained. The line’s breadth further, lay
+beyond. He made no reply, but walked on with a lowering face.
+
+What he might gain by this acquaintance, he could not work out in his
+slow and cumbrous thoughts. The man had an injury against the object of
+his hatred, and that was something; though it was less than he supposed,
+for there dwelt in the man no such deadly rage and resentment as burned
+in his own breast. The man knew her, and might by a fortunate chance see
+her, or hear of her; that was something, as enlisting one pair of eyes
+and ears the more. The man was a bad man, and willing enough to be in
+his pay. That was something, for his own state and purpose were as
+bad as bad could be, and he seemed to derive a vague support from the
+possession of a congenial instrument, though it might never be used.

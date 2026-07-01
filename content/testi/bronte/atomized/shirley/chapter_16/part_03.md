@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 16 (part 3)"
+title: "Shirley — Chapter 16 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_16/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_16/part_04">part 04 ›</a></div>
 </nav>
 
+
+fold of her dress and every line of her figure. The rich silk suited her
+
+better than a simpler costume; the deep embroidered scarf became her.
+
+She wore it negligently but gracefully. The wreath on her bonnet
+
+crowned her [[Well|well]]. The attention to fashion, the tasteful appliance of
+
+ornament in each portion of her dress, were quite in place with her. All
+
+this suited her, like the frank light in her eyes, the rallying smile
 
 about her lips, like her shaft-straight carriage and lightsome step.
 
@@ -185,23 +197,3 @@ proved himself bad and a nuisance, [[Shirley]] was willing to think him good
 and an acquisition, and to treat him accordingly. This disposition made
 
 her a general favourite, for it robbed her very raillery of its sting,
-
-and gave her serious or smiling conversation a happy charm; nor did it
-
-diminish the value of her intimate [[Friendship|friendship]], which was a distinct
-
-thing from this social benevolence--depending, indeed, on quite a
-
-different part of her character. Miss Helstone was the choice of her
-
-affection and intellect; the Misses Pearson, Sykes, Wynne, etc., etc.,
-
-only the profiteers by her good-[[Nature|nature]] and vivacity.
-
-
-
-Donne happened to come into the drawing-room while [[Shirley]], sitting on
-
-the sofa, formed the centre of a tolerably wide circle. She had already
-
-forgotten her exasperation against him, and she bowed and smiled

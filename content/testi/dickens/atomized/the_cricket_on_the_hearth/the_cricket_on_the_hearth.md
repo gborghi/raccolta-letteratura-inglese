@@ -47,7 +47,7 @@ regarding such a book as this? It seems to me a national benefit, and to
 every man or woman who reads it, a personal kindness."
 
 This volume was put forth in a very attractive manner, with
-illustrations by John Leech, who was the first [[artist]] to make these
+illustrations by John Leech, who was the first [[Artist|artist]] to make these
 characters live, and his drawings were varied and spirited.
 
 There followed upon this four others: "The Chimes," "The Cricket on the

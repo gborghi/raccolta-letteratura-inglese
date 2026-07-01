@@ -1,5 +1,5 @@
 ---
-title: "The Merchant of [[Venice]] — Act II, Scene 2 — exchange (LANCELOT) [4]"
+title: "The Merchant of Venice — Act II, Scene 2 — exchange (LANCELOT) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-merchant-of-venice-(shakespeare)"

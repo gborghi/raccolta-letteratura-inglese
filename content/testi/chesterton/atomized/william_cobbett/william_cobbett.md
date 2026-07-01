@@ -660,7 +660,7 @@ of the eighteenth century.  The secular ideals of humanity
 fossilise very fast, and nothing but religion ever remains.
 Stoicism is stratified amid layers of lost moral fashions;
 but it was a fine thing in its day, when it stiffened with
-heathen virtues the Revolutionists of France and [[america|America]].
+heathen virtues the Revolutionists of France and [[America]].
 Our luxurious and orientalised fashions and fictions have a great deal
 to learn from the Roman virtues advocated in Sandford and Merton.
 That is why they certainly will not learn it.  It must be
@@ -786,7 +786,7 @@ through some of the most thrilling days of the [[French Revolution]].
 Yet it is typical of him that he took with immense seriousness
 to the subject of French grammar, as a pendant to his devouring hobby
 of English grammar.  When he set sail again from France it was not
-for England but for [[america|America]], where he and his wife remained in [[Exile|exile]]
+for England but for [[America]], where he and his wife remained in [[Exile|exile]]
 for seven years.  Their travels were not without their tragedies;
 for his first [[Child|child]] died and his second was still-born, and it
 was not until he was more finally established that a living [[Child|child]]
@@ -931,7 +931,7 @@ might have carried the title:  An Englishman Looks at England.
 
 The first fact about this first phase is that the patriotism
 of Cobbett was the passionate patriotism of the [[Exile|exile]].
-He went to [[america|America]] while he was still quite young; so that even
+He went to [[America]] while he was still quite young; so that even
 his memories of England were almost memories of [[Childhood|childhood]].
 They had not only the glamour of distance, but the glamour of
 which Wordsworth wrote, the glory and the freshness of [[A Dream|a dream]].
@@ -943,7 +943,7 @@ islands to the modern Atlantis are at one in having that homing
 [[Imagination|imagination]] that wings its way backward into the sunrise.
 Greatly as they have disagreed among themselves, they all agree
 in that.  Perhaps the one rallying point for all Britons
-is that their [[songs]] in [[america|America]] have been [[songs]] of [[Exile|exile]].
+is that their [[songs]] in [[America]] have been [[songs]] of [[Exile|exile]].
 The most familiar of them represents the Irishman with his bundle
 bound for Philadelphia, or the Englishman whistling `Falmouth
 is a fine town' as he walks down the street of Baltimore,
@@ -1786,20 +1786,20 @@ protests that were much needed.  Nobody else could have done justice
 to an even more absurd plot called `the Derbyshire Insurrection,'
 which was entirely created by an agent provocateur named [[Oliver]].
 It is typical of the wrangles that go on among reformers that if
-some of the other Radicals blamed Cobbett for escaping to [[america|America]],
+some of the other Radicals blamed Cobbett for escaping to [[America]],
 he was even more withering about them for playing the coward in England.
 He denounced them for doing nothing to save the wretched men
 who suffered from this hideous plot to manufacture a plot.
 It was on this occasion that Cobbett quarrelled with Burdett, as he
 afterwards quarrelled with Hunt, and indeed with nearly everybody else.
-Before leaving for [[america|America]], indeed, he had had quarrels of less
+Before leaving for [[America]], indeed, he had had quarrels of less
 public but more personal importance with his own agents.
 As already noted, his own economic position was not promising;
 and this probably contributed to his deciding on a second American visit.
-In any case, he reached [[america|America]] in the May of 1817, and soon
+In any case, he reached [[America]] in the May of 1817, and soon
 established himself on a farm in Long Island.
 
-Cobbett's second visit to [[america|America]] is associated with an action
+Cobbett's second visit to [[America]] is associated with an action
 which all the authorities have censured as ridiculous,
 and which I think has been ridiculously censured.
 I do not mean that there was nothing to criticise, but only
@@ -3196,7 +3196,7 @@ in the red waistcoat that he wore so appropriately, like a
 defiance to a whole herd of bulls.  We can watch him peering
 over fences and hedges in his eager and shameless [[Vanity|vanity]],
 enquiring everywhere about Cobbett's Corn (the name he modestly
-gave to the maize he brought from [[america|America]]), and sternly admonishing
+gave to the maize he brought from [[America]]), and sternly admonishing
 those who were unconscious of their good luck in possessing it.
 We can behold him as he curses [[London]] from the hills;
 he always called it the Wen.  But here again his [[Humour|humour]] is
@@ -4361,7 +4361,7 @@ the influence of the man I have been studying and trying to understand;
 who has been called egotistical, though I should be content to call
 him autobiographical.  As Mr. Cole pointed out in his admirable [[Biography|biography]],
 Cobbett treated his ego as an emblematic figure of England, as Whitman
-did his of [[america|America]].  My own memories can have no such symbolic excuse;
+did his of [[America]].  My own memories can have no such symbolic excuse;
 but I passed much of my [[Childhood|childhood]] along that main thoroughfare
 where Cobbett had his seed farm at Kensington; and one of the last
 things my own fattier told me was a tale of a strange object hanging

@@ -1,5 +1,5 @@
 ---
-title: "[[manalive]] — Chapter 3 (part 3)"
+title: "manalive — Chapter 3 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/manalive-(chesterton)"
@@ -17,7 +17,6 @@ tags:
 "The next document in our dossier," continued Inglewood,
 "comes from the town of Crazok, in the central plains of [[Russia]],
 and runs as follows:--
-
 
 "Sir,--My name is Paul Nickolaiovitch:  I am the stationmaster
 at the station near Crazok.  The great trains go by across

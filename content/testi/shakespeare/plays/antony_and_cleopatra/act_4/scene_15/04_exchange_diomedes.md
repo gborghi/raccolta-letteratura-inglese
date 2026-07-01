@@ -1,5 +1,5 @@
 ---
-title: "Antony and [[Cleopatra]] — Act IV, Scene 15 — exchange (DIOMEDES) [4]"
+title: "Antony and Cleopatra — Act IV, Scene 15 — exchange (DIOMEDES) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/antony-and-cleopatra-(shakespeare)"

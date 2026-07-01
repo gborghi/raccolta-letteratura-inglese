@@ -14,6 +14,37 @@ tags:
 </nav>
 
 
+The drearier kind of don may come to me and say, "Celts are unsuccessful;
+look at Irishmen, for instance."  To which I should reply,
+"You may know all about Celts; but it is obvious that you know
+nothing about Irishmen.  The Irish are not in the least unsuccessful,
+unless it is unsuccessful to wander from their own country over a great
+part of the earth, in which case the English are unsuccessful too."
+A man with a bumpy head may say to me (as a kind of New Year
+greeting), "Fools have microcephalous skulls," or what not.
+To which I shall reply, "In order to be certain of that, you must
+be a good judge both of the physical and of the mental fact.
+It is not enough that you should know a microcephalous skull
+when you see it.  It is also necessary that you should know a [[Fool|fool]]
+when you see him; and I have a suspicion that you do not know
+a [[Fool|fool]] when you see him, even after the most lifelong and intimate
+of all forms of acquaintanceship."
+
+The trouble with most sociologists, criminologists, etc., is that
+while their knowledge of their own details is exhaustive and subtle,
+their knowledge of man and society, to which these are to
+be applied, is quite exceptionally superficial and silly.
+They know everything about biology, but almost nothing about life.
+Their ideas of [[history]], for instance, are simply cheap and uneducated.
+Thus some famous and foolish professor measured the skull of
+Charlotte Corday to ascertain the criminal type; he had not historical
+knowledge enough to know that if there is any "criminal type,"
+certainly Charlotte Corday had not got it.  The skull, I believe,
+afterwards turned out not to be Charlotte Corday's at all;
+but that is another story.  The point is that the poor old man
+was trying to match Charlotte Corday's mind with her skull without
+knowing anything whatever about her mind.
+
 But I came yesterday upon a yet more crude and startling example.
 
 In a popular magazine there is one of the usual articles
@@ -94,33 +125,3 @@ games upon this ancient [[Battlefield|battlefield]]; we can pull up the bones
 and skulls of the tyrants and martyrs of that unimaginable war;
 and we can chatter to each other childishly and innocently about
 skulls that are imbecile and heads that are criminal.
-
-I do not know whose heads are criminal, but I think I know
-whose are imbecile.
-
--/-
-
-The Wrath of the Roses
-
-THE position of the [[Rose|rose]] among [[Flowers|flowers]] is like that of the dog
-among [[Animals|animals]].  It is not so much that both are domesticated as
-that we have some dim feeling that they were always domesticated.
-There are wild roses and there are wild [[dogs]].  I do not know the
-wild [[dogs]]; wild roses are very nice.  But nobody ever thinks of either
-of them if the name is abruptly mentioned in a gossip or a poem.
-On the other hand, there are tame tigers and tame cobras, but if one says,
-"I have a cobra in my pocket," or "There is a tiger in the music-room,"
-the adjective "tame" has to be somewhat hastily added.
-If one speaks of beasts one thinks first of wild beasts;
-if of [[Flowers|flowers]] one thinks first of wild [[Flowers|flowers]].
-
-But there are two great exceptions; caught so completely into the [[Wheel|wheel]]
-of man's civilisation, entangled so unalterably with his ancient
-emotions and images, that the artificial product seems more natural
-than the natural.  The dog is not a part of natural [[history]],
-but of human [[history]]; and the real [[Rose|rose]] grows in a [[Garden|garden]].
-All must regard the elephant as something tremendous, but tamed;
-and many, especially in our great cultured centres, regard every
-bull as presumably a mad bull.  In the same way we think of most
-[[Garden|garden]] trees and plants as fierce creatures of the forest or morass
-taught at last to endure the curb.

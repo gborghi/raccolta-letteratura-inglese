@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]] — Slum Novelists and the Slums (part 2)"
+title: "heret12 — Slum Novelists and the Slums (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/heret12-(chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-But the thing which is really required for the proper working of [[Democracy|democracy]]
+But the thing which is really required for the proper working of [[democracy]]
 is not merely the democratic system, or even the democratic [[philosophy]],
 but the democratic emotion.  The democratic emotion, like most elementary
 and indispensable things, is a thing difficult to describe at any [[Time|time]].
@@ -105,17 +105,3 @@ proved by the torrent of novels about the poor and serious
 studies of the poor which pour from our publishers every month.
 And the more "modern" the book is the more certain it is to be
 devoid of democratic sentiment.
-
-A poor man is a man who has not got much money.  This may seem
-a simple and unnecessary description, but in the face of a great
-mass of modern fact and fiction, it seems very necessary indeed;
-most of our realists and sociologists talk about a poor man as if
-he were an octopus or an alligator.  There is no more need to study
-the psychology of [[Poverty|poverty]] than to study the psychology of bad temper,
-or the psychology of [[Vanity|vanity]], or the psychology of animal spirits.
-A man ought to know something of the emotions of an insulted man,
-not by being insulted, but simply by being a man.  And he ought to know
-something of the emotions of a poor man, not by being poor, but simply
-by being a man.  Therefore, in any writer who is describing [[Poverty|poverty]],
-my first objection to him will be that he has studied his subject.
-A democrat would have imagined it.

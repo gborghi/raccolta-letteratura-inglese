@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 16: SIXTEEN (part 1)"
+title: "Martin Chuzzlewit — Chapter 16: SIXTEEN (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -121,5 +121,3 @@ that I have not been ashore.’
 He pointed to the vessels lying at the wharves; and then gave a vague
 flourish with his stick, as if he would include the air and [[Water|water]],
 generally, in this remark.
-
-‘Really,’ said Martin, ‘I don’t know. Yes. I think I was.’

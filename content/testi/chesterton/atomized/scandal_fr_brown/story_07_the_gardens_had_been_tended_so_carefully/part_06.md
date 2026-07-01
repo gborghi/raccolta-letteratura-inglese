@@ -14,6 +14,22 @@ tags:
 </nav>
 
 
+[[Father Brown]] laughed in a rather shamefaced manner.
+
+'As to the last point,' he said, 'I suppose I owe you all an apology. I
+seem to be always making a mess of things with my silly little jokes.'
+
+'Jokes!' repeated the Master, staring rather indignantly.
+
+'[[Well]],' explained the priest, rubbing his head. 'When I talked about a
+Communist habit spreading, I only meant a habit I happen to have noticed
+about two or three times even today. It is a Communist habit by no means
+confined to Communists. It is the extraordinary habit of so many men,
+especially Englishmen, of putting other people's matchboxes in their
+pockets without remembering to return them. Of course, it seems an
+awfully silly little trifle to talk about. But it does happen to be the
+way the crime was committed.'
+
 'It sounds to me quite crazy,' said the doctor.
 
 '[[Well]], if almost any man may forget to return matches, you can bet your

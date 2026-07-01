@@ -1,5 +1,5 @@
 ---
-title: "[[Pride and Prejudice]] — Chapter 59 (part 2)"
+title: "Pride and Prejudice — Chapter 59 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/pride-and-prejudice-(austen)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/pride_and_prejudice/chapter_59/part_01">‹ part 01</a><span></span></div>
 </nav>
 
+
+During their walk, it was resolved that Mr. Bennet’s consent should be
+asked in the course of the evening: Elizabeth reserved to herself the
+application for her mother’s. She could not determine how her mother
+would take it; sometimes doubting whether all his wealth and grandeur
+would be enough to overcome her abhorrence of the man; but whether she
+were violently set against the match, or violently delighted with it, it
+was certain that her manner would be equally ill adapted to do credit to
+her sense; and she could no more bear that Mr. Darcy should hear the
+first raptures of her joy, than the first vehemence of her
+disapprobation.
 
 In the evening, soon after Mr. Bennet withdrew to the library, she saw
 Mr. Darcy rise also and follow him, and her agitation on seeing it was

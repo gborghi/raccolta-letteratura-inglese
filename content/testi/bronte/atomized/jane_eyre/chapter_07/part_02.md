@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 7 (part 2)"
+title: "Jane Eyre — Chapter 7 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_07/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_07/part_03">part 03 ›</a></div>
 </nav>
 
+
+He stood at Miss Temple’s side; he was speaking low in her ear: I did
+not [[Doubt|doubt]] he was making disclosures of my villainy; and I watched her
+eye with painful anxiety, expecting every moment to see its dark orb
+turn on me a glance of repugnance and contempt. I listened too; and as
+I happened to be seated quite at the top of the room, I caught most of
+what he said: its import relieved me from immediate apprehension.
 
 “I suppose, Miss Temple, the thread I bought at Lowton will do; it
 struck me that it would be just of the quality for the calico chemises,
@@ -119,18 +126,3 @@ grimaces with which they commented on this manoeuvre: it was a pity Mr.
 Brocklehurst could not see them too; he would perhaps have felt that,
 whatever he might do with the outside of the cup and platter, the
 inside was further beyond his interference than he imagined.
-
-He scrutinised the reverse of these living medals some five minutes,
-then pronounced sentence. These words fell like the knell of doom—
-
-“All those top-knots must be cut off.”
-
-Miss Temple seemed to remonstrate.
-
-“Madam,” he pursued, “I have a Master to serve whose kingdom is not of
-this world: my mission is to mortify in these girls the lusts of the
-flesh; to teach them to clothe themselves with shame-facedness and
-sobriety, not with braided hair and costly apparel; and each of the
-young persons before us has a string of hair twisted in plaits which
-[[Vanity|vanity]] itself might have woven; these, I repeat, must be cut off; think
-of the [[Time|time]] wasted, of—”

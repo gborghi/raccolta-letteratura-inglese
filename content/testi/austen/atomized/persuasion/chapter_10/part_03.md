@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 10 (part 3)"
+title: "Persuasion — Chapter 10 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_10/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_10/part_04">part 04 ›</a></div>
 </nav>
 
+
+too, when it comes to things of consequence, when they are placed in
+
+circumstances requiring fortitude and strength of mind, if she have not
+
+resolution enough to resist idle interference in such a trifle as this.
+
+Your sister is an amiable creature; but _yours_ is the character of
+
+decision and firmness, I see. If you value her conduct or happiness,
 
 infuse as much of your own spirit into her as you can. But this, no
 
@@ -203,21 +213,3 @@ hearing how long a walk the young people had engaged in, they kindly
 offered a seat to any lady who might be particularly tired; it would
 
 save her a full mile, and they were going through Uppercross. The
-
-invitation was general, and generally declined. The Miss Musgroves were
-
-not at all tired, and Mary was either offended, by not being asked
-
-before any of the others, or what Louisa called the Elliot [[Pride|pride]] could
-
-not endure to make a third in a one [[Horse|horse]] chaise.
-
-
-
-The walking party had crossed the lane, and were surmounting an
-
-opposite stile, and the Admiral was putting his [[Horse|horse]] in motion again,
-
-when [[Captain Wentworth]] cleared the hedge in a moment to say something
-
-to his sister. The something might be guessed by its effects.

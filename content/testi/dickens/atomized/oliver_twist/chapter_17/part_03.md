@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 17 (part 3)"
+title: "Oliver Twist — Chapter 17 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_17/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_18/part_01">part 01 ›</a></div>
 </nav>
 
+
+The very first paragraph upon which Mr. Bumble’s eye rested, was the
+following advertisement.
+
+“FIVE GUINEAS REWARD
+
+
+“Whereas a young boy, named [[Oliver Twist]], absconded, or was enticed, on
+[[thursday|Thursday]] evening last, from his [[Home|home]], at Pentonville; and has not since
+been heard of. The above reward will be paid to any person who will
+give such information as will lead to the discovery of the said [[Oliver]]
+Twist, or tend to throw any light upon his previous [[history]], in which
+the advertiser is, for many reasons, warmly interested.”
 
 And then followed a full description of [[Oliver]]’s dress, person,
 appearance, and disappearance: with the name and address of Mr.

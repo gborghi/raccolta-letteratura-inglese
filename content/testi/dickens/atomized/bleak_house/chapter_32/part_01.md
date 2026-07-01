@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 32 (part 1)"
+title: "Bleak House — Chapter 32 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -117,15 +117,3 @@ very freshening,” Weevle answers, glancing up and down the [[Court|court]].
 sniff and taste the air a little, “don’t you observe, Mr. Weevle,
 that you’re—not to put too fine a point upon it—that you’re rather
 greasy here, sir?”
-
-“Why, I have noticed myself that there is a queer kind of flavour in
-the place to-[[Night|night]],” Mr. Weevle rejoins. “I suppose it’s chops at the
-Sol’s Arms.”
-
-“Chops, do you think? Oh! Chops, eh?” Mr. Snagsby sniffs and tastes
-again. “[[Well]], sir, I suppose it is. But I should say their cook at
-the Sol wanted a little looking after. She has been burning ’em, sir!
-And I don’t think”—Mr. Snagsby sniffs and tastes again and then
-spits and wipes his mouth—“I don’t think—not to put too fine a
-point upon it—that they were quite fresh when they were shown the
-gridiron.”

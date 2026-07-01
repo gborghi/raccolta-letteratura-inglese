@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 39 (part 5)"
+title: "Bleak House — Chapter 39 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -121,12 +121,3 @@ allow us to go upstairs.”
 
 “Anywhere, my dear sir, anywhere! You’re at [[Home|home]]. Make yourself so,
 pray!”
-
-As they go upstairs, Mr. Guppy lifts his eyebrows inquiringly and
-looks at Tony. Tony shakes his head. They find the old room very dull
-and dismal, with the ashes of the [[Fire|fire]] that was burning on that
-memorable [[Night|night]] yet in the discoloured grate. They have a great
-disinclination to touch any object, and carefully blow the [[Dust|dust]] from
-it first. Nor are they desirous to prolong their visit, packing the
-few movables with all possible [[Speed|speed]] and never speaking above a
-whisper.

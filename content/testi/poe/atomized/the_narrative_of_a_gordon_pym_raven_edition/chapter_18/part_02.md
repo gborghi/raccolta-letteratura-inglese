@@ -14,6 +14,10 @@ tags:
 </nav>
 
 
+      over every part of the deck, and scramble about among the
+
+      rigging, making themselves much at [[Home|home]], and examining every
+
       article with great inquisitiveness.
 
 
@@ -185,11 +189,3 @@ tags:
       three fine springs (we were told) of good [[Water|water]], and we saw
 
       abundance of wood in the vicinity. The four canoes followed us
-
-      in, keeping, however, at a respectful distance. Too-wit himself
-
-      remained on board, and, upon our dropping anchor, invited us to
-
-      accompany him on shore, and visit his village in the interior. To
-
-      this Captain Guy consented; and ten savages being left on board

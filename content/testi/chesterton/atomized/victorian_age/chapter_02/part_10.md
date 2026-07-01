@@ -14,6 +14,60 @@ tags:
 </nav>
 
 
+that Meredith would really be rather sorry if woman were civilised by
+
+man--or by anything else. When we have got that, we have got the real
+
+Pagan--the man that does believe in Pan.
+
+It is proper to put this philosophic matter first, before the æsthetic
+
+appreciation of Meredith, because with Meredith a sort of passing bell
+
+has rung and the Victorian orthodoxy is certainly no longer safe.
+
+Dickens and Carlyle, as we have said, rebelled against the orthodox
+
+compromise: but Meredith has escaped from it. Cosmopolitanism,
+
+Socialism, Feminism are already in the air; and [[Queen]] Victoria has
+
+begun to look like Mrs. Grundy. But to escape from a [[City|city]] is one thing:
+
+to choose a [[Road|road]] is another. The free-thinker who found himself outside
+
+the Victorian [[City|city]], found himself also in the fork of two very different
+
+naturalistic paths. One of them went upwards through a tangled but
+
+living forest to lonely but healthy hills: the other went down to a
+
+swamp. Hardy went down to botanise in the swamp, while Meredith climbed
+
+towards the sun. Meredith became, at his best, a sort of daintily
+
+dressed Walt Whitman: Hardy became a sort of village atheist brooding
+
+and blaspheming over the village idiot. It is largely because the
+
+free-thinkers, as a school, have hardly made up their minds whether they
+
+want to be more optimist or more pessimist than [[Christianity]] that their
+
+small but sincere movement has failed.
+
+For the duel is deadly; and any agnostic who wishes to be anything more
+
+than a Nihilist must sympathise with one version of [[Nature|nature]] or the
+
+other. The God of Meredith is impersonal; but he is often more healthy
+
+and kindly than any of the persons. That of Thomas Hardy is almost made
+
+personal by the intense feeling that he is poisonous. [[Nature]] is always
+
+coming in to save Meredith's women; [[Nature]] is always coming in to betray
+
 and ruin Hardy's. It has been said that if God had not existed it would
 
 have been necessary to invent Him. But it is not often, as in Mr.
@@ -52,8 +106,6 @@ it is a cruel practical joke. But it is a practical joke at which even
 
 its author cannot brighten up enough to laugh.
 
-
-
 But it is when we consider the great artistic power of these two
 
 writers, with all their eccentricities, that we see even more clearly
@@ -86,13 +138,9 @@ he actually says of those who live nearest to that [[Nature]] he was always
 
 praising--
 
-
-
     "Have they but held her laws and [[Nature|nature]] dear,
 
     They mouth no sentence of inverted wit";
-
-
 
 which certainly was what Meredith himself was doing most of the [[Time|time]].
 
@@ -109,8 +157,6 @@ entangled in its own branches; or it may be that the cheerful mind cares
 less whether it is understood or not; as a man is less articulate when
 
 he is humming than when he is calling for help.
-
-
 
 Certainly Meredith suffers from applying a complex method to men and
 
@@ -137,63 +183,3 @@ complacency of John Bull. He also had a sincere [[Hope|hope]] in the strength of
 womanhood, and may be said, almost without hyperbole, to have begotten
 
 gigantic daughters. He may yet suffer for his chivalric interference as
-
-many champions do. I have little [[Doubt|doubt]] that when St. George had killed
-
-the dragon he was heartily afraid of the princess. But certainly neither
-
-of these two vital enthusiasms touched the Victorian trouble. The
-
-disaster of the modern English is not that they are not Celtic, but that
-
-they are not English. The [[Tragedy|tragedy]] of the modern woman is not that she is
-
-not allowed to follow man, but that she follows him far too slavishly.
-
-This conscious and theorising Meredith did not get very near his problem
-
-and is certainly miles away from ours. But the other Meredith was a
-
-creator; which means a god. That is true of him which is true of so
-
-different a man as Dickens, that all one can say of him is that he is
-
-full of good things. A reader opening one of his books feels like a
-
-schoolboy opening a hamper which he knows to have somehow cost a hundred
-
-pounds. He may be more bewildered by it than by an ordinary hamper; but
-
-he gets the impression of a real richness of thought; and that is what
-
-one really gets from such riots of felicity as _Evan Harrington_ or
-
-_Harry Richmond_. His [[philosophy]] may be barren, but he was not. And the
-
-chief feeling among those that enjoy him is a mere wish that more people
-
-could enjoy him too.
-
-
-
-I end here upon Hardy and Meredith; because this parting of the ways to
-
-open optimism and open pessimism really was the end of the Victorian
-
-peace. There are many other men, very nearly as great, on whom I might
-
-delight to linger: on Shorthouse, for instance, who in one way goes with
-
-Mrs. Browning or Coventry Patmore. I mean that he has a wide culture,
-
-which is called by some a narrow religion. When we think what even the
-
-best novels about cavaliers have been (written by men like Scott or
-
-Stevenson) it is a wonderful thing that the author of _John Inglesant_
-
-could write a cavalier [[Romance|romance]] in which he forgot Cromwell but
-
-remembered Hobbes. But Shorthouse is outside the period in fiction in
-
-the same sort of way in which Francis Thompson is outside it in poetry.

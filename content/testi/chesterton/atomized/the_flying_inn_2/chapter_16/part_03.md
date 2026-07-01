@@ -162,8 +162,3 @@ at all."
 
 "Getting back," repeated Dalroy, opening the blue
 eyes of a bull.  "Back where?"
-
-"[[Well]], yer see," said the chauffeur, reasonably, "I
-was bloody keen to show 'im it was me drove the car
-and not 'im.  By a bit o' bad luck, I done damage to
-'is car.  [[Well]]--if _you_ can stick in 'is car--"

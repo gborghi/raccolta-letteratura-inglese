@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 41 (part 3)"
+title: "The Tenant of Wildfell Hall — Chapter 41 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_41/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_43/part_01">part 01 ›</a></div>
 </nav>
 
+
+myself to the thoughts of [[Marriage|marriage]] under any circumstances: but by next
+
+season, she has no [[Doubt|doubt]], I shall have more sense, and hopes my girlish
+
+fancies will be worn away. So she has brought me [[Home|home]], to school me
+
+into a proper sense of my duty, against the [[Time|time]] comes round again.
+
+Indeed, I believe she will not put herself to the expense of taking me
 
 up to [[London]] again, unless I surrender: she cannot afford to take me to
 

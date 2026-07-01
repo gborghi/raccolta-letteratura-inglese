@@ -14,6 +14,86 @@ tags:
 </nav>
 
 
+"His sins they were forgiven him; or why do [[Flowers|flowers]] run
+ Behind him; and the hedges all strengthening in the sun?
+ The wild thing went from left to right and knew not
+    which was which,
+ But the wild [[Rose|rose]] was above him when they found him
+    in the ditch.
+ God pardon us, nor harden us; we did not see so clear
+ The [[Night|night]] we went to Bannockburn by way of Brighton
+    Pier.
+
+"My friends, we will not go again or ape an ancient rage,
+ Or stretch the folly of our youth to be the shame of age,
+ But walk with clearer eyes and ears this path that
+    wandereth,
+ And see undrugged in evening light the decent inn of [[Death|death]];
+ For there is good news yet to hear and fine things to be
+    seen
+ Before we go to Paradise by way of Kensal Green."
+
+"Have you written one, Hump?" asked Dalroy.
+Humphrey, who had been scribbling hard under the
+lamp, looked up with a dismal face.
+
+"Yes," he said.  "But I write under a great disadvantage.
+You see, I know why the [[Road|road]] curves about."
+And he read very rapidly, all on one note:
+
+    "The [[Road|road]] turned first toward the left
+     Where Pinker's quarry made the cleft;
+     The path turned next toward the right
+     Because the mastiff used to bite;
+     Then left, because of Slippery Height,
+     And then again toward the right.
+     We could not take the left because
+     It would have been against the laws;
+     Squire closed it in [[King]] William's day
+     Because it was a Right of Way.
+     Still right; to dodge the ridge of [[chalk]]
+     Where Parson's [[Ghost]] it used to walk,
+     Till someone Parson used to know
+     Met him blind drunk in Callao.
+     Then left, a long way round, to skirt
+     The good land where old Doggy Burt
+     Was owner of the [[Crown]] and Cup,
+     And would not give his freehold up;
+     Right, missing the old [[River|river]]-bed,
+     They tried to make him take instead
+     Right, since they say Sir Gregory
+     Went mad and let the Gypsies be,
+     And so they have their camp secure.
+     And, though not honest, they are poor,
+     And that is something; then along
+     And first to right--no, I am wrong!
+     Second to right, of course; the first
+     Is what the holy sisters cursed,
+     And none defy their awful oaths
+     Since the policeman lost his clothes
+     Because of fairies; right again,
+     What used to be High Toby Lane,
+     Left by the [[Double|double]] larch and right
+     Until the milestone is in sight,
+     Because the [[Road|road]] is firm and good
+     From past the milestone to the wood;
+     And I was told by Dr. Lowe
+     Whom Mr. Wimpole's aunt would know,
+     Who lives at [[Oxford]] writing books,
+     And ain't so silly as he looks;
+     The Romans did that little bit
+     And we've done all the rest of it;
+     By which we hardly seem to score;
+     Left, and then forward as before
+     To where they nearly hanged Miss Browne,
+     Who told them not to cut her down,
+     But loose the rope or let her swing,
+     Because it was a waste of string;
+     Left once again by Hunker's Cleft,
+     And right beyond the elm, and left,
+     By Pill's right by Nineteen Nicks
+     And left--"
+
 "No!  No!  No'!  Hump!  Hump!  Hump!" cried
 Dalroy in a sort of terror.  "Don't be exhaustive!
 Don't be a scientist, Hump, and lay waste fairyland!

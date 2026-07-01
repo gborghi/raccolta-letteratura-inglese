@@ -14,6 +14,46 @@ tags:
 </nav>
 
 
+Now that is the sort of trick that has been tried in the case of
+comparative religion and the world's religious founders all standing
+respectably in a row.  It seeks to classify Jesus as the other
+would classify Jews, by inventing a new class for the purpose and
+filling up the rest of it with stop-gaps and second-rate copies.
+I do not mean that these other things are not often great things
+in their own real character and class.  Confucianism and Buddhism
+are great things, but it is not true to call them Churches;
+just as the French and English are great peoples, but it is
+nonsense to call them nomads.  There are some points of resemblance
+between Christendom and its [[Imitation|imitation]] in [[Islam]]; for that matter
+there are some points of resemblance between Jews and Gypsies.
+But after that the lists are made up of anything that comes to hand;
+of anything that can be put in the same catalogue without being
+in the same category.
+
+In this [[Sketch|sketch]] of religious [[history]], with all decent deference to men
+much more learned than myself, I propose to cut across and disregard
+this modern method of classification, which I feel sure has falsified
+the facts of [[history]].  I shall here submit an alternative classification
+of religion or religions, which I believe would be found to cover
+all the facts and, what is quite as important here, all the fancies.
+Instead of dividing religion geographically and as it were vertically,
+into Christian, Moslem, Brahmin, Buddhist, and so on, I would
+divide it psychologically and in some sense horizontally;
+into the strata of spiritual elements and influences that could
+sometimes exist in the same country, or even in the same man.
+Putting the Church apart for the moment, I should be disposed
+to divide the natural religion of the mass of mankind under such
+headings as these:  God; the Gods; the Demons; the Philosophers.
+I believe some such classification will help us to sort out
+the spiritual experiences of men much more successfully than the
+conventional business of comparing religions; and that many famous
+figures will naturally fall into their place in this way who are
+only forced into their place in the other.  As I shall make use
+of these titles or terms more than once in narrative and allusion,
+it will be [[Well|well]] to define at this stage for what I mean them to stand.
+And I will begin with the first, the simplest and the most [[Sublime|sublime]],
+in this chapter.
+
 In considering the elements of pagan humanity, we must begin
 by an attempt to describe the indescribable.  Many get over
 the difficulty of describing it by the expedient of denying it,
@@ -80,45 +120,3 @@ the priest whispers the final [[Secrets|secrets]], known only to the initiate:
 that honesty is the best policy, that a little kindness does nobody
 any harm, that all men are brothers and that there is but one God,
 the Father Almighty, maker of all things visible and invisible.
-
-In other words, we have here the curiosity of religious [[history]] that the
-savage seems to be parading all the most repulsive and impossible parts
-of his belief and concealing all the most sensible and creditable parts.
-But the explanation is that they are not in that sense parts
-of his belief, or at least not parts of the same sort of belief.
-The myths are merely tall stories, though as tall as the sky,
-the [[Water|water]] spout, or the tropic rain.  The mysteries are true stories,
-and are taken secretly that they may be taken seriously.
-Indeed it is only too easy to forget that there is a thrill in theism.
-A [[Novel|novel]] in which a number of separate characters all turned out
-to be the same character would certainly be a sensational [[Novel|novel]].
-It is so with the idea that sun and tree and [[River|river]] are the disguises
-of one god and not of many.  Alas, we also find it only too easy
-to take Atahocan for granted.  But whether he is allowed to fade into
-a truism or preserved as a sensation by being preserved as a secret,
-it is clear that he is always either an old truism or an old tradition.
-There is nothing to show that he is an improved product of the mere
-mythology and everything to show that he preceded it.  He is worshipped
-by the simplest tribes with no trace of [[Ghosts|ghosts]] or [[Grave|grave]]-offerings,
-or any of the complications in which Herbert Spencer and Grant Allen
-sought the origin of the simplest of all ideas.  Whatever else there was,
-there was never as such thing as the Evolution of the Idea of God.
-The idea was concealed, was avoided, was almost forgotten,
-was even explained away; but it was never evolved.
-
-There are not a few indications of this change in other places.
-It is implied, for instance, in the fact that even polytheism seems
-often the combination of several monotheisms.  A god will gain
-only a minor seat on Mount Olympus, when he had owned earth and
-heaven and all the [[Stars|stars]] while he lived in his own little valley.
-Like many a small nation melting in a great empire, he gives up
-local universality only to come under universal limitation.
-The very name of Pan suggests that he became a god of the wood when
-he had been a god of the world.  The very name of Jupiter is almost
-a pagan [[Translation|translation]] of the words 'Our Father which art in heaven.'
-As with the Great Father symbolised by the sky, so with the
-[[Great Mother]] whom we still call Mother Earth.  Demeter and Ceres
-and Cybele often seem to be almost capable of taking over the whole
-business of godhood, so that men should need no other gods.
-It seems reasonably probable that a good many men did have no other
-gods but one of these, worshipped as the author of all.

@@ -1,0 +1,545 @@
+---
+title: "Dombey and Son — Chapter 24"
+author: "Dickens"
+unitType: chapter
+parentWork: "works/dombey-and-son-(dickens)"
+tags:
+  - graph/excerpt
+  - author/Dickens
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Dickens · <a href="/works/dombey-and-son-(dickens)">Dombey and Son</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_51">‹ Chapter 51</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_53">Chapter 53 ›</a></div>
+</nav>
+
+
+CHAPTER XXIV.
+The Study of a Loving Heart
+
+
+Sir Barnet and Lady Skettles, very good people, resided in a pretty
+villa at Fulham, on the banks of the Thames; which was one of the most
+desirable residences in the world when a rowing-match happened to be
+going past, but had its little inconveniences at other times, among
+which may be enumerated the occasional appearance of the [[River|river]] in the
+drawing-room, and the contemporaneous disappearance of the lawn and
+shrubbery.
+
+Sir Barnet Skettles expressed his personal consequence chiefly through
+an antique gold snuffbox, and a ponderous silk pocket-kerchief, which
+he had an imposing manner of drawing out of his pocket like a banner
+and using with both hands at once. Sir Barnet’s object in life was
+constantly to extend the range of his acquaintance. Like a heavy [[Body|body]]
+dropped into [[Water|water]]—not to disparage so worthy a gentleman by the
+comparison—it was in the [[Nature|nature]] of things that Sir Barnet must spread
+an ever widening circle about him, until there was no room left. Or,
+like a sound in air, the vibration of which, according to the
+speculation of an ingenious modern philosopher, may go on travelling
+for ever through the interminable fields of space, nothing but coming
+to the end of his moral tether could stop Sir Barnet Skettles in his
+voyage of discovery through the social system.
+
+Sir Barnet was proud of making people acquainted with people. He liked
+the thing for its own sake, and it advanced his favourite object too.
+For example, if Sir Barnet had the good fortune to get hold of a law
+recruit, or a country gentleman, and ensnared him to his hospitable
+villa, Sir Barnet would say to him, on the morning after his arrival,
+“Now, my dear Sir, is there anybody you would like to know? Who is
+there you would wish to meet? Do you take any interest in writing
+people, or in painting or sculpturing people, or in acting people, or
+in anything of that sort?” Possibly the patient answered yes, and
+mentioned somebody, of whom Sir Barnet had no more personal knowledge
+than of Ptolemy the Great. Sir Barnet replied, that nothing on earth
+was easier, as he knew him very [[Well|well]]: immediately called on the
+aforesaid somebody, left his card, wrote a short note,—“My dear
+Sir—penalty of your eminent position—friend at my [[house]] naturally
+desirous—Lady Skettles and myself participate—trust that genius being
+superior to ceremonies, you will do us the distinguished favour of
+giving us the pleasure,” etc, etc.—and so killed a brace of [[Birds|birds]] with
+one stone, dead as door-nails.
+
+With the snuff-box and banner in full force, Sir Barnet Skettles
+propounded his usual inquiry to Florence on the first morning of her
+visit. When Florence thanked him, and said there was no one in
+particular whom she desired to see, it was natural she should think
+with a pang, of poor lost Walter. When Sir Barnet Skettles, urging his
+kind offer, said, “My dear Miss Dombey, are you sure you can remember
+no one whom your good Papa—to whom I beg you present the best
+compliments of myself and Lady Skettles when you write—might wish you
+to know?” it was natural, perhaps, that her poor head should droop a
+little, and that her voice should tremble as it softly answered in the
+negative.
+
+Skettles Junior, much stiffened as to his cravat, and sobered down as
+to his spirits, was at [[Home|home]] for the holidays, and appeared to feel
+himself aggrieved by the solicitude of his excellent mother that he
+should be attentive to Florence. Another and a deeper injury under
+which the [[Soul|soul]] of young Barnet chafed, was the company of Dr and Mrs
+Blimber, who had been invited on a visit to the paternal roof-tree, and
+of whom the young gentleman often said he would have preferred their
+passing the vacation at Jericho.
+
+“Is there anybody you can suggest now, Doctor Blimber?” said Sir Barnet
+Skettles, turning to that gentleman.
+
+“You are very kind, Sir Barnet,” returned Doctor Blimber. “Really I am
+not aware that there is, in particular. I like to know my fellow-men in
+general, Sir Barnet. What does Terence say? Anyone who is the parent of
+a son is interesting to me.”
+
+“Has Mrs Blimber any wish to see any remarkable person?” asked Sir
+Barnet, courteously.
+
+Mrs Blimber replied, with a sweet smile and a shake of her sky-blue
+cap, that if Sir Barnet could have made her known to Cicero, she would
+have troubled him; but such an introduction not being feasible, and she
+already enjoying the [[Friendship|friendship]] of himself and his amiable lady, and
+possessing with the Doctor her husband their joint confidence in regard
+to their dear son—here young Barnet was observed to curl his nose—she
+asked no more.
+
+Sir Barnet was fain, under these circumstances, to content himself for
+the [[Time|time]] with the company assembled. Florence was glad of that; for she
+had a study to pursue among them, and it lay too near her heart, and
+was too precious and momentous, to yield to any other interest.
+
+There were some children staying in the [[house]]. Children who were as
+frank and happy with fathers and with mothers as those rosy faces
+opposite [[Home|home]]. Children who had no restraint upon their [[Love|love]], and
+freely showed it. Florence sought to learn their secret; sought to find
+out what it was she had missed; what simple art they knew, and she knew
+not; how she could be taught by them to show her father that she loved
+him, and to win his [[Love|love]] again.
+
+Many a day did Florence thoughtfully observe these children. On many a
+bright morning did she leave her bed when the glorious sun [[Rose|rose]], and
+walking up and down upon the [[River|river]]’s bank, before anyone in the [[house]]
+was stirring, look up at the windows of their rooms, and think of them,
+asleep, so gently tended and affectionately thought of. Florence would
+feel more lonely then, than in the [[Great House|great house]] all [[Alone|alone]]; and would
+think sometimes that she was better there than here, and that there was
+greater peace in hiding herself than in mingling with others of her
+age, and finding how unlike them all she was. But attentive to her
+study, though it touched her to the quick at every little leaf she
+turned in the hard book, Florence remained among them, and tried, with
+patient [[Hope|hope]], to gain the knowledge that she wearied for.
+
+Ah! how to gain it! how to know the charm in its beginning! There were
+daughters here, who [[Rose|rose]] up in the morning, and lay down to rest at
+[[Night|night]], possessed of fathers’ hearts already. They had no repulse to
+overcome, no coldness to dread, no frown to smooth away. As the morning
+advanced, and the windows opened one by one, and the dew began to dry
+upon the [[Flowers|flowers]] and youthful feet began to move upon the lawn,
+Florence, glancing round at the bright faces, thought what was there
+she could learn from these children? It was too late to learn from
+them; each could approach her father fearlessly, and put up her lips to
+meet the ready kiss, and [[Wind|wind]] her arm about the neck that bent down to
+caress her. She could not begin by being so bold. Oh! could it be that
+there was less and less [[Hope|hope]] as she studied more and more!
+
+She remembered [[Well|well]], that even the old woman who had robbed her when a
+little [[Child|child]]—whose image and whose [[house]], and all she had said and
+done, were stamped upon her recollection, with the enduring sharpness
+of a fearful impression made at that early period of life—had spoken
+fondly of her daughter, and how terribly even she had cried out in the
+[[Pain|pain]] of hopeless separation from her [[Child|child]]. But her own mother, she
+would think again, when she recalled this, had loved her [[Well|well]]. Then,
+sometimes, when her thoughts reverted swiftly to the void between
+herself and her father, Florence would tremble, and the [[Tears|tears]] would
+start upon her face, as she pictured to herself her mother living on,
+and coming also to dislike her, because of her wanting the unknown
+grace that should conciliate that father naturally, and had never done
+so from her cradle. She knew that this [[Imagination|imagination]] did wrong to her
+mother’s [[Memory|memory]], and had no [[Truth|truth]] in it, or base to rest upon; and yet
+she tried so hard to justify him, and to find the whole blame in
+herself, that she could not resist its passing, like a wild cloud,
+through the distance of her mind.
+
+There came among the other visitors, soon after Florence, one beautiful
+girl, three or four years younger than she, who was an [[Orphan|orphan]] [[Child|child]],
+and who was accompanied by her aunt, a grey-haired lady, who spoke much
+to Florence, and who greatly liked (but that they all did) to hear her
+sing of an evening, and would always sit near her at that [[Time|time]], with
+motherly interest. They had only been two days in the [[house]], when
+Florence, being in an arbour in the [[Garden|garden]] one warm morning, musingly
+observant of a youthful group upon the turf, through some intervening
+boughs,—and wreathing [[Flowers|flowers]] for the head of one little creature among
+them who was the pet and plaything of the rest, heard this same lady
+and her niece, in pacing up and down a sheltered nook close by, speak
+of herself.
+
+“Is Florence an [[Orphan|orphan]] like me, aunt?” said the [[Child|child]].
+
+“No, my [[Love|love]]. She has no mother, but her father is living.”
+
+“Is she in mourning for her poor Mama, now?” inquired the [[Child|child]]
+quickly.
+
+“No; for her only brother.”
+
+“Has she no other brother?”
+
+“None.”
+
+“No sister?”
+
+“None,”
+
+“I am very, very sorry!” said the little girl
+
+As they stopped soon afterwards to watch some boats, and had been
+silent in the meantime, Florence, who had risen when she heard her
+name, and had gathered up her [[Flowers|flowers]] to go and meet them, that they
+might know of her being within hearing, resumed her seat and work,
+expecting to hear no more; but the conversation recommenced next
+moment.
+
+“Florence is a favourite with everyone here, and deserves to be, I am
+sure,” said the [[Child|child]], earnestly. “Where is her Papa?”
+
+The aunt replied, after a moment’s pause, that she did not know. Her
+tone of voice arrested Florence, who had started from her seat again;
+and held her fastened to the spot, with her work hastily caught up to
+her bosom, and her two hands saving it from being scattered on the
+ground.
+
+“He is in England, I [[Hope|hope]], aunt?” said the [[Child|child]].
+
+“I believe so. Yes; I know he is, indeed.”
+
+“Has he ever been here?”
+
+“I believe not. No.”
+
+“Is he coming here to see her?”
+
+“I believe not.”
+
+“Is he lame, or blind, or ill, aunt?” asked the [[Child|child]].
+
+The [[Flowers|flowers]] that Florence held to her breast began to fall when she
+heard those words, so wonderingly spoke. She held them closer; and her
+face hung down upon them.
+
+“Kate,” said the lady, after another moment of [[Silence|silence]], “I will tell
+you the whole [[Truth|truth]] about Florence as I have heard it, and believe it
+to be. Tell no one else, my dear, because it may be little known here,
+and your doing so would give her [[Pain|pain]].”
+
+“I never will!” exclaimed the [[Child|child]].
+
+“I know you never will,” returned the lady. “I can trust you as myself.
+I [[Fear|fear]] then, Kate, that Florence’s father cares little for her, very
+seldom sees her, never was kind to her in her life, and now quite shuns
+her and avoids her. She would [[Love|love]] him dearly if he would suffer her,
+but he will not—though for no fault of hers; and she is greatly to be
+loved and pitied by all gentle hearts.”
+
+More of the [[Flowers|flowers]] that Florence held fell scattering on the ground;
+those that remained were wet, but not with dew; and her face dropped
+upon her laden hands.
+
+“Poor Florence! Dear, good Florence!” cried the [[Child|child]].
+
+“Do you know why I have told you this, Kate?” said the lady.
+
+“That I may be very kind to her, and take great care to try to please
+her. Is that the reason, aunt?”
+
+“Partly,” said the lady, “but not all. Though we see her so cheerful;
+with a pleasant smile for everyone; ready to oblige us all, and bearing
+her part in every amusement here: she can hardly be quite happy, do you
+think she can, Kate?”
+
+“I am afraid not,” said the little girl.
+
+“And you can understand,” pursued the lady, “why her observation of
+children who have parents who are fond of them, and proud of them—like
+many here, just now—should make her sorrowful in secret?”
+
+“Yes, dear aunt,” said the [[Child|child]], “I understand that very [[Well|well]]. Poor
+Florence!”
+
+More [[Flowers|flowers]] strayed upon the ground, and those she yet held to her
+breast trembled as if a wintry [[Wind|wind]] were rustling them.
+
+“My Kate,” said the lady, whose voice was serious, but very calm and
+sweet, and had so impressed Florence from the first moment of her
+hearing it, “of all the youthful people here, you are her natural and
+harmless friend; you have not the [[Innocent|innocent]] means, that happier children
+have—”
+
+“There are none happier, aunt!” exclaimed the [[Child|child]], who seemed to
+cling about her.
+
+“—As other children have, dear Kate, of reminding her of her
+misfortune. Therefore I would have you, when you try to be her little
+friend, try all the more for that, and feel that the bereavement you
+sustained—thank Heaven! before you knew its weight—gives you claim and
+hold upon poor Florence.”
+
+“But I am not without a parent’s [[Love|love]], aunt, and I never have been,”
+said the [[Child|child]], “with you.”
+
+“However that may be, my dear,” returned the lady, “your misfortune is
+a lighter one than Florence’s; for not an [[Orphan|orphan]] in the wide world can
+be so deserted as the [[Child|child]] who is an outcast from a living parent’s
+[[Love|love]].”
+
+The [[Flowers|flowers]] were scattered on the ground like [[Dust|dust]]; the empty hands
+were spread upon the face; and orphaned Florence, shrinking down upon
+the ground, wept long and bitterly.
+
+But true of heart and resolute in her good purpose, Florence held to it
+as her dying mother held by her upon the day that gave Paul life. He
+did not know how much she loved him. However long the [[Time|time]] in coming,
+and however slow the interval, she must try to bring that knowledge to
+her father’s heart one day or other. Meantime she must be careful in no
+thoughtless word, or look, or burst of feeling awakened by any chance
+circumstance, to complain against him, or to give occasion for these
+whispers to his prejudice.
+
+Even in the response she made the [[Orphan|orphan]] [[Child|child]], to whom she was
+attracted strongly, and whom she had such occasion to remember,
+Florence was mindful of him. If she singled her out too plainly
+(Florence thought) from among the rest, she would confirm—in one mind
+certainly: perhaps in more—the belief that he was cruel and unnatural.
+Her own delight was no set-off to this. What she had overheard was a
+reason, not for soothing herself, but for saving him; and Florence did
+it, in pursuance of the study of her heart.
+
+She did so always. If a book were read aloud, and there were anything
+in the story that pointed at an unkind father, she was in [[Pain|pain]] for
+their application of it to him; not for herself. So with any trifle of
+an interlude that was acted, or picture that was shown, or game that
+was played, among them. The occasions for such tenderness towards him
+were so many, that her mind misgave her often, it would indeed be
+better to go back to the old [[house]], and live again within the [[Shadow|shadow]] of
+its dull walls, undisturbed. How few who saw sweet Florence, in her
+[[spring]] of womanhood, the modest little [[Queen|queen]] of those small revels,
+imagined what a load of sacred care lay heavy in her breast! How few of
+those who stiffened in her father’s freezing atmosphere, suspected what
+a heap of fiery coals was piled upon his head!
+
+Florence pursued her study patiently, and, failing to acquire the
+secret of the nameless grace she sought, among the youthful company who
+were assembled in the [[house]], often walked out [[Alone|alone]], in the early
+morning, among the children of the poor. But still she found them all
+too far advanced to learn from. They had won their household places
+long ago, and did not stand without, as she did, with a bar across the
+door.
+
+There was one man whom she several times observed at work very early,
+and often with a girl of about her own age seated near him. He was a
+very poor man, who seemed to have no regular employment, but now went
+roaming about the banks of the [[River|river]] when the tide was low, looking out
+for bits and scraps in the mud; and now worked at the unpromising
+little patch of [[Garden|garden]]-ground before his cottage; and now tinkered up a
+miserable old boat that belonged to him; or did some job of that kind
+for a neighbour, as chance occurred. Whatever the man’s labour, the
+girl was never employed; but sat, when she was with him, in a listless,
+moping state, and idle.
+
+Florence had often wished to speak to this man; yet she had never taken
+[[Courage|courage]] to do so, as he made no movement towards her. But one morning
+when she happened to come upon him suddenly, from a by-path among some
+pollard willows which terminated in the little shelving piece of stony
+ground that lay between his dwelling and the [[Water|water]], where he was
+bending over a [[Fire|fire]] he had made to caulk the old boat which was lying
+[[Bottom|bottom]] upwards, close by, he raised his head at the sound of her
+footstep, and gave her Good morning.
+
+“Good morning,” said Florence, approaching nearer, “you are at work
+early.”
+
+“I’d be glad to be often at work earlier, Miss, if I had work to do.”
+
+“Is it so hard to get?” asked Florence.
+
+“I find it so,” replied the man.
+
+Florence glanced to where the girl was sitting, drawn together, with
+her elbows on her knees, and her chin on her hands, and said:
+
+“Is that your daughter?”
+
+He raised his head quickly, and looking towards the girl with a
+brightened face, nodded to her, and said “Yes,” Florence looked towards
+her too, and gave her a kind salutation; the girl muttered something in
+return, ungraciously and sullenly.
+
+“Is she in want of employment also?” said Florence.
+
+The man shook his head. “No, Miss,” he said. “I work for both,”
+
+“Are there only you two, then?” inquired Florence.
+
+“Only us two,” said the man. “Her mother has been dead these ten year.
+Martha!” (he lifted up his head again, and whistled to her) “won’t you
+say a word to the pretty young lady?”
+
+The girl made an impatient gesture with her cowering shoulders, and
+turned her head another way. Ugly, misshapen, peevish, ill-conditioned,
+ragged, dirty—but beloved! Oh yes! Florence had seen her father’s look
+towards her, and she knew whose look it had no likeness to.
+
+“I’m afraid she’s worse this morning, my poor girl!” said the man,
+suspending his work, and contemplating his ill-favoured [[Child|child]], with a
+compassion that was the more tender for being rougher.
+
+“She is ill, then!” said Florence.
+
+The man drew a deep sigh. “I don’t believe my Martha’s had five short
+days’ good health,” he answered, looking at her still, “in as many long
+years.”
+
+“Ay! and more than that, John,” said a neighbour, who had come down to
+help him with the boat.
+
+“More than that, you say, do you?” cried the other, pushing back his
+battered hat, and drawing his hand across his forehead. “Very like. It
+seems a long, long [[Time|time]].”
+
+“And the more the [[Time|time]],” pursued the neighbour, “the more you’ve
+favoured and humoured her, John, till she’s got to be a burden to
+herself, and everybody else.”
+
+“Not to me,” said her father, falling to his work. “Not to me.”
+
+Florence could feel—who better?—how truly he spoke. She drew a little
+closer to him, and would have been glad to touch his rugged hand, and
+thank him for his goodness to the miserable object that he looked upon
+with eyes so different from any other man’s.
+
+“Who would favour my poor girl—to call it favouring—if I didn’t?” said
+the father.
+
+“Ay, ay,” cried the neighbour. “In reason, John. But you! You rob
+yourself to give to her. You bind yourself hand and foot on her
+account. You make your life miserable along of her. And what does she
+care! You don’t believe she knows it?”
+
+The father lifted up his head again, and whistled to her. Martha made
+the same impatient gesture with her crouching shoulders, in reply; and
+he was glad and happy.
+
+“Only for that, Miss,” said the neighbour, with a smile, in which there
+was more of secret sympathy than he expressed; “only to get that, he
+never lets her out of his sight!”
+
+“Because the day’ll come, and has been coming a long while,” observed
+the other, bending low over his work, “when to get half as much from
+that unfort’nate [[Child|child]] of mine—to get the trembling of a finger, or the
+waving of a hair—would be to raise the dead.”
+
+Florence softly put some money near his hand on the old boat, and left
+him.
+
+And now Florence began to think, if she were to fall ill, if she were
+to fade like her dear brother, would he then know that she had loved
+him; would she then grow dear to him; would he come to her bedside,
+when she was weak and dim of sight, and take her into his embrace, and
+cancel all the past? Would he so forgive her, in that changed
+condition, for not having been able to lay open her childish heart to
+him, as to make it easy to relate with what emotions she had gone out
+of his room that [[Night|night]]; what she had meant to say if she had had the
+[[Courage|courage]]; and how she had endeavoured, afterwards, to learn the way she
+never knew in infancy?
+
+Yes, she thought if she were dying, he would relent. She thought, that
+if she lay, serene and not unwilling to depart, upon the bed that was
+curtained round with recollections of their darling boy, he would be
+touched [[Home|home]], and would say, “Dear Florence, live for me, and we will
+[[Love|love]] each other as we might have done, and be as happy as we might have
+been these many years!” She thought that if she heard such words from
+him, and had her arms clasped round him, she could answer with a smile,
+“It is too late for anything but this; I never could be happier, dear
+father!” and so leave him, with a blessing on her lips.
+
+The golden [[Water|water]] she remembered on the wall, appeared to Florence, in
+the light of such reflections, only as a current flowing on to rest,
+and to a region where the dear ones, gone before, were waiting, hand in
+hand; and often when she looked upon the darker [[River|river]] rippling at her
+feet, she thought with awful [[Wonder|wonder]], but not terror, of that [[River|river]]
+which her brother had so often said was bearing him away.
+
+The father and his sick daughter were yet fresh in Florence’s mind,
+and, indeed, that incident was not a week old, when Sir Barnet and his
+lady going out walking in the lanes one afternoon, proposed to her to
+bear them company. Florence readily consenting, Lady Skettles ordered
+out young Barnet as a matter of course. For nothing delighted Lady
+Skettles so much, as beholding her eldest son with Florence on his arm.
+
+Barnet, to say the [[Truth|truth]], appeared to entertain an opposite sentiment
+on the subject, and on such occasions frequently expressed himself
+audibly, though indefinitely, in reference to “a parcel of girls.” As
+it was not easy to ruffle her sweet temper, however, Florence generally
+reconciled the young gentleman to his fate after a few minutes, and
+they strolled on amicably: Lady Skettles and Sir Barnet following, in a
+state of perfect complacency and high gratification.
+
+This was the order of procedure on the afternoon in question; and
+Florence had almost succeeded in overruling the present objections of
+Skettles Junior to his destiny, when a gentleman on horseback came
+riding by, looked at them earnestly as he passed, drew in his rein,
+wheeled round, and came riding back again, hat in hand.
+
+The gentleman had looked particularly at Florence; and when the little
+party stopped, on his riding back, he bowed to her, before saluting Sir
+Barnet and his lady. Florence had no remembrance of having ever seen
+him, but she started involuntarily when he came near her, and drew
+back.
+
+“My [[Horse|horse]] is perfectly quiet, I assure you,” said the gentleman.
+
+It was not that, but something in the gentleman himself—Florence could
+not have said what—that made her recoil as if she had been stung.
+
+“I have the [[Honour|honour]] to address Miss Dombey, I believe?” said the
+gentleman, with a most persuasive smile. On Florence inclining her
+head, he added, “My name is Carker. I can hardly [[Hope|hope]] to be remembered
+by Miss Dombey, except by name. Carker.”
+
+[Illustration]
+
+Florence, sensible of a strange inclination to shiver, though the day
+was hot, presented him to her host and hostess; by whom he was very
+graciously received.
+
+“I beg pardon,” said Mr Carker, “a thousand times! But I am going down
+tomorrow morning to Mr Dombey, at Leamington, and if Miss Dombey can
+entrust me with any commission, need I say how very happy I shall be?”
+
+Sir Barnet immediately divining that Florence would [[Desire|desire]] to write a
+letter to her father, proposed to return, and besought Mr Carker to
+come [[Home|home]] and dine in his riding gear. Mr Carker had the misfortune to
+be engaged to dinner, but if Miss Dombey wished to write, nothing would
+delight him more than to accompany them back, and to be her faithful
+slave in waiting as long as she pleased. As he said this with his
+widest smile, and bent down close to her to pat his [[Horse|horse]]’s neck,
+Florence meeting his eyes, saw, rather than heard him say, “There is no
+news of the [[Ship|ship]]!”
+
+Confused, frightened, shrinking from him, and not even sure that he had
+said those words, for he seemed to have shown them to her in some
+extraordinary manner through his smile, instead of uttering them,
+Florence faintly said that she was obliged to him, but she would not
+write; she had nothing to say.
+
+“Nothing to send, Miss Dombey?” said the man of teeth.
+
+“Nothing,” said Florence, “but my—but my dear [[Love|love]]—if you please.”
+
+Disturbed as Florence was, she raised her eyes to his face with an
+imploring and expressive look, that plainly besought him, if he
+knew—which he as plainly did—that any message between her and her
+father was an uncommon charge, but that one most of all, to spare her.
+Mr Carker smiled and bowed low, and being charged by Sir Barnet with
+the best compliments of himself and Lady Skettles, took his leave, and
+rode away: leaving a favourable impression on that worthy couple.
+Florence was seized with such a shudder as he went, that Sir Barnet,
+adopting the popular superstition, supposed somebody was passing over
+her [[Grave|grave]]. Mr Carker turning a corner, on the instant, looked back, and
+bowed, and disappeared, as if he rode off to the churchyard straight,
+to do it.

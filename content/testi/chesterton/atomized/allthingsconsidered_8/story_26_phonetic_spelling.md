@@ -1,5 +1,5 @@
 ---
-title: "[[AllThingsConsidered-8]] — PHONETIC SPELLING"
+title: "AllThingsConsidered-8 — PHONETIC SPELLING"
 author: "Chesterton"
 unitType: story
 parentWork: "works/allthingsconsidered-8-(chesterton)"
@@ -10,12 +10,11 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/allthingsconsidered-8-(chesterton)">AllThingsConsidered 8</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_25_the_error_of_impartiality">‹ Story 25 THE ERROR OF IMPARTIALITY</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_27_humanitarianism_and_strength">Story 27 HUMANITARIANISM AND STRENGTH ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_25_the_error_of_impartiality">‹ Story 25 THE ERROR OF IMPARTIALITY</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_27_humanitarianism_humanitarianism_and_stre">Story 27 Humanitarianism HUMANITARIANISM AND STRE ›</a></div>
 </nav>
 
 
 PHONETIC SPELLING
-
 
 A correspondent asks me to make more lucid my remarks about
 phonetic spelling.  I have no detailed objection to items

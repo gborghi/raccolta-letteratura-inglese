@@ -14,6 +14,77 @@ tags:
 </nav>
 
 
+I think the only other point of Futurism is contained in
+this sentence:  "It is in [[Italy]] that we hurl this overthrowing
+and inflammatory Declaration, with which to-day we found Futurism,
+for we will free [[Italy]] from her numberless museums which cover
+her with countless cemeteries."  I think that rather sums it up.
+The best way, one would think, of freeing oneself from a museum
+would be not to go there.  Mr. Marinetti's fathers and grandfathers
+freed [[Italy]] from prisons and torture chambers, places where people
+were held by force.  They, being in the bondage of "moralism,"
+attacked Governments as unjust, real Governments, with real guns.
+Such was their utilitarian cowardice that they would die in hundreds
+upon the bayonets of Austria.  I can [[Well|well]] imagine why Mr. Marinetti
+in his motor-car does not wish to look back at the past.  If there
+was one thing that could make him look smaller even than before it
+is that roll of dead men's drums and that dream of Garibaldi going by.
+The old Radical [[Ghosts|ghosts]] go by, more real than the living men,
+to assault I know not what ramparted [[City|city]] in hell.  And meanwhile
+the Futurist stands outside a museum in a warlike attitude,
+and defiantly tells the official at the turnstile that he will never,
+never come in.
+
+There is a certain solid use in fools.  It is not so much that they
+rush in where angels [[Fear|fear]] to tread, but rather that they let out
+what devils intend to do.  Some perversion of folly will float
+about nameless and pervade a whole society; then some lunatic
+gives it a name, and henceforth it is harmless.  With all really
+evil things, when the danger has appeared the danger is over.
+Now it may be hoped that the [[Self|self]]-indulgent sprawlers of _Poesia_
+have put a name once and for all to their [[philosophy]].  In the case
+of their [[philosophy]], to put a name to it is to put an end to it.
+Yet their [[philosophy]] has been very widespread in our [[Time|time]]; it could
+hardly have been pointed and finished except by this perfect folly.
+The creed of which (please God) this is the flower and finish
+consists ultimately in this statement:  that it is bold and spirited
+to appeal to the future.  Now, it is entirely weak and half-witted
+to appeal to the future.  A brave man ought to ask for what he wants,
+not for what he expects to get.  A brave man who wants Atheism in
+the future calls himself an Atheist; a brave man who wants Socialism,
+a Socialist; a brave man who wants Catholicism, a Catholic.
+But a weak-minded man who does not know what he wants in the future
+calls himself a Futurist.
+
+* * * * *
+
+They have driven all the pigs away.  Oh that they had driven away
+the prigs, and left the pigs!  The sky begins to droop with darkness
+and all [[Birds|birds]] and blossoms to descend unfaltering into the healthy
+underworld where things slumber and grow.  There was just one true
+phrase of Mr. Marinetti's about himself:  "the feverish insomnia."
+The whole universe is pouring headlong to the happiness of the [[Night|night]].
+It is only the madman who has not the [[Courage|courage]] to [[Sleep|sleep]].
+
+-/-
+
+Dukes
+
+THE Duc de Chambertin-Pommard was a small but lively relic of a really
+aristocratic family, the members of which were nearly all Atheists
+up to the [[Time|time]] of the [[French Revolution]], but since that event
+(beneficial in such various ways) had been very devout.
+He was a Royalist, a Nationalist, and a perfectly sincere patriot
+in that particular style which consists of ceaselessly asserting
+that one's country is not so much in danger as already destroyed.
+He wrote cheery little articles for the Royalist Press entitled
+"The End of France" or "The Last Cry," or what not, and he gave
+the final touches to a picture of the Kaiser riding across a pavement
+of prostrate Parisians with a glow of patriotic exultation.
+He was quite poor, and even his relations had no money.
+He walked briskly to all his meals at a little open café,
+and he looked just like everybody else.
+
 Living in a country where aristocracy does not exist, he had a high
 opinion of it.  He would yearn for the swords and the stately
 manners of the Pommards before the Revolution--most of whom had been
@@ -50,78 +121,3 @@ itself when he reached it was somewhat smaller than he had expected,
 but he was delighted with its romantic and castellated outline.
 He was just about to alight when somebody opened two enormous gates
 at the side and the vehicle drove briskly through.
-
-"That is not the [[house]]?" he inquired politely of the driver.
-
-"No, sir," said the driver, controlling the corners of his mouth.
-"The lodge, sir."
-
-"Indeed," said the Duc de Chambertin-Pommard, "that is where
-the Duke's land begins?"
-
-"Oh no, sir," said the man, quite in distress.  "We've been in his
-Grace's land all day."
-
-The Frenchman thanked him and leant back in the carriage,
-feeling as if everything were incredibly huge and vast, like Gulliver
-in the country of the Brobdingnags.
-
-He got out in front of a long façade of a somewhat severe building,
-and a little careless man in a shooting jacket and knickerbockers
-ran down the steps.  He had a weak, fair moustache and dull, blue,
-babyish eyes; his features were insignificant, but his manner
-extremely pleasant and hospitable.  This was the Duke of Aylesbury,
-perhaps the largest landowner in Europe, and known only as a horsebreeder
-until he began to write abrupt little letters about the Budget.
-He led the French Duke upstairs, talking trivialties in a hearty way,
-and there presented him to another and more important English oligarch,
-who got up from a writing-desk with a slightly senile jerk.
-He had a gleaming bald head and glasses; the lower part of his
-face was masked with a short, dark beard, which did not conceal
-a beaming smile, not unmixed with sharpness.  He stooped
-a little as he ran, like some sedentary head clerk or cashier;
-and even without the cheque-book and papers on his desk would
-have given the impression of a merchant or man of business.
-He was dressed in a light grey check jacket.  He was the Duke
-of Windsor, the great Unionist statesman.  Between these two loose,
-amiable men, the little Gaul stood erect in his black frock coat,
-with the monstrous gravity of French ceremonial good manners.
-This stiffness led the Duke of Windsor to put him at his ease
-(like a tenant), and he said, rubbing his hands:
-
-"I was delighted with your letter ... delighted.  I shall be very
-pleased if I can give you--er--any details."
-
-"My visit," said the Frenchman, "scarcely suffices for
-the scientific exhaustion of detail.  I seek only the idea.
-The idea, that is always the immediate thing."
-
-"Quite so," said the other rapidly; "quite so ... the idea."
-
-Feeling somehow that it was his turn (the English Duke having done all
-that could be required of him) Pommard had to say:  "I mean the idea
-of aristocracy.  I regard this as the last great battle for the idea.
-Aristocracy, like any other thing, must justify itself to mankind.
-Aristocracy is good because it preserves a picture of human dignity
-in a world where that dignity is often obscured by servile necessities.
-Aristocracy [[Alone|alone]] can keep a certain high reticence of [[Soul|soul]] and [[Body|body]],
-a certain noble distance between the sexes."
-
-The Duke of Aylesbury, who had a clouded recollection of having squirted
-soda-[[Water|water]] down the neck of a Countess on the previous evening,
-looked somewhat gloomy, as if lamenting the theoretic spirit
-of the Latin race.  The elder Duke laughed heartily, and said:
-"[[Well]], [[Well|well]], you know; we English are horribly practical.
-With us the great question is the land.  Out here in the country
-... do you know this part?"
-
-"Yes, yes," cried the Frenchmen eagerly.  "I see what you mean.
-The country! the old rustic life of humanity!  A holy war upon
-the bloated and filthy towns.  What right have these anarchists to attack
-your busy and prosperous countrysides?  Have they not thriven under
-your management?  Are not the English villages always growing larger
-and gayer under the enthusiastic leadership of their encouraging squires?
-Have you not the Maypole?  Have you not Merry England?"
-
-The Duke of Aylesbury made a noise in his throat, and then said
-very indistinctly:  "They all go to [[London]]."

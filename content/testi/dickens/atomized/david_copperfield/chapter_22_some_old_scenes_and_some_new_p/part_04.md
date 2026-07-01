@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE (part 4)"
+title: "David Copperfield — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_22_some_old_scenes_and_some_new_p/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_22_some_old_scenes_and_some_new_p/part_05">part 05 ›</a></div>
 </nav>
 
+
+‘Why, what on earth does she do here?’ said Steerforth.
+
+‘It appears to be her native part of the country, sir. She informs me
+that she makes one of her professional visits here, every year, sir.
+I met her in the street this afternoon, and she wished to know if she
+might have the [[Honour|honour]] of waiting on you after dinner, sir.’
+
+‘Do you know the Giantess in question, Daisy?’ inquired Steerforth.
+
+I was obliged to confess--I felt ashamed, even of being at this
+disadvantage before Littimer--that Miss Mowcher and I were wholly
+unacquainted.
+
+‘Then you shall know her,’ said Steerforth, ‘for she is one of the seven
+wonders of the world. When Miss Mowcher comes, show her in.’
 
 I felt some curiosity and excitement about this lady, especially as
 Steerforth burst into a fit of laughing when I referred to her, and
@@ -109,20 +125,3 @@ every dive) a number of small bottles, sponges, combs, brushes, bits of
 flannel, little pairs of curling-irons, and other instruments, which
 she tumbled in a heap upon the chair. From this employment she suddenly
 desisted, and said to Steerforth, much to my confusion:
-
-‘Who’s your friend?’
-
-‘Mr. Copperfield,’ said Steerforth; ‘he wants to know you.’
-
-‘[[Well]], then, he shall! I thought he looked as if he did!’ returned Miss
-Mowcher, waddling up to me, bag in hand, and laughing on me as she came.
-‘Face like a peach!’ standing on tiptoe to pinch my cheek as I
-sat. ‘Quite tempting! I’m very fond of peaches. Happy to make your
-acquaintance, Mr. Copperfield, I’m sure.’
-
-I said that I congratulated myself on having the [[Honour|honour]] to make hers,
-and that the happiness was mutual.
-
-‘Oh, my goodness, how polite we are!’ exclaimed Miss Mowcher, making a
-preposterous attempt to cover her large face with her morsel of a hand.
-‘What a world of gammon and spinnage it is, though, ain’t it!’

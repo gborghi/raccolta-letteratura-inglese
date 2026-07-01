@@ -138,9 +138,9 @@ of the Templars.  Anyhow, from any number of passages, one would
 infer that Hazlitt offered himself as a friend of the people.
 But he offered himself most furiously as an enemy of the Public.
 When he began to write about the Public he described exactly
-the same many-headed [[Monster|monster]] of ignorance and cowardice and
+the same many-headed monster of ignorance and cowardice and
 cruelty which the worst Tories called the Mob.  Now, if Hazlitt
-had been obliged to set forth his thoughts on [[democracy|Democracy]] in
+had been obliged to set forth his thoughts on Democracy in
 the theses of a medieval schoolman, he would have had to think
 much more clearly and make up his mind much more decisively.
 I will leave the last word with the essayist; and admit that I am

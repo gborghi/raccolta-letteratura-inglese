@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 30 (part 2)"
+title: "Villette — Chapter 30 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -124,15 +124,3 @@ that effect actually formed itself into sound on my lips.
 “Elle ne dit que la vérité,” I said.
 
 “Ah! vous trouvez?”
-
-“Mais, sans doute.”
-
-The lesson to which we had that day to submit was such as to make us
-very glad when it terminated. At its close, the released pupils rushed
-out, half-trembling, half-exultant. I, too, was going. A mandate to
-remain arrested me. I muttered that I wanted some fresh air sadly—the
-stove was in a glow, the classe over-heated. An inexorable voice merely
-recommended [[Silence|silence]]; and this salamander—for whom no room ever seemed
-too hot—sitting down between my desk and the stove—a situation in which
-he ought to have felt broiled, but did not—proceeded to confront me
-with—a Greek quotation!

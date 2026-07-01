@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 7"
+title: "The Tenant of Wildfell Hall — Chapter 7"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -146,7 +146,7 @@ was something indescribably chilly in her quiet, calm civility; but I
 
 did not talk much to her. Seating myself near the [[Window|window]], a little back
 
-from the circle, I called [[arthur|Arthur]] to me, and he and I and Sancho amused
+from the circle, I called [[Arthur]] to me, and he and I and Sancho amused
 
 ourselves very pleasantly together, while the two young ladies baited
 
@@ -334,7 +334,7 @@ proceed.
 
 —— Bay you are thinking about, I suppose, Mrs. Graham? It is a very
 
-long walk, too far for you, and out of the question for [[arthur|Arthur]]. But we
+long walk, too far for you, and out of the question for [[Arthur]]. But we
 
 were thinking about making a picnic to see it some fine day; and, if
 
@@ -362,7 +362,7 @@ miles distant.
 
 will drive and walk by turns; for we shall have our pony-carriage,
 
-which will be plenty large enough to contain little [[arthur|Arthur]] and three
+which will be plenty large enough to contain little [[Arthur]] and three
 
 ladies, together with your sketching apparatus, and our provisions.”
 
@@ -414,7 +414,7 @@ displeasing to me, though I could scarcely tell you why.
 
 It was about midday when we reached the place of our destination. Mrs.
 
-Graham walked all the way to the cliffs; and little [[arthur|Arthur]] walked the
+Graham walked all the way to the cliffs; and little [[Arthur]] walked the
 
 greater part of it too; for he was now much more hardy and active than
 
@@ -462,7 +462,7 @@ The former, it is true, was most provokingly unsociable at
 
 first—seemingly bent upon talking to no one but Mary Millward and
 
-[[arthur|Arthur]]. She and Mary journeyed along together, generally with the [[Child|child]]
+[[Arthur]]. She and Mary journeyed along together, generally with the [[Child|child]]
 
 between them;—but where the [[Road|road]] permitted, I always walked on the
 
@@ -718,7 +718,7 @@ seeing again for I know not how long.”
 
 
 
-“What was [[arthur|Arthur]] doing when you came away?”
+“What was [[Arthur]] doing when you came away?”
 
 
 
@@ -736,7 +736,7 @@ carelessly added, “if she is good for nothing else.”
 
 “Miss Millward has many estimable qualities, which such as you cannot
 
-be expected to perceive or appreciate. Will you tell [[arthur|Arthur]] that I
+be expected to perceive or appreciate. Will you tell [[Arthur]] that I
 
 shall come in a few minutes?”
 
@@ -806,7 +806,7 @@ On returning to the scene of our repast we found all the company had
 
 deserted it, with the exception of three—Mary Millward, [[Richard]] Wilson,
 
-and [[arthur|Arthur]] Graham. The younger gentleman lay fast asleep with his head
+and [[Arthur]] Graham. The younger gentleman lay fast asleep with his head
 
 pillowed on the lady’s lap; the other was seated beside her with a
 

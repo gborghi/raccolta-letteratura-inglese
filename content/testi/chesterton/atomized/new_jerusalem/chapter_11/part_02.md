@@ -109,7 +109,7 @@ through the same vague nomadic need as the Christian Army in Palestine.
 Surely Pershing as [[Well|well]] as Peter the Hermit was merely a rather restless
 gentleman who found his health improved by frequent change of scene.
 The Americans said, and perhaps thought, that they were fighting
-for [[Democracy|democracy]]; and the Crusaders said, and perhaps thought,
+for [[democracy]]; and the Crusaders said, and perhaps thought,
 that they were fighting for [[Christianity]].  But as we know what
 the Crusaders meant better than they did themselves, I cannot
 quite understand why we do not enjoy the same valuable omniscience

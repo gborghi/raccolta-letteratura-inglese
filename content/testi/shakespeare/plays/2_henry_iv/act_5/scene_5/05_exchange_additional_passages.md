@@ -1,5 +1,5 @@
 ---
-title: "2 [[Henry IV]] — Act V, Scene 5 — exchange (ADDITIONAL PASSAGES) [5]"
+title: "2 Henry IV — Act V, Scene 5 — exchange (ADDITIONAL PASSAGES) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/2-henry-iv-(shakespeare)"

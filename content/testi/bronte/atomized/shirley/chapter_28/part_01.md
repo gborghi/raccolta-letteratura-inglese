@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 28 (part 1)"
+title: "Shirley — Chapter 28 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -261,9 +261,3 @@ his wolf-like gallop, long and untiring.
 
 
 Twice, three times, the eyes of gossips--those eyes which are
-
-everywhere, in the closet and on the [[Hill|hill]]-top--noticed that instead of
-
-turning on Rushedge, the top ridge of Stilbro' Moor, she rode forwards
-
-all the way to the town. Scouts were not wanting to mark her destination

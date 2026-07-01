@@ -109,15 +109,3 @@ the other man up. But Mr Harold Harker's face became very thoughtful
 indeed; and he stood there ruminating for some [[Time|time]] before he gravely
 took himself inland, towards the [[Road|road]] that ran past the gates of the
 [[Great House|great house]] and so by a long curve down to the sea.
-
-It was up this curving [[Road|road]] from the coast that the Admiral might be
-expected to come, considering the direction in which he had been
-walking, and making the natural assumption that he was bound for his own
-door. The path along the sands, under the links, turned inland just
-beyond the headland arid solidifying itself into a [[Road|road]], returned
-towards Craven [[house|House]]. It was down this [[Road|road]], therefore, that the
-secretary darted, with characteristic impetuosity, to meet his patron
-returning [[Home|home]]. But the parton was apparently not returning [[Home|home]]. What
-was still more peculiar, the secretary was not returning [[Home|home]] either; at
-least until many hours later; a delay quite long enough to arouse alarm
-and [[Mystification|mystification]] at Craven [[house|House]].

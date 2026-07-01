@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 18 (part 4)"
+title: "Dombey and Son — Chapter 46 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,117 +14,135 @@ tags:
 </nav>
 
 
-Thus she gained heart to look upon the work with which her fingers had
-been busy by his side on the sea-shore; and thus it was not very long
-before she took to it again—with something of a human [[Love|love]] for it, as
-if it had been sentient and had known him; and, sitting in a [[Window|window]],
-near her mother’s picture, in the unused room so long deserted, wore
-away the thoughtful hours.
+With the present consolation that they were gone, and with the
+prospective comfort that Mrs Brown could not live for ever, and was not
+likely to live long to trouble him, the Grinder, not otherwise
+regretting his misdeeds than as they were attended with such
+disagreeable incidental consequences, composed his ruffled features to
+a more serene expression by thinking of the admirable manner in which
+he had disposed of [[Captain Cuttle]] (a reflection that seldom failed to
+put him in a flow of spirits), and went to the Dombey Counting [[house|House]] to
+receive his master’s orders.
 
-Why did the dark eyes turn so often from this work to where the rosy
-children lived? They were not immediately suggestive of her loss; for
-they were all girls: four little sisters. But they were motherless like
-her—and had a father.
+There his master, so subtle and vigilant of eye, that Rob quaked before
+him, more than half expecting to be taxed with Mrs Brown, gave him the
+usual morning’s box of papers for Mr Dombey, and a note for Mrs Dombey:
+merely nodding his head as an enjoinder to be careful, and to use
+dispatch—a mysterious admonition, fraught in the Grinder’s [[Imagination|imagination]]
+with dismal warnings and threats; and more powerful with him than any
+words.
 
-It was easy to know when he had gone out and was expected [[Home|home]], for the
-elder [[Child|child]] was always dressed and waiting for him at the drawing-room
-[[Window|window]], or on the balcony; and when he appeared, her expectant face
-lighted up with joy, while the others at the high [[Window|window]], and always on
-the watch too, clapped their hands, and drummed them on the sill, and
-called to him. The elder [[Child|child]] would come down to the hall, and put her
-hand in his, and lead him up the stairs; and Florence would see her
-afterwards sitting by his side, or on his knee, or hanging coaxingly
-about his neck and talking to him: and though they were always gay
-together, he would often watch her face as if he thought her like her
-mother that was dead. Florence would sometimes look no more at this,
-and bursting into [[Tears|tears]] would hide behind the curtain as if she were
-frightened, or would hurry from the [[Window|window]]. Yet she could not help
-returning; and her work would soon fall unheeded from her hands again.
+[[Alone]] again, in his own room, Mr Carker applied himself to work, and
+worked all day. He saw many visitors; overlooked a number of documents;
+went in and out, to and from, sundry places of mercantile resort; and
+indulged in no more abstraction until the day’s business was done. But,
+when the usual clearance of papers from his table was made at last, he
+fell into his thoughtful mood once more.
 
-It was the [[house]] that had been empty, years ago. It had remained so for
-a long [[Time|time]]. At last, and while she had been away from [[Home|home]], this
-family had taken it; and it was repaired and newly painted; and there
-were [[Birds|birds]] and [[Flowers|flowers]] about it; and it looked very different from its
-old [[Self|self]]. But she never thought of the [[house]]. The children and their
-father were all in all.
+He was standing in his accustomed place and attitude, with his eyes
+intently fixed upon the ground, when his brother entered to bring back
+some letters that had been taken out in the course of the day. He put
+them quietly on the table, and was going immediately, when Mr Carker
+the Manager, whose eyes had rested on him, on his entrance, as if they
+had all this [[Time|time]] had him for the subject of their contemplation,
+instead of the office-floor, said:
 
-When he had dined, she could see them, through the open windows, go
-down with their governess or [[Nurse|nurse]], and cluster round the table; and in
-the still [[Summer|summer]] weather, the sound of their childish voices and clear
-laughter would come ringing across the street, into the drooping air of
-the room in which she sat. Then they would climb and clamber upstairs
-with him, and romp about him on the sofa, or group themselves at his
-knee, a very nosegay of little faces, while he seemed to tell them some
-story. Or they would come running out into the balcony; and then
-Florence would hide herself quickly, lest it should check them in their
-joy, to see her in her black dress, sitting there [[Alone|alone]].
+“[[Well]], John Carker, and what brings you here?”
 
-The elder [[Child|child]] remained with her father when the rest had gone away,
-and made his tea for him—happy little [[house]]-keeper she was then!—and
-sat conversing with him, sometimes at the [[Window|window]], sometimes in the
-room, until the candles came. He made her his companion, though she was
-some years younger than Florence; and she could be as staid and
-pleasantly demure, with her little book or work-box, as a woman. When
-they had candles, Florence from her own dark room was not afraid to
-look again. But when the [[Time|time]] came for the [[Child|child]] to say “Good-[[Night|night]],
-Papa,” and go to bed, Florence would sob and tremble as she raised her
-face to him, and could look no more.
+His brother pointed to the letters, and was again withdrawing.
 
-Though still she would turn, again and again, before going to bed
-herself from the simple air that had lulled him to rest so often, long
-ago, and from the other low soft broken strain of music, back to that
-[[house]]. But that she ever thought of it, or watched it, was a secret
-which she kept within her own young breast.
+“I [[Wonder|wonder]],” said the Manager, “that you can come and go, without
+inquiring how our master is”.
 
-And did that breast of Florence—Florence, so ingenuous and true—so
-worthy of the [[Love|love]] that he had borne her, and had whispered in his last
-faint words—whose guileless heart was mirrored in the [[Beauty|beauty]] of her
-face, and breathed in every accent of her gentle voice—did that young
-breast hold any other secret? Yes. One more.
+“We had word this morning in the Counting [[house|House]], that Mr Dombey was
+doing [[Well|well]],” replied his brother.
 
-When no one in the [[house]] was stirring, and the lights were all
-extinguished, she would softly leave her own room, and with noiseless
-feet descend the staircase, and approach her father’s door. Against it,
-scarcely breathing, she would rest her face and head, and press her
-lips, in the yearning of her [[Love|love]]. She crouched upon the cold stone
-floor outside it, every [[Night|night]], to listen even for his breath; and in
-her one absorbing wish to be allowed to show him some affection, to be
-a consolation to him, to win him over to the [[Endurance|endurance]] of some
-tenderness from her, his solitary [[Child|child]], she would have knelt down at
-his feet, if she had dared, in humble supplication.
+“You are such a meek fellow,” said the Manager, with a smile,—“but you
+have grown so, in the course of years—that if any harm came to him,
+you’d be miserable, I dare swear now.”
 
-No one knew it. No one thought of it. The door was ever closed, and he
-shut up within. He went out once or twice, and it was said in the [[house]]
-that he was very soon going on his country [[Journey|journey]]; but he lived in
-those rooms, and lived [[Alone|alone]], and never saw her, or inquired for her.
-Perhaps he did not even know that she was in the [[house]].
+“I should be truly sorry, James,” returned the other.
 
-One day, about a week after the funeral, Florence was sitting at her
-work, when Susan appeared, with a face half laughing and half crying,
-to announce a visitor.
+“He would be sorry!” said the Manager, pointing at him, as if there
+were some other person present to whom he was appealing. “He would be
+truly sorry! This brother of mine! This junior of the place, this
+slighted piece of lumber, pushed aside with his face to the wall, like
+a rotten picture, and left so, for Heaven knows how many years he’s all
+gratitude and respect, and devotion too, he would have me believe!”
 
-“A visitor! To me, Susan!” said Florence, looking up in astonishment.
+“I would have you believe nothing, James,” returned the other. “Be as
+just to me as you would to any other man below you. You ask a question,
+and I answer it.”
 
-“[[Well]], it is a [[Wonder|wonder]], ain’t it now, Miss Floy?” said Susan; “but I
-wish you had a many visitors, I do, indeed, for you’d be all the better
-for it, and it’s my opinion that the sooner you and me goes even to
-them old Skettleses, Miss, the better for both, I may not wish to live
-in crowds, Miss Floy, but still I’m not a oyster.”
+“And have you nothing, Spaniel,” said the Manager, with unusual
+irascibility, “to complain of in him? No proud treatment to resent, no
+insolence, no foolery of state, no exaction of any sort! What the
+devil! are you man or mouse?”
 
-To do Miss Nipper justice, she spoke more for her young mistress than
-herself; and her face showed it.
+“It would be strange if any two persons could be together for so many
+years, especially as superior and inferior, without each having
+something to complain of in the other—as he thought, at all events,”
+replied John Carker. “But apart from my [[history]] here—”
 
-“But the visitor, Susan,” said Florence.
+“His [[history]] here!” exclaimed the Manager. “Why, there it is. The very
+fact that makes him an extreme case, puts him out of the whole chapter!
+[[Well]]?”
 
-Susan, with an hysterical explosion that was as much a laugh as a sob,
-and as much a sob as a laugh, answered,
+“Apart from that, which, as you hint, gives me a reason to be thankful
+that I [[Alone|alone]] (happily for all the rest) possess, surely there is no one
+in the [[house|House]] who would not say and feel at least as much. You do not
+think that anybody here would be indifferent to a mischance or
+misfortune happening to the head of the [[house|House]], or anything than truly
+sorry for it?”
 
-“Mr Toots!”
+“You have good reason to be bound to him too!” said the Manager,
+contemptuously. “Why, don’t you believe that you are kept here, as a
+cheap example, and a famous instance of the clemency of Dombey and Son,
+redounding to the credit of the illustrious [[house|House]]?”
 
-The smile that appeared on Florence’s face passed from it in a moment,
-and her eyes filled with [[Tears|tears]]. But at any rate it was a smile, and
-that gave great satisfaction to Miss Nipper.
+“No,” replied his brother, mildly, “I have long believed that I am kept
+here for more kind and disinterested reasons.”
 
-“My own feelings exactly, Miss Floy,” said Susan, putting her apron to
-her eyes, and shaking her head. “Immediately I see that [[Innocent]] in the
-Hall, Miss Floy, I burst out laughing first, and then I choked.”
+“But you were going,” said the Manager, with the snarl of a tiger-cat,
+“to recite some Christian precept, I observed.”
+
+“Nay, James,” returned the other, “though the tie of brotherhood
+between us has been long broken and thrown away—”
+
+“Who broke it, good Sir?” said the Manager.
+
+“I, by my misconduct. I do not charge it upon you.”
+
+The Manager replied, with that mute action of his bristling mouth, “Oh,
+you don’t charge it upon me!” and bade him go on.
+
+“I say, though there is not that tie between us, do not, I entreat,
+assail me with unnecessary taunts, or misinterpret what I say, or would
+say. I was only going to suggest to you that it would be a mistake to
+suppose that it is only you, who have been selected here, above all
+others, for advancement, confidence and distinction (selected, in the
+beginning, I know, for your great ability and trustfulness), and who
+communicate more freely with Mr Dombey than anyone, and stand, it may
+be said, on equal terms with him, and have been favoured and enriched
+by him—that it would be a mistake to suppose that it is only you who
+are tender of his welfare and reputation. There is no one in the [[house|House]],
+from yourself down to the lowest, I sincerely believe, who does not
+participate in that feeling.”
+
+“You lie!” said the Manager, red with sudden anger. “You’re a
+hypocrite, John Carker, and you lie.”
+
+“James!” cried the other, flushing in his turn. “What do you mean by
+these insulting words? Why do you so basely use them to me,
+unprovoked?”
+
+“I tell you,” said the Manager, “that your hypocrisy and meekness—that
+all the hypocrisy and meekness of this place—is not worth that to me,”
+snapping his thumb and finger, “and that I see through it as if it were
+air! There is not a man employed here, standing between myself and the
+lowest in place (of whom you are very considerate, and with reason, for
+he is not far off), who wouldn’t be glad at heart to see his master
+humbled: who does not hate him, secretly: who does not wish him evil
+rather than good: and who would not turn upon him, if he had the power
+and boldness. The nearer to his favour, the nearer to his insolence;
+the closer to him, the farther from him. That’s the creed here!”

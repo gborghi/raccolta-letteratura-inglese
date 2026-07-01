@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 36 (part 2)"
+title: "Mansfield Park — Chapter 36 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -110,6 +110,3 @@ tell you of all the women whom I have known to be in [[Love|love]] with him, I
 should never have done. It is you, only you, insensible Fanny, who can
 think of him with anything like indifference. But are you so insensible
 as you profess yourself? No, no, I see you are not.”
-
-There was, indeed, so deep a blush over Fanny’s face at that moment as
-might warrant strong suspicion in a predisposed mind.

@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 30 (part 3)"
+title: "Shirley — Chapter 30 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_30/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_30/part_04">part 04 ›</a></div>
 </nav>
 
+
+question on that head rushed upon me, I flung it off, saying brutally I
+
+should be rich with her and ruined without her--vowing I would be
+
+practical, and not romantic."
+
+
+
+"A very sensible resolve. What mischief came of it, Bob?"
+
+
+
+"With this sensible resolve I walked up to Fieldhead one [[Night|night]] last
+
+August. It was the very eve of my departure for Birmingham; for, you
+
+see, I wanted to secure Fortune's splendid prize. I had previously
 
 dispatched a note requesting a private interview. I found her at [[Home|home]],
 
@@ -243,27 +261,3 @@ when its vivid vermilion is hottest.
 the possession of all I value most. That is to say that I am a traitor
 
 to all my sisters; that I have acted as no woman can act without
-
-degrading herself and her sex; that I have sought where the incorrupt of
-
-my kind naturally scorn and abhor to seek.' She and I were silent for
-
-many a minute. '[[Lucifer]], Star of the Morning,' she went on, 'thou art
-
-fallen! You, once high in my esteem, are hurled down; you, once intimate
-
-in my [[Friendship|friendship]], are cast out. Go!'
-
-
-
-"I went not. I had heard her voice tremble, seen her lip quiver. I knew
-
-another [[Storm|storm]] of [[Tears|tears]] would fall, and then I believed some calm and
-
-some sunshine must come, and I would wait for it.
-
-
-
-"As fast, but more quietly than before, the warm rain streamed down.
-
-There was another sound in her weeping--a softer, more regretful sound.

@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 40 (part 2)"
+title: "Bleak House — Chapter 40 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_40/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_40/part_03">part 03 ›</a></div>
 </nav>
 
+
+Now the [[Moon|moon]] is high; and the [[Great House|great house]], needing habitation more
+than ever, is like a [[Body|body]] without life. Now it is even awful,
+stealing through it, to think of the live people who have slept in
+the solitary bedrooms, to say nothing of the dead. Now is the [[Time|time]]
+for [[Shadow|shadow]], when every corner is a cavern and every downward step a
+pit, when the stained glass is reflected in pale and faded hues upon
+the floors, when anything and everything can be made of the heavy
+staircase beams excepting their own proper shapes, when the armour
+has dull lights upon it not easily to be distinguished from stealthy
+movement, and when barred helmets are frightfully suggestive of heads
+inside. But of all the shadows in Chesney Wold, the [[Shadow|shadow]] in the
+long drawing-room upon my Lady’s picture is the first to come, the
+last to be disturbed. At this hour and by this light it changes into
+threatening hands raised up and menacing the handsome face with every
+breath that stirs.
 
 “She is not [[Well|well]], ma’am,” says a groom in Mrs. Rouncewell’s
 audience-chamber.
@@ -116,28 +132,3 @@ him he treats as retail orders of less importance, merely sending
 down the men and signifying to the tradespeople, “You will have the
 goodness to make these materials into two members of Parliament and
 to send them [[Home|home]] when done.”
-
-“I regret to say, [[Volumnia]], that in many places the people have shown
-a bad spirit, and that this opposition to the [[government]] has been of
-a most determined and most implacable description.”
-
-“W-r-retches!” says [[Volumnia]].
-
-“Even,” proceeds Sir Leicester, glancing at the circumjacent cousins
-on sofas and ottomans, “even in many—in fact, in most—of those
-places in which the [[government]] has carried it against a faction—”
-
-(Note, by the way, that the Coodleites are always a faction with the
-Doodleites, and that the Doodleites occupy exactly the same position
-towards the Coodleites.)
-
-“—Even in them I am shocked, for the credit of Englishmen, to be
-constrained to inform you that the party has not triumphed without
-being put to an enormous expense. Hundreds,” says Sir Leicester,
-eyeing the cousins with increasing dignity and swelling indignation,
-“hundreds of thousands of pounds!”
-
-If [[Volumnia]] have a fault, it is the fault of being a trifle too
-[[Innocent|innocent]], seeing that the [[innocence]] which would go extremely [[Well|well]]
-with a sash and tucker is a little out of keeping with the rouge and
-pearl necklace. Howbeit, impelled by [[innocence]], she asks, “What for?”

@@ -1,5 +1,5 @@
 ---
-title: "[[Pride and Prejudice]] — Chapter 52 (part 2)"
+title: "Pride and Prejudice — Chapter 52 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/pride-and-prejudice-(austen)"

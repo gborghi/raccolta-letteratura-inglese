@@ -14,142 +14,104 @@ tags:
 </nav>
 
 
-The theory of a Guild, as distinct from Socialism as generally defined,
-and Capitalism as at present practised, is simply this.
-The men working in a particular trade remain independent tradesmen;
-in the sense that they are independent and therefore up to a
-point competitive.  Each is working for himself, with his own capital
-or machinery, and in that sense each is working against the others.
-But each has entered into an agreement with the others, that he will
-not compete past a certain point or work against the others in certain
-unfair and forbidden ways.  In other words, there is a competition,
-but it is a deliberately limited competition; or, if you will,
-an artificially limited competition.  The object is perfectly simple:
-that it should remain a competition, and not merely turn into a combine.
-Capitalist competition, which started avowedly as unlimited competition,
-has only been running freely for about a hundred years,
-and everywhere it has turned into a combine.  I use the word combine
-as a polite convention; for, of course, we all know that it involves
-no equality of combination.  The true story of the thing is that
-when all the shops are let loose to compete anyhow and everywhere,
-by any method good or bad, one shop swallows all the rest.
-To speak more rightly and worthily, one man swallows all the rest.
-It is very often, by the [[Nature|nature]] of the competition, the worst shop
-and the worst man.
+XXXIV.  On Thoughts in Canada
 
-Now the Guild method is no more medieval than it is modern, in so far
-as it is a principle apart from [[Time|time]].  The best proof is that it does
-still exist in a practical profession with which we are all acquainted.
-The Doctor, the ordinary general practitioner, whom most of us know
-and to whom many of us owe our lives, is a typical example of the member
-of a Guild.  He is not a Socialist official; he is not a State servant;
-he is an example of private enterprise.  That is to say, he owns
-his own lancet and stethoscope; he has to buy his own practice;
-he does in a certain degree compete with the men of his own trade.
-But he is forbidden to compete with them by certain methods;
-he is forbidden to drive another doctor out of his practice by certain
-expedients of [[Self|self]]-assertion or [[Self|self]]-advertisement.; he has to observe
-towards his fellow-doctor a certain respect and consideration.
-He has to do this because he has joined a Guild or confraternity,
-which exists for the maintenance of the members of his profession
-as a whole.  Its definite and deliberate policy is to keep all
-the doctors in existence, as far as possible, and prevent one of them
-destroying all the rest.  Once it is admitted that a man may use
-any methods of advancement and advertisement, the chances are that
-about twenty honest doctors will be swallowed up by one quack.
-We know this is what has happened in journalism and in commerce,
-and in any number of other things.
+I NEED not say what any normal Englishman feels, or ought to feel,
+when he sails up the St. Lawrence, under the high trophies
+on the Heights of Abraham, and I have never affected any new
+abnormality about such feeling.  My thoughts, when I was there,
+went back in one flash to the little town in the hills of Kent
+where I had been but a few weeks before:  the little town
+where James Wolfe was born and where his statue still stands,
+sword in hand, in a romantic but not inappropriate swagger.
+For Wolfe, who was one of the most interesting of English heroes,
+was himself a flat contradiction to the vulgar and prosaic version
+of English heroism.  It is strange that people should ever have
+talked of the English as if they must be heavy, stupid, and brutal.
+It is still more astounding that they should ever have been
+proud of being heavy, stupid, and brutal.  It would be nothing
+to be proud of; and, in fact, it is not even there for them to be
+ashamed of.  In historical fact, it is a very recent affectation:
+a mixture of the bad fashion of copying Prussia and the growth
+of a modern materialism which is solemn about sports because it
+has no other rites to solemnize.
 
-It is also to be noted that the other side of the old Guild idea,
-which balances this idea of preserving the small man in independence,
-the idea of testing him as to his claims to such independence,
-is also true of the modern doctor, as of the medieval Master.
-It is often regretted that Trade Unions do not insist,
-as did the Guilds, on a standard of work and finish.
-They cannot do so under modern conditions, because they exist
-to contend with another and specially modern evil.  But it is quite
-true that, before the Guild protected a man from unfair competition,
-it examined him in the mastery of his craft; and all that obviously
-corresponds to modern medical examinations and medical degrees.
-Now a man may quite reasonably disapprove of this system,
-just as I, in my own opinion, quite reasonably approve of it.
-He may say quite truly that it has evils of its own.  He may say
-quite tenably that in his view those evils outweigh the good.
-But his attitude is neither true nor tenable if he pretends that the case
-for this social system is a mass of romantic rubbish about the perfect
-[[Beauty|beauty]] of the Middle Ages.  He is simply making a [[Fool|fool]] of himself
-when he talks of the method by which all the most modern surgery
-accomplished and all the most [[Novel|novel]] medical theories advanced as if it
-were a mere fantastic dream of bringing back falconry and tilting-armour;
-or as if nobody could trust Sir Stanley Hewett or Sir Thomas Horder
-without wanting to wave a pennon or wear a tabard.
+Englishmen were more sportive about sports in the days of
+General James Wolfe; and the battle of the Heights of Abraham was
+won on the village green, with very rotten old bats and stumps.
+And the men who represented England, in the days when her Empire
+was really an adventure, were the very opposite of the sort of stuck
+pigs who are called strong, silent men.  Nelson and Wolfe, the two
+noblest names of England's action by land and sea, were both of them
+men of exactly the opposite kind:  sensitive, poetical, even cursed
+with what is called the artistic temperament.  Nelson suffered
+from something which is even worse than the artistic temperament--
+sea-sickness. Wolfe was of the slight and high-strung sort, and owed
+nothing of his bravery to brutality.  He was himself, I believe,
+an artist with the pencil, of considerable felicity and talent:
+he was devoted to books, and, whether he did or did not quote
+Gray's Elegy as he sailed up the St. Lawrence to death and glory,
+it was exactly the sort of thing he would have done.  But there is
+another aspect of the fine culture and dignity in Wolfe and the earlier
+English heroes which seems to me to teach a sad but salutary lesson.
+As I sailed past Quebec, I was told by a fellow-traveller a thing
+I had never heard before, which moved me very much.  With all our
+talk of globe-trotting and sightseeing, it seems to me that some
+of the finest sights of the globe are neglected or not appreciated.
+It was only by such a casual stranger that I was once told,
+what I hope is the truth, that on the mountain range between two
+South American Republics, which had made peace with each other,
+there stands a colossal figure of Christ; apparently one of the largest,
+and surely one of the most impressive, statues in the world.
+But it stands, if it does stand, alone and enormous upon the mountains.
 
-XXXVI.  On Sophistication
+Somewhat in the same way I had seen many tributes to Wolfe,
+of a worthy or unworthy sort.  I had seen him in patriotic posters,
+figuring side by side with people whom he would have intensely disliked,
+such as Cecil Rhodes.  But it was only this chance information
+which informed me that a monument has been set up on that high
+place to Wolfe and Montcalm together, with a fine Latin inscription
+saying that fate gave to them the same death and the same honour.
 
-SOME are complaining that the rising generation is sophisticated;
-and it is true that some members of it are too sophisticated even
-to believe in sophistry.  They believe in nothing; which I suppose
-is one way of returning to simplicity.  The [[Golden Age|golden age]] of the sophists
-was somewhere about the last half of the nineteenth century.
-The Victorians were lectured and led a [[Dance|dance]] by any number of sophists;
-but that was because the Victorians were unsophisticated.
-They believed the most crazy paradoxes; as that it was more practical
-not to be logical; which is like saying that we should make sure
-of having a chain and not bother whether it consists of missing links.
-They believed that men must always have the same [[morality]],
-though they had a new religion or no religion; that is, they said
-that what was done now for a definite reason would be done indefinitely
-for no reason.  Those sturdy Saxon ideas were all sophistries;
-but that did not mean that the sturdy Saxon who accepted them
-was necessarily a sophist.  What I think has really happened,
-in the ease of the more sophisticated youth of to-day, is that they
-have become sceptical of everything, including scepticism.
-And though two blacks do not make a white, it has sometimes been known,
-in grammar and [[philosophy]], that two negatives make a positive.
-So that the sophisticated youth who has seen through the sophistical
-old men, may even yet see something worth seeing.
+And when I thought of that worthy commemoration, of those two great
+and gallant soldiers, it occurred to me that they were, in truth,
+nearer together, even in their lifetime, than most of their kindred
+are to-day. There were real differences, of course; Montcalm was
+a noble and Wolfe a man of the middle classes, risen by merit;
+but their notion of the manners, the code of honour, and the necessary
+information of a gentleman would have been very much the same.
+Neither would have thought it odd for a soldier to go about
+quoting poetry; both would have thought it quite ordinary and obvious
+to be quoting Horace.  I fancy there was a far wider division,
+at the beginning of the Great War, between French and Foch.
+The older generals were nearer together as enemies than the modern
+generals were as allies.  By which I do not mean to refer
+to any of the quarrels about quarrels, the reports of rivalries
+or irritations in the higher command, which occur in all wars,
+and can easily occur between fellow-countrymen. I mean that the whole
+make-up of the mind of a man like Foch was more exclusively French,
+and more puzzling to a man who was exclusively English, than was
+a great continental noble to a scholarly Englishman like Wolfe.
+The Latin of Horace was a link between two eighteenth-century gentlemen,
+whether French or English.  The Latin of the Mass, as heard by a
+French soldier, is not a link with the Latin of the Latin grammar
+as vaguely remembered by an English soldier.
 
-But there is one way in which the young seem to me not sophistical
-but very simple; and there is one type or section of them that is
-sufficiently simple to be called silly.  A great deal of the current
-cult of pleasure, of luxury, of liberty in [[Love|love]], and all the rest of it,
-appears to me to be perfectly childish and childish in the literal
-sense that it is greedy without any grasp of consequences.
-I read novels and [[Poems|poems]] in which the seeker after pleasure simply
-goes on saying, over and over again:  `I must have Happiness.
-I must have Life.  I must have Love.  Why do you reproach me because I
-cannot live without passing from ecstasy to ecstasy?'  This seems
-to me about as simple as the speech of a savage who should say:
-`I must have Gin.  I like Gin.  I like more and more Gin.
-Why will you not instantly provide me with a hundred bottles
-of Gin?'  It does not seem to require much intellectual
-strenuousness to say this.  It is, like other simple things,
-quite true as far as it goes.  But in the matter of connected
-thought and the sense of consequence it does not go very far.
-Gin does make a man happy; up to a point more gin will make him
-more happy; but even more gin will make him many other things as [[Well|well]].
-By a succession of phases not contemplated by the philosopher
-in his first phase, it will make him first drunk, then dead drunk,
-and then dead to the world, and then very possibly dead altogether.
-That also seems to be a simple [[Truth|truth]], requiring no great subtlety;
-but the savage cannot see it, and the sex novelist cannot see it.
-He cannot see, what nearly everybody in [[history]] has hitherto seen,
-that there are certain laws and limits to the mind, as there
-are certain laws and limits to the [[Body|body]].  There is such a thing
-as concentration; there is such a thing as contrast; there is such
-a thing as proportion; there is emphatically such a thing as boredom.
-Above all, there is such a thing as a contradiction in terms;
-and it is a contradiction in terms to have every moment a crisis,
-every event an escapade, every fact an exception, every person
-an eccentric, every day a holiday, or society an endless Saturnalia.
-If people try to do that, they will find it dull; just as certainly as,
-if they drink unlimited gin, we shall find them drunk.
-If you do literally paint the town red, you will not be able to use
-it as a background, either to the red [[Flag|flag]] of Bolshevism or the red
-flower of a blameful life.  If you do literally go on till all is blue,
-you will not be able to distinguish the special and delicate
-blueness even of the decadents' blue roses and blue wine.
-These are laws of the mind, analogous to laws of the eye.
-And the laws of the eye are not altered by everybody putting on
-the same sort of horned spectacles, that each one of them may look
-separate and distinguished.
+We are perpetually being told to-day that nations are drawing nearer to
+each other; Mr. Wells is supposed to be engaged in an Open Conspiracy in
+the matter; I can only say that, if it is open, it is not at all obvious.
+I grieve to say that I gravely doubt it.  I fear that the French
+and English, at this moment, understand each other a great deal
+less than they did not only when they were allies in the Great War,
+but even when they were enemies in the older and lesser wars.
+Indeed, the farther we go back the closer the French and English
+come together.  The Black Prince and Bertrand Duguesclin were even
+more capable of understanding each other than Montcalm and Wolfe.
+That would not, of course, have prevented them from killing each other,
+which was all in the game.  But they would have agreed much more about
+the rules of the game, and especially about the rules of the killing.
+The truth is, of course, that France and England were very nearly
+one nation in the Middle Ages; at least, in the early Middle Ages.
+The English kings especially were always trying to make them one nation;
+but then it must be remembered that, in a sense, even the English
+kings were French kings.

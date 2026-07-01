@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 12"
+title: "The Professor — Chapter 12"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-professor-(bronte)"
@@ -16,8 +16,6 @@ tags:
 
 CHAPTER XII.
 
-
-
 DAILY, as I continued my attendance at the seminary of Mdlle. Reuter,
 
 did I find fresh occasions to compare the ideal with the real. What
@@ -31,8 +29,6 @@ gauzy, glittering; now when I came in contact with it I found it to be
 a palpable substance enough; very hard too sometimes, and often heavy;
 
 there was metal in it, both lead and iron.
-
-
 
 Let the idealists, the dreamers about earthly angel and human [[Flowers|flowers]],
 
@@ -118,8 +114,6 @@ yet was the mass of them mentally depraved. So much for the general
 
 view: now for one or two selected specimens.
 
-
-
 The first picture is a full length of Aurelia Koslow, a German fraulein,
 
 or rather a half-breed between German and Russian. She is eighteen years
@@ -202,8 +196,6 @@ sullen muttering, where I hear myself abused in bad French, pronounced
 
 with an intolerable Low German accent.
 
-
-
 Not far from Mdlle. Koslow sits another young lady by name Adele
 
 Dronsart: this is a Belgian, rather low of stature, in form heavy,
@@ -242,8 +234,6 @@ and perfidious smile. She was shunned by her fellow-pupils, for, bad as
 
 many of them were, few were as bad as she.
 
-
-
 Aurelia and Adele were in the first division of the second class; the
 
 second division was headed by a pensionnaire named Juanna Trista. This
@@ -273,8 +263,6 @@ had rather good, though large and marked features; her temperament was
 fibrous and bilious, her complexion pale and dark, hair and eyes black,
 
 form angular and rigid but proportionate, age fifteen.
-
-
 
 Juanna was not very thin, but she had a gaunt visage, and her “regard”
 
@@ -330,13 +318,9 @@ Isles, exulting in the thought that she should there have slaves, whom,
 
 as she said, she could kick and strike at will.
 
-
-
 These three pictures are from the life. I possess others, as marked and
 
 as little agreeable, but I will spare my reader the exhibition of them.
-
-
 
 Doubtless it will be thought that I ought now, by way of contrast, to
 
@@ -392,8 +376,6 @@ establishment; pale, blighted image, where life lingered feebly, but
 
 whence the [[Soul|soul]] had been conjured by Romish wizard-craft!
 
-
-
 A few English pupils there were in this school, and these might be
 
 divided into two classes. 1st. The continental English--the daughters
@@ -422,8 +404,6 @@ browbeating from their Popish fellow-pupils, who hated them as English,
 
 and scorned them as heretics.
 
-
-
 The second class were British English. Of these I did not encounter half
 
 a dozen during the whole [[Time|time]] of my attendance at the seminary; their
@@ -451,8 +431,6 @@ insult with austere civility, and met hate with mute disdain; they
 eschewed company-keeping, and in the midst of numbers seemed to dwell
 
 isolated.
-
-
 
 The teachers presiding over this mixed multitude were three in number,
 
@@ -489,8 +467,6 @@ should think she possessed but little, as her pupils seemed constantly
 “en revolte” against her authority. She did not reside in the [[house]]; her
 
 name, I think, was Mdlle. Henri.
-
-
 
 Amidst this assemblage of all that was insignificant and defective, much
 
@@ -568,15 +544,13 @@ though mute mortification. Still she persevered, and at last, I am bound
 
 to confess it, her finger, essaying, proving every atom of the casket,
 
-touched its secret [[spring]], and for a moment the lid sprung open; she
+touched its secret [[Spring|spring]], and for a moment the lid sprung open; she
 
 laid her hand on the [[Jewel|jewel]] within; whether she stole and broke it, or
 
 whether the lid shut again with a snap on her fingers, read on, and you
 
 shall know.
-
-
 
 It happened that I came one day to give a lesson when I was indisposed;
 
@@ -612,8 +586,6 @@ mind was full of impatience for the afternoon of the next day to arrive,
 
 that I might see her again.
 
-
-
 I was not disappointed, for she sat in the class during the whole of my
 
 subsequent lesson, and often looked at me almost with affection. At four
@@ -632,23 +604,15 @@ at the sunshine and [[Flowers|flowers]], and felt very happy. The day-scholars b
 
 to pour from the schoolrooms into the passage.
 
-
-
 “Will you go into the [[Garden|garden]] a minute or two,” asked she, “till they are
 
 gone?”
-
-
 
 I descended the steps without answering, but I looked back as much as to
 
 say--
 
-
-
 “You will come with me?”
-
-
 
 In another minute I and the directress were walking side by side down
 
@@ -686,27 +650,15 @@ rang, both at her [[house]] and M. Pelet’s; we were obliged to part; I
 
 detained her a moment as she was moving away.
 
-
-
 “I want something,” said I.
-
-
 
 “What?” asked Zoraide naively.
 
-
-
 “Only a flower.”
-
-
 
 “Gather it then--or two, or twenty, if you like.”
 
-
-
 “No--one will do--but you must gather it, and give it to me.”
-
-
 
 “What a caprice!” she exclaimed, but she raised herself on her tip-toes,
 
@@ -715,8 +667,6 @@ and, plucking a beautiful branch of lilac, offered it to me with grace.
 I took it, and went away, satisfied for the present, and hopeful for the
 
 future.
-
-
 
 Certainly that May day was a lovely one, and it closed in moonlight
 
@@ -769,8 +719,6 @@ which [[Rose|rose]] white beyond the masses of foliage. I wondered in what part
 of the building was situated her apartment; and a single light, shining
 
 through the persiennes of one croisee, seemed to direct me to it.
-
-
 
 “She watches late,” thought I, “for it must be now near midnight. She
 
@@ -868,29 +816,19 @@ arm-in-arm, or hand-in-hand (I forget which) with my principal,
 
 confidant, and counsellor, M. Francois Pelet. And M. Pelet was saying--
 
-
-
 “A quand donc le jour des noces, ma bien-aimee?”
 
-
-
 And Mdlle. Reuter answered--
-
-
 
 “Mais, Francois, tu sais bien qu’il me serait impossible de me marier
 
 avant les vacances.”
-
-
 
 “June, July, August, a whole quarter!” exclaimed the director. “How can
 
 I wait so long?--I who am ready, even now, to expire at your feet with
 
 impatience!”
-
-
 
 “Ah! if you die, the whole affair will be settled without any trouble
 
@@ -899,8 +837,6 @@ about notaries and contracts; I shall only have to order a slight
 mourning dress, which will be much sooner prepared than the nuptial
 
 trousseau.”
-
-
 
 “Cruel Zoraide! you laugh at the distress of one who loves you so
 
@@ -914,19 +850,11 @@ presumed to fall in [[Love|love]], which he dared not have done unless you had
 
 given him room to [[Hope|hope]].”
 
-
-
 “What do you say, Francois? Do you say Crimsworth is in [[Love|love]] with me?”
-
-
 
 “Over head and ears.”
 
-
-
 “Has he told you so?”
-
-
 
 “No--but I see it in his face: he blushes whenever your name is
 
@@ -948,8 +876,6 @@ thought it). I heard her disclaim any intentions on the subject--the
 
 director, however, still pressed her to give a definite answer.
 
-
-
 “Francois,” said she, “you are jealous,” and still she laughed; then, as
 
 if suddenly recollecting that this coquetry was not consistent with the
@@ -970,8 +896,6 @@ dear friend.” Still Pelet uttered murmurs of distrust--so I judged, at
 
 least, from her reply.
 
-
-
 “What folly! How could I prefer an unknown foreigner to you? And
 
 then--not to flatter your [[Vanity|vanity]]--Crimsworth could not bear comparison
@@ -981,8 +905,6 @@ with you either physically or mentally; he is not a handsome man at all;
 some may call him gentleman-like and intelligent-looking, but for my
 
 part--”
-
-
 
 The rest of the sentence was lost in the distance, as the pair, rising
 

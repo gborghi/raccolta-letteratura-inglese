@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 6: I ENLARGE MY CIRCLE OF ACQUAINTANCE (part 2)"
+title: "David Copperfield — Chapter 6: I ENLARGE MY CIRCLE OF ACQUAINTANCE (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"

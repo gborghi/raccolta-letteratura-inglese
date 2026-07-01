@@ -1,5 +1,5 @@
 ---
-title: "[[Twelfth Night]] — Act II, Scene 5 — exchange ([[Malvolio|MALVOLIO]]) [2]"
+title: "Twelfth Night — Act II, Scene 5 — exchange (MALVOLIO) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/twelfth-night-(shakespeare)"

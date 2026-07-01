@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 12 (part 3)"
+title: "Our Mutual Friend — Chapter 16 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,129 +14,154 @@ tags:
 </nav>
 
 
-‘Mrs Rokesmith,’—her husband was beginning; when Mr Inspector,
-regarding the words as an introduction, said, ‘Happy I am sure, to have
-the [[Honour|honour]].’ And bowed, with gallantry.
+This visit was, as has been said, a grand event. Another event, not
+grand but deemed in the [[house]] a special one, occurred at about the same
+period; and this was, the first interview between Mr Sloppy and Miss
+Wren.
 
-‘Mrs Rokesmith,’ resumed her husband, ‘is satisfied that she can have no
-reason for being alarmed, whatever the business is.’
+The dolls’ dressmaker, being at work for the Inexhaustible upon a
+full-dressed doll some two sizes larger than that young person, Mr
+Sloppy undertook to call for it, and did so.
 
-‘Really? Is that so?’ said Mr Inspector. ‘But it’s a sex to live and
-learn from, and there’s nothing a lady can’t accomplish when she once
-fully gives her mind to it. It’s the case with my own wife. [[Well]], ma’am,
-this good gentleman of yours has given rise to a rather large amount
-of trouble which might have been avoided if he had come forward and
-explained himself. [[Well]] you see! He DIDN’T come forward and explain
-himself. Consequently, now that we meet, him and me, you’ll say—and say
-right—that there’s nothing to be alarmed at, in my proposing to him
-TO come forward—or, putting the same meaning in another form, to come
-along with me—and explain himself.’
+‘Come in, sir,’ said Miss Wren, who was working at her bench. ‘And who
+may you be?’
 
-When Mr Inspector put it in that other form, ‘to come along with me,’
-there was a relishing roll in his voice, and his eye beamed with an
-official lustre.
+Mr Sloppy introduced himself by name and buttons.
 
-‘Do you propose to take me into custody?’ inquired John Rokesmith, very
-coolly.
+‘Oh indeed!’ cried Jenny. ‘Ah! I have been looking forward to knowing
+you. I heard of your distinguishing yourself.’
 
-‘Why argue?’ returned Mr Inspector in a comfortable sort of
-remonstrance; ‘ain’t it enough that I propose that you shall come along
-with me?’
+‘Did you, Miss?’ grinned Sloppy. ‘I am sure I am glad to hear it, but I
+don’t know how.’
 
-‘For what reason?’
+‘Pitching somebody into a mud-cart,’ said Miss Wren.
 
-‘Lord bless my [[Soul|soul]] and [[Body|body]]!’ returned Mr Inspector, ‘I [[Wonder|wonder]] at it in
-a man of your [[Education|education]]. Why argue?’
+‘Oh! That way!’ cried Sloppy. ‘Yes, Miss.’ And threw back his head and
+laughed.
 
-‘What do you charge against me?’
+‘Bless us!’ exclaimed Miss Wren, with a start. ‘Don’t open your mouth
+as wide as that, young man, or it’ll catch so, and not shut again some
+day.’
 
-‘I [[Wonder|wonder]] at you before a lady,’ said Mr Inspector, shaking his head
-reproachfully: ‘I [[Wonder|wonder]], brought up as you have been, you haven’t a
-more delicate mind! I charge you, then, with being some way concerned
-in the Harmon Murder. I don’t say whether before, or in, or after, the
-fact. I don’t say whether with having some knowledge of it that hasn’t
-come out.’
+Mr Sloppy opened it, if possible, wider, and kept it open until his
+laugh was out.
 
-‘You don’t surprise me. I foresaw your visit this afternoon.’
+‘Why, you’re like the giant,’ said Miss Wren, ‘when he came [[Home|home]] in the
+land of Beanstalk, and wanted Jack for supper.’
 
-‘Don’t!’ said Mr Inspector. ‘Why, why argue? It’s my duty to inform you
-that whatever you say, will be used against you.’
+‘Was he good-looking, Miss?’ asked Sloppy.
 
-‘I don’t think it will.’
+‘No,’ said Miss Wren. ‘Ugly.’
 
-‘But I tell you it will,’ said Mr Inspector. ‘Now, having received the
-caution, do you still say that you foresaw my visit this afternoon?’
+Her visitor glanced round the room—which had many comforts in it now,
+that had not been in it before—and said: ‘This is a pretty place,
+Miss.’
 
-‘Yes. And I will say something more, if you will step with me into the
-next room.’
+‘Glad you think so, sir,’ returned Miss Wren. ‘And what do you think of
+Me?’
 
-With a reassuring kiss on the lips of the frightened Bella, her husband
-(to whom Mr Inspector obligingly offered his arm), took up a candle, and
-withdrew with that gentleman. They were a full half-hour in conference.
-When they returned, Mr Inspector looked considerably astonished.
+The honesty of Mr Sloppy being severely taxed by the question, he
+twisted a button, grinned, and faltered.
 
-‘I have invited this worthy officer, my dear,’ said John, ‘to make a
-short excursion with me in which you shall be a sharer. He will take
-something to eat and drink, I dare say, on your invitation, while you
-are getting your bonnet on.’
+‘Out with it!’ said Miss Wren, with an arch look. ‘Don’t you think me
+a queer little comicality?’ In shaking her head at him after asking the
+question, she shook her hair down.
 
-Mr Inspector declined eating, but assented to the proposal of a glass of
-brandy and [[Water|water]]. Mixing this cold, and pensively consuming it, he broke
-at intervals into such soliloquies as that he never did know such a
-move, that he never had been so gravelled, and that what a game was
-this to try the sort of stuff a man’s opinion of himself was made
-of! Concurrently with these comments, he more than once burst out a
-laughing, with the half-enjoying and half-piqued air of a man, who
-had given up a good conundrum, after much guessing, and been told the
-answer. Bella was so timid of him, that she noted these things in a
-half-shrinking, half-perceptive way, and similarly noted that there was
-a great change in his manner towards John. That coming-along-with-him
-deportment was now lost in long musing looks at John and at herself and
-sometimes in slow heavy rubs of his hand across his forehead, as if he
-were ironing out the creases which his deep pondering made there. He had
-had some coughing and whistling satellites secretly gravitating towards
-him about the premises, but they were now dismissed, and he eyed John as
-if he had meant to do him a public service, but had unfortunately been
-anticipated. Whether Bella might have noted anything more, if she
-had been less afraid of him, she could not determine; but it was all
-inexplicable to her, and not the faintest flash of the real state of the
-case broke in upon her mind. Mr Inspector’s increased notice of herself
-and knowing way of raising his eyebrows when their eyes by any chance
-met, as if he put the question ‘Don’t you see?’ augmented her timidity,
-and, consequently, her perplexity. For all these reasons, when he
-and she and John, at towards nine o’[[Clock|clock]] of a [[Winter|winter]] evening went to
-[[London]], and began driving from [[London]] Bridge, among low-lying [[Water|water]]-side
-wharves and docks and strange places, Bella was in the state of a
-dreamer; perfectly unable to account for her being there, perfectly
-unable to forecast what would happen next, or whither she was going, or
-why; certain of nothing in the immediate present, but that she confided
-in John, and that John seemed somehow to be getting more triumphant. But
-what a certainty was that!
+‘Oh!’ cried Sloppy, in a burst of admiration. ‘What a lot, and what a
+colour!’
 
-They alighted at last at the corner of a [[Court|court]], where there was a
-building with a bright lamp and wicket gate. Its orderly appearance was
-very unlike that of the surrounding neighbourhood, and was explained by
-the [[Inscription|inscription]] POLICE STATION.
+Miss Wren, with her usual expressive hitch, went on with her work. But,
+left her hair as it was; not displeased by the effect it had made.
 
-‘We are not going in here, John?’ said Bella, clinging to him.
+‘You don’t live here [[Alone|alone]]; do you, Miss?’ asked Sloppy.
 
-‘Yes, my dear; but of our own accord. We shall come out again as easily,
-never [[Fear|fear]].’
+‘No,’ said Miss Wren, with a chop. ‘Live here with my fairy godmother.’
 
-The whitewashed room was pure white as of old, the methodical
-book-keeping was in peaceful progress as of old, and some distant howler
-was banging against a cell door as of old. The sanctuary was not a
-permanent abiding-place, but a kind of criminal Pickford’s. The lower
-passions and vices were regularly ticked off in the books, warehoused in
-the cells, carted away as per accompanying invoice, and left little mark
-upon it.
+‘With;’ Mr Sloppy couldn’t make it out; ‘with who did you say, Miss?’
 
-Mr Inspector placed two chairs for his visitors, before the [[Fire|fire]], and
-communed in a low voice with a brother of his order (also of a half-pay,
-and Royal Arms aspect), who, judged only by his occupation at the
-moment, might have been a writing-master, setting copies. Their
-conference done, Mr Inspector returned to the fireplace, and, having
-observed that he would step round to the Fellowships and see how matters
-stood, went out. He soon came back again, saying, ‘Nothing could be
-better, for they’re at supper with Miss Abbey in the bar;’ and then they
-all three went out together.
+‘[[Well]]!’ replied Miss Wren, more seriously. ‘With my second father. Or
+with my first, for that matter.’ And she shook her head, and drew a
+sigh. ‘If you had known a poor [[Child|child]] I used to have here,’ she added,
+‘you’d have understood me. But you didn’t, and you can’t. All the
+better!’
+
+‘You must have been taught a long [[Time|time]],’ said Sloppy, glancing at the
+array of dolls in hand, ‘before you came to work so neatly, Miss, and
+with such a pretty taste.’
+
+‘Never was taught a stitch, young man!’ returned the dress-maker,
+tossing her head. ‘Just gobbled and gobbled, till I found out how to do
+it. Badly enough at first, but better now.’
+
+‘And here have I,’ said Sloppy, in something of a [[Self|self]]-reproachful tone,
+‘been a learning and a learning, and here has Mr Boffin been a paying
+and a paying, ever so long!’
+
+‘I have heard what your trade is,’ observed Miss Wren; ‘it’s
+cabinet-making.’
+
+Mr Sloppy nodded. ‘Now that the Mounds is done with, it is. I’ll tell
+you what, Miss. I should like to make you something.’
+
+‘Much obliged. But what?’
+
+‘I could make you,’ said Sloppy, surveying the room, ‘I could make you
+a handy set of nests to lay the dolls in. Or I could make you a handy
+little set of drawers, to keep your silks and threads and scraps in. Or
+I could turn you a rare handle for that crutch-stick, if it belongs to
+him you call your father.’
+
+‘It belongs to me,’ returned the little creature, with a quick flush of
+her face and neck. ‘I am lame.’
+
+Poor Sloppy flushed too, for there was an instinctive delicacy behind
+his buttons, and his own hand had struck it. He said, perhaps, the best
+thing in the way of amends that could be said. ‘I am very glad it’s
+yours, because I’d rather ornament it for you than for any one else.
+Please may I look at it?’
+
+Miss Wren was in the act of handing it to him over her bench, when she
+paused. ‘But you had better see me use it,’ she said, sharply. ‘This is
+the way. Hoppetty, Kicketty, Pep-peg-peg. Not pretty; is it?’
+
+‘It seems to me that you hardly want it at all,’ said Sloppy.
+
+The little dressmaker sat down again, and gave it into his hand, saying,
+with that better look upon her, and with a smile: ‘Thank you!’
+
+‘And as concerning the nests and the drawers,’ said Sloppy, after
+measuring the handle on his sleeve, and softly standing the stick aside
+against the wall, ‘why, it would be a real pleasure to me. I’ve heerd
+tell that you can sing most beautiful; and I should be better paid with
+a [[Song|song]] than with any money, for I always loved the likes of that, and
+often giv’ Mrs Higden and Johnny a comic [[Song|song]] myself, with “Spoken” in
+it. Though that’s not your sort, I’ll wager.’
+
+‘You are a very kind young man,’ returned the dressmaker; ‘a really kind
+young man. I accept your offer.—I suppose He won’t mind,’ she added as
+an afterthought, shrugging her shoulders; ‘and if he does, he may!’
+
+‘Meaning him that you call your father, Miss,’ asked Sloppy.
+
+‘No, no,’ replied Miss Wren. ‘Him, Him, Him!’
+
+‘Him, him, him?’ repeated Sloppy; staring about, as if for Him.
+
+‘Him who is coming to [[Court|court]] and marry me,’ returned Miss Wren. ‘Dear me,
+how slow you are!’
+
+‘Oh! HIM!’ said Sloppy. And seemed to turn thoughtful and a little
+troubled. ‘I never thought of him. When is he coming, Miss?’
+
+‘What a question!’ cried Miss Wren. ‘How should I know!’
+
+‘Where is he coming from, Miss?’
+
+‘Why, good gracious, how can I tell! He is coming from somewhere or
+other, I suppose, and he is coming some day or other, I suppose. I don’t
+know any more about him, at present.’
+
+This tickled Mr Sloppy as an extraordinarily good joke, and he threw
+back his head and laughed with measureless enjoyment. At the sight of
+him laughing in that absurd way, the dolls’ dressmaker laughed very
+heartily indeed. So they both laughed, till they were tired.

@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 27 (part 6)"
+title: "Villette — Chapter 27 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,30 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_28/part_05">‹ part 05</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_29/part_01">part 01 ›</a></div>
 </nav>
 
+
+Ginevra was long in coming: tedious seemed her loitering. M. Paul was
+still there; my ear expected from his lips an angry tone. He came
+nearer. “Now for another hiss!” thought I: had not the action been too
+uncivil I could have stopped my ears with my fingers in terror of the
+thrill. Nothing happens as we expect: listen for a coo or a murmur; it
+is then you will hear a cry of prey or [[Pain|pain]]. Await a piercing shriek,
+an angry threat, and welcome an amicable greeting, a low kind whisper.
+M. Paul spoke gently:—“Friends,” said he, “do not quarrel for a word.
+Tell me, was it I or ce grand fat d’Anglais” (so he profanely
+denominated Dr. Bretton), “who made your eyes so humid, and your cheeks
+so hot as they are even now?”
+
+“I am not conscious of you, monsieur, or of any other having excited
+such emotion as you indicate,” was my answer; and in giving it, I again
+surpassed my usual [[Self|self]], and achieved a neat, frosty falsehood.
+
+“But what did I say?” he pursued; “tell me: I was angry: I have
+forgotten my words; what were they?”
+
+“Such as it is best to forget!” said I, still quite calm and chill.
+
+“Then it was _my_ words which wounded you? Consider them unsaid: permit
+my retractation; accord my pardon.”
 
 “I am not angry, Monsieur.”
 

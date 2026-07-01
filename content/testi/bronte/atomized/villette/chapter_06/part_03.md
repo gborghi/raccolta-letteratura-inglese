@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 6 (part 3)"
+title: "Villette — Chapter 6 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_06/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_06/part_04">part 04 ›</a></div>
 </nav>
 
+
+The other lady passenger, with the gentleman-companion, was quite a
+girl, pretty and fair: her simple print dress, untrimmed straw-bonnet
+and large shawl, gracefully worn, formed a costume plain to quakerism:
+yet, for her, becoming enough. Before the gentleman quitted her, I
+observed him throwing a glance of scrutiny over all the passengers, as
+if to ascertain in what company his charge would be left. With a most
+dissatisfied air did his eye turn from the ladies with the gay [[Flowers|flowers]];
+he looked at me, and then he spoke to his daughter, niece, or whatever
+she was: she also glanced in my direction, and slightly curled her
+short, pretty lip. It might be myself, or it might be my homely
+mourning habit, that elicited this mark of contempt; more likely, both.
+A bell rang; her father (I afterwards knew that it was her father)
+kissed her, and returned to land. The packet sailed.
 
 Foreigners say that it is only English girls who can thus be trusted to
 travel [[Alone|alone]], and deep is their [[Wonder|wonder]] at the daring confidence of
@@ -144,20 +158,3 @@ yellow fever in India, and he is still the colour of a guinea; but then
 he is rich, and Augusta has her carriage and establishment, and we all
 think she has done perfectly [[Well|well]]. Now, this is better than ‘earning a
 living,’ as you say. By the way, are you clever?”
-
-“No—not at all.”
-
-“You can play, sing, speak three or four languages?”
-
-“By no means.”
-
-“Still I think you are clever” (a pause and a yawn).
-
-“Shall you be sea-sick?”
-
-“Shall you?”
-
-“Oh, immensely! as soon as ever we get in sight of the sea: I begin,
-indeed, to feel it already. I shall go below; and won’t I order about
-that fat odious stewardess! Heureusement je sais faire aller mon
-monde.”

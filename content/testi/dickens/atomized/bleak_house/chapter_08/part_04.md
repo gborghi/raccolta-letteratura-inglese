@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 8 (part 4)"
+title: "Bleak House — Chapter 8 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -119,9 +119,3 @@ to their ages and their little means; and then Mr. Pardiggle brings
 up the rear. Mr. Pardiggle is happy to throw in his limited donation,
 under my direction; and thus things are made not only pleasant to
 ourselves, but, we trust, improving to others.”
-
-Suppose Mr. Pardiggle were to dine with Mr. Jellyby, and suppose Mr.
-Jellyby were to relieve his mind after dinner to Mr. Pardiggle, would
-Mr. Pardiggle, in return, make any confidential communication to Mr.
-Jellyby? I was quite confused to find myself thinking this, but it
-came into my head.

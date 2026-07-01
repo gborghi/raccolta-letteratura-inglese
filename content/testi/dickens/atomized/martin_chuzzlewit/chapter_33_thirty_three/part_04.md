@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 33: THIRTY THREE (part 4)"
+title: "Martin Chuzzlewit — Chapter 33: THIRTY THREE (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_33_thirty_three/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_33_thirty_three/part_05">part 05 ›</a></div>
 </nav>
 
+
+‘And what’s that?’ asked Mark.
+
+‘Europian not to know,’ said Chollop, smoking placidly. ‘Europian
+quite!’
+
+After a short devotion to the interests of the [[Magic|magic]] circle, he resumed
+the conversation by observing:
 
 ‘You won’t half feel yourself at [[Home|home]] in Eden, now?’
 
@@ -144,21 +152,3 @@ the help of a stick and Mark’s arm; and even then his recovery, for want
 of wholesome air and proper nourishment, was very slow. He was yet in a
 feeble and weak condition, when the misfourtune he had so much dreaded
 fell upon them. Mark was taken ill.
-
-Mark fought against it; but the malady fought harder, and his efforts
-were in vain.
-
-‘Floored for the present, sir,’ he said one morning, sinking back upon
-his bed; ‘but jolly!’
-
-Floored indeed, and by a heavy blow! As any one but Martin might have
-known beforehand.
-
-If Mark’s friends had been kind to Martin (and they had been very), they
-were twenty times kinder to Mark. And now it was Martin’s turn to work,
-and sit beside the bed and watch, and listen through the long, long
-nights, to every sound in the gloomy wilderness; and hear poor Mr
-Tapley, in his wandering fancy, playing at skittles in the Dragon,
-making [[Love|love]]-remonstrances to Mrs Lupin, getting his sea-legs on board
-the Screw, travelling with old [[Tom Pinch]] on English roads, and burning
-stumps of trees in Eden, all at once.

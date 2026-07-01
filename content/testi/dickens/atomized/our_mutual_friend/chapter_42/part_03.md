@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 1 (part 3)"
+title: "Our Mutual Friend — Chapter 4 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,144 +14,126 @@ tags:
 </nav>
 
 
-‘I tell you, Fledgeby,’ repeated Lammle, with a sweep of his right arm,
-‘the whole thing’s wrong. The game’s up.’
+Bella helped him with his supplemental cookery, and made him very happy,
+but put him in mortal terror too by asking him when they sat down at
+table again, how he supposed they cooked fowls at the Greenwich dinners,
+and whether he believed they really were such pleasant dinners as people
+said? His secret winks and nods of remonstrance, in reply, made the
+mischievous Bella laugh until she choked, and then [[Lavinia]] was obliged
+to slap her on the back, and then she laughed the more.
 
-‘What game’s up?’ demanded Fledgeby, as slowly as before, and more
-sternly.
+But her mother was a fine corrective at the other end of the table; to
+whom her father, in the [[innocence]] of his good-fellowship, at intervals
+appealed with: ‘My dear, I am afraid you are not enjoying yourself?’
 
-‘THE game. OUR game. Read that.’
+‘Why so, R. W.?’ she would sonorously reply.
 
-Fledgeby took a note from his extended hand and read it aloud. ‘Alfred
-Lammle, Esquire. Sir: Allow Mrs Podsnap and myself to express our united
-sense of the polite attentions of Mrs Alfred Lammle and yourself towards
-our daughter, Georgiana. Allow us also, wholly to reject them for the
-future, and to communicate our final [[Desire|desire]] that the two families
-may become entire strangers. I have the [[Honour|honour]] to be, Sir, your most
-obedient and very humble servant, JOHN PODSNAP.’ Fledgeby looked at the
-three blank sides of this note, quite as long and earnestly as at the
-first expressive side, and then looked at Lammle, who responded with
-another extensive sweep of his right arm.
+‘Because, my dear, you seem a little out of sorts.’
 
-‘Whose doing is this?’ said Fledgeby.
+‘Not at all,’ would be the rejoinder, in exactly the same tone.
 
-‘Impossible to imagine,’ said Lammle.
+‘Would you take a merry-thought, my dear?’
 
-‘Perhaps,’ suggested Fledgeby, after reflecting with a very discontented
-brow, ‘somebody has been giving you a bad character.’
+‘Thank you. I will take whatever you please, R. W.’
 
-‘Or you,’ said Lammle, with a deeper frown.
+‘[[Well]], but my dear, do you like it?’
 
-Mr Fledgeby appeared to be on the verge of some mutinous expressions,
-when his hand happened to touch his nose. A certain remembrance
-connected with that feature operating as a timely warning, he took it
-thoughtfully between his thumb and forefinger, and pondered; Lammle
-meanwhile eyeing him with furtive eyes.
+‘I like it as [[Well|well]] as I like anything, R. W.’ The stately woman would
+then, with a meritorious appearance of devoting herself to the general
+good, pursue her dinner as if she were feeding somebody else on high
+public grounds.
 
-‘[[Well]]!’ said Fledgeby. ‘This won’t improve with talking about. If we
-ever find out who did it, we’ll mark that person. There’s nothing more
-to be said, except that you undertook to do what circumstances prevent
-your doing.’
+Bella had brought dessert and two bottles of wine, thus shedding
+unprecedented splendour on the occasion. Mrs Wilfer did the honours of
+the first glass by proclaiming: ‘R. W. I drink to you.
 
-‘And that you undertook to do what you might have done by this [[Time|time]], if
-you had made a prompter use of circumstances,’ snarled Lammle.
+‘Thank you, my dear. And I to you.’
 
-‘Hah! That,’ remarked Fledgeby, with his hands in the Turkish trousers,
-‘is matter of opinion.’
+‘Pa and Ma!’ said Bella.
 
-‘Mr Fledgeby,’ said Lammle, in a bullying tone, ‘am I to understand that
-you in any way reflect upon me, or hint dissatisfaction with me, in this
-affair?’
+‘Permit me,’ Mrs Wilfer interposed, with outstretched glove. ‘No. I
+think not. I drank to your papa. If, however, you insist on including
+me, I can in gratitude offer no objection.’
 
-‘No,’ said Fledgeby; ‘provided you have brought my promissory note in
-your pocket, and now hand it over.’
+‘Why, Lor, Ma,’ interposed Lavvy the bold, ‘isn’t it the day that made
+you and Pa one and the same? I have no patience!’
 
-Lammle produced it, not without reluctance. Fledgeby looked at it,
-identified it, twisted it up, and threw it into the [[Fire|fire]]. They both
-looked at it as it blazed, went out, and flew in feathery ash up the
-chimney.
+‘By whatever other circumstance the day may be marked, it is not the
+day, [[Lavinia]], on which I will allow a [[Child|child]] of mine to pounce upon me.
+I beg—nay, command!—that you will not pounce. R. W., it is appropriate
+to recall that it is for you to command and for me to obey. It is your
+[[house]], and you are master at your own table. Both our healths!’ Drinking
+the toast with tremendous stiffness.
 
-‘NOW, Mr Fledgeby,’ said Lammle, as before; ‘am I to understand that
-you in any way reflect upon me, or hint dissatisfaction with me, in this
-affair?’
+‘I really am a little afraid, my dear,’ hinted the cherub meekly, ‘that
+you are not enjoying yourself?’
 
-‘No,’ said Fledgeby.
+‘On the contrary,’ returned Mrs Wilfer, ‘quite so. Why should I not?’
 
-‘Finally and unreservedly no?’
+‘I thought, my dear, that perhaps your face might—’
 
-‘Yes.’
+‘My face might be a [[Martyrdom|martyrdom]], but what would that import, or who should
+know it, if I smiled?’
 
-‘Fledgeby, my hand.’
+And she did smile; manifestly freezing the [[Blood|blood]] of Mr George Sampson
+by so doing. For that young gentleman, catching her smiling eye, was so
+very much appalled by its expression as to cast about in his thoughts
+concerning what he had done to bring it down upon himself.
 
-Mr Fledgeby took it, saying, ‘And if we ever find out who did this,
-we’ll mark that person. And in the most friendly manner, let me mention
-one thing more. I don’t know what your circumstances are, and I don’t
-ask. You have sustained a loss here. Many men are liable to be involved
-at times, and you may be, or you may not be. But whatever you do,
-Lammle, don’t—don’t—don’t, I beg of you—ever fall into the hands of
-Pubsey and Co. in the next room, for they are grinders. Regular flayers
-and grinders, my dear Lammle,’ repeated Fledgeby with a peculiar relish,
-‘and they’ll skin you by the inch, from the nape of your neck to the
-sole of your foot, and grind every inch of your skin to tooth-powder.
-You have seen what Mr Riah is. Never fall into his hands, Lammle, I beg
-of you as a friend!’
+‘The mind naturally falls,’ said Mrs Wilfer, ‘shall I say into a
+reverie, or shall I say into a retrospect? on a day like this.’
 
-Mr Lammle, disclosing some alarm at the solemnity of this affectionate
-adjuration, demanded why the devil he ever should fall into the hands of
-Pubsey and Co.?
+Lavvy, sitting with defiantly folded arms, replied (but not audibly),
+‘For goodness’ sake say whichever of the two you like best, Ma, and get
+it over.’
 
-‘To confess the fact, I was made a little uneasy,’ said the candid
-Fledgeby, ‘by the manner in which that Jew looked at you when he heard
-your name. I didn’t like his eye. But it may have been the heated
-fancy of a friend. Of course if you are sure that you have no personal
-security out, which you may not be quite equal to meeting, and which can
-have got into his hands, it must have been fancy. Still, I didn’t like
-his eye.’
+‘The mind,’ pursued Mrs Wilfer in an oratorical manner, ‘naturally
+reverts to Papa and Mamma—I here allude to my parents—at a period
+before the earliest [[Dawn|dawn]] of this day. I was considered tall; perhaps I
+was. Papa and Mamma were unquestionably tall. I have rarely seen a finer
+woman than my mother; never than my father.’
 
-The brooding Lammle, with certain white dints coming and going in his
-palpitating nose, looked as if some tormenting imp were pinching it.
-Fledgeby, watching him with a twitch in his mean face which did duty
-there for a smile, looked very like the tormentor who was pinching.
+The irrepressible Lavvy remarked aloud, ‘Whatever grandpapa was, he
+wasn’t a female.’
 
-‘But I mustn’t keep him waiting too long,’ said Fledgeby, ‘or he’ll
-[[Revenge|revenge]] it on my unfortunate friend. How’s your very clever and
-agreeable wife? She knows we have broken down?’
-
-‘I showed her the letter.’
-
-‘Very much surprised?’ asked Fledgeby.
-
-‘I think she would have been more so,’ answered Lammle, ‘if there had
-been more go in YOU?’
-
-‘Oh!—She lays it upon me, then?’
-
-‘Mr Fledgeby, I will not have my words misconstrued.’
-
-‘Don’t break out, Lammle,’ urged Fledgeby, in a submissive tone,
-‘because there’s no occasion. I only asked a question. Then she don’t
-lay it upon me? To ask another question.’
-
-‘No, sir.’
-
-‘Very good,’ said Fledgeby, plainly seeing that she did. ‘My compliments
-to her. Good-bye!’
-
-They shook hands, and Lammle strode out pondering. Fledgeby saw him
-into the fog, and, returning to the [[Fire|fire]] and musing with his face to it,
-stretched the legs of the [[Rose|rose]]-coloured Turkish trousers wide apart, and
-meditatively bent his knees, as if he were going down upon them.
-
-‘You have a pair of whiskers, Lammle, which I never liked,’ murmured
-Fledgeby, ‘and which money can’t produce; you are boastful of your
-manners and your conversation; you wanted to pull my nose, and you have
-let me in for a failure, and your wife says I am the cause of it. I’ll
-bowl you down. I will, though I have no whiskers,’ here he rubbed the
-places where they were due, ‘and no manners, and no conversation!’
-
-Having thus relieved his noble mind, he collected the legs of the
-Turkish trousers, straightened himself on his knees, and called out
-to Riah in the next room, ‘Halloa, you sir!’ At sight of the old man
-re-entering with a gentleness monstrously in contrast with the character
-he had given him, Mr Fledgeby was so tickled again, that he exclaimed,
-laughing, ‘Good! Good! Upon my [[Soul|soul]] it is uncommon good!’
+‘Your grandpapa,’ retorted Mrs Wilfer, with an awful look, and in an
+awful tone, ‘was what I describe him to have been, and would have struck
+any of his grandchildren to the earth who presumed to question it. It
+was one of mamma’s cherished hopes that I should become united to a
+tall member of society. It may have been a weakness, but if so, it was
+equally the weakness, I believe, of [[King]] Frederick of Prussia.’ These
+remarks being offered to Mr George Sampson, who had not the [[Courage|courage]] to
+come out for single combat, but lurked with his chest under the table
+and his eyes cast down, Mrs Wilfer proceeded, in a voice of increasing
+sternness and impressiveness, until she should force that skulker
+to give himself up. ‘Mamma would appear to have had an indefinable
+foreboding of what afterwards happened, for she would frequently urge
+upon me, “Not a little man. Promise me, my [[Child|child]], not a little man.
+Never, never, never, marry a little man!” Papa also would remark to me
+(he possessed extraordinary [[Humour|humour]]), “that a family of whales must not
+ally themselves with sprats.” His company was eagerly sought, as may
+be supposed, by the wits of the day, and our [[house]] was their continual
+resort. I have known as many as three copper-plate engravers exchanging
+the most exquisite sallies and retorts there, at one [[Time|time]].’ (Here Mr
+Sampson delivered himself captive, and said, with an uneasy movement on
+his chair, that three was a large number, and it must have been highly
+entertaining.) ‘Among the most prominent members of that distinguished
+circle, was a gentleman measuring six feet four in height. HE was NOT
+an engraver.’ (Here Mr Sampson said, with no reason whatever, Of course
+not.) ‘This gentleman was so obliging as to [[Honour|honour]] me with attentions
+which I could not fail to understand.’ (Here Mr Sampson murmured that
+when it came to that, you could always tell.) ‘I immediately announced
+to both my parents that those attentions were misplaced, and that I
+could not favour his suit. They inquired was he too tall? I replied it
+was not the stature, but the intellect was too lofty. At our [[house]],
+I said, the tone was too brilliant, the pressure was too high, to be
+maintained by me, a mere woman, in every-day domestic life. I [[Well|well]]
+remember mamma’s clasping her hands, and exclaiming “This will end in
+a little man!”’ (Here Mr Sampson glanced at his host and shook his head
+with despondency.) ‘She afterwards went so far as to predict that it
+would end in a little man whose mind would be below the average, but
+that was in what I may denominate a paroxysm of maternal disappointment.
+Within a month,’ said Mrs Wilfer, deepening her voice, as if she were
+relating a terrible [[Ghost|ghost]] story, ‘within a-month, I first saw R. W. my
+husband. Within a year, I married him. It is natural for the mind to
+recall these dark coincidences on the present day.’

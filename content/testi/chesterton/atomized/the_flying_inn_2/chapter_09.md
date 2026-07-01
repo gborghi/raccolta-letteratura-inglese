@@ -205,7 +205,6 @@ both her wrists and cried in a thrilling whisper,
 "Oh, we must go to the car, dear!  They're using the
 most awful language!"
 
-
 Away on the wettest edge of the sands by the sea the
 prints of two wheels and four hoofs were being slowly
 washed away by a slowly rising tide; which was,
@@ -269,7 +268,7 @@ ninety-two patients who hadn't got anything.  But
 Boone had to keep it dark; naturally, because all his
 lady patients grew mustaches.  It was a result of the
 treatment.  But it wasn't a result he wishes to dwell
-on.  Then there was old Dean [[arthur|Arthur]], who discovered
+on.  Then there was old Dean [[Arthur]], who discovered
 balloons if ever a man did.  He discovered them
 long before they were discovered.  But people were
 suspicious about such things just then--there was a

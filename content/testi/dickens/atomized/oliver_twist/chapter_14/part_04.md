@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 14 (part 4)"
+title: "Oliver Twist — Chapter 14 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,25 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_14/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_15/part_01">part 01 ›</a></div>
 </nav>
 
+
+As fate would have it, Mrs. Bedwin chanced to bring in, at this moment,
+a small parcel of books, which Mr. Brownlow had that morning purchased
+of the identical bookstall-keeper, who has already figured in this
+[[history]]; having laid them on the table, she prepared to leave the room.
+
+“Stop the boy, Mrs. Bedwin!” said Mr. Brownlow; “there is something to
+go back.”
+
+“He has gone, sir,” replied Mrs. Bedwin.
+
+“Call after him,” said Mr. Brownlow; “it’s particular. He is a poor
+man, and they are not paid for. There are some books to be taken back,
+too.”
+
+The street-door was opened. [[Oliver]] ran one way; and the girl ran
+another; and Mrs. Bedwin stood on the step and screamed for the boy;
+but there was no boy in sight. [[Oliver]] and the girl returned, in a
+breathless state, to report that there were no tidings of him.
 
 “Dear me, I am very sorry for that,” exclaimed Mr. Brownlow; “I
 particularly wished those books to be returned tonight.”

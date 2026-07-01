@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 25 (part 2)"
+title: "Northanger Abbey — Chapter 25 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_26/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_26/part_03">part 03 ›</a></div>
 </nav>
 
+
+a disappointment, which each morning became more severe: but, on the
+
+tenth, when she entered the breakfast-room, her first object was a
+
+letter, held out by Henry’s willing hand. She thanked him as heartily
 
 as if he had written it himself. “’Tis only from James, however,” as
 
@@ -221,17 +227,3 @@ has deserted my brother, and is to marry yours! could you have believed
 there had been such inconstancy and fickleness, and everything that is
 
 bad in the world?”
-
-
-
-“I [[Hope|hope]], so far as concerns my brother, you are misinformed. I [[Hope|hope]] he
-
-has not had any material share in bringing on Mr. Morland’s
-
-disappointment. His marrying Miss Thorpe is not probable. I think you
-
-must be deceived so far. I am very sorry for Mr. Morland—sorry that
-
-anyone you [[Love|love]] should be unhappy; but my surprise would be greater at
-
-Frederick’s marrying her than at any other part of the story.”

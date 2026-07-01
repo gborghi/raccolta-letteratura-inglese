@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 5 (part 7)"
+title: "Martin Chuzzlewit — Chapter 5 (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_05/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_05/part_08">part 08 ›</a></div>
 </nav>
 
+
+The new pupil was clearly very much amazed by Mr Pinch’s weakness, and
+would probably have told him so, and given him some good advice, but
+for their opportune arrival at Mr Pecksniff’s door; the front door this
+[[Time|time]], on account of the occasion being one of ceremony and rejoicing.
+The same man was in waiting for the [[Horse|horse]] who had been adjured by Mr
+Pinch in the morning not to yield to his rabid [[Desire|desire]] to start;
+and after delivering the animal into his charge, and beseeching Mr
+Chuzzlewit in a whisper never to reveal a syllable of what he had just
+told him in the fullness of his heart, Tom led the pupil in, for instant
+presentation.
 
 Mr Pecksniff had clearly not expected them for hours to come; for he was
 surrounded by open books, and was glancing from volume to volume, with a
@@ -113,18 +124,3 @@ on which were a lamp, divers sheets of paper, a piece of India rubber,
 and a case of instruments; all put ready, in case an architectural idea
 should come into Mr Pecksniff’s head in the [[Night|night]]; in which event he
 would instantly leap out of bed, and fix it for ever.
-
-Mr Pecksniff opened another door on the same floor, and shut it again,
-all at once, as if it were a Blue Chamber. But before he had [[Well|well]] done
-so, he looked smilingly round, and said, ‘Why not?’
-
-Martin couldn’t say why not, because he didn’t know anything at all
-about it. So Mr Pecksniff answered himself, by throwing open the door,
-and saying:
-
-‘My daughters’ room. A poor first-floor to us, but a bower to them. Very
-neat. Very airy. Plants you observe; hyacinths; books again; [[Birds|birds]].’
-These [[Birds|birds]], by the bye, comprised, in all, one staggering old sparrow
-without a tail, which had been borrowed expressly from the kitchen.
-‘Such trifles as girls [[Love|love]] are here. Nothing more. Those who seek
-heartless splendour, would seek here in vain.’

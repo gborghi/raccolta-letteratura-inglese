@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 46 (part 1)"
+title: "Sense and Sensibility — Chapter 46 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -207,7 +207,3 @@ much.
 The next morning produced no abatement in these happy symptoms. On the
 
 contrary, with a mind and [[Body|body]] alike strengthened by rest, she looked
-
-and spoke with more genuine spirit, anticipating the pleasure of
-
-Margaret’s return, and talking of the dear family party which would

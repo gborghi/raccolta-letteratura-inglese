@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 52 (part 1)"
+title: "Nicholas Nickleby — Chapter 52 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -132,11 +132,3 @@ to her all the horrors to which she is hastening; rashly, it may be, and
 without due reflection. To entreat her, at least, to pause. She can have
 had no counsellor for her good. Perhaps even I may move her so far yet,
 though it is the eleventh hour, and she upon the very brink of ruin.’
-
-‘Bravely spoken!’ said Newman. ‘[[Well]] done, [[Well|well]] done! Yes. Very good.’
-
-‘And I do declare,’ cried Nicholas, with honest enthusiasm, ‘that in
-this effort I am influenced by no selfish or personal considerations,
-but by pity for her, and detestation and abhorrence of this scheme; and
-that I would do the same, were there twenty rivals in the field, and I
-the last and least favoured of them all.’

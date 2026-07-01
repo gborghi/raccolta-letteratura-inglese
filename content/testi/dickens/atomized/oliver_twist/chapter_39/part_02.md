@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 39 (part 2)"
+title: "Oliver Twist — Chapter 39 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_39/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_39/part_03">part 03 ›</a></div>
 </nav>
 
+
+“Why, what evil [[Wind|wind]] has blowed you here?” he asked [[Fagin]].
+
+“No evil [[Wind|wind]] at all, my dear, for evil winds blow nobody any good; and
+I’ve brought something good with me, that you’ll be glad to see.
+Dodger, my dear, open the bundle; and give Bill the little trifles that
+we spent all our money on, this morning.”
 
 In compliance with Mr. [[Fagin]]’s request, the Artful untied this bundle,
 which was of large size, and formed of an old table-cloth; and handed
@@ -136,12 +143,3 @@ Jew then, taking leave of his affectionate friend, returned homeward,
 attended by [[Nancy]] and the boys: Mr. Sikes, meanwhile, flinging himself
 on the bed, and composing himself to [[Sleep|sleep]] away the [[Time|time]] until the
 young lady’s return.
-
-In due course, they arrived at [[Fagin]]’s abode, where they found Toby
-Crackit and Mr. Chitling intent upon their fifteenth game at cribbage,
-which it is scarcely necessary to say the latter gentleman lost, and
-with it, his fifteenth and last sixpence: much to the amusement of his
-young friends. Mr. Crackit, apparently somewhat ashamed at being found
-relaxing himself with a gentleman so much his inferior in station and
-mental endowments, yawned, and inquiring after Sikes, took up his hat
-to go.

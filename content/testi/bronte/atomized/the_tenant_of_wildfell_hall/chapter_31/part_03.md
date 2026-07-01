@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 31 (part 3)"
+title: "The Tenant of Wildfell Hall — Chapter 31 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_31/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_31/part_04">part 04 ›</a></div>
 </nav>
 
+
+persuade Mr. Huntingdon to think of you too; but to no purpose: I [[Fear|fear]]
+
+he is fully determined to enjoy himself this [[Night|night]]; and it will be no
+
+use keeping the coffee waiting for him or his companions; it will be
+
+much if they join us at tea. Meantime, I earnestly wish I could banish
+
+the thoughts of them from your mind—and my own too, for I hate to think
+
+of them—yes—even of my dear friend Huntingdon, when I consider the
 
 power he possesses over the happiness of one so immeasurably superior
 
@@ -72,7 +84,7 @@ Meantime Mr. Grimsby seated himself by me, in the chair vacated by
 
 Hargrave as they entered, and gravely stated that he would thank me for
 
-a cup of tea: and [[arthur|Arthur]] placed himself beside poor Milicent,
+a cup of tea: and [[Arthur]] placed himself beside poor Milicent,
 
 confidentially pushing his head into her face, and drawing in closer to
 
@@ -94,7 +106,7 @@ at my elbow, with sententious gravity all the [[Time|time]]; but I had been too
 
 much absorbed in contemplating the deplorable state of the other
 
-two—especially [[arthur|Arthur]]—to attend to him.
+two—especially [[Arthur]]—to attend to him.
 
 
 
@@ -215,25 +227,3 @@ to her, being occupied in vociferously abusing and bullying his host.
 
 
 “[[Well]], Annabella,” said her husband, as he leant over the back of her
-
-chair, “which of these three ‘bold, manly spirits’ would you have me to
-
-resemble?”
-
-
-
-“By heaven and earth, you shall resemble us all!” cried Hattersley,
-
-starting up and rudely seizing him by the arm. “Hallo, Huntingdon!” he
-
-shouted—“_I’ve_ got him! Come, man, and help me! And d—n me, if I don’t
-
-make him drunk before I let him go! He shall make up for all past
-
-delinquencies as sure as I’m a living [[Soul|soul]]!”
-
-
-
-There followed a disgraceful contest: [[Lord Lowborough]], in desperate
-
-earnest, and pale with anger, silently struggling to release himself

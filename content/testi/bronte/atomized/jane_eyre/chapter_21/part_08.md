@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 21 (part 8)"
+title: "Jane Eyre — Chapter 21 (part 8)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,26 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_21/part_07">‹ part 07</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_22/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Dear Mrs. Reed,” said I, as I offered her the draught she required,
+“think no more of all this, let it pass away from your mind. Forgive me
+for my passionate language: I was a [[Child|child]] then; eight, nine years have
+passed since that day.”
+
+She heeded nothing of what I said; but when she had tasted the [[Water|water]]
+and drawn breath, she went on thus—
+
+“I tell you I could not forget it; and I took my [[Revenge|revenge]]: for you to be
+adopted by your uncle, and placed in a state of ease and comfort, was
+what I could not endure. I wrote to him; I said I was sorry for his
+disappointment, but [[Jane Eyre]] was dead: she had died of typhus fever at
+Lowood. Now act as you please: write and contradict my assertion—expose
+my falsehood as soon as you like. You were born, I think, to be my
+torment: my last hour is racked by the recollection of a deed which,
+but for you, I should never have been tempted to commit.”
+
+“If you could but be persuaded to think no more of it, aunt, and to
+regard me with kindness and [[Forgiveness|forgiveness]]——”
 
 “You have a very bad disposition,” said she, “and one to this day I
 feel it impossible to understand: how for nine years you could be

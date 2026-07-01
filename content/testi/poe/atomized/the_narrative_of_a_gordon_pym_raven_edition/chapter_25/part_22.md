@@ -14,6 +14,150 @@ tags:
 </nav>
 
 
+      to Antares.”
+
+
+
+      “Ha! ha! ha!—why, Simpson, you have an astonishing tact at making
+
+      discoveries—original ones, I mean.” And here we separated, while
+
+      one of the trio began humming a gay _vaudeville_, of which I
+
+      caught only the lines—
+
+
+
+      Ninon, Ninon, Ninon à bas—
+
+      A bas Ninon De L’Enclos!
+
+
+
+      During this little scene, however, one thing had served greatly
+
+      to console me, although it fed the passion by which I was
+
+      consumed. As the carriage of Madame Lalande rolled by our group,
+
+      I had observed that she recognized me; and more than this, she
+
+      had blessed me, by the most seraphic of all imaginable smiles,
+
+      with no equivocal mark of the recognition.
+
+
+
+      As for an introduction, I was obliged to abandon all [[Hope|hope]] of it
+
+      until such [[Time|time]] as Talbot should think proper to return from the
+
+      country. In the meantime I perseveringly frequented every
+
+      reputable place of public amusement; and, at length, at the
+
+      theatre, where I first saw her, I had the supreme bliss of
+
+      meeting her, and of exchanging glances with her once again. This
+
+      did not occur, however, until the lapse of a fortnight. Every
+
+      day, in the interim, I had inquired for Talbot at his hotel, and
+
+      every day had been thrown into a spasm of wrath by the
+
+      everlasting “Not come [[Home|home]] yet” of his footman.
+
+
+
+      Upon the evening in question, therefore, I was in a condition
+
+      little short of [[Madness|madness]]. Madame Lalande, I had been told, was a
+
+      Parisian—had lately arrived from [[Paris]]—might she not suddenly
+
+      return?—return before Talbot came back—and might she not be thus
+
+      lost to me forever? The thought was too terrible to bear. Since
+
+      my future happiness was at issue, I resolved to act with a manly
+
+      decision. In a word, upon the breaking up of the play, I traced
+
+      the lady to her residence, noted the address, and the next
+
+      morning sent her a full and elaborate letter, in which I poured
+
+      out my whole heart.
+
+
+
+      I spoke boldly, freely—in a word, I spoke with passion. I
+
+      concealed nothing—nothing even of my weakness. I alluded to the
+
+      romantic circumstances of our first meeting—even to the glances
+
+      which had passed between us. I went so far as to say that I felt
+
+      assured of her [[Love|love]]; while I offered this assurance, and my own
+
+      intensity of devotion, as two excuses for my otherwise
+
+      unpardonable conduct. As a third, I spoke of my [[Fear|fear]] that she
+
+      might quit the [[City|city]] before I could have the opportunity of a
+
+      formal introduction. I concluded the most wildly enthusiastic
+
+      epistle ever penned, with a frank declaration of my worldly
+
+      circumstances—of my affluence—and with an offer of my heart and
+
+      of my hand.
+
+
+
+      In an agony of expectation I awaited the reply. After what seemed
+
+      the lapse of a century it came.
+
+
+
+      Yes, actually came. Romantic as all this may appear, I really
+
+      received a letter from Madame Lalande—the beautiful, the wealthy,
+
+      the idolized Madame Lalande. Her eyes—her magnificent eyes, had
+
+      not belied her noble heart. Like a true Frenchwoman as she was
+
+      she had obeyed the frank dictates of her reason—the generous
+
+      impulses of her [[Nature|nature]]—despising the conventional pruderies of
+
+      the world. She had not scorned my proposals. She had not
+
+      sheltered herself in [[Silence|silence]]. She had not returned my letter
+
+      unopened. She had even sent me, in reply, one penned by her own
+
+      exquisite fingers. It ran thus:
+
+
+
+      “Monsieur Simpson vill pardonne me for not compose de butefulle
+
+      tong of his contrée so vell as might. It is only de late dat I am
+
+      arrive, and not yet ave do opportunité for to—l’étudier.
+
+
+
+      “Vid dis apologie for the manière, I vill now say dat,
+
+      hélas!—Monsieur Simpson ave guess but de too true. Need I say de
+
       more? Hélas! am I not ready speak de too moshe?
 
 
@@ -87,131 +231,3 @@ tags:
       avail me to the end. Besides, after the correspondence which had
 
       passed between us, what act of mere informality could I commit,
-
-      within bounds, that ought to be regarded as indecorous by Madame
-
-      Lalande? Since the affair of the letter, I had been in the habit
-
-      of watching her [[house]], and thus discovered that, about twilight,
-
-      it was her custom to promenade, attended only by a negro in
-
-      livery, in a public square overlooked by her windows. Here, amid
-
-      the luxuriant and shadowing groves, in the gray gloom of a sweet
-
-      midsummer evening, I observed my opportunity and accosted her.
-
-
-
-      The better to deceive the servant in attendance, I did this with
-
-      the assured air of an old and familiar acquaintance. With a
-
-      presence of mind truly Parisian, she took the cue at once, and,
-
-      to greet me, held out the most bewitchingly little of hands. The
-
-      valet at once fell into the rear, and now, with hearts full to
-
-      overflowing, we discoursed long and unreservedly of our [[Love|love]].
-
-
-
-      As Madame Lalande spoke English even less fluently than she wrote
-
-      it, our conversation was necessarily in French. In this sweet
-
-      tongue, so adapted to passion, I gave loose to the impetuous
-
-      enthusiasm of my [[Nature|nature]], and, with all the eloquence I could
-
-      command, besought her to consent to an immediate [[Marriage|marriage]].
-
-
-
-      At this impatience she smiled. She urged the old story of
-
-      decorum—that bug-bear which deters so many from bliss until the
-
-      opportunity for bliss has forever gone by. I had most imprudently
-
-      made it known among my friends, she observed, that I desired her
-
-      acquaintance—thus that I did not possess it—thus, again, there
-
-      was no possibility of concealing the date of our first knowledge
-
-      of each other. And then she adverted, with a blush, to the
-
-      extreme recency of this date. To wed immediately would be
-
-      improper—would be indecorous—would be outre. All this she said
-
-      with a charming air of naivete which enraptured while it grieved
-
-      and convinced me. She went even so far as to accuse me,
-
-      laughingly, of rashness—of imprudence. She bade me remember that
-
-      I really even knew not who she was—what were her prospects, her
-
-      connections, her standing in society. She begged me, but with a
-
-      sigh, to reconsider my proposal, and termed my [[Love|love]] an
-
-      infatuation—a will o’ the wisp—a fancy or fantasy of the moment—a
-
-      baseless and unstable creation rather of the [[Imagination|imagination]] than of
-
-      the heart. These things she uttered as the shadows of the sweet
-
-      twilight gathered darkly and more darkly around us—and then, with
-
-      a gentle pressure of her fairy-like hand, overthrew, in a single
-
-      sweet instant, all the argumentative fabric she had reared.
-
-
-
-      I replied as best I could—as only a true [[Lover|lover]] can. I spoke at
-
-      length, and perseveringly of my devotion, of my passion—of her
-
-      exceeding [[Beauty|beauty]], and of my own enthusiastic admiration. In
-
-      conclusion, I dwelt, with a convincing energy, upon the perils
-
-      that encompass the course of [[Love|love]]—that course of true [[Love|love]] that
-
-      never did run smooth—and thus deduced the manifest danger of
-
-      rendering that course unnecessarily long.
-
-
-
-      This latter argument seemed finally to soften the rigor of her
-
-      determination. She relented; but there was yet an obstacle, she
-
-      said, which she felt assured I had not properly considered. This
-
-      was a delicate point—for a woman to urge, especially so; in
-
-      mentioning it, she saw that she must make a sacrifice of her
-
-      feelings; still, for me, every sacrifice should be made. She
-
-      alluded to the topic of age. Was I aware—was I fully aware of the
-
-      discrepancy between us? That the age of the husband, should
-
-      surpass by a few years—even by fifteen or twenty—the age of the
-
-      wife, was regarded by the world as admissible, and, indeed, as
-
-      even proper; but she had always entertained the belief that the
-
-      years of the wife should never exceed in number those of the
-
-      husband. A discrepancy of this unnatural kind gave rise, too

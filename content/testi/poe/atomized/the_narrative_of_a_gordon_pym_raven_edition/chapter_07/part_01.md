@@ -195,7 +195,3 @@ CHAPTER 7
       upon the alert,—it not being usual except in vessels where
 
       discipline is most rigidly enforced, to station a watch on deck
-
-      when a vessel is lying-to in a gale of [[Wind|wind]]. As I address myself
-
-      principally, if not altogether, to persons who have never been to

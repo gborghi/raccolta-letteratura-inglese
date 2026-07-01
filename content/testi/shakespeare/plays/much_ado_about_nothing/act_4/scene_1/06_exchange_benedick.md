@@ -1,5 +1,5 @@
 ---
-title: "Much Ado About Nothing — Act IV, Scene 1 — exchange ([[Benedick|BENEDICK]]) [6]"
+title: "Much Ado About Nothing — Act IV, Scene 1 — exchange (BENEDICK) [6]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/much-ado-about-nothing-(shakespeare)"

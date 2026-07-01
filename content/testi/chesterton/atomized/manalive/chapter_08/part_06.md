@@ -1,5 +1,5 @@
 ---
-title: "[[manalive]] — Chapter 2 (part 6)"
+title: "manalive — Chapter 2 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/manalive-(chesterton)"
@@ -79,7 +79,7 @@ chimney-pot. He must have landed at a level considerably lower, for,
 tall as he was, nothing but his weirdly tousled head remained visible.
 Something again far off, and yet familiar, pleased me about this way
 of invading the houses of men.  I thought of little chimney-sweeps,
-and `The [[Water]] Babies;' but I decided that it was not that.
+and `The Water Babies;' but I decided that it was not that.
 Then I remembered what it was that made me connect such topsy-turvy
 trespass with ideas quite opposite to the idea of crime.
 Christmas Eve, of course, and Santa Claus coming down the chimney.
@@ -92,14 +92,14 @@ to follow with that enthusiastic impatience proper only among old friends.
 I jumped into the gulf, and as blindly as Curtius, for I was still thinking
 of Santa Claus and the traditional virtue of such vertical entrance.
 
-"In every [[Well|well]]-appointed gentleman's [[house]], I reflected, there was
+"In every well-appointed gentleman's house, I reflected, there was
 the front door for the gentlemen, and the side door for the tradesmen;
 but there was also the top door for the gods.  The chimney is,
 so to speak, the underground passage between earth and heaven.
 By this starry tunnel Santa Claus manages--like the skylark--
-to be true to the kindred points of heaven and [[Home|home]].
+to be true to the kindred points of heaven and home.
 Nay, owing to certain conventions, and a widely distributed lack
-of [[Courage|courage]] for climbing, this door was, perhaps, little used.
+of courage for climbing, this door was, perhaps, little used.
 But Santa Claus's door was really the front door:
 it was the door fronting the universe.
 
@@ -107,7 +107,7 @@ it was the door fronting the universe.
 the roof, and scrambled down the squat ladder that let us down into a yet
 larger loft below.  Yet it was not till I was half-way down the ladder that I
 suddenly stood still, and thought for an instant of retracing all my steps,
-as my companion had retraced them from the beginning of the [[Garden|garden]] wall.
+as my companion had retraced them from the beginning of the garden wall.
 The name of Santa Claus had suddenly brought me back to my senses.
 I remembered why Santa Clause came, and why he was welcome.
 
@@ -117,5 +117,5 @@ the regular denunciations of robbery, both right and wrong;
 I had read the Ten Commandments in church a thousand times.
 And then and there, at the age of thirty-four, half-way
 down a ladder in a dark room in the bodily act of burglar,
-I saw suddenly for the first [[Time|time]] that theft, after all,
+I saw suddenly for the first time that theft, after all,
 is really wrong.

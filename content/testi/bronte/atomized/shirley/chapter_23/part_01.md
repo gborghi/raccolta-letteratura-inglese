@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 23 (part 1)"
+title: "Shirley — Chapter 23 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -215,13 +215,3 @@ The screed, or frill of the cap, stood a quarter of a yard broad round
 the face of the wearer. The ribbon, flourishing in puffs and bows about
 
 the head, was of the sort called [[Love|love]]-ribbon. There was a good deal of
-
-it, I may say, a very great deal. Mrs. Yorke wore the cap--it became
-
-her; she wore the gown also--it suited her no less.
-
-
-
-That great lady was come in a friendly way to take tea with Miss Moore.
-
-It was almost as great and as rare a favour as if the [[Queen|queen]] were to go

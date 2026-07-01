@@ -1,5 +1,5 @@
 ---
-title: "[[manalive]] — Chapter 1"
+title: "manalive — Chapter 1"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/manalive-(chesterton)"
@@ -18,7 +18,6 @@ tags:
 
 		   How the Great [[Wind]] Came
 		       to Beacon [[house|House]]
-
 
 A [[Wind|wind]] sprang high in the west, like a wave of unreasonable happiness,
 and tore eastward across England, trailing with it the frosty scent
@@ -279,24 +278,24 @@ I'm sorry to say, put the matter beyond a [[Doubt|doubt]]."
 embarrassed way; "the telegram was [[smith|Smith]]'s illness, not [[smith|Smith]].  The actual
 words were, `Man found alive with two legs.'"
 
-"Alive with two legs," repeated [[Michael]], frowning.  "Perhaps a version
+"Alive with two legs," repeated Michael, frowning.  "Perhaps a version
 of alive and kicking?  I don't know much about people out of their senses;
 but I suppose they ought to be kicking."
 
 "And people in their senses?" asked Warner, smiling.
 
-"Oh, they ought to be kicked," said [[Michael]] with sudden heartiness.
+"Oh, they ought to be kicked," said Michael with sudden heartiness.
 
 "The message is clearly insane," continued the impenetrable Warner.
 "The best test is a reference to the undeveloped normal type.
 Even a baby does not expect to find a man with three legs."
 
-"Three legs," said [[Michael]] [[Moon]], "would be very convenient in this [[Wind|wind]]."
+"Three legs," said Michael Moon, "would be very convenient in this wind."
 
 A fresh eruption of the atmosphere had indeed almost thrown them
-off their balance and broken the blackened trees in the [[Garden|garden]].
+off their balance and broken the blackened trees in the garden.
 Beyond, all sorts of accidental objects could be seen scouring
-the [[Wind|wind]]-scoured sky--straws, sticks, rags, papers, and, in the distance,
+the wind-scoured sky--straws, sticks, rags, papers, and, in the distance,
 a disappearing hat.  Its disappearance, however, was not final;
 after an interval of minutes they saw it again, much larger and closer,
 like a white panama, towering up into the heavens like a balloon,
@@ -306,19 +305,19 @@ as a fallen leaf.
 
 "Somebody's lost a good hat," said Dr. Warner shortly.
 
-Almost as he spoke, another object came over the [[Garden|garden]] wall,
+Almost as he spoke, another object came over the garden wall,
 flying after the fluttering panama.  It was a big green umbrella.
 After that came hurtling a huge yellow Gladstone bag,
-and after that came a figure like a flying [[Wheel|wheel]] of legs,
+and after that came a figure like a flying wheel of legs,
 as in the shield of the Isle of Man.
 
 But though for a flash it seemed to have five or six legs,
 it alighted upon two, like the man in the queer telegram.
 It took the form of a large light-haired man in gay green holiday clothes.
-He had bright blonde hair that the [[Wind|wind]] brushed back like a German's,
+He had bright blonde hair that the wind brushed back like a German's,
 a flushed eager face like a cherub's, and a prominent pointing nose,
 a little like a dog's. His head, however, was by no means cherubic
-in the sense of being without a [[Body|body]].  On the contrary, on his vast
+in the sense of being without a body.  On the contrary, on his vast
 shoulders and shape generally gigantesque, his head looked oddly
 and unnaturally small.  This gave rise to a scientific theory
 (which his conduct fully supported) that he was an idiot.
@@ -335,8 +334,8 @@ head-gear, when he was struck rigid with a roar like a bull's.
 give it fair play!"  And he came after his own hat quickly
 but cautiously, with burning eyes.  The hat had seemed at first
 to droop and dawdle as in ostentatious langour on the sunny lawn;
-but the [[Wind|wind]] again freshening and rising, it went dancing down
-the [[Garden|garden]] with the devilry of a ~pas de quatre~. The eccentric went
+but the wind again freshening and rising, it went dancing down
+the garden with the devilry of a ~pas de quatre~. The eccentric went
 bounding after it with kangaroo leaps and bursts of breathless speech,
 of which it was not always easy to pick up the thread:
 "Fair play, fair play... sport of kings... chase their crowns...
@@ -344,29 +343,29 @@ quite humane... tramontana... cardinals chase red hats... old
 English hunting... started a hat in Bramber Combe... hat at bay...
 mangled hounds... Got him!"
 
-As the [[Wind|wind]] [[Rose|rose]] out of a roar into a shriek, he leapt into the sky
+As the wind rose out of a roar into a shriek, he leapt into the sky
 on his strong, fantastic legs, snatched at the vanishing hat,
 missed it, and pitched sprawling face foremost on the grass.
-The hat [[Rose|rose]] over him like a bird in triumph.  But its triumph
+The hat rose over him like a bird in triumph.  But its triumph
 was premature; for the lunatic, flung forward on his hands,
 threw up his boots behind, waved his two legs in the air
 like symbolic ensigns (so that they actually thought again
 of the telegram), and actually caught the hat with his feet.
-A prolonged and piercing yell of [[Wind|wind]] split the welkin from end to end.
+A prolonged and piercing yell of wind split the welkin from end to end.
 The eyes of all the men were blinded by the invisible blast,
 as by a strange, clear cataract of transparency rushing between
 them and all objects about them.  But as the large man fell back
 in a sitting posture and solemnly crowned himself with the hat,
-[[Michael]] found, to his incredulous surprise, that he had been
+Michael found, to his incredulous surprise, that he had been
 holding his breath, like a man watching a duel.
 
-While that tall [[Wind|wind]] was at the top of its sky-scraping energy,
+While that tall wind was at the top of its sky-scraping energy,
 another short cry was heard, beginning very querulous, but ending
-very quick, swallowed in abrupt [[Silence|silence]].  The shiny black cylinder
+very quick, swallowed in abrupt silence.  The shiny black cylinder
 of Dr. Warner's official hat sailed off his head in the long,
-smooth parabola of an airship, and in almost cresting a [[Garden|garden]]
+smooth parabola of an airship, and in almost cresting a garden
 tree was caught in the topmost branches.  Another hat was gone.
-Those in that [[Garden|garden]] felt themselves caught in an unaccustomed eddy
+Those in that garden felt themselves caught in an unaccustomed eddy
 of things happening; no one seemed to know what would blow away next.
 Before they could speculate, the cheering and hallooing hat-hunter
 was already halfway up the tree, swinging himself from fork to fork
@@ -375,46 +374,45 @@ his gasping, mysterious comments.
 
 "Tree of life... Ygdrasil... climb for centuries perhaps... owls nesting
 in the hat... remotest generations of owls... still usurpers... gone
-to heaven... man in the [[Moon|moon]] wears it... brigand... not yours... belongs
-to depressed medical man... in [[Garden|garden]]... give it up... give it up!"
+to heaven... man in the moon wears it... brigand... not yours... belongs
+to depressed medical man... in garden... give it up... give it up!"
 
 The tree swung and swept and thrashed to and fro in the thundering
-[[Wind|wind]] like a thistle, and flamed in the full sunshine like a bonfire.
-The green, fantastic human figure, vivid against its [[Autumn|autumn]] red and gold,
+wind like a thistle, and flamed in the full sunshine like a bonfire.
+The green, fantastic human figure, vivid against its autumn red and gold,
 was already among its highest and craziest branches, which by bare luck did
-not break with the weight of his big [[Body|body]].  He was up there among the last
-tossing [[Leaves|leaves]] and the first twinkling [[Stars|stars]] of evening, still talking
+not break with the weight of his big body.  He was up there among the last
+tossing leaves and the first twinkling stars of evening, still talking
 to himself cheerfully, reasoningly, half apologetically, in little gasps.
-He might [[Well|well]] be out of breath, for his whole preposterous raid had
+He might well be out of breath, for his whole preposterous raid had
 gone with one rush; he had bounded the wall once like a football,
-swept down the [[Garden|garden]] like a slide, and shot up the tree like a rocket.
+swept down the garden like a slide, and shot up the tree like a rocket.
 The other three men seemed buried under incident piled on incident--
 a wild world where one thing began before another thing left off.
 All three had the first thought.  The tree had been there for the five years
-they had known the boarding-[[house]]. Each one of them was active and strong.
+they had known the boarding-house. Each one of them was active and strong.
 No one of them had even thought of climbing it.  Beyond that,
-Inglewood felt first the mere fact of colour.  The bright brisk [[Leaves|leaves]],
+Inglewood felt first the mere fact of colour.  The bright brisk leaves,
 the bleak blue sky, the wild green arms and legs, reminded him irrationally
 of something glowing in his infancy, something akin to a gaudy man
 on a golden tree; perhaps it was only painted monkey on a stick.
-Oddly enough, [[Michael]] [[Moon]], though more of a humourist, was touched on
+Oddly enough, Michael Moon, though more of a humourist, was touched on
 a tenderer nerve, half remembered the old, young theatricals with Rosamund,
 and was amused to find himself almost quoting Shakespeare--
 
-	"For valour.  Is not [[Love|love]] a Hercules,
+	"For valour.  Is not love a Hercules,
 	 Still climbing trees in the Hesperides?"
 
-
 Even the immovable man of science had a bright, bewildered sensation
-that the [[Time]] [[Machine]] had given a great jerk, and gone forward
+that the Time Machine had given a great jerk, and gone forward
 with rather rattling rapidity.
 
 He was not, however, wholly prepared for what happened next.
-The man in green, riding the frail topmost bough like a [[Witch|witch]] on a very risky
+The man in green, riding the frail topmost bough like a witch on a very risky
 broomstick, reached up and rent the black hat from its airy nest of twigs.
 It had been broken across a heavy bough in the first burst of its passage,
 a tangle of branches in torn and scored and scratched it in every direction,
-a clap of [[Wind|wind]] and foliage had flattened it like a concertina; nor can it
+a clap of wind and foliage had flattened it like a concertina; nor can it
 be said that the obliging gentleman with the sharp nose showed any adequate
 tenderness for its structure when he finally unhooked it from its place.
 When he had found it, however, his proceedings were by some counted singular.
@@ -422,9 +420,9 @@ He waved it with a loud whoop of triumph, and then immediately appeared
 to fall backwards off the tree, to which, however, he remained
 attached by his long strong legs, like a monkey swung by his tail.
 Hanging thus head downwards above the unhelmed Warner, he gravely proceeded
-to drop the battered silk cylinder upon his brows.  "Every man a [[King|king]],"
-explained the inverted philosopher, "every hat (consequently) a [[Crown|crown]].
-But this is a [[Crown|crown]] out of heaven."
+to drop the battered silk cylinder upon his brows.  "Every man a king,"
+explained the inverted philosopher, "every hat (consequently) a crown.
+But this is a crown out of heaven."
 
 And he again attempted the coronation of Warner, who, however, moved away
 with great abruptness from the hovering diadem; not seeming, strangely enough,
@@ -432,7 +430,7 @@ to wish for his former decoration in its present state.
 
 "Wrong, wrong!" cried the obliging person hilariously.
 "Always wear uniform, even if it's shabby uniform!
-Ritualists may always be untidy.  Go to a [[Dance|dance]] with soot on
+Ritualists may always be untidy.  Go to a dance with soot on
 your shirt-front; but go with a shirt-front. Huntsman wears old coat,
 but old pink coat.  Wear a topper, even if it's got no top.
 It's the symbol that counts, old cock.  Take your hat,
@@ -446,29 +444,29 @@ the shapeless silk hat over the face of the disturbed physician,
 and fell on his feet among the other men, still talking,
 beaming and breathless.
 
-"Why don't they make more games out of [[Wind|wind]]?" he asked in some excitement.
+"Why don't they make more games out of wind?" he asked in some excitement.
 "Kites are all right, but why should it only be kites?  Why, I thought
 of three other games for a windy day while I was climbing that tree.
 Here's one of them:  you take a lot of pepper--"
 
-"I think," interposed [[Moon]], with a sardonic mildness,
+"I think," interposed Moon, with a sardonic mildness,
 "that your games are already sufficiently interesting.
 Are you, may I ask, a professional acrobat on a tour,
 or a travelling advertisement of Sunny Jim?  How and why do you
 display all this energy for clearing walls and climbing trees
-in our [[Melancholy|melancholy]], but at least rational, suburbs?"
+in our melancholy, but at least rational, suburbs?"
 
 The stranger, so far as so loud a person was capable of it,
 appeared to grow confidential.
 
-"[[Well]], it's a trick of my own," he confessed candidly.
+"Well, it's a trick of my own," he confessed candidly.
 "I do it by having two legs."
 
-[[arthur|Arthur]] Inglewood, who had sunk into the background of this scene of folly,
+Arthur Inglewood, who had sunk into the background of this scene of folly,
 started and stared at the newcomer with his short-sighted eyes screwed up
 and his high colour slightly heightened.
 
-"Why, I believe you're [[smith|Smith]]," he cried with his fresh, almost boyish voice;
+"Why, I believe you're Smith," he cried with his fresh, almost boyish voice;
 and then after an instant's stare, "and yet I'm not sure."
 
 "I have a card, I think," said the unknown, with baffling solemnity--"a card
@@ -479,7 +477,7 @@ card-case, and as slowly produced a very large card.
 Even in the instant of its production, they fancied it was
 of a queer shape, unlike the cards of ordinary gentlemen.
 But it was there only for an instant; for as it passed from
-his fingers to [[arthur|Arthur]]'s, one or another slipped his hold.
-The strident, tearing gale in that [[Garden|garden]] carried away
+his fingers to Arthur's, one or another slipped his hold.
+The strident, tearing gale in that garden carried away
 the stranger's card to join the wild waste paper of the universe;
-and that great western [[Wind|wind]] shook the whole [[house]] and passed.
+and that great western wind shook the whole house and passed.

@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 9 (part 1)"
+title: "Mansfield Park — Chapter 9 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -122,19 +122,3 @@ away.”
 “_That_ is hardly Fanny’s idea of a family assembling,” said [[Edmund]].
 “If the master and mistress do _not_ attend themselves, there must be
 more harm than good in the custom.”
-
-“At any rate, it is safer to leave people to their own devices on such
-subjects. Everybody likes to go their own way—to chuse their own [[Time|time]]
-and manner of devotion. The obligation of attendance, the formality,
-the restraint, the length of [[Time|time]]—altogether it is a formidable thing,
-and what nobody likes; and if the good people who used to kneel and
-gape in that gallery could have foreseen that the [[Time|time]] would ever come
-when men and women might lie another ten minutes in bed, when they woke
-with a headache, without danger of reprobation, because chapel was
-missed, they would have jumped with joy and envy. Cannot you imagine
-with what unwilling feelings the former belles of the [[house]] of
-Rushworth did many a [[Time|time]] repair to this chapel? The young Mrs.
-Eleanors and Mrs. Bridgets—starched up into seeming piety, but with
-heads full of something very different—especially if the poor chaplain
-were not worth looking at—and, in those days, I fancy parsons were very
-inferior even to what they are now.”

@@ -1,5 +1,5 @@
 ---
-title: "scandal Fr Brown — The Scandal of [[Father Brown]]"
+title: "scandal Fr Brown — The Scandal of Father Brown"
 author: "Chesterton"
 unitType: story
 parentWork: "works/scandal-fr-brown-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 ONE: The Scandal of [[Father Brown]]
-
 
 It would not be fair to record the adventures of [[Father Brown]], without
 admitting that he was once involved in a [[Grave|grave]] scandal. There still are
@@ -275,7 +274,7 @@ her, ducked and darted to the door and disappeared.
 then, rather at a loss, and turning to the little priest: 'as I say, if
 you're English, you ought really to be on my side against these Dagos,
 anyhow. Oh, I'm not one of those who talk tosh about Anglo - Saxons; but
-there is such a thing as [[history]]. You can always claim that [[America]] got
+there is such a thing as [[history]]. You can always claim that [[america|America]] got
 her civilization from England.'
 
 'Also, to temper our [[Pride|pride]],' said [[Father Brown]], 'we must always admit
@@ -443,7 +442,7 @@ she and her troubadour disappeared into the dark thickets.
 Agar Rock turned on his companion a face of final and awful justice;
 like the Day of Judgement.
 
-'[[Well]], all [[America]] is going to hear of this,' he said. 'In plain words,
+'[[Well]], all [[america|America]] is going to hear of this,' he said. 'In plain words,
 you helped her to bolt with that curly - haired [[Lover|lover]].'
 
 'Yes,' said [[Father Brown]], 'I helped her to bolt with that curly - haired

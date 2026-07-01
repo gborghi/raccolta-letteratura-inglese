@@ -14,6 +14,15 @@ tags:
 </nav>
 
 
+G.K.C.
+
+A Denunciation of Parents
+
+--March 9, 1901, The Speaker
+
+Concerning Children.  By Mrs. Charlotte Perkins (Stetson) Gilman.
+[[London]]:  G. P. Putnam's Sons.
+
 Mrs. Charlotte Perkins (Stetson) Gilman is a good example of a good class,
 the women whose ethical enthusiasm and readiness to remake heaven
 and earth constitute one of the few symptoms of that youth of the world
@@ -109,35 +118,3 @@ If a stockbroker were gaily patted on the head when he had made
 a million, perhaps he would think less of his triumph; if a poet
 only had his hair pulled affectionately when he cursed God,
 it is probable that he would not do it again.
-
-The same profoundly unnatural rationalism marks the author's
-observations on the virtue of Obedience, of which she
-profoundly disapproves.  And yet the substitute that she offers
-for obedience is a hundred times more cowardly and fictitious.
-"The [[Child|child]] can be far better protected by removing all danger:
-which our present civilization is quite competent to do."  Let us take
-the case of [[Fire|fire]].  The [[Child|child]] is not to be told, what is an eternal
-and typical [[Truth|truth]], "This is the most beautiful thing in the world:
-but you must not touch it.  It is the thing which warms if you
-obey it, but bites if you disobey."  But the [[Child|child]] is to be told,
-in effect, what is a silly lie, "There is no such thing as [[Fire|fire]]:
-you have never seen it in your nursery."  Mrs. Gilman complains
-that obedience discourages will and personality and then proposes
-to encourage those qualities by removing all danger and difficulty!
-Mrs. Gilman does not really understand what is meant by obedience.
-She always uses the word as identical with [[Slavery|slavery]],
-whereas it is inconsistent with it.  A slave cannot be obedient;
-we might as [[Well|well]] speak of a tree being taciturn or an oyster being
-good-tempered. A thing which cannot disobey is not obedient:
-obedience is a choice:  and it is a choice involved in civilization.
-Mrs. Gilman is singularly out in her bearings in saying that the
-upholders of obedience have to fall back on the case of soldiers
-and sailors and that "they do not speak of it as particularly
-desirable among farmers and merchants."  Whether they do or not,
-it certainly is.  Without some compromise of obedience in the matter,
-the farmer and merchant would both be bankrupt in a month.
-Every train that Mrs. Gilman travels in would be smashed up,
-every bank in which she put her money would ruin her, every [[house]]
-she lived in would fall down, if there were no established principle
-of one man promptly acting on the signals of another man.
-And this is all obedience is.

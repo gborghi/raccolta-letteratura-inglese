@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 18 (part 2)"
+title: "Persuasion — Chapter 18 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_18/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_18/part_03">part 03 ›</a></div>
 </nav>
 
+
+Harville says her husband feels a good deal on his poor sister’s
+
+account; but, however, Louisa is a great favourite with both. Indeed,
 
 Mrs Harville and I quite agree that we [[Love|love]] her the better for having
 
@@ -213,17 +217,3 @@ evident that no rumour of the news had yet reached them. The visit of
 ceremony was paid and returned; and Louisa Musgrove was mentioned, and
 
 [[Captain Benwick]], too, without even half a smile.
-
-
-
-The Crofts had placed themselves in lodgings in Gay Street, perfectly
-
-to Sir Walter’s satisfaction. He was not at all ashamed of the
-
-acquaintance, and did, in fact, think and talk a great deal more about
-
-the Admiral, than the Admiral ever thought or talked about him.
-
-
-
-The Crofts knew quite as many people in Bath as they wished for, and

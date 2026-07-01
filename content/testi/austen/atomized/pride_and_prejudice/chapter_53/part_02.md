@@ -1,5 +1,5 @@
 ---
-title: "[[Pride and Prejudice]] — Chapter 53 (part 2)"
+title: "Pride and Prejudice — Chapter 53 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/pride-and-prejudice-(austen)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/pride_and_prejudice/chapter_53/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/pride_and_prejudice/chapter_53/part_03">part 03 ›</a></div>
 </nav>
 
+
+“I begin to be sorry that he comes at all,” said Jane to her sister. “It
+would be nothing; I could see him with perfect indifference; but I can
+hardly bear to hear it thus perpetually talked of. My mother means [[Well|well]];
+but she does not know, no one can know, how much I suffer from what she
+says. Happy shall I be when his stay at Netherfield is over!”
 
 “I wish I could say anything to comfort you,” replied Elizabeth; “but it
 is wholly out of my power. You must feel it; and the usual satisfaction
@@ -119,17 +125,3 @@ him she had hardly [[Courage|courage]] to speak.
 She inquired after his sister, but could do no more.
 
 “It is a long [[Time|time]], Mr. Bingley, since you went away,” said Mrs. Bennet.
-
-He readily agreed to it.
-
-“I began to be afraid you would never come back again. People _did_ say,
-you meant to quit the place entirely at Michaelmas; but, however, I [[Hope|hope]]
-it is not true. A great many changes have happened in the neighbourhood
-since you went away. Miss Lucas is married and settled: and one of my
-own daughters. I suppose you have heard of it; indeed, you must have
-seen it in the papers. It was in the ‘Times’ and the ‘Courier,’ I know;
-though it was not put in as it ought to be. It was only said, ‘Lately,
-George Wickham, Esq., to Miss [[Lydia Bennet]],’ without there being a
-syllable said of her father, or the place where she lived, or anything.
-It was my brother Gardiner’s drawing up, too, and I [[Wonder|wonder]] how he came
-to make such an awkward business of it. Did you see it?”

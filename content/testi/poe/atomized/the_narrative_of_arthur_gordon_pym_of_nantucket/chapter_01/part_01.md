@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 2 (part 1)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 2 (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -191,9 +191,3 @@ The note was written and delivered, and on a Monday morning I left the
 [[house]] for the New Bedford packet, as supposed. I went, however,
 
 straight to Augustus, who was waiting for me at the corner of a street.
-
-It had been our original plan that I should keep out of the way until
-
-dark, and then slip on board the brig; but, as there was now a thick
-
-fog in our favour, it was agreed to lose no [[Time|time]] in secreting me.

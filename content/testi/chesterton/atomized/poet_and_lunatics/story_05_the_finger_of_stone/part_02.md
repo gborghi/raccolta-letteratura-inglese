@@ -14,6 +14,10 @@ tags:
 </nav>
 
 
+"Yes, I suppose I've seen today some of the very oldest sculpture of
+the veritable Dark Ages.  And it's not stiff like some Byzantine work;
+there's a touch of the true [[Grotesque|grotesque]] you generally get in Gothic."
+
 "[[Well]], I've seen today some of the newest sculpture of the Modern Ages,"
 replied Gale, "and I fancy they are the veritable Dark Ages.
 Quite enough of the true [[Grotesque|grotesque]] up in that studio, I can tell you."
@@ -132,13 +136,3 @@ his arms and setting the place on [[Fire|fire]]."
 who showed me over the monastery; I think he was the head man
 there... anyhow, he was a most learned and eloquent gentleman... told
 me about a holy man on the [[Hill|hill]] who was almost canonized already."
-
-"One is tempted to wish he were martyred already; but the [[Martyrdom|martyrdom]],
-if any, was not his," said Garth darkly.  "Allow me to continue my story
-in order.  I had crossed the market-place to find Professor Boyg's
-private [[house]], which stood at the corner of it.  I found the shutters
-up and the [[house]] apparently empty, except for one old servant,
-who refused at first to tell me anything; indeed, I found a good deal
-of rustic reluctance on both sides to tell a foreigner anything.
-But when I had managed to make the [[Nature|nature]] of my introduction quite
-plain to him, he finally broke down; and told me his master was dead."

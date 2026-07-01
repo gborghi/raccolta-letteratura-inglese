@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 10: I BECOME NEGLECTED, AND AM PROVIDED FOR (part 4)"
+title: "David Copperfield — Chapter 10: I BECOME NEGLECTED, AND AM PROVIDED FOR (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_10_i_become_neglected_and_am_prov/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_10_i_become_neglected_and_am_prov/part_05">part 05 ›</a></div>
 </nav>
 
+
+‘If I had you for my guardian, Mr. Peggotty,’ said I, shaking my head,
+‘I don’t think I should FEEL much like it.’
+
+‘[[Well]] said, Mas’r Davy bor’!’ cried Ham, in an ecstasy. ‘Hoorah! [[Well]]
+said! Nor more you wouldn’t! Hor! Hor!’--Here he returned Mr. Peggotty’s
+back-hander, and little Em’ly got up and kissed Mr. Peggotty. ‘And how’s
+your friend, sir?’ said Mr. Peggotty to me.
+
+‘Steerforth?’ said I.
+
+‘That’s the name!’ cried Mr. Peggotty, turning to Ham. ‘I knowed it was
+something in our way.’
+
+‘You said it was Rudderford,’ observed Ham, laughing.
+
+‘[[Well]]!’ retorted Mr. Peggotty. ‘And ye steer with a rudder, don’t ye? It
+ain’t fur off. How is he, sir?’
 
 ‘He was very [[Well|well]] indeed when I came away, Mr. Peggotty.’
 

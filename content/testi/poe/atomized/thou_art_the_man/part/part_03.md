@@ -1,5 +1,5 @@
 ---
-title: "[[Thou Art the Man]] (part 3)"
+title: "Thou Art the Man (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/thou-art-the-man-(poe)"

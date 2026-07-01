@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 46 (part 2)"
+title: "Mansfield Park — Chapter 46 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -110,19 +110,3 @@ kindness at such a moment! Do justice to his meaning, however I may
 confuse it. You may imagine something of my present state. There is no
 end of the evil let loose upon us. You will see me early by the
 mail.—Yours, etc.”
-
-Never had Fanny more wanted a cordial. Never had she felt such a one as
-this letter contained. To-morrow! to leave Portsmouth to-morrow! She
-was, she felt she was, in the greatest danger of being exquisitely
-happy, while so many were miserable. The evil which brought such good
-to her! She dreaded lest she should learn to be insensible of it. To be
-going so soon, sent for so kindly, sent for as a comfort, and with
-leave to take Susan, was altogether such a combination of blessings as
-set her heart in a glow, and for a [[Time|time]] seemed to distance every [[Pain|pain]],
-and make her incapable of suitably sharing the distress even of those
-whose distress she thought of most. [[Julia]]’s elopement could affect her
-comparatively but little; she was amazed and shocked; but it could not
-occupy her, could not dwell on her mind. She was obliged to call
-herself to think of it, and acknowledge it to be terrible and grievous,
-or it was escaping her, in the midst of all the agitating pressing
-joyful cares attending this summons to herself.

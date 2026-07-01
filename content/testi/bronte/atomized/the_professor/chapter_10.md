@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 9"
+title: "The Professor — Chapter 9"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-professor-(bronte)"
@@ -16,8 +16,6 @@ tags:
 
 CHAPTER IX.
 
-
-
 M. PELET could not of course object to the proposal made by Mdlle.
 
 Reuter; permission to accept such additional employment, should it
@@ -29,8 +27,6 @@ It was, therefore, arranged in the course of next day that I should
 be at liberty to give lessons in Mdlle. Reuter’s establishment four
 
 afternoons in every week.
-
-
 
 When evening came I prepared to step over in order to seek a conference
 
@@ -62,8 +58,6 @@ or attraction; something young, but not youthful, no object to win a
 
 lady’s [[Love|love]], no butt for the shafts of Cupid.
 
-
-
 I was soon at the entrance of the pensionnat, in a moment I had pulled
 
 the bell; in another moment the door was opened, and within appeared a
@@ -74,11 +68,9 @@ painted in [[Imitation|imitation]] of marble also; and at the far end opened a g
 
 door, through which I saw shrubs and a grass-plat, looking pleasant in
 
-the sunshine of the mild [[spring]] evening--for it was now the middle of
+the sunshine of the mild [[Spring|spring]] evening--for it was now the middle of
 
 April.
-
-
 
 This, then, was my first glimpse of the [[Garden|garden]]; but I had not [[Time|time]] to
 
@@ -116,8 +108,6 @@ another glimpse of the [[Garden|garden]], through the large, clear panes, round
 
 which some [[Leaves|leaves]] of ivy, some tendrils of vine were trained.
 
-
-
 “Monsieur Creemsvort, n’est ce pas?” said a voice behind me; and,
 
 starting involuntarily, I turned. I had been so taken up with the
@@ -136,8 +126,6 @@ aspect of her little cabinet, and the advantage she had over M. Pelet in
 
 possessing a [[Garden|garden]].
 
-
-
 “Yes,” she said, “she often thought so;” and added, “it is my [[Garden|garden]],
 
 monsieur, which makes me retain this [[house]], otherwise I should probably
@@ -148,11 +136,7 @@ see I could not take my [[Garden|garden]] with me, and I should scarcely find on
 
 so large and pleasant anywhere else in town.”
 
-
-
 I approved her judgment.
-
-
 
 “But you have not seen it yet,” said she, rising; “come to the [[Window|window]]
 
@@ -177,8 +161,6 @@ was not only on Mdlle. Reuter’s [[Garden|garden]] that my eyes dwelt; when I h
 taken a view of her [[Well|well]]-trimmed beds and budding shrubberies, I allowed
 
 my glance to come back to herself, nor did I hastily withdraw it.
-
-
 
 I had thought to see a tall, meagre, yellow, conventual image in black,
 
@@ -208,8 +190,6 @@ cheek was like the bloom on a good apple, which is as sound at the core
 
 as it is red on the rind.
 
-
-
 Mdlle. Reuter and I entered upon business. She said she was not
 
 absolutely certain of the wisdom of the step she was about to take,
@@ -225,8 +205,6 @@ The fitness of a professor is not a matter of age; and, from what I have
 heard, and from what I observe myself, I would much rather trust you
 
 than M. Ledru, the music-master, who is a married man of near fifty.”
-
-
 
 I remarked that I hoped she would find me worthy of her good opinion;
 
@@ -280,17 +258,11 @@ my hand, on purpose, though I knew it was contrary to the etiquette of
 
 foreign habits; she smiled, and said--
 
-
-
 “Ah! c’est comme tous les Anglais,” but gave me her hand very kindly.
-
-
 
 “It is the privilege of my country, Mademoiselle,” said I; “and,
 
 remember, I shall always claim it.”
-
-
 
 She laughed a little, quite good-naturedly, and with the sort of
 

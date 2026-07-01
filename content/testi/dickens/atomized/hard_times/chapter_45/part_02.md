@@ -1,5 +1,5 @@
 ---
-title: "Hard Times — Chapter 7 (part 2)"
+title: "Hard Times — Chapter 8 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/hard-times-(dickens)"
@@ -10,154 +10,130 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/hard-times-(dickens)">Hard Times</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/hard_times/chapter_45/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/hard_times/chapter_47/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/hard_times/chapter_45/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/hard_times/chapter_46/part_01">part 01 ›</a></div>
 </nav>
 
 
-‘Indeed?  Rather young for that, is he not, sir?’  Mrs. Sparsit’s ‘sir,’
-in addressing Mr. Bounderby, was a word of ceremony, rather exacting
-consideration for herself in the use, than honouring him.
+‘Oh!  You,’ said Tom; ‘you are a girl, Loo, and a girl comes out of it
+better than a boy does.  I don’t miss anything in you.  You are the only
+pleasure I have—you can brighten even this place—and you can always lead
+me as you like.’
 
-‘I’m not going to take him at once; he is to finish his educational
-cramming before then,’ said Bounderby.  ‘By the Lord Harry, he’ll have
-enough of it, first and last!  He’d open his eyes, that boy would, if he
-knew how empty of learning _my_ young maw was, at his [[Time|time]] of life.’
-Which, by the by, he probably did know, for he had heard of it often
-enough.  ‘But it’s extraordinary the difficulty I have on scores of such
-subjects, in speaking to any one on equal terms.  Here, for example, I
-have been speaking to you this morning about tumblers.  Why, what do
-_you_ know about tumblers?  At the [[Time|time]] when, to have been a tumbler in
-the mud of the streets, would have been a godsend to me, a prize in the
-lottery to me, you were at the Italian Opera.  You were coming out of the
-Italian Opera, ma’am, in white satin and jewels, a blaze of splendour,
-when I hadn’t a penny to buy a link to light you.’
+‘You are a dear brother, Tom; and while you think I can do such things, I
+don’t so much mind knowing better.  Though I do know better, Tom, and am
+very sorry for it.’  She came and kissed him, and went back into her
+corner again.
 
-‘I certainly, sir,’ returned Mrs. Sparsit, with a dignity serenely
-mournful, ‘was familiar with the Italian Opera at a very early age.’
+‘I wish I could collect all the Facts we hear so much about,’ said Tom,
+spitefully setting his teeth, ‘and all the Figures, and all the people
+who found them out: and I wish I could put a thousand barrels of
+gunpowder under them, and blow them all up together!  However, when I go
+to live with old Bounderby, I’ll have my [[Revenge|revenge]].’
 
-‘Egad, ma’am, so was I,’ said Bounderby, ‘—with the wrong side of it.  A
-hard bed the pavement of its Arcade used to make, I assure you.  People
-like you, ma’am, accustomed from infancy to lie on Down feathers, have no
-idea _how_ hard a paving-stone is, without trying it.  No, no, it’s of no
-use my talking to _you_ about tumblers.  I should speak of foreign
-dancers, and the West End of [[London]], and May Fair, and lords and ladies
-and honourables.’
+‘Your [[Revenge|revenge]], Tom?’
 
-‘I trust, sir,’ rejoined Mrs. Sparsit, with decent [[Resignation|resignation]], ‘it is
-not necessary that you should do anything of that kind.  I [[Hope|hope]] I have
-learnt how to accommodate myself to the changes of life.  If I have
-acquired an interest in hearing of your instructive experiences, and can
-scarcely hear enough of them, I claim no merit for that, since I believe
-it is a general sentiment.’
+‘I mean, I’ll enjoy myself a little, and go about and see something, and
+hear something.  I’ll recompense myself for the way in which I have been
+brought up.’
 
-‘[[Well]], ma’am,’ said her patron, ‘perhaps some people may be pleased to
-say that they do like to hear, in his own unpolished way, what Josiah
-Bounderby, of Coketown, has gone through.  But you must confess that you
-were born in the lap of luxury, yourself.  Come, ma’am, you know you were
-born in the lap of luxury.’
+‘But don’t disappoint yourself beforehand, Tom.  Mr. Bounderby thinks as
+father thinks, and is a great deal rougher, and not half so kind.’
 
-‘I do not, sir,’ returned Mrs. Sparsit with a shake of her head, ‘deny
-it.’
+‘Oh!’ said Tom, laughing; ‘I don’t mind that.  I shall very [[Well|well]] know how
+to manage and smooth old Bounderby!’
 
-Mr. Bounderby was obliged to get up from table, and stand with his back
-to the [[Fire|fire]], looking at her; she was such an enhancement of his position.
+Their shadows were defined upon the wall, but those of the high presses
+in the room were all blended together on the wall and on the ceiling, as
+if the brother and sister were overhung by a dark cavern.  Or, a fanciful
+[[Imagination|imagination]]—if such treason could have been there—might have made it out
+to be the [[Shadow|shadow]] of their subject, and of its lowering association with
+their future.
 
-‘And you were in crack society.  Devilish high society,’ he said, warming
-his legs.
+‘What is your great mode of smoothing and managing, Tom?  Is it a
+secret?’
 
-‘It is true, sir,’ returned Mrs. Sparsit, with an affectation of [[Humility|humility]]
-the very opposite of his, and therefore in no danger of jostling it.
+‘Oh!’ said Tom, ‘if it is a secret, it’s not far off.  It’s you.  You are
+his little pet, you are his favourite; he’ll do anything for you.  When
+he says to me what I don’t like, I shall say to him, “My sister Loo will
+be hurt and disappointed, Mr. Bounderby.  She always used to tell me she
+was sure you would be easier with me than this.”  That’ll bring him
+about, or nothing will.’
 
-‘You were in the tiptop fashion, and all the rest of it,’ said Mr.
-Bounderby.
+After waiting for some answering remark, and getting none, Tom wearily
+relapsed into the present [[Time|time]], and twined himself yawning round and
+about the rails of his chair, and rumpled his head more and more, until
+he suddenly looked up, and asked:
 
-‘Yes, sir,’ returned Mrs. Sparsit, with a kind of social widowhood upon
-her.  ‘It is unquestionably true.’
+‘Have you gone to [[Sleep|sleep]], Loo?’
 
-Mr. Bounderby, bending himself at the knees, literally embraced his legs
-in his great satisfaction and laughed aloud.  Mr. and Miss Gradgrind
-being then announced, he received the former with a shake of the hand,
-and the latter with a kiss.
+‘No, Tom.  I am looking at the [[Fire|fire]].’
 
-‘Can Jupe be sent here, Bounderby?’ asked Mr. Gradgrind.
+‘You seem to find more to look at in it than ever I could find,’ said
+Tom.  ‘Another of the advantages, I suppose, of being a girl.’
 
-Certainly.  So Jupe was sent there.  On coming in, she curtseyed to Mr.
-Bounderby, and to his friend [[Tom Gradgrind]], and also to Louisa; but in
-her confusion unluckily omitted Mrs. Sparsit.  Observing this, the
-blustrous Bounderby had the following remarks to make:
+‘Tom,’ enquired his sister, slowly, and in a curious tone, as if she were
+reading what she asked in the [[Fire|fire]], and it was not quite plainly written
+there, ‘do you look forward with any satisfaction to this change to Mr.
+Bounderby’s?’
 
-‘Now, I tell you what, my girl.  The name of that lady by the teapot, is
-Mrs. Sparsit.  That lady acts as mistress of this [[house]], and she is a
-highly connected lady.  Consequently, if ever you come again into any
-room in this [[house]], you will make a short stay in it if you don’t behave
-towards that lady in your most respectful manner.  Now, I don’t care a
-button what you do to _me_, because I don’t affect to be anybody.  So far
-from having high connections I have no connections at all, and I come of
-the scum of the earth.  But towards that lady, I do care what you do; and
-you shall do what is deferential and respectful, or you shall not come
-here.’
+‘Why, there’s one thing to be said of it,’ returned Tom, pushing his
+chair from him, and standing up; ‘it will be getting away from [[Home|home]].’
 
-‘I [[Hope|hope]], Bounderby,’ said Mr. Gradgrind, in a conciliatory voice, ‘that
-this was merely an oversight.’
+‘There is one thing to be said of it,’ Louisa repeated in her former
+curious tone; ‘it will be getting away from [[Home|home]].  Yes.’
 
-‘My friend [[Tom Gradgrind]] suggests, Mrs. Sparsit,’ said Bounderby, ‘that
-this was merely an oversight.  Very likely.  However, as you are aware,
-ma’am, I don’t allow of even oversights towards you.’
+‘Not but what I shall be very unwilling, both to leave you, Loo, and to
+leave you here.  But I must go, you know, whether I like it or not; and I
+had better go where I can take with me some advantage of your influence,
+than where I should lose it altogether.  Don’t you see?’
 
-‘You are very good indeed, sir,’ returned Mrs. Sparsit, shaking her head
-with her State [[Humility|humility]].  ‘It is not worth speaking of.’
+‘Yes, Tom.’
 
-Sissy, who all this [[Time|time]] had been faintly excusing herself with [[Tears|tears]] in
-her eyes, was now waved over by the master of the [[house]] to Mr. Gradgrind.
-She stood looking intently at him, and Louisa stood coldly by, with her
-eyes upon the ground, while he proceeded thus:
+The answer was so long in coming, though there was no indecision in it,
+that Tom went and leaned on the back of her chair, to contemplate the
+[[Fire|fire]] which so engrossed her, from her point of view, and see what he
+could make of it.
 
-‘Jupe, I have made up my mind to take you into my [[house]]; and, when you
-are not in attendance at the school, to employ you about Mrs. Gradgrind,
-who is rather an invalid.  I have explained to Miss Louisa—this is Miss
-Louisa—the miserable but natural end of your late career; and you are to
-expressly understand that the whole of that subject is past, and is not
-to be referred to any more.  From this [[Time|time]] you begin your [[history]].  You
-are, at present, ignorant, I know.’
+‘Except that it is a [[Fire|fire]],’ said Tom, ‘it looks to me as stupid and blank
+as everything else looks.  What do you see in it?  Not a circus?’
 
-‘Yes, sir, very,’ she answered, curtseying.
+‘I don’t see anything in it, Tom, particularly.  But since I have been
+looking at it, I have been wondering about you and me, grown up.’
 
-‘I shall have the satisfaction of causing you to be strictly educated;
-and you will be a living proof to all who come into communication with
-you, of the advantages of the training you will receive.  You will be
-reclaimed and formed.  You have been in the habit now of reading to your
-father, and those people I found you among, I dare say?’ said Mr.
-Gradgrind, beckoning her nearer to him before he said so, and dropping
-his voice.
+‘Wondering again!’ said Tom.
 
-‘Only to father and Merrylegs, sir.  At least I mean to father, when
-Merrylegs was always there.’
+‘I have such unmanageable thoughts,’ returned his sister, ‘that they
+_will_ [[Wonder|wonder]].’
 
-‘Never mind Merrylegs, Jupe,’ said Mr. Gradgrind, with a passing frown.
-‘I don’t ask about him.  I understand you to have been in the habit of
-reading to your father?’
+‘Then I beg of you, Louisa,’ said Mrs. Gradgrind, who had opened the door
+without being heard, ‘to do nothing of that description, for goodness’
+sake, you inconsiderate girl, or I shall never hear the last of it from
+your father.  And, Thomas, it is really shameful, with my poor head
+continually wearing me out, that a boy brought up as you have been, and
+whose [[Education|education]] has cost what yours has, should be found encouraging his
+sister to [[Wonder|wonder]], when he knows his father has expressly said that she is
+not to do it.’
 
-‘O, yes, sir, thousands of times.  They were the happiest—O, of all the
-happy times we had together, sir!’
+Louisa denied Tom’s participation in the offence; but her mother stopped
+her with the conclusive answer, ‘Louisa, don’t tell me, in my state of
+health; for unless you had been encouraged, it is morally and physically
+impossible that you could have done it.’
 
-It was only now when her sorrow broke out, that Louisa looked at her.
+‘I was encouraged by nothing, mother, but by looking at the red sparks
+dropping out of the [[Fire|fire]], and whitening and dying.  It made me think,
+after all, how short my life would be, and how little I could [[Hope|hope]] to do
+in it.’
 
-‘And what,’ asked Mr. Gradgrind, in a still lower voice, ‘did you read to
-your father, Jupe?’
-
-‘About the Fairies, sir, and the [[Dwarf]], and the Hunchback, and the
-Genies,’ she sobbed out; ‘and about—’
-
-‘Hush!’ said Mr. Gradgrind, ‘that is enough.  Never breathe a word of
-such destructive nonsense any more.  Bounderby, this is a case for rigid
-training, and I shall observe it with interest.’
-
-‘[[Well]],’ returned Mr. Bounderby, ‘I have given you my opinion already, and
-I shouldn’t do as you do.  But, very [[Well|well]], very [[Well|well]].  Since you are bent
-upon it, _very_ [[Well|well]]!’
-
-So, Mr. Gradgrind and his daughter took Cecilia Jupe off with them to
-Stone Lodge, and on the way Louisa never spoke one word, good or bad.
-And Mr. Bounderby went about his daily pursuits.  And Mrs. Sparsit got
-behind her eyebrows and meditated in the gloom of that retreat, all the
-evening.
+‘Nonsense!’ said Mrs. Gradgrind, rendered almost energetic.  ‘Nonsense!
+Don’t stand there and tell me such stuff, Louisa, to my face, when you
+know very [[Well|well]] that if it was ever to reach your father’s ears I should
+never hear the last of it.  After all the trouble that has been taken
+with you!  After the lectures you have attended, and the experiments you
+have seen!  After I have heard you myself, when the whole of my right
+side has been benumbed, going on with your master about combustion, and
+calcination, and calorification, and I may say every kind of ation that
+could drive a poor invalid distracted, to hear you talking in this absurd
+way about sparks and ashes!  I wish,’ whimpered Mrs. Gradgrind, taking a
+chair, and discharging her strongest point before succumbing under these
+mere shadows of facts, ‘yes, I really _do_ wish that I had never had a
+family, and then you would have known what it was to do without me!’

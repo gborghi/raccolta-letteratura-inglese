@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 38: A DISSOLUTION OF PARTNERSHIP (part 2)"
+title: "David Copperfield — Chapter 38: A DISSOLUTION OF PARTNERSHIP (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"

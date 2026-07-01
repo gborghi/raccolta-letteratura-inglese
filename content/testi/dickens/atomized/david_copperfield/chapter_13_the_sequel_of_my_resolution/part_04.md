@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 13: THE SEQUEL OF MY RESOLUTION (part 4)"
+title: "David Copperfield — Chapter 13: THE SEQUEL OF MY RESOLUTION (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_13_the_sequel_of_my_resolution/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_13_the_sequel_of_my_resolution/part_05">part 05 ›</a></div>
 </nav>
 
+
+The woman burst into a fit of laughter, as if she thought this a joke,
+and tossed it back to me, nodded once, as slightly as before, and made
+the word ‘Go!’ with her lips. Before I could obey, however, the tinker
+seized the handkerchief out of my hand with a roughness that threw me
+away like a feather, and putting it loosely round his own neck, turned
+upon the woman with an oath, and knocked her down. I never shall forget
+seeing her fall backward on the hard [[Road|road]], and lie there with her bonnet
+tumbled off, and her hair all whitened in the [[Dust|dust]]; nor, when I looked
+back from a distance, seeing her sitting on the pathway, which was a
+bank by the roadside, wiping the [[Blood|blood]] from her face with a corner of
+her shawl, while he went on ahead.
 
 This adventure frightened me so, that, afterwards, when I saw any of
 these people coming, I turned back until I could find a hiding-place,
@@ -114,18 +126,3 @@ it towards the parlour [[Window|window]], where a muslin curtain partly undrawn
 in the middle, a large round green screen or fan fastened on to the
 windowsill, a small table, and a great chair, suggested to me that my
 aunt might be at that moment seated in awful state.
-
-My shoes were by this [[Time|time]] in a woeful condition. The soles had shed
-themselves bit by bit, and the upper leathers had broken and burst until
-the very shape and form of shoes had departed from them. My hat (which
-had served me for a [[Night|night]]-cap, too) was so crushed and bent, that no old
-battered handleless saucepan on a dunghill need have been ashamed to vie
-with it. My shirt and trousers, stained with heat, dew, grass, and
-the Kentish soil on which I had slept--and torn besides--might have
-frightened the [[Birds|birds]] from my aunt’s [[Garden|garden]], as I stood at the gate. My
-hair had known no comb or brush since I left [[London]]. My face, neck, and
-hands, from unaccustomed exposure to the air and sun, were burnt to a
-berry-brown. From head to foot I was powdered almost as white with [[chalk]]
-and [[Dust|dust]], as if I had come out of a lime-kiln. In this plight, and with
-a strong consciousness of it, I waited to introduce myself to, and make
-my first impression on, my formidable aunt.

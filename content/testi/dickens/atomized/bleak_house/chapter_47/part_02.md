@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 47 (part 2)"
+title: "Bleak House — Chapter 47 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_47/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_47/part_03">part 03 ›</a></div>
 </nav>
 
+
+“Your servant, sir,” says Mr. George with a military salute.
+Good-humouredly smiling all over his broad forehead up into his crisp
+hair, he then defers to Miss Flite, as, with great stateliness, and
+at some length, she performs the courtly ceremony of presentation. He
+winds it up with another “Your servant, sir!” and another salute.
 
 “Excuse me, sir. A sailor, I believe?” says Mr. George.
 
@@ -132,11 +138,3 @@ soil and climate, sinks his immortal [[Nature|nature]] lower than the beasts
 that perish. Stand forth, Jo, in uncompromising colours! From the
 sole of thy foot to the [[Crown|crown]] of thy head, there is nothing
 interesting about thee.
-
-He shuffles slowly into Mr. George’s gallery and stands huddled
-together in a bundle, looking all about the floor. He seems to know
-that they have an inclination to shrink from him, partly for what he
-is and partly for what he has caused. He, too, shrinks from them. He
-is not of the same order of things, not of the same place in
-creation. He is of no order and no place, neither of the beasts nor
-of humanity.

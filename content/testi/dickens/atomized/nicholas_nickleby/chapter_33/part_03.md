@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 33 (part 3)"
+title: "Nicholas Nickleby — Chapter 33 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_33/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_34/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘They will laugh no more at us, I take it,’ said Nicholas, advancing.
+‘Come, mother, there is a coach at the door, and until Monday, at all
+events, we will return to our old quarters.’
+
+‘--Where everything is ready, and a hearty welcome into the bargain,’
+added Miss La Creevy. ‘Now, let me go with you downstairs.’
+
+But Mrs. Nickleby was not to be so easily moved, for first she insisted
+on going upstairs to see that nothing had been left, and then on going
+downstairs to see that everything had been taken away; and when she was
+getting into the coach she had a vision of a forgotten coffee-pot on the
+back-kitchen hob, and after she was shut in, a dismal recollection of
+a green umbrella behind some unknown door. At last Nicholas, in a
+condition of absolute [[Despair|despair]], ordered the coachman to drive away,
+and in the unexpected jerk of a sudden starting, Mrs. Nickleby lost a
+shilling among the straw, which fortunately confined her attention to
+the coach until it was too late to remember anything else.
 
 Having seen everything safely out, discharged the servant, and locked
 the door, Nicholas jumped into a cabriolet and drove to a bye place near

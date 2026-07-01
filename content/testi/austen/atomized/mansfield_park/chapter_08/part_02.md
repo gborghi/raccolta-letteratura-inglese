@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 8 (part 2)"
+title: "Mansfield Park — Chapter 8 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/mansfield_park/chapter_08/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/mansfield_park/chapter_08/part_03">part 03 ›</a></div>
 </nav>
 
+
+“There can be no objection, then, to Fanny’s going with you; there can
+be no [[Doubt|doubt]] of your having room for her.”
+
+“Fanny!” repeated Mrs. Norris; “my dear [[Edmund]], there is no idea of her
+going with us. She stays with her aunt. I told Mrs. Rushworth so. She
+is not expected.”
 
 “You can have no reason, I imagine, madam,” said he, addressing his
 mother, “for wishing Fanny _not_ to be of the party, but as it relates
@@ -116,18 +123,3 @@ women, her talents for the light and lively. In looking back after
 when he gained on them in ascending a considerable [[Hill|hill]], they were
 united, and a “there he is” broke at the same moment from them both,
 more than once.
-
-For the first seven miles Miss [[Bertram]] had very little real comfort:
-her prospect always ended in Mr. Crawford and her sister sitting side
-by side, full of conversation and merriment; and to see only his
-expressive profile as he turned with a smile to [[Julia]], or to catch the
-laugh of the other, was a perpetual source of irritation, which her own
-sense of propriety could but just smooth over. When [[Julia]] looked back,
-it was with a countenance of delight, and whenever she spoke to them,
-it was in the highest spirits: “her view of the country was charming,
-she wished they could all see it,” etc.; but her only offer of exchange
-was addressed to Miss Crawford, as they gained the summit of a long
-[[Hill|hill]], and was not more inviting than this: “Here is a fine burst of
-country. I wish you had my seat, but I dare say you will not take it,
-let me press you ever so much;” and Miss Crawford could hardly answer
-before they were moving again at a good pace.

@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 22 (part 3)"
+title: "Nicholas Nickleby — Chapter 22 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_22/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_22/part_04">part 04 ›</a></div>
 </nav>
 
+
+The day wore on, and all these bright colours subsided, and assumed
+a quieter tint, like young hopes softened down by [[Time|time]], or youthful
+features by degrees resolving into the calm and serenity of age. But
+they were scarcely less beautiful in their slow decline, than they had
+been in their prime; for [[Nature|nature]] gives to every [[Time|time]] and season some
+beauties of its own; and from morning to [[Night|night]], as from the cradle to
+the [[Grave|grave]], is but a succession of changes so gentle and easy, that we
+can scarcely mark their progress.
 
 To Godalming they came at last, and here they bargained for two humble
 beds, and slept soundly. In the morning they were astir: though
@@ -124,19 +133,3 @@ prospect of the savoury pudding was making some impression.
 
 ‘Not he,’ replied the landlord. ‘He’ll like your way of talking, I know.
 But we’ll soon see all about that. Just wait a minute.’
-
-The landlord hurried into the parlour, without staying for further
-permission, nor did Nicholas strive to prevent him: wisely considering
-that supper, under the circumstances, was too serious a matter to be
-trifled with. It was not long before the host returned, in a condition
-of much excitement.
-
-‘All right,’ he said in a low voice. ‘I knew he would. You’ll see
-something rather worth seeing, in there. Ecod, how they are a-going of
-it!’
-
-There was no [[Time|time]] to inquire to what this exclamation, which was
-delivered in a very rapturous tone, referred; for he had already thrown
-open the door of the room; into which Nicholas, followed by [[Smike]] with
-the bundle on his shoulder (he carried it about with him as vigilantly
-as if it had been a sack of gold), straightway repaired.

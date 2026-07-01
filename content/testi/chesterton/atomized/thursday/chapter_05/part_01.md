@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 5 (part 1)"
+title: "thursday — Chapter 5 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -17,7 +17,6 @@ tags:
                           CHAPTER V
 
                       THE FEAST OF [[Fear|FEAR]]
-
 
 AT first the large stone stair seemed to Syme as deserted as a pyramid;
 but before he reached the top he had realised that there was a man leaning

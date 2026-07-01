@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 14 (part 1)"
+title: "Jane Eyre — Chapter 14 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -123,7 +123,3 @@ his granite-hewn features, and in his great, dark eyes; for he had
 great, dark eyes, and very fine eyes, too—not without a certain change
 in their depths sometimes, which, if it was not softness, reminded you,
 at least, of that feeling.
-
-He had been looking two minutes at the [[Fire|fire]], and I had been looking the
-same length of [[Time|time]] at him, when, turning suddenly, he caught my gaze
-fastened on his physiognomy.

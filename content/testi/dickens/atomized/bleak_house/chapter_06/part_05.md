@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 6 (part 5)"
+title: "Bleak House — Chapter 6 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -133,9 +133,3 @@ powerful one that it seemed quite to lift him out of his seat.
 “Mr. Skimpole,” said [[Richard]] to me, “has a delicacy in applying to my
 cousin Jarndyce because he has lately—I think, sir, I understood you
 that you had lately—”
-
-“Oh, yes!” returned Mr. Skimpole, smiling. “Though I forgot how much
-it was and when it was. Jarndyce would readily do it again, but I
-have the epicure-like feeling that I would prefer a novelty in help,
-that I would rather,” and he looked at [[Richard]] and me, “develop
-generosity in a new soil and in a new form of flower.”

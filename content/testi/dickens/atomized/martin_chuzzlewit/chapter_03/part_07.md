@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 3 (part 7)"
+title: "Martin Chuzzlewit — Chapter 3 (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_03/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_04/part_01">part 01 ›</a></div>
 </nav>
 
+
+With these words, the old man fell slowly back upon his pillow. Mr
+Pecksniff as slowly [[Rose|rose]], and, with a prefatory hem, began as follows:
+
+‘Mr Chuzzlewit.’
+
+‘There. Go!’ interposed the other. ‘Enough of this. I am weary of you.’
+
+‘I am sorry for that, sir,’ rejoined Mr Pecksniff, ‘because I have a
+duty to discharge, from which, depend upon it, I shall not shrink. No,
+sir, I shall not shrink.’
 
 It is a lamentable fact, that as Mr Pecksniff stood erect beside the
 bed, in all the dignity of Goodness, and addressed him thus, the old man

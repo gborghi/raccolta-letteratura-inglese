@@ -14,6 +14,10 @@ tags:
 </nav>
 
 
+      credulity, that I proceed in utter hopelessness of obtaining
+
+      credence for all that I shall tell, yet confidently trusting in
+
       [[Time|time]] and progressing science to verify some of the most important
 
       and most improbable of my statements.

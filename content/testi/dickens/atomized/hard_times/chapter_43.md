@@ -1,5 +1,5 @@
 ---
-title: "Hard Times — Chapter 5"
+title: "Hard Times — Chapter 6"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/hard-times-(dickens)"
@@ -14,229 +14,543 @@ tags:
 </nav>
 
 
-CHAPTER V
-THE KEYNOTE
+CHAPTER VI
+SLEARY’S HORSEMANSHIP
 
 
-COKETOWN, to which Messrs. Bounderby and Gradgrind now walked, was a
-triumph of fact; it had no greater taint of fancy in it than Mrs.
-Gradgrind herself.  Let us strike the key-note, Coketown, before pursuing
-our tune.
+THE name of the public-[[house]] was the Pegasus’s Arms.  The Pegasus’s legs
+might have been more to the purpose; but, underneath the winged [[Horse|horse]]
+upon the sign-board, the Pegasus’s Arms was inscribed in Roman letters.
+Beneath that [[Inscription|inscription]] again, in a flowing scroll, the painter had
+touched off the lines:
 
-It was a town of red brick, or of brick that would have been red if the
-smoke and ashes had allowed it; but as matters stood, it was a town of
-unnatural red and black like the painted face of a savage.  It was a town
-of machinery and tall chimneys, out of which interminable serpents of
-smoke trailed themselves for ever and ever, and never got uncoiled.  It
-had a black canal in it, and a [[River|river]] that ran purple with ill-smelling
-dye, and vast piles of building full of windows where there was a
-rattling and a trembling all day long, and where the piston of the
-steam-engine worked monotonously up and down, like the head of an
-elephant in a state of [[Melancholy|melancholy]] [[Madness|madness]].  It contained several large
-streets all very like one another, and many small streets still more like
-one another, inhabited by people equally like one another, who all went
-in and out at the same hours, with the same sound upon the same
-pavements, to do the same work, and to whom every day was the same as
-yesterday and to-morrow, and every year the counterpart of the last and
-the next.
+    Good malt makes good beer,
+    Walk in, and they’ll draw it here;
+    Good wine makes good brandy,
+    Give us a call, and you’ll find it handy.
 
-These attributes of Coketown were in the main inseparable from the work
-by which it was sustained; against them were to be set off, comforts of
-life which found their way all over the world, and elegancies of life
-which made, we will not ask how much of the fine lady, who could scarcely
-bear to hear the place mentioned.  The rest of its features were
-voluntary, and they were these.
+Framed and glazed upon the wall behind the dingy little bar, was another
+Pegasus—a theatrical one—with real gauze let in for his wings, golden
+[[Stars|stars]] stuck on all over him, and his ethereal harness made of red silk.
 
-You saw nothing in Coketown but what was severely workful.  If the
-members of a religious [[Persuasion|persuasion]] built a chapel there—as the members of
-eighteen religious persuasions had done—they made it a pious warehouse of
-red brick, with sometimes (but this is only in highly ornamental
-examples) a bell in a birdcage on the top of it.  The solitary exception
-was the New Church; a stuccoed edifice with a square steeple over the
-door, terminating in four short pinnacles like florid wooden legs.  All
-the public inscriptions in the town were painted alike, in severe
-characters of black and white.  The jail might have been the infirmary,
-the infirmary might have been the jail, the town-hall might have been
-either, or both, or anything else, for anything that appeared to the
-contrary in the graces of their construction.  Fact, fact, fact,
-everywhere in the material aspect of the town; fact, fact, fact,
-everywhere in the immaterial.  The M’Choakumchild school was all fact,
-and the school of design was all fact, and the relations between master
-and man were all fact, and everything was fact between the lying-in
-hospital and the cemetery, and what you couldn’t state in figures, or
-show to be purchaseable in the cheapest market and saleable in the
-dearest, was not, and never should be, world without end, Amen.
+As it had grown too dusky without, to see the sign, and as it had not
+grown light enough within to see the picture, Mr. Gradgrind and Mr.
+Bounderby received no offence from these idealities.  They followed the
+girl up some steep corner-stairs without meeting any one, and stopped in
+the dark while she went on for a candle.  They expected every moment to
+hear Merrylegs give tongue, but the highly trained performing dog had not
+barked when the girl and the candle appeared together.
 
-A town so sacred to fact, and so triumphant in its assertion, of course
-got on [[Well|well]]?  Why no, not quite [[Well|well]].  No?  Dear me!
+‘Father is not in our room, sir,’ she said, with a face of great
+surprise.  ‘If you wouldn’t mind walking in, I’ll find him directly.’
+They walked in; and Sissy, having set two chairs for them, sped away with
+a quick light step.  It was a mean, shabbily furnished room, with a bed
+in it.  The white [[Night|night]]-cap, embellished with two peacock’s feathers and
+a pigtail bolt upright, in which Signor Jupe had that very afternoon
+enlivened the varied performances with his chaste Shaksperean quips and
+retorts, hung upon a nail; but no other portion of his wardrobe, or other
+token of himself or his pursuits, was to be seen anywhere.  As to
+Merrylegs, that respectable ancestor of the highly trained animal who
+went aboard the ark, might have been accidentally shut out of it, for any
+sign of a dog that was manifest to eye or ear in the Pegasus’s Arms.
 
-No.  Coketown did not come out of its own furnaces, in all respects like
-gold that had stood the [[Fire|fire]].  First, the perplexing mystery of the place
-was, Who belonged to the eighteen denominations?  Because, whoever did,
-the labouring people did not.  It was very strange to walk through the
-streets on a [[Sunday]] morning, and note how few of _them_ the barbarous
-jangling of [[Bells|bells]] that was driving the sick and nervous mad, called away
-from their own quarter, from their own close rooms, from the corners of
-their own streets, where they lounged listlessly, gazing at all the
-church and chapel going, as at a thing with which they had no manner of
-concern.  Nor was it merely the stranger who noticed this, because there
-was a native organization in Coketown itself, whose members were to be
-heard of in the [[house|House]] of Commons every session, indignantly petitioning
-for acts of parliament that should make these people religious by main
-force.  Then came the Teetotal Society, who complained that these same
-people _would_ get drunk, and showed in tabular statements that they did
-get drunk, and proved at tea parties that no inducement, human or Divine
-(except a medal), would induce them to forego their custom of getting
-drunk.  Then came the chemist and druggist, with other tabular
-statements, showing that when they didn’t get drunk, they took opium.
-Then came the experienced chaplain of the jail, with more tabular
-statements, outdoing all the previous tabular statements, and showing
-that the same people _would_ resort to low haunts, hidden from the public
-eye, where they heard low singing and saw low dancing, and mayhap joined
-in it; and where A. B., aged twenty-four next birthday, and committed for
-eighteen months’ solitary, had himself said (not that he had ever shown
-himself particularly worthy of belief) his ruin began, as he was
-perfectly sure and confident that otherwise he would have been a tip-top
-moral specimen.  Then came Mr. Gradgrind and Mr. Bounderby, the two
-gentlemen at this present moment walking through Coketown, and both
-eminently practical, who could, on occasion, furnish more tabular
-statements derived from their own personal experience, and illustrated by
-cases they had known and seen, from which it clearly appeared—in short,
-it was the only clear thing in the case—that these same people were a bad
-lot altogether, gentlemen; that do what you would for them they were
-never thankful for it, gentlemen; that they were restless, gentlemen;
-that they never knew what they wanted; that they lived upon the best, and
-bought fresh butter; and insisted on Mocha coffee, and rejected all but
-prime parts of meat, and yet were eternally dissatisfied and
-unmanageable.  In short, it was the moral of the old nursery [[Fable|fable]]:
+They heard the doors of rooms above, opening and shutting as Sissy went
+from one to another in [[Quest|quest]] of her father; and presently they heard
+voices expressing surprise.  She came bounding down again in a great
+hurry, opened a battered and mangy old hair trunk, found it empty, and
+looked round with her hands clasped and her face full of terror.
 
-    There was an old woman, and what do you think?
-    She lived upon nothing but victuals and drink;
-    Victuals and drink were the whole of her diet,
-    And yet this old woman would NEVER be quiet.
+‘Father must have gone down to the Booth, sir.  I don’t know why he
+should go there, but he must be there; I’ll bring him in a minute!’  She
+was gone directly, without her bonnet; with her long, dark, childish hair
+streaming behind her.
 
-Is it possible, I [[Wonder|wonder]], that there was any analogy between the case of
-the Coketown population and the case of the little Gradgrinds?  Surely,
-none of us in our sober senses and acquainted with figures, are to be
-told at this [[Time|time]] of day, that one of the foremost elements in the
-existence of the Coketown working-people had been for scores of years,
-deliberately set at nought?  That there was any Fancy in them demanding
-to be brought into healthy existence instead of struggling on in
-convulsions?  That exactly in the ratio as they worked long and
-monotonously, the craving grew within them for some physical relief—some
-relaxation, encouraging good [[Humour|humour]] and good spirits, and giving them a
-vent—some recognized holiday, though it were but for an honest [[Dance|dance]] to a
-stirring band of music—some occasional light pie in which even
-M’Choakumchild had no finger—which craving must and would be satisfied
-aright, or must and would inevitably go wrong, until the laws of the
-Creation were repealed?
+‘What does she mean!’ said Mr. Gradgrind.  ‘Back in a minute?  It’s more
+than a mile off.’
 
-‘This man lives at Pod’s End, and I don’t quite know Pod’s End,’ said Mr.
-Gradgrind.  ‘Which is it, Bounderby?’
+Before Mr. Bounderby could reply, a young man appeared at the door, and
+introducing himself with the words, ‘By your [[Leaves|leaves]], gentlemen!’ walked
+in with his hands in his pockets.  His face, close-shaven, thin, and
+sallow, was shaded by a great quantity of dark hair, brushed into a roll
+all round his head, and parted up the centre.  His legs were very robust,
+but shorter than legs of good proportions should have been.  His chest
+and back were as much too broad, as his legs were too short.  He was
+dressed in a Newmarket coat and tight-fitting trousers; wore a shawl
+round his neck; smelt of lamp-oil, straw, orange-peel, horses’ provender,
+and sawdust; and looked a most remarkable sort of Centaur, compounded of
+the stable and the play-[[house]].  Where the one began, and the other ended,
+nobody could have told with any precision.  This gentleman was mentioned
+in the bills of the day as Mr. E. W. B. Childers, so justly celebrated
+for his daring vaulting act as the Wild Huntsman of the North American
+Prairies; in which popular performance, a diminutive boy with an old
+face, who now accompanied him, assisted as his infant son: being carried
+upside down over his father’s shoulder, by one foot, and held by the
+[[Crown|crown]] of his head, heels upwards, in the palm of his father’s hand,
+according to the violent paternal manner in which wild huntsmen may be
+observed to fondle their offspring.  Made up with curls, wreaths, wings,
+white bismuth, and carmine, this hopeful young person soared into so
+pleasing a Cupid as to constitute the chief delight of the maternal part
+of the spectators; but in private, where his characteristics were a
+precocious cutaway coat and an extremely gruff voice, he became of the
+Turf, turfy.
 
-Mr. Bounderby knew it was somewhere down town, but knew no more
-respecting it.  So they stopped for a moment, looking about.
+‘By your [[Leaves|leaves]], gentlemen,’ said Mr. E. W. B. Childers, glancing round
+the room.  ‘It was you, I believe, that were wishing to see Jupe!’
 
-Almost as they did so, there came running round the corner of the street
-at a quick pace and with a frightened look, a girl whom Mr. Gradgrind
-recognized.  ‘Halloa!’ said he.  ‘Stop!  Where are you going! Stop!’
-Girl number twenty stopped then, palpitating, and made him a curtsey.
+‘It was,’ said Mr. Gradgrind.  ‘His daughter has gone to fetch him, but I
+can’t wait; therefore, if you please, I will leave a message for him with
+you.’
 
-‘Why are you tearing about the streets,’ said Mr. Gradgrind, ‘in this
-improper manner?’
+‘You see, my friend,’ Mr. Bounderby put in, ‘we are the kind of people
+who know the value of [[Time|time]], and you are the kind of people who don’t know
+the value of [[Time|time]].’
 
-‘I was—I was run after, sir,’ the girl panted, ‘and I wanted to get
-away.’
+‘I have not,’ retorted Mr. Childers, after surveying him from head to
+foot, ‘the [[Honour|honour]] of knowing _you_,—but if you mean that you can make
+more money of your [[Time|time]] than I can of mine, I should judge from your
+appearance, that you are about right.’
 
-‘Run after?’ repeated Mr. Gradgrind.  ‘Who would run after _you_?’
+‘And when you have made it, you can keep it too, I should think,’ said
+Cupid.
 
-The question was unexpectedly and suddenly answered for her, by the
-colourless boy, Bitzer, who came round the corner with such blind [[Speed|speed]]
-and so little anticipating a stoppage on the pavement, that he brought
-himself up against Mr. Gradgrind’s waistcoat and rebounded into the [[Road|road]].
+‘Kidderminster, stow that!’ said Mr. Childers.  (Master Kidderminster was
+Cupid’s mortal name.)
 
-‘What do you mean, boy?’ said Mr. Gradgrind.  ‘What are you doing?  How
-dare you dash against—everybody—in this manner?’  Bitzer picked up his
-cap, which the concussion had knocked off; and backing, and knuckling his
-forehead, pleaded that it was an accident.
+‘What does he come here cheeking us for, then?’ cried Master
+Kidderminster, showing a very irascible temperament.  ‘If you want to
+cheek us, pay your ochre at the doors and take it out.’
 
-‘Was this boy running after you, Jupe?’ asked Mr. Gradgrind.
+‘Kidderminster,’ said Mr. Childers, raising his voice, ‘stow that!—Sir,’
+to Mr. Gradgrind, ‘I was addressing myself to you.  You may or you may
+not be aware (for perhaps you have not been much in the audience), that
+Jupe has missed his tip very often, lately.’
 
-‘Yes, sir,’ said the girl reluctantly.
+‘Has—what has he missed?’ asked Mr. Gradgrind, glancing at the potent
+Bounderby for assistance.
 
-‘No, I wasn’t, sir!’ cried Bitzer.  ‘Not till she run away from me.  But
-the [[Horse|horse]]-riders never mind what they say, sir; they’re famous for it.
-You know the [[Horse|horse]]-riders are famous for never minding what they say,’
-addressing Sissy.  ‘It’s as [[Well|well]] known in the town as—please, sir, as the
-multiplication table isn’t known to the [[Horse|horse]]-riders.’  Bitzer tried Mr.
-Bounderby with this.
+‘Missed his tip.’
 
-‘He frightened me so,’ said the girl, ‘with his cruel faces!’
+‘Offered at the Garters four times last [[Night|night]], and never done ’em once,’
+said Master Kidderminster.  ‘Missed his tip at the banners, too, and was
+loose in his ponging.’
 
-‘Oh!’ cried Bitzer.  ‘Oh!  An’t you one of the rest!  An’t you a
-[[Horse|horse]]-rider!  I never looked at her, sir.  I asked her if she would know
-how to define a [[Horse|horse]] to-morrow, and offered to tell her again, and she
-ran away, and I ran after her, sir, that she might know how to answer
-when she was asked.  You wouldn’t have thought of saying such mischief if
-you hadn’t been a [[Horse|horse]]-rider?’
+‘Didn’t do what he ought to do.  Was short in his leaps and bad in his
+tumbling,’ Mr. Childers interpreted.
 
-‘Her calling seems to be pretty [[Well|well]] known among ’em,’ observed Mr.
-Bounderby.  ‘You’d have had the whole school peeping in a row, in a
-week.’
+‘Oh!’ said Mr. Gradgrind, ‘that is tip, is it?’
 
-‘Truly, I think so,’ returned his friend.  ‘Bitzer, turn you about and
-take yourself [[Home|home]]. Jupe, stay here a moment.  Let me hear of your
-running in this manner any more, boy, and you will hear of me through the
-master of the school.  You understand what I mean.  Go along.’
+‘In a general way that’s missing his tip,’ Mr. E. W. B. Childers
+answered.
 
-The boy stopped in his rapid blinking, knuckled his forehead again,
-glanced at Sissy, turned about, and retreated.
+‘Nine oils, Merrylegs, missing tips, garters, banners, and Ponging, eh!’
+ejaculated Bounderby, with his laugh of laughs.  ‘Queer sort of company,
+too, for a man who has raised himself!’
 
-‘Now, girl,’ said Mr. Gradgrind, ‘take this gentleman and me to your
-father’s; we are going there.  What have you got in that bottle you are
-carrying?’
+‘Lower yourself, then,’ retorted Cupid.  ‘Oh Lord! if you’ve raised
+yourself so high as all that comes to, let yourself down a bit.’
 
-‘Gin,’ said Mr. Bounderby.
+‘This is a very obtrusive lad!’ said Mr. Gradgrind, turning, and knitting
+his brows on him.
 
-‘Dear, no, sir!  It’s the nine oils.’
+‘We’d have had a young gentleman to meet you, if we had known you were
+coming,’ retorted Master Kidderminster, nothing abashed.  ‘It’s a pity
+you don’t have a bespeak, being so particular.  You’re on the Tight-Jeff,
+ain’t you?’
 
-‘The what?’ cried Mr. Bounderby.
+‘What does this unmannerly boy mean,’ asked Mr. Gradgrind, eyeing him in
+a sort of desperation, ‘by Tight-Jeff?’
 
-‘The nine oils, sir, to rub father with.’
+‘There!  Get out, get out!’ said Mr. Childers, thrusting his young friend
+from the room, rather in the prairie manner.  ‘Tight-Jeff or Slack-Jeff,
+it don’t much signify: it’s only tight-rope and slack-rope.  You were
+going to give me a message for Jupe?’
 
-‘Then,’ said Mr. Bounderby, with a loud short laugh, ‘what the devil do
-you rub your father with nine oils for?’
+‘Yes, I was.’
 
-‘It’s what our people aways use, sir, when they get any hurts in the
-ring,’ replied the girl, looking over her shoulder, to assure herself
-that her pursuer was gone.  ‘They bruise themselves very bad sometimes.’
+‘Then,’ continued Mr. Childers, quickly, ‘my opinion is, he will never
+receive it.  Do you know much of him?’
 
-‘Serve ’em right,’ said Mr. Bounderby, ‘for being idle.’  She glanced up
-at his face, with mingled astonishment and dread.
+‘I never saw the man in my life.’
 
-‘By George!’ said Mr. Bounderby, ‘when I was four or five years younger
-than you, I had worse bruises upon me than ten oils, twenty oils, forty
-oils, would have rubbed off.  I didn’t get ’em by posture-making, but by
-being banged about.  There was no rope-dancing for me; I danced on the
-bare ground and was larruped with the rope.’
+‘I [[Doubt|doubt]] if you ever _will_ see him now.  It’s pretty plain to me, he’s
+off.’
 
-Mr. Gradgrind, though hard enough, was by no means so rough a man as Mr.
-Bounderby.  His character was not unkind, all things considered; it might
-have been a very kind one indeed, if he had only made some round mistake
-in the arithmetic that balanced it, years ago.  He said, in what he meant
-for a reassuring tone, as they turned down a narrow [[Road|road]], ‘And this is
-Pod’s End; is it, Jupe?’
+‘Do you mean that he has deserted his daughter?’
 
-‘This is it, sir, and—if you wouldn’t mind, sir—this is the [[house]].’
+‘Ay!  I mean,’ said Mr. Childers, with a nod, ‘that he has cut.  He was
+goosed last [[Night|night]], he was goosed the [[Night|night]] before last, he was goosed
+to-day.  He has lately got in the way of being always goosed, and he
+can’t stand it.’
 
-She stopped, at twilight, at the door of a mean little public-[[house]], with
-dim red lights in it.  As haggard and as shabby, as if, for want of
-custom, it had itself taken to drinking, and had gone the way all
-drunkards go, and was very near the end of it.
+‘Why has he been—so very much—Goosed?’ asked Mr. Gradgrind, forcing the
+word out of himself, with great solemnity and reluctance.
 
-‘It’s only crossing the bar, sir, and up the stairs, if you wouldn’t
-mind, and waiting there for a moment till I get a candle.  If you should
-hear a dog, sir, it’s only Merrylegs, and he only barks.’
+‘His joints are turning stiff, and he is getting used up,’ said Childers.
+‘He has his points as a Cackler still, but he can’t get a living out of
+_them_.’
 
-‘Merrylegs and nine oils, eh!’ said Mr. Bounderby, entering last with his
-metallic laugh.  ‘Pretty [[Well|well]] this, for a [[Self-Made Man|self-made man]]!’
+‘A Cackler!’ Bounderby repeated.  ‘Here we go again!’
+
+‘A speaker, if the gentleman likes it better,’ said Mr. E. W. B.
+Childers, superciliously throwing the interpretation over his shoulder,
+and accompanying it with a shake of his long hair—which all shook at
+once.  ‘Now, it’s a remarkable fact, sir, that it cut that man deeper, to
+know that his daughter knew of his being goosed, than to go through with
+it.’
+
+‘Good!’ interrupted Mr. Bounderby.  ‘This is good, Gradgrind!  A man so
+fond of his daughter, that he runs away from her!  This is devilish good!
+Ha! ha!  Now, I’ll tell you what, young man.  I haven’t always occupied
+my present station of life.  I know what these things are.  You may be
+astonished to hear it, but my mother—ran away from _me_.’
+
+E. W. B. Childers replied pointedly, that he was not at all astonished to
+hear it.
+
+‘Very [[Well|well]],’ said Bounderby.  ‘I was born in a ditch, and my mother ran
+away from me.  Do I excuse her for it?  No.  Have I ever excused her for
+it?  Not I.  What do I call her for it?  I call her probably the very
+worst woman that ever lived in the world, except my drunken grandmother.
+There’s no family [[Pride|pride]] about me, there’s no imaginative sentimental
+humbug about me.  I call a spade a spade; and I call the mother of Josiah
+Bounderby of Coketown, without any [[Fear|fear]] or any favour, what I should call
+her if she had been the mother of Dick [[Jones]] of Wapping.  So, with this
+man.  He is a runaway rogue and a vagabond, that’s what he is, in
+English.’
+
+‘It’s all the same to me what he is or what he is not, whether in English
+or whether in French,’ retorted Mr. E. W. B. Childers, facing about.  ‘I
+am telling your friend what’s the fact; if you don’t like to hear it, you
+can avail yourself of the open air.  You give it mouth enough, you do;
+but give it mouth in your own building at least,’ remonstrated E. W. B.
+with stern irony.  ‘Don’t give it mouth in this building, till you’re
+called upon.  You have got some building of your own I dare say, now?’
+
+‘Perhaps so,’ replied Mr. Bounderby, rattling his money and laughing.
+
+‘Then give it mouth in your own building, will you, if you please?’ said
+Childers.  ‘Because this isn’t a strong building, and too much of you
+might bring it down!’
+
+Eyeing Mr. Bounderby from head to foot again, he turned from him, as from
+a man finally disposed of, to Mr. Gradgrind.
+
+‘Jupe sent his daughter out on an errand not an hour ago, and then was
+seen to slip out himself, with his hat over his eyes, and a bundle tied
+up in a handkerchief under his arm.  She will never believe it of him,
+but he has cut away and left her.’
+
+‘Pray,’ said Mr. Gradgrind, ‘why will she never believe it of him?’
+
+‘Because those two were one.  Because they were never asunder.  Because,
+up to this [[Time|time]], he seemed to dote upon her,’ said Childers, taking a
+step or two to look into the empty trunk.  Both Mr. Childers and Master
+Kidderminster walked in a curious manner; with their legs wider apart
+than the general run of men, and with a very knowing assumption of being
+stiff in the knees.  This walk was common to all the male members of
+Sleary’s company, and was understood to express, that they were always on
+horseback.
+
+‘Poor Sissy!  He had better have apprenticed her,’ said Childers, giving
+his hair another shake, as he looked up from the empty box.  ‘Now, he
+[[Leaves|leaves]] her without anything to take to.’
+
+‘It is creditable to you, who have never been apprenticed, to express
+that opinion,’ returned Mr. Gradgrind, approvingly.
+
+‘_I_ never apprenticed?  I was apprenticed when I was seven year old.’
+
+‘Oh!  Indeed?’ said Mr. Gradgrind, rather resentfully, as having been
+defrauded of his good opinion.  ‘I was not aware of its being the custom
+to apprentice young persons to—’
+
+‘Idleness,’ Mr. Bounderby put in with a loud laugh.  ‘No, by the Lord
+Harry!  Nor I!’
+
+‘Her father always had it in his head,’ resumed Childers, feigning
+unconsciousness of Mr. Bounderby’s existence, ‘that she was to be taught
+the deuce-and-all of [[Education|education]].  How it got into his head, I can’t say; I
+can only say that it never got out.  He has been picking up a bit of
+reading for her, here—and a bit of writing for her, there—and a bit of
+ciphering for her, somewhere else—these seven years.’
+
+Mr. E. W. B. Childers took one of his hands out of his pockets, stroked
+his face and chin, and looked, with a good deal of [[Doubt|doubt]] and a little
+[[Hope|hope]], at Mr. Gradgrind.  From the first he had sought to conciliate that
+gentleman, for the sake of the deserted girl.
+
+‘When Sissy got into the school here,’ he pursued, ‘her father was as
+pleased as Punch.  I couldn’t altogether make out why, myself, as we were
+not stationary here, being but comers and goers anywhere.  I suppose,
+however, he had this move in his mind—he was always half-cracked—and then
+considered her provided for.  If you should happen to have looked in
+to-[[Night|night]], for the purpose of telling him that you were going to do her
+any little service,’ said Mr. Childers, stroking his face again, and
+repeating his look, ‘it would be very fortunate and [[Well|well]]-timed; very
+fortunate and [[Well|well]]-timed.’
+
+‘On the contrary,’ returned Mr. Gradgrind.  ‘I came to tell him that her
+connections made her not an object for the school, and that she must not
+attend any more.  Still, if her father really has left her, without any
+connivance on her part—Bounderby, let me have a word with you.’
+
+Upon this, Mr. Childers politely betook himself, with his equestrian
+walk, to the landing outside the door, and there stood stroking his face,
+and softly whistling.  While thus engaged, he overheard such phrases in
+Mr. Bounderby’s voice as ‘No.  _I_ say no.  I advise you not.  I say by
+no means.’  While, from Mr. Gradgrind, he heard in his much lower tone
+the words, ‘But even as an example to Louisa, of what this pursuit which
+has been the subject of a vulgar curiosity, leads to and ends in.  Think
+of it, Bounderby, in that point of view.’
+
+Meanwhile, the various members of Sleary’s company gradually gathered
+together from the upper regions, where they were quartered, and, from
+standing about, talking in low voices to one another and to Mr. Childers,
+gradually insinuated themselves and him into the room.  There were two or
+three handsome young women among them, with their two or three husbands,
+and their two or three mothers, and their eight or nine little children,
+who did the fairy business when required.  The father of one of the
+families was in the habit of balancing the father of another of the
+families on the top of a great pole; the father of a third family often
+made a pyramid of both those fathers, with Master Kidderminster for the
+apex, and himself for the base; all the fathers could [[Dance|dance]] upon [[rolling]]
+casks, stand upon bottles, catch knives and balls, twirl hand-basins,
+ride upon anything, jump over everything, and stick at nothing.  All the
+mothers could (and did) [[Dance|dance]], upon the slack wire and the tight-rope,
+and perform rapid acts on bare-backed steeds; none of them were at all
+particular in respect of showing their legs; and one of them, [[Alone|alone]] in a
+Greek chariot, drove six in hand into every town they came to.  They all
+assumed to be mighty rakish and knowing, they were not very tidy in their
+private dresses, they were not at all orderly in their domestic
+arrangements, and the combined literature of the whole company would have
+produced but a poor letter on any subject.  Yet there was a remarkable
+gentleness and childishness about these people, a special inaptitude for
+any kind of sharp practice, and an untiring readiness to help and pity
+one another, deserving often of as much respect, and always of as much
+generous construction, as the every-day virtues of any class of people in
+the world.
+
+Last of all appeared Mr. Sleary: a stout man as already mentioned, with
+one fixed eye, and one loose eye, a voice (if it can be called so) like
+the efforts of a broken old pair of bellows, a flabby surface, and a
+muddled head which was never sober and never drunk.
+
+‘Thquire!’ said Mr. Sleary, who was troubled with asthma, and whose
+breath came far too thick and heavy for the letter s, ‘Your thervant!
+Thith ith a bad piethe of bithnith, thith ith.  You’ve heard of my Clown
+and hith dog being thuppothed to have morrithed?’
+
+He addressed Mr. Gradgrind, who answered ‘Yes.’
+
+‘[[Well]], Thquire,’ he returned, taking off his hat, and rubbing the lining
+with his pocket-handkerchief, which he kept inside for the purpose.  ‘Ith
+it your intenthion to do anything for the poor girl, Thquire?’
+
+‘I shall have something to propose to her when she comes back,’ said Mr.
+Gradgrind.
+
+‘Glad to hear it, Thquire.  Not that I want to get rid of the [[Child|child]], any
+more than I want to thtand in her way.  I’m willing to take her prentith,
+though at her age ith late.  My voithe ith a little huthky, Thquire, and
+not eathy heard by them ath don’t know me; but if you’d been chilled and
+heated, heated and chilled, chilled and heated in the ring when you wath
+young, ath often ath I have been, _your_ voithe wouldn’t have lathted
+out, Thquire, no more than mine.’
+
+‘I dare say not,’ said Mr. Gradgrind.
+
+‘What thall it be, Thquire, while you wait?  Thall it be Therry?  Give it
+a name, Thquire!’ said Mr. Sleary, with hospitable ease.
+
+‘Nothing for me, I thank you,’ said Mr. Gradgrind.
+
+‘Don’t thay nothing, Thquire.  What doth your friend thay?  If you
+haven’t took your feed yet, have a glath of bitterth.’
+
+Here his daughter Josephine—a pretty fair-haired girl of eighteen, who
+had been tied on a [[Horse|horse]] at two years old, and had made a will at twelve,
+which she always carried about with her, expressive of her dying [[Desire|desire]]
+to be drawn to the [[Grave|grave]] by the two piebald ponies—cried, ‘Father, hush!
+she has come back!’  Then came [[Sissy Jupe]], running into the room as she
+had run out of it.  And when she saw them all assembled, and saw their
+looks, and saw no father there, she broke into a most deplorable cry, and
+took refuge on the bosom of the most accomplished tight-rope lady
+(herself in the family-way), who knelt down on the floor to [[Nurse|nurse]] her,
+and to weep over her.
+
+‘Ith an internal thame, upon my thoul it ith,’ said Sleary.
+
+‘O my dear father, my good kind father, where are you gone?  You are gone
+to try to do me some good, I know!  You are gone away for my sake, I am
+sure!  And how miserable and helpless you will be without me, poor, poor
+father, until you come back!’  It was so pathetic to hear her saying many
+things of this kind, with her face turned upward, and her arms stretched
+out as if she were trying to stop his departing [[Shadow|shadow]] and embrace it,
+that no one spoke a word until Mr. Bounderby (growing impatient) took the
+case in hand.
+
+‘Now, good people all,’ said he, ‘this is wanton waste of [[Time|time]].  Let the
+girl understand the fact.  Let her take it from me, if you like, who have
+been run away from, myself.  Here, what’s your name!  Your father has
+absconded—deserted you—and you mustn’t expect to see him again as long as
+you live.’
+
+They cared so little for plain Fact, these people, and were in that
+advanced state of degeneracy on the subject, that instead of being
+impressed by the speaker’s strong common sense, they took it in
+extraordinary dudgeon.  The men muttered ‘Shame!’ and the women ‘Brute!’
+and Sleary, in some haste, communicated the following hint, apart to Mr.
+Bounderby.
+
+‘I tell you what, Thquire.  To thpeak plain to you, my opinion ith that
+you had better cut it thort, and drop it.  They’re a very good natur’d
+people, my people, but they’re accuthtomed to be quick in their
+movementh; and if you don’t act upon my advithe, I’m damned if I don’t
+believe they’ll pith you out o’ winder.’
+
+Mr. Bounderby being restrained by this mild suggestion, Mr. Gradgrind
+found an opening for his eminently practical exposition of the subject.
+
+‘It is of no moment,’ said he, ‘whether this person is to be expected
+back at any [[Time|time]], or the contrary.  He is gone away, and there is no
+present expectation of his return.  That, I believe, is agreed on all
+hands.’
+
+‘Thath agreed, Thquire.  Thick to that!’  From Sleary.
+
+‘[[Well]] then.  I, who came here to inform the father of the poor girl,
+Jupe, that she could not be received at the school any more, in
+consequence of there being practical objections, into which I need not
+enter, to the reception there of the children of persons so employed, am
+prepared in these altered circumstances to make a proposal.  I am willing
+to take charge of you, Jupe, and to educate you, and provide for you.
+The only condition (over and above your good behaviour) I make is, that
+you decide now, at once, whether to accompany me or remain here.  Also,
+that if you accompany me now, it is understood that you communicate no
+more with any of your friends who are here present.  These observations
+comprise the whole of the case.’
+
+‘At the thame [[Time|time]],’ said Sleary, ‘I mutht put in my word, Thquire, tho
+that both thides of the banner may be equally theen.  If you like,
+Thethilia, to be prentitht, you know the natur of the work and you know
+your companionth.  [[Emma]] Gordon, in whothe lap you’re a lying at prethent,
+would be a mother to you, and Joth’phine would be a thithter to you.  I
+don’t pretend to be of the angel breed myself, and I don’t thay but what,
+when you mith’d your tip, you’d find me cut up rough, and thwear an oath
+or two at you.  But what I thay, Thquire, ith, that good tempered or bad
+tempered, I never did a horthe a injury yet, no more than thwearing at
+him went, and that I don’t expect I thall begin otherwithe at my [[Time|time]] of
+life, with a rider.  I never wath much of a Cackler, Thquire, and I have
+thed my thay.’
+
+The latter part of this speech was addressed to Mr. Gradgrind, who
+received it with a [[Grave|grave]] inclination of his head, and then remarked:
+
+‘The only observation I will make to you, Jupe, in the way of influencing
+your decision, is, that it is highly desirable to have a sound practical
+[[Education|education]], and that even your father himself (from what I understand)
+appears, on your behalf, to have known and felt that much.’
+
+The last words had a visible effect upon her.  She stopped in her wild
+crying, a little detached herself from [[Emma]] Gordon, and turned her face
+full upon her patron.  The whole company perceived the force of the
+change, and drew a long breath together, that plainly said, ‘she will
+go!’
+
+‘Be sure you know your own mind, Jupe,’ Mr. Gradgrind cautioned her; ‘I
+say no more.  Be sure you know your own mind!’
+
+‘When father comes back,’ cried the girl, bursting into [[Tears|tears]] again after
+a minute’s [[Silence|silence]], ‘how will he ever find me if I go away!’
+
+‘You may be quite at ease,’ said Mr. Gradgrind, calmly; he worked out the
+whole matter like a sum: ‘you may be quite at ease, Jupe, on that score.
+In such a case, your father, I apprehend, must find out Mr.—’
+
+‘Thleary.  Thath my name, Thquire.  Not athamed of it.  Known all over
+England, and alwayth paythe ith way.’
+
+‘Must find out Mr. Sleary, who would then let him know where you went.  I
+should have no power of keeping you against his wish, and he would have
+no difficulty, at any [[Time|time]], in finding Mr. [[Thomas Gradgrind]] of Coketown.
+I am [[Well|well]] known.’
+
+‘[[Well]] known,’ assented Mr. Sleary, [[rolling]] his loose eye.  ‘You’re one of
+the thort, Thquire, that keepth a prethiouth thight of money out of the
+houthe.  But never mind that at prethent.’
+
+There was another [[Silence|silence]]; and then she exclaimed, sobbing with her hands
+before her face, ‘Oh, give me my clothes, give me my clothes, and let me
+go away before I break my heart!’
+
+The women sadly bestirred themselves to get the clothes together—it was
+soon done, for they were not many—and to pack them in a basket which had
+often travelled with them.  Sissy sat all the [[Time|time]] upon the ground, still
+sobbing, and covering her eyes.  Mr. Gradgrind and his friend Bounderby
+stood near the door, ready to take her away.  Mr. Sleary stood in the
+middle of the room, with the male members of the company about him,
+exactly as he would have stood in the centre of the ring during his
+daughter Josephine’s performance.  He wanted nothing but his whip.
+
+The basket packed in [[Silence|silence]], they brought her bonnet to her, and
+smoothed her disordered hair, and put it on.  Then they pressed about
+her, and bent over her in very natural attitudes, kissing and embracing
+her: and brought the children to take leave of her; and were a
+tender-hearted, simple, foolish set of women altogether.
+
+‘Now, Jupe,’ said Mr. Gradgrind.  ‘If you are quite determined, come!’
+
+But she had to take her farewell of the male part of the company yet, and
+every one of them had to unfold his arms (for they all assumed the
+professional attitude when they found themselves near Sleary), and give
+her a parting kiss—Master Kidderminster excepted, in whose young [[Nature|nature]]
+there was an original flavour of the misanthrope, who was also known to
+have harboured matrimonial views, and who moodily withdrew.  Mr. Sleary
+was reserved until the last.  Opening his arms wide he took her by both
+her hands, and would have sprung her up and down, after the riding-master
+manner of congratulating young ladies on their dismounting from a rapid
+act; but there was no rebound in Sissy, and she only stood before him
+crying.
+
+‘Good-bye, my dear!’ said Sleary.  ‘You’ll make your fortun, I [[Hope|hope]], and
+none of our poor folkth will ever trouble you, I’ll pound it.  I with
+your father hadn’t taken hith dog with him; ith a ill-conwenienth to have
+the dog out of the billth.  But on thecond thoughth, he wouldn’t have
+performed without hith mathter, tho ith ath broad ath ith long!’
+
+With that he regarded her attentively with his fixed eye, surveyed his
+company with his loose one, kissed her, shook his head, and handed her to
+Mr. Gradgrind as to a [[Horse|horse]].
+
+‘There the ith, Thquire,’ he said, sweeping her with a professional
+glance as if she were being adjusted in her seat, ‘and the’ll do you
+juthtithe.  Good-bye, Thethilia!’
+
+‘Good-bye, Cecilia!’  ‘Good-bye, Sissy!’  ‘God bless you, dear!’  In a
+variety of voices from all the room.
+
+But the riding-master eye had observed the bottle of the nine oils in her
+bosom, and he now interposed with ‘Leave the bottle, my dear; ith large
+to carry; it will be of no uthe to you now.  Give it to me!’
+
+‘No, no!’ she said, in another burst of [[Tears|tears]].  ‘Oh, no!  Pray let me
+keep it for father till he comes back!  He will want it when he comes
+back.  He had never thought of going away, when he sent me for it.  I
+must keep it for him, if you please!’
+
+‘Tho be it, my dear.  (You thee how it ith, Thquire!)  Farewell,
+Thethilia!  My latht wordth to you ith thith, Thtick to the termth of
+your engagement, be obedient to the Thquire, and forget uth.  But if,
+when you’re grown up and married and [[Well|well]] off, you come upon any
+horthe-riding ever, don’t be hard upon it, don’t be croth with it, give
+it a Bethpeak if you can, and think you might do wurth.  People mutht be
+amuthed, Thquire, thomehow,’ continued Sleary, rendered more pursy than
+ever, by so much talking; ‘they can’t be alwayth a working, nor yet they
+can’t be alwayth a learning.  Make the betht of uth; not the wurtht.
+I’ve got my living out of the horthe-riding all my life, I know; but I
+conthider that I lay down the philothophy of the thubject when I thay to
+you, Thquire, make the betht of uth: not the wurtht!’
+
+The Sleary [[philosophy]] was propounded as they went downstairs and the
+fixed eye of [[philosophy|Philosophy]]—and its [[rolling]] eye, too—soon lost the three
+figures and the basket in the darkness of the street.

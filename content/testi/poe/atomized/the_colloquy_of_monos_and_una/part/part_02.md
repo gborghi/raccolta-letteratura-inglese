@@ -1,5 +1,5 @@
 ---
-title: "[[The Colloquy of Monos and Una]] (part 2)"
+title: "The Colloquy of Monos and Una (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-colloquy-of-monos-and-una-(poe)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_colloquy_of_monos_and_una/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/the_colloquy_of_monos_and_una/part/part_03">part 03 ›</a></div>
 </nav>
 
+
+      were made. Yet this evil sprang necessarily from the leading
+
+      evil—Knowledge. Man could not both know and succumb. Meantime
 
       huge smoking cities arose, innumerable. Green [[Leaves|leaves]] shrank
 
@@ -191,15 +195,3 @@ tags:
       Earth, but whose prototypes we have here blooming around us. The
 
       eyelids, transparent and bloodless, offered no complete
-
-      impediment to vision. As volition was in abeyance, the balls
-
-      could not roll in their sockets but all objects within the range
-
-      of the visual hemisphere were seen with more or less
-
-      distinctness; the rays which fell upon the external retina, or
-
-      into the corner of the eye, producing a more vivid effect than
-
-      those which struck the front or interior surface. Yet, in the

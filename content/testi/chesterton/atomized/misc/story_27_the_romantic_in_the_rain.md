@@ -1,5 +1,5 @@
 ---
-title: "[[misc]] — THE ROMANTIC IN THE RAIN"
+title: "misc — THE ROMANTIC IN THE RAIN"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -16,7 +16,6 @@ tags:
 
 THE ROMANTIC IN THE RAIN
 
-
 The middle classes of modern England are quite fanatically fond
 of washing; and are often enthusiastic for teetotalism.  I cannot
 therefore comprehend why it is that they exhibit a mysterious dislike
@@ -31,7 +30,6 @@ But the scheme of rain in itself is one of an enormous [[Purification|purificati
 It realises the dream of some insane hygienist:  it scrubs the sky.
 Its giant brooms and mops seem to reach the starry rafters and Starless
 corners of the cosmos; it is a cosmic [[spring]]-cleaning.
-
 
 If the Englishman is really fond of cold baths, he ought
 not to grumble at the English climate for being a cold bath.

@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 6 (part 3)"
+title: "Shirley — Chapter 6 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_06/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_06/part_04">part 04 ›</a></div>
 </nav>
 
+
+black apron, which spoiled everything. On no account would mademoiselle
+
+have appeared in her own [[house]] without the thick handkerchief and the
+
+voluminous apron. The first was a positive matter of [[morality]]--it was
+
+quite improper not to wear a fichu; the second was the ensign of a good
 
 housewife--she appeared to think that by means of it she somehow
 
@@ -227,27 +235,3 @@ difference."
 
 
 "He is come. I am certain I saw Murgatroyd lead his [[Horse|horse]] into the yard
-
-by the back-way, when I went to get some [[Water|water]] at the pump five minutes
-
-since. He was in the counting-[[house]] with Joe Scott, I believe."
-
-
-
-"You are mistaken."
-
-
-
-"What should I be mistaken for? I know his [[Horse|horse]] surely?"
-
-
-
-"But you did not see himself?"
-
-
-
-"I heard him speak, though. He was saying something to Joe Scott about
-
-having settled all concerning ways and means, and that there would be a
-
-new set of frames in the mill before another week passed, and that this

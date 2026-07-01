@@ -1,5 +1,5 @@
 ---
-title: "[[Eugenics]] — Part 2: THE REAL AIM"
+title: "Eugenics — Part 2: THE REAL AIM"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/eugenics-(chesterton)"
@@ -27,7 +27,6 @@ PART TWO:  THE REAL AIM
    IX A Short Chapter
 
 + + +
-
 
 TO THE READER
 

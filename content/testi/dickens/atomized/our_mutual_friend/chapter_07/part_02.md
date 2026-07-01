@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 2 (part 2)"
+title: "Our Mutual Friend — Chapter 3 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,111 +14,139 @@ tags:
 </nav>
 
 
-In the meantime, Mrs Podsnap, unable to originate a mistake on her own
-account, because Mrs Veneering is the only other lady there, does her
-best in the way of handsomely supporting her husband’s, by looking
-towards Mr Twemlow with a plaintive countenance and remarking to Mrs
-Veneering in a feeling manner, firstly, that she fears he has been
-rather bilious of late, and, secondly, that the baby is already very
-like him.
+‘And so will I,’ said Eugene.
 
-It is questionable whether any man quite relishes being mistaken for
-any other man; but, Mr Veneering having this very evening set up the
-shirt-front of the young Antinous in new worked cambric just come [[Home|home]],
-is not at all complimented by being supposed to be Twemlow, who is dry
-and weazen and some thirty years older. Mrs Veneering equally resents
-the imputation of being the wife of Twemlow. As to Twemlow, he is
-so sensible of being a much better bred man than Veneering, that he
-considers the large man an offensive ass.
+And it is likely enough that ten thousand other young men, within the
+limits of the [[London]] Post-office town delivery, made the same hopeful
+remark in the course of the same evening.
 
-In this complicated dilemma, Mr Veneering approaches the large man with
-extended hand and, smilingly assures that incorrigible personage that he
-is delighted to see him: who in his fatal freshness instantly replies:
+The wheels rolled on, and rolled down by the Monument and by the Tower,
+and by the Docks; down by Ratcliffe, and by Rotherhithe; down by where
+accumulated scum of humanity seemed to be washed from higher grounds,
+like so much moral sewage, and to be pausing until its own weight forced
+it over the bank and sunk it in the [[River|river]]. In and out among vessels
+that seemed to have got ashore, and houses that seemed to have got
+afloat—among bowsprits staring into windows, and windows staring
+into ships—the wheels rolled on, until they stopped at a dark corner,
+[[River|river]]-washed and otherwise not washed at all, where the boy alighted and
+opened the door.
 
-‘Thank you. I am ashamed to say that I cannot at this moment recall
-where we met, but I am so glad of this opportunity, I am sure!’
+‘You must walk the rest, sir; it’s not many yards.’ He spoke in the
+singular number, to the express exclusion of Eugene.
 
-Then pouncing upon Twemlow, who holds back with all his feeble might, he
-is haling him off to present him, as Veneering, to Mrs Podsnap, when the
-arrival of more guests unravels the mistake. Whereupon, having re-shaken
-hands with Veneering as Veneering, he re-shakes hands with Twemlow as
-Twemlow, and winds it all up to his own perfect satisfaction by saying
-to the last-named, ‘Ridiculous opportunity—but so glad of it, I am
-sure!’
+‘This is a confoundedly out-of-the-way place,’ said Mortimer, slipping
+over the stones and refuse on the shore, as the boy turned the corner
+sharp.
 
-Now, Twemlow having undergone this terrific experience, having likewise
-noted the fusion of Boots in Brewer and Brewer in Boots, and having
-further observed that of the remaining seven guests four discrete
-characters enter with wandering eyes and wholly declined to commit
-themselves as to which is Veneering, until Veneering has them in his
-grasp;—Twemlow having profited by these studies, finds his brain
-wholesomely hardening as he approaches the conclusion that he really is
-Veneering’s oldest friend, when his brain softens again and all is
-lost, through his eyes encountering Veneering and the large man linked
-together as twin brothers in the back drawing-room near the conservatory
-door, and through his ears informing him in the tones of Mrs Veneering
-that the same large man is to be baby’s godfather.
+‘Here’s my father’s, sir; where the light is.’
 
-‘Dinner is on the table!’
+The low building had the look of having once been a mill. There was a
+rotten wart of wood upon its forehead that seemed to indicate where
+the sails had been, but the whole was very indistinctly seen in the
+obscurity of the [[Night|night]]. The boy lifted the latch of the door, and they
+passed at once into a low circular room, where a man stood before a red
+[[Fire|fire]], looking down into it, and a girl sat engaged in needlework. The
+[[Fire|fire]] was in a rusty brazier, not fitted to the hearth; and a common
+lamp, shaped like a hyacinth-root, smoked and flared in the neck of a
+stone bottle on the table. There was a wooden bunk or berth in a corner,
+and in another corner a wooden stair leading above—so clumsy and steep
+that it was little better than a ladder. Two or three old sculls and
+oars stood against the wall, and against another part of the wall was a
+small dresser, making a spare show of the commonest articles of crockery
+and cooking-vessels. The roof of the room was not plastered, but was
+formed of the flooring of the room above. This, being very old, knotted,
+seamed, and beamed, gave a lowering aspect to the chamber; and roof, and
+walls, and floor, alike abounding in old smears of flour, red-lead (or
+some such stain which it had probably acquired in warehousing), and
+damp, alike had a look of decomposition.
 
-Thus the [[Melancholy|melancholy]] retainer, as who should say, ‘Come down and be
-poisoned, ye unhappy children of men!’
+‘The gentleman, father.’
 
-Twemlow, having no lady assigned him, goes down in the rear, with
-his hand to his forehead. Boots and Brewer, thinking him indisposed,
-whisper, ‘Man faint. Had no lunch.’ But he is only stunned by the
-unvanquishable difficulty of his existence.
+The figure at the red [[Fire|fire]] turned, raised its ruffled head, and looked
+like a bird of prey.
 
-Revived by soup, Twemlow discourses mildly of the [[Court]] Circular with
-Boots and Brewer. Is appealed to, at the fish stage of the banquet, by
-Veneering, on the disputed question whether his cousin Lord Snigsworth
-is in or out of town? Gives it that his cousin is out of town. ‘At
-Snigsworthy Park?’ Veneering inquires. ‘At Snigsworthy,’ Twemlow
-rejoins. Boots and Brewer regard this as a man to be cultivated; and
-Veneering is clear that he is a remunerative article. Meantime the
-retainer goes round, like a gloomy Analytical Chemist: always seeming
-to say, after ‘Chablis, sir?’—‘You wouldn’t if you knew what it’s made
-of.’
+‘You’re Mortimer Lightwood Esquire; are you, sir?’
 
-The great looking-glass above the sideboard, reflects the table and the
-company. Reflects the new Veneering crest, in gold and eke in silver,
-frosted and also thawed, a camel of all work. The Heralds’ College found
-out a Crusading ancestor for Veneering who bore a camel on his shield
-(or might have done it if he had thought of it), and a caravan of camels
-take charge of the fruits and [[Flowers|flowers]] and candles, and kneel down to be
-loaded with the salt. Reflects Veneering; forty, wavy-haired, dark,
-tending to corpulence, sly, mysterious, filmy—a kind of sufficiently
-[[Well|well]]-looking veiled-[[Prophet|prophet]], not prophesying. Reflects Mrs Veneering;
-fair, aquiline-nosed and fingered, not so much light hair as she might
-have, gorgeous in raiment and jewels, enthusiastic, propitiatory,
-conscious that a corner of her husband’s veil is over herself. Reflects
-Podsnap; prosperously feeding, two little light-coloured wiry wings, one
-on either side of his else bald head, looking as like his hairbrushes as
-his hair, dissolving view of red beads on his forehead, large allowance
-of crumpled shirt-collar up behind. Reflects Mrs Podsnap; fine woman
-for Professor Owen, quantity of bone, neck and nostrils like a
-rocking-[[Horse|horse]], hard features, majestic head-dress in which Podsnap has
-hung golden offerings. Reflects Twemlow; grey, dry, polite, susceptible
-to east [[Wind|wind]], First-Gentleman-in-Europe collar and cravat, cheeks drawn
-in as if he had made a great effort to retire into himself some years
-ago, and had got so far and had never got any farther. Reflects mature
-young lady; raven locks, and complexion that lights up [[Well|well]] when [[Well|well]]
-powdered—as it is—carrying on considerably in the captivation of
-mature young gentleman; with too much nose in his face, too much ginger
-in his whiskers, too much torso in his waistcoat, too much sparkle in
-his studs, his eyes, his buttons, his talk, and his teeth. Reflects
-charming old Lady Tippins on Veneering’s right; with an immense obtuse
-drab oblong face, like a face in a tablespoon, and a dyed Long Walk up
-the top of her head, as a convenient public approach to the bunch of
-false hair behind, pleased to patronize Mrs Veneering opposite, who
-is pleased to be patronized. Reflects a certain ‘Mortimer’, another
-of Veneering’s oldest friends; who never was in the [[house]] before,
-and appears not to want to come again, who sits disconsolate on Mrs
-Veneering’s left, and who was inveigled by Lady Tippins (a friend of
-his boyhood) to come to these people’s and talk, and who won’t talk.
-Reflects Eugene, friend of Mortimer; buried alive in the back of his
-chair, behind a shoulder—with a powder-epaulette on it—of the mature
-young lady, and gloomily resorting to the champagne chalice whenever
-proffered by the Analytical Chemist. Lastly, the looking-glass reflects
-Boots and Brewer, and two other stuffed Buffers interposed between the
-rest of the company and possible accidents.
+‘Mortimer Lightwood is my name. What you found,’ said Mortimer, glancing
+rather shrinkingly towards the bunk; ‘is it here?’
+
+‘’Tain’t not to say here, but it’s close by. I do everything reg’lar.
+I’ve giv’ notice of the circumstarnce to the police, and the police have
+took possession of it. No [[Time|time]] ain’t been lost, on any hand. The police
+have put into print already, and here’s what the print says of it.’
+
+Taking up the bottle with the lamp in it, he held it near a paper on
+the wall, with the police heading, [[Body|BODY]] FOUND. The two friends read the
+handbill as it stuck against the wall, and Gaffer read them as he held
+the light.
+
+‘Only papers on the unfortunate man, I see,’ said Lightwood, glancing
+from the description of what was found, to the finder.
+
+‘Only papers.’
+
+Here the girl arose with her work in her hand, and went out at the door.
+
+‘No money,’ pursued Mortimer; ‘but threepence in one of the
+skirt-pockets.’
+
+‘Three. Penny. Pieces,’ said Gaffer Hexam, in as many sentences.
+
+‘The trousers pockets empty, and turned inside out.’
+
+Gaffer Hexam nodded. ‘But that’s common. Whether it’s the wash of the
+tide or no, I can’t say. Now, here,’ moving the light to another similar
+placard, ‘HIS pockets was found empty, and turned inside out. And here,’
+moving the light to another, ‘HER pocket was found empty, and turned
+inside out. And so was this one’s. And so was that one’s. I can’t read,
+nor I don’t want to it, for I know ’em by their places on the wall. This
+one was a sailor, with two anchors and a [[Flag|flag]] and G. F. T. on his arm.
+Look and see if he warn’t.’
+
+‘Quite right.’
+
+‘This one was the young woman in grey boots, and her linen marked with a
+[[Cross|cross]]. Look and see if she warn’t.’
+
+‘Quite right.’
+
+‘This is him as had a nasty cut over the eye. This is them two young
+sisters what tied themselves together with a handkecher. This the
+drunken old chap, in a pair of list slippers and a nightcap, wot had
+offered—it afterwards come out—to make a hole in the [[Water|water]] for a
+quartern of rum stood aforehand, and kept to his word for the first and
+last [[Time|time]] in his life. They pretty [[Well|well]] papers the room, you see; but I
+know ’em all. I’m scholar enough!’
+
+He waved the light over the whole, as if to typify the light of his
+scholarly intelligence, and then put it down on the table and stood
+behind it looking intently at his visitors. He had the special
+peculiarity of some [[Birds|birds]] of prey, that when he knitted his brow, his
+ruffled crest stood highest.
+
+‘You did not find all these yourself; did you?’ asked Eugene.
+
+To which the bird of prey slowly rejoined, ‘And what might YOUR name be,
+now?’
+
+‘This is my friend,’ Mortimer Lightwood interposed; ‘Mr Eugene
+Wrayburn.’
+
+‘Mr [[Eugene Wrayburn]], is it? And what might Mr [[Eugene Wrayburn]] have asked
+of me?’
+
+‘I asked you, simply, if you found all these yourself?’
+
+‘I answer you, simply, most on ’em.’
+
+‘Do you suppose there has been much violence and robbery, beforehand,
+among these cases?’
+
+‘I don’t suppose at all about it,’ returned Gaffer. ‘I ain’t one of the
+supposing sort. If you’d got your living to haul out of the [[River|river]] every
+day of your life, you mightn’t be much given to supposing. Am I to show
+the way?’
+
+As he opened the door, in pursuance of a nod from Lightwood, an
+extremely pale and disturbed face appeared in the doorway—the face of a
+man much agitated.

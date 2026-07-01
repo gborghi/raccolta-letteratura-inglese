@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 22 (part 2)"
+title: "Villette — Chapter 22 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -139,8 +139,3 @@ up the letter and covered it from sight.
 know my skill in sleight of hand; I might practise as a conjuror if I
 liked. Mamma says sometimes, too, that I have a harmonizing property of
 tongue and eye; but you never saw that in me—did you, Lucy?”
-
-“Indeed—indeed—when you were a mere boy I used to see both: far more
-then than now—for now you are strong, and strength dispenses with
-subtlety. But still,—Dr. John, you have what they call in this country
-‘un air fin,’ that nobody can mistake. [[Madame Beck]] saw it, and—”

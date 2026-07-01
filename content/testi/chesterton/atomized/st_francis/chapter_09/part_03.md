@@ -106,19 +106,3 @@ they are materialists.  That is logical enough; but they are bound
 to deny the preternatural as much in the testimony of a modern
 scientific professor as in that of a medieval monkish chronicler.
 And there are plenty of professors for them to contradict by this [[Time|time]].
-
-But whatever may be thought of such supernaturalism in the comparatively
-material and popular sense of [[Supernatural|supernatural]] acts, we shall miss the whole
-point of St. Francis, especially of St. Francis after Alverno,
-if we do not realise that he was living a [[Supernatural|supernatural]] life.
-And there is more and more of such supernaturalism in his life
-as he approaches towards his [[Death|death]].  This element of the [[Supernatural|supernatural]]
-did not separate him from the natural; for it was the whole point
-of his position that it united him more perfectly to the natural.
-It did not make him dismal or dehumanised; for it was the whole meaning
-of his message that such mysticism makes a man cheerful and humane.
-But it was the whole point of his position, and it was the whole meaning
-of his message, that the power that did it was a [[Supernatural|supernatural]] power.
-If this simple distinction were not apparent from the whole of his life,
-it would be difficult for any one to miss it in reading the account
-of his [[Death|death]].

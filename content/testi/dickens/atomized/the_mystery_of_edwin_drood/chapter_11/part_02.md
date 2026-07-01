@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 10 (part 2)"
+title: "The Mystery of Edwin Drood — Chapter 10 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -106,9 +106,3 @@ events, when the sun is down, and the weather is driving in from the
 sea?”
 
 [[Helena]] thought not. It was their favourite walk. It was very retired.
-
-“It is very retired,” assented Mr. Crisparkle, laying hold of his
-opportunity straightway, and walking on with them. “It is a place of
-all others where one can speak without interruption, as I wish to do.
-Mr. Neville, I believe you tell your sister everything that passes
-between us?”

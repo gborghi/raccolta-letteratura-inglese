@@ -14,6 +14,134 @@ tags:
 </nav>
 
 
+      within bounds, that ought to be regarded as indecorous by Madame
+
+      Lalande? Since the affair of the letter, I had been in the habit
+
+      of watching her [[house]], and thus discovered that, about twilight,
+
+      it was her custom to promenade, attended only by a negro in
+
+      livery, in a public square overlooked by her windows. Here, amid
+
+      the luxuriant and shadowing groves, in the gray gloom of a sweet
+
+      midsummer evening, I observed my opportunity and accosted her.
+
+
+
+      The better to deceive the servant in attendance, I did this with
+
+      the assured air of an old and familiar acquaintance. With a
+
+      presence of mind truly Parisian, she took the cue at once, and,
+
+      to greet me, held out the most bewitchingly little of hands. The
+
+      valet at once fell into the rear, and now, with hearts full to
+
+      overflowing, we discoursed long and unreservedly of our [[Love|love]].
+
+
+
+      As Madame Lalande spoke English even less fluently than she wrote
+
+      it, our conversation was necessarily in French. In this sweet
+
+      tongue, so adapted to passion, I gave loose to the impetuous
+
+      enthusiasm of my [[Nature|nature]], and, with all the eloquence I could
+
+      command, besought her to consent to an immediate [[Marriage|marriage]].
+
+
+
+      At this impatience she smiled. She urged the old story of
+
+      decorum—that bug-bear which deters so many from bliss until the
+
+      opportunity for bliss has forever gone by. I had most imprudently
+
+      made it known among my friends, she observed, that I desired her
+
+      acquaintance—thus that I did not possess it—thus, again, there
+
+      was no possibility of concealing the date of our first knowledge
+
+      of each other. And then she adverted, with a blush, to the
+
+      extreme recency of this date. To wed immediately would be
+
+      improper—would be indecorous—would be outre. All this she said
+
+      with a charming air of naivete which enraptured while it grieved
+
+      and convinced me. She went even so far as to accuse me,
+
+      laughingly, of rashness—of imprudence. She bade me remember that
+
+      I really even knew not who she was—what were her prospects, her
+
+      connections, her standing in society. She begged me, but with a
+
+      sigh, to reconsider my proposal, and termed my [[Love|love]] an
+
+      infatuation—a will o’ the wisp—a fancy or fantasy of the moment—a
+
+      baseless and unstable creation rather of the [[Imagination|imagination]] than of
+
+      the heart. These things she uttered as the shadows of the sweet
+
+      twilight gathered darkly and more darkly around us—and then, with
+
+      a gentle pressure of her fairy-like hand, overthrew, in a single
+
+      sweet instant, all the argumentative fabric she had reared.
+
+
+
+      I replied as best I could—as only a true [[Lover|lover]] can. I spoke at
+
+      length, and perseveringly of my devotion, of my passion—of her
+
+      exceeding [[Beauty|beauty]], and of my own enthusiastic admiration. In
+
+      conclusion, I dwelt, with a convincing energy, upon the perils
+
+      that encompass the course of [[Love|love]]—that course of true [[Love|love]] that
+
+      never did run smooth—and thus deduced the manifest danger of
+
+      rendering that course unnecessarily long.
+
+
+
+      This latter argument seemed finally to soften the rigor of her
+
+      determination. She relented; but there was yet an obstacle, she
+
+      said, which she felt assured I had not properly considered. This
+
+      was a delicate point—for a woman to urge, especially so; in
+
+      mentioning it, she saw that she must make a sacrifice of her
+
+      feelings; still, for me, every sacrifice should be made. She
+
+      alluded to the topic of age. Was I aware—was I fully aware of the
+
+      discrepancy between us? That the age of the husband, should
+
+      surpass by a few years—even by fifteen or twenty—the age of the
+
+      wife, was regarded by the world as admissible, and, indeed, as
+
+      even proper; but she had always entertained the belief that the
+
+      years of the wife should never exceed in number those of the
+
+      husband. A discrepancy of this unnatural kind gave rise, too
+
       frequently, alas! to a life of unhappiness. Now she was aware
 
       that my own age did not exceed two and twenty; and I, on the
@@ -75,141 +203,3 @@ tags:
       it for my sake—for the sake of her whom it too flatteringly
 
       represents. Besides, upon the back of the trinket you may
-
-      discover, perhaps, the very information you seem to [[Desire|desire]]. It is
-
-      now, to be sure, growing rather dark—but you can examine it at
-
-      your leisure in the morning. In the meantime, you shall be my
-
-      escort [[Home|home]] to-[[Night|night]]. My friends are about holding a little
-
-      musical _levée_. I can promise you, too, some good singing. We
-
-      French are not nearly so punctilious as you Americans, and I
-
-      shall have no difficulty in smuggling you in, in the character of
-
-      an old acquaintance.”
-
-
-
-      With this, she took my arm, and I attended her [[Home|home]]. The mansion
-
-      was quite a fine one, and, I believe, furnished in good taste. Of
-
-      this latter point, however, I am scarcely qualified to judge; for
-
-      it was just dark as we arrived; and in American mansions of the
-
-      better sort lights seldom, during the heat of [[Summer|summer]], make their
-
-      appearance at this, the most pleasant period of the day. In about
-
-      an hour after my arrival, to be sure, a single shaded solar lamp
-
-      was lit in the principal drawing-room; and this apartment, I
-
-      could thus see, was arranged with unusual good taste and even
-
-      splendor; but two other rooms of the suite, and in which the
-
-      company chiefly assembled, remained, during the whole evening, in
-
-      a very agreeable [[Shadow|shadow]]. This is a [[Well|well]]-conceived custom, giving
-
-      the party at least a choice of light or shade, and one which our
-
-      friends over the [[Water|water]] could not do better than immediately
-
-      adopt.
-
-
-
-      The evening thus spent was unquestionably the most delicious of
-
-      my life. Madame Lalande had not overrated the musical abilities
-
-      of her friends; and the singing I here heard I had never heard
-
-      excelled in any private circle out of Vienna. The instrumental
-
-      performers were many and of superior talents. The vocalists were
-
-      chiefly ladies, and no individual sang less than [[Well|well]]. At length,
-
-      upon a peremptory call for “Madame Lalande,” she arose at once,
-
-      without affectation or demur, from the chaise longue upon which
-
-      she had sat by my side, and, accompanied by one or two gentlemen
-
-      and her female friend of the opera, repaired to the piano in the
-
-      main drawing-room. I would have escorted her myself, but felt
-
-      that, under the circumstances of my introduction to the [[house]], I
-
-      had better remain unobserved where I was. I was thus deprived of
-
-      the pleasure of seeing, although not of hearing, her sing.
-
-
-
-      The impression she produced upon the company seemed
-
-      electrical—but the effect upon myself was something even more. I
-
-      know not how adequately to describe it. It arose in part, no
-
-      [[Doubt|doubt]], from the sentiment of [[Love|love]] with which I was imbued; but
-
-      chiefly from my conviction of the extreme sensibility of the
-
-      singer. It is beyond the reach of art to endow either air or
-
-      recitative with more impassioned expression than was hers. Her
-
-      utterance of the [[Romance|romance]] in Otello—the tone with which she gave
-
-      the words “Sul mio sasso,” in the Capuletti—is ringing in my
-
-      [[Memory|memory]] yet. Her lower tones were absolutely miraculous. Her voice
-
-      embraced three complete octaves, extending from the contralto D
-
-      to the D upper soprano, and, though sufficiently powerful to have
-
-      filled the San Carlos, executed, with the minutest precision,
-
-      every difficulty of vocal composition—ascending and descending
-
-      scales, cadences, or fiorituri. In the final of the Somnambula,
-
-      she brought about a most remarkable effect at the words:
-
-
-
-     Ah! non guinge uman pensiero
-
-     Al contento ond ’io son piena.
-
-
-
-      Here, in [[Imitation|imitation]] of Malibran, she modified the original phrase
-
-      of Bellini, so as to let her voice descend to the tenor G, when,
-
-      by a rapid transition, she struck the G above the treble stave,
-
-      springing over an interval of two octaves.
-
-
-
-      Upon rising from the piano after these miracles of vocal
-
-      execution, she resumed her seat by my side; when I expressed to
-
-      her, in terms of the deepest enthusiasm, my delight at her
-
-      performance. Of my surprise I said nothing, and yet was I most

@@ -1,5 +1,5 @@
 ---
-title: "[[CharlesDickens]] — Chapter 4 (part 1)"
+title: "CharlesDickens — Chapter 4 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/charlesdickens-(chesterton)"
@@ -58,7 +58,7 @@ more ridiculous even than it was unjust, that it seems strange that
 he should have remembered it for a month except for his amusement.
 The facts are simple and familiar to most people.  The publishers--
 Chapman & Hall--wished to produce some kind of serial with comic
-illustrations by a popular caricaturist named Seymour.  This [[artist]]
+illustrations by a popular caricaturist named Seymour.  This [[Artist|artist]]
 was chiefly famous for his rendering of the farcical side of sport,
 and to suit this speciality it was very vaguely suggested to Dickens
 by the publishers that he should write about a Nimrod Club,

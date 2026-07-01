@@ -1,5 +1,5 @@
 ---
-title: "[[Twelfth Night]] — Act III, Scene 1 — exchange (SIR TOBY) [2]"
+title: "Twelfth Night — Act III, Scene 1 — exchange (SIR TOBY) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/twelfth-night-(shakespeare)"

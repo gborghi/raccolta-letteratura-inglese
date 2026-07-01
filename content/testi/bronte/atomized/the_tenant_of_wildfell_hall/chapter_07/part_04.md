@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 7 (part 4)"
+title: "The Tenant of Wildfell Hall — Chapter 7 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_07/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_09/part_01">part 01 ›</a></div>
 </nav>
 
+
+a little active clambering, soon brought me to the place where she was
+
+seated—a narrow ledge of rock at the very verge of the cliff, which
+
+descended with a steep, precipitous slant, quite down to the rocky
+
+shore.
+
+
+
+She did not hear me coming: the falling of my [[Shadow|shadow]] across her paper
+
+gave her an electric start; and she looked hastily round—any other lady
 
 of my acquaintance would have screamed under such a sudden alarm.
 
@@ -96,7 +110,7 @@ seeing again for I know not how long.”
 
 
 
-“What was [[arthur|Arthur]] doing when you came away?”
+“What was [[Arthur]] doing when you came away?”
 
 
 
@@ -114,7 +128,7 @@ carelessly added, “if she is good for nothing else.”
 
 “Miss Millward has many estimable qualities, which such as you cannot
 
-be expected to perceive or appreciate. Will you tell [[arthur|Arthur]] that I
+be expected to perceive or appreciate. Will you tell [[Arthur]] that I
 
 shall come in a few minutes?”
 
@@ -184,7 +198,7 @@ On returning to the scene of our repast we found all the company had
 
 deserted it, with the exception of three—Mary Millward, [[Richard]] Wilson,
 
-and [[arthur|Arthur]] Graham. The younger gentleman lay fast asleep with his head
+and [[Arthur]] Graham. The younger gentleman lay fast asleep with his head
 
 pillowed on the lady’s lap; the other was seated beside her with a
 

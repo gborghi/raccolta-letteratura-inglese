@@ -14,6 +14,11 @@ tags:
 </nav>
 
 
+Without directly answering to this appeal, she sat so still when he had
+very gently raised her, and the hands that had not ceased to clasp
+his wrists were so much more steady than they had been, that she
+communicated some reassurance to Mr. [[Jarvis Lorry]].
+
 “That’s right, that’s right. [[Courage]]! Business! You have business before
 you; useful business. Miss Manette, your mother took this course with
 you. And when she died--I believe broken-hearted--having never slackened

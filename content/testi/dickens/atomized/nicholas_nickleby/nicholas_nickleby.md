@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]]"
+title: "Nicholas Nickleby"
 author: "Dickens"
 unitType: work
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -2948,7 +2948,7 @@ towards the [[house]], hand in hand with Alice; the other sisters followed.
 
 ‘The holy man, who had often urged the same point before, but had never
 met with so direct a repulse, walked some little distance behind, with
-his eyes bent upon the earth, and his lips moving AS IF in [[Prayer|prayer]]. As
+his eyes bent upon the earth, and his lips moving AS IF in [[prayer]]. As
 the sisters reached the porch, he quickened his pace, and called upon
 them to stop.
 
@@ -3080,7 +3080,7 @@ was one flat stone beneath which she slept in peace.
 
 ‘And could they, remembering how her young heart had sickened at the
 thought of cloistered walls, look upon her [[Grave|grave]], in garbs which would
-chill the very ashes within it? Could they bow down in [[Prayer|prayer]], and when
+chill the very ashes within it? Could they bow down in [[prayer]], and when
 all Heaven turned to hear them, bring the dark shade of sadness on one
 angel’s face? No.
 
@@ -9604,7 +9604,7 @@ Having made this promise with much affability, he retired and left Kate
 
 There was not much to amuse in the room; of which the most attractive
 feature was, a half-length portrait in oil, of Mr. Mantalini, whom the
-[[artist]] had depicted scratching his head in an easy manner, and thus
+[[Artist|artist]] had depicted scratching his head in an easy manner, and thus
 displaying to advantage a diamond ring, the gift of Madame Mantalini
 before her [[Marriage|marriage]]. There was, however, the sound of voices in
 conversation in the next room; and as the conversation was loud and the
@@ -11432,7 +11432,7 @@ and if she enjoyed a little bit of [[Revenge|revenge]], no living [[Soul|soul]] 
 the worse. One of the many to whom, from straitened circumstances, a
 consequent inability to form the associations they would wish, and a
 disinclination to mix with the society they could obtain, [[London]] is
-as complete a [[Solitude|solitude]] as the plains of Syria, the humble [[artist]] had
+as complete a [[Solitude|solitude]] as the plains of Syria, the humble [[Artist|artist]] had
 pursued her lonely, but contented way for many years; and, until the
 peculiar misfortunes of the Nickleby family attracted her attention,
 had made no friends, though brimful of the friendliest feelings to all
@@ -13177,7 +13177,7 @@ of the theatres keep an author on purpose.’
 
 ‘Oh, yes,’ said the manager; ‘a common thing. It’ll look very [[Well|well]]
 in the bills in separate lines--Real pump!--Splendid tubs!--Great
-attraction! You don’t happen to be anything of an [[artist]], do you?’
+attraction! You don’t happen to be anything of an [[Artist|artist]], do you?’
 
 ‘That is not one of my accomplishments,’ rejoined Nicholas.
 
@@ -21864,7 +21864,7 @@ very much so, and really I don’t know why it should not be, if it’s
 depends upon that.’
 
 With which preface, Mrs. Nickleby took her nightcap from between the
-[[Leaves|leaves]] of a very large [[Prayer|prayer]]-book where it had been folded up small,
+[[Leaves|leaves]] of a very large [[prayer]]-book where it had been folded up small,
 and proceeded to tie it on: talking away in her usual discursive manner,
 all the [[Time|time]].
 
@@ -25490,7 +25490,7 @@ place in all the world for coincidences as [[London]] is!’
 air. ‘[[Well]], but let us know. If there is any better place for such
 things, where is it? Is it in Europe? No, that it isn’t. Is it in Asia?
 Why, of course it’s not. Is it in Africa? Not a bit of it. Is it in
-[[America]]? YOU know better than that, at all events. [[Well]], then,’ said
+[[america|America]]? YOU know better than that, at all events. [[Well]], then,’ said
 Tim, folding his arms resolutely, ‘where is it?’
 
 ‘I was not about to dispute the point, Tim,’ said young Cheeryble,
@@ -25998,7 +25998,7 @@ another thing.’
 the change that you must see in me after so long an absence--must see,
 for I, upon whom it has come by slow and hard degrees, see it and know
 it [[Well|well]]--will not move you to pity, let the knowledge that bread; not
-the daily bread of the Lord’s [[Prayer]], which, as it is offered up in
+the daily bread of the Lord’s [[prayer|Prayer]], which, as it is offered up in
 cities like this, is understood to include half the luxuries of the
 world for the rich, and just as much coarse food as will support life
 for the poor--not that, but bread, a crust of dry hard bread, is beyond
@@ -27699,11 +27699,11 @@ attitude of the form was one of stealthy cat-like obsequiousness;
 the whole expression of the face was concentrated in a wrinkled leer,
 compounded of cunning, lecherousness, slyness, and avarice.
 
-Such was old [[Arthur]] Gride, in whose face there was not a wrinkle, in
+Such was old [[arthur|Arthur]] Gride, in whose face there was not a wrinkle, in
 whose dress there was not one spare fold or plait, but expressed
 the most covetous and griping penury, and sufficiently indicated his
 belonging to that class of which [[Ralph Nickleby]] was a member. Such was
-old [[Arthur]] Gride, as he sat in a low chair looking up into the face of
+old [[arthur|Arthur]] Gride, as he sat in a low chair looking up into the face of
 [[Ralph Nickleby]], who, lounging upon the tall office stool, with his arms
 upon his knees, looked down into his; a match for him on whatever errand
 he had come.
@@ -27734,7 +27734,7 @@ what a bold man you are!’
 by contrast,’ returned Ralph. ‘I don’t know but that yours may answer
 better, but I want the patience for it.’
 
-‘You were born a genius, Mr. Nickleby,’ said old [[Arthur]]. ‘Deep, deep,
+‘You were born a genius, Mr. Nickleby,’ said old [[arthur|Arthur]]. ‘Deep, deep,
 deep. Ah!’
 
 ‘Deep enough,’ retorted Ralph, ‘to know that I shall need all the depth
@@ -27742,7 +27742,7 @@ I have, when men like you begin to compliment. You know I have stood by
 when you fawned and flattered other people, and I remember pretty [[Well|well]]
 what THAT always led to.’
 
-‘Ha, ha, ha!’ rejoined [[Arthur]], rubbing his hands. ‘So you do, so you do,
+‘Ha, ha, ha!’ rejoined [[arthur|Arthur]], rubbing his hands. ‘So you do, so you do,
 no [[Doubt|doubt]]. Not a man knows it better. [[Well]], it’s a pleasant thing now to
 think that you remember old times. Oh dear!’
 
@@ -27755,7 +27755,7 @@ we’re chatting over bygones. Oh dear, dear, what a man it is!’
 ‘WHICH of the bygones do you want to revive?’ said Ralph. ‘One of them,
 I know, or you wouldn’t talk about them.’
 
-‘He suspects even me!’ cried old [[Arthur]], holding up his hands. ‘Even
+‘He suspects even me!’ cried old [[arthur|Arthur]], holding up his hands. ‘Even
 me! Oh dear, even me. What a man it is! Ha, ha, ha! What a man it is! Mr
 Nickleby against all the world. There’s nobody like him. A giant among
 pigmies, a giant, a giant!’
@@ -27764,7 +27764,7 @@ Ralph looked at the old dog with a quiet smile as he chuckled on in this
 strain, and [[Newman Noggs]] in the closet felt his heart sink within him as
 the prospect of dinner grew fainter and fainter.
 
-‘I must [[Humour|humour]] him though,’ cried old [[Arthur]]; ‘he must have his way--a
+‘I must [[Humour|humour]] him though,’ cried old [[arthur|Arthur]]; ‘he must have his way--a
 wilful man, as the Scotch say--[[Well|well]], [[Well|well]], they’re a wise people, the
 Scotch. He will talk about business, and won’t give away his [[Time|time]] for
 nothing. He’s very right. [[Time]] is money, [[Time|time]] is money.’
@@ -27774,7 +27774,7 @@ nothing. He’s very right. [[Time]] is money, [[Time|time]] is money.’
 it. [[Time]] IS money! Yes, and [[Time|time]] costs money; it’s rather an expensive
 article to some people we could name, or I forget my trade.’
 
-In rejoinder to this sally, old [[Arthur]] again raised his hands, again
+In rejoinder to this sally, old [[arthur|Arthur]] again raised his hands, again
 chuckled, and again ejaculated ‘What a man it is!’ which done, he
 dragged the low chair a little nearer to Ralph’s high stool, and looking
 upwards into his immovable face, said,
@@ -27787,20 +27787,20 @@ for some purpose of your own you told a lie, and that it wasn’t the
 first [[Time|time]] and wouldn’t be the last; that I wasn’t surprised and wasn’t
 to be taken in.’
 
-‘Then I tell you seriously that I am,’ said old [[Arthur]].
+‘Then I tell you seriously that I am,’ said old [[arthur|Arthur]].
 
 ‘And I tell you seriously,’ rejoined Ralph, ‘what I told you this
 minute. Stay. Let me look at you. There’s a liquorish devilry in your
 face. What is this?’
 
-‘I wouldn’t deceive YOU, you know,’ whined [[Arthur]] Gride; ‘I couldn’t do
+‘I wouldn’t deceive YOU, you know,’ whined [[arthur|Arthur]] Gride; ‘I couldn’t do
 it, I should be mad to try. I, I, to deceive Mr. Nickleby! The pigmy to
 impose upon the giant. I ask again--he, he, he!--what should you say to
 me if I was to tell you that I was going to be married?’
 
 ‘To some old hag?’ said Ralph.
 
-‘No, No,’ cried [[Arthur]], interrupting him, and rubbing his hands in an
+‘No, No,’ cried [[arthur|Arthur]], interrupting him, and rubbing his hands in an
 ecstasy. ‘Wrong, wrong again. Mr. Nickleby for once at fault; out, quite
 out! To a young and beautiful girl; fresh, lovely, bewitching, and not
 nineteen. Dark eyes, long eyelashes, ripe and ruddy lips that to look at
@@ -27814,7 +27814,7 @@ this--hey, hey!’
 listening with a curled lip to the old sinner’s raptures. ‘The girl’s
 name?’
 
-‘Oh deep, deep! See now how deep that is!’ exclaimed old [[Arthur]]. ‘He
+‘Oh deep, deep! See now how deep that is!’ exclaimed old [[arthur|Arthur]]. ‘He
 knows I want his help, he knows he can give it me, he knows it must all
 turn to his advantage, he sees the thing already. Her name--is there
 nobody within hearing?’
@@ -27822,7 +27822,7 @@ nobody within hearing?’
 ‘Why, who the devil should there be?’ retorted Ralph, testily.
 
 ‘I didn’t know but that perhaps somebody might be passing up or down the
-stairs,’ said [[Arthur]] Gride, after looking out at the door and carefully
+stairs,’ said [[arthur|Arthur]] Gride, after looking out at the door and carefully
 reclosing it; ‘or but that your man might have come back and might have
 been listening outside. Clerks and servants have a trick of listening,
 and I should have been very uncomfortable if Mr. Noggs--’
@@ -27830,15 +27830,15 @@ and I should have been very uncomfortable if Mr. Noggs--’
 ‘Curse Mr. Noggs,’ said Ralph, sharply, ‘and go on with what you have to
 say.’
 
-‘Curse Mr. Noggs, by all means,’ rejoined old [[Arthur]]; ‘I am sure I have
+‘Curse Mr. Noggs, by all means,’ rejoined old [[arthur|Arthur]]; ‘I am sure I have
 not the least objection to that. Her name is--’
 
-‘[[Well]],’ said Ralph, rendered very irritable by old [[Arthur]]’s pausing
+‘[[Well]],’ said Ralph, rendered very irritable by old [[arthur|Arthur]]’s pausing
 again ‘what is it?’
 
 ‘[[Madeline Bray]].’
 
-Whatever reasons there might have been--and [[Arthur]] Gride appeared to
+Whatever reasons there might have been--and [[arthur|Arthur]] Gride appeared to
 have anticipated some--for the mention of this name producing an effect
 upon Ralph, or whatever effect it really did produce upon him, he
 permitted none to manifest itself, but calmly repeated the name several
@@ -27847,7 +27847,7 @@ times, as if reflecting when and where he had heard it before.
 ‘Bray,’ said Ralph. ‘Bray--there was young Bray of--no, he never had a
 daughter.’
 
-‘You remember Bray?’ rejoined [[Arthur]] Gride.
+‘You remember Bray?’ rejoined [[arthur|Arthur]] Gride.
 
 ‘No,’ said Ralph, looking vacantly at him.
 
@@ -27858,32 +27858,32 @@ by such a trait as that,’ said Ralph, shrugging his shoulders, ‘I shall
 confound him with nine-tenths of the dashing men I have ever known.’
 
 ‘Tut, tut. That Bray who is now in the Rules of the Bench,’ said old
-[[Arthur]]. ‘You can’t have forgotten Bray. Both of us did business with
+[[arthur|Arthur]]. ‘You can’t have forgotten Bray. Both of us did business with
 him. Why, he owes you money!’
 
 ‘Oh HIM!’ rejoined Ralph. ‘Ay, ay. Now you speak. Oh! It’s HIS daughter,
 is it?’
 
 Naturally as this was said, it was not said so naturally but that a
-kindred spirit like old [[Arthur]] Gride might have discerned a design upon
+kindred spirit like old [[arthur|Arthur]] Gride might have discerned a design upon
 the part of Ralph to lead him on to much more explicit statements and
 explanations than he would have volunteered, or that Ralph could in all
-likelihood have obtained by any other means. Old [[Arthur]], however, was so
+likelihood have obtained by any other means. Old [[arthur|Arthur]], however, was so
 intent upon his own designs, that he suffered himself to be overreached,
 and had no suspicion but that his good friend was in earnest.
 
 ‘I knew you couldn’t forget him, when you came to think for a moment,’
 he said.
 
-‘You were right,’ answered Ralph. ‘But old [[Arthur]] Gride and matrimony
-is a most anomalous conjunction of words; old [[Arthur]] Gride and dark
+‘You were right,’ answered Ralph. ‘But old [[arthur|Arthur]] Gride and matrimony
+is a most anomalous conjunction of words; old [[arthur|Arthur]] Gride and dark
 eyes and eyelashes, and lips that to look at is to long to kiss, and
 clustering hair that he wants to play with, and waists that he wants to
-span, and little feet that don’t tread upon anything--old [[Arthur]] Gride
-and such things as these is more monstrous still; but old [[Arthur]] Gride
+span, and little feet that don’t tread upon anything--old [[arthur|Arthur]] Gride
+and such things as these is more monstrous still; but old [[arthur|Arthur]] Gride
 marrying the daughter of a ruined “dashing man” in the Rules of the
 Bench, is the most monstrous and incredible of all. Plainly, friend
-[[Arthur]] Gride, if you want any help from me in this business (which of
+[[arthur|Arthur]] Gride, if you want any help from me in this business (which of
 course you do, or you would not be here), speak out, and to the purpose.
 And, above all, don’t talk to me of its turning to my advantage, for I
 know it must turn to yours also, and to a good round tune too, or you
@@ -27913,7 +27913,7 @@ affection of which he was capable, yet he loved himself a great deal
 better; which Ralph said it was quite unnecessary to say anything more
 about, as that was very natural, and probable enough.
 
-And, thirdly, old [[Arthur]] premised that the girl was a delicate and
+And, thirdly, old [[arthur|Arthur]] premised that the girl was a delicate and
 beautiful creature, and that he had really a hankering to have her for
 his wife. To this Ralph deigned no other rejoinder than a harsh smile,
 and a glance at the shrivelled old creature before him, which were,
@@ -27927,7 +27927,7 @@ oh dear, what an edged tool you are!’
 ‘Don’t play with me then,’ said Ralph impatiently. ‘You know the
 proverb.’
 
-‘A reply always on the tip of his tongue!’ cried old [[Arthur]], raising his
+‘A reply always on the tip of his tongue!’ cried old [[arthur|Arthur]], raising his
 hands and eyes in admiration. ‘He is always prepared! Oh dear, what a
 blessing to have such a ready wit, and so much ready money to back it!’
 Then, suddenly changing his tone, he went on: ‘I have been backwards and
@@ -27940,7 +27940,7 @@ I am his detaining creditor for seventeen hundred pounds!’
 pulling out his pocket-book. ‘I am another for nine hundred and
 seventy-five pounds four and threepence.’
 
-‘The only other, Mr. Nickleby,’ said old [[Arthur]], eagerly. ‘The only
+‘The only other, Mr. Nickleby,’ said old [[arthur|Arthur]], eagerly. ‘The only
 other. Nobody else went to the expense of lodging a detainer, trusting
 to our holding him fast enough, I warrant you. We both fell into the
 same snare; oh dear, what a pitfall it was; it almost ruined me! And
@@ -27953,7 +27953,7 @@ did!’
 ‘Go on with your scheme,’ said Ralph. ‘It’s of no use raising the cry of
 our trade just now; there’s nobody to hear us!’
 
-‘It’s always as [[Well|well]] to talk that way,’ returned old [[Arthur]], with a
+‘It’s always as [[Well|well]] to talk that way,’ returned old [[arthur|Arthur]], with a
 chuckle, ‘whether there’s anybody to hear us or not. Practice makes
 perfect, you know. Now, if I offer myself to Bray as his son-in-law,
 upon one simple condition that the moment I am fast married he shall be
@@ -27963,8 +27963,8 @@ doctor, and he declares that his complaint is one of the Heart and it
 is impossible), and if all the advantages of this condition are properly
 stated and dwelt upon to him, do you think he could resist me? And if
 he could not resist ME, do you think his daughter could resist HIM?
-Shouldn’t I have her Mrs. [[Arthur]] Gride--pretty Mrs. [[Arthur]] Gride--a
-tit-bit--a dainty chick--shouldn’t I have her Mrs. [[Arthur]] Gride in a
+Shouldn’t I have her Mrs. [[arthur|Arthur]] Gride--pretty Mrs. [[arthur|Arthur]] Gride--a
+tit-bit--a dainty chick--shouldn’t I have her Mrs. [[arthur|Arthur]] Gride in a
 week, a month, a day--any [[Time|time]] I chose to name?’
 
 ‘Go on,’ said Ralph, nodding his head deliberately, and speaking in
@@ -27972,7 +27972,7 @@ a tone whose studied coldness presented a strange contrast to the
 rapturous squeak to which his friend had gradually mounted. ‘Go on. You
 didn’t come here to ask me that.’
 
-‘Oh dear, how you talk!’ cried old [[Arthur]], edging himself closer still
+‘Oh dear, how you talk!’ cried old [[arthur|Arthur]], edging himself closer still
 to Ralph. ‘Of course I didn’t, I don’t pretend I did! I came to ask what
 you would take from me, if I prospered with the father, for this debt of
 yours. Five shillings in the pound, six and-eightpence, ten shillings? I
@@ -27983,7 +27983,7 @@ will you?’
 ‘There’s something more to be told,’ said Ralph, as stony and immovable
 as ever.
 
-‘Yes, yes, there is, but you won’t give me [[Time|time]],’ returned [[Arthur]] Gride.
+‘Yes, yes, there is, but you won’t give me [[Time|time]],’ returned [[arthur|Arthur]] Gride.
 ‘I want a backer in this matter; one who can talk, and urge, and press a
 point, which you can do as no man can. I can’t do that, for I am a poor,
 timid, nervous creature. Now, if you get a good composition for this
@@ -27992,18 +27992,18 @@ help me. Won’t you?’
 
 ‘There’s something more,’ said Ralph.
 
-‘No, no, indeed,’ cried [[Arthur]] Gride.
+‘No, no, indeed,’ cried [[arthur|Arthur]] Gride.
 
 ‘Yes, yes, indeed. I tell you yes,’ said Ralph.
 
-‘Oh!’ returned old [[Arthur]] feigning to be suddenly enlightened. ‘You mean
+‘Oh!’ returned old [[arthur|Arthur]] feigning to be suddenly enlightened. ‘You mean
 something more, as concerns myself and my intention. Ay, surely, surely.
 Shall I mention that?’
 
 ‘I think you had better,’ rejoined Ralph, drily.
 
 ‘I didn’t like to trouble you with that, because I supposed your
-interest would cease with your own concern in the affair,’ said [[Arthur]]
+interest would cease with your own concern in the affair,’ said [[arthur|Arthur]]
 Gride. ‘That’s kind of you to ask. Oh dear, how very kind of you! Why,
 supposing I had a knowledge of some property--some little property--very
 little--to which this pretty chick was entitled; which nobody does or
@@ -28014,7 +28014,7 @@ pouch, if he knew as much as I do, would that account for--’
 this matter over, and consider what I ought to have if I should help you
 to [[success]].’
 
-‘But don’t be hard,’ cried old [[Arthur]], raising his hands with an
+‘But don’t be hard,’ cried old [[arthur|Arthur]], raising his hands with an
 imploring gesture, and speaking, in a tremulous voice. ‘Don’t be too
 hard upon me. It’s a very small property, it is indeed. Say the ten
 shillings, and we’ll close the bargain. It’s more than I ought to give,
@@ -28043,14 +28043,14 @@ you like. If not, marry her without me if you can. I shall still get my
 debt.’
 
 To all entreaties, protestations, and offers of compromise between his
-own proposals and those which [[Arthur]] Gride had first suggested, Ralph
+own proposals and those which [[arthur|Arthur]] Gride had first suggested, Ralph
 was deaf as an adder. He would enter into no further discussion of the
-subject, and while old [[Arthur]] dilated upon the enormity of his demands
+subject, and while old [[arthur|Arthur]] dilated upon the enormity of his demands
 and proposed modifications of them, approaching by degrees nearer and
 nearer to the terms he resisted, sat perfectly mute, looking with an
 air of quiet abstraction over the entries and papers in his pocket-book.
 Finding that it was impossible to make any impression upon his staunch
-friend, [[Arthur]] Gride, who had prepared himself for some such result
+friend, [[arthur|Arthur]] Gride, who had prepared himself for some such result
 before he came, consented with a heavy heart to the proposed treaty, and
 upon the spot filled up the bond required (Ralph kept such instruments
 handy), after exacting the condition that Mr. Nickleby should accompany
@@ -28094,25 +28094,25 @@ visit.
 
 ‘There he sits, Mr. Bray,’ said Ralph, as the invalid, not yet recovered
 from his surprise, reclined in his chair, looking alternately at him
-and [[Arthur]] Gride. ‘What if he has had the ill-fortune to be one cause
+and [[arthur|Arthur]] Gride. ‘What if he has had the ill-fortune to be one cause
 of your detention in this place? I have been another; men must live; you
 are too much a man of the world not to see that in its true light. We
 offer the best reparation in our power. Reparation! Here is an offer
 of [[Marriage|marriage]], that many a titled father would leap at, for his [[Child|child]]. Mr
-[[Arthur]] Gride, with the fortune of a prince. Think what a haul it is!’
+[[arthur|Arthur]] Gride, with the fortune of a prince. Think what a haul it is!’
 
 ‘My daughter, sir,’ returned Bray, haughtily, ‘as I have brought her
 up, would be a rich recompense for the largest fortune that a man could
 bestow in exchange for her hand.’
 
 ‘Precisely what I told you,’ said the artful Ralph, turning to his
-friend, old [[Arthur]]. ‘Precisely what made me consider the thing so fair
+friend, old [[arthur|Arthur]]. ‘Precisely what made me consider the thing so fair
 and easy. There is no obligation on either side. You have money, and
 Miss [[Madeline]] has [[Beauty|beauty]] and worth. She has youth, you have money.
 She has not money, you have not youth. Tit for tat, quits, a match of
 Heaven’s own making!’
 
-‘Matches are made in Heaven, they say,’ added [[Arthur]] Gride, leering
+‘Matches are made in Heaven, they say,’ added [[arthur|Arthur]] Gride, leering
 hideously at the father-in-law he wanted. ‘If we are married, it will be
 destiny, according to that.’
 
@@ -28206,7 +28206,7 @@ There was a gleam of [[Conscience|conscience]] in the shame and terror of this h
 action, which, in one short moment, tore the thin covering of sophistry
 from the cruel design, and laid it bare in all its meanness and
 heartless deformity. The father fell into his chair pale and trembling;
-[[Arthur]] Gride plucked and fumbled at his hat, and durst not raise his
+[[arthur|Arthur]] Gride plucked and fumbled at his hat, and durst not raise his
 eyes from the floor; even Ralph crouched for the moment like a beaten
 hound, cowed by the presence of one young [[Innocent|innocent]] girl!
 
@@ -28221,7 +28221,7 @@ It might have moved a very hard and worldly heart to see the young and
 beautiful creature, whose certain misery they had been contriving but
 a minute before, throw her arms about her father’s neck, and pour forth
 words of tender sympathy and [[Love|love]], the sweetest a father’s ear can know,
-or [[Child|child]]’s lips form. But Ralph looked coldly on; and [[Arthur]] Gride,
+or [[Child|child]]’s lips form. But Ralph looked coldly on; and [[arthur|Arthur]] Gride,
 whose bleared eyes gloated only over the outward beauties, and were
 blind to the spirit which reigned within, evinced--a fantastic kind of
 warmth certainly, but not exactly that kind of warmth of feeling which
@@ -28234,7 +28234,7 @@ nothing.’
 [[Pain|pain]]. Can I do nothing for you?’
 
 ‘Nothing just now. Here are two gentlemen, [[Madeline]], one of whom you
-have seen before. She used to say,’ added Mr. Bray, addressing [[Arthur]]
+have seen before. She used to say,’ added Mr. Bray, addressing [[arthur|Arthur]]
 Gride, ‘that the sight of you always made me worse. That was natural,
 knowing what she did, and only what she did, of our connection and its
 results. [[Well]], [[Well|well]]. Perhaps she may change her mind on that point;
@@ -28264,38 +28264,38 @@ a week. Give me a week.’
 ‘One week,’ said Ralph, turning to his companion, ‘from today.
 Good-morning. Miss [[Madeline]], I kiss your hand.’
 
-‘We will shake hands, Gride,’ said Mr. Bray, extending his, as old [[Arthur]]
+‘We will shake hands, Gride,’ said Mr. Bray, extending his, as old [[arthur|Arthur]]
 bowed. ‘You mean [[Well|well]], no [[Doubt|doubt]]. I am bound to say so now. If I owed you
 money, that was not your fault. [[Madeline]], my [[Love|love]], your hand here.’
 
 ‘Oh dear! If the young lady would condescent! Only the tips of her
-fingers,’ said [[Arthur]], hesitating and half retreating.
+fingers,’ said [[arthur|Arthur]], hesitating and half retreating.
 
 [[Madeline]] shrunk involuntarily from the goblin figure, but she placed the
 tips of her fingers in his hand and instantly withdrew them. After an
 ineffectual clutch, intended to detain and carry them to his lips,
-old [[Arthur]] gave his own fingers a mumbling kiss, and with many amorous
+old [[arthur|Arthur]] gave his own fingers a mumbling kiss, and with many amorous
 distortions of visage went in pursuit of his friend, who was by this
 [[Time|time]] in the street.
 
 ‘What does he say, what does he say? What does the giant say to the
-pigmy?’ inquired [[Arthur]] Gride, hobbling up to Ralph.
+pigmy?’ inquired [[arthur|Arthur]] Gride, hobbling up to Ralph.
 
 ‘What does the pigmy say to the giant?’ rejoined Ralph, elevating his
 eyebrows and looking down upon his questioner.
 
-‘He doesn’t know what to say,’ replied [[Arthur]] Gride. ‘He hopes and
+‘He doesn’t know what to say,’ replied [[arthur|Arthur]] Gride. ‘He hopes and
 fears. But is she not a dainty morsel?’
 
 ‘I have no great taste for [[Beauty|beauty]],’ growled Ralph.
 
-‘But I have,’ rejoined [[Arthur]], rubbing his hands. ‘Oh dear! How handsome
+‘But I have,’ rejoined [[arthur|Arthur]], rubbing his hands. ‘Oh dear! How handsome
 her eyes looked when she was stooping over him! Such long lashes, such
 delicate fringe! She--she--looked at me so soft.’
 
 ‘Not over-lovingly, I think,’ said Ralph. ‘Did she?’
 
-‘No, you think not?’ replied old [[Arthur]]. ‘But don’t you think it can be
+‘No, you think not?’ replied old [[arthur|Arthur]]. ‘But don’t you think it can be
 brought about? Don’t you think it can?’
 
 Ralph looked at him with a contemptuous frown, and replied with a sneer,
@@ -28309,7 +28309,7 @@ overtasked her strength?’
 ‘When do you think he ever told her that before? The life is more than
 she can bear. Yes, yes. He’ll change it for her.’
 
-‘D’ye think it’s done?’ inquired old [[Arthur]], peering into his
+‘D’ye think it’s done?’ inquired old [[arthur|Arthur]], peering into his
 companion’s face with half-closed eyes.
 
 ‘I am sure it’s done,’ said Ralph. ‘He is trying to deceive himself,
@@ -28476,7 +28476,7 @@ thrice with profound gravity, and remarking, that he could not for the
 life of him imagine how the newspapers found out the things they did,
 folded up the extracts and put them in his pocket again.
 
-‘I am astonished to hear this news,’ said Nicholas. ‘Going to [[America]]!
+‘I am astonished to hear this news,’ said Nicholas. ‘Going to [[america|America]]!
 You had no such thing in contemplation when I was with you.’
 
 ‘No,’ replied Crummles, ‘I hadn’t then. The fact is that Mrs
@@ -28496,7 +28496,7 @@ phenomenon too.’
 ‘Why, it’s pretty sure to be something uncommon, I suppose,’ rejoined
 Mr. Crummles. ‘The talent of the other three is principally in combat and
 serious pantomime. I should like this one to have a turn for juvenile
-[[Tragedy|tragedy]]; I understand they want something of that sort in [[America]] very
+[[Tragedy|tragedy]]; I understand they want something of that sort in [[america|America]] very
 much. However, we must take it as it comes. Perhaps it may have a genius
 for the tight-rope. It may have any sort of genius, in short, if it
 takes after its mother, Johnson, for she is an universal genius; but,
@@ -28509,7 +28509,7 @@ from frequent going down upon those joints, in curses, prayers, last
 struggles, and other strong passages.
 
 While the ex-manager completed his toilet, he informed Nicholas that as
-he should have a fair start in [[America]] from the proceeds of a tolerably
+he should have a fair start in [[america|America]] from the proceeds of a tolerably
 good engagement which he had been fortunate enough to obtain, and as
 he and Mrs. Crummles could scarcely [[Hope|hope]] to act for ever (not being
 immortal, except in the breath of Fame and in a figurative sense) he had
@@ -30108,7 +30108,7 @@ their Confidence
 
 In an old [[house]], dismal dark and dusty, which seemed to have withered,
 like himself, and to have grown yellow and shrivelled in hoarding him
-from the light of day, as he had in hoarding his money, lived [[Arthur]]
+from the light of day, as he had in hoarding his money, lived [[arthur|Arthur]]
 Gride. Meagre old chairs and tables, of spare and bony make, and hard
 and cold as misers’ hearts, were ranged, in grim array, against the
 gloomy walls; attenuated presses, grown lank and lantern-jawed in
@@ -30155,7 +30155,7 @@ together, but always brought them forth, singly, and never failed to
 shut the wardrobe door, and turn the key, between each visit to its
 shelves.
 
-‘The snuff-coloured suit,’ said [[Arthur]] Gride, surveying a threadbare
+‘The snuff-coloured suit,’ said [[arthur|Arthur]] Gride, surveying a threadbare
 coat. ‘Did I look [[Well|well]] in snuff-colour? Let me think.’
 
 The result of his cogitations appeared to be unfavourable, for he folded
@@ -30166,7 +30166,7 @@ another, chirping while he did so:
      Oh what happiness there!
      The wedding is sure to be lucky!
 
-‘They always put in “young,”’ said old [[Arthur]], ‘but [[songs]] are only
+‘They always put in “young,”’ said old [[arthur|Arthur]], ‘but [[songs]] are only
 written for the sake of rhyme, and this is a silly one that the poor
 country-people sang, when I was a little boy. Though stop--young is
 quite right too--it means the bride--yes. He, he, he! It means the
@@ -30177,7 +30177,7 @@ In the satisfaction of this discovery, he went over the verse again,
 with increased expression, and a shake or two here and there. He then
 resumed his employment.
 
-‘The bottle-green,’ said old [[Arthur]]; ‘the bottle-green was a famous
+‘The bottle-green,’ said old [[arthur|Arthur]]; ‘the bottle-green was a famous
 suit to wear, and I bought it very cheap at a pawnbroker’s, and there
 was--he, he, he!--a tarnished shilling in the waistcoat pocket. To think
 that the pawnbroker shouldn’t have known there was a shilling in it! I
@@ -30197,18 +30197,18 @@ commonly speak:
 so bad, I never know which is which; but when I hear a noise, I know it
 must be one of you, because nothing else never stirs in the [[house]].’
 
-‘Me, Peg, me,’ said [[Arthur]] Gride, tapping himself on the breast to
+‘Me, Peg, me,’ said [[arthur|Arthur]] Gride, tapping himself on the breast to
 render the reply more intelligible.
 
 ‘You, eh?’ returned Peg. ‘And what do YOU want?’
 
-‘I’ll be married in the bottle-green,’ cried [[Arthur]] Gride.
+‘I’ll be married in the bottle-green,’ cried [[arthur|Arthur]] Gride.
 
 ‘It’s a deal too good to be married in, master,’ rejoined Peg, after
 a short inspection of the suit. ‘Haven’t you got anything worse than
 this?’
 
-‘Nothing that’ll do,’ replied old [[Arthur]].
+‘Nothing that’ll do,’ replied old [[arthur|Arthur]].
 
 ‘Why not do?’ retorted Peg. ‘Why don’t you wear your every-day clothes,
 like a man--eh?’
@@ -30221,7 +30221,7 @@ like a man--eh?’
 
 ‘Becoming what?’ said Peg, sharply. ‘Not becoming too old to wear?’
 
-[[Arthur]] Gride muttered an imprecation on his housekeeper’s deafness, as
+[[arthur|Arthur]] Gride muttered an imprecation on his housekeeper’s deafness, as
 he roared in her ear:
 
 ‘Not smart enough! I want to look as [[Well|well]] as I can.’
@@ -30236,7 +30236,7 @@ suit, and folding her skinny arms upon the bundle, stood, mouthing, and
 grinning, and blinking her watery eyes, like an uncouth figure in some
 monstrous piece of carving.
 
-‘You’re in a funny [[Humour|humour]], an’t you, Peg?’ said [[Arthur]], with not the
+‘You’re in a funny [[Humour|humour]], an’t you, Peg?’ said [[arthur|Arthur]], with not the
 best possible grace.
 
 ‘Why, isn’t it enough to make me?’ rejoined the old woman. ‘I shall,
@@ -30246,7 +30246,7 @@ Sliderskew’s head, after so many years; you know that, and so I needn’t
 tell you! That won’t do for me--no, no, nor for you. Try that once, and
 come to ruin--ruin--ruin!’
 
-‘Oh dear, dear, I shall never try it,’ said [[Arthur]] Gride, appalled by
+‘Oh dear, dear, I shall never try it,’ said [[arthur|Arthur]] Gride, appalled by
 the mention of the word, ‘not for the world. It would be very easy to
 ruin me; we must be very careful; more saving than ever, with another
 mouth to feed. Only we--we mustn’t let her lose her good looks, Peg,
@@ -30255,7 +30255,7 @@ because I like to see ‘em.’
 ‘Take care you don’t find good looks come expensive,’ returned Peg,
 shaking her forefinger.
 
-‘But she can earn money herself, Peg,’ said [[Arthur]] Gride, eagerly
+‘But she can earn money herself, Peg,’ said [[arthur|Arthur]] Gride, eagerly
 watching what effect his communication produced upon the old woman’s
 countenance: ‘she can draw, paint, work all manner of pretty things for
 ornamenting stools and chairs: slippers, Peg, watch-guards, hair-[[Chains|chains]],
@@ -30266,20 +30266,20 @@ keep, Peg; don’t you think she will?’
 
 ‘If you don’t let her make a [[Fool|fool]] of you, she may,’ returned Peg.
 
-‘A [[Fool|fool]] of ME!’ exclaimed [[Arthur]]. ‘Trust your old master not to be
+‘A [[Fool|fool]] of ME!’ exclaimed [[arthur|Arthur]]. ‘Trust your old master not to be
 fooled by pretty faces, Peg; no, no, no--nor by ugly ones neither, Mrs
 Sliderskew,’ he softly added by way of soliloquy.
 
 ‘You’re a saying something you don’t want me to hear,’ said Peg; ‘I know
 you are.’
 
-‘Oh dear! the devil’s in this woman,’ muttered [[Arthur]]; adding with an
+‘Oh dear! the devil’s in this woman,’ muttered [[arthur|Arthur]]; adding with an
 ugly leer, ‘I said I trusted everything to you, Peg. That was all.’
 
 ‘You do that, master, and all your cares are over,’ said Peg
 approvingly.
 
-‘WHEN I do that, Peg Sliderskew,’ thought [[Arthur]] Gride, ‘they will be.’
+‘WHEN I do that, Peg Sliderskew,’ thought [[arthur|Arthur]] Gride, ‘they will be.’
 
 Although he thought this very distinctly, he durst not move his lips
 lest the old woman should detect him. He even seemed half afraid that
@@ -30304,14 +30304,14 @@ for a sour malignant look, and twisting her under-jaw from side to side,
 muttered hearty curses upon the future Mrs. Gride, as she crept slowly
 down the stairs, and paused for breath at nearly every one.
 
-‘She’s half a [[Witch|witch]], I think,’ said [[Arthur]] Gride, when he found himself
+‘She’s half a [[Witch|witch]], I think,’ said [[arthur|Arthur]] Gride, when he found himself
 again [[Alone|alone]]. ‘But she’s very frugal, and she’s very deaf. Her living
 costs me next to nothing; and it’s no use her listening at keyholes; for
 she can’t hear. She’s a charming woman--for the purpose; a most discreet
 old housekeeper, and worth her weight in--copper.’
 
 Having extolled the merits of his domestic in these high terms, old
-[[Arthur]] went back to the burden of his [[Song|song]]. The suit destined to grace
+[[arthur|Arthur]] went back to the burden of his [[Song|song]]. The suit destined to grace
 his approaching nuptials being now selected, he replaced the others with
 no less care than he had displayed in drawing them from the musty nooks
 where they had silently reposed for many years.
@@ -30322,7 +30322,7 @@ discreet Peg seldom knew the bell was rung unless she happened to cast
 her dim eyes upwards, and to see it shaking against the kitchen ceiling.
 After a short delay, however, Peg tottered in, followed by [[Newman Noggs]].
 
-‘Ah! Mr. Noggs!’ cried [[Arthur]] Gride, rubbing his hands. ‘My good friend,
+‘Ah! Mr. Noggs!’ cried [[arthur|Arthur]] Gride, rubbing his hands. ‘My good friend,
 Mr. Noggs, what news do you bring for me?’
 
 Newman, with a steadfast and immovable aspect, and his fixed eye very
@@ -30333,11 +30333,11 @@ Mr. Nickleby. Bearer waits.’
 
 Newman looked up, and smacked his lips.
 
-‘--A chair?’ said [[Arthur]] Gride.
+‘--A chair?’ said [[arthur|Arthur]] Gride.
 
 ‘No,’ replied Newman. ‘Thankee.’
 
-[[Arthur]] opened the letter with trembling hands, and devoured its contents
+[[arthur|Arthur]] opened the letter with trembling hands, and devoured its contents
 with the utmost greediness; chuckling rapturously over it, and reading
 it several times, before he could take it from before his eyes. So
 many times did he peruse and re-peruse it, that Newman considered it
@@ -30345,12 +30345,12 @@ expedient to remind him of his presence.
 
 ‘Answer,’ said Newman. ‘Bearer waits.’
 
-‘True,’ replied old [[Arthur]]. ‘Yes--yes; I almost forgot, I do declare.’
+‘True,’ replied old [[arthur|Arthur]]. ‘Yes--yes; I almost forgot, I do declare.’
 
 ‘I thought you were forgetting,’ said Newman.
 
 ‘Quite right to remind me, Mr. Noggs. Oh, very right indeed,’ said
-[[Arthur]]. ‘Yes. I’ll write a line. I’m--I’m--rather flurried, Mr. Noggs.
+[[arthur|Arthur]]. ‘Yes. I’ll write a line. I’m--I’m--rather flurried, Mr. Noggs.
 The news is--’
 
 ‘Bad?’ interrupted Newman.
@@ -30391,12 +30391,12 @@ he does, and does [[Well|well]].
 A footstep was heard without. Newman dropped the letter on the same spot
 again, pressed it with his foot to prevent its fluttering away, regained
 his seat in a single stride, and looked as vacant and unconscious as
-ever mortal looked. [[Arthur]] Gride, after peering nervously about him,
+ever mortal looked. [[arthur|Arthur]] Gride, after peering nervously about him,
 spied it on the ground, picked it up, and sitting down to write, glanced
 at [[Newman Noggs]], who was staring at the wall with an intensity so
-remarkable, that [[Arthur]] was quite alarmed.
+remarkable, that [[arthur|Arthur]] was quite alarmed.
 
-‘Do you see anything particular, Mr. Noggs?’ said [[Arthur]], trying to
+‘Do you see anything particular, Mr. Noggs?’ said [[arthur|Arthur]], trying to
 follow the direction of Newman’s eyes--which was an impossibility, and a
 thing no man had ever done.
 
@@ -30406,14 +30406,14 @@ thing no man had ever done.
 
 ‘No,’ said Newman. ‘There’s a fly in it.’
 
-‘There are a good many cobwebs here,’ observed [[Arthur]] Gride.
+‘There are a good many cobwebs here,’ observed [[arthur|Arthur]] Gride.
 
 ‘So there are in our place,’ returned Newman; ‘and flies too.’
 
 Newman appeared to derive great entertainment from this repartee, and
-to the great discomposure of [[Arthur]] Gride’s nerves, produced a series of
+to the great discomposure of [[arthur|Arthur]] Gride’s nerves, produced a series of
 sharp cracks from his finger-joints, resembling the noise of a distant
-discharge of small artillery. [[Arthur]] succeeded in finishing his reply
+discharge of small artillery. [[arthur|Arthur]] succeeded in finishing his reply
 to Ralph’s note, nevertheless, and at length handed it over to the
 eccentric messenger for delivery.
 
@@ -30426,18 +30426,18 @@ face, and almost obscured his eyes:
 
 ‘Will you--will you take a little drop of something--just a taste?’
 
-In good fellowship (if [[Arthur]] Gride had been capable of it) Newman would
+In good fellowship (if [[arthur|Arthur]] Gride had been capable of it) Newman would
 not have drunk with him one bubble of the richest wine that was ever
 made; but to see what he would be at, and to punish him as much as he
 could, he accepted the offer immediately.
 
-[[Arthur]] Gride, therefore, again applied himself to the press, and from a
+[[arthur|Arthur]] Gride, therefore, again applied himself to the press, and from a
 shelf laden with tall Flemish drinking-glasses, and quaint bottles:
 some with necks like so many storks, and others with square Dutch-built
 bodies and short fat apoplectic throats: took down one dusty bottle of
 promising appearance, and two glasses of curiously small size.
 
-‘You never tasted this,’ said [[Arthur]]. ‘It’s EAU-D’OR--golden [[Water|water]]. I
+‘You never tasted this,’ said [[arthur|Arthur]]. ‘It’s EAU-D’OR--golden [[Water|water]]. I
 like it on account of its name. It’s a delicious name. [[Water]] of gold,
 golden [[Water|water]]! O dear me, it seems quite a sin to drink it!’
 
@@ -30445,7 +30445,7 @@ As his [[Courage|courage]] appeared to be fast failing him, and he trifled with 
 stopper in a manner which threatened the dismissal of the bottle to its
 old place, Newman took up one of the little glasses, and clinked it,
 twice or thrice, against the bottle, as a gentle reminder that he
-had not been helped yet. With a deep sigh, [[Arthur]] Gride slowly filled
+had not been helped yet. With a deep sigh, [[arthur|Arthur]] Gride slowly filled
 it--though not to the brim--and then filled his own.
 
 ‘Stop, stop; don’t drink it yet,’ he said, laying his hand on Newman’s;
@@ -30456,7 +30456,7 @@ myself. We’ll drink a toast. Shall we drink a toast, Mr. Noggs?’
 ‘Ah!’ said Newman, eyeing his little glass impatiently. ‘Look sharp.
 Bearer waits.’
 
-‘Why, then, I’ll tell you what,’ tittered [[Arthur]], ‘we’ll drink--he, he,
+‘Why, then, I’ll tell you what,’ tittered [[arthur|Arthur]], ‘we’ll drink--he, he,
 he!--we’ll drink a lady.’
 
 ‘THE ladies?’ said Newman.
@@ -30703,7 +30703,7 @@ Nickleby and Gride would not invalidate the [[Marriage|marriage]], or render Bra
 averse to it, who, if he did not actually know of the existence of some
 such understanding, doubtless suspected it. What had been hinted with
 reference to some fraud on [[Madeline]], had been put, with sufficient
-obscurity by [[Arthur]] Gride, but coming from [[Newman Noggs]], and obscured
+obscurity by [[arthur|Arthur]] Gride, but coming from [[Newman Noggs]], and obscured
 still further by the smoke of his pocket-[[Pistol|pistol]], it became wholly
 unintelligible, and involved in utter darkness.
 
@@ -31240,7 +31240,7 @@ Evins itself looks down!”’
 CHAPTER 53
 
 Containing the further Progress of the Plot contrived by Mr. Ralph
-Nickleby and Mr. [[Arthur]] Gride
+Nickleby and Mr. [[arthur|Arthur]] Gride
 
 
 With that settled resolution, and steadiness of purpose to which extreme
@@ -31525,7 +31525,7 @@ of men, one of them your destined husband, who are--’
 
 ‘I must not hear this,’ cried the young lady, striving to repress a
 shudder, occasioned, as it seemed, even by this slight allusion to
-[[Arthur]] Gride. ‘This evil, if evil it be, has been of my own seeking. I
+[[arthur|Arthur]] Gride. ‘This evil, if evil it be, has been of my own seeking. I
 am impelled to this course by no one, but follow it of my own free will.
 You see I am not constrained or forced. Report this,’ said [[Madeline]],
 ‘to my dear friend and benefactor, and, taking with you my prayers and
@@ -31636,13 +31636,13 @@ hurried scene which had just closed upon him, as if it were the [[Phantom|phanto
 of some wild, unquiet dream. The day wore on; at [[Night|night]], having been
 enabled in some measure to collect his thoughts, he issued forth again.
 
-That [[Night|night]], being the last of [[Arthur]] Gride’s bachelorship, found him in
+That [[Night|night]], being the last of [[arthur|Arthur]] Gride’s bachelorship, found him in
 tiptop spirits and great glee. The bottle-green suit had been brushed,
 ready for the morrow. Peg Sliderskew had rendered the accounts of her
 past housekeeping; the eighteen-pence had been rigidly accounted for
 (she was never trusted with a larger sum at once, and the accounts were
 not usually balanced more than twice a day); every preparation had
-been made for the coming festival; and [[Arthur]] might have sat down and
+been made for the coming festival; and [[arthur|Arthur]] might have sat down and
 contemplated his approaching happiness, but that he preferred sitting
 down and contemplating the entries in a dirty old vellum-book with rusty
 clasps.
@@ -31653,12 +31653,12 @@ shoulder, and slowly drew forth this greasy volume. ‘[[Well]]-a-day now,
 this is all my library, but it’s one of the most entertaining books that
 were ever written! It’s a delightful book, and all true and real--that’s
 the best of it--true as the Bank of England, and real as its gold and
-silver. Written by [[Arthur]] Gride. He, he, he! None of your storybook
+silver. Written by [[arthur|Arthur]] Gride. He, he, he! None of your storybook
 writers will ever make as good a book as this, I warrant me. It’s
 composed for private circulation, for my own particular reading, and
 nobody else’s. He, he, he!’
 
-Muttering this soliloquy, [[Arthur]] carried his precious volume to the
+Muttering this soliloquy, [[arthur|Arthur]] carried his precious volume to the
 table, and, adjusting it upon a dusty desk, put on his spectacles, and
 began to pore among the [[Leaves|leaves]].
 
@@ -31682,12 +31682,12 @@ that he would have succeeded had he undertaken his enterprise [[Alone|alone]], h
 regained his equanimity, and chattered and mowed over more satisfactory
 items, until the entrance of Peg Sliderskew interrupted him.
 
-‘Aha, Peg!’ said [[Arthur]], ‘what is it? What is it now, Peg?’
+‘Aha, Peg!’ said [[arthur|Arthur]], ‘what is it? What is it now, Peg?’
 
 ‘It’s the fowl,’ replied Peg, holding up a plate containing a little, a
 very little one. Quite a phenomenon of a fowl. So very small and skinny.
 
-‘A beautiful bird!’ said [[Arthur]], after inquiring the price, and finding
+‘A beautiful bird!’ said [[arthur|Arthur]], after inquiring the price, and finding
 it proportionate to the size. ‘With a rasher of ham, and an egg made
 into sauce, and potatoes, and greens, and an apple pudding, Peg, and a
 little bit of [[cheese]], we shall have a dinner for an emperor. There’ll
@@ -31697,7 +31697,7 @@ only be she and me--and you, Peg, when we’ve done.’
 sulkily.
 
 ‘I am afraid we must live expensively for the first week,’ returned
-[[Arthur]], with a groan, ‘and then we must make up for it. I won’t eat more
+[[arthur|Arthur]], with a groan, ‘and then we must make up for it. I won’t eat more
 than I can help, and I know you [[Love|love]] your old master too much to eat
 more than YOU can help, don’t you, Peg?’
 
@@ -31707,7 +31707,7 @@ more than YOU can help, don’t you, Peg?’
 
 ‘No, not a bit too much,’ said Peg.
 
-‘Oh, dear, I wish the devil had this woman!’ cried [[Arthur]]: ‘[[Love|love]] him too
+‘Oh, dear, I wish the devil had this woman!’ cried [[arthur|Arthur]]: ‘[[Love|love]] him too
 much to eat more than you can help at his expense.’
 
 ‘At his what?’ said Peg.
@@ -31719,15 +31719,15 @@ The last-mentioned tribute to the charms of Mrs. Sliderskew being uttered
 in a whisper, that lady assented to the general proposition by a harsh
 growl, which was accompanied by a ring at the street-door.
 
-‘There’s the bell,’ said [[Arthur]].
+‘There’s the bell,’ said [[arthur|Arthur]].
 
 ‘Ay, ay; I know that,’ rejoined Peg.
 
-‘Then why don’t you go?’ bawled [[Arthur]].
+‘Then why don’t you go?’ bawled [[arthur|Arthur]].
 
 ‘Go where?’ retorted Peg. ‘I ain’t doing any harm here, am I?’
 
-[[Arthur]] Gride in reply repeated the word ‘bell’ as loud as he could roar;
+[[arthur|Arthur]] Gride in reply repeated the word ‘bell’ as loud as he could roar;
 and, his meaning being rendered further intelligible to Mrs. Sliderskew’s
 dull sense of hearing by pantomime expressive of ringing at a
 street-door, Peg hobbled out, after sharply demanding why he hadn’t said
@@ -31735,7 +31735,7 @@ there was a ring before, instead of talking about all manner of things
 that had nothing to do with it, and keeping her half-pint of beer
 waiting on the steps.
 
-‘There’s a change come over you, Mrs. Peg,’ said [[Arthur]], following her
+‘There’s a change come over you, Mrs. Peg,’ said [[arthur|Arthur]], following her
 out with his eyes. ‘What it means I don’t quite know; but, if it lasts,
 we shan’t agree together long I see. You are turning crazy, I think. If
 you are, you must take yourself off, Mrs. Peg--or be taken off. All’s one
@@ -31753,7 +31753,7 @@ cheek-bones resting on his hands, it only served to bring out his ugly
 features in strong relief, together with the little table at which he
 sat, and to shroud all the rest of the chamber in a deep sullen gloom.
 Raising his eyes, and looking vacantly into this gloom as he made some
-mental calculation, [[Arthur]] Gride suddenly met the fixed gaze of a man.
+mental calculation, [[arthur|Arthur]] Gride suddenly met the fixed gaze of a man.
 
 ‘Thieves! thieves!’ shrieked the usurer, starting up and folding his
 book to his breast. ‘Robbers! Murder!’
@@ -31764,7 +31764,7 @@ book to his breast. ‘Robbers! Murder!’
 
 ‘For what do you take me, if not for a man?’ was the inquiry.
 
-‘Yes, yes,’ cried [[Arthur]] Gride, shading his eyes with his hand, ‘it is a
+‘Yes, yes,’ cried [[arthur|Arthur]] Gride, shading his eyes with his hand, ‘it is a
 man, and not a spirit. It is a man. Robbers! robbers!’
 
 ‘For what are these cries raised? Unless indeed you know me, and have
@@ -31782,7 +31782,7 @@ been silently waiting until you should be less abstracted. What I want
 I will tell you, when you can summon up [[Courage|courage]] enough to hear and
 understand me.’
 
-[[Arthur]] Gride, venturing to regard his visitor more attentively, and
+[[arthur|Arthur]] Gride, venturing to regard his visitor more attentively, and
 perceiving that he was a young man of good mien and bearing, returned to
 his seat, and muttering that there were bad characters about, and
 that this, with former attempts upon his [[house]], had made him nervous,
@@ -31807,7 +31807,7 @@ between you,’ pursued Nicholas. ‘You pay him for his share in bringing
 about this sale of [[Madeline Bray]]. You do. A lie is trembling on your
 lips, I see.’
 
-He paused; but, [[Arthur]] making no reply, resumed again.
+He paused; but, [[arthur|Arthur]] making no reply, resumed again.
 
 ‘You pay yourself by defrauding her. How or by what means--for I scorn
 to sully her cause by falsehood or deceit--I do not know; at present I
@@ -31818,7 +31818,7 @@ track you through your windings; you will yet be called to a dear
 account for this. We are on the scent already; judge you, who know what
 we do not, when we shall have you down!’
 
-He paused again, and still [[Arthur]] Gride glared upon him in [[Silence|silence]].
+He paused again, and still [[arthur|Arthur]] Gride glared upon him in [[Silence|silence]].
 
 ‘If you were a man to whom I could appeal with any [[Hope|hope]] of touching
 his compassion or humanity,’ said Nicholas, ‘I would urge upon you to
@@ -31831,7 +31831,7 @@ to which you are exposed. You see I know enough to know much more with
 very little help. Bate some expected gain for the risk you save, and say
 what is your price.’
 
-Old [[Arthur]] Gride moved his lips, but they only formed an ugly smile and
+Old [[arthur|Arthur]] Gride moved his lips, but they only formed an ugly smile and
 were motionless again.
 
 ‘You think,’ said Nicholas, ‘that the price would not be paid. Miss Bray
@@ -31840,7 +31840,7 @@ a strait as this. Name your price, defer these nuptials for but a few
 days, and see whether those I speak of, shrink from the payment. Do you
 hear me?’
 
-When Nicholas began, [[Arthur]] Gride’s impression was, that [[Ralph Nickleby]]
+When Nicholas began, [[arthur|Arthur]] Gride’s impression was, that [[Ralph Nickleby]]
 had betrayed him; but, as he proceeded, he felt convinced that however
 he had come by the knowledge he possessed, the part he acted was a
 genuine one, and that with Ralph he had no concern. All he seemed to
@@ -31853,7 +31853,7 @@ accusation. Whether or no, he had clearly no key to the mystery, and
 could not hurt him who kept it close within his own breast. The
 allusion to friends, and the offer of money, Gride held to be mere empty
 vapouring, for purposes of delay. ‘And even if money were to be had,’
-thought [[Arthur]] Gride, as he glanced at Nicholas, and trembled with
+thought [[arthur|Arthur]] Gride, as he glanced at Nicholas, and trembled with
 passion at his boldness and audacity, ‘I’d have that dainty chick for my
 wife, and cheat YOU of her, young smooth-face!’
 
@@ -31888,13 +31888,13 @@ weep, I shan’t mind it. She looks prettier in [[Tears|tears]].’
 
 ‘[[Villain]]!’ said Nicholas, choking with his rage.
 
-‘One minute more,’ cried [[Arthur]] Gride, ‘and I’ll rouse the street with
+‘One minute more,’ cried [[arthur|Arthur]] Gride, ‘and I’ll rouse the street with
 such screams, as, if they were raised by anybody else, should wake me
 even in the arms of pretty [[Madeline]].’
 
 ‘You hound!’ said Nicholas. ‘If you were but a younger man--’
 
-‘Oh yes!’ sneered [[Arthur]] Gride, ‘If I was but a younger man it wouldn’t
+‘Oh yes!’ sneered [[arthur|Arthur]] Gride, ‘If I was but a younger man it wouldn’t
 be so bad; but for me, so old and ugly! To be jilted by little [[Madeline]]
 for me!’
 
@@ -31904,19 +31904,19 @@ doing if I once grappled with you. I have been no [[Lover|lover]] of this lady�
 No contract or engagement, no word of [[Love|love]], has ever passed between us.
 She does not even know my name.’
 
-‘I’ll ask it for all that. I’ll beg it of her with kisses,’ said [[Arthur]]
+‘I’ll ask it for all that. I’ll beg it of her with kisses,’ said [[arthur|Arthur]]
 Gride. ‘Yes, and she’ll tell me, and pay them back, and we’ll laugh
 together, and hug ourselves, and be very merry, when we think of the
 poor youth that wanted to have her, but couldn’t because she was bespoke
 by me!’
 
 This taunt brought such an expression into the face of Nicholas, that
-[[Arthur]] Gride plainly apprehended it to be the forerunner of his putting
+[[arthur|Arthur]] Gride plainly apprehended it to be the forerunner of his putting
 his threat of throwing him into the street in immediate execution; for
 he thrust his head out of the [[Window|window]], and holding tight on with both
 hands, raised a pretty brisk alarm. Not thinking it necessary to abide
 the issue of the noise, Nicholas gave vent to an indignant defiance,
-and stalked from the room and from the [[house]]. [[Arthur]] Gride watched him
+and stalked from the room and from the [[house]]. [[arthur|Arthur]] Gride watched him
 across the street, and then, drawing in his head, fastened the [[Window|window]] as
 before, and sat down to take breath.
 
@@ -31930,7 +31930,7 @@ perhaps drown himself or cut his throat! I shouldn’t [[Wonder|wonder]]! That w
 make it quite complete, that would: quite.’
 
 When he had become restored to his usual condition by these and other
-comments on his approaching triumph, [[Arthur]] Gride put away his book,
+comments on his approaching triumph, [[arthur|Arthur]] Gride put away his book,
 and, having locked the chest with great caution, descended into the
 kitchen to warn Peg Sliderskew to bed, and scold her for having afforded
 such ready admission to a stranger.
@@ -31940,7 +31940,7 @@ of which she had been guilty, he summoned her to hold the light, while
 he made a tour of the fastenings, and secured the street-door with his
 own hands.
 
-‘Top bolt,’ muttered [[Arthur]], fastening as he spoke, ‘[[Bottom|bottom]] bolt, chain,
+‘Top bolt,’ muttered [[arthur|Arthur]], fastening as he spoke, ‘[[Bottom|bottom]] bolt, chain,
 bar, [[Double|double]] lock, and key out to put under my pillow! So, if any more
 rejected admirers come, they may come through the keyhole. And now I’ll
 go to [[Sleep|sleep]] till half-past five, when I must get up to be married, Peg!’
@@ -31970,7 +31970,7 @@ a singular and special kind and it is very doubtful whether either
 can be considered as a precedent likely to be extensively followed by
 succeeding generations.
 
-[[Arthur]] Gride had enrobed himself in his [[Marriage|marriage]] garments of
+[[arthur|Arthur]] Gride had enrobed himself in his [[Marriage|marriage]] garments of
 bottle-green, a full hour before Mrs. Sliderskew, shaking off her
 more heavy slumbers, knocked at his chamber door; and he had hobbled
 downstairs in full array and smacked his lips over a scanty taste of his
@@ -31986,15 +31986,15 @@ Peg! my will!” says he: “I’m a bachelor--no friends--no relations, Peg.”
  Lies! And now he’s to bring [[Home|home]] a new mistress, a baby-faced chit of a
 girl! If he wanted a wife, the [[Fool|fool]], why couldn’t he have one suitable
 to his age, and that knew his ways? She won’t come in MY way, he says.
-No, that she won’t, but you little think why, [[Arthur]] boy!’
+No, that she won’t, but you little think why, [[arthur|Arthur]] boy!’
 
 While Mrs. Sliderskew, influenced possibly by some lingering feelings
 of disappointment and personal slight, occasioned by her old master’s
 preference for another, was giving loose to these grumblings below
-stairs, [[Arthur]] Gride was cogitating in the parlour upon what had taken
+stairs, [[arthur|Arthur]] Gride was cogitating in the parlour upon what had taken
 place last [[Night|night]].
 
-‘I can’t think how he can have picked up what he knows,’ said [[Arthur]],
+‘I can’t think how he can have picked up what he knows,’ said [[arthur|Arthur]],
 ‘unless I have committed myself--let something drop at Bray’s, for
 instance--which has been overheard. Perhaps I may. I shouldn’t be
 surprised if that was it. Mr. Nickleby was often angry at my talking to
@@ -32003,16 +32003,16 @@ the business, or he’ll put me out of sorts, and make me nervous for the
 day.’
 
 Ralph was universally looked up to, and recognised among his fellows as
-a superior genius, but upon [[Arthur]] Gride his stern unyielding character
+a superior genius, but upon [[arthur|Arthur]] Gride his stern unyielding character
 and consummate art had made so deep an impression, that he was actually
-afraid of him. Cringing and cowardly to the core by [[Nature|nature]], [[Arthur]] Gride
+afraid of him. Cringing and cowardly to the core by [[Nature|nature]], [[arthur|Arthur]] Gride
 humbled himself in the [[Dust|dust]] before [[Ralph Nickleby]], and, even when they
 had not this stake in common, would have licked his shoes and crawled
 upon the ground before him rather than venture to return him word
 for word, or retort upon him in any other spirit than one of the most
 slavish and abject sycophancy.
 
-To [[Ralph Nickleby]]’s, [[Arthur]] Gride now betook himself according to
+To [[Ralph Nickleby]]’s, [[arthur|Arthur]] Gride now betook himself according to
 appointment; and to [[Ralph Nickleby]] he related how, last [[Night|night]], some
 young blustering blade, whom he had never seen, forced his way into his
 [[house]], and tried to frighten him from the proposed nuptials. Told, in
@@ -32032,20 +32032,20 @@ swear he uttered threats, and demanded my life or my money.’
 
 ‘Oho!’ said Ralph, eyeing him askew. ‘Jealous too!’
 
-‘Dear now, see that!’ cried [[Arthur]], rubbing his hands and affecting to
+‘Dear now, see that!’ cried [[arthur|Arthur]], rubbing his hands and affecting to
 laugh.
 
 ‘Why do you make those grimaces, man?’ said Ralph; ‘you ARE jealous--and
 with good cause I think.’
 
 ‘No, no, no; not with good cause, hey? You don’t think with good cause,
-do you?’ cried [[Arthur]], faltering. ‘Do you though, hey?’
+do you?’ cried [[arthur|Arthur]], faltering. ‘Do you though, hey?’
 
 ‘Why, how stands the fact?’ returned Ralph. ‘Here is an old man about
 to be forced in [[Marriage|marriage]] upon a girl; and to this old man there comes a
 handsome young fellow--you said he was handsome, didn’t you?’
 
-‘No!’ snarled [[Arthur]] Gride.
+‘No!’ snarled [[arthur|Arthur]] Gride.
 
 ‘Oh!’ rejoined Ralph, ‘I thought you did. [[Well]]! Handsome or not
 handsome, to this old man there comes a young fellow who casts all
@@ -32063,7 +32063,7 @@ Gride, be careful. It’s a triumph, too, to tear her away from a gallant
 young rival: a great triumph for an old man! It only remains to keep her
 safe when you have her--that’s all.’
 
-‘What a man it is!’ cried [[Arthur]] Gride, affecting, in the extremity of
+‘What a man it is!’ cried [[arthur|Arthur]] Gride, affecting, in the extremity of
 his torture, to be highly amused. And then he added, anxiously, ‘Yes; to
 keep her safe, that’s all. And that isn’t much, is it?’
 
@@ -32072,13 +32072,13 @@ to understand and to control, women are. But come, it’s very nearly [[Time|tim
 for you to be made happy. You’ll pay the bond now, I suppose, to save us
 trouble afterwards.’
 
-‘Oh what a man you are!’ croaked [[Arthur]].
+‘Oh what a man you are!’ croaked [[arthur|Arthur]].
 
 ‘Why not?’ said Ralph. ‘Nobody will pay you interest for the money, I
 suppose, between this and twelve o’[[Clock|clock]]; will they?’
 
 ‘But nobody would pay you interest for it either, you know,’ returned
-[[Arthur]], leering at Ralph with all the cunning and slyness he could throw
+[[arthur|Arthur]], leering at Ralph with all the cunning and slyness he could throw
 into his face.
 
 ‘Besides which,’ said Ralph, [[Suffering|suffering]] his lip to curl into a smile,
@@ -32118,7 +32118,7 @@ just yet, do you?’
 looking at his watch, ‘and she has a good half-hour to spare yet. Curb
 your impatience.’
 
-‘I--I--am not impatient,’ stammered [[Arthur]]. ‘I wouldn’t be hard with
+‘I--I--am not impatient,’ stammered [[arthur|Arthur]]. ‘I wouldn’t be hard with
 her for the world. Oh dear, dear, not on any account. Let her take her
 [[Time|time]]--her own [[Time|time]]. Her [[Time|time]] shall be ours by all means.’
 
@@ -32236,7 +32236,7 @@ have the devil’s luck in bargains, always. If he is not booked to make
 the long voyage before many months are past and gone, I wear an orange
 for a head!’
 
-To this prophecy, so agreeable to his ears, [[Arthur]] returned no answer
+To this prophecy, so agreeable to his ears, [[arthur|Arthur]] returned no answer
 than a cackle of great delight. Ralph, throwing himself into a chair,
 they both sat waiting in profound [[Silence|silence]]. Ralph was thinking, with a
 sneer upon his lips, on the altered manner of Bray that day, and
@@ -32343,7 +32343,7 @@ you see, and clings to her apron-strings like a cowardly boy to his
 mother’s. Is not this a pretty fellow to talk as big as you have heard
 him now?’
 
-‘And as I heard him last [[Night|night]],’ said [[Arthur]] Gride; ‘as I heard him last
+‘And as I heard him last [[Night|night]],’ said [[arthur|Arthur]] Gride; ‘as I heard him last
 [[Night|night]] when he sneaked into my [[house]], and--he! he! he!--very soon sneaked
 out again, when I nearly frightened him to [[Death|death]]. And HE wanting to
 marry Miss [[Madeline]] too! Oh dear! Is there anything else he’d like?
@@ -32482,7 +32482,7 @@ Stand from the door. Kate, do you go first. Lay not a hand on her, or on
 that woman, or on me, or so much a brush their garments as they pass you
 by!--You let them pass, and he blocks the door again!’
 
-[[Arthur]] Gride happened to be in the doorway, but whether intentionally
+[[arthur|Arthur]] Gride happened to be in the doorway, but whether intentionally
 or from confusion was not quite apparent. Nicholas swung him away, with
 such violence as to cause him to spin round the room until he was caught
 by a sharp angle of the wall, and there knocked down; and then taking
@@ -32734,7 +32734,7 @@ At other times, when Nicholas was not there to overhear, and Kate was
 upstairs busily tending her sick friend, the worthy lady would throw out
 dark hints of an intention to send her daughter to France for three or
 four years, or to Scotland for the improvement of her health impaired by
-her late fatigues, or to [[America]] on a visit, or anywhere that threatened
+her late fatigues, or to [[america|America]] on a visit, or anywhere that threatened
 a long and tedious separation. Nay, she even went so far as to hint,
 obscurely, at an attachment entertained for her daughter by the son of
 an old neighbour of theirs, one [[Horatio]] Peltirogus (a young gentleman
@@ -33011,7 +33011,7 @@ fervently together.
 
 ‘In heaven. I humbly pray to God in heaven.’
 
-It sounded like the [[Prayer|prayer]] of a broken heart.
+It sounded like the [[prayer]] of a broken heart.
 
 
 
@@ -33025,7 +33025,7 @@ Counsels a tried Auxiliary
 The course which these adventures shape out for themselves, and
 imperatively call upon the historian to observe, now demands that they
 should revert to the point they attained previously to the commencement
-of the last chapter, when [[Ralph Nickleby]] and [[Arthur]] Gride were left
+of the last chapter, when [[Ralph Nickleby]] and [[arthur|Arthur]] Gride were left
 together in the [[house]] where [[Death|death]] had so suddenly reared his dark and
 heavy banner.
 
@@ -33096,10 +33096,10 @@ being disturbed. We’ll go down arm in arm.’
 ‘But you pinch me black and blue,’ urged Gride.
 
 Ralph let him go impatiently, and descending the stairs with his usual
-firm and heavy tread, got into the coach. [[Arthur]] Gride followed. After
+firm and heavy tread, got into the coach. [[arthur|Arthur]] Gride followed. After
 looking doubtfully at Ralph when the man asked where he was to drive,
 and finding that he remained silent, and expressed no wish upon the
-subject, [[Arthur]] mentioned his own [[house]], and thither they proceeded.
+subject, [[arthur|Arthur]] mentioned his own [[house]], and thither they proceeded.
 
 On their way, Ralph sat in the furthest corner with folded arms, and
 uttered not a word. With his chin sunk upon his breast, and his downcast
@@ -33137,7 +33137,7 @@ it) that she had fallen into a fit. This last suggestion particularly
 delighted the bystanders, who cheered it rather uproariously, and were,
 with some difficulty, deterred from dropping down the area and breaking
 open the kitchen door to ascertain the fact. Nor was this all. Rumours
-having gone abroad that [[Arthur]] was to be married that morning, very
+having gone abroad that [[arthur|Arthur]] was to be married that morning, very
 particular inquiries were made after the bride, who was held by the
 majority to be disguised in the person of Mr. [[Ralph Nickleby]], which gave
 rise to much jocose indignation at the public appearance of a bride in
@@ -33147,7 +33147,7 @@ and, being accommodated with a ladder, clambered over the wall of the
 back-yard--which was not a high one--and descended in safety on the
 other side.
 
-‘I am almost afraid to go in, I declare,’ said [[Arthur]], turning to Ralph
+‘I am almost afraid to go in, I declare,’ said [[arthur|Arthur]], turning to Ralph
 when they were [[Alone|alone]]. ‘Suppose she should be murdered. Lying with her
 brains knocked out by a poker, eh?’
 
@@ -33172,7 +33172,7 @@ they should have passed him by.
 
 From cellar to garret went the two usurers, opening every creaking door
 and looking into every deserted room. But no Peg was there. At
-last, they sat them down in the apartment which [[Arthur]] Gride usually
+last, they sat them down in the apartment which [[arthur|Arthur]] Gride usually
 inhabited, to rest after their search.
 
 ‘The hag is out, on some preparation for your wedding festivities, I
@@ -33185,7 +33185,7 @@ yell.
 
 ‘How now?’ said Ralph, looking sternly round.
 
-‘Robbed! robbed!’ screamed [[Arthur]] Gride.
+‘Robbed! robbed!’ screamed [[arthur|Arthur]] Gride.
 
 ‘Robbed! of money?’
 
@@ -33869,7 +33869,7 @@ the very first, you know, when he went to the [[house]] that morning!’
 Mr. Squeers, plying Mrs. Sliderskew freely with the liquor, and sustaining
 himself under the exertion of speaking so loud by frequent applications
 to it himself, complied with this request by describing the discomfiture
-of [[Arthur]] Gride, with such improvements on the [[Truth|truth]] as happened to
+of [[arthur|Arthur]] Gride, with such improvements on the [[Truth|truth]] as happened to
 occur to him, and the ingenious invention and application of which
 had been very instrumental in recommending him to her notice in the
 beginning of their acquaintance. Mrs. Sliderskew was in an ecstasy of
@@ -33951,7 +33951,7 @@ wants to make me break a wessel, so that she may have the pleasure of
 nursing me. Some money, Slider, money!’
 
 ‘Why, what a man you are to ask!’ cried Peg, with some contempt. ‘If I
-had taken money from [[Arthur]] Gride, he’d have scoured the whole earth to
+had taken money from [[arthur|Arthur]] Gride, he’d have scoured the whole earth to
 find me--aye, and he’d have smelt it out, and raked it up, somehow, if
 I had buried it at the [[Bottom|bottom]] of the deepest [[Well|well]] in England. No, no!
 I knew better than that. I took what I thought his [[Secrets|secrets]] were hid in:
@@ -34822,7 +34822,7 @@ Yorkshire schoolmasters, and, while they sent the drudge out, that he
 shouldn’t overhear, forgot that such great caution might render him
 suspicious, and that he might watch his master out at nights, and might
 set other eyes to watch the schoolmaster? Who tampered with a selfish
-father, urging him to sell his daughter to old [[Arthur]] Gride, and
+father, urging him to sell his daughter to old [[arthur|Arthur]] Gride, and
 tampered with Gride too, and did so in the little office, WITH A CLOSET
 IN THE ROOM?’
 
@@ -34924,7 +34924,7 @@ having shifted his lodging, the officer shifted his, and lying concealed
 in the same street, and, indeed, in the opposite [[house]], soon found that
 Mr. Squeers and Mrs. Sliderskew were in constant communication.
 
-In this state of things, [[Arthur]] Gride was appealed to. The robbery,
+In this state of things, [[arthur|Arthur]] Gride was appealed to. The robbery,
 partly owing to the inquisitiveness of the neighbours, and partly to
 his own grief and rage, had, long ago, become known; but he positively
 refused to give his sanction or yield any assistance to the old woman’s
@@ -37154,7 +37154,7 @@ toiled all his days, and burdened his [[Soul|soul]] with so many evil deeds, wer
 swept at last into the coffers of the state, and no man was the better
 or the happier for them.
 
-[[Arthur]] Gride was tried for the unlawful possession of the will, which
+[[arthur|Arthur]] Gride was tried for the unlawful possession of the will, which
 he had either procured to be stolen, or had dishonestly acquired and
 retained by other means as bad. By dint of an ingenious counsel, and
 a legal flaw, he escaped; but only to undergo a worse punishment;

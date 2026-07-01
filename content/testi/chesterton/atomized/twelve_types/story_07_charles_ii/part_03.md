@@ -10,9 +10,21 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/twelve-types-(chesterton)">Twelve Types</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/twelve_types/story_07_charles_ii/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/twelve_types/story_08_thomas_carlyle/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/twelve_types/story_07_charles_ii/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/twelve_types/story_07_charles_ii/part_04">part 04 ›</a></div>
 </nav>
 
+
+with decision and even severity, without ever thinking for a moment of
+
+the principles of art and ethics which would have struck us as the very
+
+things that Stevenson nearly killed himself to express.
+
+Mr Baildon, for example, is perpetually lecturing Stevenson for his
+
+'pessimism'; surely a strange charge against the man who has done more
+
+than any modern [[artist]] to make men ashamed of their shame of life. But
 
 he complains that, in 'The Master of Ballantrae' and 'Dr Jekyll and Mr
 
@@ -39,8 +51,6 @@ stand beside the [[Grave|grave]] of that sodden monomaniac and not respect him? 
 is strange that men should see [[Sublime|sublime]] inspiration in the ruins of an
 
 old church and see none in the ruins of a man.
-
-
 
 The author has most extraordinary ideas about Stevenson's tales of [[Blood|blood]]
 
@@ -69,8 +79,6 @@ gibbets in his Latin grammar. It was not that he took pleasure in [[Death|death]
 but that he took pleasure in life, in every muscular and emphatic action
 
 of life, even if it were an action that took the life of another.
-
-
 
 Let us suppose that one gentleman throws a knife at another gentleman
 
@@ -111,8 +119,6 @@ his own hand and the table. There is always in his work a certain
 clean-cut angularity which makes us remember that he was fond of cutting
 
 wood with an axe.
-
-
 
 Stevenson's new biographer, however, cannot make any allowance for this
 
@@ -156,8 +162,6 @@ character in fiction; but we willingly add the proviso that if we met
 
 him in real life we should kill him.
 
-
-
 The fact is, that the whole mass of Stevenson's spiritual and
 
 intellectual virtues have been partly frustrated by one additional
@@ -175,83 +179,3 @@ supposed they must be copy-book sentiments. He suffered from his
 versatility, not, as is loosely said, by not doing every department [[Well|well]]
 
 enough, but by doing every department too [[Well|well]]. As [[Child|child]], cockney,
-
-pirate, or Puritan, his disguises were so good that most people could
-
-not see the same man under all. It is an unjust fact that if a man can
-
-play the fiddle, give legal opinions, and black boots just tolerably, he
-
-is called an Admirable Crichton, but if he does all three thoroughly
-
-[[Well|well]], he is apt to be regarded, in the several departments, as a common
-
-fiddler, a common lawyer, and a common boot-black. This is what has
-
-happened in the case of Stevenson. If 'Dr Jekyll,' 'The Master of
-
-Ballantrae,' 'The [[Child]]'s [[Garden]] of Verses,' and 'Across the Plains' had
-
-been each of them one shade less perfectly done than they were, everyone
-
-would have seen that they were all parts of the same message; but by
-
-succeeding in the proverbial miracle of being in five places at once,
-
-he has naturally convinced others that he was five different people. But
-
-the real message of Stevenson was as simple as that of Mahomet, as moral
-
-as that of [[Dante]], as confident as that of Whitman, and as practical as
-
-that of James Watt.
-
-
-
-The conception which unites the whole varied work of Stevenson was that
-
-[[Romance|romance]], or the vision of the possibilities of things, was far more
-
-important than mere occurrences: that one was the [[Soul|soul]] of our life, the
-
-other the [[Body|body]], and that the [[Soul|soul]] was the precious thing. The germ of
-
-all his stories lies in the idea that every landscape or scrap of
-
-scenery has a [[Soul|soul]]: and that [[Soul|soul]] is a story. Standing before a stunted
-
-orchard with a broken stone wall, we may know as a mere fact that no one
-
-has been through it but an elderly female cook. But everything exists
-
-in the human [[Soul|soul]]: that orchard grows in our own brain, and there it is
-
-the shrine and theatre of some strange chance between a girl and a
-
-ragged poet and a mad farmer. Stevenson stands for the conception that
-
-ideas are the real incidents: that our fancies are our adventures. To
-
-think of a cow with wings is essentially to have met one. And this is
-
-the reason for his wide diversities of narrative: he had to make one
-
-story as rich as a ruby sunset, another as grey as a hoary monolith: for
-
-the story was the [[Soul|soul]], or rather the meaning, of the bodily vision. It
-
-is quite inappropriate to judge 'The Teller of Tales' (as the Samoans
-
-called him) by the particular novels he wrote, as one would judge Mr
-
-George Moore by 'Esther Waters.' These novels were only the two or
-
-three of his [[Soul|soul]]'s adventures that he happened to tell. But he died
-
-with a thousand stories in his heart.
-
-
-
-[Footnote A: 'Robert Louis Stevenson: A Life Study in Criticism.' By H.
-
-Bellyse Baildon. Chatto & Windus.]

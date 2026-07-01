@@ -14,6 +14,17 @@ tags:
 </nav>
 
 
+'Look here,' said the Master to the priest, before the doctor was within
+earshot. 'I must know something. Did you mean what you said about
+Communism being a real danger and leading to crime?'
+
+'Yes,' said [[Father Brown]] smiling rather grimly, 'I have really noticed
+the spread of some Communist ways and influences; and, in one sense,
+this is a Communist crime.'
+
+'Thank you,' said the Master. 'Then I must go off and see to something
+at once. Tell the authorities I'll be back in ten minutes.'
+
 The Master had vanished into one of the Tudor archways at just about the
 moment when the police - doctor had reached the table and cheerfully
 recognized [[Father Brown]]. On the latter's suggestion that they should sit
@@ -124,19 +135,3 @@ he had never lost since the first sensation occurred. 'But it was you
 yourself who said that fanatics with false principles may do wicked
 things. For that matter, it was you yourself who said that Communism is
 creeping up everywhere and Communistic habits spreading.'
-
-[[Father Brown]] laughed in a rather shamefaced manner.
-
-'As to the last point,' he said, 'I suppose I owe you all an apology. I
-seem to be always making a mess of things with my silly little jokes.'
-
-'Jokes!' repeated the Master, staring rather indignantly.
-
-'[[Well]],' explained the priest, rubbing his head. 'When I talked about a
-Communist habit spreading, I only meant a habit I happen to have noticed
-about two or three times even today. It is a Communist habit by no means
-confined to Communists. It is the extraordinary habit of so many men,
-especially Englishmen, of putting other people's matchboxes in their
-pockets without remembering to return them. Of course, it seems an
-awfully silly little trifle to talk about. But it does happen to be the
-way the crime was committed.'

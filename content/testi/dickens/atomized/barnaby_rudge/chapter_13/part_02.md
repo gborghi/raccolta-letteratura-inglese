@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 13 (part 2)"
+title: "Barnaby Rudge — Chapter 13 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_13/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_13/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘Let him have money!’ cried John, in a drowsy reverie. ‘What does he
+call money--guineas? Hasn’t he got money? Over and above the tolls,
+hasn’t he one and sixpence?’
+
+‘One and sixpence!’ repeated his son contemptuously.
 
 ‘Yes, sir,’ returned John, ‘one and sixpence. When I was your age, I
 had never seen so much money, in a heap. A shilling of it is in case
@@ -110,11 +116,3 @@ gimleted as it were, to his own wall--when he had done all this, and
 disposed besides of a frugal dinner at the Black [[Lion]] in Whitechapel;
 spurning the Monument and John’s advice, he turned his steps towards the
 locksmith’s [[house]], attracted by the eyes of blooming [[Dolly Varden]].
-
-Joe was by no means a sheepish fellow, but, for all that, when he got
-to the corner of the street in which the locksmith lived, he could by no
-means make up his mind to walk straight to the [[house]]. First, he resolved
-to stroll up another street for five minutes, then up another street for
-five minutes more, and so on until he had lost full half an hour, when
-he made a bold plunge and found himself with a red face and a beating
-heart in the smoky workshop.

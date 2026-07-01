@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 13 (part 4)"
+title: "thursday — Chapter 13 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 "The word, I fancy, should be 'pink'."
-
 
 The man once known as Gogol said nothing, but the movements of his hands
 and feet were like those of a man urging a [[Horse|horse]] to renewed efforts.

@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 18 (part 1)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 18 (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -199,7 +199,3 @@ boats to be hoisted up, as a necessary precaution, and gave the chief
 (whose name we soon found to be _Too-wit_) to understand that we could
 
 admit no more than twenty of his men on deck at one [[Time|time]]. With this
-
-arrangement he appeared perfectly satisfied, and gave some directions
-
-to the canoes, when one of them approached, the rest remaining about

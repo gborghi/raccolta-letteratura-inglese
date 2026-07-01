@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 10 (part 4)"
+title: "Persuasion — Chapter 10 (part 4)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -12,6 +12,26 @@ tags:
 <div class="excerpt-crumb">Austen · <a href="/works/persuasion-(austen)">Persuasion</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_10/part_03">‹ part 03</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_11/part_01">part 01 ›</a></div>
 </nav>
+
+
+invitation was general, and generally declined. The Miss Musgroves were
+
+not at all tired, and Mary was either offended, by not being asked
+
+before any of the others, or what Louisa called the Elliot [[Pride|pride]] could
+
+not endure to make a third in a one [[Horse|horse]] chaise.
+
+
+
+The walking party had crossed the lane, and were surmounting an
+
+opposite stile, and the Admiral was putting his [[Horse|horse]] in motion again,
+
+when [[Captain Wentworth]] cleared the hedge in a moment to say something
+
+to his sister. The something might be guessed by its effects.
+
 
 
 “Miss Elliot, I am sure _you_ are tired,” cried Mrs Croft. “Do let us

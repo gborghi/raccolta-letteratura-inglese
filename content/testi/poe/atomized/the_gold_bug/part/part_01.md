@@ -1,5 +1,5 @@
 ---
-title: "[[The Gold-Bug]] (part 1)"
+title: "The Gold-Bug (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-gold-bug-(poe)"
@@ -213,7 +213,3 @@ _—All in the Wrong._
 
 
       “[[Well]], suppose it is, Jup,” replied Legrand, somewhat more
-
-      earnestly, it seemed to me, than the case demanded, “is that any
-
-      reason for your letting the [[Birds|birds]] burn? The color”—here he turned

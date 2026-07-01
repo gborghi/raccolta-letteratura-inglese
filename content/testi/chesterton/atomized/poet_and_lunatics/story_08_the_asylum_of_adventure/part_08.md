@@ -14,6 +14,13 @@ tags:
 </nav>
 
 
+"Yes, that is Dr. Wilson; I made arrangements with him only this morning,"
+answered [[Diana]], still staring.
+
+The doctor came to a halt in front of them, turning his head right
+and left in the terrier fashion, and looking at them with wrinkled
+brows and lids.
+
 "So this is Dr. Wilson," said Gale politely.  "Good day, Dr. Starkey."
 
 Then as the plain-clothes men shifted and closed round the doctor,

@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 22 (part 2)"
+title: "Oliver Twist — Chapter 22 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_22/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_23/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Barkers for me, Barney,” said Toby Crackit.
+
+“Here they are,” replied Barney, producing a pair of pistols. “You
+loaded them yourself.”
+
+“All right!” replied Toby, stowing them away. “The persuaders?”
 
 “I’ve got ’em,” replied Sikes.
 

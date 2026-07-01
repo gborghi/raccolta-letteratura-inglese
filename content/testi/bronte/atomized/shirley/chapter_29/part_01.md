@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 29 (part 1)"
+title: "Shirley — Chapter 29 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -225,19 +225,3 @@ sat so near my side; since she opened the trouble of her mind to me,
 asked my protection, appealed to my strength--since that hour I abhor
 
 [[Solitude]]. Cold abstraction, fleshless [[skeleton]], daughter, mother, and
-
-mate of [[Death]]!
-
-
-
-"It is pleasant to write about what is near and dear as the core of my
-
-heart. None can deprive me of this little book, and through this pencil
-
-I can say to it what I will--say what I dare utter to nothing
-
-living--say what I dare not _think_ aloud.
-
-
-
-"We have scarcely encountered each other since that evening. Once, when

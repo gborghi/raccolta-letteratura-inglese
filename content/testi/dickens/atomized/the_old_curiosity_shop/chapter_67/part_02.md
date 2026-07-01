@@ -14,6 +14,17 @@ tags:
 </nav>
 
 
+‘I’m glad you’re wet,’ said Quilp, snatching it, and squinting at her.
+‘I’m glad you’re cold.  I’m glad you lost your way.  I’m glad your eyes
+are red with crying.  It does my heart good to see your little nose so
+pinched and frosty.’
+
+‘Oh Quilp!’ sobbed his wife.  ‘How cruel it is of you!’
+
+‘Did she think I was dead?’ said Quilp, wrinkling his face into a most
+extraordinary series of grimaces.  ‘Did she think she was going to have
+all the money, and to marry somebody she liked?  Ha ha ha!  Did she?’
+
 These taunts elicited no reply from the poor little woman, who remained
 on her knees, warming her hands, and sobbing, to Mr Quilp’s great
 delight.  But, just as he was contemplating her, and chuckling
@@ -121,19 +132,3 @@ moment.
 ‘It will be a good [[Night|night]] for travelling anonymously,’ he said, as he
 returned slowly, being pretty [[Well|well]] breathed with his run.  ‘Stay.  We
 may look better here.  This is too hospitable and free.’
-
-By a great exertion of strength, he closed the two old gates, which
-were deeply sunken in the mud, and barred them with a heavy beam.  That
-done, he shook his matted hair from about his eyes, and tried
-them.--Strong and fast.
-
-‘The fence between this wharf and the next is easily climbed,’ said the
-[[Dwarf|dwarf]], when he had taken these precautions.  ‘There’s a back lane, too,
-from there.  That shall be my way out.  A man need know his [[Road|road]] [[Well|well]],
-to find it in this lovely place to-[[Night|night]].  I need [[Fear|fear]] no unwelcome
-visitors while this lasts, I think.’
-
-Almost reduced to the necessity of groping his way with his hands (it
-had grown so dark and the fog had so much increased), he returned to
-his lair; and, after musing for some [[Time|time]] over the [[Fire|fire]], busied himself
-in preparations for a speedy departure.

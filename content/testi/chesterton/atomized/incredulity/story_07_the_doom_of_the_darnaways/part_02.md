@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity]] — The Doom of the Darnaways (part 2)"
+title: "Incredulity — The Doom of the Darnaways (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-(chesterton)"
@@ -120,7 +120,3 @@ leg was meant to be crooked.'
 
 `What an old devil he looks!' burst out Payne suddenly.
 `I trust his reverence will excuse my language.'
-
-`I believe in the devil, thank you,' said the priest with
-an inscrutable face.  `Curiously enough there was a legend
-that the devil was lame.'

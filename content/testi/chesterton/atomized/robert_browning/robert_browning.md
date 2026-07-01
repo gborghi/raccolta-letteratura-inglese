@@ -402,7 +402,7 @@ knowledge was exceptional. He was no spoilt and [[Self|self]]-conscious [[Child|
 taught to regard himself as clever. In the atmosphere in which he
 lived learning was a pleasure, and a natural pleasure, like sport or
 wine. He had in it the pleasure of some old scholar of the Renascence,
-when grammar itself was as fresh as the [[Flowers|flowers]] of [[Spring|spring]]. He had no
+when grammar itself was as fresh as the [[Flowers|flowers]] of [[spring]]. He had no
 reason to suppose that every one did not join in so admirable a game.
 His sagacious destiny, while giving him knowledge of everything else,
 left him in ignorance of the ignorance of the world.
@@ -1555,10 +1555,10 @@ of envy in his [[Nature|nature]] would be true, but unfair; for there is no
 justification for attributing any of these great men's opinions to
 envy. But Browning was really unique, in that he had a certain
 spontaneous and unthinking tendency to the admiration of others. He
-admired another poet as he admired a fading sunset or a chance [[Spring|spring]]
+admired another poet as he admired a fading sunset or a chance [[spring]]
 leaf. He no more thought whether he could be as good as that man in
 that department than whether he could be redder than the sunset or
-greener than the leaf of [[Spring|spring]]. He was naturally magnanimous in the
+greener than the leaf of [[spring]]. He was naturally magnanimous in the
 literal sense of that [[Sublime|sublime]] word; his mind was so great that it
 rejoiced in the triumphs of strangers. In this spirit Browning had
 already cast his eyes round in the literary world of his [[Time|time]], and had
@@ -2760,7 +2760,7 @@ condition of that remarkable man when living with other human beings.
 He had the [[Double|double]] arrogance which is only possible to that old and
 stately but almost extinct blend--the aristocratic republican. Like an
 old Roman senator, or like a gentleman of the Southern States of
-[[America]], he had the condescension of a gentleman to those below him,
+[[america|America]], he had the condescension of a gentleman to those below him,
 combined with the jealous [[Self|self]]-assertiveness of a Jacobin to those
 above. The only person who appears to have been able to manage him and
 bring out his more agreeable side was Browning. It is, by the way, one
@@ -4697,7 +4697,7 @@ was no way to frustrate them, except by overthrowing the cold and
 priggish and incapable egotist who ruled the country, and the whole
 artificial and bombastic schemes which bred these moral evils. It
 might be that in spite of this new view of the case, it would
-ultimately appear that [[Ulysses]] was really right and [[arthur|Arthur]] was really
+ultimately appear that [[Ulysses]] was really right and [[Arthur]] was really
 right, just as Browning makes it ultimately appear that Pompilia was
 really right. But any one can see the enormous difference in scope and
 difficulty between the old [[Epic|epic]] which told the whole story from one
@@ -4888,7 +4888,7 @@ the ingenious machinery which he possesses inside him; the thing which
 delights him is simply the full possession of his own human [[Body|body]]. I
 cannot in the least understand why a good digestion--that is, a good
 [[Body|body]]--should not be held to be as mystic a benefit as a sunset or the
-first flower of [[Spring|spring]]. But there is about digestion this peculiarity
+first flower of [[spring]]. But there is about digestion this peculiarity
 throwing a great light on human pessimism, that it is one of the many
 things which we never speak of as existing until they go wrong. We
 should think it ridiculous to speak of a man as [[Suffering|suffering]] from his
@@ -5219,7 +5219,7 @@ There are some people who think that it must be immoral to admit that
 there are any doubtful cases of [[morality]], as if a man should refrain
 from discussing the precise boundary at the upper end of the Isthmus
 of Panama, for [[Fear|fear]] the inquiry should shake his belief in the
-existence of North [[America]]. People of this kind quite consistently
+existence of North [[america|America]]. People of this kind quite consistently
 think Sludge to be merely a scoundrel talking nonsense. It may be
 remembered that they thought the same thing of Newman. It is actually
 supposed, apparently in the current use of words, that casuistry is
@@ -5669,7 +5669,7 @@ Church in [[Italy]], The, 88.
 
 "Clive," 127.
 
-Clough, [[arthur|Arthur]] Hugh, 56.
+Clough, [[Arthur]] Hugh, 56.
 
 _Colombe's Birthday_, 32.
 

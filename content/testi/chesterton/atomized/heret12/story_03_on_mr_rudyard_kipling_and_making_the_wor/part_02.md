@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]] — On Mr. Rudyard Kipling and Making the World Small (part 2)"
+title: "heret12 — On Mr. Rudyard Kipling and Making the World Small (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/heret12-(chesterton)"

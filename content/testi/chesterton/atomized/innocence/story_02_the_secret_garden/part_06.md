@@ -1,5 +1,5 @@
 ---
-title: "[[innocence]] — The Secret [[Garden]] (part 6)"
+title: "innocence — The Secret Garden (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -13,6 +13,27 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_07">part 07 ›</a></div>
 </nav>
 
+
+"Good morning, Commandant O'Brien," said Valentin, with quiet cordiality.
+"You have heard of Brayne's last experiment in butchery, I suppose?"
+
+[[Father Brown]] was still bending over the head with white hair,
+and he said, without looking up:
+
+"I suppose it is quite certain that Brayne cut off this head, too."
+
+"[[Well]], it seems common sense," said Valentin, with his hands in his pockets.
+"Killed in the same way as the other.  Found within a few yards of the other.
+And sliced by the same weapon which we know he carried away."
+
+"Yes, yes; I know," replied [[Father Brown]] submissively.
+"Yet, you know, I [[Doubt|doubt]] whether Brayne could have cut
+off this head."
+
+"Why not?" inquired Dr. Simon, with a rational stare.
+
+"[[Well]], doctor," said the priest, looking up blinking, "can a man
+cut off his own head?  I don't know."
 
 O'Brien felt an insane universe crashing about his ears;
 but the doctor sprang forward with impetuous practicality
@@ -64,7 +85,7 @@ pretence of reverence at the big black [[Body|body]] with the yellow head.
 
 "His name was Arnold Becker," said the under-[[Detective|detective]], "though
 he went by many aliases.  He was a wandering sort of scamp,
-and is known to have been in [[america|America]]; so that was where Brayne got
+and is known to have been in [[America]]; so that was where Brayne got
 his knife into him.  We didn't have much to do with him ourselves,
 for he worked mostly in [[Germany]].  We've communicated, of course,
 with the German police.  But, oddly enough, there was a twin brother
@@ -89,7 +110,7 @@ any page in [[aquinas|Aquinas]] once.  Will my head split--or will it see?
 I see half--I only see half."
 
 He buried his head in his hands, and stood in a sort of rigid torture
-of thought or [[prayer]], while the other three could only go on staring
+of thought or [[Prayer|prayer]], while the other three could only go on staring
 at this last prodigy of their wild twelve hours.
 
 When [[Father Brown]]'s hands fell they showed a face quite fresh
@@ -124,29 +145,3 @@ The murderer occupied his enemy with some tricks with the sabre,
 showing how he could cut a branch in mid-air, or what-not. Then,
 while his enemy bent down to see the result, a silent slash,
 and the head fell."
-
-"[[Well]]," said the doctor slowly, "that seems plausible enough.
-But my next two questions will stump anyone."
-
-The priest still stood looking critically out of the [[Window|window]] and waited.
-
-"You know how all the [[Garden|garden]] was sealed up like an air-tight chamber,"
-went on the doctor.  "[[Well]], how did the strange man get into the [[Garden|garden]]?"
-
-Without turning round, the little priest answered:
-"There never was any strange man in the [[Garden|garden]]."
-
-There was a [[Silence|silence]], and then a sudden cackle of almost childish
-laughter relieved the strain.  The absurdity of Brown's remark
-moved Ivan to open taunts.
-
-"Oh!" he cried; "then we didn't lug a great fat corpse on to a sofa
-last [[Night|night]]?  He hadn't got into the [[Garden|garden]], I suppose?"
-
-"Got into the [[Garden|garden]]?" repeated Brown reflectively.
-"No, not entirely."
-
-"Hang it all," cried Simon, "a man gets into a [[Garden|garden]], or he doesn't."
-
-"Not necessarily," said the priest, with a faint smile.
-"What is the nest question, doctor?"

@@ -1,5 +1,5 @@
 ---
-title: "[[Timon]] of Athens — Act IV, Scene 3 — exchange (THIRD THIEF) [14]"
+title: "Timon of Athens — Act IV, Scene 3 — exchange (THIRD THIEF) [14]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/timon-of-athens-(shakespeare)"

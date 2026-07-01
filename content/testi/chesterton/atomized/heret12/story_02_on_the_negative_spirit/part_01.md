@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]] — On the Negative Spirit (part 1)"
+title: "heret12 — On the Negative Spirit (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/heret12-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 II.  On the Negative Spirit
-
 
 Much has been said, and said truly, of the monkish morbidity,
 of the hysteria which has often gone with the visions of hermits or nuns.

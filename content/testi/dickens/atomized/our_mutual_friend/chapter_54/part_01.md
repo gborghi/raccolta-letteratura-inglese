@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 13 (part 1)"
+title: "Our Mutual Friend — Chapter 16 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,134 +10,145 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_53/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_54/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_53/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_54/part_02">part 02 ›</a></div>
 </nav>
 
 
-Chapter 13
+Chapter 16
 
-GIVE A DOG A BAD NAME, AND HANG HIM
+THE FEAST OF THE THREE HOBGOBLINS
 
 
-Fascination Fledgeby, left [[Alone|alone]] in the counting-[[house]], strolled about
-with his hat on one side, whistling, and investigating the drawers, and
-prying here and there for any small evidences of his being cheated,
-but could find none. ‘Not his merit that he don’t cheat me,’ was Mr
-Fledgeby’s commentary delivered with a wink, ‘but my precaution.’ He
-then with a lazy grandeur asserted his rights as lord of Pubsey and
-Co. by poking his cane at the stools and boxes, and spitting in the
-fireplace, and so loitered royally to the [[Window|window]] and looked out into the
-narrow street, with his small eyes just peering over the top of Pubsey
-and Co.’s blind. As a blind in more senses than one, it reminded him
-that he was [[Alone|alone]] in the counting-[[house]] with the front door open. He was
-moving away to shut it, lest he should be injudiciously identified with
-the establishment, when he was stopped by some one coming to the door.
+The [[City]] looked unpromising enough, as Bella made her way along its
+gritty streets. Most of its money-mills were slackening sail, or had
+left off grinding for the day. The master-millers had already departed,
+and the journeymen were departing. There was a jaded aspect on
+the business lanes and courts, and the very pavements had a weary
+appearance, confused by the tread of a million of feet. There must be
+hours of [[Night|night]] to temper down the day’s distraction of so feverish a
+place. As yet the worry of the newly-stopped whirling and grinding on
+the part of the money-mills seemed to linger in the air, and the quiet
+was more like the prostration of a spent giant than the repose of one
+who was renewing his strength.
 
-This some one was the dolls’ dressmaker, with a little basket on her
-arm, and her crutch stick in her hand. Her keen eyes had espied Mr
-Fledgeby before Mr Fledgeby had espied her, and he was paralysed in his
-purpose of shutting her out, not so much by her approaching the door, as
-by her favouring him with a shower of nods, the instant he saw her. This
-advantage she improved by hobbling up the steps with such despatch that
-before Mr Fledgeby could take measures for her finding nobody at [[Home|home]],
-she was face to face with him in the counting-[[house]].
+If Bella thought, as she glanced at the mighty Bank, how agreeable it
+would be to have an hour’s gardening there, with a bright copper shovel,
+among the money, still she was not in an avaricious vein. Much improved
+in that respect, and with certain half-formed images which had little
+gold in their composition, dancing before her bright eyes, she arrived
+in the drug-flavoured region of Mincing Lane, with the sensation of
+having just opened a drawer in a chemist’s shop.
 
-‘[[Hope]] I see you [[Well|well]], sir,’ said Miss Wren. ‘Mr Riah in?’
+The counting-[[house]] of Chicksey, Veneering, and Stobbles was pointed out
+by an elderly female accustomed to the care of offices, who dropped upon
+Bella out of a public-[[house]], wiping her mouth, and accounted for its
+humidity on natural principles [[Well|well]] known to the physical sciences, by
+explaining that she had looked in at the door to see what o’[[Clock|clock]] it
+was. The counting-[[house]] was a wall-eyed ground floor by a dark gateway,
+and Bella was considering, as she approached it, could there be any
+precedent in the [[City]] for her going in and asking for R. Wilfer, when
+whom should she see, sitting at one of the windows with the plate-glass
+sash raised, but R. Wilfer himself, preparing to take a slight
+refection.
 
-Fledgeby had dropped into a chair, in the attitude of one waiting
-wearily. ‘I suppose he will be back soon,’ he replied; ‘he has cut
-out and left me expecting him back, in an odd way. Haven’t I seen you
-before?’
+On approaching nearer, Bella discerned that the refection had
+the appearance of a small cottage-loaf and a pennyworth of milk.
+Simultaneously with this discovery on her part, her father discovered
+her, and invoked the echoes of Mincing Lane to exclaim ‘My gracious me!’
 
-‘Once before—if you had your eyesight,’ replied Miss Wren; the
-conditional clause in an under-tone.
+He then came cherubically flying out without a hat, and embraced her,
+and handed her in. ‘For it’s after hours and I am all [[Alone|alone]], my dear,’
+he explained, ‘and am having—as I sometimes do when they are all
+gone—a quiet tea.’
 
-‘When you were carrying on some games up at the top of the [[house]]. I
-remember. How’s your friend?’
+Looking round the office, as if her father were a captive and this his
+cell, Bella hugged him and choked him to her heart’s content.
 
-‘I have more friends than one, sir, I [[Hope|hope]],’ replied Miss Wren. ‘Which
-friend?’
+‘I never was so surprised, my dear!’ said her father. ‘I couldn’t
+believe my eyes. Upon my life, I thought they had taken to lying! The
+idea of your coming down the Lane yourself! Why didn’t you send the
+footman down the Lane, my dear?’
 
-‘Never mind,’ said Mr Fledgeby, shutting up one eye, ‘any of your
-friends, all your friends. Are they pretty tolerable?’
+‘I have brought no footman with me, Pa.’
 
-Somewhat confounded, Miss Wren parried the pleasantry, and sat down in a
-corner behind the door, with her basket in her lap. By-and-by, she said,
-breaking a long and patient [[Silence|silence]]:
+‘Oh indeed! But you have brought the elegant turn-out, my [[Love|love]]?’
 
-‘I beg your pardon, sir, but I am used to find Mr Riah at this [[Time|time]], and
-so I generally come at this [[Time|time]]. I only want to buy my poor little two
-shillings’ worth of waste. Perhaps you’ll kindly let me have it, and
-I’ll trot off to my work.’
+‘No, Pa.’
 
-‘I let you have it?’ said Fledgeby, turning his head towards her; for he
-had been sitting blinking at the light, and feeling his cheek. ‘Why, you
-don’t really suppose that I have anything to do with the place, or the
-business; do you?’
+‘You never can have walked, my dear?’
 
-‘Suppose?’ exclaimed Miss Wren. ‘He said, that day, you were the
-master!’
+‘Yes, I have, Pa.’
 
-‘The old cock in black said? Riah said? Why, he’d say anything.’
+He looked so very much astonished, that Bella could not make up her mind
+to break it to him just yet.
 
-‘[[Well]]; but you said so too,’ returned Miss Wren. ‘Or at least you took
-on like the master, and didn’t contradict him.’
+‘The consequence is, Pa, that your lovely woman feels a little faint,
+and would very much like to share your tea.’
 
-‘One of his dodges,’ said Mr Fledgeby, with a cool and contemptuous
-shrug. ‘He’s made of dodges. He said to me, “Come up to the top of the
-[[house]], sir, and I’ll show you a handsome girl. But I shall call you
-the master.” So I went up to the top of the [[house]] and he showed me the
-handsome girl (very [[Well|well]] worth looking at she was), and I was called the
-master. I don’t know why. I dare say he don’t. He loves a dodge for
-its own sake; being,’ added Mr Fledgeby, after casting about for an
-expressive phrase, ‘the dodgerest of all the dodgers.’
+The cottage loaf and the pennyworth of milk had been set forth on a
+sheet of paper on the [[Window|window]]-seat. The cherubic pocket-knife, with the
+first bit of the loaf still on its point, lay beside them where it had
+been hastily thrown down. Bella took the bit off, and put it in her
+mouth. ‘My dear [[Child|child]],’ said her father, ‘the idea of your partaking of
+such lowly fare! But at least you must have your own loaf and your own
+penn’orth. One moment, my dear. The Dairy is just over the way and round
+the corner.’
 
-‘Oh my head!’ cried the dolls’ dressmaker, holding it with both her
-hands, as if it were cracking. ‘You can’t mean what you say.’
+Regardless of Bella’s dissuasions he ran out, and quickly returned with
+the new supply. ‘My dear [[Child|child]],’ he said, as he spread it on another
+piece of paper before her, ‘the idea of a splendid—!’ and then looked
+at her figure, and stopped short.
 
-‘I can, my little woman, retorted Fledgeby, ‘and I do, I assure you.’
+‘What’s the matter, Pa?’
 
-This repudiation was not only an act of deliberate policy on Fledgeby’s
-part, in case of his being surprised by any other caller, but was also a
-retort upon Miss Wren for her over-sharpness, and a pleasant instance
-of his [[Humour|humour]] as regarded the old Jew. ‘He has got a bad name as an old
-Jew, and he is paid for the use of it, and I’ll have my money’s worth
-out of him.’ This was Fledgeby’s habitual reflection in the way of
-business, and it was sharpened just now by the old man’s presuming
-to have a secret from him: though of the secret itself, as annoying
-somebody else whom he disliked, he by no means disapproved.
+‘—of a splendid female,’ he resumed more slowly, ‘putting up with
+such accommodation as the present!—Is that a new dress you have on, my
+dear?’
 
-Miss Wren with a fallen countenance sat behind the door looking
-thoughtfully at the ground, and the long and patient [[Silence|silence]] had
-again set in for some [[Time|time]], when the expression of Mr Fledgeby’s face
-betokened that through the upper portion of the door, which was of
-glass, he saw some one faltering on the brink of the counting-[[house]].
-Presently there was a rustle and a tap, and then some more rustling and
-another tap. Fledgeby taking no notice, the door was at length softly
-opened, and the dried face of a mild little elderly gentleman looked in.
+‘No, Pa, an old one. Don’t you remember it?’
 
-‘Mr Riah?’ said this visitor, very politely.
+‘Why, I THOUGHT I remembered it, my dear!’
 
-‘I am waiting for him, sir,’ returned Mr Fledgeby. ‘He went out and left
-me here. I expect him back every minute. Perhaps you had better take a
-chair.’
+‘You should, for you bought it, Pa.’
 
-The gentleman took a chair, and put his hand to his forehead, as if
-he were in a [[Melancholy|melancholy]] frame of mind. Mr Fledgeby eyed him aside, and
-seemed to relish his attitude.
+‘Yes, I THOUGHT I bought it my dear!’ said the cherub, giving himself a
+little shake, as if to rouse his faculties.
 
-‘A fine day, sir,’ remarked Fledgeby.
+‘And have you grown so fickle that you don’t like your own taste, Pa
+dear?’
 
-The little dried gentleman was so occupied with his own depressed
-reflections that he did not notice the remark until the sound of Mr
-Fledgeby’s voice had died out of the counting-[[house]]. Then he started,
-and said: ‘I beg your pardon, sir. I [[Fear|fear]] you spoke to me?’
+‘[[Well]], my [[Love|love]],’ he returned, swallowing a bit of the cottage loaf with
+considerable effort, for it seemed to stick by the way: ‘I should have
+thought it was hardly sufficiently splendid for existing circumstances.’
 
-‘I said,’ remarked Fledgeby, a little louder than before, ‘it was a fine
-day.’
+‘And so, Pa,’ said Bella, moving coaxingly to his side instead of
+remaining opposite, ‘you sometimes have a quiet tea here all [[Alone|alone]]? I
+am not in the tea’s way, if I draw my arm over your shoulder like this,
+Pa?’
 
-‘I beg your pardon. I beg your pardon. Yes.’
+‘Yes, my dear, and no, my dear. Yes to the first question, and Certainly
+Not to the second. Respecting the quiet tea, my dear, why you see the
+occupations of the day are sometimes a little wearing; and if there’s
+nothing interposed between the day and your mother, why SHE is sometimes
+a little wearing, too.’
 
-Again the little dried gentleman put his hand to his forehead, and again
-Mr Fledgeby seemed to enjoy his doing it. When the gentleman changed his
-attitude with a sigh, Fledgeby spake with a grin.
+‘I know, Pa.’
+
+‘Yes, my dear. So sometimes I put a quiet tea at the [[Window|window]] here, with
+a little quiet contemplation of the Lane (which comes soothing), between
+the day, and domestic—’
+
+‘Bliss,’ suggested Bella, sorrowfully.
+
+‘And domestic Bliss,’ said her father, quite contented to accept the
+phrase.
+
+Bella kissed him. ‘And it is in this dark dingy place of captivity,
+poor dear, that you pass all the hours of your life when you are not at
+[[Home|home]]?’
+
+‘Not at [[Home|home]], or not on the [[Road|road]] there, or on the [[Road|road]] here, my [[Love|love]].
+Yes. You see that little desk in the corner?’
+
+‘In the dark corner, furthest both from the light and from the
+fireplace? The shabbiest desk of all the desks?’

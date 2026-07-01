@@ -197,5 +197,3 @@ CHAPTER 19
       and Lama-Lama! We were much surprised at perceiving that, with
 
       one or two exceptions, these new comers were entirely naked, and
-
-      skins being used only by the men of the canoes. All the weapons

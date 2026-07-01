@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 21 (part 2)"
+title: "Persuasion — Chapter 21 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_21/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_21/part_03">part 03 ›</a></div>
 </nav>
 
+
+be of even the slightest use to you,” replied Anne; “but I suspect that
+
+you are considering me as having a higher claim on Mr Elliot, a greater
+
+right to influence him, than is really the case. I am sure you have,
 
 somehow or other, imbibed such a notion. You must consider me only as
 
@@ -227,35 +233,3 @@ in Bath? Shall I take any message?”
 “No, I thank you: no, certainly not. In the warmth of the moment, and
 
 under a mistaken impression, I might, perhaps, have endeavoured to
-
-interest you in some circumstances; but not now. No, I thank you, I
-
-have nothing to trouble you with.”
-
-
-
-“I think you spoke of having known Mr Elliot many years?”
-
-
-
-“I did.”
-
-
-
-“Not before he was married, I suppose?”
-
-
-
-“Yes; he was not married when I knew him first.”
-
-
-
-“And—were you much acquainted?”
-
-
-
-“Intimately.”
-
-
-
-“Indeed! Then do tell me what he was at that [[Time|time]] of life. I have a

@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 49 (part 1)"
+title: "Great Expectations — Chapter 49 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/great-expectations-(dickens)">Great Expectations</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_48/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_49/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_48/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_49/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -149,10 +149,3 @@ wrote upon them with a pencil in a case of tarnished gold that hung
 from her neck.
 
 “You are still on friendly terms with Mr. Jaggers?”
-
-“Quite. I dined with him yesterday.”
-
-“This is an authority to him to pay you that money, to lay out at your
-irresponsible discretion for your friend. I keep no money here; but if
-you would rather Mr. Jaggers knew nothing of the matter, I will send it
-to you.”

@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 51 (part 3)"
+title: "The Tenant of Wildfell Hall — Chapter 51 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,26 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_51/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_52/part_01">part 01 ›</a></div>
 </nav>
 
+
+gate, when a group of ragged urchins, that had been hanging like [[Bees|bees]]
+
+to the [[Window|window]], suddenly dropped off and made a rush for the porch,
+
+vociferating in the uncouth dialect of their country something which
+
+signified, “It’s over—they’re coming out!”
+
+
+
+If Eliza Millward had seen me then she might indeed have been
+
+delighted. I grasped the gate-post for support, and stood intently
+
+gazing towards the door to take my last look on my [[Soul|soul]]’s delight, my
+
+first on that detested mortal who had torn her from my heart, and
+
+doomed her, I was certain, to a life of misery and hollow, vain
 
 repining—for what happiness could she enjoy with him? I did not wish to
 

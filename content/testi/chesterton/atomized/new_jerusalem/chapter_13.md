@@ -504,7 +504,7 @@ true on both its different sides.  Suppose somebody proposes to mix up
 England and [[America]], under some absurd name like the Anglo-Saxon Empire.
 One man may say, "Why should the jolly English inns and villages
 be swamped by these priggish provincial Yankees?"  Another may say,
-"Why should the real [[Democracy|democracy]] of a young country be tied to your
+"Why should the real [[democracy]] of a young country be tied to your
 snobbish old squirarchy?"  But both these views are only versions
 of the same view of a great American:  "God never made one people
 good enough to rule another."
@@ -576,7 +576,7 @@ many laborious Jewish blacksmiths, many active Jewish hedgers
 and ditchers, or even many energetic Jewish hunters and fishermen.
 In short, the popular impression is tolerably true to life,
 as popular impressions very often are; though it is not fashionable
-to say so in these days of [[Democracy|democracy]] and [[Self|self]]-determination. Jews
+to say so in these days of [[democracy]] and [[Self|self]]-determination. Jews
 do not generally work on the land, or in any of the handicrafts
 that are akin to the land; but the Zionists reply that this is
 because it can never really be their own land.  That is Zionism,
@@ -871,7 +871,7 @@ that is he must belong to the soil and not merely make the soil
 belong to him.  He must have the simplicity, and what many would
 call the stupidity of the peasant.  He must not only call a spade
 a spade, but regard it as a spade and not as a speculation.
-By some true [[Conversion|conversion]] the urban and modern man must be not
+By some true [[conversion]] the urban and modern man must be not
 only on the soil, but of the soil, and free from our urban trick
 of inventing the word dirt for the [[Dust|dust]] to which we shall return.
 He must be washed in mud, that he may be clean.

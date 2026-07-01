@@ -1,5 +1,5 @@
 ---
-title: "[[The Unparalleled Adventures of one Hans Pfaall]] (part 14)"
+title: "The Unparalleled Adventures of one Hans Pfaall (part 14)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-unparalleled-adventures-of-one-hans-pfaall-(poe)"
@@ -13,6 +13,68 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/part/part_13">‹ part 13</a><a class="ex-next" href="/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/part/part_15">part 15 ›</a></div>
 </nav>
 
+
+      appeared to suffer again very much, and I had no hesitation in
+
+      attributing her uneasiness chiefly to a difficulty in breathing;
+
+      but my experiment with the kittens had resulted very strangely. I
+
+      had expected, of course, to see them betray a sense of [[Pain|pain]],
+
+      although in a less degree than their mother, and this would have
+
+      been sufficient to confirm my opinion concerning the habitual
+
+      [[Endurance|endurance]] of atmospheric pressure. But I was not prepared to find
+
+      them, upon close examination, evidently enjoying a high degree of
+
+      health, breathing with the greatest ease and perfect regularity,
+
+      and evincing not the slightest sign of any uneasiness whatever. I
+
+      could only account for all this by extending my theory, and
+
+      supposing that the highly rarefied atmosphere around might
+
+      perhaps not be, as I had taken for granted, chemically
+
+      insufficient for the purposes of life, and that a person born in
+
+      such a medium might, possibly, be unaware of any inconvenience
+
+      attending its inhalation, while, upon removal to the denser
+
+      strata near the earth, he might endure tortures of a similar
+
+      [[Nature|nature]] to those I had so lately experienced. It has since been to
+
+      me a matter of deep regret that an awkward accident, at this
+
+      [[Time|time]], occasioned me the loss of my little family of cats, and
+
+      deprived me of the insight into this matter which a continued
+
+      experiment might have afforded. In passing my hand through the
+
+      valve, with a cup of [[Water|water]] for the old puss, the sleeves of my
+
+      shirt became entangled in the loop which sustained the basket,
+
+      and thus, in a moment, loosened it from the [[Bottom|bottom]]. Had the whole
+
+      actually vanished into air, it could not have shot from my sight
+
+      in a more abrupt and instantaneous manner. Positively, there
+
+      could not have intervened the tenth part of a second between the
+
+      disengagement of the basket and its absolute and total
+
+      disappearance with all that it contained. My good wishes followed
+
+      it to the earth, but of course, I had no [[Hope|hope]] that either cat or
 
       kittens would ever live to tell the tale of their misfortune.
 
@@ -123,73 +185,3 @@ tags:
       as it may seem, was hailed by me, at the moment of discovery, as
 
       an invention fully equal to that of the telescope, the
-
-      steam-engine, or the art of printing itself.
-
-
-
-      “It is necessary to premise, that the balloon, at the elevation
-
-      now attained, continued its course upward with an even and
-
-      undeviating ascent, and the car consequently followed with a
-
-      steadiness so perfect that it would have been impossible to
-
-      detect in it the slightest vacillation whatever. This
-
-      circumstance favored me greatly in the project I now determined
-
-      to adopt. My supply of [[Water|water]] had been put on board in kegs
-
-      containing five gallons each, and ranged very securely around the
-
-      interior of the car. I unfastened one of these, and taking two
-
-      ropes tied them tightly across the rim of the wicker-work from
-
-      one side to the other; placing them about a foot apart and
-
-      parallel so as to form a kind of shelf, upon which I placed the
-
-      keg, and steadied it in a horizontal position. About eight inches
-
-      immediately below these ropes, and four feet from the [[Bottom|bottom]] of
-
-      the car I fastened another shelf—but made of thin plank, being
-
-      the only similar piece of wood I had. Upon this latter shelf, and
-
-      exactly beneath one of the rims of the keg, a small earthern
-
-      pitcher was deposited. I now bored a hole in the end of the keg
-
-      over the pitcher, and fitted in a plug of soft wood, cut in a
-
-      tapering or conical shape. This plug I pushed in or pulled out,
-
-      as might happen, until, after a few experiments, it arrived at
-
-      that exact degree of tightness, at which the [[Water|water]], oozing from
-
-      the hole, and falling into the pitcher below, would fill the
-
-      latter to the brim in the period of sixty minutes. This, of
-
-      course, was a matter briefly and easily ascertained, by noticing
-
-      the proportion of the pitcher filled in any given [[Time|time]]. Having
-
-      arranged all this, the rest of the plan is obvious. My bed was so
-
-      contrived upon the floor of the car, as to bring my head, in
-
-      lying down, immediately below the mouth of the pitcher. It was
-
-      evident, that, at the expiration of an hour, the pitcher, getting
-
-      full, would be forced to run over, and to run over at the mouth,
-
-      which was somewhat lower than the rim. It was also evident, that
-
-      the [[Water|water]] thus falling from a height of more than four feet,

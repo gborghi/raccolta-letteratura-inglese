@@ -1,5 +1,5 @@
 ---
-title: "[[Macbeth|MACBETH]]"
+title: "MACBETH"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/macbeth-(shakespeare)"

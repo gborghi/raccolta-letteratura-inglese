@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 9 (part 4)"
+title: "Mansfield Park — Chapter 9 (part 4)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -13,6 +13,41 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/mansfield_park/chapter_09/part_03">‹ part 03</a><a class="ex-next" href="/testi/austen/atomized/mansfield_park/chapter_10/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Certainly,” said Fanny, with gentle earnestness.
+
+“There,” cried Miss Crawford, “you have quite convinced Miss Price
+already.”
+
+“I wish I could convince Miss Crawford too.”
+
+“I do not think you ever will,” said she, with an arch smile; “I am
+just as much surprised now as I was at first that you should intend to
+take orders. You really are fit for something better. Come, do change
+your mind. It is not too late. Go into the law.”
+
+“Go into the law! With as much ease as I was told to go into this
+wilderness.”
+
+“Now you are going to say something about law being the worst
+wilderness of the two, but I forestall you; remember, I have
+forestalled you.”
+
+“You need not hurry when the object is only to prevent my saying a
+_bon_ _mot_, for there is not the least wit in my [[Nature|nature]]. I am a very
+matter-of-fact, plain-spoken being, and may blunder on the borders of a
+repartee for half an hour together without striking it out.”
+
+A general [[Silence|silence]] succeeded. Each was thoughtful. Fanny made the first
+interruption by saying, “I [[Wonder|wonder]] that I should be tired with only
+walking in this sweet wood; but the next [[Time|time]] we come to a seat, if it
+is not disagreeable to you, I should be glad to sit down for a little
+while.”
+
+“My dear Fanny,” cried [[Edmund]], immediately drawing her arm within his,
+“how thoughtless I have been! I [[Hope|hope]] you are not very tired. Perhaps,”
+turning to Miss Crawford, “my other companion may do me the [[Honour|honour]] of
+taking an arm.”
 
 “Thank you, but I am not at all tired.” She took it, however, as she
 spoke, and the gratification of having her do so, of feeling such a

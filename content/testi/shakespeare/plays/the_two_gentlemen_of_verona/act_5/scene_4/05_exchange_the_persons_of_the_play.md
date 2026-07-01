@@ -1,5 +1,5 @@
 ---
-title: "The Two Gentlemen of [[Verona]] — Act V, Scene 4 — exchange (THE PERSONS OF THE PLAY) [5]"
+title: "The Two Gentlemen of Verona — Act V, Scene 4 — exchange (THE PERSONS OF THE PLAY) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-two-gentlemen-of-verona-(shakespeare)"

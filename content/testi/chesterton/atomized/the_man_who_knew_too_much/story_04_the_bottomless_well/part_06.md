@@ -1,5 +1,5 @@
 ---
-title: "The Man Who Knew Too Much — The Bottomless [[Well]] (part 6)"
+title: "The Man Who Knew Too Much — The Bottomless Well (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/the-man-who-knew-too-much-(chesterton)"
@@ -13,6 +13,40 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_04_the_bottomless_well/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_05_the_fad_of_the_fisherman/part_01">part 01 ›</a></div>
 </nav>
 
+
+start?"
+"The bottomless [[Well|well]], as I told you," answered Fisher, quietly;
+
+"that was what stumped me from the start. Not because it had
+
+anything to do with it, because it had nothing to do with it."
+He paused a moment, as if choosing an approach, and then went on:
+
+"When a man knows his enemy will be dead in ten minutes, and takes
+
+him to the edge of an unfathomable pit, he means to throw his [[Body|body]]
+
+into it. What else should he do? A born [[Fool|fool]] would have the sense to
+
+do it, and Boyle is not a born [[Fool|fool]]. [[Well]], why did not Boyle do it?
+
+The more I thought of it the more I suspected there was some mistake
+
+in the murder, so to speak. Somebody had taken somebody there to
+
+throw him in, and yet he was not thrown in. I had already an ugly,
+
+unformed idea of some substitution or reversal of parts; then I
+
+stooped to turn the bookstand myself, by accident, and I instantly
+
+knew everything, for I saw the two cups revolve once more, like
+
+moons in the sky."
+After a pause, Cuthbert Grayne said, "And what are we to say to the
+
+newspapers?"
+"My friend, Harold March, is coming along from Cairo to-day," said
 
 Fisher. "He is a very brilliant and successful journalist. But for
 

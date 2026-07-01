@@ -14,6 +14,33 @@ tags:
 </nav>
 
 
+She raised her head, and, looking at him, told him she was ready.  As she
+stood, and looked upon him going away, her face was so like Marion’s as
+it had been in her later days at [[Home|home]], that it was wonderful to see.  He
+took the [[Child|child]] with him.  She called her back—she bore the lost girl’s
+name—and pressed her to her bosom.  The little creature, being released
+again, sped after him, and Grace was left [[Alone|alone]].
+
+She knew not what she dreaded, or what hoped; but remained there,
+motionless, looking at the porch by which they had disappeared.
+
+Ah! what was that, emerging from its [[Shadow|shadow]]; standing on its threshold!
+That figure, with its white garments rustling in the evening air; its
+head laid down upon her father’s breast, and pressed against it to his
+loving heart!  O God! was it a vision that came bursting from the old
+man’s arms, and with a cry, and with a waving of its hands, and with a
+wild precipitation of itself upon her in its boundless [[Love|love]], sank down in
+her embrace!
+
+‘Oh, Marion, Marion!  Oh, my sister!  Oh, my heart’s dear [[Love|love]]!  Oh, joy
+and happiness unutterable, so to meet again!’
+
+It was no dream, no [[Phantom|phantom]] conjured up by [[Hope|hope]] and [[Fear|fear]], but Marion,
+sweet Marion!  So beautiful, so happy, so unalloyed by care and trial, so
+elevated and exalted in her loveliness, that as the setting sun shone
+brightly on her upturned face, she might have been a spirit visiting the
+earth upon some healing mission.
+
 Clinging to her sister, who had dropped upon a seat and bent down over
 her—and smiling through her [[Tears|tears]]—and kneeling, close before her, with
 both arms twining round her, and never turning for an instant from her
@@ -96,25 +123,3 @@ contract; perhaps thought I might have loved him once, and did not then;
 perhaps thought that when I tried to seem indifferent, I tried to hide
 indifference—I cannot tell.  But I wished that you should feel me wholly
 lost to Alfred—hopeless to him—dead.  Do you understand me, [[Love|love]]?’
-
-Her sister looked into her face, attentively.  She seemed in [[Doubt|doubt]].
-
-‘I saw Mr. Warden, and confided in his [[Honour|honour]]; charged him with my
-secret, on the eve of his and my departure.  He kept it.  Do you
-understand me, dear?’
-
-Grace looked confusedly upon her.  She scarcely seemed to hear.
-
-‘My [[Love|love]], my sister!’ said Marion, ‘recall your thoughts a moment; listen
-to me.  Do not look so strangely on me.  There are countries, dearest,
-where those who would abjure a misplaced passion, or would strive,
-against some cherished feeling of their hearts and conquer it, retire
-into a hopeless [[Solitude|solitude]], and close the world against themselves and
-worldly loves and hopes for ever.  When women do so, they assume that
-name which is so dear to you and me, and call each other Sisters.  But,
-there may be sisters, Grace, who, in the broad world out of doors, and
-underneath its free sky, and in its crowded places, and among its busy
-life, and trying to assist and cheer it and to do some good,—learn the
-same lesson; and who, with hearts still fresh and young, and open to all
-happiness and means of happiness, can say the battle is long past, the
-victory long won.  And such a one am I!  You understand me now?’

@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 37: THIRTY SEVEN (part 1)"
+title: "Martin Chuzzlewit — Chapter 37: THIRTY SEVEN (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -142,9 +142,3 @@ said Cherry, with a spiteful shiver.
 ‘Really, upon my word! I had no idea you would press me so very closely
 on the subject, Mr Pinch,’ said [[Charity]], blushing, ‘or I should not have
 been so foolish as to allude to--oh really!--won’t you walk in?’
-
-Tom mentioned, to excuse himself, that he had an appointment in
-Furnival’s Inn, and that coming from Islington he had taken a few wrong
-turnings, and arrived at the Monument instead. Miss Pecksniff simpered
-very much when he asked her if she knew the way to Furnival’s Inn, and
-at length found [[Courage|courage]] to reply.

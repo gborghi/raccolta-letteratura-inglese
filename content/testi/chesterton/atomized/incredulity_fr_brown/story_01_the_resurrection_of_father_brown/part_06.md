@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The [[Resurrection]] of [[Father Brown]] (part 6)"
+title: "incredulity Fr Brown — The Resurrection of Father Brown (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity_fr_brown/story_01_the_resurrection_of_father_brown/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity_fr_brown/story_02_the_arrow_of_heaven/part_01">part 01 ›</a></div>
 </nav>
 
+
+'Oh, you silly people,' he said in a high and quavering voice; 'Oh, you
+silly, silly people.'
+
+Then he suddenly seemed to pull himself together, made a bolt for the
+steps with his more normal gait, and began hurriedly to descend.
+
+'Where are you going, Father?' said Mendoza, with more than his usual
+veneration.
+
+'To the telegraph office,' said [[Father Brown]] hastily. 'What? No; of
+course it's not a miracle. Why should there be a miracle? Miracles are
+not so cheap as all that.'
 
 And he came tumbling down the steps, the people flinging themselves
 before him to implore his blessing.

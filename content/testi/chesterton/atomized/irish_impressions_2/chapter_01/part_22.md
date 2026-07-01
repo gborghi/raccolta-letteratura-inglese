@@ -14,123 +14,123 @@ tags:
 </nav>
 
 
-But I am here taking from the Spiritualistic articles a text
-that has nothing to do with Spiritualism.  In a recent contribution
-to _Nash's Magazine,_ Sir [[arthur|Arthur]] Conan Doyle remarks very truly
-that the modern world is weary and wicked and in need of a religion;
-and he gives examples of its more typical and terrible corruptions.
-It is perhaps natural that he should revert to the case of the Congo,
-and talk of it in the torrid fashion which recalls the days
-when Morel and Casement had some credit in English politics.
-We have since had an opportunity of judging the real attitude
-of a man like Morel in the plainest case of black and white
-injustice that the world has ever seen.  It was at once a replica
-and a reversal of the position expressed in the Pious Editor's Creed;
-and might roughly be rendered in similar language.
+What I mean about the Nationalist Party, and what may be called its
+prophetic [[Shadow|shadow]] of the Sinn Fein mistake, may [[Well|well]] be symbolised in
+one of the noblest figures of that party or any party.  An Irish poet,
+talking to me about the pointed diction of the Irish peasant,
+said he had recently rejoiced in the society of a drunken Kerry farmer,
+whose conversation was a [[litany]] of questions about everything
+in heaven and earth, each ending with a sort of [[Chorus|chorus]] of "Will
+ye tell me that now?"  And at the end of all he said abruptly,
+"Did ye know Tom Kettle?" and on my friend the poet assenting,
+the farmer said, as if in triumph, "And why are so many people alive
+that ought to be dead, and so many people dead that ought to be alive?
+Will ye tell me that now?"  That is not unworthy of an old heroic poem,
+and therefore not unworthy of the [[Hero|hero]] and poet of whom it was spoken.
+"Patroclus died, who was a better man than you."  Thomas [[Michael]] Kettle
+was perhaps the greatest example of that [[Greatness|greatness]] of spirit which
+was so ill rewarded on both sides of the channel and of the quarrel,
+which marked Redmond's brother and so many of Redmond's followers.
+He was a wit, a scholar, an orator, a man ambitious in all the arts
+of peace; and he fell fighting the barbarians because he was too
+good a European to use the barbarians against England, as England
+a hundred years before had used the barbarians against Ireland.
+There is nothing to be said of such things except what the drunken
+farmer said, unless it be a verse from a familiar ballad on a
+very remote topic, which happens to express my own most immediate
+feelings about politics and reconstruction after the decimation
+of the great war.
 
-  "I do believe in [[Freedom]]'s cause
-   Ez fur away ez tropics are;
-   But Belgians caught in Prussia's claws
-   To me less tempting topics are.
-   It's wal agin a foreign [[King|king]]
-   To rouse the chapel's rigours;
-   But Liberty's a kind of thing
-   We only owe to niggers."
+ "The many men so beautiful
+  And they all dead did lie
+  And a thousand thousand slimy things
+  Lived on, and so did I."
 
-He had of course a lurid denunciation of the late [[King]] Leopold,
-of which I will only say that, uttered by a Belgian about
-the Belgian [[King|king]] in his own land and lifetime, it would be
-highly courageous and largely correct; but that the parallel
-test is how much [[Truth|truth]] was told by British journalists about
-British Kings in their own land and lifetime; and that until we
-can pass that test, such denunciations do us very little good.
-But what interests me in the matter at the moment is this.
-Sir [[arthur|Arthur]] feels it right to say something about British corruptions,
-and passes from the Congo to Putumayo, touching a little more lightly;
-for even the most honest Britons have an unconscious trick
-of touching more lightly on the case of British capitalists.
-He says that our capitalists were not guilty of direct cruelty,
-but of an attitude careless and even callous.  But what strikes me
-is that Sir [[arthur|Arthur]], with his taste for such protests and inquiries,
-need not have wandered quite so far from his own [[Home|home]] as the forests
-of South [[america|America]].
+It is not a reflection that adds any inordinate [[Self|self]]-satisfaction
+to the fact of one's own [[Survival|survival]].
 
-Sir [[arthur|Arthur]] Conan Doyle is an Irishman; and in his own country, within my
-own [[Memory|memory]] there occurred a staggering and almost incredible crime,
-or series of crimes, which were worthier than anything in the world of
-the attention of Sherlock Holmes in fiction, or Conan Doyle in reality.
-It always will be a tribute to the author of _Sherlock Holmes_
-that he did, about the same [[Time|time]], do such good work in reality.
-He made an admirable plea for Adolf Beck and Oscar Slater;
-he was also connected, I remember, with the reversal of a miscarriage
-of justice in a case of cattle-mutilation. And all this, while altogether
-to his credit, makes it seem all the more strange that his talents
-could not be used for, and in, his own [[Home|home]] and native country,
-in a mystery that had the dimensions of a monstrosity, and which
-did involve, if I remember right, a question of cattle-maiming. Anyhow,
-it was concerned with moonlighters and the charges made against them,
-such as the common one of cutting off the tails of cows.
-I can imagine Sherlock Holmes on such a [[Quest|quest]], keen-eyed and relentless,
-finding the cloven hoof of some sinister and suspected cow.
-I can imagine Dr. Watson, like the cow's tail, always behind.
-I can imagine Sherlock Holmes remarking, in a light allusive fashion,
-that he himself had written a little monograph on the subject
-of cows' tails; with diagrams and tables solving the great
-traditional problem of how many cows' tails would reach the [[Moon|moon]];
-a subject of extraordinary interest to moonlighters.
-And I can still more easily imagine him saying afterwards,
-having resumed the pipe and dressing-gown of Baker Street, "A remarkable
-little problem, Watson.  In some of its features it was perhaps
-more singular than any you have been good enough to report.
-I do not think that even the Tooting Trouser-Stretching Mystery,
-or the singular little affair of the Radium Toothpick, offered more
-strange and sensational developments."  For if the celebrated pair
-had really tracked out the Irish crime I have in mind, they would
-have found a story which, considered merely as a [[Detective|detective]] story,
-is by far the most dramatic and dreadful of modern times.
-Like nearly all such sensational stories, it traced the crime
-to somebody far higher in station and responsibility than any
-of those suspected.  Like many of the most sensational of them,
-it actually traced the crime to the [[Detective|detective]] who was investigating it.
-For if they had really crawled about with a magnifying glass,
-studying the supposed footprints of the peasants incriminated,
-they would have found they were made by the boots of the policeman.
-And the boots of a policeman, one feels, are things that even
-Watson might recognise.
+In turning over a collection of Kettle's extraordinary varied
+and vigorous writings, which contain some of the most pointed
+and piercing criticisms of materialism, of modern capitalism and
+mental and moral anarchism generally, I came on a very interesting
+criticism of myself and my friends in our Marconi agitation;
+a suggestion, on a note of genial cynicism, that we were asking
+for an impossible political purity; a suggestion which,
+knowing it to be patriotic, I will venture to call pathetic.
+I will not now return on such disagreements, a man with whom I
+so universally agree; but it will not be unfair to find here an exact
+illustration of what I mean by saying that the national leaders,
+so far from merely failing as wild Irishmen, only failed when
+they were not instinctive enough, that is, not Irish enough.
+Kettle was a patriot whose impulse was practical and whose
+policy was impolitic.  Here also the Nationalist underrated
+the importance of the intervention of his own nationality.
+Kettle left a fine and even terrible poem, asking if his sacrifices
+were in vain, and whether he and his people were again being betrayed.
+I think nobody can deny that he was betrayed; and it was not by the
+English soldiers with whom he marched to war, but by those very English
+politicians with whom he sacrificed so much to remain at peace.
+No man will ever dare to say his [[Death|death]] in battle was in vain,
+not only because in the highest sense it could never be, but because
+even in the lowest sense it was not.  He hated the icy insolence
+of Prussia; and that ice is broken, and already as weak as [[Water|water]].
+As Carlyle said of a far lesser thing, that at least will never
+through unending ages insult the face of the sun any more.
+The point is here that if any part of his fine work was in vain,
+it was certainly not the reckless romantic part; it was precisely
+the plodding parliamentary part.  None can say that the weary
+marching and counter-marching in France was a thing thrown away;
+not only in the sense which consecrates all footprints along such
+a _via crucis,_ or highway of the army of martyrs; but also in
+the perfectly practical sense, that the army was going somewhere,
+and that it got there.  But it might possibly be said that the weary
+marching and counter-marching at Westminster, in and out of a
+division lobby, belonged to what the French call the _salle des pas
+perdus._ If anything was practical it was the visionary adventure;
+if anything was unpractical it was the practical compromise.
+He and his friends were betrayed by the men whose corruptions they
+had contemptuously condoned, far more than by the men whose bigotries
+they had indignantly denounced.  There darkened about them treason
+and disappointment, and he that was the happiest died in battle; and one
+who knew and loved him spoke to me for a million others in saying:
+"And now we will not give you a dead dog until you keep your word."
 
-I have told the astounding story of Sergeant Sheridan before;
-and I shall often tell it again.  Hardly any English people know it;
-and I shall go on telling it in the [[Hope|hope]] that all English people
-may know it some day.  It ought to be first in every collection
-of _causes celebres,_ in every book about criminals, in every
-book of historical mysteries; and on its merits it would be.
-It is not in any of them.  It is not there because there is a motive,
-in all modern British plutocracy, against finding the big British
-miscarriages of justice where they are really to be found;
-and that is a great deal nearer than Putumayo.  It is a place far
-more appropriate to the exploits of the family of the Doyles.
-It is called Ireland; and in that place a powerful British official
-named Sheridan had been highly successful in the imperial service
-by convicting a series of poor Irishmen of agrarian crimes.
-It was afterwards discovered that the British official had carefully
-committed every one of the crimes himself; and then, with equal foresight,
-perjured himself to imprison [[Innocent|innocent]] men, one of whom lost his reason.
-Any one who does not know the story will naturally ask what punishment
-was held adequate for such a Neronian [[Monster|monster]]; I will tell him.
-He was bowed out of the country like a distinguished stranger,
-his expenses politely paid; as if he had been delivering a series
-of instructive lectures; and he is now probably smoking a cigar in
-an American hotel, and much more comfortable than any poor policeman
-who has done his duty.  I defy anybody to deny him a place in our
-literature about great criminals.  Charles Peace escaped many times
-before conviction; Sheridan escaped altogether after conviction.
-Jack the Ripper was safe because he was undiscovered; Sheridan was
-discovered and was still safe.  But I only repeat the matter
-here for two reasons.  First, we may call our rule in Ireland
-what we like; we may call it the [[Union]] when there is no [[Union|union]];
-we may call it Protestant ascendancy when we are no longer Protestants;
-or Teutonic lordship when we could only be ashamed of being Teutons.
-But this is what it _is;_ and everything else is waste of words.
-And second, because an Irish investigator of cattle-maiming,
-so oblivious of the Irish cow, is in some danger of figuring
-as an Irish bull.
+~||~
+
+_VIII--An Example and a Question_
+
+WE all had occasion to rejoice at the return of Sherlock Holmes
+when he was supposed to be dead; and I presume we may soon rejoice
+in his return even when he is really dead.  Sir [[arthur|Arthur]] Conan Doyle,
+in his widespread new campaign in favour of Spiritualism,
+ought at least to delight us with the [[Comedy|comedy]] of Holmes as a control
+and Watson as a medium.  But I have for the moment a use for the great
+[[Detective|detective]] not concerned with the psychical side of the question.
+Of that I will only say, in passing, that in this as in many other cases,
+I find myself in agreement with an authority about where the line
+is drawn between good and bad, but have the misfortune to think
+his good bad, and his bad good.  Sir [[arthur|Arthur]] explains that he would
+lift Spiritualism to a graver and more elevated plane of idealism;
+and that he quite agrees with his critics that the mere
+tricks with tables and chairs are [[Grotesque|grotesque]] and vulgar.
+I think this quite true if turned upside down, like the table.
+I do not mind the [[Grotesque|grotesque]] and vulgar part of Spiritualism;
+what I object to is the [[Grave|grave]] and elevating part.  After all,
+a miracle is a miracle and means something; it means that Materialism
+is nonsense.  But it is not true that a message is always a message;
+and it sometimes only means that Spiritualism is also nonsense.
+If the table at which I am now writing takes to itself wings and flies
+out of the [[Window|window]], perhaps carrying me along with it, the incident
+will arouse in me a real intelligent interest, verging on surprise.
+But if the pen with which I am writing begins to scrawl all by itself,
+the sort of things I have seen in spirit writing; if it begins
+to say that all things are aspects of universal purity and peace,
+and so on, why, then I shall not only be annoyed, but also bored.
+If a great man like the late Sir William Crookes says a table went
+walking upstairs, I am impressed by the news; but not by news from
+nowhere to the effect that all men are perpetually going upstairs,
+up a spiritual staircase which seems to be as mechanical and labour-saving
+as a moving staircase at Charing [[Cross]].  Moreover, even a benevolent
+spirit might conceivably throw the furniture about merely for fun;
+whereas I [[Doubt|doubt]] if anything but a devil from hell would say that all
+things are aspects of purity and peace.

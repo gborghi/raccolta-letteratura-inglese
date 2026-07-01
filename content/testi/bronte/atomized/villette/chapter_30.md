@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 29"
+title: "Villette — Chapter 29"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/villette-(bronte)"
@@ -103,7 +103,7 @@ him in his firm conviction that the work was righteous and needed.
 Breakfast being over and mass attended, the school-bell rang and the
 rooms filled: a very pretty spectacle was presented in classe. Pupils
 and teachers sat neatly arrayed, orderly and expectant, each bearing in
-her hand the bouquet of felicitation—the prettiest [[spring]]-[[Flowers|flowers]] all
+her hand the bouquet of felicitation—the prettiest [[Spring|spring]]-[[Flowers|flowers]] all
 fresh, and filling the air with their fragrance: I only had no bouquet.
 I like to see [[Flowers|flowers]] growing, but when they are gathered, they cease
 to please. I look on them as things rootless and perishable; their
@@ -306,7 +306,7 @@ etcetera; made Frenchified comparisons between the “jeunes filles” and
 the sweet blossoms before him; paid Mademoiselle St. Pierre a very
 full-blown compliment on the superiority of her bouquet; and ended by
 announcing that the first really fine, mild, and balmy morning in
-[[spring]], he intended to take the whole class out to breakfast in the
+[[Spring|spring]], he intended to take the whole class out to breakfast in the
 country. “Such of the class, at least,” he added, with emphasis, “as he
 could count amongst the number of his friends.”
 

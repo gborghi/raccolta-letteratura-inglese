@@ -63,7 +63,7 @@ THE SENTINEL
 
 EVERYMAN
 
-[[Death|DEATH]] OF AN [[artist|ARTIST]]
+[[Death|DEATH]] OF AN [[Artist|ARTIST]]
 
 POETRY AND BELIEFS
 
@@ -1439,7 +1439,7 @@ One cannot move St Paul's [[Cathedral]] as one moves the Peacock Room.
 One cannot throw away the Whitechapel [[Road]] as one throws away
 brown paper.  I am not saying that this monumental solidity
 proves that the art is great.  But I say that it proves that
-the [[artist]] is confident.
+the [[Artist|artist]] is confident.
 
 Another quality very characteristic of the atmosphere to which
 Watts belonged is the quality of his moral indignation.
@@ -2774,7 +2774,7 @@ a case; it was founded upon a theory of primitive right and it
 was perpetually taking for its model the old pagan republics.
 Rousseau's theory of the social contract was purely an appeal
 to our human past; recent thinkers doubtless deny that human past,
-but most of them are sufficiently logical to deny [[Democracy|democracy]] as [[Well|well]].
+but most of them are sufficiently logical to deny [[democracy]] as [[Well|well]].
 There has not been actually any progress anywhere without some
 passionate admiration of the past.  ... Man is like Perseus; he cannot
 look at the Gorgon of the future except in the [[Mirror|mirror]] of the past.

@@ -14,6 +14,21 @@ tags:
 </nav>
 
 
+‘Yes, sir,’ repeated Trotty, looking with a fixed eye and a watery mouth,
+at the piece of tripe he had reserved for a last delicious tit-bit; which
+the gentleman was now turning over and over on the end of the fork.
+
+Two other gentlemen had come out with him.  One was a low-spirited
+gentleman of middle age, of a meagre habit, and a disconsolate face; who
+kept his hands continually in the pockets of his scanty pepper-and-salt
+trousers, very large and dog’s-eared from that custom; and was not
+particularly [[Well|well]] brushed or washed.  The other, a full-sized, sleek,
+[[Well|well]]-conditioned gentleman, in a blue coat with bright buttons, and a
+white cravat.  This gentleman had a very red face, as if an undue
+proportion of the [[Blood|blood]] in his [[Body|body]] were squeezed up into his head; which
+perhaps accounted for his having also the appearance of being rather cold
+about the heart.
+
 He who had Toby’s meat upon the fork, called to the first one by the name
 of Filer; and they both drew near together.  Mr. Filer being exceedingly
 short-sighted, was obliged to go so close to the remnant of Toby’s dinner
@@ -113,23 +128,3 @@ his breast in spite of this decree; and he could not bear that Meg, in
 the blush of her brief joy, should have her fortune read by these wise
 gentlemen.  ‘God help her,’ thought poor Trotty.  ‘She will know it soon
 enough.’
-
-He anxiously signed, therefore, to the young [[smith]], to take her away.
-But he was so busy, talking to her softly at a little distance, that he
-only became conscious of this [[Desire|desire]], simultaneously with [[Alderman Cute]].
-Now, the Alderman had not yet had his say, but _he_ was a philosopher,
-too—practical, though!  Oh, very practical—and, as he had no idea of
-losing any portion of his audience, he cried ‘Stop!’
-
-‘Now, you know,’ said the Alderman, addressing his two friends, with a
-[[Self|self]]-complacent smile upon his face which was habitual to him, ‘I am a
-plain man, and a practical man; and I go to work in a plain practical
-way.  That’s my way.  There is not the least mystery or difficulty in
-dealing with this sort of people if you only understand ’em, and can talk
-to ’em in their own manner.  Now, you Porter!  Don’t you ever tell me, or
-anybody else, my friend, that you haven’t always enough to eat, and of
-the best; because I know better.  I have tasted your tripe, you know, and
-you can’t “chaff” me.  You understand what “chaff” means, eh?  That’s the
-right word, isn’t it?  Ha, ha, ha! Lord bless you,’ said the Alderman,
-turning to his friends again, ‘it’s the easiest thing on earth to deal
-with this sort of people, if you understand ’em.’

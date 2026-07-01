@@ -1,5 +1,5 @@
 ---
-title: "[[Ms. Found in a Bottle]] (part 3)"
+title: "Ms. Found in a Bottle (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/ms.-found-in-a-bottle-(poe)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/ms_found_in_a_bottle/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/ms_found_in_a_bottle/part/part_04">part 04 ›</a></div>
 </nav>
 
+
+      I beheld a spectacle which froze the current of my [[Blood|blood]]. At a
+
+      terrific height directly above us, and upon the very verge of the
+
+      precipitous descent, hovered a gigantic [[Ship|ship]] of, perhaps, four
+
+      thousand tons. Although upreared upon the summit of a wave more
+
+      than a hundred times her own altitude, her apparent size exceeded
+
+      that of any [[Ship|ship]] of the line or East Indiaman in existence. Her
+
+      huge hull was of a deep dingy black, unrelieved by any of the
+
+      customary carvings of a [[Ship|ship]]. A single row of brass cannon
 
       protruded from her open ports, and dashed from their polished
 
@@ -187,29 +203,3 @@ tags:
 
 
       I have made many observations lately upon the structure of the
-
-      vessel. Although [[Well|well]] armed, she is not, I think, a [[Ship|ship]] of war.
-
-      Her rigging, build, and general equipment, all negative a
-
-      supposition of this kind. What she is not, I can easily
-
-      perceive—what she is I [[Fear|fear]] it is impossible to say. I know not
-
-      how it is, but in scrutinizing her strange model and singular
-
-      cast of spars, her huge size and overgrown suits of canvas, her
-
-      severely simple bow and antiquated stern, there will occasionally
-
-      flash across my mind a sensation of familiar things, and there is
-
-      always mixed up with such indistinct shadows of recollection, an
-
-      unaccountable [[Memory|memory]] of old foreign chronicles and ages long ago.
-
-
-
-
-
-      I have been looking at the timbers of the [[Ship|ship]]. She is built of a

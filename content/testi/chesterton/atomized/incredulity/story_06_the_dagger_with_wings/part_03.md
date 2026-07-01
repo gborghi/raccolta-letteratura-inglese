@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity]] — The Dagger with Wings (part 3)"
+title: "Incredulity — The Dagger with Wings (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-(chesterton)"
@@ -142,7 +142,7 @@ of rousing him.
 
 [[Father Brown]] was blinking in his short--sighted way at the paper
 presented to him.  It was a singular sort of paper, rough without
-being common, as from an [[artist]]'s [[Sketch|sketch]]--book; and on it was drawn
+being common, as from an [[Artist|artist]]'s [[Sketch|sketch]]--book; and on it was drawn
 boldly in red ink a dagger decorated with wings like the rod of Hermes,
-with the written words, `[[Death]] comes the day after this, as it came
+with the written words, `Death comes the day after this, as it came
 to your brothers.'

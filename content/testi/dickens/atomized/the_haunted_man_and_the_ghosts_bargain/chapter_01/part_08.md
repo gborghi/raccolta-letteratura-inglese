@@ -1,5 +1,5 @@
 ---
-title: "The Haunted Man and the [[Ghost]]'s Bargain — Chapter 1 (part 8)"
+title: "The Haunted Man and the Ghost's Bargain — Chapter 1 (part 8)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-haunted-man-and-the-ghost's-bargain-(dickens)"
@@ -13,6 +13,50 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_01/part_07">‹ part 07</a><a class="ex-next" href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_02/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Stay!” cried the haunted man, arresting by a terrified gesture the
+uplifted hand. “I tremble with distrust and [[Doubt|doubt]] of you; and the dim
+[[Fear|fear]] you cast upon me deepens into a nameless horror I can hardly bear.—I
+would not deprive myself of any kindly recollection, or any sympathy that
+is good for me, or others. What shall I lose, if I assent to this? What
+else will pass from my remembrance?”
+
+“No knowledge; no result of study; nothing but the intertwisted chain of
+feelings and associations, each in its turn dependent on, and nourished
+by, the banished recollections. Those will go.”
+
+“Are they so many?” said the haunted man, reflecting in alarm.
+
+“They have been wont to show themselves in the [[Fire|fire]], in music, in the
+[[Wind|wind]], in the dead stillness of the [[Night|night]], in the revolving years,”
+returned the [[Phantom]] scornfully.
+
+“In nothing else?”
+
+The [[Phantom]] held its peace.
+
+But having stood before him, silent, for a little while, it moved towards
+the [[Fire|fire]]; then stopped.
+
+“Decide!” it said, “before the opportunity is lost!”
+
+“A moment! I call Heaven to witness,” said the agitated man, “that I
+have never been a hater of any kind,—never morose, indifferent, or hard,
+to anything around me. If, living here [[Alone|alone]], I have made too much of
+all that was and might have been, and too little of what is, the evil, I
+believe, has fallen on me, and not on others. But, if there were [[Poison|poison]]
+in my [[Body|body]], should I not, possessed of antidotes and knowledge how to use
+them, use them? If there be [[Poison|poison]] in my mind, and through this fearful
+[[Shadow|shadow]] I can cast it out, shall I not cast it out?”
+
+“Say,” said the Spectre, “is it done?”
+
+“A moment longer!” he answered hurriedly. “_I would forget it if I
+could_! Have _I_ thought that, [[Alone|alone]], or has it been the thought of
+thousands upon thousands, generation after generation? All human [[Memory|memory]]
+is fraught with sorrow and trouble. My [[Memory|memory]] is as the [[Memory|memory]] of other
+men, but other men have not this choice. Yes, I close the bargain. Yes!
+I WILL forget my sorrow, wrong, and trouble!”
 
 “Say,” said the Spectre, “is it done?”
 
@@ -92,7 +136,7 @@ the boy what he did there, and whence he came.
 was so long gone, that I went to look for her, and lost myself. I don’t
 want you. I want the woman.”
 
-He made a [[Spring|spring]], so suddenly, to get away, that the dull sound of his
+He made a [[spring]], so suddenly, to get away, that the dull sound of his
 naked feet upon the floor was near the curtain, when Redlaw caught him by
 his rags.
 

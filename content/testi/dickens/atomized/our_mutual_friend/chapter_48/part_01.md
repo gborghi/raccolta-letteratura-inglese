@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 7 (part 1)"
+title: "Our Mutual Friend — Chapter 10 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,150 +10,149 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_47/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_48/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_47/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_48/part_02">part 02 ›</a></div>
 </nav>
 
 
-Chapter 7
+Chapter 10
 
-THE FRIENDLY MOVE TAKES UP A STRONG POSITION
+SCOUTS OUT
 
 
-The friendly movers sat upright on the floor, panting and eyeing one
-another, after Mr Boffin had slammed the gate and gone away. In the weak
-eyes of [[Venus]], and in every reddish [[Dust|dust]]-coloured hair in his shock of
-hair, there was a marked distrust of Wegg and an alertness to fly at him
-on perceiving the smallest occasion. In the hard-grained face of Wegg,
-and in his stiff knotty figure (he looked like a German wooden toy),
-there was expressed a politic conciliation, which had no spontaneity in
-it. Both were flushed, flustered, and rumpled, by the late scuffle; and
-Wegg, in coming to the ground, had received a humming knock on the back
-of his devoted head, which caused him still to rub it with an air of
-having been highly—but disagreeably—astonished. Each was silent for
-some [[Time|time]], leaving it to the other to begin.
+‘And so, Miss Wren,’ said Mr [[Eugene Wrayburn]], ‘I cannot persuade you to
+dress me a doll?’
 
-‘Brother,’ said Wegg, at length breaking the [[Silence|silence]], ‘you were right,
-and I was wrong. I forgot myself.’
+‘No,’ replied Miss Wren snappishly; ‘if you want one, go and buy one at
+the shop.’
 
-[[Mr Venus]] knowingly cocked his shock of hair, as rather thinking Mr Wegg
-had remembered himself, in respect of appearing without any disguise.
+‘And my charming young goddaughter,’ said Mr Wrayburn plaintively, ‘down
+in Hertfordshire—’
 
-‘But comrade,’ pursued Wegg, ‘it was never your lot to know Miss
-Elizabeth, Master George, Aunt Jane, nor Uncle Parker.’
+(‘Humbugshire you mean, I think,’ interposed Miss Wren.)
 
-[[Mr Venus]] admitted that he had never known those distinguished persons,
-and added, in effect, that he had never so much as desired the [[Honour|honour]] of
-their acquaintance.
+‘—is to be put upon the cold footing of the general public, and is
+to derive no advantage from my private acquaintance with the [[Court]]
+Dressmaker?’
 
-‘Don’t say that, comrade!’ retorted Wegg: ‘No, don’t say that! Because,
-without having known them, you never can fully know what it is to be
-stimilated to frenzy by the sight of the [[Usurper]].’
+‘If it’s any advantage to your charming godchild—and oh, a precious
+godfather she has got!’—replied Miss Wren, pricking at him in the air
+with her needle, ‘to be informed that the [[Court]] Dressmaker knows
+your tricks and your manners, you may tell her so by post, with my
+compliments.’
 
-Offering these excusatory words as if they reflected great credit on
-himself, Mr Wegg impelled himself with his hands towards a chair in
-a corner of the room, and there, after a variety of awkward gambols,
-attained a perpendicular position. [[Mr Venus]] also [[Rose|rose]].
+Miss Wren was busy at her work by candle-light, and Mr Wrayburn, half
+amused and half vexed, and all idle and shiftless, stood by her bench
+looking on. Miss Wren’s troublesome [[Child|child]] was in the corner in deep
+disgrace, and exhibiting great wretchedness in the shivering stage of
+prostration from drink.
 
-‘Comrade,’ said Wegg, ‘take a seat. Comrade, what a speaking countenance
-is yours!’
+‘Ugh, you disgraceful boy!’ exclaimed Miss Wren, attracted by the sound
+of his chattering teeth, ‘I wish they’d all drop down your throat and
+play at dice in your stomach! Boh, wicked [[Child|child]]! Bee-baa, black sheep!’
 
-[[Mr Venus]] involuntarily smoothed his countenance, and looked at his hand,
-as if to see whether any of its speaking properties came off.
+On her accompanying each of these reproaches with a threatening stamp of
+the foot, the wretched creature protested with a whine.
 
-‘For clearly do I know, mark you,’ pursued Wegg, pointing his words
-with his forefinger, ‘clearly do I know what question your expressive
-features puts to me.’
+‘Pay five shillings for you indeed!’ Miss Wren proceeded; ‘how many
+hours do you suppose it costs me to earn five shillings, you infamous
+boy?—Don’t cry like that, or I’ll throw a doll at you. Pay five
+shillings fine for you indeed. Fine in more ways than one, I think! I’d
+give the dustman five shillings, to carry you off in the [[Dust|dust]] cart.’
 
-‘What question?’ said [[Venus]].
+‘No, no,’ pleaded the absurd creature. ‘Please!’
 
-‘The question,’ returned Wegg, with a sort of joyful affability, ‘why
-I didn’t mention sooner, that I had found something. Says your speaking
-countenance to me: “Why didn’t you communicate that, when I first come
-in this evening? Why did you keep it back till you thought Mr Boffin had
-come to look for the article?” Your speaking countenance,’ said Wegg,
-‘puts it plainer than language. Now, you can’t read in my face what
-answer I give?’
+‘He’s enough to break his mother’s heart, is this boy,’ said Miss Wren,
+half appealing to Eugene. ‘I wish I had never brought him up. He’d be
+sharper than a serpent’s tooth, if he wasn’t as dull as ditch [[Water|water]].
+Look at him. There’s a pretty object for a parent’s eyes!’
 
-‘No, I can’t,’ said [[Venus]].
+Assuredly, in his worse than swinish state (for swine at least fatten on
+their guzzling, and make themselves good to eat), he was a pretty object
+for any eyes.
 
-‘I knew it! And why not?’ returned Wegg, with the same joyful candour.
-‘Because I lay no claims to a speaking countenance. Because I am [[Well|well]]
-aware of my deficiencies. All men are not gifted alike. But I can answer
-in words. And in what words? These. I wanted to give you a delightful
-sap—pur—IZE!’
+‘A muddling and a swipey old [[Child|child]],’ said Miss Wren, rating him with
+great severity, ‘fit for nothing but to be preserved in the liquor
+that destroys him, and put in a great glass bottle as a sight for other
+swipey children of his own pattern,—if he has no consideration for his
+liver, has he none for his mother?’
 
-Having thus elongated and emphasized the word Surprise, Mr Wegg shook
-his friend and brother by both hands, and then clapped him on both
-knees, like an affectionate patron who entreated him not to mention so
-small a service as that which it had been his happy privilege to render.
+‘Yes. Deration, oh don’t!’ cried the subject of these angry remarks.
 
-‘Your speaking countenance,’ said Wegg, ‘being answered to its
-satisfaction, only asks then, “What have you found?” Why, I hear it say
-the words!’
+‘Oh don’t and oh don’t,’ pursued Miss Wren. ‘It’s oh do and oh do. And
+why do you?’
 
-‘[[Well]]?’ retorted [[Venus]] snappishly, after waiting in vain. ‘If you hear
-it say the words, why don’t you answer it?’
+‘Won’t do so any more. Won’t indeed. Pray!’
 
-‘Hear me out!’ said Wegg. ‘I’m a-going to. Hear me out! Man and brother,
-partner in feelings equally with undertakings and actions, I have found
-a cash-box.’
+‘There!’ said Miss Wren, covering her eyes with her hand. ‘I can’t
+bear to look at you. Go up stairs and get me my bonnet and shawl. Make
+yourself useful in some way, bad boy, and let me have your room instead
+of your company, for one half minute.’
 
-‘Where?’
+Obeying her, he shambled out, and [[Eugene Wrayburn]] saw the [[Tears|tears]] exude
+from between the little creature’s fingers as she kept her hand before
+her eyes. He was sorry, but his sympathy did not move his carelessness
+to do anything but feel sorry.
 
-‘—Hear me out!’ said Wegg. (He tried to reserve whatever he could, and,
-whenever disclosure was forced upon him, broke into a radiant gush of
-Hear me out.) ‘On a certain day, sir—’
+‘I’m going to the Italian Opera to try on,’ said Miss Wren, taking away
+her hand after a little while, and laughing satirically to hide that she
+had been crying; ‘I must see your back before I go, Mr Wrayburn. Let me
+first tell you, once for all, that it’s of no use your paying visits
+to me. You wouldn’t get what you want, of me, no, not if you brought
+pincers with you to tear it out.’
 
-‘When?’ said [[Venus]] bluntly.
+‘Are you so obstinate on the subject of a doll’s dress for my godchild?’
 
-‘N—no,’ returned Wegg, shaking his head at once observantly,
-thoughtfully, and playfully. ‘No, sir! That’s not your expressive
-countenance which asks that question. That’s your voice; merely your
-voice. To proceed. On a certain day, sir, I happened to be walking in
-the yard—taking my lonely round—for in the words of a friend of my own
-family, the author of All’s [[Well]] arranged as a duett:
+‘Ah!’ returned Miss Wren with a hitch of her chin, ‘I am so
+obstinate. And of course it’s on the subject of a doll’s dress—or
+ADdress—whichever you like. Get along and give it up!’
 
-     “Deserted, as you will remember, [[Mr Venus]], by the waning
-     [[Moon|moon]],
-     When [[Stars|stars]], it will occur to you before I mention it, proclaim
-     [[Night|night]]’s cheerless [[Noon|noon]],
-     On tower, fort, or tented ground,
-     The sentry walks his lonely round,
-     The sentry walks;”
+Her degraded charge had come back, and was standing behind her with the
+bonnet and shawl.
 
-—under those circumstances, sir, I happened to be walking in the yard
-early one afternoon, and happened to have an iron rod in my hand, with
-which I have been sometimes accustomed to beguile the monotony of a
-literary life, when I struck it against an object not necessary to
-trouble you by naming—’
+‘Give ’em to me and get back into your corner, you naughty old thing!’
+said Miss Wren, as she turned and espied him. ‘No, no, I won’t have your
+help. Go into your corner, this minute!’
 
-‘It is necessary. What object?’ demanded [[Venus]], in a wrathful tone.
+The miserable man, feebly rubbing the back of his faltering hands
+downward from the wrists, shuffled on to his post of disgrace; but not
+without a curious glance at Eugene in passing him, accompanied with what
+seemed as if it might have been an action of his elbow, if any action of
+any limb or joint he had, would have answered truly to his will. Taking
+no more particular notice of him than instinctively falling away from
+the disagreeable contact, Eugene, with a lazy compliment or so to Miss
+Wren, begged leave to light his cigar, and departed.
 
-‘—Hear me out!’ said Wegg. ‘The Pump.—When I struck it against the
-Pump, and found, not only that the top was loose and opened with a lid,
-but that something in it rattled. That something, comrade, I discovered
-to be a small flat oblong cash-box. Shall I say it was disappointingly
-light?’
+‘Now you prodigal old son,’ said Jenny, shaking her head and her
+emphatic little forefinger at her burden, ‘you sit there till I come
+back. You dare to move out of your corner for a single instant while I’m
+gone, and I’ll know the reason why.’
 
-‘There were papers in it,’ said [[Venus]].
+With this admonition, she blew her work candles out, leaving him to the
+light of the [[Fire|fire]], and, taking her big door-key in her pocket and her
+crutch-stick in her hand, marched off.
 
-‘There your expressive countenance speaks indeed!’ cried Wegg. ‘A
-paper. The box was locked, tied up, and sealed, and on the outside was
-a parchment label, with the writing, “MY WILL, [[John Harmon|JOHN HARMON]], TEMPORARILY
-DEPOSITED HERE.”’
+Eugene lounged slowly towards the Temple, smoking his cigar, but saw
+no more of the dolls’ dressmaker, through the accident of their taking
+opposite sides of the street. He lounged along moodily, and stopped at
+Charing [[Cross]] to look about him, with as little interest in the crowd
+as any man might take, and was lounging on again, when a most unexpected
+object caught his eyes. No less an object than [[Jenny Wren]]’s bad boy
+trying to make up his mind to [[Cross|cross]] the [[Road|road]].
 
-‘We must know its contents,’ said [[Venus]].
-
-‘—Hear me out!’ cried Wegg. ‘I said so, and I broke the box open.’
-
-‘Without coming to me!’ exclaimed [[Venus]].
-
-‘Exactly so, sir!’ returned Wegg, blandly and buoyantly. ‘I see I take
-you with me! Hear, hear, hear! Resolved, as your discriminating good
-sense perceives, that if you was to have a sap—pur—IZE, it should be
-a complete one! [[Well]], sir. And so, as you have honoured me by
-anticipating, I examined the document. Regularly executed, regularly
-witnessed, very short. Inasmuch as he has never made friends, and has
-ever had a rebellious family, he, [[John Harmon]], gives to [[Nicodemus Boffin]]
-the Little Mound, which is quite enough for him, and gives the whole
-rest and residue of his property to the [[Crown]].’
+A more ridiculous and feeble spectacle than this tottering wretch making
+unsteady sallies into the roadway, and as often staggering back again,
+oppressed by terrors of vehicles that were a long way off or were
+nowhere, the streets could not have shown. Over and over again, when the
+course was perfectly clear, he set out, got half way, described a loop,
+turned, and went back again; when he might have crossed and re-crossed
+half a dozen times. Then, he would stand shivering on the edge of the
+pavement, looking up the street and looking down, while scores of people
+jostled him, and crossed, and went on. Stimulated in course of [[Time|time]]
+by the sight of so many successes, he would make another sally, make
+another loop, would all but have his foot on the opposite pavement,
+would see or imagine something coming, and would stagger back again.
+There, he would stand making spasmodic preparations as if for a great
+leap, and at last would decide on a start at precisely the wrong moment,
+and would be roared at by drivers, and would shrink back once more, and
+stand in the old spot shivering, with the whole of the proceedings to go
+through again.

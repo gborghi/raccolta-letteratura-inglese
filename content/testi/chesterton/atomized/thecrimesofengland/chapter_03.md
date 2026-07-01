@@ -1,5 +1,5 @@
 ---
-title: "[[TheCrimesOfEngland]] — Chapter 3"
+title: "TheCrimesOfEngland — Chapter 3"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/thecrimesofengland-(chesterton)"
@@ -16,11 +16,7 @@ tags:
 
 CHAPTER III
 
-
-
 THE ENIGMA OF WATERLOO
-
-
 
 How we helped Napoleon--The Revolution
 

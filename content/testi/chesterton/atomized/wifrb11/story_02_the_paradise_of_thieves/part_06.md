@@ -1,5 +1,5 @@
 ---
-title: "[[wifrb11]] — The Paradise of Thieves (part 6)"
+title: "wifrb11 — The Paradise of Thieves (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -13,6 +13,32 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_02_the_paradise_of_thieves/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_03_the_duel_of_dr_hirsch/part_01">part 01 ›</a></div>
 </nav>
 
+
+     The next moment he turned his olive, sneering face and made
+a movement with his hand.  The brigands scattered at the signal,
+not in confusion, but in what was evidently a kind of guerrilla discipline. 
+Instead of occupying the [[Road|road]] along the ridge, they sprinkled themselves
+along the side of it behind the trees and the hedge, as if watching unseen
+for an enemy.  The noise beyond grew stronger, beginning to shake
+the mountain [[Road|road]], and a voice could be clearly heard calling out orders. 
+The brigands swayed and huddled, cursing and whispering,
+and the evening air was full of little metallic noises as they
+cocked their pistols, or loosened their knives, or trailed their scabbards
+over the stones.  Then the noises from both quarters seemed to meet
+on the [[Road|road]] above; branches broke, horses neighed, men cried out.
+
+     "A rescue!" cried Muscari, springing to his feet and waving his hat;
+"the gendarmes are on them!  Now for [[Freedom|freedom]] and a blow for it! 
+Now to be rebels against robbers!  Come, don't let us leave everything
+to the police; that is so dreadfully modern.  Fall on the rear
+of these ruffians.  The gendarmes are rescuing us; come, friends,
+let us rescue the gendarmes!"
+
+     And throwing his hat over the trees, he drew his cutlass once more
+and began to escalade the slope up to the [[Road|road]].  Frank Harrogate
+jumped up and ran across to help him, revolver in hand, but was astounded
+to hear himself imperatively recalled by the raucous voice of his father,
+who seemed to be in great agitation.
 
      "I won't have it," said the banker in a choking voice;
 "I command you not to interfere."
@@ -147,7 +173,5 @@ I am going to Manchester, Liverpool, Leeds, Hull, Huddersfield,
 Glasgow, Chicago--in short, to enlightened, energetic, civilized society!"
 
      "In short," said Muscari, "to the real Paradise of Thieves."
-
-
 
                                  THREE

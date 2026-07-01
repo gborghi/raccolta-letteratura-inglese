@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 31"
+title: "The Tenant of Wildfell Hall — Chapter 31"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -20,7 +20,7 @@ tags:
 
 
 
-March 20th, 1824. The dreaded [[Time|time]] is come, and [[arthur|Arthur]] is gone, as I
+March 20th, 1824. The dreaded [[Time|time]] is come, and [[Arthur]] is gone, as I
 
 expected. This [[Time|time]] he announced it his intention to make but a short
 
@@ -44,7 +44,7 @@ with his injustice, his selfishness and hopeless _depravity_. I wish a
 
 milder word would do; I am no angel, and my corruption rises against
 
-it. My poor father died last week: [[arthur|Arthur]] was vexed to hear of it,
+it. My poor father died last week: [[Arthur]] was vexed to hear of it,
 
 because he saw that I was shocked and grieved, and he feared the
 
@@ -136,7 +136,7 @@ know how bitter I find it!
 
 August 20th.—We are shaken down again to about our usual position.
 
-[[arthur|Arthur]] has returned to nearly his former condition and habits; and I
+[[Arthur]] has returned to nearly his former condition and habits; and I
 
 have found it my wisest plan to shut my eyes against the past and
 
@@ -168,7 +168,7 @@ request, his wife and [[Child|child]]. I long to see Milicent, and her little
 
 girl too. The latter is now above a year old; she will be a charming
 
-playmate for my little [[arthur|Arthur]].
+playmate for my little [[Arthur]].
 
 
 
@@ -200,7 +200,7 @@ detriment of your own fingers.
 
 
 
-Of late, however, I have seen nothing in her conduct towards [[arthur|Arthur]] to
+Of late, however, I have seen nothing in her conduct towards [[Arthur]] to
 
 anger or alarm me. During the first few days I thought she seemed very
 
@@ -224,7 +224,7 @@ conquest upon hers.
 
 
 
-This is as it should be; but [[arthur|Arthur]] never will let me be satisfied with
+This is as it should be; but [[Arthur]] never will let me be satisfied with
 
 him. I have never, for a single hour since I married him, known what it
 
@@ -240,7 +240,7 @@ disgrace himself by positive excess. I shall not soon forget the second
 
 [[Night|night]] after their arrival. Just as I had retired from the dining-room
 
-with the ladies, before the door was closed upon us, [[arthur|Arthur]]
+with the ladies, before the door was closed upon us, [[Arthur]]
 
 exclaimed,—“Now then, my lads, what say you to a regular
 
@@ -534,7 +534,7 @@ Meantime Mr. Grimsby seated himself by me, in the chair vacated by
 
 Hargrave as they entered, and gravely stated that he would thank me for
 
-a cup of tea: and [[arthur|Arthur]] placed himself beside poor Milicent,
+a cup of tea: and [[Arthur]] placed himself beside poor Milicent,
 
 confidentially pushing his head into her face, and drawing in closer to
 
@@ -556,7 +556,7 @@ at my elbow, with sententious gravity all the [[Time|time]]; but I had been too
 
 much absorbed in contemplating the deplorable state of the other
 
-two—especially [[arthur|Arthur]]—to attend to him.
+two—especially [[Arthur]]—to attend to him.
 
 
 
@@ -702,7 +702,7 @@ earnest, and pale with anger, silently struggling to release himself
 
 from the powerful madman that was striving to drag him from the room. I
 
-attempted to urge [[arthur|Arthur]] to interfere in behalf of his outraged guest,
+attempted to urge [[Arthur]] to interfere in behalf of his outraged guest,
 
 but he could do nothing but laugh.
 
@@ -714,7 +714,7 @@ himself somewhat weakened by his excesses.
 
 
 
-“I’m wishing you God-[[Speed|speed]], Hattersley,” cried [[arthur|Arthur]], “and aiding you
+“I’m wishing you God-[[Speed|speed]], Hattersley,” cried [[Arthur]], “and aiding you
 
 with my prayers: I can’t do anything else if my life depended on it!
 
@@ -894,7 +894,7 @@ loss of [[Time|time]].
 
 
 
-The next object of assault was [[arthur|Arthur]], who sat opposite, and had, no
+The next object of assault was [[Arthur]], who sat opposite, and had, no
 
 [[Doubt|doubt]], richly enjoyed the whole scene.
 
@@ -932,7 +932,7 @@ Hattersley tried cursing and swearing, but it would not do: he then
 
 took a number of books from the table beside him, and threw them, one
 
-by one, at the object of his wrath; but [[arthur|Arthur]] only laughed the more;
+by one, at the object of his wrath; but [[Arthur]] only laughed the more;
 
 and, finally, Hattersley rushed upon him in a frenzy and seizing him by
 
@@ -966,7 +966,7 @@ now, but sick and stupid. I will write no more about _that_.
 
 Such disgraceful scenes (or nearly such) have been repeated more than
 
-once. I don’t say much to [[arthur|Arthur]] about it, for, if I did, it would do
+once. I don’t say much to [[Arthur]] about it, for, if I did, it would do
 
 more harm than good; but I let him know that I intensely dislike such
 
@@ -1004,6 +1004,6 @@ treating him with more uniform kindness and consideration than ever I
 
 have observed her to do before. I date the [[Time|time]] of this improvement
 
-from the period when she ceased to [[Hope|hope]] and strive for [[arthur|Arthur]]’s
+from the period when she ceased to [[Hope|hope]] and strive for [[Arthur]]’s
 
 admiration.

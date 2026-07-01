@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 6 (part 2)"
+title: "thursday — Chapter 6 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -101,9 +101,7 @@ that the President was wrong and that the barrel-organ was right.
 There clanged in his mind that unanswerable and terrible truism
 in the [[Song|song]] of Roland--
 
-
 "Pagens ont tort et Chretiens ont droit."
-
 
 which in the old nasal French has the clang and groan of great iron.
 This liberation of his spirit from the load of his weakness went
@@ -124,11 +122,3 @@ The President led them down an irregular side stair, such as
 might be used by servants, and into a dim, cold, empty room,
 with a table and benches, like an abandoned boardroom.
 When they were all in, he closed and locked the door.
-
-The first to speak was Gogol, the irreconcilable, who seemed bursting
-with inarticulate grievance.
-
-"Zso!  Zso!" he cried, with an obscure excitement, his heavy Polish
-accent becoming almost impenetrable.  "You zay you nod 'ide.
-You zay you show himselves.  It is all nuzzinks.  Ven you vant
-talk importance you run yourselves in a dark box!"

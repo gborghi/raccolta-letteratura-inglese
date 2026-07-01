@@ -1,5 +1,5 @@
 ---
-title: "[[Don Quixote]] — Chapter 14"
+title: "Don Quixote — Chapter 14"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/don-quixote-(chesterton)"
@@ -23,7 +23,7 @@ menace of Braintree and his new Syndicalism, and which had led up
 to the launching of the movement in opposition to it, it was reported
 that Mr. [[Michael]] Herne had gone into a polling-booth to record
 his vote; and had remained there for three-quarters of an hour,
-mysteriously occupied or possibly engaged in [[prayer]].  He had apparently
+mysteriously occupied or possibly engaged in [[Prayer|prayer]].  He had apparently
 never given a vote before; it not being a Palaeo-Hittite habit;
 but when it had been elaborately explained to him that he had
 only to make a [[Cross|cross]] on the piece of paper opposite the name

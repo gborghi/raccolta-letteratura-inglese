@@ -116,7 +116,3 @@ The former porter mentioned each successive kind of eatable, as if he
 were musingly summing up his good actions.  After which he rubbed his fat
 legs as before, and jerking them at the knees to get the [[Fire|fire]] upon the
 yet unroasted parts, laughed as if somebody had tickled him.
-
-‘You’re in spirits, Tugby, my dear,’ observed his wife.
-
-The firm was Tugby, late Chickenstalker.

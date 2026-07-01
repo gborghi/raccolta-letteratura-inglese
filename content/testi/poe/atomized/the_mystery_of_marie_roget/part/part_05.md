@@ -1,5 +1,5 @@
 ---
-title: "[[The Mystery of Marie Roget]] (part 5)"
+title: "The Mystery of Marie Roget (part 5)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-mystery-of-marie-roget-(poe)"
@@ -13,6 +13,28 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_mystery_of_marie_roget/part/part_04">‹ part 04</a><a class="ex-next" href="/testi/poe/atomized/the_mystery_of_marie_roget/part/part_06">part 06 ›</a></div>
 </nav>
 
+
+      of Marie. Nobody went over. There was nothing said or heard about
+
+      the matter in the Rue Pavée St. Andrée, that reached even the
+
+      occupants of the same building. M. St. Eustache, the [[Lover|lover]] and
+
+      intended husband of Marie, who boarded in her mother’s [[house]],
+
+      deposes that he did not hear of the discovery of the [[Body|body]] of his
+
+      intended until the next morning, when M. Beauvais came into his
+
+      chamber and told him of it. For an item of news like this, it
+
+      strikes us it was very coolly received.”
+
+
+
+      In this way the journal endeavored to create the impression of an
+
+      apathy on the part of the relatives of Marie, inconsistent with
 
       the supposition that these relatives believed the corpse to be
 
@@ -173,33 +195,3 @@ tags:
       a close thicket, within which were three or four large stones,
 
       forming a kind of seat, with a back and footstool. On the upper
-
-      stone lay a white petticoat; on the second a silk scarf. A
-
-      parasol, gloves, and a pocket-handkerchief were also here found.
-
-      The handkerchief bore the name “Marie Rogêt.” Fragments of dress
-
-      were discovered on the brambles around. The earth was trampled,
-
-      the bushes were broken, and there was every evidence of a
-
-      struggle. Between the thicket and the [[River|river]], the fences were
-
-      found taken down, and the ground bore evidence of some heavy
-
-      burthen having been dragged along it.
-
-
-
-      A weekly paper, Le Soleil,(*12) had the following comments upon
-
-      this discovery—comments which merely echoed the sentiment of the
-
-      whole Parisian press:
-
-
-
-      “The things had all evidently been there at least three or four
-
-      weeks; they were all mildewed down hard with the action of the

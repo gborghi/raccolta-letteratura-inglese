@@ -14,6 +14,28 @@ tags:
 </nav>
 
 
+Kirkup, Seymour, 103.
+
+L
+
+_L'Aiglon_, 28.
+
+"Laboratory, The," 47, 143.
+
+Landor, 26, 56, 93, 101-103.
+
+_La Saisiaz_, 127.
+
+_Letters, The Browning_, 63.
+
+Liberalism, 86.
+
+"Lines to Edward Fitzgerald," 131.
+
+Llangollen, 130.
+
+Lockhart, 112.
+
 "Lost Leader, The," 46.
 
 "[[Lover]]'s Quarrel, A," 50.
@@ -21,7 +43,6 @@ tags:
 "Luigi," 45.
 
 Lytton, Lord (novelist), 91.
-
 
 M
 
@@ -56,7 +77,6 @@ _Mr. Sludge the Medium_, 82, 96, 120, 190-199.
 
 "My Star," 138.
 
-
 N
 
 "Nationality in Drinks," 46, 138.
@@ -71,7 +91,6 @@ Newman, Cardinal, 193.
 
 Norwood, 18.
 
-
 O
 
 "Ode on the Intimations of [[Immortality]]" (Wordsworth), 136.
@@ -83,7 +102,6 @@ O
 "One Word More," 65.
 
 Orr, Mrs., 72.
-
 
 P
 
@@ -143,7 +161,6 @@ Puritans, 30.
 
 Pym, 28, 30.
 
-
 R
 
 "Rabbi Ben Ezra," 201.
@@ -169,7 +186,6 @@ Royalists, 30.
 Ruskin, 16, 55, 56, 91, 115.
 
 [[Russia]], 88.
-
 
 S
 
@@ -223,9 +239,7 @@ _Straford_, 27 _seq._, 37.
 
 Swinburne, 56, 116, 142,143.
 
-
 T
-
 
 _Tait's Magazine_, 20.
 
@@ -245,17 +259,13 @@ _Tristram Shandy_ (Sterne), 163.
 
 _Two Poets of Croisic, The_, 127.
 
-
 U
-
 
 University College, 14.
 
 "Up jumped Tokay" (poem quoted), 140.
 
-
 V
-
 
 [[Venice]], 131.
 
@@ -263,9 +273,7 @@ Victor of Sardinia, [[King]], 23.
 
 Vogler, Abt, 23.
 
-
 W
-
 
 _Water Babies_ (Kingsley), 8.
 
@@ -285,11 +293,9 @@ Wordsworth, 69, 136, 141, 143.
 
 Wordsworth Society, 129.
 
-
 Y
 
 "Youth and Art," 50, 109.
-
 
 Z
 
@@ -302,7 +308,6 @@ ENGLISH MEN OF LETTERS.
 NEW SERIES.
 
 _Crown 8vo. Gilt tops. Flat backs. 2s. net each._
-
 
     GEORGE ELIOT. By Sir LESLIE STEPHEN, K.C.B.
     HAZLITT. By AUGUSTINE BIRRELL, K.C.
@@ -324,11 +329,9 @@ _Crown 8vo. Gilt tops. Flat backs. 2s. net each._
     MRS. GASKELL. By CLEMENT SHORTER.
     THOMAS MOORE. By STEPHEN GWYNN.
 
-
 RE-ISSUE OF THE ORIGINAL SERIES
 
 _Library Edition. Uniform with the above. 2s. net each._
-
 
     ADDISON. By W.J. COURTHOPE.
     BACON. By Dean CHURCH.
@@ -369,35 +372,3 @@ _Library Edition. Uniform with the above. 2s. net each._
     SWIFT. By Sir LESLIE STEPHEN, K.C.B.
     THACKERAY. By ANTHONY TROLLOPE.
     WORDSWORTH. By F.W.H. MYERS.
-
-  MACMILLAN AND CO., LTD., [[London|LONDON]].
-
-       *       *       *       *       *
-
-ENGLISH MEN OF ACTION SERIES.
-
-[[Crown]] 8vo. Cloth. With Portraits. 2s. 6d. each.
-
-
-    CAMPBELL (COLIN). By ARCHIBALD FORBES.
-    CLIVE. By Sir CHARLES WILSON.
-    COOK (Captain). By Sir WALTER BESANT.
-    DAMPIER. By W. CLARK RUSSELL.
-    DRAKE. By JULIAN CORBETT.
-    DUNDONALD. By the Hon. J.W. FORTESCUE.
-    GORDON (General). By Sir W. BUTLER.
-    [[Hastings|HASTINGS]] (Warren). By Sir A. LYALL.
-    HAVELOCK (Sir Henry). By A. FORBES.
-    [[Henry V|HENRY V]]. By the Rev. A.J. CHURCH.
-    LAWRENCE (Lord). By Sir [[Richard|RICHARD]] TEMPLE.
-    LIVINGSTONE. By THOMAS HUGHES.
-    MONK. By JULIAN CORBETT.
-    MONTROSE. By [[Mowbray|MOWBRAY]] MORRIS.
-    NAPIER (Sir Charles). By Colonel Sir W. BUTLER.
-    NELSON. By Prof. J.K. LAUGHTON.
-    PETERBOROUGH. By W. STEBBING.
-    RODNEY. By DAVID HANNAY.
-    STRAFFORD. By H.D. TRAILL.
-    WARWICK, the [[King]]-Maker By C.W. OMAN.
-    WELLINGTON. By GEORGE HOOPER.
-    WOLFE. By A.G. BRADLEY.

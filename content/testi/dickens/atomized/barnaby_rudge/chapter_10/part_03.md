@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 10 (part 3)"
+title: "Barnaby Rudge — Chapter 10 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_10/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_10/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘So I have heard,’ returned the guest, taking a gold toothpick from his
+pocket with the same sweet smile. ‘A very disagreeable circumstance for
+the family.’
+
+‘Very,’ said John with a puzzled look, as if it occurred to him, dimly
+and afar off, that this might by possibility be a cool way of treating
+the subject.
+
+‘All the circumstances after a murder,’ said the guest soliloquising,
+‘must be dreadfully unpleasant--so much bustle and disturbance--no
+repose--a constant dwelling upon one subject--and the running in and
+out, and up and down stairs, intolerable. I wouldn’t have such a thing
+happen to anybody I was nearly interested in, on any account. ‘Twould
+be enough to wear one’s life out.--You were going to say, friend--’ he
+added, turning to John again.
 
 ‘Only that Mrs Rudge lives on a little pension from the family, and that
 Barnaby’s as free of the [[house]] as any cat or dog about it,’ answered
@@ -120,23 +136,3 @@ purpose, for he preserved the same conciliatory and pleasant look at all
 times. He drew his chair nearer to the [[Fire|fire]] though, as a kind of hint
 that he would prefer to be [[Alone|alone]], and John, having no reasonable excuse
 for remaining, left him to himself.
-
-Very thoughtful old John Willet was, while the dinner was preparing; and
-if his brain were ever less clear at one [[Time|time]] than another, it is but
-reasonable to suppose that he addled it in no slight degree by shaking
-his head so much that day. That Mr Chester, between whom and Mr
-Haredale, it was notorious to all the neighbourhood, a deep and bitter
-animosity existed, should come down there for the sole purpose, as it
-seemed, of seeing him, and should choose the Maypole for their place
-of meeting, and should send to him express, were stumbling blocks John
-could not overcome. The only resource he had, was to consult the boiler,
-and wait impatiently for Barnaby’s return.
-
-But Barnaby delayed beyond all precedent. The visitor’s dinner was
-served, removed, his wine was set, the [[Fire|fire]] replenished, the hearth
-clean swept; the light waned without, it grew dusk, became quite dark,
-and still no Barnaby appeared. Yet, though John Willet was full of
-[[Wonder|wonder]] and misgiving, his guest sat [[Cross|cross]]-legged in the easy-chair, to
-all appearance as little ruffled in his thoughts as in his dress--the
-same calm, easy, cool gentleman, without a care or thought beyond his
-golden toothpick.

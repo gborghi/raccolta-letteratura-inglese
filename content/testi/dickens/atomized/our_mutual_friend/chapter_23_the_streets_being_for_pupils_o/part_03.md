@@ -1,0 +1,153 @@
+---
+title: "Our Mutual Friend — Book 23: the streets being, for pupils of his degree, the great Preparatory (part 3)"
+author: "Dickens"
+unitType: excerpt
+parentWork: "works/our-mutual-friend-(dickens)"
+tags:
+  - graph/excerpt
+  - author/Dickens
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_23_the_streets_being_for_pupils_o/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_23_the_streets_being_for_pupils_o/part_04">part 04 ›</a></div>
+</nav>
+
+
+Small, shining, neat, methodical, and buxom was Miss Peecher;
+cherry-cheeked and tuneful of voice. A little pincushion, a little
+housewife, a little book, a little workbox, a little set of tables and
+weights and measures, and a little woman, all in one. She could write
+a little [[Essay|essay]] on any subject, exactly a slate long, beginning at the
+left-hand top of one side and ending at the right-hand [[Bottom|bottom]] of the
+other, and the [[Essay|essay]] should be strictly according to rule. If Mr Bradley
+Headstone had addressed a written proposal of [[Marriage|marriage]] to her, she would
+probably have replied in a complete little [[Essay|essay]] on the theme exactly a
+slate long, but would certainly have replied Yes. For she loved him. The
+decent hair-guard that went round his neck and took care of his decent
+silver watch was an object of envy to her. So would Miss Peecher have
+gone round his neck and taken care of him. Of him, insensible. Because
+he did not [[Love|love]] Miss Peecher.
+
+Miss Peecher’s favourite pupil, who assisted her in her little
+household, was in attendance with a can of [[Water|water]] to replenish her little
+watering-pot, and sufficiently divined the state of Miss Peecher’s
+affections to feel it necessary that she herself should [[Love|love]] young
+Charley Hexam. So, there was a [[Double|double]] palpitation among the [[Double|double]]
+stocks and [[Double|double]] wall-[[Flowers|flowers]], when the master and the boy looked over
+the little gate.
+
+‘A fine evening, Miss Peecher,’ said the Master.
+
+‘A very fine evening, Mr Headstone,’ said Miss Peecher. ‘Are you taking
+a walk?’
+
+‘Hexam and I are going to take a long walk.’
+
+‘Charming weather,’ remarked Miss Peecher, ‘FOR a long walk.’
+
+‘Ours is rather on business than mere pleasure,’ said the Master. Miss
+Peecher inverting her watering-pot, and very carefully shaking out the
+few last drops over a flower, as if there were some special virtue in
+them which would make it a Jack’s beanstalk before morning, called for
+replenishment to her pupil, who had been speaking to the boy.
+
+‘Good-[[Night|night]], Miss Peecher,’ said the Master.
+
+‘Good-[[Night|night]], Mr Headstone,’ said the Mistress.
+
+The pupil had been, in her state of pupilage, so imbued with the
+class-custom of stretching out an arm, as if to hail a cab or omnibus,
+whenever she found she had an observation on hand to offer to Miss
+Peecher, that she often did it in their domestic relations; and she did
+it now.
+
+‘[[Well]], Mary Anne?’ said Miss Peecher.
+
+‘If you please, ma’am, Hexam said they were going to see his sister.’
+
+‘But that can’t be, I think,’ returned Miss Peecher: ‘because Mr
+Headstone can have no business with HER.’
+
+Mary Anne again hailed.
+
+‘[[Well]], Mary Anne?’
+
+‘If you please, ma’am, perhaps it’s Hexam’s business?’
+
+‘That may be,’ said Miss Peecher. ‘I didn’t think of that. Not that it
+matters at all.’
+
+Mary Anne again hailed.
+
+‘[[Well]], Mary Anne?’
+
+‘They say she’s very handsome.’
+
+‘Oh, Mary Anne, Mary Anne!’ returned Miss Peecher, slightly colouring
+and shaking her head, a little out of [[Humour|humour]]; ‘how often have I told you
+not to use that vague expression, not to speak in that general way? When
+you say THEY say, what do you mean? Part of speech They?’
+
+Mary Anne hooked her right arm behind her in her left hand, as being
+under examination, and replied:
+
+‘Personal pronoun.’
+
+‘Person, They?’
+
+‘Third person.’
+
+‘Number, They?’
+
+‘Plural number.’
+
+‘Then how many do you mean, Mary Anne? Two? Or more?’
+
+‘I beg your pardon, ma’am,’ said Mary Anne, disconcerted now she came
+to think of it; ‘but I don’t know that I mean more than her brother
+himself.’ As she said it, she unhooked her arm.
+
+‘I felt convinced of it,’ returned Miss Peecher, smiling again. ‘Now
+pray, Mary Anne, be careful another [[Time|time]]. He says is very different from
+they say, remember. Difference between he says and they say? Give it
+me.’
+
+Mary Anne immediately hooked her right arm behind her in her left
+hand—an attitude absolutely necessary to the situation—and replied:
+‘One is indicative mood, present tense, third person singular, verb
+active to say. Other is indicative mood, present tense, third person
+plural, verb active to say.’
+
+‘Why verb active, Mary Anne?’
+
+‘Because it takes a pronoun after it in the objective case, Miss
+Peecher.’
+
+‘Very good indeed,’ remarked Miss Peecher, with encouragement. ‘In fact,
+could not be better. Don’t forget to apply it, another [[Time|time]], Mary Anne.’
+This said, Miss Peecher finished the watering of her [[Flowers|flowers]], and
+went into her little official residence, and took a refresher of the
+principal rivers and [[Mountains|mountains]] of the world, their breadths, depths, and
+heights, before settling the measurements of the [[Body|body]] of a dress for her
+own personal occupation.
+
+[[Bradley Headstone]] and Charley Hexam duly got to the Surrey side of
+Westminster Bridge, and crossed the bridge, and made along the Middlesex
+shore towards Millbank. In this region are a certain little street
+called Church Street, and a certain little blind square, called [[smith|Smith]]
+Square, in the centre of which last retreat is a very hideous church
+with four towers at the four corners, generally resembling some
+petrified [[Monster|monster]], frightful and gigantic, on its back with its legs
+in the air. They found a tree near by in a corner, and a blacksmith’s
+forge, and a timber yard, and a dealer’s in old iron. What a rusty
+portion of a boiler and a great iron [[Wheel|wheel]] or so meant by lying
+half-buried in the dealer’s fore-[[Court|court]], nobody seemed to know or to want
+to know. Like the Miller of questionable jollity in the [[Song|song]], They cared
+for Nobody, no not they, and Nobody cared for them.
+
+After making the round of this place, and noting that there was a deadly
+kind of repose on it, more as though it had taken laudanum than fallen
+into a natural rest, they stopped at the point where the street and the
+square joined, and where there were some little quiet houses in a row.
+To these Charley Hexam finally led the way, and at one of these stopped.

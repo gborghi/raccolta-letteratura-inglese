@@ -1,0 +1,71 @@
+---
+title: "WhatISawInAmerica — E.8.  You may charge a reasonable fee for copies of or providing"
+author: "Chesterton"
+unitType: story
+parentWork: "works/whatisawinamerica-(chesterton)"
+tags:
+  - graph/excerpt
+  - author/Chesterton
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/whatisawinamerica-(chesterton)">WhatISawInAmerica</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/whatisawinamerica/story_11_e_7_do_not_charge_a_fee_for_access_to_vi">‹ Story 11 E 7 Do not charge a fee for access to vi</a><a class="ex-next" href="/testi/chesterton/atomized/whatisawinamerica/story_13_e_9_if_you_wish_to_charge_a_fee_or_distr">Story 13 E 9 If you wish to charge a fee or distr ›</a></div>
+</nav>
+
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+
+access to or distributing Project Gutenberg-tm electronic works provided
+
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+
+     the use of Project Gutenberg-tm works calculated using the method
+
+     you already use to calculate your applicable taxes.  The fee is
+
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+
+     has agreed to donate royalties under this paragraph to the
+
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+
+     must be paid within 60 days following each date on which you
+
+     prepare (or are legally required to prepare) your periodic tax
+
+     returns.  Royalty payments should be clearly marked as such and
+
+     sent to the Project Gutenberg Literary Archive Foundation at the
+
+     address specified in Section 4, "Information about donations to
+
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+
+     does not agree to the terms of the full Project Gutenberg-tm
+
+     License.  You must require such a user to return or
+
+     destroy all copies of the works possessed in a physical medium
+
+     and discontinue all use of and all access to other copies of
+
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+
+     money paid for a work or a replacement copy, if a defect in the
+
+     electronic work is discovered and reported to you within 90 days
+
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+
+     distribution of Project Gutenberg-tm works.

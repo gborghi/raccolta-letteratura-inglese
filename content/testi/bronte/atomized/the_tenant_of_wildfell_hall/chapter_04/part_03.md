@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 4 (part 3)"
+title: "The Tenant of Wildfell Hall — Chapter 4 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_04/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_06/part_01">part 01 ›</a></div>
 </nav>
 
+
+under his feet.”
+
+
+
+He then entered more fully into the question, and explained at large
+
+the folly and impiety of such a proceeding. My mother heard him with
+
+profoundest reverence; and even Mrs. Wilson vouchsafed to rest her
+
+tongue for a moment, and listen in [[Silence|silence]], while she complacently
+
+sipped her gin-and-[[Water|water]]. Mr. Lawrence sat with his elbow on the table,
+
+carelessly playing with his half-empty wine-glass, and covertly smiling
 
 to himself.
 

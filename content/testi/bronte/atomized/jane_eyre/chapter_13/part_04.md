@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 13 (part 4)"
+title: "Jane Eyre — Chapter 13 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_13/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_14/part_01">part 01 ›</a></div>
 </nav>
 
+
+“That is not saying much. Your pleasures, by your own account, have
+been few; but I daresay you did exist in a kind of [[artist]]’s dreamland
+while you blent and arranged these strange tints. Did you sit at them
+long each day?”
 
 “I had nothing else to do, because it was the vacation, and I sat at
 them from morning till [[Noon|noon]], and from [[Noon|noon]] till [[Night|night]]: the length of

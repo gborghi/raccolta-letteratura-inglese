@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 13 (part 4)"
+title: "Wuthering Heights — Chapter 13 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_13/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_14/part_01">part 01 ›</a></div>
 </nav>
 
+
+The “rahm” was a kind of lumber-hole smelling strong of malt and grain;
+various sacks of which articles were piled around, leaving a wide, bare
+space in the middle.
+
+“Why, man,” I exclaimed, facing him angrily, “this is not a place to
+[[Sleep|sleep]] in. I wish to see my bed-room.”
 
 “_Bed-rume_!” he repeated, in a tone of mockery. “Yah’s see all t’
 _bed-rumes_ thear is—yon’s mine.”

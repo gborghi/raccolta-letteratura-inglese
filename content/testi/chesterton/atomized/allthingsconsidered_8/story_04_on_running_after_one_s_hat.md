@@ -1,5 +1,5 @@
 ---
-title: "[[AllThingsConsidered-8]] — ON RUNNING AFTER ONE'S HAT"
+title: "AllThingsConsidered-8 — ON RUNNING AFTER ONE'S HAT"
 author: "Chesterton"
 unitType: story
 parentWork: "works/allthingsconsidered-8-(chesterton)"
@@ -10,12 +10,11 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/allthingsconsidered-8-(chesterton)">AllThingsConsidered 8</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_03_the_fallacy_of_success">‹ Story 03 THE FALLACY OF SUCCESS</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_05_the_vote_and_the_house">Story 05 THE VOTE AND THE HOUSE ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_03_the_fallacy_of_success_success">‹ Story 03 THE FALLACY OF success SUCCESS</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_05_the_vote_and_the_house_house">Story 05 THE VOTE AND THE house HOUSE ›</a></div>
 </nav>
 
 
 ON RUNNING AFTER ONE'S HAT
-
 
 I feel an almost savage envy on hearing that [[London]] has been flooded
 in my absence, while I am in the mere country.  My own Battersea has been,

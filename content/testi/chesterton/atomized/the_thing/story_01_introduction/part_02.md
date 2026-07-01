@@ -35,7 +35,7 @@ refuse from a foreigner.  I can only plead that I have endeavoured
 to carry out the excellent patriotic principle of "See England First"
 in the equally patriotic paraphrase of "Criticize England First."
 I have been engaged upon it long enough to be quite [[Well|well]] aware that there
-are evils present in England that are relatively absent from [[America]];
+are evils present in England that are relatively absent from [[america|America]];
 and none more conspicuously absent, as Mr. Belloc has pointed out
 to the surprise of many, than the real, servile, superstitious,
 and mystical adoration of Money.
@@ -115,20 +115,3 @@ All these silly words like Service and Efficiency and Practicality
 and the rest fail because they worship the means and not the end.
 But it all comes back to whether we do propose to worship the end;
 and preferably the right end.
-
-Two other characteristic passages from Mr. Mencken will serve to show
-more sharply this curious sense in which he misses his own point.
-On the one hand, he appears to state most positively the purely
-personal and subjective [[Nature|nature]] of criticism; he makes it individual
-and almost irresponsible.  "The critic is first and last simply
-trying to express himself; he is trying to achieve thereby for
-his own inner ego the grateful feeling of a function performed,
-a tension relieved, a katharsis attained, which Wagner achieved when
-he wrote DIE WALKURIE, and a hen achieves every [[Time|time]] she lays an egg."
-That is all consistent enough as far as it goes; but unfortunately
-Mr. Mencken appears to go on to something quite inconsistent with it.
-According to the quotation, he afterwards bursts into a [[Song|song]]
-of triumph because there is now in [[America]] not only criticism,
-but controversy.  "To-day for the first [[Time|time]] in years there is strife
-in American criticism... ears are bitten off, noses are bloodied.
-There are wallops both above and below the belt."

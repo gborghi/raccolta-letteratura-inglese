@@ -14,6 +14,34 @@ tags:
 </nav>
 
 
+This explanation is plausible; but I do not find it adequate.
+The first objection is that the same smell of bathos haunts the [[Soul|soul]]
+in the case of all deliberate and elaborate visits to "[[Beauty|beauty]] spots,"
+even by persons of the most elegant position or the most
+protected privacy.  Specially visiting [[The Coliseum|the Coliseum]] by moonlight
+always struck me as being as vulgar as visiting it by limelight.
+One millionaire standing on the top of Mont Blanc, one millionaire
+standing in the [[Desert|desert]] by [[The Sphinx|the Sphinx]], one millionaire standing
+in the middle of Stonehenge, is just as comic as one millionaire
+is anywhere else; and that is saying a good deal.  On the other hand,
+if the billycock had come privately and naturally into Ely [[Cathedral]],
+no enthusiast for Gothic harmony would think of objecting to
+the billycock--so long, of course, as it was not worn on the head.
+But there is indeed a much deeper objection to this theory
+of the two incompatible excellences of antiquity and popularity.
+For the [[Truth|truth]] is that it has been almost entirely the antiquities
+that have normally interested the populace; and it has been almost
+entirely the populace who have systematically preserved the antiquities.
+The Oldest Inhabitant has always been a clodhopper; I have never
+heard of his being a gentleman.  It is the peasants who preserve
+all traditions of the sites of battles or the building of churches.
+It is they who remember, so far as any one remembers, the glimpses
+of fairies or the graver wonders of saints.  In the classes
+above them the [[Supernatural|supernatural]] has been slain by the supercilious.
+That is a true and tremendous text in Scripture which says that "where
+there is no vision the people perish."  But it is equally true
+in practice that where there is no people the visions perish.
+
 The idea must be abandoned, then, that this feeling of faint
 dislike towards popular sight-seeing is due to any inherent
 incompatibility between the idea of special shrines and
@@ -89,34 +117,3 @@ how a certain physical type involves a really bad man, but he may be
 quite wrong (he generally is) about which sort of man is really bad.
 Thus his whole argument is useless, for he understands only one half
 of the equation.
-
-The drearier kind of don may come to me and say, "Celts are unsuccessful;
-look at Irishmen, for instance."  To which I should reply,
-"You may know all about Celts; but it is obvious that you know
-nothing about Irishmen.  The Irish are not in the least unsuccessful,
-unless it is unsuccessful to wander from their own country over a great
-part of the earth, in which case the English are unsuccessful too."
-A man with a bumpy head may say to me (as a kind of New Year
-greeting), "Fools have microcephalous skulls," or what not.
-To which I shall reply, "In order to be certain of that, you must
-be a good judge both of the physical and of the mental fact.
-It is not enough that you should know a microcephalous skull
-when you see it.  It is also necessary that you should know a [[Fool|fool]]
-when you see him; and I have a suspicion that you do not know
-a [[Fool|fool]] when you see him, even after the most lifelong and intimate
-of all forms of acquaintanceship."
-
-The trouble with most sociologists, criminologists, etc., is that
-while their knowledge of their own details is exhaustive and subtle,
-their knowledge of man and society, to which these are to
-be applied, is quite exceptionally superficial and silly.
-They know everything about biology, but almost nothing about life.
-Their ideas of [[history]], for instance, are simply cheap and uneducated.
-Thus some famous and foolish professor measured the skull of
-Charlotte Corday to ascertain the criminal type; he had not historical
-knowledge enough to know that if there is any "criminal type,"
-certainly Charlotte Corday had not got it.  The skull, I believe,
-afterwards turned out not to be Charlotte Corday's at all;
-but that is another story.  The point is that the poor old man
-was trying to match Charlotte Corday's mind with her skull without
-knowing anything whatever about her mind.

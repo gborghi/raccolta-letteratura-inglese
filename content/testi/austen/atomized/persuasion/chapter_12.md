@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 12"
+title: "Persuasion — Chapter 12"
 author: "Austen"
 unitType: chapter
 parentWork: "works/persuasion-(austen)"
@@ -40,7 +40,7 @@ till Henrietta suddenly began again with—
 
 sea-air always does good. There can be no [[Doubt|doubt]] of its having been of
 
-the greatest service to Dr [[Shirley]], after his illness, last [[spring]]
+the greatest service to Dr [[Shirley]], after his illness, last [[Spring|spring]]
 
 twelvemonth. He declares himself, that coming to Lyme for a month, did
 

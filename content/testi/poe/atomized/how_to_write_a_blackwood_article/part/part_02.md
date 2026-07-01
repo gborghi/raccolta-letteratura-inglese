@@ -1,5 +1,5 @@
 ---
-title: "[[How to Write a Blackwood Article]] (part 2)"
+title: "How to Write a Blackwood Article (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/how-to-write-a-blackwood-article-(poe)"
@@ -13,6 +13,8 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/how_to_write_a_blackwood_article/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/how_to_write_a_blackwood_article/part/part_03">part 03 ›</a></div>
 </nav>
 
+
+      the politics. Upon my calling at Mr. B.‘s, and making known to
 
       him the wishes of the society, he received me with great
 
@@ -205,9 +207,3 @@ tags:
 
 
       “Then there is the tone elevated, diffusive, and interjectional.
-
-      Some of our best novelists patronize this tone. The words must be
-
-      all in a whirl, like a humming-top, and make a noise very
-
-      similar, which answers remarkably [[Well|well]] instead of meaning. This

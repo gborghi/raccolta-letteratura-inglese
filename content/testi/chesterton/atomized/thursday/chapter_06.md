@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 6"
+title: "thursday — Chapter 6"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/thursday-(chesterton)"
@@ -17,7 +17,6 @@ tags:
                           CHAPTER VI
 
                          THE EXPOSURE
-
 
 SUCH were the six men who had sworn to destroy the world.
 Again and again Syme strove to pull together his common sense
@@ -213,9 +212,7 @@ that the President was wrong and that the barrel-organ was right.
 There clanged in his mind that unanswerable and terrible truism
 in the [[Song|song]] of Roland--
 
-
 "Pagens ont tort et Chretiens ont droit."
-
 
 which in the old nasal French has the clang and groan of great iron.
 This liberation of his spirit from the load of his weakness went

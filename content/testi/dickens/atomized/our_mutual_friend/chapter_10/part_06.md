@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 5 (part 6)"
+title: "Our Mutual Friend — Chapter 6 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,125 +14,125 @@ tags:
 </nav>
 
 
-Mrs Boffin’s Fashion, as a less inexorable deity than the idol usually
-worshipped under that name, did not forbid her mixing for her literary
-guest, or asking if he found the result to his liking. On his returning
-a gracious answer and taking his place at the literary settle, Mr Boffin
-began to compose himself as a listener, at the opposite settle, with
-exultant eyes.
+Gaffer saw it, too, in so far as that he was moved when he set foot on
+shore, to stare around him. But, he promptly set to work to haul up his
+boat, and make her fast, and take the sculls and rudder and rope out of
+her. Carrying these with Lizzie’s aid, he passed up to his dwelling.
 
-‘Sorry to deprive you of a pipe, Wegg,’ he said, filling his own, ‘but
-you can’t do both together. Oh! and another thing I forgot to name! When
-you come in here of an evening, and look round you, and notice anything
-on a shelf that happens to catch your fancy, mention it.’
+‘Sit close to the [[Fire|fire]], father, dear, while I cook your breakfast.
+It’s all ready for cooking, and only been waiting for you. You must be
+frozen.’
 
-Wegg, who had been going to put on his spectacles, immediately laid them
-down, with the sprightly observation:
+‘[[Well]], Lizzie, I ain’t of a glow; that’s certain. And my hands seem
+nailed through to the sculls. See how dead they are!’ Something
+suggestive in their colour, and perhaps in her face, struck him as he
+held them up; he turned his shoulder and held them down to the [[Fire|fire]].
 
-‘You read my thoughts, sir. DO my eyes deceive me, or is that object up
-there a—a pie? It can’t be a pie.’
+‘You were not out in the perishing [[Night|night]], I [[Hope|hope]], father?’
 
-‘Yes, it’s a pie, Wegg,’ replied Mr Boffin, with a glance of some little
-discomfiture at the Decline and Fall.
+‘No, my dear. Lay aboard a barge, by a blazing coal-[[Fire|fire]].—Where’s that
+boy?’
 
-‘HAVE I lost my smell for fruits, or is it a apple pie, sir?’ asked
-Wegg.
+‘There’s a drop of brandy for your tea, father, if you’ll put it in
+while I turn this bit of meat. If the [[River|river]] was to get frozen, there
+would be a deal of distress; wouldn’t there, father?’
 
-‘It’s a veal and ham pie,’ said Mr Boffin.
+‘Ah! there’s always enough of that,’ said Gaffer, dropping the liquor
+into his cup from a squat black bottle, and dropping it slowly that it
+might seem more; ‘distress is for ever a going about, like sut in the
+air—Ain’t that boy up yet?’
 
-‘Is it indeed, sir? And it would be hard, sir, to name the pie that is
-a better pie than a weal and hammer,’ said Mr Wegg, nodding his head
-emotionally.
+‘The meat’s ready now, father. Eat it while it’s hot and comfortable.
+After you have finished, we’ll turn round to the [[Fire|fire]] and talk.’
 
-‘Have some, Wegg?’
+But, he perceived that he was evaded, and, having thrown a hasty angry
+glance towards the bunk, plucked at a corner of her apron and asked:
 
-‘Thank you, Mr Boffin, I think I will, at your invitation. I wouldn’t
-at any other party’s, at the present juncture; but at yours, sir!—And
-meaty jelly too, especially when a little salt, which is the case where
-there’s ham, is mellering to the organ, is very mellering to the organ.’
-Mr Wegg did not say what organ, but spoke with a cheerful generality.
+‘What’s gone with that boy?’
 
-So, the pie was brought down, and the worthy Mr Boffin exercised his
-patience until Wegg, in the exercise of his knife and fork, had finished
-the dish: only profiting by the opportunity to inform Wegg that although
-it was not strictly Fashionable to keep the contents of a larder thus
-exposed to view, he (Mr Boffin) considered it hospitable; for the
-reason, that instead of saying, in a comparatively unmeaning manner, to
-a visitor, ‘There are such and such edibles down stairs; will you have
-anything up?’ you took the bold practical course of saying, ‘Cast your
-eye along the shelves, and, if you see anything you like there, have it
-down.’
+‘Father, if you’ll begin your breakfast, I’ll sit by and tell you.’ He
+looked at her, stirred his tea and took two or three gulps, then cut at
+his piece of hot steak with his case-knife, and said, eating:
 
-And now, Mr Wegg at length pushed away his plate and put on his
-spectacles, and Mr Boffin lighted his pipe and looked with beaming
-eyes into the opening world before him, and Mrs Boffin reclined in a
-fashionable manner on her sofa: as one who would be part of the audience
-if she found she could, and would go to [[Sleep|sleep]] if she found she couldn’t.
+‘Now then. What’s gone with that boy?’
 
-‘Hem!’ began Wegg, ‘This, Mr Boffin and Lady, is the first chapter of
-the first wollume of the Decline and Fall off—’ here he looked hard at
-the book, and stopped.
+‘Don’t be angry, dear. It seems, father, that he has quite a gift of
+learning.’
 
-‘What’s the matter, Wegg?’
+‘Unnat’ral young beggar!’ said the parent, shaking his knife in the air.
 
-‘Why, it comes into my mind, do you know, sir,’ said Wegg with an air
-of insinuating frankness (having first again looked hard at the book),
-‘that you made a little mistake this morning, which I had meant to set
-you right in, only something put it out of my head. I think you said
-Rooshan Empire, sir?’
+‘And that having this gift, and not being equally good at other things,
+he has made shift to get some schooling.’
 
-‘It is Rooshan; ain’t it, Wegg?’
+’unnat’ral young beggar!’ said the parent again, with his former action.
 
-‘No, sir. Roman. Roman.’
+‘—And that knowing you have nothing to spare, father, and not wishing
+to be a burden on you, he gradually made up his mind to go seek his
+fortune out of learning. He went away this morning, father, and he cried
+very much at going, and he hoped you would forgive him.’
 
-‘What’s the difference, Wegg?’
+‘Let him never come a nigh me to ask me my [[Forgiveness|forgiveness]],’ said the
+father, again emphasizing his words with the knife. ‘Let him never come
+within sight of my eyes, nor yet within reach of my arm. His own father
+ain’t good enough for him. He’s disowned his own father. His own father
+therefore, disowns him for ever and ever, as a unnat’ral young beggar.’
 
-‘The difference, sir?’ Mr Wegg was faltering and in danger of breaking
-down, when a bright thought flashed upon him. ‘The difference, sir?
-There you place me in a difficulty, Mr Boffin. Suffice it to observe,
-that the difference is best postponed to some other occasion when Mrs
-Boffin does not [[Honour|honour]] us with her company. In Mrs Boffin’s presence,
-sir, we had better drop it.’
+He had pushed away his plate. With the natural need of a strong rough
+man in anger, to do something forcible, he now clutched his knife
+overhand, and struck downward with it at the end of every succeeding
+sentence. As he would have struck with his own clenched fist if there
+had chanced to be nothing in it.
 
-Mr Wegg thus came out of his disadvantage with quite a chivalrous air,
-and not only that, but by dint of repeating with a manly delicacy,
-‘In Mrs Boffin’s presence, sir, we had better drop it!’ turned the
-disadvantage on Boffin, who felt that he had committed himself in a very
-painful manner.
+‘He’s welcome to go. He’s more welcome to go than to stay. But let him
+never come back. Let him never put his head inside that door. And let
+you never speak a word more in his favour, or you’ll disown your own
+father, likewise, and what your father says of him he’ll have to come to
+say of you. Now I see why them men yonder held aloof from me. They says
+to one another, “Here comes the man as ain’t good enough for his own
+son!” Lizzie—!’
 
-Then, Mr Wegg, in a dry unflinching way, entered on his task; going
-straight across country at everything that came before him; taking all
-the hard words, biographical and geographical; getting rather shaken by
-Hadrian, Trajan, and the Antonines; stumbling at Polybius (pronounced
-Polly Beeious, and supposed by Mr Boffin to be a Roman virgin, and by
-Mrs Boffin to be responsible for that necessity of dropping it); heavily
-unseated by Titus Antoninus Pius; up again and galloping smoothly with
-Augustus; finally, getting over the ground [[Well|well]] with Commodus: who,
-under the appellation of Commodious, was held by Mr Boffin to have been
-quite unworthy of his English origin, and ‘not to have acted up to his
-name’ in his [[government]] of the Roman people. With the [[Death|death]] of this
-personage, Mr Wegg terminated his first reading; long before which
-consummation several total eclipses of Mrs Boffin’s candle behind
-her black velvet disc, would have been very alarming, but for being
-regularly accompanied by a potent smell of burnt pens when her feathers
-took [[Fire|fire]], which acted as a restorative and woke her. Mr Wegg, having
-read on by rote and attached as few ideas as possible to the text, came
-out of the encounter fresh; but, Mr Boffin, who had soon laid down his
-unfinished pipe, and had ever since sat intently staring with his eyes
-and mind at the confounding enormities of the Romans, was so severely
-punished that he could hardly wish his literary friend Good-[[Night|night]], and
-articulate ‘Tomorrow.’
+But, she stopped him with a cry. Looking at her he saw her, with a face
+quite strange to him, shrinking back against the wall, with her hands
+before her eyes.
 
-‘Commodious,’ gasped Mr Boffin, staring at the [[Moon|moon]], after letting
-Wegg out at the gate and fastening it: ‘Commodious fights in that
-wild-beast-show, seven hundred and thirty-five times, in one character
-only! As if that wasn’t stunning enough, a hundred lions is turned into
-the same wild-beast-show all at once! As if that wasn’t stunning enough,
-Commodious, in another character, kills ’em all off in a hundred goes!
-As if that wasn’t stunning enough, Vittle-us (and [[Well|well]] named too) eats
-six millions’ worth, English money, in seven months! Wegg takes it easy,
-but upon-my-[[Soul|soul]] to a old bird like myself these are scarers. And even
-now that Commodious is strangled, I don’t see a way to our bettering
-ourselves.’ Mr Boffin added as he turned his pensive steps towards the
-Bower and shook his head, ‘I didn’t think this morning there was half so
-many Scarers in Print. But I’m in for it now!’
+‘Father, don’t! I can’t bear to see you striking with it. Put it down!’
+
+He looked at the knife; but in his astonishment still held it.
+
+‘Father, it’s too horrible. O put it down, put it down!’
+
+Confounded by her appearance and exclamation, he tossed it away, and
+stood up with his open hands held out before him.
+
+‘What’s come to you, Liz? Can you think I would strike at you with a
+knife?’
+
+‘No, father, no; you would never hurt me.’
+
+‘What should I hurt?’
+
+‘Nothing, dear father. On my knees, I am certain, in my heart and [[Soul|soul]]
+I am certain, nothing! But it was too dreadful to bear; for it looked—’
+her hands covering her face again, ‘O it looked—’
+
+‘What did it look like?’
+
+The recollection of his murderous figure, combining with her trial of
+last [[Night|night]], and her trial of the morning, caused her to drop at his
+feet, without having answered.
+
+He had never seen her so before. He raised her with the utmost
+tenderness, calling her the best of daughters, and ‘my poor pretty
+creetur’, and laid her head upon his knee, and tried to restore her. But
+failing, he laid her head gently down again, got a pillow and placed it
+under her dark hair, and sought on the table for a spoonful of brandy.
+There being none left, he hurriedly caught up the empty bottle, and ran
+out at the door.
+
+He returned as hurriedly as he had gone, with the bottle still empty.
+He kneeled down by her, took her head on his arm, and moistened her lips
+with a little [[Water|water]] into which he dipped his fingers: saying, fiercely,
+as he looked around, now over this shoulder, now over that:
+
+‘Have we got a pest in the [[house]]? Is there summ’at deadly sticking to my
+clothes? What’s let loose upon us? Who loosed it?’

@@ -10,8 +10,13 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_08_vox_populi_vox_dei/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_10_the_character_of_quoodle/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_08_vox_populi_vox_dei/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_10_the_character_of_quoodle_quood/part_01">part 01 ›</a></div>
 </nav>
+
+
+Dalroy found himself, with some bewilderment, round the corner of a rock and in a long bore or barrel of blackness that ended in a very dim spot of green. Hearing the hoofs of the ass and the feet of his friend behind him, he turned his head, but could see nothing but the pitch darkness of a closed coal cellar. He turned again to the dim green speck, and marching forward was glad to see it grow larger and brighter, like a big emerald, till he came out on a throng of trees, mostly thin, but growing so thickly and so close to the cavernous entrance of the tunnel that it was quite clear the place was meant to be choked up by forests and forgotten. The light that came glimmering through the trees was so broken and tremulous that it was hard to tell whether it was daybreak or moonrise.
+
+
 
 
 “I know there’s [[Water|water]] here,” said Pump. “They couldn’t keep it out of the stone-work when they made the tunnel, and old Ivywood hit the hydraulic engineer with a spirit level. With the bit of covert here and the sea behind us we ought to be able to get food of one kind or another, when the [[cheese]] has given out, and donkeys can eat anything. By the way,” he added with some embarrassment, “you don’t mind my saying it, Captain, but I think we’d better keep that rum for rare occasions. It’s the best rum in England, and may be the last, if these mad games are going on. It’ll do us good to feel it’s there, so we can have it when we want it. The cask’s still nearly full.”

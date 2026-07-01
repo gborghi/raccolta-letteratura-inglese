@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 7 (part 4)"
+title: "The Professor — Chapter 7 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -14,13 +14,29 @@ tags:
 </nav>
 
 
+my thoughts, and likewise to frame in French the sentence by which I
+
+proposed to open business. I made it as short as possible:--
+
+“Messieurs, prenez vos livres de lecture.”
+
+“Anglais ou Francais, monsieur?” demanded a thickset, [[Moon|moon]]-faced young
+
+Flamand in a blouse. The answer was fortunately easy:--
+
+“Anglais.”
+
+I determined to give myself as little trouble as possible in this
+
+lesson; it would not do yet to trust my unpractised tongue with the
+
+delivery of explanations; my accent and idiom would be too open to the
+
 criticisms of the young gentlemen before me, relative to whom I felt
 
 already it would be necessary at once to take up an advantageous
 
 position, and I proceeded to employ means accordingly.
-
-
 
 “Commencez!” cried I, when they had all produced their books. The
 
@@ -52,8 +68,6 @@ rotation, and when the twelfth had concluded with splutter, hiss, and
 
 mumble, I solemnly laid down the book.
 
-
-
 “Arretez!” said I. There was a pause, during which I regarded them all
 
 with a steady and somewhat stern gaze; a dog, if stared at hard enough
@@ -66,11 +80,7 @@ were beginning to look sullen, and others ashamed, I slowly joined my
 
 hands, and ejaculated in a deep “voix de poitrine”--
 
-
-
 “Comme c’est affreux!”
-
-
 
 They looked at each other, pouted, coloured, swung their heels; they
 
@@ -83,8 +93,6 @@ I wished them to be. Having thus taken them down a peg in their
 a very easy thing, considering that I hardly dared to speak for [[Fear|fear]] of
 
 betraying my own deficiencies.
-
-
 
 “Ecoutez, messieurs!” said I, and I endeavoured to throw into my
 
@@ -102,27 +110,19 @@ attention; by the [[Time|time]] I had done nearly an hour had elapsed. I then
 
 [[Rose|rose]] and said:--
 
-
-
 “C’est assez pour aujourd’hui, messieurs; demain nous recommencerons, et
 
 j’espere que tout ira bien.”
 
-
-
 With this oracular sentence I bowed, and in company with M. Pelet
 
 quitted the school-room.
-
-
 
 “C’est bien! c’est tres bien!” said my principal as we entered his
 
 parlour. “Je vois que monsieur a de l’adresse; cela, me plait, car, dans
 
 l’instruction, l’adresse fait tout autant que le savoir.”
-
-
 
 From the parlour M. Pelet conducted me to my apartment, my “chambre,”
 
@@ -146,15 +146,11 @@ it would present if disencumbered of the boards. M. Pelet read, I
 
 suppose, the expression of my eye; he explained:--
 
-
-
 “La fenetre fermee donne sur un jardin appartenant a un pensionnat
 
 de demoiselles,” said he, “et les convenances exigent--enfin, vous
 
 comprenez--n’est-ce pas, monsieur?”
-
-
 
 “Oui, oui,” was my reply, and I looked of course quite satisfied; but
 
@@ -197,21 +193,3 @@ which I imagined to lie beyond. I knew a tree grew close up to the
 at [[Night|night]] the tapping of branches against the panes. In the daytime,
 
 when I listened attentively, I could hear, even through the boards, the
-
-voices of the demoiselles in their hours of recreation, and, to speak
-
-the honest [[Truth|truth]], my sentimental reflections were occasionally a trifle
-
-disarranged by the not quite silvery, in fact the too often brazen
-
-sounds, which, rising from the unseen paradise below, penetrated
-
-clamorously into my [[Solitude|solitude]]. Not to mince matters, it really seemed to
-
-me a doubtful case whether the lungs of Mdlle. Reuter’s girls or those
-
-of M. Pelet’s boys were the strongest, and when it came to shrieking
-
-the girls indisputably beat the boys hollow. I forgot to say, by-the-by,
-
-that Reuter was the name of the old lady who had had my [[Window|window]] bearded

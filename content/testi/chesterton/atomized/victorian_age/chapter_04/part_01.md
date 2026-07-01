@@ -16,13 +16,7 @@ tags:
 
 CHAPTER IV
 
-
-
 THE BREAK-UP OF THE COMPROMISE
-
-
-
-
 
 If it be curiously and carefully considered it will, I think, appear
 
@@ -79,8 +73,6 @@ outposts, as it seemed, for ever. Neither was strong enough to expel the
 other; and Victorian England was in a state which some call liberty and
 
 some call lockjaw.
-
-
 
 But the situation can be stated another way. There came a [[Time|time]], roughly
 
@@ -189,9 +181,3 @@ bad in it abode and clung like clay. The magnificent emancipation
 evaporated; the mean calculation remained. One could still calculate in
 
 clear statistical tables, how many men lived, how many men died. One
-
-must not ask how they lived; for that is politics. One must not ask how
-
-they died; for that is religion. And religion and politics were ruled
-
-out of all the Later Victorian debating clubs; even including the

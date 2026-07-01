@@ -1,5 +1,5 @@
 ---
-title: "Hard Times — Chapter 3"
+title: "Hard Times — Chapter 5"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/hard-times-(dickens)"
@@ -14,218 +14,280 @@ tags:
 </nav>
 
 
-CHAPTER III
-THE WHELP
+CHAPTER V
+MEN AND MASTERS
 
 
-IT was very remarkable that a young gentleman who had been brought up
-under one continuous system of unnatural restraint, should be a
-hypocrite; but it was certainly the case with Tom.  It was very strange
-that a young gentleman who had never been left to his own guidance for
-five consecutive minutes, should be incapable at last of governing
-himself; but so it was with Tom.  It was altogether unaccountable that a
-young gentleman whose [[Imagination|imagination]] had been strangled in his cradle,
-should be still inconvenienced by its [[Ghost|ghost]] in the form of grovelling
-sensualities; but such a [[Monster|monster]], beyond all [[Doubt|doubt]], was Tom.
+‘[[Well|WELL]], Stephen,’ said Bounderby, in his windy manner, ‘what’s this I
+hear?  What have these pests of the earth been doing to _you_?  Come in,
+and speak up.’
 
-‘Do you smoke?’ asked Mr. [[James Harthouse]], when they came to the hotel.
+It was into the drawing-room that he was thus bidden.  A tea-table was
+set out; and Mr. Bounderby’s young wife, and her brother, and a great
+gentleman from [[London]], were present.  To whom Stephen made his obeisance,
+closing the door and standing near it, with his hat in his hand.
 
-‘I believe you!’ said Tom.
+‘This is the man I was telling you about, Harthouse,’ said Mr. Bounderby.
+The gentleman he addressed, who was talking to Mrs. Bounderby on the
+sofa, got up, saying in an indolent way, ‘Oh really?’ and dawdled to the
+hearthrug where Mr. Bounderby stood.
 
-He could do no less than ask Tom up; and Tom could do no less than go up.
-What with a cooling drink adapted to the weather, but not so weak as
-cool; and what with a rarer tobacco than was to be bought in those parts;
-Tom was soon in a highly free and easy state at his end of the sofa, and
-more than ever disposed to admire his new friend at the other end.
+‘Now,’ said Bounderby, ‘speak up!’
 
-Tom blew his smoke aside, after he had been smoking a little while, and
-took an observation of his friend.  ‘He don’t seem to care about his
-dress,’ thought Tom, ‘and yet how capitally he does it.  What an easy
-swell he is!’
+After the four days he had passed, this address fell rudely and
+discordantly on Stephen’s ear.  Besides being a rough handling of his
+wounded mind, it seemed to assume that he really was the [[Self|self]]-interested
+deserter he had been called.
 
-Mr. [[James Harthouse]], happening to catch Tom’s eye, remarked that he drank
-nothing, and filled his glass with his own negligent hand.
+‘What were it, sir,’ said Stephen, ‘as yo were pleased to want wi’ me?’
 
-‘Thank’ee,’ said Tom.  ‘Thank’ee.  [[Well]], Mr. Harthouse, I [[Hope|hope]] you have
-had about a dose of old Bounderby to-[[Night|night]].’  Tom said this with one eye
-shut up again, and looking over his glass knowingly, at his entertainer.
+‘Why, I have told you,’ returned Bounderby.  ‘Speak up like a man, since
+you are a man, and tell us about yourself and this Combination.’
 
-‘A very good fellow indeed!’ returned Mr. [[James Harthouse]].
+‘Wi’ yor pardon, sir,’ said [[Stephen Blackpool]], ‘I ha’ nowt to sen about
+it.’
 
-‘You think so, don’t you?’ said Tom.  And shut up his eye again.
+Mr. Bounderby, who was always more or less like a [[Wind]], finding something
+in his way here, began to blow at it directly.
 
-Mr. [[James Harthouse]] smiled; and rising from his end of the sofa, and
-lounging with his back against the chimney-piece, so that he stood before
-the empty [[Fire|fire]]-grate as he smoked, in front of Tom and looking down at
-him, observed:
+‘Now, look here, Harthouse,’ said he, ‘here’s a specimen of ’em.  When
+this man was here once before, I warned this man against the mischievous
+strangers who are always about—and who ought to be hanged wherever they
+are found—and I told this man that he was going in the wrong direction.
+Now, would you believe it, that although they have put this mark upon
+him, he is such a slave to them still, that he’s afraid to open his lips
+about them?’
 
-‘What a comical brother-in-law you are!’
+‘I sed as I had nowt to sen, sir; not as I was fearfo’ o’ openin’ my
+lips.’
 
-‘What a comical brother-in-law old Bounderby is, I think you mean,’ said
-Tom.
+‘You said!  Ah!  _I_ know what you said; more than that, I know what you
+mean, you see.  Not always the same thing, by the Lord Harry!  Quite
+different things.  You had better tell us at once, that that fellow
+Slackbridge is not in the town, stirring up the people to mutiny; and
+that he is not a regular qualified leader of the people: that is, a most
+confounded scoundrel.  You had better tell us so at once; you can’t
+deceive me.  You want to tell us so.  Why don’t you?’
 
-‘You are a piece of caustic, Tom,’ retorted Mr. [[James Harthouse]].
+‘I’m as sooary as yo, sir, when the people’s leaders is bad,’ said
+Stephen, shaking his head.  ‘They taks such as offers.  Haply ’tis na’
+the sma’est o’ their misfortuns when they can get no better.’
 
-There was something so very agreeable in being so intimate with such a
-waistcoat; in being called Tom, in such an intimate way, by such a voice;
-in being on such off-hand terms so soon, with such a pair of whiskers;
-that Tom was uncommonly pleased with himself.
+The [[Wind|wind]] began to get boisterous.
 
-‘Oh!  I don’t care for old Bounderby,’ said he, ‘if you mean that.  I
-have always called old Bounderby by the same name when I have talked
-about him, and I have always thought of him in the same way.  I am not
-going to begin to be polite now, about old Bounderby.  It would be rather
-late in the day.’
+‘Now, you’ll think this pretty [[Well|well]], Harthouse,’ said Mr. Bounderby.
+‘You’ll think this tolerably strong.  You’ll say, upon my [[Soul|soul]] this is a
+tidy specimen of what my friends have to deal with; but this is nothing,
+sir!  You shall hear me ask this man a question.  Pray, Mr.
+Blackpool’—[[Wind|wind]] springing up very fast—‘may I take the liberty of asking
+you how it happens that you refused to be in this Combination?’
 
-‘Don’t mind me,’ returned James; ‘but take care when his wife is by, you
-know.’
+‘How ’t happens?’
 
-‘His wife?’ said Tom.  ‘My sister Loo?  O yes!’  And he laughed, and took
-a little more of the cooling drink.
+‘Ah!’ said Mr. Bounderby, with his thumbs in the arms of his coat, and
+jerking his head and shutting his eyes in confidence with the opposite
+wall: ‘how it happens.’
 
-[[James Harthouse]] continued to lounge in the same place and attitude,
-smoking his cigar in his own easy way, and looking pleasantly at the
-whelp, as if he knew himself to be a kind of agreeable demon who had only
-to hover over him, and he must give up his whole [[Soul|soul]] if required.  It
-certainly did seem that the whelp yielded to this influence.  He looked
-at his companion sneakingly, he looked at him admiringly, he looked at
-him boldly, and put up one leg on the sofa.
+‘I’d leefer not coom to ’t, sir; but sin you put th’ question—an’ not
+want’n t’ be ill-manner’n—I’ll answer.  I ha passed a promess.’
 
-‘My sister Loo?’ said Tom.  ‘_She_ never cared for old Bounderby.’
+‘Not to me, you know,’ said Bounderby.  (Gusty weather with deceitful
+calms.  One now prevailing.)
 
-‘That’s the past tense, Tom,’ returned Mr. [[James Harthouse]], striking the
-ash from his cigar with his little finger.  ‘We are in the present tense,
-now.’
+‘O no, sir.  Not to yo.’
 
-‘Verb neuter, not to care.  Indicative mood, present tense.  First person
-singular, I do not care; second person singular, thou dost not care;
-third person singular, she does not care,’ returned Tom.
+‘As for me, any consideration for me has had just nothing at all to do
+with it,’ said Bounderby, still in confidence with the wall.  ‘If only
+[[Josiah Bounderby]] of Coketown had been in question, you would have joined
+and made no bones about it?’
 
-‘Good!  Very quaint!’ said his friend.  ‘Though you don’t mean it.’
+‘Why yes, sir.  ’Tis true.’
 
-‘But I _do_ mean it,’ cried Tom.  ‘Upon my [[Honour|honour]]!  Why, you won’t tell
-me, Mr. Harthouse, that you really suppose my sister Loo does care for
-old Bounderby.’
+‘Though he knows,’ said Mr. Bounderby, now blowing a gale, ‘that there
+are a set of rascals and rebels whom transportation is too good for!
+Now, Mr. Harthouse, you have been knocking about in the world some [[Time|time]].
+Did you ever meet with anything like that man out of this blessed
+country?’  And Mr. Bounderby pointed him out for inspection, with an
+angry finger.
 
-‘My dear fellow,’ returned the other, ‘what am I bound to suppose, when I
-find two married people living in harmony and happiness?’
+‘Nay, ma’am,’ said [[Stephen Blackpool]], staunchly protesting against the
+words that had been used, and instinctively addressing himself to Louisa,
+after glancing at her face.  ‘Not rebels, nor yet rascals.  Nowt o’ th’
+kind, ma’am, nowt o’ th’ kind.  They’ve not doon me a kindness, ma’am, as
+I know and feel.  But there’s not a dozen men amoong ’em, ma’am—a dozen?
+Not six—but what believes as he has doon his duty by the rest and by
+himseln.  God forbid as I, that ha’ known, and had’n experience o’ these
+men aw my life—I, that ha’ ett’n an’ droonken wi’ ’em, an’ seet’n wi’
+’em, and toil’n wi’ ’em, and lov’n ’em, should fail fur to stan by ’em
+wi’ the [[Truth|truth]], let ’em ha’ doon to me what they may!’
 
-Tom had by this [[Time|time]] got both his legs on the sofa.  If his second leg
-had not been already there when he was called a dear fellow, he would
-have put it up at that great stage of the conversation.  Feeling it
-necessary to do something then, he stretched himself out at greater
-length, and, reclining with the back of his head on the end of the sofa,
-and smoking with an infinite assumption of negligence, turned his common
-face, and not too sober eyes, towards the face looking down upon him so
-carelessly yet so potently.
+He spoke with the rugged earnestness of his place and character—deepened
+perhaps by a proud consciousness that he was faithful to his class under
+all their mistrust; but he fully remembered where he was, and did not
+even raise his voice.
 
-‘You know our governor, Mr. Harthouse,’ said Tom, ‘and therefore, you
-needn’t be surprised that Loo married old Bounderby.  She never had a
-[[Lover|lover]], and the governor proposed old Bounderby, and she took him.’
+‘No, ma’am, no.  They’re true to one another, faithfo’ to one another,
+’fectionate to one another, e’en to [[Death|death]].  Be poor amoong ’em, be sick
+amoong ’em, grieve amoong ’em for onny o’ th’ monny causes that carries
+grief to the poor man’s door, an’ they’ll be tender wi’ yo, gentle wi’
+yo, comfortable wi’ yo, Chrisen wi’ yo.  Be sure o’ that, ma’am.  They’d
+be riven to bits, ere ever they’d be different.’
 
-‘Very dutiful in your interesting sister,’ said Mr. [[James Harthouse]].
+‘In short,’ said Mr. Bounderby, ‘it’s because they are so full of virtues
+that they have turned you adrift.  Go through with it while you are about
+it.  Out with it.’
 
-‘Yes, but she wouldn’t have been as dutiful, and it would not have come
-off as easily,’ returned the whelp, ‘if it hadn’t been for me.’
+‘How ’tis, ma’am,’ resumed Stephen, appearing still to find his natural
+refuge in Louisa’s face, ‘that what is best in us fok, seems to turn us
+most to trouble an’ misfort’n an’ mistake, I dunno.  But ’tis so.  I know
+’tis, as I know the heavens is over me ahint the smoke.  We’re patient
+too, an’ wants in general to do right.  An’ I canna think the fawt is aw
+wi’ us.’
 
-The tempter merely lifted his eyebrows; but the whelp was obliged to go
-on.
+‘Now, my friend,’ said Mr. Bounderby, whom he could not have exasperated
+more, quite unconscious of it though he was, than by seeming to appeal to
+any one else, ‘if you will favour me with your attention for half a
+minute, I should like to have a word or two with you.  You said just now,
+that you had nothing to tell us about this business.  You are quite sure
+of that before we go any further.’
 
-‘_I_ persuaded her,’ he said, with an edifying air of superiority.  ‘I
-was stuck into old Bounderby’s bank (where I never wanted to be), and I
-knew I should get into scrapes there, if she put old Bounderby’s pipe
-out; so I told her my wishes, and she came into them.  She would do
-anything for me.  It was very game of her, wasn’t it?’
+‘Sir, I am sure on ’t.’
 
-‘It was charming, Tom!’
+‘Here’s a gentleman from [[London]] present,’ Mr. Bounderby made a backhanded
+point at Mr. [[James Harthouse]] with his thumb, ‘a Parliament gentleman.  I
+should like him to hear a short bit of dialogue between you and me,
+instead of taking the substance of it—for I know precious [[Well|well]],
+beforehand, what it will be; nobody knows better than I do, take
+notice!—instead of receiving it on trust from my mouth.’
 
-‘Not that it was altogether so important to her as it was to me,’
-continued Tom coolly, ‘because my liberty and comfort, and perhaps my
-getting on, depended on it; and she had no other [[Lover|lover]], and staying at
-[[Home|home]] was like staying in jail—especially when I was gone.  It wasn’t as
-if she gave up another [[Lover|lover]] for old Bounderby; but still it was a good
-thing in her.’
+Stephen bent his head to the gentleman from [[London]], and showed a rather
+more troubled mind than usual.  He turned his eyes involuntarily to his
+former refuge, but at a look from that quarter (expressive though
+instantaneous) he settled them on Mr. Bounderby’s face.
 
-‘Perfectly delightful.  And she gets on so placidly.’
+‘Now, what do you complain of?’ asked Mr. Bounderby.
 
-‘Oh,’ returned Tom, with contemptuous patronage, ‘she’s a regular girl.
-A girl can get on anywhere.  She has settled down to the life, and _she_
-don’t mind.  It does just as [[Well|well]] as another.  Besides, though Loo is a
-girl, she’s not a common sort of girl.  She can shut herself up within
-herself, and think—as I have often known her sit and watch the [[Fire|fire]]—for
-an hour at a stretch.’
+‘I ha’ not coom here, sir,’ Stephen reminded him, ‘to complain.  I coom
+for that I were sent for.’
 
-‘Ay, ay?  Has resources of her own,’ said Harthouse, smoking quietly.
+‘What,’ repeated Mr. Bounderby, folding his arms, ‘do you people, in a
+general way, complain of?’
 
-‘Not so much of that as you may suppose,’ returned Tom; ‘for our governor
-had her crammed with all sorts of dry bones and sawdust.  It’s his
-system.’
+Stephen looked at him with some little irresolution for a moment, and
+then seemed to make up his mind.
 
-‘Formed his daughter on his own model?’ suggested Harthouse.
+‘Sir, I were never good at showin o ’t, though I ha had’n my share in
+feeling o ’t.  ’Deed we are in a muddle, sir.  Look round town—so rich as
+’tis—and see the numbers o’ people as has been broughten into bein heer,
+fur to weave, an’ to card, an’ to piece out a livin’, aw the same one
+way, somehows, ’twixt their cradles and their graves.  Look how we live,
+an’ wheer we live, an’ in what numbers, an’ by what chances, and wi’ what
+sameness; and look how the mills is awlus a goin, and how they never
+works us no nigher to ony dis’ant object—ceptin awlus, [[Death]].  Look how
+you considers of us, and writes of us, and talks of us, and goes up wi’
+yor deputations to Secretaries o’ State ’bout us, and how yo are awlus
+right, and how we are awlus wrong, and never had’n no reason in us sin
+ever we were born.  Look how this ha growen an’ growen, sir, bigger an’
+bigger, broader an’ broader, harder an’ harder, fro year to year, fro
+generation unto generation.  Who can look on ’t, sir, and fairly tell a
+man ’tis not a muddle?’
 
-‘His daughter?  Ah! and everybody else.  Why, he formed Me that way!’
-said Tom.
+‘Of course,’ said Mr. Bounderby.  ‘Now perhaps you’ll let the gentleman
+know, how you would set this muddle (as you’re so fond of calling it) to
+rights.’
 
-‘Impossible!’
+‘I donno, sir.  I canna be expecten to ’t.  ’Tis not me as should be
+looken to for that, sir.  ’Tis them as is put ower me, and ower aw the
+rest of us.  What do they tak upon themseln, sir, if not to do’t?’
 
-‘He did, though,’ said Tom, shaking his head.  ‘I mean to say, Mr.
-Harthouse, that when I first left [[Home|home]] and went to old Bounderby’s, I was
-as flat as a warming-pan, and knew no more about life, than any oyster
-does.’
+‘I’ll tell you something towards it, at any rate,’ returned Mr.
+Bounderby.  ‘We will make an example of half a dozen Slackbridges.  We’ll
+indict the blackguards for felony, and get ’em shipped off to penal
+settlements.’
 
-‘Come, Tom!  I can hardly believe that.  A joke’s a joke.’
+Stephen gravely shook his head.
 
-‘Upon my [[Soul|soul]]!’ said the whelp.  ‘I am serious; I am indeed!’  He smoked
-with great gravity and dignity for a little while, and then added, in a
-highly complacent tone, ‘Oh!  I have picked up a little since.  I don’t
-deny that.  But I have done it myself; no thanks to the governor.’
+‘Don’t tell me we won’t, man,’ said Mr. Bounderby, by this [[Time|time]] blowing a
+hurricane, ‘because we will, I tell you!’
 
-‘And your intelligent sister?’
+‘Sir,’ returned Stephen, with the quiet confidence of absolute certainty,
+‘if yo was t’ tak a hundred Slackbridges—aw as there is, and aw the
+number ten times towd—an’ was t’ sew ’em up in separate sacks, an’ sink
+’em in the deepest ocean as were made ere ever dry land coom to be, yo’d
+leave the muddle just wheer ’tis.  Mischeevous strangers!’ said Stephen,
+with an anxious smile; ‘when ha we not heern, I am sure, sin ever we can
+call to mind, o’ th’ mischeevous strangers!  ’Tis not by _them_ the
+trouble’s made, sir.  ’Tis not wi’ _them_ ’t commences.  I ha no favour
+for ’em—I ha no reason to favour ’em—but ’tis hopeless and useless to
+dream o’ takin them fro their trade, ’stead o’ takin their trade fro
+them!  Aw that’s now about me in this room were heer afore I coom, an’
+will be heer when I am gone.  Put that [[Clock|clock]] aboard a [[Ship|ship]] an’ pack it
+off to Norfolk Island, an’ the [[Time|time]] will go on just the same.  So ’tis
+wi’ Slackbridge every bit.’
 
-‘My intelligent sister is about where she was.  She used to complain to
-me that she had nothing to fall back upon, that girls usually fall back
-upon; and I don’t see how she is to have got over that since.  But _she_
-don’t mind,’ he sagaciously added, puffing at his cigar again.  ‘Girls
-can always get on, somehow.’
+Reverting for a moment to his former refuge, he observed a cautionary
+movement of her eyes towards the door.  Stepping back, he put his hand
+upon the lock.  But he had not spoken out of his own will and [[Desire|desire]]; and
+he felt it in his heart a noble return for his late injurious treatment
+to be faithful to the last to those who had repudiated him.  He stayed to
+finish what was in his mind.
 
-‘Calling at the Bank yesterday evening, for Mr. Bounderby’s address, I
-found an ancient lady there, who seems to entertain great admiration for
-your sister,’ observed Mr. [[James Harthouse]], throwing away the last small
-remnant of the cigar he had now smoked out.
+‘Sir, I canna, wi’ my little learning an’ my common way, tell the
+genelman what will better aw this—though some working men o’ this town
+could, above my powers—but I can tell him what I know will never do ’t.
+The strong hand will never do ’t.  Vict’ry and triumph will never do ’t.
+Agreeing fur to mak one side unnat’rally awlus and for ever right, and
+toother side unnat’rally awlus and for ever wrong, will never, never do
+’t.  Nor yet lettin [[Alone|alone]] will never do ’t.  Let thousands upon thousands
+[[Alone|alone]], aw leading the like lives and aw faw’en into the like muddle, and
+they will be as one, and yo will be as anoother, wi’ a black unpassable
+world betwixt yo, just as long or short a [[Time|time]] as sich-like misery can
+last.  Not drawin nigh to fok, wi’ kindness and patience an’ cheery ways,
+that so draws nigh to one another in their monny troubles, and so
+cherishes one another in their distresses wi’ what they need
+themseln—like, I humbly believe, as no people the genelman ha seen in aw
+his travels can beat—will never do ’t till th’ Sun turns t’ ice.  Most o’
+aw, rating ’em as so much Power, and reg’latin ’em as if they was figures
+in a soom, or machines: wi’out loves and likens, wi’out memories and
+inclinations, wi’out souls to weary and souls to [[Hope|hope]]—when aw goes quiet,
+draggin on wi’ ’em as if they’d nowt o’ th’ kind, and when aw goes
+onquiet, reproachin ’em for their want o’ sitch humanly feelins in their
+dealins wi’ yo—this will never do ’t, sir, till God’s work is onmade.’
 
-‘Mother Sparsit!’ said Tom.  ‘What! you have seen her already, have you?’
+Stephen stood with the open door in his hand, waiting to know if anything
+more were expected of him.
 
-His friend nodded.  Tom took his cigar out of his mouth, to shut up his
-eye (which had grown rather unmanageable) with the greater expression,
-and to tap his nose several times with his finger.
+‘Just stop a moment,’ said Mr. Bounderby, excessively red in the face.
+‘I told you, the last [[Time|time]] you were here with a grievance, that you had
+better turn about and come out of that.  And I also told you, if you
+remember, that I was up to the gold spoon look-out.’
 
-‘Mother Sparsit’s feeling for Loo is more than admiration, I should
-think,’ said Tom.  ‘Say affection and devotion.  Mother Sparsit never set
-her cap at Bounderby when he was a bachelor.  Oh no!’
+‘I were not up to ’t myseln, sir; I do assure yo.’
 
-These were the last words spoken by the whelp, before a giddy drowsiness
-came upon him, followed by complete oblivion.  He was roused from the
-latter state by an uneasy dream of being stirred up with a boot, and also
-of a voice saying: ‘Come, it’s late.  Be off!’
+‘Now it’s clear to me,’ said Mr. Bounderby, ‘that you are one of those
+chaps who have always got a grievance.  And you go about, sowing it and
+raising crops.  That’s the business of _your_ life, my friend.’
 
-‘[[Well]]!’ he said, scrambling from the sofa.  ‘I must take my leave of you
-though.  I say.  Yours is very good tobacco.  But it’s too mild.’
+Stephen shook his head, mutely protesting that indeed he had other
+business to do for his life.
 
-‘Yes, it’s too mild,’ returned his entertainer.
+‘You are such a waspish, raspish, ill-conditioned chap, you see,’ said
+Mr. Bounderby, ‘that even your own [[Union]], the men who know you best, will
+have nothing to do with you.  I never thought those fellows could be
+right in anything; but I tell you what!  I so far go along with them for
+a novelty, that _I_’ll have nothing to do with you either.’
 
-‘It’s—it’s ridiculously mild,’ said Tom.  ‘Where’s the door!  Good
-[[Night|night]]!’
+Stephen raised his eyes quickly to his face.
 
-He had another odd dream of being taken by a waiter through a mist,
-which, after giving him some trouble and difficulty, resolved itself into
-the main street, in which he stood [[Alone|alone]].  He then walked [[Home|home]] pretty
-easily, though not yet free from an impression of the presence and
-influence of his new friend—as if he were lounging somewhere in the air,
-in the same negligent attitude, regarding him with the same look.
+‘You can finish off what you’re at,’ said Mr. Bounderby, with a meaning
+nod, ‘and then go elsewhere.’
 
-The whelp went [[Home|home]], and went to bed.  If he had had any sense of what he
-had done that [[Night|night]], and had been less of a whelp and more of a brother,
-he might have turned short on the [[Road|road]], might have gone down to the
-ill-smelling [[River|river]] that was dyed black, might have gone to bed in it for
-good and all, and have curtained his head for ever with its filthy
-waters.
+‘Sir, yo know weel,’ said Stephen expressively, ‘that if I canna get work
+wi’ yo, I canna get it elsewheer.’
+
+The reply was, ‘What I know, I know; and what you know, you know.  I have
+no more to say about it.’
+
+Stephen glanced at Louisa again, but her eyes were raised to his no more;
+therefore, with a sigh, and saying, barely above his breath, ‘Heaven help
+us aw in this world!’ he departed.

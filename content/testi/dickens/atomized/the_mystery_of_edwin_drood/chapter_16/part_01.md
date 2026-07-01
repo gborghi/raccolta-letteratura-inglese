@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 15 (part 1)"
+title: "The Mystery of Edwin Drood — Chapter 15 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -135,6 +135,3 @@ into the midst of a little group of people. The men who had turned back
 were among the group; and its central figures were Mr. Jasper and Mr.
 Crisparkle. Neville’s conductors took him up to the Minor Canon, and
 there released him, as an act of deference to that gentleman.
-
-“What is all this, sir? What is the matter? I feel as if I had lost my
-senses!” cried Neville, the group closing in around him.

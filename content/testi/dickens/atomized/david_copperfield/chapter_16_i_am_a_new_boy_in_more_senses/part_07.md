@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 16: I AM A NEW BOY IN MORE SENSES THAN ONE (part 7)"
+title: "David Copperfield — Chapter 16: I AM A NEW BOY IN MORE SENSES THAN ONE (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,61 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_16_i_am_a_new_boy_in_more_senses/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_16_i_am_a_new_boy_in_more_senses/part_08">part 08 ›</a></div>
 </nav>
 
+
+The daughter had sat quite silent and still during this speech, with her
+eyes fixed on the ground; her cousin standing near her, and looking on
+the ground too. She now said very softly, in a trembling voice:
+
+‘Mama, I [[Hope|hope]] you have finished?’ ‘No, my dear Annie,’ returned the Old
+Soldier, ‘I have not quite finished. Since you ask me, my [[Love|love]], I reply
+that I have not. I complain that you really are a little unnatural
+towards your own family; and, as it is of no use complaining to you. I
+mean to complain to your husband. Now, my dear Doctor, do look at that
+silly wife of yours.’
+
+As the Doctor turned his kind face, with its smile of simplicity and
+gentleness, towards her, she drooped her head more. I noticed that Mr.
+Wickfield looked at her steadily.
+
+‘When I happened to say to that naughty thing, the other day,’ pursued
+her mother, shaking her head and her fan at her, playfully, ‘that there
+was a family circumstance she might mention to you--indeed, I think, was
+bound to mention--she said, that to mention it was to ask a favour;
+and that, as you were too generous, and as for her to ask was always to
+have, she wouldn’t.’
+
+‘Annie, my dear,’ said the Doctor. ‘That was wrong. It robbed me of a
+pleasure.’
+
+‘Almost the very words I said to her!’ exclaimed her mother. ‘Now
+really, another [[Time|time]], when I know what she would tell you but for this
+reason, and won’t, I have a great mind, my dear Doctor, to tell you
+myself.’
+
+‘I shall be glad if you will,’ returned the Doctor.
+
+‘Shall I?’
+
+‘Certainly.’
+
+‘[[Well]], then, I will!’ said the Old Soldier. ‘That’s a bargain.’ And
+having, I suppose, carried her point, she tapped the Doctor’s hand
+several times with her fan (which she kissed first), and returned
+triumphantly to her former station.
+
+Some more company coming in, among whom were the two masters and Adams,
+the talk became general; and it naturally turned on Mr. Jack Maldon, and
+his voyage, and the country he was going to, and his various plans and
+prospects. He was to leave that [[Night|night]], after supper, in a post-chaise,
+for Gravesend; where the [[Ship|ship]], in which he was to make the voyage, lay;
+and was to be gone--unless he came [[Home|home]] on leave, or for his health--I
+don’t know how many years. I recollect it was settled by general
+consent that India was quite a misrepresented country, and had nothing
+objectionable in it, but a tiger or two, and a little heat in the warm
+part of the day. For my own part, I looked on Mr. Jack Maldon as a
+modern Sindbad, and pictured him the bosom friend of all the Rajahs in
+the East, sitting under canopies, smoking curly golden pipes--a mile
+long, if they could be straightened out.
 
 Mrs. Strong was a very pretty singer: as I knew, who often heard her
 singing by herself. But, whether she was afraid of singing before
@@ -71,54 +126,3 @@ natural course of things, to greet you on your return. The next best
 thing is to [[Hope|hope]] to do it, and that’s my case. I shall not weary you
 with good advice. You have long had a good model before you, in your
 cousin Annie. Imitate her virtues as nearly as you can.’
-
-Mrs. Markleham fanned herself, and shook her head.
-
-‘Farewell, Mr. Jack,’ said the Doctor, standing up; on which we all
-stood up. ‘A prosperous voyage out, a thriving career abroad, and a
-happy return [[Home|home]]!’
-
-We all drank the toast, and all shook hands with Mr. Jack Maldon; after
-which he hastily took leave of the ladies who were there, and hurried
-to the door, where he was received, as he got into the chaise, with a
-tremendous broadside of cheers discharged by our boys, who had assembled
-on the lawn for the purpose. Running in among them to swell the ranks,
-I was very near the chaise when it rolled away; and I had a lively
-impression made upon me, in the midst of the noise and [[Dust|dust]], of having
-seen Mr. Jack Maldon rattle past with an agitated face, and something
-cherry-coloured in his hand.
-
-After another broadside for the Doctor, and another for the Doctor’s
-wife, the boys dispersed, and I went back into the [[house]], where I found
-the guests all standing in a group about the Doctor, discussing how Mr.
-Jack Maldon had gone away, and how he had borne it, and how he had
-felt it, and all the rest of it. In the midst of these remarks, Mrs.
-Markleham cried: ‘Where’s Annie?’
-
-No Annie was there; and when they called to her, no Annie replied. But
-all pressing out of the room, in a crowd, to see what was the matter, we
-found her lying on the hall floor. There was great alarm at first, until
-it was found that she was in a swoon, and that the swoon was yielding
-to the usual means of recovery; when the Doctor, who had lifted her
-head upon his knee, put her curls aside with his hand, and said, looking
-around:
-
-‘Poor Annie! She’s so faithful and tender-hearted! It’s the parting from
-her old playfellow and friend--her favourite cousin--that has done this.
-Ah! It’s a pity! I am very sorry!’
-
-When she opened her eyes, and saw where she was, and that we were all
-standing about her, she arose with assistance: turning her head, as she
-did so, to lay it on the Doctor’s shoulder--or to hide it, I don’t know
-which. We went into the drawing-room, to leave her with the Doctor and
-her mother; but she said, it seemed, that she was better than she had
-been since morning, and that she would rather be brought among us; so
-they brought her in, looking very white and weak, I thought, and sat her
-on a sofa.
-
-‘Annie, my dear,’ said her mother, doing something to her dress. ‘See
-here! You have lost a bow. Will anybody be so good as find a ribbon; a
-cherry-coloured ribbon?’
-
-It was the one she had worn at her bosom. We all looked for it; I myself
-looked everywhere, I am certain--but nobody could find it.

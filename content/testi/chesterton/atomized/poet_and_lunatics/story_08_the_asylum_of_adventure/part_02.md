@@ -112,6 +112,3 @@ always had a notion that a real poet would never talk prose.
 He would talk about the weather in [[rolling]] stanzas like the [[Storm|storm]]-clouds,
 or ask you to pass the potatoes in an impromptu [[Lyric|lyric]] as beautiful
 as the blue flower of the potato."
-
-"Make it a prose poem, then," said the man whose name was Simeon Wolfe,
-"and tell us how you felt about the [[Garden|garden]] and the [[Garden|garden]]-swing."

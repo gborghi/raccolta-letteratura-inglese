@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 21 (part 3)"
+title: "Sense and Sensibility — Chapter 21 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_21/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_22/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Upon my word,” replied Elinor, “I cannot tell you, for I do not
+
+perfectly comprehend the meaning of the word. But this I can say, that
 
 if he ever was a beau before he married, he is one still for there is
 

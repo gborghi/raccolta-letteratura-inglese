@@ -14,6 +14,31 @@ tags:
 </nav>
 
 
+'It's that melodramatic actor that's always pestering us,' he said.
+'He's got some fixed feud with some dead and gone fellow mummer of his,
+which can't have anything to do with the case. We all refuse to see him,
+except the doctor, who did see him; and the doctor says he's mad.'
+
+'Yes,' said [[Father Brown]], pursing his lips thoughtfully. 'I should say
+he's mad. But of course there can't be any [[Doubt|doubt]] that he's right.'
+
+'Right?' cried Carver sharply. 'Right about what?'
+
+'About this being connected with the old theatrical company,' said
+[[Father Brown]]. 'Do you know the first thing that stumped me about this
+story? It was that notion that Maltravers was killed by villagers
+because he insulted their village. It's extraordinary what coroners can
+get jurymen to believe; and journalists, of course, are quite incredibly
+credulous. They can't know much about English rustics. I'm an English
+rustic myself; at least I was grown, with other turnips, in Essex. Can
+you imagine an English agricultural labourer idealizing and personifying
+his village, like the citizen of an old Greek [[City|city]] state; drawing the
+[[Sword|sword]] for its sacred banner, like a man in the tiny medieval republic of
+an Italian town? Can you hear a jolly old gaffer saying, â[[Blood]] [[Alone|alone]]
+can wipe out one spot on the escutcheon of Potter's Pondâ? By St George
+and the Dragon, I only wish they would! But, as a matter of fact, I have
+a more practical argument for the other notion.'
+
 He paused for a moment, as if collecting his thoughts, and then went on:
 'They misunderstood the meaning of those few last words poor Maltravers
 was heard to say. He wasn't telling the villagers that the village was
@@ -108,26 +133,3 @@ Now he knows he is free of the blackmail, he lets fly; and I can't say I
 blame him much. More especially as I have very strong suspicions that
 the blackmailer is a poisoner as [[Well|well]]. I think, Mulborough, you had
 better ring up the police.'
-
-They passed out of the room uninterrupted by the two others, the one
-dazed and staggered, the other still blind and snorting and panting with
-passions of relief and rage. But as they passed, [[Father Brown]] once
-turned his face to the young man; and the young man was one of the very
-few human beings who have seen that face implacable.
-
-'He was right there,' said [[Father Brown]]. 'When an actor brings his
-wickedness into this [[Innocent|innocent]] village, he challenges the judgement of
-God.'
-
-'[[Well]],' said [[Father Brown]], as he and the doctor again settled themselves
-in a railway carriage standing in the station of Potter's Pond. 'As you
-say, it's a strange story; but I don't think it's any longer a mystery
-story. Anyhow, the story seems to me to have been roughly this.
-Maltravers came here, with part of his touring company; some of them
-went straight to Dutton - Abbot, where they were all presenting some
-[[Melodrama|melodrama]] about the early nineteenth century; he himself happened to be
-hanging about in his stage dress, the very distinctive dress of a dandy
-of that [[Time|time]]. Another character was an old - fashioned parson, whose
-dark dress was less distinctive and might pass as being merely old -
-fashioned. This part was taken by a man who mostly acted old men; had
-acted [[Shylock]] and was afterwards going to act [[Polonius]].

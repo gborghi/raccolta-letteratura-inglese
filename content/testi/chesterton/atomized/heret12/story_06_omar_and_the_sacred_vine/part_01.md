@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]] — Omar and the Sacred Vine (part 1)"
+title: "heret12 — Omar and the Sacred Vine (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/heret12-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 VII.  Omar and the Sacred Vine
-
 
 A new [[morality]] has burst upon us with some violence in connection
 with the problem of strong drink; and enthusiasts in the matter
@@ -116,8 +115,3 @@ no place to God, it is that he gives too much place to God.  His is
 that terrible theism which can imagine nothing else but deity,
 and which denies altogether the outlines of human personality
 and human will.
-
-  "The ball no question makes of Ayes or Noes,
-   But Here or There as strikes the Player goes;
-   And He that tossed you down into the field,
-   He knows about it all--he knows--he knows."

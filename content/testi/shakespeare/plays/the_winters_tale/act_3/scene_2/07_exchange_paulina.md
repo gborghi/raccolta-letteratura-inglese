@@ -1,5 +1,5 @@
 ---
-title: "The Winters Tale — Act III, Scene 2 — exchange ([[Paulina|PAULINA]]) [7]"
+title: "The Winters Tale — Act III, Scene 2 — exchange (PAULINA) [7]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-winter’s-tale-(shakespeare)"

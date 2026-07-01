@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 25 (part 8)"
+title: "The Professor — Chapter 25 (part 8)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -13,6 +13,48 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_professor/chapter_26/part_07">‹ part 07</a><span></span></div>
 </nav>
 
+
+on her breast, and was again tranquil.
+
+Some hours after, he came to me in my library, asked if I forgave him,
+
+and desired to be reconciled. I drew the lad to my side, and there I
+
+kept him a good while, and had much talk with him, in the course of
+
+which he disclosed many points of feeling and thought I approved of in
+
+my son. I found, it is true, few elements of the “good fellow” or the
+
+“fine fellow” in him; scant sparkles of the spirit which loves to flash
+
+over the wine cup, or which kindles the passions to a destroying
+
+[[Fire|fire]]; but I saw in the soil of his heart healthy and swelling germs
+
+of compassion, affection, fidelity. I discovered in the [[Garden|garden]] of his
+
+intellect a rich growth of wholesome principles--reason, justice, moral
+
+[[Courage|courage]], promised, if not blighted, a fertile bearing. So I bestowed on
+
+his large forehead, and on his cheek--still pale with [[Tears|tears]]--a proud and
+
+contented kiss, and sent him away comforted. Yet I saw him the next day
+
+laid on the mound under which Yorke had been buried, his face covered
+
+with his hands; he was [[Melancholy|melancholy]] for some weeks, and more than a year
+
+elapsed before he would listen to any proposal of having another dog.
+
+Victor learns fast. He must soon go to Eton, where, I suspect, his first
+
+year or two will be utter wretchedness: to leave me, his mother, and his
+
+[[Home|home]], will give his heart an agonized wrench; then, the fagging will not
+
+suit him--but emulation, thirst after knowledge, the glory of [[success]],
 
 will stir and reward him in [[Time|time]]. Meantime, I feel in myself a strong
 
@@ -74,8 +116,6 @@ his [[Soul|soul]]; then for the ordeal of merited and salutary [[Suffering|suffe
 
 which he will come (I trust) a wiser and a better man.
 
-
-
 I see him now; he stands by Hunsden, who is seated on the lawn under the
 
 beech; Hunsden’s hand rests on the boy’s collar, and he is instilling
@@ -102,8 +142,6 @@ Hunsden had children of his own, for then he would better know the
 
 danger of inciting their [[Pride|pride]] end indulging their foibles.
 
-
-
 Frances approaches my library [[Window|window]]; puts aside the honeysuckle which
 
 half covers it, and tells me tea is ready; seeing that I continue busy
@@ -112,15 +150,9 @@ she enters the room, comes near me quietly, and puts her hand on my
 
 shoulder.
 
-
-
 “Monsieur est trop applique.”
 
-
-
 “I shall soon have done.”
-
-
 
 She draws a chair near, and sits down to wait till I have finished; her
 
@@ -130,25 +162,17 @@ spicy [[Flowers|flowers]], as the glow of the westering sun, as the repose of th
 
 midsummer eve are to my senses.
 
-
-
 But Hunsden comes; I hear his step, and there he is, bending through the
 
 lattice, from which he has thrust away the woodbine with unsparing hand,
 
 disturbing two [[Bees|bees]] and a butterfly.
 
-
-
 “Crimsworth! I say, Crimsworth! take that pen out of his hand, mistress,
 
 and make him lift up his head.”
 
-
-
 “[[Well]], Hunsden? I hear you--”
-
-
 
 “I was at X---- yesterday! your brother Ned is getting richer than
 
@@ -175,7 +199,5 @@ fact. Brown says she weighs twelve stones now; you see what you’ve
 lost, Mr. Professor. Now, Monsieur and Madame, if you don’t come to tea,
 
 Victor and I will begin without you.”
-
-
 
 “Papa, come!”

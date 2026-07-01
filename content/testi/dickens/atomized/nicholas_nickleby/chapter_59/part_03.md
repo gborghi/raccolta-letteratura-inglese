@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 59 (part 3)"
+title: "Nicholas Nickleby — Chapter 59 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_59/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_59/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘Will you,’ said Ralph, suppressing his passion as [[Well|well]] as he could,
+and clutching her tightly by the wrist; ‘will you go to your husband and
+tell him that I know he is at [[Home|home]], and that I must see him? And
+will you tell me what it is that you and he mean by this new style of
+behaviour?’
 
 ‘No,’ replied the woman, violently disengaging herself, ‘I’ll do
 neither.’
@@ -122,23 +128,3 @@ steadily through the crowd which was pouring from it (it was by this
 [[Time|time]] between five and six o’[[Clock|clock]] in the afternoon) went straight to the
 [[house]] of business of the brothers Cheeryble, and putting his head into
 the glass case, found Tim Linkinwater [[Alone|alone]].
-
-‘My name’s Nickleby,’ said Ralph.
-
-‘I know it,’ replied Tim, surveying him through his spectacles.
-
-‘Which of your firm was it who called on me this morning?’ demanded
-Ralph.
-
-‘Mr. Charles.’
-
-‘Then, tell Mr. Charles I want to see him.’
-
-‘You shall see,’ said Tim, getting off his stool with great agility,
-‘you shall see, not only Mr. Charles, but Mr. Ned likewise.’
-
-Tim stopped, looked steadily and severely at Ralph, nodded his head
-once, in a curt manner which seemed to say there was a little more
-behind, and vanished. After a short interval, he returned, and, ushering
-Ralph into the presence of the two brothers, remained in the room
-himself.

@@ -1,5 +1,5 @@
 ---
-title: "[[Twelfth Night|TWELFTH NIGHT]]"
+title: "TWELFTH NIGHT"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/twelfth-night-(shakespeare)"

@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 32: THE BEGINNING OF A LONG [[Journey|JOURNEY]] (part 4)"
+title: "David Copperfield — Chapter 32: THE BEGINNING OF A LONG [[Journey|JOURNEY (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,25 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_32_the_beginning_of_a_long_journe/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_32_the_beginning_of_a_long_journe/part_05">part 05 ›</a></div>
 </nav>
 
+
+‘Do you know her?’ I demanded.
+
+‘I know of her, and about her,’ she replied, ‘from Omer and Joram. I
+was there at seven o’[[Clock|clock]] this morning. Do you remember what Steerforth
+said to me about this unfortunate girl, that [[Time|time]] when I saw you both at
+the inn?’
+
+The great bonnet on Miss Mowcher’s head, and the greater bonnet on
+the wall, began to go backwards and forwards again when she asked this
+question.
+
+I remembered very [[Well|well]] what she referred to, having had it in my
+thoughts many times that day. I told her so.
+
+‘May the Father of all Evil confound him,’ said the little woman,
+holding up her forefinger between me and her sparkling eyes, ‘and ten
+times more confound that wicked servant; but I believed it was YOU who
+had a boyish passion for her!’
 
 ‘I?’ I repeated.
 
@@ -109,20 +128,3 @@ mind that I am a very helpless and defenceless little thing. Think of
 me at [[Home|home]] with my brother like myself and sister like myself, when my
 day’s work is done. Perhaps you won’t, then, be very hard upon me, or
 surprised if I can be distressed and serious. Good [[Night|night]]!’
-
-I gave Miss Mowcher my hand, with a very different opinion of her from
-that which I had hitherto entertained, and opened the door to let her
-out. It was not a trifling business to get the great umbrella up, and
-properly balanced in her grasp; but at last I successfully accomplished
-this, and saw it go bobbing down the street through the rain, without
-the least appearance of having anybody underneath it, except when a
-heavier fall than usual from some over-charged [[Water|water]]-spout sent it
-toppling over, on one side, and discovered Miss Mowcher struggling
-violently to get it right. After making one or two sallies to her
-relief, which were rendered futile by the umbrella’s hopping on again,
-like an immense bird, before I could reach it, I came in, went to bed,
-and slept till morning.
-
-In the morning I was joined by Mr. Peggotty and by my old [[Nurse|nurse]], and we
-went at an early hour to the coach office, where Mrs. Gummidge and Ham
-were waiting to take leave of us.

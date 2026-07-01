@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 21 (part 5)"
+title: "Persuasion — Chapter 21 (part 5)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -13,6 +13,40 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_21/part_04">‹ part 04</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_21/part_06">part 06 ›</a></div>
 </nav>
 
+
+finding such words applied to her father. She was obliged to recollect
+
+that her seeing the letter was a violation of the laws of [[Honour|honour]], that
+
+no one ought to be judged or to be known by such testimonies, that no
+
+private correspondence could bear the eye of others, before she could
+
+recover calmness enough to return the letter which she had been
+
+meditating over, and say—
+
+
+
+“Thank you. This is full proof undoubtedly; proof of every thing you
+
+were saying. But why be acquainted with us now?”
+
+
+
+“I can explain this too,” cried Mrs [[smith|Smith]], smiling.
+
+
+
+“Can you really?”
+
+
+
+“Yes. I have shewn you Mr Elliot as he was a dozen years ago, and I
+
+will shew him as he is now. I cannot produce written proof again, but I
+
+can give as authentic oral testimony as you can [[Desire|desire]], of what he is
 
 now wanting, and what he is now doing. He is no hypocrite now. He truly
 
@@ -185,35 +219,3 @@ fixing himself here for a [[Time|time]], with the view of renewing his former
 acquaintance, and recovering such a footing in the family as might give
 
 him the means of ascertaining the degree of his danger, and of
-
-circumventing the lady if he found it material. This was agreed upon
-
-between the two friends as the only thing to be done; and Colonel
-
-Wallis was to assist in every way that he could. He was to be
-
-introduced, and Mrs Wallis was to be introduced, and everybody was to
-
-be introduced. Mr Elliot came back accordingly; and on application was
-
-forgiven, as you know, and re-admitted into the family; and there it
-
-was his constant object, and his only object (till your arrival added
-
-another motive), to watch Sir Walter and Mrs Clay. He omitted no
-
-opportunity of being with them, threw himself in their way, called at
-
-all hours; but I need not be particular on this subject. You can
-
-imagine what an artful man would do; and with this guide, perhaps, may
-
-recollect what you have seen him do.”
-
-
-
-“Yes,” said Anne, “you tell me nothing which does not accord with what
-
-I have known, or could imagine. There is always something offensive in
-
-the details of cunning. The manœuvres of selfishness and duplicity must

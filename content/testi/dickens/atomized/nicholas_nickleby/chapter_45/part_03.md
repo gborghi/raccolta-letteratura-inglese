@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 45 (part 3)"
+title: "Nicholas Nickleby — Chapter 45 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_45/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_45/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘Pratty nigh for the prasant [[Time|time]], sir,’ replied John.
+
+‘I can wait,’ said Ralph. ‘Take your own [[Time|time]], pray.’
+
+Ralph waited until there was a perfect [[Silence|silence]], and then turning to Mrs
+Nickleby, but directing an eager glance at Kate, as if more anxious to
+watch his effect upon her, said:
 
 ‘Now, ma’am, listen to me. I don’t imagine that you were a party to a
 very fine tirade of words sent me by that boy of yours, because I don’t
@@ -129,15 +137,3 @@ cut this matter short, and not bandy words here with hare-brained
 profligates. This is your son, as you can prove. And you, Mr. Squeers,
 you know this boy to be the same that was with you for so many years
 under the name of [[Smike]]. Do you?’
-
-‘Do I!’ returned Squeers. ‘Don’t I?’
-
-‘Good,’ said Ralph; ‘a very few words will be sufficient here. You had a
-son by your first wife, Mr. Snawley?’
-
-‘I had,’ replied that person, ‘and there he stands.’
-
-‘We’ll show that presently,’ said Ralph. ‘You and your wife were
-separated, and she had the boy to live with her, when he was a year old.
-You received a communication from her, when you had lived apart a year
-or two, that the boy was dead; and you believed it?’

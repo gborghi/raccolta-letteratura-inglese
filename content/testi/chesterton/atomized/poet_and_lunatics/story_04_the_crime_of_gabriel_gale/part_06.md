@@ -14,6 +14,69 @@ tags:
 </nav>
 
 
+"Do you think," asked Dr. Butterworth, frowning, "that there
+was really anything in that theological imagery in the matter?
+Do you suppose _he_ put it in the form that he could bring the rain
+and thunder because he was God Almighty?  Of course there are cases
+of religious mania that are rather like that."
+
+"You must remember," said Gale, "that he was a theological student
+and was going to be a clergyman; and he may have brooded upon [[Doubt|doubt]]
+and inspiration and prophecy till they began to work the wrong way.
+The worst is always very near the best; there is something much
+worse than atheism which is Satanism; otherwise known as Being God.
+But as a matter of mere [[philosophy]], apart from theology, the thing
+is much nearer to the nerve of all thinking than you might think.
+That's why it was so insinuating and so difficult to see or to stop.
+That's what I mean when I say I had a sympathy with the young lunatic.
+After all, it was a very natural mistake."
+
+"My dear Gale," protested his friend Garth.  "You are getting
+a little too fond of [[Paradox|paradox]].  A young tadpole of a curate thinks
+he can control the skies and uproot trees and call up the thunder
+and you call it a natural mistake."
+
+"Have you ever lain on your back in a field and stared at the sky
+and kicked your heels in the air?" asked the poet.
+
+"Not in a public or professional way," answered the doctor.
+"It's not generally considered the best bedside manner.
+But suppose I did?"
+
+"If you think like that, and go back to primitive things," said Gale,
+"you will find yourself wondering why you can control some things
+and not others.  After all, your legs look a long way off when you
+wave them in the sky.  You can wave legs about, but you can't wave
+trees about.  I'm not sure it's so unnatural, in the abstract,
+for a man to fancy the whole material universe is his own [[Body|body]];
+since it all seems equally, in one sense, to be outside his own mind.
+But when he is in hell is when he fancies it is inside his own mind."
+
+"I'm afraid I don't bother much about all this metaphysical business,"
+said Butterworth.  "I suppose I really don't understand it.
+I know what I mean by a man being outside his mind in the sense
+of being out of his mind; and I suppose you're right in saying
+that Saunders was morbid enough to be nearly out of his mind.
+And as for being outside his [[Body|body]], I know what it means in the sense
+of his blowing his brains out or his [[Body|body]] being left for dead.
+And really, to be candid, you seem to have come precious near to
+knocking him out of his [[Body|body]] to cure him of being out of his mind.
+It certainly was an exceedingly desperate remedy; and though it
+may have been defensible, I shouldn't much like to have to go
+into a law-[[Court|court]] as an expert witness to defend it.  I can only go
+by results, and he certainly seems to be all the better for it.
+But when it comes to all your mystical explanations, about how it is hell
+to have everything inside your mind, frankly I give up trying to follow.
+I'm afraid I'm rather a materialist."
+
+"Afraid!" cried Gale, as if with indignation; "_afraid_ you are
+a materialist!  You haven't got much notion of what there really is
+to be afraid of!  Materialists are all right; they are at least near
+enough to heaven to accept the earth and not imagine they made it.
+The dreadful doubts are not the doubts of the materialist.
+The dreadful doubts, the deadly and damnable doubts, are the doubts
+of the idealist."
+
 "I always imagined you were an idealist," said Garth.
 
 "I use the word idealist in its philosophical sense.
@@ -56,85 +119,3 @@ the angels went to and fro in coloured garments of cloud and flame
 and the pageant of the [[Seasons|seasons]]; but he was over all and his face
 seemed to fill the heavens.  And, God forgive me for blasphemy,
 but I nailed him to a tree."
-
-He had risen to his feet in a suppressed and very unusual excitement;
-and his face was pale in the sunlight.  For he spoke indeed in parables;
-and the things of which he was thinking were far away from that [[Garden|garden]]
-or even from that tale.  There swelled up darkly and mountainously
-in his [[Memory|memory]] the slopes of another [[Garden|garden]] against another [[Storm|storm]].
-The [[skeleton]] arch of a ruined abbey stood gaunt against the ghastly light,
-and beyond the racing [[River|river]] was the low and desolate inn among
-the reeds; and all that grey landscape was to him one purple patch
-of Paradise... and of [[Paradise Lost]].
-
-"It is the only way," he kept repeating; "it is the only answer
-to the heresy of the mystic; which is to fancy that mind is all.
-It is to break your heart.  Thank God for hard stones; thank God for
-hard facts; thank God for thorns and rocks and deserts and long years.
-At least I know now that I am not the best or strongest thing in
-the world.  At least I know now that I have not dreamed of everything."
-
-"You look very strange," said his friend Garth.
-
-"I know it now," said Gale.  "For there is one who would be here,
-if dreaming could do it."
-
-There was again an utter stillness in which the fly could be heard buzzing
-in the blue; and when he spoke again, though in the same brooding vein,
-they had an indescribable intuition that a door in his mind had stood
-open for an instant and had now again closed finally with a clang.
-He said after the long [[Silence|silence]]:
-
-"We are all tied to trees and pinned with pitchforks.
-And as long as these are solid we know the [[Stars|stars]] will stand and
-the hills will not melt at our word.  Can't you imagine the huge tide
-of healthy relief and thanks, like a [[Hymn|hymn]] of praise from all [[Nature|nature]],
-that went up from that captive nailed to the tree, when he had
-wrestled till the [[Dawn|dawn]] and received at last the great glorious news;
-the news that he was only a man?"
-
-Dr. Butterworth was looking across the table with a restrained
-but somewhat amused expression; for the poet's eyes were shining
-like lamps and he was speaking on a note not often heard in any
-man speaking prose.
-
-"If I hadn't got a good deal of special knowledge and experience,"
-he said, rising, "I should think there was a bit of a [[Doubt|doubt]] about
-you after all."
-
-Gabriel Gale looked sharply over his shoulder and the note of his
-voice changed once more.
-
-"Don't say that," he said rather curtly.  "That's the only sort
-of danger I really run."
-
-"I don't understand," said Butterworth.  "Do you mean the danger
-of being certified?"
-
-"Certify me till all is blue," said Gale contemptuously.
-"Do you suppose I should particularly mind if you did?
-Do you suppose I couldn't be reasonably happy in a lunatic asylum,
-so long as there was [[Dust|dust]] in a sunbeam or shadows on a wall... so long
-as I could look at ordinary things and think how extraordinary they are?
-Do you suppose I couldn't praise God with tolerable piety
-for the shape of my keeper's nose or anything else calculated
-to give pleasure to a thoughtful mind?  I should imagine
-that a madhouse would be an excellent place to be sane in.
-I'd a long sight rather live in a nice quiet secluded madhouse
-than in intellectual clubs full of unintellectual people,
-all chattering nonsense about the newest book of [[philosophy]];
-or in some of those earnest, elbowing sort of Movements that want you
-to go in for Service and help to take away somebody else's toys.
-I don't much mind to what place I may wander to think in,
-before I die; so long as the thoughts do not wander too much;
-or wander down the wrong [[Road|road]].  And what you said just now does
-touch the real danger.  It does touch the danger that Garth was
-really thinking about, when he suggested that I had reclaimed
-lunatics and might myself become a castaway.  If people tell me they
-really do not understand what I mean... if they say they cannot
-see so simple a [[Truth|truth]] as that it is best for a man to be a man,
-that it is dangerous to give oneself divine honours... if they say
-they do not see _that_ for themselves, but imagine it to be some sort
-of mysticism out of my own head, _then_ I am myself again in peril.
-I am in peril of thinking something that may be wilder and worse
-than thinking I am God Almighty."

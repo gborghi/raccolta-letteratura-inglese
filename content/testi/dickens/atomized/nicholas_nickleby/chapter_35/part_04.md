@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 35 (part 4)"
+title: "Nicholas Nickleby — Chapter 35 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,28 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_35/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_35/part_05">part 05 ›</a></div>
 </nav>
 
+
+‘A great many people willing and anxious to be employed have seriously
+thought so very often, I dare say,’ replied the old man. ‘Poor fellows,
+poor fellows!’
+
+He moved away as he said this; but seeing that Nicholas was about to
+speak, good-naturedly slackened his pace, as if he were unwilling to
+cut him short. After a little of that hesitation which may be sometimes
+observed between two people in the street who have exchanged a nod,
+and are both uncertain whether they shall turn back and speak, or not,
+Nicholas found himself at the old man’s side.
+
+‘You were about to speak, young gentleman; what were you going to say?’
+
+‘Merely that I almost hoped--I mean to say, thought--you had some object
+in consulting those advertisements,’ said Nicholas.
+
+‘Ay, ay? what object now--what object?’ returned the old man, looking
+slyly at Nicholas. ‘Did you think I wanted a situation now--eh? Did you
+think I did?’
+
+Nicholas shook his head.
 
 ‘Ha! ha!’ laughed the old gentleman, rubbing his hands and wrists as
 if he were washing them. ‘A very natural thought, at all events, after
@@ -125,29 +147,3 @@ is with him.’
 ‘He is getting up a subscription for the widow and family of a man who
 was killed in the East India Docks this morning, sir,’ rejoined Tim.
 ‘Smashed, sir, by a cask of sugar.’
-
-‘He is a good creature,’ said Mr. Cheeryble, with great earnestness. ‘He
-is a kind [[Soul|soul]]. I am very much obliged to Trimmers. Trimmers is one of
-the best friends we have. He makes a thousand cases known to us that we
-should never discover of ourselves. I am VERY much obliged to Trimmers.’
-Saying which, Mr. Cheeryble rubbed his hands with infinite delight, and
-Mr. Trimmers happening to pass the door that instant, on his way out,
-shot out after him and caught him by the hand.
-
-‘I owe you a thousand thanks, Trimmers, ten thousand thanks. I take it
-very friendly of you, very friendly indeed,’ said Mr. Cheeryble, dragging
-him into a corner to get out of hearing. ‘How many children are there,
-and what has my brother Ned given, Trimmers?’
-
-‘There are six children,’ replied the gentleman, ‘and your brother has
-given us twenty pounds.’
-
-‘My brother Ned is a good fellow, and you’re a good fellow too,
-Trimmers,’ said the old man, shaking him by both hands with trembling
-eagerness. ‘Put me down for another twenty--or--stop a minute, stop a
-minute. We mustn’t look ostentatious; put me down ten pound, and Tim
-Linkinwater ten pound. A cheque for twenty pound for Mr. Trimmers, Tim.
-God bless you, Trimmers--and come and dine with us some day this week;
-you’ll always find a knife and fork, and we shall be delighted. Now, my
-dear sir--cheque from Mr. Linkinwater, Tim. Smashed by a cask of sugar,
-and six poor children--oh dear, dear, dear!’

@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 40: FORTY (part 4)"
+title: "Martin Chuzzlewit — Chapter 40: FORTY (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_40_forty/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_40_forty/part_05">part 05 ›</a></div>
 </nav>
 
+
+‘I wouldn’t,’ said Mrs Gamp, ‘I wouldn’t be a man and have such a think
+upon my mind!--but nobody as owned the name of man, could do it!’
 
 Tom and his sister glanced at each other; and Ruth, after a moment’s
 hesitation, asked Mrs Gamp what troubled her so much.
@@ -132,7 +135,3 @@ in a red shawl over there!’
 The other way; the other way. Look at the cabin steps. To the left. They
 must be near the cabin steps. Do you see the cabin steps? There’s the
 bell ringing already! DO you see the steps?’
-
-‘Stay!’ said Tom, ‘you’re right. Look! there they go now. Is that the
-gentleman you mean? Descending at this minute, with the folds of a great
-cloak trailing down after him?’

@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 63 (part 2)"
+title: "Barnaby Rudge — Chapter 63 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_63/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_63/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘Beat at the door,’ cried Hugh to the men about him. ‘We want one of his
+craft to-[[Night|night]]. Beat it in, if no one answers.’
 
 The shop was shut. Both door and shutters were of a strong and sturdy
 kind, and they knocked without effect. But the impatient crowd raising
@@ -137,23 +140,3 @@ for. Do it!’
 returned the locksmith. ‘If you want any service from me, you may spare
 yourselves the pains of telling me what it is. I tell you, beforehand,
 I’ll do nothing for you.’
-
-Mr Dennis was so affected by this constancy on the part of the staunch
-old man, that he protested--almost with [[Tears|tears]] in his eyes--that to baulk
-his inclinations would be an act of cruelty and hard dealing to which
-he, for one, never could reconcile his [[Conscience|conscience]]. The gentleman, he
-said, had avowed in so many words that he was ready for working off;
-such being the case, he considered it their duty, as a civilised and
-enlightened crowd, to work him off. It was not often, he observed, that
-they had it in their power to accommodate themselves to the wishes of
-those from whom they had the misfortune to differ. Having now found an
-individual who expressed a [[Desire|desire]] which they could reasonably indulge
-(and for himself he was free to confess that in his opinion that [[Desire|desire]]
-did [[Honour|honour]] to his feelings), he hoped they would decide to accede to
-his proposition before going any further. It was an experiment which,
-skilfully and dexterously performed, would be over in five minutes, with
-great comfort and satisfaction to all parties; and though it did not
-become him (Mr Dennis) to speak [[Well|well]] of himself he trusted he might
-be allowed to say that he had practical knowledge of the subject, and,
-being naturally of an obliging and friendly disposition, would work the
-gentleman off with a deal of pleasure.

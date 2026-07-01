@@ -1,5 +1,5 @@
 ---
-title: "[[WhatISawInAmerica]]"
+title: "WhatISawInAmerica"
 author: "Chesterton"
 unitType: work
 parentWork: "works/whatisawinamerica-(chesterton)"
@@ -99,7 +99,7 @@ THE SPIRIT OF [[America|AMERICA]]                267
 
 THE SPIRIT OF ENGLAND                281
 
-THE FUTURE OF [[democracy|DEMOCRACY]]              295
+THE FUTURE OF [[Democracy|DEMOCRACY]]              295
 
 _What is [[America]]?_
 
@@ -367,7 +367,7 @@ into my thoughts. They held their power as limited to the limitation of
 
 practice; they did not forbid me to hold a theory. It would be easy to
 
-argue here that Western [[democracy]] persecutes where even Eastern
+argue here that Western [[Democracy|democracy]] persecutes where even Eastern
 
 despotism tolerates or emancipates. It would be easy to develop the
 
@@ -479,7 +479,7 @@ a much vaguer and more evolutionary fashion, there is something of the
 
 same idea at the back of the great American experiment; the experiment
 
-of a [[democracy]] of diverse races which has been compared to a
+of a [[Democracy|democracy]] of diverse races which has been compared to a
 
 melting-pot. But even that metaphor implies that the pot itself is of a
 
@@ -487,7 +487,7 @@ certain shape and a certain substance; a pretty solid substance. The
 
 melting-pot must not melt. The original shape was traced on the lines of
 
-Jeffersonian [[democracy]]; and it will remain in that shape until it
+Jeffersonian [[Democracy|democracy]]; and it will remain in that shape until it
 
 becomes shapeless. [[America]] invites all men to become citizens; but it
 
@@ -1125,7 +1125,7 @@ which is a very rational pattern, is repeated in cities as remote from
 
 each other as the capitals of European empires. You may find that hotel
 
-rising among the red blooms of the warm [[Spring|spring]] woods of Nebraska, or
+rising among the red blooms of the warm [[spring]] woods of Nebraska, or
 
 whitened with Canadian snows near the eternal noise of Niagara. And
 
@@ -1635,7 +1635,7 @@ almost impudent innovation. But our fathers had the French café, in the
 
 sense of the free-and-easy table in the sun and air. The only difference
 
-was that French [[democracy]] was allowed to develop its café, or multiply
+was that French [[Democracy|democracy]] was allowed to develop its café, or multiply
 
 its tables, while English plutocracy prevented any such popular growth.
 
@@ -2287,7 +2287,7 @@ earth the most undemocratic. [[America]] is not [[Alone|alone]] in possessing th
 
 industrialism, but she is [[Alone|alone]] in emphasising the ideal that strives
 
-with industrialism. Industrial capitalism and ideal [[democracy]] are
+with industrialism. Industrial capitalism and ideal [[Democracy|democracy]] are
 
 everywhere in controversy; but perhaps only here are they in conflict.
 
@@ -3215,7 +3215,7 @@ was putting on the last tiles. This fills the whole of this brilliant
 
 and bewildering place with a quite unique and unparalleled air of rapid
 
-ruin. Ruins [[Spring|spring]] up so suddenly like mushrooms, which with us are the
+ruin. Ruins [[spring]] up so suddenly like mushrooms, which with us are the
 
 growth of age like mosses, that one half expects to see ivy climbing
 
@@ -3329,7 +3329,7 @@ something traditional and tragic; as if some such golden Italian [[City|city]]
 
 had really been darkened by many conflagrations in the wars of mediaeval
 
-[[democracy]]. Now if one had the caprice of conceiving some [[City|city]] exactly
+[[Democracy|democracy]]. Now if one had the caprice of conceiving some [[City|city]] exactly
 
 contrary to one thus seared and seasoned by [[Fire|fire]], its colour might be
 
@@ -3843,7 +3843,7 @@ him, because all the politicians were against him. The end of that
 
 struggle is not yet; but if the bank is stronger than the [[Sword|sword]] or the
 
-sceptre of popular sovereignty, the end will be the end of [[democracy]]. It
+sceptre of popular sovereignty, the end will be the end of [[Democracy|democracy]]. It
 
 will have to choose between accepting an acknowledged dictator and
 
@@ -4311,7 +4311,7 @@ fine enthusiasms; the one thing I could not always feel clear about was
 
 their future. I believe they were happier in their frame-houses than
 
-most people in most houses; having [[democracy]], good [[Education|education]], and a
+most people in most houses; having [[Democracy|democracy]], good [[Education|education]], and a
 
 hobby of work; the one [[Doubt|doubt]] that did float across me was something
 
@@ -4369,7 +4369,7 @@ in common between this agricultural society of [[America]] and the great
 
 agricultural societies of Europe. It tends, as the agricultural society
 
-nearly always does, to some decent degree of [[democracy]]. The agricultural
+nearly always does, to some decent degree of [[Democracy|democracy]]. The agricultural
 
 society tends to the agrarian law. But in Puritan [[America]] there is an
 
@@ -4657,9 +4657,9 @@ stolen by squires and then vulgarised by sham squires, to sneer at such
 
 colonists as merely crude and prosaic. They at least have really kept
 
-something of the simplicity and, therefore, the dignity of [[democracy]];
+something of the simplicity and, therefore, the dignity of [[Democracy|democracy]];
 
-and that [[democracy]] may yet save their country even from the calamities
+and that [[Democracy|democracy]] may yet save their country even from the calamities
 
 of wealth and science.
 
@@ -4693,7 +4693,7 @@ Carpenters or St. Dunstan of the Smiths. It was the Catholic poetry and
 
 piety that filled common life with something that is lacking in the
 
-worthy and virile [[democracy]] of the West. Nor are Americans of
+worthy and virile [[Democracy|democracy]] of the West. Nor are Americans of
 
 intelligence so ignorant of this as some may suppose. There is an
 
@@ -5093,7 +5093,7 @@ Americans talk about dollars. But for the moment I am merely anxious to
 
 avoid a similar misunderstanding when I talk about Americans. About the
 
-dogmas of [[democracy]], about the right of a people to its own symbols,
+dogmas of [[Democracy|democracy]], about the right of a people to its own symbols,
 
 whether they be coins or customs, I am convinced, and no longer to be
 
@@ -5277,7 +5277,7 @@ clatter, in making general a very real respect for work. He has partly
 
 disenchanted the dangerous glamour of the gentleman, and in that sense
 
-has achieved some degree of [[democracy]]; which is the most difficult
+has achieved some degree of [[Democracy|democracy]]; which is the most difficult
 
 achievement in the world.
 
@@ -5365,7 +5365,7 @@ illustrate somebody else's pictures; and swelled like an [[Epic|epic]] expanded
 
 from an [[Epigram|epigram]]. It might almost be said that in the case of [[Pickwick]]
 
-the author began as the servant of the [[Artist|artist]]. But, as in the same story
+the author began as the servant of the [[artist]]. But, as in the same story
 
 of [[Pickwick]], the servant became greater than the master. This
 
@@ -5599,7 +5599,7 @@ or a Russian with a Red Indian. The only cure for this sort of satisfied
 
 familiarity is the shock of something really unfamiliar. When people can
 
-see nothing at all in American [[democracy]] except a Yankee running after a
+see nothing at all in American [[Democracy|democracy]] except a Yankee running after a
 
 dollar, then the only thing to do is to trip them up as they run after
 
@@ -5851,7 +5851,7 @@ Niagara is useless. And there is a very definite distinction here
 
 touching the intelligence of the trader, whatever we may think of either
 
-course touching the intelligence of the [[Artist|artist]]. It is one thing that
+course touching the intelligence of the [[artist]]. It is one thing that
 
 [[Apollo]] should be employed by Admetus, although he is a god. It is quite
 
@@ -6195,11 +6195,11 @@ is especially insisted by some that his demonstration, which seemed
 
 futile as a threat against Mexico, was a very far-sighted preparation
 
-for the threat against Prussia. But in so far as the [[democracy]] did
+for the threat against Prussia. But in so far as the [[Democracy|democracy]] did
 
 disagree with him, it was but the occasional and inevitable result of
 
-the theory by which the despot has to anticipate the [[democracy]].
+the theory by which the despot has to anticipate the [[Democracy|democracy]].
 
 Thus the American [[King]] and the English President are the very opposite
 
@@ -6619,7 +6619,7 @@ divorcée, fill up the round of their good and happy lives, and fleet the
 
 [[Time|time]] carelessly as in the [[Golden Age|golden age]].
 
-But putting aside all this vast and distant [[democracy]], which is the real
+But putting aside all this vast and distant [[Democracy|democracy]], which is the real
 
 'majority of Americans,' and confining ourselves to that older culture
 
@@ -6859,7 +6859,7 @@ with him. He has a distinguished and sensitive face; he really invented
 
 things himself, unlike most men who profit by inventions; he is
 
-something of an [[Artist|artist]] and not a little of a fighter. A man of that type
+something of an [[artist]] and not a little of a fighter. A man of that type
 
 is always capable of being wildly wrong, especially in the sectarian
 
@@ -6975,9 +6975,9 @@ Now the point is that this new American Anti-Semitism springs from
 
 experience and nothing but experience. There is no prejudice for it to
 
-[[Spring|spring]] from. Or rather the prejudice is all the other way. All the
+[[spring]] from. Or rather the prejudice is all the other way. All the
 
-traditions of that [[democracy]], and very creditable traditions too, are in
+traditions of that [[Democracy|democracy]], and very creditable traditions too, are in
 
 favour of toleration and a sort of idealistic indifference. The
 
@@ -7065,7 +7065,7 @@ always insisting that the two are identical in all the things in which
 
 they most obviously differ. We are always saying that both stand for
 
-[[democracy]], when we should not consent to stand their [[democracy]] for half
+[[Democracy|democracy]], when we should not consent to stand their [[Democracy|democracy]] for half
 
 a day. We are always saying that at least we are all Anglo-Saxons, when
 
@@ -7485,7 +7485,7 @@ But what are those rights? Sophists can always [[debate]] about their
 
 degree; but even sophists cannot [[debate]] about their direction. Nobody in
 
-his five wits will deny that Jeffersonian [[democracy]] wished to give the
+his five wits will deny that Jeffersonian [[Democracy|democracy]] wished to give the
 
 law a general control in more public things, but the citizens a more
 
@@ -7963,7 +7963,7 @@ and then send inspectors to the slums but not to the smart streets. We
 
 apply the same ingenuous principle; and are quite as undemocratic as
 
-Western [[democracy]]. Nevertheless there is an element in the American case
+Western [[Democracy|democracy]]. Nevertheless there is an element in the American case
 
 which cannot be present in ours; and this chapter may [[Well|well]] conclude upon
 
@@ -8119,7 +8119,7 @@ flippant man. And the normal man is almost always the national man.
 
 Patriotism is the most popular of all the virtues. The drier sort of
 
-democrats who despise it have the [[democracy]] against them in every
+democrats who despise it have the [[Democracy|democracy]] against them in every
 
 country in the world. Hence their international efforts seldom go any
 
@@ -8179,7 +8179,7 @@ certainly an inconsistency; and it is an inconsistency in the moral
 
 make-up of [[America]] which both puzzles and amuses me.
 
-The danger of [[democracy]] is not anarchy but convention. There is even a
+The danger of [[Democracy|democracy]] is not anarchy but convention. There is even a
 
 sort of [[Double|double]] meaning in the word 'convention'; for it is also used for
 
@@ -8189,7 +8189,7 @@ summoned by any [[King|king]]. The Americans come together very easily without
 
 any [[King|king]]; but their coming together is in every sense a convention, and
 
-even a very conventional convention. In a [[democracy]] riot is rather the
+even a very conventional convention. In a [[Democracy|democracy]] riot is rather the
 
 exception and respectability certainly the rule. And though a
 
@@ -8209,7 +8209,7 @@ conspicuously fashionable. Of course there are patches, both Bohemian
 
 and Babylonian, of which this is not true, but I am talking of the
 
-general tone of a whole [[democracy]]. I have said there is more
+general tone of a whole [[Democracy|democracy]]. I have said there is more
 
 respectability than riot; but indeed in a deeper sense the same spirit
 
@@ -8237,7 +8237,7 @@ entered the war, they would have seen something which they have always
 
 perhaps subconsciously dreaded, and would then have beyond all their
 
-worst [[Dreams|dreams]] detested; and the name of it is [[democracy]]. They would have
+worst [[Dreams|dreams]] detested; and the name of it is [[Democracy|democracy]]. They would have
 
 found that there are disadvantages in [[Birds|birds]] of a feather flocking
 
@@ -8263,11 +8263,11 @@ gentleman may very probably have aunts and uncles who are quite as mad.
 
 He takes the matter personally, in the sense of being able to imagine
 
-the psychology of the persons. But [[democracy]] is no respecter of persons.
+the psychology of the persons. But [[Democracy|democracy]] is no respecter of persons.
 
 It is no respecter of them, either in the bad and servile or in the good
 
-and sympathetic sense. And Debs was nothing to [[democracy]]. He was but one
+and sympathetic sense. And Debs was nothing to [[Democracy|democracy]]. He was but one
 
 of the millions. This is a real problem, or question in the balance,
 
@@ -8277,7 +8277,7 @@ neglected by the idealists who merely repeat long words. There was
 
 during the war a society called the [[Union]] of Democratic Control, which
 
-would have been instantly destroyed anywhere where [[democracy]] had any
+would have been instantly destroyed anywhere where [[Democracy|democracy]] had any
 
 control, or where there was any [[Union|union]]. And in this sense the United
 
@@ -8505,7 +8505,7 @@ favourable to [[Sanity|sanity]], to make the next point about [[America]] very m
 
 a puzzle. It seems to me a very real problem, to which I have never seen
 
-an answer even such as I shall attempt here, why a [[democracy]] should
+an answer even such as I shall attempt here, why a [[Democracy|democracy]] should
 
 produce fads; and why, where there is so genuine a sense of human
 
@@ -8633,7 +8633,7 @@ of the mass. I can only suggest, in concluding this chapter, two
 
 possible causes rather peculiar to [[America]], which may have made this
 
-great [[democracy]] so unlike all other democracies, and in this so
+great [[Democracy|democracy]] so unlike all other democracies, and in this so
 
 manifestly hostile to the whole democratic idea.
 
@@ -8707,7 +8707,7 @@ is the progressive theory, the legacy of seventeenth-century
 
 sectarianism, the dogma implied in much modern politics, and the evident
 
-enemy of [[democracy]]. [[democracy|Democracy]] is reproached with saying that the
+enemy of [[Democracy|democracy]]. [[Democracy]] is reproached with saying that the
 
 majority is always right. But progress says that the minority is always
 
@@ -8731,7 +8731,7 @@ that is dead, they appeal to something that may never be born.
 
 There is another cause of this strange servile disease in American
 
-[[democracy]]. It is to be found in American feminism, and feminist [[America]]
+[[Democracy|democracy]]. It is to be found in American feminism, and feminist [[America]]
 
 is an entirely different thing from feminine [[America]]. I should say that
 
@@ -10613,7 +10613,7 @@ testify that they are funny, without seeing the fun of it for a moment.
 
 This is partly perhaps the spirit of spontaneous institutionalism in
 
-American [[democracy]], breaking out in the wrong place. They make [[Humour|humour]] an
+American [[Democracy|democracy]], breaking out in the wrong place. They make [[Humour|humour]] an
 
 institution; and a man will be set to tell an anecdote as if to play the
 
@@ -10677,7 +10677,7 @@ learn from [[America]]; but we only listen to those Americans who have still
 
 to learn them. Thus, for instance, we do not import the small farm but
 
-only the big shop. In other words, we hear nothing of the [[democracy]] of
+only the big shop. In other words, we hear nothing of the [[Democracy|democracy]] of
 
 the Middle West, but everything of the plutocracy of the middleman, who
 
@@ -11705,7 +11705,7 @@ in that Constitution. The point appeared in answer to a question which
 
 many, like myself, must have put in this matter; the question of
 
-despotism and [[democracy]]. I cannot understand any democrat not seeing the
+despotism and [[Democracy|democracy]]. I cannot understand any democrat not seeing the
 
 danger of so distant and indirect a system of [[government]]. It is hard
 
@@ -11759,7 +11759,7 @@ has a real popular institution in the Presidency. But Mr. Wells would
 
 appear to want the American Constitution without the Presidency. If I
 
-understand his words rightly, he seems to want the great [[democracy]]
+understand his words rightly, he seems to want the great [[Democracy|democracy]]
 
 without its popular institution. Alluding to this danger, that the
 
@@ -11813,7 +11813,7 @@ first that the World State will be needed because it is strong, and
 
 then that it may safely be weak because it will not be needed.
 
-Internationalism is in any case hostile to [[democracy]]. I do not say it is
+Internationalism is in any case hostile to [[Democracy|democracy]]. I do not say it is
 
 incompatible with it; but any combination of the two will be a
 
@@ -11843,9 +11843,9 @@ been to the Cannibal Islands; or rather of the still smaller and more
 
 select minority who have come back.
 
-Given this difficulty about quite direct [[democracy]] over large areas, I
+Given this difficulty about quite direct [[Democracy|democracy]] over large areas, I
 
-think the nearest thing to [[democracy]] is despotism. At any rate I think
+think the nearest thing to [[Democracy|democracy]] is despotism. At any rate I think
 
 it is some sort of more or less independent monarchy, such as Andrew
 
@@ -12471,9 +12471,9 @@ described them because he had a genius for that sort of description; for
 
 the making of almost maniacal grotesques of the same type as Quilp or
 
-[[Fagin]]. He made these Americans absurd because he was an [[Artist|artist]] in
+[[Fagin]]. He made these Americans absurd because he was an [[artist]] in
 
-absurdity; and no [[Artist|artist]] can help finding hints everywhere for his own
+absurdity; and no [[artist]] can help finding hints everywhere for his own
 
 peculiar art. In a word, he created a laughable Pogram for the same
 
@@ -12887,7 +12887,7 @@ through the Victorian era; and it was one of the very few realities that
 
 Dickens did not understand. But any one who does understand it will know
 
-that the days of Cobbett saw the last lost fight for English [[democracy]];
+that the days of Cobbett saw the last lost fight for English [[Democracy|democracy]];
 
 and that if he had stood at that turning of the historic [[Road|road]], he would
 
@@ -13927,7 +13927,7 @@ emotions. As this has a particular application to the emotions of the
 
 Englishman, I will return to the topic once more. Now Americans have a
 
-power that is the [[Soul|soul]] and [[success]] of [[democracy]], the power of
+power that is the [[Soul|soul]] and [[success]] of [[Democracy|democracy]], the power of
 
 spontaneous social organisation. Their high spirits, their humane ideals
 
@@ -14159,11 +14159,11 @@ Englishman and an English bird are far more delicate. It would be
 
 equally easy and equally unjust to suggest a similar [[Satire|satire]] against
 
-American [[democracy]]; and represent Americans merely as [[Birds|birds]] of a feather
+American [[Democracy|democracy]]; and represent Americans merely as [[Birds|birds]] of a feather
 
 who can do nothing but flock together. But this would leave out the fact
 
-that at least it is not the white feather; that [[democracy]] is capable of
+that at least it is not the white feather; that [[Democracy|democracy]] is capable of
 
 defiance and of [[Death|death]] for an idea. Touching the souls of great nations,
 
@@ -14179,7 +14179,7 @@ nobody who knows me will credit me with a covert sneer at civic
 
 equality. And this being granted, I do think there is a danger in the
 
-gregariousness of American society. The danger of [[democracy]] is not
+gregariousness of American society. The danger of [[Democracy|democracy]] is not
 
 anarchy; on the contrary, it is monotony. And it is touching this that
 
@@ -14317,7 +14317,7 @@ going to appear?' A man who betakes himself to Switzerland for the
 
 [[Winter|winter]] sports is not instantly pinned by the statement, 'I suppose your
 
-[[history|History]] of the Helvetian Republic is coming out this [[Spring|spring]]?' Lecturing,
+[[history|History]] of the Helvetian Republic is coming out this [[spring]]?' Lecturing,
 
 at least my kind of lecturing, is not much more serious or meritorious
 
@@ -14331,15 +14331,15 @@ sincere in my enjoyment and appreciation of [[America]], and equally sincere
 
 in my interest in its most serious problem, which I think a very serious
 
-problem indeed; the problem of [[democracy]] in the modern world. [[democracy|Democracy]]
+problem indeed; the problem of [[Democracy|democracy]] in the modern world. [[Democracy]]
 
 may be a very obvious and facile affair for plutocrats and politicians
 
-who only have to use it as a rhetorical term. But [[democracy]] is a very
+who only have to use it as a rhetorical term. But [[Democracy|democracy]] is a very
 
 serious problem for democrats. I certainly do not apologise for the word
 
-[[democracy]]; but I do apologise for the word future. I am no Futurist; and
+[[Democracy|democracy]]; but I do apologise for the word future. I am no Futurist; and
 
 any conjectures I make must be taken with the grain of salt which is
 
@@ -14377,7 +14377,7 @@ he can do is to note what ideas necessarily go together by their own
 
 follows that this final chapter must consist of two things. The first is
 
-a summary of what has really happened to the idea of [[democracy]] in recent
+a summary of what has really happened to the idea of [[Democracy|democracy]] in recent
 
 times; the second a suggestion of the fundamental doctrine which is
 
@@ -14417,7 +14417,7 @@ preserved aristocracy; in [[America]] they preserved [[Slavery|slavery]]. But th
 
 they had more difficulties, they had less doubts. Since their [[Time|time]]
 
-[[democracy]] has been steadily disintegrated by doubts; and these political
+[[Democracy|democracy]] has been steadily disintegrated by doubts; and these political
 
 doubts have been contemporary with and often identical with religious
 
@@ -14533,7 +14533,7 @@ the best quality of steel and iron. But this is a minor illustration of
 
 the modern tendency, as compared with the main stream of scepticism
 
-which was destroying [[democracy]]. Evolution became more and more a vision
+which was destroying [[Democracy|democracy]]. Evolution became more and more a vision
 
 of the break-up of our brotherhood, till by the end of the nineteenth
 
@@ -14689,7 +14689,7 @@ manhood of all men. Where its [[Faith|faith]] was fixed by creeds and councils i
 
 could not save itself even by surrender. It could not gradually dilute
 
-[[democracy]], as could a merely sceptical or secular democrat. There stood,
+[[Democracy|democracy]], as could a merely sceptical or secular democrat. There stood,
 
 in fact or in possibility, the solid and smiling figure of a black
 
@@ -14699,15 +14699,15 @@ privileges of a man, or he was the mere buffoonery and blasphemy of a
 
 monkey in a mitre. That is the point about Christian and Catholic
 
-[[democracy]]; it is not that it is necessarily at any moment more
+[[Democracy|democracy]]; it is not that it is necessarily at any moment more
 
-democratic, it is that its indestructible minimum of [[democracy]] really is
+democratic, it is that its indestructible minimum of [[Democracy|democracy]] really is
 
-indestructible. And by the [[Nature|nature]] of things that mystical [[democracy]] was
+indestructible. And by the [[Nature|nature]] of things that mystical [[Democracy|democracy]] was
 
-destined to survive, when every other sort of [[democracy]] was free to
+destined to survive, when every other sort of [[Democracy|democracy]] was free to
 
-destroy itself. And whenever [[democracy]] destroying itself is suddenly
+destroy itself. And whenever [[Democracy|democracy]] destroying itself is suddenly
 
 moved to save itself, it always grasps at rag or tag of that old
 
@@ -14789,7 +14789,7 @@ all men equal; and it is right; for if they were not created equal, they
 
 were certainly evolved unequal.
 
-There is no basis for [[democracy]] except in a dogma about the divine
+There is no basis for [[Democracy|democracy]] except in a dogma about the divine
 
 origin of man. That is a perfectly simple fact which the modern world
 
@@ -14899,7 +14899,7 @@ the colours and complications of heraldry seemed as fresh and natural as
 
 Humanists, for whom the Greek grammar was like the [[Song|song]] of a bird in
 
-[[Spring|spring]]. The more the matter is considered the clearer it will seem that
+[[spring]]. The more the matter is considered the clearer it will seem that
 
 these old experiences are now only alive, where they have found a
 
@@ -14917,9 +14917,9 @@ so hazy an outline of so great and majestic a matter as the American
 
 democratic experiment, without testifying my belief that to this also
 
-the same ultimate test will come. So far as that [[democracy]] becomes or
+the same ultimate test will come. So far as that [[Democracy|democracy]] becomes or
 
-remains Catholic and Christian, that [[democracy]] will remain democratic.
+remains Catholic and Christian, that [[Democracy|democracy]] will remain democratic.
 
 In so far as it does not, it will become wildly and wickedly
 
@@ -14943,7 +14943,7 @@ depended upon Deism; their real strength will survive in men who are
 
 still Deists; and the men who are still Deists are more than Deists. Men
 
-will more and more realise that there is no meaning in [[democracy]] if
+will more and more realise that there is no meaning in [[Democracy|democracy]] if
 
 there is no meaning in anything; and that there is no meaning in
 

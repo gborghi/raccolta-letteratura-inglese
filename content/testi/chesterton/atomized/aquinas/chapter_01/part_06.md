@@ -1,5 +1,5 @@
 ---
-title: "[[aquinas]] — Chapter 1 (part 6)"
+title: "aquinas — Chapter 1 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/aquinas-(chesterton)"
@@ -108,32 +108,3 @@ It might be a humbler or homelier thing than the Platonic mind
 that is why it was Christian.  St. Thomas was, if you will,
 taking the lower [[Road|road]] when he walked in the steps of Aristotle.
 So was God, when He worked in the workshop of Joseph.
-
-Lastly, these two great men were not only united to each other
-but separated from most of their comrades and contemporaries
-by the very revolutionary character of their own revolution.
-In 1215, Dominic Guzman, the Castilian, founded an Order very
-similar to that of Francis; and, by a most curious coincidence
-of [[history]], at almost exactly the same moment as Francis.
-It was directed primarily to preaching the Catholic [[philosophy]]
-to the Albigensian heretics; whose own [[philosophy]] was one of the many
-forms of that Manicheanism with which this story is much concerned.
-It had its roots in the remote mysticism and moral detachment of the East;
-and it was therefore inevitable that the Dominicans should be rather
-more a brotherhood of philosophers, where the Franciscans were
-by comparison a brotherhood of poets.  For this and other reasons,
-St. Dominic and his followers are little known or understood
-in modern England; they were involved eventually in a religious war
-which followed on a theological argument; and there was something
-in the atmosphere of our country, during the last century or so,
-which made the theological argument even more incomprehensible than
-the religious war.  The ultimate effect is in some ways curious;
-because St. Dominic, even more than St. Francis, was marked by that
-intellectual independence, and strict standard of virtue and veracity,
-which Protestant cultures are wont to regard as specially Protestant.
-It was of him that the tale was told, and would certainly have
-been told more widely among us if it had been told of a Puritan,
-that the Pope pointed to his gorgeous Papal Palace and said,
-"Peter can no longer say `Silver and gold have I none'";
-and the Spanish friar answered, "No, and neither can he now say,
-`Rise and walk.'"

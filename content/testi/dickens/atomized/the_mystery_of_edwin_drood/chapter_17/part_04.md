@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 16 (part 4)"
+title: "The Mystery of Edwin Drood — Chapter 16 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_17/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_18/part_01">part 01 ›</a></div>
 </nav>
 
+
+On the suspicions thus urged and supported, Neville was detained, and
+re-detained, and the search was pressed on every hand, and Jasper
+laboured [[Night|night]] and day. But nothing more was found. No discovery being
+made, which proved the lost man to be dead, it at length became
+necessary to release the person suspected of having made away with him.
+Neville was set at large. Then, a consequence ensued which Mr.
+Crisparkle had too [[Well|well]] foreseen. Neville must leave the place, for the
+place shunned him and cast him out. Even had it not been so, the dear
+old china shepherdess would have worried herself to [[Death|death]] with fears
+for her son, and with general trepidation occasioned by their having
+such an inmate. Even had that not been so, the authority to which the
+Minor Canon deferred officially, would have settled the point.
 
 “Mr. Crisparkle,” quoth the Dean, “human justice may err, but it must
 act according to its lights. The days of taking sanctuary are past.

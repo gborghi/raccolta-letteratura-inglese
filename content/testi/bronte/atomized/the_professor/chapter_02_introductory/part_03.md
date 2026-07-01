@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 1: INTRODUCTORY (part 3)"
+title: "The Professor — Chapter 1: INTRODUCTORY (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -14,9 +14,15 @@ tags:
 </nav>
 
 
+man with a quiet and steady phlegm.
+
+“‘Have you quite broken with Tynedale and Seacombe?’ he asked hastily.
+
+“‘I do not think I shall have any further communication with them; my
+
+refusal of their proposals will, I fancy, operate as a barrier against
+
 all future intercourse.’
-
-
 
 “‘Why,’ said he, ‘I may as [[Well|well]] remind you at the very outset of our
 
@@ -27,8 +33,6 @@ Tynedale will be incompatible with assistance from me.’ There was a kind
 of gratuitous menace in his eye as he looked at me in finishing this
 
 observation.
-
-
 
 “Feeling no disposition to reply to him, I contented myself with an
 
@@ -42,15 +46,11 @@ evidence of my being cowed by his peremptory manner. After a long and
 
 hard stare at me, he [[Rose|rose]] sharply from his seat.
 
-
-
 “‘To-morrow,’ said he, ‘I shall call your attention to some other
 
 points; but now it is supper [[Time|time]], and Mrs. Crimsworth is probably
 
 waiting; will you come?’
-
-
 
 “He strode from the room, and I followed. In crossing the hall, I
 
@@ -65,8 +65,6 @@ these? Shall I, in conversing with her, feel free to show something of
 my real [[Nature|nature]]; or--’ Further conjectures were arrested by my entrance
 
 into the dining-room.
-
-
 
 “A lamp, burning under a shade of ground-glass, showed a handsome
 
@@ -108,15 +106,11 @@ pretended to be vexed, that he had that day driven a vicious [[Horse|horse]] in
 
 the gig, and he made light of her fears. Sometimes she appealed to me.
 
-
-
 “‘Now, Mr. William, isn’t it absurd in Edward to talk so? He says he
 
 will drive Jack, and no other [[Horse|horse]], and the brute has thrown him twice
 
 already.
-
-
 
 “She spoke with a kind of lisp, not disagreeable, but childish. I
 
@@ -148,8 +142,6 @@ of disaster, when a man’s hearth and [[Home|home]] would be cold indeed, witho
 
 the clear, cheering gleam of intellect.
 
-
-
 “Having perused the fair page of Mrs. Crimsworth’s face, a deep,
 
 involuntary sigh announced my disappointment; she took it as a homage to
@@ -157,8 +149,6 @@ involuntary sigh announced my disappointment; she took it as a homage to
 her [[Beauty|beauty]], and Edward, who was evidently proud of his rich and handsome
 
 young wife, threw on me a glance--half ridicule, half ire.
-
-
 
 “I turned from them both, and gazing wearily round the room, I saw two
 
@@ -182,8 +172,6 @@ picture being the only heir-looms saved out of the sale of my father’s
 
 property.
 
-
-
 “The face, I remembered, had pleased me as a boy, but then I did not
 
 understand it; now I knew how rare that class of face is in the world,
@@ -196,23 +184,15 @@ in the features indicative of most true and tender feeling. I was sorry
 
 it was only a picture.
 
-
-
 “I soon left Mr. and Mrs. Crimsworth to themselves; a servant
 
 conducted me to my bed-room; in closing my chamber-door, I shut out all
 
 intruders--you, Charles, as [[Well|well]] as the rest.
 
-
-
 “Good-bye for the present,
 
-
-
 “[[William Crimsworth|WILLIAM CRIMSWORTH]].”
-
-
 
 To this letter I never got an answer; before my old friend received it,
 
@@ -221,8 +201,6 @@ he had accepted a [[government|Government]] appointment in one of the colonies, 
 already on his way to the scene of his official labours. What has become
 
 of him since, I know not.
-
-
 
 The leisure [[Time|time]] I have at command, and which I intended to employ
 

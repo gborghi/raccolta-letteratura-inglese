@@ -14,6 +14,28 @@ tags:
 </nav>
 
 
+In all these instances, therefore, because of the absence of a standard of
+ultimate values, the most ordinary functions really cannot be performed.
+They not only cannot be performed with "a grateful feeling,"
+or a katharsis, but in the long run they cannot be performed at all.
+We cannot really denounce the Service-mongering bond salesman
+as a swindler, because we have no certain agreement that it
+is shameful to be a swindler.  A little manipulation of some
+of Mr. Mencken's own individualistic theories about mentality
+as superior to moralism might present the swindler as a superman.
+We cannot really argue for or against the mere ideal of Service,
+because neither side has really considered what is to be served
+or how we are to arrive at the right rules for serving it.
+Consequently, in practice, it may turn out that the State of Service
+is merely the Servile State.  And finally, we cannot really argue
+about that or anything else, because there are no rules of the game
+of argument.  There is nothing to prove who has scored a point
+and who has not.  There cannot be "strife in American criticism";
+the professors cannot be "forced to make some defence."
+That would require plaintiffs and defendants to appear before some
+tribunal and give evidence according to some tests of [[Truth|truth]].
+There can be a disturbance, but there can not be a discussion.
+
 In plain words, the normal functions of man--effort, protest, judgment,
 [[Persuasion|persuasion]], and proof--are found in fact to be hampered and hamstrung
 by these negations of the sceptic even when the sceptic seems at first

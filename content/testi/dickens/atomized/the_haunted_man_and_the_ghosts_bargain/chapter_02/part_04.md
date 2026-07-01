@@ -1,5 +1,5 @@
 ---
-title: "The Haunted Man and the [[Ghost]]'s Bargain — Chapter 2 (part 4)"
+title: "The Haunted Man and the Ghost's Bargain — Chapter 2 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-haunted-man-and-the-ghost's-bargain-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_02/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_02/part_05">part 05 ›</a></div>
 </nav>
 
+
+Mr. Tetterby seemed to dislike this figure of speech, and observed, “Say
+than the baby, my dear.”
 
 “—Had no more idea than the baby,” said Mrs. Tetterby.—“Johnny, don’t
 look at me, but look at her, or she’ll fall out of your lap and be
@@ -128,13 +131,3 @@ necessary, before I durst lay out a sixpence for the commonest thing; and
 the basket was so large, and wanted so much in it; and my stock of money
 was so small, and would go such a little way;—you hate me, don’t you,
 ’Dolphus?”
-
-“Not quite,” said Mr. Tetterby, “as yet.”
-
-“[[Well]]! I’ll tell you the whole [[Truth|truth]],” pursued his wife, penitently,
-“and then perhaps you will. I felt all this, so much, when I was
-trudging about in the cold, and when I saw a lot of other calculating
-faces and large baskets trudging about, too, that I began to think
-whether I mightn’t have done better, and been happier, if—I—hadn’t—” the
-wedding-ring went round again, and Mrs. Tetterby shook her downcast head
-as she turned it.

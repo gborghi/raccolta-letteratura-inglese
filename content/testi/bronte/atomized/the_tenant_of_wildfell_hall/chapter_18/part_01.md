@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 18 (part 1)"
+title: "The Tenant of Wildfell Hall — Chapter 18 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -24,7 +24,7 @@ August 25th.—I am now quite settled down to my usual routine of steady
 
 occupations and quiet amusements—tolerably contented and cheerful, but
 
-still looking forward to [[spring]] with the [[Hope|hope]] of returning to town, not
+still looking forward to [[Spring|spring]] with the [[Hope|hope]] of returning to town, not
 
 for its gaieties and dissipations, but for the chance of meeting Mr.
 
@@ -207,7 +207,3 @@ one of the profligate friends, I [[Wonder|wonder]]? I should think not; for no o
 could call _him_ a jolly companion, I’m sure,—and, besides, he appears
 
 too sober and gentlemanly in his demeanour to merit such suspicions. He
-
-is a tall, thin, gloomy-looking man, apparently between thirty and
-
-forty, and of a somewhat sickly, careworn aspect.

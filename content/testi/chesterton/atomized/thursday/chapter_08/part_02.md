@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 8 (part 2)"
+title: "thursday — Chapter 8 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -161,5 +161,3 @@ hands of the Marquis and Dr. Bull.  The Marquis is by this [[Time|time]] probabl
 crossing the Channel.  But where he will go and what he will do it
 is doubtful whether even the President knows; certainly we don't know.
 The only man who does know is Dr. Bull."
-
-"Confound it!" cried Syme.  "And we don't know where he is."

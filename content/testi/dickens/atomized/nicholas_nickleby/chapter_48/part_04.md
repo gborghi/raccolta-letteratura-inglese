@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 48 (part 4)"
+title: "Nicholas Nickleby — Chapter 48 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,29 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_48/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_49/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘I have heard several,’ replied Nicholas, with a smile. ‘What is yours?’
+
+‘When I dramatise a book, sir,’ said the literary gentleman, ‘THAT’S
+fame. For its author.’
+
+‘Oh, indeed!’ rejoined Nicholas.
+
+‘That’s fame, sir,’ said the literary gentleman.
+
+‘So [[Richard]] Turpin, Tom [[King]], and Jerry Abershaw have handed down to
+fame the names of those on whom they committed their most impudent
+robberies?’ said Nicholas.
+
+‘I don’t know anything about that, sir,’ answered the literary
+gentleman.
+
+‘Shakespeare dramatised stories which had previously appeared in print,
+it is true,’ observed Nicholas.
+
+‘Meaning Bill, sir?’ said the literary gentleman. ‘So he did. Bill
+was an adapter, certainly, so he was--and very [[Well|well]] he adapted
+too--considering.’
 
 ‘I was about to say,’ rejoined Nicholas, ‘that Shakespeare derived some
 of his plots from old tales and legends in general circulation; but it

@@ -406,11 +406,11 @@ between a showman and a magician, which explains almost all the real
 mistakes of his life.
 
 About this [[Time|time]] a very determining event interrupted his purely
-literary development, his first visit to [[america|America]].  It was destined
+literary development, his first visit to [[America]].  It was destined
 to have, apart from any other results, a direct effect upon
 his next book, which was [[Martin Chuzzlewit]] (1844). There were,
 of course, many purely practical and personal elements in
-the criticism which he directed against the western [[Democracy|democracy]].
+the criticism which he directed against the western [[democracy]].
 An unjust copyright law, or one which he at any rate thought
 very unjust, had enabled Americans to pirate his most popular works;
 and it would seem that the people he met were, in their breezy way,
@@ -453,7 +453,7 @@ and putting in a purple patch woven from his wild memories of
 the Yankees.  It was completely successful, in the [[Comedy|comedy]] sense;
 but it is worth noting that Dickens did something curiously
 Dickensian in thus suddenly sending [[Martin Chuzzlewit]] across
-the sea to [[america|America]].  It is not easy to imagine Thackeray suddenly
+the sea to [[America]].  It is not easy to imagine Thackeray suddenly
 hurling Pendennis from Mayfair into the middle of Australia;
 or George Eliot dislodging Felix Holt and flinging him as far
 as the North Pole.  The difference was partly the result of
@@ -614,11 +614,11 @@ as varied as those round the secret of [[Edwin Drood]].  But without
 exaggerating any one of the elements that contributed to it,
 we may note that the very last phase of his life was a new phase;
 and was almost entirely filled with his new activity in giving
-public readings from his works.  He had gone to [[america|America]] once
+public readings from his works.  He had gone to [[America]] once
 more in the November of 1867, with this particular purpose;
 and his campaign of public speaking in this style was truly
 American in its scope and scale.  If he had indeed been unjust
-to [[america|America]] as a writer, it is curious that he should have
+to [[America]] as a writer, it is curious that he should have
 reached his final popularity and perhaps his final collapse,
 in a character so supremely American.  Differences exist
 about how far he exaggerated the function or how far his
@@ -819,7 +819,7 @@ of Dickens (1857-58); J. Forster, Life of Charles Dickens, 3 vols.
 (1872-74), new ed., 2 vols. (1927); Mary Dickens, Letters of Charles Dickens 
 (1898); G. K. Chesterton, Charles Dickens (1906), Appreciations and 
 Criticisms of the Work of Charles Dickens (1911); S. J. A. Fitz-Gerald, 
-Dickens and the Drama (1910); W. G. Wilkins, Charles Dickens in [[america|America]] 
+Dickens and the Drama (1910); W. G. Wilkins, Charles Dickens in [[America]] 
 (1911); E. P. Whipple, Charles Dickens, 2 vols. (1912); A. C. Swinburne, 
 Charles Dickens (new ed., 1913); W. Dexter, The [[London]] of Dickens (1923); 
 The [[Kent]] of Dickens (1924); The England of Dickens (1925); Dickens (1927); 

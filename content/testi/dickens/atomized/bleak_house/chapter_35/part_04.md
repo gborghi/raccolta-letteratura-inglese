@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 35 (part 4)"
+title: "Bleak House — Chapter 35 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_35/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_35/part_05">part 05 ›</a></div>
 </nav>
 
+
+My guardian now came every day. In a week or so more I could walk
+about our rooms and hold long talks with Ada from behind the
+[[Window|window]]-curtain. Yet I never saw her, for I had not as yet the [[Courage|courage]]
+to look at the dear face, though I could have done so easily without
+her seeing me.
 
 On the appointed day Miss Flite arrived. The poor little creature ran
 into my room quite forgetful of her usual dignity, and crying from
@@ -140,14 +146,3 @@ to her by meeting the theme rather than avoiding it.
 “Equally of course,” said she. “Very wearing to be always in
 expectation of what never comes, my dear Fitz Jarndyce! Wearing, I
 assure you, to the bone!”
-
-She slightly showed me her arm, and it was fearfully thin indeed.
-
-“But, my dear,” she went on in her mysterious way, “there’s a
-dreadful attraction in the place. Hush! Don’t mention it to our
-diminutive friend when she comes in. Or it may frighten her. With
-good reason. There’s a cruel attraction in the place. You CAN’T leave
-it. And you MUST expect.”
-
-I tried to assure her that this was not so. She heard me patiently
-and smilingly, but was ready with her own answer.

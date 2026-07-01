@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 24 (part 4)"
+title: "Shirley — Chapter 24 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -12,6 +12,60 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_24/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_24/part_05">part 05 ›</a></div>
 </nav>
+
+
+brought you some tea, Cary. Your uncle made it himself. You know he says
+
+he can make a better cup of tea than any housewife can. Taste it. He is
+
+concerned to hear that you eat so little; he would be glad if you had a
+
+better appetite."
+
+
+
+"I am thirsty. Let me drink."
+
+
+
+She drank eagerly.
+
+
+
+"What o'[[Clock|clock]] is it, ma'am?" she asked.
+
+
+
+"Past nine."
+
+
+
+"Not later? Oh! I have yet a long [[Night|night]] before me. But the tea has made
+
+me strong. I will sit up."
+
+
+
+Mrs. Pryor raised her, and arranged her pillows.
+
+
+
+"Thank Heaven! I am not always equally miserable, and ill, and hopeless.
+
+The afternoon has been bad since Hortense went; perhaps the evening may
+
+be better. It is a fine [[Night|night]], I think? The [[Moon|moon]] shines clear."
+
+
+
+"Very fine--a perfect [[Summer|summer]] [[Night|night]]. The old church-tower gleams white
+
+almost as silver."
+
+
+
+"And does the churchyard look peaceful?"
+
 
 
 "Yes, and the [[Garden|garden]] also. Dew glistens on the foliage."
@@ -253,59 +307,3 @@ Caroline down.
 Quitting her, she glided to the door, softly turned the key in the lock,
 
 ascertained that it was fast, and came back. She bent over her. She
-
-threw back the curtain to admit the moonlight more freely. She gazed
-
-intently on her face.
-
-
-
-"Then, if you [[Love|love]] me," said she, speaking quickly, with an altered
-
-voice; "if you feel as if, to use your own words, you could 'grow to my
-
-heart,' it will be neither shock nor [[Pain|pain]] for you to know that _that_
-
-heart is the source whence yours was filled; that from _my_ veins issued
-
-the tide which flows in _yours_; that you are _mine_--my daughter--my
-
-own [[Child|child]]."
-
-
-
-"Mrs. Pryor----"
-
-
-
-"My own [[Child|child]]!"
-
-
-
-"That is--that means--you have adopted me?"
-
-
-
-"It means that, if I have given you nothing else, I at least gave you
-
-life; that I bore you, nursed you; that I am your true mother. No other
-
-woman can claim the title; it is _mine_."
-
-
-
-"But Mrs. James Helstone--but my father's wife, whom I do not remember
-
-ever to have seen, she is my mother?"
-
-
-
-"She _is_ your mother. James Helstone was _my_ husband. I say you are
-
-_mine_. I have proved it. I thought perhaps you were all his, which
-
-would have been a cruel dispensation for me. I find it is _not_ so. God
-
-permitted me to be the parent of my [[Child|child]]'s mind. It belongs to me; it
-
-is my property--my _right_. These features are James's own. He had a

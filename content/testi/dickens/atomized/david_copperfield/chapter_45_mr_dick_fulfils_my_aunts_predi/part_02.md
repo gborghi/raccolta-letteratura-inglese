@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 45: MR. DICK FULFILS MY AUNT’S PREDICTIONS (part 2)"
+title: "David Copperfield — Chapter 45: MR. DICK FULFILS MY AUNT’S PREDICTIONS (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_45_mr_dick_fulfils_my_aunts_predi/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_45_mr_dick_fulfils_my_aunts_predi/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘You couldn’t speak to me without inconveniencing yourself, Trotwood, I
+am afraid?’
 
 ‘Certainly, Mr. Dick,’ said I; ‘come in!’
 

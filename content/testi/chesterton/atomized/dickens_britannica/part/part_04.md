@@ -73,11 +73,11 @@ between a showman and a magician, which explains almost all the real
 mistakes of his life.
 
 About this [[Time|time]] a very determining event interrupted his purely
-literary development, his first visit to [[america|America]].  It was destined
+literary development, his first visit to [[America]].  It was destined
 to have, apart from any other results, a direct effect upon
 his next book, which was [[Martin Chuzzlewit]] (1844). There were,
 of course, many purely practical and personal elements in
-the criticism which he directed against the western [[Democracy|democracy]].
+the criticism which he directed against the western [[democracy]].
 An unjust copyright law, or one which he at any rate thought
 very unjust, had enabled Americans to pirate his most popular works;
 and it would seem that the people he met were, in their breezy way,
@@ -120,7 +120,7 @@ and putting in a purple patch woven from his wild memories of
 the Yankees.  It was completely successful, in the [[Comedy|comedy]] sense;
 but it is worth noting that Dickens did something curiously
 Dickensian in thus suddenly sending [[Martin Chuzzlewit]] across
-the sea to [[america|America]].  It is not easy to imagine Thackeray suddenly
+the sea to [[America]].  It is not easy to imagine Thackeray suddenly
 hurling Pendennis from Mayfair into the middle of Australia;
 or George Eliot dislodging Felix Holt and flinging him as far
 as the North Pole.  The difference was partly the result of

@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 7 (part 2)"
+title: "The Tenant of Wildfell Hall — Chapter 7 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_07/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_07/part_03">part 03 ›</a></div>
 </nav>
 
+
+as an old woman carrying her eggs to market.”
+
+
+
+“I am not sure the [[Loneliness|loneliness]] of the place was not one of its chief
 
 recommendations. I take no pleasure in watching people pass the
 
@@ -130,7 +136,7 @@ proceed.
 
 —— Bay you are thinking about, I suppose, Mrs. Graham? It is a very
 
-long walk, too far for you, and out of the question for [[arthur|Arthur]]. But we
+long walk, too far for you, and out of the question for [[Arthur]]. But we
 
 were thinking about making a picnic to see it some fine day; and, if
 
@@ -158,7 +164,7 @@ miles distant.
 
 will drive and walk by turns; for we shall have our pony-carriage,
 
-which will be plenty large enough to contain little [[arthur|Arthur]] and three
+which will be plenty large enough to contain little [[Arthur]] and three
 
 ladies, together with your sketching apparatus, and our provisions.”
 
@@ -210,7 +216,7 @@ displeasing to me, though I could scarcely tell you why.
 
 It was about midday when we reached the place of our destination. Mrs.
 
-Graham walked all the way to the cliffs; and little [[arthur|Arthur]] walked the
+Graham walked all the way to the cliffs; and little [[Arthur]] walked the
 
 greater part of it too; for he was now much more hardy and active than
 
@@ -231,11 +237,3 @@ white, sunny [[Road|road]], shaded here and there with bright green trees, and
 adorned with flowery banks and blossoming hedges of delicious
 
 fragrance; or through pleasant fields and lanes, all glorious in the
-
-sweet [[Flowers|flowers]] and brilliant verdure of delightful May. It was true,
-
-Eliza was not beside me; but she was with her friends in the
-
-pony-carriage, as happy, I trusted, as I was; and even when we
-
-pedestrians, having forsaken the highway for a short cut across the

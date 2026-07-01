@@ -14,6 +14,32 @@ tags:
 </nav>
 
 
+treads the wretched D'Urfey down in the dirt beneath his feet; and
+
+strikes with all his strength full at the towering crest of Dryden."
+
+That is exactly where Macaulay is great; because he is almost Homeric.
+
+The whole triumph turns upon mere names; but men are commanded by
+
+names. So his poem on the Armada is really a good geography book gone
+
+mad; one sees the map of England come alive and march and mix under the
+
+eye.
+
+The chief [[Tragedy|tragedy]] in the trend of later literature may be expressed by
+
+saying that the smaller Macaulay conquered the larger. Later men had
+
+less and less of that hot [[Love|love]] of [[history]] he had inherited from Scott.
+
+They had more and more of that cold science of [[Self|self]]-interests which he
+
+had learnt from Bentham.
+
+The name of this great man, though it belongs to a period before the
+
 Victorian, is, like the name of Cobbett, very important to it. In
 
 substance Macaulay accepted the conclusions of Bentham; though he
@@ -48,8 +74,6 @@ all the more touching because, in his department, as it were, he could
 
 only offer them so dry a gift as the Victorian Parliamentary Franchise.
 
-
-
 Now in trying to describe how the Victorian writers stood to each other,
 
 we must recur to the very real difficulty noted at the beginning: the
@@ -79,8 +103,6 @@ delivered, that was coming from the club of Darwin. For this reason no
 one can understand tradition, or even [[history]], who has not some
 
 tenderness for anachronism.
-
-
 
 Now for the great part of the Victorian era the utilitarian tradition
 
@@ -124,8 +146,6 @@ his religion: but Huxley was always talking about the religion he hadn't
 
 got.
 
-
-
 But though this simple Victorian rationalism held the centre, and in a
 
 certain sense _was_ the Victorian era, it was assailed on many sides,
@@ -164,34 +184,4 @@ the Victorian poets. From Ruskin, again, descend those who may be called
 
 the Pre-Raphaelites of prose and poetry.
 
-
-
 It is really with this rationalism triumphant, and with the [[Romance|romance]] of
-
-these various attacks on it, that the study of Victorian literature
-
-begins and proceeds. Bentham was already the [[Prophet|prophet]] of a powerful sect;
-
-Macaulay was already the historian of an historic party, before the true
-
-Victorian epoch began. The middle classes were emerging in a state of
-
-damaged [[Puritanism]]. The upper classes were utterly pagan. Their clear
-
-and courageous testimony remains in those immortal words of Lord
-
-Melbourne, who had led the young [[Queen|queen]] to the throne and long stood
-
-there as her protector. "No one has more respect for the Christian
-
-religion than I have; but really, when it comes to intruding it into
-
-private life----" What was pure paganism in the politics of Melbourne
-
-became a sort of mystical cynicism in the politics of Disraeli; and is
-
-[[Well|well]] mirrored in his novels--for he was a man who felt at [[Home|home]] in
-
-mirrors. With every allowance for aliens and eccentrics and all the
-
-accidents that must always eat the edges of any systematic

@@ -1,5 +1,5 @@
 ---
-title: "[[Emma]] — Chapter 4 (part 2)"
+title: "Emma — Chapter 4 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/emma-(austen)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/emma/chapter_04/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/emma/chapter_04/part_03">part 03 ›</a></div>
 </nav>
 
+
+“Mr. Martin, I suppose, is not a man of information beyond the line of
+his own business? He does not read?”
+
+“Oh yes!—that is, no—I do not know—but I believe he has read a good
+deal—but not what you would think any thing of. He reads the
+Agricultural Reports, and some other books that lay in one of the
+[[Window|window]] seats—but he reads all _them_ to himself. But sometimes of an
+evening, before we went to cards, he would read something aloud out of
+the Elegant Extracts, very entertaining. And I know he has read the
+Vicar of Wakefield. He never read the [[Romance]] of the Forest, nor The
+Children of the Abbey. He had never heard of such books before I
+mentioned them, but he is determined to get them now as soon as ever he
+can.”
 
 The next question was—
 
@@ -116,17 +130,3 @@ thought he must lose all the ground he had gained in Harriet’s
 inclination. Harriet was not insensible of manner; she had voluntarily
 noticed her father’s gentleness with admiration as [[Well|well]] as [[Wonder|wonder]]. Mr.
 Martin looked as if he did not know what manner was.
-
-They remained but a few minutes together, as Miss Woodhouse must not be
-kept waiting; and Harriet then came running to her with a smiling face,
-and in a flutter of spirits, which Miss Woodhouse hoped very soon to
-compose.
-
-“Only think of our happening to meet him!—How very odd! It was quite a
-chance, he said, that he had not gone round by Randalls. He did not
-think we ever walked this [[Road|road]]. He thought we walked towards Randalls
-most days. He has not been able to get the [[Romance]] of the Forest yet.
-He was so busy the last [[Time|time]] he was at Kingston that he quite forgot
-it, but he goes again to-morrow. So very odd we should happen to meet!
-[[Well]], Miss Woodhouse, is he like what you expected? What do you think
-of him? Do you think him so very plain?”

@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 13 (part 2)"
+title: "Great Expectations — Chapter 13 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_13/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_13/part_03">part 03 ›</a></div>
 </nav>
 
+
+“This is wery liberal on your part, Pip,” said Joe, “and it is as such
+received and grateful welcome, though never looked for, far nor near,
+nor nowheres. And now, old chap,” said Joe, conveying to me a
+sensation, first of burning and then of freezing, for I felt as if that
+familiar expression were applied to [[Miss Havisham]],—“and now, old chap,
+may we do our duty! May you and me do our duty, both on us, by one and
+another, and by them which your liberal present—have-conweyed—to be—for
+the satisfaction of mind-of—them as never—” here Joe showed that he
+felt he had fallen into frightful difficulties, until he triumphantly
+rescued himself with the words, “and from myself far be it!” These
+words had such a round and convincing sound for him that he said them
+twice.
 
 “Good-bye, Pip!” said [[Miss Havisham]]. “Let them out, [[Estella]].”
 
@@ -150,14 +163,3 @@ I heard some people say, “What’s he done?” and others, “He’s a young
 aspect even gave me a tract ornamented with a woodcut of a malevolent
 young man fitted up with a perfect sausage-shop of fetters, and
 entitled TO BE READ IN MY CELL.
-
-The Hall was a queer place, I thought, with higher pews in it than a
-church,—and with people hanging over the pews looking on,—and with
-mighty Justices (one with a powdered head) leaning back in chairs, with
-folded arms, or taking snuff, or going to [[Sleep|sleep]], or writing, or reading
-the newspapers,—and with some shining black portraits on the walls,
-which my unartistic eye regarded as a composition of hardbake and
-sticking-plaster. Here, in a corner my indentures were duly signed and
-attested, and I was “bound”; Mr. Pumblechook holding me all the while
-as if we had looked in on our way to the scaffold, to have those little
-preliminaries disposed of.

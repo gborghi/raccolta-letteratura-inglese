@@ -1,5 +1,5 @@
 ---
-title: "[[wifrb11]] — The Duel of Dr Hirsch"
+title: "wifrb11 — The Duel of Dr Hirsch"
 author: "Chesterton"
 unitType: story
 parentWork: "works/wifrb11-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
                          The Duel of Dr Hirsch
-
 
 M. MAURICE BRUN and M. Armand Armagnac were crossing the sunlit
 Champs Elysee with a kind of vivacious respectability. 
@@ -92,8 +91,6 @@ I cannot: I will not.
      There is going to be another Dreyfus case.
 
                                              P. HIRSCH
-
-
 
      M. Armagnac looked at M. Brun.  M. Brun borrowed the letter,
 read it, and looked at M. Armagnac.  Then both betook themselves briskly
@@ -634,8 +631,5 @@ then they were covered with a pair of blue spectacles.  Slipping on
 a loose black coat, the figure vanished towards the front of the [[house]]. 
 A few moments later a roar of popular applause from the street beyond
 announced that Dr Hirsch had once more appeared upon the balcony.
-
-
-
 
                                  FOUR

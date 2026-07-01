@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 15 (part 3)"
+title: "Nicholas Nickleby — Chapter 15 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_15/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_15/part_04">part 04 ›</a></div>
 </nav>
 
+
+Meanwhile, the company below stairs, after listening attentively and
+not hearing any noise which would justify them in interfering for
+the gratification of their curiosity, returned to the chamber of the
+Kenwigses, and employed themselves in hazarding a great variety of
+conjectures relative to the cause of Mr. Noggs’ sudden disappearance and
+detention.
 
 ‘Lor, I’ll tell you what,’ said Mrs. Kenwigs. ‘Suppose it should be an
 express sent up to say that his property has all come back again!’
@@ -126,16 +133,3 @@ looking in at this happy juncture; ‘but what a queer business this is,
 isn’t it? Noggs has lived in this [[house]], now going on for five years,
 and nobody has ever been to see him before, within the [[Memory|memory]] of the
 oldest inhabitant.’
-
-‘It’s a strange [[Time|time]] of [[Night|night]] to be called away, sir, certainly,’ said
-the collector; ‘and the behaviour of Mr. Noggs himself, is, to say the
-least of it, mysterious.’
-
-‘[[Well]], so it is,’ rejoined Crowl; ‘and I’ll tell you what’s more--I
-think these two geniuses, whoever they are, have run away from
-somewhere.’
-
-‘What makes you think that, sir?’ demanded the collector, who seemed, by
-a tacit understanding, to have been chosen and elected mouthpiece to
-the company. ‘You have no reason to suppose that they have run away from
-anywhere without paying the rates and taxes due, I [[Hope|hope]]?’

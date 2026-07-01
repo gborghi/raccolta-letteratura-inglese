@@ -1,5 +1,5 @@
 ---
-title: "[[Macbeth]] — Act IV, Scene 1 — monologue ([[Macbeth|MACBETH]]) [3]"
+title: "Macbeth — Act IV, Scene 1 — monologue (MACBETH) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/macbeth-(shakespeare)"

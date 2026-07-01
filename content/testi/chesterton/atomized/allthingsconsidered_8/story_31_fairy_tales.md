@@ -1,5 +1,5 @@
 ---
-title: "[[AllThingsConsidered-8]] — FAIRY TALES"
+title: "AllThingsConsidered-8 — FAIRY TALES"
 author: "Chesterton"
 unitType: story
 parentWork: "works/allthingsconsidered-8-(chesterton)"
@@ -10,12 +10,11 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/allthingsconsidered-8-(chesterton)">AllThingsConsidered 8</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_30_the_eatanswill_gazette">‹ Story 30 THE EATANSWILL GAZETTE</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_32_tom_jones_and_morality">Story 32 TOM JONES AND MORALITY ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_30_the_eatanswill_gazette">‹ Story 30 THE EATANSWILL GAZETTE</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_32_tom_jones_jones_and_morality_morality">Story 32 TOM Jones JONES AND morality MORALITY ›</a></div>
 </nav>
 
 
 FAIRY TALES
-
 
 Some solemn and superficial people (for nearly all very superficial
 people are solemn) have declared that the fairy tales are immoral;
@@ -42,10 +41,8 @@ familiar with the practice of physical assault), he has, I say,
 called up a hundred times the picture of the terrible [[Freedom|freedom]]
 of the fairies, who typify the ultimate anarchy of art--
 
-
   "Where nobody grows old or weary or wise,
   Where nobody grows old or godly or [[Grave|grave]]."
-
 
 But, after all (it is a shocking thing to say), I [[Doubt|doubt]] whether
 Mr. Yeats really knows the real [[philosophy]] of the fairies.  He is not

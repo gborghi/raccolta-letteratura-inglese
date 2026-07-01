@@ -1,5 +1,5 @@
 ---
-title: "[[queertrades]] — Chapter 3"
+title: "queertrades — Chapter 3"
 author: "Chesterton"
 unitType: story
 parentWork: "works/queertrades-(chesterton)"
@@ -18,13 +18,12 @@ Chapter 3
 
 The Awful Reason of the Vicar's Visit
 
-
 The revolt of Matter against Man (which I believe to exist)
 has now been reduced to a singular condition.  It is the small
 things rather than the large things which make war against us and,
 I may add, beat us.  The bones of the last mammoth have long
 ago decayed, a mighty wreck; the tempests no longer devour our navies,
-nor the [[Mountains|mountains]] with hearts of [[Fire|fire]] heap hell over our cities.
+nor the mountains with hearts of fire heap hell over our cities.
 But we are engaged in a bitter and eternal war with small things;
 chiefly with microbes and with collar studs.  The stud with which I
 was engaged (on fierce and equal terms) as I made the above reflections,
@@ -51,12 +50,12 @@ could not conceal a depressing and gentlemanly excellence, "Asking the
 favour of a few moments' conversation on a most urgent matter."!
 
 I had already subdued the stud, thereby proclaiming that the image
-of God has supremacy over all matters (a valuable [[Truth|truth]]), and throwing
-on my dress-coat and waistcoat, hurried into the drawing-room. He [[Rose|rose]]
+of God has supremacy over all matters (a valuable truth), and throwing
+on my dress-coat and waistcoat, hurried into the drawing-room. He rose
 at my entrance, flapping like a seal; I can use no other description.
 He flapped a plaid shawl over his right arm; he flapped a pair
 of pathetic black gloves; he flapped his clothes; I may say,
-without exaggeration, that he flapped his eyelids, as he [[Rose|rose]].
+without exaggeration, that he flapped his eyelids, as he rose.
 He was a bald-browed, white-haired, white-whiskered old clergyman,
 of a flappy and floppy type.  He said:
 
@@ -70,13 +69,13 @@ I told him I forgave perfectly and waited.
 it is so dreadful--I have lived a quiet life."
 
 I was burning to get away, for it was already doubtful if I should
-be in [[Time|time]] for dinner.  But there was something about the old man's
+be in time for dinner.  But there was something about the old man's
 honest air of bitterness that seemed to open to me the possibilities
 of life larger and more tragic than my own.
 
 I said gently:  "Pray go on."
 
-Nevertheless the old gentleman, being a gentleman as [[Well|well]] as old,
+Nevertheless the old gentleman, being a gentleman as well as old,
 noticed my secret impatience and seemed still more unmanned.
 
 "I'm so sorry," he said meekly; "I wouldn't have come--but for--
@@ -86,13 +85,13 @@ your friend Major Brown recommended me to come here."
 
 "Yes," said the Reverend Mr Shorter, feverishly flapping his plaid
 shawl about.  "He told me you helped him in a great difficulty--
-and my difficulty!  Oh, my dear sir, it's a matter of life and [[Death|death]]."
+and my difficulty!  Oh, my dear sir, it's a matter of life and death."
 
-I [[Rose|rose]] abruptly, in an acute perplexity.  "Will it take long,
+I rose abruptly, in an acute perplexity.  "Will it take long,
 Mr Shorter?"  I asked.  "I have to go out to dinner almost at once."
 
-He [[Rose|rose]] also, trembling from head to foot, and yet somehow,
-with all his moral palsy, he [[Rose|rose]] to the dignity of his age
+He rose also, trembling from head to foot, and yet somehow,
+with all his moral palsy, he rose to the dignity of his age
 and his office.
 
 "I have no right, Mr Swinburne--I have no right at all," he said.
@@ -116,19 +115,19 @@ as if not smoking cigars was a social disgrace.
 
 "No, thank you, no, thank you; not just now," he repeated with that
 hysterical eagerness with which people who do not drink at all often
-try to convey that on any other [[Night|night]] of the week they would sit
-up all [[Night|night]] drinking rum-punch. "Not just now, thank you."
+try to convey that on any other night of the week they would sit
+up all night drinking rum-punch. "Not just now, thank you."
 
 "Nothing else I can get for you?"  I said, feeling genuinely sorry
-for the [[Well|well]]-mannered old [[donkey]].  "A cup of tea?"
+for the well-mannered old donkey.  "A cup of tea?"
 
 I saw a struggle in his eye and I conquered.  When the cup
 of tea came he drank it like a dipsomaniac gulping brandy.
 Then he fell back and said:
 
-"I have had such a [[Time|time]], Mr Swinburne.  I am not used to
+"I have had such a time, Mr Swinburne.  I am not used to
 these excitements.  As Vicar of Chuntsey, in Essex'--he threw this
-in with an indescribable airiness of [[Vanity|vanity]]--'I have never known
+in with an indescribable airiness of vanity--'I have never known
 such things happen."
 
 "What things happen?"  I asked.
@@ -141,7 +140,7 @@ character of an old woman.  Never once.  My experience may be small.
 It may be insufficient.  But it has never occurred to me before."
 
 "I have never heard of it," I said, "as among the duties of a clergyman.
-But I am not [[Well|well]] up in church matters.  Excuse me if perhaps I
+But I am not well up in church matters.  Excuse me if perhaps I
 failed to follow you correctly.  Dressed up--as what?"
 
 "As an old woman," said the vicar solemnly, "as an old woman."
@@ -159,15 +158,15 @@ to keep certain appointments and pay certain visits in the village.
 My first visit was to Mr Jervis, the treasurer of our League
 of Christian Amusements, with whom I concluded some business
 touching the claim made by Parkes the gardener in the matter
-of the [[rolling]] of our tennis lawn.  I then visited Mrs Arnett,
+of the rolling of our tennis lawn.  I then visited Mrs Arnett,
 a very earnest churchwoman, but permanently bedridden.
 She is the author of several small works of devotion, and of a book
-of verse, entitled (unless my [[Memory|memory]] misleads me) Eglantine."
+of verse, entitled (unless my memory misleads me) Eglantine."
 
 He uttered all this not only with deliberation, but with something
 that can only be called, by a contradictory phrase, eager deliberation.
-He had, I think, a vague [[Memory|memory]] in his head of the detectives
-in the [[Detective|detective]] stories, who always sternly require that nothing
+He had, I think, a vague memory in his head of the detectives
+in the detective stories, who always sternly require that nothing
 should be kept back.
 
 "I then proceeded," he went on, with the same maddening conscientiousness
@@ -175,7 +174,7 @@ of manner, "to Mr Carr (not Mr James Carr, of course; Mr Robert Carr)
 who is temporarily assisting our organist, and having consulted with him
 (on the subject of a choir boy who is accused, I cannot as yet
 say whether justly or not, of cutting holes in the organ pipes),
-I finally dropped in upon a Dorcas meeting at the [[house]] of Miss Brett.
+I finally dropped in upon a Dorcas meeting at the house of Miss Brett.
 The Dorcas meetings are usually held at the vicarage, but my wife
 being unwell, Miss Brett, a newcomer in our village, but very
 active in church work, had very kindly consented to hold them.
@@ -191,14 +190,14 @@ in these matters of full and exact exposition of the facts,
 to remember and repeat the actual details of a conversation,
 particularly a conversation which (though inspired with a most worthy
 and admirable zeal for good work) was one which did not greatly impress
-the hearer's mind at the [[Time|time]] and was in fact--er--mostly about socks.
+the hearer's mind at the time and was in fact--er--mostly about socks.
 I can, however, remember distinctly that one of the spinster ladies
 (she was a thin person with a woollen shawl, who appeared to feel
 the cold, and I am almost sure she was introduced to me as Miss James)
 remarked that the weather was very changeable.  Miss Brett then offered
 me a cup of tea, which I accepted, I cannot recall in what words.
 Miss Brett is a short and stout lady with white hair.  The only other
-figure in the group that caught my attention was a Miss [[Mowbray]],
+figure in the group that caught my attention was a Miss Mowbray,
 a small and neat lady of aristocratic manners, silver hair, and a high
 voice and colour.  She was the most emphatic member of the party;
 and her views on the subject of pinafores, though expressed with a
@@ -207,26 +206,26 @@ Beside her (although all five ladies were dressed simply in black)
 it could not be denied that the others looked in some way what you
 men of the world would call dowdy.
 
-"After about ten minutes' conversation I [[Rose|rose]] to go, and as I did so I
+"After about ten minutes' conversation I rose to go, and as I did so I
 heard something which--I cannot describe it--something which seemed to--
 but I really cannot describe it."
 
 "What did you hear?"  I asked, with some impatience.
 
-"I heard," said the vicar solemnly, "I heard Miss [[Mowbray]]
+"I heard," said the vicar solemnly, "I heard Miss Mowbray
 (the lady with the silver hair) say to Miss James (the lady
 with the woollen shawl), the following extraordinary words.
-I committed them to [[Memory|memory]] on the spot, and as soon as circumstances
+I committed them to memory on the spot, and as soon as circumstances
 set me free to do so, I noted them down on a piece of paper.
 I believe I have it here."  He fumbled in his breast-pocket, bringing out
 mild things, note-books, circulars and programmes of village concerts.
-"I heard Miss [[Mowbray]] say to Miss James, the following words:
-`Now's your time, Bill.'"
+"I heard Miss Mowbray say to Miss James, the following words:
+`Now's your [[Time|time]], Bill.'"
 
 He gazed at me for a few moments after making this announcement,
 gravely and unflinchingly, as if conscious that here he was unshaken
 about his facts.  Then he resumed, turning his bald head more
-towards the fire.
+towards the [[Fire|fire]].
 
 "This appeared to me remarkable.  I could not by any means understand it.
 It seemed to me first of all peculiar that one maiden lady should
@@ -235,10 +234,10 @@ may be incomplete; maiden ladies may have among themselves and in
 exclusively spinster circles wilder customs than I am aware of.
 But it seemed to me odd, and I could almost have sworn (if you will
 not misunderstand the phrase), I should have been strongly impelled
-to maintain at the [[Time|time]] that the words, `Now's your time, Bill', were by
+to maintain at the time that the words, `Now's your [[Time|time]], Bill', were by
 no means pronounced with that upper-class intonation which, as I have
-already said, had up to now characterized Miss Mowbray's conversation.
-In fact, the words, `Now's your [[Time|time]], Bill', would have been,
+already said, had up to now characterized Miss [[Mowbray]]'s conversation.
+In fact, the words, `Now's your time, Bill', would have been,
 I fancy, unsuitable if pronounced with that upper-class intonation.
 
 "I was surprised, I repeat, then, at the remark.  But I was still more
@@ -259,7 +258,7 @@ so I have only been able to render them phonetically.  But she said,"
 and Mr Shorter peered short-sightedly at his papers, "she said:
 `Chuck it, fat 'ead,' and she added something that sounded like `It's
 a kop', or (possibly) `a kopt'.  And then the last cord, either of my
-[[Sanity|sanity]] or the [[Sanity|sanity]] of the universe, snapped suddenly.  My esteemed
+sanity or the sanity of the universe, snapped suddenly.  My esteemed
 friend and helper, Miss Brett, standing by the mantelpiece, said:
 `Put 'is old 'ead in a bag, Sam, and tie 'im up before you start jawin'.
 You'll be kopt yourselves some o' these days with this way of coin'
@@ -272,8 +271,8 @@ I remembered dimly in my classical days (I was a scholar in a small
 way once, but now, alas! rusty), I remembered the mysteries of
 the Bona Dea and their strange female freemasonry.  I remembered
 the witches' Sabbaths.  I was just, in my absurd lightheadedness,
-trying to remember a line of verse about Diana's nymphs,
-when Miss Mowbray threw her arm round me from behind.
+trying to remember a line of verse about [[Diana]]'s nymphs,
+when Miss [[Mowbray]] threw her arm round me from behind.
 The moment it held me I knew it was not a woman's arm.
 
 "Miss Brett--or what I had called Miss Brett--was standing in front
@@ -286,10 +285,10 @@ I mean he was a wo--no, that is I saw that instead of being
 a woman she--he, I mean--that is, it was a man."
 
 Mr Shorter became indescribably flurried and flapping in endeavouring
-to arrange these genders and his plaid shawl at the same time.
+to arrange these genders and his plaid shawl at the same [[Time|time]].
 He resumed with a higher fever of nervousness:
 
-"As for Miss Mowbray, she--he, held me in a ring of iron.
+"As for Miss [[Mowbray]], she--he, held me in a ring of iron.
 He had her arm--that is she had his arm--round her neck--
 my neck I mean--and I could not cry out.  Miss Brett--that is,
 Mr Brett, at least Mr something who was not Miss Brett--
@@ -305,12 +304,12 @@ Was it to be Nonconformists?
 "`Curse 'is eyes,' said Miss Brett--I mean the man with the revolver--`why
 should we show 'im the game?'
 
-"`If you take my advice you bloomin' well will,' said the man at
+"`If you take my advice you bloomin' [[Well|well]] will,' said the man at
 the door, whom they called Bill.  `A man wot knows wet 'e's doin'
 is worth ten wot don't, even if 'e's a potty old parson.'
 
 "`Bill's right enough,' said the coarse voice of the man who held me
-(it had been Miss Mowbray's). `Bring out the picture, 'Arry.'
+(it had been Miss [[Mowbray]]'s). `Bring out the picture, 'Arry.'
 
 "The man with the revolver walked across the room to where
 the other two women--I mean men--were turning over baggage,
@@ -327,11 +326,11 @@ the accessories of the conventional photographic studio.
 I was leaning my head on my hand and was relieved against
 a painted landscape of woodland.  It was obvious that it was
 no snapshot; it was clear that I had sat for this photograph.
-And the [[Truth|truth]] was that I had never sat for such a photograph.
+And the truth was that I had never sat for such a photograph.
 It was a photograph that I had never had taken.
 
 "I stared at it again and again.  It seemed to me to be touched up
-a good deal; it was glazed as [[Well|well]] as framed, and the glass blurred some
+a good deal; it was glazed as well as framed, and the glass blurred some
 of the details.  But there unmistakably was my face, my eyes, my nose
 and mouth, my head and hand, posed for a professional photographer.
 And I had never posed so for any photographer.
@@ -356,7 +355,7 @@ to live in these parts, don't you?'
 
 "I nodded.
 
-"`Well,' said the man 'Arry, pointing to the picture, `that's 'is mother.
+"`[[Well]],' said the man 'Arry, pointing to the picture, `that's 'is mother.
 'Oo ran to catch 'im when 'e fell?  She did,' and he flung his
 fingers in a general gesture towards the photograph of the old lady
 who was exactly like me.
@@ -372,8 +371,8 @@ this man Hawker tonight.  Maybe 'e'll kiss us all and 'ave up
 the champagne when 'e sees us.  Maybe on the other 'and--'e
 won't. Maybe 'e'll be dead when we goes away.  Maybe not.
 But we've got to see 'im. Now as you know, 'e shuts 'isself up and
-never opens the door to a [[Soul|soul]]; only you don't know why and we does.
-The only one as can ever get at 'im is 'is mother.  [[Well]], it's a
+never opens the door to a soul; only you don't know why and we does.
+The only one as can ever get at 'im is 'is mother.  Well, it's a
 confounded funny coincidence,' he said, accenting the penultimate,
 `it's a very unusual piece of good luck, but you're 'is mother.'
 
@@ -391,14 +390,14 @@ in the corner of the room.
 
 "I will not dwell, Mr Swinburne, upon the details of what followed.
 I had no choice.  I could not fight five men, to say nothing of a
-loaded pistol.  In five minutes, sir, the Vicar of Chuntsey was
+loaded [[Pistol|pistol]].  In five minutes, sir, the Vicar of Chuntsey was
 dressed as an old woman--as somebody else's mother, if you please--
-and was dragged out of the house to take part in a crime.
+and was dragged out of the [[house]] to take part in a crime.
 
-"It was already late in the afternoon, and the nights of winter
-were closing in fast.  On a dark road, in a blowing wind, we set
-out towards the lonely house of Colonel Hawker, perhaps the queerest
-cortege that ever straggled up that or any other road.  To every
+"It was already late in the afternoon, and the nights of [[Winter|winter]]
+were closing in fast.  On a dark [[Road|road]], in a blowing [[Wind|wind]], we set
+out towards the lonely [[house]] of Colonel Hawker, perhaps the queerest
+cortege that ever straggled up that or any other [[Road|road]].  To every
 human eye, in every external, we were six very respectable old ladies
 of small means, in black dresses and refined but antiquated bonnets;
 and we were really five criminals and a clergyman.
@@ -418,7 +417,7 @@ was an inspiration; though a very terrible one.  Had it come to this,
 that the Vicar of Chuntsey must pretend to be mad or drunk?
 It had come to this.
 
-"I walked along with the rest up the deserted road,
+"I walked along with the rest up the deserted [[Road|road]],
 imitating and keeping pace, as far as I could, with their rapid
 and yet lady-like step, until at length I saw a lamp-post
 and a policeman standing under it.  I had made up my mind.
@@ -450,7 +449,7 @@ I had ever heard of seemed to come pouring out of my open mouth.
 "`When we get you past,' whispered Bill, `you'll howl louder;
 you'll howl louder when we're burning your feet off.'
 
-"I screamed in my terror those awful songs of joy.  In all
+"I screamed in my terror those awful [[songs]] of joy.  In all
 the nightmares that men have ever dreamed, there has never been
 anything so blighting and horrible as the faces of those five men,
 looking out of their poke-bonnets; the figures of district visitors
@@ -470,51 +469,51 @@ the Vicar of Chuntsey, in Essex.
 of the neck.
 
 "`You come along with me,' he began, but Bill cut in with his perfect
-imitation of a lady's finnicking voice.
+[[Imitation|imitation]] of a lady's finnicking voice.
 
 "`Oh, pray, constable, don't make a disturbance with our poor friend.
-We will get her quietly [[Home|home]].  She does drink too much, but she
+We will get her quietly home.  She does drink too much, but she
 is quite a lady--only eccentric.'
 
 "`She butted me in the stomach,' said the policeman briefly.
 
 "`Eccentricities of genius,' said Sam earnestly.
 
-"`Pray let me take her home,' reiterated Bill, in the resumed
+"`Pray let me take her [[Home|home]],' reiterated Bill, in the resumed
 character of Miss James, `she wants looking after.'  `She does,'
 said the policeman, `but I'll look after her.'
 
 "`That's no good,' cried Bill feverishly.  `She wants her friends.
 She wants a particular medicine we've got.'
 
-"`Yes,' assented Miss Mowbray, with excitement, `no other medicine
+"`Yes,' assented Miss [[Mowbray]], with excitement, `no other medicine
 any good, constable.  Complaint quite unique.'
 
 "`I'm all righ'.  Cutchy, cutchy, coo!' remarked, to his eternal shame,
 the Vicar of Chuntsey.
 
 "`Look here, ladies,' said the constable sternly, `I don't
-like the eccentricity of your friend, and I don't like 'er songs,
+like the eccentricity of your friend, and I don't like 'er [[songs]],
 or 'er 'ead in my stomach.  And now I come to think of it,
 I don't like the looks of you I've seen many as quiet dressed as you
 as was wrong 'uns. Who are you?'
 
-"`We've not our cards with us,' said Miss [[Mowbray]],
+"`We've not our cards with us,' said Miss Mowbray,
 with indescribable dignity.  `Nor do we see why we should be insulted
 by any Jack-in-office who chooses to be rude to ladies, when he is paid
 to protect them.  If you choose to take advantage of the weakness of our
-unfortunate friend, no doubt you are legally entitled to take her.
+unfortunate friend, no [[Doubt|doubt]] you are legally entitled to take her.
 But if you fancy you have any legal right to bully us, you will find
 yourself in the wrong box.'
 
-"The truth and dignity of this staggered the policeman for a moment.
+"The [[Truth|truth]] and dignity of this staggered the policeman for a moment.
 Under cover of their advantage my five persecutors turned for an
 instant on me faces like faces of the damned and then swished off
 into the darkness.  When the constable first turned his lantern
 and his suspicions on to them, I had seen the telegraphic look flash
 from face to face saying that only retreat was possible now.
 
-"By this time I was sinking slowly to the pavement, in a state
+"By this [[Time|time]] I was sinking slowly to the pavement, in a state
 of acute reflection.  So long as the ruffians were with me, I dared
 not quit the role of drunkard.  For if I had begun to talk reasonably
 and explain the real case, the officer would merely have thought that I
@@ -537,15 +536,15 @@ a limp and slow and reluctant figure.  At the fourth turning, I suddenly
 broke from his hand and tore down the street like a maddened stag.
 He was unprepared, he was heavy, and it was dark.  I ran and ran
 and ran, and in five minutes' running, found I was gaining.
-In half an hour I was out in the fields under the holy and blessed stars,
+In half an hour I was out in the fields under the holy and blessed [[Stars|stars]],
 where I tore off my accursed shawl and bonnet and buried them
 in clean earth."
 
 The old gentleman had finished his story and leant back in his chair.
-Both the matter and the manner of his narration had, as time went on,
+Both the matter and the manner of his narration had, as [[Time|time]] went on,
 impressed me favourably.  He was an old duffer and pedant, but behind
 these things he was a country-bred man and gentleman, and had showed
-courage and a sporting instinct in the hour of desperation.
+[[Courage|courage]] and a sporting instinct in the hour of desperation.
 He had told his story with many quaint formalities of diction,
 but also with a very convincing realism.
 
@@ -609,7 +608,7 @@ to do is to go together to see Captain Fraser."
 
 "Now," said Basil, putting one arm in his fur coat.
 
-The old clergyman rose to his feet, quaking all over.
+The old clergyman [[Rose|rose]] to his feet, quaking all over.
 
 "I really do not think that it is necessary," he said.
 
@@ -621,13 +620,13 @@ then," and he added the words with great clearness and deliberation,
 "then, Mr Ellis Shorter, I can only say that I would like to see
 you without your whiskers."
 
-And at these words I also rose to my feet, for the great tragedy
+And at these words I also [[Rose|rose]] to my feet, for the great [[Tragedy|tragedy]]
 of my life had come.  Splendid and exciting as life was in continual
 contact with an intellect like Basil's, I had always the feeling
-that that splendour and excitement were on the borderland of sanity.
+that that splendour and excitement were on the borderland of [[Sanity|sanity]].
 He lived perpetually near the vision of the reason of things which
 makes men lose their reason.  And I felt of his insanity as men feel
-of the death of friends with heart disease.  It might come anywhere,
+of the [[Death|death]] of friends with heart disease.  It might come anywhere,
 in a field, in a hansom cab, looking at a sunset, smoking a cigarette.
 It had come now.  At the very moment of delivering a judgement
 for the salvation of a fellow creature, Basil Grant had gone mad.
@@ -651,7 +650,7 @@ crockery scattered in smithereens, and still Basil Grant bounded
 and bellowed after the Rev. Ellis Shorter.
 
 And now I began to perceive something else, which added the last
-half-witted touch to my mystification.  The Rev. Ellis Shorter,
+half-witted touch to my [[Mystification|mystification]].  The Rev. Ellis Shorter,
 of Chuntsey, in Essex, was by no means behaving as I had previously
 noticed him to behave, or as, considering his age and station,
 I should have expected him to behave.  His power of dodging, leaping,
@@ -660,7 +659,7 @@ doddering old vicar looked like a sort of farcical fairy-tale. Moreover,
 he did not seem to be so much astonished as I had thought.
 There was even a look of something like enjoyment in his eyes;
 so there was in the eye of Basil.  In fact, the unintelligible
-truth must be told.  They were both laughing.
+[[Truth|truth]] must be told.  They were both laughing.
 
 At length Shorter was cornered.
 
@@ -675,7 +674,7 @@ your whiskers.  And your bald head.  Do they belong to Captain Fraser?"
 They don't belong to Captain Fraser."
 
 "What the deuce does all this mean?"  I almost screamed.
-"Are you all in an infernal nightmare?  Why should Mr Shorter's bald
+"Are you all in an infernal [[nightmare]]?  Why should Mr Shorter's bald
 head belong to Captain Fraser?  How could it?  What the deuce has
 Captain Fraser to do with the affair?  What is the matter with him?
 You dined with him, Basil."
@@ -685,16 +684,16 @@ You dined with him, Basil."
 "Didn't you go to Mrs Thornton's dinner-party?"  I asked, staring.
 "Why not?"
 
-"Well," said Basil, with a slow and singular smile, "the fact
+"[[Well]]," said Basil, with a slow and singular smile, "the fact
 is I was detained by a visitor.  I have him, as a point of fact,
 in my bedroom."
 
-"In your bedroom?"  I repeated; but my imagination had reached that point
+"In your bedroom?"  I repeated; but my [[Imagination|imagination]] had reached that point
 when he might have said in his coal scuttle or his waistcoat pocket.
 
 Grant stepped to the door of an inner room, flung it open and walked in.
 Then he came out again with the last of the bodily wonders of that
-wild night.  He introduced into the sitting-room, in an apologetic manner,
+wild [[Night|night]].  He introduced into the sitting-room, in an apologetic manner,
 and by the nape of the neck, a limp clergyman with a bald head,
 white whiskers and a plaid shawl.
 
@@ -722,7 +721,7 @@ are Professional Detainers."
 the Rev. Ellis Shorter, of Chuntsey, in Essex; and it gave me a shock
 indescribable to hear out of that pompous and familiar form come
 no longer its own pompous and familiar voice, but the brisk sharp
-tones of a young city man.  "It is really nothing very important.
+tones of a young [[City|city]] man.  "It is really nothing very important.
 We are paid by our clients to detain in conversation, on some
 harmless pretext, people whom they want out of the way for a few hours.
 And Captain Fraser--" and with that he hesitated and smiled.
@@ -732,13 +731,13 @@ Basil smiled also.  He intervened.
 "The fact is that Captain Fraser, who is one of my best friends,
 wanted us both out of the way very much.  He is sailing tonight
 for East Africa, and the lady with whom we were all to have dined is--
-er--what is I believe described as `the [[Romance|romance]] of his life'.
+er--what is I believe described as `the romance of his life'.
 He wanted that two hours with her, and employed these two reverend
 gentlemen to detain us at our houses so as to let him have
 the field to himself."
 
 "And of course," said the late Mr Shorter apologetically to me, "as I
-had to keep a gentleman at [[Home|home]] from keeping an appointment with a lady,
+had to keep a gentleman at home from keeping an appointment with a lady,
 I had to come with something rather hot and strong--rather urgent.
 It wouldn't have done to be tame."
 
@@ -752,7 +751,7 @@ revealing close red hair, and spoke dreamily, perhaps under
 the influence of Basil's admirable Burgundy.
 
 "It's wonderful how common it's getting, gentlemen.
-Our office is busy from morning till [[Night|night]].  I've no [[Doubt|doubt]] you've
+Our office is busy from morning till night.  I've no doubt you've
 often knocked up against us before.  You just take notice.
 When an old bachelor goes on boring you with hunting stories,
 when you're burning to be introduced to somebody, he's from our bureau.

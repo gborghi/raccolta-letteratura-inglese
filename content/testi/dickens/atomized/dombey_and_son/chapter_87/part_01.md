@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 31 (part 1)"
+title: "Dombey and Son — Chapter 59 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,127 +14,107 @@ tags:
 </nav>
 
 
-CHAPTER XXXI.
-The Wedding
+CHAPTER LIX.
+Retribution
 
 
-[[Dawn]] with its passionless blank face, steals shivering to the church
-beneath which lies the [[Dust|dust]] of little Paul and his mother, and looks in
-at the windows. It is cold and dark. [[Night]] crouches yet, upon the
-pavement, and broods, sombre and heavy, in nooks and corners of the
-building. The steeple-[[Clock|clock]], perched up above the houses, emerging from
-beneath another of the countless ripples in the tide of [[Time|time]] that
-regularly roll and break on the eternal shore, is greyly visible, like
-a stone beacon, recording how the sea flows on; but within doors, [[Dawn|dawn]],
-at first, can only peep at [[Night|night]], and see that it is there.
+Changes have come again upon the [[Great House|great house]] in the long dull street,
+once the scene of Florence’s [[Childhood|childhood]] and [[Loneliness|loneliness]]. It is a great
+[[house]] still, proof against [[Wind|wind]] and weather, without breaches in the
+roof, or shattered windows, or dilapidated walls; but it is a ruin none
+the less, and the rats fly from it.
 
-Hovering feebly round the church, and looking in, [[Dawn|dawn]] moans and weeps
-for its short reign, and its [[Tears|tears]] trickle on the [[Window|window]]-glass, and the
-trees against the church-wall bow their heads, and wring their many
-hands in sympathy. [[Night]], growing pale before it, gradually fades out
-of the church, but lingers in the vaults below, and sits upon the
-coffins. And now comes bright day, burnishing the steeple-[[Clock|clock]], and
-reddening the spire, and drying up the [[Tears|tears]] of [[Dawn|dawn]], and stifling its
-complaining; and the [[Dawn|dawn]], following the [[Night|night]], and chasing it from its
-last refuge, shrinks into the vaults itself and hides, with a
-frightened face, among the dead, until [[Night|night]] returns, refreshed, to
-drive it out.
+Mr Towlinson and company are, at first, incredulous in respect of the
+shapeless rumours that they hear. Cook says our people’s credit ain’t
+so easy shook as that comes to, thank God; and Mr Towlinson expects to
+hear it reported next, that the Bank of England’s a-going to break, or
+the jewels in the Tower to be sold up. But, next come the Gazette, and
+Mr Perch; and Mr Perch brings Mrs Perch to talk it over in the kitchen,
+and to spend a pleasant evening.
 
-And now, the mice, who have been busier with the [[prayer]]-books than
-their proper owners, and with the hassocks, more worn by their little
-teeth than by human knees, hide their bright eyes in their holes, and
-gather close together in affright at the resounding clashing of the
-church-door. For the beadle, that man of power, comes early this
-morning with the sexton; and Mrs Miff, the wheezy little pew-opener—a
-mighty dry old lady, sparely dressed, with not an inch of fulness
-anywhere about her—is also here, and has been waiting at the
-church-gate half-an-hour, as her place is, for the beadle.
+As soon as there is no [[Doubt|doubt]] about it, Mr Towlinson’s main anxiety is
+that the failure should be a good round one—not less than a hundred
+thousand pound. Mr Perch don’t think himself that a hundred thousand
+pound will nearly cover it. The women, led by Mrs Perch and Cook, often
+repeat “a hun-dred thou-sand pound!” with awful satisfaction—as if
+handling the words were like handling the money; and the housemaid, who
+has her eye on Mr Towlinson, wishes she had only a hundredth part of
+the sum to bestow on the man of her choice. Mr Towlinson, still mindful
+of his old wrong, opines that a foreigner would hardly know what to do
+with so much money, unless he spent it on his whiskers; which bitter
+sarcasm causes the housemaid to withdraw in [[Tears|tears]].
 
-A vinegary face has Mrs Miff, and a mortified bonnet, and eke a thirsty
-[[Soul|soul]] for sixpences and shillings. Beckoning to stray people to come
-into pews, has given Mrs Miff an air of mystery; and there is
-reservation in the eye of Mrs Miff, as always knowing of a softer seat,
-but having her suspicions of the fee. There is no such fact as Mr Miff,
-nor has there been, these twenty years, and Mrs Miff would rather not
-allude to him. He held some bad opinions, it would seem, about free
-seats; and though Mrs Miff hopes he may be gone upwards, she couldn’t
-positively undertake to say so.
+But not to remain long absent; for Cook, who has the reputation of
+being extremely good-hearted, says, whatever they do, let ’em stand by
+one another now, Towlinson, for there’s no telling how soon they may be
+divided. They have been in that [[house]] (says Cook) through a funeral, a
+wedding, and a running-away; and let it not be said that they couldn’t
+agree among themselves at such a [[Time|time]] as the present. Mrs Perch is
+immensely affected by this moving address, and openly remarks that Cook
+is an angel. Mr Towlinson replies to Cook, far be it from him to stand
+in the way of that good feeling which he could wish to see; and
+adjourning in [[Quest|quest]] of the housemaid, and presently returning with that
+young lady on his arm, informs the kitchen that foreigners is only his
+fun, and that him and Anne have now resolved to take one another for
+better for worse, and to settle in [[Oxford]] Market in the general
+greengrocery and herb and leech line, where your kind favours is
+particular requested. This announcement is received with acclamation;
+and Mrs Perch, projecting her [[Soul|soul]] into futurity, says, “girls,” in
+Cook’s ear, in a solemn whisper.
 
-Busy is Mrs Miff this morning at the church-door, beating and dusting
-the altar-cloth, the carpet, and the cushions; and much has Mrs Miff to
-say, about the wedding they are going to have. Mrs Miff is told, that
-the new furniture and alterations in the [[house]] cost full five thousand
-pound if they cost a penny; and Mrs Miff has heard, upon the best
-authority, that the lady hasn’t got a sixpence wherewithal to bless
-herself. Mrs Miff remembers, like wise, as if it had happened
-yesterday, the first wife’s funeral, and then the christening, and then
-the other funeral; and Mrs Miff says, by-the-by she’ll soap-and-[[Water|water]]
-that “ere tablet presently, against the company arrive. Mr Sownds the
-Beadle, who is sitting in the sun upon the church steps all this [[Time|time]]
-(and seldom does anything else, except, in cold weather, sitting by the
-[[Fire|fire]]), approves of Mrs Miff’s discourse, and asks if Mrs Miff has heard
-it said, that the lady is uncommon handsome? The information Mrs Miff
-has received, being of this [[Nature|nature]], Mr Sownds the Beadle, who, though
-orthodox and corpulent, is still an admirer of female [[Beauty|beauty]], observes,
-with unction, yes, he hears she is a spanker—an expression that seems
-somewhat forcible to Mrs Miff, or would, from any lips but those of Mr
-Sownds the Beadle.
+Misfortune in the family without feasting, in these lower regions,
+couldn’t be. Therefore Cook tosses up a hot dish or two for supper, and
+Mr Towlinson compounds a lobster salad to be devoted to the same
+hospitable purpose. Even Mrs Pipchin, agitated by the occasion, rings
+her bell, and sends down word that she requests to have that little bit
+of sweetbread that was left, warmed up for her supper, and sent to her
+on a tray with about a quarter of a tumbler-full of mulled sherry; for
+she feels poorly.
 
-In Mr Dombey’s [[house]], at this same [[Time|time]], there is great stir and
-bustle, more especially among the women: not one of whom has had a wink
-of [[Sleep|sleep]] since four o’[[Clock|clock]], and all of whom were fully dressed before
-six. Mr Towlinson is an object of greater consideration than usual to
-the housemaid, and the cook says at breakfast [[Time|time]] that one wedding
-makes many, which the housemaid can’t believe, and don’t think true at
-all. Mr Towlinson reserves his sentiments on this question; being
-rendered something gloomy by the engagement of a foreigner with
-whiskers (Mr Towlinson is whiskerless himself), who has been hired to
-accompany the happy pair to [[Paris]], and who is busy packing the new
-chariot. In respect of this personage, Mr Towlinson admits, presently,
-that he never knew of any good that ever come of foreigners; and being
-charged by the ladies with prejudice, says, look at Bonaparte who was
-at the head of ’em, and see what he was always up to! Which the
-housemaid says is very true.
+There is a little talk about Mr Dombey, but very little. It is chiefly
+speculation as to how long he has known that this was going to happen.
+Cook says shrewdly, “Oh a long [[Time|time]], bless you! Take your oath of
+that.” And reference being made to Mr Perch, he confirms her view of
+the case. Somebody wonders what he’ll do, and whether he’ll go out in
+any situation. Mr Towlinson thinks not, and hints at a refuge in one of
+them genteel almshouses of the better kind. “Ah, where he’ll have his
+little [[Garden|garden]], you know,” says Cook plaintively, “and bring up sweet
+peas in the [[spring]].” “Exactly so,” says Mr Towlinson, “and be one of
+the Brethren of something or another.” “We are all brethren,” says Mrs
+Perch, in a pause of her drink. “Except the sisters,” says Mr Perch.
+“How are the mighty fallen!” remarks Cook. “[[Pride]] shall have a fall,
+and it always was and will be so!” observes the housemaid.
 
-The pastry-cook is hard at work in the funereal room in Brook Street,
-and the very tall young men are busy looking on. One of the very tall
-young men already smells of sherry, and his eyes have a tendency to
-become fixed in his head, and to stare at objects without seeing them.
-The very tall young man is conscious of this failing in himself; and
-informs his comrade that it’s his “exciseman.” The very tall young man
-would say excitement, but his speech is hazy.
+It is wonderful how good they feel, in making these reflections; and
+what a Christian unanimity they are sensible of, in bearing the common
+shock with [[Resignation|resignation]]. There is only one interruption to this
+excellent state of mind, which is occasioned by a young kitchen-maid of
+inferior rank—in black stockings—who, having sat with her mouth open
+for a long [[Time|time]], unexpectedly discharges from it words to this effect,
+“Suppose the wages shouldn’t be paid!” The company sit for a moment
+speechless; but Cook recovering first, turns upon the young woman, and
+requests to know how she dares insult the family, whose bread she eats,
+by such a dishonest supposition, and whether she thinks that anybody,
+with a scrap of [[Honour|honour]] left, could deprive poor servants of their
+pittance? “Because if that is your religious feelings, Mary Daws,” says
+Cook warmly, “I don’t know where you mean to go to.”
 
-The men who play [[The Bells|the bells]] have got scent of the [[Marriage|marriage]]; and the
-marrow-bones and cleavers too; and a brass band too. The first, are
-practising in a back settlement near Battlebridge; the second, put
-themselves in communication, through their chief, with Mr Towlinson, to
-whom they offer terms to be bought off; and the third, in the person of
-an artful trombone, lurks and dodges round the corner, waiting for some
-traitor tradesman to reveal the place and hour of breakfast, for a
-bribe. Expectation and excitement extend further yet, and take a wider
-range. From Balls Pond, Mr Perch brings Mrs Perch to spend the day with
-Mr Dombey’s servants, and accompany them, surreptitiously, to see the
-wedding. In Mr Toots’s lodgings, Mr Toots attires himself as if he were
-at least the Bridegroom; determined to behold the spectacle in
-splendour from a secret corner of the gallery, and thither to convey
-the Chicken: for it is Mr Toots’s desperate intent to point out
-Florence to the Chicken, then and there, and openly to say, “Now,
-Chicken, I will not deceive you any longer; the friend I have sometimes
-mentioned to you is myself; Miss Dombey is the object of my passion;
-what are your opinions, Chicken, in this state of things, and what, on
-the spot, do you advise? The so-much-to-be-astonished Chicken, in the
-meanwhile, dips his beak into a tankard of strong beer, in Mr Toots’s
-kitchen, and pecks up two pounds of beefsteaks. In Princess’s Place,
-Miss Tox is up and doing; for she too, though in sore distress, is
-resolved to put a shilling in the hands of Mrs Miff, and see the
-ceremony which has a cruel fascination for her, from some lonely
-corner. The quarters of the wooden Midshipman are all alive; for
-[[Captain Cuttle]], in his ankle-jacks and with a huge shirt-collar, is
-seated at his breakfast, listening to Rob the Grinder as he reads the
-[[Marriage|marriage]] service to him beforehand, under orders, to the end that the
-Captain may perfectly understand the solemnity he is about to witness:
-for which purpose, the Captain gravely lays injunctions on his
-chaplain, from [[Time|time]] to [[Time|time]], to “put about,” or to “overhaul that “ere
-article again,” or to stick to his own duty, and leave the Amens to
-him, the Captain; one of which he repeats, whenever a pause is made by
-Rob the Grinder, with sonorous satisfaction.
+Mr Towlinson don’t know either; nor anybody; and the young
+kitchen-maid, appearing not to know exactly, herself, and scouted by
+the general voice, is covered with confusion, as with a garment.
+
+After a few days, strange people begin to call at the [[house]], and to
+make appointments with one another in the dining-room, as if they lived
+there. Especially, there is a gentleman, of a Mosaic Arabian cast of
+countenance, with a very massive watch-guard, who whistles in the
+drawing-room, and, while he is waiting for the other gentleman, who
+always has pen and ink in his pocket, asks Mr Towlinson (by the easy
+name of “Old Cock,”) if he happens to know what the figure of them
+crimson and gold hangings might have been, when new bought. The callers
+and appointments in the dining-room become more numerous every day, and
+every gentleman seems to have pen and ink in his pocket, and to have
+some occasion to use it. At last it is said that there is going to be a
+Sale; and then more people arrive, with pen and ink in their pockets,
+commanding a detachment of men with carpet caps, who immediately begin
+to pull up the carpets, and knock the furniture about, and to print off
+thousands of impressions of their shoes upon the hall and staircase.

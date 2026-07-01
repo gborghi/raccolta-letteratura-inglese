@@ -53,7 +53,7 @@ done again, and again, and again.  He has no means of proving his
 investigation into his case is made, or inquiry instituted.  He, a free
 man, who may have served for years, and bought his liberty, is thrown
 into jail on no process, for no crime, and on no pretence of crime: and
-is sold to pay the jail fees.  This seems incredible, even of [[America]],
+is sold to pay the jail fees.  This seems incredible, even of [[america|America]],
 but it is the law.
 
 Public opinion is deferred to, in such cases as the following: which is
@@ -119,6 +119,3 @@ others of the same [[Nature|nature]] continue to be published every day, in shoa
 
     ‘Committed to jail, a man who calls his name John.  He has a clog of
     iron on his right foot which will weigh four or five pounds.’
-
-    ‘Detained at the police jail, the negro wench, Myra.  Has several
-    marks of LASHING, and has irons on her feet.’

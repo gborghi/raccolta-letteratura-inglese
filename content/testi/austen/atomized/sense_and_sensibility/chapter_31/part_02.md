@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 31 (part 2)"
+title: "Sense and Sensibility — Chapter 31 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_31/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_31/part_03">part 03 ›</a></div>
 </nav>
 
+
+has nothing to do with his own [[Time|time]] has no [[Conscience|conscience]] in his intrusion
+
+on that of others.”
+
+
+
+The event proved her conjecture right, though it was founded on
 
 injustice and error; for [[Colonel Brandon]] _did_ come in; and Elinor, who
 
@@ -197,17 +205,3 @@ gloom,—even now the recollection of what I suffered—”
 
 
 He could say no more, and rising hastily walked for a few minutes about
-
-the room. Elinor, affected by his relation, and still more by his
-
-distress, could not speak. He saw her concern, and coming to her, took
-
-her hand, pressed it, and kissed it with grateful respect. A few
-
-minutes more of silent exertion enabled him to proceed with composure.
-
-
-
-“It was nearly three years after this unhappy period before I returned
-
-to England. My first care, when I _did_ arrive, was of course to seek

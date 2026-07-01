@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 15 (part 2)"
+title: "Our Mutual Friend — Chapter 16 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,144 +14,101 @@ tags:
 </nav>
 
 
-‘[[Well]]! Now, Noddy!’ cried Mrs Boffin, clapping her hands, ‘That IS a
-good one!’
+Among his first occupations the pursuit of that [[Orphan|orphan]] wanted by
+Mrs Boffin held a conspicuous place. From the earliest moment of his
+engagement he showed a particular [[Desire|desire]] to please her, and, knowing her
+to have this object at heart, he followed it up with unwearying alacrity
+and interest.
 
-Mr Boffin was no less delighted; indeed, in his own bosom, he regarded
-both the composition itself and the device that had given birth to it,
-as a very remarkable monument of human ingenuity.
+Mr and Mrs Milvey had found their search a difficult one. Either an
+eligible [[Orphan|orphan]] was of the wrong sex (which almost always happened)
+or was too old, or too young, or too sickly, or too dirty, or too much
+accustomed to the streets, or too likely to run away; or, it was found
+impossible to complete the philanthropic transaction without buying the
+[[Orphan|orphan]]. For, the instant it became known that anybody wanted the [[Orphan|orphan]],
+up started some affectionate relative of the [[Orphan|orphan]] who put a price upon
+the [[Orphan|orphan]]’s head. The suddenness of an [[Orphan|orphan]]’s rise in the market was
+not to be paralleled by the maddest records of the Stock Exchange. He
+would be at five thousand per cent discount out at [[Nurse|nurse]] making a mud
+pie at nine in the morning, and (being inquired for) would go up to
+five thousand per cent premium before [[Noon|noon]]. The market was ‘rigged’ in
+various artful ways. Counterfeit stock got into circulation. Parents
+boldly represented themselves as dead, and brought their orphans with
+them. Genuine [[Orphan|orphan]]-stock was surreptitiously withdrawn from the
+market. It being announced, by emissaries posted for the purpose, that
+Mr and Mrs Milvey were coming down the [[Court|court]], [[Orphan|orphan]] scrip would be
+instantly concealed, and production refused, save on a condition usually
+stated by the brokers as ‘a gallon of beer’. Likewise, fluctuations of
+a wild and South-Sea [[Nature|nature]] were occasioned, by [[Orphan|orphan]]-holders keeping
+back, and then rushing into the market a dozen together. But, the
+uniform principle at the root of all these various operations was
+bargain and sale; and that principle could not be recognized by Mr and
+Mrs Milvey.
 
-‘And I tell you, my deary,’ said Mrs Boffin, ‘that if you don’t close
-with Mr Rokesmith now at once, and if you ever go a muddling yourself
-again with things never meant nor made for you, you’ll have an
-apoplexy—besides iron-moulding your linen—and you’ll break my heart.’
+At length, tidings were received by the Reverend Frank of a charming
+[[Orphan|orphan]] to be found at Brentford. One of the deceased parents (late his
+parishioners) had a poor widowed grandmother in that agreeable town, and
+she, Mrs Betty Higden, had carried off the [[Orphan|orphan]] with maternal care,
+but could not afford to keep him.
 
-Mr Boffin embraced his spouse for these words of wisdom, and then,
-congratulating John Rokesmith on the brilliancy of his achievements,
-gave him his hand in pledge of their new relations. So did Mrs Boffin.
+The Secretary proposed to Mrs Boffin, either to go down himself and
+take a preliminary survey of this [[Orphan|orphan]], or to drive her down, that
+she might at once form her own opinion. Mrs Boffin preferring the latter
+course, they set off one morning in a hired phaeton, conveying the
+hammer-headed young man behind them.
 
-‘Now,’ said Mr Boffin, who, in his frankness, felt that it did not
-become him to have a gentleman in his employment five minutes, without
-reposing some confidence in him, ‘you must be let a little more into our
-affairs, Rokesmith. I mentioned to you, when I made your acquaintance,
-or I might better say when you made mine, that Mrs Boffin’s inclinations
-was setting in the way of Fashion, but that I didn’t know how
-fashionable we might or might not grow. [[Well]]! Mrs Boffin has carried the
-day, and we’re going in neck and crop for Fashion.’
+The abode of Mrs Betty Higden was not easy to find, lying in such
+complicated back settlements of muddy Brentford that they left their
+equipage at the sign of the Three Magpies, and went in search of it on
+foot. After many inquiries and defeats, there was pointed out to them
+in a lane, a very small cottage residence, with a board across the open
+doorway, hooked on to which board by the armpits was a young gentleman
+of tender years, angling for mud with a headless wooden [[Horse|horse]] and line.
+In this young sportsman, distinguished by a crisply curling auburn head
+and a bluff countenance, the Secretary descried the [[Orphan|orphan]].
 
-‘I rather inferred that, sir,’ replied John Rokesmith, ‘from the scale
-on which your new establishment is to be maintained.’
+It unfortunately happened as they quickened their pace, that the [[Orphan|orphan]],
+lost to considerations of personal safety in the ardour of the moment,
+overbalanced himself and toppled into the street. Being an [[Orphan|orphan]] of a
+chubby conformation, he then took to [[rolling]], and had rolled into the
+gutter before they could come up. From the gutter he was rescued by John
+Rokesmith, and thus the first meeting with Mrs Higden was inaugurated by
+the awkward circumstance of their being in possession—one would say at
+first sight unlawful possession—of the [[Orphan|orphan]], upside down and purple
+in the countenance. The board across the doorway too, acting as a trap
+equally for the feet of Mrs Higden coming out, and the feet of Mrs
+Boffin and John Rokesmith going in, greatly increased the difficulty of
+the situation: to which the cries of the [[Orphan|orphan]] imparted a lugubrious
+and inhuman character.
 
-‘Yes,’ said Mr Boffin, ‘it’s to be a Spanker. The fact is, my
-literary man named to me that a [[house]] with which he is, as I may say,
-connected—in which he has an interest—’
+At first, it was impossible to explain, on account of the [[Orphan|orphan]]’s
+‘holding his breath’: a most terrific proceeding, super-inducing in the
+[[Orphan|orphan]] lead-colour rigidity and a deadly [[Silence|silence]], compared with which
+his cries were music yielding the height of enjoyment. But as he
+gradually recovered, Mrs Boffin gradually introduced herself; and
+smiling peace was gradually wooed back to Mrs Betty Higden’s [[Home|home]].
 
-‘As property?’ inquired John Rokesmith.
+It was then perceived to be a small [[Home|home]] with a large mangle in it, at
+the handle of which [[Machine|machine]] stood a very long boy, with a very little
+head, and an open mouth of disproportionate capacity that seemed to
+assist his eyes in staring at the visitors. In a corner below the
+mangle, on a couple of stools, sat two very little children: a boy and a
+girl; and when the very long boy, in an interval of staring, took a turn
+at the mangle, it was alarming to see how it lunged itself at those two
+innocents, like a catapult designed for their destruction, harmlessly
+retiring when within an inch of their heads. The room was clean and
+neat. It had a brick floor, and a [[Window|window]] of diamond panes, and a flounce
+hanging below the chimney-piece, and strings nailed from [[Bottom|bottom]] to top
+outside the [[Window|window]] on which scarlet-beans were to grow in the coming
+season if the Fates were propitious. However propitious they might have
+been in the [[Seasons|seasons]] that were gone, to Betty Higden in the matter of
+beans, they had not been very favourable in the matter of coins; for it
+was easy to see that she was poor.
 
-‘Why no,’ said Mr Boffin, ‘not exactly that; a sort of a family tie.’
-
-‘Association?’ the Secretary suggested.
-
-‘Ah!’ said Mr Boffin. ‘Perhaps. Anyhow, he named to me that the [[house]]
-had a board up, “This Eminently Aristocratic Mansion to be let or sold.”
- Me and Mrs Boffin went to look at it, and finding it beyond a [[Doubt|doubt]]
-Eminently Aristocratic (though a trifle high and dull, which after all
-may be part of the same thing) took it. My literary man was so friendly
-as to drop into a charming piece of poetry on that occasion, in which he
-complimented Mrs Boffin on coming into possession of—how did it go, my
-dear?’
-
-Mrs Boffin replied:
-
-     ‘“The gay, the gay and festive scene,
-     The halls, the halls of dazzling light.”’
-
-‘That’s it! And it was made neater by there really being two halls
-in the [[house]], a front ’un and a back ’un, besides the servants’.
-He likewise dropped into a very pretty piece of poetry to be sure,
-respecting the extent to which he would be willing to put himself out
-of the way to bring Mrs Boffin round, in case she should ever get low
-in her spirits in the [[house]]. Mrs Boffin has a wonderful [[Memory|memory]]. Will you
-repeat it, my dear?’
-
-Mrs Boffin complied, by reciting the verses in which this obliging offer
-had been made, exactly as she had received them.
-
-     ‘“I’ll tell thee how the maiden wept, Mrs Boffin,
-     When her true [[Love|love]] was slain ma’am,
-     And how her broken spirit slept, Mrs Boffin,
-     And never woke again ma’am.
-     I’ll tell thee (if agreeable to Mr Boffin) how the steed drew
-     nigh,
-     And left his lord afar;
-     And if my tale (which I [[Hope|hope]] Mr Boffin might excuse) should
-     make you sigh,
-     I’ll strike the light guitar.”’
-
-‘Correct to the letter!’ said Mr Boffin. ‘And I consider that the poetry
-brings us both in, in a beautiful manner.’
-
-The effect of the poem on the Secretary being evidently to astonish
-him, Mr Boffin was confirmed in his high opinion of it, and was greatly
-pleased.
-
-‘Now, you see, Rokesmith,’ he went on, ‘a literary man—WITH a wooden
-leg—is liable to [[Jealousy|jealousy]]. I shall therefore cast about for comfortable
-ways and means of not calling up Wegg’s [[Jealousy|jealousy]], but of keeping you in
-your department, and keeping him in his.’
-
-‘Lor!’ cried Mrs Boffin. ‘What I say is, the world’s wide enough for all
-of us!’
-
-‘So it is, my dear,’ said Mr Boffin, ‘when not literary. But when so,
-not so. And I am bound to bear in mind that I took Wegg on, at a [[Time|time]]
-when I had no thought of being fashionable or of leaving the Bower. To
-let him feel himself anyways slighted now, would be to be guilty of
-a meanness, and to act like having one’s head turned by the halls of
-dazzling light. Which Lord forbid! Rokesmith, what shall we say about
-your living in the [[house]]?’
-
-‘In this [[house]]?’
-
-‘No, no. I have got other plans for this [[house]]. In the new [[house]]?’
-
-‘That will be as you please, Mr Boffin. I hold myself quite at your
-disposal. You know where I live at present.’
-
-‘[[Well]]!’ said Mr Boffin, after considering the point; ‘suppose you keep
-as you are for the present, and we’ll decide by-and-by. You’ll begin to
-take charge at once, of all that’s going on in the new [[house]], will you?’
-
-‘Most willingly. I will begin this very day. Will you give me the
-address?’
-
-Mr Boffin repeated it, and the Secretary wrote it down in his
-pocket-book. Mrs Boffin took the opportunity of his being so engaged,
-to get a better observation of his face than she had yet taken. It
-impressed her in his favour, for she nodded aside to Mr Boffin, ‘I like
-him.’
-
-‘I will see directly that everything is in train, Mr Boffin.’
-
-‘Thank’ee. Being here, would you care at all to look round the Bower?’
-
-‘I should greatly like it. I have heard so much of its story.’
-
-‘Come!’ said Mr Boffin. And he and Mrs Boffin led the way.
-
-A gloomy [[house]] the Bower, with sordid signs on it of having been,
-through its long existence as Harmony Jail, in miserly holding. Bare of
-paint, bare of paper on the walls, bare of furniture, bare of experience
-of human life. Whatever is built by man for man’s occupation, must,
-like natural creations, fulfil the intention of its existence, or soon
-perish. This old [[house]] had wasted—more from desuetude than it would
-have wasted from use, twenty years for one.
-
-A certain leanness falls upon houses not sufficiently imbued with life
-(as if they were nourished upon it), which was very noticeable here.
-The staircase, balustrades, and rails, had a spare look—an air of being
-denuded to the bone—which the panels of the walls and the jambs of the
-doors and windows also bore. The scanty moveables partook of it; save
-for the cleanliness of the place, the [[Dust|dust]] into which they were all
-resolving would have lain thick on the floors; and those, both in colour
-and in grain, were worn like old faces that had kept much [[Alone|alone]].
+She was one of those old women, was Mrs Betty Higden, who by dint of
+an indomitable purpose and a strong constitution fight out many years,
+though each year has come with its new knock-down blows fresh to the
+fight against her, wearied by it; an active old woman, with a bright
+dark eye and a resolute face, yet quite a tender creature too; not a
+logically-reasoning woman, but God is good, and hearts may count in
+Heaven as high as heads.

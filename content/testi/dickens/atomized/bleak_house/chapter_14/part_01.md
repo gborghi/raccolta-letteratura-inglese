@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 14 (part 1)"
+title: "Bleak House — Chapter 14 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/bleak-house-(dickens)">Bleak House</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_13/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_14/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_13/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_14/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -132,6 +132,3 @@ plan. She’s going to put out five thousand new circulars, and she
 knows you’ll be interested to hear that. I have brought one of them
 with me. Ma’s compliments.” With which she presented it sulkily
 enough.
-
-“Thank you,” said my guardian. “I am much obliged to Mrs. Jellyby.
-Oh, dear me! This is a very trying [[Wind|wind]]!”

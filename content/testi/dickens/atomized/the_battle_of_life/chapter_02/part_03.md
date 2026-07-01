@@ -14,6 +14,15 @@ tags:
 </nav>
 
 
+‘Really, Mr. Snitchey, and Mr. Craggs, partners both,’ said the client,
+interrupting him; ‘you know your duty to your clients, and you know [[Well|well]]
+enough, I am sure, that it is no part of it to interfere in a mere [[Love|love]]
+affair, which I am obliged to confide to you.  I am not going to carry
+the young lady off, without her own consent.  There’s nothing illegal in
+it.  I never was Mr. Heathfield’s bosom friend.  I violate no confidence
+of his.  I [[Love|love]] where he loves, and I mean to win where he would win, if
+I can.’
+
 ‘He can’t, Mr. Craggs,’ said Snitchey, evidently anxious and discomfited.
 ‘He can’t do it, sir.  She dotes on Mr. Alfred.’
 
@@ -113,33 +122,3 @@ so.  I thought he’d have stipulated for three,’ he murmured to himself.
 ‘Are you going?  Good [[Night|night]], sir!’
 
 ‘Good [[Night|night]]!’ returned the client, shaking hands with the Firm.
-
-‘You’ll live to see me making a good use of riches yet.  Henceforth the
-star of my destiny is, Marion!’
-
-‘Take care of the stairs, sir,’ replied Snitchey; ‘for she don’t shine
-there.  Good [[Night|night]]!’
-
-‘Good [[Night|night]]!’
-
-So they both stood at the stair-head with a pair of office-candles,
-watching him down.  When he had gone away, they stood looking at each
-other.
-
-‘What do you think of all this, Mr. Craggs?’ said Snitchey.
-
-Mr. Craggs shook his head.
-
-‘It was our opinion, on the day when that release was executed, that
-there was something curious in the parting of that pair; I recollect,’
-said Snitchey.
-
-‘It was,’ said Mr. Craggs.
-
-‘Perhaps he deceives himself altogether,’ pursued Mr. Snitchey, locking
-up the fireproof box, and putting it away; ‘or, if he don’t, a little bit
-of fickleness and perfidy is not a miracle, Mr. Craggs.  And yet I
-thought that pretty face was very true.  I thought,’ said Mr. Snitchey,
-putting on his great-coat (for the weather was very cold), drawing on his
-gloves, and snuffing out one candle, ‘that I had even seen her character
-becoming stronger and more resolved of late.  More like her sister’s.’

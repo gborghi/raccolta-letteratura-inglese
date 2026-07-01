@@ -14,124 +14,117 @@ tags:
 </nav>
 
 
-XXVII On Living for Posterity
+I would not be provocative, but I think this rather neglected [[Truth|truth]]
+is due to these great artists, when so many people imagine them
+to have been Pagans and some can even imagine them as Puritans.
+It seems clear to me that those despised medieval superstitions,
+suited only for barbarians like [[Dante]] and St. Francis, were exactly
+the ideas that did remain rooted in the most civilized centres of
+the world, when they were disputed in the more barbarous provinces.
+When we consider how exciting the destructive [[Quest|quest]] of the intellect
+really is (though it is generally people totally devoid of
+intellect who say so), it is really rather remarkable that there
+was comparatively so little of it in these great adventurers,
+who were devoted to the creative [[Quest|quest]] of the [[Imagination|imagination]].
+When we consider how wild they often were in the matter of morals
+(though it is generally the sort of moderns who have no morals
+at all who darkly denounce the immorality of these later men
+of the medieval decline) it is really rather remarkable that they
+kept as much as they did of the [[Faith|faith]] from which the morals grew--
+or ought to have grown.  When we consider that it really is a fact
+(though the first [[Fool|fool]] in the street will tell you so)
+that scepticism had begun to appear here and there even among
+priests and bishops, it is really singular, upon the balance,
+that it had not appeared more among painters and sculptors.
+We may talk, as they sometimes may have talked, about reviving
+the gods of Greece.  But Moses is Moses and David is David,
+and a Pagan would have stood puzzled before them.
 
-WE all remember the story of that excess of [[Aspiration|aspiration]],
-in the sense of the use of aspirates, which led somebody to say
-of somebody, `If you give him a Hinch, he'll take a Hell.'
-Some recent extensions of social liberty have made the accident
-of the last word sound strangely like an omen.  But what strikes me
-as even more curious is this:  that there are some people who are
-perpetually demanding an ell but cannot be persuaded to accept an inch.
-They demand certain forms of social liberty in the large,
-but refuse them in the small, and especially in the solid.
-They are like people who should furiously demand a hundred head
-of cattle, and then flee in terror at the first appearance of a cow.
-Or they are like a king who should claim to rule the waves
-and be afraid to have a well or a pond in his own garden.
-The little more, and how little it is and how lightly they will take
-the larger responsibility!  The little less, and what miles they
-will run in order to be worlds away!
+XXVI.  On the Laureateship
 
-For instance, I read in any number of New Leaders and Labour weeklies,
-and all sorts of papers supposed to be both progressive and popular,
-that the working-classes will now take over the government of
-the country; that the majority of manual workers will have their
-proper proportional right to rule in all matters of education and
-humanitarian reform; that the poor will at last inherit the earth.
-But if I say that one workman is capable of deciding about the education
-of one child, that he has the right to select a certain school
-or resist a certain system, I shall have all those progressive papers
-roaring at me as a rotten reactionary.  Why the workman should be
-clever enough to vote a curriculum for everybody else's children,
-but not clever enough to choose one for his own children, I cannot
-for the life of me imagine.  If I say that a decent costermonger
-is to be trusted with a donkey, or a decent rat-catcher with a dog,
-I shall be denounced as an obstacle to humanitarian legislation.
-But there is no objection to trusting a crowd of costermongers
-and rat-catchers to decide about the humanitarian legislation.
-And what is true of these particular cases of proprietorship
-is true of the whole ease of property.  When the meek inherit
-the earth, it must only mean that the mob inherits the earth.
-It must not mean that the man inherits even the smallest portion
-of the earth.  The mob is meek enough, certainly, when it is thus
-herded to its pastures by its sociological and educational pastors.
-It does not really mean that the many sheep, but that the few shepherds,
-will rule over all the meadows.  And when the nomadic shepherd
-finds himself confronted with the static or domestic peasant,
-with the man who is actually ruling his own small meadow like
-a realm, there is always a collision and a sort of civil war
-in the country-side. In any case, the original paradox remains:
-that it was regarded as a simple thing that all the meadows should
-belong to all the men, but a frantic and fantastic thing that any
-man should own any meadow.
+IT is often said that the office of Poet Laureate is not fitted
+to our times.  This is true; it is perhaps the most compact
+condemnation of our times.  If we want to know exactly
+what is really lacking in current culture, we had better ask
+why it cannot support the idea of a real Poet Laureate.
+It is enough merely to look at the words which make up the title.
+Whenever it is suggested that some little modern man of letters,
+in a tail-coat and trousers, should be solemnly presented
+with a [[Crown]] of Laurel, everybody laughs, as if it were a joke.
+But it is not the laurel, but the little man, that is a joke.
+It is not the wreath of [[Leaves|leaves]], the lines of which are still as free
+and rhythmic and adapted to decoration as when they decorated a hundred
+marble monuments or golden frescoes; it is not the wreath that
+is ridiculous.  It is the tail-coat and trousers it is the Modern Man;
+it is the Spirit of Our [[Time]], to which the Laureateship is,
+we have agreed, so unsuited.  As is the Laurel to modern dress,
+so is the Laureateship to modern manners.  Nobody sees anything silly
+in those [[Leaves|leaves]] when they cluster round the hood of some bust of [[Dante]].
+Nobody saw anything silly in them when, at the high moment of the
+medieval [[Renaissance|renaissance]], they were bound about the brows of Petrarch.
+It was partly that the same scheme of decoration, more or less
+unconsciously, ran through the whole world of costume and ornament.
+It was much more because, in those dim and barbarous ages,
+people did not think it undignified to be dignified.
+They were so strangely constituted that they laughed at ugly things,
+and not only at beautiful things.  A gentleman who wished to be stared
+at or admired dressed in purple and cloth of gold, trailing trappings
+that went in great curves like those of a comet or a cataract.
+With such fashions a [[Crown|crown]] was actually a [[Crown|crown]]; it crowned the edifice;
+it was a crest or culmination of lines rising to and demanding such
+a diadem.  Nowadays, by the tradition of the nineteenth century,
+a gentle man dresses like a comic waiter in a third-rate farce,
+and is surprised that the bay-wreath looks [[Grotesque|grotesque]] on his head.
+But it is not the bay-wreath that looks [[Grotesque|grotesque]].
 
-But there is another ease that is even more curious.
-In the works of Mr. Wells, and all the typical Utopias and futuristic
-world-systems of recent times, it is incessantly and impressively
-repeated that we must live for the Future, for the Young,
-for the Rising Generation or the Babe Unborn.  The traditional
-obligations of the past are nothing, and even the temporary
-contracts and compromises of the present are comparatively little;
-but we really do have a duty to the future generations.
-It is apparently the only duty that remains.  While we are kicking
-our grandfather downstairs, we must take care to be very polite
-to our great-great-grandson, who is not yet present; and if a more
-enlightened ethic should ever justify us in painlessly poisoning
-our mother, it will be well to distract the attention by dreaming
-of some perfect Woman of the Future who may never need to be poisoned.
-These examples are quoted but lightly and from memory,
-but nobody will deny that current culture is in fact full of this
-notion of living for posterity.  It is preached as a democratic
-doctrine in the democratic organs to which I have referred.
-But it is always the People as a whole that is to live for the Posterity
-as a whole.
+That is a [[Parable|parable]] of the whole practical problem.
+And it always is a problem, whether it is worth while to keep
+the habit when it no longer makes the monk, or one small rag torn
+from the habit when the monk no longer knows how to make himself.
+The psychology of the Laureateship, dating as it does from
+the days when Petrarch was crowned with laurel, implies a number
+of things not now vivid to any very large number of people.
+It implies the notion of a crowd being excited but quite serious:
+like devotees before a sacrament or children before a fairy-play.
+There is still a certain kind of popular enthusiasm, but it is not
+an enthusiasm for enthusiasts.  It might almost be called an affection
+for anti-enthusiasts; an affection for mockers and cynics and artists
+in the antic view of life.  They might be as much thrilled by meeting
+Charlie Chaplin as any medieval Italians by meeting Petrarch.
+But though they might be cheering without jeering, they would
+be cheering somebody who jeers:  who jeers admirably at himself
+and this wicked world.  Nobody can expect that sort of popular
+[[Artist|artist]] to wear a laurel round his remarkable bowler hat.
+But it has been possible, and it will be possible again,
+for the public to rejoice seriously, and even solemnly.
+In those older days the very word `solemn' went with the word `joyous';
+and `a high solemnity' was almost always an affair of dancing
+and junketing.  A modern crowd would cheer the critical faculty,
+as in Mr. Chaplin; it would not cheer the creative faculty, as in Dante.
+And unless we keep the idea of a high solemnity, or public function
+of state, like the famous scene of the tribute to Petrarch,
+there is indeed little point in keeping merely an office and a name.
+As we do not preserve the coronation it may seem idle to preserve
+the crown.  Nevertheless, if there were a crown, I think I should
+preserve it--among the Crown Jewels.  I should not attach any man
+to it, but leave it there and wait for better times.
 
-But if we present precisely the same idea, in a present and
-practical form, it is called antiquated.  Its practical form
-is called Marriage or the Family.  It really does demand that a
-man and a woman should live largely for the next generation.
-It does demand that they should, to some extent, defer their
-personal amusements, such as divorce and dissipation, for the
-benefit of the next generation.  And whenever we suggest that,
-a wail goes up about the wickedness and cruelty of depriving
-the poor dear parents of the innocent gaieties of divorce.
-How can a poor father get any real fun out of being divorced,
-if his enjoyment is to be dashed by a morbid memory of the existence
-of his own son?  Nay, can we even be certain that the mother will
-keep up her high standard of dancing all night and every night,
-if there is a new-born baby who (with curious taste) is crying for her
-all night long?  When the problem of Posterity is presented in this
-practical form, poor old Posterity gets the knock pretty badly.
-The Present suddenly becomes much more important than the Future;
-and the rising generation is a mere drag on the risen generation,
-which intends to dance until it drops.  In this case also,
-the new thinkers are only thinking of the general, and are afraid
-to think of the particular.  Just as the Socialist must not confront
-a peasant with one concrete piece of land, so the Sociologist must
-not confront the parent with one concrete piece of Posterity.
-Otherwise the new parents will fly screaming, and in some cases adopt
-measures to ensure that there shall be next to no Posterity at all.
-
-I grieve to say that I am not moved to a profound respect or
-admiration for this intellectual compromise.  If the social idealist
-would take his inch I might be ready to trust him with his ell.
-If he could trust a poor man with the care of a cow or a cottage,
-or a common or garden child, I might believe he was sincere in wishing
-to trust all poor men with the destiny of all cottages and cows.
-As it is, I suspect that he is not going to trust that destiny
-to a democracy of poor men, but to an official or oligarch
-appointed to organize the poor men.  Similarly, if the new social
-philosophies fervently encouraged people to think more about
-domesticity and less about divorce, I might believe that they
-really were preferring the future generation to their own.
-As it is, I think they want to procure all possible pleasures
-and amusements for their own, including the mild amusement of
-prophesying some Utopia that can only come long after they are dead.
-If their novels and newspapers were less filled with the sublime
-spiritual liberation of eloping with the chauffeur, and more
-filled with the duty and dignity of remaining with the baby,
-I might admit that their faces are set towards the Future
-and their souls full of the song of `A Good [[Time]] Coming'.
-As it is, it seems to be an impatient and even pessimistic [[Lyric|lyric]]
-about `A Good [[Time]] Now'.
+For my part, though I have indulged in any amount of buffoonery,
+I regret the new and solitary pre-eminence of the buffoon.
+I regret the fact that the new popular hero must not be heroic
+as well as popular.  He must not receive from the State a serious
+tribute for revealing a serious truth.  When, for the moment,
+the most intelligent art is the most flippant art, it will mean
+a certain abdication of the old claims of the artist.  But it may mean
+worse things than that.  When people begin to ignore human dignity,
+it will not be long before they begin to ignore human rights.
+The pagan state, in which the artist is only a buffoon, will soon
+resemble the ancient pagan state in which he was only a slave.
+I am all for playing the goat; I am charitably disposed even
+to those enacting the funny dog; I have myself appeared more
+than once in public in the character of a performing elephant.
+But if we allow the Image of Man to fade away altogether in these
+animal antics, if it vanishes amid mere mockery and scepticism, the human
+being will find himself something very much worse than fair game.
+He may ultimately be tethered like the goat, or chained up like the dog,
+or ridden and prodded like the elephant.

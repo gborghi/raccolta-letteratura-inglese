@@ -1,5 +1,5 @@
 ---
-title: "[[AllThingsConsidered-8]] — SPIRITUALISM"
+title: "AllThingsConsidered-8 — SPIRITUALISM"
 author: "Chesterton"
 unitType: story
 parentWork: "works/allthingsconsidered-8-(chesterton)"
@@ -10,12 +10,11 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/allthingsconsidered-8-(chesterton)">AllThingsConsidered 8</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_23_the_methuselahite">‹ Story 23 THE METHUSELAHITE</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_25_the_error_of_impartiality">Story 25 THE ERROR OF IMPARTIALITY ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_23_the_methuselahite_methuselahite">‹ Story 23 THE methuselahite METHUSELAHITE</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_25_the_error_of_impartiality">Story 25 THE ERROR OF IMPARTIALITY ›</a></div>
 </nav>
 
 
 SPIRITUALISM.
-
 
 I have received a letter from a gentleman who is very indignant at what
 he considers my flippancy in disregarding or degrading Spiritualism.

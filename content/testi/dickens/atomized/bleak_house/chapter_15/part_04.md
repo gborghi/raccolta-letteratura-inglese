@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 15 (part 4)"
+title: "Bleak House — Chapter 15 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -136,7 +136,3 @@ jokes that brighten up their business sometimes, and they will tell
 you that the best joke they have is the man from Shropshire. I,” he
 said, beating one hand on the other passionately, “am the man from
 Shropshire.”
-
-“I believe I and my family have also had the [[Honour|honour]] of furnishing
-some entertainment in the same [[Grave|grave]] place,” said my guardian
-composedly. “You may have heard my name—Jarndyce.”

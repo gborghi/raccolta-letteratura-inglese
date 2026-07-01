@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 19: NINETEEN (part 6)"
+title: "Martin Chuzzlewit — Chapter 19: NINETEEN (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_19_nineteen/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_20_twenty/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘Ready, eh?’ said the doctor. ‘Very good, Mr Pecksniff, I’ll take an
+opportunity of relating the rest in the coach. It’s rather curious.
+Ready, eh? No rain, I [[Hope|hope]]?’
 
 ‘Quite fair, sir,’ returned Mould.
 

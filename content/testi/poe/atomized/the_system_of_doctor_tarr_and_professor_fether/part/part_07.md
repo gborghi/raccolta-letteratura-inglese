@@ -1,5 +1,5 @@
 ---
-title: "[[The System of Doctor Tarr and Professor Fether]] (part 7)"
+title: "The System of Doctor Tarr and Professor Fether (part 7)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-system-of-doctor-tarr-and-professor-fether-(poe)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_system_of_doctor_tarr_and_professor_fether/part/part_06">‹ part 06</a><span></span></div>
 </nav>
 
+
+      foot, and thrown into the cells, where they were attended, as if
+
+      they were the lunatics, by the lunatics themselves, who had
+
+      usurped the offices of the keepers.”
+
+
+
+      “You don’t tell me so! I never heard of any thing so absurd in my
+
+      life!”
+
+
+
+      “Fact—it all came to pass by means of a stupid fellow—a
 
       lunatic—who, by some means, had taken it into his head that he
 

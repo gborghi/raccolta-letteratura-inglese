@@ -1,5 +1,5 @@
 ---
-title: "[[The Murders in the Rue Morgue]] (part 6)"
+title: "The Murders in the Rue Morgue (part 6)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-murders-in-the-rue-morgue-(poe)"
@@ -13,6 +13,30 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_murders_in_the_rue_morgue/part/part_05">‹ part 05</a><a class="ex-next" href="/testi/poe/atomized/the_murders_in_the_rue_morgue/part/part_07">part 07 ›</a></div>
 </nav>
 
+
+      “_Jules Mignaud_, banker, of the firm of Mignaud et Fils, Rue
+
+      Deloraine. Is the elder Mignaud. Madame L’Espanaye had some
+
+      property. Had opened an account with his banking [[house]] in the
+
+      [[spring]] of the year—(eight years previously). Made frequent
+
+      deposits in small sums. Had checked for nothing until the third
+
+      day before her [[Death|death]], when she took out in person the sum of 4000
+
+      francs. This sum was paid in gold, and a clerk went [[Home|home]] with the
+
+      money.
+
+
+
+      “_Adolphe Le Bon_, clerk to Mignaud et Fils, deposes that on the
+
+      day in question, about [[Noon|noon]], he accompanied Madame L’Espanaye to
+
+      her residence with the 4000 francs, put up in two bags. Upon the
 
       door being opened, Mademoiselle L. appeared and took from his
 
@@ -177,31 +201,3 @@ tags:
       some person or persons unknown. The corpse of the mother was
 
       horribly mutilated. All the bones of the right leg and arm were
-
-      more or less shattered. The left _tibia_ much splintered, as [[Well|well]]
-
-      as all the ribs of the left side. Whole [[Body|body]] dreadfully bruised
-
-      and discolored. It was not possible to say how the injuries had
-
-      been inflicted. A heavy club of wood, or a broad bar of iron—a
-
-      chair—any large, heavy, and obtuse weapon would have produced
-
-      such results, if wielded by the hands of a very powerful man. No
-
-      woman could have inflicted the blows with any weapon. The head of
-
-      the deceased, when seen by witness, was entirely separated from
-
-      the [[Body|body]], and was also greatly shattered. The throat had
-
-      evidently been cut with some very sharp instrument—probably with
-
-      a razor.
-
-
-
-      “_Alexandre Etienne_, surgeon, was called with M. Dumas to view
-
-      the bodies. Corroborated the testimony, and the opinions of M.

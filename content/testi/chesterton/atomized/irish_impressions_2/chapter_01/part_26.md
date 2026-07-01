@@ -14,134 +14,116 @@ tags:
 </nav>
 
 
-Now it is this sensation of stemming a stream, of ten thousand things all
-pouring one way, labels, titles, monuments, metaphors, modes of address,
-assumptions in controversy, that make an Englishman in Ireland know
-that he is in a strange land.  Nor is he merely bewildered, as among
-a medley of strange things.  On the contrary, if he has any sense,
-he soon finds them unified and simplified to a single impression;
-as if he were talking to a strange person.  He cannot define it
-because nobody can define a person; and nobody can define a nation.
-He can only see it, smell it, hear it, handle it, bump into it,
-fall over it, kill it, be killed for it, or be damned for doing it wrong.
-He must be content with these mere hints of its existence;
-but he cannot define it, because it is like a person; and no book
-of [[logic]] will undertake to define Aunt Jane or Uncle William.
-We can only say, with more or less mournful conviction, that if
-Aunt Jane is not a person, there is no such thing as a person,
-and I say with equal conviction that if Ireland is not a nation,
-there is no such thing as a nation.  France is not a nation,
-England is not a nation; there is no such thing as patriotism
-on this planet.  Any Englishman, of any party, with any proposal,
-may [[Well|well]] clear his mind of cant about that preliminary question.
-If we free Ireland, we must free it to be a nation; if we go
-on repressing Ireland, we are repressing a nation; if we are
-right to repress Ireland, we are right to repress a nation.
-After that we may consider what can be done, according to our
-opinions about the respect due to patriotism, the reality of
-cosmopolitan and imperial alternatives, and so on.  I will [[debate]]
-with the man who does not want mankind divided into nations at all;
-I can imagine a case for the man who wants specially to restrain
-one particular nation, as I would restrain anti-national Prussia.
-But I will not argue with a man about whether Ireland is a nation,
-or about the yet more awful question of whether it is an island.
-I know there is a sceptical [[philosophy]] which suggests that all
-ultimate ideas are only penultimate ideas; and therefore perhaps
-that all islands are really peninsulars.  But I will claim to know
-what I mean by an island and what I mean by an individual;
-and when I think suddenly of my experience in the island in question,
-the impression is a single one; the voices mingle in a human voice
-which I should know if I heard it again, calling in the distance;
-the crowds dwindle into a single figure whom I have seen long ago
-upon a strange [[Hill|hill]]-side, and she walking like a [[Queen|queen]].
+Because it is German I do not object to it in [[Germany]].
+Because it is German I should violently revolt against it in England.
+I do not revolt against the command to wait until the train stops,
+not because it is less rude, but because it is the kind of rudeness
+I can understand.  The official may be treating me casually,
+but at least he is not treating himself seriously.  And so, in return,
+I can treat him and his notice not seriously but casually.  I can
+neglect to wait until the train stops, and fall down on the platform;
+as I did on the platform of Wolverhampton, to the permanent damage
+of that fine structure.  I can, by a stroke of satiric genius,
+truly national and traditional, the dexterous elimination of a
+single letter, alter the maxim to "Wait until the rain stops."
+It is a jest as profoundly English as the weather to which it refers.
+Nobody would be tempted to take such a liberty with the German sentence;
+not only because he would be instantly imprisoned in a fortress,
+but because he would not know at which end to begin.
 
-~||~
+Now this is the [[Truth|truth]] which is expressed, though perhaps very imperfectly,
+in things like the Gaelic lettering on streets in Dublin.
+It will be wholesome for us who are English to realise that there
+is almost certainly an English way of putting things, even the most
+harmless things, which appears to an Irishman quite as ungainly,
+unnatural, and ludicrous as that German sentence appears to me.
+As the famous Frenchman did not know when he was talking prose,
+the official Englishman does not know when he is talking English.
+He unconsciously assumes that he is talking Esperanto.
+Imperialism is not an insanity of patriotism; it is merely an
+illusion of cosmopolitanism.
 
-_IX--Belfast and the Religious Problem_
+For the national note of the Irish language is not peculiar to what used
+to be called the Erse language.  The whole nation used the tongue
+common to both nations with a difference far beyond a dialect.
+It is not a difference of accent, but a difference of style;
+which is generally a difference of [[Soul|soul]].  The emphasis, the elision,
+the short cuts and sharp endings of speech, show a variety which
+may be almost unnoticeable but is none the less untranslatable.
+It may be only a little more weight on a word, or an inversion allowable
+in English but abounding in Irish; but we can no more copy it than copy
+the compactness of the French _on_ or the Latin ablative absolute.
+The commonest case of what I mean, for instance, is the locution
+that lingers in my mind with an agreeable phrase from one of
+Mr. Yeats's stories:  "Whom I shall yet see upon the hob of hell,
+and them screeching."  It is an idiom that gives the effect of a
+pointed postscript, a parting kick or sting in the tail of the sentence,
+which is unfathomably national.  It is noteworthy and even curious
+that quite a crowd of Irishmen, who quoted to me with just admiration
+the noble ending of _Kathleen-na-Hulahan,_ where the newcomer
+is asked if he has seen the old woman who is the tragic type
+of Ireland going out, quoted his answer in that form, "I did not.
+But I saw a young woman; and she walking like a [[Queen|queen]]."
+I say it is curious; because I have since been told that in
+the actual book (which I cannot lay my hand on at the moment)
+a more classic English idiom is used.  It would generally be most
+unwise to alter the diction of such a master of style as Mr. Yeats:
+though indeed it is possible that he altered it himself,
+as he has sometimes done, and not always, I think, for the better.
+But whether this form came from himself or from his countrymen,
+it was very redolent of his country.  And there was something
+inspiring in thus seeing, as it were before one's eyes, literature
+becoming legend.  But a hundred other examples could be given,
+even from my own short experience, of such fine turns of language,
+nor are the finest necessarily to be found in literature.
+It is perfectly true, though prigs may overwork and snobs
+underrate the [[Truth|truth]], that in a country like this the peasants
+can talk like poets.  When I was on the wild coast of Donegal,
+an old unhappy woman who had starved through the famines
+and the evictions, was telling a lady the tales of those times;
+and she mentioned quite naturally one that might have come straight
+out of times so mystical that we should call them mythical;
+that some travellers had met a poor wandering woman with a baby
+in those great gray rocky wastes, and asked her who she was.
+And she answered, "I am the Mother of God, and this is Himself;
+and He is the boy you will all be wanting at the last."
 
-OF that cloud of dream which seems to drift over so many Irish [[Poems|poems]]
-and impressions, I felt very little in Ireland.  There is a real
-meaning in this suggestion of a mystic [[Sleep|sleep]]; but it does not mean
-what most of us imagine, and is not to be found where we expect it.
-On the contrary, I think the most vivid impression the nation
-left on me, was that it was almost unnaturally wide awake.
-I might almost say that Ireland suffers from insomnia.
-This is not only literally true, of those tremendous talks,
-the prolonged activities of rich and restless intellects,
-that can burn up the nights from darkness to daybreak.
-It is true on the doubtful as [[Well|well]] as the delightful side;
-and the temperament has something of the morbid vigilance and even
-of the irritability of insomnia.  Its lucidity is not only superhuman,
-but it is sometimes in the true sense inhuman.  Its intellectual
-clarity cannot resist the [[Temptation|temptation]] to intellectual cruelty.
-If I had to sum up in a sentence the one fault really to be found
-with the Irish, I could do it simply enough.  I should say it saddened
-me that I liked them all so much better than they liked each other.
-But it is our supreme stupidity that this is always taken as
-meaning that Ireland is a sort of Donnybrook Fair.  It is really
-quite the reverse of a merely rowdy and irresponsible quarrel.
-So far from fighting with shillelaghs, they fight far too much
-with rapiers; their [[Temptation|temptation]] is in the very nicety and even
-delicacy of the thrust.  Of course there are multitudes who make
-no such deadly use of the national irony; but it is sufficiently
-common for even these to suffer from it; and after a [[Time|time]] I began
-to understand a little that burden about bitterness of speech,
-which recurs so often in the [[songs]] of Mr. Yeats and other Irish poets.
-
-"Though [[Hope|hope]] fall from you and [[Love|love]] [[Decay|decay]] Burning in fires of
-a slanderous tongue."
-
-But there is nothing dreamy about the bitterness; the worst part
-of it is the fact that the criticisms always have a very lucid
-and logical touch of [[Truth|truth]].  It is not for us to lecture the Irish
-about [[Forgiveness|forgiveness]], who have given them so much to forgive.
-But if some one who had not lost the right to preach to them,
-if St. Patrick were to return to preach, he would find that nothing
-had failed, through all those ages of agony, of [[Faith|faith]] and [[Honour|honour]]
-and [[Endurance|endurance]]; but I think he might possibly say, what I have no
-right to say, a word about [[Charity|charity]].
-
-There is indeed one decisive sense in which the Irish are very poetical;
-in that of giving a special and serious social recognition to poetry.
-I have sometimes expressed the fancy that men in the [[Golden Age]]
-might spontaneously talk in verse; and it is really true that half
-the Irish talk is in verse.  Quotation becomes recitation.
-But it is much too rhythmic to resemble our own theatrical recitations.
-This is one of my own strongest and most sympathetic memories,
-and one of my most definable reasons for having felt extraordinarily
-happy in Dublin.  It was a paradise of poets, in which a man
-who may feel inclined to mention a book or two of _Paradise Lost,_
-or illustrate his meaning with the complete ballad of the
-_Ancient Mariner,_ feels he will be better understood than elsewhere.
-But the more this very national quality is noted, the less it will be
-mistaken for anything merely irresponsible, or even merely emotional.
-The shortest way of stating the [[Truth|truth]] is to say that poetry plays the part
-of music.  It is in every sense of the phrase a social function.
-A poetical evening is as natural as a musical evening; and being
-as natural it becomes what is called artificial.  As in some circles
-"Do you play?" is rather "Don't you play?" these Irish circles would
-be surprised because a man did not recite rather than because he did.
-A hostile critic, especially an Irish critic, might possibly say
-that the Irish are poetical because they are not sufficiently musical.
-I can imagine Mr. Bernard [[Shaw]] saying something of the sort.
-But it might [[Well|well]] be retorted that they are not merely musical
-because they will not consent to be merely emotional.
-It is far truer to say that they give a reasonable place to poetry,
-than that they permit any particular poetic interference with reason.
-"But I, whose virtues are the definitions of the analytical mind,"
-says Mr. Yeats, and any one who has been in the atmosphere
-will know what he means.  In so far as such things stray
-from reason, they tend rather to ritual than to riot.
-Poetry is in Ireland what [[Humour|humour]] is in [[america|America]]; it is an institution.
-The Englishman, who is always for good and evil the amateur,
-takes both in a more occasional and even accidental fashion.
-It must always be remembered here that the ancient Irish civilisation
-had a high order of poetry, which was not merely mystical,
-but rather mathematical.  Like Celtic ornament, Celtic verse
-tended too much to geometrical patterns.  If this was irrational,
-it was not by excess of emotion.  It might rather be described as
-irrational by excess of reason.  The antique hierarchy of minstrels,
-each grade with its own complicated metre, suggests that there
-was something Chinese about a thing so unhumanly civilised.
-Yet all this vanished etiquette is somehow in the air in Ireland;
-and men and women move to it, as to the steps of a lost [[Dance|dance]].
+There is more in that story than can be put into any book,
+even on a matter in which its meaning plays so deep a part;
+and it seems almost profane to analyse it however sympathetically.
+But if any one wishes to know what I mean by the untranslatable [[Truth|truth]]
+which makes a language national, it will be worth while to look at
+the mere diction of that speech, and note how its whole effect turns on
+certain phrases and customs which happen to be peculiar to the nation.
+It is [[Well|well]] known that in Ireland the husband or head of the [[house]] is
+always called "himself"; nor is it peculiar to the peasantry, but adopted,
+if partly in jest, by the gentry.  A distinguished Dublin publicist,
+a landlord and leader among the more national aristocracy,
+always called me "himself" when he was talking to my wife.
+It will be noted how a sort of [[Shadow|shadow]] of that common meaning mingles
+with the more shining significance of its position in a sentence
+where it is also strictly logical, in the sense of theological.
+All literary style, especially national style, is made up
+of such coincidences; which are a spiritual sort of puns.
+That is why style is untranslatable; because it is possible to render
+the meaning, but not the [[Double|double]] meaning.  There is even a faint
+differentiation in the half-humorous possibilities of the word "boy";
+another wholly national nuance.  Say instead, "And He is the [[Child|child]]"
+and it is something perhaps stiffer, and certainly quite different.
+Take away, "This is Himself" and simply substitute "This is He";
+and it is a piece of pedantry ten thousand miles from the original.
+But above all it has lost its note of something national, because it
+has lost its note of something domestic.  All roads in Ireland,
+of fact or folk-lore, of theology or grammar, lead us back to that door
+and hearth of the household, that fortress of the family which is the
+key-fortress of the whole strategy of the island.  The Irish Catholics,
+like other Christians, admit a mystery in the Holy Trinity, but they
+may almost be said to admit an experience in the Holy Family.
+Their historical experience, alas, has made it seem to them
+not unnatural that the Holy Family should be a homeless family.
+They also have found that there was no room for them at the inn,
+or anywhere but in the jail; they also have dragged their
+new-born babes out of their cradles, and trailed in [[Despair|despair]]
+along the [[Road|road]] to [[Egypt]], or at least along the [[Road|road]] to [[Exile|exile]].
+They also have heard in the dark and the distance behind them,
+the noise of the horsemen of Herod.

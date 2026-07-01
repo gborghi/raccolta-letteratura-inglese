@@ -129,13 +129,3 @@ clubbing our funds together, we shall do bravely; no [[Fear|fear]] of that.’
 ‘Amen, my dear,’ returned her friend cheerfully; ‘and all of us, as it
 will, and has, in leading us through sorrow and trouble to this
 tranquil life.  But we must look at MY [[house]] now.  Come!’
-
-They repaired to the other tenement; tried the rusty keys as before; at
-length found the right one; and opened the worm-eaten door.  It led
-into a chamber, vaulted and old, like that from which they had come,
-but not so spacious, and having only one other little room attached.
-It was not difficult to divine that the other [[house]] was of right the
-schoolmaster’s, and that he had chosen for himself the least
-commodious, in his care and regard for them.  Like the adjoining
-habitation, it held such old articles of furniture as were absolutely
-necessary, and had its stack of [[Fire|fire]]-wood.

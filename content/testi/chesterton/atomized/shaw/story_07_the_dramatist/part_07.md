@@ -1,5 +1,5 @@
 ---
-title: "[[Shaw]] — THE DRAMATIST (part 7)"
+title: "Shaw — THE DRAMATIST (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/shaw-(chesterton)"
@@ -13,6 +13,53 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/shaw/story_07_the_dramatist/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/shaw/story_07_the_dramatist/part_08">part 08 ›</a></div>
 </nav>
 
+
+The third play in order in the series called PLAYS FOR PURITANS
+is a very charming one; CAPTAIN BRASSBOUND'S [[conversion|CONVERSION]].
+This also turns, as does so much of the Caesar drama, on the idea
+of [[Vanity|vanity]] of [[Revenge|revenge]]--the idea that it is too slight and silly
+a thing for a man to allow to occupy and corrupt his consciousness.
+It is not, of course, the [[morality]] that is new here,
+but the touch of cold laughter in the core of the [[morality]].
+Many saints and sages have denounced vengeance.
+But they treated vengeance as something too great for man.
+"Vengeance is Mine, saith the Lord; I will repay."
+[[Shaw]] treats vengeance as something too small for man--
+a monkey trick he ought to have outlived, a childish
+[[Storm|storm]] of [[Tears|tears]] which he ought to be able to control.
+In the story in question Captain Brassbound has nourished
+through his whole erratic existence, racketting about
+all the unsavoury parts of Africa--a mission of private
+punishment which appears to him as a mission of holy justice.
+His mother has died in consequence of a judge's decision,
+and Brassbound roams and schemes until the judge falls into
+his hands.  Then a pleasant society lady, Lady Cicely Waynefleet
+tells him in an easy conversational undertone--a rivulet
+of speech which ripples while she is [[mending]] his coat--
+that he is making a [[Fool|fool]] of himself, that his wrong is irrelevant,
+that his vengeance is objectless, that he would be much
+better if he flung his morbid fancy away for ever; in short,
+she tells him he is ruining himself for the sake of ruining
+a total stranger.  Here again we have the note of the economist,
+the hatred of mere loss.  [[Shaw]] (one might almost say)
+dislikes murder, not so much because it wastes the life
+of the corpse as because it wastes the [[Time|time]] of the murderer.
+If he were endeavouring to persuade one of his [[Moon|moon]]-lighting
+fellow-countrymen not to shoot his landlord, I can imagine him
+explaining with benevolent emphasis that it was not so much
+a question of losing a life as of throwing away a bullet.
+But indeed the Irish comparison [[Alone|alone]] suggests a [[Doubt|doubt]] which
+wriggles in the recesses of my mind about the complete reliability
+of the [[philosophy]] of Lady Cicely Waynefleet, the complete
+finality of the moral of CAPTAIN BRASSBOUND'S [[conversion|CONVERSION]].
+Of course, it was very natural in an [[aristocrat]] like
+Lady Cicely Waynefleet to wish to let sleeping [[dogs]] lie,
+especially those whom Mr. Blatchford calls under-[[dogs]]. Of
+course it was natural for her to wish everything to be smooth
+and sweet-tempered. But I have the obstinate question in
+the corner of my brain, whether if a few Captain Brassbounds
+did [[Revenge|revenge]] themselves on judges, the quality of our judges
+might not materially improve.
 
 When this [[Doubt|doubt]] is once off one's [[Conscience|conscience]] one can lose
 oneself in the bottomless beatitude of Lady Cicely Waynefleet,
@@ -79,58 +126,3 @@ There if anywhere he would have broken out into ultimate
 brotherhood or burning pity for the people.  But in that scene
 between [[The Sphinx|the Sphinx]] and Caesar, Caesar is as cold and as lonely
 and as dead as [[The Sphinx|the Sphinx]].
-
-But whether the Shavian Caesar is a sound ideal or no,
-there can be little [[Doubt|doubt]] that he is a very fine reality.
-[[Shaw]] has done nothing greater as a piece of artistic creation.
-If the man is a little like a statue, it is a statue by a
-great sculptor; a statue of the best period.  If his nobility
-is a little negative in its character, it is the negative darkness
-of the great dome of [[Night|night]]; not as in some "new moralities"
-the mere mystery of the coal-hole. Indeed, this somewhat austere
-method of work is very suitable to [[Shaw]] when he is serious.
-There is nothing Gothic about his real genius; he could
-not build a mediaeval [[Cathedral|cathedral]] in which laughter and terror
-are twisted together in stone, molten by mystical passion.
-He can build, by way of amusement, a Chinese pagoda;
-but when he is in earnest, only a Roman temple.  He has
-a keen eye for [[Truth|truth]]; but he is one of those people who like,
-as the saying goes, to put down the [[Truth|truth]] in black and white.
-He is always girding and jeering at romantics and idealists
-because they will not put down the [[Truth|truth]] in black and white.
-But black and white are not the only two colours in the world.
-The modern man of science who writes down a fact in black
-and white is not more but less accurate than the mediaeval monk
-who wrote it down in gold and scarlet, sea-green and turquoise.
-Nevertheless, it is a good thing that the more austere
-method should exist separately, and that some men should be
-specially good at it.  Bernard [[Shaw]] is specially good at it;
-he is pre-eminently a black and white [[Artist|artist]].
-
-And as a study in black and white nothing could be better
-than this [[Sketch|sketch]] of [[Julius Caesar]].  He is not so much
-represented as "bestriding the earth like a Colossus"
-(which is indeed a rather comic attitude for a [[Hero|hero]] to stand in),
-but rather walking the earth with a sort of stern levity,
-lightly touching the planet and yet spurning it away like a stone.
-He walks like a winged man who has chosen to fold his wings.
-There is something creepy even about his kindness; it makes
-the men in front of him feel as if they were made of glass.
-The [[Nature|nature]] of the Caesarian [[Mercy|mercy]] is massively suggested.
-Caesar dislikes a massacre, not because it is a great sin,
-but because it is a small sin.  It is felt that he classes it with a
-flirtation or a fit of the sulks; a senseless temporary subjugation
-of man's permanent purpose by his passing and trivial feelings.
-He will plunge into slaughter for a great purpose,
-just as he plunges into the sea.  But to be stung into such
-action he deems as undignified as to be tipped off the pier.
-In a singularly fine passage [[Cleopatra]], having hired assassins
-to stab an enemy, appeals to her wrongs as justifying her [[Revenge|revenge]],
-and says, "If you can find one man in all Africa who says
-that I did wrong, I will be crucified by my own slaves."
-"If you can find one man in all the world," replies Caesar,
-"who can see that you did wrong, he will either conquer
-the world as I have done or be crucified by it."
-That is the high [[Water|water]] mark of this heathen sublimity;
-and we do not feel it inappropriate, or unlike [[Shaw]], when a few
-minutes afterwards the [[Hero|hero]] is saluted with a blaze of swords.

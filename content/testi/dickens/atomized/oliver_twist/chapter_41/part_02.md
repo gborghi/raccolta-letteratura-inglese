@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 41 (part 2)"
+title: "Oliver Twist — Chapter 41 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_41/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_41/part_03">part 03 ›</a></div>
 </nav>
 
+
+“That is my name,” said the old gentleman. “This is my friend, Mr.
+Grimwig. Grimwig, will you leave us for a few minutes?”
+
+“I believe,” interposed Miss Maylie, “that at this period of our
+interview, I need not give that gentleman the trouble of going away. If
+I am correctly informed, he is cognizant of the business on which I
+wish to speak to you.”
 
 Mr. Brownlow inclined his head. Mr. Grimwig, who had made one very
 stiff bow, and risen from his chair, made another very stiff bow, and
@@ -135,27 +143,3 @@ testily.
 
 “[[Well]], that I do, sir,” replied the old lady. “People’s eyes, at my
 [[Time|time]] of life, don’t improve with age, sir.”
-
-“I could have told you that,” rejoined Mr. Brownlow; “but put on your
-glasses, and see if you can’t find out what you were wanted for, will
-you?”
-
-The old lady began to rummage in her pocket for her spectacles. But
-[[Oliver]]’s patience was not proof against this new trial; and yielding to
-his first impulse, he sprang into her arms.
-
-“God be good to me!” cried the old lady, embracing him; “it is my
-[[Innocent|innocent]] boy!”
-
-“My dear old [[Nurse|nurse]]!” cried [[Oliver]].
-
-“He would come back—I knew he would,” said the old lady, holding him in
-her arms. “How [[Well|well]] he looks, and how like a gentleman’s son he is
-dressed again! Where have you been, this long, long while? Ah! the same
-sweet face, but not so pale; the same soft eye, but not so sad. I have
-never forgotten them or his quiet smile, but have seen them every day,
-side by side with those of my own dear children, dead and gone since I
-was a lightsome young creature.” Running on thus, and now holding
-[[Oliver]] from her to mark how he had grown, now clasping him to her and
-passing her fingers fondly through his hair, the good [[Soul|soul]] laughed and
-wept upon his neck by turns.

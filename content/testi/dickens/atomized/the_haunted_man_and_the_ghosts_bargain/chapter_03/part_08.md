@@ -1,5 +1,5 @@
 ---
-title: "The Haunted Man and the [[Ghost]]'s Bargain — Chapter 3 (part 8)"
+title: "The Haunted Man and the Ghost's Bargain — Chapter 3 (part 8)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-haunted-man-and-the-ghost's-bargain-(dickens)"
@@ -13,6 +13,36 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_03/part_07">‹ part 07</a><a class="ex-next" href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_03/part_09">part 09 ›</a></div>
 </nav>
 
+
+“I have no learning, and you have much,” said Milly; “I am not used to
+think, and you are always thinking. May I tell you why it seems to me a
+good thing for us, to remember wrong that has been done us?”
+
+“Yes.”
+
+“That we may forgive it.”
+
+“Pardon me, great Heaven!” said Redlaw, lifting up his eyes, “for having
+thrown away thine own high attribute!”
+
+“And if,” said Milly, “if your [[Memory|memory]] should one day be restored, as we
+will [[Hope|hope]] and pray it may be, would it not be a blessing to you to recall
+at once a wrong and its [[Forgiveness|forgiveness]]?”
+
+He looked at the figure by the door, and fastened his attentive eyes on
+her again; a ray of clearer light appeared to him to shine into his mind,
+from her bright face.
+
+“He cannot go to his abandoned [[Home|home]]. He does not seek to go there. He
+knows that he could only carry shame and trouble to those he has so
+cruelly neglected; and that the best reparation he can make them now, is
+to avoid them. A very little money carefully bestowed, would remove him
+to some distant place, where he might live and do no wrong, and make such
+atonement as is left within his power for the wrong he has done. To the
+unfortunate lady who is his wife, and to his son, this would be the best
+and kindest boon that their best friend could give them—one too that they
+need never know of; and to him, shattered in reputation, mind, and [[Body|body]],
+it might be salvation.”
 
 He took her head between her hands, and kissed it, and said: “It shall be
 done. I trust to you to do it for me, now and secretly; and to tell him
@@ -114,29 +144,3 @@ all the disappointed hopes in which there is no harm. When I see a
 beautiful [[Child|child]] in its fond mother’s arms, I [[Love|love]] it all the better,
 thinking that my [[Child|child]] might have been like that, and might have made my
 heart as proud and happy.”
-
-Redlaw raised his head, and looked towards her.
-
-“All through life, it seems by me,” she continued, “to tell me something.
-For poor neglected children, my little [[Child|child]] pleads as if it were alive,
-and had a voice I knew, with which to speak to me. When I hear of youth
-in [[Suffering|suffering]] or shame, I think that my [[Child|child]] might have come to that,
-perhaps, and that God took it from me in His [[Mercy|mercy]]. Even in age and grey
-hair, such as father’s, it is present: saying that it too might have
-lived to be old, long and long after you and I were gone, and to have
-needed the respect and [[Love|love]] of younger people.”
-
-Her quiet voice was quieter than ever, as she took her husband’s arm, and
-laid her head against it.
-
-“Children [[Love|love]] me so, that sometimes I half fancy—it’s a silly fancy,
-William—they have some way I don’t know of, of feeling for my little
-[[Child|child]], and me, and understanding why their [[Love|love]] is precious to me. If I
-have been quiet since, I have been more happy, William, in a hundred
-ways. Not least happy, dear, in this—that even when my little [[Child|child]] was
-born and dead but a few days, and I was weak and sorrowful, and could not
-help grieving a little, the thought arose, that if I tried to lead a good
-life, I should meet in Heaven a bright creature, who would call me,
-Mother!”
-
-Redlaw fell upon his knees, with a loud cry.

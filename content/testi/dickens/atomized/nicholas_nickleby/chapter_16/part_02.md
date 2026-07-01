@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 16 (part 2)"
+title: "Nicholas Nickleby — Chapter 16 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_16/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_16/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘I’ll take the address of that place,’ said the client; ‘I don’t know
+but what it mightn’t suit me pretty [[Well|well]].’
 
 ‘Here’s another,’ remarked Tom, turning over the [[Leaves|leaves]]. ‘“Family of Mr
 Gallanbile, MP. Fifteen guineas, tea and sugar, and servants allowed
@@ -132,34 +135,3 @@ Thinking no longer of his own misfortunes, but wondering what could
 be those of the beautiful girl he had seen, Nicholas, with many wrong
 turns, and many inquiries, and almost as many misdirections, bent his
 steps towards the place whither he had been directed.
-
-Within the precincts of the ancient [[City|city]] of Westminster, and within
-half a quarter of a mile of its ancient sanctuary, is a narrow and dirty
-region, the sanctuary of the smaller members of Parliament in modern
-days. It is all comprised in one street of gloomy lodging-houses, from
-whose windows, in vacation-[[Time|time]], there frown long [[Melancholy|melancholy]] rows of
-bills, which say, as plainly as did the countenances of their occupiers,
-ranged on ministerial and opposition benches in the session which
-slumbers with its fathers, ‘To Let’, ‘To Let’. In busier periods of the
-year these bills disappear, and the houses swarm with legislators. There
-are legislators in the parlours, in the first floor, in the second, in
-the third, in the garrets; the small apartments reek with the breath of
-deputations and delegates. In damp weather, the place is rendered close,
-by the steams of moist acts of parliament and frouzy petitions; general
-postmen grow faint as they enter its infected limits, and shabby figures
-in [[Quest|quest]] of franks, flit restlessly to and fro like the troubled [[Ghosts|ghosts]]
-of Complete Letter-writers departed. This is Manchester Buildings; and
-here, at all hours of the [[Night|night]], may be heard the rattling of latch-keys
-in their respective keyholes: with now and then--when a gust of [[Wind|wind]]
-sweeping across the [[Water|water]] which washes the Buildings’ feet, impels the
-sound towards its entrance--the weak, shrill voice of some young member
-practising tomorrow’s speech. All the livelong day, there is a grinding
-of organs and clashing and clanging of little boxes of music; for
-Manchester Buildings is an eel-pot, which has no outlet but its awkward
-mouth--a case-bottle which has no thoroughfare, and a short and narrow
-neck--and in this respect it may be typical of the fate of some few
-among its more adventurous residents, who, after wriggling themselves
-into Parliament by violent efforts and contortions, find that it, too,
-is no thoroughfare for them; that, like Manchester Buildings, it leads
-to nothing beyond itself; and that they are fain at last to back out, no
-wiser, no richer, not one whit more famous, than they went in.

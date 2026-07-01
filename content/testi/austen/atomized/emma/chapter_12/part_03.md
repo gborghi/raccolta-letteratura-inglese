@@ -1,5 +1,5 @@
 ---
-title: "[[Emma]] — Chapter 12 (part 3)"
+title: "Emma — Chapter 12 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/emma-(austen)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/emma/chapter_12/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/emma/chapter_13/part_01">part 01 ›</a></div>
 </nav>
 
+
+“That sweet, amiable [[Jane Fairfax]]!” said Mrs. John Knightley.—“It is so
+long since I have seen her, except now and then for a moment
+accidentally in town! What happiness it must be to her good old
+grandmother and excellent aunt, when she comes to visit them! I always
+regret excessively on dear [[Emma]]’s account that she cannot be more at
+Highbury; but now their daughter is married, I suppose Colonel and Mrs.
+Campbell will not be able to part with her at all. She would be such a
+delightful companion for [[Emma]].”
 
 Mr. Woodhouse agreed to it all, but added,
 

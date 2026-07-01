@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 17 (part 5)"
+title: "Bleak House — Chapter 17 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,25 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_17/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_18/part_01">part 01 ›</a></div>
 </nav>
 
+
+I took his hand and kissed it.
+
+“It laid the injunction on me that I should never propose to see the
+writer, who had long been estranged from all intercourse with the
+world, but who would see a confidential agent if I would appoint one.
+I accredited Mr. Kenge. The lady said, of her own accord and not of
+his seeking, that her name was an assumed one. That she was, if there
+were any ties of [[Blood|blood]] in such a case, the [[Child|child]]’s aunt. That more
+than this she would never (and he was [[Well|well]] persuaded of the
+steadfastness of her resolution) for any human consideration
+disclose. My dear, I have told you all.”
+
+I held his hand for a little while in mine.
+
+“I saw my ward oftener than she saw me,” he added, cheerily making
+light of it, “and I always knew she was beloved, useful, and happy.
+She repays me twenty-thousandfold, and twenty more to that, every
+hour in every day!”
 
 “And oftener still,” said I, “she blesses the guardian who is a
 father to her!”

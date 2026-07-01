@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 27: TWENTY SEVEN (part 1)"
+title: "Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -115,6 +115,3 @@ question.
 
 ‘If that’s enough,’ said Montague, ‘I will propose it at the Board
 to-day, in my capacity as chairman.’
-
-The secretary smiled again; laughed, indeed, this [[Time|time]]; and said,
-rubbing his nose slily with one end of the portfolio:

@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 53 (part 3)"
+title: "Nicholas Nickleby — Chapter 53 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_53/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_53/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘I have none,’ said Nicholas; ‘nor, in the consideration of the station
+you once held, have I used that or any other word which, however
+harmless in itself, could be supposed to imply authority on my part or
+dependence on yours. I have no orders, but I have fears--fears that I
+will express, chafe as you may--fears that you may be consigning that
+young lady to something worse than supporting you by the labour of her
+hands, had she worked herself dead. These are my fears, and these fears
+I found upon your own demeanour. Your [[Conscience|conscience]] will tell you, sir,
+whether I construe it [[Well|well]] or not.’
 
 ‘For Heaven’s sake!’ cried [[Madeline]], interposing in alarm between them.
 ‘Remember, sir, he is ill.’

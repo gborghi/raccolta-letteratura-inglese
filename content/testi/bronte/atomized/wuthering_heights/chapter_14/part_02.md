@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 14 (part 2)"
+title: "Wuthering Heights — Chapter 14 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -120,16 +120,3 @@ most likely, is convinced you are mad; and, for that reason, she has
 borne with you hitherto: but now that you say she may go, she’ll
 doubtless avail herself of the permission. You are not so bewitched,
 ma’am, are you, as to remain with him of your own accord?”
-
-“Take care, Ellen!” answered [[Isabella]], her eyes sparkling irefully;
-there was no misdoubting by their expression the full [[success]] of her
-partner’s endeavours to make himself detested. “Don’t put [[Faith|faith]] in a
-single word he speaks. He’s a lying fiend! a [[Monster|monster]], and not a human
-being! I’ve been told I might leave him before; and I’ve made the
-attempt, but I dare not repeat it! Only, Ellen, promise you’ll not
-mention a syllable of his infamous conversation to my brother or
-Catherine. Whatever he may pretend, he wishes to provoke [[Edgar]] to
-desperation: he says he has married me on purpose to obtain power over
-him; and he sha’n’t obtain it—I’ll die first! I just [[Hope|hope]], I pray, that
-he may forget his diabolical prudence and kill me! The single pleasure
-I can imagine is to die, or to see him dead!”

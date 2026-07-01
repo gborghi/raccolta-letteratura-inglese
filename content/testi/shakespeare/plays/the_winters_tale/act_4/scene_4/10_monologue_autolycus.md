@@ -1,5 +1,5 @@
 ---
-title: "The Winters Tale — Act IV, Scene 4 — monologue ([[Autolycus|AUTOLYCUS]]) [10]"
+title: "The Winters Tale — Act IV, Scene 4 — monologue (AUTOLYCUS) [10]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-winter’s-tale-(shakespeare)"

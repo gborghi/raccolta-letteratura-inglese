@@ -1,5 +1,5 @@
 ---
-title: "2 [[Henry IV]] — Act IV, Scene 1 — monologue ([[Prince John|PRINCE JOHN]]) [7]"
+title: "2 Henry IV — Act IV, Scene 1 — monologue (PRINCE JOHN) [7]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/2-henry-iv-(shakespeare)"

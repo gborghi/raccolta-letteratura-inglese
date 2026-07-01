@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 14 (part 1)"
+title: "The Mystery of Edwin Drood — Chapter 14 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -125,11 +125,3 @@ inland country.
 when they have walked some distance and are turning; “you will
 understand in another moment that I cannot help referring to—what shall
 I say?—my infatuation.”
-
-“Had you not better avoid it, Neville? You know that I can hear
-nothing.”
-
-“You can hear, my dear, what Mr. Crisparkle has heard, and heard with
-approval.”
-
-“Yes; I can hear so much.”

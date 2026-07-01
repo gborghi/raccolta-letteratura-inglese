@@ -1,5 +1,5 @@
 ---
-title: "[[longbow2]] — Chapter 6 (part 5)"
+title: "longbow2 — Chapter 6 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/longbow2/chapter_06/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/longbow2/chapter_06/part_06">part 06 ›</a></div>
 </nav>
 
+
+"Yes," said Owen Hood; "I begin to have some dim idea of what you
+are talking about."
 
 "In all our little adventures," went on the other, "we have
 all of us taken up some definite position and stuck to it,
@@ -31,7 +34,7 @@ But Hunter didn't go on admiring the old landlords; he deserted
 to the new landlords as soon as they got the land.  His conservatism
 was too snobbish to conserve anything.  I wanted to import pigs,
 and I went on importing pigs, though my methods of smuggling
-might land me in a mad-[[house]]. But Enoch Oates, the millionaire,
+might land me in a mad-house. But Enoch Oates, the millionaire,
 didn't go on importing pork; he went off at once on some new stunt,
 first on the booming of his purses, and afterwards on the admirable
 stunt of starting English farms.  The business mind isn't steadfast;
@@ -49,8 +52,8 @@ Materialism isn't like stone; it's like mud, and liquid mud at that."
 inclined to add something to it.  On a rough reckoning of the chances
 in modern England, I should say the situation is something like this. 
 In that dubious and wavering atmosphere it is very unlikely
-there would ever be a revolution, or any very vital [[Reform|reform]]. 
-But if there were, I believe on my [[Soul|soul]] that it might be successful. 
+there would ever be a revolution, or any very vital reform. 
+But if there were, I believe on my soul that it might be successful. 
 I believe everything else would be too weak and wobbly to stand up
 against it."
 
@@ -65,18 +68,16 @@ compactly and clearly stated in the newspaper report, at which
 the friends of the experimentalists found themselves gazing with
 more than their usual bewilderment on the following morning. 
 The Colonel, sitting at his club with his favourite daily paper
-spread out before him, was regarding with a [[Grave|grave]] [[Wonder|wonder]] a paragraph
+spread out before him, was regarding with a grave wonder a paragraph
 that began with the following head-lines:
-
 
               AMAZING SCENE AT SCIENTIFIC CONGRESS
 
                  LECTURER GOES MAD AND ESCAPES
 
-
 "A scene equally distressing and astonishing took place at the third
 meeting of the Astronomical Society now holding its congress
-at Bath.  Professor [[Oliver]] Green, one of the most promising of
+at Bath.  Professor Oliver Green, one of the most promising of
 the younger astronomers, was set down in the syllabus to deliver
 a lecture on `Relativity in Relation to Planetary Motion.' 
 About an hour before the lecture, however, the authorities received
@@ -86,7 +87,7 @@ immediately to communicate his discovery to the scientific world.
 Great excitement and keen anticipation prevailed at the meeting,
 but these feelings changed to bewilderment as the lecture proceeded. 
 The lecturer announced without hesitation the existence of a new
-planet attached to one of the fixed stars, but proceeded to describe
+planet attached to one of the fixed [[Stars|stars]], but proceeded to describe
 its geological formation and other features with a fantastic
 exactitude beyond anything yet obtained by way of the spectrum
 or the telescope.  He was understood to say that it produced life
@@ -97,7 +98,7 @@ a still more improbable of a more mobile but equally monstrous form
 of life, resting on four trunks or columns which swung in rotation,
 and terminating in some curious curved appendages, when a young man
 in the front row, whose demeanour had shown an increasing levity,
-called out abruptly:  `Why, that's a cow!'  To this [[The Professor|the professor]],
+called out abruptly:  `Why, that's a cow!'  To this the professor,
 abandoning abruptly all pretence of scientific dignity, replied by
 shouting in a voice like thunder:  `Yes, of course it's a cow;
 and you fellows would never have noticed a cow, even if she jumped
@@ -116,18 +117,3 @@ was able to certify on the spot that the unfortunate Green was
 clearly [[Suffering|suffering]] from dementia, which was immediately corroborated
 by a local doctor, so that the unhappy man might be removed without
 further scandal.
-
-"At this point, however, a still more extraordinary development
-took place.  The young man in the front row, who had several times
-interrupted the proceedings with irrelevant remarks, sprang to his feet,
-and loudly declaring that Professor Green was the only sane man in
-the Congress, rushed at the group surrounding him, violently hurled
-Sir Horace Hunter from the platform, and with the assistance
-of a friend and fellow-rioter, managed to recapture the lunatic
-from the doctors and police, and carry him outside the building. 
-Those pursuing the fugitives found themselves at first confronted
-with a new mystery, in the form of their complete disappearance. 
-It has since been discovered that they actually escaped by aeroplane;
-the young man, whose name is said to be Pierce, being a [[Well|well]]-known
-aviator formerly connected with the Flying Corps.  The other young man,
-who assisted him and acted as pilot, has not yet been identified."

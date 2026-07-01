@@ -1,5 +1,5 @@
 ---
-title: "The [[history|History]] of [[King Lear]] (Quarto Text) — Scene 19"
+title: "The History of King Lear (Quarto Text) — Scene 19"
 author: "Shakespeare"
 unitType: scene
 parentWork: "works/the-history-of-king-lear---the-quarto-text-(shakespeare)"

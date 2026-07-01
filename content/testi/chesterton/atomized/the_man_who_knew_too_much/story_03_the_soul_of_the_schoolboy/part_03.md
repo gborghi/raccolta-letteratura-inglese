@@ -1,5 +1,5 @@
 ---
-title: "The Man Who Knew Too Much — The [[Soul]] of the Schoolboy (part 3)"
+title: "The Man Who Knew Too Much — The Soul of the Schoolboy (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/the-man-who-knew-too-much-(chesterton)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_03_the_soul_of_the_schoolboy/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_03_the_soul_of_the_schoolboy/part_04">part 04 ›</a></div>
 </nav>
 
+
+strayed from the religious wars of the ninth century, caught sight
+
+of a short length of wire appearing in a broken patch in the wall.
+
+He precipitated himself at it, calling out, "I say, does that
+
+connect?"
+It was evident that it did connect, for no sooner had the boy given
 
 it a twitch than the whole room went black, as if they had all been
 
@@ -176,18 +185,3 @@ room. It had evidently been thrown in at the [[Window|window]], and on being
 unfolded displayed a scrawl of bad handwriting which ran: "Dear
 
 Uncle; I am all right. Meet you at the hotel later on," and then the
-
-signature.
-Insensibly comforted by this, the clergyman found his thoughts
-
-reverting voluntarily to his favorite relic, which came a good
-
-second in his sympathies to his favorite nephew, and before he knew
-
-where he was he found himself encircled by the group discussing its
-
-loss, and more or less carried away on the current of their
-
-excitement. But an undercurrent of query continued to run in his
-
-mind, as to what had really happened to the boy, and what was the

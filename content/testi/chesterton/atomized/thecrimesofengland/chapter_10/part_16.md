@@ -1,5 +1,5 @@
 ---
-title: "[[TheCrimesOfEngland]] — Chapter 10 (part 16)"
+title: "TheCrimesOfEngland — Chapter 10 (part 16)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thecrimesofengland-(chesterton)"
@@ -13,6 +13,82 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thecrimesofengland/chapter_10/part_15">‹ part 15</a><a class="ex-next" href="/testi/chesterton/atomized/thecrimesofengland/chapter_10/part_17">part 17 ›</a></div>
 </nav>
 
+
+because in the intervening epoch of the triumph of Scrooge and Gradgrind
+
+the link with our Christian past had been lost, save in the single
+
+matter of Christmas, which Dickens rescued romantically and by a
+
+hair's-breadth escape. Cobbett was a yeoman; that is, a man free and
+
+farming a small estate. By Dickens's [[Time|time]], yeomen seemed as antiquated
+
+as bowmen. Cobbett was mediaeval; that is, he was in almost every way
+
+the opposite of what that word means to-day. He was as egalitarian as
+
+St. Francis, and as independent as [[Robin Hood]]. Like that other yeoman in
+
+the ballad, he bore in hand a mighty bow; what some of his enemies would
+
+have called a long bow. But though he sometimes overshot the mark of
+
+[[Truth|truth]], he never shot away from it, like Froude. His account of that
+
+sixteenth century in which the mediaeval civilisation ended, is not more
+
+and not less picturesque than Froude's: the difference is in the dull
+
+detail of [[Truth|truth]]. That crisis was _not_ the foundling of a strong Tudor
+
+monarchy, for the monarchy almost immediately perished; it _was_ the
+
+founding of a strong class holding all the capital and land, for it
+
+holds them to this day. Cobbett would have asked nothing better than to
+
+bend his mediaeval bow to the cry of "St. George for Merry England," for
+
+though he pointed to the other and uglier side of the Waterloo medal,
+
+he was patriotic; and his premonitions were rather against Blucher than
+
+Wellington. But if we take that old war-cry as his final word (and he
+
+would have accepted it) we must note how every term in it points away
+
+from what the modern plutocrats call either progress or empire. It
+
+involves the invocation of saints, the most popular and the most
+
+forbidden form of mediævalism. The modern Imperialist no more thinks of
+
+St. George in England than he thinks of St. John in St. John's Wood. It
+
+is nationalist in the narrowest sense; and no one knows the [[Beauty|beauty]] and
+
+simplicity of the Middle Ages who has not seen St. George's [[Cross]]
+
+separate, as it was at Creçy or Flodden, and noticed how much finer a
+
+[[Flag|flag]] it is than the [[Union]] Jack. And the word "merry" bears witness to an
+
+England famous for its music and dancing before the coming of the
+
+Puritans, the last traces of which have been stamped out by a social
+
+discipline utterly un-English. Not for two years, but for ten decades
+
+Cobbett has been in [[Prison|prison]]; and his enemy, the "efficient" foreigner,
+
+has walked about in the sunlight, magnificent, and a model for men. I
+
+do not think that even the Prussians ever boasted about "Merry Prussia."
+
+VI--_Hamlet and the Danes_
+
+In the one classic and perfect literary product that ever came out of
 
 [[Germany]]--I do not mean "[[Faust]]," but Grimm's Fairy Tales--there is a
 
@@ -105,81 +181,3 @@ back. That is, I will admire, but I will not be magnetised, either by
 mysticism or militarism. I am all for German fantasy, but I will resist
 
 German earnestness till I die. I am all for Grimm's Fairy Tales; but if
-
-there is such a thing as Grimm's Law, I would break it, if I knew what
-
-it was. I like the Prussian's legs (in their beautiful boots) to fall
-
-down the chimney and walk about my room. But when he procures a head and
-
-begins to talk, I feel a little bored. The Germans cannot really be deep
-
-because they will not consent to be superficial. They are bewitched by
-
-art, and stare at it, and cannot see round it. They will not believe
-
-that art is a light and slight thing--a feather, even if it be from an
-
-angelic wing. Only the slime is at the [[Bottom|bottom]] of a pool; the sky is on
-
-the surface. We see this in that very typical process, the Germanising
-
-of Shakespeare. I do not complain of the Germans forgetting that
-
-Shakespeare was an Englishman. I complain of their forgetting that
-
-Shakespeare was a man; that he had moods, that he made mistakes, and,
-
-above all, that he knew his art was an art and not an attribute of
-
-deity. That is what is the matter with the Germans; they cannot "ring
-
-fancy's knell"; their knells have no gaiety. The phrase of [[Hamlet]] about
-
-"holding the [[Mirror|mirror]] up to [[Nature|nature]]" is always quoted by such earnest
-
-critics as meaning that art is nothing if not realistic. But it really
-
-means (or at least its author really thought) that art is nothing if not
-
-artificial. Realists, like other barbarians, really _believe_ the
-
-[[Mirror|mirror]]; and therefore break the [[Mirror|mirror]]. Also they leave out the phrase
-
-"as 'twere," which must be read into every remark of Shakespeare, and
-
-especially every remark of [[Hamlet]]. What I mean by believing the [[Mirror|mirror]],
-
-and breaking it, can be recorded in one case I remember; in which a
-
-realistic critic quoted German authorities to prove that [[Hamlet]] had a
-
-particular psycho-pathological abnormality, which is admittedly nowhere
-
-mentioned in the play. The critic was bewitched; he was thinking of
-
-[[Hamlet]] as a real man, with a background behind him three dimensions
-
-deep--which does not exist in a looking-glass. "The best in this kind
-
-are but shadows." No German commentator has ever made an adequate note
-
-on that. Nevertheless, Shakespeare was an Englishman; he was nowhere
-
-more English than in his blunders; but he was nowhere more successful
-
-than in the description of very English types of character. And if
-
-anything is to be said about [[Hamlet]], beyond what Shakespeare has said
-
-about him, I should say that [[Hamlet]] was an Englishman too. He was as
-
-much an Englishman as he was a gentleman, and he had the very [[Grave|grave]]
-
-weaknesses of both characters. The chief English fault, especially in
-
-the nineteenth century, has been lack of decision, not only lack of
-
-decision in action, but lack of the equally essential decision in
-
-thought--which some call dogma. And in the politics of the last century,

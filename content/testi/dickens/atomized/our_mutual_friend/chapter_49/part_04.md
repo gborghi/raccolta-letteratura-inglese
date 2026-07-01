@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 8 (part 4)"
+title: "Our Mutual Friend — Chapter 11 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,161 +14,52 @@ tags:
 </nav>
 
 
-So, keeping to byways, and shunning human approach, this troublesome
-old woman hid herself, and fared on all through the dreary day. Yet so
-unlike was she to vagrant hiders in general, that sometimes, as the day
-advanced, there was a bright [[Fire|fire]] in her eyes, and a quicker beating at
-her feeble heart, as though she said exultingly, ‘The Lord will see me
-through it!’
+Suddenly he stood still, and asked Riderhood point-blank if he knew
+where she was? Clearly, he did not know. He asked Riderhood if he would
+be willing, in case any intelligence of her, or of Wrayburn as seeking
+her or associating with her, should fall in his way, to communicate it
+if it were paid for? He would be very willing indeed. He was ‘agin ’em
+both,’ he said with an oath, and for why? ’Cause they had both stood
+betwixt him and his getting his living by the sweat of his brow.
 
-By what visionary hands she was led along upon that [[Journey|journey]] of escape
-from the Samaritan; by what voices, hushed in the [[Grave|grave]], she seemed
-to be addressed; how she fancied the dead [[Child|child]] in her arms again, and
-times innumerable adjusted her shawl to keep it warm; what infinite
-variety of forms of tower and roof and steeple the trees took; how many
-furious horsemen rode at her, crying, ‘There she goes! Stop! Stop,
-Betty Higden!’ and melted away as they came close; be these things left
-untold. Faring on and hiding, hiding and faring on, the poor harmless
-creature, as though she were a Murderess and the whole country were up
-after her, wore out the day, and gained the [[Night|night]].
+‘It will not be long then,’ said [[Bradley Headstone]], after some more
+discourse to this effect, ‘before we see one another again. Here is the
+country [[Road|road]], and here is the day. Both have come upon me by surprise.’
 
-‘[[Water]]-meadows, or such like,’ she had sometimes murmured, on the day’s
-pilgrimage, when she had raised her head and taken any note of the real
-objects about her. There now arose in the darkness, a great building,
-full of lighted windows. Smoke was issuing from a high chimney in
-the rear of it, and there was the sound of a [[Water|water]]-[[Wheel|wheel]] at the side.
-Between her and the building, lay a piece of [[Water|water]], in which the lighted
-windows were reflected, and on its nearest margin was a plantation of
-trees. ‘I humbly thank the Power and the Glory,’ said Betty Higden,
-holding up her withered hands, ‘that I have come to my [[Journey|journey]]’s end!’
+‘But, T’otherest Governor,’ urged Mr Riderhood, ‘I don’t know where to
+find you.’
 
-She crept among the trees to the trunk of a tree whence she could see,
-beyond some intervening trees and branches, the lighted windows, both in
-their reality and their reflection in the [[Water|water]]. She placed her orderly
-little basket at her side, and sank upon the ground, supporting herself
-against the tree. It brought to her mind the foot of the [[Cross]], and
-she committed herself to Him who died upon it. Her strength held out to
-enable her to arrange the letter in her breast, so as that it could
-be seen that she had a paper there. It had held out for this, and it
-departed when this was done.
+‘It is of no consequence. I know where to find you, and I’ll come to
+your Lock.’
 
-‘I am safe here,’ was her last benumbed thought. ‘When I am found dead
-at the foot of the [[Cross]], it will be by some of my own sort; some of
-the working people who work among the lights yonder. I cannot see the
-lighted windows now, but they are there. I am thankful for all!’
+‘But, T’otherest Governor,’ urged Mr Riderhood again, ‘no luck never
+come yet of a dry acquaintance. Let’s wet it, in a mouth-fill of rum and
+milk, T’otherest Governor.’
 
+Bradley assenting, went with him into an early public-[[house]], haunted by
+unsavoury smells of musty hay and stale straw, where returning carts,
+farmers’ men, gaunt [[dogs]], fowls of a beery breed, and certain human
+nightbirds fluttering [[Home|home]] to roost, were solacing themselves after
+their several manners; and where not one of the nightbirds hovering
+about the sloppy bar failed to discern at a glance in the passion-wasted
+nightbird with respectable feathers, the worst nightbird of all.
 
-The darkness gone, and a face bending down.
+An inspiration of affection for a half-drunken carter going his way led
+to Mr Riderhood’s being elevated on a high heap of baskets on a waggon,
+and pursuing his [[Journey|journey]] recumbent on his back with his head on his
+bundle. Bradley then turned to retrace his steps, and by-and-by struck
+off through little-traversed ways, and by-and-by reached school and
+[[Home|home]]. Up came the sun to find him washed and brushed, methodically
+dressed in decent black coat and waistcoat, decent formal black tie, and
+pepper-and-salt pantaloons, with his decent silver watch in its pocket,
+and its decent hair-guard round his neck: a scholastic huntsman clad for
+the field, with his fresh pack yelping and barking around him.
 
-‘It cannot be the boofer lady?’
-
-‘I don’t understand what you say. Let me wet your lips again with this
-brandy. I have been away to fetch it. Did you think that I was long
-gone?’
-
-It is as the face of a woman, shaded by a quantity of rich dark hair.
-It is the earnest face of a woman who is young and handsome. But all is
-over with me on earth, and this must be an Angel.
-
-‘Have I been long dead?’
-
-‘I don’t understand what you say. Let me wet your lips again. I hurried
-all I could, and brought no one back with me, lest you should die of the
-shock of strangers.’
-
-‘Am I not dead?’
-
-‘I cannot understand what you say. Your voice is so low and broken that
-I cannot hear you. Do you hear me?’
-
-‘Yes.’
-
-‘Do you mean Yes?’
-
-‘Yes.’
-
-‘I was coming from my work just now, along the path outside (I was up
-with the [[Night|night]]-hands last [[Night|night]]), and I heard a groan, and found you
-lying here.’
-
-‘What work, deary?’
-
-‘Did you ask what work? At the paper-mill.’
-
-‘Where is it?’
-
-‘Your face is turned up to the sky, and you can’t see it. It is close
-by. You can see my face, here, between you and the sky?’
-
-‘Yes.’
-
-‘Dare I lift you?’
-
-‘Not yet.’
-
-‘Not even lift your head to get it on my arm? I will do it by very
-gentle degrees. You shall hardly feel it.’
-
-‘Not yet. Paper. Letter.’
-
-‘This paper in your breast?’
-
-‘Bless ye!’
-
-‘Let me wet your lips again. Am I to open it? To read it?’
-
-‘Bless ye!’
-
-She reads it with surprise, and looks down with a new expression and an
-added interest on the motionless face she kneels beside.
-
-‘I know these names. I have heard them often.’
-
-‘Will you send it, my dear?’
-
-‘I cannot understand you. Let me wet your lips again, and your forehead.
-There. O poor thing, poor thing!’ These words through her fast-dropping
-[[Tears|tears]]. ‘What was it that you asked me? Wait till I bring my ear quite
-close.’
-
-‘Will you send it, my dear?’
-
-‘Will I send it to the writers? Is that your wish? Yes, certainly.’
-
-‘You’ll not give it up to any one but them?’
-
-‘No.’
-
-‘As you must grow old in [[Time|time]], and come to your dying hour, my dear,
-you’ll not give it up to any one but them?’
-
-‘No. Most solemnly.’
-
-‘Never to the Parish!’ with a convulsed struggle.
-
-‘No. Most solemnly.’
-
-‘Nor let the Parish touch me, not yet so much as look at me!’ with
-another struggle.
-
-‘No. Faithfully.’
-
-A look of thankfulness and triumph lights the worn old face.
-
-The eyes, which have been darkly fixed upon the sky, turn with meaning
-in them towards the compassionate face from which the [[Tears|tears]] are
-dropping, and a smile is on the aged lips as they ask:
-
-‘What is your name, my dear?’
-
-‘My name is [[Lizzie Hexam]].’
-
-‘I must be sore disfigured. Are you afraid to kiss me?’
-
-The answer is, the ready pressure of her lips upon the cold but smiling
-mouth.
-
-‘Bless ye! NOW lift me, my [[Love|love]].’
-
-[[Lizzie Hexam]] very softly raised the weather-stained grey head, and
-lifted her as high as Heaven.
+Yet more really bewitched than the miserable creatures of the
+much-lamented times, who accused themselves of impossibilities under a
+contagion of horror and the strongly suggestive influences of Torture,
+he had been ridden hard by Evil Spirits in the [[Night|night]] that was newly
+gone. He had been spurred and whipped and heavily sweated. If a record
+of the sport had usurped the places of the peaceful texts from Scripture
+on the wall, the most advanced of the scholars might have taken fright
+and run away from the master.

@@ -1,5 +1,5 @@
 ---
-title: "[[The Mystery of Marie Roget]] (part 13)"
+title: "The Mystery of Marie Roget (part 13)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-mystery-of-marie-roget-(poe)"
@@ -13,6 +13,76 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_mystery_of_marie_roget/part/part_12">‹ part 12</a><a class="ex-next" href="/testi/poe/atomized/the_mystery_of_marie_roget/part/part_14">part 14 ›</a></div>
 </nav>
 
+
+      are important questions utterly untouched by the evidence; and
+
+      there are others of equal moment, which have met with no
+
+      attention. We must endeavor to satisfy ourselves by personal
+
+      inquiry. The case of St. Eustache must be re-examined. I have no
+
+      suspicion of this person; but let us proceed methodically. We
+
+      will ascertain beyond a [[Doubt|doubt]] the validity of the affidavits in
+
+      regard to his whereabouts on the [[Sunday]]. Affidavits of this
+
+      character are readily made matter of [[Mystification|mystification]]. Should there
+
+      be nothing wrong here, however, we will dismiss St. Eustache from
+
+      our investigations. His [[suicide]], however corroborative of
+
+      suspicion, were there found to be deceit in the affidavits, is,
+
+      without such deceit, in no respect an unaccountable circumstance,
+
+      or one which need cause us to deflect from the line of ordinary
+
+      analysis.
+
+
+
+      “In that which I now propose, we will discard the interior points
+
+      of this [[Tragedy|tragedy]], and concentrate our attention upon its
+
+      outskirts. Not the least usual error, in investigations such as
+
+      this, is the limiting of inquiry to the immediate, with total
+
+      disregard of the collateral or circumstantial events. It is the
+
+      mal-practice of the courts to confine evidence and discussion to
+
+      the bounds of apparent relevancy. Yet experience has shown, and a
+
+      true [[philosophy]] will always show, that a vast, perhaps the larger
+
+      portion of [[Truth|truth]], arises from the seemingly irrelevant. It is
+
+      through the spirit of this principle, if not precisely through
+
+      its letter, that modern science has resolved to calculate upon
+
+      the unforeseen. But perhaps you do not comprehend me. The [[history]]
+
+      of human knowledge has so uninterruptedly shown that to
+
+      collateral, or incidental, or accidental events we are indebted
+
+      for the most numerous and most valuable discoveries, that it has
+
+      at length become necessary, in any prospective view of
+
+      improvement, to make not only large, but the largest allowances
+
+      for inventions that shall arise by chance, and quite out of the
+
+      range of ordinary expectation. It is no longer philosophical to
+
+      base, upon what has been, a vision of what is to be. Accident is
 
       admitted as a portion of the substructure. We make chance a
 
@@ -129,87 +199,3 @@ tags:
       it, was seized by the gang, carried out into the stream, gagged,
 
       brutally treated, and finally taken to the shore at a point not
-
-      far from that at which she had originally entered the boat with
-
-      her parents. The villains have escaped for the [[Time|time]], but the
-
-      police are upon their trail, and some of them will soon be
-
-      taken.”—Morning Paper—June 25. (*19)
-
-
-
-      “We have received one or two communications, the object of which
-
-      is to fasten the crime of the late atrocity upon Mennais; (*20)
-
-      but as this gentleman has been fully exonerated by a loyal
-
-      inquiry, and as the arguments of our several correspondents
-
-      appear to be more zealous than profound, we do not think it
-
-      advisable to make them public.”—Morning Paper—June 28. (*21)
-
-
-
-      “We have received several forcibly written communications,
-
-      apparently from various sources, and which go far to render it a
-
-      matter of certainty that the unfortunate Marie Rogêt has become a
-
-      victim of one of the numerous bands of blackguards which infest
-
-      the vicinity of the [[City|city]] upon [[Sunday]]. Our own opinion is
-
-      decidedly in favor of this supposition. We shall endeavor to make
-
-      room for some of these arguments hereafter.”—Evening
-
-      Paper—Tuesday, June 31. (*22)
-
-
-
-      “On Monday, one of the bargemen connected with the revenue
-
-      service, saw an empty boat floating down the Seine. Sails were
-
-      lying in the [[Bottom|bottom]] of the boat. The bargeman towed it under the
-
-      barge office. The next morning it was taken from thence, without
-
-      the knowledge of any of the officers. The rudder is now at the
-
-      barge office.”—Le Diligence—[[thursday|Thursday]], June 26.
-
-
-
-      Upon reading these various extracts, they not only seemed to me
-
-      irrelevant, but I could perceive no mode in which any one of them
-
-      could be brought to bear upon the matter in hand. I waited for
-
-      some explanation from Dupin.
-
-
-
-      “It is not my present design,” he said, “to dwell upon the first
-
-      and second of those extracts. I have copied them chiefly to show
-
-      you the extreme remissness of the police, who, as far as I can
-
-      understand from the Prefect, have not troubled themselves, in any
-
-      respect, with an examination of the naval officer alluded to. Yet
-
-      it is mere folly to say that between the first and second
-
-      disappearance of Marie there is no _supposable_ connection. Let
-
-      us admit the first elopement to have resulted in a quarrel
-
-      between the [[lovers]], and the return [[Home|home]] of the betrayed. We are

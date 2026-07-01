@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 9 (part 5)"
+title: "Shirley — Chapter 9 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -12,6 +12,40 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_09/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_09/part_06">part 06 ›</a></div>
 </nav>
+
+
+ashes, [[Robert Moore]], as you may [[Well|well]] believe when you see his
+
+punishment" (here she pointed to her children). "Who would burden
+
+themselves with such a set of great, rough lads as those, if they could
+
+help it? It is not only bringing them into the world, though that is bad
+
+enough, but they are all to feed, to clothe, to rear, to settle in life.
+
+Young sir, when you feel tempted to marry, think of our four sons and
+
+two daughters, and look twice before you leap."
+
+
+
+"I am not tempted now, at any rate. I think these are not times for
+
+marrying or giving in [[Marriage|marriage]]."
+
+
+
+A lugubrious sentiment of this sort was sure to obtain Mrs. Yorke's
+
+approbation. She nodded and groaned acquiescence; but in a minute she
+
+said, "I make little account of the wisdom of a Solomon of your age; it
+
+will be upset by the first fancy that crosses you. Meantime, sit down,
+
+sir. You can talk, I suppose, as [[Well|well]] sitting as standing?"
+
 
 
 This was her way of inviting her guest to take a chair. He had no sooner
@@ -213,65 +247,3 @@ sentimental," urged Mr. Moore.
 
 
 "Describe her to me. What was she like? Where did you see her?"
-
-
-
-"When Jessy and I went to spend the day at Whinbury with Kate and Susan
-
-Pearson, who were just come [[Home|home]] from school, there was a party at Mrs.
-
-Pearson's, and some grown-up ladies were sitting in a corner of the
-
-drawing-room talking about you."
-
-
-
-"Did you know none of them?"
-
-
-
-"Hannah, and Harriet, and Dora, and Mary Sykes."
-
-
-
-"Good. Were they abusing me, Rosy?"
-
-
-
-"Some of them were. They called you a misanthrope. I remember the word.
-
-I looked for it in the dictionary when I came [[Home|home]]. It means a
-
-man-hater."
-
-
-
-"What besides?"
-
-
-
-"Hannah Sykes said you were a solemn puppy."
-
-
-
-"Better!" cried Mr. Yorke, laughing. "Oh, excellent! Hannah! that's the
-
-one with the red hair--a fine girl, but half-witted."
-
-
-
-"She has wit enough for me, it appears," said Moore. "A solemn puppy,
-
-indeed! [[Well]], [[Rose]], go on."
-
-
-
-"Miss Pearson said she believed there was a good deal of affectation
-
-about you, and that with your dark hair and pale face you looked to her
-
-like some sort of a sentimental noodle."
-
-
-
-Again Mr. Yorke laughed. Mrs. Yorke even joined in this [[Time|time]]. "You see

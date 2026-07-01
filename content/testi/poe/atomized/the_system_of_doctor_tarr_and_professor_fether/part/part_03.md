@@ -1,5 +1,5 @@
 ---
-title: "[[The System of Doctor Tarr and Professor Fether]] (part 3)"
+title: "The System of Doctor Tarr and Professor Fether (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-system-of-doctor-tarr-and-professor-fether-(poe)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_system_of_doctor_tarr_and_professor_fether/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/the_system_of_doctor_tarr_and_professor_fether/part/part_04">part 04 ›</a></div>
 </nav>
 
+
+      ladies; and some of the latter were by no means accoutred in what
+
+      a Parisian would consider good taste at the present day. Many
 
       females, for example, whose age could not have been less than
 
@@ -197,9 +201,3 @@ tags:
       my word, you are nearly as great a [[donkey]] as the poor unfortunate
 
       imagined himself. Your acting is very natural, as I live.”
-
-
-
-      “Mille pardons! Ma’m’selle!” replied Monsieur De Kock, thus
-
-      addressed—“a thousand pardons! I had no intention of offending.

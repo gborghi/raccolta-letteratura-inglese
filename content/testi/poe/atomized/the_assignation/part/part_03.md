@@ -1,5 +1,5 @@
 ---
-title: "[[The Assignation]] (part 3)"
+title: "The Assignation (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-assignation-(poe)"

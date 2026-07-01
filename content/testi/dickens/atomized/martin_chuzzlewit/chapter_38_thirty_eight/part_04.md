@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 38: THIRTY EIGHT (part 4)"
+title: "Martin Chuzzlewit — Chapter 38: THIRTY EIGHT (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_38_thirty_eight/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_39_thirty_nine/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘I am unfortunate to find you in this [[Humour|humour]],’ said Tigg, with a
+remarkable kind of smile; ‘for I was going to propose to you--for your
+own advantage; solely for your own advantage--that you should venture a
+little more with us.’
 
 ‘Was you, by G--?’ said Jonas, with a short laugh.
 

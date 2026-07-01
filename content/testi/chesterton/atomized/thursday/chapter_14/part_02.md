@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 14 (part 2)"
+title: "thursday — Chapter 14 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -141,5 +141,3 @@ from behind, and it looks brutal.  That is not a tree, but the back
 of a tree.  That is not a cloud, but the back of a cloud.
 Cannot you see that everything is stooping and hiding a face?
 If we could only get round in front--"
-
-"Look!" cried out Bull clamorously, "the balloon is coming down!"

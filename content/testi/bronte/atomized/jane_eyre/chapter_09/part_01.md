@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 9 (part 1)"
+title: "Jane Eyre — Chapter 9 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -112,18 +112,3 @@ a regular dinner, which often happened, she would give us a large piece
 of cold pie, or a thick slice of bread and [[cheese]], and this we carried
 away with us to the wood, where we each chose the spot we liked best,
 and dined sumptuously.
-
-My favourite seat was a smooth and broad stone, rising white and dry
-from the very middle of the beck, and only to be got at by wading
-through the [[Water|water]]; a feat I accomplished barefoot. The stone was just
-broad enough to accommodate, comfortably, another girl and me, at that
-[[Time|time]] my chosen comrade—one Mary Ann Wilson; a shrewd, observant
-personage, whose society I took pleasure in, partly because she was
-witty and original, and partly because she had a manner which set me at
-my ease. Some years older than I, she knew more of the world, and could
-tell me many things I liked to hear: with her my curiosity found
-gratification: to my faults also she gave ample indulgence, never
-imposing curb or rein on anything I said. She had a turn for narrative,
-I for analysis; she liked to inform, I to question; so we got on
-swimmingly together, deriving much entertainment, if not much
-improvement, from our mutual intercourse.

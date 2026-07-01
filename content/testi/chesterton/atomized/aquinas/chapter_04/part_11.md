@@ -1,5 +1,5 @@
 ---
-title: "[[aquinas]] — Chapter 4 (part 11)"
+title: "aquinas — Chapter 4 (part 11)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/aquinas-(chesterton)"
@@ -31,7 +31,7 @@ It is less individual, but it is much more intense.  It is concerned
 with the common origin; but it is hardly an occasion for originality.
 Thus we are forced to think first of Thomas as the maker of
 the Thomist [[philosophy]]; as we think first of Christopher [[Columbus]]
-as the discoverer of [[America]], though he may have been quite sincere
+as the discoverer of [[america|America]], though he may have been quite sincere
 in his pious [[Hope|hope]] to [[convert]] the Khan of Tartary; or of James Watt
 as the discoverer of the steam-engine, though he may have been
 a devout [[Fire|fire]]-worshipper, or a sincere Scottish Calvinist,
@@ -72,7 +72,7 @@ practical prose writer; some would say a very prosaic prose writer.
 He maintained controversy with an eye on only two qualities;
 clarity and courtesy.  And he maintained these because they
 were entirely practical qualities; affecting the probabilities
-of [[Conversion|conversion]].  But the composer of the Corpus Christi service
+of [[conversion]].  But the composer of the Corpus Christi service
 was not merely what even the wild and woolly would call a poet;
 he was what the most fastidious would call an [[artist]].
 His [[Double|double]] function rather recalls the [[Double|double]] activity of some

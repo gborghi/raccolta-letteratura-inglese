@@ -1,5 +1,5 @@
 ---
-title: "The Haunted Man and the [[Ghost]]'s Bargain — Chapter 1 (part 7)"
+title: "The Haunted Man and the Ghost's Bargain — Chapter 1 (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-haunted-man-and-the-ghost's-bargain-(dickens)"
@@ -13,6 +13,39 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_01/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_01/part_08">part 08 ›</a></div>
 </nav>
 
+
+“Such glimpses of the light of [[Home|home]] as I had ever known, had streamed
+from her. How young she was, how fair, how loving! I took her to the
+first poor roof that I was master of, and made it rich. She came into
+the darkness of my life, and made it bright.—She is before me!”
+
+“I saw her, in the [[Fire|fire]], but now. I hear her in music, in the [[Wind|wind]], in
+the dead stillness of the [[Night|night]],” returned the haunted man.
+
+“_Did_ he [[Love|love]] her?” said the [[Phantom]], echoing his contemplative tone.
+“I think he did, once. I am sure he did. Better had she loved him
+less—less secretly, less dearly, from the shallower depths of a more
+divided heart!”
+
+“Let me forget it!” said the Chemist, with an angry motion of his hand.
+“Let me blot it from my [[Memory|memory]]!”
+
+The Spectre, without stirring, and with its unwinking, cruel eyes still
+fixed upon his face, went on:
+
+“[[A Dream|A dream]], like hers, stole upon my own life.”
+
+“It did,” said Redlaw.
+
+“A [[Love|love]], as like hers,” pursued the [[Phantom]], “as my inferior [[Nature|nature]] might
+cherish, arose in my own heart. I was too poor to bind its object to my
+fortune then, by any thread of promise or entreaty. I loved her far too
+[[Well|well]], to seek to do it. But, more than ever I had striven in my life, I
+strove to climb! Only an inch gained, brought me something nearer to the
+height. I toiled up! In the late pauses of my labour at that [[Time|time]],—my
+sister (sweet companion!) still sharing with me the expiring embers and
+the cooling hearth,—when day was breaking, what pictures of the future
+did I see!”
 
 “I saw them, in the [[Fire|fire]], but now,” he murmured. “They come back to me
 in music, in the [[Wind|wind]], in the dead stillness of the [[Night|night]], in the
@@ -34,7 +67,7 @@ confidence was locked as in my own), passing between me and the centre of
 the system of my hopes and struggles, won her to himself, and shattered
 my frail universe. My sister, doubly dear, doubly devoted, doubly
 cheerful in my [[Home|home]], lived on to see me famous, and my old [[Ambition|ambition]] so
-rewarded when its [[Spring|spring]] was broken, and then—”
+rewarded when its [[spring]] was broken, and then—”
 
 “Then died,” he interposed. “Died, gentle as ever; happy; and with no
 concern but for her brother. Peace!”
@@ -107,47 +140,3 @@ what I offer! Forget the sorrow, wrong, and trouble you have known!”
 “I have the power to cancel their remembrance—to leave but very faint,
 confused traces of them, that will die out soon,” returned the Spectre.
 “Say! Is it done?”
-
-“Stay!” cried the haunted man, arresting by a terrified gesture the
-uplifted hand. “I tremble with distrust and [[Doubt|doubt]] of you; and the dim
-[[Fear|fear]] you cast upon me deepens into a nameless horror I can hardly bear.—I
-would not deprive myself of any kindly recollection, or any sympathy that
-is good for me, or others. What shall I lose, if I assent to this? What
-else will pass from my remembrance?”
-
-“No knowledge; no result of study; nothing but the intertwisted chain of
-feelings and associations, each in its turn dependent on, and nourished
-by, the banished recollections. Those will go.”
-
-“Are they so many?” said the haunted man, reflecting in alarm.
-
-“They have been wont to show themselves in the [[Fire|fire]], in music, in the
-[[Wind|wind]], in the dead stillness of the [[Night|night]], in the revolving years,”
-returned the [[Phantom]] scornfully.
-
-“In nothing else?”
-
-The [[Phantom]] held its peace.
-
-But having stood before him, silent, for a little while, it moved towards
-the [[Fire|fire]]; then stopped.
-
-“Decide!” it said, “before the opportunity is lost!”
-
-“A moment! I call Heaven to witness,” said the agitated man, “that I
-have never been a hater of any kind,—never morose, indifferent, or hard,
-to anything around me. If, living here [[Alone|alone]], I have made too much of
-all that was and might have been, and too little of what is, the evil, I
-believe, has fallen on me, and not on others. But, if there were [[Poison|poison]]
-in my [[Body|body]], should I not, possessed of antidotes and knowledge how to use
-them, use them? If there be [[Poison|poison]] in my mind, and through this fearful
-[[Shadow|shadow]] I can cast it out, shall I not cast it out?”
-
-“Say,” said the Spectre, “is it done?”
-
-“A moment longer!” he answered hurriedly. “_I would forget it if I
-could_! Have _I_ thought that, [[Alone|alone]], or has it been the thought of
-thousands upon thousands, generation after generation? All human [[Memory|memory]]
-is fraught with sorrow and trouble. My [[Memory|memory]] is as the [[Memory|memory]] of other
-men, but other men have not this choice. Yes, I close the bargain. Yes!
-I WILL forget my sorrow, wrong, and trouble!”

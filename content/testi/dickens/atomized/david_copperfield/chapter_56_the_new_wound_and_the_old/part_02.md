@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 56: THE NEW WOUND, AND THE OLD (part 2)"
+title: "David Copperfield — Chapter 56: THE NEW WOUND, AND THE OLD (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_56_the_new_wound_and_the_old/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_57_the_emigrants/part_01">part 01 ›</a></div>
 </nav>
 
+
+The handsome lady--so like, oh so like!--regarded me with a fixed look,
+and put her hand to her forehead. I besought her to be calm, and prepare
+herself to bear what I had to tell; but I should rather have entreated
+her to weep, for she sat like a stone figure.
 
 ‘When I was last here,’ I faltered, ‘Miss Dartle told me he was sailing
 here and there. The [[Night|night]] before last was a dreadful one at sea. If he

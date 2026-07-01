@@ -92,7 +92,6 @@ so the most enduring pleasure is a full leisure.  We can defend ourselves,
 even on the Day of Judgment, if our work has been useless,
 with pleas of opportunity, competition and fulness of days.
 
-
 AESOP'S FABLES
 
 AESOP EMBODIES an epigram not uncommon in human history;

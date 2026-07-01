@@ -115,17 +115,3 @@ directly, but its better not to go too far. If I begin to cool at all I
 must begin at once, I see that. There’s the chance of an action for
 breach, that’s another. There’s the chance of--no, there’s no chance of
 that, but it’s as [[Well|well]] to be on the safe side.’
-
-This undeveloped was the possibility, which [[Richard]] Swiveller sought to
-conceal even from himself, of his not being proof against the charms of
-Miss Wackles, and in some unguarded moment, by linking his fortunes to
-hers forever, of putting it out of his own power to further their
-notable scheme to which he had so readily become a party. For all these
-reasons, he decided to pick a quarrel with Miss Wackles without delay,
-and casting about for a pretext determined in favour of groundless
-[[Jealousy|jealousy]].  Having made up his mind on this important point, he
-circulated the glass (from his right hand to left, and back again)
-pretty freely, to enable him to act his part with the greater
-discretion, and then, after making some slight improvements in his
-toilet, bent his steps towards the spot hallowed by the fair object of
-his meditations.

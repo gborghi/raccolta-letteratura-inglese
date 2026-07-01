@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 4 (part 1)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 4 (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -191,7 +191,3 @@ induced to venture on deck neither by threats nor promises, until a
 proposition was made to smoke them out. A general rush then ensued, and
 
 for a moment it seemed possible that the brig might be retaken. The
-
-mutineers, however, succeeded at last in closing the forecastle
-
-effectually before more than six of their opponents could get up. These

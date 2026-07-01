@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_13_the_battle_of_the_tunnel">‹ Chapter 13 THE BATTLE OF THE TUNNEL</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_15_the_songs_of_the_car_club">Chapter 15 THE SONGS OF THE CAR CLUB ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_13_the_battle_of_the_tunnel">‹ Chapter 13 THE BATTLE OF THE TUNNEL</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_15_the_songs_songs_of_the_car_clu">Chapter 15 THE songs SONGS OF THE CAR CLU ›</a></div>
 </nav>
 
 

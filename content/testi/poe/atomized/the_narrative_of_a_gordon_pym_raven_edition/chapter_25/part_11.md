@@ -14,6 +14,68 @@ tags:
 </nav>
 
 
+      its utter hopelessness than any. I had long ceased to struggle or
+
+      to move, and remained sitting rigidly upon the ottoman, a
+
+      helpless prey to a whirl of violent emotions, of which extreme
+
+      awe was perhaps the least terrible, the least consuming. The
+
+      corpse, I repeat, stirred, and now more vigorously than before.
+
+      The hues of life flushed up with unwonted energy into the
+
+      countenance—the limbs relaxed—and, save that the eyelids were yet
+
+      pressed heavily together, and that the bandages and draperies of
+
+      the [[Grave|grave]] still imparted their charnel character to the figure, I
+
+      might have dreamed that Rowena had indeed shaken off, utterly,
+
+      the fetters of [[Death]]. But if this idea was not, even then,
+
+      altogether adopted, I could at least [[Doubt|doubt]] no longer, when,
+
+      arising from the bed, tottering, with feeble steps, with closed
+
+      eyes, and with the manner of one bewildered in [[A Dream|a dream]], the thing
+
+      that was enshrouded advanced boldly and palpably into the middle
+
+      of the apartment.
+
+
+
+      I trembled not—I stirred not—for a crowd of unutterable fancies
+
+      connected with the air, the stature, the demeanor of the figure,
+
+      rushing hurriedly through my brain, had paralyzed—had chilled me
+
+      into stone. I stirred not—but gazed upon the apparition. There
+
+      was a mad disorder in my thoughts—a tumult unappeasable. Could
+
+      it, indeed, be the living Rowena who confronted me? Could it
+
+      indeed be Rowena at all—the fair-haired, the blue-eyed Lady
+
+      Rowena Trevanion of Tremaine? Why, why should I [[Doubt|doubt]] it? The
+
+      bandage lay heavily about the mouth—but then might it not be the
+
+      mouth of the breathing Lady of Tremaine? And the cheeks—there
+
+      were the roses as in her [[Noon|noon]] of life—yes, these might indeed be
+
+      the fair cheeks of the living Lady of Tremaine. And the chin,
+
+      with its dimples, as in health, might it not be hers?—but had she
+
+      then grown taller since her malady? What inexpressible [[Madness|madness]]
+
       seized me with that thought? One bound, and I had reached her
 
       feet! Shrinking from my touch, she let fall from her head,
@@ -149,73 +211,3 @@ MORELLA
       theological [[morality]] they will be readily conceived, and by the
 
       unlearned they would, at all events, be little understood. The
-
-      wild Pantheism of Fichte; the modified Paliggenedia of the
-
-      Pythagoreans; and, above all, the doctrines of [[Identity]] as urged
-
-      by Schelling, were generally the points of discussion presenting
-
-      the most of [[Beauty|beauty]] to the imaginative Morella. That [[Identity|identity]]
-
-      which is termed personal, Mr. Locke, I think, truly defines to
-
-      consist in the saneness of rational being. And since by person we
-
-      understand an intelligent essence having reason, and since there
-
-      is a consciousness which always accompanies thinking, it is this
-
-      which makes us all to be that which we call _ourselves_—thereby
-
-      distinguishing us from other beings that think, and giving us our
-
-      personal [[Identity|identity]]. But the _principium indivduationis_, the
-
-      notion of that [[Identity|identity]] _which at [[Death|death]] is or is not lost
-
-      forever_—was to me, at all times, a consideration of intense
-
-      interest; not more from the perplexing and exciting [[Nature|nature]] of its
-
-      consequences, than from the marked and agitated manner in which
-
-      Morella mentioned them.
-
-
-
-      But, indeed, the [[Time|time]] had now arrived when the mystery of my
-
-      wife’s manner oppressed me as a spell. I could no longer bear the
-
-      touch of her wan fingers, nor the low tone of her musical
-
-      language, nor the lustre of her [[Melancholy|melancholy]] eyes. And she knew all
-
-      this, but did not upbraid; she seemed conscious of my weakness or
-
-      my folly, and, smiling, called it Fate. She seemed, also,
-
-      conscious of a cause, to me unknown, for the gradual [[Alienation|alienation]]
-
-      of my regard; but she gave me no hint or token of its [[Nature|nature]]. Yet
-
-      was she woman, and pined away daily. In [[Time|time]] the crimson spot
-
-      settled steadily upon the cheek, and the blue veins upon the pale
-
-      forehead became prominent; and one instant my [[Nature|nature]] melted into
-
-      pity, but in, next I met the glance of her meaning eyes, and then
-
-      my [[Soul|soul]] sickened and became giddy with the giddiness of one who
-
-      gazes downward into some dreary and unfathomable abyss.
-
-
-
-      Shall I then say that I longed with an earnest and consuming
-
-      [[Desire|desire]] for the moment of Morella’s decease? I did; but the
-
-      fragile spirit clung to its tenement of clay for many days—for

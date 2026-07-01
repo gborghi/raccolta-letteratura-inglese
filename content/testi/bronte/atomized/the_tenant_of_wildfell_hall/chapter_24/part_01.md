@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 24 (part 1)"
+title: "The Tenant of Wildfell Hall — Chapter 24 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/works/the-tenant-of-wildfell-hall-(bronte)">The Tenant of Wildfell Hall</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_22/part_05">‹ part 05</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_24/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_22/part_06">‹ part 06</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_24/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -20,7 +20,7 @@ tags:
 
 
 
-March 25th.—[[arthur|Arthur]] is getting tired—not of me, I trust, but of the
+March 25th.—[[Arthur]] is getting tired—not of me, I trust, but of the
 
 idle, quiet life he leads—and no [[Wonder|wonder]], for he has so few sources of
 
@@ -88,7 +88,7 @@ and I do not and will not regret that I have linked my fate with his.
 
 April 4th.—We have had a downright quarrel. The particulars are as
 
-follows: [[arthur|Arthur]] had told me, at different intervals, the whole story of
+follows: [[Arthur]] had told me, at different intervals, the whole story of
 
 his intrigue with Lady F——, which I would not believe before. It was
 
@@ -108,7 +108,7 @@ of her name.
 
 
 
-“Not because you loved her, [[arthur|Arthur]], mind, but because she injured you
+“Not because you loved her, [[Arthur]], mind, but because she injured you
 
 and deceived her husband, and was altogether a very abominable woman,
 
@@ -144,7 +144,7 @@ much as I do you, so you needn’t [[Fear|fear]] to be forsaken like them.”
 
 
 
-“If you had told me these things before, [[arthur|Arthur]], I never should have
+“If you had told me these things before, [[Arthur]], I never should have
 
 given you the chance.”
 
@@ -239,13 +239,3 @@ observing that he was rather late.
 He uttered a low whistle and sauntered away to the [[Window|window]], where he
 
 stood for some minutes looking out upon the pleasing prospect of sullen
-
-grey clouds, streaming rain, soaking lawn, and dripping leafless trees,
-
-and muttering execrations on the weather, and then sat down to
-
-breakfast. While taking his coffee he muttered it was “d—d cold.”
-
-
-
-“You should not have left it so long,” said I.

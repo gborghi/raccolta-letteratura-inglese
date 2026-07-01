@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 8 (part 2)"
+title: "Dombey and Son — Chapter 36 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,134 +14,123 @@ tags:
 </nav>
 
 
-On one of these occasions, when they had both been perfectly quiet for
-a long [[Time|time]], and Mr Dombey only knew that the [[Child|child]] was awake by
-occasionally glancing at his eye, where the bright [[Fire|fire]] was sparkling
-like a [[Jewel|jewel]], little Paul broke [[Silence|silence]] thus:
+The arrivals quickly became numerous. More directors, chairmen of
+public companies, elderly ladies carrying burdens on their heads for
+full dress, Cousin Feenix, [[Major Bagstock]], friends of Mrs Skewton, with
+the same bright bloom on their complexion, and very precious necklaces
+on very withered necks. Among these, a young lady of sixty-five,
+remarkably coolly dressed as to her back and shoulders, who spoke with
+an engaging lisp, and whose eyelids wouldn’t keep up [[Well|well]], without a
+great deal of trouble on her part, and whose manners had that
+indefinable charm which so frequently attaches to the giddiness of
+youth. As the greater part of Mr Dombey’s list were disposed to be
+taciturn, and the greater part of Mrs Dombey’s list were disposed to be
+talkative, and there was no sympathy between them, Mrs Dombey’s list,
+by magnetic agreement, entered into a bond of [[Union|union]] against Mr Dombey’s
+list, who, wandering about the rooms in a desolate manner, or seeking
+refuge in corners, entangled themselves with company coming in, and
+became barricaded behind sofas, and had doors opened smartly from
+without against their heads, and underwent every sort of discomfiture.
 
-“Papa! what’s money?”
+When dinner was announced, Mr Dombey took down an old lady like a
+crimson velvet pincushion stuffed with bank notes, who might have been
+the identical old lady of Threadneedle Street, she was so rich, and
+looked so unaccommodating; Cousin Feenix took down Mrs Dombey; Major
+Bagstock took down Mrs Skewton; the young thing with the shoulders was
+bestowed, as an extinguisher, upon the East India Director; and the
+remaining ladies were left on view in the drawing-room by the remaining
+gentlemen, until a forlorn [[Hope|hope]] volunteered to conduct them downstairs,
+and those brave spirits with their captives blocked up the dining-room
+door, shutting out seven mild men in the stony-hearted hall. When all
+the rest were got in and were seated, one of these mild men still
+appeared, in smiling confusion, totally destitute and unprovided for,
+and, escorted by the butler, made the complete circuit of the table
+twice before his chair could be found, which it finally was, on Mrs
+Dombey’s left hand; after which the mild man never held up his head
+again.
 
-The abrupt question had such immediate reference to the subject of Mr
-Dombey’s thoughts, that Mr Dombey was quite disconcerted.
+Now, the spacious dining-room, with the company seated round the
+glittering table, busy with their glittering spoons, and knives and
+forks, and plates, might have been taken for a grown-up exposition of
+Tom Tiddler’s ground, where children pick up gold and silver. Mr
+Dombey, as Tiddler, looked his character to admiration; and the long
+plateau of precious metal frosted, separating him from Mrs Dombey,
+whereon frosted Cupids offered scentless [[Flowers|flowers]] to each of them, was
+allegorical to see.
 
-“What is money, Paul?” he answered. “Money?”
+Cousin Feenix was in great force, and looked astonishingly young. But
+he was sometimes thoughtless in his good [[Humour|humour]]—his [[Memory|memory]] occasionally
+wandering like his legs—and on this occasion caused the company to
+shudder. It happened thus. The young lady with the back, who regarded
+Cousin Feenix with sentiments of tenderness, had entrapped the East
+India Director into leading her to the chair next him; in return for
+which good office, she immediately abandoned the Director, who, being
+shaded on the other side by a gloomy black velvet hat surmounting a
+bony and speechless female with a fan, yielded to a depression of
+spirits and withdrew into himself. Cousin Feenix and the young lady
+were very lively and humorous, and the young lady laughed so much at
+something Cousin Feenix related to her, that [[Major Bagstock]] begged
+leave to inquire on behalf of Mrs Skewton (they were sitting opposite,
+a little lower down), whether that might not be considered public
+property.
 
-“Yes,” said the [[Child|child]], laying his hands upon the elbows of his little
-chair, and turning the old face up towards Mr Dombey’s; “what is
-money?”
+“Why, upon my life,” said Cousin Feenix, “there’s nothing in it; it
+really is not worth repeating: in point of fact, it’s merely an
+anecdote of Jack Adams. I dare say my friend Dombey;” for the general
+attention was concentrated on Cousin Feenix; “may remember Jack Adams,
+Jack Adams, not Joe; that was his brother. Jack—little Jack—man with a
+cast in his eye, and slight impediment in his speech—man who sat for
+somebody’s borough. We used to call him in my parliamentary [[Time|time]] W. P.
+Adams, in consequence of his being Warming Pan for a young fellow who
+was in his minority. Perhaps my friend Dombey may have known the man?”
 
-Mr Dombey was in a difficulty. He would have liked to give him some
-explanation involving the terms circulating-medium, currency,
-depreciation of currency, paper, bullion, rates of exchange, value of
-precious metals in the market, and so forth; but looking down at the
-little chair, and seeing what a long way down it was, he answered:
-“Gold, and silver, and copper. Guineas, shillings, half-pence. You know
-what they are?”
+Mr Dombey, who was as likely to have known Guy Fawkes, replied in the
+negative. But one of the seven mild men unexpectedly leaped into
+distinction, by saying he had known him, and adding—“always wore
+Hessian boots!”
 
-“Oh yes, I know what they are,” said Paul. “I don’t mean that, Papa. I
-mean what’s money after all?”
+“Exactly,” said Cousin Feenix, bending forward to see the mild man, and
+smile encouragement at him down the table. “That was Jack. Joe wore—”
 
-Heaven and Earth, how old his face was as he turned it up again towards
-his father’s!
+“Tops!” cried the mild man, rising in public estimation every Instant.
 
-“What is money after all!” said Mr Dombey, backing his chair a little,
-that he might the better gaze in sheer amazement at the presumptuous
-atom that propounded such an inquiry.
+“Of course,” said Cousin Feenix, “you were intimate with em?”
 
-“I mean, Papa, what can it do?” returned Paul, folding his arms (they
-were hardly long enough to fold), and looking at the [[Fire|fire]], and up at
-him, and at the [[Fire|fire]], and up at him again.
+“I knew them both,” said the mild man. With whom Mr Dombey immediately
+took wine.
 
-Mr Dombey drew his chair back to its former place, and patted him on
-the head. “You’ll know better by-and-by, my man,” he said. “Money,
-Paul, can do anything.” He took hold of the little hand, and beat it
-softly against one of his own, as he said so.
+“Devilish good fellow, Jack!” said Cousin Feenix, again bending
+forward, and smiling.
 
-But Paul got his hand free as soon as he could; and rubbing it gently
-to and fro on the elbow of his chair, as if his wit were in the palm,
-and he were sharpening it—and looking at the [[Fire|fire]] again, as though the
-[[Fire|fire]] had been his adviser and prompter—repeated, after a short pause:
+“Excellent,” returned the mild man, becoming bold on his [[success]]. “One
+of the best fellows I ever knew.”
 
-“Anything, Papa?”
+“No [[Doubt|doubt]] you have heard the story?” said Cousin Feenix.
 
-“Yes. Anything—almost,” said Mr Dombey.
+“I shall know,” replied the bold mild man, “when I have heard your
+Ludship tell it.” With that, he leaned back in his chair and smiled at
+the ceiling, as knowing it by heart, and being already tickled.
 
-“Anything means everything, don’t it, Papa?” asked his son: not
-observing, or possibly not understanding, the qualification.
+“In point of fact, it’s nothing of a story in itself,” said Cousin
+Feenix, addressing the table with a smile, and a gay shake of his head,
+“and not worth a word of preface. But it’s illustrative of the neatness
+of Jack’s [[Humour|humour]]. The fact is, that Jack was invited down to a
+[[Marriage|marriage]]—which I think took place in Berkshire?”
 
-“It includes it: yes,” said Mr Dombey.
+“Shropshire,” said the bold mild man, finding himself appealed to.
 
-“Why didn’t money save me my Mama?” returned the [[Child|child]]. “It isn’t
-cruel, is it?”
-
-“Cruel!” said Mr Dombey, settling his neckcloth, and seeming to resent
-the idea. “No. A good thing can’t be cruel.”
-
-“If it’s a good thing, and can do anything,” said the little fellow,
-thoughtfully, as he looked back at the [[Fire|fire]], “I [[Wonder|wonder]] why it didn’t
-save me my Mama.”
-
-He didn’t ask the question of his father this [[Time|time]]. Perhaps he had
-seen, with a [[Child|child]]’s quickness, that it had already made his father
-uncomfortable. But he repeated the thought aloud, as if it were quite
-an old one to him, and had troubled him very much; and sat with his
-chin resting on his hand, still cogitating and looking for an
-explanation in the [[Fire|fire]].
-
-Mr Dombey having recovered from his surprise, not to say his alarm (for
-it was the very first occasion on which the [[Child|child]] had ever broached the
-subject of his mother to him, though he had had him sitting by his
-side, in this same manner, evening after evening), expounded to him how
-that money, though a very potent spirit, never to be disparaged on any
-account whatever, could not keep people alive whose [[Time|time]] was come to
-die; and how that we must all die, unfortunately, even in the [[City]],
-though we were never so rich. But how that money caused us to be
-honoured, feared, respected, courted, and admired, and made us powerful
-and glorious in the eyes of all men; and how that it could, very often,
-even keep off [[Death|death]], for a long [[Time|time]] together. How, for example, it had
-secured to his Mama the services of Mr Pilkins, by which he, Paul, had
-often profited himself; likewise of the great Doctor Parker Peps, whom
-he had never known. And how it could do all, that could be done. This,
-with more to the same purpose, Mr Dombey instilled into the mind of his
-son, who listened attentively, and seemed to understand the greater
-part of what was said to him.
-
-“It can’t make me strong and quite [[Well|well]], either, Papa; can it?” asked
-Paul, after a short [[Silence|silence]]; rubbing his tiny hands.
-
-“Why, you are strong and quite [[Well|well]],” returned Mr Dombey. “Are you
-not?”
-
-Oh! the age of the face that was turned up again, with an expression,
-half of [[Melancholy|melancholy]], half of slyness, on it!
-
-“You are as strong and [[Well|well]] as such little people usually are? Eh?”
-said Mr Dombey.
-
-“Florence is older than I am, but I’m not as strong and [[Well|well]] as
-Florence, “I know,” returned the [[Child|child]]; “and I believe that when
-Florence was as little as me, she could play a great deal longer at a
-[[Time|time]] without tiring herself. I am so tired sometimes,” said little
-Paul, warming his hands, and looking in between the bars of the grate,
-as if some ghostly puppet-show were performing there, “and my bones
-ache so (Wickam says it’s my bones), that I don’t know what to do.”
-
-“Ay! But that’s at [[Night|night]],” said Mr Dombey, drawing his own chair closer
-to his son’s, and laying his hand gently on his back; “little people
-should be tired at [[Night|night]], for then they [[Sleep|sleep]] [[Well|well]].”
-
-“Oh, it’s not at [[Night|night]], Papa,” returned the [[Child|child]], “it’s in the day;
-and I lie down in Florence’s lap, and she sings to me. At [[Night|night]] I dream
-about such cu-ri-ous things!”
-
-And he went on, warming his hands again, and thinking about them, like
-an old man or a young goblin.
-
-Mr Dombey was so astonished, and so uncomfortable, and so perfectly at
-a loss how to pursue the conversation, that he could only sit looking
-at his son by the light of the [[Fire|fire]], with his hand resting on his back,
-as if it were detained there by some magnetic attraction. Once he
-advanced his other hand, and turned the contemplative face towards his
-own for a moment. But it sought the [[Fire|fire]] again as soon as he released
-it; and remained, addressed towards the flickering blaze, until the
-[[Nurse|nurse]] appeared, to summon him to bed.
+“Was it? [[Well]]! In point of fact it might have been in any shire,” said
+Cousin Feenix. “So my friend being invited down to this [[Marriage|marriage]] in
+Anyshire,” with a pleasant sense of the readiness of this joke, “goes.
+Just as some of us, having had the [[Honour|honour]] of being invited to the
+[[Marriage|marriage]] of my lovely and accomplished relative with my friend Dombey,
+didn’t require to be asked twice, and were devilish glad to be present
+on so interesting an occasion.—Goes—Jack goes. Now, this [[Marriage|marriage]] was,
+in point of fact, the [[Marriage|marriage]] of an uncommonly fine girl with a man
+for whom she didn’t care a button, but whom she accepted on account of
+his property, which was immense. When Jack returned to town, after the
+nuptials, a man he knew, meeting him in the lobby of the [[house|House]] of
+Commons, says, ‘[[Well]], Jack, how are the ill-matched couple?’
+‘Ill-matched,’ says Jack ‘Not at all. It’s a perfectly and equal
+transaction. She is regularly bought, and you may take your oath he is
+as regularly sold!’”

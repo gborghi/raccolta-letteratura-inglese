@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 15 (part 5)"
+title: "Shirley — Chapter 15 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,26 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_15/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_16/part_01">part 01 ›</a></div>
 </nav>
 
+
+Let us each and all cherish [[Humility|humility]]--I, as you, my young friends; and
+
+we may [[Well|well]] do it when we look into our own hearts, and see there
+
+temptations, inconsistencies, propensities, even we blush to recognize.
+
+And it is not youth, nor good looks, nor grace, nor any gentle outside
+
+charm which makes either [[Beauty|beauty]] or goodness in God's eyes.--Young
+
+ladies, when your [[Mirror|mirror]] or men's tongues flatter you, remember that, in
+
+the sight of her Maker, Mary Ann Ainley--a woman whom neither glass nor
+
+lips have ever panegyrized--is fairer and better than either of you. She
+
+is indeed," he added, after a pause--"she is indeed. You young things,
+
+wrapt up in yourselves and in earthly hopes, scarcely live as [[Christ]]
 
 lived. Perhaps you cannot do it yet, while existence is so sweet and
 

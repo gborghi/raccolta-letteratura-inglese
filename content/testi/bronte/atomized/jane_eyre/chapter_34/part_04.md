@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 34 (part 4)"
+title: "Jane Eyre — Chapter 34 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_34/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_34/part_05">part 05 ›</a></div>
 </nav>
 
+
+“Jane is not such a weakling as you would make her,” he would say: “she
+can bear a mountain blast, or a shower, or a few flakes of [[Snow|snow]], as
+[[Well|well]] as any of us. Her constitution is both sound and elastic;—better
+calculated to endure variations of climate than many more robust.”
+
+And when I returned, sometimes a good deal tired, and not a little
+weather-beaten, I never dared complain, because I saw that to murmur
+would be to vex him: on all occasions fortitude pleased him; the
+reverse was a special annoyance.
 
 One afternoon, however, I got leave to stay at [[Home|home]], because I really
 had a cold. His sisters were gone to Morton in my stead: I sat reading
@@ -121,9 +131,3 @@ on this step answering my end: I felt sure it would elicit an early
 answer. I was astonished when a fortnight passed without reply; but
 when two months wore away, and day after day the post arrived and
 brought nothing for me, I fell a prey to the keenest anxiety.
-
-I wrote again: there was a chance of my first letter having missed.
-Renewed [[Hope|hope]] followed renewed effort: it shone like the former for some
-weeks, then, like it, it faded, flickered: not a line, not a word
-reached me. When half a year wasted in vain expectancy, my [[Hope|hope]] died
-out, and then I felt dark indeed.

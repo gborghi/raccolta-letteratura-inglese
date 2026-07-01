@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 17 (part 5)"
+title: "Shirley — Chapter 17 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,36 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_17/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_17/part_06">part 06 ›</a></div>
 </nav>
 
+
+perceiving from afar her isolation, hastened to her side.
+
+
+
+"Let us go to the top of the fields," she said. "I know you don't like
+
+crowds, Caroline."
+
+
+
+"But it will be depriving you of a pleasure, [[Shirley]], to take you from
+
+all these fine people, who [[Court|court]] your society so assiduously, and to
+
+whom you can, without art or effort, make yourself so pleasant."
+
+
+
+"Not quite without effort; I am already tired of the exertion. It is but
+
+insipid, barren work, talking and laughing with the good gentlefolks of
+
+Briarfield. I have been looking out for your white dress for the last
+
+ten minutes. I like to watch those I [[Love|love]] in a crowd, and to compare
+
+them with others. I have thus compared you. You resemble none of the
+
+rest, Lina. There are some prettier faces than yours here. You are not a
 
 model [[Beauty|beauty]] like Harriet Sykes, for instance--beside her your person
 
@@ -255,37 +285,3 @@ glance Caroline perceived that his social hilarity was gone; he had left
 it behind him in the joy-echoing fields round the school. What remained
 
 now was his dark, quiet, business countenance. As [[Shirley]] had said, a
-
-certain hardness characterized his air, while his eye was excited, but
-
-austere. So much the worse timed was the present freak of [[Shirley]]'s. If
-
-he had looked disposed for holiday mirth, it would not have mattered
-
-much; but now----
-
-
-
-"I told you not to come," said Caroline, somewhat bitterly, to her
-
-friend. She seemed truly perturbed. To be intruded on Robert thus,
-
-against her will and his expectation, and when he evidently would rather
-
-not be delayed, keenly annoyed her. It did not annoy Miss Keeldar in the
-
-least. She stepped forward and faced her tenant, barring his way. "You
-
-omitted to bid us good-bye," she said.
-
-
-
-"Omitted to bid you good-bye! Where did you come from? Are you fairies?
-
-I left two like you, one in purple and one in white, standing at the top
-
-of a bank, four fields off, but a minute ago."
-
-
-
-"You left us there and find us here. We have been watching you, and

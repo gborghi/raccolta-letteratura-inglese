@@ -1,5 +1,5 @@
 ---
-title: "[[Pride and Prejudice]] — Chapter 43 (part 4)"
+title: "Pride and Prejudice — Chapter 43 (part 4)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/pride-and-prejudice-(austen)"
@@ -116,7 +116,3 @@ pronounced him to be infinitely superior to anything they had expected.
 aunt; “but it is confined to his air, and is not unbecoming. I can now
 say with the housekeeper, that though some people may call him proud,
 _I_ have seen nothing of it.”
-
-“I was never more surprised than by his behaviour to us. It was more
-than civil; it was really attentive; and there was no necessity for such
-attention. His acquaintance with Elizabeth was very trifling.”

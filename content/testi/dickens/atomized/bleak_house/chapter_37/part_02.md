@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 37 (part 2)"
+title: "Bleak House — Chapter 37 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_37/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_37/part_03">part 03 ›</a></div>
 </nav>
 
+
+“And I want you, [[Richard]],” said I, shaking my head, “to understand
+some one else.”
+
+“Since you refer so immediately to [[John Jarndyce]],” said [[Richard]], “—I
+suppose you mean him?”
+
+“Of course I do.”
 
 “Then I may say at once that I am glad of it, because it is on that
 subject that I am anxious to be understood. By you, mind—you, my
@@ -131,19 +139,3 @@ here, that he was postponing his best [[Truth|truth]] and earnestness in this
 as in all things until Jarndyce and Jarndyce should be off his mind.
 Ah me! What [[Richard]] would have been without that blight, I never
 shall know now!
-
-He told Ada, in his most ingenuous way, that he had not come to make
-any secret inroad on the terms she had accepted (rather too
-implicitly and confidingly, he thought) from Mr. Jarndyce, that he
-had come openly to see her and to see me and to justify himself for
-the present terms on which he stood with Mr. Jarndyce. As the dear
-old infant would be with us directly, he begged that I would make an
-appointment for the morning, when he might set himself right through
-the means of an unreserved conversation with me. I proposed to walk
-with him in the park at seven o’[[Clock|clock]], and this was arranged. Mr.
-Skimpole soon afterwards appeared and made us merry for an hour. He
-particularly requested to see little Coavinses (meaning Charley) and
-told her, with a patriarchal air, that he had given her late father
-all the business in his power and that if one of her little brothers
-would make haste to get set up in the same profession, he hoped he
-should still be able to put a good deal of employment in his way.

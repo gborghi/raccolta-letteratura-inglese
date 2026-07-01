@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 20 (part 1)"
+title: "Oliver Twist — Chapter 20 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -123,20 +123,8 @@ poor outcast boy who had never known the [[Love|love]] of friends or kindred, it
 might come to him now, when, desolate and deserted, he stood [[Alone|alone]] in
 the midst of wickedness and [[Guilt|guilt]].
 
-He had concluded his [[Prayer|prayer]], but still remained with his head buried in
+He had concluded his [[prayer]], but still remained with his head buried in
 his hands, when a rustling noise aroused him.
 
 “What’s that!” he cried, starting up, and catching sight of a figure
 standing by the door. “Who’s there?”
-
-“Me. Only me,” replied a tremulous voice.
-
-[[Oliver]] raised the candle above his head: and looked towards the door.
-It was [[Nancy]].
-
-“Put down the light,” said the girl, turning away her head. “It hurts
-my eyes.”
-
-[[Oliver]] saw that she was very pale, and gently inquired if she were ill.
-The girl threw herself into a chair, with her back towards him: and
-wrung her hands; but made no reply.

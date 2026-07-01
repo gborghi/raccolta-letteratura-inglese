@@ -1,5 +1,5 @@
 ---
-title: "[[wifrb11]] — The Man in the Passage (part 6)"
+title: "wifrb11 — The Man in the Passage (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -107,8 +107,5 @@ in a looking-glass, when two such distinguished men don't?"
      [[Father Brown]] blinked even more painfully than before;
 then he stammered:  "Really, my lord, I don't know unless it's because
 I don't look at it so often."
-
-
-
 
                                  FIVE

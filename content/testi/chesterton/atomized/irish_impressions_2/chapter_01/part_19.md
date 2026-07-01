@@ -14,110 +14,135 @@ tags:
 </nav>
 
 
-But if the Celtic pose be a piece of the Celtic ornament,
-the spirit that produced it does also produce some more serious
-tendencies to the segregation of Ireland, one might almost say
-the secretion of Ireland.
+It may seem fanciful to say of the Irish nationalists that they
+are sometimes too Irish to be national.  Yet this is really the case
+in those who would turn nationality from a sanctity to a secret.
+That is, they are turning it from something which every one else
+ought to respect, to something which no one else can understand.
+Nationalism is a nobler thing even than patriotism; for nationalism
+appeals to a law of nations; it implies that a nation is a
+normal thing, and therefore one of a number of normal things.
+It is impossible to have a nation without Christendom;
+as it is impossible to have a citizen without a [[City|city]].
+Now normally speaking this is better understood in Ireland than
+in England; but the Irish have an opposite exaggeration and error;
+and tend in some cases to the cult of real insularity.
+In this sense it is true to say that the error is indicated in
+the very name of Sinn Fein.  But I think it is even more encouraged,
+in a cloudier and therefore more perilous fashion, by much
+that is otherwise valuable in the cult of the Celts and the study
+of the old Irish language.  It is a great mistake for a man to defend
+himself as a Celt when he might defend himself as an Irishman.
+For the former defence will turn on some tricky question
+of temperament, while the latter will turn on the central pivot
+of morals.  Celticism, by itself, might lead to all the racial
+extravagances which have lately led more barbaric races a [[Dance|dance]].
+Celts also might come to claim, not that their nation is a normal thing,
+but that their race is a unique thing.  Celts also might end by
+arguing not for an equality founded on the respect for boundaries,
+but for an aristocracy founded on the ramification of [[Blood|blood]].
+Celts also might come to pitting the prehistoric against the historic,
+the heathen against the Christian, and in that sense the barbaric against
+the civilised.  In that sense I confess I do not care about Celts;
+they are too like Teutons.
 
-In this sense, it is true that there is too much separatism in Ireland.
-I do not speak of separation from England; which, as I have said,
-happened long ago in the only serious sense, and is a condition
-to be assumed, not a conclusion to be avoided.  Nor do I mean
-separation from a federation of free states unfortunately known
-as the British Empire; for that is a conclusion that could still
-be avoided with a little common sense and common honesty in our
-own politics.  I mean separation from Europe, from the common
-Christian civilisation by whose law the nations live.  I would
-be understood as speaking here of exceptions rather than the rule;
-for the rule is rather the other way.  The Catholic religion,
-the most fundamental fact in Ireland, is itself a permanent
-communication with the Continent.  So, as I have said, is the free
-peasantry which is so often the economic expression of the same [[Faith|faith]].
-Mr. James Stephens, himself a spiritually detached man of genius,
-told me with great [[Humour|humour]] a story which is also at least a symbol.
-A Catholic priest, after a convivial conversation and plenty of
-good wine, said to him confidentially:  "You ought to be a Catholic.
-You can be saved without being a Catholic; but you can't be Irish
-without being a Catholic."
+Now of course every one knows that there is practically no such danger
+of Celtic Imperialism.  Mr. Lloyd George will not attempt to annex
+Brittany as a natural part of Britain.  No Tories, however antiquated,
+will extend their empire in the name of the Buff and Blue of the
+Ancient Britons.  Nor is there the least likelihood that the Irish
+will overrun Scotland on the plea of an Irish origin for the old
+name of the Scots; or that they will set up an Irish capital at
+Stratford-on-Avon merely because _avon_ is the Celtic word for [[Water|water]].
+That is the sort of thing that Teutonic ethnologists do; but Celts
+are not quite so stupid as that, even when they are ethnologists.
+It may be suggested that this is because even prehistoric Celts seem
+to have been rather more civilised than historic Teutons.  And indeed
+I have seen ornaments and utensils in the admirable Dublin museum,
+suggestive of a society of immense antiquity, and much more advanced
+in the arts of life than the Prussians were, only a few centuries ago.
+For instance, there was actually what appeared to be a safety razor.
+I [[Doubt|doubt]] if the godlike Goths had much use for a razor; or if they had,
+if it was altogether safe.  Nor am I so dull as not to be stirred
+to an imaginative sympathy with the instinct of modern Irish poetry
+to praise this primordial and mysterious order, even as a sort
+of pagan paradise; and that not as regarding a legend as a sort
+of lie, but a tradition as a sort of [[Truth|truth]].  It is but another hint
+of a suggestion, huge, yet hidden; that civilisation is older
+than barbarism; and that the further we go back into pagan origins,
+the nearer we come to the great Christian origin of the Fall.
+But whatever credit or sympathy be due to the cult of Celtic origins
+in its proper place, it is none of these things that really prevents
+Celticism from being a barbarous imperialism like Teutonism.
+The thing that prevents imperialism is nationalism.
+It was exactly because [[Germany]] was not a nation that it desired
+more and more to be an empire.  For a patriot is a sort of [[Lover|lover]],
+and a [[Lover|lover]] is a sort of [[Artist|artist]]; and the [[Artist|artist]] will always [[Love|love]] a shape
+too much to wish it to grow shapeless, even in order to grow large.
+A group of Teutonic tribes will not care how many other tribes
+they destroy or absorb; and Celtic tribes when they were heathen
+may have acted, for all I know, in the same way.  But the civilised
+Irish nation, a part and product of Christendom, has certainly no [[Desire|desire]]
+to be entangled with other tribes or to have its outlines blurred
+with great blots like Liverpool and Glasgow, as [[Well|well]] as Belfast.
+In that sense it is far too [[Self|self]]-conscious to be selfish.
+Its individuality may, as I shall suggest, make it too insular;
+it will not make it too imperial.  This is a merit in nationalism too
+little noted; that even what is called its narrowness is not merely
+a barrier to invasion, but a barrier to expansion.  Therefore, with all
+respect to the prehistoric Celts, I feel more at [[Home|home]] with the good
+if sometimes mad Christian gentleman of the Young Ireland movement,
+or even the Easter Rebellion.  I should feel more safe with Meagher
+of the [[Sword]] than with the primitive Celt of the safety razor.
+The microscopic meanness of the Mid-Victorian English writers,
+when they wrote about Irish patriots, could see nothing but a very small
+joke in modern rebels thinking themselves worthy to take the titles
+of antique kings; but the only [[Doubt|doubt]] I should have, if I had any,
+is whether the heathen kings were worthy of the Christian rebels.
+I am much more sure of the [[Heroism|heroism]] of the modern Fenians than
+of the ancient ones.
 
-Nevertheless, the exceptions are large enough to be dangers;
-and twice lately, I think, they have brought Ireland into danger.
-This is the age of minorities; of groups that rule rather than represent.
-And the two largest parties in Ireland, though more representative
-than most parties in England, were too much affected, I fancy,
-by the modern fashion, expressed in the world of fads by being
-Celtic rather than Catholic.  They were just a little too
-insular to accept the old unconscious wave of Christendom;
-the Crusade.  But the case was more extraordinary than that.
-They were even too insular to appreciate, not so much their own
-international needs, as their own international importance.
-It may seem a strange [[Paradox|paradox]] to say that both nationalist parties
-underrated Ireland as a nation.  It may seem a more startling [[Paradox|paradox]]
-to say that in this the most nationalist was the least national.
-Yet I think I can explain, however roughly, what I mean by saying
-that this is so.
-
-It is primarily Sinn Fein, or the extreme national party,
-which thus relatively failed to realise that Ireland is a nation.
-At least it failed in nationalism exactly so far as it failed to
-intervene in the war of the nations against Prussian imperialism.
-For its argument involved, unconsciously, the proposition that
-Ireland is not a nation; that Ireland is a tribe or a settlement,
-or a chance sprinkling of aborigines.  If the Irish were savages
-oppressed by the British Empire, they might [[Well|well]] be indifferent
-to the fate of the British Empire; but as they were civilised men,
-they could not be indifferent to the fate of civilisation.
-The Kaffirs might conceivably be better off if the whole
-system of white colonisation, Boer and British, broke down and
-disappeared altogether.  The Irish might sympathise with the Kaffirs;
-but they would not like to be classed with the Kaffirs.
-Hottentots might have a sort of Hottentot happiness if the last European
-[[City|city]] had fallen in ruins, or the last European had died in torments.
-But the Irish would never be Hottentots, even if they were
-Pro-Hottentots. In other words, if the Irish were what Cromwell
-thought they were, they might [[Well|well]] confine their attention
-to Hell and Connaught; and have no sympathy to spare for France.
-But if the Irish are what Wolfe Tone thought they were,
-they must be interested in France, as he was interested in France.
-In short, if the Irish are barbarians, they need not trouble
-about other barbarians sacking the cities of the world; but if they
-are citizens, they must trouble about the cities that are sacked.
-This is the deep and real reason why their [[Alienation|alienation]] from
-the Allied cause was a disaster for their own national cause.
-It was not because it gave fools a chance of complaining that
-they were Anti-English. It was because it gave much cleverer
-people the chance of complaining that they were Anti-European.
-I entirely agree that the [[Alienation|alienation]] was chiefly the fault of
-the English [[government|Government]]; I even agree that it required an abnormal
-imaginative magnanimity for an Irishman to do his duty to Ireland,
-in spite of being so insolently told to do it.  But it is none
-the less true that Ireland to-day would be ten thousand miles
-nearer her deliverance if the Irishman could have made that effort;
-if he had realised that the thing ought to be done, not because such
-rulers wanted it, but rather although they wanted it.
-
-But the much more curious fact is this.  There were any number
-of Irishmen, and those among the most Irish, who did realise this;
-who realised it with so [[Sublime|sublime]] a sincerity as to fight for their own
-enemies against the world's enemies; and consent at once to be insulted
-by the English and killed by the Germans.  The Redmonds and the old
-Nationalist party, if they have indeed failed, have the right to be
-reckoned among the most heroic of all the heroic failures of Ireland.
-If theirs is a lost cause, it is wholly worthy of a land where lost
-causes are never lost.  But the old guard of Redmond did also in
-its [[Time|time]], I fancy, fall into the same particular and curious error;
-but in a more subtle way and on a seemingly remote subject.
-They also, whose motives like those of the Sinn Feiners were
-entirely noble, did in one sense fail to be national, in the sense
-of appreciating the international importance of a nation.
-In their case it was a matter of English and not European politics;
-and as their case was much more complicated, I speak with much less
-confidence about it.  But I think there was a highly determining
-[[Time|time]] in politics when certain Irishmen got on to the wrong side
-in English politics, as other Irishmen afterwards got on to the wrong
-side in European politics.  And by the wrong side, in both cases,
-I not only mean the side that was not consistent with the [[Truth|truth]],
-but the side that was not really congenial to the Irish.
-A man may act against the [[Body|body]], even the main [[Body|body]], of his nation;
-but if he acts against the [[Soul|soul]] of his nation, even to save it,
-he and his nation suffer.
+Of the artistic side of the cult of the Celts I do not especially
+speak here.  And indeed its importance, especially to the Irish,
+may easily be exaggerated.  Mr. W. B. Yeats long ago dissociated
+himself from a merely racial theory of Irish poetry;
+and Mr. W. B. Yeats thinks as hard as he talks.  I often entirely
+disagree with him; but I disagree far more with the people who find
+him a poetical opiate, where I always find him a logical stimulant.
+For the rest, Celticism in some aspects is largely a conspiracy
+for leading the Englishman a [[Dance|dance]], if it be a fairy [[Dance|dance]].
+I suspect that many names and announcements are printed in Gaelic,
+not because Irishmen can read them, but because Englishmen can't.
+The other great modern mystic in Dublin, "A. E.," entertained us
+first by telling an English lady present that she would never resist
+the Celtic atmosphere, struggle how she might, but would soon
+be wandering in the mountain mists with a fillet round her head;
+which fate had apparently overtaken the son or nephew of an Anglican
+bishop who had strayed into those parts.  The English lady,
+whom I happen to know rather [[Well|well]], made the characteristic
+announcement that she would go to [[Paris]] when she felt it coming on.
+But it seemed to me that such drastic action was hardly necessary,
+and that there was comparatively little cause for alarm;
+seeing that the mountain mists certainly had not had that
+effect on the people who happen to live in the [[Mountains|mountains]].
+I knew that A. E. knew, even better than I did, that Irish peasants
+do not wander about in fillets, or indeed wander about at all,
+having plenty of much better work to do.  And since the Celtic
+atmosphere had no perceptible effect on the Celts, I felt no alarm
+about its effect on the Saxons.  But the only thing involved,
+by way of an effect on the Saxons, was a practical joke on
+the Saxons; which may, however, have lasted longer in the case
+of the bishop's nephew than it did in mine.  Anyhow, I continued
+to move about (like Atalanta in Calydon) with unchapleted hair,
+with unfilleted cheek; and found a sufficient number of Irish
+people in the same condition to prevent me from feeling shy.
+In a word, all that sort of thing is simply Mr. Russell's [[Humour|humour]],
+especially his good [[Humour|humour]], which is of a golden and godlike sort.
+And a man would be very much misled by the practical joke if he does
+not realise that the joker is a practical man.  On the desk in front
+of him as he spoke were business papers of reports and statistics,
+much more concerned with fillets of veal than fillets of vision.
+That is the essential fact about all this side of such men in Ireland.
+We may think the Celtic [[Ghost|ghost]] a turnip [[Ghost|ghost]]; but we can only
+[[Doubt|doubt]] the reality of the [[Ghost|ghost]]; there is no [[Doubt|doubt]] of the reality
+of the turnip.

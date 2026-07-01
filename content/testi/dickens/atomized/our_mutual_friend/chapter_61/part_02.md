@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 2 (part 2)"
+title: "Our Mutual Friend — Chapter 6 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,133 +14,146 @@ tags:
 </nav>
 
 
-A very remarkable wavering between two bearings—between her
-propitiatory bearing there, and her defiant bearing at Mr Twemlow’s—was
-observable on the part of Mrs Lammle as she said:
+She submitted to walk slowly on, with downcast eyes. He put her hand to
+his lips, and she quietly drew it away.
 
-‘What does the [[Court]] not consider fair?’
+‘Will you walk beside me, Mr Wrayburn, and not touch me?’ For, his arm
+was already stealing round her waist.
 
-‘Letting you go on,’ replied Mr Boffin, nodding his head soothingly, as
-who should say, We won’t be harder on you than we can help; we’ll make
-the best of it. ‘It’s not above-board and it’s not fair. When the old
-lady is uncomfortable, there’s sure to be good reason for it. I see she
-is uncomfortable, and I plainly see this is the good reason wherefore.
-HAVE you breakfasted, ma’am.’
+She stopped again, and gave him an earnest supplicating look. ‘[[Well]],
+Lizzie, [[Well|well]]!’ said he, in an easy way though ill at ease with himself
+‘don’t be unhappy, don’t be reproachful.’
 
-Mrs Lammle, settling into her defiant manner, pushed her plate away,
-looked at her husband, and laughed; but by no means gaily.
+‘I cannot help being unhappy, but I do not mean to be reproachful. Mr
+Wrayburn, I implore you to go away from this neighbourhood, to-morrow
+morning.’
 
-‘Have YOU breakfasted, sir?’ inquired Mr Boffin.
+‘Lizzie, Lizzie, Lizzie!’ he remonstrated. ‘As [[Well|well]] be reproachful as
+wholly unreasonable. I can’t go away.’
 
-‘Thank you,’ replied Alfred, showing all his teeth. ‘If Mrs Boffin will
-oblige me, I’ll take another cup of tea.’
+‘Why not?’
 
-He spilled a little of it over the chest which ought to have been so
-effective, and which had done so little; but on the whole drank it with
-something of an air, though the coming and going dints got almost as
-large, the while, as if they had been made by pressure of the teaspoon.
-‘A thousand thanks,’ he then observed. ‘I have breakfasted.’
+‘[[Faith]]!’ said Eugene in his airily candid manner. ‘Because you won’t let
+me. Mind! I don’t mean to be reproachful either. I don’t complain that
+you design to keep me here. But you do it, you do it.’
 
-‘Now, which,’ said Mr Boffin softly, taking out a pocket-book, ‘which of
-you two is Cashier?’
+‘Will you walk beside me, and not touch me;’ for, his arm was coming
+about her again; ‘while I speak to you very seriously, Mr Wrayburn?’
 
-‘Sophronia, my dear,’ remarked her husband, as he leaned back in his
-chair, waving his right hand towards her, while he hung his left hand
-by the thumb in the arm-hole of his waistcoat: ‘it shall be your
-department.’
+‘I will do anything within the limits of possibility, for you, Lizzie,’
+he answered with pleasant gaiety as he folded his arms. ‘See here!
+Napoleon Buonaparte at St [[Helena]].’
 
-‘I would rather,’ said Mr Boffin, ‘that it was your husband’s, ma’am,
-because—but never mind, because, I would rather have to do with him.
-However, what I have to say, I will say with as little offence as
-possible; if I can say it without any, I shall be heartily glad. You two
-have done me a service, a very great service, in doing what you did (my
-old lady knows what it was), and I have put into this envelope a bank
-note for a hundred pound. I consider the service [[Well|well]] worth a hundred
-pound, and I am [[Well|well]] pleased to pay the money. Would you do me the
-favour to take it, and likewise to accept my thanks?’
+‘When you spoke to me as I came from the Mill the [[Night|night]] before last,’
+said Lizzie, fixing her eyes upon him with the look of supplication
+which troubled his better [[Nature|nature]], ‘you told me that you were much
+surprised to see me, and that you were on a solitary fishing excursion.
+Was it true?’
 
-With a haughty action, and without looking towards him, Mrs Lammle held
-out her left hand, and into it Mr Boffin put the little packet. When she
-had conveyed it to her bosom, Mr Lammle had the appearance of feeling
-relieved, and breathing more freely, as not having been quite certain
-that the hundred pounds were his, until the note had been safely
-transferred out of Mr Boffin’s keeping into his own Sophronia’s.
+‘It was not,’ replied Eugene composedly, ‘in the least true. I came
+here, because I had information that I should find you here.’
 
-‘It is not impossible,’ said Mr Boffin, addressing Alfred, ‘that you
-have had some general idea, sir, of replacing Rokesmith, in course of
-[[Time|time]]?’
+‘Can you imagine why I left [[London]], Mr Wrayburn?’
 
-‘It is not,’ assented Alfred, with a glittering smile and a great deal
-of nose, ‘not impossible.’
+‘I am afraid, Lizzie,’ he openly answered, ‘that you left [[London]] to get
+rid of me. It is not flattering to my [[Self|self]]-[[Love|love]], but I am afraid you
+did.’
 
-‘And perhaps, ma’am,’ pursued Mr Boffin, addressing Sophronia, ‘you have
-been so kind as to take up my old lady in your own mind, and to do her
-the [[Honour|honour]] of turning the question over whether you mightn’t one of
-these days have her in charge, like? Whether you mightn’t be a sort of
-Miss [[Bella Wilfer]] to her, and something more?’
+‘I did.’
 
-‘I should [[Hope|hope]],’ returned Mrs Lammle, with a scornful look and in a loud
-voice, ‘that if I were anything to your wife, sir, I could hardly fail
-to be something more than Miss [[Bella Wilfer]], as you call her.’
+‘How could you be so cruel?’
 
-‘What do YOU call her, ma’am?’ asked Mr Boffin.
+‘O Mr Wrayburn,’ she answered, suddenly breaking into [[Tears|tears]], ‘is the
+cruelty on my side! O Mr Wrayburn, Mr Wrayburn, is there no cruelty in
+your being here to-[[Night|night]]!’
 
-Mrs Lammle disdained to reply, and sat defiantly beating one foot on the
-ground.
+‘In the name of all that’s good—and that is not conjuring you in my
+own name, for Heaven knows I am not good’—said Eugene, ‘don’t be
+distressed!’
 
-‘Again I think I may say, that’s not impossible. Is it, sir?’ asked Mr
-Boffin, turning to Alfred.
+‘What else can I be, when I know the distance and the difference between
+us? What else can I be, when to tell me why you came here, is to put me
+to shame!’ said Lizzie, covering her face.
 
-‘It is not,’ said Alfred, smiling assent as before, ‘not impossible.’
+He looked at her with a real sentiment of remorseful tenderness and
+pity. It was not strong enough to impell him to sacrifice himself and
+spare her, but it was a strong emotion.
 
-‘Now,’ said Mr Boffin, gently, ‘it won’t do. I don’t wish to say a
-single word that might be afterwards remembered as unpleasant; but it
-won’t do.’
-
-‘Sophronia, my [[Love|love]],’ her husband repeated in a bantering manner, ‘you
-hear? It won’t do.’
-
-‘No,’ said Mr Boffin, with his voice still dropped, ‘it really won’t.
-You positively must excuse us. If you’ll go your way, we’ll go ours, and
-so I [[Hope|hope]] this affair ends to the satisfaction of all parties.’
-
-Mrs Lammle gave him the look of a decidedly dissatisfied party demanding
-exemption from the category; but said nothing.
-
-‘The best thing we can make of the affair,’ said Mr Boffin, ‘is a matter
-of business, and as a matter of business it’s brought to a conclusion.
-You have done me a great service, a very great service, and I have paid
-for it. Is there any objection to the price?’
-
-Mr and Mrs Lammle looked at one another across the table, but neither
-could say that there was. Mr Lammle shrugged his shoulders, and Mrs
-Lammle sat rigid.
-
-‘Very good,’ said Mr Boffin. ‘We [[Hope|hope]] (my old lady and me) that you’ll
-give us credit for taking the plainest and honestest short-cut that
-could be taken under the circumstances. We have talked it over with a
-deal of care (my old lady and me), and we have felt that at all to lead
-you on, or even at all to let you go on of your own selves, wouldn’t be
-the right thing. So, I have openly given you to understand that—’
-Mr Boffin sought for a new turn of speech, but could find none so
-expressive as his former one, repeated in a confidential tone, ‘—that
-it won’t do. If I could have put the case more pleasantly I would; but
-I [[Hope|hope]] I haven’t put it very unpleasantly; at all events I haven’t meant
-to. So,’ said Mr Boffin, by way of peroration, ‘wishing you [[Well|well]] in the
-way you go, we now conclude with the observation that perhaps you’ll go
+‘Lizzie! I never thought before, that there was a woman in the world who
+could affect me so much by saying so little. But don’t be hard in your
+construction of me. You don’t know what my state of mind towards you is.
+You don’t know how you haunt me and bewilder me. You don’t know how the
+cursed carelessness that is over-officious in helping me at every other
+turning of my life, WON’T help me here. You have struck it dead, I
+think, and I sometimes almost wish you had struck me dead along with
 it.’
 
-Mr Lammle [[Rose|rose]] with an impudent laugh on his side of the table, and Mrs
-Lammle [[Rose|rose]] with a disdainful frown on hers. At this moment a hasty foot
-was heard on the staircase, and Georgiana Podsnap broke into the room,
-unannounced and in [[Tears|tears]].
+She had not been prepared for such passionate expressions, and they
+awakened some natural sparks of feminine [[Pride|pride]] and joy in her breast. To
+consider, wrong as he was, that he could care so much for her, and that
+she had the power to move him so!
 
-‘Oh, my dear Sophronia,’ cried Georgiana, wringing her hands as she ran
-up to embrace her, ‘to think that you and Alfred should be ruined! Oh,
-my poor dear Sophronia, to think that you should have had a Sale at your
-[[house]] after all your kindness to me! Oh, Mr and Mrs Boffin, pray forgive
-me for this intrusion, but you don’t know how fond I was of Sophronia
-when Pa wouldn’t let me go there any more, or what I have felt for
-Sophronia since I heard from Ma of her having been brought low in the
-world. You don’t, you can’t, you never can, think, how I have lain awake
-at [[Night|night]] and cried for my good Sophronia, my first and only friend!’
+‘It grieves you to see me distressed, Mr Wrayburn; it grieves me to see
+you distressed. I don’t reproach you. Indeed I don’t reproach you.
+You have not felt this as I feel it, being so different from me, and
+beginning from another point of view. You have not thought. But I
+entreat you to think now, think now!’
+
+‘What am I to think of?’ asked Eugene, bitterly.
+
+‘Think of me.’
+
+‘Tell me how NOT to think of you, Lizzie, and you’ll change me
+altogether.’
+
+‘I don’t mean in that way. Think of me, as belonging to another station,
+and quite cut off from you in [[Honour|honour]]. Remember that I have no protector
+near me, unless I have one in your noble heart. Respect my good name.
+If you feel towards me, in one particular, as you might if I was a lady,
+give me the full claims of a lady upon your generous behaviour. I am
+removed from you and your family by being a working girl. How true a
+gentleman to be as considerate of me as if I was removed by being a
+[[Queen]]!’
+
+He would have been base indeed to have stood untouched by her appeal.
+His face expressed contrition and indecision as he asked:
+
+‘Have I injured you so much, Lizzie?’
+
+‘No, no. You may set me quite right. I don’t speak of the past, Mr
+Wrayburn, but of the present and the future. Are we not here now,
+because through two days you have followed me so closely where there
+are so many eyes to see you, that I consented to this appointment as an
+escape?’
+
+‘Again, not very flattering to my [[Self|self]]-[[Love|love]],’ said Eugene, moodily; ‘but
+yes. Yes. Yes.’
+
+‘Then I beseech you, Mr Wrayburn, I beg and pray you, leave this
+neighbourhood. If you do not, consider to what you will drive me.’
+
+He did consider within himself for a moment or two, and then retorted,
+‘Drive you? To what shall I drive you, Lizzie?’
+
+‘You will drive me away. I live here peacefully and respected, and I am
+[[Well|well]] employed here. You will force me to quit this place as I quitted
+[[London]], and—by following me again—will force me to quit the next place
+in which I may find refuge, as I quitted this.’
+
+‘Are you so determined, Lizzie—forgive the word I am going to use, for
+its literal [[Truth|truth]]—to fly from a [[Lover|lover]]?’
+
+‘I am so determined,’ she answered resolutely, though trembling, ‘to fly
+from such a [[Lover|lover]]. There was a poor woman died here but a little while
+ago, scores of years older than I am, whom I found by chance, lying on
+the wet earth. You may have heard some account of her?’
+
+‘I think I have,’ he answered, ‘if her name was Higden.’
+
+‘Her name was Higden. Though she was so weak and old, she kept true to
+one purpose to the very last. Even at the very last, she made me promise
+that her purpose should be kept to, after she was dead, so settled
+was her determination. What she did, I can do. Mr Wrayburn, if I
+believed—but I do not believe—that you could be so cruel to me as
+to drive me from place to place to wear me out, you should drive me to
+[[Death|death]] and not do it.’

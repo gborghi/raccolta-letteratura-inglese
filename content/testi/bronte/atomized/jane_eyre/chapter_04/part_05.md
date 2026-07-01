@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 4 (part 5)"
+title: "Jane Eyre — Chapter 4 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_04/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_05/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Jane, you are under a mistake: what is the matter with you? Why do you
+tremble so violently? Would you like to drink some [[Water|water]]?”
+
+“No, Mrs. Reed.”
+
+“Is there anything else you wish for, Jane? I assure you, I [[Desire|desire]] to
+be your friend.”
 
 “Not you. You told Mr. Brocklehurst I had a bad character, a deceitful
 disposition; and I’ll let everybody at Lowood know what you are, and

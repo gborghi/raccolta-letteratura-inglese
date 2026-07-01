@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 7"
+title: "Bleak House — Chapter 7"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/bleak-house-(dickens)"
@@ -298,7 +298,7 @@ for seven hundred years.
 Even the long drawing-room of Chesney Wold cannot revive Mr. Guppy’s
 spirits. He is so low that he droops on the threshold and has hardly
 strength of mind to enter. But a portrait over the chimney-piece,
-painted by the fashionable [[artist]] of the day, acts upon him like a
+painted by the fashionable [[Artist|artist]] of the day, acts upon him like a
 charm. He recovers in a moment. He stares at it with uncommon
 interest; he seems to be fixed and fascinated by it.
 

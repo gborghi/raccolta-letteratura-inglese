@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 7"
+title: "Oliver Twist — Chapter 7"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/oliver-twist-(dickens)"

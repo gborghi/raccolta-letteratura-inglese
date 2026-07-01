@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 27 (part 4)"
+title: "Jane Eyre — Chapter 27 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -110,10 +110,3 @@ with such language!—no professed harlot ever had a fouler vocabulary
 than she: though two rooms off, I heard every word—the thin partitions
 of the West India [[house]] opposing but slight obstruction to her wolfish
 cries.
-
-“‘This life,’ said I at last, ‘is hell: this is the air—those are the
-sounds of the bottomless pit! I have a right to deliver myself from it
-if I can. The sufferings of this mortal state will leave me with the
-heavy flesh that now cumbers my [[Soul|soul]]. Of the fanatic’s burning [[Eternity|eternity]]
-I have no [[Fear|fear]]: there is not a future state worse than this present
-one—let me break away, and go [[Home|home]] to God!’

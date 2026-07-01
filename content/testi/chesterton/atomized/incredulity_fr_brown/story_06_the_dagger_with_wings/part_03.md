@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The Dagger with Wings (part 3)"
+title: "incredulity Fr Brown — The Dagger with Wings (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -133,10 +133,3 @@ fluttering scrap of paper at the end of a rigid arm. His whole attitude
 was suggestive of a sort of paralysis, that was both rigidity and
 collapse. But the next remark of the priest had a curious effect of
 rousing him.
-
-[[Father Brown]] was blinking in his short - sighted way at the paper
-presented to him. It was a singular sort of paper, rough without being
-common, as from an [[Artist|artist]]'s [[Sketch|sketch]] - book; and on it was drawn boldly in
-red ink a dagger decorated with wings like the rod of Hermes, with the
-written words, '[[Death]] comes the day after this, as it came to your
-brothers.'

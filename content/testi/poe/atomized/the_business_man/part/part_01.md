@@ -1,5 +1,5 @@
 ---
-title: "[[The Business Man]] (part 1)"
+title: "The Business Man (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-business-man-(poe)"
@@ -195,9 +195,3 @@ Method is the [[Soul|soul]] of business.—OLD SAYING.
       made the man: at least all of him that was not made by the tailor
 
       whom I served. At nine, every morning, I called upon that
-
-      individual for the clothes of the day. Ten o’[[Clock|clock]] found me in
-
-      some fashionable promenade or other place of public amusement.
-
-      The precise regularity with which I turned my handsome person

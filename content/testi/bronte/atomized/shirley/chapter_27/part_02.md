@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 27 (part 2)"
+title: "Shirley — Chapter 27 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_27/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_27/part_03">part 03 ›</a></div>
 </nav>
 
+
+their dressing-room, and became chilled with decorous dread if they
+
+chanced to be left [[Alone|alone]] with their audacious cousin. But, as I have
 
 said, a change supervened. Mr. Sympson was appeased and his family
 
@@ -207,13 +211,3 @@ never thought a man of rank--the only son of a proud, fond mother, the
 only brother of doting sisters--could have so much goodness, and, on the
 
 whole, so much sense.
-
-
-
-[[Time]] proved, indeed, that Sir Philip liked her. Perhaps he had found in
-
-her that "curious charm" noticed by Mr. Hall. He sought her presence
-
-more and more, and at last with a frequency that attested it had become
-
-to him an indispensable stimulus. About this [[Time|time]] strange feelings

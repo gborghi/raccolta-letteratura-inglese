@@ -14,6 +14,32 @@ tags:
 </nav>
 
 
+'I'm quite sure they were splendid and very [[Well|well]] - deserved,' gasped the
+little priest. 'I understood the company had left the village before
+Maltravers died. But it's all right. It's quite all right.' And he began
+to hurry down the street again.
+
+'He was to act [[Polonius]],' continued the unquenchable orator behind him.
+[[Father Brown]] suddenly stopped dead.
+
+'Oh,' he said very slowly, 'he was to act [[Polonius]].'
+
+'That [[Villain|villain]] Hankin!' shrieked the actor. 'Follow his trail. Follow him
+to the ends of the earth! Of course he'd left the village; trust him for
+that. Follow him - find him; and may the curses - ' But the priest was
+again hurrying away down the street.
+
+Two much more prosaic and perhaps more practical interviews followed
+this melodramatic scene. First the priest went into the bank, where he
+was closeted for ten minutes with the manager; and then paid a very
+proper call on the aged and amiable clergyman. Here again all seemed
+very much as described, unaltered and seemingly unalterable; a touch or
+two of devotion from more austere traditions, in the narrow crucifix on
+the wall, the big [[Bible]] on the bookstand and the old gentleman's opening
+lament over the increasing disregard of [[Sunday]]; but all with a flavour
+of gentility that was not without its little refinements and faded
+luxuries.
+
 The clergyman also gave his guest a glass of port; but accompanied by an
 ancient British biscuit instead of seedcake. The priest had again the
 weird feeling that everything was almost too perfect, and that he was
@@ -106,28 +132,3 @@ letter which the lawyer tore impatiently across after a single glance.
 As it fell apart, the priest saw a spidery, crazy crowded sort of
 handwriting and the signature of 'Phoenix Fitzgerald'; and made a guess
 which the other curtly confirmed.
-
-'It's that melodramatic actor that's always pestering us,' he said.
-'He's got some fixed feud with some dead and gone fellow mummer of his,
-which can't have anything to do with the case. We all refuse to see him,
-except the doctor, who did see him; and the doctor says he's mad.'
-
-'Yes,' said [[Father Brown]], pursing his lips thoughtfully. 'I should say
-he's mad. But of course there can't be any [[Doubt|doubt]] that he's right.'
-
-'Right?' cried Carver sharply. 'Right about what?'
-
-'About this being connected with the old theatrical company,' said
-[[Father Brown]]. 'Do you know the first thing that stumped me about this
-story? It was that notion that Maltravers was killed by villagers
-because he insulted their village. It's extraordinary what coroners can
-get jurymen to believe; and journalists, of course, are quite incredibly
-credulous. They can't know much about English rustics. I'm an English
-rustic myself; at least I was grown, with other turnips, in Essex. Can
-you imagine an English agricultural labourer idealizing and personifying
-his village, like the citizen of an old Greek [[City|city]] state; drawing the
-[[Sword|sword]] for its sacred banner, like a man in the tiny medieval republic of
-an Italian town? Can you hear a jolly old gaffer saying, â[[Blood]] [[Alone|alone]]
-can wipe out one spot on the escutcheon of Potter's Pondâ? By St George
-and the Dragon, I only wish they would! But, as a matter of fact, I have
-a more practical argument for the other notion.'

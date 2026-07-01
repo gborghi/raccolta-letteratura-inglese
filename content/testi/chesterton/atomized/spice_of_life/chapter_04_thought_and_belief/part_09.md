@@ -61,7 +61,6 @@ would have taught them to be really spirited and warlike atheists.
 And to see atheists lose their one great virtue of ferocity would
 indeed be a serious loss to religion.
 
-
 THE [[philosophy|PHILOSOPHY]] OF ISLANDS
 
 From The Venture Annual, 1903

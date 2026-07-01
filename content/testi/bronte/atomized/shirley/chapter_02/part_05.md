@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 2 (part 5)"
+title: "Shirley — Chapter 2 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,34 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_02/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_02/part_06">part 06 ›</a></div>
 </nav>
 
+
+birthright.
+
+
+
+The "Orders in Council," provoked by Napoleon's Milan and Berlin
+
+decrees, and forbidding neutral powers to trade with France, had, by
+
+offending [[america|America]], cut off the principal market of the Yorkshire woollen
+
+trade, and brought it consequently to the verge of ruin. Minor foreign
+
+markets were glutted, and would receive no more. The Brazils, Portugal,
+
+Sicily, were all overstocked by nearly two years' consumption. At this
+
+crisis certain inventions in machinery were introduced into the staple
+
+manufactures of the north, which, greatly reducing the number of hands
+
+necessary to be employed, threw thousands out of work, and left them
+
+without legitimate means of sustaining life. A bad harvest supervened.
+
+Distress reached its climax. [[Endurance]], overgoaded, stretched the hand
+
+of fraternity to sedition. The throes of a sort of moral earthquake were
 
 felt heaving under the hills of the northern counties. But, as is usual
 
@@ -191,47 +219,3 @@ An impatient trampling of one of the horses made him presently look up.
 His eye in the moment caught the gleam of something white attached to a
 
 part of the harness. Examined by the light of the lantern this proved to
-
-be a folded paper--a billet. It bore no address without; within was the
-
-superscription:--
-
-
-
-"To the Divil of Hollow's Miln."
-
-
-
-We will not copy the rest of the orthography, which was very peculiar,
-
-but translate it into legible English. It ran thus:--
-
-
-
-"Your hellish machinery is shivered to smash on Stilbro' Moor, and your
-
-men are lying bound hand and foot in a ditch by the roadside. Take this
-
-as a warning from men that are starving, and have starving wives and
-
-children to go [[Home|home]] to when they have done this deed. If you get new
-
-machines, or if you otherwise go on as you have done, you shall hear
-
-from us again. Beware!"
-
-
-
-"Hear from you again? Yes, I'll hear from you again, and you shall hear
-
-from me. I'll speak to you directly. On Stilbro' Moor you shall hear
-
-from me in a moment."
-
-
-
-Having led the wagons within the gates, he hastened towards the cottage.
-
-Opening the door, he spoke a few words quickly but quietly to two
-
-females who ran to meet him in the passage. He calmed the seeming alarm

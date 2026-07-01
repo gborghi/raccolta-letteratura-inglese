@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 39: THIRTY NINE (part 6)"
+title: "Martin Chuzzlewit — Chapter 39: THIRTY NINE (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -130,7 +130,3 @@ other) readily, and said he had no [[Doubt|doubt]] of it. Nor was his [[Faith|fa
 shaken by his having said exactly the same thing to each suggestion of
 his friend’s in turn, and being perfectly ready to say it again if he
 had any new solution to propose.
-
-As he had not, Tom drew down the [[Window|window]]-sash, and folded the shutter;
-and they left the rooms. He closed the door heavily, as Mr Fips had
-desired him; tried it, found it all safe, and put the key in his pocket.

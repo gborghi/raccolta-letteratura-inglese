@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 8 (part 2)"
+title: "Persuasion — Chapter 8 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_08/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_08/part_03">part 03 ›</a></div>
 </nav>
 
+
+to fall in with the very French frigate I wanted. I brought her into
+
+Plymouth; and here another instance of luck. We had not been six hours
 
 in the Sound, when a gale came on, which lasted four days and nights,
 
@@ -200,7 +204,7 @@ be interrupting, thinking only of his own thoughts, began with—
 
 
 
-“If you had been a week later at Lisbon, last [[spring]], Frederick, you
+“If you had been a week later at Lisbon, last [[Spring|spring]], Frederick, you
 
 would have been asked to give a passage to Lady Mary Grierson and her
 
@@ -231,17 +235,3 @@ one’s efforts, and all one’s sacrifices, to make the accommodations on
 board such as women ought to have. There can be no want of gallantry,
 
 Admiral, in rating the claims of women to every personal comfort
-
-_high_, and this is what I do. I hate to hear of women on board, or to
-
-see them on board; and no [[Ship|ship]] under my command shall ever convey a
-
-family of ladies anywhere, if I can help it.”
-
-
-
-This brought his sister upon him.
-
-
-
-“Oh! Frederick! But I cannot believe it of you.—All idle

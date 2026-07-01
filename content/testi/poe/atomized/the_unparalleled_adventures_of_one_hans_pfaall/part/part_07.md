@@ -1,5 +1,5 @@
 ---
-title: "[[The Unparalleled Adventures of one Hans Pfaall]] (part 7)"
+title: "The Unparalleled Adventures of one Hans Pfaall (part 7)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-unparalleled-adventures-of-one-hans-pfaall-(poe)"
@@ -13,6 +13,32 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/part/part_06">‹ part 06</a><a class="ex-next" href="/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/part/part_08">part 08 ›</a></div>
 </nav>
 
+
+      channels, and the distinctness which was thus added to my
+
+      perception of the danger, merely served to deprive me of the
+
+      [[Self|self]]-possession and [[Courage|courage]] to encounter it. But this weakness
+
+      was, luckily for me, of no very long duration. In good [[Time|time]] came
+
+      to my rescue the spirit of [[Despair|despair]], and, with frantic cries and
+
+      struggles, I jerked my way bodily upwards, till at length,
+
+      clutching with a vise-like grip the long-desired rim, I writhed
+
+      my person over it, and fell headlong and shuddering within the
+
+      car.
+
+
+
+      “It was not until some [[Time|time]] afterward that I recovered myself
+
+      sufficiently to attend to the ordinary cares of the balloon. I
+
+      then, however, examined it with attention, and found it, to my
 
       great relief, uninjured. My implements were all safe, and,
 
@@ -165,35 +191,3 @@ tags:
       inadequate to assure us of its existence. But I did not fail to
 
       perceive that these latter calculations are founded altogether on
-
-      our experimental knowledge of the properties of air, and the
-
-      mechanical laws regulating its dilation and compression, in what
-
-      may be called, comparatively speaking, the immediate vicinity of
-
-      the earth itself; and, at the same [[Time|time]], it is taken for granted
-
-      that animal life is and must be essentially incapable of
-
-      modification at any given [[Unattainable|unattainable]] distance from the surface.
-
-      Now, all such reasoning and from such data must, of course, be
-
-      simply analogical. The greatest height ever reached by man was
-
-      that of 25,000 feet, attained in the aeronautic expedition of
-
-      Messieurs Gay-Lussac and Biot. This is a moderate altitude, even
-
-      when compared with the eighty miles in question; and I could not
-
-      help thinking that the subject admitted room for [[Doubt|doubt]] and great
-
-      latitude for speculation.
-
-
-
-      “But, in point of fact, an ascension being made to any given
-
-      altitude, the ponderable quantity of air surmounted in any

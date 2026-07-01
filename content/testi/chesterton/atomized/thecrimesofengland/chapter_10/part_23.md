@@ -1,5 +1,5 @@
 ---
-title: "[[TheCrimesOfEngland]] — Chapter 10 (part 23)"
+title: "TheCrimesOfEngland — Chapter 10 (part 23)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thecrimesofengland-(chesterton)"
@@ -13,6 +13,130 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thecrimesofengland/chapter_10/part_22">‹ part 22</a><a class="ex-next" href="/testi/chesterton/atomized/thecrimesofengland/chapter_10/part_24">part 24 ›</a></div>
 </nav>
 
+
+though the oyster outwardly presents dissimilarities which seem to
+
+divide him from the [[Horse|horse]], he is by the all-filling [[Nature|nature]]-might of the
+
+same [[Horse|horse]]-moving energy sustained.
+
+Now this [[Horse|horse]] is intellectually the wrong [[Horse|horse]]. It is not perhaps
+
+going too far to say that this [[Horse|horse]] is a [[donkey]]. For it is obviously
+
+within even the intellectual resources of a haddock to answer, "But if a
+
+haddock is a [[Horse|horse]], why should I yield to you any more than you to me?
+
+Why should that singing [[Horse|horse]] commonly called the [[Nightingale|nightingale]], or that
+
+climbing [[Horse|horse]] hitherto known as the cat, fall down and worship you
+
+because of your horsehood? If all our native faculties are the
+
+accomplishments of a [[Horse|horse]]--why then you are only another [[Horse|horse]] without
+
+any accomplishments." When thus gently reasoned with, the [[Horse|horse]] flings
+
+up his heels, kicks the cat, crushes the oyster, eats the haddock and
+
+pursues the [[Nightingale|nightingale]], and that is how the war began.
+
+This apologue is not in the least more fantastic than the facts of the
+
+Teutonic claim. The Germans do really say that Englishmen are only
+
+Sea-Germans, as our haddocks were only sea-horses. They do really say
+
+that the nightingales of Tuscany or the pearls of Hellas must somehow be
+
+German [[Birds|birds]] or German jewels. They do maintain that the Italian
+
+[[Renaissance]] was really the German [[Renaissance]], pure Germans having
+
+Italian names when they were painters, as [[cockneys]] sometimes have when
+
+they are hair-dressers. They suggest that Jesus and the great Jews were
+
+Teutonic. One Teutonist I read actually explained the fresh energy of
+
+the [[French Revolution]] and the stale privileges of its German enemies by
+
+saying that the Germanic [[Soul|soul]] awoke in France and attacked the Latin
+
+influence in [[Germany]]. On the advantages of this method I need not dwell:
+
+if you are annoyed at Jack Johnson knocking out an English
+
+prize-fighter, you have only to say that it was the whiteness of the
+
+black man that won and the blackness of the white man that was beaten.
+
+But about the Italian [[Renaissance]] they are less general and will go into
+
+detail. They will discover (in their researches into 'istry, as Mr.
+
+Gandish said) that [[Michael]] [[Angelo]]'s surname was Buonarotti; and they
+
+will point out that the word "roth" is very like the word "rot." Which,
+
+in one sense, is true enough. Most Englishmen will be content to say it
+
+is all rot and pass on. It is all of a piece with the preposterous
+
+Prussian [[history]], which talks, for instance, about the "perfect
+
+religious tolerance of the Goths"; which is like talking about the legal
+
+impartiality of chicken-pox. He will decline to believe that the Jews
+
+were Germans; though he may perhaps have met some Germans who were Jews.
+
+But deeper than any such practical reply, lies the deep inconsistency of
+
+the [[Parable|parable]]. It is simply this; that if Teutonism be used for
+
+comprehension it cannot be used for conquest. If all intelligent peoples
+
+are Germans, then Prussians are only the least intelligent Germans. If
+
+the men of Flanders are as German as the men of Frankfort, we can only
+
+say that in saving Belgium we are helping the Germans who are in the
+
+right against the Germans who are in the wrong. Thus in Alsace the
+
+conquerors are forced into the comic posture of annexing the people for
+
+being German and then persecuting them for being French. The French
+
+Teutons who built Rheims must surrender it to the South German Teutons
+
+who have partly built Cologne; and these in turn surrender Cologne to
+
+the North German Teutons, who never built anything, except the wooden
+
+Aunt Sally of old Hindenburg. Every Teuton must fall on his face before
+
+an inferior Teuton; until they all find, in the foul marshes towards the
+
+Baltic, the very lowest of all possible Teutons, and worship him--and
+
+find he is a Slav. So much for Pan-Germanism.
+
+But though Teutonism is indefinable, or at least is by the Teutons
+
+undefined, it is not unreal. A vague but genuine [[Soul|soul]] does possess all
+
+peoples who boast of Teutonism; and has possessed ourselves, in so far
+
+as we have been touched by that folly. Not a race, but rather a
+
+religion, the thing exists; and in 1870 its sun was at [[Noon|noon]]. We can most
+
+briefly describe it under three heads.
+
+The victory of the German arms meant before Leipzic, and means now, the
 
 overthrow of a certain idea. That idea is the idea of the Citizen. This
 
@@ -50,148 +174,6 @@ the people really are educated; but in France the people educates. The
 
 French not only make up the State, but make the State; not only make it,
 
-but remake it. In [[Germany]] the ruler is the [[Artist|artist]], always painting the
+but remake it. In [[Germany]] the ruler is the [[artist]], always painting the
 
-happy German like a portrait; in France the Frenchman is the [[Artist|artist]],
-
-always painting and repainting France like a [[house]]. No state of social
-
-good that does not mean the Citizen _choosing_ good, as [[Well|well]] as getting
-
-it, has the idea of the Citizen at all. To say the Germanies are
-
-naturally at war with this idea is merely to respect them and take them
-
-seriously: otherwise their war on the [[French Revolution]] would be only an
-
-ignorant feud. It is this, to them, risky and fanciful notion of the
-
-critical and creative Citizen, which in 1870 lay prostrate under United
-
-[[Germany]]--under the undivided hoof.
-
-
-
-Nevertheless, when the German says he has or loves [[Freedom|freedom]], what he says
-
-is not false. He means something; and what he means is the second
-
-principle, which I may summarise as the Irresponsibility of Thought.
-
-Within the iron framework of the fixed State, the German has not only
-
-liberty but anarchy. Anything can be said although, or rather because,
-
-nothing can be done. [[philosophy|Philosophy]] is really free. But this practically
-
-means only that the prisoner's cell has become the madman's cell: that
-
-it is scrawled all over inside with [[Stars|stars]] and systems, so that it looks
-
-like [[Eternity|eternity]]. This is the contradiction remarked by Dr. Sarolea, in his
-
-brilliant book, between the wildness of German theory and the tameness
-
-of German practice. The Germans _sterilise_ thought, making it active
-
-with a wild virginity; which can bear no fruit.
-
-
-
-But though there are so many mad theories, most of them have one root;
-
-and depend upon one assumption. It matters little whether we call it,
-
-with the German Socialists, "the Materialist Theory of [[history|History]]"; or,
-
-with Bismarck, "[[Blood|blood]] and iron." It can be put most fairly thus: that
-
-all _important_ events of [[history]] are biological, like a change of
-
-pasture or the communism of a pack of wolves. Professors are still
-
-tearing their hair in the effort to prove somehow that the Crusaders
-
-were migrating for food like swallows; or that the French Revolutionists
-
-were somehow only swarming like [[Bees|bees]]. This works in two ways often
-
-accounted opposite; and explains both the German Socialist and the
-
-Junker. For, first, it fits in with Teutonic Imperialism; making the
-
-"blonde beasts" of Germania into lions whose [[Nature|nature]] it is to eat such
-
-lambs as the French. The highest [[success]] of this notion in Europe is
-
-marked by praise given to a race famous for its physical firmness and
-
-fighting breed, but which has frankly pillaged and scarcely pretended
-
-to rule; the Turk, whom some Tories called "the gentleman of Europe."
-
-The Kaiser paused to adore the Crescent on his way to patronise the
-
-[[Cross]]. It was corporately embodied when Greece attempted a solitary
-
-adventure against Turkey and was quickly crushed. That English guns
-
-helped to impose the mainly Germanic policy of the Concert upon Crete,
-
-cannot be left out of mind while we are making appeals to Greece--or
-
-considering the crimes of England.
-
-
-
-But the same principle serves to keep the internal politics of the
-
-Germans quiet, and prevent Socialism being the practical [[Hope|hope]] or peril
-
-it has been in so many other countries. It operates in two ways; first,
-
-by a curious fallacy about "the [[Time|time]] not being ripe"--as if _time_ could
-
-ever be ripe. The same savage superstition from the forests had infected
-
-Matthew Arnold pretty badly when he made a personality out of the
-
-Zeitgeist--perhaps the only [[Ghost|ghost]] that was ever entirely fabulous. It is
-
-tricked by a biological parallel, by which the chicken always comes out
-
-of the egg "at the right [[Time|time]]." He does not; he comes out when he comes
-
-out. The Marxian Socialist will not strike till the [[Clock|clock]] strikes; and
-
-the [[Clock|clock]] is made in [[Germany]], and never strikes. Moreover, the theory of
-
-all [[history]] as a search for food makes the masses content with having
-
-food and physic, but not [[Freedom|freedom]]. The best working model in the matter
-
-is the system of Compulsory Insurance; which was a total failure and
-
-dead letter in France but has been, in the German sense, a great [[success]]
-
-in [[Germany]]. It treats employed persons as a fixed, separate, and lower
-
-caste, who must not themselves dispose of the margin of their small
-
-wages. In 1911 it was introduced into England by Mr. Lloyd George, who
-
-had studied its operations in [[Germany]], and, by the Prussian prestige in
-
-"social [[Reform|reform]]," was passed.
-
-
-
-These three tendencies cohere, or are cohering, in an institution which
-
-is not without a great historical basis and not without great modern
-
-conveniences. And as France was the standard-bearer of citizenship in
-
-1798, [[Germany]] is the standard-bearer of this alternative solution in
-
-1915. The institution which our fathers called [[Slavery]] fits in with, or
+happy German like a portrait; in France the Frenchman is the [[artist]],

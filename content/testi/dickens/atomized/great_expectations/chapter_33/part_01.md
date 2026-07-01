@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 33 (part 1)"
+title: "Great Expectations — Chapter 33 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -142,10 +142,3 @@ in the [[Night|night]]. I did.”
 It was no laughing matter with [[Estella]] now, nor was she summoning these
 remembrances from any shallow place. I would not have been the cause of
 that look of hers for all my expectations in a heap.
-
-“Two things I can tell you,” said [[Estella]]. “First, notwithstanding the
-proverb that constant dropping will wear away a stone, you may set your
-mind at rest that these people never will—never would in a hundred
-years—impair your ground with [[Miss Havisham]], in any particular, great
-or small. Second, I am beholden to you as the cause of their being so
-busy and so mean in vain, and there is my hand upon it.”

@@ -1,5 +1,5 @@
 ---
-title: "Antony and [[Cleopatra]] — Act III, Scene 6"
+title: "Antony and Cleopatra — Act III, Scene 6"
 author: "Shakespeare"
 unitType: scene
 parentWork: "works/antony-and-cleopatra-(shakespeare)"

@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 47: MARTHA (part 1)"
+title: "David Copperfield — Chapter 47: MARTHA (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -117,14 +117,3 @@ through the dismal streets, defiled and miserable--and it goes away,
 like my life, to a great sea, that is always troubled--and I feel that
 I must go with it!’ I have never known what [[Despair|despair]] was, except in the
 tone of those words.
-
-‘I can’t keep away from it. I can’t forget it. It haunts me day and
-[[Night|night]]. It’s the only thing in all the world that I am fit for, or that’s
-fit for me. Oh, the dreadful [[River|river]]!’
-
-The thought passed through my mind that in the face of my companion,
-as he looked upon her without speech or motion, I might have read his
-niece’s [[history]], if I had known nothing of it. I never saw, in any
-painting or reality, horror and compassion so impressively blended. He
-shook as if he would have fallen; and his hand--I touched it with my
-own, for his appearance alarmed me--was deadly cold.

@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 9 (part 6)"
+title: "Shirley — Chapter 9 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,66 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_09/part_05">‹ part 05</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_09/part_07">part 07 ›</a></div>
 </nav>
 
+
+"When Jessy and I went to spend the day at Whinbury with Kate and Susan
+
+Pearson, who were just come [[Home|home]] from school, there was a party at Mrs.
+
+Pearson's, and some grown-up ladies were sitting in a corner of the
+
+drawing-room talking about you."
+
+
+
+"Did you know none of them?"
+
+
+
+"Hannah, and Harriet, and Dora, and Mary Sykes."
+
+
+
+"Good. Were they abusing me, Rosy?"
+
+
+
+"Some of them were. They called you a misanthrope. I remember the word.
+
+I looked for it in the dictionary when I came [[Home|home]]. It means a
+
+man-hater."
+
+
+
+"What besides?"
+
+
+
+"Hannah Sykes said you were a solemn puppy."
+
+
+
+"Better!" cried Mr. Yorke, laughing. "Oh, excellent! Hannah! that's the
+
+one with the red hair--a fine girl, but half-witted."
+
+
+
+"She has wit enough for me, it appears," said Moore. "A solemn puppy,
+
+indeed! [[Well]], [[Rose]], go on."
+
+
+
+"Miss Pearson said she believed there was a good deal of affectation
+
+about you, and that with your dark hair and pale face you looked to her
+
+like some sort of a sentimental noodle."
+
+
+
+Again Mr. Yorke laughed. Mrs. Yorke even joined in this [[Time|time]]. "You see
 
 in what esteem you are held behind your back," said she; "yet I believe
 
@@ -193,49 +253,3 @@ garments."
 "Ten years hence, Martin, no tailor's shop will have choice of colours
 
 varied enough for thy exacting taste; no perfumer's stores essences
-
-exquisite enough for thy fastidious senses."
-
-
-
-Martin looked disdain, but vouchsafed no further reply. Meantime Mark,
-
-who for some minutes had been rummaging amongst a pile of books on a
-
-side-table, took the word. He spoke in a peculiarly slow, quiet voice,
-
-and with an expression of still irony in his face not easy to describe.
-
-
-
-"Mr. Moore," said he, "you think perhaps it was a compliment on Miss
-
-[[Caroline Helstone]]'s part to say you were not sentimental. I thought you
-
-appeared confused when my sisters told you the words, as if you felt
-
-flattered. You turned red, just like a certain vain little lad at our
-
-school, who always thinks proper to blush when he gets a rise in the
-
-class. For your benefit, Mr. Moore, I've been looking up the word
-
-'sentimental' in the dictionary, and I find it to mean 'tinctured with
-
-sentiment.' On examining further, 'sentiment' is explained to be
-
-thought, idea, notion. A sentimental man, then, is one who has thoughts,
-
-ideas, notions; an unsentimental man is one destitute of thought, idea,
-
-or notion."
-
-
-
-And Mark stopped. He did not smile, he did not look round for
-
-admiration. He had said his say, and was silent.
-
-
-
-"Ma foi! mon ami," observed Mr. Moore to Yorke, "ce sont vraiment des

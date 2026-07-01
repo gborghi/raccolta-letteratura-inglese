@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 33: THIRTY THREE (part 3)"
+title: "Martin Chuzzlewit — Chapter 33: THIRTY THREE (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -141,11 +141,3 @@ of you. And very independent!’
 ‘I shot him down, sir,’ pursued Chollop, ‘for asserting in the Spartan
 Portico, a tri-weekly journal, that the ancient Athenians went a-head of
 the present Locofoco Ticket.’
-
-‘And what’s that?’ asked Mark.
-
-‘Europian not to know,’ said Chollop, smoking placidly. ‘Europian
-quite!’
-
-After a short devotion to the interests of the [[Magic|magic]] circle, he resumed
-the conversation by observing:

@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 20 (part 2)"
+title: "Wuthering Heights — Chapter 20 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_20/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_21/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Hallo, Nelly!” said Mr. [[Heathcliff]], when he saw me. “I feared I should
+have to come down and fetch my property myself. You’ve brought it, have
+you? Let us see what we can make of it.”
 
 He got up and strode to the door: Hareton and Joseph followed in gaping
 curiosity. Poor Linton ran a frightened eye over the faces of the

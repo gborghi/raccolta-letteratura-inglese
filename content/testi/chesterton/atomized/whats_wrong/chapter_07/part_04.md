@@ -1,5 +1,5 @@
 ---
-title: "whats wrong — Part 2 (part 4)"
+title: "whats wrong — Part 3 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/whats-wrong-(chesterton)"
@@ -14,129 +14,107 @@ tags:
 </nav>
 
 
-"Like Cato, give his little Senate laws And sit attentive
-to his own applause."
+but the [[Truth|truth]] is that woman always varies, and that is exactly why
+we always trust her.  To correct every adventure and extravagance
+with its antidote in common-sense is not (as the moderns
+seem to think) to be in the position of a spy or a slave.
+It is to be in the position of Aristotle or (at the lowest)
+Herbert Spencer, to be a universal [[morality]], a complete system
+of thought.  The slave flatters; the complete moralist rebukes.
+It is, in short, to be a Trimmer in the true sense of that honorable term;
+which for some reason or other is always used in a sense exactly
+opposite to its own.  It seems really to be supposed that a Trimmer
+means a cowardly person who always goes over to the stronger side.
+It really means a highly chivalrous person who always goes over
+to the weaker side; like one who trims a boat by sitting where there
+are few people seated.  Woman is a trimmer; and it is a generous,
+dangerous and romantic trade.
 
-Johnson, so far from being [[King|king]] of his company, was a sort of Irish Member
-in his own Parliament.  Addison was a courteous superior and was hated.
-Johnson was an insolent equal and therefore was loved by all who knew him,
-and handed down in a marvellous book, which is one of the mere
-miracles of [[Love|love]].
+The final fact which fixes this is a sufficiently plain one.
+Supposing it to be conceded that humanity has acted at least
+not unnaturally in dividing itself into two halves, respectively
+typifying the ideals of special talent and of general [[Sanity|sanity]]
+(since they are genuinely difficult to combine completely in one
+mind), it is not difficult to see why the line of cleavage has
+followed the line of sex, or why the female became the emblem
+of the universal and the male of the special and superior.
+Two gigantic facts of [[Nature|nature]] fixed it thus:  first, that the woman
+who frequently fulfilled her functions literally could not be
+specially prominent in experiment and adventure; and second,
+that the same natural operation surrounded her with very young children,
+who require to be taught not so much anything as everything.
+Babies need not to be taught a trade, but to be introduced to a world.
+To put the matter shortly, woman is generally shut up in a [[house]]
+with a human being at the [[Time|time]] when he asks all the questions
+that there are, and some that there aren't. It would be odd
+if she retained any of the narrowness of a specialist.
+Now if anyone says that this duty of general enlightenment
+(even when freed from modern rules and hours, and exercised
+more spontaneously by a more protected person) is in itself
+too exacting and oppressive, I can understand the view.
+I can only answer that our race has thought it worth while to cast
+this burden on women in order to keep common-sense in the world.
+But when people begin to talk about this domestic duty as not merely
+difficult but trivial and dreary, I simply give up the question.
+For I cannot with the utmost energy of [[Imagination|imagination]] conceive what
+they mean.  When domesticity, for instance, is called drudgery,
+all the difficulty arises from a [[Double|double]] meaning in the word.
+If drudgery only means dreadfully hard work, I admit the woman
+drudges in the [[Home|home]], as a man might drudge at the [[Cathedral]] of Amiens
+or drudge behind a gun at Trafalgar.  But if it means that the hard
+work is more heavy because it is trifling, colorless and of small
+import to the [[Soul|soul]], then as I say, I give it up; I do not know
+what the words mean.  To be [[Queen Elizabeth]] within a definite area,
+deciding sales, banquets, labors and holidays; to be Whiteley
+within a certain area, providing toys, boots, sheets, cakes
+and books, to be Aristotle within a certain area, teaching morals,
+manners, theology, and hygiene; I can understand how this might
+exhaust the mind, but I cannot imagine how it could narrow it.
+How can it be a large career to tell other people's children about
+the Rule of Three, and a small career to tell one's own children
+about the universe?  How can it be broad to be the same thing
+to everyone, and narrow to be everything to someone?  No; a woman's
+function is laborious, but because it is gigantic, not because it
+is minute.  I will pity Mrs. [[Jones]] for the hugeness of her task;
+I will never pity her for its smallness.
 
-This doctrine of equality is essential to conversation;
-so much may be admitted by anyone who knows what conversation is.
-Once arguing at a table in a tavern the most famous man on
-earth would wish to be obscure, so that his brilliant remarks
-might blaze like the [[Stars|stars]] on the background of his obscurity.
-To anything worth calling a man nothing can be conceived
-more cold or cheerless than to be [[King|king]] of your company.
-But it may be said that in masculine sports and games, other than
-the great game of [[debate]], there is definite emulation and eclipse.
-There is indeed emulation, but this is only an ardent sort
-of equality.  Games are competitive, because that is the only
-way of making them exciting.  But if anyone doubts that men
-must forever return to the ideal of equality, it is only
-necessary to answer that there is such a thing as a handicap.
-If men exulted in mere superiority, they would seek to see
-how far such superiority could go; they would be glad
-when one strong runner came in miles ahead of all the rest.
-But what men like is not the triumph of superiors,
-but the struggle of equals; and, therefore, they introduce
-even into their competitive sports an artificial equality.
-It is sad to think how few of those who arrange our sporting
-handicaps can be supposed with any probability to realize
-that they are abstract and even severe republicans.
-
-No; the real objection to equality and [[Self|self]]-rule has nothing to do with
-any of these free and festive aspects of mankind; all men are democrats
-when they are happy.  The philosophic opponent of [[democracy]] would
-substantially sum up his position by saying that it "will not work."
-Before going further, I will register in passing a protest
-against the assumption that working is the one test of humanity.
-Heaven does not work; it plays.  Men are most themselves when they
-are free; and if I find that men are snobs in their work but democrats
-on their holidays, I shall take the liberty to believe their holidays.
-But it is this question of work which really perplexes the question
-of equality; and it is with that that we must now deal.
-Perhaps the [[Truth|truth]] can be put most pointedly thus:  that [[democracy]]
-has one real enemy, and that is civilization.  Those utilitarian
-miracles which science has made are anti-democratic, not so much
-in their perversion, or even in their practical result, as in their
-primary shape and purpose.  The Frame-Breaking Rioters were right;
-not perhaps in thinking that machines would make fewer men workmen;
-but certainly in thinking that machines would make fewer men masters.
-More wheels do mean fewer handles; fewer handles do mean fewer hands.
-The machinery of science must be individualistic and isolated.
-A mob can shout round a palace; but a mob cannot shout down a telephone.
-The specialist appears and [[democracy]] is half spoiled at a stroke.
+But though the essential of the woman's task is universality,
+this does not, of course, prevent her from having one or two severe
+though largely wholesome prejudices.  She has, on the whole,
+been more conscious than man that she is only one half of humanity;
+but she has expressed it (if one may say so of a lady) by getting her
+teeth into the two or three things which she thinks she stands for.
+I would observe here in parenthesis that much of the recent
+official trouble about women has arisen from the fact that they
+transfer to things of [[Doubt|doubt]] and reason that sacred stubbornness
+only proper to the primary things which a woman was set to guard.
+One's own children, one's own altar, ought to be a matter of principle--
+or if you like, a matter of prejudice.  On the other hand,
+who wrote Junius's Letters ought not to be a principle or a prejudice,
+it ought to be a matter of free and almost indifferent inquiry.
+But take an energetic modern girl secretary to a league
+to show that George III wrote Junius, and in three months she
+will believe it, too, out of mere loyalty to her employers.
+Modern women defend their office with all the fierceness of domesticity.
+They fight for desk and typewriter as for hearth and [[Home|home]], and develop
+a sort of wolfish wifehood on behalf of the invisible head of the firm.
+That is why they do office work so [[Well|well]]; and that is why they ought
+not to do it.
 
 * * *
 
 IV
 
-THE INSANE NECESSITY
+THE [[Romance|ROMANCE]] OF THRIFT
 
-The common conception among the dregs of Darwinian culture
-is that men have slowly worked their way out of inequality
-into a state of comparative equality.  The [[Truth|truth]] is, I fancy,
-almost exactly the opposite.  All men have normally and naturally
-begun with the idea of equality; they have only abandoned it late
-and reluctantly, and always for some material reason of detail.
-They have never naturally felt that one class of men was superior
-to another; they have always been driven to assume it through
-certain practical limitations of space and [[Time|time]].
-
-For example, there is one element which must always tend
-to oligarchy--or rather to despotism; I mean the element of hurry.
-If the [[house]] has caught [[Fire|fire]] a man must ring up the [[Fire|fire]] engines;
-a committee cannot ring them up.  If a camp is surprised by [[Night|night]]
-somebody must give the order to [[Fire|fire]]; there is no [[Time|time]] to vote it.
-It is solely a question of the physical limitations of [[Time|time]] and space;
-not at all of any mental limitations in the mass of men commanded.
-If all the people in the [[house]] were men of destiny it would
-still be better that they should not all talk into the telephone
-at once; nay, it would be better that the silliest man of all should
-speak uninterrupted.  If an army actually consisted of nothing
-but Hanibals and Napoleons, it would still be better in the case
-of a surprise that they should not all give orders together.
-Nay, it would be better if the stupidest of them all gave the orders.
-Thus, we see that merely military subordination, so far from resting
-on the inequality of men, actually rests on the equality of men.
-Discipline does not involve the Carlylean notion that somebody
-is always right when everybody is wrong, and that we must discover
-and [[Crown|crown]] that somebody.  On the contrary, discipline means that
-in certain frightfully rapid circumstances, one can trust anybody
-so long as he is not everybody.  The military spirit does not mean
-(as Carlyle fancied) obeying the strongest and wisest man.
-On the contrary, the military spirit means, if anything, obeying the
-weakest and stupidest man, obeying him merely because he is a man,
-and not a thousand men.  Submission to a weak man is discipline.
-Submission to a strong man is only servility.
-
-Now it can be easily shown that the thing we call aristocracy
-in Europe is not in its origin and spirit an aristocracy at all.
-It is not a system of spiritual degrees and distinctions like,
-for example, the caste system of India, or even like the old Greek
-distinction between free men and slaves.  It is simply the remains
-of a military organization, framed partly to sustain the sinking
-Roman Empire, partly to break and avenge the awful onslaught
-of [[Islam]].  The word Duke simply means Colonel, just as the word
-Emperor simply means Commander-in-Chief. The whole story is told
-in the single title of Counts of the Holy Roman Empire, which merely
-means officers in the European army against the contemporary
-Yellow Peril.  Now in an army nobody ever [[Dreams|dreams]] of supposing
-that difference of rank represents a difference of moral reality.
-Nobody ever says about a regiment, "Your Major is very humorous
-and energetic; your Colonel, of course, must be even more
-humorous and yet more energetic."  No one ever says, in reporting
-a mess-room conversation, "Lieutenant [[Jones]] was very witty,
-but was naturally inferior to Captain [[smith|Smith]]."  The essence of an army
-is the idea of official inequality, founded on unofficial equality.
-The Colonel is not obeyed because he is the best man, but because he is
-the Colonel.  Such was probably the spirit of the system of dukes
-and counts when it first arose out of the military spirit and military
-necessities of Rome.  With the decline of those necessities it
-has gradually ceased to have meaning as a military organization,
-and become honeycombed with unclean plutocracy.  Even now it
-is not a spiritual aristocracy--it is not so bad as all that.
-It is simply an army without an enemy--billeted upon the people.
+The larger part of womankind, however, have had to fight for things
+slightly more intoxicating to the eye than the desk or the typewriter;
+and it cannot be denied that in defending these, women have developed
+the quality called prejudice to a powerful and even menacing degree.
+But these prejudices will always be found to fortify the main position
+of the woman, that she is to remain a general overseer, an autocrat
+within small compass but on all sides.  On the one or two points
+on which she really misunderstands the man's position, it is almost
+entirely in order to preserve her own.  The two points on which woman,
+actually and of herself, is most tenacious may be roughly summarized
+as the ideal of thrift and the ideal of dignity.

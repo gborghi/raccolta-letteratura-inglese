@@ -1,5 +1,5 @@
 ---
-title: "A Christmas [[carol|Carol]] — Stave 2: THE FIRST OF THE THREE SPIRITS"
+title: "A Christmas Carol — Stave 2: THE FIRST OF THE THREE SPIRITS"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/a-christmas-carol-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/a-christmas-carol-(dickens)">A Christmas Carol</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_christmas_carol/chapter_01_marley_s_ghost">‹ Chapter 01 MARLEY S GHOST</a><a class="ex-next" href="/testi/dickens/atomized/a_christmas_carol/chapter_03_the_second_of_the_three_spirit">Chapter 03 THE SECOND OF THE THREE SPIRIT ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_christmas_carol/chapter_01_marley_s_ghost_ghost">‹ Chapter 01 MARLEY S Ghost GHOST</a><a class="ex-next" href="/testi/dickens/atomized/a_christmas_carol/chapter_03_the_second_of_the_three_spirit">Chapter 03 THE SECOND OF THE THREE SPIRIT ›</a></div>
 </nav>
 
 
@@ -29,7 +29,7 @@ twelve; then stopped. Twelve! It was past two when he
 went to bed. The [[Clock|clock]] was wrong. An icicle must have
 got into the works. Twelve!
 
-He touched the [[Spring|spring]] of his repeater, to correct this most
+He touched the [[spring]] of his repeater, to correct this most
 preposterous [[Clock|clock]]. Its rapid little pulse beat twelve:
 and stopped.
 
@@ -58,7 +58,7 @@ not to think, the more he thought.
 
 Marley's [[Ghost]] bothered him exceedingly. Every [[Time|time]] he resolved
 within himself, after mature inquiry, that it was all [[A Dream|a dream]], his
-mind flew back again, like a strong [[Spring|spring]] released, to its first
+mind flew back again, like a strong [[spring]] released, to its first
 position, and presented the same problem to be worked all through,
 "Was it [[A Dream|a dream]] or not?"
 
@@ -760,7 +760,7 @@ when the master of the [[house]], having his daughter leaning
 fondly on him, sat down with her and her mother at his
 own fireside; and when he thought that such another
 creature, quite as graceful and as full of promise, might
-have called him father, and been a [[Spring|spring]]-[[Time|time]] in the
+have called him father, and been a [[spring]]-[[Time|time]] in the
 haggard [[Winter|winter]] of his life, his sight grew very dim indeed.
 
 "Belle," said the husband, turning to his wife with a

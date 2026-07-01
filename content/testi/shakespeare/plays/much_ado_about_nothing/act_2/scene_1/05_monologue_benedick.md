@@ -1,5 +1,5 @@
 ---
-title: "Much Ado About Nothing — Act II, Scene 1 — monologue ([[Benedick|BENEDICK]]) [5]"
+title: "Much Ado About Nothing — Act II, Scene 1 — monologue (BENEDICK) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/much-ado-about-nothing-(shakespeare)"

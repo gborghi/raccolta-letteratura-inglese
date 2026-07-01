@@ -1,5 +1,5 @@
 ---
-title: "[[Shaw]] — THE PHILOSOPHER (part 14)"
+title: "Shaw — THE PHILOSOPHER (part 14)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/shaw-(chesterton)"
@@ -13,6 +13,76 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/shaw/story_08_the_philosopher/part_13">‹ part 13</a><a class="ex-next" href="/testi/chesterton/atomized/shaw/story_08_the_philosopher/part_15">part 15 ›</a></div>
 </nav>
 
+
+In the first place, and quite apart from all particular theories,
+the world owes thanks to Bernard [[Shaw]] for having combined being
+intelligent with being intelligible.  He has popularised [[philosophy]],
+or rather he has re-popularised it, for [[philosophy]] is always popular,
+except in peculiarly corrupt and oligarchic ages like our own.
+We have passed the age of the demagogue, the man who has
+little to say and says it loud.  We have come to the age
+of the mystagogue or don, the man who has nothing to say,
+but says it softly and impressively in an indistinct whisper.
+After all, short words must mean something, even if they mean filth
+or lies; but long words may sometimes mean literally nothing,
+especially if they are used (as they mostly are in modern books
+and magazine articles) to balance and modify each other.
+A plain figure 4, scrawled in [[chalk]] anywhere, must always
+mean something; it must always mean 2 + 2.  But the most enormous
+and mysterious algebraic equation, full of letters, brackets,
+and fractions, may all cancel out at last and be equal to nothing.
+When a demagogue says to a mob, "There is the Bank of England,
+why shouldn't you have some of that money?" he says something
+which is at least as honest and intelligible as the figure 4.
+When a writer in the TIMES remarks, "We must raise the economic
+efficiency of the masses without diverting anything from those
+classes which represent the national prosperity and refinement,"
+then his equation cancels out; in a literal and logical sense
+his remark amounts to nothing.
+
+There are two kinds of charlatans or people called quacks to-day.
+The power of the first is that he advertises--and cures.
+The power of the second is that though he is not learned
+enough to cure he is much too learned to advertise.
+The former give away their dignity with a pound of tea;
+the latter are paid a pound of tea merely for being dignified.
+I think them the worse quacks of the two.  [[Shaw]] is certainly
+of the other sort.  Dickens, another man who was great enough
+to be a demagogue (and greater than [[Shaw]] because more heartily
+a demagogue), puts for ever the true difference between the demagogue
+and the mystagogue in DR.  MARIGOLD:  "Except that we're cheap-jacks
+and they're dear-jacks, I don't see any difference between us."
+Bernard [[Shaw]] is a great cheap-jack, with plenty of patter and I
+dare say plenty of nonsense, but with this also (which is not
+wholly unimportant), with goods to sell.  People accuse such
+a man of [[Self|self]]-advertisement. But at least the cheap-jack does
+advertise his wares, whereas the don or dear-jack advertises
+nothing except himself.  His very [[Silence|silence]], nay his very sterility,
+are supposed to be marks of the richness of his erudition.
+He is too learned to teach, and sometimes too wise even to talk.
+St. Thomas [[aquinas|Aquinas]] said:  "In auctore auctoritas."
+But there is more than one man at [[Oxford]] or Cambridge who is
+considered an authority because he has never been an author.
+
+Against all this [[Mystification|mystification]] both of [[Silence|silence]] and verbosity [[Shaw]] has
+been a splendid and smashing protest.  He has stood up for the fact
+that [[philosophy]] is not the concern of those who pass through
+Divinity and Greats, but of those who pass through birth and [[Death|death]].
+Nearly all the most awful and abstruse statements can be put
+in words of one syllable, from "A [[Child|child]] is born" to "A [[Soul|soul]]
+is damned."  If the ordinary man may not discuss existence,
+why should he be asked to conduct it?  About concrete matters
+indeed one naturally appeals to an oligarchy or select class.
+For information about Lapland I go to an aristocracy of Laplanders;
+for the ways of rabbits to an aristocracy of naturalists or,
+preferably, an aristocracy of poachers.  But only mankind itself
+can bear witness to the abstract first principles of mankind,
+and in matters of theory I would always consult the mob.  Only the mass
+of men, for instance, have authority to say whether life is good.
+Whether life is good is an especially mystical and delicate question,
+and, like all such questions, is asked in words of one syllable.
+It is also answered in words of one syllable, and Bernard [[Shaw]]
+(as also mankind) answers "yes."
 
 This plain, pugnacious style of [[Shaw]] has greatly clarified
 all controversies.  He has slain the polysyllable, that huge and
@@ -51,74 +121,3 @@ remote hypotheses or unreal generalisations.  When the orthodox
 economist begins with his correct and primary formula,
 "Suppose there is a Man on an Island--" [[Shaw]] is apt to interrupt
 him sharply, saying, "There is a Man in the Street."
-
-The second phase of the man's really fruitful efficacy is in a sense
-the converse of this.  He has improved philosophic discussions
-by making them more popular.  But he has also improved popular
-amusements by making them more philosophic.  And by more philosophic
-I do not mean duller, but funnier; that is more varied.
-All real fun is in cosmic contrasts, which involve a view of the cosmos.
-But I know that this second strength in [[Shaw]] is really difficult to state
-and must be approached by explanations and even by eliminations.
-Let me say at once that I think nothing of [[Shaw]] or anybody else merely
-for playing the daring sceptic.  I do not think he has done any good
-or even achieved any effect simply by asking startling questions.
-It is possible that there have been ages so sluggish or automatic
-that anything that woke them up at all was a good thing.
-It is sufficient to be certain that ours is not such an age.
-We do not need waking up; rather we suffer from insomnia, with all
-its results of [[Fear|fear]] and exaggeration and frightful waking [[Dreams|dreams]].
-The modern mind is not a [[donkey]] which wants kicking to make it go on.
-The modern mind is more like a motor-car on a lonely [[Road|road]]
-which two amateur motorists have been just clever enough to take
-to pieces, but are not quite clever enough to put together again.
-Under these circumstances kicking the car has never been found by the best
-experts to be effective.  No one, therefore, does any good to our age
-merely by asking questions--unless he can answer the questions.
-Asking questions is already the fashionable and aristocratic
-sport which has brought most of us into the bankruptcy [[Court|court]].
-The note of our age is a note of interrogation.  And the final
-point is so plain; no sceptical philosopher can ask any questions
-that may not equally be asked by a tired [[Child|child]] on a hot afternoon.
-"Am I a boy?--Why am I a boy?--Why aren't I a chair?--What is a chair?"
-A [[Child|child]] will sometimes ask questions of this sort for two hours.
-And the philosophers of Protestant Europe have asked them for
-two hundred years.
-
-If that were all that I meant by [[Shaw]] making men more philosophic,
-I should put it not among his good influences but his bad.
-He did do that to some extent; and so far he is bad.  But there is
-a much bigger and better sense in which he has been a philosopher.
-He has brought back into English drama all the streams
-of fact or tendency which are commonly called undramatic.
-They were there in Shakespeare's [[Time|time]]; but they have scarcely
-been there since until [[Shaw]].  I mean that Shakespeare,
-being interested in everything, put everything into a play.
-If he had lately been thinking about the irony and even
-contradiction confronting us in [[Self|self]]-preservation and [[suicide]],
-he put it all into [[Hamlet|HAMLET]].  If he was annoyed by some passing
-boom in theatrical babies he put that into [[Hamlet|HAMLET]] too.
-He would put anything into [[Hamlet|HAMLET]] which he really thought
-was true, from his favourite nursery ballads to his personal
-(and perhaps unfashionable) conviction of the Catholic purgatory.
-There is no fact that strikes one, I think, about Shakespeare,
-except the fact of how dramatic he could be, so much as the fact
-of how undramatic he could be.
-
-In this great sense [[Shaw]] has brought [[philosophy]] back into drama--
-[[philosophy]] in the sense of a certain [[Freedom|freedom]] of the mind.
-This is not a [[Freedom|freedom]] to think what one likes (which is absurd,
-for one can only think what one thinks); it is a [[Freedom|freedom]]
-to think about what one likes, which is quite a different
-thing and the [[spring]] of all thought.  Shakespeare (in a
-weak moment, I think) said that all the world is a stage.
-But Shakespeare acted on the much finer principle that a stage
-is all the world.  So there are in all Bernard [[Shaw]]'s plays
-patches of what people would call essentially undramatic stuff,
-which the dramatist puts in because he is honest and would rather
-prove his case than succeed with his play.  [[Shaw]] has brought
-back into English drama that Shakespearian universality which,
-if you like, you can call Shakespearian irrelevance.
-Perhaps a better definition than either is a habit of thinking
-the [[Truth|truth]] worth telling even when you meet it by accident.
-In [[Shaw]]'s plays one meets an incredible number of truths by accident.

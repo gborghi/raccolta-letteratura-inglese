@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 55 (part 2)"
+title: "Bleak House — Chapter 55 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -125,17 +125,3 @@ a word to your loving mother, who was growing older too?”
 
 This almost overturns the trooper afresh, but he sets himself up with
 a great, rough, sounding clearance of his throat.
-
-“Heaven forgive me, mother, but I thought there would be small
-consolation then in hearing anything about me. There were you,
-respected and esteemed. There was my brother, as I read in chance
-North Country papers now and then, rising to be prosperous and
-famous. There was I a dragoon, roving, unsettled, not [[Self|self]]-made like
-him, but [[Self|self]]-unmade—all my earlier advantages thrown away, all my
-little learning unlearnt, nothing picked up but what unfitted me for
-most things that I could think of. What business had I to make myself
-known? After letting all that [[Time|time]] go by me, what good could come of
-it? The worst was past with you, mother. I knew by that [[Time|time]] (being a
-man) how you had mourned for me, and wept for me, and prayed for me;
-and the [[Pain|pain]] was over, or was softened down, and I was better in your
-mind as it was.”

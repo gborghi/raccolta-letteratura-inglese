@@ -1700,7 +1700,7 @@ That the play is the [[Tragedy|tragedy]], “Man,”
 
       or may have dreamed that I saw, fall within the goblet, as if
 
-      from some invisible [[Spring|spring]] in the atmosphere of the room, three
+      from some invisible [[spring]] in the atmosphere of the room, three
 
       or four large drops of a brilliant and ruby colored fluid. If
 
@@ -2576,7 +2576,7 @@ A TALE OF THE RAGGED [[Mountains|MOUNTAINS]]
 
       at the period of which I write, had very rarely been known in
 
-      [[America]]. I mean to say, that between Doctor Templeton and Bedloe
+      [[america|America]]. I mean to say, that between Doctor Templeton and Bedloe
 
       there had grown up, little by little, a very distinct and
 
@@ -2638,7 +2638,7 @@ A TALE OF THE RAGGED [[Mountains|MOUNTAINS]]
 
       Upon a dim, warm, misty day, toward the close of November, and
 
-      during the strange interregnum of the [[Seasons|seasons]] which in [[America]] is
+      during the strange interregnum of the [[Seasons|seasons]] which in [[america|America]] is
 
       termed the Indian [[Summer]], Mr. Bedloe departed as usual for the
 
@@ -2780,7 +2780,7 @@ A TALE OF THE RAGGED [[Mountains|MOUNTAINS]]
 
       briskly forward. I rubbed my eyes. I called aloud. I pinched my
 
-      limbs. A small [[Spring|spring]] of [[Water|water]] presented itself to my view, and
+      limbs. A small [[spring]] of [[Water|water]] presented itself to my view, and
 
       here, stooping, I bathed my hands and my head and neck. This
 
@@ -5208,7 +5208,7 @@ THE SPECTACLES
 
       widow without children, she bethought herself of my existence in
 
-      [[America]], and for the purpose of making me her heir, paid a visit
+      [[america|America]], and for the purpose of making me her heir, paid a visit
 
       to the United States, in company with a distant and exceedingly
 

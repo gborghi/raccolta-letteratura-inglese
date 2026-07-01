@@ -16,7 +16,7 @@ tags:
 
 I say he really began to read; for there is a distinction in this case.
 It is not merely a question of the books, but rather of the books behind
-the books.  The fashionable book of [[history]] is at best little better
+the books.  The fashionable book of history is at best little better
 than a leading article; it is founded on the documents as a leading
 article is founded on the news; in both cases a rather careful selection.
 Like a leading article the historical summary is generally partisan;
@@ -24,7 +24,7 @@ and never quite so partisan as when it professes to be impartial.
 Cobbett had to go a little deeper than these superficial summaries to
 trace in the past the truths he had already discovered in the present.
 It was a fortunate coincidence that it was precisely at this
-[[Time|time]] that the most learned and laborious of English historians
+time that the most learned and laborious of English historians
 produced the work on which so many other works have been founded.
 John Lingard was a very moderate man, but even the prejudices he was
 presumed to have gave him a detached position from the fashionable
@@ -33,8 +33,8 @@ his own very moderate version of what had really happened in England;
 and by the use of that material Cobbett produced his own version,
 which some have hesitated to call moderate.
 
-This was the celebrated [[history|History]] of the [[Reformation]], published in 1824.
-The real question at issue about the [[history|History]] of the [[Reformation]]
+This was the celebrated History of the Reformation, published in 1824.
+The real question at issue about the History of the Reformation
 is not so much concerned with a certain state of things as with
 the right reaction to that state of things.  What ought a man
 to do when he believes that public opinion has grown accustomed
@@ -46,10 +46,10 @@ the possibility.  Lingard had a strong case, and deliberately
 understated the case to give a greater impression of impartiality.
 Cobbett had the same strong case, and deliberately flung away all such
 airs of impartiality to prove how completely he had been convinced.
-When Cobbett found that what he conceived to be a [[Truth|truth]] had been
+When Cobbett found that what he conceived to be a truth had been
 concealed by a trick, his reaction was a towering passion;
 and whether that or a more patient exposition be appropriate
-to controversy, there is no [[Doubt|doubt]] about which is appropriate
+to controversy, there is no doubt about which is appropriate
 to Cobbett.  He would have said that when he found a man robbing
 his hen-roost he called out `Stop, thief!' and not `Stop,
 philosophical communist invading the thesis of private property!'
@@ -65,7 +65,7 @@ Veracity has nothing to do with violence, one way or the other.
 One historian may prefer to say, `The Emperor Nero set on foot
 several conspiracies against the life of Agrippina his mother,
 and expressed satisfaction when the final attempt was successful.'
-Another may say, `The bloody and treacherous [[Tyrant|tyrant]] foully murdered
+Another may say, `The bloody and treacherous tyrant foully murdered
 his own mother, and fiendishly exulted in the detestable deed.'
 But the second statement records the same fact as the first,
 and records it equally correctly.  It is accurate to say,

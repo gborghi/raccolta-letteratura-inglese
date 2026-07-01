@@ -1,5 +1,5 @@
 ---
-title: "[[Eugenics]] — Part 1 (part 11)"
+title: "Eugenics — Part 1 (part 11)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/eugenics-(chesterton)"
@@ -13,6 +13,74 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/eugenics/chapter_02/part_10">‹ part 10</a><a class="ex-next" href="/testi/chesterton/atomized/eugenics/chapter_02/part_12">part 12 ›</a></div>
 </nav>
 
+
+I hold it clear, therefore, if anything is clear about the business,
+that the Eugenists do not merely mean that the mass of common
+men should settle each other's marriages between them;
+the question remains, therefore, whom they do instinctively trust
+when they say that this or that ought to be done.  What is this flying
+and evanescent authority that vanishes wherever we seek to fix it?
+Who is the man who is the lost subject that governs the Eugenist's verb?
+In a large number of cases I think we can simply say that
+the individual Eugenist means himself and nobody else.
+Indeed one Eugenist, Mr. A. H. Huth, actually had a sense of [[Humour|humour]],
+and admitted this.  He thinks a great deal of good could be done
+with a surgical knife, if we would only turn him loose with one.
+And this may be true.  A great deal of good could be done with a
+loaded revolver, in the hands of a judicious student of human [[Nature|nature]].
+But it is imperative that the Eugenist should perceive that on that
+principle we can never get beyond a perfect balance of different
+sympathies and antipathies.  I mean that I should differ from Dr. Saleeby
+or Dr. Karl Pearson not only in a vast majority of individual cases,
+but in a vast majority of cases in which they would be bound to admit
+that such a difference was natural and reasonable.  The chief
+victim of these famous doctors would be a yet more famous doctor:
+that eminent though unpopular practitioner, Dr. Fell.
+
+To show that such rational and serious differences do exist, I will
+take one instance from that Bill which proposed to protect families
+and the public generally from the burden of feeble-minded persons.
+Now, even if I could share the Eugenic contempt for human rights,
+even if I could start gaily on the Eugenic campaign,
+I should not begin by removing feeble-minded persons.
+I have known as many families in as many classes as most men;
+and I cannot remember meeting any very monstrous human [[Suffering|suffering]]
+arising out of the presence of such insufficient and negative types.
+There seems to be comparatively few of them; and those few by no
+means the worst burdens upon domestic happiness.  I do not hear
+of them often; I do not hear of them doing much more harm than good;
+and in the few cases I know [[Well|well]] they are not only regarded with
+human affection, but can be put to certain limited forms of human use.
+Even if I were a Eugenist, then I should not personally elect to waste
+my [[Time|time]] locking up the feeble-minded. The people I should lock up would
+be the strong-minded. I have known hardly any cases of mere mental
+weakness making a family a failure; I have known eight or nine cases
+of violent and exaggerated force of character making a family a hell.
+If the strong-minded could be segregated it would quite certainly
+be better for their friends and families.  And if there is really
+anything in heredity, it would be better for posterity too.
+For the kind of egoist I mean is a madman in a much more plausible
+sense than the mere harmless "deficient"; and to hand on the horrors
+of his anarchic and insatiable temperament is a much graver
+responsibility than to leave a mere inheritance of childishness.
+I would not arrest such tyrants, because I think that even
+moral tyranny in a few homes is better than a medical tyranny
+turning the state into a madhouse.  I would not segregate them,
+because I respect a man's free-will and his front door and his
+right to be tried by his peers.  But since free-will is believed
+by Eugenists no more than by Calvinists, since front-doors
+are respected by Eugenists no more than by [[house]]-breakers,
+and since the Habeas Corpus is about as sacred to Eugenists as it
+would be to [[King John]], why do not they bring light and peace into
+so many human homes by removing a demoniac from each of them?
+Why do not the promoters of the Feeble-Minded Bill call at the many
+grand houses in town or county where such nightmares notoriously are?
+Why do they not knock at the door and take the bad squire away?
+Why do they not ring the bell and remove the dipsomaniac prize fighter?
+I do not know; and there is only one reason I can think of,
+which must remain a matter of speculation.  When 1 was at school,
+the kind of boy who liked teasing halfwits was not the sort that stood
+up to bullies.
 
 That, however it may be, does not concern my argument.
 I mention the case of the strong-minded variety of the monstrous
@@ -63,88 +131,3 @@ they have discovered how to combine the hardening of the heart with a
 sympathetic softening of the head.  Nevertheless, there is one large,
 though vague, idea of the Eugenists, which is an idea, and which we
 reach when we reach this problem of a more general supervision.
-
-It was best presented perhaps by the distinguished doctor who wrote
-the article on these matters in that composite book which Mr. Wells
-edited, and called "The Great State."  He said the doctor should
-no longer be a mere plasterer of paltry maladies, but should be,
-in his own words, "the health adviser of the community."  The same can
-be expressed with even more point and simplicity in the proverb that
-prevention is better than cure.  Commenting on this, I said that it
-amounted to treating all people who are [[Well|well]] as if they were ill.
-This the writer admitted to be true, only adding that everyone is ill.
-To which I rejoin that if everyone is ill the health advisor is ill too,
-and therefore cannot know how to cure that minimum of illness.
-This is the fundamental fallacy in the whole business of
-preventive medicine.  Prevention is not better than cure.
-Cutting off a man's head is not better than curing his headache;
-it is not even better than failing to cure it.  And it is the same if
-a man is in revolt, even a morbid revolt.  Taking the heart out of him
-by [[Slavery|slavery]] is not better than leaving the heart in him, even if you
-leave it a broken heart.  Prevention is not only not better than cure;
-prevention is even worse than disease.  Prevention means being an
-invalid for life, with the extra exasperation of being quite [[Well|well]].
-I will ask God, but certainly not man, to prevent me in all my doings.
-But the decisive and discussable form of this is [[Well|well]] summed
-up in that phrase about the health adviser of society.
-I am sure that those who speak thus have something in their minds
-larger and more illuminating than the other two propositions we
-have considered.  They do not mean that all citizens should decide,
-which would mean merely the present vague and dubious balance.
-They do not mean that all medical men should decide, which would mean
-a much more unbalanced balance.  They mean that a few men might be
-found who had a consistent scheme and vision of a healthy nation,
-as Napoleon had a consistent scheme and vision of an army.
-It is cold anarchy to say that all men are to meddle in all
-men's marriages.  It is cold anarchy to say that any doctor
-may seize and segregate anyone he likes.  But it is not anarchy
-to say that a few great hygienists might enclose or limit the life
-of all citizens, as nurses do with a family of children.
-It is not anarchy, it is tyranny; but tyranny is a workable thing.
-When we ask by what process such men could be certainly chosen,
-we are back again on the old dilemma of despotism, which means a man,
-or [[democracy]] which means men, or aristocracy which means favouritism.
-But as a vision the thing is plausible and even rational.
-It is rational, and it is wrong.
-
-It is wrong, quite apart from the suggestion that an expert on
-health cannot be chosen.  It is wrong because an expert on health
-cannot exist.  An expert on disease can exist, for the very reason
-we have already considered in the case of [[Madness|madness]], because experts
-can only arise out of exceptional things.  A parallel with any
-of the other learned professions will make the point plain.
-If I am prosecuted for trespass, I will ask my solicitor which of
-the local lanes I am forbidden to walk in.  But if my solicitor,
-having gained my case, were so elated that he insisted on settling
-what lanes I should walk in; if he asked me to let him map out
-all my country walks, because he was the perambulatory adviser
-of the community --- then that Solicitor would solicit in vain.
-If he will insist on walking behind me through woodland ways,
-pointing out with his walking-stick likely avenues and attractive
-short-cuts, I shall turn on him with passion, saying "Sir, I pay
-you to know one particular puzzle in Latin and Norman French,
-which they call the law of England; and you do know the law of England.
-I have never had any earthly reason to suppose that you know England.
-If you did, you would leave a man [[Alone|alone]] when he was looking at it."
-As are the limits of the lawyer's special knowledge about walking,
-so are the limits of the doctor's. If I fall over the stump
-of a tree and break my leg, as is likely enough, I shall say
-to the lawyer, "Please go and fetch the doctor."  I shall do it
-because the doctor really has a larger knowledge of a narrower area.
-There are only a certain number of ways in which a leg can
-be broken; I know none of them, and he knows all of them.
-There is such a thing as being a specialist in broken legs.
-There is no such thing as being a specialist in legs.  When unbroken,
-legs are a matter of taste.  If the doctor has really mended my leg,
-he may merit a colossal equestrian statue on the top of an eternal
-tower of brass.  But if the doctor has really mended my leg he has
-no more rights over it.  He must not come and teach me how to walk;
-because he and I learnt that in the same school, the nursery.
-And there is no more abstract likelihood of the doctor
-walking more elegantly than I do than there is of the barber
-or the bishop or the burglar walking more elegantly than I do.
-There cannot be a general specialist; the specialist can have no
-kind of authority, unless he has avowedly limited his range.
-There cannot be such a thing as the health adviser of the community,
-because there cannot be such a thing as one who specialises
-in the universe.

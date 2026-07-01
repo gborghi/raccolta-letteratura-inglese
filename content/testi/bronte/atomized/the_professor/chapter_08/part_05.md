@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 7 (part 5)"
+title: "The Professor — Chapter 7 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -14,6 +14,24 @@ tags:
 </nav>
 
 
+voices of the demoiselles in their hours of recreation, and, to speak
+
+the honest [[Truth|truth]], my sentimental reflections were occasionally a trifle
+
+disarranged by the not quite silvery, in fact the too often brazen
+
+sounds, which, rising from the unseen paradise below, penetrated
+
+clamorously into my [[Solitude|solitude]]. Not to mince matters, it really seemed to
+
+me a doubtful case whether the lungs of Mdlle. Reuter’s girls or those
+
+of M. Pelet’s boys were the strongest, and when it came to shrieking
+
+the girls indisputably beat the boys hollow. I forgot to say, by-the-by,
+
+that Reuter was the name of the old lady who had had my [[Window|window]] bearded
+
 up. I say old, for such I, of course, concluded her to be, judging from
 
 her cautious, chaperon-like proceedings; besides, nobody ever spoke of
@@ -27,8 +45,6 @@ continental nations do allow themselves vagaries in the choice of names,
 such as we sober English never run into. I think, indeed, we have too
 
 limited a list to choose from.
-
-
 
 Meantime my path was gradually growing smooth before me. I, in a
 
@@ -55,8 +71,6 @@ uncommon one. Before concluding this chapter I will say a word on the
 system I pursued with regard to my classes: my experience may possibly
 
 be of use to others.
-
-
 
 It did not require very keen observation to detect the character of the
 
@@ -85,8 +99,6 @@ injudicious and arbitrary measures on the part of [[The Professor|the Professor]
 would have resisted as obstinately, as clamorously, as desperate swine;
 
 and though not brave singly, they were relentless acting EN MASSE.
-
-
 
 I understood that before my arrival in M. Pelet’s establishment, the
 

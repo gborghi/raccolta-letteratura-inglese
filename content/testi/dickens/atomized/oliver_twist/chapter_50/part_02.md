@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 50 (part 2)"
+title: "Oliver Twist — Chapter 50 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_50/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_50/part_03">part 03 ›</a></div>
 </nav>
 
+
+“And Bet?”
+
+“Poor Bet! She went to see the [[Body]], to speak to who it was,” replied
+Chitling, his countenance falling more and more, “and went off mad,
+screaming and raving, and beating her head against the boards; so they
+put a strait-weskut on her and took her to the hospital—and there she
+is.”
 
 “Wot’s come of young Bates?” demanded Kags.
 
@@ -141,17 +149,3 @@ They were silent again.
 
 “Damn you all!” said Sikes, passing his hand across his forehead. “Have
 you nothing to say to me?”
-
-There was an uneasy movement among them, but nobody spoke.
-
-“You that keep this [[house]],” said Sikes, turning his face to Crackit,
-“do you mean to sell me, or to let me lie here till this hunt is over?”
-
-“You may stop here, if you think it safe,” returned the person
-addressed, after some hesitation.
-
-Sikes carried his eyes slowly up the wall behind him: rather trying to
-turn his head than actually doing it: and said, “Is—it—the [[Body|body]]—is it
-buried?”
-
-They shook their heads.

@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 51 (part 2)"
+title: "Great Expectations — Chapter 51 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_51/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_51/part_03">part 03 ›</a></div>
 </nav>
 
+
+“And on what evidence, Pip,” asked Mr. Jaggers, very coolly, as he
+paused with his handkerchief half way to his nose, “does Provis make
+this claim?”
 
 “He does not make it,” said I, “and has never made it, and has no
 knowledge or belief that his daughter is in existence.”
@@ -126,17 +130,3 @@ produced. Give the [[Child|child]] into my hands, and I will do my best to bring
 you off. If you are saved, your [[Child|child]] is saved too; if you are lost,
 your [[Child|child]] is still saved.” Put the case that this was done, and that
 the woman was cleared.”
-
-“I understand you perfectly.”
-
-“But that I make no admissions?”
-
-“That you make no admissions.” And Wemmick repeated, “No admissions.”
-
-“Put the case, Pip, that passion and the terror of [[Death|death]] had a little
-shaken the woman’s intellects, and that when she was set at liberty,
-she was scared out of the ways of the world, and went to him to be
-sheltered. Put the case that he took her in, and that he kept down the
-old, wild, violent [[Nature|nature]] whenever he saw an inkling of its breaking
-out, by asserting his power over her in the old way. Do you comprehend
-the imaginary case?”

@@ -14,6 +14,43 @@ tags:
 </nav>
 
 
+"I see him coming across the moor. He's making a bee line across the
+
+open country toward this tower. He evidently means to pay us a
+
+visit. And, considering who it seems to be, perhaps it would be more
+
+polite if we were all at the door to receive him." And in a
+
+leisurely manner the secretary came down the ladder.
+"Who it seems to be!" repeated Sir Walter in astonishment.
+"[[Well]], I think it's the man you call Prince [[Michael]]," observed Mr.
+
+Fisher, airily. "In fact, I'm sure it is. I've seen the police
+
+portraits of him."
+There was a dead [[Silence|silence]], and Sir Walter's usually steady brain
+
+seemed to go round like a windmill.
+"But, hang it all!" he said at last, "even supposing his own
+
+explosion could have thrown him half a mile away, without passing
+
+through any of the windows, and left him alive enough for a country
+
+walk—even then, why the devil should he walk in this direction?
+
+The murderer does not generally revisit the scene of his crime so
+
+rapidly as all that."
+"He doesn't know yet that it is the scene of his crime," answered
+
+Horne Fisher.
+"What on earth do you mean? You credit him with rather singular
+
+absence of mind."
+"[[Well]], the [[Truth|truth]] is, it isn't the scene of his crime," said Fisher,
+
 and went and looked out of the [[Window|window]].
 There was another [[Silence|silence]], and then Sir Walter said, quietly: "What
 
@@ -151,41 +188,3 @@ passed suddenly from the dignity of a statue to the swiftness of an
 
 acrobat and rent the revolver out of the [[Detective|detective]]'s hand.
 "You dog!" he cried. "So you are the type of English [[Truth|truth]], as I am
-
-of Irish [[Tragedy|tragedy]]—you who come to kill me, wading through the [[Blood|blood]]
-
-of your brethren. If they had fallen in a feud on the hillside, it
-
-would be called murder, and yet your sin might be forgiven you. But
-
-I, who am [[Innocent|innocent]], I was to be slain with ceremony. There would
-
-be long speeches and patient judges listening to my vain plea of
-
-[[innocence]], noting down my [[Despair|despair]] and disregarding it. Yes, that is
-
-what I call assassination. But killing may be no murder; there is
-
-one shot left in this little gun, and I know where it should go."
-Wilson turned quickly on the table, and even as he turned he twisted
-
-in agony, for [[Michael]] shot him through the [[Body|body]] where he sat, so
-
-that he tumbled off the table like lumber.
-The police rushed to lift him; Sir Walter stood speechless; and
-
-then, with a strange and weary gesture, Horne Fisher spoke.
-"You are indeed a type of the Irish [[Tragedy|tragedy]]," he said. "You were
-
-entirely in the right, and you have put yourself in the wrong."
-The prince's face was like marble for a space then there dawned in
-
-his eyes a light not unlike that of [[Despair|despair]]. He laughed suddenly and
-
-flung the smoking [[Pistol|pistol]] on the ground.
-"I am indeed in the wrong," he said. "I have committed a crime that
-
-may justly bring a curse on me and my children."
-Horne Fisher did not seem entirely satisfied with this very sudden
-
-repentance; he kept his eyes on the man and only said, in a low

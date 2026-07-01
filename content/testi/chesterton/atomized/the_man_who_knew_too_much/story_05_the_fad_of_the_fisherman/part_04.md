@@ -14,6 +14,20 @@ tags:
 </nav>
 
 
+sideboard at intervals during the hours verging upon lunch. So that
+
+it was not many hours later when the first sensation of that strange
+
+day came upon them. It came in the form of a young man with light
+
+hair and a candid expression, who came sculling down the [[River|river]] and
+
+disembarked at the landing stage. It was, in fact, no other than Mr.
+
+Harold March, whose [[Journey|journey]] had begun far away up the [[River|river]] in the
+
+earliest hours of that day. He arrived late in the afternoon, having
+
 stopped for tea in a large riverside town, and he had a pink evening
 
 paper sticking out of his pocket. He fell on the riverside [[Garden|garden]]
@@ -175,23 +189,3 @@ paper in his hand, and, with a few words, pointed out the
 apocalyptic paragraph. The duke, who had been walking slowly, stood
 
 quite still, and for some seconds he looked like a tailor's dummy
-
-standing and staring outside some antiquated shop. Then March heard
-
-his voice, and it was high and almost hysterical:
-"But he must see it; he must be made to understand. It cannot have
-
-been put to him properly." Then, with a certain recovery of fullness
-
-and even pomposity in the voice, "I shall go and tell him myself."
-Among the queer incidents of that afternoon, March always remembered
-
-something almost comical about the clear picture of the old
-
-gentleman in his wonderful white hat carefully stepping from stone
-
-to stone across the [[River|river]], like a figure crossing the traffic in
-
-Piccadilly. Then he disappeared behind the trees of the island, and
-
-March and Fisher turned to meet the Attorney-General, who was coming

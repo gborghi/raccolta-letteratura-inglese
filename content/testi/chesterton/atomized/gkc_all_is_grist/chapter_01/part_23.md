@@ -14,6 +14,41 @@ tags:
 </nav>
 
 
+But this wild [[Romance|romance]] of popular science spread wider and wider.
+What is odd about it is not its [[Truth|truth]] or untruth, but the unresisted
+smoothness with which it spread over one field after another.
+I know so little of the scientific study itself that I should not think
+of denying the possibility of some sort of inherited drunkenness;
+though I cannot make any sense of the theory of inherited alcoholism.
+But why were hundreds and thousands of people, who knew even less science
+than I do, instantly and calmly assured that drunkenness was hereditary?
+Why did they begin at once to watch the doubtful steps of the curate,
+because his great-uncle the Admiral was found drunk in a ditch on
+Trafalgar Day?  Why did they eagerly watch for the [[Fire|fire]] of alcoholic
+craving in the eyes of the new-born infant who was remotely descended
+from Three-Bottle Thumpington?  The question grows wilder as the
+application grew wider.  The next thing we heard was the cheerful news
+that Assassination was a regular family feature, like a family nose.
+As in the other cases, it was not so much stated by scientific people
+as spread by unscientific people as the last scientific news.
+A brilliant lady novelist lately based a whole [[Novel|novel]] upon it,
+called Red Sky at Morning, in which a hazy, good-natured youth kills
+somebody for a very insufficient reason, merely because his father
+fifty years ago had killed somebody quite different for a totally
+different reason.  All this seems to me highly irrational.  There are
+almost as many motives for murdering men as there are men to murder.
+A man kills because he is blackmailed, or because he is jilted,
+or because he is a political fanatic, and so on.  But how do you
+inherit a blackmailer, or an unreliable girl, or a political theory?
+There certainly is inheritance, as of physical type, perhaps of
+physical temperament; of being indolent or restless and so on.
+But the number of lazy men who will murder a valet for waking them
+up is about as large as the number of impatient men who will murder
+him for keeping them waiting.  That is to say, it is very small.
+The mysterious moral inhibition, or its absence, by which men
+do or do not murder, is in the individual [[Soul|soul]]; and I defy anybody
+to show that it is hereditary.
+
 What is the meaning of this popular superstition?  In existing relations
 of religion and good taste, I can only suggest it in a [[Parable|parable]].
 On the highest and hoariest of the ashpits of hell sits the oldest
@@ -81,40 +116,3 @@ but from the quite definite words at the end of the Vita Nuova.
 But when the opposite extreme of criticism suggests that human
 [[Love|love]] is the whole subject of both books, then, as Mr. Eliot shows,
 it makes even worse nonsense out of the whole business.
-
-For the Romantics of the nineteenth century really implied that God
-and the Universe, Heaven, Hell, and Purgatory, were all one elaborate
-and rather laborious compliment to [[Beatrice]] Portinari.  It is truer
-to say that, in the true sense, [[Beatrice]] is a compliment to God.
-She is lifted like [[Flowers|flowers]] on an altar, or flames on a candlestick,
-to be an example of that earthly [[Beauty|beauty]] which, used rightly, can lead us
-to heavenly [[Beauty|beauty]].  And in this case the critics have missed the whole
-point of the comparison between the Vita Nuova and the Divine [[Comedy]].
-The point is that the first slight, youthful, merely emotional
-story is really a sad story; it is only the completion in Paradise
-that is a joyful story.  The former has an unhappy ending--or, rather,
-that most unhappy ending which consists in having no ending.
-It is the mere [[Fragment|fragment]] of a human [[Tragedy|tragedy]]; it is only the
-religious [[Epic|epic]] that is, in the exact sense, a divine [[Comedy|comedy]].
-[[Dante]] is drawn as a dark and bitter spirit; but in fact he wrote
-the only one of the great epics that really has a happy ending.
-
-The trouble was that the age of the Romantics was the age of
-the Rationalists, or those who thought they were Rationalists.
-Having figured as ruthless realists sweeping all spiritual visions
-like cobwebs out of the sky, they then suddenly became extravagant
-sentimentalists over some of the common or [[Garden|garden]] [[Flowers|flowers]] they found
-growing naturally out of the earth.  Having forbidden all belief
-in the legend of Adam and Eve, they demanded universal and absolute
-belief in the legend of Edwin and Angelina.  They were not content
-with the natural sympathy we all have with such natural feelings;
-they really gave to them the supremacy of [[Supernatural|supernatural]] feelings--
-and (what is the real point) the only [[Supernatural|supernatural]] feelings.
-They did not use the coarse cant of our day; but they did, in fact,
-make Sex the supreme end of life for its own sake--in which they
-were much less sensible than the common or [[Garden|garden]] [[Flowers|flowers]].
-They therefore missed the whole meaning of [[Dante]], which is
-that human [[Love|love]] may indeed be a new life; but the new life
-must be dedicated to a supreme good as much as the old life.
-All other goods are only manifestations of that supreme good, and must
-ultimately be referred to it, as [[Beatrice]] to the Beatific Vision.

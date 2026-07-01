@@ -1,5 +1,5 @@
 ---
-title: "A Midsummer Nights Dream — Act II, Scene 2 — exchange ([[Lysander|LYSANDER]]) [3]"
+title: "A Midsummer Nights Dream — Act II, Scene 2 — exchange (LYSANDER) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/a-midsummer-night’s-dream-(shakespeare)"

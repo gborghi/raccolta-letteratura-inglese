@@ -14,6 +14,12 @@ tags:
 </nav>
 
 
+‘Who are they?’ whispered the landlord.
+
+Short shook his head, and wished he knew himself.
+
+‘Don’t you know?’ asked the host, turning to Mr Codlin.
+
 ‘Not I,’ he replied.  ‘They’re no good, I suppose.’
 
 ‘They’re no harm,’ said Short.  ‘Depend upon that.  I tell you
@@ -124,27 +130,3 @@ legs when there was no occasion, and falling down again.
 capacious pocket of his coat, and diving into one corner as if he were
 feeling for a small orange or an apple or some such article, ‘a animal
 here, wot I think you know something of, Short.’
-
-‘Ah!’ cried Short, ‘let’s have a look at him.’
-
-‘Here he is,’ said Jerry, producing a little terrier from his pocket.
-‘He was once a Toby of yours, warn’t he!’
-
-In some versions of the great drama of Punch there is a small dog--a
-modern innovation--supposed to be the private property of that
-gentleman, whose name is always Toby.  This Toby has been stolen in
-youth from another gentleman, and fraudulently sold to the confiding
-[[Hero|hero]], who having no guile himself has no suspicion that it lurks in
-others; but Toby, entertaining a grateful recollection of his old
-master, and scorning to attach himself to any new patrons, not only
-refuses to smoke a pipe at the bidding of Punch, but to mark his old
-fidelity more strongly, seizes him by the nose and wrings the same with
-violence, at which instance of canine attachment the spectators are
-deeply affected.  This was the character which the little terrier in
-question had once sustained; if there had been any [[Doubt|doubt]] upon the
-subject he would speedily have resolved it by his conduct; for not only
-did he, on seeing Short, give the strongest tokens of recognition, but
-catching sight of the flat box he barked so furiously at the pasteboard
-nose which he knew was inside, that his master was obliged to gather
-him up and put him into his pocket again, to the great relief of the
-whole company.

@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 31 (part 1)"
+title: "Barnaby Rudge — Chapter 31 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -113,8 +113,3 @@ and of unearthly colours), he was frequently supposed by the more
 ignorant and uninformed among the neighbours, to be the veritable
 portrait of the host as he appeared on the occasion of some great
 funeral ceremony or public mourning.
-
-‘What noisy fellow is that in the next room?’ said Joe, when he had
-disposed of his breakfast, and had washed and brushed himself.
-
-‘A recruiting serjeant,’ replied the [[Lion]].

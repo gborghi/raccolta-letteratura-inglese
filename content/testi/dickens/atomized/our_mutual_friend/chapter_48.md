@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 7"
+title: "Our Mutual Friend — Chapter 10"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,542 +14,652 @@ tags:
 </nav>
 
 
-Chapter 7
-
-THE FRIENDLY MOVE TAKES UP A STRONG POSITION
-
-
-The friendly movers sat upright on the floor, panting and eyeing one
-another, after Mr Boffin had slammed the gate and gone away. In the weak
-eyes of [[Venus]], and in every reddish [[Dust|dust]]-coloured hair in his shock of
-hair, there was a marked distrust of Wegg and an alertness to fly at him
-on perceiving the smallest occasion. In the hard-grained face of Wegg,
-and in his stiff knotty figure (he looked like a German wooden toy),
-there was expressed a politic conciliation, which had no spontaneity in
-it. Both were flushed, flustered, and rumpled, by the late scuffle; and
-Wegg, in coming to the ground, had received a humming knock on the back
-of his devoted head, which caused him still to rub it with an air of
-having been highly—but disagreeably—astonished. Each was silent for
-some [[Time|time]], leaving it to the other to begin.
-
-‘Brother,’ said Wegg, at length breaking the [[Silence|silence]], ‘you were right,
-and I was wrong. I forgot myself.’
-
-[[Mr Venus]] knowingly cocked his shock of hair, as rather thinking Mr Wegg
-had remembered himself, in respect of appearing without any disguise.
-
-‘But comrade,’ pursued Wegg, ‘it was never your lot to know Miss
-Elizabeth, Master George, Aunt Jane, nor Uncle Parker.’
-
-[[Mr Venus]] admitted that he had never known those distinguished persons,
-and added, in effect, that he had never so much as desired the [[Honour|honour]] of
-their acquaintance.
-
-‘Don’t say that, comrade!’ retorted Wegg: ‘No, don’t say that! Because,
-without having known them, you never can fully know what it is to be
-stimilated to frenzy by the sight of the [[Usurper]].’
+Chapter 10
 
-Offering these excusatory words as if they reflected great credit on
-himself, Mr Wegg impelled himself with his hands towards a chair in
-a corner of the room, and there, after a variety of awkward gambols,
-attained a perpendicular position. [[Mr Venus]] also [[Rose|rose]].
-
-‘Comrade,’ said Wegg, ‘take a seat. Comrade, what a speaking countenance
-is yours!’
-
-[[Mr Venus]] involuntarily smoothed his countenance, and looked at his hand,
-as if to see whether any of its speaking properties came off.
-
-‘For clearly do I know, mark you,’ pursued Wegg, pointing his words
-with his forefinger, ‘clearly do I know what question your expressive
-features puts to me.’
-
-‘What question?’ said [[Venus]].
-
-‘The question,’ returned Wegg, with a sort of joyful affability, ‘why
-I didn’t mention sooner, that I had found something. Says your speaking
-countenance to me: “Why didn’t you communicate that, when I first come
-in this evening? Why did you keep it back till you thought Mr Boffin had
-come to look for the article?” Your speaking countenance,’ said Wegg,
-‘puts it plainer than language. Now, you can’t read in my face what
-answer I give?’
-
-‘No, I can’t,’ said [[Venus]].
-
-‘I knew it! And why not?’ returned Wegg, with the same joyful candour.
-‘Because I lay no claims to a speaking countenance. Because I am [[Well|well]]
-aware of my deficiencies. All men are not gifted alike. But I can answer
-in words. And in what words? These. I wanted to give you a delightful
-sap—pur—IZE!’
-
-Having thus elongated and emphasized the word Surprise, Mr Wegg shook
-his friend and brother by both hands, and then clapped him on both
-knees, like an affectionate patron who entreated him not to mention so
-small a service as that which it had been his happy privilege to render.
-
-‘Your speaking countenance,’ said Wegg, ‘being answered to its
-satisfaction, only asks then, “What have you found?” Why, I hear it say
-the words!’
+SCOUTS OUT
 
-‘[[Well]]?’ retorted [[Venus]] snappishly, after waiting in vain. ‘If you hear
-it say the words, why don’t you answer it?’
-
-‘Hear me out!’ said Wegg. ‘I’m a-going to. Hear me out! Man and brother,
-partner in feelings equally with undertakings and actions, I have found
-a cash-box.’
-
-‘Where?’
-
-‘—Hear me out!’ said Wegg. (He tried to reserve whatever he could, and,
-whenever disclosure was forced upon him, broke into a radiant gush of
-Hear me out.) ‘On a certain day, sir—’
-
-‘When?’ said [[Venus]] bluntly.
-
-‘N—no,’ returned Wegg, shaking his head at once observantly,
-thoughtfully, and playfully. ‘No, sir! That’s not your expressive
-countenance which asks that question. That’s your voice; merely your
-voice. To proceed. On a certain day, sir, I happened to be walking in
-the yard—taking my lonely round—for in the words of a friend of my own
-family, the author of All’s [[Well]] arranged as a duett:
-
-     “Deserted, as you will remember, [[Mr Venus]], by the waning
-     [[Moon|moon]],
-     When [[Stars|stars]], it will occur to you before I mention it, proclaim
-     [[Night|night]]’s cheerless [[Noon|noon]],
-     On tower, fort, or tented ground,
-     The sentry walks his lonely round,
-     The sentry walks;”
-
-—under those circumstances, sir, I happened to be walking in the yard
-early one afternoon, and happened to have an iron rod in my hand, with
-which I have been sometimes accustomed to beguile the monotony of a
-literary life, when I struck it against an object not necessary to
-trouble you by naming—’
-
-‘It is necessary. What object?’ demanded [[Venus]], in a wrathful tone.
-
-‘—Hear me out!’ said Wegg. ‘The Pump.—When I struck it against the
-Pump, and found, not only that the top was loose and opened with a lid,
-but that something in it rattled. That something, comrade, I discovered
-to be a small flat oblong cash-box. Shall I say it was disappointingly
-light?’
-
-‘There were papers in it,’ said [[Venus]].
-
-‘There your expressive countenance speaks indeed!’ cried Wegg. ‘A
-paper. The box was locked, tied up, and sealed, and on the outside was
-a parchment label, with the writing, “MY WILL, [[John Harmon|JOHN HARMON]], TEMPORARILY
-DEPOSITED HERE.”’
-
-‘We must know its contents,’ said [[Venus]].
-
-‘—Hear me out!’ cried Wegg. ‘I said so, and I broke the box open.’
-
-‘Without coming to me!’ exclaimed [[Venus]].
-
-‘Exactly so, sir!’ returned Wegg, blandly and buoyantly. ‘I see I take
-you with me! Hear, hear, hear! Resolved, as your discriminating good
-sense perceives, that if you was to have a sap—pur—IZE, it should be
-a complete one! [[Well]], sir. And so, as you have honoured me by
-anticipating, I examined the document. Regularly executed, regularly
-witnessed, very short. Inasmuch as he has never made friends, and has
-ever had a rebellious family, he, [[John Harmon]], gives to [[Nicodemus Boffin]]
-the Little Mound, which is quite enough for him, and gives the whole
-rest and residue of his property to the [[Crown]].’
-
-‘The date of the will that has been proved, must be looked to,’ remarked
-[[Venus]]. ‘It may be later than this one.’
-
-‘—Hear me out!’ cried Wegg. ‘I said so. I paid a shilling (never mind
-your sixpence of it) to look up that will. Brother, that will is dated
-months before this will. And now, as a fellow-man, and as a partner in a
-friendly move,’ added Wegg, benignantly taking him by both hands again,
-and clapping him on both knees again, ‘say have I completed my labour of
-[[Love|love]] to your perfect satisfaction, and are you sap—pur—IZED?’
-
-[[Mr Venus]] contemplated his fellow-man and partner with doubting eyes, and
-then rejoined stiffly:
-
-‘This is great news indeed, Mr Wegg. There’s no denying it. But I could
-have wished you had told it me before you got your fright to-[[Night|night]], and
-I could have wished you had ever asked me as your partner what we were
-to do, before you thought you were dividing a responsibility.’
-
-‘—Hear me out!’ cried Wegg. ‘I knew you was a-going to say so. But
-[[Alone|alone]] I bore the anxiety, and [[Alone|alone]] I’ll bear the blame!’ This with an
-air of great magnanimity.
-
-‘No,’ said [[Venus]]. ‘Let’s see this will and this box.’
-
-‘Do I understand, brother,’ returned Wegg with considerable reluctance,
-‘that it is your wish to see this will and this—?’
-
-[[Mr Venus]] smote the table with his hand.
-
-‘—Hear me out!’ said Wegg. ‘Hear me out! I’ll go and fetch ’em.’
-
-After being some [[Time|time]] absent, as if in his covetousness he could hardly
-make up his mind to produce the treasure to his partner, he returned
-with an old leathern hat-box, into which he had put the other box,
-for the better preservation of commonplace appearances, and for the
-disarming of suspicion. ‘But I don’t half like opening it here,’ said
-Silas in a low voice, looking around: ‘he might come back, he may not be
-gone; we don’t know what he may be up to, after what we’ve seen.’
-
-‘There’s something in that,’ assented [[Venus]]. ‘Come to my place.’
-
-Jealous of the custody of the box, and yet fearful of opening it under
-the existing circumstances, Wegg hesitated. ‘Come, I tell you,’ repeated
-[[Venus]], chafing, ‘to my place.’ Not very [[Well|well]] seeing his way to a
-refusal, Mr Wegg then rejoined in a gush, ‘—Hear me out!—Certainly.’
-So he locked up the Bower and they set forth: [[Mr Venus]] taking his arm,
-and keeping it with remarkable tenacity.
-
-They found the usual dim light burning in the [[Window|window]] of [[Mr Venus]]’s
-establishment, imperfectly disclosing to the public the usual pair
-of preserved frogs, [[Sword|sword]] in hand, with their point of [[Honour|honour]] still
-unsettled. [[Mr Venus]] had closed his shop door on coming out, and now
-opened it with the key and shut it again as soon as they were within;
-but not before he had put up and barred the shutters of the shop [[Window|window]].
-‘No one can get in without being let in,’ said he then, ‘and we couldn’t
-be more snug than here.’ So he raked together the yet warm cinders in
-the rusty grate, and made a [[Fire|fire]], and trimmed the candle on the little
-counter. As the [[Fire|fire]] cast its flickering gleams here and there upon the
-dark greasy walls; the Hindoo baby, the African baby, the articulated
-English baby, the assortment of skulls, and the rest of the collection,
-came starting to their various stations as if they had all been out,
-like their master and were punctual in a general rendezvous to assist
-at the secret. The French gentleman had grown considerably since Mr Wegg
-last saw him, being now accommodated with a pair of legs and a head,
-though his arms were yet in abeyance. To whomsoever the head had
-originally belonged, [[Silas Wegg]] would have regarded it as a personal
-favour if he had not cut quite so many teeth.
-
-Silas took his seat in [[Silence|silence]] on the wooden box before the [[Fire|fire]], and
-[[Venus]] dropping into his low chair produced from among his [[skeleton]]
-hands, his tea-tray and tea-cups, and put the kettle on. Silas inwardly
-approved of these preparations, trusting they might end in [[Mr Venus]]’s
-diluting his intellect.
-
-‘Now, sir,’ said [[Venus]], ‘all is safe and quiet. Let us see this
-discovery.’
-
-With still reluctant hands, and not without several glances towards the
-[[skeleton]] hands, as if he mistrusted that a couple of them might [[Spring|spring]]
-forth and clutch the document, Wegg opened the hat-box and revealed the
-cash-box, opened the cash-box and revealed the will. He held a corner
-of it tight, while [[Venus]], taking hold of another corner, searchingly and
-attentively read it.
-
-‘Was I correct in my account of it, partner?’ said Mr Wegg at length.
-
-‘Partner, you were,’ said [[Mr Venus]].
-
-Mr Wegg thereupon made an easy, graceful movement, as though he would
-fold it up; but [[Mr Venus]] held on by his corner.
-
-‘No, sir,’ said [[Mr Venus]], winking his weak eyes and shaking his head.
-‘No, partner. The question is now brought up, who is going to take care
-of this. Do you know who is going to take care of this, partner?’
-
-‘I am,’ said Wegg.
-
-‘Oh dear no, partner,’ retorted [[Venus]]. ‘That’s a mistake. I am. Now look
-here, Mr Wegg. I don’t want to have any words with you, and still less
-do I want to have any anatomical pursuits with you.’
-
-‘What do you mean?’ said Wegg, quickly.
-
-‘I mean, partner,’ replied [[Venus]], slowly, ‘that it’s hardly possible
-for a man to feel in a more amiable state towards another man than I
-do towards you at this present moment. But I am on my own ground, I am
-surrounded by the trophies of my art, and my tools is very handy.’
-
-‘What do you mean, [[Mr Venus]]?’ asked Wegg again.
-
-‘I am surrounded, as I have observed,’ said [[Mr Venus]], placidly, ‘by
-the trophies of my art. They are numerous, my stock of human warious is
-large, the shop is pretty [[Well|well]] crammed, and I don’t just now want any
-more trophies of my art. But I like my art, and I know how to exercise
-my art.’
-
-‘No man better,’ assented Mr Wegg, with a somewhat staggered air.
-
-‘There’s the Miscellanies of several human specimens,’ said [[Venus]],
-‘(though you mightn’t think it) in the box on which you’re sitting.
-There’s the Miscellanies of several human specimens, in the lovely
-compo-one behind the door’; with a nod towards the French gentleman. ‘It
-still wants a pair of arms. I DON’T say that I’m in any hurry for ’em.’
-
-‘You must be wandering in your mind, partner,’ Silas remonstrated.
-
-‘You’ll excuse me if I wander,’ returned [[Venus]]; ‘I am sometimes rather
-subject to it. I like my art, and I know how to exercise my art, and I
-mean to have the keeping of this document.’
-
-‘But what has that got to do with your art, partner?’ asked Wegg, in an
-insinuating tone.
-
-[[Mr Venus]] winked his chronically-fatigued eyes both at once, and
-adjusting the kettle on the [[Fire|fire]], remarked to himself, in a hollow
-voice, ‘She’ll bile in a couple of minutes.’
-
-[[Silas Wegg]] glanced at the kettle, glanced at the shelves, glanced at the
-French gentleman behind the door, and shrank a little as he glanced at
-[[Mr Venus]] winking his red eyes, and feeling in his waistcoat pocket—as
-for a lancet, say—with his unoccupied hand. He and [[Venus]] were
-necessarily seated close together, as each held a corner of the
-document, which was but a common sheet of paper.
-
-‘Partner,’ said Wegg, even more insinuatingly than before, ‘I propose
-that we cut it in half, and each keep a half.’
-
-[[Venus]] shook his shock of hair, as he replied, ‘It wouldn’t do to
-mutilate it, partner. It might seem to be cancelled.’
-
-‘Partner,’ said Wegg, after a [[Silence|silence]], during which they had
-contemplated one another, ‘don’t your speaking countenance say that
-you’re a-going to suggest a middle course?’
-
-[[Venus]] shook his shock of hair as he replied, ‘Partner, you have kept
-this paper from me once. You shall never keep it from me again. I offer
-you the box and the label to take care of, but I’ll take care of the
-paper.’
-
-Silas hesitated a little longer, and then suddenly releasing his corner,
-and resuming his buoyant and benignant tone, exclaimed, ‘What’s life
-without trustfulness! What’s a fellow-man without [[Honour|honour]]! You’re welcome
-to it, partner, in a spirit of trust and confidence.’
-
-Continuing to wink his red eyes both together—but in a [[Self|self]]-communing
-way, and without any show of triumph—[[Mr Venus]] folded the paper now left
-in his hand, and locked it in a drawer behind him, and pocketed the key.
-He then proposed ‘A cup of tea, partner?’ To which Mr Wegg returned,
-‘Thank’ee, partner,’ and the tea was made and poured out.
-
-‘Next,’ said [[Venus]], blowing at his tea in his saucer, and looking over
-it at his confidential friend, ‘comes the question, What’s the course to
-be pursued?’
-
-On this head, [[Silas Wegg]] had much to say. Silas had to say That, he
-would beg to remind his comrade, brother, and partner, of the impressive
-passages they had read that evening; of the evident parallel in Mr
-Boffin’s mind between them and the late owner of the Bower, and the
-present circumstances of the Bower; of the bottle; and of the box. That,
-the fortunes of his brother and comrade, and of himself were evidently
-made, inasmuch as they had but to put their price upon this document,
-and get that price from the minion of fortune and the worm of the hour:
-who now appeared to be less of a minion and more of a worm than had been
-previously supposed. That, he considered it plain that such price was
-stateable in a single expressive word, and that the word was, ‘Halves!’
-That, the question then arose when ‘Halves!’ should be called. That,
-here he had a plan of action to recommend, with a conditional clause.
-That, the plan of action was that they should lie by with patience;
-that, they should allow the Mounds to be gradually levelled and cleared
-away, while retaining to themselves their present opportunity of
-watching the process—which would be, he conceived, to put the trouble
-and cost of daily digging and delving upon somebody else, while they
-might nightly turn such complete disturbance of the [[Dust|dust]] to the account
-of their own private investigations—and that, when the Mounds were
-gone, and they had worked those chances for their own joint benefit
-solely, they should then, and not before, explode on the minion and
-worm. But here came the conditional clause, and to this he entreated the
-special attention of his comrade, brother, and partner. It was not to
-be borne that the minion and worm should carry off any of that property
-which was now to be regarded as their own property. When he, Mr Wegg,
-had seen the minion surreptitiously making off with that bottle, and its
-precious contents unknown, he had looked upon him in the light of a mere
-robber, and, as such, would have despoiled him of his ill-gotten gain,
-but for the judicious interference of his comrade, brother, and partner.
-Therefore, the conditional clause he proposed was, that, if the minion
-should return in his late sneaking manner, and if, being closely
-watched, he should be found to possess himself of anything, no matter
-what, the sharp [[Sword|sword]] impending over his head should be instantly shown
-him, he should be strictly examined as to what he knew or suspected,
-should be severely handled by them his masters, and should be kept in
-a state of abject moral bondage and [[Slavery|slavery]] until the [[Time|time]] when they
-should see fit to permit him to purchase his [[Freedom|freedom]] at the price of
-half his possessions. If, said Mr Wegg by way of peroration, he had
-erred in saying only ‘Halves!’ he trusted to his comrade, brother, and
-partner not to hesitate to set him right, and to reprove his weakness.
-It might be more according to the rights of things, to say
-Two-thirds; it might be more according to the rights of things, to say
-Three-fourths. On those points he was ever open to correction.
-
-[[Mr Venus]], having wafted his attention to this discourse over three
-successive saucers of tea, signified his concurrence in the views
-advanced. Inspirited hereby, Mr Wegg extended his right hand, and
-declared it to be a hand which never yet. Without entering into more
-minute particulars. [[Mr Venus]], sticking to his tea, briefly professed his
-belief as polite forms required of him, that it WAS a hand which never
-yet. But contented himself with looking at it, and did not take it to
-his bosom.
-
-‘Brother,’ said Wegg, when this happy understanding was established, ‘I
-should like to ask you something. You remember the [[Night|night]] when I first
-looked in here, and found you floating your powerful mind in tea?’
-
-Still swilling tea, [[Mr Venus]] nodded assent.
-
-‘And there you sit, sir,’ pursued Wegg with an air of thoughtful
-admiration, ‘as if you had never left off! There you sit, sir, as if you
-had an unlimited capacity of assimilating the flagrant article! There
-you sit, sir, in the midst of your works, looking as if you’d been
-called upon for [[Home]], Sweet [[Home]], and was obleeging the company!
-
-     “A [[Exile|exile]] from [[Home|home]] splendour dazzles in vain,
-     O give you your lowly Preparations again,
-     The [[Birds|birds]] stuffed so sweetly that can’t be expected to come at
-     your call,
-     Give you these with the peace of mind dearer than all.
-     [[Home]], [[Home]], [[Home]], sweet [[Home]]!”
-
-—Be it ever,’ added Mr Wegg in prose as he glanced about the shop,
-‘ever so ghastly, all things considered there’s no place like it.’
-
-‘You said you’d like to ask something; but you haven’t asked it,’
-remarked [[Venus]], very unsympathetic in manner.
-
-‘Your peace of mind,’ said Wegg, offering condolence, ‘your peace of
-mind was in a poor way that [[Night|night]]. HOW’S it going on? IS it looking up
-at all?’
-
-‘She does not wish,’ replied [[Mr Venus]] with a comical mixture of
-indignant obstinacy and tender [[Melancholy|melancholy]], ‘to regard herself, nor yet
-to be regarded, in that particular light. There’s no more to be said.’
-
-‘Ah, dear me, dear me!’ exclaimed Wegg with a sigh, but eyeing him while
-pretending to keep him company in eyeing the [[Fire|fire]], ‘such is Woman! And
-I remember you said that [[Night|night]], sitting there as I sat here—said that
-[[Night|night]] when your peace of mind was first laid low, that you had taken an
-interest in these very affairs. Such is coincidence!’
-
-‘Her father,’ rejoined [[Venus]], and then stopped to [[Swallow|swallow]] more tea, ‘her
-father was mixed up in them.’
-
-‘You didn’t mention her name, sir, I think?’ observed Wegg, pensively.
-‘No, you didn’t mention her name that [[Night|night]].’
-
-‘Pleasant Riderhood.’
-
-‘In—deed!’ cried Wegg. ‘Pleasant Riderhood. There’s something moving in
-the name. Pleasant. Dear me! Seems to express what she might have
-been, if she hadn’t made that unpleasant remark—and what she ain’t,
-in consequence of having made it. Would it at all pour balm into your
-wounds, [[Mr Venus]], to inquire how you came acquainted with her?’
-
-‘I was down at the [[Water|water]]-side,’ said [[Venus]], taking another gulp of
-tea and mournfully winking at the [[Fire|fire]]—‘looking for parrots’—taking
-another gulp and stopping.
-
-Mr Wegg hinted, to jog his attention: ‘You could hardly have been out
-parrot-shooting, in the British climate, sir?’
-
-‘No, no, no,’ said [[Venus]] fretfully. ‘I was down at the [[Water|water]]-side,
-looking for parrots brought [[Home|home]] by sailors, to buy for stuffing.’
-
-‘Ay, ay, ay, sir!’
-
-‘—And looking for a nice pair of rattlesnakes, to articulate for a
-Museum—when I was doomed to fall in with her and deal with her. It was
-just at the [[Time|time]] of that discovery in the [[River|river]]. Her father had seen the
-discovery being towed in the [[River|river]]. I made the popularity of the subject
-a reason for going back to improve the acquaintance, and I have never
-since been the man I was. My very bones is rendered flabby by brooding
-over it. If they could be brought to me loose, to sort, I should hardly
-have the face to claim ’em as mine. To such an extent have I fallen off
-under it.’
-
-Mr Wegg, less interested than he had been, glanced at one particular
-shelf in the dark.
-
-‘Why I remember, [[Mr Venus]],’ he said in a tone of friendly commiseration
-‘(for I remember every word that falls from you, sir), I remember that
-you said that [[Night|night]], you had got up there—and then your words was,
-“Never mind.”’
-
-‘—The parrot that I bought of her,’ said [[Venus]], with a despondent rise
-and fall of his eyes. ‘Yes; there it lies on its side, dried up; except
-for its plumage, very like myself. I’ve never had the heart to prepare
-it, and I never shall have now.’
-
-With a disappointed face, Silas mentally consigned this parrot to
-regions more than tropical, and, seeming for the [[Time|time]] to have lost
-his power of assuming an interest in the woes of [[Mr Venus]], fell to
-tightening his wooden leg as a preparation for departure: its gymnastic
-performances of that evening having severely tried its constitution.
-
-After Silas had left the shop, hat-box in hand, and had left [[Mr Venus]]
-to lower himself to oblivion-point with the requisite weight of tea, it
-greatly preyed on his ingenuous mind that he had taken this [[Artist|artist]] into
-partnership at all. He bitterly felt that he had overreached himself in
-the beginning, by grasping at [[Mr Venus]]’s mere straws of hints, now shown
-to be worthless for his purpose. Casting about for ways and means of
-dissolving the connexion without loss of money, reproaching himself for
-having been betrayed into an avowal of his secret, and complimenting
-himself beyond measure on his purely accidental good luck, he beguiled
-the distance between Clerkenwell and the mansion of the Golden Dustman.
-
-For, [[Silas Wegg]] felt it to be quite out of the question that he could
-lay his head upon his pillow in peace, without first hovering over
-Mr Boffin’s [[house]] in the superior character of its Evil Genius. Power
-(unless it be the power of intellect or virtue) has ever the greatest
-attraction for the lowest natures; and the mere defiance of the
-unconscious [[house]]-front, with his power to strip the roof off the
-inhabiting family like the roof of a [[house]] of cards, was a treat which
-had a charm for [[Silas Wegg]].
-
-As he hovered on the opposite side of the street, exulting, the carriage
-drove up.
-
-‘There’ll shortly be an end of YOU,’ said Wegg, threatening it with the
-hat-box. ‘YOUR varnish is fading.’
-
-Mrs Boffin descended and went in.
-
-‘Look out for a fall, my Lady Dustwoman,’ said Wegg.
-
-Bella lightly descended, and ran in after her.
-
-‘How brisk we are!’ said Wegg. ‘You won’t run so gaily to your old
-shabby [[Home|home]], my girl. You’ll have to go there, though.’
-
-A little while, and the Secretary came out.
-
-‘I was passed over for you,’ said Wegg. ‘But you had better provide
-yourself with another situation, young man.’
-
-Mr Boffin’s [[Shadow|shadow]] passed upon the blinds of three large windows as he
-trotted down the room, and passed again as he went back.
-
-‘Yoop!’ cried Wegg. ‘You’re there, are you? Where’s the bottle? You
-would give your bottle for my box, Dustman!’
-
-Having now composed his mind for slumber, he turned homeward. Such
-was the [[Greed|greed]] of the fellow, that his mind had shot beyond halves,
-two-thirds, three-fourths, and gone straight to spoliation of the whole.
-‘Though that wouldn’t quite do,’ he considered, growing cooler as he got
-away. ‘That’s what would happen to him if he didn’t buy us up. We should
-get nothing by that.’
-
-We so judge others by ourselves, that it had never come into his head
-before, that he might not buy us up, and might prove honest, and prefer
-to be poor. It caused him a slight tremor as it passed; but a very
-slight one, for the idle thought was gone directly.
-
-‘He’s grown too fond of money for that,’ said Wegg; ‘he’s grown too fond
-of money.’ The burden fell into a strain or tune as he stumped along the
-pavements. All the way [[Home|home]] he stumped it out of the rattling streets,
-PIANO with his own foot, and FORTE with his wooden leg, ‘He’s GROWN too
-FOND of MONEY for THAT, he’s GROWN too FOND of MONEY.’
-
-Even next day Silas soothed himself with this melodious strain, when he
-was called out of bed at daybreak, to set open the yard-gate and admit
-the train of carts and horses that came to carry off the little Mound.
-And all day long, as he kept unwinking watch on the slow process which
-promised to protract itself through many days and weeks, whenever
-(to save himself from being choked with [[Dust|dust]]) he patrolled a little
-cinderous beat he established for the purpose, without taking his eyes
-from the diggers, he still stumped to the tune: He’s GROWN too FOND of
-MONEY for THAT, he’s GROWN too FOND of MONEY.’
+
+‘And so, Miss Wren,’ said Mr [[Eugene Wrayburn]], ‘I cannot persuade you to
+dress me a doll?’
+
+‘No,’ replied Miss Wren snappishly; ‘if you want one, go and buy one at
+the shop.’
+
+‘And my charming young goddaughter,’ said Mr Wrayburn plaintively, ‘down
+in Hertfordshire—’
+
+(‘Humbugshire you mean, I think,’ interposed Miss Wren.)
+
+‘—is to be put upon the cold footing of the general public, and is
+to derive no advantage from my private acquaintance with the [[Court]]
+Dressmaker?’
+
+‘If it’s any advantage to your charming godchild—and oh, a precious
+godfather she has got!’—replied Miss Wren, pricking at him in the air
+with her needle, ‘to be informed that the [[Court]] Dressmaker knows
+your tricks and your manners, you may tell her so by post, with my
+compliments.’
+
+Miss Wren was busy at her work by candle-light, and Mr Wrayburn, half
+amused and half vexed, and all idle and shiftless, stood by her bench
+looking on. Miss Wren’s troublesome [[Child|child]] was in the corner in deep
+disgrace, and exhibiting great wretchedness in the shivering stage of
+prostration from drink.
+
+‘Ugh, you disgraceful boy!’ exclaimed Miss Wren, attracted by the sound
+of his chattering teeth, ‘I wish they’d all drop down your throat and
+play at dice in your stomach! Boh, wicked [[Child|child]]! Bee-baa, black sheep!’
+
+On her accompanying each of these reproaches with a threatening stamp of
+the foot, the wretched creature protested with a whine.
+
+‘Pay five shillings for you indeed!’ Miss Wren proceeded; ‘how many
+hours do you suppose it costs me to earn five shillings, you infamous
+boy?—Don’t cry like that, or I’ll throw a doll at you. Pay five
+shillings fine for you indeed. Fine in more ways than one, I think! I’d
+give the dustman five shillings, to carry you off in the [[Dust|dust]] cart.’
+
+‘No, no,’ pleaded the absurd creature. ‘Please!’
+
+‘He’s enough to break his mother’s heart, is this boy,’ said Miss Wren,
+half appealing to Eugene. ‘I wish I had never brought him up. He’d be
+sharper than a serpent’s tooth, if he wasn’t as dull as ditch [[Water|water]].
+Look at him. There’s a pretty object for a parent’s eyes!’
+
+Assuredly, in his worse than swinish state (for swine at least fatten on
+their guzzling, and make themselves good to eat), he was a pretty object
+for any eyes.
+
+‘A muddling and a swipey old [[Child|child]],’ said Miss Wren, rating him with
+great severity, ‘fit for nothing but to be preserved in the liquor
+that destroys him, and put in a great glass bottle as a sight for other
+swipey children of his own pattern,—if he has no consideration for his
+liver, has he none for his mother?’
+
+‘Yes. Deration, oh don’t!’ cried the subject of these angry remarks.
+
+‘Oh don’t and oh don’t,’ pursued Miss Wren. ‘It’s oh do and oh do. And
+why do you?’
+
+‘Won’t do so any more. Won’t indeed. Pray!’
+
+‘There!’ said Miss Wren, covering her eyes with her hand. ‘I can’t
+bear to look at you. Go up stairs and get me my bonnet and shawl. Make
+yourself useful in some way, bad boy, and let me have your room instead
+of your company, for one half minute.’
+
+Obeying her, he shambled out, and [[Eugene Wrayburn]] saw the [[Tears|tears]] exude
+from between the little creature’s fingers as she kept her hand before
+her eyes. He was sorry, but his sympathy did not move his carelessness
+to do anything but feel sorry.
+
+‘I’m going to the Italian Opera to try on,’ said Miss Wren, taking away
+her hand after a little while, and laughing satirically to hide that she
+had been crying; ‘I must see your back before I go, Mr Wrayburn. Let me
+first tell you, once for all, that it’s of no use your paying visits
+to me. You wouldn’t get what you want, of me, no, not if you brought
+pincers with you to tear it out.’
+
+‘Are you so obstinate on the subject of a doll’s dress for my godchild?’
+
+‘Ah!’ returned Miss Wren with a hitch of her chin, ‘I am so
+obstinate. And of course it’s on the subject of a doll’s dress—or
+ADdress—whichever you like. Get along and give it up!’
+
+Her degraded charge had come back, and was standing behind her with the
+bonnet and shawl.
+
+‘Give ’em to me and get back into your corner, you naughty old thing!’
+said Miss Wren, as she turned and espied him. ‘No, no, I won’t have your
+help. Go into your corner, this minute!’
+
+The miserable man, feebly rubbing the back of his faltering hands
+downward from the wrists, shuffled on to his post of disgrace; but not
+without a curious glance at Eugene in passing him, accompanied with what
+seemed as if it might have been an action of his elbow, if any action of
+any limb or joint he had, would have answered truly to his will. Taking
+no more particular notice of him than instinctively falling away from
+the disagreeable contact, Eugene, with a lazy compliment or so to Miss
+Wren, begged leave to light his cigar, and departed.
+
+‘Now you prodigal old son,’ said Jenny, shaking her head and her
+emphatic little forefinger at her burden, ‘you sit there till I come
+back. You dare to move out of your corner for a single instant while I’m
+gone, and I’ll know the reason why.’
+
+With this admonition, she blew her work candles out, leaving him to the
+light of the [[Fire|fire]], and, taking her big door-key in her pocket and her
+crutch-stick in her hand, marched off.
+
+Eugene lounged slowly towards the Temple, smoking his cigar, but saw
+no more of the dolls’ dressmaker, through the accident of their taking
+opposite sides of the street. He lounged along moodily, and stopped at
+Charing [[Cross]] to look about him, with as little interest in the crowd
+as any man might take, and was lounging on again, when a most unexpected
+object caught his eyes. No less an object than [[Jenny Wren]]’s bad boy
+trying to make up his mind to [[Cross|cross]] the [[Road|road]].
+
+A more ridiculous and feeble spectacle than this tottering wretch making
+unsteady sallies into the roadway, and as often staggering back again,
+oppressed by terrors of vehicles that were a long way off or were
+nowhere, the streets could not have shown. Over and over again, when the
+course was perfectly clear, he set out, got half way, described a loop,
+turned, and went back again; when he might have crossed and re-crossed
+half a dozen times. Then, he would stand shivering on the edge of the
+pavement, looking up the street and looking down, while scores of people
+jostled him, and crossed, and went on. Stimulated in course of [[Time|time]]
+by the sight of so many successes, he would make another sally, make
+another loop, would all but have his foot on the opposite pavement,
+would see or imagine something coming, and would stagger back again.
+There, he would stand making spasmodic preparations as if for a great
+leap, and at last would decide on a start at precisely the wrong moment,
+and would be roared at by drivers, and would shrink back once more, and
+stand in the old spot shivering, with the whole of the proceedings to go
+through again.
+
+‘It strikes me,’ remarked Eugene coolly, after watching him for some
+minutes, ‘that my friend is likely to be rather behind [[Time|time]] if he has
+any appointment on hand.’ With which remark he strolled on, and took no
+further thought of him.
+
+Lightwood was at [[Home|home]] when he got to the Chambers, and had dined [[Alone|alone]]
+there. Eugene drew a chair to the [[Fire|fire]] by which he was having his wine
+and reading the evening paper, and brought a glass, and filled it for
+good fellowship’s sake.
+
+‘My dear Mortimer, you are the express picture of contented industry,
+reposing (on credit) after the virtuous labours of the day.’
+
+‘My dear Eugene, you are the express picture of discontented idleness
+not reposing at all. Where have you been?’
+
+‘I have been,’ replied Wrayburn, ‘—about town. I have turned up at the
+present juncture, with the intention of consulting my highly intelligent
+and respected solicitor on the position of my affairs.’
+
+‘Your highly intelligent and respected solicitor is of opinion that your
+affairs are in a bad way, Eugene.’
+
+‘Though whether,’ said Eugene thoughtfully, ‘that can be intelligently
+said, now, of the affairs of a client who has nothing to lose and who
+cannot possibly be made to pay, may be open to question.’
+
+‘You have fallen into the hands of the Jews, Eugene.’
+
+‘My dear boy,’ returned the debtor, very composedly taking up his glass,
+‘having previously fallen into the hands of some of the Christians, I
+can bear it with [[philosophy]].’
+
+‘I have had an interview to-day, Eugene, with a Jew, who seems
+determined to press us hard. Quite a [[Shylock]], and quite a Patriarch. A
+picturesque grey-headed and grey-bearded old Jew, in a shovel-hat and
+gaberdine.’
+
+‘Not,’ said Eugene, pausing in setting down his glass, ‘surely not my
+worthy friend Mr [[Aaron]]?’
+
+‘He calls himself Mr Riah.’
+
+‘By-the-by,’ said Eugene, ‘it comes into my mind that—no [[Doubt|doubt]] with an
+instinctive [[Desire|desire]] to receive him into the bosom of our Church—I gave
+him the name of [[Aaron]]!’
+
+‘Eugene, Eugene,’ returned Lightwood, ‘you are more ridiculous than
+usual. Say what you mean.’
+
+‘Merely, my dear fellow, that I have the [[Honour|honour]] and pleasure of a
+speaking acquaintance with such a Patriarch as you describe, and that I
+address him as Mr [[Aaron]], because it appears to me Hebraic, expressive,
+appropriate, and complimentary. Notwithstanding which strong reasons for
+its being his name, it may not be his name.’
+
+‘I believe you are the absurdest man on the face of the earth,’ said
+Lightwood, laughing.
+
+‘Not at all, I assure you. Did he mention that he knew me?’
+
+‘He did not. He only said of you that he expected to be paid by you.’
+
+‘Which looks,’ remarked Eugene with much gravity, ‘like NOT knowing me.
+I [[Hope|hope]] it may not be my worthy friend Mr [[Aaron]], for, to tell you the
+[[Truth|truth]], Mortimer, I [[Doubt|doubt]] he may have a prepossession against me. I
+strongly suspect him of having had a hand in spiriting away Lizzie.’
+
+‘Everything,’ returned Lightwood impatiently, ‘seems, by a fatality,
+to bring us round to Lizzie. “About town” meant about Lizzie, just now,
+Eugene.’
+
+‘My solicitor, do you know,’ observed Eugene, turning round to the
+furniture, ‘is a man of infinite discernment!’
+
+‘Did it not, Eugene?’
+
+‘Yes it did, Mortimer.’
+
+‘And yet, Eugene, you know you do not really care for her.’
+
+[[Eugene Wrayburn]] [[Rose|rose]], and put his hands in his pockets, and stood with a
+foot on the fender, indolently rocking his [[Body|body]] and looking at the [[Fire|fire]].
+After a prolonged pause, he replied: ‘I don’t know that. I must ask you
+not to say that, as if we took it for granted.’
+
+‘But if you do care for her, so much the more should you leave her to
+herself.’
+
+Having again paused as before, Eugene said: ‘I don’t know that, either.
+But tell me. Did you ever see me take so much trouble about anything, as
+about this disappearance of hers? I ask, for information.’
+
+‘My dear Eugene, I wish I ever had!’
+
+‘Then you have not? Just so. You confirm my own impression. Does that
+look as if I cared for her? I ask, for information.’
+
+‘I asked YOU for information, Eugene,’ said Mortimer reproachfully.
+
+‘Dear boy, I know it, but I can’t give it. I thirst for information.
+What do I mean? If my taking so much trouble to recover her does not
+mean that I care for her, what does it mean? “If Peter Piper picked a
+peck of pickled pepper, where’s the peck,” &c.?’
+
+Though he said this gaily, he said it with a perplexed and inquisitive
+face, as if he actually did not know what to make of himself. ‘Look on
+to the end—’ Lightwood was beginning to remonstrate, when he caught at
+the words:
+
+‘Ah! See now! That’s exactly what I am incapable of doing. How very
+acute you are, Mortimer, in finding my weak place! When we were at
+school together, I got up my lessons at the last moment, day by day and
+bit by bit; now we are out in life together, I get up my lessons in the
+same way. In the present task I have not got beyond this:—I am bent
+on finding Lizzie, and I mean to find her, and I will take any means
+of finding her that offer themselves. Fair means or foul means, are all
+alike to me. I ask you—for information—what does that mean? When I
+have found her I may ask you—also for information—what do I mean now?
+But it would be premature in this stage, and it’s not the character of
+my mind.’
+
+Lightwood was shaking his head over the air with which his friend held
+forth thus—an air so whimsically open and argumentative as almost to
+deprive what he said of the appearance of evasion—when a shuffling was
+heard at the outer door, and then an undecided knock, as though
+some hand were groping for the knocker. ‘The frolicsome youth of the
+neighbourhood,’ said Eugene, ‘whom I should be delighted to pitch from
+this elevation into the churchyard below, without any intermediate
+ceremonies, have probably turned the lamp out. I am on duty to-[[Night|night]],
+and will see to the door.’
+
+His friend had barely had [[Time|time]] to recall the unprecedented gleam of
+determination with which he had spoken of finding this girl, and which
+had faded out of him with the breath of the spoken words, when Eugene
+came back, ushering in a most disgraceful [[Shadow|shadow]] of a man, shaking from
+head to foot, and clothed in shabby grease and smear.
+
+‘This interesting gentleman,’ said Eugene, ‘is the son—the
+occasionally rather trying son, for he has his failings—of a lady of my
+acquaintance. My dear Mortimer—Mr Dolls.’ Eugene had no idea what his
+name was, knowing the little dressmaker’s to be assumed, but presented
+him with easy confidence under the first appellation that his
+associations suggested.
+
+‘I gather, my dear Mortimer,’ pursued Eugene, as Lightwood stared at
+the obscene visitor, ‘from the manner of Mr Dolls—which is occasionally
+complicated—that he desires to make some communication to me. I have
+mentioned to Mr Dolls that you and I are on terms of confidence, and
+have requested Mr Dolls to develop his views here.’
+
+The wretched object being much embarrassed by holding what remained
+of his hat, Eugene airily tossed it to the door, and put him down in a
+chair.
+
+‘It will be necessary, I think,’ he observed, ‘to [[Wind|wind]] up Mr Dolls,
+before anything to any mortal purpose can be got out of him. Brandy, Mr
+Dolls, or—?’
+
+‘Threepenn’orth Rum,’ said Mr Dolls.
+
+A judiciously small quantity of the spirit was given him in a
+wine-glass, and he began to convey it to his mouth, with all kinds of
+falterings and gyrations on the [[Road|road]].
+
+‘The nerves of Mr Dolls,’ remarked Eugene to Lightwood, ‘are
+considerably unstrung. And I deem it on the whole expedient to fumigate
+Mr Dolls.’
+
+He took the shovel from the grate, sprinkled a few live ashes on it, and
+from a box on the chimney-piece took a few pastiles, which he set upon
+them; then, with great composure began placidly waving the shovel in
+front of Mr Dolls, to cut him off from his company.
+
+‘Lord bless my [[Soul|soul]], Eugene!’ cried Lightwood, laughing again, ‘what a
+mad fellow you are! Why does this creature come to see you?’
+
+‘We shall hear,’ said Wrayburn, very observant of his face withal. ‘Now
+then. Speak out. Don’t be afraid. State your business, Dolls.’
+
+‘Mist Wrayburn!’ said the visitor, thickly and huskily. ‘—’tis Mist
+Wrayburn, ain’t?’ With a stupid stare.
+
+‘Of course it is. Look at me. What do you want?’
+
+Mr Dolls collapsed in his chair, and faintly said ‘Threepenn’orth Rum.’
+
+‘Will you do me the favour, my dear Mortimer, to [[Wind|wind]] up Mr Dolls
+again?’ said Eugene. ‘I am occupied with the fumigation.’
+
+A similar quantity was poured into his glass, and he got it to his lips
+by similar circuitous ways. Having drunk it, Mr Dolls, with an evident
+[[Fear|fear]] of running down again unless he made haste, proceeded to business.
+
+‘Mist Wrayburn. Tried to nudge you, but you wouldn’t. You want that
+drection. You want t’know where she lives. _Do_ you Mist Wrayburn?’
+
+With a glance at his friend, Eugene replied to the question sternly, ‘I
+do.’
+
+‘I am er man,’ said Mr Dolls, trying to smite himself on the breast, but
+bringing his hand to bear upon the vicinity of his eye, ‘er do it. I am
+er man er do it.’
+
+‘What are you the man to do?’ demanded Eugene, still sternly.
+
+‘Er give up that drection.’
+
+‘Have you got it?’
+
+With a most laborious attempt at [[Pride|pride]] and dignity, Mr Dolls rolled
+his head for some [[Time|time]], awakening the highest expectations, and then
+answered, as if it were the happiest point that could possibly be
+expected of him: ‘No.’
+
+‘What do you mean then?’
+
+Mr Dolls, collapsing in the drowsiest manner after his late intellectual
+triumph, replied: ‘Threepenn’orth Rum.’
+
+‘[[Wind]] him up again, my dear Mortimer,’ said Wrayburn; ‘[[Wind|wind]] him up
+again.’
+
+‘Eugene, Eugene,’ urged Lightwood in a low voice, as he complied, ‘can
+you stoop to the use of such an instrument as this?’
+
+‘I said,’ was the reply, made with that former gleam of determination,
+‘that I would find her out by any means, fair or foul. These are foul,
+and I’ll take them—if I am not first tempted to break the head of Mr
+Dolls with the fumigator. Can you get the direction? Do you mean that?
+Speak! If that’s what you have come for, say how much you want.’
+
+‘Ten shillings—Threepenn’orths Rum,’ said Mr Dolls.
+
+‘You shall have it.’
+
+‘Fifteen shillings—Threepenn’orths Rum,’ said Mr Dolls, making an
+attempt to stiffen himself.
+
+‘You shall have it. Stop at that. How will you get the direction you
+talk of?’
+
+‘I am er man,’ said Mr Dolls, with majesty, ‘er get it, sir.’
+
+‘How will you get it, I ask you?’
+
+‘I am ill-used vidual,’ said Mr Dolls. ‘Blown up morning t’[[Night|night]]. Called
+names. She makes Mint money, sir, and never stands Threepenn’orth Rum.’
+
+‘Get on,’ rejoined Eugene, tapping his palsied head with the
+[[Fire|fire]]-shovel, as it sank on his breast. ‘What comes next?’
+
+Making a dignified attempt to gather himself together, but, as it were,
+dropping half a dozen pieces of himself while he tried in vain to pick
+up one, Mr Dolls, swaying his head from side to side, regarded his
+questioner with what he supposed to be a haughty smile and a scornful
+glance.
+
+‘She looks upon me as mere [[Child|child]], sir. I am NOT mere [[Child|child]], sir. Man.
+Man talent. Lerrers pass betwixt ’em. Postman lerrers. Easy for man
+talent er get drection, as get his own drection.’
+
+‘Get it then,’ said Eugene; adding very heartily under his breath,
+‘—You Brute! Get it, and bring it here to me, and earn the money for
+sixty threepenn’orths of rum, and drink them all, one a top of another,
+and drink yourself dead with all possible expedition.’ The latter
+clauses of these special instructions he addressed to the [[Fire|fire]], as he
+gave it back the ashes he had taken from it, and replaced the shovel.
+
+Mr Dolls now struck out the highly unexpected discovery that he had been
+insulted by Lightwood, and stated his [[Desire|desire]] to ‘have it out with him’
+on the spot, and defied him to come on, upon the liberal terms of
+a sovereign to a halfpenny. Mr Dolls then fell a crying, and then
+exhibited a tendency to fall asleep. This last manifestation as by far
+the most alarming, by reason of its threatening his prolonged stay
+on the premises, necessitated vigorous measures. Eugene picked up his
+worn-out hat with the tongs, clapped it on his head, and, taking him by
+the collar—all this at arm’s length—conducted him down stairs and out
+of the precincts into Fleet Street. There, he turned his face westward,
+and left him.
+
+When he got back, Lightwood was standing over the [[Fire|fire]], brooding in a
+sufficiently low-spirited manner.
+
+‘I’ll wash my hands of Mr Dolls physically—’ said Eugene, ‘and be with
+you again directly, Mortimer.’
+
+‘I would much prefer,’ retorted Mortimer, ‘your washing your hands of Mr
+Dolls, morally, Eugene.’
+
+‘So would I,’ said Eugene; ‘but you see, dear boy, I can’t do without
+him.’
+
+In a minute or two he resumed his chair, as perfectly unconcerned as
+usual, and rallied his friend on having so narrowly escaped the prowess
+of their muscular visitor.
+
+‘I can’t be amused on this theme,’ said Mortimer, restlessly. ‘You can
+make almost any theme amusing to me, Eugene, but not this.’
+
+‘[[Well]]!’ cried Eugene, ‘I am a little ashamed of it myself, and therefore
+let us change the subject.’
+
+‘It is so deplorably underhanded,’ said Mortimer. ‘It is so unworthy of
+you, this setting on of such a shameful scout.’
+
+‘We have changed the subject!’ exclaimed Eugene, airily. ‘We have found
+a new one in that word, scout. Don’t be like Patience on a mantelpiece
+frowning at Dolls, but sit down, and I’ll tell you something that you
+really will find amusing. Take a cigar. Look at this of mine. I
+light it—draw one puff—breathe the smoke out—there it goes—it’s
+Dolls!—it’s gone—and being gone you are a man again.’
+
+‘Your subject,’ said Mortimer, after lighting a cigar, and comforting
+himself with a whiff or two, ‘was scouts, Eugene.’
+
+‘Exactly. Isn’t it droll that I never go out after dark, but I find
+myself attended, always by one scout, and often by two?’
+
+Lightwood took his cigar from his lips in surprise, and looked at his
+friend, as if with a latent suspicion that there must be a jest or
+hidden meaning in his words.
+
+‘On my [[Honour|honour]], no,’ said Wrayburn, answering the look and smiling
+carelessly; ‘I don’t [[Wonder|wonder]] at your supposing so, but on my [[Honour|honour]], no.
+I say what I mean. I never go out after dark, but I find myself in the
+ludicrous situation of being followed and observed at a distance, always
+by one scout, and often by two.’
+
+‘Are you sure, Eugene?’
+
+‘Sure? My dear boy, they are always the same.’
+
+‘But there’s no process out against you. The Jews only threaten. They
+have done nothing. Besides, they know where to find you, and I represent
+you. Why take the trouble?’
+
+‘Observe the legal mind!’ remarked Eugene, turning round to the
+furniture again, with an air of indolent rapture. ‘Observe the dyer’s
+hand, assimilating itself to what it works in,—or would work in, if
+anybody would give it anything to do. Respected solicitor, it’s not
+that. The schoolmaster’s abroad.’
+
+‘The schoolmaster?’
+
+‘Ay! Sometimes the schoolmaster and the pupil are both abroad. Why, how
+soon you rust in my absence! You don’t understand yet? Those fellows
+who were here one [[Night|night]]. They are the scouts I speak of, as doing me the
+[[Honour|honour]] to attend me after dark.’
+
+‘How long has this been going on?’ asked Lightwood, opposing a serious
+face to the laugh of his friend.
+
+‘I apprehend it has been going on, ever since a certain person went off.
+Probably, it had been going on some little [[Time|time]] before I noticed it:
+which would bring it to about that [[Time|time]].’
+
+‘Do you think they suppose you to have inveigled her away?’
+
+‘My dear Mortimer, you know the absorbing [[Nature|nature]] of my professional
+occupations; I really have not had leisure to think about it.’
+
+‘Have you asked them what they want? Have you objected?’
+
+‘Why should I ask them what they want, dear fellow, when I am
+indifferent what they want? Why should I express objection, when I don’t
+object?’
+
+‘You are in your most reckless mood. But you called the situation just
+now, a ludicrous one; and most men object to that, even those who are
+utterly indifferent to everything else.’
+
+‘You charm me, Mortimer, with your reading of my weaknesses. (By-the-by,
+that very word, Reading, in its critical use, always charms me. An
+actress’s Reading of a chambermaid, a dancer’s Reading of a hornpipe, a
+singer’s Reading of a [[Song|song]], a marine painter’s Reading of the sea,
+the kettle-drum’s Reading of an instrumental passage, are phrases
+ever youthful and delightful.) I was mentioning your perception of my
+weaknesses. I own to the weakness of objecting to occupy a ludicrous
+position, and therefore I transfer the position to the scouts.’
+
+‘I wish, Eugene, you would speak a little more soberly and plainly, if
+it were only out of consideration for my feeling less at ease than you
+do.’
+
+‘Then soberly and plainly, Mortimer, I goad the schoolmaster to [[Madness|madness]].
+I make the schoolmaster so ridiculous, and so aware of being made
+ridiculous, that I see him chafe and fret at every pore when we [[Cross|cross]]
+one another. The amiable occupation has been the solace of my life,
+since I was baulked in the manner unnecessary to recall. I have derived
+inexpressible comfort from it. I do it thus: I stroll out after dark,
+stroll a little way, look in at a [[Window|window]] and furtively look out for the
+schoolmaster. Sooner or later, I perceive the schoolmaster on the watch;
+sometimes accompanied by his hopeful pupil; oftener, pupil-less. Having
+made sure of his watching me, I tempt him on, all over [[London]]. One
+[[Night|night]] I go east, another [[Night|night]] north, in a few nights I go all round the
+compass. Sometimes, I walk; sometimes, I proceed in cabs, draining the
+pocket of the schoolmaster who then follows in cabs. I study and get
+up abstruse No Thoroughfares in the course of the day. With Venetian
+mystery I seek those No Thoroughfares at [[Night|night]], glide into them by means
+of dark courts, tempt the schoolmaster to follow, turn suddenly, and
+catch him before he can retreat. Then we face one another, and I pass
+him as unaware of his existence, and he undergoes grinding torments.
+Similarly, I walk at a great pace down a short street, rapidly turn the
+corner, and, getting out of his view, as rapidly turn back. I catch him
+coming on post, again pass him as unaware of his existence, and again
+he undergoes grinding torments. [[Night]] after [[Night|night]] his disappointment is
+acute, but [[Hope|hope]] springs eternal in the scholastic breast, and he follows
+me again to-morrow. Thus I enjoy the pleasures of the chase, and derive
+great benefit from the healthful exercise. When I do not enjoy the
+pleasures of the chase, for anything I know he watches at the Temple
+Gate all [[Night|night]].’
+
+‘This is an extraordinary story,’ observed Lightwood, who had heard it
+out with serious attention. ‘I don’t like it.’
+
+‘You are a little hipped, dear fellow,’ said Eugene; ‘you have been too
+sedentary. Come and enjoy the pleasures of the chase.’
+
+‘Do you mean that you believe he is watching now?’
+
+‘I have not the slightest [[Doubt|doubt]] he is.’
+
+‘Have you seen him to-[[Night|night]]?’
+
+‘I forgot to look for him when I was last out,’ returned Eugene with the
+calmest indifference; ‘but I dare say he was there. Come! Be a British
+sportsman and enjoy the pleasures of the chase. It will do you good.’
+
+Lightwood hesitated; but, yielding to his curiosity, [[Rose|rose]].
+
+‘Bravo!’ cried Eugene, rising too. ‘Or, if Yoicks would be in better
+keeping, consider that I said Yoicks. Look to your feet, Mortimer, for
+we shall try your boots. When you are ready, I am—need I say with a Hey
+Ho Chivey, and likewise with a Hark Forward, Hark Forward, Tantivy?’
+
+‘Will nothing make you serious?’ said Mortimer, laughing through his
+gravity.
+
+‘I am always serious, but just now I am a little excited by the glorious
+fact that a southerly [[Wind|wind]] and a cloudy sky proclaim a hunting evening.
+Ready? So. We turn out the lamp and shut the door, and take the field.’
+
+As the two friends passed out of the Temple into the public street,
+Eugene demanded with a show of courteous patronage in which direction
+Mortimer would you like the run to be? ‘There is a rather difficult
+country about Bethnal Green,’ said Eugene, ‘and we have not taken in
+that direction lately. What is your opinion of Bethnal Green?’ Mortimer
+assented to Bethnal Green, and they turned eastward. ‘Now, when we come
+to St Paul’s churchyard,’ pursued Eugene, ‘we’ll loiter artfully, and
+I’ll show you the schoolmaster.’ But, they both saw him, before they got
+there; [[Alone|alone]], and stealing after them in the [[Shadow|shadow]] of the houses, on
+the opposite side of the way.
+
+‘Get your [[Wind|wind]],’ said Eugene, ‘for I am off directly. Does it occur
+to you that the boys of Merry England will begin to deteriorate in an
+educational light, if this lasts long? The schoolmaster can’t attend to
+me and the boys too. Got your [[Wind|wind]]? I am off!’
+
+At what a rate he went, to breathe the schoolmaster; and how he then
+lounged and loitered, to put his patience to another kind of wear;
+what preposterous ways he took, with no other object on earth than to
+disappoint and punish him; and how he wore him out by every piece of
+ingenuity that his eccentric [[Humour|humour]] could devise; all this Lightwood
+noted, with a feeling of astonishment that so careless a man could be so
+wary, and that so idle a man could take so much trouble. At last, far on
+in the third hour of the pleasures of the chase, when he had brought the
+poor dogging wretch round again into the [[City]], he twisted Mortimer up
+a few dark entries, twisted him into a little square [[Court|court]], twisted him
+sharp round again, and they almost ran against [[Bradley Headstone]].
+
+‘And you see, as I was saying, Mortimer,’ remarked Eugene aloud with
+the utmost coolness, as though there were no one within hearing
+by themselves: ‘and you see, as I was saying—undergoing grinding
+torments.’
+
+It was not too strong a phrase for the occasion. Looking like the hunted
+and not the hunter, baffled, worn, with the exhaustion of deferred
+[[Hope|hope]] and consuming hate and anger in his face, white-lipped, wild-eyed,
+draggle-haired, seamed with [[Jealousy|jealousy]] and anger, and torturing himself
+with the conviction that he showed it all and they exulted in it, he
+went by them in the dark, like a haggard head suspended in the air: so
+completely did the force of his expression cancel his figure.
+
+Mortimer Lightwood was not an extraordinarily impressible man, but this
+face impressed him. He spoke of it more than once on the remainder of
+the way [[Home|home]], and more than once when they got [[Home|home]].
+
+They had been abed in their respective rooms two or three hours, when
+Eugene was partly awakened by hearing a footstep going about, and was
+fully awakened by seeing Lightwood standing at his bedside.
+
+‘Nothing wrong, Mortimer?’
+
+‘No.’
+
+‘What fancy takes you, then, for walking about in the [[Night|night]]?’
+
+‘I am horribly wakeful.’
+
+‘How comes that about, I [[Wonder|wonder]]!’
+
+‘Eugene, I cannot lose sight of that fellow’s face.’
+
+‘Odd!’ said Eugene with a light laugh, ‘I can.’ And turned over, and
+fell asleep again.

@@ -1,5 +1,5 @@
 ---
-title: "[[Cymbeline]] — Act V, Scene 5 — exchange ([[Posthumus|POSTHUMUS]]) [16]"
+title: "Cymbeline — Act V, Scene 5 — exchange (POSTHUMUS) [16]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/cymbeline-(shakespeare)"

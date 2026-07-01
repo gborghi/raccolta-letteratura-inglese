@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 20 (part 2)"
+title: "Jane Eyre — Chapter 20 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_20/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_20/part_03">part 03 ›</a></div>
 </nav>
 
+
+“Yes, sir.”
+
+“Have you any salts—volatile salts?”
+
+“Yes.”
+
+“Go back and fetch both.”
+
+I returned, sought the sponge on the washstand, the salts in my drawer,
+and once more retraced my steps. He still waited; he held a key in his
+hand: approaching one of the small, black doors, he put it in the lock;
+he paused, and addressed me again.
 
 “You don’t turn sick at the sight of [[Blood|blood]]?”
 

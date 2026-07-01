@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 44: OUR HOUSEKEEPING (part 2)"
+title: "David Copperfield — Chapter 44: OUR HOUSEKEEPING (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_44_our_housekeeping/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_44_our_housekeeping/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘Now, my own Dora,’ said I, ‘you are very childish, and are talking
+nonsense. You must remember, I am sure, that I was obliged to go out
+yesterday when dinner was half over; and that, the day before, I was
+made quite unwell by being obliged to eat underdone veal in a hurry;
+today, I don’t dine at all--and I am afraid to say how long we waited
+for breakfast--and then the [[Water|water]] didn’t boil. I don’t mean to reproach
+you, my dear, but this is not comfortable.’
 
 ‘Oh, you cruel, cruel boy, to say I am a disagreeable wife!’ cried Dora.
 
@@ -129,19 +137,3 @@ you both, in it, for a pair of babes in the wood as you are!’
 
 My aunt said this in a sprightly way, and gave me a kiss to ratify the
 blessing.
-
-‘Now,’ said she, ‘light my little lantern, and see me into my bandbox by
-the [[Garden|garden]] path’; for there was a communication between our cottages in
-that direction. ‘Give [[Betsey Trotwood]]’s [[Love|love]] to Blossom, when you come
-back; and whatever you do, Trot, never dream of setting Betsey up as a
-scarecrow, for if I ever saw her in the glass, she’s quite grim enough
-and gaunt enough in her private capacity!’
-
-With this my aunt tied her head up in a handkerchief, with which she was
-accustomed to make a bundle of it on such occasions; and I escorted her
-[[Home|home]]. As she stood in her [[Garden|garden]], holding up her little lantern to light
-me back, I thought her observation of me had an anxious air again; but
-I was too much occupied in pondering on what she had said, and too much
-impressed--for the first [[Time|time]], in reality--by the conviction that Dora
-and I had indeed to work out our future for ourselves, and that no one
-could assist us, to take much notice of it.

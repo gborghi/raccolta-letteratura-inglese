@@ -1,5 +1,5 @@
 ---
-title: "[[AllThingsConsidered-8]] — THE ERROR OF IMPARTIALITY"
+title: "AllThingsConsidered-8 — THE ERROR OF IMPARTIALITY"
 author: "Chesterton"
 unitType: story
 parentWork: "works/allthingsconsidered-8-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 THE ERROR OF IMPARTIALITY
-
 
 The refusal of the jurors in the Thaw trial to come to an
 agreement is certainly a somewhat amusing sequel to the frenzied

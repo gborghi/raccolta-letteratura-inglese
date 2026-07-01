@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE (part 6)"
+title: "David Copperfield — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,21 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_22_some_old_scenes_and_some_new_p/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_22_some_old_scenes_and_some_new_p/part_07">part 07 ›</a></div>
 </nav>
 
+
+‘In what way do you mean? In the rouge way?’ said Steerforth.
+
+‘Put this and that together, my tender pupil,’ returned the wary
+Mowcher, touching her nose, ‘work it by the rule of [[Secrets]] in all
+trades, and the product will give you the desired result. I say I do a
+little in that way myself. One Dowager, SHE calls it lip-salve. Another,
+SHE calls it gloves. Another, SHE calls it tucker-edging. Another, SHE
+calls it a fan. I call it whatever THEY call it. I supply it for ‘em,
+but we keep up the trick so, to one another, and make believe with
+such a face, that they’d as soon think of laying it on, before a whole
+drawing-room, as before me. And when I wait upon ‘em, they’ll say to
+me sometimes--WITH IT ON--thick, and no mistake--“How am I looking,
+Mowcher? Am I pale?” Ha! ha! ha! ha! Isn’t THAT refreshing, my young
+friend!’
 
 I never did in my days behold anything like Mowcher as she stood upon
 the dining table, intensely enjoying this refreshment, rubbing busily at
@@ -132,25 +147,3 @@ she held up before one eye to enforce her persuasions, said we would
 make a beginning on an early day, and requested the aid of my hand to
 descend from her elevated station. Thus assisted, she skipped down with
 much agility, and began to tie her [[Double|double]] chin into her bonnet.
-
-‘The fee,’ said Steerforth, ‘is--’
-
-‘Five bob,’ replied Miss Mowcher, ‘and dirt cheap, my chicken. Ain’t I
-volatile, Mr. Copperfield?’
-
-I replied politely: ‘Not at all.’ But I thought she was rather so, when
-she tossed up his two half-crowns like a goblin pieman, caught them,
-dropped them in her pocket, and gave it a loud slap.
-
-‘That’s the Till!’ observed Miss Mowcher, standing at the chair again,
-and replacing in the bag a miscellaneous collection of little objects
-she had emptied out of it. ‘Have I got all my traps? It seems so. It
-won’t do to be like long Ned Beadwood, when they took him to church “to
-marry him to somebody”, as he says, and left the bride behind. Ha! ha!
-ha! A wicked rascal, Ned, but droll! Now, I know I’m going to break
-your hearts, but I am forced to leave you. You must call up all your
-fortitude, and try to bear it. Good-bye, Mr. Copperfield! Take care of
-yourself, jockey of Norfolk! How I have been rattling on! It’s all
-the fault of you two wretches. I forgive you! “Bob swore!”--as the
-Englishman said for “Good [[Night|night]]”, when he first learnt French, and
-thought it so like English. “Bob swore,” my ducks!’

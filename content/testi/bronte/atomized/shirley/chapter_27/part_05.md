@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 27 (part 5)"
+title: "Shirley — Chapter 27 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,38 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_27/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_27/part_06">part 06 ›</a></div>
 </nav>
 
+
+through a silent district; no [[Wind|wind]] followed its course or haunted its
+
+woody borders. Fieldhead gardens bore the seal of gentle [[Decay|decay]]. On the
+
+walks, swept that morning, yellow [[Leaves|leaves]] had fluttered down again. Its
+
+[[Time|time]] of [[Flowers|flowers]], and even of fruits, was over; but a scantling of
+
+apples enriched the trees. Only a blossom here and there expanded pale
+
+and delicate amidst a knot of faded [[Leaves|leaves]].
+
+
+
+These single [[Flowers|flowers]]--the last of their race--[[Shirley]] culled as she
+
+wandered thoughtfully amongst the beds. She was fastening into her
+
+girdle a hueless and scentless nosegay, when Henry Sympson called to her
+
+as he came limping from the [[house]].
+
+
+
+"[[Shirley]], Mr. Moore would be glad to see you in the schoolroom and to
+
+hear you read a little French, if you have no more urgent occupation."
+
+
+
+The messenger delivered his commission very simply, as if it were a mere
 
 matter of course.
 
@@ -243,37 +275,3 @@ hunters, their flocks wander wild as their prey. Are they happy? No, not
 more happy than we are at this day. Are they good? No, not better than
 
 ourselves. Their [[Nature|nature]] is our [[Nature|nature]]--human both. There is one in this
-
-tribe too often miserable--a [[Child|child]] bereaved of both parents. None cares
-
-for this [[Child|child]]. She is fed sometimes, but oftener forgotten. A hut
-
-rarely receives her; the hollow tree and chill cavern are her [[Home|home]].
-
-Forsaken, lost, and wandering, she lives more with the wild beast and
-
-bird than with her own kind. Hunger and cold are her comrades; sadness
-
-hovers over, and [[Solitude|solitude]] besets her round. Unheeded and unvalued, she
-
-should die; but she both lives and grows. The green wilderness nurses
-
-her, and becomes to her a mother; feeds her on juicy berry, on
-
-saccharine root and nut.
-
-
-
-There is something in the air of this clime which fosters life kindly.
-
-There must be something, too, in its dews which heals with sovereign
-
-balm. Its gentle [[Seasons|seasons]] exaggerate no passion, no sense; its
-
-temperature tends to harmony; its breezes, you would say, bring down
-
-from heaven the germ of pure thought and purer feeling. Not grotesquely
-
-fantastic are the forms of cliff and foliage, not violently vivid the
-
-colouring of flower and bird. In all the grandeur of these forests

@@ -1,5 +1,5 @@
 ---
-title: "[[Don Quixote]] — Chapter 7 (part 4)"
+title: "Don Quixote — Chapter 7 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/don-quixote-(chesterton)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_08/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_09/part_01">part 01 ›</a></div>
 </nav>
 
+
+"But how can we go on with it?" asked Rosamund in exasperation.
+"Who else is there who could take the [[King]]?  We had trouble enough
+in getting hold of an assistant Troubadour, till Mr. Herne was kind
+enough to help us."
 
 "The trouble is," said Archer, "that if I took the [[King]],
 you'd have nobody who could take Blondel."

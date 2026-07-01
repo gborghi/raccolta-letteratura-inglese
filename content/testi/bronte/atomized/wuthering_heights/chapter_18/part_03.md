@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 18 (part 3)"
+title: "Wuthering Heights — Chapter 18 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -13,6 +13,47 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_18/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_20/part_01">part 01 ›</a></div>
 </nav>
 
+
+“It’s _your_ father’s, isn’t it?” said she, turning to Hareton.
+
+“Nay,” he replied, looking down, and blushing bashfully.
+
+He could not stand a steady gaze from her eyes, though they were just
+his own.
+
+“Whose then—your master’s?” she asked.
+
+He coloured deeper, with a different feeling, muttered an oath, and
+turned away.
+
+“Who is his master?” continued the tiresome girl, appealing to me. “He
+talked about ‘our [[house]],’ and ‘our folk.’ I thought he had been the
+owner’s son. And he never said Miss: he should have done, shouldn’t he,
+if he’s a servant?”
+
+Hareton grew black as a thunder-cloud at this childish speech. I
+silently shook my questioner, and at last succeeded in equipping her
+for departure.
+
+“Now, get my [[Horse|horse]],” she said, addressing her unknown kinsman as she
+would one of the stable-boys at the Grange. “And you may come with me.
+I want to see where the goblin-hunter rises in the marsh, and to hear
+about the _fairishes_, as you call them: but make haste! What’s the
+matter? Get my [[Horse|horse]], I say.”
+
+“I’ll see thee damned before I be _thy_ servant!” growled the lad.
+
+“You’ll see me _what?_” asked Catherine in surprise.
+
+“Damned—thou saucy [[Witch|witch]]!” he replied.
+
+“There, Miss Cathy! you see you have got into pretty company,” I
+interposed. “Nice words to be used to a young lady! Pray don’t begin to
+dispute with him. Come, let us seek for Minny ourselves, and begone.”
+
+“But, Ellen,” cried she, staring fixed in astonishment, “how dare he
+speak so to me? Mustn’t he be made to do as I ask him? You wicked
+creature, I shall tell papa what you said.—Now, then!”
 
 Hareton did not appear to feel this threat; so the [[Tears|tears]] sprang into
 her eyes with indignation. “You bring the pony,” she exclaimed, turning

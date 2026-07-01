@@ -63,7 +63,7 @@ might have carried the title:  An Englishman Looks at England.
 
 The first fact about this first phase is that the patriotism
 of Cobbett was the passionate patriotism of the [[Exile|exile]].
-He went to [[america|America]] while he was still quite young; so that even
+He went to [[America]] while he was still quite young; so that even
 his memories of England were almost memories of [[Childhood|childhood]].
 They had not only the glamour of distance, but the glamour of
 which Wordsworth wrote, the glory and the freshness of [[A Dream|a dream]].
@@ -75,7 +75,7 @@ islands to the modern Atlantis are at one in having that homing
 [[Imagination|imagination]] that wings its way backward into the sunrise.
 Greatly as they have disagreed among themselves, they all agree
 in that.  Perhaps the one rallying point for all Britons
-is that their [[songs]] in [[america|America]] have been [[songs]] of [[Exile|exile]].
+is that their [[songs]] in [[America]] have been [[songs]] of [[Exile|exile]].
 The most familiar of them represents the Irishman with his bundle
 bound for Philadelphia, or the Englishman whistling `Falmouth
 is a fine town' as he walks down the street of Baltimore,
@@ -737,7 +737,7 @@ as when he says that the crime of the Tudor politician was not in being
 too indifferent to be killed, but in killing other people for things
 about which he was indifferent, and enacting laws against anyone
 `who should do from conviction what he had done from cowardice.'
-But there is a quality in that outburst of Cobbett about [[Cranmer]]
+But there is a quality in that outburst of Cobbett about Cranmer
 which we must learn to appreciate or leave off troubling about Cobbett.
 There is a volume and a violence of humanity in such hatred; a hatred
 straight from the heart like a knockout blow straight from the shoulder.
@@ -745,11 +745,11 @@ It is a blast from a furnace.  And it is only in such a furnace
 seven times heated that men suffer for an idea-or even suffer
 for an impulse.
 
-Anyhow, the only effect of the [[Imprisonment|imprisonment]] was to turn
+Anyhow, the only effect of the imprisonment was to turn
 an impulse into an idea.  He may have lacked some of the
-virtues of a philosopher; even including the [[philosophy]].
-He may not have been perfect as a [[Hero|hero]]; or even have possessed
-any of the qualities of a martyr except the [[Martyrdom|martyrdom]].
+virtues of a philosopher; even including the philosophy.
+He may not have been perfect as a hero; or even have possessed
+any of the qualities of a martyr except the martyrdom.
 But he was emphatically the sort of man with whom one cannot afford
 to be in the wrong.  It was suicidally silly to act with such
 injustice to a man with such a talent for expounding justice,
@@ -768,12 +768,12 @@ They threw him into gaol for nothing, or for anything,
 or for something more or less meritorious, for all the world
 as if he had been his own grandfather the agricultural labourer.
 
-Certainly if they put him in [[Prison|prison]], they ought never to
+Certainly if they put him in prison, they ought never to
 have let him out.  Surely the flexible British Constitution
 of Pitt and Castlereagh would have been equal to the necessity
 of sending him to Botany Bay for life.  For that Constitution
-was very free when it came to attacking [[Freedom|freedom]].
-The man who came out of that [[Prison|prison]] was not the man who went in.
+was very free when it came to attacking freedom.
+The man who came out of that prison was not the man who went in.
 It is not enough to say that he came out in a rage, and may be said
 to have remained in a rage; to have lived in a rage for thirty years,
 until he died in a rage in his own place upon the hills of Surrey.
@@ -784,7 +784,7 @@ vigorous English phrase, so much in his own literary manner,
 is symbolic of his intellectual importance.  He did indeed
 return in a towering passion, a passion that towered above towns
 and villages like a waterspout, or a cyclone visible from ten
-counties and crossing England like the stride of the [[Storm|storm]].
+counties and crossing England like the stride of the storm.
 The most terrible of human tongues was loosened and went through
 the country like a wandering bell, of incessant anger and alarum;
 till men must have wondered why, when it was in their power,

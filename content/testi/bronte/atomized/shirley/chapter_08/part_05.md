@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 8 (part 5)"
+title: "Shirley — Chapter 8 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,30 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_08/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_08/part_06">part 06 ›</a></div>
 </nav>
 
+
+just take the consequences. An example shall prove I'm in earnest."
+
+
+
+He whistled shrill and loud. Sugden, his staff and warrant, came on the
+
+scene.
+
+
+
+Moore turned sharply to Barraclough. "You were at Stilbro'," said he; "I
+
+have proof of that. You were on the moor, you wore a mask, you knocked
+
+down one of my men with your own hand--you! a preacher of the
+
+gospel!--Sugden, arrest him!"
+
+
+
+Moses was captured. There was a cry and a rush to rescue, but the right
+
+hand which all this while had lain hidden in Moore's breast,
 
 reappearing, held out a [[Pistol|pistol]].
 
@@ -197,29 +221,3 @@ clergyman, it might be seen at once, but neither Helstone, nor Malone,
 nor Donne, nor Sweeting. He might be forty years old; he was
 
 plain-looking, dark-complexioned, and already rather gray-haired. He
-
-stooped a little in walking. His countenance, as he came on, wore an
-
-abstracted and somewhat doleful air; but in approaching Farren he looked
-
-up, and then a hearty expression illuminated the preoccupied, serious
-
-face.
-
-
-
-"Is it you, William? How are you?" he asked.
-
-
-
-"Middling, Mr. Hall. How are _ye_? Will ye step in and rest ye?"
-
-
-
-Mr. Hall, whose name the reader has seen mentioned before (and who,
-
-indeed, was vicar of Nunnely, of which parish Farren was a native, and
-
-from whence he had removed but three years ago to reside in Briarfield,
-
-for the convenience of being near Hollow's Mill, where he had obtained

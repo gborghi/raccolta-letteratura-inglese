@@ -1,5 +1,5 @@
 ---
-title: "[[longbow2]] — Chapter 7 (part 2)"
+title: "longbow2 — Chapter 7 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -18,10 +18,10 @@ tags:
 "that you'll tell your lawyers it'll pay them to pick a hole
 in the deal."
 
-"That is what we call the bluff Western [[Humour|humour]]," said Lord Eden,
+"That is what we call the bluff Western humour," said Lord Eden,
 smiling, "but I only mean that we do a great deal in this
 country by reconsideration and revision.  We make mistakes
-and unmake them.  We have a phrase for it in our [[history]] books;
+and unmake them.  We have a phrase for it in our history books;
 we call it the flexibility of an unwritten constitution."
 
 "We have a phrase for it too," said the American reflectively. 
@@ -32,11 +32,11 @@ shrillness, "I did not know you were so scrupulous in your own methods."
 
 "Motht unthcrupulouth," said Mr. Low virtuously.
 
-Enoch Oates [[Rose|rose]] slowly like an enormous leviathan rising to the surface
+Enoch Oates rose slowly like an enormous leviathan rising to the surface
 of the sea; his large sallow face had never changed in expression;
 but he had the air of one drifting dreamily away.
 
-"Wal," he said, "I dare say it's true I've done some graft in my [[Time|time]],
+"Wal," he said, "I dare say it's true I've done some graft in my time,
 and a good many deals that weren't what you might call modelled on
 the Sermon on the Mount.  But if I smashed people, it was when they
 were all out to smash me; and if some of 'em were poor, they were
@@ -54,7 +54,7 @@ anyone should object to uthing my name."
 appropriate name."
 
 He drifted heavily from the room, and the four other men were left,
-staring at a [[Riddle|riddle]].
+staring at a riddle.
 
 "He's going on with it, or, rather, they're going on with it,"
 groaned Horace Hunter.  "And what the devil is to be done now?"
@@ -69,21 +69,21 @@ old and wrinkled face under his youthful yellow hair.
 
 "The resources of civilization are not exhausted," he said grimly. 
 "That's what the old governments used to say when they started
-shooting people.  [[Well]], I could understand you gentlemen feeling
+shooting people.  Well, I could understand you gentlemen feeling
 inclined to shoot people now.  I suppose it seems to you that all
 your own power in the State, which you wield with such public spirit
 of course, all Sir Horace's health reforms, the Normantowers'
 new estate, and so on, are all broken to bits, to rotten little bits
 of rusticity.  What's to become of a governing class if it doesn't
-hold all the land, eh?  [[Well]], I'll tell you.  I know the next move,
-and the [[Time|time]] has come to take it."
+hold all the land, eh?  Well, I'll tell you.  I know the next move,
+and the time has come to take it."
 
 "But what is it?" demanded Sir Horace.
 
-"The [[Time|time]] has come," said the Prime Minister, "to Nationalize
+"The time has come," said the Prime Minister, "to Nationalize
 the Land."
 
-Sir Horace Hunter [[Rose|rose]] from his chair, opened his mouth, shut it,
+Sir Horace Hunter rose from his chair, opened his mouth, shut it,
 and sat down again, all with what he himself might have called
 a reflex action.
 
@@ -101,18 +101,18 @@ to support the Bolshies?"
 "No," said Eden, with the smile of a sphinx.  "I mean the Bolshies
 are going to support me.  Idiots!"
 
-After a [[Silence|silence]], he added in a more wistful tone:
+After a silence, he added in a more wistful tone:
 
 "Of course, as a matter of sentiment, it is a little sad.  All our
 fine old English castles and manors, the homes of the gentry... they
 will become public property, like post offices, I suppose.  When I
 think of the happy hours I have myself passed at the Normantowers--"
 He smiled across at the nobleman of that name and went on.  "And Sir
-Horace has now, I believe, the joy of living in Warbridge [[Castle]]--
-fine old place.  Dear me, yes, and I think Mr. Low has a [[Castle|castle]],
+Horace has now, I believe, the joy of living in Warbridge Castle--
+fine old place.  Dear me, yes, and I think Mr. Low has a castle,
 though the name escapes me."
 
-"Rosewood [[Castle]]," said Mr. Low rather sulkily.
+"Rosewood Castle," said Mr. Low rather sulkily.
 
 "But I say," cried Sir Horace, rising, "what becomes of `Don't
 Nationalize but Rationalize'?"

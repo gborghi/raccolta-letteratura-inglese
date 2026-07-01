@@ -1,5 +1,5 @@
 ---
-title: "[[The Thousand-And-Second Tale of Scheherazade]] (part 4)"
+title: "The Thousand-And-Second Tale of Scheherazade (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-thousand-and-second-tale-of-scheherazade-(poe)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_thousand_and_second_tale_of_scheherazade/part/part_03">‹ part 03</a><a class="ex-next" href="/testi/poe/atomized/the_thousand_and_second_tale_of_scheherazade/part/part_05">part 05 ›</a></div>
 </nav>
 
+
+      “It is, in fact, very surprising, my dear [[Queen|queen]], that you
+      omitted, hitherto, these latter adventures of Sinbad. Do you know
+      I think them exceedingly entertaining and strange?”
+
+      The [[King|king]] having thus expressed himself, we are told, the fair
+      Scheherazade resumed her [[history]] in the following words:
 
       “Sinbad went on in this manner with his narrative—‘I thanked the
       man-animal for its kindness, and soon found myself very much at
@@ -124,18 +131,3 @@ tags:
       passion of mankind for enslaving other creatures, and confining
       them in horrid and solitary prisons until the fulfillment of
       appointed tasks.’” (*15)
-
-      “Pshaw!” said the [[King|king]].
-
-      “‘Quitting this land, we soon arrived at another in which the
-      [[Bees|bees]] and the [[Birds|birds]] are mathematicians of such genius and
-      erudition, that they give daily instructions in the science of
-      geometry to the wise men of the empire. The [[King|king]] of the place
-      having offered a reward for the solution of two very difficult
-      problems, they were solved upon the spot—the one by the [[Bees|bees]], and
-      the other by the [[Birds|birds]]; but the [[King|king]] keeping their solution a
-      secret, it was only after the most profound researches and labor,
-      and the writing of an infinity of big books, during a long series
-      of years, that the men-mathematicians at length arrived at the
-      identical solutions which had been given upon the spot by the
-      [[Bees|bees]] and by the [[Birds|birds]].’” (*16)

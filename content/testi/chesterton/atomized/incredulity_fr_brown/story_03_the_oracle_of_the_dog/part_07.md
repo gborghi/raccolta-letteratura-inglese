@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The Oracle of the Dog (part 7)"
+title: "incredulity Fr Brown — The Oracle of the Dog (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-fr-brown-(chesterton)"

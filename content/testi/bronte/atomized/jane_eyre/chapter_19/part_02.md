@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 19 (part 2)"
+title: "Jane Eyre — Chapter 19 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_19/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_19/part_03">part 03 ›</a></div>
 </nav>
 
+
+“I like to observe all the faces and all the figures.”
+
+“But do you never single one from the rest—or it may be, two?”
 
 “I do frequently; when the gestures or looks of a pair seem telling a
 tale: it amuses me to watch them.”
@@ -145,17 +149,3 @@ silent on much the heart experiences. Mobile and flexible, it was never
 intended to be compressed in the eternal [[Silence|silence]] of [[Solitude|solitude]]: it is a
 mouth which should speak much and smile often, and have human affection
 for its interlocutor. That feature too is propitious.
-
-“I see no enemy to a fortunate issue but in the brow; and that brow
-professes to say,—‘I can live [[Alone|alone]], if [[Self|self]]-respect, and circumstances
-require me so to do. I need not sell my [[Soul|soul]] to buy bliss. I have an
-inward treasure born with me, which can keep me alive if all extraneous
-delights should be withheld, or offered only at a price I cannot afford
-to give.’ The forehead declares, ‘Reason sits firm and holds the reins,
-and she will not let the feelings burst away and hurry her to wild
-chasms. The passions may rage furiously, like true heathens, as they
-are; and the desires may imagine all sorts of vain things: but judgment
-shall still have the last word in every argument, and the casting vote
-in every decision. Strong [[Wind|wind]], earthquake-shock, and [[Fire|fire]] may pass by:
-but I shall follow the guiding of that still small voice which
-interprets the dictates of [[Conscience|conscience]].’

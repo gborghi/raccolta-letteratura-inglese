@@ -1,5 +1,5 @@
 ---
-title: "[[The Mystery of Marie Roget]] (part 19)"
+title: "The Mystery of Marie Roget (part 19)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-mystery-of-marie-roget-(poe)"
@@ -13,6 +13,104 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_mystery_of_marie_roget/part/part_18">‹ part 18</a><a class="ex-next" href="/testi/poe/atomized/the_mystery_of_marie_roget/part/part_20">part 20 ›</a></div>
 </nav>
 
+
+      best possible hold. The device is that of a single individual;
+
+      and this brings us to the fact that ‘between the thicket and the
+
+      [[River|river]], the rails of the fences were found taken down, and the
+
+      ground bore evident traces of some heavy burden having been
+
+      dragged along it!’ But would a number of men have put themselves
+
+      to the superfluous trouble of taking down a fence, for the
+
+      purpose of dragging through it a corpse which they might have
+
+      lifted over any fence in an instant? Would a number of men have
+
+      so dragged a corpse at all as to have left evident traces of the
+
+      dragging?
+
+
+
+      “And here we must refer to an observation of Le Commerciel; an
+
+      observation upon which I have already, in some measure,
+
+      commented. ‘A piece,’ says this journal, ‘of one of the
+
+      unfortunate girl’s petticoats was torn out and tied under her
+
+      chin, and around the back of her head, probably to prevent
+
+      screams. This was done by fellows who had no
+
+      pocket-handkerchiefs.’
+
+
+
+      “I have before suggested that a genuine blackguard is never
+
+      without a pocket-handkerchief. But it is not to this fact that I
+
+      now especially advert. That it was not through want of a
+
+      handkerchief for the purpose imagined by Le Commerciel, that this
+
+      bandage was employed, is rendered apparent by the handkerchief
+
+      left in the thicket; and that the object was not ‘to prevent
+
+      screams’ appears, also, from the bandage having been employed in
+
+      preference to what would so much better have answered the
+
+      purpose. But the language of the evidence speaks of the strip in
+
+      question as ‘found around the neck, fitting loosely, and secured
+
+      with a hard knot.’ These words are sufficiently vague, but differ
+
+      materially from those of Le Commerciel. The slip was eighteen
+
+      inches wide, and therefore, although of muslin, would form a
+
+      strong band when folded or rumpled longitudinally. And thus
+
+      rumpled it was discovered. My inference is this. The solitary
+
+      murderer, having borne the corpse, for some distance (whether
+
+      from the thicket or elsewhere) by means of the bandage hitched
+
+      around its middle, found the weight, in this mode of procedure,
+
+      too much for his strength. He resolved to drag the burthen—the
+
+      evidence goes to show that it was dragged. With this object in
+
+      view, it became necessary to attach something like a rope to one
+
+      of the extremities. It could be best attached about the neck,
+
+      where the head would prevent its slipping off. And, now, the
+
+      murderer bethought him, unquestionably, of the bandage about the
+
+      loins. He would have used this, but for its volution about the
+
+      corpse, the hitch which embarrassed it, and the reflection that
+
+      it had not been ‘torn off’ from the garment. It was easier to
+
+      tear a new slip from the petticoat. He tore it, made it fast
+
+      about the neck, and so dragged his victim to the brink of the
+
+      [[River|river]]. That this ‘bandage,’ only attainable with trouble and
 
       delay, and but imperfectly answering its purpose—that this
 
@@ -105,103 +203,3 @@ tags:
       dark,’ she says. But ‘soon after dark,’ is, at least, dark; and
 
       ‘about dusk’ is as certainly daylight. Thus it is abundantly
-
-      clear that the gang quitted the Barrière du Roule prior to the
-
-      screams overheard (?) by Madame Deluc. And although, in all the
-
-      many reports of the evidence, the relative expressions in
-
-      question are distinctly and invariably employed just as I have
-
-      employed them in this conversation with yourself, no notice
-
-      whatever of the gross discrepancy has, as yet, been taken by any
-
-      of the public journals, or by any of the myrmidons of police.
-
-
-
-      “I shall add but one to the arguments against a gang; but this
-
-      one has, to my own understanding at least, a weight altogether
-
-      irresistible. Under the circumstances of large reward offered,
-
-      and full pardon to any [[King|king]]’s evidence, it is not to be imagined,
-
-      for a moment, that some member of a gang of low ruffians, or of
-
-      any [[Body|body]] of men, would not long ago have betrayed his
-
-      accomplices. Each one of a gang so placed, is not so much greedy
-
-      of reward, or anxious for escape, as fearful of betrayal. He
-
-      betrays eagerly and early that he may not himself be betrayed.
-
-      That the secret has not been divulged, is the very best of proof
-
-      that it is, in fact, a secret. The horrors of this dark deed are
-
-      known only to one, or two, living human beings, and to God.
-
-
-
-      “Let us sum up now the meagre yet certain fruits of our long
-
-      analysis. We have attained the idea either of a fatal accident
-
-      under the roof of Madame Deluc, or of a murder perpetrated, in
-
-      the thicket at the Barrière du Roule, by a [[Lover|lover]], or at least by
-
-      an intimate and secret associate of the deceased. This associate
-
-      is of swarthy complexion. This complexion, the ‘hitch’ in the
-
-      bandage, and the ‘sailor’s knot,’ with which the bonnet-ribbon is
-
-      tied, point to a seaman. His companionship with the deceased, a
-
-      gay, but not an abject young girl, designates him as above the
-
-      grade of the common sailor. Here the [[Well|well]] written and urgent
-
-      communications to the journals are much in the way of
-
-      corroboration. The circumstance of the first elopement, as
-
-      mentioned by Le Mercurie, tends to blend the idea of this seaman
-
-      with that of the ‘naval officer’ who is first known to have led
-
-      the unfortunate into crime.
-
-
-
-      “And here, most fitly, comes the consideration of the continued
-
-      absence of him of the dark complexion. Let me pause to observe
-
-      that the complexion of this man is dark and swarthy; it was no
-
-      common swarthiness which constituted the sole point of
-
-      remembrance, both as regards Valence and Madame Deluc. But why is
-
-      this man absent? Was he murdered by the gang? If so, why are
-
-      there only traces of the assassinated girl? The scene of the two
-
-      outrages will naturally be supposed identical. And where is his
-
-      corpse? The assassins would most probably have disposed of both
-
-      in the same way. But it may be said that this man lives, and is
-
-      deterred from making himself known, through dread of being
-
-      charged with the murder. This consideration might be supposed to
-
-      operate upon him now—at this late period—since it has been given

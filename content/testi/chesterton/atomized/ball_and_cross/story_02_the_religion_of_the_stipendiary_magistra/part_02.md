@@ -1,5 +1,5 @@
 ---
-title: "ball and [[Cross|cross]] — The Religion of the Stipendiary Magistrate (part 2)"
+title: "ball and cross — The Religion of the Stipendiary Magistrate (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/ball-and-cross-(chesterton)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ball_and_cross/story_02_the_religion_of_the_stipendiary_magistra/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/ball_and_cross/story_02_the_religion_of_the_stipendiary_magistra/part_03">part 03 ›</a></div>
 </nav>
 
+
+His private tradition was equally wild and unworldly.
+His great-grandfather had been cut down at Culloden,
+certain in his last instant that God would restore the [[King]].
+His grandfather, then a boy of ten, had taken the terrible
+claymore from the hand of the dead and hung it up in his [[house]],
+burnishing it and sharpening it for sixty years, to be ready
+for the next rebellion.  His father, the youngest son and the last
+left alive, had refused to attend on [[Queen]] Victoria in Scotland.
+And Evan himself had been of one piece with his progenitors;
+and was not dead with them, but alive in the twentieth century.
+He was not in the least the pathetic Jacobite of whom we read,
+left behind by a final advance of all things.  He was, in his own fancy,
+a conspirator, fierce and up to date.  In the long, dark afternoons
+of the Highland [[Winter|winter]], he plotted and fumed in the dark.
+He drew plans of the capture of [[London]] on the desolate sand of Arisaig.
 
 When he came up to capture [[London]], it was not with an army of white
 cockades, but with a stick and a satchel.  [[London]] overawed him a little,
@@ -102,19 +118,3 @@ respect for law, and his ardour to be tried by his fellow citizens,
 seemed to the police quite as much gibberish as Evan's mysticism
 could have done.  The police were not used to hearing principles,
 even the principles of their own existence.
-
-The police magistrate, before whom they were hurried and tried,
-was a Mr. Cumberland Vane, a cheerful, middle-aged gentleman,
-honourably celebrated for the lightness of his sentences and the
-lightness of his conversation.  He occasionally worked himself up
-into a sort of theoretic rage about certain particular offenders,
-such as the men who took pokers to their wives, talked in a loose,
-sentimental way about the desirability of flogging them, and was
-hopelessly bewildered by the fact that the wives seemed even more
-angry with him than with their husbands.  He was a tall, spruce man,
-with a twist of black moustache and incomparable morning dress.
-He looked like a gentleman, and yet, somehow, like a stage gentleman.
-
-He had often treated serious crimes against mere order or property
-with a humane flippancy.  Hence, about the mere breaking of an
-editor's [[Window|window]], he was almost uproarious.

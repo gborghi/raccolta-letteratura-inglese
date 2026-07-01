@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 25 (part 2)"
+title: "Barnaby Rudge — Chapter 25 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_25/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_25/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘At length you have mustered heart to visit the old place,’ he said to
+the widow. ‘I am glad you have.’
+
+‘For the first [[Time|time]], and the last, sir,’ she replied.
 
 ‘The first for many years, but not the last?’
 
@@ -134,8 +139,3 @@ you [[Fear|fear]] to awaken such a suspicion? You do not speak to strangers. You
 have not to claim our interest or consideration for the first [[Time|time]]. Be
 more yourself. Take heart. Any advice or assistance that I can give you,
 you know is yours of right, and freely yours.’
-
-‘What if I came, sir,’ she rejoined, ‘I who have but one other friend on
-earth, to reject your aid from this moment, and to say that henceforth
-I launch myself upon the world, [[Alone|alone]] and unassisted, to sink or swim as
-Heaven may decree!’

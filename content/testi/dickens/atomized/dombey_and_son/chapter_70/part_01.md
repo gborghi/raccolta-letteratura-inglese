@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 14 (part 1)"
+title: "Dombey and Son — Chapter 42 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -10,114 +10,137 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/dombey-and-son-(dickens)">Dombey and Son</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_69/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_70/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_69/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_70/part_02">part 02 ›</a></div>
 </nav>
 
 
-CHAPTER XIV.
-Paul grows more and more Old-fashioned, and goes [[Home]] for the Holidays
+CHAPTER XLII.
+Confidential and Accidental
 
 
-When the Midsummer vacation approached, no indecent manifestations of
-joy were exhibited by the leaden-eyed young gentlemen assembled at
-Doctor Blimber’s. Any such violent expression as “breaking up,” would
-have been quite inapplicable to that polite establishment. The young
-gentlemen oozed away, semi-annually, to their own homes; but they never
-broke up. They would have scorned the action.
+Attired no more in [[Captain Cuttle]]’s sable slops and sou’-wester hat,
+but dressed in a substantial suit of brown livery, which, while it
+affected to be a very sober and demure livery indeed, was really as
+[[Self|self]]-satisfied and confident a one as tailor need [[Desire|desire]] to make, Rob
+the Grinder, thus transformed as to his outer man, and all regardless
+within of the Captain and the Midshipman, except when he devoted a few
+minutes of his leisure [[Time|time]] to crowing over those inseparable worthies,
+and recalling, with much applauding music from that brazen instrument,
+his [[Conscience|conscience]], the triumphant manner in which he had disembarrassed
+himself of their company, now served his patron, Mr Carker. Inmate of
+Mr Carker’s [[house]], and serving about his person, Rob kept his round
+eyes on the white teeth with [[Fear|fear]] and trembling, and felt that he had
+need to open them wider than ever.
 
-Tozer, who was constantly galled and tormented by a starched white
-cambric neckerchief, which he wore at the express [[Desire|desire]] of Mrs Tozer,
-his parent, who, designing him for the Church, was of opinion that he
-couldn’t be in that forward state of preparation too soon—Tozer said,
-indeed, that choosing between two evils, he thought he would rather
-stay where he was, than go [[Home|home]]. However inconsistent this declaration
-might appear with that passage in Tozer’s [[Essay]] on the subject, wherein
-he had observed “that the thoughts of [[Home|home]] and all its recollections,
-awakened in his mind the most pleasing emotions of anticipation and
-delight,” and had also likened himself to a Roman General, flushed with
-a recent victory over the Iceni, or laden with Carthaginian spoil,
-advancing within a few hours’ march of the Capitol, presupposed, for
-the purposes of the simile, to be the dwelling-place of Mrs Tozer,
-still it was very sincerely made. For it seemed that Tozer had a
-dreadful Uncle, who not only volunteered examinations of him, in the
-holidays, on abstruse points, but twisted [[Innocent|innocent]] events and things,
-and wrenched them to the same fell purpose. So that if this Uncle took
-him to the Play, or, on a similar pretence of kindness, carried him to
-see a Giant, or a [[Dwarf]], or a Conjuror, or anything, Tozer knew he had
-read up some classical allusion to the subject beforehand, and was
-thrown into a state of mortal apprehension: not foreseeing where he
-might break out, or what authority he might not quote against him.
+He could not have quaked more, through his whole being, before the
+teeth, though he had come into the service of some powerful enchanter,
+and they had been his strongest spells. The boy had a sense of power
+and authority in this patron of his that engrossed his whole attention
+and exacted his most implicit submission and obedience. He hardly
+considered himself safe in thinking about him when he was absent, lest
+he should feel himself immediately taken by the throat again, as on the
+morning when he first became bound to him, and should see every one of
+the teeth finding him out, and taxing him with every fancy of his mind.
+Face to face with him, Rob had no more [[Doubt|doubt]] that Mr Carker read his
+secret thoughts, or that he could read them by the least exertion of
+his will if he were so inclined, than he had that Mr Carker saw him
+when he looked at him. The ascendancy was so complete, and held him in
+such enthralment, that, hardly daring to think at all, but with his
+mind filled with a constantly dilating impression of his patron’s
+irresistible command over him, and power of doing anything with him, he
+would stand watching his pleasure, and trying to anticipate his orders,
+in a state of mental suspension, as to all other things.
 
-As to Briggs, his father made no show of artifice about it. He never
-would leave him [[Alone|alone]]. So numerous and severe were the mental trials of
-that unfortunate youth in vacation [[Time|time]], that the friends of the family
-(then resident near Bayswater, [[London]]) seldom approached the ornamental
-piece of [[Water|water]] in Kensington Gardens, without a vague expectation of
-seeing Master Briggs’s hat floating on the surface, and an unfinished
-exercise lying on the bank. Briggs, therefore, was not at all sanguine
-on the subject of holidays; and these two sharers of little Paul’s
-bedroom were so fair a sample of the young gentlemen in general, that
-the most elastic among them contemplated the arrival of those festive
-periods with genteel [[Resignation|resignation]].
+Rob had not informed himself perhaps—in his then state of mind it would
+have been an act of no common temerity to inquire—whether he yielded so
+completely to this influence in any part, because he had floating
+suspicions of his patron’s being a master of certain treacherous arts
+in which he had himself been a poor scholar at the Grinders’ School.
+But certainly Rob admired him, as [[Well|well]] as feared him. Mr Carker,
+perhaps, was better acquainted with the sources of his power, which
+lost nothing by his management of it.
 
-It was far otherwise with little Paul. The end of these first holidays
-was to witness his separation from Florence, but who ever looked
-forward to the end of holidays whose beginning was not yet come! Not
-Paul, assuredly. As the happy [[Time|time]] drew near, the lions and tigers
-climbing up the bedroom walls became quite tame and frolicsome. The
-grim sly faces in the squares and diamonds of the floor-cloth, relaxed
-and peeped out at him with less wicked eyes. The [[Grave|grave]] old [[Clock|clock]] had
-more of personal interest in the tone of its formal inquiry; and the
-restless sea went [[rolling]] on all [[Night|night]], to the sounding of a [[Melancholy|melancholy]]
-strain—yet it was pleasant too—that [[Rose|rose]] and fell with the waves, and
-rocked him, as it were, to [[Sleep|sleep]].
+On the very [[Night|night]] when he left the Captain’s service, Rob, after
+disposing of his pigeons, and even making a bad bargain in his hurry,
+had gone straight down to Mr Carker’s [[house]], and hotly presented
+himself before his new master with a glowing face that seemed to expect
+commendation.
 
-Mr Feeder, B.A., seemed to think that he, too, would enjoy the holidays
-very much. Mr Toots projected a life of holidays from that [[Time|time]] forth;
-for, as he regularly informed Paul every day, it was his “last half” at
-Doctor Blimber’s, and he was going to begin to come into his property
-directly.
+“What, scapegrace!” said Mr Carker, glancing at his bundle “Have you
+left your situation and come to me?”
 
-It was perfectly understood between Paul and Mr Toots, that they were
-intimate friends, notwithstanding their distance in point of years and
-station. As the vacation approached, and Mr Toots breathed harder and
-stared oftener in Paul’s society, than he had done before, Paul knew
-that he meant he was sorry they were going to lose sight of each other,
-and felt very much obliged to him for his patronage and good opinion.
+“Oh if you please, Sir,” faltered Rob, “you said, you know, when I come
+here last—”
 
-It was even understood by Doctor Blimber, Mrs Blimber, and Miss
-Blimber, as [[Well|well]] as by the young gentlemen in general, that Toots had
-somehow constituted himself protector and guardian of Dombey, and the
-circumstance became so notorious, even to Mrs Pipchin, that the good
-old creature cherished feelings of bitterness and [[Jealousy|jealousy]] against
-Toots; and, in the sanctuary of her own [[Home|home]], repeatedly denounced him
-as a “chuckle-headed noodle.” Whereas the [[Innocent|innocent]] Toots had no more
-idea of awakening Mrs Pipchin’s wrath, than he had of any other
-definite possibility or proposition. On the contrary, he was disposed
-to consider her rather a remarkable character, with many points of
-interest about her. For this reason he smiled on her with so much
-urbanity, and asked her how she did, so often, in the course of her
-visits to little Paul, that at last she one [[Night|night]] told him plainly, she
-wasn’t used to it, whatever he might think; and she could not, and she
-would not bear it, either from himself or any other puppy then
-existing: at which unexpected acknowledgment of his civilities, Mr
-Toots was so alarmed that he secreted himself in a retired spot until
-she had gone. Nor did he ever again face the doughty Mrs Pipchin, under
-Doctor Blimber’s roof.
+“I said,” returned Mr Carker, “what did I say?”
 
-They were within two or three weeks of the holidays, when, one day,
-Cornelia Blimber called Paul into her room, and said, “Dombey, I am
-going to send [[Home|home]] your analysis.”
+“If you please, Sir, you didn’t say nothing at all, Sir,” returned Rob,
+warned by the manner of this inquiry, and very much disconcerted.
 
-“Thank you, Ma’am,” returned Paul.
+His patron looked at him with a wide display of gums, and shaking his
+forefinger, observed:
 
-“You know what I mean, do you, Dombey?” inquired Miss Blimber, looking
-hard at him, through the spectacles.
+“You’ll come to an evil end, my vagabond friend, I foresee. There’s
+ruin in store for you.
 
-“No, Ma’am,” said Paul.
+“Oh if you please, don’t, Sir!” cried Rob, with his legs trembling
+under him. “I’m sure, Sir, I only want to work for you, Sir, and to
+wait upon you, Sir, and to do faithful whatever I’m bid, Sir.”
 
-“Dombey, Dombey,” said Miss Blimber, “I begin to be afraid you are a
-sad boy. When you don’t know the meaning of an expression, why don’t
-you seek for information?”
+“You had better do faithfully whatever you are bid,” returned his
+patron, “if you have anything to do with me.”
 
-“Mrs Pipchin told me I wasn’t to ask questions,” returned Paul.
+“Yes, I know that, Sir,” pleaded the submissive Rob; “I’m sure of that,
+Sir. If you’ll only be so good as try me, Sir! And if ever you find me
+out, Sir, doing anything against your wishes, I give you leave to kill
+me.”
+
+“You dog!” said Mr Carker, leaning back in his chair, and smiling at
+him serenely. “That’s nothing to what I’d do to you, if you tried to
+deceive me.”
+
+“Yes, Sir,” replied the abject Grinder, “I’m sure you would be down
+upon me dreadful, Sir. I wouldn’t attempt for to go and do it, Sir, not
+if I was bribed with golden guineas.”
+
+Thoroughly checked in his expectations of commendation, the crestfallen
+Grinder stood looking at his patron, and vainly endeavouring not to
+look at him, with the uneasiness which a cur will often manifest in a
+similar situation.
+
+“So you have left your old service, and come here to ask me to take you
+into mine, eh?” said Mr Carker.
+
+“Yes, if you please, Sir,” returned Rob, who, in doing so, had acted on
+his patron’s own instructions, but dared not justify himself by the
+least insinuation to that effect.
+
+“[[Well]]!” said Mr Carker. “You know me, boy?”
+
+“Please, Sir, yes, Sir,” returned Rob, tumbling with his hat, and still
+fixed by Mr Carker’s eye, and fruitlessly endeavouring to unfix
+himself.
+
+Mr Carker nodded. “Take care, then!”
+
+Rob expressed in a number of short bows his lively understanding of
+this caution, and was bowing himself back to the door, greatly relieved
+by the prospect of getting on the outside of it, when his patron
+stopped him.
+
+“Halloa!” he cried, calling him roughly back. “You have been—shut that
+door.”
+
+Rob obeyed as if his life had depended on his alacrity.
+
+“You have been used to eaves-dropping. Do you know what that means?”
+
+“Listening, Sir?” Rob hazarded, after some embarrassed reflection.
+
+His patron nodded. “And watching, and so forth.”
+
+“I wouldn’t do such a thing here, Sir,” answered Rob; “upon my word and
+[[Honour|honour]], I wouldn’t, Sir, I wish I may die if I would, Sir, for anything
+that could be promised to me. I should consider it is as much as all
+the world was worth, to offer to do such a thing, unless I was ordered,
+Sir.”

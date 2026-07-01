@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 8: MY HOLIDAYS. ESPECIALLY ONE HAPPY AFTERNOON (part 4)"
+title: "David Copperfield — Chapter 8: MY HOLIDAYS. ESPECIALLY ONE HAPPY AFTERNOON (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_08_my_holidays_especially_one_hap/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_08_my_holidays_especially_one_hap/part_05">part 05 ›</a></div>
 </nav>
 
+
+When we had had our tea, and the ashes were thrown up, and the candles
+snuffed, I read Peggotty a chapter out of the Crocodile Book, in
+remembrance of old times--she took it out of her pocket: I don’t know
+whether she had kept it there ever since--and then we talked about Salem
+[[house|House]], which brought me round again to Steerforth, who was my great
+subject. We were very happy; and that evening, as the last of its race,
+and destined evermore to close that volume of my life, will never pass
+out of my [[Memory|memory]].
 
 It was almost ten o’[[Clock|clock]] before we heard the sound of wheels. We all
 got up then; and my mother said hurriedly that, as it was so late, and
@@ -132,14 +141,3 @@ only moved. Therefore I resolved to keep myself as much out of their way
 as I could; and many a wintry hour did I hear the church [[Clock|clock]] strike,
 when I was sitting in my cheerless bedroom, wrapped in my little
 great-coat, poring over a book.
-
-In the evening, sometimes, I went and sat with Peggotty in the kitchen.
-There I was comfortable, and not afraid of being myself. But neither of
-these resources was approved of in the parlour. The tormenting [[Humour|humour]]
-which was dominant there stopped them both. I was still held to be
-necessary to my poor mother’s training, and, as one of her trials, could
-not be suffered to absent myself.
-
-‘David,’ said Mr. Murdstone, one day after dinner when I was going to
-leave the room as usual; ‘I am sorry to observe that you are of a sullen
-disposition.’

@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 47: MARTHA (part 4)"
+title: "David Copperfield — Chapter 47: MARTHA (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_47_martha/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_48_domestic/part_01">part 01 ›</a></div>
 </nav>
 
+
+We followed her at a short distance, our way lying in the same
+direction, until we came back into the lighted and populous streets. I
+had such implicit confidence in her declaration, that I then put it to
+Mr. Peggotty, whether it would not seem, in the onset, like distrusting
+her, to follow her any farther. He being of the same mind, and equally
+reliant on her, we suffered her to take her own [[Road|road]], and took ours,
+which was towards Highgate. He accompanied me a good part of the way;
+and when we parted, with a [[prayer]] for the [[success]] of this fresh effort,
+there was a new and thoughtful compassion in him that I was at no loss
+to interpret.
 
 It was midnight when I arrived at [[Home|home]]. I had reached my own gate, and
 was standing listening for the deep bell of St. Paul’s, the sound

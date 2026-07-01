@@ -1,5 +1,5 @@
 ---
-title: "[[Richard II]] — Act II, Scene 3 — monologue (BOLINGBROKE) [3]"
+title: "Richard II — Act II, Scene 3 — monologue (BOLINGBROKE) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/richard-ii-(shakespeare)"

@@ -1,5 +1,5 @@
 ---
-title: "[[The Devil in the Belfry]]"
+title: "The Devil in the Belfry"
 author: "Poe"
 unitType: work
 parentWork: "works/the-devil-in-the-belfry-(poe)"

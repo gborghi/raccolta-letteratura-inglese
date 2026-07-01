@@ -1,5 +1,5 @@
 ---
-title: "[[Cymbeline]] — Act V, Scene 5 — exchange (GIACOMO) [21]"
+title: "Cymbeline — Act V, Scene 5 — exchange (GIACOMO) [21]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/cymbeline-(shakespeare)"

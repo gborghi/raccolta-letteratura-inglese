@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 33 (part 2)"
+title: "Nicholas Nickleby — Chapter 33 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_33/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_33/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘I will leave you nowhere,’ answered Nicholas--‘never again, Kate,’ he
+cried, moved in spite of himself as he folded her to his heart. ‘Tell
+me that I acted for the best. Tell me that we parted because I feared to
+bring misfortune on your head; that it was a trial to me no less than to
+yourself, and that if I did wrong it was in ignorance of the world and
+unknowingly.’
 
 ‘Why should I tell you what we know so [[Well|well]]?’ returned Kate soothingly.
 ‘Nicholas--dear Nicholas--how can you give way thus?’
@@ -118,21 +125,3 @@ there,’ said Mrs. Nickleby, stopping short. ‘Think of Mr. Pyke and Mr
 Pluck, two of the most perfect gentlemen that ever lived, what am I too
 say to them--what can I say to them? Why, if I was to say to them, “I’m
 told your friend Sir Mulberry is a base wretch,” they’d laugh at me.’
-
-‘They will laugh no more at us, I take it,’ said Nicholas, advancing.
-‘Come, mother, there is a coach at the door, and until Monday, at all
-events, we will return to our old quarters.’
-
-‘--Where everything is ready, and a hearty welcome into the bargain,’
-added Miss La Creevy. ‘Now, let me go with you downstairs.’
-
-But Mrs. Nickleby was not to be so easily moved, for first she insisted
-on going upstairs to see that nothing had been left, and then on going
-downstairs to see that everything had been taken away; and when she was
-getting into the coach she had a vision of a forgotten coffee-pot on the
-back-kitchen hob, and after she was shut in, a dismal recollection of
-a green umbrella behind some unknown door. At last Nicholas, in a
-condition of absolute [[Despair|despair]], ordered the coachman to drive away,
-and in the unexpected jerk of a sudden starting, Mrs. Nickleby lost a
-shilling among the straw, which fortunately confined her attention to
-the coach until it was too late to remember anything else.

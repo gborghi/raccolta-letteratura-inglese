@@ -1,5 +1,5 @@
 ---
-title: "The [[Comedy]] of Errors — Act V, Scene 1 — exchange ([[Adriana|ADRIANA]]) [2]"
+title: "The Comedy of Errors — Act V, Scene 1 — exchange (ADRIANA) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-comedy-of-errors-(shakespeare)"

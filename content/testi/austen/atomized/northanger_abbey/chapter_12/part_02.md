@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 11 (part 2)"
+title: "Northanger Abbey — Chapter 11 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_12/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_12/part_03">part 03 ›</a></div>
 </nav>
 
+
+“By dozens.”
+
+
+
+“Then I should like to see it; but I cannot—I cannot go.”
+
+
+
+“Not go! my beloved creature, what do you mean?”
+
+
+
+“I cannot go, because”—looking down as she spoke, fearful of [[Isabella]]’s
 
 smile—“I expect Miss Tilney and her brother to call on me to take a
 
@@ -241,13 +255,3 @@ through a long suite of lofty rooms, exhibiting the remains of
 magnificent furniture, though now for many years deserted—the happiness
 
 of being stopped in their way along narrow, winding vaults, by a low,
-
-grated door; or even of having their lamp, their only lamp,
-
-extinguished by a sudden gust of [[Wind|wind]], and of being left in total
-
-darkness. In the meanwhile, they proceeded on their [[Journey|journey]] without any
-
-mischance, and were within view of the town of Keynsham, when a halloo
-
-from Morland, who was behind them, made his friend pull up, to know

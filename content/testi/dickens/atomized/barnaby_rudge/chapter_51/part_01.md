@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 51 (part 1)"
+title: "Barnaby Rudge — Chapter 51 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -116,22 +116,3 @@ drowsy mingling of the sacred and profane, ‘Ally Looyer, mim! there’s
 Simmuns’s knock!’
 
 ‘Who’s there?’ said Gabriel.
-
-‘Me!’ cried the [[Well|well]]-known voice of Mr Tappertit. Gabriel opened the
-door, and gave him admission.
-
-He did not cut a very insinuating figure, for a man of his stature
-suffers in a crowd; and having been active in yesterday morning’s work,
-his dress was literally crushed from head to foot: his hat being beaten
-out of all shape, and his shoes trodden down at heel like slippers. His
-coat fluttered in strips about him, the buckles were torn away both from
-his knees and feet, half his neckerchief was gone, and the bosom of
-his shirt was rent to tatters. Yet notwithstanding all these personal
-disadvantages; despite his being very weak from heat and fatigue; and
-so begrimed with mud and [[Dust|dust]] that he might have been in a case, for
-anything of the real texture (either of his skin or apparel) that the
-eye could discern; he stalked haughtily into the parlour, and throwing
-himself into a chair, and endeavouring to thrust his hands into the
-pockets of his small-clothes, which were turned inside out and displayed
-upon his legs, like tassels, surveyed the household with a gloomy
-dignity.

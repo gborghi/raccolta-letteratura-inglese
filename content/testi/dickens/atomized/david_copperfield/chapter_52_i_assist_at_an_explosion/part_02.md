@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 52: I ASSIST AT AN EXPLOSION (part 2)"
+title: "David Copperfield — Chapter 52: I ASSIST AT AN EXPLOSION (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_52_i_assist_at_an_explosion/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_52_i_assist_at_an_explosion/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘Here he is,’ said I, ‘and not in his legal attire!’
+
+My aunt tied the strings of her bonnet (she had come down to breakfast
+in it), and put on her shawl, as if she were ready for anything that
+was resolute and uncompromising. Traddles buttoned his coat with a
+determined air. Mr. Dick, disturbed by these formidable appearances, but
+feeling it necessary to imitate them, pulled his hat, with both hands,
+as firmly over his ears as he possibly could; and instantly took it off
+again, to welcome Mr. Micawber.
 
 ‘Gentlemen, and madam,’ said Mr. Micawber, ‘good morning! My dear sir,’
 to Mr. Dick, who shook hands with him violently, ‘you are extremely
@@ -139,16 +149,3 @@ to you.’
 ‘for your good opinion! Micawber, tell ‘em to let Miss Agnes know--and
 mother. Mother will be quite in a state, when she sees the present
 company!’ said Uriah, setting chairs.
-
-‘You are not busy, Mr. Heep?’ said Traddles, whose eye the cunning red
-eye accidentally caught, as it at once scrutinized and evaded us.
-
-‘No, Mr. Traddles,’ replied Uriah, resuming his official seat, and
-squeezing his bony hands, laid palm to palm between his bony knees. ‘Not
-so much so as I could wish. But lawyers, sharks, and leeches, are not
-easily satisfied, you know! Not but what myself and Micawber have our
-hands pretty full, in general, on account of Mr. Wickfield’s being
-hardly fit for any occupation, sir. But it’s a pleasure as [[Well|well]] as a
-duty, I am sure, to work for him. You’ve not been intimate with Mr.
-Wickfield, I think, Mr. Traddles? I believe I’ve only had the [[Honour|honour]] of
-seeing you once myself?’

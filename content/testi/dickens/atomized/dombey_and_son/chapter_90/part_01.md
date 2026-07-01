@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 34 (part 1)"
+title: "Dombey and Son — Chapter 62 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,139 +14,129 @@ tags:
 </nav>
 
 
-CHAPTER XXXIV.
-Another Mother and Daughter
+CHAPTER LXII.
+Final
 
 
-In an ugly and dark room, an old woman, ugly and dark too, sat
-listening to the [[Wind|wind]] and rain, and crouching over a meagre [[Fire|fire]]. More
-constant to the last-named occupation than the first, she never changed
-her attitude, unless, when any stray drops of rain fell hissing on the
-smouldering embers, to raise her head with an awakened attention to the
-whistling and pattering outside, and gradually to let it fall again
-lower and lower and lower as she sunk into a brooding state of thought,
-in which the noises of the [[Night|night]] were as indistinctly regarded as is
-the monotonous [[rolling]] of a sea by one who sits in contemplation on its
-shore.
+A bottle that has been long excluded from the light of day, and is
+hoary with [[Dust|dust]] and cobwebs, has been brought into the sunshine; and
+the golden wine within it sheds a lustre on the table.
 
-There was no light in the room save that which the [[Fire|fire]] afforded.
-Glaring sullenly from [[Time|time]] to [[Time|time]] like the eye of a fierce beast half
-asleep, it revealed no objects that needed to be jealous of a better
-display. A heap of rags, a heap of bones, a wretched bed, two or three
-mutilated chairs or stools, the black walls and blacker ceiling, were
-all its winking brightness shone upon. As the old woman, with a
-gigantic and distorted image of herself thrown half upon the wall
-behind her, half upon the roof above, sat bending over the few loose
-bricks within which it was pent, on the damp hearth of the chimney—for
-there was no stove—she looked as if she were watching at some [[Witch|witch]]’s
-altar for a favourable token; and but that the movement of her
-chattering jaws and trembling chin was too frequent and too fast for
-the slow flickering of the [[Fire|fire]], it would have seemed an illusion
-wrought by the light, as it came and went, upon a face as motionless as
-the form to which it belonged.
+It is the last bottle of the old Madiera.
 
-If Florence could have stood within the room and looked upon the
-original of the [[Shadow|shadow]] thrown upon the wall and roof as it cowered thus
-over the [[Fire|fire]], a glance might have sufficed to recall the figure of
-Good Mrs Brown; notwithstanding that her childish recollection of that
-terrible old woman was as [[Grotesque|grotesque]] and exaggerated a presentment of
-the [[Truth|truth]], perhaps, as the [[Shadow|shadow]] on the wall. But Florence was not
-there to look on; and Good Mrs Brown remained unrecognised, and sat
-staring at her [[Fire|fire]], unobserved.
+“You are quite right, Mr Gills,” says Mr Dombey. “This is a very rare
+and most delicious wine.”
 
-Attracted by a louder sputtering than usual, as the rain came hissing
-down the chimney in a little stream, the old woman raised her head,
-impatiently, to listen afresh. And this [[Time|time]] she did not drop it again;
-for there was a hand upon the door, and a footstep in the room.
+The Captain, who is of the party, beams with joy. There is a very halo
+of delight round his glowing forehead.
 
-“Who’s that?” she said, looking over her shoulder.
+“We always promised ourselves, Sir,” observes Mr Gills,” Ned and
+myself, I mean—”
 
-“One who brings you news, was the answer, in a woman’s voice.
+Mr Dombey nods at the Captain, who shines more and more with speechless
+gratification.
 
-“News? Where from?”
+“—that we would drink this, one day or other, to Walter safe at [[Home|home]]:
+though such a [[Home|home]] we never thought of. If you don’t object to our old
+whim, Sir, let us devote this first glass to Walter and his wife.”
 
-“From abroad.”
+“To Walter and his wife!” says Mr Dombey. “Florence, my [[Child|child]]”—and
+turns to kiss her.
 
-“From beyond seas?” cried the old woman, starting up.
+“To Walter and his wife!” says Mr Toots.
 
-“Ay, from beyond seas.”
+“To Wal”r and his wife!” exclaims the Captain. “Hooroar!” and the
+Captain exhibiting a strong [[Desire|desire]] to clink his glass against some
+other glass, Mr Dombey, with a ready hand, holds out his. The others
+follow; and there is a blithe and merry ringing, as of a little peal of
+[[Marriage|marriage]] [[Bells|bells]].
 
-The old woman raked the [[Fire|fire]] together, hurriedly, and going close to
-her visitor who had entered, and shut the door, and who now stood in
-the middle of the room, put her hand upon the drenched cloak, and
-turned the unresisting figure, so as to have it in the full light of
-the [[Fire|fire]]. She did not find what she had expected, whatever that might
-be; for she let the cloak go again, and uttered a querulous cry of
-disappointment and misery.
+Other buried wine grows older, as the old Madeira did in its [[Time|time]]; and
+[[Dust|dust]] and cobwebs thicken on the bottles.
 
-“What is the matter?” asked her visitor.
+Mr Dombey is a white-haired gentleman, whose face bears heavy marks of
+care and [[Suffering|suffering]]; but they are traces of a [[Storm|storm]] that has passed on
+for ever, and left a clear evening in its track.
 
-“Oho! Oho!” cried the old woman, turning her face upward, with a
-terrible howl.
+Ambitious projects trouble him no more. His only [[Pride|pride]] is in his
+daughter and her husband. He has a silent, thoughtful, quiet manner,
+and is always with his daughter. Miss Tox is not infrequently of the
+family party, and is quite devoted to it, and a great favourite. Her
+admiration of her once stately patron is, and has been ever since the
+morning of her shock in Princess’s Place, platonic, but not weakened in
+the least.
 
-“What is the matter?” asked the visitor again.
+Nothing has drifted to him from the wreck of his fortunes, but a
+certain annual sum that comes he knows not how, with an earnest
+entreaty that he will not seek to discover, and with the assurance that
+it is a debt, and an act of reparation. He has consulted with his old
+clerk about this, who is clear it may be honourably accepted, and has
+no [[Doubt|doubt]] it arises out of some forgotten transaction in the times of
+the old [[house|House]].
 
-“It’s not my gal!” cried the old woman, tossing up her arms, and
-clasping her hands above her head. “Where’s my Alice? Where’s my
-handsome daughter? They’ve been the [[Death|death]] of her!”
+That hazel-eyed bachelor, a bachelor no more, is married now, and to
+the sister of the grey-haired Junior. He visits his old chief
+sometimes, but seldom. There is a reason in the greyhaired Junior’s
+[[history]], and yet a stronger reason in his name, why he should keep
+retired from his old employer; and as he lives with his sister and her
+husband, they participate in that retirement. Walter sees them
+sometimes—Florence too—and the pleasant [[house]] resounds with profound
+duets arranged for the Piano-Forte and Violoncello, and with the
+labours of Harmonious Blacksmiths.
 
-“They’ve not been the [[Death|death]] of her yet, if your name’s Marwood,” said
-the visitor.
+And how goes the wooden Midshipman in these changed days? Why, here he
+still is, right leg foremost, hard at work upon the hackney coaches,
+and more on the alert than ever, being newly painted from his cocked
+hat to his buckled shoes; and up above him, in golden characters, these
+names shine refulgent, GILLS AND CUTTLE.
 
-“Have you seen my gal, then?” cried the old woman. “Has she wrote to
-me?”
+Not another stroke of business does the Midshipman achieve beyond his
+usual easy trade. But they do say, in a circuit of some half-mile round
+the blue umbrella in Leadenhall Market, that some of Mr Gills’s old
+investments are coming out wonderfully [[Well|well]]; and that instead of being
+behind the [[Time|time]] in those respects, as he supposed, he was, in [[Truth|truth]], a
+little before it, and had to wait the fulness of the [[Time|time]] and the
+design. The whisper is that Mr Gills’s money has begun to turn itself,
+and that it is turning itself over and over pretty briskly. Certain it
+is that, standing at his shop-door, in his coffee-coloured suit, with
+his chronometer in his pocket, and his spectacles on his forehead, he
+don’t appear to break his heart at customers not coming, but looks very
+jovial and contented, though full as misty as of yore.
 
-“She said you couldn’t read,” returned the other.
+As to his partner, [[Captain Cuttle]], there is a fiction of a business in
+the Captain’s mind which is better than any reality. The Captain is as
+satisfied of the Midshipman’s importance to the commerce and navigation
+of the country, as he could possibly be, if no [[Ship|ship]] left the Port of
+[[London]] without the Midshipman’s assistance. His delight in his own name
+over the door, is inexhaustible. He crosses the street, twenty times a
+day, to look at it from the other side of the way; and invariably says,
+on these occasions, “Ed’ard Cuttle, my lad, if your mother could ha’
+know’d as you would ever be a man o’ science, the good old creetur
+would ha’ been took aback in-deed!”
 
-“No more I can!” exclaimed the old woman, wringing her hands.
+But here is Mr Toots descending on the Midshipman with violent
+rapidity, and Mr Toots’s face is very red as he bursts into the little
+parlour.
 
-“Have you no light here?” said the other, looking round the room.
+“Captain Gills,” says Mr Toots, “and Mr Sols, I am happy to inform you
+that Mrs Toots has had an increase to her family.”
 
-The old woman, mumbling and shaking her head, and muttering to herself
-about her handsome daughter, brought a candle from a cupboard in the
-corner, and thrusting it into the [[Fire|fire]] with a trembling hand, lighted
-it with some difficulty and set it on the table. Its dirty wick burnt
-dimly at first, being choked in its own grease; and when the bleared
-eyes and failing sight of the old woman could distinguish anything by
-its light, her visitor was sitting with her arms folded, her eyes
-turned downwards, and a handkerchief she had worn upon her head lying
-on the table by her side.
+“And it does her credit!” cries the Captain.
 
-“She sent to me by word of mouth then, my gal, Alice?” mumbled the old
-woman, after waiting for some moments. “What did she say?”
+“I give you joy, Mr Toots!” says old Sol.
 
-“Look,” returned the visitor.
+“Thank’ee,” chuckles Mr Toots, “I’m very much obliged to you. I knew
+that you’d be glad to hear, and so I came down myself. We’re positively
+getting on, you know. There’s Florence, and Susan, and now here’s
+another little stranger.”
 
-The old woman repeated the word in a scared uncertain way; and, shading
-her eyes, looked at the speaker, round the room, and at the speaker
-once again.
+“A female stranger?” inquires the Captain.
 
-“Alice said look again, mother;” and the speaker fixed her eyes upon
-her.
+“Yes, Captain Gills,” says Mr Toots, “and I’m glad of it. The oftener
+we can repeat that most extraordinary woman, my opinion is, the
+better!”
 
-Again the old woman looked round the room, and at her visitor, and
-round the room once more. Hastily seizing the candle, and rising from
-her seat, she held it to the visitor’s face, uttered a loud cry, set
-down the light, and fell upon her neck!
-
-“It’s my gal! It’s my Alice! It’s my handsome daughter, living and come
-back!” screamed the old woman, rocking herself to and fro upon the
-breast that coldly suffered her embrace. “It’s my gal! It’s my Alice!
-It’s my handsome daughter, living and come back!” she screamed again,
-dropping on the floor before her, clasping her knees, laying her head
-against them, and still rocking herself to and fro with every frantic
-demonstration of which her vitality was capable.
-
-“Yes, mother,” returned Alice, stooping forward for a moment and
-kissing her, but endeavouring, even in the act, to disengage herself
-from her embrace. “I am here, at last. Let go, mother; let go. Get up,
-and sit in your chair. What good does this do?”
-
-“She’s come back harder than she went!” cried the mother, looking up in
-her face, and still holding to her knees. “She don’t care for me! after
-all these years, and all the wretched life I’ve led!”
-
-“Why, mother!” said Alice, shaking her ragged skirts to detach the old
-woman from them: “there are two sides to that. There have been years
-for me as [[Well|well]] as you, and there has been wretchedness for me as [[Well|well]]
-as you. Get up, get up!”
+“Stand by!” says the Captain, turning to the old case-bottle with no
+throat—for it is evening, and the Midshipman’s usual moderate provision
+of pipes and glasses is on the board. “Here’s to her, and may she have
+ever so many more!”

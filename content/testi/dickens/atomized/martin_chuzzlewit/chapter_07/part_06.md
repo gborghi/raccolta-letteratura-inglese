@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 7 (part 6)"
+title: "Martin Chuzzlewit — Chapter 7 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_07/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_08/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘Why, I tell you what,’ said Mark, throwing off all his constraint in an
+instant and seizing the hostess round the waist--at which she was not at
+all alarmed, for she knew what a good young man he was--‘if I took what
+I liked most, I should take you. If I only thought what was best for me,
+I should take you. If I took what nineteen young fellows in twenty would
+be glad to take, and would take at any price, I should take you. Yes,
+I should,’ cried Mr Tapley, shaking his head expressively enough, and
+looking (in a momentary state of forgetfulness) rather hard at the
+hostess’s ripe lips. ‘And no man wouldn’t [[Wonder|wonder]] if I did!’
 
 Mrs Lupin said he amazed her. She was astonished how he could say such
 things. She had never thought it of him.

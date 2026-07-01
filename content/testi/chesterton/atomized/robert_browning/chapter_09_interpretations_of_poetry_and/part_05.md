@@ -40,7 +40,7 @@ notice one peculiarity of these [[Poems|poems]] which is rather striking. As a
 whole, these apologies are written in a particularly burly and even
 brutal English. Browning's [[Love|love]] of what is called the ugly is nowhere
 else so fully and extravagantly indulged. This, like a great many
-other things for which Browning as an [[Artist|artist]] is blamed, is perfectly
+other things for which Browning as an [[artist]] is blamed, is perfectly
 appropriate to the theme. A vain, ill-mannered, and untrustworthy
 egotist, defending his own sordid doings with his own cheap and
 weather-beaten [[philosophy]], is very likely to express himself best in a

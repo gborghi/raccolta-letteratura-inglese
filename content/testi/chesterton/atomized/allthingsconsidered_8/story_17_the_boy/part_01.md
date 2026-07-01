@@ -1,5 +1,5 @@
 ---
-title: "[[AllThingsConsidered-8]] — THE BOY (part 1)"
+title: "AllThingsConsidered-8 — THE BOY (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/allthingsconsidered-8-(chesterton)"
@@ -10,12 +10,11 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/allthingsconsidered-8-(chesterton)">AllThingsConsidered 8</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_11_oxford_from_without/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_17_the_boy/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_11_oxford_oxford_from_without/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_17_the_boy/part_02">part 02 ›</a></div>
 </nav>
 
 
 THE BOY
-
 
 I have no sympathy with international aggression when it is
 taken seriously, but I have a certain dark and wild sympathy with it

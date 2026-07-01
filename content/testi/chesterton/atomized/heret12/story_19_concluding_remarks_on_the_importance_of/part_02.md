@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]] — Concluding Remarks on the Importance of Orthodoxy (part 2)"
+title: "heret12 — Concluding Remarks on the Importance of Orthodoxy (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/heret12-(chesterton)"
@@ -28,7 +28,7 @@ for the same reason that the poet loved it; if we dislike him because of
 his opinions, we are disliking him for the best of all possible reasons.
 If a man comes into Hyde Park to preach it is permissible to hoot him;
 but it is discourteous to applaud him as a performing bear.
-And an [[artist]] is only a performing bear compared with the meanest
+And an [[Artist|artist]] is only a performing bear compared with the meanest
 man who fancies he has anything to say.
 
 There is, indeed, one class of modern writers and thinkers who cannot
@@ -50,7 +50,7 @@ Unfortunately, the philosopher who talks about aspects of [[Truth|truth]]
 generally also asks, "What is [[Truth|truth]]?"  Frequently even he denies
 the existence of [[Truth|truth]], or says it is inconceivable by the
 human intelligence.  How, then, can he recognize its aspects?
-I should not like to be an [[artist]] who brought an architectural
+I should not like to be an [[Artist|artist]] who brought an architectural
 [[Sketch|sketch]] to a builder, saying, "This is the south aspect of
 Sea-View Cottage.  Sea-View Cottage, of course, does not exist."
 I should not even like very much to have to explain,

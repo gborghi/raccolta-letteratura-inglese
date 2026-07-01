@@ -1,5 +1,5 @@
 ---
-title: "[[queertrades]] — Chapter 6 (part 6)"
+title: "queertrades — Chapter 6 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/queertrades-(chesterton)"
@@ -155,7 +155,3 @@ The origin of [[morality]]..."
 
 "Who won't come out?" asked Basil, a little [[Cross|cross]] at being interrupted
 in an argument.
-
-"The lady downstairs," replied Rupert.  "The lady who was locked up.
-She won't come out.  And she says that all she wants is for us
-to let these fellows loose."

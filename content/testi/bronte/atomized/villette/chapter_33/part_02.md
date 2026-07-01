@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 31 (part 2)"
+title: "Villette — Chapter 31 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,26 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_33/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_33/part_03">part 03 ›</a></div>
 </nav>
 
+
+“[[Courage]], [[Lucy Snowe]]! With [[Self|self]]-denial and economy now, and steady
+exertion by-and-by, an object in life need not fail you. Venture not to
+complain that such an object is too selfish, too limited, and lacks
+interest; be content to labour for independence until you have proved,
+by winning that prize, your right to look higher. But afterwards, is
+there nothing more for me in life—no true [[Home|home]]—nothing to be dearer to
+me than myself, and by its paramount preciousness, to draw from me
+better things than I care to culture for myself only? Nothing, at whose
+feet I can willingly lay down the whole burden of human egotism, and
+gloriously take up the nobler charge of labouring and living for
+others? I suppose, [[Lucy Snowe]], the orb of your life is not to be so
+rounded: for you, the crescent-phase must suffice. Very good. I see a
+huge mass of my fellow-creatures in no better circumstances. I see that
+a great many men, and more women, hold their span of life on conditions
+of denial and privation. I find no reason why I should be of the few
+favoured. I believe in some blending of [[Hope|hope]] and sunshine sweetening
+the worst lots. I believe that this life is not all; neither the
+beginning nor the end. I believe while I tremble; I trust while I
+weep.”
 
 So this subject is done with. It is right to look our life-accounts
 bravely in the face now and then, and settle them honestly. And he is a
@@ -114,33 +134,3 @@ sometimes not that—yet I was born to wealth)—my rich father was a good
 Catholic; and he gave me a priest and a Jesuit for a tutor. I retain
 his lessons; and to what discoveries, grand Dieu! have they not aided
 me!”
-
-“Discoveries made by stealth seem to me dishonourable discoveries.”
-
-“Puritaine! I [[Doubt|doubt]] it not. Yet see how my Jesuit’s system works. You
-know the St. Pierre?”
-
-“Partially.”
-
-He laughed. “You say right—_‘partially’_; whereas _I_ know her
-_thoroughly_; there is the difference. She played before me the
-amiable; offered me patte de velours; caressed, flattered, fawned on
-me. Now, I am accessible to a woman’s flattery—accessible against my
-reason. Though never pretty, she was—when I first knew her—young, or
-knew how to look young. Like all her countrywomen, she had the art of
-dressing—she had a certain cool, easy, social assurance, which spared
-me the [[Pain|pain]] of embarrassment—”
-
-“Monsieur, that must have been unnecessary. I never saw you embarrassed
-in my life.”
-
-“Mademoiselle, you know little of me; I can be embarrassed as a petite
-pensionnaire; there is a fund of modesty and diffidence in my [[Nature|nature]]—”
-
-“Monsieur, I never saw it.”
-
-“Mademoiselle, it is there. You ought to have seen it.”
-
-“Monsieur, I have observed you in public—on platforms, in tribunes,
-before titles and crowned heads—and you were as easy as you are in the
-third division.”

@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-thing-(chesterton)">The Thing</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_11_protestantism_a_problem_novel">‹ Story 11 PROTESTANTISM A PROBLEM NOVEL</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_13_the_call_to_the_barbarians">Story 13 THE CALL TO THE BARBARIANS ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_11_protestantism_a_problem_novel_novel">‹ Story 11 PROTESTANTISM A PROBLEM Novel NOVEL</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_13_the_call_to_the_barbarians">Story 13 THE CALL TO THE BARBARIANS ›</a></div>
 </nav>
 
 
@@ -53,7 +53,7 @@ read of the modern criticisms of religion, especially of my
 own religion, the more I am struck by this narrow concentration
 and this imaginative incapacity to take in the problem as a whole.
 I have recently been reading a very moderate condemnation of current
-Catholic practices, coming from [[America]], where the condemnation is often
+Catholic practices, coming from [[america|America]], where the condemnation is often
 far from moderate.  It takes the form, generally speaking, of a swarm
 of questions, all of which I should be quite willing to answer.
 Only I am vividly conscious of the big questions that are not asked,
@@ -189,6 +189,5 @@ That is the contradiction; that is the crashing collision;
 that is the inevitable intellectual disaster in which they have already
 involved themselves; and we have only to wait as patiently as we can,
 to see how long it is before they realise what has happened.
-
 
 -/-

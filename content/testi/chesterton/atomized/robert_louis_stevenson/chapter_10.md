@@ -1,5 +1,5 @@
 ---
-title: "Robert Louis Stevenson — Chapter 10"
+title: "Robert Louis Stevenson — Chapter 9"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/robert-louis-stevenson-(chesterton)"
@@ -10,581 +10,314 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/robert-louis-stevenson-(chesterton)">Robert Louis Stevenson</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/robert_louis_stevenson/chapter_09">‹ Chapter 09</a><a class="ex-next" href="/testi/chesterton/atomized/robert_louis_stevenson/chapter_01/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/robert_louis_stevenson/chapter_09">‹ Chapter 09</a><a class="ex-next" href="/testi/chesterton/atomized/robert_louis_stevenson/chapter_11">Chapter 11 ›</a></div>
 </nav>
 
 
-CHAPTER X
+CHAPTER IX
 
-THE MORAL OF STEVENSON
+THE [[philosophy|PHILOSOPHY]] OF GESTURE
 
-EVEN those unfortunates for whom the tale of _Treasure Island,_
-and the tradition continued in the pirates of _Peter Pan,_ form
-an episode that is ended, may still be asked to consider it
-as an episode; to consider it, or perhaps to reconsider it.
-Even those who hardly feel it as a piece of literature
-will be forced at least to accept it as a piece of [[history]].
-I am not one of these dismal and disinherited persons, as the reader
-has perhaps by this [[Time|time]] darkly suspected; but I am quite content
-for the moment to put aside the question of whether their lack of
-appreciation is due to the advance of literary experiment or the decline
-of literary taste.  I ask them for the moment to consider it not
-as a literary masterpiece, but merely as a curiosity of literature.
-I ask them to pause upon the episode of the Stevensonian Buccaneers,
-much as they might pause upon the episode of the real Buccaneers;
-upon some quaint old volume about the real lives of Blackbeard
-and Henry Morgan.  Just as there would always be some historical
-interest in considering how the pirate sack of Panama was related
-to the great affairs of the Spanish Empire or the English Navy,
-so there is always some philosophical interest in considering
-how Stevenson's romanticism was related to realism and rationalism
-and all the great movements of the nineteenth-century. In short,
-I am content for the moment if all that wonderful library of books
-is lumped together under the name of one of the least of them;
-and considered as a Footnote to [[history|History]].
+SOMETHING has been said, from [[Time|time]] to [[Time|time]], in these pages about
+the justice or injustice of the alleged reaction against Stevenson.
+Little or nothing will be said about its final [[success]] or failure,
+and that for at least two reasons.  First, that such guesses
+about the fashions of the future are generally quite wide of
+the mark, because they are founded on a very obvious fallacy.
+They always imply that public taste will continue to progress
+in its present direction; which is, in [[Truth|truth]], the only thing we know
+that it will not do.  A thing that wanders away in great winding
+curves may end anywhere; but to turn each curve into a straight
+line striking out into the void will be wrong in any case.
+This is obvious even in the tolerably short [[history]] of the modern [[Novel|novel]].
+Victorians had a sort of parlour game of comparing Dickens and Thackeray;
+but they would have been amazed to hear modern young people
+declaring that Thackeray is much more sentimental than Dickens.
+They would have been astounded by the revival of Trollope,
+accompanied by the comparative neglect of Thackeray.
+For to the more earnest Victorians of that world, Trollope was
+another name for triviality.  They would have felt as we should feel
+if we were told that Charles Garvice would outlive John Galsworthy.
+For a great genius may appear in almost any disguise; even in the disguise
+of a successful novelist.  The second reason for which I wave away
+from me the [[Prophet|prophet]]'s mantle, and decline to decide the question
+of the future, is that I do not think it very much matters.
+There are fine writers of the past as [[Well|well]] as the present,
+who are read only by few; and I do not admit that the many
+know all about them, merely because they never knew them.
+I do not see why we should so blindly distrust popularity and so
+blindly trust posterity.  But some of the conditions of [[Survival|survival]]
+may perhaps be generally considered.
 
-What was the historical meaning then of that strange splash
-of crimson lake on the drab age of Gissing and Howells;
-like a burlesque bloodstain in a [[Detective|detective]] story?  To begin with,
-I foresee that in having stated the matter thus historically, I have
-laid myself open to some criticisms of the strictly historical sort.
-It may be said that the dates and details of Stevenson's life and [[Time|time]]
-do not correspond with such a comparison; that he came too early
-in the Victorian progress to be really a type of the 'nineties;
-and that his real rivals or models were the Victorian Philistines.
-I do not admit this as a [[Truth|truth]], even where I might admit part
-of it as a fact.  An anachronism is often simply an ellipsis;
-and an ellipsis is often simply a necessity.  The thing that a living
-intelligence like that of Stevenson feels is not the stale and
-static conventions of his world, but the way the world is going.
-We talk familiarly of [[Time|time]] and tide; and, in a case like this,
-it is idle to remember a [[Time|time]] without realising that it was a tide.
-The author of _The Ebb-Tide_ knew [[Well|well]] enough what tide was at that
-moment ebbing.  It was the tide of what many regarded as Victorian
-virtue and all the happiness described in the three-volume [[Novel|novel]].
-Stevenson knew very [[Well|well]] that this stuffy sort of stuff was not
-the strong menace or promise of the coming [[Time|time]].  He sometimes
-pokes fun at the Philistines; but he thrusts with furious energy
-at the Aesthetes.  Compare for instance the way in which he speaks
-of Walter Besant with the way in which he speaks of Henry James,
-when he has to differ from them both, in that admirable letter
-about "art competing with life."  He dismisses the successful
-novelist as representing something that had already failed;
-but he takes seriously the serious novelist, and is obviously
-afraid that in the long run his more subtle methods may succeed.
-Those more subtle methods, of the impressionists and realists
-and the rest, were obviously for him the real danger because they
-were the rising tide.  In short, it may be complained that I have
-represented Stevenson as reacting against decadence before it existed.
-And I answer that this is the only real way in which a fighting man
-ever does successfully attack a movement; when he attacks later,
-he attacks too late.
+The fame of Stevenson in the future will stand or fall
+with the strength or weakness of a particular argument.
+It was perhaps most compactly expressed by a critic who accused him
+of "externality." What he called the fault of externality I should
+be inclined to ascribe to the fallacy of internalism.  Perhaps it
+will be recognised better if I call it the fallacy of "psychology."
+It is the notion that a serious novelist should confine himself
+to the inside of the human skull.  Now Stevenson's fiction is full
+of pantomime; in the strict sense of animated action or gesture.
+And it really seems as if the critics, by a sort of pun or
+perversion of meaning, associated it with a children's pantomime;
+though Stevenson would have been the last to object even to that.
+Anyhow, this idea that intellectual fiction should concern the solitary
+and uncommunicative intellect is a very obvious fallacy indeed.
+It is sound enough to say that we can see below the surface;
+but not that we cannot see what is on the surface.  Least of all is
+it sensible to say that we cannot believe in it because it has come
+to the surface; though it were as enormous as a spouting whale.
+Indeed the tone rather recalls that of some sceptics who implied
+that sailors ought not to think they saw the Great Sea Serpent,
+because it was a quarter of a mile long when they saw it.
+So we may [[Well|well]] urge that psychological things are not less
+psychological because they come to the surface in pantomime.
+The argument amounts to saying that a really delicate piece of
+clockwork only exists when the [[Clock|clock]] stops.  And indeed I suppose
+these critics would consider the action of a [[Clock|clock]], in whirling
+its hands about, a very offensive piece of foreign gesticulation.
+It is like saying that a locomotive steam-engine is only a steam-engine
+when it is standing still; or that a building blowing up with a loud
+bang offers a final proof that it was not a powder-magazine.
 
-Or again, it may be said that I exaggerate the novelty of work
-like that of _Treasure Island;_ and that it was but a natural
-continuation of the [[Historical Novel|historical novel]] of Scott or the nautical
-[[Novel|novel]] of Marryat.  Here again I think the critic will not only
-miss a fine distinction, but a very sharp point.  The old novels
-were novels; they were not boys' stories, but simply stories.
-The [[Comedy|comedy]] of the Oldbucks and Osbaldistones is as much a solid
-[[Comedy|comedy]] of character as that of Mr. Bennett or [[Miss Bates]].
-It is only Scott's incurable and almost unconscious sense of [[Romance|romance]]
-that sends the [[Comedy|comedy]] characters to the dangerous cliff or to
-the Clachan of Aberfoyle.  There was no deliberate and defiant
-return to juvenile art out of season, such as that which is
-flaunted in Stevenson's letters as [[Well|well]] as in Stevenson's story.
-The point can be best illustrated once more by the [[Memory|memory]] of
-Skelt's Juvenile Drama.  It is one thing to say that a painter
-like Maclise or an actor like Macready may have had a style
-that would strike us as stagey and pompous.  Maclise and Macready
-did not themselves think that they were stagey and pompous.
-It would be quite another thing to revive the actual figures of the old
-toy theatre, almost (in a sense) _because_ they were stagey and pompous.
-Stevenson obviously resurrected all this [[Romance|romance]], not because it
-was the fashion of his [[Time|time]], like the historical painting of Maclise,
-but because it was _against_ the growing fashion of his [[Time|time]]; and had
-to be fought for as a new fashion because it was really an old fashion.
-He glorified an antiquated Skeltery, when he knew it was antiquated.
-He concentrated on a certain type of book for boys, when he knew it
-had long been abandoned to boys.  He is often called [[Self|self]]-conscious;
-and in this sense he was very [[Self|self]]-conscious. He was as [[Self|self]]-consciously
-copying an old piratical penny dreadful as the Pre-Raphaelites
-were [[Self|self]]-consciously copying an old mediaeval religious picture.
-As they were carefully inlaying it with jewels of childlike colour,
-he was carefully resetting the lost [[Jewel|jewel]] of his own [[Childhood|childhood]].
-But he knew he was not merely fashionable, just as he knew that
-he was not really five years old.
+Indeed in this respect the psychological critics are rather
+backward even in psychology.  It generally distresses such people
+more to be behind the times than to be against the [[Truth|truth]];
+and in this case it seems possible that they are both.
+The objection to their fallacy of internalism is that it is
+nonsense to think only of thoughts and not of words or deeds,
+since words are only spoken thoughts and deeds are only acted words.
+They are in fact the most dominant words and the most triumphant thoughts;
+the thoughts that emerge.  But, according to "the latest
+modern psychology" (that infallible and immutable authority),
+it is even more of a mistake to treat the surface so superficially.
+Acts are not only the swiftest thoughts; they are even too swift
+to be called thoughts.  They come from something more fundamental
+than common or conscious thinking.  It is exactly our subconsciousness
+that appears in acts more than in words, or even thoughts.
+It is precisely our subconsciousness that bites its nails or twirls
+its moustaches, that kicks its heels or grinds its teeth.
+According to some, it is even our subconsciousness (that jolly companion)
+that occasionally cuts our mother's throat or picks our father's pocket.
+I do not take the latest modern psychology quite so seriously;
+but what element of [[Truth|truth]] there is in it is all against the tone
+of the latest Stevensonian, or Anti-Stevensonian, criticism.
+The test of fine fiction, by this or any other standard,
+is not whether it follows out threads of thought in [[Silence|silence]];
+not whether it is subjective rather than objective or avoids any
+violent issue in events.  It is simply whether it is right; whether the
+psychology is right and whether the act represents it rightly.
+In psychology, as in any other science, one cannot be more than right.
+And the most embittered critic will find it very difficult to show that
+Stevenson was very often wrong.  What the embittered critic can show,
+and what will make him still more embittered, is that Stevenson
+expressed everything by some dramatic act.  And, according to
+such critics, anything that is dramatic is melodramatic.
+The boyish brooding and smarting sentimental [[Self|self]]-importance
+of David Balfour during his one quarrel with Alan Breck Stewart are
+described so delicately and exactly as to be worthy of George Meredith,
+who was so excellent with boys; they might easily be the broodings
+of Evan Harrington or Harry Richmond.  Only in Stevenson's story
+they end (alas!) in the crossing of blades and Alan tossing away
+his [[Sword|sword]]; and that, of course, is dreadfully melodramatic.
+One cannot be psychological inside a [[Sword|sword]]-belt; and cerebral
+processes must not take place under a three-cornered hat.
+The interlude of Henry Durie's crippled and almost half-witted happiness,
+when the [[Shadow|shadow]] of his brother is withdrawn for a season and his [[Child|child]]
+is growing in the sun, is as pathetic and as true as any lucid interval
+(if such there be) in the suburban depression of the school of Gissing.
+Only when the [[Fool|fool]]'s paradise is lost, by a random word about the possible
+perversion of the [[Child|child]], it is not to be denied that Henry Durie
+falls to the earth like a stone.  And the thoughtful critic explains
+that such a man cannot have had any really internal feelings;
+because his internal feelings were strong enough to knock him down.
+The dark, drudging and almost automatic altruism of poor Herrick,
+amid all his tangle of treasons in _The Ebb-Tide,_ is as sad
+and true as the most miserable modern could wish it to be.
+But then Herrick jumps into the sea with a great splash;
+though he ought to endear himself to the modern critic by not actually
+doing anything after all, even for the fruitful cult of [[suicide]].
+The girl Kirstie's "gabble" of recollection and daydream
+and imaginary [[lovers]]' quarrels, as she goes [[Home|home]] from church,
+is quite as true to the actual inner workings of the young
+sentimental mind as any feminine fine shade in Henry James.
+But then the critic cannot be expected to forgive her for giving
+two or three little skips as she walks along the [[Road|road]].
+No lady in Henry James ever skipped.  It is because in each of
+these cases some outward motion makes memorable the inward mood
+that these critics feel that it cannot really be so very inward.
+It is to be noted that they do not commit themselves to a
+positive negation; they do not affirm that the characters in question
+would _not_ feel as they are described as feeling; they do not
+even say that they would not act as they are described as acting;
+that David would not fight or Durie fall or Kirstie leap upon the [[Road|road]].
+They simply have a refined and delicate feeling that psychological
+fiction ought to deal only, or mostly, with unspoken words or
+uncompleted thoughts.  That is a very interesting point of view;
+and it is just as [[Well|well]] to have it clearly stated and understood.
+If Stevenson had only served as an excuse for expounding this
+interesting critical thesis, they might so far thank him
+and even constrain themselves to be reasonably polite to him.
+Anyhow, that seems to be their principle; and I have paused
+long enough upon it to show that I do not wish to ignore it.
+Only I would respectfully submit that their quarrel is not
+with Stevenson; certainly their quarrel is not merely with Stevenson.
+It is with Homer and the bending of the bow; it is with [[Hamlet]]
+and the leap into the [[Grave|grave]]; it is with Francesca dropping the book
+or Quixote driving at the windmill; it is with Henry putting on his [[Crown|crown]]
+or Anthony putting off his helmet; it is with Roland in Roncesvaux,
+blowing the horn and breaking the [[Sword|sword]] and holding up his glove to God.
+It is in all those [[Epic|epic]] energies which gave to the last story and its
+sequel the noble title of [[songs|Songs]] of Action--_Chansons de Geste._
 
-What then exactly did he mean?  What, so to speak, did _it_ mean; even if
-in a sense he did not mean it; or at least, did not mean to mean it?
-First of all it was, I think, a sort of dash for liberty; and especially
-a dash for happiness.  It was a defence of the possibility of happiness;
-and a kind of answer to the question, "Can a man be happy?"
-But it was an answer of a curious kind, defiantly delivered
-in rather curious circumstances.  It was the escape of a prisoner
-as he was led in [[Chains|chains]] from the [[Prison|prison]] of [[Puritanism]] to the [[Prison|prison]]
-of Pessimism.  Few have understood that passage in the [[history]]
-of the manufacturing civilisation of northwest Europe and [[america|America]].
-Few have realised that the gloomier sort of modern materialism
-often came upon a class that was only just escaping from an equally
-gloomy sort of spirituality.  They had hardly come out of the [[Shadow|shadow]]
-of Calvin when they came into the [[Shadow|shadow]] of Schopenhauer.
-From the world of the worm that dieth not, they passed into a world
-of men dying like worms; and in the case of some of the decadents,
-almost exulting in being devoured by worms like Herod.
-[[Puritanism]] and pessimism, in short, were prisons that stood near together;
-and none have ever counted how many left one only for the other;
-or under what a covered way they passed.  Stevenson's escapade
-was an escape; a sort of runaway romantic evasion for the purpose
-of escaping both.  And as a fugitive has often fled and hidden
-in his mother's [[house]], this outlaw took refuge in his old [[Home|home]];
-barricaded himself in the nursery and almost tried to creep
-into the dolls'-[[house]]. And he did it upon a kind of instinct,
-that here had dwelt definite pleasures which the Puritan could
-not forbid nor the pessimist deny.  But it was a strange story.
-He had his answer to the question, "Can a man be happy?";
-and it was, "Yes, before he grows to be a man."
+Among the many unreasonable objections to the Stevensonian [[Romance|romance]],
+I admit that there is a reasonable objection that may be advanced here.
+It may be said that he was guilty of externality in this sense;
+that he sometimes began with externals, in so far as he saw in some
+scene or other setting the suggestion or rather the provocation
+of [[Romance|romance]].  "Certain dank gardens cry aloud for a murder,"
+he very truly observed; and he was often moved to commit
+the murder in a vicarious literary manner.  He wished sometimes,
+he said, to fit every such place with its appropriate legend.
+Superficially there is sense in this objection; but in a deeper and more
+sympathetic sense I do not admit that it contradicts what I have said
+of the deep [[spring]] of gesture or the deliberation of craftsmanship.
+It merely means that there was from the first, in any such work
+of art, the [[unity]] of mood that there always ought to be.  It means
+that he had decided what sort of [[Novel|novel]] he would write, before he had
+decided what [[Novel|novel]] he would write; and this is right and inevitable.
+The dank [[Garden|garden]] cannot cry aloud immediately, in so many words,
+"In this place the sinister tutor with one eye larger than
+the other buried the old sailor's cutlass with which he had killed
+the horribly but secretly wicked admiral who was really his brother."
+No dank [[Garden|garden]] ever expressed itself with such accuracy when crying
+aloud to anybody; but it is none the less true that the exact shade
+of gloom and the exact outline of disorder may have suggested,
+not merely a vulgar murder, but a murder having certain special qualities
+of the unnatural or the strange.  This does not prove that they were
+not _deep_ feelings which thus [[Rose|rose]] up at the sight of the strange
+landscape and groped to find their appropriate images of doom.
+It only proves that the origin of the story was of the same sort
+as the origin of a poem.  We can call Stevenson a prose poet,
+if we like; but we cannot call him a superficial writer, unless all
+poets are superficial.
 
-It is only the obvious things that are never seen; and a thing is often
-counted stale merely because men have been staring at it so long without
-seeing it.  There is nothing harder to bring within a small and clear
-compass than generalisations about [[history]], or even about humanity.
-But there is one especially evident and yet elusive in this
-matter of happiness.  When men pause in the pursuit of happiness,
-seriously to picture happiness, they have always made what may
-be called a "primitive" picture.  Men rush towards complexity;
-but they yearn towards simplicity.  They try to be kings; but they
-dream of being shepherds.  This is equally true whether they look
-back to a [[Golden Age]] or look forward to the most modern Utopia.
-The [[Golden Age]] is always imagined as an age free from the curse of gold.
-The perfect civilisation of the future is always something
-which many would call the higher savagery; and is conceived
-in the spirit that spoke of "Civilisation, its Cause and Cure."
-Whether it is Arcadia of the past or Utopia of the future, it is
-always something simpler than the present.  From the Greek or Roman
-poet yearning for the peace of [[Pastoral|pastoral]] life to the last sociologist
-explaining the ideal social life, this sense of a return and a resolution
-into elemental things is apparent.  The pipe of the shepherd is always
-something rather plainer than the lyre of the poet; and the ideal
-social life is some more or less subtle form of the simple life.
-Of this tendency there is yet a third and perhaps a truer expression.
-It may be remarked that these daydreams of happiness concern rather
-the [[Dawn|dawn]] than the day.  The reactionary wishes to return to what
-he would call "the morning of the world."  But the revolutionist
-is quite equally prone to talk about waiting for the daybreak,
-about [[songs]] before sunrise, and about the [[Dawn|dawn]] of a happier day.
-He does not seem to think so much about the [[Noon|noon]] of that day.
-And one mode in which this morning spirit is expressed is the return
-to the [[Child|child]].
+I shall have occasion to remark elsewhere that there is one strictly
+technical sense in which Stevenson's treatment can be called
+a thin or a flat treatment.  It is a sense in which we might say
+that a certain style in decorative ironwork is light and slender,
+in which we might say that Whistler's way of laying on monochrome
+washes was merely flat.  It has its defects, even considered as a
+technical treatment; there is an artistic aversion to filigree;
+and many have maintained that Whistler's washes were too washy.
+But it is essential that this criticism should not be confused with
+the suggestion I have just answered; the suggestion that the spiritual
+significance of the pattern or the picture is shallow and not deep.
+That is another matter and has nothing whatever to do with the
+question of our favourite form; and though Stevenson's favourite
+form was sometimes picturesque to excess, there was nothing
+platitudinous or merely sentimental about the moral of the picture.
+On the contrary, he was very much drawn towards difficult and perplexing
+moral themes and liked to put puzzles to himself in the possible
+relations of human souls.  Only, as we have seen, he liked to make
+the human [[Soul|soul]] come to a conclusion in some fashion and announce
+its conclusion in some way.  Hence all the abrupt signals and bodily
+departures which the sensitive so much lament; hence the coin hurled
+through the windowpane at Durrisdeer; the banjo flung into the [[Fire|fire]]
+on Midway Island; the knife sticking in the mast or the diamond
+tossed into the [[River|river]].  In short, Stevenson's stories were often
+problem stories, in the style of what were called problem plays.
+But by one crime he disqualified himself for the company of the really
+realistic and earnest authors of problem plays or problem novels.
+He had a weakness for solving the problem.
 
-Stevenson might have been asking his question a hundred years before,
-at the [[Time|time]] of the first humanitarian revolt against the Puritans;
-when the same [[City|city]] of Geneva, that had seen Calvin found the religion
-of pessimism, saw Rousseau found the religion of optimism.
-If he had been in that first liberal or naturalistic movement,
-he would probably have felt that the best expression of
-the romantic movement was in the fulfilment of [[Romantic Love|romantic love]].
-Paul and Virginia, instead of Poll and Robinson Crusoe (not to
-mention Long John Silver), would have been the happy inhabitants
-of the [[Desert|desert]] island.  In that honeymoon of humanity, it would
-have seemed quite enough that Edwin and Angelina united at last
-(by a dignified civil [[Marriage|marriage]] by the Registrar of the Republic)
-would populate the world with pure and happy republicans.
-But that eighteenth-century Arcadia had clouded over long before
-Stevenson's [[Time|time]]; and indeed he was prone to be a little too cloudy
-even about those of its principles which are really clear.
-And while the more Bohemian artists of the later [[Time|time]] continued to
-claim all the liberties and more than the laxities of such a theory,
-they had left off pretending that it led to such felicity in practice.
-Indeed there has been a curious irony in this respect about the modern
-artists, especially the literary artists.  Half the outcry against
-them arose, rightly or wrongly, because they insisted that their books
-must be repulsive in order to be realistic or sordid in order to be true.
-They insisted on a free hand in describing sex; and seemed to assume,
-in their own apologia, that to describe sex is to describe sin--
-and sorrow.  They insisted that anything pretty must be a pretence;
-and never saw how sharply they were reflecting on the end of that very
-[[Dance|dance]] of pretty nymphs and cupids, which had brought them the licence
-that they liked best.  In short, they seemed to make two claims;
-first to be free to find the perfect happiness of passion;
-and second, to be free to describe how exceedingly unhappy it is.
-In life one might do anything to follow [[Love|love]], because it was so
-very beautiful; and in art one must do anything to describe [[Love|love]],
-because it was so abominably ugly.  Their own anarchical doctrines
-were really contradicted by their own anarchical descriptions.
-The [[house]] of [[Love|love]], in which it was necessary to take out such
-hospital licences for amputation and vivisection, could hardly be
-(as the poet said) the [[house]] of fulfilment of craving.
-It was certainly not the [[house]] that Rousseau and the old
-romantic liberals had craved.  Anyhow, it was not possible
-for a man of Stevenson's generation to look for this light
-and lucid happiness in sex, or in that sense even in sentiment.
-It was not possible for a romantic who, perhaps born out of his due [[Time|time]],
-was living not in the age of Rousseau but in the age of Zola.
-Thus we find in Stevenson something like an actual avoidance of those
-themes of passion, that were throbbing in the new fiction all around him;
-an avoidance even of that normal [[Romantic Love|romantic love]], which is not touched
-at all in _Kidnapped_ and touched gracefully but still lightly even
-in _Catriona._ It was not only that girls interfere with adventures.
-It was not only that he could not be one of those for whom
-a girl is the only adventure.  It was also because a man living
-under the harsh challenge of the new realism could no longer
-pretend that it was an adventure which always ended [[Well|well]].
-He wished to escape into a world of more secure pleasure and perhaps
-of less potential [[Pain|pain]].  And this is connected with very profound
-truths of psychology, which have not yet been properly explored.
-But most men know that there is a difference between the intense
-momentary emotion called up by [[Memory|memory]] of the loves of youth,
-and the yet more instantaneous but more perfect pleasure of the
-[[Memory|memory]] of [[Childhood|childhood]].  The former is always narrow and individual,
-piercing the heart like a rapier; but the latter is like a flash
-of [[Lightning|lightning]], for one split second revealing a whole varied landscape;
-it is not the [[Memory|memory]] of a particular pleasure any more than
-of a particular [[Pain|pain]], but of a whole that shone with [[Wonder|wonder]].
-The first is only a [[Lover|lover]] remembering [[Love|love]]; the second is like a dead
-man remembering life.
+There is in this merit the other side of a fault; and a fault
+of which he has often been accused.  He was called [[Self|self]]-conscious;
+and in his work he was perhaps a little too [[Self|self]]-conscious,
+as compared with some writers whose fundamental and even almost
+forgotten impulses were allowed to flow forth more freely,
+and perhaps more naturally.  But these things are a matter of degree
+and balance; and some may hold that it is the opposite type that has
+now become unbalanced.  Walking the world to-day, I am not sure
+that I do not prefer the [[Self|self]]-conscious to the subconscious.
+Stevenson felt a responsibility in art which was like his
+vivid and almost morbid sense of responsibility in conduct.
+His problems of conduct were indeed sometimes a little anarchical;
+and his ethical decision in them perhaps a little amateurish.
+Like Ibsen and Bernard [[Shaw]] and many men of his [[Time|time]], he had not quite
+discovered the pressing practical necessity of having a general rule,
+in the absence of which the world becomes a welter of exceptions.
+But he was intensely interested in the right moral solution whatever it
+might be; even if it seemed to involve the inversion of a moral rule.
+And this sense of social responsibility was thoroughly sincere:
+even when the special pleading had to be, perhaps, a little
+too individual to be social.  It was natural for a novelist,
+perhaps, to feel most fiercely and keenly the particular
+personal case.  Anyhow, I think he generally did so; as did
+Loudon Dodd in _The Wrecker,_ when he balanced opium and Jim.
+He was certainly vastly intrigued by that sort of problem.
+Henley called him a Catechist; but he should have said Casuist.
+He professed to have a defective sympathy with Catholicism; and he was
+still probably provincial enough to have had a horror of Jesuitry;
+but as a matter of fact he was more casuistical than any Jesuit.
+He was much less clear about the original universal dogmas of a catechism,
+whether it were the Shorter Catechism or the Penny Catechism.
+But he was much more closely concerned about the special occasion
+when the general sense of those doctrines seemed challenged
+by a special necessity.  We may say, therefore, that, in life
+and in literature, he was essentially a conscientious person.
+And a conscientious person is presumably a conscious person;
+and sometimes perhaps a [[Self|self]]-conscious person.  He committed
+a great many crimes vicariously in his books; and delivered batches
+of corpses to his publishers in the style required of all writers
+of sensational [[Romance|romance]].  But his deaths had the delicacy and fine
+distinction of murder; and nothing of the vulgar communism of massacre.
+In the one episode in his stories that might be called a massacre,
+the butchery of the old crew of _The Flying Scud_ by Wicks and his men,
+the whole horror of the incident is in its intense [[Individualism|individualism]].
+It is in the fact that the men have to be slain one by one;
+in the fact that the massacre is not a massacre but a series of murders.
+He went so far, in his correspondence, as to say cheerfully of
+Henry Durie's bloody trap for his brother that it is "a perfectly
+cold-blooded murder of which I expect and intend the reader to approve."
+But even here it will be noted that he intended something,
+and said so; seeming almost as cold-blooded as the murderer.
+But at least he did not commit murders without knowing it, in the manner
+of our more subconscious criminals and maniacs in modern fiction.
+He was not in sympathy with those more recent heroes who seem to seduce
+and betray and even stab in a sort of prolonged fit of absence of mind.
+There had not been established, for him or for his characters,
+that convenient back-stairs of unconscious mind or automatic motion,
+by which something that is not ourselves (and makes for unrighteousness)
+may escape from the cellar into the street.  It was perhaps a defect;
+but in the whole of his life and work there is a complete absence
+of absence of mind.
 
-I once heard in a railway-train a farmer's family of the Puritan
-sort discussing with a Nonconformist minister the action of a boy,
-at the front in the Great War, who had occupied himself in hospital
-with carving a wooden [[Cross|cross]] and sent it [[Home|home]] to his family.  His family
-was pained but apologetic.  Their remarks had a continual [[Chorus|chorus]] of,
-"He didn't mean anything by it."  This extraordinary state of mind
-intrigued me so much that I listened to the rest of the conversation;
-at intervals of which the minister repeated firmly that we didn't
-want that sort of thing; what we wanted was a living [[Christ]].
-And it never seemed to occur to this reverend gentleman that he was at
-that moment at war with every living as [[Well|well]] as every Christian thing;
-with the creative instinct, with the [[Desire|desire]] for form, with the [[Love|love]]
-of family, with the impulse to send signals and messages, with [[Humour|humour]],
-with pathos, with the virility of [[Martyrdom|martyrdom]] and the vividness of [[Exile|exile]].
-It was in [[Truth|truth]] the carver of the [[Cross|cross]] who was bearing witness
-to a living [[Christ]] and the partisan of a living [[Christ]] who was
-repeating a dead form.  It was none the less so, because it
-was not a fixed shape in wood, but only a fixed shape in words.
-This curious incident has always remained in my [[Memory|memory]], however,
-if only for its fresh and superficial [[Humour|humour]].  The image of the
-unconscious youth who didn't mean anything by it, who merely whittled
-a stick until it came by sheer ill-luck into the form of a [[Cross|cross]],
-will always be a source of fruitful entertainment to the mind.
-The idea of the young man hacking wood about right and left
-in a reckless manner, and seeing theological symbols [[spring]] up
-on every side in spite of his most earnest efforts, has something
-in it of the fairy-tale. And the idea that if he had only known
-what was coming, nothing would have induced him to touch anything
-so improper and shocking, is a matter of deep indwelling joy.
-
-And yet, strangely enough, I must in a manner apologise to the poor
-minister and admit that something like that fantastic suggestion
-may really occur.  After all, there is in the world a great crowd
-of unconscious [[Cross|cross]]-builders or unintentional crosses.  There is,
-running through the very framework of our houses and our furniture,
-a sort of pattern of crosses.  There are a great many honest carpenters
-and joiners who make wooden crosses and don't mean anything by it.
-But the figure means something for all that; precisely because it
-is a fundamental figure, based on basic principles of balance and
-conflict and support.  All our chairs and tables are full of crosses,
-of [[Cross|cross]]-bars and [[Cross|cross]]-beams; and it is probable that most of us
-use the furniture without feeling the significance; do not think
-of a table as the condition of a communion table and can sit on a chair
-without immediately speaking _ex cathedra._ And in the same fashion,
-the more we study active and artistic [[history]], the more often we
-shall see men making thrones when they meant only to make chairs
-or building churches when they meant only to build houses.
-And in the retrospect of religious [[history]], it seems to me that most
-excursions and even aberrations have only served to scrawl on a larger
-scale the [[Truth|truth]] of certain ancient doctrines near and necessary
-to man; and illustrate orthodoxy if only with awful examples.
-[[Milton]] was himself an example; for he told more [[Truth|truth]] than he intended,
-when he said that new Presbyter was but old Priest writ large.
-It was indeed the human need of a priest written large; and it
-was written very large indeed.
-
-Now the men of Stevenson's generation, and especially the men who were
-as intelligent as he was, were perhaps more unconscious of the real
-case for these old ideas than any men who have lived before or since.
-Nothing was further from their thoughts than the suggestion that their
-artistic fancies could refer back to those antiquated and sombre
-dogmas about the Fall or the obscuration of the divine light by sin.
-Wordsworth, though he is sometimes called pantheistic, saw in the vivid
-pleasures of [[Childhood|childhood]] what he called intimations of [[Immortality|immortality]].
-Stevenson admitted that he often found it difficult to get any
-intimations of [[Immortality|immortality]].  And yet, if he could bear no witness
-to the [[Resurrection]], he was continually bearing witness to the Fall.
-We say lightly enough of a good man that he is a Christian without
-knowing it.  But Stevenson was a Christian theologian without knowing it.
-Nothing, as I say, would have surprised him or his generation more than
-to discover it; and it may be that some even of a younger generation
-are so traditional as to have missed the gradual unfolding of the [[Truth|truth]].
-He would have been the first to say that such dogmas were dead
-and that we cannot put back the [[Clock|clock]] to the fifth century.
-Yet he did not explain why he was so often trying to put back his
-own [[Clock|clock]] to his fifth year.  For the [[Truth|truth]] is that there really
-is no sense or meaning, in this continuous tribute of the poets
-to the poetry of early [[Childhood|childhood]], unless it be, as Treherne says,
-that the world of sin comes between us and something more beautiful or,
-as Wordsworth says, that we came first from God who is our [[Home|home]].
-I will not pause to distinguish here between the true doctrine of the Fall
-and the doctrine of depravity which the Calvinists had probably taught
-to Stevenson, which would [[Alone|alone]] be enough to explain his not knowing
-how orthodox he was.  Nor will I here expound the distinction between
-original and acted sin, apart from the ideal of infant baptism;
-or the already bewildered modern sceptic would probably think I was mad.
-He must accept my benevolent assurance that it is rather he that is mad;
-or rather, through no fault of his own, mentally defective.
-The point is that there really is no explanation of this intense
-imaginative concentration on babies except a mystical explanation.
-The whole point of Stevenson's story is that of a man haunted
-by a tune, always seeking for the broken notes of a lost melody;
-which he himself called the note of the [[Time|time]]-devouring [[Nightingale|nightingale]].
-"But only children hear it right."  Why?
-
-Moreover, as I have already noted, this principle of the beatific
-vision of [[innocence]] was even more proved in the breach than in
-the observance.  The rationalists and realists who were praising
-the adult pursuit of happiness, or ought to have been praising
-such a pursuit of happiness, were (and still are) mainly occupied
-with describing unhappiness.  They only prove that free life and free
-[[Love|love]] are really worse than any [[ascetic]] had ever represented them.
-The naturalistic philosophies did not only contradict [[Christianity]].
-The naturalistic philosophies also contradicted the naturalistic novels.
-Their own exercise of their own right of expression was quite
-enough to show that the mere combination of the maturity of reason
-with the pleasures of passion does not in fact produce a Utopia.
-We need not [[debate]] here whether the Zolaists were justified
-in so laboriously describing horrors.  If mere liberty had really
-led to happiness, they would have been describing happiness.
-It would not have been necessary for a grown man with a library
-of modern literature to hide himself in a twopenny toy theatre
-in order to be happy.
-
-This very simple [[Truth|truth]] is probably too simple to be seen;
-because, like many such things, it is too large to be seen.
-But certainly it is still there to be seen, if any of
-the moderns could enlarge their minds enough to see it.
-The type of realism has changed since the days of Zola, just as
-the type of [[Romance|romance]] has changed since the days of Stevenson.
-But it has not answered this unanswerable distinction between the
-cheerful [[songs]] of [[innocence]] and the [[Melancholy|melancholy]] [[songs]] of experience.
-Of the recent literature of the rising generation, there is
-much that is frivolous, but uncommonly little that is joyous.
-Just now we are incessantly asked to rejoice in the sight of youth
-enjoying itself; which I for one am very ready to do; but all
-the readier if I can be quite certain that it is enjoying itself.
-And it is a curious fact that in its characteristic contemporary
-literature there is an almost complete absence of joy.
-And I think it would be true to say, in a general fashion,
-that it is not childish enough to be cheerful.  In this connection I
-may be allowed once more to be at once anecdotal and allegorical.
-When I first saw the title of _The Green Hat_ I pictured it as
-the top-hat of an old gentleman who had a fancy for that colour.
-I imagined him a strutting symbolic figure of springtime,
-with hair like the hawthorn and a hat like the new [[Leaves|leaves]]; my mind
-lost itself amid tree-tops and all the antics of the April [[Wind|wind]];
-I imagined him chasing his hat to elfland and the end of the world,
-or climbing trees to find the blue bird nesting in the green headgear.
-The mere idea of a green hat gave me a glimpse into that
-elusive element of which the blue bird was made the emblem.
-When I opened the book and found that the green hat was only
-a lady's hat, and that the book was full of sentiments about sex,
-I was as blankly disappointed as a boy who has been given a dictionary
-instead of a book.  My feelings towards the intrusive females
-were those of Jim Hawkins; much what he would have felt if a
-fashionable lady had dissuaded Squire Trelawney from going to sea.
-It is true that the people in the book professed to be
-enjoying themselves, in what appeared to be their own fashion;
-but they could not help me to enjoy myself, as I should have done
-with the only true, real and original story of the green hat.
-I recognised that there was wit in the work, but no fun in it; there was
-no stir of that deep gale of [[spring]]; but rather an accepted air of [[Autumn|autumn]];
-of things dancing as dead [[Leaves|leaves]] [[Dance|dance]]; like the Falling [[Leaves]]
-in the joyful revelation of Mr. Aldous Huxley.  I know all about
-the defence of this gloomy realism on the ground that it is real.
-I have known it ever since the [[Time|time]] of Stevenson writing on Zola.
-But I am not talking about whether this literature is reasonable
-or justifiable; I am talking about whether it does in fact call up,
-or even try to call up, the passion of positive joy.
-
-That is why this episode is worth noting and recalling if only
-as an episode; and all the more so, if it is in sharp contrast with
-the episodes that follow as [[Well|well]] as the episodes that went before.
-I have admitted that some part of Stevenson's deliberate choice
-of childishness was a reaction from ill-chosen surroundings
-and courses of conduct in the periods of passion and of youth.
-But the younger writers, who boast of choosing for themselves,
-seem just as unsuccessful in making passion identical with pleasure;
-and just as unsuccessful in preserving the youthful spirit of youth.
-I have admitted that when he made his dash for liberty and happiness,
-it may have appeared that there was no other alternative but that of
-[[Puritanism]] or pessimism.  But the new writers who are not threatened
-with [[Puritanism]] seem to be just as much moved to pessimism.
-There seems no explanation of the two tempers; except that the apostle
-of [[Childhood|childhood]] was at least seeking pleasure where it could be found,
-while the apostles of youth are seeking it where it cannot be found.
-What awaits us after all these episodes I will not pretend to prophesy;
-I will only profess to [[Hope|hope]] that it may be the rebuilding of the great
-and neglected Christian [[philosophy]], to which all contributions will
-be thankfully received, especially those of atheists and anarchists.
-And that is really the chief importance, both of the man who can show
-human [[Nature|nature]] happy in the nursery and the man who can only show it
-unhappy in the [[Night|night]]-club. Both of them may be, and generally are,
-of the sort that would smile scornfully at the thought of calling up
-the old pious fables about heaven and hell.  But in fact Stevenson
-was describing the kingdom of heaven and calling it Skelt; while Zola
-was describing all the kingdoms of hell and calling it real life.
-Neither of them get outside the iron ring of the real [[Truth|truth]] of the matter;
-that the one thing, however babyish, really is a picture of contentment,
-while in the other the only decent element is discontent.
-
-It may be that the world will forget Stevenson, a century or so
-after it has forgotten all the present distinguished detractors
-of Stevenson.  It may be quite the other way, as the poet said;
-it may be the world will remember Stevenson; will remember him
-with a start, so to speak, when everybody else has forgotten
-that there ever was any story in a [[Novel|novel]].  The dissolution hinted
-at by Sir [[Edmund]] Gosse, whereby fiction which was always a rather
-vague form shall become utterly formless, may have by that [[Time|time]]
-dropped out of the [[Novel|novel]] all its original notion of a narrative.
-Mr. H. G. Wells, if he lives to delight the world so long,
-will be able to deliver the goods in the form of great masses
-of admirable analyses of economics and social conditions,
-without the embarrassment of having to remember at every two hundred
-pages or so that he has somewhere left a [[Hero|hero]] in a motor-car
-or a heroine in a lodging-[[house]]. Miss Dorothy Richardson may pour
-out those vivid inventories of the furniture and family crockery,
-which her subconscious [[Self|self]] notes with the accuracy of an inventory clerk,
-without being pestered to tell us who owned these objects,
-or what was the object of owning them.  The psychologists may
-present us with a series of subtle and fascinating states of mind,
-without our being morbidly curious to enquire whose mind.
-They in turn may yield to some other school; such as those bright
-and breezy Americans who call themselves Behaviourists.
-They declare with some warmth that there is really nothing
-in their minds and that they only think with their muscles;
-which, in the case of some thinking, we might [[Well|well]] believe.
-At present the Behaviourists are on their best behaviour.
-But there seems no reason why this new sort of muscular [[Christianity]]
-should not eventually invade the [[Novel|novel]], just as psychoanalysis did;
-and we shall all be able to rejoice in a new type of fiction,
-in which a bright thought flashes through Edwin's biceps
-or a vivid [[Memory|memory]] rises unbidden in the deltoid of Angelina.
-For it is the habit of modern psychological science to make quite
-sure of its fiction a long [[Time|time]] before it is sure of its facts.
-But the trouble about such fiction will be that it is very much
-of a novelty, but not much of a [[Novel|novel]].  The passion for making
-patterns of loops and spirals, like a chart of currents at sea,
-has so far dissolved the outline of individuality that we
-lose all sense of what a man is, let [[Alone|alone]] what a man wants.
-Nameless universal forces streaming through the subconsciousness,
-run very truly like that dark and sacred [[River|river]] that wound its
-way through caverns measureless to man.  When this process of
-shapelessness is complete, it is always possible that men may come
-upon a shape with something of a sharp surprise; like a geologist
-finding in featureless rocks the fossil of some wild creature,
-looking as if petrified in the last wild leap or on the wing.
-Or it is as if an antiquary, passing through halls and temples
-of some iconoclastic [[City|city]], covered with dizzy patterns of merely
-mathematical [[Beauty|beauty]], were to come upon the heaving limb or lifted
-shoulder of some broken statue of the Greeks.  In that condition it
-may be that the [[Novel|novel]] will again be [[Novel|novel]].  And in that condition,
-in that reaction, certainly no [[Novel|novel]] will serve its purpose
-so forcibly, or make its point so plainly, as a [[Novel|novel]] by Stevenson.
-The story, the first of childish and the oldest of human pleasures,
-will nowhere reveal its structure and its end so swiftly and simply
-as in the tales of Tusitala.  The world's great age will in that
-degree begin anew; the [[Childhood|childhood]] of the earth be rediscovered;
-for the story-teller will once more have spread his carpet in the [[Dust|dust]];
-and it will really be a [[Magic|magic]] carpet.
-
-But whether or no the world returns thus to Stevenson, whether or no
-it returns thus to stories, it will certainly return to something;
-and to something of this kind.  The only thing which we can safely
-prophesy is the one thing which is always called impossible.
-Again and again we are told, by all sorts of priggish
-and progressive persons, that mankind cannot go back.
-The answer is that if mankind cannot go back, it cannot go anywhere.
-Every important change in [[history]] has been founded on something historic:
-and if the world had not again and again tried to renew its youth,
-it would have been dead long ago.  As the poet makes his [[songs]]
-out of memories of first [[Love|love]], or the writer of fairy-tales has
-to play at being a [[Child|child]] as the [[Child|child]] plays at being a man, so every
-republican has looked back to the remote republics of antiquity
-and even the Communist talks about a primitive community of goods.
-The sharp return to simplicity, as the expression of the fiery
-thirst for happiness--that is the one recurring fact of all [[history]];
-and that is the importance of Stevenson's place in literary [[history]].
-Nor is there the smallest reason to suppose that the literary [[history]]
-of the future will in this respect be any different from the literary
-[[history]] of the past.  On the contrary, the two or three examples
-of extreme change, with which the most recent days have challenged us,
-have very curiously confirmed this old [[Truth|truth]] in a new way.
-Of that it is indeed true to say that the more it changes,
-the more it is the same thing; and a jolly good thing too.
-
-Fashions change; but this return to the nursery is not a fashion
-and it does not change.  If we turn to the very latest,
-and we might say loudest, of literary innovators, we still find
-that in so far as they are saying anything, they are saying that.
-Let us suppose that the Stevensonian way of doing it is altogether
-dated and out of date; let us leave Stevenson behind in the dead past,
-along with such lumber as Cervantes and Balzac and Charles Dickens.
-If we shoot forward into the most fashionable fads and fancies,
-if we rush to the newest salons or listen to the most advanced
-lectures, we do not escape the challenge of our [[Childhood|childhood]].
-There is already a group, we might say a family group,
-of poets who consider themselves, and are generally considered,
-the last word in experiment and even extravagance; and who are
-not without real qualities of deep atmosphere and suggestion.
-Yet all that is really deep in the best of their work comes out
-of those depths of [[Garden|garden]] perspective and large rooms as seen
-by little children, white with the windows of the morning.
-The best poetry of Miss Sitwell is after all a sort of [[Parody|parody]] of
-_A [[Child]]'s [[Garden]] of Verses,_ decked with slightly altered adjectives
-that would mildly surprise the [[Child|child]].  But the poet is as certainly
-groping after her own lost [[Shadow|shadow]] as the [[Child|child]] who "[[Rose|rose]] and found
-the shining dew on every buttercup"; and is even more ready to idealise
-the moving cloud of the crinoline than he who was content to say,
-"Whenever Aunty moves around, her dresses make a curious sound."
-In Miss Sitwell's version they would make a still more curious sound,
-the [[Nature|nature]] of which I have not the [[Courage|courage]] to conjecture.
-The shining dew might become the shrieking dew, or on a more moderate
-estimate the sniggering dew; but it would still be a long-lost
-[[Child|child]] who stood bewildered in those grey meadows before the [[Dawn|dawn]].
-Many have complained, and perhaps justly, of the almost American
-modernity of the artistic [[Ambition|ambition]] of these artists.  They announce
-their message through a megaphone; they shout it through pantomime masks;
-they hustle and push and pick quarrels; but there is something
-in them, for all their efforts to advertise--or to hide it.
-And that something is the new form of the reaction of Stevenson;
-exactly as Stevenson was the new form of the reaction of Rousseau.
-Many have speculated on what they are really after; but what they are
-really after is still the same:  those lost children who are themselves;
-lost in the deep gardens at dusk.
-
-That is why the real story of Stevenson must end where it began;
-because it was to that end that he himself perpetually wandered
-and strove.  I said at the beginning that the key to his career was
-put early into his hands; it was [[Well|well]] symbolised by the paint-brush
-dipped in purple or prussian blue, with which he started
-to colour the stiff caricatures upon the cardboard of Skelt.
-But that paint-brush has been in other hands besides his; I remarked
-elsewhere that, dipped in somewhat paler hues, it has brightened
-the lives of many of those vague Victorian aunts whose cloudy crinolines
-float through the gardens of the new "Early Victorian" poetry.
-Neither perhaps know that, even in lingering on such things, they do
-but illustrate a more ancient [[Parable|parable]] and the mystery of a [[Child|child]] set
-in the midst.  Here, however, we may take the matter more lightly
-and leave it to tell its own story; but at least it is amusing
-to reflect that the old story of the unconsciously comic tombstone,
-the epitaph that was the butt of a hundred jests, is not really
-so far wrong after all; that there is a sort of [[Truth|truth]] concealed in
-that remarkable [[Inscription|inscription]], and that (leaving on one side a somewhat
-needless allusion to the Earl of Cork) we may repeat the epitaph
-with [[Truth|truth]] and even profundity:  "He also painted in watercolours.
-For of such is the kingdom of heaven."
-
-* * * *
-
-THE END
+And with this matter of responsibility, and the reliance on the will
+in moral matters, we come to that larger question to be considered
+in the last chapter.  It will be in a sense a summary of what has
+already been said; and yet it will be necessary to say it somewhat
+more plainly, and in relation to large matters about which many
+modern people are rather too confused or too timid to talk plain.
+For the moment it need only be said that the importance of Stevenson
+largely consists in his relation with the tendency of his age.
+That tendency was towards a certain mysticism of materialism,
+of which the most dogmatic expression is what is called monism;
+but which can be more lightly expressed in a hundred forms,
+as that all life is one, or that everything is heredity
+and environment, or that the impersonal is higher than the personal,
+or that men live by the herd instinct or the [[Soul|soul]] of the hive.
+Our fathers called the general atmosphere fatalism; but it has
+now any number of more idealistic names.  Stevenson felt all this,
+without exactly defining it; he felt it in the realism of
+nineteenth-century literature, in the pessimism of contemporary poetry,
+in the timidity of hygienic precaution, in the smugness of
+middle-class uniformity.  And while he was entirely of that [[Time|time]]
+and society, while he read all the realists, knew all the artists,
+doubted with the doubters and even denied with the deniers,
+he had that within him which could not but break out in a sort
+of passionate protest for more personal and poetical things.
+He flung out his arms with a wide and blind gesture, as one who would
+find wings at the moment when the world sank beneath him.
 
 * * * *

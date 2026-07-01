@@ -1,5 +1,5 @@
 ---
-title: "[[The Murders in the Rue Morgue]] (part 10)"
+title: "The Murders in the Rue Morgue (part 10)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-murders-in-the-rue-morgue-(poe)"
@@ -14,13 +14,53 @@ tags:
 </nav>
 
 
+      a vigorous attempt to raise this sash, failed also. The police
+
+      were now entirely satisfied that egress had not been in these
+
+      directions. And, _therefore_, it was thought a matter of
+
+      supererogation to withdraw the nails and open the windows.
+
+
+
+      “My own examination was somewhat more particular, and was so for
+
+      the reason I have just given—because here it was, I knew, that
+
+      all apparent impossibilities _must_ be proved to be not such in
+
+      reality.
+
+
+
+      “I proceeded to think thus—_a posteriori_. The murderers did
+
+      escape from one of these windows. This being so, they could not
+
+      have refastened the sashes from the inside, as they were found
+
+      fastened;—the consideration which put a stop, through its
+
+      obviousness, to the scrutiny of the police in this quarter. Yet
+
+      the sashes _were_ fastened. They _must_, then, have the power of
+
+      fastening themselves. There was no escape from this conclusion. I
+
+      stepped to the unobstructed casement, withdrew the nail with some
+
+      difficulty and attempted to raise the sash. It resisted all my
+
+      efforts, as I had anticipated. A concealed [[spring]] must, I now
+
       know, exist; and this corroboration of my idea convinced me that
 
       my premises at least, were correct, however mysterious still
 
       appeared the circumstances attending the nails. A careful search
 
-      soon brought to light the hidden [[Spring|spring]]. I pressed it, and,
+      soon brought to light the hidden [[spring]]. I pressed it, and,
 
       satisfied with the discovery, forbore to upraise the sash.
 
@@ -30,7 +70,7 @@ tags:
 
       passing out through this [[Window|window]] might have reclosed it, and the
 
-      [[Spring|spring]] would have caught—but the nail could not have been
+      [[spring]] would have caught—but the nail could not have been
 
       replaced. The conclusion was plain, and again narrowed in the
 
@@ -48,7 +88,7 @@ tags:
 
       hand down behind the board, I readily discovered and pressed the
 
-      [[Spring|spring]], which was, as I had supposed, identical in character with
+      [[spring]], which was, as I had supposed, identical in character with
 
       its neighbor. I now looked at the nail. It was as stout as the
 
@@ -96,7 +136,7 @@ tags:
 
       resemblance to a perfect nail was complete—the fissure was
 
-      invisible. Pressing the [[Spring|spring]], I gently raised the sash for a
+      invisible. Pressing the [[spring]], I gently raised the sash for a
 
       few inches; the head went up with it, remaining firm in its bed.
 
@@ -112,7 +152,7 @@ tags:
 
       accord upon his exit (or perhaps purposely closed), it had become
 
-      fastened by the [[Spring|spring]]; and it was the retention of this [[Spring|spring]]
+      fastened by the [[spring]]; and it was the retention of this [[spring]]
 
       which had been mistaken by the police for that of the
 
@@ -157,45 +197,3 @@ tags:
       at these _ferrades_ in the line of their breadth (as they must
 
       have done), they did not perceive this great breadth itself, or,
-
-      at all events, failed to take it into due consideration. In fact,
-
-      having once satisfied themselves that no egress could have been
-
-      made in this quarter, they would naturally bestow here a very
-
-      cursory examination. It was clear to me, however, that the
-
-      shutter belonging to the [[Window|window]] at the head of the bed, would, if
-
-      swung fully back to the wall, reach to within two feet of the
-
-      [[Lightning|lightning]]-rod. It was also evident that, by exertion of a very
-
-      unusual degree of activity and [[Courage|courage]], an entrance into the
-
-      [[Window|window]], from the rod, might have been thus effected. By reaching
-
-      to the distance of two feet and a half (we now suppose the
-
-      shutter open to its whole extent) a robber might have taken a
-
-      firm grasp upon the trellis-work. Letting go, then, his hold upon
-
-      the rod, placing his feet securely against the wall, and
-
-      springing boldly from it, he might have swung the shutter so as
-
-      to close it, and, if we imagine the [[Window|window]] open at the [[Time|time]],
-
-      might even have swung himself into the room.
-
-
-
-      “I wish you to bear especially in mind that I have spoken of a
-
-      _very_ unusual degree of activity as requisite to [[success]] in so
-
-      hazardous and so difficult a feat. It is my design to show you,
-
-      first, that the thing might possibly have been accomplished:—but,

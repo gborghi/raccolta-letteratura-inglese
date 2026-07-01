@@ -1,5 +1,5 @@
 ---
-title: "[[manalive]] — Chapter 1 (part 2)"
+title: "manalive — Chapter 1 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/manalive-(chesterton)"
@@ -13,6 +13,31 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/manalive/chapter_01/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/manalive/chapter_01/part_03">part 03 ›</a></div>
 </nav>
 
+
+Nor, oddly, was the girl in blue entirely unimpressed by this
+[[Apocalypse|apocalypse]] in a private [[Garden|garden]]; though she was one of most prosaic
+and practical creatures alive.  She was, indeed, no other than
+the strenuous niece whose strength [[Alone|alone]] upheld that mansion of [[Decay|decay]].
+But as the gale swung and swelled the blue and white skirts till they
+took on the monstrous contours of Victorian crinolines, a sunken [[Memory|memory]]
+stirred in her that was almost [[Romance|romance]]--a [[Memory|memory]] of a dusty volume
+of _Punch_ in an aunt's [[house]] in infancy:  pictures of crinoline hoops
+and croquet hoops and some pretty story, of which perhaps they were a part.
+This half-perceptible fragrance in her thoughts faded almost instantly,
+and [[Diana]] Duke entered the [[house]] even more promptly than her companion.
+Tall, slim, aquiline, and dark, she seemed made for such swiftness.
+In [[Body|body]] she was of the breed of those [[Birds|birds]] and beasts that are at once
+long and alert, like greyhounds or herons or even like an [[Innocent|innocent]] snake.
+The whole [[house]] revolved on her as on a rod of steel.  It would
+be wrong to say that she commanded; for her own efficiency was so
+impatient that she obeyed herself before any one else obeyed her.
+Before electricians could mend a bell or locksmiths open a door,
+before dentists could pluck a tooth or butlers draw a tight cork,
+it was done already with the silent violence of her slim hands.
+She was light; but there was nothing leaping about her lightness.
+She spurned the ground, and she meant to spurn it.  People talk
+of the pathos and failure of plain women; but it is a more terrible
+thing that a beautiful woman may succeed in everything but womanhood.
 
 "It's enough to blow your head off," said the young woman in white,
 going to the looking-glass.
@@ -109,37 +134,3 @@ There was a small resilient Jew named Moses Gould in the same
 boarding-[[house]], a man whose negro vitality and vulgarity amused
 [[Michael]] so much that he went round with him from bar to bar,
 like the owner of a performing monkey.
-
-The colossal clearance which the [[Wind|wind]] had made of that cloudy sky grew
-clearer and clearer; chamber within chamber seemed to open in heaven.
-One felt one might at last find something lighter than light.
-In the fullness of this silent effulgence all things collected their
-colours again:  the gray trunks turned silver, and the drab gravel gold.
-One bird fluttered like a loosened leaf from one tree to another,
-and his brown feathers were brushed with [[Fire|fire]].
-
-"Inglewood," said [[Michael]] [[Moon]], with his blue eye on the bird,
-"have you any friends?"
-
-Dr. Warner mistook the person addressed, and turning a broad
-beaming face, said,--
-
-"Oh yes, I go out a great deal."
-
-[[Michael]] [[Moon]] gave a tragic grin, and waited for his real informant,
-who spoke a moment after in a voice curiously cool, fresh and young,
-as coming out of that brown and even dusty interior.
-
-"Really," answered Inglewood, "I'm afraid I've lost touch with
-my old friends.  The greatest friend I ever had was at school,
-a fellow named [[smith|Smith]].  It's odd you should mention it, because I
-was thinking of him to-day, though I haven't seen him for seven
-or eight years.  He was on the science side with me at school--
-a clever fellow though queer; and he went up to [[Oxford]] when I
-went to [[Germany]].  The fact is, it's rather a sad story.
-I often asked him to come and see me, and when I heard nothing I
-made inquiries, you know.  I was shocked to learn that poor [[smith|Smith]]
-had gone off his head.  The accounts were a bit cloudy, of course,
-some saying that he had recovered again; but they always say that.
-About a year ago I got a telegram from him myself.  The telegram,
-I'm sorry to say, put the matter beyond a [[Doubt|doubt]]."

@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 7 (part 1)"
+title: "The Tenant of Wildfell Hall — Chapter 7 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -146,7 +146,7 @@ was something indescribably chilly in her quiet, calm civility; but I
 
 did not talk much to her. Seating myself near the [[Window|window]], a little back
 
-from the circle, I called [[arthur|Arthur]] to me, and he and I and Sancho amused
+from the circle, I called [[Arthur]] to me, and he and I and Sancho amused
 
 ourselves very pleasantly together, while the two young ladies baited
 
@@ -211,9 +211,3 @@ mad in such a place. She can’t put on life unless she sees half a dozen
 fresh gowns and bonnets a day—not to speak of the faces within; but you
 
 might sit watching at these windows all day long, and never see so much
-
-as an old woman carrying her eggs to market.”
-
-
-
-“I am not sure the [[Loneliness|loneliness]] of the place was not one of its chief

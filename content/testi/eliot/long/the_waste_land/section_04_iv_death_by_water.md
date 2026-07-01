@@ -1,5 +1,5 @@
 ---
-title: "IV. [[Death]] by [[Water]]"
+title: "IV. Death by Water"
 author: "Eliot"
 unitType: section
 tags:

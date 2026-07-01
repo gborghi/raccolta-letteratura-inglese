@@ -1,5 +1,5 @@
 ---
-title: "The Merchant of [[Venice]] — Act I, Scene 1 — monologue (GRAZIANO) [3]"
+title: "The Merchant of Venice — Act I, Scene 1 — monologue (GRAZIANO) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-merchant-of-venice-(shakespeare)"

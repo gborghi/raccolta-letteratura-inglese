@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 9 (part 3)"
+title: "Northanger Abbey — Chapter 9 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_10/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_11/part_01">part 01 ›</a></div>
 </nav>
 
+
+aimed at wit of any kind; her father, at the utmost, being contented
+
+with a pun, and her mother with a proverb; they were not in the habit
+
+therefore of telling lies to increase their importance, or of asserting
+
+at one moment what they would contradict the next. She reflected on the
+
+affair for some [[Time|time]] in much perplexity, and was more than once on the
 
 point of requesting from Mr. Thorpe a clearer insight into his real
 

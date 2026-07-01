@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 36: THIRTY SIX (part 4)"
+title: "Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_36_thirty_six/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_36_thirty_six/part_05">part 05 ›</a></div>
 </nav>
 
+
+‘Don’t they expect you then?’ inquired the driver.
+
+‘Who?’ said Tom.
+
+‘Why them,’ returned the driver.
+
+His mind was so clearly running on the assumption of Tom’s having come
+to town to see an extensive circle of anxious relations and friends,
+that it would have been pretty hard work to undeceive him. Tom did not
+try. He cheerfully evaded the subject, and going into the Inn, fell fast
+asleep before a [[Fire|fire]] in one of the public rooms opening from the yard.
+When he awoke, the people in the [[house]] were all astir, so he washed and
+dressed himself; to his great refreshment after the [[Journey|journey]]; and, it
+being by that [[Time|time]] eight o’[[Clock|clock]], went forth at once to see his old
+friend John.
 
 John Westlock lived in Furnival’s Inn, High Holborn, which was within a
 quarter of an hour’s walk of Tom’s starting-point, but seemed a long way
@@ -124,19 +140,3 @@ I do now, how deeply you feel this, I don’t know whether to be glad or
 sorry that you have made the discovery at last. I reproach myself with
 the thought that I ever jested on the subject; I ought to have known
 better.’
-
-‘My dear friend,’ said Tom, extending his hand, ‘it is very generous and
-gallant in you to receive me and my disclosure in this spirit; it makes
-me blush to think that I should have felt a moment’s uneasiness as I
-came along. You can’t think what a weight is lifted off my mind,’ said
-Tom, taking up his knife and fork again, and looking very cheerful. ‘I
-shall punish the Boar’s Head dreadfully.’
-
-The host, thus reminded of his duties, instantly betook himself to
-piling up all kinds of irreconcilable and contradictory viands in Tom’s
-plate, and a very capital breakfast Tom made, and very much the better
-for it Tom felt.
-
-‘That’s all right,’ said John, after contemplating his visitor’s
-proceedings with infinite satisfaction. ‘Now, about our plans. You are
-going to stay with me, of course. Where’s your box?’

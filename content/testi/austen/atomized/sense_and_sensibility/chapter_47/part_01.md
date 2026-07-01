@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 47 (part 1)"
+title: "Sense and Sensibility — Chapter 47 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -219,13 +219,3 @@ poor; and probably would soon have learned to rank the innumerable
 comforts of a clear estate and good income as of far more importance,
 
 even to domestic happiness, than the mere temper of a wife.”
-
-
-
-“I have not a [[Doubt|doubt]] of it,” said Marianne; “and I have nothing to
-
-regret—nothing but my own folly.”
-
-
-
-“Rather say your mother’s imprudence, my [[Child|child]],” said Mrs. Dashwood;

@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 33 (part 1)"
+title: "The Tenant of Wildfell Hall — Chapter 33 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/works/the-tenant-of-wildfell-hall-(bronte)">The Tenant of Wildfell Hall</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_32/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_33/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_32/part_05">‹ part 05</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_33/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -28,7 +28,7 @@ know I was near, for I happened to be standing behind the curtain in
 
 the bow of the [[Window|window]], watching the [[Moon|moon]] rising over the clump of tall
 
-dark elm-trees below the lawn, and wondering why [[arthur|Arthur]] was so
+dark elm-trees below the lawn, and wondering why [[Arthur]] was so
 
 sentimental as to stand without, leaning against the outer pillar of
 
@@ -76,7 +76,7 @@ with their false, fair faces and their deceitful tongues.”
 
 At this juncture I issued from my retreat, and smiling on Mr. Grimsby
 
-as I passed, left the room and went out in search of [[arthur|Arthur]]. Having
+as I passed, left the room and went out in search of [[Arthur]]. Having
 
 seen him bend his course towards the shrubbery, I followed him thither,
 
@@ -110,7 +110,7 @@ affection is genuine: he is not sick of me yet.
 
 
 
-“I startled you, [[arthur|Arthur]],” said I, laughing in my glee. “How nervous you
+“I startled you, [[Arthur]],” said I, laughing in my glee. “How nervous you
 
 are!”
 
@@ -128,7 +128,7 @@ of cold!”
 
 “I won’t, till I’ve told you what I came for. They are blaming you,
 
-[[arthur|Arthur]], for your temperance and sobriety, and I’m come to thank you for
+[[Arthur]], for your temperance and sobriety, and I’m come to thank you for
 
 it. They say it is all ‘these cursed women,’ and that we are the bane
 
@@ -164,7 +164,7 @@ away, do!”
 
 
 
-“Do you see my [[Death|death]] among those trees, [[arthur|Arthur]]?” said I, for he was
+“Do you see my [[Death|death]] among those trees, [[Arthur]]?” said I, for he was
 
 gazing intently at the shrubs, as if he saw it coming, and I was
 
@@ -210,7 +210,7 @@ vanished for the [[Time|time]]; and he astonished us all, not only by his
 
 general cheerfulness and animation, but by the positive flashes of true
 
-force and brilliance he emitted from [[Time|time]] to [[Time|time]]. [[arthur|Arthur]] did not talk
+force and brilliance he emitted from [[Time|time]] to [[Time|time]]. [[Arthur]] did not talk
 
 much, but he laughed, and listened to the rest, and was in perfect
 
@@ -241,19 +241,3 @@ friends? No. Had any of the servants vexed her?
 “Bless you, no!” said she, with a sorrowful shake of the head; and then
 
 she sighed and continued: “But to tell you the [[Truth|truth]], ma’am, I don’t
-
-like master’s ways of going on.”
-
-
-
-“What do you mean, Rachel? He’s going on very properly at present.”
-
-
-
-“[[Well]], ma’am, if you think so, it’s right.”
-
-
-
-And she went on dressing my hair, in a hurried way, quite unlike her
-
-usual calm, collected manner, murmuring, half to herself, she was sure

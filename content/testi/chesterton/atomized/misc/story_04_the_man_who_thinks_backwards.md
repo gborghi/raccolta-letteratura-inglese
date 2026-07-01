@@ -1,5 +1,5 @@
 ---
-title: "[[misc]] — THE MAN WHO THINKS BACKWARDS"
+title: "misc — THE MAN WHO THINKS BACKWARDS"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 THE MAN WHO THINKS BACKWARDS
-
 
 The man who thinks backwards is a very powerful person to-day: indeed,
 if he is not omnipotent, he is at least omnipresent.  It is he who writes

@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 40 (part 2)"
+title: "Nicholas Nickleby — Chapter 40 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_40/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_40/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘She has,’ cried Newman. ‘She is as noble-hearted as she is beautiful.’
+
+‘Yes, yes!’ cried [[Smike]]. ‘[[Well]] said!’
+
+‘So mild and gentle,’ said Newman.
+
+‘Yes, yes!’ cried [[Smike]], with increasing eagerness.
 
 ‘And yet with such a true and gallant spirit,’ pursued Newman.
 
@@ -129,19 +137,3 @@ he would smile, and say, “Better!” but now he shakes his head, and only
 bends more closely over his old plants. It must be dull to watch the
 dark housetops and the flying clouds, for so many months; but he is very
 patient.’
-
-‘Is there nobody in the [[house]] to cheer or help him?’ asked Nicholas.
-
-‘His father lives there, I believe,’ replied Tim, ‘and other people too;
-but no one seems to care much for the poor sickly cripple. I have asked
-him, very often, if I can do nothing for him; his answer is always the
-same. “Nothing.” His voice is growing weak of late, but I can SEE that
-he makes the old reply. He can’t leave his bed now, so they have moved
-it close beside the [[Window|window]], and there he lies, all day: now looking at
-the sky, and now at his [[Flowers|flowers]], which he still makes shift to trim and
-[[Water|water]], with his own thin hands. At [[Night|night]], when he sees my candle, he
-draws back his curtain, and [[Leaves|leaves]] it so, till I am in bed. It seems
-such company to him to know that I am there, that I often sit at my
-[[Window|window]] for an hour or more, that he may see I am still awake; and
-sometimes I get up in the [[Night|night]] to look at the dull [[Melancholy|melancholy]] light in
-his little room, and [[Wonder|wonder]] whether he is awake or sleeping.

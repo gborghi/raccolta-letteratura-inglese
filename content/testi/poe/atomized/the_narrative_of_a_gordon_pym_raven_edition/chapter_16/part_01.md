@@ -197,5 +197,3 @@ CHAPTER 16
       they saw no ice. In regard to this voyage, Mr. Reynolds observes
 
       that, if Kreutzenstern had arrived where he did earlier in the
-
-      season, he must have encountered ice—it was March when he reached

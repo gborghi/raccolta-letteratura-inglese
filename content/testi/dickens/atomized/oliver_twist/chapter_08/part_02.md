@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 8 (part 2)"
+title: "Oliver Twist — Chapter 8 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_08/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_08/part_03">part 03 ›</a></div>
 </nav>
 
+
+By degrees, the shutters were opened; the [[Window|window]]-blinds were drawn up;
+and people began passing to and fro. Some few stopped to gaze at [[Oliver]]
+for a moment or two, or turned round to stare at him as they hurried
+by; but none relieved him, or troubled themselves to inquire how he
+came there. He had no heart to beg. And there he sat.
 
 He had been crouching on the step for some [[Time|time]]: wondering at the great
 number of public-houses (every other [[house]] in Barnet was a tavern,

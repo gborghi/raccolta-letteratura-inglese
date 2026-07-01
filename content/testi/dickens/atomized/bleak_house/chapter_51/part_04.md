@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 51 (part 4)"
+title: "Bleak House — Chapter 51 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_51/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_52/part_01">part 01 ›</a></div>
 </nav>
 
+
+Thus the [[Time|time]] went on until it became necessary for me to think of
+returning. When that [[Time|time]] arrived it was the worst of all, for then
+my darling completely broke down. She clung round my neck, calling me
+by every dear name she could think of and saying what should she do
+without me! Nor was [[Richard]] much better; and as for me, I should have
+been the worst of the three if I had not severely said to myself,
+“Now Esther, if you do, I’ll never speak to you again!”
 
 “Why, I declare,” said I, “I never saw such a wife. I don’t think she
 loves her husband at all. Here, [[Richard]], take my [[Child|child]], for goodness’

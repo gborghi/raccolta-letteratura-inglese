@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 6 (part 1)"
+title: "Persuasion — Chapter 6 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -205,9 +205,3 @@ for the rest of the day.” And Mrs Musgrove took the first opportunity
 of being [[Alone|alone]] with Anne, to say, “Oh! Miss Anne, I cannot help wishing
 
 Mrs Charles had a little of your method with those children. They are
-
-quite different creatures with you! But to be sure, in general they are
-
-so spoilt! It is a pity you cannot put your sister in the way of
-
-managing them. They are as fine healthy children as ever were seen,

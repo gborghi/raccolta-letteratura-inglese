@@ -14,6 +14,10 @@ tags:
 </nav>
 
 
+      that of drawing straws. Small splinters of wood were made to
+
+      answer our purpose, and it was agreed that I should be the
+
       holder. I retired to one end of the hulk, while my poor
 
       companions silently took up their station in the other with their
@@ -193,11 +197,3 @@ tags:
 
 
       On the twenty-second, as we were sitting close huddled together,
-
-      gloomily revolving over our lamentable condition, there flashed
-
-      through my mind all at once an idea which inspired me with a
-
-      bright gleam of [[Hope|hope]]. I remembered that, when the foremast had
-
-      been cut away, Peters, being in the windward [[Chains|chains]], passed one

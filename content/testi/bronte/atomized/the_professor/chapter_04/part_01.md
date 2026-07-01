@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 3 (part 1)"
+title: "The Professor — Chapter 3 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -15,8 +15,6 @@ tags:
 
 
 CHAPTER III.
-
-
 
 I SERVED Edward as his second clerk faithfully, punctually, diligently.
 
@@ -94,8 +92,6 @@ on a statue, but he did not throw away the shafts--he only kept them
 
 quiet in his quiver.
 
-
-
 Once during my clerkship I had an invitation to Crimsworth Hall; it
 
 was on the occasion of a large party given in [[Honour|honour]] of the master’s
@@ -129,8 +125,6 @@ a group of very pretty girls, with whom he conversed gaily--Mr.
 Crimsworth, thus placed, glanced at me; I looked weary, solitary, kept
 
 down like some desolate tutor or governess; he was satisfied.
-
-
 
 Dancing began; I should have liked [[Well|well]] enough to be introduced to some
 
@@ -172,11 +166,7 @@ interesting, would strike an impartial spectator, when a voice close
 
 behind me pronounced the words--
 
-
-
 “Humph! there’s some sense in that face.”
-
-
 
 I turned; at my elbow stood a tall man, young, though probably five or
 
@@ -195,9 +185,3 @@ I saw his stature, and the outline of his shape; I saw, too, his
 fastidious-looking RETROUSSE nose; these observations, few in number,
 
 and general in character (the last excepted), sufficed, for they enabled
-
-me to recognize him.
-
-
-
-“Good evening, Mr. Hunsden,” muttered I with a bow, and then, like a

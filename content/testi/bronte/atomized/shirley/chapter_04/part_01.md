@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 4 (part 1)"
+title: "Shirley — Chapter 4 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -209,11 +209,3 @@ their art; he could see the charm of a fine picture, and feel the
 pleasure of good music; but a quiet poet--whatever force struggled,
 
 whatever [[Fire|fire]] glowed, in his breast--if he could not have played the man
-
-in the counting-[[house]], of the tradesman in the Piece Hall, might have
-
-lived despised, and died scorned, under the eyes of Hiram Yorke.
-
-
-
-And as there are many Hiram Yorkes in the world, it is [[Well|well]] that the

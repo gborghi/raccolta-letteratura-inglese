@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 11"
+title: "Our Mutual Friend — Chapter 13"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,606 +14,618 @@ tags:
 </nav>
 
 
-Chapter 11
-
-SOME AFFAIRS OF THE HEART
-
-
-Little Miss Peecher, from her little official dwelling-[[house]], with its
-little windows like the eyes in needles, and its little doors like the
-covers of school-books, was very observant indeed of the object of her
-quiet affections. [[Love]], though said to be afflicted with blindness, is
-a vigilant watchman, and Miss Peecher kept him on [[Double|double]] duty over Mr
-[[Bradley Headstone]]. It was not that she was naturally given to playing
-the spy—it was not that she was at all secret, plotting, or mean—it
-was simply that she loved the irresponsive Bradley with all the
-primitive and homely stock of [[Love|love]] that had never been examined or
-certificated out of her. If her faithful slate had had the latent
-qualities of sympathetic paper, and its pencil those of invisible ink,
-many a little treatise calculated to astonish the pupils would have come
-bursting through the dry sums in school-[[Time|time]] under the warming influence
-of Miss Peecher’s bosom. For, oftentimes when school was not, and her
-calm leisure and calm little [[house]] were her own, Miss Peecher would
-commit to the confidential slate an imaginary description of how, upon
-a balmy evening at dusk, two figures might have been observed in the
-market-[[Garden|garden]] ground round the corner, of whom one, being a manly form,
-bent over the other, being a womanly form of short stature and some
-compactness, and breathed in a low voice the words, ‘[[Emma]] Peecher, wilt
-thou be my own?’ after which the womanly form’s head reposed upon the
-manly form’s shoulder, and the nightingales tuned up. Though all unseen,
-and unsuspected by the pupils, [[Bradley Headstone]] even pervaded the
-school exercises. Was Geography in question? He would come triumphantly
-flying out of Vesuvius and Aetna ahead of the lava, and would boil
-unharmed in the hot springs of Iceland, and would float majestically
-down the Ganges and the Nile. Did [[history|History]] chronicle a [[King|king]] of men?
-Behold him in pepper-and-salt pantaloons, with his watch-guard round
-his neck. Were copies to be written? In capital B’s and H’s most of the
-girls under Miss Peecher’s tuition were half a year ahead of every other
-letter in the alphabet. And Mental Arithmetic, administered by Miss
-Peecher, often devoted itself to providing [[Bradley Headstone]] with a
-wardrobe of fabulous extent: fourscore and four neck-ties at two and
-ninepence-halfpenny, two gross of silver watches at four pounds fifteen
-and sixpence, seventy-four black hats at eighteen shillings; and many
-similar superfluities.
-
-The vigilant watchman, using his daily opportunities of turning his eyes
-in Bradley’s direction, soon apprized Miss Peecher that Bradley was more
-preoccupied than had been his wont, and more given to strolling about
-with a downcast and reserved face, turning something difficult in his
-mind that was not in the scholastic syllabus. Putting this and that
-together—combining under the head ‘this,’ present appearances and the
-intimacy with Charley Hexam, and ranging under the head ‘that’ the
-visit to his sister, the watchman reported to Miss Peecher his strong
-suspicions that the sister was at the [[Bottom|bottom]] of it.
-
-‘I [[Wonder|wonder]],’ said Miss Peecher, as she sat making up her weekly report on
-a half-holiday afternoon, ‘what they call Hexam’s sister?’
-
-Mary Anne, at her needlework, attendant and attentive, held her arm up.
-
-‘[[Well]], Mary Anne?’
-
-‘She is named Lizzie, ma’am.’
-
-‘She can hardly be named Lizzie, I think, Mary Anne,’ returned Miss
-Peecher, in a tunefully instructive voice. ‘Is Lizzie a Christian name,
-Mary Anne?’
-
-Mary Anne laid down her work, [[Rose|rose]], hooked herself behind, as being
-under catechization, and replied: ‘No, it is a corruption, Miss
-Peecher.’
-
-‘Who gave her that name?’ Miss Peecher was going on, from the mere force
-of habit, when she checked herself; on Mary Anne’s evincing theological
-impatience to strike in with her godfathers and her godmothers, and
-said: ‘I mean of what name is it a corruption?’
-
-‘Elizabeth, or Eliza, Miss Peecher.’
-
-‘Right, Mary Anne. Whether there were any Lizzies in the early Christian
-Church must be considered very doubtful, very doubtful.’ Miss Peecher
-was exceedingly sage here. ‘Speaking correctly, we say, then, that
-Hexam’s sister is called Lizzie; not that she is named so. Do we not,
-Mary Anne?’
-
-‘We do, Miss Peecher.’
-
-‘And where,’ pursued Miss Peecher, complacent in her little transparent
-fiction of conducting the examination in a semiofficial manner for Mary
-Anne’s benefit, not her own, ‘where does this young woman, who is called
-but not named Lizzie, live? Think, now, before answering.’
-
-‘In Church Street, [[smith|Smith]] Square, by Mill Bank, ma’am.’
-
-‘In Church Street, [[smith|Smith]] Square, by Mill Bank,’ repeated Miss Peecher,
-as if possessed beforehand of the book in which it was written. Exactly
-so. And what occupation does this young woman pursue, Mary Anne? Take
-[[Time|time]].’
-
-‘She has a place of trust at an outfitter’s in the [[City]], ma’am.’
-
-‘Oh!’ said Miss Peecher, pondering on it; but smoothly added, in a
-confirmatory tone, ‘At an outfitter’s in the [[City]]. Ye-es?’
-
-‘And Charley—’ Mary Anne was proceeding, when Miss Peecher stared.
-
-‘I mean Hexam, Miss Peecher.’
-
-‘I should think you did, Mary Anne. I am glad to hear you do. And
-Hexam—’
-
-‘Says,’ Mary Anne went on, ‘that he is not pleased with his sister, and
-that his sister won’t be guided by his advice, and persists in being
-guided by somebody else’s; and that—’
-
-‘Mr Headstone coming across the [[Garden|garden]]!’ exclaimed Miss Peecher, with a
-flushed glance at the looking-glass. ‘You have answered very [[Well|well]], Mary
-Anne. You are forming an excellent habit of arranging your thoughts
-clearly. That will do.’
-
-The discreet Mary Anne resumed her seat and her [[Silence|silence]], and stitched,
-and stitched, and was stitching when the schoolmaster’s [[Shadow|shadow]] came in
-before him, announcing that he might be instantly expected.
-
-‘Good evening, Miss Peecher,’ he said, pursuing the [[Shadow|shadow]], and taking
-its place.
-
-‘Good evening, Mr Headstone. Mary Anne, a chair.’
-
-‘Thank you,’ said Bradley, seating himself in his constrained manner.
-‘This is but a flying visit. I have looked in, on my way, to ask a
-kindness of you as a neighbour.’
-
-‘Did you say on your way, Mr Headstone?’ asked Miss Peecher.
-
-‘On my way to—where I am going.’
-
-‘Church Street, [[smith|Smith]] Square, by Mill Bank,’ repeated Miss Peecher, in
-her own thoughts.
-
-‘Charley Hexam has gone to get a book or two he wants, and will probably
-be back before me. As we leave my [[house]] empty, I took the liberty of
-telling him I would leave the key here. Would you kindly allow me to do
-so?’
-
-‘Certainly, Mr Headstone. Going for an evening walk, sir?’
-
-‘Partly for a walk, and partly for—on business.’
-
-‘Business in Church Street, [[smith|Smith]] Square, by Mill Bank,’ repeated Miss
-Peecher to herself.
-
-‘Having said which,’ pursued Bradley, laying his door-key on the table,
-‘I must be already going. There is nothing I can do for you, Miss
-Peecher?’
-
-‘Thank you, Mr Headstone. In which direction?’
-
-‘In the direction of Westminster.’
-
-‘Mill Bank,’ Miss Peecher repeated in her own thoughts once again. ‘No,
-thank you, Mr Headstone; I’ll not trouble you.’
-
-‘You couldn’t trouble me,’ said the schoolmaster.
-
-‘Ah!’ returned Miss Peecher, though not aloud; ‘but you can trouble
-ME!’ And for all her quiet manner, and her quiet smile, she was full of
-trouble as he went his way.
-
-She was right touching his destination. He held as straight a course
-for the [[house]] of the dolls’ dressmaker as the wisdom of his ancestors,
-exemplified in the construction of the intervening streets, would let
-him, and walked with a bent head hammering at one fixed idea. It had
-been an immoveable idea since he first set eyes upon her. It seemed to
-him as if all that he could suppress in himself he had suppressed, as
-if all that he could restrain in himself he had restrained, and the [[Time|time]]
-had come—in a rush, in a moment—when the power of [[Self|self]]-command had
-departed from him. [[Love]] at first sight is a trite expression quite
-sufficiently discussed; enough that in certain smouldering natures like
-this man’s, that passion leaps into a blaze, and makes such head as [[Fire|fire]]
-does in a rage of [[Wind|wind]], when other passions, but for its mastery, could
-be held in [[Chains|chains]]. As a multitude of weak, imitative natures are
-always lying by, ready to go mad upon the next wrong idea that may be
-broached—in these times, generally some form of tribute to Somebody
-for something that never was done, or, if ever done, that was done by
-Somebody Else—so these less ordinary natures may lie by for years,
-ready on the touch of an instant to burst into flame.
-
-The schoolmaster went his way, brooding and brooding, and a sense of
-being vanquished in a struggle might have been pieced out of his worried
-face. Truly, in his breast there lingered a resentful shame to find
-himself defeated by this passion for Charley Hexam’s sister, though in
-the very [[Self|self]]-same moments he was concentrating himself upon the object
-of bringing the passion to a successful issue.
-
-He appeared before the dolls’ dressmaker, sitting [[Alone|alone]] at her work.
-‘Oho!’ thought that sharp young personage, ‘it’s you, is it? I know your
-tricks and your manners, my friend!’
-
-‘Hexam’s sister,’ said [[Bradley Headstone]], ‘is not come [[Home|home]] yet?’
-
-‘You are quite a conjuror,’ returned Miss Wren.
-
-‘I will wait, if you please, for I want to speak to her.’
-
-‘Do you?’ returned Miss Wren. ‘Sit down. I [[Hope|hope]] it’s mutual.’ Bradley
-glanced distrustfully at the shrewd face again bending over the work,
-and said, trying to conquer [[Doubt|doubt]] and hesitation:
-
-‘I [[Hope|hope]] you don’t imply that my visit will be unacceptable to Hexam’s
-sister?’
-
-‘There! Don’t call her that. I can’t bear you to call her that,’
-returned Miss Wren, snapping her fingers in a volley of impatient snaps,
-‘for I don’t like Hexam.’
-
-‘Indeed?’
-
-‘No.’ Miss Wren wrinkled her nose, to express dislike. ‘Selfish. Thinks
-only of himself. The way with all of you.’
-
-‘The way with all of us? Then you don’t like ME?’
-
-‘So-so,’ replied Miss Wren, with a shrug and a laugh. ‘Don’t know much
-about you.’
-
-‘But I was not aware it was the way with all of us,’ said Bradley,
-returning to the accusation, a little injured. ‘Won’t you say, some of
-us?’
-
-‘Meaning,’ returned the little creature, ‘every one of you, but you.
-Hah! Now look this lady in the face. This is Mrs [[Truth]]. The Honourable.
-Full-dressed.’
-
-Bradley glanced at the doll she held up for his observation—which had
-been lying on its face on her bench, while with a needle and thread she
-fastened the dress on at the back—and looked from it to her.
-
-‘I stand the Honourable Mrs T. on my bench in this corner against the
-wall, where her blue eyes can shine upon you,’ pursued Miss Wren, doing
-so, and making two little dabs at him in the air with her needle, as
-if she pricked him with it in his own eyes; ‘and I defy you to tell me,
-with Mrs T. for a witness, what you have come here for.’
-
-‘To see Hexam’s sister.’
-
-‘You don’t say so!’ retorted Miss Wren, hitching her chin. ‘But on whose
-account?’
-
-‘Her own.’
-
-‘O Mrs T.!’ exclaimed Miss Wren. ‘You hear him!’
-
-‘To reason with her,’ pursued Bradley, half humouring what was present,
-and half angry with what was not present; ‘for her own sake.’
-
-‘Oh Mrs T.!’ exclaimed the dressmaker.
-
-‘For her own sake,’ repeated Bradley, warming, ‘and for her brother’s,
-and as a perfectly disinterested person.’
-
-‘Really, Mrs T.,’ remarked the dressmaker, ‘since it comes to this, we
-must positively turn you with your face to the wall.’ She had hardly
-done so, when [[Lizzie Hexam]] arrived, and showed some surprise on seeing
-[[Bradley Headstone]] there, and Jenny shaking her little fist at him close
-before her eyes, and the Honourable Mrs T. with her face to the wall.
-
-‘Here’s a perfectly disinterested person, Lizzie dear,’ said the knowing
-Miss Wren, ‘come to talk with you, for your own sake and your brother’s.
-Think of that. I am sure there ought to be no third party present at
-anything so very kind and so very serious; and so, if you’ll remove the
-third party upstairs, my dear, the third party will retire.’
-
-Lizzie took the hand which the dolls’ dressmaker held out to her for
-the purpose of being supported away, but only looked at her with an
-inquiring smile, and made no other movement.
-
-‘The third party hobbles awfully, you know, when she’s left to herself;’
-said Miss Wren, ‘her back being so bad, and her legs so queer; so she
-can’t retire gracefully unless you help her, Lizzie.’
-
-‘She can do no better than stay where she is,’ returned Lizzie,
-releasing the hand, and laying her own lightly on Miss Jenny’s curls.
-And then to Bradley: ‘From Charley, sir?’
-
-In an irresolute way, and stealing a clumsy look at her, Bradley [[Rose|rose]] to
-place a chair for her, and then returned to his own.
-
-‘Strictly speaking,’ said he, ‘I come from Charley, because I left him
-only a little while ago; but I am not commissioned by Charley. I come of
-my own spontaneous act.’
-
-With her elbows on her bench, and her chin upon her hands, Miss Jenny
-Wren sat looking at him with a watchful sidelong look. Lizzie, in her
-different way, sat looking at him too.
-
-‘The fact is,’ began Bradley, with a mouth so dry that he had some
-difficulty in articulating his words: the consciousness of which
-rendered his manner still more ungainly and undecided; ‘the [[Truth|truth]] is,
-that Charley, having no [[Secrets|secrets]] from me (to the best of my belief), has
-confided the whole of this matter to me.’
-
-He came to a stop, and Lizzie asked: ‘what matter, sir?’
-
-‘I thought,’ returned the schoolmaster, stealing another look at her,
-and seeming to try in vain to sustain it; for the look dropped as it
-lighted on her eyes, ‘that it might be so superfluous as to be almost
-impertinent, to enter upon a definition of it. My allusion was to this
-matter of your having put aside your brother’s plans for you, and
-given the preference to those of Mr—I believe the name is Mr Eugene
-Wrayburn.’
-
-He made this point of not being certain of the name, with another uneasy
-look at her, which dropped like the last.
-
-Nothing being said on the other side, he had to begin again, and began
-with new embarrassment.
-
-‘Your brother’s plans were communicated to me when he first had them in
-his thoughts. In point of fact he spoke to me about them when I was
-last here—when we were walking back together, and when I—when the
-impression was fresh upon me of having seen his sister.’
-
-There might have been no meaning in it, but the little dressmaker here
-removed one of her supporting hands from her chin, and musingly turned
-the Honourable Mrs T. with her face to the company. That done, she fell
-into her former attitude.
-
-‘I approved of his idea,’ said Bradley, with his uneasy look wandering
-to the doll, and unconsciously resting there longer than it had
-rested on Lizzie, ‘both because your brother ought naturally to be the
-originator of any such scheme, and because I hoped to be able to promote
-it. I should have had inexpressible pleasure, I should have taken
-inexpressible interest, in promoting it. Therefore I must acknowledge
-that when your brother was disappointed, I too was disappointed. I wish
-to avoid reservation or concealment, and I fully acknowledge that.’
-
-He appeared to have encouraged himself by having got so far. At all
-events he went on with much greater firmness and force of emphasis:
-though with a curious disposition to set his teeth, and with a curious
-tight-screwing movement of his right hand in the clenching palm of his
-left, like the action of one who was being physically hurt, and was
-unwilling to cry out.
-
-‘I am a man of strong feelings, and I have strongly felt this
-disappointment. I do strongly feel it. I don’t show what I feel; some
-of us are obliged habitually to keep it down. To keep it down. But to
-return to your brother. He has taken the matter so much to heart that
-he has remonstrated (in my presence he remonstrated) with Mr Eugene
-Wrayburn, if that be the name. He did so, quite ineffectually. As any
-one not blinded to the real character of Mr—Mr [[Eugene Wrayburn]]—would
-readily suppose.’
-
-He looked at Lizzie again, and held the look. And his face turned from
-burning red to white, and from white back to burning red, and so for the
-[[Time|time]] to lasting deadly white.
-
-‘Finally, I resolved to come here [[Alone|alone]], and appeal to you. I resolved
-to come here [[Alone|alone]], and entreat you to retract the course you have
-chosen, and instead of confiding in a mere stranger—a person of most
-insolent behaviour to your brother and others—to prefer your brother
-and your brother’s friend.’
-
-[[Lizzie Hexam]] had changed colour when those changes came over him, and
-her face now expressed some anger, more dislike, and even a touch of
-[[Fear|fear]]. But she answered him very steadily.
-
-‘I cannot [[Doubt|doubt]], Mr Headstone, that your visit is [[Well|well]] meant. You have
-been so good a friend to Charley that I have no right to [[Doubt|doubt]] it. I
-have nothing to tell Charley, but that I accepted the help to which he
-so much objects before he made any plans for me; or certainly before I
-knew of any. It was considerately and delicately offered, and there were
-reasons that had weight with me which should be as dear to Charley as to
-me. I have no more to say to Charley on this subject.’
-
-His lips trembled and stood apart, as he followed this repudiation of
-himself; and limitation of her words to her brother.
-
-‘I should have told Charley, if he had come to me,’ she resumed, as
-though it were an after-thought, ‘that Jenny and I find our teacher very
-able and very patient, and that she takes great pains with us. So much
-so, that we have said to her we [[Hope|hope]] in a very little while to be able
-to go on by ourselves. Charley knows about teachers, and I should also
-have told him, for his satisfaction, that ours comes from an institution
-where teachers are regularly brought up.’
-
-‘I should like to ask you,’ said [[Bradley Headstone]], grinding his words
-slowly out, as though they came from a rusty mill; ‘I should like to
-ask you, if I may without offence, whether you would have objected—no;
-rather, I should like to say, if I may without offence, that I wish I
-had had the opportunity of coming here with your brother and devoting my
-poor abilities and experience to your service.’
-
-‘Thank you, Mr Headstone.’
-
-‘But I [[Fear|fear]],’ he pursued, after a pause, furtively wrenching at the seat
-of his chair with one hand, as if he would have wrenched the chair to
-pieces, and gloomily observing her while her eyes were cast down, ‘that
-my humble services would not have found much favour with you?’
-
-She made no reply, and the poor stricken wretch sat contending with
-himself in a heat of passion and torment. After a while he took out his
-handkerchief and wiped his forehead and hands.
-
-‘There is only one thing more I had to say, but it is the most
-important. There is a reason against this matter, there is a personal
-relation concerned in this matter, not yet explained to you. It might—I
-don’t say it would—it might—induce you to think differently. To
-proceed under the present circumstances is out of the question. Will you
-please come to the understanding that there shall be another interview
-on the subject?’
-
-‘With Charley, Mr Headstone?’
-
-‘With—[[Well|well]],’ he answered, breaking off, ‘yes! Say with him too.
-Will you please come to the understanding that there must be another
-interview under more favourable circumstances, before the whole case can
-be submitted?’
-
-‘I don’t,’ said Lizzie, shaking her head, ‘Understand your meaning, Mr
-Headstone.’
-
-‘Limit my meaning for the present,’ he interrupted, ‘to the whole case
-being submitted to you in another interview.’
-
-‘What case, Mr Headstone? What is wanting to it?’
-
-‘You—you shall be informed in the other interview.’ Then he said, as
-if in a burst of irrepressible [[Despair|despair]], ‘I—I leave it all incomplete!
-There is a spell upon me, I think!’ And then added, almost as if he
-asked for pity, ‘Good-[[Night|night]]!’
-
-He held out his hand. As she, with manifest hesitation, not to say
-reluctance, touched it, a strange tremble passed over him, and his face,
-so deadly white, was moved as by a stroke of [[Pain|pain]]. Then he was gone.
-
-The dolls’ dressmaker sat with her attitude unchanged, eyeing the door
-by which he had departed, until Lizzie pushed her bench aside and sat
-down near her. Then, eyeing Lizzie as she had previously eyed Bradley
-and the door, Miss Wren chopped that very sudden and keen chop in which
-her jaws sometimes indulged, leaned back in her chair with folded arms,
-and thus expressed herself:
-
-‘Humph! If he—I mean, of course, my dear, the party who is coming to
-[[Court|court]] me when the [[Time|time]] comes—should be THAT sort of man, he may spare
-himself the trouble. _He_ wouldn’t do to be trotted about and made
-useful. He’d take [[Fire|fire]] and blow up while he was about it.’
-
-‘And so you would be rid of him,’ said Lizzie, humouring her.
-
-‘Not so easily,’ returned Miss Wren. ‘He wouldn’t blow up [[Alone|alone]]. He’d
-carry me up with him. I know his tricks and his manners.’
-
-‘Would he want to hurt you, do you mean?’ asked Lizzie.
-
-‘Mightn’t exactly want to do it, my dear,’ returned Miss Wren; ‘but a
-lot of gunpowder among lighted [[Lucifer|lucifer]]-matches in the next room might
-almost as [[Well|well]] be here.’
-
-‘He is a very strange man,’ said Lizzie, thoughtfully.
-
-‘I wish he was so very strange a man as to be a total stranger,’
-answered the sharp little thing.
-
-It being Lizzie’s regular occupation when they were [[Alone|alone]] of an evening
-to brush out and smooth the long fair hair of the dolls’ dressmaker, she
-unfastened a ribbon that kept it back while the little creature was at
-her work, and it fell in a beautiful shower over the poor shoulders that
-were much in need of such adorning rain. ‘Not now, Lizzie, dear,’ said
-Jenny; ‘let us have a talk by the [[Fire|fire]].’ With those words, she in her
-turn loosened her friend’s dark hair, and it dropped of its own weight
-over her bosom, in two rich masses. Pretending to compare the colours
-and admire the contrast, Jenny so managed a mere touch or two of her
-nimble hands, as that she herself laying a cheek on one of the dark
-folds, seemed blinded by her own clustering curls to all but the [[Fire|fire]],
-while the fine handsome face and brow of Lizzie were revealed without
-obstruction in the sombre light.
-
-‘Let us have a talk,’ said Jenny, ‘about Mr [[Eugene Wrayburn]].’
-
-Something sparkled down among the fair hair resting on the dark hair;
-and if it were not a star—which it couldn’t be—it was an eye; and
-if it were an eye, it was [[Jenny Wren]]’s eye, bright and watchful as the
-bird’s whose name she had taken.
-
-‘Why about Mr Wrayburn?’ Lizzie asked.
-
-‘For no better reason than because I’m in the [[Humour|humour]]. I [[Wonder|wonder]] whether
-he’s rich!’
-
-‘No, not rich.’
-
-‘Poor?’
-
-‘I think so, for a gentleman.’
-
-‘Ah! To be sure! Yes, he’s a gentleman. Not of our sort; is he?’ A shake
-of the head, a thoughtful shake of the head, and the answer, softly
-spoken, ‘Oh no, oh no!’
-
-The dolls’ dressmaker had an arm round her friend’s waist. Adjusting the
-arm, she slyly took the opportunity of blowing at her own hair where
-it fell over her face; then the eye down there, under lighter shadows
-sparkled more brightly and appeared more watchful.
-
-‘When He turns up, he shan’t be a gentleman; I’ll very soon send him
-packing, if he is. However, he’s not Mr Wrayburn; I haven’t captivated
-HIM. I [[Wonder|wonder]] whether anybody has, Lizzie!’
-
-‘It is very likely.’
-
-‘Is it very likely? I [[Wonder|wonder]] who!’
-
-‘Is it not very likely that some lady has been taken by him, and that he
-may [[Love|love]] her dearly?’
-
-‘Perhaps. I don’t know. What would you think of him, Lizzie, if you were
-a lady?’
-
-‘I a lady!’ she repeated, laughing. ‘Such a fancy!’
-
-‘Yes. But say: just as a fancy, and for instance.’
-
-‘I a lady! I, a poor girl who used to row poor father on the [[River|river]]. I,
-who had rowed poor father out and [[Home|home]] on the very [[Night|night]] when I saw him
-for the first [[Time|time]]. I, who was made so timid by his looking at me, that
-I got up and went out!’
-
-(‘He did look at you, even that [[Night|night]], though you were not a lady!’
-thought Miss Wren.)
-
-‘I a lady!’ Lizzie went on in a low voice, with her eyes upon the [[Fire|fire]].
-‘I, with poor father’s [[Grave|grave]] not even cleared of undeserved stain and
-shame, and he trying to clear it for me! I a lady!’
-
-‘Only as a fancy, and for instance,’ urged Miss Wren.
-
-‘Too much, Jenny, dear, too much! My fancy is not able to get that far.’
-As the low [[Fire|fire]] gleamed upon her, it showed her smiling, mournfully and
-abstractedly.
-
-‘But I am in the [[Humour|humour]], and I must be humoured, Lizzie, because after
-all I am a poor little thing, and have had a hard day with my bad [[Child|child]].
-Look in the [[Fire|fire]], as I like to hear you tell how you used to do when you
-lived in that dreary old [[house]] that had once been a windmill. Look in
-the—what was its name when you told fortunes with your brother that I
-DON’T like?’
-
-‘The hollow down by the flare?’
-
-‘Ah! That’s the name! You can find a lady there, I know.’
-
-‘More easily than I can make one of such material as myself, Jenny.’
-
-The sparkling eye looked steadfastly up, as the musing face looked
-thoughtfully down. ‘[[Well]]?’ said the dolls’ dressmaker, ‘We have found
-our lady?’
-
-Lizzie nodded, and asked, ‘Shall she be rich?’
-
-‘She had better be, as he’s poor.’
-
-‘She is very rich. Shall she be handsome?’
-
-‘Even you can be that, Lizzie, so she ought to be.’
-
-‘She is very handsome.’
-
-‘What does she say about him?’ asked Miss Jenny, in a low voice:
-watchful, through an intervening [[Silence|silence]], of the face looking down at
-the [[Fire|fire]].
-
-‘She is glad, glad, to be rich, that he may have the money. She is glad,
-glad, to be beautiful, that he may be proud of her. Her poor heart—’
-
-‘Eh? Her poor heart?’ said Miss Wren.
-
-‘Her heart—is given him, with all its [[Love|love]] and [[Truth|truth]]. She would
-joyfully die with him, or, better than that, die for him. She knows he
-has failings, but she thinks they have grown up through his being like
-one cast away, for the want of something to trust in, and care for, and
-think [[Well|well]] of. And she says, that lady rich and beautiful that I can
-never come near, “Only put me in that empty place, only try how little
-I mind myself, only prove what a world of things I will do and bear for
-you, and I [[Hope|hope]] that you might even come to be much better than you are,
-through me who am so much worse, and hardly worth the thinking of beside
-you.”’
-
-As the face looking at the [[Fire|fire]] had become exalted and forgetful in the
-rapture of these words, the little creature, openly clearing away
-her fair hair with her disengaged hand, had gazed at it with earnest
-attention and something like alarm. Now that the speaker ceased, the
-little creature laid down her head again, and moaned, ‘O me, O me, O
-me!’
-
-‘In [[Pain|pain]], dear Jenny?’ asked Lizzie, as if awakened.
-
-‘Yes, but not the old [[Pain|pain]]. Lay me down, lay me down. Don’t go out of
-my sight to-[[Night|night]]. Lock the door and keep close to me.’ Then turning away
-her face, she said in a whisper to herself, ‘My Lizzie, my poor Lizzie!
-O my blessed children, come back in the long bright slanting rows, and
-come for her, not me. She wants help more than I, my blessed children!’
-
-She had stretched her hands up with that higher and better look, and
-now she turned again, and folded them round Lizzie’s neck, and rocked
-herself on Lizzie’s breast.
+Chapter 13
+
+A SOLO AND A DUETT
+
+
+The [[Wind|wind]] was blowing so hard when the visitor came out at the shop-door
+into the darkness and dirt of Limehouse Hole, that it almost blew him
+in again. Doors were slamming violently, lamps were flickering or blown
+out, signs were rocking in their frames, the [[Water|water]] of the kennels,
+[[Wind|wind]]-dispersed, flew about in drops like rain. Indifferent to the
+weather, and even preferring it to better weather for its clearance of
+the streets, the man looked about him with a scrutinizing glance. ‘Thus
+much I know,’ he murmured. ‘I have never been here since that [[Night|night]], and
+never was here before that [[Night|night]], but thus much I recognize. I [[Wonder|wonder]]
+which way did we take when we came out of that shop. We turned to the
+right as I have turned, but I can recall no more. Did we go by this
+alley? Or down that little lane?’
+
+He tried both, but both confused him equally, and he came straying
+back to the same spot. ‘I remember there were poles pushed out of upper
+windows on which clothes were drying, and I remember a low public-[[house]],
+and the sound flowing down a narrow passage belonging to it of the
+scraping of a fiddle and the shuffling of feet. But here are all these
+things in the lane, and here are all these things in the alley. And I
+have nothing else in my mind but a wall, a dark doorway, a flight of
+stairs, and a room.’
+
+He tried a new direction, but made nothing of it; walls, dark doorways,
+flights of stairs and rooms, were too abundant. And, like most people so
+puzzled, he again and again described a circle, and found himself at
+the point from which he had begun. ‘This is like what I have read in
+narratives of escape from [[Prison|prison]],’ said he, ‘where the little track of
+the fugitives in the [[Night|night]] always seems to take the shape of the great
+round world, on which they wander; as if it were a secret law.’
+
+Here he ceased to be the oakum-headed, oakum-whiskered man on whom Miss
+Pleasant Riderhood had looked, and, allowing for his being still wrapped
+in a nautical overcoat, became as like that same lost wanted Mr Julius
+Handford, as never man was like another in this world. In the breast of
+the coat he stowed the bristling hair and whisker, in a moment, as the
+favouring [[Wind|wind]] went with him down a solitary place that it had swept
+clear of passengers. Yet in that same moment he was the Secretary also,
+Mr Boffin’s Secretary. For John Rokesmith, too, was as like that same
+lost wanted Mr Julius Handford as never man was like another in this
+world.
+
+‘I have no clue to the scene of my [[Death|death]],’ said he. ‘Not that it matters
+now. But having risked discovery by venturing here at all, I should have
+been glad to track some part of the way.’ With which singular words he
+abandoned his search, came up out of Limehouse Hole, and took the way
+past Limehouse Church. At the great iron gate of the churchyard he
+stopped and looked in. He looked up at the high tower spectrally
+resisting the [[Wind|wind]], and he looked round at the white tombstones, like
+enough to the dead in their winding-sheets, and he counted the nine
+tolls of the [[Clock|clock]]-bell.
+
+‘It is a sensation not experienced by many mortals,’ said he, ‘to be
+looking into a churchyard on a wild windy [[Night|night]], and to feel that I no
+more hold a place among the living than these dead do, and even to know
+that I lie buried somewhere else, as they lie buried here. Nothing uses
+me to it. A spirit that was once a man could hardly feel stranger or
+lonelier, going unrecognized among mankind, than I feel.
+
+‘But this is the fanciful side of the situation. It has a real side, so
+difficult that, though I think of it every day, I never thoroughly think
+it out. Now, let me determine to think it out as I walk [[Home|home]]. I know
+I evade it, as many men—perhaps most men—do evade thinking their way
+through their greatest perplexity. I will try to pin myself to mine.
+Don’t evade it, [[John Harmon]]; don’t evade it; think it out!
+
+
+‘When I came to England, attracted to the country with which I had none
+but most miserable associations, by the accounts of my fine inheritance
+that found me abroad, I came back, shrinking from my father’s money,
+shrinking from my father’s [[Memory|memory]], mistrustful of being forced on a
+mercenary wife, mistrustful of my father’s intention in thrusting that
+[[Marriage|marriage]] on me, mistrustful that I was already growing avaricious,
+mistrustful that I was slackening in gratitude to the two dear noble
+honest friends who had made the only sunlight in my childish life or
+that of my heartbroken sister. I came back, timid, divided in my mind,
+afraid of myself and everybody here, knowing of nothing but wretchedness
+that my father’s wealth had ever brought about. Now, stop, and so far
+think it out, [[John Harmon]]. Is that so? That is exactly so.
+
+‘On board serving as third mate was George Radfoot. I knew nothing of
+him. His name first became known to me about a week before we sailed,
+through my being accosted by one of the [[Ship|ship]]-agent’s clerks as
+“Mr Radfoot.” It was one day when I had gone aboard to look to my
+preparations, and the clerk, coming behind me as I stood on deck, tapped
+me on the shoulder, and said, “Mr Rad-foot, look here,” referring to
+some papers that he had in his hand. And my name first became known to
+Radfoot, through another clerk within a day or two, and while the [[Ship|ship]]
+was yet in port, coming up behind him, tapping him on the shoulder and
+beginning, “I beg your pardon, Mr Harmon—.” I believe we were alike
+in bulk and stature but not otherwise, and that we were not strikingly
+alike, even in those respects, when we were together and could be
+compared.
+
+‘However, a sociable word or two on these mistakes became an easy
+introduction between us, and the weather was hot, and he helped me to a
+cool cabin on deck alongside his own, and his first school had been at
+Brussels as mine had been, and he had learnt French as I had learnt it,
+and he had a little [[history]] of himself to relate—God only knows how
+much of it true, and how much of it false—that had its likeness to
+mine. I had been a seaman too. So we got to be confidential together,
+and the more easily yet, because he and every one on board had known
+by general rumour what I was making the voyage to England for. By such
+degrees and means, he came to the knowledge of my uneasiness of mind,
+and of its setting at that [[Time|time]] in the direction of desiring to see and
+form some judgment of my allotted wife, before she could possibly know
+me for myself; also to try Mrs Boffin and give her a glad surprise. So
+the plot was made out of our getting common sailors’ dresses (as he was
+able to guide me about [[London]]), and throwing ourselves in [[Bella Wilfer]]’s
+neighbourhood, and trying to put ourselves in her way, and doing
+whatever chance might favour on the spot, and seeing what came of it. If
+nothing came of it, I should be no worse off, and there would merely
+be a short delay in my presenting myself to Lightwood. I have all these
+facts right? Yes. They are all accurately right.
+
+‘His advantage in all this was, that for a [[Time|time]] I was to be lost. It
+might be for a day or for two days, but I must be lost sight of on
+landing, or there would be recognition, anticipation, and failure.
+Therefore, I disembarked with my valise in my hand—as Potterson
+the steward and Mr Jacob Kibble my fellow-passenger afterwards
+remembered—and waited for him in the dark by that very Limehouse Church
+which is now behind me.
+
+‘As I had always shunned the port of [[London]], I only knew the church
+through his pointing out its spire from on board. Perhaps I might
+recall, if it were any good to try, the way by which I went to it [[Alone|alone]]
+from the [[River|river]]; but how we two went from it to Riderhood’s shop, I don’t
+know—any more than I know what turns we took and doubles we made, after
+we left it. The way was purposely confused, no [[Doubt|doubt]].
+
+‘But let me go on thinking the facts out, and avoid confusing them with
+my speculations. Whether he took me by a straight way or a crooked way,
+what is that to the purpose now? Steady, [[John Harmon]].
+
+‘When we stopped at Riderhood’s, and he asked that scoundrel a question
+or two, purporting to refer only to the lodging-houses in which there
+was accommodation for us, had I the least suspicion of him? None.
+Certainly none until afterwards when I held the clue. I think he must
+have got from Riderhood in a paper, the drug, or whatever it was, that
+afterwards stupefied me, but I am far from sure. All I felt safe in
+charging on him to-[[Night|night]], was old companionship in villainy between
+them. Their undisguised intimacy, and the character I now know Riderhood
+to bear, made that not at all adventurous. But I am not clear about the
+drug. Thinking out the circumstances on which I found my suspicion, they
+are only two. One: I remember his changing a small folded paper from one
+pocket to another, after we came out, which he had not touched before.
+Two: I now know Riderhood to have been previously taken up for being
+concerned in the robbery of an unlucky seaman, to whom some such [[Poison|poison]]
+had been given.
+
+‘It is my conviction that we cannot have gone a mile from that shop,
+before we came to the wall, the dark doorway, the flight of stairs, and
+the room. The [[Night|night]] was particularly dark and it rained hard. As I think
+the circumstances back, I hear the rain splashing on the stone pavement
+of the passage, which was not under cover. The room overlooked the
+[[River|river]], or a dock, or a creek, and the tide was out. Being possessed of
+the [[Time|time]] down to that point, I know by the hour that it must have been
+about low [[Water|water]]; but while the coffee was getting ready, I drew back the
+curtain (a dark-brown curtain), and, looking out, knew by the kind
+of reflection below, of the few neighbouring lights, that they were
+reflected in tidal mud.
+
+‘He had carried under his arm a canvas bag, containing a suit of his
+clothes. I had no change of outer clothes with me, as I was to buy
+slops. “You are very wet, Mr Harmon,”—I can hear him saying—“and I am
+quite dry under this good waterproof coat. Put on these clothes of
+mine. You may find on trying them that they will answer your purpose
+to-morrow, as [[Well|well]] as the slops you mean to buy, or better. While you
+change, I’ll hurry the hot coffee.” When he came back, I had his clothes
+on, and there was a black man with him, wearing a linen jacket, like
+a steward, who put the smoking coffee on the table in a tray and never
+looked at me. I am so far literal and exact? Literal and exact, I am
+certain.
+
+‘Now, I pass to sick and deranged impressions; they are so strong, that
+I rely upon them; but there are spaces between them that I know nothing
+about, and they are not pervaded by any idea of [[Time|time]].
+
+‘I had drank some coffee, when to my sense of sight he began to swell
+immensely, and something urged me to rush at him. We had a struggle near
+the door. He got from me, through my not knowing where to strike, in the
+whirling round of the room, and the flashing of flames of [[Fire|fire]] between
+us. I dropped down. Lying helpless on the ground, I was turned over by
+a foot. I was dragged by the neck into a corner. I heard men speak
+together. I was turned over by other feet. I saw a figure like myself
+lying dressed in my clothes on a bed. What might have been, for anything
+I knew, a [[Silence|silence]] of days, weeks, months, years, was broken by a violent
+wrestling of men all over the room. The figure like myself was assailed,
+and my valise was in its hand. I was trodden upon and fallen over. I
+heard a noise of blows, and thought it was a wood-cutter cutting down
+a tree. I could not have said that my name was [[John Harmon]]—I could not
+have thought it—I didn’t know it—but when I heard the blows, I thought
+of the wood-cutter and his axe, and had some dead idea that I was lying
+in a forest.
+
+‘This is still correct? Still correct, with the exception that I cannot
+possibly express it to myself without using the word I. But it was not
+I. There was no such thing as I, within my knowledge.
+
+‘It was only after a downward slide through something like a tube, and
+then a great noise and a sparkling and crackling as of fires, that the
+consciousness came upon me, “This is [[John Harmon]] drowning! [[John Harmon]],
+struggle for your life. [[John Harmon]], call on Heaven and save yourself!”
+ I think I cried it out aloud in a great agony, and then a heavy horrid
+unintelligible something vanished, and it was I who was struggling there
+[[Alone|alone]] in the [[Water|water]].
+
+‘I was very weak and faint, frightfully oppressed with drowsiness, and
+driving fast with the tide. Looking over the black [[Water|water]], I saw the
+lights racing past me on the two banks of the [[River|river]], as if they were
+eager to be gone and leave me dying in the dark. The tide was running
+down, but I knew nothing of up or down then. When, guiding myself safely
+with Heaven’s assistance before the fierce set of the [[Water|water]], I at last
+caught at a boat moored, one of a tier of boats at a causeway, I was
+sucked under her, and came up, only just alive, on the other side.
+
+‘Was I long in the [[Water|water]]? Long enough to be chilled to the heart, but
+I don’t know how long. Yet the cold was merciful, for it was the cold
+[[Night|night]] air and the rain that restored me from a swoon on the stones of
+the causeway. They naturally supposed me to have toppled in, drunk, when
+I crept to the public-[[house]] it belonged to; for I had no notion where
+I was, and could not articulate—through the [[Poison|poison]] that had made me
+insensible having affected my speech—and I supposed the [[Night|night]] to be
+the previous [[Night|night]], as it was still dark and raining. But I had lost
+twenty-four hours.
+
+‘I have checked the calculation often, and it must have been two nights
+that I lay recovering in that public-[[house]]. Let me see. Yes. I am sure
+it was while I lay in that bed there, that the thought entered my head
+of turning the danger I had passed through, to the account of being
+for some [[Time|time]] supposed to have disappeared mysteriously, and of proving
+Bella. The dread of our being forced on one another, and perpetuating
+the fate that seemed to have fallen on my father’s riches—the fate that
+they should lead to nothing but evil—was strong upon the moral timidity
+that dates from my [[Childhood|childhood]] with my poor sister.
+
+‘As to this hour I cannot understand that side of the [[River|river]] where I
+recovered the shore, being the opposite side to that on which I was
+ensnared, I shall never understand it now. Even at this moment, while I
+leave the [[River|river]] behind me, going [[Home|home]], I cannot conceive that it rolls
+between me and that spot, or that the sea is where it is. But this is
+not thinking it out; this is making a leap to the present [[Time|time]].
+
+‘I could not have done it, but for the fortune in the waterproof
+belt round my [[Body|body]]. Not a great fortune, forty and odd pounds for the
+inheritor of a hundred and odd thousand! But it was enough. Without it I
+must have disclosed myself. Without it, I could never have gone to that
+Exchequer Coffee [[house|House]], or taken Mrs Wilfer’s lodgings.
+
+‘Some twelve days I lived at that hotel, before the [[Night|night]] when I saw the
+corpse of Radfoot at the Police Station. The inexpressible mental horror
+that I laboured under, as one of the consequences of the [[Poison|poison]], makes
+the interval seem greatly longer, but I know it cannot have been longer.
+That [[Suffering|suffering]] has gradually weakened and weakened since, and has only
+come upon me by starts, and I [[Hope|hope]] I am free from it now; but even now,
+I have sometimes to think, constrain myself, and stop before speaking,
+or I could not say the words I want to say.
+
+‘Again I ramble away from thinking it out to the end. It is not so far
+to the end that I need be tempted to break off. Now, on straight!
+
+‘I examined the newspapers every day for tidings that I was missing, but
+saw none. Going out that [[Night|night]] to walk (for I kept retired while it was
+light), I found a crowd assembled round a placard posted at Whitehall.
+It described myself, [[John Harmon]], as found dead and mutilated in the
+[[River|river]] under circumstances of strong suspicion, described my dress,
+described the papers in my pockets, and stated where I was lying for
+recognition. In a wild incautious way I hurried there, and there—with
+the horror of the [[Death|death]] I had escaped, before my eyes in its most
+appalling shape, added to the inconceivable horror tormenting me at
+that [[Time|time]] when the poisonous stuff was strongest on me—I perceived that
+Radfoot had been murdered by some unknown hands for the money for which
+he would have murdered me, and that probably we had both been shot into
+the [[River|river]] from the same dark place into the same dark tide, when the
+stream ran deep and strong.
+
+‘That [[Night|night]] I almost gave up my mystery, though I suspected no one,
+could offer no information, knew absolutely nothing save that the
+murdered man was not I, but Radfoot. Next day while I hesitated, and
+next day while I hesitated, it seemed as if the whole country were
+determined to have me dead. The Inquest declared me dead, the [[government|Government]]
+proclaimed me dead; I could not listen at my fireside for five minutes
+to the outer noises, but it was borne into my ears that I was dead.
+
+‘So [[John Harmon]] died, and Julius Handford disappeared, and John
+Rokesmith was born. John Rokesmith’s intent to-[[Night|night]] has been to repair
+a wrong that he could never have imagined possible, coming to his ears
+through the Lightwood talk related to him, and which he is bound by
+every consideration to remedy. In that intent John Rokesmith will
+persevere, as his duty is.
+
+‘Now, is it all thought out? All to this [[Time|time]]? Nothing omitted? No,
+nothing. But beyond this [[Time|time]]? To think it out through the future, is a
+harder though a much shorter task than to think it out through the past.
+[[John Harmon]] is dead. Should [[John Harmon]] come to life?
+
+‘If yes, why? If no, why?’
+
+‘Take yes, first. To enlighten human Justice concerning the offence of
+one far beyond it who may have a living mother. To enlighten it with the
+lights of a stone passage, a flight of stairs, a brown [[Window|window]]-curtain,
+and a black man. To come into possession of my father’s money, and with
+it sordidly to buy a beautiful creature whom I [[Love|love]]—I cannot help it;
+reason has nothing to do with it; I [[Love|love]] her against reason—but who
+would as soon [[Love|love]] me for my own sake, as she would [[Love|love]] the beggar at
+the corner. What a use for the money, and how worthy of its old misuses!
+
+‘Now, take no. The reasons why [[John Harmon]] should not come to life.
+Because he has passively allowed these dear old faithful friends to pass
+into possession of the property. Because he sees them happy with it,
+making a good use of it, effacing the old rust and tarnish on the money.
+Because they have virtually adopted Bella, and will provide for her.
+Because there is affection enough in her [[Nature|nature]], and warmth enough in
+her heart, to develop into something enduringly good, under favourable
+conditions. Because her faults have been intensified by her place in my
+father’s will, and she is already growing better. Because her [[Marriage|marriage]]
+with [[John Harmon]], after what I have heard from her own lips, would be a
+shocking mockery, of which both she and I must always be conscious, and
+which would degrade her in her mind, and me in mine, and each of us in
+the other’s. Because if [[John Harmon]] comes to life and does not marry
+her, the property falls into the very hands that hold it now.
+
+‘What would I have? Dead, I have found the true friends of my lifetime
+still as true as tender and as faithful as when I was alive, and making
+my [[Memory|memory]] an incentive to good actions done in my name. Dead, I have
+found them when they might have slighted my name, and passed
+greedily over my [[Grave|grave]] to ease and wealth, lingering by the way, like
+single-hearted children, to recall their [[Love|love]] for me when I was a poor
+frightened [[Child|child]]. Dead, I have heard from the woman who would have been
+my wife if I had lived, the revolting [[Truth|truth]] that I should have purchased
+her, caring nothing for me, as a Sultan buys a slave.
+
+‘What would I have? If the dead could know, or do know, how the living
+use them, who among the hosts of dead has found a more disinterested
+fidelity on earth than I? Is not that enough for me? If I had come back,
+these noble creatures would have welcomed me, wept over me, given up
+everything to me with joy. I did not come back, and they have passed
+unspoiled into my place. Let them rest in it, and let Bella rest in
+hers.
+
+‘What course for me then? This. To live the same quiet Secretary life,
+carefully avoiding chances of recognition, until they shall have become
+more accustomed to their altered state, and until the great swarm of
+swindlers under many names shall have found newer prey. By that [[Time|time]],
+the method I am establishing through all the affairs, and with which I
+will every day take new pains to make them both familiar, will be, I may
+[[Hope|hope]], a [[Machine|machine]] in such working order as that they can keep it going.
+I know I need but ask of their generosity, to have. When the right [[Time|time]]
+comes, I will ask no more than will replace me in my former path of
+life, and John Rokesmith shall tread it as contentedly as he may. But
+[[John Harmon]] shall come back no more.
+
+‘That I may never, in the days to come afar off, have any weak misgiving
+that Bella might, in any contingency, have taken me for my own sake if
+I had plainly asked her, I WILL plainly ask her: proving beyond all
+question what I already know too [[Well|well]]. And now it is all thought out,
+from the beginning to the end, and my mind is easier.’
+
+
+So deeply engaged had the living-dead man been, in thus communing with
+himself, that he had regarded neither the [[Wind|wind]] nor the way, and had
+resisted the former instinctively as he had pursued the latter. But
+being now come into the [[City]], where there was a coach-stand, he stood
+irresolute whether to go to his lodgings, or to go first to Mr Boffin’s
+[[house]]. He decided to go round by the [[house]], arguing, as he carried his
+overcoat upon his arm, that it was less likely to attract notice if left
+there, than if taken to Holloway: both Mrs Wilfer and Miss [[Lavinia]] being
+ravenously curious touching every article of which the lodger stood
+possessed.
+
+Arriving at the [[house]], he found that Mr and Mrs Boffin were out, but
+that Miss Wilfer was in the drawing-room. Miss Wilfer had remained at
+[[Home|home]], in consequence of not feeling very [[Well|well]], and had inquired in the
+evening if Mr Rokesmith were in his room.
+
+‘Make my compliments to Miss Wilfer, and say I am here now.’
+
+Miss Wilfer’s compliments came down in return, and, if it were not too
+much trouble, would Mr Rokesmith be so kind as to come up before he
+went?
+
+It was not too much trouble, and Mr Rokesmith came up.
+
+Oh she looked very pretty, she looked very, very pretty! If the father
+of the late [[John Harmon]] had but left his money unconditionally to his
+son, and if his son had but lighted on this loveable girl for himself,
+and had the happiness to make her loving as [[Well|well]] as loveable!
+
+‘Dear me! Are you not [[Well|well]], Mr Rokesmith?’
+
+‘Yes, quite [[Well|well]]. I was sorry to hear, when I came in, that YOU were
+not.’
+
+‘A mere nothing. I had a headache—gone now—and was not quite fit for
+a hot theatre, so I stayed at [[Home|home]]. I asked you if you were not [[Well|well]],
+because you look so white.’
+
+‘Do I? I have had a busy evening.’
+
+She was on a low ottoman before the [[Fire|fire]], with a little shining [[Jewel|jewel]]
+of a table, and her book and her work, beside her. Ah! what a different
+life the late [[John Harmon]]’s, if it had been his happy privilege to take
+his place upon that ottoman, and draw his arm about that waist, and say,
+‘I [[Hope|hope]] the [[Time|time]] has been long without me? What a [[Home]] Goddess you look,
+my darling!’
+
+But, the present John Rokesmith, far removed from the late [[John Harmon]],
+remained standing at a distance. A little distance in respect of space,
+but a great distance in respect of separation.
+
+‘Mr Rokesmith,’ said Bella, taking up her work, and inspecting it all
+round the corners, ‘I wanted to say something to you when I could have
+the opportunity, as an explanation why I was rude to you the other day.
+You have no right to think ill of me, sir.’
+
+The sharp little way in which she darted a look at him, half sensitively
+injured, and half pettishly, would have been very much admired by the
+late [[John Harmon]].
+
+‘You don’t know how [[Well|well]] I think of you, Miss Wilfer.’
+
+‘Truly, you must have a very high opinion of me, Mr Rokesmith, when you
+believe that in prosperity I neglect and forget my old [[Home|home]].’
+
+‘Do I believe so?’
+
+‘You DID, sir, at any rate,’ returned Bella.
+
+‘I took the liberty of reminding you of a little omission into which you
+had fallen—insensibly and naturally fallen. It was no more than that.’
+
+‘And I beg leave to ask you, Mr Rokesmith,’ said Bella, ‘why you took
+that liberty?—I [[Hope|hope]] there is no offence in the phrase; it is your own,
+remember.’
+
+‘Because I am truly, deeply, profoundly interested in you, Miss Wilfer.
+Because I wish to see you always at your best. Because I—shall I go
+on?’
+
+‘No, sir,’ returned Bella, with a burning face, ‘you have said more than
+enough. I beg that you will NOT go on. If you have any generosity, any
+[[Honour|honour]], you will say no more.’
+
+The late [[John Harmon]], looking at the proud face with the down-cast eyes,
+and at the quick breathing as it stirred the fall of bright brown hair
+over the beautiful neck, would probably have remained silent.
+
+‘I wish to speak to you, sir,’ said Bella, ‘once for all, and I don’t
+know how to do it. I have sat here all this evening, wishing to speak to
+you, and determining to speak to you, and feeling that I must. I beg for
+a moment’s [[Time|time]].’
+
+He remained silent, and she remained with her face averted, sometimes
+making a slight movement as if she would turn and speak. At length she
+did so.
+
+‘You know how I am situated here, sir, and you know how I am situated
+at [[Home|home]]. I must speak to you for myself, since there is no one about
+me whom I could ask to do so. It is not generous in you, it is not
+honourable in you, to conduct yourself towards me as you do.’
+
+‘Is it ungenerous or dishonourable to be devoted to you; fascinated by
+you?’
+
+‘Preposterous!’ said Bella.
+
+The late [[John Harmon]] might have thought it rather a contemptuous and
+lofty word of repudiation.
+
+‘I now feel obliged to go on,’ pursued the Secretary, ‘though it were
+only in [[Self|self]]-explanation and [[Self|self]]-defence. I [[Hope|hope]], Miss Wilfer, that
+it is not unpardonable—even in me—to make an honest declaration of an
+honest devotion to you.’
+
+‘An honest declaration!’ repeated Bella, with emphasis.
+
+‘Is it otherwise?’
+
+‘I must request, sir,’ said Bella, taking refuge in a touch of timely
+resentment, ‘that I may not be questioned. You must excuse me if I
+decline to be [[Cross|cross]]-examined.’
+
+‘Oh, Miss Wilfer, this is hardly charitable. I ask you nothing but what
+your own emphasis suggests. However, I waive even that question. But
+what I have declared, I take my stand by. I cannot recall the avowal of
+my earnest and deep attachment to you, and I do not recall it.’
+
+‘I reject it, sir,’ said Bella.
+
+‘I should be blind and deaf if I were not prepared for the reply.
+Forgive my offence, for it carries its punishment with it.’
+
+‘What punishment?’ asked Bella.
+
+‘Is my present [[Endurance|endurance]] none? But excuse me; I did not mean to
+[[Cross|cross]]-examine you again.’
+
+‘You take advantage of a hasty word of mine,’ said Bella with a little
+sting of [[Self|self]]-reproach, ‘to make me seem—I don’t know what. I spoke
+without consideration when I used it. If that was bad, I am sorry; but
+you repeat it after consideration, and that seems to me to be at least
+no better. For the rest, I beg it may be understood, Mr Rokesmith, that
+there is an end of this between us, now and for ever.’
+
+‘Now and for ever,’ he repeated.
+
+‘Yes. I appeal to you, sir,’ proceeded Bella with increasing spirit,
+‘not to pursue me. I appeal to you not to take advantage of your
+position in this [[house]] to make my position in it distressing and
+disagreeable. I appeal to you to discontinue your habit of making your
+misplaced attentions as plain to Mrs Boffin as to me.’
+
+‘Have I done so?’
+
+‘I should think you have,’ replied Bella. ‘In any case it is not your
+fault if you have not, Mr Rokesmith.’
+
+‘I [[Hope|hope]] you are wrong in that impression. I should be very sorry to
+have justified it. I think I have not. For the future there is no
+apprehension. It is all over.’
+
+‘I am much relieved to hear it,’ said Bella. ‘I have far other views in
+life, and why should you waste your own?’
+
+‘Mine!’ said the Secretary. ‘My life!’
+
+His curious tone caused Bella to glance at the curious smile with which
+he said it. It was gone as he glanced back. ‘Pardon me, Miss Wilfer,’
+he proceeded, when their eyes met; ‘you have used some hard words, for
+which I do not [[Doubt|doubt]] you have a justification in your mind, that I do
+not understand. Ungenerous and dishonourable. In what?’
+
+‘I would rather not be asked,’ said Bella, haughtily looking down.
+
+‘I would rather not ask, but the question is imposed upon me. Kindly
+explain; or if not kindly, justly.’
+
+‘Oh, sir!’ said Bella, raising her eyes to his, after a little struggle
+to forbear, ‘is it generous and honourable to use the power here which
+your favour with Mr and Mrs Boffin and your ability in your place give
+you, against me?’
+
+‘Against you?’
+
+‘Is it generous and honourable to form a plan for gradually bringing
+their influence to bear upon a suit which I have shown you that I do not
+like, and which I tell you that I utterly reject?’
+
+The late [[John Harmon]] could have borne a good deal, but he would have
+been cut to the heart by such a suspicion as this.
+
+‘Would it be generous and honourable to step into your place—if you did
+so, for I don’t know that you did, and I [[Hope|hope]] you did not—anticipating,
+or knowing beforehand, that I should come here, and designing to take me
+at this disadvantage?’
+
+‘This mean and cruel disadvantage,’ said the Secretary.
+
+‘Yes,’ assented Bella.
+
+The Secretary kept [[Silence|silence]] for a little while; then merely said, ‘You
+are wholly mistaken, Miss Wilfer; wonderfully mistaken. I cannot say,
+however, that it is your fault. If I deserve better things of you, you
+do not know it.’
+
+‘At least, sir,’ retorted Bella, with her old indignation rising, ‘you
+know the [[history]] of my being here at all. I have heard Mr Boffin say
+that you are master of every line and word of that will, as you are
+master of all his affairs. And was it not enough that I should have been
+willed away, like a [[Horse|horse]], or a dog, or a bird; but must you too begin
+to dispose of me in your mind, and speculate in me, as soon as I had
+ceased to be the talk and the laugh of the town? Am I for ever to be
+made the property of strangers?’
+
+‘Believe me,’ returned the Secretary, ‘you are wonderfully mistaken.’
+
+‘I should be glad to know it,’ answered Bella.
+
+‘I [[Doubt|doubt]] if you ever will. Good-[[Night|night]]. Of course I shall be careful to
+conceal any traces of this interview from Mr and Mrs Boffin, as long as
+I remain here. Trust me, what you have complained of is at an end for
+ever.’
+
+‘I am glad I have spoken, then, Mr Rokesmith. It has been painful and
+difficult, but it is done. If I have hurt you, I [[Hope|hope]] you will forgive
+me. I am inexperienced and impetuous, and I have been a little spoilt;
+but I really am not so bad as I dare say I appear, or as you think me.’
+
+He quitted the room when Bella had said this, relenting in her wilful
+inconsistent way. Left [[Alone|alone]], she threw herself back on her ottoman, and
+said, ‘I didn’t know the lovely woman was such a Dragon!’ Then, she
+got up and looked in the glass, and said to her image, ‘You have been
+positively swelling your features, you little [[Fool|fool]]!’ Then, she took an
+impatient walk to the other end of the room and back, and said, ‘I
+wish Pa was here to have a talk about an avaricious [[Marriage|marriage]]; but he
+is better away, poor dear, for I know I should pull his hair if he WAS
+here.’ And then she threw her work away, and threw her book after
+it, and sat down and hummed a tune, and hummed it out of tune, and
+quarrelled with it.
+
+And John Rokesmith, what did he?
+
+He went down to his room, and buried [[John Harmon]] many additional fathoms
+deep. He took his hat, and walked out, and, as he went to Holloway or
+anywhere else—not at all minding where—heaped mounds upon mounds of
+earth over [[John Harmon]]’s [[Grave|grave]]. His walking did not bring him [[Home|home]] until
+the [[Dawn|dawn]] of day. And so busy had he been all [[Night|night]], piling and piling
+weights upon weights of earth above [[John Harmon]]’s [[Grave|grave]], that by that
+[[Time|time]] [[John Harmon]] lay buried under a whole Alpine range; and still the
+Sexton Rokesmith accumulated [[Mountains|mountains]] over him, lightening his labour
+with the [[Dirge|dirge]], ‘Cover him, crush him, keep him down!’

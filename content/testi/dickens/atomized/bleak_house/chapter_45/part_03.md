@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 45 (part 3)"
+title: "Bleak House — Chapter 45 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_45/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_45/part_04">part 04 ›</a></div>
 </nav>
 
+
+He was writing at a table, with a great confusion of clothes, tin
+cases, books, boots, brushes, and portmanteaus strewn all about the
+floor. He was only half dressed—in plain clothes, I observed, not in
+uniform—and his hair was unbrushed, and he looked as wild as his
+room. All this I saw after he had heartily welcomed me and I was
+seated near him, for he started upon hearing my voice and caught me
+in his arms in a moment. Dear [[Richard]]! He was ever the same to me.
+Down to—ah, poor poor fellow!—to the end, he never received me but
+with something of his old merry boyish manner.
+
+“Good heaven, my dear little woman,” said he, “how do you come here?
+Who could have thought of seeing you! Nothing the matter? Ada is
+[[Well|well]]?”
 
 “Quite [[Well|well]]. Lovelier than ever, [[Richard]]!”
 
@@ -131,20 +145,3 @@ the midst of my troubles and perplexities, to know that I am pressing
 Ada’s interests in pressing my own. Vholes has his shoulder to the
 [[Wheel|wheel]], and he cannot help urging it on as much for her as for me,
 thank God!”
-
-His sanguine hopes were rising within him and lighting up his
-features, but they made his face more sad to me than it had been
-before.
-
-“No, no!” cried [[Richard]] exultingly. “If every farthing of Ada’s
-little fortune were mine, no part of it should be spent in retaining
-me in what I am not fit for, can take no interest in, and am weary
-of. It should be devoted to what promises a better return, and should
-be used where she has a larger stake. Don’t be uneasy for me! I shall
-now have only one thing on my mind, and Vholes and I will work it. I
-shall not be without means. Free of my commission, I shall be able to
-compound with some small usurers who will hear of nothing but their
-bond now—Vholes says so. I should have a balance in my favour
-anyway, but that would swell it. Come, come! You shall carry a letter
-to Ada from me, Esther, and you must both of you be more hopeful of
-me and not believe that I am quite cast away just yet, my dear.”

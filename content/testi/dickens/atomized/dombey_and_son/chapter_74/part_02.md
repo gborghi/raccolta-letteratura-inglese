@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 18 (part 2)"
+title: "Dombey and Son — Chapter 46 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,126 +14,115 @@ tags:
 </nav>
 
 
-The chief thing that they know, below stairs, in the kitchen, is that
-“it seems like [[Sunday]].” They can hardly persuade themselves but that
-there is something unbecoming, if not wicked, in the conduct of the
-people out of doors, who pursue their ordinary occupations, and wear
-their everyday attire. It is quite a novelty to have the blinds up, and
-the shutters open; and they make themselves dismally comfortable over
-bottles of wine, which are freely broached as on a festival. They are
-much inclined to moralise. Mr Towlinson proposes with a sigh,
-“Amendment to us all!” for which, as Cook says with another sigh,
-“There’s room enough, God knows.” In the evening, Mrs Chick and Miss
-Tox take to needlework again. In the evening also, Mr Towlinson goes
-out to take the air, accompanied by the housemaid, who has not yet
-tried her mourning bonnet. They are very tender to each other at dusky
-street-corners, and Towlinson has visions of leading an altered and
-blameless existence as a serious greengrocer in [[Oxford]] Market.
+But the old woman, for whom the spectacle of Rob the Grinder returning
+down the street, leading the riderless [[Horse|horse]], appeared to have some
+extraneous interest that it did not possess in itself, surveyed that
+young man with the utmost earnestness; and seeming to have whatever
+doubts she entertained, resolved as he drew nearer, glanced at her
+daughter with brightened eyes and with her finger on her lip, and
+emerging from the gateway at the moment of his passing, touched him on
+the shoulder.
 
-There is sounder [[Sleep|sleep]] and deeper rest in Mr Dombey’s [[house]] tonight,
-than there has been for many nights. The morning sun awakens the old
-household, settled down once more in their old ways. The rosy children
-opposite run past with hoops. There is a splendid wedding in the
-church. The juggler’s wife is active with the money-box in another
-quarter of the town. The mason sings and whistles as he chips out
-P-A-U-L in the marble slab before him.
+“Why, where’s my sprightly Rob been, all this [[Time|time]]!” she said, as he
+turned round.
 
-And can it be that in a world so full and busy, the loss of one weak
-creature makes a void in any heart, so wide and deep that nothing but
-the width and depth of vast [[Eternity|eternity]] can fill it up! Florence, in her
-[[Innocent|innocent]] affliction, might have answered, “Oh my brother, oh my dearly
-loved and loving brother! Only friend and companion of my slighted
-[[Childhood|childhood]]! Could any less idea shed the light already dawning on your
-early [[Grave|grave]], or give birth to the softened sorrow that is springing
-into life beneath this rain of [[Tears|tears]]!”
+The sprightly Rob, whose sprightliness was very much diminished by the
+salutation, looked exceedingly dismayed, and said, with the [[Water|water]]
+rising in his eyes:
 
-“My dear [[Child|child]],” said Mrs Chick, who held it as a duty incumbent on
-her, to improve the occasion, “when you are as old as I am—”
+“Oh! why can’t you leave a poor cove [[Alone|alone]], Misses Brown, when he’s
+getting an honest livelihood and conducting himself respectable? What
+do you come and deprive a cove of his character for, by talking to him
+in the streets, when he’s taking his master’s [[Horse|horse]] to a honest
+stable—a [[Horse|horse]] you’d go and sell for cats’ and [[dogs]]’ meat if you had
+your way! Why, I thought,” said the Grinder, producing his concluding
+remark as if it were the climax of all his injuries, “that you was dead
+long ago!”
 
-“Which will be the prime of life,” observed Miss Tox.
+“This is the way,” cried the old woman, appealing to her daughter,
+“that he talks to me, who knew him weeks and months together, my deary,
+and have stood his friend many and many a [[Time|time]] among the
+pigeon-fancying tramps and bird-catchers.”
 
-“You will then,” pursued Mrs Chick, gently squeezing Miss Tox’s hand in
-acknowledgment of her friendly remark, “you will then know that all
-grief is unavailing, and that it is our duty to submit.”
+“Let the [[Birds|birds]] be, will you, Misses Brown?” retorted Rob, in a tone of
+the acutest anguish. “I think a cove had better have to do with lions
+than them little creeturs, for they’re always flying back in your face
+when you least expect it. [[Well]], how d’ye do and what do you want?”
+These polite inquiries the Grinder uttered, as it were under protest,
+and with great exasperation and vindictiveness.
 
-“I will try, dear aunt I do try,” answered Florence, sobbing.
+“Hark how he speaks to an old friend, my deary!” said Mrs Brown, again
+appealing to her daughter. “But there’s some of his old friends not so
+patient as me. If I was to tell some that he knows, and has spotted and
+cheated with, where to find him—”
 
-“I am glad to hear it,” said Mrs Chick, “because; my [[Love|love]], as our dear
-Miss Tox—of whose sound sense and excellent judgment, there cannot
-possibly be two opinions—”
+“Will you hold your tongue, Misses Brown?” interrupted the miserable
+Grinder, glancing quickly round, as though he expected to see his
+master’s teeth shining at his elbow. “What do you take a pleasure in
+ruining a cove for? At your [[Time|time]] of life too! when you ought to be
+thinking of a variety of things!”
 
-“My dear Louisa, I shall really be proud, soon,” said Miss Tox.
+“What a gallant [[Horse|horse]]!” said the old woman, patting the animal’s neck.
 
-“—will tell you, and confirm by her experience,” pursued Mrs Chick, “we
-are called upon on all occasions to make an effort It is required of
-us. If any—my dear,” turning to Miss Tox, “I want a word. Mis—Mis-”
+“Let him [[Alone|alone]], will you, Misses Brown?” cried Rob, pushing away her
+hand. “You’re enough to drive a penitent cove mad!”
 
-“Demeanour?” suggested Miss Tox.
+“Why, what hurt do I do him, [[Child|child]]?” returned the old woman.
 
-“No, no, no,” said Mrs Chic “How can you! Goodness me, it’s on, the end
-of my tongue. Mis-”
+“Hurt?” said Rob. “He’s got a master that would find it out if he was
+touched with a straw.” And he blew upon the place where the old woman’s
+hand had rested for a moment, and smoothed it gently with his finger,
+as if he seriously believed what he said.
 
-“Placed affection?” suggested Miss Tox, timidly.
+The old woman looking back to mumble and mouth at her daughter, who
+followed, kept close to Rob’s heels as he walked on with the bridle in
+his hand; and pursued the conversation.
 
-“Good gracious, Lucretia!” returned Mrs Chick “How very monstrous!
-Misanthrope, is the word I want. The idea! Misplaced affection! I say,
-if any misanthrope were to put, in my presence, the question ‘Why were
-we born?’ I should reply, ‘To make an effort’.”
+“A good place, Rob, eh?” said she. “You’re in luck, my [[Child|child]].”
 
-“Very good indeed,” said Miss Tox, much impressed by the originality of
-the sentiment “Very good.”
+“Oh don’t talk about luck, Misses Brown,” returned the wretched
+Grinder, facing round and stopping. “If you’d never come, or if you’d
+go away, then indeed a cove might be considered tolerable lucky. Can’t
+you go along, Misses Brown, and not foller me!” blubbered Rob, with
+sudden defiance. “If the young woman’s a friend of yours, why don’t she
+take you away, instead of letting you make yourself so disgraceful!”
 
-“Unhappily,” pursued Mrs Chick, “we have a warning under our own eyes.
-We have but too much reason to suppose, my dear [[Child|child]], that if an
-effort had been made in [[Time|time]], in this family, a train of the most
-trying and distressing circumstances might have been avoided. Nothing
-shall ever persuade me,” observed the good matron, with a resolute air,
-“but that if that effort had been made by poor dear Fanny, the poor
-dear darling [[Child|child]] would at least have had a stronger constitution.”
+“What!” croaked the old woman, putting her face close to his, with a
+malevolent grin upon it that puckered up the loose skin down in her
+very throat. “Do you deny your old chum! Have you lurked to my [[house]]
+fifty times, and slept sound in a corner when you had no other bed but
+the paving-stones, and do you talk to me like this! Have I bought and
+sold with you, and helped you in my way of business, schoolboy, sneak,
+and what not, and do you tell me to go along? Could I raise a crowd of
+old company about you to-morrow morning, that would follow you to ruin
+like copies of your own [[Shadow|shadow]], and do you turn on me with your bold
+looks! I’ll go. Come, Alice.”
 
-Mrs Chick abandoned herself to her feelings for half a moment; but, as
-a practical illustration of her doctrine, brought herself up short, in
-the middle of a sob, and went on again.
+“Stop, Misses Brown!” cried the distracted Grinder. “What are you doing
+of? Don’t put yourself in a passion! Don’t let her go, if you please. I
+haven’t meant any offence. I said ‘how d’ye do,’ at first, didn’t I?
+But you wouldn’t answer. How you do? Besides,” said Rob piteously,
+“look here! How can a cove stand talking in the street with his
+master’s prad a-wanting to be took to be rubbed down, and his master up
+to every individgle thing that happens!”
 
-“Therefore, Florence, pray let us see that you have some strength of
-mind, and do not selfishly aggravate the distress in which your poor
-Papa is plunged.”
+The old woman made a show of being partially appeased, but shook her
+head, and mouthed and muttered still.
 
-“Dear aunt!” said Florence, kneeling quickly down before her, that she
-might the better and more earnestly look into her face. “Tell me more
-about Papa. Pray tell me about him! Is he quite heartbroken?”
+“Come along to the stables, and have a glass of something that’s good
+for you, Misses Brown, can’t you?” said Rob, “instead of going on, like
+that, which is no good to you, nor anybody else. Come along with her,
+will you be so kind?” said Rob. “I’m sure I’m delighted to see her, if
+it wasn’t for the [[Horse|horse]]!”
 
-Miss Tox was of a tender [[Nature|nature]], and there was something in this appeal
-that moved her very much. Whether she saw it in a succession, on the
-part of the neglected [[Child|child]], to the affectionate concern so often
-expressed by her dead brother—or a [[Love|love]] that sought to twine itself
-about the heart that had loved him, and that could not bear to be shut
-out from sympathy with such a sorrow, in such sad community of [[Love|love]] and
-grief—or whether she only recognised the earnest and devoted spirit
-which, although discarded and repulsed, was wrung with tenderness long
-unreturned, and in the waste and [[Solitude|solitude]] of this bereavement cried to
-him to seek a comfort in it, and to give some, by some small
-response—whatever may have been her understanding of it, it moved Miss
-Tox. For the moment she forgot the majesty of Mrs Chick, and, patting
-Florence hastily on the cheek, turned aside and suffered the [[Tears|tears]] to
-gush from her eyes, without waiting for a lead from that wise matron.
+With this apology, Rob turned away, a rueful picture of [[Despair|despair]], and
+walked his charge down a bye street. The old woman, mouthing at her
+daughter, followed close upon him. The daughter followed.
 
-Mrs Chick herself lost, for a moment, the presence of mind on which she
-so much prided herself; and remained mute, looking on the beautiful
-young face that had so long, so steadily, and patiently, been turned
-towards the little bed. But recovering her voice—which was synonymous
-with her presence of mind, indeed they were one and the same thing—she
-replied with dignity:
-
-“Florence, my dear [[Child|child]], your poor Papa is peculiar at times; and to
-question me about him, is to question me upon a subject which I really
-do not pretend to understand. I believe I have as much influence with
-your Papa as anybody has. Still, all I can say is, that he has said
-very little to me; and that I have only seen him once or twice for a
-minute at a [[Time|time]], and indeed have hardly seen him then, for his room
-has been dark. I have said to your Papa, ‘Paul!’—that is the exact
-expression I used—‘Paul! why do you not take something stimulating?’
-Your Papa’s reply has always been, ‘Louisa, have the goodness to leave
-me. I want nothing. I am better by myself.’ If I was to be put upon my
-oath to-morrow, Lucretia, before a magistrate,” said Mrs Chick, “I have
-no [[Doubt|doubt]] I could venture to swear to those identical words.”
+Turning into a silent little square or [[Court|court]]-yard that had a great
+church tower rising above it, and a packer’s warehouse, and a
+bottle-maker’s warehouse, for its places of business, Rob the Grinder
+delivered the white-legged [[Horse|horse]] to the hostler of a quaint stable at
+the corner; and inviting Mrs Brown and her daughter to seat themselves
+upon a stone bench at the gate of that establishment, soon reappeared
+from a neighbouring public-[[house]] with a pewter measure and a glass.

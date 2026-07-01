@@ -1,5 +1,5 @@
 ---
-title: "[[The Balloon-Hoax]] (part 6)"
+title: "The Balloon-Hoax (part 6)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-balloon-hoax-(poe)"
@@ -13,6 +13,30 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_balloon_hoax/part/part_05">‹ part 05</a><span></span></div>
 </nav>
 
+
+      atmosphere, and the consequent disruption of the minute particles
+
+      of ice with which the network had become encrusted during the
+
+      [[Night|night]]. Threw down several bottles to the vessels below. Saw one
+
+      of them picked up by a large [[Ship|ship]]—seemingly one of the [[New York]]
+
+      line packets. Endeavored to make out her name, but could not be
+
+      sure of it. Mr. Osborne’s telescope made it out something like
+
+      “Atalanta.” It is now 12, at [[Night|night]], and we are still going nearly
+
+      west, at a rapid pace. The sea is peculiarly phosphorescent.
+
+
+
+      “P.S. [By Mr. Ainsworth.] It is now 2, A.M., and nearly calm, as
+
+      [[Well|well]] as I can judge—but it is very difficult to determine this
+
+      point, since we move _with_ the air so completely. I have not
 
       slept since quitting Wheal-Vor, but can stand it no longer, and
 

@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 3 (part 1)"
+title: "Mansfield Park — Chapter 3 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -137,9 +137,3 @@ not distress you very much, Fanny?”
 “Indeed it does: I cannot like it. I [[Love|love]] this [[house]] and everything in
 it: I shall [[Love|love]] nothing there. You know how uncomfortable I feel with
 her.”
-
-“I can say nothing for her manner to you as a [[Child|child]]; but it was the
-same with us all, or nearly so. She never knew how to be pleasant to
-children. But you are now of an age to be treated better; I think she
-is behaving better already; and when you are her only companion, you
-_must_ be important to her.”

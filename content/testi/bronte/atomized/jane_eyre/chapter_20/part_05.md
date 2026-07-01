@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 20 (part 5)"
+title: "Jane Eyre — Chapter 20 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_20/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_21/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Oh, no! Mason will not defy me; nor, knowing it, will he hurt me—but,
+unintentionally, he might in a moment, by one careless word, deprive
+me, if not of life, yet for ever of happiness.”
+
+“Tell him to be cautious, sir: let him know what you [[Fear|fear]], and show him
+how to avert the danger.”
+
+He laughed sardonically, hastily took my hand, and as hastily threw it
+from him.
+
+“If I could do that, simpleton, where would the danger be? Annihilated
+in a moment. Ever since I have known Mason, I have only had to say to
+him ‘Do that,’ and the thing has been done. But I cannot give him
+orders in this case: I cannot say ‘Beware of harming me, [[Richard]];’ for
+it is imperative that I should keep him ignorant that harm to me is
+possible. Now you look puzzled; and I will puzzle you further. You are
+my little friend, are you not?”
 
 “I like to serve you, sir, and to obey you in all that is right.”
 

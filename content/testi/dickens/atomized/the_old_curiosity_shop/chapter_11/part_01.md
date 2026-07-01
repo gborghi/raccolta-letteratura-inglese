@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/the-old-curiosity-shop-(dickens)">The Old Curiosity Shop</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_old_curiosity_shop/chapter_09/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/the_old_curiosity_shop/chapter_11/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_old_curiosity_shop/chapter_10/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/the_old_curiosity_shop/chapter_11/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -123,10 +123,3 @@ Don’t lose [[Time|time]].’
 
 ‘He he he!’ cried Brass faintly, as he again applied himself to the
 odious pipe.  ‘But if he should get better, Mr Quilp?’
-
-‘Then we shall stop till he does, and no longer,’ returned the [[Dwarf|dwarf]].
-
-‘How kind it is of you, Sir, to wait till then!’ said Brass.  ‘Some
-people, Sir, would have sold or removed the goods--oh dear, the very
-instant the law allowed ‘em.  Some people, Sir, would have been all
-flintiness and granite.  Some people, sir, would have--’

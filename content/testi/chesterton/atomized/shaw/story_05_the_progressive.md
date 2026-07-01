@@ -1,5 +1,5 @@
 ---
-title: "[[Shaw]] — THE PROGRESSIVE"
+title: "Shaw — THE PROGRESSIVE"
 author: "Chesterton"
 unitType: story
 parentWork: "works/shaw-(chesterton)"

@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 22 (part 1)"
+title: "Nicholas Nickleby — Chapter 22 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -29,7 +29,7 @@ to quit [[London]], with a light heart, and sprang from his bed with an
 elasticity of spirit which is happily the lot of young persons, or the
 world would never be stocked with old ones.
 
-It was a cold, dry, foggy morning in early [[Spring|spring]]. A few meagre shadows
+It was a cold, dry, foggy morning in early [[spring]]. A few meagre shadows
 flitted to and fro in the misty streets, and occasionally there loomed
 through the dull vapour, the heavy outline of some hackney coach wending
 homewards, which, drawing slowly nearer, rolled jangling by, scattering
@@ -131,9 +131,3 @@ could be useful in many ways. So could you.’
 ‘[[Well]], when I was there,’ resumed [[Smike]]; his eyes sparkling at the
 prospect of displaying his abilities; ‘I could milk a cow, and groom a
 [[Horse|horse]], with anybody.’
-
-‘Ha!’ said Nicholas, gravely. ‘I am afraid they don’t keep many [[Animals|animals]]
-of either kind on board [[Ship|ship]], [[Smike]], and even when they have horses,
-that they are not very particular about rubbing them down; still you can
-learn to do something else, you know. Where there’s a will, there’s a
-way.’

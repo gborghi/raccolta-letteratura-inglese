@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/works/the-narrative-of-a.-gordon-pym-(raven-edition)-(poe)">The Narrative of A Gordon Pym Raven Edition</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_narrative_of_a_gordon_pym_raven_edition/chapter_08/part_03">‹ part 03</a><a class="ex-next" href="/testi/poe/atomized/the_narrative_of_a_gordon_pym_raven_edition/chapter_09/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_narrative_of_a_gordon_pym_raven_edition/chapter_08/part_04">‹ part 04</a><a class="ex-next" href="/testi/poe/atomized/the_narrative_of_a_gordon_pym_raven_edition/chapter_09/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -187,9 +187,3 @@ CHAPTER 9
       over us as it did. We exhorted him to bear his sufferings with
 
       fortitude, and promised to seize the first opportunity which
-
-      should offer itself to relieve him. He replied that it would soon
-
-      be too late; that it would be all over with him before we could
-
-      help him; and then, after moaning for some minutes, lay silent,

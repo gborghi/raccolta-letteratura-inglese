@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 26 (part 2)"
+title: "Sense and Sensibility — Chapter 26 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_26/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_26/part_03">part 03 ›</a></div>
 </nav>
 
+
+[[Colonel Brandon]] appeared.
+
+
+
+It was too great a shock to be borne with calmness, and she immediately
 
 left the room. Elinor was disappointed too; but at the same [[Time|time]] her
 
@@ -223,11 +229,3 @@ Street especially, where much of their business lay, her eyes were in
 constant inquiry; and in whatever shop the party were engaged, her mind
 
 was equally abstracted from every thing actually before them, from all
-
-that interested and occupied the others. Restless and dissatisfied
-
-every where, her sister could never obtain her opinion of any article
-
-of purchase, however it might equally concern them both: she received
-
-no pleasure from anything; was only impatient to be at [[Home|home]] again, and

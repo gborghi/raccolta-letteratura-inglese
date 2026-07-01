@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 4 (part 4)"
+title: "Nicholas Nickleby — Chapter 4 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_04/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_04/part_05">part 05 ›</a></div>
 </nav>
 
+
+‘Yes, we know all about that, sir,’ interrupted Ralph, testily. ‘It’s in
+the advertisement.’
 
 ‘You are very right, sir; it IS in the advertisement,’ replied Squeers.
 
@@ -165,11 +168,3 @@ way to Golden Square first?’
 
 ‘Leave these papers with my clerk, then,’ said Ralph, producing a small
 parcel, ‘and tell him to wait till I come [[Home|home]].’
-
-Nicholas cheerfully undertook the errand, and bidding his worthy
-uncle an affectionate farewell, which that warm-hearted old gentleman
-acknowledged by a growl, hastened away to execute his commission.
-
-He found Golden Square in due course; Mr. Noggs, who had stepped out
-for a minute or so to the public-[[house]], was opening the door with a
-latch-key, as he reached the steps.

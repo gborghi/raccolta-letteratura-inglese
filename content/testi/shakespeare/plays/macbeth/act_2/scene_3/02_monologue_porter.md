@@ -1,5 +1,5 @@
 ---
-title: "[[Macbeth]] — Act II, Scene 3 — monologue (PORTER) [2]"
+title: "Macbeth — Act II, Scene 3 — monologue (PORTER) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/macbeth-(shakespeare)"

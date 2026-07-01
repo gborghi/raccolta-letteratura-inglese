@@ -1,5 +1,5 @@
 ---
-title: "[[manalive]] — Chapter 3 (part 6)"
+title: "manalive — Chapter 3 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/manalive-(chesterton)"
@@ -106,10 +106,8 @@ I am troubled by rainy meadows and mud cabins that I have
 never seen; and I wonder whether America will endure.--
 Yours faithfully, Louis Hara."
 
-
 After a short silence Inglewood said:  "And, finally, we desire
 to put in as evidence the following document:--
-
 
 "This is to say that I am Ruth Davis, and have been housemaid to
 Mrs. I. Smith at `The Laurels' in Croydon for the last six months.
@@ -134,12 +132,11 @@ though I sometimes fancy he is a little weak in his head.
 very loud and strong:  `Oh, what a lovely place you've got;'
 just as if he'd never seen it before."
 
-
 The room had been growing dark and drowsy; the afternoon sun sent one
 heavy shaft of powdered gold across it, which fell with an intangible
 solemnity upon the empty seat of Mary Gray, for the younger women
-had left the [[Court|court]] before the more recent of the investigations.
-Mrs. Duke was still asleep, and [[Innocent]] [[smith|Smith]], looking like a large
+had left the court before the more recent of the investigations.
+Mrs. Duke was still asleep, and Innocent Smith, looking like a large
 hunchback in the twilight, was bending closer and closer to his paper toys.
 But the five men really engaged in the controversy, and concerned not
 to convince the tribunal but to convince each other, still sat round

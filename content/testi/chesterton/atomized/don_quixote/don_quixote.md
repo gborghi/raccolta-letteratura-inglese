@@ -1,5 +1,5 @@
 ---
-title: "[[Don Quixote]]"
+title: "Don Quixote"
 author: "Chesterton"
 unitType: work
 parentWork: "works/don-quixote-(chesterton)"
@@ -584,7 +584,7 @@ edges which must have caused the poet, somewhat fantastically,
 to equip the daybreak with fingers.  The [[house]] stood high upon
 a lift of land that sank on two sides towards the Severn.
 The terraced [[Garden|garden]], fringed with knots of tapering trees carrying
-white clouds of the [[Spring|spring]] blossom, with large flower-beds flung out
+white clouds of the [[spring]] blossom, with large flower-beds flung out
 in a scheme like heraldry, at once strict and gay, scarcely veiled,
 and did not confuse, the colossal curve of the landscape.
 Along its lines the clouds rolled up and lifted like cannon smoke,
@@ -2773,7 +2773,7 @@ active service--going to the Front."  Then after a pause he added,
 "If I fall in the first charge at the Bargain Counter,
 say that my last thought was fixed firmly on Julian Archer.
 Put up a little stone on the spot where I fell, and when
-the [[Spring]] Sales come back with all their [[Birds|birds]] and [[Flowers|flowers]],
+the [[spring|Spring]] Sales come back with all their [[Birds|birds]] and [[Flowers|flowers]],
 remember me.  Farewell.  I wish you luck."
 
 And waving his resolute walking-stick in the air with gestures
@@ -2781,7 +2781,7 @@ of benediction, he betook himself briskly along the path through
 the park, leaving the dark figure in the porch looking rather
 doubtfully after him.
 
-The [[Birds|birds]] of [[Spring|spring]], which he had just invoked so pathetically,
+The [[Birds|birds]] of [[spring]], which he had just invoked so pathetically,
 were indeed singing in the bright plantation of little trees
 through which he went; the light green tufts of leafage
 had themselves something of the look of sprouting feathers.
@@ -5442,7 +5442,7 @@ menace of Braintree and his new Syndicalism, and which had led up
 to the launching of the movement in opposition to it, it was reported
 that Mr. [[Michael]] Herne had gone into a polling-booth to record
 his vote; and had remained there for three-quarters of an hour,
-mysteriously occupied or possibly engaged in [[prayer]].  He had apparently
+mysteriously occupied or possibly engaged in [[Prayer|prayer]].  He had apparently
 never given a vote before; it not being a Palaeo-Hittite habit;
 but when it had been elaborately explained to him that he had
 only to make a [[Cross|cross]] on the piece of paper opposite the name
@@ -7654,7 +7654,7 @@ there may be people who ask for nothing better than banks
 and brokers; there may be people who think Milldyke a nice place.
 Your father and his friends may have been right in their way;
 I'm sure they weren't so wrong as they looked when he was abusing
-them . . . it was hateful, and anyhow he had no business to [[Spring|spring]]
+them . . . it was hateful, and anyhow he had no business to [[spring]]
 it on you like that, without telling you beforehand."
 
 The statue spoke again; it seemed as if it never spoke except
@@ -8090,7 +8090,7 @@ he broke by saying suddenly, in his abrupt and awkward way:
 
 Herne's thoughts abruptly and absently went back to the old
 tangled talk between himself and Archer about the Albigensian
-heresy and what need to follow [[Conversion|conversion]] from it; he stood
+heresy and what need to follow [[conversion]] from it; he stood
 a moment with his wits wool gathering.  Then in that narrow street
 of the coloured lantern a new and astonishing thing happened;
 something that never had happened in all the topsy turvey happenings

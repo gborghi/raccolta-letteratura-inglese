@@ -130,7 +130,7 @@ SPECIMEN DAYS
   An Interregnum Paragraph
   New Themes Enter'd Upon
   Entering a Long Farm-Lane
-  To the [[Spring]] and Brook
+  To the [[spring|Spring]] and Brook
   An Early [[Summer]] Reveille
   [[Birds]] Migrating at Midnight
   Bumble-[[Bees]]
@@ -149,7 +149,7 @@ SPECIMEN DAYS
   Sea-Shore Fancies
   In [[Memory]] of Thomas Paine
   A Two Hours' Ice-Sail
-  [[Spring]] Overtures--Recreations
+  [[spring|Spring]] Overtures--Recreations
   One of the Human Kinks
   An Afternoon Scene
   The Gates Opening
@@ -185,9 +185,9 @@ SPECIMEN DAYS
   A Civility Too Long Neglected
   Delaware [[River]]--Days and Nights
   Scenes on Ferry and [[River]]--Last [[Winter]]'s Nights
-  The First [[Spring]] Day on Chestnut Street
+  The First [[spring|Spring]] Day on Chestnut Street
   Up the Hudson to Ulster County
-  Days at J.B.'s--Turf Fires--[[Spring]] [[songs|Songs]]
+  Days at J.B.'s--Turf Fires--[[spring|Spring]] [[songs|Songs]]
   Meeting a Hermit
   An Ulster County Waterfall
   Walter Dumont and his Medal
@@ -273,7 +273,7 @@ SPECIMEN DAYS
   At Present Writing--Personal
   After Trying a Certain Book
   Final Confessions--Literary Tests
-  [[Nature]] and [[democracy|Democracy]]--[[morality|Morality]]
+  [[Nature]] and [[Democracy]]--[[morality|Morality]]
 
 COLLECT
 
@@ -306,7 +306,7 @@ NOTES LEFT OVER
   Darwinism (then Furthermore)
   "Society"
   The Tramp and Strike Questions
-  [[democracy|Democracy]] in the New World
+  [[Democracy]] in the New World
   Foundation Stages--then Others
   General Suffrage, Elections, Etc.
   Who Gets the Plunder?
@@ -556,7 +556,7 @@ but those will be the best versions of what I want to convey.
 GENEALOGY--VAN VELSOR AND WHITMAN
 
 The later years of the last century found the Van Velsor family, my
-mother's side, living on their own farm at Cold [[Spring]], Long Island, New
+mother's side, living on their own farm at Cold [[spring|Spring]], Long Island, New
 York State, near the eastern edge of [[Queen]]'s county, about a mile from
 the harbor.[2] My father's side--probably the fifth generation from the
 first English arrivals in [[New England]]--were at the same [[Time|time]] farmers
@@ -629,7 +629,7 @@ concentrate on this sterile acre.
 
 The next day, July 30, I devoted to the maternal locality, and if
 possible was still more penetrated and impress'd. I write this paragraph
-on the burial hul of the Van Velsors, near Cold [[Spring]], the most
+on the burial hul of the Van Velsors, near Cold [[spring|Spring]], the most
 significant depository of the dead that could be imagin'd, without the
 slightest help from art, but far ahead of it, soil sterile, a mostly
 bare plateau-flat of half an acre, the top of a [[Hill|hill]], brush and [[Well|well]]
@@ -655,7 +655,7 @@ plough and harrow pass'd over foundations, [[Road|road]]-spaces and everything,
 for many summers; fenced in at present, and grain and clover growing
 like any other fine fields. Only a big hole from the cellar, with some
 little heaps of broken stone, green with grass and weeds, identified
-the place. Even the copious old brook and [[Spring|spring]] seem'd to have mostly
+the place. Even the copious old brook and [[spring]] seem'd to have mostly
 dwindled away. The whole scene, with what it arous'd, memories of
 my young days there half a century ago, the vast kitchen and ample
 fireplace and the sitting-room adjoining, the plain furniture, the
@@ -1153,7 +1153,7 @@ the [[Flag|flag]] at Charleston, proved for certain something which had been
 previously in great [[Doubt|doubt]], and at once substantially settled the
 question of disunion. In my judgment it will remain as the grandest and
 most encouraging spectacle yet vouchsafed in any age, old or new,
-to political progress and [[democracy]]. It was not for what came to the
+to political progress and [[Democracy|democracy]]. It was not for what came to the
 surface merely--though that was important--but what it indicated
 below, which was of eternal importance. Down in the abysms of New World
 humanity there had form'd and harden'd a primal hardpan of national
@@ -1162,7 +1162,7 @@ or argued against, confronting all emergencies, and capable at any [[Time|time]]
 of bursting all surface bonds, and breaking out like an earthquake. It
 is, indeed, the best lesson of the century, or of [[America]], and it is
 a mighty privilege to have been part of it. (Two great spectacles,
-immortal proofs of [[democracy]], unequall'd in all the [[history]] of the past,
+immortal proofs of [[Democracy|democracy]], unequall'd in all the [[history]] of the past,
 are furnish'd by the secession war--one at the beginning, the other at
 its close. Those are, the general, voluntary, arm'd upheaval, and the
 peaceful and harmonious disbanding of the armies in the [[Summer|summer]] of 1865.)
@@ -1984,7 +1984,7 @@ camp ready on some broad, vacant ground, a sort of [[Hill|hill]], in full view
 opposite my [[Window|window]]. There are the men in their yellow-striped jackets.
 All are dismounted; the freed horses stand with drooping heads and wet
 sides; they are to be led off presently in groups, to [[Water|water]]. The little
-wall-tents and shelter tents [[Spring|spring]] up quickly. I see the fires already
+wall-tents and shelter tents [[spring]] up quickly. I see the fires already
 blazing, and pots and kettles over them. Some among the men are driving
 in tent-poles, wielding their axes with strong, slow blows. I see great
 huddles of horses, bundles of hay, groups of men (some with unbuckled
@@ -3243,7 +3243,7 @@ of their faces almost as impossible to depict as a wild perfume or
 fruit-taste, or a passionate tone of the living voice--and such was
 [[Lincoln]]'s face, the peculiar color, the lines of it, the eyes, mouth,
 expression. Of technical [[Beauty|beauty]] it had nothing--but to the eye of a
-great [[Artist|artist]] it furnished a rare study, a feast and fascination. The
+great [[artist]] it furnished a rare study, a feast and fascination. The
 current portraits are all failures--most of them caricatures.
 
 RELEAS'D [[Union|UNION]] PRISONERS FROM SOUTH
@@ -3868,9 +3868,9 @@ long flapping tassels of maize--and so to the pond, the expansion of
 the creek, the secluded-beautiful, with young and old trees, and such
 recesses and vistas.
 
-TO THE [[Spring|SPRING]] AND BROOK
+TO THE [[spring|SPRING]] AND BROOK
 
-So, still sauntering on, to the [[Spring|spring]] under the willows--musical as
+So, still sauntering on, to the [[spring]] under the willows--musical as
 soft clinking glasses-pouring a sizeable stream, thick as my neck, pure
 and clear, out from its vent where the bank arches over like a
 great brown shaggy eyebrow or mouth-roof--gurgling, gurgling
@@ -4557,7 +4557,7 @@ crunching. The light permeated by that peculiar evening haze, right
 after sunset, which sometimes renders quite distant objects so
 distinctly.
 
-[[Spring|SPRING]] OVERTURES--RECREATIONS
+[[spring|SPRING]] OVERTURES--RECREATIONS
 
 _Feb. 10_.--The first chirping, almost singing, of a bird to-day. Then
 I noticed a couple of honey-[[Bees|bees]] spirting and humming about the open
@@ -4565,7 +4565,7 @@ I noticed a couple of honey-[[Bees|bees]] spirting and humming about the open
 
 _Feb. 11_.--In the soft [[Rose|rose]] and pale gold of the declining light, this
 beautiful evening, I heard the first hum and preparation of awakening
-[[Spring|spring]]--very faint--whether in the earth or roots, or starting of
+[[spring]]--very faint--whether in the earth or roots, or starting of
 [[Insects|insects]], I know not--but it was audible, as I lean'd on a rail (I am
 down in my country quarters awhile,) and look'd long at the western
 horizon. Turning to the east, Sirius, as the shadows deepen'd, came
@@ -4623,7 +4623,7 @@ I hear now and then the _flup_ of a pike leaping out, and rippling the
 
 THE GATES OPENING
 
-_April 6_.--Palpable [[Spring|spring]] indeed, or the indications of it. I am
+_April 6_.--Palpable [[spring]] indeed, or the indications of it. I am
 sitting in bright sunshine, at the edge of the creek, the surface just
 rippled by the [[Wind|wind]]. All is [[Solitude|solitude]], morning freshness, negligence.
 For companions my two kingfishers sailing, winding, darting, dipping,
@@ -4648,7 +4648,7 @@ THE COMMON EARTH, THE SOIL
 
 The soil, too--let others pen-and-ink the sea, the air, (as I sometimes
 try)--but now I feel to choose the common soil for theme--naught else.
-The brown soil here, (just between [[Winter|winter]]-close and opening [[Spring|spring]]
+The brown soil here, (just between [[Winter|winter]]-close and opening [[spring]]
 and vegetation)--the rain-shower at [[Night|night]], and the fresh smell next
 morning--the red worms wriggling out of the ground--the dead [[Leaves|leaves]],
 the incipient grass, and the latent life underneath--the effort to start
@@ -4795,7 +4795,7 @@ health? That I have been almost two years, off and on, without drugs and
 medicines, and daily in the open air. Last [[Summer|summer]] I found a particularly
 secluded little dell off one side by my creek, originally a large
 dug-out marl-pit, now abandon'd, fill'd, with bushes, trees, grass, a
-group of willows, a straggling bank, and a [[Spring|spring]] of delicious [[Water|water]]
+group of willows, a straggling bank, and a [[spring]] of delicious [[Water|water]]
 running right through the middle of it, with two or three little
 cascades. Here I retreated every hot day, and follow it up this [[Summer|summer]].
 Here I realize the meaning of that old fellow who said he was seldom
@@ -5438,7 +5438,7 @@ in these mighty channels of men, but they form the rule and average.
 To-day, I should say--defiant of cynics and pessimists, and with a full
 knowledge of all their exceptions--an appreciative and perceptive study
 of the current humanity of [[New York]] gives the directest proof yet
-of successful [[democracy|Democracy]], and of the solution of that [[Paradox|paradox]], the
+of successful [[Democracy]], and of the solution of that [[Paradox|paradox]], the
 eligibility of the free and fully developed individual with the
 paramount aggregate. In old age, lame and sick, pondering for years on
 many a [[Doubt|doubt]] and danger for this republic of ours--fully aware of all
@@ -5447,7 +5447,7 @@ and the daily contact and rapport with its myriad people, on the scale
 of the oceans and tides, the best, most effective medicine my [[Soul|soul]] has
 yet partaken--the grandest physical habitat and surroundings of land and
 [[Water|water]] the globe affords--namely, [[Manhattan]] island and Brooklyn, which
-the future shall join in one [[City|city]]--[[City|city]] of superb [[democracy]], amid superb
+the future shall join in one [[City|city]]--[[City|city]] of superb [[Democracy|democracy]], amid superb
 surroundings.
 
 HOURS FOR THE [[Soul|SOUL]]
@@ -5712,7 +5712,7 @@ these Specimen Days to the
 
 DELAWARE [[River|RIVER]]--DAYS AND NIGHTS
 
-_April 5, 1879_.-With the return of [[Spring|spring]] to the skies, airs, waters of
+_April 5, 1879_.-With the return of [[spring]] to the skies, airs, waters of
 the Delaware, return the sea-gulls. I never tire of watching their broad
 and easy flight, in spirals, or as they oscillate with slow unflapping
 wings, or look down with curved beak, or dipping to the [[Water|water]] after
@@ -5873,12 +5873,12 @@ in the acoustic quality of the air, musical, emotional effects, never
 thought of before. I linger'd long and long, listening to them.
 
 _Night of March 18, '79_.--One of the calm, pleasantly cool, exquisitely
-clear and cloudless, early [[Spring|spring]] nights--the atmosphere again that rare
+clear and cloudless, early [[spring]] nights--the atmosphere again that rare
 vitreous blue-black, welcom'd by astronomers. Just at 8, evening, the
 scene overhead of certainly solemnest [[Beauty|beauty]], never surpass'd. [[Venus]]
 nearly down in the west, of a size and lustre as if trying to outshow
 herself, before departing. Teeming, maternal orb--I take you again to
-myself. I am reminded of that [[Spring|spring]] preceding [[Abraham Lincoln]]'s murder,
+myself. I am reminded of that [[spring]] preceding [[Abraham Lincoln]]'s murder,
 when I, restlessly haunting the Potomac banks, around Washington [[City|city]],
 watch'd you, off there, aloof, moody as myself:
 
@@ -5906,9 +5906,9 @@ crossing, I like to watch the fishermen's little buoy-lights--so pretty,
 so dreamy--like corpse candles--undulating delicate and lonesome on the
 surface of the shadowy waters, floating with the current.
 
-THE FIRST [[Spring|SPRING]] DAY ON CHESTNUT STREET
+THE FIRST [[spring|SPRING]] DAY ON CHESTNUT STREET
 
-[[Winter]] relaxing its hold, has already allow'd us a foretaste of [[Spring|spring]].
+[[Winter]] relaxing its hold, has already allow'd us a foretaste of [[spring]].
 As I write, yesterday afternoon's softness and brightness, (after
 the morning fog, which gave it a better setting, by contrast,) show'd
 Chestnut street--say between Broad and Fourth--to more advantage in its
@@ -5987,7 +5987,7 @@ sometimes weighted by cylinder-tanks of petroleum, thirty, forty, fifty
 cars in a string, panting and rumbling along in full view, but the sound
 soften'd by distance.
 
-DAYS AT J. B.'S TURF-FIRES--[[Spring|SPRING]] [[songs|SONGS]]
+DAYS AT J. B.'S TURF-FIRES--[[spring|SPRING]] [[songs|SONGS]]
 
 _April 26_.--At sunrise, the pure clear sound of the meadow lark. An
 hour later, some notes, few and simple, yet delicious and perfect, from
@@ -6018,7 +6018,7 @@ crows, gulls and hawks. I hear the afternoon shriek of the latter,
 darting about, preparing to nest. The oriole will soon be heard here,
 and the twanging _meoeow_ of the cat-bird; also the [[King|king]]-bird, cuckoo
 and the warblers. All along, there are three peculiarly characteristic
-[[Spring|spring]] [[songs]]--the meadow-lark's, so sweet, so alert and remonstrating
+[[spring]] [[songs]]--the meadow-lark's, so sweet, so alert and remonstrating
 (as if he said, "don't you see?" or, "can't you understand?")--the
 cheery, mellow, human tones of the robin--(I have been trying for years
 to get a brief term, or phrase, that would identify and describe that
@@ -6695,7 +6695,7 @@ snows of inaccessible upper areas melting and running down through the
 gorges continually. Nothing like the [[Water|water]] of [[Pastoral|pastoral]] plains, or creeks
 with wooded banks and turf, or anything of the kind elsewhere. The
 shapes that element takes in the shows of the globe cannot be fully
-understood by an [[Artist|artist]] until he has studied these unique rivulets.
+understood by an [[artist]] until he has studied these unique rivulets.
 
 _Aerial effects._--But perhaps as I gaze around me the rarest sight
 of all is in atmospheric hues. The prairies--as I [[Cross|cross]]'d them in my
@@ -7094,7 +7094,7 @@ are shrewd, good-natur'd, face-to-face speeches, on easy topics not
 too deep; but they give me some revised ideas of oratory--of a new,
 opportune theory and practice of that art, quite changed from the
 classic rules, and adapted to our days, our occasions, to American
-[[democracy]], and to the swarming populations of the West. I hear them
+[[Democracy|democracy]], and to the swarming populations of the West. I hear them
 criticised as wanting in dignity, but to me they are just what they
 should be, considering all the circumstances, who they come from, and
 who they are address'd to. Underneath, his objects are to compact and
@@ -7184,7 +7184,7 @@ perfect and noble life, morally without flaw, happily balanced in
 activity, physically sound and pure, giving its due proportion, and no
 more, to the sympathetic, the human emotional element--a life, in all
 these, unhasting, unresting, untiring to the end. And yet there is
-another shape of personality dearer far to the [[Artist|artist]]-sense, (which
+another shape of personality dearer far to the [[artist]]-sense, (which
 likes the play of strongest lights and shades,) where the perfect
 character, the good, the heroic, although never attain'd, is never
 lost sight of, but through failures, sorrows, temporary downfalls, is
@@ -7905,7 +7905,7 @@ planets and shining suns for him. To ideas almost invariably languid or
 cold, a number-one forceful personality was sure to rouse his eulogistic
 passion and savage joy. In such case, even the standard of duty
 hereinafter rais'd, was to be instantly lower'd and vail'd. All that
-is comprehended under the terms republicanism and [[democracy]] were
+is comprehended under the terms republicanism and [[Democracy|democracy]] were
 distasteful to him from the first, and as he grew older they became
 hateful and contemptible. For an undoubtedly candid and penetrating
 faculty such as his, the bearings he persistently ignored were
@@ -7995,7 +7995,7 @@ Aristophanes, his comedies,)--the spectre of world-destruction.
 How largest triumph or failure in human life, in war or peace, may
 depend on some little hidden centrality, hardly more than a drop of
 [[Blood|blood]], a pulse-beat, or a breath of air! It is certain that all these
-weighty matters, [[democracy]] in [[America]], Carlyleism, and the temperament
+weighty matters, [[Democracy|democracy]] in [[America]], Carlyleism, and the temperament
 for deepest political or literary exploration, turn on a simple point in
 speculative [[philosophy]].
 
@@ -8054,7 +8054,7 @@ but transient, even if ever so prevalent expressions.
 To politics throughout, Hegel applies the like catholic standard and
 [[Faith|faith]]. Not any one party, or any one form of [[government]], is absolutely
 and exclusively true. [[Truth]] consists in the just relations of objects to
-each other. A majority or [[democracy]] may rule as outrageously and do as
+each other. A majority or [[Democracy|democracy]] may rule as outrageously and do as
 great harm as an oligarchy or despotism--though far less likely to
 do so. But the great evil is either a violation of the relations just
 referr'd to, or of the moral law. The specious, the unjust, the cruel,
@@ -8140,7 +8140,7 @@ something more effective than the palpable. Then I find no better text,
 (it is always important to have a definite, special, even oppositional,
 living man to start from,) for sending out certain speculations
 and comparisons for [[Home|home]] use. Let us see what they amount to--those
-reactionary doctrines, fears, scornful analyses of [[democracy]]--even from
+reactionary doctrines, fears, scornful analyses of [[Democracy|democracy]]--even from
 the most erudite and sincere mind of Europe.
 
 [14] Not the least mentionable part of the case, (a streak, it may
@@ -8149,7 +8149,7 @@ gravity,) is that although neither of my great authorities during their
 lives consider'd the United States worthy of serious mention, all the
 principal works of both might not inappropriately be this day collected
 and bound up under the conspicuous title: _Speculations for the use of
-North [[America]], and [[democracy|Democracy]] there with the relations of the same to
+North [[America]], and [[Democracy]] there with the relations of the same to
 Metaphysics, including Lessons and Warnings (encouragements too, and of
 the vastest,) from the Old World to the New._
 
@@ -8158,8 +8158,8 @@ prescribing a specific for indispensable evils. My utmost pretension is
 probably but to offset that old claim of the exclusively curative power
 of first-class individual men, as leaders and rulers, by the claims,
 and general movement and result, of ideas. Something of the latter kind
-seems to me the distinctive theory of [[America]], of [[democracy]], and of the
-modern--or rather, I should say, it _is_ [[democracy]], and _is_ the modern.
+seems to me the distinctive theory of [[America]], of [[Democracy|democracy]], and of the
+modern--or rather, I should say, it _is_ [[Democracy|democracy]], and _is_ the modern.
 
 [16] I am much indebted to J. Gostick's abstract.
 
@@ -8167,7 +8167,7 @@ modern--or rather, I should say, it _is_ [[democracy]], and _is_ the modern.
 s everlurking pessimism and world-decadence, but as presenting the most
 thoroughly _American points of view_ I know. In my opinion the above
 formulas of Hegel are an essential and crowning justification of New
-World [[democracy]] in the creative realms of [[Time|time]] and space. There is that
+World [[Democracy|democracy]] in the creative realms of [[Time|time]] and space. There is that
 about them which only the vastness, the multiplicity and the vitality
 of [[America]] would seem able to comprehend, to give scope and illustration
 to, or to be fit for, or even originate. It is strange to me that they
@@ -8203,7 +8203,7 @@ Coleridge's lines, curiously appropriate in more ways than one:
     All [[Nature]] seems at work--slugs leave their lair,
     The [[Bees|bees]] are stirring--[[Birds|birds]] are on the wing,
     And [[Winter|winter]], slumbering in the open air,
-    Wears on his smiling face [[A Dream|a dream]] of [[Spring|spring]];
+    Wears on his smiling face [[A Dream|a dream]] of [[spring]];
     And I, the while, the sole unbusy thing,
     Nor honey make, nor pair, nor build, nor sing.
 
@@ -8333,14 +8333,14 @@ _April 18_.--Went out three or four miles to the [[house]] of Quincy [[Shaw]],
 to see a collection of J. F. Millet's pictures. Two rapt hours. Never
 before have I been so penetrated by this kind of expression. I stood
 long and long before "the Sower." I believe what the picture-men
-designate "the first Sower," as the [[Artist|artist]] executed a second copy, and
+designate "the first Sower," as the [[artist]] executed a second copy, and
 a third, and, some think, improved in each. But I [[Doubt|doubt]] it. There is
 something in this that could hardly be caught again--a [[Sublime|sublime]] murkiness
 and original pent fury. Besides this masterpiece, there were many
 others, (I shall never forget the simple evening scene, "Watering the
 Cow,") all inimitable, all perfect as pictures, works of mere art; and
 then it seem'd to me, with that last impalpable ethic purpose from the
-[[Artist|artist]] (most likely unconscious to himself) which I am always looking
+[[artist]] (most likely unconscious to himself) which I am always looking
 for. To me all of them told the full story of what went before and
 necessitated the great [[French Revolution|French revolution]]--the long precedent crushing
 of the masses of a heroic people into the earth, in abject [[Poverty|poverty]],
@@ -8364,7 +8364,7 @@ revolution, was large-sized, serious, industrious as now, and simple.
 The revolution and Napoleon's wars [[Dwarf|dwarf]]'d the standard of human size,
 but it will come up again. If for nothing else, I should dwell on my
 brief Boston visit for opening to me the new world of Millet's pictures.
-Will [[America]] ever have such an [[Artist|artist]] out of her own gestation, [[Body|body]],
+Will [[America]] ever have such an [[artist]] out of her own gestation, [[Body|body]],
 [[Soul|soul]]?
 
 _Sunday, April 17._--An hour and a half, late this afternoon, in [[Silence|silence]]
@@ -8629,7 +8629,7 @@ physiognomy of the work is realistic and Western. I only saw it for an
 hour or so; but it needs to be seen many times--needs to be studied over
 and over again. I could look on such a work at brief intervals all
 my life without tiring; it is very tonic to me; then it has an ethic
-purpose below all, as all great art must have. The [[Artist|artist]] said the
+purpose below all, as all great art must have. The [[artist]] said the
 sending of the picture abroad, probably to [[London]], had been talk'd of.
 I advised him if it went abroad to take it to [[Paris]]. I think they might
 appreciate it there--nay, they certainly would. Then I would like to
@@ -9058,7 +9058,7 @@ light on the sea.
 How I shall henceforth dwell on the blessed hours when, not long since,
 I saw that benignant face, the clear eyes, the silently smiling mouth,
 the form yet upright in its great age--to the very last, with so much
-[[Spring|spring]] and cheeriness, and such an absence of decrepitude, that even the
+[[spring]] and cheeriness, and such an absence of decrepitude, that even the
 term _venerable_ hardly seem'd fitting.
 
 Perhaps the life now rounded and completed in its mortal development,
@@ -9179,13 +9179,13 @@ Dictionary? I have fancied the ocean and the daylight, the mountain
 and the forest, putting their spirit in a judgment on our books. I have
 fancied some disembodied human [[Soul|soul]] giving its verdict.)
 
-[[Nature|NATURE]] AND [[democracy|DEMOCRACY]]--[[morality|MORALITY]]
+[[Nature|NATURE]] AND [[Democracy|DEMOCRACY]]--[[morality|MORALITY]]
 
-[[democracy|Democracy]] most of all affiliates with the open air, is sunny and hardy
+[[Democracy]] most of all affiliates with the open air, is sunny and hardy
 and sane only with [[Nature]]--just as much as Art is. Something is required
 to temper both--to check them, restrain them from excess, morbidity. I
 have wanted, before departure, to bear special testimony to a very old
-lesson and requisite. American [[democracy|Democracy]], in its myriad personalities,
+lesson and requisite. American [[Democracy]], in its myriad personalities,
 in factories, work-shops, stores, offices--through the dense streets and
 houses of cities, and all their manifold sophisticated life--must either
 be fibred, vitalized, by regular contact with out-door light and air and
@@ -9193,7 +9193,7 @@ growths, farm-scenes, [[Animals|animals]], fields, trees, [[Birds|birds]], sun-w
 skies, or it will certainly dwindle and pale. We cannot have grand races
 of mechanics, work people, and commonalty, (the only specific purpose
 of [[America]],) on any less terms. I conceive of no flourishing and heroic
-elements of [[democracy|Democracy]] in the United States, or of [[democracy|Democracy]] maintaining
+elements of [[Democracy]] in the United States, or of [[Democracy]] maintaining
 itself at all, without the [[Nature]]-element forming a main part--to be
 its health-element and [[Beauty|beauty]]-element--to really underlie the whole
 politics, [[Sanity|sanity]], religion and art of the New World.
@@ -9283,7 +9283,7 @@ though the passages of it have been written at widely different
 times, (it is, in fact, a collection of memoranda, perhaps for future
 designers, comprehenders,) and though it may be open to the charge of
 one part contradicting another--for there are opposite sides to the
-great question of [[democracy]], as to every great question--I feel the
+great question of [[Democracy|democracy]], as to every great question--I feel the
 parts harmoniously blended in my own realization and convictions, and
 present them to be read only in such oneness, each page and each claim
 and assertion modified and temper'd by the others. Bear in mind, too,
@@ -9292,9 +9292,9 @@ the ordinary sense, observing, wandering among men, these States, these
 stirring years of war and peace. I will not gloss over the appaling
 dangers of universal suffrage in the United States. In fact, it is to
 admit and face these dangers I am writing. To him or her within whose
-thought rages the battle, advancing, retreating, between [[democracy]]'s
+thought rages the battle, advancing, retreating, between [[Democracy|democracy]]'s
 convictions, aspirations, and the people's crudeness, vice, caprices, I
-mainly write this [[Essay|essay]]. I shall use the words [[America]] and [[democracy]] as
+mainly write this [[Essay|essay]]. I shall use the words [[America]] and [[Democracy|democracy]] as
 convertible terms. Not an ordinary one is the issue. The United States
 are destined either to surmount the gorgeous [[history]] of feudalism, or
 else prove the most tremendous failure of [[Time|time]]. Not the least doubtful
@@ -9311,7 +9311,7 @@ finally and only is to make of our western world a nationality superior
 to any hither known, and out-topping the past, must be vigorous,
 yet unsuspected Literatures, perfect personalities and sociologies,
 original, transcendental, and expressing (what, in highest sense, are
-not yet express'd at all,) [[democracy]] and the modern. With these, and
+not yet express'd at all,) [[Democracy|democracy]] and the modern. With these, and
 out of these, I promulge new races of Teachers, and of perfect Women,
 indispensable to endow the birth-stock of a New World. For feudalism,
 caste, the ecclesiastic traditions, though palpably retreating from
@@ -9319,7 +9319,7 @@ political institutions, still hold essentially, by their spirit, even in
 this country, entire possession of the more important fields, indeed the
 very subsoil, of [[Education|education]], and of social standards and literature.
 
-I say that [[democracy]] can never prove itself beyond cavil, until it
+I say that [[Democracy|democracy]] can never prove itself beyond cavil, until it
 founds and luxuriantly grows its own forms of art, [[Poems|poems]], schools,
 theology, displacing all that exists, or that has been produced anywhere
 in the past, under opposite influences. It is curious to me that
@@ -9358,7 +9358,7 @@ central point in any nation, and that whence it is itself really sway'd
 the most, and whence it sways others, is its national literature,
 especially its archetypal [[Poems|poems]]. Above all previous lands, a great
 original literature is surely to become the justification and reliance,
-(in some respects the sole reliance,) of American [[democracy]].
+(in some respects the sole reliance,) of American [[Democracy|democracy]].
 
 Few are aware how the great literature penetrates all, gives hue to
 all, shapes aggregates and individuals, and, after subtle ways, with
@@ -9428,7 +9428,7 @@ earnestness, reality, and life, These, of course, are modern. But in
 the region of imaginative, spinal and essential attributes, something
 equivalent to creation is, for our age and lands, imperatively demanded.
 For not only is it not enough that the new [[Blood|blood]], new frame of
-[[democracy]] shall be vivified and held together merely by political means,
+[[Democracy|democracy]] shall be vivified and held together merely by political means,
 superficial suffrage, legislation, &c., but it is clear to me that,
 unless it goes deeper, gets at least as firm and as warm a hold in
 men's hearts, emotions and belief, as, in their days, feudalism or
@@ -9474,7 +9474,7 @@ argued that our republic is, in performance, really enacting to-day the
 grandest arts, [[Poems|poems]], &c., by beating up the wilderness into fertile
 farms, and in her railroads, ships, machinery, &c. And it may be ask'd,
 Are these not better, indeed, for [[America]], than any utterances even of
-greatest rhapsode, [[Artist|artist]], or literatus?
+greatest rhapsode, [[artist]], or literatus?
 
 I too hail those achievements with [[Pride|pride]] and joy: then answer that
 the [[Soul|soul]] of man will not with such only--nay, not with such at all--be
@@ -9495,7 +9495,7 @@ reader, and to the utmost extent, against the prevailing delusion
 that the establishment of free political institutions, and plentiful
 intellectual smartness, with general good order, physical plenty,
 industry, &c., (desirable and precious advantages as they all are,) do,
-of themselves, determine and yield to our experiment of [[democracy]] the
+of themselves, determine and yield to our experiment of [[Democracy|democracy]] the
 fruitage of [[success]]. With such advantages at present fully, or almost
 fully, possess'd--the [[Union]] just issued, victorious, from the struggle
 with the only foes it need ever [[Fear|fear]], (namely, those within itself,
@@ -9540,7 +9540,7 @@ speculators and vulgarians. True, indeed, behind this fantastic farce,
 enacted on the visible stage of society, solid things and stupendous
 labors are to be discover'd, existing crudely and going on in the
 background, to advance and tell themselves in [[Time|time]]. Yet the truths are
-none the less terrible. I say that our New World [[democracy]], however
+none the less terrible. I say that our New World [[Democracy|democracy]], however
 great a [[success]] in uplifting the masses out of their sloughs, in
 materialistic development, products, and in a certain highly-deceptive
 superficial popular intellectuality, is, so far, an almost complete
@@ -9625,7 +9625,7 @@ best literary and esthetic appreciation--I proceed with my speculations,
 Vistas.
 
 First, let us see what we can make out of a brief, general, sentimental
-consideration of political [[democracy]], and whence it has arisen, with
+consideration of political [[Democracy|democracy]], and whence it has arisen, with
 regard to some of its current features, as an aggregate, and as the
 basic structure of our future literature and authorship. We shall, it is
 true, quickly and continually find the origin-idea of the singleness of
@@ -9680,7 +9680,7 @@ and [[Freedom|freedom]] to the rights of the States, (every bit as important as 
 right of nationality, the [[Union|union]],) that we insist on the [[Identity|identity]] of the
 [[Union]] at all hazards.
 
-The purpose of [[democracy]]--supplanting old belief in the necessary
+The purpose of [[Democracy|democracy]]--supplanting old belief in the necessary
 absoluteness of establish'd dynastic rulership, temporal,
 ecclesiastical, and scholastic, as furnishing the only security against
 chaos, crime, and ignorance--is, through many transmigrations, and amid
@@ -9714,7 +9714,7 @@ a substitute in passing, let us, even if fragmentarily, throw forth a
 short direct or indirect suggestion of the premises of that other plan,
 in the new spirit, under the new forms, started here in our [[America]].
 
-As to the political section of [[democracy|Democracy]], which introduces and breaks
+As to the political section of [[Democracy]], which introduces and breaks
 ground for further and vaster sections, few probably are the minds, even
 in these republican States, that fully comprehend the aptness of that
 phrase, "THE [[government|GOVERNMENT]] OF THE PEOPLE, BY THE PEOPLE, FOR THE PEOPLE,"
@@ -9725,7 +9725,7 @@ and all minutiae of the lesson.
 The People! Like our huge earth itself, which, to ordinary scansion,
 is full of vulgar contradictions and offence, man, viewed in the lump,
 displeases, and is a constant puzzle and affront to the merely educated
-classes. The rare, cosmical, [[Artist|artist]]-mind, lit with the Infinite, [[Alone|alone]]
+classes. The rare, cosmical, [[artist]]-mind, lit with the Infinite, [[Alone|alone]]
 confronts his manifold and oceanic qualities--but taste, intelligence
 and culture, (so-called,) have been against the masses, and remain so.
 There is plenty of glamour about the most damnable crimes and hoggish
@@ -9750,7 +9750,7 @@ of peace or war, far surpassing all the vaunted samples of book-heroes,
 or any _haut ton_ coteries, in all the records of the world.
 
 The movements of the late secession war, and their results, to any sense
-that studies [[Well|well]] and comprehends them, show that popular [[democracy]],
+that studies [[Well|well]] and comprehends them, show that popular [[Democracy|democracy]],
 whatever its faults and dangers, practically justifies itself beyond the
 proudest claims and wildest hopes of its enthusiasts. Probably no future
 age can know, but I [[Well|well]] know, how the gist of this fiercest and most
@@ -9812,7 +9812,7 @@ of man or boy that met the approach of dissolution with cowardly qualms
 or terror. My own observation fully bears out the remark.
 
 What have we here, if not, towering above all talk and argument,
-the plentifully-supplied, last-needed proof of [[democracy]], in its
+the plentifully-supplied, last-needed proof of [[Democracy|democracy]], in its
 personalities? Curiously enough, too, the proof on this point comes,
 I should say, every bit as much from the south, as from the north.
 Although I have spoken only of the latter, yet I deliberately include
@@ -9860,7 +9860,7 @@ transcendent, so incapable of gradations, (like life,) that, to that
 extent, it places all beings on a common level, utterly regardless
 of the distinctions of intellect, virtue, station, or any height or
 lowliness whatever--is tallied in like manner, in this other field, by
-[[democracy]]'s rule that men, the nation, as a common aggregate of living
+[[Democracy|democracy]]'s rule that men, the nation, as a common aggregate of living
 identities, affording in each a separate and complete subject for
 [[Freedom|freedom]], worldly thrift and happiness, and for a fair chance for growth,
 and for protection in citizenship, &c., must, to the political extent
@@ -9868,7 +9868,7 @@ of the suffrage or vote, if no further, be placed, in each and in the
 whole, on one broad, primary, universal, common platform.
 
 The purpose is not altogether direct; perhaps it is more indirect. For
-it is not that [[democracy]] is of exhaustive account, in itself. Perhaps,
+it is not that [[Democracy|democracy]] is of exhaustive account, in itself. Perhaps,
 indeed, it is, (like [[Nature]],) of no account in itself. It is that, as
 we see, it is the best, perhaps only, fit and full means, formulater,
 general caller-forth, trainer, for the million, not for grand material
@@ -9895,7 +9895,7 @@ the rest to the sentimentalists, we present [[Freedom|freedom]] as sufficient in
 its scientific aspect, cold as ice, reasoning, deductive, clear and
 passionless as crystal.
 
-[[democracy|Democracy]] too is law, and of the strictest, amplest kind. Many suppose,
+[[Democracy]] too is law, and of the strictest, amplest kind. Many suppose,
 (and often in its own ranks the error,) that it means a throwing aside
 of law, and running riot. But, briefly, it is the superior law, not
 [[Alone|alone]] that of physical force, the [[Body|body]], which, adding to, it supersedes
@@ -9915,7 +9915,7 @@ exclusive. The master sees [[Greatness|greatness]] and health in being part of t
 mass; nothing will do as [[Well|well]] as common ground. Would you have in
 yourself the divine, vast, general law? Then merge yourself in it.
 
-And, topping [[democracy]], this most alluring record, that it [[Alone|alone]] can
+And, topping [[Democracy|democracy]], this most alluring record, that it [[Alone|alone]] can
 bind, and ever seeks to bind, all nations, all men, of however various
 and distant lands, into a brotherhood, a family. It is the old, yet
 ever-modern dream of earth, out of her eldest and her youngest, her
@@ -9924,7 +9924,7 @@ isolates. There is another half, which is adhesiveness or [[Love|love]], that
 fuses, ties and aggregates, making the races comrades, and fraternizing
 all. Both are to be vitalized by religion, (sole worthiest elevator of
 man or State,) breathing into the proud, material tissues, the breath
-of life. For I say at the core of [[democracy]], finally, is the religious
+of life. For I say at the core of [[Democracy|democracy]], finally, is the religious
 element. All the religions, old and new, are there. Nor may the scheme
 step forth, clothed in resplendent [[Beauty|beauty]] and command, till these,
 bearing the best, the latest fruit, the spiritual, shall fully appear.
@@ -9939,18 +9939,18 @@ Solidarity has arisen. Of all dangers to a nation, as things exist in
 our day, there can be no greater one than having certain portions of
 the people set off from the rest by a line drawn--they not privileged
 as others, but degraded, humiliated, made of no account. Much quackery
-teems, of course, even on [[democracy]]'s side, yet does not really affect
+teems, of course, even on [[Democracy|democracy]]'s side, yet does not really affect
 the orbic quality of the matter. To work in, if we may so term it, and
 justify God, his divine aggregate, the People, (or, the veritable horn'd
 and sharp-tail'd Devil, _his_ aggregate, if there be who convulsively
-insist upon it)--this, I say, is what [[democracy]] is for; and this is what
+insist upon it)--this, I say, is what [[Democracy|democracy]] is for; and this is what
 our [[America]] means, and is doing--may I not say, has done? If not, she
 means nothing more, and does nothing more, than any other land. And as,
 by virtue of its kosmical, antiseptic power, [[Nature]]'s stomach is fully
 strong enough not only to digest the morbific matter always presented,
 not to be turn'd aside, and perhaps, indeed, intuitively gravitating
 thither--but even to change such contributions into nutriment for
-highest use and life--so American [[democracy]]'s. That is the lesson we,
+highest use and life--so American [[Democracy|democracy]]'s. That is the lesson we,
 these days, send over to European lands by every western breeze.
 
 And, truly, whatever may be said in the way of abstract argument, for
@@ -9975,7 +9975,7 @@ to ossify us. The former is to be treated with indulgence, and even with
 respect. As circulation to air, so is agitation and a plentiful degree
 of speculative license to political and moral [[Sanity|sanity]]. Indirectly, but
 surely, goodness, virtue, law, (of the very best,) follow [[Freedom|freedom]].
-These, to [[democracy]], are what the keel is to the [[Ship|ship]], or saltness to
+These, to [[Democracy|democracy]], are what the keel is to the [[Ship|ship]], or saltness to
 the ocean.
 
 The true gravitation-hold of liberalism in the United States will be
@@ -9987,7 +9987,7 @@ exercise and profit thereof, so a great and varied nationality,
 occupying millions of square miles, were firmest held and knit by the
 principle of the safety and [[Endurance|endurance]] of the aggregate of its middling
 property owners. So that, from another point of view, ungracious as it
-may sound, and a [[Paradox|paradox]] after what we have been saying, [[democracy]] looks
+may sound, and a [[Paradox|paradox]] after what we have been saying, [[Democracy|democracy]] looks
 with suspicious, ill-satisfied eye upon the very poor, the ignorant, and
 on those out of business. She asks for men and women with occupations,
 [[Well|well]]-off, owners of houses and acres, and with cash in the bank--and
@@ -10034,7 +10034,7 @@ admitting no demonstration but its own. While from the west itself
 comes solid personality, with [[Blood|blood]] and brawn, and the deep quality of
 all-accepting fusion.
 
-Political [[democracy]], as it exists and practically works in [[America]],
+Political [[Democracy|democracy]], as it exists and practically works in [[America]],
 with all its threatening evils, supplies a training-school for making
 first-class men. It is life's gymnasium, not of good only, but of
 all. We try often, though we fall back often. A brave delight, fit for
@@ -10136,13 +10136,13 @@ Dominion strong is the [[Body|body]]'s; dominion stronger is the mind's. What
 has fill'd, and fills to-day our intellect, our fancy, furnishing the
 standards therein, is yet foreign. The great [[Poems|poems]], Shakspere included,
 are poisonous to the idea of the [[Pride|pride]] and dignity of the common people,
-the life-[[Blood|blood]] of [[democracy]]. The models of our literature, as we get
+the life-[[Blood|blood]] of [[Democracy|democracy]]. The models of our literature, as we get
 it from other lands, ultra-marine, have had their birth in courts, and
 bask'd and grown in [[Castle|castle]] sunshine; all smells of princes' favors. Of
 workers of a certain sort, we have, indeed, plenty, contributing after
 their kind; many elegant, many learn'd, all complacent. But touch'd by
 the national test, or tried by the standards of democratic personality,
-they wither to ashes. I say I have not seen a single writer, [[Artist|artist]],
+they wither to ashes. I say I have not seen a single writer, [[artist]],
 lecturer, or what-not, that has confronted the voiceless but ever erect
 and active, pervading, underlying will and typic [[Aspiration|aspiration]] of the
 land, in a spirit kindred to itself. Do you call those genteel little
@@ -10151,7 +10151,7 @@ paste-pot work, American art, American drama, taste, verse? I think I
 hear, echoed as from some mountain-top afar in the west, the scornful
 laugh of the Genius of these States.
 
-[[democracy|Democracy]], in [[Silence|silence]], biding its [[Time|time]], ponders its own ideals, not of
+[[Democracy]], in [[Silence|silence]], biding its [[Time|time]], ponders its own ideals, not of
 literature and art only--not of men only, but of women. The idea of the
 women of [[America]], (extricated from this daze, this fossil and unhealthy
 air which hangs about the word _lady_,) develop'd, raised to become the
@@ -10165,18 +10165,18 @@ stormy life.
 
 Then, as towards our thought's final�, (and, in that, overarching the
 true scholar's lesson,) we have to say there can be no complete or
-epical presentation of [[democracy]] in the aggregate, or anything like it,
+epical presentation of [[Democracy|democracy]] in the aggregate, or anything like it,
 at this day, because its doctrines will only be effectually incarnated
 in any one branch, when, in all, their spirit is at the root and centre.
 Far, far, indeed, stretch, in distance, our Vistas! How much is still
 to be disentangled, freed! How long it takes to make this American world
 see that it is, in itself, the final authority and reliance!
 
-Did you, too, O friend, suppose [[democracy]] was only for elections, for
-politics, and for a party name? I say [[democracy]] is only of use there
+Did you, too, O friend, suppose [[Democracy|democracy]] was only for elections, for
+politics, and for a party name? I say [[Democracy|democracy]] is only of use there
 that it may pass on and come to its flower and fruits in manners, in
 the highest forms of interaction between men, and their beliefs--in
-religion, literature, colleges, and schools--[[democracy]] in all public and
+religion, literature, colleges, and schools--[[Democracy|democracy]] in all public and
 private life, and in the army and navy.[26] I have intimated that, as a
 paramount scheme, it has yet few or no full realizers and believers.
 I do not see, either, that it owes any serious thanks to noted
@@ -10189,7 +10189,7 @@ latent, [[Well|well]] down in the hearts of the fair average of the American-bor
 people, mainly in the agricultural regions. But it is not yet, there or
 anywhere, the fully-receiv'd, the fervid, the absolute [[Faith|faith]].
 
-I submit, therefore, that the fruition of [[democracy]], on aught like a
+I submit, therefore, that the fruition of [[Democracy|democracy]], on aught like a
 grand scale, resides altogether in the future. As, under any profound
 and comprehensive view of the gorgeous-composite feudal world, we see
 in it, through the long ages and cycles of ages, the results of a deep,
@@ -10237,7 +10237,7 @@ or heart-wearying postponements, we have never deserted, never
 
 So much contributed, to be conn'd [[Well|well]], to help prepare and brace our
 edifice, our plann'd Idea--we still proceed to give it in another of its
-aspects--perhaps the main, the high fa�ade of all. For to [[democracy]],
+aspects--perhaps the main, the high fa�ade of all. For to [[Democracy|democracy]],
 the leveler, the unyielding principle of the average, is surely join'd
 another principle, equally unyielding, closely tracking the first,
 indispensable to it, opposite, (as the sexes are opposite,) and whose
@@ -10258,7 +10258,7 @@ machinery of aggregate [[America]].
 And, if we think of it, what does civilization itself rest upon--and
 what object has it, with its religions, arts, schools, &c., but rich,
 luxuriant, varied personalism? To that, all bends; and it is because
-toward such result [[democracy]] [[Alone|alone]], on anything like [[Nature]]'s scale,
+toward such result [[Democracy|democracy]] [[Alone|alone]], on anything like [[Nature]]'s scale,
 breaks up the limitless fallows of humankind, and plants the seed, and
 gives fair play, that its claims now precede the rest. The literature,
 [[songs]], esthetics, &c., of a country are of importance principally
@@ -10271,7 +10271,7 @@ within their spheres, which is becoming to them, each after its kind,
 so will individuality, with unimpeded branchings, flourish best under
 imperial republican forms.
 
-Assuming [[democracy|Democracy]] to be at present in its embryo condition, and that
+Assuming [[Democracy]] to be at present in its embryo condition, and that
 the only large and satisfactory justification of it resides in the
 future, mainly through the copious production of perfect characters
 among the people, and through the advent of a sane and pervading
@@ -10284,7 +10284,7 @@ leaving it to those who come after me to do much better. (The service,
 in fact, if any, must be to break a sort of first path or track, no
 matter how rude and ungeometrical.)
 
-We have frequently printed the word [[democracy|Democracy]]. Yet I cannot too often
+We have frequently printed the word [[Democracy]]. Yet I cannot too often
 repeat that it is a word the real gist of which still sleeps, quite
 unawaken'd, notwithstanding the resonance and the many angry tempests
 out of which its syllables have come, from pen or tongue. It is a great
@@ -10351,7 +10351,7 @@ singularly unaware that the models of persons, books, manners, &c.,
 appropriate for former conditions and for European lands, are but exiles
 and exotics here. No current of her life, as shown on the surfaces of
 what is authoritatively called her society, accepts or runs into social
-or esthetic [[democracy]]; but all the currents set squarely against it.
+or esthetic [[Democracy|democracy]]; but all the currents set squarely against it.
 Never, in the Old World, was thoroughly upholster'd exterior appearance
 and show, mental and other, built entirely on the idea of caste, and on
 the sufficiency of mere outside acquisition--never were glibness, verbal
@@ -10441,7 +10441,7 @@ Manners, costumes, too, though important, we need not dwell upon here.
 Like [[Beauty|beauty]], grace of motion, &c., they are results. Causes, original
 things, being attended to, the right manners unerringly follow. Much
 is said, among artists, of "the grand style," as if it were a thing by
-itself. When a man, [[Artist|artist]] or whoever, has health, [[Pride|pride]], acuteness,
+itself. When a man, [[artist]] or whoever, has health, [[Pride|pride]], acuteness,
 noble aspirations, he has the motive-elements of the grandest style. The
 rest is but manipulation, (yet that is no small matter.)
 
@@ -10644,7 +10644,7 @@ them, as you, at your best, we too evoke the last, the needed help, to
 vitalize our country and our days. Thus we pronounce not so much against
 the principle of culture; we only supervise it, and promulge along with
 it, as deep, perhaps a deeper, principle. As we have shown the New World
-including in itself the all-leveling aggregate of [[democracy]], we show
+including in itself the all-leveling aggregate of [[Democracy|democracy]], we show
 it also including the all-varied, all-permitting, all-free theorem of
 individuality, and erecting therefor a lofty and hitherto unoccupied
 framework or platform, broad enough for all, eligible to every farmer
@@ -10780,7 +10780,7 @@ shapes of physical and esthetic proportion; Roman, lord of [[Satire|satire]], th
 [[Sword|sword]], and the codex;--of the figures, some far off and veil'd, others
 nearer and visible; [[Dante]], stalking with lean form, nothing but fibre,
 not a grain of superfluous flesh; [[Angelo]], and the great painters,
-architects, musicians; rich Shakspere, luxuriant as the sun, [[Artist|artist]] and
+architects, musicians; rich Shakspere, luxuriant as the sun, [[artist]] and
 singer of feudalism in its sunset, with all the gorgeous colors, owner
 thereof, and using them at will; and so to such as German Kant and
 Hegel, where they, though near us, leaping over the ages, sit again,
@@ -10911,7 +10911,7 @@ more rich and free, to be evidenced by original authors and poets
 to come, by American personalities, plenty of them, male and female,
 traversing the States, none excepted--and by native superber
 tableaux and growths of language, [[songs]], operas, orations, lectures,
-architecture--and by a [[Sublime|sublime]] and serious Religious [[democracy|Democracy]] sternly
+architecture--and by a [[Sublime|sublime]] and serious Religious [[Democracy]] sternly
 taking command, dissolving the old, sloughing off surfaces, and from
 its own interior and vital principles, reconstructing, democratizing
 society.
@@ -11133,7 +11133,7 @@ In the prophetic literature of these States, (the reader of my
 speculations will miss their principal stress unless he allows [[Well|well]] for
 the point that a new Literature, perhaps a new Metaphysics, certainly a
 new Poetry, are to be, in my opinion, the only sure and worthy supports
-and expressions of the American [[democracy|Democracy]],) [[Nature]], true [[Nature]], and
+and expressions of the American [[Democracy]],) [[Nature]], true [[Nature]], and
 the true idea of [[Nature]], long absent, must, above all, become fully
 restored, enlarged, and must furnish the pervading atmosphere to [[Poems|poems]],
 and the test of all high literary and esthetic compositions. I do not
@@ -11178,7 +11178,7 @@ demand for facts, even the business materialism of the current age,
 our States. But we to the age or land in which these things, movements,
 stopping at themselves, do not tend to ideas. As fuel to flame, and
 flame to the heavens, so must wealth, science, materialism--even this
-[[democracy]] of which we make so much--unerringly feed the highest mind,
+[[Democracy|democracy]] of which we make so much--unerringly feed the highest mind,
 the [[Soul|soul]]. Infinitude the flight: fathomless the mystery. Man, so
 diminutive, dilates beyond the sensible universe, competes with,
 outcopes space and [[Time|time]], meditating even one great idea. Thus, and
@@ -11202,7 +11202,7 @@ the shows and forms presented by [[Nature]], the sensuous luxuriance, the
 beautiful in living men and women, the actual play of passions, in
 [[history]] and life--and, above all, from those developments either in
 [[Nature]] or human personality in which power, (dearest of all to the sense
-of the [[Artist|artist]],) transacts itself-out of these, and seizing what is in
+of the [[artist]],) transacts itself-out of these, and seizing what is in
 them, the poet, the esthetic worker in any field, by the divine [[Magic|magic]]
 of his genius, projects them, their analogies, by curious removes,
 indirections, in literature and art. (No useless attempt to repeat
@@ -11217,7 +11217,7 @@ waiting, can breathe into it the breath of life, and endow it with
 read before the Social Science Convention at [[New York]], October, 1869,
 "The true question to ask respecting a book, is, _has it help'd any
 human [[Soul|soul]]?_" This is the hint, statement, not only of the great
-literatus, his book, but of every great [[Artist|artist]]. It may be that all works
+literatus, his book, but of every great [[artist]]. It may be that all works
 of art are to be first tried by their art qualities, their image-forming
 talent, and their dramatic, pictorial, plot-constructing, euphonious and
 other talents. Then, whenever claiming to be first-class works, they are
@@ -11241,7 +11241,7 @@ poem,) existing calmly in the divine scheme, containing all, content,
 careless of the criticisms of a day, or these endless and wordy
 chatterers. And lo! to the consciousness of the [[Soul|soul]], the permanent
 [[Identity|identity]], the thought, the something, before which the magnitude even
-of [[democracy]], art, literature, &c., dwindles, becomes partial,
+of [[Democracy|democracy]], art, literature, &c., dwindles, becomes partial,
 measurable--something that fully satisfies, (which those do not.) That
 something is the All, and the idea of All, with the accompanying idea
 of [[Eternity|eternity]], and of itself, the [[Soul|soul]], buoyant, indestructible, sailing
@@ -11291,12 +11291,12 @@ political world is not so much legislation, police, treaties, and dread
 of punishment, as the latent eternal intuitional sense, in humanity,
 of fairness, manliness, decorum, &c. Indeed, this perennial regulation,
 control, and oversight, by [[Self|self]]-suppliance, is _sine qua non_ to
-[[democracy]]; and a highest widest aim of democratic literature may [[Well|well]]
+[[Democracy|democracy]]; and a highest widest aim of democratic literature may [[Well|well]]
 be to bring forth, cultivate, brace, and strengthen this sense, in
 individuals and society. A strong mastership of the general inferior
 [[Self|self]] by the superior [[Self|self]], is to be aided, secured, indirectly, but
 surely, by the literatus, in his works, shaping, for individual or
-aggregate [[democracy]], a great passionate [[Body|body]], in and along with which
+aggregate [[Democracy|democracy]], a great passionate [[Body|body]], in and along with which
 goes a great masterful spirit.
 
 And still, providing for contingencies, I fain confront the fact, the
@@ -11309,7 +11309,7 @@ competition, segregation, vicious wilfulness, and license beyond
 example, brood already upon us. Unwieldy and immense, who shall hold in
 behemoth? who bridle leviathan? Flaunt it as we choose, athwart and
 over the roads of our progress loom huge uncertainty, and dreadful,
-threatening gloom. It is useless to deny it: [[democracy|Democracy]] grows rankly up
+threatening gloom. It is useless to deny it: [[Democracy]] grows rankly up
 the thickest, noxious, deadliest plants and fruits of all--brings worse
 and worse invaders--needs newer, larger, stronger, keener compensations
 and compellers.
@@ -11340,7 +11340,7 @@ the roads, the only plans of development, long and varied with all
 terrible balks and ebullitions. You said in your [[Soul|soul]], I will be empire
 of empires, overshadowing all else, past and present, putting
 the [[history]] of Old-World dynasties, conquests behind me, as of no
-account--making a new [[history]], a [[history]] of [[democracy]], making old
+account--making a new [[history]], a [[history]] of [[Democracy|democracy]], making old
 [[history]] a [[Dwarf|dwarf]]--I [[Alone|alone]] inaugurating largeness, culminating [[Time|time]]. If
 these, O lands of [[America]], are indeed the prizes, the determinations of
 your [[Soul|soul]], be it so. But behold the cost, and already specimens of the
@@ -11591,7 +11591,7 @@ lands, have been creators, fashioning, making types of men and women,
 as Adam and Eve are made in the divine [[Fable|fable]]. Behold, shaped, bred by
 orientalism, feudalism, through their long growth and culmination, and
 breeding back in return--(when shall we have an equal series, typical of
-[[democracy]]?)--behold, commencing in primal Asia, (apparently formulated,
+[[Democracy|democracy]]?)--behold, commencing in primal Asia, (apparently formulated,
 in what beginning we know, in the gods of the mythologies, and coming
 down thence,) a few samples out of the countless product, bequeath'd to
 the moderns, bequeath'd to [[America]] as studies. For the men, Yudishtura,
@@ -11613,7 +11613,7 @@ or as perfect human mother, does not hitherto, it seems to me, fully
 appear in literature.)
 
 [28] Note, to-day, an instructive, curious spectacle and conflict.
-Science, (twin in its fields, of [[democracy|Democracy]] in its)--Science, testing
+Science, (twin in its fields, of [[Democracy]] in its)--Science, testing
 absolutely all thoughts, all works, has already burst [[Well|well]] upon the
 world--a sun, mounting, most illuminating, most glorious--surely never
 again to set. But against it, deeply entrench'd, holding possession, yet
@@ -11626,7 +11626,7 @@ the mythic-materialistic, superstitious, untaught and credulous,
 of that fervid [[Comradeship|comradeship]], (the adhesive [[Love|love]], at least rivaling the
 amative [[Love|love]] hitherto possessing imaginative literature, if not going
 beyond it,) that I look for the counterbalance and offset of
-our materialistic and vulgar American [[democracy]], and for the
+our materialistic and vulgar American [[Democracy|democracy]], and for the
 spiritualization thereof. Many will say it is [[A Dream|a dream]], and will not
 follow my inferences: but I confidently expect a [[Time|time]] when there will
 be seen, running like a half-hid warp through all the myriad audible and
@@ -11634,7 +11634,7 @@ visible worldly interests of [[America]], threads of manly [[Friendship|friendsh
 and loving, pure and sweet, strong and life-long, carried to degrees
 hitherto unknown--not only giving tone to individual character, and
 making it unprecedently emotional, muscular, heroic, and refined, but
-having the deepest relations to general politics. I say [[democracy]] infers
+having the deepest relations to general politics. I say [[Democracy|democracy]] infers
 such loving [[Comradeship|comradeship]], as its most inevitable twin or counterpart,
 without which it will be incomplete, in vain, and incapable of
 perpetuating itself.
@@ -11693,7 +11693,7 @@ idea of All, suffusing universe, of eternal trains of purpose, in
 the development, by however slow degrees, of the physical, moral, and
 spiritual kosmos. I say he has studied, meditated to no profit,
 whatever may be his mere erudition, who has not absorbed this simple
-consciousness and [[Faith|faith]]. It is not entirely new--but it is for [[democracy|Democracy]]
+consciousness and [[Faith|faith]]. It is not entirely new--but it is for [[Democracy]]
 to elaborate it, and look to build upon and expand from it, with
 uncompromising reliance. Above the doors of teaching the [[Inscription|inscription]] is
 to appear, Though little or nothing can be absolutely known, perceiv'd,
@@ -11854,7 +11854,7 @@ inured to the southern States themselves.) That our national democratic
 experiment, principle, and machinery, could triumphantly sustain such a
 shock, and that the Constitution could weather it, like a [[Ship|ship]] a [[Storm|storm]],
 and come out of it as sound and whole as before, is by far the most
-signal proof yet of the stability of that experiment, [[democracy|Democracy]], and of
+signal proof yet of the stability of that experiment, [[Democracy]], and of
 those principles, and that Constitution.
 
 Of the war itself, we know in the ostent what has been done. The numbers
@@ -11985,8 +11985,8 @@ antiseptic of the [[Soul|soul]]--it pervades the common people and preserves
 them--they never give up believing and expecting and trusting. There
 is that indescribable freshness and unconsciousness about an illiterate
 person, that humbles and mocks the power of the noblest expressive
-genius. The poet sees for a certainty how one not a great [[Artist|artist]] may be
-just as sacred and perfect as the greatest [[Artist|artist]].
+genius. The poet sees for a certainty how one not a great [[artist]] may be
+just as sacred and perfect as the greatest [[artist]].
 
 The power to destroy or remould is freely used by the greatest poet, but
 seldom the power of attack. What is past is past. If he does not expose
@@ -12445,7 +12445,7 @@ of the breasts of the Mother of Many Children?
 
 [[America]] prepares with Composure and good-will for the visitors that have
 sent word. It is not intellect that is to be their warrant and welcome.
-The talented, the [[Artist|artist]], the ingenious, the editor, the statesman, the
+The talented, the [[artist]], the ingenious, the editor, the statesman, the
 erudite, are not unappreciated--they fall in their place and do their
 work. The [[Soul|soul]] of the nation also does its work. It rejects none, it
 permits all. Only toward the like of itself will it advance half-way. An
@@ -12457,7 +12457,7 @@ PREFACE, 1872 To As a Strong Bird on Pinions Free Now Thou Mother with
 thy Equal Brood, _in permanent edition_.
 
 The impetus and ideas urging me, for some years past, to an utterance,
-or attempt at utterance, of New World [[songs]], and an [[Epic|epic]] of [[democracy|Democracy]],
+or attempt at utterance, of New World [[songs]], and an [[Epic|epic]] of [[Democracy]],
 having already had their publish'd expression, as [[Well|well]] as I can expect
 to give it, in "[[Leaves]] of Grass," the present and any future pieces from
 me are really but the surplusage forming after that volume, or the wake
@@ -12573,7 +12573,7 @@ the way for One indescribably grander--[[Time]]'s young but perfect
 offspring--the new theology--heir of the West--lusty and loving, and
 wondrous beautiful. For [[America]], and for today, just the same as any
 day, the supreme and final science is the science of God--what we call
-science being only its minister--as [[democracy|Democracy]] is, or shall be also. And
+science being only its minister--as [[Democracy]] is, or shall be also. And
 a poet of [[America]] (I said) must fill himself with such thoughts, and
 chant his best out of them. And as those were the convictions and aims,
 for good or bad, of "[[Leaves]] of Grass," they are no less the intention
@@ -12592,7 +12592,7 @@ must begin to learn that religion, (like poetry,) is something far, far
 different from what they supposed. It is, indeed, too important to the
 power and perpetuity of the New World to be consign'd any longer to the
 churches, old or new, Catholic or Protestant--Saint this, or Saint
-that. It must be consign'd henceforth to [[democracy]] _en masse_, and to
+that. It must be consign'd henceforth to [[Democracy|democracy]] _en masse_, and to
 literature. It must enter into the [[Poems|poems]] of the nation. It must make the
 nation.
 
@@ -12675,7 +12675,7 @@ divides into these two, at first sight far diverse, veins of topic and
 treatment. Three points, in especial, have become very dear to me,
 and all through I seek to make them again and again, in many forms and
 repetitions, as will be seen: 1. That the true growth-characteristics
-of the [[democracy]] of the New World are henceforth to radiate in superior
+of the [[Democracy|democracy]] of the New World are henceforth to radiate in superior
 literary, artistic and religious expressions, far more than in its
 republican forms, universal suffrage, and frequent elections, (though
 these are unspeakably important.) 2. That the vital political mission of
@@ -12775,7 +12775,7 @@ objective worlds. To me
 
       The [[Prophet|prophet]] and the bard,
     Shall yet maintain themselves--in higher circles yet,
-    Shall mediate to the modern, to [[democracy]]--interpret yet to them,
+    Shall mediate to the modern, to [[Democracy|democracy]]--interpret yet to them,
       God and eid�lons.
 
 To me, the [[Crown|crown]] of savantism is to be, that it surely opens the way for
@@ -12858,7 +12858,7 @@ ultimate Democratic purports, the ethereal and spiritual ones, are to
 concentrate here, and as fixed [[Stars|stars]], radiate hence. For, in my opinion,
 it is no less than this idea of [[Immortality|immortality]], above all other ideas,
 that is to enter into, and vivify, and give crowning religious stamp, to
-[[democracy]] in the New World.
+[[Democracy|democracy]] in the New World.
 
 It was originally my intention, after chanting in "[[Leaves]] of Grass"
 the [[songs]] of the [[Body|body]] and existence, to then compose a further, equally
@@ -12884,7 +12884,7 @@ end my books with thoughts, or radiations from thoughts, on [[Death|death]],
 thoughts, in a sort, I make the first steps or studies toward the mighty
 theme, from the point of view necessitated by my foregoing [[Poems|poems]], and
 by modern science. In them I also seek to set the key-stone to my
-[[democracy]]'s enduring arch. I recollate them now, for the press, in
+[[Democracy|democracy]]'s enduring arch. I recollate them now, for the press, in
 order to partially occupy and offset days of strange sickness, and the
 heaviest affliction and bereavement of my life; and I fondly please
 myself with the notion of leaving that cluster to you, O unknown reader
@@ -13033,7 +13033,7 @@ Then, for enclosing clue of all, it is imperatively and ever to be
 borne in mind that "[[Leaves]] of Grass" entire is not to be construed as an
 intellectual or scholastic effort or poem mainly, but more as a radical
 utterance out of the Emotions and the Physique--an utterance adjusted
-to, perhaps born of, [[democracy|Democracy]] and the Modern--in its very [[Nature|nature]]
+to, perhaps born of, [[Democracy]] and the Modern--in its very [[Nature|nature]]
 regardless of the old conventions, and, under the great laws, following
 only its own impulses.
 
@@ -13072,7 +13072,7 @@ With the [[Poems|poems]] of a first-class land are twined, as weft with warp, it
 types of personal character, of individuality, peculiar, native, its
 own physiognomy, man's and woman's, its own shapes, forms, and manners,
 fully justified under the eternal laws of all forms, all manners, all
-times. The hour has come for [[democracy]] in [[America]] to inaugurate
+times. The hour has come for [[Democracy|democracy]] in [[America]] to inaugurate
 itself in the two directions specified--autochthonic [[Poems|poems]] and
 personalities--born expressers of itself, its spirit [[Alone|alone]], to radiate
 in subtle ways, not only in art, but the practical and familiar, in the
@@ -13102,7 +13102,7 @@ devotion and [[Love|love]] better than elsewhere--invincible [[Courage|courage]]
 [[Aspiration|aspiration]], the spines of all. Here is where Shakspere and the others
 I have named perform a service incalculably precious to our [[America]].
 Politics, literature, and everything else, centers at last in perfect
-_personnel_, (as [[democracy]] is to find the same as the rest;) and here
+_personnel_, (as [[Democracy|democracy]] is to find the same as the rest;) and here
 feudalism is unrival'd--here the rich and highest-rising lessons it
 bequeaths us--a mass of foreign nutriment, which we are to work over,
 and popularize and enlarge, and present again in our own growths.
@@ -13229,7 +13229,7 @@ results in the future I look mainly for a great poetry native to us,
 these importations till then will have to be accepted, such as they are,
 and thankful they are no worse. The inmost spiritual currents of the
 present [[Time|time]] curiously [[Revenge|revenge]] and check their own compell'd tendency
-to [[democracy]], and absorption in it, by mark'd leanings to the past--by
+to [[Democracy|democracy]], and absorption in it, by mark'd leanings to the past--by
 reminiscences in [[Poems|poems]], plots, operas, novels, to a far-off, contrary,
 deceased world, as if they dreaded the great vulgar gulf-tides of
 to-day. Then what has been fifty centuries growing, working in, and
@@ -13299,7 +13299,7 @@ more than appears at first,) and to arouse and initiate, more than to
 define or finish. Like all modern tendencies, it has direct or indirect
 reference continually to the reader, to you or me, to the central
 [[Identity|identity]] of everything, the mighty Ego. (Byron's was a vehement dash,
-with plenty of impatient [[democracy]], but lurid and introverted amid all
+with plenty of impatient [[Democracy|democracy]], but lurid and introverted amid all
 its magnetism; not at all the fitting, lasting [[Song|song]] of a grand, secure,
 free, sunny race.) It is more akin, likewise, to outside life and
 landscape, (returning mainly to the antique feeling,) real sun and gale,
@@ -13378,7 +13378,7 @@ between Deity on one side and somebody else on the other--not [[Milton]],
 not even Shakspere's plays, grand as they are. Entirely different and
 hitherto unknown Classes of men, being authoritatively called for in
 imaginative literature, will certainly appear. What is hitherto most
-lacking, perhaps most absolutely indicates the future. [[democracy|Democracy]] has
+lacking, perhaps most absolutely indicates the future. [[Democracy]] has
 been hurried on through [[Time|time]] by measureless tides and winds, resistless
 as the revolution of the globe, and as far-reaching and rapid. But in
 the highest walks of art it has not yet had a single representative
@@ -13465,7 +13465,7 @@ disgraced Enid and himself through the wood, and the wife all day
 driving the horses,) as in all the great imported art-works, treatises
 systems, from Lucretius down, there is a constantly lurking often
 pervading something, that will have to be eliminated, as not only
-unsuited to modern [[democracy]] and science in [[America]], but insulting to
+unsuited to modern [[Democracy|democracy]] and science in [[America]], but insulting to
 them, and disproved by them.[37]
 
 Still, the rule and demesne of poetry will always be not the exterior,
@@ -13509,7 +13509,7 @@ miles.
 
 Long, long are the processes of the development of a nationality Only
 to the rapt vision does the seen become the prophecy of the unseen.[38]
-[[democracy|Democracy]], so far attending only to the real, is not for the real only,
+[[Democracy]], so far attending only to the real, is not for the real only,
 but the grandest ideal--to justify the modern by that, and not only to
 equal, but to become by that superior to the past.
 
@@ -13537,7 +13537,7 @@ its essential future since.
 
 Meantime, we can (perhaps) do no better than to saturate ourselves with,
 and continue to give imitations, yet awhile, of the esthetic models,
-supplies, of that past and of those lands we [[Spring|spring]] from. Those wondrous
+supplies, of that past and of those lands we [[spring]] from. Those wondrous
 stores, reminiscences, floods, currents! Let them flow on, flow hither
 freely. And let the sources be enlarged, to include not only the works
 of British origin, as now, but stately and devout Spain, courteous
@@ -13570,7 +13570,7 @@ afternoon. And how they are chanted--both poets! Happy those kings and
 nobles to be so sung, so told! To run their course--to get their deeds
 and shapes in lasting pigments--the very pomp and dazzle of the sunset!
 
-Meanwhile, [[democracy]] waits the coming of its bards in [[Silence|silence]] and in
+Meanwhile, [[Democracy|democracy]] waits the coming of its bards in [[Silence|silence]] and in
 twilight--but 'tis the twilight of the [[Dawn|dawn]].
 
 Notes:
@@ -14267,11 +14267,11 @@ as any, any age--belong altogether to our own, and our autochthonic.
 (Sometimes indeed I think our American days, our own stage--the actors
 we know and have shaken hands, or talk'd with--more fateful than
 anything in Eschylus--more heroic than the fighters around Troy--afford
-kings of men for our [[democracy|Democracy]] prouder than [[Agamemnon]]--models of
+kings of men for our [[Democracy]] prouder than [[Agamemnon]]--models of
 character cute and hardy as [[Ulysses]]--deaths more pitiful than Priam's.)
 
 When, centuries hence, (as it must, in my opinion, be centuries hence
-before the life of these States, or of [[democracy|Democracy]], can be really written
+before the life of these States, or of [[Democracy]], can be really written
 and illustrated,) the leading historians and dramatists seek for some
 personage, some special event, incisive enough to mark with deepest
 cut, and mnemonize, this turbulent Nineteenth century of ours, (not only
@@ -14286,7 +14286,7 @@ historians will seek in vain for any point to serve more thoroughly
 their purpose, than [[Abraham Lincoln]]'s [[Death|death]].
 
 Dear to the Muse--thrice dear to Nationality--to the whole human
-race--precious to this [[Union]]--precious to [[democracy|Democracy]]--unspeakably and
+race--precious to this [[Union]]--precious to [[Democracy]]--unspeakably and
 forever precious--their first great Martyr Chief.
 
 TWO LETTERS
@@ -14408,7 +14408,7 @@ fullness of individuality, even the sanest, would surely destroy itself.
 This is what makes the importance to the identities of these States
 of the thoroughly fused, relentless, dominating [[Union]]--a moral and
 spiritual idea, subjecting all the parts with remorseless power, more
-needed by American [[democracy]] than by any of [[history]]'s hitherto empires
+needed by American [[Democracy|democracy]] than by any of [[history]]'s hitherto empires
 or feudalities, and the _sine qua non_ of carrying out the republican
 principle to develop itself in the New World through hundreds, thousands
 of years to come.
@@ -14443,7 +14443,7 @@ rights, and some as zealously for the other set. We must have both; or
 rather, bred out of them, as out of mother and father, a third set, the
 perennial result and combination of both, and neither jeopardized. I
 say the loss or abdication of one set, in the future, will be ruin to
-[[democracy]] just as much as the loss of the other set. The problem is,
+[[Democracy|democracy]] just as much as the loss of the other set. The problem is,
 to harmoniously adjust the two, and the play of the two. [Observe the
 lesson of the divinity of [[Nature]], ever checking the excess of one law,
 by an opposite, or seemingly opposite law--generally the other side of
@@ -14457,7 +14457,7 @@ aggregate, the [[Union]]. This was the original dual theory and
 foundation of the United States, as distinguish'd from the feudal and
 ecclesiastical single idea of monarchies and papacies, and the divine
 right of kings. (Kings have been of use, hitherto, as representing the
-idea of the [[Identity|identity]] of nations. But, to American [[democracy]], _both_
+idea of the [[Identity|identity]] of nations. But, to American [[Democracy|democracy]], _both_
 ideas must be fulfill'd, and in my opinion the loss of vitality of
 either one will indeed be the loss of vitality of the other.)
 
@@ -14481,7 +14481,7 @@ has said of heroic character that "wherever the tallest peaks are
 present, must inevitably be deep chasms and valleys." Mine be the
 ungracious task (for reasons) of leaving unmention'd both sunny expanses
 and sky-reaching heights, to dwell on the bare spots and darknesses. I
-have a theory that no [[Artist|artist]] or work of the very first class may be or
+have a theory that no [[artist]] or work of the very first class may be or
 can be without them.
 
 First, then, these pages are perhaps too perfect, too concentrated. (How
@@ -14501,7 +14501,7 @@ Longfellow and art? The least suspicion of such actual bull, or Indian,
 or of [[Nature]] carrying out itself, would put all those good people to
 instant terror and flight.
 
-Emerson, in my opinion, is not most eminent as poet or [[Artist|artist]] or
+Emerson, in my opinion, is not most eminent as poet or [[artist]] or
 teacher, though valuable in all those. He is best as critic, or
 diagnoser. Not passion or [[Imagination|imagination]] or warp or weakness, or any
 pronounced cause or specialty, dominates him. Cold and bloodless
@@ -14525,7 +14525,7 @@ manners. He seems to have no notion at all that manners are simply the
 signs by which the chemist or metallurgist knows his metals. To the
 profound scientist, all metals are profound, as they really are. The
 little one, like the conventional world, will make much of gold and
-silver only. Then to the real [[Artist|artist]] in humanity, what are called bad
+silver only. Then to the real [[artist]] in humanity, what are called bad
 manners are often the most picturesque and significant of all. Suppose
 these books becoming absorb'd, the permanent chyle of American general
 and particular character--what a [[Well|well]]-wash'd and grammatical, but
@@ -14713,7 +14713,7 @@ of astral genius, first class, entirely fit for feudalism. His
 contributions, especially to the literature of the passions, are
 immense, forever dear to humanity--and his name is always to be
 reverenced in [[America]]. But there is much in him ever offensive to
-[[democracy]]. He is not only the tally of feudalism, but I should say
+[[Democracy|democracy]]. He is not only the tally of feudalism, but I should say
 Shakspere is incarnated, uncompromising feudalism, in literature. Then
 one seems to detect something in him--I hardly know how to describe
 it--even amid the dazzle of his genius; and, in inferior manifestations,
@@ -14799,7 +14799,7 @@ inexplicable and unreachable as before--maybe more so.
 _Then furthermore_--What is finally to be done by priest or poet--and by
 priest or poet only--amid all the stupendous and dazzling novelties
 of our century, with the advent of [[America]], and of science and
-[[democracy]]--remains just as indispensable, after all the work of the
+[[Democracy|democracy]]--remains just as indispensable, after all the work of the
 grand astronomers, chemists, linguists, historians, and explorers of the
 last hundred years--and the wondrous German and other metaphysicians of
 that [[Time|time]]--and will continue to remain, needed, [[America]] and here,
@@ -14817,7 +14817,7 @@ moulds, current forms.
 
 Meantime, the highest and subtlest and broadest truths of modern science
 wait for their true assignment and last vivid flashes of light--as
-[[democracy|Democracy]] waits for it's--through first-class metaphysicians and
+[[Democracy]] waits for it's--through first-class metaphysicians and
 speculative philosophs--laying the basements and foundations for those
 new, more expanded, more harmonious, more melodious, freer American
 [[Poems|poems]].
@@ -14867,7 +14867,7 @@ personalities. The shallowest and least American persons seem surest
 to push abroad, and call without fail on [[Well|well]]-known foreigners, who are
 doubtless affected with indescribable qualms by these queer ones. Then,
 more than half of our authors and writers evidently think it a
-great thing to be "aristocratic," and sneer at progress, [[democracy]],
+great thing to be "aristocratic," and sneer at progress, [[Democracy|democracy]],
 revolution, etc. If some international literary snobs' gallery were
 establish'd, it is certain that [[America]] could contribute at least her
 full share of the portraits, and some very distinguish'd ones. Observe
@@ -14916,7 +14916,7 @@ domicile?
 
 Beneath the whole political world, what most presses and perplexes
 to-day, sending vastest results affecting the future, is not the
-abstract question of [[democracy]], but of social and economic organization,
+abstract question of [[Democracy|democracy]], but of social and economic organization,
 the treatment of working-people by employers, and all that goes along
 with it--not only the wages-payment part, but a certain spirit and
 principle, to vivify anew these relations; all the questions of
@@ -14966,7 +14966,7 @@ chiffonier-bags on their shoulders, and the usual long iron hooks in
 their hands, plodding along, their eyes cast down, spying for scraps,
 rags, bones, &c.
 
-[[democracy|DEMOCRACY]] IN THE NEW WORLD
+[[Democracy|DEMOCRACY]] IN THE NEW WORLD
 
 Estimated and summ'd-up to-day, having thoroughly justified itself
 the past hundred years, (as far as growth, vitality and power are
@@ -14979,7 +14979,7 @@ to be hush'd, and everything bent with vehemence unmitigated toward the
 urge of victory. But that victory settled, new responsibilities advance.
 I can conceive of no better service in the United States, henceforth,
 by democrats of thorough and heart-felt [[Faith|faith]], than boldly exposing
-the weakness, liabilities and infinite corruptions of [[democracy]]. By the
+the weakness, liabilities and infinite corruptions of [[Democracy|democracy]]. By the
 unprecedented opening-up of humanity en-masse in the United States, the
 last hundred years, under our institutions, not only the good qualities
 of the race, but just as much the bad ones, are prominently brought
@@ -14987,7 +14987,7 @@ forward. Man is about the same, in the main, whether with despotism, or
 whether with [[Freedom|freedom]].
 
 "The ideal form of human society," Canon Kingsley declares, "is
-[[democracy]]. A nation--and were it even possible, a whole world--of free
+[[Democracy|democracy]]. A nation--and were it even possible, a whole world--of free
 men, lifting free foreheads to God and [[Nature]]; calling no man master,
 for One is their master, even God; knowing and doing their duties toward
 the Maker of the universe, and therefore to each other; not from [[Fear|fear]],
@@ -14999,7 +14999,7 @@ God come on earth?"
 
 To this [[Faith|faith]], founded in the ideal, let us hold--and never abandon
 or lose it. Then what a spectacle is _practically_ exhibited by our
-American [[democracy]] to-day!
+American [[Democracy|democracy]] to-day!
 
 FOUNDATION STAGES--THEN OTHERS
 
@@ -15136,7 +15136,7 @@ and mutuality of [[Love|love]], belief, and rapport of interest, between
 the comparatively few successful rich, and the great masses of the
 unsuccessful, the poor? As a mixed political and social question, is not
 this full of dark significance? Is it not worth considering as a problem
-and puzzle in our [[democracy]]--an indispensable want to be supplied?
+and puzzle in our [[Democracy|democracy]]--an indispensable want to be supplied?
 
 RULERS STRICTLY OUT OF THE MASSES
 
@@ -15247,7 +15247,7 @@ furniture, from the silliness and tyranny of local fashions--entire
 than all, a general [[Freedom|freedom]] of One's-[[Self]] from the tyrannic domination
 of vices, habits, appetites, under which nearly every man of us, (often
 the greatest brawler for [[Freedom|freedom]],) is enslav'd. Can we attain such
-enfranchisement--the true [[democracy|Democracy]], and the height of it? While we are
+enfranchisement--the true [[Democracy]], and the height of it? While we are
 from birth to [[Death|death]] the subjects of irresistible law, enclosing every
 movement and minute, we yet escape, by a [[Paradox|paradox]], into true free will.
 Strange as it may seem, we only attain to [[Freedom|freedom]] by a knowledge of, and
@@ -15834,7 +15834,7 @@ He dragg'd his guardian to the earth and fell crushingly upon him,
 choking the shriek the poor victim but just began to utter. Then, with
 monstrous imprecations, he twisted a tight knot around the gasping
 creature's neck, drew a clasp knife from his pocket, and touching the
-[[Spring|spring]], the long sharp blade, too eager for its bloody work, flew open.
+[[spring]], the long sharp blade, too eager for its bloody work, flew open.
 
 During the lull of the [[Storm|storm]], the last strength of the prostrate man
 burst forth into one short loud cry of agony. At the same instant, the
@@ -16429,7 +16429,7 @@ companion of his return--quietly cropp'd the grass at his side.
 An hour nearly pass'd away, and yet the young man slept on. The light
 and heat were not glaring now; a change had come over earth and heaven.
 There were signs of one of those thunderstorms that in our climate
-[[Spring|spring]] up and pass over so quickly and so terribly. Masses of vapor
+[[spring]] up and pass over so quickly and so terribly. Masses of vapor
 loom' d up in the horizon, and a dark [[Shadow|shadow]] settled on the woods and
 fields. The [[Leaves|leaves]] of the great oak rustled together over the youth's
 head. Clouds flitted swiftly in the sky, like bodies of armed men coming
@@ -16634,7 +16634,7 @@ them in their humble way of living. French and Germans visited the [[house]]
 frequently, and quite a number of young Americans too. Probably the
 greatest attraction to the latter was the sweet face of Ninon.
 
-[[Spring]] passed, and [[Summer|summer]] crept in and wasted away, and [[Autumn|autumn]] had
+[[spring|Spring]] passed, and [[Summer|summer]] crept in and wasted away, and [[Autumn|autumn]] had
 arrived. Every New Yorker knows what delicious weather we have, in these
 regions, of the early October days; how calm, clear, and divested of
 sultriness, is the air, and how decently [[Nature|nature]] seems preparing for her
@@ -17206,11 +17206,11 @@ were bright and liquid like the reflection of [[Stars|stars]] in a lake.
 Virtue, (such imagining, then, seem'd conscious to the [[Soul|soul]] of the
 dreamer,) is ever the sinew of true genius. Together, the two in one,
 they are endow'd with immortal strength, and approach loftily to Him
-from whom both [[Spring|spring]]. Yet there are those that having great powers,
+from whom both [[spring]]. Yet there are those that having great powers,
 bend them to the [[Slavery|slavery]] of wrong. God forgive them! for they surely do
 it ignorantly or heedlessly. Oh, could he who lightly tosses around
 him the seeds of evil in his writings, or his enduring thoughts, or his
-chance words--could he see how, haply, they are to [[Spring|spring]] up in distant
+chance words--could he see how, haply, they are to [[spring]] up in distant
 [[Time|time]] and [[Poison|poison]] the air, and putrefy, and cause to sicken--would he not
 shrink back in horror? A bad principle, jestingly spoken--a falsehood,
 but of a word--may taint a whole nation! Let the man to whom the great
@@ -17400,7 +17400,7 @@ prosper'd [[Well|well]], and which has no [[Doubt|doubt]] by this [[Time|time]] 
 call'd a man of fortune.
 
 Not long did sickness of the heart wear into the life and happiness of
-Dumb Kate. One pleasant [[Spring|spring]] day, the neighbors having been called by
+Dumb Kate. One pleasant [[spring]] day, the neighbors having been called by
 a notice the previous morning, the old churchyard was thrown open, and
 a coffin was borne over the early grass that seem'd so delicate with its
 light green hue. There was a new made [[Grave|grave]], and by its side the bier
@@ -17428,7 +17428,7 @@ TALK TO AN ART-[[Union|UNION]]
 
 _A Brooklyn fragment_
 
-It is a beautiful [[Truth|truth]] that all men contain something of the [[Artist|artist]] in
+It is a beautiful [[Truth|truth]] that all men contain something of the [[artist]] in
 them. And perhaps it is the case that the greatest artists live and die,
 the world and themselves alike ignorant what they possess. Who would
 not mourn that an ample palace, of surpassingly graceful architecture,
@@ -17446,11 +17446,11 @@ sensitiveness to moral [[Beauty|beauty]]. Such men are not merely artists, they 
 also artistic material. Washington in some great crisis, Lawrence on
 the bloody deck of the Chesapeake, Mary Stuart at the block, Kossuth
 in captivity, and Mazzini in [[Exile|exile]]--all great rebels and innovators,
-exhibit the highest phases of the [[Artist|artist]] spirit. The painter, the
+exhibit the highest phases of the [[artist]] spirit. The painter, the
 sculptor, the poet, express heroic [[Beauty|beauty]] better in description; but the
 others _are_ heroic [[Beauty|beauty]], the best belov'd of art.
 
-Talk not so much, then, young [[Artist|artist]], of the great old masters, who
+Talk not so much, then, young [[artist]], of the great old masters, who
 but painted and chisell'd. Study not only their productions. There is a
 still higher school for him who would kindle his [[Fire|fire]] with coal from
 the altar of the loftiest and purest art. It is the school of all grand
@@ -17732,7 +17732,7 @@ in the whole Land's name, a welcome to our eminent guests. Visits like
 theirs, and hospitalities, and hand-shaking, and face meeting face,
 and the distant brought near--what divine solvents they are! Travel,
 reciprocity, "interviewing," intercommunion of lands--what are they
-but [[democracy|Democracy]]'s and the highest Law's best aids? O that our own
+but [[Democracy]]'s and the highest Law's best aids? O that our own
 country--that every land in the world--could annually, continually,
 receive the poets, thinkers, scientists, even the official magnates, of
 other lands, as honor'd guests. O that the United States, especially the
@@ -17901,7 +17901,7 @@ Dickens, Mr. Jameson, Dr. Bartol and Bishop Haven have commemorated
 him,) is mostly but a reminiscence.
 
 During my visits to "the Hub," in 1859 and '60 I several times saw and
-heard Father Taylor. In the [[Spring|spring]] or [[Autumn|autumn]], quiet [[Sunday]] forenoons, I
+heard Father Taylor. In the [[spring]] or [[Autumn|autumn]], quiet [[Sunday]] forenoons, I
 liked to go down early to the quaint [[Ship|ship]]-cabin-looking church where the
 old man minister'd--to enter and leisurely scan the building, the low
 ceiling, everything strongly timber'd (polish'd and rubb'd apparently,)
@@ -18155,12 +18155,12 @@ exploring student (who at last surmises everything, and remains certain
 of nothing,) it is possible a future age of criticism, diving deeper,
 mapping the land and lines freer, completer than hitherto, may discover
 in the plays named the scientific (Baconian?) inauguration of modern
-[[democracy]]--furnishing realistic and first-class artistic portraitures
+[[Democracy|democracy]]--furnishing realistic and first-class artistic portraitures
 of the mediaeval world, the feudal personalities, institutes, in their
 morbid accumulations, deposits, upon politics and sociology,--may
 penetrate to that hard-pan, far down and back of the ostent of to-day,
 on which (and on which only) the progressism of the last two centuries
-has built this [[democracy|Democracy]] which now hold's secure lodgment over the whole
+has built this [[Democracy]] which now hold's secure lodgment over the whole
 civilized world.
 
 Whether such was the unconscious, or (as I think likely) the more
@@ -18228,7 +18228,7 @@ nothing--serve as capital foils to the aristocracy. The comedies
 characters, have the unmistakable hue of plays, portraits, made for the
 divertisement only of the �lite of the [[Castle|castle]], and from its point
 of view. The comedies are altogether non-acceptable to [[America]] and
-[[democracy|Democracy]].
+[[Democracy]].
 
 But to the deepest [[Soul|soul]], it seems a shame to pick and choose from
 the riches Shakspere has left us--to criticise his infinitely royal,
@@ -18259,7 +18259,7 @@ an average sample of the good-natured, warm-blooded, proud-spirited,
 amative, alimentive, convivial, young and early-middle-aged man of the
 decent-born middle classes everywhere and any how. Without the race of
 which he is a distinct specimen, (and perhaps his [[Poems|poems]]) [[America]] and
-her powerful [[democracy|Democracy]] could not exist to-day--could not project with
+her powerful [[Democracy]] could not exist to-day--could not project with
 unparallel'd historic sway into the future.
 
 Perhaps the peculiar coloring of the era of Burns needs always first
@@ -18406,7 +18406,7 @@ of rake-helly life and tavern fun--the cantabile of jolly beggars in
 highest jinks--lights and groupings of rank glee and brawny amorousness,
 outvying the best painted pictures of the Dutch school, or any school.
 
-By [[America]] and her [[democracy]] such a poet, I cannot too often repeat,
+By [[America]] and her [[Democracy|democracy]] such a poet, I cannot too often repeat,
 must be kept in loving remembrance; but it is best that discriminations
 be made. His admirers (as at those anniversary suppers, over the "hot
 Scotch") will not accept for their favorite anything less than the
@@ -18437,7 +18437,7 @@ warrant; while Shakspere, and with the greatest warrant, has been called
 monarchical or aristocratic (which he certainly is.) But the splendid
 personalizations of Shakspere, formulated on the largest, freest, most
 heroic, most artistic mould, are to me far dearer as lessons, and more
-precious even as models for [[democracy|Democracy]], than the humdrum samples
+precious even as models for [[Democracy]], than the humdrum samples
 Burns presents. The motives of some of his effusions are certainly
 discreditable personally--one or two of them markedly so. He has,
 moreover, little or no spirituality. This last is his mortal flaw and
@@ -18532,7 +18532,7 @@ and in "Halloween," (to say nothing of a certain cluster, known still to
 a small inner circle in Scotland, but, for good reasons, not published
 anywhere.) In these compositions, especially the first, there is much
 indelicacy (some editions flatly leave it out,) but the composer reigns
-[[Alone|alone]], with handling free and broad and true, and is an [[Artist|artist]]. You may
+[[Alone|alone]], with handling free and broad and true, and is an [[artist]]. You may
 see and feel the man indirectly in his other verses, all of them,
 with more or less life-likeness--but these I have named last call out
 pronouncedly in his own voice,
@@ -18625,7 +18625,7 @@ I should say that all this is a legitimate consequence of the tone
 and convictions of the earlier standards and points of view. Then some
 reflections, down to the hard-pan of this sort of thing.
 
-The course of progressive politics ([[democracy]]) is so certain and
+The course of progressive politics ([[Democracy|democracy]]) is so certain and
 resistless, not only in [[America]] but in Europe, that we can [[Well|well]] afford
 the warning calls, threats, checks, neutralizings, in imaginative
 literature, or any department, of such deep-sounding, and high-soaring
@@ -18651,7 +18651,7 @@ of my friend John Burroughs is entirely true, "his glove is a glove of
 silk, but the hand is a hand of iron." He shows how one can be a royal
 laureate, quite elegant and "aristocratic," and a little queer and
 affected, and at the same [[Time|time]] perfectly manly and natural. As to his
-non-[[democracy]], it fits him [[Well|well]], and I like him the better for it. I
+non-[[Democracy|democracy]], it fits him [[Well|well]], and I like him the better for it. I
 guess we all like to have (I am sure I do) some one who presents those
 sides of a thought, or possibility, different from our own--different
 and yet with a sort of [[Home|home]]-likeness--a tartness and contradiction
@@ -18729,7 +18729,7 @@ perennial rankness and protestantism in speech. As the United States
 inherit by far their most precious possession--the language they talk
 and write--from the Old World, under and out of its feudal institutes,
 I will allow myself to borrow a simile even of those forms farthest
-removed from American [[democracy|Democracy]]. Considering Language then as some
+removed from American [[Democracy]]. Considering Language then as some
 mighty potentate, into the majestic audience-hall of the monarch ever
 enters a personage like one of Shakspere's clowns, and takes position
 there, and plays a part even in the stateliest ceremonies. Such is
@@ -18947,7 +18947,7 @@ buckskin leggings, dark gray surtout, and a soft black hat. His costume
 will bear full observation, and even fashion would accept him. His
 apparel is worn loose and scant enough to show his superb physique,
 especially in neck, chest, and legs. ("The [[Apollo]] Belvidere!" was the
-involuntary exclamation of a famous European [[Artist|artist]] when he first saw a
+involuntary exclamation of a famous European [[artist]] when he first saw a
 full-grown young Choctaw.)
 
 One of the red visitors--a wild, lean-looking Indian, the one in the
@@ -18970,7 +18970,7 @@ physiognomy--something very remote, very lofty, arousing comparisons
 with our own civilized ideals--something that our literature, portrait
 painting, &c., have never caught, and that will almost certainly never
 be transmitted to the future, even as a reminiscence. No biographer, no
-historian, no [[Artist|artist]], has grasp'd it--perhaps could not grasp it. It is
+historian, no [[artist]], has grasp'd it--perhaps could not grasp it. It is
 so different, so far outside our standards of eminent humanity. Their
 feathers, paint--even the empty buffalo skull--did not, to say the
 least, seem any more ludicrous to me than many of the fashions I have
@@ -18992,7 +18992,7 @@ supposed--sometimes quite animated and significant. I had the good
 luck to be invariably receiv'd and treated by all of them in their most
 cordial manner.
 
-[Letter to W. W. from an [[Artist|artist]], B. H., who has been much among the
+[Letter to W. W. from an [[artist]], B. H., who has been much among the
 American Indians:]
 
 "I have just receiv'd your little paper on the Indian delegations. In
@@ -19017,9 +19017,9 @@ from a Greek statue, of course, but as satisfying to the artistic
 perceptions and demand.
 
 "And the worst, or perhaps the best of it all is that it will require
-an [[Artist|artist]]--and a good one--to record the real facts and impressions. Ten
+an [[artist]]--and a good one--to record the real facts and impressions. Ten
 thousand photographs would not have the value of one really finely felt
-painting. Color is all-important. No one but an [[Artist|artist]] knows how much.
+painting. Color is all-important. No one but an [[artist]] knows how much.
 An Indian is only half an Indian without the blue-black hair and
 the brilliant eyes shining out of the wonderful dusky ochre and [[Rose|rose]]
 complexion."
@@ -19479,7 +19479,7 @@ continues:
   has been, and all that is now left of it is the feeble print up
   my brain, the little thrill which [[Memory|memory]] will send along my nerves,
   mine and my neighbors; as we live longer the print and thrill must
-  be feebler, and when we pass away the impress of the great [[Artist|artist]]
+  be feebler, and when we pass away the impress of the great [[artist]]
   will vanish from the world." The regret that a great art should in
   its [[Nature|nature]] be transitory, explains the lively interest which many
   feel in reading anecdotes or descriptions of a great actor.
@@ -19542,7 +19542,7 @@ Orleans Oreste (Racine's "Andromaque") in French. One trait of his
 habits, I have heard, was strict vegetarianism. He was exceptionally
 kind to the brute creation. Every once in a while he would make a break
 for [[Solitude|solitude]] or wild [[Freedom|freedom]], sometimes for a few hours, sometimes for
-days. (He illustrated Plato's rule that to the forming an [[Artist|artist]] of the
+days. (He illustrated Plato's rule that to the forming an [[artist]] of the
 very highest rank a dash of insanity or what the world calls insanity
 is indispensable.) He was a small-sized man--yet sharp observers noticed
 that however crowded the stage might be in certain scenes, Booth
@@ -19709,7 +19709,7 @@ youth, and both players and auditors were of a character and like we
 shall never see again. And so much for the grandest histrion of modern
 times, as near as I can deliberately judge (and the phrenologists put
 my "caution" at 7)--grander, I believe, than Kean in the expression of
-electric passion, the prime eligibility of the tragic [[Artist|artist]]. For
+electric passion, the prime eligibility of the tragic [[artist]]. For
 though those brilliant years had many fine and even magnificent actors,
 undoubtedly at Booth's [[Death|death]] (in 1852) went the last and by far the
 noblest Roman of them all.
@@ -19803,10 +19803,10 @@ the assumption that they present, however indirectly, some views of
 the West and Modern, or of a distinctly western and modern (American)
 tendency, about certain matters. Then, too, the pages include (by
 attempting to illustrate it,) a theory herein immediately mentioned. For
-another and different point of the issue, the Enlightenment, [[democracy|Democracy]]
+another and different point of the issue, the Enlightenment, [[Democracy]]
 and Fair-show of the bulk, the common people of [[America]] (from sources
 representing not only the British Islands, but all the world,) means,
-at least, eligibility to Enlightenment, [[democracy|Democracy]] and Fair-show for the
+at least, eligibility to Enlightenment, [[Democracy]] and Fair-show for the
 bulk, the common people of all civilized nations.
 
 That positively "the dry land has appeared," at any rate, is an
@@ -19954,14 +19954,14 @@ eager questions: "What! have you seen [[Abraham Lincoln]]--and heard him
 speak--and touch'd his hand? Have you, with your own eyes, look'd on
 Grant, and Lee, and Sherman?"
 
-Dear to [[democracy|Democracy]], to the very last! And among the paradoxes generated
+Dear to [[Democracy]], to the very last! And among the paradoxes generated
 by [[America]], not the least curious was that spectacle of all the kings
 and queens and emperors of the earth, many from remote distances,
 sending tributes of condolence and sorrow in [[Memory|memory]] of one rais'd
 through the commonest average of life--a rail-splitter and flat-boatman!
 
 Consider'd from contemporary points of view--who knows what the future
-may decide?--and from the points of view of current [[democracy|Democracy]] and The
+may decide?--and from the points of view of current [[Democracy]] and The
 [[Union]], (the only thing like passion or infatuation in the man was the
 passion for the [[Union]] of These States,) [[Abraham Lincoln]] seems to me
 the grandest figure yet, on all the crowded canvas of the Nineteenth
@@ -21617,7 +21617,7 @@ forms a mark'd feature in the age.
 And how, indeed, beyond all any, that stormy and perturb'd age! The
 foundations of the old, the superstitious, the conventionally poetic,
 the credulous, all breaking--the light of the new, and of science and
-[[democracy]], definitely beginning--a mad, fierce, almost crazy age!
+[[Democracy|democracy]], definitely beginning--a mad, fierce, almost crazy age!
 The political struggles of the reigns of the Charleses, and of the
 Protectorate of Cromwell, heated to frenzy by theological struggles.
 Those were the years following the advent and practical working of the
@@ -22265,7 +22265,7 @@ that can put this Commonweal high or highest on the cosmical scale of
 there is a loftier.
 
 The great current points are perhaps simple, after all: first, that the
-highest developments of the New World and [[democracy|Democracy]], and probably the
+highest developments of the New World and [[Democracy]], and probably the
 best society of the civilized world all over, are to be only reach'd
 and spinally nourish'd (in my notion) by a new evolutionary sense and
 treatment; and, secondly, that the evolution-principle, which is the
@@ -22362,7 +22362,7 @@ the long and pointed [[Leaves|leaves]], in [[Summer|summer]], like green or purp
 with a yellow stem line in the middle, all now turn'd dingy; the sturdy
 stalks, and the rustling in the breeze--the breeze itself [[Well|well]] tempering
 the sunny [[Noon|noon]]--The varied reminiscences recall'd--the ploughing and
-planting in [[Spring|spring]]--(the whole family in the field, even the little
+planting in [[spring]]--(the whole family in the field, even the little
 girls and boys dropping seed in the [[Hill|hill]])--the gorgeous sight through
 July and August--the walk and observation early in the day--the cheery
 call of the robin, and the low whirr of [[Insects|insects]] in the grass--the
@@ -22396,7 +22396,7 @@ How the half-mad vision of William Blake--how the far freer, far firmer
 fantasy that wrote "Midsummer [[Night]]'s Dream"--would have revell'd [[Night|night]]
 or day, and beyond stint, in one of our American corn fields! Truly, in
 color, outline, material and spiritual suggestiveness, where any more
-inclosing theme for idealist, poet, literary [[Artist|artist]]?
+inclosing theme for idealist, poet, literary [[artist]]?
 
 What we have written has been at [[Noon|noon]] day--but perhaps better still
 (for this collation,) to steal off by yourself these fine nights, and
@@ -22972,7 +22972,7 @@ saying a good deal, for they have not put their claims low, by a long
 shot. Indeed it was a tremendous talk! Physically and mentally Ingersoll
 (he had been working all day in [[New York]], talking in [[Court|court]] and in his
 office,) is now at his best, like mellow'd wine, or a just ripe
-apple; to the [[Artist|artist]]-sense, too, looks at his best--not merely like a
+apple; to the [[artist]]-sense, too, looks at his best--not merely like a
 bequeath'd Roman bust or fine smooth marble Cicero-head, or even Greek
 Plato; for he is modern and vital and vein'd and American, and (far more
 than the age knows,) justifies us all.
@@ -23422,7 +23422,7 @@ SOME PERSONAL AND OLD-AGE JOTTINGS
 
 Anything like unmitigated acceptance of my "[[Leaves]] of Grass" book, and
 heart-felt response to it, in a popular however faint degree, bubbled
-forth as a fresh [[Spring|spring]] from the ground in England in 1876. The [[Time|time]] was
+forth as a fresh [[spring]] from the ground in England in 1876. The [[Time|time]] was
 a critical and turning point in my personal and literary life. Let me
 revert to my memorandum book, Camden, New Jersey, that year, fill'd with
 addresses, receipts, purchases, &c., of the two volumes pub'd then by
@@ -23659,7 +23659,7 @@ As in that war, its four years--as through the whole [[history]] and
 development of the New World--these States through all trials,
 processes, eruptions, deepest dilemmas, (often straining, tugging at
 society's heart-strings, as if some divine curiosity would find out how
-much this [[democracy]] could stand,) have so far finally and for more than
+much this [[Democracy|democracy]] could stand,) have so far finally and for more than
 a century best justified themselves by the average impalpable quality
 and personality of the bulk, the People _en masse_.... I am not sure but
 my main and chief however indefinite claim for any page of mine w'd be

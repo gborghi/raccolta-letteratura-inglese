@@ -27,15 +27,15 @@ as part of the fun.  He got a great deal of fun out of it,
 and we get a great deal of fun out of him; even if it
 is not only his foes who are made to look a little funny.
 But to be content with considering this pantomimic energy
-is to miss the [[Paradox|paradox]] and therefore miss the point.
+is to miss the paradox and therefore miss the point.
 The interesting thing is that this swashbuckler who, as we say,
 put on so much side had very notably another side; which might
 be called a soft side.  But it was also decidedly a sober side.
 For instance, he who was the most impatient of men was the most
 patient of fathers.  He was even the most patient of schoolmasters.
-The ploughman was capable of plodding as [[Well|well]] as kicking.
+The ploughman was capable of plodding as well as kicking.
 He could be not only soft but even subtle; and if we read
-the Rural Rides a second [[Time|time]], so to speak, we shall
+the Rural Rides a second time, so to speak, we shall
 see certain things that are the moral of the book:
 and were never put there by a mere bully.
 
@@ -47,7 +47,7 @@ He certainly was not a man merely seeking to ingratiate
 himself with the crowd, or indeed with anybody else.
 At least, if he were supposed to be ingratiating himself,
 he must be credited with a curious and original selection
-of words with which to do it.  But the [[Truth|truth]] is that it was
+of words with which to do it.  But the truth is that it was
 not his words but his ideas that were curious and original.
 He wished to arouse a mob, or if you will a rabble, to support
 those ideas; but not to support any ideas--least of all to
@@ -58,24 +58,24 @@ but equally unconscious.  But in the mere form and method
 of his utterance, he was much more disposed to ram information
 down their throats than to take hints from their faces.
 If he was in his way demagogic, he was much more definitely didactic.
-[[Education]] was an enthusiasm with him:  from teaching economics
+Education was an enthusiasm with him:  from teaching economics
 as he taught French by a sort of public correspondence,
 to helping his own little boy with a horn-book. But while he was
 in private the very gentlest of teachers, he was in public,
 when talking to a crowd of farmers instead of to a little boy,
-the most violent and even offensive; to the [[Child|child]] he was
+the most violent and even offensive; to the child he was
 rather persuasive than didactic, and to the men not so much
 didactic as dictatorial.
 
 We have already noted something of the sort about the English Grammar.
-He was a logician as [[Well|well]] as a grammarian.  He was the last man
+He was a logician as well as a grammarian.  He was the last man
 in the world to be really a pedant.  He would always have preferred
 splitting infinitives to splitting straws.  These criticisms of
 diction are also criticisms of thought; or of absence of thought.
 This was the period of which it used to be said, with all solemnity,
 that an English statesman never quite recovered from having
 uttered a false quantity in a Latin quotation in early life.
-It sounds like a [[Parody|parody]] on the secret sin of the mysterious baronet;
+It sounds like a parody on the secret sin of the mysterious baronet;
 but indeed he recovered easily enough from deserting the
 village maiden; and he never tried to recover from being drunk.
 Under these circumstances, Cobbett was surely justified in suggesting

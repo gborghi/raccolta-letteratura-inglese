@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 57 (part 3)"
+title: "Great Expectations — Chapter 57 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_57/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_57/part_04">part 04 ›</a></div>
 </nav>
 
+
+“That’s it, Pip,” said Joe; “and they took his till, and they took his
+cash-box, and they drinked his wine, and they partook of his wittles,
+and they slapped his face, and they pulled his nose, and they tied him
+up to his bedpust, and they giv’ him a dozen, and they stuffed his
+mouth full of flowering annuals to prewent his crying out. But he
+knowed Orlick, and Orlick’s in the county jail.”
 
 By these approaches we arrived at unrestricted conversation. I was slow
 to gain strength, but I did slowly and surely become less weak, and Joe
@@ -127,24 +134,3 @@ heavier for that grab of whisker or shaking, then that man naterally up
 and says to himself, ‘Where is the good as you are a-doing? I grant you
 I see the ’arm,’ says the man, ‘but I don’t see the good. I call upon
 you, sir, therefore, to pint out the good.’”
-
-“The man says?” I observed, as Joe waited for me to speak.
-
-“The man says,” Joe assented. “Is he right, that man?”
-
-“Dear Joe, he is always right.”
-
-“[[Well]], old chap,” said Joe, “then abide by your words. If he’s always
-right (which in general he’s more likely wrong), he’s right when he
-says this: Supposing ever you kep any little matter to yourself, when
-you was a little [[Child|child]], you kep it mostly because you know’d as J.
-Gargery’s power to part you and Tickler in sunders were not fully equal
-to his inclinations. Theerfore, think no more of it as betwixt two
-sech, and do not let us pass remarks upon onnecessary subjects. [[Biddy]]
-giv’ herself a deal o’ trouble with me afore I left (for I am almost
-awful dull), as I should view it in this light, and, viewing it in this
-light, as I should so put it. Both of which,” said Joe, quite charmed
-with his logical arrangement, “being done, now this to you a true
-friend, say. Namely. You mustn’t go a overdoing on it, but you must
-have your supper and your wine and [[Water|water]], and you must be put betwixt
-the sheets.”

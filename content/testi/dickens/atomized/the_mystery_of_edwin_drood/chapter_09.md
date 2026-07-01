@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 8"
+title: "The Mystery of Edwin Drood — Chapter 8"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -178,7 +178,7 @@ the light upon it.
 it.”
 
 “I am sorry for that, Mr. Drood.” Neville apologises, with a real
-intention to apologise; “if I had known I was in the [[artist]]’s
+intention to apologise; “if I had known I was in the [[Artist|artist]]’s
 presence—”
 
 “O, a joke, sir, a mere joke,” Edwin cuts in, with a provoking yawn. “A

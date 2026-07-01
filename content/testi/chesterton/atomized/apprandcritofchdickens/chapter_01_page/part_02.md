@@ -1,5 +1,5 @@
 ---
-title: "[[ApprAndCritOfChDickens]] — Chapter 1: PAGE (part 2)"
+title: "ApprAndCritOfChDickens — Chapter 1: PAGE (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/apprandcritofchdickens-(chesterton)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_03">part 03 ›</a></div>
 </nav>
 
+
+to his [[Grave|grave]] quite contented with the early Victorian radical
+
+theory--the theory which Macaulay preached with unparalleled luminosity
+
+and completeness; the theory that true progress goes on so steadily
 
 through human [[history]], that while reaction is indefensible, revolution
 
@@ -43,8 +49,6 @@ of the Victorian [[Time|time]]. Dickens saw far enough ahead to know that the
 them from mere [[Freedom|freedom]], as from some frightful foreign oppressor. He
 
 felt the society changing; and Thackeray never did.
-
-
 
 As talking about Socialism and [[Individualism]] is one of the greatest
 
@@ -89,8 +93,6 @@ nobler sort of Jew, such a man as Spinoza or Mr. Zangwill. He is simply
 a public apology, and like most public apologies, he is very stiff and
 
 not very convincing.
-
-
 
 So far so good. Now we come to the funny part. To describe the high
 
@@ -152,8 +154,6 @@ to be a Jew, amidst all that crowd of clever Jews who are pretending to
 
 be Englishmen.
 
-
-
 But this notion of a sneer is not admissible. Dickens was far too frank
 
 and generous a writer to employ such an elaborate plot of [[Silence|silence]]. His
@@ -183,13 +183,3 @@ that has come over our society, that he noticed the type of the oriental
 and cosmopolitan financier without even knowing that it was oriental or
 
 cosmopolitan. He had, in fact, fallen a victim to a very simple fallacy
-
-affecting this problem. Somebody said, with great wit and [[Truth|truth]], that
-
-treason cannot prosper, because when it prospers it cannot be called
-
-treason. The same argument soothed all possible Anti-Semitism in men
-
-like Dickens. Jews cannot be sneaks and snobs, because when they are
-
-sneaks and snobs they do not admit that they are Jews.

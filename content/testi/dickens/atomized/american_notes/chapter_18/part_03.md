@@ -14,6 +14,9 @@ tags:
 </nav>
 
 
+    ‘Detained at the police jail, the negro wench, Myra.  Has several
+    marks of LASHING, and has irons on her feet.’
+
     ‘Ran away, a negro woman and two children.  A few days before she
     went off, I burnt her with a hot iron, on the left side of her face.
     I tried to make the letter M.’

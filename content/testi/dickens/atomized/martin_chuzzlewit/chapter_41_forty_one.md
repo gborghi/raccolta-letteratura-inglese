@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 41: FORTY ONE"
+title: "Martin Chuzzlewit — Chapter 41: FORTY ONE"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/martin-chuzzlewit-(dickens)"

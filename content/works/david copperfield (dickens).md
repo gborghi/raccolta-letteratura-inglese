@@ -63,9 +63,9 @@ tags:
 - [Chapter 02 I OBSERVE](/testi/dickens/atomized/david_copperfield/chapter_02_i_observe)
 - [Chapter 03 I HAVE A CHANGE](/testi/dickens/atomized/david_copperfield/chapter_03_i_have_a_change)
 - [Chapter 04 I FALL INTO DISGRACE](/testi/dickens/atomized/david_copperfield/chapter_04_i_fall_into_disgrace)
-- [Chapter 05 I AM SENT AWAY FROM HOME](/testi/dickens/atomized/david_copperfield/chapter_05_i_am_sent_away_from_home)
+- Chapter 05 I AM SENT AWAY FROM HOME
 - [Chapter 06 I ENLARGE MY CIRCLE OF ACQUAIN](/testi/dickens/atomized/david_copperfield/chapter_06_i_enlarge_my_circle_of_acquain)
-- [Chapter 07 MY FIRST HALF AT SALEM HOUSE](/testi/dickens/atomized/david_copperfield/chapter_07_my_first_half_at_salem_house)
+- Chapter 07 MY FIRST HALF AT SALEM HOUSE
 - [Chapter 08 MY HOLIDAYS ESPECIALLY ONE HAP](/testi/dickens/atomized/david_copperfield/chapter_08_my_holidays_especially_one_hap)
 - [Chapter 09 I HAVE A MEMORABLE BIRTHDAY](/testi/dickens/atomized/david_copperfield/chapter_09_i_have_a_memorable_birthday)
 - [Chapter 10 I BECOME NEGLECTED AND AM PROV](/testi/dickens/atomized/david_copperfield/chapter_10_i_become_neglected_and_am_prov)
@@ -78,7 +78,7 @@ tags:
 - [Chapter 17 SOMEBODY TURNS UP](/testi/dickens/atomized/david_copperfield/chapter_17_somebody_turns_up)
 - [Chapter 18 A RETROSPECT](/testi/dickens/atomized/david_copperfield/chapter_18_a_retrospect)
 - [Chapter 19 I LOOK ABOUT ME AND MAKE A DIS](/testi/dickens/atomized/david_copperfield/chapter_19_i_look_about_me_and_make_a_dis)
-- [Chapter 20 STEERFORTHS HOME](/testi/dickens/atomized/david_copperfield/chapter_20_steerforths_home)
+- Chapter 20 STEERFORTHS HOME
 - [Chapter 21 LITTLE EMLY](/testi/dickens/atomized/david_copperfield/chapter_21_little_emly)
 - [Chapter 22 SOME OLD SCENES AND SOME NEW P](/testi/dickens/atomized/david_copperfield/chapter_22_some_old_scenes_and_some_new_p)
 - [Chapter 23 I CORROBORATE Mr DICK AND CHOO](/testi/dickens/atomized/david_copperfield/chapter_23_i_corroborate_mr_dick_and_choo)
@@ -87,15 +87,15 @@ tags:
 - [Chapter 26 I FALL INTO CAPTIVITY](/testi/dickens/atomized/david_copperfield/chapter_26_i_fall_into_captivity)
 - [Chapter 27 TOMMY TRADDLES](/testi/dickens/atomized/david_copperfield/chapter_27_tommy_traddles)
 - [Chapter 28 Mr MICAWBERS GAUNTLET](/testi/dickens/atomized/david_copperfield/chapter_28_mr_micawbers_gauntlet)
-- [Chapter 29 I VISIT STEERFORTH AT HIS HOME](/testi/dickens/atomized/david_copperfield/chapter_29_i_visit_steerforth_at_his_home)
+- Chapter 29 I VISIT STEERFORTH AT HIS HOME
 - [Chapter 30 A LOSS](/testi/dickens/atomized/david_copperfield/chapter_30_a_loss)
 - [Chapter 31 A GREATER LOSS](/testi/dickens/atomized/david_copperfield/chapter_31_a_greater_loss)
-- [Chapter 32 THE BEGINNING OF A LONG JOURNE](/testi/dickens/atomized/david_copperfield/chapter_32_the_beginning_of_a_long_journe)
+- Chapter 32 THE BEGINNING OF A LONG JOURNE
 - [Chapter 33 BLISSFUL](/testi/dickens/atomized/david_copperfield/chapter_33_blissful)
 - [Chapter 34 MY AUNT ASTONISHES ME](/testi/dickens/atomized/david_copperfield/chapter_34_my_aunt_astonishes_me)
 - [Chapter 35 DEPRESSION](/testi/dickens/atomized/david_copperfield/chapter_35_depression)
 - [Chapter 36 ENTHUSIASM](/testi/dickens/atomized/david_copperfield/chapter_36_enthusiasm)
-- [Chapter 37 A LITTLE COLD WATER](/testi/dickens/atomized/david_copperfield/chapter_37_a_little_cold_water)
+- Chapter 37 A LITTLE COLD WATER
 - [Chapter 38 A DISSOLUTION OF PARTNERSHIP](/testi/dickens/atomized/david_copperfield/chapter_38_a_dissolution_of_partnership)
 - [Chapter 39 WICKFIELD AND HEEP](/testi/dickens/atomized/david_copperfield/chapter_39_wickfield_and_heep)
 - [Chapter 40 THE WANDERER](/testi/dickens/atomized/david_copperfield/chapter_40_the_wanderer)
@@ -109,7 +109,7 @@ tags:
 - [Chapter 48 DOMESTIC](/testi/dickens/atomized/david_copperfield/chapter_48_domestic)
 - [Chapter 49 I AM INVOLVED IN MYSTERY](/testi/dickens/atomized/david_copperfield/chapter_49_i_am_involved_in_mystery)
 - [Chapter 50 Mr PEGGOTTYS DREAM COMES TRUE](/testi/dickens/atomized/david_copperfield/chapter_50_mr_peggottys_dream_comes_true)
-- [Chapter 51 THE BEGINNING OF A LONGER JOUR](/testi/dickens/atomized/david_copperfield/chapter_51_the_beginning_of_a_longer_jour)
+- Chapter 51 THE BEGINNING OF A LONGER JOUR
 - [Chapter 52 I ASSIST AT AN EXPLOSION](/testi/dickens/atomized/david_copperfield/chapter_52_i_assist_at_an_explosion)
 - [Chapter 53 ANOTHER RETROSPECT](/testi/dickens/atomized/david_copperfield/chapter_53_another_retrospect)
 - [Chapter 54 Mr MICAWBERS TRANSACTIONS](/testi/dickens/atomized/david_copperfield/chapter_54_mr_micawbers_transactions)

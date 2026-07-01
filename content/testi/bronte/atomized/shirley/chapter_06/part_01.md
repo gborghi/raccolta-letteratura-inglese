@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 6 (part 1)"
+title: "Shirley — Chapter 6 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -197,9 +197,3 @@ teach like him, how much faster she might learn! Repaying him by an
 admiring and grateful smile, rather shed at his feet than lifted to his
 
 face, she would leave the mill reluctantly to go back to the cottage,
-
-and then, while she completed the exercise, or worked out the sum (for
-
-Mdlle. Moore taught her arithmetic too), she would wish [[Nature|nature]] had made
-
-her a boy instead of a girl, that she might ask Robert to let her be his

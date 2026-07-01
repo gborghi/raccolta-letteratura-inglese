@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 9 (part 4)"
+title: "Bleak House — Chapter 9 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_09/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_09/part_05">part 05 ›</a></div>
 </nav>
 
+
+“No, no,” he said, “no closing up of my paths by any Dedlock! Though
+I willingly confess,” here he softened in a moment, “that Lady
+Dedlock is the most accomplished lady in the world, to whom I would
+do any homage that a plain gentleman, and no baronet with a head
+seven hundred years thick, may. A man who joined his regiment at
+twenty and within a week challenged the most imperious and
+presumptuous coxcomb of a commanding officer that ever drew the
+breath of life through a tight waist—and got broke for it—is not
+the man to be walked over by all the Sir Lucifers, dead or alive,
+locked or unlocked. Ha, ha, ha!”
 
 “Nor the man to allow his junior to be walked over either?” said my
 guardian.
@@ -129,15 +140,3 @@ him to himself. The lunch was soon brought, but it remained for some
 and a stormy one too, I should think, for although his room was at
 some distance I heard his loud voice rising every now and then like a
 high [[Wind|wind]], and evidently blowing perfect broadsides of denunciation.
-
-At last Mr. Guppy came back, looking something the worse for the
-conference. “My eye, miss,” he said in a low voice, “he’s a Tartar!”
-
-“Pray take some refreshment, sir,” said I.
-
-Mr. Guppy sat down at the table and began nervously sharpening the
-carving-knife on the carving-fork, still looking at me (as I felt
-quite sure without looking at him) in the same unusual manner. The
-sharpening lasted so long that at last I felt a kind of obligation on
-me to raise my eyes in order that I might break the spell under which
-he seemed to labour, of not being able to leave off.

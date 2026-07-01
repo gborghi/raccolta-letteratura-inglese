@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 1 (part 3)"
+title: "Our Mutual Friend — Chapter 5 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,123 +14,126 @@ tags:
 </nav>
 
 
-Within Mr Riderhood’s knowledge all daggers were as one. Even to Bradley
-Headstone, who could have told to the letter without book all about Wat
-Tyler, [[Lord Mayor]] Walworth, and the [[King]], that it is dutiful for youth
-to know, there was but one subject living in the world for every sharp
-destructive instrument that [[Summer|summer]] evening. So, Riderhood looking after
-him as he went, and he with his furtive hand laid upon the dagger as he
-passed it, and his eyes upon the boat, were much upon a par.
+Mrs Wilfer, for her part, still further improved the occasion by sitting
+with her eyes fastened on her husband, like two great black notes of
+interrogation, severely inquiring, Are you looking into your breast? Do
+you deserve your blessings? Can you lay your hand upon your heart and
+say that you are worthy of so hysterical a daughter? I do not ask you if
+you are worthy of such a wife—put Me out of the question—but are
+you sufficiently conscious of, and thankful for, the pervading moral
+grandeur of the family spectacle on which you are gazing? These
+inquiries proved very harassing to R. W. who, besides being a little
+disturbed by wine, was in perpetual terror of committing himself by the
+utterance of stray words that would betray his guilty foreknowledge.
+However, the scene being over, and—all things considered—[[Well|well]] over, he
+sought refuge in a doze; which gave his lady immense offence.
 
-The boat went on, under the arching trees, and over their tranquil
-shadows in the [[Water|water]]. The bargeman skulking on the opposite bank of the
-stream, went on after it. Sparkles of light showed Riderhood when
-and where the rower dipped his blades, until, even as he stood idly
-watching, the sun went down and the landscape was dyed red. And then the
-red had the appearance of fading out of it and mounting up to Heaven, as
-we say that [[Blood|blood]], guiltily shed, does.
+‘Can you think of your daughter Bella, and [[Sleep|sleep]]?’ she disdainfully
+inquired.
 
-Turning back towards his Lock (he had not gone out of view of it), the
-Rogue pondered as deeply as it was within the contracted power of such
-a fellow to do. ‘Why did he copy my clothes? He could have looked like
-what he wanted to look like, without that.’ This was the subject-matter
-in his thoughts; in which, too, there came lumbering up, by times, like
-any half floating and half sinking rubbish in the [[River|river]], the question,
-Was it done by accident? The setting of a trap for finding out whether
-it was accidentally done, soon superseded, as a practical piece of
-cunning, the abstruser inquiry why otherwise it was done. And he devised
-a means.
+To which he mildly answered, ‘Yes, I think I can, my dear.’
 
-Rogue Riderhood went into his Lock-[[house]], and brought forth, into the
-now sober grey light, his chest of clothes. Sitting on the grass beside
-it, he turned out, one by one, the articles it contained, until he came
-to a conspicuous bright red neckerchief stained black here and there by
-wear. It arrested his attention, and he sat pausing over it, until he
-took off the rusty colourless wisp that he wore round his throat, and
-substituted the red neckerchief, leaving the long ends flowing. ‘Now,’
-said the Rogue, ‘if arter he sees me in this neckhankecher, I see him in
-a sim’lar neckhankecher, it won’t be accident!’ Elated by his device, he
-carried his chest in again and went to supper.
+‘Then,’ said Mrs Wilfer, with solemn indignation, ‘I would recommend
+you, if you have a human feeling, to retire to bed.’
 
-‘Lock ho! Lock!’ It was a light [[Night|night]], and a barge coming down summoned
-him out of a long doze. In due course he had let the barge through
-and was [[Alone|alone]] again, looking to the closing of his gates, when Bradley
-Headstone appeared before him, standing on the brink of the Lock.
+‘Thank you, my dear,’ he replied; ‘I think it IS the best place for me.’
+And with these unsympathetic words very gladly withdrew.
 
-‘Halloa!’ said Riderhood. ‘Back a’ ready, T’otherest?’
+Within a few weeks afterwards, the Mendicant’s bride (arm-in-arm with
+the Mendicant) came to tea, in fulfilment of an engagement made through
+her father. And the way in which the Mendicant’s bride dashed at the
+unassailable position so considerately to be held by Miss Lavy, and
+scattered the whole of the works in all directions in a moment, was
+triumphant.
 
-‘He has put up for the [[Night|night]], at an Angler’s Inn,’ was the fatigued and
-hoarse reply. ‘He goes on, up the [[River|river]], at six in the morning. I have
-come back for a couple of hours’ rest.’
+‘Dearest Ma,’ cried Bella, running into the room with a radiant face,
+‘how do you do, dearest Ma?’ And then embraced her, joyously. ‘And Lavvy
+darling, how do YOU do, and how’s George Sampson, and how is he getting
+on, and when are you going to be married, and how rich are you going
+to grow? You must tell me all about it, Lavvy dear, immediately.
+John, [[Love|love]], kiss Ma and Lavvy, and then we shall all be at [[Home|home]] and
+comfortable.’
 
-‘You want ’em,’ said Riderhood, making towards the schoolmaster by his
-plank bridge.
+Mrs Wilfer stared, but was helpless. Miss [[Lavinia]] stared, but was
+helpless. Apparently with no compunction, and assuredly with no
+ceremony, Bella tossed her bonnet away, and sat down to make the tea.
 
-‘I don’t want them,’ returned Bradley, irritably, ‘because I would
-rather not have them, but would much prefer to follow him all [[Night|night]].
-However, if he won’t lead, I can’t follow. I have been waiting about,
-until I could discover, for a certainty, at what [[Time|time]] he starts; if I
-couldn’t have made sure of it, I should have stayed there.—This would
-be a bad pit for a man to be flung into with his hands tied. These
-slippery smooth walls would give him no chance. And I suppose those
-gates would suck him down?’
+‘Dearest Ma and Lavvy, you both take sugar, I know. And Pa (you good
+little Pa), you don’t take milk. John does. I didn’t before I was
+married; but I do now, because John does. John dear, did you kiss Ma and
+Lavvy? Oh, you did! Quite correct, John dear; but I didn’t see you do
+it, so I asked. Cut some bread and butter, John; that’s a [[Love|love]]. Ma likes
+it doubled. And now you must tell me, dearest Ma and Lavvy, upon your
+words and honours! Didn’t you for a moment—just a moment—think I was a
+dreadful little wretch when I wrote to say I had run away?’
 
-‘Suck him down, or swaller him up, he wouldn’t get out,’ said Riderhood.
-‘Not even, if his hands warn’t tied, he wouldn’t. Shut him in at both
-ends, and I’d give him a pint o’ old ale ever to come up to me standing
-here.’
+Before Mrs Wilfer could wave her gloves, the Mendicant’s bride in her
+merriest affectionate manner went on again.
 
-Bradley looked down with a ghastly relish. ‘You run about the brink, and
-run across it, in this uncertain light, on a few inches width of rotten
-wood,’ said he. ‘I [[Wonder|wonder]] you have no thought of being drowned.’
+‘I think it must have made you rather [[Cross|cross]], dear Ma and Lavvy, and I
+know I deserved that you should be very [[Cross|cross]]. But you see I had been
+such a heedless, heartless creature, and had led you so to expect that
+I should marry for money, and so to make sure that I was incapable of
+marrying for [[Love|love]], that I thought you couldn’t believe me. Because, you
+see, you didn’t know how much of Good, Good, Good, I had learnt from
+John. [[Well]]! So I was sly about it, and ashamed of what you supposed me
+to be, and fearful that we couldn’t understand one another and might
+come to words, which we should all be sorry for afterwards, and so I
+said to John that if he liked to take me without any fuss, he might. And
+as he did like, I let him. And we were married at Greenwich church in
+the presence of nobody—except an unknown individual who dropped in,’
+here her eyes sparkled more brightly, ‘and half a pensioner. And now,
+isn’t it nice, dearest Ma and Lavvy, to know that no words have been
+said which any of us can be sorry for, and that we are all the best of
+friends at the pleasantest of teas!’
 
-‘I can’t be!’ said Riderhood.
+Having got up and kissed them again, she slipped back to her chair
+(after a loop on the [[Road|road]] to squeeze her husband round the neck) and
+again went on.
 
-‘You can’t be drowned?’
+‘And now you will naturally want to know, dearest Ma and Lavvy, how
+we live, and what we have got to live upon. [[Well]]! And so we live on
+Blackheath, in the charm—ingest of dolls’ houses, de—lightfully
+furnished, and we have a clever little servant who is de—cidedly
+pretty, and we are economical and orderly, and do everything by
+clockwork, and we have a hundred and fifty pounds a year, and we
+have all we want, and more. And lastly, if you would like to know in
+confidence, as perhaps you may, what is my opinion of my husband, my
+opinion is—that I almost [[Love|love]] him!’
 
-‘No!’ said Riderhood, shaking his head with an air of thorough
-conviction, ‘it’s [[Well|well]] known. I’ve been brought out o’ drowning, and I
-can’t be drowned. I wouldn’t have that there busted B’lowbridger aware
-on it, or her people might make it tell agin’ the damages I mean to get.
-But it’s [[Well|well]] known to [[Water|water]]-side characters like myself, that him as
-has been brought out o drowning, can never be drowned.’
+‘And if you would like to know in confidence, as perhaps you may,’
+said her husband, smiling, as he stood by her side, without her having
+detected his approach, ‘my opinion of my wife, my opinion is—.’ But
+Bella started up, and put her hand upon his lips.
 
-Bradley smiled sourly at the ignorance he would have corrected in one of
-his pupils, and continued to look down into the [[Water|water]], as if the place
-had a gloomy fascination for him.
+‘Stop, Sir! No, John, dear! Seriously! Please not yet a while! I want to
+be something so much worthier than the doll in the doll’s [[house]].’
 
-‘You seem to like it,’ said Riderhood.
+‘My darling, are you not?’
 
-He took no notice, but stood looking down, as if he had not heard the
-words. There was a very dark expression on his face; an expression
-that the Rogue found it hard to understand. It was fierce, and full
-of purpose; but the purpose might have been as much against himself as
-against another. If he had stepped back for a [[Spring|spring]], taken a leap, and
-thrown himself in, it would have been no surprising sequel to the look.
-Perhaps his troubled [[Soul|soul]], set upon some violence, did hover for the
-moment between that violence and another.
+‘Not half, not a quarter, so much worthier as I [[Hope|hope]] you may some
+day find me! Try me through some reverse, John—try me through some
+trial—and tell them after THAT, what you think of me.’
 
-‘Didn’t you say,’ asked Riderhood, after watching him for a while with
-a sidelong glance, ‘as you had come back for a couple o’ hours’ rest?’
-But, even then he had to jog him with his elbow before he answered.
+‘I will, my Life,’ said John. ‘I promise it.’
 
-‘Eh? Yes.’
+‘That’s my dear John. And you won’t speak a word now; will you?’
 
-‘Hadn’t you better come in and take your couple o’ hours’ rest?’
+‘And I won’t,’ said John, with a very expressive look of admiration
+around him, ‘speak a word now!’
 
-‘Thank you. Yes.’
+She laid her laughing cheek upon his breast to thank him, and said,
+looking at the rest of them sideways out of her bright eyes: ‘I’ll go
+further, Pa and Ma and Lavvy. John don’t suspect it—he has no idea of
+it—but I quite [[Love|love]] him!’
 
-With the look of one just awakened, he followed Riderhood into the
-Lock-[[house]], where the latter produced from a cupboard some cold salt
-beef and half a loaf, some gin in a bottle, and some [[Water|water]] in a jug. The
-last he brought in, cool and dripping, from the [[River|river]].
-
-‘There, T’otherest,’ said Riderhood, stooping over him to put it on
-the table. ‘You’d better take a bite and a sup, afore you takes
-your snooze.’ The draggling ends of the red neckerchief caught the
-schoolmaster’s eyes. Riderhood saw him look at it.
-
-‘Oh!’ thought that worthy. ‘You’re a-taking notice, are you? Come! You
-shall have a good squint at it then.’ With which reflection he sat down
-on the other side of the table, threw open his vest, and made a pretence
-of re-tying the neckerchief with much deliberation.
+Even Mrs Wilfer relaxed under the influence of her married daughter, and
+seemed in a majestic manner to imply remotely that if R. W. had been a
+more deserving object, she too might have condescended to come down from
+her pedestal for his beguilement. Miss [[Lavinia]], on the other hand, had
+strong doubts of the policy of the course of treatment, and whether it
+might not spoil Mr Sampson, if experimented on in the case of that young
+gentleman. R. W. himself was for his part convinced that he was father
+of one of the most charming of girls, and that Rokesmith was the most
+favoured of men; which opinion, if propounded to him, Rokesmith would
+probably not have contested.

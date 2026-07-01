@@ -1,5 +1,5 @@
 ---
-title: "[[Richard]] [[Duke of York]] (3 [[Henry VI]]) — Act I, Scene 4 — exchange ([[Clifford|CLIFFORD]]) [4]"
+title: "Richard Duke of York (3 Henry VI) — Act I, Scene 4 — exchange (CLIFFORD) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/richard-duke-of-york---(3-henry-vi)-(shakespeare)"

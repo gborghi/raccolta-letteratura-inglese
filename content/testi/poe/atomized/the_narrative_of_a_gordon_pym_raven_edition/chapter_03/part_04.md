@@ -14,6 +14,14 @@ tags:
 </nav>
 
 
+      sound, that I endeavoured in vain to reply. My powers of speech
+
+      totally failed, and in an agony of terror lest my friend should
+
+      conclude me dead, and return without attempting to reach me, I
+
+      stood up between the crates near the door of the box, trembling
+
       convulsively, and gasping and struggling for utterance. Had a
 
       thousand words depended upon a syllable, I could not have spoken
@@ -54,7 +62,7 @@ tags:
 
       called my name could be no one but himself. All was silent for
 
-      some moments. At length I again heard the word “[[arthur|Arthur]]!” repeated
+      some moments. At length I again heard the word “[[Arthur]]!” repeated
 
       in a low tone, and one full of hesitation. Reviving [[Hope|hope]] loosened
 

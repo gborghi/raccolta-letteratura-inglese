@@ -130,7 +130,7 @@ them when they are all seated, with a glare of the eye peculiar to
 beadles! The churchwardens and overseers being duly installed in their
 curtained pews, he seats himself on a mahogany bracket, erected
 expressly for him at the top of the aisle, and divides his attention
-between his [[Prayer|prayer]]-book and the boys. Suddenly, just at the
+between his [[prayer]]-book and the boys. Suddenly, just at the
 commencement of the communion service, when the whole congregation is
 hushed into a profound [[Silence|silence]], broken only by the voice of the
 officiating clergyman, a penny is heard to ring on the stone floor of
@@ -1242,7 +1242,7 @@ society, and the ladies’ blanket distribution society; in [[Summer|summer]], w
 stone fruits flourish and stomach aches prevail, we have the ladies’
 dispensary, and the ladies’ sick visitation committee; and all the year
 round we have the ladies’ [[Child|child]]’s examination society, the ladies’
-[[Bible|bible]] and [[Prayer|prayer]]-book circulation society, and the ladies’
+[[Bible|bible]] and [[prayer]]-book circulation society, and the ladies’
 childbed-linen monthly loan society. The two latter are decidedly the
 most important; whether they are productive of more benefit than the
 rest, it is not for us to say, but we can take upon ourselves to
@@ -1250,8 +1250,8 @@ affirm, with the utmost solemnity, that they create a greater stir and
 more bustle, than all the others put together.
 
 We should be disposed to affirm, on the first blush of the matter, that
-the [[Bible|bible]] and [[Prayer|prayer]]-book society is not so popular as the
-childbed-linen society; the [[Bible|bible]] and [[Prayer|prayer]]-book society has, however,
+the [[Bible|bible]] and [[prayer]]-book society is not so popular as the
+childbed-linen society; the [[Bible|bible]] and [[prayer]]-book society has, however,
 considerably increased in importance within the last year or two,
 having derived some adventitious aid from the factious opposition of
 the [[Child|child]]’s examination society; which factious opposition originated
@@ -1297,9 +1297,9 @@ extremely fine girls—all unmarried—hastily reported to several other
 mammas of several other unmarried families, that five old men, six old
 women, and children innumerable, in the free seats near her pew, were
 in the habit of coming to church every [[Sunday]], without either [[Bible|bible]] or
-[[Prayer|prayer]]-book. Was this to be borne in a civilised country? Could such
+[[prayer]]-book. Was this to be borne in a civilised country? Could such
 things be tolerated in a Christian land? Never! A ladies’ [[Bible|bible]] and
-[[Prayer|prayer]]-book distribution society was instantly formed: president, Mrs.
+[[prayer]]-book distribution society was instantly formed: president, Mrs.
 Johnson Parker; treasurers, auditors, and secretary, the Misses Johnson
 Parker: subscriptions were entered into, books were bought, all the
 free-seat people provided therewith, and when the first lesson was
@@ -1316,7 +1316,7 @@ Miss Browns. No matter; they could be taught, retorted Mrs. Johnson
 Parker. A balance of parties took place. The Miss Browns publicly
 examined—popular feeling inclined to the [[Child|child]]’s examination society.
 The Miss Johnson Parkers publicly distributed—a reaction took place in
-favour of the [[Prayer|prayer]]-book distribution. A feather would have turned the
+favour of the [[prayer]]-book distribution. A feather would have turned the
 scale, and a feather did turn it. A missionary returned from the West
 Indies; he was to be presented to the Dissenters’ Missionary Society on
 his [[Marriage|marriage]] with a wealthy widow. Overtures were made to the
@@ -1621,7 +1621,7 @@ Sundays, on which he and his lodger would exchange mutual civilities
 and [[Sunday]] papers.
 
 The serious man arrived, and his luggage was to arrive from the country
-next morning. He borrowed a clean shirt, and a [[Prayer|prayer]]-book, from our
+next morning. He borrowed a clean shirt, and a [[prayer]]-book, from our
 next-door neighbour, and retired to rest at an early hour, requesting
 that he might be called punctually at ten o’[[Clock|clock]] next morning—not
 before, as he was much fatigued.
@@ -1629,7 +1629,7 @@ before, as he was much fatigued.
 He _was_ called, and did not answer: he was called again, but there was
 no reply. Our next-door neighbour became alarmed, and burst the door
 open. The serious man had left the [[house]] mysteriously; carrying with
-him the shirt, the [[Prayer|prayer]]-book, a teaspoon, and the bedclothes.
+him the shirt, the [[prayer]]-book, a teaspoon, and the bedclothes.
 
 Whether this occurrence, coupled with the irregularities of his former
 lodger, gave our next-door neighbour an aversion to single gentlemen,
@@ -6824,7 +6824,7 @@ three Spanish guitars; or a party of boors carousing: each boor with
 one leg painfully elevated in the air, by way of expressing his perfect
 [[Freedom|freedom]] and gaiety; several sets of chessmen, two or three flutes, a
 few fiddles, a round-eyed portrait staring in astonishment from a very
-dark ground; some gaudily-bound [[Prayer|prayer]]-books and testaments, two rows
+dark ground; some gaudily-bound [[prayer]]-books and testaments, two rows
 of silver watches quite as clumsy and almost as large as Ferguson’s
 first; numerous old-fashioned table and tea spoons, displayed,
 fan-like, in half-dozens; strings of coral with great broad gilt snaps;
@@ -7645,7 +7645,7 @@ never [[Leaves|leaves]] him on any pretence.
 
 We entered the first cell. It was a stone dungeon, eight feet long by
 six wide, with a bench at the upper end, under which were a common rug,
-a [[Bible|bible]], and [[Prayer|prayer]]-book. An iron candlestick was fixed into the wall
+a [[Bible|bible]], and [[prayer]]-book. An iron candlestick was fixed into the wall
 at the side; and a small high [[Window|window]] in the back admitted as much air
 and light as could struggle in between a [[Double|double]] row of heavy, crossed
 iron bars. It contained no other furniture of any description.
@@ -8678,7 +8678,7 @@ most boisterous merriment.
 Who can tell the anguish of those weary hours, when the only sound the
 sick man hears, is the disjointed wanderings of some feverish slumberer
 near him, the low moan of [[Pain|pain]], or perhaps the muttered, long-forgotten
-[[Prayer|prayer]] of a dying man? Who, but they who have felt it, can imagine the
+[[prayer]] of a dying man? Who, but they who have felt it, can imagine the
 sense of [[Loneliness|loneliness]] and desolation which must be the portion of those
 who in the hour of dangerous illness are left to be tended by
 strangers; for what hands, be they ever so gentle, can wipe the clammy
@@ -14824,9 +14824,9 @@ harmless mad woman; not only soothing her by his presence and kindness,
 but alleviating the rigour of her condition by pecuniary donations for
 her comfort and support, bestowed with no sparing hand. In the
 transient gleam of recollection and consciousness which preceded her
-[[Death|death]], a [[Prayer|prayer]] for his welfare and protection, as fervent as mortal
+[[Death|death]], a [[prayer]] for his welfare and protection, as fervent as mortal
 ever breathed, [[Rose|rose]] from the lips of this poor friendless creature.
-That [[Prayer|prayer]] flew to Heaven, and was heard. The blessings he was
+That [[prayer]] flew to Heaven, and was heard. The blessings he was
 instrumental in conferring, have been repaid to him a thousand-fold;
 but, amid all the honours of rank and station which have since been
 heaped upon him, and which he has so [[Well|well]] earned, he can have no
@@ -19304,7 +19304,7 @@ through life without some trials, considerable [[Suffering|suffering]], severe
 affliction, and heavy losses!’—Here the arch-traitor paused, and slowly
 drew forth a long, white pocket-handkerchief—his example was followed
 by several ladies. ‘That these trials may be long spared them is my
-most earnest [[Prayer|prayer]], my most fervent wish (a distinct sob from the
+most earnest [[prayer]], my most fervent wish (a distinct sob from the
 grandmother). I [[Hope|hope]] and trust, ladies and gentlemen, that the infant
 whose christening we have this evening met to celebrate, may not be
 removed from the arms of his parents by premature [[Decay|decay]] (several

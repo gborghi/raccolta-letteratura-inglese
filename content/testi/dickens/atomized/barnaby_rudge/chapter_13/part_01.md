@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 13 (part 1)"
+title: "Barnaby Rudge — Chapter 13 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -127,9 +127,3 @@ for, giving me only the right to call for my dinner at the Black [[Lion]],
 which you’re to pay for next [[Time|time]] you go, as if I was not to be trusted
 with a few shillings? Why do you use me like this? It’s not right of
 you. You can’t expect me to be quiet under it.’
-
-‘Let him have money!’ cried John, in a drowsy reverie. ‘What does he
-call money--guineas? Hasn’t he got money? Over and above the tolls,
-hasn’t he one and sixpence?’
-
-‘One and sixpence!’ repeated his son contemptuously.

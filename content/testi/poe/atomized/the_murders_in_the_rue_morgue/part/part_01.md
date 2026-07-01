@@ -1,5 +1,5 @@
 ---
-title: "[[The Murders in the Rue Morgue]] (part 1)"
+title: "The Murders in the Rue Morgue (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-murders-in-the-rue-morgue-(poe)"
@@ -195,7 +195,3 @@ What [[Song|song]] the Syrens sang, or what name [[Achilles]] assumed when he hi
       honor, through the glances bestowed by their holders upon each.
 
       He notes every variation of face as the play progresses,
-
-      gathering a fund of thought from the differences in the
-
-      expression of certainty, of surprise, of triumph, or of chagrin.

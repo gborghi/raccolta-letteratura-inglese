@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 12 (part 5)"
+title: "The Professor — Chapter 12 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -14,11 +14,25 @@ tags:
 </nav>
 
 
+were forbidden to enter it on account of its proximity to the boys’
+
+school. It was here that the lilacs and laburnums grew especially thick;
+
+this was the most sheltered nook in the enclosure, its shrubs screened
+
+the [[Garden|garden]]-chair where that afternoon I had sat with the young
+
+directress. I need not say that my thoughts were chiefly with her as
+
+I leaned from the lattice, and let my eye roam, now over the walks and
+
+borders of the [[Garden|garden]], now along the many-windowed front of the [[house]]
+
+which [[Rose|rose]] white beyond the masses of foliage. I wondered in what part
+
 of the building was situated her apartment; and a single light, shining
 
 through the persiennes of one croisee, seemed to direct me to it.
-
-
 
 “She watches late,” thought I, “for it must be now near midnight. She
 
@@ -116,29 +130,19 @@ arm-in-arm, or hand-in-hand (I forget which) with my principal,
 
 confidant, and counsellor, M. Francois Pelet. And M. Pelet was saying--
 
-
-
 “A quand donc le jour des noces, ma bien-aimee?”
 
-
-
 And Mdlle. Reuter answered--
-
-
 
 “Mais, Francois, tu sais bien qu’il me serait impossible de me marier
 
 avant les vacances.”
-
-
 
 “June, July, August, a whole quarter!” exclaimed the director. “How can
 
 I wait so long?--I who am ready, even now, to expire at your feet with
 
 impatience!”
-
-
 
 “Ah! if you die, the whole affair will be settled without any trouble
 
@@ -147,8 +151,6 @@ about notaries and contracts; I shall only have to order a slight
 mourning dress, which will be much sooner prepared than the nuptial
 
 trousseau.”
-
-
 
 “Cruel Zoraide! you laugh at the distress of one who loves you so
 
@@ -162,19 +164,11 @@ presumed to fall in [[Love|love]], which he dared not have done unless you had
 
 given him room to [[Hope|hope]].”
 
-
-
 “What do you say, Francois? Do you say Crimsworth is in [[Love|love]] with me?”
-
-
 
 “Over head and ears.”
 
-
-
 “Has he told you so?”
-
-
 
 “No--but I see it in his face: he blushes whenever your name is
 
@@ -196,8 +190,6 @@ thought it). I heard her disclaim any intentions on the subject--the
 
 director, however, still pressed her to give a definite answer.
 
-
-
 “Francois,” said she, “you are jealous,” and still she laughed; then, as
 
 if suddenly recollecting that this coquetry was not consistent with the
@@ -218,8 +210,6 @@ dear friend.” Still Pelet uttered murmurs of distrust--so I judged, at
 
 least, from her reply.
 
-
-
 “What folly! How could I prefer an unknown foreigner to you? And
 
 then--not to flatter your [[Vanity|vanity]]--Crimsworth could not bear comparison
@@ -229,8 +219,6 @@ with you either physically or mentally; he is not a handsome man at all;
 some may call him gentleman-like and intelligent-looking, but for my
 
 part--”
-
-
 
 The rest of the sentence was lost in the distance, as the pair, rising
 

@@ -1,5 +1,5 @@
 ---
-title: "[[Don Quixote]] — Chapter 17 (part 1)"
+title: "Don Quixote — Chapter 17 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/don-quixote-(chesterton)"
@@ -123,7 +123,3 @@ To sum up, it is decreed, first that the craft should be ruled by its
 fully enfranchised members, subject to any just claim of property;
 and second, that the claim of property made in this case is not just.
 We shall adjudge to the Guild--."
-
-Old Seawood sprang up as if galvanised; and a simple sort of vainglory
-deeper than all Victorian vanities came gasping to the surface like a
-drowning thing.  He forgot even the snobbish [[Fear|fear]] of snobbishness.

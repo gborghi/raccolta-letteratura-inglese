@@ -14,6 +14,44 @@ tags:
 </nav>
 
 
+This is the primary and superficial objection to Mr. Godard,
+that he has meekly accepted the theory of the [[government|Government]] that the war
+is a great trial of English patriotism, instead of being, as it is,
+a vulgar and dirty experiment in a corner, different in no way
+from other frontier experiments except in the arrogance of its terms
+and the magnifying-glass of morbidity through which it is regarded.
+Mr. Godard, if he wished to study patriotism, should not have taken one
+paltry colonial squabble out of [[history]], as one takes lots out of a hat;
+he should have reviewed the great wars of [[history]] in something
+like their proper proportion.  But one thing is at least certain.
+If Mr. Godard does not think patriotism is a precious virtue,
+his sympathy with Boer resistance is inexplicable.  He passionately,
+and most justly exclaims, "Does 'justice' decimate a nation
+because it refuses unconditionally to submit to a foreign yoke?"
+But if patriotism has no value a foreign yoke has no injustice.
+"Can we contemplate," he continues, "the absolute annexation
+of the territory of two foreign States, 'a penalty so extreme
+as to be without parallel in the [[history]] of modern nations
+since the partition of Poland?'"  It is the opinion of many,
+including myself, that annexation is far too great a penalty.
+But if patriotism has no sanctity, it is not a penalty at all.
+If the lines between nations are really as needless and arbitrary
+as Mr. Godard represents, it is no more cruel to take over a Boer
+farm from the Republic to the Empire than to transfer a particular
+street from Fulham to Hammersmith.  If there were a passionate
+patriotic feeling in Hammersmith; if the inhabitants delighted
+in boasting that the [[Flag|flag]] of Hammersmith had never fallen
+in war, that the women of Hammersmith were the most beautiful
+and the wines of Hammersmith the most rejoicing in the world,
+then I myself should thoroughly sympathize with Hammersmith,
+entertaining, as I probably should, similar convictions
+about South Kensington.  But presumably Mr. Godard would not.
+He considers any peculiar attachment to a nation narrow and immoral.
+He must, therefore, I infer, consider the present resistance
+of the Boers a hideous and ghastly thing, the deluging of a whole
+country with [[Blood|blood]] by madmen fighting for a detestable prejudice.
+I do not.
+
 I am very little terrified by Mr. Godard's catalogue of the wars
 and woes wrought by patriotism.  Of all methods of testing a great idea
 this method seems to me the worst.  Mankind have always been ready
@@ -22,8 +60,8 @@ catalogues of dead and wounded only show how necessary they
 thought it.  Mr. Godard declares that patriotism is, on account
 of its cruelties and its [[Pride|pride]], inconsistent with [[Christianity]].
 But if peace is the test, how will [[Christianity]] itself stand it?
-Again, he declares patriotism to be inimical to liberty and [[Democracy|democracy]].
-But if peace is the test, how will liberty and [[Democracy|democracy]] stand it?
+Again, he declares patriotism to be inimical to liberty and [[democracy]].
+But if peace is the test, how will liberty and [[democracy]] stand it?
 The [[French Revolution]] has led to at least as much bloodshed as any
 national sentiment in the world.  Rosseau is at one with a greater,
 in that he assuredly did not bring peace but a [[Sword|sword]].
@@ -73,55 +111,3 @@ with dynamite hundreds of harmless people whom they have never seen.
 from the pinnacle of a virtue and be replaced by [[Humanitarianism|humanitarianism]],
 and there shall [[Dawn|dawn]] the day of peace on earth and goodwill to men."
 And of this cosmopolitan [[philosophy]] the first fruits are the Dynamiters.
-
-Of some of Mr. Godard's arguments I will not speak at length,
-for we think he must have employed them in some haste.
-We cannot see the philosophical bearing of such a remark as that
-"patriotism fights against the best interests of the patria."
-It seems to us like saying that we dislike total abstainers
-because we find they all drink.  In that case it would
-not be total abstinence that we disliked, but drinking.
-If certain so-called "patriots" work against the patria the case
-against them does not lie in the charge that they are patriotic,
-but in the charge that they are not.
-
-The fact is that Mr. Godard has erred by confusing two things.
-[[Christianity]] is a symbol, the dim and shifting symbol,
-of a certain [[Love|love]] of all things, a certain loyalty to
-the universe to which we all rise in our higher moments.
-It is not the [[Love|love]] of humanity, it goes out to cats and tadpoles.
-It is an inspiration far too mysterious to be bridled or counted upon;
-far too certain to be demonstrated; far too perfect to be praised.
-It has nothing to do with practical politics or material privileges;
-it extends itself with a calm [[Conscience|conscience]] to the creatures we burden
-for transport and slay for food.  It is a moment in which we
-realize our kinship with the [[Stars|stars]] and the stones in the [[Road|road]];
-in which our sensitiveness runs like a maze of nerves over the whole
-Cosmos until a falling star or a stricken tree is like a wound
-upon our bodies.  But this gigantic [[Self|self]] is a thing that even
-the greatest and purest only realize at certain [[Seasons|seasons]].
-It does not and cannot have anything to do with those working loyalties
-which we have to preserve in order to preserve our mode of life.
-That terrible truce in which the [[Lion|lion]] lies down with the [[Lamb|lamb]] is
-a vision, not a daily rule.  For natural purposes, we assert our
-family against our fellow-countrymen, our country against humanity,
-humanity against [[Nature|nature]].
-
-Mr. Godard never seems to realize that he does belong to a country.
-Great Britain is no more a geographical area than the Order of the
-Jesuits or the Cocoa Tree Club.  Like them, it is a centre of power,
-numbering certain persons within its rules and responsibilities.
-It is not humanity which prevents Mr. Godard from being knocked
-down with a bludgeon; it is his country and his country [[Alone|alone]].
-It is not humanity that makes Mr. Godard pay for a dog-license,
-it is his country and his country [[Alone|alone]].  The only real error
-of Mr. Godard is that he calls upon a mere abstract sentiment,
-however natural and beautiful, to take the place of what is a necessary
-working sentiment designed for certain definite relations of life.  It is
-like saying, "Let a soldier's obedience to his officers be removed from
-the pinnacle of a virtue and replaced by a [[Love|love]] of all living things."
-Patriotism is obviously a virtue so long as there is a patria.
-Mr. Godard seems to think that a nation will remain strong and
-independent automatically, without any assistance from patriotism.
-I should be inclined to ask what is keeping the Boer nation in existence
-at this moment.

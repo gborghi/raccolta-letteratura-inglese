@@ -1,5 +1,5 @@
 ---
-title: "[[Shaw]] — THE PHILOSOPHER (part 3)"
+title: "Shaw — THE PHILOSOPHER (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/shaw-(chesterton)"
@@ -48,7 +48,7 @@ and enjoy the things commonly called convention and tradition;
 which are foods upon which all human creatures must feed frequently
 if they are to live.  Very few modern people of course have any
 idea of what they are.  "Convention" is very nearly the same word
-as "[[Democracy|democracy]]." It has again and again in [[history]] been used as an
+as "[[democracy]]." It has again and again in [[history]] been used as an
 alternative word to Parliament.  So far from suggesting anything
 stale or sober, the word convention rather conveys a hubbub;
 it is the coming together of men; every mob is a convention.

@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 23: I CORROBORATE Mr. DICK, AND CHOOSE A PROFESSION"
+title: "David Copperfield — Chapter 23: I CORROBORATE Mr. DICK, AND CHOOSE A PROFESSION"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/david-copperfield-(dickens)"

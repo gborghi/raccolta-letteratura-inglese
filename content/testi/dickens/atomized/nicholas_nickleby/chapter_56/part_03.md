@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 56 (part 3)"
+title: "Nicholas Nickleby — Chapter 56 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -148,12 +148,3 @@ not?’
 Snawley; a man whom I have paid much less than I have you?’
 
 ‘He certainly did it cheap, did Snawley,’ observed Squeers.
-
-‘He did it cheap!’ retorted Ralph, testily; ‘yes, and he did it [[Well|well]],
-and carries it off with a hypocritical face and a sanctified air, but
-you! Risk! What do you mean by risk? The certificates are all genuine,
-Snawley HAD another son, he HAS been married twice, his first wife IS
-dead, none but her [[Ghost|ghost]] could tell that she didn’t write that letter,
-none but Snawley himself can tell that this is not his son, and that his
-son is food for worms! The only perjury is Snawley’s, and I fancy he is
-pretty [[Well|well]] used to it. Where’s your risk?’

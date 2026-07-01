@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 9 (part 5)"
+title: "Martin Chuzzlewit — Chapter 9 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_09/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_09/part_06">part 06 ›</a></div>
 </nav>
 
+
+‘If you will give that to your distinguished parents, my amiable little
+friend,’ said Mr Pecksniff, producing one of his professional cards,
+‘and will say that I and my daughters--’
+
+‘And Mrs Todgers, pa,’ said Merry.
+
+‘And Mrs Todgers, of [[London]],’ added Mr Pecksniff; ‘that I, and my
+daughters, and Mrs Todgers, of [[London]], did not intrude upon them, as our
+object simply was to take some notice of Miss Pinch, whose brother is a
+young man in my employment; but that I could not leave this very chaste
+mansion, without adding my humble tribute, as an Architect, to
+the correctness and elegance of the owner’s taste, and to his just
+appreciation of that beautiful art to the cultivation of which I have
+devoted a life, and to the promotion of whose glory and advancement I
+have sacrified a--a fortune--I shall be very much obliged to you.’
 
 ‘Missis’s compliments to Miss Pinch,’ said the footman, suddenly
 appearing, and speaking in exactly the same key as before, ‘and begs to
@@ -128,17 +144,3 @@ circumstances, might reasonably have been expected. To that they added
 (with a trifling inconsistency), that he was a brute and a bear; and
 then they merged into a flood of [[Tears|tears]], which swept away all wandering
 epithets before it.
-
-Perhaps Miss Pinch was scarcely so much to blame in the matter as the
-Seraph, who, immediately on the withdrawal of the visitors, had hastened
-to report them at head-quarters, with a full account of their having
-presumptuously charged her with the delivery of a message afterwards
-consigned to the footman; which outrage, taken in conjunction with Mr
-Pecksniff’s unobtrusive remarks on the establishment, might possibly
-have had some share in their dismissal. Poor Miss Pinch, however, had to
-bear the brunt of it with both parties; being so severely taken to task
-by the Seraph’s mother for having such vulgar acquaintances, that
-she was fain to retire to her own room in [[Tears|tears]], which her natural
-cheerfulness and submission, and the delight of having seen Mr
-Pecksniff, and having received a letter from her brother, were at first
-insufficient to repress.

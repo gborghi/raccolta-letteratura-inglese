@@ -1,5 +1,5 @@
 ---
-title: "[[The Landscape Garden]] (part 2)"
+title: "The Landscape Garden (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-landscape-garden-(poe)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_landscape_garden/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/the_landscape_garden/part/part_03">part 03 ›</a></div>
 </nav>
 
+
+      citizen, it would have been easy to suppose him engaging to
+
+      supreme excess in the fashionable extravagances of his [[Time|time]]; or
+
+      busying himself with political intrigues; or aiming at
 
       ministerial power; or purchasing increase of nobility, or
 
@@ -183,15 +189,3 @@ tags:
       towards solving what has always seemed to me [[An Enigma|an enigma]]. I mean
 
       the fact (which none but the ignorant dispute) that no such
-
-      combinations of scenery exist in [[Nature]] as the painter of genius
-
-      has in his power to produce. No such Paradises are to be found in
-
-      reality as have glowed upon the canvass of Claude. In the most
-
-      enchanting of natural landscapes, there will always be found a
-
-      defect or an excess—many excesses and defects. While the
-
-      component parts may exceed, individually, the highest skill of

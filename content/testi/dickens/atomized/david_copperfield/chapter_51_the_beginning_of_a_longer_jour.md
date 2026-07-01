@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 51: THE BEGINNING OF A LONGER [[Journey|JOURNEY]]"
+title: "David Copperfield — Chapter 51: THE BEGINNING OF A LONGER [[Journey|JOURNEY"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/david-copperfield-(dickens)"

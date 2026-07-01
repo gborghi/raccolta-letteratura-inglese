@@ -132,7 +132,7 @@ not even differ from it.  It may be that Trusts are rising like towers
 of gold and iron, overshadowing the earth and shutting out the sun;
 but they are only rising on the left side of the [[Road|road]].  It may be
 that Trades Unions are laying labyrinths of international insurrection,
-cellars stored with the dynamite of a merely destructive [[Democracy|democracy]];
+cellars stored with the dynamite of a merely destructive [[democracy]];
 but all that international maze lies to the left side of the [[Road|road]].
 Employment and unemployment are there; Marx and the Manchester School
 are there.  The left side of the [[Road|road]] may even go through

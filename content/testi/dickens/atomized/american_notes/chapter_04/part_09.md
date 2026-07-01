@@ -111,14 +111,3 @@ I do not remember one but it was clean and neat, and had its plant or two
 upon the [[Window|window]]-sill, or row of crockery upon the shelf, or small display
 of coloured prints upon the whitewashed wall, or, perhaps, its wooden
 [[Clock|clock]] behind the door.
-
-The orphans and young children are in an adjoining building separate from
-this, but a part of the same Institution.  Some are such little
-creatures, that the stairs are of Lilliputian measurement, fitted to
-their tiny strides.  The same consideration for their years and weakness
-is expressed in their very seats, which are perfect curiosities, and look
-like articles of furniture for a pauper doll’s-[[house]].  I can imagine the
-glee of our Poor Law Commissioners at the notion of these seats having
-arms and backs; but small spines being of older date than their
-occupation of the Board-room at Somerset [[house|House]], I thought even this
-provision very merciful and kind.

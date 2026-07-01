@@ -1,5 +1,5 @@
 ---
-title: "[[GKC-Autobiography]] — Chapter 5 (part 6)"
+title: "GKC-Autobiography — Chapter 5 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/gkc-autobiography-(chesterton)"
@@ -109,11 +109,3 @@ When Buxton had left the room she did so.
 "Do you think that was really necessary?" she said with a painful
 fixity, like one in a trance.  "Man is no better for a cutlet.
 Man does not really need cutlets."
-
-At this point she received hearty, one might almost say heavy support,
-from what was probably an unexpected quarter.
-
-"No, my dear," said Mrs. Crooks in resounding tones,
-"A man doesn't want a cutlet!  What's the good of a cutlet?
-What a man wants is a good chump chop or a bit of the under-cut;
-and I'd see he got it."

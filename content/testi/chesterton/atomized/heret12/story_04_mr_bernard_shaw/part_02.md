@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]] — Mr. Bernard [[Shaw]] (part 2)"
+title: "heret12 — Mr. Bernard Shaw (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/heret12-(chesterton)"
@@ -13,6 +13,23 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_04_mr_bernard_shaw/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_04_mr_bernard_shaw/part_03">part 03 ›</a></div>
 </nav>
 
+
+The [[Truth|truth]] is, that it is quite an error to suppose that absence
+of definite convictions gives the mind [[Freedom|freedom]] and agility.
+A man who believes something is ready and witty, because he has
+all his weapons about him.  He can apply his test in an instant.
+The man engaged in conflict with a man like Mr. Bernard [[Shaw]] may
+fancy he has ten faces; similarly a man engaged against a brilliant
+duellist may fancy that the [[Sword|sword]] of his foe has turned to ten swords
+in his hand.  But this is not really because the man is playing
+with ten swords, it is because he is aiming very straight with one.
+Moreover, a man with a definite belief always appears bizarre,
+because he does not change with the world; he has climbed into
+a fixed star, and the earth whizzes below him like a zoetrope.
+Millions of mild black-coated men call themselves sane and sensible
+merely because they always catch the fashionable insanity,
+because they are hurried into [[Madness|madness]] after [[Madness|madness]] by the maelstrom
+of the world.
 
 People accuse Mr. [[Shaw]] and many much sillier persons of "proving that black
 is white."  But they never ask whether the current colour-language is

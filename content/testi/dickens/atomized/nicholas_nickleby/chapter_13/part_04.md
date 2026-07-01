@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 13 (part 4)"
+title: "Nicholas Nickleby — Chapter 13 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_13/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_13/part_05">part 05 ›</a></div>
 </nav>
 
+
+‘Spare me, sir!’ cried [[Smike]].
+
+‘Oh! that’s all, is it?’ said Squeers. ‘Yes, I’ll flog you within an
+inch of your life, and spare you that.’
+
+‘Ha, ha, ha,’ laughed Mrs. Squeers, ‘that’s a good ‘un!’
+
+‘I was driven to do it,’ said [[Smike]] faintly; and casting another
+imploring look about him.
+
+‘Driven to do it, were you?’ said Squeers. ‘Oh! it wasn’t your fault; it
+was mine, I suppose--eh?’
 
 ‘A nasty, ungrateful, pig-headed, brutish, obstinate, sneaking
 dog,’ exclaimed Mrs. Squeers, taking [[Smike]]’s head under her arm, and
@@ -124,13 +137,3 @@ towards him, whom, on nearer approach, he discovered, to his infinite
 chagrin, to be no other than Mr. John Browdie, who, clad in cords and
 leather leggings, was urging his animal forward by means of a thick ash
 stick, which seemed to have been recently cut from some stout sapling.
-
-‘I am in no mood for more noise and riot,’ thought Nicholas, ‘and yet,
-do what I will, I shall have an altercation with this honest blockhead,
-and perhaps a blow or two from yonder staff.’
-
-In [[Truth|truth]], there appeared some reason to expect that such a result would
-follow from the encounter, for John Browdie no sooner saw Nicholas
-advancing, than he reined in his [[Horse|horse]] by the footpath, and waited until
-such [[Time|time]] as he should come up; looking meanwhile, very sternly between
-the [[Horse|horse]]’s ears, at Nicholas, as he came on at his leisure.

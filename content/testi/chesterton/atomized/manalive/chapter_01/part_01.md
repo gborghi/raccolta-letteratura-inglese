@@ -1,5 +1,5 @@
 ---
-title: "[[manalive]] — Chapter 1 (part 1)"
+title: "manalive — Chapter 1 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/manalive-(chesterton)"
@@ -18,7 +18,6 @@ tags:
 
 		   How the Great [[Wind]] Came
 		       to Beacon [[house|House]]
-
 
 A [[Wind|wind]] sprang high in the west, like a wave of unreasonable happiness,
 and tore eastward across England, trailing with it the frosty scent
@@ -113,28 +112,3 @@ and with that great rending of the sky by sun and [[Storm|storm]],
 she felt a girlish [[Melodrama|melodrama]] swell again within her.
 To the crashing orchestration of the air the clouds [[Rose|rose]]
 like the curtain of some long-expected pantomime.
-
-Nor, oddly, was the girl in blue entirely unimpressed by this
-[[Apocalypse|apocalypse]] in a private [[Garden|garden]]; though she was one of most prosaic
-and practical creatures alive.  She was, indeed, no other than
-the strenuous niece whose strength [[Alone|alone]] upheld that mansion of [[Decay|decay]].
-But as the gale swung and swelled the blue and white skirts till they
-took on the monstrous contours of Victorian crinolines, a sunken [[Memory|memory]]
-stirred in her that was almost [[Romance|romance]]--a [[Memory|memory]] of a dusty volume
-of _Punch_ in an aunt's [[house]] in infancy:  pictures of crinoline hoops
-and croquet hoops and some pretty story, of which perhaps they were a part.
-This half-perceptible fragrance in her thoughts faded almost instantly,
-and [[Diana]] Duke entered the [[house]] even more promptly than her companion.
-Tall, slim, aquiline, and dark, she seemed made for such swiftness.
-In [[Body|body]] she was of the breed of those [[Birds|birds]] and beasts that are at once
-long and alert, like greyhounds or herons or even like an [[Innocent|innocent]] snake.
-The whole [[house]] revolved on her as on a rod of steel.  It would
-be wrong to say that she commanded; for her own efficiency was so
-impatient that she obeyed herself before any one else obeyed her.
-Before electricians could mend a bell or locksmiths open a door,
-before dentists could pluck a tooth or butlers draw a tight cork,
-it was done already with the silent violence of her slim hands.
-She was light; but there was nothing leaping about her lightness.
-She spurned the ground, and she meant to spurn it.  People talk
-of the pathos and failure of plain women; but it is a more terrible
-thing that a beautiful woman may succeed in everything but womanhood.

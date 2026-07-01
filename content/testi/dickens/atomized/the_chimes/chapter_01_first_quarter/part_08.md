@@ -14,6 +14,20 @@ tags:
 </nav>
 
 
+Toby knew not whether to be agonised or glad, to see that Meg had turned
+a deadly white, and dropped her [[Lover|lover]]’s hand.
+
+‘And as for you, you dull dog,’ said the Alderman, turning with even
+increased cheerfulness and urbanity to the young [[smith]], ‘what are you
+thinking of being married for?  What do you want to be married for, you
+silly fellow?  If I was a fine, young, strapping chap like you, I should
+be ashamed of being milksop enough to pin myself to a woman’s
+apron-strings!  Why, she’ll be an old woman before you’re a middle-aged
+man!  And a pretty figure you’ll cut then, with a draggle-tailed wife and
+a crowd of squalling children crying after you wherever you go!’
+
+O, he knew how to banter the common people, [[Alderman Cute]]!
+
 ‘There!  Go along with you,’ said the Alderman, ‘and repent.  Don’t make
 such a [[Fool|fool]] of yourself as to get married on New Year’s Day.  You’ll
 think very differently of it, long before next New Year’s Day: a trim

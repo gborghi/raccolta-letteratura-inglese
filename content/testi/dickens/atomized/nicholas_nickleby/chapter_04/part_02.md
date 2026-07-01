@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 4 (part 2)"
+title: "Nicholas Nickleby — Chapter 4 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_04/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_04/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘Half-past three,’ muttered Mr. Squeers, turning from the [[Window|window]], and
+looking sulkily at the coffee-room [[Clock|clock]]. ‘There will be nobody here
+today.’
+
+Much vexed by this reflection, Mr. Squeers looked at the little boy to
+see whether he was doing anything he could beat him for. As he happened
+not to be doing anything at all, he merely boxed his ears, and told him
+not to do it again.
 
 ‘At Midsummer,’ muttered Mr. Squeers, resuming his complaint, ‘I took
 down ten boys; ten twenties is two hundred pound. I go back at eight
@@ -152,13 +161,3 @@ Belling his name is,--a Taunton boy that, sir.’
 
 ‘Is he, indeed?’ rejoined Mr. Snawley, looking at the poor little urchin
 as if he were some extraordinary natural curiosity.
-
-‘He goes down with me tomorrow, sir,’ said Squeers. ‘That’s his luggage
-that he is a sitting upon now. Each boy is required to bring, sir, two
-suits of clothes, six shirts, six pair of stockings, two nightcaps, two
-pocket-handkerchiefs, two pair of shoes, two hats, and a razor.’
-
-‘A razor!’ exclaimed Mr. Snawley, as they walked into the next box. ‘What
-for?’
-
-‘To shave with,’ replied Squeers, in a slow and measured tone.

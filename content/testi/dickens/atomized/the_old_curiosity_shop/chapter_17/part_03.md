@@ -14,6 +14,13 @@ tags:
 </nav>
 
 
+They made a long day’s [[Journey|journey]], despite these interruptions, and were
+yet upon the [[Road|road]] when the [[Moon|moon]] was shining in the sky.  Short beguiled
+the [[Time|time]] with [[songs]] and jests, and made the best of everything that
+happened.  Mr Codlin on the other hand, cursed his fate, and all the
+hollow things of earth (but Punch especially), and limped along with
+the theatre on his back, a prey to the bitterest chagrin.
+
 They had stopped to rest beneath a finger-post where four roads met,
 and Mr Codlin in his deep [[Misanthropy|misanthropy]] had let down the drapery and
 seated himself in the [[Bottom|bottom]] of the show, invisible to mortal eyes and

@@ -1,5 +1,5 @@
 ---
-title: "[[history]] — Chapter 18"
+title: "history — Chapter 18"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/history-(chesterton)"
@@ -43,7 +43,7 @@ was also an epilogue.
 I make the guess, for it can be no more, that the change
 really came with the fall of [[Richard II]], following on
 his failure to use mediaeval despotism in the interests
-of mediaeval [[Democracy|democracy]].  England, like the other nations
+of mediaeval [[democracy]].  England, like the other nations
 of Christendom, had been created not so much by the [[Death|death]]
 of the ancient civilization as by its escape from [[Death|death]],
 or by its refusal to die.  Mediaeval civilization had arisen

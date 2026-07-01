@@ -1,5 +1,5 @@
 ---
-title: "[[The Devil in the Belfry]] (part 2)"
+title: "The Devil in the Belfry (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-devil-in-the-belfry-(poe)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_devil_in_the_belfry/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/the_devil_in_the_belfry/part/part_03">part 03 ›</a></div>
 </nav>
 
+
+      extremity by way of outrider. Between each cabbage and the
+
+      [[Time|time]]-piece, again, is a little China man having a large stomach
 
       with a great round hole in it, through which is seen the
 
@@ -201,17 +205,3 @@ tags:
       eyes, and his stomach, very far bigger—than those of any other
 
       old gentleman in the village; and as to his chin, it is not only
-
-      [[Double|double]], but triple.
-
-
-
-      I have thus painted the happy estate of Vondervotteimittiss:
-
-      alas, that so fair a picture should ever experience a reverse!
-
-
-
-      There has been long a saying among the wisest inhabitants, that
-
-      “no good can come from over the hills”; and it really seemed that

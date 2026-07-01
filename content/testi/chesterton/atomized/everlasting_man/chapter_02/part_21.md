@@ -14,6 +14,74 @@ tags:
 </nav>
 
 
+But in this one great human revelation of antiquity there
+is another element of great historical importance; which has
+hardly I think been given its proper place in [[history]].
+The poet has so conceived the poem that his sympathies apparently,
+and those of his reader certainly, are on the side of the vanquished
+rather than of the victor.  And this is a sentiment which increases
+in the poetical tradition even as the poetical origin itself recedes.
+[[Achilles]] had some status as a sort of demigod in pagan times;
+but he disappears altogether in late times.  But [[Hector]] grows greater
+as the ages pass, and it is his name that is the name of a Knight
+of the Round Table and his [[Sword|sword]] that legend puts into the hand
+of Roland, laying about him with the weapon of the defeated [[Hector]]
+in the last ruin and splendour of his own defeat.  The name anticipates
+all the defeats through which our race and religion were to pass;
+that [[Survival|survival]] of a hundred defeats that is its triumph.
+
+The tale of the end of Troy shall have no ending, for it is lifted up
+forever into living echoes, immortal as our hopelessness and our [[Hope|hope]].
+Troy standing was a small thing that may have stood nameless for ages.
+But Troy falling has been caught up in a flame and suspended
+in an immortal instant of annihilation; and because it
+was destroyed with [[Fire|fire]] the [[Fire|fire]] shall never be destroyed.
+And as with the [[City|city]] so with the [[Hero|hero]]; traced in archaic lines
+in that primeval twilight is found the first figure of the Knight.
+There is a prophetic coincidence in his title; we have spoken of the word
+chivalry and how it seems to mingle the horseman with the [[Horse|horse]].
+It is almost anticipated ages before in the thunder of the Homeric
+hexameter, and that long leaping word with which the Iliad ends.
+It is that very [[unity]] for which we can find no name but the holy
+centaur of chivalry.  But there are other reasons for giving
+in this glimpse of antiquity the name upon the sacred town.
+The sanctity of such towns ran like a [[Fire|fire]] round the coasts and islands of
+the northern Mediterranean, the high-fenced [[Hamlet|hamlet]] for which heroes died.
+From the smallness of the [[City|city]] came the [[Greatness|greatness]] of the citizen.
+Hellas with her hundred statues produced nothing statelier
+than that walking statue; the ideal of the [[Self|self]]-commanding man.
+Hellas of the hundred statues was one legend and literature;
+and all that labyrinth of little walled nations resounding with
+the lament of Troy.
+
+A later legend, an afterthought but not an accident, said that
+stragglers from Troy founded a republic on the Italian shore.
+It was true in spirit that republican virtue had such a root.
+A mystery of [[Honour|honour]], that was not born of Babylon or the Egyptian [[Pride|pride]],
+there shone like the shield of [[Hector]], defying Asia and Africa;
+till the light of a new day was loosened, with the rushing of the eagles
+and the coming of the name; the name that came like a thunderclap
+when the world woke to Rome.
+
+* * *
+
+IV
+
+GOD AND COMPARATIVE RELIGION
+
+I was once escorted over the Roman foundations of an ancient British
+[[City|city]] by a professor, who said something that seems to me a [[Satire|satire]]
+on a good many other professors.  Possibly [[The Professor|the professor]] saw the joke,
+though he maintained an iron gravity, and may or may not have
+realised that it was a joke against a great deal of what is called
+comparative religion.  I pointed out a sculpture of the head
+of the sun with the usual halo of rays, but with the difference
+that the face in the disc, instead of being boyish like [[Apollo]],
+was bearded like Neptune or Jupiter.  'Yes,' he said with a certain
+delicate exactitude, 'that is supposed to represent the local god Sul.
+The best authorities identify Sul with Minerva, but this has been
+held to show that the identification is not complete.'
+
 That is what we call a powerful understatement.  The modern world
 is madder than any satires on it; long ago Mr. Belloc made his
 burlesque don say that a bust of Ariadne had been proved by modern
@@ -66,56 +134,3 @@ of 'Nearer Mankind to Thee, nearer to Thee.'  It always suggested
 to me the sensations of a strap-hanged during a crush on the Tube.
 But it is strange and wonderful how far away the souls of men can seem,
 when their bodies are so near as all that.
-
-The human [[unity]] with which I deal here is not to be confounded
-with this modern industrial monotony and herding, which is rather
-a congestion than a communion.  It is a thing to which human groups
-left to themselves, and even human individuals left to themselves,
-have everywhere tended by an instinct that may truly be called human.
-Like all healthy human things, it has varied very much within
-the limits of a general character; for that is characteristic
-of everything belonging to that ancient land of liberty that lies
-before and around the servile industrial town.  Industrialism actually
-boasts that its products are all of one pattern; that men in Jamaica
-or Japan can break the same seal and drink the same bad whiskey,
-that a man at the North Pole and another at the South might recognise
-the same optimistic level on the same dubious tinned salmon.
-But wine, the gift of gods to men, can vary with every valley
-and every vineyard, can turn into a hundred wines without any wine
-once reminding us of whiskey; and cheeses can change from county
-to county without forgetting the difference between [[chalk]] and [[cheese]].
-When I am speaking of this thing, therefore, I am speaking of something
-that doubtless includes very wide differences; nevertheless I will here
-maintain that it is one thing.  I will maintain that most of the modern
-botheration comes from not realising that it is really one thing.
-I will advance the thesis that before all talk about comparative
-religion and the separate religious founders of the world, the first
-essential is to recognise this thing as a whole, as a thing almost
-native and normal to the great fellowship that we call mankind.
-This thing is Paganism, and I propose to show in these pages that it
-is the one real rival to the Church of [[Christ]].
-
-Comparative religion is very comparative indeed.  That is,
-it is so much a matter of degree and distance and difference
-that it is only comparatively successful when it tries to compare.
-When we come to look at it closely we find it comparing things
-that are really quite incomparable.  We are accustomed to see a table
-or catalogue of the world's great religions in parallel columns,
-until we fancy they are really parallel.  We are accustomed
-to see the names of the great religious founders all in a row:
-[[Christ]]; Mahomet; Buddha; Confucius.  But in [[Truth|truth]] this is only a trick,
-another of these optical illusions by which any objects may be put
-into a particular relation by shifting to a particular point of sight.
-Those religions and religious founders, or rather those whom we choose
-to lump together as religions and religious founders, do not really
-show any common character.  The illusion is partly produced by [[Islam]]
-coming immediately after [[Christianity]] in the list; as [[Islam]] did come
-after [[Christianity]] and was largely an [[Imitation|imitation]] of [[Christianity]].
-But the other eastern religions, or what we call religions,
-not only do not resemble the Church but do not resemble each other.
-When we come to Confucianism at the end of the list,
-we come to something in a totally different world of thought.
-To compare the Christian and Confucian religions is like comparing
-a theist with an English squire or asking whether a man is
-a believer in [[Immortality|immortality]] or a hundred-per-cent American.
-Confucianism may be a civilisation but it is not a religion.

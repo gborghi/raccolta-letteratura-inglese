@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 53 (part 1)"
+title: "Bleak House — Chapter 53 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -123,8 +123,3 @@ sort of [[Home|home]] to him, where he comes and goes as he likes at all
 hours, where he is always welcome and made much of, where he knows
 the whole establishment, and walks in an atmosphere of mysterious
 [[Greatness|greatness]].
-
-No knocking or ringing for Mr. Bucket. He has caused himself to be
-provided with a key and can pass in at his pleasure. As he is
-crossing the hall, Mercury informs him, “Here’s another letter for
-you, Mr. Bucket, come by post,” and gives it him.

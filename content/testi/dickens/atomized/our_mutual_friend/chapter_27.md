@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 3"
+title: "Our Mutual Friend — Chapter 5"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,484 +14,738 @@ tags:
 </nav>
 
 
-Chapter 3
-
-A PIECE OF WORK
-
-
-Britannia, sitting meditating one fine day (perhaps in the attitude in
-which she is presented on the copper coinage), discovers all of a sudden
-that she wants Veneering in Parliament. It occurs to her that Veneering
-is ‘a representative man’—which cannot in these times be doubted—and
-that Her Majesty’s faithful Commons are incomplete without him. So,
-Britannia mentions to a legal gentleman of her acquaintance that if
-Veneering will ‘put down’ five thousand pounds, he may write a couple
-of initial letters after his name at the extremely cheap rate of two
-thousand five hundred per letter. It is clearly understood between
-Britannia and the legal gentleman that nobody is to take up the five
-thousand pounds, but that being put down they will disappear by magical
-conjuration and enchantment.
-
-The legal gentleman in Britannia’s confidence going straight from that
-lady to Veneering, thus commissioned, Veneering declares himself highly
-flattered, but requires breathing [[Time|time]] to ascertain ‘whether his friends
-will rally round him.’ Above all things, he says, it behoves him to be
-clear, at a crisis of this importance, ‘whether his friends will rally
-round him.’ The legal gentleman, in the interests of his client cannot
-allow much [[Time|time]] for this purpose, as the lady rather thinks she knows
-somebody prepared to put down six thousand pounds; but he says he will
-give Veneering four hours.
-
-Veneering then says to Mrs Veneering, ‘We must work,’ and throws himself
-into a Hansom cab. Mrs Veneering in the same moment relinquishes baby
-to [[Nurse]]; presses her aquiline hands upon her brow, to arrange the
-throbbing intellect within; orders out the carriage; and repeats in
-a distracted and devoted manner, compounded of [[Ophelia]] and any
-[[Self|self]]-immolating female of antiquity you may prefer, ‘We must work.’
-
-Veneering having instructed his driver to charge at the Public in the
-streets, like the Life-Guards at Waterloo, is driven furiously to Duke
-Street, Saint James’s. There, he finds Twemlow in his lodgings, fresh
-from the hands of a secret [[Artist|artist]] who has been doing something to his
-hair with yolks of eggs. The process requiring that Twemlow shall, for
-two hours after the application, allow his hair to stick upright and dry
-gradually, he is in an appropriate state for the receipt of startling
-intelligence; looking equally like the Monument on Fish Street [[Hill]], and
-[[King]] Priam on a certain incendiary occasion not wholly unknown as a neat
-point from the classics.
-
-‘My dear Twemlow,’ says Veneering, grasping both his hands, ‘as the
-dearest and oldest of my friends—’
-
-(‘Then there can be no more [[Doubt|doubt]] about it in future,’ thinks Twemlow,
-‘and I AM!’)
-
-‘—Are you of opinion that your cousin, Lord Snigsworth, would give his
-name as a Member of my Committee? I don’t go so far as to ask for his
-lordship; I only ask for his name. Do you think he would give me his
-name?’
-
-In sudden low spirits, Twemlow replies, ‘I don’t think he would.’
-
-‘My political opinions,’ says Veneering, not previously aware of having
-any, ‘are identical with those of Lord Snigsworth, and perhaps as a
-matter of public feeling and public principle, Lord Snigsworth would
-give me his name.’
-
-‘It might be so,’ says Twemlow; ‘but—’ And perplexedly scratching his
-head, forgetful of the yolks of eggs, is the more discomfited by being
-reminded how stickey he is.
-
-‘Between such old and intimate friends as ourselves,’ pursues Veneering,
-‘there should in such a case be no reserve. Promise me that if I ask you
-to do anything for me which you don’t like to do, or feel the slightest
-difficulty in doing, you will freely tell me so.’
-
-This, Twemlow is so kind as to promise, with every appearance of most
-heartily intending to keep his word.
-
-‘Would you have any objection to write down to Snigsworthy Park, and ask
-this favour of Lord Snigsworth? Of course if it were granted I should
-know that I owed it solely to you; while at the same [[Time|time]] you would put
-it to Lord Snigsworth entirely upon public grounds. Would you have any
-objection?’
-
-Says Twemlow, with his hand to his forehead, ‘You have exacted a promise
-from me.’
-
-‘I have, my dear Twemlow.’
-
-‘And you expect me to keep it honourably.’
-
-‘I do, my dear Twemlow.’
-
-‘ON the whole, then;—observe me,’ urges Twemlow with great nicety, as
-if; in the case of its having been off the whole, he would have done it
-directly—‘ON the whole, I must beg you to excuse me from addressing any
-communication to Lord Snigsworth.’
-
-‘Bless you, bless you!’ says Veneering; horribly disappointed, but
-grasping him by both hands again, in a particularly fervent manner.
-
-It is not to be wondered at that poor Twemlow should decline to inflict
-a letter on his noble cousin (who has gout in the temper), inasmuch
-as his noble cousin, who allows him a small annuity on which he lives,
-takes it out of him, as the phrase goes, in extreme severity; putting
-him, when he visits at Snigsworthy Park, under a kind of martial law;
-ordaining that he shall hang his hat on a particular peg, sit on a
-particular chair, talk on particular subjects to particular people, and
-perform particular exercises: such as sounding the praises of the Family
-Varnish (not to say Pictures), and abstaining from the choicest of the
-Family Wines unless expressly invited to partake.
-
-‘One thing, however, I CAN do for you,’ says Twemlow; ‘and that is, work
-for you.’
-
-Veneering blesses him again.
-
-‘I’ll go,’ says Twemlow, in a rising hurry of spirits, ‘to the
-club;—let us see now; what o’[[Clock|clock]] is it?’
-
-‘Twenty minutes to eleven.’
-
-‘I’ll be,’ says Twemlow, ‘at the club by ten minutes to twelve, and I’ll
-never leave it all day.’
-
-Veneering feels that his friends are rallying round him, and says,
-‘Thank you, thank you. I knew I could rely upon you. I said to Anastatia
-before leaving [[Home|home]] just now to come to you—of course the first friend
-I have seen on a subject so momentous to me, my dear Twemlow—I said to
-Anastatia, “We must work.”’
-
-‘You were right, you were right,’ replies Twemlow. ‘Tell me. Is SHE
-working?’
-
-‘She is,’ says Veneering.
-
-‘Good!’ cries Twemlow, polite little gentleman that he is. ‘A woman’s
-tact is invaluable. To have the dear sex with us, is to have everything
-with us.’
-
-‘But you have not imparted to me,’ remarks Veneering, ‘what you think of
-my entering the [[house|House]] of Commons?’
-
-‘I think,’ rejoins Twemlow, feelingly, ‘that it is the best club in
-[[London]].’
-
-Veneering again blesses him, plunges down stairs, rushes into his
-Hansom, and directs the driver to be up and at the British Public, and
-to charge into the [[City]].
-
-Meanwhile Twemlow, in an increasing hurry of spirits, gets his hair down
-as [[Well|well]] as he can—which is not very [[Well|well]]; for, after these glutinous
-applications it is restive, and has a surface on it somewhat in the
-[[Nature|nature]] of pastry—and gets to the club by the appointed [[Time|time]]. At the
-club he promptly secures a large [[Window|window]], writing materials, and all
-the newspapers, and establishes himself; immoveable, to be respectfully
-contemplated by Pall Mall. Sometimes, when a man enters who nods to
-him, Twemlow says, ‘Do you know Veneering?’ Man says, ‘No; member of
-the club?’ Twemlow says, ‘Yes. Coming in for Pocket-Breaches.’ Man says,
-‘Ah! [[Hope]] he may find it worth the money!’ yawns, and saunters out.
-Towards six o’[[Clock|clock]] of the afternoon, Twemlow begins to persuade
-himself that he is positively jaded with work, and thinks it much to be
-regretted that he was not brought up as a Parliamentary agent.
-
-From Twemlow’s, Veneering dashes at Podsnap’s place of business. Finds
-Podsnap reading the paper, standing, and inclined to be oratorical
-over the astonishing discovery he has made, that [[Italy]] is not England.
-Respectfully entreats Podsnap’s pardon for stopping the flow of his
-words of wisdom, and informs him what is in the [[Wind|wind]]. Tells Podsnap that
-their political opinions are identical. Gives Podsnap to understand that
-he, Veneering, formed his political opinions while sitting at the feet
-of him, Podsnap. Seeks earnestly to know whether Podsnap ‘will rally
-round him?’
-
-Says Podsnap, something sternly, ‘Now, first of all, Veneering, do you
-ask my advice?’
-
-Veneering falters that as so old and so dear a friend—
-
-‘Yes, yes, that’s all very [[Well|well]],’ says Podsnap; ‘but have you made up
-your mind to take this borough of Pocket-Breaches on its own terms, or
-do you ask my opinion whether you shall take it or leave it [[Alone|alone]]?’
-
-Veneering repeats that his heart’s [[Desire|desire]] and his [[Soul|soul]]’s thirst are,
-that Podsnap shall rally round him.
-
-‘Now, I’ll be plain with you, Veneering,’ says Podsnap, knitting his
-brows. ‘You will infer that I don’t care about Parliament, from the fact
-of my not being there?’
-
-Why, of course Veneering knows that! Of course Veneering knows that if
-Podsnap chose to go there, he would be there, in a space of [[Time|time]] that
-might be stated by the light and thoughtless as a jiffy.
-
-‘It is not worth my while,’ pursues Podsnap, becoming handsomely
-mollified, ‘and it is the reverse of important to my position. But it
-is not my wish to set myself up as law for another man, differently
-situated. You think it IS worth YOUR while, and IS important to YOUR
-position. Is that so?’
-
-Always with the proviso that Podsnap will rally round him, Veneering
-thinks it is so.
-
-‘Then you don’t ask my advice,’ says Podsnap. ‘Good. Then I won’t give
-it you. But you do ask my help. Good. Then I’ll work for you.’
-
-Veneering instantly blesses him, and apprises him that Twemlow is
-already working. Podsnap does not quite approve that anybody should
-be already working—regarding it rather in the light of a liberty—but
-tolerates Twemlow, and says he is a [[Well|well]]-connected old female who will
-do no harm.
-
-‘I have nothing very particular to do to-day,’ adds Podsnap, ‘and I’ll
-mix with some influential people. I had engaged myself to dinner, but
-I’ll send Mrs Podsnap and get off going myself; and I’ll dine with you
-at eight. It’s important we should report progress and compare notes.
-Now, let me see. You ought to have a couple of active energetic fellows,
-of gentlemanly manners, to go about.’
-
-Veneering, after cogitation, thinks of Boots and Brewer.
-
-‘Whom I have met at your [[house]],’ says Podsnap. ‘Yes. They’ll do very
-[[Well|well]]. Let them each have a cab, and go about.’
-
-Veneering immediately mentions what a blessing he feels it, to possess
-a friend capable of such grand administrative suggestions, and really
-is elated at this going about of Boots and Brewer, as an idea wearing
-an electioneering aspect and looking desperately like business. Leaving
-Podsnap, at a hand-gallop, he descends upon Boots and Brewer, who
-enthusiastically rally round him by at once bolting off in cabs, taking
-opposite directions. Then Veneering repairs to the legal gentleman in
-Britannia’s confidence, and with him transacts some delicate affairs
-of business, and issues an address to the independent electors of
-Pocket-Breaches, announcing that he is coming among them for their
-suffrages, as the mariner returns to the [[Home|home]] of his early [[Childhood|childhood]]: a
-phrase which is none the worse for his never having been near the place
-in his life, and not even now distinctly knowing where it is.
-
-Mrs Veneering, during the same eventful hours, is not idle. No sooner
-does the carriage turn out, all complete, than she turns into it, all
-complete, and gives the word ‘To Lady Tippins’s.’ That charmer dwells
-over a staymaker’s in the Belgravian Borders, with a life-size model
-in the [[Window|window]] on the ground floor of a distinguished [[Beauty|beauty]] in a blue
-petticoat, stay-lace in hand, looking over her shoulder at the town in
-[[Innocent|innocent]] surprise. As [[Well|well]] she may, to find herself dressing under the
-circumstances.
-
-Lady Tippins at [[Home|home]]? Lady Tippins at [[Home|home]], with the room darkened,
-and her back (like the lady’s at the ground-floor [[Window|window]], though for a
-different reason) cunningly turned towards the light. Lady Tippins is
-so surprised by seeing her dear Mrs Veneering so early—in the middle of
-the [[Night|night]], the pretty creature calls it—that her eyelids almost go up,
-under the influence of that emotion.
-
-To whom Mrs Veneering incoherently communicates, how that Veneering
-has been offered Pocket-Breaches; how that it is the [[Time|time]] for rallying
-round; how that Veneering has said ‘We must work’; how that she is here,
-as a wife and mother, to entreat Lady Tippins to work; how that the
-carriage is at Lady Tippins’s disposal for purposes of work; how that
-she, proprietress of said bran new elegant equipage, will return [[Home|home]] on
-foot—on bleeding feet if need be—to work (not specifying how), until
-she drops by the side of baby’s crib.
-
-‘My [[Love|love]],’ says Lady Tippins, ‘compose yourself; we’ll bring him in.’
-And Lady Tippins really does work, and work the Veneering horses too;
-for she clatters about town all day, calling upon everybody she knows,
-and showing her entertaining powers and green fan to immense advantage,
-by rattling on with, My dear [[Soul|soul]], what do you think? What do
-you suppose me to be? You’ll never guess. I’m pretending to be an
-electioneering agent. And for what place of all places? Pocket-Breaches.
-And why? Because the dearest friend I have in the world has bought it.
-And who is the dearest friend I have in the world? A man of the name of
-Veneering. Not omitting his wife, who is the other dearest friend I have
-in the world; and I positively declare I forgot their baby, who is the
-other. And we are carrying on this little farce to keep up appearances,
-and isn’t it refreshing! Then, my precious [[Child|child]], the fun of it is that
-nobody knows who these Veneerings are, and that they know nobody, and
-that they have a [[house]] out of the Tales of the Genii, and give dinners
-out of the Arabian Nights. Curious to see ’em, my dear? Say you’ll know
-’em. Come and dine with ’em. They shan’t bore you. Say who shall meet
-you. We’ll make up a party of our own, and I’ll engage that they shall
-not interfere with you for one single moment. You really ought to see
-their gold and silver camels. I call their dinner-table, the Caravan.
-Do come and dine with my Veneerings, my own Veneerings, my exclusive
-property, the dearest friends I have in the world! And above all, my
-dear, be sure you promise me your vote and interest and all sorts of
-plumpers for Pocket-Breaches; for we couldn’t think of spending sixpence
-on it, my [[Love|love]], and can only consent to be brought in by the spontaneous
-thingummies of the incorruptible whatdoyoucallums.
-
-Now, the point of view seized by the bewitching Tippins, that this same
-working and rallying round is to keep up appearances, may have something
-in it, but not all the [[Truth|truth]]. More is done, or considered to be
-done—which does as [[Well|well]]—by taking cabs, and ‘going about,’ than the
-fair Tippins knew of. Many vast vague reputations have been made,
-solely by taking cabs and going about. This particularly obtains in all
-Parliamentary affairs. Whether the business in hand be to get a man in,
-or get a man out, or get a man over, or promote a railway, or jockey
-a railway, or what else, nothing is understood to be so effectual as
-scouring nowhere in a violent hurry—in short, as taking cabs and going
-about.
-
-Probably because this reason is in the air, Twemlow, far from being
-singular in his [[Persuasion|persuasion]] that he works like a Trojan, is capped by
-Podsnap, who in his turn is capped by Boots and Brewer. At eight o’[[Clock|clock]]
-when all these hard workers assemble to dine at Veneering’s, it is
-understood that the cabs of Boots and Brewer mustn’t leave the door, but
-that pails of [[Water|water]] must be brought from the nearest baiting-place,
-and cast over the horses’ legs on the very spot, lest Boots and Brewer
-should have instant occasion to mount and away. Those fleet messengers
-require the Analytical to see that their hats are deposited where they
-can be laid hold of at an instant’s notice; and they dine (remarkably
-[[Well|well]] though) with the air of firemen in charge of an engine, expecting
-intelligence of some tremendous conflagration.
-
-Mrs Veneering faintly remarks, as dinner opens, that many such days
-would be too much for her.
-
-‘Many such days would be too much for all of us,’ says Podsnap; ‘but
-we’ll bring him in!’
-
-‘We’ll bring him in,’ says Lady Tippins, sportively waving her green
-fan. ‘Veneering for ever!’
-
-‘We’ll bring him in!’ says Twemlow.
-
-‘We’ll bring him in!’ say Boots and Brewer.
-
-Strictly speaking, it would be hard to show cause why they should not
-bring him in, Pocket-Breaches having closed its little bargain, and
-there being no opposition. However, it is agreed that they must ‘work’
-to the last, and that if they did not work, something indefinite would
-happen. It is likewise agreed that they are all so exhausted with the
-work behind them, and need to be so fortified for the work before them,
-as to require peculiar strengthening from Veneering’s cellar. Therefore,
-the Analytical has orders to produce the cream of the cream of his
-binns, and therefore it falls out that rallying becomes rather a trying
-word for the occasion; Lady Tippins being observed gamely to inculcate
-the necessity of rearing round their dear Veneering; Podsnap advocating
-roaring round him; Boots and Brewer declaring their intention of reeling
-round him; and Veneering thanking his devoted friends one and all, with
-great emotion, for rarullarulling round him.
-
-In these inspiring moments, Brewer strikes out an idea which is the
-great hit of the day. He consults his watch, and says (like Guy Fawkes),
-he’ll now go down to the [[house|House]] of Commons and see how things look.
-
-‘I’ll keep about the lobby for an hour or so,’ says Brewer, with a
-deeply mysterious countenance, ‘and if things look [[Well|well]], I won’t come
-back, but will order my cab for nine in the morning.’
-
-‘You couldn’t do better,’ says Podsnap.
-
-Veneering expresses his inability ever to acknowledge this last service.
-[[Tears]] stand in Mrs Veneering’s affectionate eyes. Boots shows envy,
-loses ground, and is regarded as possessing a second-rate mind. They all
-crowd to the door, to see Brewer off. Brewer says to his driver, ‘Now,
-is your [[Horse|horse]] pretty fresh?’ eyeing the animal with critical scrutiny.
-Driver says he’s as fresh as butter. ‘Put him along then,’ says Brewer;
-‘[[house|House]] of Commons.’ Driver darts up, Brewer leaps in, they cheer him as
-he departs, and Mr Podsnap says, ‘Mark my words, sir. That’s a man of
-resource; that’s a man to make his way in life.’
-
-When the [[Time|time]] comes for Veneering to deliver a neat and appropriate
-stammer to the men of Pocket-Breaches, only Podsnap and Twemlow
-accompany him by railway to that sequestered spot. The legal gentleman
-is at the Pocket-Breaches Branch Station, with an open carriage with a
-printed bill ‘Veneering for ever’ stuck upon it, as if it were a wall;
-and they gloriously proceed, amidst the grins of the populace, to a
-feeble little town hall on crutches, with some onions and bootlaces
-under it, which the legal gentleman says are a Market; and from the
-front [[Window|window]] of that edifice Veneering speaks to the listening earth.
-In the moment of his taking his hat off, Podsnap, as per agreement made
-with Mrs Veneering, telegraphs to that wife and mother, ‘He’s up.’
-
-Veneering loses his way in the usual No Thoroughfares of speech, and
-Podsnap and Twemlow say Hear hear! and sometimes, when he can’t by any
-means back himself out of some very unlucky No Thoroughfare, ‘He-a-a-r
-He-a-a-r!’ with an air of facetious conviction, as if the ingenuity of
-the thing gave them a sensation of exquisite pleasure. But Veneering
-makes two remarkably good points; so good, that they are supposed
-to have been suggested to him by the legal gentleman in Britannia’s
-confidence, while briefly conferring on the stairs.
-
-Point the first is this. Veneering institutes an original comparison
-between the country, and a [[Ship|ship]]; pointedly calling the [[Ship|ship]], the Vessel
-of the State, and the Minister the Man at the Helm. Veneering’s object
-is to let Pocket-Breaches know that his friend on his right (Podsnap) is
-a man of wealth. Consequently says he, ‘And, gentlemen, when the timbers
-of the Vessel of the State are unsound and the Man at the Helm is
-unskilful, would those great Marine Insurers, who rank among our
-world-famed merchant-princes—would they insure her, gentlemen? Would
-they underwrite her? Would they incur a risk in her? Would they have
-confidence in her? Why, gentlemen, if I appealed to my honourable friend
-upon my right, himself among the greatest and most respected of that
-great and much respected class, he would answer No!’
-
-Point the second is this. The telling fact that Twemlow is related to
-Lord Snigsworth, must be let off. Veneering supposes a state of public
-affairs that probably never could by any possibility exist (though this
-is not quite certain, in consequence of his picture being unintelligible
-to himself and everybody else), and thus proceeds. ‘Why, gentlemen, if
-I were to indicate such a programme to any class of society, I say it
-would be received with derision, would be pointed at by the finger of
-scorn. If I indicated such a programme to any worthy and intelligent
-tradesman of your town—nay, I will here be personal, and say Our
-town—what would he reply? He would reply, “Away with it!” That’s what
-HE would reply, gentlemen. In his honest indignation he would reply,
-“Away with it!” But suppose I mounted higher in the social scale.
-Suppose I drew my arm through the arm of my respected friend upon my
-left, and, walking with him through the ancestral woods of his family,
-and under the spreading beeches of Snigsworthy Park, approached the
-noble hall, crossed the courtyard, entered by the door, went up the
-staircase, and, passing from room to room, found myself at last in
-the august presence of my friend’s near kinsman, Lord Snigsworth. And
-suppose I said to that venerable earl, “My Lord, I am here before your
-lordship, presented by your lordship’s near kinsman, my friend upon my
-left, to indicate that programme;” what would his lordship answer? Why,
-he would answer, “Away with it!” That’s what he would answer, gentlemen.
-“Away with it!” Unconsciously using, in his exalted sphere, the exact
-language of the worthy and intelligent tradesman of our town, the near
-and dear kinsman of my friend upon my left would answer in his wrath,
-“Away with it!”’
-
-Veneering finishes with this last [[success]], and Mr Podsnap telegraphs to
-Mrs Veneering, ‘He’s down.’
-
-Then, dinner is had at the Hotel with the legal gentleman, and then
-there are in due succession, nomination, and declaration. Finally Mr
-Podsnap telegraphs to Mrs Veneering, ‘We have brought him in.’
-
-Another gorgeous dinner awaits them on their return to the Veneering
-halls, and Lady Tippins awaits them, and Boots and Brewer await
-them. There is a modest assertion on everybody’s part that everybody
-single-handed ‘brought him in’; but in the main it is conceded by all,
-that that stroke of business on Brewer’s part, in going down to the
-[[house]] that [[Night|night]] to see how things looked, was the master-stroke.
-
-A touching little incident is related by Mrs Veneering, in the course of
-the evening. Mrs Veneering is habitually disposed to be tearful, and
-has an extra disposition that way after her late excitement. Previous
-to withdrawing from the dinner-table with Lady Tippins, she says, in a
-pathetic and physically weak manner:
-
-‘You will all think it foolish of me, I know, but I must mention it. As
-I sat by Baby’s crib, on the [[Night|night]] before the election, Baby was very
-uneasy in her [[Sleep|sleep]].’
-
-The Analytical chemist, who is gloomily looking on, has diabolical
-impulses to suggest ‘[[Wind]]’ and throw up his situation; but represses
-them.
-
-‘After an interval almost convulsive, Baby curled her little hands in
-one another and smiled.’
-
-Mrs Veneering stopping here, Mr Podsnap deems it incumbent on him to
-say: ‘I [[Wonder|wonder]] why!’
-
-‘Could it be, I asked myself,’ says Mrs Veneering, looking about her for
-her pocket-handkerchief, ‘that the Fairies were telling Baby that her
-papa would shortly be an M. P.?’
-
-So overcome by the sentiment is Mrs Veneering, that they all get up
-to make a clear stage for Veneering, who goes round the table to the
-rescue, and bears her out backward, with her feet impressively scraping
-the carpet: after remarking that her work has been too much for her
-strength. Whether the fairies made any mention of the five thousand
-pounds, and it disagreed with Baby, is not speculated upon.
-
-Poor little Twemlow, quite done up, is touched, and still continues
-touched after he is safely housed over the livery-stable yard in
-Duke Street, Saint James’s. But there, upon his sofa, a tremendous
-consideration breaks in upon the mild gentleman, putting all softer
-considerations to the rout.
-
-‘Gracious heavens! Now I have [[Time|time]] to think of it, he never saw one of
-his constituents in all his days, until we saw them together!’
-
-After having paced the room in distress of mind, with his hand to his
-forehead, the [[Innocent|innocent]] Twemlow returns to his sofa and moans:
-
-‘I shall either go distracted, or die, of this man. He comes upon me too
-late in life. I am not strong enough to bear him!’
+Chapter 5
+
+MERCURY PROMPTING
+
+
+Fledgeby deserved Mr Alfred Lammle’s eulogium. He was the meanest
+cur existing, with a single pair of legs. And instinct (a word we all
+clearly understand) going largely on four legs, and reason always on
+two, meanness on four legs never attains the perfection of meanness on
+two.
+
+The father of this young gentleman had been a money-lender, who
+had transacted professional business with the mother of this
+young gentleman, when he, the latter, was waiting in the vast dark
+ante-chambers of the present world to be born. The lady, a widow, being
+unable to pay the money-lender, married him; and in due course, Fledgeby
+was summoned out of the vast dark ante-chambers to come and be presented
+to the Registrar-General. Rather a curious speculation how Fledgeby
+would otherwise have disposed of his leisure until Doomsday.
+
+Fledgeby’s mother offended her family by marrying Fledgeby’s father. It
+is one of the easiest achievements in life to offend your family when
+your family want to get rid of you. Fledgeby’s mother’s family had
+been very much offended with her for being poor, and broke with her
+for becoming comparatively rich. Fledgeby’s mother’s family was the
+Snigsworth family. She had even the high [[Honour|honour]] to be cousin to Lord
+Snigsworth—so many times removed that the noble Earl would have had no
+compunction in removing her one [[Time|time]] more and dropping her clean outside
+the cousinly pale; but cousin for all that.
+
+Among her pre-matrimonial transactions with Fledgeby’s father,
+Fledgeby’s mother had raised money of him at a great disadvantage on a
+certain reversionary interest. The reversion falling in soon after they
+were married, Fledgeby’s father laid hold of the cash for his separate
+use and benefit. This led to subjective differences of opinion, not to
+say objective interchanges of boot-jacks, backgammon boards, and other
+such domestic missiles, between Fledgeby’s father and Fledgeby’s mother,
+and those led to Fledgeby’s mother spending as much money as she
+could, and to Fledgeby’s father doing all he couldn’t to restrain her.
+Fledgeby’s [[Childhood|childhood]] had been, in consequence, a stormy one; but the
+winds and the waves had gone down in the [[Grave|grave]], and Fledgeby flourished
+[[Alone|alone]].
+
+He lived in chambers in the Albany, did Fledgeby, and maintained a
+spruce appearance. But his youthful [[Fire|fire]] was all composed of sparks from
+the grindstone; and as the sparks flew off, went out, and never warmed
+anything, be sure that Fledgeby had his tools at the grindstone, and
+turned it with a wary eye.
+
+Mr Alfred Lammle came round to the Albany to breakfast with Fledgeby.
+Present on the table, one scanty pot of tea, one scanty loaf, two scanty
+pats of butter, two scanty rashers of bacon, two pitiful eggs, and an
+abundance of handsome china bought a secondhand bargain.
+
+‘What did you think of Georgiana?’ asked Mr Lammle.
+
+‘Why, I’ll tell you,’ said Fledgeby, very deliberately.
+
+‘Do, my boy.’
+
+‘You misunderstand me,’ said Fledgeby. ‘I don’t mean I’ll tell you that.
+I mean I’ll tell you something else.’
+
+‘Tell me anything, old fellow!’
+
+‘Ah, but there you misunderstand me again,’ said Fledgeby. ‘I mean I’ll
+tell you nothing.’
+
+Mr Lammle sparkled at him, but frowned at him too.
+
+‘Look here,’ said Fledgeby. ‘You’re deep and you’re ready. Whether I am
+deep or not, never mind. I am not ready. But I can do one thing, Lammle,
+I can hold my tongue. And I intend always doing it.’
+
+‘You are a long-headed fellow, Fledgeby.’
+
+‘May be, or may not be. If I am a short-tongued fellow, it may amount to
+the same thing. Now, Lammle, I am never going to answer questions.’
+
+‘My dear fellow, it was the simplest question in the world.’
+
+‘Never mind. It seemed so, but things are not always what they seem. I
+saw a man examined as a witness in Westminster Hall. Questions put to
+him seemed the simplest in the world, but turned out to be anything
+rather than that, after he had answered ’em. Very [[Well|well]]. Then he should
+have held his tongue. If he had held his tongue he would have kept out
+of scrapes that he got into.’
+
+‘If I had held my tongue, you would never have seen the subject of my
+question,’ remarked Lammle, darkening.
+
+‘Now, Lammle,’ said Fascination Fledgeby, calmly feeling for his
+whisker, ‘it won’t do. I won’t be led on into a discussion. I can’t
+manage a discussion. But I can manage to hold my tongue.’
+
+‘Can?’ Mr Lammle fell back upon propitiation. ‘I should think you could!
+Why, when these fellows of our acquaintance drink and you drink with
+them, the more talkative they get, the more silent you get. The more
+they let out, the more you keep in.’
+
+‘I don’t object, Lammle,’ returned Fledgeby, with an internal chuckle,
+‘to being understood, though I object to being questioned. That
+certainly IS the way I do it.’
+
+‘And when all the rest of us are discussing our ventures, none of us
+ever know what a single venture of yours is!’
+
+‘And none of you ever will from me, Lammle,’ replied Fledgeby, with
+another internal chuckle; ‘that certainly IS the way I do it.’
+
+‘Why of course it is, I know!’ rejoined Lammle, with a flourish of
+frankness, and a laugh, and stretching out his hands as if to show
+the universe a remarkable man in Fledgeby. ‘If I hadn’t known it of my
+Fledgeby, should I have proposed our little compact of advantage, to my
+Fledgeby?’
+
+‘Ah!’ remarked Fascination, shaking his head slyly. ‘But I am not to
+be got at in that way. I am not vain. That sort of [[Vanity|vanity]] don’t pay,
+Lammle. No, no, no. Compliments only make me hold my tongue the more.’
+
+Alfred Lammle pushed his plate away (no great sacrifice under the
+circumstances of there being so little in it), thrust his hands in his
+pockets, leaned back in his chair, and contemplated Fledgeby in [[Silence|silence]].
+Then he slowly released his left hand from its pocket, and made that
+bush of his whiskers, still contemplating him in [[Silence|silence]]. Then he slowly
+broke [[Silence|silence]], and slowly said: ‘What—the—Dev-il is this fellow about
+this morning?’
+
+‘Now, look here, Lammle,’ said Fascination Fledgeby, with the meanest
+of twinkles in his meanest of eyes: which were too near together, by
+the way: ‘look here, Lammle; I am very [[Well|well]] aware that I didn’t show to
+advantage last [[Night|night]], and that you and your wife—who, I consider, is
+a very clever woman and an agreeable woman—did. I am not calculated to
+show to advantage under that sort of circumstances. I know very [[Well|well]] you
+two did show to advantage, and managed capitally. But don’t you on that
+account come talking to me as if I was your doll and puppet, because I
+am not.
+
+‘And all this,’ cried Alfred, after studying with a look the meanness
+that was fain to have the meanest help, and yet was so mean as to turn
+upon it: ‘all this because of one simple natural question!’
+
+‘You should have waited till I thought proper to say something about it
+of myself. I don’t like your coming over me with your Georgianas, as if
+you was her proprietor and mine too.’
+
+‘[[Well]], when you are in the gracious mind to say anything about it of
+yourself,’ retorted Lammle, ‘pray do.’
+
+‘I have done it. I have said you managed capitally. You and your wife
+both. If you’ll go on managing capitally, I’ll go on doing my part. Only
+don’t crow.’
+
+‘I crow!’ exclaimed Lammle, shrugging his shoulders.
+
+‘Or,’ pursued the other—‘or take it in your head that people are your
+puppets because they don’t come out to advantage at the particular
+moments when you do, with the assistance of a very clever and agreeable
+wife. All the rest keep on doing, and let Mrs Lammle keep on doing. Now,
+I have held my tongue when I thought proper, and I have spoken when I
+thought proper, and there’s an end of that. And now the question is,’
+proceeded Fledgeby, with the greatest reluctance, ‘will you have another
+egg?’
+
+‘No, I won’t,’ said Lammle, shortly.
+
+‘Perhaps you’re right and will find yourself better without it,’ replied
+Fascination, in greatly improved spirits. ‘To ask you if you’ll have
+another rasher would be unmeaning flattery, for it would make you
+thirsty all day. Will you have some more bread and butter?’
+
+‘No, I won’t,’ repeated Lammle.
+
+‘Then I will,’ said Fascination. And it was not a mere retort for the
+sound’s sake, but was a cheerful cogent consequence of the refusal; for
+if Lammle had applied himself again to the loaf, it would have been so
+heavily visited, in Fledgeby’s opinion, as to demand abstinence from
+bread, on his part, for the remainder of that meal at least, if not for
+the whole of the next.
+
+Whether this young gentleman (for he was but three-and-twenty) combined
+with the miserly vice of an old man, any of the open-handed vices of
+a young one, was a moot point; so very honourably did he keep his own
+counsel. He was sensible of the value of appearances as an investment,
+and liked to dress [[Well|well]]; but he drove a bargain for every moveable about
+him, from the coat on his back to the china on his breakfast-table;
+and every bargain by representing somebody’s ruin or somebody’s loss,
+acquired a peculiar charm for him. It was a part of his avarice to take,
+within narrow bounds, long odds at races; if he won, he drove harder
+bargains; if he lost, he half starved himself until next [[Time|time]]. Why money
+should be so precious to an Ass too dull and mean to exchange it for any
+other satisfaction, is strange; but there is no animal so sure to get
+laden with it, as the Ass who sees nothing written on the face of the
+earth and sky but the three letters L. S. D.—not Luxury, Sensuality,
+Dissoluteness, which they often stand for, but the three dry letters.
+Your concentrated Fox is seldom comparable to your concentrated Ass in
+money-breeding.
+
+Fascination Fledgeby feigned to be a young gentleman living on his
+means, but was known secretly to be a kind of outlaw in the bill-broking
+line, and to put money out at high interest in various ways. His circle
+of familiar acquaintance, from Mr Lammle round, all had a touch of the
+outlaw, as to their rovings in the merry greenwood of Jobbery Forest,
+lying on the outskirts of the Share-Market and the Stock Exchange.
+
+‘I suppose you, Lammle,’ said Fledgeby, eating his bread and butter,
+‘always did go in for female society?’
+
+‘Always,’ replied Lammle, glooming considerably under his late
+treatment.
+
+‘Came natural to you, eh?’ said Fledgeby.
+
+‘The sex were pleased to like me, sir,’ said Lammle sulkily, but with
+the air of a man who had not been able to help himself.
+
+‘Made a pretty good thing of marrying, didn’t you?’ asked Fledgeby.
+
+The other smiled (an ugly smile), and tapped one tap upon his nose.
+
+‘My late governor made a mess of it,’ said Fledgeby. ‘But Geor—is the
+right name Georgina or Georgiana?’
+
+‘Georgiana.’
+
+‘I was thinking yesterday, I didn’t know there was such a name. I
+thought it must end in ina.’
+
+‘Why?’
+
+‘Why, you play—if you can—the Concertina, you know,’ replied
+Fledgeby, meditating very slowly. ‘And you have—when you catch it—the
+Scarlatina. And you can come down from a balloon in a parach—no you
+can’t though. [[Well]], say Georgeute—I mean Georgiana.’
+
+‘You were going to remark of Georgiana—?’ Lammle moodily hinted, after
+waiting in vain.
+
+‘I was going to remark of Georgiana, sir,’ said Fledgeby, not at all
+pleased to be reminded of his having forgotten it, ‘that she don’t seem
+to be violent. Don’t seem to be of the pitching-in order.’
+
+‘She has the gentleness of the dove, Mr Fledgeby.’
+
+‘Of course you’ll say so,’ replied Fledgeby, sharpening, the moment his
+interest was touched by another. ‘But you know, the real look-out is
+this:—what I say, not what you say. I say having my late governor
+and my late mother in my eye—that Georgiana don’t seem to be of the
+pitching-in order.’
+
+The respected Mr Lammle was a bully, by [[Nature|nature]] and by usual practice.
+Perceiving, as Fledgeby’s affronts cumulated, that conciliation by no
+means answered the purpose here, he now directed a scowling look
+into Fledgeby’s small eyes for the effect of the opposite treatment.
+Satisfied by what he saw there, he burst into a violent passion and
+struck his hand upon the table, making the china ring and [[Dance|dance]].
+
+‘You are a very offensive fellow, sir,’ cried Mr Lammle, rising. ‘You
+are a highly offensive scoundrel. What do you mean by this behaviour?’
+
+‘I say!’ remonstrated Fledgeby. ‘Don’t break out.’
+
+‘You are a very offensive fellow sir,’ repeated Mr Lammle. ‘You are a
+highly offensive scoundrel!’
+
+‘I SAY, you know!’ urged Fledgeby, quailing.
+
+‘Why, you coarse and vulgar vagabond!’ said Mr Lammle, looking fiercely
+about him, ‘if your servant was here to give me sixpence of your
+money to get my boots cleaned afterwards—for you are not worth the
+expenditure—I’d kick you.’
+
+‘No you wouldn’t,’ pleaded Fledgeby. ‘I am sure you’d think better of
+it.’
+
+‘I tell you what, Mr Fledgeby,’ said Lammle advancing on him. ‘Since
+you presume to contradict me, I’ll assert myself a little. Give me your
+nose!’
+
+Fledgeby covered it with his hand instead, and said, retreating, ‘I beg
+you won’t!’
+
+‘Give me your nose, sir,’ repeated Lammle.
+
+Still covering that feature and backing, Mr Fledgeby reiterated
+(apparently with a severe cold in his head), ‘I beg, I beg, you won’t.’
+
+‘And this fellow,’ exclaimed Lammle, stopping and making the most of his
+chest—‘This fellow presumes on my having selected him out of all the
+young fellows I know, for an advantageous opportunity! This fellow
+presumes on my having in my desk round the corner, his dirty note of
+hand for a wretched sum payable on the occurrence of a certain event,
+which event can only be of my and my wife’s bringing about! This fellow,
+Fledgeby, presumes to be impertinent to me, Lammle. Give me your nose
+sir!’
+
+‘No! Stop! I beg your pardon,’ said Fledgeby, with [[Humility|humility]].
+
+‘What do you say, sir?’ demanded Mr Lammle, seeming too furious to
+understand.
+
+‘I beg your pardon,’ repeated Fledgeby.
+
+‘Repeat your words louder, sir. The just indignation of a gentleman has
+sent the [[Blood|blood]] boiling to my head. I don’t hear you.’
+
+‘I say,’ repeated Fledgeby, with laborious explanatory politeness, ‘I
+beg your pardon.’
+
+Mr Lammle paused. ‘As a man of [[Honour|honour]],’ said he, throwing himself into a
+chair, ‘I am disarmed.’
+
+Mr Fledgeby also took a chair, though less demonstratively, and by
+slow approaches removed his hand from his nose. Some natural diffidence
+assailed him as to blowing it, so shortly after its having assumed a
+personal and delicate, not to say public, character; but he overcame
+his scruples by degrees, and modestly took that liberty under an implied
+protest.
+
+‘Lammle,’ he said sneakingly, when that was done, ‘I [[Hope|hope]] we are friends
+again?’
+
+‘Mr Fledgeby,’ returned Lammle, ‘say no more.’
+
+‘I must have gone too far in making myself disagreeable,’ said Fledgeby,
+‘but I never intended it.’
+
+‘Say no more, say no more!’ Mr Lammle repeated in a magnificent tone.
+‘Give me your’—Fledgeby started—‘hand.’
+
+They shook hands, and on Mr Lammle’s part, in particular, there ensued
+great geniality. For, he was quite as much of a dastard as the other,
+and had been in equal danger of falling into the second place for good,
+when he took heart just in [[Time|time]], to act upon the information conveyed to
+him by Fledgeby’s eye.
+
+The breakfast ended in a perfect understanding. Incessant machinations
+were to be kept at work by Mr and Mrs Lammle; [[Love|love]] was to be made for
+Fledgeby, and conquest was to be insured to him; he on his part
+very humbly admitting his defects as to the softer social arts, and
+entreating to be backed to the utmost by his two able coadjutors.
+
+Little recked Mr Podsnap of the traps and toils besetting his Young
+Person. He regarded her as safe within the Temple of Podsnappery, hiding
+the fulness of [[Time|time]] when she, Georgiana, should take him, Fitz-Podsnap,
+who with all his worldly goods should her endow. It would call a blush
+into the cheek of his standard Young Person to have anything to do with
+such matters save to take as directed, and with worldly goods as per
+settlement to be endowed. Who giveth this woman to be married to this
+man? I, Podsnap. Perish the daring thought that any smaller creation
+should come between!
+
+It was a public holiday, and Fledgeby did not recover his spirits or his
+usual temperature of nose until the afternoon. Walking into the [[City]] in
+the holiday afternoon, he walked against a living stream setting out of
+it; and thus, when he turned into the precincts of St Mary Axe, he found
+a prevalent repose and quiet there. A yellow overhanging plaster-fronted
+[[house]] at which he stopped was quiet too. The blinds were all drawn down,
+and the [[Inscription|inscription]] Pubsey and Co. seemed to doze in the counting-[[house]]
+[[Window|window]] on the ground-floor giving on the sleepy street.
+
+Fledgeby knocked and rang, and Fledgeby rang and knocked, but no
+one came. Fledgeby crossed the narrow street and looked up at the
+[[house]]-windows, but nobody looked down at Fledgeby. He got out of temper,
+crossed the narrow street again, and pulled the housebell as if it were
+the [[house]]’s nose, and he were taking a hint from his late experience.
+His ear at the keyhole seemed then, at last, to give him assurance that
+something stirred within. His eye at the keyhole seemed to confirm his
+ear, for he angrily pulled the [[house]]’s nose again, and pulled and pulled
+and continued to pull, until a human nose appeared in the dark doorway.
+
+‘Now you sir!’ cried Fledgeby. ‘These are nice games!’
+
+He addressed an old Jewish man in an ancient coat, long of skirt, and
+wide of pocket. A venerable man, bald and shining at the top of his
+head, and with long grey hair flowing down at its sides and mingling
+with his beard. A man who with a graceful Eastern action of homage bent
+his head, and stretched out his hands with the palms downward, as if to
+deprecate the wrath of a superior.
+
+‘What have you been up to?’ said Fledgeby, storming at him.
+
+‘Generous Christian master,’ urged the Jewish man, ‘it being holiday, I
+looked for no one.’
+
+‘Holiday he blowed!’ said Fledgeby, entering. ‘What have YOU got to do
+with holidays? Shut the door.’
+
+With his former action the old man obeyed. In the entry hung his rusty
+large-brimmed low-crowned hat, as long out of date as his coat; in the
+corner near it stood his staff—no walking-stick but a veritable staff.
+Fledgeby turned into the counting-[[house]], perched himself on a business
+stool, and cocked his hat. There were light boxes on shelves in the
+counting-[[house]], and strings of mock beads hanging up. There were samples
+of cheap clocks, and samples of cheap vases of [[Flowers|flowers]]. Foreign toys,
+all.
+
+Perched on the stool with his hat cocked on his head and one of his legs
+dangling, the youth of Fledgeby hardly contrasted to advantage with the
+age of the Jewish man as he stood with his bare head bowed, and his eyes
+(which he only raised in speaking) on the ground. His clothing was worn
+down to the rusty hue of the hat in the entry, but though he looked
+shabby he did not look mean. Now, Fledgeby, though not shabby, did look
+mean.
+
+‘You have not told me what you were up to, you sir,’ said Fledgeby,
+scratching his head with the brim of his hat.
+
+‘Sir, I was breathing the air.’
+
+‘In the cellar, that you didn’t hear?’
+
+‘On the [[house]]-top.’
+
+‘Upon my [[Soul|soul]]! That’s a way of doing business.’
+
+‘Sir,’ the old man represented with a [[Grave|grave]] and patient air, ‘there must
+be two parties to the transaction of business, and the holiday has left
+me [[Alone|alone]].’
+
+‘Ah! Can’t be buyer and seller too. That’s what the Jews say; ain’t it?’
+
+‘At least we say truly, if we say so,’ answered the old man with a
+smile.
+
+‘Your people need speak the [[Truth|truth]] sometimes, for they lie enough,’
+remarked Fascination Fledgeby.
+
+‘Sir, there is,’ returned the old man with quiet emphasis, ‘too much
+untruth among all denominations of men.’
+
+Rather dashed, Fascination Fledgeby took another scratch at his
+intellectual head with his hat, to gain [[Time|time]] for rallying.
+
+‘For instance,’ he resumed, as though it were he who had spoken last,
+‘who but you and I ever heard of a poor Jew?’
+
+‘The Jews,’ said the old man, raising his eyes from the ground with his
+former smile. ‘They hear of poor Jews often, and are very good to them.’
+
+‘Bother that!’ returned Fledgeby. ‘You know what I mean. You’d persuade
+me if you could, that you are a poor Jew. I wish you’d confess how much
+you really did make out of my late governor. I should have a better
+opinion of you.’
+
+The old man only bent his head, and stretched out his hands as before.
+
+‘Don’t go on posturing like a Deaf and Dumb School,’ said the ingenious
+Fledgeby, ‘but express yourself like a Christian—or as nearly as you
+can.’
+
+‘I had had sickness and misfortunes, and was so poor,’ said the old
+man, ‘as hopelessly to owe the father, principal and interest. The son
+inheriting, was so merciful as to forgive me both, and place me here.’
+
+He made a little gesture as though he kissed the hem of an imaginary
+garment worn by the noble youth before him. It was humbly done, but
+picturesquely, and was not abasing to the doer.
+
+‘You won’t say more, I see,’ said Fledgeby, looking at him as if he
+would like to try the effect of extracting a [[Double|double]]-tooth or two, ‘and
+so it’s of no use my putting it to you. But confess this, Riah; who
+believes you to be poor now?’
+
+‘No one,’ said the old man.
+
+‘There you’re right,’ assented Fledgeby.
+
+‘No one,’ repeated the old man with a [[Grave|grave]] slow wave of his head. ‘All
+scout it as a [[Fable|fable]]. Were I to say “This little fancy business is not
+mine”;’ with a lithe sweep of his easily-turning hand around him,
+to comprehend the various objects on the shelves; ‘“it is the little
+business of a Christian young gentleman who places me, his servant, in
+trust and charge here, and to whom I am accountable for every single
+bead,” they would laugh. When, in the larger money-business, I tell the
+borrowers—’
+
+‘I say, old chap!’ interposed Fledgeby, ‘I [[Hope|hope]] you mind what you DO
+tell ’em?’
+
+‘Sir, I tell them no more than I am about to repeat. When I tell them,
+“I cannot promise this, I cannot answer for the other, I must see my
+principal, I have not the money, I am a poor man and it does not rest
+with me,” they are so unbelieving and so impatient, that they sometimes
+curse me in Jehovah’s name.’
+
+‘That’s deuced good, that is!’ said Fascination Fledgeby.
+
+‘And at other times they say, “Can it never be done without these
+tricks, Mr Riah? Come, come, Mr Riah, we know the arts of your
+people”—my people!—“If the money is to be lent, fetch it, fetch it; if
+it is not to be lent, keep it and say so.” They never believe me.’
+
+‘THAT’S all right,’ said Fascination Fledgeby.
+
+‘They say, “We know, Mr Riah, we know. We have but to look at you, and
+we know.”’
+
+‘Oh, a good ’un are you for the post,’ thought Fledgeby, ‘and a good ’un
+was I to mark you out for it! I may be slow, but I am precious sure.’
+
+Not a syllable of this reflection shaped itself in any scrap of Mr
+Fledgeby’s breath, lest it should tend to put his servant’s price up.
+But looking at the old man as he stood quiet with his head bowed and his
+eyes cast down, he felt that to relinquish an inch of his baldness,
+an inch of his grey hair, an inch of his coat-skirt, an inch of his
+hat-brim, an inch of his walking-staff, would be to relinquish hundreds
+of pounds.
+
+‘Look here, Riah,’ said Fledgeby, mollified by these [[Self|self]]-approving
+considerations. ‘I want to go a little more into buying-up queer bills.
+Look out in that direction.’
+
+‘Sir, it shall be done.’
+
+‘Casting my eye over the accounts, I find that branch of business pays
+pretty fairly, and I am game for extending it. I like to know people’s
+affairs likewise. So look out.’
+
+‘Sir, I will, promptly.’
+
+‘Put it about in the right quarters, that you’ll buy queer bills by the
+lump—by the pound weight if that’s all—supposing you see your way to a
+fair chance on looking over the parcel. And there’s one thing more. Come
+to me with the books for periodical inspection as usual, at eight on
+Monday morning.’
+
+Riah drew some folding tablets from his breast and noted it down.
+
+‘That’s all I wanted to say at the present [[Time|time]],’ continued Fledgeby in
+a grudging vein, as he got off the stool, ‘except that I wish you’d take
+the air where you can hear the bell, or the knocker, either one of the
+two or both. By-the-by how DO you take the air at the top of the [[house]]?
+Do you stick your head out of a chimney-pot?’
+
+‘Sir, there are leads there, and I have made a little [[Garden|garden]] there.’
+
+‘To bury your money in, you old dodger?’
+
+‘A thumbnail’s space of [[Garden|garden]] would hold the treasure I bury, master,’
+said Riah. ‘Twelve shillings a week, even when they are an old man’s
+wages, bury themselves.’
+
+‘I should like to know what you really are worth,’ returned Fledgeby,
+with whom his growing rich on that stipend and gratitude was a very
+convenient fiction. ‘But come! Let’s have a look at your [[Garden|garden]] on the
+tiles, before I go!’
+
+The old man took a step back, and hesitated.
+
+‘Truly, sir, I have company there.’
+
+‘Have you, by George!’ said Fledgeby; ‘I suppose you happen to know
+whose premises these are?’
+
+‘Sir, they are yours, and I am your servant in them.’
+
+‘Oh! I thought you might have overlooked that,’ retorted Fledgeby, with
+his eyes on Riah’s beard as he felt for his own; ‘having company on my
+premises, you know!’
+
+‘Come up and see the guests, sir. I [[Hope|hope]] for your admission that they
+can do no harm.’
+
+Passing him with a courteous reverence, specially unlike any action that
+Mr Fledgeby could for his life have imparted to his own head and hands,
+the old man began to ascend the stairs. As he toiled on before, with his
+palm upon the stair-rail, and his long black skirt, a very gaberdine,
+overhanging each successive step, he might have been the leader in some
+pilgrimage of devotional ascent to a [[Prophet|prophet]]’s tomb. Not troubled by any
+such weak imagining, Fascination Fledgeby merely speculated on the [[Time|time]]
+of life at which his beard had begun, and thought once more what a good
+’un he was for the part.
+
+Some final wooden steps conducted them, stooping under a low penthouse
+roof, to the [[house]]-top. Riah stood still, and, turning to his master,
+pointed out his guests.
+
+[[Lizzie Hexam]] and [[Jenny Wren]]. For whom, perhaps with some old instinct of
+his race, the gentle Jew had spread a carpet. Seated on it, against
+no more romantic object than a blackened chimney-stack over which some
+bumble creeper had been trained, they both pored over one book; both
+with attentive faces; Jenny with the sharper; Lizzie with the more
+perplexed. Another little book or two were lying near, and a common
+basket of common fruit, and another basket full of strings of beads and
+tinsel scraps. A few boxes of humble [[Flowers|flowers]] and evergreens completed
+the [[Garden|garden]]; and the encompassing wilderness of dowager old chimneys
+twirled their cowls and fluttered their smoke, rather as if they were
+bridling, and fanning themselves, and looking on in a state of airy
+surprise.
+
+Taking her eyes off the book, to test her [[Memory|memory]] of something in it,
+Lizzie was the first to see herself observed. As she [[Rose|rose]], Miss Wren
+likewise became conscious, and said, irreverently addressing the great
+chief of the premises: ‘Whoever you are, I can’t get up, because my
+back’s bad and my legs are queer.’
+
+‘This is my master,’ said Riah, stepping forward.
+
+(‘Don’t look like anybody’s master,’ observed Miss Wren to herself, with
+a hitch of her chin and eyes.)
+
+‘This, sir,’ pursued the old man, ‘is a little dressmaker for little
+people. Explain to the master, Jenny.’
+
+‘Dolls; that’s all,’ said Jenny, shortly. ‘Very difficult to fit too,
+because their figures are so uncertain. You never know where to expect
+their waists.’
+
+‘Her friend,’ resumed the old man, motioning towards Lizzie; ‘and as
+industrious as virtuous. But that they both are. They are busy early and
+late, sir, early and late; and in bye-times, as on this holiday, they go
+to book-learning.’
+
+‘Not much good to be got out of that,’ remarked Fledgeby.
+
+‘Depends upon the person!’ quoth Miss Wren, snapping him up.
+
+‘I made acquaintance with my guests, sir,’ pursued the Jew, with an
+evident purpose of drawing out the dressmaker, ‘through their coming
+here to buy of our damage and waste for Miss Jenny’s millinery. Our
+waste goes into the best of company, sir, on her rosy-cheeked little
+customers. They wear it in their hair, and on their ball-dresses, and
+even (so she tells me) are presented at [[Court]] with it.’
+
+‘Ah!’ said Fledgeby, on whose intelligence this doll-fancy made rather
+strong demands; ‘she’s been buying that basketful to-day, I suppose?’
+
+‘I suppose she has,’ Miss Jenny interposed; ‘and paying for it too, most
+likely!’
+
+‘Let’s have a look at it,’ said the suspicious chief. Riah handed it to
+him. ‘How much for this now?’
+
+‘Two precious silver shillings,’ said Miss Wren.
+
+Riah confirmed her with two nods, as Fledgeby looked to him. A nod for
+each shilling.
+
+‘[[Well]],’ said Fledgeby, poking into the contents of the basket with his
+forefinger, ‘the price is not so bad. You have got good measure, Miss
+What-is-it.’
+
+‘Try Jenny,’ suggested that young lady with great calmness.
+
+‘You have got good measure, Miss Jenny; but the price is not so
+bad.—And you,’ said Fledgeby, turning to the other visitor, ‘do you buy
+anything here, miss?’
+
+‘No, sir.’
+
+‘Nor sell anything neither, miss?’
+
+‘No, sir.’
+
+Looking askew at the questioner, Jenny stole her hand up to her
+friend’s, and drew her friend down, so that she bent beside her on her
+knee.
+
+‘We are thankful to come here for rest, sir,’ said Jenny. ‘You see, you
+don’t know what the rest of this place is to us; does he, Lizzie? It’s
+the quiet, and the air.’
+
+‘The quiet!’ repeated Fledgeby, with a contemptuous turn of his head
+towards the [[City]]’s roar. ‘And the air!’ with a ‘Poof!’ at the smoke.
+
+‘Ah!’ said Jenny. ‘But it’s so high. And you see the clouds rushing
+on above the narrow streets, not minding them, and you see the golden
+arrows pointing at the [[Mountains|mountains]] in the sky from which the [[Wind|wind]] comes,
+and you feel as if you were dead.’
+
+The little creature looked above her, holding up her slight transparent
+hand.
+
+‘How do you feel when you are dead?’ asked Fledgeby, much perplexed.
+
+‘Oh, so tranquil!’ cried the little creature, smiling. ‘Oh, so peaceful
+and so thankful! And you hear the people who are alive, crying, and
+working, and calling to one another down in the close dark streets, and
+you seem to pity them so! And such a chain has fallen from you, and such
+a strange good sorrowful happiness comes upon you!’
+
+Her eyes fell on the old man, who, with his hands folded, quietly looked
+on.
+
+‘Why it was only just now,’ said the little creature, pointing at him,
+‘that I fancied I saw him come out of his [[Grave|grave]]! He toiled out at
+that low door so bent and worn, and then he took his breath and stood
+upright, and looked all round him at the sky, and the [[Wind|wind]] blew upon
+him, and his life down in the dark was over!—Till he was called back
+to life,’ she added, looking round at Fledgeby with that lower look of
+sharpness. ‘Why did you call him back?’
+
+‘He was long enough coming, anyhow,’ grumbled Fledgeby.
+
+‘But you are not dead, you know,’ said [[Jenny Wren]]. ‘Get down to life!’
+
+Mr Fledgeby seemed to think it rather a good suggestion, and with a nod
+turned round. As Riah followed to attend him down the stairs, the little
+creature called out to the Jew in a silvery tone, ‘Don’t be long gone.
+Come back, and be dead!’ And still as they went down they heard the
+little sweet voice, more and more faintly, half calling and half
+singing, ‘Come back and be dead, Come back and be dead!’
+
+When they got down into the entry, Fledgeby, pausing under the [[Shadow|shadow]] of
+the broad old hat, and mechanically poising the staff, said to the old
+man:
+
+‘That’s a handsome girl, that one in her senses.’
+
+‘And as good as handsome,’ answered Riah.
+
+‘At all events,’ observed Fledgeby, with a dry whistle, ‘I [[Hope|hope]] she
+ain’t bad enough to put any chap up to the fastenings, and get the
+premises broken open. You look out. Keep your weather eye awake and
+don’t make any more acquaintances, however handsome. Of course you
+always keep my name to yourself?’
+
+‘Sir, assuredly I do.’
+
+‘If they ask it, say it’s Pubsey, or say it’s Co, or say it’s anything
+you like, but what it is.’
+
+His grateful servant—in whose race gratitude is deep, strong, and
+enduring—bowed his head, and actually did now put the hem of his coat
+to his lips: though so lightly that the wearer knew nothing of it.
+
+Thus, Fascination Fledgeby went his way, exulting in the artful
+cleverness with which he had turned his thumb down on a Jew, and the old
+man went his different way up-stairs. As he mounted, the call or [[Song|song]]
+began to sound in his ears again, and, looking above, he saw the face
+of the little creature looking down out of a Glory of her long bright
+radiant hair, and musically repeating to him, like a vision:
+
+‘Come up and be dead! Come up and be dead!’

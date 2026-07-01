@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 8 (part 4)"
+title: "Shirley — Chapter 8 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -12,6 +12,26 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_08/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_08/part_05">part 05 ›</a></div>
 </nav>
+
+
+Unless your errand be something of that sort, I cannot see what you have
+
+to do with it."
+
+
+
+"I hadn't that duty on my mind, sir; but as [[Providence]] has led ye to
+
+mention the subject, I'll make it i' my way to tak ony trifle ye may
+
+have to spare; the smallest contribution will be acceptable."
+
+
+
+With that he doffed his hat, and held it out as a begging-box, a brazen
+
+grin at the same [[Time|time]] crossing his countenance.
+
 
 
 "If I gave you sixpence you would drink it."
@@ -201,27 +221,3 @@ come in my place. Hear me! I'll make my cloth as I please, and according
 to the best lights I have. In its manufacture I will employ what means I
 
 choose. Whoever, after hearing this, shall dare to interfere with me may
-
-just take the consequences. An example shall prove I'm in earnest."
-
-
-
-He whistled shrill and loud. Sugden, his staff and warrant, came on the
-
-scene.
-
-
-
-Moore turned sharply to Barraclough. "You were at Stilbro'," said he; "I
-
-have proof of that. You were on the moor, you wore a mask, you knocked
-
-down one of my men with your own hand--you! a preacher of the
-
-gospel!--Sugden, arrest him!"
-
-
-
-Moses was captured. There was a cry and a rush to rescue, but the right
-
-hand which all this while had lain hidden in Moore's breast,

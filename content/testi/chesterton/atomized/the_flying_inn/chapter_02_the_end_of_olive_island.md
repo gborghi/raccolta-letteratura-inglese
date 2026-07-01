@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_01_a_sermon_on_inns">‹ Chapter 01 A SERMON ON INNS</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_03_the_sign_of_the_old_ship">Chapter 03 THE SIGN OF THE OLD SHIP ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_01_a_sermon_on_inns">‹ Chapter 01 A SERMON ON INNS</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_03_the_sign_of_the_old_ship_ship">Chapter 03 THE SIGN OF THE OLD Ship SHIP ›</a></div>
 </nav>
 
 

@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 15 (part 1)"
+title: "Sense and Sensibility — Chapter 15 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/works/sense-and-sensibility-(austen)">Sense and Sensibility</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_10/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_15/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_13/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_15/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -251,15 +251,3 @@ _that_. He had not the power of accepting it. I have thought it all
 over I assure you, and I can perfectly account for every thing that at
 
 first seemed strange to me as [[Well|well]] as to you.”
-
-
-
-“Can you, indeed!”
-
-
-
-“Yes. I have explained it to myself in the most satisfactory way;—but
-
-you, Elinor, who [[Love|love]] to [[Doubt|doubt]] where you can—it will not satisfy _you_,
-
-I know; but you shall not talk _me_ out of my trust in it. I am

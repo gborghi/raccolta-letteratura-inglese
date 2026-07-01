@@ -1,5 +1,5 @@
 ---
-title: "[[divorce]] — Chapter 8 (part 2)"
+title: "divorce — Chapter 8 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/divorce-(chesterton)"
@@ -24,7 +24,7 @@ unusually blessed and inspired.  But whatever they [[Desire|desire]],
 it is as [[Well|well]] that they should realise exactly what they do;
 and in this case I should like to hear their criticisms in the matter
 of what they see.  They must surely see that in England at present,
-as in many parts of [[america|America]] in the past, the new liberty is being
+as in many parts of [[America]] in the past, the new liberty is being
 taken in the spirit of licence as if the exception were to be
 the rule, or, rather, perhaps the absence of rule.  This will especially
 be made manifest if we consider that the effect of the process is

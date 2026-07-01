@@ -140,7 +140,3 @@ of the belligerents, who scrambled to their feet and called for quarter.
 get near either of them for a parting blow. ‘I’ll bruise you until
 you’re copper-coloured, I’ll break your faces till you haven’t a
 profile between you, I will.’
-
-‘Come, you drop that stick or it’ll be worse for you,’ said his boy,
-dodging round him and watching an opportunity to rush in; ‘you drop
-that stick.’

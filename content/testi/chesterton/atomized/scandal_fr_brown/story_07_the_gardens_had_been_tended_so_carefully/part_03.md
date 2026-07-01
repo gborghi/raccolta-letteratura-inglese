@@ -116,12 +116,3 @@ eyes were far away and jet - burning, almost terrible - 'because the
 inside of our intellect has changed, because we really have a new idea
 of right, we shall do things you think really wrong. And they will be
 very practical.'
-
-'Yes,' said [[Father Brown]], suddenly coming out of his trance. 'That's
-exactly what I said.'
-
-He looked across at Craken with a glassy and rather ghastly smile,
-saying: 'Mr Craken and I are in complete agreement.'
-
-'[[Well]],' said Baker, 'Craken is going out to smoke a pipe with the
-plutocrats; but I [[Doubt|doubt]] whether it will be a pipe of peace.'

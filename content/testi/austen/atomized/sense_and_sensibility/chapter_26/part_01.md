@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 26 (part 1)"
+title: "Sense and Sensibility — Chapter 26 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/works/sense-and-sensibility-(austen)">Sense and Sensibility</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_23/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_26/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_24/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_26/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -203,9 +203,3 @@ would naturally produce; in the ecstasy of her feelings at that instant
 she could not help exclaiming, “Oh, Elinor, it is Willoughby, indeed it
 
 is!” and seemed almost ready to throw herself into his arms, when
-
-[[Colonel Brandon]] appeared.
-
-
-
-It was too great a shock to be borne with calmness, and she immediately

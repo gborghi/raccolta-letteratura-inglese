@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 46: FORTY SIX (part 3)"
+title: "Martin Chuzzlewit — Chapter 46: FORTY SIX (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,21 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_46_forty_six/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_46_forty_six/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘I [[Wonder|wonder]],’ said Tom, ‘that in these crowded streets the foot-passengers
+are not oftener run over.’
+
+Mr Moddle, with a dark look, replied:
+
+‘The drivers won’t do it.’
+
+‘Do you mean?’ Tom began--
+
+‘That there are some men,’ interrupted Moddle, with a hollow laugh, ‘who
+can’t get run over. They live a charmed life. Coal waggons recoil from
+them, and even cabs refuse to run them down. Ah!’ said Augustus, marking
+Tom’s astonishment. ‘There are such men. One of ‘em is a friend of
+mine.’
 
 ‘Upon my word and [[Honour|honour]],’ thought Tom, ‘this young gentleman is in
 a state of mind which is very serious indeed!’ Abandoning all idea of

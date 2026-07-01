@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 40 (part 1)"
+title: "Great Expectations — Chapter 40 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -129,6 +129,3 @@ were to be modified accordingly. Then I washed and dressed while they
 knocked the furniture about and made a [[Dust|dust]]; and so, in a sort of dream
 or [[Sleep|sleep]]-waking, I found myself sitting by the [[Fire|fire]] again, waiting
 for—Him—to come to breakfast.
-
-By and by, his door opened and he came out. I could not bring myself to
-bear the sight of him, and I thought he had a worse look by daylight.

@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 6 (part 2)"
+title: "Persuasion — Chapter 6 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_06/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_06/part_03">part 03 ›</a></div>
 </nav>
 
+
+quite different creatures with you! But to be sure, in general they are
+
+so spoilt! It is a pity you cannot put your sister in the way of
+
+managing them. They are as fine healthy children as ever were seen,
 
 poor little dears! without partiality; but Mrs Charles knows no more
 
@@ -197,15 +203,3 @@ dances to them by the hour together; a kindness which always
 recommended her musical powers to the notice of Mr and Mrs Musgrove
 
 more than anything else, and often drew this compliment;—“[[Well]] done,
-
-Miss Anne! very [[Well|well]] done indeed! Lord bless me! how those little
-
-fingers of yours fly about!”
-
-
-
-So passed the first three weeks. Michaelmas came; and now Anne’s heart
-
-must be in Kellynch again. A beloved [[Home|home]] made over to others; all the
-
-precious rooms and furniture, groves, and prospects, beginning to own

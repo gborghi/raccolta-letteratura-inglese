@@ -14,6 +14,16 @@ tags:
 </nav>
 
 
+The old man was by this [[Time|time]] up and dressed.  Mr Codlin, still doomed
+to contemplate the harsh realities of existence, was packing among his
+linen the candle-ends which had been saved from the previous [[Night|night]]’s
+performance; while his companion received the compliments of all the
+loungers in the stable-yard, who, unable to separate him from the
+master-mind of Punch, set him down as next in importance to that merry
+outlaw, and loved him scarcely less.  When he had sufficiently
+acknowledged his popularity he came in to breakfast, at which meal they
+all sat down together.
+
 ‘And where are you going to-day?’ said the little man, addressing
 himself to Nell.
 
@@ -124,10 +134,3 @@ held to be a libel on the beadle, for which reason the authorities
 enforced a quick retreat; but they were generally [[Well|well]] received, and
 seldom left a town without a troop of ragged children shouting at their
 heels.
-
-They made a long day’s [[Journey|journey]], despite these interruptions, and were
-yet upon the [[Road|road]] when the [[Moon|moon]] was shining in the sky.  Short beguiled
-the [[Time|time]] with [[songs]] and jests, and made the best of everything that
-happened.  Mr Codlin on the other hand, cursed his fate, and all the
-hollow things of earth (but Punch especially), and limped along with
-the theatre on his back, a prey to the bitterest chagrin.

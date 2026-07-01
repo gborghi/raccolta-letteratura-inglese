@@ -183,7 +183,7 @@ CHAPTER 1
 
 
 
-      My name is [[arthur|Arthur]] Gordon Pym. My father was a respectable trader
+      My name is [[Arthur]] Gordon Pym. My father was a respectable trader
 
       in sea-stores at Nantucket, where I was born. My maternal
 
@@ -271,7 +271,7 @@ CHAPTER 1
 
       started up, and swore with a terrible oath that he would not go
 
-      to [[Sleep|sleep]] for any [[arthur|Arthur]] Pym in Christendom, when there was so
+      to [[Sleep|sleep]] for any [[Arthur]] Pym in Christendom, when there was so
 
       glorious a breeze from the southwest. I never was so astonished
 
@@ -2547,7 +2547,7 @@ CHAPTER 3
 
       called my name could be no one but himself. All was silent for
 
-      some moments. At length I again heard the word “[[arthur|Arthur]]!” repeated
+      some moments. At length I again heard the word “[[Arthur]]!” repeated
 
       in a low tone, and one full of hesitation. Reviving [[Hope|hope]] loosened
 
@@ -6657,7 +6657,7 @@ CHAPTER 11
 
       [[Death|death]] by famine, or, at the best, by being overwhelmed in the
 
-      first gale which should [[Spring|spring]] up, for in our present exhausted
+      first gale which should [[spring]] up, for in our present exhausted
 
       condition we could have no [[Hope|hope]] of living through another.
 
@@ -6829,7 +6829,7 @@ CHAPTER 11
 
       at once with a consciousness of their condition, when they would
 
-      [[Spring|spring]] upon their feet in a momentary flash of vigour, and speak,
+      [[spring]] upon their feet in a momentary flash of vigour, and speak,
 
       for a short period, of their prospects, in a manner altogether
 
@@ -11455,7 +11455,7 @@ CHAPTER 20
 
 
 
-      We had passed the [[Spring|spring]] and rivulet of which I before spoke, and
+      We had passed the [[spring]] and rivulet of which I before spoke, and
 
       were now entering upon a narrow gorge leading through the chain
 
@@ -12165,11 +12165,11 @@ CHAPTER 22
 
       reconnoitre the [[Hill|hill]] in the vicinity of the chasm. At about fifty
 
-      yards from the mouth of it we saw a small [[Spring|spring]] of [[Water|water]], at
+      yards from the mouth of it we saw a small [[spring]] of [[Water|water]], at
 
       which we slaked the burning thirst that now consumed us. Not far
 
-      from the [[Spring|spring]] we discovered several of the filbert-bushes which
+      from the [[spring]] we discovered several of the filbert-bushes which
 
       I mentioned before. Upon tasting the nuts we found them
 
@@ -14963,7 +14963,7 @@ That the play is the [[Tragedy|tragedy]], “Man,”
 
       or may have dreamed that I saw, fall within the goblet, as if
 
-      from some invisible [[Spring|spring]] in the atmosphere of the room, three
+      from some invisible [[spring]] in the atmosphere of the room, three
 
       or four large drops of a brilliant and ruby colored fluid. If
 
@@ -15839,7 +15839,7 @@ A TALE OF THE RAGGED [[Mountains|MOUNTAINS]]
 
       at the period of which I write, had very rarely been known in
 
-      [[America]]. I mean to say, that between Doctor Templeton and Bedloe
+      [[america|America]]. I mean to say, that between Doctor Templeton and Bedloe
 
       there had grown up, little by little, a very distinct and
 
@@ -15901,7 +15901,7 @@ A TALE OF THE RAGGED [[Mountains|MOUNTAINS]]
 
       Upon a dim, warm, misty day, toward the close of November, and
 
-      during the strange interregnum of the [[Seasons|seasons]] which in [[America]] is
+      during the strange interregnum of the [[Seasons|seasons]] which in [[america|America]] is
 
       termed the Indian [[Summer]], Mr. Bedloe departed as usual for the
 
@@ -16043,7 +16043,7 @@ A TALE OF THE RAGGED [[Mountains|MOUNTAINS]]
 
       briskly forward. I rubbed my eyes. I called aloud. I pinched my
 
-      limbs. A small [[Spring|spring]] of [[Water|water]] presented itself to my view, and
+      limbs. A small [[spring]] of [[Water|water]] presented itself to my view, and
 
       here, stooping, I bathed my hands and my head and neck. This
 
@@ -18471,7 +18471,7 @@ THE SPECTACLES
 
       widow without children, she bethought herself of my existence in
 
-      [[America]], and for the purpose of making me her heir, paid a visit
+      [[america|America]], and for the purpose of making me her heir, paid a visit
 
       to the United States, in company with a distant and exceedingly
 

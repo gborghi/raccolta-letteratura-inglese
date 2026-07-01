@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 54 (part 8)"
+title: "Bleak House — Chapter 54 (part 8)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -70,7 +70,7 @@ It is but the [[Death|death]], it is all the same. Let us go, my angel. Adieu,
 you old man, grey. I pity you, and I despise you!”
 
 With these last words she snaps her teeth together as if her mouth
-closed with a [[Spring|spring]]. It is impossible to describe how Mr. Bucket
+closed with a [[spring]]. It is impossible to describe how Mr. Bucket
 gets her out, but he accomplishes that feat in a manner so peculiar
 to himself, enfolding and pervading her like a cloud, and hovering
 away with her as if he were a homely Jupiter and she the object of

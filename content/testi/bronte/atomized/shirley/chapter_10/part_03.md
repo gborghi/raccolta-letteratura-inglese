@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 10 (part 3)"
+title: "Shirley — Chapter 10 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_10/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_10/part_04">part 04 ›</a></div>
 </nav>
 
+
+At church only Caroline had the chance of seeing him, and there she
+
+rarely looked at him. It was both too much [[Pain|pain]] and too much pleasure
+
+to look--it excited too much emotion; and that it was all wasted emotion
+
+she had learned [[Well|well]] to comprehend.
+
+
+
+Once, on a dark, wet [[Sunday]], when there were few people at church, and
+
+when especially certain ladies were absent, of whose observant faculties
 
 and tomahawk tongues Caroline stood in awe, she had allowed her eye to
 
@@ -187,29 +201,3 @@ She reflected.
 
 
 "I shall not be married, it appears," she continued. "I suppose, as
-
-Robert does not care for me, I shall never have a husband to [[Love|love]], nor
-
-little children to take care of. Till lately I had reckoned securely on
-
-the duties and affections of wife and mother to occupy my existence. I
-
-considered, somehow, as a matter of course, that I was growing up to the
-
-ordinary destiny, and never troubled myself to seek any other; but now I
-
-perceive plainly I may have been mistaken. Probably I shall be an old
-
-maid. I shall live to see Robert married to some one else, some rich
-
-lady. I shall never marry. What was I created for, I [[Wonder|wonder]]? Where is my
-
-place in the world?"
-
-
-
-She mused again.
-
-
-
-"Ah! I see," she pursued presently; "that is the question which most old

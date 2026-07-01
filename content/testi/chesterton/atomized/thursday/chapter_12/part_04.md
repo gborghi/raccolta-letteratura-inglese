@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 12 (part 4)"
+title: "thursday — Chapter 12 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -13,6 +13,26 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_12/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_12/part_05">part 05 ›</a></div>
 </nav>
 
+
+"Dr. Bull," said Syme sardonically, "has at least got it into his hat."
+
+"I tell you it can't be!" cried the Colonel, stamping.
+
+"Renard shall explain it.  He shall explain it to me,"
+and he strode forward.
+
+"Don't be in such a hurry," drawled the smoker.  "He will very soon
+explain it to all of us."
+
+But the impatient Colonel was already out of earshot, advancing towards
+the advancing enemy.  The excited Dr. Renard lifted his [[Pistol|pistol]] again,
+but perceiving his opponent, hesitated, and the Colonel came face to face
+with him with frantic gestures of remonstrance.
+
+"It is no good," said Syme.  "He will never get anything out
+of that old heathen.  I vote we drive bang through the thick
+of them, bang as the bullets went through Bull's hat.
+We may all be killed, but we must kill a tidy number of them."
 
 "I won't 'ave it," said Dr. Bull, growing more vulgar in the sincerity
 of his virtue.  "The poor chaps may be making a mistake.
@@ -129,30 +149,3 @@ We are the last of mankind."
   Light dies before thine uncreating word:
   Thy hand, great Anarch, lets the curtain fall;
   And universal darkness buries all.'"
-
-"Stop!" cried Bull suddenly, "the gendarmes are out."
-
-The low lights of the police station were indeed blotted and broken
-with hurrying figures, and they heard through the darkness the clash
-and jingle of a disciplined cavalry.
-
-"They are charging the mob!" cried Bull in ecstacy or alarm.
-
-"No," said Syme, "they are formed along the parade."
-
-"They have unslung their carbines," cried Bull dancing with excitement.
-
-"Yes," said Ratcliffe, "and they are going to [[Fire|fire]] on us."
-
-As he spoke there came a long crackle of musketry, and bullets seemed
-to hop like hailstones on the stones in front of them.
-
-"The gendarmes have joined them!" cried [[The Professor|the Professor]],
-and struck his forehead.
-
-"I am in the padded cell," said Bull solidly.
-
-There was a long [[Silence|silence]], and then Ratcliffe said, looking out over
-the swollen sea, all a sort of grey purple--
-
-"What does it matter who is mad or who is sane?  We shall all be dead soon."

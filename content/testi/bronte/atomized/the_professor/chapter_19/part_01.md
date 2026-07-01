@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 18 (part 1)"
+title: "The Professor — Chapter 18 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -15,8 +15,6 @@ tags:
 
 
 CHAPTER XVIII.
-
-
 
 THE young Anglo-Swiss evidently derived both pleasure and profit from
 
@@ -56,23 +54,15 @@ over her shoulder, was writing some directions with a pencil on the
 
 margin of her book.
 
-
-
 “[[Well]], are you pleased that I am satisfied with your progress?” I asked.
-
-
 
 “Yes,” said she slowly, gently, the blush that had half subsided
 
 returning.
 
-
-
 “But I do not say enough, I suppose?” I continued. “My praises are too
 
 cool?”
-
-
 
 She made no answer, and, I thought, looked a little sad. I divined her
 
@@ -99,8 +89,6 @@ occasion to walk past in order to ascertain by what art I prolonged so
 disproportionately the period necessary for filling it. I was obliged to
 
 go. Distasteful effort--to leave what we most prefer!
-
-
 
 Frances did not become pale or feeble in consequence of her sedentary
 
@@ -152,8 +140,6 @@ symmetry, and allowed a lightness and [[Freedom|freedom]] of movement which
 
 corresponded with my ideas of grace.
 
-
-
 Thus improved, thus wakened to life, Mdlle. Henri began to take a
 
 new footing in the school; her mental power, manifested gradually but
@@ -165,8 +151,6 @@ the young and healthy saw that she could smile brightly, converse gaily,
 move with vivacity and alertness, they acknowledged in her a sisterhood
 
 of youth and health, and tolerated her as of their kind accordingly.
-
-
 
 To speak [[Truth|truth]], I watched this change much as a gardener watches the
 
@@ -196,8 +180,6 @@ best suited Frances’ feelings, as susceptible as deep vibrating--her
 
 [[Nature|nature]] at once proud and shy.
 
-
-
 The benefits of my system became apparent also in her altered demeanour
 
 as a teacher; she now took her place amongst her pupils with an air
@@ -207,7 +189,3 @@ of spirit and firmness which assured them at once that she meant to be
 obeyed--and obeyed she was. They felt they had lost their power over
 
 her. If any girl had rebelled, she would no longer have taken her
-
-rebellion to heart; she possessed a source of comfort they could not
-
-drain, a pillar of support they could not overthrow: formerly, when

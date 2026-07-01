@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 29: I VISIT STEERFORTH AT HIS [[Home|HOME]], AGAIN"
+title: "David Copperfield — Chapter 29: I VISIT STEERFORTH AT HIS HOME, AGAIN"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/david-copperfield-(dickens)"

@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 57 (part 2)"
+title: "Great Expectations — Chapter 57 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_57/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_57/part_03">part 03 ›</a></div>
 </nav>
 
+
+“Yes, Joe.”
+
+“It’s the end of May, Pip. To-morrow is the first of June.”
+
+“And have you been here all that [[Time|time]], dear Joe?”
 
 “Pretty nigh, old chap. For, as I says to [[Biddy]] when the news of your
 being ill were brought by letter, which it were brought by the post,
@@ -129,10 +135,3 @@ castles must not be busted ’cept when done in war [[Time|time]]. And wotsume�
 the failings on his part, he were a corn and seedsman in his hart.”
 
 “Is it Pumblechook’s [[house]] that has been broken into, then?”
-
-“That’s it, Pip,” said Joe; “and they took his till, and they took his
-cash-box, and they drinked his wine, and they partook of his wittles,
-and they slapped his face, and they pulled his nose, and they tied him
-up to his bedpust, and they giv’ him a dozen, and they stuffed his
-mouth full of flowering annuals to prewent his crying out. But he
-knowed Orlick, and Orlick’s in the county jail.”

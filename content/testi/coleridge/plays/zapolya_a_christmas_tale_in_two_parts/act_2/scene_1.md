@@ -1,5 +1,5 @@
 ---
-title: "[[ZAPOLYA]] — Act II, Scene 1"
+title: "ZAPOLYA — Act II, Scene 1"
 author: "Coleridge"
 unitType: scene
 parentWork: "works/zapolya-a-christmas-tale-in-two-parts-(coleridge)"

@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 12 (part 3)"
+title: "Bleak House — Chapter 12 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_12/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_12/part_04">part 04 ›</a></div>
 </nav>
 
+
+“Surely, none in the world, [[Child|child]].”
+
+“I am glad of that,” says Watt, “because I have an inexpressible
+[[Desire|desire]] to extend my knowledge of this beautiful neighbourhood.”
 
 He happens to glance at Rosa, who looks down and is very shy indeed.
 But according to the old superstition, it should be Rosa’s ears that
@@ -113,24 +118,3 @@ and walking backward like the Lord Chamberlain, must array themselves
 in the milliners’ and tailors’ patterns of past generations and be
 particularly careful not to be in earnest or to receive any impress
 from the moving age.
-
-Then there is my Lord Boodle, of considerable reputation with his
-party, who has known what office is and who tells Sir Leicester
-Dedlock with much gravity, after dinner, that he really does not see
-to what the present age is tending. A [[debate]] is not what a [[debate]]
-used to be; the [[house|House]] is not what the [[house|House]] used to be; even a
-Cabinet is not what it formerly was. He perceives with astonishment
-that supposing the present [[government]] to be overthrown, the limited
-choice of the [[Crown]], in the formation of a new ministry, would lie
-between Lord Coodle and Sir Thomas Doodle—supposing it to be
-impossible for the Duke of Foodle to act with Goodle, which may be
-assumed to be the case in consequence of the breach arising out of
-that affair with Hoodle. Then, giving the [[Home]] Department and the
-leadership of the [[house|House]] of Commons to Joodle, the Exchequer to
-Koodle, the Colonies to Loodle, and the Foreign Office to Moodle,
-what are you to do with Noodle? You can’t offer him the Presidency of
-the Council; that is reserved for Poodle. You can’t put him in the
-Woods and Forests; that is hardly good enough for [[quoodle|Quoodle]]. What
-follows? That the country is shipwrecked, lost, and gone to pieces
-(as is made manifest to the patriotism of [[Sir Leicester Dedlock]])
-because you can’t provide for Noodle!

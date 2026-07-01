@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 7 (part 6)"
+title: "Shirley — Chapter 7 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,50 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_07/part_05">‹ part 05</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_07/part_07">part 07 ›</a></div>
 </nav>
 
+
+quite ashamed, he nodded so."
+
+
+
+"And there was Dr. Broadbent," cried Hannah--"such a beautiful speaker!
+
+You couldn't expect it of him, for he is almost a vulgar-looking man."
+
+
+
+"But such a dear man," interrupted Mary.
+
+
+
+"And such a good man, such a useful man," added her mother.
+
+
+
+"Only like a butcher in appearance," interposed the fair, proud Harriet.
+
+"I couldn't bear to look at him. I listened with my eyes shut."
+
+
+
+Miss Helstone felt her ignorance and incompetency. Not having seen Dr.
+
+Broadbent, she could not give her opinion. Pause third came on. During
+
+its continuance, Caroline was feeling at her heart's core what a
+
+dreaming [[Fool|fool]] she was, what an unpractical life she led, how little
+
+fitness there was in her for ordinary intercourse with the ordinary
+
+world. She was feeling how exclusively she had attached herself to the
+
+white cottage in the Hollow, how in the existence of one inmate of that
+
+cottage she had pent all her universe. She was sensible that this would
+
+not do, and that some day she would be forced to make an alteration. It
+
+could not be said that she exactly wished to resemble the ladies before
 
 her, but she wished to become superior to her present [[Self|self]], so as to
 
@@ -189,53 +233,3 @@ interest in hearing any of them, or in speaking to them. How they will
 gabble when the curates come in, and how weary I shall grow with
 
 listening to them! But I suppose I am a selfish [[Fool|fool]]. These are very
-
-respectable gentlefolks. I ought, no [[Doubt|doubt]], to be proud of their
-
-countenance. I don't say they are not as good as I am--far from it--but
-
-they are different from me."
-
-
-
-She went in.
-
-
-
-Yorkshire people in those days took their tea round the table, sitting
-
-[[Well|well]] into it, with their knees duly introduced under the mahogany. It
-
-was essential to have a multitude of plates of bread and butter, varied
-
-in sorts and plentiful in quantity. It was thought proper, too, that on
-
-the centre plate should stand a glass dish of marmalade. Among the
-
-viands was expected to be found a small assortment of cheesecakes and
-
-tarts. If there was also a plate of thin slices of pink ham garnished
-
-with green parsley, so much the better.
-
-
-
-Eliza, the rector's cook, fortunately knew her business as provider. She
-
-had been put out of [[Humour|humour]] a little at first, when the invaders came so
-
-unexpectedly in such strength; but it appeared that she regained her
-
-cheerfulness with action, for in due [[Time|time]] the tea was spread forth in
-
-handsome style, and neither ham, tarts, nor marmalade were wanting among
-
-its accompaniments.
-
-
-
-The curates, summoned to this bounteous repast, entered joyous; but at
-
-once, on seeing the ladies, of whose presence they had not been
-
-forewarned, they came to a stand in the doorway. Malone headed the

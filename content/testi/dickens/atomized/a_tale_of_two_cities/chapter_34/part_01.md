@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities — Chapter 2 (part 1)"
+title: "A Tale of Two Cities — Chapter 4 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-tale-of-two-cities-(dickens)"
@@ -10,125 +10,100 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/a-tale-of-two-cities-(dickens)">A Tale of Two Cities</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_33/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_34/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_32/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_34/part_02">part 02 ›</a></div>
 </nav>
 
 
-CHAPTER II.
-The Grindstone
+CHAPTER IV.
+Calm in [[Storm]]
 
 
-Tellson’s Bank, established in the Saint Germain Quarter of [[Paris]], was
-in a wing of a large [[house]], approached by a courtyard and shut off from
-the street by a high wall and a strong gate. The [[house]] belonged to
-a great nobleman who had lived in it until he made a flight from the
-troubles, in his own cook’s dress, and got across the borders. A
-mere beast of the chase flying from hunters, he was still in his
-metempsychosis no other than the same Monseigneur, the preparation
-of whose chocolate for whose lips had once occupied three strong men
-besides the cook in question.
+[[Doctor Manette]] did not return until the morning of the fourth day of his
+absence. So much of what had happened in that dreadful [[Time|time]] as could be
+kept from the knowledge of Lucie was so [[Well|well]] concealed from her, that
+not until long afterwards, when France and she were far apart, did she
+know that eleven hundred defenceless prisoners of both sexes and all
+ages had been killed by the populace; that four days and nights had been
+darkened by this deed of horror; and that the air around her had been
+tainted by the slain. She only knew that there had been an attack upon
+the prisons, that all political prisoners had been in danger, and that
+some had been dragged out by the crowd and murdered.
 
-Monseigneur gone, and the three strong men absolving themselves from the
-sin of having drawn his high wages, by being more than ready and
-willing to cut his throat on the altar of the dawning Republic one and
-indivisible of Liberty, Equality, Fraternity, or [[Death]], Monseigneur’s
-[[house]] had been first sequestrated, and then confiscated. For, all
-things moved so fast, and decree followed decree with that fierce
-precipitation, that now upon the third [[Night|night]] of the [[Autumn|autumn]] month
-of September, patriot emissaries of the law were in possession of
-Monseigneur’s [[house]], and had marked it with the tri-colour, and were
-drinking brandy in its state apartments.
+To Mr. Lorry, the Doctor communicated under an injunction of secrecy on
+which he had no need to dwell, that the crowd had taken him through a
+scene of carnage to the [[Prison|prison]] of La Force. That, in the [[Prison|prison]] he had
+found a [[Self|self]]-appointed Tribunal sitting, before which the prisoners were
+brought singly, and by which they were rapidly ordered to be put forth
+to be massacred, or to be released, or (in a few cases) to be sent back
+to their cells. That, presented by his conductors to this Tribunal, he
+had announced himself by name and profession as having been for eighteen
+years a secret and unaccused prisoner in the Bastille; that, one of the
+[[Body|body]] so sitting in judgment had risen and identified him, and that this
+man was Defarge.
 
-A place of business in [[London]] like Tellson’s place of business in [[Paris]],
-would soon have driven the [[house|House]] out of its mind and into the Gazette.
-For, what would staid British responsibility and respectability have
-said to orange-trees in boxes in a Bank courtyard, and even to a Cupid
-over the counter? Yet such things were. Tellson’s had whitewashed the
-Cupid, but he was still to be seen on the ceiling, in the coolest
-linen, aiming (as he very often does) at money from morning to
-[[Night|night]]. Bankruptcy must inevitably have come of this young Pagan, in
-Lombard-street, [[London]], and also of a curtained alcove in the rear of
-the immortal boy, and also of a looking-glass let into the wall, and
-also of clerks not at all old, who danced in public on the slightest
-provocation. Yet, a French Tellson’s could get on with these things
-exceedingly [[Well|well]], and, as long as the times held together, no man had
-taken fright at them, and drawn out his money.
+That, hereupon he had ascertained, through the registers on the table,
+that his son-in-law was among the living prisoners, and had pleaded hard
+to the Tribunal--of whom some members were asleep and some awake, some
+dirty with murder and some clean, some sober and some not--for his life
+and liberty. That, in the first frantic greetings lavished on himself as
+a notable sufferer under the overthrown system, it had been accorded
+to him to have [[Charles Darnay]] brought before the lawless [[Court]], and
+examined. That, he seemed on the point of being at once released, when
+the tide in his favour met with some unexplained check (not intelligible
+to the Doctor), which led to a few words of secret conference. That,
+the man sitting as President had then informed [[Doctor Manette]] that
+the prisoner must remain in custody, but should, for his sake, be held
+inviolate in safe custody. That, immediately, on a signal, the prisoner
+was removed to the interior of the [[Prison|prison]] again; but, that he, the
+Doctor, had then so strongly pleaded for permission to remain and
+assure himself that his son-in-law was, through no malice or mischance,
+delivered to the concourse whose murderous yells outside the gate had
+often drowned the proceedings, that he had obtained the permission, and
+had remained in that Hall of [[Blood]] until the danger was over.
 
-What money would be drawn out of Tellson’s henceforth, and what would
-lie there, lost and forgotten; what plate and jewels would tarnish in
-Tellson’s hiding-places, while the depositors rusted in prisons,
-and when they should have violently perished; how many accounts with
-Tellson’s never to be balanced in this world, must be carried over into
-the next; no man could have said, that [[Night|night]], any more than Mr. Jarvis
-Lorry could, though he thought heavily of these questions. He sat by
-a newly-lighted wood [[Fire|fire]] (the blighted and unfruitful year was
-prematurely cold), and on his honest and courageous face there was a
-deeper shade than the pendent lamp could throw, or any object in the
-room distortedly reflect--a shade of horror.
+The sights he had seen there, with brief snatches of food and [[Sleep|sleep]] by
+intervals, shall remain untold. The mad joy over the prisoners who were
+saved, had astounded him scarcely less than the mad ferocity against
+those who were cut to pieces. One prisoner there was, he said, who had
+been discharged into the street free, but at whom a mistaken savage had
+thrust a pike as he passed out. Being besought to go to him and dress
+the wound, the Doctor had passed out at the same gate, and had found him
+in the arms of a company of Samaritans, who were seated on the bodies
+of their victims. With an inconsistency as monstrous as anything in this
+awful [[nightmare]], they had helped the healer, and tended the wounded man
+with the gentlest solicitude--had made a litter for him and escorted him
+carefully from the spot--had then caught up their weapons and plunged
+anew into a butchery so dreadful, that the Doctor had covered his eyes
+with his hands, and swooned away in the midst of it.
 
-He occupied rooms in the Bank, in his fidelity to the [[house|House]] of which
-he had grown to be a part, like strong root-ivy. It chanced that they
-derived a kind of security from the patriotic occupation of the main
-building, but the true-hearted old gentleman never calculated about
-that. All such circumstances were indifferent to him, so that he did
-his duty. On the opposite side of the courtyard, under a colonnade,
-was extensive standing--for carriages--where, indeed, some carriages
-of Monseigneur yet stood. Against two of the pillars were fastened two
-great flaring flambeaux, and in the light of these, standing out in the
-open air, was a large grindstone: a roughly mounted thing which appeared
-to have hurriedly been brought there from some neighbouring smithy,
-or other workshop. Rising and looking out of [[Window|window]] at these harmless
-objects, Mr. Lorry shivered, and retired to his seat by the [[Fire|fire]]. He had
-opened, not only the glass [[Window|window]], but the lattice blind outside it, and
-he had closed both again, and he shivered through his frame.
+As Mr. Lorry received these confidences, and as he watched the face of
+his friend now sixty-two years of age, a misgiving arose within him that
+such dread experiences would revive the old danger.
 
-From the streets beyond the high wall and the strong gate, there came
-the usual [[Night|night]] hum of the [[City|city]], with now and then an indescribable ring
-in it, weird and unearthly, as if some unwonted sounds of a terrible
-[[Nature|nature]] were going up to Heaven.
+But, he had never seen his friend in his present aspect: he had never
+at all known him in his present character. For the first [[Time|time]] the Doctor
+felt, now, that his [[Suffering|suffering]] was strength and power. For the first [[Time|time]]
+he felt that in that sharp [[Fire|fire]], he had slowly forged the iron which
+could break the [[Prison|prison]] door of his daughter’s husband, and deliver him.
+“It all tended to a good end, my friend; it was not mere waste and ruin.
+As my beloved [[Child|child]] was helpful in restoring me to myself, I will be
+helpful now in restoring the dearest part of herself to her; by the aid
+of Heaven I will do it!” Thus, [[Doctor Manette]]. And when [[Jarvis Lorry]] saw
+the kindled eyes, the resolute face, the calm strong look and bearing
+of the man whose life always seemed to him to have been stopped, like a
+[[Clock|clock]], for so many years, and then set going again with an energy which
+had lain dormant during the cessation of its usefulness, he believed.
 
-“Thank God,” said Mr. Lorry, clasping his hands, “that no one near and
-dear to me is in this dreadful town to-[[Night|night]]. May He have [[Mercy|mercy]] on all
-who are in danger!”
-
-Soon afterwards, the bell at the great gate sounded, and he thought,
-“They have come back!” and sat listening. But, there was no loud
-irruption into the courtyard, as he had expected, and he heard the gate
-clash again, and all was quiet.
-
-The nervousness and dread that were upon him inspired that vague
-uneasiness respecting the Bank, which a great change would naturally
-awaken, with such feelings roused. It was [[Well|well]] guarded, and he got up to
-go among the trusty people who were watching it, when his door suddenly
-opened, and two figures rushed in, at sight of which he fell back in
-amazement.
-
-Lucie and her father! Lucie with her arms stretched out to him, and with
-that old look of earnestness so concentrated and intensified, that it
-seemed as though it had been stamped upon her face expressly to give
-force and power to it in this one passage of her life.
-
-“What is this?” cried Mr. Lorry, breathless and confused. “What is the
-matter? Lucie! Manette! What has happened? What has brought you here?
-What is it?”
-
-With the look fixed upon him, in her paleness and wildness, she panted
-out in his arms, imploringly, “O my dear friend! My husband!”
-
-“Your husband, Lucie?”
-
-“Charles.”
-
-“What of Charles?”
-
-“Here.
-
-“Here, in [[Paris]]?”
-
-“Has been here some days--three or four--I don’t know how many--I can’t
-collect my thoughts. An errand of generosity brought him here unknown to
-us; he was stopped at the barrier, and sent to [[Prison|prison]].”
-
-The old man uttered an irrepressible cry. Almost at the same moment, the
-bell of the great gate rang again, and a loud noise of feet and voices
-came pouring into the courtyard.
+Greater things than the Doctor had at that [[Time|time]] to contend with, would
+have yielded before his persevering purpose. While he kept himself
+in his place, as a physician, whose business was with all degrees
+of mankind, bond and free, rich and poor, bad and good, he used his
+personal influence so wisely, that he was soon the inspecting physician
+of three prisons, and among them of La Force. He could now assure Lucie
+that her husband was no longer confined [[Alone|alone]], but was mixed with the
+general [[Body|body]] of prisoners; he saw her husband weekly, and brought sweet
+messages to her, straight from his lips; sometimes her husband himself
+sent a letter to her (though never by the Doctor’s hand), but she was
+not permitted to write to him: for, among the many wild suspicions of
+plots in the prisons, the wildest of all pointed at emigrants who were
+known to have made friends or permanent connections abroad.

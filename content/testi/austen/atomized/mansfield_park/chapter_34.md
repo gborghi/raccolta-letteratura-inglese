@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 34"
+title: "Mansfield Park — Chapter 34"
 author: "Austen"
 unitType: chapter
 parentWork: "works/mansfield-park-(austen)"
@@ -287,7 +287,7 @@ such a man.”
 life without a sort of envy. But then, I must have a [[London]] audience. I
 could not preach but to the educated; to those who were capable of
 estimating my composition. And I do not know that I should be fond of
-preaching often; now and then, perhaps once or twice in the [[spring]],
+preaching often; now and then, perhaps once or twice in the [[Spring|spring]],
 after being anxiously expected for half a dozen Sundays together; but
 not for a constancy; it would not do for a constancy.”
 

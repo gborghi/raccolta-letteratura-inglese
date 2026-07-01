@@ -1,5 +1,5 @@
 ---
-title: "[[The Poetic Principle]] (part 4)"
+title: "The Poetic Principle (part 4)"
 author: "Poe"
 unitType: excerpt
 tags:
@@ -12,6 +12,51 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_poetic_principle/part/part_03">‹ part 03</a><a class="ex-next" href="/testi/poe/atomized/the_poetic_principle/part/part_05">part 05 ›</a></div>
 </nav>
 
+
+     The day is done, and the darkness
+         Falls from the wings of [[Night]],
+     As a feather is wafted downward
+         From an Eagle in his flight.
+     I see the lights of the village
+         Gleam through the rain and the mist,
+     And a feeling of sadness comes o’er me,
+         That my [[Soul|soul]] cannot resist;
+     A feeling of sadness and [[Longing|longing]],
+         That is not akin to [[Pain|pain]],
+     And resembles sorrow only
+         As the mist resembles the rain.
+     Come, read to me some poem,
+         Some simple and heartfelt lay,
+     That shall soothe this restless feeling,
+         And banish the thoughts of day.
+     Not from the grand old masters,
+         Not from the bards [[Sublime|sublime]],
+     Whose distant footsteps echo
+         Through the corridors of [[Time]].
+     For, like strains of martial music,
+         Their mighty thoughts suggest
+     Life’s endless toil and endeavor;
+         And to-[[Night|night]] I long for rest.
+     Read from some humbler poet,
+         Whose [[songs]] gushed from his heart,
+     As showers from the clouds of [[Summer|summer]],
+         Or [[Tears|tears]] from the eyelids start;
+     Who through long days of labor,
+         And nights devoid of ease,
+     Still heard in his [[Soul|soul]] the music
+         Of wonderful melodies.
+     Such [[songs]] have power to quiet
+         The restless pulse of care,
+     And come like the benediction
+         That follows after [[Prayer|prayer]].
+     Then read from the treasured volume
+         The poem of thy choice,
+     And lend to the rhyme of the poet
+         The [[Beauty|beauty]] of thy voice.
+     And the [[Night|night]] shall be filled with music,
+         And the cares that infest the day
+     Shall fold their tents like the Arabs,
+         And as silently steal away.
 
       With no great range of [[Imagination|imagination]], these lines have been justly admired
       for their delicacy of expression. Some of the images are very effective.
@@ -93,56 +138,3 @@ tags:
          That is not akin to [[Pain|pain]],
      And resembles sorrow only
          As the mist resembles the rain.
-
-      The taint of which I speak is clearly perceptible even in a poem so full
-      of brilliancy and spirit as “The Health” of Edward Coate Pinckney:—
-
-     I fill this cup to one made up
-         Of loveliness [[Alone|alone]],
-     A woman, of her gentle sex
-         The seeming paragon;
-     To whom the better elements
-         And kindly [[Stars|stars]] have given
-     A form so fair that, like the air,
-         ’Tis less of earth than heaven.
-     Her every tone is music’s own,
-         Like those of morning [[Birds|birds]],
-     And something more than melody
-         Dwells ever in her words;
-     The coinage of her heart are they,
-         And from her lips each flows
-     As one may see the burden’d bee
-         Forth issue from the [[Rose|rose]].
-     Affections are as thoughts to her,
-         The measures of her hours;
-     Her feelings have the flagrancy,
-         The freshness of young [[Flowers|flowers]];
-     And lovely passions, changing oft,
-         So fill her, she appears
-     The image of themselves by turns,—
-         The idol of past years!
-     Of her bright face one glance will trace
-         A picture on the brain,
-     And of her voice in echoing hearts
-         A sound must long remain;
-     But [[Memory|memory]], such as mine of her,
-         So very much endears,
-     When [[Death|death]] is nigh my latest sigh
-         Will not be life’s, but hers.
-     I fill’d this cup to one made up
-         Of loveliness [[Alone|alone]],
-     A woman, of her gentle sex
-         The seeming paragon—
-     Her health! and would on earth there stood,
-         Some more of such a frame,
-     That life might be all poetry,
-         And weariness a name.
-
-      It was the misfortune of Mr. Pinckney to have been born too far south. Had
-      he been a New Englander, it is probable that he would have been ranked as
-      the first of American lyrists by that magnanimous cabal which has so long
-      controlled the destinies of American Letters, in conducting the thing
-      called “The North American Review.” The poem just cited is especially
-      beautiful; but the poetic elevation which it induces we must refer chiefly
-      to our sympathy in the poet’s enthusiasm. We pardon his hyperboles for the
-      evident earnestness with which they are uttered.

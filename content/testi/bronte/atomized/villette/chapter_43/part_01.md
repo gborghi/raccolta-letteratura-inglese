@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 41 (part 1)"
+title: "Villette — Chapter 41 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -126,10 +126,3 @@ fountain yielded under the strain: one breath from M. Paul, the
 whisper, “Trust me!” lifted a load, opened an outlet. With many a deep
 sob, with thrilling, with icy shiver, with strong trembling, and yet
 with relief—I wept.
-
-“Leave her to me; it is a crisis: I will give her a cordial, and it
-will pass,” said the calm [[Madame Beck]].
-
-To be left to her and her cordial seemed to me something like being
-left to the poisoner and her bowl. When M. Paul answered deeply,
-harshly, and briefly—

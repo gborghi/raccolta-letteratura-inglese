@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 3"
+title: "thursday — Chapter 3"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/thursday-(chesterton)"
@@ -17,7 +17,6 @@ tags:
                          CHAPTER III
 
                   THE MAN WHO WAS [[thursday|THURSDAY]]
-
 
 BEFORE one of the fresh faces could appear at the doorway,
 Gregory's stunned surprise had fallen from him.  He was beside

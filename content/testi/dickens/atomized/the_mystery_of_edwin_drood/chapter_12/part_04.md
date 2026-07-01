@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 11 (part 4)"
+title: "The Mystery of Edwin Drood — Chapter 11 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -111,7 +111,7 @@ minute.”
 
 He took a bunch of keys from his pocket, singled out by the
 candle-light the key he wanted, and then, with a candle in his hand,
-went to a bureau or escritoire, unlocked it, touched the [[Spring|spring]] of a
+went to a bureau or escritoire, unlocked it, touched the [[spring]] of a
 little secret drawer, and took from it an ordinary ring-case made for a
 single ring. With this in his hand, he returned to his chair. As he
 held it up for the young man to see, his hand trembled.
@@ -147,5 +147,3 @@ gave him the ring.
 solemn seal upon your strict fidelity to the living and the dead. You
 are going to her, to make the last irrevocable preparations for your
 [[Marriage|marriage]]. Take it with you.”
-
-The young man took the little case, and placed it in his breast.

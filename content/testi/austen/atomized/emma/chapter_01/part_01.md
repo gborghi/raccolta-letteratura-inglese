@@ -1,5 +1,5 @@
 ---
-title: "[[Emma]] — Chapter 1 (part 1)"
+title: "Emma — Chapter 1 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/emma-(austen)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/works/emma-(austen)">Emma</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/emma/chapter_57">‹ Chapter 57</a><a class="ex-next" href="/testi/austen/atomized/emma/chapter_01/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/emma/chapter_55">‹ Chapter 55</a><a class="ex-next" href="/testi/austen/atomized/emma/chapter_01/part_02">part 02 ›</a></div>
 </nav>
 
 

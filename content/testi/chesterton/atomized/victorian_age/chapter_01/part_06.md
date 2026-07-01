@@ -14,9 +14,35 @@ tags:
 </nav>
 
 
+these various attacks on it, that the study of Victorian literature
+
+begins and proceeds. Bentham was already the [[Prophet|prophet]] of a powerful sect;
+
+Macaulay was already the historian of an historic party, before the true
+
+Victorian epoch began. The middle classes were emerging in a state of
+
+damaged [[Puritanism]]. The upper classes were utterly pagan. Their clear
+
+and courageous testimony remains in those immortal words of Lord
+
+Melbourne, who had led the young [[Queen|queen]] to the throne and long stood
+
+there as her protector. "No one has more respect for the Christian
+
+religion than I have; but really, when it comes to intruding it into
+
+private life----" What was pure paganism in the politics of Melbourne
+
+became a sort of mystical cynicism in the politics of Disraeli; and is
+
+[[Well|well]] mirrored in his novels--for he was a man who felt at [[Home|home]] in
+
+mirrors. With every allowance for aliens and eccentrics and all the
+
+accidents that must always eat the edges of any systematic
+
 circumference, it may still be said that the Utilitarians held the fort.
-
-
 
 Of the [[Oxford]] Movement what remains most strongly in the Victorian Epoch
 
@@ -57,8 +83,6 @@ your cake and eating it too. It saw that the solid and serious
 Victorians were fundamentally frivolous--because they were
 
 fundamentally inconsistent.
-
-
 
 A man making the confession of any creed worth ten minutes' intelligent
 
@@ -103,8 +127,6 @@ a Christian had a feast day he must have a fast day too. Otherwise, all
 days ought to be alike; and this was that very Utilitarianism against
 
 which their [[Oxford]] Movement was the first and most rational assault.
-
-
 
 This idea, even by reason of its reason, narrowed into a sort of sharp
 
@@ -161,33 +183,3 @@ cold fits and hesitations and prolonged inconsistencies: I am sure it
 was the breath of life to Newman to confess them, now that he had done
 
 with them for ever. His _Lectures on the Present Position of English
-
-Catholics_, practically preached against a raging mob, rise not only
-
-higher but happier, as his instant unpopularity increases. There is
-
-something grander than [[Humour|humour]], there is fun, in the very first lecture
-
-about the British Constitution as explained to a meeting of Russians.
-
-But always his triumphs are the triumphs of a highly sensitive man: a
-
-man must feel insults before he can so insultingly and splendidly
-
-avenge them. He is a naked man, who carries a naked [[Sword|sword]]. The quality
-
-of his literary style is so successful that it succeeds in escaping
-
-definition. The quality of his [[logic]] is that of a long but passionate
-
-patience, which waits until he has fixed all corners of an iron trap.
-
-But the quality of his moral comment on the age remains what I have
-
-said: a protest of the rationality of religion as against the increasing
-
-irrationality of mere Victorian comfort and compromise. So far as the
-
-present purpose is concerned, his protest died with him: he left few
-
-imitators and (it may easily be conceived) no successful imitators. The

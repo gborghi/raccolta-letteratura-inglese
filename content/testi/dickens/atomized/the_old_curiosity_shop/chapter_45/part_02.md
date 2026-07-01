@@ -15,7 +15,7 @@ tags:
 
 
 And yet she lay down, with nothing between her and the sky; and, with
-no [[Fear|fear]] for herself, for she was past it now, put up a [[Prayer|prayer]] for the
+no [[Fear|fear]] for herself, for she was past it now, put up a [[prayer]] for the
 poor old man.  So very weak and spent, she felt, so very calm and
 unresisting, that she had no thought of any wants of her own, but
 prayed that God would raise up some friend for him.  She tried to

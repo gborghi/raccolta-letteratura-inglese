@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 23: I CORROBORATE Mr. DICK, AND CHOOSE A PROFESSION (part 2)"
+title: "David Copperfield — Chapter 23: I CORROBORATE Mr. DICK, AND CHOOSE A PROFESSION (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -129,7 +129,3 @@ you not begun to think about it yet?’
 ‘I have thought a good deal about it, my dear aunt, and I have talked a
 good deal about it with Steerforth. I like it very much indeed. I like
 it exceedingly.’
-
-‘Come!’ said my aunt. ‘That’s cheering!’
-
-‘I have only one difficulty, aunt.’

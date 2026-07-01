@@ -10,9 +10,54 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/american-notes-(dickens)">American Notes</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/american_notes/chapter_07/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/american_notes/chapter_08/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/american_notes/chapter_07/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/american_notes/chapter_07/part_07">part 07 ›</a></div>
 </nav>
 
+
+                                * * * * *
+
+One day, during my stay in [[New York]], I paid a visit to the different
+public institutions on Long Island, or Rhode Island: I forget which.  One
+of them is a Lunatic Asylum.  The building is handsome; and is remarkable
+for a spacious and elegant staircase.  The whole structure is not yet
+finished, but it is already one of considerable size and extent, and is
+capable of accommodating a very large number of patients.
+
+I cannot say that I derived much comfort from the inspection of this
+[[Charity|charity]].  The different wards might have been cleaner and better ordered;
+I saw nothing of that salutary system which had impressed me so
+favourably elsewhere; and everything had a lounging, listless, madhouse
+air, which was very painful.  The moping idiot, cowering down with long
+dishevelled hair; the gibbering maniac, with his hideous laugh and
+pointed finger; the vacant eye, the fierce wild face, the gloomy picking
+of the hands and lips, and munching of the nails: there they were all,
+without disguise, in naked ugliness and horror.  In the dining-room, a
+bare, dull, dreary place, with nothing for the eye to rest on but the
+empty walls, a woman was locked up [[Alone|alone]].  She was bent, they told me, on
+committing [[suicide]].  If anything could have strengthened her in her
+resolution, it would certainly have been the insupportable monotony of
+such an existence.
+
+The terrible crowd with which these halls and galleries were filled, so
+shocked me, that I abridged my stay within the shortest limits, and
+declined to see that portion of the building in which the refractory and
+violent were under closer restraint.  I have no [[Doubt|doubt]] that the gentleman
+who presided over this establishment at the [[Time|time]] I write of, was
+competent to manage it, and had done all in his power to promote its
+usefulness: but will it be believed that the miserable strife of Party
+feeling is carried even into this sad refuge of afflicted and degraded
+humanity?  Will it be believed that the eyes which are to watch over and
+control the wanderings of minds on which the most dreadful visitation to
+which our [[Nature|nature]] is exposed has fallen, must wear the glasses of some
+wretched side in Politics?  Will it be believed that the governor of such
+a [[house]] as this, is appointed, and deposed, and changed perpetually, as
+Parties fluctuate and vary, and as their despicable weathercocks are
+blown this way or that?  A hundred times in every week, some new most
+paltry exhibition of that narrow-minded and injurious Party Spirit, which
+is the Simoom of [[america|America]], sickening and blighting everything of wholesome
+life within its reach, was forced upon my notice; but I never turned my
+back upon it with feelings of such deep disgust and measureless contempt,
+as when I crossed the threshold of this madhouse.
 
 At a short distance from this building is another called the Alms [[house|House]],
 that is to say, the workhouse of [[New York]].  This is a large Institution
@@ -29,7 +74,7 @@ vast amount of good and evil is intermixed and jumbled up together.
 In the same neighbourhood is the Farm, where young orphans are nursed and
 bred.  I did not see it, but I believe it is [[Well|well]] conducted; and I can
 the more easily credit it, from knowing how mindful they usually are, in
-[[America]], of that beautiful passage in the [[litany|Litany]] which remembers all sick
+[[america|America]], of that beautiful passage in the [[litany|Litany]] which remembers all sick
 persons and young children.
 
 I was taken to these Institutions by [[Water|water]], in a boat belonging to the
@@ -78,56 +123,3 @@ vigilant examination of a [[Body|body]] of gentlemen of great intelligence and
 experience, it cannot fail to be [[Well|well]] conducted; and whether I am right
 or wrong in this slight particular, is unimportant to its deserts and
 character, which it would be difficult to estimate too highly.
-
-In addition to these establishments, there are in [[New York]], excellent
-hospitals and schools, literary institutions and libraries; an admirable
-[[Fire|fire]] department (as indeed it should be, having constant practice), and
-charities of every sort and kind.  In the suburbs there is a spacious
-cemetery: unfinished yet, but every day improving.  The saddest tomb I
-saw there was ‘The Strangers’ [[Grave]].  Dedicated to the different hotels
-in this [[City|city]].’
-
-There are three principal theatres.  Two of them, the Park and the
-Bowery, are large, elegant, and handsome buildings, and are, I grieve to
-write it, generally deserted.  The third, the Olympic, is a tiny show-box
-for vaudevilles and burlesques.  It is singularly [[Well|well]] conducted by Mr.
-Mitchell, a comic actor of great quiet [[Humour|humour]] and originality, who is
-[[Well|well]] remembered and esteemed by [[London]] playgoers.  I am happy to report
-of this deserving gentleman, that his benches are usually [[Well|well]] filled,
-and that his theatre rings with merriment every [[Night|night]].  I had almost
-forgotten a small [[Summer|summer]] theatre, called Niblo’s, with gardens and open
-air amusements attached; but I believe it is not exempt from the general
-depression under which Theatrical Property, or what is humorously called
-by that name, unfortunately labours.
-
-The country round [[New York]] is surpassingly and exquisitely picturesque.
-The climate, as I have already intimated, is somewhat of the warmest.
-What it would be, without the sea breezes which come from its beautiful
-Bay in the evening [[Time|time]], I will not throw myself or my readers into a
-fever by inquiring.
-
-The tone of the best society in this [[City|city]], is like that of Boston; here
-and there, it may be, with a greater infusion of the mercantile spirit,
-but generally polished and refined, and always most hospitable.  The
-houses and tables are elegant; the hours later and more rakish; and there
-is, perhaps, a greater spirit of contention in reference to appearances,
-and the display of wealth and costly living.  The ladies are singularly
-beautiful.
-
-Before I left [[New York]] I made arrangements for securing a passage [[Home|home]] in
-the George Washington packet [[Ship|ship]], which was advertised to sail in June:
-that being the month in which I had determined, if prevented by no
-accident in the course of my ramblings, to leave [[America]].
-
-I never thought that going back to England, returning to all who are dear
-to me, and to pursuits that have insensibly grown to be a part of my
-[[Nature|nature]], I could have felt so much sorrow as I endured, when I parted at
-last, on board this [[Ship|ship]], with the friends who had accompanied me from
-this [[City|city]].  I never thought the name of any place, so far away and so
-lately known, could ever associate itself in my mind with the crowd of
-affectionate remembrances that now cluster about it.  There are those in
-this [[City|city]] who would brighten, to me, the darkest [[Winter|winter]]-day that ever
-glimmered and went out in Lapland; and before whose presence even [[Home]]
-grew dim, when they and I exchanged that painful word which mingles with
-our every thought and deed; which haunts our cradle-heads in infancy, and
-closes up the vista of our lives in age.

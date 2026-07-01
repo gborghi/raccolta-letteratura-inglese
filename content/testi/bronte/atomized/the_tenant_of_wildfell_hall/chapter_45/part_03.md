@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 45 (part 3)"
+title: "The Tenant of Wildfell Hall — Chapter 45 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_45/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_45/part_04">part 04 ›</a></div>
 </nav>
 
+
+hand to me—I’ll wait till then.”
+
+
+
+But she would not leave me this support. Independently of the moral
+
+evil of basing our hopes upon the [[Death|death]] of another, who, if unfit for
+
+this world, was at least no less so for the next, and whose
+
+amelioration would thus become our bane and his greatest transgression
+
+our greatest benefit,—she maintained it to be [[Madness|madness]]: many men of Mr.
 
 Huntingdon’s habits had lived to a ripe though miserable old age. “And
 
@@ -213,33 +227,3 @@ better.”
 “But if I am to be so changed that I shall cease to adore you with my
 
 whole heart and [[Soul|soul]], and [[Love|love]] you beyond every other creature, I shall
-
-not be myself; and though, if ever I win heaven at all, I must, I know,
-
-be infinitely better and happier than I am now, my earthly [[Nature|nature]]
-
-cannot rejoice in the anticipation of such beatitude, from which itself
-
-and its chief joy must be excluded.”
-
-
-
-“Is your [[Love|love]] _all_ earthly, then?”
-
-
-
-“No, but I am supposing we shall have no more intimate communion with
-
-each other than with the rest.”
-
-
-
-“If so, it will be because we [[Love|love]] them more, and not each other less.
-
-Increase of [[Love|love]] brings increase of happiness, when it is mutual, and
-
-pure as that will be.”
-
-
-
-“But can _you_, [[Helen]], contemplate with delight this prospect of losing

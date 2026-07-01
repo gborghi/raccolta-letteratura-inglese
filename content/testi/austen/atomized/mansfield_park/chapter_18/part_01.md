@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 18 (part 1)"
+title: "Mansfield Park — Chapter 18 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -110,6 +110,3 @@ in putting it together. There are but three seams; you may do them in a
 trice. It would be lucky for me if I had nothing but the executive part
 to do. _You_ are best off, I can tell you: but if nobody did more than
 _you_, we should not get on very fast.”
-
-Fanny took the work very quietly, without attempting any defence; but
-her kinder aunt [[Bertram]] observed on her behalf—

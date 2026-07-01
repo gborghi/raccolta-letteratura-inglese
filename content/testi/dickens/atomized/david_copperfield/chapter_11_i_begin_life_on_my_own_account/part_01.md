@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 11: I BEGIN LIFE ON MY OWN ACCOUNT, AND DON’T LIKE IT (part 1)"
+title: "David Copperfield — Chapter 11: I BEGIN LIFE ON MY OWN ACCOUNT, AND DON’T LIKE IT (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"

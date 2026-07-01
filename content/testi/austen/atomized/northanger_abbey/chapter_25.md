@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 24"
+title: "Northanger Abbey — Chapter 24"
 author: "Austen"
 unitType: chapter
 parentWork: "works/northanger-abbey-(austen)"
@@ -498,7 +498,7 @@ disorder, Frederick and I (_we_ were both at [[Home|home]]) saw her repeatedly;
 
 and from our own observation can bear witness to her having received
 
-every possible attention which could [[spring]] from the affection of those
+every possible attention which could [[Spring|spring]] from the affection of those
 
 about her, or which her situation in life could command. Poor [[Eleanor]]
 

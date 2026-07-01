@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 19 (part 6)"
+title: "Shirley — Chapter 19 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -12,6 +12,68 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_19/part_05">‹ part 05</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_20/part_01">part 01 ›</a></div>
 </nav>
+
+
+here, in the centre of the sweet glen, Discord, broken loose in the
+
+[[Night|night]] from control, had beaten the ground with his stamping hoofs, and
+
+left it waste and pulverized. The mill yawned all ruinous with unglazed
+
+frames; the yard was thickly bestrewn with stones and brickbats; and
+
+close under the mill, with the glittering fragments of the shattered
+
+windows, muskets and other weapons lay here and there. More than one
+
+deep crimson stain was visible on the gravel, a human [[Body|body]] lay quiet on
+
+its face near the gates, and five or six wounded men writhed and moaned
+
+in the bloody [[Dust|dust]].
+
+
+
+Miss Keeldar's countenance changed at this view. It was the after-taste
+
+of the battle, [[Death|death]] and [[Pain|pain]] replacing excitement and exertion. It was
+
+the blackness the bright [[Fire|fire]] [[Leaves|leaves]] when its blaze is sunk, its warmth
+
+failed, and its glow faded.
+
+
+
+"This is what I wished to prevent," she said, in a voice whose cadence
+
+betrayed the altered impulse of her heart.
+
+
+
+"But you could not prevent it; you did your best--it was in vain," said
+
+Caroline comfortingly. "Don't grieve, [[Shirley]]."
+
+
+
+"I am sorry for those poor fellows," was the answer, while the spark in
+
+her glance dissolved to dew. "Are any within the mill hurt, I [[Wonder|wonder]]? Is
+
+that your uncle?"
+
+
+
+"It is, and there is Mr. Malone; and, O [[Shirley]], there is Robert!"
+
+
+
+"[[Well]]" (resuming her former tone), "don't squeeze your fingers quite
+
+into my hand. I see. There is nothing wonderful in that. We knew he, at
+
+least, was here, whoever might be absent."
+
 
 
 "He is coming here towards us, [[Shirley]]!"

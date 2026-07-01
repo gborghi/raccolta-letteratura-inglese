@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The Arrow of Heaven"
+title: "incredulity Fr Brown — The Arrow of Heaven"
 author: "Chesterton"
 unitType: story
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -47,10 +47,10 @@ much more important person than he had ever supposed. His short figure,
 his short - sighted and undistinguished countenance, his rather rusty -
 black clerical clothes, could pass through any crowd in his own country
 without being noticed as anything unusual, except perhaps unusually
-insignificant. But [[america|America]] has a genius for the encouragement of fame;
+insignificant. But [[America]] has a genius for the encouragement of fame;
 and his appearance in one or two curious criminal problems, together
 with his long association with [[Flambeau]], the ex - criminal and
-[[Detective|detective]], had consolidated a reputation in [[america|America]] out of what was
+[[Detective|detective]], had consolidated a reputation in [[America]] out of what was
 little more than a rumour in England. His round face was blank with
 surprise when he found himself held up on the quay by a group of
 journalists, as by a gang of brigands, who asked him questions about all
@@ -67,7 +67,7 @@ Wain.'
 
 Some apology may be made for [[Father Brown]]; for he himself would have
 been sincerely apologetic. It must be remembered that he had never seen
-[[america|America]] before, and more especially that he had never seen that sort of
+[[America]] before, and more especially that he had never seen that sort of
 tortoise - shell spectacles before; for the fashion at this [[Time|time]] had not
 spread to England. His first sensation was that of gazing at some
 goggling sea - [[Monster|monster]] with a faint suggestion of a diver's helmet.
@@ -252,7 +252,7 @@ respectively going and coming. And through all goings and comings
 another figure sat at the back of the room near the inner door, massive
 and motionless in the half - light from the inner [[Window|window]]; a man with a
 Negro face and enormous shoulders. This was what the humorous [[Self|self]] -
-criticism of [[america|America]] playfully calls the Bad Man; whom his friends might
+criticism of [[America]] playfully calls the Bad Man; whom his friends might
 call a bodyguard and his enemies a bravo.
 
 This man never moved or stirred to greet anybody; but the sight of him

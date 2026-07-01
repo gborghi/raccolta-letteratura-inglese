@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 58 (part 2)"
+title: "Bleak House — Chapter 58 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -132,6 +132,3 @@ the dearest of creatures—who was killed at Waterloo.
 Sir Leicester hears this tribute with so much surprise and stares
 about him in such a confused way that Mrs. Rouncewell feels it
 necessary to explain.
-
-“Miss Dedlock don’t speak of my eldest son, Sir Leicester, but my
-youngest. I have found him. He has come [[Home|home]].”

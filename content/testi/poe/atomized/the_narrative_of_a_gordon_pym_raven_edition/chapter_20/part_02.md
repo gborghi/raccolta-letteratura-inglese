@@ -14,6 +14,10 @@ tags:
 </nav>
 
 
+      full-grown ones are always observed coming in from deep [[Water|water]].
+
+      They feed principally on that class of zoophytes which produce
+
       the coral.
 
 
@@ -195,15 +199,3 @@ tags:
       upon questioning Too-wit in relation to this circumstance, he
 
       merely answered that _Mattee non we pa pa si_—meaning that there
-
-      was no need of arms where all were brothers. We took this in good
-
-      part, and proceeded.
-
-
-
-      We had passed the [[Spring|spring]] and rivulet of which I before spoke, and
-
-      were now entering upon a narrow gorge leading through the chain
-
-      of soapstone hills among which the village was situated. This

@@ -53,7 +53,7 @@ but, he was past that, now.
 
 The Year was Old, that day.  The patient Year had lived through the
 reproaches and misuses of its slanderers, and faithfully performed its
-work.  [[Spring]], [[Summer|summer]], [[Autumn|autumn]], [[Winter|winter]].  It had laboured through the
+work.  [[spring|Spring]], [[Summer|summer]], [[Autumn|autumn]], [[Winter|winter]].  It had laboured through the
 destined round, and now laid down its weary head to die.  Shut out from
 [[Hope|hope]], high impulse, active happiness, itself, but active messenger of
 many joys to others, it made appeal in its decline to have its toiling

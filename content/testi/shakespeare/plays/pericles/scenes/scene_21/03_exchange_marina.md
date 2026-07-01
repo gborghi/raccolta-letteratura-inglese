@@ -1,5 +1,5 @@
 ---
-title: "[[Pericles]] — Scene 21 — exchange ([[Marina|MARINA]]) [3]"
+title: "Pericles — Scene 21 — exchange (MARINA) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/pericles-(shakespeare)"

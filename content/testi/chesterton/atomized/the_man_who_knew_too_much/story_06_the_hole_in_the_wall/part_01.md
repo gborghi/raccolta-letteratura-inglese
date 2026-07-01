@@ -187,9 +187,3 @@ pronounced it Holliwell, many a minor poet indulged in fancies about
 a Holy [[Well]], with spells and fairies and all the rest of it, filling
 
 the suburban drawing-rooms with the Celtic twilight. Whereas anyone
-
-acquainted with the facts knows that 'Hollinwall' simply means 'the
-
-hole in the wall,' and probably referred to some quite trivial
-
-accident. That's what I mean when I say that we don't so much find

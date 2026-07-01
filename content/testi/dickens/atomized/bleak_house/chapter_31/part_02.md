@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 31 (part 2)"
+title: "Bleak House — Chapter 31 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_31/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_31/part_03">part 03 ›</a></div>
 </nav>
 
+
+We came to the cottage, where there was a feeble candle in the
+patched [[Window|window]]. We tapped at the door and went in. The mother of the
+little [[Child|child]] who had died was sitting in a chair on one side of the
+poor [[Fire|fire]] by the bed; and opposite to her, a wretched boy, supported
+by the chimney-piece, was cowering on the floor. He held under his
+arm, like a little bundle, a [[Fragment|fragment]] of a fur cap; and as he tried
+to warm himself, he shook until the crazy door and [[Window|window]] shook. The
+place was closer than before and had an unhealthy and a very peculiar
+smell.
 
 I had not lifted my veil when I first spoke to the woman, which was
 at the moment of our going in. The boy staggered up instantly and
@@ -139,17 +149,3 @@ where the boy will be most like, and again in the morning!” She
 hurried off, and presently we passed her hushing and singing to her
 [[Child|child]] at her own door and looking anxiously along the [[Road|road]] for her
 drunken husband.
-
-I was afraid of staying then to speak to either woman, lest I should
-bring her into trouble. But I said to Charley that we must not leave
-the boy to die. Charley, who knew what to do much better than I did,
-and whose quickness equalled her presence of mind, glided on before
-me, and presently we came up with Jo, just short of the brick-kiln.
-
-I think he must have begun his [[Journey|journey]] with some small bundle under
-his arm and must have had it stolen or lost it. For he still carried
-his wretched [[Fragment|fragment]] of fur cap like a bundle, though he went
-bare-headed through the rain, which now fell fast. He stopped when we
-called to him and again showed a dread of me when I came up, standing
-with his lustrous eyes fixed upon me, and even arrested in his
-shivering fit.

@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 17: SEVENTEEN (part 4)"
+title: "Martin Chuzzlewit — Chapter 17: SEVENTEEN (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,35 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_17_seventeen/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_17_seventeen/part_05">part 05 ›</a></div>
 </nav>
 
+
+Another delightful circumstance turned up before the first cup of tea
+was drunk. The whole family had been in England. There was a pleasant
+thing! But Martin was not quite so glad of this, when he found that
+they knew all the great dukes, lords, viscounts, marquesses, duchesses,
+knights, and baronets, quite affectionately, and were beyond everything
+interested in the least particular concerning them. However, when they
+asked, after the wearer of this or that coronet, and said, ‘Was he quite
+[[Well|well]]?’ Martin answered, ‘Yes, oh yes. Never better;’ and when they said,
+‘his lordship’s mother, the duchess, was she much changed?’ Martin said,
+‘Oh dear no, they would know her anywhere, if they saw her to-morrow;’
+and so got on pretty [[Well|well]]. In like manner when the young ladies
+questioned him touching the Gold Fish in that Grecian fountain in such
+and such a nobleman’s conservatory, and whether there were as many as
+there used to be, he gravely reported, after mature consideration, that
+there must be at least twice as many; and as to the exotics, ‘Oh! [[Well|well]]!
+it was of no use talking about THEM; they must be seen to be believed;’
+which improved state of circumstances reminded the family of the
+splendour of that brilliant festival (comprehending the whole British
+Peerage and [[Court]] Calendar) to which they were specially invited, and
+which indeed had been partly given in their [[Honour|honour]]; and recollections
+of what Mr Norris the father had said to the marquess, and of what Mrs
+Norris the mother had said to the [[Marchioness|marchioness]], and of what the marquess
+and [[Marchioness|marchioness]] had both said, when they said that upon their words and
+honours they wished Mr Norris the father and [[Mrs Norris]] the mother, and
+the Misses Norris the daughters, and Mr Norris Junior, the son, would
+only take up their permanent residence in England, and give them the
+pleasure of their everlasting [[Friendship|friendship]], occupied a very considerable
+[[Time|time]].
 
 Martin thought it rather stange, and in some sort inconsistent, that
 during the whole of these narrations, and in the very meridian of their
@@ -80,39 +109,3 @@ to bear on any subject from Millinery to the Millennium, both inclusive,
 which was at once improving and remarkable; so much so, in short, that
 it was usually observed to reduce foreigners to a state of temporary
 insanity in five minutes.
-
-Martin felt his reason going; and as a means of saving himself, besought
-the other sister (seeing a piano in the room) to sing. With this request
-she willingly complied; and a bravura concert, solely sustained by the
-Misses Noriss, presently began. They sang in all languages--except their
-own. German, French, Italian, Spanish, Portuguese, Swiss; but nothing
-native; nothing so low as native. For, in this respect, languages are
-like many other travellers--ordinary and commonplace enough at [[Home|home]], but
-‘specially genteel abroad.
-
-There is little [[Doubt|doubt]] that in course of [[Time|time]] the Misses Norris would
-have come to Hebrew, if they had not been interrupted by an announcement
-from the Irishman, who, flinging open the door, cried in a loud voice--
-
-‘Jiniral Fladdock!’
-
-‘My!’ cried the sisters, desisting suddenly. ‘The general come back!’
-
-As they made the exclamation, the general, attired in full uniform for a
-ball, came darting in with such precipitancy that, hitching his boot
-in the carpet, and getting his [[Sword|sword]] between his legs, he came down
-headlong, and presented a curious little bald place on the [[Crown|crown]] of his
-head to the eyes of the astonished company. Nor was this the worst of
-it; for being rather corpulent and very tight, the general being down,
-could not get up again, but lay there writhing and doing such things with
-his boots, as there is no other instance of in military [[history]].
-
-Of course there was an immediate rush to his assistance; and the general
-was promptly raised. But his uniform was so fearfully and wonderfully
-made, that he came up stiff and without a bend in him like a dead Clown,
-and had no command whatever of himself until he was put quite flat upon
-the soles of his feet, when he became animated as by a miracle, and
-moving edgewise that he might go in a narrower compass and be in less
-danger of fraying the gold lace on his epaulettes by brushing them
-against anything, advanced with a smiling visage to salute the lady of
-the [[house]].

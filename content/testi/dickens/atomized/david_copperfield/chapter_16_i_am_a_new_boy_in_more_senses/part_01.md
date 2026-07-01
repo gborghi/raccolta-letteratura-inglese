@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 16: I AM A NEW BOY IN MORE SENSES THAN ONE (part 1)"
+title: "David Copperfield — Chapter 16: I AM A NEW BOY IN MORE SENSES THAN ONE (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_15_i_make_another_beginning/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_16_i_am_a_new_boy_in_more_senses/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_15_i_make_another_beginning/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_16_i_am_a_new_boy_in_more_senses/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -133,36 +133,3 @@ welcomed me. He looked like a young clergyman, in his white cravat, but
 he was very affable and good-humoured; and he showed me my place, and
 presented me to the masters, in a gentlemanly way that would have put me
 at my ease, if anything could.
-
-It seemed to me so long, however, since I had been among such boys,
-or among any companions of my own age, except Mick Walker and Mealy
-Potatoes, that I felt as strange as ever I have done in my life. I was
-so conscious of having passed through scenes of which they could have
-no knowledge, and of having acquired experiences foreign to my age,
-appearance, and condition as one of them, that I half believed it was an
-imposture to come there as an ordinary little schoolboy. I had become,
-in the Murdstone and Grinby [[Time|time]], however short or long it may have
-been, so unused to the sports and games of boys, that I knew I was
-awkward and inexperienced in the commonest things belonging to them.
-Whatever I had learnt, had so slipped away from me in the sordid cares
-of my life from day to [[Night|night]], that now, when I was examined about what
-I knew, I knew nothing, and was put into the lowest form of the school.
-But, troubled as I was, by my want of boyish skill, and of book-learning
-too, I was made infinitely more uncomfortable by the consideration,
-that, in what I did know, I was much farther removed from my companions
-than in what I did not. My mind ran upon what they would think, if they
-knew of my familiar acquaintance with the [[King]]’s Bench [[Prison]]? Was there
-anything about me which would reveal my proceedings in connexion with
-the Micawber family--all those pawnings, and sellings, and suppers--in
-spite of myself? Suppose some of the boys had seen me coming through
-Canterbury, wayworn and ragged, and should find me out? What would they
-say, who made so light of money, if they could know how I had scraped my
-halfpence together, for the purchase of my daily saveloy and beer, or
-my slices of pudding? How would it affect them, who were so [[Innocent|innocent]] of
-[[London]] life, and [[London]] streets, to discover how knowing I was (and was
-ashamed to be) in some of the meanest phases of both? All this ran in
-my head so much, on that first day at Doctor Strong’s, that I felt
-distrustful of my slightest look and gesture; shrunk within myself
-whensoever I was approached by one of my new schoolfellows; and hurried
-off the minute school was over, afraid of committing myself in my
-response to any friendly notice or advance.

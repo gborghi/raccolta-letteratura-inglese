@@ -1,5 +1,5 @@
 ---
-title: "Napoleon of Notting [[Hill]] — Chapter 2 (part 2)"
+title: "Napoleon of Notting Hill — Chapter 2 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/napoleon-of-notting-hill-(chesterton)"

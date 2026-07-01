@@ -87,43 +87,42 @@ their walks, over their talks, over their stories, over their dinners.
 All the characters seem friends who are talking together far into
 an immortal [[Night|night]] to which no grey morning ever comes.
 
-The formlessness of `[[Pickwick]]' is therefore its form.
-This mood of exuberance has two natural expressions, the [[Desire|desire]]
-to linger and the [[Desire|desire]] to ramble.  If [[Pickwick]] and his friends
+The formlessness of `Pickwick' is therefore its form.
+This mood of exuberance has two natural expressions, the desire
+to linger and the desire to ramble.  If Pickwick and his friends
 were not continually crossing a crowded stage which was for ever
 changing like a transformation scene and of which they only were
 the constant factors, it would not be a better book but a worse.
 If the whole story revolved round one incident like a story by Guy
 de Maupassant, if everything turned on the Fancy Dress Ball at Eatonswill
 or the Cricket Match at Dingley Dell, if the central symbol of the whole
-story were Mr. Sawyer's red handkerchief or Mr. Winkle's [[Horse|horse]];
-if the [[Pickwick]] Papers in short were only a brilliant [[Fragment|fragment]]
+story were Mr. Sawyer's red handkerchief or Mr. Winkle's horse;
+if the Pickwick Papers in short were only a brilliant fragment
 of psychology about the fat boy, or a sad sea-green little idyll
 about Mr. Stiggins, it would not be a better book but a worse,
 for it would have lost its supreme meaning even as we have lost its
-sense of a world almost choked with adventure and a [[Hero|hero]] constant
-only in the [[Mutability|mutability]] of a comic [[Ulysses]], faithful only to his
+sense of a world almost choked with adventure and a hero constant
+only in the mutability of a comic Ulysses, faithful only to his
 own omnivorous fickleness.
-
 
 CHARLOTTE BRONTE AS A ROMANTIC
 
 THE GENIUS OF Charlotte Bronte is unique in the only valuable sense in
 which the word can be applied; the only sense which separates the rarity
 of some gift in a poet from the rarity of some delusion in an asylum.
-However complex or even [[Grotesque|grotesque]] an artistic power may be, it must
+However complex or even grotesque an artistic power may be, it must
 be as these qualities exist in a key, which is one of the most
-complex and [[Grotesque|grotesque]] of human objects, but which has for its
+complex and grotesque of human objects, but which has for its
 object the opening of doors and the entrance into wider things.
 Charlotte Bronte's art was something more or less than complex;
-and it was not to be described as [[Grotesque|grotesque]]; except rarely--
+and it was not to be described as grotesque; except rarely--
 and unintentionally, But it was temperamental and, like all
 things depending on temperament, unequal; and it was so personal
 as to be perverse.  It is in connection with power of this kind,
 however creative, that we have to discover and define what
 distinguished it from the uncreative intensity of the insane.
 I cannot understand what it was that made the Philistines of a
-former generation regard [[Jane Eyre]] as morally unsound; probably it
-was its almost exaggerated [[morality]].  But if they had regarded
+former generation regard Jane Eyre as morally unsound; probably it
+was its almost exaggerated morality.  But if they had regarded
 it as mentally unsound, I could have understood their prejudice,
-while perceiving the [[Nature|nature]] of their error.
+while perceiving the nature of their error.

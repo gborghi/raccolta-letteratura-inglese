@@ -1,5 +1,5 @@
 ---
-title: "[[Edward III]] — Scene 3 — monologue ([[Countess of Salisbury|COUNTESS OF SALISBURY]]) [6]"
+title: "Edward III — Scene 3 — monologue (COUNTESS OF SALISBURY) [6]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/edward-iii-(shakespeare)"

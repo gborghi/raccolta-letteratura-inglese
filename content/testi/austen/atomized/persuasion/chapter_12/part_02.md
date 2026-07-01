@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 12 (part 2)"
+title: "Persuasion — Chapter 12 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -12,6 +12,12 @@ tags:
 <div class="excerpt-crumb">Austen · <a href="/works/persuasion-(austen)">Persuasion</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_12/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_12/part_03">part 03 ›</a></div>
 </nav>
+
+
+manners. He seemed about thirty, and though not handsome, had an
+
+agreeable person. Anne felt that she should like to know who he was.
+
 
 
 They had nearly done breakfast, when the sound of a carriage, (almost
@@ -223,15 +229,3 @@ Captain Harville by her side.
 in making that poor fellow talk so much. I wish he could have such
 
 company oftener. It is bad for him, I know, to be shut up as he is; but
-
-what can we do? We cannot part.”
-
-
-
-“No,” said Anne, “that I can easily believe to be impossible; but in
-
-[[Time|time]], perhaps—we know what [[Time|time]] does in every case of affliction, and
-
-you must remember, Captain Harville, that your friend may yet be called
-
-a young mourner—only last [[Summer|summer]], I understand.”

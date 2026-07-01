@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 8 (part 3)"
+title: "The Mystery of Edwin Drood — Chapter 8 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -13,6 +13,26 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_09/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_10/part_01">part 01 ›</a></div>
 </nav>
 
+
+“And what have they made you sensible of?”
+
+Mr. Jasper’s play of eyes between the two holds good throughout the
+dialogue, to the end.
+
+“I have told you once before to-[[Night|night]].”
+
+“You have done nothing of the sort.”
+
+“I tell you I have. That you take a great deal too much upon yourself.”
+
+“You added something else to that, if I remember?”
+
+“Yes, I did say something else.”
+
+“Say it again.”
+
+“I said that in the part of the world I come from, you would be called
+to account for it.”
 
 “Only there?” cries [[Edwin Drood]], with a contemptuous laugh. “A long way
 off, I believe? Yes; I see! That part of the world is at a safe

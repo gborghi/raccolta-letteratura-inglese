@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 28 (part 2)"
+title: "Jane Eyre — Chapter 28 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_28/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_28/part_03">part 03 ›</a></div>
 </nav>
 
+
+But next day, Want came to me pale and bare. Long after the little
+[[Birds|birds]] had left their nests; long after [[Bees|bees]] had come in the sweet prime
+of day to gather the heath honey before the dew was dried—when the long
+morning shadows were curtailed, and the sun filled earth and sky—I got
+up, and I looked round me.
 
 What a still, hot, perfect day! What a golden [[Desert|desert]] this spreading
 moor! Everywhere sunshine. I wished I could live in it and on it. I saw
@@ -121,16 +127,3 @@ me? Yet I drew near and knocked. A mild-looking, cleanly-attired young
 woman opened the door. In such a voice as might be expected from a
 hopeless heart and fainting frame—a voice wretchedly low and
 faltering—I asked if a servant was wanted here?
-
-“No,” said she; “we do not keep a servant.”
-
-“Can you tell me where I could get employment of any kind?” I
-continued. “I am a stranger, without acquaintance in this place. I want
-some work: no matter what.”
-
-But it was not her business to think for me, or to seek a place for me:
-besides, in her eyes, how doubtful must have appeared my character,
-position, tale. She shook her head, she “was sorry she could give me no
-information,” and the white door closed, quite gently and civilly: but
-it shut me out. If she had held it open a little longer, I believe I
-should have begged a piece of bread; for I was now brought low.

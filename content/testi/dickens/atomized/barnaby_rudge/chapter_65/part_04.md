@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 65 (part 4)"
+title: "Barnaby Rudge — Chapter 65 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_65/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_66/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘I tell you, yes. What the devil ails you? Where are you going?’
+
+‘No matter where I’m going,’ rejoined the hangman, looking in again at
+the iron wicket, which he had nearly shut upon himself, and held ajar.
+‘Remember where you’re coming. That’s all!’
+
+With that, he shook his likeness at Hugh, and giving him a grin,
+compared with which his usual smile was amiable, disappeared, and shut
+the door.
 
 Hugh paused no longer, but goaded alike by the cries of the convicts,
 and by the impatience of the crowd, warned the man immediately behind

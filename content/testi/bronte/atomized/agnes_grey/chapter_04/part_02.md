@@ -1,5 +1,5 @@
 ---
-title: "[[Agnes Grey]] — Chapter 4 (part 2)"
+title: "Agnes Grey — Chapter 4 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/agnes-grey-(bronte)"
@@ -13,6 +13,33 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/agnes_grey/chapter_04/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/agnes_grey/chapter_04/part_03">part 03 ›</a></div>
 </nav>
 
+
+I heard no more; but that sufficed.
+
+The senior Mrs. Bloomfield had been very attentive and civil to me; and
+till now I had thought her a nice, kind-hearted, chatty old [[Body|body]]. She
+would often come to me and talk in a confidential strain; nodding and
+shaking her head, and gesticulating with hands and eyes, as a certain
+class of old ladies are wont to do; though I never knew one that
+carried the peculiarity to so great an extent. She would even
+sympathise with me for the trouble I had with the children, and express
+at times, by half sentences, interspersed with nods and knowing winks,
+her sense of the injudicious conduct of their mamma in so restricting
+my power, and neglecting to support me with her authority. Such a mode
+of testifying disapprobation was not much to my taste; and I generally
+refused to take it in, or understand anything more than was openly
+spoken; at least, I never went farther than an implied acknowledgment
+that, if matters were otherwise ordered my task would be a less
+difficult one, and I should be better able to guide and instruct my
+charge; but now I must be doubly cautious. Hitherto, though I saw the
+old lady had her defects (of which one was a proneness to proclaim her
+perfections), I had always been wishful to excuse them, and to give her
+credit for all the virtues she professed, and even imagine others yet
+untold. Kindness, which had been the food of my life through so many
+years, had lately been so entirely denied me, that I welcomed with
+grateful joy the slightest semblance of it. No [[Wonder|wonder]], then, that my
+heart warmed to the old lady, and always gladdened at her approach and
+regretted her departure.
 
 But now, the few words luckily or unluckily heard in passing had wholly
 revolutionized my ideas respecting her: now I looked upon her as
@@ -92,25 +119,3 @@ was conniving at their disorderly conduct; if (as was frequently the
 case) I happened to be exalting my voice to enforce order, I was using
 undue violence, and setting the girls a bad example by such
 ungentleness of tone and language.
-
-I remember one afternoon in [[Spring|spring]], when, owing to the rain, they could
-not go out; but, by some amazing good fortune, they had all finished
-their lessons, and yet abstained from running down to tease their
-parents—a trick that annoyed me greatly, but which, on rainy days, I
-seldom could prevent their doing; because, below, they found novelty
-and amusement—especially when visitors were in the [[house]]; and their
-mother, though she bid me keep them in the schoolroom, would never
-chide them for leaving it, or trouble herself to send them back. But
-this day they appeared satisfied with their present abode, and what is
-more wonderful still, seemed disposed to play together without
-depending on me for amusement, and without quarrelling with each other.
-Their occupation was a somewhat puzzling one: they were all squatted
-together on the floor by the [[Window|window]], over a heap of broken toys and a
-quantity of [[Birds|birds]]’ eggs—or rather egg-shells, for the contents had
-luckily been abstracted. These shells they had broken up and were
-pounding into small fragments, to what end I could not imagine; but so
-long as they were quiet and not in positive mischief, I did not care;
-and, with a feeling of unusual repose, I sat by the [[Fire|fire]], putting the
-finishing stitches to a frock for Mary Ann’s doll; intending, when that
-was done, to begin a letter to my mother. Suddenly the door opened, and
-the dingy head of Mr. Bloomfield looked in.

@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 3 (part 4)"
+title: "Martin Chuzzlewit — Chapter 3 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,32 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_03/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_03/part_05">part 05 ›</a></div>
 </nav>
 
+
+‘Good evening, Mrs Lupin!’
+
+‘Oh dear me, sir!’ she cried, advancing to receive him, ‘I am so very
+glad you have come.’
+
+‘And I am very glad I have come,’ said Mr Pecksniff, ‘if I can be of
+service. I am very glad I have come. What is the matter, Mrs Lupin?’
+
+‘A gentleman taken ill upon the [[Road|road]], has been so very bad upstairs,
+sir,’ said the tearful hostess.
+
+‘A gentleman taken ill upon the [[Road|road]], has been so very bad upstairs, has
+he?’ repeated Mr Pecksniff. ‘[[Well]], [[Well|well]]!’
+
+Now there was nothing that one may call decidedly original in this
+remark, nor can it be exactly said to have contained any wise precept
+theretofore unknown to mankind, or to have opened any hidden source of
+consolation; but Mr Pecksniff’s manner was so bland, and he nodded his
+head so soothingly, and showed in everything such an affable sense of
+his own excellence, that anybody would have been, as Mrs Lupin was,
+comforted by the mere voice and presence of such a man; and, though he
+had merely said ‘a verb must agree with its nominative case in number
+and person, my good friend,’ or ‘eight times eight are sixty-four, my
+worthy [[Soul|soul]],’ must have felt deeply grateful to him for his humanity and
+wisdom.
 
 ‘And how,’ asked Mr Pecksniff, drawing off his gloves and warming his
 hands before the [[Fire|fire]], as benevolently as if they were somebody else’s,
@@ -114,27 +140,3 @@ some thoughtfulness and much comfort, waited for his waking. Whatever
 objection the young lady urged to Mrs Lupin went no further, for nothing
 more was said to Mr Pecksniff, and Mr Pecksniff said nothing more to
 anybody else.
-
-Full half an hour elapsed before the old man stirred, but at length he
-turned himself in bed, and, though not yet awake, gave tokens that
-his [[Sleep|sleep]] was drawing to an end. By little and little he removed the
-bed-clothes from about his head, and turned still more towards the side
-where Mr Pecksniff sat. In course of [[Time|time]] his eyes opened; and he
-lay for a few moments as people newly roused sometimes will, gazing
-indolently at his visitor, without any distinct consciousness of his
-presence.
-
-There was nothing remarkable in these proceedings, except the influence
-they worked on Mr Pecksniff, which could hardly have been surpassed by
-the most marvellous of natural phenomena. Gradually his hands became
-tightly clasped upon the elbows of the chair, his eyes dilated with
-surprise, his mouth opened, his hair stood more erect upon his forehead
-than its custom was, until, at length, when the old man [[Rose|rose]] in bed,
-and stared at him with scarcely less emotion than he showed himself, the
-Pecksniff doubts were all resolved, and he exclaimed aloud:
-
-‘You ARE [[Martin Chuzzlewit]]!’
-
-His consternation of surprise was so genuine, that the old man, with all
-the disposition that he clearly entertained to believe it assumed, was
-convinced of its reality.

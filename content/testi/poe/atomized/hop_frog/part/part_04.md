@@ -1,5 +1,5 @@
 ---
-title: "[[Hop-Frog]] (part 4)"
+title: "Hop-Frog (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/hop-frog-(poe)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/hop_frog/part/part_03">‹ part 03</a><span></span></div>
 </nav>
 
+
+      Soon after this, the [[King|king]] and his seven friends having reeled about the
+      hall in all directions, found themselves, at length, in its centre, and,
+      of course, in immediate contact with the chain. While they were thus
+      situated, the [[Dwarf|dwarf]], who had followed noiselessly at their heels, inciting
+      them to keep up the commotion, took hold of their own chain at the
+      intersection of the two portions which crossed the circle diametrically
+      and at right angles. Here, with the rapidity of thought, he inserted the
+      hook from which the chandelier had been wont to depend; and, in an
+      instant, by some unseen agency, the chandelier-chain was drawn so far
+      upward as to take the hook out of reach, and, as an inevitable
+      consequence, to drag the ourang-outangs together in close connection, and
+      face to face.
 
       The masqueraders, by this [[Time|time]], had recovered, in some measure, from their
       alarm; and, beginning to regard the whole matter as a [[Well|well]]-contrived

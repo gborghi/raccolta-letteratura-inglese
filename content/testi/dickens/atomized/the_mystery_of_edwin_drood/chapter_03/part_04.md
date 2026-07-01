@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 3 (part 4)"
+title: "The Mystery of Edwin Drood — Chapter 3 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_03/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_05/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Lor!” says Rosa, shrugging her shoulders, with a little laugh of
+[[Wonder|wonder]].
+
+“Do you object,” Edwin inquires, with a majestic turn of his eyes
+downward upon the fairy figure: “do you object, Rosa, to her feeling
+that interest?”
+
+“Object? my dear Eddy! But really, doesn’t she hate boilers and
+things?”
+
+“I can answer for her not being so idiotic as to hate Boilers,” he
+returns with angry emphasis; “though I cannot answer for her views
+about Things; really not understanding what Things are meant.”
 
 “But don’t she hate Arabs, and Turks, and Fellahs, and people?”
 

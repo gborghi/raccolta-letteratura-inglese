@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 51: THE BEGINNING OF A LONGER [[Journey|JOURNEY]] (part 5)"
+title: "David Copperfield — Chapter 51: THE BEGINNING OF A LONGER [[Journey|JOURNEY (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_51_the_beginning_of_a_longer_jour/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_51_the_beginning_of_a_longer_jour/part_06">part 06 ›</a></div>
 </nav>
 
+
+I changed the subject by referring to Emily. After assuring him that I
+did not forget how interested he had always been in her, and how
+kindly he had always treated her, I gave him a general account of her
+restoration to her uncle by the aid of Martha; which I knew would please
+the old man. He listened with the utmost attention, and said, feelingly,
+when I had done:
 
 ‘I am rejoiced at it, sir! It’s the best news I have heard for many
 a day. Dear, dear, dear! And what’s going to be undertook for that
@@ -116,18 +123,3 @@ better than any boat-builder in any yard in all that part. There were
 times, she said, of an evening, when he talked of their old life in
 the boat-[[house]]; and then he mentioned Emily as a [[Child|child]]. But, he never
 mentioned her as a woman.
-
-I thought I had read in his face that he would like to speak to me
-[[Alone|alone]]. I therefore resolved to put myself in his way next evening, as he
-came [[Home|home]] from his work. Having settled this with myself, I fell asleep.
-That [[Night|night]], for the first [[Time|time]] in all those many nights, the candle was
-taken out of the [[Window|window]], Mr. Peggotty swung in his old hammock in the
-old boat, and the [[Wind|wind]] murmured with the old sound round his head.
-
-All next day, he was occupied in disposing of his fishing-boat and
-tackle; in packing up, and sending to [[London]] by waggon, such of his
-little domestic possessions as he thought would be useful to him; and in
-parting with the rest, or bestowing them on Mrs. Gummidge. She was with
-him all day. As I had a sorrowful wish to see the old place once more,
-before it was locked up, I engaged to meet them there in the evening.
-But I so arranged it, as that I should meet Ham first.

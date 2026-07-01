@@ -1,5 +1,5 @@
 ---
-title: "[[The Mystery of Marie Roget]] (part 6)"
+title: "The Mystery of Marie Roget (part 6)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-mystery-of-marie-roget-(poe)"
@@ -13,6 +13,36 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_mystery_of_marie_roget/part/part_05">‹ part 05</a><a class="ex-next" href="/testi/poe/atomized/the_mystery_of_marie_roget/part/part_07">part 07 ›</a></div>
 </nav>
 
+
+      stone lay a white petticoat; on the second a silk scarf. A
+
+      parasol, gloves, and a pocket-handkerchief were also here found.
+
+      The handkerchief bore the name “Marie Rogêt.” Fragments of dress
+
+      were discovered on the brambles around. The earth was trampled,
+
+      the bushes were broken, and there was every evidence of a
+
+      struggle. Between the thicket and the [[River|river]], the fences were
+
+      found taken down, and the ground bore evidence of some heavy
+
+      burthen having been dragged along it.
+
+
+
+      A weekly paper, Le Soleil,(*12) had the following comments upon
+
+      this discovery—comments which merely echoed the sentiment of the
+
+      whole Parisian press:
+
+
+
+      “The things had all evidently been there at least three or four
+
+      weeks; they were all mildewed down hard with the action of the
 
       rain and stuck together from mildew. The grass had grown around
 
@@ -169,35 +199,3 @@ tags:
       never occurred before?’ In the investigations at the [[house]] of
 
       Madame L’Espanaye, (*14) the agents of G—— were discouraged and
-
-      confounded by that very unusualness which, to a properly
-
-      regulated intellect, would have afforded the surest omen of
-
-      [[success]]; while this same intellect might have been plunged in
-
-      [[Despair|despair]] at the ordinary character of all that met the eye in the
-
-      case of the perfumery-girl, and yet told of nothing but easy
-
-      triumph to the functionaries of the Prefecture.
-
-
-
-      “In the case of Madame L’Espanaye and her daughter there was,
-
-      even at the beginning of our investigation, no [[Doubt|doubt]] that murder
-
-      had been committed. The idea of [[suicide]] was excluded at once.
-
-      Here, too, we are freed, at the commencement, from all
-
-      supposition of [[Self|self]]-murder. The [[Body|body]] found at the Barrière du
-
-      Roule, was found under such circumstances as to leave us no room
-
-      for embarrassment upon this important point. But it has been
-
-      suggested that the corpse discovered, is not that of the Marie
-
-      Rogêt for the conviction of whose assassin, or assassins, the

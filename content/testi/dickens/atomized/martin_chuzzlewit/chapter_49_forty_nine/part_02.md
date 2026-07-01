@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 49: FORTY NINE (part 2)"
+title: "Martin Chuzzlewit — Chapter 49: FORTY NINE (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -131,6 +131,3 @@ late when one was dropping for one’s tea, without hearing on it again.’
 Mrs Gamp, deriving from this exhibition of repartee some clue to the
 state of Mrs Prig’s feelings, instantly conducted her upstairs; deeming
 that the sight of pickled salmon might work a softening change.
-
-But Betsey Prig expected pickled salmon. It was obvious that she did;
-for her first words, after glancing at the table, were:

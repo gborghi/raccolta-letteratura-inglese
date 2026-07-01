@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 31: THIRTY ONE (part 1)"
+title: "Martin Chuzzlewit — Chapter 31: THIRTY ONE (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -67,7 +67,7 @@ most tempting spot of all, was one red-curtained and soft-cushioned pew,
 wherein the official dignitaries of the place (of whom Mr Pecksniff was
 the head and chief) enshrined themselves on Sundays. Mr Pecksniff’s seat
 was in the corner; a remarkably comfortable corner; where his very large
-[[Prayer]]-Book was at that minute making the most of its quarto [[Self|self]] upon
+[[prayer|Prayer]]-Book was at that minute making the most of its quarto [[Self|self]] upon
 the desk. He determined to go in and rest.
 
 He entered very softly; in part because it was a church; in part because

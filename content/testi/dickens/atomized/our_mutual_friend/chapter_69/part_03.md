@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 10 (part 3)"
+title: "Our Mutual Friend — Chapter 14 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,72 +10,129 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_69/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_70/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_69/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_69/part_04">part 04 ›</a></div>
 </nav>
 
 
-Some two hours afterwards, Mortimer Lightwood saw his consciousness come
-back, and instantly, but very tranquilly, bent over him.
+‘Be careful what insolent liberties you take in that gentleman’s
+presence,’ said the owner of the hand which had done this, ‘or I will
+throw you after it.’
 
-‘Don’t speak, Eugene. Do no more than look at me, and listen to me. You
-follow what I say.’
+Wegg involuntarily clapped his hand to his bare head, and stared at the
+Secretary. For, it was he addressed him with a severe countenance, and
+who had come in quietly by the folding-doors.
 
-He moved his head in assent.
+‘Oh!’ said Wegg, as soon as he recovered his suspended power of speech.
+‘Very good! I gave directions for YOU to be dismissed. And you ain’t
+gone, ain’t you? Oh! We’ll look into this presently. Very good!’
 
-‘I am going on from the point where we broke off. Is the word we should
-soon have come to—is it—Wife?’
+‘No, nor I ain’t gone,’ said another voice.
 
-‘O God bless you, Mortimer!’
+Somebody else had come in quietly by the folding-doors. Turning his
+head, Wegg beheld his persecutor, the ever-wakeful dustman, accoutred
+with fantail hat and velveteen smalls complete. Who, untying his
+tied-up broken head, revealed a head that was whole, and a face that was
+Sloppy’s.
 
-‘Hush! Don’t be agitated. Don’t speak. Hear me, dear Eugene. Your mind
-will be more at peace, lying here, if you make Lizzie your wife. You
-wish me to speak to her, and tell her so, and entreat her to be your
-wife. You ask her to kneel at this bedside and be married to you, that
-your reparation may be complete. Is that so?’
+‘Ha, ha, ha, gentlemen!’ roared Sloppy in a peal of laughter, and with
+immeasureable relish. ‘He never thought as I could [[Sleep|sleep]] standing, and
+often done it when I turned for Mrs Higden! He never thought as I used
+to give Mrs Higden the Police-news in different voices! But I did lead
+him a life all through it, gentlemen, I [[Hope|hope]] I really and truly DID!’
+Here, Mr Sloppy opening his mouth to a quite alarming extent, and
+throwing back his head to peal again, revealed incalculable buttons.
 
-‘Yes. God bless you! Yes.’
+‘Oh!’ said Wegg, slightly discomfited, but not much as yet: ‘one and one
+is two not dismissed, is it? Bof—fin! Just let me ask a question. Who
+set this chap on, in this dress, when the carting began? Who employed
+this fellow?’
 
-‘It shall be done, Eugene. Trust it to me. I shall have to go away
-for some few hours, to give effect to your wishes. You see this is
-unavoidable?’
+‘I say!’ remonstrated Sloppy, jerking his head forward. ‘No fellows, or
+I’ll throw you out of winder!’
 
-‘Dear friend, I said so.’
+Mr Boffin appeased him with a wave of his hand, and said: ‘I employed
+him, Wegg.’
 
-‘True. But I had not the clue then. How do you think I got it?’
+‘Oh! You employed him, Boffin? Very good. [[Mr Venus]], we raise our terms,
+and we can’t do better than proceed to business. Bof—fin! I want the
+room cleared of these two scum.’
 
-Glancing wistfully around, Eugene saw Miss Jenny at the foot of the bed,
-looking at him with her elbows on the bed, and her head upon her hands.
-There was a trace of his whimsical air upon him, as he tried to smile at
-her.
+‘That’s not going to be done, Wegg,’ replied Mr Boffin, sitting
+composedly on the library-table, at one end, while the Secretary sat
+composedly on it at the other.
 
-‘Yes indeed,’ said Lightwood, ‘the discovery was hers. Observe my dear
-Eugene; while I am away you will know that I have discharged my trust
-with Lizzie, by finding her here, in my present place at your bedside,
-to leave you no more. A final word before I go. This is the right course
-of a true man, Eugene. And I solemnly believe, with all my [[Soul|soul]], that if
-[[Providence]] should mercifully restore you to us, you will be blessed with
-a noble wife in the preserver of your life, whom you will dearly [[Love|love]].’
+‘Bof—fin! Not going to be done?’ repeated Wegg. ‘Not at your peril?’
 
-‘Amen. I am sure of that. But I shall not come through it, Mortimer.’
+‘No, Wegg,’ said Mr Boffin, shaking his head good-humouredly. ‘Not at my
+peril, and not on any other terms.’
 
-‘You will not be the less hopeful or less strong, for this, Eugene.’
+Wegg reflected a moment, and then said: ‘[[Mr Venus]], will you be so good
+as hand me over that same dockyment?’
 
-‘No. Touch my face with yours, in case I should not hold out till you
-come back. I [[Love|love]] you, Mortimer. Don’t be uneasy for me while you are
-gone. If my dear brave girl will take me, I feel persuaded that I shall
-live long enough to be married, dear fellow.’
+‘Certainly, sir,’ replied [[Venus]], handing it to him with much politeness.
+‘There it is. Having now, sir, parted with it, I wish to make a small
+observation: not so much because it is anyways necessary, or expresses
+any new doctrine or discovery, as because it is a comfort to my mind.
+[[Silas Wegg]], you are a precious old rascal.’
 
-Miss Jenny gave up altogether on this parting taking place between the
-friends, and sitting with her back towards the bed in the bower made by
-her bright hair, wept heartily, though noiselessly. Mortimer Lightwood
-was soon gone. As the evening light lengthened the heavy reflections of
-the trees in the [[River|river]], another figure came with a soft step into the
-sick room.
+Mr Wegg, who, as if anticipating a compliment, had been beating
+[[Time|time]] with the paper to the other’s politeness until this unexpected
+conclusion came upon him, stopped rather abruptly.
 
-‘Is he conscious?’ asked the little dressmaker, as the figure took its
-station by the pillow. For, Jenny had given place to it immediately, and
-could not see the sufferer’s face, in the dark room, from her new and
-removed position.
+‘[[Silas Wegg]],’ said [[Venus]], ‘know that I took the liberty of taking Mr
+Boffin into our concern as a sleeping partner, at a very early period of
+our firm’s existence.’
 
-‘He is conscious, Jenny,’ murmured Eugene for himself. ‘He knows his
-wife.’
+‘Quite true,’ added Mr Boffin; ‘and I tested [[Venus]] by making him a
+pretended proposal or two; and I found him on the whole a very honest
+man, Wegg.’
+
+‘So Mr Boffin, in his indulgence, is pleased to say,’ [[Venus]] remarked:
+‘though in the beginning of this dirt, my hands were not, for a few
+hours, quite as clean as I could wish. But I [[Hope|hope]] I made early and full
+amends.’
+
+‘[[Venus]], you did,’ said Mr Boffin. ‘Certainly, certainly, certainly.’
+
+[[Venus]] inclined his head with respect and gratitude. ‘Thank you, sir.
+I am much obliged to you, sir, for all. For your good opinion now, for
+your way of receiving and encouraging me when I first put myself in
+communication with you, and for the influence since so kindly brought
+to bear upon a certain lady, both by yourself and by Mr [[John Harmon]].’ To
+whom, when thus making mention of him, he also bowed.
+
+Wegg followed the name with sharp ears, and the action with sharp eyes,
+and a certain cringing air was infusing itself into his bullying air,
+when his attention was re-claimed by [[Venus]].
+
+‘Everything else between you and me, Mr Wegg,’ said [[Venus]], ‘now explains
+itself, and you can now make out, sir, without further words from me.
+But totally to prevent any unpleasantness or mistake that might arise on
+what I consider an important point, to be made quite clear at the close
+of our acquaintance, I beg the leave of Mr Boffin and Mr [[John Harmon]] to
+repeat an observation which I have already had the pleasure of bringing
+under your notice. You are a precious old rascal!’
+
+‘You are a [[Fool|fool]],’ said Wegg, with a snap of his fingers, ‘and I’d have
+got rid of you before now, if I could have struck out any way of doing
+it. I have thought it over, I can tell you. You may go, and welcome. You
+leave the more for me. Because, you know,’ said Wegg, dividing his next
+observation between Mr Boffin and Mr Harmon, ‘I am worth my price, and
+I mean to have it. This getting off is all very [[Well|well]] in its way, and it
+tells with such an anatomical Pump as this one,’ pointing out [[Mr Venus]],
+‘but it won’t do with a Man. I am here to be bought off, and I have
+named my figure. Now, buy me, or leave me.’
+
+‘I’ll leave you, Wegg,’ said Mr Boffin, laughing, ‘as far as I am
+concerned.’
+
+‘Bof—fin!’ replied Wegg, turning upon him with a severe air, ‘I
+understand YOUR new-born boldness. I see the brass underneath YOUR
+silver plating. YOU have got YOUR nose out of joint. Knowing that you’ve
+nothing at stake, you can afford to come the independent game. Why,
+you’re just so much smeary glass to see through, you know! But Mr Harmon
+is in another sitiwation. What Mr Harmon risks, is quite another pair
+of shoes. Now, I’ve heerd something lately about this being Mr
+Harmon—I make out now, some hints that I’ve met on that subject in
+the newspaper—and I drop you, Bof—fin, as beneath my notice. I ask Mr
+Harmon whether he has any idea of the contents of this present paper?’

@@ -14,6 +14,41 @@ tags:
 </nav>
 
 
+                                * * * * *
+
+We left Montreal for [[New York]] again, on the thirtieth of May, crossing to
+La Prairie, on the opposite shore of the St. Lawrence, in a steamboat; we
+then took the railroad to St. John’s, which is on the brink of Lake
+Champlain.  Our last greeting in Canada was from the English officers in
+the pleasant barracks at that place (a class of gentlemen who had made
+every hour of our visit memorable by their hospitality and [[Friendship|friendship]]);
+and with ‘Rule Britannia’ sounding in our ears, soon left it far behind.
+
+But Canada has held, and always will retain, a foremost place in my
+remembrance.  Few Englishmen are prepared to find it what it is.
+Advancing quietly; old differences settling down, and being fast
+forgotten; public feeling and private enterprise alike in a sound and
+wholesome state; nothing of flush or fever in its system, but health and
+vigour throbbing in its steady pulse: it is full of [[Hope|hope]] and promise.  To
+me—who had been accustomed to think of it as something left behind in the
+strides of advancing society, as something neglected and forgotten,
+slumbering and wasting in its [[Sleep|sleep]]—the demand for labour and the rates
+of wages; the busy quays of Montreal; the vessels taking in their
+cargoes, and discharging them; the amount of shipping in the different
+ports; the commerce, roads, and public works, all made _to last_; the
+respectability and character of the public journals; and the amount of
+rational comfort and happiness which honest industry may earn: were very
+great surprises.  The steamboats on the lakes, in their conveniences,
+cleanliness, and safety; in the gentlemanly character and bearing of
+their captains; and in the politeness and perfect comfort of their social
+regulations; are unsurpassed even by the famous Scotch vessels,
+deservedly so much esteemed at [[Home|home]].  The inns are usually bad; because
+the custom of boarding at hotels is not so general here as in the States,
+and the British officers, who form a large portion of the society of
+every town, live chiefly at the regimental messes: but in every other
+respect, the traveller in Canada will find as good provision for his
+comfort as in any place I know.
+
 There is one American boat—the vessel which carried us on Lake Champlain,
 from St. John’s to Whitehall—which I praise very highly, but no more than
 it deserves, when I say that it is superior even to that in which we went
@@ -54,7 +89,7 @@ notwithstanding, and soon after five o’[[Clock|clock]] next morning reached Ne
 York.
 
 Tarrying here, only that day and [[Night|night]], to recruit after our late
-fatigues, we started off once more upon our last [[Journey|journey]] in [[America]].  We
+fatigues, we started off once more upon our last [[Journey|journey]] in [[america|America]].  We
 had yet five days to spare before embarking for England, and I had a
 great [[Desire|desire]] to see ‘the Shaker Village,’ which is peopled by a religious
 sect from whom it takes its name.
@@ -80,34 +115,3 @@ Hideously ugly old women and very buxom young ones, pigs, [[dogs]], men,
 children, babies, pots, kettles, dung-hills, vile refuse, rank straw, and
 standing [[Water|water]], all wallowing together in an inseparable heap, composed
 the furniture of every dark and dirty hut.
-
-Between nine and ten o’[[Clock|clock]] at [[Night|night]], we arrived at Lebanon which is
-renowned for its warm baths, and for a great hotel, [[Well|well]] adapted, I have
-no [[Doubt|doubt]], to the gregarious taste of those seekers after health or
-pleasure who repair here, but inexpressibly comfortless to me.  We were
-shown into an immense apartment, lighted by two dim candles, called the
-drawing-room: from which there was a descent by a flight of steps, to
-another vast [[Desert|desert]], called the dining-room: our bed-chambers were among
-certain long rows of little white-washed cells, which opened from either
-side of a dreary passage; and were so like rooms in a [[Prison|prison]] that I half
-expected to be locked up when I went to bed, and listened involuntarily
-for the turning of the key on the outside.  There need be baths somewhere
-in the neighbourhood, for the other washing arrangements were on as
-limited a scale as I ever saw, even in [[America]]: indeed, these bedrooms
-were so very bare of even such common luxuries as chairs, that I should
-say they were not provided with enough of anything, but that I bethink
-myself of our having been most bountifully bitten all [[Night|night]].
-
-The [[house]] is very pleasantly situated, however, and we had a good
-breakfast.  That done, we went to visit our place of destination, which
-was some two miles off, and the way to which was soon indicated by a
-finger-post, whereon was painted, ‘To the Shaker Village.’
-
-As we rode along, we passed a party of Shakers, who were at work upon the
-[[Road|road]]; who wore the broadest of all broad-brimmed hats; and were in all
-visible respects such very wooden men, that I felt about as much sympathy
-for them, and as much interest in them, as if they had been so many
-figure-heads of ships.  Presently we came to the beginning of the
-village, and alighting at the door of a [[house]] where the Shaker
-manufactures are sold, and which is the headquarters of the elders,
-requested permission to see the Shaker worship.

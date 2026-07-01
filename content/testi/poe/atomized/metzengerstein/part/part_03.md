@@ -1,5 +1,5 @@
 ---
-title: "[[Metzengerstein]] (part 3)"
+title: "Metzengerstein (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/metzengerstein-(poe)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/metzengerstein/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/metzengerstein/part/part_04">part 04 ›</a></div>
 </nav>
 
+
+      The young Frederick, during the conference, seemed agitated by a
+
+      variety of emotions. He soon, however, recovered his composure,
+
+      and an expression of determined malignancy settled upon his
+
+      countenance, as he gave peremptory orders that a certain chamber
+
+      should be immediately locked up, and the key placed in his own
+
+      possession.
+
+
+
+      “Have you heard of the unhappy [[Death|death]] of the old hunter
 
       Berlifitzing?” said one of his vassals to the Baron, as, after
 
@@ -205,21 +221,3 @@ tags:
       actually placed his hand upon the [[Body|body]] of the beast. Instances of
 
       peculiar intelligence in the demeanor of a noble and
-
-      high-spirited [[Horse|horse]] are not to be supposed capable of exciting
-
-      unreasonable attention—especially among men who, daily trained to
-
-      the labors of the chase, might appear [[Well|well]] acquainted with the
-
-      sagacity of a [[Horse|horse]]—but there were certain circumstances which
-
-      intruded themselves per force upon the most skeptical and
-
-      phlegmatic; and it is said there were times when the animal
-
-      caused the gaping crowd who stood around to recoil in horror from
-
-      the deep and impressive meaning of his terrible stamp—times when
-
-      the young [[Metzengerstein]] turned pale and shrunk away from the

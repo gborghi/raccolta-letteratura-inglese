@@ -1,5 +1,5 @@
 ---
-title: "[[Never Bet the Devil your Head]] (part 3)"
+title: "Never Bet the Devil your Head (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/never-bet-the-devil-your-head-(poe)"
@@ -52,7 +52,7 @@ tags:
       think it profound myself; but I have noticed that the effect of our
       speeches is not always proportionate with their importance in our own
       eyes; and if I had shot Mr. D. through and through with a Paixhan bomb, or
-      knocked him in the head with the “Poets and Poetry of [[America]],” he could
+      knocked him in the head with the “Poets and Poetry of [[america|America]],” he could
       hardly have been more discomfited than when I addressed him with those
       simple words: “Dammit, what are you about?—don’t you hear?—the
       gentleman says ‘ahem!’”

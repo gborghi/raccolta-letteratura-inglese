@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]] — Concluding Remarks on the Importance of Orthodoxy (part 3)"
+title: "heret12 — Concluding Remarks on the Importance of Orthodoxy (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/heret12-(chesterton)"

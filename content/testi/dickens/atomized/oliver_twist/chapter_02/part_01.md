@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 2 (part 1)"
+title: "Oliver Twist — Chapter 2 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -112,9 +112,3 @@ dear children! Walk in sir; walk in, pray, Mr. Bumble, do, sir.”
 Although this invitation was accompanied with a curtsey that might have
 softened the heart of a churchwarden, it by no means mollified the
 beadle.
-
-“Do you think this respectful or proper conduct, Mrs. Mann,” inquired
-Mr. Bumble, grasping his cane, “to keep the parish officers a waiting
-at your [[Garden|garden]]-gate, when they come here upon porochial business with
-the porochial orphans? Are you aweer, Mrs. Mann, that you are, as I may
-say, a porochial delegate, and a stipendiary?”

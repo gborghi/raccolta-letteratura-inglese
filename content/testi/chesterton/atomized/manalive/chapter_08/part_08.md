@@ -1,5 +1,5 @@
 ---
-title: "[[manalive]] — Chapter 2 (part 8)"
+title: "manalive — Chapter 2 (part 8)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/manalive-(chesterton)"
@@ -16,7 +16,7 @@ tags:
 
 "Framed in the open doorway stood, with an air of great serenity,
 a rather tall young woman, definitely though indefinably artistic--
-her dress the colour of [[Spring|spring]] and her hair of [[Autumn|autumn]] [[Leaves|leaves]],
+her dress the colour of [[spring]] and her hair of [[Autumn|autumn]] [[Leaves|leaves]],
 with a face which, though still comparatively young,
 conveyed experience as [[Well|well]] as intelligence.  All she said was,
 `I didn't hear you come in.'
@@ -125,5 +125,5 @@ happily married, that he not only did not care for any woman
 but his wife, but did not seem to care for any place but his home;
 but perhaps one could hardly say that he had settled down.
 `I am a very domestic fellow,' he explained with gravity,
-`and have often come in through a broken [[Window|window]] rather than be
+`and have often come in through a broken window rather than be
 late for tea.'

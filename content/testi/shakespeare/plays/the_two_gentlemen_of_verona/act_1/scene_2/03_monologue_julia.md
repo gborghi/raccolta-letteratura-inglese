@@ -1,5 +1,5 @@
 ---
-title: "The Two Gentlemen of [[Verona]] — Act I, Scene 2 — monologue ([[Julia|JULIA]]) [3]"
+title: "The Two Gentlemen of Verona — Act I, Scene 2 — monologue (JULIA) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-two-gentlemen-of-verona-(shakespeare)"

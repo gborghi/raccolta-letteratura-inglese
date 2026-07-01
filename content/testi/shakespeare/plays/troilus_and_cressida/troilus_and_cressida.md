@@ -1,5 +1,5 @@
 ---
-title: "[[Troilus|TROILUS]] AND [[Cressida|CRESSIDA]]"
+title: "TROILUS AND CRESSIDA"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/troilus-and-cressida-(shakespeare)"

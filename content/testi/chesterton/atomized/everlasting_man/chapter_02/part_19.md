@@ -71,7 +71,7 @@ other ancient lights, or lights that may be conjectured to be
 very ancient, in very remote parts of that vast wilderness of [[Night|night]].
 Far away to the east there is a high civilisation of vast antiquity
 in China; there are the remains of civilisations in Mexico and
-South [[america|America]] and other places, some of them apparently so high
+South [[America]] and other places, some of them apparently so high
 in civilisation as to have reached the most refined forms of
 devil-worship. But the difference lies in the element old tradition;
 the tradition of these lost cultures has been broken off,
@@ -107,62 +107,3 @@ of a continuous historical inheritance; as from ancient [[Egypt]] to
 modern Europe.  But when we ask what was that world that we inherit,
 and why those particular people and places seem to belong to it,
 we are led to the central fact of civilised [[history]].
-
-That centre was the Mediterranean; which was not so much a piece of
-[[Water|water]] as a world.  But it was a world with something of the character
-of such a [[Water|water]]; for it became more and more a place of unification
-in which the streams of strange and very diverse cultures met.
-The Nile and the Tiber alike flow into the Mediterranean;
-so did the Egyptian and the Etrurian alike contribute to a
-Mediterranean civilisation.  The glamour of the great sea spread
-indeed very far in land and the [[unity]] was felt among the Arabs
-[[Alone|alone]] in the deserts and the Gauls beyond the northern hills.
-But the gradual building up of a common culture running round all
-the coasts of this inner sea is the main business of antiquity.
-As will be seen, it was sometimes a bad business as [[Well|well]] as a
-good business.  In that orbis terrarum or circle of lands there
-were the extremes of evil and of piety, there were contrasted races
-and still more contrasted religions.  It was the scene of an endless
-struggle between Asia and Europe from the [[Night|night]] of the Persian
-ships at Salamis to the flight of the Turkish ships at [[lepanto|Lepanto]].
-It was the scene, as will be more especially suggested later,
-of a supreme spiritual struggle between the two types of paganism,
-confronting each other in the Latin and the Phoenician cities;
-in the Roman forum and the Punic mart.  It was the world of war and peace,
-the world of good and evil, the world of all that matters most,
-with all respect to the Aztecs and the Mongols of the Far East, they did
-not matter as the Mediterranean tradition mattered and still matters.
-Between it and the Far East there were, of course, interesting cults
-and conquests of various kinds, more or less in touch with it,
-and in proportion as they were so intelligible also to us.
-The Persians came riding in to make an end of Babylon;
-and we are told in a Greek story how these barbarians learned
-to draw the bow and tell the [[Truth|truth]].  Alexander the great Greek
-marched with his Macedonians into the sunrise and brought back
-strange [[Birds|birds]] coloured like the sunrise clouds and strange [[Flowers|flowers]]
-and jewels from the gardens and treasuries of nameless kings.
-[[Islam]] went eastward into that world and made it partly imaginable
-to us; precisely because [[Islam]] itself was born in that circle
-of lands that fringed our own ancient and ancestral sea.
-In the Middle Ages the empire of the Moguls increased its
-majesty without losing its mystery; the Tartars conquered China
-and the Chinese apparently took very little notice of them.
-All these things are interesting in themselves; but it is impossible
-to shift the centre of gravity to the inland spaces of Asia from
-the inland sea of Europe.  When all is said, if there were nothing
-in the world but what was said and done and written and built
-in the lands lying round the Mediterranean, it would still be in all
-the most vital and valuable things the world in which we live.
-When that southern culture spread to the north-west it produced
-many very wonderful things; of which doubtless we ourselves are the
-most wonderful.  When it spread thence to colonies and new countries,
-it was still the same culture so long as it was culture at all.
-But round that little sea like a lake were the things themselves,
-apart from all extensions and echoes and commentaries on the things,
-the Republic and the Church; the [[Bible]] and the heroic epics;
-[[Islam]] and Israel and the memories of the lost empires, Aristotle and
-the measure of all things.  It is because the first light upon
-this world is really light, the daylight in which we are still
-walking to-day, and not merely the doubtful visitation of strange [[Stars|stars]],
-that I have begun here with noting where that light first falls
-on the towered cities of the eastern Mediterranean.

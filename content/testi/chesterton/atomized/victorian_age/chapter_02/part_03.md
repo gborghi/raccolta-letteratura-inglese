@@ -14,6 +14,20 @@ tags:
 </nav>
 
 
+coarse word is the word that condemns an evil and the refined word the
+
+word that excuses it. A common evasion, for instance, substitutes for
+
+the word that brands [[Self|self]]-sale as the essential sin, a word which weakly
+
+suggests that it is no more wicked than walking down the street. The
+
+great peril of such soft mystifications is that extreme evils (they
+
+that are abnormal even by the standard of evil) have a very long start.
+
+Where ordinary wrong is made unintelligible, extraordinary wrong can
+
 count on remaining more unintelligible still; especially among those who
 
 live in such an atmosphere of long words. It is a cruel comment on the
@@ -27,8 +41,6 @@ Greek Spirit," "The Platonic Ideal" and so on--which any navvy [[mending]]
 the [[Road|road]] outside would have stamped with a word as vile and as vulgar as
 
 it deserved.
-
-
 
 This reticence, right or wrong, may have been connected with the
 
@@ -66,8 +78,6 @@ the attempt to locate it as an idea. But every one will understand me if
 
 I call it George Eliot.
 
-
-
 I begin with this great woman of letters for both the two reasons
 
 already mentioned. She represents the rationalism of the old Victorian
@@ -98,8 +108,6 @@ and subtlety of woman had certainly sunk deep into English letters when
 
 George Eliot began to write.
 
-
-
 Her originals and even her contemporaries had shown the feminine power
 
 in fiction as [[Well|well]] or better than she. Charlotte Brontë, understood
@@ -123,8 +131,6 @@ She knew what she knew, like a sound dogmatist: she did not know what
 she did not know--like a sound agnostic. But she belongs to a vanished
 
 world before the great progressive age of which I write.
-
-
 
 One of the characteristics of the central Victorian spirit was a
 
@@ -177,23 +183,3 @@ on earth to do with being _interesting_--then I think we would rather
 have a few more Marners than that rich maturity that gave us the
 
 analysed [[Dust|dust]]-heaps of _Daniel Deronda_.
-
-
-
-In her best novels there is real [[Humour|humour]], of a cool sparkling sort; there
-
-is a strong sense of substantial character that has not yet degenerated
-
-into psychology; there is a great deal of wisdom, chiefly about women;
-
-indeed there is almost every element of literature except a certain
-
-indescribable thing called _glamour_; which was the whole stock-in-trade
-
-of the Brontës, which we feel in Dickens when Quilp clambers amid rotten
-
-wood by the desolate [[River|river]]; and even in Thackeray when Esmond with his
-
-[[Melancholy|melancholy]] eyes wanders like some swarthy crow about the dismal avenues
-
-of Castlewood. Of this quality (which some have called, but hastily, the

@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 13 (part 4)"
+title: "Bleak House — Chapter 13 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -145,12 +145,3 @@ holding me tighter and laying down her face again upon my breast.
 “No, not even that!” said Ada, shaking her head.
 
 “Why, you never mean to say—” I was beginning in joke.
-
-But Ada, looking up and smiling through her [[Tears|tears]], cried, “Yes, I do!
-You know, you know I do!” And then sobbed out, “With all my heart I
-do! With all my whole heart, Esther!”
-
-I told her, laughing, why I had known that, too, just as [[Well|well]] as I
-had known the other! And we sat before the [[Fire|fire]], and I had all the
-talking to myself for a little while (though there was not much of
-it); and Ada was soon quiet and happy.

@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]]"
+title: "The Tenant of Wildfell Hall"
 author: "Bronte"
 unitType: work
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -277,7 +277,7 @@ there was a moment when the power of “making out” could turn [[Loneliness|lo
 
 and disappointment into riches and content. For a [[Time|time]] at least, and
 
-before a hard and degrading experience had broken the [[spring]] of her
+before a hard and degrading experience had broken the [[Spring|spring]] of her
 
 youth, and replaced the disinterested and spontaneous pleasure that is
 
@@ -1467,7 +1467,7 @@ ringlets, a style of coiffure rather unusual in those days, but always
 
 graceful and becoming; her complexion was clear and pale; her eyes I
 
-could not see, for, being bent upon her [[Prayer|prayer]]-book, they were
+could not see, for, being bent upon her [[prayer]]-book, they were
 
 concealed by their drooping lids and long black lashes, but the brows
 
@@ -1515,7 +1515,7 @@ mind to the service, I glanced round the church to see if any one had
 
 been observing me;—but no,—all, who were not attending to their
 
-[[Prayer|prayer]]-books, were attending to the strange lady,—my good mother and
+[[prayer]]-books, were attending to the strange lady,—my good mother and
 
 sister among the rest, and Mrs. Wilson and her daughter; and even Eliza
 
@@ -1523,7 +1523,7 @@ Millward was slily glancing from the corners of her eyes towards the
 
 object of general attraction. Then she glanced at me, simpered a
 
-little, and blushed, modestly looked at her [[Prayer|prayer]]-book, and
+little, and blushed, modestly looked at her [[prayer]]-book, and
 
 endeavoured to compose her features.
 
@@ -2253,7 +2253,7 @@ must beg you to make my excuses to the Millwards and Mrs. Wilson, when
 
 you see them, as I [[Fear|fear]] I cannot do myself the pleasure of calling upon
 
-them till my little [[arthur|Arthur]] is able to accompany me.”
+them till my little [[Arthur]] is able to accompany me.”
 
 
 
@@ -2355,7 +2355,7 @@ In a little while, however, I was sensible that some one was
 
 approaching me, with a light, but slow and hesitating tread. It was
 
-little [[arthur|Arthur]], irresistibly attracted by my dog Sancho, that was lying
+little [[Arthur]], irresistibly attracted by my dog Sancho, that was lying
 
 at my feet. On looking up I beheld him standing about two yards off,
 
@@ -2383,7 +2383,7 @@ she was uneasy at the [[Child|child]]’s position.
 
 
 
-“[[arthur|Arthur]],” said she, at length, “come here. You are troublesome to Mr.
+“[[Arthur]],” said she, at length, “come here. You are troublesome to Mr.
 
 Markham: he wishes to read.”
 
@@ -2431,7 +2431,7 @@ to make acquaintance.”
 
 “I do know something of him—but you must excuse me this [[Time|time]]; for the
 
-evenings, now, are dark and damp, and [[arthur|Arthur]], I [[Fear|fear]], is too delicate
+evenings, now, are dark and damp, and [[Arthur]], I [[Fear|fear]], is too delicate
 
 to risk exposure to their influence with impunity. We must defer the
 
@@ -2449,7 +2449,7 @@ sideboard, and the refreshment was duly presented to the guests. They
 
 both partook of the cake, but obstinately refused the wine, in spite of
 
-their hostess’s hospitable attempts to force it upon them. [[arthur|Arthur]],
+their hostess’s hospitable attempts to force it upon them. [[Arthur]],
 
 especially shrank from the ruby nectar as if in terror and disgust, and
 
@@ -2457,7 +2457,7 @@ was ready to cry when urged to take it.
 
 
 
-“Never mind, [[arthur|Arthur]],” said his mamma; “Mrs. Markham thinks it will do
+“Never mind, [[Arthur]],” said his mamma; “Mrs. Markham thinks it will do
 
 you good, as you were tired with your walk; but she will not oblige you
 
@@ -3715,7 +3715,7 @@ anything to change the subject.
 
 
 
-“Mamma sends all her pictures to [[London]],” said [[arthur|Arthur]]; “and somebody
+“Mamma sends all her pictures to [[London]],” said [[Arthur]]; “and somebody
 
 sells them for her there, and sends us the money.”
 
@@ -3737,7 +3737,7 @@ beclouded sky above.
 
 
 
-“You see there is a sad dearth of subjects,” observed the fair [[Artist|artist]].
+“You see there is a sad dearth of subjects,” observed the fair [[artist]].
 
 “I took the old hall once on a moonlight [[Night|night]], and I suppose I must
 
@@ -3777,7 +3777,7 @@ and the left, when she checked me with,—
 
 directions before I require them. I shall not think about going till
 
-next [[spring]]; and then, perhaps, I may trouble you. At present we have
+next [[Spring|spring]]; and then, perhaps, I may trouble you. At present we have
 
 the [[Winter|winter]] before us, and—”
 
@@ -3801,7 +3801,7 @@ large holly-bush that stood between the [[Window|window]] and the porch.
 
 
 
-“It’s mamma’s friend,” said [[arthur|Arthur]].
+“It’s mamma’s friend,” said [[Arthur]].
 
 
 
@@ -3827,7 +3827,7 @@ through a shock of light brown curls, shaken over the forehead as it
 
 bent above its treasure, bore sufficient resemblance to those of the
 
-young gentleman before me to proclaim it a portrait of [[arthur|Arthur]] Graham in
+young gentleman before me to proclaim it a portrait of [[Arthur]] Graham in
 
 his early infancy.
 
@@ -3873,7 +3873,7 @@ he looked no [[Fool|fool]].
 
 I had not had the portrait in my hands two minutes before the fair
 
-[[Artist|artist]] returned.
+[[artist]] returned.
 
 
 
@@ -3885,7 +3885,7 @@ abrupt departure: “I told him to wait.”
 
 “I [[Fear|fear]] it will be considered an act of impertinence,” I said “to
 
-presume to look at a picture that the [[Artist|artist]] has turned to the wall;
+presume to look at a picture that the [[artist]] has turned to the wall;
 
 but may I ask—”
 
@@ -4019,7 +4019,7 @@ with a smile.
 
 
 
-As for [[arthur|Arthur]], he would shout his welcome from afar, and run to meet me
+As for [[Arthur]], he would shout his welcome from afar, and run to meet me
 
 fifty yards from his mother’s side. If I happened to be on horseback he
 
@@ -4141,7 +4141,7 @@ the [[rolling]] of the meadow-land, and the repairing of a hedge in the
 
 valley, I saw Mrs. Graham down by the brook, with a [[Sketch|sketch]]-book in her
 
-hand, absorbed in the exercise of her favourite art, while [[arthur|Arthur]] was
+hand, absorbed in the exercise of her favourite art, while [[Arthur]] was
 
 putting on the [[Time|time]] with constructing dams and breakwaters in the
 
@@ -4187,7 +4187,7 @@ superintendence.
 
 
 
-“Then,” said I, “I’ll talk to [[arthur|Arthur]] till you’ve done.”
+“Then,” said I, “I’ll talk to [[Arthur]] till you’ve done.”
 
 
 
@@ -4207,7 +4207,7 @@ the strong black mare was pulling the roller.
 
 
 
-“No, no, [[arthur|Arthur]]; it’s too far,” objected his mother.
+“No, no, [[Arthur]]; it’s too far,” objected his mother.
 
 
 
@@ -4279,7 +4279,7 @@ moment of silent contemplation.
 
 
 
-“I do, sometimes,” replied she. “On [[Winter|winter]] evenings, when [[arthur|Arthur]] is in
+“I do, sometimes,” replied she. “On [[Winter|winter]] evenings, when [[Arthur]] is in
 
 bed, and I am sitting there [[Alone|alone]], hearing the bleak [[Wind|wind]] moaning round
 
@@ -4727,7 +4727,7 @@ was something indescribably chilly in her quiet, calm civility; but I
 
 did not talk much to her. Seating myself near the [[Window|window]], a little back
 
-from the circle, I called [[arthur|Arthur]] to me, and he and I and Sancho amused
+from the circle, I called [[Arthur]] to me, and he and I and Sancho amused
 
 ourselves very pleasantly together, while the two young ladies baited
 
@@ -4915,7 +4915,7 @@ proceed.
 
 —— Bay you are thinking about, I suppose, Mrs. Graham? It is a very
 
-long walk, too far for you, and out of the question for [[arthur|Arthur]]. But we
+long walk, too far for you, and out of the question for [[Arthur]]. But we
 
 were thinking about making a picnic to see it some fine day; and, if
 
@@ -4943,7 +4943,7 @@ miles distant.
 
 will drive and walk by turns; for we shall have our pony-carriage,
 
-which will be plenty large enough to contain little [[arthur|Arthur]] and three
+which will be plenty large enough to contain little [[Arthur]] and three
 
 ladies, together with your sketching apparatus, and our provisions.”
 
@@ -4995,7 +4995,7 @@ displeasing to me, though I could scarcely tell you why.
 
 It was about midday when we reached the place of our destination. Mrs.
 
-Graham walked all the way to the cliffs; and little [[arthur|Arthur]] walked the
+Graham walked all the way to the cliffs; and little [[Arthur]] walked the
 
 greater part of it too; for he was now much more hardy and active than
 
@@ -5043,7 +5043,7 @@ The former, it is true, was most provokingly unsociable at
 
 first—seemingly bent upon talking to no one but Mary Millward and
 
-[[arthur|Arthur]]. She and Mary journeyed along together, generally with the [[Child|child]]
+[[Arthur]]. She and Mary journeyed along together, generally with the [[Child|child]]
 
 between them;—but where the [[Road|road]] permitted, I always walked on the
 
@@ -5197,7 +5197,7 @@ wearisome to my [[Soul|soul]], and I grew weary of amusing her: I felt myself
 
 drawn by an irresistible attraction to that distant point where the
 
-fair [[Artist|artist]] sat and plied her solitary task—and not long did I attempt
+fair [[artist]] sat and plied her solitary task—and not long did I attempt
 
 to resist it: while my little neighbour was exchanging a few words with
 
@@ -5299,7 +5299,7 @@ seeing again for I know not how long.”
 
 
 
-“What was [[arthur|Arthur]] doing when you came away?”
+“What was [[Arthur]] doing when you came away?”
 
 
 
@@ -5317,7 +5317,7 @@ carelessly added, “if she is good for nothing else.”
 
 “Miss Millward has many estimable qualities, which such as you cannot
 
-be expected to perceive or appreciate. Will you tell [[arthur|Arthur]] that I
+be expected to perceive or appreciate. Will you tell [[Arthur]] that I
 
 shall come in a few minutes?”
 
@@ -5387,7 +5387,7 @@ On returning to the scene of our repast we found all the company had
 
 deserted it, with the exception of three—Mary Millward, [[Richard]] Wilson,
 
-and [[arthur|Arthur]] Graham. The younger gentleman lay fast asleep with his head
+and [[Arthur]] Graham. The younger gentleman lay fast asleep with his head
 
 pillowed on the lady’s lap; the other was seated beside her with a
 
@@ -5659,7 +5659,7 @@ in return: I met her in her walks as often as I could; I came to her
 
 [[house]] as often as I dared. My first pretext for invading the sanctum
 
-was to bring [[arthur|Arthur]] a little waddling puppy of which Sancho was the
+was to bring [[Arthur]] a little waddling puppy of which Sancho was the
 
 father, and which delighted the [[Child|child]] beyond expression, and,
 
@@ -5695,7 +5695,7 @@ received. But an apology for invading the hermitage was still
 
 necessary; so I had furnished myself with a blue morocco collar for
 
-[[arthur|Arthur]]’s little dog; and that being given and received, with much more
+[[Arthur]]’s little dog; and that being given and received, with much more
 
 joy and gratitude, on the part of the receiver, than the worth of the
 
@@ -5721,7 +5721,7 @@ transferred as if by [[Magic|magic]] to the canvas; but I expressed my
 
 approbation in guarded terms, and few words, for [[Fear|fear]] of displeasing
 
-her. She, however, attentively watched my looks, and her [[Artist|artist]]’s [[Pride|pride]]
+her. She, however, attentively watched my looks, and her [[artist]]’s [[Pride|pride]]
 
 was gratified, no [[Doubt|doubt]], to read my heartfelt admiration in my eyes.
 
@@ -6347,7 +6347,7 @@ patience to sit till the meal was over. I remember, however, that I
 
 swallowed with difficulty the remainder of the tea that was in my cup,
 
-and ate nothing; and that the first thing I did was to stare at [[arthur|Arthur]]
+and ate nothing; and that the first thing I did was to stare at [[Arthur]]
 
 Graham, who sat beside his mother on the opposite side of the table,
 
@@ -6363,9 +6363,9 @@ Both, it is true, had more delicate features and smaller bones than
 
 commonly fall to the lot of individuals of the rougher sex, and
 
-Lawrence’s complexion was pale and clear, and [[arthur|Arthur]]’s delicately fair;
+Lawrence’s complexion was pale and clear, and [[Arthur]]’s delicately fair;
 
-but [[arthur|Arthur]]’s tiny, somewhat snubby nose could never become so long and
+but [[Arthur]]’s tiny, somewhat snubby nose could never become so long and
 
 straight as Mr. Lawrence’s; and the outline of his face, though not
 
@@ -6473,7 +6473,7 @@ more than one), my vexation instantly subsided, and far other feelings
 
 agitated my still unquiet [[Soul|soul]]; for there was Mrs. Graham, slowly
 
-moving down the walk with [[arthur|Arthur]] by her side, and no one else. Why were
+moving down the walk with [[Arthur]] by her side, and no one else. Why were
 
 they [[Alone|alone]]? Had the [[Poison|poison]] of detracting tongues already spread through
 
@@ -6527,7 +6527,7 @@ absent myself in this uncourteous fashion from my guests.”
 
 “I was rather, but it’s over now. Do sit here a little and rest, and
 
-tell me how you like this arbour,” said I, and, lifting [[arthur|Arthur]] by the
+tell me how you like this arbour,” said I, and, lifting [[Arthur]] by the
 
 shoulders, I planted him in the middle of the seat by way of securing
 
@@ -7003,7 +7003,7 @@ disturbed me.
 
 My wish, however, was not gratified. Mrs. Graham herself was not to be
 
-seen; but there was [[arthur|Arthur]] playing with his frolicsome little dog in
+seen; but there was [[Arthur]] playing with his frolicsome little dog in
 
 the [[Garden|garden]]. I looked over the gate and called him to me. He wanted me
 
@@ -7015,7 +7015,7 @@ to come in; but I told him I could not without his mother’s leave.
 
 
 
-“No, no, [[arthur|Arthur]], you mustn’t do that; but if she’s not engaged, just
+“No, no, [[Arthur]], you mustn’t do that; but if she’s not engaged, just
 
 ask her to come here a minute. Tell her I want to speak to her.”
 
@@ -7027,7 +7027,7 @@ lovely she looked with her dark ringlets streaming in the light [[Summer|summer]
 
 breeze, her fair cheek slightly flushed, and her countenance radiant
 
-with smiles. Dear [[arthur|Arthur]]! what did I not owe to you for this and every
+with smiles. Dear [[Arthur]]! what did I not owe to you for this and every
 
 other happy meeting? Through him I was at once delivered from all
 
@@ -7059,7 +7059,7 @@ importance.”
 
 
 
-“Tell him to come in, mamma,” said [[arthur|Arthur]].
+“Tell him to come in, mamma,” said [[Arthur]].
 
 
 
@@ -7429,7 +7429,7 @@ then, how suddenly she started up and left the room when that person
 
 came—whom she took good care not to let us catch a glimpse of, and who
 
-[[arthur|Arthur]], with such an air of mystery, told us was his mamma’s friend?”
+[[Arthur]], with such an air of mystery, told us was his mamma’s friend?”
 
 
 
@@ -7859,7 +7859,7 @@ you especially require one in this cold [[house]] and dreary room.”
 
 for you: but it is not worth while now—you won’t stay many minutes, you
 
-say, and [[arthur|Arthur]] is gone to bed.”
+say, and [[Arthur]] is gone to bed.”
 
 
 
@@ -7959,7 +7959,7 @@ own sad thoughts, and I reflecting how delightful it would be to be
 
 seated thus beside her with no other presence to restrain our
 
-intercourse—not even that of [[arthur|Arthur]], our mutual friend, without whom we
+intercourse—not even that of [[Arthur]], our mutual friend, without whom we
 
 had never met before—if only I could venture to speak my mind, and
 
@@ -8931,7 +8931,7 @@ day; for, as I approached, I beheld, at no great distance, Mrs. Graham
 
 and her son coming down in the opposite direction. They saw me; and
 
-[[arthur|Arthur]] already was running to meet me; but I immediately turned back
+[[Arthur]] already was running to meet me; but I immediately turned back
 
 and walked steadily homeward; for I had fully determined never to
 
@@ -9559,7 +9559,7 @@ aroused me with the startling words,—“Mr. Markham, mamma wants you.”
 
 
 
-“Wants _me_, [[arthur|Arthur]]?”
+“Wants _me_, [[Arthur]]?”
 
 
 
@@ -9605,7 +9605,7 @@ I accompanied her through the gap.
 
 
 
-“[[arthur|Arthur]], darling, run and gather those bluebells,” said she, pointing
+“[[Arthur]], darling, run and gather those bluebells,” said she, pointing
 
 to some that were gleaming at some distance under the hedge along which
 
@@ -9693,7 +9693,7 @@ for after lingering awhile to see if she would come back or call, I
 
 ventured one more glance, and saw her a good way off, moving rapidly up
 
-the field, with little [[arthur|Arthur]] running by her side and apparently
+the field, with little [[Arthur]] running by her side and apparently
 
 talking as he went; but she kept her face averted from him, as if to
 
@@ -11879,7 +11879,7 @@ August 25th.—I am now quite settled down to my usual routine of steady
 
 occupations and quiet amusements—tolerably contented and cheerful, but
 
-still looking forward to [[spring]] with the [[Hope|hope]] of returning to town, not
+still looking forward to [[Spring|spring]] with the [[Hope|hope]] of returning to town, not
 
 for its gaieties and dissipations, but for the chance of meeting Mr.
 
@@ -12431,7 +12431,7 @@ By the bright azure of the sky, and by the warm and brilliant lights
 
 and deep long shadows, I had endeavoured to convey the idea of a sunny
 
-morning. I had ventured to give more of the bright verdure of [[spring]] or
+morning. I had ventured to give more of the bright verdure of [[Spring|spring]] or
 
 early [[Summer|summer]] to the grass and foliage than is commonly attempted in
 
@@ -12481,7 +12481,7 @@ set himself before my picture.
 
 “Very pretty, i’[[Faith|faith]],” said he, after attentively regarding it for a
 
-few seconds; “and a very fitting study for a young lady. [[spring|Spring]] just
+few seconds; “and a very fitting study for a young lady. [[Spring]] just
 
 opening into [[Summer|summer]]—morning just approaching [[Noon|noon]]—girlhood just
 
@@ -12499,7 +12499,7 @@ blue-eyed and plump, and fair and rosy.”
 
 “Upon my word—a very Hebe! I should fall in [[Love|love]] with her if I hadn’t
 
-the [[Artist|artist]] before me. Sweet [[Innocent|innocent]]! she’s thinking there will come a
+the [[artist]] before me. Sweet [[Innocent|innocent]]! she’s thinking there will come a
 
 [[Time|time]] when she will be wooed and won like that pretty hen-dove by as
 
@@ -13477,7 +13477,7 @@ for you.”
 
 “Oh, I forgot, you are a saint, too. I crave your pardon, dearest—but
 
-don’t call me Mr. Huntingdon; my name is [[arthur|Arthur]].”
+don’t call me Mr. Huntingdon; my name is [[Arthur]].”
 
 
 
@@ -13809,7 +13809,7 @@ ingratiate himself with my aunt I cannot tell, but, if so, he certainly
 
 should have behaved better. I must confess, I did not like his conduct
 
-during service at all. Holding his [[Prayer|prayer]]-book upside down, or open at
+during service at all. Holding his [[prayer]]-book upside down, or open at
 
 any place but the right, he did nothing but stare about him, unless he
 
@@ -14349,7 +14349,7 @@ to tease me, and my aunt has ceased to lecture me, and I have ceased to
 
 be jealous of Annabella—and even to dislike her—and now that Mr.
 
-Huntingdon is become _my_ [[arthur|Arthur]], and I may enjoy his society without
+Huntingdon is become _my_ [[Arthur]], and I may enjoy his society without
 
 restraint. What _shall_ I do without him, I repeat?
 
@@ -14375,7 +14375,7 @@ try to persuade myself that the sweetness overpowers it; I may call it
 
 a pleasant aromatic flavour; but say what I will, it is still there,
 
-and I cannot but taste it. I cannot shut my eyes to [[arthur|Arthur]]’s faults;
+and I cannot but taste it. I cannot shut my eyes to [[Arthur]]’s faults;
 
 and the more I [[Love|love]] him the more they trouble me. His very heart, that
 
@@ -15367,7 +15367,7 @@ whip, and cantered on to rejoin our companions; for we had been walking
 
 our horses all this [[Time|time]], and were consequently a long way behind.
 
-[[arthur|Arthur]] was soon at my side again; but not disposed to talk to him, I
+[[Arthur]] was soon at my side again; but not disposed to talk to him, I
 
 broke into a gallop. He did the same; and we did not slacken our pace
 
@@ -15397,7 +15397,7 @@ to me that Annabella confessed her lack of esteem for her [[Lover|lover]].”
 
 
 
-“No, [[arthur|Arthur]], it is not _that_ that displeases me: it is the whole
+“No, [[Arthur]], it is not _that_ that displeases me: it is the whole
 
 system of your conduct towards your friend, and if you wish me to
 
@@ -15625,7 +15625,7 @@ go-betweens, pen, ink, and paper!
 
 
 
-22nd.—I have had several letters from [[arthur|Arthur]] already. They are not
+22nd.—I have had several letters from [[Arthur]] already. They are not
 
 long, but passing sweet, and just like himself, full of ardent
 
@@ -15653,7 +15653,7 @@ part of myself?
 
 
 
-Feb. 18, 1822.—Early this morning [[arthur|Arthur]] mounted his hunter and set off
+Feb. 18, 1822.—Early this morning [[Arthur]] mounted his hunter and set off
 
 in high glee to meet the —— hounds. He will be away all day, and so I
 
@@ -15671,7 +15671,7 @@ Manor. I have had eight weeks’ experience of matrimony. And do I regret
 
 the step I have taken? No, though I must confess, in my secret heart,
 
-that [[arthur|Arthur]] is not what I thought him at first, and if I had known him
+that [[Arthur]] is not what I thought him at first, and if I had known him
 
 in the beginning as thoroughly as I do now, I probably never should
 
@@ -15713,7 +15713,7 @@ out and leave nothing but ashes behind, what shall I do? But it won’t,
 
 it _shan_’t, I am determined; and surely I have power to keep it alive.
 
-So let me dismiss _that_ thought at once. But [[arthur|Arthur]] is selfish; I am
+So let me dismiss _that_ thought at once. But [[Arthur]] is selfish; I am
 
 constrained to acknowledge that; and, indeed, the admission gives me
 
@@ -15831,7 +15831,7 @@ I desired to know what was wrong.
 
 
 
-“I don’t understand you, [[arthur|Arthur]] (at least I [[Hope|hope]] I don’t): pray tell me
+“I don’t understand you, [[Arthur]] (at least I [[Hope|hope]] I don’t): pray tell me
 
 what I have done or said amiss.”
 
@@ -15891,7 +15891,7 @@ squeezing your fingers into the bone.”
 
 
 
-“[[arthur|Arthur]],” continued I, relaxing my hold of his arm, “you don’t [[Love|love]] me
+“[[Arthur]],” continued I, relaxing my hold of his arm, “you don’t [[Love|love]] me
 
 half as much as I do you; and yet, if you loved me far less than you
 
@@ -15955,7 +15955,7 @@ or those which tend to evil, till they become your masters, and neglect
 
 the good till they dwindle away, you have only yourself to blame. But
 
-you _have_ talents, [[arthur|Arthur]]—natural endowments both of heart and mind
+you _have_ talents, [[Arthur]]—natural endowments both of heart and mind
 
 and temper, such as many a better Christian would be glad to possess,
 
@@ -16047,7 +16047,7 @@ What have you seen amiss in me, and what would you have me to do?”
 
 
 
-“Nothing more than you do, [[arthur|Arthur]]: your actions are all right so far;
+“Nothing more than you do, [[Arthur]]: your actions are all right so far;
 
 but I would have your thoughts changed; I would have you to fortify
 
@@ -16071,7 +16071,7 @@ than you do.”
 
 
 
-March 25th.—[[arthur|Arthur]] is getting tired—not of me, I trust, but of the
+March 25th.—[[Arthur]] is getting tired—not of me, I trust, but of the
 
 idle, quiet life he leads—and no [[Wonder|wonder]], for he has so few sources of
 
@@ -16139,7 +16139,7 @@ and I do not and will not regret that I have linked my fate with his.
 
 April 4th.—We have had a downright quarrel. The particulars are as
 
-follows: [[arthur|Arthur]] had told me, at different intervals, the whole story of
+follows: [[Arthur]] had told me, at different intervals, the whole story of
 
 his intrigue with Lady F——, which I would not believe before. It was
 
@@ -16159,7 +16159,7 @@ of her name.
 
 
 
-“Not because you loved her, [[arthur|Arthur]], mind, but because she injured you
+“Not because you loved her, [[Arthur]], mind, but because she injured you
 
 and deceived her husband, and was altogether a very abominable woman,
 
@@ -16195,7 +16195,7 @@ much as I do you, so you needn’t [[Fear|fear]] to be forsaken like them.”
 
 
 
-“If you had told me these things before, [[arthur|Arthur]], I never should have
+“If you had told me these things before, [[Arthur]], I never should have
 
 given you the chance.”
 
@@ -16333,7 +16333,7 @@ concerns, afforded me ample employment for the morning: after lunch I
 
 got my drawing, and from dinner till bed-[[Time|time]] I read. Meanwhile, poor
 
-[[arthur|Arthur]] was sadly at a loss for something to amuse him or to occupy his
+[[Arthur]] was sadly at a loss for something to amuse him or to occupy his
 
 [[Time|time]]. He wanted to appear as busy and as unconcerned as I did. Had the
 
@@ -16417,7 +16417,7 @@ out, and then quietly took up the book.
 
 
 
-“Give that book to me,” said [[arthur|Arthur]], in no very courteous tone. I gave
+“Give that book to me,” said [[Arthur]], in no very courteous tone. I gave
 
 it to him.
 
@@ -16475,7 +16475,7 @@ was much communication between my eyes and my brain; for, while the
 
 former ran over the pages, the latter was earnestly wondering when
 
-[[arthur|Arthur]] would speak next, and what he would say, and what I should
+[[Arthur]] would speak next, and what he would say, and what I should
 
 answer. But he did not speak again till I [[Rose|rose]] to make the tea, and
 
@@ -16493,7 +16493,7 @@ stood awaiting his commands.
 
 
 
-“What do you want, [[arthur|Arthur]]?” I said at length.
+“What do you want, [[Arthur]]?” I said at length.
 
 
 
@@ -16509,7 +16509,7 @@ willing it should be something else.
 
 
 
-“Were you speaking, [[arthur|Arthur]]?” I asked.
+“Were you speaking, [[Arthur]]?” I asked.
 
 
 
@@ -16649,7 +16649,7 @@ forehead sunk upon his arm.
 
 
 
-“Where do you want to go, [[arthur|Arthur]]?” said I.
+“Where do you want to go, [[Arthur]]?” said I.
 
 
 
@@ -16735,7 +16735,7 @@ never was happier in my life than at that moment.
 
 
 
-“Then you won’t go to [[London]], [[arthur|Arthur]]?” I said, when the first transport
+“Then you won’t go to [[London]], [[Arthur]]?” I said, when the first transport
 
 of [[Tears|tears]] and kisses had subsided.
 
@@ -16771,7 +16771,7 @@ So we are to go to [[London]] on Monday, the day after to-morrow. It is now
 
 four days since the termination of our quarrel, and I am sure it has
 
-done us both good: it has made me like [[arthur|Arthur]] a great deal better, and
+done us both good: it has made me like [[Arthur]] a great deal better, and
 
 made him behave a great deal better to me. He has never once attempted
 
@@ -16807,7 +16807,7 @@ happy yet.
 
 On the eighth of April we went to [[London]], on the eighth of May I
 
-returned, in obedience to [[arthur|Arthur]]’s wish; very much against my own,
+returned, in obedience to [[Arthur]]’s wish; very much against my own,
 
 because I left him behind. If he had come with me, I should have been
 
@@ -16905,7 +16905,7 @@ I know that you are here, neglected—?”
 
 “I shall not feel myself neglected: while you are doing your duty,
 
-[[arthur|Arthur]], I shall never complain of neglect. If you had told me before,
+[[Arthur]], I shall never complain of neglect. If you had told me before,
 
 that you had anything to do, it would have been half done before this;
 
@@ -16969,7 +16969,7 @@ cannot trust me to go a hundred miles in our own carriage, with our own
 
 footman and a maid to attend me? If you come with me I shall assuredly
 
-keep you. But tell me, [[arthur|Arthur]], what _is_ this tiresome business; and
+keep you. But tell me, [[Arthur]], what _is_ this tiresome business; and
 
 why did you never mention it before?”
 
@@ -17001,7 +17001,7 @@ wish he would return!
 
 
 
-June 29th.—No [[arthur|Arthur]] yet; and for many days I have been looking and
+June 29th.—No [[Arthur]] yet; and for many days I have been looking and
 
 [[Longing|longing]] in vain for a letter. His letters, when they come, are kind, if
 
@@ -17043,9 +17043,9 @@ agreeable than [[Lord Lowborough]], more candid and high-minded than Mr.
 
 Grimsby, and more polished and gentlemanly than Mr. Hattersley,
 
-[[arthur|Arthur]]’s only other friend whom he judged fit to introduce to me.—Oh,
+[[Arthur]]’s only other friend whom he judged fit to introduce to me.—Oh,
 
-[[arthur|Arthur]], why won’t you come? why won’t you write to me at least? You
+[[Arthur]], why won’t you come? why won’t you write to me at least? You
 
 talked about my health: how can you expect me to gather bloom and
 
@@ -17435,7 +17435,7 @@ he pressed my hand to his feverish lips), “and what more could you
 
 
 
-“Only, [[arthur|Arthur]], that you would [[Love|love]] _yourself_ as truly and as
+“Only, [[Arthur]], that you would [[Love|love]] _yourself_ as truly and as
 
 faithfully as you are loved by me.”
 
@@ -17445,7 +17445,7 @@ faithfully as you are loved by me.”
 
 
 
-August 24th.—[[arthur|Arthur]] is himself again, as lusty and reckless, as light
+August 24th.—[[Arthur]] is himself again, as lusty and reckless, as light
 
 of heart and head as ever, and as restless and hard to amuse as a
 
@@ -17497,7 +17497,7 @@ shooting [[Alone|alone]]; he must have a friend or two to help him.
 
 
 
-“Let them be tolerably decent then, [[arthur|Arthur]],” said I. The word “friend”
+“Let them be tolerably decent then, [[Arthur]],” said I. The word “friend”
 
 in his mouth makes me shudder: I know it was some of his “friends” that
 
@@ -17819,7 +17819,7 @@ difficulty in bending to her purposes.
 
 October 9th.—It was on the [[Night|night]] of the 4th, a little after tea, that
 
-Annabella had been singing and playing, with [[arthur|Arthur]] as usual at her
+Annabella had been singing and playing, with [[Arthur]] as usual at her
 
 side: she had ended her [[Song|song]], but still she sat at the instrument; and
 
@@ -17885,13 +17885,13 @@ Lowborough was beside her husband, bending over him as he sat, with her
 
 hand on his shoulder, softly talking and smiling in his face; and
 
-[[arthur|Arthur]] was at the table, turning over a book of engravings. I seated
+[[Arthur]] was at the table, turning over a book of engravings. I seated
 
 myself in the nearest chair; and Mr. Hargrave, finding his services
 
 were not desired, judiciously withdrew. Shortly after, the company
 
-broke up, and, as the guests were retiring to their rooms, [[arthur|Arthur]]
+broke up, and, as the guests were retiring to their rooms, [[Arthur]]
 
 approached me, smiling with the utmost assurance.
 
@@ -17901,7 +17901,7 @@ approached me, smiling with the utmost assurance.
 
 
 
-“This is no jest, [[arthur|Arthur]],” said I, seriously, but as calmly as I
+“This is no jest, [[Arthur]],” said I, seriously, but as calmly as I
 
 could—“unless you think it a jest to lose my affection for ever.”
 
@@ -17977,7 +17977,7 @@ the sun. You little exorbitant [[Tyrant|tyrant]], will not _that_—”
 
 
 
-“Be quiet a moment, will you, [[arthur|Arthur]]?” said I, “and listen to me—and
+“Be quiet a moment, will you, [[Arthur]]?” said I, “and listen to me—and
 
 don’t think I’m in a jealous fury: I am perfectly calm. Feel my hand.”
 
@@ -18071,7 +18071,7 @@ part to me, throughout, as you have to Annabella?”
 
 
 
-“[[Well]], then, [[arthur|Arthur]], how can you call it nothing—an offence for which
+“[[Well]], then, [[Arthur]], how can you call it nothing—an offence for which
 
 you would think yourself justified in blowing another man’s brains out?
 
@@ -18219,7 +18219,7 @@ only woman here besides myself, we are necessarily thrown so much
 
 together. Next [[Time|time]] Mrs. Hargrave calls I shall hail her advent as
 
-quite a relief. I have a good mind to ask [[arthur|Arthur]]’s leave to invite the
+quite a relief. I have a good mind to ask [[Arthur]]’s leave to invite the
 
 old lady to stay with us till our guests depart. I think I will. She
 
@@ -18383,7 +18383,7 @@ new and calmer bliss, and stronger hopes to comfort me.
 
 
 
-Dec. 25th, 1823.—Another year is gone. My little [[arthur|Arthur]] lives and
+Dec. 25th, 1823.—Another year is gone. My little [[Arthur]] lives and
 
 thrives. He is healthy, but not robust, full of gentle playfulness and
 
@@ -18427,7 +18427,7 @@ have now been full two years united; the “[[Romance|romance]]” of our attach
 
 must be worn away. Surely I have now got down to the lowest gradation
 
-in [[arthur|Arthur]]’s affection, and discovered all the evils of his [[Nature|nature]]: if
+in [[Arthur]]’s affection, and discovered all the evils of his [[Nature|nature]]: if
 
 there be any further change, it must be for the better, as we become
 
@@ -18439,7 +18439,7 @@ have borne it hitherto.
 
 
 
-[[arthur|Arthur]] is not what is commonly called a _bad_ man: he has many good
+[[Arthur]] is not what is commonly called a _bad_ man: he has many good
 
 qualities; but he is a man without [[Self|self]]-restraint or lofty aspirations,
 
@@ -18461,7 +18461,7 @@ matter how he may be occupied in the meantime.
 
 
 
-Early in [[spring]] he announced his intention of going to [[London]]: his
+Early in [[Spring|spring]] he announced his intention of going to [[London]]: his
 
 affairs there demanded his attendance, he said, and he could refuse it
 
@@ -18507,7 +18507,7 @@ proposed separate apartments; but it would not do.
 
 
 
-“The [[Truth|truth]] is, [[arthur|Arthur]],” I said at last, “you are weary of my company,
+“The [[Truth|truth]] is, [[Arthur]],” I said at last, “you are weary of my company,
 
 and determined not to have me with you. You might as [[Well|well]] have said so
 
@@ -18563,7 +18563,7 @@ your being there among your friends, as you call them.”
 
 
 
-“You didn’t last [[Time|time]]. But THIS [[Time|time]], [[arthur|Arthur]],” I added, earnestly,
+“You didn’t last [[Time|time]]. But THIS [[Time|time]], [[Arthur]],” I added, earnestly,
 
 “show me that you can, and teach me that I need not [[Fear|fear]] to trust you!”
 
@@ -18637,7 +18637,7 @@ faithful Rachel, who evidently guessed my sorrows and felt for them,
 
 though she was too discreet to allude to them, I had my books and
 
-pencil, my domestic affairs, and the welfare and comfort of [[arthur|Arthur]]’s
+pencil, my domestic affairs, and the welfare and comfort of [[Arthur]]’s
 
 poor tenants and labourers to attend to: and I sometimes sought and
 
@@ -18657,7 +18657,7 @@ her in the beginning of June, and stayed till near the close of August.
 
 The first [[Time|time]] I saw him was on a sweet, warm evening, when I was
 
-sauntering in the park with little [[arthur|Arthur]] and Rachel, who is head-[[Nurse|nurse]]
+sauntering in the park with little [[Arthur]] and Rachel, who is head-[[Nurse|nurse]]
 
 and lady’s-maid in one—for, with my secluded life and tolerably active
 
@@ -18669,7 +18669,7 @@ preferred committing the important charge to her, with a young
 
 nursery-maid under her directions, to engaging any one else: besides,
 
-it saves money; and since I have made acquaintance with [[arthur|Arthur]]’s
+it saves money; and since I have made acquaintance with [[Arthur]]’s
 
 affairs, I have learnt to regard that as no trifling recommendation;
 
@@ -18973,7 +18973,7 @@ newly-acquired domestic habits.
 
 The [[Time|time]] that I met him [[Alone|alone]] was on a bright, but not oppressively hot
 
-day, in the beginning of July: I had taken little [[arthur|Arthur]] into the wood
+day, in the beginning of July: I had taken little [[Arthur]] into the wood
 
 that skirts the park, and there seated him on the moss-cushioned roots
 
@@ -19043,7 +19043,7 @@ witnessed his [[Fear|fear]] to offend.
 
 could show to his lady.” He half drew from his waistcoat-pocket a
 
-letter with [[arthur|Arthur]]’s still beloved hand on the address, scowled at it,
+letter with [[Arthur]]’s still beloved hand on the address, scowled at it,
 
 and put it back again, adding—“But he tells me he is about to return
 
@@ -19103,7 +19103,7 @@ my thoughts unscrutinized, within the sanctum of my [[Home|home]].
 
 
 
-And _was_ I glad? Yes, delighted; though I was angered by [[arthur|Arthur]]’s
+And _was_ I glad? Yes, delighted; though I was angered by [[Arthur]]’s
 
 conduct, and though I felt that he had wronged me, and was determined
 
@@ -19151,7 +19151,7 @@ thought the [[Time|time]] was come.
 
 
 
-“It is the same cook as we had before you went, [[arthur|Arthur]],” said I. “You
+“It is the same cook as we had before you went, [[Arthur]],” said I. “You
 
 were generally pretty [[Well|well]] satisfied with her then.”
 
@@ -19207,7 +19207,7 @@ alarming concussion with the trayful of crockery in his hands, but no
 
 positive damage, save the fall and breaking of a sauce tureen; but, to
 
-my unspeakable shame and dismay, [[arthur|Arthur]] turned furiously around upon
+my unspeakable shame and dismay, [[Arthur]] turned furiously around upon
 
 him, and swore at him with savage coarseness. The poor man turned pale,
 
@@ -19215,7 +19215,7 @@ and visibly trembled as he stooped to pick up the fragments.
 
 
 
-“He couldn’t help it, [[arthur|Arthur]],” said I; “the carpet caught his foot, and
+“He couldn’t help it, [[Arthur]],” said I; “the carpet caught his foot, and
 
 there’s no great harm done. Never mind the pieces now, Benson; you can
 
@@ -19231,13 +19231,13 @@ withdrew.
 
 “What _could_ you mean, [[Helen]], by taking the servant’s part against
 
-me,” said [[arthur|Arthur]], as soon as the door was closed, “when you knew I was
+me,” said [[Arthur]], as soon as the door was closed, “when you knew I was
 
 distracted?”
 
 
 
-“I did not know you were distracted, [[arthur|Arthur]]: and the poor man was quite
+“I did not know you were distracted, [[Arthur]]: and the poor man was quite
 
 frightened and hurt at your sudden explosion.”
 
@@ -19269,7 +19269,7 @@ complain of mine.”
 
 
 
-“Then why do you try yours, [[arthur|Arthur]]?”
+“Then why do you try yours, [[Arthur]]?”
 
 
 
@@ -19315,7 +19315,7 @@ hand on his forehead. It was burning indeed.
 
 
 
-“Then come with me into the drawing-room, [[arthur|Arthur]]; and don’t take any
+“Then come with me into the drawing-room, [[Arthur]]; and don’t take any
 
 more wine: you have taken several glasses since dinner, and eaten next
 
@@ -19327,7 +19327,7 @@ With some coaxing and [[Persuasion|persuasion]], I got him to leave the table. W
 
 the baby was brought I tried to amuse him with that; but poor little
 
-[[arthur|Arthur]] was cutting his teeth, and his father could not bear his
+[[Arthur]] was cutting his teeth, and his father could not bear his
 
 complaints: sentence of immediate banishment was passed upon him on the
 
@@ -19349,7 +19349,7 @@ would please you to leave me [[Alone|alone]].”
 
 
 
-“I have not been very long, have I, [[arthur|Arthur]]? I have not been an hour,
+“I have not been very long, have I, [[Arthur]]? I have not been an hour,
 
 I’m sure.”
 
@@ -19429,7 +19429,7 @@ for I never looked at it. With an elbow on each side of it, and my
 
 hands clasped before my eyes, I delivered myself up to silent weeping.
 
-But [[arthur|Arthur]] was not asleep: at the first slight sob, he raised his head
+But [[Arthur]] was not asleep: at the first slight sob, he raised his head
 
 and looked round, impatiently exclaiming, “What are you crying for,
 
@@ -19437,7 +19437,7 @@ and looked round, impatiently exclaiming, “What are you crying for,
 
 
 
-“I’m crying for you, [[arthur|Arthur]],” I replied, speedily drying my [[Tears|tears]]; and
+“I’m crying for you, [[Arthur]],” I replied, speedily drying my [[Tears|tears]]; and
 
 starting up, I threw myself on my knees before him, and clasping his
 
@@ -19479,7 +19479,7 @@ character. There, there, do spare me a little.”
 
 
 
-“[[arthur|Arthur]], you _must_ repent!” cried I, in a frenzy of desperation,
+“[[Arthur]], you _must_ repent!” cried I, in a frenzy of desperation,
 
 throwing my arms around him and burying my face in his bosom. “You
 
@@ -19709,7 +19709,7 @@ spoiling one’s [[Beauty|beauty]] and tiring out one’s friends.”
 
 Thenceforth I restrained my [[Tears|tears]] and passions as much as I could. I
 
-spared him my exhortations and fruitless efforts at [[conversion]] too, for
+spared him my exhortations and fruitless efforts at [[Conversion|conversion]] too, for
 
 I saw it was all in vain: God might awaken that heart, supine and
 
@@ -19741,7 +19741,7 @@ and complaints of his unreasonably exacting father.
 
 
 
-But [[arthur|Arthur]] is not naturally a peevish or irritable man; so far from it,
+But [[Arthur]] is not naturally a peevish or irritable man; so far from it,
 
 that there was something almost ludicrous in the incongruity of this
 
@@ -19793,7 +19793,7 @@ And here I must not forget that I am not a little indebted to his
 
 friend Mr. Hargrave. About that [[Time|time]] he frequently called at Grassdale,
 
-and often dined with us, on which occasions I [[Fear|fear]] [[arthur|Arthur]] would
+and often dined with us, on which occasions I [[Fear|fear]] [[Arthur]] would
 
 willingly have cast prudence and decorum to the winds, and made “a
 
@@ -19809,7 +19809,7 @@ and toil to construct. I was so fearful of this at first, that I
 
 humbled myself to intimate to him, in private, my apprehensions of
 
-[[arthur|Arthur]]’s proneness to these excesses, and to express a [[Hope|hope]] that he
+[[Arthur]]’s proneness to these excesses, and to express a [[Hope|hope]] that he
 
 would not encourage it. He was pleased with this mark of confidence,
 
@@ -19821,7 +19821,7 @@ to further acts of intemperance; and he always succeeded in bringing
 
 him from the dining-room in good [[Time|time]], and in tolerably good condition;
 
-for if [[arthur|Arthur]] disregarded such intimations as “[[Well]], I must not detain
+for if [[Arthur]] disregarded such intimations as “[[Well]], I must not detain
 
 you from your lady,” or “We must not forget that Mrs. Huntingdon is
 
@@ -19833,7 +19833,7 @@ his host, however unwillingly, was obliged to follow.
 
 Hence I learned to welcome Mr. Hargrave as a real friend to the family,
 
-a harmless companion for [[arthur|Arthur]], to cheer his spirits and preserve him
+a harmless companion for [[Arthur]], to cheer his spirits and preserve him
 
 from the tedium of absolute idleness and a total isolation from all
 
@@ -19867,7 +19867,7 @@ should exist a secret understanding between my husband’s friend and me,
 
 unknown to him, of which he was the object. But my after-thought was,
 
-“If it is wrong, surely [[arthur|Arthur]]’s is the fault, not mine.”
+“If it is wrong, surely [[Arthur]]’s is the fault, not mine.”
 
 
 
@@ -19913,7 +19913,7 @@ save myself and him! Such vain presumption would be rightly served, if
 
 I should perish with him in the gulf from which I sought to save him!
 
-Yet, God preserve me from it, and him too! Yes, poor [[arthur|Arthur]], I will
+Yet, God preserve me from it, and him too! Yes, poor [[Arthur]], I will
 
 still [[Hope|hope]] and pray for you; and though I write as if you were some
 
@@ -19927,7 +19927,7 @@ would be less bitter, less dissatisfied.
 
 His conduct has, of late, been what the world calls irreproachable; but
 
-then I know his heart is still unchanged; and I know that [[spring]] is
+then I know his heart is still unchanged; and I know that [[Spring|spring]] is
 
 approaching, and deeply dread the consequences.
 
@@ -19951,7 +19951,7 @@ promised to go.
 
 
 
-“Then you will leave me again, [[arthur|Arthur]]?” said I.
+“Then you will leave me again, [[Arthur]]?” said I.
 
 
 
@@ -19971,11 +19971,11 @@ could bring myself up to the scratch.”
 
 
 
-About the third week in August, [[arthur|Arthur]] set out for Scotland, and Mr.
+About the third week in August, [[Arthur]] set out for Scotland, and Mr.
 
 Hargrave accompanied him thither, to my private satisfaction. Shortly
 
-after, I, with little [[arthur|Arthur]] and Rachel, went to Staningley, my dear
+after, I, with little [[Arthur]] and Rachel, went to Staningley, my dear
 
 old [[Home|home]], which, as [[Well|well]] as my dear old friends its inhabitants, I saw
 
@@ -19989,7 +19989,7 @@ those old familiar scenes, and tones, and faces.
 
 
 
-[[arthur|Arthur]] did not come [[Home|home]] till several weeks after my return to
+[[Arthur]] did not come [[Home|home]] till several weeks after my return to
 
 Grassdale; but I did not feel so anxious about him now; to think of him
 
@@ -20017,7 +20017,7 @@ his fox-hunting and coursing are a sufficient occupation for him
 
 without, when the ground is not hardened by [[Frost|frost]]; so that he is not
 
-wholly dependent on me for entertainment. But it is now January; [[spring]]
+wholly dependent on me for entertainment. But it is now January; [[Spring|spring]]
 
 is approaching; and, I repeat, I dread the consequences of its arrival.
 
@@ -20039,7 +20039,7 @@ gladness, awakens now far other anticipations by its return.
 
 
 
-March 20th, 1824. The dreaded [[Time|time]] is come, and [[arthur|Arthur]] is gone, as I
+March 20th, 1824. The dreaded [[Time|time]] is come, and [[Arthur]] is gone, as I
 
 expected. This [[Time|time]] he announced it his intention to make but a short
 
@@ -20063,7 +20063,7 @@ with his injustice, his selfishness and hopeless _depravity_. I wish a
 
 milder word would do; I am no angel, and my corruption rises against
 
-it. My poor father died last week: [[arthur|Arthur]] was vexed to hear of it,
+it. My poor father died last week: [[Arthur]] was vexed to hear of it,
 
 because he saw that I was shocked and grieved, and he feared the
 
@@ -20155,7 +20155,7 @@ know how bitter I find it!
 
 August 20th.—We are shaken down again to about our usual position.
 
-[[arthur|Arthur]] has returned to nearly his former condition and habits; and I
+[[Arthur]] has returned to nearly his former condition and habits; and I
 
 have found it my wisest plan to shut my eyes against the past and
 
@@ -20187,7 +20187,7 @@ request, his wife and [[Child|child]]. I long to see Milicent, and her little
 
 girl too. The latter is now above a year old; she will be a charming
 
-playmate for my little [[arthur|Arthur]].
+playmate for my little [[Arthur]].
 
 
 
@@ -20219,7 +20219,7 @@ detriment of your own fingers.
 
 
 
-Of late, however, I have seen nothing in her conduct towards [[arthur|Arthur]] to
+Of late, however, I have seen nothing in her conduct towards [[Arthur]] to
 
 anger or alarm me. During the first few days I thought she seemed very
 
@@ -20243,7 +20243,7 @@ conquest upon hers.
 
 
 
-This is as it should be; but [[arthur|Arthur]] never will let me be satisfied with
+This is as it should be; but [[Arthur]] never will let me be satisfied with
 
 him. I have never, for a single hour since I married him, known what it
 
@@ -20259,7 +20259,7 @@ disgrace himself by positive excess. I shall not soon forget the second
 
 [[Night|night]] after their arrival. Just as I had retired from the dining-room
 
-with the ladies, before the door was closed upon us, [[arthur|Arthur]]
+with the ladies, before the door was closed upon us, [[Arthur]]
 
 exclaimed,—“Now then, my lads, what say you to a regular
 
@@ -20553,7 +20553,7 @@ Meantime Mr. Grimsby seated himself by me, in the chair vacated by
 
 Hargrave as they entered, and gravely stated that he would thank me for
 
-a cup of tea: and [[arthur|Arthur]] placed himself beside poor Milicent,
+a cup of tea: and [[Arthur]] placed himself beside poor Milicent,
 
 confidentially pushing his head into her face, and drawing in closer to
 
@@ -20575,7 +20575,7 @@ at my elbow, with sententious gravity all the [[Time|time]]; but I had been too
 
 much absorbed in contemplating the deplorable state of the other
 
-two—especially [[arthur|Arthur]]—to attend to him.
+two—especially [[Arthur]]—to attend to him.
 
 
 
@@ -20721,7 +20721,7 @@ earnest, and pale with anger, silently struggling to release himself
 
 from the powerful madman that was striving to drag him from the room. I
 
-attempted to urge [[arthur|Arthur]] to interfere in behalf of his outraged guest,
+attempted to urge [[Arthur]] to interfere in behalf of his outraged guest,
 
 but he could do nothing but laugh.
 
@@ -20733,7 +20733,7 @@ himself somewhat weakened by his excesses.
 
 
 
-“I’m wishing you God-[[Speed|speed]], Hattersley,” cried [[arthur|Arthur]], “and aiding you
+“I’m wishing you God-[[Speed|speed]], Hattersley,” cried [[Arthur]], “and aiding you
 
 with my prayers: I can’t do anything else if my life depended on it!
 
@@ -20913,7 +20913,7 @@ loss of [[Time|time]].
 
 
 
-The next object of assault was [[arthur|Arthur]], who sat opposite, and had, no
+The next object of assault was [[Arthur]], who sat opposite, and had, no
 
 [[Doubt|doubt]], richly enjoyed the whole scene.
 
@@ -20951,7 +20951,7 @@ Hattersley tried cursing and swearing, but it would not do: he then
 
 took a number of books from the table beside him, and threw them, one
 
-by one, at the object of his wrath; but [[arthur|Arthur]] only laughed the more;
+by one, at the object of his wrath; but [[Arthur]] only laughed the more;
 
 and, finally, Hattersley rushed upon him in a frenzy and seizing him by
 
@@ -20985,7 +20985,7 @@ now, but sick and stupid. I will write no more about _that_.
 
 Such disgraceful scenes (or nearly such) have been repeated more than
 
-once. I don’t say much to [[arthur|Arthur]] about it, for, if I did, it would do
+once. I don’t say much to [[Arthur]] about it, for, if I did, it would do
 
 more harm than good; but I let him know that I intensely dislike such
 
@@ -21023,7 +21023,7 @@ treating him with more uniform kindness and consideration than ever I
 
 have observed her to do before. I date the [[Time|time]] of this improvement
 
-from the period when she ceased to [[Hope|hope]] and strive for [[arthur|Arthur]]’s
+from the period when she ceased to [[Hope|hope]] and strive for [[Arthur]]’s
 
 admiration.
 
@@ -21099,7 +21099,7 @@ recover breath and rectify our hair, disordered by the rough play and
 
 the frolicsome breeze, while they toddled together along the broad,
 
-sunny walk; my [[arthur|Arthur]] supporting the feebler steps of her little [[Helen]],
+sunny walk; my [[Arthur]] supporting the feebler steps of her little [[Helen]],
 
 and sagaciously pointing out to her the brightest beauties of the
 
@@ -21291,7 +21291,7 @@ wept for myself for many a week.
 
 It was one rainy day last week; most of the company were killing [[Time|time]]
 
-in the billiard-room, but Milicent and I were with little [[arthur|Arthur]] and
+in the billiard-room, but Milicent and I were with little [[Arthur]] and
 
 [[Helen]] in the library, and between our books, our children, and each
 
@@ -21967,7 +21967,7 @@ the nursery.”
 
 “No; I want the exercise of a run to the top of the [[house]]. Come,
 
-[[arthur|Arthur]].”
+[[Arthur]].”
 
 
 
@@ -21985,7 +21985,7 @@ the nursery.”
 
 “At lunch,” said I, departing with little [[Helen]] in one arm and leading
 
-[[arthur|Arthur]] by the hand.
+[[Arthur]] by the hand.
 
 
 
@@ -22075,7 +22075,7 @@ seen no reason to repent of my unwillingness to hear it. The threatened
 
 blow has not been struck yet, and I do not greatly [[Fear|fear]] it. At present
 
-I am pleased with [[arthur|Arthur]]: he has not positively disgraced himself for
+I am pleased with [[Arthur]]: he has not positively disgraced himself for
 
 upwards of a fortnight, and all this last week has been so very
 
@@ -22107,7 +22107,7 @@ know I was near, for I happened to be standing behind the curtain in
 
 the bow of the [[Window|window]], watching the [[Moon|moon]] rising over the clump of tall
 
-dark elm-trees below the lawn, and wondering why [[arthur|Arthur]] was so
+dark elm-trees below the lawn, and wondering why [[Arthur]] was so
 
 sentimental as to stand without, leaning against the outer pillar of
 
@@ -22155,7 +22155,7 @@ with their false, fair faces and their deceitful tongues.”
 
 At this juncture I issued from my retreat, and smiling on Mr. Grimsby
 
-as I passed, left the room and went out in search of [[arthur|Arthur]]. Having
+as I passed, left the room and went out in search of [[Arthur]]. Having
 
 seen him bend his course towards the shrubbery, I followed him thither,
 
@@ -22189,7 +22189,7 @@ affection is genuine: he is not sick of me yet.
 
 
 
-“I startled you, [[arthur|Arthur]],” said I, laughing in my glee. “How nervous you
+“I startled you, [[Arthur]],” said I, laughing in my glee. “How nervous you
 
 are!”
 
@@ -22207,7 +22207,7 @@ of cold!”
 
 “I won’t, till I’ve told you what I came for. They are blaming you,
 
-[[arthur|Arthur]], for your temperance and sobriety, and I’m come to thank you for
+[[Arthur]], for your temperance and sobriety, and I’m come to thank you for
 
 it. They say it is all ‘these cursed women,’ and that we are the bane
 
@@ -22243,7 +22243,7 @@ away, do!”
 
 
 
-“Do you see my [[Death|death]] among those trees, [[arthur|Arthur]]?” said I, for he was
+“Do you see my [[Death|death]] among those trees, [[Arthur]]?” said I, for he was
 
 gazing intently at the shrubs, as if he saw it coming, and I was
 
@@ -22289,7 +22289,7 @@ vanished for the [[Time|time]]; and he astonished us all, not only by his
 
 general cheerfulness and animation, but by the positive flashes of true
 
-force and brilliance he emitted from [[Time|time]] to [[Time|time]]. [[arthur|Arthur]] did not talk
+force and brilliance he emitted from [[Time|time]] to [[Time|time]]. [[Arthur]] did not talk
 
 much, but he laughed, and listened to the rest, and was in perfect
 
@@ -22387,7 +22387,7 @@ month; or perhaps from something that had passed between their master
 
 and her during her former visit. At dinner I narrowly observed both her
 
-and [[arthur|Arthur]], and saw nothing extraordinary in the conduct of either,
+and [[Arthur]], and saw nothing extraordinary in the conduct of either,
 
 nothing calculated to excite suspicion, except in distrustful minds,
 
@@ -22835,7 +22835,7 @@ through the scant foliage above. It seemed all dim and quivering now to
 
 my darkened sight. My burning, bursting heart strove to pour forth its
 
-agony to God, but could not frame its anguish into [[Prayer|prayer]]; until a gust
+agony to God, but could not frame its anguish into [[prayer]]; until a gust
 
 of [[Wind|wind]] swept over me, which, while it scattered the dead [[Leaves|leaves]], like
 
@@ -22903,7 +22903,7 @@ different was this from the evening of yesterday! _That_, it seems, was
 
 the last expiring flash of my life’s happiness. Poor, blinded [[Fool|fool]] that
 
-I was to be so happy! I could now see the reason of [[arthur|Arthur]]’s strange
+I was to be so happy! I could now see the reason of [[Arthur]]’s strange
 
 reception of me in the shrubbery; the burst of kindness was for his
 
@@ -22941,7 +22941,7 @@ upon myself; let me bear it [[Alone|alone]].
 
 As the usual hour of retirement approached I dried my eyes, and tried
 
-to clear my voice and calm my mind. I must see [[arthur|Arthur]] to-[[Night|night]], and
+to clear my voice and calm my mind. I must see [[Arthur]] to-[[Night|night]], and
 
 speak to him; but I would do it calmly: there should be no
 
@@ -23709,7 +23709,7 @@ I came forward and busied myself with the breakfast things.
 
 she seated herself at the table. “Ah, here comes one that will not
 
-rejoice at it!” she murmured, half to herself, as [[arthur|Arthur]] entered the
+rejoice at it!” she murmured, half to herself, as [[Arthur]] entered the
 
 room.
 
@@ -23765,7 +23765,7 @@ suppressed. Startled, almost appalled, by this sudden outbreak, she
 
 recoiled in [[Silence|silence]]. I would have given way to my fury and said more,
 
-but [[arthur|Arthur]]’s low laugh recalled me to myself. I checked the
+but [[Arthur]]’s low laugh recalled me to myself. I checked the
 
 half-uttered invective, and scornfully turned away, regretting that I
 
@@ -23937,7 +23937,7 @@ mother. Little [[Helen]], however, was soon tired of playing, and insisted
 
 upon going to [[Sleep|sleep]]; and while I sat on the sofa with her on my knee,
 
-and [[arthur|Arthur]] seated beside me, gently playing with her soft, flaxen hair,
+and [[Arthur]] seated beside me, gently playing with her soft, flaxen hair,
 
 Lady Lowborough composedly came and placed herself on the other side.
 
@@ -24287,17 +24287,17 @@ absence!
 
 
 
-Mr. Hargrave is still at the Grove. He and [[arthur|Arthur]] frequently meet to
+Mr. Hargrave is still at the Grove. He and [[Arthur]] frequently meet to
 
 pursue their rural sports together: he often calls upon us here, and
 
-[[arthur|Arthur]] not unfrequently rides over to him. I do not think either of
+[[Arthur]] not unfrequently rides over to him. I do not think either of
 
 these soi-disant friends is overflowing with [[Love|love]] for the other; but
 
 such intercourse serves to get the [[Time|time]] on, and I am very willing it
 
-should continue, as it saves me some hours of discomfort in [[arthur|Arthur]]’s
+should continue, as it saves me some hours of discomfort in [[Arthur]]’s
 
 society, and gives him some better employment than the sottish
 
@@ -24389,7 +24389,7 @@ remark, but—
 
 
 
-My little [[arthur|Arthur]] was standing between his knees, delightedly playing
+My little [[Arthur]] was standing between his knees, delightedly playing
 
 with the bright, ruby ring on his finger. Urged by a sudden, imperative
 
@@ -24549,7 +24549,7 @@ perverted [[Nature|nature]].
 
 
 
-Happily, there were none of [[arthur|Arthur]]’s “friends” invited to Grassdale
+Happily, there were none of [[Arthur]]’s “friends” invited to Grassdale
 
 last [[Autumn|autumn]]: he took himself off to visit some of them instead. I wish
 
@@ -24725,7 +24725,7 @@ towards her.
 
 “Give it her yourself, you blockhead!” cried she, recoiling with a
 
-[[spring]] from between us.
+[[Spring|spring]] from between us.
 
 
 
@@ -24785,7 +24785,7 @@ no remark upon it this [[Time|time]]: she had evidently been schooled into
 
 better manners. She talked to me, and laughed and romped with little
 
-[[arthur|Arthur]], her loved and loving playmate. He, somewhat to my discomfort,
+[[Arthur]], her loved and loving playmate. He, somewhat to my discomfort,
 
 enticed her from the room to have a run in the hall, and thence into
 
@@ -24961,7 +24961,7 @@ from the [[Window|window]], whither he had followed me.
 
 “They need not know,” he began; but before anything more could be said
 
-on either side, Esther and [[arthur|Arthur]] re-entered the room. The former
+on either side, Esther and [[Arthur]] re-entered the room. The former
 
 glanced at Walter’s flushed, excited countenance, and then at mine—a
 
@@ -25991,7 +25991,7 @@ except myself, and just as I was leaving my room [[Lord Lowborough]] was
 
 descending to take his place in the carriage, where his lady was
 
-already ensconced; and [[arthur|Arthur]] (or Mr. Huntingdon, as I prefer calling
+already ensconced; and [[Arthur]] (or Mr. Huntingdon, as I prefer calling
 
 him, for the other is my [[Child|child]]’s name) had the gratuitous insolence to
 
@@ -26151,7 +26151,7 @@ a gleam of hard, keen, sombre satisfaction in his countenance at the
 
 look of impotent wrath and anguish he was too certain to behold in
 
-mine. But on one occasion, when [[arthur|Arthur]] had been behaving particularly
+mine. But on one occasion, when [[Arthur]] had been behaving particularly
 
 ill, and Mr. Huntingdon and his guests had been particularly provoking
 
@@ -26207,7 +26207,7 @@ support myself and him by the labour of my hands. The palette and the
 
 easel, my darling playmates once, must be my sober toil-fellows now.
 
-But was I sufficiently skilful as an [[Artist|artist]] to obtain my livelihood in
+But was I sufficiently skilful as an [[artist]] to obtain my livelihood in
 
 a strange land, without friends and without recommendation? No; I must
 
@@ -26303,7 +26303,7 @@ wished. Here, then, I set up my easel, and here I worked at my canvas
 
 from daylight till dusk, with very little intermission, saving when
 
-pure necessity, or my duties to little [[arthur|Arthur]], called me away: for I
+pure necessity, or my duties to little [[Arthur]], called me away: for I
 
 still thought proper to devote some portion of every day exclusively to
 
@@ -26795,7 +26795,7 @@ that.”
 
 Walter did not answer, but walked to the [[Window|window]] to collect his
 
-faculties. [[arthur|Arthur]] uttered a low whistle, and followed him with his
+faculties. [[Arthur]] uttered a low whistle, and followed him with his
 
 eyes. A slight flush of anger [[Rose|rose]] to Hargrave’s cheek; but in a moment
 
@@ -27075,7 +27075,7 @@ all her might: on one condition only: that she might share my [[Exile|exile]]:
 
 otherwise, she was utterly inexorable, regarding it as perfect [[Madness|madness]]
 
-for me and [[arthur|Arthur]] to go [[Alone|alone]]. With touching generosity, she modestly
+for me and [[Arthur]] to go [[Alone|alone]]. With touching generosity, she modestly
 
 offered to aid me with her little hoard of savings, hoping I would
 
@@ -27129,7 +27129,7 @@ gravely asked,—“Mamma, why are you wicked?”
 
 
 
-“No, [[arthur|Arthur]], Rachel never said so, I am certain.”
+“No, [[Arthur]], Rachel never said so, I am certain.”
 
 
 
@@ -27155,7 +27155,7 @@ people be damned, nor show that they deserve it. God will judge us by
 
 our own thoughts and deeds, not by what others say about us. And when
 
-you hear such words spoken, [[arthur|Arthur]], remember never to repeat them: it
+you hear such words spoken, [[Arthur]], remember never to repeat them: it
 
 is wicked to say such things of others, not to have them said against
 
@@ -27463,7 +27463,7 @@ his back to the [[Fire|fire]], silently triumphing in my [[Despair|despair]].
 
 “And so,” said he at length, “you thought to disgrace me, did you, by
 
-running away and turning [[Artist|artist]], and supporting yourself by the labour
+running away and turning [[artist]], and supporting yourself by the labour
 
 of your hands, forsooth? And you thought to rob me of my son, too, and
 
@@ -27575,7 +27575,7 @@ and if there be nothing but sorrow for me in this world, what is the
 
 longest life of misery to a whole [[Eternity|eternity]] of peace? And for my little
 
-[[arthur|Arthur]]—has he no friend but me? Who was it said, “It is not the will of
+[[Arthur]]—has he no friend but me? Who was it said, “It is not the will of
 
 your Father which is in heaven that one of these little ones should
 
@@ -27605,7 +27605,7 @@ with the [[Hope|hope]] of escape—he has taken care to leave me no visible chan
 
 of that—but with a determination to make the best of existing
 
-circumstances. Here was [[arthur|Arthur]] left to me at last; and rousing from my
+circumstances. Here was [[Arthur]] left to me at last; and rousing from my
 
 despondent apathy, I exerted all my powers to eradicate the weeds that
 
@@ -27613,7 +27613,7 @@ had been fostered in his infant mind, and sow again the good seed they
 
 had rendered unproductive. Thank heaven, it is not a barren or a stony
 
-soil; if weeds [[spring]] fast there, so do better plants. His
+soil; if weeds [[Spring|spring]] fast there, so do better plants. His
 
 apprehensions are more quick, his heart more overflowing with affection
 
@@ -27675,9 +27675,9 @@ sight of any one of them is sufficient to make him sick, I have given
 
 up teasing him about them, except now and then as objects of terror in
 
-cases of misbehaviour. “[[arthur|Arthur]], if you’re not a good boy I shall give
+cases of misbehaviour. “[[Arthur]], if you’re not a good boy I shall give
 
-you a glass of wine,” or “Now, [[arthur|Arthur]], if you say that again you shall
+you a glass of wine,” or “Now, [[Arthur]], if you say that again you shall
 
 have some brandy-and-[[Water|water]],” is as good as any other threat; and once
 
@@ -27797,7 +27797,7 @@ was bad enough in his day. But what would Frederick have been, if he
 
 had lived in the world, and mingled from his [[Childhood|childhood]] with such men as
 
-these of my acquaintance? and what _will_ [[arthur|Arthur]] be, with all his
+these of my acquaintance? and what _will_ [[Arthur]] be, with all his
 
 natural sweetness of disposition, if I do not save him from that world
 
@@ -27867,7 +27867,7 @@ Frederick was exceedingly indignant against Mr. Huntingdon, and very
 
 much grieved for me; but still he looked upon my project as wild and
 
-impracticable. He deemed my fears for [[arthur|Arthur]] disproportioned to the
+impracticable. He deemed my fears for [[Arthur]] disproportioned to the
 
 circumstances, and opposed so many objections to my plan, and devised
 
@@ -28139,7 +28139,7 @@ be careful whom you marry—or rather, you must avoid it altogether.”
 
 September 1st.—No Mr. Huntingdon yet. Perhaps he will stay among his
 
-friends till Christmas; and then, next [[spring]], he will be off again. If
+friends till Christmas; and then, next [[Spring|spring]], he will be off again. If
 
 he continue this plan, I shall be able to stay at Grassdale [[Well|well]]
 
@@ -28147,7 +28147,7 @@ enough—that is, I _shall_ be able to stay, and that is enough; even an
 
 occasional bevy of friends at the shooting season may be borne, if
 
-[[arthur|Arthur]] get so firmly attached to me, so [[Well|well]] established in good sense
+[[Arthur]] get so firmly attached to me, so [[Well|well]] established in good sense
 
 and principles before they come that I shall be able, by reason and
 
@@ -28567,7 +28567,7 @@ to him, I shall not trouble myself to describe. The day after his
 
 arrival, however, he surprised me by the announcement of an intention
 
-to procure a governess for little [[arthur|Arthur]]: I told him it was quite
+to procure a governess for little [[Arthur]]: I told him it was quite
 
 unnecessary, not to say ridiculous, at the present season: I thought I
 
@@ -28701,7 +28701,7 @@ told me they were now on the Continent, and their present address was
 
 unknown to her. I never saw her speak much to Mr. Huntingdon; but he
 
-would frequently look into the school-room to see how little [[arthur|Arthur]] got
+would frequently look into the school-room to see how little [[Arthur]] got
 
 on with his new companion, when I was not there. In the evening, she
 
@@ -28817,7 +28817,7 @@ bless him!”
 
 
 
-“But I’m young, Rachel; I sha’n’t mind it; and [[arthur|Arthur]] is young too: it
+“But I’m young, Rachel; I sha’n’t mind it; and [[Arthur]] is young too: it
 
 will be nothing to him.”
 
@@ -28945,7 +28945,7 @@ I do not understand the art of stowing them into the boxes, so as to
 
 take up the smallest possible space; and there are her own things to
 
-do, as [[Well|well]] as mine and [[arthur|Arthur]]’s. I can ill afford to leave anything
+do, as [[Well|well]] as mine and [[Arthur]]’s. I can ill afford to leave anything
 
 behind, since I have no money, except a few guineas in my purse; and
 
@@ -28959,7 +28959,7 @@ But what trouble I have had throughout these two days, struggling to
 
 appear calm and collected, to meet him and her as usual, when I was
 
-obliged to meet them, and forcing myself to leave my little [[arthur|Arthur]] in
+obliged to meet them, and forcing myself to leave my little [[Arthur]] in
 
 her hands for hours together! But I trust these trials are over now: I
 
@@ -29041,7 +29041,7 @@ and gain an hour or two of [[Sleep|sleep]]; and _then!_—
 
 
 
-Little [[arthur|Arthur]] sleeps soundly. All the [[house]] is still: there can be no
+Little [[Arthur]] sleeps soundly. All the [[house]] is still: there can be no
 
 one watching. The boxes were all corded by Benson, and quietly conveyed
 
@@ -29149,7 +29149,7 @@ I had been constrained to borrow of Rachel, for want of such an article
 
 myself. It was not in the newest fashion, of course; but none the worse
 
-for that, under present circumstances. [[arthur|Arthur]] was clad in his plainest
+for that, under present circumstances. [[Arthur]] was clad in his plainest
 
 clothes, and wrapped in a coarse woollen shawl; and Rachel was muffled
 
@@ -29199,7 +29199,7 @@ was in bed. And a dreary ride we had of it, that last stage of the
 
 to cling to, nothing to lean against, slowly dragged and cruelly shaken
 
-over the rough, hilly roads. But [[arthur|Arthur]] was asleep in Rachel’s lap, and
+over the rough, hilly roads. But [[Arthur]] was asleep in Rachel’s lap, and
 
 between us we managed pretty [[Well|well]] to shield him from the cold [[Night|night]]
 
@@ -29213,7 +29213,7 @@ spite of the darkness, Rachel said she remembered [[Well|well]]: she had often
 
 walked there with me in her arms, and little thought to come again so
 
-many years after, under such circumstances as the present. [[arthur|Arthur]] being
+many years after, under such circumstances as the present. [[Arthur]] being
 
 now awakened by the jolting and the stoppages, we all got out and
 
@@ -29269,7 +29269,7 @@ now, in all haste, transported back again.
 
 
 
-The old woman brought my supper and [[arthur|Arthur]]’s into the parlour, and told
+The old woman brought my supper and [[Arthur]]’s into the parlour, and told
 
 me, with all due formality, that “the master desired his compliments to
 
@@ -29283,7 +29283,7 @@ her to-morrow, to receive her further commands.”
 
 I was glad to ascend the stern-looking stone staircase, and lie down in
 
-the gloomy, old-fashioned bed, beside my little [[arthur|Arthur]]. He was asleep
+the gloomy, old-fashioned bed, beside my little [[Arthur]]. He was asleep
 
 in a minute; but, weary as I was, my excited feelings and restless
 
@@ -29291,7 +29291,7 @@ cogitations kept me awake till [[Dawn|dawn]] began to struggle with the
 
 darkness; but [[Sleep|sleep]] was sweet and refreshing when it came, and the
 
-waking was delightful beyond expression. It was little [[arthur|Arthur]] that
+waking was delightful beyond expression. It was little [[Arthur]] that
 
 roused me, with his gentle kisses. He was here, then, safely clasped in
 
@@ -29527,7 +29527,7 @@ ears of some one who will carry it to the Lord of Grassdale Manor.
 
 I shall be expected to return their calls, but if, upon inquiry, I find
 
-that any of them live too far away for [[arthur|Arthur]] to accompany me, they
+that any of them live too far away for [[Arthur]] to accompany me, they
 
 must expect in vain for a while, for I cannot bear to leave him, unless
 
@@ -29771,7 +29771,7 @@ Just in [[Time|time]] to prevent me from committing the impropriety of taking
 
 the citadel by [[Storm|storm]], and pushing forward unannounced, an inner door
 
-opened, and little [[arthur|Arthur]] appeared with his frolicsome playfellow, the
+opened, and little [[Arthur]] appeared with his frolicsome playfellow, the
 
 dog. He seized my hand between both his, and smilingly drew me forward.
 
@@ -30429,7 +30429,7 @@ ourselves apart, and I rushed from the [[house]].
 
 
 
-I have a confused remembrance of seeing little [[arthur|Arthur]] running up the
+I have a confused remembrance of seeing little [[Arthur]] running up the
 
 [[Garden|garden]]-walk to meet me, and of bolting over the wall to avoid him—and
 
@@ -31893,7 +31893,7 @@ for?”
 
 
 
-“It is I, [[arthur|Arthur]]—it is [[Helen]], your wife,” I replied.
+“It is I, [[Arthur]]—it is [[Helen]], your wife,” I replied.
 
 
 
@@ -32049,7 +32049,7 @@ to unravel the mystery.
 
 
 
-“No, [[arthur|Arthur]], it was not [[A Dream|a dream]], that your conduct was such as to
+“No, [[Arthur]], it was not [[A Dream|a dream]], that your conduct was such as to
 
 oblige me to leave you; but I heard that you were ill and [[Alone|alone]], and I
 
@@ -32173,7 +32173,7 @@ All this may strike you as harsh, but I felt I must not lose my present
 
 advantage, and my son’s future welfare should not be sacrificed to any
 
-mistaken tenderness for this man’s feelings. Little [[arthur|Arthur]] had not
+mistaken tenderness for this man’s feelings. Little [[Arthur]] had not
 
 forgotten his father, but thirteen months of absence, during which he
 
@@ -32191,7 +32191,7 @@ countenance expressive of far more awe than pleasure.
 
 
 
-“Come here, [[arthur|Arthur]],” said the latter, extending his hand towards him.
+“Come here, [[Arthur]],” said the latter, extending his hand towards him.
 
 The [[Child|child]] went, and timidly touched that burning hand, but almost
 
@@ -32231,7 +32231,7 @@ darting a vindictive glance at me.
 
 
 
-[[arthur|Arthur]], thus released, crept back to me and put his hand in mine. His
+[[Arthur]], thus released, crept back to me and put his hand in mine. His
 
 father swore I had made the [[Child|child]] hate him, and abused and cursed me
 
@@ -32429,7 +32429,7 @@ get better if I stuck to his regimen and prescriptions.”
 
 
 
-“I [[Hope|hope]] you may, [[arthur|Arthur]]; but neither the doctor nor I can speak with
+“I [[Hope|hope]] you may, [[Arthur]]; but neither the doctor nor I can speak with
 
 certainty in such a case; there is internal injury, and it is difficult
 
@@ -32683,7 +32683,7 @@ complete slave of me; and I know it would be unpardonable weakness to
 
 give up all other interests for him. I have the servants to overlook,
 
-and my little [[arthur|Arthur]] to attend to,—and my own health too, all of which
+and my little [[Arthur]] to attend to,—and my own health too, all of which
 
 would be entirely neglected were I to satisfy his exorbitant demands. I
 
@@ -32737,7 +32737,7 @@ from him and from the future.
 
 
 
-“But if I find it necessary to leave you, [[arthur|Arthur]], I shall not ‘run
+“But if I find it necessary to leave you, [[Arthur]], I shall not ‘run
 
 away’: you know I have your own promise that I may go whenever I
 
@@ -33289,7 +33289,7 @@ and if I _could_ look complacently on in such a case, it would be only
 
 from the assurance that you were being purified from your sins, and
 
-fitted to enjoy the happiness I felt.—But are you _determined_, [[arthur|Arthur]],
+fitted to enjoy the happiness I felt.—But are you _determined_, [[Arthur]],
 
 that I shall not meet you in heaven?”
 
@@ -33313,7 +33313,7 @@ torment you picture to yourself?”
 
 
 
-“Are you sure, [[arthur|Arthur]]? are you _quite_ sure? Because, if there is any
+“Are you sure, [[Arthur]]? are you _quite_ sure? Because, if there is any
 
 [[Doubt|doubt]], and if you _should_ find yourself mistaken after all, when it is
 
@@ -33363,7 +33363,7 @@ pleased to behold her so happy and [[Well|well]]. She is now at the Grove,
 
 continued the letter, but she often calls to see me. Mr. Hattersley
 
-spends much of his [[Time|time]] at [[arthur|Arthur]]’s bed-side. With more good feeling
+spends much of his [[Time|time]] at [[Arthur]]’s bed-side. With more good feeling
 
 than I gave him credit for, he evinces considerable sympathy for his
 
@@ -33381,7 +33381,7 @@ than before; and then Hattersley is confounded, and knows not what to
 
 say, unless it be a timid suggestion that the clergyman might be sent
 
-for. But [[arthur|Arthur]] will never consent to that: he knows he has rejected
+for. But [[Arthur]] will never consent to that: he knows he has rejected
 
 the clergyman’s [[Well|well]]-meant admonitions with scoffing levity at other
 
@@ -33391,7 +33391,7 @@ times, and cannot dream of turning to him for consolation now.
 
 Mr. Hattersley sometimes offers his services instead of mine, but
 
-[[arthur|Arthur]] will not let me go: that strange whim still increases, as his
+[[Arthur]] will not let me go: that strange whim still increases, as his
 
 strength declines—the fancy to have me always by his side. I hardly
 
@@ -33409,7 +33409,7 @@ side. That gentleman came, as he said, to beg a holiday for me, that I
 
 might have a run in the park, this fine frosty morning, with Milicent
 
-and Esther and little [[arthur|Arthur]], whom he had driven over to see me. Our
+and Esther and little [[Arthur]], whom he had driven over to see me. Our
 
 poor invalid evidently felt it a heartless proposition, and would have
 
@@ -33447,7 +33447,7 @@ grudge me these attentions, do you, [[Helen]]?”
 
 
 
-“No, [[arthur|Arthur]], if I could really serve you by them. I would give my life
+“No, [[Arthur]], if I could really serve you by them. I would give my life
 
 to save you, if I might.”
 
@@ -33489,7 +33489,7 @@ had heard you long ago—oh, God! how different it would have been!”
 
 
 
-“Hear me now, then, [[arthur|Arthur]],” said I, gently pressing his hand.
+“Hear me now, then, [[Arthur]],” said I, gently pressing his hand.
 
 
 
@@ -33637,7 +33637,7 @@ after!’
 
 
 
-“‘Don’t try to believe it, [[arthur|Arthur]]; there is joy and glory after, if you
+“‘Don’t try to believe it, [[Arthur]]; there is joy and glory after, if you
 
 will but try to reach it!’
 
@@ -33799,7 +33799,7 @@ distinctly,—“Pray for me, [[Helen]]!”
 
 
 
-“I do pray for you, every hour and every minute, [[arthur|Arthur]]; but you must
+“I do pray for you, every hour and every minute, [[Arthur]]; but you must
 
 pray for yourself.”
 
@@ -33987,7 +33987,7 @@ there was a wide distinction between the rank and circumstances of Mrs.
 
 Huntingdon, the lady of Grassdale Manor, and those of Mrs. Graham, the
 
-[[Artist|artist]], [[The Tenant of Wildfell Hall|the tenant of Wildfell Hall]]. And it might be deemed presumption
+[[artist]], [[The Tenant of Wildfell Hall|the tenant of Wildfell Hall]]. And it might be deemed presumption
 
 in me to offer my hand to the former, by the world, by her friends, if
 
@@ -34139,7 +34139,7 @@ long, but which none could more truly be said to merit than
 
 herself—adding a few words of kind remembrance to my little friend
 
-[[arthur|Arthur]], with a [[Hope|hope]] that he had not forgotten me, and perhaps a few
+[[Arthur]], with a [[Hope|hope]] that he had not forgotten me, and perhaps a few
 
 more in reference to bygone times, to the delightful hours I had passed
 
@@ -35443,7 +35443,7 @@ it—all presented a picture, striking indeed, and pleasing to an
 
 unencumbered mind, but by no means encouraging to me. There was one
 
-comfort, however,—all this was entailed upon little [[arthur|Arthur]], and could
+comfort, however,—all this was entailed upon little [[Arthur]], and could
 
 not under any circumstances, strictly speaking, be his mother’s. But
 
@@ -35589,7 +35589,7 @@ deep, [[Well|well]]-cut ditches, and fine timber-trees, growing sometimes on the
 
 borders, sometimes in the midst of the enclosure: “_very_ fine land, if
 
-you saw it in the [[Summer|summer]] or [[spring]].”
+you saw it in the [[Summer|summer]] or [[Spring|spring]].”
 
 
 
@@ -35817,7 +35817,7 @@ I did not raise my eyes, but I suppose mamma looked, for a clear
 
 melodious voice, whose tones thrilled through my nerves, exclaimed,
 
-“Oh, aunt! here’s Mr. Markham, [[arthur|Arthur]]’s friend! Stop, [[Richard]]!”
+“Oh, aunt! here’s Mr. Markham, [[Arthur]]’s friend! Stop, [[Richard]]!”
 
 
 
@@ -35831,7 +35831,7 @@ I looked up and met the eye of a pale, [[Grave|grave]], elderly lady surveying m
 
 from the open [[Window|window]]. She bowed, and so did I, and then she withdrew
 
-her head, while [[arthur|Arthur]] screamed to the footman to let him out; but
+her head, while [[Arthur]] screamed to the footman to let him out; but
 
 before that functionary could descend from his box a hand was silently
 
@@ -35879,7 +35879,7 @@ or disappointment than surprise.
 
 
 
-“Yes, yes! he _must_ enter,” cried [[arthur|Arthur]], running round from the other
+“Yes, yes! he _must_ enter,” cried [[Arthur]], running round from the other
 
 door; and seizing my hand in both his, he shook it heartily.
 
@@ -35915,7 +35915,7 @@ more I shall be as tall as you nearly.”
 
 
 
-“[[arthur|Arthur]],” said his mother, “tell him to come in. Go on, [[Richard]].”
+“[[Arthur]],” said his mother, “tell him to come in. Go on, [[Richard]].”
 
 
 
@@ -35931,7 +35931,7 @@ and looked round me, waiting to recover my composure, if possible—or,
 
 at any rate, to remember my new-formed resolutions and the principles
 
-on which they were founded; and it was not till [[arthur|Arthur]] had been for
+on which they were founded; and it was not till [[Arthur]] had been for
 
 some [[Time|time]] gently pulling my coat, and repeating his invitations to
 
@@ -35963,7 +35963,7 @@ cold, but she supposed I had not travelled far that morning.
 
 
 
-“Here’s Rachel, sir,” said [[arthur|Arthur]], the only truly happy one amongst us,
+“Here’s Rachel, sir,” said [[Arthur]], the only truly happy one amongst us,
 
 directing my attention to that worthy individual, who had just entered
 
@@ -35991,7 +35991,7 @@ unstinted still, and unconcealed in its glossy luxuriance.
 
 “Mamma has left off her widow’s cap in [[Honour|honour]] of uncle’s [[Marriage|marriage]],”
 
-observed [[arthur|Arthur]], reading my looks with a [[Child|child]]’s mingled simplicity and
+observed [[Arthur]], reading my looks with a [[Child|child]]’s mingled simplicity and
 
 quickness of observation. Mamma looked [[Grave|grave]] and Mrs. Maxwell shook her
 
@@ -36137,7 +36137,7 @@ over a dozen [[Leaves|leaves]] at once.
 
 
 
-There was a pause, of which [[arthur|Arthur]] thought he might venture to avail
+There was a pause, of which [[Arthur]] thought he might venture to avail
 
 himself to introduce his handsome young setter, and show me how
 
@@ -36327,7 +36327,7 @@ immediately letting it go.
 
 
 
-“Wait till [[arthur|Arthur]] comes, at least.”
+“Wait till [[Arthur]] comes, at least.”
 
 
 
@@ -36557,7 +36557,7 @@ rash, wild step, because she could not imagine how [[Well|well]] I know you; but
 
 she must know you herself, and learn to like you. You must leave us
 
-now, after lunch, and come again in [[spring]], and make a longer stay, and
+now, after lunch, and come again in [[Spring|spring]], and make a longer stay, and
 
 cultivate her acquaintance, and I know you will like each other.”
 
@@ -36661,11 +36661,11 @@ month had occurred both the ill-starred [[Marriage|marriage]] that had bound her
 
 her former husband, and the terrible [[Death|death]] that released her—“and
 
-therefore I said another year, in [[spring]].”
+therefore I said another year, in [[Spring|spring]].”
 
 
 
-“_Next_ [[spring]]?”
+“_Next_ [[Spring|spring]]?”
 
 
 
@@ -36681,7 +36681,7 @@ therefore I said another year, in [[spring]].”
 
 
 
-While she was speaking [[arthur|Arthur]] re-entered the room—good boy for keeping
+While she was speaking [[Arthur]] re-entered the room—good boy for keeping
 
 out so long.
 
@@ -36789,7 +36789,7 @@ shall be as dear to me as that of my own mother.”
 
 “Thank you, darling! you shall have a kiss for that. Good-by. There
 
-now—there, Gilbert—let me go—here’s [[arthur|Arthur]]; don’t astonish his
+now—there, Gilbert—let me go—here’s [[Arthur]]; don’t astonish his
 
 infantile brain with your [[Madness|madness]].”
 
@@ -36809,7 +36809,7 @@ add a few words more; because I know you will have a fellow-feeling for
 
 the old lady, and will wish to know the last of her [[history]]. I did come
 
-again in [[spring]], and, agreeably [[To Helen|to Helen]]’s injunctions, did my best to
+again in [[Spring|spring]], and, agreeably [[To Helen|to Helen]]’s injunctions, did my best to
 
 cultivate her acquaintance. She received me very kindly, having been,
 

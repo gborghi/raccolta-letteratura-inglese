@@ -14,6 +14,33 @@ tags:
 </nav>
 
 
+Three more years passed, and the last book which Browning published in
+his lifetime was _Parleyings with Certain People of Importance in
+their Day_, a book which consists of apostrophes, amicable, furious,
+reverential, satirical, emotional to a number of people of whom the
+vast majority even of cultivated people have never heard in their
+lives--Daniel Bartoli, Francis Furini, Gerard de Lairesse, and Charles
+Avison. This extraordinary knowledge of the fulness of [[history]] was a
+thing which never ceased to characterise Browning even when he was
+unfortunate in every other literary quality. Apart altogether from
+every line he ever wrote, it may fairly be said that no mind so rich
+as his ever carried its treasures to the [[Grave|grave]]. All these later [[Poems|poems]]
+are vigorous, learned, and full-blooded. They are thoroughly
+characteristic of their author. But nothing in them is quite so
+characteristic of their author as this fact, that when he had
+published all of them, and was already near to his last day, he turned
+with the energy of a boy let out of school, and began, of all things
+in the world, to re-write and improve "Pauline," the boyish poem that
+he had written fifty-five years before. Here was a man covered with
+glory and near to the doors of [[Death|death]], who was prepared to give himself
+the elaborate trouble of reconstructing the mood, and rebuilding the
+verses of a long juvenile poem which had been forgotten for fifty
+years in the blaze of successive victories. It is such things as these
+which give to Browning an interest of personality which is far beyond
+the more interest of genius. It was of such things that Elizabeth
+Barrett wrote in one of her best moments of insight--that his genius
+was the least important thing about him.
+
 During all these later years, Browning's life had been a quiet and
 regular one. He always spent the [[Winter|winter]] in [[Italy]] and the [[Summer|summer]] in
 [[London]], and carried his old [[Love|love]] of precision to the extent of never

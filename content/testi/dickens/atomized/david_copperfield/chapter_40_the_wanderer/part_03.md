@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 40: THE WANDERER (part 3)"
+title: "David Copperfield — Chapter 40: THE WANDERER (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_40_the_wanderer/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_41_doras_aunts/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘How long ago?’ I asked.
+
+‘A matter o’ fower days,’ said Mr. Peggotty. ‘I sighted the old boat
+arter dark, and the light a-shining in the winder. When I come nigh and
+looked in through the glass, I see the faithful creetur Missis Gummidge
+sittin’ by the [[Fire|fire]], as we had fixed upon, [[Alone|alone]]. I called out, “Doen’t
+be afeerd! It’s Dan’l!” and I went in. I never could have thowt the old
+boat would have been so strange!’ From some pocket in his breast, he
+took out, with a very careful hand a small paper bundle containing two
+or three letters or little packets, which he laid upon the table.
 
 ‘This fust one come,’ he said, selecting it from the rest, ‘afore I had
 been gone a week. A fifty pound Bank note, in a sheet of paper, directed
@@ -48,7 +59,7 @@ eyes again!
 ‘Dear, if your heart is hard towards me--justly hard, I know--but,
 listen, if it is hard, dear, ask him I have wronged the most--him whose
 wife I was to have been--before you quite decide against my poor poor
-[[Prayer|prayer]]! If he should be so compassionate as to say that you might write
+[[prayer]]! If he should be so compassionate as to say that you might write
 something for me to read--I think he would, oh, I think he would, if you
 would only ask him, for he always was so brave and so forgiving--tell
 him then (but not else), that when I hear the [[Wind|wind]] blowing at [[Night|night]],

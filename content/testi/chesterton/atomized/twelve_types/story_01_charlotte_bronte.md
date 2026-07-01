@@ -16,10 +16,6 @@ tags:
 
 CHARLOTTE BRONTE
 
-
-
-
-
 Objection is often raised against realistic [[Biography|biography]] because it reveals
 
 so much that is important and even sacred about a man's life. The real
@@ -47,8 +43,6 @@ thinks about himself as a strange animal with two legs. What a man's
 name was, what his income was, whom he married, where he lived, these
 
 are not sanctities; they are irrelevancies.
-
-
 
 A very strong case of this is the case of the Brontes. The Bronte is in
 
@@ -109,8 +103,6 @@ interior might be made [[Sublime|sublime]]. She chose the ugliest of women in th
 ugliest of centuries, and revealed within them all the hells and heavens
 
 of [[Dante]].
-
-
 
 It may, therefore, I think, be legitimately said that the externals of
 
@@ -184,8 +176,6 @@ essential is dislocated. His hands are on his legs and his feet on his
 
 arms, his nose is above his eyes, but his heart is in the right place.
 
-
-
 The great and abiding [[Truth|truth]] for which the Bronte cycle of fiction stands
 
 is a certain most important [[Truth|truth]] about the enduring spirit of youth,
@@ -247,8 +237,6 @@ as black and barren as routine. The faculty of being shy is the first
 and the most delicate of the powers of enjoyment. The [[Fear|fear]] of the Lord
 
 is the beginning of pleasure.
-
-
 
 Upon the whole, therefore, I think it may justifiably be said that the
 

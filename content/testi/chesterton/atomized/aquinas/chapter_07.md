@@ -1,5 +1,5 @@
 ---
-title: "[[aquinas]] — Chapter 8"
+title: "aquinas — Chapter 8"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/aquinas-(chesterton)"
@@ -458,7 +458,7 @@ once more.  It is four hundred years after; and this book, I [[Hope|hope]]
 (and I am happy to say I believe) will probably be lost and
 forgotten in the flood of better books about St. Thomas [[aquinas|Aquinas]],
 which are at this moment pouring from every printing-press in Europe,
-and even in England and [[America]].  Compared with such books it
+and even in England and [[america|America]].  Compared with such books it
 is obviously a very slight and amateurish production; but it is
 not likely to be burned, and if it were, it would not leave even
 a noticeable gap in the pouring mass of new and magnificent work,

@@ -1,5 +1,5 @@
 ---
-title: "[[Emma]]"
+title: "Emma"
 author: "Austen"
 unitType: work
 parentWork: "works/emma-(austen)"
@@ -1428,7 +1428,7 @@ she would ever submit to. She played and sang;—and drew in almost every
 style; but steadiness had always been wanting; and in nothing had she
 approached the degree of excellence which she would have been glad to
 command, and ought not to have failed of. She was not much deceived as
-to her own skill either as an [[artist]] or a musician, but she was not
+to her own skill either as an [[Artist|artist]] or a musician, but she was not
 unwilling to have others deceived, or sorry to know her reputation for
 accomplishment often higher than it deserved.
 
@@ -1492,7 +1492,7 @@ station over the mantelpiece.
 
 The sitting began; and Harriet, smiling and blushing, and afraid of not
 keeping her attitude and countenance, presented a very sweet mixture of
-youthful expression to the steady eyes of the [[artist]]. But there was no
+youthful expression to the steady eyes of the [[Artist|artist]]. But there was no
 doing any thing, with Mr. Elton fidgeting behind her and watching every
 touch. She gave him credit for stationing himself where he might gaze
 and gaze again without offence; but was really obliged to put an end to
@@ -3442,7 +3442,7 @@ year, and to give all such local information as could not fail of being
 interesting to a brother whose [[Home|home]] it had equally been the longest
 part of his life, and whose attachments were strong. The plan of a
 drain, the change of a fence, the felling of a tree, and the
-destination of every acre for wheat, turnips, or [[spring]] corn, was
+destination of every acre for wheat, turnips, or [[Spring|spring]] corn, was
 entered into with as much equality of interest by John, as his cooler
 manners rendered possible; and if his willing brother ever left him any
 thing to inquire about, his inquiries even approached a tone of
@@ -6354,7 +6354,7 @@ Weston’s quick amendment; and so ended a most satisfactory meeting.
 different air; James and his horses seemed not half so sluggish as
 before. When she looked at the hedges, she thought the elder at least
 must soon be coming out; and when she turned round to Harriet, she saw
-something like a look of [[spring]], a tender smile even there.
+something like a look of [[Spring|spring]], a tender smile even there.
 
 “Will Mr. [[Frank Churchill]] pass through Bath as [[Well|well]] as [[Oxford]]?”—was a
 question, however, which did not augur much.
@@ -8082,7 +8082,7 @@ himself, he was so pleased to think his master had sold so many; for
 William, you know, thinks more of his master’s profit than any thing;
 but Mrs. Hodges, he said, was quite displeased at their being all sent
 away. She could not bear that her master should not be able to have
-another apple-tart this [[spring]]. He told Patty this, but bid her not
+another apple-tart this [[Spring|spring]]. He told Patty this, but bid her not
 mind it, and be sure not to say any thing to us about it, for Mrs.
 Hodges _would_ be [[Cross|cross]] sometimes, and as long as so many sacks were
 sold, it did not signify who ate the remainder. And so Patty told me,
@@ -8795,8 +8795,8 @@ to Randalls.”
 
 “Ah!—(shaking his head)—the uncertainty of when I may be able to
 return!—I shall try for it with a zeal!—It will be the object of all my
-thoughts and cares!—and if my uncle and aunt go to town this [[spring]]—but
-I am afraid—they did not stir last [[spring]]—I am afraid it is a custom
+thoughts and cares!—and if my uncle and aunt go to town this [[Spring|spring]]—but
+I am afraid—they did not stir last [[Spring|spring]]—I am afraid it is a custom
 gone for ever.”
 
 “Our poor ball must be quite given up.”
@@ -8945,7 +8945,7 @@ deal; and afterwards, but little. She had great pleasure in hearing
 ever in seeing Mr. and Mrs. Weston; she was very often thinking of him,
 and quite impatient for a letter, that she might know how he was, how
 were his spirits, how was his aunt, and what was the chance of his
-coming to Randalls again this [[spring]]. But, on the other hand, she could
+coming to Randalls again this [[Spring|spring]]. But, on the other hand, she could
 not admit herself to be unhappy, nor, after the first morning, to be
 less disposed for employment than usual; she was still busy and
 cheerful; and, pleasing as he was, she could yet imagine him to have
@@ -9276,7 +9276,7 @@ never heard any county but Surry called so.”
 
 [[Emma]] was silenced.
 
-“My brother and sister have promised us a visit in the [[spring]], or
+“My brother and sister have promised us a visit in the [[Spring|spring]], or
 [[Summer|summer]] at farthest,” continued Mrs. Elton; “and that will be our [[Time|time]]
 for exploring. While they are with us, we shall explore a great deal, I
 dare say. They will have their barouche-landau, of course, which holds
@@ -9849,7 +9849,7 @@ the poor attempt at rout-cakes, and there being no ice in the Highbury
 card-parties. Mrs. Bates, Mrs. Perry, Mrs. Goddard and others, were a
 good deal behind-hand in knowledge of the world, but she would soon
 shew them how every thing ought to be arranged. In the course of the
-[[spring]] she must return their civilities by one very superior party—in
+[[Spring|spring]] she must return their civilities by one very superior party—in
 which her card-tables should be set out with their separate candles and
 unbroken packs in the true style—and more waiters engaged for the
 evening than their own establishment could furnish, to carry round the
@@ -9892,7 +9892,7 @@ Every invitation was successful. They were all disengaged and all
 happy.—The preparatory interest of this dinner, however, was not yet
 over. A circumstance rather unlucky occurred. The two eldest little
 Knightleys were engaged to pay their grandpapa and aunt a visit of some
-weeks in the [[spring]], and their papa now proposed bringing them, and
+weeks in the [[Spring|spring]], and their papa now proposed bringing them, and
 staying one whole day at Hartfield—which one day would be the very day
 of this party.—His professional engagements did not allow of his being
 put off, but both father and daughter were disturbed by its happening
@@ -10027,7 +10027,7 @@ authority.”
 “My advice,” said Mrs. Weston kindly and persuasively, “I certainly do
 feel tempted to give. Miss Fairfax, you must not run such risks.—Liable
 as you have been to severe colds, indeed you ought to be particularly
-careful, especially at this [[Time|time]] of year. The [[spring]] I always think
+careful, especially at this [[Time|time]] of year. The [[Spring|spring]] I always think
 requires more than common care. Better wait an hour or two, or even
 half a day for your letters, than run the risk of bringing on your
 cough again. Now do not you feel that you had? Yes, I am sure you are
@@ -10535,7 +10535,7 @@ seized the opportunity of going on.
 “You were mentioning May. May is the very month which Mrs. Churchill is
 ordered, or has ordered herself, to spend in some warmer place than
 Enscombe—in short, to spend in [[London]]; so that we have the agreeable
-prospect of frequent visits from Frank the whole [[spring]]—precisely the
+prospect of frequent visits from Frank the whole [[Spring|spring]]—precisely the
 season of the year which one should have chosen for it: days almost at
 the longest; weather genial and pleasant, always inviting one out, and
 never too hot for exercise. When he was here before, we made the best
@@ -10703,7 +10703,7 @@ incumbent on her to avoid any encouragement of his.
 She wished she might be able to keep him from an absolute declaration.
 That would be so very painful a conclusion of their present
 acquaintance! and yet, she could not help rather anticipating something
-decisive. She felt as if the [[spring]] would not pass without bringing a
+decisive. She felt as if the [[Spring|spring]] would not pass without bringing a
 crisis, an event, a something to alter her present composed and
 tranquil state.
 
@@ -10965,7 +10965,7 @@ delightful, is not it?—Where’s dear Mr. [[Richard]]?—Oh! there he is. Don�
 disturb him. Much better employed talking to the young ladies. How do
 you do, Mr. [[Richard]]?—I saw you the other day as you rode through the
 town—Mrs. Otway, I protest!—and good Mr. Otway, and Miss Otway and Miss
-Caroline.—Such a host of friends!—and Mr. George and Mr. [[Arthur]]!—How do
+Caroline.—Such a host of friends!—and Mr. George and Mr. [[arthur|Arthur]]!—How do
 you do? How do you all do?—Quite [[Well|well]], I am much obliged to you. Never
 better.—Don’t I hear another carriage?—Who can this be?—very likely the
 worthy Coles.—Upon my word, this is charming to be standing about among
@@ -11757,7 +11757,7 @@ to be heard the last two minutes, “if I must speak on this subject,
 there is no denying that Mr. [[Frank Churchill]] might have—I do not mean
 to say that he did not dream it—I am sure I have sometimes the oddest
 [[Dreams|dreams]] in the world—but if I am questioned about it, I must acknowledge
-that there was such an idea last [[spring]]; for Mrs. Perry herself
+that there was such an idea last [[Spring|spring]]; for Mrs. Perry herself
 mentioned it to my mother, and the Coles knew of it as [[Well|well]] as
 ourselves—but it was quite a secret, known to nobody else, and only
 thought of about three days. Mrs. Perry was very anxious that he should
@@ -13635,7 +13635,7 @@ idea, and I wish them very happy. But I shall always think it a very
 abominable sort of proceeding. What has it been but a system of
 hypocrisy and deceit,—espionage, and treachery?—To come among us with
 professions of openness and simplicity; and such a league in secret to
-judge us all!—Here have we been, the whole [[Winter|winter]] and [[spring]],
+judge us all!—Here have we been, the whole [[Winter|winter]] and [[Spring|spring]],
 completely duped, fancying ourselves all on an equal footing of [[Truth|truth]]
 and [[Honour|honour]], with two people in the midst of us who may have been
 carrying round, comparing and sitting in judgment on sentiments and

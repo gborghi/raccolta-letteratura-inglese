@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 9 (part 3)"
+title: "Martin Chuzzlewit — Chapter 9 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_09/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_09/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘Just like Mr Pinch, Merry!’ said [[Charity]]. ‘We have always noticed it in
+him, you remember?’
+
+‘Yes, my dear,’ giggled Merry, ‘but we have never given it him, you
+know.’
 
 ‘You, my dears, having to deal with your pa’s pupils who can’t help
 themselves, are able to take your own way,’ said Mrs Todgers; ‘but in
@@ -120,9 +126,3 @@ a premature little woman of thirteen years old, who had already arrived
 at such a pitch of whalebone and [[Education|education]] that she had nothing girlish
 about her, which was a source of great rejoicing to all her relations
 and friends.
-
-‘Visitors for Miss Pinch!’ said the footman. He must have been
-an ingenious young man, for he said it very cleverly; with a nice
-discrimination between the cold respect with which he would have
-announced visitors to the family, and the warm personal interest with
-which he would have announced visitors to the cook.

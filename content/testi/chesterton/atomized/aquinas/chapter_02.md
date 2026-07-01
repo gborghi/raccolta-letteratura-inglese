@@ -1,5 +1,5 @@
 ---
-title: "[[aquinas]] — Chapter 2"
+title: "aquinas — Chapter 2"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/aquinas-(chesterton)"
@@ -17,7 +17,6 @@ tags:
 II
 
 THE RUNAWAY ABBOT
-
 
 Thomas [[aquinas|Aquinas]], in a strange and rather symbolic manner,
 sprang out of the very centre of the civilised world of his [[Time|time]];
@@ -412,7 +411,7 @@ For the moment they had forgotten everything except the name of a family,
 that is narrower than a tribe, and far narrower than a nation.
 And the third figure of that trio, born of the same mother
 and perhaps visibly one with the others in face or form,
-had a conception of brotherhood broader than most modern [[Democracy|democracy]],
+had a conception of brotherhood broader than most modern [[democracy]],
 for it was not national but international; a [[Faith|faith]] in [[Mercy|mercy]] and modesty
 far deeper than any mere mildness of manners in the modern world;
 and a drastic oath of [[Poverty|poverty]], which would now be counted quite

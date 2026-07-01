@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 29 (part 1)"
+title: "Dombey and Son — Chapter 57 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -10,114 +10,131 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/dombey-and-son-(dickens)">Dombey and Son</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_84/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_85/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_84/part_09">‹ part 09</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_85/part_02">part 02 ›</a></div>
 </nav>
 
 
-CHAPTER XXIX.
-The Opening of the Eyes of Mrs Chick
+CHAPTER LVII.
+Another Wedding
 
 
-Miss Tox, all unconscious of any such rare appearances in connexion
-with Mr Dombey’s [[house]], as scaffoldings and ladders, and men with their
-heads tied up in pocket-handkerchiefs, glaring in at the windows like
-flying genii or strange [[Birds|birds]],—having breakfasted one morning at about
-this eventful period of [[Time|time]], on her customary viands; to wit, one
-French roll rasped, one egg new laid (or warranted to be), and one
-little pot of tea, wherein was infused one little silver scoopful of
-that herb on behalf of Miss Tox, and one little silver scoopful on
-behalf of the teapot—a flight of fancy in which good housekeepers
-delight; went upstairs to set forth the bird waltz on the harpsichord,
-to [[Water|water]] and arrange the plants, to [[Dust|dust]] the nick-nacks, and, according
-to her daily custom, to make her little drawing-room the garland of
-Princess’s Place.
+Mr Sownds the beadle, and Mrs Miff the pew-opener, are early at their
+posts in the fine church where Mr Dombey was married. A yellow-faced
+old gentleman from India, is going to take unto himself a young wife
+this morning, and six carriages full of company are expected, and Mrs
+Miff has been informed that the yellow-faced old gentleman could pave
+the [[Road|road]] to church with diamonds and hardly miss them.
 
-Miss Tox endued herself with a pair of ancient gloves, like dead
-[[Leaves|leaves]], in which she was accustomed to perform these avocations—hidden
-from human sight at other times in a table drawer—and went methodically
-to work; beginning with the bird waltz; passing, by a natural
-association of ideas, to her bird—a very high-shouldered canary,
-stricken in years, and much rumpled, but a piercing singer, as
-Princess’s Place [[Well|well]] knew; taking, next in order, the little china
-ornaments, paper fly-cages, and so forth; and coming round, in good
-[[Time|time]], to the plants, which generally required to be snipped here and
-there with a pair of scissors, for some botanical reason that was very
-powerful with Miss Tox.
+The nuptial benediction is to be a superior one, proceeding from a very
+reverend, a dean, and the lady is to be given away, as an extraordinary
+present, by somebody who comes express from the [[Horse]] Guards.
 
-Miss Tox was slow in coming to the plants, this morning. The weather
-was warm, the [[Wind|wind]] southerly; and there was a sigh of the [[Summer|summer]]-[[Time|time]]
-in Princess’s Place, that turned Miss Tox’s thoughts upon the country.
-The pot-boy attached to the Princess’s Arms had come out with a can and
-trickled [[Water|water]], in a flowering pattern, all over Princess’s Place, and
-it gave the weedy ground a fresh scent—quite a growing scent, Miss Tox
-said. There was a tiny blink of sun peeping in from the great street
-round the corner, and the smoky sparrows hopped over it and back again,
-brightening as they passed: or bathed in it, like a stream, and became
-glorified sparrows, unconnected with chimneys. Legends in praise of
-Ginger-Beer, with pictorial representations of thirsty customers
-submerged in the effervescence, or stunned by the flying corks, were
-conspicuous in the [[Window|window]] of the Princess’s Arms. They were making late
-hay, somewhere out of town; and though the fragrance had a long way to
-come, and many counter fragrances to contend with among the dwellings
-of the poor (may God reward the worthy gentlemen who stickle for the
-Plague as part and parcel of the wisdom of our ancestors, and who do
-their little best to keep those dwellings miserable!), yet it was
-wafted faintly into Princess’s Place, whispering of [[Nature]] and her
-wholesome air, as such things will, even unto prisoners and captives,
-and those who are desolate and oppressed, in very spite of aldermen and
-knights to boot: at whose sage nod—and how they nod!—the [[rolling]] world
-stands still!
+Mrs Miff is more intolerant of common people this morning, than she
+generally is; and she has always strong opinions on that subject, for
+it is associated with free sittings. Mrs Miff is not a student of
+political economy (she thinks the science is connected with dissenters;
+“Baptists or Wesleyans, or some o’ them,” she says), but she can never
+understand what business your common folks have to be married. “Drat
+’em,” says Mrs Miff “you read the same things over ’em and instead of
+sovereigns get sixpences!”
 
-Miss Tox sat down upon the [[Window|window]]-seat, and thought of her good Papa
-deceased—Mr Tox, of the Customs Department of the public service; and
-of her [[Childhood|childhood]], passed at a seaport, among a considerable quantity of
-cold tar, and some rusticity. She fell into a softened remembrance of
-meadows, in old [[Time|time]], gleaming with buttercups, like so many inverted
-firmaments of golden [[Stars|stars]]; and how she had made [[Chains|chains]] of
-dandelion-stalks for youthful vowers of eternal constancy, dressed
-chiefly in nankeen; and how soon those fetters had withered and broken.
+Mr Sownds the beadle is more liberal than Mrs Miff—but then he is not a
+pew-opener. “It must be done, Ma’am,” he says. “We must marry ’em. We
+must have our national schools to walk at the head of, and we must have
+our standing armies. We must marry ’em, Ma’am,” says Mr Sownds, “and
+keep the country going.”
 
-Sitting on the [[Window|window]]-seat, and looking out upon the sparrows and the
-blink of sun, Miss Tox thought likewise of her good Mama
-deceased—sister to the owner of the powdered head and pigtail—of her
-virtues and her rheumatism. And when a man with bulgy legs, and a rough
-voice, and a heavy basket on his head that crushed his hat into a mere
-black muffin, came crying [[Flowers|flowers]] down Princess’s Place, making his
-timid little roots of daisies shudder in the vibration of every yell he
-gave, as though he had been an ogre, hawking little children, [[Summer|summer]]
-recollections were so strong upon Miss Tox, that she shook her head,
-and murmured she would be comparatively old before she knew it—which
-seemed likely.
+Mr Sownds is sitting on the steps and Mrs Miff is dusting in the
+church, when a young couple, plainly dressed, come in. The mortified
+bonnet of Mrs Miff is sharply turned towards them, for she espies in
+this early visit indications of a runaway match. But they don’t want to
+be married—“Only,” says the gentleman, “to walk round the church.” And
+as he slips a genteel compliment into the palm of Mrs Miff, her
+vinegary face relaxes, and her mortified bonnet and her spare dry
+figure dip and crackle.
 
-In her pensive mood, Miss Tox’s thoughts went wandering on Mr Dombey’s
-track; probably because the Major had returned [[Home|home]] to his lodgings
-opposite, and had just bowed to her from his [[Window|window]]. What other reason
-could Miss Tox have for connecting Mr Dombey with her [[Summer|summer]] days and
-dandelion fetters? Was he more cheerful? thought Miss Tox. Was he
-reconciled to the decrees of fate? Would he ever marry again? and if
-yes, whom? What sort of person now!
+Mrs Miff resumes her dusting and plumps up her cushions—for the
+yellow-faced old gentleman is reported to have tender knees—but keeps
+her glazed, pew-opening eye on the young couple who are walking round
+the church. “Ahem,” coughs Mrs Miff whose cough is drier than the hay
+in any hassock in her charge, “you’ll come to us one of these mornings,
+my dears, unless I’m much mistaken!”
 
-A flush—it was warm weather—overspread Miss Tox’s face, as, while
-entertaining these meditations, she turned her head, and was surprised
-by the reflection of her thoughtful image in the chimney-glass. Another
-flush succeeded when she saw a little carriage drive into Princess’s
-Place, and make straight for her own door. Miss Tox arose, took up her
-scissors hastily, and so coming, at last, to the plants, was very busy
-with them when Mrs Chick entered the room.
+They are looking at a tablet on the wall, erected to the [[Memory|memory]] of
+someone dead. They are a long way off from Mrs Miff, but Mrs Miff can
+see with half an eye how she is leaning on his arm, and how his head is
+bent down over her. “[[Well]], [[Well|well]],” says Mrs Miff, “you might do worse.
+For you’re a tidy pair!”
 
-“How is my sweetest friend!” exclaimed Miss Tox, with open arms.
+There is nothing personal in Mrs Miff’s remark. She merely speaks of
+stock-in-trade. She is hardly more curious in couples than in coffins.
+She is such a spare, straight, dry old lady—such a pew of a woman—that
+you should find as many individual sympathies in a chip. Mr Sownds,
+now, who is fleshy, and has scarlet in his coat, is of a different
+temperament. He says, as they stand upon the steps watching the young
+couple away, that she has a pretty figure, hasn’t she, and as [[Well|well]] as
+he could see (for she held her head down coming out), an uncommon
+pretty face. “Altogether, Mrs Miff,” says Mr Sownds with a relish, “she
+is what you may call a [[Rose|rose]]-bud.”
 
-A little stateliness was mingled with Miss Tox’s sweetest friend’s
-demeanour, but she kissed Miss Tox, and said, “Lucretia, thank you, I
-am pretty [[Well|well]]. I [[Hope|hope]] you are the same. Hem!”
+Mrs Miff assents with a spare nod of her mortified bonnet; but approves
+of this so little, that she inwardly resolves she wouldn’t be the wife
+of Mr Sownds for any money he could give her, Beadle as he is.
 
-Mrs Chick was labouring under a peculiar little monosyllabic cough; a
-sort of primer, or easy introduction to the art of coughing.
+And what are the young couple saying as they leave the church, and go
+out at the gate?
 
-“You call very early, and how kind that is, my dear!” pursued Miss Tox.
-“Now, have you breakfasted?”
+“Dear Walter, thank you! I can go away, now, happy.”
 
-“Thank you, Lucretia,” said Mrs Chick, “I have. I took an early
-breakfast”—the good lady seemed curious on the subject of Princess’s
-Place, and looked all round it as she spoke—“with my brother, who has
-come [[Home|home]].”
+“And when we come back, Florence, we will come and see his [[Grave|grave]]
+again.”
+
+Florence lifts her eyes, so bright with [[Tears|tears]], to his kind face; and
+clasps her disengaged hand on that other modest little hand which
+clasps his arm.
+
+“It is very early, Walter, and the streets are almost empty yet. Let us
+walk.”
+
+“But you will be so tired, my [[Love|love]].”
+
+“Oh no! I was very tired the first [[Time|time]] that we ever walked together,
+but I shall not be so today.”
+
+And thus—not much changed—she, as [[Innocent|innocent]] and earnest-hearted—he, as
+frank, as hopeful, and more proud of her—Florence and Walter, on their
+bridal morning, walk through the streets together.
+
+Not even in that childish walk of long ago, were they so far removed
+from all the world about them as today. The childish feet of long ago,
+did not tread such enchanted ground as theirs do now. The confidence
+and [[Love|love]] of children may be given many times, and will [[spring]] up in
+many places; but the woman’s heart of Florence, with its undivided
+treasure, can be yielded only once, and under slight or change, can
+only droop and die.
+
+They take the streets that are the quietest, and do not go near that in
+which her old [[Home|home]] stands. It is a fair, warm [[Summer|summer]] morning, and the
+sun shines on them, as they walk towards the darkening mist that
+overspreads the [[City]]. Riches are uncovering in shops; jewels, gold, and
+silver flash in the goldsmith’s sunny windows; and great houses cast a
+stately shade upon them as they pass. But through the light, and
+through the shade, they go on lovingly together, lost to everything
+around; thinking of no other riches, and no prouder [[Home|home]], than they
+have now in one another.
+
+Gradually they come into the darker, narrower streets, where the sun,
+now yellow, and now red, is seen through the mist, only at street
+corners, and in small open spaces where there is a tree, or one of the
+innumerable churches, or a paved way and a flight of steps, or a
+curious little patch of [[Garden|garden]], or a burying-ground, where the few
+tombs and tombstones are almost black. Lovingly and trustfully, through
+all the narrow yards and alleys and the shady streets, Florence goes,
+clinging to his arm, to be his wife.
+
+Her heart beats quicker now, for Walter tells her that their church is
+very near. They pass a few great stacks of warehouses, with waggons at
+the doors, and busy carmen stopping up the way—but Florence does not
+see or hear them—and then the air is quiet, and the day is darkened,
+and she is trembling in a church which has a strange smell like a
+cellar.

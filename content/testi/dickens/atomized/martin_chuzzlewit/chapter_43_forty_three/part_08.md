@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 43: FORTY THREE (part 8)"
+title: "Martin Chuzzlewit — Chapter 43: FORTY THREE (part 8)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -10,9 +10,70 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/martin-chuzzlewit-(dickens)">Martin Chuzzlewit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_43_forty_three/part_07">‹ part 07</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_44_forty_four/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_43_forty_three/part_07">‹ part 07</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_43_forty_three/part_09">part 09 ›</a></div>
 </nav>
 
+
+‘Yes.’
+
+‘And he assists him in it?’
+
+‘No,’ she answered eagerly.
+
+‘Thank Heaven!’ cried Martin, ‘that it [[Leaves|leaves]] his mind unclouded in that
+one respect!’
+
+‘I do not think,’ said Mary, ‘it was known to him at first. When
+this man had sufficiently prepared his mind, he revealed it to him by
+degrees. I think so, but I only know it from my own impression: now from
+anything they told me. Then he spoke to me [[Alone|alone]].’
+
+‘My grandfather did?’ said Martin.
+
+‘Yes--spoke to me [[Alone|alone]], and told me--’
+
+‘What the hound had said,’ cried Martin. ‘Don’t repeat it.’
+
+‘And said I knew [[Well|well]] what qualities he possessed; that he was
+moderately rich; in good repute; and high in his favour and confidence.
+But seeing me very much distressed, he said that he would not control
+or force my inclinations, but would content himself with telling me the
+fact. He would not [[Pain|pain]] me by dwelling on it, or reverting to it; nor
+has he ever done so since, but has truly kept his word.’
+
+‘The man himself?--’ asked Martin.
+
+‘He has had few opportunities of pursuing his suit. I have never walked
+out [[Alone|alone]], or remained [[Alone|alone]] an instant in his presence. Dear Martin, I
+must tell you,’ she continued, ‘that the kindness of your grandfather
+to me remains unchanged. I am his companion still. An indescribable
+tenderness and compassion seem to have mingled themselves with his old
+regard; and if I were his only [[Child|child]], I could not have a gentler father.
+What former fancy or old habit survives in this, when his heart has
+turned so cold to you, is a mystery I cannot penetrate; but it has been,
+and it is, a happiness to me, that I remained true to him; that if he
+should wake from his delusion, even at the point of [[Death|death]], I am here,
+[[Love|love]], to recall you to his thoughts.’
+
+Martin looked with admiration on her glowing face, and pressed his lips
+to hers.
+
+‘I have sometimes heard, and read,’ she said, ‘that those whose powers
+had been enfeebled long ago, and whose lives had faded, as it were, into
+[[A Dream|a dream]], have been known to rouse themselves before [[Death|death]], and inquire
+for familiar faces once very dear to them; but forgotten, unrecognized,
+hated even, in the meantime. Think, if with his old impressions of this
+man, he should suddenly resume his former [[Self|self]], and find in him his only
+friend!’
+
+‘I would not urge you to abandon him, dearest,’ said Martin, ‘though I
+could count the years we are to wear out asunder. But the influence this
+fellow exercises over him has steadily increased, I [[Fear|fear]].’
+
+She could not help admitting that. Steadily, imperceptibly, and surely,
+until it was paramount and supreme. She herself had none; and yet
+he treated her with more affection than at any previous [[Time|time]]. Martin
+thought the inconsistency a part of his weakness and [[Decay|decay]].
 
 ‘Does the influence extend to [[Fear|fear]]?’ said Martin. ‘Is he timid of
 asserting his own opinion in the presence of this infatuation? I fancied
@@ -69,52 +130,3 @@ this moment. He raised his eyes at the mention of the architect’s name;
 and when he had gone on a few yards, stopped and gazed at them. Mr
 Tapley, also, looked over his shoulder, and so did Martin; for the
 stranger, as he passed, had looked very sharply at them.
-
-‘Who may that be, I [[Wonder|wonder]]!’ said Martin. ‘The face seems familiar to
-me, but I don’t know the man.’
-
-‘He seems to have a amiable [[Desire|desire]] that his face should be tolerable
-familiar to us,’ said Mr Tapley, ‘for he’s a-staring pretty hard. He’d
-better not waste his [[Beauty|beauty]], for he ain’t got much to spare.’
-
-Coming in sight of the Dragon, they saw a travelling carriage at the
-door.
-
-‘And a Salisbury carriage, eh?’ said Mr Tapley. ‘That’s what he came in
-depend upon it. What’s in the [[Wind|wind]] now? A new pupil, I shouldn’t [[Wonder|wonder]].
-P’raps it’s a order for another grammar-school, of the same pattern as
-the last.’
-
-Before they could enter at the door, Mrs Lupin came running out; and
-beckoning them to the carriage showed them a portmanteau with the name
-of CHUZZLEWIT upon it.
-
-‘Miss Pecksniff’s husband that was,’ said the good woman to Martin. ‘I
-didn’t know what terms you might be on, and was quite in a worry till
-you came back.’
-
-‘He and I have never interchanged a word yet,’ observed Martin; ‘and as
-I have no wish to be better or worse acquainted with him, I will not put
-myself in his way. We passed him on the [[Road|road]], I have no [[Doubt|doubt]]. I am glad
-he timed his coming as he did. Upon my word! Miss Pecksniff’s husband
-travels gayly!’
-
-‘A very fine-looking gentleman with him--in the best room now,’
-whispered Mrs Lupin, glancing up at the [[Window|window]] as they went into the
-[[house]]. ‘He has ordered everything that can be got for dinner; and has
-the glossiest moustaches and whiskers ever you saw.’
-
-‘Has he?’ cried Martin, ‘why then we’ll endeavour to avoid him too, in
-the [[Hope|hope]] that our [[Self|self]]-denial may be strong enough for the sacrifice.
-It is only for a few hours,’ said Martin, dropping wearily into a chair
-behind the little screen in the bar. ‘Our visit has met with no [[success]],
-my dear Mrs Lupin, and I must go to [[London]].’
-
-‘Dear, dear!’ cried the hostess.
-
-‘Yes, one foul [[Wind|wind]] no more makes a [[Winter|winter]], than one [[Swallow|swallow]] makes a
-[[Summer|summer]]. I’ll try it again. [[Tom Pinch]] has succeeded. With his advice to
-guide me, I may do the same. I took Tom under my protection once, God
-save the mark!’ said Martin, with a [[Melancholy|melancholy]] smile; ‘and promised I
-would make his fortune. Perhaps Tom will take me under HIS protection
-now, and teach me how to earn my bread.’

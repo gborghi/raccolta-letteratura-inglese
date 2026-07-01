@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 11 (part 3)"
+title: "Our Mutual Friend — Chapter 15 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,136 +14,126 @@ tags:
 </nav>
 
 
-Bella felt conscious, in spite of her late pledge for herself, that her
-husband’s absence would give disagreeable occasion for surprise to the
-Milveys. Nor could she appear quite at her ease when Mrs Milvey asked:
+He outwalked the short day, and was on the towing-path by the [[River|river]],
+somewhat footsore, when the [[Night|night]] closed in. Still two or three miles
+short of the Lock, he slackened his pace then, but went steadily on. The
+ground was now covered with [[Snow|snow]], though thinly, and there were floating
+lumps of ice in the more exposed parts of the [[River|river]], and broken sheets
+of ice under the shelter of the banks. He took heed of nothing but the
+ice, the [[Snow|snow]], and the distance, until he saw a light ahead, which he
+knew gleamed from the Lock [[house|House]] [[Window|window]]. It arrested his steps, and he
+looked all around. The ice, and the [[Snow|snow]], and he, and the one light, had
+absolute possession of the dreary scene. In the distance before him, lay
+the place where he had struck the worse than useless blows that mocked
+him with Lizzie’s presence there as Eugene’s wife. In the distance
+behind him, lay the place where the children with pointing arms had
+seemed to devote him to the demons in crying out his name. Within there,
+where the light was, was the man who as to both distances could give him
+up to ruin. To these limits had his world shrunk.
 
-‘HOW is Mr Rokesmith, and IS he gone before us, or DOES he follow us?’
+He mended his pace, keeping his eyes upon the light with a strange
+intensity, as if he were taking aim at it. When he approached it so
+nearly as that it parted into rays, they seemed to fasten themselves
+to him and draw him on. When he struck the door with his hand, his foot
+followed so quickly on his hand, that he was in the room before he was
+bidden to enter.
 
-It becoming necessary, upon this, to send him to bed again and hold him
-in waiting to be lanced again, Bella did it. But not half as [[Well|well]] on
-the second occasion as on the first; for, a twice-told white one seems
-almost to become a black one, when you are not used to it.
+The light was the joint product of a [[Fire|fire]] and a candle. Between the two,
+with his feet on the iron fender, sat Riderhood, pipe in mouth.
 
-‘Oh DEAR!’ said Mrs Milvey, ‘I am SO sorry! Mr Rokesmith took SUCH an
-interest in [[Lizzie Hexam]], when we were there before. And if we had ONLY
-known of his face, we COULD have given him something that would have
-kept it down long enough for so SHORT a purpose.’
+He looked up with a surly nod when his visitor came in. His visitor
+looked down with a surly nod. His outer clothing removed, the visitor
+then took a seat on the opposite side of the [[Fire|fire]].
 
-By way of making the white one whiter, Bella hastened to stipulate that
-he was not in [[Pain|pain]]. Mrs Milvey was SO glad of it.
+‘Not a smoker, I think?’ said Riderhood, pushing a bottle to him across
+the table.
 
-‘I don’t know HOW it is,’ said Mrs Milvey, ‘and I am SURE you don’t,
-Frank, but the clergy and their wives seem to CAUSE swelled faces.
-Whenever I take notice of a [[Child|child]] in the school, it seems to me as if
-its face swelled INSTANTLY. Frank NEVER makes acquaintance with a new
-old woman, but she gets the face-ache. And another thing is, we DO make
-the poor children sniff so. I don’t know HOW we do it, and I should
-be so glad not to; but the MORE we take notice of them, the MORE they
-sniff. Just as they do when the text is given out.—Frank, that’s a
-schoolmaster. I have seen him somewhere.’
+‘No.’
 
-The reference was to a young man of reserved appearance, in a coat and
-waistcoat of black, and pantaloons of pepper and salt. He had come
-into the office of the station, from its interior, in an unsettled way,
-immediately after Lightwood had gone out to the train; and he had been
-hurriedly reading the printed bills and notices on the wall. He had had
-a wandering interest in what was said among the people waiting there
-and passing to and fro. He had drawn nearer, at about the [[Time|time]] when
-Mrs Milvey mentioned [[Lizzie Hexam]], and had remained near, since: though
-always glancing towards the door by which Lightwood had gone out. He
-stood with his back towards them, and his gloved hands clasped behind
-him. There was now so evident a faltering upon him, expressive of
-indecision whether or no he should express his having heard himself
-referred to, that Mr Milvey spoke to him.
+They both lapsed into [[Silence|silence]], with their eyes upon the [[Fire|fire]].
 
-‘I cannot recall your name,’ he said, ‘but I remember to have seen you
-in your school.’
+‘You don’t need to be told I am here,’ said Bradley at length. ‘Who is
+to begin?’
 
-‘My name is [[Bradley Headstone]], sir,’ he replied, backing into a more
-retired place.
+‘I’ll begin,’ said Riderhood, ‘when I’ve smoked this here pipe out.’
 
-‘I ought to have remembered it,’ said Mr Milvey, giving him his hand. ‘I
-[[Hope|hope]] you are [[Well|well]]? A little overworked, I am afraid?’
+He finished it with great deliberation, knocked out the ashes on the
+hob, and put it by.
 
-‘Yes, I am overworked just at present, sir.’
+‘I’ll begin,’ he then repeated, ‘[[Bradley Headstone]], Master, if you wish
+it.’
 
-‘Had no play in your last holiday [[Time|time]]?’
+‘Wish it? I wish to know what you want with me.’
 
-‘No, sir.’
+‘And so you shall.’ Riderhood had looked hard at his hands and his
+pockets, apparently as a precautionary measure lest he should have any
+weapon about him. But, he now leaned forward, turning the collar of
+his waistcoat with an inquisitive finger, and asked, ‘Why, where’s your
+watch?’
 
-‘All work and no play, Mr Headstone, will not make dulness, in your
-case, I dare say; but it will make dyspepsia, if you don’t take care.’
+‘I have left it behind.’
 
-‘I will endeavour to take care, sir. Might I beg leave to speak to you,
-outside, a moment?’
+‘I want it. But it can be fetched. I’ve took a fancy to it.’
 
-‘By all means.’
+Bradley answered with a contemptuous laugh.
 
-It was evening, and the office was [[Well|well]] lighted. The schoolmaster, who
-had never remitted his watch on Lightwood’s door, now moved by another
-door to a corner without, where there was more [[Shadow|shadow]] than light; and
-said, plucking at his gloves:
+‘I want it,’ repeated Riderhood, in a louder voice, ‘and I mean to have
+it.’
 
-‘One of your ladies, sir, mentioned within my hearing a name that I am
-acquainted with; I may say, [[Well|well]] acquainted with. The name of the sister
-of an old pupil of mine. He was my pupil for a long [[Time|time]], and has got on
-and gone upward rapidly. The name of Hexam. The name of [[Lizzie Hexam]].’
-He seemed to be a shy man, struggling against nervousness, and spoke in
-a very constrained way. The break he set between his last two sentences
-was quite embarrassing to his hearer.
+‘That is what you want of me, is it?’
 
-‘Yes,’ replied Mr Milvey. ‘We are going down to see her.’
+‘No,’ said Riderhood, still louder; ‘it’s on’y part of what I want of
+you. I want money of you.’
 
-‘I gathered as much, sir. I [[Hope|hope]] there is nothing amiss with the sister
-of my old pupil? I [[Hope|hope]] no bereavement has befallen her. I [[Hope|hope]] she is
-in no affliction? Has lost no—relation?’
+‘Anything else?’
 
-Mr Milvey thought this a man with a very odd manner, and a dark downward
-look; but he answered in his usual open way.
+‘Everythink else!’ roared Riderhood, in a very loud and furious way.
+‘Answer me like that, and I won’t talk to you at all.’
 
-‘I am glad to tell you, Mr Headstone, that the sister of your old pupil
-has not sustained any such loss. You thought I might be going down to
-bury some one?’
+Bradley looked at him.
 
-‘That may have been the connexion of ideas, sir, with your clerical
-character, but I was not conscious of it.—Then you are not, sir?’
+‘Don’t so much as look at me like that, or I won’t talk to you at all,’
+vociferated Riderhood. ‘But, instead of talking, I’ll bring my hand
+down upon you with all its weight,’ heavily smiting the table with great
+force, ‘and smash you!’
 
-A man with a very odd manner indeed, and with a lurking look that was
-quite oppressive.
+‘Go on,’ said Bradley, after moistening his lips.
 
-‘No. In fact,’ said Mr Milvey, ‘since you are so interested in the
-sister of your old pupil, I may as [[Well|well]] tell you that I am going down to
-marry her.’
+‘O! I’m a going on. Don’t you [[Fear|fear]] but I’ll go on full-fast enough for
+you, and fur enough for you, without your telling. Look here, Bradley
+Headstone, Master. You might have split the T’other governor to chips
+and wedges, without my caring, except that I might have come upon you
+for a glass or so now and then. Else why have to do with you at all? But
+when you copied my clothes, and when you copied my neckhankercher, and
+when you shook [[Blood|blood]] upon me after you had done the trick, you did wot
+I’ll be paid for and paid heavy for. If it come to be throw’d upon you,
+you was to be ready to throw it upon me, was you? Where else but
+in Plashwater Weir Mill Lock was there a man dressed according as
+described? Where else but in Plashwater Weir Mill Lock was there a
+man as had had words with him coming through in his boat? Look at the
+Lock-keeper in Plashwater Weir Mill Lock, in them same answering clothes
+and with that same answering red neckhankercher, and see whether his
+clothes happens to be bloody or not. Yes, they do happen to be bloody.
+Ah, you sly devil!’
 
-The schoolmaster started back.
+Bradley, very white, sat looking at him in [[Silence|silence]].
 
-‘Not to marry her, myself,’ said Mr Milvey, with a smile, ‘because I
-have a wife already. To perform the [[Marriage|marriage]] service at her wedding.’
-
-[[Bradley Headstone]] caught hold of a pillar behind him. If Mr Milvey knew
-an ashy face when he saw it, he saw it then.
-
-‘You are quite ill, Mr Headstone!’
-
-‘It is not much, sir. It will pass over very soon. I am accustomed to be
-seized with giddiness. Don’t let me detain you, sir; I stand in need
-of no assistance, I thank you. Much obliged by your sparing me these
-minutes of your [[Time|time]].’
-
-As Mr Milvey, who had no more minutes to spare, made a suitable reply
-and turned back into the office, he observed the schoolmaster to
-lean against the pillar with his hat in his hand, and to pull at his
-neckcloth as if he were trying to tear it off. The Reverend Frank
-accordingly directed the notice of one of the attendants to him, by
-saying: ‘There is a person outside who seems to be really ill, and to
-require some help, though he says he does not.’
-
-Lightwood had by this [[Time|time]] secured their places, and the departure-bell
-was about to be rung. They took their seats, and were beginning to
-move out of the station, when the same attendant came running along the
-platform, looking into all the carriages.
-
-‘Oh! You are here, sir!’ he said, springing on the step, and holding
-the [[Window|window]]-frame by his elbow, as the carriage moved. ‘That person you
-pointed out to me is in a fit.’
+‘But two could play at your game,’ said Riderhood, snapping his fingers
+at him half a dozen times, ‘and I played it long ago; long afore you
+tried your clumsy hand at it; in days when you hadn’t begun croaking
+your lecters or what not in your school. I know to a figure how you
+done it. Where you stole away, I could steal away arter you, and do it
+knowinger than you. I know how you come away from [[London]] in your own
+clothes, and where you changed your clothes, and hid your clothes. I see
+you with my own eyes take your own clothes from their hiding-place
+among them felled trees, and take a dip in the [[River|river]] to account for
+your dressing yourself, to any one as might come by. I see you rise up
+[[Bradley Headstone]], Master, where you sat down Bargeman. I see you pitch
+your Bargeman’s bundle into the [[River|river]]. I hooked your Bargeman’s bundle
+out of the [[River|river]]. I’ve got your Bargeman’s clothes, tore this way and
+that way with the scuffle, stained green with the grass, and spattered
+all over with what bust from the blows. I’ve got them, and I’ve got you.
+I don’t care a curse for the T’other governor, alive or dead, but I care
+a many curses for my own [[Self|self]]. And as you laid your plots agin me and
+was a sly devil agin me, I’ll be paid for it—I’ll be paid for it—I’ll
+be paid for it—till I’ve drained you dry!’

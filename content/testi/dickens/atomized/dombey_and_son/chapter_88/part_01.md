@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 32 (part 1)"
+title: "Dombey and Son — Chapter 60 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -10,121 +10,116 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/dombey-and-son-(dickens)">Dombey and Son</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_87/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_88/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_87/part_07">‹ part 07</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_88/part_02">part 02 ›</a></div>
 </nav>
 
 
-CHAPTER XXXII.
-The Wooden Midshipman goes to Pieces
+CHAPTER LX.
+Chiefly Matrimonial
 
 
-Honest [[Captain Cuttle]], as the weeks flew over him in his fortified
-retreat, by no means abated any of his prudent provisions against
-surprise, because of the non-appearance of the enemy. The Captain
-argued that his present security was too profound and wonderful to
-endure much longer; he knew that when the [[Wind|wind]] stood in a fair quarter,
-the weathercock was seldom nailed there; and he was too [[Well|well]] acquainted
-with the determined and dauntless character of Mrs MacStinger, to [[Doubt|doubt]]
-that that heroic woman had devoted herself to the task of his discovery
-and capture. Trembling beneath the weight of these reasons, Captain
-Cuttle lived a very close and retired life; seldom stirring abroad
-until after dark; venturing even then only into the obscurest streets;
-never going forth at all on Sundays; and both within and without the
-walls of his retreat, avoiding bonnets, as if they were worn by raging
-lions.
+The grand half-yearly festival holden by Doctor and Mrs Blimber, on
+which occasion they requested the pleasure of the company of every
+young gentleman pursuing his studies in that genteel establishment, at
+an early party, when the hour was half-past seven o’[[Clock|clock]], and when the
+object was quadrilles, had duly taken place, about this [[Time|time]]; and the
+young gentlemen, with no unbecoming demonstrations of levity, had
+betaken themselves, in a state of scholastic repletion, to their own
+homes. Mr Skettles had repaired abroad, permanently to grace the
+establishment of his father Sir Barnet Skettles, whose popular manners
+had obtained him a diplomatic appointment, the honours of which were
+discharged by himself and Lady Skettles, to the satisfaction even of
+their own countrymen and countrywomen: which was considered almost
+miraculous. Mr Tozer, now a young man of lofty stature, in Wellington
+boots, was so extremely full of antiquity as to be nearly on a par with
+a genuine ancient Roman in his knowledge of English: a triumph that
+affected his good parents with the tenderest emotions, and caused the
+father and mother of Mr Briggs (whose learning, like ill-arranged
+luggage, was so tightly packed that he couldn’t get at anything he
+wanted) to hide their diminished heads. The fruit laboriously gathered
+from the tree of knowledge by this latter young gentleman, in fact, had
+been subjected to so much pressure, that it had become a kind of
+intellectual Norfolk Biffin, and had nothing of its original form or
+flavour remaining. Master Bitherstone now, on whom the forcing system
+had the happier and not uncommon effect of leaving no impression
+whatever, when the forcing apparatus ceased to work, was in a much more
+comfortable plight; and being then on shipboard, bound for Bengal,
+found himself forgetting, with such admirable rapidity, that it was
+doubtful whether his declensions of noun-substantives would hold out to
+the end of the voyage.
 
-The Captain never dreamed that in the event of his being pounced upon
-by Mrs MacStinger, in his walks, it would be possible to offer
-resistance. He felt that it could not be done. He saw himself, in his
-mind’s eye, put meekly in a hackney-coach, and carried off to his old
-lodgings. He foresaw that, once immured there, he was a lost man: his
-hat gone; Mrs MacStinger watchful of him day and [[Night|night]]; reproaches
-heaped upon his head, before the infant family; himself the guilty
-object of suspicion and distrust; an ogre in the children’s eyes, and
-in their mother’s a detected traitor.
+When Doctor Blimber, in pursuance of the usual course, would have said
+to the young gentlemen, on the morning of the party, “Gentlemen, we
+will resume our studies on the twenty-fifth of next month,” he departed
+from the usual course, and said, “Gentlemen, when our friend
+Cincinnatus retired to his farm, he did not present to the senate any
+Roman who he sought to nominate as his successor. But there is a Roman
+here,” said Doctor Blimber, laying his hand on the shoulder of Mr
+Feeder, B.A., “adolescens imprimis gravis et doctus, gentlemen, whom I,
+a retiring Cincinnatus, wish to present to my little senate, as their
+future Dictator. Gentlemen, we will resume our studies on the
+twenty-fifth of next month, under the auspices of Mr Feeder, B.A.” At
+this (which Doctor Blimber had previously called upon all the parents,
+and urbanely explained), the young gentlemen cheered; and Mr Tozer, on
+behalf of the rest, instantly presented the Doctor with a silver
+inkstand, in a speech containing very little of the mother-tongue, but
+fifteen quotations from the Latin, and seven from the Greek, which
+moved the younger of the young gentlemen to discontent and envy: they
+remarking, “Oh, ah. It was all very [[Well|well]] for old Tozer, but they didn’t
+subscribe money for old Tozer to show off with, they supposed; did
+they? What business was it of old Tozer’s more than anybody else’s? It
+wasn’t his inkstand. Why couldn’t he leave the boys’ property [[Alone|alone]]?”
+and murmuring other expressions of their dissatisfaction, which seemed
+to find a greater relief in calling him old Tozer, than in any other
+available vent.
 
-A violent perspiration, and a lowness of spirits, always came over the
-Captain as this gloomy picture presented itself to his [[Imagination|imagination]]. It
-generally did so previous to his stealing out of doors at [[Night|night]] for air
-and exercise. Sensible of the risk he ran, the Captain took leave of
-Rob, at those times, with the solemnity which became a man who might
-never return: exhorting him, in the event of his (the Captain’s) being
-lost sight of, for a [[Time|time]], to tread in the paths of virtue, and keep
-the brazen instruments [[Well|well]] polished.
+Not a word had been said to the young gentlemen, nor a hint dropped, of
+anything like a contemplated [[Marriage|marriage]] between Mr Feeder, B.A., and the
+fair Cornelia Blimber. Doctor Blimber, especially, seemed to take pains
+to look as if nothing would surprise him more; but it was perfectly
+[[Well|well]] known to all the young gentlemen nevertheless, and when they
+departed for the society of their relations and friends, they took
+leave of Mr Feeder with awe.
 
-But not to throw away a chance; and to secure to himself a means, in
-case of the worst, of holding communication with the external world;
-[[Captain Cuttle]] soon conceived the happy idea of teaching Rob the
-Grinder some secret signal, by which that adherent might make his
-presence and fidelity known to his commander, in the hour of adversity.
-After much cogitation, the Captain decided in favour of instructing him
-to whistle the marine melody, “Oh cheerily, cheerily!” and Rob the
-Grinder attaining a point as near perfection in that accomplishment as
-a landsman could [[Hope|hope]] to reach, the Captain impressed these mysterious
-instructions on his mind:
+Mr Feeder’s most romantic visions were fulfilled. The Doctor had
+determined to paint the [[house]] outside, and put it in thorough repair;
+and to give up the business, and to give up Cornelia. The painting and
+repairing began upon the very day of the young gentlemen’s departure,
+and now behold! the wedding morning was come, and Cornelia, in a new
+pair of spectacles, was waiting to be led to the hymeneal altar.
 
-“Now, my lad, stand by! If ever I’m took—”
+The Doctor with his learned legs, and Mrs Blimber in a lilac bonnet,
+and Mr Feeder, B.A., with his long knuckles and his bristly head of
+hair, and Mr Feeder’s brother, the Reverend Alfred Feeder, M.A., who
+was to perform the ceremony, were all assembled in the drawing-room,
+and Cornelia with her orange-[[Flowers|flowers]] and bridesmaids had just come
+down, and looked, as of old, a little squeezed in appearance, but very
+charming, when the door opened, and the weak-eyed young man, in a loud
+voice, made the following proclamation:
 
-“Took, Captain!” interposed Rob, with his round eyes wide open.
+“MR AND MRS TOOTS!”
 
-“Ah!” said [[Captain Cuttle]] darkly, “if ever I goes away, meaning to come
-back to supper, and don’t come within hail again, twenty-four hours
-arter my loss, go you to Brig Place and whistle that “ere tune near my
-old moorings—not as if you was a meaning of it, you understand, but as
-if you’d drifted there, promiscuous. If I answer in that tune, you
-sheer off, my lad, and come back four-and-twenty hours arterwards; if I
-answer in another tune, do you stand off and on, and wait till I throw
-out further signals. Do you understand them orders, now?”
 
-“What am I to stand off and on of, Captain?” inquired Rob. “The
-[[Horse|horse]]-[[Road|road]]?”
+Upon which there entered Mr Toots, grown extremely stout, and on his
+arm a lady very handsomely and becomingly dressed, with very bright
+black eyes.
 
-“Here’s a smart lad for you!” cried the Captain eyeing him sternly, “as
-don’t know his own native alphabet! Go away a bit and come back again
-alternate—d’ye understand that?”
+“Mrs Blimber,” said Mr Toots, “allow me to present my wife.”
 
-“Yes, Captain,” said Rob.
+Mrs Blimber was delighted to receive her. Mrs Blimber was a little
+condescending, but extremely kind.
 
-“Very good my lad, then,” said the Captain, relenting. “Do it!”
+“And as you’ve known me for a long [[Time|time]], you know,” said Mr Toots, “let
+me assure you that she is one of the most remarkable women that ever
+lived.”
 
-That he might do it the better, [[Captain Cuttle]] sometimes condescended,
-of an evening after the shop was shut, to rehearse this scene: retiring
-into the parlour for the purpose, as into the lodgings of a
-supposititious MacStinger, and carefully observing the behaviour of his
-ally, from the hole of espial he had cut in the wall. Rob the Grinder
-discharged himself of his duty with so much exactness and judgment,
-when thus put to the proof, that the Captain presented him, at divers
-times, with seven sixpences, in token of satisfaction; and gradually
-felt stealing over his spirit the [[Resignation|resignation]] of a man who had made
-provision for the worst, and taken every reasonable precaution against
-an unrelenting fate.
+“My dear!” remonstrated Mrs Toots.
 
-Nevertheless, the Captain did not tempt ill-fortune, by being a whit
-more venturesome than before. Though he considered it a point of good
-breeding in himself, as a general friend of the family, to attend Mr
-Dombey’s wedding (of which he had heard from Mr Perch), and to show
-that gentleman a pleasant and approving countenance from the gallery,
-he had repaired to the church in a hackney cabriolet with both windows
-up; and might have scrupled even to make that venture, in his dread of
-Mrs MacStinger, but that the lady’s attendance on the ministry of the
-Reverend Melchisedech rendered it peculiarly unlikely that she would be
-found in communion with the Establishment.
+“Upon my word and [[Honour|honour]] she is,” said Mr Toots. “I—I assure you, Mrs
+Blimber, she’s a most extraordinary woman.”
 
-The Captain got safe [[Home|home]] again, and fell into the ordinary routine of
-his new life, without encountering any more direct alarm from the
-enemy, than was suggested to him by the daily bonnets in the street.
-But other subjects began to lay heavy on the Captain’s mind. Walter’s
-[[Ship|ship]] was still unheard of. No news came of old Sol Gills. Florence did
-not even know of the old man’s disappearance, and [[Captain Cuttle]] had
-not the heart to tell her. Indeed the Captain, as his own hopes of the
-generous, handsome, gallant-hearted youth, whom he had loved, according
-to his rough manner, from a [[Child|child]], began to fade, and faded more and
-more from day to day, shrunk with instinctive [[Pain|pain]] from the thought of
-exchanging a word with Florence. If he had had good news to carry to
-her, the honest Captain would have braved the newly decorated [[house]] and
-splendid furniture—though these, connected with the lady he had seen at
-church, were awful to him—and made his way into her presence. With a
-dark horizon gathering around their common hopes, however, that
-darkened every hour, the Captain almost felt as if he were a new
-misfortune and affliction to her; and was scarcely less afraid of a
-visit from Florence, than from Mrs MacStinger herself.
+Mrs Toots laughed merrily, and Mrs Blimber led her to Cornelia. Mr
+Toots having paid his respects in that direction and having saluted his
+old preceptor, who said, in allusion to his conjugal state, “[[Well]],
+Toots, [[Well|well]], Toots! So you are one of us, are you, Toots?”—retired with
+Mr Feeder, B.A., into a [[Window|window]].

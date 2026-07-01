@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 24 (part 5)"
+title: "Bleak House — Chapter 24 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_24/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_24/part_06">part 06 ›</a></div>
 </nav>
 
+
+“George!” said [[Richard]] as I called his attention to him.
+
+“You are [[Well|well]] met, sir,” he returned. “And you, miss. Could you point
+a person out for me, I want? I don’t understand these places.”
 
 Turning as he spoke and making an easy way for us, he stopped when we
 were out of the press in a corner behind a great red curtain.
@@ -135,23 +140,3 @@ do. Phil Squod, don’t you go a-sidling round the gallery like
 that”—the dirty little man was shuffling about with his shoulder
 against the wall, and his eyes on the intruder, in a manner that
 looked threatening—“because I know you and won’t have it.”
-
-“Phil!” said Mr. George.
-
-“Yes, guv’ner.”
-
-“Be quiet.”
-
-The little man, with a low growl, stood still.
-
-“Ladies and gentlemen,” said Mr. Bucket, “you’ll excuse anything that
-may appear to be disagreeable in this, for my name’s [[Inspector Bucket]]
-of the [[Detective]], and I have a duty to perform. George, I know where
-my man is because I was on the roof last [[Night|night]] and saw him through
-the skylight, and you along with him. He is in there, you know,”
-pointing; “that’s where HE is—on a sofy. Now I must see my man, and
-I must tell my man to consider himself in custody; but you know me,
-and you know I don’t want to take any uncomfortable measures. You
-give me your word, as from one man to another (and an old soldier,
-mind you, likewise), that it’s honourable between us two, and I’ll
-accommodate you to the utmost of my power.”

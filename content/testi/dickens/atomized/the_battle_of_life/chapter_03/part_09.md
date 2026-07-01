@@ -14,6 +14,42 @@ tags:
 </nav>
 
 
+Mrs. Snitchey having delivered her congratulations, took her husband
+aside.
+
+‘One moment, Mr. Snitchey,’ said that lady.  ‘It is not in my [[Nature|nature]] to
+rake up the ashes of the departed.’
+
+‘No, my dear,’ returned her husband.
+
+‘Mr. Craggs is—’
+
+‘Yes, my dear, he is deceased,’ said Snitchey.
+
+‘But I ask you if you recollect,’ pursued his wife, ‘that evening of the
+ball?  I only ask you that.  If you do; and if your [[Memory|memory]] has not
+entirely failed you, Mr. Snitchey; and if you are not absolutely in your
+dotage; I ask you to connect this [[Time|time]] with that—to remember how I begged
+and prayed you, on my knees—’
+
+‘Upon your knees, my dear?’ said Mr. Snitchey.
+
+‘Yes,’ said Mrs. Snitchey, confidently, ‘and you know it—to beware of
+that man—to observe his eye—and now to tell me whether I was right, and
+whether at that moment he knew [[Secrets|secrets]] which he didn’t choose to tell.’
+
+‘Mrs. Snitchey,’ returned her husband, in her ear, ‘Madam.  Did you ever
+observe anything in _my_ eye?’
+
+‘No,’ said Mrs. Snitchey, sharply.  ‘Don’t flatter yourself.’
+
+‘Because, Madam, that [[Night|night]],’ he continued, twitching her by the sleeve,
+‘it happens that we both knew [[Secrets|secrets]] which we didn’t choose to tell, and
+both knew just the same professionally.  And so the less you say about
+such things the better, Mrs. Snitchey; and take this as a warning to have
+wiser and more charitable eyes another [[Time|time]].  Miss Marion, I brought a
+friend of yours along with me.  Here!  Mistress!’
+
 Poor Clemency, with her apron to her eyes, came slowly in, escorted by
 her husband; the latter doleful with the presentiment, that if she
 abandoned herself to grief, the Nutmeg-Grater was done for.

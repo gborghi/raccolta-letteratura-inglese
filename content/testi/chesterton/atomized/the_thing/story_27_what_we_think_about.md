@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-thing-(chesterton)">The Thing</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_26_inge_versus_barnes">‹ Story 26 INGE VERSUS BARNES</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_28_the_optimist_as_a_suicide">Story 28 THE OPTIMIST AS A SUICIDE ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_26_inge_versus_barnes">‹ Story 26 INGE VERSUS BARNES</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_28_the_optimist_as_a_suicide_suicide">Story 28 THE OPTIMIST AS A suicide SUICIDE ›</a></div>
 </nav>
 
 
@@ -38,7 +38,7 @@ to sympathise even with snobs.  But talking about the religious
 beliefs of Mr. Arnold Bennett seems to me exactly like talking
 about the foxhunting adventures of Mr. Bernard [[Shaw]] or the favourite
 vintages of Mr. Pussyfoot Johnson or the celestial visions of
-Sir [[arthur|Arthur]] Keith or the monastic vows of Mr. Bertrand Russell.
+Sir [[Arthur]] Keith or the monastic vows of Mr. Bertrand Russell.
 Mr. Arnold Bennett has never disguised, as it seems to me,
 the essential fact that he has not got any religious beliefs;
 as religious beliefs were understood in the English language
@@ -66,7 +66,7 @@ venture to enquire how the atheist could possibly form any notion
 of what General Booth thought, in such complete contradiction
 to everything he said.  Or I myself, on the other hand, might seem
 less than graceful, if I were to suggest that Mr. Arnold Bennett must
-be concealing his [[Conversion|conversion]] out of cowardice; and were to express
+be concealing his [[conversion]] out of cowardice; and were to express
 it in the form:  "Mr. Bennett will never tell us the [[Truth|truth]] about it;
 for all we know he is Papist enough in his own thoughts."
 I might even be [[Cross|cross]]-examined about how I had come to form
@@ -106,7 +106,7 @@ Now what we have really got to hammer into the heads of all
 these people, somehow, is that a thinking man can think himself
 deeper and deeper into Catholicism, and not deeper and deeper
 into difficulties about Catholicism.  We have got to make them
-see that [[Conversion|conversion]] is the beginning of an active, fruitful,
+see that [[conversion]] is the beginning of an active, fruitful,
 progressive and even adventurous life of the intellect.  For THAT is
 the thing that they cannot at present bring themselves to believe.
 They honestly say to themselves:  "What can he be thinking about,

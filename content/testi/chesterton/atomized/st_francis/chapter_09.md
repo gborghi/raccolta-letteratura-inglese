@@ -16,10 +16,7 @@ tags:
 
 Chapter IX
 
-
-
 MIRACLES AND [[Death|DEATH]]
-
 
 The tremendous story of the Stigmata of St. Francis, which was
 the end of the last chapter, was in some sense the end of his life.
@@ -381,7 +378,7 @@ it is truer to say in this sense that there was only one Franciscan,
 whose name was Francis.  Huge and happy as was the popular work he left
 behind him, there was something that he could not leave behind,
 any more than a landscape painter can leave his eyes in his will.
-It was an [[Artist|artist]] in life who was here called to be an [[Artist|artist]]
+It was an [[artist]] in life who was here called to be an [[artist]]
 in [[Death|death]]; and he had a better right than Nero, his anti-type,
 to say Qualis artifexpereo.  For Nero's life was full of posing
 for the occasion like that of an actor; while the Umbrian's

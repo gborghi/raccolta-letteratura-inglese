@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 32 (part 5)"
+title: "Bleak House — Chapter 32 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,34 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_32/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_33/part_01">part 01 ›</a></div>
 </nav>
 
+
+Tony shakes his head. “I don’t know. Can’t imagine. If we get through
+this business without rousing his suspicions, I shall be better
+informed, no [[Doubt|doubt]]. How can I know without seeing them, when he don’t
+know himself? He is always spelling out words from them, and chalking
+them over the table and the shop-wall, and asking what this is and
+what that is; but his whole stock from beginning to end may easily be
+the waste-paper he bought it as, for anything I can say. It’s a
+monomania with him to think he is possessed of documents. He has been
+going to learn to read them this last quarter of a century, I should
+judge, from what he tells me.”
+
+“How did he first come by that idea, though? That’s the question,”
+Mr. Guppy suggests with one eye shut, after a little forensic
+meditation. “He may have found papers in something he bought, where
+papers were not supposed to be, and may have got it into his shrewd
+head from the manner and place of their concealment that they are
+worth something.”
+
+“Or he may have been taken in, in some pretended bargain. Or he may
+have been muddled altogether by long staring at whatever he HAS got,
+and by drink, and by hanging about the Lord Chancellor’s [[Court]] and
+hearing of documents for ever,” returns Mr. Weevle.
+
+Mr. Guppy sitting on the [[Window|window]]-sill, nodding his head and balancing
+all these possibilities in his mind, continues thoughtfully to tap
+it, and clasp it, and measure it with his hand, until he hastily
+draws his hand away.
 
 “What, in the devil’s name,” he says, “is this! Look at my fingers!”
 

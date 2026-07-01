@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 35 (part 3)"
+title: "Shirley — Chapter 35 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -12,6 +12,44 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_35/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_35/part_04">part 04 ›</a></div>
 </nav>
+
+
+"And I cannot bear that you should think better of me than I deserve."
+
+
+
+"[[Well]], but I half know your 'thing;' indeed, I believe I know all about
+
+it."
+
+
+
+"You do not."
+
+
+
+"I believe I do."
+
+
+
+"Whom does it concern besides me?"
+
+
+
+She coloured; she hesitated; she was silent.
+
+
+
+"Speak, Cary! Whom does it concern?"
+
+
+
+She tried to utter a name, and could not.
+
+
+
+"Tell me; there is none present but ourselves. Be frank."
+
 
 
 "But if I guess wrong?"
@@ -325,33 +363,3 @@ cherries are sour--'hung too high.'"
 "She has a pretty figure, a pretty face, beautiful hair. I acknowledge
 
 all her charms and feel none of them, or only feel them in a way she
-
-would disdain. I suppose I was truly tempted by the mere gilding of the
-
-bait. Caroline, what a noble fellow your Robert is--great, good,
-
-disinterested, and then so pure!"
-
-
-
-"But not perfect. He made a great blunder once, and we will hear no more
-
-about it."
-
-
-
-"And shall we think no more about it, Cary? Shall we not despise him in
-
-our heart--gentle but just, compassionate but upright?"
-
-
-
-"Never! We will remember that with what measure we mete it shall be
-
-measured unto us, and so we will give no scorn, only affection."
-
-
-
-"Which won't satisfy, I warn you of that. Something besides
-
-affection--something far stronger, sweeter, warmer--will be demanded one

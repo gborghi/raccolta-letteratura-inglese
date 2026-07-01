@@ -14,6 +14,18 @@ tags:
 </nav>
 
 
+Walter Carey. "I suppose they were your witnesses. But why do they
+
+turn up here at this [[Time|time]] of [[Night|night]]?"
+Morton smiled grimly. "They come here by [[Night|night]] because they would
+
+be dead men if they came here by day. They are criminals committing
+
+a crime that is more horrible here than theft or murder."
+"What crime do you mean?" asked the other, with some curiosity.
+"They are helping the law," said Morton.
+There was a [[Silence|silence]], and Sir Walter considered the papers before him
+
 with an abstracted eye. At last he spoke.
 "Quite so; but look here, if the local feeling is as lively as that
 
@@ -168,27 +180,3 @@ outlined against the daybreak and the sea.
 Something in its plain and primitive shape vaguely suggested the
 
 [[Dawn|dawn]] in the first days of the earth, in some prehistoric [[Time|time]] when
-
-even the colors were hardly created, when there was only blank
-
-daylight between cloud and clay. These dead hues were relieved only
-
-by one spot of gold—the spark of the candle alight in the [[Window|window]]
-
-of the lonely tower, and burning on into the broadening daylight. As
-
-the group of detectives, followed by a cordon of policemen, spread
-
-out into a crescent to cut off all escape, the light in the tower
-
-flashed as if it were moved for a moment, and then went out. They
-
-knew the man inside had realized the daylight and blown out his
-
-candle.
-"There are other windows, aren't there?" asked Morton, "and a door,
-
-of course, somewhere round the corner? Only a round tower has no
-
-corners."
-"Another example of my small suggestion," observed Wilson, quietly.

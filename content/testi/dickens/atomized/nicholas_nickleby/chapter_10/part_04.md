@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 10 (part 4)"
+title: "Nicholas Nickleby — Chapter 10 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -133,9 +133,3 @@ to secure him an easy independence: his share in the labours of
 the business being at present confined to spending the money, and
 occasionally, when that ran short, driving to Mr. [[Ralph Nickleby]] to
 procure discount--at a percentage--for the customers’ bills.
-
-‘My life,’ said Mr. Mantalini, ‘what a demd devil of a [[Time|time]] you have
-been!’
-
-‘I didn’t even know Mr. Nickleby was here, my [[Love|love]],’ said Madame
-Mantalini.

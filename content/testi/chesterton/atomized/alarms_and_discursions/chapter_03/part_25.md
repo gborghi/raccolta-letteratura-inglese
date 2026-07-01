@@ -14,119 +14,111 @@ tags:
 </nav>
 
 
-* * * * *
-
-Let me take one example which may mark out the outline of the contention.
-Open the nearest comic paper and let your eye rest lovingly upon
-a joke about a mother-in-law. Now, the joke, as presented for
-the populace, will probably be a simple joke; the old lady will be
-tall and stout, the hen-pecked husband will be small and cowering.
-But for all that, a mother-in-law is not a simple idea.
-She is a very subtle idea.  The problem is not that she is big
-and arrogant; she is frequently little and quite extraordinarily nice.
-The problem of the mother-in-law is that she is like the twilight:
-half one thing and half another.  Now, this twilight [[Truth|truth]],
-this fine and even tender embarrassment, might be rendered,
-as it really is, by a poet, only here the poet would have to be
-some very penetrating and sincere novelist, like George Meredith,
-or Mr. H. G. Wells, whose "Ann Veronica" I have just been reading
-with delight.  I would trust the fine poets and novelists
-because they follow the fairy clue given them in _Comic Cuts_.
-But suppose [[The Professor|the Professor]] appears, and suppose he says (as he almost
-certainly will), "A mother-in-law is merely a fellow-citizen.
-Considerations of sex should not interfere with [[Comradeship|comradeship]].
-Regard for age should not influence the intellect.  A mother-in-law
-is merely Another Mind.  We should free ourselves from these tribal
-hierarchies and degrees."  Now, when [[The Professor|the Professor]] says this (as he
-always does), I say to him, "Sir, you are coarser than _Comic Cuts_.
-You are more vulgar and blundering than the most elephantine
-music-hall artiste.  You are blinder and grosser than the mob.
-These vulgar knockabouts have, at least, got hold of a social shade
-and real mental distinction, though they can only express it clumsily.
-You are so clumsy that you cannot get hold of it at all.
-If you really cannot see that the bridegroom's mother and the bride
-have any reason for constraint or diffidence, then you are neither
-polite nor humane:  you have no sympathy in you for the deep
-and doubtful hearts of human folk."  It is better even to put
-the difficulty as the vulgar put it than to be pertly unconscious
-of the difficulty altogether.
-
-The same question might be considered [[Well|well]] enough in the old
-proverb that two is company and three is none.  This proverb
-is the [[Truth|truth]] put popularly:  that is, it is the [[Truth|truth]] put wrong.
-Certainly it is untrue that three is no company.  Three is
-splendid company:  three is the ideal number for pure [[Comradeship|comradeship]]:
-as in the Three Musketeers.  But if you reject the proverb altogether;
-if you say that two and three are the same sort of company;
-if you cannot see that there is a wider abyss between two
-and three than between three and three million--then I regret
-to inform you that you belong to the Third Class of human beings;
-that you shall have no company either of two or three, but shall
-be [[Alone|alone]] in a howling [[Desert|desert]] till you die.
+I strolled slowly back across the stretch of turf by the sunset,
+a field of the cloth of gold.  As I drew near my own [[house]],
+its huge size began to horrify me; and when I came to the porch of it
+I discovered with an [[Incredulity|incredulity]] as strong as [[Despair|despair]] that my [[house]]
+was actually bigger than myself.  A minute or two before there
+might [[Well|well]] have seemed to be a monstrous and mythical competition
+about which of the two should [[Swallow|swallow]] the other.  But I was Jonah;
+my [[house]] was the huge and hungry fish; and even as its jaws darkened
+and closed about me I had again this dreadful fancy touching the dizzy
+altitude of all the works of man.  I climbed the stairs stubbornly,
+planting each foot with savage care, as if ascending a glacier.
+When I got to a landing I was wildly relieved, and waved my hat.
+The very word "landing" has about it the wild sound of some one washed
+up by the sea.  I climbed each flight like a ladder in naked sky.
+The walls all round me failed and faded into infinity; I went up
+the ladder to my bedroom as Montrose went up the ladder to the gallows;
+_sic itur ad astra_.  Do you think this is a little fantastic--
+even a little fearful and nervous?  Believe me, it is only one of
+the wild and wonderful things that one can learn by stopping at [[Home|home]].
 
 -/-
 
-The Steward of the Chiltern Hundreds
+The Three Kinds of Men
 
-THE other day on a stray spur of the Chiltern Hills I
-climbed up upon one of those high, abrupt, windy churchyards
-from which the dead seem to look down upon all the living.
-It was a mountain of [[Ghosts|ghosts]] as Olympus was a mountain of gods.
-In that church lay the bones of great Puritan lords, of a [[Time|time]] when most
-of the power of England was Puritan, even of the Established Church.
-And below these uplifted bones lay the huge and hollow valleys
-of the English countryside, where the motors went by every now
-and then like meteors, where stood out in white squares and oblongs
-in the chequered forest many of the country seats even of those
-same families now dulled with wealth or decayed with Toryism.
-And looking over that deep green prospect on that luminous
-yellow evening, a lovely and austere thought came into my mind,
-a thought as beautiful as the green wood and as [[Grave|grave]] as the tombs.
-The thought was this:  that I should like to go into Parliament,
-quarrel with my party, accept the Stewardship of the Chiltern Hundreds,
-and then refuse to give it up.
+ROUGHLY speaking, there are three kinds of people in this world.
+The first kind of people are People; they are the largest and probably
+the most valuable class.  We owe to this class the chairs we sit down on,
+the clothes we wear, the houses we live in; and, indeed (when we
+come to think of it), we probably belong to this class ourselves.
+The second class may be called for convenience the Poets;
+they are often a nuisance to their families, but, generally speaking,
+a blessing to mankind.  The third class is that of the Professors
+or Intellectuals; sometimes described as the thoughtful people;
+and these are a blight and a desolation both to their families and
+also to mankind.  Of course, the classification sometimes overlaps,
+like all classification.  Some good people are almost poets and
+some bad poets are almost professors.  But the division follows
+lines of real psychological cleavage.  I do not offer it lightly.
+It has been the fruit of more than eighteen minutes of earnest
+reflection and research.
 
-We are so proud in England of our crazy constitutional anomalies
-that I fancy that very few readers indeed will need to be told
-about the Steward of the Chiltern Hundreds.  But in case there
-should be here or there one happy man who has never heard of such
-twisted tomfooleries, I will rapidly remind you what this legal
-fiction is.  As it is quite a voluntary, sometimes even an eager,
-affair to get into Parliament, you would naturally suppose
-that it would be also a voluntary matter to get out again.
-You would think your fellow-members would be indifferent,
-or even relieved to see you go; especially as (by another exercise
-of the shrewd, illogical old English common sense) they have carefully
-built the room too small for the people who have to sit in it.
-But not so, my pippins, as it says in the "Iliad." If you are
-merely a member of Parliament (Lord knows why) you can't resign.
-But if you are a Minister of the [[Crown]] (Lord knows why) you can.
-It is necessary to get into the Ministry in order to get out
-of the [[house|House]]; and they have to give you some office that doesn't
-exist or that nobody else wants and thus unlock the door.
-So you go to the Prime Minister, concealing your air of fatigue,
-and say, "It has been the [[Ambition|ambition]] of my life to be Steward of the
-Chiltern Hundreds."  The Prime Minister then replies, "I can imagine
-no man more fitted both morally and mentally for that high office."
-He then gives it you, and you hurriedly leave, reflecting how
-the republics of the Continent reel anarchically to and fro for lack
-of a little solid English directness and simplicity.
+The class called People (to which you and I, with no little [[Pride|pride]],
+attach ourselves) has certain casual, yet profound, assumptions,
+which are called "commonplaces," as that children are charming,
+or that twilight is sad and sentimental, or that one man fighting
+three is a fine sight.  Now, these feelings are not crude;
+they are not even simple.  The charm of children is very subtle;
+it is even complex, to the extent of being almost contradictory.
+It is, at its very plainest, mingled of a regard for hilarity and a
+regard for helplessness.  The sentiment of twilight, in the vulgarest
+drawing-room [[Song|song]] or the coarsest pair of sweethearts, is, so far
+as it goes, a subtle sentiment.  It is strangely balanced between
+[[Pain|pain]] and pleasure; it might also be called pleasure tempting [[Pain|pain]].
+The plunge of impatient chivalry by which we all admire a man
+fighting odds is not at all easy to define separately, it means
+many things, pity, dramatic surprise, a [[Desire|desire]] for justice, a delight
+in experiment and the indeterminate.  The ideas of the mob are really
+very subtle ideas; but the mob does not express them subtly.
+In fact, it does not express them at all, except on those occasions
+(now only too rare) when it indulges in insurrection and massacre.
+
+Now, this accounts for the otherwise unreasonable fact of the existence
+of Poets.  Poets are those who share these popular sentiments,
+but can so express them that they prove themselves the strange
+and delicate things that they really are.  Poets draw out the shy
+refinement of the rabble.  Where the [[Common Man|common man]] covers the queerest
+emotions by saying, "Rum little kid," Victor Hugo will write "L'art
+d'être grand-père"; where the stockbroker will only say abruptly,
+"Evenings closing in now," Mr. Yeats will write "Into the twilight";
+where the navvy can only mutter something about pluck and being
+"precious game," Homer will show you the [[Hero|hero]] in rags in his own hall
+defying the princes at their banquet.  The Poets carry the popular
+sentiments to a keener and more splendid pitch; but let it always be
+remembered that it is the popular sentiments that they are carrying.
+No man ever wrote any good poetry to show that [[Childhood|childhood]] was shocking,
+or that twilight was gay and farcical, or that a man was
+contemptible because he had crossed his single [[Sword|sword]] with three.
+The people who maintain this are the Professors, or Prigs.
 
 * * * * *
 
-Now, the thought that struck me like a thunderbolt as I sat on
-the Chiltern slope was that I would like to get the Prime Minister
-to give me the Chiltern Hundreds, and then startle and disturb him
-by showing the utmost interest in my work.  I should profess a general
-knowledge of my duties, but wish to be instructed in the details.
-I should ask to see the Under-Steward and the Under-Under-Steward,
-and all the fine staff of experienced permanent officials who are
-the glory of this department.  And, indeed, my enthusiasm would
-not be wholly unreal.  For as far as I can recollect the original
-duties of a Steward of the Chiltern Hundreds were to put down
-the outlaws and brigands in that part of the world.  [[Well]], there are
-a great many outlaws and brigands in that part of the world still,
-and though their methods have so largely altered as to require
-a corresponding alteration in the tactics of the Steward, I do
-not see why an energetic and public-spirited Steward should not
-nab them yet.
+The Poets are those who rise above the people by understanding them.
+Of course, most of the Poets wrote in prose--Rabelais, for instance,
+and Dickens.  The Prigs rise above the people by refusing
+to understand them:  by saying that all their dim,
+strange preferences are prejudices and superstitions.
+The Prigs make the people feel stupid; the Poets make the people
+feel wiser than they could have imagined that they were.
+There are many weird elements in this situation.  The oddest of all
+perhaps is the fate of the two factors in practical politics.
+The Poets who embrace and admire the people are often pelted with stones
+and crucified.  The Prigs who despise the people are often loaded
+with lands and crowned.  In the [[house|House]] of Commons, for instance,
+there are quite a number of prigs, but comparatively few poets.
+There are no People there at all.
+
+By poets, as I have said, I do not mean people who write poetry,
+or indeed people who write anything.  I mean such people as,
+having culture and [[Imagination|imagination]], use them to understand and share
+the feelings of their fellows; as against those who use them
+to rise to what they call a higher plane.  Crudely, the poet
+differs from the mob by his sensibility; [[The Professor|the professor]] differs
+from the mob by his insensibility.  He has not sufficient
+finesse and sensitiveness to sympathise with the mob.
+His only notion is coarsely to contradict it, to cut across it,
+in accordance with some egotistical plan of his own; to tell
+himself that, whatever the ignorant say, they are probably wrong.
+He forgets that ignorance often has the exquisite intuitions of [[innocence]].

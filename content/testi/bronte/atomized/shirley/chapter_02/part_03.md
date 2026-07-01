@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 2 (part 3)"
+title: "Shirley — Chapter 2 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_02/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_02/part_04">part 04 ›</a></div>
 </nav>
 
+
+attacked. Sykes, for instance, when his dressing-shop was set on [[Fire|fire]]
+
+and burned to the ground, when the cloth was torn from his tenters and
+
+left in shreds in the field, took no steps to discover or punish the
+
+miscreants: he gave up as tamely as a rabbit under the jaws of a ferret.
+
+Now I, if I know myself, should stand by my trade, my mill, and my
+
+machinery."
+
+
+
+"Helstone says these three are your gods; that the 'Orders in Council'
 
 are with you another name for the seven deadly sins; that Castlereagh is
 
@@ -36,7 +52,7 @@ myself baffled at every turn by their untoward effects."
 
 warehouse yonder, and observe how it is piled to the roof with pieces.
 
-Roakes and Pearson are in the same condition. [[America]] used to be their
+Roakes and Pearson are in the same condition. [[america|America]] used to be their
 
 market, but the Orders in Council have cut that off."
 
@@ -225,25 +241,3 @@ haggard, outline of face disturb the idea of [[Beauty|beauty]] with one of care.
 His eyes are large, and [[Grave|grave]], and gray; their expression is intent and
 
 meditative, rather searching than soft, rather thoughtful than genial.
-
-When he parts his lips in a smile, his physiognomy is agreeable--not
-
-that it is frank or cheerful even then, but you feel the influence of a
-
-certain sedate charm, suggestive, whether truly or delusively, of a
-
-considerate, perhaps a kind [[Nature|nature]], of feelings that may wear [[Well|well]] at
-
-[[Home|home]]--patient, forbearing, possibly faithful feelings. He is still
-
-young--not more than thirty; his stature is tall, his figure slender.
-
-His manner of speaking displeases. He has an outlandish accent, which,
-
-notwithstanding a studied carelessness of pronunciation and diction,
-
-grates on a British, and especially on a Yorkshire, ear.
-
-
-
-Mr. Moore, indeed, was but half a Briton, and scarcely that. He came of

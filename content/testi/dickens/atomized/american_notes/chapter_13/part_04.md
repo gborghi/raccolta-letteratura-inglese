@@ -14,6 +14,31 @@ tags:
 </nav>
 
 
+                        [Picture: The Little Wife]
+
+[[Well]], to be sure, there never was a little woman so full of [[Hope|hope]], and
+tenderness, and [[Love|love]], and anxiety, as this little woman was: and all day
+long she wondered whether ‘He’ would be at the wharf; and whether ‘He’
+had got her letter; and whether, if she sent the baby ashore by somebody
+else, ‘He’ would know it, meeting it in the street: which, seeing that he
+had never set eyes upon it in his life, was not very likely in the
+abstract, but was probable enough, to the young mother.  She was such an
+artless little creature; and was in such a sunny, beaming, hopeful state;
+and let out all this matter clinging close about her heart, so freely;
+that all the other lady passengers entered into the spirit of it as much
+as she; and the captain (who heard all about it from his wife) was
+wondrous sly, I promise you: inquiring, every [[Time|time]] we met at table, as in
+forgetfulness, whether she expected anybody to meet her at St. Louis, and
+whether she would want to go ashore the [[Night|night]] we reached it (but he
+supposed she wouldn’t), and cutting many other dry jokes of that [[Nature|nature]].
+There was one little weazen, dried-apple-faced old woman, who took
+occasion to [[Doubt|doubt]] the constancy of husbands in such circumstances of
+bereavement; and there was another lady (with a lap-dog) old enough to
+moralize on the lightness of human affections, and yet not so old that
+she could help nursing the baby, now and then, or laughing with the rest,
+when the little woman called it by its father’s name, and asked it all
+manner of fantastic questions concerning him in the joy of her heart.
+
 It was something of a blow to the little woman, that when we were within
 twenty miles of our destination, it became clearly necessary to put this
 baby to bed.  But she got over it with the same good [[Humour|humour]]; tied a
@@ -86,7 +111,7 @@ munificence of a deceased resident, who was a member of that church.  It
 also sends missionaries from hence among the Indian tribes.
 
 The Unitarian church is represented, in this remote place, as in most
-other parts of [[America]], by a gentleman of great worth and excellence.
+other parts of [[america|America]], by a gentleman of great worth and excellence.
 The poor have good reason to remember and bless it; for it befriends
 them, and aids the cause of rational [[Education|education]], without any sectarian or
 selfish views.  It is liberal in all its actions; of kind construction;

@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 9 (part 1)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 9 (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -189,13 +189,3 @@ than one wave broke over the hulk from windward in the course of five
 minutes, and the [[Wind|wind]] had abated a great deal, although still blowing a
 
 severe gale. I had not heard any of my companions speak for hours, and
-
-now called to Augustus. He replied, although very feebly, so that I
-
-could not distinguish what he said. I then spoke to Peters and to
-
-Parker, neither of whom returned any answer.
-
-
-
-Shortly after this period I fell into a state of partial insensibility,

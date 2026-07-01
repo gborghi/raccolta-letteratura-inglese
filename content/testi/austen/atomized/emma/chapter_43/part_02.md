@@ -1,5 +1,5 @@
 ---
-title: "[[Emma]] — Chapter 5 (part 2)"
+title: "Emma — Chapter 7 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/emma-(austen)"
@@ -14,106 +14,123 @@ tags:
 </nav>
 
 
-They were entering the hall. Mr. Knightley’s eyes had preceded Miss
-Bates’s in a glance at Jane. From [[Frank Churchill]]’s face, where he
-thought he saw confusion suppressed or laughed away, he had
-involuntarily turned to hers; but she was indeed behind, and too busy
-with her shawl. Mr. Weston had walked in. The two other gentlemen
-waited at the door to let her pass. Mr. Knightley suspected in Frank
-Churchill the determination of catching her eye—he seemed watching her
-intently—in vain, however, if it were so—Jane passed between them into
-the hall, and looked at neither.
+Her mutterings were chiefly to her husband; and he murmured, in reply,
 
-There was no [[Time|time]] for farther remark or explanation. The dream must be
-borne with, and Mr. Knightley must take his seat with the rest round
-the large modern circular table which [[Emma]] had introduced at Hartfield,
-and which none but [[Emma]] could have had power to place there and
-persuade her father to use, instead of the small-sized Pembroke, on
-which two of his daily meals had, for forty years been crowded. Tea
-passed pleasantly, and nobody seemed in a hurry to move.
+“Very true, my [[Love|love]], very true. Exactly so, indeed—quite unheard of—but
+some ladies say any thing. Better pass it off as a joke. Every [[Body|body]]
+knows what is due to _you_.”
 
-“Miss Woodhouse,” said [[Frank Churchill]], after examining a table behind
-him, which he could reach as he sat, “have your nephews taken away
-their alphabets—their box of letters? It used to stand here. Where is
-it? This is a sort of dull-looking evening, that ought to be treated
-rather as [[Winter|winter]] than [[Summer|summer]]. We had great amusement with those letters
-one morning. I want to puzzle you again.”
+“It will not do,” whispered Frank to [[Emma]]; “they are most of them
+affronted. I will attack them with more address. Ladies and gentlemen—I
+am ordered by Miss Woodhouse to say, that she waives her right of
+knowing exactly what you may all be thinking of, and only requires
+something very entertaining from each of you, in a general way. Here
+are seven of you, besides myself, (who, she is pleased to say, am very
+entertaining already,) and she only demands from each of you either one
+thing very clever, be it prose or verse, original or repeated—or two
+things moderately clever—or three things very dull indeed, and she
+engages to laugh heartily at them all.”
 
-[[Emma]] was pleased with the thought; and producing the box, the table was
-quickly scattered over with alphabets, which no one seemed so much
-disposed to employ as their two selves. They were rapidly forming words
-for each other, or for any [[Body|body]] else who would be puzzled. The
-quietness of the game made it particularly eligible for Mr. Woodhouse,
-who had often been distressed by the more animated sort, which Mr.
-Weston had occasionally introduced, and who now sat happily occupied in
-lamenting, with tender [[Melancholy|melancholy]], over the departure of the “poor
-little boys,” or in fondly pointing out, as he took up any stray letter
-near him, how beautifully [[Emma]] had written it.
+“Oh! very [[Well|well]],” exclaimed [[Miss Bates]], “then I need not be uneasy.
+‘Three things very dull indeed.’ That will just do for me, you know. I
+shall be sure to say three dull things as soon as ever I open my mouth,
+shan’t I? (looking round with the most good-humoured dependence on
+every [[Body|body]]’s assent)—Do not you all think I shall?”
 
-[[Frank Churchill]] placed a word before Miss Fairfax. She gave a slight
-glance round the table, and applied herself to it. Frank was next to
-[[Emma]], Jane opposite to them—and Mr. Knightley so placed as to see them
-all; and it was his object to see as much as he could, with as little
-apparent observation. The word was discovered, and with a faint smile
-pushed away. If meant to be immediately mixed with the others, and
-buried from sight, she should have looked on the table instead of
-looking just across, for it was not mixed; and Harriet, eager after
-every fresh word, and finding out none, directly took it up, and fell
-to work. She was sitting by Mr. Knightley, and turned to him for help.
-The word was _blunder_; and as Harriet exultingly proclaimed it, there
-was a blush on Jane’s cheek which gave it a meaning not otherwise
-ostensible. Mr. Knightley connected it with the dream; but how it could
-all be, was beyond his comprehension. How the delicacy, the discretion
-of his favourite could have been so lain asleep! He feared there must
-be some decided involvement. Disingenuousness and [[Double|double]] dealing seemed
-to meet him at every turn. These letters were but the vehicle for
-gallantry and trick. It was a [[Child|child]]’s play, chosen to conceal a deeper
-game on [[Frank Churchill]]’s part.
+[[Emma]] could not resist.
 
-With great indignation did he continue to observe him; with great alarm
-and distrust, to observe also his two blinded companions. He saw a
-short word prepared for [[Emma]], and given to her with a look sly and
-demure. He saw that [[Emma]] had soon made it out, and found it highly
-entertaining, though it was something which she judged it proper to
-appear to censure; for she said, “Nonsense! for shame!” He heard Frank
-Churchill next say, with a glance towards Jane, “I will give it to
-her—shall I?”—and as clearly heard [[Emma]] opposing it with eager laughing
-warmth. “No, no, you must not; you shall not, indeed.”
+“Ah! ma’am, but there may be a difficulty. Pardon me—but you will be
+limited as to number—only three at once.”
 
-It was done however. This gallant young man, who seemed to [[Love|love]] without
-feeling, and to recommend himself without complaisance, directly handed
-over the word to Miss Fairfax, and with a particular degree of sedate
-civility entreated her to study it. Mr. Knightley’s excessive curiosity
-to know what this word might be, made him seize every possible moment
-for darting his eye towards it, and it was not long before he saw it to
-be _Dixon_. [[Jane Fairfax]]’s perception seemed to accompany his; her
-comprehension was certainly more equal to the covert meaning, the
-superior intelligence, of those five letters so arranged. She was
-evidently displeased; looked up, and seeing herself watched, blushed
-more deeply than he had ever perceived her, and saying only, “I did not
-know that proper names were allowed,” pushed away the letters with even
-an angry spirit, and looked resolved to be engaged by no other word
-that could be offered. Her face was averted from those who had made the
-attack, and turned towards her aunt.
+[[Miss Bates]], deceived by the mock ceremony of her manner, did not
+immediately catch her meaning; but, when it burst on her, it could not
+anger, though a slight blush shewed that it could [[Pain|pain]] her.
 
-“Aye, very true, my dear,” cried the latter, though Jane had not spoken
-a word—“I was just going to say the same thing. It is [[Time|time]] for us to be
-going indeed. The evening is closing in, and grandmama will be looking
-for us. My dear sir, you are too obliging. We really must wish you good
-[[Night|night]].”
+“Ah!—[[Well|well]]—to be sure. Yes, I see what she means, (turning to Mr.
+Knightley,) and I will try to hold my tongue. I must make myself very
+disagreeable, or she would not have said such a thing to an old
+friend.”
 
-Jane’s alertness in moving, proved her as ready as her aunt had
-preconceived. She was immediately up, and wanting to quit the table;
-but so many were also moving, that she could not get away; and Mr.
-Knightley thought he saw another collection of letters anxiously pushed
-towards her, and resolutely swept away by her unexamined. She was
-afterwards looking for her shawl—[[Frank Churchill]] was looking also—it
-was growing dusk, and the room was in confusion; and how they parted,
-Mr. Knightley could not tell.
+“I like your plan,” cried Mr. Weston. “Agreed, agreed. I will do my
+best. I am making a conundrum. How will a conundrum reckon?”
 
-He remained at Hartfield after all the rest, his thoughts full of what
-he had seen; so full, that when the candles came to assist his
-observations, he must—yes, he certainly must, as a friend—an anxious
-friend—give [[Emma]] some hint, ask her some question. He could not see her
-in a situation of such danger, without trying to preserve her. It was
-his duty.
+“Low, I am afraid, sir, very low,” answered his son;—“but we shall be
+indulgent—especially to any one who leads the way.”
+
+“No, no,” said [[Emma]], “it will not reckon low. A conundrum of Mr.
+Weston’s shall clear him and his next neighbour. Come, sir, pray let me
+hear it.”
+
+“I [[Doubt|doubt]] its being very clever myself,” said Mr. Weston. “It is too
+much a matter of fact, but here it is.—What two letters of the alphabet
+are there, that express perfection?”
+
+“What two letters!—express perfection! I am sure I do not know.”
+
+“Ah! you will never guess. You, (to [[Emma]]), I am certain, will never
+guess.—I will tell you.—M. and A.—Em-ma.—Do you understand?”
+
+Understanding and gratification came together. It might be a very
+indifferent piece of wit, but [[Emma]] found a great deal to laugh at and
+enjoy in it—and so did Frank and Harriet.—It did not seem to touch the
+rest of the party equally; some looked very stupid about it, and Mr.
+Knightley gravely said,
+
+“This explains the sort of clever thing that is wanted, and Mr. Weston
+has done very [[Well|well]] for himself; but he must have knocked up every [[Body|body]]
+else. _Perfection_ should not have come quite so soon.”
+
+“Oh! for myself, I protest I must be excused,” said Mrs. Elton; “_I_
+really cannot attempt—I am not at all fond of the sort of thing. I had
+an acrostic once sent to me upon my own name, which I was not at all
+pleased with. I knew who it came from. An abominable puppy!—You know
+who I mean (nodding to her husband). These kind of things are very [[Well|well]]
+at Christmas, when one is sitting round the [[Fire|fire]]; but quite out of
+place, in my opinion, when one is exploring about the country in
+[[Summer|summer]]. Miss Woodhouse must excuse me. I am not one of those who have
+witty things at every [[Body|body]]’s service. I do not pretend to be a wit. I
+have a great deal of vivacity in my own way, but I really must be
+allowed to judge when to speak and when to hold my tongue. Pass us, if
+you please, Mr. Churchill. Pass Mr. E., Knightley, Jane, and myself. We
+have nothing clever to say—not one of us.
+
+“Yes, yes, pray pass _me_,” added her husband, with a sort of sneering
+consciousness; “_I_ have nothing to say that can entertain Miss
+Woodhouse, or any other young lady. An old married man—quite good for
+nothing. Shall we walk, Augusta?”
+
+“With all my heart. I am really tired of exploring so long on one spot.
+Come, Jane, take my other arm.”
+
+Jane declined it, however, and the husband and wife walked off. “Happy
+couple!” said [[Frank Churchill]], as soon as they were out of
+hearing:—“How [[Well|well]] they suit one another!—Very lucky—marrying as they
+did, upon an acquaintance formed only in a public place!—They only knew
+each other, I think, a few weeks in Bath! Peculiarly lucky!—for as to
+any real knowledge of a person’s disposition that Bath, or any public
+place, can give—it is all nothing; there can be no knowledge. It is
+only by seeing women in their own homes, among their own set, just as
+they always are, that you can form any just judgment. Short of that, it
+is all guess and luck—and will generally be ill-luck. How many a man
+has committed himself on a short acquaintance, and rued it all the rest
+of his life!”
+
+Miss Fairfax, who had seldom spoken before, except among her own
+confederates, spoke now.
+
+“Such things do occur, undoubtedly.”—She was stopped by a cough. Frank
+Churchill turned towards her to listen.
+
+“You were speaking,” said he, gravely. She recovered her voice.
+
+“I was only going to observe, that though such unfortunate
+circumstances do sometimes occur both to men and women, I cannot
+imagine them to be very frequent. A hasty and imprudent attachment may
+arise—but there is generally [[Time|time]] to recover from it afterwards. I
+would be understood to mean, that it can be only weak, irresolute
+characters, (whose happiness must be always at the [[Mercy|mercy]] of chance,)
+who will suffer an unfortunate acquaintance to be an inconvenience, an
+oppression for ever.”
+
+He made no answer; merely looked, and bowed in submission; and soon
+afterwards said, in a lively tone,

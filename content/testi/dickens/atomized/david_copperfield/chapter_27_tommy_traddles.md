@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 27: TOMMY TRADDLES"
+title: "David Copperfield — Chapter 27: TOMMY TRADDLES"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/david-copperfield-(dickens)"

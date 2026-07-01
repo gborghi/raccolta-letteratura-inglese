@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 4 (part 5)"
+title: "Martin Chuzzlewit — Chapter 4 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,37 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_04/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_04/part_06">part 06 ›</a></div>
 </nav>
 
+
+At length, in utter [[Despair|despair]] and hopelessness, some few of the
+belligerents began to speak to each other in only moderate terms of
+mutual aggravation; and nearly all addressed themselves with a show of
+tolerable decency to Mr Pecksniff, in recognition of his high character
+and influential position. Thus, by little and little, they made common
+cause of [[Martin Chuzzlewit]]’s obduracy, until it was agreed (if such a
+word can be used in connection with the Chuzzlewits) that there should
+be a general council and conference held at Mr Pecksniff’s [[house]] upon
+a certain day at [[Noon|noon]]; which all members of the family who had brought
+themselves within reach of the summons, were forthwith bidden and
+invited, solemnly, to attend.
+
+If ever Mr Pecksniff wore an apostolic look, he wore it on this
+memorable day. If ever his unruffled smile proclaimed the words, ‘I am
+a messenger of peace!’ that was its mission now. If ever man combined
+within himself all the mild qualities of the [[Lamb|lamb]] with a considerable
+touch of the dove, and not a dash of the crocodile, or the least
+possible suggestion of the very mildest seasoning of the serpent, that
+man was he. And, oh, the two Miss Pecksniffs! Oh, the serene expression
+on the face of [[Charity]], which seemed to say, ‘I know that all my family
+have injured me beyond the possibility of reparation, but I forgive
+them, for it is my duty so to do!’ And, oh, the gay simplicity of [[Mercy]];
+so charming, [[Innocent|innocent]], and infant-like, that if she had gone out
+walking by herself, and it had been a little earlier in the season, the
+robin-redbreasts might have covered her with [[Leaves|leaves]] against her will,
+believing her to be one of the sweet children in the wood, come out of
+it, and issuing forth once more to look for blackberries in the young
+freshness of her heart! What words can paint the Pecksniffs in that
+trying hour? Oh, none; for words have naughty company among them, and
+the Pecksniffs were all goodness.
 
 But when the company arrived! That was the [[Time|time]]. When Mr Pecksniff,
 rising from his seat at the table’s head, with a daughter on either
@@ -74,67 +105,3 @@ Such was the pleasant little family circle now assembled in Mr
 Pecksniff’s best parlour, agreeably prepared to fall foul of Mr
 Pecksniff or anybody else who might venture to say anything whatever
 upon any subject.
-
-‘This,’ said Mr Pecksniff, rising and looking round upon them with
-folded hands, ‘does me good. It does my daughters good. We thank you for
-assembling here. We are grateful to you with our whole hearts. It is a
-blessed distinction that you have conferred upon us, and believe me’--it
-is impossible to conceive how he smiled here--‘we shall not easily
-forget it.’
-
-‘I am sorry to interrupt you, Pecksniff,’ remarked Mr Spottletoe, with
-his whiskers in a very portentous state; ‘but you are assuming too much
-to yourself, sir. Who do you imagine has it in contemplation to confer a
-distinction upon YOU, sir?’
-
-A general murmur echoed this inquiry, and applauded it.
-
-‘If you are about to pursue the course with which you have begun, sir,’
-pursued Mr Spottletoe in a great heat, and giving a violent rap on
-the table with his knuckles, ‘the sooner you desist, and this assembly
-separates, the better. I am no stranger, sir, to your preposterous
-[[Desire|desire]] to be regarded as the head of this family, but I can tell YOU,
-sir--’
-
-Oh yes, indeed! HE tell. HE! What? He was the head, was he? From the
-strong-minded woman downwards everybody fell, that instant, upon Mr
-Spottletoe, who after vainly attempting to be heard in [[Silence|silence]] was
-fain to sit down again, folding his arms and shaking his head most
-wrathfully, and giving Mrs Spottletoe to understand in dumb show, that
-that scoundrel Pecksniff might go on for the present, but he would cut
-in presently, and annihilate him.
-
-‘I am not sorry,’ said Mr Pecksniff in resumption of his address, ‘I am
-really not sorry that this little incident has happened. It is good to
-feel that we are met here without disguise. It is good to know that we
-have no reserve before each other, but are appearing freely in our own
-characters.’
-
-Here, the eldest daughter of the strong-minded woman [[Rose|rose]] a little way
-from her seat, and trembling violently from head to foot, more as it
-seemed with passion than timidity, expressed a general [[Hope|hope]] that some
-people WOULD appear in their own characters, if it were only for such
-a proceeding having the attraction of novelty to recommend it; and that
-when they (meaning the some people before mentioned) talked about their
-relations, they would be careful to observe who was present in company
-at the [[Time|time]]; otherwise it might come round to those relations’ ears, in
-a way they little expected; and as to red noses (she observed) she
-had yet to learn that a red nose was any disgrace, inasmuch as people
-neither made nor coloured their own noses, but had that feature provided
-for them without being first consulted; though even upon that branch of
-the subject she had great doubts whether certain noses were redder than
-other noses, or indeed half as red as some. This remark being received
-with a shrill titter by the two sisters of the speaker, Miss [[Charity]]
-Pecksniff begged with much politeness to be informed whether any of
-those very low observations were levelled at her; and receiving no more
-explanatory answer than was conveyed in the adage ‘Those the cap fits,
-let them wear it,’ immediately commenced a somewhat acrimonious and
-personal retort, wherein she was much comforted and abetted by her
-sister [[Mercy]], who laughed at the same with great heartiness; indeed
-far more naturally than life. And it being quite impossible that any
-difference of opinion can take place among women without every woman who
-is within hearing taking active part in it, the strong-minded lady and
-her two daughters, and Mrs Spottletoe, and the deaf cousin (who was
-not at all disqualified from joining in the dispute by reason of being
-perfectly unacquainted with its merits), one and all plunged into the
-quarrel directly.

@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 17"
+title: "Dombey and Son — Chapter 45"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,531 +14,403 @@ tags:
 </nav>
 
 
-CHAPTER XVII.
-[[Captain Cuttle]] does a little Business for the Young People
-
-
-[[Captain Cuttle]], in the exercise of that surprising talent for deep-laid
-and unfathomable scheming, with which (as is not unusual in men of
-transparent simplicity) he sincerely believed himself to be endowed by
-[[Nature|nature]], had gone to Mr Dombey’s [[house]] on the eventful [[Sunday]], winking
-all the way as a vent for his superfluous sagacity, and had presented
-himself in the full lustre of the ankle-jacks before the eyes of
-Towlinson. Hearing from that individual, to his great concern, of the
-impending calamity, [[Captain Cuttle]], in his delicacy, sheered off again
-confounded; merely handing in the nosegay as a small mark of his
-solicitude, and leaving his respectful compliments for the family in
-general, which he accompanied with an expression of his [[Hope|hope]] that they
-would lay their heads [[Well|well]] to the [[Wind|wind]] under existing circumstances,
-and a friendly intimation that he would “look up again” to-morrow.
-
-The Captain’s compliments were never heard of any more. The Captain’s
-nosegay, after lying in the hall all [[Night|night]], was swept into the [[Dust|dust]]-bin
-next morning; and the Captain’s sly arrangement, involved in one
-catastrophe with greater hopes and loftier designs, was crushed to
-pieces. So, when an avalanche bears down a mountain-forest, twigs and
-bushes suffer with the trees, and all perish together.
-
-When Walter returned [[Home|home]] on the [[Sunday]] evening from his long walk, and
-its memorable close, he was too much occupied at first by the tidings
-he had to give them, and by the emotions naturally awakened in his
-breast by the scene through which he had passed, to observe either that
-his Uncle was evidently unacquainted with the intelligence the Captain
-had undertaken to impart, or that the Captain made signals with his
-hook, warning him to avoid the subject. Not that the Captain’s signals
-were calculated to have proved very comprehensible, however attentively
-observed; for, like those Chinese sages who are said in their
-conferences to write certain learned words in the air that are wholly
-impossible of pronunciation, the Captain made such waves and flourishes
-as nobody without a previous knowledge of his mystery, would have been
-at all likely to understand.
-
-[[Captain Cuttle]], however, becoming cognisant of what had happened,
-relinquished these attempts, as he perceived the slender chance that
-now existed of his being able to obtain a little easy chat with Mr
-Dombey before the period of Walter’s departure. But in admitting to
-himself, with a disappointed and crestfallen countenance, that Sol
-Gills must be told, and that Walter must go—taking the case for the
-present as he found it, and not having it enlightened or improved
-beforehand by the knowing management of a friend—the Captain still felt
-an unabated confidence that he, Ned Cuttle, was the man for Mr Dombey;
-and that, to set Walter’s fortunes quite square, nothing was wanted but
-that they two should come together. For the Captain never could forget
-how [[Well|well]] he and Mr Dombey had got on at Brighton; with what nicety each
-of them had put in a word when it was wanted; how exactly they had
-taken one another’s measure; nor how Ned Cuttle had pointed out that
-resources in the first extremity, and had brought the interview to the
-desired termination. On all these grounds the Captain soothed himself
-with thinking that though Ned Cuttle was forced by the pressure of
-events to “stand by” almost useless for the present, Ned would fetch up
-with a wet sail in good [[Time|time]], and carry all before him.
-
-Under the influence of this good-natured delusion, [[Captain Cuttle]] even
-went so far as to revolve in his own bosom, while he sat looking at
-Walter and listening with a tear on his shirt-collar to what he
-related, whether it might not be at once genteel and politic to give Mr
-Dombey a verbal invitation, whenever they should meet, to come and cut
-his mutton in Brig Place on some day of his own naming, and enter on
-the question of his young friend’s prospects over a social glass. But
-the uncertain temper of Mrs MacStinger, and the possibility of her
-setting up her rest in the passage during such an entertainment, and
-there delivering some homily of an uncomplimentary [[Nature|nature]], operated as
-a check on the Captain’s hospitable thoughts, and rendered him timid of
-giving them encouragement.
-
-One fact was quite clear to the Captain, as Walter, sitting
-thoughtfully over his untasted dinner, dwelt on all that had happened;
-namely, that however Walter’s modesty might stand in the way of his
-perceiving it himself, he was, as one might say, a member of Mr
-Dombey’s family. He had been, in his own person, connected with the
-incident he so pathetically described; he had been by name remembered
-and commended in close association with it; and his fortunes must have
-a particular interest in his employer’s eyes. If the Captain had any
-lurking [[Doubt|doubt]] whatever of his own conclusions, he had not the least
-[[Doubt|doubt]] that they were good conclusions for the peace of mind of the
-Instrument-maker. Therefore he availed himself of so favourable a
-moment for breaking the West Indian intelligence to his friend, as a
-piece of extraordinary preferment; declaring that for his part he would
-freely give a hundred thousand pounds (if he had it) for Walter’s gain
-in the long-run, and that he had no [[Doubt|doubt]] such an investment would
-yield a handsome premium.
-
-[[Solomon Gills]] was at first stunned by the communication, which fell
-upon the little back-parlour like a thunderbolt, and tore up the hearth
-savagely. But the Captain flashed such golden prospects before his dim
-sight: hinted so mysteriously at Whittingtonian consequences; laid such
-emphasis on what Walter had just now told them: and appealed to it so
-confidently as a corroboration of his predictions, and a great advance
-towards the realisation of the romantic legend of Lovely Peg: that he
-bewildered the old man. Walter, for his part, feigned to be so full of
-[[Hope|hope]] and ardour, and so sure of coming [[Home|home]] again soon, and backed up
-the Captain with such expressive shakings of his head and rubbings of
-his hands, that Solomon, looking first at him then at [[Captain Cuttle]],
-began to think he ought to be transported with joy.
-
-“But I’m behind the [[Time|time]], you understand,” he observed in apology,
-passing his hand nervously down the whole row of bright buttons on his
-coat, and then up again, as if they were beads and he were telling them
-twice over: “and I would rather have my dear boy here. It’s an
-old-fashioned notion, I daresay. He was always fond of the sea
-He’s”—and he looked wistfully at Walter—“he’s glad to go.”
-
-“Uncle Sol!” cried Walter, quickly, “if you say that, I won’t go. No,
-[[Captain Cuttle]], I won’t. If my Uncle thinks I could be glad to leave
-him, though I was going to be made Governor of all the Islands in the
-West Indies, that’s enough. I’m a fixture.”
-
-“Wal”r, my lad,” said the Captain. “Steady! Sol Gills, take an
-observation of your nevy.”
-
-Following with his eyes the majestic action of the Captain’s hook, the
-old man looked at Walter.
-
-“Here is a certain craft,” said the Captain, with a magnificent sense
-of the [[Allegory|allegory]] into which he was soaring, “a-going to put out on a
-certain voyage. What name is wrote upon that craft indelibly? Is it The
-Gay? or,” said the Captain, raising his voice as much as to say,
-observe the point of this, “is it The Gills?”
-
-“Ned,” said the old man, drawing Walter to his side, and taking his arm
-tenderly through his, “I know. I know. Of course I know that Wally
-considers me more than himself always. That’s in my mind. When I say he
-is glad to go, I mean I [[Hope|hope]] he is. Eh? look you, Ned and you too,
-Wally, my dear, this is new and unexpected to me; and I’m afraid my
-being behind the [[Time|time]], and poor, is at the [[Bottom|bottom]] of it. Is it really
-good fortune for him, do you tell me, now?” said the old man, looking
-anxiously from one to the other. “Really and truly? Is it? I can
-reconcile myself to almost anything that advances Wally, but I won’t
-have Wally putting himself at any disadvantage for me, or keeping
-anything from me. You, Ned Cuttle!” said the old man, fastening on the
-Captain, to the manifest confusion of that diplomatist; “are you
-dealing plainly by your old friend? Speak out, Ned Cuttle. Is there
-anything behind? Ought he to go? How do you know it first, and why?”
-
-As it was a contest of affection and [[Self|self]]-denial, Walter struck in with
-infinite effect, to the Captain’s relief; and between them they
-tolerably reconciled old Sol Gills, by continued talking, to the
-project; or rather so confused him, that nothing, not even the [[Pain|pain]] of
-separation, was distinctly clear to his mind.
-
-He had not much [[Time|time]] to balance the matter; for on the very next day,
-Walter received from Mr Carker the Manager, the necessary credentials
-for his passage and outfit, together with the information that the Son
-and Heir would sail in a fortnight, or within a day or two afterwards
-at latest. In the hurry of preparation: which Walter purposely enhanced
-as much as possible: the old man lost what little [[Self|self]]-possession he
-ever had; and so the [[Time|time]] of departure drew on rapidly.
-
-The Captain, who did not fail to make himself acquainted with all that
-passed, through inquiries of Walter from day to day, found the [[Time|time]]
-still tending on towards his going away, without any occasion offering
-itself, or seeming likely to offer itself, for a better understanding
-of his position. It was after much consideration of this fact, and much
-pondering over such an unfortunate combination of circumstances, that a
-bright idea occurred to the Captain. Suppose he made a call on Mr
-Carker, and tried to find out from him how the land really lay!
-
-[[Captain Cuttle]] liked this idea very much. It came upon him in a moment
-of inspiration, as he was smoking an early pipe in Brig Place after
-breakfast; and it was worthy of the tobacco. It would quiet his
-[[Conscience|conscience]], which was an honest one, and was made a little uneasy by
-what Walter had confided to him, and what Sol Gills had said; and it
-would be a deep, shrewd act of [[Friendship|friendship]]. He would sound Mr Carker
-carefully, and say much or little, just as he read that gentleman’s
-character, and discovered that they got on [[Well|well]] together or the
-reverse.
-
-Accordingly, without the [[Fear|fear]] of Walter before his eyes (who he knew
-was at [[Home|home]] packing), [[Captain Cuttle]] again assumed his ankle-jacks and
-mourning brooch, and issued forth on this second expedition. He
-purchased no propitiatory nosegay on the present occasion, as he was
-going to a place of business; but he put a small sunflower in his
-button-hole to give himself an agreeable relish of the country; and
-with this, and the knobby stick, and the glazed hat, bore down upon the
-offices of Dombey and Son.
-
-After taking a glass of warm rum-and-[[Water|water]] at a tavern close by, to
-collect his thoughts, the Captain made a rush down the [[Court|court]], lest its
-good effects should evaporate, and appeared suddenly to Mr Perch.
-
-“Matey,” said the Captain, in persuasive accents. “One of your
-Governors is named Carker.”
-
-Mr Perch admitted it; but gave him to understand, as in official duty
-bound, that all his Governors were engaged, and never expected to be
-disengaged any more.
-
-“Look’ee here, mate,” said the Captain in his ear; “my name’s Cap’en
-Cuttle.”
-
-The Captain would have hooked Perch gently to him, but Mr Perch eluded
-the attempt; not so much in design, as in starting at the sudden
-thought that such a weapon unexpectedly exhibited to Mrs Perch might,
-in her then condition, be destructive to that lady’s hopes.
-
-“If you’ll be so good as just report Cap’en Cuttle here, when you get a
-chance,” said the Captain, “I’ll wait.”
-
-Saying which, the Captain took his seat on Mr Perch’s bracket, and
-drawing out his handkerchief from the [[Crown|crown]] of the glazed hat which he
-jammed between his knees (without injury to its shape, for nothing
-human could bend it), rubbed his head [[Well|well]] all over, and appeared
-refreshed. He subsequently arranged his hair with his hook, and sat
-looking round the office, contemplating the clerks with a serene
-respect.
-
-The Captain’s equanimity was so impenetrable, and he was altogether so
-mysterious a being, that Perch the messenger was daunted.
-
-“What name was it you said?” asked Mr Perch, bending down over him as
-he sat on the bracket.
-
-“Cap’en,” in a deep hoarse whisper.
-
-“Yes,” said Mr Perch, keeping [[Time|time]] with his head.
-
-“Cuttle.”
-
-“Oh!” said Mr Perch, in the same tone, for he caught it, and couldn’t
-help it; the Captain, in his diplomacy, was so impressive. “I’ll see if
-he’s disengaged now. I don’t know. Perhaps he may be for a minute.”
-
-“Ay, ay, my lad, I won’t detain him longer than a minute,” said the
-Captain, nodding with all the weighty importance that he felt within
-him. Perch, soon returning, said, “Will [[Captain Cuttle]] walk this way?”
-
-Mr Carker the Manager, standing on the hearth-rug before the empty
-fireplace, which was ornamented with a castellated sheet of brown
-paper, looked at the Captain as he came in, with no very special
-encouragement.
-
-“Mr Carker?” said [[Captain Cuttle]].
-
-“I believe so,” said Mr Carker, showing all his teeth.
-
-The Captain liked his answering with a smile; it looked pleasant. “You
-see,” began the Captain, [[rolling]] his eyes slowly round the little room,
-and taking in as much of it as his shirt-collar permitted; “I’m a
-seafaring man myself, Mr Carker, and Wal”r, as is on your books here,
-is almost a son of mine.”
-
-“[[Walter Gay]]?” said Mr Carker, showing all his teeth again.
-
-“Wal”r Gay it is,” replied the Captain, “right!” The Captain’s manner
-expressed a warm approval of Mr Carker’s quickness of perception. “I’m
-a intimate friend of his and his Uncle’s. Perhaps,” said the Captain,
-“you may have heard your head Governor mention my name?—Captain
-Cuttle.”
-
-“No!” said Mr Carker, with a still wider demonstration than before.
-
-“[[Well]],” resumed the Captain, “I’ve the pleasure of his acquaintance. I
-waited upon him down on the Sussex coast there, with my young friend
-Wal”r, when—in short, when there was a little accommodation wanted.”
-The Captain nodded his head in a manner that was at once comfortable,
-easy, and expressive. “You remember, I daresay?”
-
-“I think,” said Mr Carker, “I had the [[Honour|honour]] of arranging the
-business.”
-
-“To be sure!” returned the Captain. “Right again! you had. Now I’ve
-took the liberty of coming here—
-
-“Won’t you sit down?” said Mr Carker, smiling.
-
-“Thank’ee,” returned the Captain, availing himself of the offer. “A man
-does get more way upon himself, perhaps, in his conversation, when he
-sits down. Won’t you take a cheer yourself?”
-
-“No thank you,” said the Manager, standing, perhaps from the force of
-[[Winter|winter]] habit, with his back against the chimney-piece, and looking down
-upon the Captain with an eye in every tooth and gum. “You have taken
-the liberty, you were going to say—though it’s none—”
-
-“Thank’ee kindly, my lad,” returned the Captain: “of coming here, on
-account of my friend Wal”r. Sol Gills, his Uncle, is a man of science,
-and in science he may be considered a clipper; but he ain’t what I
-should altogether call a able seaman—not man of practice. Wal”r is as
-trim a lad as ever stepped; but he’s a little down by the head in one
-respect, and that is, modesty. Now what I should wish to put to you,”
-said the Captain, lowering his voice, and speaking in a kind of
-confidential growl, “in a friendly way, entirely between you and me,
-and for my own private reckoning, “till your head Governor has wore
-round a bit, and I can come alongside of him, is this.—Is everything
-right and comfortable here, and is Wal”r out’ard bound with a pretty
-fair [[Wind|wind]]?”
-
-“What do you think now, [[Captain Cuttle]]?” returned Carker, gathering up
-his skirts and settling himself in his position. “You are a practical
-man; what do you think?”
-
-The acuteness and the significance of the Captain’s eye as he cocked it
-in reply, no words short of those unutterable Chinese words before
-referred to could describe.
-
-“Come!” said the Captain, unspeakably encouraged, “what do you say? Am
-I right or wrong?”
-
-So much had the Captain expressed in his eye, emboldened and incited by
-Mr Carker’s smiling urbanity, that he felt himself in as fair a
-condition to put the question, as if he had expressed his sentiments
-with the utmost elaboration.
-
-“Right,” said Mr Carker, “I have no [[Doubt|doubt]].”
-
-“Out’ard bound with fair weather, then, I say,” cried [[Captain Cuttle]].
-
-Mr Carker smiled assent.
-
-“[[Wind]] right astarn, and plenty of it,” pursued the Captain.
-
-Mr Carker smiled assent again.
-
-“Ay, ay!” said [[Captain Cuttle]], greatly relieved and pleased. “I know’d
-how she headed, [[Well|well]] enough; I told Wal”r so. Thank’ee, thank’ee.”
-
-“Gay has brilliant prospects,” observed Mr Carker, stretching his mouth
-wider yet: “all the world before him.”
-
-“All the world and his wife too, as the saying is,” returned the
-delighted Captain.
-
-At the word “wife” (which he had uttered without design), the Captain
-stopped, cocked his eye again, and putting the glazed hat on the top of
-the knobby stick, gave it a twirl, and looked sideways at his always
-smiling friend.
-
-“I’d bet a gill of old Jamaica,” said the Captain, eyeing him
-attentively, “that I know what you’re a smiling at.”
-
-Mr Carker took his cue, and smiled the more.
-
-“It goes no farther?” said the Captain, making a poke at the door with
-the knobby stick to assure himself that it was shut.
-
-“Not an inch,” said Mr Carker.
-
-“You’re thinking of a capital F perhaps?” said the Captain.
-
-Mr Carker didn’t deny it.
-
-“Anything about a L,” said the Captain, “or a O?”
-
-Mr Carker still smiled.
-
-“Am I right, again?” inquired the Captain in a whisper, with the
-scarlet circle on his forehead swelling in his triumphant joy.
-
-Mr Carker, in reply, still smiling, and now nodding assent, Captain
-Cuttle [[Rose|rose]] and squeezed him by the hand, assuring him, warmly, that
-they were on the same tack, and that as for him (Cuttle) he had laid
-his course that way all along. “He know’d her first,” said the Captain,
-with all the secrecy and gravity that the subject demanded, “in an
-uncommon manner—you remember his finding her in the street when she was
-a’most a babby—he has liked her ever since, and she him, as much as two
-youngsters can. We’ve always said, Sol Gills and me, that they was cut
-out for each other.”
-
-A cat, or a monkey, or a hyena, or a [[Death|death]]’s-head, could not have shown
-the Captain more teeth at one [[Time|time]], than Mr Carker showed him at this
-period of their interview.
-
-“There’s a general indraught that way,” observed the happy Captain.
-“[[Wind]] and [[Water|water]] sets in that direction, you see. Look at his being
-present t’other day!”
-
-“Most favourable to his hopes,” said Mr Carker.
-
-“Look at his being towed along in the wake of that day!” pursued the
-Captain. “Why what can cut him adrift now?”
-
-“Nothing,” replied Mr Carker.
-
-“You’re right again,” returned the Captain, giving his hand another
-squeeze. “Nothing it is. So! steady! There’s a son gone: pretty little
-creetur. Ain’t there?”
-
-“Yes, there’s a son gone,” said the acquiescent Carker.
-
-“Pass the word, and there’s another ready for you,” quoth the Captain.
-“Nevy of a scientific Uncle! Nevy of Sol Gills! Wal”r! Wal”r, as is
-already in your business! And”—said the Captain, rising gradually to a
-quotation he was preparing for a final burst, “who—comes from Sol
-Gills’s daily, to your business, and your buzzums.”
-
-The Captain’s complacency as he gently jogged Mr Carker with his elbow,
-on concluding each of the foregoing short sentences, could be surpassed
-by nothing but the exultation with which he fell back and eyed him when
-he had finished this brilliant display of eloquence and sagacity; his
-great blue waistcoat heaving with the throes of such a masterpiece, and
-his nose in a state of violent inflammation from the same cause.
-
-“Am I right?” said the Captain.
-
-“[[Captain Cuttle]],” said Mr Carker, bending down at the knees, for a
-moment, in an odd manner, as if he were falling together to hug the
-whole of himself at once, “your views in reference to [[Walter Gay]] are
-thoroughly and accurately right. I understand that we speak together in
-confidence.
-
-“[[Honour]]!” interposed the Captain. “Not a word.”
-
-“To him or anyone?” pursued the Manager.
-
-[[Captain Cuttle]] frowned and shook his head.
-
-“But merely for your own satisfaction and guidance—and guidance, of
-course,” repeated Mr Carker, “with a view to your future proceedings.”
-
-“Thank’ee kindly, I am sure,” said the Captain, listening with great
-attention.
-
-“I have no hesitation in saying, that’s the fact. You have hit the
-probabilities exactly.”
-
-“And with regard to your head Governor,” said the Captain, “why an
-interview had better come about nat’ral between us. There’s [[Time|time]]
-enough.”
-
-Mr Carker, with his mouth from ear to ear, repeated, “[[Time]] enough.” Not
-articulating the words, but bowing his head affably, and forming them
-with his tongue and lips.
-
-“And as I know—it’s what I always said—that Wal”r’s in a way to make
-his fortune,” said the Captain.
-
-“To make his fortune,” Mr Carker repeated, in the same dumb manner.
-
-“And as Wal”r’s going on this little voyage is, as I may say, in his
-day’s work, and a part of his general expectations here,” said the
-Captain.
-
-“Of his general expectations here,” assented Mr Carker, dumbly as
-before.
-
-“Why, so long as I know that,” pursued the Captain, “there’s no hurry,
-and my mind’s at ease.
-
-Mr Carker still blandly assenting in the same voiceless manner, Captain
-Cuttle was strongly confirmed in his opinion that he was one of the
-most agreeable men he had ever met, and that even Mr Dombey might
-improve himself on such a model. With great heartiness, therefore, the
-Captain once again extended his enormous hand (not unlike an old block
-in colour), and gave him a grip that left upon his smoother flesh a
-proof impression of the chinks and crevices with which the Captain’s
-palm was liberally tattooed.
-
-“Farewell!” said the Captain. “I ain’t a man of many words, but I take
-it very kind of you to be so friendly, and above-board. You’ll excuse
-me if I’ve been at all intruding, will you?” said the Captain.
-
-“Not at all,” returned the other.
-
-“Thank’ee. My berth ain’t very roomy,” said the Captain, turning back
-again, “but it’s tolerably snug; and if you was to find yourself near
-Brig Place, number nine, at any [[Time|time]]—will you make a note of it?—and
-would come upstairs, without minding what was said by the person at the
-door, I should be proud to see you.
-
-With that hospitable invitation, the Captain said “Good day!” and
-walked out and shut the door; leaving Mr Carker still reclining against
-the chimney-piece. In whose sly look and watchful manner; in whose
-false mouth, stretched but not laughing; in whose spotless cravat and
-very whiskers; even in whose silent passing of his soft hand over his
-white linen and his smooth face; there was something desperately
-cat-like.
-
-The unconscious Captain walked out in a state of [[Self|self]]-glorification
-that imparted quite a new cut to the broad blue suit. “Stand by, Ned!”
-said the Captain to himself. “You’ve done a little business for the
-youngsters today, my lad!”
-
-In his exultation, and in his familiarity, present and prospective,
-with the [[house|House]], the Captain, when he reached the outer office, could
-not refrain from rallying Mr Perch a little, and asking him whether he
-thought everybody was still engaged. But not to be bitter on a man who
-had done his duty, the Captain whispered in his ear, that if he felt
-disposed for a glass of rum-and-[[Water|water]], and would follow, he would be
-happy to bestow the same upon him.
-
-Before leaving the premises, the Captain, somewhat to the astonishment
-of the clerks, looked round from a central point of view, and took a
-general survey of the officers part and parcel of a project in which
-his young friend was nearly interested. The strong-room excited his
-especial admiration; but, that he might not appear too particular, he
-limited himself to an approving glance, and, with a graceful
-recognition of the clerks as a [[Body|body]], that was full of politeness and
-patronage, passed out into the [[Court|court]]. Being promptly joined by Mr
-Perch, he conveyed that gentleman to the tavern, and fulfilled his
-pledge—hastily, for Perch’s [[Time|time]] was precious.
-
-“I’ll give you for a toast,” said the Captain, “Wal”r!”
-
-“Who?” submitted Mr Perch.
-
-“Wal”r!” repeated the Captain, in a voice of thunder.
-
-Mr Perch, who seemed to remember having heard in infancy that there was
-once a poet of that name, made no objection; but he was much astonished
-at the Captain’s coming into the [[City]] to propose a poet; indeed, if he
-had proposed to put a poet’s statue up—say Shakespeare’s for example—in
-a civic thoroughfare, he could hardly have done a greater outrage to Mr
-Perch’s experience. On the whole, he was such a mysterious and
-incomprehensible character, that Mr Perch decided not to mention him to
-Mrs Perch at all, in case of giving rise to any disagreeable
-consequences.
-
-Mysterious and incomprehensible, the Captain, with that lively sense
-upon him of having done a little business for the youngsters, remained
-all day, even to his most intimate friends; and but that Walter
-attributed his winks and grins, and other such pantomimic reliefs of
-himself, to his satisfaction in the [[success]] of their [[Innocent|innocent]] [[Deception|deception]]
-upon old Sol Gills, he would assuredly have betrayed himself before
-[[Night|night]]. As it was, however, he kept his own secret; and went [[Home|home]] late
-from the Instrument-maker’s [[house]], wearing the glazed hat so much on
-one side, and carrying such a beaming expression in his eyes, that Mrs
-MacStinger (who might have been brought up at Doctor Blimber’s, she was
-such a Roman matron) fortified herself, at the first glimpse of him,
-behind the open street door, and refused to come out to the
-contemplation of her blessed infants, until he was securely lodged in
-his own room.
+CHAPTER XLV.
+The Trusty Agent
+
+
+Edith went out [[Alone|alone]] that day, and returned [[Home|home]] early. It was but a
+few minutes after ten o’[[Clock|clock]], when her carriage rolled along the
+street in which she lived.
+
+There was the same enforced composure on her face, that there had been
+when she was dressing; and the wreath upon her head encircled the same
+cold and steady brow. But it would have been better to have seen its
+[[Leaves|leaves]] and [[Flowers|flowers]] reft into fragments by her passionate hand, or
+rendered shapeless by the fitful searches of a throbbing and bewildered
+brain for any resting-place, than adorning such tranquillity. So
+obdurate, so unapproachable, so unrelenting, one would have thought
+that nothing could soften such a woman’s [[Nature|nature]], and that everything in
+life had hardened it.
+
+Arrived at her own door, she was alighting, when some one coming
+quietly from the hall, and standing bareheaded, offered her his arm.
+The servant being thrust aside, she had no choice but to touch it; and
+she then knew whose arm it was.
+
+“How is your patient, Sir?” she asked, with a curled lip.
+
+“He is better,” returned Carker. “He is doing very [[Well|well]]. I have left
+him for the [[Night|night]].”
+
+She bent her head, and was passing up the staircase, when he followed
+and said, speaking at the [[Bottom|bottom]]:
+
+“Madam! May I beg the favour of a minute’s audience?”
+
+She stopped and turned her eyes back “It is an unseasonable [[Time|time]], Sir,
+and I am fatigued. Is your business urgent?”
+
+“It is very urgent, returned Carker. “As I am so fortunate as to have
+met you, let me press my petition.”
+
+She looked down for a moment at his glistening mouth; and he looked up
+at her, standing above him in her stately dress, and thought, again,
+how beautiful she was.
+
+“Where is Miss Dombey?” she asked the servant, aloud.
+
+“In the morning room, Ma’am.”
+
+“Show the way there!” Turning her eyes again on the attentive gentleman
+at the [[Bottom|bottom]] of the stairs, and informing him with a slight motion of
+her head, that he was at liberty to follow, she passed on.
+
+“I beg your pardon! Madam! Mrs Dombey!” cried the soft and nimble
+Carker, at her side in a moment. “May I be permitted to entreat that
+Miss Dombey is not present?”
+
+She confronted him, with a quick look, but with the same
+[[Self|self]]-possession and steadiness.
+
+“I would spare Miss Dombey,” said Carker, in a low voice, “the
+knowledge of what I have to say. At least, Madam, I would leave it to
+you to decide whether she shall know of it or not. I owe that to you.
+It is my bounden duty to you. After our former interview, it would be
+monstrous in me if I did otherwise.”
+
+She slowly withdrew her eyes from his face, and turning to the servant,
+said, “Some other room.” He led the way to a drawing-room, which he
+speedily lighted up and then left them. While he remained, not a word
+was spoken. Edith enthroned herself upon a couch by the [[Fire|fire]]; and Mr
+Carker, with his hat in his hand and his eyes bent upon the carpet,
+stood before her, at some little distance.
+
+“Before I hear you, Sir,” said Edith, when the door was closed, “I wish
+you to hear me.”
+
+“To be addressed by Mrs Dombey,” he returned, “even in accents of
+unmerited reproach, is an [[Honour|honour]] I so greatly esteem, that although I
+were not her servant in all things, I should defer to such a wish, most
+readily.”
+
+“If you are charged by the man whom you have just now left, Sir;” Mr
+Carker raised his eyes, as if he were going to counterfeit surprise,
+but she met them, and stopped him, if such were his intention; “with
+any message to me, do not attempt to deliver it, for I will not receive
+it. I need scarcely ask you if you are come on such an errand. I have
+expected you some [[Time|time]].”
+
+“It is my misfortune,” he replied, “to be here, wholly against my will,
+for such a purpose. Allow me to say that I am here for two purposes.
+That is one.”
+
+“That one, Sir,” she returned, “is ended. Or, if you return to it—”
+
+“Can Mrs Dombey believe,” said Carker, coming nearer, “that I would
+return to it in the face of her prohibition? Is it possible that Mrs
+Dombey, having no regard to my unfortunate position, is so determined
+to consider me inseparable from my instructor as to do me great and
+wilful injustice?”
+
+“Sir,” returned Edith, bending her dark gaze full upon him, and
+speaking with a rising passion that inflated her proud nostril and her
+swelling neck, and stirred the delicate white down upon a robe she
+wore, thrown loosely over shoulders that could bear its snowy
+neighbourhood, “Why do you present yourself to me, as you have done,
+and speak to me of [[Love|love]] and duty to my husband, and pretend to think
+that I am happily married, and that I [[Honour|honour]] him? How dare you venture
+so to affront me, when you know—_I_ do not know better, Sir: I have
+seen it in your every glance, and heard it in your every word—that in
+place of affection between us there is aversion and contempt, and that
+I despise him hardly less than I despise myself for being his!
+Injustice! If I had done justice to the torment you have made me feel,
+and to my sense of the insult you have put upon me, I should have slain
+you!”
+
+She had asked him why he did this. Had she not been blinded by her
+[[Pride|pride]] and wrath, and [[Self|self]]-humiliation,—which she was, fiercely as she
+bent her gaze upon him,—she would have seen the answer in his face. To
+bring her to this declaration.
+
+She saw it not, and cared not whether it was there or no. She saw only
+the indignities and struggles she had undergone and had to undergo, and
+was writhing under them. As she sat looking fixedly at them, rather
+than at him, she plucked the feathers from a pinion of some rare and
+beautiful bird, which hung from her wrist by a golden thread, to serve
+her as a fan, and rained them on the ground.
+
+He did not shrink beneath her gaze, but stood, until such outward signs
+of her anger as had escaped her control subsided, with the air of a man
+who had his sufficient reply in reserve and would presently deliver it.
+And he then spoke, looking straight into her kindling eyes.
+
+“Madam,” he said, “I know, and knew before today, that I have found no
+favour with you; and I knew why. Yes. I knew why. You have spoken so
+openly to me; I am so relieved by the possession of your confidence—”
+
+“Confidence!” she repeated, with disdain.
+
+He passed it over.
+
+“—that I will make no pretence of concealment. I did see from the
+first, that there was no affection on your part for Mr Dombey—how could
+it possibly exist between such different subjects? And I have seen,
+since, that stronger feelings than indifference have been engendered in
+your breast—how could that possibly be otherwise, either, circumstanced
+as you have been? But was it for me to presume to avow this knowledge
+to you in so many words?”
+
+“Was it for you, Sir,” she replied, “to feign that other belief, and
+audaciously to thrust it on me day by day?”
+
+“Madam, it was,” he eagerly retorted. “If I had done less, if I had
+done anything but that, I should not be speaking to you thus; and I
+foresaw—who could better foresee, for who has had greater experience of
+Mr Dombey than myself?—that unless your character should prove to be as
+yielding and obedient as that of his first submissive lady, which I did
+not believe—”
+
+A haughty smile gave him reason to observe that he might repeat this.
+
+“I say, which I did not believe,—the [[Time|time]] was likely to come, when such
+an understanding as we have now arrived at, would be serviceable.”
+
+“Serviceable to whom, Sir?” she demanded scornfully.
+
+“To you. I will not add to myself, as warning me to refrain even from
+that limited commendation of Mr Dombey, in which I can honestly
+indulge, in order that I may not have the misfortune of saying anything
+distasteful to one whose aversion and contempt,” with great expression,
+“are so keen.”
+
+“Is it honest in you, Sir,” said Edith, “to confess to your ‘limited
+commendation,’ and to speak in that tone of disparagement, even of him:
+being his chief counsellor and flatterer!”
+
+“Counsellor,—yes,” said Carker. “Flatterer,—no. A little reservation I
+[[Fear|fear]] I must confess to. But our interest and convenience commonly
+oblige many of us to make professions that we cannot feel. We have
+partnerships of interest and convenience, friendships of interest and
+convenience, dealings of interest and convenience, marriages of
+interest and convenience, every day.”
+
+She bit her [[Blood|blood]]-red lip; but without wavering in the dark, stern
+watch she kept upon him.
+
+“Madam,” said Mr Carker, sitting down in a chair that was near her,
+with an air of the most profound and most considerate respect, “why
+should I hesitate now, being altogether devoted to your service, to
+speak plainly? It was natural that a lady, endowed as you are, should
+think it feasible to change her husband’s character in some respects,
+and mould him to a better form.”
+
+“It was not natural to me, Sir,” she rejoined. “I had never any
+expectation or intention of that kind.”
+
+The proud undaunted face showed him it was resolute to wear no mask he
+offered, but was set upon a reckless disclosure of itself, indifferent
+to any aspect in which it might present itself to such as he.
+
+“At least it was natural,” he resumed, “that you should deem it quite
+possible to live with Mr Dombey as his wife, at once without submitting
+to him, and without coming into such violent collision with him. But,
+Madam, you did not know Mr Dombey (as you have since ascertained), when
+you thought that. You did not know how exacting and how proud he is, or
+how he is, if I may say so, the slave of his own [[Greatness|greatness]], and goes
+yoked to his own triumphal car like a beast of burden, with no idea on
+earth but that it is behind him and is to be drawn on, over everything
+and through everything.”
+
+His teeth gleamed through his malicious relish of this conceit, as he
+went on talking:
+
+“Mr Dombey is really capable of no more true consideration for you,
+Madam, than for me. The comparison is an extreme one; I intend it to be
+so; but quite just. Mr Dombey, in the plenitude of his power, asked
+me—I had it from his own lips yesterday morning—to be his go-between to
+you, because he knows I am not agreeable to you, and because he intends
+that I shall be a punishment for your contumacy; and besides that,
+because he really does consider, that I, his paid servant, am an
+ambassador whom it is derogatory to the dignity—not of the lady to whom
+I have the happiness of speaking; she has no existence in his mind—but
+of his wife, a part of himself, to receive. You may imagine how
+regardless of me, how obtuse to the possibility of my having any
+individual sentiment or opinion he is, when he tells me, openly, that I
+am so employed. You know how perfectly indifferent to your feelings he
+is, when he threatens you with such a messenger. As you, of course,
+have not forgotten that he did.”
+
+She watched him still attentively. But he watched her too; and he saw
+that this indication of a knowledge on his part, of something that had
+passed between herself and her husband, rankled and smarted in her
+haughty breast, like a poisoned arrow.
+
+“I do not recall all this to widen the breach between yourself and Mr
+Dombey, Madam—Heaven forbid! what would it profit me?—but as an example
+of the hopelessness of impressing Mr Dombey with a sense that anybody
+is to be considered when he is in question. We who are about him, have,
+in our various positions, done our part, I daresay, to confirm him in
+his way of thinking; but if we had not done so, others would—or they
+would not have been about him; and it has always been, from the
+beginning, the very staple of his life. Mr Dombey has had to deal, in
+short, with none but submissive and dependent persons, who have bowed
+the knee, and bent the neck, before him. He has never known what it is
+to have angry [[Pride|pride]] and strong resentment opposed to him.”
+
+“But he will know it now!” she seemed to say; though her lips did not
+part, nor her eyes falter. He saw the soft down tremble once again, and
+he saw her lay the plumage of the beautiful bird against her bosom for
+a moment; and he unfolded one more ring of the coil into which he had
+gathered himself.
+
+“Mr Dombey, though a most honourable gentleman,” he said, “is so prone
+to pervert even facts to his own view, when he is at all opposed, in
+consequence of the warp in his mind, that he—can I give a better
+instance than this!—he sincerely believes (you will excuse the folly of
+what I am about to say; it not being mine) that his severe expression
+of opinion to his present wife, on a certain special occasion she may
+remember, before the lamented [[Death|death]] of Mrs Skewton, produced a
+withering effect, and for the moment quite subdued her!”
+
+Edith laughed. How harshly and unmusically need not be described. It is
+enough that he was glad to hear her.
+
+“Madam,” he resumed, “I have done with this. Your own opinions are so
+strong, and, I am persuaded, so unalterable,” he repeated those words
+slowly and with great emphasis, “that I am almost afraid to incur your
+displeasure anew, when I say that in spite of these defects and my full
+knowledge of them, I have become habituated to Mr Dombey, and esteem
+him. But when I say so, it is not, believe me, for the mere sake of
+vaunting a feeling that is so utterly at variance with your own, and
+for which you can have no sympathy”—oh how distinct and plain and
+emphasized this was!—“but to give you an assurance of the zeal with
+which, in this unhappy matter, I am yours, and the indignation with
+which I regard the part I am to fill!”
+
+She sat as if she were afraid to take her eyes from his face.
+
+And now to unwind the last ring of the coil!
+
+“It is growing late,” said Carker, after a pause, “and you are, as you
+said, fatigued. But the second object of this interview, I must not
+forget. I must recommend you, I must entreat you in the most earnest
+manner, for sufficient reasons that I have, to be cautious in your
+demonstrations of regard for Miss Dombey.”
+
+“Cautious! What do you mean?”
+
+“To be careful how you exhibit too much affection for that young lady.”
+
+“Too much affection, Sir!” said Edith, knitting her broad brow and
+rising. “Who judges my affection, or measures it out? You?”
+
+“It is not I who do so.” He was, or feigned to be, perplexed.
+
+“Who then?”
+
+“Can you not guess who then?”
+
+“I do not choose to guess,” she answered.
+
+“Madam,” he said after a little hesitation; meantime they had been, and
+still were, regarding each other as before; “I am in a difficulty here.
+You have told me you will receive no message, and you have forbidden me
+to return to that subject; but the two subjects are so closely
+entwined, I find, that unless you will accept this vague caution from
+one who has now the [[Honour|honour]] to possess your confidence, though the way
+to it has been through your displeasure, I must violate the injunction
+you have laid upon me.”
+
+“You know that you are free to do so, Sir,” said Edith. “Do it.”
+
+So pale, so trembling, so impassioned! He had not miscalculated the
+effect then!
+
+“His instructions were,” he said, in a low voice, “that I should inform
+you that your demeanour towards Miss Dombey is not agreeable to him.
+That it suggests comparisons to him which are not favourable to
+himself. That he desires it may be wholly changed; and that if you are
+in earnest, he is confident it will be; for your continued show of
+affection will not benefit its object.”
+
+“That is a threat,” she said.
+
+“That is a threat,” he answered, in his voiceless manner of assent:
+adding aloud, “but not directed against you.”
+
+Proud, erect, and dignified, as she stood confronting him; and looking
+through him as she did, with her full bright flashing eye; and smiling,
+as she was, with scorn and bitterness; she sunk as if the ground had
+dropped beneath her, and in an instant would have fallen on the floor,
+but that he caught her in his arms. As instantaneously she threw him
+off, the moment that he touched her, and, drawing back, confronted him
+again, immoveable, with her hand stretched out.
+
+“Please to leave me. Say no more tonight.”
+
+“I feel the urgency of this,” said Mr Carker, “because it is impossible
+to say what unforeseen consequences might arise, or how soon, from your
+being unacquainted with his state of mind. I understand Miss Dombey is
+concerned, now, at the dismissal of her old servant, which is likely to
+have been a minor consequence in itself. You don’t blame me for
+requesting that Miss Dombey might not be present. May I [[Hope|hope]] so?”
+
+“I do not. Please to leave me, Sir.”
+
+“I knew that your regard for the young lady, which is very sincere and
+strong, I am [[Well|well]] persuaded, would render it a great unhappiness to
+you, ever to be a prey to the reflection that you had injured her
+position and ruined her future hopes,” said Carker hurriedly, but
+eagerly.
+
+“No more tonight. Leave me, if you please.”
+
+“I shall be here constantly in my attendance upon him, and in the
+transaction of business matters. You will allow me to see you again,
+and to consult what should be done, and learn your wishes?”
+
+She motioned him towards the door.
+
+“I cannot even decide whether to tell him I have spoken to you yet; or
+to lead him to suppose that I have deferred doing so, for want of
+opportunity, or for any other reason. It will be necessary that you
+should enable me to consult with you very soon.”
+
+“At any [[Time|time]] but now,” she answered.
+
+“You will understand, when I wish to see you, that Miss Dombey is not
+to be present; and that I seek an interview as one who has the
+happiness to possess your confidence, and who comes to render you every
+assistance in his power, and, perhaps, on many occasions, to ward off
+evil from her?”
+
+Looking at him still with the same apparent dread of releasing him for
+a moment from the influence of her steady gaze, whatever that might be,
+she answered, “Yes!” and once more bade him go.
+
+He bowed, as if in compliance; but turning back, when he had nearly
+reached the door, said:
+
+“I am forgiven, and have explained my fault. May I—for Miss Dombey’s
+sake, and for my own—take your hand before I go?”
+
+She gave him the gloved hand she had maimed last [[Night|night]]. He took it in
+one of his, and kissed it, and withdrew. And when he had closed the
+door, he waved the hand with which he had taken hers, and thrust it in
+his breast.
+
+Edith saw no one that [[Night|night]], but locked her door, and kept herself
+[[Alone|alone]].
+
+She did not weep; she showed no greater agitation, outwardly, than when
+she was riding [[Home|home]]. She laid as proud a head upon her pillow as she
+had borne in her carriage; and her [[prayer]] ran thus:
+
+“May this man be a liar! For if he has spoken [[Truth|truth]], she is lost to me,
+and I have no [[Hope|hope]] left!”
+
+This man, meanwhile, went [[Home|home]] musing to bed, thinking, with a dainty
+pleasure, how imperious her passion was, how she had sat before him in
+her [[Beauty|beauty]], with the dark eyes that had never turned away but once; how
+the white down had fluttered; how the bird’s feathers had been strewn
+upon the ground.

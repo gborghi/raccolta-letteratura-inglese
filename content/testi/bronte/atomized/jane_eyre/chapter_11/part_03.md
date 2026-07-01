@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 11 (part 3)"
+title: "Jane Eyre — Chapter 11 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_11/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_11/part_04">part 04 ›</a></div>
 </nav>
 
+
+The chamber looked such a bright little place to me as the sun shone in
+between the gay blue chintz [[Window|window]] curtains, showing papered walls and
+a carpeted floor, so unlike the bare planks and stained plaster of
+Lowood, that my spirits [[Rose|rose]] at the view. Externals have a great effect
+on the young: I thought that a fairer era of life was beginning for me,
+one that was to have its [[Flowers|flowers]] and pleasures, as [[Well|well]] as its thorns
+and toils. My faculties, roused by the change of scene, the new field
+offered to [[Hope|hope]], seemed all astir. I cannot precisely define what they
+expected, but it was something pleasant: not perhaps that day or that
+month, but at an indefinite future period.
 
 I [[Rose|rose]]; I dressed myself with care: obliged to be plain—for I had no
 article of attire that was not made with extreme simplicity—I was still
@@ -110,16 +121,3 @@ but a dependent like myself. I did not like her the worse for that; on
 the contrary, I felt better pleased than ever. The equality between her
 and me was real; not the mere result of condescension on her part: so
 much the better—my position was all the freer.
-
-As I was meditating on this discovery, a little girl, followed by her
-attendant, came running up the lawn. I looked at my pupil, who did not
-at first appear to notice me: she was quite a [[Child|child]], perhaps seven or
-eight years old, slightly built, with a pale, small-featured face, and
-a redundancy of hair falling in curls to her waist.
-
-“Good morning, Miss Adela,” said Mrs. Fairfax. “Come and speak to the
-lady who is to teach you, and to make you a clever woman some day.” She
-approached.
-
-“C’est là ma gouvernante!” said she, pointing to me, and addressing her
-[[Nurse|nurse]]; who answered—

@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 4 (part 2)"
+title: "Mansfield Park — Chapter 4 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -106,11 +106,3 @@ in the connexion, the intercourse of the two families was carried on
 without restraint, and no other attempt made at secrecy than Mrs.
 Norris’s talking of it everywhere as a matter not to be talked of at
 present.
-
-[[Edmund]] was the only one of the family who could see a fault in the
-business; but no representation of his aunt’s could induce him to find
-Mr. Rushworth a desirable companion. He could allow his sister to be
-the best judge of her own happiness, but he was not pleased that her
-happiness should centre in a large income; nor could he refrain from
-often saying to himself, in Mr. Rushworth’s company—“If this man had
-not twelve thousand a year, he would be a very stupid fellow.”

@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 47: FORTY SEVEN (part 1)"
+title: "Martin Chuzzlewit — Chapter 47: FORTY SEVEN (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/martin-chuzzlewit-(dickens)">Martin Chuzzlewit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_46_forty_six/part_08">‹ part 08</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_47_forty_seven/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_46_forty_six/part_09">‹ part 09</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_47_forty_seven/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -119,17 +119,3 @@ we’d never found you. Be a little quicker. That’s all.’
 The guard had alighted, and was waiting in the [[Road|road]] to take his money.
 In the [[Jealousy|jealousy]] and distrust of what he contemplated, he thought this
 man looked at him with more than common curiosity.
-
-‘What are you staring at?’ said Jonas.
-
-‘Not at a handsome man,’ returned the guard. ‘If you want your fortune
-told, I’ll tell you a bit of it. You won’t be drowned. That’s a
-consolation for you.’
-
-Before he could retort or turn away, the coachman put an end to the
-dialogue by giving him a cut with his whip, and bidding him get out for a
-surly dog. The guard jumped up to his seat at the same moment, and they
-drove off, laughing; leaving him to stand in the [[Road|road]] and shake his fist
-at them. He was not displeased though, on second thoughts, to have
-been taken for an ill-conditioned common country fellow; but rather
-congratulated himself upon it as a proof that he was [[Well|well]] disguised.

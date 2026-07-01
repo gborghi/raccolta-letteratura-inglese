@@ -1,5 +1,5 @@
 ---
-title: "The Haunted Man and the [[Ghost]]'s Bargain — Chapter 2 (part 12)"
+title: "The Haunted Man and the Ghost's Bargain — Chapter 2 (part 12)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-haunted-man-and-the-ghost's-bargain-(dickens)"
@@ -13,6 +13,46 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_02/part_11">‹ part 11</a><a class="ex-next" href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_02/part_13">part 13 ›</a></div>
 </nav>
 
+
+Redlaw’s eyes wandered from the old man’s grey head, as he laid it down
+upon the bed, to the person who had recognised him, and who had kept
+aloof, in the remotest corner of the room. He seemed to be about his own
+age; and although he knew no such hopeless [[Decay|decay]] and broken man as he
+appeared to be, there was something in the turn of his figure, as he
+stood with his back towards him, and now went out at the door, that made
+him pass his hand uneasily across his brow.
+
+“William,” he said in a gloomy whisper, “who is that man?”
+
+“Why you see, sir,” returned Mr. William, “that’s what I say, myself.
+Why should a man ever go and gamble, and the like of that, and let
+himself down inch by inch till he can’t let himself down any lower!”
+
+“Has _he_ done so?” asked Redlaw, glancing after him with the same uneasy
+action as before.
+
+“Just exactly that, sir,” returned [[William Swidger]], “as I’m told. He
+knows a little about medicine, sir, it seems; and having been wayfaring
+towards [[London]] with my unhappy brother that you see here,” Mr. William
+passed his coat-sleeve across his eyes, “and being lodging up stairs for
+the [[Night|night]]—what I say, you see, is that strange companions come together
+here sometimes—he looked in to attend upon him, and came for us at his
+request. What a mournful spectacle, sir! But that’s where it is. It’s
+enough to kill my father!”
+
+Redlaw looked up, at these words, and, recalling where he was and with
+whom, and the spell he carried with him—which his surprise had
+obscured—retired a little, hurriedly, debating with himself whether to
+shun the [[house]] that moment, or remain.
+
+Yielding to a certain sullen doggedness, which it seemed to be a part of
+his condition to struggle with, he argued for remaining.
+
+“Was it only yesterday,” he said, “when I observed the [[Memory|memory]] of this old
+man to be a tissue of sorrow and trouble, and shall I be afraid,
+to-[[Night|night]], to shake it? Are such remembrances as I can drive away, so
+precious to this dying man that I need [[Fear|fear]] for _him_? No! I’ll stay
+here.”
 
 But he stayed in [[Fear|fear]] and trembling none the less for these words; and,
 shrouded in his black cloak with his face turned from them, stood away
@@ -98,57 +138,3 @@ hand upon his heart, with a look in which the mute, imploring agony of
 his condition was concentrated, “by the sight of my poor old father, and
 the thought of all the trouble I have been the cause of, and all the
 wrong and sorrow lying at my door, that—”
-
-Was it the extremity to which he had come, or was it the dawning of
-another change, that made him stop?
-
-“—that what I _can_ do right, with my mind running on so much, so fast,
-I’ll try to do. There was another man here. Did you see him?”
-
-Redlaw could not reply by any word; for when he saw that fatal sign he
-knew so [[Well|well]] now, of the wandering hand upon the forehead, his voice died
-at his lips. But he made some indication of assent.
-
-“He is penniless, hungry, and destitute. He is completely beaten down,
-and has no resource at all. Look after him! Lose no [[Time|time]]! I know he
-has it in his mind to kill himself.”
-
-It was working. It was on his face. His face was changing, hardening,
-deepening in all its shades, and losing all its sorrow.
-
-“Don’t you remember? Don’t you know him?” he pursued.
-
-He shut his face out for a moment, with the hand that again wandered over
-his forehead, and then it lowered on Redlaw, reckless, ruffianly, and
-callous.
-
-“Why, d-n you!” he said, scowling round, “what have you been doing to me
-here! I have lived bold, and I mean to die bold. To the Devil with
-you!”
-
-And so lay down upon his bed, and put his arms up, over his head and
-ears, as resolute from that [[Time|time]] to keep out all access, and to die in
-his indifference.
-
-If Redlaw had been struck by [[Lightning|lightning]], it could not have struck him from
-the bedside with a more tremendous shock. But the old man, who had left
-the bed while his son was speaking to him, now returning, avoided it
-quickly likewise, and with abhorrence.
-
-“Where’s my boy William?” said the old man hurriedly. “William, come
-away from here. We’ll go [[Home|home]].”
-
-“[[Home]], father!” returned William. “Are you going to leave your own son?”
-
-“Where’s my own son?” replied the old man.
-
-“Where? why, there!”
-
-“That’s no son of mine,” said Philip, trembling with resentment. “No
-such wretch as that, has any claim on me. My children are pleasant to
-look at, and they wait upon me, and get my meat and drink ready, and are
-useful to me. I’ve a right to it! I’m eighty-seven!”
-
-“You’re old enough to be no older,” muttered William, looking at him
-grudgingly, with his hands in his pockets. “I don’t know what good you
-are, myself. We could have a deal more pleasure without you.”

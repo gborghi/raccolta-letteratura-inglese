@@ -1,5 +1,5 @@
 ---
-title: "[[The Unparalleled Adventures of one Hans Pfaall]] (part 19)"
+title: "The Unparalleled Adventures of one Hans Pfaall (part 19)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-unparalleled-adventures-of-one-hans-pfaall-(poe)"
@@ -13,6 +13,96 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/part/part_18">‹ part 18</a><a class="ex-next" href="/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/part/part_20">part 20 ›</a></div>
 </nav>
 
+
+      solar rays, before any part of the dark hemisphere was visible.
+
+      Soon afterward, the whole dark limb became illuminated. This
+
+      prolongation of the cusps beyond the semicircle, I thought, must
+
+      have arisen from the refraction of the sun’s rays by the [[Moon|moon]]’s
+
+      atmosphere. I computed, also, the height of the atmosphere (which
+
+      could refract light enough into its dark hemisphere to produce a
+
+      twilight more luminous than the light reflected from the earth
+
+      when the [[Moon|moon]] is about 32° from the new) to be 1,356 [[Paris]] feet;
+
+      in this view, I supposed the greatest height capable of
+
+      refracting the solar ray, to be 5,376 feet. My ideas on this
+
+      topic had also received confirmation by a passage in the
+
+      eighty-second volume of the Philosophical Transactions, in which
+
+      it is stated that at an occultation of Jupiter’s satellites, the
+
+      third disappeared after having been about 1″ or 2″ of [[Time|time]]
+
+      indistinct, and the fourth became indiscernible near the
+
+      limb.(*4)
+
+
+
+      “Upon the resistance or, more properly, upon the support of an
+
+      atmosphere, existing in the state of density imagined, I had, of
+
+      course, entirely depended for the safety of my ultimate descent.
+
+      Should I then, after all, prove to have been mistaken, I had in
+
+      consequence nothing better to expect, as a finale to my
+
+      adventure, than being dashed into atoms against the rugged
+
+      surface of the satellite. And, indeed, I had now every reason to
+
+      be terrified. My distance from the [[Moon|moon]] was comparatively
+
+      trifling, while the labor required by the condenser was
+
+      diminished not at all, and I could discover no indication
+
+      whatever of a decreasing rarity in the air.
+
+
+
+      “April 19th. This morning, to my great joy, about nine o’[[Clock|clock]],
+
+      the surface of the [[Moon|moon]] being frightfully near, and my
+
+      apprehensions excited to the utmost, the pump of my condenser at
+
+      length gave evident tokens of an alteration in the atmosphere. By
+
+      ten, I had reason to believe its density considerably increased.
+
+      By eleven, very little labor was necessary at the apparatus; and
+
+      at twelve o’[[Clock|clock]], with some hesitation, I ventured to unscrew
+
+      the tourniquet, when, finding no inconvenience from having done
+
+      so, I finally threw open the gum-elastic chamber, and unrigged it
+
+      from around the car. As might have been expected, spasms and
+
+      violent headache were the immediate consequences of an experiment
+
+      so precipitate and full of danger. But these and other
+
+      difficulties attending respiration, as they were by no means so
+
+      great as to put me in peril of my life, I determined to endure as
+
+      I best could, in consideration of my leaving them behind me
+
+      momently in my approach to the denser strata near the [[Moon|moon]]. This
 
       approach, however, was still impetuous in the extreme; and it
 
@@ -101,91 +191,3 @@ tags:
       arrived in safety at the conclusion of a voyage undoubtedly the
 
       most extraordinary, and the most momentous, ever accomplished,
-
-      undertaken, or conceived by any denizen of earth. But my
-
-      adventures yet remain to be related. And indeed your Excellencies
-
-      may [[Well|well]] imagine that, after a residence of five years upon a
-
-      planet not only deeply interesting in its own peculiar character,
-
-      but rendered doubly so by its intimate connection, in capacity of
-
-      satellite, with the world inhabited by man, I may have
-
-      intelligence for the private ear of the States’ College of
-
-      Astronomers of far more importance than the details, however
-
-      wonderful, of the mere voyage which so happily concluded. This
-
-      is, in fact, the case. I have much—very much which it would give
-
-      me the greatest pleasure to communicate. I have much to say of
-
-      the climate of the planet; of its wonderful alternations of heat
-
-      and cold, of unmitigated and burning sunshine for one fortnight,
-
-      and more than polar frigidity for the next; of a constant
-
-      transfer of moisture, by distillation like that in vacuo, from
-
-      the point beneath the sun to the point the farthest from it; of a
-
-      variable zone of running [[Water|water]]; of the people themselves; of
-
-      their manners, customs, and political institutions; of their
-
-      peculiar physical construction; of their ugliness; of their want
-
-      of ears, those useless appendages in an atmosphere so peculiarly
-
-      modified; of their consequent ignorance of the use and properties
-
-      of speech; of their substitute for speech in a singular method of
-
-      inter-communication; of the incomprehensible connection between
-
-      each particular individual in the [[Moon|moon]] with some particular
-
-      individual on the earth—a connection analogous with, and
-
-      depending upon, that of the orbs of the planet and the
-
-      satellites, and by means of which the lives and destinies of the
-
-      inhabitants of the one are interwoven with the lives and
-
-      destinies of the inhabitants of the other; and above all, if it
-
-      so please your Excellencies—above all, of those dark and hideous
-
-      mysteries which lie in the outer regions of the [[Moon|moon]]—regions
-
-      which, owing to the almost miraculous accordance of the
-
-      satellite’s rotation on its own axis with its sidereal revolution
-
-      about the earth, have never yet been turned, and, by God’s [[Mercy|mercy]],
-
-      never shall be turned, to the scrutiny of the telescopes of man.
-
-      All this, and more—much more—would I most willingly detail. But,
-
-      to be brief, I must have my reward. I am pining for a return to
-
-      my family and to my [[Home|home]]; and as the price of any farther
-
-      communication on my part—in consideration of the light which I
-
-      have it in my power to throw upon many very important branches of
-
-      physical and metaphysical science—I must solicit, through the
-
-      influence of your honorable [[Body|body]], a pardon for the crime of which
-
-      I have been guilty in the [[Death|death]] of the creditors upon my
-
-      departure from Rotterdam. This, then, is the object of the

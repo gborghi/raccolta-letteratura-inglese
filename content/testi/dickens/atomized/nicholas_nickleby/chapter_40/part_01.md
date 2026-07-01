@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 40 (part 1)"
+title: "Nicholas Nickleby — Chapter 40 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -118,11 +118,3 @@ more has the old lady, nor Miss Nickleby.’
 
 ‘No, no. Has SHE thought about me?’ said [[Smike]]. ‘Has she though? oh, has
 she, has she? Don’t tell me so if she has not.’
-
-‘She has,’ cried Newman. ‘She is as noble-hearted as she is beautiful.’
-
-‘Yes, yes!’ cried [[Smike]]. ‘[[Well]] said!’
-
-‘So mild and gentle,’ said Newman.
-
-‘Yes, yes!’ cried [[Smike]], with increasing eagerness.

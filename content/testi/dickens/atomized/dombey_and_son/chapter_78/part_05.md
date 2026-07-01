@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 22 (part 5)"
+title: "Dombey and Son — Chapter 50 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,130 +14,106 @@ tags:
 </nav>
 
 
-Ridiculous as this attendance was, it was a sign of an influence
-established over the boy, and therefore Mr Carker, affecting not to
-notice it, rode away into the neighbourhood of Mr Toodle’s [[house]]. On
-his slackening his pace here, Rob appeared before him to point out the
-turnings; and when he called to a man at a neighbouring gateway to hold
-his [[Horse|horse]], pending his visit to the buildings that had succeeded
-Staggs’s Gardens, Rob dutifully held the stirrup, while the Manager
-dismounted.
+“Miss Dombey,” said Mr Toots, touching her proffered hand, with a pang
+of hopeless [[Love|love]] visibly shooting through him, and flashing out in his
+face, “Good-bye! Allow me to take the liberty of saying, that your
+misfortunes make me perfectly wretched, and that you may trust me, next
+to Captain Gills himself. I am quite aware, Miss Dombey, of my own
+deficiencies—they’re not of the least consequence, thank you—but I am
+entirely to be relied upon, I do assure you, Miss Dombey.”
 
-“Now, Sir,” said Mr Carker, taking him by the shoulder, “come along!”
+With that Mr Toots came out of the room, again accompanied by the
+Captain, who, standing at a little distance, holding his hat under his
+arm and arranging his scattered locks with his hook, had been a not
+uninterested witness of what passed. And when the door closed behind
+them, the light of Mr Toots’s life was darkly clouded again.
 
-The prodigal son was evidently nervous of visiting the parental abode;
-but Mr Carker pushing him on before, he had nothing for it but to open
-the right door, and suffer himself to be walked into the midst of his
-brothers and sisters, mustered in overwhelming force round the family
-tea-table. At sight of the prodigal in the grasp of a stranger, these
-tender relations united in a general howl, which smote upon the
-prodigal’s breast so sharply when he saw his mother stand up among
-them, pale and trembling, with the baby in her arms, that he lent his
-own voice to the [[Chorus|chorus]].
+“Captain Gills,” said that gentleman, stopping near the [[Bottom|bottom]] of the
+stairs, and turning round, “to tell you the [[Truth|truth]], I am not in a frame
+of mind at the present moment, in which I could see Lieutenant Walters
+with that entirely friendly feeling towards him that I should wish to
+harbour in my breast. We cannot always command our feelings, Captain
+Gills, and I should take it as a particular favour if you’d let me out
+at the private door.”
 
-Nothing doubting now that the stranger, if not Mr Ketch in person, was
-one of that company, the whole of the young family wailed the louder,
-while its more infantine members, unable to control the transports of
-emotion appertaining to their [[Time|time]] of life, threw themselves on their
-backs like young [[Birds|birds]] when terrified by a hawk, and kicked violently.
-At length, poor Polly making herself audible, said, with quivering
-lips, “Oh Rob, my poor boy, what have you done at last!”
+“Brother,” returned the Captain, “you shall shape your own course.
+Wotever course you take, is plain and seamanlike, I’m wery sure.”
 
-“Nothing, mother,” cried Rob, in a piteous voice, “ask the gentleman!”
+“Captain Gills,” said Mr Toots, “you’re extremely kind. Your good
+opinion is a consolation to me. There is one thing,” said Mr Toots,
+standing in the passage, behind the half-opened door, “that I [[Hope|hope]]
+you’ll bear in mind, Captain Gills, and that I should wish Lieutenant
+Walters to be made acquainted with. I have quite come into my property
+now, you know, and—and I don’t know what to do with it. If I could be
+at all useful in a pecuniary point of view, I should glide into the
+silent tomb with ease and smoothness.”
 
-“Don’t be alarmed,” said Mr Carker, “I want to do him good.”
+Mr Toots said no more, but slipped out quietly and shut the door upon
+himself, to cut the Captain off from any reply.
 
-At this announcement, Polly, who had not cried yet, began to do so. The
-elder Toodles, who appeared to have been meditating a rescue,
-unclenched their fists. The younger Toodles clustered round their
-mother’s gown, and peeped from under their own chubby arms at their
-desperado brother and his unknown friend. Everybody blessed the
-gentleman with the beautiful teeth, who wanted to do good.
+Florence thought of this good creature, long after he had left her,
+with mingled emotions of [[Pain|pain]] and pleasure. He was so honest and
+warm-hearted, that to see him again and be assured of his [[Truth|truth]] to her
+in her distress, was a joy and comfort beyond all price; but for that
+very reason, it was so affecting to think that she caused him a
+moment’s unhappiness, or ruffled, by a breath, the harmless current of
+his life, that her eyes filled with [[Tears|tears]], and her bosom overflowed
+with pity. [[Captain Cuttle]], in his different way, thought much of Mr
+Toots too; and so did Walter; and when the evening came, and they were
+all sitting together in Florence’s new room, Walter praised him in a
+most impassioned manner, and told Florence what he had said on leaving
+the [[house]], with every graceful setting-off in the way of comment and
+appreciation that his own honesty and sympathy could surround it with.
 
-“This fellow,” said Mr Carker to Polly, giving him a gentle shake, “is
-your son, eh, Ma’am?”
+Mr Toots did not return upon the next day, or the next, or for several
+days; and in the meanwhile Florence, without any new alarm, lived like
+a quiet bird in a cage, at the top of the old Instrument-maker’s [[house]].
+But Florence drooped and hung her head more and more plainly, as the
+days went on; and the expression that had been seen in the face of the
+dead [[Child|child]], was often turned to the sky from her high [[Window|window]], as if it
+sought his angel out, on the bright shore of which he had spoken: lying
+on his little bed.
 
-“Yes, Sir,” sobbed Polly, with a curtsey; “yes, Sir.”
+Florence had been weak and delicate of late, and the agitation she had
+undergone was not without its influences on her health. But it was no
+bodily illness that affected her now. She was distressed in mind; and
+the cause of her distress was Walter.
 
-“A bad son, I am afraid?” said Mr Carker.
+Interested in her, anxious for her, proud and glad to serve her, and
+showing all this with the enthusiasm and ardour of his character,
+Florence saw that he avoided her. All the long day through, he seldom
+approached her room. If she asked for him, he came, again for the
+moment as earnest and as bright as she remembered him when she was a
+lost [[Child|child]] in the staring streets; but he soon became constrained—her
+quick affection was too watchful not to know it—and uneasy, and soon
+left her. Unsought, he never came, all day, between the morning and the
+[[Night|night]]. When the evening closed in, he was always there, and that was
+her happiest [[Time|time]], for then she half believed that the old Walter of
+her [[Childhood|childhood]] was not changed. But, even then, some trivial word, look,
+or circumstance would show her that there was an indefinable division
+between them which could not be passed.
 
-“Never a bad son to me, Sir,” returned Polly.
+And she could not but see that these revealings of a great alteration
+in Walter manifested themselves in despite of his utmost efforts to
+hide them. In his consideration for her, she thought, and in the
+earnestness of his [[Desire|desire]] to spare her any wound from his kind hand, he
+resorted to innumerable little artifices and disguises. So much the
+more did Florence feel the [[Greatness|greatness]] of the alteration in him; so much
+the oftener did she weep at this estrangement of her brother.
 
-“To whom then?” demanded Mr Carker.
+The good Captain—her untiring, tender, ever zealous friend—saw it, too,
+Florence thought, and it pained him. He was less cheerful and hopeful
+than he had been at first, and would steal looks at her and Walter, by
+turns, when they were all three together of an evening, with quite a
+sad face.
 
-“He has been a little wild, Sir,” returned Polly, checking the baby,
-who was making convulsive efforts with his arms and legs to launch
-himself on Biler, through the ambient air, “and has gone with wrong
-companions: but I [[Hope|hope]] he has seen the misery of that, Sir, and will do
-[[Well|well]] again.”
+Florence resolved, at last, to speak to Walter. She believed she knew
+now what the cause of his estrangement was, and she thought it would be
+a relief to her full heart, and would set him more at ease, if she told
+him she had found it out, and quite submitted to it, and did not
+reproach him.
 
-Mr Carker looked at Polly, and the clean room, and the clean children,
-and the simple Toodle face, combined of father and mother, that was
-reflected and repeated everywhere about him—and seemed to have achieved
-the real purpose of his visit.
-
-“Your husband, I take it, is not at [[Home|home]]?” he said.
-
-“No, Sir,” replied Polly. “He’s down the line at present.”
-
-The prodigal Rob seemed very much relieved to hear it: though still in
-the absorption of all his faculties in his patron, he hardly took his
-eyes from Mr Carker’s face, unless for a moment at a [[Time|time]] to steal a
-sorrowful glance at his mother.
-
-“Then,” said Mr Carker, “I’ll tell you how I have stumbled on this boy
-of yours, and who I am, and what I am going to do for him.”
-
-This Mr Carker did, in his own way; saying that he at first intended to
-have accumulated nameless terrors on his presumptuous head, for coming
-to the whereabout of Dombey and Son. That he had relented, in
-consideration of his youth, his professed contrition, and his friends.
-That he was afraid he took a rash step in doing anything for the boy,
-and one that might expose him to the censure of the prudent; but that
-he did it of himself and for himself, and risked the consequences
-single-handed; and that his mother’s past connexion with Mr Dombey’s
-family had nothing to do with it, and that Mr Dombey had nothing to do
-with it, but that he, Mr Carker, was the be-all and the end-all of this
-business. Taking great credit to himself for his goodness, and
-receiving no less from all the family then present, Mr Carker
-signified, indirectly but still pretty plainly, that Rob’s implicit
-fidelity, attachment, and devotion, were for evermore his due, and the
-least homage he could receive. And with this great [[Truth|truth]] Rob himself
-was so impressed, that, standing gazing on his patron with [[Tears|tears]]
-[[rolling]] down his cheeks, he nodded his shiny head until it seemed
-almost as loose as it had done under the same patron’s hands that
-morning.
-
-Polly, who had passed Heaven knows how many sleepless nights on account
-of this her dissipated firstborn, and had not seen him for weeks and
-weeks, could have almost kneeled to Mr Carker the Manager, as to a Good
-Spirit—in spite of his teeth. But Mr Carker rising to depart, she only
-thanked him with her mother’s prayers and blessings; thanks so rich
-when paid out of the Heart’s mint, especially for any service Mr Carker
-had rendered, that he might have given back a large amount of change,
-and yet been overpaid.
-
-As that gentleman made his way among the crowding children to the door,
-Rob retreated on his mother, and took her and the baby in the same
-repentant hug.
-
-“I’ll try hard, dear mother, now. Upon my [[Soul|soul]] I will!” said Rob.
-
-“Oh do, my dear boy! I am sure you will, for our sakes and your own!”
-cried Polly, kissing him. “But you’re coming back to speak to me, when
-you have seen the gentleman away?”
-
-“I don’t know, mother.” Rob hesitated, and looked down. “Father—when’s
-he coming [[Home|home]]?”
-
-“Not till two o’[[Clock|clock]] to-morrow morning.”
-
-“I’ll come back, mother dear!” cried Rob. And passing through the
-shrill cry of his brothers and sisters in reception of this promise, he
-followed Mr Carker out.
-
-“What!” said Mr Carker, who had heard this. “You have a bad father,
-have you?”
-
-“No, Sir!” returned Rob, amazed. “There ain’t a better nor a kinder
-father going, than mine is.”
+It was on a certain [[Sunday]] afternoon, that Florence took this
+resolution. The faithful Captain, in an amazing shirt-collar, was
+sitting by her, reading with his spectacles on, and she asked him where
+Walter was.

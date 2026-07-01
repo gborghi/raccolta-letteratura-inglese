@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]] — On Smart Novelists and the Smart Set (part 1)"
+title: "heret12 — On Smart Novelists and the Smart Set (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/heret12-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 XV.  On Smart Novelists and the Smart Set
-
 
 In one sense, at any rate, it is more valuable to read bad literature
 than good literature.  Good literature may tell us the mind

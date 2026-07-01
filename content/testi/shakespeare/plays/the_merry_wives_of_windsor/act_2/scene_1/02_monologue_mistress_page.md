@@ -1,5 +1,5 @@
 ---
-title: "The Merry Wives of Windsor — Act II, Scene 1 — monologue ([[Mistress Page|MISTRESS PAGE]]) [2]"
+title: "The Merry Wives of Windsor — Act II, Scene 1 — monologue (MISTRESS PAGE) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-merry-wives-of-windsor-(shakespeare)"

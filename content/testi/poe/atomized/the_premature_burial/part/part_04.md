@@ -1,5 +1,5 @@
 ---
-title: "[[The Premature Burial]] (part 4)"
+title: "The Premature Burial (part 4)"
 author: "Poe"
 unitType: excerpt
 tags:
@@ -12,6 +12,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_premature_burial/part/part_03">‹ part 03</a><a class="ex-next" href="/testi/poe/atomized/the_premature_burial/part/part_05">part 05 ›</a></div>
 </nav>
 
+
+      In all that I endured there was no physical [[Suffering|suffering]] but of
+      moral distress an infinitude. My fancy grew charnel, I talked “of
+      worms, of tombs, and epitaphs.” I was lost in reveries of [[Death|death]],
+      and the idea of premature burial held continual possession of my
+      brain. The ghastly Danger to which I was subjected haunted me day
+      and [[Night|night]]. In the former, the torture of meditation was
+      excessive—in the latter, supreme. When the grim Darkness
+      overspread the Earth, then, with every horror of thought, I
+      shook—shook as the quivering plumes upon the hearse. When [[Nature]]
+      could endure wakefulness no longer, it was with a struggle that I
+      consented to [[Sleep|sleep]]—for I shuddered to reflect that, upon awaking,
+      I might find myself the tenant of a [[Grave|grave]]. And when, finally, I
+      sank into slumber, it was only to rush at once into a world of
+      phantasms, above which, with vast, sable, overshadowing wing,
+      hovered, predominant, the one sepulchral Idea.
 
       From the innumerable images of gloom which thus oppressed me in
       [[Dreams|dreams]], I select for record but a solitary vision. Methought I
@@ -102,26 +118,3 @@ tags:
       Not even these [[Well|well]]-contrived securities sufficed to save from
       the uttermost agonies of living inhumation, a wretch to these
       agonies foredoomed!
-
-      There arrived an epoch—as often before there had arrived—in which
-      I found myself emerging from total unconsciousness into the first
-      feeble and indefinite sense of existence. Slowly—with a tortoise
-      gradation—approached the faint gray [[Dawn|dawn]] of the psychal day. A
-      torpid uneasiness. An apathetic [[Endurance|endurance]] of dull [[Pain|pain]]. No
-      care—no [[Hope|hope]]—no effort. Then, after a long interval, a ringing in
-      the ears; then, after a lapse still longer, a prickling or
-      tingling sensation in the extremities; then a seemingly eternal
-      period of pleasurable quiescence, during which the awakening
-      feelings are struggling into thought; then a brief re-sinking
-      into non-entity; then a sudden recovery. At length the slight
-      quivering of an eyelid, and immediately thereupon, an electric
-      shock of a terror, deadly and indefinite, which sends the [[Blood|blood]]
-      in torrents from the temples to the heart. And now the first
-      positive effort to think. And now the first endeavor to remember.
-      And now a partial and evanescent [[success]]. And now the [[Memory|memory]] has
-      so far regained its dominion, that, in some measure, I am
-      cognizant of my state. I feel that I am not awaking from ordinary
-      [[Sleep|sleep]]. I recollect that I have been subject to catalepsy. And
-      now, at last, as if by the rush of an ocean, my shuddering spirit
-      is overwhelmed by the one grim Danger—by the one spectral and
-      ever-prevalent idea.

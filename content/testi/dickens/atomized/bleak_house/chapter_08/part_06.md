@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 8 (part 6)"
+title: "Bleak House — Chapter 8 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -123,13 +123,3 @@ demonstrative cheerfulness.
 
 “So long as you goes now,” said he, folding his arms and shutting his
 eyes with an oath, “you may do wot you like!”
-
-Mrs. Pardiggle accordingly [[Rose|rose]] and made a little vortex in the
-confined room from which the pipe itself very narrowly escaped.
-Taking one of her young family in each hand, and telling the others
-to follow closely, and expressing her [[Hope|hope]] that the brickmaker and
-all his [[house]] would be improved when she saw them next, she then
-proceeded to another cottage. I [[Hope|hope]] it is not unkind in me to say
-that she certainly did make, in this as in everything else, a show
-that was not conciliatory of doing [[Charity|charity]] by wholesale and of
-dealing in it to a large extent.

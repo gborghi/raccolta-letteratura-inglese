@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 7 (part 1)"
+title: "Jane Eyre — Chapter 7 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -114,10 +114,3 @@ Miss Temple and the teachers of my vicious [[Nature|nature]]. All along I had be
 dreading the fulfilment of this promise,—I had been looking out daily
 for the “Coming Man,” whose information respecting my past life and
 conversation was to brand me as a bad [[Child|child]] for ever: now there he was.
-
-He stood at Miss Temple’s side; he was speaking low in her ear: I did
-not [[Doubt|doubt]] he was making disclosures of my villainy; and I watched her
-eye with painful anxiety, expecting every moment to see its dark orb
-turn on me a glance of repugnance and contempt. I listened too; and as
-I happened to be seated quite at the top of the room, I caught most of
-what he said: its import relieved me from immediate apprehension.

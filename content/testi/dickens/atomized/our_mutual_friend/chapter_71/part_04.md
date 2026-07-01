@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 12 (part 4)"
+title: "Our Mutual Friend — Chapter 16 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,135 +10,157 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_71/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_71/part_05">part 05 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_71/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_72/part_01">part 01 ›</a></div>
 </nav>
 
 
-Still, as in [[A Dream|a dream]], Bella found herself entering a snug old-fashioned
-public-[[house]], and found herself smuggled into a little three-cornered
-room nearly opposite the bar of that establishment. Mr Inspector
-achieved the smuggling of herself and John into this queer room, called
-Cosy in an [[Inscription|inscription]] on the door, by entering in the narrow passage
-first in order, and suddenly turning round upon them with extended arms,
-as if they had been two sheep. The room was lighted for their reception.
+‘There, there, there!’ said Miss Wren. ‘For goodness’ sake, stop, Giant,
+or I shall be swallowed up alive, before I know it. And to this minute
+you haven’t said what you’ve come for.’
 
-‘Now,’ said Mr Inspector to John, turning the gas lower; ‘I’ll mix with
-’em in a casual way, and when I say Identification, perhaps you’ll show
-yourself.’
+‘I have come for little Miss Harmonses doll,’ said Sloppy.
 
-John nodded, and Mr Inspector went [[Alone|alone]] to the half-door of the bar.
-From the dim doorway of Cosy, within which Bella and her husband stood,
-they could see a comfortable little party of three persons sitting at
-supper in the bar, and could hear everything that was said.
+‘I thought as much,’ remarked Miss Wren, ‘and here is little Miss
+Harmonses doll waiting for you. She’s folded up in silver paper, you
+see, as if she was wrapped from head to foot in new Bank notes. Take
+care of her, and there’s my hand, and thank you again.’
 
-The three persons were Miss Abbey and two male guests. To whom
-collectively, Mr Inspector remarked that the weather was getting sharp
-for the [[Time|time]] of year.
+‘I’ll take more care of her than if she was a gold image,’ said Sloppy,
+‘and there’s both MY hands, Miss, and I’ll soon come back again.’
 
-‘It need be sharp to suit your wits, sir,’ said Miss Abbey. ‘What have
-you got in hand now?’
 
-‘Thanking you for your compliment: not much, Miss Abbey,’ was Mr
-Inspector’s rejoinder.
+But, the greatest event of all, in the new life of Mr and Mrs John
+Harmon, was a visit from Mr and Mrs [[Eugene Wrayburn]]. Sadly wan and worn
+was the once gallant Eugene, and walked resting on his wife’s arm, and
+leaning heavily upon a stick. But, he was daily growing stronger and
+better, and it was declared by the medical attendants that he might not
+be much disfigured by-and-by. It was a grand event, indeed, when Mr
+and Mrs [[Eugene Wrayburn]] came to stay at Mr and Mrs [[John Harmon]]’s [[house]]:
+where, by the way, Mr and Mrs Boffin (exquisitely happy, and daily
+cruising about, to look at shops,) were likewise staying indefinitely.
 
-‘Who have you got in Cosy?’ asked Miss Abbey.
+To Mr [[Eugene Wrayburn]], in confidence, did Mrs [[John Harmon]] impart what
+she had known of the state of his wife’s affections, in his reckless
+[[Time|time]]. And to Mrs [[John Harmon]], in confidence, did Mr [[Eugene Wrayburn]]
+impart that, please God, she should see how his wife had changed him!
 
-‘Only a gentleman and his wife, Miss.’
+‘I make no protestations,’ said Eugene; ‘—who does, who means them!—I
+have made a resolution.’
 
-‘And who are they? If one may ask it without detriment to your deep
-plans in the interests of the honest public?’ said Miss Abbey, proud of
-Mr Inspector as an administrative genius.
+‘But would you believe, Bella,’ interposed his wife, coming to resume
+her [[Nurse|nurse]]’s place at his side, for he never got on [[Well|well]] without her:
+‘that on our wedding day he told me he almost thought the best thing he
+could do, was to die?’
 
-‘They are strangers in this part of the town, Miss Abbey. They are
-waiting till I shall want the gentleman to show himself somewhere, for
-half a moment.’
+‘As I didn’t do it, Lizzie,’ said Eugene, ‘I’ll do that better thing you
+suggested—for your sake.’
 
-‘While they’re waiting,’ said Miss Abbey, ‘couldn’t you join us?’
+That same afternoon, Eugene lying on his couch in his own room upstairs,
+Lightwood came to chat with him, while Bella took his wife out for a
+ride. ‘Nothing short of force will make her go,’ Eugene had said; so,
+Bella had playfully forced her.
 
-Mr Inspector immediately slipped into the bar, and sat down at the side
-of the half-door, with his back towards the passage, and directly facing
-the two guests. ‘I don’t take my supper till later in the [[Night|night]],’ said
-he, ‘and therefore I won’t disturb the compactness of the table. But
-I’ll take a glass of flip, if that’s flip in the jug in the fender.’
+‘Dear old fellow,’ Eugene began with Lightwood, reaching up his hand,
+‘you couldn’t have come at a better [[Time|time]], for my mind is full, and I
+want to empty it. First, of my present, before I touch upon my future.
+M. R. F., who is a much younger cavalier than I, and a professed admirer
+of [[Beauty|beauty]], was so affable as to remark the other day (he paid us a visit
+of two days up the [[River|river]] there, and much objected to the accommodation
+of the hotel), that Lizzie ought to have her portrait painted. Which,
+coming from M. R. F., may be considered equivalent to a melodramatic
+blessing.’
 
-‘That’s flip,’ replied Miss Abbey, ‘and it’s my making, and if even you
-can find out better, I shall be glad to know where.’ Filling him, with
-hospitable hands, a steaming tumbler, Miss Abbey replaced the jug by
-the [[Fire|fire]]; the company not having yet arrived at the flip-stage of their
-supper, but being as yet skirmishing with strong ale.
+‘You are getting [[Well|well]],’ said Mortimer, with a smile.
 
-‘Ah—h!’ cried Mr Inspector. ‘That’s the smack! There’s not a [[Detective]]
-in the Force, Miss Abbey, that could find out better stuff than that.’
+‘Really,’ said Eugene, ‘I mean it. When M. R. F. said that, and followed
+it up by [[rolling]] the claret (for which he called, and I paid), in his
+mouth, and saying, “My dear son, why do you drink this trash?” it was
+tantamount in him—to a paternal benediction on our [[Union|union]], accompanied
+with a gush of [[Tears|tears]]. The coolness of M. R. F. is not to be measured by
+ordinary standards.’
 
-‘Glad to hear you say so,’ rejoined Miss Abbey. ‘You ought to know, if
-anybody does.’
+‘True enough,’ said Lightwood.
 
-‘Mr Job Potterson,’ Mr Inspector continued, ‘I drink your health. Mr
-Jacob Kibble, I drink yours. [[Hope]] you have made a prosperous voyage
-[[Home|home]], gentlemen both.’
+‘That’s all,’ pursued Eugene, ‘that I shall ever hear from M. R. F. on
+the subject, and he will continue to saunter through the world with
+his hat on one side. My [[Marriage|marriage]] being thus solemnly recognized at the
+family altar, I have no further trouble on that score. Next, you really
+have done wonders for me, Mortimer, in easing my money-perplexities, and
+with such a guardian and steward beside me, as the preserver of my life
+(I am hardly strong yet, you see, for I am not man enough to refer
+to her without a trembling voice—she is so inexpressibly dear to me,
+Mortimer!), the little that I can call my own will be more than it ever
+has been. It need be more, for you know what it always has been in my
+hands. Nothing.’
 
-Mr Kibble, an unctuous broad man of few words and many mouthfuls, said,
-more briefly than pointedly, raising his ale to his lips: ‘Same to you.’
-Mr Job Potterson, a semi-seafaring man of obliging demeanour, said,
-‘Thank you, sir.’
+‘Worse than nothing, I fancy, Eugene. My own small income (I devoutly
+wish that my grandfather had left it to the Ocean rather than to me!)
+has been an effective Something, in the way of preventing me from
+turning to at Anything. And I think yours has been much the same.’
 
-‘Lord bless my [[Soul|soul]] and [[Body|body]]!’ cried Mr Inspector. ‘Talk of trades, Miss
-Abbey, and the way they set their marks on men’ (a subject which nobody
-had approached); ‘who wouldn’t know your brother to be a Steward!
-There’s a bright and ready twinkle in his eye, there’s a neatness in his
-action, there’s a smartness in his figure, there’s an air of reliability
-about him in case you wanted a basin, which points out the steward! And
-Mr Kibble; ain’t he Passenger, all over? While there’s that mercantile
-cut upon him which would make you happy to give him credit for five
-hundred pound, don’t you see the salt sea shining on him too?’
+‘There spake the voice of wisdom,’ said Eugene. ‘We are shepherds both.
+In turning to at last, we turn to in earnest. Let us say no more of
+that, for a few years to come. Now, I have had an idea, Mortimer, of
+taking myself and my wife to one of the colonies, and working at my
+vocation there.’
 
-‘YOU do, I dare say,’ returned Miss Abbey, ‘but I don’t. And as for
-stewarding, I think it’s [[Time|time]] my brother gave that up, and took his
-[[house|House]] in hand on his sister’s retiring. The [[house|House]] will go to pieces if
-he don’t. I wouldn’t sell it for any money that could be told out, to a
-person that I couldn’t depend upon to be a Law to the Porters, as I have
-been.’
+‘I should be lost without you, Eugene; but you may be right.’
 
-‘There you’re right, Miss,’ said Mr Inspector. ‘A better kept [[house]] is
-not known to our men. What do I say? Half so [[Well|well]] a kept [[house]] is not
-known to our men. Show the Force the Six Jolly Fellowship Porters,
-and the Force—to a constable—will show you a piece of perfection, Mr
-Kibble.’
+‘No,’ said Eugene, emphatically. ‘Not right. Wrong!’
 
-That gentleman, with a very serious shake of his head, subscribed the
-article.
+He said it with such a lively—almost angry—flash, that Mortimer showed
+himself greatly surprised.
 
-‘And talk of [[Time]] slipping by you, as if it was an animal at rustic
-sports with its tail soaped,’ said Mr Inspector (again, a subject which
-nobody had approached); ‘why, [[Well|well]] you may. [[Well]] you may. How has it
-slipped by us, since the [[Time|time]] when Mr Job Potterson here present, Mr
-Jacob Kibble here present, and an Officer of the Force here present,
-first came together on a matter of Identification!’
+‘You think this thumped head of mine is excited?’ Eugene went on, with a
+high look; ‘not so, believe me. I can say to you of the healthful music
+of my pulse what [[Hamlet]] said of his. My [[Blood|blood]] is up, but wholesomely up,
+when I think of it. Tell me! Shall I turn coward to Lizzie, and sneak
+away with her, as if I were ashamed of her! Where would your friend’s
+part in this world be, Mortimer, if she had turned coward to him, and on
+immeasurably better occasion?’
 
-Bella’s husband stepped softly to the half-door of the bar, and stood
-there.
+‘Honourable and stanch,’ said Lightwood. ‘And yet, Eugene—’
 
-‘How has [[Time]] slipped by us,’ Mr Inspector went on slowly, with his eyes
-narrowly observant of the two guests, ‘since we three very men, at an
-Inquest in this very [[house]]—Mr Kibble? Taken ill, sir?’
+‘And yet what, Mortimer?’
 
-Mr Kibble had staggered up, with his lower jaw dropped, catching
-Potterson by the shoulder, and pointing to the half-door. He now cried
-out: ‘Potterson! Look! Look there!’ Potterson started up, started back,
-and exclaimed: ‘Heaven defend us, what’s that!’ Bella’s husband stepped
-back to Bella, took her in his arms (for she was terrified by the
-unintelligible terror of the two men), and shut the door of the little
-room. A hurry of voices succeeded, in which Mr Inspector’s voice was
-busiest; it gradually slackened and sank; and Mr Inspector reappeared.
-‘Sharp’s the word, sir!’ he said, looking in with a knowing wink. ‘We’ll
-get your lady out at once.’ Immediately, Bella and her husband were
-under the [[Stars|stars]], making their way back, [[Alone|alone]], to the vehicle they had
-kept in waiting.
+‘And yet, are you sure that you might not feel (for her sake, I say for
+her sake) any slight coldness towards her on the part of—Society?’
 
-All this was most extraordinary, and Bella could make nothing of it but
-that John was in the right. How in the right, and how suspected of being
-in the wrong, she could not divine. Some vague idea that he had never
-really assumed the name of Handford, and that there was a remarkable
-likeness between him and that mysterious person, was her nearest
-approach to any definite explanation. But John was triumphant; that much
-was made apparent; and she could wait for the rest.
+‘O! You and I may [[Well|well]] stumble at the word,’ returned Eugene, laughing.
+‘Do we mean our Tippins?’
+
+‘Perhaps we do,’ said Mortimer, laughing also.
+
+‘[[Faith]], we DO!’ returned Eugene, with great animation. ‘We may hide
+behind the bush and beat about it, but we DO! Now, my wife is something
+nearer to my heart, Mortimer, than Tippins is, and I owe her a little
+more than I owe to Tippins, and I am rather prouder of her than I ever
+was of Tippins. Therefore, I will fight it out to the last gasp, with
+her and for her, here, in the open field. When I hide her, or strike
+for her, faint-heartedly, in a hole or a corner, do you whom I [[Love|love]] next
+best upon earth, tell me what I shall most righteously deserve to be
+told:—that she would have done [[Well|well]] to turn me over with her foot that
+[[Night|night]] when I lay bleeding to [[Death|death]], and spat in my dastard face.’
+
+The glow that shone upon him as he spoke the words, so irradiated his
+features that he looked, for the [[Time|time]], as though he had never been
+mutilated. His friend responded as Eugene would have had him respond,
+and they discoursed of the future until Lizzie came back. After resuming
+her place at his side, and tenderly touching his hands and his head, she
+said:
+
+‘Eugene, dear, you made me go out, but I ought to have stayed with you.
+You are more flushed than you have been for many days. What have you
+been doing?’
+
+‘Nothing,’ replied Eugene, ‘but looking forward to your coming back.’
+
+‘And talking to Mr Lightwood,’ said Lizzie, turning to him with a smile.
+‘But it cannot have been Society that disturbed you.’
+
+‘[[Faith]], my dear [[Love|love]]!’ retorted Eugene, in his old airy manner, as he
+laughed and kissed her, ‘I rather think it WAS Society though!’
+
+The word ran so much in Mortimer Lightwood’s thoughts as he went [[Home|home]] to
+the Temple that [[Night|night]], that he resolved to take a look at Society, which
+he had not seen for a considerable period.

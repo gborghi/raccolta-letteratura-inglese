@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 22"
+title: "The Tenant of Wildfell Hall — Chapter 22"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -28,7 +28,7 @@ try to persuade myself that the sweetness overpowers it; I may call it
 
 a pleasant aromatic flavour; but say what I will, it is still there,
 
-and I cannot but taste it. I cannot shut my eyes to [[arthur|Arthur]]’s faults;
+and I cannot but taste it. I cannot shut my eyes to [[Arthur]]’s faults;
 
 and the more I [[Love|love]] him the more they trouble me. His very heart, that
 
@@ -1020,7 +1020,7 @@ whip, and cantered on to rejoin our companions; for we had been walking
 
 our horses all this [[Time|time]], and were consequently a long way behind.
 
-[[arthur|Arthur]] was soon at my side again; but not disposed to talk to him, I
+[[Arthur]] was soon at my side again; but not disposed to talk to him, I
 
 broke into a gallop. He did the same; and we did not slacken our pace
 
@@ -1050,7 +1050,7 @@ to me that Annabella confessed her lack of esteem for her [[Lover|lover]].”
 
 
 
-“No, [[arthur|Arthur]], it is not _that_ that displeases me: it is the whole
+“No, [[Arthur]], it is not _that_ that displeases me: it is the whole
 
 system of your conduct towards your friend, and if you wish me to
 
@@ -1278,7 +1278,7 @@ go-betweens, pen, ink, and paper!
 
 
 
-22nd.—I have had several letters from [[arthur|Arthur]] already. They are not
+22nd.—I have had several letters from [[Arthur]] already. They are not
 
 long, but passing sweet, and just like himself, full of ardent
 

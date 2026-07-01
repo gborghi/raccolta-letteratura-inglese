@@ -1,5 +1,5 @@
 ---
-title: "[[Don Quixote]] — Chapter 7 (part 2)"
+title: "Don Quixote — Chapter 7 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/don-quixote-(chesterton)"
@@ -116,6 +116,3 @@ to the spirit, even in its most lovable and lawful form.
 Nothing of that comes out very clearly in the lines Miss Ashley
 has given me to say; but perhaps your part makes the point
 a little clearer."
-
-"I think he's a long [[Time|time]] coming to the point," replied Archer.
-"Gives a romantic actor no scope at all."

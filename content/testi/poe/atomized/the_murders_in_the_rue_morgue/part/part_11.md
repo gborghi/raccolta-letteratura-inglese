@@ -1,5 +1,5 @@
 ---
-title: "[[The Murders in the Rue Morgue]] (part 11)"
+title: "The Murders in the Rue Morgue (part 11)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-murders-in-the-rue-morgue-(poe)"
@@ -13,6 +13,48 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_murders_in_the_rue_morgue/part/part_10">‹ part 10</a><a class="ex-next" href="/testi/poe/atomized/the_murders_in_the_rue_morgue/part/part_12">part 12 ›</a></div>
 </nav>
 
+
+      at all events, failed to take it into due consideration. In fact,
+
+      having once satisfied themselves that no egress could have been
+
+      made in this quarter, they would naturally bestow here a very
+
+      cursory examination. It was clear to me, however, that the
+
+      shutter belonging to the [[Window|window]] at the head of the bed, would, if
+
+      swung fully back to the wall, reach to within two feet of the
+
+      [[Lightning|lightning]]-rod. It was also evident that, by exertion of a very
+
+      unusual degree of activity and [[Courage|courage]], an entrance into the
+
+      [[Window|window]], from the rod, might have been thus effected. By reaching
+
+      to the distance of two feet and a half (we now suppose the
+
+      shutter open to its whole extent) a robber might have taken a
+
+      firm grasp upon the trellis-work. Letting go, then, his hold upon
+
+      the rod, placing his feet securely against the wall, and
+
+      springing boldly from it, he might have swung the shutter so as
+
+      to close it, and, if we imagine the [[Window|window]] open at the [[Time|time]],
+
+      might even have swung himself into the room.
+
+
+
+      “I wish you to bear especially in mind that I have spoken of a
+
+      _very_ unusual degree of activity as requisite to [[success]] in so
+
+      hazardous and so difficult a feat. It is my design to show you,
+
+      first, that the thing might possibly have been accomplished:—but,
 
       secondly and _chiefly_, I wish to impress upon your understanding
 
@@ -153,49 +195,3 @@ tags:
       outré_—something altogether irreconcilable with our common
 
       notions of human action, even when we suppose the actors the most
-
-      depraved of men. Think, too, how great must have been that
-
-      strength which could have thrust the [[Body|body]] _up_ such an aperture
-
-      so forcibly that the united vigor of several persons was found
-
-      barely sufficient to drag it _down!_
-
-
-
-      “Turn, now, to other indications of the employment of a vigor
-
-      most marvellous. On the hearth were thick tresses—very thick
-
-      tresses—of grey human hair. These had been torn out by the roots.
-
-      You are aware of the great force necessary in tearing thus from
-
-      the head even twenty or thirty hairs together. You saw the locks
-
-      in question as [[Well|well]] as myself. Their roots (a hideous sight!)
-
-      were clotted with fragments of the flesh of the scalp—sure token
-
-      of the prodigious power which had been exerted in uprooting
-
-      perhaps half a million of hairs at a [[Time|time]]. The throat of the old
-
-      lady was not merely cut, but the head absolutely severed from the
-
-      [[Body|body]]: the instrument was a mere razor. I wish you also to look at
-
-      the _brutal_ ferocity of these deeds. Of the bruises upon the
-
-      [[Body|body]] of Madame L’Espanaye I do not speak. Monsieur Dumas, and his
-
-      worthy coadjutor Monsieur Etienne, have pronounced that they were
-
-      inflicted by some obtuse instrument; and so far these gentlemen
-
-      are very correct. The obtuse instrument was clearly the stone
-
-      pavement in the yard, upon which the victim had fallen from the
-
-      [[Window|window]] which looked in upon the bed. This idea, however simple it

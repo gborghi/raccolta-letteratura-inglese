@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 13 (part 3)"
+title: "Our Mutual Friend — Chapter 15 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,108 +14,148 @@ tags:
 </nav>
 
 
-‘I have checked the calculation often, and it must have been two nights
-that I lay recovering in that public-[[house]]. Let me see. Yes. I am sure
-it was while I lay in that bed there, that the thought entered my head
-of turning the danger I had passed through, to the account of being
-for some [[Time|time]] supposed to have disappeared mysteriously, and of proving
-Bella. The dread of our being forced on one another, and perpetuating
-the fate that seemed to have fallen on my father’s riches—the fate that
-they should lead to nothing but evil—was strong upon the moral timidity
-that dates from my [[Childhood|childhood]] with my poor sister.
+The powdered mortar from under the stone at which he wrenched, rattled
+on the pavement to confirm his words.
 
-‘As to this hour I cannot understand that side of the [[River|river]] where I
-recovered the shore, being the opposite side to that on which I was
-ensnared, I shall never understand it now. Even at this moment, while I
-leave the [[River|river]] behind me, going [[Home|home]], I cannot conceive that it rolls
-between me and that spot, or that the sea is where it is. But this is
-not thinking it out; this is making a leap to the present [[Time|time]].
+‘Mr Headstone—’
 
-‘I could not have done it, but for the fortune in the waterproof
-belt round my [[Body|body]]. Not a great fortune, forty and odd pounds for the
-inheritor of a hundred and odd thousand! But it was enough. Without it I
-must have disclosed myself. Without it, I could never have gone to that
-Exchequer Coffee [[house|House]], or taken Mrs Wilfer’s lodgings.
+‘Stop! I implore you, before you answer me, to walk round this place
+once more. It will give you a minute’s [[Time|time]] to think, and me a minute’s
+[[Time|time]] to get some fortitude together.’
 
-‘Some twelve days I lived at that hotel, before the [[Night|night]] when I saw the
-corpse of Radfoot at the Police Station. The inexpressible mental horror
-that I laboured under, as one of the consequences of the [[Poison|poison]], makes
-the interval seem greatly longer, but I know it cannot have been longer.
-That [[Suffering|suffering]] has gradually weakened and weakened since, and has only
-come upon me by starts, and I [[Hope|hope]] I am free from it now; but even now,
-I have sometimes to think, constrain myself, and stop before speaking,
-or I could not say the words I want to say.
+Again she yielded to the entreaty, and again they came back to the same
+place, and again he worked at the stone.
 
-‘Again I ramble away from thinking it out to the end. It is not so far
-to the end that I need be tempted to break off. Now, on straight!
+‘Is it,’ he said, with his attention apparently engrossed by it, ‘yes,
+or no?’
 
-‘I examined the newspapers every day for tidings that I was missing, but
-saw none. Going out that [[Night|night]] to walk (for I kept retired while it was
-light), I found a crowd assembled round a placard posted at Whitehall.
-It described myself, [[John Harmon]], as found dead and mutilated in the
-[[River|river]] under circumstances of strong suspicion, described my dress,
-described the papers in my pockets, and stated where I was lying for
-recognition. In a wild incautious way I hurried there, and there—with
-the horror of the [[Death|death]] I had escaped, before my eyes in its most
-appalling shape, added to the inconceivable horror tormenting me at
-that [[Time|time]] when the poisonous stuff was strongest on me—I perceived that
-Radfoot had been murdered by some unknown hands for the money for which
-he would have murdered me, and that probably we had both been shot into
-the [[River|river]] from the same dark place into the same dark tide, when the
-stream ran deep and strong.
+‘Mr Headstone, I thank you sincerely, I thank you gratefully, and [[Hope|hope]]
+you may find a worthy wife before long and be very happy. But it is no.’
 
-‘That [[Night|night]] I almost gave up my mystery, though I suspected no one,
-could offer no information, knew absolutely nothing save that the
-murdered man was not I, but Radfoot. Next day while I hesitated, and
-next day while I hesitated, it seemed as if the whole country were
-determined to have me dead. The Inquest declared me dead, the [[government|Government]]
-proclaimed me dead; I could not listen at my fireside for five minutes
-to the outer noises, but it was borne into my ears that I was dead.
+‘Is no short [[Time|time]] necessary for reflection; no weeks or days?’ he asked,
+in the same half-suffocated way.
 
-‘So [[John Harmon]] died, and Julius Handford disappeared, and John
-Rokesmith was born. John Rokesmith’s intent to-[[Night|night]] has been to repair
-a wrong that he could never have imagined possible, coming to his ears
-through the Lightwood talk related to him, and which he is bound by
-every consideration to remedy. In that intent John Rokesmith will
-persevere, as his duty is.
+‘None whatever.’
 
-‘Now, is it all thought out? All to this [[Time|time]]? Nothing omitted? No,
-nothing. But beyond this [[Time|time]]? To think it out through the future, is a
-harder though a much shorter task than to think it out through the past.
-[[John Harmon]] is dead. Should [[John Harmon]] come to life?
+‘Are you quite decided, and is there no chance of any change in my
+favour?’
 
-‘If yes, why? If no, why?’
+‘I am quite decided, Mr Headstone, and I am bound to answer I am certain
+there is none.’
 
-‘Take yes, first. To enlighten human Justice concerning the offence of
-one far beyond it who may have a living mother. To enlighten it with the
-lights of a stone passage, a flight of stairs, a brown [[Window|window]]-curtain,
-and a black man. To come into possession of my father’s money, and with
-it sordidly to buy a beautiful creature whom I [[Love|love]]—I cannot help it;
-reason has nothing to do with it; I [[Love|love]] her against reason—but who
-would as soon [[Love|love]] me for my own sake, as she would [[Love|love]] the beggar at
-the corner. What a use for the money, and how worthy of its old misuses!
+‘Then,’ said he, suddenly changing his tone and turning to her, and
+bringing his clenched hand down upon the stone with a force that laid
+the knuckles raw and bleeding; ‘then I [[Hope|hope]] that I may never kill him!’
 
-‘Now, take no. The reasons why [[John Harmon]] should not come to life.
-Because he has passively allowed these dear old faithful friends to pass
-into possession of the property. Because he sees them happy with it,
-making a good use of it, effacing the old rust and tarnish on the money.
-Because they have virtually adopted Bella, and will provide for her.
-Because there is affection enough in her [[Nature|nature]], and warmth enough in
-her heart, to develop into something enduringly good, under favourable
-conditions. Because her faults have been intensified by her place in my
-father’s will, and she is already growing better. Because her [[Marriage|marriage]]
-with [[John Harmon]], after what I have heard from her own lips, would be a
-shocking mockery, of which both she and I must always be conscious, and
-which would degrade her in her mind, and me in mine, and each of us in
-the other’s. Because if [[John Harmon]] comes to life and does not marry
-her, the property falls into the very hands that hold it now.
+The dark look of hatred and [[Revenge|revenge]] with which the words broke from his
+livid lips, and with which he stood holding out his smeared hand as
+if it held some weapon and had just struck a mortal blow, made her so
+afraid of him that she turned to run away. But he caught her by the arm.
 
-‘What would I have? Dead, I have found the true friends of my lifetime
-still as true as tender and as faithful as when I was alive, and making
-my [[Memory|memory]] an incentive to good actions done in my name. Dead, I have
-found them when they might have slighted my name, and passed
-greedily over my [[Grave|grave]] to ease and wealth, lingering by the way, like
-single-hearted children, to recall their [[Love|love]] for me when I was a poor
-frightened [[Child|child]]. Dead, I have heard from the woman who would have been
-my wife if I had lived, the revolting [[Truth|truth]] that I should have purchased
-her, caring nothing for me, as a Sultan buys a slave.
+‘Mr Headstone, let me go. Mr Headstone, I must call for help!’
+
+‘It is I who should call for help,’ he said; ‘you don’t know yet how
+much I need it.’
+
+The working of his face as she shrank from it, glancing round for her
+brother and uncertain what to do, might have extorted a cry from her in
+another instant; but all at once he sternly stopped it and fixed it, as
+if [[Death]] itself had done so.
+
+‘There! You see I have recovered myself. Hear me out.’
+
+With much of the dignity of [[Courage|courage]], as she recalled her [[Self|self]]-reliant
+life and her right to be free from accountability to this man, she
+released her arm from his grasp and stood looking full at him. She had
+never been so handsome, in his eyes. A shade came over them while
+he looked back at her, as if she drew the very light out of them to
+herself.
+
+‘This [[Time|time]], at least, I will leave nothing unsaid,’ he went on, folding
+his hands before him, clearly to prevent his being betrayed into any
+impetuous gesture; ‘this last [[Time|time]] at least I will not be tortured with
+after-thoughts of a lost opportunity. Mr [[Eugene Wrayburn]].’
+
+‘Was it of him you spoke in your ungovernable rage and violence?’ Lizzie
+Hexam demanded with spirit.
+
+He bit his lip, and looked at her, and said never a word.
+
+‘Was it Mr Wrayburn that you threatened?’
+
+He bit his lip again, and looked at her, and said never a word.
+
+‘You asked me to hear you out, and you will not speak. Let me find my
+brother.’
+
+‘Stay! I threatened no one.’
+
+Her look dropped for an instant to his bleeding hand. He lifted it to
+his mouth, wiped it on his sleeve, and again folded it over the other.
+‘Mr [[Eugene Wrayburn]],’ he repeated.
+
+‘Why do you mention that name again and again, Mr Headstone?’
+
+‘Because it is the text of the little I have left to say. Observe! There
+are no threats in it. If I utter a threat, stop me, and fasten it upon
+me. Mr [[Eugene Wrayburn]].’
+
+A worse threat than was conveyed in his manner of uttering the name,
+could hardly have escaped him.
+
+‘He haunts you. You accept favours from him. You are willing enough to
+listen to HIM. I know it, as [[Well|well]] as he does.’
+
+‘Mr Wrayburn has been considerate and good to me, sir,’ said Lizzie,
+proudly, ‘in connexion with the [[Death|death]] and with the [[Memory|memory]] of my poor
+father.’
+
+‘No [[Doubt|doubt]]. He is of course a very considerate and a very good man, Mr
+[[Eugene Wrayburn]].’
+
+‘He is nothing to you, I think,’ said Lizzie, with an indignation she
+could not repress.
+
+‘Oh yes, he is. There you mistake. He is much to me.’
+
+‘What can he be to you?’
+
+‘He can be a rival to me among other things,’ said Bradley.
+
+‘Mr Headstone,’ returned Lizzie, with a burning face, ‘it is cowardly in
+you to speak to me in this way. But it makes me able to tell you that
+I do not like you, and that I never have liked you from the first, and
+that no other living creature has anything to do with the effect you
+have produced upon me for yourself.’
+
+His head bent for a moment, as if under a weight, and he then looked up
+again, moistening his lips. ‘I was going on with the little I had left
+to say. I knew all this about Mr [[Eugene Wrayburn]], all the while you were
+drawing me to you. I strove against the knowledge, but quite in vain. It
+made no difference in me. With Mr [[Eugene Wrayburn]] in my mind, I went
+on. With Mr [[Eugene Wrayburn]] in my mind, I spoke to you just now. With Mr
+[[Eugene Wrayburn]] in my mind, I have been set aside and I have been cast
+out.’
+
+‘If you give those names to my thanking you for your proposal
+and declining it, is it my fault, Mr Headstone?’ said Lizzie,
+compassionating the bitter struggle he could not conceal, almost as much
+as she was repelled and alarmed by it.
+
+‘I am not complaining,’ he returned, ‘I am only stating the case. I had
+to wrestle with my [[Self|self]]-respect when I submitted to be drawn to you in
+spite of Mr Wrayburn. You may imagine how low my [[Self|self]]-respect lies now.’
+
+She was hurt and angry; but repressed herself in consideration of his
+[[Suffering|suffering]], and of his being her brother’s friend.
+
+‘And it lies under his feet,’ said Bradley, unfolding his hands in spite
+of himself, and fiercely motioning with them both towards the stones of
+the pavement. ‘Remember that! It lies under that fellow’s feet, and he
+treads upon it and exults above it.’
+
+‘He does not!’ said Lizzie.
+
+‘He does!’ said Bradley. ‘I have stood before him face to face, and he
+crushed me down in the dirt of his contempt, and walked over me. Why?
+Because he knew with triumph what was in store for me to-[[Night|night]].’

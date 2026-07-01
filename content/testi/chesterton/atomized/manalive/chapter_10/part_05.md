@@ -1,5 +1,5 @@
 ---
-title: "[[manalive]] — Chapter 4 (part 5)"
+title: "manalive — Chapter 4 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/manalive-(chesterton)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-Amid a dead [[Silence|silence]] [[Moon]] continued his exposition.
+Amid a dead silence Moon continued his exposition.
 "What is the meaning of this queer coincidence about colours?
-Personally I cannot [[Doubt|doubt]] for a moment that these names are purely
+Personally I cannot doubt for a moment that these names are purely
 arbitrary names, assumed as part of some general scheme or joke.
 I think it very probable that they were taken from a series of costumes--
 that Polly Green only meant Polly (or Mary) when in green,
@@ -26,12 +26,12 @@ This would explain--"
 Cyrus Pym was standing up rigid and almost pallid.
 "Do you actually mean to suggest--" he cried.
 
-"Yes," said [[Michael]]; "I do mean to suggest that.  [[Innocent]] [[smith|Smith]] has had
+"Yes," said Michael; "I do mean to suggest that.  Innocent Smith has had
 many wooings, and many weddings for all I know; but he has had only one wife.
 She was sitting on that chair an hour ago, and is now talking to Miss Duke
-in the [[Garden|garden]].
+in the garden.
 
-"Yes, [[Innocent]] [[smith|Smith]] has behaved here, as he has on hundreds of
+"Yes, Innocent Smith has behaved here, as he has on hundreds of
 other occasions, upon a plain and perfectly blameless principle.
 It is odd and extravagant in the modern world, but not more than any other
 principle plainly applied in the modern world would be.  His principle
@@ -41,7 +41,7 @@ that he is still a man alive, walking on two legs about the world.
 For this reason he fires bullets at his best friends; for this reason
 he arranges ladders and collapsible chimneys to steal his own property;
 for this reason he goes plodding around a whole planet to get back to his
-own [[Home|home]]; and for this reason he has been in the habit of taking the woman
+own home; and for this reason he has been in the habit of taking the woman
 whom he loved with a permanent loyalty, and leaving her about (so to speak)
 at schools, boarding-houses, and places of business, so that he might
 recover her again and again with a raid and a romantic elopement.
@@ -50,31 +50,31 @@ the sense of her perpetual value, and the perils that should be run
 for her sake.
 
 "So far his motives are clear enough; but perhaps his convictions are
-not quite so clear.  I think [[Innocent]] [[smith|Smith]] has an idea at the [[Bottom|bottom]]
+not quite so clear.  I think Innocent Smith has an idea at the bottom
 of all this.  I am by no means sure that I believe it myself, but I am
 quite sure that it is worth a man's uttering and defending.
 
-"The idea that [[smith|Smith]] is attacking is this.  Living in an entangled
+"The idea that Smith is attacking is this.  Living in an entangled
 civilization, we have come to think certain things wrong which are
 not wrong at all.  We have come to think outbreak and exuberance,
 banging and barging, rotting and wrecking, wrong.  In themselves they
 are not merely pardonable; they are unimpeachable.  There is nothing
-wicked about firing a [[Pistol|pistol]] off even at a friend, so long as you do not
+wicked about firing a pistol off even at a friend, so long as you do not
 mean to hit him and know you won't. It is no more wrong than throwing
 a pebble at the sea--less, for you do occasionally hit the sea.
 There is nothing wrong in bashing down a chimney-pot and breaking
 through a roof, so long as you are not injuring the life or property
-of other men.  It is no more wrong to choose to enter a [[house]] from
-the top than to choose to open a packing-case from the [[Bottom|bottom]].
+of other men.  It is no more wrong to choose to enter a house from
+the top than to choose to open a packing-case from the bottom.
 There is nothing wicked about walking round the world and coming back
-to your own [[house]]; it is no more wicked than walking round the [[Garden|garden]]
-and coming back to your own [[house]].  And there is nothing wicked
+to your own house; it is no more wicked than walking round the garden
+and coming back to your own house.  And there is nothing wicked
 about picking up your wife here, there, and everywhere, if, forsaking
 all others, you keep only to her so long as you both shall live.
-It is as [[Innocent|innocent]] as playing a game of hide-and-seek in the [[Garden|garden]].
+It is as innocent as playing a game of hide-and-seek in the garden.
 You associate such acts with blackguardism by a mere snobbish association,
 as you think there is something vaguely vile about going (or being
-seen going) into a pawnbroker's or a public-[[house]]. You think there
+seen going) into a pawnbroker's or a public-house. You think there
 is something squalid and commonplace about such a connection.
 You are mistaken.
 
@@ -84,7 +84,7 @@ He has broken the conventions, but he has kept the commandments.
 It is as if a man were found gambling wildly in a gambling hell,
 and you found that he only played for trouser buttons.
 It is as if you found a man making a clandestine appointment
-with a lady at a Covent [[Garden]] ball, and then you found it
+with a lady at a Covent Garden ball, and then you found it
 was his grandmother.  Everything is ugly and discreditable,
 except the facts; everything is wrong about him, except that
 he has done no wrong.

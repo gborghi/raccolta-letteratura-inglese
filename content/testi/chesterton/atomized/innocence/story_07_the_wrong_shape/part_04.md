@@ -1,5 +1,5 @@
 ---
-title: "[[innocence]] — The Wrong Shape (part 4)"
+title: "innocence — The Wrong Shape (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -14,25 +14,25 @@ tags:
 </nav>
 
 
-[[Father Brown]] was silent and motionless for half a minute, then he said:
+Father Brown was silent and motionless for half a minute, then he said:
 "Superstition is irreligious, but there is something in the air
 of this place.  I think it's that Indian--at least, partly."
 
-He sank into [[Silence|silence]], and watched the distant outline of the Indian,
-who still sat rigid as if in [[Prayer|prayer]].  At first sight he seemed motionless,
-but as [[Father Brown]] watched him he saw that the man swayed ever so slightly
+He sank into silence, and watched the distant outline of the Indian,
+who still sat rigid as if in prayer.  At first sight he seemed motionless,
+but as Father Brown watched him he saw that the man swayed ever so slightly
 with a rhythmic movement, just as the dark tree-tops swayed ever so slightly
-in the [[Wind|wind]] that was creeping up the dim [[Garden|garden]] paths and shuffling the fallen
-[[Leaves|leaves]] a little.
+in the wind that was creeping up the dim garden paths and shuffling the fallen
+leaves a little.
 
-The landscape was growing rapidly dark, as if for a [[Storm|storm]],
+The landscape was growing rapidly dark, as if for a storm,
 but they could still see all the figures in their various places.
 Atkinson was leaning against a tree with a listless face;
-Quinton's wife was still at her [[Window|window]]; the doctor had gone strolling
+Quinton's wife was still at her window; the doctor had gone strolling
 round the end of the conservatory; they could see his cigar like
 a will-o'-the-wisp; and the fakir still sat rigid and yet rocking,
 while the trees above him began to rock and almost to roar.
-[[Storm]] was certainly coming.
+Storm was certainly coming.
 
 "When that Indian spoke to us," went on Brown in a conversational undertone,
 "I had a sort of vision, a vision of him and all his universe.
@@ -41,7 +41,7 @@ want nothing,' it meant only that he was impenetrable, that Asia
 does not give itself away.  Then he said again, `I want nothing,'
 and I knew that he meant that he was sufficient to himself, like a cosmos,
 that he needed no God, neither admitted any sins.  And when he said
-the third [[Time|time]], `I want nothing,' he said it with blazing eyes.
+the third time, `I want nothing,' he said it with blazing eyes.
 And I knew that he meant literally what he said; that nothing was
 his [[Desire|desire]] and his [[Home|home]]; that he was weary for nothing as for wine;
 that annihilation, the mere destruction of everything or anything--"
@@ -134,7 +134,3 @@ It was the same irregular shape.
 
 "Quite so," he said.  "And here I see the corners that were snipped off."
 And to the indignation of his colleague he began to count them.
-
-"That's all right," he said, with an apologetic smile.
-"Twenty-three sheets cut and twenty-two corners cut off them.
-And as I see you are impatient we will rejoin the others."

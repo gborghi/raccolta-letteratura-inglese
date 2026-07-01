@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 34 (part 1)"
+title: "Great Expectations — Chapter 34 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/great-expectations-(dickens)">Great Expectations</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_33/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_34/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_33/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_34/part_02">part 02 ›</a></div>
 </nav>
 
 

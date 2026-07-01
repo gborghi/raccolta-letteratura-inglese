@@ -63,7 +63,7 @@ of the eighteenth century.  The secular ideals of humanity
 fossilise very fast, and nothing but religion ever remains.
 Stoicism is stratified amid layers of lost moral fashions;
 but it was a fine thing in its day, when it stiffened with
-heathen virtues the Revolutionists of France and [[america|America]].
+heathen virtues the Revolutionists of France and [[America]].
 Our luxurious and orientalised fashions and fictions have a great deal
 to learn from the Roman virtues advocated in Sandford and Merton.
 That is why they certainly will not learn it.  It must be

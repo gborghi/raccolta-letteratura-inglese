@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 32 (part 1)"
+title: "Wuthering Heights — Chapter 32 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/works/wuthering-heights-(bronte)">Wuthering Heights</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_30/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_32/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_31/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_32/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -132,16 +132,3 @@ superintend his studies; and her face—it was lucky he could not see her
 face, or he would never have been so steady. I could; and I bit my lip
 in spite, at having thrown away the chance I might have had of doing
 something besides staring at its smiting [[Beauty|beauty]].
-
-The task was done, not free from further blunders; but the pupil
-claimed a reward, and received at least five kisses; which, however, he
-generously returned. Then they came to the door, and from their
-conversation I judged they were about to issue out and have a walk on
-the moors. I supposed I should be condemned in [[Hareton Earnshaw]]’s
-heart, if not by his mouth, to the lowest pit in the infernal regions
-if I showed my unfortunate person in his neighbourhood then; and
-feeling very mean and malignant, I skulked round to seek refuge in the
-kitchen. There was unobstructed admittance on that side also; and at
-the door sat my old friend [[Nelly Dean]], sewing and singing a [[Song|song]]; which
-was often interrupted from within by harsh words of scorn and
-intolerance, uttered in far from musical accents.

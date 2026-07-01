@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 9 (part 1)"
+title: "Our Mutual Friend — Chapter 12 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,132 +14,158 @@ tags:
 </nav>
 
 
-Chapter 9
+Chapter 12
 
-SOMEBODY BECOMES THE SUBJECT OF A PREDICTION
+MEANING MISCHIEF
 
 
-‘“We give thee hearty thanks for that it hath pleased thee to deliver
-this our sister out of the miseries of this sinful world.”’ So read the
-Reverend Frank Milvey in a not untroubled voice, for his heart misgave
-him that all was not quite right between us and our sister—or say our
-sister in Law—Poor Law—and that we sometimes read these words in an
-awful manner, over our Sister and our Brother too.
+Up came the sun, streaming all over [[London]], and in its glorious
+impartiality even condescending to make prismatic sparkles in the
+whiskers of Mr Alfred Lammle as he sat at breakfast. In need of some
+brightening from without, was Mr Alfred Lammle, for he had the air of
+being dull enough within, and looked grievously discontented.
 
-And Sloppy—on whom the brave deceased had never turned her back until
-she ran away from him, knowing that otherwise he would not be separated
-from her—Sloppy could not in his [[Conscience|conscience]] as yet find the hearty
-thanks required of it. Selfish in Sloppy, and yet excusable, it may be
-humbly hoped, because our sister had been more than his mother.
+Mrs Alfred Lammle faced her lord. The happy pair of swindlers, with
+the comfortable tie between them that each had swindled the other, sat
+moodily observant of the tablecloth. Things looked so gloomy in the
+breakfast-room, albeit on the sunny side of Sackville Street, that any
+of the family tradespeople glancing through the blinds might have taken
+the hint to send in his account and press for it. But this, indeed, most
+of the family tradespeople had already done, without the hint.
 
-The words were read above the ashes of Betty Higden, in a corner of a
-churchyard near the [[River|river]]; in a churchyard so obscure that there was
-nothing in it but grass-mounds, not so much as one single tombstone.
-It might not be to do an unreasonably great deal for the diggers and
-hewers, in a registering age, if we ticketed their graves at the common
-charge; so that a new generation might know which was which: so that the
-soldier, sailor, emigrant, coming [[Home|home]], should be able to identify the
-resting-place of father, mother, playmate, or betrothed. For, we turn up
-our eyes and say that we are all alike in [[Death|death]], and we might turn
-them down and work the saying out in this world, so far. It would
-be sentimental, perhaps? But how say ye, my lords and gentleman and
-honourable boards, shall we not find good standing-room left for a
-little sentiment, if we look into our crowds?
+‘It seems to me,’ said Mrs Lammle, ‘that you have had no money at all,
+ever since we have been married.’
 
-Near unto the Reverend Frank Milvey as he read, stood his little wife,
-John Rokesmith the Secretary, and [[Bella Wilfer]]. These, over and above
-Sloppy, were the mourners at the lowly [[Grave|grave]]. Not a penny had been
-added to the money sewn in her dress: what her honest spirit had so long
-projected, was fulfilled.
+‘What seems to you,’ said Mr Lammle, ‘to have been the case, may
+possibly have been the case. It doesn’t matter.’
 
-‘I’ve took it in my head,’ said Sloppy, laying it, inconsolable, against
-the church door, when all was done: ‘I’ve took it in my wretched head
-that I might have sometimes turned a little harder for her, and it cuts
-me deep to think so now.’
+Was it the speciality of Mr and Mrs Lammle, or does it ever obtain
+with other loving couples? In these matrimonial dialogues they never
+addressed each other, but always some invisible presence that appeared
+to take a station about midway between them. Perhaps the [[skeleton]] in the
+cupboard comes out to be talked to, on such domestic occasions?
 
-The Reverend Frank Milvey, comforting Sloppy, expounded to him how the
-best of us were more or less remiss in our turnings at our respective
-Mangles—some of us very much so—and how we were all a halting,
-failing, feeble, and inconstant crew.
+‘I have never seen any money in the [[house]],’ said Mrs Lammle to the
+[[skeleton]], ‘except my own annuity. That I swear.’
 
-‘SHE warn’t, sir,’ said Sloppy, taking this ghostly counsel rather ill,
-in behalf of his late benefactress. ‘Let us speak for ourselves, sir.
-She went through with whatever duty she had to do. She went through with
-me, she went through with the Minders, she went through with herself,
-she went through with everythink. O Mrs Higden, Mrs Higden, you was a
-woman and a mother and a mangler in a million million!’
+‘You needn’t take the trouble of swearing,’ said Mr Lammle to the
+[[skeleton]]; ‘once more, it doesn’t matter. You never turned your annuity
+to so good an account.’
 
-With those heartfelt words, Sloppy removed his dejected head from the
-church door, and took it back to the [[Grave|grave]] in the corner, and laid it
-down there, and wept [[Alone|alone]]. ‘Not a very poor [[Grave|grave]],’ said the Reverend
-Frank Milvey, brushing his hand across his eyes, ‘when it has that
-homely figure on it. Richer, I think, than it could be made by most of
-the sculpture in Westminster Abbey!’
+‘Good an account! In what way?’ asked Mrs Lammle.
 
-They left him undisturbed, and passed out at the wicket-gate. The
-[[Water|water]]-[[Wheel|wheel]] of the paper-mill was audible there, and seemed to have a
-softening influence on the bright wintry scene. They had arrived but a
-little while before, and [[Lizzie Hexam]] now told them the little she could
-add to the letter in which she had enclosed Mr Rokesmith’s letter and
-had asked for their instructions. This was merely how she had heard the
-groan, and what had afterwards passed, and how she had obtained leave
-for the remains to be placed in that sweet, fresh, empty store-room of
-the mill from which they had just accompanied them to the churchyard,
-and how the last requests had been religiously observed.
+‘In the way of getting credit, and living [[Well|well]],’ said Mr Lammle. Perhaps
+the [[skeleton]] laughed scornfully on being intrusted with this question
+and this answer; certainly Mrs Lammle did, and Mr Lammle did.
 
-‘I could not have done it all, or nearly all, of myself,’ said Lizzie.
-‘I should not have wanted the will; but I should not have had the power,
-without our managing partner.’
+‘And what is to happen next?’ asked Mrs Lammle of the [[skeleton]].
 
-‘Surely not the Jew who received us?’ said Mrs Milvey.
+‘Smash is to happen next,’ said Mr Lammle to the same authority.
 
-(‘My dear,’ observed her husband in parenthesis, ‘why not?’)
+After this, Mrs Lammle looked disdainfully at the [[skeleton]]—but without
+carrying the look on to Mr Lammle—and drooped her eyes. After that, Mr
+Lammle did exactly the same thing, and drooped HIS eyes. A servant then
+entering with toast, the [[skeleton]] retired into the closet, and shut
+itself up.
 
-‘The gentleman certainly is a Jew,’ said Lizzie, ‘and the lady, his
-wife, is a Jewess, and I was first brought to their notice by a Jew. But
-I think there cannot be kinder people in the world.’
+‘Sophronia,’ said Mr Lammle, when the servant had withdrawn. And then,
+very much louder: ‘Sophronia!’
 
-‘But suppose they try to [[convert]] you!’ suggested Mrs Milvey, bristling
-in her good little way, as a clergyman’s wife.
+‘[[Well]]?’
 
-‘To do what, ma’am?’ asked Lizzie, with a modest smile.
+‘Attend to me, if you please.’ He eyed her sternly until she did attend,
+and then went on. ‘I want to take counsel with you. Come, come; no more
+trifling. You know our league and covenant. We are to work together for
+our joint interest, and you are as knowing a hand as I am. We shouldn’t
+be together, if you were not. What’s to be done? We are hemmed into a
+corner. What shall we do?’
 
-‘To make you change your religion,’ said Mrs Milvey.
+‘Have you no scheme on foot that will bring in anything?’
 
-Lizzie shook her head, still smiling. ‘They have never asked me what
-my religion is. They asked me what my story was, and I told them. They
-asked me to be industrious and faithful, and I promised to be so.
-They most willingly and cheerfully do their duty to all of us who are
-employed here, and we try to do ours to them. Indeed they do much more
-than their duty to us, for they are wonderfully mindful of us in many
-ways.’
+Mr Lammle plunged into his whiskers for reflection, and came out
+hopeless: ‘No; as adventurers we are obliged to play rash games for
+chances of high winnings, and there has been a run of luck against us.’
 
-‘It is easy to see you’re a favourite, my dear,’ said little Mrs Milvey,
-not quite pleased.
+She was resuming, ‘Have you nothing—’ when he stopped her.
 
-‘It would be very ungrateful in me to say I am not,’ returned Lizzie,
-‘for I have been already raised to a place of confidence here. But that
-makes no difference in their following their own religion and leaving
-all of us to ours. They never talk of theirs to us, and they never talk
-of ours to us. If I was the last in the mill, it would be just the same.
-They never asked me what religion that poor thing had followed.’
+‘We, Sophronia. We, we, we.’
 
-‘My dear,’ said Mrs Milvey, aside to the Reverend Frank, ‘I wish you
-would talk to her.’
+‘Have we nothing to sell?’
 
-‘My dear,’ said the Reverend Frank aside to his good little wife, ‘I
-think I will leave it to somebody else. The circumstances are hardly
-favourable. There are plenty of talkers going about, my [[Love|love]], and she
-will soon find one.’
+‘Deuce a bit. I have given a Jew a bill of sale on this furniture, and
+he could take it to-morrow, to-day, now. He would have taken it before
+now, I believe, but for Fledgeby.’
 
-While this discourse was interchanging, both Bella and the Secretary
-observed [[Lizzie Hexam]] with great attention. Brought face to face for the
-first [[Time|time]] with the daughter of his supposed murderer, it was natural
-that [[John Harmon]] should have his own secret reasons for a careful
-scrutiny of her countenance and manner. Bella knew that Lizzie’s
-father had been falsely accused of the crime which had had so great an
-influence on her own life and fortunes; and her interest, though it had
-no secret springs, like that of the Secretary, was equally natural. Both
-had expected to see something very different from the real [[Lizzie Hexam]],
-and thus it fell out that she became the unconscious means of bringing
-them together.
+‘What has Fledgeby to do with him?’
+
+‘Knew him. Cautioned me against him before I got into his claws.
+Couldn’t persuade him then, in behalf of somebody else.’
+
+‘Do you mean that Fledgeby has at all softened him towards you?’
+
+‘Us, Sophronia. Us, us, us.’
+
+‘Towards us?’
+
+‘I mean that the Jew has not yet done what he might have done, and that
+Fledgeby takes the credit of having got him to hold his hand.’
+
+‘Do you believe Fledgeby?’
+
+‘Sophronia, I never believe anybody. I never have, my dear, since I
+believed you. But it looks like it.’
+
+Having given her this back-handed reminder of her mutinous observations
+to the [[skeleton]], Mr Lammle [[Rose|rose]] from table—perhaps, the better to
+conceal a smile, and a white dint or two about his nose—and took a turn
+on the carpet and came to the hearthrug.
+
+‘If we could have packed the brute off with Georgiana;—but however;
+that’s spilled milk.’
+
+As Lammle, standing gathering up the skirts of his dressing-gown with
+his back to the [[Fire|fire]], said this, looking down at his wife, she turned
+pale and looked down at the ground. With a sense of disloyalty upon
+her, and perhaps with a sense of personal danger—for she was afraid of
+him—even afraid of his hand and afraid of his foot, though he had never
+done her violence—she hastened to put herself right in his eyes.
+
+‘If we could borrow money, Alfred—’
+
+‘Beg money, borrow money, or steal money. It would be all one to us,
+Sophronia,’ her husband struck in.
+
+‘—Then, we could weather this?’
+
+‘No [[Doubt|doubt]]. To offer another original and undeniable remark, Sophronia,
+two and two make four.’
+
+But, seeing that she was turning something in her mind, he gathered up
+the skirts of his dressing-gown again, and, tucking them under one arm,
+and collecting his ample whiskers in his other hand, kept his eye upon
+her, silently.
+
+‘It is natural, Alfred,’ she said, looking up with some timidity into
+his face, ‘to think in such an emergency of the richest people we know,
+and the simplest.’
+
+‘Just so, Sophronia.’
+
+‘The Boffins.’
+
+‘Just so, Sophronia.’
+
+‘Is there nothing to be done with them?’
+
+‘What is there to be done with them, Sophronia?’
+
+She cast about in her thoughts again, and he kept his eye upon her as
+before.
+
+‘Of course I have repeatedly thought of the Boffins, Sophronia,’ he
+resumed, after a fruitless [[Silence|silence]]; ‘but I have seen my way to nothing.
+They are [[Well|well]] guarded. That infernal Secretary stands between them
+and—people of merit.’
+
+‘If he could be got rid of?’ said she, brightening a little, after more
+casting about.

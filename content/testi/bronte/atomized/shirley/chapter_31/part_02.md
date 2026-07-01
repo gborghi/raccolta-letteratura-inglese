@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 31 (part 2)"
+title: "Shirley — Chapter 31 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_31/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_31/part_03">part 03 ›</a></div>
 </nav>
 
+
+nothing to him. He waited when the matter should be opened in form, when
+
+himself should be consulted, when lawyers should be summoned, when
+
+settlement discussions and all the delicious worldly fuss should
 
 pompously begin.
 
@@ -327,21 +333,3 @@ trotted through the room.
 
 
 Concession, contrition, never do any good with some people. Instead of
-
-softening and conciliating, they but embolden and harden them. Of that
-
-number was Mr. Sympson.
-
-
-
-"_I_ disappointed? What is it to me? Have _I_ an interest in it? You
-
-would insinuate, perhaps, that I have motives?"
-
-
-
-"Most people have motives of some sort for their actions."
-
-
-
-"She accuses me to my face! I, that have been a parent to her, she

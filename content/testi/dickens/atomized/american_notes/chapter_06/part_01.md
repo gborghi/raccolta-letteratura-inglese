@@ -24,7 +24,7 @@ where we had arranged to remain under the hospitable roof of the Governor
 of the State, until Monday morning.
 
 These towns and cities of [[New England]] (many of which would be villages in
-Old England), are as favourable specimens of rural [[America]], as their
+Old England), are as favourable specimens of rural [[america|America]], as their
 people are of rural Americans.  The [[Well|well]]-trimmed lawns and green meadows
 of [[Home|home]] are not there; and the grass, compared with our ornamental plots
 and pastures, is rank, and rough, and wild: but delicate slopes of land,
@@ -85,7 +85,7 @@ hung on slack strings across the lower panes; so that it looked like the
 parlour of a Lilliputian public-[[house]], which had got afloat in a flood or
 some other [[Water|water]] accident, and was drifting nobody knew where.  But even
 in this chamber there was a rocking-chair.  It would be impossible to get
-on anywhere, in [[America]], without a rocking-chair.  I am afraid to tell
+on anywhere, in [[america|America]], without a rocking-chair.  I am afraid to tell
 how many feet short this vessel was, or how many feet narrow: to apply
 the words length and width to such measurement would be a contradiction
 in terms.  But I may state that we all kept the middle of the deck, lest
@@ -105,10 +105,3 @@ bade defiance to the weather, and enjoyed the [[Journey|journey]].  The Connecti
 cabin; and she should be a judge of [[Beauty|beauty]], if the possession of a
 quality include the appreciation of it, for a more beautiful creature I
 never looked upon.
-
-After two hours and a half of this odd travelling (including a stoppage
-at a small town, where we were saluted by a gun considerably bigger than
-our own chimney), we reached Hartford, and straightway repaired to an
-extremely comfortable hotel: except, as usual, in the article of
-bedrooms, which, in almost every place we visited, were very conducive to
-early rising.

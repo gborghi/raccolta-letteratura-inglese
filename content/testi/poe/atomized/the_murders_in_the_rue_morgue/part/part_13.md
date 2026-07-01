@@ -1,5 +1,5 @@
 ---
-title: "[[The Murders in the Rue Morgue]] (part 13)"
+title: "The Murders in the Rue Morgue (part 13)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-murders-in-the-rue-morgue-(poe)"
@@ -13,6 +13,60 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_murders_in_the_rue_morgue/part/part_12">‹ part 12</a><a class="ex-next" href="/testi/poe/atomized/the_murders_in_the_rue_morgue/part/part_14">part 14 ›</a></div>
 </nav>
 
+
+      ‘_mon Dieu!_’ This, under the circumstances, has been justly
+
+      characterized by one of the witnesses (Montani, the
+
+      confectioner,) as an expression of remonstrance or expostulation.
+
+      Upon these two words, therefore, I have mainly built my hopes of
+
+      a full solution of the [[Riddle|riddle]]. A Frenchman was cognizant of the
+
+      murder. It is possible—indeed it is far more than probable—that
+
+      he was [[Innocent|innocent]] of all participation in the bloody transactions
+
+      which took place. The Ourang-Outang may have escaped from him. He
+
+      may have traced it to the chamber; but, under the agitating
+
+      circumstances which ensued, he could never have re-captured it.
+
+      It is still at large. I will not pursue these guesses—for I have
+
+      no right to call them more—since the shades of reflection upon
+
+      which they are based are scarcely of sufficient depth to be
+
+      appreciable by my own intellect, and since I could not pretend to
+
+      make them intelligible to the understanding of another. We will
+
+      call them guesses then, and speak of them as such. If the
+
+      Frenchman in question is indeed, as I suppose, [[Innocent|innocent]] of this
+
+      atrocity, this advertisement which I left last [[Night|night]], upon our
+
+      return [[Home|home]], at the office of ‘Le Monde’ (a paper devoted to the
+
+      shipping interest, and much sought by sailors), will bring him to
+
+      our residence.”
+
+
+
+      He handed me a paper, and I read thus:
+
+
+
+      CAUGHT—_In the Bois de Boulogne, early in the morning of the
+
+      ——inst.,_ (the morning of the murder), _a very large, tawny
+
+      Ourang-Outang of the Bornese species. The owner (who is
 
       ascertained to be a sailor, belonging to a Maltese vessel) may
 
@@ -153,79 +207,3 @@ tags:
       possession of him; a remarkably fine, and no [[Doubt|doubt]] a very
 
       valuable animal. How old do you suppose him to be?”
-
-
-
-      The sailor drew a long breath, with the air of a man relieved of
-
-      some intolerable burden, and then replied, in an assured tone:
-
-
-
-      “I have no way of telling—but he can’t be more than four or five
-
-      years old. Have you got him here?”
-
-
-
-      “Oh no, we had no conveniences for keeping him here. He is at a
-
-      livery stable in the Rue Dubourg, just by. You can get him in the
-
-      morning. Of course you are prepared to identify the property?”
-
-
-
-      “To be sure I am, sir.”
-
-
-
-      “I shall be sorry to part with him,” said Dupin.
-
-
-
-      “I don’t mean that you should be at all this trouble for nothing,
-
-      sir,” said the man. “Couldn’t expect it. Am very willing to pay a
-
-      reward for the finding of the animal—that is to say, any thing in
-
-      reason.”
-
-
-
-      “[[Well]],” replied my friend, “that is all very fair, to be sure.
-
-      Let me think!—what should I have? Oh! I will tell you. My reward
-
-      shall be this. You shall give me all the information in your
-
-      power about these murders in the Rue Morgue.”
-
-
-
-      Dupin said the last words in a very low tone, and very quietly.
-
-      Just as quietly, too, he walked toward the door, locked it and
-
-      put the key in his pocket. He then drew a [[Pistol|pistol]] from his bosom
-
-      and placed it, without the least flurry, upon the table.
-
-
-
-      The sailor’s face flushed up as if he were struggling with
-
-      suffocation. He started to his feet and grasped his cudgel, but
-
-      the next moment he fell back into his seat, trembling violently,
-
-      and with the countenance of [[Death|death]] itself. He spoke not a word. I
-
-      pitied him from the [[Bottom|bottom]] of my heart.
-
-
-
-      “My friend,” said Dupin, in a kind tone, “you are alarming
-
-      yourself unnecessarily—you are indeed. We mean you no harm

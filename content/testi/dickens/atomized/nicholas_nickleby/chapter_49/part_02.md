@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 49 (part 2)"
+title: "Nicholas Nickleby — Chapter 49 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_49/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_49/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘He is the most attentive young man I ever saw, Kate,’ said Mrs. Nickleby
+to her daughter one evening, when this last-named gentleman had been the
+subject of the worthy lady’s eulogium for some [[Time|time]], and Kate had sat
+perfectly silent.
 
 ‘Attentive, mama!’ rejoined Kate.
 
@@ -133,7 +138,3 @@ great-grandfather went to school; for I know the master of his school
 was a dissenter, and that would, in a great measure, account for the
 Cock-lane [[Ghost]]’s behaving in such an improper manner to the clergyman
 when he grew up. Ah! Train up a [[Ghost]]--[[Child|child]], I mean--’
-
-Any further reflections on this fruitful theme were abruptly cut short
-by the arrival of Tim Linkinwater and Mr. Frank Cheeryble; in the hurry
-of receiving whom, Mrs. Nickleby speedily lost sight of everything else.

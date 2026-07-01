@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 25 (part 2)"
+title: "Villette — Chapter 25 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_25/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_25/part_03">part 03 ›</a></div>
 </nav>
 
+
+“Why? I am quite [[Well|well]] now: it can’t break my collar-bone again, or
+dislocate my shoulder. Is it wine?”
+
+“No; nor dew.”
+
+“I don’t want dew; I don’t like dew: but what is it?”
+
+“Ale—strong ale—old October; brewed, perhaps, when I was born.”
 
 “It must be curious: is it good?”
 
@@ -143,23 +152,3 @@ to La Terrasse for the day.”
 send her to school. Do you know of any good school?”
 
 “There is Lucy’s place—[[Madame Beck]]’s.”
-
-“Miss Snowe is in a school?”
-
-“I am a teacher,” I said, and was rather glad of the opportunity of
-saying this. For a little while I had been feeling as if placed in a
-false position. Mrs. Bretton and son knew my circumstances; but the
-Count and his daughter did not. They might choose to vary by some
-shades their hitherto cordial manner towards me, when aware of my grade
-in society. I spoke then readily: but a swarm of thoughts I had not
-anticipated nor invoked, [[Rose|rose]] dim at the words, making me sigh
-involuntarily. Mr. [[Home]] did not lift his eyes from his breakfast-plate
-for about two minutes, nor did he speak; perhaps he had not caught the
-words—perhaps he thought that on a confession of that [[Nature|nature]],
-politeness would interdict comment: the Scotch are proverbially proud;
-and homely as was Mr. [[Home]] in look, simple in habits and tastes, I have
-all along intimated that he was not without his share of the national
-quality. Was his a pseudo [[Pride|pride]]? was it real dignity? I leave the
-question undecided in its wide sense. Where it concerned me
-individually I can only answer: then, and always, he showed himself a
-true-hearted gentleman.

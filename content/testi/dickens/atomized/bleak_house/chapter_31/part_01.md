@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 31 (part 1)"
+title: "Bleak House — Chapter 31 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -141,13 +141,3 @@ It was Saturday [[Night|night]], and most of the people belonging to the place
 where we were going were drinking elsewhere. We found it quieter than
 I had previously seen it, though quite as miserable. The kilns were
 burning, and a stifling vapour set towards us with a pale-blue glare.
-
-We came to the cottage, where there was a feeble candle in the
-patched [[Window|window]]. We tapped at the door and went in. The mother of the
-little [[Child|child]] who had died was sitting in a chair on one side of the
-poor [[Fire|fire]] by the bed; and opposite to her, a wretched boy, supported
-by the chimney-piece, was cowering on the floor. He held under his
-arm, like a little bundle, a [[Fragment|fragment]] of a fur cap; and as he tried
-to warm himself, he shook until the crazy door and [[Window|window]] shook. The
-place was closer than before and had an unhealthy and a very peculiar
-smell.

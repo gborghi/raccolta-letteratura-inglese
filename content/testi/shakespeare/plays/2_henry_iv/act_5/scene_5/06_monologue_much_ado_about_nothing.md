@@ -1,5 +1,5 @@
 ---
-title: "2 [[Henry IV]] — Act V, Scene 5 — monologue (MUCH ADO ABOUT NOTHING) [6]"
+title: "2 Henry IV — Act V, Scene 5 — monologue (MUCH ADO ABOUT NOTHING) [6]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/2-henry-iv-(shakespeare)"

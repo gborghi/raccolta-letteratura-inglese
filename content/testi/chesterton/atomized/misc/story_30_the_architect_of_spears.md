@@ -1,5 +1,5 @@
 ---
-title: "[[misc]] — THE ARCHITECT OF SPEARS"
+title: "misc — THE ARCHITECT OF SPEARS"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 THE ARCHITECT OF SPEARS
-
 
 The other day, in the town of [[Lincoln]], I suffered an optical
 illusion which accidentally revealed to me the strange [[Greatness|greatness]]
@@ -60,7 +59,7 @@ but they do not affect it in at all the same way as Westminster Abbey.
 Some again (going to another and almost equally foolish extreme)
 ignore the coarse and comic in mediaevalism; and praise the pointed
 arch only for its utter purity and simplicity, as of a saint with his
-hands joined in [[prayer]].  Here, again, the uniqueness is missed.
+hands joined in [[Prayer|prayer]].  Here, again, the uniqueness is missed.
 There are [[Renaissance]] things (such as the ethereal silvery
 drawings of Raphael), there are even pagan things (such as
 the Praying Boy) which express as fresh and austere a piety.

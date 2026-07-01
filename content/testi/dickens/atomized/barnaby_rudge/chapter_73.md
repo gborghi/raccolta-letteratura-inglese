@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 73"
+title: "Barnaby Rudge — Chapter 73"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -245,7 +245,7 @@ sorrow on the sufferings and evil deeds of men; and felt its peace sink
 deep into his heart. He, a poor idiot, caged in his narrow cell, was as
 much lifted up to God, while gazing on the mild light, as the freest and
 most favoured man in all the spacious [[City|city]]; and in his ill-remembered
-[[Prayer|prayer]], and in the [[Fragment|fragment]] of the childish [[Hymn|hymn]], with which he sung and
+[[prayer]], and in the [[Fragment|fragment]] of the childish [[Hymn|hymn]], with which he sung and
 crooned himself asleep, there breathed as true a spirit as ever studied
 homily expressed, or old [[Cathedral|cathedral]] arches echoed.
 

@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 22 (part 6)"
+title: "Persuasion — Chapter 22 (part 6)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -13,6 +13,28 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_22/part_05">‹ part 05</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_23/part_01">part 01 ›</a></div>
 </nav>
 
+
+Elizabeth arose and disappeared.
+
+
+
+The interruption had been short, though severe, and ease and animation
+
+returned to most of those they left as the door shut them out, but not
+
+to Anne. She could think only of the invitation she had with such
+
+astonishment witnessed, and of the manner in which it had been
+
+received; a manner of doubtful meaning, of surprise rather than
+
+gratification, of polite acknowledgement rather than acceptance. She
+
+knew him; she saw disdain in his eye, and could not venture to believe
+
+that he had determined to accept such an offering, as an atonement for
+
+all the insolence of the past. Her spirits sank. He held the card in
 
 his hand after they were gone, as if deeply considering it.
 

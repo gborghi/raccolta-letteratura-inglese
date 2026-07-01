@@ -1,5 +1,5 @@
 ---
-title: "[[CharlesDickens]] — Chapter 4 (part 2)"
+title: "CharlesDickens — Chapter 4 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/charlesdickens-(chesterton)"
@@ -18,7 +18,7 @@ Seymour's claim, then, viewed symbolically, was even a compliment.
 It was true in spirit that Dickens obtained (or might have obtained)
 the start of [[Pickwick]] from somebody else, from anybody else.
 For he had a more gigantic energy than the energy of the
-intense [[artist]], the energy which is prepared to write something.
+intense [[Artist|artist]], the energy which is prepared to write something.
 He had the energy which is prepared to write anything.
 He could have finished any man's tale.  He could have breathed a mad
 life into any man's characters.  If it had been true that Seymour

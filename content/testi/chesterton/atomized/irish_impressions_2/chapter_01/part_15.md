@@ -102,7 +102,7 @@ It sees the [[Tragedy|tragedy]] of Ireland as simply and clearly as the [[Traged
 of [[Christ]] or Joan of Arc.  There may have been more to be said on
 the coercive side than the culture of the Continent understands.
 So there was a great deal more than is usually admitted, to be said
-on the side of the patriotic [[Democracy|democracy]] which condemned Socrates;
+on the side of the patriotic [[democracy]] which condemned Socrates;
 and a very great deal to be said on the side of the imperial
 aristocracy which would have crushed Washington.  But these disputes
 will not take Socrates from his niche among the pagan saints,

@@ -40,14 +40,14 @@ tags:
 ## Chapters / scenes / sections
 
 - [Story 01 THE MAN WHO KNEW TOO MUCH](/testi/chesterton/atomized/manwho/story_01_the_man_who_knew_too_much)
-- [Story 02 THE FACE IN THE TARGET](/testi/chesterton/atomized/manwho/story_02_the_face_in_the_target)
-- [Story 03 THE VANISHING PRINCE](/testi/chesterton/atomized/manwho/story_03_the_vanishing_prince)
-- [Story 04 THE SOUL OF THE SCHOOLBOY](/testi/chesterton/atomized/manwho/story_04_the_soul_of_the_schoolboy)
-- [Story 05 THE BOTTOMLESS WELL](/testi/chesterton/atomized/manwho/story_05_the_bottomless_well)
-- [Story 06 THE FAD OF THE FISHERMAN](/testi/chesterton/atomized/manwho/story_06_the_fad_of_the_fisherman)
-- [Story 07 THE HOLE IN THE WALL](/testi/chesterton/atomized/manwho/story_07_the_hole_in_the_wall)
-- [Story 08 THE TEMPLE OF SILENCE](/testi/chesterton/atomized/manwho/story_08_the_temple_of_silence)
-- [Story 09 THE VENGEANCE OF THE STATUE](/testi/chesterton/atomized/manwho/story_09_the_vengeance_of_the_statue)
+- Story 02 THE FACE IN THE TARGET
+- Story 03 THE VANISHING PRINCE
+- Story 04 THE SOUL OF THE SCHOOLBOY
+- Story 05 THE BOTTOMLESS WELL
+- Story 06 THE FAD OF THE FISHERMAN
+- Story 07 THE HOLE IN THE WALL
+- Story 08 THE TEMPLE OF SILENCE
+- Story 09 THE VENGEANCE OF THE STATUE
 
 ## Testo integrale / Full text
 

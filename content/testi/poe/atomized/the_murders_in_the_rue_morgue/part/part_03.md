@@ -1,5 +1,5 @@
 ---
-title: "[[The Murders in the Rue Morgue]] (part 3)"
+title: "The Murders in the Rue Morgue (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-murders-in-the-rue-morgue-(poe)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_murders_in_the_rue_morgue/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/the_murders_in_the_rue_morgue/part/part_04">part 04 ›</a></div>
 </nav>
 
+
+      infinity of mental excitement which quiet observation can afford.
+
+
+
+      At such times I could not help remarking and admiring (although
+
+      from his rich ideality I had been prepared to expect it) a
+
+      peculiar analytic ability in Dupin. He seemed, too, to take an
+
+      eager delight in its exercise—if not exactly in its display—and
 
       did not hesitate to confess the pleasure thus derived. He boasted
 
@@ -215,17 +227,3 @@ tags:
       “You kept your eyes upon the ground—glancing, with a petulant
 
       expression, at the holes and ruts in the pavement, (so that I saw
-
-      you were still thinking of the stones,) until we reached the
-
-      little alley called Lamartine, which has been paved, by way of
-
-      experiment, with the overlapping and riveted blocks. Here your
-
-      countenance brightened up, and, perceiving your lips move, I
-
-      could not [[Doubt|doubt]] that you murmured the word ‘stereotomy,’ a term
-
-      very affectedly applied to this species of pavement. I knew that
-
-      you could not say to yourself ‘stereotomy’ without being brought

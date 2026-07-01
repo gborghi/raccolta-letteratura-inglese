@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity]]"
+title: "Incredulity"
 author: "Chesterton"
 unitType: work
 parentWork: "works/incredulity-(chesterton)"
@@ -23,7 +23,7 @@ THERE was a brief period during which [[Father Brown]] enjoyed,
 or rather did not enjoy, something like fame.  He was a nine days'
 [[Wonder|wonder]] in the newspapers; he was even a common topic of controversy
 in the weekly reviews; his exploits were narrated eagerly and inaccurately
-in any number of clubs and drawing--rooms, especially in [[america|America]].
+in any number of clubs and drawing--rooms, especially in [[America]].
 Incongruous and indeed incredible as it may seem to any one who knew him,
 his adventures as a [[Detective|detective]] were even made the subject of short
 stories appearing in magazines.
@@ -32,7 +32,7 @@ Strangely enough, this wandering limelight struck him in the most obscure,
 or at least the most remote, of his many places of residence.
 He had been sent out to officiate, as something between a missionary
 and a parish priest, in one of those sections of the northern coast
-of South [[america|America]], where strips of country still cling insecurely
+of South [[America]], where strips of country still cling insecurely
 to European powers, or are continually threatening to become
 independent republics, under the gigantic [[Shadow|shadow]] of President Monroe.
 The population was red and brown with pink spots; that is,
@@ -529,7 +529,7 @@ angry but more argumentative:  `I don't believe it, but you do.
 Isn't it better to have no God than one that robs you in
 this fashion?  I, at least, am not afraid to say that there
 is none.  There is no power in all this blind and brainless
-universe that can hear your [[prayer]] or return your friend.
+universe that can hear your [[Prayer|prayer]] or return your friend.
 Though you beg Heaven to raise him, he will not rise.
 Though I dare Heaven to raise him, he will not rise.
 Here and now I will put it to the test--I defy the God who is
@@ -800,11 +800,11 @@ His short figure, his short--sighted and undistinguished countenance,
 his rather rusty--black clerical clothes, could pass
 through any crowd in his own country without being noticed
 as anything unusual, except perhaps unusually insignificant.
-But [[america|America]] has a genius for the encouragement of fame;
+But [[America]] has a genius for the encouragement of fame;
 and his appearance in one or two curious criminal problems,
 together with his long association with [[Flambeau]], the ex--
 criminal and [[Detective|detective]], had consolidated a reputation in
-[[america|America]] out of what was little more than a rumour in England.
+[[America]] out of what was little more than a rumour in England.
 His round face was blank with surprise when he found himself
 held up on the quay by a group of journalists, as by a gang
 of brigands, who asked him questions about all the subjects
@@ -2789,7 +2789,7 @@ and the things that happened there were romantic enough in their way.
 At least it had been an expression of that genuine element
 of sentiment--historic and almost heroic--which manages
 to remain side by side with commercialism in the elder cities
-on the eastern coast of [[america|America]].  It was originally a curve
+on the eastern coast of [[America]].  It was originally a curve
 of classical architecture really recalling that eighteenth--
 century atmosphere in which men like Washington and Jefferson
 had seemed to be all the more republicans for being aristocrats.
@@ -3548,7 +3548,7 @@ The priest tells me that a man can appeal to a God I know
 nothing about to avenge him by the laws of some higher justice
 that I know nothing about.  There's nothing for me to say except
 that I know nothing about it.  But, at least, if the poor
-Paddy's [[prayer]] and [[Pistol|pistol]] could be heard in a higher world,
+Paddy's [[Prayer|prayer]] and [[Pistol|pistol]] could be heard in a higher world,
 that higher world might act in some way that seems odd to us.
 But you ask me to disbelieve the facts of this world as they
 appear to my own five wits.  According to you, a whole procession
@@ -5246,7 +5246,7 @@ of rousing him.
 
 [[Father Brown]] was blinking in his short--sighted way at the paper
 presented to him.  It was a singular sort of paper, rough without
-being common, as from an [[artist]]'s [[Sketch|sketch]]--book; and on it was drawn
+being common, as from an [[Artist|artist]]'s [[Sketch|sketch]]--book; and on it was drawn
 boldly in red ink a dagger decorated with wings like the rod of Hermes,
 with the written words, `Death comes the day after this, as it came
 to your brothers.'
@@ -5778,8 +5778,8 @@ Any sort of mask can be put on any sort of face.  Anybody can learn
 certain phrases or state verbally that he holds certain views.
 I can go out into the street and state that I am a Wesleyan Methodist
 or a Sandemanian, though I [[Fear|fear]] in no very convincing accent.
-But we are talking about an [[artist]]; and for the enjoyment of
-the [[artist]] the mask must be to some extent moulded on the face.
+But we are talking about an [[Artist|artist]]; and for the enjoyment of
+the [[Artist|artist]] the mask must be to some extent moulded on the face.
 What he makes outside him must correspond to something inside him;
 he can only make his effects out of some of the materials of his [[Soul|soul]].
 I suppose he could have said he was a Wesleyan Methodist;
@@ -5800,7 +5800,7 @@ you're denouncing or defending him.'
 
 `It isn't defending a man to say he is a genius,' said Father Brown.
 `Far from it.  And it is simply a psychological fact that
-an [[artist]] will betray himself by some sort of sincerity.
+an [[Artist|artist]] will betray himself by some sort of sincerity.
 Leonardo da Vinci cannot draw as if he couldn't draw.
 Even if he tried, it will always be a strong [[Parody|parody]] of a weak thing.
 This man would have made something much too fearful and wonderful
@@ -5864,8 +5864,8 @@ as Harry Payne.
 `Ghosts, you might suppose,' replied his friend Martin Wood.
 `[[Well]], the people who live there really are rather like [[Ghosts|ghosts]].'
 
-It was perhaps rather a [[Paradox|paradox]] that the [[London]] [[artist]] seemed almost
-bucolic in his boisterous freshness and [[Wonder|wonder]], while the local [[artist]]
+It was perhaps rather a [[Paradox|paradox]] that the [[London]] [[Artist|artist]] seemed almost
+bucolic in his boisterous freshness and [[Wonder|wonder]], while the local [[Artist|artist]]
 seemed a more shrewd and experienced person, regarding him with mature
 and amiable amusement; indeed, the latter was altogether a quieter
 and more conventional figure, wearing darker clothes and with his square
@@ -5931,7 +5931,7 @@ touch and fitted in with the twilight scenery.'
 
 `You're not giving my friend from London a very lively
 picture of my friends in the country,' said Wood, laughing.
-`I had intended taking him there to call; no [[artist]] ought
+`I had intended taking him there to call; no [[Artist|artist]] ought
 to miss those Darnaway portraits if he gets the chance.
 But perhaps I'd better postpone it if they're in the middle
 of the Australian invasion.'

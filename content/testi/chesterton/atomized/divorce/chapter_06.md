@@ -1,5 +1,5 @@
 ---
-title: "[[divorce]] — Chapter 6"
+title: "divorce — Chapter 6"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/divorce-(chesterton)"
@@ -329,7 +329,7 @@ to servile status, the alternative and therefore the antagonist.
 [[Marriage]] makes a small state within the state, which resists
 all such regimentation.  That bond breaks all other bonds;
 that law is found stronger than all later and lesser laws.
-They [[Desire|desire]] the [[Democracy|democracy]] to be sexually fluid, because the
+They [[Desire|desire]] the [[democracy]] to be sexually fluid, because the
 making of small nuclei is like the making of small nations.
 Like small nations, they are a nuisance to the mind of imperial scope.
 In short, what they [[Fear|fear]], in the most literal sense, is [[Home|home]] rule.

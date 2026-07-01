@@ -1,5 +1,5 @@
 ---
-title: "The Haunted Man and the [[Ghost]]'s Bargain — Chapter 2 (part 6)"
+title: "The Haunted Man and the Ghost's Bargain — Chapter 2 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-haunted-man-and-the-ghost's-bargain-(dickens)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_02/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_02/part_07">part 07 ›</a></div>
 </nav>
 
+
+In the quickness of his expression of this [[Desire|desire]], and in taking the
+candle from the newsman, he touched him on the breast. Withdrawing his
+hand hastily, almost as though he had wounded him by accident (for he did
+not know in what part of himself his new power resided, or how it was
+communicated, or how the manner of its reception varied in different
+persons), he turned and ascended the stair.
+
+But when he reached the top, he stopped and looked down. The wife was
+standing in the same place, twisting her ring round and round upon her
+finger. The husband, with his head bent forward on his breast, was
+musing heavily and sullenly. The children, still clustering about the
+mother, gazed timidly after the visitor, and nestled together when they
+saw him looking down.
 
 “Come!” said the father, roughly. “There’s enough of this. Get to bed
 here!”
@@ -123,31 +137,3 @@ for light for his blinded mind.
 “I remembered your name,” he said, “when it was mentioned to me down
 stairs, just now; and I recollect your face. We have held but very
 little personal communication together?”
-
-“Very little.”
-
-“You have retired and withdrawn from me, more than any of the rest, I
-think?”
-
-The student signified assent.
-
-“And why?” said the Chemist; not with the least expression of interest,
-but with a moody, wayward kind of curiosity. “Why? How comes it that
-you have sought to keep especially from me, the knowledge of your
-remaining here, at this season, when all the rest have dispersed, and of
-your being ill? I want to know why this is?”
-
-The young man, who had heard him with increasing agitation, raised his
-downcast eyes to his face, and clasping his hands together, cried with
-sudden earnestness and with trembling lips:
-
-“Mr. Redlaw! You have discovered me. You know my secret!”
-
-“Secret?” said the Chemist, harshly. “I know?”
-
-“Yes! Your manner, so different from the interest and sympathy which
-endear you to so many hearts, your altered voice, the constraint there is
-in everything you say, and in your looks,” replied the student, “warn me
-that you know me. That you would conceal it, even now, is but a proof to
-me (God knows I need none!) of your natural kindness and of the bar there
-is between us.”

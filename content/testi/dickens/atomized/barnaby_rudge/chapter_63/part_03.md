@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 63 (part 3)"
+title: "Barnaby Rudge — Chapter 63 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,26 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_63/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_64/part_01">part 01 ›</a></div>
 </nav>
 
+
+Mr Dennis was so affected by this constancy on the part of the staunch
+old man, that he protested--almost with [[Tears|tears]] in his eyes--that to baulk
+his inclinations would be an act of cruelty and hard dealing to which
+he, for one, never could reconcile his [[Conscience|conscience]]. The gentleman, he
+said, had avowed in so many words that he was ready for working off;
+such being the case, he considered it their duty, as a civilised and
+enlightened crowd, to work him off. It was not often, he observed, that
+they had it in their power to accommodate themselves to the wishes of
+those from whom they had the misfortune to differ. Having now found an
+individual who expressed a [[Desire|desire]] which they could reasonably indulge
+(and for himself he was free to confess that in his opinion that [[Desire|desire]]
+did [[Honour|honour]] to his feelings), he hoped they would decide to accede to
+his proposition before going any further. It was an experiment which,
+skilfully and dexterously performed, would be over in five minutes, with
+great comfort and satisfaction to all parties; and though it did not
+become him (Mr Dennis) to speak [[Well|well]] of himself he trusted he might
+be allowed to say that he had practical knowledge of the subject, and,
+being naturally of an obliging and friendly disposition, would work the
+gentleman off with a deal of pleasure.
 
 These remarks, which were addressed in the midst of a frightful din and
 turmoil to those immediately about him, were received with great favour;

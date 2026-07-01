@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 10 (part 5)"
+title: "Shirley — Chapter 10 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,34 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_10/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_10/part_06">part 06 ›</a></div>
 </nav>
 
+
+wan shade seemed to circle them; her countenance was dejected--she was
+
+not, in short, so pretty or so fresh as she used to be. She distantly
+
+hinted this to Fanny, from whom she got no direct answer, only a remark
+
+that people did vary in their looks, but that at her age a little
+
+falling away signified nothing; she would soon come round again, and be
+
+plumper and rosier than ever. Having given this assurance, Fanny showed
+
+singular zeal in wrapping her up in warm shawls and handkerchiefs, till
+
+Caroline, nearly smothered with the weight, was fain to resist further
+
+additions.
+
+
+
+She paid her visits--first to Miss Mann, for this was the most difficult
+
+point. Miss Mann was certainly not quite a lovable person. Till now,
+
+Caroline had always unhesitatingly declared she disliked her, and more
+
+than once she had joined her cousin Robert in laughing at some of her
 
 peculiarities. Moore was not habitually given to sarcasm, especially on
 
@@ -177,35 +205,3 @@ subject. She made few distinctions; she allowed scarcely any one to be
 good; she dissected impartially almost all her acquaintance. If her
 
 auditress ventured now and then to put in a palliative word she set it
-
-aside with a certain disdain. Still, though thus pitiless in moral
-
-anatomy, she was no scandal-monger. She never disseminated really
-
-malignant or dangerous reports. It was not her heart so much as her
-
-temper that was wrong.
-
-
-
-Caroline made this discovery for the first [[Time|time]] to-day, and moved
-
-thereby to regret divers unjust judgments she had more than once passed
-
-on the crabbed old maid, she began to talk to her softly, not in
-
-sympathizing words, but with a sympathizing voice. The [[Loneliness|loneliness]] of her
-
-condition struck her visitor in a new light, as did also the character
-
-of her ugliness--a bloodless pallor of complexion, and deeply worn lines
-
-of feature. The girl pitied the solitary and afflicted woman; her looks
-
-told what she felt. A sweet countenance is never so sweet as when the
-
-moved heart animates it with compassionate tenderness. Miss Mann, seeing
-
-such a countenance raised to her, was touched in her turn. She
-
-acknowledged her sense of the interest thus unexpectedly shown in her,

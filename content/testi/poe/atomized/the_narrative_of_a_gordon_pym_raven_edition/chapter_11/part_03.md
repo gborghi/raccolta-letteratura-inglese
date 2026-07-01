@@ -14,6 +14,16 @@ tags:
 </nav>
 
 
+      however, they would appear to revive suddenly, as if inspired all
+
+      at once with a consciousness of their condition, when they would
+
+      [[spring]] upon their feet in a momentary flash of vigour, and speak,
+
+      for a short period, of their prospects, in a manner altogether
+
+      rational, although full of the most intense [[Despair|despair]]. It is
+
       possible, however, that my companions may have entertained the
 
       same opinion of their own condition as I did of mine, and that I

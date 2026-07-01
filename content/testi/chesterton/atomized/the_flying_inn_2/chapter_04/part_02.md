@@ -14,6 +14,13 @@ tags:
 </nav>
 
 
+"You know what I mean, Lady Joan," said her host,
+good humouredly.  "And I never was hard on the case
+myself; we all have our little ways.  I shouldn't like
+it done to my pig; but I don't see why a man shouldn't
+have his own pig in his own pew with him if he likes
+it.  It wasn't a free seat.  It was the family pew."
+
 Lady Joan broke out laughing again.  "What horrible
 things you do seem to have heard of," she said.
 "[[Well]], I must be going, Mr. Hump--I mean Mr.

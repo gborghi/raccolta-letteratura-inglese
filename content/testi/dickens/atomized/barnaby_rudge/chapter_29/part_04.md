@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 29 (part 4)"
+title: "Barnaby Rudge — Chapter 29 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,36 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_29/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_31/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘I would,’ said Mr Chester, leaning over her, and speaking in mild and
+quite venerable accents; ‘I would, dear girl, it were my task to banish,
+not increase, those tokens of your grief. My son, my erring son,--I will
+not call him deliberately criminal in this, for men so young, who have
+been inconstant twice or thrice before, act without reflection, almost
+without a knowledge of the wrong they do,--will break his plighted [[Faith|faith]]
+to you; has broken it even now. Shall I stop here, and having given you
+this warning, leave it to be fulfilled; or shall I go on?’
+
+‘You will go on, sir,’ she answered, ‘and speak more plainly yet, in
+justice both to him and me.’
+
+‘My dear girl,’ said Mr Chester, bending over her more affectionately
+still; ‘whom I would call my daughter, but the Fates forbid, Edward
+seeks to break with you upon a false and most unwarrantable pretence. I
+have it on his own showing; in his own hand. Forgive me, if I have had
+a watch upon his conduct; I am his father; I had a regard for your peace
+and his [[Honour|honour]], and no better resource was left me. There lies on his
+desk at this present moment, ready for transmission to you, a letter,
+in which he tells you that our [[Poverty|poverty]]--our [[Poverty|poverty]]; his and mine, Miss
+Haredale--forbids him to pursue his claim upon your hand; in which he
+offers, voluntarily proposes, to free you from your pledge; and talks
+magnanimously (men do so, very commonly, in such cases) of being in
+[[Time|time]] more worthy of your regard--and so forth. A letter, to be plain, in
+which he not only jilts you--pardon the word; I would summon to your
+aid your [[Pride|pride]] and dignity--not only jilts you, I [[Fear|fear]], in favour of the
+object whose slighting treatment first inspired his brief passion for
+yourself and gave it birth in wounded [[Vanity|vanity]], but affects to make a
+merit and a virtue of the act.’
 
 She glanced proudly at him once more, as by an involuntary impulse, and
 with a swelling breast rejoined, ‘If what you say be true, he takes much

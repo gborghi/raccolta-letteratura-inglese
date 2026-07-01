@@ -35,13 +35,13 @@ POSTSCRIPT
 
 AT a Public Dinner given to me on Saturday the 18th of April, 1868, in
 the [[City]] of [[New York]], by two hundred representatives of the Press of the
-United States of [[America]], I made the following observations among others:
+United States of [[america|America]], I made the following observations among others:
 
 ‘So much of my voice has lately been heard in the land, that I might have
 been contented with troubling you no further from my present
 standing-point, were it not a duty with which I henceforth charge myself,
 not only here but on every suitable occasion, whatsoever and wheresoever,
-to express my high and grateful sense of my second reception in [[America]],
+to express my high and grateful sense of my second reception in [[america|America]],
 and to bear my honest testimony to the national generosity and
 magnanimity.  Also, to declare how astounded I have been by the amazing
 changes I have seen around me on every side,—changes moral, changes
@@ -63,7 +63,7 @@ more surprised by printed news that I have read of myself, than by any
 printed news that I have ever read in my present state of existence.
 Thus, the vigour and perseverance with which I have for some months past
 been collecting materials for, and hammering away at, a new book on
-[[America]] has much astonished me; seeing that all that [[Time|time]] my declaration
+[[america|America]] has much astonished me; seeing that all that [[Time|time]] my declaration
 has been perfectly [[Well|well]] known to my publishers on both sides of the
 Atlantic, that no consideration on earth would induce me to write one.
 But what I have intended, what I have resolved upon (and this is the
@@ -77,7 +77,7 @@ unsurpassable respect for the privacy daily enforced upon me by the
 [[Nature|nature]] of my avocation here and the state of my health.  This testimony,
 so long as I live, and so long as my descendants have any legal right in
 my books, I shall cause to be republished, as an appendix to every copy
-of those two books of mine in which I have referred to [[America]].  And this
+of those two books of mine in which I have referred to [[america|America]].  And this
 I will do and cause to be done, not in mere [[Love|love]] and thankfulness, but
 because I regard it as an act of plain justice and [[Honour|honour]].’
 
@@ -85,7 +85,7 @@ I said these words with the greatest earnestness that I could lay upon
 them, and I repeat them in print here with equal earnestness.  So long as
 this book shall last, I [[Hope|hope]] that they will form a part of it, and will
 be fairly read as inseparable from my experiences and impressions of
-[[America]].
+[[america|America]].
 
                                                           CHARLES DICKENS.
 
@@ -112,4 +112,4 @@ perfectly truthful article, in _The Foreign Quarterly Review_, published
 in the present month of October; to which my attention has been
 attracted, since these sheets have been passing through the press.  He
 will find some specimens there, by no means remarkable to any man who has
-been in [[America]], but sufficiently striking to one who has not.
+been in [[america|America]], but sufficiently striking to one who has not.

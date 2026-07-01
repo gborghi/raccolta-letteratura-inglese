@@ -1,5 +1,5 @@
 ---
-title: "[[manalive]] — Chapter 5"
+title: "manalive — Chapter 5"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/manalive-(chesterton)"
@@ -18,10 +18,9 @@ tags:
 
 	       The Allegorical Practical Joker
 
-
 The criminal specialist who had come with Dr. Warner was a somewhat
 more urbane and even dapper figure than he had appeared when
-clutching the railings and craning his neck into the [[Garden|garden]].
+clutching the railings and craning his neck into the garden.
 He even looked comparatively young when he took his hat off,
 having fair hair parted in the middle and carefully curled
 on each side, and lively movements, especially of the hands.
@@ -42,15 +41,15 @@ and really singular views.
 "Miss Hunt," said Dr. Warner, "this is Dr. Cyrus Pym."
 
 Dr. Cyrus Pym shut his eyes during the introduction, rather as if he were
-"playing fair" in some [[Child|child]]'s game, and gave a prompt little bow,
+"playing fair" in some child's game, and gave a prompt little bow,
 which somehow suddenly revealed him as a citizen of the United States.
 
 "Dr. Cyrus Pym," continued Warner (Dr. Pym shut his eyes again), "is perhaps
-the first criminological expert of [[America]].  We are very fortunate to be able
+the first criminological expert of America.  We are very fortunate to be able
 to consult with him in this extraordinary case--"
 
 "I can't make head or tail of anything," said Rosamund.  "How can
-poor Mr. [[smith|Smith]] be so dreadful as he is by your account?"
+poor Mr. Smith be so dreadful as he is by your account?"
 
 "Or by your telegram," said Herbert Warner, smiling.
 
@@ -58,33 +57,33 @@ poor Mr. [[smith|Smith]] be so dreadful as he is by your account?"
 "Why, he's done us all more good than going to church."
 
 "I think I can explain to the young lady," said Dr. Cyrus Pym.  "This criminal
-or maniac [[smith|Smith]] is a very genius of evil, and has a method of his own,
+or maniac Smith is a very genius of evil, and has a method of his own,
 a method of the most daring ingenuity.  He is popular wherever he goes,
-for he invades every [[house]] as an uproarious [[Child|child]].  People are
+for he invades every house as an uproarious child.  People are
 getting suspicious of all the respectable disguises for a scoundrel;
 so he always uses the disguise of--what shall I say--the Bohemian,
 the blameless Bohemian.  He always carries people off their feet.
 People are used to the mask of conventional good conduct.
-He goes in for eccentric good-[[Nature|nature]]. You expect a Don Juan to dress
+He goes in for eccentric good-nature. You expect a Don Juan to dress
 up as a solemn and solid Spanish merchant; but you're not prepared
-when he dresses up as [[Don Quixote]].  You expect a humbug to behave like
+when he dresses up as Don Quixote.  You expect a humbug to behave like
 Sir Charles Grandison; because (with all respect, Miss Hunt, for the deep,
 tear-moving tenderness of Samuel Richardson) Sir Charles Grandison
 so often behaved like a humbug.  But no real red-blooded citizen is quite
 ready for a humbug that models himself not on Sir Charles Grandison
 but on Sir Roger de Coverly.  Setting up to be a good man a little cracked
 is a new criminal incognito, Miss Hunt.  It's been a great notion,
-and uncommonly successful; but its [[success]] just makes it mighty cruel.
+and uncommonly successful; but its success just makes it mighty cruel.
 I can forgive Dick Turpin if he impersonates Dr. Busby; I can't forgive
 him when he impersonates Dr. Johnson.  The saint with a tile loose
 is a bit too sacred, I guess, to be parodied."
 
-"But how do you know," cried Rosamund desperately, "that Mr. [[smith|Smith]]
+"But how do you know," cried Rosamund desperately, "that Mr. Smith
 is a known criminal?"
 
 "I collated all the documents," said the American, "when my friend Warner
 knocked me up on receipt of your cable.  It is my professional affair
-to know these facts, Miss Hunt; and there's no more [[Doubt|doubt]] about them
+to know these facts, Miss Hunt; and there's no more doubt about them
 than about the Bradshaw down at the depot.  This man has hitherto escaped
 the law, through his admirable affectations of infancy or insanity.
 But I myself, as a specialist, have privately authenticated notes
@@ -98,8 +97,8 @@ I assure you I have all the memoranda."
 that all this is correct."
 
 "The most unmanly aspect, according to my feelings," went on the American
-doctor, "is this perpetual [[Deception|deception]] of [[Innocent|innocent]] women by a wild simulation
-of [[innocence]].  From almost every [[house]] where this great imaginative devil
+doctor, "is this perpetual deception of innocent women by a wild simulation
+of innocence.  From almost every house where this great imaginative devil
 has been, he has taken some poor girl away with him; some say he's got
 a hypnotic eye with his other queer features, and that they go like automata.
 What's become of all those poor girls nobody knows.  Murdered, I dare say;
@@ -120,41 +119,41 @@ It was not so much that he was cleverer than Warner;
 perhaps he was not so clever, though he was more celebrated.
 But he had what Warner never had, a fresh and unaffected seriousness--
 the great American virtue of simplicity.  Rosamund knitted
-her brows and looked gloomily toward the darkening [[house]]
+her brows and looked gloomily toward the darkening house
 that contained the dark prodigy.
 
 Broad daylight still endured; but it had already changed from gold to silver,
 and was changing from silver to gray.  The long plumy shadows of the one or
-two trees in the [[Garden|garden]] faded more and more upon a dead background of dusk.
-In the sharpest and deepest [[Shadow|shadow]], which was the entrance to the [[house]]
+two trees in the garden faded more and more upon a dead background of dusk.
+In the sharpest and deepest shadow, which was the entrance to the house
 by the big French windows, Rosamund could watch a hurried consultation
 between Inglewood (who was still left in charge of the mysterious captive)
-and [[Diana]], who had moved to his assistance from without.  After a few minutes
-and gestures they went inside, shutting the glass doors upon the [[Garden|garden]];
-and the [[Garden|garden]] seemed to grow grayer still.
+and Diana, who had moved to his assistance from without.  After a few minutes
+and gestures they went inside, shutting the glass doors upon the garden;
+and the garden seemed to grow grayer still.
 
 The American gentleman named Pym seemed to be turning and on the move
 in the same direction; but before he started he spoke to Rosamund with a
-flash of that guileless tact which redeemed much of his childish [[Vanity|vanity]],
+flash of that guileless tact which redeemed much of his childish vanity,
 and with something of that spontaneous poetry which made it difficult,
 pedantic as he was, to call him a pedant.
 
 "I'm vurry sorry, Miss Hunt," he said; "but Dr. Warner and I,
-as two quali-FIED practitioners, had better take Mr. [[smith|Smith]]
+as two quali-FIED practitioners, had better take Mr. Smith
 away in that cab, and the less said about it the better.
 Don't you agitate yourself, Miss Hunt.  You've just got to think
 that we're taking away a monstrosity, something that oughtn't to be
 at all--something like one of those gods in your Britannic Museum,
 all wings, and beards, and legs, and eyes, and no shape.
-That's what [[smith|Smith]] is, and you shall soon be quit of him."
+That's what Smith is, and you shall soon be quit of him."
 
-He had already taken a step towards the [[house]], and Warner was about
-to follow him, when the glass doors were opened again and [[Diana]] Duke
+He had already taken a step towards the house, and Warner was about
+to follow him, when the glass doors were opened again and Diana Duke
 came out with more than her usual quickness across the lawn.
 Her face was aquiver with worry and excitement, and her dark earnest
 eyes fixed only on the other girl.
 
-"Rosamund," she cried in [[Despair|despair]], "what shall I do with her?"
+"Rosamund," she cried in despair, "what shall I do with her?"
 
 "With her?" cried Miss Hunt, with a violent jump.  "O lord,
 he isn't a woman too, is he?"
@@ -162,49 +161,49 @@ he isn't a woman too, is he?"
 "No, no, no," said Dr. Pym soothingly, as if in common fairness.
 "A woman? no, really, he is not so bad as that."
 
-"I mean your friend Mary Gray," retorted [[Diana]] with equal tartness.
+"I mean your friend Mary Gray," retorted Diana with equal tartness.
 "What on earth am I to do with her?"
 
-"How can we tell her about [[smith|Smith]], you mean," answered Rosamund, her face
+"How can we tell her about Smith, you mean," answered Rosamund, her face
 at once clouded and softening.  "Yes, it will be pretty painful."
 
-"But I HAVE told her," exploded [[Diana]], with more than her
+"But I HAVE told her," exploded Diana, with more than her
 congenital exasperation.  "I have told her, and she doesn't seem to mind.
-She still says she's going away with [[smith|Smith]] in that cab."
+She still says she's going away with Smith in that cab."
 
 "But it's impossible!" ejaculated Rosamund.  "Why, Mary is
 really religious.  She--"
 
-She stopped in [[Time|time]] to realize that Mary Gray was comparatively
+She stopped in time to realize that Mary Gray was comparatively
 close to her on the lawn.  Her quiet companion had come down very
-quietly into the [[Garden|garden]], but dressed very decisively for travel.
+quietly into the garden, but dressed very decisively for travel.
 She had a neat but very ancient blue tam-o'-shanter on her head,
 and was pulling some rather threadbare gray gloves on to her hands.
 Yet the two tints fitted excellently with her heavy copper-coloured hair;
 the more excellently for the touch of shabbiness:  for a woman's clothes
-never suit her so [[Well|well]] as when they seem to suit her by accident.
+never suit her so well as when they seem to suit her by accident.
 
 But in this case the woman had a quality yet more unique and attractive.
 In such gray hours, when the sun is sunk and the skies are
 already sad, it will often happen that one reflection at some
 occasional angle will cause to linger the last of the light.
-A scrap of [[Window|window]], a scrap of [[Water|water]], a scrap of looking-glass,
-will be full of the [[Fire|fire]] that is lost to all the rest of the earth.
+A scrap of window, a scrap of water, a scrap of looking-glass,
+will be full of the fire that is lost to all the rest of the earth.
 The quaint, almost triangular face of Mary Gray was like some
-triangular piece of [[Mirror|mirror]] that could still repeat the splendour
+triangular piece of mirror that could still repeat the splendour
 of hours before.  Mary, though she was always graceful,
 could never before have properly been called beautiful; and yet
 her happiness amid all that misery was so beautiful as to make
 a man catch his breath.
 
-"O [[Diana]]," cried Rosamund in a lower voice and altering her phrase;
+"O Diana," cried Rosamund in a lower voice and altering her phrase;
 "but how did you tell her?"
 
-"It is quite easy to tell her," answered [[Diana]] sombrely;
+"It is quite easy to tell her," answered Diana sombrely;
 "it makes no impression at all."
 
 "I'm afraid I've kept everything waiting," said Mary Gray apologetically,
-"and now we must really say good-bye. [[Innocent]] is taking me to his aunt's
+"and now we must really say good-bye. Innocent is taking me to his aunt's
 over at Hampstead, and I'm afraid she goes to bed early."
 
 Her words were quite casual and practical, but there was a sort
@@ -213,24 +212,24 @@ she was like one speaking absently with her eye on some
 very distant object.
 
 "Mary, Mary," cried Rosamund, almost breaking down, "I'm so sorry about it,
-but the thing can't be at all.  We--we have found out all about Mr. [[smith|Smith]]."
+but the thing can't be at all.  We--we have found out all about Mr. Smith."
 
 "All?" repeated Mary, with a low and curious intonation;
 "why, that must be awfully exciting."
 
 There was no noise for an instant and no motion except that
-the silent [[Michael]] [[Moon]], leaning on the gate, lifted his head,
+the silent Michael Moon, leaning on the gate, lifted his head,
 as it might be to listen.  Then Rosamund remaining speechless,
 Dr. Pym came to her rescue in a definite way.
 
-"To begin with," he said, "this man [[smith|Smith]] is constantly attempting murder.
+"To begin with," he said, "this man Smith is constantly attempting murder.
 The Warden of Brakespeare College--"
 
 "I know," said Mary, with a vague but radiant smile.
-"[[Innocent]] told me."
+"Innocent told me."
 
 "I can't say what he told you," replied Pym quickly, "but I'm very much
-afraid it wasn't true.  The plain [[Truth|truth]] is that the man's stained
+afraid it wasn't true.  The plain truth is that the man's stained
 with every known human crime.  I assure you I have all the documents.
 I have evidence of his committing burglary, signed by a most eminent
 English curate.  I have--"
@@ -238,26 +237,26 @@ English curate.  I have--"
 "Oh, but there were two curates," cried Mary, with a certain gentle eagerness;
 "that was what made it so much funnier."
 
-The darkened glass doors of the [[house]] opened once more,
+The darkened glass doors of the house opened once more,
 and Inglewood appeared for an instant, making a sort of signal.
 The American doctor bowed, the English doctor did not,
-but they both set out stolidly towards the [[house]].
-No one else moved, not even [[Michael]] hanging on the gate;
+but they both set out stolidly towards the house.
+No one else moved, not even Michael hanging on the gate;
 but the back of his head and shoulders had still an indescribable
 indication that he was listening to every word.
 
-"But don't you understand, Mary," cried Rosamund in [[Despair|despair]]; "don't you
+"But don't you understand, Mary," cried Rosamund in despair; "don't you
 know that awful things have happened even before our very eyes.
 I should have thought you would have heard the revolver shots upstairs."
 
 "Yes, I heard the shots," said Mary almost brightly; "but I was busy packing
-just then.  And [[Innocent]] had told me he was going to shoot at Dr. Warner;
+just then.  And Innocent had told me he was going to shoot at Dr. Warner;
 so it wasn't worth while to come down."
 
 "Oh, I don't understand what you mean," cried Rosamund Hunt,
 stamping, "but you must and shall understand what I mean.
 I don't care how cruelly I put it, if only I can save you.
-I mean that your [[Innocent]] [[smith|Smith]] is the most awfully wicked
+I mean that your Innocent Smith is the most awfully wicked
 man in the world.  He has sent bullets at lots of other men
 and gone off in cabs with lots of other women.  And he seems
 to have killed the women too, for nobody can find them."
@@ -265,74 +264,74 @@ to have killed the women too, for nobody can find them."
 "He is really rather naughty sometimes," said Mary Gray,
 laughing softly as she buttoned her old gray gloves.
 
-"Oh, this is really [[Mesmerism|mesmerism]], or something," said Rosamund,
-and burst into [[Tears|tears]].
+"Oh, this is really mesmerism, or something," said Rosamund,
+and burst into tears.
 
 At the same moment the two black-clad doctors appeared out
-of the [[house]] with their great green-clad captive between them.
+of the house with their great green-clad captive between them.
 He made no resistance, but was still laughing in a groggy
-and half-witted style.  [[arthur|Arthur]] Inglewood followed in the rear,
+and half-witted style.  Arthur Inglewood followed in the rear,
 a dark and red study in the last shades of distress and shame.
 In this black, funereal, and painfully realistic style the exit
-from Beacon [[house|House]] was made by a man whose entrance a day before
+from Beacon House was made by a man whose entrance a day before
 had been effected by the happy leaping of a wall and the hilarious
-climbing of a tree.  No one moved of the groups in the [[Garden|garden]]
+climbing of a tree.  No one moved of the groups in the garden
 except Mary Gray, who stepped forward quite naturally,
-calling out, "Are you ready, [[Innocent]]?  Our cab's been waiting
-such a long [[Time|time]]."
+calling out, "Are you ready, Innocent?  Our cab's been waiting
+such a long time."
 
 "Ladies and gentlemen," said Dr. Warner firmly, "I must insist on asking
 this lady to stand aside.  We shall have trouble enough as it is,
 with the three of us in a cab."
 
-"But it IS our cab," persisted Mary.  "Why, there's [[Innocent]]'s yellow
+"But it IS our cab," persisted Mary.  "Why, there's Innocent's yellow
 bag on the top of it."
 
-"Stand aside," repeated Warner roughly.  "And you, Mr. [[Moon]],
+"Stand aside," repeated Warner roughly.  "And you, Mr. Moon,
 please be so obliging as to move a moment.  Come, come! the sooner
 this ugly business is over the better--and how can we open the gate
 if you will keep leaning on it?"
 
-[[Michael]] [[Moon]] looked at his long lean forefinger, and seemed
+Michael Moon looked at his long lean forefinger, and seemed
 to consider and reconsider this argument.  "Yes," he said at last;
 "but how can I lean on this gate if you keep on opening it?"
 
 "Oh, get out of the way!" cried Warner, almost good-humouredly.
-"You can lean on the gate any [[Time|time]]."
+"You can lean on the gate any time."
 
-"No," said [[Moon]] reflectively.  "Seldom the [[Time|time]] and the place
+"No," said Moon reflectively.  "Seldom the time and the place
 and the blue gate altogether; and it all depends whether you
 come of an old country family.  My ancestors leaned on gates
 before any one had discovered how to open them."
 
-"[[Michael]]!" cried [[arthur|Arthur]] Inglewood in a kind of agony, "are you going to get
+"Michael!" cried Arthur Inglewood in a kind of agony, "are you going to get
 out of the way?"
 
-"Why, no; I think not," said [[Michael]], after some meditation,
+"Why, no; I think not," said Michael, after some meditation,
 and swung himself slowly round, so that he confronted the company,
 while still, in a lounging attitude, occupying the path.
 
-"Hullo!" he called out suddenly; "what are you doing to Mr. [[smith|Smith]]?"
+"Hullo!" he called out suddenly; "what are you doing to Mr. Smith?"
 
 "Taking him away," answered Warner shortly, "to be examined."
 
-"Matriculation?" asked [[Moon]] brightly.
+"Matriculation?" asked Moon brightly.
 
 "By a magistrate," said the other curtly.
 
-"And what other magistrate," cried [[Michael]], raising his voice,
+"And what other magistrate," cried Michael, raising his voice,
 "dares to try what befell on this free soil, save only the ancient
-and independent Dukes of Beacon?  What other [[Court|court]] dares to try
-one of our company, save only the High [[Court]] of Beacon?  Have you
-forgotten that only this afternoon we flew the [[Flag|flag]] of independence
+and independent Dukes of Beacon?  What other court dares to try
+one of our company, save only the High Court of Beacon?  Have you
+forgotten that only this afternoon we flew the flag of independence
 and severed ourselves from all the nations of the earth?"
 
-"[[Michael]]," cried Rosamund, wringing her hands, "how can you stand
+"Michael," cried Rosamund, wringing her hands, "how can you stand
 there talking nonsense?  Why, you saw the dreadful thing yourself.
 You were there when he went mad.  It was you that helped the doctor
 up when he fell over the flower-pot."
 
-"And the High [[Court]] of Beacon," replied [[Moon]] with hauteur,
+"And the High Court of Beacon," replied Moon with hauteur,
 "has special powers in all cases concerning lunatics,
 flower-pots, and doctors who fall down in gardens.
 It's in our very first charter from Edward I:  `Si medicus
@@ -341,41 +340,40 @@ quisquam in horto prostratus--'"
 "Out of the way!" cried Warner with sudden fury, "or we will force
 you out of it."
 
-"What!" cried Michael Moon, with a cry of hilarious fierceness.
+"What!" cried [[Michael]] [[Moon]], with a cry of hilarious fierceness.
 "Shall I die in defence of this sacred pale?  Will you paint
 these blue railings red with my gore?" and he laid hold of one
 of the blue spikes behind him.  As Inglewood had noticed earlier
 in the evening, the railing was loose and crooked at this place,
-and the painted iron staff and spearhead came away in Michael's
+and the painted iron staff and spearhead came away in [[Michael]]'s
 hand as he shook it.
 
 "See!" he cried, brandishing this broken javelin in the air,
 "the very lances round Beacon Tower leap from their places to defend it.
-Ah, in such a place and hour it is a fine thing to die alone!"
+Ah, in such a place and hour it is a fine thing to die [[Alone|alone]]!"
 And in a voice like a drum he rolled the noble lines of Ronsard--
 
 "Ou pour l'honneur de Dieu, ou pour le droit de mon prince, Navre,
 poitrine ouverte, au bord de mon province."
 
-
 "Sakes alive!" said the American gentleman, almost in an awed tone.
 Then he added, "Are there two maniacs here?"
 
-"No; there are five," thundered Moon.  "Smith and I are the only
+"No; there are five," thundered [[Moon]].  "[[smith|Smith]] and I are the only
 sane people left."
 
-"Michael!" cried Rosamund; "Michael, what does it mean?"
+"[[Michael]]!" cried Rosamund; "[[Michael]], what does it mean?"
 
-"It means bosh!" roared Michael, and slung his painted spear
-hurtling to the other end of the garden.  "It means that doctors
+"It means bosh!" roared [[Michael]], and slung his painted spear
+hurtling to the other end of the [[Garden|garden]].  "It means that doctors
 are bosh, and criminology is bosh, and Americans are bosh--
-much more bosh than our Court of Beacon.  It means, you fatheads,
-that Innocent Smith is no more mad or bad than the bird
+much more bosh than our [[Court]] of Beacon.  It means, you fatheads,
+that [[Innocent]] [[smith|Smith]] is no more mad or bad than the bird
 on that tree."
 
-"But, my dear Moon," began Inglewood in his modest manner, "these gentlemen--"
+"But, my dear [[Moon]]," began Inglewood in his modest manner, "these gentlemen--"
 
-"On the word of two doctors," exploded Moon again,
+"On the word of two doctors," exploded [[Moon]] again,
 without listening to anybody else, "shut up in a private hell
 on the word of two doctors!  And such doctors!  Oh, my hat!
 Look at 'em!--do just look at 'em!  Would you read a book,
@@ -383,41 +381,41 @@ or buy a dog, or go to a hotel on the advice of twenty such?
 My people came from Ireland, and were Catholics.  What would
 you say if I called a man wicked on the word of two priests?"
 
-"But it isn't only their word, Michael," reasoned Rosamund;
+"But it isn't only their word, [[Michael]]," reasoned Rosamund;
 "they've got evidence too."
 
-"Have you looked at it?" asked Moon.
+"Have you looked at it?" asked [[Moon]].
 
 "No," said Rosamund, with a sort of faint surprise; "these gentlemen
 are in charge of it."
 
-"And of everything else, it seems to me," said Michael.  "Why, you
+"And of everything else, it seems to me," said [[Michael]].  "Why, you
 haven't even had the decency to consult Mrs. Duke."
 
-"Oh, that's no use," said Diana in an undertone to Rosamund; "Auntie can't
+"Oh, that's no use," said [[Diana]] in an undertone to Rosamund; "Auntie can't
 say `Bo!' to a goose."
 
-"I am glad to hear it," answered [[Michael]], "for with such a flock of geese
+"I am glad to hear it," answered Michael, "for with such a flock of geese
 to say it to, the horrid expletive might be constantly on her lips.
 For my part, I simply refuse to let things be done in this light
-and airy style.  I appeal to Mrs. Duke--it's her [[house]]."
+and airy style.  I appeal to Mrs. Duke--it's her house."
 
 "Mrs. Duke?" repeated Inglewood doubtfully.
 
-"Yes, Mrs. Duke," said [[Michael]] firmly, "commonly called the Iron Duke."
+"Yes, Mrs. Duke," said Michael firmly, "commonly called the Iron Duke."
 
-"If you ask Auntie," said [[Diana]] quietly, "she'll only be for doing nothing
+"If you ask Auntie," said Diana quietly, "she'll only be for doing nothing
 at all.  Her only idea is to hush things up or to let things slide.
 That just suits her."
 
-"Yes," replied [[Michael]] [[Moon]]; "and, as it happens, it just suits
+"Yes," replied Michael Moon; "and, as it happens, it just suits
 all of us.  You are impatient with your elders, Miss Duke;
 but when you are as old yourself you will know what Napoleon knew--
 that half one's letters answer themselves if you can only refrain
 from the fleshly appetite of answering them."
 
 He was still lounging in the same absurd attitude, with his elbow
-on the grate, but his voice had altered abruptly for the third [[Time|time]];
+on the grate, but his voice had altered abruptly for the third time;
 just as it had changed from the mock heroic to the humanly indignant,
 it now changed to the airy incisiveness of a lawyer giving
 good legal advice.
@@ -426,20 +424,20 @@ good legal advice.
 she can," he said; "we all want to keep it quiet if we can.
 Look at the large facts--the big bones of the case.  I believe
 those scientific gentlemen have made a highly scientific mistake.
-I believe [[smith|Smith]] is as blameless as a buttercup.  I admit
+I believe Smith is as blameless as a buttercup.  I admit
 buttercups don't often let off loaded pistols in private houses;
 I admit there is something demanding explanation.
 But I am morally certain there's some blunder, or some joke,
-or some [[Allegory|allegory]], or some accident behind all this.
-[[Well]], suppose I'm wrong.  We've disarmed him; we're five men
-to hold him; he may as [[Well|well]] go to a lock-up later on as now.
+or some allegory, or some accident behind all this.
+Well, suppose I'm wrong.  We've disarmed him; we're five men
+to hold him; he may as well go to a lock-up later on as now.
 But suppose there's even a chance of my being right.
 Is it anybody's interest here to wash this linen in public?
 
-"Come, I'll take each of you in order.  Once take [[smith|Smith]] outside that gate,
+"Come, I'll take each of you in order.  Once take Smith outside that gate,
 and you take him into the front page of the evening papers.  I know;
 I've written the front page myself.  Miss Duke, do you or your aunt want
-a sort of notice stuck up over your boarding-[[house]]--`Doctors shot here.'?
+a sort of notice stuck up over your boarding-house--`Doctors shot here.'?
 No, no--doctors are rubbish, as I said; but you don't want the rubbish
 shot here.  [[arthur|Arthur]], suppose I am right, or suppose I am wrong.
 [[smith|Smith]] has appeared as an old schoolfellow of yours.  Mark my words,
@@ -666,8 +664,8 @@ Under the [[Shadow|shadow]] of [[Tragedy|tragedy]] she had kept it back as unsym
 his voice sounded remote and rude, like the voice of a statue.
 
 Those who had so long danced and disputed round his immobility
-were left breathless by his precipitance.  With a run and [[Spring|spring]]
-he was out of the [[Garden|garden]] into the street; with a [[Spring|spring]] and
+were left breathless by his precipitance.  With a run and [[spring]]
+he was out of the [[Garden|garden]] into the street; with a [[spring]] and
 one quivering kick he was actually on the roof of the cab.
 The [[cabman]] happened to be standing by the [[Horse|horse]]'s head, having just
 removed its emptied nose-bag. [[smith|Smith]] seemed for an instant to be

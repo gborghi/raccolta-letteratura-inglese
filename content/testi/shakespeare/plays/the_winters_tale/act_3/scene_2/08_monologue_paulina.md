@@ -1,5 +1,5 @@
 ---
-title: "The Winters Tale — Act III, Scene 2 — monologue ([[Paulina|PAULINA]]) [8]"
+title: "The Winters Tale — Act III, Scene 2 — monologue (PAULINA) [8]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-winter’s-tale-(shakespeare)"

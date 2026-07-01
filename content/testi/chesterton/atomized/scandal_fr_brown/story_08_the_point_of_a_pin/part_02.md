@@ -126,14 +126,3 @@ secretary. 'I suppose you've been there all the morning.'
 
 There was a short [[Silence|silence]]; and then Sir [[Hubert]] Sand curtly intimated
 that the man had better be brought along; and the man duly appeared.
-
-Nobody, not even the least fastidious lady, would have said that the
-newcomer was too nice - looking. He had very large ears and a face like
-a frog, and he stared before him with an almost ghastly fixity, which
-[[Father Brown]] attributed to his having a glass eye. In fact, his fancy
-was tempted to equip the man with two glass eyes; with so glassy a stare
-did he contemplate the company. But the priest's experience, as distinct
-from his fancy, was able to suggest several natural causes for that
-unnatural waxwork glare; one of them being an abuse of the divine gift
-of fermented liquor. The man was short and shabby and carried a large
-bowler hat in one hand and a large sealed letter in the other.

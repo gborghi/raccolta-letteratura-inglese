@@ -1,5 +1,5 @@
 ---
-title: "[[TheAppOfTyranny]] — Chapter 3 (part 1)"
+title: "TheAppOfTyranny — Chapter 3 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/theappoftyranny-(chesterton)"
@@ -16,13 +16,7 @@ tags:
 
 III
 
-
-
 THE APPETITE OF TYRANNY
-
-
-
-
 
 The German Emperor has reproached this country with allying itself with
 
@@ -75,8 +69,6 @@ really fancy, like Mr. Baring's friend, that all Russian churches are
 the fanatical Russian is as proud of being different from the Mongol, as
 
 the fanatical Spaniard was proud of being different from the Moor.
-
-
 
 The town of Reading, as it exists, offers few opportunities for piracy on
 
@@ -134,8 +126,6 @@ speak. For good or evil, it is the fact of [[history]] that [[Russia]] is the on
 
 Power in Europe that has never supported the Crescent against the [[Cross]].
 
-
-
 That, doubtless, will appear an unimportant matter; but it may become
 
 important under certain peculiar conditions. Suppose, for the sake of
@@ -162,8 +152,6 @@ semi-oriental power, we deny. That he has supported an entirely oriental
 
 power cannot be denied--no, not even by the man who did it.
 
-
-
 But here is to be noted the essential difference between [[Russia]] and
 
 Prussia; especially by those who use the ordinary Liberal arguments against
@@ -189,7 +177,3 @@ extraordinary that in the perpetual permutations of international politics
 the Hohenzollerns have never gone astray into the path of enlightenment.
 
 They have been in alliance with almost everybody off and on; with France,
-
-with England, with Austria, with [[Russia]]. Can any one candidly say that they
-
-have left on any one of these people the faintest impress of progress or

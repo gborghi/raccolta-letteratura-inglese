@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 10"
+title: "The Tenant of Wildfell Hall — Chapter 10"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -126,7 +126,7 @@ disturbed me.
 
 My wish, however, was not gratified. Mrs. Graham herself was not to be
 
-seen; but there was [[arthur|Arthur]] playing with his frolicsome little dog in
+seen; but there was [[Arthur]] playing with his frolicsome little dog in
 
 the [[Garden|garden]]. I looked over the gate and called him to me. He wanted me
 
@@ -138,7 +138,7 @@ to come in; but I told him I could not without his mother’s leave.
 
 
 
-“No, no, [[arthur|Arthur]], you mustn’t do that; but if she’s not engaged, just
+“No, no, [[Arthur]], you mustn’t do that; but if she’s not engaged, just
 
 ask her to come here a minute. Tell her I want to speak to her.”
 
@@ -150,7 +150,7 @@ lovely she looked with her dark ringlets streaming in the light [[Summer|summer]
 
 breeze, her fair cheek slightly flushed, and her countenance radiant
 
-with smiles. Dear [[arthur|Arthur]]! what did I not owe to you for this and every
+with smiles. Dear [[Arthur]]! what did I not owe to you for this and every
 
 other happy meeting? Through him I was at once delivered from all
 
@@ -182,7 +182,7 @@ importance.”
 
 
 
-“Tell him to come in, mamma,” said [[arthur|Arthur]].
+“Tell him to come in, mamma,” said [[Arthur]].
 
 
 

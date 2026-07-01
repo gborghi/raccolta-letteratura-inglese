@@ -1,5 +1,5 @@
 ---
-title: "[[TheCrimesOfEngland]] — Chapter 10 (part 1)"
+title: "TheCrimesOfEngland — Chapter 10 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thecrimesofengland-(chesterton)"
@@ -16,37 +16,17 @@ tags:
 
 CHAPTER X
 
-
-
 THE BATTLE OF THE MARNE
-
-
 
 The Hour of Peril--The Human [[deluge|Deluge]]--The
 
 English at the Marne.
 
-
-
-
-
 THE CRIMES OF ENGLAND
-
-
-
-
-
-
 
 I--_Some Words to Professor Whirlwind_
 
-
-
-
-
 DEAR PROFESSOR WHIRLWIND,
-
-
 
 Your name in the original German is too much for me; and this is the
 
@@ -81,8 +61,6 @@ part of my task I have here little to say that is not covered by a
 general adjuration to you to observe certain elementary rules. They are,
 
 roughly speaking, as follows:--
-
-
 
 First, stick to one excuse. Thus if a tradesman, with whom your social
 
@@ -174,8 +152,6 @@ yourself so clearly to the Americans they may quite possibly do the
 
 same.
 
-
-
 Second, when telling such lies as may seem necessary to your
 
 international standing, do not tell the lies to the people who know the
@@ -211,9 +187,3 @@ that they are not _true_, and that there necessarily exists a group of
 persons who know they are not true. It is so with matters of fact about
 
 which you asseverate so positively to us, as if they were matters of
-
-opinion. Scarborough might be a fortress; but it is not. I happen to
-
-know it is not. Mr. Morel may deserve to be universally admired in
-
-England; but he is not universally admired in England. Tell the Russians

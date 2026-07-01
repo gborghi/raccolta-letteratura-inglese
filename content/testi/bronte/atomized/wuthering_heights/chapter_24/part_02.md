@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 24 (part 2)"
+title: "Wuthering Heights — Chapter 24 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -125,7 +125,3 @@ wretch’s mockery.
 he looked frightful; for his thin face and large eyes were wrought into
 an expression of frantic, powerless fury. He grasped the handle of the
 door, and shook it: it was fastened inside.
-
-“‘If you don’t let me in, I’ll kill you!—If you don’t let me in, I’ll
-kill you!’ he rather shrieked than said. ‘Devil! devil!—I’ll kill
-you—I’ll kill you!’

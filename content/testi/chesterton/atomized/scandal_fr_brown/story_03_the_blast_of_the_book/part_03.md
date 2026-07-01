@@ -123,8 +123,3 @@ He was still in the same seat and almost in the same attitude, when the
 same brisk footsteps were heard on the pavement without and the
 missionary entered, this [[Time|time]], as a glance assured him, with empty
 hands.
-
-'Dr Hankey,' said Pringle gravely, 'wants to keep the book for an hour
-and consider the point. Then he asks us both to call, and he will give
-us his decision. He specially desired. Professor, that you should
-accompany me on the second visit.'

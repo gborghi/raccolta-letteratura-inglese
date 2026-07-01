@@ -14,6 +14,13 @@ tags:
 </nav>
 
 
+‘Then we shall stop till he does, and no longer,’ returned the [[Dwarf|dwarf]].
+
+‘How kind it is of you, Sir, to wait till then!’ said Brass.  ‘Some
+people, Sir, would have sold or removed the goods--oh dear, the very
+instant the law allowed ‘em.  Some people, Sir, would have been all
+flintiness and granite.  Some people, sir, would have--’
+
 ‘Some people would have spared themselves the jabbering of such a
 parrot as you,’ interposed the [[Dwarf|dwarf]].
 
@@ -128,21 +135,3 @@ I wouldn’t have had them do it for the world.’
 
 ‘Thank’ee, miss,’ returned Kit, ‘it’s comfortable to hear you say that.
 I said I never would believe that it was your doing.’
-
-‘That was right!’ said the [[Child|child]] eagerly.
-
-‘Miss Nell,’ cried the boy coming under the [[Window|window]], and speaking in a
-lower tone, ‘there are new masters down stairs.  It’s a change for you.’
-
-‘It is indeed,’ replied the [[Child|child]].
-
-‘And so it will be for him when he gets better,’ said the boy, pointing
-towards the sick room.
-
-‘--If he ever does,’ added the [[Child|child]], unable to restrain her [[Tears|tears]].
-
-‘Oh, he’ll do that, he’ll do that,’ said Kit.  ‘I’m sure he will.  You
-mustn’t be cast down, Miss Nell.  Now don’t be, pray!’
-
-These words of encouragement and consolation were few and roughly said,
-but they affected the [[Child|child]] and made her, for the moment, weep the more.

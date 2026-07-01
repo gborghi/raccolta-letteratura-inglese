@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 14: MY AUNT MAKES UP HER MIND ABOUT ME (part 1)"
+title: "David Copperfield — Chapter 14: MY AUNT MAKES UP HER MIND ABOUT ME (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_13_the_sequel_of_my_resolution/part_07">‹ part 07</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_14_my_aunt_makes_up_her_mind_abou/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_13_the_sequel_of_my_resolution/part_08">‹ part 08</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_14_my_aunt_makes_up_her_mind_abou/part_02">part 02 ›</a></div>
 </nav>
 
 

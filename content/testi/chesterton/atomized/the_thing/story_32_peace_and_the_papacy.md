@@ -72,7 +72,7 @@ shrink from the idea of the institution being an individual.
 But even that prejudice is weakening under the wear and tear of real
 political experience.  We may be attached, as many of us are,
 to the democratic ideal; but most of us have already realised
-that direct [[Democracy|democracy]], the only true [[Democracy|democracy]] which satisfies
+that direct [[democracy]], the only true [[democracy]] which satisfies
 a true democrat, is a thing applicable to some things and not others;
 and not applicable at all to a question such as this.  The actual
 speaking voice of a vast international civilisation, or of a vast
@@ -80,7 +80,7 @@ international religion, will not in any case be the actual articulate
 distinguishable voices or cries of all the millions of the faithful.
 It is not the people who would be the heirs of a dethroned Pope;
 it is some synod or bench of bishops.  It is not an alternative
-between monarchy and [[Democracy|democracy]], but an alternative between monarchy
+between monarchy and [[democracy]], but an alternative between monarchy
 and oligarchy.  And, being myself one of the democratic idealists,
 I have not the faintest hesitation in my choice between the two latter
 forms of privilege.  A monarch is a man; but an oligarchy is not men;

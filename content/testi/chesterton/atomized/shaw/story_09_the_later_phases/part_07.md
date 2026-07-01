@@ -1,5 +1,5 @@
 ---
-title: "[[Shaw]] — THE LATER PHASES (part 7)"
+title: "Shaw — THE LATER PHASES (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/shaw-(chesterton)"
@@ -13,6 +13,31 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/shaw/story_09_the_later_phases/part_06">‹ part 06</a><span></span></div>
 </nav>
 
+
+Thus, in the Shavian atmosphere, the philosopher is not trying to get
+rid of the troubles of men, he is trying to get rid of men because
+they are the troubles of the philosopher.  It is due to Mr. [[Shaw]]'s
+unmatched directness and controversial [[Courage|courage]], to say that he very
+early accepted this reversal of the normal order of means and ends.
+He most emphatically does not think that the Sabbath was made for Man.
+He most emphatically does think that Man was made for the Sabbath.
+And Man having now irrevocably broken the Sabbath, the Superman
+must create some other sort of Sabbath, even if it be to our eyes
+as wild as a [[Witch]]'s Sabbath.  I mean that he did begin very early
+to say boldly that if the Communist hat would not fit the human head,
+we must cut off the head and carefully preserve the hat.
+He did and does hold that if men must really have beef and beer,
+then we must all set to work to breed a race of gigantic chameleons
+that can live on light and air.  The growth of these dragons is
+the chief theme of Back to Methuselah.  But Mr. [[Shaw]] did really
+take this queer view long before he went back to Methuselah.
+Where all normal socialists professed fraternity with the working classes,
+he wrote, "I have never had any feeling about the working-classes
+except a [[Desire|desire]] to abolish them, and replace them by sensible people."
+It is needless to explain that sensible people are always people
+who prefer [[Water|water]] to wine, cabbages to cutlets, materialism to miracles,
+and utter subjection to a centralised [[government]] to any traditions
+of human liberty.
 
 Now against all this, as its chief enemy, though he may
 not know it, stands the old Catholic [[philosophy]] of Man.

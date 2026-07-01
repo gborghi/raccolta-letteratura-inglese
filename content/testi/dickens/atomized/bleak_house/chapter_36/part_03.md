@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 36 (part 3)"
+title: "Bleak House — Chapter 36 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -137,12 +137,3 @@ very much.”
 Leicester Dedlock’s lawyer, mechanically faithful without attachment,
 and very jealous of the profit, privilege, and reputation of being
 master of the mysteries of great houses.”
-
-“Has he any suspicions?”
-
-“Many.”
-
-“Not of you?” I said alarmed.
-
-“Yes! He is always vigilant and always near me. I may keep him at a
-standstill, but I can never shake him off.”

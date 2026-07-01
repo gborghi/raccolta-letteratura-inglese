@@ -1,0 +1,125 @@
+---
+title: "Emma — Chapter 5 (part 1)"
+author: "Austen"
+unitType: excerpt
+parentWork: "works/emma-(austen)"
+tags:
+  - graph/excerpt
+  - author/Austen
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Austen · <a href="/works/emma-(austen)">Emma</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/emma/chapter_21/part_04">‹ part 04</a><a class="ex-next" href="/testi/austen/atomized/emma/chapter_23/part_02">part 02 ›</a></div>
+</nav>
+
+
+CHAPTER V
+
+
+Small heart had Harriet for visiting. Only half an hour before her
+friend called for her at Mrs. Goddard’s, her evil [[Stars|stars]] had led her to
+the very spot where, at that moment, a trunk, directed to _The Rev.
+Philip Elton, White-Hart, Bath_, was to be seen under the operation of
+being lifted into the butcher’s cart, which was to convey it to where
+the coaches past; and every thing in this world, excepting that trunk
+and the direction, was consequently a blank.
+
+She went, however; and when they reached the farm, and she was to be
+put down, at the end of the broad, neat gravel walk, which led between
+espalier apple-trees to the front door, the sight of every thing which
+had given her so much pleasure the [[Autumn|autumn]] before, was beginning to
+revive a little local agitation; and when they parted, [[Emma]] observed
+her to be looking around with a sort of fearful curiosity, which
+determined her not to allow the visit to exceed the proposed quarter of
+an hour. She went on herself, to give that portion of [[Time|time]] to an old
+servant who was married, and settled in Donwell.
+
+The quarter of an hour brought her punctually to the white gate again;
+and Miss [[smith|Smith]] receiving her summons, was with her without delay, and
+unattended by any alarming young man. She came solitarily down the
+gravel walk—a Miss Martin just appearing at the door, and parting with
+her seemingly with ceremonious civility.
+
+Harriet could not very soon give an intelligible account. She was
+feeling too much; but at last [[Emma]] collected from her enough to
+understand the sort of meeting, and the sort of [[Pain|pain]] it was creating.
+She had seen only Mrs. Martin and the two girls. They had received her
+doubtingly, if not coolly; and nothing beyond the merest commonplace
+had been talked almost all the [[Time|time]]—till just at last, when Mrs.
+Martin’s saying, all of a sudden, that she thought Miss [[smith|Smith]] was
+grown, had brought on a more interesting subject, and a warmer manner.
+In that very room she had been measured last September, with her two
+friends. There were the pencilled marks and memorandums on the wainscot
+by the [[Window|window]]. _He_ had done it. They all seemed to remember the day,
+the hour, the party, the occasion—to feel the same consciousness, the
+same regrets—to be ready to return to the same good understanding; and
+they were just growing again like themselves, (Harriet, as [[Emma]] must
+suspect, as ready as the best of them to be cordial and happy,) when
+the carriage reappeared, and all was over. The style of the visit, and
+the shortness of it, were then felt to be decisive. Fourteen minutes to
+be given to those with whom she had thankfully passed six weeks not six
+months ago!—[[Emma]] could not but picture it all, and feel how justly they
+might resent, how naturally Harriet must suffer. It was a bad business.
+She would have given a great deal, or endured a great deal, to have had
+the Martins in a higher rank of life. They were so deserving, that a
+_little_ higher should have been enough: but as it was, how could she
+have done otherwise?—Impossible!—She could not repent. They must be
+separated; but there was a great deal of [[Pain|pain]] in the process—so much to
+herself at this [[Time|time]], that she soon felt the necessity of a little
+consolation, and resolved on going [[Home|home]] by way of Randalls to procure
+it. Her mind was quite sick of Mr. Elton and the Martins. The
+refreshment of Randalls was absolutely necessary.
+
+It was a good scheme; but on driving to the door they heard that
+neither “master nor mistress was at [[Home|home]];” they had both been out some
+[[Time|time]]; the man believed they were gone to Hartfield.
+
+“This is too bad,” cried [[Emma]], as they turned away. “And now we shall
+just miss them; too provoking!—I do not know when I have been so
+disappointed.” And she leaned back in the corner, to indulge her
+murmurs, or to reason them away; probably a little of both—such being
+the commonest process of a not ill-disposed mind. Presently the
+carriage stopt; she looked up; it was stopt by Mr. and Mrs. Weston, who
+were standing to speak to her. There was instant pleasure in the sight
+of them, and still greater pleasure was conveyed in sound—for Mr.
+Weston immediately accosted her with,
+
+“How d’ye do?—how d’ye do?—We have been sitting with your father—glad
+to see him so [[Well|well]]. Frank comes to-morrow—I had a letter this
+morning—we see him to-morrow by dinner-[[Time|time]] to a certainty—he is at
+[[Oxford]] to-day, and he comes for a whole fortnight; I knew it would be
+so. If he had come at Christmas he could not have staid three days; I
+was always glad he did not come at Christmas; now we are going to have
+just the right weather for him, fine, dry, settled weather. We shall
+enjoy him completely; every thing has turned out exactly as we could
+wish.”
+
+There was no resisting such news, no possibility of avoiding the
+influence of such a happy face as Mr. Weston’s, confirmed as it all was
+by the words and the countenance of his wife, fewer and quieter, but
+not less to the purpose. To know that _she_ thought his coming certain
+was enough to make [[Emma]] consider it so, and sincerely did she rejoice
+in their joy. It was a most delightful reanimation of exhausted
+spirits. The worn-out past was sunk in the freshness of what was
+coming; and in the rapidity of half a moment’s thought, she hoped Mr.
+Elton would now be talked of no more.
+
+Mr. Weston gave her the [[history]] of the engagements at Enscombe, which
+allowed his son to answer for having an entire fortnight at his
+command, as [[Well|well]] as the route and the method of his [[Journey|journey]]; and she
+listened, and smiled, and congratulated.
+
+“I shall soon bring him over to Hartfield,” said he, at the conclusion.
+
+[[Emma]] could imagine she saw a touch of the arm at this speech, from his
+wife.
+
+“We had better move on, Mr. Weston,” said she, “we are detaining the
+girls.”
+
+“[[Well]], [[Well|well]], I am ready;”—and turning again to [[Emma]], “but you must not
+be expecting such a _very_ fine young man; you have only had _my_
+account you know; I dare say he is really nothing
+extraordinary:”—though his own sparkling eyes at the moment were
+speaking a very different conviction.

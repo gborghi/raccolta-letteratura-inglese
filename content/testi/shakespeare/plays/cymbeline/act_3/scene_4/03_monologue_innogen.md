@@ -1,5 +1,5 @@
 ---
-title: "[[Cymbeline]] — Act III, Scene 4 — monologue ([[Innogen|INNOGEN]]) [3]"
+title: "Cymbeline — Act III, Scene 4 — monologue (INNOGEN) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/cymbeline-(shakespeare)"

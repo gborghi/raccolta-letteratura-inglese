@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 13 (part 2)"
+title: "The Mystery of Edwin Drood — Chapter 13 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -146,19 +146,3 @@ clearly, in a glass of her holding up. He had always patronised her, in
 his superiority to her share of woman’s wit. Was that but another
 instance of something radically amiss in the terms on which they had
 been gliding towards a life-long bondage?
-
-“All this that I say of you is true of me as [[Well|well]], Eddy. Unless it was,
-I might not be bold enough to say it. Only, the difference between us
-was, that by little and little there crept into my mind a habit of
-thinking about it, instead of dismissing it. My life is not so busy as
-yours, you see, and I have not so many things to think of. So I thought
-about it very much, and I cried about it very much too (though that was
-not your fault, poor boy); when all at once my guardian came down, to
-prepare for my leaving the Nuns’ [[house|House]]. I tried to hint to him that I
-was not quite settled in my mind, but I hesitated and failed, and he
-didn’t understand me. But he is a good, good man. And he put before me
-so kindly, and yet so strongly, how seriously we ought to consider, in
-our circumstances, that I resolved to speak to you the next moment we
-were [[Alone|alone]] and [[Grave|grave]]. And if I seemed to come to it easily just now,
-because I came to it all at once, don’t think it was so really, Eddy,
-for O, it was very, very hard, and O, I am very, very sorry!”

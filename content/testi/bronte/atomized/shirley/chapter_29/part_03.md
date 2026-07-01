@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 29 (part 3)"
+title: "Shirley — Chapter 29 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_29/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_30/part_01">part 01 ›</a></div>
 </nav>
 
+
+to her [[Beauty|beauty]], like the genii to the glisten of the lamp. All my
+
+knowledge, all my prudence, all my calm, and all my power stand in her
+
+presence humbly waiting a task. How glad they are when a mandate comes!
+
+What joy they take in the toils she assigns! Does she know it?
+
+
+
+"I have called her careless. It is remarkable that her carelessness
+
+never compromises her refinement. Indeed, through this very loophole of
+
+character, the reality, depth, genuineness of that refinement may be
 
 ascertained. A whole garment sometimes covers meagreness and
 

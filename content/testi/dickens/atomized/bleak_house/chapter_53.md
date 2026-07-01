@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 53"
+title: "Bleak House — Chapter 53"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/bleak-house-(dickens)"
@@ -420,7 +420,7 @@ the early [[Winter|winter]] [[Night|night]]—admiring Mercury.
 “Are you so much? But then, you see, you’re broad in proportion and
 don’t look it. You’re not one of the weak-legged ones, you ain’t. Was
 you ever modelled now?” Mr. Bucket asks, conveying the expression of
-an [[artist]] into the turn of his eye and head.
+an [[Artist|artist]] into the turn of his eye and head.
 
 Mercury never was modelled.
 

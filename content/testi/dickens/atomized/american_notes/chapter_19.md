@@ -48,7 +48,7 @@ is a [[Truth|truth]] that ought to be told.
 It is an essential part of every national character to pique itself
 mightily upon its faults, and to deduce tokens of its virtue or its
 wisdom from their very exaggeration.  One great blemish in the popular
-mind of [[America]], and the prolific parent of an innumerable brood of
+mind of [[america|America]], and the prolific parent of an innumerable brood of
 evils, is Universal Distrust.  Yet the American citizen plumes himself
 upon this spirit, even when he is sufficiently dispassionate to perceive
 the ruin it works; and will often adduce it, in spite of his own reason,
@@ -114,21 +114,21 @@ trading people.  The [[Love|love]] of trade is assigned as a reason for that
 comfortless custom, so very prevalent in country towns, of married
 persons living in hotels, having no fireside of their own, and seldom
 meeting from early morning until late at [[Night|night]], but at the hasty public
-meals.  The [[Love|love]] of trade is a reason why the literature of [[America]] is to
+meals.  The [[Love|love]] of trade is a reason why the literature of [[america|America]] is to
 remain for ever unprotected ‘For we are a trading people, and don’t care
 for poetry:’ though we _do_, by the way, profess to be very proud of our
 poets: while healthful amusements, cheerful means of recreation, and
 wholesome fancies, must fade before the stern utilitarian joys of trade.
 
 These three characteristics are strongly presented at every turn, full in
-the stranger’s view.  But, the foul growth of [[America]] has a more tangled
+the stranger’s view.  But, the foul growth of [[america|America]] has a more tangled
 root than this; and it strikes its fibres, deep in its licentious Press.
 
 Schools may be erected, East, West, North, and South; pupils be taught,
 and masters reared, by scores upon scores of thousands; colleges may
 thrive, churches may be crammed, temperance may be diffused, and
 advancing knowledge in all other forms walk through the land with giant
-strides: but while the newspaper press of [[America]] is in, or near, its
+strides: but while the newspaper press of [[america|America]] is in, or near, its
 present abject state, high moral improvement in that country is hopeless.
 Year by year, it must and will go back; year by year, the tone of public
 feeling must sink lower down; year by year, the Congress and the Senate
@@ -143,7 +143,7 @@ publications of this class, I have derived both pleasure and profit.  But
 the name of these is Few, and of the others Legion; and the influence of
 the good, is powerless to counteract the moral [[Poison|poison]] of the bad.
 
-Among the gentry of [[America]]; among the [[Well|well]]-informed and moderate: in the
+Among the gentry of [[america|America]]; among the [[Well|well]]-informed and moderate: in the
 learned professions; at the bar and on the bench: there is, as there can
 be, but one opinion, in reference to the vicious character of these
 infamous journals.  It is sometimes contended—I will not say strangely,
@@ -153,7 +153,7 @@ for saying that there is no warrant for this plea, and that every fact
 and circumstance tends directly to the opposite conclusion.
 
 When any man, of any grade of [[Desert|desert]] in intellect or character, can climb
-to any public distinction, no matter what, in [[America]], without first
+to any public distinction, no matter what, in [[america|America]], without first
 grovelling down upon the earth, and bending the knee before this [[Monster|monster]]
 of depravity; when any private excellence is safe from its attacks; when
 any social confidence is left unbroken by it, or any tie of social
@@ -178,7 +178,7 @@ respectable journals of the Continent of Europe; to those who are
 accustomed to anything else in print and paper; it would be impossible,
 without an amount of extract for which I have neither space nor
 inclination, to convey an adequate idea of this frightful engine in
-[[America]].  But if any man [[Desire|desire]] confirmation of my statement on this
+[[america|America]].  But if any man [[Desire|desire]] confirmation of my statement on this
 head, let him repair to any place in this [[City|city]] of [[London]], where scattered
 numbers of these publications are to be found; and there, let him form
 his own opinion. {206}
@@ -212,14 +212,14 @@ tendency towards this mistake, even in his [[Time|time]], and did his utmost to
 correct it.
 
 I cannot hold with other writers on these subjects that the prevalence of
-various forms of dissent in [[America]], is in any way attributable to the
+various forms of dissent in [[america|America]], is in any way attributable to the
 non-existence there of an established church: indeed, I think the temper
 of the people, if it admitted of such an Institution being founded
 amongst them, would lead them to [[Desert|desert]] it, as a matter of course, merely
 because it _was_ established.  But, supposing it to exist, I [[Doubt|doubt]] its
 probable efficacy in summoning the wandering sheep to one great fold,
 simply because of the immense amount of dissent which prevails at [[Home|home]];
-and because I do not find in [[America]] any one form of religion with which
+and because I do not find in [[america|America]] any one form of religion with which
 we in Europe, or even in England, are unacquainted.  Dissenters resort
 thither in great numbers, as other people do, simply because it is a land
 of resort; and great settlements of them are founded, because ground can
@@ -235,7 +235,7 @@ by the precedents of Mrs. Southcote, Mary Tofts the rabbit-breeder, or
 even Mr. Thorn of Canterbury: which latter case arose, some [[Time|time]] after
 the dark ages had passed away.
 
-The Republican Institutions of [[America]] undoubtedly lead the people to
+The Republican Institutions of [[america|America]] undoubtedly lead the people to
 assert their [[Self|self]]-respect and their equality; but a traveller is bound to
 bear those Institutions in his mind, and not hastily to resent the near
 approach of a class of strangers, who, at [[Home|home]], would keep aloof.  This
@@ -299,7 +299,7 @@ and on every rood of which, vegetable decomposition is annually taking
 place; where there are so many great rivers, and such opposite varieties
 of climate; there cannot fail to be a great amount of sickness at certain
 [[Seasons|seasons]].  But I may venture to say, after conversing with many members of
-the medical profession in [[America]], that I am not singular in the opinion
+the medical profession in [[america|America]], that I am not singular in the opinion
 that much of the disease which does prevail, might be avoided, if a few
 common precautions were observed.  Greater means of personal cleanliness,
 are indispensable to this end; the custom of hastily swallowing large
@@ -309,7 +309,7 @@ go more wisely clad, and take more healthful exercise; and in the latter
 clause, the males must be included also.  Above all, in public
 institutions, and throughout the whole of every town and [[City|city]], the system
 of ventilation, and drainage, and removal of impurities requires to be
-thoroughly revised.  There is no local Legislature in [[America]] which may
+thoroughly revised.  There is no local Legislature in [[america|America]] which may
 not study Mr. Chadwick’s excellent Report upon the Sanitary Condition of
 our Labouring Classes, with immense advantage.
 
@@ -349,13 +349,13 @@ POSTSCRIPT
 
 AT a Public Dinner given to me on Saturday the 18th of April, 1868, in
 the [[City]] of [[New York]], by two hundred representatives of the Press of the
-United States of [[America]], I made the following observations among others:
+United States of [[america|America]], I made the following observations among others:
 
 ‘So much of my voice has lately been heard in the land, that I might have
 been contented with troubling you no further from my present
 standing-point, were it not a duty with which I henceforth charge myself,
 not only here but on every suitable occasion, whatsoever and wheresoever,
-to express my high and grateful sense of my second reception in [[America]],
+to express my high and grateful sense of my second reception in [[america|America]],
 and to bear my honest testimony to the national generosity and
 magnanimity.  Also, to declare how astounded I have been by the amazing
 changes I have seen around me on every side,—changes moral, changes
@@ -377,7 +377,7 @@ more surprised by printed news that I have read of myself, than by any
 printed news that I have ever read in my present state of existence.
 Thus, the vigour and perseverance with which I have for some months past
 been collecting materials for, and hammering away at, a new book on
-[[America]] has much astonished me; seeing that all that [[Time|time]] my declaration
+[[america|America]] has much astonished me; seeing that all that [[Time|time]] my declaration
 has been perfectly [[Well|well]] known to my publishers on both sides of the
 Atlantic, that no consideration on earth would induce me to write one.
 But what I have intended, what I have resolved upon (and this is the
@@ -391,7 +391,7 @@ unsurpassable respect for the privacy daily enforced upon me by the
 [[Nature|nature]] of my avocation here and the state of my health.  This testimony,
 so long as I live, and so long as my descendants have any legal right in
 my books, I shall cause to be republished, as an appendix to every copy
-of those two books of mine in which I have referred to [[America]].  And this
+of those two books of mine in which I have referred to [[america|America]].  And this
 I will do and cause to be done, not in mere [[Love|love]] and thankfulness, but
 because I regard it as an act of plain justice and [[Honour|honour]].’
 
@@ -399,7 +399,7 @@ I said these words with the greatest earnestness that I could lay upon
 them, and I repeat them in print here with equal earnestness.  So long as
 this book shall last, I [[Hope|hope]] that they will form a part of it, and will
 be fairly read as inseparable from my experiences and impressions of
-[[America]].
+[[america|America]].
 
                                                           CHARLES DICKENS.
 
@@ -426,4 +426,4 @@ perfectly truthful article, in _The Foreign Quarterly Review_, published
 in the present month of October; to which my attention has been
 attracted, since these sheets have been passing through the press.  He
 will find some specimens there, by no means remarkable to any man who has
-been in [[America]], but sufficiently striking to one who has not.
+been in [[america|America]], but sufficiently striking to one who has not.

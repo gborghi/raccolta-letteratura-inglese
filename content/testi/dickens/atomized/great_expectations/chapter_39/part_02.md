@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 39 (part 2)"
+title: "Great Expectations — Chapter 39 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_39/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_39/part_03">part 03 ›</a></div>
 </nav>
 
+
+He stopped in his looking at me, and slowly rubbed his right hand over
+his head. “It’s disapinting to a man,” he said, in a coarse broken
+voice, “arter having looked for’ard so distant, and come so fur; but
+you’re not to blame for that,—neither on us is to blame for that. I’ll
+speak in half a minute. Give me half a minute, please.”
 
 He sat down on a chair that stood before the [[Fire|fire]], and covered his
 forehead with his large brown veinous hands. I looked at him
@@ -137,7 +143,3 @@ were clean and new, and I spread them out and handed them over to him.
 Still watching me, he laid them one upon the other, folded them
 long-wise, gave them a twist, set [[Fire|fire]] to them at the lamp, and dropped
 the ashes into the tray.
-
-“May I make so bold,” he said then, with a smile that was like a frown,
-and with a frown that was like a smile, “as ask you _how_ you have done
-[[Well|well]], since you and me was out on them lone shivering marshes?”

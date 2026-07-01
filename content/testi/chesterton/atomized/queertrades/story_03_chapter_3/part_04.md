@@ -1,5 +1,5 @@
 ---
-title: "[[queertrades]] — Chapter 3 (part 4)"
+title: "queertrades — Chapter 3 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/queertrades-(chesterton)"
@@ -136,10 +136,3 @@ to protect them.  If you choose to take advantage of the weakness of our
 unfortunate friend, no [[Doubt|doubt]] you are legally entitled to take her.
 But if you fancy you have any legal right to bully us, you will find
 yourself in the wrong box.'
-
-"The [[Truth|truth]] and dignity of this staggered the policeman for a moment.
-Under cover of their advantage my five persecutors turned for an
-instant on me faces like faces of the damned and then swished off
-into the darkness.  When the constable first turned his lantern
-and his suspicions on to them, I had seen the telegraphic look flash
-from face to face saying that only retreat was possible now.

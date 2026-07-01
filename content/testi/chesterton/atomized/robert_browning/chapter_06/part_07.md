@@ -43,7 +43,7 @@ hunt after poetic novelty. He never became a conservative. The last
 book he published in his life-[[Time|time]], _Parleyings with Certain People of
 Importance in their Day_, was a new poem, and more revolutionary than
 _Paracelsus_. This is the true light in which to regard Browning as an
-[[Artist|artist]]. He had determined to leave no spot of the cosmos unadorned by
+[[artist]]. He had determined to leave no spot of the cosmos unadorned by
 his poetry which he could find it possible to adorn. An admirable
 example can be found in that splendid poem "Childe Roland to the Dark
 Tower came." It is the hint of an entirely new and curious type of

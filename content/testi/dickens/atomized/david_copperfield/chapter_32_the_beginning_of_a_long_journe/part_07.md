@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 32: THE BEGINNING OF A LONG [[Journey|JOURNEY]] (part 7)"
+title: "David Copperfield — Chapter 32: THE BEGINNING OF A LONG [[Journey|JOURNEY (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,34 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_32_the_beginning_of_a_long_journe/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_33_blissful/part_01">part 01 ›</a></div>
 </nav>
 
+
+With this, we departed; leaving her standing by her elbow-chair, a
+picture of a noble presence and a handsome face.
+
+We had, on our way out, to [[Cross|cross]] a paved hall, with glass sides and
+roof, over which a vine was trained. Its [[Leaves|leaves]] and shoots were green
+then, and the day being sunny, a pair of glass doors leading to the
+[[Garden|garden]] were thrown open. Rosa Dartle, entering this way with a noiseless
+step, when we were close to them, addressed herself to me:
+
+‘You do [[Well|well]],’ she said, ‘indeed, to bring this fellow here!’
+
+Such a concentration of rage and scorn as darkened her face, and flashed
+in her jet-black eyes, I could not have thought compressible even into
+that face. The scar made by the hammer was, as usual in this excited
+state of her features, strongly marked. When the throbbing I had seen
+before, came into it as I looked at her, she absolutely lifted up her
+hand, and struck it.
+
+‘This is a fellow,’ she said, ‘to champion and bring here, is he not?
+You are a true man!’
+
+‘Miss Dartle,’ I returned, ‘you are surely not so unjust as to condemn
+ME!’
+
+‘Why do you bring division between these two mad creatures?’ she
+returned. ‘Don’t you know that they are both mad with their own
+[[Self|self]]-will and [[Pride|pride]]?’
 
 ‘Is it my doing?’ I returned.
 

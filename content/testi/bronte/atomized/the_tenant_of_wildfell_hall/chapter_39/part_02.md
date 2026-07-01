@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 39 (part 2)"
+title: "The Tenant of Wildfell Hall — Chapter 39 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_39/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_39/part_03">part 03 ›</a></div>
 </nav>
 
+
+which I should be very reluctant to do, he would be certain to
+
+disapprove of the step: it would seem like [[Madness|madness]] to him, as it would
+
+to my uncle and aunt, or to Milicent. No; I must have patience and
+
+gather a hoard of my own. Rachel should be my only confidante—I thought
 
 I could persuade her into the scheme; and she should help me, first, to
 
@@ -72,7 +80,7 @@ wished. Here, then, I set up my easel, and here I worked at my canvas
 
 from daylight till dusk, with very little intermission, saving when
 
-pure necessity, or my duties to little [[arthur|Arthur]], called me away: for I
+pure necessity, or my duties to little [[Arthur]], called me away: for I
 
 still thought proper to devote some portion of every day exclusively to
 
@@ -201,27 +209,3 @@ without delicacy or discrimination, in an audience where it seemed
 profanation to utter your name: himself utterly incapable of
 
 understanding or appreciating your real excellences. Huntingdon,
-
-meanwhile, sat quietly drinking his wine,—or looking smilingly into his
-
-glass and offering no interruption or reply, till Hattersley shouted
-
-out,—‘Do you hear me, man?’
-
-
-
-“‘Yes, go on,’ said he.
-
-
-
-“‘Nay, I’ve done,’ replied the other: ‘I only want to know if you
-
-intend to take my advice.’
-
-
-
-“‘What advice?’
-
-
-
-“‘To turn over a new leaf, you [[Double|double]]-dyed scoundrel,’ shouted Ralph,

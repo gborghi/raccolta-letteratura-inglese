@@ -1,5 +1,5 @@
 ---
-title: "The [[history|History]] of [[King Lear]] (Quarto Text) — Scene 6 — exchange ([[Gloucester|GLOUCESTER]] I) [3]"
+title: "The History of King Lear (Quarto Text) — Scene 6 — exchange (GLOUCESTER I) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-history-of-king-lear---the-quarto-text-(shakespeare)"

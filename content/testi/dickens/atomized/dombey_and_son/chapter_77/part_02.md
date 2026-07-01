@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 21 (part 2)"
+title: "Dombey and Son — Chapter 49 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,133 +14,120 @@ tags:
 </nav>
 
 
-“They libel me. There is only one change, Mr Dombey,” observed Mrs
-Skewton, with a mincing sigh, “for which I really care, and that I [[Fear|fear]]
-I shall never be permitted to enjoy. People cannot spare one. But
-seclusion and contemplation are my what-his-name—”
+The Captain had spread the cloth with great care, and was making some
+egg-sauce in a little saucepan: basting the fowl from [[Time|time]] to [[Time|time]]
+during the process with a strong interest, as it turned and browned on
+a string before the [[Fire|fire]]. Having propped Florence up with cushions on
+the sofa, which was already wheeled into a warm corner for her greater
+comfort, the Captain pursued his cooking with extraordinary skill,
+making hot gravy in a second little saucepan, boiling a handful of
+potatoes in a third, never forgetting the egg-sauce in the first, and
+making an impartial round of basting and stirring with the most useful
+of spoons every minute. Besides these cares, the Captain had to keep
+his eye on a diminutive frying-pan, in which some sausages were hissing
+and bubbling in a most musical manner; and there was never such a
+radiant cook as the Captain looked, in the height and heat of these
+functions: it being impossible to say whether his face or his glazed
+hat shone the brighter.
 
-“If you mean Paradise, Mama, you had better say so, to render yourself
-intelligible,” said the younger lady.
+The dinner being at length quite ready, [[Captain Cuttle]] dished and
+served it up, with no less dexterity than he had cooked it. He then
+dressed for dinner, by taking off his glazed hat and putting on his
+coat. That done, he wheeled the table close against Florence on the
+sofa, said grace, unscrewed his hook, screwed his fork into its place,
+and did the honours of the table.
 
-“My dearest Edith,” returned Mrs Skewton, “you know that I am wholly
-dependent upon you for those odious names. I assure you, Mr Dombey,
-[[Nature]] intended me for an Arcadian. I am thrown away in society. Cows
-are my passion. What I have ever sighed for, has been to retreat to a
-Swiss farm, and live entirely surrounded by cows—and china.”
+“My lady lass,” said the Captain, “cheer up, and try to eat a deal.
+Stand by, my deary! Liver wing it is. Sarse it is. Sassage it is. And
+potato!” all which the Captain ranged symmetrically on a plate, and
+pouring hot gravy on the whole with the useful spoon, set before his
+cherished guest.
 
-This curious association of objects, suggesting a remembrance of the
-celebrated bull who got by mistake into a crockery shop, was received
-with perfect gravity by Mr Dombey, who intimated his opinion that
-[[Nature]] was, no [[Doubt|doubt]], a very respectable institution.
+“The whole row o’ dead lights is up, for’ard, lady lass,” observed the
+Captain, encouragingly, “and everythink is made snug. Try and pick a
+bit, my pretty. If Wal”r was here—”
 
-“What I want,” drawled Mrs Skewton, pinching her shrivelled throat, “is
-heart.” It was frightfully true in one sense, if not in that in which
-she used the phrase. “What I want, is frankness, confidence, less
-conventionality, and freer play of [[Soul|soul]]. We are so dreadfully
-artificial.”
+“Ah! If I had him for my brother now!” cried Florence.
 
-We were, indeed.
+“Don’t! don’t take on, my pretty!” said the Captain, “awast, to obleege
+me! He was your nat’ral born friend like, warn’t he, Pet?”
 
-“In short,” said Mrs Skewton, “I want [[Nature]] everywhere. It would be so
-extremely charming.”
+Florence had no words to answer with. She only said, “Oh, dear, dear
+Paul! oh, Walter!”
 
-“[[Nature]] is inviting us away now, Mama, if you are ready,” said the
-younger lady, curling her handsome lip. At this hint, the wan page, who
-had been surveying the party over the top of the chair, vanished behind
-it, as if the ground had swallowed him up.
+“The wery planks she walked on,” murmured the Captain, looking at her
+drooping face, “was as high esteemed by Wal”r, as the [[Water|water]] brooks is
+by the hart which never rejices! I see him now, the wery day as he was
+rated on them Dombey books, a speaking of her with his face a
+glistening with doo—leastways with his modest sentiments—like a new
+blowed [[Rose|rose]], at dinner. [[Well]], [[Well|well]]! If our poor Wal”r was here, my lady
+lass—or if he could be—for he’s drownded, ain’t he?”
 
-“Stop a moment, Withers!” said Mrs Skewton, as the chair began to move;
-calling to the page with all the languid dignity with which she had
-called in days of yore to a coachman with a wig, cauliflower nosegay,
-and silk stockings. “Where are you staying, abomination?”
+Florence shook her head.
 
-The Major was staying at the Royal Hotel, with his friend Dombey.
+“Yes, yes; drownded,” said the Captain, soothingly; “as I was saying,
+if he could be here he’d beg and pray of you, my precious, to pick a
+leetle bit, with a look-out for your own sweet health. Whereby, hold
+your own, my lady lass, as if it was for Wal”r’s sake, and lay your
+pretty head to the [[Wind|wind]].”
 
-“You may come and see us any evening when you are good,” lisped Mrs
-Skewton. “If Mr Dombey will [[Honour|honour]] us, we shall be happy. Withers, go
-on!”
+Florence essayed to eat a morsel, for the Captain’s pleasure. The
+Captain, meanwhile, who seemed to have quite forgotten his own dinner,
+laid down his knife and fork, and drew his chair to the sofa.
 
-The Major again pressed to his blue lips the tips of the fingers that
-were disposed on the ledge of the wheeled chair with careful
-carelessness, after the [[Cleopatra]] model: and Mr Dombey bowed. The elder
-lady honoured them both with a very gracious smile and a girlish wave
-of her hand; the younger lady with the very slightest inclination of
-her head that common courtesy allowed.
+“Wal”r was a trim lad, warn’t he, precious?” said the Captain, after
+sitting for some [[Time|time]] silently rubbing his chin, with his eyes fixed
+upon her, “and a brave lad, and a good lad?”
 
-The last glimpse of the wrinkled face of the mother, with that patched
-colour on it which the sun made infinitely more haggard and dismal than
-any want of colour could have been, and of the proud [[Beauty|beauty]] of the
-daughter with her graceful figure and erect deportment, engendered such
-an involuntary disposition on the part of both the Major and Mr Dombey
-to look after them, that they both turned at the same moment. The Page,
-nearly as much aslant as his own [[Shadow|shadow]], was toiling after the chair,
-uphill, like a slow battering-ram; the top of [[Cleopatra]]’s bonnet was
-fluttering in exactly the same corner to the inch as before; and the
-[[Beauty]], loitering by herself a little in advance, expressed in all her
-elegant form, from head to foot, the same supreme disregard of
-everything and everybody.
+Florence tearfully assented.
 
-“I tell you what, Sir,” said the Major, as they resumed their walk
-again. “If Joe Bagstock were a younger man, there’s not a woman in the
-world whom he’d prefer for Mrs Bagstock to that woman. By George, Sir!”
-said the Major, “she’s superb!”
+“And he’s drownded, [[Beauty]], ain’t he?” said the Captain, in a soothing
+voice.
 
-“Do you mean the daughter?” inquired Mr Dombey.
+Florence could not but assent again.
 
-“Is Joey B. a turnip, Dombey,” said the Major, “that he should mean the
-mother?”
+“He was older than you, my lady lass,” pursued the Captain, “but you
+was like two children together, at first; wam’t you?”
 
-“You were complimentary to the mother,” returned Mr Dombey.
+Florence answered “Yes.”
 
-“An ancient flame, Sir,” chuckled [[Major Bagstock]]. “Devilish ancient. I
-[[Humour|humour]] her.”
+“And Wal”r’s drownded,” said the Captain. “Ain’t he?”
 
-“She impresses me as being perfectly genteel,” said Mr Dombey.
+The repetition of this inquiry was a curious source of consolation, but
+it seemed to be one to [[Captain Cuttle]], for he came back to it again and
+again. Florence, fain to push from her her untasted dinner, and to lie
+back on her sofa, gave him her hand, feeling that she had disappointed
+him, though truly wishing to have pleased him after all his trouble,
+but he held it in his own (which shook as he held it), and appearing to
+have quite forgotten all about the dinner and her want of appetite,
+went on growling at intervals, in a ruminating tone of sympathy, “Poor
+Wal”r. Ay, ay! Drownded. Ain’t he?” And always waited for her answer,
+in which the great point of these singular reflections appeared to
+consist.
 
-“Genteel, Sir,” said the Major, stopping short, and staring in his
-companion’s face. “The Honourable Mrs Skewton, Sir, is sister to the
-late Lord Feenix, and aunt to the present Lord. The family are not
-wealthy—they’re poor, indeed—and she lives upon a small jointure; but
-if you come to [[Blood|blood]], Sir!” The Major gave a flourish with his stick
-and walked on again, in [[Despair|despair]] of being able to say what you came to,
-if you came to that.
+The fowl and sausages were cold, and the gravy and the egg-sauce
+stagnant, before the Captain remembered that they were on the board,
+and fell to with the assistance of Diogenes, whose united efforts
+quickly dispatched the banquet. The Captain’s delight and [[Wonder|wonder]] at the
+quiet housewifery of Florence in assisting to clear the table, arrange
+the parlour, and sweep up the hearth—only to be equalled by the
+fervency of his protest when she began to assist him—were gradually
+raised to that degree, that at last he could not choose but do nothing
+himself, and stand looking at her as if she were some Fairy, daintily
+performing these offices for him; the red rim on his forehead glowing
+again, in his unspeakable admiration.
 
-“You addressed the daughter, I observed,” said Mr Dombey, after a short
-pause, “as Mrs Granger.”
-
-“Edith Skewton, Sir,” returned the Major, stopping short again, and
-punching a mark in the ground with his cane, to represent her, “married
-(at eighteen) Granger of Ours;” whom the Major indicated by another
-punch. “Granger, Sir,” said the Major, tapping the last ideal portrait,
-and [[rolling]] his head emphatically, “was Colonel of Ours; a de-vilish
-handsome fellow, Sir, of forty-one. He died, Sir, in the second year of
-his [[Marriage|marriage]].” The Major ran the representative of the deceased Granger
-through and through the [[Body|body]] with his walking-stick, and went on again,
-carrying his stick over his shoulder.
-
-“How long is this ago?” asked Mr Dombey, making another halt.
-
-“[[Edith Granger]], Sir,” replied the Major, shutting one eye, putting his
-head on one side, passing his cane into his left hand, and smoothing
-his shirt-frill with his right, “is, at this present [[Time|time]], not quite
-thirty. And damme, Sir,” said the Major, shouldering his stick once
-more, and walking on again, “she’s a peerless woman!”
-
-“Was there any family?” asked Mr Dombey presently.
-
-“Yes, Sir,” said the Major. “There was a boy.”
-
-Mr Dombey’s eyes sought the ground, and a shade came over his face.
-
-“Who was drowned, Sir,” pursued the Major. “When a [[Child|child]] of four or
-five years old.”
-
-“Indeed?” said Mr Dombey, raising his head.
-
-“By the upsetting of a boat in which his [[Nurse|nurse]] had no business to have
-put him,” said the Major. “That’s his [[history]]. [[Edith Granger]] is Edith
-Granger still; but if tough old Joey B., Sir, were a little younger and
-a little richer, the name of that immortal paragon should be Bagstock.”
-
-The Major heaved his shoulders, and his cheeks, and laughed more like
-an over-fed Mephistopheles than ever, as he said the words.
+But when Florence, taking down his pipe from the mantel-shelf gave it
+into his hand, and entreated him to smoke it, the good Captain was so
+bewildered by her attention that he held it as if he had never held a
+pipe, in all his life. Likewise, when Florence, looking into the little
+cupboard, took out the case-bottle and mixed a perfect glass of grog
+for him, unasked, and set it at his elbow, his ruddy nose turned pale,
+he felt himself so graced and honoured. When he had filled his pipe in
+an absolute reverie of satisfaction, Florence lighted it for him—the
+Captain having no power to object, or to prevent her—and resuming her
+place on the old sofa, looked at him with a smile so loving and so
+grateful, a smile that showed him so plainly how her forlorn heart
+turned to him, as her face did, through grief, that the smoke of the
+pipe got into the Captain’s throat and made him cough, and got into the
+Captain’s eyes, and made them blink and [[Water|water]].

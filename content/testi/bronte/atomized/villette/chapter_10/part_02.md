@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 10 (part 2)"
+title: "Villette — Chapter 10 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_10/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_10/part_03">part 03 ›</a></div>
 </nav>
 
+
+Hereupon he called for a glass of _eau sucrée_, fed her with some
+teaspoonfuls of the sweet liquid (Fifine was a frank gourmande; anybody
+could win her heart through her palate), promised her more when the
+operation should be over, and promptly went to work. Some assistance
+being needed, he demanded it of the cook, a robust, strong-armed woman;
+but she, the portress, and the [[Nurse|nurse]] instantly fled. I did not like to
+touch that small, tortured limb, but thinking there was no alternative,
+my hand was already extended to do what was requisite. I was
+anticipated; [[Madame Beck]] had put out her own hand: hers was steady
+while mine trembled.
 
 “Ca vaudra mieux,” said the doctor, turning from me to her.
 
@@ -105,16 +116,3 @@ her mamma and the physician paid their diurnal visit. [[Madame Beck]], I
 knew, was glad, at any price, to have her daughter in bed out of the
 way of mischief; but I wondered that Dr. John did not tire of the
 business.
-
-Every day, on this mere pretext of a motive, he gave punctual
-attendance; Madame always received him with the same empressement, the
-same sunshine for himself, the same admirably counterfeited air of
-concern for her [[Child|child]]. Dr. John wrote harmless prescriptions for the
-patient, and viewed her mother with a shrewdly sparkling eye. Madame
-caught his rallying looks without resenting them—she had too much good
-sense for that. Supple as the young doctor seemed, one could not
-despise him—this pliant part was evidently not adopted in the design to
-curry favour with his employer: while he liked his office at the
-pensionnat, and lingered strangely about the Rue Fossette, he was
-independent, almost careless in his carriage there; and yet, too, he
-was often thoughtful and preoccupied.

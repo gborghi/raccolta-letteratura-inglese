@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 9 (part 1)"
+title: "thursday — Chapter 9 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -17,7 +17,6 @@ tags:
                          CHAPTER IX
 
                     THE MAN IN SPECTACLES
-
 
 "BURGUNDY is a jolly thing," said [[The Professor|the Professor]] sadly, as he set
 his glass down.
@@ -141,10 +140,3 @@ but it was the trust between two men going to the scaffold.
 "[[Well]]," said Syme with a forced cheerfulness as he pulled
 on his trousers, "I dreamt of that alphabet of yours.
 Did it take you long to make it up?"
-
-[[The Professor]] made no answer, but gazed in front of him with eyes
-the colour of a wintry sea; so Syme repeated his question.
-
-"I say, did it take you long to invent all this?  I'm considered
-good at these things, and it was a good hour's grind.
-Did you learn it all on the spot?"

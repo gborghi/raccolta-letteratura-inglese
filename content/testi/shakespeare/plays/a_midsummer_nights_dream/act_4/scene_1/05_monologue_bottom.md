@@ -1,5 +1,5 @@
 ---
-title: "A Midsummer Nights Dream — Act IV, Scene 1 — monologue ([[Bottom|BOTTOM]]) [5]"
+title: "A Midsummer Nights Dream — Act IV, Scene 1 — monologue (BOTTOM) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/a-midsummer-night’s-dream-(shakespeare)"

@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 4 (part 3)"
+title: "Mansfield Park — Chapter 4 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/mansfield_park/chapter_04/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/mansfield_park/chapter_05/part_01">part 01 ›</a></div>
 </nav>
 
+
+[[Edmund]] was the only one of the family who could see a fault in the
+business; but no representation of his aunt’s could induce him to find
+Mr. Rushworth a desirable companion. He could allow his sister to be
+the best judge of her own happiness, but he was not pleased that her
+happiness should centre in a large income; nor could he refrain from
+often saying to himself, in Mr. Rushworth’s company—“If this man had
+not twelve thousand a year, he would be a very stupid fellow.”
 
 Sir Thomas, however, was truly happy in the prospect of an alliance so
 unquestionably advantageous, and of which he heard nothing but the

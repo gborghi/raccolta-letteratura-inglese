@@ -1,5 +1,5 @@
 ---
-title: "[[Emma]] — Chapter 6"
+title: "Emma — Chapter 6"
 author: "Austen"
 unitType: chapter
 parentWork: "works/emma-(austen)"
@@ -119,7 +119,7 @@ she would ever submit to. She played and sang;—and drew in almost every
 style; but steadiness had always been wanting; and in nothing had she
 approached the degree of excellence which she would have been glad to
 command, and ought not to have failed of. She was not much deceived as
-to her own skill either as an [[artist]] or a musician, but she was not
+to her own skill either as an [[Artist|artist]] or a musician, but she was not
 unwilling to have others deceived, or sorry to know her reputation for
 accomplishment often higher than it deserved.
 
@@ -183,7 +183,7 @@ station over the mantelpiece.
 
 The sitting began; and Harriet, smiling and blushing, and afraid of not
 keeping her attitude and countenance, presented a very sweet mixture of
-youthful expression to the steady eyes of the [[artist]]. But there was no
+youthful expression to the steady eyes of the [[Artist|artist]]. But there was no
 doing any thing, with Mr. Elton fidgeting behind her and watching every
 touch. She gave him credit for stationing himself where he might gaze
 and gaze again without offence; but was really obliged to put an end to

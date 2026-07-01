@@ -1,5 +1,5 @@
 ---
-title: "[[Agnes Grey]] — Chapter 11 (part 1)"
+title: "Agnes Grey — Chapter 11 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/agnes-grey-(bronte)"
@@ -114,7 +114,3 @@ stirring the [[Fire|fire]], and adding a few more sticks to the decaying embers;
 and then, taking her [[Well|well]]-used [[Bible]] from the shelf, dusted it
 carefully, and gave it me. On my asking if there was any particular
 part she should like me to read, she answered—
-
-“[[Well]], Miss Grey, if it’s all the same to you, I should like to hear
-that chapter in the First Epistle of St. John, that says, ‘God is [[Love|love]],
-and he that dwelleth in [[Love|love]] dwelleth in God, and God in him.’”

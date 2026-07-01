@@ -1,5 +1,5 @@
 ---
-title: "The [[history|History]] of [[King Lear]] (Quarto Text) — Scene 7 — monologue ([[Edgar|EDGAR]] I) [4]"
+title: "The History of King Lear (Quarto Text) — Scene 7 — monologue (EDGAR I) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-history-of-king-lear---the-quarto-text-(shakespeare)"

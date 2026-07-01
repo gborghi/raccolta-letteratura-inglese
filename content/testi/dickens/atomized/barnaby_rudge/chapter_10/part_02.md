@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 10 (part 2)"
+title: "Barnaby Rudge — Chapter 10 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_10/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_10/part_03">part 03 ›</a></div>
 </nav>
 
+
+The figure he addressed made no answer, but putting his hand upon the
+saddle, sprung into it at a bound, turned the [[Horse|horse]]’s head towards the
+stable, and was gone in an instant.
+
+‘Brisk enough when he is awake,’ said the guest.
 
 ‘Brisk enough, sir!’ replied John, looking at the place where the [[Horse|horse]]
 had been, as if not yet understanding quite, what had become of him. ‘He
@@ -119,19 +125,3 @@ yesterday. But I was not attending to the good woman much.’
 
 ‘You’re right, sir,’ John made answer, ‘he does. His father, sir, was
 murdered in that [[house]].’
-
-‘So I have heard,’ returned the guest, taking a gold toothpick from his
-pocket with the same sweet smile. ‘A very disagreeable circumstance for
-the family.’
-
-‘Very,’ said John with a puzzled look, as if it occurred to him, dimly
-and afar off, that this might by possibility be a cool way of treating
-the subject.
-
-‘All the circumstances after a murder,’ said the guest soliloquising,
-‘must be dreadfully unpleasant--so much bustle and disturbance--no
-repose--a constant dwelling upon one subject--and the running in and
-out, and up and down stairs, intolerable. I wouldn’t have such a thing
-happen to anybody I was nearly interested in, on any account. ‘Twould
-be enough to wear one’s life out.--You were going to say, friend--’ he
-added, turning to John again.

@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/poet-and-lunatics-(chesterton)">Poet and Lunatics</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/poet_and_lunatics/story_03_the_shadow_of_the_shark/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/poet_and_lunatics/story_04_the_crime_of_gabriel_gale/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/poet_and_lunatics/story_03_the_shadow_shadow_of_the_shark/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/poet_and_lunatics/story_04_the_crime_of_gabriel_gale/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -131,15 +131,3 @@ like that thin-lipped Dr. Wilkes, or that Russian Professor.
 I can no more see him savaging somebody like poor young Saunders than I
 can see him kicking a crippled [[Child|child]].  And yet I _did_ see him do it.
 The only explanation is that he wasn't himself.
-
-"There was another thing which made me sure he wasn't himself.
-The weather had been very trying for everybody for some [[Time|time]];
-hot and stormy and electric; but it was the first [[Time|time]] I've ever known
-him upset by such storms.  I've known him to do the silliest things;
-I've known him stand on his head in the [[Garden|garden]]; but that was only
-showing that he was _not_ affected by the [[Storm|storm]].  But this [[Time|time]] I'm
-sure these queer semi-tropical tempests have been too much for him;
-so that even the very subject of the [[Storm|storm]] upset him in some way.
-For this [[Tragedy|tragedy]] arose out of the most trivial sort of triviality.
-The whole terrible unnatural business began with talking
-about the weather.

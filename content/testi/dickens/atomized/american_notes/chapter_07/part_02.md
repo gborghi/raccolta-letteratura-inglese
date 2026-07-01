@@ -161,9 +161,3 @@ about from that.’
 ‘I saw just now, that that man’s clothes were scattered about the floor
 of his cell.  Don’t you oblige the prisoners to be orderly, and put such
 things away?’
-
-‘Where should they put ’em?’
-
-‘Not on the ground surely.  What do you say to hanging them up?’
-
-He stops and looks round to emphasise his answer:

@@ -14,6 +14,30 @@ tags:
 </nav>
 
 
+than an original person; perhaps an origin. But so far as her written
+
+works go she enters English letters only as an original person--and
+
+rather a narrow one. Her [[Imagination|imagination]] was sometimes superhuman--always
+
+inhuman. _Wuthering Heights_ might have been written by an eagle. She is
+
+the strongest instance of these strong imaginations that made the other
+
+sex a [[Monster|monster]]: for Heathcliffe fails as a man as catastrophically as he
+
+succeeds as a demon. I think Emily Brontë was further narrowed by the
+
+broadness of her religious views; but never, of course, so much as
+
+George Eliot.
+
+In any case, it is Charlotte Brontë who enters Victorian literature. The
+
+shortest way of stating her strong contribution is, I think, this: that
+
+she reached the highest [[Romance|romance]] through the lowest realism. She did not
+
 set out with Amadis of Gaul in a forest or with Mr. [[Pickwick]] in a comic
 
 club. She set out with herself, with her own dingy clothes, and
@@ -37,8 +61,6 @@ books (better even than _Villette_) because while it is a human document
 written in [[Blood|blood]], it is also one of the best [[Blood|blood]]-and-thunder [[Detective|detective]]
 
 stories in the world.
-
-
 
 But while Emily Brontë was as unsociable as a [[Storm|storm]] at midnight, and
 
@@ -83,8 +105,6 @@ Victorians. The woman felt obscurely that she was still running her
 mortal risk, while the man was not still running his. But I know nothing
 
 about it; nor does anybody else.
-
-
 
 In so short a book on so vast, complex and living a subject, it is
 
@@ -144,8 +164,6 @@ female novelists first. I think they gave its special shape, its
 
 temporary twist, to the Victorian [[Novel|novel]].
 
-
-
 Nevertheless it is a shock (I almost dare to call it a relief) to come
 
 back to the males. It is the more abrupt because the first name that
@@ -163,33 +181,3 @@ therefore the less to say of him here, where we consider him only as a
 novelist; but there is still much more to say than can even conceivably
 
 be said. Dickens, as we have stated, inherited the old comic, rambling
-
-[[Novel|novel]] from Smollett and the rest. Dickens, as we have also stated,
-
-consented to expurgate that [[Novel|novel]]. But when all origins and all
-
-restraints have been defined and allowed for, the creature that came out
-
-was such as we shall not see again. Smollett was coarse; but Smollett
-
-was also cruel. Dickens was frequently horrible; he was never cruel. The
-
-art of Dickens was the most exquisite of arts: it was the art of
-
-enjoying everybody. Dickens, being a very human writer, had to be a very
-
-human being; he had his faults and sensibilities in a strong degree; and
-
-I do not for a moment maintain that he enjoyed everybody in his daily
-
-life. But he enjoyed everybody in his books: and everybody has enjoyed
-
-everybody in those books even till to-day. His books are full of baffled
-
-villains stalking out or cowardly bullies kicked downstairs. But the
-
-villains and the cowards are such delightful people that the reader
-
-always hopes the [[Villain|villain]] will put his head through a side [[Window|window]] and
-
-make a last remark; or that the bully will say one thing more, even from

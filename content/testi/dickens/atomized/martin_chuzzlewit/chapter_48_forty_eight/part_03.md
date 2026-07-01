@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 48: FORTY EIGHT (part 3)"
+title: "Martin Chuzzlewit — Chapter 48: FORTY EIGHT (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_48_forty_eight/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_48_forty_eight/part_04">part 04 ›</a></div>
 </nav>
 
+
+John Westlock was at [[Home|home]], but, strange to say, was rather embarrassed
+to see them; and when Tom was about to go into the room where he
+was breakfasting, said he had a stranger there. It appeared to be a
+mysterious stranger, for John shut that door as he said it, and led them
+into the next room.
+
+He was very much delighted, though, to see [[Mark Tapley]]; and received
+Martin with his own frank courtesy. But Martin felt that he did not
+inspire John Westlock with any unusual interest; and twice or
+thrice observed that he looked at [[Tom Pinch]] doubtfully; not to say
+compassionately. He thought, and blushed to think, that he knew the
+cause of this.
 
 ‘I apprehend you are engaged,’ said Martin, when Tom had announced the
 purport of their visit. ‘If you will allow me to come again at your own
@@ -135,19 +148,3 @@ up; but I didn’t. I gets to the U-nited States; and then I DO begin, I
 won’t deny it, to feel some little credit in sustaining my spirits. What
 follows? Jest as I’m a-beginning to come out, and am a-treadin’ on the
 werge, my master deceives me.’
-
-‘Deceives you!’ cried Tom.
-
-‘Swindles me,’ retorted Mr Tapley with a beaming face. ‘Turns his back
-on everything as made his service a creditable one, and [[Leaves|leaves]] me high
-and dry, without a leg to stand upon. In which state I returns [[Home|home]].
-Wery good. Then all my hopeful wisions bein’ crushed; and findin’ that
-there ain’t no credit for me nowhere; I abandons myself to [[Despair|despair]],
-and says, “Let me do that as has the least credit in it of all; marry a
-dear, sweet creetur, as is wery fond of me; me bein’, at the same [[Time|time]],
-wery fond of her; lead a happy life, and struggle no more again’ the
-blight which settles on my prospects.”’
-
-‘If your [[philosophy]], Mark,’ said Tom, who laughed heartily at this
-speech, ‘be the oddest I ever heard of, it is not the least wise. Mrs
-Lupin has said “yes,” of course?’

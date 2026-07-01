@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 8 (part 1)"
+title: "Our Mutual Friend — Chapter 12 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,161 +10,127 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_66/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_67/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_66/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_67/part_02">part 02 ›</a></div>
 </nav>
 
 
-Chapter 8
+Chapter 12
 
-A FEW GRAINS OF PEPPER
+THE PASSING [[Shadow|SHADOW]]
 
 
-The dolls’ dressmaker went no more to the business-premises of Pubsey
-and Co. in St Mary Axe, after chance had disclosed to her (as she
-supposed) the flinty and hypocritical character of Mr Riah. She often
-moralized over her work on the tricks and the manners of that venerable
-cheat, but made her little purchases elsewhere, and lived a secluded
-life. After much consultation with herself, she decided not to put
-[[Lizzie Hexam]] on her guard against the old man, arguing that the
-disappointment of finding him out would come upon her quite soon enough.
-Therefore, in her communication with her friend by letter, she was
-silent on this theme, and principally dilated on the backslidings of her
-bad [[Child|child]], who every day grew worse and worse.
+The winds and tides [[Rose|rose]] and fell a certain number of times, the earth
+moved round the sun a certain number of times, the [[Ship|ship]] upon the ocean
+made her voyage safely, and brought a baby-Bella [[Home|home]]. Then who so blest
+and happy as Mrs John Rokesmith, saving and excepting Mr John Rokesmith!
 
-‘You wicked old boy,’ Miss Wren would say to him, with a menacing
-forefinger, ‘you’ll force me to run away from you, after all, you will;
-and then you’ll shake to bits, and there’ll be nobody to pick up the
-pieces!’
+‘Would you not like to be rich NOW, my darling?’
 
-At this foreshadowing of a desolate decease, the wicked old boy would
-whine and whimper, and would sit shaking himself into the lowest of low
-spirits, until such [[Time|time]] as he could shake himself out of the [[house]] and
-shake another threepennyworth into himself. But dead drunk or dead
-sober (he had come to such a pass that he was least alive in the latter
-state), it was always on the [[Conscience|conscience]] of the paralytic scarecrow that
-he had betrayed his sharp parent for sixty threepennyworths of rum,
-which were all gone, and that her sharpness would infallibly detect his
-having done it, sooner or later. All things considered therefore, and
-addition made of the state of his [[Body|body]] to the state of his mind, the bed
-on which Mr Dolls reposed was a bed of roses from which the [[Flowers|flowers]]
-and [[Leaves|leaves]] had entirely faded, leaving him to lie upon the thorns and
-stalks.
+‘How can you ask me such a question, John dear? Am I not rich?’
 
-On a certain day, Miss Wren was [[Alone|alone]] at her work, with the [[house]]-door
-set open for coolness, and was trolling in a small sweet voice a
-mournful little [[Song|song]] which might have been the [[Song|song]] of the doll she was
-dressing, bemoaning the brittleness and meltability of wax, when whom
-should she descry standing on the pavement, looking in at her, but Mr
-Fledgeby.
+These were among the first words spoken near the baby Bella as she lay
+asleep. She soon proved to be a baby of wonderful intelligence,
+evincing the strongest objection to her grandmother’s society, and
+being invariably seized with a painful acidity of the stomach when that
+dignified lady honoured her with any attention.
 
-‘I thought it was you?’ said Fledgeby, coming up the two steps.
+It was charming to see Bella contemplating this baby, and finding out
+her own dimples in that tiny reflection, as if she were looking in the
+glass without personal [[Vanity|vanity]]. Her cherubic father justly remarked
+to her husband that the baby seemed to make her younger than before,
+reminding him of the days when she had a pet doll and used to talk to it
+as she carried it about. The world might have been challenged to produce
+another baby who had such a store of pleasant nonsense said and sung
+to it, as Bella said and sung to this baby; or who was dressed and
+undressed as often in four-and-twenty hours as Bella dressed and
+undressed this baby; or who was held behind doors and poked out to stop
+its father’s way when he came [[Home|home]], as this baby was; or, in a word, who
+did half the number of baby things, through the lively invention of a
+gay and proud young mother, that this inexhaustible baby did.
 
-‘Did you?’ Miss Wren retorted. ‘And I thought it was you, young man.
-Quite a coincidence. You’re not mistaken, and I’m not mistaken. How
-clever we are!’
+The inexhaustible baby was two or three months old, when Bella began to
+notice a cloud upon her husband’s brow. Watching it, she saw a gathering
+and deepening anxiety there, which caused her great disquiet. More than
+once, she awoke him muttering in his [[Sleep|sleep]]; and, though he muttered
+nothing worse than her own name, it was plain to her that his
+restlessness originated in some load of care. Therefore, Bella at length
+put in her claim to divide this load, and hear her half of it.
 
-‘[[Well]], and how are you?’ said Fledgeby.
+‘You know, John dear,’ she said, cheerily reverting to their former
+conversation, ‘that I [[Hope|hope]] I may safely be trusted in great things. And
+it surely cannot be a little thing that causes you so much uneasiness.
+It’s very considerate of you to try to hide from me that you are
+uncomfortable about something, but it’s quite impossible to be done,
+John [[Love|love]].’
 
-‘I am pretty much as usual, sir,’ replied Miss Wren. ‘A very unfortunate
-parent, worried out of my life and senses by a very bad [[Child|child]].’
+‘I admit that I am rather uneasy, my own.’
 
-Fledgeby’s small eyes opened so wide that they might have passed for
-ordinary-sized eyes, as he stared about him for the very young person
-whom he supposed to be in question.
+‘Then please to tell me what about, sir.’
 
-‘But you’re not a parent,’ said Miss Wren, ‘and consequently it’s of no
-use talking to you upon a family subject.—To what am I to attribute the
-[[Honour|honour]] and favour?’
+But no, he evaded that. ‘Never mind!’ thought Bella, resolutely.
+‘John requires me to put perfect [[Faith|faith]] in him, and he shall not be
+disappointed.’
 
-‘To a wish to improve your acquaintance,’ Mr Fledgeby replied.
+She went up to [[London]] one day, to meet him, in order that they might
+make some purchases. She found him waiting for her at her [[Journey|journey]]’s
+end, and they walked away together through the streets. He was in gay
+spirits, though still harping on that notion of their being rich; and
+he said, now let them make believe that yonder fine carriage was theirs,
+and that it was waiting to take them [[Home|home]] to a fine [[house]] they had; what
+would Bella, in that case, best like to find in the [[house]]? [[Well]]! Bella
+didn’t know: already having everything she wanted, she couldn’t say.
+But, by degrees she was led on to confess that she would like to have
+for the inexhaustible baby such a nursery as never was seen. It was
+to be ‘a very rainbow for colours’, as she was quite sure baby noticed
+colours; and the staircase was to be adorned with the most exquisite
+[[Flowers|flowers]], as she was absolutely certain baby noticed [[Flowers|flowers]]; and there
+was to be an aviary somewhere, of the loveliest little [[Birds|birds]], as there
+was not the smallest [[Doubt|doubt]] in the world that baby noticed [[Birds|birds]].
+Was there nothing else? No, John dear. The predilections of the
+inexhaustible baby being provided for, Bella could think of nothing
+else.
 
-Miss Wren, stopping to bite her thread, looked at him very knowingly.
+They were chatting on in this way, and John had suggested, ‘No jewels
+for your own wear, for instance?’ and Bella had replied laughing. O! if
+he came to that, yes, there might be a beautiful ivory case of jewels
+on her dressing-table; when these pictures were in a moment darkened and
+blotted out.
 
-‘We never meet now,’ said Fledgeby; ‘do we?’
+They turned a corner, and met Mr Lightwood.
 
-‘No,’ said Miss Wren, chopping off the word.
+He stopped as if he were petrified by the sight of Bella’s husband, who
+in the same moment had changed colour.
 
-‘So I had a mind,’ pursued Fledgeby, ‘to come and have a talk with you
-about our dodging friend, the [[Child|child]] of Israel.’
+‘Mr Lightwood and I have met before,’ he said.
 
-‘So HE gave you my address; did he?’ asked Miss Wren.
+‘Met before, John?’ Bella repeated in a tone of [[Wonder|wonder]]. ‘Mr Lightwood
+told me he had never seen you.’
 
-‘I got it out of him,’ said Fledgeby, with a stammer.
+‘I did not then know that I had,’ said Lightwood, discomposed on her
+account. ‘I believed that I had only heard of—Mr Rokesmith.’ With an
+emphasis on the name.
 
-‘You seem to see a good deal of him,’ remarked Miss Wren, with shrewd
-distrust. ‘A good deal of him you seem to see, considering.’
+‘When Mr Lightwood saw me, my [[Love|love]],’ observed her husband, not avoiding
+his eye, but looking at him, ‘my name was Julius Handford.’
 
-‘Yes, I do,’ said Fledgeby. ‘Considering.’
+Julius Handford! The name that Bella had so often seen in old
+newspapers, when she was an inmate of Mr Boffin’s [[house]]! Julius
+Handford, who had been publicly entreated to appear, and for
+intelligence of whom a reward had been publicly offered!
 
-‘Haven’t you,’ inquired the dressmaker, bending over the doll on which
-her art was being exercised, ‘done interceding with him yet?’
+‘I would have avoided mentioning it in your presence,’ said Lightwood to
+Bella, delicately; ‘but since your husband mentions it himself, I must
+confirm his strange admission. I saw him as Mr Julius Handford, and I
+afterwards (unquestionably to his knowledge) took great pains to trace
+him out.’
 
-‘No,’ said Fledgeby, shaking his head.
+‘Quite true. But it was not my object or my interest,’ said Rokesmith,
+quietly, ‘to be traced out.’
 
-‘La! Been interceding with him all this [[Time|time]], and sticking to him
-still?’ said Miss Wren, busy with her work.
+Bella looked from the one to the other, in amazement.
 
-‘Sticking to him is the word,’ said Fledgeby.
-
-Miss Wren pursued her occupation with a concentrated air, and asked,
-after an interval of silent industry:
-
-‘Are you in the army?’
-
-‘Not exactly,’ said Fledgeby, rather flattered by the question.
-
-‘Navy?’ asked Miss Wren.
-
-‘N—no,’ said Fledgeby. He qualified these two negatives, as if he were
-not absolutely in either service, but was almost in both.
-
-‘What are you then?’ demanded Miss Wren.
-
-‘I am a gentleman, I am,’ said Fledgeby.
-
-‘Oh!’ assented Jenny, screwing up her mouth with an appearance of
-conviction. ‘Yes, to be sure! That accounts for your having so much
-[[Time|time]] to give to interceding. But only to think how kind and friendly a
-gentleman you must be!’
-
-Mr Fledgeby found that he was skating round a board marked Dangerous,
-and had better cut out a fresh track. ‘Let’s get back to the dodgerest
-of the dodgers,’ said he. ‘What’s he up to in the case of your friend
-the handsome gal? He must have some object. What’s his object?’
-
-‘Cannot undertake to say, sir, I am sure!’ returned Miss Wren,
-composedly.
-
-‘He won’t acknowledge where she’s gone,’ said Fledgeby; ‘and I have
-a fancy that I should like to have another look at her. Now I know he
-knows where she is gone.’
-
-‘Cannot undertake to say, sir, I am sure!’ Miss Wren again rejoined.
-
-‘And you know where she is gone,’ hazarded Fledgeby.
-
-‘Cannot undertake to say, sir, really,’ replied Miss Wren.
-
-The quaint little chin met Mr Fledgeby’s gaze with such a baffling
-hitch, that that agreeable gentleman was for some [[Time|time]] at a loss how to
-resume his fascinating part in the dialogue. At length he said:
-
-‘Miss Jenny!—That’s your name, if I don’t mistake?’
-
-‘Probably you don’t mistake, sir,’ was Miss Wren’s cool answer; ‘because
-you had it on the best authority. Mine, you know.’
-
-‘Miss Jenny! Instead of coming up and being dead, let’s come out and
-look alive. It’ll pay better, I assure you,’ said Fledgeby, bestowing
-an inveigling twinkle or two upon the dressmaker. ‘You’ll find it pay
-better.’
-
-‘Perhaps,’ said Miss Jenny, holding out her doll at arm’s length, and
-critically contemplating the effect of her art with her scissors on her
-lips and her head thrown back, as if her interest lay there, and not in
-the conversation; ‘perhaps you’ll explain your meaning, young man, which
-is Greek to me.—You must have another touch of blue in your trimming,
-my dear.’ Having addressed the last remark to her fair client, Miss
-Wren proceeded to snip at some blue fragments that lay before her, among
-fragments of all colours, and to thread a needle from a skein of blue
-silk.
+‘Mr Lightwood,’ pursued her husband, ‘as chance has brought us face to
+face at last—which is not to be wondered at, for the [[Wonder|wonder]] is, that,
+in spite of all my pains to the contrary, chance has not confronted
+us together sooner—I have only to remind you that you have been at my
+[[house]], and to add that I have not changed my residence.’

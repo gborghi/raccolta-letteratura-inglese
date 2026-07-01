@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 15 (part 1)"
+title: "thursday — Chapter 15 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -17,7 +17,6 @@ tags:
                           CHAPTER XV
 
                           THE ACCUSER
-
 
 AS Syme strode along the corridor he saw the Secretary standing at
 the top of a great flight of stairs.  The man had never looked so noble.

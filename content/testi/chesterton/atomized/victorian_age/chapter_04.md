@@ -634,7 +634,7 @@ And they utterly lost the light and reason of their existence: they were
 
 masters of the clumsy and the incongruous. I will take only one example.
 
-Aubrey Beardsley may be admired as an [[Artist|artist]] or no; he does not enter
+Aubrey Beardsley may be admired as an [[artist]] or no; he does not enter
 
 into the scope of this book. But it is true that there is a certain
 
@@ -650,7 +650,7 @@ thing Beardsley could express (and the only thing he could express), it
 
 is the solemn and awful fact that he was set down to illustrate Malory's
 
-_Morte d'Arthur_. There is no need to say more; taste, in the [[Artist|artist]]'s
+_Morte d'Arthur_. There is no need to say more; taste, in the [[artist]]'s
 
 sense, must have been utterly dead. They might as [[Well|well]] have employed
 
@@ -692,7 +692,7 @@ boldest pages of Bernard [[Shaw]].
 
 Before we pass on to the two expansive movements in which the Victorian
 
-Age really ended, the accident of a distinguished [[Artist|artist]] is available
+Age really ended, the accident of a distinguished [[artist]] is available
 
 for estimating this somewhat cool and sad afternoon of the epoch at its
 
@@ -1054,7 +1054,7 @@ Broadly, the phase in which the Victorian epoch closed was what can only
 
 be called the Imperialist phase. Between that and us stands a very
 
-individual [[Artist|artist]] who must nevertheless be connected with that phase. As
+individual [[artist]] who must nevertheless be connected with that phase. As
 
 I said at the beginning, Macaulay (or, rather, the mind Macaulay shared
 

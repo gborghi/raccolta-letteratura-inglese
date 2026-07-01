@@ -1,5 +1,5 @@
 ---
-title: "[[AllThingsConsidered-8]] — THE \"EATANSWILL GAZETTE\""
+title: "AllThingsConsidered-8 — THE \"EATANSWILL GAZETTE\""
 author: "Chesterton"
 unitType: story
 parentWork: "works/allthingsconsidered-8-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 THE "EATANSWILL GAZETTE."
-
 
 The other day some one presented me with a paper called the
 _Eatanswill Gazette_.  I need hardly say that I could not have been

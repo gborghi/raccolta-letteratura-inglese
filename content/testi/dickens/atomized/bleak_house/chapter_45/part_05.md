@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 45 (part 5)"
+title: "Bleak House — Chapter 45 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,23 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_45/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_46/part_01">part 01 ›</a></div>
 </nav>
 
+
+I saw that after their first greetings were over, and when they spoke
+of [[Richard]]’s career, Mr. Woodcourt had a perception that all was not
+going [[Well|well]] with him. He frequently glanced at his face as if there
+were something in it that gave him [[Pain|pain]], and more than once he looked
+towards me as though he sought to ascertain whether I knew what the
+[[Truth|truth]] was. Yet [[Richard]] was in one of his sanguine states and in good
+spirits and was thoroughly pleased to see Mr. Woodcourt again, whom
+he had always liked.
+
+[[Richard]] proposed that we all should go to [[London]] together; but Mr.
+Woodcourt, having to remain by his [[Ship|ship]] a little longer, could not
+join us. He dined with us, however, at an early hour, and became so
+much more like what he used to be that I was still more at peace to
+think I had been able to soften his regrets. Yet his mind was not
+relieved of [[Richard]]. When the coach was almost ready and [[Richard]] ran
+down to look after his luggage, he spoke to me about him.
 
 I was not sure that I had a right to lay his whole story open, but I
 referred in a few words to his estrangement from Mr Jarndyce and to

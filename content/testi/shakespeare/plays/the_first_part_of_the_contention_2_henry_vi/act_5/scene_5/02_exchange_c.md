@@ -1,5 +1,5 @@
 ---
-title: "The First Part of the Contention (2 [[Henry VI]]) — Act V, Scene 5 — exchange (C.) [2]"
+title: "The First Part of the Contention (2 Henry VI) — Act V, Scene 5 — exchange (C.) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-first-part-of-the-contention---(2-henry-vi)-(shakespeare)"

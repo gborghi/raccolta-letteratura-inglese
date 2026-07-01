@@ -14,6 +14,22 @@ tags:
 </nav>
 
 
+      were standing over me, and Augustus, paler than [[Death|death]], was busily
+
+      occupied in chafing my hands. Upon seeing me open my eyes, his
+
+      exclamations of gratitude and joy excited alternate laughter and
+
+      [[Tears|tears]] from the rough-looking personages who were present. The
+
+      mystery of our being in existence was now soon explained. We had
+
+      been run down by the whaling-[[Ship|ship]], which was close-hauled,
+
+      beating up to Nantucket with every sail she could venture to set,
+
+      and consequently running almost at right angles to our own
+
       course. Several men were on the look-out forward, but did not
 
       perceive our boat until it was an impossibility to avoid coming
@@ -167,27 +183,3 @@ tags:
       although the [[Wind|wind]] was now blowing almost a hurricane. He had not
 
       been gone many minutes when he fell in with some fragments of our
-
-      boat, and shortly afterward one of the men with him asserted that
-
-      he could distinguish a cry for help at intervals amid the roaring
-
-      of the tempest. This induced the hardy seamen to persevere in
-
-      their search for more than half an hour, although repeated
-
-      signals to return were made them by Captain Block, and although
-
-      every moment on the [[Water|water]] in so frail a boat was fraught to them
-
-      with the most imminent and deadly peril. Indeed, it is nearly
-
-      impossible to conceive how the small jolly they were in could
-
-      have escaped destruction for a single instant. She was built,
-
-      however, for the whaling service, and was fitted, as I have since
-
-      had reason to believe, with air-boxes, in the manner of some
-
-      life-boats used on the coast of Wales.

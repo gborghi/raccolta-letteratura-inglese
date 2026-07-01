@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 12 (part 2)"
+title: "Our Mutual Friend — Chapter 13 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,166 +14,118 @@ tags:
 </nav>
 
 
-‘Touching the lady, Eugene.’
+‘Rather,’ returned Lightwood. ‘Do you?’
 
-‘There M. R. F. ceases to be amusing, because my intentions are opposed
-to touching the lady.’
+‘Very much so.’
 
-‘Do you know her?’
+Their escort strolled back again, and reported. Divested of its various
+lime-lights and shadows, his report went to the effect that Gaffer was
+away in his boat, supposed to be on his old look-out; that he had been
+expected last high-[[Water|water]]; that having missed it for some reason or
+other, he was not, according to his usual habits at [[Night|night]], to be counted
+on before next high-[[Water|water]], or it might be an hour or so later; that his
+daughter, surveyed through the [[Window|window]], would seem to be so expecting
+him, for the supper was not cooking, but set out ready to be cooked;
+that it would be high-[[Water|water]] at about one, and that it was now barely
+ten; that there was nothing to be done but watch and wait; that the
+informer was keeping watch at the instant of that present reporting, but
+that two heads were better than one (especially when the second was
+Mr Inspector’s); and that the reporter meant to share the watch. And
+forasmuch as crouching under the lee of a hauled-up boat on a [[Night|night]] when
+it blew cold and strong, and when the weather was varied with blasts of
+hail at times, might be wearisome to amateurs, the reporter closed with
+the recommendation that the two gentlemen should remain, for a while at
+any rate, in their present quarters, which were weather-tight and warm.
 
-‘Not in the least.’
+They were not inclined to dispute this recommendation, but they wanted
+to know where they could join the watchers when so disposed. Rather than
+trust to a verbal description of the place, which might mislead, Eugene
+(with a less weighty sense of personal trouble on him than he usually
+had) would go out with Mr Inspector, note the spot, and come back.
 
-‘Hadn’t you better see her?’
+On the shelving bank of the [[River|river]], among the slimy stones of a
+causeway—not the special causeway of the Six Jolly Fellowships, which
+had a landing-place of its own, but another, a little removed, and
+very near to the old windmill which was the denounced man’s
+dwelling-place—were a few boats; some, moored and already beginning to
+float; others, hauled up above the reach of the tide. Under one of these
+latter, Eugene’s companion disappeared. And when Eugene had observed its
+position with reference to the other boats, and had made sure that he
+could not miss it, he turned his eyes upon the building where, as he had
+been told, the lonely girl with the dark hair sat by the [[Fire|fire]].
 
-‘My dear Mortimer, you have studied my character. Could I possibly go
-down there, labelled “ELIGIBLE. ON VIEW,” and meet the lady, similarly
-labelled? Anything to carry out M. R. F.’s arrangements, I am sure, with
-the greatest pleasure—except matrimony. Could I possibly support it? I,
-so soon bored, so constantly, so fatally?’
+He could see the light of the [[Fire|fire]] shining through the [[Window|window]]. Perhaps
+it drew him on to look in. Perhaps he had come out with the express
+intention. That part of the bank having rank grass growing on it, there
+was no difficulty in getting close, without any noise of footsteps: it
+was but to scramble up a ragged face of pretty hard mud some three or
+four feet high and come upon the grass and to the [[Window|window]]. He came to the
+[[Window|window]] by that means.
 
-‘But you are not a consistent fellow, Eugene.’
+She had no other light than the light of the [[Fire|fire]]. The unkindled lamp
+stood on the table. She sat on the ground, looking at the brazier, with
+her face leaning on her hand. There was a kind of film or flicker on
+her face, which at first he took to be the fitful firelight; but, on a
+second look, he saw that she was weeping. A sad and solitary spectacle,
+as shown him by the rising and the falling of the [[Fire|fire]].
 
-‘In susceptibility to boredom,’ returned that worthy, ‘I assure you I am
-the most consistent of mankind.’
+It was a little [[Window|window]] of but four pieces of glass, and was not
+curtained; he chose it because the larger [[Window|window]] near it was. It showed
+him the room, and the bills upon the wall respecting the drowned people
+starting out and receding by turns. But he glanced slightly at them,
+though he looked long and steadily at her. A deep rich piece of colour,
+with the brown flush of her cheek and the shining lustre of her hair,
+though sad and solitary, weeping by the rising and the falling of the
+[[Fire|fire]].
 
-‘Why, it was but now that you were dwelling in the advantages of a
-monotony of two.’
+She started up. He had been so very still that he felt sure it was not
+he who had disturbed her, so merely withdrew from the [[Window|window]] and stood
+near it in the [[Shadow|shadow]] of the wall. She opened the door, and said in an
+alarmed tone, ‘Father, was that you calling me?’ And again, ‘Father!’
+And once again, after listening, ‘Father! I thought I heard you call me
+twice before!’
 
-‘In a lighthouse. Do me the justice to remember the condition. In a
-lighthouse.’
+No response. As she re-entered at the door, he dropped over the bank and
+made his way back, among the ooze and near the hiding-place, to Mortimer
+Lightwood: to whom he told what he had seen of the girl, and how this
+was becoming very grim indeed.
 
-Mortimer laughed again, and Eugene, having laughed too for the first
-[[Time|time]], as if he found himself on reflection rather entertaining, relapsed
-into his usual gloom, and drowsily said, as he enjoyed his cigar, ‘No,
-there is no help for it; one of the prophetic deliveries of M. R. F.
-must for ever remain unfulfilled. With every disposition to oblige him,
-he must submit to a failure.’
+‘If the real man feels as guilty as I do,’ said Eugene, ‘he is
+remarkably uncomfortable.’
 
-It had grown darker as they talked, and the [[Wind|wind]] was sawing and the
-sawdust was whirling outside paler windows. The underlying churchyard
-was already settling into deep dim shade, and the shade was creeping up
-to the housetops among which they sat. ‘As if,’ said Eugene, ‘as if the
-churchyard [[Ghosts|ghosts]] were rising.’
+‘Influence of secrecy,’ suggested Lightwood.
 
-He had walked to the [[Window|window]] with his cigar in his mouth, to exalt its
-flavour by comparing the fireside with the outside, when he stopped
-midway on his return to his arm-chair, and said:
+‘I am not at all obliged to it for making me Guy Fawkes in the vault and
+a Sneak in the area both at once,’ said Eugene. ‘Give me some more of
+that stuff.’
 
-‘Apparently one of the [[Ghosts|ghosts]] has lost its way, and dropped in to be
-directed. Look at this [[Phantom|phantom]]!’
+Lightwood helped him to some more of that stuff, but it had been
+cooling, and didn’t answer now.
 
-Lightwood, whose back was towards the door, turned his head, and there,
-in the darkness of the entry, stood a something in the likeness of a
-man: to whom he addressed the not irrelevant inquiry, ‘Who the devil are
-you?’
+‘Pooh,’ said Eugene, spitting it out among the ashes. ‘Tastes like the
+wash of the [[River|river]].’
 
-‘I ask your pardons, Governors,’ replied the [[Ghost|ghost]], in a hoarse
-[[Double|double]]-barrelled whisper, ‘but might either on you be Lawyer Lightwood?’
+‘Are you so familiar with the flavour of the wash of the [[River|river]]?’
 
-‘What do you mean by not knocking at the door?’ demanded Mortimer.
+‘I seem to be to-[[Night|night]]. I feel as if I had been half drowned, and
+swallowing a gallon of it.’
 
-‘I ask your pardons, Governors,’ replied the [[Ghost|ghost]], as before, ‘but
-probable you was not aware your door stood open.’
+‘Influence of locality,’ suggested Lightwood.
 
-‘What do you want?’
+‘You are mighty learned to-[[Night|night]], you and your influences,’ returned
+Eugene. ‘How long shall we stay here?’
 
-Hereunto the [[Ghost|ghost]] again hoarsely replied, in its [[Double|double]]-barrelled
-manner, ‘I ask your pardons, Governors, but might one on you be Lawyer
-Lightwood?’
+‘How long do you think?’
 
-‘One of us is,’ said the owner of that name.
+‘If I could choose, I should say a minute,’ replied Eugene, ‘for the
+Jolly Fellowship Porters are not the jolliest [[dogs]] I have known. But
+I suppose we are best here until they turn us out with the other
+suspicious characters, at midnight.’
 
-‘All right, Governors Both,’ returned the [[Ghost|ghost]], carefully closing the
-room door; ‘’tickler business.’
-
-Mortimer lighted the candles. They showed the visitor to be an
-ill-looking visitor with a squinting leer, who, as he spoke, fumbled
-at an old sodden fur cap, formless and mangey, that looked like a furry
-animal, dog or cat, puppy or kitten, drowned and decaying.
-
-‘Now,’ said Mortimer, ‘what is it?’
-
-‘Governors Both,’ returned the man, in what he meant to be a wheedling
-tone, ‘which on you might be Lawyer Lightwood?’
-
-‘I am.’
-
-‘Lawyer Lightwood,’ ducking at him with a servile air, ‘I am a man as
-gets my living, and as seeks to get my living, by the sweat of my brow.
-Not to risk being done out of the sweat of my brow, by any chances, I
-should wish afore going further to be swore in.’
-
-‘I am not a swearer in of people, man.’
-
-The visitor, clearly anything but reliant on this assurance, doggedly
-muttered ‘Alfred David.’
-
-‘Is that your name?’ asked Lightwood.
-
-‘My name?’ returned the man. ‘No; I want to take a Alfred David.’
-
-(Which Eugene, smoking and contemplating him, interpreted as meaning
-Affidavit.)
-
-‘I tell you, my good fellow,’ said Lightwood, with his indolent laugh,
-‘that I have nothing to do with swearing.’
-
-‘He can swear AT you,’ Eugene explained; ‘and so can I. But we can’t do
-more for you.’
-
-Much discomfited by this information, the visitor turned the drowned
-dog or cat, puppy or kitten, about and about, and looked from one of
-the Governors Both to the other of the Governors Both, while he deeply
-considered within himself. At length he decided:
-
-‘Then I must be took down.’
-
-‘Where?’ asked Lightwood.
-
-‘Here,’ said the man. ‘In pen and ink.’
-
-‘First, let us know what your business is about.’
-
-‘It’s about,’ said the man, taking a step forward, dropping his hoarse
-voice, and shading it with his hand, ‘it’s about from five to ten
-thousand pound reward. That’s what it’s about. It’s about Murder. That’s
-what it’s about.’
-
-‘Come nearer the table. Sit down. Will you have a glass of wine?’
-
-‘Yes, I will,’ said the man; ‘and I don’t deceive you, Governors.’
-
-It was given him. Making a stiff arm to the elbow, he poured the wine
-into his mouth, tilted it into his right cheek, as saying, ‘What do you
-think of it?’ tilted it into his left cheek, as saying, ‘What do YOU
-think of it?’ jerked it into his stomach, as saying, ‘What do YOU think
-of it?’ To conclude, smacked his lips, as if all three replied, ‘We
-think [[Well|well]] of it.’
-
-‘Will you have another?’
-
-‘Yes, I will,’ he repeated, ‘and I don’t deceive you, Governors.’ And
-also repeated the other proceedings.
-
-‘Now,’ began Lightwood, ‘what’s your name?’
-
-‘Why, there you’re rather fast, Lawyer Lightwood,’ he replied, in a
-remonstrant manner. ‘Don’t you see, Lawyer Lightwood? There you’re a
-little bit fast. I’m going to earn from five to ten thousand pound by
-the sweat of my brow; and as a poor man doing justice to the sweat of my
-brow, is it likely I can afford to part with so much as my name without
-its being took down?’
-
-Deferring to the man’s sense of the binding powers of pen and ink and
-paper, Lightwood nodded acceptance of Eugene’s nodded proposal to take
-those spells in hand. Eugene, bringing them to the table, sat down as
-clerk or notary.
-
-‘Now,’ said Lightwood, ‘what’s your name?’
-
-But further precaution was still due to the sweat of this honest
-fellow’s brow.
-
-‘I should wish, Lawyer Lightwood,’ he stipulated, ‘to have that T’other
-Governor as my witness that what I said I said. Consequent, will the
-T’other Governor be so good as chuck me his name and where he lives?’
+Thereupon he stirred the [[Fire|fire]], and sat down on one side of it. It struck
+eleven, and he made believe to compose himself patiently. But gradually
+he took the fidgets in one leg, and then in the other leg, and then in
+one arm, and then in the other arm, and then in his chin, and then in
+his back, and then in his forehead, and then in his hair, and then in
+his nose; and then he stretched himself recumbent on two chairs, and
+groaned; and then he started up.

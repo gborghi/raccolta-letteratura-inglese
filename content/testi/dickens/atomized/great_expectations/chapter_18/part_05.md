@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 18 (part 5)"
+title: "Great Expectations — Chapter 18 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_18/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_19/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Mr. and Mrs. Hubble might like to see you in your new gen-teel figure
+too, Pip,” said Joe, industriously cutting his bread, with his [[cheese]]
+on it, in the palm of his left hand, and glancing at my untasted supper
+as if he thought of the [[Time|time]] when we used to compare slices. “So might
+Wopsle. And the Jolly Bargemen might take it as a compliment.”
 
 “That’s just what I don’t want, Joe. They would make such a business of
 it,—such a coarse and common business,—that I couldn’t bear myself.”

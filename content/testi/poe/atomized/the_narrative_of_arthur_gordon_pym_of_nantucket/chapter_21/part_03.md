@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 22 (part 3)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 22 (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_21/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_23/part_01">part 01 ›</a></div>
 </nav>
 
+
+a quarter of a mile--then there came a sudden circular expansion of the
+
+flame--then the whole atmosphere was magically crowded, in a single
+
+instant, with a wild chaos of wood, and metal, and human limbs--and,
+
+lastly, came the concussion in its fullest fury, which hurled us
 
 impetuously from our feet, while the hills echoed and re-echoed the
 

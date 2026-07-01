@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 46: FORTY SIX (part 7)"
+title: "Martin Chuzzlewit — Chapter 46: FORTY SIX (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_46_forty_six/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_46_forty_six/part_08">part 08 ›</a></div>
 </nav>
 
+
+Tom, nevertheless, persisting in his intention, and opening his lips to
+speak again, Jonas set upon him like a savage; and in the quickness and
+ferocity of his attack would have surely done him some grievous injury,
+defenceless as he was, and embarrassed by having his frightened sister
+clinging to his arm, if Merry had not run between them, crying to
+Tom for the [[Love|love]] of Heaven to leave the [[house]]. The agony of this poor
+creature, the terror of his sister, the impossibility of making himself
+audible, and the equal impossibility of bearing up against Mrs Gamp, who
+threw herself upon him like a feather-bed, and forced him backwards down
+the stairs by the mere oppression of her dead weight, prevailed. Tom
+shook the [[Dust|dust]] of that [[house]] off his feet, without having mentioned
+Nadgett’s name.
 
 If the name could have passed his lips; if Jonas, in the insolence of
 his vile [[Nature|nature]], had never roused him to do that old act of manliness,
@@ -127,24 +140,3 @@ custom-’us, and his name was Mrs Harris’s own father, as pleasant a
 singer, Mr Chuzzlewit, as ever you heerd, with a voice like a Jew’s-harp
 in the bass notes, that it took six men to hold at sech times, foaming
 frightful.’
-
-‘Chuffey, eh?’ said Jonas carelessly, seeing that she went up to the
-old, clerk, and looked at him. ‘Ha!’
-
-‘The creetur’s head’s so hot,’ said Mrs Gamp, ‘that you might heat a
-flat-iron at it. And no [[Wonder|wonder]] I am sure, considerin’ the things he
-said!’
-
-‘Said!’ cried Jonas. ‘What did he say?’
-
-Mrs Gamp laid her hand upon her heart, to put some check upon its
-palpitations, and turning up her eyes replied in a faint voice:
-
-‘The awfulest things, Mr Chuzzlewit, as ever I heerd! Which Mrs Harris’s
-father never spoke a word when took so, some does and some don’t, except
-sayin’ when he come round, “Where is [[Sairey Gamp]]?” But raly, sir, when
-Mr Chuffey comes to ask who’s lyin’ dead upstairs, and--’
-
-‘Who’s lying dead upstairs!’ repeated Jonas, standing aghast.
-
-Mrs Gamp nodded, made as if she were swallowing, and went on.

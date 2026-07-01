@@ -14,119 +14,135 @@ tags:
 </nav>
 
 
-Thus scientists seldom understand, as artists understand,
-that one branch of the beautiful is the ugly.
-They seldom allow for the legitimate liberty of the [[Grotesque|grotesque]].
-And they will dismiss a savage myth as merely coarse and clumsy
-and an evidence of degradation, because it has not all the [[Beauty|beauty]]
-of the herald Mercury new lighted on a heaven-kissing [[Hill|hill]];
-when it really has the [[Beauty|beauty]] of the Mock Turtle or the Mad Hatter.
-It is the supreme proof of a man being prosaic that he always
-insists on poetry being poetical.  Sometimes the [[Humour|humour]]
-is in the very subject as [[Well|well]] as the style of the [[Fable|fable]].
-The Australian aborigines, regarded as the rudest of savages,
-have a story about a giant frog who had swallowed the sea and all
-the waters of the world; and who was only forced to spill them
-by being made to laugh.  All the [[Animals|animals]] with all their antics
-passed before him and, like [[Queen]] Victoria, he was not amused.
-He collapsed at last before an eel who stood delicately balanced
-on the tip of its tail, doubtless with a rather desperate dignity.
-Any amount of fine fantastic literature might be made out of that [[Fable|fable]].
-There is [[philosophy]] in that vision of the dry world before the beatific
-[[deluge|Deluge]] of laughter.  There is [[Imagination|imagination]] in the mountainous [[Monster|monster]]
-erupting like an aqueous volcano; there is plenty of fun in the thought
-of his goggling visage as the pelican or the penguin passed by.
-Anyhow the frog laughed; but the folk-lore student remains [[Grave|grave]].
+The unique possession was not available or accessible to the pagan
+world, because it was also the possession of a jealous people.
+The Jews were unpopular, partly because of this narrowness
+already noted in the Roman world, partly perhaps because they
+had already fallen into that habit of merely handling things
+for exchange instead of working to make them with their hands.
+It was partly also because polytheism had become a sort of jungle
+in which solitary monotheism could be lost; but it is strange to realise
+how completely it really was lost.  Apart from more disputed matters,
+there were things in the tradition of Israel which belong to all
+humanity now, and might have belonged to all humanity then.
+They had one of the colossal corner-stones of the world:
+the Book of Job.  It obviously stands over against the Iliad and
+the Greek tragedies; and even more than they it was an early meeting
+and parting of poetry and [[philosophy]] in the mornings of the world.
+It is a solemn and uplifting sight to see those two eternal fools,
+the optimist and the pessimist, destroyed in the [[Dawn|dawn]] of [[Time|time]].
+And the [[philosophy]] really perfects the pagan tragic irony,
+precisely because it is more monotheistic and therefore more mystical.
+Indeed the Book of Job avowedly only answers mystery with mystery.
+Job is comforted with riddles; but he is comforted.  Herein is indeed
+a type, in the sense of a prophecy, of things speaking with authority.
+For when he who doubts can only say 'I do not understand,' it is true
+that he who knows can only reply or repeat 'You do not understand.'
+And under that rebuke there is always a sudden [[Hope|hope]] in the heart;
+and the sense of something that would be worth understanding.
+But this mighty monotheistic poem remained unremarked by the whole
+world of antiquity, which was thronged with polytheistic poetry.
+It is a sign of the way in which the Jews stood apart and kept their
+tradition unshaken and unshared, that they should have kept a thing
+like the Book of Job out of the whole intellectual world of antiquity.
+It is as if the Egyptians had modestly concealed the Great Pyramid.
+But there were other reasons for a [[Cross|cross]]-purpose and an impasse,
+characteristic of the whole of the end of paganism.  After all,
+the tradition of Israel had only got hold of one-half of the [[Truth|truth]],
+even if we use the popular [[Paradox|paradox]] and call it the bigger half.
+I shall try to [[Sketch|sketch]] in the next chapter that [[Love|love]] of locality
+and personality that ran through mythology; here it need only be said
+that there was a [[Truth|truth]] in it that could not be let out though it
+were a lighter and less essential [[Truth|truth]].  The sorrow of Job had to be
+joined with the sorrow of [[Hector]]; and while the former was the sorrow
+of the universe the latter was the sorrow of the [[City|city]]; for [[Hector]]
+could only stand pointing to heaven as the pillar of holy Troy.
+When God speaks out of the whirlwind he may [[Well|well]] speak in the wilderness.
+But the monotheism of the nomad was not enough for all that varied
+civilisation of fields and fences and walled cities and temples
+and towns; and the turn of these things also was to come, when the
+two could be combined in a more definite and domestic religion.
+Here and there in all that pagan crowd could be found a philosopher
+whose thought ran of pure theism; but he never had, or supposed
+that he had, the power to change the customs of the whole populace.
+Nor is it easy even in such philosophies to find a true definition
+of this deep business of the relation of polytheism and theism.
+Perhaps the nearest we can come to striking the note, or giving
+the thing a name, is in something far away from all that civilisation
+and more remote from Rome than the isolation of Israel.
+It is in a saying I once heard from some Hindu tradition;
+that gods as [[Well|well]] as men are only the [[Dreams|dreams]] of Brahma; and will
+perish when Brahma wakes.  There is indeed in such an image something
+of the [[Soul|soul]] of Asia which is less sane than the [[Soul|soul]] of Christendom.
+We should call it [[Despair|despair]], even if they would call it peace.
+This note of nihilism can be considered later in a fuller comparison
+between Asia and Europe.  It is enough to say here that there
+is more of disillusion in that idea of a divine awakening than
+is implied for us in the passage from mythology to religion.
+But the symbol is very subtle and exact in one respect; that it does
+suggest the disproportion and even disruption between the very ideas
+of mythology and religion, the chasm between the two categories.
+It is really the collapse of comparative religion that there is no
+comparison between God and the gods.  There is no more comparison than
+there is between a man and the men who walked about in his [[Dreams|dreams]].
+Under the next heading some attempt will be made to indicate
+the twilight of that dream in which the gods walk about like men.
+But if anyone fancies the contrast of monotheism and polytheism is
+only a matter of some people having one god and others a few more,
+for him it will be far nearer the [[Truth|truth]] to plunge into the elephantine
+extravagance of Brahmin cosmology; that he may feel a shudder
+going through the veil of things, the many-handed creators,
+and the throned and haloed [[Animals|animals]] and all the network of entangled
+[[Stars|stars]] and rulers of the [[Night|night]], as the eyes of Brahma open like [[Dawn|dawn]]
+upon the [[Death|death]] of all.
 
-Moreover, even where the fables are inferior as art, they cannot be
-properly judged by science; still less properly judged as science.
-Some myths are very crude and queer like the early drawings of children;
-but the [[Child|child]] is trying to draw.  It is none the less an error to treat
-his drawing as if it were a diagram, or intended to be a diagram.
-The student cannot make a scientific statement about the savage,
-because the savage is not making a scientific statement about the world.
-He is saying something quite different; what might be called
-the gossip of the gods.  We may say, if we like, that it is believed
-before there is [[Time|time]] to examine it.  It would be truer to say it
-is accepted before there is [[Time|time]] to believe it.
+* * *
 
-I confess I [[Doubt|doubt]] the whole theory of the dissemination of myths or
-(as it commonly is) of one myth.  It is true that something in our
-[[Nature|nature]] and conditions makes many stories similar; but each of them
-may be original.  One man does not borrow the story from the other man,
-though he may tell it from the same motive as the other man.
-It would be easy to apply the whole argument about legend to literature;
-and turn it into a vulgar monomania of plagiarism.  I would undertake
-to trace a notion like that of the Golden Bough through individual
-modern novels as easily as through communal and antiquated myths.
-I would undertake to find something like a bunch of [[Flowers|flowers]]
-figuring again and again from the fatal bouquet of Becky Sharpe
-to the spray of roses sent by the Princess of Ruritania.
-But though these [[Flowers|flowers]] may [[Spring|spring]] from the same soil,
-it is not the same faded flower that is flung from hand to hand.
-Those [[Flowers|flowers]] are always fresh.
+V
 
-The true origin of all the myths has been discovered much too often.
-There are too many keys to mythology, as there are too many cryptograms
-in Shakespeare.  Everything is phallic; everything is totemistic;
-everything is seed-[[Time|time]] and harvest; everything is [[Ghosts|ghosts]]
-and [[Grave|grave]]-offerings; everything is the golden bough of sacrifice;
-everything is the sun and [[Moon|moon]]; everything is everything.
-Every folk-lore student who knew a little more than his own monomania,
-every man of wider reading and critical culture like Andrew Lang,
-has practically confessed that the bewilderment of these things left his
-brain spinning.  Yet the whole trouble comes from a man trying to look
-at these stories from the outside, as if they were scientific objects.
-He has only to look at them from the inside, and ask himself how he would
-begin a story.  A story may start with anything and go anywhere.
-It may start with a bird without the bird being a totem;
-it may start with the sun without being a solar myth.  It is said
-there are only ten plots in the world; and there will certainly
-be common and recurrent elements.  Set ten thousand children talking
-at once, and telling tarradiddles about what they did in the wood,
-and it will not be hard to find parallels suggesting sun-worship
-or animal worship.  Some of the stories may be pretty and some silly
-and some perhaps dirty; but they can only be judged as stories.
-In the modern dialect, they can only be judged aesthetically.
-It is strange that aesthetics, or mere feeling, which is now allowed
-to usurp where it has no rights at all, to wreck reason with pragmatism
-and morals with anarchy, is apparently not allowed to give a purely
-aesthetic judgement on what is obviously a purely aesthetic question.
-We may be fanciful about everything except fairy-tales.
+MAN AND MYTHOLOGIES
 
-Now the first fact is that the most simple people have the most
-subtle ideas.  Everybody ought to know that, for everybody
-has been a [[Child|child]].  Ignorant as a [[Child|child]] is, he knows more than
-he can say and feels not only atmospheres but fine shades.
-And in this matter there are several fine shades.  Nobody understands
-it who has not had what can only be called the ache of the [[artist]]
-to find some sense and some story in the beautiful things he sees;
-his hunger for [[Secrets|secrets]] and his anger at any tower or tree escaping
-with its tale untold.  He feels that nothing is perfect unless
-it is personal.  Without that the blind unconscious [[Beauty|beauty]]
-of the world stands in its [[Garden|garden]] like a headless statue.
-One need only be a very minor poet to have wrestled with the tower
-or the tree until it spoke like a titan or a dryad.  It is often said
-that pagan mythology was a personification of the powers of [[Nature|nature]].
-The phrase is true in a sense, but it is very unsatisfactory;
-because it implies that the forces are abstractions and
-the personification is artificial.  Myths are not allegories.
-Natural powers are not in this case abstractions.  It is not as if there
-were a God of Gravitation.  There may be a genius of the waterfall;
-but not of mere falling, even less than of mere [[Water|water]].
-The impersonation is not of something impersonal.  The point
-is that the personality perfects the [[Water|water]] with significance.
-Father Christmas is not an [[Allegory|allegory]] of [[Snow|snow]] and holly;
-he is not merely the stuff called [[Snow|snow]] afterwards artificially
-given a human form, like a [[Snow|snow]] man.  He is something that gives
-a new meaning to the white world and the evergreens, so that [[Snow|snow]]
-itself seems to be warm rather than cold.  The test therefore
-is purely imaginative.  But imaginative does not mean imaginary.
-It does not follow that it is all what the moderns call subjective,
-when they mean false.  Every true [[artist]] does feel, consciously
-or unconsciously, that he is touching transcendental truths;
-that his images are shadows of things seen through the veil.
-In other words, the natural mystic does know that there is
-something there; something behind the clouds or within the trees;
-but he believes that the pursuit of [[Beauty|beauty]] is the way to find it;
-that [[Imagination|imagination]] is a sort of incantation that can call it up.
+What are here called the Gods might almost alternatively be called
+the day-[[Dreams|dreams]]. To compare them to [[Dreams|dreams]] is not to deny that [[Dreams|dreams]]
+can come true.  To compare them to travellers' tales is not to
+deny that they may be true tales, or at least truthful tales.
+In [[Truth|truth]] they are the sort of tales the traveller tells to himself.
+All this mythological business belongs to the poetical part of men.
+It seems strangely forgotten nowadays that a myth is a work of
+[[Imagination|imagination]] and therefore a work of art.  It needs a poet to make it.
+It needs a poet to criticise it.  There are more poets than non-poets
+in the world, as is proved by the popular origin of such legends.
+But for some reason I have never heard explained, it is only
+the minority of unpoetical people who are allowed to write critical
+studies of these popular [[Poems|poems]].  We do not submit a [[Sonnet|sonnet]] to a
+mathematician or a [[Song|song]] to a calculating boy; but we do indulge
+the equally fantastic idea that folk-lore can be treated as a science.
+Unless these things are appreciated artistically they are not
+appreciated at all.  When [[The Professor|the professor]] is told by the Polynesian
+that once there was nothing except a great feathered serpent,
+unless the learned man feels a thrill and a half [[Temptation|temptation]]
+to wish it were true, he is no judge of such things at all.
+When he is assured, on the best Red Indian authority, that a
+primitive [[Hero|hero]] carried the sun and [[Moon|moon]] and [[Stars|stars]] in a box,
+unless he clasps his hands and almost kicks his legs as a [[Child|child]]
+would at such a charming fancy, he knows nothing about the matter.
+This test is not nonsensical; primitive children and barbaric
+children do laugh and kick like other children; and we must have
+a certain simplicity to repicture the [[Childhood|childhood]] of the world.
+When Hiawatha was told by his [[Nurse|nurse]] that a warrior threw his
+grandmother up to the [[Moon|moon]], he laughed like any English [[Child|child]] told
+by his [[Nurse|nurse]] that a cow jumped over the [[Moon|moon]].  The [[Child|child]] sees
+the joke as [[Well|well]] as most men, and better than some scientific men.
+But the ultimate test even of the fantastic is the appropriateness
+of the inappropriate.  And the test must appear merely arbitrary
+because it is merely artistic.  If any student tells me that
+the infant Hiawatha only laughed out of respect for tribal custom
+of sacrificing the aged to economical housekeeping, I say he did not.
+If any scholar tells me that the cow jumped over the [[Moon|moon]] only
+because a heifer was sacrificed to [[Diana]], I answer that it did not.
+It happened because it is obviously the right thing for a cow
+to jump over the [[Moon|moon]].  Mythology is a lost art, one of the few
+arts that really are lost; but it is an art.  The horned [[Moon|moon]] and
+the horned mooncalf make a harmonious and almost a quiet pattern.
+And throwing your grandmother into the sky is not good behaviour;
+but it is perfectly good taste.

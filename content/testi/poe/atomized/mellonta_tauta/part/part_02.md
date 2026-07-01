@@ -1,5 +1,5 @@
 ---
-title: "[[Mellonta Tauta]] (part 2)"
+title: "Mellonta Tauta (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/mellonta-tauta-(poe)"
@@ -12,6 +12,12 @@ tags:
 <div class="excerpt-crumb">Poe · <a href="/works/mellonta-tauta-(poe)">Mellonta Tauta</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/mellonta_tauta/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/mellonta_tauta/part/part_03">part 03 ›</a></div>
 </nav>
+
+
+      times, but with almost infinite repetitions, the same opinions
+
+      come round in a circle among men.”
+
 
 
       April 2.—Spoke to-day the magnetic cutter in charge of the middle
@@ -183,13 +189,3 @@ tags:
       found to come under neither the category Aries (that is to say
 
       Ram) nor under the category Hog, why then the savans went no
-
-      farther, but pronounced the “theorist” a [[Fool|fool]], and would have
-
-      nothing to do with him or his [[Truth|truth]].
-
-
-
-      Now, it cannot be maintained, even, that by the crawling system
-
-      the greatest amount of [[Truth|truth]] would be attained in any long series

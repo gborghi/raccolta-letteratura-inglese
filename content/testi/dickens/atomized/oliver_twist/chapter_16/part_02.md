@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 16 (part 2)"
+title: "Oliver Twist — Chapter 16 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_16/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_16/part_03">part 03 ›</a></div>
 </nav>
 
+
+The young gentleman did not stop to bestow any other mark of
+recognition upon [[Oliver]] than a humourous grin; but, turning away,
+beckoned the visitors to follow him down a flight of stairs. They
+crossed an empty kitchen; and, opening the door of a low
+earthy-smelling room, which seemed to have been built in a small
+back-yard, were received with a shout of laughter.
 
 “Oh, my wig, my wig!” cried Master Charles Bates, from whose lungs the
 laughter had proceeded: “here he is! oh, cry, here he is! Oh, [[Fagin]],
@@ -130,25 +137,3 @@ by the dog, unless you kill me first.”
 
 “Shan’t he!” said Sikes, setting his teeth. “I’ll soon do that, if you
 don’t keep off.”
-
-The housebreaker flung the girl from him to the further end of the
-room, just as the Jew and the two boys returned, dragging [[Oliver]] among
-them.
-
-“What’s the matter here!” said [[Fagin]], looking round.
-
-“The girl’s gone mad, I think,” replied Sikes, savagely.
-
-“No, she hasn’t,” said [[Nancy]], pale and breathless from the scuffle;
-“no, she hasn’t, [[Fagin]]; don’t think it.”
-
-“Then keep quiet, will you?” said the Jew, with a threatening look.
-
-“No, I won’t do that, neither,” replied [[Nancy]], speaking very loud.
-“Come! What do you think of that?”
-
-Mr. [[Fagin]] was sufficiently [[Well|well]] acquainted with the manners and customs
-of that particular species of humanity to which [[Nancy]] belonged, to feel
-tolerably certain that it would be rather unsafe to prolong any
-conversation with her, at present. With the view of diverting the
-attention of the company, he turned to [[Oliver]].

@@ -1,5 +1,5 @@
 ---
-title: "[[The Mystery of Marie Roget]] (part 10)"
+title: "The Mystery of Marie Roget (part 10)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-mystery-of-marie-roget-(poe)"
@@ -13,6 +13,64 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_mystery_of_marie_roget/part/part_09">‹ part 09</a><a class="ex-next" href="/testi/poe/atomized/the_mystery_of_marie_roget/part/part_11">part 11 ›</a></div>
 </nav>
 
+
+      might have been found floating at any period afterwards whatever.
+
+
+
+      “‘But,’ says L’Etoile, ‘if the [[Body|body]] had been kept in its mangled
+
+      state on shore until Tuesday [[Night|night]], some trace would be found on
+
+      shore of the murderers.’ Here it is at first difficult to
+
+      perceive the intention of the reasoner. He means to anticipate
+
+      what he imagines would be an objection to his theory—viz.: that
+
+      the [[Body|body]] was kept on shore two days, [[Suffering|suffering]] rapid
+
+      decomposition—more rapid than if immersed in [[Water|water]]. He supposes
+
+      that, had this been the case, it might have appeared at the
+
+      surface on the Wednesday, and thinks that only under such
+
+      circumstances it could so have appeared. He is accordingly in
+
+      haste to show that it was not kept on shore; for, if so, ‘some
+
+      trace would be found on shore of the murderers.’ I presume you
+
+      smile at the sequitur. You cannot be made to see how the mere
+
+      duration of the corpse on the shore could operate to multiply
+
+      traces of the assassins. Nor can I.
+
+
+
+      “‘And furthermore it is exceedingly improbable,’ continues our
+
+      journal, ‘that any villains who had committed such a murder as is
+
+      here supposed, would have thrown the [[Body|body]] in without weight to
+
+      sink it, when such a precaution could have so easily been taken.’
+
+      Observe, here, the laughable confusion of thought! No one—not
+
+      even L’Etoile—disputes the murder committed _on the [[Body|body]] found_.
+
+      The marks of violence are too obvious. It is our reasoner’s
+
+      object merely to show that this [[Body|body]] is not Marie’s. He wishes to
+
+      prove that Marie is not assassinated—not that the corpse was not.
+
+      Yet his observation proves only the latter point. Here is a
+
+      corpse without weight attached. Murderers, casting it in, would
 
       not have failed to attach a weight. Therefore it was not thrown
 
@@ -135,59 +193,3 @@ tags:
       packages,’ you so far augment the probability as to verge upon
 
       the certain. What, of itself, would be no evidence of [[Identity|identity]],
-
-      becomes through its corroborative position, proof most sure. Give
-
-      us, then, [[Flowers|flowers]] in the hat corresponding to those worn by the
-
-      missing girl, and we seek for nothing farther. If only one
-
-      flower, we seek for nothing farther—what then if two or three, or
-
-      more? Each successive one is multiple evidence—proof not _added_
-
-      to proof, but multiplied by hundreds or thousands. Let us now
-
-      discover, upon the deceased, garters such as the living used, and
-
-      it is almost folly to proceed. But these garters are found to be
-
-      tightened, by the setting back of a clasp, in just such a manner
-
-      as her own had been tightened by Marie, shortly previous to her
-
-      leaving [[Home|home]]. It is now [[Madness|madness]] or hypocrisy to [[Doubt|doubt]]. What
-
-      L’Etoile says in respect to this abbreviation of the garters
-
-      being an usual occurrence, shows nothing beyond its own
-
-      pertinacity in error. The elastic [[Nature|nature]] of the clasp-garter is
-
-      [[Self|self]]-demonstration of the unusualness of the abbreviation. What
-
-      is made to adjust itself, must of necessity require foreign
-
-      adjustment but rarely. It must have been by an accident, in its
-
-      strictest sense, that these garters of Marie needed the
-
-      tightening described. They [[Alone|alone]] would have amply established her
-
-      [[Identity|identity]]. But it is not that the corpse was found to have the
-
-      garters of the missing girl, or found to have her shoes, or her
-
-      bonnet, or the [[Flowers|flowers]] of her bonnet, or her feet, or a peculiar
-
-      mark upon the arm, or her general size and appearance—it is that
-
-      the corpse had each, and _all collectively_. Could it be proved
-
-      that the editor of L’Etoile _really_ entertained a [[Doubt|doubt]], under
-
-      the circumstances, there would be no need, in his case, of a
-
-      commission de lunatico inquirendo. He has thought it sagacious to
-
-      echo the small talk of the lawyers, who, for the most part,

@@ -1,5 +1,5 @@
 ---
-title: "[[innocence]] — The Queer Feet (part 4)"
+title: "innocence — The Queer Feet (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"

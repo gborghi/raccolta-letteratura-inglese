@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 52: I ASSIST AT AN EXPLOSION"
+title: "David Copperfield — Chapter 52: I ASSIST AT AN EXPLOSION"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/david-copperfield-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_51_the_beginning_of_a_longer_jour">‹ Chapter 51 THE BEGINNING OF A LONGER JOUR</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_53_another_retrospect">Chapter 53 ANOTHER RETROSPECT ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_51_the_beginning_of_a_longer_jour">‹ Chapter 51 THE BEGINNING OF A LONGER Jour</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_53_another_retrospect">Chapter 53 ANOTHER RETROSPECT ›</a></div>
 </nav>
 
 

@@ -1,5 +1,5 @@
 ---
-title: "The Two Noble Kinsmen — Act II, Scene 2 — monologue ([[Palamon|PALAMON]]) [8]"
+title: "The Two Noble Kinsmen — Act II, Scene 2 — monologue (PALAMON) [8]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-two-noble-kinsmen-(shakespeare)"

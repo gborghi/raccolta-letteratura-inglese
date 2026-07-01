@@ -62,23 +62,23 @@ tags:
 - [Story 01 A Discussion Somewhat in the Air](/testi/chesterton/atomized/ball_and_cross/story_01_a_discussion_somewhat_in_the_air)
 - [Story 02 The Religion of the Stipendiary Magistra](/testi/chesterton/atomized/ball_and_cross/story_02_the_religion_of_the_stipendiary_magistra)
 - [Story 03 Some Old Curiosities](/testi/chesterton/atomized/ball_and_cross/story_03_some_old_curiosities)
-- [Story 04 A Discussion at Dawn](/testi/chesterton/atomized/ball_and_cross/story_04_a_discussion_at_dawn)
-- [Story 05 The Peacemaker](/testi/chesterton/atomized/ball_and_cross/story_05_the_peacemaker)
-- [Story 06 The Other Philosopher](/testi/chesterton/atomized/ball_and_cross/story_06_the_other_philosopher)
-- [Story 07 The Village of Grassley in the Hole](/testi/chesterton/atomized/ball_and_cross/story_07_the_village_of_grassley_in_the_hole)
-- [Story 08 An Interlude of Argument](/testi/chesterton/atomized/ball_and_cross/story_08_an_interlude_of_argument)
-- [Story 09 The Strange Lady](/testi/chesterton/atomized/ball_and_cross/story_09_the_strange_lady)
-- [Story 10 The Swords Rejoined](/testi/chesterton/atomized/ball_and_cross/story_10_the_swords_rejoined)
-- [Story 11 A Scandal in the Village](/testi/chesterton/atomized/ball_and_cross/story_11_a_scandal_in_the_village)
-- [Story 12 The Desert Island](/testi/chesterton/atomized/ball_and_cross/story_12_the_desert_island)
-- [Story 13 The Garden of Peace](/testi/chesterton/atomized/ball_and_cross/story_13_the_garden_of_peace)
-- [Story 14 A Museum of Souls](/testi/chesterton/atomized/ball_and_cross/story_14_a_museum_of_souls)
-- [Story 15 The Dream of MacIan](/testi/chesterton/atomized/ball_and_cross/story_15_the_dream_of_macian)
-- [Story 16 The Dream of Turnbull](/testi/chesterton/atomized/ball_and_cross/story_16_the_dream_of_turnbull)
-- [Story 17 The Idiot](/testi/chesterton/atomized/ball_and_cross/story_17_the_idiot)
-- [Story 18 A Riddle of Faces](/testi/chesterton/atomized/ball_and_cross/story_18_a_riddle_of_faces)
-- [Story 19 The Last Parley](/testi/chesterton/atomized/ball_and_cross/story_19_the_last_parley)
-- [Story 20 Dies Irae](/testi/chesterton/atomized/ball_and_cross/story_20_dies_irae)
+- Story 04 A Discussion at Dawn
+- Story 05 The Peacemaker
+- Story 06 The Other Philosopher
+- Story 07 The Village of Grassley in the Hole
+- Story 08 An Interlude of Argument
+- Story 09 The Strange Lady
+- Story 10 The Swords Rejoined
+- Story 11 A Scandal in the Village
+- Story 12 The Desert Island
+- Story 13 The Garden of Peace
+- Story 14 A Museum of Souls
+- Story 15 The Dream of MacIan
+- Story 16 The Dream of Turnbull
+- Story 17 The Idiot
+- Story 18 A Riddle of Faces
+- Story 19 The Last Parley
+- Story 20 Dies Irae
 
 ## Testo integrale / Full text
 

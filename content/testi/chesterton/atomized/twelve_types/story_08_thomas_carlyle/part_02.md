@@ -14,6 +14,14 @@ tags:
 </nav>
 
 
+forget that there are two parts of a logical process--the first the
+
+choosing of an assumption, and the second the arguing upon it; and
+
+humanity, if it devotes itself too persistently to the study of sound
+
+reasoning, has a certain tendency to lose the faculty of sound
+
 assumption. It is astonishing how constantly one may hear from rational
 
 and even rationalistic persons such a phrase as 'He did not prove the
@@ -42,11 +50,7 @@ denies any such duty at the very start, and regards man as an animal
 
 who has preferences, as a bird has feathers.
 
-
-
        *       *       *       *       *
-
-
 
 Thus it was with Carlyle: he startled men by attacking not arguments but
 
@@ -74,8 +78,6 @@ according to him depended entirely upon whether we chose or deserved to
 
 be.
 
-
-
 He denied every type and species of prop or association or support which
 
 threw the responsibility upon civilisation or society, or anything but
@@ -87,8 +89,6 @@ ground of the [[Truth|truth]] of this phrase is often neglected. Since the last
 era of purely religious literature, the era of English [[Puritanism]], there
 
 has been no writer in whose eyes the [[Soul|soul]] stood so much [[Alone|alone]].
-
-
 
 Carlyle was, as we have suggested, a mystic, and mysticism was with him,
 
@@ -179,17 +179,3 @@ Petrarch and Shakespeare were pessimists when they were [[Melancholy|melancholy]
 optimists when they were happy. But the optimist of to-day seems obliged
 
 to prove that gout and unrequited [[Love|love]] make him [[Dance|dance]] with joy, and the
-
-pessimist of to-day to prove that sunshine and a good supper convulse
-
-him with inconsolable anguish. Carlyle was strongly possessed with this
-
-mania for spiritual consistency. He wished to take the same view of the
-
-wars of the angels and of the paltriest riot at Donnybrook Fair. It was
-
-this species of insane [[logic]] which led him into his chief errors, never
-
-his natural enthusiasms. Let us take an example. Carlyle's defence of
-
-[[Slavery|slavery]] is a thoroughly ridiculous thing, weak alike in argument and in

@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/poet-and-lunatics-(chesterton)">Poet and Lunatics</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/poet_and_lunatics/story_07_the_purple_jewel/part_08">‹ part 08</a><a class="ex-next" href="/testi/chesterton/atomized/poet_and_lunatics/story_08_the_asylum_of_adventure/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/poet_and_lunatics/story_07_the_purple_jewel_jewel/part_08">‹ part 08</a><a class="ex-next" href="/testi/chesterton/atomized/poet_and_lunatics/story_08_the_asylum_of_adventure/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -98,7 +98,6 @@ to the beginning of the whole business that ended in the little
 Cornish churchyard; and as he went briskly on his way he rehearsed
 all the details of that old story, which he was to tell to the lady
 at his [[Journey|journey]]'s end.
-
 
 Nearly fourteen years before, Gabriel Gale had come of age and
 inherited the moderate debts and the small freehold of a rather

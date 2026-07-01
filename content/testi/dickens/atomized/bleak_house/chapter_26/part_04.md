@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 26 (part 4)"
+title: "Bleak House — Chapter 26 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,26 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_26/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_26/part_05">part 05 ›</a></div>
 </nav>
 
+
+Mr. George answers with a cool nod, adding, “Go on. You have not come
+to say that, I know.”
+
+“You are so sprightly, Mr. George,” returns the venerable
+grandfather. “You are such good company.”
+
+“Ha ha! Go on!” says Mr. George.
+
+“My dear friend! But that [[Sword|sword]] looks awful gleaming and sharp. It
+might cut somebody, by accident. It makes me shiver, Mr. George.
+Curse him!” says the excellent old gentleman apart to Judy as the
+trooper takes a step or two away to lay it aside. “He owes me money,
+and might think of paying off old scores in this murdering place. I
+wish your brimstone grandmother was here, and he’d shave her head
+off.”
+
+Mr. George, returning, folds his arms, and looking down at the old
+man, sliding every moment lower and lower in his chair, says quietly,
+“Now for it!”
 
 “Ho!” cries Mr. Smallweed, rubbing his hands with an artful chuckle.
 “Yes. Now for it. Now for what, my dear friend?”
@@ -127,35 +147,3 @@ Speak!”
 “My dear friend,” returns the old man, “I was applied—Judy, shake me
 up a little!—I was applied to yesterday about the captain, and my
 opinion still is that the captain is not dead.”
-
-“Bosh!” observes Mr. George.
-
-“What was your remark, my dear friend?” inquires the old man with his
-hand to his ear.
-
-“Bosh!”
-
-“Ho!” says Grandfather Smallweed. “Mr. George, of my opinion you can
-judge for yourself according to the questions asked of me and the
-reasons given for asking ’em. Now, what do you think the lawyer
-making the inquiries wants?”
-
-“A job,” says Mr. George.
-
-“Nothing of the kind!”
-
-“Can’t be a lawyer, then,” says Mr. George, folding his arms with an
-air of confirmed resolution.
-
-“My dear friend, he is a lawyer, and a famous one. He wants to see
-some [[Fragment|fragment]] in Captain Hawdon’s writing. He don’t want to keep it.
-He only wants to see it and compare it with a writing in his
-possession.”
-
-“[[Well]]?”
-
-“[[Well]], Mr. George. Happening to remember the advertisement concerning
-Captain Hawdon and any information that could be given respecting
-him, he looked it up and came to me—just as you did, my dear friend.
-WILL you shake hands? So glad you came that day! I should have missed
-forming such a [[Friendship|friendship]] if you hadn’t come!”

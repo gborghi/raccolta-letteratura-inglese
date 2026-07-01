@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 1: I AM BORN (part 4)"
+title: "David Copperfield — Chapter 1: I AM BORN (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_01_i_am_born/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_02_i_observe/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘How much?’ asked Miss Betsey.
+
+‘A hundred and five pounds a year,’ said my mother.
+
+‘He might have done worse,’ said my aunt.
+
+The word was appropriate to the moment. My mother was so much worse
+that Peggotty, coming in with the teaboard and candles, and seeing at a
+glance how ill she was,--as Miss Betsey might have done sooner if there
+had been light enough,--conveyed her upstairs to her own room with all
+[[Speed|speed]]; and immediately dispatched Ham Peggotty, her nephew, who had been
+for some days past secreted in the [[house]], unknown to my mother, as a
+special messenger in case of emergency, to fetch the [[Nurse|nurse]] and doctor.
 
 Those allied powers were considerably astonished, when they arrived
 within a few minutes of each other, to find an unknown lady of

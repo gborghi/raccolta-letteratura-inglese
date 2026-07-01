@@ -1,5 +1,5 @@
 ---
-title: "[[Timon]] of Athens — Act V, Scene 5 — monologue (SHORTLY) [3]"
+title: "Timon of Athens — Act V, Scene 5 — monologue (SHORTLY) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/timon-of-athens-(shakespeare)"

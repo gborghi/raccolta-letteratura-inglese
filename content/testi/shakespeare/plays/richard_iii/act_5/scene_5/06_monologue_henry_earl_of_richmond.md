@@ -1,5 +1,5 @@
 ---
-title: "[[Richard III]] — Act V, Scene 5 — monologue (HENRY [[Earl of Richmond|EARL OF RICHMOND]]) [6]"
+title: "Richard III — Act V, Scene 5 — monologue (HENRY EARL OF RICHMOND) [6]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/richard-iii-(shakespeare)"

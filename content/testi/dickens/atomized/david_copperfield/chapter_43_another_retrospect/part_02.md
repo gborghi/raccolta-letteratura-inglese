@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 43: ANOTHER RETROSPECT (part 2)"
+title: "David Copperfield — Chapter 43: ANOTHER RETROSPECT (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_43_another_retrospect/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_43_another_retrospect/part_03">part 03 ›</a></div>
 </nav>
 
+
+Nevertheless, I am in [[A Dream|a dream]], a flustered, happy, hurried dream. I
+can’t believe that it is going to be; and yet I can’t believe but that
+everyone I pass in the street, must have some kind of perception, that I
+am to be married the day after tomorrow. The Surrogate knows me, when
+I go down to be sworn; and disposes of me easily, as if there were a
+Masonic understanding between us. Traddles is not at all wanted, but is
+in attendance as my general backer.
 
 ‘I [[Hope|hope]] the next [[Time|time]] you come here, my dear fellow,’ I say to Traddles,
 ‘it will be on the same errand for yourself. And I [[Hope|hope]] it will be
@@ -117,14 +125,3 @@ who is to give my darling to me at the altar, has had his hair curled.
 Traddles, whom I have taken up by appointment at the turnpike, presents
 a dazzling combination of cream colour and light blue; and both he and
 Mr. Dick have a general effect about them of being all gloves.
-
-No [[Doubt|doubt]] I see this, because I know it is so; but I am astray, and seem
-to see nothing. Nor do I believe anything whatever. Still, as we drive
-along in an open carriage, this fairy [[Marriage|marriage]] is real enough to fill
-me with a sort of wondering pity for the unfortunate people who have
-no part in it, but are sweeping out the shops, and going to their daily
-occupations.
-
-My aunt sits with my hand in hers all the way. When we stop a little way
-short of the church, to put down Peggotty, whom we have brought on the
-box, she gives it a squeeze, and me a kiss.

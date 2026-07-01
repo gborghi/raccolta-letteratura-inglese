@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 59 (part 5)"
+title: "Bleak House — Chapter 59 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,31 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_59/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_60/part_01">part 01 ›</a></div>
 </nav>
 
+
+“And did she go—”
+
+“Yes,” cried the girl, anticipating the inquiry. “Yes! She went the
+way I had shown her. Then I came in, and Mrs. Snagsby came behind me
+from somewhere and laid hold of me, and I was frightened.”
+
+Mr. Woodcourt took her kindly from me. Mr. Bucket wrapped me up, and
+immediately we were in the street. Mr. Woodcourt hesitated, but I
+said, “Don’t leave me now!” and Mr. Bucket added, “You’ll be better
+with us, we may want you; don’t lose [[Time|time]]!”
+
+I have the most confused impressions of that walk. I recollect that
+it was neither [[Night|night]] nor day, that morning was dawning but the
+street-lamps were not yet put out, that the sleet was still falling
+and that all the ways were deep with it. I recollect a few chilled
+people passing in the streets. I recollect the wet [[house]]-tops, the
+clogged and bursting gutters and [[Water|water]]-spouts, the mounds of
+blackened ice and [[Snow|snow]] over which we passed, the narrowness of the
+courts by which we went. At the same [[Time|time]] I remember that the poor
+girl seemed to be yet telling her story audibly and plainly in my
+hearing, that I could feel her resting on my arm, that the stained
+[[house]]-fronts put on human shapes and looked at me, that great
+[[Water|water]]-gates seemed to be opening and closing in my head or in the
+air, and that the unreal things were more substantial than the real.
 
 At last we stood under a dark and miserable covered way, where one
 lamp was burning over an iron gate and where the morning faintly

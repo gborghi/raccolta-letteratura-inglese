@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 44 (part 1)"
+title: "Nicholas Nickleby — Chapter 44 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -138,8 +138,3 @@ since? Was he here this morning?’
 ‘If he comes while I am out--he is pretty sure to be here by nine
 tonight--let him wait. And if there’s another man with him, as there
 will be--perhaps,’ said Ralph, checking himself, ‘let him wait too.’
-
-‘Let ‘em both wait?’ said Newman.
-
-‘Ay,’ replied Ralph, turning upon him with an angry look. ‘Help me on
-with this spencer, and don’t repeat after me, like a croaking parrot.’

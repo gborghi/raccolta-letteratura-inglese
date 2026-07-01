@@ -116,15 +116,3 @@ that interests him or wait till he has the vision of everything.
 We may warn him, however, that the vision of everything is a rather
 curious thing, and a man who has it generally either dies of terror
 or is happy for the rest of his days.
-
-Chaos in the scheme, however, could be easily forgiven if there
-were merit in the parts.  But we must confess that reading these long
-metrical meditations reminds us of nothing so much as drinking
-innumerable gallons of luke-warm [[Water|water]].  The cold [[Water|water]] of reason
-is good and the boiling [[Water|water]] of religious passion is good;
-but this is not fully and sincerely either logical or religious.
-It is made up of the reflections of one of those gentlemen
-who occupy their very numerous spare hours by having spiritual
-doubts with which no reasonable person ought to be troubled
-and crushing them with replies with which no reasonable person
-ought to be satisfied.

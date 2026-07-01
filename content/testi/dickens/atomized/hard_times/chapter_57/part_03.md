@@ -1,5 +1,5 @@
 ---
-title: "Hard Times — Chapter 2 (part 3)"
+title: "Hard Times — Chapter 4 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/hard-times-(dickens)"
@@ -10,91 +10,80 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/hard-times-(dickens)">Hard Times</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/hard_times/chapter_57/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/hard_times/chapter_59/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/hard_times/chapter_57/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/hard_times/chapter_58/part_01">part 01 ›</a></div>
 </nav>
 
 
-‘You are a singular politician,’ said Louisa.
+Then Slackbridge, who had kept his oratorical arm extended during the
+going out, as if he were repressing with infinite solicitude and by a
+wonderful moral power the vehement passions of the multitude, applied
+himself to raising their spirits.  Had not the Roman [[Brutus]], oh, my
+British countrymen, condemned his son to [[Death|death]]; and had not the Spartan
+mothers, oh my soon to be victorious friends, driven their flying
+children on the points of their enemies’ swords?  Then was it not the
+sacred duty of the men of Coketown, with forefathers before them, an
+admiring world in company with them, and a posterity to come after them,
+to hurl out traitors from the tents they had pitched in a sacred and a
+God-like cause?  The winds of heaven answered Yes; and bore Yes, east,
+west, north, and south.  And consequently three cheers for the United
+Aggregate Tribunal!
 
-‘Pardon me; I have not even that merit.  We are the largest party in the
-state, I assure you, Mrs. Bounderby, if we all fell out of our adopted
-ranks and were reviewed together.’
+Slackbridge acted as fugleman, and gave the [[Time|time]].  The multitude of
+doubtful faces (a little [[Conscience|conscience]]-stricken) brightened at the sound,
+and took it up.  Private feeling must yield to the common cause.  Hurrah!
+The roof yet vibrated with the cheering, when the assembly dispersed.
 
-Mr. Bounderby, who had been in danger of bursting in [[Silence|silence]], interposed
-here with a project for postponing the family dinner till half-past six,
-and taking Mr. [[James Harthouse]] in the meantime on a round of visits to
-the voting and interesting notabilities of Coketown and its vicinity.
-The round of visits was made; and Mr. [[James Harthouse]], with a discreet
-use of his blue coaching, came off triumphantly, though with a
-considerable accession of boredom.
+Thus easily did [[Stephen Blackpool]] fall into the loneliest of lives, the
+life of [[Solitude|solitude]] among a familiar crowd.  The stranger in the land who
+looks into ten thousand faces for some answering look and never finds it,
+is in cheering society as compared with him who passes ten averted faces
+daily, that were once the countenances of friends.  Such experience was
+to be Stephen’s now, in every waking moment of his life; at his work, on
+his way to it and from it, at his door, at his [[Window|window]], everywhere.  By
+general consent, they even avoided that side of the street on which he
+habitually walked; and left it, of all the working men, to him only.
 
-In the evening, he found the dinner-table laid for four, but they sat
-down only three.  It was an appropriate occasion for Mr. Bounderby to
-discuss the flavour of the hap’orth of stewed eels he had purchased in
-the streets at eight years old; and also of the inferior [[Water|water]], specially
-used for laying the [[Dust|dust]], with which he had washed down that repast.  He
-likewise entertained his guest over the soup and fish, with the
-calculation that he (Bounderby) had eaten in his youth at least three
-horses under the guise of polonies and saveloys.  These recitals, Jem, in
-a languid manner, received with ‘charming!’ every now and then; and they
-probably would have decided him to ‘go in’ for Jerusalem again to-morrow
-morning, had he been less curious respecting Louisa.
+He had been for many years, a quiet silent man, associating but little
+with other men, and used to companionship with his own thoughts.  He had
+never known before the strength of the want in his heart for the frequent
+recognition of a nod, a look, a word; or the immense amount of relief
+that had been poured into it by drops through such small means.  It was
+even harder than he could have believed possible, to separate in his own
+[[Conscience|conscience]] his abandonment by all his fellows from a baseless sense of
+shame and disgrace.
 
-‘Is there nothing,’ he thought, glancing at her as she sat at the head of
-the table, where her youthful figure, small and slight, but very
-graceful, looked as pretty as it looked misplaced; ‘is there nothing that
-will move that face?’
+The first four days of his [[Endurance|endurance]] were days so long and heavy, that he
+began to be appalled by the prospect before him.  Not only did he see no
+Rachael all the [[Time|time]], but he avoided every chance of seeing her; for,
+although he knew that the prohibition did not yet formally extend to the
+women working in the factories, he found that some of them with whom he
+was acquainted were changed to him, and he feared to try others, and
+dreaded that Rachael might be even singled out from the rest if she were
+seen in his company.  So, he had been quite [[Alone|alone]] during the four days,
+and had spoken to no one, when, as he was leaving his work at [[Night|night]], a
+young man of a very light complexion accosted him in the street.
 
-Yes!  By Jupiter, there was something, and here it was, in an unexpected
-shape.  Tom appeared.  She changed as the door opened, and broke into a
-beaming smile.
+‘Your name’s Blackpool, ain’t it?’ said the young man.
 
-A beautiful smile.  Mr. [[James Harthouse]] might not have thought so much of
-it, but that he had wondered so long at her impassive face.  She put out
-her hand—a pretty little soft hand; and her fingers closed upon her
-brother’s, as if she would have carried them to her lips.
+Stephen coloured to find himself with his hat in his hand, in his
+gratitude for being spoken to, or in the suddenness of it, or both.  He
+made a feint of adjusting the lining, and said, ‘Yes.’
 
-‘Ay, ay?’ thought the visitor.  ‘This whelp is the only creature she
-cares for.  So, so!’
+‘You are the Hand they have sent to Coventry, I mean?’ said Bitzer, the
+very light young man in question.
 
-The whelp was presented, and took his chair.  The appellation was not
-flattering, but not unmerited.
+Stephen answered ‘Yes,’ again.
 
-‘When I was your age, young Tom,’ said Bounderby, ‘I was punctual, or I
-got no dinner!’
+‘I supposed so, from their all appearing to keep away from you.  Mr.
+Bounderby wants to speak to you.  You know his [[house]], don’t you?’
 
-‘When you were my age,’ resumed Tom, ‘you hadn’t a wrong balance to get
-right, and hadn’t to dress afterwards.’
+Stephen said ‘Yes,’ again.
 
-‘Never mind that now,’ said Bounderby.
+‘Then go straight up there, will you?’ said Bitzer.  ‘You’re expected,
+and have only to tell the servant it’s you.  I belong to the Bank; so, if
+you go straight up without me (I was sent to fetch you), you’ll save me a
+walk.’
 
-‘[[Well]], then,’ grumbled Tom.  ‘Don’t begin with me.’
-
-‘Mrs. Bounderby,’ said Harthouse, perfectly hearing this under-strain as
-it went on; ‘your brother’s face is quite familiar to me.  Can I have
-seen him abroad?  Or at some public school, perhaps?’
-
-‘No,’ she resumed, quite interested, ‘he has never been abroad yet, and
-was educated here, at [[Home|home]].  Tom, [[Love|love]], I am telling Mr. Harthouse that
-he never saw you abroad.’
-
-‘No such luck, sir,’ said Tom.
-
-There was little enough in him to brighten her face, for he was a sullen
-young fellow, and ungracious in his manner even to her.  So much the
-greater must have been the [[Solitude|solitude]] of her heart, and her need of some
-one on whom to bestow it.  ‘So much the more is this whelp the only
-creature she has ever cared for,’ thought Mr. [[James Harthouse]], turning it
-over and over.  ‘So much the more.  So much the more.’
-
-Both in his sister’s presence, and after she had left the room, the whelp
-took no pains to hide his contempt for Mr. Bounderby, whenever he could
-indulge it without the observation of that independent man, by making wry
-faces, or shutting one eye.  Without responding to these telegraphic
-communications, Mr. Harthouse encouraged him much in the course of the
-evening, and showed an unusual liking for him.  At last, when he [[Rose|rose]] to
-return to his hotel, and was a little doubtful whether he knew the way by
-[[Night|night]], the whelp immediately proffered his services as guide, and turned
-out with him to escort him thither.
-
-            [Picture: Mr. Harthouse dines at the Bounderby’s]
+Stephen, whose way had been in the contrary direction, turned about, and
+betook himself as in duty bound, to the red brick [[Castle|castle]] of the giant
+Bounderby.

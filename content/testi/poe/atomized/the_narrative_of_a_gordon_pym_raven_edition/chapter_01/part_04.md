@@ -14,6 +14,32 @@ tags:
 </nav>
 
 
+      boat, and shortly afterward one of the men with him asserted that
+
+      he could distinguish a cry for help at intervals amid the roaring
+
+      of the tempest. This induced the hardy seamen to persevere in
+
+      their search for more than half an hour, although repeated
+
+      signals to return were made them by Captain Block, and although
+
+      every moment on the [[Water|water]] in so frail a boat was fraught to them
+
+      with the most imminent and deadly peril. Indeed, it is nearly
+
+      impossible to conceive how the small jolly they were in could
+
+      have escaped destruction for a single instant. She was built,
+
+      however, for the whaling service, and was fitted, as I have since
+
+      had reason to believe, with air-boxes, in the manner of some
+
+      life-boats used on the coast of Wales.
+
+
+
       After searching in vain for about the period of [[Time|time]] just
 
       mentioned, it was determined to get back to the [[Ship|ship]]. They had

@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 21 (part 3)"
+title: "Persuasion — Chapter 21 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -13,6 +13,38 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_21/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_21/part_04">part 04 ›</a></div>
 </nav>
 
+
+interest you in some circumstances; but not now. No, I thank you, I
+
+have nothing to trouble you with.”
+
+
+
+“I think you spoke of having known Mr Elliot many years?”
+
+
+
+“I did.”
+
+
+
+“Not before he was married, I suppose?”
+
+
+
+“Yes; he was not married when I knew him first.”
+
+
+
+“And—were you much acquainted?”
+
+
+
+“Intimately.”
+
+
+
+“Indeed! Then do tell me what he was at that [[Time|time]] of life. I have a
 
 great curiosity to know what Mr Elliot was as a very young man. Was he
 
@@ -191,29 +223,3 @@ lady, and it was impossible that such a match should have answered his
 ideas of wealth and independence. That was his motive for drawing back,
 
 I can assure you. He told me the whole story. He had no concealments
-
-with me. It was curious, that having just left you behind me in Bath,
-
-my first and principal acquaintance on marrying should be your cousin;
-
-and that, through him, I should be continually hearing of your father
-
-and sister. He described one Miss Elliot, and I thought very
-
-affectionately of the other.”
-
-
-
-“Perhaps,” cried Anne, struck by a sudden idea, “you sometimes spoke of
-
-me to Mr Elliot?”
-
-
-
-“To be sure I did; very often. I used to boast of my own [[Anne Elliot]],
-
-and vouch for your being a very different creature from—”
-
-
-
-She checked herself just in [[Time|time]].

@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 21: LITTLE EM’LY (part 6)"
+title: "David Copperfield — Chapter 21: LITTLE EM’LY (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_21_little_emly/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_21_little_emly/part_07">part 07 ›</a></div>
 </nav>
 
+
+After delivering this speech all in a breath, and with extraordinary
+animation and pleasure, Mr. Peggotty put one of his large hands
+rapturously on each side of his niece’s face, and kissing it a dozen
+times, laid it with a gentle [[Pride|pride]] and [[Love|love]] upon his broad chest, and
+patted it as if his hand had been a lady’s. Then he let her go; and as
+she ran into the little chamber where I used to [[Sleep|sleep]], looked round upon
+us, quite hot and out of breath with his uncommon satisfaction.
+
+‘If you two gent’lmen--gent’lmen growed now, and such gent’lmen--’ said
+Mr. Peggotty.
+
+‘So th’ are, so th’ are!’ cried Ham. ‘[[Well]] said! So th’ are. Mas’r Davy
+bor’--gent’lmen growed--so th’ are!’
 
 ‘If you two gent’lmen, gent’lmen growed,’ said Mr. Peggotty, ‘don’t
 ex-cuse me for being in a state of mind, when you understand matters,
@@ -117,18 +131,3 @@ she claps her hands like a play, and you come in. Theer! the murder’s
 out!’ said Mr. Peggotty--‘You come in! It took place this here present
 hour; and here’s the man that’ll marry her, the minute she’s out of her
 [[Time|time]].’
-
-Ham staggered, as [[Well|well]] he might, under the blow Mr. Peggotty dealt
-him in his unbounded joy, as a mark of confidence and [[Friendship|friendship]]; but
-feeling called upon to say something to us, he said, with much faltering
-and great difficulty:
-
-‘She warn’t no higher than you was, Mas’r Davy--when you first
-come--when I thought what she’d grow up to be. I see her grown
-up--gent’lmen--like a flower. I’d lay down my life for
-her--Mas’r Davy--Oh! most content and cheerful! She’s more to
-me--gent’lmen--than--she’s all to me that ever I can want, and more
-than ever I--than ever I could say. I--I [[Love|love]] her true. There ain’t a
-gent’lman in all the land--nor yet sailing upon all the sea--that
-can [[Love|love]] his lady more than I [[Love|love]] her, though there’s many a common
-man--would say better--what he meant.’

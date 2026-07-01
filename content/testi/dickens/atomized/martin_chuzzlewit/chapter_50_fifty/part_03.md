@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 50: FIFTY (part 3)"
+title: "Martin Chuzzlewit — Chapter 50: FIFTY (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -10,9 +10,18 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/martin-chuzzlewit-(dickens)">Martin Chuzzlewit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_50_fifty/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_52_fifty_one/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_50_fifty/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_50_fifty/part_04">part 04 ›</a></div>
 </nav>
 
+
+Tom’s eyes glistened when he spoke of her affection; and he kissed her
+on the cheek.
+
+‘My dear girl,’ said Tom; ‘with whatever feeling I regard her’--they
+seemed to avoid the name by mutual consent--‘I have long ago--I am sure
+I may say from the very first--looked upon it as [[A Dream|a dream]]. As something
+that might possibly have happened under very different circumstances,
+but which can never be. Now, tell me. What would you have set right?’
 
 She gave Tom such a significant little look, that he was obliged to take
 it for an answer whether he would or no; and to go on.
@@ -122,14 +131,3 @@ Tom’s door, and her light foot outside, would have been music to him
 though she had not spoken. But she said it was the brightest morning
 ever seen; and so it was; and if it had been otherwise, she would have
 made it so to Tom.
-
-She was ready with his neat breakfast when he went downstairs, and had
-her bonnet ready for the early walk, and was so full of news, that Tom
-was lost in [[Wonder|wonder]]. She might have been up all [[Night|night]], collecting it for
-his entertainment. There was Mr Nadgett not come [[Home|home]] yet, and there was
-bread down a penny a loaf, and there was twice as much strength in this
-tea as in the last, and the milk-woman’s husband had come out of the
-hospital cured, and the curly-headed [[Child|child]] over the way had been lost
-all yesterday, and she was going to make all sorts of preserves in a
-desperate hurry, and there happened to be a saucepan in the [[house]] which
-was the very saucepan for the purpose; and she knew all about the last

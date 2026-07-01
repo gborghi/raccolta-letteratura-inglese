@@ -1,5 +1,5 @@
 ---
-title: "[[Coriolanus]] — Act III, Scene 1 — exchange (FIRST CITIZEN) [10]"
+title: "Coriolanus — Act III, Scene 1 — exchange (FIRST CITIZEN) [10]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/coriolanus-(shakespeare)"

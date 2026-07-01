@@ -14,6 +14,22 @@ tags:
 </nav>
 
 
+By a great exertion of strength, he closed the two old gates, which
+were deeply sunken in the mud, and barred them with a heavy beam.  That
+done, he shook his matted hair from about his eyes, and tried
+them.--Strong and fast.
+
+‘The fence between this wharf and the next is easily climbed,’ said the
+[[Dwarf|dwarf]], when he had taken these precautions.  ‘There’s a back lane, too,
+from there.  That shall be my way out.  A man need know his [[Road|road]] [[Well|well]],
+to find it in this lovely place to-[[Night|night]].  I need [[Fear|fear]] no unwelcome
+visitors while this lasts, I think.’
+
+Almost reduced to the necessity of groping his way with his hands (it
+had grown so dark and the fog had so much increased), he returned to
+his lair; and, after musing for some [[Time|time]] over the [[Fire|fire]], busied himself
+in preparations for a speedy departure.
+
 While he was collecting a few necessaries and cramming them into his
 pockets, he never once ceased communing with himself in a low voice, or
 unclenched his teeth, which he had ground together on finishing Miss

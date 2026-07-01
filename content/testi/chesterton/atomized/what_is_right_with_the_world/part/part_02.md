@@ -108,18 +108,3 @@ he would be better dead, is blasted with the crime of Iscariot.
 Spiritually speaking, we should be justified in punishing him
 with [[Death|death]].  Only, out of polite deference to his own [[philosophy]],
 we punish him with life.
-
-But this [[Faith|faith]] (that existence was fundamentally and purposely good)
-is not attacked only by the black, consistent pessimist.
-The man who says that he would sooner die is best answered by a
-sudden blow with the poker, for the reply is rightly logical,
-as [[Well|well]] as physically very effective.  But there has crept
-through the culture of modern Europe another notion that is equally
-in its own way an attack on the essential rightness of the world.
-It is not avowedly pessimistic, though the source from which it comes
-(which is Buddhism) is pessimistic for those who really understand it.
-It can offer itself -- as it does among some of the high-minded
-and distinguished Theosophists -- with an air of something
-highly optimistic.  But this disguised pessimism is what is really
-wrong with the world -- at least, especially with the modern world.
-It is essential to arrest and to examine it.

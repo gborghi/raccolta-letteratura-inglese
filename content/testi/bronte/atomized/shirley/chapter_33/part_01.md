@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 33 (part 1)"
+title: "Shirley — Chapter 33 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -231,9 +231,3 @@ entertained them with the best the [[house]] afforded.
 It needed no more. Hortense could not have lived another hour without
 
 betaking herself to the scene of these nefarious transactions, and
-
-inspecting the state of matters in person. Mrs. Horsfall remained.
-
-
-
-Martin, master of the field now, extracted from his mother's work-basket

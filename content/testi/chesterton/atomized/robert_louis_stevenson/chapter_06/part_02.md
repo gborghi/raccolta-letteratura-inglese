@@ -1,5 +1,5 @@
 ---
-title: "Robert Louis Stevenson — Chapter 6 (part 2)"
+title: "Robert Louis Stevenson — Chapter 5 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/robert-louis-stevenson-(chesterton)"
@@ -14,104 +14,104 @@ tags:
 </nav>
 
 
-I will take the case of one of his books; I deliberately refrain
-from taking one of his best books.  I will take _The Wrecker,_ a book
-which many would call a failure and which nobody would call a faultless
-artistic [[success]], least of all the [[Artist|artist]].  The picture breaks
-out of the frame; indeed it is rather a panorama than a picture.
-The story sprawls over three continents; and the climax has too much
-the air of being only the last of a long string of disconnected passages.
-It has the look of a scrap-book; indeed it is very exactly
-a [[Sketch|sketch]]-book. It is merely the [[Sketch|sketch]]-book of Loudon Dodd,
-the wandering art student never allowed to be fully an [[Artist|artist]];
-just as his story is never allowed to be fully a work of art.
-He sketches people with the pen as he does with the pencil,
-in four or five incongruous societies, in the commercial school
-of Muskegon or the art school of [[Paris]], in the east [[Wind|wind]] of Edinburgh
-or the black squall of the South Seas; just as he sketched the four
-fugitive murderers gesticulating and lying in the Californian saloon.
-The point is (on the strict principles of _l'art pour l'art,_
-so dear to Mr. Dodd) that he sketched devilish [[Well|well]].
-We can take the portraits of twenty social types in turn,
-taken from six social worlds utterly shut out from each other,
-and find in every case that the strokes are at once few and final;
-that is, that the word is [[Well|well]] chosen out of a hundred words
-and that one word does the work of twenty.  The story starts:
-"The beginning of this yarn is my poor father's character";
-and the character is compact in one paragraph.  When Jim Pinkerton first
-strides into the story and is described as a young man "with cordial,
-agitated manners," we walk through the rest of the narrative
-with a living man; and listen not merely to words, but to a voice.
-No other two adjectives could have done the trick.  When the shabby
-and shady lawyer, with his cockney culture and underbred refinement,
-is first introduced as handling a big piece of business beyond his
-_metier,_ he bears himself "with a sort of shrinking assumption."
-The reader, especially if he is not a writer, may imagine
-that such words matter little; but if he supposes that it might
-just as [[Well|well]] have been "flinching [[Pride|pride]]" or "quailing arrogance"
-he knows nothing about writing and perhaps not much about reading.
-The whole point is in that hitting of the right nail on the head;
-and rather more so when the nail is such a very battered little tintack
-as Mr. Henry D. Bellairs of San Francisco.  When Loudon Dodd merely
-has to meet a naval officer and record that he got next to nothing
-out of him, that very negation has a touch of chilly life like a fish.
-"I judged he was [[Suffering|suffering]] torments of alarm lest I should prove
-an undesirable acquaintance; diagnosed him for a shy, dull, vain,
-unamiable animal, without adequate defence--a sort of dis-housed snail."
-The visit to an English village, under the [[Shadow|shadow]] of an English
-country [[house]], is equally aptly appreciated; from the green framework
-of the little town, "a domino of tiled houses and walled gardens,"
-to the reminiscences of the ex-butler about the exiled younger son;
-"near four generations of Carthews were touched upon without
-eliciting one point of interest; and we had killed Mr. Henry in
-the hunting field with a vast elaboration of painful circumstance
-and buried him in the midst of a whole sorrowing county, before I
-could so much as manage to bring upon the stage my intimate friend,
-Mr. Norris. . . . He was the only person of the whole featureless
-series who seemed to have accomplished anything worth mentioning;
-and his achievements, poor dog, seemed to have been confined to going
-to the devil and leaving some regrets. . . . He had no [[Pride|pride]] about him,
-I was told; he would sit down with any man; and it was somewhat
-woundingly implied that I was indebted to this peculiarity for my
-own acquaintance with the [[Hero|hero]]."  But I must not be led away by
-the large [[Temptation|temptation]] of quoting examples of the cool and collected
-and sustained irony, with which Loudon Dodd tells his whole story.
-I am only giving random examples of his rapid sketches of very
-different sorts of societies and personalities; and the point is
-that he can describe them rapidly and yet describe them rightly.
-In other words the author does possess a quite exceptional power
-of putting what he really means into the words that really convey it.
-And to show that this was a matter of genius in the man, and not
-(as some of his critics would imply) a matter of laborious
-technical treatment applied to two or three prize specimens,
-I have taken all these examples from one of the less known works,
-one of the least admired and perhaps of the least admirable.
-Whole tracts of it run almost as casually as his private correspondence;
-and his private correspondence is full of the same lively and
-animated neatness.  In this one neglected volume of _The Wrecker_ there
-are thousands of such things; and everything to show that he could
-have written twenty more volumes, equally full of these felicities.
-A man who does this is not only an [[Artist|artist]] doing what most men
-cannot do, but he is certainly doing what most novelists do not do.
-Even very good novelists have not this particular knack of putting
-a whole human figure together with a few unforgettable words.
-By the end of a [[Novel|novel]] by Mr. Arnold Bennett or Mr. E. F. Benson I
-have the sense that Lord Raingo or Lord Chesham is a real man,
-very rightly understood; but I never have at the beginning that
-feeling of [[Magic|magic]]; that a man has been brought to life by three words
-of an incantation.
+But this curious and sometimes inconsistent mingling of the grey
+Whiggery with the purple Jacobite [[Romance|romance]], in the traditional
+sentiment of such Scots as Stevenson, is connected with much
+deeper things touching the hold that their [[history]] had upon them.
+It is necessary to state at this stage that there is really
+and seriously an influence of Scottish [[Puritanism]] upon Stevenson;
+though I think it rather a [[philosophy]] partially accepted by his
+intellect than the special ideal that was the secret of his heart.
+But every philosopher is affected by [[philosophy]]; even if, as in the
+immortal instance in Boswell, cheerfulness is always breaking out.
+And there was a part of Stevenson's mind that was not cheerful;
+which I think, in some manifestations, was not even healthy.
+And yet the tribute of [[Truth|truth]] is due to that special Scottish element;
+that even when we say it was not healthy, we can hardly venture to say
+it was not strong.  It was the [[Shadow|shadow]] of that ancient heathen fatalism,
+which in the seventeenth century had taken the hardly less heathen
+form of Calvinism; and which had sounded in so many Scottish tragedies
+with a note of doom.  We appreciate it sharply when we turn from his
+two Scottish comedies of adventure to his third Scottish [[Romance|romance]],
+which is a [[Tragedy|tragedy]] of character.  It is true, as may be noted later,
+that even into this concentrated drama of sin and sorrow there enters
+a curious and rather incongruous element of the adventure story;
+like a [[Fragment|fragment]] of the former adventures of David or Jim.
+But leaving that aside for the moment, we must do justice to the dignity
+which is given to the story itself by its more sombre scenery and its
+sterner creed.  Stevenson showed his perfect instinct when he called
+it _A [[Winter]]'s Tale._ It is his one story in black and white,
+and I cannot recall one word that is a patch of colour.
 
-This was the genius of Stevenson; and it is simply silly to complain
-of it because it was Stevensonian.  I do not blame either of the
-other two novelists for not being somebody else.  But I do venture
-to blame them a little for grumbling because Stevenson was himself.
-I do not quite see why he should be covered with cold depreciation
-merely because he could put into a line what other men put into a page;
-why he should be regarded as superficial because he saw more in a man's
-walk or profile than the moderns can dig out of his complexes and
-his subconsciousness; why he should be called artificial because he sought
-(and found) the right word for a real object; why he should be
-thought shallow because he went straight for what was significant,
-without wading towards it through wordy seas of insignificance;
-or why he should be treated as a liar because he was not ashamed
-to be a story-teller.
+In touching on the rather neglected point of the nastier side
+of Puritan sociology, the raw and barbarous flavour about its evil
+and excess, I may have seemed to underrate the higher though harsher
+aspects of Scottish [[Puritanism]].  I do not mean to do so; and certainly
+nobody can afford to do so in attempting an adequate study of Stevenson.
+He remained to the day of his [[Death|death]] in some ways particularly loyal
+to the Presbyterian tradition; I might say to the Presbyterian prejudices;
+and at least in one or two cases to the Presbyterian antipathies.
+But I think it was mostly rather a case of the modern religion
+of patriotism, as against the larger patriotism of religion.
+Like many other men of frank, tart and humorous prejudices
+(which are the sort of prejudices that need never prejudice us
+against a man) he was apt to see in some foreign things the evils
+to which he had grown accustomed in native things; and to start
+again the great international dispute of the pot and the kettle.
+It is amusing, for instance, to find the young Scotsman in _Olalla_
+gravely disapproving of the grim Spanish crucifix, with its tortured
+and grimacing art; and presumably leaving that land of religious gloom,
+to go back and enjoy the charm and gaiety of Thrawn Janet.
+If there was ever grim and grimacing art, one would think it was in
+that twisted figure; and even Stevenson admitted that Olalla got more
+comfort from the crucifix than Janet from the minister; or, I will add,
+the minister from the ministry.  Indeed, stories of this kind
+are told by Stevenson with a deliberate darkening of the Scottish
+landscape and exultation in the ferocity of the Scottish creed.
+But it would be quite a mistake to miss in this a certain genuine
+national [[Pride|pride]] running through all the abnormal artistry;
+and a sense that the strength of the tribal [[Tragedy|tragedy]] testifies
+in a manner to the strength of the tribe.
+
+It might be maintained that the best effect of the Scotsman's
+religious training was teaching him to do without his religion.
+It enabled him to survive as a certain sort of freethinker;
+one who, unlike his more familiar fellows, is not so intoxicated
+with [[Freedom|freedom]] as to forget to think.  It might be said that
+among the Scots, so far from a sentimental religiosity taking
+the place of dogmatic religion (as is generally the case among
+the English), something like the very opposite had occurred.
+When the religion was dead, the theology remained:  at any rate,
+the taste for theology remained.  It remained because, whatever else
+it is, theology is at least a form of thought.  Stevenson certainly
+retained this turn of mind long after his beliefs, like those of
+most of his generation, had been simplified to vanishing point.
+He was, as Henley said, something of the Shorter Catechist;
+even when his own Catechism had become shorter still.
+All this, however, was indubitably a strength to him and his nation;
+and a real reason for gratitude to their old religious tradition.
+Those dry Deists and hard-headed Utilitarians who stalked the streets
+of Glasgow and Edinburgh in the eighteenth and early nineteenth centuries
+were very obviously the products of the national religious spirit.
+The Scottish atheists were unmistakable children of the Kirk.
+And though they often seemed absurdly detached and dehumanised,
+the world is now rather [[Suffering|suffering]] for want of such dull lucidity.
+To put it shortly, by being theological they had at least learnt to
+be logical; and in dropping the Greek prefix as a superfluous trifle they
+will have the sympathy of many moderns much less logical than themselves.
+The influence of all this sort of clarity on Stevenson is very clear.
+It did not happen to be his mission to figure as the metaphysical
+Scotsman; or draw out his deductions along the lines of [[logic]].
+But he did always by instinct draw lines that were as hard and clear
+as those of a mathematical diagram.  He himself has made a very luminous
+and valuable comparison between a geometrical theorem and a work of art.
+I have had cause to remark again and again, in the course of this [[Sketch|sketch]],
+on a certain almost arid decision in the strokes of Stevenson's style.
+I believe it was due in no small degree to that inheritance
+of definition, that goes with an inheritance of dogma.
+What he wrote was not written, as he said scornfully of some
+literary performance, in sand with a salt-spoon; it was at least
+in the tradition of scriptures cut with steel into stone.
+This was among the many good things that he got from the spiritual
+atmosphere of his ancestry.  But he got other things as [[Well|well]];
+though they are less easy to describe and far less easy to command.

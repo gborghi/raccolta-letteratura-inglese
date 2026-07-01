@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 44 (part 2)"
+title: "Nicholas Nickleby — Chapter 44 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_44/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_44/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘Let ‘em both wait?’ said Newman.
+
+‘Ay,’ replied Ralph, turning upon him with an angry look. ‘Help me on
+with this spencer, and don’t repeat after me, like a croaking parrot.’
 
 ‘I wish I was a parrot,’ Newman, sulkily.
 
@@ -125,7 +130,3 @@ express none.’
 ‘Mr. Nickleby,’ said the man, bluntly, after a brief pause, during which
 he had seemed to struggle with an inclination to answer him by some
 reproach, ‘will you hear a few words that I have to say?’
-
-‘I am obliged to wait here till the rain holds a little,’ said Ralph,
-looking abroad. ‘If you talk, sir, I shall not put my fingers in my
-ears, though your talking may have as much effect as if I did.’

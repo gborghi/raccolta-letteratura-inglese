@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 7 (part 2)"
+title: "Our Mutual Friend — Chapter 10 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,126 +14,140 @@ tags:
 </nav>
 
 
-‘The date of the will that has been proved, must be looked to,’ remarked
-[[Venus]]. ‘It may be later than this one.’
+‘It strikes me,’ remarked Eugene coolly, after watching him for some
+minutes, ‘that my friend is likely to be rather behind [[Time|time]] if he has
+any appointment on hand.’ With which remark he strolled on, and took no
+further thought of him.
 
-‘—Hear me out!’ cried Wegg. ‘I said so. I paid a shilling (never mind
-your sixpence of it) to look up that will. Brother, that will is dated
-months before this will. And now, as a fellow-man, and as a partner in a
-friendly move,’ added Wegg, benignantly taking him by both hands again,
-and clapping him on both knees again, ‘say have I completed my labour of
-[[Love|love]] to your perfect satisfaction, and are you sap—pur—IZED?’
+Lightwood was at [[Home|home]] when he got to the Chambers, and had dined [[Alone|alone]]
+there. Eugene drew a chair to the [[Fire|fire]] by which he was having his wine
+and reading the evening paper, and brought a glass, and filled it for
+good fellowship’s sake.
 
-[[Mr Venus]] contemplated his fellow-man and partner with doubting eyes, and
-then rejoined stiffly:
+‘My dear Mortimer, you are the express picture of contented industry,
+reposing (on credit) after the virtuous labours of the day.’
 
-‘This is great news indeed, Mr Wegg. There’s no denying it. But I could
-have wished you had told it me before you got your fright to-[[Night|night]], and
-I could have wished you had ever asked me as your partner what we were
-to do, before you thought you were dividing a responsibility.’
+‘My dear Eugene, you are the express picture of discontented idleness
+not reposing at all. Where have you been?’
 
-‘—Hear me out!’ cried Wegg. ‘I knew you was a-going to say so. But
-[[Alone|alone]] I bore the anxiety, and [[Alone|alone]] I’ll bear the blame!’ This with an
-air of great magnanimity.
+‘I have been,’ replied Wrayburn, ‘—about town. I have turned up at the
+present juncture, with the intention of consulting my highly intelligent
+and respected solicitor on the position of my affairs.’
 
-‘No,’ said [[Venus]]. ‘Let’s see this will and this box.’
+‘Your highly intelligent and respected solicitor is of opinion that your
+affairs are in a bad way, Eugene.’
 
-‘Do I understand, brother,’ returned Wegg with considerable reluctance,
-‘that it is your wish to see this will and this—?’
+‘Though whether,’ said Eugene thoughtfully, ‘that can be intelligently
+said, now, of the affairs of a client who has nothing to lose and who
+cannot possibly be made to pay, may be open to question.’
 
-[[Mr Venus]] smote the table with his hand.
+‘You have fallen into the hands of the Jews, Eugene.’
 
-‘—Hear me out!’ said Wegg. ‘Hear me out! I’ll go and fetch ’em.’
+‘My dear boy,’ returned the debtor, very composedly taking up his glass,
+‘having previously fallen into the hands of some of the Christians, I
+can bear it with [[philosophy]].’
 
-After being some [[Time|time]] absent, as if in his covetousness he could hardly
-make up his mind to produce the treasure to his partner, he returned
-with an old leathern hat-box, into which he had put the other box,
-for the better preservation of commonplace appearances, and for the
-disarming of suspicion. ‘But I don’t half like opening it here,’ said
-Silas in a low voice, looking around: ‘he might come back, he may not be
-gone; we don’t know what he may be up to, after what we’ve seen.’
+‘I have had an interview to-day, Eugene, with a Jew, who seems
+determined to press us hard. Quite a [[Shylock]], and quite a Patriarch. A
+picturesque grey-headed and grey-bearded old Jew, in a shovel-hat and
+gaberdine.’
 
-‘There’s something in that,’ assented [[Venus]]. ‘Come to my place.’
+‘Not,’ said Eugene, pausing in setting down his glass, ‘surely not my
+worthy friend Mr [[Aaron]]?’
 
-Jealous of the custody of the box, and yet fearful of opening it under
-the existing circumstances, Wegg hesitated. ‘Come, I tell you,’ repeated
-[[Venus]], chafing, ‘to my place.’ Not very [[Well|well]] seeing his way to a
-refusal, Mr Wegg then rejoined in a gush, ‘—Hear me out!—Certainly.’
-So he locked up the Bower and they set forth: [[Mr Venus]] taking his arm,
-and keeping it with remarkable tenacity.
+‘He calls himself Mr Riah.’
 
-They found the usual dim light burning in the [[Window|window]] of [[Mr Venus]]’s
-establishment, imperfectly disclosing to the public the usual pair
-of preserved frogs, [[Sword|sword]] in hand, with their point of [[Honour|honour]] still
-unsettled. [[Mr Venus]] had closed his shop door on coming out, and now
-opened it with the key and shut it again as soon as they were within;
-but not before he had put up and barred the shutters of the shop [[Window|window]].
-‘No one can get in without being let in,’ said he then, ‘and we couldn’t
-be more snug than here.’ So he raked together the yet warm cinders in
-the rusty grate, and made a [[Fire|fire]], and trimmed the candle on the little
-counter. As the [[Fire|fire]] cast its flickering gleams here and there upon the
-dark greasy walls; the Hindoo baby, the African baby, the articulated
-English baby, the assortment of skulls, and the rest of the collection,
-came starting to their various stations as if they had all been out,
-like their master and were punctual in a general rendezvous to assist
-at the secret. The French gentleman had grown considerably since Mr Wegg
-last saw him, being now accommodated with a pair of legs and a head,
-though his arms were yet in abeyance. To whomsoever the head had
-originally belonged, [[Silas Wegg]] would have regarded it as a personal
-favour if he had not cut quite so many teeth.
+‘By-the-by,’ said Eugene, ‘it comes into my mind that—no [[Doubt|doubt]] with an
+instinctive [[Desire|desire]] to receive him into the bosom of our Church—I gave
+him the name of [[Aaron]]!’
 
-Silas took his seat in [[Silence|silence]] on the wooden box before the [[Fire|fire]], and
-[[Venus]] dropping into his low chair produced from among his [[skeleton]]
-hands, his tea-tray and tea-cups, and put the kettle on. Silas inwardly
-approved of these preparations, trusting they might end in [[Mr Venus]]’s
-diluting his intellect.
+‘Eugene, Eugene,’ returned Lightwood, ‘you are more ridiculous than
+usual. Say what you mean.’
 
-‘Now, sir,’ said [[Venus]], ‘all is safe and quiet. Let us see this
-discovery.’
+‘Merely, my dear fellow, that I have the [[Honour|honour]] and pleasure of a
+speaking acquaintance with such a Patriarch as you describe, and that I
+address him as Mr [[Aaron]], because it appears to me Hebraic, expressive,
+appropriate, and complimentary. Notwithstanding which strong reasons for
+its being his name, it may not be his name.’
 
-With still reluctant hands, and not without several glances towards the
-[[skeleton]] hands, as if he mistrusted that a couple of them might [[Spring|spring]]
-forth and clutch the document, Wegg opened the hat-box and revealed the
-cash-box, opened the cash-box and revealed the will. He held a corner
-of it tight, while [[Venus]], taking hold of another corner, searchingly and
-attentively read it.
+‘I believe you are the absurdest man on the face of the earth,’ said
+Lightwood, laughing.
 
-‘Was I correct in my account of it, partner?’ said Mr Wegg at length.
+‘Not at all, I assure you. Did he mention that he knew me?’
 
-‘Partner, you were,’ said [[Mr Venus]].
+‘He did not. He only said of you that he expected to be paid by you.’
 
-Mr Wegg thereupon made an easy, graceful movement, as though he would
-fold it up; but [[Mr Venus]] held on by his corner.
+‘Which looks,’ remarked Eugene with much gravity, ‘like NOT knowing me.
+I [[Hope|hope]] it may not be my worthy friend Mr [[Aaron]], for, to tell you the
+[[Truth|truth]], Mortimer, I [[Doubt|doubt]] he may have a prepossession against me. I
+strongly suspect him of having had a hand in spiriting away Lizzie.’
 
-‘No, sir,’ said [[Mr Venus]], winking his weak eyes and shaking his head.
-‘No, partner. The question is now brought up, who is going to take care
-of this. Do you know who is going to take care of this, partner?’
+‘Everything,’ returned Lightwood impatiently, ‘seems, by a fatality,
+to bring us round to Lizzie. “About town” meant about Lizzie, just now,
+Eugene.’
 
-‘I am,’ said Wegg.
+‘My solicitor, do you know,’ observed Eugene, turning round to the
+furniture, ‘is a man of infinite discernment!’
 
-‘Oh dear no, partner,’ retorted [[Venus]]. ‘That’s a mistake. I am. Now look
-here, Mr Wegg. I don’t want to have any words with you, and still less
-do I want to have any anatomical pursuits with you.’
+‘Did it not, Eugene?’
 
-‘What do you mean?’ said Wegg, quickly.
+‘Yes it did, Mortimer.’
 
-‘I mean, partner,’ replied [[Venus]], slowly, ‘that it’s hardly possible
-for a man to feel in a more amiable state towards another man than I
-do towards you at this present moment. But I am on my own ground, I am
-surrounded by the trophies of my art, and my tools is very handy.’
+‘And yet, Eugene, you know you do not really care for her.’
 
-‘What do you mean, [[Mr Venus]]?’ asked Wegg again.
+[[Eugene Wrayburn]] [[Rose|rose]], and put his hands in his pockets, and stood with a
+foot on the fender, indolently rocking his [[Body|body]] and looking at the [[Fire|fire]].
+After a prolonged pause, he replied: ‘I don’t know that. I must ask you
+not to say that, as if we took it for granted.’
 
-‘I am surrounded, as I have observed,’ said [[Mr Venus]], placidly, ‘by
-the trophies of my art. They are numerous, my stock of human warious is
-large, the shop is pretty [[Well|well]] crammed, and I don’t just now want any
-more trophies of my art. But I like my art, and I know how to exercise
-my art.’
+‘But if you do care for her, so much the more should you leave her to
+herself.’
 
-‘No man better,’ assented Mr Wegg, with a somewhat staggered air.
+Having again paused as before, Eugene said: ‘I don’t know that, either.
+But tell me. Did you ever see me take so much trouble about anything, as
+about this disappearance of hers? I ask, for information.’
 
-‘There’s the Miscellanies of several human specimens,’ said [[Venus]],
-‘(though you mightn’t think it) in the box on which you’re sitting.
-There’s the Miscellanies of several human specimens, in the lovely
-compo-one behind the door’; with a nod towards the French gentleman. ‘It
-still wants a pair of arms. I DON’T say that I’m in any hurry for ’em.’
+‘My dear Eugene, I wish I ever had!’
+
+‘Then you have not? Just so. You confirm my own impression. Does that
+look as if I cared for her? I ask, for information.’
+
+‘I asked YOU for information, Eugene,’ said Mortimer reproachfully.
+
+‘Dear boy, I know it, but I can’t give it. I thirst for information.
+What do I mean? If my taking so much trouble to recover her does not
+mean that I care for her, what does it mean? “If Peter Piper picked a
+peck of pickled pepper, where’s the peck,” &c.?’
+
+Though he said this gaily, he said it with a perplexed and inquisitive
+face, as if he actually did not know what to make of himself. ‘Look on
+to the end—’ Lightwood was beginning to remonstrate, when he caught at
+the words:
+
+‘Ah! See now! That’s exactly what I am incapable of doing. How very
+acute you are, Mortimer, in finding my weak place! When we were at
+school together, I got up my lessons at the last moment, day by day and
+bit by bit; now we are out in life together, I get up my lessons in the
+same way. In the present task I have not got beyond this:—I am bent
+on finding Lizzie, and I mean to find her, and I will take any means
+of finding her that offer themselves. Fair means or foul means, are all
+alike to me. I ask you—for information—what does that mean? When I
+have found her I may ask you—also for information—what do I mean now?
+But it would be premature in this stage, and it’s not the character of
+my mind.’
+
+Lightwood was shaking his head over the air with which his friend held
+forth thus—an air so whimsically open and argumentative as almost to
+deprive what he said of the appearance of evasion—when a shuffling was
+heard at the outer door, and then an undecided knock, as though
+some hand were groping for the knocker. ‘The frolicsome youth of the
+neighbourhood,’ said Eugene, ‘whom I should be delighted to pitch from
+this elevation into the churchyard below, without any intermediate
+ceremonies, have probably turned the lamp out. I am on duty to-[[Night|night]],
+and will see to the door.’
+
+His friend had barely had [[Time|time]] to recall the unprecedented gleam of
+determination with which he had spoken of finding this girl, and which
+had faded out of him with the breath of the spoken words, when Eugene
+came back, ushering in a most disgraceful [[Shadow|shadow]] of a man, shaking from
+head to foot, and clothed in shabby grease and smear.

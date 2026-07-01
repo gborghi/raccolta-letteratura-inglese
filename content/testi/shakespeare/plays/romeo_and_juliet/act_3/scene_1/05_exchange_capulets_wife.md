@@ -1,5 +1,5 @@
 ---
-title: "[[Romeo]] and [[Juliet]] — Act III, Scene 1 — exchange ([[Capulet|CAPULET]]’S WIFE) [5]"
+title: "Romeo and Juliet — Act III, Scene 1 — exchange (CAPULET’S WIFE) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/romeo-and-juliet-(shakespeare)"

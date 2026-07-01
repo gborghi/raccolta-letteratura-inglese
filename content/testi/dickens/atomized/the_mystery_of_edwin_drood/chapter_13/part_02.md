@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 12 (part 2)"
+title: "The Mystery of Edwin Drood — Chapter 12 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_13/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_13/part_03">part 03 ›</a></div>
 </nav>
 
+
+“I remember!” replies the auctioneer. And the solemn idiot really
+believes that he does remember.
 
 “Profiting by your hint,” pursues Jasper, “I have had some day-rambles
 with the extraordinary old fellow, and we are to make a moonlight
@@ -149,10 +152,3 @@ The sound of a closing [[house]]-door strikes their ears, and two men come
 out. These are Mr. Crisparkle and Neville. Jasper, with a strange and
 sudden smile upon his face, lays the palm of his hand upon the breast
 of [[Durdles]], stopping him where he stands.
-
-At that end of Minor Canon Corner the [[Shadow|shadow]] is profound in the
-existing state of the light: at that end, too, there is a piece of old
-[[Dwarf|dwarf]] wall, breast high, the only remaining boundary of what was once a
-[[Garden|garden]], but is now the thoroughfare. Jasper and [[Durdles]] would have
-turned this wall in another instant; but, stopping so short, stand
-behind it.

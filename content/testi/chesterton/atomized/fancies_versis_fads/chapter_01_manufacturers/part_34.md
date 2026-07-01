@@ -41,7 +41,7 @@ THE PRUDERY OF THE FEMINISTS
 
 IN the ultimate and universal sense I am astonished at the lack
 of astonishment.  Starting from scratch, so to speak, we are all
-in the position of the first frog, whose pious and compact [[prayer]]
+in the position of the first frog, whose pious and compact [[Prayer|prayer]]
 was "Lord, how you made me jump!"  Matthew Arnold told us to see life
 steadily and see it whole.  But the flaw in his whole [[philosophy]]
 is that when we do see life whole we do not see it steadily,

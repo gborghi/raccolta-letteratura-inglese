@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 14 (part 1)"
+title: "Persuasion — Chapter 14 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -217,13 +217,3 @@ Russell’s kind answer.
 
 
 “Oh! as to being Anne’s acquaintance,” said Mary, “I think he is rather
-
-my acquaintance, for I have been seeing him every day this last
-
-fortnight.”
-
-
-
-“[[Well]], as your joint acquaintance, then, I shall be very happy to see
-
-[[Captain Benwick]].”

@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 7 (part 3)"
+title: "The Tenant of Wildfell Hall — Chapter 7 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_07/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_07/part_04">part 04 ›</a></div>
 </nav>
 
+
+sweet [[Flowers|flowers]] and brilliant verdure of delightful May. It was true,
+
+Eliza was not beside me; but she was with her friends in the
+
+pony-carriage, as happy, I trusted, as I was; and even when we
+
+pedestrians, having forsaken the highway for a short cut across the
 
 fields, beheld the little carriage far away, disappearing amid the
 
@@ -32,7 +40,7 @@ The former, it is true, was most provokingly unsociable at
 
 first—seemingly bent upon talking to no one but Mary Millward and
 
-[[arthur|Arthur]]. She and Mary journeyed along together, generally with the [[Child|child]]
+[[Arthur]]. She and Mary journeyed along together, generally with the [[Child|child]]
 
 between them;—but where the [[Road|road]] permitted, I always walked on the
 
@@ -186,22 +194,8 @@ wearisome to my [[Soul|soul]], and I grew weary of amusing her: I felt myself
 
 drawn by an irresistible attraction to that distant point where the
 
-fair [[Artist|artist]] sat and plied her solitary task—and not long did I attempt
+fair [[artist]] sat and plied her solitary task—and not long did I attempt
 
 to resist it: while my little neighbour was exchanging a few words with
 
 Miss Wilson, I [[Rose|rose]] and cannily slipped away. A few rapid strides, and
-
-a little active clambering, soon brought me to the place where she was
-
-seated—a narrow ledge of rock at the very verge of the cliff, which
-
-descended with a steep, precipitous slant, quite down to the rocky
-
-shore.
-
-
-
-She did not hear me coming: the falling of my [[Shadow|shadow]] across her paper
-
-gave her an electric start; and she looked hastily round—any other lady

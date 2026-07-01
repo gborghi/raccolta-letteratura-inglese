@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 19 (part 5)"
+title: "Bleak House — Chapter 19 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_19/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_20/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Neither,” says Mrs. Chadband as before.
+
+“Oh! A [[Child|child]]!” says Mr. Guppy, throwing on the admiring Mrs. Snagsby
+the regular acute professional eye which is thrown on British
+jurymen. “Now, ma’am, perhaps you’ll have the kindness to tell us
+WHAT [[Child|child]].”
+
+“You have got it at last, sir,” says Mrs. Chadband with another
+hard-favoured smile. “[[Well]], sir, it was before your [[Time|time]], most
+likely, judging from your appearance. I was left in charge of a [[Child|child]]
+named [[Esther Summerson]], who was put out in life by Messrs. Kenge and
+Carboy.”
 
 “Miss Summerson, ma’am!” cries Mr. Guppy, excited.
 

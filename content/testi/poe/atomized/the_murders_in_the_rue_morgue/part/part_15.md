@@ -1,5 +1,5 @@
 ---
-title: "[[The Murders in the Rue Morgue]] (part 15)"
+title: "The Murders in the Rue Morgue (part 15)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-murders-in-the-rue-morgue-(poe)"
@@ -13,6 +13,70 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_murders_in_the_rue_morgue/part/part_14">‹ part 14</a><span></span></div>
 </nav>
 
+
+      agility, grasped the shutter, which was thrown fully back against
+
+      the wall, and, by its means, swung itself directly upon the
+
+      headboard of the bed. The whole feat did not occupy a minute. The
+
+      shutter was kicked open again by the Ourang-Outang as it entered
+
+      the room.
+
+
+
+      The sailor, in the meantime, was both rejoiced and perplexed. He
+
+      had strong hopes of now recapturing the brute, as it could
+
+      scarcely escape from the trap into which it had ventured, except
+
+      by the rod, where it might be intercepted as it came down. On the
+
+      other hand, there was much cause for anxiety as to what it might
+
+      do in the [[house]]. This latter reflection urged the man still to
+
+      follow the fugitive. A [[Lightning|lightning]] rod is ascended without
+
+      difficulty, especially by a sailor; but, when he had arrived as
+
+      high as the [[Window|window]], which lay far to his left, his career was
+
+      stopped; the most that he could accomplish was to reach over so
+
+      as to obtain a glimpse of the interior of the room. At this
+
+      glimpse he nearly fell from his hold through excess of horror.
+
+      Now it was that those hideous shrieks arose upon the [[Night|night]], which
+
+      had startled from slumber the inmates of the Rue Morgue. Madame
+
+      L’Espanaye and her daughter, habited in their [[Night|night]] clothes, had
+
+      apparently been occupied in arranging some papers in the iron
+
+      chest already mentioned, which had been wheeled into the middle
+
+      of the room. It was open, and its contents lay beside it on the
+
+      floor. The victims must have been sitting with their backs toward
+
+      the [[Window|window]]; and, from the [[Time|time]] elapsing between the ingress of
+
+      the beast and the screams, it seems probable that it was not
+
+      immediately perceived. The flapping-to of the shutter would
+
+      naturally have been attributed to the [[Wind|wind]].
+
+
+
+      As the sailor looked in, the gigantic animal had seized Madame
+
+      L’Espanaye by the hair, (which was loose, as she had been combing
 
       it,) and was flourishing the razor about her face, in [[Imitation|imitation]]
 

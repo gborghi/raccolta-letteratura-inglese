@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 25 (part 4)"
+title: "The Professor — Chapter 25 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_professor/chapter_26/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/the_professor/chapter_26/part_05">part 05 ›</a></div>
 </nav>
 
+
+her with Wordsworth in this way, and Wordsworth steadied her soon; she
+
+had a difficulty in comprehending his deep, serene, and sober mind; his
+
+language, too, was not facile to her; she had to ask questions, to sue
+
+for explanations, to be like a [[Child|child]] and a novice, and to acknowledge
+
+me as her senior and director. Her instinct instantly penetrated and
+
+possessed the meaning of more ardent and imaginative writers. Byron
+
+excited her; Scott she loved; Wordsworth only she puzzled at, wondered
+
+over, and hesitated to pronounce an opinion upon.
 
 But whether she read to me, or talked with me; whether she teased me
 
@@ -76,21 +92,15 @@ Entering it two minutes later she said quietly as she put down her
 
 extinguished lamp--
 
-
-
 “Victor rests [[Well|well]]: he smiled in his [[Sleep|sleep]]; he has your smile,
 
 monsieur.”
-
-
 
 The said Victor was of course her own boy, born in the third year of
 
 our [[Marriage|marriage]]: his Christian name had been given him in [[Honour|honour]] of M.
 
 Vandenhuten, who continued always our trusty and [[Well|well]]-beloved friend.
-
-
 
 Frances was then a good and dear wife to me, because I was to her a
 
@@ -102,49 +112,31 @@ a drunkard, or a [[Tyrant|tyrant]]--is another question, and one which I once
 
 propounded to her. Her answer, given after some reflection, was--
 
-
-
 “I should have tried to endure the evil or cure it for awhile; and when
 
 I found it intolerable and incurable, I should have left my torturer
 
 suddenly and silently.”
 
-
-
 “And if law or might had forced you back again?”
-
-
 
 “What, to a drunkard, a profligate, a selfish spendthrift, an unjust
 
 [[Fool|fool]]?”
 
-
-
 “Yes.”
-
-
 
 “I would have gone back; again assured myself whether or not his vice
 
 and my misery were capable of remedy; and if not, have left him again.”
 
-
-
 “And if again forced to return, and compelled to abide?”
 
-
-
 “I don’t know,” she said, hastily. “Why do you ask me, monsieur?”
-
-
 
 I would have an answer, because I saw a strange kind of spirit in her
 
 eye, whose voice I determined to waken.
-
-
 
 “Monsieur, if a wife’s [[Nature|nature]] loathes that of the man she is wedded to,
 
@@ -162,11 +154,7 @@ should be sure of a refuge. [[Death]] would certainly screen me both from
 
 bad laws and their consequences.”
 
-
-
 “Voluntary [[Death|death]], Frances?”
-
-
 
 “No, monsieur. I’d have [[Courage|courage]] to live out every throe of anguish fate
 
@@ -174,15 +162,11 @@ assigned me, and principle to contend for justice and liberty to the
 
 last.”
 
-
-
 “I see you would have made no patient Grizzle. And now, supposing fate
 
 had merely assigned you the lot of an old maid, what then? How would you
 
 have liked celibacy?”
-
-
 
 “Not much, certainly. An old maid’s life must doubtless be void and
 
@@ -207,31 +191,3 @@ of many others, if I could have obtained it. Now, I have been Professor
 Crimsworth’s wife eight years, and what is he in my eyes? Is he
 
 honourable, beloved ----?” She stopped, her voice was cut off, her eyes
-
-suddenly suffused. She and I were standing side by side; she threw her
-
-arms round me, and strained me to her heart with passionate earnestness:
-
-the energy of her whole being glowed in her dark and then dilated
-
-eye, and crimsoned her animated cheek; her look and movement were like
-
-inspiration; in one there was such a flash, in the other such a power.
-
-Half an hour afterwards, when she had become calm, I asked where all
-
-that wild vigour was gone which had transformed her ere-while and made
-
-her glance so thrilling and ardent--her action so rapid and strong. She
-
-looked down, smiling softly and passively:--
-
-
-
-“I cannot tell where it is gone, monsieur,” said she, “but I know that,
-
-whenever it is wanted, it will come back again.”
-
-
-
-Behold us now at the close of the ten years, and we have realized an

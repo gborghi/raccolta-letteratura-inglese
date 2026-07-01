@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 24 (part 5)"
+title: "Villette — Chapter 24 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,42 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_24/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_25/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Ah! and you remember the old [[Time|time]] at Bretton?”
+
+“Better,” said she, “better, perhaps, than you. I remember it with
+minute distinctness: not only the [[Time|time]], but the days of the [[Time|time]], and
+the hours of the days.”
+
+“You must have forgotten some things?”
+
+“Very little, I imagine.”
+
+“You were then a little creature of quick feelings: you must, long ere
+this, have outgrown the impressions with which joy and grief, affection
+and bereavement, stamped your mind ten years ago.”
+
+“You think I have forgotten whom I liked, and in what degree I liked
+them when a [[Child|child]]?”
+
+“The sharpness must be gone—the point, the poignancy—the deep imprint
+must be softened away and effaced?”
+
+“I have a good [[Memory|memory]] for those days.”
+
+She looked as if she had. Her eyes were the eyes of one who can
+remember; one whose [[Childhood|childhood]] does not fade like [[A Dream|a dream]], nor whose
+youth vanish like a sunbeam. She would not take life, loosely and
+incoherently, in parts, and let one season slip as she entered on
+another: she would retain and add; often review from the commencement,
+and so grow in harmony and consistency as she grew in years. Still I
+could not quite admit the conviction that _all_ the pictures which now
+crowded upon me were vivid and visible to her. Her fond attachments,
+her sports and contests with a [[Well|well]]-loved playmate, the patient, true
+devotion of her [[Child|child]]’s heart, her fears, her delicate reserves, her
+little trials, the last piercing [[Pain|pain]] of separation…. I retraced these
+things, and shook my head incredulous. She persisted. “The [[Child|child]] of
+seven years lives yet in the girl of seventeen,” said she.
 
 “You used to be excessively fond of Mrs. Bretton,” I remarked,
 intending to test her. She set me right at once.

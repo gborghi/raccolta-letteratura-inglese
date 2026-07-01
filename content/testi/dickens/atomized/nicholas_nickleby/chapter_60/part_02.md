@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 60 (part 2)"
+title: "Nicholas Nickleby — Chapter 60 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_60/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_60/part_03">part 03 ›</a></div>
 </nav>
 
+
+His running on, in this way, had afforded Ralph an opportunity of
+recovering his presence of mind, which at once suggested to him
+the necessity of removing, as far as possible, the schoolmaster’s
+misgivings, and leading him to believe that his safety and best policy
+lay in the preservation of a rigid [[Silence|silence]].
 
 ‘I tell you, once again,’ he said, ‘they can’t hurt you. You shall have
 an action for false [[Imprisonment|imprisonment]], and make a profit of this, yet. We

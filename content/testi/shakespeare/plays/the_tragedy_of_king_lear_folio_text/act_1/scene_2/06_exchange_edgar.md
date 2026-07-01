@@ -1,5 +1,5 @@
 ---
-title: "The [[Tragedy]] of [[King Lear]] (Folio Text) — Act I, Scene 2 — exchange ([[Edgar|EDGAR]]) [6]"
+title: "The Tragedy of King Lear (Folio Text) — Act I, Scene 2 — exchange (EDGAR) [6]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-tragedy-of-king-lear---the-folio-text-(shakespeare)"

@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 4 (part 3)"
+title: "The Mystery of Edwin Drood — Chapter 4 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -13,6 +13,33 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_05/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_06/part_01">part 01 ›</a></div>
 </nav>
 
+
+[[Durdles]] is a stonemason; chiefly in the gravestone, tomb, and monument
+way, and wholly of their colour from head to foot. No man is better
+known in Cloisterham. He is the chartered libertine of the place. Fame
+trumpets him a wonderful workman—which, for aught that anybody knows,
+he may be (as he never works); and a wonderful sot—which everybody
+knows he is. With the [[Cathedral]] crypt he is better acquainted than any
+living authority; it may even be than any dead one. It is said that the
+intimacy of this acquaintance began in his habitually resorting to that
+secret place, to lock-out the Cloisterham boy-populace, and [[Sleep|sleep]] off
+fumes of liquor: he having ready access to the [[Cathedral]], as contractor
+for rough repairs. Be this as it may, he does know much about it, and,
+in the demolition of impedimental fragments of wall, buttress, and
+pavement, has seen strange sights. He often speaks of himself in the
+third person; perhaps, being a little misty as to his own [[Identity|identity]],
+when he narrates; perhaps impartially adopting the Cloisterham
+nomenclature in reference to a character of acknowledged distinction.
+Thus he will say, touching his strange sights: “[[Durdles]] come upon the
+old chap,” in reference to a buried magnate of ancient [[Time|time]] and high
+degree, “by striking right into the coffin with his pick. The old chap
+gave [[Durdles]] a look with his open eyes, as much as to say, ‘Is your
+name [[Durdles]]? Why, my man, I’ve been waiting for you a devil of a
+[[Time|time]]!’ And then he turned to powder.” With a two-foot rule always in
+his pocket, and a mason’s hammer all but always in his hand, [[Durdles]]
+goes continually sounding and tapping all about and about the
+[[Cathedral]]; and whenever he says to Tope: “Tope, here’s another old ’un
+in here!” Tope announces it to the Dean as an established discovery.
 
 In a suit of coarse flannel with horn buttons, a yellow neckerchief
 with draggled ends, an old hat more russet-coloured than black, and

@@ -1,5 +1,5 @@
 ---
-title: "The [[history|History]] of [[King Lear]] (Quarto Text) — Scene 11 — exchange ([[Kent|KENT]]) [2]"
+title: "The History of King Lear (Quarto Text) — Scene 11 — exchange (KENT) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-history-of-king-lear---the-quarto-text-(shakespeare)"

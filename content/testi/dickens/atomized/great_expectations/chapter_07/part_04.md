@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 7 (part 4)"
+title: "Great Expectations — Chapter 7 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_07/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_08/part_01">part 01 ›</a></div>
 </nav>
 
+
+“And she is a she, I suppose?” said my sister. “Unless you call Miss
+Havisham a he. And I [[Doubt|doubt]] if even you’ll go so far as that.”
+
+“[[Miss Havisham]], up town?” said Joe.
+
+“Is there any [[Miss Havisham]] down town?” returned my sister.
+
+“She wants this boy to go and play there. And of course he’s going. And
+he had better play there,” said my sister, shaking her head at me as an
+encouragement to be extremely light and sportive, “or I’ll work him.”
+
+I had heard of [[Miss Havisham]] up town,—everybody for miles round had
+heard of [[Miss Havisham]] up town,—as an immensely rich and grim lady who
+lived in a large and dismal [[house]] barricaded against robbers, and who
+led a life of seclusion.
 
 “[[Well]] to be sure!” said Joe, astounded. “I [[Wonder|wonder]] how she come to know
 Pip!”

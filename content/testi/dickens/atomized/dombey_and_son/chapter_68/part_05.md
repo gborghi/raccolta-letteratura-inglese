@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 12 (part 5)"
+title: "Dombey and Son — Chapter 40 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,122 +14,131 @@ tags:
 </nav>
 
 
-“Oh, Dombey, Dombey!” said Miss Blimber, “this is very shocking.”
+“Now, my dearest Grangeby,” said Mrs Skewton, “you must posively prom,”
+she cut some of her words short, and cut out others altogether, “come
+down very soon.”
 
-“If you please,” said Paul, “I think if I might sometimes talk a little
-to old Glubb, I should be able to do better.”
+“I said just now, Madam,” returned Mr Dombey, loudly and laboriously,
+“that I am coming in a day or two.”
 
-“Nonsense, Dombey,” said Miss Blimber. “I couldn’t hear of it. This is
-not the place for Glubbs of any kind. You must take the books down, I
-suppose, Dombey, one by one, and perfect yourself in the day’s
-instalment of subject A, before you turn at all to subject B. I am
-sorry to say, Dombey, that your [[Education|education]] appears to have been very
-much neglected.”
+“Bless you, Domber!”
 
-“So Papa says,” returned Paul; “but I told you—I have been a weak
-[[Child|child]]. Florence knows I have. So does Wickam.”
+Here the Major, who was come to take leave of the ladies, and who was
+staring through his apoplectic eyes at Mrs Skewton’s face with the
+disinterested composure of an immortal being, said:
 
-“Who is Wickam?” asked Miss Blimber.
+“Begad, Ma’am, you don’t ask old Joe to come!”
 
-“She has been my [[Nurse|nurse]],” Paul answered.
+“Sterious wretch, who’s he?” lisped [[Cleopatra]]. But a tap on the bonnet
+from [[Flowers]] seeming to jog her [[Memory|memory]], she added, “Oh! You mean
+yourself, you naughty creature!”
 
-“I must beg you not to mention Wickam to me, then,” said Miss Blimber.
-“I couldn’t allow it”.
+“Devilish queer, Sir,” whispered the Major to Mr Dombey. “Bad case.
+Never did wrap up enough;” the Major being buttoned to the chin. “Why
+who should J. B. mean by Joe, but old Joe Bagstock—Joseph—your
+slave—Joe, Ma’am? Here! Here’s the man! Here are the Bagstock bellows,
+Ma’am!” cried the Major, striking himself a sounding blow on the chest.
 
-“You asked me who she was,” said Paul.
+“My dearest Edith—Grangeby—it’s most trordinry thing,” said [[Cleopatra]],
+pettishly, “that Major—”
 
-“Very [[Well|well]],” returned Miss Blimber; “but this is all very different
-indeed from anything of that sort, Dombey, and I couldn’t think of
-permitting it. As to having been weak, you must begin to be strong. And
-now take away the top book, if you please, Dombey, and return when you
-are master of the theme.”
+“Bagstock! J. B.!” cried the Major, seeing that she faltered for his
+name.
 
-Miss Blimber expressed her opinions on the subject of Paul’s
-uninstructed state with a gloomy delight, as if she had expected this
-result, and were glad to find that they must be in constant
-communication. Paul withdrew with the top task, as he was told, and
-laboured away at it, down below: sometimes remembering every word of
-it, and sometimes forgetting it all, and everything else besides: until
-at last he ventured upstairs again to repeat the lesson, when it was
-nearly all driven out of his head before he began, by Miss Blimber’s
-shutting up the book, and saying, “Go on, Dombey!” a proceeding so
-suggestive of the knowledge inside of her, that Paul looked upon the
-young lady with consternation, as a kind of learned Guy Fawkes, or
-artificial Bogle, stuffed full of scholastic straw.
+“[[Well]], it don’t matter,” said [[Cleopatra]]. “Edith, my [[Love|love]], you know I
+never could remember names—what was it? oh!—most trordinry thing that
+so many people want to come down to see me. I’m not going for long. I’m
+coming back. Surely they can wait, till I come back!”
 
-He acquitted himself very [[Well|well]], nevertheless; and Miss Blimber,
-commending him as giving promise of getting on fast, immediately
-provided him with subject B; from which he passed to C, and even D
-before dinner. It was hard work, resuming his studies, soon after
-dinner; and he felt giddy and confused and drowsy and dull. But all the
-other young gentlemen had similar sensations, and were obliged to
-resume their studies too, if there were any comfort in that. It was a
-[[Wonder|wonder]] that the great [[Clock|clock]] in the hall, instead of being constant to
-its first inquiry, never said, “Gentlemen, we will now resume our
-studies,” for that phrase was often enough repeated in its
-neighbourhood. The studies went round like a mighty [[Wheel|wheel]], and the
-young gentlemen were always stretched upon it.
+[[Cleopatra]] looked all round the table as she said it, and appeared very
+uneasy.
 
-After tea there were exercises again, and preparations for next day by
-candlelight. And in due course there was bed; where, but for that
-resumption of the studies which took place in [[Dreams|dreams]], were rest and
-sweet forgetfulness.
+“I won’t have visitors—really don’t want visitors,” she said; “little
+repose—and all that sort of thing—is what I quire. No odious brutes
+must proach me till I’ve shaken off this numbness;” and in a grisly
+resumption of her coquettish ways, she made a dab at the Major with her
+fan, but overset Mr Dombey’s breakfast cup instead, which was in quite
+a different direction.
 
-Oh Saturdays! Oh happy Saturdays, when Florence always came at [[Noon|noon]],
-and never would, in any weather, stay away, though Mrs Pipchin snarled
-and growled, and worried her bitterly. Those Saturdays were Sabbaths
-for at least two little Christians among all the Jews, and did the holy
-Sabbath work of strengthening and knitting up a brother’s and a
-sister’s [[Love|love]].
+Then she called for Withers, and charged him to see particularly that
+word was left about some trivial alterations in her room, which must be
+all made before she came back, and which must be set about immediately,
+as there was no saying how soon she might come back; for she had a
+great many engagements, and all sorts of people to call upon. Withers
+received these directions with becoming deference, and gave his
+guarantee for their execution; but when he withdrew a pace or two
+behind her, it appeared as if he couldn’t help looking strangely at the
+Major, who couldn’t help looking strangely at Mr Dombey, who couldn’t
+help looking strangely at [[Cleopatra]], who couldn’t help nodding her
+bonnet over one eye, and rattling her knife and fork upon her plate in
+using them, as if she were playing castanets.
 
-Not even [[Sunday]] nights—the heavy [[Sunday]] nights, whose [[Shadow|shadow]] darkened
-the first waking burst of light on [[Sunday]] mornings—could mar those
-precious Saturdays. Whether it was the great sea-shore, where they sat,
-and strolled together; or whether it was only Mrs Pipchin’s dull back
-room, in which she sang to him so softly, with his drowsy head upon her
-arm; Paul never cared. It was Florence. That was all he thought of. So,
-on [[Sunday]] nights, when the Doctor’s dark door stood agape to [[Swallow|swallow]]
-him up for another week, the [[Time|time]] was come for taking leave of
-Florence; no one else.
+Edith [[Alone|alone]] never lifted her eyes to any face at the table, and never
+seemed dismayed by anything her mother said or did. She listened to her
+disjointed talk, or at least, turned her head towards her when
+addressed; replied in a few low words when necessary; and sometimes
+stopped her when she was rambling, or brought her thoughts back with a
+monosyllable, to the point from which they had strayed. The mother,
+however unsteady in other things, was constant in this—that she was
+always observant of her. She would look at the beautiful face, in its
+marble stillness and severity, now with a kind of fearful admiration;
+now in a giggling foolish effort to move it to a smile; now with
+capricious [[Tears|tears]] and jealous shakings of her head, as imagining herself
+neglected by it; always with an attraction towards it, that never
+fluctuated like her other ideas, but had constant possession of her.
+From Edith she would sometimes look at Florence, and back again at
+Edith, in a manner that was wild enough; and sometimes she would try to
+look elsewhere, as if to escape from her daughter’s face; but back to
+it she seemed forced to come, although it never sought hers unless
+sought, or troubled her with one single glance.
 
-Mrs Wickam had been drafted [[Home|home]] to the [[house]] in town, and Miss Nipper,
-now a smart young woman, had come down. To many a single combat with
-Mrs Pipchin, did Miss Nipper gallantly devote herself, and if ever Mrs
-Pipchin in all her life had found her match, she had found it now. Miss
-Nipper threw away the scabbard the first morning she arose in Mrs
-Pipchin’s [[house]]. She asked and gave no quarter. She said it must be
-war, and war it was; and Mrs Pipchin lived from that [[Time|time]] in the midst
-of surprises, harassings, and defiances, and skirmishing attacks that
-came bouncing in upon her from the passage, even in unguarded moments
-of chops, and carried desolation to her very toast.
+The breakfast concluded, Mrs Skewton, affecting to lean girlishly upon
+the Major’s arm, but heavily supported on the other side by [[Flowers]] the
+maid, and propped up behind by Withers the page, was conducted to the
+carriage, which was to take her, Florence, and Edith to Brighton.
 
-Miss Nipper had returned one [[Sunday]] [[Night|night]] with Florence, from walking
-back with Paul to the Doctor’s, when Florence took from her bosom a
-little piece of paper, on which she had pencilled down some words.
+“And is Joseph absolutely banished?” said the Major, thrusting in his
+purple face over the steps. “Damme, Ma’am, is [[Cleopatra]] so hard-hearted
+as to forbid her faithful Antony Bagstock to approach the presence?”
 
-“See here, Susan,” she said. “These are the names of the little books
-that Paul brings [[Home|home]] to do those long exercises with, when he is so
-tired. I copied them last [[Night|night]] while he was writing.”
+“Go along!” said [[Cleopatra]], “I can’t bear you. You shall see me when I
+come back, if you are very good.”
 
-“Don’t show ’em to me, Miss Floy, if you please,” returned Nipper, “I’d
-as soon see Mrs Pipchin.”
+“Tell Joseph, he may live in [[Hope|hope]], Ma’am,” said the Major; “or he’ll
+die in [[Despair|despair]].”
 
-“I want you to buy them for me, Susan, if you will, tomorrow morning. I
-have money enough,” said Florence.
+[[Cleopatra]] shuddered, and leaned back. “Edith, my dear,” she said. “Tell
+him—”
 
-“Why, goodness gracious me, Miss Floy,” returned Miss Nipper, “how can
-you talk like that, when you have books upon books already, and
-masterses and mississes a teaching of you everything continual, though
-my belief is that your Pa, Miss Dombey, never would have learnt you
-nothing, never would have thought of it, unless you’d asked him—when he
-couldn’t [[Well|well]] refuse; but giving consent when asked, and offering when
-unasked, Miss, is quite two things; I may not have my objections to a
-young man’s keeping company with me, and when he puts the question, may
-say ‘yes,’ but that’s not saying ‘would you be so kind as like me.’”
+“What?”
 
-“But you can buy me the books, Susan; and you will, when you know why I
-want them.”
+“Such dreadful words,” said [[Cleopatra]]. “He uses such dreadful words!”
 
-“[[Well]], Miss, and why do you want ’em?” replied Nipper; adding, in a
-lower voice, “If it was to fling at Mrs Pipchin’s head, I’d buy a
-cart-load.”
+Edith signed to him to retire, gave the word to go on, and left the
+objectionable Major to Mr Dombey. To whom he returned, whistling.
+
+“I’ll tell you what, Sir,” said the Major, with his hands behind him,
+and his legs very wide asunder, “a fair friend of ours has removed to
+Queer Street.”
+
+“What do you mean, Major?” inquired Mr Dombey.
+
+“I mean to say, Dombey,” returned the Major, “that you’ll soon be an
+[[Orphan|orphan]]-in-law.”
+
+Mr Dombey appeared to relish this waggish description of himself so
+very little, that the Major wound up with the [[Horse|horse]]’s cough, as an
+expression of gravity.
+
+“Damme, Sir,” said the Major, “there is no use in disguising a fact.
+Joe is blunt, Sir. That’s his [[Nature|nature]]. If you take old Josh at all, you
+take him as you find him; and a devilish rusty, old rasper, of a
+close-toothed, J. B. file, you do find him. Dombey,” said the Major,
+“your wife’s mother is on the move, Sir.”
+
+“I [[Fear|fear]],” returned Mr Dombey, with much [[philosophy]], “that Mrs Skewton
+is shaken.”
+
+“Shaken, Dombey!” said the Major. “Smashed!”
+
+“Change, however,” pursued Mr Dombey, “and attention, may do much yet.”

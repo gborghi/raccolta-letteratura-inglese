@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 18 (part 2)"
+title: "Wuthering Heights — Chapter 18 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -13,6 +13,29 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_18/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_18/part_03">part 03 ›</a></div>
 </nav>
 
+
+The [[Summer|summer]] shone in full prime; and she took such a taste for this
+solitary rambling that she often contrived to remain out from breakfast
+till tea; and then the evenings were spent in recounting her fanciful
+tales. I did not [[Fear|fear]] her breaking bounds; because the gates were
+generally locked, and I thought she would scarcely venture forth [[Alone|alone]],
+if they had stood wide open. Unluckily, my confidence proved misplaced.
+Catherine came to me, one morning, at eight o’[[Clock|clock]], and said she was
+that day an Arabian merchant, going to [[Cross|cross]] the [[Desert]] with his
+caravan; and I must give her plenty of provision for herself and
+beasts: a [[Horse|horse]], and three camels, personated by a large hound and a
+couple of pointers. I got together good store of dainties, and slung
+them in a basket on one side of the saddle; and she sprang up as gay as
+a fairy, sheltered by her wide-brimmed hat and gauze veil from the July
+sun, and trotted off with a merry laugh, mocking my cautious counsel to
+avoid galloping, and come back early. The naughty thing never made her
+appearance at tea. One traveller, the hound, being an old dog and fond
+of its ease, returned; but neither Cathy, nor the pony, nor the two
+pointers were visible in any direction: I despatched emissaries down
+this path, and that path, and at last went wandering in search of her
+myself. There was a labourer working at a fence round a plantation, on
+the borders of the grounds. I inquired of him if he had seen our young
+lady.
 
 “I saw her at morn,” he replied: “she would have me to cut her a hazel
 switch, and then she leapt her Galloway over the hedge yonder, where it
@@ -103,44 +126,3 @@ Hareton and the woman laughed, and she joined them, and waxed more
 impertinent still; till I cried, in great irritation,—“[[Well]], Miss
 Cathy, if you were aware whose [[house]] this is you’d be glad enough to
 get out.”
-
-“It’s _your_ father’s, isn’t it?” said she, turning to Hareton.
-
-“Nay,” he replied, looking down, and blushing bashfully.
-
-He could not stand a steady gaze from her eyes, though they were just
-his own.
-
-“Whose then—your master’s?” she asked.
-
-He coloured deeper, with a different feeling, muttered an oath, and
-turned away.
-
-“Who is his master?” continued the tiresome girl, appealing to me. “He
-talked about ‘our [[house]],’ and ‘our folk.’ I thought he had been the
-owner’s son. And he never said Miss: he should have done, shouldn’t he,
-if he’s a servant?”
-
-Hareton grew black as a thunder-cloud at this childish speech. I
-silently shook my questioner, and at last succeeded in equipping her
-for departure.
-
-“Now, get my [[Horse|horse]],” she said, addressing her unknown kinsman as she
-would one of the stable-boys at the Grange. “And you may come with me.
-I want to see where the goblin-hunter rises in the marsh, and to hear
-about the _fairishes_, as you call them: but make haste! What’s the
-matter? Get my [[Horse|horse]], I say.”
-
-“I’ll see thee damned before I be _thy_ servant!” growled the lad.
-
-“You’ll see me _what?_” asked Catherine in surprise.
-
-“Damned—thou saucy [[Witch|witch]]!” he replied.
-
-“There, Miss Cathy! you see you have got into pretty company,” I
-interposed. “Nice words to be used to a young lady! Pray don’t begin to
-dispute with him. Come, let us seek for Minny ourselves, and begone.”
-
-“But, Ellen,” cried she, staring fixed in astonishment, “how dare he
-speak so to me? Mustn’t he be made to do as I ask him? You wicked
-creature, I shall tell papa what you said.—Now, then!”

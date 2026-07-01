@@ -1,5 +1,5 @@
 ---
-title: "Napoleon of Notting [[Hill]] — Chapter 3 (part 1)"
+title: "Napoleon of Notting Hill — Chapter 1 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/napoleon-of-notting-hill-(chesterton)"
@@ -14,134 +14,130 @@ tags:
 </nav>
 
 
-CHAPTER III
+BOOK III
+CHAPTER I
 
-ENTER A LUNATIC
+THE MENTAL CONDITION OF [[Adam Wayne|ADAM WAYNE]]
 
-THE [[King]] of the Fairies, who was, it is to be presumed, the godfather
-of [[King]] Auberon, must have been very favourable on this particular
-day to his fantastic godchild, for with the entrance of the guard
-of the Provost of Notting [[Hill]] there was a certain more or less
-inexplicable addition to his delight.  The wretched navvies and
-sandwich-men who carried the colours of Bayswater or South Kensington,
-engaged merely for the day to satisfy the Royal hobby, slouched into
-the room with a comparatively hang-dog air, and a great part of
-the [[King]]'s intellectual pleasure consisted in the contrast between
-the arrogance of their swords and feathers and the meek misery
-of their faces.  But these Notting [[Hill]] halberdiers in their red
-tunics belted with gold had the air rather of an absurd gravity.
-They seemed, so to speak, to be taking part in the joke.
-They marched and wheeled into position with an almost startling
-dignity, and discipline.
+A LITTLE while after the [[King]]'s accession a small book of [[Poems|poems]]
+appeared, called "Hymns of the [[Hill]]."  They were not good [[Poems|poems]],
+nor was the book successful, but it attracted a certain amount of
+attention from one particular school of critics.  The [[King]] himself,
+who was a member of the school, reviewed it in his capacity of
+literary critic to "Straight from the Stables," a sporting journal.
+They were known as the Hammock School, because it had been calculated
+malignantly by an enemy that no less than thirteen of their delicate
+criticisms had begun with the words, "I read this book in a hammock;
+half asleep in the sleepy sunlight, I..."; after that there were
+important differences.  Under these conditions they liked everything,
+but especially everything silly.  "Next to authentic goodness
+in a book," they said "next to authentic goodness in a book
+(and that, alas! we never find) we [[Desire|desire]] a rich badness."
+Thus it happened that their praise (as indicating the presence of a
+rich badness) was not universally sought after, and authors became
+a little disquieted when they found the eye of the Hammock School
+fixed upon them with peculiar favour.
 
-They carried a yellow banner with a great red [[Lion|lion]], named by
-the [[King]] as the Notting [[Hill]] emblem, after a small public-[[house]]
-in the neighbourhood, which he once frequented.
+The peculiarity of "Hymns of the [[Hill]]" was the celebration of
+the poetry of [[London]] as distinct from the poetry of the country.
+This sentiment or affectation was, of course, not uncommon in
+the twentieth century, nor was it, although sometimes exaggerated,
+and sometimes artificial, by any means without a great [[Truth|truth]] at its root,
+for there is one respect in which a town must be more poetical than
+the country, since it is closer to the spirit of man; for [[London]],
+if it be not one of the masterpieces of man, is at least one of his sins.
+A street is really more poetical than a meadow, because a street
+has a secret.  A street is going somewhere, and a meadow nowhere.
+But, in the case of the book called "Hymns on the [[Hill]],"
+there was another peculiarity, which the [[King]] pointed out with great
+acumen in his review.  He was naturally interested in the matter,
+for he had himself published a volume of lyrics about [[London]] under
+his pseudonym of "Daisy Daydream."
 
-Between the two lines of his followers there advanced towards the [[King]]
-a tall, red-haired young man, with high features, and bold blue eyes.
-He would have been called handsome, but that a certain indefinable
-air of his nose being too big for his face, and his feet for
-his legs, gave him a look of awkwardness and extreme youth.
-His robes were red, according to the [[King]]'s heraldry,
-and [[Alone|alone]] among the Provosts, he was girt with a great [[Sword|sword]].
-This was [[Adam Wayne]], the intractable Provost of Notting [[Hill]].
+This difference, as the [[King]] pointed out, consisted in the fact that,
+while mere artificers like "Daisy Daydream" (on whose elaborate
+style the [[King]], over his signature of "Thunderbolt," was perhaps
+somewhat too severe) thought to praise [[London]] by comparing it to the
+country...using [[Nature|nature]], that is, as a background from which all poetical
+images had to be drawn...the more robust author of "Hymns of the [[Hill]]"
+praised the country, or [[Nature|nature]], by comparing it to the town,
+and used the town itself as a background.  "Take," said the critic,
+"the typically feminine lines, ' To the Inventor of the Hansom Cab'"
 
-The [[King]] flung himself back in his chair, and rubbed his hands.
+' Poet, whose cunning carved this amorous shell, Where twain may dwell.'
 
-"What a day, what a day!" he said to himself.  "Now there'll be a row.
-I'd no idea it would be such fun as it is.  These Provosts are
-so very indignant, so very reasonable, so very right.  This fellow,
-by the look in his eyes, is even more indignant than the rest.
-No sign in those large blue eyes, at any rate, of ever having
-heard of a joke.  He'll remonstrate with the others, and they'll
-remonstrate with him, and they'll all make themselves sumptuously
-happy remonstrating with me."
+"Surely," wrote the [[King]], "no one but a woman could have written
+those lines.  A woman has always a weakness for [[Nature|nature]]; with her,
+art is only beautiful as an echo or [[Shadow|shadow]] of it.  She is praising
+the hansom cab by theme and theory, but her [[Soul|soul]] is still a [[Child|child]]
+by the sea, picking up shells.  She can never be utterly of the town,
+as a man can; indeed, do we not speak (with sacred propriety)
+of 'a man about town'?  Who ever spoke of a woman about town?
+However much, physically, 'about town' a woman may be, she still models
+herself on [[Nature|nature]]; she tries to carry [[Nature|nature]] with her; she bids grasses
+to grow on her head, and furry beasts to bite her about the throat.
+In the heart of a dim [[City|city]], she models her hat on a flaring
+cottage [[Garden|garden]] of [[Flowers|flowers]].  We, with our nobler civic sentiment,
+model ours on a chimney pot; the ensign of civilization.
+And rather than be without [[Birds|birds]], she will commit massacre, that she
+may turn her head into a tree, with dead [[Birds|birds]] to sing on it."
 
-"Welcome, my Lord," he said aloud.  "What news from the [[Hill]] of a
-Hundred Legends?  What have you for the ear of your [[King]]?  I know
-that troubles have arisen between you and these others,
-our cousins, but these troubles it shall be our [[Pride|pride]] to compose.
-And I [[Doubt|doubt]] not, and cannot [[Doubt|doubt]], that your [[Love|love]] for me is not
-less tender, no less ardent than theirs."
+This kind of thing went on for several pages, and then the critic
+remembered his subject, and returned to it.
 
-Mr. Buck made a bitter face, and [[James Barker]]'s nostrils curled;
-Wilson began to giggle faintly, and the Provost of West Kensington
-followed in a smothered way.  But the big blue eyes of [[Adam Wayne]]
-never changed, and he called out in an odd, boyish voice down the hall:
+"Poet, whose cunning carved this amorous shell, Where twain may dwell."
 
-"I bring homage to my [[King]].  I bring him the only thing
-I have...my [[Sword|sword]]."
+"The peculiarity of these fine though feminine lines,"
+continued "Thunderbolt," "is, as we have said, that they praise
+the hansom cab by comparing it to the shell, to a natural thing.
+Now, hear the author of ' Hymns of the [[Hill]],' and how he deals with
+the same subject.  In his fine nocturne, entitled ' The Last Omnibus,'
+he relieves the rich and poignant [[Melancholy|melancholy]] of the theme by a sudden
+sense of rushing at the end"
 
-And with a great gesture he flung it down on the ground, and knelt
-on one knee behind it.
+' The [[Wind|wind]] round the old street corner Swung sudden and quick
+as a cab.'
 
-There was a dead [[Silence|silence]].
+"Here the distinction is obvious.  ' Daisy Daydream' thinks it
+a great compliment to a hansom cab to be compared to one of the spiral
+chambers of the sea.  And the author of ' Hymns on the [[Hill]]'
+thinks it a great compliment to the immortal whirlwind to be compared
+to a hackney coach.  He surely is the real admirer of [[London]].
+We have no space to speak of all his perfect applications of the idea;
+of the poem in which, for instance, a lady's eyes are compared,
+not to [[Stars|stars]], but to two perfect street-lamps guiding the wanderer.
+We have no space to speak of the fine [[Lyric|lyric]], recalling the
+Elizabethan spirit, in which the poet, instead of saying
+that the [[Rose|rose]] and the lily contend in her complexion, says,
+with a purer modernism, that the red omnibus of Hammersmith
+and the white omnibus of Fulham fight there for the mastery.
+How perfect the image of two contending omnibuses!"
 
-"I beg your pardon," said the [[King]], blankly.
-
-"You speak [[Well|well]], sire," said [[Adam Wayne]], "as you ever speak,
-when you say that my [[Love|love]] is not less than the [[Love|love]] of these.
-Small would it be if it were not more.  For I am the heir of
-your scheme...the [[Child|child]] of the great Charter.  I stand here for
-the rights the Charter gave me, and I swear, by your sacred [[Crown|crown]],
-that where I stand, I stand fast."
-
-The eyes of all five men stood out of their heads.
-
-Then Buck said, in his jolly, jarring voice:  "Is the whole world mad?"
-
-The [[King]] sprang to his feet, and his eyes blazed.
-
-"Yes," he cried, in a voice of exultation, "the whole world is mad,
-but [[Adam Wayne]] and me.  It is true as [[Death|death]] what I told you long ago,
-[[James Barker]], seriousness sends men mad.  You are mad, because you
-care for politics, as mad as a man who collects tram tickets.
-Buck is mad, because he cares for money, as mad as a man who lives
-on opium.  Wilson is mad, because he thinks himself right,
-as mad as a man who thinks himself God Almighty.  The Provost
-of West Kensington is mad, because he thinks he is respectable,
-as mad as a man who thinks he is a chicken.  All men are mad,
-but the humourist, who cares for nothing and possesses everything.
-I thought that there was only one humourist in England.
-Fools!...dolts!...open your cows' eyes; there are two!
-In Notting [[Hill]]... in that unpromising elevation...there has been born
-an [[Artist|artist]]!  You thought to spoil my joke, and bully me out of it,
-by becoming more and more modern, more and more practical, more and
-more bustling and rational.  Oh, what a feast it was to answer you
-by becoming more and more august, more and more gracious, more and
-more ancient and mellow!  But this lad has seen how to bowl me out.
-He has answered me back, vaunt for vaunt, rhetoric for rhetoric.
-He has lifted the only shield I cannot break, the shield of an
-impenetrable pomposity.  Listen to him.  You have come, my Lord,
-about Pump Street?"
-
-"About the [[City|city]] of Notting [[Hill]]," answered Wayne, proudly.
-"Of which Pump Street is a living and rejoicing part."
-
-"Not a very large part," said Barker, contemptuously.
-
-"That which is large enough for the rich to covet," said Wayne,
-drawing up his head, "is large enough for the poor to defend."
-
-The [[King]] slapped both his legs, and waved his feet for a second
-in the air.
-
-"Every respectable person in Notting [[Hill]]," cut in Buck,
-with his cold, coarse voice, "is for us and against you.
-I have plenty of friends in Notting [[Hill]]."
-
-"Your friends are those who have taken your gold for other
-men's hearthstones, my Lord Buck," said Provost Wayne.
-"I can [[Well|well]] believe they are your friends."
-
-"They've never sold dirty toys, anyhow," said Buck, laughing shortly.
-
-"They've sold dirtier things," said Wayne, calmly; "they have
-sold themselves."
-
-"It's no good, my Buckling," said the [[King]], [[rolling]] about on
-his chair.  "You can't cope with this chivalrous eloquence.
-You can't cope with an [[Artist|artist]].  You can't cope with the humourist
-of Notting [[Hill]].  O, Nunc dimittis...that I have lived to see this day!
-Provost Wayne, you stand firm?"
+Here, somewhat abruptly, the review concluded, probably because the [[King]]
+had to send off his copy at that moment, as he was in some want of money.
+But the [[King]] was a very good critic, whatever he may have been as [[King]],
+and he had, to a considerable extent, hit the right nail on the head.
+"Hymns on the [[Hill]]" was not at all like the [[Poems|poems]] originally
+published in praise of the poetry of [[London]].  And the reason
+was that it was really written by a man who had seen nothing else
+but [[London]], and who regarded it, therefore, as the universe.
+It was written by a raw, red-headed lad of seventeen, named [[Adam Wayne]],
+who had been born in Notting [[Hill]].  An accident in his seventh year
+prevented his being taken away to the seaside, and thus his whole life
+had been passed in his own Pump Street, and in its neighbourhood.
+And the consequence was, that he saw the street-lamps as things
+quite as eternal as the [[Stars|stars]]; the two fires were mingled.
+He saw the houses as things enduring, like the [[Mountains|mountains]],
+and so he wrote about them as one would write about [[Mountains|mountains]].
+[[Nature]] puts on a disguise when she speaks to every man; to this man
+she put on the disguise of Notting [[Hill]].  [[Nature]] would mean to a poet
+born in the Cumberland hills, a stormy skyline and sudden rocks.
+[[Nature]] would mean to a poet born in the Essex flats, a waste of splendid
+waters and splendid sunsets.  So [[Nature|nature]] meant to this man Wayne
+a line of violet roofs and lemon lamps, the chiaroscuro of the town.
+He did not think it clever or funny to praise the shadows and
+colours of the town; he had seen no other shadows or colours,
+and so he praised them...because they were shadows and colours.
+He saw all this because he was a poet, though in practice a bad poet.
+It is too often forgotten that just as a bad man is nevertheless a man,
+so a bad poet is nevertheless a poet.

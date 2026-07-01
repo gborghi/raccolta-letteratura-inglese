@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 19 (part 1)"
+title: "Dombey and Son — Chapter 47 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -10,129 +10,114 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/dombey-and-son-(dickens)">Dombey and Son</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_74/part_07">‹ part 07</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_75/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_74/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_75/part_02">part 02 ›</a></div>
 </nav>
 
 
-CHAPTER XIX.
-Walter goes away
+CHAPTER XLVII.
+The Thunderbolt
 
 
-The wooden Midshipman at the Instrument-maker’s door, like the
-hard-hearted little Midshipman he was, remained supremely indifferent
-to Walter’s going away, even when the very last day of his sojourn in
-the back parlour was on the decline. With his quadrant at his round
-black knob of an eye, and his figure in its old attitude of indomitable
-alacrity, the Midshipman displayed his elfin small-clothes to the best
-advantage, and, absorbed in scientific pursuits, had no sympathy with
-worldly concerns. He was so far the creature of circumstances, that a
-dry day covered him with [[Dust|dust]], and a misty day peppered him with little
-bits of soot, and a wet day brightened up his tarnished uniform for the
-moment, and a very hot day blistered him; but otherwise he was a
-callous, obdurate, conceited Midshipman, intent on his own discoveries,
-and caring as little for what went on about him, terrestrially, as
-Archimedes at the taking of Syracuse.
+The barrier between Mr Dombey and his wife was not weakened by [[Time|time]].
+Ill-assorted couple, unhappy in themselves and in each other, bound
+together by no tie but the manacle that joined their fettered hands,
+and straining that so harshly, in their shrinking asunder, that it wore
+and chafed to the bone, [[Time]], consoler of affliction and softener of
+anger, could do nothing to help them. Their [[Pride|pride]], however different in
+kind and object, was equal in degree; and, in their flinty opposition,
+struck out [[Fire|fire]] between them which might smoulder or might blaze, as
+circumstances were, but burned up everything within their mutual reach,
+and made their [[Marriage|marriage]] way a [[Road|road]] of ashes.
 
-Such a Midshipman he seemed to be, at least, in the then position of
-domestic affairs. Walter eyed him kindly many a [[Time|time]] in passing in and
-out; and poor old Sol, when Walter was not there, would come and lean
-against the doorpost, resting his weary wig as near the shoe-buckles of
-the guardian genius of his trade and shop as he could. But no fierce
-idol with a mouth from ear to ear, and a murderous visage made of
-parrot’s feathers, was ever more indifferent to the appeals of its
-savage votaries, than was the Midshipman to these marks of attachment.
+Let us be just to him. In the monstrous delusion of his life, swelling
+with every grain of sand that shifted in its glass, he urged her on, he
+little thought to what, or considered how; but still his feeling
+towards her, such as it was, remained as at first. She had the grand
+demerit of unaccountably putting herself in opposition to the
+recognition of his vast importance, and to the acknowledgment of her
+complete submission to it, and so far it was necessary to correct and
+reduce her; but otherwise he still considered her, in his cold way, a
+lady capable of doing [[Honour|honour]], if she would, to his choice and name, and
+of reflecting credit on his proprietorship.
 
-Walter’s heart felt heavy as he looked round his old bedroom, up among
-the parapets and chimney-pots, and thought that one more [[Night|night]] already
-darkening would close his acquaintance with it, perhaps for ever.
-Dismantled of his little stock of books and pictures, it looked coldly
-and reproachfully on him for his desertion, and had already a
-foreshadowing upon it of its coming strangeness. “A few hours more,”
-thought Walter, “and no dream I ever had here when I was a schoolboy
-will be so little mine as this old room. The dream may come back in my
-[[Sleep|sleep]], and I may return waking to this place, it may be: but the dream
-at least will serve no other master, and the room may have a score, and
-every one of them may change, neglect, misuse it.”
+Now, she, with all her might of passionate and proud resentment, bent
+her dark glance from day to day, and hour to hour—from that [[Night|night]] in
+her own chamber, when she had sat gazing at the shadows on the wall, to
+the deeper [[Night|night]] fast coming—upon one figure directing a crowd of
+humiliations and exasperations against her; and that figure, still her
+husband’s.
 
-But his Uncle was not to be left [[Alone|alone]] in the little back parlour,
-where he was then sitting by himself; for [[Captain Cuttle]], considerate
-in his roughness, stayed away against his will, purposely that they
-should have some talk together unobserved: so Walter, newly returned
-[[Home|home]] from his last day’s bustle, descended briskly, to bear him
-company.
+Was Mr Dombey’s master-vice, that ruled him so inexorably, an unnatural
+characteristic? It might be worthwhile, sometimes, to inquire what
+[[Nature]] is, and how men work to change her, and whether, in the enforced
+distortions so produced, it is not natural to be unnatural. Coop any
+son or daughter of our mighty mother within narrow range, and bind the
+prisoner to one idea, and foster it by servile worship of it on the
+part of the few timid or designing people standing round, and what is
+[[Nature]] to the willing captive who has never risen up upon the wings of
+a free mind—drooping and useless soon—to see her in her comprehensive
+[[Truth|truth]]!
 
-“Uncle,” he said gaily, laying his hand upon the old man’s shoulder,
-“what shall I send you [[Home|home]] from Barbados?”
+Alas! are there so few things in the world, about us, most unnatural,
+and yet most natural in being so? Hear the magistrate or judge admonish
+the unnatural outcasts of society; unnatural in brutal habits,
+unnatural in want of decency, unnatural in losing and confounding all
+distinctions between good and evil; unnatural in ignorance, in vice, in
+recklessness, in contumacy, in mind, in looks, in everything. But
+follow the good clergyman or doctor, who, with his life imperilled at
+every breath he draws, goes down into their dens, lying within the
+echoes of our carriage wheels and daily tread upon the pavement stones.
+Look round upon the world of odious sights—millions of immortal
+creatures have no other world on earth—at the lightest mention of which
+humanity revolts, and dainty delicacy living in the next street, stops
+her ears, and lisps “I don’t believe it!” Breathe the polluted air,
+foul with every impurity that is poisonous to health and life; and have
+every sense, conferred upon our race for its delight and happiness,
+offended, sickened and disgusted, and made a channel by which misery
+and [[Death|death]] [[Alone|alone]] can enter. Vainly attempt to think of any simple plant,
+or flower, or wholesome weed, that, set in this foetid bed, could have
+its natural growth, or put its little [[Leaves|leaves]] off to the sun as GOD
+designed it. And then, calling up some ghastly [[Child|child]], with stunted form
+and wicked face, hold forth on its unnatural sinfulness, and lament its
+being, so early, far away from Heaven—but think a little of its having
+been conceived, and born and bred, in Hell!
 
-“[[Hope]], my dear Wally. [[Hope]] that we shall meet again, on this side of
-the [[Grave|grave]]. Send me as much of that as you can.”
+Those who study the physical sciences, and bring them to bear upon the
+health of Man, tell us that if the noxious particles that rise from
+vitiated air were palpable to the sight, we should see them lowering in
+a dense black cloud above such haunts, and [[rolling]] slowly on to corrupt
+the better portions of a town. But if the moral pestilence that rises
+with them, and in the eternal laws of our [[Nature]], is inseparable from
+them, could be made discernible too, how terrible the revelation! Then
+should we see depravity, impiety, drunkenness, theft, murder, and a
+long train of nameless sins against the natural affections and
+repulsions of mankind, overhanging the devoted spots, and creeping on,
+to blight the [[Innocent|innocent]] and spread contagion among the pure. Then should
+we see how the same poisoned fountains that flow into our hospitals and
+lazar-houses, inundate the jails, and make the convict-ships swim deep,
+and roll across the seas, and over-run vast continents with crime. Then
+should we stand appalled to know, that where we generate disease to
+strike our children down and entail itself on [[unborn]] generations, there
+also we breed, by the same certain process, infancy that knows no
+[[innocence]], youth without modesty or shame, maturity that is mature in
+nothing but in [[Suffering|suffering]] and [[Guilt|guilt]], blasted old age that is a scandal
+on the form we bear, unnatural humanity! When we shall gather grapes
+from thorns, and figs from thistles; when fields of grain shall [[spring]]
+up from the offal in the bye-ways of our wicked cities, and roses bloom
+in the fat churchyards that they cherish; then we may look for natural
+humanity, and find it growing from such seed.
 
-“So I will, Uncle: I have enough and to spare, and I’ll not be chary of
-it! And as to lively turtles, and limes for [[Captain Cuttle]]’s punch, and
-preserves for you on Sundays, and all that sort of thing, why I’ll send
-you [[Ship|ship]]-loads, Uncle: when I’m rich enough.”
-
-Old Sol wiped his spectacles, and faintly smiled.
-
-“That’s right, Uncle!” cried Walter, merrily, and clapping him half a
-dozen times more upon the shoulder. “You cheer up me! I’ll cheer up
-you! We’ll be as gay as larks to-morrow morning, Uncle, and we’ll fly
-as high! As to my anticipations, they are singing out of sight now.”
-
-“Wally, my dear boy,” returned the old man, “I’ll do my best, I’ll do
-my best.”
-
-“And your best, Uncle,” said Walter, with his pleasant laugh, “is the
-best best that I know. You’ll not forget what you’re to send me,
-Uncle?”
-
-“No, Wally, no,” replied the old man; “everything I hear about Miss
-Dombey, now that she is left [[Alone|alone]], poor [[Lamb|lamb]], I’ll write. I [[Fear|fear]] it
-won’t be much though, Wally.”
-
-“Why, I’ll tell you what, Uncle,” said Walter, after a moment’s
-hesitation, “I have just been up there.”
-
-“Ay, ay, ay?” murmured the old man, raising his eyebrows, and his
-spectacles with them.
-
-“Not to see her,” said Walter, “though I could have seen her, I
-daresay, if I had asked, Mr Dombey being out of town: but to say a
-parting word to Susan. I thought I might venture to do that, you know,
-under the circumstances, and remembering when I saw Miss Dombey last.”
-
-“Yes, my boy, yes,” replied his Uncle, rousing himself from a temporary
-abstraction.
-
-“So I saw her,” pursued Walter, “Susan, I mean: and I told her I was
-off and away to-morrow. And I said, Uncle, that you had always had an
-interest in Miss Dombey since that [[Night|night]] when she was here, and always
-wished her [[Well|well]] and happy, and always would be proud and glad to serve
-her in the least: I thought I might say that, you know, under the
-circumstances. Don’t you think so?”
-
-“Yes, my boy, yes,” replied his Uncle, in the tone as before.
-
-“And I added,” pursued Walter, “that if she—Susan, I mean—could ever
-let you know, either through herself, or Mrs Richards, or anybody else
-who might be coming this way, that Miss Dombey was [[Well|well]] and happy, you
-would take it very kindly, and would write so much to me, and I should
-take it very kindly too. There! Upon my word, Uncle,” said Walter, “I
-scarcely slept all last [[Night|night]] through thinking of doing this; and could
-not make up my mind when I was out, whether to do it or not; and yet I
-am sure it is the true feeling of my heart, and I should have been
-quite miserable afterwards if I had not relieved it.”
-
-His honest voice and manner corroborated what he said, and quite
-established its ingenuousness.
-
-“So, if you ever see her, Uncle,” said Walter, “I mean Miss Dombey
-now—and perhaps you may, who knows!—tell her how much I felt for her;
-how much I used to think of her when I was here; how I spoke of her,
-with the [[Tears|tears]] in my eyes, Uncle, on this last [[Night|night]] before I went
-away. Tell her that I said I never could forget her gentle manner, or
-her beautiful face, or her sweet kind disposition that was better than
-all. And as I didn’t take them from a woman’s feet, or a young lady’s:
-only a little [[Innocent|innocent]] [[Child|child]]’s,” said Walter: “tell her, if you don’t
-mind, Uncle, that I kept those shoes—she’ll remember how often they
-fell off, that [[Night|night]]—and took them away with me as a remembrance!”
+Oh for a good spirit who would take the [[house]]-tops off, with a more
+potent and benignant hand than the lame demon in the tale, and show a
+Christian people what dark shapes issue from amidst their homes, to
+swell the retinue of the Destroying Angel as he moves forth among them!
+For only one [[Night|night]]’s view of the pale phantoms rising from the scenes
+of our too-long neglect; and from the thick and sullen air where Vice
+and Fever propagate together, raining the tremendous social
+retributions which are ever pouring down, and ever coming thicker!
+Bright and blest the morning that should rise on such a [[Night|night]]: for men,
+delayed no more by stumbling-blocks of their own making, which are but
+specks of [[Dust|dust]] upon the path between them and [[Eternity|eternity]], would then
+apply themselves, like creatures of one common origin, owing one duty
+to the Father of one family, and tending to one common end, to make the
+world a better place!

@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 26 (part 1)"
+title: "Dombey and Son — Chapter 54 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -10,152 +10,120 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/dombey-and-son-(dickens)">Dombey and Son</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_81/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_82/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_81/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_82/part_02">part 02 ›</a></div>
 </nav>
 
 
-CHAPTER XXVI.
-Shadows of the Past and Future
+CHAPTER LIV.
+The Fugitives
 
 
-Your most obedient, Sir,” said the Major. “Damme, Sir, a friend of my
-friend Dombey’s is a friend of mine, and I’m glad to see you!”
+Tea-[[Time|time]], an hour short of midnight; the place, a French apartment,
+comprising some half-dozen rooms;—a dull cold hall or corridor, a
+dining-room, a drawing-room, a bed-room, and an inner drawingroom, or
+boudoir, smaller and more retired than the rest. All these shut in by
+one large pair of doors on the main staircase, but each room provided
+with two or three pairs of doors of its own, establishing several means
+of communication with the remaining portion of the apartment, or with
+certain small passages within the wall, leading, as is not unusual in
+such houses, to some back stairs with an obscure outlet below. The
+whole situated on the first floor of so large an Hotel, that it did not
+absorb one entire row of windows upon one side of the square [[Court|court]]-yard
+in the centre, upon which the whole four sides of the mansion looked.
 
-“I am infinitely obliged, Carker,” explained Mr Dombey, “to Major
-Bagstock, for his company and conversation. [[Major Bagstock]] has rendered
-me great service, Carker.”
+An air of splendour, sufficiently faded to be [[Melancholy|melancholy]], and
+sufficiently dazzling to clog and embarrass the details of life with a
+show of state, reigned in these rooms. The walls and ceilings were
+gilded and painted; the floors were waxed and polished; crimson drapery
+hung in festoons from [[Window|window]], door, and [[Mirror|mirror]]; and candelabra, gnarled
+and intertwisted like the branches of trees, or horns of [[Animals|animals]], stuck
+out from the panels of the wall. But in the day-[[Time|time]], when the
+lattice-blinds (now closely shut) were opened, and the light let in,
+traces were discernible among this finery, of wear and tear and [[Dust|dust]],
+of sun and damp and smoke, and lengthened intervals of want of use and
+habitation, when such shows and toys of life seem sensitive like life,
+and waste as men shut up in [[Prison|prison]] do. Even [[Night|night]], and clusters of
+burning candles, could not wholly efface them, though the general
+glitter threw them in the shade.
 
-Mr Carker the Manager, hat in hand, just arrived at Leamington, and
-just introduced to the Major, showed the Major his whole [[Double|double]] range
-of teeth, and trusted he might take the liberty of thanking him with
-all his heart for having effected so great an Improvement in Mr
-Dombey’s looks and spirits.
+The glitter of bright tapers, and their reflection in looking-glasses,
+scraps of gilding and gay colours, were confined, on this [[Night|night]], to one
+room—that smaller room within the rest, just now enumerated. Seen from
+the hall, where a lamp was feebly burning, through the dark perspective
+of open doors, it looked as shining and precious as a gem. In the heart
+of its radiance sat a beautiful woman—Edith.
 
-“By Gad, Sir,” said the Major, in reply, “there are no thanks due to
-me, for it’s a give and take affair. A great creature like our friend
-Dombey, Sir,” said the Major, lowering his voice, but not lowering it
-so much as to render it inaudible to that gentleman, “cannot help
-improving and exalting his friends. He strengthens and invigorates a
-man, Sir, does Dombey, in his moral [[Nature|nature]].”
+She was [[Alone|alone]]. The same defiant, scornful woman still. The cheek a
+little worn, the eye a little larger in appearance, and more lustrous,
+but the haughty bearing just the same. No shame upon her brow; no late
+repentance bending her disdainful neck. Imperious and stately yet, and
+yet regardless of herself and of all else, she sat with her dark eyes
+cast down, waiting for someone.
 
-Mr Carker snapped at the expression. In his moral [[Nature|nature]]. Exactly. The
-very words he had been on the point of suggesting.
+No book, no work, no occupation of any kind but her own thought,
+beguiled the tardy [[Time|time]]. Some purpose, strong enough to fill up any
+pause, possessed her. With her lips pressed together, and quivering if
+for a moment she released them from her control; with her nostril
+inflated; her hands clasped in one another; and her purpose swelling in
+her breast; she sat, and waited.
 
-“But when my friend Dombey, Sir,” added the Major, “talks to you of
-[[Major Bagstock]], I must crave leave to set him and you right. He means
-plain Joe, Sir—Joey B.—Josh. Bagstock—Joseph—rough and tough Old J.,
-Sir. At your service.”
+At the sound of a key in the outer door, and a footstep in the hall,
+she started up, and cried “Who’s that?” The answer was in French, and
+two men came in with jingling trays, to make preparation for supper.
 
-Mr Carker’s excessively friendly inclinations towards the Major, and Mr
-Carker’s admiration of his roughness, toughness, and plainness, gleamed
-out of every tooth in Mr Carker’s head.
+“Who had bade them to do so?” she asked.
 
-“And now, Sir,” said the Major, “you and Dombey have the devil’s own
-amount of business to talk over.”
+“Monsieur had commanded it, when it was his pleasure to take the
+apartment. Monsieur had said, when he stayed there for an hour, en
+route, and left the letter for Madame—Madame had received it surely?”
 
-“By no means, Major,” observed Mr Dombey.
+“Yes.”
 
-“Dombey,” said the Major, defiantly, “I know better; a man of your
-mark—the Colossus of commerce—is not to be interrupted. Your moments
-are precious. We shall meet at dinner-[[Time|time]]. In the interval, old Joseph
-will be scarce. The dinner-hour is a sharp seven, Mr Carker.”
+“A thousand pardons! The sudden apprehension that it might have been
+forgotten had struck him;” a bald man, with a large beard from a
+neighbouring restaurant; “with [[Despair|despair]]! Monsieur had said that supper
+was to be ready at that hour: also that he had forewarned Madame of the
+commands he had given, in his letter. Monsieur had done the Golden Head
+the [[Honour|honour]] to request that the supper should be choice and delicate.
+Monsieur would find that his confidence in the Golden Head was not
+misplaced.”
 
-With that, the Major, greatly swollen as to his face, withdrew; but
-immediately putting in his head at the door again, said:
+Edith said no more, but looked on thoughtfully while they prepared the
+table for two persons, and set the wine upon it. She arose before they
+had finished, and taking a lamp, passed into the bed-chamber and into
+the drawing-room, where she hurriedly but narrowly examined all the
+doors; particularly one in the former room that opened on the passage
+in the wall. From this she took the key, and put it on the outer side.
+She then came back.
 
-“I beg your pardon. Dombey, have you any message to ’em?”
+The men—the second of whom was a dark, bilious subject, in a jacket,
+close shaved, and with a black head of hair close cropped—had completed
+their preparation of the table, and were standing looking at it. He who
+had spoken before, inquired whether Madame thought it would be long
+before Monsieur arrived?
 
-Mr Dombey in some embarrassment, and not without a glance at the
-courteous keeper of his business confidence, entrusted the Major with
-his compliments.
+“She couldn’t say. It was all one.”
 
-“By the Lord, Sir,” said the Major, “you must make it something warmer
-than that, or old Joe will be far from welcome.”
+“Pardon! There was the supper! It should be eaten on the instant.
+Monsieur (who spoke French like an Angel—or a Frenchman—it was all the
+same) had spoken with great emphasis of his punctuality. But the
+English nation had so grand a genius for punctuality. Ah! what noise!
+Great Heaven, here was Monsieur. Behold him!”
 
-“Regards then, if you will, Major,” returned Mr Dombey.
+In effect, Monsieur, admitted by the other of the two, came, with his
+gleaming teeth, through the dark rooms, like a mouth; and arriving in
+that sanctuary of light and colour, a figure at full length, embraced
+Madame, and addressed her in the French tongue as his charming wife.
 
-“Damme, Sir,” said the Major, shaking his shoulders and his great
-cheeks jocularly: “make it something warmer than that.”
+“My God! Madame is going to faint. Madame is overcome with joy!” The
+bald man with the beard observed it, and cried out.
 
-“What you please, then, Major,” observed Mr Dombey.
+Madame had only shrunk and shivered. Before the words were spoken, she
+was standing with her hand upon the velvet back of a great chair; her
+figure drawn up to its full height, and her face immoveable.
 
-“Our friend is sly, Sir, sly, Sir, de-vilish sly,” said the Major,
-staring round the door at Carker. “So is Bagstock.” But stopping in the
-midst of a chuckle, and drawing himself up to his full height, the
-Major solemnly exclaimed, as he struck himself on the chest, “Dombey! I
-envy your feelings. God bless you!” and withdrew.
-
-“You must have found the gentleman a great resource,” said Carker,
-following him with his teeth.
-
-“Very great indeed,” said Mr Dombey.
-
-“He has friends here, no [[Doubt|doubt]],” pursued Carker. “I perceive, from what
-he has said, that you go into society here. Do you know,” smiling
-horribly, “I am so very glad that you go into society!”
-
-Mr Dombey acknowledged this display of interest on the part of his
-second in command, by twirling his watch-chain, and slightly moving his
-head.
-
-“You were formed for society,” said Carker. “Of all the men I know, you
-are the best adapted, by [[Nature|nature]] and by position, for society. Do you
-know I have been frequently amazed that you should have held it at
-arm’s length so long!”
-
-“I have had my reasons, Carker. I have been [[Alone|alone]], and indifferent to
-it. But you have great social qualifications yourself, and are the more
-likely to have been surprised.”
-
-“Oh! I!” returned the other, with ready [[Self|self]]-disparagement. “It’s quite
-another matter in the case of a man like me. I don’t come into
-comparison with you.”
-
-Mr Dombey put his hand to his neckcloth, settled his chin in it,
-coughed, and stood looking at his faithful friend and servant for a few
-moments in [[Silence|silence]].
-
-“I shall have the pleasure, Carker,” said Mr Dombey at length: making
-as if he swallowed something a little too large for his throat: “to
-present you to my—to the Major’s friends. Highly agreeable people.”
-
-“Ladies among them, I presume?” insinuated the smooth Manager.
-
-“They are all—that is to say, they are both—ladies,” replied Mr Dombey.
-
-“Only two?” smiled Carker.
-
-“They are only two. I have confined my visits to their residence, and
-have made no other acquaintance here.”
-
-“Sisters, perhaps?” quoth Carker.
-
-“Mother and daughter,” replied Mr Dombey.
-
-As Mr Dombey dropped his eyes, and adjusted his neckcloth again, the
-smiling face of Mr Carker the Manager became in a moment, and without
-any stage of transition, transformed into a most intent and frowning
-face, scanning his closely, and with an ugly sneer. As Mr Dombey raised
-his eyes, it changed back, no less quickly, to its old expression, and
-showed him every gum of which it stood possessed.
-
-“You are very kind,” said Carker, “I shall be delighted to know them.
-Speaking of daughters, I have seen Miss Dombey.”
-
-There was a sudden rush of [[Blood|blood]] to Mr Dombey’s face.
-
-“I took the liberty of waiting on her,” said Carker, “to inquire if she
-could charge me with any little commission. I am not so fortunate as to
-be the bearer of any but her—but her dear [[Love|love]].”
-
-Wolf’s face that it was then, with even the hot tongue revealing itself
-through the stretched mouth, as the eyes encountered Mr Dombey’s!
-
-“What business intelligence is there?” inquired the latter gentleman,
-after a [[Silence|silence]], during which Mr Carker had produced some memoranda and
-other papers.
-
-“There is very little,” returned Carker. “Upon the whole we have not
-had our usual good fortune of late, but that is of little moment to
-you. At Lloyd’s, they give up the Son and Heir for lost. [[Well]], she was
-insured, from her keel to her masthead.”
+“Francois has flown over to the Golden Head for supper. He flies on
+these occasions like an angel or a bird. The baggage of Monsieur is in
+his room. All is arranged. The supper will be here this moment.” These
+facts the bald man notified with bows and smiles, and presently the
+supper came.

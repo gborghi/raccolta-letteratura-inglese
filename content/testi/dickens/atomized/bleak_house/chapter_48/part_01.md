@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 48 (part 1)"
+title: "Bleak House — Chapter 48 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -149,10 +149,3 @@ again. Let me stay a little while!”
 own. It is done. What I am towards you, Rosa, is what I am now—not
 what I shall be a little while hence. Remember this, and keep my
 confidence. Do so much for my sake, and thus all ends between us!”
-
-She detaches herself from her simple-hearted companion and [[Leaves|leaves]] the
-room. Late in the afternoon, when she next appears upon the
-staircase, she is in her haughtiest and coldest state. As indifferent
-as if all passion, feeling, and interest had been worn out in the
-earlier [[Ages of the World|ages of the world]] and had perished from its surface with its
-other departed monsters.

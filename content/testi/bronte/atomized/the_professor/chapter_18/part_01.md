@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 17 (part 1)"
+title: "The Professor — Chapter 17 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -15,8 +15,6 @@ tags:
 
 
 CHAPTER XVII.
-
-
 
 AFTER all I had profited but imperfectly by the opportunity I had so
 
@@ -50,8 +48,6 @@ Henri, regardless that envy stared and detraction whispered whenever I
 
 approached her.
 
-
-
 “Your book an instant.” Such was the mode in which I often began these
 
 brief dialogues; the [[Time|time]] was always just at the conclusion of the
@@ -70,8 +66,6 @@ and [[Self|self]]-possessed--an odd contradiction, doubtless, to the ordinary
 
 effect in such cases; but so it was.
 
-
-
 “A pencil,” said I, holding out my hand without looking at her. (I am
 
 now about to [[Sketch|sketch]] a brief report of the first of these conferences.)
@@ -80,109 +74,59 @@ She gave me one, and while I underlined some errors in a grammatical
 
 exercise she had written, I observed--
 
-
-
 “You are not a native of Belgium?”
 
-
-
 “No.”
-
-
 
 “Nor of France?”
 
-
-
 “No.”
-
-
 
 “Where, then, is your birthplace?”
 
-
-
 “I was born at Geneva.”
-
-
 
 “You don’t call Frances and Evans Swiss names, I presume?”
 
-
-
 “No, sir; they are English names.”
-
-
 
 “Just so; and is it the custom of the Genevese to give their children
 
 English appellatives?”
 
-
-
 “Non, Monsieur; mais--”
-
-
 
 “Speak English, if you please.”
 
-
-
 “Mais--”
 
-
-
 “English--”
-
-
 
 “But” (slowly and with embarrassment) “my parents were not all the two
 
 Genevese.”
 
-
-
 “Say BOTH, instead of ‘all the two,’ mademoiselle.”
-
-
 
 “Not BOTH Swiss: my mother was English.”
 
-
-
 “Ah! and of English extraction?”
-
-
 
 “Yes--her ancestors were all English.”
 
-
-
 “And your father?”
-
-
 
 “He was Swiss.”
 
-
-
 “What besides? What was his profession?”
 
-
-
 “Ecclesiastic--pastor--he had a church.”
-
-
 
 “Since your mother is an Englishwoman, why do you not speak English with
 
 more facility?”
 
-
-
 “Maman est morte, il y a dix ans.”
-
-
 
 “And you do homage to her [[Memory|memory]] by forgetting her language. Have the
 
@@ -190,69 +134,37 @@ goodness to put French out of your mind so long as I converse with
 
 you--keep to English.”
 
-
-
 “C’est si difficile, monsieur, quand on n’en a plus l’habitude.”
-
-
 
 “You had the habitude formerly, I suppose? Now answer me in your mother
 
 tongue.”
 
-
-
 “Yes, sir, I spoke the English more than the French when I was a [[Child|child]].”
-
-
 
 “Why do you not speak it now?”
 
-
-
 “Because I have no English friends.”
-
-
 
 “You live with your father, I suppose?”
 
-
-
 “My father is dead.”
-
-
 
 “You have brothers and sisters?”
 
-
-
 “Not one.”
-
-
 
 “Do you live [[Alone|alone]]?”
 
-
-
 “No--I have an aunt--ma tante Julienne.”
-
-
 
 “Your father’s sister?”
 
-
-
 “Justement, monsieur.”
-
-
 
 “Is that English?”
 
-
-
 “No--but I forget--”
-
-
 
 “For which, mademoiselle, if you were a [[Child|child]] I should certainly devise
 
@@ -260,11 +172,7 @@ some slight punishment; at your age--you must be two or three and
 
 twenty, I should think?”
 
-
-
 “Pas encore, monsieur--en un mois j’aurai dix-neuf ans.”
-
-
 
 “[[Well]], nineteen is a mature age, and, having attained it, you ought to
 
@@ -273,8 +181,6 @@ be so solicitous for your own improvement, that it should not be needful
 for a master to remind you twice of the expediency of your speaking
 
 English whenever practicable.”
-
-
 
 To this wise speech I received no answer; and, when I looked up, my
 
@@ -286,87 +192,49 @@ so plainly, that I determined to request information on the point
 
 concerning which my ignorance seemed to be thus tacitly affirmed.
 
-
-
 “Are you solicitous for your own improvement?”
-
-
 
 “Rather.”
 
-
-
 “How do you prove it, mademoiselle?”
-
-
 
 An odd question, and bluntly put; it excited a second smile.
 
-
-
 “Why, monsieur, I am not inattentive--am I? I learn my lessons [[Well|well]]--”
-
-
 
 “Oh, a [[Child|child]] can do that! and what more do you do?”
 
-
-
 “What more can I do?”
-
-
 
 “Oh, certainly, not much; but you are a teacher, are you not, as [[Well|well]] as
 
 a pupil?”
 
-
-
 “Yes.”
-
-
 
 “You teach lace-[[mending]]?”
 
-
-
 “Yes.”
-
-
 
 “A dull, stupid occupation; do you like it?”
 
-
-
 “No--it is tedious.”
-
-
 
 “Why do you pursue it? Why do you not rather teach [[history]], geography,
 
 grammar, even arithmetic?”
 
-
-
 “Is monsieur certain that I am myself thoroughly acquainted with these
 
 studies?”
 
-
-
 “I don’t know; you ought to be at your age.”
 
-
-
 “But I never was at school, monsieur--”
-
-
 
 “Indeed! What then were your friends--what was your aunt about? She is
 
 very much to blame.”
-
-
 
 “No monsieur, no--my aunt is good--she is not to blame--she does what
 
@@ -378,13 +246,9 @@ rich; she has only an annuity of twelve hundred francs, and it would be
 
 impossible for her to send me to school.”
 
-
-
 “Rather,” thought I to myself on hearing this, but I continued, in the
 
 dogmatical tone I had adopted:--
-
-
 
 “It is sad, however, that you should be brought up in ignorance of the
 

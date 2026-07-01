@@ -10,8 +10,28 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_14_the_creature_that_man_forgets/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_15_the_songs_of_the_car_club/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_14_the_creature_that_man_forgets/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_14_the_creature_that_man_forgets/part_04">part 04 ›</a></div>
 </nav>
+
+
+But at the sight of this the cockney’s eyes lit at once with terror and [[Desire|desire]].
+
+
+
+
+“But yer cawnt do it,” he whispered hoarsely, “its the pleece. It’s gile for that, with no doctor’s letter nor sign-board nor nothink.”
+
+
+
+
+Mr. Humphrey Pump made yet another march back into the [[Road|road]]. When he got there he hesitated for the first [[Time|time]], but it was quite clear from the attitude of the two insane aristocrats who were arguing and posturing in the [[Road|road]] that they would notice nothing except each other. He picked the loose post off the [[Road|road]] and brought it to the car, humorously propping it erect in the aperture between keg and [[cheese]].
+
+
+
+
+The little glass of rum was wavering in the poor chauffeur’s hand exactly as the big knife had done, but when he looked up and actually saw the wooden sign above him, he seemed not so much to pluck up his [[Courage|courage]], but rather to drag up some forgotten [[Courage|courage]] from the foundations of some unfathomable sea. It was indeed the forgotten [[Courage|courage]] of the people.
+
+
 
 
 He looked once at the bleak, black pinewoods around him and took the mouthful of golden liquid at a gulp, as if it were a fairy potion. He sat silent; and then, very slowly, a sort of stony glitter began to come into his eyes. The brown and vigilant eyes of Humphrey Pump were studying him with some anxiety or even [[Fear|fear]]. He did look rather like a man enchanted or turned to stone. But he spoke very suddenly.
@@ -130,38 +150,3 @@ The dog [[quoodle|Quoodle]], who had been sitting as still as [[The Sphinx|the s
 
 
 “I shall not sit on its back, anyhow,” he said proudly, “but if that were all it would be a small matter. It is enough for you that you have left it in the hands of the only person who could really understand it; one who searches the skies and seas so as not to neglect the smallest creature.”
-
-
-
-
-“This is a very curious creature,” said the Captain, anxiously, “he has all sorts of odd antipathies. He can’t stand a motor car, for instance, especially one that throbs like that while it’s standing still. He doesn’t mind a fur coat so much, but if you wear a brown velvet jacket under it, he bites you. And you must keep him out of the way of a certain kind of people. I don’t suppose you’ve met them; but they always think that anybody with less than two hundred a year is drunk and very cruel, and that anybody with more than two thousand a year is conducting the Day of Judgment. If you will keep our dear [[donkey]] from the society of such persons–Hullo! Hullo! Hullo!”
-
-
-
-
-He turned in genuine disturbance, and dashed after the dog, who had dashed after the motor car and jumped inside. The Captain jumped in after the dog, to pull him out again. But before he could do so, he found the car was flying along too fast for any such leap. He looked up and saw the sign of “The Old [[Ship]]” erect in the front like a rigid banner; and Pump, with his cask and [[cheese]], sitting solidly beside the driver.
-
-
-
-
-The thing was more of an earthquake and transformation to him even than to any of the others; but he [[Rose|rose]] waveringly to his feet and shouted out to Wimpole.
-
-
-
-
-“You’ve left it in the right hands. I’ve never been cruel to a motor.”
-
-
-
-
-In the moonlight of the [[Magic|magic]] pine-wood far behind, Dorian and the [[donkey]] were left looking at each other.
-
-
-
-
-To the mystical mind, when it is a mind at all (which is by no means always the case), there are no two things more impressive and symbolical than a poet and a [[donkey]]. And the [[donkey]] was a very genuine [[donkey]], and the poet was a very genuine poet; however lawfully he might be mistaken for the other animal at times. The interest of the [[donkey]] in the poet will never be known. The interest of the poet in the [[donkey]] was perfectly genuine; and survived even that appalling private interview in the owlish secrecy of the woods.
-
-
-
-
-But I think even the poet would have been enlightened if he had seen the white, set, frantic face of the man on the driver’s seat of his vanishing motor. If he had seen it he might have remembered the name, or, perhaps, even begun to understand the [[Nature|nature]] of a certain animal which is neither the [[donkey]] nor the oyster; but the creature whom man has always found it easiest to forget, since the hour he forgot God in a [[Garden]].

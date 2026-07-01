@@ -1,5 +1,5 @@
 ---
-title: "[[The Poetic Principle]]"
+title: "The Poetic Principle"
 author: "Poe"
 unitType: work
 tags:

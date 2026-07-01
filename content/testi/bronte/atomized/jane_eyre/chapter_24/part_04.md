@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 24 (part 4)"
+title: "Jane Eyre — Chapter 24 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,21 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_24/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_24/part_05">part 05 ›</a></div>
 </nav>
 
+
+“Why?—am I a [[Monster|monster]]?” I said: “is it impossible that Mr. Rochester
+should have a sincere affection for me?”
+
+“No: you are very [[Well|well]]; and much improved of late; and Mr. Rochester, I
+daresay, is fond of you. I have always noticed that you were a sort of
+pet of his. There are times when, for your sake, I have been a little
+uneasy at his marked preference, and have wished to put you on your
+guard: but I did not like to suggest even the possibility of wrong. I
+knew such an idea would shock, perhaps offend you; and you were so
+discreet, and so thoroughly modest and sensible, I hoped you might be
+trusted to protect yourself. Last [[Night|night]] I cannot tell you what I
+suffered when I sought all over the [[house]], and could find you nowhere,
+nor the master either; and then, at twelve o’[[Clock|clock]], saw you come in
+with him.”
 
 “[[Well]], never mind that now,” I interrupted impatiently; “it is enough
 that all was right.”
@@ -134,22 +149,3 @@ place—such as the [[Moon|moon]], for instance—and it nodded its head towards
 horn, rising over Hay-[[Hill|hill]]: it told me of the alabaster [[Cave|cave]] and silver
 vale where we might live. I said I should like to go; but reminded it,
 as you did me, that I had no wings to fly.
-
-“‘Oh,’ returned the fairy, ‘that does not signify! Here is a talisman
-will remove all difficulties;’ and she held out a pretty gold ring.
-‘Put it,’ she said, ‘on the fourth finger of my left hand, and I am
-yours, and you are mine; and we shall leave earth, and make our own
-heaven yonder.’ She nodded again at the [[Moon|moon]]. The ring, Adèle, is in my
-breeches-pocket, under the disguise of a sovereign: but I mean soon to
-change it to a ring again.”
-
-“But what has mademoiselle to do with it? I don’t care for the fairy:
-you said it was mademoiselle you would take to the [[Moon|moon]]?”
-
-“Mademoiselle is a fairy,” he said, whispering mysteriously. Whereupon
-I told her not to mind his badinage; and she, on her part, evinced a
-fund of genuine French scepticism: denominating Mr. Rochester “un vrai
-menteur,” and assuring him that she made no account whatever of his
-“contes de fée,” and that “du reste, il n’y avait pas de fées, et quand
-même il y en avait:” she was sure they would never appear to him, nor
-ever give him rings, or offer to live with him in the [[Moon|moon]].

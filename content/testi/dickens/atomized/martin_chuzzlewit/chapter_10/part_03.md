@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 10 (part 3)"
+title: "Martin Chuzzlewit — Chapter 10 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_10/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_10/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘True,’ replied the other. ‘You are very lenient with me.’
+
+‘We always said, my girls and I,’ cried Mr Pecksniff with increasing
+obsequiousness, ‘that while we mourned the heaviness of our misfortune
+in being confounded with the base and mercenary, still we could not
+[[Wonder|wonder]] at it. My dears, you remember?’
 
 Oh vividly! A thousand times!
 
@@ -140,21 +147,3 @@ arrangement, and their cordial sympathy with its interesting object.
 said the old man thoughfully; ‘but it is too late to think of that. You
 would receive her courteously, young ladies, and be kind to her, if need
 were?’
-
-Where was the [[Orphan|orphan]] whom the two Miss Pecksniffs would not have
-cherished in their sisterly bosom! But when that [[Orphan|orphan]] was commended to
-their care by one on whom the dammed-up [[Love|love]] of years was gushing forth,
-what exhaustless stores of pure affection yearned to expend themselves
-upon her!
-
-An interval ensued, during which Mr Chuzzlewit, in an absent frame of
-mind, sat gazing at the ground, without uttering a word; and as it was
-plain that he had no [[Desire|desire]] to be interrupted in his meditations, Mr
-Pecksniff and his daughters were profoundly silent also. During the
-whole of the foregoing dialogue, he had borne his part with a cold,
-passionless promptitude, as though he had learned and painfully
-rehearsed it all a hundred times. Even when his expressions were warmest
-and his language most encouraging, he had retained the same manner,
-without the least abatement. But now there was a keener brightness in
-his eye, and more expression in his voice, as he said, awakening from
-his thoughtful mood:

@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 13 (part 3)"
+title: "Villette — Chapter 13 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_13/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_13/part_04">part 04 ›</a></div>
 </nav>
 
+
+She departed, attired very smartly, in a shawl of price, and a certain
+_chapeau vert tendre_—hazardous, as to its tint, for any complexion
+less fresh than her own, but, to her, not unbecoming. I wondered what
+she intended: whether she really would send Dr. John or not; or whether
+indeed he would come: he might be engaged.
 
 Madame had charged me not to let Georgette [[Sleep|sleep]] till the doctor came;
 I had therefore sufficient occupation in telling her nursery tales and
@@ -129,14 +135,3 @@ light—billet the second, of course.
 
 “Where?”, asked Dr. John with energy, making direct for the [[Window|window]].
 “What, is it?”
-
-“They have gone and done it again,” was my reply. “A handkerchief waved
-and something fell:” and I pointed to the lattice, now closed and
-looking hypocritically blank.
-
-“Go, at once; pick it up and bring it here,” was his prompt direction;
-adding, “Nobody will take notice of _you: I_ should be seen.”
-
-Straight I went. After some little search, I found a folded paper,
-lodged on the lower branch of a shrub; I seized and brought it direct
-to Dr. John. This [[Time|time]], I believe not even Rosine saw me.

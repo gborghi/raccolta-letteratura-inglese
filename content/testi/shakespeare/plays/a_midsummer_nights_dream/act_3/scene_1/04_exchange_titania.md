@@ -1,5 +1,5 @@
 ---
-title: "A Midsummer Nights Dream — Act III, Scene 1 — exchange ([[Titania|TITANIA]]) [4]"
+title: "A Midsummer Nights Dream — Act III, Scene 1 — exchange (TITANIA) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/a-midsummer-night’s-dream-(shakespeare)"

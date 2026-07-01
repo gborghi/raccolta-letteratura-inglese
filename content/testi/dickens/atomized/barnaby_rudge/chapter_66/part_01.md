@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 66 (part 1)"
+title: "Barnaby Rudge — Chapter 66 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -121,7 +121,3 @@ never intended this.’
 
 ‘The condition will be observed, of course,’ rejoined the old distiller.
 ‘It’s a point of [[Honour|honour]]. But come with us, sir; pray come with us.’
-
-John Grueby added no entreaties, but he adopted a different kind of
-[[Persuasion|persuasion]], by putting his arm through one of Mr Haredale’s, while his
-master took the other, and leading him away with all [[Speed|speed]].

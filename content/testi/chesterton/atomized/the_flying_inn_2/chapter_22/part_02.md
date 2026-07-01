@@ -153,39 +153,3 @@ of it to tap the keg of rum and hand round the [[cheese]].
 Wimpole, suddenly.  "Why, I'm quite comfortable!
 Such a thing has never happened before, I should
 imagine.  And how holy this [[cheese]] tastes."
-
-"It has gone on a pilgrimage," answered Dalroy,
-"or rather a Crusade.  It's a heroic, a fighting [[cheese]].
-'[[cheese|Cheese]] of all Cheeses, Cheeses of all the world,' as
-my compatriot, Mr. Yeats, says to the Something-or-other
-of Battle.  It's almost impossible that this [[cheese]]
-can have come out of such a coward as a cow.  I suppose,"
-he added, wistfully, "I suppose it wouldn't do
-to explain that in this case Hump had milked the
-bull.  That would be classed by scientists among Irish
-legends--those that have the Celtic glamour and all
-that.  No, I think this [[cheese]] must have come from
-that Dun Cow of Dunsmore Heath, who had horns
-bigger than elephant's tusks, and who was so ferocious
-that one of the greatest of the old heroes of chivalry
-was required to do battle with it.  The rum's good,
-too.  I've earned this glass of rum--earned it by
-Christian [[Humility|humility]].  For nearly a month I've lowered
-myself to the beasts of the field, and gone about on
-all fours like a teetotaller.  Hump, circulate the
-bottle--I mean the cask--and let us have some of this
-poetry you're so keen about.  Each poem must have
-the same title, you know; it's a rattling good title.
-It's called 'An Inquiry into the Causes geological,
-historical, agricultural, psychological, psychical, moral,
-spiritual and theological of the alleged cases of [[Double|double]],
-treble, quadruple and other curvature in the English
-[[Road]], conducted by a specially appointed secret commission
-in a hole in a tree, by admittedly judicious and
-academic authorities specially appointed by themselves
-to report to the Dog [[quoodle|Quoodle]], having power to add
-to their number and also to take away the number
-they first thought of; God save the [[King]]."  Having
-delivered this formula with blinding rapidity, he added
-rather breathlessly, "that's the note to strike, the [[Lyric|lyric]]
-note."

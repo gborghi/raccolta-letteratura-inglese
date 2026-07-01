@@ -1,5 +1,5 @@
 ---
-title: "[[wifrb11]] — The Man in the Passage (part 1)"
+title: "wifrb11 — The Man in the Passage (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
                         The Man in the Passage
-
 
 TWO men appeared simultaneously at the two ends of a sort of passage
 running along the side of the [[Apollo]] Theatre in the Adelphi. 

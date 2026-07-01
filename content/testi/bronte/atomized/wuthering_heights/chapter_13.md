@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 13"
+title: "Wuthering Heights — Chapter 13"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/wuthering-heights-(bronte)"
@@ -46,12 +46,12 @@ gone?”
 “The [[Snow|snow]] is quite gone down here, darling,” replied her husband; “and
 I only see two white spots on the whole range of moors: the sky is
 blue, and the larks are singing, and the becks and brooks are all brim
-full. Catherine, last [[spring]] at this [[Time|time]], I was [[Longing|longing]] to have you
+full. Catherine, last [[Spring|spring]] at this [[Time|time]], I was [[Longing|longing]] to have you
 under this roof; now, I wish you were a mile or two up those hills: the
 air blows so sweetly, I feel that it would cure you.”
 
 “I shall never be there but once more,” said the invalid; “and then
-you’ll leave me, and I shall remain for ever. Next [[spring]] you’ll long
+you’ll leave me, and I shall remain for ever. Next [[Spring|spring]] you’ll long
 again to have me under this roof, and you’ll look back and think you
 were happy to-day.”
 
@@ -256,7 +256,7 @@ bolt—don’t omit it!”
 deliberately fastening myself in with [[Heathcliff]].
 
 “Look here!” he replied, pulling from his waistcoat a
-curiously-constructed [[Pistol|pistol]], having a [[Double|double]]-edged [[spring]] knife
+curiously-constructed [[Pistol|pistol]], having a [[Double|double]]-edged [[Spring|spring]] knife
 attached to the barrel. “That’s a great tempter to a desperate man, is
 it not? I cannot resist going up with this every [[Night|night]], and trying his
 door. If once I find it open he’s done for; I do it invariably, even

@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities — Chapter 12 (part 3)"
+title: "A Tale of Two Cities — Chapter 14 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-tale-of-two-cities-(dickens)"
@@ -10,121 +10,129 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/a-tale-of-two-cities-(dickens)">A Tale of Two Cities</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_44/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_45/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_44/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_44/part_04">part 04 ›</a></div>
 </nav>
 
 
-Mr. Lorry held it open in his hand, gazing in his earnest face.
+“I am quite sure, Mr. Cruncher,” returned [[Miss Pross]], “that you
+never will do it again, whatever it is, and I beg you not to think it
+necessary to mention more particularly what it is.”
 
-“Keep it for me until to-morrow. I shall see him to-morrow, you
-remember, and I had better not take it into the [[Prison|prison]].”
+“No, miss,” returned Jerry, “it shall not be named to you. Second: them
+poor things [[Well|well]] out o’ this, and never no more will I interfere with
+Mrs. Cruncher’s flopping, never no more!”
 
-“Why not?”
+“Whatever housekeeping arrangement that may be,” said [[Miss Pross]],
+striving to dry her eyes and compose herself, “I have no [[Doubt|doubt]] it
+is best that Mrs. Cruncher should have it entirely under her own
+superintendence.--O my poor darlings!”
 
-“I don’t know; I prefer not to do so. Now, take this paper that Doctor
-Manette has carried about him. It is a similar certificate, enabling him
-and his daughter and her [[Child|child]], at any [[Time|time]], to pass the barrier and the
-frontier! You see?”
+“I go so far as to say, miss, moreover,” proceeded Mr. Cruncher, with a
+most alarming tendency to hold forth as from a pulpit--“and let my words
+be took down and took to Mrs. Cruncher through yourself--that wot my
+opinions respectin’ flopping has undergone a change, and that wot I only
+[[Hope|hope]] with all my heart as Mrs. Cruncher may be a flopping at the present
+[[Time|time]].”
 
-“Yes!”
+“There, there, there! I [[Hope|hope]] she is, my dear man,” cried the distracted
+[[Miss Pross]], “and I [[Hope|hope]] she finds it answering her expectations.”
 
-“Perhaps he obtained it as his last and utmost precaution against evil,
-yesterday. When is it dated? But no matter; don’t stay to look; put it
-up carefully with mine and your own. Now, observe! I never doubted until
-within this hour or two, that he had, or could have such a paper. It is
-good, until recalled. But it may be soon recalled, and, I have reason to
-think, will be.”
+“Forbid it,” proceeded Mr. Cruncher, with additional solemnity,
+additional slowness, and additional tendency to hold forth and hold
+out, “as anything wot I have ever said or done should be wisited on my
+earnest wishes for them poor creeturs now! Forbid it as we shouldn’t all
+flop (if it was anyways conwenient) to get ’em out o’ this here dismal
+risk! Forbid it, miss! Wot I say, for-_bid_ it!” This was Mr. Cruncher’s
+conclusion after a protracted but vain endeavour to find a better one.
 
-“They are not in danger?”
+And still [[Madame Defarge]], pursuing her way along the streets, came
+nearer and nearer.
 
-“They are in great danger. They are in danger of denunciation by Madame
-Defarge. I know it from her own lips. I have overheard words of that
-woman’s, to-[[Night|night]], which have presented their danger to me in strong
-colours. I have lost no [[Time|time]], and since then, I have seen the spy. He
-confirms me. He knows that a wood-sawyer, living by the [[Prison|prison]] wall,
-is under the control of the Defarges, and has been rehearsed by
-[[Madame Defarge]] as to his having seen Her”--he never mentioned Lucie’s
-name--“making signs and signals to prisoners. It is easy to foresee that
-the pretence will be the common one, a [[Prison|prison]] plot, and that it will
-involve her life--and perhaps her [[Child|child]]’s--and perhaps her father’s--for
-both have been seen with her at that place. Don’t look so horrified. You
-will save them all.”
+“If we ever get back to our native land,” said [[Miss Pross]], “you may rely
+upon my telling Mrs. Cruncher as much as I may be able to remember and
+understand of what you have so impressively said; and at all events
+you may be sure that I shall bear witness to your being thoroughly in
+earnest at this dreadful [[Time|time]]. Now, pray let us think! My esteemed Mr.
+Cruncher, let us think!”
 
-“Heaven grant I may, Carton! But how?”
+Still, [[Madame Defarge]], pursuing her way along the streets, came nearer
+and nearer.
 
-“I am going to tell you how. It will depend on you, and it could depend
-on no better man. This new denunciation will certainly not take place
-until after to-morrow; probably not until two or three days afterwards;
-more probably a week afterwards. You know it is a capital crime, to
-mourn for, or sympathise with, a victim of the Guillotine. She and her
-father would unquestionably be guilty of this crime, and this woman (the
-inveteracy of whose pursuit cannot be described) would wait to add that
-strength to her case, and make herself doubly sure. You follow me?”
+“If you were to go before,” said [[Miss Pross]], “and stop the vehicle and
+horses from coming here, and were to wait somewhere for me; wouldn’t
+that be best?”
 
-“So attentively, and with so much confidence in what you say, that for
-the moment I lose sight,” touching the back of the Doctor’s chair, “even
-of this distress.”
+Mr. Cruncher thought it might be best.
 
-“You have money, and can buy the means of travelling to the seacoast
-as quickly as the [[Journey|journey]] can be made. Your preparations have been
-completed for some days, to return to England. Early to-morrow have your
-horses ready, so that they may be in starting trim at two o’[[Clock|clock]] in the
-afternoon.”
+“Where could you wait for me?” asked [[Miss Pross]].
 
-“It shall be done!”
+Mr. Cruncher was so bewildered that he could think of no locality but
+Temple Bar. Alas! Temple Bar was hundreds of miles away, and Madame
+Defarge was drawing very near indeed.
 
-His manner was so fervent and inspiring, that Mr. Lorry caught the
-flame, and was as quick as youth.
+“By the [[Cathedral|cathedral]] door,” said [[Miss Pross]]. “Would it be much out of
+the way, to take me in, near the great [[Cathedral|cathedral]] door between the two
+towers?”
 
-“You are a noble heart. Did I say we could depend upon no better man?
-Tell her, to-[[Night|night]], what you know of her danger as involving her [[Child|child]]
-and her father. Dwell upon that, for she would lay her own fair head
-beside her husband’s cheerfully.” He faltered for an instant; then went
-on as before. “For the sake of her [[Child|child]] and her father, press upon her
-the necessity of leaving [[Paris]], with them and you, at that hour. Tell
-her that it was her husband’s last arrangement. Tell her that more
-depends upon it than she dare believe, or [[Hope|hope]]. You think that her
-father, even in this sad state, will submit himself to her; do you not?”
+“No, miss,” answered Mr. Cruncher.
 
-“I am sure of it.”
+“Then, like the best of men,” said [[Miss Pross]], “go to the posting-[[house]]
+straight, and make that change.”
 
-“I thought so. Quietly and steadily have all these arrangements made in
-the courtyard here, even to the taking of your own seat in the carriage.
-The moment I come to you, take me in, and drive away.”
+“I am doubtful,” said Mr. Cruncher, hesitating and shaking his head,
+“about leaving of you, you see. We don’t know what may happen.”
 
-“I understand that I wait for you under all circumstances?”
+“Heaven knows we don’t,” returned [[Miss Pross]], “but have no [[Fear|fear]] for me.
+Take me in at the [[Cathedral|cathedral]], at Three o’[[Clock]], or as near it as you can,
+and I am sure it will be better than our going from here. I feel certain
+of it. There! Bless you, Mr. Cruncher! Think-not of me, but of the lives
+that may depend on both of us!”
 
-“You have my certificate in your hand with the rest, you know, and will
-reserve my place. Wait for nothing but to have my place occupied, and
-then for England!”
+This exordium, and [[Miss Pross]]’s two hands in quite agonised entreaty
+clasping his, decided Mr. Cruncher. With an encouraging nod or two, he
+immediately went out to alter the arrangements, and left her by herself
+to follow as she had proposed.
 
-“Why, then,” said Mr. Lorry, grasping his eager but so firm and steady
-hand, “it does not all depend on one old man, but I shall have a young
-and ardent man at my side.”
+The having originated a precaution which was already in course of
+execution, was a great relief to [[Miss Pross]]. The necessity of composing
+her appearance so that it should attract no special notice in the
+streets, was another relief. She looked at her watch, and it was twenty
+minutes past two. She had no [[Time|time]] to lose, but must get ready at once.
 
-“By the help of Heaven you shall! Promise me solemnly that nothing will
-influence you to alter the course on which we now stand pledged to one
-another.”
+Afraid, in her extreme perturbation, of the [[Loneliness|loneliness]] of the deserted
+rooms, and of half-imagined faces peeping from behind every open door
+in them, [[Miss Pross]] got a basin of cold [[Water|water]] and began laving her eyes,
+which were swollen and red. Haunted by her feverish apprehensions, she
+could not bear to have her sight obscured for a minute at a [[Time|time]] by the
+dripping [[Water|water]], but constantly paused and looked round to see that there
+was no one watching her. In one of those pauses she recoiled and cried
+out, for she saw a figure standing in the room.
 
-“Nothing, Carton.”
+The basin fell to the ground broken, and the [[Water|water]] flowed to the feet of
+[[Madame Defarge]]. By strange stern ways, and through much staining [[Blood|blood]],
+those feet had come to meet that [[Water|water]].
 
-“Remember these words to-morrow: change the course, or delay in it--for
-any reason--and no life can possibly be saved, and many lives must
-inevitably be sacrificed.”
+[[Madame Defarge]] looked coldly at her, and said, “The wife of Evrémonde;
+where is she?”
 
-“I will remember them. I [[Hope|hope]] to do my part faithfully.”
+It flashed upon [[Miss Pross]]’s mind that the doors were all standing open,
+and would suggest the flight. Her first act was to shut them. There were
+four in the room, and she shut them all. She then placed herself before
+the door of the chamber which Lucie had occupied.
 
-“And I [[Hope|hope]] to do mine. Now, good bye!”
+[[Madame Defarge]]’s dark eyes followed her through this rapid movement,
+and rested on her when it was finished. [[Miss Pross]] had nothing beautiful
+about her; years had not tamed the wildness, or softened the grimness,
+of her appearance; but, she too was a determined woman in her different
+way, and she measured [[Madame Defarge]] with her eyes, every inch.
 
-Though he said it with a [[Grave|grave]] smile of earnestness, and though he even
-put the old man’s hand to his lips, he did not part from him then. He
-helped him so far to arouse the rocking figure before the dying embers,
-as to get a cloak and hat put upon it, and to tempt it forth to find
-where the bench and work were hidden that it still moaningly besought
-to have. He walked on the other side of it and protected it to the
-courtyard of the [[house]] where the afflicted heart--so happy in
-the memorable [[Time|time]] when he had revealed his own desolate heart to
-it--outwatched the awful [[Night|night]]. He entered the courtyard and remained
-there for a few moments [[Alone|alone]], looking up at the light in the [[Window|window]] of
-her room. Before he went away, he breathed a blessing towards it, and a
-Farewell.
+“You might, from your appearance, be the wife of [[Lucifer]],” said Miss
+Pross, in her breathing. “Nevertheless, you shall not get the better of
+me. I am an Englishwoman.”
+
+[[Madame Defarge]] looked at her scornfully, but still with something of
+[[Miss Pross]]’s own perception that they two were at bay. She saw a tight,
+hard, wiry woman before her, as Mr. Lorry had seen in the same figure a
+woman with a strong hand, in the years gone by. She knew full [[Well|well]] that
+[[Miss Pross]] was the family’s devoted friend; [[Miss Pross]] knew full [[Well|well]]
+that [[Madame Defarge]] was the family’s malevolent enemy.

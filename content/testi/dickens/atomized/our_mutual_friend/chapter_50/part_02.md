@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 9 (part 2)"
+title: "Our Mutual Friend — Chapter 12 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,151 +14,143 @@ tags:
 </nav>
 
 
-For, when they had walked on with her to the little [[house]] in the clean
-village by the paper-mill, where Lizzie had a lodging with an elderly
-couple employed in the establishment, and when Mrs Milvey and Bella
-had been up to see her room and had come down, the mill bell rang.
-This called Lizzie away for the [[Time|time]], and left the Secretary and Bella
-standing rather awkwardly in the small street; Mrs Milvey being engaged
-in pursuing the village children, and her investigations whether they
-were in danger of becoming children of Israel; and the Reverend Frank
-being engaged—to say the [[Truth|truth]]—in evading that branch of his spiritual
-functions, and getting out of sight surreptitiously.
+‘Take [[Time|time]], Sophronia,’ observed her watchful husband, in a patronizing
+manner.
 
-Bella at length said:
+‘If working him out of the way could be presented in the light of a
+service to Mr Boffin?’
 
-‘Hadn’t we better talk about the commission we have undertaken, Mr
-Rokesmith?’
+‘Take [[Time|time]], Sophronia.’
 
-‘By all means,’ said the Secretary.
+‘We have remarked lately, Alfred, that the old man is turning very
+suspicious and distrustful.’
 
-‘I suppose,’ faltered Bella, ‘that we ARE both commissioned, or we
-shouldn’t both be here?’
+‘Miserly too, my dear; which is far the most unpromising for us.
+Nevertheless, take [[Time|time]], Sophronia, take [[Time|time]].’
 
-‘I suppose so,’ was the Secretary’s answer.
+She took [[Time|time]] and then said:
 
-‘When I proposed to come with Mr and Mrs Milvey,’ said Bella, ‘Mrs
-Boffin urged me to do so, in order that I might give her my small
-report—it’s not worth anything, Mr Rokesmith, except for it’s being
-a woman’s—which indeed with you may be a fresh reason for it’s being
-worth nothing—of [[Lizzie Hexam]].’
+‘Suppose we should address ourselves to that tendency in him of which we
+have made ourselves quite sure. Suppose my [[Conscience|conscience]]—’
 
-‘Mr Boffin,’ said the Secretary, ‘directed me to come for the same
-purpose.’
+‘And we know what a [[Conscience|conscience]] it is, my [[Soul|soul]]. Yes?’
 
-As they spoke they were leaving the little street and emerging on the
-wooded landscape by the [[River|river]].
+‘Suppose my [[Conscience|conscience]] should not allow me to keep to myself any
+longer what that upstart girl told me of the Secretary’s having made a
+declaration to her. Suppose my [[Conscience|conscience]] should oblige me to repeat it
+to Mr Boffin.’
 
-‘You think [[Well|well]] of her, Mr Rokesmith?’ pursued Bella, conscious of
-making all the advances.
+‘I rather like that,’ said Lammle.
 
-‘I think highly of her.’
+‘Suppose I so repeated it to Mr Boffin, as to insinuate that my
+sensitive delicacy and [[Honour|honour]]—’
 
-‘I am so glad of that! Something quite refined in her [[Beauty|beauty]], is there
-not?’
+‘Very good words, Sophronia.’
 
-‘Her appearance is very striking.’
+‘—As to insinuate that OUR sensitive delicacy and [[Honour|honour]],’ she resumed,
+with a bitter stress upon the phrase, ‘would not allow us to be silent
+parties to so mercenary and designing a speculation on the Secretary’s
+part, and so gross a breach of [[Faith|faith]] towards his confiding employer.
+Suppose I had imparted my virtuous uneasiness to my excellent husband,
+and he had said, in his integrity, “Sophronia, you must immediately
+disclose this to Mr Boffin.”’
 
-‘There is a shade of sadness upon her that is quite touching. At least
-I—I am not setting up my own poor opinion, you know, Mr Rokesmith,’
-said Bella, excusing and explaining herself in a pretty shy way; ‘I am
-consulting you.’
+‘Once more, Sophronia,’ observed Lammle, changing the leg on which he
+stood, ‘I rather like that.’
 
-‘I noticed that sadness. I [[Hope|hope]] it may not,’ said the Secretary in
-a lower voice, ‘be the result of the false accusation which has been
-retracted.’
+‘You remark that he is [[Well|well]] guarded,’ she pursued. ‘I think so too. But
+if this should lead to his discharging his Secretary, there would be a
+weak place made.’
 
-When they had passed on a little further without speaking, Bella, after
-stealing a glance or two at the Secretary, suddenly said:
+‘Go on expounding, Sophronia. I begin to like this very much.’
 
-‘Oh, Mr Rokesmith, don’t be hard with me, don’t be stern with me; be
-magnanimous! I want to talk with you on equal terms.’
+‘Having, in our unimpeachable rectitude, done him the service of opening
+his eyes to the treachery of the person he trusted, we shall have
+established a claim upon him and a confidence with him. Whether it
+can be made much of, or little of, we must wait—because we can’t help
+it—to see. Probably we shall make the most of it that is to be made.’
 
-The Secretary as suddenly brightened, and returned: ‘Upon my [[Honour|honour]] I
-had no thought but for you. I forced myself to be constrained, lest you
-might misinterpret my being more natural. There. It’s gone.’
+‘Probably,’ said Lammle.
 
-‘Thank you,’ said Bella, holding out her little hand. ‘Forgive me.’
+‘Do you think it impossible,’ she asked, in the same cold plotting way,
+‘that you might replace the Secretary?’
 
-‘No!’ cried the Secretary, eagerly. ‘Forgive ME!’ For there were [[Tears|tears]]
-in her eyes, and they were prettier in his sight (though they smote him
-on the heart rather reproachfully too) than any other glitter in the
-world.
+‘Not impossible, Sophronia. It might be brought about. At any rate it
+might be skilfully led up to.’
 
-When they had walked a little further:
+She nodded her understanding of the hint, as she looked at the [[Fire|fire]]. ‘Mr
+Lammle,’ she said, musingly: not without a slight ironical touch: ‘Mr
+Lammle would be so delighted to do anything in his power. Mr Lammle,
+himself a man of business as [[Well|well]] as a capitalist. Mr Lammle, accustomed
+to be intrusted with the most delicate affairs. Mr Lammle, who has
+managed my own little fortune so admirably, but who, to be sure, began
+to make his reputation with the advantage of being a man of property,
+above [[Temptation|temptation]], and beyond suspicion.’
 
-‘You were going to speak to me,’ said the Secretary, with the [[Shadow|shadow]] so
-long on him quite thrown off and cast away, ‘about [[Lizzie Hexam]]. So was
-I going to speak to you, if I could have begun.’
+Mr Lammle smiled, and even patted her on the head. In his sinister
+relish of the scheme, as he stood above her, making it the subject of
+his cogitations, he seemed to have twice as much nose on his face as he
+had ever had in his life.
 
-‘Now that you CAN begin, sir,’ returned Bella, with a look as if she
-italicized the word by putting one of her dimples under it, ‘what were
-you going to say?’
+He stood pondering, and she sat looking at the dusty [[Fire|fire]] without
+moving, for some [[Time|time]]. But, the moment he began to speak again she
+looked up with a wince and attended to him, as if that [[Double|double]]-dealing of
+hers had been in her mind, and the [[Fear|fear]] were revived in her of his hand
+or his foot.
 
-‘You remember, of course, that in her short letter to Mrs Boffin—short,
-but containing everything to the purpose—she stipulated that either
-her name, or else her place of residence, must be kept strictly a secret
-among us.’
+‘It appears to me, Sophronia, that you have omitted one branch of the
+subject. Perhaps not, for women understand women. We might oust the girl
+herself?’
 
-Bella nodded Yes.
+Mrs Lammle shook her head. ‘She has an immensely strong hold upon them
+both, Alfred. Not to be compared with that of a paid secretary.’
 
-‘It is my duty to find out why she made that stipulation. I have it in
-charge from Mr Boffin to discover, and I am very desirous for myself to
-discover, whether that retracted accusation still [[Leaves|leaves]] any stain upon
-her. I mean whether it places her at any disadvantage towards any one,
-even towards herself.’
+‘But the dear [[Child|child]],’ said Lammle, with a crooked smile, ‘ought to have
+been open with her benefactor and benefactress. The darling [[Love|love]]
+ought to have reposed unbounded confidence in her benefactor and
+benefactress.’
 
-‘Yes,’ said Bella, nodding thoughtfully; ‘I understand. That seems wise,
-and considerate.’
+Sophronia shook her head again.
 
-‘You may not have noticed, Miss Wilfer, that she has the same kind of
-interest in you, that you have in her. Just as you are attracted by her
-beaut—by her appearance and manner, she is attracted by yours.’
+‘[[Well]]! Women understand women,’ said her husband, rather disappointed.
+‘I don’t press it. It might be the making of our fortune to make a
+clean sweep of them both. With me to manage the property, and my wife to
+manage the people—Whew!’
 
-‘I certainly have NOT noticed it,’ returned Bella, again italicizing
-with the dimple, ‘and I should have given her credit for—’
+Again shaking her head, she returned: ‘They will never quarrel with the
+girl. They will never punish the girl. We must accept the girl, rely
+upon it.’
 
-The Secretary with a smile held up his hand, so plainly interposing ‘not
-for better taste’, that Bella’s colour deepened over the little piece of
-coquetry she was checked in.
+‘[[Well]]!’ cried Lammle, shrugging his shoulders, ‘so be it: only always
+remember that we don’t want her.’
 
-‘And so,’ resumed the Secretary, ‘if you would speak with her [[Alone|alone]]
-before we go away from here, I feel quite sure that a natural and easy
-confidence would arise between you. Of course you would not be asked to
-betray it; and of course you would not, if you were. But if you do not
-object to put this question to her—to ascertain for us her own feeling
-in this one matter—you can do so at a far greater advantage than I or
-any else could. Mr Boffin is anxious on the subject. And I am,’ added
-the Secretary after a moment, ‘for a special reason, very anxious.’
+‘Now, the sole remaining question is,’ said Mrs Lammle, ‘when shall I
+begin?’
 
-‘I shall be happy, Mr Rokesmith,’ returned Bella, ‘to be of the least
-use; for I feel, after the serious scene of to-day, that I am useless
-enough in this world.’
+‘You cannot begin too soon, Sophronia. As I have told you, the condition
+of our affairs is desperate, and may be blown upon at any moment.’
 
-‘Don’t say that,’ urged the Secretary.
+‘I must secure Mr Boffin [[Alone|alone]], Alfred. If his wife was present, she
+would throw oil upon the waters. I know I should fail to move him to an
+angry outburst, if his wife was there. And as to the girl herself—as I
+am going to betray her confidence, she is equally out of the question.’
 
-‘Oh, but I mean that,’ said Bella, raising her eyebrows.
+‘It wouldn’t do to write for an appointment?’ said Lammle.
 
-‘No one is useless in this world,’ retorted the Secretary, ‘who lightens
-the burden of it for any one else.’
+‘No, certainly not. They would [[Wonder|wonder]] among themselves why I wrote, and
+I want to have him wholly unprepared.’
 
-‘But I assure you I DON’T, Mr Rokesmith,’ said Bella, half-crying.
+‘Call, and ask to see him [[Alone|alone]]?’ suggested Lammle.
 
-‘Not for your father?’
+‘I would rather not do that either. Leave it to me. Spare me the little
+carriage for to-day, and for to-morrow (if I don’t succeed to-day), and
+I’ll lie in wait for him.’
 
-‘Dear, loving, [[Self|self]]-forgetting, easily-satisfied Pa! Oh, yes! He thinks
-so.’
-
-‘It is enough if he only thinks so,’ said the Secretary. ‘Excuse the
-interruption: I don’t like to hear you depreciate yourself.’
-
-‘But YOU once depreciated ME, sir,’ thought Bella, pouting, ‘and I [[Hope|hope]]
-you may be satisfied with the consequences you brought upon your head!’
-However, she said nothing to that purpose; she even said something to a
-different purpose.
-
-‘Mr Rokesmith, it seems so long since we spoke together naturally, that
-I am embarrassed in approaching another subject. Mr Boffin. You know I
-am very grateful to him; don’t you? You know I feel a true respect for
-him, and am bound to him by the strong ties of his own generosity; now
-don’t you?’
+It was barely settled when a manly form was seen to pass the windows
+and heard to knock and ring. ‘Here’s Fledgeby,’ said Lammle. ‘He admires
+you, and has a high opinion of you. I’ll be out. Coax him to use his
+influence with the Jew. His name is Riah, of the [[house|House]] of Pubsey and
+Co.’ Adding these words under his breath, lest he should be audible
+in the erect ears of Mr Fledgeby, through two keyholes and the hall,
+Lammle, making signals of discretion to his servant, went softly up
+stairs.

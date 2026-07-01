@@ -1,5 +1,5 @@
 ---
-title: "[[King John]] — Act V, Scene 2 — exchange (dialogue) [1]"
+title: "King John — Act V, Scene 2 — exchange (dialogue) [1]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/king-john-(shakespeare)"

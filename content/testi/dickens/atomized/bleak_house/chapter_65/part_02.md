@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 65 (part 2)"
+title: "Bleak House — Chapter 65 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -135,12 +135,3 @@ his hand on [[Richard]]’s.
 “My dear Rick,” said he, “the clouds have cleared away, and it is
 bright now. We can see now. We were all bewildered, Rick, more or
 less. What matters! And how are you, my dear boy?”
-
-“I am very weak, sir, but I [[Hope|hope]] I shall be stronger. I have to begin
-the world.”
-
-“Aye, truly; [[Well|well]] said!” cried my guardian.
-
-“I will not begin it in the old way now,” said [[Richard]] with a sad
-smile. “I have learned a lesson now, sir. It was a hard one, but you
-shall be assured, indeed, that I have learned it.”

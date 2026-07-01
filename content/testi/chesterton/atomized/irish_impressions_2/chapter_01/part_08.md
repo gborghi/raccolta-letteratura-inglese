@@ -78,7 +78,7 @@ It has to destroy a hundred families to keep up a class.
 
 But if this family spirit is incompatible with what we mean
 by aristocracy, it is quite as incompatible with three-quarters
-of what many men praise and preach as [[Democracy|democracy]].  The whole trend
+of what many men praise and preach as [[democracy]].  The whole trend
 of what has been regarded as liberal legislation in England,
 necessary or unnecessary, defensible and indefensible, has for good
 or evil been at the expense of the independence of the family,

@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 21 (part 1)"
+title: "Dombey and Son — Chapter 49 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -10,136 +10,118 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/dombey-and-son-(dickens)">Dombey and Son</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_76/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_77/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_76/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_77/part_02">part 02 ›</a></div>
 </nav>
 
 
-CHAPTER XXI.
-New Faces
+CHAPTER XLIX.
+The Midshipman makes a Discovery
 
 
-The MAJOR, more blue-faced and staring—more over-ripe, as it were, than
-ever—and giving vent, every now and then, to one of the [[Horse|horse]]’s coughs,
-not so much of necessity as in a spontaneous explosion of importance,
-walked arm-in-arm with Mr Dombey up the sunny side of the way, with his
-cheeks swelling over his tight stock, his legs majestically wide apart,
-and his great head wagging from side to side, as if he were
-remonstrating within himself for being such a captivating object. They
-had not walked many yards, before the Major encountered somebody he
-knew, nor many yards farther before the Major encountered somebody else
-he knew, but he merely shook his fingers at them as he passed, and led
-Mr Dombey on: pointing out the localities as they went, and enlivening
-the walk with any current scandal suggested by them.
+It was long before Florence awoke. The day was in its prime, the day
+was in its wane, and still, uneasy in mind and [[Body|body]], she slept on;
+unconscious of her strange bed, of the noise and turmoil in the street,
+and of the light that shone outside the shaded [[Window|window]]. Perfect
+unconsciousness of what had happened in the [[Home|home]] that existed no more,
+even the deep slumber of exhaustion could not produce. Some undefined
+and mournful recollection of it, dozing uneasily but never sleeping,
+pervaded all her rest. A dull sorrow, like a half-lulled sense of [[Pain|pain]],
+was always present to her; and her pale cheek was oftener wet with
+[[Tears|tears]] than the honest Captain, softly putting in his head from [[Time|time]] to
+[[Time|time]] at the half-closed door, could have desired to see it.
 
-In this manner the Major and Mr Dombey were walking arm-in-arm, much to
-their own satisfaction, when they beheld advancing towards them, a
-wheeled chair, in which a lady was seated, indolently steering her
-carriage by a kind of rudder in front, while it was propelled by some
-unseen power in the rear. Although the lady was not young, she was very
-blooming in the face—quite rosy—and her dress and attitude were
-perfectly juvenile. Walking by the side of the chair, and carrying her
-gossamer parasol with a proud and weary air, as if so great an effort
-must be soon abandoned and the parasol dropped, sauntered a much
-younger lady, very handsome, very haughty, very wilful, who tossed her
-head and drooped her eyelids, as though, if there were anything in all
-the world worth looking into, save a [[Mirror|mirror]], it certainly was not the
-earth or sky.
+The sun was getting low in the west, and, glancing out of a red mist,
+pierced with its rays opposite loopholes and pieces of fretwork in the
+spires of [[City|city]] churches, as if with golden arrows that struck through
+and through them—and far away athwart the [[River|river]] and its flat banks, it
+was gleaming like a path of [[Fire|fire]]—and out at sea it was irradiating
+sails of ships—and, looked towards, from quiet churchyards, upon
+[[Hill|hill]]-tops in the country, it was steeping distant prospects in a flush
+and glow that seemed to mingle earth and sky together in one glorious
+suffusion—when Florence, opening her heavy eyes, lay at first, looking
+without interest or recognition at the unfamiliar walls around her, and
+listening in the same regardless manner to the noises in the street.
+But presently she started up upon her couch, gazed round with a
+surprised and vacant look, and recollected all.
 
-“Why, what the devil have we here, Sir!” cried the Major, stopping as
-this little cavalcade drew near.
+“My pretty,” said the Captain, knocking at the door, “what cheer?”
 
-“My dearest Edith!” drawled the lady in the chair, “[[Major Bagstock]]!”
+“Dear friend,” cried Florence, hurrying to him, “is it you?”
 
-The Major no sooner heard the voice, than he relinquished Mr Dombey’s
-arm, darted forward, took the hand of the lady in the chair and pressed
-it to his lips. With no less gallantry, the Major folded both his
-gloves upon his heart, and bowed low to the other lady. And now, the
-chair having stopped, the motive power became visible in the shape of a
-flushed page pushing behind, who seemed to have in part outgrown and in
-part out-pushed his strength, for when he stood upright he was tall,
-and wan, and thin, and his plight appeared the more forlorn from his
-having injured the shape of his hat, by butting at the carriage with
-his head to urge it forward, as is sometimes done by elephants in
-Oriental countries.
+The Captain felt so much [[Pride|pride]] in the name, and was so pleased by the
+gleam of pleasure in her face, when she saw him, that he kissed his
+hook, by way of reply, in speechless gratification.
 
-“Joe Bagstock,” said the Major to both ladies, “is a proud and happy
-man for the rest of his life.”
+“What cheer, bright di’mond?” said the Captain.
 
-“You false creature!” said the old lady in the chair, insipidly. “Where
-do you come from? I can’t bear you.”
+“I have surely slept very long,” returned Florence. “When did I come
+here? Yesterday?”
 
-“Then suffer old Joe to present a friend, Ma’am,” said the Major,
-promptly, “as a reason for being tolerated. Mr Dombey, Mrs Skewton.”
-The lady in the chair was gracious. “Mr Dombey, Mrs Granger.” The lady
-with the parasol was faintly conscious of Mr Dombey’s taking off his
-hat, and bowing low. “I am delighted, Sir,” said the Major, “to have
-this opportunity.”
+“This here blessed day, my lady lass,” replied the Captain.
 
-[Illustration]
+“Has there been no [[Night|night]]? Is it still day?” asked Florence.
 
-The Major seemed in earnest, for he looked at all the three, and leered
-in his ugliest manner.
+“Getting on for evening now, my pretty,” said the Captain, drawing back
+the curtain of the [[Window|window]]. “See!”
 
-“Mrs Skewton, Dombey,” said the Major, “makes havoc in the heart of old
-Josh.”
+Florence, with her hand upon the Captain’s arm, so sorrowful and timid,
+and the Captain with his rough face and burly figure, so quietly
+protective of her, stood in the rosy light of the bright evening sky,
+without saying a word. However strange the form of speech into which he
+might have fashioned the feeling, if he had had to give it utterance,
+the Captain felt, as sensibly as the most eloquent of men could have
+done, that there was something in the tranquil [[Time|time]] and in its softened
+[[Beauty|beauty]] that would make the wounded heart of Florence overflow; and that
+it was better that such [[Tears|tears]] should have their way. So not a word
+spake [[Captain Cuttle]]. But when he felt his arm clasped closer, and when
+he felt the lonely head come nearer to it, and lay itself against his
+homely coarse blue sleeve, he pressed it gently with his rugged hand,
+and understood it, and was understood.
 
-Mr Dombey signified that he didn’t [[Wonder|wonder]] at it.
+“Better now, my pretty!” said the Captain. “Cheerily, cheerily, I’ll go
+down below, and get some dinner ready. Will you come down of your own
+[[Self|self]], arterwards, pretty, or shall Ed’ard Cuttle come and fetch you?”
 
-“You perfidious goblin,” said the lady in the chair, “have done! How
-long have you been here, bad man?”
+As Florence assured him that she was quite able to walk downstairs, the
+Captain, though evidently doubtful of his own hospitality in permitting
+it, left her to do so, and immediately set about roasting a fowl at the
+[[Fire|fire]] in the little parlour. To achieve his cookery with the greater
+skill, he pulled off his coat, tucked up his wristbands, and put on his
+glazed hat, without which assistant he never applied himself to any
+nice or difficult undertaking.
 
-“One day,” replied the Major.
+After cooling her aching head and burning face in the fresh [[Water|water]] which
+the Captain’s care had provided for her while she slept, Florence went
+to the little [[Mirror|mirror]] to bind up her disordered hair. Then she knew—in a
+moment, for she shunned it instantly, that on her breast there was the
+darkening mark of an angry hand.
 
-“And can you be a day, or even a minute,” returned the lady, slightly
-settling her false curls and false eyebrows with her fan, and showing
-her false teeth, set off by her false complexion, “in the [[Garden|garden]] of
-what’s-its-name.”
+Her [[Tears|tears]] burst forth afresh at the sight; she was ashamed and afraid
+of it; but it moved her to no anger against him. Homeless and
+fatherless, she forgave him everything; hardly thought that she had
+need to forgive him, or that she did; but she fled from the idea of him
+as she had fled from the reality, and he was utterly gone and lost.
+There was no such Being in the world.
 
-“Eden, I suppose, Mama,” interrupted the younger lady, scornfully.
+What to do, or where to live, Florence—poor, inexperienced girl!—could
+not yet consider. She had indistinct [[Dreams|dreams]] of finding, a long way off,
+some little sisters to instruct, who would be gentle with her, and to
+whom, under some feigned name, she might attach herself, and who would
+grow up in their happy [[Home|home]], and marry, and be good to their old
+governess, and perhaps entrust her, in [[Time|time]], with the [[Education|education]] of
+their own daughters. And she thought how strange and sorrowful it would
+be, thus to become a grey-haired woman, carrying her secret to the
+[[Grave|grave]], when [[Florence Dombey]] was forgotten. But it was all dim and
+clouded to her now. She only knew that she had no Father upon earth,
+and she said so, many times, with her suppliant head hidden from all,
+but her Father who was in Heaven.
 
-“My dear Edith,” said the other, “I cannot help it. I never can
-remember those frightful names—without having your whole [[Soul]] and Being
-inspired by the sight of [[Nature]]; by the perfume,” said Mrs Skewton,
-rustling a handkerchief that was faint and sickly with essences, “of
-her artless breath, you creature!”
-
-The discrepancy between Mrs Skewton’s fresh enthusiasm of words, and
-forlornly faded manner, was hardly less observable than that between
-her age, which was about seventy, and her dress, which would have been
-youthful for twenty-seven. Her attitude in the wheeled chair (which she
-never varied) was one in which she had been taken in a barouche, some
-fifty years before, by a then fashionable [[artist]] who had appended to
-his published [[Sketch|sketch]] the name of [[Cleopatra]]: in consequence of a
-discovery made by the critics of the [[Time|time]], that it bore an exact
-resemblance to that Princess as she reclined on board her galley. Mrs
-Skewton was a [[Beauty|beauty]] then, and bucks threw wine-glasses over their
-heads by dozens in her [[Honour|honour]]. The [[Beauty|beauty]] and the barouche had both
-passed away, but she still preserved the attitude, and for this reason
-expressly, maintained the wheeled chair and the butting page: there
-being nothing whatever, except the attitude, to prevent her from
-walking.
-
-“Mr Dombey is devoted to [[Nature]], I trust?” said Mrs Skewton, settling
-her diamond brooch. And by the way, she chiefly lived upon the
-reputation of some diamonds, and her family connexions.
-
-“My friend Dombey, Ma’am,” returned the Major, “may be devoted to her
-in secret, but a man who is paramount in the greatest [[City|city]] in the
-universe—”
-
-“No one can be a stranger,” said Mrs Skewton, “to Mr Dombey’s immense
-influence.”
-
-As Mr Dombey acknowledged the compliment with a bend of his head, the
-younger lady glancing at him, met his eyes.
-
-“You reside here, Madam?” said Mr Dombey, addressing her.
-
-“No, we have been to a great many places. To Harrogate and Scarborough,
-and into Devonshire. We have been visiting, and resting here and there.
-Mama likes change.”
-
-“Edith of course does not,” said Mrs Skewton, with a ghastly archness.
-
-“I have not found that there is any change in such places,” was the
-answer, delivered with supreme indifference.
+Her little stock of money amounted to but a few guineas. With a part of
+this, it would be necessary to buy some clothes, for she had none but
+those she wore. She was too desolate to think how soon her money would
+be gone—too much a [[Child|child]] in worldly matters to be greatly troubled on
+that score yet, even if her other trouble had been less. She tried to
+calm her thoughts and stay her [[Tears|tears]]; to quiet the hurry in her
+throbbing head, and bring herself to believe that what had happened
+were but the events of a few hours ago, instead of weeks or months, as
+they appeared; and went down to her kind protector.

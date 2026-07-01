@@ -1,5 +1,5 @@
 ---
-title: "[[Troilus]] and [[Cressida]] — Act II, Scene 3 — monologue ([[Thersites|THERSITES]]) [2]"
+title: "Troilus and Cressida — Act II, Scene 3 — monologue (THERSITES) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/troilus-and-cressida-(shakespeare)"

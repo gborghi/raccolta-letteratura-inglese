@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 44 (part 2)"
+title: "The Tenant of Wildfell Hall — Chapter 44 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -14,6 +14,14 @@ tags:
 </nav>
 
 
+hasty survey of our new abode. Besides the kitchen, there were two
+
+bedrooms, a good-sized parlour, and another smaller one, which I
+
+destined for my studio, all [[Well|well]] aired and seemingly in good repair,
+
+but only partly furnished with a few old articles, chiefly of ponderous
+
 black oak, the veritable ones that had been there before, and which had
 
 been kept as antiquarian relics in my brother’s present residence, and
@@ -22,7 +30,7 @@ now, in all haste, transported back again.
 
 
 
-The old woman brought my supper and [[arthur|Arthur]]’s into the parlour, and told
+The old woman brought my supper and [[Arthur]]’s into the parlour, and told
 
 me, with all due formality, that “the master desired his compliments to
 
@@ -36,7 +44,7 @@ her to-morrow, to receive her further commands.”
 
 I was glad to ascend the stern-looking stone staircase, and lie down in
 
-the gloomy, old-fashioned bed, beside my little [[arthur|Arthur]]. He was asleep
+the gloomy, old-fashioned bed, beside my little [[Arthur]]. He was asleep
 
 in a minute; but, weary as I was, my excited feelings and restless
 
@@ -44,7 +52,7 @@ cogitations kept me awake till [[Dawn|dawn]] began to struggle with the
 
 darkness; but [[Sleep|sleep]] was sweet and refreshing when it came, and the
 
-waking was delightful beyond expression. It was little [[arthur|Arthur]] that
+waking was delightful beyond expression. It was little [[Arthur]] that
 
 roused me, with his gentle kisses. He was here, then, safely clasped in
 
@@ -191,17 +199,3 @@ reckon upon.
 It seems Mr. Huntingdon is making every exertion to discover the place
 
 of my retreat. He has been in person to Staningley, seeking redress for
-
-his grievances—expecting to hear of his victims, if not to find them
-
-there—and has told so many lies, and with such unblushing coolness,
-
-that my uncle more than half believes him, and strongly advocates my
-
-going back to him and being friends again. But my aunt knows better:
-
-she is too cool and cautious, and too [[Well|well]] acquainted with both my
-
-husband’s character and my own to be imposed upon by any specious
-
-falsehoods the former could invent. But he does not _want_ me back; he

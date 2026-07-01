@@ -1,5 +1,5 @@
 ---
-title: "Robert Louis Stevenson — Chapter 6"
+title: "Robert Louis Stevenson — Chapter 5"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/robert-louis-stevenson-(chesterton)"
@@ -14,294 +14,358 @@ tags:
 </nav>
 
 
-CHAPTER VI
+CHAPTER V
 
-THE STYLE OF STEVENSON
+THE SCOTTISH STORIES
 
-BEFORE writing this chapter I ought to explain that I am quite
-incapable of writing it; at least as many serious literary authorities
-think it ought to be written.  I am one of those humble characters
-for whom the main matter of style is concerned with making a statement;
-and generally, in the case of Stevenson, with telling a story.
-Style takes its own most living and therefore most fitting form
-from within; as the narrative quickens and leaps, or the statement
-becomes warm or weighty, by being either authoritative or argumentative.
-The sentence takes its shape from motion; as it takes its motion
-from motive.  And the motive (for us outcasts) is what the man has
-to say.  But there is a technical treatment of style for which I have
-a profound respect, but it is a respect for the unknown, not to say
-the unintelligible.  I will not say it is Greek to me, for I know
-the Greek alphabet and I do not know the alphabet of these grammars
-of cadence and sequence; I can still even read the Greek Testament,
-but the gospel of pure and abstract English brings me no news.
-I salute it, from afar as I do musical harmony or the higher mathematics;
-but I shall not introduce into this book a chapter on any of these
-three topics.  When I speak of the style of Stevenson I mean
-the manner in which he could express himself in plain English,
-even if it were in some ways peculiar English; and I have nothing
-but the most elementary English with which to criticise it.
-I cannot use the terms of any science of language, or even any
-science of literature.
+PROVERBS are generally true, when they are the proverbs of the people;
+so long as they are not proverbs about another people.
+It was unwise to search Sussex to discover if Kentish men had tails,
+or England to learn if French husbands had horns.  And obviously there
+is much that is misleading in the traditional type of the practical
+Puritanical Scotsman, with his dry thrift and bleak respectability.
+A figure of such severe decorum is not very vividly evoked either
+by the title of Rab the Ranter or the Wizard of the North.
+And few of our own generation are yet convinced of it,
+even by the scientific severity that has given us _Peter Pan_
+or the sober responsibility that stiffens the narrative of
+_The New Arabian Nights._ The readers of the latter work will be
+much interested to realise that a Scotsman is incapable of seeing
+a joke, since he seems so eminently capable of making one;
+and the reader of the former will be disposed to suggest that
+the national jesting is not too sober but rather too extravagant.
+_Peter Pan_ carries on by lineal tradition the cult of the [[Child|child]],
+beginning with _Treasure Island;_ but if there be anything to criticise
+in Sir James Barrie's beautiful fantasia, it is that wilder things
+happen to Wendy in a [[London]] nursery than ever happened to Jim
+in a tropical island.  The only object to living in a nursery
+where the dog is the [[Nurse|nurse]], or the father lives in the dog-kennel,
+is that there seems no necessity to go to the Never-Never Land
+to look for the things that never happen.  Whatever else we say
+of the Scottish genius, it is certainly not merely dry or prosaic;
+and indeed the real mixture of the Scottish genius is as full
+of contradictions as that pattern of crosses in the Scottish plaid.
+And even here there is subtlety as [[Well|well]] as [[Cross|cross]]-purposes;
+and the tartan may be an old tribal form of camouflage.
 
-Mr. Max Beerbohm, whose fine and classic criticism is full of those
-shining depths that many mistake for shallowness, has remarked
-truly enough on the rather wearisome repetitions in the newspapers,
-which did great harm to the Stevensonian fame at the [[Time|time]] of
-the Stevensonian fashion.  He noticed especially that a certain
-phrase used by Stevenson about his early experiments in writing,
-that he has "played the sedulous ape" to Hazlitt or to [[Lamb]], must be
-permanently kept in type in the journalistic offices, so frequently
-do the journalists quote it.  There are about a thousand things in
-Stevenson much more worth quoting, and much more really enlightening
-about his [[Education|education]] in letters.  Every young writer, however original,
-does begin by imitating other people, consciously or unconsciously,
-and nearly every old writer would be quite as willing to admit it.
-The real irony in the incident seems never to have been noticed.
-The real reason why this confession of plagiarism, out of a hundred
-such confessions, is always quoted, is because the confession itself
-has the stamp not of plagiarism but of personal originality.
-In the very act of claiming to have copied other styles, Stevenson writes
-most unmistakably in his own style.  I think I could have guessed amid
-a hundred authors who had used the expression "played the sedulous ape."
-I do not think that Hazlitt would have added that word "sedulous."
-Some might say he was the better because the simpler without it;
-some would say that the word is in the strict sense too _recherché;_
-some might say it can be recognised because it is strained or affected.
-All that is matter for argument; but it is rather a joke when so
-individual a trick is made a proof of being merely imitative.
-Anyhow, that sort of trick, the rather curious combination of two
-such words, is the thing I mean by the style of Stevenson.
+There is an aspect of a Scottish [[Hill|hill]] or moor, which for the moment
+will look grey and at the least change of light look purple;
+which is in itself an image of Scotland.  A passing from the most
+dispassionate to the most passionate tint, which yet seems
+to be no more than a new shade, might [[Well|well]] represent the mixture
+of restraint and violence that runs through the national [[history]]
+and the national character.  Stevenson stands for one of those
+moments in the national [[history]] when the grey turned to purple;
+and yet in his purple there is still a great deal of grey.
+There is a great deal of restraint, artistic even more than moral;
+there is a certain coolness in the commentary even on picturesque objects;
+there is even a certain absence of the common conception of passion.
+There are shades even in purple; there are differences between
+the purple orchid and the purple heather; and his often
+seems to be like white heather, for luck.  In other words,
+his idea of happiness is still of the breezy and boyish sort;
+and though he described the happiness of [[lovers]] very happily
+in _Catriona_ and began to foreshadow their unhappiness in _Weir
+of Hermiston,_ he attacked the theme relatively late in life;
+and it counted for little in that original idea of a return
+to simplicity, which had come upon him like a [[Wind|wind]] from a playground.
+Imagine how annoyed Jim Hawkins would have been, if a lot of girls
+had been allowed to muck up the business of going after treasure!
+So brilliant is this [[Resurrection|resurrection]] of boyhood, that we almost
+believe for the moment that Stevenson must have been as young
+and callous as Jim.  Only I suspect, as I say, that in some ways
+he had even made himself a little callous in those matters.
+There his adventures had been misadventures.  He did not recall for
+mere pleasure the [[Memory|memory]] of youth, as he did the [[Memory|memory]] of boyhood.
 
-In the case of Stevenson, criticism has always tended
-to be hypercriticism.  It is as if the critic were strung up
-to be as strict with the [[Artist|artist]] as the [[Artist|artist]] was with himself.
-But they are not very consistent or considerate in the matter.  They blame
-him for being fastidious; and so become more fastidious themselves.
-They condemn him for wasting [[Time|time]] in trying to find the right word;
-and then waste more [[Time|time]] in not very successful attempts to
-prove it is the wrong word.  I remember that Mr. George Moore
-(who at least led the attack when Stevenson was alive and at
-the height of his popularity) professed in a somewhat mysterious
-manner to have exposed or exploded the whole trick of Stevenson,
-by dwelling at length on the word "interjected": in the passage
-which describes a man stopping a [[Clock|clock]] with interjected finger.
-There seemed to be some notion that because the word is unusual
-in that use, it showed that there was nothing but artificial
-verbalism in the whole [[Tragedy|tragedy]] of _Jekyll and Hyde_ or the fun of
-_The Wrong Box._ I think it is [[Time|time]] that this sort of fastidiousness
-about fastidiousness should be corrected with a little common sense.
-The obvious question to ask Mr. Moore, if he objects
-to the word "interjected," is, "What word would you use?"
-He would immediately discover that any other word would be much
-weaker and even much less exact.  To say "interposed finger"
-would suggest by its very sound a much clumsier and less
-precise action; "interjected" suggests by its very sound a sort
-of jerk of neatness; a mechanical neatness correcting mechanism.
-In other words, it suggests what it was meant to suggest.
-Stevenson used the word because it was the right word.
-Nobody else used it, because nobody else thought of it.
-And that is the whole story of Stevensonian style.
+The two novels about David Balfour are very notable examples
+of what I have mentioned generally as the Stevensonian note;
+the brisk and bright treatment, the short speeches, the sharp gestures
+and the pointed profile of energy, as of a man following his nose
+very rapidly along the open [[Road|road]].  The great scenes in _Kidnapped,_
+the defence of the Round [[house|House]] or the confrontation of Uncle Ebenezer
+and Alan Breck, are full of those snapping phrases that seem to pick
+things off like [[Pistol|pistol]] shots.  A whole [[Essay|essay]] on the style of Stevenson,
+such as I shall attempt forlornly and ineffectually on another page,
+might be written by a real critic on the phrase, "His [[Sword|sword]] flashed
+like quicksilver into the huddle of our fleeing enemies."  The fact
+that the name of a certain metal happens to combine the word "silver"
+with the word "quick" is simply a rather recondite accident;
+but the art of Stevenson consisted in taking advantage of such accidents.
+To those who say that such tricks are easy to play or such words
+easy to find, the only answer is, "Go and find them."  An author
+cannot create words, unless he be the happy author of _Jaberwocky_
+or _The Land Where the Jumblies Live;_ but the nearest he can come
+to creating them is finding them in such a fashion and for such a use.
+The characters in the story are excellent, though perhaps there
+are really only two of them.  There are more in the sequel called
+_Catriona;_ and the study of the Lord Advocate Prestongrange
+is a highly interesting attempt to do a very difficult thing;
+to describe a politician who has not altogether ceased to be a man.
+The dialogue is spirited and full of fine Scottish humours,
+but all these things are almost as secondary in _Kidnapped_
+and _Catriona_ as they are in _Treasure Island_ itself.
+The thing is still simply an adventure story, and especially a boy's
+adventure story; such as is fitted to describe the adventures of a boy.
+And there are moments when it is the same boy; and his name is
+neither Hawkins nor Balfour, but Stevenson.
 
-Literature is but language; it is only a rare and amazing miracle
-by which a man really says what he means.  It is inevitable that most
-conversation should be convention; as when we cover a myriad beautiful
-contrasts or comedies of opposites by calling any number of different
-people "nice." Some writers, including Stevenson, desired (in the old
-and proper sense) to be more nice in their discrimination of niceness.
-Now whether we like such fastidious felicities or no, whether we are
-individually soothed or irritated by a style like that of Stevenson,
-whether we have any personal or impersonal reason for impatience
-with the style or the man, we ought really to have enough critical
-impartiality and justice to see what is the literary test.
-The test is whether the words are [[Well|well]] or ill chosen, not for
-the purpose of fitting our own taste in words, but for the purpose
-of satisfying everybody's sense of the realities of things.
-Now it is nonsense for anybody who pretends to like literature
-not to see the excellence of Stevenson's expression in this way.
-He does pick the words that make the picture that he particularly
-wants to make.  They do fix a particular thing, and not some
-general thing of the same sort; yet the thing is often one very
-difficult to distinguish from other things of the same sort.
-That is the craft of letters; and the craftsman made a vast
-multitude of such images in all sorts of materials.  In this
-matter we may say of Stevenson very much what he said of Burns.
-He remarked that Burns surprised the polite world, with its
-aesthetes and antiquarians, by never writing [[Poems|poems]] on waterfalls,
-ruined castles or other recognised places of interest; the very fact,
-of course, which showed Burns to be a poet and not a tourist.
-It is always the prosaic person who demands poetic subjects.
-They are the only subjects about which he can possibly be poetic.
-But Burns, as Stevenson said, had a natural gift of lively and flexible
-comment that could play as easily upon one thing as another; a kirk
-or a tavern or a group going to market or a pair of [[dogs]] in the street.
-This gift must be judged by its aptness, its vividness and its range;
-and anybody who suggests that Stevenson's talent was only one
-piece of thin silver polished perpetually in its napkin does not,
-in the most exact and emphatic sense, know what he is talking about.
-Stevenson had exactly the talent he attributes to Burns of touching
-nothing that he did not animate.  And so far from hiding one talent
-in one napkin, it would be truer to say that he became ruler over
-ten cities; set in the ends of the earth.  Indeed the last phrase
-[[Alone|alone]] suggests an example or a text.
+But though the thing is to be criticised (and admired) strictly as
+an adventure story, there are side-lights of interest about it
+considered as a [[Historical Novel|historical novel]].  It carries on a rather curiously
+balanced critical attitude, partly inherited from the attitude
+of Sir Walter Scott; the [[Paradox|paradox]] of being intellectually on
+the side of the Whigs and morally on the side of the Jacobites.
+There is enough moral material, in the story of the long legal murder
+of James of the Glens, to raise a whole clan of Jacobites and roll
+them red-hot down the pass of Killiecrankie.  But there still stands
+over against it the large legal assumption that in some sort of way
+all these things will be for the best, which is the inheritance of
+the providential view of the Presbyterian settlement.  Similarly, it is
+obvious in the earlier story that David Balfour does not really
+differ very much from Alan Breck, in his view of the oppression
+of the Highland crofters and their pathetic loyalty to the past.
+In the ethical balance of the Appin Murder, if he does not palliate
+tyrannicide, he certainly says nothing calculated to palliate tyranny.
+It is obvious that he is moved and impressed with the spectacle
+of a whole peasantry loyal to their ideal and defying a more
+civilised but a much more cynical pressure.  But, curiously enough,
+when Stevenson saw exactly the same story acted before his eyes
+in the [[Tragedy|tragedy]] of the peasants of Ireland, he was carried away
+by some newspaper nonsense about the wickedness of the Land League
+(prodded perhaps by the rather absurd Jingoism of Henley)
+and, with all his native [[Courage|courage]] and much less than his native sense,
+wanted to plant himself on an eviction farm belonging to a family
+named Curtin, whom he seemed to regard as the sole victims of
+the social situation.  It did not seem to occur to him that he was
+merely assisting the Master of Lovat to bully David Balfour.
+He seemed really to suppose that, in those social conditions,
+the Irish peasants could look for justice to imperial governments
+which abolished all local rights and carried away every Irish
+patriot to be tried before a packed jury of foreigners and foes.
+"Justice, David!  The same justice, by all the world, that Glenure
+found by the roadside."
 
-I will take the case of one of his books; I deliberately refrain
-from taking one of his best books.  I will take _The Wrecker,_ a book
-which many would call a failure and which nobody would call a faultless
-artistic [[success]], least of all the [[Artist|artist]].  The picture breaks
-out of the frame; indeed it is rather a panorama than a picture.
-The story sprawls over three continents; and the climax has too much
-the air of being only the last of a long string of disconnected passages.
-It has the look of a scrap-book; indeed it is very exactly
-a [[Sketch|sketch]]-book. It is merely the [[Sketch|sketch]]-book of Loudon Dodd,
-the wandering art student never allowed to be fully an [[Artist|artist]];
-just as his story is never allowed to be fully a work of art.
-He sketches people with the pen as he does with the pencil,
-in four or five incongruous societies, in the commercial school
-of Muskegon or the art school of [[Paris]], in the east [[Wind|wind]] of Edinburgh
-or the black squall of the South Seas; just as he sketched the four
-fugitive murderers gesticulating and lying in the Californian saloon.
-The point is (on the strict principles of _l'art pour l'art,_
-so dear to Mr. Dodd) that he sketched devilish [[Well|well]].
-We can take the portraits of twenty social types in turn,
-taken from six social worlds utterly shut out from each other,
-and find in every case that the strokes are at once few and final;
-that is, that the word is [[Well|well]] chosen out of a hundred words
-and that one word does the work of twenty.  The story starts:
-"The beginning of this yarn is my poor father's character";
-and the character is compact in one paragraph.  When Jim Pinkerton first
-strides into the story and is described as a young man "with cordial,
-agitated manners," we walk through the rest of the narrative
-with a living man; and listen not merely to words, but to a voice.
-No other two adjectives could have done the trick.  When the shabby
-and shady lawyer, with his cockney culture and underbred refinement,
-is first introduced as handling a big piece of business beyond his
-_metier,_ he bears himself "with a sort of shrinking assumption."
-The reader, especially if he is not a writer, may imagine
-that such words matter little; but if he supposes that it might
-just as [[Well|well]] have been "flinching [[Pride|pride]]" or "quailing arrogance"
-he knows nothing about writing and perhaps not much about reading.
-The whole point is in that hitting of the right nail on the head;
-and rather more so when the nail is such a very battered little tintack
-as Mr. Henry D. Bellairs of San Francisco.  When Loudon Dodd merely
-has to meet a naval officer and record that he got next to nothing
-out of him, that very negation has a touch of chilly life like a fish.
-"I judged he was [[Suffering|suffering]] torments of alarm lest I should prove
-an undesirable acquaintance; diagnosed him for a shy, dull, vain,
-unamiable animal, without adequate defence--a sort of dis-housed snail."
-The visit to an English village, under the [[Shadow|shadow]] of an English
-country [[house]], is equally aptly appreciated; from the green framework
-of the little town, "a domino of tiled houses and walled gardens,"
-to the reminiscences of the ex-butler about the exiled younger son;
-"near four generations of Carthews were touched upon without
-eliciting one point of interest; and we had killed Mr. Henry in
-the hunting field with a vast elaboration of painful circumstance
-and buried him in the midst of a whole sorrowing county, before I
-could so much as manage to bring upon the stage my intimate friend,
-Mr. Norris. . . . He was the only person of the whole featureless
-series who seemed to have accomplished anything worth mentioning;
-and his achievements, poor dog, seemed to have been confined to going
-to the devil and leaving some regrets. . . . He had no [[Pride|pride]] about him,
-I was told; he would sit down with any man; and it was somewhat
-woundingly implied that I was indebted to this peculiarity for my
-own acquaintance with the [[Hero|hero]]."  But I must not be led away by
-the large [[Temptation|temptation]] of quoting examples of the cool and collected
-and sustained irony, with which Loudon Dodd tells his whole story.
-I am only giving random examples of his rapid sketches of very
-different sorts of societies and personalities; and the point is
-that he can describe them rapidly and yet describe them rightly.
-In other words the author does possess a quite exceptional power
-of putting what he really means into the words that really convey it.
-And to show that this was a matter of genius in the man, and not
-(as some of his critics would imply) a matter of laborious
-technical treatment applied to two or three prize specimens,
-I have taken all these examples from one of the less known works,
-one of the least admired and perhaps of the least admirable.
-Whole tracts of it run almost as casually as his private correspondence;
-and his private correspondence is full of the same lively and
-animated neatness.  In this one neglected volume of _The Wrecker_ there
-are thousands of such things; and everything to show that he could
-have written twenty more volumes, equally full of these felicities.
-A man who does this is not only an [[Artist|artist]] doing what most men
-cannot do, but he is certainly doing what most novelists do not do.
-Even very good novelists have not this particular knack of putting
-a whole human figure together with a few unforgettable words.
-By the end of a [[Novel|novel]] by Mr. Arnold Bennett or Mr. E. F. Benson I
-have the sense that Lord Raingo or Lord Chesham is a real man,
-very rightly understood; but I never have at the beginning that
-feeling of [[Magic|magic]]; that a man has been brought to life by three words
-of an incantation.
+But this curious and sometimes inconsistent mingling of the grey
+Whiggery with the purple Jacobite [[Romance|romance]], in the traditional
+sentiment of such Scots as Stevenson, is connected with much
+deeper things touching the hold that their [[history]] had upon them.
+It is necessary to state at this stage that there is really
+and seriously an influence of Scottish [[Puritanism]] upon Stevenson;
+though I think it rather a [[philosophy]] partially accepted by his
+intellect than the special ideal that was the secret of his heart.
+But every philosopher is affected by [[philosophy]]; even if, as in the
+immortal instance in Boswell, cheerfulness is always breaking out.
+And there was a part of Stevenson's mind that was not cheerful;
+which I think, in some manifestations, was not even healthy.
+And yet the tribute of [[Truth|truth]] is due to that special Scottish element;
+that even when we say it was not healthy, we can hardly venture to say
+it was not strong.  It was the [[Shadow|shadow]] of that ancient heathen fatalism,
+which in the seventeenth century had taken the hardly less heathen
+form of Calvinism; and which had sounded in so many Scottish tragedies
+with a note of doom.  We appreciate it sharply when we turn from his
+two Scottish comedies of adventure to his third Scottish [[Romance|romance]],
+which is a [[Tragedy|tragedy]] of character.  It is true, as may be noted later,
+that even into this concentrated drama of sin and sorrow there enters
+a curious and rather incongruous element of the adventure story;
+like a [[Fragment|fragment]] of the former adventures of David or Jim.
+But leaving that aside for the moment, we must do justice to the dignity
+which is given to the story itself by its more sombre scenery and its
+sterner creed.  Stevenson showed his perfect instinct when he called
+it _A [[Winter]]'s Tale._ It is his one story in black and white,
+and I cannot recall one word that is a patch of colour.
 
-This was the genius of Stevenson; and it is simply silly to complain
-of it because it was Stevensonian.  I do not blame either of the
-other two novelists for not being somebody else.  But I do venture
-to blame them a little for grumbling because Stevenson was himself.
-I do not quite see why he should be covered with cold depreciation
-merely because he could put into a line what other men put into a page;
-why he should be regarded as superficial because he saw more in a man's
-walk or profile than the moderns can dig out of his complexes and
-his subconsciousness; why he should be called artificial because he sought
-(and found) the right word for a real object; why he should be
-thought shallow because he went straight for what was significant,
-without wading towards it through wordy seas of insignificance;
-or why he should be treated as a liar because he was not ashamed
-to be a story-teller.
+In touching on the rather neglected point of the nastier side
+of Puritan sociology, the raw and barbarous flavour about its evil
+and excess, I may have seemed to underrate the higher though harsher
+aspects of Scottish [[Puritanism]].  I do not mean to do so; and certainly
+nobody can afford to do so in attempting an adequate study of Stevenson.
+He remained to the day of his [[Death|death]] in some ways particularly loyal
+to the Presbyterian tradition; I might say to the Presbyterian prejudices;
+and at least in one or two cases to the Presbyterian antipathies.
+But I think it was mostly rather a case of the modern religion
+of patriotism, as against the larger patriotism of religion.
+Like many other men of frank, tart and humorous prejudices
+(which are the sort of prejudices that need never prejudice us
+against a man) he was apt to see in some foreign things the evils
+to which he had grown accustomed in native things; and to start
+again the great international dispute of the pot and the kettle.
+It is amusing, for instance, to find the young Scotsman in _Olalla_
+gravely disapproving of the grim Spanish crucifix, with its tortured
+and grimacing art; and presumably leaving that land of religious gloom,
+to go back and enjoy the charm and gaiety of Thrawn Janet.
+If there was ever grim and grimacing art, one would think it was in
+that twisted figure; and even Stevenson admitted that Olalla got more
+comfort from the crucifix than Janet from the minister; or, I will add,
+the minister from the ministry.  Indeed, stories of this kind
+are told by Stevenson with a deliberate darkening of the Scottish
+landscape and exultation in the ferocity of the Scottish creed.
+But it would be quite a mistake to miss in this a certain genuine
+national [[Pride|pride]] running through all the abnormal artistry;
+and a sense that the strength of the tribal [[Tragedy|tragedy]] testifies
+in a manner to the strength of the tribe.
 
-Of course there are many other vivid marks of Stevenson's style,
-besides this particular element of picked and pointed phrase,
-or rather especially the combination of picked and pointed phrases.
-I might make much more than I have made out of something in his
-rapidly stepping sentences, especially in narrative, which corresponds
-to his [[philosophy]] of the militant attitude and the active virtues.
-That word angular, which I have been driven to use too often,
-belongs to the sharpness of his verbal gestures as much
-as to the cutlasses and choppers of his paste-board pirates.
-Those early theatrical figures, from the [[Sketch|sketch]]-book of Skelt, were all
-of them in their [[Nature|nature]] like snapshots of people in swift action.
-Three-Fingered Jack could not have remained permanently with the cudgel
-or the sabre swung about his head nor [[Robin Hood]] with the arrow
-drawn to his ear; and the descriptions of Stevenson's characters
-are seldom static but rather dynamic descriptions; and deal rather
-with how a man did or said something than with what he was like.
-The sharp and shrewd Scottish style of Ephraim Mackellar
-or David Balfour seems by its very sound exactly fitted to
-describe a man snapping his fingers or rapping with his stick.
-Doubtless so careful an [[Artist|artist]] as Stevenson varied his style to suit
-the subject and the speaker; we should not look for these dry
-or abrupt brevities in the dilettante deliberations of Loudon Dodd;
-but I know very few of the writer's works in which there are not,
-at the crisis, phrases as short and sharp as the knife that Captain Wicks
-rammed through his own hand.  Something should also have been said,
-of course, of the passages in which Stevenson deliberately plays
-on a somewhat different musical instrument; as when he exercised upon
-Pan's Pipes in respectful [[Imitation|imitation]] of Meredith upon a penny whistle.
-Something should have been said of the style of his [[Poems|poems]]; which are
-perhaps more successful in their phraseology than their poetry.
-But these again teem with these taut and trenchant separate phrases;
-the description of the interlacing branches like crossed swords in battle;
-the men upholding the falling skies like unfrowning caryatids;
-the loud stairs of [[Honour|honour]] and the bright eyes of danger.
-But I have already explained that I profess no scientific thoroughness
-about these problems of execution; and can only speak of the style
-of Stevenson as it specially affects my own taste and fancy.
-And the thing that strikes me most is still this sense of somebody being
-pinked with a rapier in a particular button; of a sort of fastidiousness
-that has still something of the fighting spirit, that aims at a mark
-and makes a point, and is certainly not merely an idle trifling with
-words for the sake of their external elegance or intrinsic melody.
-As a part of the present criticism, such a statement is only another
-way of saying, in the old phrase, that the style is the man;
-and that the man was certainly a man and not only a man of letters.
-I find everywhere, even in his mere diction and syntax,
-that theme that is the whole [[philosophy]] of fairy-tales, of the old
-romances and even of the absurd libretto of the little theatre--
-the conception that man is born with [[Hope|hope]] and [[Courage|courage]] indeed,
-but born outside that which he was meant to attain; that there
-is a [[Quest|quest]], a test, a trial by combat or pilgrimage of discovery;
-or, in other words, that whatever else man is he is not
-sufficient to himself, either through peace or through [[Despair|despair]].
-The very movement of the sentence is the movement of a man going
-somewhere and generally fighting something; and that is where optimism
-and pessimism are alike opposed to that ultimate or potential peace,
-which the violent take by [[Storm|storm]].
+It might be maintained that the best effect of the Scotsman's
+religious training was teaching him to do without his religion.
+It enabled him to survive as a certain sort of freethinker;
+one who, unlike his more familiar fellows, is not so intoxicated
+with [[Freedom|freedom]] as to forget to think.  It might be said that
+among the Scots, so far from a sentimental religiosity taking
+the place of dogmatic religion (as is generally the case among
+the English), something like the very opposite had occurred.
+When the religion was dead, the theology remained:  at any rate,
+the taste for theology remained.  It remained because, whatever else
+it is, theology is at least a form of thought.  Stevenson certainly
+retained this turn of mind long after his beliefs, like those of
+most of his generation, had been simplified to vanishing point.
+He was, as Henley said, something of the Shorter Catechist;
+even when his own Catechism had become shorter still.
+All this, however, was indubitably a strength to him and his nation;
+and a real reason for gratitude to their old religious tradition.
+Those dry Deists and hard-headed Utilitarians who stalked the streets
+of Glasgow and Edinburgh in the eighteenth and early nineteenth centuries
+were very obviously the products of the national religious spirit.
+The Scottish atheists were unmistakable children of the Kirk.
+And though they often seemed absurdly detached and dehumanised,
+the world is now rather [[Suffering|suffering]] for want of such dull lucidity.
+To put it shortly, by being theological they had at least learnt to
+be logical; and in dropping the Greek prefix as a superfluous trifle they
+will have the sympathy of many moderns much less logical than themselves.
+The influence of all this sort of clarity on Stevenson is very clear.
+It did not happen to be his mission to figure as the metaphysical
+Scotsman; or draw out his deductions along the lines of [[logic]].
+But he did always by instinct draw lines that were as hard and clear
+as those of a mathematical diagram.  He himself has made a very luminous
+and valuable comparison between a geometrical theorem and a work of art.
+I have had cause to remark again and again, in the course of this [[Sketch|sketch]],
+on a certain almost arid decision in the strokes of Stevenson's style.
+I believe it was due in no small degree to that inheritance
+of definition, that goes with an inheritance of dogma.
+What he wrote was not written, as he said scornfully of some
+literary performance, in sand with a salt-spoon; it was at least
+in the tradition of scriptures cut with steel into stone.
+This was among the many good things that he got from the spiritual
+atmosphere of his ancestry.  But he got other things as [[Well|well]];
+though they are less easy to describe and far less easy to command.
+
+From [[Time|time]] to [[Time|time]] I have insensibly and inevitably fallen
+into a tone of defending Stevenson, as if he needed defence.
+And indeed I do think that he needs some defence; though not upon
+the points in which it is now considered necessary to defend him.
+I do feel a certain impatience with the petty depreciation of our
+own [[Time|time]], which seems much more frivolous and far less generous
+than the boom of a best-seller. I do feel a certain contempt for
+those who call every phrase affected that happens to be effective;
+or who charge a man with talking for effect, as if there were anything
+else to talk for.  But I should think it very unfair to revile
+the revilers of Stevenson, without taking the risk of saying
+where I think he is, if not to be reviled, at least to be rebuked.
+There was, I think, a weaker strain in Stevenson; but it is the very
+opposite of the weakness now generally alleged by critics; indeed it
+is the very opposite of what they would probably regard as weak.
+The excuse for it, in so far as it existed to be excused,
+was in the very direction of that sharp turn which he took
+in early life, when he turned his back upon the decadents.
+I have already said, and it can hardly be said too often, that the
+story of Stevenson was a reaction against an age of pessimism.
+Now the real objection to being a reactionary is that a reactionary,
+as such, hardly ever avoids reacting into evil and exaggeration.
+The opposite of the heresy of pessimism was the twin heresy of optimism.
+Stevenson was not at all attracted to a placid and pacific optimism.
+But he did begin to be too much attracted to a sort of insolent and
+oppressive optimism.  The reaction from the idea that what is good is
+always unsuccessful is the idea that what is good is always victorious.
+And from that many slide into the worse delusion; that what is
+victorious is always good.
+
+In the days when Stevenson's ancestors the Covenanters were fighting
+with the Cavaliers, a fine old Cavalier of the Episcopalian [[Persuasion|persuasion]]
+made a rather interesting remark; that the change he really hated
+was represented by saying "The Lord" instead of "Our Lord."
+The latter implied affection, the former only [[Fear|fear]]; indeed he described
+the former succinctly as the talk of devils.  And this is so far
+true that the very eloquent language in which the name of "The Lord"
+has figured has generally been the language of might and majesty
+and even terror.  And there really was implied in it in varying degrees
+the idea of glorifying God for His [[Greatness|greatness]] rather than His goodness.
+And again there occurred the natural inversion of ideas.
+Since the Puritan was content to cry with the Moslem:  "God is great,"
+so the descendant of the Puritan is always a little inclined to cry
+with the Nietzschean:  "[[Greatness]] is God."  In some of the really
+evil extremes, this sentiment shaded darkly into a sort of diabolism.
+In Stevenson it was very faintly present; but it is occasionally felt;
+and by me (I must confess) felt as a fault.  It is faintly felt,
+for instance, in the next great Scottish [[Romance|romance]], _The Master
+of Ballantrae;_ it is felt more definitely, I think, in the last
+Scottish [[Romance|romance]] of _Weir of Hermiston._ In the first case,
+Stevenson said in his correspondence, in a tone that was humorous
+and healthy enough, that The Master was all he knew of The Devil.
+I do not in the least object to The Master being The Devil.
+But I do object to a subtle subconscious something, which every
+now and then seems almost to suggest that he is The Lord.
+I mean The Lord in the vague sense of a certain authority in aristocracy,
+or even in mere mastery.  Perhaps I even dimly feel that there is
+the distant thunder of The Lord in the very title of The Master.
+
+This thing, however we define it and in whatever degree we admit it,
+had advanced in several degrees when he wrote the later story.
+Perhaps it was partly the influence of Henley; who, with all his many
+generous virtues, certainly had this weakness to the point of hysteria.
+I mean the loss of the natural reaction of a man against a [[Tyrant|tyrant]].
+It sometimes takes the form of that least masculine of all vices,
+the admiration for brutality.  It has been much debated whether bullies
+are always cowards; I am content to remark that the admirers of bullies
+are always, by the very [[Nature|nature]] of things, trying to be cowards.
+If they do not always succeed, it is because they have unconscious
+virtues restraining that obscene worship:  and this was true
+even of Henley; and far truer of Stevenson.  Stevenson had always
+a training in real [[Courage|courage]]; for he fought when he was weak.
+But it cannot be denied that, by a combination of causes, his own
+revolt against spineless pessimism, the reactionary violence of Henley,
+but chiefly I think the vague Scottish tradition of a God of mere
+power and terror, he grew too familiar in his later works with
+the sort of swaggering cult of [[Fear|fear]].  I feel it in the character
+of Weir of Hermiston, or rather in the attitude of everybody else,
+including the author, towards that character.  I do not mind
+the judge exulting over the game of insulting and hanging somebody;
+for I know the judge can be baser than the man he hangs.  But I do
+mind the author exulting over it, when I know he is not base at all.
+The same fine shade of unpleasantness can be found in the last pages
+of _The Ebb-Tide._ My point might be put crudely by saying that I do not
+object to the author creating such a loathsome person as Mr. Attwater;
+but I do rather object to his creating him and not loathing him.
+It would be truer to put the point in another form; that there would
+be no objection if he loathed and admired Attwater exactly as he loathed
+and admired Huish.  In a sense he obviously did admire Huish;
+as it was the very passion of his life to admire [[Courage|courage]].
+But he did not expect anybody to look up to Huish; and there are moments
+when he seems to think it natural that people should look up to Attwater.
+This secret idolatry of what a feminine sentiment calls "strength,"
+this was the only lesion in Stevenson's perfect [[Sanity|sanity]],
+the only running sore in the normal health of his [[Soul|soul]];
+and even that had come from too violent an effort to be healthy.
+So he might, poor fellow, have started a haemorrhage by moving
+too vigorously on his pillow.
+
+For I am not blaming him for having any such evil, in the sense
+of having any excess of it.  I blame him, being what he was,
+for having even a touch of it.  But I think it is unfortunately certain
+that he did have a touch of it.  There is something almost cruel
+in thus tracing the [[Innocent|innocent]] springs of cruelty.  But, as has been
+said so often and so foolishly and so truly, Robert Louis Stevenson
+was a [[Child|child]].  It is the moral of these chapters about his nation,
+his [[City|city]] and his [[Home|home]], that he was also something more than a [[Child|child]].
+He was a lost [[Child|child]].  There was nothing to guide him in the mad
+movements and reactions of modernity; neither his nation nor
+his religion nor his irreligion were equal to the task.
+He had no chart for that gallant voyage; he was hardly to blame
+if he thought he had to choose between the savage rock of the [[Pride|pride]]
+of Scylla and the suicidal whirlpool of the [[Despair|despair]] of Charybdis.
+Only, like [[Ulysses]], for all his adventurousness, he was always trying
+to get [[Home|home]].  To vary the metaphor, his face was for ever turning
+like the sunflower towards the sun, even if it were behind a cloud;
+and perhaps after all there is nothing truer than the too familiar phrase
+from the diary of the doctor or the [[Nurse|nurse]]; that he was a sick [[Child|child]],
+who passed his life in trying to get [[Well|well]].
 
 * * * *

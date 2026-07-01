@@ -1,5 +1,5 @@
 ---
-title: "[[Romeo]] and [[Juliet]] — Act II, Scene 1 — monologue ([[Juliet|JULIET]]) [4]"
+title: "Romeo and Juliet — Act II, Scene 1 — monologue (JULIET) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/romeo-and-juliet-(shakespeare)"

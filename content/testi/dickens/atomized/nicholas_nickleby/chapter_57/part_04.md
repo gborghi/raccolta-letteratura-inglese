@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 57 (part 4)"
+title: "Nicholas Nickleby — Chapter 57 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,36 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_57/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_58/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘I thought,’ said Squeers, ‘that you didn’t bear him any particular
+good-will. But, I say, why didn’t you take some money besides?’
+
+‘Some what?’ asked Peg.
+
+‘Some money,’ roared Squeers. ‘I do believe the woman hears me, and
+wants to make me break a wessel, so that she may have the pleasure of
+nursing me. Some money, Slider, money!’
+
+‘Why, what a man you are to ask!’ cried Peg, with some contempt. ‘If I
+had taken money from [[arthur|Arthur]] Gride, he’d have scoured the whole earth to
+find me--aye, and he’d have smelt it out, and raked it up, somehow, if
+I had buried it at the [[Bottom|bottom]] of the deepest [[Well|well]] in England. No, no!
+I knew better than that. I took what I thought his [[Secrets|secrets]] were hid in:
+and them he couldn’t afford to make public, let’em be worth ever so much
+money. He’s an old dog; a sly, old, cunning, thankless dog! He first
+starved, and then tricked me; and if I could I’d kill him.’
+
+‘All right, and very laudable,’ said Squeers. ‘But, first and foremost,
+Slider, burn the box. You should never keep things as may lead to
+discovery. Always mind that. So while you pull it to pieces (which you
+can easily do, for it’s very old and rickety) and burn it in little
+bits, I’ll look over the papers and tell you what they are.’
+
+Peg, expressing her acquiescence in this arrangement, Mr. Squeers turned
+the box [[Bottom|bottom]] upwards, and tumbling the contents upon the floor, handed
+it to her; the destruction of the box being an extemporary device for
+engaging her attention, in case it should prove desirable to distract it
+from his own proceedings.
 
 ‘There!’ said Squeers; ‘you poke the pieces between the bars, and make
 up a good [[Fire|fire]], and I’ll read the while. Let me see, let me see.’ And

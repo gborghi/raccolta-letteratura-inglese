@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 4 (part 2)"
+title: "Our Mutual Friend — Chapter 8 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,112 +14,149 @@ tags:
 </nav>
 
 
-Say, cherubic parent taking the lead, in what direction do we steer
-first? With some such inquiry in his thoughts, Gruff and Glum, stricken
-by so sudden an interest that he perked his neck and looked over the
-intervening people, as if he were trying to stand on tiptoe with his two
-wooden legs, took an observation of R. W. There was no ‘first’ in the
-case, Gruff and Glum made out; the cherubic parent was bearing down and
-crowding on direct for Greenwich church, to see his relations.
+‘Perhaps,’ said Miss Jenny, holding out her doll at arm’s length, and
+critically contemplating the effect of her art with her scissors on her
+lips and her head thrown back, as if her interest lay there, and not in
+the conversation; ‘perhaps you’ll explain your meaning, young man, which
+is Greek to me.—You must have another touch of blue in your trimming,
+my dear.’ Having addressed the last remark to her fair client, Miss
+Wren proceeded to snip at some blue fragments that lay before her, among
+fragments of all colours, and to thread a needle from a skein of blue
+silk.
 
-For, Gruff and Glum, though most events acted on him simply as
-tobacco-stoppers, pressing down and condensing the quids within him,
-might be imagined to trace a family resemblance between the cherubs in
-the church architecture, and the cherub in the white waistcoat. Some
-remembrance of old Valentines, wherein a cherub, less appropriately
-attired for a proverbially uncertain climate, had been seen conducting
-[[lovers]] to the altar, might have been fancied to inflame the ardour of
-his timber toes. Be it as it might, he gave his moorings the slip, and
-followed in chase.
+‘Look here,’ said Fledgeby.—‘Are you attending?’
 
-The cherub went before, all beaming smiles; Bella and John Rokesmith
-followed; Gruff and Glum stuck to them like wax. For years, the wings
-of his mind had gone to look after the legs of his [[Body|body]]; but Bella had
-brought them back for him per steamer, and they were spread again.
+‘I am attending, sir,’ replied Miss Wren, without the slightest
+appearance of so doing. ‘Another touch of blue in your trimming, my
+dear.’
 
-He was a slow sailer on a [[Wind|wind]] of happiness, but he took a [[Cross|cross]] cut
-for the rendezvous, and pegged away as if he were scoring furiously
-at cribbage. When the [[Shadow|shadow]] of the church-porch swallowed them up,
-victorious Gruff and Glum likewise presented himself to be swallowed up.
-And by this [[Time|time]] the cherubic parent was so fearful of surprise, that,
-but for the two wooden legs on which Gruff and Glum was reassuringly
-mounted, his [[Conscience|conscience]] might have introduced, in the person of that
-pensioner, his own stately lady disguised, arrived at Greenwich in a
-car and griffins, like the spiteful Fairy at the christenings of the
-Princesses, to do something dreadful to the [[Marriage|marriage]] service. And truly
-he had a momentary reason to be pale of face, and to whisper to Bella,
-‘You don’t think that can be your Ma; do you, my dear?’ on account of
-a mysterious rustling and a stealthy movement somewhere in the remote
-neighbourhood of the organ, though it was gone directly and was heard no
-more. Albeit it was heard of afterwards, as will afterwards be read in
-this veracious register of [[Marriage|marriage]].
+‘[[Well]], look here,’ said Fledgeby, rather discouraged by the
+circumstances under which he found himself pursuing the conversation.
+‘If you’re attending—’
 
-Who taketh? I, John, and so do I, Bella. Who giveth? I, R. W. Forasmuch,
-Gruff and Glum, as John and Bella have consented together in holy
-wedlock, you may (in short) consider it done, and withdraw your two
-wooden legs from this temple. To the foregoing purport, the Minister
-speaking, as directed by the Rubric, to the People, selectly represented
-in the present instance by G. and G. above mentioned.
+(‘Light blue, my sweet young lady,’ remarked Miss Wren, in a sprightly
+tone, ‘being best suited to your fair complexion and your flaxen
+curls.’)
 
-And now, the church-porch having swallowed up [[Bella Wilfer]] for ever and
-ever, had it not in its power to relinquish that young woman, but slid
-into the happy sunlight, Mrs John Rokesmith instead. And long on the
-bright steps stood Gruff and Glum, looking after the pretty bride, with
-a narcotic consciousness of having dreamed [[A Dream|a dream]].
+‘I say, if you’re attending,’ proceeded Fledgeby, ‘it’ll pay better in
+this way. It’ll lead in a roundabout manner to your buying damage and
+waste of Pubsey and Co. at a nominal price, or even getting it for
+nothing.’
 
-After which, Bella took out from her pocket a little letter, and read it
-aloud to Pa and John; this being a true copy of the same.
+‘Aha!’ thought the dressmaker. ‘But you are not so roundabout, Little
+Eyes, that I don’t notice your answering for Pubsey and Co. after all!
+Little Eyes, Little Eyes, you’re too cunning by half.’
 
+‘And I take it for granted,’ pursued Fledgeby, ‘that to get the most of
+your materials for nothing would be [[Well|well]] worth your while, Miss Jenny?’
 
-‘DEAREST MA,
+‘You may take it for granted,’ returned the dressmaker with many knowing
+nods, ‘that it’s always [[Well|well]] worth my while to make money.’
 
-I [[Hope|hope]] you won’t be angry, but I am most happily married to Mr John
-Rokesmith, who loves me better than I can ever deserve, except by loving
-him with all my heart. I thought it best not to mention it beforehand,
-in case it should cause any little difference at [[Home|home]]. Please tell
-darling Pa. With [[Love|love]] to Lavvy,
+‘Now,’ said Fledgeby approvingly, ‘you’re answering to a sensible
+purpose. Now, you’re coming out and looking alive! So I make so free,
+Miss Jenny, as to offer the remark, that you and Judah were too thick
+together to last. You can’t come to be intimate with such a deep file
+as Judah without beginning to see a little way into him, you know,’ said
+Fledgeby with a wink.
 
-Ever dearest Ma, Your affectionate daughter, BELLA (P.S.—Rokesmith).’
+‘I must own,’ returned the dressmaker, with her eyes upon her work,
+‘that we are not good friends at present.’
 
+‘I know you’re not good friends at present,’ said Fledgeby. ‘I know all
+about it. I should like to pay off Judah, by not letting him have his
+own deep way in everything. In most things he’ll get it by hook or
+by crook, but—hang it all!—don’t let him have his own deep way in
+everything. That’s too much.’ Mr Fledgeby said this with some display of
+indignant warmth, as if he was counsel in the cause for Virtue.
 
-Then, John Rokesmith put the [[Queen|queen]]’s countenance on the letter—when had
-Her Gracious Majesty looked so benign as on that blessed morning!—and
-then Bella popped it into the post-office, and said merrily, ‘Now,
-dearest Pa, you are safe, and will never be taken alive!’
+‘How can I prevent his having his own way?’ began the dressmaker.
 
-Pa was, at first, in the stirred depths of his [[Conscience|conscience]], so far from
-sure of being safe yet, that he made out majestic matrons lurking in
-ambush among the harmless trees of Greenwich Park, and seemed to see a
-stately countenance tied up in a [[Well|well]]-known pocket-handkerchief glooming
-down at him from a [[Window|window]] of the Observatory, where the Familiars of the
-Astronomer Royal nightly outwatch the winking [[Stars|stars]]. But, the minutes
-passing on and no Mrs Wilfer in the flesh appearing, he became more
-confident, and so repaired with good heart and appetite to Mr and Mrs
-John Rokesmith’s cottage on Blackheath, where breakfast was ready.
+‘Deep way, I called it,’ said Fledgeby.
 
-A modest little cottage but a bright and a fresh, and on the snowy
-tablecloth the prettiest of little breakfasts. In waiting, too, like
-an attendant [[Summer|summer]] breeze, a fluttering young [[Damsel|damsel]], all pink and
-ribbons, blushing as if she had been married instead of Bella, and yet
-asserting the triumph of her sex over both John and Pa, in an exulting
-and exalted flurry: as who should say, ‘This is what you must all come
-to, gentlemen, when we choose to bring you to book.’ This same young
-[[Damsel|damsel]] was Bella’s serving-maid, and unto her did deliver a bunch of
-keys, commanding treasures in the way of dry-saltery, groceries, jams
-and pickles, the investigation of which made pastime after breakfast,
-when Bella declared that ‘Pa must taste everything, John dear, or it
-will never be lucky,’ and when Pa had all sorts of things poked into
-his mouth, and didn’t quite know what to do with them when they were put
-there.
+‘—His own deep way, in anything?’
 
-Then they, all three, out for a charming ride, and for a charming stroll
-among heath in bloom, and there behold the identical Gruff and Glum with
-his wooden legs horizontally disposed before him, apparently sitting
-meditating on the vicissitudes of life! To whom said Bella, in her
-light-hearted surprise: ‘Oh! How do you do again? What a dear old
-pensioner you are!’ To which Gruff and Glum responded that he see her
-married this morning, my [[Beauty]], and that if it warn’t a liberty he
-wished her ji and the fairest of fair [[Wind|wind]] and weather; further, in a
-general way requesting to know what cheer? and scrambling up on his two
-wooden legs to salute, hat in hand, [[Ship|ship]]-shape, with the gallantry of a
-man-of-warsman and a heart of oak.
+‘I’ll tell you,’ said Fledgeby. ‘I like to hear you ask it, because
+it’s looking alive. It’s what I should expect to find in one of your
+sagacious understanding. Now, candidly.’
+
+‘Eh?’ cried Miss Jenny.
+
+‘I said, now candidly,’ Mr Fledgeby explained, a little put out.
+
+‘Oh-h!’
+
+‘I should be glad to countermine him, respecting the handsome gal, your
+friend. He means something there. You may depend upon it, Judah means
+something there. He has a motive, and of course his motive is a dark
+motive. Now, whatever his motive is, it’s necessary to his motive’—Mr
+Fledgeby’s constructive powers were not equal to the avoidance of some
+tautology here—‘that it should be kept from me, what he has done with
+her. So I put it to you, who know: What HAS he done with her? I ask no
+more. And is that asking much, when you understand that it will pay?’
+
+Miss [[Jenny Wren]], who had cast her eyes upon the bench again after her
+last interruption, sat looking at it, needle in hand but not working,
+for some moments. She then briskly resumed her work, and said with a
+sidelong glance of her eyes and chin at Mr Fledgeby:
+
+‘Where d’ye live?’
+
+‘Albany, Piccadilly,’ replied Fledgeby.
+
+‘When are you at [[Home|home]]?’
+
+‘When you like.’
+
+‘Breakfast-[[Time|time]]?’ said Jenny, in her abruptest and shortest manner.
+
+‘No better [[Time|time]] in the day,’ said Fledgeby.
+
+‘I’ll look in upon you to-morrow, young man. Those two ladies,’ pointing
+to dolls, ‘have an appointment in Bond Street at ten precisely. When
+I’ve dropped ’em there, I’ll drive round to you.’ With a weird little
+laugh, Miss Jenny pointed to her crutch-stick as her equipage.
+
+‘This is looking alive indeed!’ cried Fledgeby, rising.
+
+‘Mark you! I promise you nothing,’ said the dolls’ dressmaker, dabbing
+two dabs at him with her needle, as if she put out both his eyes.
+
+‘No no. I understand,’ returned Fledgeby. ‘The damage and waste question
+shall be settled first. It shall be made to pay; don’t you be afraid.
+Good-day, Miss Jenny.’
+
+‘Good-day, young man.’
+
+Mr Fledgeby’s prepossessing form withdrew itself; and the little
+dressmaker, clipping and snipping and stitching, and stitching and
+snipping and clipping, fell to work at a great rate; musing and
+muttering all the [[Time|time]].
+
+‘Misty, misty, misty. Can’t make it out. Little Eyes and the wolf in a
+conspiracy? Or Little Eyes and the wolf against one another? Can’t make
+it out. My poor Lizzie, have they both designs against you, either way?
+Can’t make it out. Is Little Eyes Pubsey, and the wolf Co? Can’t make it
+out. Pubsey true to Co, and Co to Pubsey? Pubsey false to Co, and Co to
+Pubsey? Can’t make it out. What said Little Eyes? “Now, candidly?”
+ Ah! However the cat jumps, HE’S a liar. That’s all I can make out at
+present; but you may go to bed in the Albany, Piccadilly, with THAT for
+your pillow, young man!’ Thereupon, the little dressmaker again dabbed
+out his eyes separately, and making a loop in the air of her thread and
+deftly catching it into a knot with her needle, seemed to bowstring him
+into the bargain.
+
+For the terrors undergone by Mr Dolls that evening when his little
+parent sat profoundly meditating over her work, and when he imagined
+himself found out, as often as she changed her attitude, or turned her
+eyes towards him, there is no adequate name. Moreover it was her habit
+to shake her head at that wretched old boy whenever she caught his eye
+as he shivered and shook. What are popularly called ‘the trembles’ being
+in full force upon him that evening, and likewise what are popularly
+called ‘the horrors,’ he had a very bad [[Time|time]] of it; which was not
+made better by his being so remorseful as frequently to moan ‘Sixty
+threepennorths.’ This imperfect sentence not being at all intelligible
+as a confession, but sounding like a Gargantuan order for a dram,
+brought him into new difficulties by occasioning his parent to pounce
+at him in a more than usually snappish manner, and to overwhelm him with
+bitter reproaches.

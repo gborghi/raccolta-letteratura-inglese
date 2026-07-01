@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 36 (part 4)"
+title: "Shirley — Chapter 36 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -12,6 +12,58 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_36/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_36/part_05">part 05 ›</a></div>
 </nav>
+
+
+herself upon you to spare your scruples.'
+
+
+
+"'Only show me where.'
+
+
+
+"'Any stout widow that has had a few husbands already, and can manage
+
+these things.'
+
+
+
+"'She must not be rich, then. Oh these riches!'
+
+
+
+"'Never would you have gathered the produce of the gold-bearing [[Garden|garden]].
+
+You have not [[Courage|courage]] to confront the sleepless dragon; you have not
+
+craft to borrow the aid of Atlas.'
+
+
+
+"'You look hot and haughty.'
+
+
+
+"'And you far haughtier. Yours is the monstrous [[Pride|pride]] which counterfeits
+
+[[Humility|humility]].'
+
+
+
+"'I am a dependant; I know my place.'
+
+
+
+"'I am a woman; I know mine.'
+
+
+
+"'I am poor; I must be proud.'
+
+
+
+"'I have received ordinances, and own obligations stringent as yours.'
+
 
 
 "We had reached a critical point now, and we halted and looked at each
@@ -239,27 +291,3 @@ friendless young [[Orphan|orphan]] girl, when you find her.'
 
 
 "'Oh could I find her such as I image her! Something to tame first, and
-
-teach afterwards; to break in, and then to fondle. To lift the destitute
-
-proud thing out of [[Poverty|poverty]]; to establish power over and then to be
-
-indulgent to the capricious moods that never were influenced and never
-
-indulged before; to see her alternately irritated and subdued about
-
-twelve times in the twenty-four hours; and perhaps, eventually, when her
-
-training was accomplished, to behold her the exemplary and patient
-
-mother of about a dozen children, only now and then lending little Louis
-
-a cordial cuff by way of paying the interest of the vast debt she owes
-
-his father. Oh' (I went on), 'my [[Orphan|orphan]] girl would give me many a kiss;
-
-she would watch on the threshold for my coming [[Home|home]] of an evening; she
-
-would run into my arms; she would keep my hearth as bright as she would
-
-make it warm. God bless the sweet idea! Find her I must.'

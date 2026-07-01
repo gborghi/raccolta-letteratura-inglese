@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 34: THIRTY FOUR (part 4)"
+title: "Martin Chuzzlewit — Chapter 34: THIRTY FOUR (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,26 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_34_thirty_four/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_34_thirty_four/part_05">part 05 ›</a></div>
 </nav>
 
+
+‘Mr Pogram! Sir! A handful of your fellow-citizens, sir, hearing of your
+arrival at the National Hotel, and feeling the patriotic character of
+your public services, wish, sir, to have the gratification of beholding
+you, and mixing with you, sir; and unbending with you, sir, in those
+moments which--’
+
+‘Air,’ suggested Buffum.
+
+‘Which air so peculiarly the lot, sir, of our great and happy country.’
+
+‘Hear!’ cried Colonel Grouper, in a loud voice. ‘Good! Hear him! Good!’
+
+‘And therefore, sir,’ pursued the Doctor, ‘they request; as A mark Of
+their respect; the [[Honour|honour]] of your company at a little le-Vee, sir, in
+the ladies’ ordinary, at eight o’[[Clock|clock]].’
+
+Mr Pogram bowed, and said:
+
+‘Fellow countrymen!’
 
 ‘Good!’ cried the Colonel. ‘Hear, him! Good!’
 
@@ -114,20 +134,3 @@ They now enlarged on certain questions of tariff, commercial treaty,
 boundary, importation and exportation with great effect. And Mrs Hominy
 not only talked, as the saying is, like a book, but actually did talk
 her own books, word for word.
-
-‘My! what is this!’ cried Mrs Hominy, opening a little note which was
-handed her by her excited gentleman-usher. ‘Do tell! oh, [[Well|well]], now! on’y
-think!’
-
-And then she read aloud, as follows:
-
-‘Two literary ladies present their compliments to the mother of the
-modern Gracchi, and claim her kind introduction, as their talented
-countrywoman, to the honourable (and distinguished) Elijah Pogram, whom
-the two L. L.’s have often contemplated in the speaking marble of the
-[[Soul|soul]]-subduing Chiggle. On a verbal intimation from the mother of the M.
-G., that she will comply with the request of the two L. L.’s, they will
-have the immediate pleasure of joining the galaxy assembled to do [[Honour|honour]]
-to the patriotic conduct of a Pogram. It may be another bond of [[Union|union]]
-between the two L. L.’s and the mother of the M. G. to observe, that the
-two L. L.’s are Transcendental.’

@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 79 (part 1)"
+title: "Barnaby Rudge — Chapter 79 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/barnaby-rudge-(dickens)">Barnaby Rudge</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_77/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_79/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_78/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_79/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -139,11 +139,3 @@ lay, the father she had lost.’
 the [[Memory|memory]] of others, but I have loved you all my life. Never was father
 kinder to his [[Child|child]] than you have been to me, without the interval of
 one harsh hour, since I can first remember.’
-
-‘You speak too fondly,’ he answered, ‘and yet I cannot wish you were
-less partial; for I have a pleasure in hearing those words, and shall
-have in calling them to mind when we are far asunder, which nothing else
-could give me. Bear with me for a moment longer, Edward, for she and I
-have been together many years; and although I believe that in resigning
-her to you I put the seal upon her future happiness, I find it needs an
-effort.’

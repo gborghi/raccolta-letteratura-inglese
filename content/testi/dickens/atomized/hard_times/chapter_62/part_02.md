@@ -1,5 +1,5 @@
 ---
-title: "Hard Times — Chapter 7 (part 2)"
+title: "Hard Times — Chapter 9 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/hard-times-(dickens)"
@@ -14,133 +14,108 @@ tags:
 </nav>
 
 
-‘Harthouse, you have a couple of horses down here.  Bring half a dozen
-more if you like, and we’ll find room for ’em.  There’s stabling in this
-place for a dozen horses; and unless Nickits is belied, he kept the full
-number.  A round dozen of ’em, sir.  When that man was a boy, he went to
-Westminster School.  Went to Westminster School as a [[King]]’s Scholar, when
-I was principally living on garbage, and sleeping in market baskets.
-Why, if I wanted to keep a dozen horses—which I don’t, for one’s enough
-for me—I couldn’t bear to see ’em in their stalls here, and think what my
-own lodging used to be.  I couldn’t look at ’em, sir, and not order ’em
-out.  Yet so things come round.  You see this place; you know what sort
-of a place it is; you are aware that there’s not a completer place of its
-size in this kingdom or elsewhere—I don’t care where—and here, got into
-the middle of it, like a maggot into a nut, is [[Josiah Bounderby]].  While
-Nickits (as a man came into my office, and told me yesterday), Nickits,
-who used to act in Latin, in the Westminster School plays, with the
-chief-justices and nobility of this country applauding him till they were
-black in the face, is drivelling at this minute—drivelling, sir!—in a
-fifth floor, up a narrow dark back street in Antwerp.’
+‘Don’t say that, sir,’ returned Mrs. Sparsit, almost with severity,
+‘because that is very unkind to Mrs. Bounderby.  And to be unkind is not
+to be you, sir.’
 
-It was among the leafy shadows of this retirement, in the long sultry
-[[Summer|summer]] days, that Mr. Harthouse began to prove the face which had set him
-wondering when he first saw it, and to try if it would change for him.
+‘You may set your mind at rest, ma’am.—You can take it very quietly,
+can’t you, Loo?’ said Mr. Bounderby, in a blustering way to his wife.
 
-‘Mrs. Bounderby, I esteem it a most fortunate accident that I find you
-[[Alone|alone]] here.  I have for some [[Time|time]] had a particular wish to speak to you.’
+‘Of course.  It is of no moment.  Why should it be of any importance to
+me?’
 
-It was not by any wonderful accident that he found her, the [[Time|time]] of day
-being that at which she was always [[Alone|alone]], and the place being her
-favourite resort.  It was an opening in a dark wood, where some felled
-trees lay, and where she would sit watching the fallen [[Leaves|leaves]] of last
-year, as she had watched the falling ashes at [[Home|home]].
+‘Why should it be of any importance to any one, Mrs. Sparsit, ma’am?’
+said Mr. Bounderby, swelling with a sense of slight.  ‘You attach too
+much importance to these things, ma’am.  By George, you’ll be corrupted
+in some of your notions here.  You are old-fashioned, ma’am.  You are
+behind [[Tom Gradgrind]]’s children’s [[Time|time]].’
 
-He sat down beside her, with a glance at her face.
+‘What is the matter with you?’ asked Louisa, coldly surprised.  ‘What has
+given you offence?’
 
-‘Your brother.  My young friend Tom—’
+‘Offence!’ repeated Bounderby.  ‘Do you suppose if there was any offence
+given me, I shouldn’t name it, and request to have it corrected?  I am a
+straightforward man, I believe.  I don’t go beating about for
+side-winds.’
 
-Her colour brightened, and she turned to him with a look of interest.  ‘I
-never in my life,’ he thought, ‘saw anything so remarkable and so
-captivating as the lighting of those features!’  His face betrayed his
-thoughts—perhaps without betraying him, for it might have been according
-to its instructions so to do.
+‘I suppose no one ever had occasion to think you too diffident, or too
+delicate,’ Louisa answered him composedly: ‘I have never made that
+objection to you, either as a [[Child|child]] or as a woman.  I don’t understand
+what you would have.’
 
-‘Pardon me.  The expression of your sisterly interest is so beautiful—Tom
-should be so proud of it—I know this is inexcusable, but I am so
-compelled to admire.’
+‘Have?’ returned Mr. Bounderby.  ‘Nothing.  Otherwise, don’t you, Loo
+Bounderby, know thoroughly [[Well|well]] that I, [[Josiah Bounderby]] of Coketown,
+would have it?’
 
-‘Being so impulsive,’ she said composedly.
+She looked at him, as he struck the table and made the teacups ring, with
+a proud colour in her face that was a new change, Mr. Harthouse thought.
+‘You are incomprehensible this morning,’ said Louisa.  ‘Pray take no
+further trouble to explain yourself.  I am not curious to know your
+meaning.  What does it matter?’
 
-‘Mrs. Bounderby, no: you know I make no pretence with you.  You know I am
-a sordid piece of human [[Nature|nature]], ready to sell myself at any [[Time|time]] for any
-reasonable sum, and altogether incapable of any Arcadian proceeding
-whatever.’
+Nothing more was said on this theme, and Mr. Harthouse was soon idly gay
+on indifferent subjects.  But from this day, the Sparsit action upon Mr.
+Bounderby threw Louisa and [[James Harthouse]] more together, and
+strengthened the dangerous [[Alienation|alienation]] from her husband and confidence
+against him with another, into which she had fallen by degrees so fine
+that she could not retrace them if she tried.  But whether she ever tried
+or no, lay hidden in her own closed heart.
 
-‘I am waiting,’ she returned, ‘for your further reference to my brother.’
+Mrs. Sparsit was so much affected on this particular occasion, that,
+assisting Mr. Bounderby to his hat after breakfast, and being then [[Alone|alone]]
+with him in the hall, she imprinted a chaste kiss upon his hand, murmured
+‘My benefactor!’ and retired, overwhelmed with grief.  Yet it is an
+indubitable fact, within the cognizance of this [[history]], that five
+minutes after he had left the [[house]] in the [[Self|self]]-same hat, the same
+descendant of the Scadgerses and connexion by matrimony of the Powlers,
+shook her right-hand mitten at his portrait, made a contemptuous grimace
+at that work of art, and said ‘Serve you right, you Noodle, and I am glad
+of it.’
 
-‘You are rigid with me, and I deserve it.  I am as worthless a dog as you
-will find, except that I am not false—not false.  But you surprised and
-started me from my subject, which was your brother.  I have an interest
-in him.’
+Mr. Bounderby had not been long gone, when Bitzer appeared.  Bitzer had
+come down by train, shrieking and rattling over the long line of arches
+that bestrode the wild country of past and present coal-pits, with an
+express from Stone Lodge.  It was a hasty note to inform Louisa that Mrs.
+Gradgrind lay very ill.  She had never been [[Well|well]] within her daughter’s
+knowledge; but, she had declined within the last few days, had continued
+sinking all through the [[Night|night]], and was now as nearly dead, as her limited
+capacity of being in any state that implied the [[Ghost|ghost]] of an intention to
+get out of it, allowed.
 
-‘Have you an interest in anything, Mr. Harthouse?’ she asked, half
-incredulously and half gratefully.
+Accompanied by the lightest of porters, fit colourless servitor at
+[[Death]]’s door when Mrs. Gradgrind knocked, Louisa rumbled to Coketown,
+over the coal-pits past and present, and was whirled into its smoky jaws.
+She dismissed the messenger to his own devices, and rode away to her old
+[[Home|home]].
 
-‘If you had asked me when I first came here, I should have said no.  I
-must say now—even at the hazard of appearing to make a pretence, and of
-justly awakening your [[Incredulity|incredulity]]—yes.’
+She had seldom been there since her [[Marriage|marriage]].  Her father was usually
+sifting and sifting at his parliamentary cinder-heap in [[London]] (without
+being observed to turn up many precious articles among the rubbish), and
+was still hard at it in the national [[Dust|dust]]-yard.  Her mother had taken it
+rather as a disturbance than otherwise, to be visited, as she reclined
+upon her sofa; young people, Louisa felt herself all unfit for; Sissy she
+had never softened to again, since the [[Night|night]] when the stroller’s [[Child|child]]
+had raised her eyes to look at Mr. Bounderby’s intended wife.  She had no
+inducements to go back, and had rarely gone.
 
-She made a slight movement, as if she were trying to speak, but could not
-find voice; at length she said, ‘Mr. Harthouse, I give you credit for
-being interested in my brother.’
-
-‘Thank you.  I claim to deserve it.  You know how little I do claim, but
-I will go that length.  You have done so much for him, you are so fond of
-him; your whole life, Mrs. Bounderby, expresses such charming
-[[Self|self]]-forgetfulness on his account—pardon me again—I am running wide of
-the subject.  I am interested in him for his own sake.’
-
-She had made the slightest action possible, as if she would have risen in
-a hurry and gone away.  He had turned the course of what he said at that
-instant, and she remained.
-
-‘Mrs. Bounderby,’ he resumed, in a lighter manner, and yet with a show of
-effort in assuming it, which was even more expressive than the manner he
-dismissed; ‘it is no irrevocable offence in a young fellow of your
-brother’s years, if he is heedless, inconsiderate, and expensive—a little
-dissipated, in the common phrase.  Is he?’
-
-‘Yes.’
-
-‘Allow me to be frank.  Do you think he games at all?’
-
-‘I think he makes bets.’  Mr. Harthouse waiting, as if that were not her
-whole answer, she added, ‘I know he does.’
-
-‘Of course he loses?’
-
-‘Yes.’
-
-‘Everybody does lose who bets.  May I hint at the probability of your
-sometimes supplying him with money for these purposes?’
-
-She sat, looking down; but, at this question, raised her eyes searchingly
-and a little resentfully.
-
-‘Acquit me of impertinent curiosity, my dear Mrs. Bounderby.  I think Tom
-may be gradually falling into trouble, and I wish to stretch out a
-helping hand to him from the depths of my wicked experience.—Shall I say
-again, for his sake?  Is that necessary?’
-
-She seemed to try to answer, but nothing came of it.
-
-‘Candidly to confess everything that has occurred to me,’ said James
-Harthouse, again gliding with the same appearance of effort into his more
-airy manner; ‘I will confide to you my [[Doubt|doubt]] whether he has had many
-advantages.  Whether—forgive my plainness—whether any great amount of
-confidence is likely to have been established between himself and his
-most worthy father.’
-
-‘I do not,’ said Louisa, flushing with her own great remembrance in that
-wise, ‘think it likely.’
-
-‘Or, between himself, and—I may trust to your perfect understanding of my
-meaning, I am sure—and his highly esteemed brother-in-law.’
-
-She flushed deeper and deeper, and was burning red when she replied in a
-fainter voice, ‘I do not think that likely, either.’
-
-‘Mrs. Bounderby,’ said Harthouse, after a short [[Silence|silence]], ‘may there be a
-better confidence between yourself and me?  Tom has borrowed a
-considerable sum of you?’
+Neither, as she approached her old [[Home|home]] now, did any of the best
+influences of old [[Home|home]] descend upon her.  The [[Dreams|dreams]] of [[Childhood|childhood]]—its
+airy fables; its graceful, beautiful, humane, impossible adornments of
+the world beyond: so good to be believed in once, so good to be
+remembered when outgrown, for then the least among them rises to the
+stature of a great [[Charity]] in the heart, [[Suffering|suffering]] little children to
+come into the midst of it, and to keep with their pure hands a [[Garden|garden]] in
+the stony ways of this world, wherein it were better for all the children
+of Adam that they should oftener sun themselves, simple and trustful, and
+not worldly-wise—what had she to do with these?  Remembrances of how she
+had journeyed to the little that she knew, by the enchanted roads of what
+she and millions of [[Innocent|innocent]] creatures had hoped and imagined; of how,
+first coming upon Reason through the tender light of Fancy, she had seen
+it a beneficent god, deferring to gods as great as itself; not a grim
+Idol, cruel and cold, with its victims bound hand to foot, and its big
+dumb shape set up with a sightless stare, never to be moved by anything
+but so many calculated tons of leverage—what had she to do with these?
+Her remembrances of [[Home|home]] and [[Childhood|childhood]] were remembrances of the drying up
+of every [[spring]] and fountain in her young heart as it gushed out.  The
+golden waters were not there.  They were flowing for the fertilization of
+the land where grapes are gathered from thorns, and figs from thistles.

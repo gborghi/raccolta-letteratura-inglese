@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 34 (part 3)"
+title: "Bleak House — Chapter 34 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -144,6 +144,3 @@ Grandfather Smallweed smiles in a very ugly way in recognition of the
 letter.
 
 “What does it mean?” asks Mr. George.
-
-“Judy,” says the old man. “Have you got the pipe? Give it to me. Did
-you say what does it mean, my good friend?”

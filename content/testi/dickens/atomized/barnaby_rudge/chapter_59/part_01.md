@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 59 (part 1)"
+title: "Barnaby Rudge — Chapter 59 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -132,7 +132,3 @@ the back.
 ‘Now then,’ he cried, ‘I’m ready. There are brave [[Birds|birds]] inside this
 cage, eh? Delicate [[Birds|birds]],--tender, loving, little doves. I caged ‘em--I
 caged ‘em--one more peep!’
-
-He thrust the little man aside as he spoke, and mounting on the steps,
-which were half let down, pulled down the blind by force, and stared
-into the chaise like an ogre into his larder.

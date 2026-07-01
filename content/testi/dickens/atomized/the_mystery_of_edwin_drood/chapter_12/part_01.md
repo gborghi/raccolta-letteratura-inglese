@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 11 (part 1)"
+title: "The Mystery of Edwin Drood — Chapter 11 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -120,7 +120,3 @@ person with tangled locks, and a general air of having been reared
 under the [[Shadow|shadow]] of that baleful tree of Java which has given shelter
 to more lies than the whole botanical kingdom, Mr. Grewgious,
 nevertheless, treated him with unaccountable consideration.
-
-“Now, Bazzard,” said Mr. Grewgious, on the entrance of his clerk:
-looking up from his papers as he arranged them for the [[Night|night]]: “what is
-in the [[Wind|wind]] besides fog?”

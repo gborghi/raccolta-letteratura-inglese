@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 14 (part 1)"
+title: "The Professor — Chapter 14 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -16,8 +16,6 @@ tags:
 
 CHAPTER XIV.
 
-
-
 IF I was punctual in quitting Mdlle. Reuter’s domicile, I was at least
 
 equally punctual in arriving there; I came the next day at five minutes
@@ -30,7 +28,7 @@ heard a rapid, gabbling sound, which warned me that the “priere du midi”
 
 been impious to intrude my heretical presence during its progress. How
 
-the repeater of the [[Prayer|prayer]] did cackle and splutter! I never before or
+the repeater of the [[prayer]] did cackle and splutter! I never before or
 
 since heard language enounced with such steam-engine haste. “Notre Pere
 
@@ -48,7 +46,7 @@ that in entering with aplomb, and mounting the estrade with emphasis,
 
 consisted the grand secret of ensuring immediate [[Silence|silence]]. The
 
-folding-doors between the two classes, opened for the [[Prayer|prayer]], were
+folding-doors between the two classes, opened for the [[prayer]], were
 
 instantly closed; a maitresse, work-box in hand, took her seat at her
 
@@ -89,8 +87,6 @@ give me credit for, let them take into consideration the following
 circumstances, which, while detracting from my merit, justify my
 
 veracity.
-
-
 
 Know, O incredulous reader! that a master stands in a somewhat different
 
@@ -164,8 +160,6 @@ admire too fondly the seemly forms and bright colours exposed to general
 
 view.
 
-
-
 Our likings are regulated by our circumstances. The [[artist]] prefers a
 
 hilly country because it is picturesque; the engineer a flat one because
@@ -187,9 +181,3 @@ are the charms that attract his notice and win his regard. These he
 seeks, but seldom meets; these, if by chance he finds, he would fain
 
 retain for ever, and when separation deprives him of them he feels as if
-
-some ruthless hand had snatched from him his only ewe-[[Lamb|lamb]]. Such being
-
-the case, and the case it is, my readers will agree with me that there
-
-was nothing either very meritorious or very marvellous in the

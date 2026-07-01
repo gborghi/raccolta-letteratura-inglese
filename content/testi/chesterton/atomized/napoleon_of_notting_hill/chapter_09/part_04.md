@@ -1,5 +1,5 @@
 ---
-title: "Napoleon of Notting [[Hill]] — Chapter 1 (part 4)"
+title: "Napoleon of Notting Hill — Chapter 3 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/napoleon-of-notting-hill-(chesterton)"
@@ -14,118 +14,123 @@ tags:
 </nav>
 
 
-"Anything out of the shop, sir?"
+It took about an hour to erect in Holland Lane the monarch's
+simple repast, during which [[Time|time]] he walked up and down and whistled,
+but still with an unaffected air of gloom.  He had really been done
+out of a pleasure he had promised himself, and had that empty and
+sickened feeling which a [[Child|child]] has when disappointed of a pantomime.
+When he and the equerry had sat down, however, and consumed a fair
+amount of dry champagne, his spirits began mildly to revive.
 
-Wayne looked round in a dazed way.  Seeing a pile of tins of
-pine-apple chunks, he waved his stick generally towards them.
+"Things take too long in this world," he said.  "I detest all this
+Barkerian business about evolution and the gradual modification
+of things.  I wish the world had been made in six days,
+and knocked to pieces again in six more.  And I wish I had done it.
+The joke's good enough in a broad way, sun and [[Moon|moon]] and the image
+of God and all that, but they keep it up so damnably long.
+Did you ever long for a miracle, Bowler?"
 
-"Yes," he said, "I'll take those."
+"No, sir," said Bowler, who was an evolutionist, and had been
+carefully brought up.
 
-"All those, sir?" said the [[grocer]], with greatly increased interest.
+"Then I have," answered the [[King]].  "I have walked along a street
+with the best cigar in the cosmos in my mouth, and more Burgundy
+inside me than you ever saw in your life, and longed that the
+lamp-post would turn into an elephant to save me from the hell
+of blank existence.  Take my word for it, my evolutionary Bowler,
+don't you believe people when they tell you that people sought
+for a sign, and believed in miracles because they were ignorant.
+They did it because they were wise, filthily, vilely wise...too
+wise to eat or [[Sleep|sleep]] or put on their boots with patience.
+This seems delightfully like a new theory of the origin
+of [[Christianity]], which would itself be a thing of no mean absurdity.
+Take some more wine."
 
-"Yes, yes; all those," replied Wayne, still a little bewildered,
-like a man splashed with cold [[Water|water]].
+The [[Wind|wind]] blew round them as they sat at their little table,
+with its white cloth and bright wine-cups, and flung the tree-tops
+of Holland Park against each other, but the sun was in that strong
+temper which turns green into gold.  The [[King]] pushed away his plate,
+lit a cigar slowly, and went on:
 
-"Very good, sir; thank you, sir," said the [[grocer]] with animation.
-"You may count upon my patriotism, sir."
+"Yesterday I thought that something next door to a really entertaining
+miracle might happen to me before I went to amuse the worms.
+To see that red-haired maniac waving a great [[Sword|sword]] and making speeches
+to his incomparable followers, would have been a glimpse of that Land
+of Youth from which the Fates shut us out.  I had planned some quite
+delightful things.  A Congress of Knightsbridge with a treaty,
+and myself in the chair, and perhaps a Roman triumph, with jolly
+old Barker led in [[Chains|chains]].  And now these wretched prigs have gone
+and stamped out the exquisite Mr. Wayne altogether, and I suppose they
+will put him in a private asylum somewhere in their damned humane way.
+Think of the treasures daily poured out to his unappreciative keeper!
+I [[Wonder|wonder]] whether they would let me be his keeper.  But life is a vale.
+Never forget at any moment of your existence to regard it in the light
+of a vale.  This graceful habit, if not acquired in youth..."
 
-"I count upon it already," said Wayne, and passed out into
-the gathering [[Night|night]].
+The [[King]] stopped, with his cigar lifted, for there had
+slid into his eyes the startled look of a man listening.
+He did not move for a few moments; then he turned his head
+sharply towards the high, thin, and lath-like paling which
+fenced certain long gardens and similar spaces from the lane.
+From behind it there was coming a curious scrambling and scraping noise,
+as of a desperate thing imprisoned in this box of thin wood.
+The [[King]] threw away his cigar and jumped on to the table.
+From this position he saw a pair of hands hanging with a hungry
+clutch on the top of the fence.  Then the hands quivered with a
+convulsive effort, and a head shot up between them...the head of one
+of the Bayswater Town Council, his eyes and whiskers wild with [[Fear|fear]].
+He swung himself over, and fell on the other side on his face,
+and groaned openly and without ceasing.  The next moment the thin,
+taut wood of the fence was struck as by a bullet, so that it reverberated
+like a drum, and over it came tearing and cursing, with torn clothes
+and broken nails and bleeding faces, twenty men at one rush.
+The [[King]] sprang five feet clear off the table on to the ground.
+The moment after the table was flung over, sending bottles and
+glasses flying, and the debris was literally swept along the ground
+by that stream of men pouring past, arid Bowler was borne along
+with them, as the [[King]] said in his famous newspaper article,
+"like a captured bride."  The great fence swung and split
+under the load of climbers that still scaled and cleared it.
+Tremendous gaps were torn in it by this living artillery; and through
+them the [[King]] could see more and more frantic faces, as in [[A Dream|a dream]],
+and more and more men running.  They were as miscellaneous as if some
+one had taken the lid off a human dustbin.  Some were untouched,
+some were slashed and battered and bloody, some were splendidly dressed,
+some tattered and half-naked, some were in the fantastic garb
+of the burlesque cities, some in the dullest modern dress.
+The [[King]] stared at all of them, but none of them looked at the [[King]].
+Suddenly he stepped forward.
 
-The [[grocer]] put the box of dates back in its place.
+"Barker," he said, "what is all this?"
 
-"What a nice fellow he is," he said.  "It's odd how often they are nice.
-Much nicer than those as are all right."
+"Beaten," said the politician "beaten all to hell!"  And he plunged
+past with nostrils shaking like a [[Horse|horse]]'s, and more and more men
+plunged after him.
 
-Meanwhile [[Adam Wayne]] stood outside the glowing chemist's shop,
-unmistakably wavering.
+Almost as he spoke, the last standing strip of fence bowed
+and snapped, flinging, as from a catapult, a new figure upon the [[Road|road]].
+He wore the flaming red of the halberdiers of Notting [[Hill]],
+and on his weapon there was [[Blood|blood]], and in his face victory.
+In another moment masses of red glowed through the gaps of the fence,
+and the pursuers, with their halberds, came pouring down the lane.
+Pursued and pursuers alike swept by the little figure with the
+owlish eyes, who had not taken his hands out of his pockets.
 
-"What a weakness it is," he muttered.  "I have never got
-rid of it from [[Childhood|childhood]].  The [[Fear|fear]] of this [[Magic|magic]] shop.
-The [[grocer]] is rich, he is romantic, he is poetical in the truest sense,
-but he is not...no, he is not [[Supernatural|supernatural]].  But the chemist!
-All the other shops stand in Notting [[Hill]], but this stands
-in Elf-land. Look at those great burning bowls of colour.
-It must be from them that God paints the sunsets.  It is superhuman,
-and the superhuman is all the more [[Uncanny|uncanny]] when it is beneficent.
-That is the root of the [[Fear|fear]] of God.  I am afraid.  But I must
-be a man and enter."
+The [[King]] had still little beyond the confused sense of a man
+caught in a torrent...the feeling of men eddying by.
+Then something happened which he was never able afterwards to describe,
+and which we cannot describe for him.  Suddenly in the dark entrance,
+between the broken gates of a [[Garden|garden]], there appeared framed
+a flaming figure.
 
-He was a man, and entered.  A short, dark young man was behind
-the counter with spectacles, and greeted him with a bright but
-entirely business-like smile.
-
-"A fine evening, sir," he said.
-
-"Fine, indeed, strange Father," said Adam, stretching his hands
-somewhat forward.  "It is on such clear and mellow nights that your
-shop is most itself.  Then they appear most perfect, those moons
-of green and gold and crimson, which from afar, oft guide the [[Pilgrim|pilgrim]]
-of [[Pain|pain]] and sickness to this [[house]] of merciful witchcraft."
-
-"Can I get you anything?" asked the chemist.
-
-"Let me see," said Wayne, in a friendly but vague manner.
-"Let me have some sal-volatile."
-
-"Eightpence, tenpence, or one and sixpence a bottle?"
-said the young man genially.
-
-"One and six...one and six," replied Wayne, with a wild submissiveness.
-"I come to ask you, Mr. Bowles, a terrible question."
-
-He paused and collected himself.
-
-"It is necessary," he muttered "it is necessary to be tactful,
-and to suit the appeal to each profession in turn."
-
-"I come," he resumed aloud, "to ask you a question which goes to the roots
-of your miraculous toils.  Mr. Bowles, shall all this witchery cease?"
-And he waved his stick around the shop.
-
-Meeting with no answer, he continued with animation:
-
-"In Notting [[Hill]] we have felt to its core the elfish mystery
-of your profession.  And now Notting [[Hill]] itself is threatened."
-
-"Anything more, sir?" asked the chemist.
-
-"Oh," said Wayne, somewhat disturbed, "oh, what is it chemists sell?
-Quinine, I think.  Thank you.  Shall it be destroyed?
-I have met these men of Bayswater and North Kensington...Mr. Bowles,
-they are materialists.  They see no witchery in your work,
-even when it is brought within their own borders.  They think
-the chemist is commonplace.  They think him human."
-
-The chemist appeared to pause, only a moment, to take in the insult,
-and immediately said:
-
-"And the next article, please?"
-
-"Alum," said the Provost, wildly.  "I resume.  It is in this sacred town
-[[Alone|alone]] that your priesthood is reverenced.  Therefore, when you fight
-for us you fight not only for yourself, but for everything you typify.
-You fight not only for Notting [[Hill]], but for Fairyland, for as surely
-as Buck and Barker and such men hold sway, the sense of Fairyland
-in some strange manner diminishes."
-
-"Anything more, sir?" asked Mr. Bowles, with unbroken cheerfulness.
-
-"Oh yes, jujubes...Gregory powder...magnesia. The danger is imminent.
-In all this matter I have felt that I fought not merely for my own [[City|city]]
-(though to that I owe all my [[Blood|blood]]), but for all places in which
-these great ideas could prevail.  I am fighting not merely for
-Notting [[Hill]], but for Bayswater itself; for North Kensington itself.
-For if the gold-hunters prevail, these also will lose all their
-ancient sentiments and all the mystery of their national [[Soul|soul]].
-I know I can count upon you."
-
-"Oh yes, sir," said the chemist, with great animation, "we are always
-glad to oblige a good customer."
-
-[[Adam Wayne]] went out of the shop with a deep sense of fulfilment of [[Soul|soul]].
-
-"It is so fortunate," he said, "to have tact, to be able to play
-upon the peculiar talents and specialities, the cosmopolitanism
-of the [[grocer]] and the world-old necromancy of the chemist.
-Where should I be without tact?"
+[[Adam Wayne]], the conqueror, with his face flung back, and his mane
+like a [[Lion|lion]]'s, stood with his great [[Sword|sword]] point upwards, the red raiment
+of his office flapping round him like the red wings of an archangel.
+And the [[King]] saw, he knew not how, something new and overwhelming.
+The great green trees and the great red robes swung together in the [[Wind|wind]].
+The [[Sword|sword]] seemed made for the sunlight.  The preposterous masquerade,
+born of his own mockery, towered over him and embraced the world.
+This was the normal, this was [[Sanity|sanity]], this was [[Nature|nature]]; and he himself,
+with his rationality and his detachment and his black frock-coat,
+he was the exception and the accident...a blot of black upon a world
+of crimson and gold.

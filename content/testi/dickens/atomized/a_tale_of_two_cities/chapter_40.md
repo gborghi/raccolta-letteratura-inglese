@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities — Chapter 8"
+title: "A Tale of Two Cities — Chapter 10"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/a-tale-of-two-cities-(dickens)"
@@ -14,561 +14,629 @@ tags:
 </nav>
 
 
-CHAPTER VIII.
-A Hand at Cards
-
-
-Happily unconscious of the new calamity at [[Home|home]], [[Miss Pross]] threaded her
-way along the narrow streets and crossed the [[River|river]] by the bridge of the
-Pont-Neuf, reckoning in her mind the number of indispensable purchases
-she had to make. Mr. Cruncher, with the basket, walked at her side. They
-both looked to the right and to the left into most of the shops they
-passed, had a wary eye for all gregarious assemblages of people, and
-turned out of their [[Road|road]] to avoid any very excited group of talkers. It
-was a raw evening, and the misty [[River|river]], blurred to the eye with blazing
-lights and to the ear with harsh noises, showed where the barges were
-stationed in which the smiths worked, making guns for the Army of the
-Republic. Woe to the man who played tricks with _that_ Army, or got
-undeserved promotion in it! Better for him that his beard had never
-grown, for the National Razor shaved him close.
-
-Having purchased a few small articles of grocery, and a measure of oil
-for the lamp, [[Miss Pross]] bethought herself of the wine they wanted.
-After peeping into several wine-shops, she stopped at the sign of the
-Good Republican [[Brutus]] of Antiquity, not far from the National Palace,
-once (and twice) the Tuileries, where the aspect of things rather
-took her fancy. It had a quieter look than any other place of the same
-description they had passed, and, though red with patriotic caps, was
-not so red as the rest. Sounding Mr. Cruncher, and finding him of her
-opinion, [[Miss Pross]] resorted to the Good Republican [[Brutus]] of Antiquity,
-attended by her cavalier.
-
-Slightly observant of the smoky lights; of the people, pipe in mouth,
-playing with limp cards and yellow dominoes; of the one bare-breasted,
-bare-armed, soot-begrimed workman reading a journal aloud, and of
-the others listening to him; of the weapons worn, or laid aside to be
-resumed; of the two or three customers fallen forward asleep, who in the
-popular high-shouldered shaggy black spencer looked, in that attitude,
-like slumbering bears or [[dogs]]; the two outlandish customers approached
-the counter, and showed what they wanted.
-
-As their wine was measuring out, a man parted from another man in a
-corner, and [[Rose|rose]] to depart. In going, he had to face [[Miss Pross]]. No
-sooner did he face her, than [[Miss Pross]] uttered a scream, and clapped
-her hands.
-
-In a moment, the whole company were on their feet. That somebody was
-assassinated by somebody vindicating a difference of opinion was the
-likeliest occurrence. Everybody looked to see somebody fall, but only
-saw a man and a woman standing staring at each other; the man with all
-the outward aspect of a Frenchman and a thorough Republican; the woman,
-evidently English.
-
-What was said in this disappointing anti-climax, by the disciples of the
-Good Republican [[Brutus]] of Antiquity, except that it was something very
-voluble and loud, would have been as so much Hebrew or Chaldean to Miss
-Pross and her protector, though they had been all ears. But, they had no
-ears for anything in their surprise. For, it must be recorded, that
-not only was [[Miss Pross]] lost in amazement and agitation, but,
-Mr. Cruncher--though it seemed on his own separate and individual
-account--was in a state of the greatest [[Wonder|wonder]].
-
-“What is the matter?” said the man who had caused [[Miss Pross]] to scream;
-speaking in a vexed, abrupt voice (though in a low tone), and in
-English.
-
-“Oh, Solomon, dear Solomon!” cried [[Miss Pross]], clapping her hands again.
-“After not setting eyes upon you or hearing of you for so long a [[Time|time]],
-do I find you here!”
-
-“Don’t call me Solomon. Do you want to be the [[Death|death]] of me?” asked the
-man, in a furtive, frightened way.
-
-“Brother, brother!” cried [[Miss Pross]], bursting into [[Tears|tears]]. “Have I ever
-been so hard with you that you ask me such a cruel question?”
-
-“Then hold your meddlesome tongue,” said Solomon, “and come out, if you
-want to speak to me. Pay for your wine, and come out. Who’s this man?”
-
-[[Miss Pross]], shaking her loving and dejected head at her by no means
-affectionate brother, said through her [[Tears|tears]], “Mr. Cruncher.”
-
-“Let him come out too,” said Solomon. “Does he think me a [[Ghost|ghost]]?”
-
-Apparently, Mr. Cruncher did, to judge from his looks. He said not a
-word, however, and [[Miss Pross]], exploring the depths of her reticule
-through her [[Tears|tears]] with great difficulty paid for her wine. As she did
-so, Solomon turned to the followers of the Good Republican [[Brutus]]
-of Antiquity, and offered a few words of explanation in the French
-language, which caused them all to relapse into their former places and
-pursuits.
-
-“Now,” said Solomon, stopping at the dark street corner, “what do you
-want?”
-
-“How dreadfully unkind in a brother nothing has ever turned my [[Love|love]] away
-from!” cried [[Miss Pross]], “to give me such a greeting, and show me no
-affection.”
-
-“There. Confound it! There,” said Solomon, making a dab at [[Miss Pross]]’s
-lips with his own. “Now are you content?”
-
-[[Miss Pross]] only shook her head and wept in [[Silence|silence]].
-
-“If you expect me to be surprised,” said her brother Solomon, “I am not
-surprised; I knew you were here; I know of most people who are here. If
-you really don’t want to endanger my existence--which I half believe you
-do--go your ways as soon as possible, and let me go mine. I am busy. I
-am an official.”
-
-“My English brother Solomon,” mourned [[Miss Pross]], casting up her
-tear-fraught eyes, “that had the makings in him of one of the best and
-greatest of men in his native country, an official among foreigners, and
-such foreigners! I would almost sooner have seen the dear boy lying in
-his--”
-
-“I said so!” cried her brother, interrupting. “I knew it. You want to be
-the [[Death|death]] of me. I shall be rendered Suspected, by my own sister. Just
-as I am getting on!”
-
-“The gracious and merciful Heavens forbid!” cried [[Miss Pross]]. “Far
-rather would I never see you again, dear Solomon, though I have ever
-loved you truly, and ever shall. Say but one affectionate word to me,
-and tell me there is nothing angry or estranged between us, and I will
-detain you no longer.”
-
-Good [[Miss Pross]]! As if the estrangement between them had come of any
-culpability of hers. As if Mr. Lorry had not known it for a fact, years
-ago, in the quiet corner in Soho, that this precious brother had spent
-her money and left her!
-
-He was saying the affectionate word, however, with a far more grudging
-condescension and patronage than he could have shown if their relative
-merits and positions had been reversed (which is invariably the case,
-all the world over), when Mr. Cruncher, touching him on the shoulder,
-hoarsely and unexpectedly interposed with the following singular
-question:
-
-“I say! Might I ask the favour? As to whether your name is John Solomon,
-or Solomon John?”
-
-The official turned towards him with sudden distrust. He had not
-previously uttered a word.
-
-“Come!” said Mr. Cruncher. “Speak out, you know.” (Which, by the way,
-was more than he could do himself.) “John Solomon, or Solomon John? She
-calls you Solomon, and she must know, being your sister. And _I_ know
-you’re John, you know. Which of the two goes first? And regarding that
-name of Pross, likewise. That warn’t your name over the [[Water|water]].”
-
-“What do you mean?”
-
-“[[Well]], I don’t know all I mean, for I can’t call to mind what your name
-was, over the [[Water|water]].”
-
-“No?”
-
-“No. But I’ll swear it was a name of two syllables.”
-
-“Indeed?”
-
-“Yes. T’other one’s was one syllable. I know you. You was a spy--witness
-at the Bailey. What, in the name of the Father of Lies, own father to
-yourself, was you called at that [[Time|time]]?”
-
-“Barsad,” said another voice, striking in.
-
-“That’s the name for a thousand pound!” cried Jerry.
-
-The speaker who struck in, was [[Sydney Carton]]. He had his hands behind
-him under the skirts of his riding-coat, and he stood at Mr. Cruncher’s
-elbow as negligently as he might have stood at the Old Bailey itself.
-
-“Don’t be alarmed, my dear [[Miss Pross]]. I arrived at Mr. Lorry’s, to his
-surprise, yesterday evening; we agreed that I would not present myself
-elsewhere until all was [[Well|well]], or unless I could be useful; I present
-myself here, to beg a little talk with your brother. I wish you had a
-better employed brother than Mr. Barsad. I wish for your sake Mr. Barsad
-was not a Sheep of the Prisons.”
-
-Sheep was a cant word of the [[Time|time]] for a spy, under the gaolers. The spy,
-who was pale, turned paler, and asked him how he dared--
-
-“I’ll tell you,” said Sydney. “I lighted on you, Mr. Barsad, coming out
-of the [[Prison|prison]] of the Conciergerie while I was contemplating the walls,
-an hour or more ago. You have a face to be remembered, and I remember
-faces [[Well|well]]. Made curious by seeing you in that connection, and having
-a reason, to which you are no stranger, for associating you with
-the misfortunes of a friend now very unfortunate, I walked in your
-direction. I walked into the wine-shop here, close after you, and
-sat near you. I had no difficulty in deducing from your unreserved
-conversation, and the rumour openly going about among your admirers, the
-[[Nature|nature]] of your calling. And gradually, what I had done at random, seemed
-to shape itself into a purpose, Mr. Barsad.”
-
-“What purpose?” the spy asked.
-
-“It would be troublesome, and might be dangerous, to explain in the
-street. Could you favour me, in confidence, with some minutes of your
-company--at the office of Tellson’s Bank, for instance?”
-
-“Under a threat?”
-
-“Oh! Did I say that?”
-
-“Then, why should I go there?”
-
-“Really, Mr. Barsad, I can’t say, if you can’t.”
-
-“Do you mean that you won’t say, sir?” the spy irresolutely asked.
-
-“You apprehend me very clearly, Mr. Barsad. I won’t.”
-
-Carton’s negligent recklessness of manner came powerfully in aid of his
-quickness and skill, in such a business as he had in his secret mind,
-and with such a man as he had to do with. His practised eye saw it, and
-made the most of it.
-
-“Now, I told you so,” said the spy, casting a reproachful look at his
-sister; “if any trouble comes of this, it’s your doing.”
-
-“Come, come, Mr. Barsad!” exclaimed Sydney. “Don’t be ungrateful.
-But for my great respect for your sister, I might not have led up so
-pleasantly to a little proposal that I wish to make for our mutual
-satisfaction. Do you go with me to the Bank?”
-
-“I’ll hear what you have got to say. Yes, I’ll go with you.”
-
-“I propose that we first conduct your sister safely to the corner of her
-own street. Let me take your arm, [[Miss Pross]]. This is not a good [[City|city]],
-at this [[Time|time]], for you to be out in, unprotected; and as your escort
-knows Mr. Barsad, I will invite him to Mr. Lorry’s with us. Are we
-ready? Come then!”
-
-[[Miss Pross]] recalled soon afterwards, and to the end of her life
-remembered, that as she pressed her hands on Sydney’s arm and looked up
-in his face, imploring him to do no hurt to Solomon, there was a braced
-purpose in the arm and a kind of inspiration in the eyes, which not only
-contradicted his light manner, but changed and raised the man. She was
-too much occupied then with fears for the brother who so little deserved
-her affection, and with Sydney’s friendly reassurances, adequately to
-heed what she observed.
-
-They left her at the corner of the street, and Carton led the way to Mr.
-Lorry’s, which was within a few minutes’ walk. John Barsad, or Solomon
-Pross, walked at his side.
-
-Mr. Lorry had just finished his dinner, and was sitting before a cheery
-little log or two of [[Fire|fire]]--perhaps looking into their blaze for the
-picture of that younger elderly gentleman from Tellson’s, who had looked
-into the red coals at the Royal George at Dover, now a good many years
-ago. He turned his head as they entered, and showed the surprise with
-which he saw a stranger.
-
-“[[Miss Pross]]’s brother, sir,” said Sydney. “Mr. Barsad.”
-
-“Barsad?” repeated the old gentleman, “Barsad? I have an association
-with the name--and with the face.”
-
-“I told you you had a remarkable face, Mr. Barsad,” observed Carton,
-coolly. “Pray sit down.”
-
-As he took a chair himself, he supplied the link that Mr. Lorry wanted,
-by saying to him with a frown, “Witness at that trial.” Mr. Lorry
-immediately remembered, and regarded his new visitor with an undisguised
-look of abhorrence.
-
-“Mr. Barsad has been recognised by [[Miss Pross]] as the affectionate
-brother you have heard of,” said Sydney, “and has acknowledged the
-relationship. I pass to worse news. Darnay has been arrested again.”
-
-Struck with consternation, the old gentleman exclaimed, “What do you
-tell me! I left him safe and free within these two hours, and am about
-to return to him!”
-
-“Arrested for all that. When was it done, Mr. Barsad?”
-
-“Just now, if at all.”
-
-“Mr. Barsad is the best authority possible, sir,” said Sydney, “and I
-have it from Mr. Barsad’s communication to a friend and brother Sheep
-over a bottle of wine, that the arrest has taken place. He left the
-messengers at the gate, and saw them admitted by the porter. There is no
-earthly [[Doubt|doubt]] that he is retaken.”
-
-Mr. Lorry’s business eye read in the speaker’s face that it was loss
-of [[Time|time]] to dwell upon the point. Confused, but sensible that something
-might depend on his presence of mind, he commanded himself, and was
-silently attentive.
-
-“Now, I trust,” said Sydney to him, “that the name and influence of
-[[Doctor Manette]] may stand him in as good stead to-morrow--you said he
-would be before the Tribunal again to-morrow, Mr. Barsad?--”
-
-“Yes; I believe so.”
-
-“--In as good stead to-morrow as to-day. But it may not be so. I own
-to you, I am shaken, Mr. Lorry, by [[Doctor Manette]]’s not having had the
-power to prevent this arrest.”
-
-“He may not have known of it beforehand,” said Mr. Lorry.
-
-“But that very circumstance would be alarming, when we remember how
-identified he is with his son-in-law.”
-
-“That’s true,” Mr. Lorry acknowledged, with his troubled hand at his
-chin, and his troubled eyes on Carton.
-
-“In short,” said Sydney, “this is a desperate [[Time|time]], when desperate games
-are played for desperate stakes. Let the Doctor play the winning game; I
-will play the losing one. No man’s life here is worth purchase. Any one
-carried [[Home|home]] by the people to-day, may be condemned tomorrow. Now, the
-stake I have resolved to play for, in case of the worst, is a friend
-in the Conciergerie. And the friend I purpose to myself to win, is Mr.
-Barsad.”
-
-“You need have good cards, sir,” said the spy.
-
-“I’ll run them over. I’ll see what I hold,--Mr. Lorry, you know what a
-brute I am; I wish you’d give me a little brandy.”
-
-It was put before him, and he drank off a glassful--drank off another
-glassful--pushed the bottle thoughtfully away.
-
-“Mr. Barsad,” he went on, in the tone of one who really was looking
-over a hand at cards: “Sheep of the prisons, emissary of Republican
-committees, now turnkey, now prisoner, always spy and secret informer,
-so much the more valuable here for being English that an Englishman
-is less open to suspicion of subornation in those characters than a
-Frenchman, represents himself to his employers under a false name.
-That’s a very good card. Mr. Barsad, now in the employ of the republican
-French [[government]], was formerly in the employ of the aristocratic
-English [[government]], the enemy of France and [[Freedom|freedom]]. That’s an excellent
-card. Inference clear as day in this region of suspicion, that Mr.
-Barsad, still in the pay of the aristocratic English [[government]], is the
-spy of Pitt, the treacherous foe of the Republic crouching in its bosom,
-the English traitor and agent of all mischief so much spoken of and so
-difficult to find. That’s a card not to be beaten. Have you followed my
-hand, Mr. Barsad?”
-
-“Not to understand your play,” returned the spy, somewhat uneasily.
-
-“I play my Ace, Denunciation of Mr. Barsad to the nearest Section
-Committee. Look over your hand, Mr. Barsad, and see what you have. Don’t
-hurry.”
-
-He drew the bottle near, poured out another glassful of brandy, and
-drank it off. He saw that the spy was fearful of his drinking himself
-into a fit state for the immediate denunciation of him. Seeing it, he
-poured out and drank another glassful.
-
-“Look over your hand carefully, Mr. Barsad. Take [[Time|time]].”
-
-It was a poorer hand than he suspected. Mr. Barsad saw losing cards
-in it that [[Sydney Carton]] knew nothing of. Thrown out of his honourable
-employment in England, through too much unsuccessful hard swearing
-there--not because he was not wanted there; our English reasons for
-vaunting our superiority to secrecy and spies are of very modern
-date--he knew that he had crossed the Channel, and accepted service in
-France: first, as a tempter and an eavesdropper among his own countrymen
-there: gradually, as a tempter and an eavesdropper among the natives. He
-knew that under the overthrown [[government]] he had been a spy upon Saint
-Antoine and Defarge’s wine-shop; had received from the watchful police
-such heads of information concerning [[Doctor Manette]]’s [[Imprisonment|imprisonment]],
-release, and [[history]], as should serve him for an introduction to
-familiar conversation with the Defarges; and tried them on Madame
-Defarge, and had broken down with them signally. He always remembered
-with [[Fear|fear]] and trembling, that that terrible woman had knitted when he
-talked with her, and had looked ominously at him as her fingers moved.
-He had since seen her, in the Section of Saint Antoine, over and over
-again produce her knitted registers, and denounce people whose lives the
-guillotine then surely swallowed up. He knew, as every one employed as
-he was did, that he was never safe; that flight was impossible; that
-he was tied fast under the [[Shadow|shadow]] of the axe; and that in spite of
-his utmost tergiversation and treachery in furtherance of the reigning
-terror, a word might bring it down upon him. Once denounced, and on such
-[[Grave|grave]] grounds as had just now been suggested to his mind, he foresaw
-that the dreadful woman of whose unrelenting character he had seen many
-proofs, would produce against him that fatal register, and would quash
-his last chance of life. Besides that all secret men are men soon
-terrified, here were surely cards enough of one black suit, to justify
-the holder in growing rather livid as he turned them over.
-
-“You scarcely seem to like your hand,” said Sydney, with the greatest
-composure. “Do you play?”
-
-“I think, sir,” said the spy, in the meanest manner, as he turned to Mr.
-Lorry, “I may appeal to a gentleman of your years and benevolence, to
-put it to this other gentleman, so much your junior, whether he can
-under any circumstances reconcile it to his station to play that Ace
-of which he has spoken. I admit that _I_ am a spy, and that it is
-considered a discreditable station--though it must be filled by
-somebody; but this gentleman is no spy, and why should he so demean
-himself as to make himself one?”
-
-“I play my Ace, Mr. Barsad,” said Carton, taking the answer on himself,
-and looking at his watch, “without any scruple, in a very few minutes.”
-
-“I should have hoped, gentlemen both,” said the spy, always striving to
-hook Mr. Lorry into the discussion, “that your respect for my sister--”
-
-“I could not better testify my respect for your sister than by finally
-relieving her of her brother,” said [[Sydney Carton]].
-
-“You think not, sir?”
-
-“I have thoroughly made up my mind about it.”
-
-The smooth manner of the spy, curiously in dissonance with his
-ostentatiously rough dress, and probably with his usual demeanour,
-received such a check from the inscrutability of Carton,--who was a
-mystery to wiser and honester men than he,--that it faltered here and
-failed him. While he was at a loss, Carton said, resuming his former air
-of contemplating cards:
-
-“And indeed, now I think again, I have a strong impression that I
-have another good card here, not yet enumerated. That friend and
-fellow-Sheep, who spoke of himself as pasturing in the country prisons;
-who was he?”
-
-“French. You don’t know him,” said the spy, quickly.
-
-“French, eh?” repeated Carton, musing, and not appearing to notice him
-at all, though he echoed his word. “[[Well]]; he may be.”
-
-“Is, I assure you,” said the spy; “though it’s not important.”
-
-“Though it’s not important,” repeated Carton, in the same mechanical
-way--“though it’s not important--No, it’s not important. No. Yet I know
-the face.”
-
-“I think not. I am sure not. It can’t be,” said the spy.
-
-“It-can’t-be,” muttered [[Sydney Carton]], retrospectively, and idling his
-glass (which fortunately was a small one) again. “Can’t-be. Spoke good
-French. Yet like a foreigner, I thought?”
-
-“Provincial,” said the spy.
-
-“No. Foreign!” cried Carton, striking his open hand on the table, as a
-light broke clearly on his mind. “Cly! Disguised, but the same man. We
-had that man before us at the Old Bailey.”
-
-“Now, there you are hasty, sir,” said Barsad, with a smile that gave his
-aquiline nose an extra inclination to one side; “there you really give
-me an advantage over you. Cly (who I will unreservedly admit, at this
-distance of [[Time|time]], was a partner of mine) has been dead several years. I
-attended him in his last illness. He was buried in [[London]], at the church
-of Saint Pancras-in-the-Fields. His unpopularity with the blackguard
-multitude at the moment prevented my following his remains, but I helped
-to lay him in his coffin.”
-
-Here, Mr. Lorry became aware, from where he sat, of a most remarkable
-goblin [[Shadow|shadow]] on the wall. Tracing it to its source, he discovered it
-to be caused by a sudden extraordinary rising and stiffening of all the
-risen and stiff hair on Mr. Cruncher’s head.
-
-“Let us be reasonable,” said the spy, “and let us be fair. To show you
-how mistaken you are, and what an unfounded assumption yours is, I will
-lay before you a certificate of Cly’s burial, which I happened to have
-carried in my pocket-book,” with a hurried hand he produced and opened
-it, “ever since. There it is. Oh, look at it, look at it! You may take
-it in your hand; it’s no forgery.”
-
-Here, Mr. Lorry perceived the reflection on the wall to elongate, and
-Mr. Cruncher [[Rose|rose]] and stepped forward. His hair could not have been more
-violently on end, if it had been that moment dressed by the Cow with the
-crumpled horn in the [[house]] that Jack built.
-
-Unseen by the spy, Mr. Cruncher stood at his side, and touched him on
-the shoulder like a ghostly bailiff.
-
-“That there Roger Cly, master,” said Mr. Cruncher, with a taciturn and
-iron-bound visage. “So _you_ put him in his coffin?”
-
-“I did.”
-
-“Who took him out of it?”
-
-Barsad leaned back in his chair, and stammered, “What do you mean?”
-
-“I mean,” said Mr. Cruncher, “that he warn’t never in it. No! Not he!
-I’ll have my head took off, if he was ever in it.”
-
-The spy looked round at the two gentlemen; they both looked in
-unspeakable astonishment at Jerry.
-
-“I tell you,” said Jerry, “that you buried paving-stones and earth in
-that there coffin. Don’t go and tell me that you buried Cly. It was a
-take in. Me and two more knows it.”
-
-“How do you know it?”
-
-“What’s that to you? Ecod!” growled Mr. Cruncher, “it’s you I have got a
-old grudge again, is it, with your shameful impositions upon tradesmen!
-I’d catch hold of your throat and choke you for half a guinea.”
-
-[[Sydney Carton]], who, with Mr. Lorry, had been lost in amazement at
-this turn of the business, here requested Mr. Cruncher to moderate and
-explain himself.
-
-“At another [[Time|time]], sir,” he returned, evasively, “the present [[Time|time]] is
-ill-conwenient for explainin’. What I stand to, is, that he knows [[Well|well]]
-wot that there Cly was never in that there coffin. Let him say he was,
-in so much as a word of one syllable, and I’ll either catch hold of his
-throat and choke him for half a guinea;” Mr. Cruncher dwelt upon this as
-quite a liberal offer; “or I’ll out and announce him.”
-
-“Humph! I see one thing,” said Carton. “I hold another card, Mr. Barsad.
-Impossible, here in raging [[Paris]], with Suspicion filling the air, for
-you to outlive denunciation, when you are in communication with another
-aristocratic spy of the same antecedents as yourself, who, moreover, has
-the mystery about him of having feigned [[Death|death]] and come to life again!
-A plot in the prisons, of the foreigner against the Republic. A strong
-card--a certain Guillotine card! Do you play?”
-
-“No!” returned the spy. “I throw up. I confess that we were so unpopular
-with the outrageous mob, that I only got away from England at the risk
-of being ducked to [[Death|death]], and that Cly was so ferreted up and down, that
-he never would have got away at all but for that sham. Though how this
-man knows it was a sham, is a [[Wonder|wonder]] of wonders to me.”
-
-“Never you trouble your head about this man,” retorted the contentious
-Mr. Cruncher; “you’ll have trouble enough with giving your attention to
-that gentleman. And look here! Once more!”--Mr. Cruncher could not
-be restrained from making rather an ostentatious parade of his
-liberality--“I’d catch hold of your throat and choke you for half a
-guinea.”
-
-The Sheep of the prisons turned from him to [[Sydney Carton]], and said,
-with more decision, “It has come to a point. I go on duty soon, and
-can’t overstay my [[Time|time]]. You told me you had a proposal; what is it?
-Now, it is of no use asking too much of me. Ask me to do anything in my
-office, putting my head in great extra danger, and I had better trust my
-life to the chances of a refusal than the chances of consent. In short,
-I should make that choice. You talk of desperation. We are all desperate
-here. Remember! I may denounce you if I think proper, and I can swear my
-way through stone walls, and so can others. Now, what do you want with
-me?”
-
-“Not very much. You are a turnkey at the Conciergerie?”
-
-“I tell you once for all, there is no such thing as an escape possible,”
- said the spy, firmly.
-
-“Why need you tell me what I have not asked? You are a turnkey at the
-Conciergerie?”
-
-“I am sometimes.”
-
-“You can be when you choose?”
-
-“I can pass in and out when I choose.”
-
-[[Sydney Carton]] filled another glass with brandy, poured it slowly out
-upon the hearth, and watched it as it dropped. It being all spent, he
-said, rising:
-
-“So far, we have spoken before these two, because it was as [[Well|well]] that
-the merits of the cards should not rest solely between you and me. Come
-into the dark room here, and let us have one final word [[Alone|alone]].”
+CHAPTER X.
+The Substance of the [[Shadow]]
+
+
+“I, Alexandre Manette, unfortunate physician, native of Beauvais, and
+afterwards resident in [[Paris]], write this [[Melancholy|melancholy]] paper in my doleful
+cell in the Bastille, during the last month of the year, 1767. I write
+it at stolen intervals, under every difficulty. I design to secrete it
+in the wall of the chimney, where I have slowly and laboriously made a
+place of concealment for it. Some pitying hand may find it there, when I
+and my sorrows are [[Dust|dust]].
+
+“These words are formed by the rusty iron point with which I write with
+difficulty in scrapings of soot and charcoal from the chimney, mixed
+with [[Blood|blood]], in the last month of the tenth year of my captivity. [[Hope]]
+has quite departed from my breast. I know from terrible warnings I have
+noted in myself that my reason will not long remain unimpaired, but I
+solemnly declare that I am at this [[Time|time]] in the possession of my right
+mind--that my [[Memory|memory]] is exact and circumstantial--and that I write the
+[[Truth|truth]] as I shall answer for these my last recorded words, whether they
+be ever read by men or not, at the Eternal Judgment-seat.
+
+“One cloudy moonlight [[Night|night]], in the third week of December (I think the
+twenty-second of the month) in the year 1757, I was walking on a retired
+part of the quay by the Seine for the refreshment of the frosty air,
+at an hour’s distance from my place of residence in the Street of the
+School of Medicine, when a carriage came along behind me, driven very
+fast. As I stood aside to let that carriage pass, apprehensive that it
+might otherwise run me down, a head was put out at the [[Window|window]], and a
+voice called to the driver to stop.
+
+“The carriage stopped as soon as the driver could rein in his horses,
+and the same voice called to me by my name. I answered. The carriage
+was then so far in advance of me that two gentlemen had [[Time|time]] to open the
+door and alight before I came up with it.
+
+“I observed that they were both wrapped in cloaks, and appeared to
+conceal themselves. As they stood side by side near the carriage door,
+I also observed that they both looked of about my own age, or rather
+younger, and that they were greatly alike, in stature, manner, voice,
+and (as far as I could see) face too.
+
+“‘You are [[Doctor Manette]]?’ said one.
+
+“I am.”
+
+“‘[[Doctor Manette]], formerly of Beauvais,’ said the other; ‘the young
+physician, originally an expert surgeon, who within the last year or two
+has made a rising reputation in [[Paris]]?’
+
+“‘Gentlemen,’ I returned, ‘I am that [[Doctor Manette]] of whom you speak so
+graciously.’
+
+“‘We have been to your residence,’ said the first, ‘and not being
+so fortunate as to find you there, and being informed that you were
+probably walking in this direction, we followed, in the [[Hope|hope]] of
+overtaking you. Will you please to enter the carriage?’
+
+“The manner of both was imperious, and they both moved, as these words
+were spoken, so as to place me between themselves and the carriage door.
+They were armed. I was not.
+
+“‘Gentlemen,’ said I, ‘pardon me; but I usually inquire who does me
+the [[Honour|honour]] to seek my assistance, and what is the [[Nature|nature]] of the case to
+which I am summoned.’
+
+“The reply to this was made by him who had spoken second. ‘Doctor,
+your clients are people of condition. As to the [[Nature|nature]] of the case,
+our confidence in your skill assures us that you will ascertain it for
+yourself better than we can describe it. Enough. Will you please to
+enter the carriage?’
+
+“I could do nothing but comply, and I entered it in [[Silence|silence]]. They both
+entered after me--the last springing in, after putting up the steps. The
+carriage turned about, and drove on at its former [[Speed|speed]].
+
+“I repeat this conversation exactly as it occurred. I have no [[Doubt|doubt]] that
+it is, word for word, the same. I describe everything exactly as it took
+place, constraining my mind not to wander from the task. Where I make
+the broken marks that follow here, I leave off for the [[Time|time]], and put my
+paper in its hiding-place.
+
+        *****
+
+“The carriage left the streets behind, passed the North Barrier, and
+emerged upon the country [[Road|road]]. At two-thirds of a league from the
+Barrier--I did not estimate the distance at that [[Time|time]], but afterwards
+when I traversed it--it struck out of the main avenue, and presently
+stopped at a solitary [[house]], We all three alighted, and walked, by
+a damp soft footpath in a [[Garden|garden]] where a neglected fountain had
+overflowed, to the door of the [[house]]. It was not opened immediately, in
+answer to the ringing of the bell, and one of my two conductors struck
+the man who opened it, with his heavy riding glove, across the face.
+
+“There was nothing in this action to attract my particular attention,
+for I had seen common people struck more commonly than [[dogs]]. But, the
+other of the two, being angry likewise, struck the man in like manner
+with his arm; the look and bearing of the brothers were then so exactly
+alike, that I then first perceived them to be twin brothers.
+
+“From the [[Time|time]] of our alighting at the outer gate (which we found
+locked, and which one of the brothers had opened to admit us, and had
+relocked), I had heard cries proceeding from an upper chamber. I was
+conducted to this chamber straight, the cries growing louder as we
+ascended the stairs, and I found a patient in a high fever of the brain,
+lying on a bed.
+
+“The patient was a woman of great [[Beauty|beauty]], and young; assuredly not much
+past twenty. Her hair was torn and ragged, and her arms were bound to
+her sides with sashes and handkerchiefs. I noticed that these bonds were
+all portions of a gentleman’s dress. On one of them, which was a fringed
+scarf for a dress of ceremony, I saw the armorial bearings of a Noble,
+and the letter E.
+
+“I saw this, within the first minute of my contemplation of the patient;
+for, in her restless strivings she had turned over on her face on the
+edge of the bed, had drawn the end of the scarf into her mouth, and was
+in danger of suffocation. My first act was to put out my hand to relieve
+her breathing; and in moving the scarf aside, the embroidery in the
+corner caught my sight.
+
+“I turned her gently over, placed my hands upon her breast to calm her
+and keep her down, and looked into her face. Her eyes were dilated and
+wild, and she constantly uttered piercing shrieks, and repeated the
+words, ‘My husband, my father, and my brother!’ and then counted up to
+twelve, and said, ‘Hush!’ For an instant, and no more, she would pause
+to listen, and then the piercing shrieks would begin again, and she
+would repeat the cry, ‘My husband, my father, and my brother!’ and
+would count up to twelve, and say, ‘Hush!’ There was no variation in the
+order, or the manner. There was no cessation, but the regular moment’s
+pause, in the utterance of these sounds.
+
+“‘How long,’ I asked, ‘has this lasted?’
+
+“To distinguish the brothers, I will call them the elder and the
+younger; by the elder, I mean him who exercised the most authority. It
+was the elder who replied, ‘Since about this hour last [[Night|night]].’
+
+“‘She has a husband, a father, and a brother?’
+
+“‘A brother.’
+
+“‘I do not address her brother?’
+
+“He answered with great contempt, ‘No.’
+
+“‘She has some recent association with the number twelve?’
+
+“The younger brother impatiently rejoined, ‘With twelve o’[[Clock|clock]]?’
+
+“‘See, gentlemen,’ said I, still keeping my hands upon her breast, ‘how
+useless I am, as you have brought me! If I had known what I was coming
+to see, I could have come provided. As it is, [[Time|time]] must be lost. There
+are no medicines to be obtained in this lonely place.’
+
+“The elder brother looked to the younger, who said haughtily, ‘There is
+a case of medicines here;’ and brought it from a closet, and put it on
+the table.
+
+        *****
+
+“I opened some of the bottles, smelt them, and put the stoppers to my
+lips. If I had wanted to use anything save narcotic medicines that were
+poisons in themselves, I would not have administered any of those.
+
+“‘Do you [[Doubt|doubt]] them?’ asked the younger brother.
+
+“‘You see, monsieur, I am going to use them,’ I replied, and said no
+more.
+
+“I made the patient [[Swallow|swallow]], with great difficulty, and after many
+efforts, the dose that I desired to give. As I intended to repeat it
+after a while, and as it was necessary to watch its influence, I then
+sat down by the side of the bed. There was a timid and suppressed woman
+in attendance (wife of the man down-stairs), who had retreated into
+a corner. The [[house]] was damp and decayed, indifferently
+furnished--evidently, recently occupied and temporarily used. Some thick
+old hangings had been nailed up before the windows, to deaden the
+sound of the shrieks. They continued to be uttered in their regular
+succession, with the cry, ‘My husband, my father, and my brother!’ the
+counting up to twelve, and ‘Hush!’ The frenzy was so violent, that I had
+not unfastened the bandages restraining the arms; but, I had looked to
+them, to see that they were not painful. The only spark of encouragement
+in the case, was, that my hand upon the sufferer’s breast had this much
+soothing influence, that for minutes at a [[Time|time]] it tranquillised the
+figure. It had no effect upon the cries; no pendulum could be more
+regular.
+
+“For the reason that my hand had this effect (I assume), I had sat by
+the side of the bed for half an hour, with the two brothers looking on,
+before the elder said:
+
+“‘There is another patient.’
+
+“I was startled, and asked, ‘Is it a pressing case?’
+
+“‘You had better see,’ he carelessly answered; and took up a light.
+
+        *****
+
+“The other patient lay in a back room across a second staircase, which
+was a species of loft over a stable. There was a low plastered ceiling
+to a part of it; the rest was open, to the ridge of the tiled roof, and
+there were beams across. Hay and straw were stored in that portion of
+the place, fagots for firing, and a heap of apples in sand. I had to
+pass through that part, to get at the other. My [[Memory|memory]] is circumstantial
+and unshaken. I try it with these details, and I see them all, in
+this my cell in the Bastille, near the close of the tenth year of my
+captivity, as I saw them all that [[Night|night]].
+
+“On some hay on the ground, with a cushion thrown under his head, lay a
+handsome peasant boy--a boy of not more than seventeen at the most.
+He lay on his back, with his teeth set, his right hand clenched on his
+breast, and his glaring eyes looking straight upward. I could not see
+where his wound was, as I kneeled on one knee over him; but, I could see
+that he was dying of a wound from a sharp point.
+
+“‘I am a doctor, my poor fellow,’ said I. ‘Let me examine it.’
+
+“‘I do not want it examined,’ he answered; ‘let it be.’
+
+“It was under his hand, and I soothed him to let me move his hand away.
+The wound was a [[Sword|sword]]-thrust, received from twenty to twenty-four hours
+before, but no skill could have saved him if it had been looked to
+without delay. He was then dying fast. As I turned my eyes to the elder
+brother, I saw him looking down at this handsome boy whose life was
+ebbing out, as if he were a wounded bird, or hare, or rabbit; not at all
+as if he were a fellow-creature.
+
+“‘How has this been done, monsieur?’ said I.
+
+“‘A crazed young common dog! A serf! Forced my brother to draw upon him,
+and has fallen by my brother’s [[Sword|sword]]--like a gentleman.’
+
+“There was no touch of pity, sorrow, or kindred humanity, in this
+answer. The speaker seemed to acknowledge that it was inconvenient to
+have that different order of creature dying there, and that it would
+have been better if he had died in the usual obscure routine of his
+vermin kind. He was quite incapable of any compassionate feeling about
+the boy, or about his fate.
+
+“The boy’s eyes had slowly moved to him as he had spoken, and they now
+slowly moved to me.
+
+“‘Doctor, they are very proud, these Nobles; but we common [[dogs]] are
+proud too, sometimes. They plunder us, outrage us, beat us, kill us; but
+we have a little [[Pride|pride]] left, sometimes. She--have you seen her, Doctor?’
+
+“The shrieks and the cries were audible there, though subdued by the
+distance. He referred to them, as if she were lying in our presence.
+
+“I said, ‘I have seen her.’
+
+“‘She is my sister, Doctor. They have had their shameful rights, these
+Nobles, in the modesty and virtue of our sisters, many years, but we
+have had good girls among us. I know it, and have heard my father say
+so. She was a good girl. She was betrothed to a good young man, too: a
+tenant of his. We were all tenants of his--that man’s who stands there.
+The other is his brother, the worst of a bad race.’
+
+“It was with the greatest difficulty that the boy gathered bodily force
+to speak; but, his spirit spoke with a dreadful emphasis.
+
+“‘We were so robbed by that man who stands there, as all we common [[dogs]]
+are by those superior Beings--taxed by him without [[Mercy|mercy]], obliged to
+work for him without pay, obliged to grind our corn at his mill, obliged
+to feed scores of his tame [[Birds|birds]] on our wretched crops, and forbidden
+for our lives to keep a single tame bird of our own, pillaged and
+plundered to that degree that when we chanced to have a bit of meat, we
+ate it in [[Fear|fear]], with the door barred and the shutters closed, that his
+people should not see it and take it from us--I say, we were so robbed,
+and hunted, and were made so poor, that our father told us it was a
+dreadful thing to bring a [[Child|child]] into the world, and that what we should
+most pray for, was, that our women might be barren and our miserable
+race die out!’
+
+“I had never before seen the sense of being oppressed, bursting forth
+like a [[Fire|fire]]. I had supposed that it must be latent in the people
+somewhere; but, I had never seen it break out, until I saw it in the
+dying boy.
+
+“‘Nevertheless, Doctor, my sister married. He was ailing at that [[Time|time]],
+poor fellow, and she married her [[Lover|lover]], that she might tend and comfort
+him in our cottage--our dog-hut, as that man would call it. She had not
+been married many weeks, when that man’s brother saw her and admired
+her, and asked that man to lend her to him--for what are husbands among
+us! He was willing enough, but my sister was good and virtuous, and
+hated his brother with a hatred as strong as mine. What did the two
+then, to persuade her husband to use his influence with her, to make her
+willing?’
+
+“The boy’s eyes, which had been fixed on mine, slowly turned to the
+looker-on, and I saw in the two faces that all he said was true. The two
+opposing kinds of [[Pride|pride]] confronting one another, I can see, even in this
+Bastille; the gentleman’s, all negligent indifference; the peasant’s, all
+trodden-down sentiment, and passionate [[Revenge|revenge]].
+
+“‘You know, Doctor, that it is among the Rights of these Nobles to
+harness us common [[dogs]] to carts, and drive us. They so harnessed him and
+drove him. You know that it is among their Rights to keep us in their
+grounds all [[Night|night]], quieting the frogs, in order that their noble [[Sleep|sleep]]
+may not be disturbed. They kept him out in the unwholesome mists at
+[[Night|night]], and ordered him back into his harness in the day. But he was
+not persuaded. No! Taken out of harness one day at [[Noon|noon]], to feed--if he
+could find food--he sobbed twelve times, once for every stroke of the
+bell, and died on her bosom.’
+
+“Nothing human could have held life in the boy but his determination to
+tell all his wrong. He forced back the gathering shadows of [[Death|death]], as
+he forced his clenched right hand to remain clenched, and to cover his
+wound.
+
+“‘Then, with that man’s permission and even with his aid, his
+brother took her away; in spite of what I know she must have told his
+brother--and what that is, will not be long unknown to you, Doctor, if
+it is now--his brother took her away--for his pleasure and diversion,
+for a little while. I saw her pass me on the [[Road|road]]. When I took the
+tidings [[Home|home]], our father’s heart burst; he never spoke one of the words
+that filled it. I took my young sister (for I have another) to a place
+beyond the reach of this man, and where, at least, she will never be
+_his_ vassal. Then, I tracked the brother here, and last [[Night|night]] climbed
+in--a common dog, but [[Sword|sword]] in hand.--Where is the loft [[Window|window]]? It was
+somewhere here?’
+
+“The room was darkening to his sight; the world was narrowing around
+him. I glanced about me, and saw that the hay and straw were trampled
+over the floor, as if there had been a struggle.
+
+“‘She heard me, and ran in. I told her not to come near us till he was
+dead. He came in and first tossed me some pieces of money; then struck
+at me with a whip. But I, though a common dog, so struck at him as to
+make him draw. Let him break into as many pieces as he will, the [[Sword|sword]]
+that he stained with my common [[Blood|blood]]; he drew to defend himself--thrust
+at me with all his skill for his life.’
+
+“My glance had fallen, but a few moments before, on the fragments of
+a broken [[Sword|sword]], lying among the hay. That weapon was a gentleman’s. In
+another place, lay an old [[Sword|sword]] that seemed to have been a soldier’s.
+
+“‘Now, lift me up, Doctor; lift me up. Where is he?’
+
+“‘He is not here,’ I said, supporting the boy, and thinking that he
+referred to the brother.
+
+“‘He! Proud as these nobles are, he is afraid to see me. Where is the
+man who was here? Turn my face to him.’
+
+“I did so, raising the boy’s head against my knee. But, invested for the
+moment with extraordinary power, he raised himself completely: obliging
+me to rise too, or I could not have still supported him.
+
+“‘Marquis,’ said the boy, turned to him with his eyes opened wide, and
+his right hand raised, ‘in the days when all these things are to be
+answered for, I summon you and yours, to the last of your bad race, to
+answer for them. I mark this [[Cross|cross]] of [[Blood|blood]] upon you, as a sign that
+I do it. In the days when all these things are to be answered for,
+I summon your brother, the worst of the bad race, to answer for them
+separately. I mark this [[Cross|cross]] of [[Blood|blood]] upon him, as a sign that I do
+it.’
+
+“Twice, he put his hand to the wound in his breast, and with his
+forefinger drew a [[Cross|cross]] in the air. He stood for an instant with the
+finger yet raised, and as it dropped, he dropped with it, and I laid him
+down dead.
+
+        *****
+
+“When I returned to the bedside of the young woman, I found her raving
+in precisely the same order of continuity. I knew that this might last
+for many hours, and that it would probably end in the [[Silence|silence]] of the
+[[Grave|grave]].
+
+“I repeated the medicines I had given her, and I sat at the side of
+the bed until the [[Night|night]] was far advanced. She never abated the piercing
+quality of her shrieks, never stumbled in the distinctness or the order
+of her words. They were always ‘My husband, my father, and my brother!
+One, two, three, four, five, six, seven, eight, nine, ten, eleven,
+twelve. Hush!’
+
+“This lasted twenty-six hours from the [[Time|time]] when I first saw her. I had
+come and gone twice, and was again sitting by her, when she began to
+falter. I did what little could be done to assist that opportunity, and
+by-and-bye she sank into a lethargy, and lay like the dead.
+
+“It was as if the [[Wind|wind]] and rain had lulled at last, after a long and
+fearful [[Storm|storm]]. I released her arms, and called the woman to assist me to
+compose her figure and the dress she had torn. It was then that I knew
+her condition to be that of one in whom the first expectations of being
+a mother have arisen; and it was then that I lost the little [[Hope|hope]] I had
+had of her.
+
+“‘Is she dead?’ asked the Marquis, whom I will still describe as the
+elder brother, coming booted into the room from his [[Horse|horse]].
+
+“‘Not dead,’ said I; ‘but like to die.’
+
+“‘What strength there is in these common bodies!’ he said, looking down
+at her with some curiosity.
+
+“‘There is prodigious strength,’ I answered him, ‘in sorrow and
+[[Despair|despair]].’
+
+“He first laughed at my words, and then frowned at them. He moved a
+chair with his foot near to mine, ordered the woman away, and said in a
+subdued voice,
+
+“‘Doctor, finding my brother in this difficulty with these hinds, I
+recommended that your aid should be invited. Your reputation is high,
+and, as a young man with your fortune to make, you are probably mindful
+of your interest. The things that you see here, are things to be seen,
+and not spoken of.’
+
+“I listened to the patient’s breathing, and avoided answering.
+
+“‘Do you [[Honour|honour]] me with your attention, Doctor?’
+
+“‘Monsieur,’ said I, ‘in my profession, the communications of patients
+are always received in confidence.’ I was guarded in my answer, for I
+was troubled in my mind with what I had heard and seen.
+
+“Her breathing was so difficult to trace, that I carefully tried the
+pulse and the heart. There was life, and no more. Looking round as I
+resumed my seat, I found both the brothers intent upon me.
+
+        *****
+
+“I write with so much difficulty, the cold is so severe, I am so
+fearful of being detected and consigned to an underground cell and total
+darkness, that I must abridge this narrative. There is no confusion or
+failure in my [[Memory|memory]]; it can recall, and could detail, every word that
+was ever spoken between me and those brothers.
+
+“She lingered for a week. Towards the last, I could understand some few
+syllables that she said to me, by placing my ear close to her lips. She
+asked me where she was, and I told her; who I was, and I told her. It
+was in vain that I asked her for her family name. She faintly shook her
+head upon the pillow, and kept her secret, as the boy had done.
+
+“I had no opportunity of asking her any question, until I had told the
+brothers she was sinking fast, and could not live another day. Until
+then, though no one was ever presented to her consciousness save the
+woman and myself, one or other of them had always jealously sat behind
+the curtain at the head of the bed when I was there. But when it came to
+that, they seemed careless what communication I might hold with her; as
+if--the thought passed through my mind--I were dying too.
+
+“I always observed that their [[Pride|pride]] bitterly resented the younger
+brother’s (as I call him) having crossed swords with a peasant, and that
+peasant a boy. The only consideration that appeared to affect the mind
+of either of them was the consideration that this was highly degrading
+to the family, and was ridiculous. As often as I caught the younger
+brother’s eyes, their expression reminded me that he disliked me deeply,
+for knowing what I knew from the boy. He was smoother and more polite to
+me than the elder; but I saw this. I also saw that I was an incumbrance
+in the mind of the elder, too.
+
+“My patient died, two hours before midnight--at a [[Time|time]], by my watch,
+answering almost to the minute when I had first seen her. I was [[Alone|alone]]
+with her, when her forlorn young head drooped gently on one side, and
+all her earthly wrongs and sorrows ended.
+
+“The brothers were waiting in a room down-stairs, impatient to ride
+away. I had heard them, [[Alone|alone]] at the bedside, striking their boots with
+their riding-whips, and loitering up and down.
+
+“‘At last she is dead?’ said the elder, when I went in.
+
+“‘She is dead,’ said I.
+
+“‘I congratulate you, my brother,’ were his words as he turned round.
+
+“He had before offered me money, which I had postponed taking. He now
+gave me a rouleau of gold. I took it from his hand, but laid it on
+the table. I had considered the question, and had resolved to accept
+nothing.
+
+“‘Pray excuse me,’ said I. ‘Under the circumstances, no.’
+
+“They exchanged looks, but bent their heads to me as I bent mine to
+them, and we parted without another word on either side.
+
+        *****
+
+“I am weary, weary, weary--worn down by misery. I cannot read what I
+have written with this gaunt hand.
+
+“Early in the morning, the rouleau of gold was left at my door in a
+little box, with my name on the outside. From the first, I had anxiously
+considered what I ought to do. I decided, that day, to write privately
+to the Minister, stating the [[Nature|nature]] of the two cases to which I had been
+summoned, and the place to which I had gone: in effect, stating all the
+circumstances. I knew what [[Court]] influence was, and what the immunities
+of the Nobles were, and I expected that the matter would never be
+heard of; but, I wished to relieve my own mind. I had kept the matter a
+profound secret, even from my wife; and this, too, I resolved to state
+in my letter. I had no apprehension whatever of my real danger; but
+I was conscious that there might be danger for others, if others were
+compromised by possessing the knowledge that I possessed.
+
+“I was much engaged that day, and could not complete my letter that
+[[Night|night]]. I [[Rose|rose]] long before my usual [[Time|time]] next morning to finish it.
+It was the last day of the year. The letter was lying before me just
+completed, when I was told that a lady waited, who wished to see me.
+
+        *****
+
+“I am growing more and more unequal to the task I have set myself. It is
+so cold, so dark, my senses are so benumbed, and the gloom upon me is so
+dreadful.
+
+“The lady was young, engaging, and handsome, but not marked for long
+life. She was in great agitation. She presented herself to me as the
+wife of the Marquis St. Evrémonde. I connected the title by which the
+boy had addressed the elder brother, with the initial letter embroidered
+on the scarf, and had no difficulty in arriving at the conclusion that I
+had seen that nobleman very lately.
+
+“My [[Memory|memory]] is still accurate, but I cannot write the words of our
+conversation. I suspect that I am watched more closely than I was, and I
+know not at what times I may be watched. She had in part suspected, and
+in part discovered, the main facts of the cruel story, of her husband’s
+share in it, and my being resorted to. She did not know that the girl
+was dead. Her [[Hope|hope]] had been, she said in great distress, to show her,
+in secret, a woman’s sympathy. Her [[Hope|hope]] had been to avert the wrath of
+Heaven from a [[house|House]] that had long been hateful to the [[Suffering|suffering]] many.
+
+“She had reasons for believing that there was a young sister living, and
+her greatest [[Desire|desire]] was, to help that sister. I could tell her nothing
+but that there was such a sister; beyond that, I knew nothing. Her
+inducement to come to me, relying on my confidence, had been the [[Hope|hope]]
+that I could tell her the name and place of abode. Whereas, to this
+wretched hour I am ignorant of both.
+
+        *****
+
+“These scraps of paper fail me. One was taken from me, with a warning,
+yesterday. I must finish my record to-day.
+
+“She was a good, compassionate lady, and not happy in her [[Marriage|marriage]]. How
+could she be! The brother distrusted and disliked her, and his influence
+was all opposed to her; she stood in dread of him, and in dread of her
+husband too. When I handed her down to the door, there was a [[Child|child]], a
+pretty boy from two to three years old, in her carriage.
+
+“‘For his sake, Doctor,’ she said, pointing to him in [[Tears|tears]], ‘I would do
+all I can to make what poor amends I can. He will never prosper in his
+inheritance otherwise. I have a presentiment that if no other [[Innocent|innocent]]
+atonement is made for this, it will one day be required of him. What
+I have left to call my own--it is little beyond the worth of a few
+jewels--I will make it the first charge of his life to bestow, with the
+compassion and lamenting of his dead mother, on this injured family, if
+the sister can be discovered.’
+
+“She kissed the boy, and said, caressing him, ‘It is for thine own dear
+sake. Thou wilt be faithful, little Charles?’ The [[Child|child]] answered her
+bravely, ‘Yes!’ I kissed her hand, and she took him in her arms, and
+went away caressing him. I never saw her more.
+
+“As she had mentioned her husband’s name in the [[Faith|faith]] that I knew it,
+I added no mention of it to my letter. I sealed my letter, and, not
+trusting it out of my own hands, delivered it myself that day.
+
+“That [[Night|night]], the last [[Night|night]] of the year, towards nine o’[[Clock|clock]], a man in
+a black dress rang at my gate, demanded to see me, and softly followed
+my servant, [[Ernest Defarge]], a youth, up-stairs. When my servant came
+into the room where I sat with my wife--O my wife, beloved of my heart!
+My fair young English wife!--we saw the man, who was supposed to be at
+the gate, standing silent behind him.
+
+“An urgent case in the Rue St. Honore, he said. It would not detain me,
+he had a coach in waiting.
+
+“It brought me here, it brought me to my [[Grave|grave]]. When I was clear of the
+[[house]], a black muffler was drawn tightly over my mouth from behind, and
+my arms were pinioned. The two brothers crossed the [[Road|road]] from a dark
+corner, and identified me with a single gesture. The Marquis took from
+his pocket the letter I had written, showed it me, burnt it in the light
+of a lantern that was held, and extinguished the ashes with his foot.
+Not a word was spoken. I was brought here, I was brought to my living
+[[Grave|grave]].
+
+“If it had pleased _God_ to put it in the hard heart of either of the
+brothers, in all these frightful years, to grant me any tidings of
+my dearest wife--so much as to let me know by a word whether alive or
+dead--I might have thought that He had not quite abandoned them. But,
+now I believe that the mark of the red [[Cross|cross]] is fatal to them, and that
+they have no part in His mercies. And them and their descendants, to the
+last of their race, I, Alexandre Manette, unhappy prisoner, do this last
+[[Night|night]] of the year 1767, in my unbearable agony, denounce to the times
+when all these things shall be answered for. I denounce them to Heaven
+and to earth.”
+
+A terrible sound arose when the reading of this document was done. A
+sound of craving and eagerness that had nothing articulate in it but
+[[Blood|blood]]. The narrative called up the most revengeful passions of the [[Time|time]],
+and there was not a head in the nation but must have dropped before it.
+
+Little need, in presence of that tribunal and that auditory, to show
+how the Defarges had not made the paper public, with the other captured
+Bastille memorials borne in procession, and had kept it, biding their
+[[Time|time]]. Little need to show that this detested family name had long been
+anathematised by Saint Antoine, and was wrought into the fatal register.
+The man never trod ground whose virtues and services would have
+sustained him in that place that day, against such denunciation.
+
+And all the worse for the doomed man, that the denouncer was a
+[[Well|well]]-known citizen, his own attached friend, the father of his wife. One
+of the frenzied aspirations of the populace was, for imitations of
+the questionable public virtues of antiquity, and for sacrifices and
+[[Self|self]]-immolations on the people’s altar. Therefore when the President
+said (else had his own head quivered on his shoulders), that the good
+physician of the Republic would deserve better still of the Republic by
+rooting out an obnoxious family of Aristocrats, and would doubtless feel
+a sacred glow and joy in making his daughter a widow and her [[Child|child]] an
+[[Orphan|orphan]], there was wild excitement, patriotic fervour, not a touch of
+human sympathy.
+
+“Much influence around him, has that Doctor?” murmured [[Madame Defarge]],
+smiling to The Vengeance. “Save him now, my Doctor, save him!”
+
+At every juryman’s vote, there was a roar. Another and another. Roar and
+roar.
+
+Unanimously voted. At heart and by descent an [[aristocrat|Aristocrat]], an enemy
+of the Republic, a notorious oppressor of the People. Back to the
+Conciergerie, and [[Death]] within four-and-twenty hours!

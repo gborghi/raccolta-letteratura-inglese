@@ -1,5 +1,5 @@
 ---
-title: "[[A Predicament]]"
+title: "A Predicament"
 author: "Poe"
 unitType: work
 parentWork: "works/a-predicament-(poe)"

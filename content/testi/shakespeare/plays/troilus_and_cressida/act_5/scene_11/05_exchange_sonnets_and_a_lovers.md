@@ -1,5 +1,5 @@
 ---
-title: "[[Troilus]] and [[Cressida]] — Act V, Scene 11 — exchange (SONNETS AND ‘A [[Lover|LOVER]]’S) [5]"
+title: "Troilus and Cressida — Act V, Scene 11 — exchange (SONNETS AND ‘A LOVER’S) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/troilus-and-cressida-(shakespeare)"

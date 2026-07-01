@@ -14,6 +14,18 @@ tags:
 </nav>
 
 
+      _white_materials in possession of Mr. Pym. This also was the
+
+      shriek of the swift-flying, _white, _and gigantic [[Birds|birds]] which
+
+      issued from the vapory _white_curtain of the South. Nothing
+
+      _white_was to be found at Tsalal, and nothing otherwise in the
+
+      subsequent voyage to the region beyond. It is not impossible that
+
+      “Tsalal,” the appellation of the island of the chasms, may be
+
       found, upon minute philological scrutiny, to betray either some
 
       alliance with the chasms themselves, or some reference to the
@@ -217,21 +229,3 @@ LIGEIA
       heard her speak. That it is of a remotely ancient date cannot be
 
       doubted. Ligeia! Ligeia! Buried in studies of a [[Nature|nature]] more than
-
-      all else adapted to deaden impressions of the outward world, it
-
-      is by that sweet word [[Alone|alone]]—by Ligeia—that I bring before mine
-
-      eyes in fancy the image of her who is no more. And now, while I
-
-      write, a recollection flashes upon me that I have never known the
-
-      paternal name of her who was my friend and my betrothed, and who
-
-      became the partner of my studies, and finally the wife of my
-
-      bosom. Was it a playful charge on the part of my Ligeia? or was
-
-      it a test of my strength of affection, that I should institute no
-
-      inquiries upon this point? or was it rather a caprice of my own—a

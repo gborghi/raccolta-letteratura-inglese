@@ -64,7 +64,7 @@ afternoon.
 The most comfortable of all the hotels of which I had any experience in
 the United States, and they were not a few, is Barnum’s, in that [[City|city]]:
 where the English traveller will find curtains to his bed, for the first
-and probably the last [[Time|time]] in [[America]] (this is a disinterested remark,
+and probably the last [[Time|time]] in [[america|America]] (this is a disinterested remark,
 for I never use them); and where he will be likely to have enough [[Water|water]]
 for washing himself, which is not at all a common case.
 

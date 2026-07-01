@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 50 (part 3)"
+title: "Oliver Twist — Chapter 50 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_50/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_50/part_04">part 04 ›</a></div>
 </nav>
 
+
+There was an uneasy movement among them, but nobody spoke.
+
+“You that keep this [[house]],” said Sikes, turning his face to Crackit,
+“do you mean to sell me, or to let me lie here till this hunt is over?”
+
+“You may stop here, if you think it safe,” returned the person
+addressed, after some hesitation.
+
+Sikes carried his eyes slowly up the wall behind him: rather trying to
+turn his head than actually doing it: and said, “Is—it—the [[Body|body]]—is it
+buried?”
+
+They shook their heads.
 
 “Why isn’t it!” he retorted with the same glance behind him. “Wot do
 they keep such ugly things above the ground for?—Who’s that knocking?”
@@ -130,16 +144,3 @@ shut the faces out, “the tide was in as I came up. Give me a rope, a
 long rope. They’re all in front. I may drop into the Folly Ditch, and
 clear off that way. Give me a rope, or I shall do three more murders
 and kill myself.”
-
-The panic-stricken men pointed to where such articles were kept; the
-murderer, hastily selecting the longest and strongest cord, hurried up
-to the [[house]]-top.
-
-All the windows in the rear of the [[house]] had been long ago bricked up,
-except one small trap in the room where the boy was locked, and that
-was too small even for the passage of his [[Body|body]]. But, from this
-aperture, he had never ceased to call on those without, to guard the
-back; and thus, when the murderer emerged at last on the [[house]]-top by
-the door in the roof, a loud shout proclaimed the fact to those in
-front, who immediately began to pour round, pressing upon each other in
-an unbroken stream.

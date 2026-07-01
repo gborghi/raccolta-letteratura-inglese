@@ -1,5 +1,5 @@
 ---
-title: "Napoleon of Notting [[Hill]] — Chapter 2 (part 1)"
+title: "Napoleon of Notting Hill — Chapter 1 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/napoleon-of-notting-hill-(chesterton)"
@@ -14,155 +14,145 @@ tags:
 </nav>
 
 
-CHAPTER II
+BOOK IV
+CHAPTER I
 
-THE REMARKABLE MR.  TURNBULL
+THE BATTLE OF THE LAMPS
 
-AFTER two more interviews with shopmen, however, the patriot's
-confidence in his own psychological diplomacy began vaguely to wane.
-Despite the care with which he considered the peculiar rationale and
-the peculiar glory of each separate shop, there seemed to be something
-unresponsive about the shopmen.  Whether it was a dark resentment
-against the uninitiate for peeping into their masonic magnificence,
-he could not quite conjecture.
+MR.  BUCK, who, though retired, frequently went down to his
+big drapery stores in Kensington High Street, was locking up
+those premises, being the last to leave.  It was a wonderful
+evening of green and gold, but that did not trouble him very much.
+If you had pointed it out, he would have agreed seriously,
+for the rich always [[Desire|desire]] to be artistic.
 
-His conversation with the man who kept the shop of curiosities
-had begun encouragingly.  The man who kept the shop of curiosities
-had indeed enchanted him with a phrase.  He was standing drearily
-at the door of his shop, a wrinkled man with a grey pointed beard,
-evidently a gentleman who had come down in the world.
+He stepped out into the cool air, buttoning up his light coat,
+and blowing great clouds from his cigar, when a figure dashed up to him
+in another yellow overcoat, but unbuttoned and flying behind him.
 
-"And how does your commerce go, you strange guardian of the past?"
-said Wayne, affably.
+"Hullo, Barker!" said the draper.  "Any of our [[Summer|summer]] articles?
+You're too late.  Factory Acts, Barker.  Humanity and progress, my boy."
 
-"[[Well]], sir, not very [[Well|well]]," replied the man, with that patient voice
-of his class which is one of the most heart-breaking things in the world.
-"Things are terribly quiet."
+"Oh, don't chatter," cried Barker, stamping.  "We've been beaten."
 
-Wayne's eyes shone suddenly.
+"Beaten...by what?" asked Buck, mystified.
 
-"A great saying," he said, "worthy of a man whose merchandise
-is human [[history]].  Terribly quiet; that is in two words the spirit
-of this age, as I have felt it from my cradle.  I sometimes wondered
-how many other people felt the oppression of this [[Union|union]] between quietude
-and terror.  I see blank [[Well|well]]-ordered streets, and men in black
-moving about inoffensively, sullenly.  It goes on day after day,
-day after day, and nothing happens; but to me it is like [[A Dream|a dream]]
-from which I might awake screaming.  To me the straightness
-of our life is the straightness of a thin cord stretched tight.
-Its stillness is terrible.  It might snap with a noise like thunder.
-And you who sit, amid the debris of the great wars, you who sit,
-as it were, upon a [[Battlefield|battlefield]], you know that war was less terrible
-than this evil peace; you know that the idle lads who carried
-those swords under Francis or Elizabeth, the rude Squire or Baron
-who swung that mace about in Picardy or Northumberland battles,
-may have been terribly noisy, but were not, like us, terribly quiet."
+"By Wayne."
 
-Whether it was a faint embarrassment of [[Conscience|conscience]] as to the
-original source and date of the weapons referred to, or merely an
-engrained depression, the guardian of the past looked, if anything,
-a little more worried.
+Buck looked at Barker's fierce white face for the first [[Time|time]],
+as it gleamed in the lamplight.
 
-"But I do not think," continued Wayne, "that this horrible [[Silence|silence]]
-of modernity will last, though I think for the present it will increase.
-What a farce is this modern liberality.  [[Freedom]] of speech means
-practically in our modern civilization that we must only talk
-about unimportant things.  We must not talk about religion, for that
-is illiberal; we must not talk about bread and [[cheese]], for that is
-talking shop; we must not talk about [[Death|death]], for that is depressing;
-we must not talk about birth, for that is indelicate.  It cannot last.
-Something must break this strange indifference, this strange
-dreamy egoism, this strange [[Loneliness|loneliness]] of millions in a crowd.
-Something must break it.  Why should it not be you and I?  Can you
-do nothing else but guard relics?"
+"Come and have a drink," he said.
 
-The shopman wore a gradually clearing expression, which would
-have led those unsympathetic with the cause of the Red [[Lion]]
-to think that the last sentence was the only one to which he had
-attached any meaning.
+They adjourned to a cushioned and glaring buffet, and Buck established
+himself slowly and lazily in a seat, and pulled out his cigar-case.
 
-"I am rather old to go into a new business," he said, "and I don't
-quite know what to be either."
+"Have a smoke," he said.
 
-"Why not," said Wayne, gently having reached the crisis of his
-delicate [[Persuasion|persuasion]] "why not be a Colonel?"
+Barker was still standing, and on the fret, but after a moment's
+hesitation, he sat down, as if he might [[spring]] up again the next minute.
+They ordered drinks in [[Silence|silence]].
 
-It was at this point, in all probability, that the interview
-began to yield more disappointing results.  The man appeared
-inclined at first to regard the suggestion of becoming a Colonel
-as outside the sphere of immediate and relevant discussion.
-A long exposition of the inevitable war of independence,
-coupled with the purchase of a doubtful sixteenth-century
-[[Sword|sword]] for an exaggerated price, seemed to resettle matters.
-Wayne left the shop, however, somewhat infected with the [[Melancholy|melancholy]]
-of its owner.
+"How did it happen?" asked Buck, turning his big bold eyes on him.
 
-That [[Melancholy|melancholy]] was completed at the barber's.
+"How the devil do I know?" cried Barker.  "It happened
+like...like [[A Dream|a dream]].  How can two hundred men beat six hundred?
+How can they?"
 
-"Shaving, sir?" inquired that [[Artist|artist]] from inside his shop.
+"[[Well]]," said Buck, coolly.  "How did they?  You ought to know."
 
-"War!" replied Wayne, standing on the threshold.
+"I don't know.  I can't describe," said the other, drumming on the table.
+"It seemed like this.  We were six hundred and marched with those
+damned poleaxes of Auberon's...the only weapons we've got.
+We marched two abreast.  We went up to Holland Walk, between the high
+palings which seemed to me to go straight as an arrow for Pump Street.
+I was near the tail of the line and it was a long one.
+When the end of it was still between the high palings,
+the head of the line was already crossing Holland Park Avenue.
+Then the head plunged into the network of narrow streets on the
+other side, and the tail and myself came out on the great crossing.
+When we also had reached northern side and turned up a small
+street that points, crookedly as it were, towards Pump Street,
+the whole thing felt different.  The street dodged and bent
+so much that the head of our line seemed lost altogether:
+it might as [[Well|well]] have been in North [[America]].  And all this [[Time|time]] we
+hadn't seen a [[Soul|soul]]."
 
-"I beg your pardon," said the other sharply.
+Buck, who was idly dabbing the ash of his cigar on the ash-tray,
+began to move it deliberately over the table, making feathery
+grey lines, a kind of map.
 
-"War!" said Wayne, warmly.  "But not for anything inconsistent
-with the beautiful and the civilized arts.  War for [[Beauty|beauty]].
-War for society.  War for peace.  A great chance is offered you
-of repelling that slander which, in defiance of the lives of so
-many artists, attributes poltroonery to those who beautify and polish
-the surface of our lives.  Why should not hairdressers be heroes?
-Why should not..."
+"But though the little streets were all deserted (which got a trifle
+on my nerves), as we got deeper and deeper into them, a thing
+began to happen that I couldn't understand.  Sometimes a long way
+ahead...three turns or corners ahead, as it were...there broke suddenly
+a sort of noise, clattering, and confused cries, and then stopped.
+Then, when it happened, something, I can't describe it...a kind of shake
+or stagger went down the line, as if the line were a live thing,
+whose head had been struck, or had been an electric cord.
+None of us knew why we were moving, but we moved and jostled.
+Then we recovered, and went on through the little dirty streets,
+round corners, and up twisted ways.  The little crooked streets
+began to give me a feeling I can't explain...as if it were [[A Dream|a dream]].
+I felt as if things had lost their reason, and we should never
+get out of the maze.  Odd to hear me talk like that, isn't it?
+The streets were quite [[Well|well]]-known streets, all down on the map.
+But the fact remains.  I wasn't afraid of something happening.
+I was afraid of nothing ever happening...nothing ever happening
+for all God's [[Eternity|eternity]]."
 
-"Now, you get out," said the barber, irascibly.  "We don't want
-any of your sort here.  You get out."
+He drained his glass and called for more whisky.  He drank it
+and went on.
 
-And he came forward with the desperate annoyance of a mild
-person when enraged.
+"And then something did happen.  Buck, it's the solemn [[Truth|truth]],
+that nothing has ever happened to you in your life.  Nothing had
+ever happened to me in my life."
 
-[[Adam Wayne]] laid his hand for a moment on the [[Sword|sword]], then dropped it.
+"Nothing ever happened!" said Buck, staring.  "What do you mean?"
 
-"Notting [[Hill]]," he said, "will need her bolder sons;" and he turned
-gloomily to the toy-shop.
+"Nothing has ever happened," repeated Barker, with a
+morbid obstinacy.  "You don't know what a thing happening means?
+You sit in your office expecting customers, and customers come;
+you walk in the street expecting friends, and friends meet you;
+you want a drink and get it; you feel inclined for a bet and make it.
+You expect either to win or lose, and you do either one or the other.
+But things happening!" and he shuddered ungovernably.
 
-It was one of those queer little shops so constantly seen in
-the side streets of [[London]], which must be called toy-shops only
-because toys upon the whole predominate; for the remainder of goods
-seem to consist of almost everything else in the world...tobacco,
-exercise-books, sweet-stuff, novelettes, halfpenny paper clips,
-halfpenny pencil sharpeners, bootlaces, and cheap fireworks.
-It also sold newspapers, and a row of dirty-looking posters hung
-along the front of it.
+"Go on," said Buck, shortly.  "Get on."
 
-"I am afraid," said Wayne, as he entered, "that I am not getting
-on with these tradesmen as I should.  Is it that I have neglected
-to rise to the full meaning of their work?  Is there some secret
-buried in each of these shops which no mere poet can discover?"
+"As we walked wearily round the corners, something happened.
+When something happens, it happens first, and you see it afterwards.
+It happens of itself, and you have nothing to do with it.  It proves
+a dreadful thing...that there are other things besides one's [[Self|self]].
+I can only put it in this way.  We went round one turning, two turnings,
+three turnings, four turnings, five.  Then I lifted myself slowly
+up from the gutter where I had been shot half senseless, and was
+beaten down again by living men crashing on top of me, and the world
+was full of roaring, and big men [[rolling]] about like ninepins."
 
-He stepped to the counter with a depression which he rapidly conquered
-as he addressed the man on the other side of it...a man of short stature,
-and hair prematurely white, and the look of a large baby.
+Buck looked at his map with knitted brows.
 
-"Sir," said Wayne, "I am going from [[house]] to [[house]] in this street of ours,
-seeking to stir up some sense of the danger which now threatens
-our [[City|city]].  Nowhere have I felt my duty so difficult as here.
-For the toy-shop keeper has to do with all that remains to us of Eden
-before the first wars began.  You sit here meditating continually
-upon the wants of that wonderful [[Time|time]] when every staircase leads
-to the [[Stars|stars]], and every [[Garden|garden]]-path to the other end of nowhere.
-Is it thoughtlessly, do you think, that I strike the dark old drum
-of peril in the paradise of children?  But consider a moment;
-do not condemn me hastily.  Even that paradise itself contains
-the rumour or beginning of that danger, just as the Eden that was made
-for perfection contained the terrible tree.  For judge [[Childhood|childhood]],
-even by your own arsenal of its pleasures.  You keep bricks;
-you make yourself thus, doubtless, the witness of the constructive
-instinct older than the destructive.  You keep dolls; you make
-yourself the priest of that divine idolatry.  You keep Noah's Arks;
-you perpetuate the [[Memory|memory]] of the salvation of all life as a precious,
-an irreplaceable thing.  But do you keep only, sir, the symbols
-of this prehistoric [[Sanity|sanity]], this childish rationality of the earth?
-Do you not keep more terrible things?  What are those boxes,
-seemingly of lead soldiers, that I see in that glass case?
-Are they not witnesses to that terror and [[Beauty|beauty]], that [[Desire|desire]] for a
-lovely [[Death|death]], which could not be excluded even from the [[Immortality|immortality]]
-of Eden?  Do not despise the lead soldiers, Mr. Turnbull."
+"Was that Portobello [[Road]]?" he asked.
+
+"Yes," said Barker.  "Yes; Portobello [[Road]]...I saw it afterwards;
+but, my God...what a place it was!  Buck, have you ever stood
+and let a six foot of a man lash and lash at your head with six feet
+of pole with six pounds of steel at the end?  Because, when you
+have had that experience, as Walt Whitman says, 'you re-examine
+philosophies and religions.'  "
+
+"I have no [[Doubt|doubt]]," said Buck.  "If that was Portobello [[Road]],
+don't you see what happened?"
+
+"I know what happened exceedingly [[Well|well]].  I was knocked down four times;
+an experience which, as I say, has an effect on the mental attitude.
+And another thing happened, too.  I knocked down two men.
+After the fourth fall (there was not much bloodshed...more brutal
+rushing and throwing...for nobody could use their weapons),
+after the fourth fall, I say, I got up like a devil,
+and I tore a poleaxe out of a man's hand and struck where I
+saw the scarlet of Wayne's fellows, struck again and again.
+Two of them went over, bleeding oh the stones, thank God...and I
+laughed and found myself sprawling in the gutter again, and got
+up again, and struck again, and broke my halberd to pieces.
+I hurt a man's head, though."

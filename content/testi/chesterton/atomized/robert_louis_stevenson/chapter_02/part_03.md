@@ -1,5 +1,5 @@
 ---
-title: "Robert Louis Stevenson — Chapter 2 (part 3)"
+title: "Robert Louis Stevenson — Chapter 1 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/robert-louis-stevenson-(chesterton)"
@@ -14,146 +14,128 @@ tags:
 </nav>
 
 
-If therefore we ask, "Where does the story of Stevenson really start;
-where does his special style or spirit begin and where do they come from;
-how did he get, or begin to get, the thing that made him different
-from the man next-door?"  I have no [[Doubt|doubt]] about the answer.
-He got them from the mysterious Mr. Skelt of the Juvenile Drama,
-otherwise the toy theatre, which of all toys has most of the effect
-of [[Magic|magic]] on the mind.  Or rather, of course, he got it from the way
-in which his own individual temper and talent grasped the [[Nature|nature]]
-of the game.  He has written it all in an excellent [[Essay|essay]] and at
-least in one very real sentence of autobiography.  "What is
-the world, what is man and life but what my Skelt has made them?"
-The psychological interest is rather more special than is conveyed
-by the common generalisation about the [[Imagination|imagination]] of infancy.
-It is not merely a question of children's toys; it is a question
-of a particular kind of toy, as of a particular kind of talent.
-It was not quite the same thing, for instance, to buy toy theatres
-in Edinburgh as it would have been to go to real theatres in [[London]].
-In that little pasteboard play there might be something of
-the pantomime; but there was nothing of the dissolving view.
-The positive outline of everything, so [[Well|well]] sketched in his own [[Essay|essay]],
-the hard favour of the heroine, the clumps of vegetation, the clouds
-rolled up stiff as bolsters--these things meant something to the [[Soul|soul]]
-of Stevenson by their very swollen solidity or angular swagger.
-And it is hardly an exaggeration to say that he spent his life
-in teaching the world what he had learnt from them.  What he learnt
-from them was very much more than anybody else had ever learnt
-from them; and that is his teaching and his qualification to teach.
-But to the last he presented his [[morality]] in a series of Moral Emblems
-which had something in common with those definite outlines and
-defiant attitudes; and there was never any name for it but his own
-name of Skeltery.
+When I come to describing it, I find it is perhaps even more
+difficult to describe it than to do it.  But something of this
+sort is what I propose to do.  Loudon Dodd, in whom there
+is much of Louis Stevenson, says very truly in _The Wrecker,_
+that for the [[artist]] the external result is always a fizzle:
+his eyes are turned inward:  "he lives for a state of mind."
+I mean to attempt the conjectural description of certain states
+of mind, with the books that were the "external expression"
+of them.  If for the [[artist]] his art is a fizzle, his life is
+often far more of a fizzle:  it is even far more of a fiction.
+It is the one of his works in which he tells least of the [[Truth|truth]].
+Stevenson's was more real than most, because more romantic than most.
+But I prefer the romances, which were still more real.
+I mean that I think the wanderings of Balfour more Stevensonian
+than the wanderings of Stevenson:  that the duel of Jekyll and Hyde
+is more illuminating than the quarrel of Stevenson and Henley:
+and that the true private life is to be sought not in Samoa but in
+Treasure Island; for where the treasure is, there is the heart also.
 
-It was because he loved to see on those lines, and to think
-in those terms, that all his instinctive images are clear and
-not cloudy; that he liked a gay patch-work of colour combined
-with a zigzag energy of action, as quick as the crooked [[Lightning|lightning]].
-He loved things to stand out; we might say he loved them to
-stick out; as does the hilt of a sabre or the feather in a cap.
-He loved the pattern of crossed swords; he almost loved the pattern
-of the gallows because it is a clear shape like the [[Cross|cross]].
-And the point is that this pattern still runs through or underneath
-all his more mature or complex writing; and is never lost even at
-the moments when he is really tragic or, what is worse, realistic.
-Even when he mourns as a man, he still rejoices as a [[Child|child]].
-The men in divers' helmets like monsters, in the sordid misery
-of _The Ebb-Tide,_ are still like masks of pantomime goblins
-against the glowing azure.  And James Durie is quite as clear,
-we might say quite as bright, in his black coat as Alan Breck
-in his blue one.
+In short, I propose to review his books with illustrations from his life;
+rather than to write his life with illustrations from his books.
+And I do it deliberately, not because his life was not as interesting
+as any book; but because the habit of talking too much about his life
+has already actually led to thinking far too little of his literature.
+His ideas are being underrated, precisely because they are not
+being studied separately and seriously as ideas.  His art is
+being underrated, precisely because he is not accorded even the fair
+advantages of Art for Art's Sake.  There is indeed a queer irony
+about the fate of the men of that age, who delighted in that axiom.
+They claimed judgement as artists, not men; and they are really
+remembered as men much more than they are remembered as artists.
+More men know the Whistlerian anecdotes than the Whistlerian etchings;
+and poor Wilde will live in [[history]] as immoral rather than unmoral.
+But there is a real reason for studying intrinsic intellectual
+values in the case of Stevenson; and it need not be said that
+exactly where the modern maxim would be useful, it is never used.
+The new criticism of Stevenson is still a criticism of Stevenson
+rather than of Stevenson's work; it is always a personal criticism,
+and often, I think, rather a spiteful criticism.  It is simply nonsense,
+for instance, for a distinguished living novelist to suggest that
+Stevenson's correspondence is a thin stream of selfish soliloquy
+devoid of feeling for anybody but himself.  It teems with lively
+expressions of [[Longing|longing]] for particular people and places; it breaks
+out everywhere with delight into that broad Scots idiom which,
+as Stevenson truly said elsewhere, gives a special [[Freedom|freedom]] to all
+the terms of affection.  Stevenson might be lying, of course, though I
+know not why a busy author should lie at such length for nothing.
+But I cannot see how any man could say any more to suggest his dependence
+on the society of friends.  These are positive facts of personality
+that can never be proved or disproved.  I never knew Stevenson;
+but I knew very many of his favourite friends and correspondents.
+I knew Henry James and William Archer; I have still the [[Honour|honour]]
+of knowing Sir James Barrie and Sir [[Edmund]] Gosse.  And anybody
+who knows them, even most slightly and superficially, must know
+they are not the men to be in confidential correspondence for years
+with a silly, greedy and exacting egoist without seeing through him;
+or to be bombarded with boring autobiographies without being bored.
+But it seems rather a pity that such critics should still be called
+upon to hunt up Stevenson's letter-bag, when they might [[Well|well]] think it
+[[Time|time]] to form some conclusions about Stevenson's place in letters.
+Anyhow, I propose on the present occasion to be so perverse as to
+interest myself in literature when dealing with a literary man;
+and to be especially interested not only in the literature left
+by the man but in the [[philosophy]] inhering in the literature.
+And I am especially interested in a certain story, which was indeed
+the story of his life, but not exactly the story in his [[Biography|biography]].
+It was an internal and spiritual story; and the stages of it
+are to be found rather in his stories than in his external acts.
+It is told much better in the difference between _Treasure Island_
+and _The Story of a Lie,_ or in the difference between _A [[Child]]'s [[Garden]]
+of Verses_ and _Markheim_ or _Olalla,_ than in any detailed account of his
+wrangles with his father or the fragmentary [[Love|love]]-affairs of his youth.
+For it seems to me that there is a moral to the art of Stevenson
+(if the shades of Wilde and Whistler will endure the challenge),
+and that it is one with a real bearing on the future of European
+culture and the [[Hope|hope]] that is to guide our children.  Whether I
+shall be able to draw out this moral and make it sufficiently large
+and clear, I know as little as the reader does.
 
-Taking such a toy as a type or symbol, we may [[Well|well]] say that Stevenson
-lived inside his toy theatre.  It is certain that he lived in
-an exceptional sense inside his own [[Home|home]]; and often, I imagine,
-inside his own bedroom.  It is here that there appears, thus early
-in his life, that other element that was destined to darken it,
-often with something like the [[Shadow|shadow]] of [[Death|death]].  I know not how far
-that [[Shadow|shadow]] could sometimes be traced upon the nursery wall.  But it
-is certain that he was at least relatively a delicate or sickly [[Child|child]];
-and was therefore more thrown back upon that inner imaginative life
-than if he had been more robust in boyhood.  The world inside that [[Home|home]]
-was largely a world of his own; yes, even a world of his own imagining,
-a thing not so much of firelight as of pictures in the [[Fire|fire]].
-The world outside his [[Home|home]] was very different, even for those who
-shared his [[Home|home]] life; and that is a contrast that I shall have
-occasion to emphasise, when we come to the crisis of his youth.
-It is enough to note here the [[Paradox|paradox]] that he was to some extent
-protected by family life even from the heavier traditions of his family.
-As it did not build lighthouses in the [[Garden|garden]] pond, so it did not
-always bring the Kirk into the nursery.  He has described how his
-stern Calvinistic grandfather tolerated in the nursery the wild
-Arabian fables that he might [[Well|well]] have denounced in the pulpit.
-As even that Edinburgh [[house]] defended him from the [[Winter|winter]] winds
-of Edinburgh, so it protected him in some degree from the full
-icy blasts of [[Puritanism]] which blew so high in public life.
-It may have been that he was a sick [[Child|child]]; it may have been
-that he was a spoilt [[Child|child]]; but this fact that he was largely left
-[[Alone|alone]] with his daydreams, dwelling in that [[house]] within a [[house]]
-which is typified by the toy theatre, is a thing to be remembered;
-for it means much at a later stage.
-
-In this matter of what has been called the [[Child]] in R. L. S.,
-I have admitted that there has been far too much talking;
-but there has been far too little thinking.  The thing is a reality;
-and it does remain as a very considerable problem for the reason, as yet
-quite unsolved by the modern world, even when most is said about it.
-We have a mass of testimony from men of every description,
-from Treherne to Hazlitt, or from Wordsworth to Thackeray,
-to the psychological fact that the [[Child|child]] experiences joys which glow
-like jewels even in retrospect.  None of the normal naturalistic
-explanations explain that natural fact; and some have suggested
-that it is indeed a [[Supernatural|supernatural]] fact.  In the ordinary sense
-of mental growth, there is no more reason for the [[Child|child]] being better
-than the man than for the tadpole being better than the frog.
-And the attempts to explain it by physical growth are even weaker.
-There is a good example of the weakness in one of the essays
-of Stevenson, who found himself, of course, at the particular modern
-moment to catch the first fashion and excitement of Darwinism.
-Speaking of the old Calvinist minister who confessed the gorgeous
-spell of the _Arabian Nights,_ he suggests that in the brain of
-the theologian there is still the gambolling ape; the ancestor of man;
-"probably arboreal."  It marks the security of such science,
-I may remark, that anthropologists are now saying that he was probably
-not arboreal.  But anyhow, it is a little difficult to see why
-a man should [[Love|love]] the complexity of labyrinthine cities, or wish
-to ride with the jewelled cohorts of the high princes of Arabia,
-merely because his relative had once been a hairy beast clambering
-like a bear on the top of a branching pole.  It reminds one of
-the glorious apology which Stevenson made for having expected that
-a wealthy man would know a Governor of [[Christ]]'s Hospital:  "A man
-with a cold in his head does not necessarily know a rat-catcher;
-and the connection, as it appears to my humbled and awakened sense,
-is equally close."
-
-The connection between the expanding energy of the young monkey
-and the secret daydreams of the young [[Child|child]] is equally close.
-As a matter of fact, the [[Time|time]] when the boy is most full of the energy
-of a monkey is emphatically not the [[Time|time]] when the [[Child|child]] is most full
-of the imaginative pleasures of a poet.  These always come at a less
-vigorous period; they very often come to a less vigorous person.
-They especially and notably did so in the case of Stevenson;
-and it is absurd to explain the intensity of an infant who is an invalid
-by the bodily exuberance of a lad at the [[Time|time]] when he is often rather
-a lout.  Stevenson, with all the advantage of his disadvantages,
-may have lived through the period when everybody has a touch
-of loutishness.  But that uncomfortable period of youth was not
-the period when the coloured pictures in his mind were most clear;
-they were much clearer later in the age of [[Self|self]]-control and
-earlier in the age of [[innocence]].  The main point to be seized
-here is that they were coloured pictures of a particular kind.
-The colours faded, but in a certain sense the forms remained fixed;
-that is, that though they were slowly discoloured by the light
-of common day, yet when the lantern was again lit from within,
-the same [[Magic|magic]]-lantern slides glowed upon the blank screen.
-They were still pictures of pirates and red gold and bright blue sea,
-as they were in his [[Childhood|childhood]].  And this fact is very important in
-the story of his mind; as we shall see when his mind reverted to them.
-For the [[Time|time]] was to come when he was truly, like Jim Hawkins,
-to be rescued by a leering criminal with crutch and cutlass from
-destiny worse than [[Death|death]] and men worse than Long John Silver--
-from the last phase of the enlightened nineteenth century and
-the leading thinkers of the age.
+Nevertheless, at this stage of the attempt I will say one thing.
+I have, in a sense, a sort of theory about Stevenson; a view of
+him which, right or wrong, concerns his life and work as a whole.
+But it is perhaps less exclusively personal than much of
+the interest that has been naturally taken in his personality.
+It is certainly the very contrary of the attacks which have commonly,
+and especially recently, been made on that personality.
+Thus the critics are fond of suggesting that he was nothing if
+not [[Self|self]]-conscious; that the whole of his significance came from
+[[Self|self]]-consciousness. I believe that the one really great and important
+work which he did for the world was done quite unconsciously.
+Many have blamed him for posing; some have blamed him for preaching.
+The matter which mainly interests me is not merely his pose,
+if it was a pose, but the large landscape or background against
+which he was posing; which he himself only partly realised,
+but which goes to make up a rather important historical picture.
+And though it is true that he sometimes preached, and preached
+very [[Well|well]], I am by no means certain that the thing which he preached
+was the same as the thing which he taught.  Or, to put it another way,
+the thing which he could teach was not quite so large as the thing
+which we can learn.  Or again, many of them declare that he was
+only a nine days' [[Wonder|wonder]], a passing figure that happened to catch
+the eye and even affect the fashion; and that with that fashion
+he will be forgotten.  I believe that the lesson of his life
+will only be seen after [[Time|time]] has revealed the full meaning of all
+our present tendencies; I believe it will be seen from afar off
+like a vast plan or maze traced out on a hillside; perhaps traced
+by one who did not even see the plan while he was making the tracks.
+I believe that his travels and doublings and returns reveal an idea,
+and even a doctrine.  Yet it was perhaps a doctrine in which he did
+not believe, or at any rate did not believe that he believed.
+In other words, I think his significance will stand out more strongly
+in relation to larger problems which are beginning to press once
+more upon the mind of man; but of which many men are still largely
+unaware in our [[Time|time]], and were almost entirely unaware in his.
+But any contribution to the solution of those problems will be remembered;
+and he made a very great contribution, probably greater than he knew.
+Lastly, these same critics do not hesitate, in many cases, to accuse
+him flatly of being insincere.  I should say that nobody, so openly
+fond of play-acting as he was, could possibly be insincere.  But it is
+more to my purpose now to say that his relation to the huge half-[[Truth|truth]]
+that he carried was in its very simplicity a mark of truthfulness.
+For he had the splendid and ringing sincerity to testify, in a voice
+like a trumpet, to a [[Truth|truth]] that he did not understand.
 
 * * * *

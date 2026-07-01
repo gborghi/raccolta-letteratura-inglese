@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 65 (part 3)"
+title: "Barnaby Rudge — Chapter 65 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_65/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_65/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘Aid! For what!’ said Mr Dennis, playfully rapping the knuckles of the
+hand nearest him.
+
+‘To save us!’ they cried.
+
+‘Oh, certainly,’ said Mr Dennis, winking at the wall in the absence
+of any friend with whom he could [[Humour|humour]] the joke. ‘And so you’re to be
+worked off, are you, brothers?’
 
 ‘Unless we are released to-[[Night|night]],’ one of them cried, ‘we are dead men!’
 
@@ -123,13 +132,3 @@ brother,’ said the hangman, slowly. ‘What! You WILL come in, will you?’
 for nothing--haven’t you?’ said the hangman, retreating to the door by
 which he had entered, and regarding his companion with a scowl. ‘You
 WILL come in, will you, brother!’
-
-‘I tell you, yes. What the devil ails you? Where are you going?’
-
-‘No matter where I’m going,’ rejoined the hangman, looking in again at
-the iron wicket, which he had nearly shut upon himself, and held ajar.
-‘Remember where you’re coming. That’s all!’
-
-With that, he shook his likeness at Hugh, and giving him a grin,
-compared with which his usual smile was amiable, disappeared, and shut
-the door.

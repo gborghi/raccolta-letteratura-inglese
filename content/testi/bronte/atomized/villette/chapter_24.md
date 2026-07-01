@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 24"
+title: "Villette — Chapter 24"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/villette-(bronte)"
@@ -48,12 +48,12 @@ which blows in and soon blocks him up, preserving him in ice for the
 season.
 
 Let him say, “It is quite right: it ought to be so, since so it is.”
-And, perhaps, one day his [[Snow|snow]]-sepulchre will open, [[spring]]’s softness
+And, perhaps, one day his [[Snow|snow]]-sepulchre will open, [[Spring|spring]]’s softness
 will return, the sun and south-[[Wind|wind]] will reach him; the budding of
 hedges, and carolling of [[Birds|birds]], and singing of liberated streams, will
 call him to kindly [[Resurrection|resurrection]]. _Perhaps_ this may be the case,
 perhaps not: the [[Frost|frost]] may get into his heart and never thaw more; when
-[[spring]] comes, a crow or a pie may pick out of the wall only his
+[[Spring|spring]] comes, a crow or a pie may pick out of the wall only his
 dormouse-bones. [[Well]], even in that case, all will be right: it is to be
 supposed he knew from the first he was mortal, and must one day go the
 way of all flesh, “As [[Well|well]] soon as syne.”

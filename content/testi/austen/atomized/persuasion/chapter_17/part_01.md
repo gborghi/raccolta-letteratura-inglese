@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 17 (part 1)"
+title: "Persuasion — Chapter 17 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -207,11 +207,3 @@ possession of her lodgings before she was again confined to her bed and
 with the absolute necessity of having a regular [[Nurse|nurse]], and finances at
 
 that moment particularly unfit to meet any extraordinary expense. She
-
-had weathered it, however, and could truly say that it had done her
-
-good. It had increased her comforts by making her feel herself to be in
-
-good hands. She had seen too much of the world, to expect sudden or
-
-disinterested attachment anywhere, but her illness had proved to her

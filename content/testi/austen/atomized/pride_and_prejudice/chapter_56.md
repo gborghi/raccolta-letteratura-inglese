@@ -1,5 +1,5 @@
 ---
-title: "[[Pride and Prejudice]] — Chapter 56"
+title: "Pride and Prejudice — Chapter 56"
 author: "Austen"
 unitType: chapter
 parentWork: "works/pride-and-prejudice-(austen)"
@@ -220,7 +220,7 @@ attached to her situation, that she could, upon the whole, have no cause
 to repine.”
 
 “Obstinate, headstrong girl! I am ashamed of you! Is this your gratitude
-for my attentions to you last [[spring]]? Is nothing due to me on that
+for my attentions to you last [[Spring|spring]]? Is nothing due to me on that
 score? Let us sit down. You are to understand, Miss Bennet, that I came
 here with the determined resolution of carrying my purpose; nor will I
 be dissuaded from it. I have not been used to submit to any person’s

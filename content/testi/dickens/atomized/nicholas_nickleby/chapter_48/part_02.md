@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 48 (part 2)"
+title: "Nicholas Nickleby — Chapter 48 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_48/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_48/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘You were always a favourite of hers, Johnson,’ said Crummles, ‘always
+were from the first. I was quite easy in my mind about you from that
+first day you dined with us. One that Mrs. Crummles took a fancy to, was
+sure to turn out right. Ah! Johnson, what a woman that is!’
 
 ‘I am sincerely obliged to her for her kindness in this and all other
 respects,’ said Nicholas. ‘But where are you going, that you talk about
@@ -124,12 +129,3 @@ the invitation, and promised to return at the conclusion of the
 performances; preferring the cool air and twilight out of doors to the
 mingled perfume of gas, orange-peel, and gunpowder, which pervaded the
 hot and glaring theatre.
-
-He availed himself of this interval to buy a silver snuff-box--the best
-his funds would afford--as a token of remembrance for Mr. Crummles,
-and having purchased besides a pair of ear-rings for Mrs. Crummles, a
-necklace for the Phenomenon, and a flaming shirt-pin for each of the
-young gentlemen, he refreshed himself with a walk, and returning a
-little after the appointed [[Time|time]], found the lights out, the theatre
-empty, the curtain raised for the [[Night|night]], and Mr. Crummles walking up and
-down the stage expecting his arrival.

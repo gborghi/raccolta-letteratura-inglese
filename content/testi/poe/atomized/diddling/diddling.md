@@ -1,5 +1,5 @@
 ---
-title: "[[Diddling]]"
+title: "Diddling"
 author: "Poe"
 unitType: work
 parentWork: "works/diddling-(poe)"
@@ -465,7 +465,7 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
       mind! _I_ can fix it—here is a fifty on the Bank of North
 
-      [[America]]—throw the book.”
+      [[america|America]]—throw the book.”
 
 
 

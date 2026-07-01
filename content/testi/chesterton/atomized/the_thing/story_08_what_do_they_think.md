@@ -71,7 +71,7 @@ The Church is no stranger to heresies that involved human sacrifice,
 or the worship of demons, or the practice of perversions.
 We might [[Well|well]] suppose, therefore, that the Church says benevolently
 to these fortunate Slavs, "By all means worship Baphomet and Beelzebub;
-say the Lord's [[Prayer]] backwards; continue to drink the [[Blood|blood]]
+say the Lord's [[prayer|Prayer]] backwards; continue to drink the [[Blood|blood]]
 of infants--nay, even," and here her voice falters, till she
 rallies with an effort of generous resolution, "--yes, even, if you
 really must, grow a beard."  And then, I suppose, we must call
@@ -85,7 +85,7 @@ It is presumably a problem on which this intolerant spiritual
 tyranny will suffer no question to be asked.
 
 Does the reader realise the [[Despair|despair]] that falls upon the hapless Catholic
-journalist at such moments; or how wild a [[Prayer|prayer]] he may [[Well|well]] send up
+journalist at such moments; or how wild a [[prayer]] he may [[Well|well]] send up
 for the intercession of St. Francis of Sales?  What is he to say;
 or at what end of that sentence is he to begin?  What is the good of
 his laboriously beginning to explain that a married clergy is a matter

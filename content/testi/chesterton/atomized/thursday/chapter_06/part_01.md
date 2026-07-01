@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 6 (part 1)"
+title: "thursday — Chapter 6 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -17,7 +17,6 @@ tags:
                           CHAPTER VI
 
                          THE EXPOSURE
-
 
 SUCH were the six men who had sworn to destroy the world.
 Again and again Syme strove to pull together his common sense

@@ -1,5 +1,5 @@
 ---
-title: "[[TheAppOfTyranny]] — Chapter 4 (part 1)"
+title: "TheAppOfTyranny — Chapter 4 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/theappoftyranny-(chesterton)"
@@ -16,13 +16,7 @@ tags:
 
 IV
 
-
-
 THE ESCAPE OF FOLLY
-
-
-
-
 
 In considering the Prussian point of view we have been considering what
 
@@ -94,8 +88,6 @@ this almost invisible earwig; and let the impure [[Blood|blood]] of this cockroa
 
 redden the Rhine down to the sea.
 
-
-
 But it would be unfair to base the criticism on the utterance of any
 
 accidental and hereditary prince: and it is quite equally clear in the case
@@ -152,8 +144,6 @@ all there is, hazy but not hypocritical, this sense of some common
 
 Teutonism.
 
-
-
 Professor Haeckel, another of the witnesses raised up against us, attained
 
 to some celebrity at one [[Time|time]] through proving the remarkable resemblance
@@ -189,7 +179,3 @@ has proved the more tenable proposition of the non-existence of God. Now
 the German and the Englishman are not in the least alike--except in the
 
 sense that neither of them are negroes. They are, in everything good and
-
-evil, more unlike than any other two men we can take at random from the
-
-great European family. They are opposite from the roots of their [[history]],

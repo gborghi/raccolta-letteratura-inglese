@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 24 (part 3)"
+title: "The Professor — Chapter 24 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -14,25 +14,29 @@ tags:
 </nav>
 
 
+nation.”
+
+“There is no good side--none at least of which you can have any
+
+knowledge; for you cannot appreciate the efforts of industry, the
+
+achievements of enterprise, or the discoveries of science: narrowness
+
+of [[Education|education]] and obscurity of position quite incapacitate you
+
+from understanding these points; and as to historical and poetical
+
 associations, I will not insult you, mademoiselle, by supposing that you
 
 alluded to such humbug.”
 
-
-
 “But I did partly.”
 
-
-
 Hunsden laughed--his laugh of unmitigated scorn.
-
-
 
 “I did, Mr. Hunsden. Are you of the number of those to whom such
 
 associations give no pleasure?”
-
-
 
 “Mademoiselle, what is an association? I never saw one. What is its
 
@@ -40,13 +44,9 @@ length, breadth, weight, value--ay, VALUE? What price will it bring in
 
 the market?”
 
-
-
 “Your portrait, to any one who loved you, would, for the sake of
 
 association, be without price.”
-
-
 
 That inscrutable Hunsden heard this remark and felt it rather acutely,
 
@@ -62,11 +62,7 @@ he would like to be loved--some one whose [[Love|love]] he could unreservedly
 
 return.
 
-
-
 The lady pursued her temporary advantage.
-
-
 
 “If your world is a world without associations, Mr. Hunsden, I no longer
 
@@ -83,8 +79,6 @@ stripped of the faculty of association, I think he would soon rush forth
 from ‘the ever-during gates,’ leave heaven, and seek what he had lost in
 
 hell. Yes, in the very hell from which he turned ‘with retorted scorn.’”
-
-
 
 Frances’ tone in saying this was as marked as her language, and it
 
@@ -118,13 +112,9 @@ itself departed. Hunsden’s excitations she put by soon with a smile, and
 
 recurring to the theme of disputation, said--
 
-
-
 “Since England is nothing, why do the continental nations respect her
 
 so?”
-
-
 
 “I should have thought no [[Child|child]] would have asked that question,” replied
 
@@ -141,8 +131,6 @@ confession of ignorance. Why, mademoiselle, can’t you see that it is
 our GOLD which buys us French politeness, German good-will, and Swiss
 
 servility?” And he sneered diabolically.
-
-
 
 “Swiss?” said Frances, catching the word “servility.” “Do you call my
 
@@ -162,8 +150,6 @@ quite out of my heart the social [[Greatness|greatness]] of my countrymen, and o
 
 mistaken--you’re mistaken.”
 
-
-
 “Social [[Greatness|greatness]]? Call it what you will, your countrymen are sensible
 
 fellows; they make a marketable article of what to you is an abstract
@@ -172,23 +158,13 @@ idea; they have, ere this, sold their social [[Greatness|greatness]] and also th
 
 [[Blood|blood]]-earned [[Freedom|freedom]] to be the servants of foreign kings.”
 
-
-
 “You never were in Switzerland?”
-
-
 
 “Yes--I have been there twice.”
 
-
-
 “You know nothing of it.”
 
-
-
 “I do.”
-
-
 
 “And you say the Swiss are mercenary, as a parrot says ‘Poor Poll,’ or
 
@@ -196,11 +172,7 @@ as the Belgians here say the English are not brave, or as the French
 
 accuse them of being perfidious: there is no justice in your dictums.”
 
-
-
 “There is [[Truth|truth]].”
-
-
 
 “I tell you, Mr. Hunsden, you are a more unpractical man than I am an
 
@@ -212,60 +184,22 @@ an atheist would annihilate God and his own [[Soul|soul]], by denying their
 
 existence.”
 
-
-
 “Where are you flying to? You are off at a tangent--I thought we were
 
 talking about the mercenary [[Nature|nature]] of the Swiss.”
-
-
 
 “We were--and if you proved to me that the Swiss are mercenary to-morrow
 
 (which you cannot do) I should [[Love|love]] Switzerland still.”
 
-
-
 “You would be mad, then--mad as a March hare--to indulge in a passion
 
 for millions of shiploads of soil, timber, [[Snow|snow]], and ice.”
 
-
-
 “Not so mad as you who [[Love|love]] nothing.”
 
-
-
 “There’s a method in my [[Madness|madness]]; there’s none in yours.”
-
-
 
 “Your method is to squeeze the sap out of creation and make manure of
 
 the refuse, by way of turning it to what you call use.”
-
-
-
-“You cannot reason at all,” said Hunsden; “there is no [[logic]] in you.”
-
-
-
-“Better to be without [[logic]] than without feeling,” retorted Frances, who
-
-was now passing backwards and forwards from her cupboard to the table,
-
-intent, if not on hospitable thoughts, at least on hospitable deeds, for
-
-she was laying the cloth, and putting plates, knives and forks thereon.
-
-
-
-“Is that a hit at me, mademoiselle? Do you suppose I am without
-
-feeling?”
-
-
-
-“I suppose you are always interfering with your own feelings, and those
-
-of other people, and dogmatizing about the irrationality of this, that,

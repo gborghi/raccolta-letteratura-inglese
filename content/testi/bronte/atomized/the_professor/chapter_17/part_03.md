@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 16 (part 3)"
+title: "The Professor — Chapter 16 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -14,15 +14,25 @@ tags:
 </nav>
 
 
+that is, between my desk and the [[Window|window]], where she was screened from the
+
+rush of the second division, and where no one could sneak behind her to
+
+listen.
+
+“Take a seat,” I said, placing a tabouret; and I made her sit down. I
+
+knew what I was doing would be considered a very strange thing, and,
+
+what was more, I did not care. Frances knew it also, and, I [[Fear|fear]], by an
+
+appearance of agitation and trembling, that she cared much. I drew from
+
 my pocket the rolled-up devoir.
-
-
 
 “This is yours, I suppose?” said I, addressing her in English, for I now
 
 felt sure she could speak English.
-
-
 
 “Yes,” she answered distinctly; and as I unrolled it and laid it out
 
@@ -31,8 +41,6 @@ flat on the desk before her with my hand upon it, and a pencil in that
 hand, I saw her moved, and, as it were, kindled; her depression beamed
 
 as a cloud might behind which the sun is burning.
-
-
 
 “This devoir has numerous faults,” said I. “It will take you some years
 
@@ -47,8 +55,6 @@ why they were errors, and how the words or phrases ought to have been
 written. In the course of this sobering process she became calm. I now
 
 went on:
-
-
 
 “As to the substance of your devoir, Mdlle. Henri, it has surprised me;
 
@@ -68,8 +74,6 @@ injustice, to derive free and full consolation from the consciousness of
 
 their strength and rarity.”
 
-
-
 “Strength and rarity!” I repeated to myself; “ay, the words are probably
 
 true,” for on looking up, I saw the sun had dissevered its screening
@@ -78,8 +82,6 @@ cloud, her countenance was transfigured, a smile shone in her eyes--a
 
 smile almost triumphant; it seemed to say--
 
-
-
 “I am glad you have been forced to discover so much of my [[Nature|nature]]; you
 
 need not so carefully moderate your language. Do you think I am myself a
@@ -87,8 +89,6 @@ need not so carefully moderate your language. Do you think I am myself a
 stranger to myself? What you tell me in terms so qualified, I have known
 
 fully from a [[Child|child]].”
-
-
 
 She did say this as plainly as a frank and flashing glance could, but
 
@@ -107,8 +107,6 @@ been expressed. So quick was the revulsion of feeling, I had not [[Time|time]] t
 check her triumph by reproof; ere I could contract my brows to a frown
 
 she had become serious and almost mournful-looking.
-
-
 
 “Thank you, sir,” said she, rising. There was gratitude both in her
 

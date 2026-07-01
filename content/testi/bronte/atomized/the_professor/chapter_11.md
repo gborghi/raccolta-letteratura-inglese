@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 10"
+title: "The Professor — Chapter 10"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-professor-(bronte)"
@@ -16,8 +16,6 @@ tags:
 
 CHAPTER X.
 
-
-
 NEXT day the morning hours seemed to pass very slowly at M. Pelet’s; I
 
 wanted the afternoon to come that I might go again to the neighbouring
@@ -32,23 +30,15 @@ deep bell, tolling slowly two, marked the moment for which I had been
 
 waiting.
 
-
-
 At the foot of the narrow back-stairs that descended from my room, I met
 
 M. Pelet.
-
-
 
 “Comme vous avez l’air rayonnant!” said he. “Je ne vous ai jamais vu
 
 aussi gai. Que s’est-il donc passe?”
 
-
-
 “Apparemment que j’aime les changements,” replied I.
-
-
 
 “Ah! je comprends--c’est cela--soyez sage seulement. Vous etes bien
 
@@ -56,17 +46,11 @@ jeune--trop jeune pour le role que vous allez jouer; il faut prendre
 
 garde--savez-vous?”
 
-
-
 “Mais quel danger y a-t-il?”
-
-
 
 “Je n’en sais rien--ne vous laissez pas aller a de vives
 
 impressions--voila tout.”
-
-
 
 I laughed: a sentiment of exquisite pleasure played over my nerves at
 
@@ -83,8 +67,6 @@ some of anger. I broke from M. Pelet, and as I strode down the passage
 he followed me with one of his laughs--a very French, rakish, mocking
 
 sound.
-
-
 
 Again I stood at the neighbouring door, and soon was re-admitted into
 
@@ -116,8 +98,6 @@ mistress appeared, and I walked slowly along the corridor, side by side
 
 with Mdlle. Reuter.
 
-
-
 “Monsieur will give a lesson in the first class to-day,” said she;
 
 “dictation or reading will perhaps be the best thing to begin with, for
@@ -127,8 +107,6 @@ those are the easiest forms of communicating instruction in a foreign
 language; and, at the first, a master naturally feels a little
 
 unsettled.”
-
-
 
 She was quite right, as I had found from experience; it only remained
 
@@ -145,8 +123,6 @@ playground and [[Garden|garden]]; a broad staircase ascended spirally on the
 opposite side; the remaining wall showed a pair of great folding-doors,
 
 now closed, and admitting, doubtless, to the classes.
-
-
 
 Mdlle. Reuter turned her eye laterally on me, to ascertain, probably,
 
@@ -180,8 +156,6 @@ tableau; a wet sponge appeared beside the [[chalk]], to enable me to efface
 
 the marks when they had served the purpose intended.
 
-
-
 I carefully and deliberately made these observations before allowing
 
 myself to take one glance at the benches before me; having handled the
@@ -191,8 +165,6 @@ crayon, looked back at the tableau, fingered the sponge in order to
 ascertain that it was in a right state of moisture, I found myself cool
 
 enough to admit of looking calmly up and gazing deliberately round me.
-
-
 
 And first I observed that Mdlle. Reuter had already glided away, she
 
@@ -224,11 +196,7 @@ the first view like a stoic; I was dazzled, my eyes fell, and in a voice
 
 somewhat too low I murmured--
 
-
-
 “Prenez vos cahiers de dictee, mesdemoiselles.”
-
-
 
 Not so had I bid the boys at Pelet’s take their reading-books. A
 
@@ -238,23 +206,13 @@ momentarily screened the heads bent down to search for exercise-books, I
 
 heard tittering and whispers.
 
-
-
 “Eulalie, je suis prete a pleuer de rire,” observed one.
-
-
 
 “Comme il a rougi en parlant!”
 
-
-
 “Oui, c’est un veritable blanc-bec.”
 
-
-
 “Tais-toi, Hortense--il nous ecoute.”
-
-
 
 And now the lids sank and the heads reappeared; I had marked three, the
 
@@ -271,8 +229,6 @@ dark nun-like robes and softly braided hair, were a kind of half-angels.
 The light titter, the giddy whisper, had already in some measure
 
 relieved my mind of that fond and oppressive fancy.
-
-
 
 The three I allude to were just in front, within half a yard of my
 
@@ -306,8 +262,6 @@ there were frolic and mischief in her eye: consistency and good sense
 
 she might possess, but none of her features betokened those qualities.
 
-
-
 Caroline was little, though evidently full grown; raven-black hair,
 
 very dark eyes, absolutely regular features, with a colourless olive
@@ -328,8 +282,6 @@ sensual now, and in ten years’ [[Time|time]] she would be coarse--promise plai
 
 was written in her face of much future folly.
 
-
-
 If I looked at these girls with little scruple, they looked at me
 
 with still less. Eulalie raised her unmoved eye to mine, and seemed to
@@ -340,11 +292,7 @@ charms. Hortense regarded me boldly, and giggled at the same [[Time|time]], whil
 
 she said, with an air of impudent [[Freedom|freedom]]--
 
-
-
 “Dictez-nous quelquechose de facile pour commencer, monsieur.”
-
-
 
 Caroline shook her loose ringlets of abundant but somewhat coarse hair
 
@@ -372,13 +320,9 @@ five minutes I had buckled on a breast-plate of steely indifference, and
 
 let down a visor of impassible austerity.
 
-
-
 “Take your pens and commence writing,” said I, in as dry and trite a
 
 voice as if I had been addressing only Jules Vanderkelkov and Co.
-
-
 
 The dictee now commenced. My three belles interrupted me perpetually
 
@@ -388,67 +332,39 @@ made no answer, and to others replied very quietly and briefly. “Comment
 
 dit-on point et virgule en Anglais, monsieur?”
 
-
-
 “Semi-colon, mademoiselle.”
-
-
 
 “Semi-collong? Ah, comme c’est drole!” (giggle.)
 
-
-
 “J’ai une si mauvaise plume--impossible d’ecrire!”
-
-
 
 “Mais, monsieur--je ne sais pas suivre--vous allez si vite.”
 
-
-
 “Je n’ai rien compris, moi!”
-
-
 
 Here a general murmur arose, and the teacher, opening her lips for the
 
 first [[Time|time]], ejaculated--
 
-
-
 “[[Silence]], mesdemoiselles!”
-
-
 
 No [[Silence|silence]] followed--on the contrary, the three ladies in front began to
 
 talk more loudly.
 
-
-
 “C’est si difficile, l’Anglais!”
-
-
 
 “Je deteste la dictee.”
 
-
-
 “Quel ennui d’ecrire quelquechose que l’on ne comprend pas!”
-
-
 
 Some of those behind laughed: a degree of confusion began to pervade the
 
 class; it was necessary to take prompt measures.
 
-
-
 “Donnez-moi votre cahier,” said I to Eulalie in an abrupt tone; and
 
 bending over, I took it before she had [[Time|time]] to give it.
-
-
 
 “Et vous, mademoiselle--donnez-moi le votre,” continued I, more mildly,
 
@@ -470,19 +386,13 @@ faults of orthography. I coolly read aloud both exercises, marking the
 
 faults--then I looked at Eulalie:
 
-
-
 “C’est honteux!” said I, and I deliberately tore her dictation in four
 
 parts, and presented her with the fragments. I returned Sylvie her book
 
 with a smile, saying--
 
-
-
 “C’est bien--je suis content de vous.”
-
-
 
 Sylvie looked calmly pleased, Eulalie swelled like an incensed turkey,
 
@@ -491,8 +401,6 @@ but the mutiny was quelled: the conceited coquetry and futile flirtation
 of the first bench were exchanged for a taciturn sullenness, much more
 
 convenient to me, and the rest of my lesson passed without interruption.
-
-
 
 A bell clanging out in the yard announced the moment for the cessation
 
@@ -508,13 +416,9 @@ inner class, where I knew near a hundred were prisoned, and whose rising
 
 tumult I already heard.
 
-
-
 I had scarcely crossed the hall and gained the corridor, when Mdlle.
 
 Reuter came again upon me.
-
-
 
 “Step in here a moment,” said she, and she held open the door of
 
@@ -538,23 +442,17 @@ ranks, and yet this was considered one of the best-conducted schools in
 
 Brussels.
 
-
-
 “[[Well]], you have given your first lesson,” began Mdlle. Reuter in the
 
 most calm, equable voice, as though quite unconscious of the chaos from
 
 which we were separated only by a single wall.
 
-
-
 “Were you satisfied with your pupils, or did any circumstance in their
 
 conduct give you cause for complaint? Conceal nothing from me, repose in
 
 me entire confidence.”
-
-
 
 Happily, I felt in myself complete power to manage my pupils without
 
@@ -572,19 +470,11 @@ complain to Mdlle. Reuter, and I received her considerate invitation to
 
 confidence with a smile.
 
-
-
 “A thousand thanks, mademoiselle, all has gone very smoothly.”
-
-
 
 She looked more than doubtful.
 
-
-
 “Et les trois demoiselles du premier banc?” said she.
-
-
 
 “Ah! tout va au mieux!” was my answer, and Mdlle. Reuter ceased to
 
@@ -597,8 +487,6 @@ me; it let out a momentary gleam, which said plainly, “Be as close as
 you like, I am not dependent on your candour; what you would conceal I
 
 already know.”
-
-
 
 By a transition so quiet as to be scarcely perceptible, the directress’s
 
@@ -642,8 +530,6 @@ professor in her establishment, and she wanted to know where her mind
 
 was superior to mine--by what feeling or opinion she could lead me.
 
-
-
 I enjoyed the game much, and did not hasten its conclusion; sometimes I
 
 gave her hopes, beginning a sentence rather weakly, when her shrewd eye
@@ -671,8 +557,6 @@ her to give me a straightforward look; this last test went against
 me: it left her as it found her--moderate, temperate, tranquil; me it
 
 disappointed.
-
-
 
 “I am growing wiser,” thought I, as I walked back to M. Pelet’s. “Look
 

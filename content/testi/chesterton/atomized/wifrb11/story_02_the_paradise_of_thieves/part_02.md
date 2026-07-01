@@ -1,5 +1,5 @@
 ---
-title: "[[wifrb11]] — The Paradise of Thieves (part 2)"
+title: "wifrb11 — The Paradise of Thieves (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_02_the_paradise_of_thieves/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_02_the_paradise_of_thieves/part_03">part 03 ›</a></div>
 </nav>
 
+
+     Mr Harrogate, the great financier, did indeed enter the room,
+but nobody looked at him.  He was a massive elderly man with
+a boiled blue eye and faded grey-sandy moustaches; but for
+his heavy stoop he might have been a colonel.  He carried several
+unopened letters in his hand.  His son Frank was a really fine lad,
+curly-haired, sun-burnt and strenuous; but nobody looked at him either. 
+All eyes, as usual, were riveted, for the moment at least,
+upon Ethel Harrogate, whose golden Greek head and colour of the [[Dawn|dawn]]
+seemed set purposely above that sapphire sea, like a goddess's. 
+The poet Muscari drew a deep breath as if he were drinking something,
+as indeed he was.  He was drinking the Classic; which his fathers made. 
+Ezza studied her with a gaze equally intense and far more baffling.
 
      Miss Harrogate was specially radiant and ready for conversation
 on this occasion; and her family had fallen into the easier
@@ -114,25 +127,3 @@ of the little priest of the restaurant; he alleged merely
 that business led him also to [[Cross|cross]] the [[Mountains|mountains]] of the midland. 
 But young Harrogate could not but connect his presence with
 the mystical fears and warnings of yesterday.
-
-     The coach was a kind of commodious wagonette, invented by
-the modernist talent of the courier, who dominated the expedition
-with his scientific activity and breezy wit.  The theory of danger from
-thieves was banished from thought and speech; though so far conceded
-in formal act that some slight protection was employed.  The courier
-and the young banker carried loaded revolvers, and Muscari
-(with much boyish gratification) buckled on a kind of cutlass
-under his black cloak.
-
-     He had planted his person at a flying leap next to
-the lovely Englishwoman; on the other side of her sat the priest,
-whose name was Brown and who was fortunately a silent individual;
-the courier and the father and son were on the banc behind. 
-Muscari was in towering spirits, seriously believing in the peril,
-and his talk to Ethel might [[Well|well]] have made her think him a maniac. 
-But there was something in the crazy and gorgeous ascent,
-amid crags like peaks loaded with woods like orchards, that dragged
-her spirit up [[Alone|alone]] with his into purple preposterous heavens
-with wheeling suns.  The white [[Road|road]] climbed like a white cat;
-it spanned sunless chasms like a tight-rope; it was flung round
-far-off headlands like a lasso.

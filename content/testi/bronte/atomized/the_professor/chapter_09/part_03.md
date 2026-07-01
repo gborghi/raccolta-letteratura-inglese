@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 8 (part 3)"
+title: "The Professor — Chapter 8 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_professor/chapter_09/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/the_professor/chapter_11/part_01">part 01 ›</a></div>
 </nav>
 
+
+if you are good, I will keep your secret, and not tell her how [[Well|well]] you
+
+can flatter. Now, listen what sort of a proposal she makes to you. She
+
+has heard that you are an excellent professor, and as she wishes to get
 
 the very best masters for her school (car Zoraide fait tout comme une
 
@@ -36,11 +42,7 @@ daughter, I mean; she is so discreet and circumspect herself, she cannot
 
 understand that one should find a pleasure in gossiping a little--”
 
-
-
 “C’est absolument comme mon fils!” cried Madame Pelet.
-
-
 
 “All the world is so changed since our girlhood!” rejoined the other:
 
@@ -58,8 +60,6 @@ you from M. Pelet himself, and be sure you never mention my name, for I
 
 would not displease Zoraide on any account.”
 
-
-
 “Bien! bien!” interrupted I--for all this chatter and circumlocution
 
 began to bore me very much; “I will consult M. Pelet, and the thing
@@ -68,23 +68,15 @@ shall be settled as you [[Desire|desire]]. Good evening, mesdames--I am infinite
 
 obliged to you.”
 
-
-
 “Comment! vous vous en allez deja?” exclaimed Madame Pelet.
-
-
 
 “Prenez encore quelquechose, monsieur; une pomme cuite, des biscuits,
 
 encore une tasse de cafe?”
 
-
-
 “Merci, merci, madame--au revoir.” And I backed at last out of the
 
 apartment.
-
-
 
 Having regained my own room, I set myself to turn over in my mind
 

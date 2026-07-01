@@ -16,7 +16,6 @@ tags:
 
 A DEFENCE OF PLANETS
 
-
 A book has at one [[Time|time]] come under my notice called 'Terra Firma: the
 Earth not a Planet.' The author was a Mr. D. Wardlaw Scott, and he
 quoted very seriously the opinions of a large number of other persons,
@@ -153,6 +152,5 @@ proud of what our star has wrought, and worn its heraldry haughtily in
 the blind tournament of the spheres. All this, indeed, we may surely do
 yet; for with all the multiplicity of knowledge there is one thing
 happily that no man knows: whether the world is old or young.
-
 
        *       *       *       *       *

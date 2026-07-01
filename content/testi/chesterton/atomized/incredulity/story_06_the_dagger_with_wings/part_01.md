@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity]] — The Dagger with Wings (part 1)"
+title: "Incredulity — The Dagger with Wings (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-(chesterton)"
@@ -117,16 +117,16 @@ any more than any other time?'
 
 `That had occurred to me, as you may imagine,' answered Dr Boyne.
 `He does give a reason, but I confess it is one of the things that make
-me [[Wonder|wonder]] whether the whole thing isn't only the whim of some half--
+me wonder whether the whole thing isn't only the whim of some half--
 witted crank.  He declared that all his servants have suddenly gone on
 strike and left him, so that he is obliged to call on the police to look
-after his [[house]].  And on making inquiries, I certainly do find that there
-has been a general exodus of servants from that [[house]] on the [[Hill|hill]]; and of
+after his house.  And on making inquiries, I certainly do find that there
+has been a general exodus of servants from that house on the hill; and of
 course the town is full of tales, very one--sided tales I dare say.
 Their account of it seems to be that their employer had become quite
 impossible in his fidgets and fears and exactions; that he wanted them to
-guard the [[house]] like sentries, or sit up like [[Night|night]] nurses in a hospital;
-that they could never be left [[Alone|alone]] because he must never be left [[Alone|alone]].
+guard the house like sentries, or sit up like night nurses in a hospital;
+that they could never be left alone because he must never be left alone.
 So they all announced in a loud voice that he was a lunatic, and left.
 Of course that does not prove he is a lunatic; but it seems rather rum
 nowadays for a man to expect his valet or his parlour--maid to act

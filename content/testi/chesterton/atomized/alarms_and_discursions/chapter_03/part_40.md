@@ -14,128 +14,114 @@ tags:
 </nav>
 
 
-Also (it may be necessary to explain) I do not mean "high planes"
-such as the Theosophists and the Higher Thought Centres talk about.
-They spell theirs differently; but I will not have theirs
-in any spelling.  They, I know, are always expounding how this
-or that person is on a lower plane, while they (the speakers)
-are on a higher plane:  sometimes they will almost tell you what plane,
-as "599a" or "Plane F, sub-plane 304."  I do not mean this sort
-of height either.  My religion says nothing about such planes except
-that all men are on one plane and that by no means a high one.
-There are saints indeed in my religion:  but a saint only means
-a man who really knows he is a sinner.
+For three burning minutes Cyril Vernon-[[smith|Smith]] was nearer to the people
+and more their brother than he had been in his whole high-stepping
+pedantic existence; for if he did not [[Love|love]] a poor man, he hated one.
+And you never really regard a labourer as your equal until you
+can quarrel with him.  "Dirty cad!" he muttered.  "Filthy [[Fool|fool]]!
+Mucking with [[Snow|snow]] like a beastly baby!  When will they be civilised?
+Why, the very state of the street is a disgrace and a [[Temptation|temptation]]
+to such tomfools.  Why isn't all this [[Snow|snow]] cleared away and the
+street made decent?"
 
-Why then should I talk of the plains as high?  I do it for a
-rather singular reason, which I will illustrate by a parallel.
-When I was at school learning all the Greek I have ever forgotten,
-I was puzzled by the phrase _oinon melan_, that is "black wine,"
-which continually occurred.  I asked what it meant, and many most
-interesting and convincing answers were given.  It was pointed
-out that we know little of the actual liquid drunk by the Greeks;
-that the analogy of modern Greek wines may suggest that it was
-dark and sticky, perhaps a sort of syrup always taken with [[Water|water]];
-that archaic language about colour is always a little dubious,
-as where Homer speaks of the "wine-dark sea" and so on.  I was very
-properly satisfied, and never thought of the matter again; until one day,
-having a decanter of claret in front of me, I happened to look at it.
-I then perceived that they called wine black because it is black.
-Very thin, diluted, or held-up abruptly against a flame, red wine is red;
-but seen in [[Body|body]] in most normal shades and semi-lights red wine
-is black, and therefore was called so.
+To the eye of efficiency, there was, indeed, something to complain
+of in the condition of the [[Road|road]].  [[Snow]] was banked up on both
+sides in white walls and towards the other and darker end
+of the street even [[Rose|rose]] into a chaos of low colourless hills.
+By the [[Time|time]] he reached them he was nearly knee deep, and was
+in a far from philanthropic frame of mind.  The [[Solitude|solitude]] of
+the little streets was as strange as their white obstruction,
+and before he had ploughed his way much further he was convinced
+that he had taken a wrong turning, and fallen upon some formless
+suburb unvisited before.  There was no light in any of the low,
+dark houses; no light in anything but the blank emphatic [[Snow|snow]].
+He was modern and morbid; hellish isolation hit and held him suddenly;
+anything human would have relieved the strain, if it had been only
+the leap of a garotter.  Then the tender human touch came indeed;
+for another snowball struck him, and made a star on his back.
+He turned with fierce joy, and ran after a boy escaping;
+ran with dizzy and violent [[Speed|speed]], he knew not for how long.
+He wanted the boy; he did not know whether he loved or hated him.
+He wanted humanity; he did not know whether he loved or hated it.
 
-On the same principles I call the plains high because the
-plains always are high; they are always as high as we are.
-We talk of climbing a mountain crest and looking down at the plain;
-but the phrase is an illusion of our arrogance.  It is impossible even
-to look down at the plain.  For the plain itself rises as we rise.
-It is not merely true that the higher we climb the wider and wider
-is spread out below us the wealth of the world; it is not merely
-that the devil or some other respectable guide for tourists takes us
-to the top of an exceeding high mountain and shows us all the kingdoms
-of the earth.  It is more than that, in our real feeling of it.
-It is that in a sense the whole world rises with us roaring,
-and accompanies us to the crest like some clanging [[Chorus|chorus]] of eagles.
-The plains rise higher and higher like swift grey walls piled up
-against invisible invaders.  And however high a peak you climb,
-the plain is still as high as the peak.
+As he ran he realised that the landscape around him was changing
+in shape though not in colour.  The houses seemed to dwindle and
+disappear in hills of [[Snow|snow]] as if buried; the [[Snow|snow]] seemed to rise
+in tattered outlines of crag and cliff and crest, but he thought
+nothing of all these impossibilities until the boy turned to bay.
+When he did he saw the [[Child|child]] was queerly beautiful, with gold
+red hair, and a face as serious as complete happiness.
+And when he spoke to the boy his own question surprised him,
+for he said for the first [[Time|time]] in his life, "What am I doing here?"
+And the little boy, with very [[Grave|grave]] eyes, answered, "I suppose
+you are dead."
 
-The mountain tops are only noble because from them we are privileged
-to behold the plains.  So the only value in any man being superior is
-that he may have a superior admiration for the level and the common.
-If there is any profit in a place craggy and precipitous it is
-only because from the vale it is not easy to see all the [[Beauty|beauty]]
-of the vale; because when actually in the flats one cannot
-see their [[Sublime|sublime]] and satisfying flatness.  If there is any
-value in being educated or eminent (which is doubtful enough)
-it is only because the best instructed man may feel most swiftly
-and certainly the splendour of the ignorant and the simple:
-the full magnificence of that mighty human army in the plains.
-The general goes up to the [[Hill|hill]] to look at his soldiers, not to look
-down at his soldiers.  He withdraws himself not because his regiment
-is too small to be touched, but because it is too mighty to be seen.
-The chief climbs with submission and goes higher with great [[Humility|humility]];
-since in order to take a bird's eye view of everything, he must
-become small and distant like a bird.
+He had (also for the first [[Time|time]]) a [[Doubt|doubt]] of his spiritual destiny.
+He looked round on a towering landscape of frozen peaks and plains,
+and said, "Is this hell?"  And as the [[Child|child]] stared, but did not answer,
+he knew it was heaven.
 
-The most marvellous of those mystical cavaliers who wrote intricate
-and exquisite verse in England in the seventeenth century, I mean
-Henry Vaughan, put the matter in one line, intrinsically immortal
-and practically forgotten--
+All over that colossal country, white as the world round
+the Pole, little boys were playing, [[rolling]] each other down
+dreadful slopes, crushing each other under falling cliffs;
+for heaven is a place where one can fight for ever without hurting.
+[[smith|Smith]] suddenly remembered how happy he had been as a [[Child|child]],
+[[rolling]] about on the safe sandhills around Conway.
 
-"Oh holy [[Hope|hope]] and high [[Humility|humility]]."
+Right above [[smith|Smith]]'s head, higher than the [[Cross|cross]] of St. Paul's,
+but curving over him like the hanging blossom of a harebell, was a
+cavernous crag of [[Snow|snow]].  A hundred feet below him, like a landscape
+seen from a balloon, lay snowy flats as white and as far away.
+He saw a little boy stagger, with many catastrophic slides,
+to that toppling peak; and seizing another little boy by the leg,
+send him flying away down to the distant silver plains.
+There he sank and vanished in the [[Snow|snow]] as if in the sea;
+but coming up again like a diver rushed madly up the steep once more,
+[[rolling]] before him a great gathering snowball, gigantic at last,
+which he hurled back at the mountain crest, and brought both the boy
+and the mountain down in one avalanche to the level of the vale.
+The other boy also sank like a stone, and also [[Rose|rose]] again like
+a bird, but [[smith|Smith]] had no leisure to concern himself with this.
+For the collapse of that celestial crest had left him standing
+solitary in the sky on a peak like a church spire.
 
-That adjective "high" is not only one of the sudden and stunning
-inspirations of literature; it is also one of the greatest and gravest
-definitions of moral science.  However far aloft a man may go,
-he is still looking up, not only at God (which is obvious),
-but in a manner at men also:  seeing more and more all that is towering
-and mysterious in the dignity and destiny of the lonely [[house]] of Adam.
-I wrote some part of these rambling remarks on a high ridge
-of rock and turf overlooking a stretch of the central counties;
-the rise was slight enough in reality, but the immediate ascent
-had been so steep and sudden that one could not avoid the fancy
-that on reaching the summit one would look down at the [[Stars|stars]].
-But one did not look down at the [[Stars|stars]], but rather up at the cities;
-seeing as high in heaven the palace town of Alfred like a lit sunset
-cloud, and away in the void spaces, like a planet in eclipse, Salisbury.
-So, it may be hoped, until we die you and I will always look up
-rather than down at the labours and the habitations of our race;
-we will lift up our eyes to the valleys from whence cometh our help.
-For from every special eminence and beyond every [[Sublime|sublime]] landmark,
-it is good for our souls to see only vaster and vaster visions
-of that dizzy and divine level; and to behold from our crumbling
-turrets the tall plains of equality.
+He could see the tiny figures of the boys in the valley below, and he knew
+by their attitudes that they were eagerly telling him to jump.
+Then for the first [[Time|time]] he knew the [[Nature|nature]] of [[Faith|faith]], as he had just
+known the fierce [[Nature|nature]] of [[Charity|charity]].  Or rather for the second [[Time|time]],
+for he remembered one moment when he had known [[Faith|faith]] before.
+It was when his father had taught him to swim, and he had believed
+he could float on [[Water|water]] not only against reason, but (what is
+so much harder) against instinct.  Then he had trusted [[Water|water]];
+now he must trust air.
+
+He jumped.  He went through air and then through [[Snow|snow]] with the same
+blinding swiftness.  But as he buried himself in solid [[Snow|snow]] like a bullet
+he seemed to learn a million things and to learn them all too fast.
+He knew that the whole world is a snowball, and that all the [[Stars|stars]]
+are snowballs.  He knew that no man will be fit for heaven till
+he loves solid whiteness as a little boy loves a ball of [[Snow|snow]].
+
+He sank and sank and sank ... and then, as usually happens in such cases,
+woke up, with a start--in the street.  True, he was taken up
+for a common drunk, but (if you properly appreciate his [[conversion]])
+you will realise that he did not mind; since the crime of drunkenness
+is infinitely less than that of spiritual [[Pride|pride]], of which he had
+really been guilty.
 
 -/-
 
-The [[Chorus]]
+The High Plains
 
-ONE of the most marked instances of the decline of true popular sympathy
-is the gradual disappearance in our [[Time|time]] of the habit of singing
-in [[Chorus|chorus]].  Even when it is done nowadays it is done tentatively
-and sometimes inaudibly; apparently upon some preposterous principle
-(which I have never clearly grasped) that singing is an art.
-In the new aristocracy of the drawing-room a lady is actually
-asked whether she sings.  In the old [[democracy]] of the dinner
-table a man was simply told to sing, and he had to do it.
-I like the atmosphere of those old banquets.  I like to think
-of my ancestors, middle-aged or venerable gentlemen, all sitting
-round a table and explaining that they would never forget old days
-or friends with a rumpty-iddity-iddity, or letting it be known that
-they would die for England's glory with their tooral ooral, etc.
-Even the vices of that society (which sometimes, I [[Fear|fear]],
-rendered the narrative portions of the [[Song|song]] almost as cryptic
-and inarticulate as the [[Chorus|chorus]]) were displayed with a more human
-softening than the same vices in the saloon bars of our own [[Time|time]].
-I greatly prefer Mr. [[Richard]] Swiveller to Mr. Stanley Ortheris.
-I prefer the man who exceeded in rosy wine in order that the wing
-of [[Friendship|friendship]] might never moult a feather to the man who exceeds
-quite as much in whiskies and sodas, but declares all the [[Time|time]] that
-he's for number one, and that you don't catch him paying for other
-men's drinks.  The old men of pleasure (with their tooral ooral)
-got at least some social and communal virtue out of pleasure.
-The new men of pleasure (without the slightest vestige of a
-tooral ooral) are simply hermits of irreligion instead of religion,
-anchorites of atheism, and they might as [[Well|well]] be drugging themselves
-with hashish or opium in a wilderness.
+BY high plains I do not mean table-lands; table-lands do not interest
+one very much.  They seem to involve the bore of a climb without
+the pleasure of a peak.  Also they are vaguely associated with Asia
+and those enormous armies that eat up everything like locusts,
+as did the army of Xerxes; with emperors from nowhere spreading
+their battalions everywhere; with the white elephants and the
+painted horses, the dark engines and the dreadful mounted bowmen
+of the moving empires of the East, with all that evil insolence
+in short that rolled into Europe in the youth of Nero, and after
+having been battered about and abandoned by one Christian nation
+after another, turned up in England with Disraeli and was christened
+(or rather paganed) Imperialism.

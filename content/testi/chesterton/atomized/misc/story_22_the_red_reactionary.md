@@ -1,5 +1,5 @@
 ---
-title: "[[misc]] — THE RED REACTIONARY"
+title: "misc — THE RED REACTIONARY"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 THE RED REACTIONARY
-
 
 The one case for Revolution is that it is the only quite
 clean and complete [[Road|road]] to anything--even to restoration.

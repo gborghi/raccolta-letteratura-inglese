@@ -88,8 +88,8 @@ received for it a sum such as he had never seen in his life.
 Yet he had let the thing hang on his walls quite undisturbed
 probably through many periods of acute economic distress.
 Some of the exhibits were entirely wild and odd;
-but I am not sure that I did not like them as [[Well|well]] as any.
-One was a stuffed [[Lamb|lamb]] with an unnatural number of heads or legs
+but I am not sure that I did not like them as well as any.
+One was a stuffed lamb with an unnatural number of heads or legs
 or something, which had really been born on some country estate.
 Simple and uneducated people have no horror of physical monstrosities;
 just as educated people have no horror of moral monstrosities.
@@ -101,11 +101,11 @@ but the uncultivated for what is interesting.  For example,
 the more refined people concern themselves with literature--
 that is, with beautiful statements.  But simple people concern
 themselves with scandal--that is, with interesting statements.
-Interest often exists apart from [[Beauty|beauty]]; and interest
-is immeasurably better and more important than [[Beauty|beauty]].
+Interest often exists apart from beauty; and interest
+is immeasurably better and more important than beauty.
 I myself know a man who is beautiful and remarkably uninteresting.
 The distinction is one that affects religion and morals and the
-practical [[philosophy]] of living.  Existence often ceases to be beautiful;
+practical philosophy of living.  Existence often ceases to be beautiful;
 but if we are men at all it never ceases to be interesting.
 This divine creation in the midst of which we live does commonly,
 in the words of the good books, combine amusement with instruction.

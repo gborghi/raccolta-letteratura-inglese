@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 5 (part 3)"
+title: "Martin Chuzzlewit — Chapter 5 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_05/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_05/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘That’s probable enough,’ said Mr Pinch, ‘but I am not at all sure that
+Mrs Lupin would be glad of them. Why, I always supposed that Mrs Lupin
+and you would make a match of it, Mark; and so did every one, as far as
+I know.’
+
+‘I never,’ Mark replied, in some confusion, ‘said nothing as was in a
+direct way courting-like to her, nor she to me, but I don’t know what I
+mightn’t do one of these odd times, and what she mightn’t say in answer.
+[[Well]], sir, THAT wouldn’t suit.’
+
+‘Not to be landlord of the Dragon, Mark?’ cried Mr Pinch.
+
+‘No, sir, certainly not,’ returned the other, withdrawing his gaze from
+the horizon, and looking at his fellow-traveller. ‘Why that would be the
+ruin of a man like me. I go and sit down comfortably for life, and no
+man never finds me out. What would be the credit of the landlord of the
+Dragon’s being jolly? Why, he couldn’t help it, if he tried.’
 
 ‘Does Mrs Lupin know you are going to leave her?’ Mr Pinch inquired.
 
@@ -114,15 +132,3 @@ and turning to look back at one or two young men who passed him, whom
 he knew to be articled to solicitors in the town; and who had a sort of
 fearful interest in his eyes, as jolly [[dogs]] who knew a thing or two, and
 kept it up tremendously.
-
-But the shops. First of all there were the jewellers’ shops, with all
-the treasures of the earth displayed therein, and such large silver
-watches hanging up in every pane of glass, that if they were anything
-but first-rate goers it certainly was not because the works could
-decently complain of want of room. In good sooth they were big enough,
-and perhaps, as the saying is, ugly enough, to be the most correct of
-all mechanical performers; in Mr Pinch’s eyes, however they were smaller
-than Geneva ware; and when he saw one very bloated watch announced as a
-repeater, gifted with the uncommon power of striking every quarter of an
-hour inside the pocket of its happy owner, he almost wished that he were
-rich enough to buy it.

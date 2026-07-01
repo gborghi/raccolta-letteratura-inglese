@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 16"
+title: "Dombey and Son — Chapter 44"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,256 +14,473 @@ tags:
 </nav>
 
 
-CHAPTER XVI.
-What the Waves were always saying
+CHAPTER XLIV.
+A Separation
 
 
-Paul had never risen from his little bed. He lay there, listening to
-the noises in the street, quite tranquilly; not caring much how the
-[[Time|time]] went, but watching it and watching everything about him with
-observing eyes.
+With the day, though not so early as the sun, uprose Miss [[Susan Nipper]].
+There was a heaviness in this young maiden’s exceedingly sharp black
+eyes, that abated somewhat of their sparkling, and suggested—which was
+not their usual character—the possibility of their being sometimes
+shut. There was likewise a swollen look about them, as if they had been
+crying over-[[Night|night]]. But the Nipper, so far from being cast down, was
+singularly brisk and bold, and all her energies appeared to be braced
+up for some great feat. This was noticeable even in her dress, which
+was much more tight and trim than usual; and in occasional twitches of
+her head as she went about the [[house]], which were mightily expressive of
+determination.
 
-When the sunbeams struck into his room through the rustling blinds, and
-quivered on the opposite wall like golden [[Water|water]], he knew that evening
-was coming on, and that the sky was red and beautiful. As the
-reflection died away, and a gloom went creeping up the wall, he watched
-it deepen, deepen, deepen, into [[Night|night]]. Then he thought how the long
-streets were dotted with lamps, and how the peaceful [[Stars|stars]] were shining
-overhead. His fancy had a strange tendency to wander to the [[River|river]],
-which he knew was flowing through the great [[City|city]]; and now he thought
-how black it was, and how deep it would look, reflecting the hosts of
-[[Stars|stars]]—and more than all, how steadily it rolled away to meet the sea.
+In a word, she had formed a determination, and an aspiring one: it
+being nothing less than this—to penetrate to Mr Dombey’s presence, and
+have speech of that gentleman [[Alone|alone]]. “I have often said I would,” she
+remarked, in a threatening manner, to herself, that morning, with many
+twitches of her head, “and now I will!”
 
-As it grew later in the [[Night|night]], and footsteps in the street became so
-rare that he could hear them coming, count them as they passed, and
-lose them in the hollow distance, he would lie and watch the
-many-coloured ring about the candle, and wait patiently for day. His
-only trouble was, the swift and rapid [[River|river]]. He felt forced, sometimes,
-to try to stop it—to stem it with his childish hands—or choke its way
-with sand—and when he saw it coming on, resistless, he cried out! But a
-word from Florence, who was always at his side, restored him to
-himself; and leaning his poor head upon her breast, he told Floy of his
-dream, and smiled.
+Spurring herself on to the accomplishment of this desperate design,
+with a sharpness that was peculiar to herself, [[Susan Nipper]] haunted the
+hall and staircase during the whole forenoon, without finding a
+favourable opportunity for the assault. Not at all baffled by this
+discomfiture, which indeed had a stimulating effect, and put her on her
+mettle, she diminished nothing of her vigilance; and at last
+discovered, towards evening, that her sworn foe Mrs Pipchin, under
+pretence of having sat up all [[Night|night]], was dozing in her own room, and
+that Mr Dombey was lying on his sofa, unattended.
 
-When day began to [[Dawn|dawn]] again, he watched for the sun; and when its
-cheerful light began to sparkle in the room, he pictured to
-himself—pictured! he saw—the high church towers rising up into the
-morning sky, the town reviving, waking, starting into life once more,
-the [[River|river]] glistening as it rolled (but [[rolling]] fast as ever), and the
-country bright with dew. Familiar sounds and cries came by degrees into
-the street below; the servants in the [[house]] were roused and busy; faces
-looked in at the door, and voices asked his attendants softly how he
-was. Paul always answered for himself, “I am better. I am a great deal
-better, thank you! Tell Papa so!”
+With a twitch—not of her head merely, this [[Time|time]], but of her whole
+[[Self|self]]—the Nipper went on tiptoe to Mr Dombey’s door, and knocked. “Come
+in!” said Mr Dombey. Susan encouraged herself with a final twitch, and
+went in.
 
-By little and little, he got tired of the bustle of the day, the noise
-of carriages and carts, and people passing and repassing; and would
-fall asleep, or be troubled with a restless and uneasy sense again—the
-[[Child|child]] could hardly tell whether this were in his sleeping or his waking
-moments—of that rushing [[River|river]]. “Why, will it never stop, Floy?” he
-would sometimes ask her. “It is bearing me away, I think!”
+Mr Dombey, who was eyeing the [[Fire|fire]], gave an amazed look at his visitor,
+and raised himself a little on his arm. The Nipper dropped a curtsey.
 
-But Floy could always soothe and reassure him; and it was his daily
-delight to make her lay her head down on his pillow, and take some
-rest.
+“What do you want?” said Mr Dombey.
 
-“You are always watching me, Floy, let me watch you, now!” They would
-prop him up with cushions in a corner of his bed, and there he would
-recline the while she lay beside him: bending forward oftentimes to
-kiss her, and whispering to those who were near that she was tired, and
-how she had sat up so many nights beside him.
+“If you please, Sir, I wish to speak to you,” said Susan.
 
-Thus, the flush of the day, in its heat and light, would gradually
-decline; and again the golden [[Water|water]] would be dancing on the wall.
+Mr Dombey moved his lips as if he were repeating the words, but he
+seemed so lost in astonishment at the presumption of the young woman as
+to be incapable of giving them utterance.
 
-He was visited by as many as three [[Grave|grave]] doctors—they used to assemble
-downstairs, and come up together—and the room was so quiet, and Paul
-was so observant of them (though he never asked of anybody what they
-said), that he even knew the difference in the sound of their watches.
-But his interest centred in Sir Parker Peps, who always took his seat
-on the side of the bed. For Paul had heard them say long ago, that that
-gentleman had been with his Mama when she clasped Florence in her arms,
-and died. And he could not forget it, now. He liked him for it. He was
-not afraid.
+“I have been in your service, Sir,” said [[Susan Nipper]], with her usual
+rapidity, “now twelve “year a waiting on Miss Floy my own young lady
+who couldn’t speak plain when I first come here and I was old in this
+[[house]] when Mrs Richards was new, I may not be Meethosalem, but I am not
+a [[Child|child]] in arms.”
 
-The people round him changed as unaccountably as on that first [[Night|night]] at
-Doctor Blimber’s—except Florence; Florence never changed—and what had
-been Sir Parker Peps, was now his father, sitting with his head upon
-his hand. Old Mrs Pipchin dozing in an easy chair, often changed to
-Miss Tox, or his aunt; and Paul was quite content to shut his eyes
-again, and see what happened next, without emotion. But this figure
-with its head upon its hand returned so often, and remained so long,
-and sat so still and solemn, never speaking, never being spoken to, and
-rarely lifting up its face, that Paul began to [[Wonder|wonder]] languidly, if it
-were real; and in the [[Night|night]]-[[Time|time]] saw it sitting there, with [[Fear|fear]].
+Mr Dombey, raised upon his arm and looking at her, offered no comment
+on this preparatory statement of fact.
 
-“Floy!” he said. “What is that?”
+“There never was a dearer or a blesseder young lady than is my young
+lady, Sir,” said Susan, “and I ought to know a great deal better than
+some for I have seen her in her grief and I have seen her in her joy
+(there’s not been much of it) and I have seen her with her brother and
+I have seen her in her [[Loneliness|loneliness]] and some have never seen her, and I
+say to some and all—I do!” and here the black-eyed shook her head, and
+slightly stamped her foot; “that she’s the blessedest and dearest angel
+is Miss Floy that ever drew the breath of life, the more that I was
+torn to pieces Sir the more I’d say it though I may not be a Fox’s
+Martyr.”
 
-“Where, dearest?”
+Mr Dombey turned yet paler than his fall had made him, with indignation
+and astonishment; and kept his eyes upon the speaker as if he accused
+them, and his ears too, of playing him false.
 
-“There! at the [[Bottom|bottom]] of the bed.”
+“No one could be anything but true and faithful to Miss Floy, Sir,”
+pursued Susan, “and I take no merit for my service of twelve year, for
+I [[Love|love]] her—yes, I say to some and all I do!”—and here the black-eyed
+shook her head again, and slightly stamped her foot again, and checked
+a sob; “but true and faithful service gives me right to speak I [[Hope|hope]],
+and speak I must and will now, right or wrong.”
 
-“There’s nothing there, except Papa!”
+“What do you mean, woman?” said Mr Dombey, glaring at her. “How do you
+dare?”
 
-The figure lifted up its head, and [[Rose|rose]], and coming to the bedside,
-said: “My own boy! Don’t you know me?”
+“What I mean, Sir, is to speak respectful and without offence, but out,
+and how I dare I know not but I do!” said Susan. “Oh! you don’t know my
+young lady Sir you don’t indeed, you’d never know so little of her, if
+you did.”
 
-Paul looked it in the face, and thought, was this his father? But the
-face so altered to his thinking, thrilled while he gazed, as if it were
-in [[Pain|pain]]; and before he could reach out both his hands to take it
-between them, and draw it towards him, the figure turned away quickly
-from the little bed, and went out at the door.
+Mr Dombey, in a fury, put his hand out for the bell-rope; but there was
+no bell-rope on that side of the [[Fire|fire]], and he could not rise and [[Cross|cross]]
+to the other without assistance. The quick eye of the Nipper detected
+his helplessness immediately, and now, as she afterwards observed, she
+felt she had got him.
 
-Paul looked at Florence with a fluttering heart, but he knew what she
-was going to say, and stopped her with his face against her lips. The
-next [[Time|time]] he observed the figure sitting at the [[Bottom|bottom]] of the bed, he
-called to it.
+“Miss Floy,” said [[Susan Nipper]], “is the most devoted and most patient
+and most dutiful and beautiful of daughters, there ain’t no gentleman,
+no Sir, though as great and rich as all the greatest and richest of
+England put together, but might be proud of her and would and ought. If
+he knew her value right, he’d rather lose his [[Greatness|greatness]] and his fortune
+piece by piece and beg his way in rags from door to door, I say to some
+and all, he would!” cried [[Susan Nipper]], bursting into [[Tears|tears]], “than
+bring the sorrow on her tender heart that I have seen it suffer in this
+[[house]]!”
 
-“Don’t be sorry for me, dear Papa! Indeed I am quite happy!”
+“Woman,” cried Mr Dombey, “leave the room.”
 
-His father coming and bending down to him—which he did quickly, and
-without first pausing by the bedside—Paul held him round the neck, and
-repeated those words to him several times, and very earnestly; and Paul
-never saw him in his room again at any [[Time|time]], whether it were day or
-[[Night|night]], but he called out, “Don’t be sorry for me! Indeed I am quite
-happy!” This was the beginning of his always saying in the morning that
-he was a great deal better, and that they were to tell his father so.
+“Begging your pardon, not even if I am to leave the situation, Sir,”
+replied the steadfast Nipper, “in which I have been so many years and
+seen so much—although I [[Hope|hope]] you’d never have the heart to send me from
+Miss Floy for such a cause—will I go now till I have said the rest, I
+may not be a Indian widow Sir and I am not and I would not so become
+but if I once made up my mind to burn myself alive, I’d do it! And I’ve
+made my mind up to go on.”
 
-How many times the golden [[Water|water]] danced upon the wall; how many nights
-the dark, dark [[River|river]] rolled towards the sea in spite of him; Paul never
-counted, never sought to know. If their kindness, or his sense of it,
-could have increased, they were more kind, and he more grateful every
-day; but whether they were many days or few, appeared of little moment
-now, to the gentle boy.
+Which was rendered no less clear by the expression of [[Susan Nipper]]’s
+countenance, than by her words.
 
-One [[Night|night]] he had been thinking of his mother, and her picture in the
-drawing-room downstairs, and thought she must have loved sweet Florence
-better than his father did, to have held her in her arms when she felt
-that she was dying—for even he, her brother, who had such dear [[Love|love]] for
-her, could have no greater wish than that. The train of thought
-suggested to him to inquire if he had ever seen his mother? for he
-could not remember whether they had told him, yes or no, the [[River|river]]
-running very fast, and confusing his mind.
+“There ain’t a person in your service, Sir,” pursued the black-eyed,
+“that has always stood more in awe of you than me and you may think how
+true it is when I make so bold as say that I have hundreds and hundreds
+of times thought of speaking to you and never been able to make my mind
+up to it till last [[Night|night]], but last [[Night|night]] decided of me.”
 
-“Floy, did I ever see Mama?”
+Mr Dombey, in a paroxysm of rage, made another grasp at the bell-rope
+that was not there, and, in its absence, pulled his hair rather than
+nothing.
 
-“No, darling, why?”
+“I have seen,” said [[Susan Nipper]], “Miss Floy strive and strive when
+nothing but a [[Child|child]] so sweet and patient that the best of women might
+have copied from her, I’ve seen her sitting nights together half the
+[[Night|night]] through to help her delicate brother with his learning, I’ve seen
+her helping him and watching him at other times—some [[Well|well]] know
+when—I’ve seen her, with no encouragement and no help, grow up to be a
+lady, thank God! that is the grace and [[Pride|pride]] of every company she goes
+in, and I’ve always seen her cruelly neglected and keenly feeling of
+it—I say to some and all, I have!—and never said one word, but ordering
+one’s [[Self|self]] lowly and reverently towards one’s betters, is not to be a
+worshipper of graven images, and I will and must speak!”
 
-“Did I ever see any kind face, like Mama’s, looking at me when I was a
-baby, Floy?”
+“Is there anybody there?” cried Mr Dombey, calling out. “Where are the
+men? where are the women? Is there no one there?”
 
-He asked, incredulously, as if he had some vision of a face before him.
+“I left my dear young lady out of bed late last [[Night|night]],” said Susan,
+nothing checked, “and I knew why, for you was ill Sir and she didn’t
+know how ill and that was enough to make her wretched as I saw it did.
+I may not be a Peacock; but I have my eyes—and I sat up a little in my
+own room thinking she might be lonesome and might want me, and I saw
+her steal downstairs and come to this door as if it was a guilty thing
+to look at her own Pa, and then steal back again and go into them
+lonely drawing-rooms, a-crying so, that I could hardly bear to hear it.
+I can not bear to hear it,” said [[Susan Nipper]], wiping her black eyes,
+and fixing them undauntingly on Mr Dombey’s infuriated face. “It’s not
+the first [[Time|time]] I have heard it, not by many and many a [[Time|time]] you don’t
+know your own daughter, Sir, you don’t know what you’re doing, Sir, I
+say to some and all,” cried [[Susan Nipper]], in a final burst, “that it’s
+a sinful shame!”
 
-“Oh yes, dear!”
+“Why, hoity toity!” cried the voice of Mrs Pipchin, as the black
+bombazeen garments of that fair Peruvian Miner swept into the room.
+“What’s this, indeed?”
 
-“Whose, Floy?”
+Susan favoured Mrs Pipchin with a look she had invented expressly for
+her when they first became acquainted, and resigned the reply to Mr
+Dombey.
 
-“Your old [[Nurse|nurse]]’s. Often.”
+“What’s this?” repeated Mr Dombey, almost foaming. “What’s this, Madam?
+You who are at the head of this household, and bound to keep it in
+order, have reason to inquire. Do you know this woman?”
 
-“And where is my old [[Nurse|nurse]]?” said Paul. “Is she dead too? Floy, are we
-all dead, except you?”
+“I know very little good of her, Sir,” croaked Mrs Pipchin. “How dare
+you come here, you hussy? Go along with you!”
 
-There was a hurry in the room, for an instant—longer, perhaps; but it
-seemed no more—then all was still again; and Florence, with her face
-quite colourless, but smiling, held his head upon her arm. Her arm
-trembled very much.
+But the inflexible Nipper, merely honouring Mrs Pipchin with another
+look, remained.
 
-“Show me that old [[Nurse|nurse]], Floy, if you please!”
+“Do you call it managing this establishment, Madam,” said Mr Dombey,
+“to leave a person like this at liberty to come and talk to me! A
+gentleman—in his own [[house]]—in his own room—assailed with the
+impertinences of women-servants!”
 
-“She is not here, darling. She shall come to-morrow.”
+“[[Well]], Sir,” returned Mrs Pipchin, with vengeance in her hard grey eye,
+“I exceedingly deplore it; nothing can be more irregular; nothing can
+be more out of all bounds and reason; but I regret to say, Sir, that
+this young woman is quite beyond control. She has been spoiled by Miss
+Dombey, and is amenable to nobody. You know you’re not,” said Mrs
+Pipchin, sharply, and shaking her head at [[Susan Nipper]]. “For shame, you
+hussy! Go along with you!”
 
-“Thank you, Floy!”
+“If you find people in my service who are not to be controlled, Mrs
+Pipchin,” said Mr Dombey, turning back towards the [[Fire|fire]], “you know what
+to do with them, I presume. You know what you are here for? Take her
+away!”
 
-Paul closed his eyes with those words, and fell asleep. When he awoke,
-the sun was high, and the broad day was clear and warm. He lay a
-little, looking at the windows, which were open, and the curtains
-rustling in the air, and waving to and fro: then he said, “Floy, is it
-tomorrow? Is she come?”
+“Sir, I know what to do,” retorted Mrs Pipchin, “and of course shall do
+it. [[Susan Nipper]],” snapping her up particularly short, “a month’s
+warning from this hour.”
 
-Someone seemed to go in [[Quest|quest]] of her. Perhaps it was Susan. Paul
-thought he heard her telling him when he had closed his eyes again,
-that she would soon be back; but he did not open them to see. She kept
-her word—perhaps she had never been away—but the next thing that
-happened was a noise of footsteps on the stairs, and then Paul
-woke—woke mind and [[Body|body]]—and sat upright in his bed. He saw them now
-about him. There was no grey mist before them, as there had been
-sometimes in the [[Night|night]]. He knew them every one, and called them by
-their names.
+“Oh indeed!” cried Susan, loftily.
 
-“And who is this? Is this my old [[Nurse|nurse]]?” said the [[Child|child]], regarding with
-a radiant smile, a figure coming in.
+“Yes,” returned Mrs Pipchin, “and don’t smile at me, you minx, or I’ll
+know the reason why! Go along with you this minute!”
 
-Yes, yes. No other stranger would have shed those [[Tears|tears]] at sight of
-him, and called him her dear boy, her pretty boy, her own poor blighted
-[[Child|child]]. No other woman would have stooped down by his bed, and taken up
-his wasted hand, and put it to her lips and breast, as one who had some
-right to fondle it. No other woman would have so forgotten everybody
-there but him and Floy, and been so full of tenderness and pity.
+“I intend to go this minute, you may rely upon it,” said the voluble
+Nipper. “I have been in this [[house]] waiting on my young lady a dozen
+year and I won’t stop in it one hour under notice from a person owning
+to the name of Pipchin trust me, Mrs P.”
 
-“Floy! this is a kind good face!” said Paul. “I am glad to see it
-again. Don’t go away, old [[Nurse|nurse]]! Stay here.”
+“A good riddance of bad rubbish!” said that wrathful old lady. “Get
+along with you, or I’ll have you carried out!”
 
-His senses were all quickened, and he heard a name he knew.
+“My comfort is,” said Susan, looking back at Mr Dombey, “that I have
+told a piece of [[Truth|truth]] this day which ought to have been told long
+before and can’t be told too often or too plain and that no amount of
+Pipchinses—I [[Hope|hope]] the number of ’em mayn’t be great” (here Mrs Pipchin
+uttered a very sharp “Go along with you!” and Miss Nipper repeated the
+look) “can unsay what I have said, though they gave a whole year full
+of warnings beginning at ten o’[[Clock|clock]] in the forenoon and never leaving
+off till twelve at [[Night|night]] and died of the exhaustion which would be a
+Jubilee!”
 
-“Who was that, who said ‘Walter’?” he asked, looking round. “Someone
-said Walter. Is he here? I should like to see him very much.”
+With these words, Miss Nipper preceded her foe out of the room; and
+walking upstairs to her own apartments in great state, to the choking
+exasperation of the ireful Pipchin, sat down among her boxes and began
+to cry.
 
-Nobody replied directly; but his father soon said to Susan, “Call him
-back, then: let him come up!” Alter a short pause of expectation,
-during which he looked with smiling interest and [[Wonder|wonder]], on his [[Nurse|nurse]],
-and saw that she had not forgotten Floy, Walter was brought into the
-room. His open face and manner, and his cheerful eyes, had always made
-him a favourite with Paul; and when Paul saw him, he stretched Out his
-hand, and said “Good-bye!”
+From this soft mood she was soon aroused, with a very wholesome and
+refreshing effect, by the voice of Mrs Pipchin outside the door.
 
-“Good-bye, my [[Child|child]]!” said Mrs Pipchin, hurrying to his bed’s head.
-“Not good-bye?”
+“Does that bold-faced slut,” said the fell Pipchin, “intend to take her
+warning, or does she not?”
 
-For an instant, Paul looked at her with the wistful face with which he
-had so often gazed upon her in his corner by the [[Fire|fire]]. “Yes,” he said
-placidly, “good-bye! Walter dear, good-bye!”—turning his head to where
-he stood, and putting out his hand again. “Where is Papa?”
+Miss Nipper replied from within that the person described did not
+inhabit that part of the [[house]], but that her name was Pipchin, and she
+was to be found in the housekeeper’s room.
 
-He felt his father’s breath upon his cheek, before the words had parted
-from his lips.
+“You saucy baggage!” retorted Mrs Pipchin, rattling at the handle of
+the door. “Go along with you this minute. Pack up your things directly!
+How dare you talk in this way to a gentle-woman who has seen better
+days?”
 
-“Remember Walter, dear Papa,” he whispered, looking in his face.
-“Remember Walter. I was fond of Walter!” The feeble hand waved in the
-air, as if it cried “good-bye!” to Walter once again.
+To which Miss Nipper rejoined from her [[Castle|castle]], that she pitied the
+better days that had seen Mrs Pipchin; and that for her part she
+considered the worst days in the year to be about that lady’s mark,
+except that they were much too good for her.
 
-“Now lay me down,” he said, “and, Floy, come close to me, and let me
-see you!”
+“But you needn’t trouble yourself to make a noise at my door,” said
+[[Susan Nipper]], “nor to contaminate the key-hole with your eye, I’m
+packing up and going you may take your affidavit.”
 
-Sister and brother wound their arms around each other, and the golden
-light came streaming in, and fell upon them, locked together.
+The Dowager expressed her lively satisfaction at this intelligence, and
+with some general opinions upon young hussies as a race, and especially
+upon their demerits after being spoiled by Miss Dombey, withdrew to
+prepare the Nipper’s wages. Susan then bestirred herself to get her
+trunks in order, that she might take an immediate and dignified
+departure; sobbing heartily all the [[Time|time]], as she thought of Florence.
 
-“How fast the [[River|river]] runs, between its green banks and the rushes, Floy!
-But it’s very near the sea. I hear the waves! They always said so!”
+[Illustration]
 
-Presently he told her the motion of the boat upon the stream was
-lulling him to rest. How green the banks were now, how bright the
-[[Flowers|flowers]] growing on them, and how tall the rushes! Now the boat was out
-at sea, but gliding smoothly on. And now there was a shore before him.
-Who stood on the bank?—
+The object of her regret was not long in coming to her, for the news
+soon spread over the [[house]] that [[Susan Nipper]] had had a disturbance with
+Mrs Pipchin, and that they had both appealed to Mr Dombey, and that
+there had been an unprecedented piece of work in Mr Dombey’s room, and
+that Susan was going. The latter part of this confused rumour, Florence
+found to be so correct, that Susan had locked the last trunk and was
+sitting upon it with her bonnet on, when she came into her room.
 
-He put his hands together, as he had been used to do at his prayers. He
-did not remove his arms to do it; but they saw him fold them so, behind
-her neck.
+“Susan!” cried Florence. “Going to leave me! You!”
 
-“Mama is like you, Floy. I know her by the face! But tell them that the
-print upon the stairs at school is not divine enough. The light about
-the head is shining on me as I go!”
+“Oh for goodness gracious sake, Miss Floy,” said Susan, sobbing, “don’t
+speak a word to me or I shall demean myself before them Pi-i-pchinses,
+and I wouldn’t have ’em see me cry Miss Floy for worlds!”
 
-The golden ripple on the wall came back again, and nothing else stirred
-in the room. The old, old fashion! The fashion that came in with our
-first garments, and will last unchanged until our race has run its
-course, and the wide firmament is rolled up like a scroll. The old, old
-fashion—[[Death]]!
+“Susan!” said Florence. “My dear girl, my old friend! What shall I do
+without you! Can you bear to go away so?”
 
-Oh thank GOD, all who see it, for that older fashion yet, of
-[[Immortality]]! And look upon us, angels of young children, with regards
-not quite estranged, when the swift [[River|river]] bears us to the ocean!
+“No-n-o-o, my darling dear Miss Floy, I can’t indeed,” sobbed Susan.
+“But it can’t be helped, I’ve done my duty, Miss, I have indeed. It’s
+no fault of mine. I am quite resigned. I couldn’t stay my month or I
+could never leave you then my darling and I must at last as [[Well|well]] as at
+first, don’t speak to me Miss Floy, for though I’m pretty firm I’m not
+a marble doorpost, my own dear.”
 
-“Dear me, dear me! To think,” said Miss Tox, bursting out afresh that
-[[Night|night]], as if her heart were broken, “that Dombey and Son should be a
-Daughter after all!”
+“What is it? Why is it?” said Florence, “Won’t you tell me?” For Susan
+was shaking her head.
+
+“No-n-no, my darling,” returned Susan. “Don’t ask me, for I mustn’t,
+and whatever you do don’t put in a word for me to stop, for it couldn’t
+be and you’d only wrong yourself, and so God bless you my own precious
+and forgive me any harm I have done, or any temper I have showed in all
+these many years!”
+
+With which entreaty, very heartily delivered, Susan hugged her mistress
+in her arms.
+
+“My darling there’s a many that may come to serve you and be glad to
+serve you and who’ll serve you [[Well|well]] and true,” said Susan, “but there
+can’t be one who’ll serve you so affectionate as me or [[Love|love]] you half as
+dearly, that’s my comfort. Go-ood-bye, sweet Miss Floy!”
+
+“Where will you go, Susan?” asked her weeping mistress.
+
+“I’ve got a brother down in the country Miss—a farmer in Essex,” said
+the heart-broken Nipper, “that keeps ever so many co-o-ows and pigs and
+I shall go down there by the coach and sto-op with him, and don’t mind
+me, for I’ve got money in the Savings Banks my dear, and needn’t take
+another service just yet, which I couldn’t, couldn’t, couldn’t do, my
+heart’s own mistress!” Susan finished with a burst of sorrow, which was
+opportunely broken by the voice of Mrs Pipchin talking downstairs; on
+hearing which, she dried her red and swollen eyes, and made a
+[[Melancholy|melancholy]] feint of calling jauntily to Mr Towlinson to fetch a cab and
+carry down her boxes.
+
+Florence, pale and hurried and distressed, but withheld from useless
+interference even here, by her dread of causing any new division
+between her father and his wife (whose stern, indignant face had been a
+warning to her a few moments since), and by her apprehension of being
+in some way unconsciously connected already with the dismissal of her
+old servant and friend, followed, weeping, downstairs to Edith’s
+dressing-room, whither Susan betook herself to make her parting
+curtsey.
+
+“Now, here’s the cab, and here’s the boxes, get along with you, do!”
+said Mrs Pipchin, presenting herself at the same moment. “I beg your
+pardon, Ma’am, but Mr Dombey’s orders are imperative.”
+
+Edith, sitting under the hands of her maid—she was going out to
+dinner—preserved her haughty face, and took not the least notice.
+
+“There’s your money,” said Mrs Pipchin, who, in pursuance of her
+system, and in recollection of the Mines, was accustomed to rout the
+servants about, as she had routed her young Brighton boarders; to the
+everlasting acidulation of Master Bitherstone, “and the sooner this
+[[house]] sees your back the better.”
+
+Susan had no spirits even for the look that belonged to Ma Pipchin by
+right; so she dropped her curtsey to Mrs Dombey (who inclined her head
+without one word, and whose eye avoided everyone but Florence), and
+gave one last parting hug to her young mistress, and received her
+parting embrace in return. Poor Susan’s face at this crisis, in the
+intensity of her feelings and the determined suffocation of her sobs,
+lest one should become audible and be a triumph to Mrs Pipchin,
+presented a series of the most extraordinary physiognomical phenomena
+ever witnessed.
+
+“I beg your pardon, Miss, I’m sure,” said Towlinson, outside the door
+with the boxes, addressing Florence, “but Mr Toots is in the
+drawing-room, and sends his compliments, and begs to know how Diogenes
+and Master is.”
+
+Quick as thought, Florence glided out and hastened downstairs, where Mr
+Toots, in the most splendid vestments, was breathing very hard with
+[[Doubt|doubt]] and agitation on the subject of her coming.
+
+“Oh, how de do, Miss Dombey,” said Mr Toots, “God bless my [[Soul|soul]]!”
+
+This last ejaculation was occasioned by Mr Toots’s deep concern at the
+distress he saw in Florence’s face; which caused him to stop short in a
+fit of chuckles, and become an image of [[Despair|despair]].
+
+“Dear Mr Toots,” said Florence, “you are so friendly to me, and so
+honest, that I am sure I may ask a favour of you.”
+
+“Miss Dombey,” returned Mr Toots, “if you’ll only name one,
+you’ll—you’ll give me an appetite. To which,” said Mr Toots, with some
+sentiment, “I have long been a stranger.”
+
+“Susan, who is an old friend of mine, the oldest friend I have,” said
+Florence, “is about to leave here suddenly, and quite [[Alone|alone]], poor girl.
+She is going [[Home|home]], a little way into the country. Might I ask you to
+take care of her until she is in the coach?”
+
+“Miss Dombey,” returned Mr Toots, “you really do me an [[Honour|honour]] and a
+kindness. This proof of your confidence, after the manner in which I
+was Beast enough to conduct myself at Brighton—”
+
+“Yes,” said Florence, hurriedly—“no—don’t think of that. Then would you
+have the kindness to—to go? and to be ready to meet her when she comes
+out? Thank you a thousand times! You ease my mind so much. She doesn’t
+seem so desolate. You cannot think how grateful I feel to you, or what
+a good friend I am sure you are!” and Florence in her earnestness
+thanked him again and again; and Mr Toots, in his earnestness, hurried
+away—but backwards, that he might lose no glimpse of her.
+
+Florence had not the [[Courage|courage]] to go out, when she saw poor Susan in the
+hall, with Mrs Pipchin driving her forth, and Diogenes jumping about
+her, and terrifying Mrs Pipchin to the last degree by making snaps at
+her bombazeen skirts, and howling with anguish at the sound of her
+voice—for the good duenna was the dearest and most cherished aversion
+of his breast. But she saw Susan shake hands with the servants all
+round, and turn once to look at her old [[Home|home]]; and she saw Diogenes
+bound out after the cab, and want to follow it, and testify an
+impossibility of conviction that he had no longer any property in the
+fare; and the door was shut, and the hurry over, and her [[Tears|tears]] flowed
+fast for the loss of an old friend, whom no one could replace. No one.
+No one.
+
+Mr Toots, like the leal and trusty [[Soul|soul]] he was, stopped the cabriolet
+in a twinkling, and told [[Susan Nipper]] of his commission, at which she
+cried more than before.
+
+“Upon my [[Soul|soul]] and [[Body|body]]!” said Mr Toots, taking his seat beside her. “I
+feel for you. Upon my word and [[Honour|honour]] I think you can hardly know your
+own feelings better than I imagine them. I can conceive nothing more
+dreadful than to have to leave Miss Dombey.”
+
+Susan abandoned herself to her grief now, and it really was touching to
+see her.
+
+“I say,” said Mr Toots, “now, don’t! at least I mean now do, you know!”
+
+“Do what, Mr Toots!” cried Susan.
+
+“Why, come [[Home|home]] to my place, and have some dinner before you start,”
+said Mr Toots. “My cook’s a most respectable woman—one of the most
+motherly people I ever saw—and she’ll be delighted to make you
+comfortable. Her son,” said Mr Toots, as an additional recommendation,
+“was educated in the Bluecoat School, and blown up in a powder-mill.”
+
+Susan accepting this kind offer, Mr Toots conducted her to his
+dwelling, where they were received by the Matron in question who fully
+justified his character of her, and by the Chicken who at first
+supposed, on seeing a lady in the vehicle, that Mr Dombey had been
+doubled up, agreeably to his old recommendation, and Miss Dombey
+abducted. This gentleman awakened in Miss Nipper some considerable
+astonishment; for, having been defeated by the Larkey Boy, his visage
+was in a state of such great dilapidation, as to be hardly presentable
+in society with comfort to the beholders. The Chicken himself
+attributed this punishment to his having had the misfortune to get into
+Chancery early in the proceedings, when he was severely fibbed by the
+Larkey one, and heavily grassed. But it appeared from the published
+records of that great contest that the Larkey Boy had had it all his
+own way from the beginning, and that the Chicken had been tapped, and
+bunged, and had received pepper, and had been made groggy, and had come
+up piping, and had endured a complication of similar strange
+inconveniences, until he had been gone into and finished.
+
+After a good repast, and much hospitality, Susan set out for the
+coach-office in another cabriolet, with Mr Toots inside, as before, and
+the Chicken on the box, who, whatever distinction he conferred on the
+little party by the moral weight and [[Heroism|heroism]] of his character, was
+scarcely ornamental to it, physically speaking, on account of his
+plasters; which were numerous. But the Chicken had registered a vow, in
+secret, that he would never leave Mr Toots (who was secretly pining to
+get rid of him), for any less consideration than the good-will and
+fixtures of a public-[[house]]; and being ambitious to go into that line,
+and drink himself to [[Death|death]] as soon as possible, he felt it his cue to
+make his company unacceptable.
+
+The [[Night|night]]-coach by which Susan was to go, was on the point of
+departure. Mr Toots having put her inside, lingered by the [[Window|window]],
+irresolutely, until the driver was about to mount; when, standing on
+the step, and putting in a face that by the light of the lamp was
+anxious and confused, he said abruptly:
+
+“I say, Susan! Miss Dombey, you know—”
+
+“Yes, Sir.”
+
+“Do you think she could—you know—eh?”
+
+“I beg your pardon, Mr Toots,” said Susan, “but I don’t hear you.”
+
+“Do you think she could be brought, you know—not exactly at once, but
+in [[Time|time]]—in a long [[Time|time]]—to—to [[Love|love]] me, you know? There!” said poor Mr
+Toots.
+
+“Oh dear no!” returned Susan, shaking her head. “I should say, never.
+Never!”
+
+“Thank’ee!” said Mr Toots. “It’s of no consequence. Good-[[Night|night]]. It’s of
+no consequence, thank’ee!”

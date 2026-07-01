@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 27 (part 4)"
+title: "Wuthering Heights — Chapter 27 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -13,6 +13,25 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_27/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_28/part_01">part 01 ›</a></div>
 </nav>
 
+
+“I _am_ afraid now,” she replied, “because, if I stay, papa will be
+miserable: and how can I endure making him miserable—when he—when
+he—Mr. [[Heathcliff]], _let_ me go [[Home|home]]! I promise to marry Linton: papa
+would like me to: and I [[Love|love]] him. Why should you wish to force me to do
+what I’ll willingly do of myself?”
+
+“Let him dare to force you,” I cried. “There’s law in the land, thank
+God! there is; though we be in an out-of-the-way place. I’d inform if
+he were my own son: and it’s felony without benefit of clergy!”
+
+“[[Silence]]!” said the ruffian. “To the devil with your clamour! I don’t
+want _you_ to speak. Miss Linton, I shall enjoy myself remarkably in
+thinking your father will be miserable: I shall not [[Sleep|sleep]] for
+satisfaction. You could have hit on no surer way of fixing your
+residence under my roof for the next twenty-four hours than informing
+me that such an event would follow. As to your promise to marry Linton,
+I’ll take care you shall keep it; for you shall not quit this place
+till it is fulfilled.”
 
 “Send Ellen, then, to let papa know I’m safe!” exclaimed Catherine,
 weeping bitterly. “Or marry me now. Poor papa! Ellen, he’ll think we’re

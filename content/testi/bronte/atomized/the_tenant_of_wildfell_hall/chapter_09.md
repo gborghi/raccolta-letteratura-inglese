@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 9"
+title: "The Tenant of Wildfell Hall — Chapter 9"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -464,7 +464,7 @@ patience to sit till the meal was over. I remember, however, that I
 
 swallowed with difficulty the remainder of the tea that was in my cup,
 
-and ate nothing; and that the first thing I did was to stare at [[arthur|Arthur]]
+and ate nothing; and that the first thing I did was to stare at [[Arthur]]
 
 Graham, who sat beside his mother on the opposite side of the table,
 
@@ -480,9 +480,9 @@ Both, it is true, had more delicate features and smaller bones than
 
 commonly fall to the lot of individuals of the rougher sex, and
 
-Lawrence’s complexion was pale and clear, and [[arthur|Arthur]]’s delicately fair;
+Lawrence’s complexion was pale and clear, and [[Arthur]]’s delicately fair;
 
-but [[arthur|Arthur]]’s tiny, somewhat snubby nose could never become so long and
+but [[Arthur]]’s tiny, somewhat snubby nose could never become so long and
 
 straight as Mr. Lawrence’s; and the outline of his face, though not
 
@@ -590,7 +590,7 @@ more than one), my vexation instantly subsided, and far other feelings
 
 agitated my still unquiet [[Soul|soul]]; for there was Mrs. Graham, slowly
 
-moving down the walk with [[arthur|Arthur]] by her side, and no one else. Why were
+moving down the walk with [[Arthur]] by her side, and no one else. Why were
 
 they [[Alone|alone]]? Had the [[Poison|poison]] of detracting tongues already spread through
 
@@ -644,7 +644,7 @@ absent myself in this uncourteous fashion from my guests.”
 
 “I was rather, but it’s over now. Do sit here a little and rest, and
 
-tell me how you like this arbour,” said I, and, lifting [[arthur|Arthur]] by the
+tell me how you like this arbour,” said I, and, lifting [[Arthur]] by the
 
 shoulders, I planted him in the middle of the seat by way of securing
 

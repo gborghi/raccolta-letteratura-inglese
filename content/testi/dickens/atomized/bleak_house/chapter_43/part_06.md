@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 43 (part 6)"
+title: "Bleak House — Chapter 43 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_43/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_44/part_01">part 01 ›</a></div>
 </nav>
 
+
+“What concerns you, my dear Esther,” said he, “concerns us all. You
+cannot be more ready to speak than I am to hear.”
 
 “I know that, guardian. But I have such need of your advice and
 support. Oh! You don’t know how much need I have to-[[Night|night]].”

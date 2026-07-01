@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 48 (part 3)"
+title: "Barnaby Rudge — Chapter 48 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_48/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_49/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘What are you doing?’ cried his master, catching him by both hands;
+for he had made a show of kneeling at his feet. ‘Do not unfit me, dear
+Gashford, for the solemn duty of this glorious day--’ the [[Tears|tears]] stood in
+the eyes of the poor gentleman as he said the words.--‘Let us go
+among them; we have to find a place in some division for this new
+recruit--give me your hand.’
 
 Gashford slid his cold insidious palm into his master’s grasp, and so,
 hand in hand, and followed still by Barnaby and by his mother too, they

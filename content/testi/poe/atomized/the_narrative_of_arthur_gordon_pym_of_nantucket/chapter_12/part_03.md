@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 13 (part 3)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 13 (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_12/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_12/part_04">part 04 ›</a></div>
 </nav>
 
+
+or exertions on our part seemed to alarm them. Even when one of the
+
+largest was struck with an axe by Peters, and much wounded, he
+
+persisted in his attempts to push in where we were. A cloud came up at
+
+dusk, but, to our extreme anguish, passed over without discharging
+
+itself. It is quite impossible to conceive our sufferings from thirst
+
+at this period. We passed a sleepless [[Night|night]], both on this account and
+
+through dread of the sharks.
+
+
+
+_August 3._ No prospect of relief, and the brig lying still more and
 
 more along, so that now we could not maintain a footing upon deck at
 
@@ -181,27 +199,3 @@ provisions, which we could not have exhausted, using it moderately, in
 a month; and it had greatly contributed to our comfort as regards
 
 position, we being much more at our ease, and in infinitely less
-
-danger, than before.
-
-
-
-The difficulty, however, of now obtaining [[Water|water]] blinded us to all the
-
-benefits of the change in our condition. That we might be ready to
-
-avail ourselves, as far as possible, of any shower which might fall, we
-
-took off our shirts, to make use of them as we had of the sheets--not
-
-hoping, of course, to get more in this way, even under the most
-
-favourable circumstances, than half a gill at a [[Time|time]]. No signs of a
-
-cloud appeared during the day, and the agonies of our thirst were
-
-nearly intolerable. At [[Night|night]] Peters obtained about an hour's disturbed
-
-[[Sleep|sleep]], but my intense sufferings would not permit me to close my eyes
-
-for a single moment.

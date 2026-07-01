@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 44 (part 3)"
+title: "Bleak House — Chapter 44 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_44/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_45/part_01">part 01 ›</a></div>
 </nav>
 
+
+I thought, all at once, if my guardian had married some one else, how
+should I have felt, and what should I have done! That would have been
+a change indeed. It presented my life in such a new and blank form
+that I rang my housekeeping keys and gave them a kiss before I laid
+them down in their basket again.
 
 Then I went on to think, as I dressed my hair before the glass, how
 often had I considered within myself that the deep traces of my

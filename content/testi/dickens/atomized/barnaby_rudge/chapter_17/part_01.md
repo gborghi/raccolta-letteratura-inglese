@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 17 (part 1)"
+title: "Barnaby Rudge — Chapter 17 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -144,12 +144,3 @@ listened for a moment, and sprung towards him.
 ‘Take what there is, take all, take more if more were there, but go
 before it is too late. I have heard a wayward step without, I know full
 [[Well|well]]. It will return directly. Begone.’
-
-‘What do you mean?’
-
-‘Do not stop to ask. I will not answer. Much as I dread to touch you, I
-would drag you to the door if I possessed the strength, rather than you
-should lose an instant. Miserable wretch! fly from this place.’
-
-‘If there are spies without, I am safer here,’ replied the man, standing
-aghast. ‘I will remain here, and will not fly till the danger is past.’

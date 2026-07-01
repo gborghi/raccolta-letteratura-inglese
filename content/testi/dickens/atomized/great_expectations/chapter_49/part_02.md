@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 49 (part 2)"
+title: "Great Expectations — Chapter 49 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_49/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_49/part_03">part 03 ›</a></div>
 </nav>
 
+
+“Quite. I dined with him yesterday.”
+
+“This is an authority to him to pay you that money, to lay out at your
+irresponsible discretion for your friend. I keep no money here; but if
+you would rather Mr. Jaggers knew nothing of the matter, I will send it
+to you.”
 
 “Thank you, [[Miss Havisham]]; I have not the least objection to receiving
 it from him.”
@@ -141,12 +148,3 @@ him to lay this place waste for me; having read of him in the
 newspapers, before I and the world parted. He told me that he would
 look about him for such an [[Orphan|orphan]] [[Child|child]]. One [[Night|night]] he brought her here
 asleep, and I called her [[Estella]].”
-
-“Might I ask her age then?”
-
-“Two or three. She herself knows nothing, but that she was left an
-[[Orphan|orphan]] and I adopted her.”
-
-So convinced I was of that woman’s being her mother, that I wanted no
-evidence to establish the fact in my own mind. But, to any mind, I
-thought, the connection here was clear and straight.

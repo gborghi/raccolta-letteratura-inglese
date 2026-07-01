@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 41"
+title: "Villette — Chapter 41"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/villette-(bronte)"

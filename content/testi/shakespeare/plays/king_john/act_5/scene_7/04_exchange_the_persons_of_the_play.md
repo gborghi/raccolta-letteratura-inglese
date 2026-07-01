@@ -1,5 +1,5 @@
 ---
-title: "[[King John]] — Act V, Scene 7 — exchange (THE PERSONS OF THE PLAY) [4]"
+title: "King John — Act V, Scene 7 — exchange (THE PERSONS OF THE PLAY) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/king-john-(shakespeare)"

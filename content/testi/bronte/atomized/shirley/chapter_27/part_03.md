@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 27 (part 3)"
+title: "Shirley — Chapter 27 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_27/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_27/part_04">part 04 ›</a></div>
 </nav>
 
+
+[[Time]] proved, indeed, that Sir Philip liked her. Perhaps he had found in
+
+her that "curious charm" noticed by Mr. Hall. He sought her presence
+
+more and more, and at last with a frequency that attested it had become
+
+to him an indispensable stimulus. About this [[Time|time]] strange feelings
 
 hovered round Fieldhead; restless hopes and haggard anxieties haunted
 
@@ -227,35 +235,3 @@ including Sir Philip Nunnely; the ladies were now in the drawing-room,
 and their hostess had stolen from them to visit Henry's tutor. Her pure
 
 white dress, her fair arms and neck, the trembling chainlet of gold
-
-circling her throat and quivering on her breast, glistened strangely
-
-amid the obscurity of the sickroom. Her mien was chastened and pensive.
-
-She spoke gently.
-
-
-
-"Mr. Moore, how are you to-[[Night|night]]?"
-
-
-
-"I have not been very ill, and am now better."
-
-
-
-"I heard that you complained of thirst. I have brought you some grapes;
-
-can you taste one?"
-
-
-
-"No; but I thank you for remembering me."
-
-
-
-"Just one."
-
-
-
-From the rich cluster that filled a small basket held in her hand she

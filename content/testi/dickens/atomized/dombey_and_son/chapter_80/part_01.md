@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 24 (part 1)"
+title: "Dombey and Son — Chapter 52 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -10,117 +10,136 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/dombey-and-son-(dickens)">Dombey and Son</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_79/part_09">‹ part 09</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_80/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_79/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_80/part_02">part 02 ›</a></div>
 </nav>
 
 
-CHAPTER XXIV.
-The Study of a Loving Heart
+CHAPTER LII.
+Secret Intelligence
 
 
-Sir Barnet and Lady Skettles, very good people, resided in a pretty
-villa at Fulham, on the banks of the Thames; which was one of the most
-desirable residences in the world when a rowing-match happened to be
-going past, but had its little inconveniences at other times, among
-which may be enumerated the occasional appearance of the [[River|river]] in the
-drawing-room, and the contemporaneous disappearance of the lawn and
-shrubbery.
+Good Mrs Brown and her daughter Alice kept silent company together, in
+their own dwelling. It was early in the evening, and late in the
+[[spring]]. But a few days had elapsed since Mr Dombey had told Major
+Bagstock of his singular intelligence, singularly obtained, which might
+turn out to be valueless, and might turn out to be true; and the world
+was not satisfied yet.
 
-Sir Barnet Skettles expressed his personal consequence chiefly through
-an antique gold snuffbox, and a ponderous silk pocket-kerchief, which
-he had an imposing manner of drawing out of his pocket like a banner
-and using with both hands at once. Sir Barnet’s object in life was
-constantly to extend the range of his acquaintance. Like a heavy [[Body|body]]
-dropped into [[Water|water]]—not to disparage so worthy a gentleman by the
-comparison—it was in the [[Nature|nature]] of things that Sir Barnet must spread
-an ever widening circle about him, until there was no room left. Or,
-like a sound in air, the vibration of which, according to the
-speculation of an ingenious modern philosopher, may go on travelling
-for ever through the interminable fields of space, nothing but coming
-to the end of his moral tether could stop Sir Barnet Skettles in his
-voyage of discovery through the social system.
+The mother and daughter sat for a long [[Time|time]] without interchanging a
+word: almost without motion. The old woman’s face was shrewdly anxious
+and expectant; that of her daughter was expectant too, but in a less
+sharp degree, and sometimes it darkened, as if with gathering
+disappointment and [[Incredulity|incredulity]]. The old woman, without heeding these
+changes in its expression, though her eyes were often turned towards
+it, sat mumbling and munching, and listening confidently.
 
-Sir Barnet was proud of making people acquainted with people. He liked
-the thing for its own sake, and it advanced his favourite object too.
-For example, if Sir Barnet had the good fortune to get hold of a law
-recruit, or a country gentleman, and ensnared him to his hospitable
-villa, Sir Barnet would say to him, on the morning after his arrival,
-“Now, my dear Sir, is there anybody you would like to know? Who is
-there you would wish to meet? Do you take any interest in writing
-people, or in painting or sculpturing people, or in acting people, or
-in anything of that sort?” Possibly the patient answered yes, and
-mentioned somebody, of whom Sir Barnet had no more personal knowledge
-than of Ptolemy the Great. Sir Barnet replied, that nothing on earth
-was easier, as he knew him very [[Well|well]]: immediately called on the
-aforesaid somebody, left his card, wrote a short note,—“My dear
-Sir—penalty of your eminent position—friend at my [[house]] naturally
-desirous—Lady Skettles and myself participate—trust that genius being
-superior to ceremonies, you will do us the distinguished favour of
-giving us the pleasure,” etc, etc.—and so killed a brace of [[Birds|birds]] with
-one stone, dead as door-nails.
+Their abode, though poor and miserable, was not so utterly wretched as
+in the days when only Good Mrs Brown inhabited it. Some few attempts at
+cleanliness and order were manifest, though made in a reckless, gipsy
+way, that might have connected them, at a glance, with the younger
+woman. The shades of evening thickened and deepened as the two kept
+[[Silence|silence]], until the blackened walls were nearly lost in the prevailing
+gloom.
 
-With the snuff-box and banner in full force, Sir Barnet Skettles
-propounded his usual inquiry to Florence on the first morning of her
-visit. When Florence thanked him, and said there was no one in
-particular whom she desired to see, it was natural she should think
-with a pang, of poor lost Walter. When Sir Barnet Skettles, urging his
-kind offer, said, “My dear Miss Dombey, are you sure you can remember
-no one whom your good Papa—to whom I beg you present the best
-compliments of myself and Lady Skettles when you write—might wish you
-to know?” it was natural, perhaps, that her poor head should droop a
-little, and that her voice should tremble as it softly answered in the
-negative.
+Then Alice broke the [[Silence|silence]] which had lasted so long, and said:
 
-Skettles Junior, much stiffened as to his cravat, and sobered down as
-to his spirits, was at [[Home|home]] for the holidays, and appeared to feel
-himself aggrieved by the solicitude of his excellent mother that he
-should be attentive to Florence. Another and a deeper injury under
-which the [[Soul|soul]] of young Barnet chafed, was the company of Dr and Mrs
-Blimber, who had been invited on a visit to the paternal roof-tree, and
-of whom the young gentleman often said he would have preferred their
-passing the vacation at Jericho.
+“You may give him up, mother. He’ll not come here.”
 
-“Is there anybody you can suggest now, Doctor Blimber?” said Sir Barnet
-Skettles, turning to that gentleman.
+“[[Death]] give him up!” returned the old woman, impatiently. “He will come
+here.”
 
-“You are very kind, Sir Barnet,” returned Doctor Blimber. “Really I am
-not aware that there is, in particular. I like to know my fellow-men in
-general, Sir Barnet. What does Terence say? Anyone who is the parent of
-a son is interesting to me.”
+“We shall see,” said Alice.
 
-“Has Mrs Blimber any wish to see any remarkable person?” asked Sir
-Barnet, courteously.
+“We shall see him,” returned her mother.
 
-Mrs Blimber replied, with a sweet smile and a shake of her sky-blue
-cap, that if Sir Barnet could have made her known to Cicero, she would
-have troubled him; but such an introduction not being feasible, and she
-already enjoying the [[Friendship|friendship]] of himself and his amiable lady, and
-possessing with the Doctor her husband their joint confidence in regard
-to their dear son—here young Barnet was observed to curl his nose—she
-asked no more.
+“And doomsday,” said the daughter.
 
-Sir Barnet was fain, under these circumstances, to content himself for
-the [[Time|time]] with the company assembled. Florence was glad of that; for she
-had a study to pursue among them, and it lay too near her heart, and
-was too precious and momentous, to yield to any other interest.
+“You think I’m in my second [[Childhood|childhood]], I know!” croaked the old woman.
+“That’s the respect and duty that I get from my own gal, but I’m wiser
+than you take me for. He’ll come. T’other day when I touched his coat
+in the street, he looked round as if I was a toad. But Lord, to see him
+when I said their names, and asked him if he’d like to find out where
+they was!”
 
-There were some children staying in the [[house]]. Children who were as
-frank and happy with fathers and with mothers as those rosy faces
-opposite [[Home|home]]. Children who had no restraint upon their [[Love|love]], and
-freely showed it. Florence sought to learn their secret; sought to find
-out what it was she had missed; what simple art they knew, and she knew
-not; how she could be taught by them to show her father that she loved
-him, and to win his [[Love|love]] again.
+“Was it so angry?” asked her daughter, roused to interest in a moment.
 
-Many a day did Florence thoughtfully observe these children. On many a
-bright morning did she leave her bed when the glorious sun [[Rose|rose]], and
-walking up and down upon the [[River|river]]’s bank, before anyone in the [[house]]
-was stirring, look up at the windows of their rooms, and think of them,
-asleep, so gently tended and affectionately thought of. Florence would
-feel more lonely then, than in the [[Great House|great house]] all [[Alone|alone]]; and would
-think sometimes that she was better there than here, and that there was
-greater peace in hiding herself than in mingling with others of her
-age, and finding how unlike them all she was. But attentive to her
-study, though it touched her to the quick at every little leaf she
-turned in the hard book, Florence remained among them, and tried, with
-patient [[Hope|hope]], to gain the knowledge that she wearied for.
+“Angry? ask if it was bloody. That’s more like the word. Angry? Ha, ha!
+To call that only angry!” said the old woman, hobbling to the cupboard,
+and lighting a candle, which displayed the workings of her mouth to
+ugly advantage, as she brought it to the table. “I might as [[Well|well]] call
+your face only angry, when you think or talk about ’em.”
+
+It was something different from that, truly, as she sat as still as a
+crouched tigress, with her kindling eyes.
+
+“Hark!” said the old woman, triumphantly. “I hear a step coming. It’s
+not the tread of anyone that lives about here, or comes this way often.
+We don’t walk like that. We should grow proud on such neighbours! Do
+you hear him?”
+
+“I believe you are right, mother,” replied Alice, in a low voice.
+“Peace! open the door.”
+
+As she drew herself within her shawl, and gathered it about her, the
+old woman complied; and peering out, and beckoning, gave admission to
+Mr Dombey, who stopped when he had set his foot within the door, and
+looked distrustfully around.
+
+“It’s a poor place for a great gentleman like your worship,” said the
+old woman, curtseying and chattering. “I told you so, but there’s no
+harm in it.”
+
+“Who is that?” asked Mr Dombey, looking at her companion.
+
+“That’s my handsome daughter,” said the old woman. “Your worship won’t
+mind her. She knows all about it.”
+
+A [[Shadow|shadow]] fell upon his face not less expressive than if he had groaned
+aloud, “Who does not know all about it!” but he looked at her steadily,
+and she, without any acknowledgment of his presence, looked at him. The
+[[Shadow|shadow]] on his face was darker when he turned his glance away from her;
+and even then it wandered back again, furtively, as if he were haunted
+by her bold eyes, and some remembrance they inspired.
+
+“Woman,” said Mr Dombey to the old [[Witch|witch]] who was chuckling and leering
+close at his elbow, and who, when he turned to address her, pointed
+stealthily at her daughter, and rubbed her hands, and pointed again,
+“Woman! I believe that I am weak and forgetful of my station in coming
+here, but you know why I come, and what you offered when you stopped me
+in the street the other day. What is it that you have to tell me
+concerning what I want to know; and how does it happen that I can find
+voluntary intelligence in a hovel like this,” with a disdainful glance
+about him, “when I have exerted my power and means to obtain it in
+vain? I do not think,” he said, after a moment’s pause, during which he
+had observed her, sternly, “that you are so audacious as to mean to
+trifle with me, or endeavour to impose upon me. But if you have that
+purpose, you had better stop on the threshold of your scheme. My [[Humour|humour]]
+is not a trifling one, and my acknowledgment will be severe.”
+
+“Oh a proud, hard gentleman!” chuckled the old woman, shaking her head,
+and rubbing her shrivelled hands, “oh hard, hard, hard! But your
+worship shall see with your own eyes and hear with your own ears; not
+with ours—and if your worship’s put upon their track, you won’t mind
+paying something for it, will you, honourable deary?”
+
+“Money,” returned Mr Dombey, apparently relieved, and assured by this
+inquiry, “will bring about unlikely things, I know. It may turn even
+means as unexpected and unpromising as these, to account. Yes. For any
+reliable information I receive, I will pay. But I must have the
+information first, and judge for myself of its value.”
+
+“Do you know nothing more powerful than money?” asked the younger
+woman, without rising, or altering her attitude.
+
+“Not here, I should imagine,” said Mr Dombey.
+
+“You should know of something that is more powerful elsewhere, as I
+judge,” she returned. “Do you know nothing of a woman’s anger?”
+
+“You have a saucy tongue, Jade,” said Mr Dombey.
+
+“Not usually,” she answered, without any show of emotion: “I speak to
+you now, that you may understand us better, and rely more on us. A
+woman’s anger is pretty much the same here, as in your fine [[house]]. I am
+angry. I have been so, many years. I have as good cause for my anger as
+you have for yours, and its object is the same man.”

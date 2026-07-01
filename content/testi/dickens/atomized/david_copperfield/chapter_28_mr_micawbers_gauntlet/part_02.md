@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 28: Mr. MICAWBER’S GAUNTLET (part 2)"
+title: "David Copperfield — Chapter 28: Mr. MICAWBER’S GAUNTLET (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -125,9 +125,5 @@ expression of his fixed opinion that I was extremely young.
 I thanked him and said, No; but would he take no dinner himself?
 
 ‘None, I am obliged to you, sir.’
-
-‘Is Mr. Steerforth coming from [[Oxford]]?’
-
-‘I beg your pardon, sir?’
 
 ‘Is Mr. Steerforth coming from [[Oxford]]?’

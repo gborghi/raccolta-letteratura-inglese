@@ -10696,7 +10696,7 @@ betwixt ’em.  When I fell, I were in anger wi’ her, an’ hurryin on t’ be
 as onjust t’ her as oothers was t’ me.  But in our judgments, like as in
 our doins, we mun bear and forbear.  In my [[Pain|pain]] an’ trouble, lookin up
 yonder,—wi’ it shinin on me—I ha’ seen more clear, and ha’ made it my
-dyin [[Prayer|prayer]] that aw th’ world may on’y coom toogether more, an’ get a
+dyin [[prayer]] that aw th’ world may on’y coom toogether more, an’ get a
 better unnerstan’in o’ one another, than when I were in ’t my own weak
 seln.’
 
@@ -10706,7 +10706,7 @@ Rachael, so that he could see her.
 ‘You ha’ heard?’ he said, after a few moments’ [[Silence|silence]].  ‘I ha’ not
 forgot you, ledy.’
 
-‘Yes, Stephen, I have heard you.  And your [[Prayer|prayer]] is mine.’
+‘Yes, Stephen, I have heard you.  And your [[prayer]] is mine.’
 
 ‘You ha’ a father.  Will yo tak’ a message to him?’
 
@@ -11060,7 +11060,7 @@ getting his disgraced son to Liverpool in the [[Night|night]].  As neither of th
 three could be his companion without almost identifying him under any
 disguise, he prepared a letter to a correspondent whom he could trust,
 beseeching him to [[Ship|ship]] the bearer off at any cost, to North or South
-[[America]], or any distant part of the world to which he could be the most
+[[america|America]], or any distant part of the world to which he could be the most
 speedily and privately dispatched.
 
 This done, they walked about, waiting for the Circus to be quite vacated;

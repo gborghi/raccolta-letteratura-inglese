@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 22 (part 2)"
+title: "Nicholas Nickleby — Chapter 22 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_22/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_22/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘Ha!’ said Nicholas, gravely. ‘I am afraid they don’t keep many [[Animals|animals]]
+of either kind on board [[Ship|ship]], [[Smike]], and even when they have horses,
+that they are not very particular about rubbing them down; still you can
+learn to do something else, you know. Where there’s a will, there’s a
+way.’
 
 ‘And I am very willing,’ said [[Smike]], brightening up again.
 
@@ -136,12 +142,3 @@ invigorating freshness of that early [[Time|time]] of year. The ground seemed
 elastic under their feet; the sheep-[[Bells|bells]] were music to their ears; and
 exhilarated by exercise, and stimulated by [[Hope|hope]], they pushed onward with
 the strength of lions.
-
-The day wore on, and all these bright colours subsided, and assumed
-a quieter tint, like young hopes softened down by [[Time|time]], or youthful
-features by degrees resolving into the calm and serenity of age. But
-they were scarcely less beautiful in their slow decline, than they had
-been in their prime; for [[Nature|nature]] gives to every [[Time|time]] and season some
-beauties of its own; and from morning to [[Night|night]], as from the cradle to
-the [[Grave|grave]], is but a succession of changes so gentle and easy, that we
-can scarcely mark their progress.

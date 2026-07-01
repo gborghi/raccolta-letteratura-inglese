@@ -14,6 +14,16 @@ tags:
 </nav>
 
 
+‘Sarah,’ said Brass, ‘hold your tongue if you please, and let me speak.
+Gentlemen, if I could express the pleasure it gives me to see three
+such men in a happy [[unity]] of feeling and concord of sentiment, I think
+you would hardly believe me.  But though I am unfortunate--nay,
+gentlemen, criminal, if we are to use harsh expressions in a company
+like this--still, I have my feelings like other men.  I have heard of a
+poet, who remarked that feelings were the common lot of all.  If he
+could have been a pig, gentlemen, and have uttered that sentiment, he
+would still have been immortal.’
+
 ‘If you’re not an idiot,’ said Miss Brass harshly, ‘hold your peace.’
 
 ‘Sarah, my dear,’ returned her brother, ‘thank you.  But I know what I
@@ -109,22 +119,3 @@ necessity too; from policy besides; and because of feelings that have
 been a pretty long [[Time|time]] working within me.  Punish Quilp, gentlemen.
 Weigh heavily upon him.  Grind him down.  Tread him under foot.  He has
 done as much by me, for many and many a day.’
-
-Having now arrived at the conclusion of his discourse, Sampson checked
-the current of his wrath, kissed his glove again, and smiled as only
-parasites and cowards can.
-
-‘And this,’ said Miss Brass, raising her head, with which she had
-hitherto sat resting on her hands, and surveying him from head to foot
-with a bitter sneer, ‘this is my brother, is it!  This is my brother,
-that I have worked and toiled for, and believed to have had something
-of the man in him!’
-
-‘Sarah, my dear,’ returned Sampson, rubbing his hands feebly; ‘you
-disturb our friends.  Besides you--you’re disappointed, Sarah, and, not
-knowing what you say, expose yourself.’
-
-‘Yes, you pitiful dastard,’ retorted the lovely [[Damsel|damsel]], ‘I understand
-you.  You feared that I should be beforehand with you.  But do you
-think that I would have been enticed to say a word!  I’d have scorned
-it, if they had tried and tempted me for twenty years.’

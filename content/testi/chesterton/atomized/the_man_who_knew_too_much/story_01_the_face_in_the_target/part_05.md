@@ -14,6 +14,21 @@ tags:
 </nav>
 
 
+through a gap in giant weeds and thorns at the flat face of a
+
+painted paling. From behind the paling [[Rose|rose]] the great gray columns
+
+of a row of poplars, which filled the heavens above them with
+
+dark-green [[Shadow|shadow]] and shook faintly in a [[Wind|wind]] which had sunk slowly
+
+into a breeze. The afternoon was already deepening into evening, and
+
+the [[titanic]] shadows of the poplars lengthened over a third of the
+
+landscape.
+"Are you a first-class criminal?" asked Fisher, in a friendly tone.
+
 "I'm afraid I'm not. But I think I can manage to be a sort of
 
 fourth-rate burglar."
@@ -170,27 +185,3 @@ Sir Howard hailed Fisher and his friend the journalist with almost
 boisterous amiability. The latter was presented to Major Burke and
 
 Mr. Halkett and also (by way of a parenthesis) to his host, Mr.
-
-Jenkins, a commonplace little man in loud tweeds, whom everybody
-
-else seemed to treat with a sort of affection, as if he were a baby.
-The irrepressible Chancellor of the Exchequer was still talking
-
-about the [[Birds|birds]] he had brought down, the [[Birds|birds]] that Burke and
-
-Halkett had brought down, and the [[Birds|birds]] that Jenkins, their host,
-
-had failed to bring down. It seemed to be a sort of sociable
-
-monomania.
-"You and your big game," he ejaculated, aggressively, to Burke.
-
-"Why, anybody could shoot big game. You want to be a shot to shoot
-
-small game."
-"Quite so," interposed Horne Fisher. "Now if only a hippopotamus
-
-could fly up in the air out of that bush, or you preserved flying
-
-elephants on the estate, why, then—"
-"Why even Jink might hit that sort of bird," cried Sir Howard,

@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 25 (part 1)"
+title: "Shirley — Chapter 25 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -211,13 +211,3 @@ the pillow a face pale and wasted enough, perhaps more haggard than the
 other appearance, but less awful; for it was a sick, living girl, not a
 
 mere white mould or rigid piece of statuary.
-
-
-
-Now, too, she was not always petitioning to drink. The words, "I am _so_
-
-thirsty," ceased to be her plaint. Sometimes, when she had swallowed a
-
-morsel, she would say it had revived her. All descriptions of food were
-
-no longer equally distasteful; she could be induced, sometimes, to

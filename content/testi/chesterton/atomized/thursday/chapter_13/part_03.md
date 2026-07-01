@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 13 (part 3)"
+title: "thursday — Chapter 13 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_13/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_13/part_04">part 04 ›</a></div>
 </nav>
 
+
+"After him!" howled Syme.  "He can't go astray now.
+There's no mistaking a [[Fire|fire]]-engine."
+
+The three cabmen, who had been stunned for a moment, whipped up
+their horses and slightly decreased the distance between themselves
+and their disappearing prey.  The President acknowledged this
+proximity by coming to the back of the car, bowing repeatedly,
+kissing his hand, and finally flinging a neatly-folded note into
+the bosom of Inspector Ratcliffe.  When that gentleman opened it,
+not without impatience, he found it contained the words:--
+
+"Fly at once.  The [[Truth|truth]] about your trouser-stretchers is known.
+--A FRIEND."
 
 The [[Fire|fire]]-engine had struck still farther to the north,
 into a region that they did not recognise; and as it ran

@@ -1,5 +1,5 @@
 ---
-title: "All Is True ([[Henry VIII]]) — Act III, Scene 2 — monologue ([[Cardinal Wolsey|CARDINAL WOLSEY]]) [8]"
+title: "All Is True (Henry VIII) — Act III, Scene 2 — monologue (CARDINAL WOLSEY) [8]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/all-is-true---(henry-viii)-(shakespeare)"

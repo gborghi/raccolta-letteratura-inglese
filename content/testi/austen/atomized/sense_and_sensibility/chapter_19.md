@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 19"
+title: "Sense and Sensibility — Chapter 19"
 author: "Austen"
 unitType: chapter
 parentWork: "works/sense-and-sensibility-(austen)"

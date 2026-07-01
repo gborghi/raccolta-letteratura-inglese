@@ -1,5 +1,5 @@
 ---
-title: "[[longbow2]] — Chapter 7 (part 4)"
+title: "longbow2 — Chapter 7 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -127,25 +127,9 @@ about private property in air.  The most important of the documents,
 which Lord Eden studied more attentively, though with a grim smile,
 began with the sentence in large letters:
 
-
 "An Englishman's [[house|House]] Is No Longer His [[Castle]] On The Soil Of England. 
 If It Is To Be His [[Castle]], It Must Be A [[Castle]] In The Air.
 
 "If There Seem To Be Something Unfamiliar And Even Fanciful In
 The Idea, We Reply That It Is Not Half So Fantastic To Own Your Own
 Houses In The Clouds As Not To Own Your Own Houses On The Earth."
-
-
-Then followed a passage of somewhat less solid political value,
-in which the acute reader might trace the influence of the poetical
-Mr. Pierce rather than the scientific Mr. Blair.  It began "They
-Have Stolen the Earth; We Will Divide the Sky."  But the writer
-followed this with a somewhat unconvincing claim to have trained rooks
-and swallows to hover in rows in the air to represent the hedges
-of "the blue meadows of the new realm," and he was so obliging
-as to accompany the explanation with diagrams of space showing
-the exact ornithological boundaries in dotted lines.  There were other
-equally scientific documents dealing with the treatment of clouds,
-the driving of [[Birds|birds]] to graze on [[Insects|insects]], and so on.  The whole
-of this section concluded with the great social and economic slogan: 
-"Three Acres and a Crow."

@@ -1,5 +1,5 @@
 ---
-title: "[[queertrades]] — Chapter 5 (part 5)"
+title: "queertrades — Chapter 5 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/queertrades-(chesterton)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/queertrades/story_05_chapter_5/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/queertrades/story_05_chapter_5/part_06">part 06 ›</a></div>
 </nav>
 
+
+Mr Bingham was a slim, [[Well|well]]-clad gentleman with a pointed and
+slightly effeminate grey beard, unimpeachable gloves, and formal
+but agreeable manners.  He was the type of the over-civilized,
+as Professor Chadd was of the uncivilized pedant.  His formality
+and agreeableness did him some credit under the circumstances.
+He had a vast experience of books and a considerable experience
+of the more dilettante fashionable salons.  But neither branch
+of knowledge had accustomed him to the spectacle of two grey-haired
+middle-class gentlemen in modern costume throwing themselves about
+like acrobats as a substitute for an after-dinner nap.
 
 [[The Professor|The professor]] continued his antics with perfect placidity,
 but Grant stopped abruptly.  The doctor had reappeared on the scene,
@@ -135,29 +146,3 @@ Do you want--"
 Bingham cut in sharply:
 
 "And if I do want this, Mr Grant--"
-
-"Then," said Basil lightly, "your task is easy.  Get Chadd L800
-a year till he stops dancing."
-
-With a fierce flap of his swinging gloves Bingham turned impatiently
-to the door, but in passing out of it found it blocked.
-Dr Colman was coming in.
-
-"Forgive me, gentlemen," he said, in a nervous, confidential voice,
-"the fact is, Mr Grant, I--er--have made a most disturbing discovery
-about Mr Chadd."
-
-Bingham looked at him with [[Grave|grave]] eyes.
-
-"I was afraid so," he said.  "Drink, I imagine."
-
-"Drink!" echoed Colman, as if that were a much milder affair.
-"Oh, no, it's not drink."
-
-Mr Bingham became somewhat agitated, and his voice grew hurried
-and vague.  "Homicidal mania--" he began.
-
-"No, no," said the medical man impatiently.
-
-"Thinks he's made of glass," said Bingham feverishly, "or says
-he's God--or--"

@@ -44,75 +44,75 @@ of a man as `breaking out.'  The lawless man never breaks out;
 he breaks in.  He smashes a door and finds himself in another room,
 he smashes a wall and finds himself in a yet smaller one.
 The more he shatters the more his habitation shrinks.
-Where he ends you may read in the end of [[Macbeth]].
+Where he ends you may read in the end of Macbeth.
 
 For us moderns, therefore, the first philosophical significance
 of the play is this; that our life is one thing and that our lawless
-acts limit us; every [[Time|time]] we break a law we make a limitation.
+acts limit us; every time we break a law we make a limitation.
 In some strange way hidden in the deeps of human psychology, if we build
-our palace on some unknown wrong it turns very slowly into our [[Prison|prison]].
-[[Macbeth]] at the end of the play is not merely a wild beast;
+our palace on some unknown wrong it turns very slowly into our prison.
+Macbeth at the end of the play is not merely a wild beast;
 he is a caged wild beast.  But if this is the thing to be put
 in a primary position there is something else that demands at least
-our second one.  The second idea in the main story of [[Macbeth]] is,
-of course, that of the influence of evil suggestion upon the [[Soul|soul]],
+our second one.  The second idea in the main story of Macbeth is,
+of course, that of the influence of evil suggestion upon the soul,
 particularly evil suggestion of a mystical and transcendental kind.
 In this connection the mystical character of the promptings is not
 more interesting than the mystical character of the man to whom
 they are especially sent.  Mystical promptings are naturally sweet
-to a mystic.  The character of [[Macbeth]] in this regard has been made
+to a mystic.  The character of Macbeth in this regard has been made
 the matter of a great deal of brilliant and futile discussion.
 Some critics have represented him as a burly silent soldier
 because he won battles for his country.  Other critics have
 represented him as a feverish and futile decadent because he makes
 long practical speeches full of the most elaborate imagery.
 In the name of commonsense let it be remembered that Shakespeare lived
-before the [[Time|time]] when unsuccessful poets thought it poetical to be
+before the time when unsuccessful poets thought it poetical to be
 decadent and unsuccessful soldiers thought it military to be silent.
 Men like Sidney and Raleigh and Essex could have fought
-as [[Well|well]] as [[Macbeth]] and could have ranted as [[Well|well]] as [[Macbeth]].
+as well as Macbeth and could have ranted as well as Macbeth.
 Why should Shakespeare shrink from making a great general talk poetry
-when half the great generals of his [[Time|time]] actually wrote great poetry?
+when half the great generals of his time actually wrote great poetry?
 
 The whole legend, therefore, which some critics have based on
-the rich rhetoric of [[Macbeth]]:  the legend that [[Macbeth]] was a febrile
+the rich rhetoric of Macbeth:  the legend that Macbeth was a febrile
 and egotistical coward because he liked the sound of his own voice,
 may be dismissed as a manifestation of the diseases of later days.
-Shakespeare meant [[Macbeth]] for a fine orator for he made fine speeches;
+Shakespeare meant Macbeth for a fine orator for he made fine speeches;
 he also meant him for a fine soldier because he made him not
 only win battles bravely but what is much more to the point,
 lose battles bravely; he made him, when overwhelmed by enemies
-in heaven and earth, die the [[Death|death]] of a [[Hero|hero]].  But [[Macbeth]] is meant
-to be among other things an orator and a poet; and it is to [[Macbeth]]
-in this capacity that the evil [[Supernatural|supernatural]] appeal is made.
+in heaven and earth, die the death of a hero.  But Macbeth is meant
+to be among other things an orator and a poet; and it is to Macbeth
+in this capacity that the evil supernatural appeal is made.
 If there be any such thing as evil influences coming from beyond
 the world, they have never been so suggestively indicated as they
 are here.  They appeal, as evil always does, to the existence
 of a coherent and comprehensible scheme.  It is the essence
-of a [[nightmare]] that it turns the whole cosmos against us.
+of a nightmare that it turns the whole cosmos against us.
 Two of their prophecies have been fulfilled; may it not be assumed
 then that the third will also be fulfilled?
 
 Also they appeal, as evil always does (being slavish itself and
-believing all men slaves) to the inevitable.  They put [[Macbeth]]'s good
+believing all men slaves) to the inevitable.  They put Macbeth's good
 fortune before him as if it were not so much a fortune as a fate.
 In the same way imperialists sought to salve the consciences
 of Englishmen by giving them the offer of gold and empire with all
 the gloom of predestination.  When the devil, and the witches
 who are the servants of the devil, wish to make a weak man snatch
-a [[Crown|crown]] that does not belong to him, they are too cunning to come
-to him and say "Will you be [[King]]?"  They say without further parley,
-"All hail, [[Macbeth]], that shall be [[King|king]] hereafter".  This weakness
-[[Macbeth]] really has; that he is easily attracted by that kind of
+a crown that does not belong to him, they are too cunning to come
+to him and say "Will you be King?"  They say without further parley,
+"All hail, Macbeth, that shall be king hereafter".  This weakness
+Macbeth really has; that he is easily attracted by that kind of
 spiritual fatalism which relieves the human creature of a great part
 of his responsibility.  In this way there is a strange and sinister
 appropriateness in the way in which the promises of the evil spirits
 end in new fantasies; end, so to speak, as mere diabolical jokes.
-[[Macbeth]] accepts as a piece of unreasoning fate first his crime
-and then his [[Crown|crown]].  It is appropriate that this fate which he has
+Macbeth accepts as a piece of unreasoning fate first his crime
+and then his crown.  It is appropriate that this fate which he has
 accepted as external and irrational should end in incidents of mere
-extravagant bathos, in the walking forest and strange birth of [[Macduff]].
-He has once surrendered himself with a kind of dark and evil [[Faith|faith]],
+extravagant bathos, in the walking forest and strange birth of Macduff.
+He has once surrendered himself with a kind of dark and evil faith,
 to a machinery of destiny that he can neither respect nor understand,
 and it is the proper sequel of this that the machinery should produce
 a situation which crushes him as something useless.

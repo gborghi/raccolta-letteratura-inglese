@@ -178,8 +178,8 @@ or rather as cockshies to be pelted by empty-handed [[cockneys]].  It would
 be better to see the whole thing as a remote Asiatic cult; the mitres
 of its bishops as the towering head dresses of mysterious bonzes;
 its [[Pastoral|pastoral]] staffs as the sticks twisted like serpents carried
-in some Asiatic procession; to see the [[prayer]] book as fantastic
-as the [[prayer]]-[[Wheel|wheel]] and the [[Cross]] as crooked as the Swastika.
+in some Asiatic procession; to see the [[Prayer|prayer]] book as fantastic
+as the [[Prayer|prayer]]-[[Wheel|wheel]] and the [[Cross]] as crooked as the Swastika.
 Then at least we should not lose our temper as some of the sceptical
 critics seem to lose their temper, not to mention their wits.
 Their anti-clericalism has become an atmosphere, an atmosphere
@@ -759,20 +759,20 @@ its walls large and sprawling outlines diversified with coloured earths;
 and when they followed the lines of them they recognised,
 across that vast and void of ages, the movement and the gesture
 of a man's hand.  They were drawings or paintings of [[Animals|animals]];
-and they were drawn or painted not only by a man but by an [[artist]].
+and they were drawn or painted not only by a man but by an [[Artist|artist]].
 Under whatever archaic limitations, they showed that [[Love|love]] of
 the long sweeping or the long wavering line which any man who has
 ever drawn or tried to draw will recognise; and about which no
-[[artist]] will allow himself to be contradicted by any scientist.
-They showed the experimental and adventurous spirit of the [[artist]],
+[[Artist|artist]] will allow himself to be contradicted by any scientist.
+They showed the experimental and adventurous spirit of the [[Artist|artist]],
 the spirit that does not avoid but attempt difficult things;
 as where the draughtsman had represented the action of the stag when
 he swings his head clean round and noses towards his tail, an action
 familiar enough in the [[Horse|horse]].  But there are many modern animal-painters
 who would set themselves something of a task in rendering it truly.
-In this and twenty other details it is clear that the [[artist]] had watched
+In this and twenty other details it is clear that the [[Artist|artist]] had watched
 [[Animals|animals]] with a certain interest and presumably a certain pleasure.
-In that sense it would seem that he was not only an [[artist]] but
+In that sense it would seem that he was not only an [[Artist|artist]] but
 a naturalist; the sort of naturalist who is really natural.
 
 Now it is needless to note, except in passing, that there is nothing
@@ -824,7 +824,7 @@ not be tempted into seeing what was not there, by any evolutionary
 excitement or fashionable speculation.  If he had heard of such
 things he would admit, of course, that the speculations might be
 true and were not incompatible with the facts that were true.
-The [[artist]] may have had another side to his character besides
+The [[Artist|artist]] may have had another side to his character besides
 that which he has [[Alone|alone]] left on record in his works of art.
 The primitive man may have taken a pleasure in beating women
 as [[Well|well]] as in drawing [[Animals|animals]]; all we can say is that the drawings
@@ -1368,7 +1368,7 @@ Such speculators rather tend to forget, for instance, that men
 in the modern world also sometimes make marks in caves.  When a crowd
 of trippers is conducted through the labyrinth of the Marvelous Grotto
 or the [[Magic]] Stalactite Cavern, it has been observed that hieroglyphics
-[[Spring|spring]] into sight where they have passed; initials and inscriptions
+[[spring]] into sight where they have passed; initials and inscriptions
 which the learned refuse to refer to any remote date.  But the [[Time|time]]
 will come when these inscriptions will really be of remote date.
 And if the professors of the future are anything like the professors
@@ -1455,10 +1455,10 @@ In other words, it is explaining painting by saying that it arose
 out of the work of painters; or accounting for art by saying that it
 arose out of art.  It is even more like saying that the thing we
 call poetry arose as the result of certain customs; such as that of
-an ode being officially composed to celebrate the advent of [[Spring|spring]];
+an ode being officially composed to celebrate the advent of [[spring]];
 or that of a young man rising at a regular hour to listen
 to the skylark and then writing his report on a piece of paper.
-It is quite true that young men often become poets in the [[Spring|spring]];
+It is quite true that young men often become poets in the [[spring]];
 and it is quite true that when once there are poets, no mortal
 power can restrain them from writing about the skylark.
 But the [[Poems|poems]] did not exist before the poets.  The poetry did
@@ -1470,16 +1470,16 @@ way of saying that it only arose when it existed already.
 It needed a certain sort of mind to see that there was anything
 mystical about the [[Dreams|dreams]] or the dead, as it needed a particular sort
 of mind to see that there was any thing poetical about the skylark
-or the [[Spring|spring]].  That mind was presumably what we call the human mind,
+or the [[spring]].  That mind was presumably what we call the human mind,
 very much as it exists to this day; for mystics still meditate upon
-[[Death|death]] and [[Dreams|dreams]] as poets still write about [[Spring|spring]] and skylarks.
+[[Death|death]] and [[Dreams|dreams]] as poets still write about [[spring]] and skylarks.
 But there is not the faintest hint to suggest that anything short of
 the human mind we know feels any of these mystical associations at all.
 A cow in a field seems to derive no lyrical impulse or instruction
 from her unrivalled opportunities for listening to the skylark.
 And similarly there is no reason to suppose that live sheep will
 ever begin to use dead sheep as the basis of a system of elaborate
-ancestor-worship. It is true that in the [[Spring|spring]] a young quadruped's
+ancestor-worship. It is true that in the [[spring]] a young quadruped's
 fancy may lightly turn to thoughts of [[Love|love]], but no succession of springs
 has ever led it to turn however lightly to thoughts of literature.
 And in the same way, while it is true that a dog has [[Dreams|dreams]],
@@ -1514,7 +1514,7 @@ must long ago have told us that the [[Animals|animals]] are not to all
 appearance evolving in that sense; and that, to say the least,
 we are not likely to have any personal evidence of their
 passing from the animal experience to the human experiments.
-But [[Spring|spring]] and [[Death|death]] and even [[Dreams|dreams]], considered merely as experiences,
+But [[spring]] and [[Death|death]] and even [[Dreams|dreams]], considered merely as experiences,
 are their experiences as much as ours.  The only possible conclusion
 is that these experiences, considered as experiences, do not generate
 anything like a religious sense in any mind except a mind like ours.
@@ -2487,7 +2487,7 @@ other ancient lights, or lights that may be conjectured to be
 very ancient, in very remote parts of that vast wilderness of [[Night|night]].
 Far away to the east there is a high civilisation of vast antiquity
 in China; there are the remains of civilisations in Mexico and
-South [[america|America]] and other places, some of them apparently so high
+South [[America]] and other places, some of them apparently so high
 in civilisation as to have reached the most refined forms of
 devil-worship. But the difference lies in the element old tradition;
 the tradition of these lost cultures has been broken off,
@@ -3272,7 +3272,7 @@ But I [[Hope|hope]] also to show that these were bound to fail in the long run;
 and the world would have been lost if it had been unable to return
 to that great original simplicity of a single authority in all things.
 That we do preserve something of that primary simplicity that poets
-and philosophers can still indeed in some sense say an Universal [[prayer|Prayer]],
+and philosophers can still indeed in some sense say an Universal [[Prayer]],
 that we live in a large and serene world under a sky that stretches
 paternally over all the peoples of the earth, that [[philosophy]]
 and philanthropy are truisms in a religion of reasonable men,
@@ -3461,7 +3461,7 @@ modern novels as easily as through communal and antiquated myths.
 I would undertake to find something like a bunch of [[Flowers|flowers]]
 figuring again and again from the fatal bouquet of Becky Sharpe
 to the spray of roses sent by the Princess of Ruritania.
-But though these [[Flowers|flowers]] may [[Spring|spring]] from the same soil,
+But though these [[Flowers|flowers]] may [[spring]] from the same soil,
 it is not the same faded flower that is flung from hand to hand.
 Those [[Flowers|flowers]] are always fresh.
 
@@ -3498,7 +3498,7 @@ subtle ideas.  Everybody ought to know that, for everybody
 has been a [[Child|child]].  Ignorant as a [[Child|child]] is, he knows more than
 he can say and feels not only atmospheres but fine shades.
 And in this matter there are several fine shades.  Nobody understands
-it who has not had what can only be called the ache of the [[artist]]
+it who has not had what can only be called the ache of the [[Artist|artist]]
 to find some sense and some story in the beautiful things he sees;
 his hunger for [[Secrets|secrets]] and his anger at any tower or tree escaping
 with its tale untold.  He feels that nothing is perfect unless
@@ -3522,7 +3522,7 @@ a new meaning to the white world and the evergreens, so that [[Snow|snow]]
 itself seems to be warm rather than cold.  The test therefore
 is purely imaginative.  But imaginative does not mean imaginary.
 It does not follow that it is all what the moderns call subjective,
-when they mean false.  Every true [[artist]] does feel, consciously
+when they mean false.  Every true [[Artist|artist]] does feel, consciously
 or unconsciously, that he is touching transcendental truths;
 that his images are shadows of things seen through the veil.
 In other words, the natural mystic does know that there is
@@ -3771,7 +3771,7 @@ the stark and staring rigidity of Egyptian and Assyrian portraiture,
 through every kind of cracked [[Mirror|mirror]] of mad art that seemed to deform
 the world and displace the sky, it remained true to something
 about which there can be no argument; something that makes it
-possible for some [[artist]] of some school to stand suddenly still
+possible for some [[Artist|artist]] of some school to stand suddenly still
 before that particular deformity and say, 'My dream has come true.'
 Therefore do we all in fact feel that pagan or primitive myths
 are infinitely suggestive, so long as we are wise enough not to
@@ -3824,7 +3824,7 @@ a need.  It is by a normal and necessary action that his hands
 are lifted; but it is no less a [[Parable|parable]] that his hands are empty.
 About the [[Nature|nature]] of that need there will be more to say; but at this
 point it may be said that perhaps after all this true instinct,
-that [[prayer]] and sacrifice are a liberty and an enlargement, refers back
+that [[Prayer|prayer]] and sacrifice are a liberty and an enlargement, refers back
 to that vast and half-forgotten conception of universal fatherhood,
 which we have already seen everywhere fading from the morning sky.
 This is true; and yet it is not all the [[Truth|truth]].  There remains
@@ -3838,7 +3838,7 @@ those who are counted most pantheistic, like Shelley,
 start with some local and particular image as the pagans did.
 After all, Shelley wrote of the skylark because it was a skylark.
 You could not issue an imperial or international [[Translation|translation]] of it
-for use in South [[america|America]], in which it was changed to an ostrich.
+for use in South [[America]], in which it was changed to an ostrich.
 So the mythological [[Imagination|imagination]] moves as it were in circles,
 hovering either to find a place or to return to it.  In a word,
 mythology is a search; it is something that combines a recurrent
@@ -4045,7 +4045,7 @@ indeed be truly described as the idea of being worthy of the demons;
 of making oneself fit for their fastidious and exacting society.
 Superstition of the lighter sort toys with the idea that some trifle,
 some small gesture such as throwing the salt, may touch the hidden
-[[Spring|spring]] that works the mysterious machinery of the world.
+[[spring]] that works the mysterious machinery of the world.
 And there is after all something in the idea of such an Open Sesame.
 But with the appeal to lower spirits comes the horrible notion
 that the gesture must not only be very small but very low;
@@ -4119,7 +4119,7 @@ or granite or the dark red timber of the forests, a face at which
 the sky itself would break like a cracked [[Mirror|mirror]].
 
 In any case it is clear enough that the painted and gilded civilisation
-of tropical [[america|America]] systematically indulged in human sacrifice.
+of tropical [[America]] systematically indulged in human sacrifice.
 It is by no means clear, so far as I know, that the Eskimos ever
 indulged in human sacrifice.  They were not civilised enough.
 They were too closely imprisoned by the white [[Winter|winter]] and the
@@ -4714,7 +4714,7 @@ like those Persian mystics to whom I wish there were space to do justice.
 None of them could understand a thing that began to draw the proportions
 just as if they were real proportions, disposed in the living fashion
 which the mathematical draughtsman would call disproportionate.
-Like the first [[artist]] in the [[Cave|cave]], it revealed to incredulous
+Like the first [[Artist|artist]] in the [[Cave|cave]], it revealed to incredulous
 eyes the suggestion of a new purpose in what looked like a wildly
 crooked pattern; he seemed only to be distorting his diagram,
 when he began for the first [[Time|time]] in all the ages to trace the lines
@@ -5153,7 +5153,7 @@ and tossed aside more and more letters, full of rather queer
 alarmist reports.  So argued and acted the great Carthaginian Empire.
 That meaningless prejudice, the curse of commercial states, that stupidity
 is in some way practical and that genius is in some way futile,
-led them to starve and abandon that great [[artist]] in the school of arms,
+led them to starve and abandon that great [[Artist|artist]] in the school of arms,
 whom the gods had given them in vain.
 
 Why do men entertain this queer idea that what is sordid must always
@@ -7544,7 +7544,7 @@ that Mrs. Eddy was a Red Indian.  And if I allowed my constitutional
 impatience with Mrs. Eddy to impel me to call her a Red Indian, I should
 incidentally be telling a lie.  We may like or dislike the imperial
 civilisation of Rome in the fourth century; we may like or dislike
-the industrial civilisation of [[america|America]] in the nineteenth century;
+the industrial civilisation of [[America]] in the nineteenth century;
 but that they both were what we commonly mean by a civilisation
 no person of commonsense could deny if he wanted to.  This is a very
 obvious fact but it is also a very fundamental one; and we must
@@ -7581,7 +7581,7 @@ totally different.  It is certainly a Christmas tree in the sense
 that it keeps the kindliness and moral [[Beauty|beauty]] of the story of Bethlehem;
 but it was as ritualistic as the seven-branched candlestick,
 and the candles it carried were considerably more than were
-probably permitted by the first [[prayer]]-book of Edward the Sixth.
+probably permitted by the first [[Prayer|prayer]]-book of Edward the Sixth.
 It might [[Well|well]] be asked, indeed, why any one accepting the Bethlehem
 tradition should object to golden or gilded ornament since
 the Magi themselves brought gold, why he should dislike incense

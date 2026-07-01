@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 20 (part 2)"
+title: "Dombey and Son — Chapter 48 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,127 +14,126 @@ tags:
 </nav>
 
 
-The haughty coldness of the reply seemed to afford [[Major Bagstock]]
-infinite delight. He swelled and swelled, exceedingly: and even laid
-down his knife and fork for a moment, to rub his hands.
+“Cheerily,” said the Captain. “Cheerily! Stand by, my pretty one, stand
+by! There! You’re better now. Steady’s the word, and steady it is. Keep
+her so! Drink a little drop o’ this here,” said the Captain. “There you
+are! What cheer now, my pretty, what cheer now?”
 
-“Old Joe, Sir,” said the Major, “was a bit of a favourite in that
-quarter once. But Joe has had his day. J. Bagstock is
-extinguished—outrivalled—floored, Sir.”
+At this stage of her recovery, [[Captain Cuttle]], with an imperfect
+association of a Watch with a Physician’s treatment of a patient, took
+his own down from the mantel-shelf, and holding it out on his hook, and
+taking Florence’s hand in his, looked steadily from one to the other,
+as expecting the dial to do something.
 
-“I should have supposed,” Mr Dombey replied, “that the lady’s day for
-favourites was over: but perhaps you are jesting, Major.”
+“What cheer, my pretty?” said the Captain. “What cheer now? You’ve done
+her some good, my lad, I believe,” said the Captain, under his breath,
+and throwing an approving glance upon his watch. “Put you back
+half-an-hour every morning, and about another quarter towards the
+arternoon, and you’re a watch as can be ekalled by few and excelled by
+none. What cheer, my lady lass!”
 
-“Perhaps you are jesting, Dombey?” was the Major’s rejoinder.
+“[[Captain Cuttle]]! Is it you?” exclaimed Florence, raising herself a
+little.
 
-There never was a more unlikely possibility. It was so clearly
-expressed in Mr Dombey’s face, that the Major apologised.
+“Yes, yes, my lady lass,” said the Captain, hastily deciding in his own
+mind upon the superior elegance of that form of address, as the most
+courtly he could think of.
 
-“I beg your pardon,” he said. “I see you are in earnest. I tell you
-what, Dombey.” The Major paused in his eating, and looked mysteriously
-indignant. “That’s a de-vilish ambitious woman, Sir.”
+“Is Walter’s Uncle here?” asked Florence.
 
-Mr Dombey said “Indeed?” with frigid indifference: mingled perhaps with
-some contemptuous [[Incredulity|incredulity]] as to Miss Tox having the presumption to
-harbour such a superior quality.
+“Here, pretty?” returned the Captain. “He ain’t been here this many a
+long day. He ain’t been heerd on, since he sheered off arter poor
+Wal”r. But,” said the Captain, as a quotation, “Though lost to sight,
+to [[Memory|memory]] dear, and England, [[Home]], and [[Beauty]]!”
 
-“That woman, Sir,” said the Major, “is, in her way, a [[Lucifer]]. Joey B.
-has had his day, Sir, but he keeps his eyes. He sees, does Joe. His
-Royal Highness the late [[Duke of York]] observed of Joey, at a levee, that
-he saw.”
+“Do you live here?” asked Florence.
 
-The Major accompanied this with such a look, and, between eating,
-drinking, hot tea, devilled grill, muffins, and meaning, was altogether
-so swollen and inflamed about the head, that even Mr Dombey showed some
-anxiety for him.
+“Yes, my lady lass,” returned the Captain.
 
-“That ridiculous old spectacle, Sir,” pursued the Major, “aspires. She
-aspires sky-high, Sir. Matrimonially, Dombey.”
+“Oh, [[Captain Cuttle]]!” cried Florence, putting her hands together, and
+speaking wildly. “Save me! keep me here! Let no one know where I am!
+I’ll tell you what has happened by-and-by, when I can. I have no one in
+the world to go to. Do not send me away!”
 
-“I am sorry for her,” said Mr Dombey.
+“Send you away, my lady lass!” exclaimed the Captain. “You, my Heart’s
+Delight! Stay a bit! We’ll put up this here deadlight, and take a
+[[Double|double]] turn on the key!”
 
-“Don’t say that, Dombey,” returned the Major in a warning voice.
+With these words, the Captain, using his one hand and his hook with the
+greatest dexterity, got out the shutter of the door, put it up, made it
+all fast, and locked the door itself.
 
-“Why should I not, Major?” said Mr Dombey.
+When he came back to the side of Florence, she took his hand, and
+kissed it. The helplessness of the action, the appeal it made to him,
+the confidence it expressed, the unspeakable sorrow in her face, the
+[[Pain|pain]] of mind she had too plainly suffered, and was [[Suffering|suffering]] then, his
+knowledge of her past [[history]], her present lonely, worn, and
+unprotected appearance, all so rushed upon the good Captain together,
+that he fairly overflowed with compassion and gentleness.
 
-The Major gave no answer but the [[Horse|horse]]’s cough, and went on eating
-vigorously.
+“My lady lass,” said the Captain, polishing the bridge of his nose with
+his arm until it shone like burnished copper, “don’t you say a word to
+Ed’ard Cuttle, until such times as you finds yourself a riding smooth
+and easy; which won’t be today, nor yet to-morrow. And as to giving of
+you up, or reporting where you are, yes verily, and by God’s help, so I
+won’t, Church catechism, make a note on!”
 
-“She has taken an interest in your household,” said the Major, stopping
-short again, “and has been a frequent visitor at your [[house]] for some
-[[Time|time]] now.”
+This the Captain said, reference and all, in one breath, and with much
+solemnity; taking off his hat at “yes verily,” and putting it on again,
+when he had quite concluded.
 
-“Yes,” replied Mr Dombey with great stateliness, “Miss Tox was
-originally received there, at the [[Time|time]] of Mrs Dombey’s [[Death|death]], as a
-friend of my sister’s; and being a [[Well|well]]-behaved person, and showing a
-liking for the poor infant, she was permitted—may I say encouraged—to
-repeat her visits with my sister, and gradually to occupy a kind of
-footing of familiarity in the family. I have,” said Mr Dombey, in the
-tone of a man who was making a great and valuable concession, “I have a
-respect for Miss Tox. She has been so obliging as to render many little
-services in my [[house]]: trifling and insignificant services perhaps,
-Major, but not to be disparaged on that account: and I [[Hope|hope]] I have had
-the good fortune to be enabled to acknowledge them by such attention
-and notice as it has been in my power to bestow. I hold myself indebted
-to Miss Tox, Major,” added Mr Dombey, with a slight wave of his hand,
-“for the pleasure of your acquaintance.”
+Florence could do but one thing more to thank him, and to show him how
+she trusted in him; and she did it. Clinging to this rough creature as
+the last asylum of her bleeding heart, she laid her head upon his
+honest shoulder, and clasped him round his neck, and would have kneeled
+down to bless him, but that he divined her purpose, and held her up
+like a true man.
 
-“Dombey,” said the Major, warmly: “no! No, Sir! Joseph Bagstock can
-never permit that assertion to pass uncontradicted. Your knowledge of
-old Joe, Sir, such as he is, and old Joe’s knowledge of you, Sir, had
-its origin in a noble fellow, Sir—in a great creature, Sir. Dombey!”
-said the Major, with a struggle which it was not very difficult to
-parade, his whole life being a struggle against all kinds of apoplectic
-symptoms, “we knew each other through your boy.”
+“Steady!” said the Captain. “Steady! You’re too weak to stand, you see,
+my pretty, and must lie down here again. There, there!” To see the
+Captain lift her on the sofa, and cover her with his coat, would have
+been worth a hundred state sights. “And now,” said the Captain, “you
+must take some breakfast, lady lass, and the dog shall have some too.
+And arter that you shall go aloft to old Sol Gills’s room, and fall
+asleep there, like a angel.”
 
-Mr Dombey seemed touched, as it is not improbable the Major designed he
-should be, by this allusion. He looked down and sighed: and the Major,
-rousing himself fiercely, again said, in reference to the state of mind
-into which he felt himself in danger of falling, that this was
-weakness, and nothing should induce him to submit to it.
+[[Captain Cuttle]] patted Diogenes when he made allusion to him, and
+Diogenes met that overture graciously, half-way. During the
+administration of the restoratives he had clearly been in two minds
+whether to fly at the Captain or to offer him his [[Friendship|friendship]]; and he
+had expressed that conflict of feeling by alternate waggings of his
+tail, and displays of his teeth, with now and then a growl or so. But
+by this [[Time|time]], his doubts were all removed. It was plain that he
+considered the Captain one of the most amiable of men, and a man whom
+it was an [[Honour|honour]] to a dog to know.
 
-“Our friend had a remote connexion with that event,” said the Major,
-“and all the credit that belongs to her, J. B. is willing to give her,
-Sir. Notwithstanding which, Ma’am,” he added, raising his eyes from his
-plate, and casting them across Princess’s Place, to where Miss Tox was
-at that moment visible at her [[Window|window]] watering her [[Flowers|flowers]], “you’re a
-scheming jade, Ma’am, and your [[Ambition|ambition]] is a piece of monstrous
-impudence. If it only made yourself ridiculous, Ma’am,” said the Major,
-[[rolling]] his head at the unconscious Miss Tox, while his starting eyes
-appeared to make a leap towards her, “you might do that to your heart’s
-content, Ma’am, without any objection, I assure you, on the part of
-Bagstock.” Here the Major laughed frightfully up in the tips of his
-ears and in the veins of his head. “But when, Ma’am,” said the Major,
-“you compromise other people, and generous, unsuspicious people too, as
-a repayment for their condescension, you stir the [[Blood|blood]] of old Joe in
-his [[Body|body]].”
+In evidence of these convictions, Diogenes attended on the Captain
+while he made some tea and toast, and showed a lively interest in his
+housekeeping. But it was in vain for the kind Captain to make such
+preparations for Florence, who sorely tried to do some [[Honour|honour]] to them,
+but could touch nothing, and could only weep and weep again.
 
-“Major,” said Mr Dombey, reddening, “I [[Hope|hope]] you do not hint at anything
-so absurd on the part of Miss Tox as—”
+“[[Well]], [[Well|well]]!” said the compassionate Captain, “arter turning in, my
+Heart’s Delight, you’ll get more way upon you. Now, I’ll serve out your
+allowance, my lad.” To Diogenes. “And you shall keep guard on your
+mistress aloft.”
 
-“Dombey,” returned the Major, “I hint at nothing. But Joey B. has lived
-in the world, Sir: lived in the world with his eyes open, Sir, and his
-ears cocked: and Joe tells you, Dombey, that there’s a devilish artful
-and ambitious woman over the way.”
+Diogenes, however, although he had been eyeing his intended breakfast
+with a watering mouth and glistening eyes, instead of falling to,
+ravenously, when it was put before him, pricked up his ears, darted to
+the shop-door, and barked there furiously: burrowing with his head at
+the [[Bottom|bottom]], as if he were bent on mining his way out.
 
-Mr Dombey involuntarily glanced over the way; and an angry glance he
-sent in that direction, too.
+“Can there be anybody there!” asked Florence, in alarm.
 
-“That’s all on such a subject that shall pass the lips of Joseph
-Bagstock,” said the Major firmly. “Joe is not a tale-bearer, but there
-are times when he must speak, when he will speak!—confound your arts,
-Ma’am,” cried the Major, again apostrophising his fair neighbour, with
-great ire,—“when the provocation is too strong to admit of his
-remaining silent.”
+“No, my lady lass,” returned the Captain. “Who’d stay there, without
+making any noise! Keep up a good heart, pretty. It’s only people going
+by.”
 
-The emotion of this outbreak threw the Major into a paroxysm of [[Horse|horse]]’s
-coughs, which held him for a long [[Time|time]]. On recovering he added:
-
-“And now, Dombey, as you have invited Joe—old Joe, who has no other
-merit, Sir, but that he is tough and hearty—to be your guest and guide
-at Leamington, command him in any way you please, and he is wholly
-yours. I don’t know, Sir,” said the Major, wagging his [[Double|double]] chin with
-a jocose air, “what it is you people see in Joe to make you hold him in
-such great request, all of you; but this I know, Sir, that if he wasn’t
-pretty tough, and obstinate in his refusals, you’d kill him among you
-with your invitations and so forth, in [[Double|double]]-quick [[Time|time]].”
+But for all that, Diogenes barked and barked, and burrowed and
+burrowed, with pertinacious fury; and whenever he stopped to listen,
+appeared to receive some new conviction into his mind, for he set to,
+barking and burrowing again, a dozen times. Even when he was persuaded
+to return to his breakfast, he came jogging back to it, with a very
+doubtful air; and was off again, in another paroxysm, before touching a
+morsel.

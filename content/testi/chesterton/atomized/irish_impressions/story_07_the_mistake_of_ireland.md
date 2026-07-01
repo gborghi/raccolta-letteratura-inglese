@@ -52,7 +52,7 @@ and her wrongs are not the subjective fancies of the Irish.
 Irishmen did not dream that they were evicted out of [[house]] and [[Home|home]]
 by the ruthless application of a land law no man now dares to defend.
 It was not a [[nightmare]] that dragged them from their beds;
-nor were they sleepwalkers when they wandered as far as [[america|America]].
+nor were they sleepwalkers when they wandered as far as [[America]].
 Skeffington did not have a delusion that he was being shot for keeping
 the peace; the shooting was objective, as the Prussian professors
 would say; as objective as the Prussian militarists could [[Desire|desire]].

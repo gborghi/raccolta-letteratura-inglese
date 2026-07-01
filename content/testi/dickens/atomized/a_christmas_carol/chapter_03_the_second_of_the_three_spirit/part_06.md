@@ -1,5 +1,5 @@
 ---
-title: "A Christmas [[carol|Carol]] — Stave 3: THE SECOND OF THE THREE SPIRITS (part 6)"
+title: "A Christmas Carol — Stave 3: THE SECOND OF THE THREE SPIRITS (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-christmas-carol-(dickens)"
@@ -13,6 +13,49 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_christmas_carol/chapter_03_the_second_of_the_three_spirit/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/a_christmas_carol/chapter_03_the_second_of_the_three_spirit/part_07">part 07 ›</a></div>
 </nav>
 
+
+Built upon a dismal reef of sunken rocks, some league
+or so from shore, on which the waters chafed and dashed,
+the wild year through, there stood a solitary lighthouse.
+Great heaps of sea-weed clung to its base, and [[Storm|storm]]-[[Birds|birds]]
+--born of the [[Wind|wind]] one might suppose, as sea-weed of the
+[[Water|water]]--[[Rose|rose]] and fell about it, like the waves they skimmed.
+
+But even here, two men who watched the light had made
+a [[Fire|fire]], that through the loophole in the thick stone wall shed
+out a ray of brightness on the awful sea. Joining their
+horny hands over the rough table at which they sat, they
+wished each other Merry Christmas in their can of grog; and
+one of them: the elder, too, with his face all damaged and
+scarred with hard weather, as the figure-head of an old [[Ship|ship]]
+might be: struck up a sturdy [[Song|song]] that was like a Gale in
+itself.
+
+Again the [[Ghost]] sped on, above the black and heaving sea
+--on, on--until, being far away, as he told Scrooge, from any
+shore, they lighted on a [[Ship|ship]]. They stood beside the helmsman
+at the [[Wheel|wheel]], the look-out in the bow, the officers who
+had the watch; dark, ghostly figures in their several stations;
+but every man among them hummed a Christmas tune, or
+had a Christmas thought, or spoke below his breath to his
+companion of some bygone Christmas Day, with homeward
+hopes belonging to it. And every man on board, waking or
+sleeping, good or bad, had had a kinder word for another
+on that day than on any day in the year; and had shared
+to some extent in its festivities; and had remembered those
+he cared for at a distance, and had known that they delighted
+to remember him.
+
+It was a great surprise to Scrooge, while listening to the
+moaning of the [[Wind|wind]], and thinking what a solemn thing it
+was to move on through the lonely darkness over an unknown
+abyss, whose depths were [[Secrets|secrets]] as profound as [[Death]]: it
+was a great surprise to Scrooge, while thus engaged, to hear
+a hearty laugh. It was a much greater surprise to Scrooge
+to recognise it as his own nephew's and to find himself in a
+bright, dry, gleaming room, with the Spirit standing smiling
+by his side, and looking at that same nephew with approving
+affability!
 
 "Ha, ha!" laughed Scrooge's nephew. "Ha, ha, ha!"
 
@@ -110,59 +153,3 @@ him--if he finds me going there, in good temper, year after
 year, and saying Uncle Scrooge, how are you? If it only
 puts him in the vein to leave his poor clerk fifty pounds,
 that's something; and I think I shook him yesterday."
-
-It was their turn to laugh now at the notion of his shaking
-Scrooge. But being thoroughly good-natured, and not much
-caring what they laughed at, so that they laughed at any
-rate, he encouraged them in their merriment, and passed the
-bottle joyously.
-
-After tea, they had some music. For they were a musical
-family, and knew what they were about, when they sung a
-Glee or Catch, I can assure you: especially Topper, who
-could growl away in the bass like a good one, and never
-swell the large veins in his forehead, or get red in the face
-over it. Scrooge's niece played [[Well|well]] upon the harp; and
-played among other tunes a simple little air (a mere nothing:
-you might learn to whistle it in two minutes), which had
-been familiar to the [[Child|child]] who fetched Scrooge from the
-boarding-school, as he had been reminded by the [[Ghost]] of
-Christmas Past. When this strain of music sounded, all the
-things that [[Ghost]] had shown him, came upon his mind; he
-softened more and more; and thought that if he could have
-listened to it often, years ago, he might have cultivated the
-kindnesses of life for his own happiness with his own hands,
-without resorting to the sexton's spade that buried Jacob
-Marley.
-
-But they didn't devote the whole evening to music. After
-a while they played at forfeits; for it is good to be children
-sometimes, and never better than at Christmas, when its
-mighty Founder was a [[Child|child]] himself. Stop! There was first
-a game at blind-man's buff. Of course there was. And I
-no more believe Topper was really blind than I believe he
-had eyes in his boots. My opinion is, that it was a done
-thing between him and Scrooge's nephew; and that the
-[[Ghost of Christmas Present]] knew it. The way he went after
-that plump sister in the lace tucker, was an outrage on the
-credulity of human [[Nature|nature]]. Knocking down the [[Fire|fire]]-irons,
-tumbling over the chairs, bumping against the piano,
-smothering himself among the curtains, wherever she went,
-there went he! He always knew where the plump sister was.
-He wouldn't catch anybody else. If you had fallen up
-against him (as some of them did), on purpose, he would
-have made a feint of endeavouring to seize you, which would
-have been an affront to your understanding, and would instantly
-have sidled off in the direction of the plump sister.
-She often cried out that it wasn't fair; and it really was not.
-But when at last, he caught her; when, in spite of all her
-silken rustlings, and her rapid flutterings past him, he got
-her into a corner whence there was no escape; then his
-conduct was the most execrable. For his pretending not to
-know her; his pretending that it was necessary to touch her
-head-dress, and further to assure himself of her [[Identity|identity]] by
-pressing a certain ring upon her finger, and a certain chain
-about her neck; was vile, monstrous! No [[Doubt|doubt]] she told
-him her opinion of it, when, another blind-man being in
-office, they were so very confidential together, behind the
-curtains.

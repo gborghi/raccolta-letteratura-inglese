@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 12 (part 1)"
+title: "The Professor — Chapter 12 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -16,8 +16,6 @@ tags:
 
 CHAPTER XII.
 
-
-
 DAILY, as I continued my attendance at the seminary of Mdlle. Reuter,
 
 did I find fresh occasions to compare the ideal with the real. What
@@ -31,8 +29,6 @@ gauzy, glittering; now when I came in contact with it I found it to be
 a palpable substance enough; very hard too sometimes, and often heavy;
 
 there was metal in it, both lead and iron.
-
-
 
 Let the idealists, the dreamers about earthly angel and human [[Flowers|flowers]],
 
@@ -118,8 +114,6 @@ yet was the mass of them mentally depraved. So much for the general
 
 view: now for one or two selected specimens.
 
-
-
 The first picture is a full length of Aurelia Koslow, a German fraulein,
 
 or rather a half-breed between German and Russian. She is eighteen years
@@ -189,5 +183,3 @@ offered--she has recourse to the expedient of making noises; sometimes
 she sighs, sometimes groans, sometimes utters inarticulate sounds, for
 
 which language has no name. If, in walking up the schoolroom, I pass
-
-near her, she puts out her foot that it may touch mine; if I do not

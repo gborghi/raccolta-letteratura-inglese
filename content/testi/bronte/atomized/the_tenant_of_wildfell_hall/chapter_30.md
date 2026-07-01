@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 30"
+title: "The Tenant of Wildfell Hall — Chapter 30"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -48,7 +48,7 @@ thought the [[Time|time]] was come.
 
 
 
-“It is the same cook as we had before you went, [[arthur|Arthur]],” said I. “You
+“It is the same cook as we had before you went, [[Arthur]],” said I. “You
 
 were generally pretty [[Well|well]] satisfied with her then.”
 
@@ -104,7 +104,7 @@ alarming concussion with the trayful of crockery in his hands, but no
 
 positive damage, save the fall and breaking of a sauce tureen; but, to
 
-my unspeakable shame and dismay, [[arthur|Arthur]] turned furiously around upon
+my unspeakable shame and dismay, [[Arthur]] turned furiously around upon
 
 him, and swore at him with savage coarseness. The poor man turned pale,
 
@@ -112,7 +112,7 @@ and visibly trembled as he stooped to pick up the fragments.
 
 
 
-“He couldn’t help it, [[arthur|Arthur]],” said I; “the carpet caught his foot, and
+“He couldn’t help it, [[Arthur]],” said I; “the carpet caught his foot, and
 
 there’s no great harm done. Never mind the pieces now, Benson; you can
 
@@ -128,13 +128,13 @@ withdrew.
 
 “What _could_ you mean, [[Helen]], by taking the servant’s part against
 
-me,” said [[arthur|Arthur]], as soon as the door was closed, “when you knew I was
+me,” said [[Arthur]], as soon as the door was closed, “when you knew I was
 
 distracted?”
 
 
 
-“I did not know you were distracted, [[arthur|Arthur]]: and the poor man was quite
+“I did not know you were distracted, [[Arthur]]: and the poor man was quite
 
 frightened and hurt at your sudden explosion.”
 
@@ -166,7 +166,7 @@ complain of mine.”
 
 
 
-“Then why do you try yours, [[arthur|Arthur]]?”
+“Then why do you try yours, [[Arthur]]?”
 
 
 
@@ -212,7 +212,7 @@ hand on his forehead. It was burning indeed.
 
 
 
-“Then come with me into the drawing-room, [[arthur|Arthur]]; and don’t take any
+“Then come with me into the drawing-room, [[Arthur]]; and don’t take any
 
 more wine: you have taken several glasses since dinner, and eaten next
 
@@ -224,7 +224,7 @@ With some coaxing and [[Persuasion|persuasion]], I got him to leave the table. W
 
 the baby was brought I tried to amuse him with that; but poor little
 
-[[arthur|Arthur]] was cutting his teeth, and his father could not bear his
+[[Arthur]] was cutting his teeth, and his father could not bear his
 
 complaints: sentence of immediate banishment was passed upon him on the
 
@@ -246,7 +246,7 @@ would please you to leave me [[Alone|alone]].”
 
 
 
-“I have not been very long, have I, [[arthur|Arthur]]? I have not been an hour,
+“I have not been very long, have I, [[Arthur]]? I have not been an hour,
 
 I’m sure.”
 
@@ -326,7 +326,7 @@ for I never looked at it. With an elbow on each side of it, and my
 
 hands clasped before my eyes, I delivered myself up to silent weeping.
 
-But [[arthur|Arthur]] was not asleep: at the first slight sob, he raised his head
+But [[Arthur]] was not asleep: at the first slight sob, he raised his head
 
 and looked round, impatiently exclaiming, “What are you crying for,
 
@@ -334,7 +334,7 @@ and looked round, impatiently exclaiming, “What are you crying for,
 
 
 
-“I’m crying for you, [[arthur|Arthur]],” I replied, speedily drying my [[Tears|tears]]; and
+“I’m crying for you, [[Arthur]],” I replied, speedily drying my [[Tears|tears]]; and
 
 starting up, I threw myself on my knees before him, and clasping his
 
@@ -376,7 +376,7 @@ character. There, there, do spare me a little.”
 
 
 
-“[[arthur|Arthur]], you _must_ repent!” cried I, in a frenzy of desperation,
+“[[Arthur]], you _must_ repent!” cried I, in a frenzy of desperation,
 
 throwing my arms around him and burying my face in his bosom. “You
 
@@ -638,7 +638,7 @@ and complaints of his unreasonably exacting father.
 
 
 
-But [[arthur|Arthur]] is not naturally a peevish or irritable man; so far from it,
+But [[Arthur]] is not naturally a peevish or irritable man; so far from it,
 
 that there was something almost ludicrous in the incongruity of this
 
@@ -690,7 +690,7 @@ And here I must not forget that I am not a little indebted to his
 
 friend Mr. Hargrave. About that [[Time|time]] he frequently called at Grassdale,
 
-and often dined with us, on which occasions I [[Fear|fear]] [[arthur|Arthur]] would
+and often dined with us, on which occasions I [[Fear|fear]] [[Arthur]] would
 
 willingly have cast prudence and decorum to the winds, and made “a
 
@@ -706,7 +706,7 @@ and toil to construct. I was so fearful of this at first, that I
 
 humbled myself to intimate to him, in private, my apprehensions of
 
-[[arthur|Arthur]]’s proneness to these excesses, and to express a [[Hope|hope]] that he
+[[Arthur]]’s proneness to these excesses, and to express a [[Hope|hope]] that he
 
 would not encourage it. He was pleased with this mark of confidence,
 
@@ -718,7 +718,7 @@ to further acts of intemperance; and he always succeeded in bringing
 
 him from the dining-room in good [[Time|time]], and in tolerably good condition;
 
-for if [[arthur|Arthur]] disregarded such intimations as “[[Well]], I must not detain
+for if [[Arthur]] disregarded such intimations as “[[Well]], I must not detain
 
 you from your lady,” or “We must not forget that Mrs. Huntingdon is
 
@@ -730,7 +730,7 @@ his host, however unwillingly, was obliged to follow.
 
 Hence I learned to welcome Mr. Hargrave as a real friend to the family,
 
-a harmless companion for [[arthur|Arthur]], to cheer his spirits and preserve him
+a harmless companion for [[Arthur]], to cheer his spirits and preserve him
 
 from the tedium of absolute idleness and a total isolation from all
 
@@ -764,7 +764,7 @@ should exist a secret understanding between my husband’s friend and me,
 
 unknown to him, of which he was the object. But my after-thought was,
 
-“If it is wrong, surely [[arthur|Arthur]]’s is the fault, not mine.”
+“If it is wrong, surely [[Arthur]]’s is the fault, not mine.”
 
 
 
@@ -810,7 +810,7 @@ save myself and him! Such vain presumption would be rightly served, if
 
 I should perish with him in the gulf from which I sought to save him!
 
-Yet, God preserve me from it, and him too! Yes, poor [[arthur|Arthur]], I will
+Yet, God preserve me from it, and him too! Yes, poor [[Arthur]], I will
 
 still [[Hope|hope]] and pray for you; and though I write as if you were some
 
@@ -824,7 +824,7 @@ would be less bitter, less dissatisfied.
 
 His conduct has, of late, been what the world calls irreproachable; but
 
-then I know his heart is still unchanged; and I know that [[spring]] is
+then I know his heart is still unchanged; and I know that [[Spring|spring]] is
 
 approaching, and deeply dread the consequences.
 
@@ -848,7 +848,7 @@ promised to go.
 
 
 
-“Then you will leave me again, [[arthur|Arthur]]?” said I.
+“Then you will leave me again, [[Arthur]]?” said I.
 
 
 
@@ -868,11 +868,11 @@ could bring myself up to the scratch.”
 
 
 
-About the third week in August, [[arthur|Arthur]] set out for Scotland, and Mr.
+About the third week in August, [[Arthur]] set out for Scotland, and Mr.
 
 Hargrave accompanied him thither, to my private satisfaction. Shortly
 
-after, I, with little [[arthur|Arthur]] and Rachel, went to Staningley, my dear
+after, I, with little [[Arthur]] and Rachel, went to Staningley, my dear
 
 old [[Home|home]], which, as [[Well|well]] as my dear old friends its inhabitants, I saw
 
@@ -886,7 +886,7 @@ those old familiar scenes, and tones, and faces.
 
 
 
-[[arthur|Arthur]] did not come [[Home|home]] till several weeks after my return to
+[[Arthur]] did not come [[Home|home]] till several weeks after my return to
 
 Grassdale; but I did not feel so anxious about him now; to think of him
 
@@ -914,7 +914,7 @@ his fox-hunting and coursing are a sufficient occupation for him
 
 without, when the ground is not hardened by [[Frost|frost]]; so that he is not
 
-wholly dependent on me for entertainment. But it is now January; [[spring]]
+wholly dependent on me for entertainment. But it is now January; [[Spring|spring]]
 
 is approaching; and, I repeat, I dread the consequences of its arrival.
 

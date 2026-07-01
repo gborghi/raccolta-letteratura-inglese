@@ -1,5 +1,5 @@
 ---
-title: "The [[Remarkable Rocket]]"
+title: "The Remarkable Rocket"
 author: "Wilde"
 unitType: work
 parentWork: "works/the-remarkable-rocket-(wilde)"

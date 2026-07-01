@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 23: I CORROBORATE Mr. DICK, AND CHOOSE A PROFESSION (part 3)"
+title: "David Copperfield — Chapter 23: I CORROBORATE Mr. DICK, AND CHOOSE A PROFESSION (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_23_i_corroborate_mr_dick_and_choo/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_23_i_corroborate_mr_dick_and_choo/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘Come!’ said my aunt. ‘That’s cheering!’
+
+‘I have only one difficulty, aunt.’
 
 ‘Say what it is, Trot,’ she returned.
 
@@ -137,12 +141,3 @@ person of whom he had made such mysterious mention, though what the
 to imagine. After half an hour’s cooling in the churchyard, I saw the
 chariot coming back. The driver stopped beside me, and my aunt was
 sitting in it [[Alone|alone]].
-
-She had not yet sufficiently recovered from her agitation to be quite
-prepared for the visit we had to make. She desired me to get into the
-chariot, and to tell the coachman to drive slowly up and down a little
-while. She said no more, except, ‘My dear [[Child|child]], never ask me what
-it was, and don’t refer to it,’ until she had perfectly regained her
-composure, when she told me she was quite herself now, and we might get
-out. On her giving me her purse to pay the driver, I found that all the
-guineas were gone, and only the loose silver remained.

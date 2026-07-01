@@ -14,6 +14,8 @@ tags:
 </nav>
 
 
+      the next not a breath of [[Wind|wind]] will be felt in that direction,
+
       while from the southwest it will come out all at once with a
 
       violence almost inconceivable. A bright spot to the southward is
@@ -191,9 +193,3 @@ tags:
       bill is long, and either pink or bright scarlet. These [[Birds|birds]] walk
 
       erect; with a stately carriage. They carry their heads high with
-
-      their wings drooping like two arms, and, as their tails project
-
-      from their [[Body|body]] in a line with the legs, the resemblance to a
-
-      human figure is very striking, and would be apt to deceive the

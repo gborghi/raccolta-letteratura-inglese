@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 17 (part 2)"
+title: "Nicholas Nickleby — Chapter 17 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_17/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_17/part_03">part 03 ›</a></div>
 </nav>
 
+
+Mr. Mantalini did not finish the sentence, but he gave Madame Mantalini
+a very loud kiss, which Madame Mantalini returned; after which, there
+seemed to be some more kissing mixed up with the progress of the
+breakfast.
 
 ‘And what about the cash, my existence’s [[Jewel|jewel]]?’ said Mantalini, when
 these endearments ceased. ‘How much have we in hand?’

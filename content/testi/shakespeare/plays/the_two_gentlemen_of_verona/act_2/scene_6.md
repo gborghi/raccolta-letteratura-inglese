@@ -1,5 +1,5 @@
 ---
-title: "The Two Gentlemen of [[Verona]] — Act II, Scene 6"
+title: "The Two Gentlemen of Verona — Act II, Scene 6"
 author: "Shakespeare"
 unitType: scene
 parentWork: "works/the-two-gentlemen-of-verona-(shakespeare)"

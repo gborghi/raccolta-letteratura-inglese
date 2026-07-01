@@ -1,5 +1,5 @@
 ---
-title: "[[A Descent Into the Maelstrom]] (part 5)"
+title: "A Descent Into the Maelstrom (part 5)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/a-descent-into-the-maelstrom-(poe)"
@@ -13,6 +13,34 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/a_descent_into_the_maelstrom/part/part_04">‹ part 04</a><a class="ex-next" href="/testi/poe/atomized/a_descent_into_the_maelstrom/part/part_06">part 06 ›</a></div>
 </nav>
 
+
+      “At first I could not make out what he meant—but soon a hideous
+      thought flashed upon me. I dragged my watch from its fob. It was
+      not going. I glanced at its face by the moonlight, and then burst
+      into [[Tears|tears]] as I flung it far away into the ocean. _It had run
+      down at seven o’[[Clock|clock]]! We were behind the [[Time|time]] of the slack, and
+      the whirl of the Ström was in full fury!_
+
+      “When a boat is [[Well|well]] built, properly trimmed, and not deep laden,
+      the waves in a strong gale, when she is going large, seem always
+      to slip from beneath her—which appears very strange to a
+      landsman—and this is what is called _riding_, in sea phrase.
+
+      “[[Well]], so far we had ridden the swells very cleverly; but
+      presently a gigantic sea happened to take us right under the
+      counter, and bore us with it as it [[Rose|rose]]—up—up—as if into the sky.
+      I would not have believed that any wave could rise so high. And
+      then down we came with a sweep, a slide, and a plunge, that made
+      me feel sick and dizzy, as if I was falling from some lofty
+      mountain-top in [[A Dream|a dream]]. But while we were up I had thrown a
+      quick glance around—and that one glance was all sufficient. I saw
+      our exact position in an instant. The Moskoe-Ström whirlpool was
+      about a quarter of a mile dead ahead—but no more like the
+      every-day Moskoe-Ström than the whirl as you now see it, is like
+      a mill-race. If I had not known where we were, and what we had to
+      expect, I should not have recognised the place at all. As it was,
+      I involuntarily closed my eyes in horror. The lids clenched
+      themselves together as if in a spasm.
 
       “It could not have been more than two minutes afterward until we
       suddenly felt the waves subside, and were enveloped in foam. The
@@ -89,25 +117,3 @@ tags:
       had I secured myself in my new position, when we gave a wild
       lurch to starboard, and rushed headlong into the abyss. I
       muttered a hurried [[prayer]] to God, and thought all was over.
-
-      “As I felt the sickening sweep of the descent, I had
-      instinctively tightened my hold upon the barrel, and closed my
-      eyes. For some seconds I dared not open them—while I expected
-      instant destruction, and wondered that I was not already in my
-      [[Death|death]]-struggles with the [[Water|water]]. But moment after moment elapsed.
-      I still lived. The sense of falling had ceased; and the motion of
-      the vessel seemed much as it had been before, while in the belt
-      of foam, with the exception that she now lay more along. I took
-      [[Courage|courage]], and looked once again upon the scene.
-
-      “Never shall I forget the sensations of awe, horror, and
-      admiration with which I gazed about me. The boat appeared to be
-      hanging, as if by [[Magic|magic]], midway down, upon the interior surface
-      of a funnel vast in circumference, prodigious in depth, and whose
-      perfectly smooth sides might have been mistaken for ebony, but
-      for the bewildering rapidity with which they spun around, and for
-      the gleaming and ghastly radiance they shot forth, as the rays of
-      the full [[Moon|moon]], from that circular rift amid the clouds which I
-      have already described, streamed in a flood of golden glory along
-      the black walls, and far away down into the inmost recesses of
-      the abyss.

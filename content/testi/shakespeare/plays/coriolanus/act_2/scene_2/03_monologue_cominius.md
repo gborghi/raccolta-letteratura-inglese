@@ -1,5 +1,5 @@
 ---
-title: "[[Coriolanus]] — Act II, Scene 2 — monologue ([[Cominius|COMINIUS]]) [3]"
+title: "Coriolanus — Act II, Scene 2 — monologue (COMINIUS) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/coriolanus-(shakespeare)"

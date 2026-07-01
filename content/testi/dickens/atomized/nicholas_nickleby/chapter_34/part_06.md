@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 34 (part 6)"
+title: "Nicholas Nickleby — Chapter 34 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_34/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_35/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘What more do you know about him?’ demanded Ralph.
+
+‘Devilish little, I’m sorry to say,’ replied Squeers. ‘The money was
+paid for some six or eight year, and then it stopped. He had given an
+address in [[London]], had this chap; but when it came to the point, of
+course nobody knowed anything about him. So I kept the lad out of--out
+of--’
 
 ‘[[Charity]]?’ suggested Ralph drily.
 

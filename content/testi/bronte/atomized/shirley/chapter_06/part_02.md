@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 6 (part 2)"
+title: "Shirley — Chapter 6 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_06/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_06/part_03">part 03 ›</a></div>
 </nav>
 
+
+and then, while she completed the exercise, or worked out the sum (for
+
+Mdlle. Moore taught her arithmetic too), she would wish [[Nature|nature]] had made
+
+her a boy instead of a girl, that she might ask Robert to let her be his
 
 clerk, and sit with him in the counting-[[house]], instead of sitting with
 
@@ -199,11 +205,3 @@ etc., and made her quite presentable. But Hortense would put the
 finishing touches herself, and these finishing touches consisted in a
 
 thick handkerchief tied round the throat, and a large, servant-like
-
-black apron, which spoiled everything. On no account would mademoiselle
-
-have appeared in her own [[house]] without the thick handkerchief and the
-
-voluminous apron. The first was a positive matter of [[morality]]--it was
-
-quite improper not to wear a fichu; the second was the ensign of a good

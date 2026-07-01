@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 46 (part 3)"
+title: "The Tenant of Wildfell Hall — Chapter 46 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,30 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_46/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_47/part_01">part 01 ›</a></div>
 </nav>
 
+
+have proved it to be otherwise.”
+
+
+
+“I never told you, Markham, that I _intended_ to marry Miss Wilson,”
+
+said he, proudly.
+
+
+
+“No, but whether you do or not, she intends to marry you.”
+
+
+
+“Did she tell you so?”
+
+
+
+“No, but—”
+
+
+
+“Then you have no right to make such an assertion respecting her.” He
 
 slightly quickened his pony’s pace, but I laid my hand on its mane,
 

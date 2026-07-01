@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 25 (part 3)"
+title: "Shirley — Chapter 25 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,26 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_25/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_26/part_01">part 01 ›</a></div>
 </nav>
 
+
+you must wear it."
+
+
+
+"My dear, I thought of the black silk serving me as a best dress for
+
+many years yet, and I wished to buy you several things."
+
+
+
+"Nonsense, mamma. My uncle gives me cash to get what I want. You know he
+
+is generous enough; and I have set my heart on seeing you in a black
+
+satin. Get it soon, and let it be made by a dressmaker of my
+
+recommending. Let me choose the pattern. You always want to disguise
+
+yourself like a grandmother. You would persuade one that you are old and
 
 ugly. Not at all! On the contrary, when [[Well|well]] dressed and cheerful you
 

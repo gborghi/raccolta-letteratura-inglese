@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 2 (part 1)"
+title: "The Mystery of Edwin Drood — Chapter 2 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -137,13 +137,3 @@ boy-like; Mr. Crisparkle, Minor Canon and good man, lately “Coach” upon
 the chief Pagan high roads, but since promoted by a patron (grateful
 for a [[Well|well]]-taught son) to his present Christian beat; betakes himself
 to the gatehouse, on his way [[Home|home]] to his early tea.
-
-“Sorry to hear from Tope that you have not been [[Well|well]], Jasper.”
-
-“O, it was nothing, nothing!”
-
-“You look a little worn.”
-
-“Do I? O, I don’t think so. What is better, I don’t feel so. Tope has
-made too much of it, I suspect. It’s his trade to make the most of
-everything appertaining to the [[Cathedral]], you know.”

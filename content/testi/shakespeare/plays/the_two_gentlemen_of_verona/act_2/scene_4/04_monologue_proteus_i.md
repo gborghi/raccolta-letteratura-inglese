@@ -1,5 +1,5 @@
 ---
-title: "The Two Gentlemen of [[Verona]] — Act II, Scene 4 — monologue ([[Proteus|PROTEUS]] I) [4]"
+title: "The Two Gentlemen of Verona — Act II, Scene 4 — monologue (PROTEUS I) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-two-gentlemen-of-verona-(shakespeare)"

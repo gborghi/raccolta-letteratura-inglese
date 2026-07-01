@@ -14,6 +14,19 @@ tags:
 </nav>
 
 
+Once more, the two spectators started, as he turned upon her with a
+frightful suddenness. But she sat perfectly still in his grasp, and only
+said, in a low voice, “I entreat you, good gentlemen, do not come near
+us, do not speak, do not move!”
+
+“Hark!” he exclaimed. “Whose voice was that?”
+
+His hands released her as he uttered this cry, and went up to his white
+hair, which they tore in a frenzy. It died out, as everything but his
+shoemaking did die out of him, and he refolded his little packet and
+tried to secure it in his breast; but he still looked at her, and
+gloomily shook his head.
+
 “No, no, no; you are too young, too blooming. It can’t be. See what the
 prisoner is. These are not the hands she knew, this is not the face
 she knew, this is not a voice she ever heard. No, no. She was--and He
@@ -124,9 +137,3 @@ the [[Time|time]] to tamper with him no more. He had a wild, lost manner of
 occasionally clasping his head in his hands, that had not been seen
 in him before; yet, he had some pleasure in the mere sound of his
 daughter’s voice, and invariably turned to it when she spoke.
-
-In the submissive way of one long accustomed to obey under coercion, he
-ate and drank what they gave him to eat and drink, and put on the cloak
-and other wrappings, that they gave him to wear. He readily responded to
-his daughter’s drawing her arm through his, and took--and kept--her hand
-in both his own.

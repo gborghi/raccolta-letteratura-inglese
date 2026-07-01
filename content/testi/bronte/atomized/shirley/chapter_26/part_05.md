@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 26 (part 5)"
+title: "Shirley — Chapter 26 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,58 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_26/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_26/part_06">part 06 ›</a></div>
 </nav>
 
+
+feeling."
+
+
+
+Miss Keeldar here entered.
+
+
+
+"Henry," she said, "I have brought your lunch here. I shall prepare it
+
+for you myself."
+
+
+
+She placed on the table a glass of new milk, a plate of something which
+
+looked not unlike leather, and a utensil which resembled a
+
+toasting-fork.
+
+
+
+"What are you two about," she continued, "ransacking Mr. Moore's desk?"
+
+
+
+"Looking at your old copy-books," returned Caroline.
+
+
+
+"My old copy-books?"
+
+
+
+"French exercise-books. Look here! They must be held precious; they are
+
+kept carefully."
+
+
+
+She showed the bundle. [[Shirley]] snatched it up. "Did not know one was in
+
+existence," she said. "I thought the whole lot had long since lit the
+
+kitchen [[Fire|fire]], or curled the maid's hair at Sympson Grove.--What made you
+
+keep them, Henry?"
+
+
+
+"It is not my doing. I should not have thought of it. It never entered
 
 my head to suppose copy-books of value. Mr. Moore put them by in the
 
@@ -249,57 +301,3 @@ the nose," returned Mr. Hall, who presently entered, accompanied by
 
 
 "Give it to [[Shirley]] and Caroline; they did it," was alleged, with more
-
-attention to effect than [[Truth|truth]].
-
-
-
-"Traitor and false witness!" cried both the girls. "We never laid hands
-
-on a thing, except in the spirit of laudable inquiry!"
-
-
-
-"Exactly so," said Moore, with his rare smile. "And what have you
-
-ferreted out, in your 'spirit of laudable inquiry'?"
-
-
-
-He perceived the inner drawer open.
-
-
-
-"This is empty," said he. "Who has taken----"
-
-
-
-"Here, here!" Caroline hastened to say, and she restored the little
-
-packet to its place. He shut it up; he locked it in with a small key
-
-attached to his watch-guard; he restored the other papers to order,
-
-closed the repository, and sat down without further remark.
-
-
-
-"I thought you would have scolded much more, sir," said Henry. "The
-
-girls deserve reprimand."
-
-
-
-"I leave them to their own consciences."
-
-
-
-"It accuses them of crimes intended as [[Well|well]] as perpetrated, sir. If I
-
-had not been here, they would have treated your portfolio as they have
-
-done your desk; but I told them it was padlocked."
-
-
-
-"And will you have lunch with us?" here interposed [[Shirley]], addressing

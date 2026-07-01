@@ -1,5 +1,5 @@
 ---
-title: "[[GKC-Autobiography]] — Chapter 16 (part 6)"
+title: "GKC-Autobiography — Chapter 16 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/gkc-autobiography-(chesterton)"
@@ -109,24 +109,3 @@ I find myself ratified in my realisation of the miracle of being alive;
 not in some hazy literary sense such as the sceptics use, but in
 a definite dogmatic sense; of being made alive by that which can
 [[Alone|alone]] work miracles.
-
-I have said that this rude and primitive religion of gratitude did not
-save me from ingratitude; from sin which is perhaps most horrible to me
-because it is ingratitude.  But here again I have found that the answer
-awaited me.  Precisely because the evil was mainly of the [[Imagination|imagination]],
-it could only be pierced by that conception of confession which
-is the end of mere [[Solitude|solitude]] and secrecy.  I had found only one
-religion which dared to go down with me into the depths of myself.
-I know, of course, that the practice of Confession, having been
-reviled through three or four centuries and through the greater
-part of my own life, has now been revived in a belated fashion.
-The scientific materialists, permanently behind the times,
-have revived all that was reviled in it as indecent and introspective.
-I have heard that a new sect has started once more the practice of the
-most primitive monasteries, and treated the confessional as communal.
-Unlike the primitive [[Monks|monks]] of the [[Desert|desert]], it seems to find
-a satisfaction in performing the ritual in evening-dress. In short,
-I would not be supposed to be ignorant of the fact that the modern world,
-in various groups, is now prepared to provide us with the advantages
-of Confession.  None of the groups, so far as I know, professes to
-provide the minor advantage of Absolution.

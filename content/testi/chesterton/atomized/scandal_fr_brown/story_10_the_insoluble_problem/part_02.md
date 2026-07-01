@@ -14,6 +14,17 @@ tags:
 </nav>
 
 
+The two old companions had often arrived together at inns and other
+human habitations, and found a somewhat singular state of things there;
+but the signs of singularity had seldom manifested themselves so early.
+For while their car was still some hundreds of yards from the dark green
+door, which matched the dark green shutters of the high and narrow
+building, the door was thrown open with violence and a woman with a wild
+mop of red hair rushed to meet them, as if she were ready to board the
+car in full career. [[Flambeau]] brought the car to a standstill but almost
+before he had done so, she thrust her white and tragic face into the
+[[Window|window]], crying:
+
 'Are you [[Father Brown]]?' and then almost in the same breath; 'who is this
 man?'
 
@@ -112,23 +123,3 @@ being thrown out and left behind, as the group swept out into the [[Garden|garde
 and up the flagged path towards the mulberry plantation. Only [[Flambeau]]
 heard the little priest say to the doctor: 'He doesn't seem to [[Love|love]] us
 really, does he? By the way, who is he?'
-
-'His name is Dunn,' said the doctor, with a certain restraint of manner.
-'My sister - in - law gave him the job of managing the [[Garden|garden]], because
-he lost an eye in the War.'
-
-As they went through the mulberry bushes, the landscape of the [[Garden|garden]]
-presented that rich yet ominous effect which is found when the land is
-actually brighter than the sky. In the broken sunlight from behind, the
-tree - tops in front of them stood up like pale green flames against a
-sky steadily blackening with [[Storm|storm]], through every shade of purple and
-violet. The same light struck strips of the lawn and [[Garden|garden]] beds; and
-whatever it illuminated seemed more mysteriously sombre and secret for
-the light. The [[Garden|garden]] bed was dotted with tulips that looked like drops
-of dark [[Blood|blood]], and some of which one might have sworn were truly black;
-and the line ended appropriately with a tulip tree; which [[Father Brown]]
-was disposed, if partly by some confused [[Memory|memory]], to identify with what
-is commonly called the Judas tree. What assisted the association was the
-fact that there was hanging from one of the branches, like a dried
-fruit, the dry, thin [[Body|body]] of an old man, with a long beard that wagged
-grotesquely in the [[Wind|wind]].

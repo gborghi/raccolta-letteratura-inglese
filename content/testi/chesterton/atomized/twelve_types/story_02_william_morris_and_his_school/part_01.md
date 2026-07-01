@@ -16,10 +16,6 @@ tags:
 
 WILLIAM MORRIS AND HIS SCHOOL
 
-
-
-
-
 It is proper enough that the unveiling of the bust of William Morris
 
 should approximate to a public festival, for while there have been many
@@ -83,8 +79,6 @@ the blue forest a mile behind, he would be serenely happy. So he would
 be, no [[Doubt|doubt]], if he were really fitted for a decorative existence; if he
 
 were a piece of exquisitely coloured cardboard.
-
-
 
 But although Morris took little account of the terrible solidity of
 
@@ -164,8 +158,6 @@ have called down the [[Fire|fire]] of Heaven on us as a race of half-witted
 
 atheists. Probably they would have been quite right.
 
-
-
 This clear and fine perception of what may be called the anaesthetic
 
 element in the Victorian era was, undoubtedly, the work of a great
@@ -176,7 +168,7 @@ that surrounds us on every side. The manner in which Morris carried out
 
 his crusade may, considering the circumstances, be called triumphant.
 
-Our carpets began to bloom under our feet like the meadows in [[Spring|spring]],
+Our carpets began to bloom under our feet like the meadows in [[spring]],
 
 and our hitherto prosaic stools and sofas seemed growing legs and arms
 
@@ -187,9 +179,3 @@ with plain and strong ornaments of copper and iron. So delicate and
 universal has been the revolution in domestic art that almost every
 
 family in England has had its taste cunningly and treacherously
-
-improved, and if we look back at the early Victorian drawing-rooms it is
-
-only to realise the strange but essential [[Truth|truth]] that art, or human
-
-decoration, has, nine times out of ten in [[history]], made things uglier

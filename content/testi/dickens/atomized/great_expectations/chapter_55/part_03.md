@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 55 (part 3)"
+title: "Great Expectations — Chapter 55 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -10,9 +10,20 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/great-expectations-(dickens)">Great Expectations</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_55/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_57/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_55/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_56/part_01">part 01 ›</a></div>
 </nav>
 
+
+That discreet [[Damsel|damsel]] was attired as usual, except that she was now
+engaged in substituting for her green kid gloves a pair of white. The
+Aged was likewise occupied in preparing a similar sacrifice for the
+altar of Hymen. The old gentleman, however, experienced so much
+difficulty in getting his gloves on, that Wemmick found it necessary to
+put him with his back against a pillar, and then to get behind the
+pillar himself and pull away at them, while I for my part held the old
+gentleman round the waist, that he might present an equal and safe
+resistance. By dint of this ingenious scheme, his gloves were got on to
+perfection.
 
 The clerk and clergyman then appearing, we were ranged in order at
 those fatal rails. True to his notion of seeming to do it all without

@@ -14,6 +14,26 @@ tags:
 </nav>
 
 
+‘What’s he been saying, my dear?’ demanded Mrs Wackles.
+
+‘All manner of things,’ replied Miss Cheggs, ‘you can’t think how out
+he has been speaking!’
+
+[[Richard]] Swiviller considered it advisable to hear no more, but taking
+advantage of a pause in the dancing, and the approach of Mr Cheggs to
+pay his [[Court|court]] to the old lady, swaggered with an extremely careful
+assumption of extreme carelessness toward the door, passing on the way
+Miss Jane Wackles, who in all the glory of her curls was holding a
+flirtation, (as good practice when no better was to be had) with a
+feeble old gentleman who lodged in the parlour. Near the door sat Miss
+Sophy, still fluttered and confused by the attentions of Mr Cheggs, and
+by her side [[Richard]] Swiveller lingered for a moment to exchange a few
+parting words.
+
+‘My boat is on the shore and my bark is on the sea, but before I pass
+this door I will say farewell to thee,’ murmured Dick, looking gloomily
+upon her.
+
 ‘Are you going?’ said Miss Sophy, whose heart sank within her at the
 result of her stratagem, but who affected a light indifference
 notwithstanding.

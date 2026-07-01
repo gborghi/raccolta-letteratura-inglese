@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 12 (part 1)"
+title: "Our Mutual Friend — Chapter 16 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,132 +10,121 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_70/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_71/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_70/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_71/part_02">part 02 ›</a></div>
 </nav>
 
 
-Chapter 12
+Chapter 16
 
-THE PASSING [[Shadow|SHADOW]]
+PERSONS AND THINGS IN GENERAL
 
 
-The winds and tides [[Rose|rose]] and fell a certain number of times, the earth
-moved round the sun a certain number of times, the [[Ship|ship]] upon the ocean
-made her voyage safely, and brought a baby-Bella [[Home|home]]. Then who so blest
-and happy as Mrs John Rokesmith, saving and excepting Mr John Rokesmith!
+Mr and Mrs [[John Harmon]]’s first delightful occupation was, to set all
+matters right that had strayed in any way wrong, or that might, could,
+would, or should, have strayed in any way wrong, while their name was in
+abeyance. In tracing out affairs for which John’s fictitious [[Death|death]] was
+to be considered in any way responsible, they used a very broad and free
+construction; regarding, for instance, the dolls’ dressmaker as having
+a claim on their protection, because of her association with Mrs Eugene
+Wrayburn, and because of Mrs Eugene’s old association, in her turn, with
+the dark side of the story. It followed that the old man, Riah, as a
+good and serviceable friend to both, was not to be disclaimed. Nor even
+Mr Inspector, as having been trepanned into an industrious hunt on a
+false scent. It may be remarked, in connexion with that worthy officer,
+that a rumour shortly afterwards pervaded the Force, to the effect that
+he had confided to Miss Abbey Potterson, over a jug of mellow flip in
+the bar of the Six Jolly Fellowship Porters, that he ‘didn’t stand to
+lose a farthing’ through Mr Harmon’s coming to life, but was quite as
+[[Well|well]] satisfied as if that gentleman had been barbarously murdered, and
+he (Mr Inspector) had pocketed the [[government]] reward.
 
-‘Would you not like to be rich NOW, my darling?’
+In all their arrangements of such [[Nature|nature]], Mr and Mrs [[John Harmon]] derived
+much assistance from their eminent solicitor, Mr Mortimer Lightwood; who
+laid about him professionally with such unwonted despatch and intention,
+that a piece of work was vigorously pursued as soon as cut out; whereby
+Young Blight was acted on as by that transatlantic dram which is
+poetically named An Eye-Opener, and found himself staring at real
+clients instead of out of [[Window|window]]. The accessibility of Riah proving
+very useful as to a few hints towards the disentanglement of Eugene’s
+affairs, Lightwood applied himself with infinite zest to attacking and
+harassing Mr Fledgeby: who, discovering himself in danger of being blown
+into the air by certain explosive transactions in which he had been
+engaged, and having been sufficiently flayed under his beating, came
+to a parley and asked for quarter. The harmless Twemlow profited by
+the conditions entered into, though he little thought it. Mr Riah
+unaccountably melted; waited in person on him over the stable yard in
+Duke Street, St James’s, no longer ravening but mild, to inform him
+that payment of interest as heretofore, but henceforth at Mr Lightwood’s
+offices, would appease his Jewish rancour; and departed with the secret
+that Mr [[John Harmon]] had advanced the money and become the creditor.
+Thus, was the [[Sublime|sublime]] Snigsworth’s wrath averted, and thus did he snort
+no larger amount of moral grandeur at the Corinthian column in the
+print over the fireplace, than was normally in his (and the British)
+constitution.
 
-‘How can you ask me such a question, John dear? Am I not rich?’
 
-These were among the first words spoken near the baby Bella as she lay
-asleep. She soon proved to be a baby of wonderful intelligence,
-evincing the strongest objection to her grandmother’s society, and
-being invariably seized with a painful acidity of the stomach when that
-dignified lady honoured her with any attention.
+Mrs Wilfer’s first visit to the Mendicant’s bride at the new abode of
+Mendicancy, was a grand event. Pa had been sent for into the [[City]],
+on the very day of taking possession, and had been stunned with
+astonishment, and brought-to, and led about the [[house]] by one ear, to
+behold its various treasures, and had been enraptured and enchanted. Pa
+had also been appointed Secretary, and had been enjoined to give instant
+notice of [[Resignation|resignation]] to Chicksey, Veneering, and Stobbles, for ever and
+ever. But Ma came later, and came, as was her due, in state.
 
-It was charming to see Bella contemplating this baby, and finding out
-her own dimples in that tiny reflection, as if she were looking in the
-glass without personal [[Vanity|vanity]]. Her cherubic father justly remarked
-to her husband that the baby seemed to make her younger than before,
-reminding him of the days when she had a pet doll and used to talk to it
-as she carried it about. The world might have been challenged to produce
-another baby who had such a store of pleasant nonsense said and sung
-to it, as Bella said and sung to this baby; or who was dressed and
-undressed as often in four-and-twenty hours as Bella dressed and
-undressed this baby; or who was held behind doors and poked out to stop
-its father’s way when he came [[Home|home]], as this baby was; or, in a word, who
-did half the number of baby things, through the lively invention of a
-gay and proud young mother, that this inexhaustible baby did.
+The carriage was sent for Ma, who entered it with a bearing worthy of
+the occasion, accompanied, rather than supported, by Miss [[Lavinia]], who
+altogether declined to recognize the maternal majesty. Mr George Sampson
+meekly followed. He was received in the vehicle, by Mrs Wilfer, as if
+admitted to the [[Honour|honour]] of assisting at a funeral in the family, and she
+then issued the order, ‘Onward!’ to the Mendicant’s menial.
 
-The inexhaustible baby was two or three months old, when Bella began to
-notice a cloud upon her husband’s brow. Watching it, she saw a gathering
-and deepening anxiety there, which caused her great disquiet. More than
-once, she awoke him muttering in his [[Sleep|sleep]]; and, though he muttered
-nothing worse than her own name, it was plain to her that his
-restlessness originated in some load of care. Therefore, Bella at length
-put in her claim to divide this load, and hear her half of it.
+‘I wish to goodness, Ma,’ said Lavvy, throwing herself back among the
+cushions, with her arms crossed, ‘that you’d loll a little.’
 
-‘You know, John dear,’ she said, cheerily reverting to their former
-conversation, ‘that I [[Hope|hope]] I may safely be trusted in great things. And
-it surely cannot be a little thing that causes you so much uneasiness.
-It’s very considerate of you to try to hide from me that you are
-uncomfortable about something, but it’s quite impossible to be done,
-John [[Love|love]].’
+‘How!’ repeated Mrs Wilfer. ‘Loll!’
 
-‘I admit that I am rather uneasy, my own.’
+‘Yes, Ma.’
 
-‘Then please to tell me what about, sir.’
+‘I [[Hope|hope]],’ said the impressive lady, ‘I am incapable of it.’
 
-But no, he evaded that. ‘Never mind!’ thought Bella, resolutely.
-‘John requires me to put perfect [[Faith|faith]] in him, and he shall not be
-disappointed.’
+‘I am sure you look so, Ma. But why one should go out to dine with one’s
+own daughter or sister, as if one’s under-petticoat was a backboard, I
+do NOT understand.’
 
-She went up to [[London]] one day, to meet him, in order that they might
-make some purchases. She found him waiting for her at her [[Journey|journey]]’s
-end, and they walked away together through the streets. He was in gay
-spirits, though still harping on that notion of their being rich; and
-he said, now let them make believe that yonder fine carriage was theirs,
-and that it was waiting to take them [[Home|home]] to a fine [[house]] they had; what
-would Bella, in that case, best like to find in the [[house]]? [[Well]]! Bella
-didn’t know: already having everything she wanted, she couldn’t say.
-But, by degrees she was led on to confess that she would like to have
-for the inexhaustible baby such a nursery as never was seen. It was
-to be ‘a very rainbow for colours’, as she was quite sure baby noticed
-colours; and the staircase was to be adorned with the most exquisite
-[[Flowers|flowers]], as she was absolutely certain baby noticed [[Flowers|flowers]]; and there
-was to be an aviary somewhere, of the loveliest little [[Birds|birds]], as there
-was not the smallest [[Doubt|doubt]] in the world that baby noticed [[Birds|birds]].
-Was there nothing else? No, John dear. The predilections of the
-inexhaustible baby being provided for, Bella could think of nothing
-else.
+‘Neither do I understand,’ retorted Mrs Wilfer, with deep scorn, ‘how
+a young lady can mention the garment in the name of which you have
+indulged. I blush for you.’
 
-They were chatting on in this way, and John had suggested, ‘No jewels
-for your own wear, for instance?’ and Bella had replied laughing. O! if
-he came to that, yes, there might be a beautiful ivory case of jewels
-on her dressing-table; when these pictures were in a moment darkened and
-blotted out.
+‘Thank you, Ma,’ said Lavvy, yawning, ‘but I can do it for myself, I am
+obliged to you, when there’s any occasion.’
 
-They turned a corner, and met Mr Lightwood.
+Here, Mr Sampson, with the view of establishing harmony, which he never
+under any circumstances succeeded in doing, said with an agreeable
+smile: ‘After all, you know, ma’am, we know it’s there.’ And immediately
+felt that he had committed himself.
 
-He stopped as if he were petrified by the sight of Bella’s husband, who
-in the same moment had changed colour.
+‘We know it’s there!’ said Mrs Wilfer, glaring.
 
-‘Mr Lightwood and I have met before,’ he said.
+‘Really, George,’ remonstrated Miss [[Lavinia]], ‘I must say that I don’t
+understand your allusions, and that I think you might be more delicate
+and less personal.’
 
-‘Met before, John?’ Bella repeated in a tone of [[Wonder|wonder]]. ‘Mr Lightwood
-told me he had never seen you.’
+‘Go it!’ cried Mr Sampson, becoming, on the shortest notice, a prey to
+[[Despair|despair]]. ‘Oh yes! Go it, Miss [[Lavinia]] Wilfer!’
 
-‘I did not then know that I had,’ said Lightwood, discomposed on her
-account. ‘I believed that I had only heard of—Mr Rokesmith.’ With an
-emphasis on the name.
+‘What you may mean, George Sampson, by your omnibus-driving expressions,
+I cannot pretend to imagine. Neither,’ said Miss [[Lavinia]], ‘Mr George
+Sampson, do I wish to imagine. It is enough for me to know in my own
+heart that I am not going to—’ having imprudently got into a sentence
+without providing a way out of it, Miss [[Lavinia]] was constrained to
+close with ‘going to it’. A weak conclusion which, however, derived some
+appearance of strength from disdain.
 
-‘When Mr Lightwood saw me, my [[Love|love]],’ observed her husband, not avoiding
-his eye, but looking at him, ‘my name was Julius Handford.’
+‘Oh yes!’ cried Mr Sampson, with bitterness. ‘Thus it ever is. I
+never—’
 
-Julius Handford! The name that Bella had so often seen in old
-newspapers, when she was an inmate of Mr Boffin’s [[house]]! Julius
-Handford, who had been publicly entreated to appear, and for
-intelligence of whom a reward had been publicly offered!
-
-‘I would have avoided mentioning it in your presence,’ said Lightwood to
-Bella, delicately; ‘but since your husband mentions it himself, I must
-confirm his strange admission. I saw him as Mr Julius Handford, and I
-afterwards (unquestionably to his knowledge) took great pains to trace
-him out.’
-
-‘Quite true. But it was not my object or my interest,’ said Rokesmith,
-quietly, ‘to be traced out.’
-
-Bella looked from the one to the other, in amazement.
-
-‘Mr Lightwood,’ pursued her husband, ‘as chance has brought us face to
-face at last—which is not to be wondered at, for the [[Wonder|wonder]] is, that,
-in spite of all my pains to the contrary, chance has not confronted
-us together sooner—I have only to remind you that you have been at my
-[[house]], and to add that I have not changed my residence.’
-
-‘Sir’ returned Lightwood, with a meaning glance towards Bella, ‘my
-position is a truly painful one. I [[Hope|hope]] that no complicity in a very
-dark transaction may attach to you, but you cannot fail to know that
-your own extraordinary conduct has laid you under suspicion.’
+‘If you mean to say,’ Miss Lavvy cut him short, that you never brought
+up a young gazelle, you may save yourself the trouble, because nobody
+in this carriage supposes that you ever did. We know you better.’ (As if
+this were a [[Home|home]]-thrust.)

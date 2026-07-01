@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 22 (part 2)"
+title: "Shirley — Chapter 22 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_22/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_22/part_03">part 03 ›</a></div>
 </nav>
 
+
+work-box, quite unneeded, but which seems at the moment indispensable;
+
+perhaps to arrange her hair, or a drawer which she recollects to have
+
+seen that morning in a state of curious confusion; perhaps only to take
+
+a peep from a particular [[Window|window]] at a particular view, whence Briarfield
 
 church and rectory are visible, pleasantly bowered in trees. She has
 
@@ -192,24 +200,4 @@ reckless she is, and most ignorant; for she does not know her [[Dreams|dreams]] 
 
 rare, her feelings peculiar. She does not know, has never known, and
 
-will die without knowing, the full value of that [[spring]] whose bright
-
-fresh bubbling in her heart keeps it green.
-
-
-
-[[Shirley]] takes life easily. Is not that fact written in her eye? In her
-
-good-tempered moments is it not as full of lazy softness as in her brief
-
-fits of anger it is fulgent with quick-flashing [[Fire|fire]]? Her [[Nature|nature]] is in
-
-her eye. So long as she is calm, [[Indolence|indolence]], indulgence, [[Humour|humour]], and
-
-tenderness possess that large gray sphere; incense her, a red ray
-
-pierces the dew, it quickens instantly to flame.
-
-
-
-Ere the month of July was past, Miss Keeldar would probably have started
+will die without knowing, the full value of that [[Spring|spring]] whose bright

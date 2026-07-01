@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 35 (part 1)"
+title: "Shirley — Chapter 35 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -233,11 +233,3 @@ Hortense did not feel the peculiar novelty of this expression coming
 from her brother, who had never before called the cottage his [[Home|home]], and
 
 to whom its narrow limits had always heretofore seemed rather
-
-restrictive than protective. Still, whatever contributed to his
-
-happiness pleased her, and she expressed herself to that effect.
-
-
-
-He sat down, but soon [[Rose|rose]] again. He went to the [[Window|window]]; he came back to

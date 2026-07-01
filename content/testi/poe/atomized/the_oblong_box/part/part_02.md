@@ -1,5 +1,5 @@
 ---
-title: "[[The Oblong Box]] (part 2)"
+title: "The Oblong Box (part 2)"
 author: "Poe"
 unitType: excerpt
 tags:
@@ -12,6 +12,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_oblong_box/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/the_oblong_box/part/part_03">part 03 ›</a></div>
 </nav>
 
+
+      and [[Soul|soul]]. She said very few words, and passed at once into her
+
+      state-room with Mr. W.
+
+
+
+      My old inquisitiveness now returned. There was no servant—that
 
       was a settled point. I looked, therefore, for the extra baggage.
 
@@ -188,17 +196,3 @@ tags:
       [[Alone|alone]] in his state-room, where, in fact, he might have been said
 
       to live altogether, leaving his wife at full liberty to amuse
-
-      herself as she thought best, in the public society of the main
-
-      cabin.
-
-
-
-      My conclusion, from what I saw and heard, was, that, the [[artist]],
-
-      by some unaccountable freak of fate, or perhaps in some fit of
-
-      enthusiastic and fanciful passion, had been induced to unite
-
-      himself with a person altogether beneath him, and that the

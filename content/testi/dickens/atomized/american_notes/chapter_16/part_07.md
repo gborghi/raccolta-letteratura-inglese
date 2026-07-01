@@ -14,6 +14,48 @@ tags:
 </nav>
 
 
+They eat and drink together, after the Spartan model, at a great public
+table.  There is no [[Union|union]] of the sexes, and every Shaker, male and
+female, is devoted to a life of celibacy.  Rumour has been busy upon this
+theme, but here again I must refer to the lady of the store, and say,
+that if many of the sister Shakers resemble her, I treat all such slander
+as bearing on its face the strongest marks of wild improbability.  But
+that they take as proselytes, persons so young that they cannot know
+their own minds, and cannot possess much strength of resolution in this
+or any other respect, I can assert from my own observation of the extreme
+juvenility of certain youthful Shakers whom I saw at work among the party
+on the [[Road|road]].
+
+They are said to be good drivers of bargains, but to be honest and just
+in their transactions, and even in [[Horse|horse]]-dealing to resist those thievish
+tendencies which would seem, for some undiscovered reason, to be almost
+inseparable from that branch of traffic.  In all matters they hold their
+own course quietly, live in their gloomy, silent commonwealth, and show
+little [[Desire|desire]] to interfere with other people.
+
+This is [[Well|well]] enough, but nevertheless I cannot, I confess, incline
+towards the Shakers; view them with much favour, or extend towards them
+any very lenient construction.  I so abhor, and from my [[Soul|soul]] detest that
+bad spirit, no matter by what class or sect it may be entertained, which
+would strip life of its healthful graces, rob youth of its [[Innocent|innocent]]
+pleasures, pluck from maturity and age their pleasant ornaments, and make
+existence but a narrow path towards the [[Grave|grave]]: that odious spirit which,
+if it could have had full scope and sway upon the earth, must have
+blasted and made barren the imaginations of the greatest men, and left
+them, in their power of raising up enduring images before their
+fellow-creatures yet [[unborn]], no better than the beasts: that, in these
+very broad-brimmed hats and very sombre coats—in stiff-necked,
+solemn-visaged piety, in short, no matter what its garb, whether it have
+cropped hair as in a Shaker village, or long nails as in a Hindoo
+temple—I recognise the worst among the enemies of Heaven and Earth, who
+turn the [[Water|water]] at the [[Marriage|marriage]] feasts of this poor world, not into wine,
+but gall.  And if there must be people vowed to crush the harmless
+fancies and the [[Love|love]] of [[Innocent|innocent]] delights and gaieties, which are a part
+of human [[Nature|nature]]: as much a part of it as any other [[Love|love]] or [[Hope|hope]] that is
+our common portion: let them, for me, stand openly revealed among the
+ribald and licentious; the very idiots know that _they_ are not on the
+Immortal [[Road|road]], and will despise them, and avoid them readily.
+
 Leaving the Shaker village with a hearty dislike of the old Shakers, and
 a hearty pity for the young ones: tempered by the strong probability of
 their running away as they grow older and wiser, which they not
@@ -30,7 +72,7 @@ of sunlit [[Water|water]], with here and there a skiff, whose white sail often
 bends on some new tack as sudden flaws of [[Wind|wind]] come down upon her from
 the gullies in the hills: hemmed in, besides, all round with memories of
 Washington, and events of the revolutionary war: is the Military School
-of [[America]].
+of [[america|America]].
 
 It could not stand on more appropriate ground, and any ground more
 beautiful can hardly be.  The course of [[Education|education]] is severe, but [[Well|well]]

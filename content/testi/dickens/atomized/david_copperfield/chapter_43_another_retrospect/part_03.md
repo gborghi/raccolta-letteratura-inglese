@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 43: ANOTHER RETROSPECT (part 3)"
+title: "David Copperfield — Chapter 43: ANOTHER RETROSPECT (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_43_another_retrospect/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_44_our_housekeeping/part_01">part 01 ›</a></div>
 </nav>
 
+
+No [[Doubt|doubt]] I see this, because I know it is so; but I am astray, and seem
+to see nothing. Nor do I believe anything whatever. Still, as we drive
+along in an open carriage, this fairy [[Marriage|marriage]] is real enough to fill
+me with a sort of wondering pity for the unfortunate people who have
+no part in it, but are sweeping out the shops, and going to their daily
+occupations.
+
+My aunt sits with my hand in hers all the way. When we stop a little way
+short of the church, to put down Peggotty, whom we have brought on the
+box, she gives it a squeeze, and me a kiss.
 
 ‘God bless you, Trot! My own boy never could be dearer. I think of poor
 dear Baby this morning.’ ‘So do I. And of all I owe to you, dear aunt.’

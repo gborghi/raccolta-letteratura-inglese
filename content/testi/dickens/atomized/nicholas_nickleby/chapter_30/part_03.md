@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 30 (part 3)"
+title: "Nicholas Nickleby — Chapter 30 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -132,8 +132,3 @@ morning.’
 
 ‘Oh yes, that’s all. Don’t make a fuss about it,’ cried all the ladies
 together.
-
-Now this was not exactly the kind of reply suited to Mr. Snevellicci’s
-importance as a man and a father, so he picked out the unfortunate Mrs
-Snevellicci, and asked her what the devil she meant by talking to him in
-that way.

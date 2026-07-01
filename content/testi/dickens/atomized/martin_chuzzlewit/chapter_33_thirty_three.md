@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 33: THIRTY THREE"
+title: "Martin Chuzzlewit — Chapter 33: THIRTY THREE"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/martin-chuzzlewit-(dickens)"

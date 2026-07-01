@@ -14,6 +14,36 @@ tags:
 </nav>
 
 
+‘Nothing an’t the matter with me,’ said Clemency, entering, ‘but—come a
+little closer, Mister.’
+
+The Doctor, in some astonishment, complied with this invitation.
+
+‘You said I wasn’t to give you one before them, you know,’ said Clemency.
+
+A novice in the family might have supposed, from her extraordinary ogling
+as she said it, as [[Well|well]] as from a singular rapture or ecstasy which
+pervaded her elbows, as if she were embracing herself, that ‘one,’ in its
+most favourable interpretation, meant a chaste salute.  Indeed the Doctor
+himself seemed alarmed, for the moment; but quickly regained his
+composure, as Clemency, having had recourse to both her pockets—beginning
+with the right one, going away to the wrong one, and afterwards coming
+back to the right one again—produced a letter from the Post-office.
+
+‘Britain was riding by on a errand,’ she chuckled, handing it to the
+Doctor, ‘and see the mail come in, and waited for it.  There’s A. H. in
+the corner.  Mr. Alfred’s on his [[Journey|journey]] [[Home|home]], I bet.  We shall have a
+wedding in the [[house]]—there was two spoons in my saucer this morning.  Oh
+Luck, how slow he opens it!’
+
+All this she delivered, by way of soliloquy, gradually rising higher and
+higher on tiptoe, in her impatience to hear the news, and making a
+corkscrew of her apron, and a bottle of her mouth.  At last, arriving at
+a climax of suspense, and seeing the Doctor still engaged in the perusal
+of the letter, she came down flat upon the soles of her feet again, and
+cast her apron, as a veil, over her head, in a mute [[Despair|despair]], and
+inability to bear it any longer.
+
 ‘Here!  Girls!’ cried the Doctor.  ‘I can’t help it: I never could keep a
 secret in my life.  There are not many [[Secrets|secrets]], indeed, worth being kept
 in such a—[[Well|well]]! never mind that.  Alfred’s coming [[Home|home]], my dears,
@@ -104,35 +134,3 @@ him so, [[Love|love]]?’
 ‘Tell him, dear Grace,’ replied Marion, ‘that there never was a trust so
 generously, nobly, steadfastly discharged; and that I have loved _you_,
 all the [[Time|time]], dearer and dearer every day; and O! how dearly now!’
-
-‘Nay,’ said her cheerful sister, returning her embrace, ‘I can scarcely
-tell him that; we will leave my deserts to Alfred’s [[Imagination|imagination]].  It will
-be liberal enough, dear Marion; like your own.’
-
-With that, she resumed the work she had for a moment laid down, when her
-sister spoke so fervently: and with it the old [[Song|song]] the Doctor liked to
-hear.  And the Doctor, still reposing in his easy-chair, with his
-slippered feet stretched out before him on the rug, listened to the tune,
-and beat [[Time|time]] on his knee with Alfred’s letter, and looked at his two
-daughters, and thought that among the many trifles of the trifling world,
-these trifles were agreeable enough.
-
-[[Clemency Newcome]], in the meantime, having accomplished her mission and
-lingered in the room until she had made herself a party to the news,
-descended to the kitchen, where her coadjutor, Mr. Britain, was regaling
-after supper, surrounded by such a plentiful collection of bright
-pot-lids, [[Well|well]]-scoured saucepans, burnished dinner-covers, gleaming
-kettles, and other tokens of her industrious habits, arranged upon the
-walls and shelves, that he sat as in the centre of a hall of mirrors.
-The majority did not give forth very flattering portraits of him,
-certainly; nor were they by any means unanimous in their reflections; as
-some made him very long-faced, others very broad-faced, some tolerably
-[[Well|well]]-looking, others vastly ill-looking, according to their several
-manners of reflecting: which were as various, in respect of one fact, as
-those of so many kinds of men.  But they all agreed that in the midst of
-them sat, quite at his ease, an individual with a pipe in his mouth, and
-a jug of beer at his elbow, who nodded condescendingly to Clemency, when
-she stationed herself at the same table.
-
-‘[[Well]], Clemmy,’ said Britain, ‘how are you by this [[Time|time]], and what’s the
-news?’

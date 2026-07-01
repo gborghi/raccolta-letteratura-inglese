@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 5 (part 4)"
+title: "Shirley — Chapter 5 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,28 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_05/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_05/part_05">part 05 ›</a></div>
 </nav>
 
+
+walking in dirty roads. Believe me, as I paced up the aisle, composed
+
+and tranquil, as I am always, four ladies, and as many gentlemen,
+
+laughed and hid their faces behind their [[prayer]]-books."
+
+
+
+"[[Well]], [[Well|well]]! don't put on the sabots again. I told you before I thought
+
+they were not quite the thing for this country."
+
+
+
+"But, brother, they are not common sabots, such as the peasantry wear. I
+
+tell you, they are sabots noirs, très propres, très convenables. At Mons
+
+and Leuze--cities not very far removed from the elegant capital of
+
+Brussels--it is very seldom that the respectable people wear anything
 
 else for walking in [[Winter|winter]]. Let any one try to wade the mud of the
 
@@ -211,47 +233,3 @@ what brings you here before I have breakfasted?"
 
 
 This question was addressed to an individual who now entered the room, a
-
-young girl, wrapped in a [[Winter|winter]] mantle, the folds of which were gathered
-
-with some grace round an apparently slender figure.
-
-
-
-"I came in haste to see how you were, Hortense, and how Robert was too.
-
-I was sure you would be both grieved by what happened last [[Night|night]]. I did
-
-not hear till this morning. My uncle told me at breakfast."
-
-
-
-"Ah! it is unspeakable. You sympathize with us? Your uncle sympathizes
-
-with us?"
-
-
-
-"My uncle is very angry--but he was with Robert, I believe, was he
-
-not?--Did he not go with you to Stilbro' Moor?"
-
-
-
-"Yes, we set out in very martial style, Caroline; but the prisoners we
-
-went to rescue met us half-way."
-
-
-
-"Of course nobody was hurt?"
-
-
-
-"Why, no; only Joe Scott's wrists were a little galled with being
-
-pinioned too tightly behind his back."
-
-
-
-"You were not there? You were not with the wagons when they were

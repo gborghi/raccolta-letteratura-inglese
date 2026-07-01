@@ -1,5 +1,5 @@
 ---
-title: "[[Othello|OTHELLO]]"
+title: "OTHELLO"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/othello-(shakespeare)"

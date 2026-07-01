@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 3 (part 1)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 3 (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -197,5 +197,3 @@ pieces and thrown it away, it was impossible to say where.
 
 
 From the worst part of this dilemma I was relieved by the sagacity of
-
-Tiger. Having got, after a long search, a small piece of the note, I

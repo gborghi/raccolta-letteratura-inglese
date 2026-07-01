@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 2 (part 4)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 2 (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_01/part_03">‹ part 03</a><a class="ex-next" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_01/part_05">part 05 ›</a></div>
 </nav>
 
+
+trembled at the thought of indulging it, lest there might exist some
+
+pernicious influence, like that of burning charcoal, in the confined
+
+air of the hold. In the mean [[Time|time]] the roll of the brig told me that we
+
+were far in the main ocean, and a dull humming sound, which reached my
+
+ears as if from an immense distance, convinced me no ordinary gale was
+
+blowing. I could not imagine a reason for the absence of Augustus. We
+
+were surely far enough advanced on our voyage to allow of my going up.
 
 Some accident might have happened to him--but I could think of none
 
@@ -167,29 +181,3 @@ and render me comfort by his caresses. Most people [[Love|love]] their [[dogs]]-
 for Tiger I had an affection far more ardent than common; and never,
 
 certainly, did any creature more truly deserve it. For seven years he
-
-had been my inseparable companion, and in a multitude of instances had
-
-given evidence of all the noble qualities for which we value the
-
-animal. I had rescued him, when a puppy, from the clutches of a
-
-malignant little [[Villain|villain]] in Nantucket, who was leading him, with a rope
-
-around his neck, to the [[Water|water]]; and the grown dog repaid the obligation,
-
-about three years afterward, by saving me from the bludgeon of a
-
-street-robber.
-
-
-
-Getting now hold of the watch, I found, upon applying it to my ear,
-
-that it had again run down; but at this I was not at all surprised,
-
-being convinced, from the peculiar state of my feelings, that I had
-
-slept, as before, for a very long period of [[Time|time]]; how long, it was of
-
-course impossible to say. I was burning up with fever, and my thirst

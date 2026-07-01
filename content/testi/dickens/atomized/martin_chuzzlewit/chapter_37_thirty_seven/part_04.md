@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 37: THIRTY SEVEN (part 4)"
+title: "Martin Chuzzlewit — Chapter 37: THIRTY SEVEN (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,27 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_37_thirty_seven/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_38_thirty_eight/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘Mr Thomas Pinch!’ said [[Charity]], performing the ceremony of introduction
+with evident [[Pride|pride]]. ‘Mr Moddle. Where’s my sister?’
+
+‘Gone, Miss Pecksniff,’ Mrs Todgers answered. ‘She had appointed to be
+[[Home|home]].’
+
+‘Ah!’ said [[Charity]], looking at Tom. ‘Oh, dear me!’
+
+‘She’s greatly altered since she’s been Anoth--since she’s been married,
+Mrs Todgers!’ observed Moddle.
+
+‘My dear Augustus!’ said Miss Pecksniff, in a low voice. ‘I verily
+believe you have said that fifty thousand times, in my hearing. What a
+Prose you are!’
+
+This was succeeded by some trifling [[Love|love]] passages, which appeared to
+originate with, if not to be wholly carried on by Miss Pecksniff. At any
+rate, Mr Moddle was much slower in his responses than is customary
+with young [[lovers]], and exhibited a lowness of spirits which was quite
+oppressive.
 
 He did not improve at all when Tom and he were in the streets, but
 sighed so dismally that it was dreadful to hear him. As a means of

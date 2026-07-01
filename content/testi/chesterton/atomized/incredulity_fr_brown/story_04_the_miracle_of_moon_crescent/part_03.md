@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The Miracle of [[Moon]] Crescent (part 3)"
+title: "incredulity Fr Brown — The Miracle of Moon Crescent (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity_fr_brown/story_04_the_miracle_of_moon_crescent/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity_fr_brown/story_04_the_miracle_of_moon_crescent/part_04">part 04 ›</a></div>
 </nav>
 
+
+Fenner, the secretary, was conscious of a curious additional surprise at
+recognizing the figure of a priest; but when the priest turned up a
+round face under the round hat and innocently asked for Mr Warren Wynd,
+he gave the regular negative answer rather more curtly than before. But
+the priest stood his ground.
+
+'I do really want to see Mr Wynd,' he said. 'It seems odd, but that's
+exactly what I do want to do. I don't want to speak to him. I just want
+to see him. I just want to see if he's there to be seen.'
 
 '[[Well]], I tell you he's there and can't be seen,' said Fenner, with
 increasing annoyance. 'What do you mean by saying you want to see if
@@ -113,10 +123,3 @@ even as he spoke, carrying the pamphlet, but serenely passing the door.
 thumbs till he's wanted; but he won't go in before then; and nor will I.
 I reckon we both know which side our bread is buttered, and it'd take a
 good many of [[Father Brown]]'s saint and angels to make us forget it.'
-
-'As for saints and angels - ' began the priest.
-
-'It's all nonsense,' repeated Fenner. 'I don't want to say anything
-offensive, but that sort of thing may be very [[Well|well]] for crypts and
-cloisters and all sorts of moonshiny places. But [[Ghosts|ghosts]] can't get
-through a closed door in an American hotel.'

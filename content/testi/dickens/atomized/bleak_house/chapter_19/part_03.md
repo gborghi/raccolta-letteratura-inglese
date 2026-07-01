@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 19 (part 3)"
+title: "Bleak House — Chapter 19 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_19/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_19/part_04">part 04 ›</a></div>
 </nav>
 
+
+“My friends,” says he, “what is this which we now behold as being
+spread before us? Refreshment. Do we need refreshment then, my
+friends? We do. And why do we need refreshment, my friends? Because
+we are but mortal, because we are but sinful, because we are but of
+the earth, because we are not of the air. Can we fly, my friends? We
+cannot. Why can we not fly, my friends?”
 
 Mr. Snagsby, presuming on the [[success]] of his last point, ventures to
 observe in a cheerful and rather knowing tone, “No wings.” But is
@@ -40,7 +47,7 @@ experience that the Chadband style of oratory is widely received and
 much admired.
 
 Mr. Chadband, however, having concluded for the present, sits down at
-Mr. Snagsby’s table and lays about him prodigiously. The [[conversion]]
+Mr. Snagsby’s table and lays about him prodigiously. The [[Conversion|conversion]]
 of nutriment of any sort into oil of the quality already mentioned
 appears to be a process so inseparable from the constitution of this
 exemplary vessel that in beginning to eat and drink, he may be
@@ -131,10 +138,3 @@ knew him. Upon that, a young man who was in the crowd said he was
 acquainted with you, and you were a respectable housekeeper, and if
 I’d call and make the inquiry, he’d appear. The young man don’t seem
 inclined to keep his word, but—Oh! Here IS the young man!”
-
-Enter Mr. Guppy, who nods to Mr. Snagsby and touches his hat with the
-chivalry of clerkship to the ladies on the stairs.
-
-“I was strolling away from the office just now when I found this row
-going on,” says Mr. Guppy to the law-stationer, “and as your name was
-mentioned, I thought it was right the thing should be looked into.”

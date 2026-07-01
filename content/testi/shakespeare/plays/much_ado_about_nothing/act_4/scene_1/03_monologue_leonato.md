@@ -1,5 +1,5 @@
 ---
-title: "Much Ado About Nothing — Act IV, Scene 1 — monologue ([[Leonato|LEONATO]]) [3]"
+title: "Much Ado About Nothing — Act IV, Scene 1 — monologue (LEONATO) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/much-ado-about-nothing-(shakespeare)"

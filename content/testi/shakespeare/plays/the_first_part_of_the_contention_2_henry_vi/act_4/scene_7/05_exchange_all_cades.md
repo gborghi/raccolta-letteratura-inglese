@@ -1,5 +1,5 @@
 ---
-title: "The First Part of the Contention (2 [[Henry VI]]) — Act IV, Scene 7 — exchange (ALL CADE’S) [5]"
+title: "The First Part of the Contention (2 Henry VI) — Act IV, Scene 7 — exchange (ALL CADE’S) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-first-part-of-the-contention---(2-henry-vi)-(shakespeare)"

@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 12 (part 4)"
+title: "The Tenant of Wildfell Hall — Chapter 12 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,34 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_12/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_14/part_01">part 01 ›</a></div>
 </nav>
 
+
+the one she held in her hand.
+
+
+
+“Oh, Gilbert, how you tremble!” exclaimed my anxious parent. “How white
+
+you look! Do tell me what it is? Has anything happened?”
+
+
+
+“It’s nothing,” cried I, ready to stamp with vexation because the
+
+candle would not light. Then, suppressing my irritation, I added, “I’ve
+
+been walking too fast, that’s all. Good-[[Night|night]],” and marched off to bed,
+
+regardless of the “Walking too fast! where have you been?” that was
+
+called after me from below.
+
+
+
+My mother followed me to the very door of my room with her questionings
+
+and advice concerning my health and my conduct; but I implored her to
+
+let me [[Alone|alone]] till morning; and she withdrew, and at length I had the
 
 satisfaction to hear her close her own door. There was no [[Sleep|sleep]] for me,
 

@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 51 (part 4)"
+title: "Nicholas Nickleby — Chapter 51 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,23 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_51/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_52/part_01">part 01 ›</a></div>
 </nav>
 
+
+Newman handed in the note, and looked very virtuous and [[Innocent|innocent]] while
+his employer broke the seal, and glanced his eye over it.
+
+‘He’ll be sure to come,’ muttered Ralph, as he tore it to pieces; ‘why
+of course, I know he’ll be sure to come. What need to say that? Noggs!
+Pray, sir, what man was that, with whom I saw you in the street last
+[[Night|night]]?’
+
+‘I don’t know,’ replied Newman.
+
+‘You had better refresh your [[Memory|memory]], sir,’ said Ralph, with a
+threatening look.
+
+‘I tell you,’ returned Newman boldly, ‘that I don’t know. He came here
+twice, and asked for you. You were out. He came again. You packed him
+off, yourself. He gave the name of Brooker.’
 
 ‘I know he did,’ said Ralph; ‘what then?’
 

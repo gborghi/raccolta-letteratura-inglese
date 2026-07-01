@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 30 (part 6)"
+title: "Bleak House — Chapter 30 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_30/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_31/part_01">part 01 ›</a></div>
 </nav>
 
+
+My guardian, with his sweet temper and his quick perception and his
+amiable face, made something agreeable even out of the ungenial
+company. None of them seemed able to talk about anything but his, or
+her, own one subject, and none of them seemed able to talk about even
+that as part of a world in which there was anything else; but my
+guardian turned it all to the merry encouragement of Caddy and the
+[[Honour|honour]] of the occasion, and brought us through the breakfast nobly.
+What we should have done without him, I am afraid to think, for all
+the company despising the bride and bridegroom and old Mr.
+Turveydrop—and old Mr. Thurveydrop, in virtue of his deportment,
+considering himself vastly superior to all the company—it was a very
+unpromising case.
 
 At last the [[Time|time]] came when poor Caddy was to go and when all her
 property was packed on the hired coach and pair that was to take her
@@ -107,7 +120,7 @@ He laughed heartily and answered, “No.”
 
 He answered “No” again, and this [[Time|time]] my dear girl confidently
 answered “No” too and shook the lovely head which, with its blooming
-[[Flowers|flowers]] against the golden hair, was like the very [[Spring|spring]]. “Much YOU
+[[Flowers|flowers]] against the golden hair, was like the very [[spring]]. “Much YOU
 know of east winds, my ugly darling,” said I, kissing her in my
 admiration—I couldn’t help it.
 

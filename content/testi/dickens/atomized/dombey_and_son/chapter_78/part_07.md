@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 22 (part 7)"
+title: "Dombey and Son — Chapter 50 (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,157 +14,114 @@ tags:
 </nav>
 
 
-Mr Toots never went upstairs; and always performed the same ceremonies,
-richly dressed for the purpose, at the hall door.
+“Florence!” said Walter, passionately. “I am hurried on to say, what I
+thought, but a few moments ago, nothing could have forced from my lips.
+If I had been prosperous; if I had any means or [[Hope|hope]] of being one day
+able to restore you to a station near your own; I would have told you
+that there was one name you might bestow upon—me—a right above all
+others, to protect and cherish you—that I was worthy of in nothing but
+the [[Love|love]] and [[Honour|honour]] that I bore you, and in my whole heart being yours.
+I would have told you that it was the only claim that you could give me
+to defend and guard you, which I dare accept and dare assert; but that
+if I had that right, I would regard it as a trust so precious and so
+priceless, that the undivided [[Truth|truth]] and fervour of my life would poorly
+acknowledge its worth.”
 
-“Oh! Good morning!” would be Mr Toots’s first remark to the servant.
-“For Mr Dombey,” would be Mr Toots’s next remark, as he handed in a
-card. “For Miss Dombey,” would be his next, as he handed in another.
+The head was still bent down, the [[Tears|tears]] still falling, and the bosom
+swelling with its sobs.
 
-Mr Toots would then turn round as if to go away; but the man knew him
-by this [[Time|time]], and knew he wouldn’t.
+“Dear Florence! Dearest Florence! whom I called so in my thoughts
+before I could consider how presumptuous and wild it was. One last [[Time|time]]
+let me call you by your own dear name, and touch this gentle hand in
+token of your sisterly forgetfulness of what I have said.”
 
-“Oh, I beg your pardon,” Mr Toots would say, as if a thought had
-suddenly descended on him. “Is the young woman at [[Home|home]]?”
+She raised her head, and spoke to him with such a solemn sweetness in
+her eyes; with such a calm, bright, placid smile shining on him through
+her [[Tears|tears]]; with such a low, soft tremble in her frame and voice; that
+the innermost chords of his heart were touched, and his sight was dim
+as he listened.
 
-The man would rather think she was, but wouldn’t quite know. Then he
-would ring a bell that rang upstairs, and would look up the staircase,
-and would say, yes, she was at [[Home|home]], and was coming down. Then Miss
-Nipper would appear, and the man would retire.
+“No, Walter, I cannot forget it. I would not forget it, for the world.
+Are you—are you very poor?”
 
-“Oh! How de do?” Mr Toots would say, with a chuckle and a blush.
+“I am but a wanderer,” said Walter, “making voyages to live, across the
+sea. That is my calling now.”
 
-Susan would thank him, and say she was very [[Well|well]].
+“Are you soon going away again, Walter?”
 
-“How’s Diogenes going on?” would be Mr Toots’s second interrogation.
+“Very soon.”
 
-Very [[Well|well]] indeed. Miss Florence was fonder and fonder of him every day.
-Mr Toots was sure to hail this with a burst of chuckles, like the
-opening of a bottle of some effervescent beverage.
+She sat looking at him for a moment; then timidly put her trembling
+hand in his.
 
-“Miss Florence is quite [[Well|well]], Sir,” Susan would add.
+“If you will take me for your wife, Walter, I will [[Love|love]] you dearly. If
+you will let me go with you, Walter, I will go to the world’s end
+without [[Fear|fear]]. I can give up nothing for you—I have nothing to resign,
+and no one to forsake; but all my [[Love|love]] and life shall be devoted to
+you, and with my last breath I will breathe your name to God if I have
+sense and [[Memory|memory]] left.”
 
-“Oh, it’s of no consequence, thank’ee,” was the invariable reply of Mr
-Toots; and when he had said so, he always went away very fast.
+He caught her to his heart, and laid her cheek against his own, and
+now, no more repulsed, no more forlorn, she wept indeed, upon the
+breast of her dear [[Lover|lover]].
 
-Now it is certain that Mr Toots had a filmy something in his mind,
-which led him to conclude that if he could aspire successfully in the
-fulness of [[Time|time]], to the hand of Florence, he would be fortunate and
-blest. It is certain that Mr Toots, by some remote and roundabout [[Road|road]],
-had got to that point, and that there he made a stand. His heart was
-wounded; he was touched; he was in [[Love|love]]. He had made a desperate
-attempt, one [[Night|night]], and had sat up all [[Night|night]] for the purpose, to write
-an acrostic on Florence, which affected him to [[Tears|tears]] in the conception.
-But he never proceeded in the execution further than the words “For
-when I gaze,”—the flow of [[Imagination|imagination]] in which he had previously
-written down the initial letters of the other seven lines, deserting
-him at that point.
+Blessed [[Sunday]] [[Bells]], ringing so tranquilly in their entranced and
+happy ears! Blessed [[Sunday]] peace and quiet, harmonising with the
+calmness in their souls, and making holy air around them! Blessed
+twilight stealing on, and shading her so soothingly and gravely, as she
+falls asleep, like a hushed [[Child|child]], upon the bosom she has clung to!
 
-Beyond devising that very artful and politic measure of leaving a card
-for Mr Dombey daily, the brain of Mr Toots had not worked much in
-reference to the subject that held his feelings prisoner. But deep
-consideration at length assured Mr Toots that an important step to
-gain, was, the conciliation of Miss [[Susan Nipper]], preparatory to giving
-her some inkling of his state of mind.
+Oh load of [[Love|love]] and trustfulness that lies to lightly there! Ay, look
+down on the closed eyes, Walter, with a proudly tender gaze; for in all
+the wide wide world they seek but thee now—only thee!
 
-A little light and playful gallantry towards this lady seemed the means
-to employ in that early chapter of the [[history]], for winning her to his
-interests. Not being able quite to make up his mind about it, he
-consulted the Chicken—without taking that gentleman into his
-confidence; merely informing him that a friend in Yorkshire had written
-to him (Mr Toots) for his opinion on such a question. The Chicken
-replying that his opinion always was, “Go in and win,” and further,
-“When your man’s before you and your work cut out, go in and do it,” Mr
-Toots considered this a figurative way of supporting his own view of
-the case, and heroically resolved to kiss Miss Nipper next day.
+The Captain remained in the little parlour until it was quite dark. He
+took the chair on which Walter had been sitting, and looked up at the
+skylight, until the day, by little and little, faded away, and the
+[[Stars|stars]] peeped down. He lighted a candle, lighted a pipe, smoked it out,
+and wondered what on earth was going on upstairs, and why they didn’t
+call him to tea.
 
-Upon the next day, therefore, Mr Toots, putting into requisition some
-of the greatest marvels that Burgess and Co. had ever turned out, went
-off to Mr Dombey’s upon this design. But his heart failed him so much
-as he approached the scene of action, that, although he arrived on the
-ground at three o’[[Clock|clock]] in the afternoon, it was six before he knocked
-at the door.
+Florence came to his side while he was in the height of his wonderment.
 
-Everything happened as usual, down to the point where Susan said her
-young mistress was [[Well|well]], and Mr Toots said it was of no consequence. To
-her amazement, Mr Toots, instead of going off, like a rocket, after
-that observation, lingered and chuckled.
+“Ay! lady lass!” cried the Captain. “Why, you and Wal”r have had a long
+spell o’ talk, my [[Beauty|beauty]].”
 
-“Perhaps you’d like to walk upstairs, Sir!” said Susan.
+Florence put her little hand round one of the great buttons of his
+coat, and said, looking down into his face:
 
-“[[Well]], I think I will come in!” said Mr Toots.
+“Dear Captain, I want to tell you something, if you please.
 
-But instead of walking upstairs, the bold Toots made an awkward plunge
-at Susan when the door was shut, and embracing that fair creature,
-kissed her on the cheek.
+The Captain raised his head pretty smartly, to hear what it was.
+Catching by this means a more distinct view of Florence, he pushed back
+his chair, and himself with it, as far as they could go.
 
-“Go along with you!” cried Susan, “or Ill tear your eyes out.”
+“What! Heart’s Delight!” cried the Captain, suddenly elated, “Is it
+that?”
 
-“Just another!” said Mr Toots.
+“Yes!” said Florence, eagerly.
 
-“Go along with you!” exclaimed Susan, giving him a push “Innocents like
-you, too! Who’ll begin next? Go along, Sir!”
+“Wal”r! Husband! THAT?” roared the Captain, tossing up his glazed hat
+into the skylight.
 
-Susan was not in any serious strait, for she could hardly speak for
-laughing; but Diogenes, on the staircase, hearing a rustling against
-the wall, and a shuffling of feet, and seeing through the banisters
-that there was some contention going on, and foreign invasion in the
-[[house]], formed a different opinion, dashed down to the rescue, and in
-the twinkling of an eye had Mr Toots by the leg.
+“Yes!” cried Florence, laughing and crying together.
 
-[Illustration]
+The Captain immediately hugged her; and then, picking up the glazed hat
+and putting it on, drew her arm through his, and conducted her upstairs
+again; where he felt that the great joke of his life was now to be
+made.
 
-Susan screamed, laughed, opened the street-door, and ran downstairs;
-the bold Toots tumbled staggering out into the street, with Diogenes
-holding on to one leg of his pantaloons, as if Burgess and Co. were his
-cooks, and had provided that dainty morsel for his holiday
-entertainment; Diogenes shaken off, rolled over and over in the [[Dust|dust]],
-got up again, whirled round the giddy Toots and snapped at him: and all
-this turmoil Mr Carker, reigning up his [[Horse|horse]] and sitting a little at a
-distance, saw to his amazement, issue from the stately [[house]] of Mr
-Dombey.
+“What, Wal”r my lad!” said the Captain, looking in at the door, with
+his face like an amiable warming-pan. “So there ain’t NO other
+character, ain’t there?”
 
-Mr Carker remained watching the discomfited Toots, when Diogenes was
-called in, and the door shut: and while that gentleman, taking refuge
-in a doorway near at hand, bound up the torn leg of his pantaloons with
-a costly silk handkerchief that had formed part of his expensive outfit
-for the advent.
+He had like to have suffocated himself with this pleasantry, which he
+repeated at least forty times during tea; polishing his radiant face
+with the sleeve of his coat, and dabbing his head all over with his
+pocket-handkerchief, in the intervals. But he was not without a graver
+source of enjoyment to fall back upon, when so disposed, for he was
+repeatedly heard to say in an undertone, as he looked with ineffable
+delight at Walter and Florence:
 
-“I beg your pardon, Sir,” said Mr Carker, riding up, with his most
-propitiatory smile. “I [[Hope|hope]] you are not hurt?”
-
-“Oh no, thank you,” replied Mr Toots, raising his flushed face, “it’s
-of no consequence” Mr Toots would have signified, if he could, that he
-liked it very much.
-
-“If the dog’s teeth have entered the leg, Sir—” began Carker, with a
-display of his own.
-
-“No, thank you,” said Mr Toots, “it’s all quite right. It’s very
-comfortable, thank you.”
-
-“I have the pleasure of knowing Mr Dombey,” observed Carker.
-
-“Have you though?” rejoined the blushing Took
-
-“And you will allow me, perhaps, to apologise, in his absence,” said Mr
-Carker, taking off his hat, “for such a misadventure, and to [[Wonder|wonder]] how
-it can possibly have happened.”
-
-Mr Toots is so much gratified by this politeness, and the lucky chance
-of making friends with a friend of Mr Dombey, that he pulls out his
-card-case which he never loses an opportunity of using, and hands his
-name and address to Mr Carker: who responds to that courtesy by giving
-him his own, and with that they part.
-
-As Mr Carker picks his way so softly past the [[house]], looking up at the
-windows, and trying to make out the pensive face behind the curtain
-looking at the children opposite, the rough head of Diogenes came
-clambering up close by it, and the dog, regardless of all soothing,
-barks and growls, and makes at him from that height, as if he would
-[[spring]] down and tear him limb from limb.
-
-[[Well]] spoken, Di, so near your Mistress! Another, and another with your
-head up, your eyes flashing, and your vexed mouth worrying itself, for
-want of him! Another, as he picks his way along! You have a good scent,
-Di,—cats, boy, cats!
+“Ed’ard Cuttle, my lad, you never shaped a better course in your life,
+than when you made that there little property over, jintly!”

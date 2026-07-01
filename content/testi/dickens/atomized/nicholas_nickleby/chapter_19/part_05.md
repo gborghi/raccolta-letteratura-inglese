@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 19 (part 5)"
+title: "Nicholas Nickleby — Chapter 19 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,23 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_19/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_19/part_06">part 06 ›</a></div>
 </nav>
 
+
+‘How goes the enemy, Snobb?’ asked Sir Mulberry Hawk.
+
+‘Four minutes gone.’
+
+‘Bravo!’
+
+‘Won’t you ma-ake one effort for me, Miss Nickleby?’ asked Lord
+Frederick, after a short interval.
+
+‘You needn’t trouble yourself to inquire, my buck,’ said Sir Mulberry;
+‘Miss Nickleby and I understand each other; she declares on my side, and
+shows her taste. You haven’t a chance, old fellow. [[Time]], Snobb?’
+
+‘Eight minutes gone.’
+
+‘Get the money ready,’ said Sir Mulberry; ‘you’ll soon hand over.’
 
 ‘Ha, ha, ha!’ laughed Mr. Pyke.
 
@@ -127,21 +144,3 @@ devil might have owned with [[Pride|pride]].
 The swoln veins stood out like sinews on Ralph’s wrinkled forehead, and
 the nerves about his mouth worked as though some unendurable emotion
 wrung them; but he smiled disdainfully, and again pointed to the door.
-
-‘Do you know me, you old madman?’ asked Sir Mulberry.
-
-‘[[Well]],’ said Ralph. The fashionable vagabond for the moment quite
-quailed under the steady look of the older sinner, and walked towards
-the door, muttering as he went.
-
-‘You wanted the lord, did you?’ he said, stopping short when he reached
-the door, as if a new light had broken in upon him, and confronting
-Ralph again. ‘Damme, I was in the way, was I?’
-
-Ralph smiled again, but made no answer.
-
-‘Who brought him to you first?’ pursued Sir Mulberry; ‘and how, without
-me, could you ever have wound him in your net as you have?’
-
-‘The net is a large one, and rather full,’ said Ralph. ‘Take care that
-it chokes nobody in the meshes.’

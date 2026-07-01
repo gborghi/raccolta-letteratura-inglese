@@ -14,6 +14,16 @@ tags:
 </nav>
 
 
+“That I can’t say,” growled Hugby, “but if it comes to that–aren’t you trying to sell–”
+
+
+
+
+A motor car drove up with a white explosion of [[Dust|dust]], and about six very dusty people got out of it. Even through the densest disguise of the swift motorist, Pump perceived in many of them the peculiar style and bodily carriage of the police. The most evident exception was a long and more slender figure, which, on removing its cap and goggles, disclosed the dark and drooping features of J. Leveson, Secretary. He walked across to the little, old millionaire, who instantly recognized him and shook hands. They confabulated for some little [[Time|time]], turning over some official documents. Dr. Meadows cleared his throat and said to the whole crowd.
+
+
+
+
 “I am very glad to be able to announce to you all that this extraordinary outrage has been too late attempted. Lord Ivywood, with the promptitude he so invariably shows, has immediately communicated to places of importance such as this a most just and right alteration of the law, which exactly meets the present case.
 
 

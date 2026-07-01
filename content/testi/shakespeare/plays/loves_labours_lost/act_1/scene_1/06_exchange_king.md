@@ -1,5 +1,5 @@
 ---
-title: "Loves Labours Lost — Act I, Scene 1 — exchange ([[King|KING]]) [6]"
+title: "Loves Labours Lost — Act I, Scene 1 — exchange (KING) [6]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/love’s-labour’s-lost-(shakespeare)"

@@ -147,7 +147,7 @@ such is your profession, you ought to serve us?"
 from the back of the hall, which was already much
 more crowded than before.
 
-"Serve you!" cried Misysra, leaping up like a [[Spring|spring]]
+"Serve you!" cried Misysra, leaping up like a [[spring]]
 released, "The Holy [[Prophet]] came from Heaven to
 serve you!  The virtue and valour of a thousand
 years, my friends, has had no hunger but to serve you!

@@ -14,6 +14,14 @@ tags:
 </nav>
 
 
+Meantime the two gentlemen inside, who were little disposed to [[Sleep|sleep]],
+beguiled the [[Time|time]] with conversation.  As both were anxious and
+expectant, it naturally turned upon the subject of their expedition, on
+the manner in which it had been brought about, and on the hopes and
+fears they entertained respecting it.  Of the former they had many, of
+the latter few--none perhaps beyond that indefinable uneasiness which
+is inseparable from suddenly awakened [[Hope|hope]], and protracted expectation.
+
 In one of the pauses of their discourse, and when half the [[Night|night]] had
 worn away, the single gentleman, who had gradually become more and more
 silent and thoughtful, turned to his companion and said abruptly:

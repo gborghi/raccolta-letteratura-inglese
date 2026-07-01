@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 46 (part 3)"
+title: "Oliver Twist — Chapter 46 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,25 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_46/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_47/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Never,” replied the gentleman. “The intelligence should be brought to
+bear upon him, that he could never even guess.”
+
+“I have been a liar, and among liars from a little [[Child|child]],” said the
+girl after another interval of [[Silence|silence]], “but I will take your words.”
+
+After receiving an assurance from both, that she might safely do so,
+she proceeded in a voice so low that it was often difficult for the
+listener to discover even the purport of what she said, to describe, by
+name and situation, the public-[[house]] whence she had been followed that
+[[Night|night]]. From the manner in which she occasionally paused, it appeared as
+if the gentleman were making some hasty notes of the information she
+communicated. When she had thoroughly explained the localities of the
+place, the best position from which to watch it without exciting
+observation, and the [[Night|night]] and hour on which [[Monks]] was most in the
+habit of frequenting it, she seemed to consider for a few moments, for
+the purpose of recalling his features and appearances more forcibly to
+her recollection.
 
 “He is tall,” said the girl, “and a strongly made man, but not stout;
 he has a lurking walk; and as he walks, constantly looks over his
@@ -110,7 +129,7 @@ she expected already.”
 life!”
 
 “What!” repeated the girl. “Look before you, lady. Look at that dark
-[[Water|water]]. How many times do you read of such as I who [[Spring|spring]] into the
+[[Water|water]]. How many times do you read of such as I who [[spring]] into the
 tide, and leave no living thing, to care for, or bewail them. It may be
 years hence, or it may be only months, but I shall come to that at
 last.”

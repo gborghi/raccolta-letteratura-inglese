@@ -14,6 +14,56 @@ tags:
 </nav>
 
 
+A certain amount of the literary importance of Mr. Watson can no
+[[Doubt|doubt]] be traced to the bewildering eccentricity of everybody else.
+It is possible for originality to be so popular that it becomes vulgar.
+It is possible that the whole ground of obvious invention may be
+rapidly covered; that every kind of new thing should be brought sharply
+to the attention of everybody.  The last man of science has declared not
+only that the [[Moon|moon]] is made of green [[cheese]], but that he has eaten it.
+The last poet has declared, on the authority of a vision,
+that devils have halos and angels horns.  It seems that there is
+nothing further that anyone can say that will make anyone else jump.
+The extravagance of what has gone before has made all extravagance tame.
+People are not merely at ease in Zion; they are at ease in limbo.
+[[Blood]] and thunder is so victorious that it cannot succeed;
+men are too blinded with [[Blood|blood]] to see [[Blood|blood]].  Men are too deafened
+with thunder to hear the thunder.  It seems as if the universe
+had shown to men its most startling, and they are not startled.
+It seems that nothing will startle them.
+
+But there is something which will startle them.
+[[Sanity]] will startle them, quietness will startle them,
+classical moderation will startle them.  Any man walking easily
+and coolly in the conventional paths will touch with an explosion
+the deep conventions of the unconventional.  Any contented man
+will seem to these discontented ones a sort of Anarchist.
+And this is one of the fundamental fascinations of the position
+of Mr. William Watson, both as a poet and as a philosopher.
+In a [[Time|time]] when everyone was original, the only truly
+original thing left to do was not to be original at all.
+The still small voice of [[Sanity|sanity]] came with a sort of hissing
+stab to remind us that the Lord was not in the thunder.
+The world caught its breath for a moment at the one genuine
+novelty of a man who did not try to be new.
+
+This element in Mr. Watson, of what may be called the arrestingly
+ordinary, owes much of its impressiveness, of course, to his own
+perfectly placid [[Courage|courage]] and consistency in maintaining the attitude.
+He meets the disdain of the decadents with a disdain equal
+to their own; he is fully as proud of being conventional
+as they can be of being unconventional.  Some of his finest
+work has been written in defence of himself and his method,
+and under the impulse of this passionate and pugnacious decency.
+Nothing in recent rhetoric has been finer than the whole of the poem
+called "Apologia," and especially the passage in which in the middle
+of a [[Grave|grave]] and formal defence of classicism he turns dramatically
+upon the decadents:
+
+"For though of faulty and of erring walk, I have not suffered aught
+of frail in me To stain my [[Song|song]]; I have not paid the world The evil
+and the insolent courtesy Of offering it my baseness as a gift."
+
 This haughty and warlike note is more important in
 Mr. Watson's work than has, I think, been commonly allowed.
 He is a classicist, but, like many other classicists,
@@ -43,7 +93,7 @@ of English letters and English landscape.  He is defending it
 against a host of foreign influences, against the influence,
 against the turgidity and obscurity which we have copied
 from the literature of [[Germany]], against the cheapness and over
-emphasis which we have borrowed from the literature of [[America]],
+emphasis which we have borrowed from the literature of [[america|America]],
 against the mistiness and [[Melancholy|melancholy]] which we have borrowed
 from the literature of Norway, against the fastidiousness and
 cruelty which we have borrowed from the literature of France.
@@ -102,36 +152,3 @@ applying to religious books the unbending methods which are
 employed by men of science towards the physical order.
 If what he says of himself is true, he must be totally unfitted
 to criticize any books whatever.
-
-Books exist to produce emotions:  if we are not moved by them
-we practically have not read them.  If a real book has
-not touched us we might as [[Well|well]] not have touched the book.
-In literature to be dispassionate is simply to be illiterate.
-To be disinterested is simply to be uninterested.
-The object of a book on comets, of course, is not to make us
-all feel like comets; but the object of a poem about warriors
-is to make us all feel like warriors.  It is not merely
-true that the right method for one may be the wrong method
-for the other; it must be the wrong method for the other.
-A critic who takes a scientific view of the Book of Job is exactly
-like a surgeon who should take a poetical view of appendicitis:
-he is simply an old muddler.
-
-It is said, of course, that this scientific quality is only
-applied to the actual facts, which are the department of science.
-But what are the actual facts?  There are very few facts
-in connection with a work of literature which are really wholly
-apart from literary tact and grasp.  That certain words are
-on a piece of parchment in a certain order science can say.
-Whether in that order they make sense or nonsense only
-literature can say.  That in another place (say on a brick)
-the same words are in another order science can say.
-Whether it is a more likely order only literature can say.
-That on two bricks there is the same sentence science can say.
-Whether it is the sort of sentence one man would write on two bricks,
-or two men happen to write on their own respective bricks,
-only literature can say.  Let me take an example from
-Professor Dillon's own interesting introduction.  Referring to
-a controversy among scholars about the possible indebtedness
-of the unknown Hebrew poet to other Hebrew writers, he says:
-"On the one hand it is doubtless possible that the words:

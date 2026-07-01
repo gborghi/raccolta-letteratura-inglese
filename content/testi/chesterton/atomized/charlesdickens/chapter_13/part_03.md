@@ -1,5 +1,5 @@
 ---
-title: "[[CharlesDickens]] — Chapter 10 (part 3)"
+title: "CharlesDickens — Chapter 10 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/charlesdickens-(chesterton)"
@@ -60,7 +60,7 @@ than intellect, but is also much more entertaining.  When some
 English moralists write about the importance of having character,
 they appear to mean only the importance of having a dull character.
 But character is brighter than wit, and much more complex than sophistry.
-The whole superiority of the [[Democracy|democracy]] of Dickens over the [[Democracy|democracy]]
+The whole superiority of the [[democracy]] of Dickens over the [[democracy]]
 of such a man as Gissing lies exactly in the fact that Gissing
 would have liked to prove that poor men could instruct themselves
 and could instruct others.  It was of final importance to Dickens

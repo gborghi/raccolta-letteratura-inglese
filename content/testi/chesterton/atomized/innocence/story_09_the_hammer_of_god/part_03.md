@@ -1,5 +1,5 @@
 ---
-title: "[[innocence]] — The Hammer of God (part 3)"
+title: "innocence — The Hammer of God (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -13,6 +13,38 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god/part_04">part 04 ›</a></div>
 </nav>
 
+
+"That's what I say," repeated the cobbler obstinately; "there's only one
+man that could have done it, and he's the man that would have done it.
+Where's Simeon Barnes, the blacksmith?"
+
+"He's over at Greenford," faltered the curate.
+
+"More likely over in France," muttered the cobbler.
+
+"No; he is in neither of those places," said a small and colourless voice,
+which came from the little Roman priest who had joined the group.
+"As a matter of fact, he is coming up the [[Road|road]] at this moment."
+
+The little priest was not an interesting man to look at,
+having stubbly brown hair and a round and stolid face.
+But if he had been as splendid as [[Apollo]] no one would have looked
+at him at that moment.  Everyone turned round and peered at
+the pathway which wound across the plain below, along which was
+indeed walking, at his own huge stride and with a hammer on
+his shoulder, Simeon the [[smith]].  He was a bony and gigantic man,
+with deep, dark, sinister eyes and a dark chin beard.
+He was walking and talking quietly with two other men;
+and though he was never specially cheerful, he seemed quite
+at his ease.
+
+"My God!" cried the atheistic cobbler, "and there's the hammer
+he did it with."
+
+"No," said the inspector, a sensible-looking man
+with a sandy moustache, speaking for the first [[Time|time]].
+"There's the hammer he did it with over there by the church wall.
+We have left it and the [[Body|body]] exactly as they are."
 
 All glanced round and the short priest went across and looked down in [[Silence|silence]]
 at the tool where it lay.  It was one of the smallest and the lightest
@@ -111,42 +143,3 @@ who were indeed friends of nearly everyone present.  Each of them
 said a few words which no one ever thought of disbelieving.
 When they had spoken, the [[innocence]] of Simeon stood up as solid
 as the great church above them.
-
-One of those silences struck the group which are more strange and
-insufferable than any speech.  Madly, in order to make conversation,
-the curate said to the Catholic priest:
-
-"You seem very much interested in that hammer, [[Father Brown]]."
-
-"Yes, I am," said [[Father Brown]]; "why is it such a small hammer?"
-
-The doctor swung round on him.
-
-"By George, that's true," he cried; "who would use a little hammer with ten
-larger hammers lying about?"
-
-Then he lowered his voice in the curate's ear and said:
-"Only the kind of person that can't lift a large hammer.
-It is not a question of force or [[Courage|courage]] between the sexes.
-It's a question of lifting power in the shoulders.  A bold woman
-could commit ten murders with a light hammer and never turn a hair.
-She could not kill a beetle with a heavy one."
-
-Wilfred Bohun was staring at him with a sort of hypnotised horror,
-while [[Father Brown]] listened with his head a little on one side,
-really interested and attentive.  The doctor went on with
-more hissing emphasis:
-
-"Why do these idiots always assume that the only person who hates
-the wife's [[Lover|lover]] is the wife's husband?  Nine times out of ten
-the person who most hates the wife's [[Lover|lover]] is the wife.
-Who knows what insolence or treachery he had shown her--look there!"
-
-He made a momentary gesture towards the red-haired woman on the bench.
-She had lifted her head at last and the [[Tears|tears]] were drying on her
-splendid face.  But the eyes were fixed on the corpse with an electric
-glare that had in it something of idiocy.
-
-The Rev. Wilfred Bohun made a limp gesture as if waving away all [[Desire|desire]]
-to know; but [[Father Brown]], dusting off his sleeve some ashes blown
-from the furnace, spoke in his indifferent way.

@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities — Chapter 12"
+title: "A Tale of Two Cities — Chapter 13"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/a-tale-of-two-cities-(dickens)"
@@ -14,299 +14,207 @@ tags:
 </nav>
 
 
-CHAPTER XII.
-The Fellow of Delicacy
-
-
-Mr. Stryver having made up his mind to that magnanimous bestowal of good
-fortune on the Doctor’s daughter, resolved to make her happiness known
-to her before he left town for the Long Vacation. After some mental
-debating of the point, he came to the conclusion that it would be as
-[[Well|well]] to get all the preliminaries done with, and they could then arrange
-at their leisure whether he should give her his hand a week or two
-before Michaelmas Term, or in the little Christmas vacation between it
-and Hilary.
-
-As to the strength of his case, he had not a [[Doubt|doubt]] about it, but clearly
-saw his way to the verdict. Argued with the jury on substantial worldly
-grounds--the only grounds ever worth taking into account--it was a
-plain case, and had not a weak spot in it. He called himself for the
-plaintiff, there was no getting over his evidence, the counsel for
-the defendant threw up his brief, and the jury did not even turn to
-consider. After trying it, Stryver, C. J., was satisfied that no plainer
-case could be.
-
-Accordingly, Mr. Stryver inaugurated the Long Vacation with a formal
-proposal to take Miss Manette to Vauxhall Gardens; that failing, to
-Ranelagh; that unaccountably failing too, it behoved him to present
-himself in Soho, and there declare his noble mind.
-
-Towards Soho, therefore, Mr. Stryver shouldered his way from the Temple,
-while the bloom of the Long Vacation’s infancy was still upon it.
-Anybody who had seen him projecting himself into Soho while he was yet
-on Saint Dunstan’s side of Temple Bar, bursting in his full-blown way
-along the pavement, to the jostlement of all weaker people, might have
-seen how safe and strong he was.
-
-His way taking him past Tellson’s, and he both banking at Tellson’s and
-knowing Mr. Lorry as the intimate friend of the Manettes, it entered Mr.
-Stryver’s mind to enter the bank, and reveal to Mr. Lorry the brightness
-of the Soho horizon. So, he pushed open the door with the weak rattle
-in its throat, stumbled down the two steps, got past the two ancient
-cashiers, and shouldered himself into the musty back closet where Mr.
-Lorry sat at great books ruled for figures, with perpendicular iron
-bars to his [[Window|window]] as if that were ruled for figures too, and everything
-under the clouds were a sum.
-
-“Halloa!” said Mr. Stryver. “How do you do? I [[Hope|hope]] you are [[Well|well]]!”
-
-It was Stryver’s grand peculiarity that he always seemed too big for any
-place, or space. He was so much too big for Tellson’s, that old clerks
-in distant corners looked up with looks of remonstrance, as though he
-squeezed them against the wall. The [[house|House]] itself, magnificently reading
-the paper quite in the far-off perspective, lowered displeased, as if
-the Stryver head had been butted into its responsible waistcoat.
-
-The discreet Mr. Lorry said, in a sample tone of the voice he would
-recommend under the circumstances, “How do you do, Mr. Stryver? How do
-you do, sir?” and shook hands. There was a peculiarity in his manner
-of shaking hands, always to be seen in any clerk at Tellson’s who shook
-hands with a customer when the [[house|House]] pervaded the air. He shook in a
-[[Self|self]]-abnegating way, as one who shook for Tellson and Co.
-
-“Can I do anything for you, Mr. Stryver?” asked Mr. Lorry, in his
-business character.
-
-“Why, no, thank you; this is a private visit to yourself, Mr. Lorry; I
-have come for a private word.”
-
-“Oh indeed!” said Mr. Lorry, bending down his ear, while his eye strayed
-to the [[house|House]] afar off.
-
-“I am going,” said Mr. Stryver, leaning his arms confidentially on the
-desk: whereupon, although it was a large [[Double|double]] one, there appeared to
-be not half desk enough for him: “I am going to make an offer of myself
-in [[Marriage|marriage]] to your agreeable little friend, Miss Manette, Mr. Lorry.”
-
-“Oh dear me!” cried Mr. Lorry, rubbing his chin, and looking at his
-visitor dubiously.
-
-“Oh dear me, sir?” repeated Stryver, drawing back. “Oh dear you, sir?
-What may your meaning be, Mr. Lorry?”
-
-“My meaning,” answered the man of business, “is, of course, friendly and
-appreciative, and that it does you the greatest credit, and--in short,
-my meaning is everything you could [[Desire|desire]]. But--really, you know, Mr.
-Stryver--” Mr. Lorry paused, and shook his head at him in the oddest
-manner, as if he were compelled against his will to add, internally,
-“you know there really is so much too much of you!”
-
-“[[Well]]!” said Stryver, slapping the desk with his contentious hand,
-opening his eyes wider, and taking a long breath, “if I understand you,
-Mr. Lorry, I’ll be hanged!”
-
-Mr. Lorry adjusted his little wig at both ears as a means towards that
-end, and bit the feather of a pen.
-
-“D--n it all, sir!” said Stryver, staring at him, “am I not eligible?”
-
-“Oh dear yes! Yes. Oh yes, you’re eligible!” said Mr. Lorry. “If you say
-eligible, you are eligible.”
-
-“Am I not prosperous?” asked Stryver.
-
-“Oh! if you come to prosperous, you are prosperous,” said Mr. Lorry.
-
-“And advancing?”
-
-“If you come to advancing you know,” said Mr. Lorry, delighted to be
-able to make another admission, “nobody can [[Doubt|doubt]] that.”
-
-“Then what on earth is your meaning, Mr. Lorry?” demanded Stryver,
-perceptibly crestfallen.
-
-“[[Well]]! I--Were you going there now?” asked Mr. Lorry.
-
-“Straight!” said Stryver, with a plump of his fist on the desk.
-
-“Then I think I wouldn’t, if I was you.”
-
-“Why?” said Stryver. “Now, I’ll put you in a corner,” forensically
-shaking a forefinger at him. “You are a man of business and bound to
-have a reason. State your reason. Why wouldn’t you go?”
-
-“Because,” said Mr. Lorry, “I wouldn’t go on such an object without
-having some cause to believe that I should succeed.”
-
-“D--n _me_!” cried Stryver, “but this beats everything.”
-
-Mr. Lorry glanced at the distant [[house|House]], and glanced at the angry
-Stryver.
-
-“Here’s a man of business--a man of years--a man of experience--_in_
-a Bank,” said Stryver; “and having summed up three leading reasons for
-complete [[success]], he says there’s no reason at all! Says it with his
-head on!” Mr. Stryver remarked upon the peculiarity as if it would have
-been infinitely less remarkable if he had said it with his head off.
-
-“When I speak of [[success]], I speak of [[success]] with the young lady; and
-when I speak of causes and reasons to make [[success]] probable, I speak of
-causes and reasons that will tell as such with the young lady. The young
-lady, my good sir,” said Mr. Lorry, mildly tapping the Stryver arm, “the
-young lady. The young lady goes before all.”
-
-“Then you mean to tell me, Mr. Lorry,” said Stryver, squaring his
-elbows, “that it is your deliberate opinion that the young lady at
-present in question is a mincing [[Fool]]?”
-
-“Not exactly so. I mean to tell you, Mr. Stryver,” said Mr. Lorry,
-reddening, “that I will hear no disrespectful word of that young lady
-from any lips; and that if I knew any man--which I [[Hope|hope]] I do not--whose
-taste was so coarse, and whose temper was so overbearing, that he could
-not restrain himself from speaking disrespectfully of that young lady at
-this desk, not even Tellson’s should prevent my giving him a piece of my
-mind.”
-
-The necessity of being angry in a suppressed tone had put Mr. Stryver’s
-[[Blood|blood]]-vessels into a dangerous state when it was his turn to be angry;
-Mr. Lorry’s veins, methodical as their courses could usually be, were in
-no better state now it was his turn.
-
-“That is what I mean to tell you, sir,” said Mr. Lorry. “Pray let there
-be no mistake about it.”
-
-Mr. Stryver sucked the end of a ruler for a little while, and then stood
-hitting a tune out of his teeth with it, which probably gave him the
-toothache. He broke the awkward [[Silence|silence]] by saying:
-
-“This is something new to me, Mr. Lorry. You deliberately advise me not
-to go up to Soho and offer myself--_my_self, Stryver of the [[King]]’s Bench
-bar?”
-
-“Do you ask me for my advice, Mr. Stryver?”
-
-“Yes, I do.”
-
-“Very good. Then I give it, and you have repeated it correctly.”
-
-“And all I can say of it is,” laughed Stryver with a vexed laugh, “that
-this--ha, ha!--beats everything past, present, and to come.”
-
-“Now understand me,” pursued Mr. Lorry. “As a man of business, I am
-not justified in saying anything about this matter, for, as a man of
-business, I know nothing of it. But, as an old fellow, who has carried
-Miss Manette in his arms, who is the trusted friend of Miss Manette and
-of her father too, and who has a great affection for them both, I have
-spoken. The confidence is not of my seeking, recollect. Now, you think I
-may not be right?”
-
-“Not I!” said Stryver, whistling. “I can’t undertake to find third
-parties in common sense; I can only find it for myself. I suppose sense
-in certain quarters; you suppose mincing bread-and-butter nonsense. It’s
-new to me, but you are right, I dare say.”
-
-“What I suppose, Mr. Stryver, I claim to characterise for myself--And
-understand me, sir,” said Mr. Lorry, quickly flushing again, “I
-will not--not even at Tellson’s--have it characterised for me by any
-gentleman breathing.”
-
-“There! I beg your pardon!” said Stryver.
-
-“Granted. Thank you. [[Well]], Mr. Stryver, I was about to say:--it might be
-painful to you to find yourself mistaken, it might be painful to Doctor
-Manette to have the task of being explicit with you, it might be very
-painful to Miss Manette to have the task of being explicit with you. You
-know the terms upon which I have the [[Honour|honour]] and happiness to stand with
-the family. If you please, committing you in no way, representing you
-in no way, I will undertake to correct my advice by the exercise of a
-little new observation and judgment expressly brought to bear upon
-it. If you should then be dissatisfied with it, you can but test its
-soundness for yourself; if, on the other hand, you should be satisfied
-with it, and it should be what it now is, it may spare all sides what is
-best spared. What do you say?”
-
-“How long would you keep me in town?”
-
-“Oh! It is only a question of a few hours. I could go to Soho in the
-evening, and come to your chambers afterwards.”
-
-“Then I say yes,” said Stryver: “I won’t go up there now, I am not so
-hot upon it as that comes to; I say yes, and I shall expect you to look
-in to-[[Night|night]]. Good morning.”
-
-Then Mr. Stryver turned and burst out of the Bank, causing such a
-concussion of air on his passage through, that to stand up against it
-bowing behind the two counters, required the utmost remaining strength
-of the two ancient clerks. Those venerable and feeble persons were
-always seen by the public in the act of bowing, and were popularly
-believed, when they had bowed a customer out, still to keep on bowing in
-the empty office until they bowed another customer in.
-
-The barrister was keen enough to divine that the banker would not have
-gone so far in his expression of opinion on any less solid ground than
-moral certainty. Unprepared as he was for the large pill he had to
-[[Swallow|swallow]], he got it down. “And now,” said Mr. Stryver, shaking his
-forensic forefinger at the Temple in general, when it was down, “my way
-out of this, is, to put you all in the wrong.”
-
-It was a bit of the art of an Old Bailey tactician, in which he found
-great relief. “You shall not put me in the wrong, young lady,” said Mr.
-Stryver; “I’ll do that for you.”
-
-Accordingly, when Mr. Lorry called that [[Night|night]] as late as ten o’[[Clock|clock]],
-Mr. Stryver, among a quantity of books and papers littered out for the
-purpose, seemed to have nothing less on his mind than the subject of
-the morning. He even showed surprise when he saw Mr. Lorry, and was
-altogether in an absent and preoccupied state.
-
-“[[Well]]!” said that good-natured emissary, after a full half-hour of
-bootless attempts to bring him round to the question. “I have been to
-Soho.”
-
-“To Soho?” repeated Mr. Stryver, coldly. “Oh, to be sure! What am I
-thinking of!”
-
-“And I have no [[Doubt|doubt]],” said Mr. Lorry, “that I was right in the
-conversation we had. My opinion is confirmed, and I reiterate my
-advice.”
-
-“I assure you,” returned Mr. Stryver, in the friendliest way, “that I
-am sorry for it on your account, and sorry for it on the poor father’s
-account. I know this must always be a sore subject with the family; let
-us say no more about it.”
-
-“I don’t understand you,” said Mr. Lorry.
-
-“I dare say not,” rejoined Stryver, nodding his head in a smoothing and
-final way; “no matter, no matter.”
-
-“But it does matter,” Mr. Lorry urged.
-
-“No it doesn’t; I assure you it doesn’t. Having supposed that there was
-sense where there is no sense, and a laudable [[Ambition|ambition]] where there is
-not a laudable [[Ambition|ambition]], I am [[Well|well]] out of my mistake, and no harm is
-done. Young women have committed similar follies often before, and have
-repented them in [[Poverty|poverty]] and obscurity often before. In an unselfish
-aspect, I am sorry that the thing is dropped, because it would have been
-a bad thing for me in a worldly point of view; in a selfish aspect, I am
-glad that the thing has dropped, because it would have been a bad thing
-for me in a worldly point of view--it is hardly necessary to say I could
-have gained nothing by it. There is no harm at all done. I have not
-proposed to the young lady, and, between ourselves, I am by no means
-certain, on reflection, that I ever should have committed myself to
-that extent. Mr. Lorry, you cannot control the mincing vanities and
-giddinesses of empty-headed girls; you must not expect to do it, or you
-will always be disappointed. Now, pray say no more about it. I tell you,
-I regret it on account of others, but I am satisfied on my own account.
-And I am really very much obliged to you for allowing me to sound you,
-and for giving me your advice; you know the young lady better than I do;
-you were right, it never would have done.”
-
-Mr. Lorry was so taken aback, that he looked quite stupidly at Mr.
-Stryver shouldering him towards the door, with an appearance of
-showering generosity, forbearance, and goodwill, on his erring head.
-“Make the best of it, my dear sir,” said Stryver; “say no more about it;
-thank you again for allowing me to sound you; good [[Night|night]]!”
-
-Mr. Lorry was out in the [[Night|night]], before he knew where he was. Mr. Stryver
-was lying back on his sofa, winking at his ceiling.
+CHAPTER XIII.
+The Fellow of No Delicacy
+
+
+If [[Sydney Carton]] ever shone anywhere, he certainly never shone in the
+[[house]] of [[Doctor Manette]]. He had been there often, during a whole year,
+and had always been the same moody and morose lounger there. When he
+cared to talk, he talked [[Well|well]]; but, the cloud of caring for nothing,
+which overshadowed him with such a fatal darkness, was very rarely
+pierced by the light within him.
+
+And yet he did care something for the streets that environed that [[house]],
+and for the senseless stones that made their pavements. Many a [[Night|night]]
+he vaguely and unhappily wandered there, when wine had brought no
+transitory gladness to him; many a dreary daybreak revealed his solitary
+figure lingering there, and still lingering there when the first beams
+of the sun brought into strong relief, removed beauties of architecture
+in spires of churches and lofty buildings, as perhaps the quiet [[Time|time]]
+brought some sense of better things, else forgotten and [[Unattainable|unattainable]],
+into his mind. Of late, the neglected bed in the Temple [[Court]] had known
+him more scantily than ever; and often when he had thrown himself upon
+it no longer than a few minutes, he had got up again, and haunted that
+neighbourhood.
+
+On a day in August, when Mr. Stryver (after notifying to his jackal
+that “he had thought better of that marrying matter”) had carried his
+delicacy into Devonshire, and when the sight and scent of [[Flowers|flowers]] in the
+[[City]] streets had some waifs of goodness in them for the worst, of health
+for the sickliest, and of youth for the oldest, Sydney’s feet still trod
+those stones. From being irresolute and purposeless, his feet became
+animated by an intention, and, in the working out of that intention,
+they took him to the Doctor’s door.
+
+He was shown up-stairs, and found Lucie at her work, [[Alone|alone]]. She had
+never been quite at her ease with him, and received him with some little
+embarrassment as he seated himself near her table. But, looking up at
+his face in the interchange of the first few common-places, she observed
+a change in it.
+
+“I [[Fear|fear]] you are not [[Well|well]], Mr. Carton!”
+
+“No. But the life I lead, Miss Manette, is not conducive to health. What
+is to be expected of, or by, such profligates?”
+
+“Is it not--forgive me; I have begun the question on my lips--a pity to
+live no better life?”
+
+“God knows it is a shame!”
+
+“Then why not change it?”
+
+Looking gently at him again, she was surprised and saddened to see that
+there were [[Tears|tears]] in his eyes. There were [[Tears|tears]] in his voice too, as he
+answered:
+
+“It is too late for that. I shall never be better than I am. I shall
+sink lower, and be worse.”
+
+He leaned an elbow on her table, and covered his eyes with his hand. The
+table trembled in the [[Silence|silence]] that followed.
+
+She had never seen him softened, and was much distressed. He knew her to
+be so, without looking at her, and said:
+
+“Pray forgive me, Miss Manette. I break down before the knowledge of
+what I want to say to you. Will you hear me?”
+
+“If it will do you any good, Mr. Carton, if it would make you happier,
+it would make me very glad!”
+
+“God bless you for your sweet compassion!”
+
+He unshaded his face after a little while, and spoke steadily.
+
+“Don’t be afraid to hear me. Don’t shrink from anything I say. I am like
+one who died young. All my life might have been.”
+
+“No, Mr. Carton. I am sure that the best part of it might still be; I am
+sure that you might be much, much worthier of yourself.”
+
+“Say of you, Miss Manette, and although I know better--although in the
+mystery of my own wretched heart I know better--I shall never forget
+it!”
+
+She was pale and trembling. He came to her relief with a fixed [[Despair|despair]]
+of himself which made the interview unlike any other that could have
+been holden.
+
+“If it had been possible, Miss Manette, that you could have returned the
+[[Love|love]] of the man you see before yourself--flung away, wasted, drunken,
+poor creature of misuse as you know him to be--he would have been
+conscious this day and hour, in spite of his happiness, that he would
+bring you to misery, bring you to sorrow and repentance, blight you,
+disgrace you, pull you down with him. I know very [[Well|well]] that you can have
+no tenderness for me; I ask for none; I am even thankful that it cannot
+be.”
+
+“Without it, can I not save you, Mr. Carton? Can I not recall
+you--forgive me again!--to a better course? Can I in no way repay your
+confidence? I know this is a confidence,” she modestly said, after a
+little hesitation, and in earnest [[Tears|tears]], “I know you would say this to
+no one else. Can I turn it to no good account for yourself, Mr. Carton?”
+
+He shook his head.
+
+“To none. No, Miss Manette, to none. If you will hear me through a very
+little more, all you can ever do for me is done. I wish you to know that
+you have been the last dream of my [[Soul|soul]]. In my degradation I have not
+been so degraded but that the sight of you with your father, and of this
+[[Home|home]] made such a [[Home|home]] by you, has stirred old shadows that I thought had
+died out of me. Since I knew you, I have been troubled by a remorse that
+I thought would never reproach me again, and have heard whispers from
+old voices impelling me upward, that I thought were silent for ever. I
+have had unformed ideas of striving afresh, beginning anew, shaking off
+sloth and sensuality, and fighting out the abandoned fight. [[A Dream|A dream]], all
+[[A Dream|a dream]], that ends in nothing, and [[Leaves|leaves]] [[The Sleeper|the sleeper]] where he lay down,
+but I wish you to know that you inspired it.”
+
+“Will nothing of it remain? O Mr. Carton, think again! Try again!”
+
+“No, Miss Manette; all through it, I have known myself to be quite
+undeserving. And yet I have had the weakness, and have still the
+weakness, to wish you to know with what a sudden mastery you kindled me,
+heap of ashes that I am, into [[Fire|fire]]--a [[Fire|fire]], however, inseparable in
+its [[Nature|nature]] from myself, quickening nothing, lighting nothing, doing no
+service, idly burning away.”
+
+“Since it is my misfortune, Mr. Carton, to have made you more unhappy
+than you were before you knew me--”
+
+“Don’t say that, Miss Manette, for you would have reclaimed me, if
+anything could. You will not be the cause of my becoming worse.”
+
+“Since the state of your mind that you describe, is, at all events,
+attributable to some influence of mine--this is what I mean, if I can
+make it plain--can I use no influence to serve you? Have I no power for
+good, with you, at all?”
+
+“The utmost good that I am capable of now, Miss Manette, I have come
+here to realise. Let me carry through the rest of my misdirected life,
+the remembrance that I opened my heart to you, last of all the world;
+and that there was something left in me at this [[Time|time]] which you could
+deplore and pity.”
+
+“Which I entreated you to believe, again and again, most fervently, with
+all my heart, was capable of better things, Mr. Carton!”
+
+“Entreat me to believe it no more, Miss Manette. I have proved myself,
+and I know better. I distress you; I draw fast to an end. Will you let
+me believe, when I recall this day, that the last confidence of my life
+was reposed in your pure and [[Innocent|innocent]] breast, and that it lies there
+[[Alone|alone]], and will be shared by no one?”
+
+“If that will be a consolation to you, yes.”
+
+“Not even by the dearest one ever to be known to you?”
+
+“Mr. Carton,” she answered, after an agitated pause, “the secret is
+yours, not mine; and I promise to respect it.”
+
+“Thank you. And again, God bless you.”
+
+He put her hand to his lips, and moved towards the door.
+
+“Be under no apprehension, Miss Manette, of my ever resuming this
+conversation by so much as a passing word. I will never refer to it
+again. If I were dead, that could not be surer than it is henceforth. In
+the hour of my [[Death|death]], I shall hold sacred the one good remembrance--and
+shall thank and bless you for it--that my last avowal of myself was made
+to you, and that my name, and faults, and miseries were gently carried
+in your heart. May it otherwise be light and happy!”
+
+He was so unlike what he had ever shown himself to be, and it was so
+sad to think how much he had thrown away, and how much he every day kept
+down and perverted, that [[Lucie Manette]] wept mournfully for him as he
+stood looking back at her.
+
+“Be comforted!” he said, “I am not worth such feeling, Miss Manette. An
+hour or two hence, and the low companions and low habits that I scorn
+but yield to, will render me less worth such [[Tears|tears]] as those, than any
+wretch who creeps along the streets. Be comforted! But, within myself, I
+shall always be, towards you, what I am now, though outwardly I shall be
+what you have heretofore seen me. The last supplication but one I make
+to you, is, that you will believe this of me.”
+
+“I will, Mr. Carton.”
+
+“My last supplication of all, is this; and with it, I will relieve
+you of a visitor with whom I [[Well|well]] know you have nothing in unison, and
+between whom and you there is an impassable space. It is useless to say
+it, I know, but it rises out of my [[Soul|soul]]. For you, and for any dear to
+you, I would do anything. If my career were of that better kind that
+there was any opportunity or capacity of sacrifice in it, I would
+embrace any sacrifice for you and for those dear to you. Try to hold
+me in your mind, at some quiet times, as ardent and sincere in this one
+thing. The [[Time|time]] will come, the [[Time|time]] will not be long in coming, when new
+ties will be formed about you--ties that will bind you yet more tenderly
+and strongly to the [[Home|home]] you so adorn--the dearest ties that will ever
+grace and gladden you. O Miss Manette, when the little picture of a
+happy father’s face looks up in yours, when you see your own bright
+[[Beauty|beauty]] springing up anew at your feet, think now and then that there is
+a man who would give his life, to keep a life you [[Love|love]] beside you!”
+
+He said, “Farewell!” said a last “God bless you!” and left her.

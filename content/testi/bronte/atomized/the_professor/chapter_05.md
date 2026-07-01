@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 4"
+title: "The Professor — Chapter 4"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-professor-(bronte)"
@@ -15,8 +15,6 @@ tags:
 
 
 CHAPTER IV.
-
-
 
 No man likes to acknowledge that he has made a mistake in the choice of
 
@@ -66,8 +64,6 @@ sunshine of life; and I began to feel like a plant growing in humid
 
 darkness out of the slimy walls of a [[Well|well]].
 
-
-
 Antipathy is the only word which can express the feeling Edward
 
 Crimsworth had for me--a feeling, in a great measure, involuntary, and
@@ -102,8 +98,6 @@ watch my tact, hoping it would [[Sleep|sleep]], and prepared to steal snake-like
 
 on its slumber; but tact, if it be genuine, never sleeps.
 
-
-
 I had received my first quarter’s wages, and was returning to my
 
 lodgings, possessed heart and [[Soul|soul]] with the pleasant feeling that
@@ -130,15 +124,11 @@ out; looking towards the [[Window|window]] of my sitting-room, I saw no cheering
 
 red gleam.
 
-
-
 “That slut of a servant has neglected it as usual,” said I, “and I shall
 
 see nothing but pale ashes if I go in; it is a fine starlight [[Night|night]]--I
 
 will walk a little farther.”
-
-
 
 It WAS a fine [[Night|night]], and the streets were dry and even clean for X----;
 
@@ -147,8 +137,6 @@ there was a crescent curve of moonlight to be seen by the parish church
 tower, and hundreds of [[Stars|stars]] shone keenly bright in all quarters of the
 
 sky.
-
-
 
 Unconsciously I steered my course towards the country; I had got into
 
@@ -160,21 +148,15 @@ gate of one of the small gardens which front the neat dwelling-houses in
 
 this street, addressed me as I was hurrying with quick stride past.
 
-
-
 “What the deuce is the hurry? Just so must Lot have left Sodom, when he
 
 expected [[Fire|fire]] to pour down upon it, out of burning brass clouds.”
-
-
 
 I stopped short, and looked towards the speaker. I smelt the fragrance,
 
 and saw the red spark of a cigar; the dusk outline of a man, too, bent
 
 towards me over the wicket.
-
-
 
 “You see I am meditating in the field at eventide,” continued this
 
@@ -188,33 +170,21 @@ voice was familiar to me--its second utterance enabled me to seize the
 
 speaker’s [[Identity|identity]].
 
-
-
 “Mr. Hunsden! good evening.”
-
-
 
 “Good evening, indeed! yes, but you would have passed me without
 
 recognition if I had not been so civil as to speak first.”
 
-
-
 “I did not know you.”
-
-
 
 “A famous excuse! You ought to have known me; I knew you, though you
 
 were going ahead like a steam-engine. Are the police after you?”
 
-
-
 “It wouldn’t be worth their while; I’m not of consequence enough to
 
 attract them.”
-
-
 
 “Alas, poor shepherd! Alack and [[Well|well]]-a-day! What a theme for regret, and
 
@@ -224,11 +194,7 @@ But since you’re not running from the police, from whom are you running?
 
 the devil?”
 
-
-
 “On the contrary, I am going post to him.”
-
-
 
 “That is [[Well|well]]--you’re just in luck: this is Tuesday evening; there are
 
@@ -244,23 +210,15 @@ to-[[Night|night]], he’ll have so many customers to serve; Tuesday is his busy
 
 in X---- and Dinneford; come in at all events.”
 
-
-
 He swung the wicket open as he spoke.
 
-
-
 “Do you really wish me to go in?” I asked.
-
-
 
 “As you please--I’m [[Alone|alone]]; your company for an hour or two would be
 
 agreeable to me; but, if you don’t choose to favour me so far, I’ll not
 
 press the point. I hate to bore any one.”
-
-
 
 It suited me to accept the invitation as it suited Hunsden to give it.
 
@@ -271,8 +229,6 @@ opened; thence we traversed a passage, and entered his parlour; the door
 being shut, he pointed me to an arm-chair by the hearth; I sat down, and
 
 glanced round me.
-
-
 
 It was a comfortable room, at once snug and handsome; the bright grate
 
@@ -308,8 +264,6 @@ were works on Political Economy. I examined no further, for Mr. Hunsden
 
 himself recalled my attention.
 
-
-
 “You shall have something,” said he, “for you ought to feel disposed for
 
 refreshment after walking nobody knows how far on such a Canadian [[Night|night]]
@@ -322,8 +276,6 @@ Rhein-wein for my own drinking, and you may choose between that and
 
 coffee.”
 
-
-
 Here again Hunsden suited me: if there was one generally received
 
 practice I abhorred more than another, it was the habitual imbibing of
@@ -332,11 +284,7 @@ spirits and strong wines. I had, however, no fancy for his acid German
 
 nectar, but I liked coffee, so I responded--
 
-
-
 “Give me some coffee, Mr. Hunsden.”
-
-
 
 I perceived my answer pleased him; he had doubtless expected to see a
 
@@ -416,11 +364,7 @@ the two semblances were blent, and a queer, composite countenance they
 
 made.
 
-
-
 Starting from his silent fit, he began:--
-
-
 
 “William! what a [[Fool|fool]] you are to live in those dismal lodgings of Mrs.
 
@@ -428,11 +372,7 @@ Starting from his silent fit, he began:--
 
 [[Garden|garden]] like me!”
 
-
-
 “I should be too far from the mill.”
-
-
 
 “What of that? It would do you good to walk there and back two or three
 
@@ -440,11 +380,7 @@ times a day; besides, are you such a fossil that you never wish to see a
 
 flower or a green leaf?”
 
-
-
 “I am no fossil.”
-
-
 
 “What are you then? You sit at that desk in Crimsworth’s counting-[[house]]
 
@@ -458,11 +394,7 @@ no excess of an evening; you neither keep wild company, nor indulge in
 
 strong drink.”
 
-
-
 “Do you, Mr. Hunsden?”
-
-
 
 “Don’t think to pose me with short questions; your case and mine
 
@@ -472,11 +404,7 @@ parallel. I say, that when a man endures patiently what ought to be
 
 unendurable, he is a fossil.”
 
-
-
 “Whence do you acquire the knowledge of my patience?”
-
-
 
 “Why, man, do you suppose you are a mystery? The other [[Night|night]] you seemed
 
@@ -500,11 +428,7 @@ place nor partner, but hovered about like a poor, shabby hanger-on; and
 
 how patient you were under each and all of these circumstances!”
 
-
-
 “[[Well]], Mr. Hunsden, what then?”
-
-
 
 “I can hardly tell you what then; the conclusion to be drawn as to
 
@@ -527,8 +451,6 @@ phlegmatic, flat, inexcitable, and that you cannot get up to the pitch
 of resistance, why, God made you to be crushed; and lie down by all
 
 means, and lie flat, and let Juggernaut ride [[Well|well]] over you.”
-
-
 
 Mr. Hunsden’s eloquence was not, it will be perceived, of the smooth and
 
@@ -562,11 +484,7 @@ incorrect and offensive surmises, his bitter and haughty taunts; and
 
 himself was chafed by a laugh, scarce louder than a whisper.
 
-
-
 His brow darkened, his thin nostril dilated a little.
-
-
 
 “Yes,” he began, “I told you that you were an [[aristocrat]], and who but
 
@@ -598,8 +516,6 @@ with practical men, with whom you cannot cope, for YOU’LL NEVER BE A
 
 TRADESMAN.”
 
-
-
 The first part of Hunsden’s speech moved me not at all, or, if it did,
 
 it was only to [[Wonder|wonder]] at the perversion into which prejudice had twisted
@@ -610,11 +526,7 @@ moved, but shook me; the blow it gave was a severe one, because [[Truth]]
 
 wielded the weapon. If I smiled now, it, was only in disdain of myself.
 
-
-
 Hunsden saw his advantage; he followed it up.
-
-
 
 “You’ll make nothing by trade,” continued he; “nothing more than the
 
@@ -624,13 +536,9 @@ your only chance of getting a competency lies in marrying a rich widow,
 
 or running away with an heiress.”
 
-
-
 “I leave such shifts to be put in practice by those who devise them,”
 
  said I, rising.
-
-
 
 “And even that is hopeless,” he went on coolly. “What widow would have
 
@@ -644,8 +552,6 @@ refinement to market, and tell me in a private note what price is bid
 
 for them.”
 
-
-
 Mr. Hunsden had taken his tone for the [[Night|night]]; the string he struck was
 
 out of tune, he would finger no other. Averse to discord, of which I had
@@ -653,8 +559,6 @@ out of tune, he would finger no other. Averse to discord, of which I had
 enough every day and all day long, I concluded, at last, that [[Silence|silence]]
 
 and [[Solitude|solitude]] were preferable to jarring converse; I bade him good-[[Night|night]].
-
-
 
 “What! Are you going, lad? [[Well]], good-[[Night|night]]: you’ll find the door.” And
 

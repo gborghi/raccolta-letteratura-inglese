@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 12 (part 2)"
+title: "The Professor — Chapter 12 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -14,6 +14,8 @@ tags:
 </nav>
 
 
+near her, she puts out her foot that it may touch mine; if I do not
+
 happen to observe the manoeuvre, and my boot comes in contact with her
 
 brodequin, she affects to fall into convulsions of suppressed laughter;
@@ -23,8 +25,6 @@ if I notice the snare and avoid it, she expresses her mortification in
 sullen muttering, where I hear myself abused in bad French, pronounced
 
 with an intolerable Low German accent.
-
-
 
 Not far from Mdlle. Koslow sits another young lady by name Adele
 
@@ -64,8 +64,6 @@ and perfidious smile. She was shunned by her fellow-pupils, for, bad as
 
 many of them were, few were as bad as she.
 
-
-
 Aurelia and Adele were in the first division of the second class; the
 
 second division was headed by a pensionnaire named Juanna Trista. This
@@ -95,8 +93,6 @@ had rather good, though large and marked features; her temperament was
 fibrous and bilious, her complexion pale and dark, hair and eyes black,
 
 form angular and rigid but proportionate, age fifteen.
-
-
 
 Juanna was not very thin, but she had a gaunt visage, and her “regard”
 
@@ -152,13 +148,9 @@ Isles, exulting in the thought that she should there have slaves, whom,
 
 as she said, she could kick and strike at will.
 
-
-
 These three pictures are from the life. I possess others, as marked and
 
 as little agreeable, but I will spare my reader the exhibition of them.
-
-
 
 Doubtless it will be thought that I ought now, by way of contrast, to
 
@@ -189,9 +181,3 @@ physical organization was defective; weak health stunted her growth and
 chilled her spirits, and then, destined as she was for the cloister,
 
 her whole [[Soul|soul]] was warped to a conventual bias, and in the tame, trained
-
-subjection of her manner, one read that she had already prepared herself
-
-for her future course of life, by giving up her independence of thought
-
-and action into the hands of some despotic confessor. She permitted

@@ -14,6 +14,38 @@ tags:
 </nav>
 
 
+‘Nay,’ said her cheerful sister, returning her embrace, ‘I can scarcely
+tell him that; we will leave my deserts to Alfred’s [[Imagination|imagination]].  It will
+be liberal enough, dear Marion; like your own.’
+
+With that, she resumed the work she had for a moment laid down, when her
+sister spoke so fervently: and with it the old [[Song|song]] the Doctor liked to
+hear.  And the Doctor, still reposing in his easy-chair, with his
+slippered feet stretched out before him on the rug, listened to the tune,
+and beat [[Time|time]] on his knee with Alfred’s letter, and looked at his two
+daughters, and thought that among the many trifles of the trifling world,
+these trifles were agreeable enough.
+
+[[Clemency Newcome]], in the meantime, having accomplished her mission and
+lingered in the room until she had made herself a party to the news,
+descended to the kitchen, where her coadjutor, Mr. Britain, was regaling
+after supper, surrounded by such a plentiful collection of bright
+pot-lids, [[Well|well]]-scoured saucepans, burnished dinner-covers, gleaming
+kettles, and other tokens of her industrious habits, arranged upon the
+walls and shelves, that he sat as in the centre of a hall of mirrors.
+The majority did not give forth very flattering portraits of him,
+certainly; nor were they by any means unanimous in their reflections; as
+some made him very long-faced, others very broad-faced, some tolerably
+[[Well|well]]-looking, others vastly ill-looking, according to their several
+manners of reflecting: which were as various, in respect of one fact, as
+those of so many kinds of men.  But they all agreed that in the midst of
+them sat, quite at his ease, an individual with a pipe in his mouth, and
+a jug of beer at his elbow, who nodded condescendingly to Clemency, when
+she stationed herself at the same table.
+
+‘[[Well]], Clemmy,’ said Britain, ‘how are you by this [[Time|time]], and what’s the
+news?’
+
 Clemency told him the news, which he received very graciously.  A
 gracious change had come over Benjamin from head to foot.  He was much
 broader, much redder, much more cheerful, and much jollier in all
@@ -105,54 +137,3 @@ anticipating it.
 ‘Do as you wold, you know, and cetrer, eh!’ observed Clemency, folding
 her arms comfortably in her delight at this avowal, and patting her
 elbows.  ‘Such a short cut, an’t it?’
-
-‘I’m not sure,’ said Mr. Britain, ‘that it’s what would be considered
-good [[philosophy]].  I’ve my doubts about that; but it wears [[Well|well]], and saves
-a quantity of snarling, which the genuine article don’t always.’
-
-‘See how you used to go on once, yourself, you know!’ said Clemency.
-
-‘Ah!’ said Mr. Britain.  ‘But the most extraordinary thing, Clemmy, is
-that I should live to be brought round, through you.  That’s the strange
-part of it.  Through you!  Why, I suppose you haven’t so much as half an
-idea in your head.’
-
-Clemency, without taking the least offence, shook it, and laughed and
-hugged herself, and said, ‘No, she didn’t suppose she had.’
-
-‘I’m pretty sure of it,’ said Mr. Britain.
-
-‘Oh!  I dare say you’re right,’ said Clemency.  ‘I don’t pretend to none.
-I don’t want any.’
-
-Benjamin took his pipe from his lips, and laughed till the [[Tears|tears]] ran down
-his face.  ‘What a natural you are, Clemmy!’ he said, shaking his head,
-with an infinite relish of the joke, and wiping his eyes.  Clemency,
-without the smallest inclination to dispute it, did the like, and laughed
-as heartily as he.
-
-‘I can’t help liking you,’ said Mr. Britain; ‘you’re a regular good
-creature in your way, so shake hands, Clem.  Whatever happens, I’ll
-always take notice of you, and be a friend to you.’
-
-‘Will you?’ returned Clemency.  ‘[[Well]]! that’s very good of you.’
-
-‘Yes, yes,’ said Mr. Britain, giving her his pipe to knock the ashes out
-of it; ‘I’ll stand by you.  Hark!  That’s a curious noise!’
-
-‘Noise!’ repeated Clemency.
-
-‘A footstep outside.  Somebody dropping from the wall, it sounded like,’
-said Britain.  ‘Are they all abed up-stairs?’
-
-‘Yes, all abed by this [[Time|time]],’ she replied.
-
-‘Didn’t you hear anything?’
-
-‘No.’
-
-They both listened, but heard nothing.
-
-‘I tell you what,’ said Benjamin, taking down a lantern.  ‘I’ll have a
-look round, before I go to bed myself, for satisfaction’s sake.  Undo the
-door while I light this, Clemmy.’

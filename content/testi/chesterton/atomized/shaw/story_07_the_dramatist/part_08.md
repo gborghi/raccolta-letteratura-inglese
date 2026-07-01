@@ -1,5 +1,5 @@
 ---
-title: "[[Shaw]] — THE DRAMATIST (part 8)"
+title: "Shaw — THE DRAMATIST (part 8)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/shaw-(chesterton)"
@@ -13,6 +13,61 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/shaw/story_07_the_dramatist/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/shaw/story_07_the_dramatist/part_09">part 09 ›</a></div>
 </nav>
 
+
+But whether the Shavian Caesar is a sound ideal or no,
+there can be little [[Doubt|doubt]] that he is a very fine reality.
+[[Shaw]] has done nothing greater as a piece of artistic creation.
+If the man is a little like a statue, it is a statue by a
+great sculptor; a statue of the best period.  If his nobility
+is a little negative in its character, it is the negative darkness
+of the great dome of [[Night|night]]; not as in some "new moralities"
+the mere mystery of the coal-hole. Indeed, this somewhat austere
+method of work is very suitable to [[Shaw]] when he is serious.
+There is nothing Gothic about his real genius; he could
+not build a mediaeval [[Cathedral|cathedral]] in which laughter and terror
+are twisted together in stone, molten by mystical passion.
+He can build, by way of amusement, a Chinese pagoda;
+but when he is in earnest, only a Roman temple.  He has
+a keen eye for [[Truth|truth]]; but he is one of those people who like,
+as the saying goes, to put down the [[Truth|truth]] in black and white.
+He is always girding and jeering at romantics and idealists
+because they will not put down the [[Truth|truth]] in black and white.
+But black and white are not the only two colours in the world.
+The modern man of science who writes down a fact in black
+and white is not more but less accurate than the mediaeval monk
+who wrote it down in gold and scarlet, sea-green and turquoise.
+Nevertheless, it is a good thing that the more austere
+method should exist separately, and that some men should be
+specially good at it.  Bernard [[Shaw]] is specially good at it;
+he is pre-eminently a black and white [[artist]].
+
+And as a study in black and white nothing could be better
+than this [[Sketch|sketch]] of [[Julius Caesar]].  He is not so much
+represented as "bestriding the earth like a Colossus"
+(which is indeed a rather comic attitude for a [[Hero|hero]] to stand in),
+but rather walking the earth with a sort of stern levity,
+lightly touching the planet and yet spurning it away like a stone.
+He walks like a winged man who has chosen to fold his wings.
+There is something creepy even about his kindness; it makes
+the men in front of him feel as if they were made of glass.
+The [[Nature|nature]] of the Caesarian [[Mercy|mercy]] is massively suggested.
+Caesar dislikes a massacre, not because it is a great sin,
+but because it is a small sin.  It is felt that he classes it with a
+flirtation or a fit of the sulks; a senseless temporary subjugation
+of man's permanent purpose by his passing and trivial feelings.
+He will plunge into slaughter for a great purpose,
+just as he plunges into the sea.  But to be stung into such
+action he deems as undignified as to be tipped off the pier.
+In a singularly fine passage [[Cleopatra]], having hired assassins
+to stab an enemy, appeals to her wrongs as justifying her [[Revenge|revenge]],
+and says, "If you can find one man in all Africa who says
+that I did wrong, I will be crucified by my own slaves."
+"If you can find one man in all the world," replies Caesar,
+"who can see that you did wrong, he will either conquer
+the world as I have done or be crucified by it."
+That is the high [[Water|water]] mark of this heathen sublimity;
+and we do not feel it inappropriate, or unlike [[Shaw]], when a few
+minutes afterwards the [[Hero|hero]] is saluted with a blaze of swords.
 
 As usually happens in the author's works, there is even more
 about [[Julius Caesar]] in the preface than there is in the play.
@@ -82,7 +137,7 @@ tradition he comes a terrible cropper, as in this case.
 Bernard [[Shaw]] (I strongly suspect) began to disbelieve in Santa Claus
 at a discreditably early age.  And by this [[Time|time]] Santa Claus has avenged
 himself by taking away the key of all the prehistoric scriptures; so that
-a noble and honourable [[Artist|artist]] flounders about like any German professor.
+a noble and honourable [[artist]] flounders about like any German professor.
 Here is a whole fairy literature which is almost exclusively devoted
 to the unexpected victory of the weak over the strong; and Bernard [[Shaw]]
 manages to make it mean the inevitable victory of the strong over
@@ -95,67 +150,3 @@ thing is best expressed by saying, "You must be born again."
 Secularly it is best expressed by saying, "You must keep your birthday."
 Even if you will not be born again, at least remind yourself occasionally
 that you were born once.
-
-Some of the incidental wit in the Caesarian drama is excellent
-although it is upon the whole less spontaneous and perfect
-than in the previous plays.  One of its jests may be mentioned
-in passing, not merely to draw attention to its failure
-(though [[Shaw]] is brilliant enough to afford many failures)
-but because it is the best opportunity for mentioning one of
-the writer's minor notions to which he obstinately adheres.
-He describes the Ancient Briton in Caesar's train as being
-exactly like a modern respectable Englishman.  As a joke for a
-Christmas pantomime this would be all very [[Well|well]]; but one expects
-the jokes of Bernard [[Shaw]] to have some intellectual root,
-however fantastic the flower.  And obviously all historic
-common sense is against the idea that that dim Druid people,
-whoever they were, who dwelt in our land before it was lit
-up by Rome or loaded with varied invasions, were a precise
-facsimile of the commercial society of Birmingham or Brighton.
-But it is a part of the Puritan in Bernard [[Shaw]], a part
-of the taut and high-strung quality of his mind, that he will
-never admit of any of his jokes that it was only a joke.
-When he has been most witty he will passionately deny his
-own wit; he will say something which Voltaire might envy
-and then declare that he has got it all out of a Blue book.
-And in connection with this eccentric type of [[Self|self]]-denial,
-we may notice this mere detail about the Ancient Briton.
-Someone faintly hinted that a blue Briton when first found
-by Caesar might not be quite like Mr. Broadbent; at the touch
-[[Shaw]] poured forth a torrent of theory, explaining that
-climate was the only thing that affected nationality;
-and that whatever races came into the English or Irish climate
-would become like the English or Irish.  Now the modern
-theory of race is certainly a piece of stupid materialism;
-it is an attempt to explain the things we are sure of,
-France, Scotland, Rome, Japan, by means of the things we are
-not sure of at all, prehistoric conjectures, Celts, Mongols,
-and Iberians.  Of course there is a reality in race;
-but there is no reality in the theories of race offered
-by some ethnological professors.  [[Blood]], perhaps, is thicker
-than [[Water|water]]; but brains are sometimes thicker than anything.
-But if there is one thing yet more thick and obscure and senseless
-than this theory of the omnipotence of race it is, I think,
-that to which [[Shaw]] has fled for refuge from it; this doctrine
-of the omnipotence of climate.  Climate again is something;
-but if climate were everything, Anglo-Indians would grow more
-and more to look like Hindoos, which is far from being the case.
-Something in the evil spirit of our [[Time|time]] forces people always
-to pretend to have found some material and mechanical explanation.
-Bernard [[Shaw]] has filled all his last days with affirmations
-about the divinity of the non-mechanical part of man,
-the sacred quality in creation and choice.  Yet it never
-seems to have occurred to him that the true key to national
-differentiations is the key of the will and not of the environment.
-It never crosses the modern mind to fancy that perhaps a people
-is chiefly influenced by how that people has chosen to behave.
-If I have to choose between race and weather I prefer race;
-I would rather be imprisoned and compelled by ancestors
-who were once alive than by mud and mists which never were.
-But I do not propose to be controlled by either; to me
-my national [[history]] is a chain of multitudinous choices.
-It is neither [[Blood|blood]] nor rain that has made England,
-but [[Hope|hope]], the thing that all those dead men have desired.
-France was not France because she was made to be by the skulls
-of the Celts or by the sun of Gaul.  France was France
-because she chose.

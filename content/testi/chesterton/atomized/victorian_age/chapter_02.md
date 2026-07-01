@@ -16,13 +16,7 @@ tags:
 
 CHAPTER II
 
-
-
 THE GREAT VICTORIAN NOVELISTS
-
-
-
-
 
 The Victorian [[Novel|novel]] was a thing entirely Victorian; quite unique and
 
@@ -166,8 +160,6 @@ collars and documents, cut across this purely female discovery and
 
 destroyed it.
 
-
-
 It may seem mere praise of the [[Novel|novel]] to say it is the art of sympathy
 
 and the study of human variations. But indeed, though this is a good
@@ -216,8 +208,6 @@ overpoweringly plain; whether they are expressed in the high caricatures
 
 of Dickens or the low lunacies of Zola.
 
-
-
 This can be seen in a sort of picture in the Prologue of the _Canterbury
 
 Tales_; which is already pregnant with the promise of the English [[Novel|novel]].
@@ -262,8 +252,6 @@ d'Ivry and Warrington and Captain Blackball and Lady Kew travel,
 
 laughing and telling tales together?
 
-
-
 The growth of the [[Novel|novel]], therefore, must not be too easily called an
 
 increase in the interest in humanity. It is an increase in the interest
@@ -289,8 +277,6 @@ unquestionable benefit than these: and in that development women played
 a peculiar part, English women especially, and Victorian women most of
 
 all.
-
-
 
 It is perhaps partly, though certainly not entirely, this influence of
 
@@ -390,8 +376,6 @@ the [[Road|road]] outside would have stamped with a word as vile and as vulgar a
 
 it deserved.
 
-
-
 This reticence, right or wrong, may have been connected with the
 
 participation of women with men in the matter of fiction. It is an
@@ -428,8 +412,6 @@ the attempt to locate it as an idea. But every one will understand me if
 
 I call it George Eliot.
 
-
-
 I begin with this great woman of letters for both the two reasons
 
 already mentioned. She represents the rationalism of the old Victorian
@@ -460,8 +442,6 @@ and subtlety of woman had certainly sunk deep into English letters when
 
 George Eliot began to write.
 
-
-
 Her originals and even her contemporaries had shown the feminine power
 
 in fiction as [[Well|well]] or better than she. Charlotte Brontë, understood
@@ -485,8 +465,6 @@ She knew what she knew, like a sound dogmatist: she did not know what
 she did not know--like a sound agnostic. But she belongs to a vanished
 
 world before the great progressive age of which I write.
-
-
 
 One of the characteristics of the central Victorian spirit was a
 
@@ -540,8 +518,6 @@ have a few more Marners than that rich maturity that gave us the
 
 analysed [[Dust|dust]]-heaps of _Daniel Deronda_.
 
-
-
 In her best novels there is real [[Humour|humour]], of a cool sparkling sort; there
 
 is a strong sense of substantial character that has not yet degenerated
@@ -569,8 +545,6 @@ of a cloudless day on the parade at Brighton. She sees people clearly,
 but not through an atmosphere. And she can conjure up storms in the
 
 conscious, but not in the subconscious mind.
-
-
 
 It is true (though the idea should not be exaggerated) that this
 
@@ -620,8 +594,6 @@ later rivals; but I have always believed in the victory of small
 
 nationalities.
 
-
-
 The Brontës suggest themselves here; because their superficial
 
 qualities, the qualities that can be seized upon in [[Satire|satire]], were in this
@@ -659,8 +631,6 @@ not quite free from this air of studying something alien. The reply may
 be made that the women in men's novels are equally fallacious. The reply
 
 is probably just.
-
-
 
 What the Brontës really brought into fiction was exactly what Carlyle
 
@@ -734,8 +704,6 @@ broadness of her religious views; but never, of course, so much as
 
 George Eliot.
 
-
-
 In any case, it is Charlotte Brontë who enters Victorian literature. The
 
 shortest way of stating her strong contribution is, I think, this: that
@@ -765,8 +733,6 @@ books (better even than _Villette_) because while it is a human document
 written in [[Blood|blood]], it is also one of the best [[Blood|blood]]-and-thunder [[Detective|detective]]
 
 stories in the world.
-
-
 
 But while Emily Brontë was as unsociable as a [[Storm|storm]] at midnight, and
 
@@ -811,8 +777,6 @@ Victorians. The woman felt obscurely that she was still running her
 mortal risk, while the man was not still running his. But I know nothing
 
 about it; nor does anybody else.
-
-
 
 In so short a book on so vast, complex and living a subject, it is
 
@@ -871,8 +835,6 @@ on. On a general review I do not think I have been wrong in taking the
 female novelists first. I think they gave its special shape, its
 
 temporary twist, to the Victorian [[Novel|novel]].
-
-
 
 Nevertheless it is a shock (I almost dare to call it a relief) to come
 
@@ -942,7 +904,7 @@ Pecksniff, or even of catching Mr. Mantalini collecting the washing, if
 
 one always lurked about on Monday mornings. This sentiment (the true
 
-[[Artist|artist]] will be relieved to hear) is entirely unmoral. Mrs. Wilfer
+[[artist]] will be relieved to hear) is entirely unmoral. Mrs. Wilfer
 
 deserved [[Death|death]] much more than Mr. Quilp, for she had succeeded in
 
@@ -961,8 +923,6 @@ creating people, both possible and impossible, who were simply precious
 and priceless people; and anything subtler added to that [[Truth|truth]] really
 
 only weakens it.
-
-
 
 The mention of Mrs. Wilfer (whom the heart is loth to leave) reminds one
 
@@ -1017,8 +977,6 @@ in sin as [[Well|well]] as in [[Aspiration|aspiration]]. And he was not only lar
 factions he satirised; he was larger than any of our great social
 
 schools that have gone forward since he died.
-
-
 
 The seemingly quaint custom of comparing Dickens and Thackeray existed
 
@@ -1108,8 +1066,6 @@ excitement about his characters; and no man on earth but he could have
 
 kept it up.
 
-
-
 It may be said, in approximate summary, that Thackeray is the novelist
 
 of [[Memory|memory]]--of our memories as [[Well|well]] as his own. Dickens seems to expect
@@ -1129,8 +1085,6 @@ in some trivial grimace: we smell the strong smell of social cliques
 now quite incongruous to us; and there stir in all the little rooms at
 
 once the hundred [[Ghosts|ghosts]] of oneself.
-
-
 
 For this purpose Thackeray was equipped with a singularly easy and
 
@@ -1161,8 +1115,6 @@ Fair_ and still more in _The Book of Snobs_, where he does make the
 masquerade. But he never quite did it in such a way as to turn the
 
 course of the Victorian Age.
-
-
 
 It may seem strange to say that Thackeray did not know enough of the
 
@@ -1227,8 +1179,6 @@ the progressive [[Road|road]] with more votes and more Free Trade, England must
 either sharply become very much more democratic or as rapidly become
 
 very much less so.
-
-
 
 There gathers round these two great novelists a considerable group of
 
@@ -1300,8 +1250,6 @@ Finally, _The Moonstone_ is probably the best [[Detective|detective]] tale in th
 
 world.
 
-
-
 Anthony Trollope, a clear and very capable realist, represents rather
 
 another side of the Victorian spirit of comfort; its leisureliness, its
@@ -1339,8 +1287,6 @@ notable in the Victorian spirit once more that though his clergymen are
 all of them real men and many of them good men, it never really occurs
 
 to us to think of them as the priests of a religion.
-
-
 
 Charles Reade may be said to go along with these; and Disraeli and even
 
@@ -1389,8 +1335,6 @@ Thackeray missed. Disraeli did do something towards revealing the
 dishonesty of our politics--even if he had done a good deal towards
 
 bringing it about.
-
-
 
 Between this group and the next there hovers a figure very hard to
 
@@ -1450,8 +1394,6 @@ the hesitating Crimean Parliament: "Destroy your [[government|Government]] and s
 
 your army."
 
-
-
 With the next phase of Victorian fiction we enter a new world; the
 
 later, more revolutionary, more continental, freer but in some ways
@@ -1482,8 +1424,6 @@ collided in a sceptical age, which is like colliding in a [[London]] fog.
 
 There can never be any clear controversy in a sceptical age.
 
-
-
 Nevertheless both Hardy and Meredith did mean something; and they did
 
 mean diametrically opposite things. Meredith was perhaps the only man
@@ -1509,8 +1449,6 @@ This division between the two points of view is vital; because the turn
 of the nineteenth century was a very sharp one; by it we have reached
 
 the rapids in which we find ourselves to-day.
-
-
 
 Meredith really is a Pantheist. You can express it by saying that God is
 
@@ -1541,8 +1479,6 @@ those who can see Dickens' mind in [[Little Nell]]. Both were chivalrous
 pronouncements on behalf of oppressed females: neither has any earthly
 
 meaning as ideas.
-
-
 
 But what Meredith did do for women was not to emancipate them (which
 
@@ -1596,8 +1532,6 @@ man--or by anything else. When we have got that, we have got the real
 
 Pagan--the man that does believe in Pan.
 
-
-
 It is proper to put this philosophic matter first, before the æsthetic
 
 appreciation of Meredith, because with Meredith a sort of passing bell
@@ -1633,8 +1567,6 @@ free-thinkers, as a school, have hardly made up their minds whether they
 want to be more optimist or more pessimist than [[Christianity]] that their
 
 small but sincere movement has failed.
-
-
 
 For the duel is deadly; and any agnostic who wishes to be anything more
 
@@ -1686,8 +1618,6 @@ it is a cruel practical joke. But it is a practical joke at which even
 
 its author cannot brighten up enough to laugh.
 
-
-
 But it is when we consider the great artistic power of these two
 
 writers, with all their eccentricities, that we see even more clearly
@@ -1720,13 +1650,9 @@ he actually says of those who live nearest to that [[Nature]] he was always
 
 praising--
 
-
-
     "Have they but held her laws and [[Nature|nature]] dear,
 
     They mouth no sentence of inverted wit";
-
-
 
 which certainly was what Meredith himself was doing most of the [[Time|time]].
 
@@ -1743,8 +1669,6 @@ entangled in its own branches; or it may be that the cheerful mind cares
 less whether it is understood or not; as a man is less articulate when
 
 he is humming than when he is calling for help.
-
-
 
 Certainly Meredith suffers from applying a complex method to men and
 
@@ -1808,8 +1732,6 @@ chief feeling among those that enjoy him is a mere wish that more people
 
 could enjoy him too.
 
-
-
 I end here upon Hardy and Meredith; because this parting of the ways to
 
 open optimism and open pessimism really was the end of the Victorian
@@ -1834,8 +1756,6 @@ the same sort of way in which Francis Thompson is outside it in poetry.
 
 He did not accept the Victorian basis. He knew too much.
 
-
-
 There is one more matter that may best be considered here, though
 
 briefly: it illustrates the extreme difficulty of dealing with the
@@ -1850,7 +1770,7 @@ employ; because they will not fit into anything, hardly into the world
 
 itself. Where [[Germany]] or [[Italy]] would relieve the monotony of mankind by
 
-paying serious respect to an [[Artist|artist]], or a scholar, or a patriotic
+paying serious respect to an [[artist]], or a scholar, or a patriotic
 
 warrior, or a priest--it was always the instinct of the English to do it
 
@@ -1881,8 +1801,6 @@ Borrow ought to go into the section devoted to philosophers, or the
 section devoted to novelists, or the section devoted to liars, nobody
 
 else has ever known, even if he did.
-
-
 
 But the strongest case of this Victorian power of being abruptly
 
@@ -1930,8 +1848,6 @@ the Victorians than even their just and exquisite appreciation of
 
 children. It came from the deep Victorian sense of [[Humour|humour]].
 
-
-
 It may appear, because I have used from [[Time|time]] to [[Time|time]] the only possible
 
 phrases for the case, that I mean the Victorian Englishman to appear as
@@ -1954,8 +1870,6 @@ had largely forgotten both art and arms: but the gods had left them
 
 laughter.
 
-
-
 But the final proof that the Victorians were alive by this laughter, can
 
 be found in the fact they could manage and master for a moment even the
@@ -1967,8 +1881,6 @@ Ballads" on the stage. To turn a private name into a public epithet is a
 thing given to few: but the word "Gilbertian" will probably last longer
 
 than the name Gilbert.
-
-
 
 It meant a real Victorian talent; that of exploding unexpectedly and
 

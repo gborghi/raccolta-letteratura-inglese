@@ -1,5 +1,5 @@
 ---
-title: "Antony and [[Cleopatra]] — Act III, Scene 13 — exchange ([[Cleopatra|CLEOPATRA]]) [4]"
+title: "Antony and Cleopatra — Act III, Scene 13 — exchange (CLEOPATRA) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/antony-and-cleopatra-(shakespeare)"

@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]] — Slum Novelists and the Slums"
+title: "heret12 — Slum Novelists and the Slums"
 author: "Chesterton"
 unitType: story
 parentWork: "works/heret12-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 XIX.  Slum Novelists and the Slums
-
 
 Odd ideas are entertained in our [[Time|time]] about the real [[Nature|nature]] of the doctrine
 of human fraternity.  The real doctrine is something which we do not,

@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 61 (part 1)"
+title: "Barnaby Rudge — Chapter 61 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -113,12 +113,3 @@ fortune with the coaches, told Mr Haredale that he feared he might not
 find a magistrate who would have the hardihood to commit a prisoner to
 jail, on his complaint. But notwithstanding these discouraging accounts
 they went on, and reached the Mansion [[house|House]] soon after sunrise.
-
-Mr Haredale threw himself from his [[Horse|horse]], but he had no need to knock
-at the door, for it was already open, and there stood upon the step
-a portly old man, with a very red, or rather purple face, who with an
-anxious expression of countenance, was remonstrating with some unseen
-personage upstairs, while the porter essayed to close the door by
-degrees and get rid of him. With the intense impatience and excitement
-natural to one in his condition, Mr Haredale thrust himself forward and
-was about to speak, when the fat old gentleman interposed:

@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 34 (part 6)"
+title: "Jane Eyre — Chapter 34 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_34/part_05">‹ part 05</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_34/part_07">part 07 ›</a></div>
 </nav>
 
+
+“If they are really qualified for the task, will not their own hearts
+be the first to inform them of it?”
+
+I felt as if an awful charm was framing round and gathering over me: I
+trembled to hear some fatal word spoken which would at once declare and
+rivet the spell.
+
+“And what does _your_ heart say?” demanded St. John.
+
+“My heart is mute,—my heart is mute,” I answered, struck and thrilled.
 
 “Then I must speak for it,” continued the deep, relentless voice.
 “Jane, come with me to India: come as my helpmeet and fellow-labourer.”

@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 47 (part 5)"
+title: "The Tenant of Wildfell Hall — Chapter 47 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -10,9 +10,39 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/works/the-tenant-of-wildfell-hall-(bronte)">The Tenant of Wildfell Hall</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_47/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_49/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_47/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_48/part_01">part 01 ›</a></div>
 </nav>
 
+
+“But it must come some [[Time|time]],” interrupted I, “and if it be years hence,
+
+it will as certainly overtake you as if it came to-day,—and no [[Doubt|doubt]] be
+
+as unwelcome then as now, unless you—”
+
+
+
+“Oh, hang it! don’t torment me with your preachments now, unless you
+
+want to kill me outright. I can’t stand it, I tell you. I’ve sufferings
+
+enough without that. If you think there’s danger, save me from it; and
+
+then, in gratitude, I’ll hear whatever you like to say.”
+
+
+
+I accordingly dropped the unwelcome topic. And now, Frederick, I think
+
+I may bring my letter to a close. From these details you may form your
+
+own judgment of the state of my patient, and of my own position and
+
+future prospects. Let me hear from you soon, and I will write again to
+
+tell you how we get on; but now that my presence is tolerated, and even
+
+required, in the sick-room, I shall have but little [[Time|time]] to spare
 
 between my husband and my son,—for I must not entirely neglect the
 

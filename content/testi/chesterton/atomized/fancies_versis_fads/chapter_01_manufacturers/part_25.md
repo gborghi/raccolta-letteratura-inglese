@@ -14,6 +14,29 @@ tags:
 </nav>
 
 
+--
+
+THE TERROR OF A TOY
+
+IT would be too high and hopeful a compliment to say that the world
+is becoming absolutely babyish.  For its chief weak-mindedness
+is an inability to appreciate the intelligence of babies.
+On every side we hear whispers and warnings that would have appeared
+half-witted to the Wise Men of Gotham.  Only this Christmas I
+was told in a toy-shop that not so many bows and arrows were being
+made for little boys; because they were considered dangerous.
+It might in some circumstances be dangerous to have a little bow.
+It is always dangerous to have a little boy.  But no other society,
+claiming to be sane, would have dreamed of supposing that you
+could abolish all bows unless you could abolish all boys.
+With the merits of the latter [[Reform|reform]] I will not deal here.
+There is a great deal to be said for such a course; and perhaps we
+shall soon have an opportunity of considering it.  For the modern mind
+seems quite incapable of distinguishing between the means and the end,
+between the organ and the disease, between the use and the abuse;
+and would doubtless break the boy along with the bow, as it empties
+out the baby with the bath.
+
 But let us, by way of a little study in this mournful state of things,
 consider this case of the dangerous toy.  Now the first and most
 [[Self|self]]-evident [[Truth|truth]] is that, of all the things a [[Child|child]] sees and touches,
@@ -88,36 +111,3 @@ or abolish trees.  Perhaps it will have a try at that before long.
 Thus we have all heard of savages who try a tomahawk for murder,
 or burn a wooden club for the damage it has done to society.
 To such intellectual levels may the world return.
-
-There are indeed yet lower levels.  There is a story from [[america|America]]
-about a little boy who gave up his toy cannon to assist the disarmament
-of the world.  I do not know if it is true, but on the whole I
-prefer to think so; for it is perhaps more tolerable to imagine
-one small [[Monster|monster]] who could do such a thing than many more mature
-monsters who could invent or admire it.  There were some doubtless
-who neither invented nor admired.  It is one of the peculiarities
-of the Americans that they combine a power of producing what they
-satirize as "sob-stuff" with a parallel power of satirizing it.
-And of the two American tall stories, it is sometimes hard to say
-which is the story and which the [[Satire|satire]].  But it seems clear that
-some people did really repeat this story in a reverential spirit.
-And it marks, as I have said, another stage of cerebral [[Decay|decay]].
-You can (with luck) break a [[Window|window]] with a toy arrow; but you can hardly
-bombard a town with a toy gun.  If people object to the mere model
-of a cannon, they must equally object to the picture of a cannon,
-and so to every picture in the world that depicts a [[Sword|sword]] or a spear.
-There would be a splendid clearance of all the great art-galleries
-of the world.  But it would be nothing to the destruction of all
-the great libraries of the world, if we logically extended the principle
-to all the literary masterpieces that admit the glory of arms.
-When this progress had gone on for a century or two, it might begin to
-[[Dawn|dawn]] on people that there was something wrong with their moral principle.
-What is wrong with their moral principle is that it is immoral.
-Arms, like every other adventure or art of man, have two sides according
-as they are invoked for the infliction or the defiance of wrong.
-They have also an element of real poetry and an element of realistic
-and therefore repulsive prose.  The [[Child|child]]'s symbolic [[Sword|sword]] and bow
-are simply the poetry without the prose; the good without the evil.
-The toy [[Sword|sword]] is the abstraction and emanation of the heroic,
-apart from all its horrible accidents.  It is the [[Soul|soul]] of the [[Sword|sword]],
-that will never be stained with [[Blood|blood]].

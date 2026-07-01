@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 44 (part 5)"
+title: "Nicholas Nickleby — Chapter 44 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_44/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_44/part_06">part 06 ›</a></div>
 </nav>
 
+
+‘What is the matter here?’ said Ralph, pressing forward.
+
+At this inquiry, the clamour was increased twenty-fold, and an
+astounding string of such shrill contradictions as ‘He’s poisoned
+himself’--‘He hasn’t’--‘Send for a doctor’--‘Don’t’--‘He’s dying’--‘He
+isn’t, he’s only pretending’--with various other cries, poured forth
+with bewildering volubility, until Madame Mantalini was seen to address
+herself to Ralph, when female curiosity to know what she would say,
+prevailed, and, as if by general consent, a dead [[Silence|silence]], unbroken by a
+single whisper, instantaneously succeeded.
 
 ‘Mr. Nickleby,’ said Madame Mantalini; ‘by what chance you came here, I
 don’t know.’
@@ -121,12 +132,3 @@ blessing. She did not know it. He was too weak; he was too good; he was
 a dem’d fine fellow, but he loved too strong; he could not bear her to
 be [[Cross|cross]], and call him wicked names. It was a dem’d case, there never
 was a demder.” But I forgive her.’
-
-With this affecting speech Mr. Mantalini fell down again very flat, and
-lay to all appearance without sense or motion, until all the females
-had left the room, when he came cautiously into a sitting posture, and
-confronted Ralph with a very blank face, and the little bottle still in
-one hand and the tea-spoon in the other.
-
-‘You may put away those fooleries now, and live by your wits again,’
-said Ralph, coolly putting on his hat.

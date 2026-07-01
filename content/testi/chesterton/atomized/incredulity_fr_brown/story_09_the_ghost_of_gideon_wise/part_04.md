@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The [[Ghost]] of Gideon Wise (part 4)"
+title: "incredulity Fr Brown — The Ghost of Gideon Wise (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity_fr_brown/story_09_the_ghost_of_gideon_wise/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity_fr_brown/story_09_the_ghost_of_gideon_wise/part_05">part 05 ›</a></div>
 </nav>
 
+
+Nares was silent; and nobody spoke until Elias interposed with his clear
+though faintly lisping drawl.
+
+'This appears to me to be a highly unprofitable discussion on both
+sides,' he said. 'You have summoned us here either to ask us for
+information or to subject us to [[Cross|cross]] - examination. If you trust us, we
+tell you we have no information. If you distrust us, you must tell us of
+what we are accused, or have the politeness to keep the fact to
+yourselves. Nobody has been able to suggest the faintest trace of
+evidence connecting any one of us with these tragedies any more than
+with the murder of [[Julius Caesar]]. You dare not arrest us, and you will
+not believe us. What is the good of our remaining here?'
 
 And he [[Rose|rose]], calmly buttoning his coat, his friends following his
 example. As they went towards the door, young [[Home]] turned back and faced
@@ -60,7 +73,7 @@ mildly. 'He curses priests for failing (in his opinion) to defy the
 whole world for justice. Why should he expect them to defy the whole
 world for justice, unless he had already begun to assume they were -
 what they are? But we haven't met here to discuss the psychology of
-[[Conversion|conversion]]. I only mention this because it may simplify your task -
+[[conversion]]. I only mention this because it may simplify your task -
 perhaps narrow your search.'
 
 'If it is true, it would jolly [[Well|well]] narrow it to that narrow - faced
@@ -130,21 +143,3 @@ arrested or prolonged. Then I drew nearer, and then I think I screamed
 aloud. For that suspended spray, like unfallen snowflakes, had fitted
 together into a face and a figure, white as the shining leper in a
 legend, and terrible as the fixed [[Lightning|lightning]].'
-
-'And it was Gideon Wise, you say?'
-
-[[Home]] nodded without speech. There was a [[Silence|silence]] broken abruptly by Nares
-rising to his feet; so abruptly indeed that he knocked a chair over.
-
-'Oh, this is all nonsense,' he said, 'but we'd better go out and see.'
-
-'I won't go,' said [[Home]] with sudden violence. 'I'll never walk by that
-path again.'
-
-'I think we must all walk by that path tonight,' said the priest
-gravely; 'though I will never deny it has been a perilous path ... to
-more people than one.'
-
-'I will not... God, how you all goad me,' cried [[Home]], and his eyes began
-to roll in a strange fashion. He had risen with the rest, hut he made no
-motion towards the door.

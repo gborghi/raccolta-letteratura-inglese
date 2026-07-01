@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 19: NINETEEN (part 5)"
+title: "Martin Chuzzlewit — Chapter 19: NINETEEN (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -133,7 +133,3 @@ Pecksniff, I beg your pardon, but I think we have unintentionally made
 an exchange. Thank you. [[Well]], sir, I was going to tell you--’
 
 ‘We are quite ready,’ interrupted Mould in a low voice.
-
-‘Ready, eh?’ said the doctor. ‘Very good, Mr Pecksniff, I’ll take an
-opportunity of relating the rest in the coach. It’s rather curious.
-Ready, eh? No rain, I [[Hope|hope]]?’

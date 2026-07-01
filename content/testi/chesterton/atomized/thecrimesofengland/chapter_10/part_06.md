@@ -1,5 +1,5 @@
 ---
-title: "[[TheCrimesOfEngland]] — Chapter 10 (part 6)"
+title: "TheCrimesOfEngland — Chapter 10 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thecrimesofengland-(chesterton)"
@@ -14,6 +14,36 @@ tags:
 </nav>
 
 
+and thence again to the angry exit of [[Henry VIII]]. from the mediaeval
+
+council of Europe. It is easy to exaggerate the part played in the
+
+matter by that great and human, though very pagan person, Martin Luther.
+
+[[Henry VIII]]. was sincere in his hatred for the heresies of the German
+
+monk, for in speculative opinions Henry was wholly Catholic; and the two
+
+wrote against each other innumerable pages, largely consisting of terms
+
+of abuse, which were pretty [[Well|well]] deserved on both sides. But Luther was
+
+not a Lutheran. He was a sign of the break-up of Catholicism; but he was
+
+not a builder of Protestantism. The countries which became corporately
+
+and democratically Protestant, Scotland, for instance, and Holland,
+
+followed Calvin and not Luther. And Calvin was a Frenchman; an
+
+unpleasant Frenchman, it is true, but one full of that French capacity
+
+for creating official entities which can really act, and have a kind of
+
+impersonal personality, such as the French Monarchy or the Terror.
+
+Luther was an anarchist, and therefore a dreamer. He made that which is,
+
 perhaps, in the long run, the fullest and most shining manifestation of
 
 failure; he made a name. Calvin made an active, governing, persecuting
@@ -21,8 +51,6 @@ failure; he made a name. Calvin made an active, governing, persecuting
 thing, called the Kirk. There is something expressive of him in the fact
 
 that he called even his work of abstract theology "The Institutes."
-
-
 
 In England, however, there were elements of chaos more akin to Luther
 
@@ -58,8 +86,6 @@ Latin, and, strange as it may sound, is in nothing so French as in its
 
 Presbyterianism.
 
-
-
 In this loose and negative sense only it may be said that the great
 
 modern mistakes of England can be traced to Luther. It is true only in
@@ -83,8 +109,6 @@ weakness, reached, as it were, symbolic culmination when the mediæval
 monarchy was extinguished, and the English squires gave to what was
 
 little more than a German squire the damaged and diminished [[Crown|crown]].
-
-
 
 It must be remembered that the Germanics were at that [[Time|time]] used as a
 
@@ -126,8 +150,6 @@ utterly reversed, and we find ourselves at war with a [[Germany]] whose
 
 powers are the widest and whose outlook is the narrowest in the world.
 
-
-
 It is true, of course, that the English squires put themselves over the
 
 new German prince rather than under him. They put the [[Crown|crown]] on him as an
@@ -156,42 +178,6 @@ crisis and a decision when the voice of Pitt called us, like a trumpet,
 
 to the rescue of the Protestant [[Hero]].
 
-
-
 Among all the monarchs of that faithless age, the nearest to a man was a
 
 woman. [[Maria]] Theresa of Austria was a German of the more generous sort,
-
-limited in a domestic rather than a national sense, firm in the ancient
-
-[[Faith|faith]] at which all her own courtiers were sneering, and as brave as a
-
-young lioness. Frederick hated her as he hated everything German and
-
-everything good. He sets forth in his own memoirs, with that clearness
-
-which adds something almost superhuman to the mysterious vileness of his
-
-character, how he calculated on her youth, her inexperience and her lack
-
-of friends as proof that she could be despoiled with safety. He invaded
-
-Silesia in advance of his own declaration of war (as if he had run on
-
-ahead to say it was coming) and this new anarchic trick, combined with
-
-the corruptibility of nearly all the other courts, left him after the
-
-two Silesian wars in possession of the stolen goods. But [[Maria]] Theresa
-
-had refused to submit to the immorality of nine points of the law. By
-
-appeals and concessions to France, [[Russia]], and other powers, she
-
-contrived to create something which, against the atheist innovator even
-
-in that atheist age, stood up for an instant like a spectre of the
-
-[[Crusades]]. Had that Crusade been universal and whole-hearted, the great
-
-new precedent of mere force and fraud would have been broken; and the

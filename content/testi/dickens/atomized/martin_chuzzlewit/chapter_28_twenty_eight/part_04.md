@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 28: TWENTY EIGHT (part 4)"
+title: "Martin Chuzzlewit — Chapter 28: TWENTY EIGHT (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_28_twenty_eight/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_29_twenty_nine/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘No,’ she said, faintly.
+
+‘Oh yes! We’re heavy swells too, and so I tell you. Don’t you come out,
+a-catching cold in your head. I’ll wake him!’ Mr Bailey expressing in
+his demeanour a perfect confidence that he could carry him in with ease,
+if necessary, opened the coach door, let down the steps, and giving
+Jonas a shake, cried ‘We’ve got [[Home|home]], my flower! Tumble up, then!’
+
+He was so far recovered as to be able to respond to this appeal, and
+to come stumbling out of the coach in a heap, to the great hazard of Mr
+Bailey’s person. When he got upon the pavement, Mr Bailey first butted
+at him in front, and then dexterously propped him up behind; and having
+steadied him by these means, he assisted him into the [[house]].
 
 ‘You go up first with the light,’ said Bailey to Mr Jonas, ‘and we’ll
 foller. Don’t tremble so. He won’t hurt you. When I’ve had a drop too

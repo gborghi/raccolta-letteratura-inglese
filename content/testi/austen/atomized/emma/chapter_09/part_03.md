@@ -1,5 +1,5 @@
 ---
-title: "[[Emma]] — Chapter 9 (part 3)"
+title: "Emma — Chapter 9 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/emma-(austen)"
@@ -146,6 +146,3 @@ Though of his near approach afraid,
 
 And that is all that I can recollect of it—but it is very clever all
 the way through. But I think, my dear, you said you had got it.”
-
-“Yes, papa, it is written out in our second page. We copied it from the
-Elegant Extracts. It was Garrick’s, you know.”

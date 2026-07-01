@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 18 (part 1)"
+title: "Dombey and Son — Chapter 46 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -10,132 +10,122 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/dombey-and-son-(dickens)">Dombey and Son</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_73/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_74/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_73/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_74/part_02">part 02 ›</a></div>
 </nav>
 
 
-CHAPTER XVIII.
-Father and Daughter
+CHAPTER XLVI.
+Recognizant and Reflective
 
 
-There is a hush through Mr Dombey’s [[house]]. Servants gliding up and down
-stairs rustle, but make no sound of footsteps. They talk together
-constantly, and sit long at meals, making much of their meat and drink,
-and enjoying themselves after a grim unholy fashion. Mrs Wickam, with
-her eyes suffused with [[Tears|tears]], relates [[Melancholy|melancholy]] anecdotes; and tells
-them how she always said at Mrs Pipchin’s that it would be so, and
-takes more table-ale than usual, and is very sorry but sociable. Cook’s
-state of mind is similar. She promises a little fry for supper, and
-struggles about equally against her feelings and the onions. Towlinson
-begins to think there’s a fate in it, and wants to know if anybody can
-tell him of any good that ever came of living in a corner [[house]]. It
-seems to all of them as having happened a long [[Time|time]] ago; though yet the
-[[Child|child]] lies, calm and beautiful, upon his little bed.
+Among sundry minor alterations in Mr Carker’s life and habits that
+began to take place at this [[Time|time]], none was more remarkable than the
+extraordinary diligence with which he applied himself to business, and
+the closeness with which he investigated every detail that the affairs
+of the [[house|House]] laid open to him. Always active and penetrating in such
+matters, his lynx-eyed vigilance now increased twenty-fold. Not only
+did his weary watch keep pace with every present point that every day
+presented to him in some new form, but in the midst of these engrossing
+occupations he found leisure—that is, he made it—to review the past
+transactions of the Firm, and his share in them, during a long series
+of years. Frequently when the clerks were all gone, the offices dark
+and empty, and all similar places of business shut up, Mr Carker, with
+the whole anatomy of the iron room laid bare before him, would explore
+the mysteries of books and papers, with the patient progress of a man
+who was dissecting the minutest nerves and fibres of his subject.
+Perch, the messenger, who usually remained on these occasions, to
+entertain himself with the perusal of the Price Current by the light of
+one candle, or to doze over the [[Fire|fire]] in the outer office, at the
+imminent risk every moment of diving head foremost into the coal-box,
+could not withhold the tribute of his admiration from this zealous
+conduct, although it much contracted his domestic enjoyments; and
+again, and again, expatiated to Mrs Perch (now nursing twins) on the
+industry and acuteness of their managing gentleman in the [[City]].
 
-After dark there come some visitors—noiseless visitors, with shoes of
-felt—who have been there before; and with them comes that bed of rest
-which is so strange a one for infant sleepers. All this [[Time|time]], the
-bereaved father has not been seen even by his attendant; for he sits in
-an inner corner of his own dark room when anyone is there, and never
-seems to move at other times, except to pace it to and fro. But in the
-morning it is whispered among the household that he was heard to go
-upstairs in the dead [[Night|night]], and that he stayed there—in the room—until
-the sun was shining.
+The same increased and sharp attention that Mr Carker bestowed on the
+business of the [[house|House]], he applied to his own personal affairs. Though
+not a partner in the concern—a distinction hitherto reserved solely to
+inheritors of the great name of Dombey—he was in the receipt of some
+percentage on its dealings; and, participating in all its facilities
+for the employment of money to advantage, was considered, by the
+minnows among the tritons of the East, a rich man. It began to be said,
+among these shrewd observers, that Jem Carker, of Dombey’s, was looking
+about him to see what he was worth; and that he was calling in his
+money at a good [[Time|time]], like the long-headed fellow he was; and bets were
+even offered on the Stock Exchange that Jem was going to marry a rich
+widow.
 
-At the offices in the [[City]], the ground-glass windows are made more dim
-by shutters; and while the lighted lamps upon the desks are half
-extinguished by the day that wanders in, the day is half extinguished
-by the lamps, and an unusual gloom prevails. There is not much business
-done. The clerks are indisposed to work; and they make assignations to
-eat chops in the afternoon, and go up the [[River|river]]. Perch, the messenger,
-stays long upon his errands; and finds himself in bars of
-public-houses, invited thither by friends, and holding forth on the
-uncertainty of human affairs. He goes [[Home|home]] to Ball’s Pond earlier in
-the evening than usual, and treats Mrs Perch to a veal cutlet and
-Scotch ale. Mr Carker the Manager treats no one; neither is he treated;
-but [[Alone|alone]] in his own room he shows his teeth all day; and it would seem
-that there is something gone from Mr Carker’s path—some obstacle
-removed—which clears his way before him.
+Yet these cares did not in the least interfere with Mr Carker’s
+watching of his chief, or with his cleanness, neatness, sleekness, or
+any cat-like quality he possessed. It was not so much that there was a
+change in him, in reference to any of his habits, as that the whole man
+was intensified. Everything that had been observable in him before, was
+observable now, but with a greater amount of concentration. He did each
+single thing, as if he did nothing else—a pretty certain indication in
+a man of that range of ability and purpose, that he is doing something
+which sharpens and keeps alive his keenest powers.
 
-Now the rosy children living opposite to Mr Dombey’s [[house]], peep from
-their nursery windows down into the street; for there are four black
-horses at his door, with feathers on their heads; and feathers tremble
-on the carriage that they draw; and these, and an array of men with
-scarves and staves, attract a crowd. The juggler who was going to twirl
-the basin, puts his loose coat on again over his fine dress; and his
-trudging wife, one-sided with her heavy baby in her arms, loiters to
-see the company come out. But closer to her dingy breast she presses
-her baby, when the burden that is so easily carried is borne forth; and
-the youngest of the rosy children at the high [[Window|window]] opposite, needs no
-restraining hand to check her in her glee, when, pointing with her
-dimpled finger, she looks into her [[Nurse|nurse]]’s face, and asks “What’s
-that?”
+The only decided alteration in him was, that as he rode to and fro
+along the streets, he would fall into deep fits of musing, like that in
+which he had come away from Mr Dombey’s [[house]], on the morning of that
+gentleman’s disaster. At such times, he would keep clear of the
+obstacles in his way, mechanically; and would appear to see and hear
+nothing until arrival at his destination, or some sudden chance or
+effort roused him.
 
-And now, among the knot of servants dressed in mourning, and the
-weeping women, Mr Dombey passes through the hall to the other carriage
-that is waiting to receive him. He is not “brought down,” these
-observers think, by sorrow and distress of mind. His walk is as erect,
-his bearing is as stiff as ever it has been. He hides his face behind
-no handkerchief, and looks before him. But that his face is something
-sunk and rigid, and is pale, it bears the same expression as of old. He
-takes his place within the carriage, and three other gentlemen follow.
-Then the grand funeral moves slowly down the street. The feathers are
-yet nodding in the distance, when the juggler has the basin spinning on
-a cane, and has the same crowd to admire it. But the juggler’s wife is
-less alert than usual with the money-box, for a [[Child|child]]’s burial has set
-her thinking that perhaps the baby underneath her shabby shawl may not
-grow up to be a man, and wear a sky-blue fillet round his head, and
-salmon-coloured worsted drawers, and tumble in the mud.
+Walking his white-legged [[Horse|horse]] thus, to the counting-[[house]] of Dombey
+and Son one day, he was as unconscious of the observation of two pairs
+of women’s eyes, as of the fascinated orbs of Rob the Grinder, who, in
+waiting a street’s length from the appointed place, as a demonstration
+of punctuality, vainly touched and retouched his hat to attract
+attention, and trotted along on foot, by his master’s side, prepared to
+hold his stirrup when he should alight.
 
-The feathers [[Wind|wind]] their gloomy way along the streets, and come within
-the sound of a church bell. In this same church, the pretty boy
-received all that will soon be left of him on earth—a name. All of him
-that is dead, they lay there, near the perishable substance of his
-mother. It is [[Well|well]]. Their ashes lie where Florence in her walks—oh
-lonely, lonely walks!—may pass them any day.
+“See where he goes!” cried one of these two women, an old creature, who
+stretched out her shrivelled arm to point him out to her companion, a
+young woman, who stood close beside her, withdrawn like herself into a
+gateway.
 
-The service over, and the clergyman withdrawn, Mr Dombey looks round,
-demanding in a low voice, whether the person who has been requested to
-attend to receive instructions for the tablet, is there?
+Mrs Brown’s daughter looked out, at this bidding on the part of Mrs
+Brown; and there were wrath and vengeance in her face.
 
-Someone comes forward, and says “Yes.”
+“I never thought to look at him again,” she said, in a low voice; “but
+it’s [[Well|well]] I should, perhaps. I see. I see!”
 
-Mr Dombey intimates where he would have it placed; and shows him, with
-his hand upon the wall, the shape and size; and how it is to follow the
-memorial to the mother. Then, with his pencil, he writes out the
-[[Inscription|inscription]], and gives it to him: adding, “I wish to have it done at
-once.
+“Not changed!” said the old woman, with a look of eager malice.
 
-“It shall be done immediately, Sir.”
+“He changed!” returned the other. “What for? What has he suffered?
+There is change enough for twenty in me. Isn’t that enough?”
 
-“There is really nothing to inscribe but name and age, you see.”
+“See where he goes!” muttered the old woman, watching her daughter with
+her red eyes; “so easy and so trim a-horseback, while we are in the
+mud.”
 
-The man bows, glancing at the paper, but appears to hesitate. Mr Dombey
-not observing his hesitation, turns away, and leads towards the porch.
+“And of it,” said her daughter impatiently. “We are mud, underneath his
+[[Horse|horse]]’s feet. What should we be?”
 
-“I beg your pardon, Sir;” a touch falls gently on his mourning cloak;
-“but as you wish it done immediately, and it may be put in hand when I
-get back—”
+[Illustration]
 
-“[[Well]]?”
+In the intentness with which she looked after him again, she made a
+hasty gesture with her hand when the old woman began to reply, as if
+her view could be obstructed by mere sound. Her mother watching her,
+and not him, remained silent; until her kindling glance subsided, and
+she drew a long breath, as if in the relief of his being gone.
 
-“Will you be so good as read it over again? I think there’s a mistake.”
+“Deary!” said the old woman then. “Alice! Handsome gall Ally!” She
+gently shook her sleeve to arouse her attention. “Will you let him go
+like that, when you can wring money from him? Why, it’s a wickedness,
+my daughter.”
 
-“Where?”
+“Haven’t I told you, that I will not have money from him?” she
+returned. “And don’t you yet believe me? Did I take his sister’s money?
+Would I touch a penny, if I knew it, that had gone through his white
+hands—unless it was, indeed, that I could [[Poison|poison]] it, and send it back
+to him? Peace, mother, and come away.”
 
-The statuary gives him back the paper, and points out, with his pocket
-rule, the words, “beloved and only [[Child|child]].”
+“And him so rich?” murmured the old woman. “And us so poor!”
 
-“It should be, ‘son,’ I think, Sir?”
-
-“You are right. Of course. Make the correction.”
-
-The father, with a hastier step, pursues his way to the coach. When the
-other three, who follow closely, take their seats, his face is hidden
-for the first [[Time|time]]—shaded by his cloak. Nor do they see it any more
-that day. He alights first, and passes immediately into his own room.
-The other mourners (who are only Mr Chick, and two of the medical
-attendants) proceed upstairs to the drawing-room, to be received by Mrs
-Chick and Miss Tox. And what the face is, in the shut-up chamber
-underneath: or what the thoughts are: what the heart is, what the
-contest or the [[Suffering|suffering]]: no one knows.
+“Poor in not being able to pay him any of the harm we owe him,”
+returned her daughter. “Let him give me that sort of riches, and I’ll
+take them from him, and use them. Come away. Its no good looking at his
+[[Horse|horse]]. Come away, mother!”

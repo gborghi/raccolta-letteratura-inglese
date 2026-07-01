@@ -1,5 +1,5 @@
 ---
-title: "[[Mellonta Tauta]] (part 1)"
+title: "Mellonta Tauta (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/mellonta-tauta-(poe)"
@@ -213,7 +213,3 @@ ON BOARD BALLOON “SKYLARK”
       observation of the Hindoo Aries Tottle (as quoted by
 
       Pundit)—“Thus must we say that, not once or twice, or a few
-
-      times, but with almost infinite repetitions, the same opinions
-
-      come round in a circle among men.”

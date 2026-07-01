@@ -1,5 +1,5 @@
 ---
-title: "[[Agnes Grey]] — Chapter 3 (part 2)"
+title: "Agnes Grey — Chapter 3 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/agnes-grey-(bronte)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/agnes_grey/chapter_03/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/agnes_grey/chapter_03/part_03">part 03 ›</a></div>
 </nav>
 
+
+In the afternoon we applied to lessons again: then went out again; then
+had tea in the schoolroom; then I dressed Mary Ann for dessert; and
+when she and her brother had gone down to the dining-room, I took the
+opportunity of beginning a letter to my dear friends at [[Home|home]]: but the
+children came up before I had half completed it. At seven I had to put
+Mary Ann to bed; then I played with Tom till eight, when he, too, went;
+and I finished my letter and unpacked my clothes, which I had hitherto
+found no opportunity for doing, and, finally, went to bed myself.
 
 But this is a very favourable specimen of a day’s proceedings.
 

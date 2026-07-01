@@ -1,5 +1,5 @@
 ---
-title: "[[Don Quixote]] — Chapter 8 (part 1)"
+title: "Don Quixote — Chapter 8 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/don-quixote-(chesterton)"
@@ -72,7 +72,7 @@ active service--going to the Front."  Then after a pause he added,
 "If I fall in the first charge at the Bargain Counter,
 say that my last thought was fixed firmly on Julian Archer.
 Put up a little stone on the spot where I fell, and when
-the [[Spring]] Sales come back with all their [[Birds|birds]] and [[Flowers|flowers]],
+the [[spring|Spring]] Sales come back with all their [[Birds|birds]] and [[Flowers|flowers]],
 remember me.  Farewell.  I wish you luck."
 
 And waving his resolute walking-stick in the air with gestures
@@ -80,7 +80,7 @@ of benediction, he betook himself briskly along the path through
 the park, leaving the dark figure in the porch looking rather
 doubtfully after him.
 
-The [[Birds|birds]] of [[Spring|spring]], which he had just invoked so pathetically,
+The [[Birds|birds]] of [[spring]], which he had just invoked so pathetically,
 were indeed singing in the bright plantation of little trees
 through which he went; the light green tufts of leafage
 had themselves something of the look of sprouting feathers.

@@ -1,5 +1,5 @@
 ---
-title: "The Merchant of [[Venice]] — Act II, Scene 5 — monologue (MOROCCO) [4]"
+title: "The Merchant of Venice — Act II, Scene 5 — monologue (MOROCCO) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-merchant-of-venice-(shakespeare)"

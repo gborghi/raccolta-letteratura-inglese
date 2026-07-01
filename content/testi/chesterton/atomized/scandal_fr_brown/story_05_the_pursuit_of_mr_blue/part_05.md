@@ -14,6 +14,12 @@ tags:
 </nav>
 
 
+The secretary was silent for a moment; then he snorted and said: 'If
+that's the offer in the letter, we'd certainly better see whether it's a
+forgery. For really, we don't know that the whole tale isn't as false as
+a forgery. The fellow admits himself that the disappearance of his hunch
+- backed giant is utterly incredible and inexplicable.'
+
 'Yes,' said [[Father Brown]]; 'that's what I like about Muggleton. He admits
 things.'
 

@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 58 (part 1)"
+title: "Barnaby Rudge — Chapter 58 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -117,9 +117,3 @@ shoes till they wear the soles out, with trembling at the threats of the
 ragamuffins he belongs to?’
 
 ‘That’s true enough.’
-
-‘True enough!--I’ll tell you what. I wish, Tom Green, that I was a
-commissioned instead of a non-commissioned officer, and that I had the
-command of two companies--only two companies--of my own regiment.
-Call me out to stop these riots--give me the needful authority, and
-half-a-dozen rounds of ball cartridge--’

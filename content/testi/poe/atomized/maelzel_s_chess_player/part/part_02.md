@@ -1,5 +1,5 @@
 ---
-title: "[[Maelzel's Chess-Player]] (part 2)"
+title: "Maelzel's Chess-Player (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/maelzel's-chess-player-(poe)"
@@ -12,6 +12,12 @@ tags:
 <div class="excerpt-crumb">Poe · <a href="/works/maelzel's-chess-player-(poe)">Maelzel s Chess Player</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/maelzel_s_chess_player/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/maelzel_s_chess_player/part/part_03">part 03 ›</a></div>
 </nav>
+
+
+      stretched out its neck to pick it up, swallowed, and digested it.
+
+      {*1}
+
 
 
       But if these machines were ingenious, what shall we think of the
@@ -183,7 +189,3 @@ tags:
       by the citizens of Richmond a few weeks ago. The right arm,
 
       however, should lie more at length upon the box, a chess-board
-
-      should appear upon it, and the cushion should not be seen while
-
-      the pipe is held. Some immaterial alterations have been made in

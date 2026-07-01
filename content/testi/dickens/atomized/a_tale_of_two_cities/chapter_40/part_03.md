@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities — Chapter 8 (part 3)"
+title: "A Tale of Two Cities — Chapter 10 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-tale-of-two-cities-(dickens)"
@@ -14,121 +14,111 @@ tags:
 </nav>
 
 
-“Mr. Barsad has been recognised by [[Miss Pross]] as the affectionate
-brother you have heard of,” said Sydney, “and has acknowledged the
-relationship. I pass to worse news. Darnay has been arrested again.”
+“I said, ‘I have seen her.’
 
-Struck with consternation, the old gentleman exclaimed, “What do you
-tell me! I left him safe and free within these two hours, and am about
-to return to him!”
+“‘She is my sister, Doctor. They have had their shameful rights, these
+Nobles, in the modesty and virtue of our sisters, many years, but we
+have had good girls among us. I know it, and have heard my father say
+so. She was a good girl. She was betrothed to a good young man, too: a
+tenant of his. We were all tenants of his--that man’s who stands there.
+The other is his brother, the worst of a bad race.’
 
-“Arrested for all that. When was it done, Mr. Barsad?”
+“It was with the greatest difficulty that the boy gathered bodily force
+to speak; but, his spirit spoke with a dreadful emphasis.
 
-“Just now, if at all.”
+“‘We were so robbed by that man who stands there, as all we common [[dogs]]
+are by those superior Beings--taxed by him without [[Mercy|mercy]], obliged to
+work for him without pay, obliged to grind our corn at his mill, obliged
+to feed scores of his tame [[Birds|birds]] on our wretched crops, and forbidden
+for our lives to keep a single tame bird of our own, pillaged and
+plundered to that degree that when we chanced to have a bit of meat, we
+ate it in [[Fear|fear]], with the door barred and the shutters closed, that his
+people should not see it and take it from us--I say, we were so robbed,
+and hunted, and were made so poor, that our father told us it was a
+dreadful thing to bring a [[Child|child]] into the world, and that what we should
+most pray for, was, that our women might be barren and our miserable
+race die out!’
 
-“Mr. Barsad is the best authority possible, sir,” said Sydney, “and I
-have it from Mr. Barsad’s communication to a friend and brother Sheep
-over a bottle of wine, that the arrest has taken place. He left the
-messengers at the gate, and saw them admitted by the porter. There is no
-earthly [[Doubt|doubt]] that he is retaken.”
+“I had never before seen the sense of being oppressed, bursting forth
+like a [[Fire|fire]]. I had supposed that it must be latent in the people
+somewhere; but, I had never seen it break out, until I saw it in the
+dying boy.
 
-Mr. Lorry’s business eye read in the speaker’s face that it was loss
-of [[Time|time]] to dwell upon the point. Confused, but sensible that something
-might depend on his presence of mind, he commanded himself, and was
-silently attentive.
+“‘Nevertheless, Doctor, my sister married. He was ailing at that [[Time|time]],
+poor fellow, and she married her [[Lover|lover]], that she might tend and comfort
+him in our cottage--our dog-hut, as that man would call it. She had not
+been married many weeks, when that man’s brother saw her and admired
+her, and asked that man to lend her to him--for what are husbands among
+us! He was willing enough, but my sister was good and virtuous, and
+hated his brother with a hatred as strong as mine. What did the two
+then, to persuade her husband to use his influence with her, to make her
+willing?’
 
-“Now, I trust,” said Sydney to him, “that the name and influence of
-[[Doctor Manette]] may stand him in as good stead to-morrow--you said he
-would be before the Tribunal again to-morrow, Mr. Barsad?--”
+“The boy’s eyes, which had been fixed on mine, slowly turned to the
+looker-on, and I saw in the two faces that all he said was true. The two
+opposing kinds of [[Pride|pride]] confronting one another, I can see, even in this
+Bastille; the gentleman’s, all negligent indifference; the peasant’s, all
+trodden-down sentiment, and passionate [[Revenge|revenge]].
 
-“Yes; I believe so.”
+“‘You know, Doctor, that it is among the Rights of these Nobles to
+harness us common [[dogs]] to carts, and drive us. They so harnessed him and
+drove him. You know that it is among their Rights to keep us in their
+grounds all [[Night|night]], quieting the frogs, in order that their noble [[Sleep|sleep]]
+may not be disturbed. They kept him out in the unwholesome mists at
+[[Night|night]], and ordered him back into his harness in the day. But he was
+not persuaded. No! Taken out of harness one day at [[Noon|noon]], to feed--if he
+could find food--he sobbed twelve times, once for every stroke of the
+bell, and died on her bosom.’
 
-“--In as good stead to-morrow as to-day. But it may not be so. I own
-to you, I am shaken, Mr. Lorry, by [[Doctor Manette]]’s not having had the
-power to prevent this arrest.”
+“Nothing human could have held life in the boy but his determination to
+tell all his wrong. He forced back the gathering shadows of [[Death|death]], as
+he forced his clenched right hand to remain clenched, and to cover his
+wound.
 
-“He may not have known of it beforehand,” said Mr. Lorry.
+“‘Then, with that man’s permission and even with his aid, his
+brother took her away; in spite of what I know she must have told his
+brother--and what that is, will not be long unknown to you, Doctor, if
+it is now--his brother took her away--for his pleasure and diversion,
+for a little while. I saw her pass me on the [[Road|road]]. When I took the
+tidings [[Home|home]], our father’s heart burst; he never spoke one of the words
+that filled it. I took my young sister (for I have another) to a place
+beyond the reach of this man, and where, at least, she will never be
+_his_ vassal. Then, I tracked the brother here, and last [[Night|night]] climbed
+in--a common dog, but [[Sword|sword]] in hand.--Where is the loft [[Window|window]]? It was
+somewhere here?’
 
-“But that very circumstance would be alarming, when we remember how
-identified he is with his son-in-law.”
+“The room was darkening to his sight; the world was narrowing around
+him. I glanced about me, and saw that the hay and straw were trampled
+over the floor, as if there had been a struggle.
 
-“That’s true,” Mr. Lorry acknowledged, with his troubled hand at his
-chin, and his troubled eyes on Carton.
+“‘She heard me, and ran in. I told her not to come near us till he was
+dead. He came in and first tossed me some pieces of money; then struck
+at me with a whip. But I, though a common dog, so struck at him as to
+make him draw. Let him break into as many pieces as he will, the [[Sword|sword]]
+that he stained with my common [[Blood|blood]]; he drew to defend himself--thrust
+at me with all his skill for his life.’
 
-“In short,” said Sydney, “this is a desperate [[Time|time]], when desperate games
-are played for desperate stakes. Let the Doctor play the winning game; I
-will play the losing one. No man’s life here is worth purchase. Any one
-carried [[Home|home]] by the people to-day, may be condemned tomorrow. Now, the
-stake I have resolved to play for, in case of the worst, is a friend
-in the Conciergerie. And the friend I purpose to myself to win, is Mr.
-Barsad.”
+“My glance had fallen, but a few moments before, on the fragments of
+a broken [[Sword|sword]], lying among the hay. That weapon was a gentleman’s. In
+another place, lay an old [[Sword|sword]] that seemed to have been a soldier’s.
 
-“You need have good cards, sir,” said the spy.
+“‘Now, lift me up, Doctor; lift me up. Where is he?’
 
-“I’ll run them over. I’ll see what I hold,--Mr. Lorry, you know what a
-brute I am; I wish you’d give me a little brandy.”
+“‘He is not here,’ I said, supporting the boy, and thinking that he
+referred to the brother.
 
-It was put before him, and he drank off a glassful--drank off another
-glassful--pushed the bottle thoughtfully away.
+“‘He! Proud as these nobles are, he is afraid to see me. Where is the
+man who was here? Turn my face to him.’
 
-“Mr. Barsad,” he went on, in the tone of one who really was looking
-over a hand at cards: “Sheep of the prisons, emissary of Republican
-committees, now turnkey, now prisoner, always spy and secret informer,
-so much the more valuable here for being English that an Englishman
-is less open to suspicion of subornation in those characters than a
-Frenchman, represents himself to his employers under a false name.
-That’s a very good card. Mr. Barsad, now in the employ of the republican
-French [[government]], was formerly in the employ of the aristocratic
-English [[government]], the enemy of France and [[Freedom|freedom]]. That’s an excellent
-card. Inference clear as day in this region of suspicion, that Mr.
-Barsad, still in the pay of the aristocratic English [[government]], is the
-spy of Pitt, the treacherous foe of the Republic crouching in its bosom,
-the English traitor and agent of all mischief so much spoken of and so
-difficult to find. That’s a card not to be beaten. Have you followed my
-hand, Mr. Barsad?”
+“I did so, raising the boy’s head against my knee. But, invested for the
+moment with extraordinary power, he raised himself completely: obliging
+me to rise too, or I could not have still supported him.
 
-“Not to understand your play,” returned the spy, somewhat uneasily.
-
-“I play my Ace, Denunciation of Mr. Barsad to the nearest Section
-Committee. Look over your hand, Mr. Barsad, and see what you have. Don’t
-hurry.”
-
-He drew the bottle near, poured out another glassful of brandy, and
-drank it off. He saw that the spy was fearful of his drinking himself
-into a fit state for the immediate denunciation of him. Seeing it, he
-poured out and drank another glassful.
-
-“Look over your hand carefully, Mr. Barsad. Take [[Time|time]].”
-
-It was a poorer hand than he suspected. Mr. Barsad saw losing cards
-in it that [[Sydney Carton]] knew nothing of. Thrown out of his honourable
-employment in England, through too much unsuccessful hard swearing
-there--not because he was not wanted there; our English reasons for
-vaunting our superiority to secrecy and spies are of very modern
-date--he knew that he had crossed the Channel, and accepted service in
-France: first, as a tempter and an eavesdropper among his own countrymen
-there: gradually, as a tempter and an eavesdropper among the natives. He
-knew that under the overthrown [[government]] he had been a spy upon Saint
-Antoine and Defarge’s wine-shop; had received from the watchful police
-such heads of information concerning [[Doctor Manette]]’s [[Imprisonment|imprisonment]],
-release, and [[history]], as should serve him for an introduction to
-familiar conversation with the Defarges; and tried them on Madame
-Defarge, and had broken down with them signally. He always remembered
-with [[Fear|fear]] and trembling, that that terrible woman had knitted when he
-talked with her, and had looked ominously at him as her fingers moved.
-He had since seen her, in the Section of Saint Antoine, over and over
-again produce her knitted registers, and denounce people whose lives the
-guillotine then surely swallowed up. He knew, as every one employed as
-he was did, that he was never safe; that flight was impossible; that
-he was tied fast under the [[Shadow|shadow]] of the axe; and that in spite of
-his utmost tergiversation and treachery in furtherance of the reigning
-terror, a word might bring it down upon him. Once denounced, and on such
-[[Grave|grave]] grounds as had just now been suggested to his mind, he foresaw
-that the dreadful woman of whose unrelenting character he had seen many
-proofs, would produce against him that fatal register, and would quash
-his last chance of life. Besides that all secret men are men soon
-terrified, here were surely cards enough of one black suit, to justify
-the holder in growing rather livid as he turned them over.
-
-“You scarcely seem to like your hand,” said Sydney, with the greatest
-composure. “Do you play?”
+“‘Marquis,’ said the boy, turned to him with his eyes opened wide, and
+his right hand raised, ‘in the days when all these things are to be
+answered for, I summon you and yours, to the last of your bad race, to
+answer for them. I mark this [[Cross|cross]] of [[Blood|blood]] upon you, as a sign that
+I do it. In the days when all these things are to be answered for,
+I summon your brother, the worst of the bad race, to answer for them
+separately. I mark this [[Cross|cross]] of [[Blood|blood]] upon him, as a sign that I do
+it.’

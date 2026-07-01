@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-thing-(chesterton)">The Thing</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_14_on_the_novel_with_a_purpose">‹ Story 14 ON THE NOVEL WITH A PURPOSE</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_16_the_feasts_and_the_ascetic">Story 16 THE FEASTS AND THE ASCETIC ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_14_on_the_novel_novel_with_a_purpose">‹ Story 14 ON THE Novel NOVEL WITH A PURPOSE</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_16_the_feasts_and_the_ascetic_ascetic">Story 16 THE FEASTS AND THE ascetic ASCETIC ›</a></div>
 </nav>
 
 
@@ -174,7 +174,7 @@ of practical politics and called an idealist and a failure.
 
 The same progress of Capitalism that made the squires has
 destroyed the squires.  The same commercial advance that exalted
-England before Europe has abased England before [[America]].
+England before Europe has abased England before [[america|America]].
 Exactly in so far as we have our affections healthily attached to this
 adventurous and patriotic England of the last few centuries, we shall
 see that our affections and attachments are bound to be betrayed.
@@ -232,6 +232,5 @@ save us from all this gunpowder, for God's sake let us listen to them."
 Even [[logic]] they are prepared, in their [[Despair|despair]], to accept.
 They will not only listen to religion, they will even perhaps listen
 to reason, if it will promise them a little peace.
-
 
 -/-

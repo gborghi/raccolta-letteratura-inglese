@@ -1,5 +1,5 @@
 ---
-title: "[[innocence]] — The Three Tools of [[Death]] (part 4)"
+title: "innocence — The Three Tools of Death (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -16,7 +16,7 @@ tags:
 
 At a sufficiently delicate sign, the police gathered round
 the large man to lead him away; but their unobtrusiveness was
-somewhat staggered by the remarkable appearance of [[Father Brown]],
+somewhat staggered by the remarkable appearance of Father Brown,
 who was on his hands and knees on the carpet in the doorway,
 as if engaged in some kind of undignified prayers.
 Being a person utterly insensible to the social figure he cut,
@@ -27,18 +27,18 @@ with a very comic human head.
 "I say," he said good-naturedly, "this really won't do at all,
 you know.  At the beginning you said we'd found no weapon.
 But now we're finding too many; there's the knife to stab,
-and the rope to strangle, and the [[Pistol|pistol]] to shoot; and after all
-he broke his neck by falling out of a [[Window|window]]!  It won't do.
+and the rope to strangle, and the pistol to shoot; and after all
+he broke his neck by falling out of a window!  It won't do.
 It's not economical."  And he shook his head at the ground
-as a [[Horse|horse]] does grazing.
+as a horse does grazing.
 
 Inspector Gilder had opened his mouth with serious intentions,
-but before he could speak the [[Grotesque|grotesque]] figure on the floor
+but before he could speak the grotesque figure on the floor
 had gone on quite volubly.
 
 "And now three quite impossible things.  First, these holes
 in the carpet, where the six bullets have gone in.
-Why on earth should anybody [[Fire|fire]] at the carpet?  A drunken man
+Why on earth should anybody fire at the carpet?  A drunken man
 lets fly at his enemy's head, the thing that's grinning at him.
 He doesn't pick a quarrel with his feet, or lay siege to his slippers.
 And then there's the rope"--and having done with the carpet
@@ -52,12 +52,12 @@ fought for the whisky bottle, and then having won, rolled it
 away in a corner, spilling one half and leaving the other.
 That is the very last thing a dipsomaniac would do."
 
-He scrambled awkwardly to his feet, and said to the [[Self|self]]-accused
+He scrambled awkwardly to his feet, and said to the self-accused
 murderer in tones of limpid penitence:  "I'm awfully sorry,
 my dear sir, but your tale is really rubbish."
 
 "Sir," said Alice Armstrong in a low tone to the priest,
-"can I speak to you [[Alone|alone]] for a moment?"
+"can I speak to you alone for a moment?"
 
 This request forced the communicative cleric out of the gangway,
 and before he could speak in the next room, the girl was talking
@@ -66,7 +66,7 @@ with strange incisiveness.
 "You are a clever man," she said, "and you are trying to
 save Patrick, I know.  But it's no use.  The core of all this
 is black, and the more things you find out the more there
-will be against the miserable man I [[Love|love]]."
+will be against the miserable man I love."
 
 "Why?" asked Brown, looking at her steadily.
 

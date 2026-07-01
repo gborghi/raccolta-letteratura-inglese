@@ -14,6 +14,19 @@ tags:
 </nav>
 
 
+‘Oh, I don’t know, Grace.  How you tease me about Alfred.’
+
+‘Tease you by mentioning your [[Lover|lover]]?’ said her sister.
+
+‘I am sure I don’t much care to have him mentioned,’ said the wilful
+[[Beauty|beauty]], stripping the petals from some [[Flowers|flowers]] she held, and scattering
+them on the ground.  ‘I am almost tired of hearing of him; and as to his
+being my [[Lover|lover]]—’
+
+‘Hush!  Don’t speak lightly of a true heart, which is all your own,
+Marion,’ cried her sister, ‘even in jest.  There is not a truer heart
+than Alfred’s in the world!’
+
 ‘No-no,’ said Marion, raising her eyebrows with a pleasant air of
 careless consideration, ‘perhaps not.  But I don’t know that there’s any
 great merit in that.  I—I don’t want him to be so very true.  I never
@@ -117,13 +130,3 @@ to one of her most startling evolutions, which was to grasp herself
 sometimes by a sort of wooden handle (part of her clothing, and
 familiarly called a busk), and wrestle as it were with her garments,
 until they fell into a symmetrical arrangement.
-
-Such, in outward form and garb, was [[Clemency Newcome]]; who was supposed to
-have unconsciously originated a corruption of her own Christian name,
-from Clementina (but nobody knew, for the deaf old mother, a very
-phenomenon of age, whom she had supported almost from a [[Child|child]], was dead,
-and she had no other relation); who now busied herself in preparing the
-table, and who stood, at intervals, with her bare red arms crossed,
-rubbing her grazed elbows with opposite hands, and staring at it very
-composedly, until she suddenly remembered something else she wanted, and
-jogged off to fetch it.

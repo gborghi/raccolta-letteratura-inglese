@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 12 (part 4)"
+title: "Wuthering Heights — Chapter 12 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_12/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_12/part_05">part 05 ›</a></div>
 </nav>
 
+
+Confused as Catherine was, her wits were alert at applying our
+conversation.
+
+“Ah! Nelly has played traitor,” she exclaimed, passionately. “Nelly is
+my hidden enemy. You [[Witch|witch]]! So you do seek elf-bolts to hurt us! Let me
+go, and I’ll make her rue! I’ll make her howl a recantation!”
 
 A maniac’s fury kindled under her brows; she struggled desperately to
 disengage herself from Linton’s arms. I felt no inclination to tarry

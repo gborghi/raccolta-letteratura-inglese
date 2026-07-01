@@ -1,5 +1,5 @@
 ---
-title: "[[wifrb11]] — The Paradise of Thieves (part 5)"
+title: "wifrb11 — The Paradise of Thieves (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -14,10 +14,37 @@ tags:
 </nav>
 
 
-     "[[Well]]," said the poet tartly, "do people still think me too romantic? 
-Are there, I [[Wonder|wonder]], any brigands left in the [[Mountains|mountains]]?"
+     "Excellent!" cried that outlaw gaily; "so far we are all cosy. 
+I resume the points of my proclamation, so soon to be published
+to all Italy.  The third item is that of ransom.  I am asking
+from the friends of the Harrogate family a ransom of three thousand pounds,
+which I am sure is almost insulting to that family in its moderate estimate
+of their importance.  Who would not pay triple this sum for another day's
+association with such a domestic circle?  I will not conceal from you
+that the document ends with certain legal phrases about
+the unpleasant things that may happen if the money is not paid;
+but meanwhile, ladies and gentlemen, let me assure you that
+I am comfortably off here for accommodation, wine and cigars,
+and bid you for the present a sportsman-like welcome to the luxuries
+of the Paradise of Thieves."
 
-     "There may be," said [[Father Brown]] agnostically.
+     All the time that he had been speaking, the dubious-looking men
+with carbines and dirty slouch hats had been gathering silently
+in such preponderating numbers that even Muscari was compelled
+to recognize his sally with the sword as hopeless.  He glanced around him;
+but the girl had already gone over to soothe and comfort her father,
+for her natural affection for his person was as strong or stronger than
+her somewhat snobbish pride in his success.  Muscari, with the illogicality
+of a lover, admired this filial devotion, and yet was irritated by it. 
+He slapped his sword back in the scabbard and went and flung himself
+somewhat sulkily on one of the green banks.  The priest sat down
+within a yard or two, and Muscari turned his aquiline nose on him
+in an instantaneous irritation.
+
+     "Well," said the poet tartly, "do people still think me too romantic? 
+Are there, I wonder, any brigands left in the mountains?"
+
+     "There may be," said Father Brown agnostically.
 
      "What do you mean?" asked the other sharply.
 
@@ -25,7 +52,7 @@ Are there, I [[Wonder|wonder]], any brigands left in the [[Mountains|mountains]]
 Ezza or Montano, or whatever his name is.  He seems to me much more
 inexplicable as a brigand even than he was as a courier."
 
-     "But in what way?" persisted his companion.  "Santa [[Maria]]!
+     "But in what way?" persisted his companion.  "Santa Maria!
 I should have thought the brigand was plain enough."
 
      "I find three curious difficulties," said the priest in a quiet voice. 
@@ -96,29 +123,3 @@ as he stood there, for he had assumed a flapped fantastic hat and
 swinging baldric and cutlass in his capacity of bandit [[King|king]],
 but the bright prosaic tweed of the courier showed through in patches
 all over him.
-
-     The next moment he turned his olive, sneering face and made
-a movement with his hand.  The brigands scattered at the signal,
-not in confusion, but in what was evidently a kind of guerrilla discipline. 
-Instead of occupying the [[Road|road]] along the ridge, they sprinkled themselves
-along the side of it behind the trees and the hedge, as if watching unseen
-for an enemy.  The noise beyond grew stronger, beginning to shake
-the mountain [[Road|road]], and a voice could be clearly heard calling out orders. 
-The brigands swayed and huddled, cursing and whispering,
-and the evening air was full of little metallic noises as they
-cocked their pistols, or loosened their knives, or trailed their scabbards
-over the stones.  Then the noises from both quarters seemed to meet
-on the [[Road|road]] above; branches broke, horses neighed, men cried out.
-
-     "A rescue!" cried Muscari, springing to his feet and waving his hat;
-"the gendarmes are on them!  Now for [[Freedom|freedom]] and a blow for it! 
-Now to be rebels against robbers!  Come, don't let us leave everything
-to the police; that is so dreadfully modern.  Fall on the rear
-of these ruffians.  The gendarmes are rescuing us; come, friends,
-let us rescue the gendarmes!"
-
-     And throwing his hat over the trees, he drew his cutlass once more
-and began to escalade the slope up to the [[Road|road]].  Frank Harrogate
-jumped up and ran across to help him, revolver in hand, but was astounded
-to hear himself imperatively recalled by the raucous voice of his father,
-who seemed to be in great agitation.

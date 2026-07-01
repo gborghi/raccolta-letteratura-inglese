@@ -142,12 +142,3 @@ Wimpole.
 "All but one thing," answered the other.  "I must
 find a music shop--you know what I mean.  Place
 where they sell pianos and things of that sort."
-
-"Look here," said Dorian, "this [[cheese]] is pretty
-heavy as it is.  Have I got to carry a piano, too?"
-
-"You misunderstand me," said the Captain, calmly.
-And as he had never thought of music shops until his
-eye had caught one an instant before, he darted into
-the doorway.  Returning almost immediately with a
-long parcel under his arm, he resumed the conversation.

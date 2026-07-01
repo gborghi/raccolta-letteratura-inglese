@@ -14,6 +14,19 @@ tags:
 </nav>
 
 
+And now the bell--the bell she had so often heard, by [[Night|night]] and day,
+and listened to with solemn pleasure almost as a living voice--rung
+its remorseless toll, for her, so young, so beautiful, so good.
+Decrepit age, and vigorous life, and blooming youth, and helpless
+infancy, poured forth--on crutches, in the [[Pride|pride]] of strength and
+health, in the full blush of promise, in the mere [[Dawn|dawn]] of life--to
+gather round her tomb.  Old men were there, whose eyes were dim and
+senses failing--grandmothers, who might have died ten years ago, and
+still been old--the deaf, the blind, the lame, the palsied, the living
+dead in many shapes and forms, to see the closing of that early [[Grave|grave]].
+What was the [[Death|death]] it would shut in, to that which still could crawl
+and creep above it!
+
 Along the crowded path they bore her now; pure as the newly-fallen [[Snow|snow]]
 that covered it; whose day on earth had been as fleeting.  Under the
 porch, where she had sat when Heaven in its [[Mercy|mercy]] brought her to that
@@ -109,17 +122,3 @@ room a [[Grave|grave]]--if there be any who have not known this, and proved it b
 their own experience, they can never faintly guess how, for many days,
 the old man pined and moped away the [[Time|time]], and wandered here and there
 as seeking something, and had no comfort.
-
-Whatever power of thought or [[Memory|memory]] he retained, was all bound up in
-her.  He never understood, or seemed to care to understand, about his
-brother.  To every endearment and attention he continued listless.  If
-they spoke to him on this, or any other theme--save one--he would hear
-them patiently for awhile, then turn away, and go on seeking as before.
-
-On that one theme, which was in his and all their minds, it was
-impossible to touch.  Dead!  He could not hear or bear the word.  The
-slightest hint of it would throw him into a paroxysm, like that he had
-had when it was first spoken.  In what [[Hope|hope]] he lived, no man could
-tell; but that he had some [[Hope|hope]] of finding her again--some faint and
-shadowy [[Hope|hope]], deferred from day to day, and making him from day to day
-more sick and sore at heart--was plain to all.

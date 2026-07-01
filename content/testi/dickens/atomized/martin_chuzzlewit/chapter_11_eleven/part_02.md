@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 11: ELEVEN (part 2)"
+title: "Martin Chuzzlewit — Chapter 11: ELEVEN (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_11_eleven/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_11_eleven/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘[[Well]], perhaps it is,’ said Mr Jonas. ‘I say--Did you think I was lost?
+You haven’t told me that.’
+
+‘I didn’t think at all about it,’ answered Cherry.
+
+‘Didn’t you though?’ said Jonas, pondering upon this strange reply. ‘Did
+the other one?’
 
 ‘I am sure it’s impossible for me to say what my sister may, or may not
 have thought on such a subject,’ cried Cherry. ‘She never said anything

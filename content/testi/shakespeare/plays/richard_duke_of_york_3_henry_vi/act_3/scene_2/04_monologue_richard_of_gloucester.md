@@ -1,5 +1,5 @@
 ---
-title: "[[Richard]] [[Duke of York]] (3 [[Henry VI]]) — Act III, Scene 2 — monologue ([[Richard|RICHARD]] OF GLOUCEST’ER) [4]"
+title: "Richard Duke of York (3 Henry VI) — Act III, Scene 2 — monologue (RICHARD OF GLOUCEST’ER) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/richard-duke-of-york---(3-henry-vi)-(shakespeare)"

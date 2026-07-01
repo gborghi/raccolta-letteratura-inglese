@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 17: SEVENTEEN (part 3)"
+title: "Martin Chuzzlewit — Chapter 17: SEVENTEEN (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,25 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_17_seventeen/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_17_seventeen/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘Hush!’ cried Martin, clapping his hand upon his mouth; ‘and don’t be an
+idiot. What is he doing here?’
+
+‘Waiting to take our luggage off upon a truck,’ said Mark. ‘He’d have
+come for it by-and-bye, but I engaged him for a very reasonable charge
+(out of my own pocket) to sit along with me and make me jolly; and I
+am jolly; and if I was rich enough to contract with him to wait upon me
+once a day, to be looked at, I’d never be anything else.’
+
+The fact may cause a solemn impeachment of Mark’s veracity, but it must
+be admitted nevertheless, that there was that in his face and manner at
+the moment, which militated strongly against this emphatic declaration
+of his state of mind.
+
+‘Lord [[Love|love]] you, sir,’ he added, ‘they’re so fond of Liberty in this part
+of the globe, that they buy her and sell her and carry her to market
+with ‘em. They’ve such a passion for Liberty, that they can’t help
+taking liberties with her. That’s what it’s owing to.’
 
 ‘Very [[Well|well]],’ said Martin, wishing to change the theme. ‘Having come to
 that conclusion, Mark, perhaps you’ll attend to me. The place to which
@@ -107,32 +126,3 @@ consequence was that he made himself very agreeable indeed; and by
 the [[Time|time]] the tea and coffee arrived (with sweet preserves, and cunning
 tea-cakes in its train), was in a highly genial state, and much esteemed
 by the whole family.
-
-Another delightful circumstance turned up before the first cup of tea
-was drunk. The whole family had been in England. There was a pleasant
-thing! But Martin was not quite so glad of this, when he found that
-they knew all the great dukes, lords, viscounts, marquesses, duchesses,
-knights, and baronets, quite affectionately, and were beyond everything
-interested in the least particular concerning them. However, when they
-asked, after the wearer of this or that coronet, and said, ‘Was he quite
-[[Well|well]]?’ Martin answered, ‘Yes, oh yes. Never better;’ and when they said,
-‘his lordship’s mother, the duchess, was she much changed?’ Martin said,
-‘Oh dear no, they would know her anywhere, if they saw her to-morrow;’
-and so got on pretty [[Well|well]]. In like manner when the young ladies
-questioned him touching the Gold Fish in that Grecian fountain in such
-and such a nobleman’s conservatory, and whether there were as many as
-there used to be, he gravely reported, after mature consideration, that
-there must be at least twice as many; and as to the exotics, ‘Oh! [[Well|well]]!
-it was of no use talking about THEM; they must be seen to be believed;’
-which improved state of circumstances reminded the family of the
-splendour of that brilliant festival (comprehending the whole British
-Peerage and [[Court]] Calendar) to which they were specially invited, and
-which indeed had been partly given in their [[Honour|honour]]; and recollections
-of what Mr Norris the father had said to the marquess, and of what Mrs
-Norris the mother had said to the [[Marchioness|marchioness]], and of what the marquess
-and [[Marchioness|marchioness]] had both said, when they said that upon their words and
-honours they wished Mr Norris the father and [[Mrs Norris]] the mother, and
-the Misses Norris the daughters, and Mr Norris Junior, the son, would
-only take up their permanent residence in England, and give them the
-pleasure of their everlasting [[Friendship|friendship]], occupied a very considerable
-[[Time|time]].

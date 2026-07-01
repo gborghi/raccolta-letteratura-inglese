@@ -1,5 +1,5 @@
 ---
-title: "[[Bon-Bon]] (part 4)"
+title: "Bon-Bon (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/bon-bon-(poe)"
@@ -107,10 +107,3 @@ tags:
       in all that he has written, and for that I gave him the hint out of pure
       compassion for his absurdity. I suppose, Pierre [[Bon-Bon]], you very [[Well|well]]
       know to what divine moral [[Truth|truth]] I am alluding?”
-
-
-      “Cannot say that I—”
-
-
-      “Indeed!—why it was I who told Aristotle that by sneezing, men
-      expelled superfluous ideas through the proboscis.”

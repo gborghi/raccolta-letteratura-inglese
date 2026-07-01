@@ -14,6 +14,9 @@ tags:
 </nav>
 
 
+    "As I [[Fear|fear]], sir, he sometimes used to do
+    Before I found the useful book that knows."
+
 It would be difficult to imagine any figure more indecently
 confessional, more entirely devoid of not only any of the restraints
 of [[Conscience|conscience]], but of any of the restraints even of a wholesome

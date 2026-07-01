@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 12 (part 6)"
+title: "Dombey and Son — Chapter 40 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -10,132 +10,144 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/dombey-and-son-(dickens)">Dombey and Son</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_68/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_68/part_07">part 07 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_68/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_69/part_01">part 01 ›</a></div>
 </nav>
 
 
-“Paul has a great deal too much to do, Susan,” said Florence, “I am
-sure of it.”
+“Don’t believe it, Sir,” returned the Major. “Damme, Sir, she never
+wrapped up enough. If a man don’t wrap up,” said the Major, taking in
+another button of his buff waistcoat, “he has nothing to fall back
+upon. But some people will die. They will do it. Damme, they will.
+They’re obstinate. I tell you what, Dombey, it may not be ornamental;
+it may not be refined; it may be rough and tough; but a little of the
+genuine old English Bagstock stamina, Sir, would do all the good in the
+world to the human breed.”
 
-“And [[Well|well]] you may be, Miss,” returned her maid, “and make your mind
-quite easy that the willing dear is worked and worked away. If those is
-Latin legs,” exclaimed Miss Nipper, with strong feeling—in allusion to
-Paul’s; “give me English ones.”
+After imparting this precious piece of information, the Major, who was
+certainly true-blue, whatever other endowments he may have had or
+wanted, coming within the “genuine old English” classification, which
+has never been exactly ascertained, took his lobster-eyes and his
+apoplexy to the club, and choked there all day.
 
-“I am afraid he feels lonely and lost at Doctor Blimber’s, Susan,”
-pursued Florence, turning away her face.
+[[Cleopatra]], at one [[Time|time]] fretful, at another [[Self|self]]-complacent, sometimes
+awake, sometimes asleep, and at all times juvenile, reached Brighton
+the same [[Night|night]], fell to pieces as usual, and was put away in bed; where
+a gloomy fancy might have pictured a more potent [[skeleton]] than the
+maid, who should have been one, watching at the [[Rose|rose]]-coloured curtains,
+which were carried down to shed their bloom upon her.
 
-“Ah,” said Miss Nipper, with great sharpness, “Oh, them ‘Blimbers’”
+It was settled in high council of medical authority that she should
+take a carriage airing every day, and that it was important she should
+get out every day, and walk if she could. Edith was ready to attend
+her—always ready to attend her, with the same mechanical attention and
+immovable [[Beauty|beauty]]—and they drove out [[Alone|alone]]; for Edith had an uneasiness
+in the presence of Florence, now that her mother was worse, and told
+Florence, with a kiss, that she would rather they two went [[Alone|alone]].
 
-“Don’t blame anyone,” said Florence. “It’s a mistake.”
+Mrs Skewton, on one particular day, was in the irresolute, exacting,
+jealous temper that had developed itself on her recovery from her first
+attack. After sitting silent in the carriage watching Edith for some
+[[Time|time]], she took her hand and kissed it passionately. The hand was
+neither given nor withdrawn, but simply yielded to her raising of it,
+and being released, dropped down again, almost as if it were
+insensible. At this she began to whimper and moan, and say what a
+mother she had been, and how she was forgotten! This she continued to
+do at capricious intervals, even when they had alighted: when she
+herself was halting along with the joint support of Withers and a
+stick, and Edith was walking by her side, and the carriage slowly
+following at a little distance.
 
-“I say nothing about blame, Miss,” cried Miss Nipper, “for I know that
-you object, but I may wish, Miss, that the family was set to work to
-make new roads, and that Miss Blimber went in front and had the
-pickaxe.”
+It was a bleak, lowering, windy day, and they were out upon the Downs
+with nothing but a bare sweep of land between them and the sky. The
+mother, with a querulous satisfaction in the monotony of her complaint,
+was still repeating it in a low voice from [[Time|time]] to [[Time|time]], and the proud
+form of her daughter moved beside her slowly, when there came advancing
+over a dark ridge before them, two other figures, which in the
+distance, were so like an exaggerated [[Imitation|imitation]] of their own, that
+Edith stopped.
 
-After this speech, Miss Nipper, who was perfectly serious, wiped her
-eyes.
+Almost as she stopped, the two figures stopped; and that one which to
+Edith’s thinking was like a distorted [[Shadow|shadow]] of her mother, spoke to
+the other, earnestly, and with a pointing hand towards them. That one
+seemed inclined to turn back, but the other, in which Edith recognised
+enough that was like herself to strike her with an unusual feeling, not
+quite free from [[Fear|fear]], came on; and then they came on together.
 
 [Illustration]
 
-“I think I could perhaps give Paul some help, Susan, if I had these
-books,” said Florence, “and make the coming week a little easier to
-him. At least I want to try. So buy them for me, dear, and I will never
-forget how kind it was of you to do it!”
+The greater part of this observation, she made while walking towards
+them, for her stoppage had been momentary. Nearer observation showed
+her that they were poorly dressed, as wanderers about the country; that
+the younger woman carried knitted work or some such goods for sale; and
+that the old one toiled on empty-handed.
 
-It must have been a harder heart than [[Susan Nipper]]’s that could have
-rejected the little purse Florence held out with these words, or the
-gentle look of entreaty with which she seconded her petition. Susan put
-the purse in her pocket without reply, and trotted out at once upon her
-errand.
+And yet, however far removed she was in dress, in dignity, in [[Beauty|beauty]],
+Edith could not but compare the younger woman with herself, still. It
+may have been that she saw upon her face some traces which she knew
+were lingering in her own [[Soul|soul]], if not yet written on that index; but,
+as the woman came on, returning her gaze, fixing her shining eyes upon
+her, undoubtedly presenting something of her own air and stature, and
+appearing to reciprocate her own thoughts, she felt a chill creep over
+her, as if the day were darkening, and the [[Wind|wind]] were colder.
 
-The books were not easy to procure; and the answer at several shops
-was, either that they were just out of them, or that they never kept
-them, or that they had had a great many last month, or that they
-expected a great many next week But Susan was not easily baffled in
-such an enterprise; and having entrapped a white-haired youth, in a
-black calico apron, from a library where she was known, to accompany
-her in her [[Quest|quest]], she led him such a life in going up and down, that he
-exerted himself to the utmost, if it were only to get rid of her; and
-finally enabled her to return [[Home|home]] in triumph.
+They had now come up. The old woman, holding out her hand
+importunately, stopped to beg of Mrs Skewton. The younger one stopped
+too, and she and Edith looked in one another’s eyes.
 
-With these treasures then, after her own daily lessons were over,
-Florence sat down at [[Night|night]] to track Paul’s footsteps through the thorny
-ways of learning; and being possessed of a naturally quick and sound
-capacity, and taught by that most wonderful of masters, [[Love|love]], it was
-not long before she gained upon Paul’s heels, and caught and passed
-him.
+“What is it that you have to sell?” said Edith.
 
-Not a word of this was breathed to Mrs Pipchin: but many a [[Night|night]] when
-they were all in bed, and when Miss Nipper, with her hair in papers and
-herself asleep in some uncomfortable attitude, reposed unconscious by
-her side; and when the chinking ashes in the grate were cold and grey;
-and when the candles were burnt down and guttering out;—Florence tried
-so hard to be a substitute for one small Dombey, that her fortitude and
-perseverance might have almost won her a free right to bear the name
-herself.
+“Only this,” returned the woman, holding out her wares, without looking
+at them. “I sold myself long ago.”
 
-And high was her reward, when one Saturday evening, as little Paul was
-sitting down as usual to “resume his studies,” she sat down by his
-side, and showed him all that was so rough, made smooth, and all that
-was so dark, made clear and plain, before him. It was nothing but a
-startled look in Paul’s wan face—a flush—a smile—and then a close
-embrace—but God knows how her heart leapt up at this rich payment for
-her trouble.
+“My Lady, don’t believe her,” croaked the old woman to Mrs Skewton;
+“don’t believe what she says. She loves to talk like that. She’s my
+handsome and undutiful daughter. She gives me nothing but reproaches,
+my Lady, for all I have done for her. Look at her now, my Lady, how she
+turns upon her poor old mother with her looks.”
 
-“Oh, Floy!” cried her brother, “how I [[Love|love]] you! How I [[Love|love]] you, Floy!”
+As Mrs Skewton drew her purse out with a trembling hand, and eagerly
+fumbled for some money, which the other old woman greedily watched
+for—their heads all but touching, in their hurry and decrepitude—Edith
+interposed:
 
-“And I you, dear!”
+“I have seen you,” addressing the old woman, “before.”
 
-“Oh! I am sure of that, Floy.”
+“Yes, my Lady,” with a curtsey. “Down in Warwickshire. The morning
+among the trees. When you wouldn’t give me nothing. But the gentleman,
+he give me something! Oh, bless him, bless him!” mumbled the old woman,
+holding up her skinny hand, and grinning frightfully at her daughter.
 
-He said no more about it, but all that evening sat close by her, very
-quiet; and in the [[Night|night]] he called out from his little room within hers,
-three or four times, that he loved her.
+“It’s of no use attempting to stay me, Edith!” said Mrs Skewton,
+angrily anticipating an objection from her. “You know nothing about it.
+I won’t be dissuaded. I am sure this is an excellent woman, and a good
+mother.”
 
-Regularly, after that, Florence was prepared to sit down with Paul on
-Saturday [[Night|night]], and patiently assist him through so much as they could
-anticipate together of his next week’s work. The cheering thought that
-he was labouring on where Florence had just toiled before him, would,
-of itself, have been a stimulant to Paul in the perpetual resumption of
-his studies; but coupled with the actual lightening of his load,
-consequent on this assistance, it saved him, possibly, from sinking
-underneath the burden which the fair Cornelia Blimber piled upon his
-back.
+“Yes, my Lady, yes,” chattered the old woman, holding out her
+avaricious hand. “Thankee, my Lady. Lord bless you, my Lady. Sixpence
+more, my pretty Lady, as a good mother yourself.”
 
-It was not that Miss Blimber meant to be too hard upon him, or that
-Doctor Blimber meant to bear too heavily on the young gentlemen in
-general. Cornelia merely held the [[Faith|faith]] in which she had been bred; and
-the Doctor, in some partial confusion of his ideas, regarded the young
-gentlemen as if they were all Doctors, and were born grown up.
-Comforted by the applause of the young gentlemen’s nearest relations,
-and urged on by their blind [[Vanity|vanity]] and ill-considered haste, it would
-have been strange if Doctor Blimber had discovered his mistake, or
-trimmed his swelling sails to any other tack.
+“And treated undutifully enough, too, my good old creature, sometimes,
+I assure you,” said Mrs Skewton, whimpering. “There! Shake hands with
+me. You’re a very good old creature—full of what’s-his-name—and all
+that. You’re all affection and et cetera, ain’t you?”
 
-Thus in the case of Paul. When Doctor Blimber said he made great
-progress and was naturally clever, Mr Dombey was more bent than ever on
-his being forced and crammed. In the case of Briggs, when Doctor
-Blimber reported that he did not make great progress yet, and was not
-naturally clever, Briggs senior was inexorable in the same purpose. In
-short, however high and false the temperature at which the Doctor kept
-his hothouse, the owners of the plants were always ready to lend a
-helping hand at the bellows, and to stir the [[Fire|fire]].
+“Oh, yes, my Lady!”
 
-Such spirits as he had in the outset, Paul soon lost of course. But he
-retained all that was strange, and old, and thoughtful in his
-character: and under circumstances so favourable to the development of
-those tendencies, became even more strange, and old, and thoughtful,
-than before.
+“Yes, I’m sure you are; and so’s that gentlemanly creature Grangeby. I
+must really shake hands with you again. And now you can go, you know;
+and I [[Hope|hope]],” addressing the daughter, “that you’ll show more gratitude,
+and natural what’s-its-name, and all the rest of it—but I never
+remember names—for there never was a better mother than the good old
+creature’s been to you. Come, Edith!”
 
-The only difference was, that he kept his character to himself. He grew
-more thoughtful and reserved, every day; and had no such curiosity in
-any living member of the Doctor’s household, as he had had in Mrs
-Pipchin. He loved to be [[Alone|alone]]; and in those short intervals when he was
-not occupied with his books, liked nothing so [[Well|well]] as wandering about
-the [[house]] by himself, or sitting on the stairs, listening to the great
-[[Clock|clock]] in the hall. He was intimate with all the paperhanging in the
-[[house]]; saw things that no one else saw in the patterns; found out
-miniature tigers and lions running up the bedroom walls, and squinting
-faces leering in the squares and diamonds of the floor-cloth.
+As the ruin of [[Cleopatra]] tottered off whimpering, and wiping its eyes
+with a gingerly remembrance of rouge in their neighbourhood, the old
+woman hobbled another way, mumbling and counting her money. Not one
+word more, nor one other gesture, had been exchanged between Edith and
+the younger woman, but neither had removed her eyes from the other for
+a moment. They had remained confronted until now, when Edith, as
+awakening from [[A Dream|a dream]], passed slowly on.
+
+“You’re a handsome woman,” muttered her [[Shadow|shadow]], looking after her; “but
+good looks won’t save us. And you’re a proud woman; but [[Pride|pride]] won’t
+save us. We had need to know each other when we meet again!”

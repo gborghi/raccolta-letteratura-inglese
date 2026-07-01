@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 46: INTELLIGENCE (part 3)"
+title: "David Copperfield — Chapter 46: INTELLIGENCE (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_46_intelligence/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_46_intelligence/part_04">part 04 ›</a></div>
 </nav>
 
+
+Oh, Emily! Unhappy [[Beauty|beauty]]! What a picture [[Rose|rose]] before me of her sitting
+on the far-off shore, among the children like herself when she was
+[[Innocent|innocent]], listening to little voices such as might have called her
+Mother had she been a poor man’s wife; and to the great voice of the
+sea, with its eternal ‘Never more!’
 
 ‘When it was clear that nothing could be done, Miss Dartle--’
 
@@ -124,15 +130,3 @@ still; and [[Well|well]] I knew the bright eye with its lofty look, that had bee
 a light in my very [[Dreams|dreams]] at school.
 
 ‘Is Mr. Copperfield informed of everything, Rosa?’
-
-‘Yes.’
-
-‘And has he heard Littimer himself?’
-
-‘Yes; I have told him why you wished it.’ ‘You are a good girl. I have
-had some slight correspondence with your former friend, sir,’ addressing
-me, ‘but it has not restored his sense of duty or natural obligation.
-Therefore I have no other object in this, than what Rosa has mentioned.
-If, by the course which may relieve the mind of the decent man you
-brought here (for whom I am sorry--I can say no more), my son may be
-saved from again falling into the snares of a designing enemy, [[Well|well]]!’

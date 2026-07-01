@@ -1,5 +1,5 @@
 ---
-title: "[[The Domain of Arnheim]]"
+title: "The Domain of Arnheim"
 author: "Poe"
 unitType: work
 parentWork: "works/the-domain-of-arnheim-(poe)"
@@ -199,7 +199,7 @@ Like twinkling [[Stars|stars]] that sparkle in the evening blue.
       canvas of Claude. In the most enchanting of natural landscapes,
       there will always be found a defect or an excess—many excesses
       and defects. While the component parts may defy, individually,
-      the highest skill of the [[Artist|artist]], the arrangement of these parts
+      the highest skill of the [[artist]], the arrangement of these parts
       will always be susceptible of improvement. In short, no position
       can be attained on the wide surface of the natural earth, from
       which an artistical eye, looking steadily, will not find matter
@@ -218,7 +218,7 @@ Like twinkling [[Stars|stars]] that sparkle in the evening blue.
       pronounce it true throughout all the domains of art. Having, I
       say, felt its [[Truth|truth]] here; for the feeling is no affectation or
       chimera. The mathematics afford no more absolute demonstrations
-      than the sentiments of his art yields the [[Artist|artist]]. He not only
+      than the sentiments of his art yields the [[artist]]. He not only
       believes, but positively knows, that such and such apparently
       arbitrary arrangements of matter constitute and [[Alone|alone]] constitute
       the true [[Beauty|beauty]]. His reasons, however, have not yet been matured
@@ -227,7 +227,7 @@ Like twinkling [[Stars|stars]] that sparkle in the evening blue.
       Nevertheless he is confirmed in his instinctive opinions by the
       voice of all his brethren. Let a “composition” be defective; let
       an emendation be wrought in its mere arrangement of form; let
-      this emendation be submitted to every [[Artist|artist]] in the world; by
+      this emendation be submitted to every [[artist]] in the world; by
       each will its necessity be admitted. And even far more than this;
       in remedy of the defective composition, each insulated member of
       the fraternity would have suggested the identical emendation.

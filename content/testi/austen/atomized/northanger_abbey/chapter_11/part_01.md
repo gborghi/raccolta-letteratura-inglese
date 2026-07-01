@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 10 (part 1)"
+title: "Northanger Abbey — Chapter 10 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -219,9 +219,3 @@ I was to see him again. I felt so sure of his being quite gone away.”
 
 
 “When Henry had the pleasure of seeing you before, he was in Bath but
-
-for a couple of days. He came only to engage lodgings for us.”
-
-
-
-“_That_ never occurred to me; and of course, not seeing him anywhere, I

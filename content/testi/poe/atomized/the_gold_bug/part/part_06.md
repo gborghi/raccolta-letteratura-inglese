@@ -1,5 +1,5 @@
 ---
-title: "[[The Gold-Bug]] (part 6)"
+title: "The Gold-Bug (part 6)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-gold-bug-(poe)"
@@ -13,6 +13,40 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_gold_bug/part/part_05">‹ part 05</a><a class="ex-next" href="/testi/poe/atomized/the_gold_bug/part/part_07">part 07 ›</a></div>
 </nav>
 
+
+      getting him [[Home|home]]. While I was pondering upon what was best to be
+
+      done, Jupiter’s voice was again heard.
+
+
+
+      “Mos feerd for to ventur pon dis limb berry far—’tis dead limb
+
+      putty much all de way.”
+
+
+
+      “Did you say it was a dead limb, Jupiter?” cried Legrand in a
+
+      quavering voice.
+
+
+
+      “Yes, massa, him dead as de door-nail—done up for sartain—done
+
+      departed dis here life.”
+
+
+
+      “What in the name heaven shall I do?” asked Legrand, seemingly in
+
+      the greatest distress.
+
+
+
+      “Do!” said I, glad of an opportunity to interpose a word, “why
+
+      come [[Home|home]] and go to bed. Come now!—that’s a fine fellow. It’s
 
       getting late, and, besides, you remember your promise.”
 
@@ -247,23 +281,3 @@ tags:
       I would have had no hesitation in attempting to get the lunatic
 
       [[Home|home]] by force; but I was too [[Well|well]] assured of the old negro’s
-
-      disposition, to [[Hope|hope]] that he would assist me, under any
-
-      circumstances, in a personal contest with his master. I made no
-
-      [[Doubt|doubt]] that the latter had been infected with some of the
-
-      innumerable Southern superstitions about money buried, and that
-
-      his phantasy had received confirmation by the finding of the
-
-      _scarabæus_, or, perhaps, by Jupiter’s obstinacy in maintaining
-
-      it to be “a bug of real gold.” A mind disposed to lunacy would
-
-      readily be led away by such suggestions—especially if chiming in
-
-      with favorite preconceived ideas—and then I called to mind the
-
-      poor fellow’s speech about the beetle’s being “the index of his

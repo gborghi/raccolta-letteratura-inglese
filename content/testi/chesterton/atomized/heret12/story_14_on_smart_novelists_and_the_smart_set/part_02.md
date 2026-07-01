@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]] — On Smart Novelists and the Smart Set (part 2)"
+title: "heret12 — On Smart Novelists and the Smart Set (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/heret12-(chesterton)"

@@ -14,6 +14,34 @@ tags:
 </nav>
 
 
+      with a passion to discover. Those eyes! those large, those
+
+      shining, those divine orbs! they became to me twin [[Stars|stars]] of Leda,
+
+      and I to them devoutest of astrologers.
+
+
+
+      There is no point, among the many incomprehensible anomalies of
+
+      the science of mind, more thrillingly exciting than the
+
+      fact—never, I believe, noticed in the schools—that, in our
+
+      endeavors to recall to [[Memory|memory]] something long forgotten, we often
+
+      find ourselves upon the very verge of remembrance, without being
+
+      able, in the end, to remember. And thus how frequently, in my
+
+      intense scrutiny of Ligeia’s eyes, have I felt approaching the
+
+      full knowledge of their expression—felt it approaching—yet not
+
+      quite be mine—and so at length entirely depart! And (strange, oh
+
+      strangest mystery of all!) I found, in the commonest objects of
+
       the universe, a circle of analogies to that expression. I mean to
 
       say that, subsequently to the period when Ligeia’s [[Beauty|beauty]] passed
@@ -163,33 +191,3 @@ tags:
       letters, lambent and golden, grew duller than Saturnian lead. And
 
       now those eyes shone less and less frequently upon the pages over
-
-      which I pored. Ligeia grew ill. The wild eyes blazed with a
-
-      too—too glorious effulgence; the pale fingers became of the
-
-      transparent waxen hue of the [[Grave|grave]]; and the blue veins upon the
-
-      lofty forehead swelled and sank impetuously with the tides of the
-
-      gentle emotion. I saw that she must die—and I struggled
-
-      desperately in spirit with the grim Azrael. And the struggles of
-
-      the passionate wife were, to my astonishment, even more energetic
-
-      than my own. There had been much in her stern [[Nature|nature]] to impress
-
-      me with the belief that, to her, [[Death|death]] would have come without
-
-      its terrors; but not so. Words are impotent to convey any just
-
-      idea of the fierceness of resistance with which she wrestled with
-
-      the [[Shadow]]. I groaned in anguish at the pitiable spectacle. I
-
-      would have soothed—I would have reasoned; but, in the intensity
-
-      of her wild [[Desire|desire]] for life,—for life—but for life—solace and
-
-      reason were the uttermost folly. Yet not until the last instance,

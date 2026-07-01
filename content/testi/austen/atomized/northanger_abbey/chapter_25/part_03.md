@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 24 (part 3)"
+title: "Northanger Abbey — Chapter 24 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_25/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_26/part_01">part 01 ›</a></div>
 </nav>
 
+
+“No, and I am very much surprised. [[Isabella]] promised so faithfully to
+
+write directly.”
+
+
+
+“Promised so faithfully! a faithful promise! that puzzles me. I have
+
+heard of a faithful performance. But a faithful promise—the fidelity of
+
+promising! it is a power little worth knowing, however, since it can
 
 deceive and [[Pain|pain]] you. My mother’s room is very commodious, is it not?
 
@@ -92,7 +104,7 @@ disorder, Frederick and I (_we_ were both at [[Home|home]]) saw her repeatedly;
 
 and from our own observation can bear witness to her having received
 
-every possible attention which could [[spring]] from the affection of those
+every possible attention which could [[Spring|spring]] from the affection of those
 
 about her, or which her situation in life could command. Poor [[Eleanor]]
 

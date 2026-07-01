@@ -1,5 +1,5 @@
 ---
-title: "[[queertrades]] — Chapter 3 (part 6)"
+title: "queertrades — Chapter 3 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/queertrades-(chesterton)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/queertrades/story_03_chapter_3/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/queertrades/story_04_chapter_4/part_01">part 01 ›</a></div>
 </nav>
 
+
+"Your whiskers," he cried, advancing with blazing eyes.
+"Give me your whiskers.  And your bald head."
+
+The old vicar naturally retreated a step or two.  I stepped between.
+
+"Sit down, Basil," I implored, "you're a little excited.
+Finish your wine."
+
+"Whiskers," he answered sternly, "whiskers."
+
+And with that he made a dash at the old gentleman, who made a dash
+for the door, but was intercepted.  And then, before I knew where I
+was the quiet room was turned into something between a pantomime
+and a pandemonium by those two.  Chairs were flung over with a crash,
+tables were vaulted with a noise like thunder, screens were smashed,
+crockery scattered in smithereens, and still Basil Grant bounded
+and bellowed after the Rev. Ellis Shorter.
 
 And now I began to perceive something else, which added the last
 half-witted touch to my [[Mystification|mystification]].  The Rev. Ellis Shorter,
@@ -96,13 +114,13 @@ Basil smiled also.  He intervened.
 "The fact is that Captain Fraser, who is one of my best friends,
 wanted us both out of the way very much.  He is sailing tonight
 for East Africa, and the lady with whom we were all to have dined is--
-er--what is I believe described as `the [[Romance|romance]] of his life'.
+er--what is I believe described as `the romance of his life'.
 He wanted that two hours with her, and employed these two reverend
 gentlemen to detain us at our houses so as to let him have
 the field to himself."
 
 "And of course," said the late Mr Shorter apologetically to me, "as I
-had to keep a gentleman at [[Home|home]] from keeping an appointment with a lady,
+had to keep a gentleman at home from keeping an appointment with a lady,
 I had to come with something rather hot and strong--rather urgent.
 It wouldn't have done to be tame."
 
@@ -116,7 +134,7 @@ revealing close red hair, and spoke dreamily, perhaps under
 the influence of Basil's admirable Burgundy.
 
 "It's wonderful how common it's getting, gentlemen.
-Our office is busy from morning till [[Night|night]].  I've no [[Doubt|doubt]] you've
+Our office is busy from morning till night.  I've no doubt you've
 often knocked up against us before.  You just take notice.
 When an old bachelor goes on boring you with hunting stories,
 when you're burning to be introduced to somebody, he's from our bureau.

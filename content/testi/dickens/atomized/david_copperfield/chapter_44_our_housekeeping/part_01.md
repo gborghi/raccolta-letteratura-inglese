@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 44: OUR HOUSEKEEPING (part 1)"
+title: "David Copperfield — Chapter 44: OUR HOUSEKEEPING (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -143,11 +143,3 @@ me, or else you wouldn’t reason with me!’ returned Dora.
 
 I felt so injured by the inconsequential [[Nature|nature]] of this charge, that it
 gave me [[Courage|courage]] to be [[Grave|grave]].
-
-‘Now, my own Dora,’ said I, ‘you are very childish, and are talking
-nonsense. You must remember, I am sure, that I was obliged to go out
-yesterday when dinner was half over; and that, the day before, I was
-made quite unwell by being obliged to eat underdone veal in a hurry;
-today, I don’t dine at all--and I am afraid to say how long we waited
-for breakfast--and then the [[Water|water]] didn’t boil. I don’t mean to reproach
-you, my dear, but this is not comfortable.’

@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 48: FORTY EIGHT (part 6)"
+title: "Martin Chuzzlewit — Chapter 48: FORTY EIGHT (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,29 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_48_forty_eight/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_49_forty_nine/part_01">part 01 ›</a></div>
 </nav>
 
+
+With that he hung his head, and said no more, wasted and wretched, he
+was not a creature upon whom to heap reproaches that were unavailing.
+
+‘Let him remain at hand,’ said Martin, turning from him; ‘but out of
+sight, in Heaven’s name!’
+
+‘He will remain here,’ John whispered. ‘Come with me!’ Softly turning
+the key upon him as they went out, he conducted Martin into the
+adjoining room, in which they had been before.
+
+Martin was so amazed, so shocked, and confounded by what he had heard
+that it was some [[Time|time]] before he could reduce it to any order in his
+mind, or could sufficiently comprehend the bearing of one part upon
+another, to take in all the details at one view. When he, at length, had
+the whole narrative clearly before him, John Westlock went on to point
+out the great probability of the [[Guilt|guilt]] of Jonas being known to other
+people, who traded in it for their own benefit, and who were, by
+such means, able to exert that control over him which [[Tom Pinch]] had
+accidentally witnessed, and unconsciously assisted. This appeared so
+plain, that they agreed upon it without difficulty; but instead of
+deriving the least assistance from this source, they found that it
+embarrassed them the more.
 
 They knew nothing of the real parties who possessed this power. The only
 person before them was Tom’s landlord. They had no right to question

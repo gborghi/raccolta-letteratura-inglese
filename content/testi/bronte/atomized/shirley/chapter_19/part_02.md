@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 19 (part 2)"
+title: "Shirley — Chapter 19 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_19/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_19/part_03">part 03 ›</a></div>
 </nav>
 
+
+my arm to strike [[Home|home]] with this long knife."
+
+
+
+"I should hate to do it," replied [[Shirley]], "but I think I could do it,
+
+if goaded by certain exigencies which I can imagine." And Miss Keeldar
+
+quietly sipped her glass of new milk, looking somewhat thoughtful and a
+
+little pale; though, indeed, when did she not look pale? She was never
+
+florid.
+
+
+
+The milk sipped and the bread eaten, Fanny was again summoned. She and
 
 Eliza were recommended to go to bed, which they were quite willing to
 
@@ -261,47 +279,3 @@ parson?"
 "If I were ordered to do his job--and he desarves it--I'd try yond' long
 
 [[Window|window]]; it opens to the dining-room. I could grope my way upstairs, and
-
-I know his chamber."
-
-
-
-"How would you manage about the women folk?"
-
-
-
-"Let 'em [[Alone|alone]] except they shrieked, and then I'd soon quieten 'em. I
-
-could wish to find the old chap asleep. If he waked, he'd be dangerous."
-
-
-
-"Has he arms?"
-
-
-
-"Firearms, allus--and allus loadened."
-
-
-
-"Then you're a [[Fool|fool]] to stop us here. A shot would give the alarm. Moore
-
-would be on us before we could turn round. We should miss our main
-
-object."
-
-
-
-"You might go on, I tell you. I'd engage Helstone [[Alone|alone]]."
-
-
-
-A pause. One of the party dropped some weapon, which rang on the stone
-
-causeway. At this sound the rectory dog barked again
-
-furiously--fiercely.
-
-
-
-"That spoils all!" said the voice. "He'll awake. A noise like that might

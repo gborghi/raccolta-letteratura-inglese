@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 35 (part 3)"
+title: "Bleak House — Chapter 35 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_35/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_35/part_04">part 04 ›</a></div>
 </nav>
 
+
+“But, guardian, may we not [[Hope|hope]] that a little experience will teach
+him what a false and wretched thing it is?”
 
 “We WILL [[Hope|hope]] so, my Esther,” said Mr. Jarndyce, “and that it may not
 teach him so too late. In any case we must not be hard on him. There
@@ -116,17 +119,11 @@ We arranged a [[Time|time]] for Miss Flite to come out by the coach and share
 my early dinner. When my guardian left me, I turned my face away upon
 my couch and prayed to be forgiven if I, surrounded by such
 blessings, had magnified to myself the little trial that I had to
-undergo. The childish [[Prayer|prayer]] of that old birthday when I had aspired
+undergo. The childish [[prayer]] of that old birthday when I had aspired
 to be industrious, contented, and true-hearted and to do good to some
 one and win some [[Love|love]] to myself if I could came back into my mind
 with a reproachful sense of all the happiness I had since enjoyed and
 all the affectionate hearts that had been turned towards me. If I
 were weak now, what had I profited by those mercies? I repeated the
-old childish [[Prayer|prayer]] in its old childish words and found that its old
+old childish [[prayer]] in its old childish words and found that its old
 peace had not departed from it.
-
-My guardian now came every day. In a week or so more I could walk
-about our rooms and hold long talks with Ada from behind the
-[[Window|window]]-curtain. Yet I never saw her, for I had not as yet the [[Courage|courage]]
-to look at the dear face, though I could have done so easily without
-her seeing me.

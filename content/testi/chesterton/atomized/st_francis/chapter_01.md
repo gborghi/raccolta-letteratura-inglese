@@ -16,10 +16,7 @@ tags:
 
 CHAPTER I
 
-
-
 THE PROBLEM OF ST.  FRANCIS
-
 
 A [[Sketch|sketch]] of St. Francis of Assisi in modern English may be written
 in one of three ways.  Between these the writer must make his selection;

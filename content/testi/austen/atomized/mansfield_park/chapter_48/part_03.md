@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 48 (part 3)"
+title: "Mansfield Park — Chapter 48 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -108,15 +108,3 @@ any one who could satisfy the better taste she had acquired at
 Mansfield, whose character and manners could authorise a [[Hope|hope]] of the
 domestic happiness she had there learned to estimate, or put [[Edmund]]
 [[Bertram]] sufficiently out of her head.
-
-[[Edmund]] had greatly the advantage of her in this respect. He had not to
-wait and wish with vacant affections for an object worthy to succeed
-her in them. Scarcely had he done regretting [[Mary Crawford]], and
-observing to Fanny how impossible it was that he should ever meet with
-such another woman, before it began to strike him whether a very
-different kind of woman might not do just as [[Well|well]], or a great deal
-better: whether Fanny herself were not growing as dear, as important to
-him in all her smiles and all her ways, as [[Mary Crawford]] had ever been;
-and whether it might not be a possible, a hopeful undertaking to
-persuade her that her warm and sisterly regard for him would be
-foundation enough for wedded [[Love|love]].

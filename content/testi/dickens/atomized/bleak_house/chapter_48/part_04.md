@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 48 (part 4)"
+title: "Bleak House — Chapter 48 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -134,11 +134,3 @@ midnight, that even he is driven upon breaking [[Silence|silence]].
 remains, but it is business. Our agreement is broken. A lady of your
 sense and strength of character will be prepared for my now declaring
 it void and taking my own course.”
-
-“I am quite prepared.”
-
-Mr. Tulkinghorn inclines his head. “That is all I have to trouble you
-with, [[Lady Dedlock]].”
-
-She stops him as he is moving out of the room by asking, “This is the
-notice I was to receive? I wish not to misapprehend you.”

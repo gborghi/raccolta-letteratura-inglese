@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 10 (part 4)"
+title: "Shirley — Chapter 10 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,32 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_10/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_10/part_05">part 05 ›</a></div>
 </nav>
 
+
+Robert does not care for me, I shall never have a husband to [[Love|love]], nor
+
+little children to take care of. Till lately I had reckoned securely on
+
+the duties and affections of wife and mother to occupy my existence. I
+
+considered, somehow, as a matter of course, that I was growing up to the
+
+ordinary destiny, and never troubled myself to seek any other; but now I
+
+perceive plainly I may have been mistaken. Probably I shall be an old
+
+maid. I shall live to see Robert married to some one else, some rich
+
+lady. I shall never marry. What was I created for, I [[Wonder|wonder]]? Where is my
+
+place in the world?"
+
+
+
+She mused again.
+
+
+
+"Ah! I see," she pursued presently; "that is the question which most old
 
 maids are puzzled to solve. Other people solve it for them by saying,
 
@@ -201,31 +227,3 @@ Caroline looked at the little [[Mirror|mirror]] before her, and she thought ther
 were some signs. She could see that she was altered within the last
 
 month; that the hues of her complexion were paler, her eyes changed--a
-
-wan shade seemed to circle them; her countenance was dejected--she was
-
-not, in short, so pretty or so fresh as she used to be. She distantly
-
-hinted this to Fanny, from whom she got no direct answer, only a remark
-
-that people did vary in their looks, but that at her age a little
-
-falling away signified nothing; she would soon come round again, and be
-
-plumper and rosier than ever. Having given this assurance, Fanny showed
-
-singular zeal in wrapping her up in warm shawls and handkerchiefs, till
-
-Caroline, nearly smothered with the weight, was fain to resist further
-
-additions.
-
-
-
-She paid her visits--first to Miss Mann, for this was the most difficult
-
-point. Miss Mann was certainly not quite a lovable person. Till now,
-
-Caroline had always unhesitatingly declared she disliked her, and more
-
-than once she had joined her cousin Robert in laughing at some of her

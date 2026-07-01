@@ -1,5 +1,5 @@
 ---
-title: "[[Shaw]] — THE DRAMATIST (part 6)"
+title: "Shaw — THE DRAMATIST (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/shaw-(chesterton)"
@@ -13,6 +13,25 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/shaw/story_07_the_dramatist/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/shaw/story_07_the_dramatist/part_07">part 07 ›</a></div>
 </nav>
 
+
+But I have only dwelt on this particular fighting phase because it
+[[Leaves|leaves]] us facing the ultimate characteristics which I mentioned first.
+Bernard [[Shaw]] cares nothing for art; in comparison with morals,
+literally nothing.  Bernard [[Shaw]] is a Puritan and his work is
+Puritan work.  He has all the essentials of the old, virile and
+extinct Protestant type.  In his work he is as ugly as a Puritan.
+He is as indecent as a Puritan.  He is as full of gross words
+and sensual facts as a sermon of the seventeenth century.
+Up to this point of his life indeed hardly anyone would have dreamed
+of calling him a Puritan; he was called sometimes an anarchist,
+sometimes a buffoon, sometimes (by the more discerning stupid people)
+a prig.  His attitude towards current problems was felt to be
+arresting and even indecent; I do not think that anyone thought
+of connecting it with the old Calvinistic [[morality]].  But [[Shaw]],
+who knew better than the Shavians, was at this moment on the very eve
+of confessing his moral origin.  The next book of plays he produced
+(including THE DEVIL'S DISCIPLE, CAPTAIN BRASSBOUND'S [[conversion|CONVERSION]],
+and CAESAR AND [[Cleopatra|CLEOPATRA]]), actually bore the title of PLAYS FOR PURITANS.
 
 The play called THE DEVIL'S DISCIPLE has great merits,
 but the merits are incidental.  Some of its jokes are serious
@@ -99,50 +118,3 @@ a corner of Europe that he could for a long [[Time|time]] suppose
 that this [[Puritanism]] was current among Christian men.
 The question, however, need not detain us, for the batch of plays
 contained two others about which it is easier to speak.
-
-The third play in order in the series called PLAYS FOR PURITANS
-is a very charming one; CAPTAIN BRASSBOUND'S [[conversion|CONVERSION]].
-This also turns, as does so much of the Caesar drama, on the idea
-of [[Vanity|vanity]] of [[Revenge|revenge]]--the idea that it is too slight and silly
-a thing for a man to allow to occupy and corrupt his consciousness.
-It is not, of course, the [[morality]] that is new here,
-but the touch of cold laughter in the core of the [[morality]].
-Many saints and sages have denounced vengeance.
-But they treated vengeance as something too great for man.
-"Vengeance is Mine, saith the Lord; I will repay."
-[[Shaw]] treats vengeance as something too small for man--
-a monkey trick he ought to have outlived, a childish
-[[Storm|storm]] of [[Tears|tears]] which he ought to be able to control.
-In the story in question Captain Brassbound has nourished
-through his whole erratic existence, racketting about
-all the unsavoury parts of Africa--a mission of private
-punishment which appears to him as a mission of holy justice.
-His mother has died in consequence of a judge's decision,
-and Brassbound roams and schemes until the judge falls into
-his hands.  Then a pleasant society lady, Lady Cicely Waynefleet
-tells him in an easy conversational undertone--a rivulet
-of speech which ripples while she is [[mending]] his coat--
-that he is making a [[Fool|fool]] of himself, that his wrong is irrelevant,
-that his vengeance is objectless, that he would be much
-better if he flung his morbid fancy away for ever; in short,
-she tells him he is ruining himself for the sake of ruining
-a total stranger.  Here again we have the note of the economist,
-the hatred of mere loss.  [[Shaw]] (one might almost say)
-dislikes murder, not so much because it wastes the life
-of the corpse as because it wastes the [[Time|time]] of the murderer.
-If he were endeavouring to persuade one of his [[Moon|moon]]-lighting
-fellow-countrymen not to shoot his landlord, I can imagine him
-explaining with benevolent emphasis that it was not so much
-a question of losing a life as of throwing away a bullet.
-But indeed the Irish comparison [[Alone|alone]] suggests a [[Doubt|doubt]] which
-wriggles in the recesses of my mind about the complete reliability
-of the [[philosophy]] of Lady Cicely Waynefleet, the complete
-finality of the moral of CAPTAIN BRASSBOUND'S [[conversion|CONVERSION]].
-Of course, it was very natural in an [[aristocrat]] like
-Lady Cicely Waynefleet to wish to let sleeping [[dogs]] lie,
-especially those whom Mr. Blatchford calls under-[[dogs]]. Of
-course it was natural for her to wish everything to be smooth
-and sweet-tempered. But I have the obstinate question in
-the corner of my brain, whether if a few Captain Brassbounds
-did [[Revenge|revenge]] themselves on judges, the quality of our judges
-might not materially improve.

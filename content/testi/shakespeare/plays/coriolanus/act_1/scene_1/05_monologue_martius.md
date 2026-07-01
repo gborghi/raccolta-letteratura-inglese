@@ -1,5 +1,5 @@
 ---
-title: "[[Coriolanus]] — Act I, Scene 1 — monologue (MARTIUS) [5]"
+title: "Coriolanus — Act I, Scene 1 — monologue (MARTIUS) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/coriolanus-(shakespeare)"

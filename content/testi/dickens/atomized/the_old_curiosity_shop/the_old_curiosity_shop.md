@@ -7203,7 +7203,7 @@ she ought to say or do, as Kit could possibly be.  When he had sat for
 some little [[Time|time]], attentive to the ticking of the sober [[Clock|clock]], he
 ventured to glance curiously at the dresser, and there, among the
 plates and dishes, were Barbara’s little work-box with a sliding lid to
-shut in the balls of cotton, and Barbara’s [[Prayer|prayer]]-book, and Barbara’s
+shut in the balls of cotton, and Barbara’s [[prayer]]-book, and Barbara’s
 [[Hymn|hymn]]-book, and Barbara’s [[Bible]].  Barbara’s little looking-glass hung in
 a good light near the [[Window|window]], and Barbara’s bonnet was on a nail behind
 the door.  From all these mute signs and tokens of her presence, he
@@ -7829,7 +7829,7 @@ was nothing to be heard but the ticking of an old [[Clock|clock]], and the
 whistling of the [[Wind|wind]] among the trees.  When he returned, he took his
 seat in the chimney corner, but remained silent for a long [[Time|time]].  At
 length he turned to her, and speaking very gently, hoped she would say
-a [[Prayer|prayer]] that [[Night|night]] for a sick [[Child|child]].
+a [[prayer]] that [[Night|night]] for a sick [[Child|child]].
 
 ‘My favourite scholar!’ said the poor schoolmaster, smoking a pipe he
 had forgotten to light, and looking mournfully round upon the walls.
@@ -14247,7 +14247,7 @@ quiet, nor signs of blessed [[Sleep|sleep]]--who shall tell the terrors of the
 [[Night|night]] to the young wandering [[Child|child]]!
 
 And yet she lay down, with nothing between her and the sky; and, with
-no [[Fear|fear]] for herself, for she was past it now, put up a [[Prayer|prayer]] for the
+no [[Fear|fear]] for herself, for she was past it now, put up a [[prayer]] for the
 poor old man.  So very weak and spent, she felt, so very calm and
 unresisting, that she had no thought of any wants of her own, but
 prayed that God would raise up some friend for him.  She tried to

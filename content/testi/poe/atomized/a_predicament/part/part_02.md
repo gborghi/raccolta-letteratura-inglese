@@ -1,5 +1,5 @@
 ---
-title: "[[A Predicament]] (part 2)"
+title: "A Predicament (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/a-predicament-(poe)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/a_predicament/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/a_predicament/part/part_03">part 03 ›</a></div>
 </nav>
 
+
+      also in a metaphysical point of view, to be passed over without
+
+      notice. It appeared to me—indeed I was quite confident of the
 
       fact—I could not be mistaken—no! I had, for some moments,
 
@@ -191,11 +195,3 @@ tags:
       delicate architecture of the steeple. I observed that the
 
       aperture through which I had thrust my head was an opening in the
-
-      dial-plate of a gigantic [[Clock|clock]], and must have appeared, from the
-
-      street, as a large key-hole, such as we see in the face of the
-
-      French watches. No [[Doubt|doubt]] the true object was to admit the arm of
-
-      an attendant, to adjust, when necessary, the hands of the [[Clock|clock]]

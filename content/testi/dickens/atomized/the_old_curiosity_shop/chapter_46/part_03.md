@@ -10,9 +10,32 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/the-old-curiosity-shop-(dickens)">The Old Curiosity Shop</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_old_curiosity_shop/chapter_46/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/the_old_curiosity_shop/chapter_47/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_old_curiosity_shop/chapter_46/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/the_old_curiosity_shop/chapter_46/part_04">part 04 ›</a></div>
 </nav>
 
+
+What a soothing, luxurious, drowsy way of travelling, to lie inside
+that slowly-moving mountain, listening to the tinkling of the horses’
+[[Bells|bells]], the occasional smacking of the carter’s whip, the smooth [[rolling]]
+of the great broad wheels, the rattle of the harness, the cheery
+good-nights of passing travellers jogging past on little short-stepped
+horses--all made pleasantly indistinct by the thick awning, which
+seemed made for lazy listening under, till one fell asleep!  The very
+going to [[Sleep|sleep]], still with an indistinct idea, as the head jogged to
+and fro upon the pillow, of moving onward with no trouble or fatigue,
+and hearing all these sounds like dreamy music, lulling to the
+senses--and the slow waking up, and finding one’s [[Self|self]] staring out
+through the breezy curtain half-opened in the front, far up into the
+cold bright sky with its countless [[Stars|stars]], and downward at the driver’s
+lantern dancing on like its namesake Jack of the swamps and marshes,
+and sideways at the dark grim trees, and forward at the long bare [[Road|road]]
+rising up, up, up, until it stopped abruptly at a sharp high ridge as
+if there were no more [[Road|road]], and all beyond was sky--and the stopping at
+the inn to bait, and being helped out, and going into a room with [[Fire|fire]]
+and candles, and winking very much, and being agreeably reminded that
+the [[Night|night]] was cold, and anxious for very comfort’s sake to think it
+colder than it was!--What a delicious [[Journey|journey]] was that [[Journey|journey]] in the
+waggon.
 
 Then the going on again--so fresh at first, and shortly afterwards so
 sleepy.  The waking from a sound nap as the mail came dashing past like
@@ -83,44 +106,3 @@ indeed, but not more beautiful than this sweet reality--had been always
 present to her mind.  They had seemed to melt into a dim and airy
 distance, as the prospect of ever beholding them again grew fainter;
 but, as they receded, she had loved and panted for them more.
-
-‘I must leave you somewhere for a few minutes,’ said the schoolmaster,
-at length breaking the [[Silence|silence]] into which they had fallen in their
-gladness.  ‘I have a letter to present, and inquiries to make, you
-know.  Where shall I take you?  To the little inn yonder?’
-
-‘Let us wait here,’ rejoined Nell.  ‘The gate is open.  We will sit in
-the church porch till you come back.’
-
-‘A good place too,’ said the schoolmaster, leading the way towards it,
-disencumbering himself of his portmanteau, and placing it on the stone
-seat.  ‘Be sure that I come back with good news, and am not long gone!’
-
-So, the happy schoolmaster put on a bran-new pair of gloves which he
-had carried in a little parcel in his pocket all the way, and hurried
-off, full of ardour and excitement.
-
-The [[Child|child]] watched him from the porch until the intervening foliage hid
-him from her view, and then stepped softly out into the old
-churchyard--so solemn and quiet that every rustle of her dress upon the
-fallen [[Leaves|leaves]], which strewed the path and made her footsteps noiseless,
-seemed an invasion of its [[Silence|silence]].  It was a very aged, ghostly place;
-the church had been built many hundreds of years ago, and had once had
-a convent or monastery attached; for arches in ruins, remains of oriel
-windows, and fragments of blackened walls, were yet standing; while
-other portions of the old building, which had crumbled away and fallen
-down, were mingled with the churchyard earth and overgrown with grass,
-as if they too claimed a burying-place and sought to mix their ashes
-with the [[Dust|dust]] of men.  Hard by these gravestones of dead years, and
-forming a part of the ruin which some pains had been taken to render
-habitable in modern times, were two small dwellings with sunken windows
-and oaken doors, fast hastening to [[Decay|decay]], empty and desolate.
-
-Upon these tenements, the attention of the [[Child|child]] became exclusively
-riveted.  She knew not why.  The church, the ruin, the antiquated
-graves, had equal claims at least upon a stranger’s thoughts, but from
-the moment when her eyes first rested on these two dwellings, she could
-turn to nothing else.  Even when she had made the circuit of the
-enclosure, and, returning to the porch, sat pensively waiting for their
-friend, she took her station where she could still look upon them, and
-felt as if fascinated towards that spot.

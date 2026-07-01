@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 7 (part 2)"
+title: "thursday — Chapter 7 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_07/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_07/part_03">part 03 ›</a></div>
 </nav>
 
+
+[[Snow]], however, began to thicken and fall fast; and Syme,
+having found one glance at the wax lady quite sufficient to depress
+his spirits, stared out instead into the white and empty street.
+He was considerably astonished to see, standing quite still
+outside the shop and staring into the [[Window|window]], a man.
+His top hat was loaded with [[Snow|snow]] like the hat of Father Christmas,
+the white drift was rising round his boots and ankles;
+but it seemed as if nothing could tear him away from the
+contemplation of the colourless wax doll in dirty evening dress.
+That any human being should stand in such weather looking
+into such a shop was a matter of sufficient [[Wonder|wonder]] to Syme;
+but his idle [[Wonder|wonder]] turned suddenly into a personal shock;
+for he realised that the man standing there was the paralytic old
+Professor de Worms.  It scarcely seemed the place for a person
+of his years and infirmities.
 
 Syme was ready to believe anything about the perversions of this
 dehumanized brotherhood; but even he could not believe that
@@ -101,33 +117,3 @@ and under the [[Shadow|shadow]] of its brim the short-sighted face and shaky
 shoulders of Professor de Worms.  He let himself into a seat
 with characteristic care, and wrapped himself up to the chin
 in the mackintosh rug.
-
-Every movement of the old man's tottering figure and vague hands, every
-uncertain gesture and panic-stricken pause, seemed to put it beyond question
-that he was helpless, that he was in the last imbecility of the [[Body|body]].
-He moved by inches, he let himself down with little gasps of caution.
-And yet, unless the philosophical entities called [[Time|time]] and space have no
-vestige even of a practical existence, it appeared quite unquestionable
-that he had run after the omnibus.
-
-Syme sprang erect upon the rocking car, and after staring wildly at
-the wintry sky, that grew gloomier every moment, he ran down the steps.
-He had repressed an elemental impulse to leap over the side.
-
-Too bewildered to look back or to reason, he rushed into one of the little
-courts at the side of Fleet Street as a rabbit rushes into a hole.
-He had a vague idea, if this incomprehensible old Jack-in-the-box was
-really pursuing him, that in that labyrinth of little streets he could
-soon throw him off the scent.  He dived in and out of those crooked lanes,
-which were more like cracks than thoroughfares; and by the [[Time|time]]
-that he had completed about twenty alternate angles and described
-an unthinkable polygon, he paused to listen for any sound of pursuit.
-There was none; there could not in any case have been much, for the
-little streets were thick with the soundless [[Snow|snow]].  Somewhere behind
-Red [[Lion]] [[Court]], however, he noticed a place where some energetic
-citizen had cleared away the [[Snow|snow]] for a space of about twenty yards,
-leaving the wet, glistening cobble-stones. He thought little of this
-as he passed it, only plunging into yet another arm of the maze.
-But when a few hundred yards farther on he stood still again to listen,
-his heart stood still also, for he heard from that space of rugged
-stones the clinking crutch and labouring feet of the infernal cripple.

@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 20 (part 2)"
+title: "Northanger Abbey — Chapter 20 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -13,6 +13,8 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_21/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_21/part_03">part 03 ›</a></div>
 </nav>
 
+
+its having stopped two hours at Petty France. Half the [[Time|time]] would have
 
 been enough for the curricle, and so nimbly were the light horses
 
@@ -219,15 +221,3 @@ appear—which door, being only secured by massy bars and a padlock, you
 will, after a few efforts, succeed in opening—and, with your lamp in
 
 your hand, will pass through it into a small vaulted room.”
-
-
-
-“No, indeed; I should be too much frightened to do any such thing.”
-
-
-
-“What! not when Dorothy has given you to understand that there is a
-
-secret subterraneous communication between your apartment and the
-
-chapel of St. Anthony, scarcely two miles off. Could you shrink from so

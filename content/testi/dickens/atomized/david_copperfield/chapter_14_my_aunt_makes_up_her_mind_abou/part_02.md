@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 14: MY AUNT MAKES UP HER MIND ABOUT ME (part 2)"
+title: "David Copperfield — Chapter 14: MY AUNT MAKES UP HER MIND ABOUT ME (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -146,10 +146,3 @@ way. I am aware of that; and that’s the reason why I insist upon it,
 that there shan’t be a word about it in his Memorial.’
 
 ‘Is it a Memorial about his own [[history]] that he is writing, aunt?’
-
-‘Yes, [[Child|child]],’ said my aunt, rubbing her nose again. ‘He is memorializing
-the Lord Chancellor, or the Lord Somebody or other--one of those people,
-at all events, who are paid to be memorialized--about his affairs. I
-suppose it will go in, one of these days. He hasn’t been able to draw
-it up yet, without introducing that mode of expressing himself; but it
-don’t signify; it keeps him employed.’

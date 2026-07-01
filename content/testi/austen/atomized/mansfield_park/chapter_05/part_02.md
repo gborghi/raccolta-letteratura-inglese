@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 5 (part 2)"
+title: "Mansfield Park — Chapter 5 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/mansfield_park/chapter_05/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/mansfield_park/chapter_05/part_03">part 03 ›</a></div>
 </nav>
 
+
+The Crawfords, without wanting to be cured, were very willing to stay.
+Mary was satisfied with the Parsonage as a present [[Home|home]], and Henry
+equally ready to lengthen his visit. He had come, intending to spend
+only a few days with them; but Mansfield promised [[Well|well]], and there was
+nothing to call him elsewhere. It delighted Mrs. Grant to keep them
+both with her, and Dr. Grant was exceedingly [[Well|well]] contented to have it
+so: a talking pretty young woman like Miss Crawford is always pleasant
+society to an indolent, stay-at-[[Home|home]] man; and Mr. Crawford’s being his
+guest was an excuse for drinking claret every day.
 
 The Miss Bertrams’ admiration of Mr. Crawford was more rapturous than
 anything which Miss Crawford’s habits made her likely to feel. She
@@ -111,9 +121,3 @@ me, claimed me as an acquaintance, stared me out of countenance; and
 talked and laughed till I did not know which way to look. I felt that I
 must be the jest of the room at the [[Time|time]], and Miss Crawford, it is
 plain, has heard the story.”
-
-“And a very pretty story it is, and with more [[Truth|truth]] in it, I dare say,
-than does credit to Miss Anderson. It is too common a fault. Mothers
-certainly have not yet got quite the right way of managing their
-daughters. I do not know where the error lies. I do not pretend to set
-people right, but I do see that they are often wrong.”

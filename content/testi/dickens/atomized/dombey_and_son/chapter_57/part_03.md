@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 1 (part 3)"
+title: "Dombey and Son — Chapter 29 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,120 +14,105 @@ tags:
 </nav>
 
 
-His meditations on the subject were soon interrupted, first by the
-rustling of garments on the staircase, and then by the sudden whisking
-into the room of a lady rather past the middle age than otherwise but
-dressed in a very juvenile manner, particularly as to the tightness of
-her bodice, who, running up to him with a kind of screw in her face and
-carriage, expressive of suppressed emotion, flung her arms around his
-neck, and said, in a choking voice,
+“When I speak, Lucretia, of her being worthy of the name, I speak of my
+brother Paul’s second wife. I believe I have already said, in effect,
+if not in the very words I now use, that it is his intention to marry a
+second wife.”
 
-“My dear Paul! He’s quite a Dombey!”
+Miss Tox left her seat in a hurry, and returned to her plants; clipping
+among the stems and [[Leaves|leaves]], with as little favour as a barber working
+at so many pauper heads of hair.
 
-“[[Well]], [[Well|well]]!” returned her brother—for Mr Dombey was her brother—“I
-think he is like the family. Don’t agitate yourself, Louisa.”
+“Whether she will be fully sensible of the distinction conferred upon
+her,” said Mrs Chick, in a lofty tone, “is quite another question. I
+[[Hope|hope]] she may be. We are bound to think [[Well|well]] of one another in this
+world, and I [[Hope|hope]] she may be. I have not been advised with myself. If I
+had been advised with, I have no [[Doubt|doubt]] my advice would have been
+cavalierly received, and therefore it is infinitely better as it is. I
+much prefer it as it is.”
 
-“It’s very foolish of me,” said Louisa, sitting down, and taking out
-her pocket-handkerchief, “but he’s—he’s such a perfect Dombey!”
+Miss Tox, with head bent down, still clipped among the plants. Mrs
+Chick, with energetic shakings of her own head from [[Time|time]] to [[Time|time]],
+continued to hold forth, as if in defiance of somebody.
 
-Mr Dombey coughed.
+“If my brother Paul had consulted with me, which he sometimes does—or
+rather, sometimes used to do; for he will naturally do that no more
+now, and this is a circumstance which I regard as a relief from
+responsibility,” said Mrs Chick, hysterically, “for I thank Heaven I am
+not jealous—” here Mrs Chick again shed [[Tears|tears]]: “if my brother Paul had
+come to me, and had said, ‘Louisa, what kind of qualities would you
+advise me to look out for, in a wife?’ I should certainly have
+answered, ‘Paul, you must have family, you must have [[Beauty|beauty]], you must
+have dignity, you must have connexion.’ Those are the words I should
+have used. You might have led me to the block immediately afterwards,”
+said Mrs Chick, as if that consequence were highly probable, “but I
+should have used them. I should have said, ‘Paul! You to marry a second
+[[Time|time]] without family! You to marry without [[Beauty|beauty]]! You to marry without
+dignity! You to marry without connexion! There is nobody in the world,
+not mad, who could dream of daring to entertain such a preposterous
+idea!’”
 
-“It’s so extraordinary,” said Louisa; smiling through her [[Tears|tears]], which
-indeed were not overpowering, “as to be perfectly ridiculous. So
-completely our family. _I_ never saw anything like it in my life!”
+Miss Tox stopped clipping; and with her head among the plants, listened
+attentively. Perhaps Miss Tox thought there was [[Hope|hope]] in this exordium,
+and the warmth of Mrs Chick.
 
-“But what is this about Fanny, herself?” said Mr Dombey. “How is
-Fanny?”
+“I should have adopted this course of argument,” pursued the discreet
+lady, “because I trust I am not a [[Fool|fool]]. I make no claim to be
+considered a person of superior intellect—though I believe some people
+have been extraordinary enough to consider me so; one so little
+humoured as I am, would very soon be disabused of any such notion; but
+I trust I am not a downright [[Fool|fool]]. And to tell ME,” said Mrs Chick with
+ineffable disdain, “that my brother [[Paul Dombey]] could ever contemplate
+the possibility of uniting himself to anybody—I don’t care who”—she was
+more sharp and emphatic in that short clause than in any other part of
+her discourse—“not possessing these requisites, would be to insult what
+understanding I have got, as much as if I was to be told that I was
+born and bred an elephant, which I may be told next,” said Mrs Chick,
+with [[Resignation|resignation]]. “It wouldn’t surprise me at all. I expect it.”
 
-“My dear Paul,” returned Louisa, “it’s nothing whatever. Take my word,
-it’s nothing whatever. There is exhaustion, certainly, but nothing like
-what I underwent myself, either with George or Frederick. An effort is
-necessary. That’s all. If dear Fanny were a Dombey!—But I daresay
-she’ll make it; I have no [[Doubt|doubt]] she’ll make it. Knowing it to be
-required of her, as a duty, of course she’ll make it. My dear Paul,
-it’s very weak and silly of me, I know, to be so trembly and shaky from
-head to foot; but I am so very queer that I must ask you for a glass of
-wine and a morsel of that cake.”
+In the moment’s [[Silence|silence]] that ensued, Miss Tox’s scissors gave a feeble
+clip or two; but Miss Tox’s face was still invisible, and Miss Tox’s
+morning gown was agitated. Mrs Chick looked sideways at her, through
+the intervening plants, and went on to say, in a tone of bland
+conviction, and as one dwelling on a point of fact that hardly required
+to be stated:
 
-Mr Dombey promptly supplied her with these refreshments from a tray on
-the table.
+“Therefore, of course my brother Paul has done what was to be expected
+of him, and what anybody might have foreseen he would do, if he entered
+the [[Marriage|marriage]] state again. I confess it takes me rather by surprise,
+however gratifying; because when Paul went out of town I had no idea at
+all that he would form any attachment out of town, and he certainly had
+no attachment when he left here. However, it seems to be extremely
+desirable in every point of view. I have no [[Doubt|doubt]] the mother is a most
+genteel and elegant creature, and I have no right whatever to dispute
+the policy of her living with them: which is Paul’s affair, not
+mine—and as to Paul’s choice, herself, I have only seen her picture
+yet, but that is beautiful indeed. Her name is beautiful too,” said Mrs
+Chick, shaking her head with energy, and arranging herself in her
+chair; “Edith is at once uncommon, as it strikes me, and distinguished.
+Consequently, Lucretia, I have no [[Doubt|doubt]] you will be happy to hear that
+the [[Marriage|marriage]] is to take place immediately—of course, you will:” great
+emphasis again: “and that you are delighted with this change in the
+condition of my brother, who has shown you a great deal of pleasant
+attention at various times.”
 
-“I shall not drink my [[Love|love]] to you, Paul,” said Louisa: “I shall drink
-to the little Dombey. Good gracious me!—it’s the most astonishing thing
-I ever knew in all my days, he’s such a perfect Dombey.”
+Miss Tox made no verbal answer, but took up the little watering-pot
+with a trembling hand, and looked vacantly round as if considering what
+article of furniture would be improved by the contents. The room door
+opening at this crisis of Miss Tox’s feelings, she started, laughed
+aloud, and fell into the arms of the person entering; happily
+insensible alike of Mrs Chick’s indignant countenance and of the Major
+at his [[Window|window]] over the way, who had his [[Double|double]]-barrelled eye-glass in
+full action, and whose face and figure were dilated with
+Mephistophelean joy.
 
-Quenching this expression of opinion in a short hysterical laugh which
-terminated in [[Tears|tears]], Louisa cast up her eyes, and emptied her glass.
-
-“I know it’s very weak and silly of me,” she repeated, “to be so
-trembly and shaky from head to foot, and to allow my feelings so
-completely to get the better of me, but I cannot help it. I thought I
-should have fallen out of the staircase [[Window|window]] as I came down from
-seeing dear Fanny, and that tiddy ickle sing.” These last words
-originated in a sudden vivid reminiscence of the baby.
-
-They were succeeded by a gentle tap at the door.
-
-“Mrs Chick,” said a very bland female voice outside, “how are you now,
-my dear friend?”
-
-“My dear Paul,” said Louisa in a low voice, as she [[Rose|rose]] from her seat,
-“it’s Miss Tox. The kindest creature! I never could have got here
-without her! Miss Tox, my brother Mr Dombey. Paul, my dear, my very
-particular friend Miss Tox.”
-
-The lady thus specially presented, was a long lean figure, wearing such
-a faded air that she seemed not to have been made in what linen-drapers
-call “fast colours” originally, and to have, by little and little,
-washed out. But for this she might have been described as the very pink
-of general propitiation and politeness. From a long habit of listening
-admiringly to everything that was said in her presence, and looking at
-the speakers as if she were mentally engaged in taking off impressions
-of their images upon her [[Soul|soul]], never to part with the same but with
-life, her head had quite settled on one side. Her hands had contracted
-a spasmodic habit of raising themselves of their own accord as in
-involuntary admiration. Her eyes were liable to a similar affection.
-She had the softest voice that ever was heard; and her nose,
-stupendously aquiline, had a little knob in the very centre or
-key-stone of the bridge, whence it tended downwards towards her face,
-as in an invincible determination never to turn up at anything.
-
-Miss Tox’s dress, though perfectly genteel and good, had a certain
-character of angularity and scantiness. She was accustomed to wear odd
-weedy little [[Flowers|flowers]] in her bonnets and caps. Strange grasses were
-sometimes perceived in her hair; and it was observed by the curious, of
-all her collars, frills, tuckers, wristbands, and other gossamer
-articles—indeed of everything she wore which had two ends to it
-intended to unite—that the two ends were never on good terms, and
-wouldn’t quite meet without a struggle. She had furry articles for
-[[Winter|winter]] wear, as tippets, boas, and muffs, which stood up on end in
-rampant manner, and were not at all sleek. She was much given to the
-carrying about of small bags with snaps to them, that went off like
-little pistols when they were shut up; and when full-dressed, she wore
-round her neck the barrenest of lockets, representing a fishy old eye,
-with no approach to speculation in it. These and other appearances of a
-similar [[Nature|nature]], had served to propagate the opinion, that Miss Tox was
-a lady of what is called a limited independence, which she turned to
-the best account. Possibly her mincing gait encouraged the belief, and
-suggested that her clipping a step of ordinary compass into two or
-three, originated in her habit of making the most of everything.
-
-“I am sure,” said Miss Tox, with a prodigious curtsey, “that to have
-the [[Honour|honour]] of being presented to Mr Dombey is a distinction which I
-have long sought, but very little expected at the present moment. My
-dear Mrs Chick—may I say Louisa!”
-
-Mrs Chick took Miss Tox’s hand in hers, rested the foot of her
-wine-glass upon it, repressed a tear, and said in a low voice, “God
-bless you!”
-
-“My dear Louisa then,” said Miss Tox, “my sweet friend, how are you
-now?”
-
-“Better,” Mrs Chick returned. “Take some wine. You have been almost as
-anxious as I have been, and must want it, I am sure.”
-
-Mr Dombey of course officiated, and also refilled his sister’s glass,
-which she (looking another way, and unconscious of his intention) held
-straight and steady the while, and then regarded with great
-astonishment, saying, “My dear Paul, what have you been doing!”
+Not so the expatriated Native, amazed supporter of Miss Tox’s swooning
+form, who, coming straight upstairs, with a polite inquiry touching
+Miss Tox’s health (in exact pursuance of the Major’s malicious
+instructions), had accidentally arrived in the very nick of [[Time|time]] to
+catch the delicate burden in his arms, and to receive the contents of
+the little watering-pot in his shoe; both of which circumstances,
+coupled with his consciousness of being closely watched by the wrathful
+Major, who had threatened the usual penalty in regard of every bone in
+his skin in case of any failure, combined to render him a moving
+spectacle of mental and bodily distress.

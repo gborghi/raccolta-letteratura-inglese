@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 11 (part 6)"
+title: "Shirley — Chapter 11 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -12,6 +12,66 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_11/part_05">‹ part 05</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_12/part_01">part 01 ›</a></div>
 </nav>
+
+
+put her hands behind her, and stood bending slightly towards her guest,
+
+still regarding her, in the attitude and with something of the aspect of
+
+a [[Grave|grave]] but gallant little cavalier. This temporary expression of face
+
+was aided by the style in which she wore her hair, parted on one temple,
+
+and brushed in a glossy sweep above the forehead, whence it fell in
+
+curls that looked natural, so free were their wavy undulations.
+
+
+
+"Are you tired with your walk?" she inquired.
+
+
+
+"No--not in the least. It is but a short distance--but a mile."
+
+
+
+"You look pale.--Is she always so pale?" she asked, turning to the
+
+rector.
+
+
+
+"She used to be as rosy as the reddest of your [[Flowers|flowers]]."
+
+
+
+"Why is she altered? What has made her pale? Has she been ill?"
+
+
+
+"She tells me she wants a change."
+
+
+
+"She ought to have one. You ought to give her one. You should send her
+
+to the sea-coast."
+
+
+
+"I will, ere [[Summer|summer]] is over. Meantime, I intend her to make acquaintance
+
+with you, if you have no objection."
+
+
+
+"I am sure Miss Keeldar will have no objection," here observed Mrs.
+
+Pryor. "I think I may take it upon me to say that Miss Helstone's
+
+frequent presence at Fieldhead will be esteemed a favour."
+
 
 
 "You speak my sentiments precisely, ma'am," said [[Shirley]], "and I thank

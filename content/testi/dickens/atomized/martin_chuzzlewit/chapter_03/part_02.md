@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 3 (part 2)"
+title: "Martin Chuzzlewit — Chapter 3 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_03/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_03/part_03">part 03 ›</a></div>
 </nav>
 
+
+It was in one of his intervals of repose, when, looking round with
+great caution, and reaching uneasily out of his nest of pillows, he
+endeavoured, with a strange air of secrecy and distrust, to make use
+of the writing materials which he had ordered to be placed on a table
+beside him, that the young lady and the mistress of the Blue Dragon
+found themselves sitting side by side before the [[Fire|fire]] in the sick
+chamber.
 
 The mistress of the Blue Dragon was in outward appearance just what a
 landlady should be: broad, buxom, comfortable, and good looking, with a
@@ -111,20 +119,3 @@ hostess, she was rather confused.
 ‘The gentleman--your grandpapa’--she resumed, after a short pause,
 ‘being so bent on having no assistance, must terrify you very much,
 miss?’
-
-‘I have been very much alarmed to-[[Night|night]]. He--he is not my grandfather.’
-
-‘Father, I should have said,’ returned the hostess, sensible of having
-made an awkward mistake.
-
-‘Nor my father’ said the young lady. ‘Nor,’ she added, slightly smiling
-with a quick perception of what the landlady was going to add, ‘Nor my
-uncle. We are not related.’
-
-‘Oh dear me!’ returned the landlady, still more embarrassed than before;
-‘how could I be so very much mistaken; knowing, as anybody in their
-proper senses might that when a gentleman is ill, he looks so much older
-than he really is? That I should have called you “Miss,” too, ma’am!’
-But when she had proceeded thus far, she glanced involuntarily at the
-third finger of the young lady’s left hand, and faltered again; for
-there was no ring upon it.

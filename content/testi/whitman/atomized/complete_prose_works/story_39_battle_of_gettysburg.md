@@ -1,0 +1,42 @@
+---
+title: "Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Battle of Gettysburg"
+author: "Whitman"
+unitType: story
+parentWork: "works/complete-prose-works-specimen-days-and-collect,-november-boughs-and-goodbye-my-fancy-(whitman)"
+tags:
+  - graph/excerpt
+  - author/Whitman
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Whitman · <a href="/works/complete-prose-works-specimen-days-and-collect,-november-boughs-and-goodbye-my-fancy-(whitman)">Complete Prose Works</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/whitman/atomized/complete_prose_works/story_38_the_most_inspiriting_of_all_war_s_shows">‹ Story 38 The Most Inspiriting of all War s Shows</a><a class="ex-next" href="/testi/whitman/atomized/complete_prose_works/story_40_a_cavalry_camp">Story 40 A Cavalry Camp ›</a></div>
+</nav>
+
+
+BATTLE OF GETTYSBURG
+
+_July 4th_.--The weather to-day, upon the whole, is very fine, warm,
+but from a smart rain last [[Night|night]], fresh enough, and no [[Dust|dust]], which is
+a great relief for this [[City|city]]. I saw the parade about [[Noon|noon]], Pennsylvania
+avenue, from Fifteenth street down toward the capitol. There were three
+regiments of infantry, (I suppose the ones doing patrol duty here,) two
+or three societies of Odd Fellows, a lot of children in barouches, and
+a squad of policemen. (A useless imposition upon the soldiers--they have
+work enough on their backs without piling the like of this.)
+
+As I went down the Avenue, saw a big flaring placard on the bulletin
+board of a newspaper office, announcing "Glorious Victory for the [[Union]]
+Army!" Meade had fought Lee at Gettysburg, Pennsylvania, yesterday and
+day before, and repuls'd him most signally, taken 3,000 prisoners, &c.
+(I afterwards saw Meade's despatch, very modest, and a sort of order of
+the day from the President himself, quite religious, giving thanks to
+the Supreme, and calling on the people to do the same.)
+
+I walk'd on to Armory hospital--took along with me several bottles of
+blackberry and cherry syrup, good and strong, but [[Innocent|innocent]]. Went through
+several of the wards, announc'd to the soldiers the news from Meade,
+and gave them all a good drink of the syrups with ice [[Water|water]], quite
+refreshing--prepar'd it all myself, and serv'd it around. Meanwhile the
+Washington [[Bells|bells]] are ringing their sun-down peals for Fourth of July,
+and the usual fusilades of boys' pistols, crackers, and guns.

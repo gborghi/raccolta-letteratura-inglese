@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 42 (part 4)"
+title: "Oliver Twist — Chapter 42 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_42/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_43/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Why, I did mention that, and I shouldn’t mind turning my hand to it
+sometimes,” rejoined Mr. Claypole slowly; “but it wouldn’t pay by
+itself, you know.”
+
+“That’s true!” observed the Jew, ruminating or pretending to ruminate.
+“No, it might not.”
+
+“What do you think, then?” asked Noah, anxiously regarding him.
+“Something in the sneaking way, where it was pretty sure work, and not
+much more risk than being at [[Home|home]].”
 
 “What do you think of the old ladies?” asked [[Fagin]]. “There’s a good
 deal of money made in snatching their bags and parcels, and running

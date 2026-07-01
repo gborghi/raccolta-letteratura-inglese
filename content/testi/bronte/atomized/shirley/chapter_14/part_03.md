@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 14 (part 3)"
+title: "Shirley — Chapter 14 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_14/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_14/part_04">part 04 ›</a></div>
 </nav>
 
+
+calculated to satisfy the solicitude of the most anxious inquirer after
+
+our position in reference to those articles. Carnivorous I am not, nor
+
+is Mrs. Pryor, nor is Mrs. Gill herself, yet I only hemmed and opened my
+
+eyes a little wide when I saw butchers' bills whose figures seemed to
+
+prove that fact--falsehood, I mean. Caroline, you may laugh at me, but
+
+you can't change me. I am a poltroon on certain points; I feel it. There
+
+is a base alloy of moral cowardice in my composition. I blushed and hung
 
 my head before Mrs. Gill, when she ought to have been faltering
 
@@ -203,27 +217,3 @@ perhaps, appear strange that neither she nor [[Shirley]] thought of
 consulting Mrs. Pryor on their scheme; but they were wise in abstaining.
 
 To have consulted her--and this they knew by instinct--would only have
-
-been to involve her in painful embarrassment. She was far better
-
-informed, better read, a deeper thinker than Miss Ainley, but of
-
-administrative energy, of executive activity, she had none. She would
-
-subscribe her own modest mite to a charitable object willingly--secret
-
-almsgiving suited her; but in public plans, on a large scale, she could
-
-take no part; as to originating them, that was out of the question. This
-
-[[Shirley]] knew, and therefore she did not trouble Mrs. Pryor by unavailing
-
-conferences, which could only remind her of her own deficiencies, and do
-
-no good.
-
-
-
-It was a bright day for Miss Ainley when she was summoned to Fieldhead
-
-to deliberate on projects so congenial to her; when she was seated with

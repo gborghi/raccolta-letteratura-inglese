@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 5 (part 1)"
+title: "Bleak House — Chapter 5 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -138,12 +138,3 @@ follow.”
 
 “Who’s this, Miss Summerson?” whispered Miss Jellyby, drawing my arm
 tighter through her own.
-
-The little old lady’s hearing was remarkably quick. She answered for
-herself directly.
-
-“A suitor, my [[Child|child]]. At your service. I have the [[Honour|honour]] to attend
-[[Court|court]] regularly. With my documents. Have I the pleasure of addressing
-another of the youthful parties in Jarndyce?” said the old lady,
-recovering herself, with her head on one side, from a very low
-curtsy.

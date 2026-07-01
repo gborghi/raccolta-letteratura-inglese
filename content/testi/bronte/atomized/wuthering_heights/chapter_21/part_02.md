@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 21 (part 2)"
+title: "Wuthering Heights — Chapter 21 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_21/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_21/part_03">part 03 ›</a></div>
 </nav>
 
+
+Cathy had been caught in the fact of plundering, or, at least, hunting
+out the nests of the grouse. The Heights were [[Heathcliff]]’s land, and he
+was reproving the poacher.
 
 “I’ve neither taken any nor found any,” she said, as I toiled to them,
 expanding her hands in corroboration of the statement. “I didn’t mean
@@ -134,7 +138,3 @@ former [[Alone|alone]].
 thought I liked you, though you were [[Cross|cross]] at first. Why don’t you
 visit at the Grange with Linton? To live all these years such close
 neighbours, and never see us, is odd: what have you done so for?”
-
-“I visited it once or twice too often before you were born,” he
-answered. “There—damn it! If you have any kisses to spare, give them to
-Linton: they are thrown away on me.”

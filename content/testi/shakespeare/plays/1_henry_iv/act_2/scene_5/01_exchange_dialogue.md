@@ -1,5 +1,5 @@
 ---
-title: "1 [[Henry IV]] — Act II, Scene 5 — exchange (dialogue) [1]"
+title: "1 Henry IV — Act II, Scene 5 — exchange (dialogue) [1]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/1-henry-iv-(shakespeare)"

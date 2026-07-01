@@ -1,5 +1,5 @@
 ---
-title: "[[Sword]] (part 3)"
+title: "Sword (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/sword-(chesterton)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/sword/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/sword/part/part_04">part 04 ›</a></div>
 </nav>
 
+
+He acted suddenly in a way adapted to either case.  He introduced
+into his swordplay a stroke of single-stick, also learned at College,
+jerking his stick up so as to strike and jar the man's elbow; and then,
+before the arm could recover its nerve, smote the [[Sword|sword]] clean out of
+the hand.  A look at the man's black, bewildered expression was enough.
+Tryon was now quite certain the man's advantage had only been
+in his [[Sword|sword]].  He was also quite certain the man knew it.
+With all the rush of his released romanticism, which roared
+like the [[Wind|wind]], and rolled like the clouds, and blazed like the sun
+which he had thought to see no more, he sprang forward and pinned
+the man by the throat, with a shout of laughter.  Then he said,
+with more restrained [[Humour|humour]], what he had said to the little boy
+up the [[Road|road]].
 
 'If he be bad and base,' said Tryon, 'he should be beaten with a staff.'
 And whirling the walking-stick round his head, he laid three thundering
@@ -106,21 +120,3 @@ The old rural and real aristocracy of England had not that rather cold
 and clumsy class-consciousness we now call the public-school spirit;
 and they enjoyed sports instead of worshipping them.  But boys
 are the same in all ages, and one of their sports is [[Hero|hero]]-worship.
-
-The next and yet more fascinating fact was Sir Guy.
-He was not, it was clear, in the common sense an amiable man.
-Just as the slash he had at the battle of Newbury made his
-eagle face almost as ugly as it was handsome, so the neglects
-and disappointments of his once promising military career had
-made his tongue and temper as bitter as they were sincere.
-Yet Tryon felt he owed the very knowledge of such an attitude
-to a confidence the old man would not have reposed in other people.
-
-'The [[King]] hath his own again,' old Griffin would say gloomily.
-'But I think it is too late.  Indeed it might nigh as [[Well|well]] be
-the [[King of France]] come to rule us as the [[King]] of England.
-He hath brought back with him French women that act in stage plays
-as if they were boys; and tricks fit for pothecaries or conjurers
-at a fair, and tricks like this fellow's that twitched away my [[Sword|sword]],
-and every one else's--till he met his master, thank God.'
-And he smiled at Tryon, sourly, but with respect.

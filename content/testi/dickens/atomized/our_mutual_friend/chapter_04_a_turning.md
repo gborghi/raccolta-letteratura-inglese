@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_03_a_long_lane">‹ Chapter 03 A LONG LANE</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_05_the_cup_and_the_lip">Chapter 05 THE CUP AND THE LIP ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_03_a_long_lane">‹ Chapter 03 A LONG LANE</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_05">Chapter 05 ›</a></div>
 </nav>
 
 

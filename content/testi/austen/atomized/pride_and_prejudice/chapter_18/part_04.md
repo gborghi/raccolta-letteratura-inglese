@@ -1,5 +1,5 @@
 ---
-title: "[[Pride and Prejudice]] — Chapter 18 (part 4)"
+title: "Pride and Prejudice — Chapter 18 (part 4)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/pride-and-prejudice-(austen)"
@@ -13,6 +13,44 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/pride_and_prejudice/chapter_18/part_03">‹ part 03</a><a class="ex-next" href="/testi/austen/atomized/pride_and_prejudice/chapter_18/part_05">part 05 ›</a></div>
 </nav>
 
+
+“I have no reason, I assure you,” said he, “to be dissatisfied with my
+reception. Mr. Darcy seemed much pleased with the attention. He answered
+me with the utmost civility, and even paid me the compliment of saying,
+that he was so [[Well|well]] convinced of Lady Catherine’s discernment as to be
+certain she could never bestow a favour unworthily. It was really a very
+handsome thought. Upon the whole, I am much pleased with him.”
+
+As Elizabeth had no longer any interest of her own to pursue, she turned
+her attention almost entirely on her sister and Mr. Bingley; and the
+train of agreeable reflections which her observations gave birth to made
+her perhaps almost as happy as Jane. She saw her in idea settled in that
+very [[house]], in all the felicity which a [[Marriage|marriage]] of true affection could
+bestow; and she felt capable, under such circumstances, of endeavouring
+even to like Bingley’s two sisters. Her mother’s thoughts she plainly
+saw were bent the same way, and she determined not to venture near her,
+lest she might hear too much. When they sat down to supper, therefore,
+she considered it a most unlucky perverseness which placed them within
+one of each other; and deeply was she vexed to find that her mother was
+talking to that one person (Lady Lucas) freely, openly, and of nothing
+else but of her expectation that Jane would be soon married to Mr.
+Bingley. It was an animating subject, and Mrs. Bennet seemed incapable
+of fatigue while enumerating the advantages of the match. His being such
+a charming young man, and so rich, and living but three miles from them,
+were the first points of [[Self|self]]-gratulation; and then it was such a
+comfort to think how fond the two sisters were of Jane, and to be
+certain that they must [[Desire|desire]] the connection as much as she could do. It
+was, moreover, such a promising thing for her younger daughters, as
+Jane’s marrying so greatly must throw them in the way of other rich men;
+and, lastly, it was so pleasant at her [[Time|time]] of life to be able to
+consign her single daughters to the care of their sister, that she might
+not be obliged to go into company more than she liked. It was necessary
+to make this circumstance a matter of pleasure, because on such
+occasions it is the etiquette; but no one was less likely than Mrs.
+Bennet to find comfort in staying at [[Home|home]] at any period of her life. She
+concluded with many good wishes that Lady Lucas might soon be equally
+fortunate, though evidently and triumphantly believing there was no
+chance of it.
 
 In vain did Elizabeth endeavour to check the rapidity of her mother’s
 words, or persuade her to describe her felicity in a less audible
@@ -90,27 +128,3 @@ room. Many stared--many smiled; but no one looked more amused than Mr.
 Bennet himself, while his wife seriously commended Mr. Collins for
 having spoken so sensibly, and observed, in a half-whisper to Lady
 Lucas, that he was a remarkably clever, good kind of young man.
-
-To Elizabeth it appeared, that had her family made an agreement to
-expose themselves as much as they could during the evening, it would
-have been impossible for them to play their parts with more spirit, or
-finer [[success]]; and happy did she think it for Bingley and her sister
-that some of the exhibition had escaped his notice, and that his
-feelings were not of a sort to be much distressed by the folly which he
-must have witnessed. That his two sisters and Mr. Darcy, however, should
-have such an opportunity of ridiculing her relations was bad enough; and
-she could not determine whether the silent contempt of the gentleman, or
-the insolent smiles of the ladies, were more intolerable.
-
-The rest of the evening brought her little amusement. She was teased by
-Mr. Collins, who continued most perseveringly by her side; and though he
-could not prevail with her to [[Dance|dance]] with him again, put it out of her
-power to [[Dance|dance]] with others. In vain did she entreat him to stand up with
-somebody else, and offered to introduce him to any young lady in the
-room. He assured her that, as to dancing, he was perfectly indifferent
-to it; that his chief object was, by delicate attentions, to recommend
-himself to her; and that he should therefore make a point of remaining
-close to her the whole evening. There was no arguing upon such a
-project. She owed her greatest relief to her friend Miss Lucas, who
-often joined them, and good-naturedly engaged Mr. Collins’s conversation
-to herself.

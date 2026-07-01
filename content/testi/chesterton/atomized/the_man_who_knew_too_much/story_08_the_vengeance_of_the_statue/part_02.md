@@ -14,6 +14,11 @@ tags:
 </nav>
 
 
+sensation I never remember having had before."
+"What the devil do you mean?"
+"I am feeling proud of my family," said Horne Fisher.
+Harold March stared at him with round blue eyes, and seemed too much
+
 mystified even to ask a question. Fisher leaned back in his chair in
 
 his lazy fashion, and smiled as he continued.
@@ -179,15 +184,3 @@ brown-brick inn faced with ivy and surrounded by rather dismal
 gardens. At the back of the building the [[Garden|garden]] ran up very steeply
 
 to a [[Road|road]] along the ridge above; and a zigzag path scaled the slope
-
-in sharp angles, turning to and fro amid evergreens so somber that
-
-they might rather be called everblack. Here and there up the slope
-
-were statues having all the cold monstrosity of such minor ornaments
-
-of the eighteenth century; and a whole row of them ran as on a
-
-terrace along the last bank at the [[Bottom|bottom]], opposite the back door.
-
-This detail fixed itself first in March's mind merely because it

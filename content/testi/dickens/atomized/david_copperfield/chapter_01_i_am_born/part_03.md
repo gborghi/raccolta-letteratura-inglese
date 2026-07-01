@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 1: I AM BORN (part 3)"
+title: "David Copperfield — Chapter 1: I AM BORN (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_01_i_am_born/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_01_i_am_born/part_04">part 04 ›</a></div>
 </nav>
 
+
+When she came to herself, or when Miss Betsey had restored her,
+whichever it was, she found the latter standing at the [[Window|window]]. The
+twilight was by this [[Time|time]] shading down into darkness; and dimly as they
+saw each other, they could not have done that without the aid of the
+[[Fire|fire]].
 
 ‘[[Well]]?’ said Miss Betsey, coming back to her chair, as if she had only
 been taking a casual look at the prospect; ‘and when do you expect--’
@@ -141,17 +147,3 @@ she, by and by. ‘What did he do for you?’
 ‘Mr. Copperfield,’ said my mother, answering with some difficulty, ‘was
 so considerate and good as to secure the reversion of a part of it to
 me.’
-
-‘How much?’ asked Miss Betsey.
-
-‘A hundred and five pounds a year,’ said my mother.
-
-‘He might have done worse,’ said my aunt.
-
-The word was appropriate to the moment. My mother was so much worse
-that Peggotty, coming in with the teaboard and candles, and seeing at a
-glance how ill she was,--as Miss Betsey might have done sooner if there
-had been light enough,--conveyed her upstairs to her own room with all
-[[Speed|speed]]; and immediately dispatched Ham Peggotty, her nephew, who had been
-for some days past secreted in the [[house]], unknown to my mother, as a
-special messenger in case of emergency, to fetch the [[Nurse|nurse]] and doctor.

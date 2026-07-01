@@ -1,5 +1,5 @@
 ---
-title: "[[history]] — Chapter 5 (part 2)"
+title: "history — Chapter 5 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/history-(chesterton)"
@@ -13,6 +13,40 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/history/chapter_05/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/history/chapter_05/part_03">part 03 ›</a></div>
 </nav>
 
+
+Along the northern coast of France, where the Confessor had passed
+his early life, lay the lands of one of the most powerful of the French
+[[King|king]]'s vassals, the Duke of Normandy.  He and his people, who constitute
+one of the most picturesque and curious elements in European [[history]],
+are confused for most of us by irrelevant controversies which would
+have been entirely unintelligible to them.  The worst of these is
+the inane fiction which gives the name of Norman to the English
+aristocracy during its great period of the last three hundred years.
+Tennyson informed a lady of the name of Vere de Vere that simple [[Faith|faith]]
+was more valuable than Norman [[Blood|blood]].  But the historical student
+who can believe in Lady Clara as the possessor of the Norman [[Blood|blood]] must
+be himself a large possessor of the simple [[Faith|faith]].  As a matter of fact,
+as we shall see also when we come to the political scheme of the Normans,
+the notion is the negation of their real importance in [[history]].
+The fashionable fancy misses what was best in the Normans,
+exactly as we have found it missing what was best in the Saxons.
+One does not know whether to thank the Normans more for appearing or
+for disappearing.  Few philanthropists ever became so rapidly anonymous.
+It is the great glory of the Norman adventurer that he threw himself
+heartily into his chance position; and had [[Faith|faith]] not only in his comrades,
+but in his subjects, and even in his enemies.  He was loyal to the
+kingdom he had not yet made.  Thus the Norman Bruce becomes a Scott
+thus the descendant of the Norman Strongbow becomes an Irishman.
+No men less than Normans can be conceived as remaining as a superior
+caste until the present [[Time|time]].  But this alien and adventurous loyalty
+in the Norman, which appears in these other national histories,
+appears most strongly of all in the [[history]] we have here to follow.
+The Duke of Normandy does become a real [[King]] of England; his claim
+through the Confessor, his election by the Council, even his symbolic
+handfuls of the soil of Sussex, these are not altogether empty forms.
+And though both phrases would be inaccurate, it is very much nearer
+the [[Truth|truth]] to call William the first of the English than to call Harold
+the last of them.
 
 An indeterminate [[debate]] touching the dim races that mixed
 without record in that dim epoch, has made much of the fact
@@ -117,27 +151,3 @@ antagonistic to his own.  But it would be a blunder to allow such
 personal broils to obscure the system, which had indeed existed
 here before the Conquest, which clarified and confirmed it.
 That system we call Feudalism.
-
-That Feudalism was the main mark of the Middle Ages is a
-commonplace of fashionable information; but it is of the sort
-that seeks the past rather in Wardour Street than Watling Street.
-For that matter, the very term "mediaeval" is used for almost anything
-from Early English to Early Victorian.  An eminent Socialist applied
-it to our armaments, which is like applying it to our aeroplanes.
-Similarly the just description of Feudalism, and of how far it was
-a part and how far rather an impediment in the main mediaeval movement,
-is confused by current debates about quite modern things--
-especially that modern thing, the English squirearchy.  Feudalism was
-very nearly the opposite of squirearchy.  For it is the whole point
-of the squire that his ownership is absolute and is pacific.
-And it is the very definition of Feudalism that it was a tenure,
-and a tenure by military service.  Men paid their rent in steel instead
-of gold, in spears and arrows against the enemies of their landlord.
-But even these landlords were not landlords in the modern sense;
-every one was practically as [[Well|well]] as theoretically a tenant of the [[King]];
-and even he often fell into a feudal inferiority to a Pope or an Emperor.
-To call it mere tenure by soldiering may seem a simplification;
-but indeed it is precisely here that it was not so simple as it seems.
-It is precisely a certain knot or enigma in the [[Nature|nature]] of
-Feudalism which makes half the struggle of European [[history]],
-but especially English [[history]].

@@ -1,5 +1,5 @@
 ---
-title: "All Is True ([[Henry VIII]]) — Act V, Scene 4 — monologue (WHEN) [4]"
+title: "All Is True (Henry VIII) — Act V, Scene 4 — monologue (WHEN) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/all-is-true---(henry-viii)-(shakespeare)"

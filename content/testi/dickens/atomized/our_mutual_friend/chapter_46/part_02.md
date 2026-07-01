@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 5 (part 2)"
+title: "Our Mutual Friend — Chapter 8 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,127 +14,127 @@ tags:
 </nav>
 
 
-‘Noddy,’ said Mrs Boffin, after thoughtfully pausing in her work.
+But, the old abhorrence grew stronger on her as she grew weaker, and
+it found more sustaining food than she did in her wanderings. Now, she
+would light upon the shameful spectacle of some desolate creature—or
+some wretched ragged groups of either sex, or of both sexes, with
+children among them, huddled together like the smaller vermin for
+a little warmth—lingering and lingering on a doorstep, while the
+appointed evader of the public trust did his dirty office of trying to
+weary them out and so get rid of them. Now, she would light upon some
+poor decent person, like herself, going afoot on a pilgrimage of
+many weary miles to see some worn-out relative or friend who had been
+charitably clutched off to a great blank barren [[Union]] [[house|House]], as far from
+old [[Home|home]] as the County Jail (the remoteness of which is always its worst
+punishment for small rural offenders), and in its dietary, and in
+its lodging, and in its tending of the sick, a much more penal
+establishment. Sometimes she would hear a newspaper read out, and would
+learn how the Registrar General cast up the units that had within the
+last week died of want and of exposure to the weather: for which that
+Recording Angel seemed to have a regular fixed place in his sum, as if
+they were its halfpence. All such things she would hear discussed, as
+we, my lords and gentlemen and honourable boards, in our unapproachable
+magnificence never hear them, and from all such things she would fly
+with the wings of raging [[Despair]].
 
-‘My dear,’ returned the Golden Dustman, stopping short in his trot.
+This is not to be received as a figure of speech. Old Betty Higden
+however tired, however footsore, would start up and be driven away
+by her awakened horror of falling into the hands of [[Charity]]. It is a
+remarkable Christian improvement, to have made a pursuing Fury of the
+Good Samaritan; but it was so in this case, and it is a type of many,
+many, many.
 
-‘Excuse my putting it to you, Noddy, but now really! Haven’t you been
-a little strict with Mr Rokesmith to-[[Night|night]]? Haven’t you been a
-little—just a little little—not quite like your old [[Self|self]]?’
+Two incidents united to intensify the old unreasoning
+abhorrence—granted in a previous place to be unreasoning, because the
+people always are unreasoning, and invariably make a point of producing
+all their smoke without [[Fire|fire]].
 
-‘Why, old woman, I [[Hope|hope]] so,’ returned Mr Boffin, cheerfully, if not
-boastfully.
+One day she was sitting in a market-place on a bench outside an inn,
+with her little wares for sale, when the deadness that she strove
+against came over her so heavily that the scene departed from before
+her eyes; when it returned, she found herself on the ground, her head
+supported by some good-natured market-women, and a little crowd about
+her.
 
-‘[[Hope]] so, deary?’
+‘Are you better now, mother?’ asked one of the women. ‘Do you think you
+can do nicely now?’
 
-‘Our old selves wouldn’t do here, old lady. Haven’t you found that out
-yet? Our old selves would be fit for nothing here but to be robbed and
-imposed upon. Our old selves weren’t people of fortune; our new selves
-are; it’s a great difference.’
+‘Have I been ill then?’ asked old Betty.
 
-‘Ah!’ said Mrs Boffin, pausing in her work again, softly to draw a long
-breath and to look at the [[Fire|fire]]. ‘A great difference.’
+‘You have had a faint like,’ was the answer, ‘or a fit. It ain’t that
+you’ve been a-struggling, mother, but you’ve been stiff and numbed.’
 
-‘And we must be up to the difference,’ pursued her husband; ‘we must be
-equal to the change; that’s what we must be. We’ve got to hold our own
-now, against everybody (for everybody’s hand is stretched out to be
-dipped into our pockets), and we have got to recollect that money makes
-money, as [[Well|well]] as makes everything else.’
+‘Ah!’ said Betty, recovering her [[Memory|memory]]. ‘It’s the numbness. Yes. It
+comes over me at times.’
 
-‘Mentioning recollecting,’ said Mrs Boffin, with her work abandoned,
-her eyes upon the [[Fire|fire]], and her chin upon her hand, ‘do you recollect,
-Noddy, how you said to Mr Rokesmith when he first came to see us at the
-Bower, and you engaged him—how you said to him that if it had pleased
-Heaven to send [[John Harmon]] to his fortune safe, we could have been
-content with the one Mound which was our legacy, and should never have
-wanted the rest?’
+Was it gone? the women asked her.
 
-‘Ay, I remember, old lady. But we hadn’t tried what it was to have the
-rest then. Our new shoes had come [[Home|home]], but we hadn’t put ’em on. We’re
-wearing ’em now, we’re wearing ’em, and must step out accordingly.’
+‘It’s gone now,’ said Betty. ‘I shall be stronger than I was afore.
+Many thanks to ye, my dears, and when you come to be as old as I am, may
+others do as much for you!’
 
-Mrs Boffin took up her work again, and plied her needle in [[Silence|silence]].
+They assisted her to rise, but she could not stand yet, and they
+supported her when she sat down again upon the bench.
 
-‘As to Rokesmith, that young man of mine,’ said Mr Boffin, dropping
-his voice and glancing towards the door with an apprehension of being
-overheard by some eavesdropper there, ‘it’s the same with him as with
-the footmen. I have found out that you must either scrunch them, or let
-them scrunch you. If you ain’t imperious with ’em, they won’t believe
-in your being any better than themselves, if as good, after the stories
-(lies mostly) that they have heard of your beginnings. There’s nothing
-betwixt stiffening yourself up, and throwing yourself away; take my word
-for that, old lady.’
+‘My head’s a bit light, and my feet are a bit heavy,’ said old Betty,
+leaning her face drowsily on the breast of the woman who had spoken
+before. ‘They’ll both come nat’ral in a minute. There’s nothing more the
+matter.’
 
-Bella ventured for a moment to look stealthily towards him under her
-eyelashes, and she saw a dark cloud of suspicion, covetousness, and
-conceit, overshadowing the once open face.
+‘Ask her,’ said some farmers standing by, who had come out from their
+market-dinner, ‘who belongs to her.’
 
-‘Hows’ever,’ said he, ‘this isn’t entertaining to Miss Bella. Is it,
-Bella?’
+‘Are there any folks belonging to you, mother?’ said the woman.
 
-A deceiving Bella she was, to look at him with that pensively abstracted
-air, as if her mind were full of her book, and she had not heard a
-single word!
+‘Yes sure,’ answered Betty. ‘I heerd the gentleman say it, but I
+couldn’t answer quick enough. There’s plenty belonging to me. Don’t ye
+[[Fear|fear]] for me, my dear.’
 
-‘Hah! Better employed than to attend to it,’ said Mr Boffin. ‘That’s
-right, that’s right. Especially as you have no call to be told how to
-value yourself, my dear.’
+‘But are any of ’em near here?’ said the men’s voices; the women’s
+voices chiming in when it was said, and prolonging the strain.
 
-Colouring a little under this compliment, Bella returned, ‘I [[Hope|hope]] sir,
-you don’t think me vain?’
+‘Quite near enough,’ said Betty, rousing herself. ‘Don’t ye be afeard
+for me, neighbours.’
 
-‘Not a bit, my dear,’ said Mr Boffin. ‘But I think it’s very creditable
-in you, at your age, to be so [[Well|well]] up with the pace of the world, and to
-know what to go in for. You are right. Go in for money, my [[Love|love]]. Money’s
-the article. You’ll make money of your good looks, and of the money Mrs
-Boffin and me will have the pleasure of settling upon you, and you’ll
-live and die rich. That’s the state to live and die in!’ said Mr Boffin,
-in an unctuous manner. ‘R—r—rich!’
+‘But you are not fit to travel. Where are you going?’ was the next
+compassionate [[Chorus|chorus]] she heard.
 
-There was an expression of distress in Mrs Boffin’s face, as, after
-watching her husband’s, she turned to their adopted girl, and said:
+‘I’m a going to [[London]] when I’ve sold out all,’ said Betty, rising with
+difficulty. ‘I’ve right good friends in [[London]]. I want for nothing. I
+shall come to no harm. Thankye. Don’t ye be afeard for me.’
 
-‘Don’t mind him, Bella, my dear.’
+A [[Well|well]]-meaning bystander, yellow-legginged and purple-faced, said
+hoarsely over his red comforter, as she [[Rose|rose]] to her feet, that she
+‘oughtn’t to be let to go’.
 
-‘Eh?’ cried Mr Boffin. ‘What! Not mind him?’
+‘For the Lord’s [[Love|love]] don’t meddle with me!’ cried old Betty, all her
+fears crowding on her. ‘I am quite [[Well|well]] now, and I must go this minute.’
 
-‘I don’t mean that,’ said Mrs Boffin, with a worried look, ‘but I mean,
-don’t believe him to be anything but good and generous, Bella, because
-he is the best of men. No, I must say that much, Noddy. You are always
-the best of men.’
+She caught up her basket as she spoke and was making an unsteady rush
+away from them, when the same bystander checked her with his hand on
+her sleeve, and urged her to come with him and see the parish-doctor.
+Strengthening herself by the utmost exercise of her resolution, the poor
+trembling creature shook him off, almost fiercely, and took to flight.
+Nor did she feel safe until she had set a mile or two of by-[[Road|road]] between
+herself and the marketplace, and had crept into a copse, like a hunted
+animal, to hide and recover breath. Not until then for the first [[Time|time]]
+did she venture to recall how she had looked over her shoulder before
+turning out of the town, and had seen the sign of the White [[Lion]] hanging
+across the [[Road|road]], and the fluttering market booths, and the old grey
+church, and the little crowd gazing after her but not attempting to
+follow her.
 
-She made the declaration as if he were objecting to it: which assuredly
-he was not in any way.
-
-‘And as to you, my dear Bella,’ said Mrs Boffin, still with that
-distressed expression, ‘he is so much attached to you, whatever he says,
-that your own father has not a truer interest in you and can hardly like
-you better than he does.’
-
-‘Says too!’ cried Mr Boffin. ‘Whatever he says! Why, I say so, openly.
-Give me a kiss, my dear [[Child|child]], in saying Good [[Night]], and let me confirm
-what my old lady tells you. I am very fond of you, my dear, and I am
-entirely of your mind, and you and I will take care that you shall be
-rich. These good looks of yours (which you have some right to be vain
-of; my dear, though you are not, you know) are worth money, and you
-shall make money of ’em. The money you will have, will be worth money,
-and you shall make money of that too. There’s a golden ball at your
-feet. Good [[Night|night]], my dear.’
-
-Somehow, Bella was not so [[Well|well]] pleased with this assurance and this
-prospect as she might have been. Somehow, when she put her arms
-round Mrs Boffin’s neck and said Good [[Night]], she derived a sense of
-unworthiness from the still anxious face of that good woman and her
-obvious wish to excuse her husband. ‘Why, what need to excuse him?’
-thought Bella, sitting down in her own room. ‘What he said was very
-sensible, I am sure, and very true, I am sure. It is only what I often
-say to myself. Don’t I like it then? No, I don’t like it, and, though
-he is my liberal benefactor, I disparage him for it. Then pray,’ said
-Bella, sternly putting the question to herself in the looking-glass as
-usual, ‘what do you mean by this, you inconsistent little Beast?’
-
-The looking-glass preserving a discreet ministerial [[Silence|silence]] when thus
-called upon for explanation, Bella went to bed with a weariness upon her
-spirit which was more than the weariness of want of [[Sleep|sleep]]. And again
-in the morning, she looked for the cloud, and for the deepening of the
-cloud, upon the Golden Dustman’s face.
+The second frightening incident was this. She had been again as bad, and
+had been for some days better, and was travelling along by a part of
+the [[Road|road]] where it touched the [[River|river]], and in wet [[Seasons|seasons]] was so often
+overflowed by it that there were tall white posts set up to mark the
+way. A barge was being towed towards her, and she sat down on the bank
+to rest and watch it. As the tow-rope was slackened by a turn of the
+stream and dipped into the [[Water|water]], such a confusion stole into her
+mind that she thought she saw the forms of her dead children and dead
+grandchildren peopling the barge, and waving their hands to her in
+solemn measure; then, as the rope tightened and came up, dropping
+diamonds, it seemed to vibrate into two parallel ropes and strike her,
+with a twang, though it was far off. When she looked again, there was no
+barge, no [[River|river]], no daylight, and a man whom she had never before seen
+held a candle close to her face.

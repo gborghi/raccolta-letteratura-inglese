@@ -1,5 +1,5 @@
 ---
-title: "[[The Murders in the Rue Morgue]]"
+title: "The Murders in the Rue Morgue"
 author: "Poe"
 unitType: work
 parentWork: "works/the-murders-in-the-rue-morgue-(poe)"
@@ -265,7 +265,7 @@ What [[Song|song]] the Syrens sang, or what name [[Achilles]] assumed when he hi
 
 
 
-      Residing in [[Paris]] during the [[Spring|spring]] and part of the [[Summer|summer]] of
+      Residing in [[Paris]] during the [[spring]] and part of the [[Summer|summer]] of
 
       18—, I there became acquainted with a Monsieur [[C. Auguste Dupin]].
 
@@ -985,7 +985,7 @@ What [[Song|song]] the Syrens sang, or what name [[Achilles]] assumed when he hi
 
       property. Had opened an account with his banking [[house]] in the
 
-      [[Spring|spring]] of the year—(eight years previously). Made frequent
+      [[spring]] of the year—(eight years previously). Made frequent
 
       deposits in small sums. Had checked for nothing until the third
 
@@ -1777,7 +1777,7 @@ What [[Song|song]] the Syrens sang, or what name [[Achilles]] assumed when he hi
 
       difficulty and attempted to raise the sash. It resisted all my
 
-      efforts, as I had anticipated. A concealed [[Spring|spring]] must, I now
+      efforts, as I had anticipated. A concealed [[spring]] must, I now
 
       know, exist; and this corroboration of my idea convinced me that
 
@@ -1785,7 +1785,7 @@ What [[Song|song]] the Syrens sang, or what name [[Achilles]] assumed when he hi
 
       appeared the circumstances attending the nails. A careful search
 
-      soon brought to light the hidden [[Spring|spring]]. I pressed it, and,
+      soon brought to light the hidden [[spring]]. I pressed it, and,
 
       satisfied with the discovery, forbore to upraise the sash.
 
@@ -1795,7 +1795,7 @@ What [[Song|song]] the Syrens sang, or what name [[Achilles]] assumed when he hi
 
       passing out through this [[Window|window]] might have reclosed it, and the
 
-      [[Spring|spring]] would have caught—but the nail could not have been
+      [[spring]] would have caught—but the nail could not have been
 
       replaced. The conclusion was plain, and again narrowed in the
 
@@ -1813,7 +1813,7 @@ What [[Song|song]] the Syrens sang, or what name [[Achilles]] assumed when he hi
 
       hand down behind the board, I readily discovered and pressed the
 
-      [[Spring|spring]], which was, as I had supposed, identical in character with
+      [[spring]], which was, as I had supposed, identical in character with
 
       its neighbor. I now looked at the nail. It was as stout as the
 
@@ -1861,7 +1861,7 @@ What [[Song|song]] the Syrens sang, or what name [[Achilles]] assumed when he hi
 
       resemblance to a perfect nail was complete—the fissure was
 
-      invisible. Pressing the [[Spring|spring]], I gently raised the sash for a
+      invisible. Pressing the [[spring]], I gently raised the sash for a
 
       few inches; the head went up with it, remaining firm in its bed.
 
@@ -1877,7 +1877,7 @@ What [[Song|song]] the Syrens sang, or what name [[Achilles]] assumed when he hi
 
       accord upon his exit (or perhaps purposely closed), it had become
 
-      fastened by the [[Spring|spring]]; and it was the retention of this [[Spring|spring]]
+      fastened by the [[spring]]; and it was the retention of this [[spring]]
 
       which had been mistaken by the police for that of the
 

@@ -1,5 +1,5 @@
 ---
-title: "[[Lady Susan]]"
+title: "Lady Susan"
 author: "Austen"
 unitType: work
 parentWork: "works/lady-susan-(austen)"

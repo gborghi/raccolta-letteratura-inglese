@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 9 (part 3)"
+title: "Dombey and Son — Chapter 37 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,121 +14,111 @@ tags:
 </nav>
 
 
-Mr Brogley himself was a moist-eyed, pink-complexioned, crisp-haired
-man, of a bulky figure and an easy temper—for that class of Caius
-Marius who sits upon the ruins of other people’s Carthages, can keep up
-his spirits [[Well|well]] enough. He had looked in at Solomon’s shop sometimes,
-to ask a question about articles in Solomon’s way of business; and
-Walter knew him sufficiently to give him good day when they met in the
-street. But as that was the extent of the broker’s acquaintance with
-[[Solomon Gills]] also, Walter was not a little surprised when he came back
-in the course of the forenoon, agreeably to his promise, to find Mr
-Brogley sitting in the back parlour with his hands in his pockets, and
-his hat hanging up behind the door.
+“You say that as I describe them, they are perverted. I [[Fear|fear]] not—I [[Fear|fear]]
+not: but let us assume that they are. The uneasiness I have for some
+[[Time|time]] felt on the subject, arises in this: that the mere circumstance of
+such association often repeated, on the part of Miss Florence, however
+innocently and confidingly, would be conclusive with Mr Dombey, already
+predisposed against her, and would lead him to take some step (I know
+he has occasionally contemplated it) of separation and [[Alienation|alienation]] of
+her from his [[Home|home]]. Madam, bear with me, and remember my intercourse
+with Mr Dombey, and my knowledge of him, and my reverence for him,
+almost from [[Childhood|childhood]], when I say that if he has a fault, it is a lofty
+stubbornness, rooted in that noble [[Pride|pride]] and sense of power which
+belong to him, and which we must all defer to; which is not assailable
+like the obstinacy of other characters; and which grows upon itself
+from day to day, and year to year.”
 
-“[[Well]], Uncle Sol!” said Walter. The old man was sitting ruefully on the
-opposite side of the table, with his spectacles over his eyes, for a
-[[Wonder|wonder]], instead of on his forehead. “How are you now?”
+She bent her glance upon him still; but, look as steadfast as she
+would, her haughty nostrils dilated, and her breath came somewhat
+deeper, and her lip would slightly curl, as he described that in his
+patron to which they must all bow down. He saw it; and though his
+expression did not change, she knew he saw it.
 
-Solomon shook his head, and waved one hand towards the broker, as
-introducing him.
+“Even so slight an incident as last [[Night|night]]’s,” he said, “if I might
+refer to it once more, would serve to illustrate my meaning, better
+than a greater one. Dombey and Son know neither [[Time|time]], nor place, nor
+season, but bear them all down. But I rejoice in its occurrence, for it
+has opened the way for me to approach Mrs Dombey with this subject
+today, even if it has entailed upon me the penalty of her temporary
+displeasure. Madam, in the midst of my uneasiness and apprehension on
+this subject, I was summoned by Mr Dombey to Leamington. There I saw
+you. There I could not help knowing what relation you would shortly
+occupy towards him—to his enduring happiness and yours. There I
+resolved to await the [[Time|time]] of your establishment at [[Home|home]] here, and to
+do as I have now done. I have, at heart, no [[Fear|fear]] that I shall be
+wanting in my duty to Mr Dombey, if I bury what I know in your breast;
+for where there is but one heart and mind between two persons—as in
+such a [[Marriage|marriage]]—one almost represents the other. I can acquit my
+[[Conscience|conscience]] therefore, almost equally, by confidence, on such a theme,
+in you or him. For the reasons I have mentioned I would select you. May
+I aspire to the distinction of believing that my confidence is
+accepted, and that I am relieved from my responsibility?”
 
-“Is there anything the matter?” asked Walter, with a catching in his
-breath.
+He long remembered the look she gave him—who could see it, and forget
+it?—and the struggle that ensued within her. At last she said:
 
-“No, no. There’s nothing the matter, said Mr Brogley. “Don’t let it put
-you out of the way.”
+“I accept it, Sir You will please to consider this matter at an end,
+and that it goes no farther.”
 
-Walter looked from the broker to his Uncle in mute amazement.
+He bowed low, and [[Rose|rose]]. She [[Rose|rose]] too, and he took leave with all
+[[Humility|humility]]. But Withers, meeting him on the stairs, stood amazed at the
+[[Beauty|beauty]] of his teeth, and at his brilliant smile; and as he rode away
+upon his white-legged [[Horse|horse]], the people took him for a dentist, such
+was the dazzling show he made. The people took her, when she rode out
+in her carriage presently, for a great lady, as happy as she was rich
+and fine. But they had not seen her, just before, in her own room with
+no one by; and they had not heard her utterance of the three words, “Oh
+Florence, Florence!”
 
-“The fact is,” said Mr Brogley, “there’s a little payment on a bond
-debt —three hundred and seventy odd, overdue: and I’m in possession.”
+Mrs Skewton, reposing on her sofa, and sipping her chocolate, had heard
+nothing but the low word business, for which she had a mortal aversion,
+insomuch that she had long banished it from her vocabulary, and had
+gone nigh, in a charming manner and with an immense amount of heart, to
+say nothing of [[Soul|soul]], to ruin divers milliners and others in
+consequence. Therefore Mrs Skewton asked no questions, and showed no
+curiosity. Indeed, the peach-velvet bonnet gave her sufficient
+occupation out of doors; for being perched on the back of her head, and
+the day being rather windy, it was frantic to escape from Mrs Skewton’s
+company, and would be coaxed into no sort of compromise. When the
+carriage was closed, and the [[Wind|wind]] shut out, the palsy played among the
+artificial roses again like an almshouse-full of superannuated zephyrs;
+and altogether Mrs Skewton had enough to do, and got on but
+indifferently.
 
-“In possession!” cried Walter, looking round at the shop.
+She got on no better towards [[Night|night]]; for when Mrs Dombey, in her
+dressing-room, had been dressed and waiting for her half an hour, and
+Mr Dombey, in the drawing-room, had paraded himself into a state of
+solemn fretfulness (they were all three going out to dinner), [[Flowers]]
+the Maid appeared with a pale face to Mrs Dombey, saying:
 
-“Ah!” said Mr Brogley, in confidential assent, and nodding his head as
-if he would urge the advisability of their all being comfortable
-together. “It’s an execution. That’s what it is. Don’t let it put you
-out of the way. I come myself, because of keeping it quiet and
-sociable. You know me. It’s quite private.”
+“If you please, Ma’am, I beg your pardon, but I can’t do nothing with
+Missis!”
 
-“Uncle Sol!” faltered Walter.
+“What do you mean?” asked Edith.
 
-“Wally, my boy,” returned his uncle. “It’s the first [[Time|time]]. Such a
-calamity never happened to me before. I’m an old man to begin.” Pushing
-up his spectacles again (for they were useless any longer to conceal
-his emotion), he covered his face with his hand, and sobbed aloud, and
-his [[Tears|tears]] fell down upon his coffee-coloured waistcoat.
+“[[Well]], Ma’am,” replied the frightened maid, “I hardly know. She’s
+making faces!”
 
-“Uncle Sol! Pray! oh don’t!” exclaimed Walter, who really felt a thrill
-of terror in seeing the old man weep. “For God’s sake don’t do that. Mr
-Brogley, what shall I do?”
+Edith hurried with her to her mother’s room. [[Cleopatra]] was arrayed in
+full dress, with the diamonds, short sleeves, rouge, curls, teeth, and
+other juvenility all complete; but Paralysis was not to be deceived,
+had known her for the object of its errand, and had struck her at her
+glass, where she lay like a horrible doll that had tumbled down.
 
-“I should recommend you looking up a friend or so,” said Mr Brogley,
-“and talking it over.”
+They took her to pieces in very shame, and put the little of her that
+was real on a bed. Doctors were sent for, and soon came. Powerful
+remedies were resorted to; opinions given that she would rally from
+this shock, but would not survive another; and there she lay
+speechless, and staring at the ceiling, for days; sometimes making
+inarticulate sounds in answer to such questions as did she know who
+were present, and the like: sometimes giving no reply either by sign or
+gesture, or in her unwinking eyes.
 
-“To be sure!” cried Walter, catching at anything. “Certainly! Thankee.
-[[Captain Cuttle]]’s the man, Uncle. Wait till I run to [[Captain Cuttle]].
-Keep your eye upon my Uncle, will you, Mr Brogley, and make him as
-comfortable as you can while I am gone? Don’t [[Despair|despair]], Uncle Sol. Try
-and keep a good heart, there’s a dear fellow!”
-
-Saying this with great fervour, and disregarding the old man’s broken
-remonstrances, Walter dashed out of the shop again as hard as he could
-go; and, having hurried round to the office to excuse himself on the
-plea of his Uncle’s sudden illness, set off, full [[Speed|speed]], for Captain
-Cuttle’s residence.
-
-Everything seemed altered as he ran along the streets. There were the
-usual entanglement and noise of carts, drays, omnibuses, waggons, and
-foot passengers, but the misfortune that had fallen on the wooden
-Midshipman made it strange and new. Houses and shops were different
-from what they used to be, and bore Mr Brogley’s warrant on their
-fronts in large characters. The broker seemed to have got hold of the
-very churches; for their spires [[Rose|rose]] into the sky with an unwonted air.
-Even the sky itself was changed, and had an execution in it plainly.
-
-[[Captain Cuttle]] lived on the brink of a little canal near the India
-Docks, where there was a swivel bridge which opened now and then to let
-some wandering [[Monster|monster]] of a [[Ship|ship]] come roaming up the street like a
-stranded leviathan. The gradual change from land to [[Water|water]], on the
-approach to [[Captain Cuttle]]’s lodgings, was curious. It began with the
-erection of flagstaffs, as appurtenances to public-houses; then came
-slop-sellers’ shops, with Guernsey shirts, sou’wester hats, and canvas
-pantaloons, at once the tightest and the loosest of their order,
-hanging up outside. These were succeeded by anchor and chain-cable
-forges, where sledgehammers were dinging upon iron all day long. Then
-came rows of houses, with little vane-surmounted masts uprearing
-themselves from among the scarlet beans. Then, ditches. Then, pollard
-willows. Then, more ditches. Then, unaccountable patches of dirty
-[[Water|water]], hardly to be descried, for the ships that covered them. Then,
-the air was perfumed with chips; and all other trades were swallowed up
-in mast, oar, and block-making, and boatbuilding. Then, the ground grew
-marshy and unsettled. Then, there was nothing to be smelt but rum and
-sugar. Then, [[Captain Cuttle]]’s lodgings—at once a first floor and a top
-storey, in Brig Place—were close before you.
-
-The Captain was one of those timber-looking men, suits of oak as [[Well|well]]
-as hearts, whom it is almost impossible for the liveliest [[Imagination|imagination]]
-to separate from any part of their dress, however insignificant.
-Accordingly, when Walter knocked at the door, and the Captain instantly
-poked his head out of one of his little front windows, and hailed him,
-with the hard glared hat already on it, and the shirt-collar like a
-sail, and the wide suit of blue, all standing as usual, Walter was as
-fully persuaded that he was always in that state, as if the Captain had
-been a bird and those had been his feathers.
-
-“Wal”r, my lad!” said [[Captain Cuttle]]. “Stand by and knock again. Hard!
-It’s washing day.”
-
-Walter, in his impatience, gave a prodigious thump with the knocker.
-
-“Hard it is!” said [[Captain Cuttle]], and immediately drew in his head, as
-if he expected a squall.
-
-Nor was he mistaken: for a widow lady, with her sleeves rolled up to
-her shoulders, and her arms frothy with soap-suds and smoking with hot
-[[Water|water]], replied to the summons with startling rapidity. Before she
-looked at Walter she looked at the knocker, and then, measuring him
-with her eyes from head to foot, said she wondered he had left any of
-it.
+At length she began to recover consciousness, and in some degree the
+power of motion, though not yet of speech. One day the use of her right
+hand returned; and showing it to her maid who was in attendance on her,
+and appearing very uneasy in her mind, she made signs for a pencil and
+some paper. This the maid immediately provided, thinking she was going
+to make a will, or write some last request; and Mrs Dombey being from
+[[Home|home]], the maid awaited the result with solemn feelings.

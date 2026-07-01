@@ -14,6 +14,34 @@ tags:
 </nav>
 
 
+"You see, it's rather a curious situation. If you have a motive for
+
+murdering, you probably didn't murder. But if you hadn't any motive,
+
+why, then perhaps, you did."
+"What on earth are you talking about?" demanded the duke, violently.
+"It's quite simple," said Fisher. "When you went across he was
+
+either alive or dead. If he was alive, it might be you who killed
+
+him, or why should you have held your tongue about his [[Death|death]]? But if
+
+he was dead, and you had a reason for killing him, you might have
+
+held your tongue for [[Fear|fear]] of being accused." Then after a [[Silence|silence]] he
+
+added, abstractedly: "Cyprus is a beautiful place, I believe.
+
+Romantic scenery and romantic people. Very intoxicating for a young
+
+man."
+The duke suddenly clenched his hands and said, thickly, "[[Well]], I had
+
+a motive."
+"Then you're all right," said Fisher, holding out his hand with an
+
+air of huge relief. "I was pretty sure you wouldn't really do it;
+
 you had a fright when you saw it done, as was only natural. Like a
 
 bad dream come true, wasn't it?"
@@ -161,31 +189,3 @@ disappear, and then he will disappear. I think there is every [[Hope|hope]]
 of his escape."
 "[[Hope]]?" repeated March, and stopped sculling for an instant.
 "Yes, [[Hope|hope]]," repeated the other. "To begin with, I'm not going to
-
-be exactly consumed with Corsican [[Revenge|revenge]] because somebody has
-
-killed Hook. Perhaps you may guess by this [[Time|time]] what Hook was. A
-
-damned [[Blood|blood]]-sucking blackmailer was that simple, strenuous,
-
-[[Self|self]]-made captain of industry. He had [[Secrets|secrets]] against nearly
-
-everybody; one against poor old Westmoreland about an early [[Marriage|marriage]]
-
-in Cyprus that might have put the duchess in a queer position; and
-
-one against Harker about some flutter with his client's money when
-
-he was a young solicitor. That's why they went to pieces when they
-
-found him murdered, of course. They felt as if they'd done it in a
-
-dream. But I admit I have another reason for not wanting our
-
-Hungarian friend actually hanged for the murder."
-"And what is that?" asked his friend.
-"Only that he didn't commit the murder," answered Fisher.
-Harold March laid down the oars and let the boat drift for a moment.
-"Do you know, I was half expecting something like that," he said.
-
-"It was quite irrational, but it was hanging about in the

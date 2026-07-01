@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 1 (part 5)"
+title: "Barnaby Rudge — Chapter 1 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_01/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_02/part_01">part 01 ›</a></div>
 </nav>
 
+
+The man glanced at the parish-clerk, whose air of consciousness and
+importance plainly betokened him to be the person referred to, and,
+observing that he had taken his pipe from his lips, after a very long
+whiff to keep it alight, and was evidently about to tell his story
+without further solicitation, gathered his large coat about him, and
+shrinking further back was almost lost in the gloom of the spacious
+chimney-corner, except when the flame, struggling from under a great
+faggot, whose weight almost crushed it for the [[Time|time]], shot upward with a
+strong and sudden glare, and illumining his figure for a moment, seemed
+afterwards to cast it into deeper obscurity than before.
 
 By this flickering light, which made the old room, with its heavy
 timbers and panelled walls, look as if it were built of polished

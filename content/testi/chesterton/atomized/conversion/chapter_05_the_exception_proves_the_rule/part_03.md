@@ -1,5 +1,5 @@
 ---
-title: "[[conversion]] — Chapter 5: THE EXCEPTION PROVES THE RULE (part 3)"
+title: "conversion — Chapter 5: THE EXCEPTION PROVES THE RULE (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/conversion-(chesterton)"

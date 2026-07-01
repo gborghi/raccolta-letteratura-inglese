@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 4 (part 4)"
+title: "Our Mutual Friend — Chapter 8 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,88 +14,122 @@ tags:
 </nav>
 
 
-‘You remember how we talked about the ships that day, Pa?’
+However, he gradually ceased to choke and crow, saving at intervals,
+and Miss Jenny got him into an easy-chair: where, with his eyes red and
+watery, with his features swollen, and with some half-dozen livid bars
+across his face, he presented a most rueful sight.
 
-‘Yes, my dear.’
+‘What ever possessed you to take salt and snuff, young man?’ inquired
+Miss Jenny.
 
-‘Isn’t it strange, now, to think that there was no John in all the
-ships, Pa?’
+‘I didn’t take it,’ the dismal youth replied. ‘It was crammed into my
+mouth.’
 
-‘Not at all, my dear.’
+‘Who crammed it?’ asked Miss Jenny.
 
-‘Oh, Pa! Not at all?’
+‘He did,’ answered Fledgeby. ‘The assassin. Lammle. He rubbed it into
+my mouth and up my nose and down my throat—Ow! Ow! Ow! Ah—h—h—h!
+Ugh!—to prevent my crying out, and then cruelly assaulted me.’
 
-‘No, my dear. How can we tell what coming people are aboard the ships
-that may be sailing to us now from the unknown seas!’
+‘With this?’ asked Miss Jenny, showing the pieces of cane.
 
-Bella remaining invisible and silent, her father remained at his
-dessert and wine, until he remembered it was [[Time|time]] for him to get [[Home|home]] to
-Holloway. ‘Though I positively cannot tear myself away,’ he cherubically
-added, ‘—it would be a sin—without drinking to many, many happy
-returns of this most happy day.’
+‘That’s the weapon,’ said Fledgeby, eyeing it with the air of an
+acquaintance. ‘He broke it over me. Oh I smart so! How did you come by
+it?’
 
-‘Here! ten thousand times!’ cried John. ‘I fill my glass and my precious
-wife’s.’
+‘When he ran down stairs and joined the lady he had left in the hall
+with his hat’—Miss Jenny began.
 
-‘Gentlemen,’ said the cherub, inaudibly addressing, in his Anglo-Saxon
-tendency to throw his feelings into the form of a speech, the boys down
-below, who were bidding against each other to put their heads in the mud
-for sixpence: ‘Gentlemen—and Bella and John—you will readily suppose
-that it is not my intention to trouble you with many observations on the
-present occasion. You will also at once infer the [[Nature|nature]] and even
-the terms of the toast I am about to propose on the present occasion.
-Gentlemen—and Bella and John—the present occasion is an occasion
-fraught with feelings that I cannot trust myself to express. But
-gentlemen—and Bella and John—for the part I have had in it, for the
-confidence you have placed in me, and for the affectionate good-[[Nature|nature]]
-and kindness with which you have determined not to find me in the way,
-when I am [[Well|well]] aware that I cannot be otherwise than in it more or less,
-I do most heartily thank you. Gentlemen—and Bella and John—my [[Love|love]]
-to you, and may we meet, as on the present occasion, on many future
-occasions; that is to say, gentlemen—and Bella and John—on many happy
-returns of the present happy occasion.’
+‘Oh!’ groaned Mr Fledgeby, writhing, ‘she was holding his hat, was she?
+I might have known she was in it.’
 
-Having thus concluded his address, the amiable cherub embraced his
-daughter, and took his flight to the steamboat which was to convey him
-to [[London]], and was then lying at the floating pier, doing its best to
-bump the same to bits. But, the happy couple were not going to part with
-him in that way, and before he had been on board two minutes, there they
-were, looking down at him from the wharf above.
+‘When he came down stairs and joined the lady who wouldn’t let me come
+up, he gave me the pieces for you, and I was to say, “With Mr Alfred
+Lammle’s compliments on his leaving England.”’ Miss Jenny said it with
+such spiteful satisfaction, and such a hitch of her chin and eyes as
+might have added to Mr Fledgeby’s miseries, if he could have noticed
+either, in his bodily [[Pain|pain]] with his hand to his head.
 
-‘Pa, dear!’ cried Bella, beckoning him with her parasol to approach the
-side, and bending gracefully to whisper.
+‘Shall I go for the police?’ inquired Miss Jenny, with a nimble start
+towards the door.
 
-‘Yes, my darling.’
+‘Stop! No, don’t!’ cried Fledgeby. ‘Don’t, please. We had better keep it
+quiet. Will you be so good as shut the door? Oh I do smart so!’
 
-‘Did I beat you much with that horrid little bonnet, Pa?’
+In testimony of the extent to which he smarted, Mr Fledgeby came
+wallowing out of the easy-chair, and took another roll on the carpet.
 
-‘Nothing to speak of; my dear.’
+‘Now the door’s shut,’ said Mr Fledgeby, sitting up in anguish, with
+his Turkish cap half on and half off, and the bars on his face getting
+bluer, ‘do me the kindness to look at my back and shoulders. They must
+be in an awful state, for I hadn’t got my dressing-gown on, when the
+brute came rushing in. Cut my shirt away from the collar; there’s a pair
+of scissors on that table. Oh!’ groaned Mr Fledgeby, with his hand to
+his head again. ‘How I do smart, to be sure!’
 
-‘Did I pinch your legs, Pa?’
+‘There?’ inquired Miss Jenny, alluding to the back and shoulders.
 
-‘Only nicely, my pet.’
+‘Oh Lord, yes!’ moaned Fledgeby, rocking himself. ‘And all over!
+Everywhere!’
 
-‘You are sure you quite forgive me, Pa? Please, Pa, please, forgive me
-quite!’ Half laughing at him and half crying to him, Bella besought him
-in the prettiest manner; in a manner so engaging and so playful and
-so natural, that her cherubic parent made a coaxing face as if she had
-never grown up, and said, ‘What a silly little Mouse it is!’
+The busy little dressmaker quickly snipped the shirt away, and laid
+bare the results of as furious and sound a thrashing as even Mr Fledgeby
+merited. ‘You may [[Well|well]] smart, young man!’ exclaimed Miss Jenny. And
+stealthily rubbed her little hands behind him, and poked a few exultant
+pokes with her two forefingers over the [[Crown|crown]] of his head.
 
-‘But you do forgive me that, and everything else; don’t you, Pa?’
+‘What do you think of vinegar and brown paper?’ inquired the [[Suffering|suffering]]
+Fledgeby, still rocking and moaning. ‘Does it look as if vinegar and
+brown paper was the sort of application?’
 
-‘Yes, my dearest.’
+‘Yes,’ said Miss Jenny, with a silent chuckle. ‘It looks as if it ought
+to be Pickled.’
 
-‘And you don’t feel solitary or neglected, going away by yourself; do
-you, Pa?’
+Mr Fledgeby collapsed under the word ‘Pickled,’ and groaned again.
+‘My kitchen is on this floor,’ he said; ‘you’ll find brown paper in a
+dresser-drawer there, and a bottle of vinegar on a shelf. Would you have
+the kindness to make a few plasters and put ’em on? It can’t be kept too
+quiet.’
 
-‘Lord bless you! No, my Life!’
+‘One, two—hum—five, six. You’ll want six,’ said the dress-maker.
 
-‘Good-bye, dearest Pa. Good-bye!’
+‘There’s smart enough,’ whimpered Mr Fledgeby, groaning and writhing
+again, ‘for sixty.’
 
-‘Good-bye, my darling! Take her away, my dear John. Take her [[Home|home]]!’
+Miss Jenny repaired to the kitchen, scissors in hand, found the brown
+paper and found the vinegar, and skilfully cut out and steeped six
+large plasters. When they were all lying ready on the dresser, an idea
+occurred to her as she was about to gather them up.
 
-So, she leaning on her husband’s arm, they turned homeward by a rosy
-path which the gracious sun struck out for them in its setting. And O
-there are days in this life, worth life and worth [[Death|death]]. And O what a
-bright old [[Song|song]] it is, that O ’tis [[Love|love]], ’tis [[Love|love]], ’tis [[Love|love]] that makes
-the world go round!
+‘I think,’ said Miss Jenny with a silent laugh, ‘he ought to have a
+little pepper? Just a few grains? I think the young man’s tricks and
+manners make a claim upon his friends for a little pepper?’
+
+Mr Fledgeby’s evil star showing her the pepper-box on the chimneypiece,
+she climbed upon a chair, and got it down, and sprinkled all the
+plasters with a judicious hand. She then went back to Mr Fledgeby, and
+stuck them all on him: Mr Fledgeby uttering a sharp howl as each was put
+in its place.
+
+‘There, young man!’ said the dolls’ dressmaker. ‘Now I [[Hope|hope]] you feel
+pretty comfortable?’
+
+Apparently, Mr Fledgeby did not, for he cried by way of answer, ‘Oh—h
+how I do smart!’
+
+Miss Jenny got his Persian gown upon him, extinguished his eyes
+crookedly with his Persian cap, and helped him to his bed: upon which he
+climbed groaning. ‘Business between you and me being out of the question
+to-day, young man, and my [[Time|time]] being precious,’ said Miss Jenny then,
+‘I’ll make myself scarce. Are you comfortable now?’
+
+‘Oh my eye!’ cried Mr Fledgeby. ‘No, I ain’t. Oh—h—h! how I do smart!’
+
+The last thing Miss Jenny saw, as she looked back before closing the
+room door, was Mr Fledgeby in the act of plunging and gambolling all
+over his bed, like a porpoise or dolphin in its native element. She then
+shut the bedroom door, and all the other doors, and going down stairs
+and emerging from the Albany into the busy streets, took omnibus for
+Saint Mary Axe: pressing on the [[Road|road]] all the gaily-dressed ladies whom
+she could see from the [[Window|window]], and making them unconscious lay-figures
+for dolls, while she mentally cut them out and basted them.

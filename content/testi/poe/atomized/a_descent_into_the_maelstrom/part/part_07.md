@@ -1,5 +1,5 @@
 ---
-title: "[[A Descent Into the Maelstrom]] (part 7)"
+title: "A Descent Into the Maelstrom (part 7)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/a-descent-into-the-maelstrom-(poe)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/a_descent_into_the_maelstrom/part/part_06">‹ part 06</a><span></span></div>
 </nav>
 
+
+      “There was one startling circumstance which went a great way in
+      enforcing these observations, and rendering me anxious to turn
+      them to account, and this was that, at every revolution, we
+      passed something like a barrel, or else the yard or the mast of a
+      vessel, while many of these things, which had been on our level
+      when I first opened my eyes upon the wonders of the whirlpool,
+      were now high up above us, and seemed to have moved but little
+      from their original station.
 
       “I no longer hesitated what to do. I resolved to lash myself
       securely to the [[Water|water]] cask upon which I now held, to cut it loose

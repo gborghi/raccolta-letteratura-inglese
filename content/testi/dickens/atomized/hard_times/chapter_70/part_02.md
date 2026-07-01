@@ -1,5 +1,5 @@
 ---
-title: "Hard Times — Chapter 2 (part 2)"
+title: "Hard Times — Chapter 5 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/hard-times-(dickens)"
@@ -14,130 +14,120 @@ tags:
 </nav>
 
 
-‘I speak to Mr. Harthouse?’ she said, when they were [[Alone|alone]].
+‘It’s a coincidence,’ exclaimed Mrs. Sparsit, as she was released by the
+coachman.  ‘It’s a [[Providence]]!  Come out, ma’am!’ then said Mrs. Sparsit,
+to some one inside, ‘come out, or we’ll have you dragged out!’
 
-‘To Mr. Harthouse.’  He added in his mind, ‘And you speak to him with the
-most confiding eyes I ever saw, and the most earnest voice (though so
-quiet) I ever heard.’
+Hereupon, no other than the mysterious old woman descended.  Whom Mrs.
+Sparsit incontinently collared.
 
-‘If I do not understand—and I do not, sir’—said Sissy, ‘what your [[Honour|honour]]
-as a gentleman binds you to, in other matters:’ the [[Blood|blood]] really [[Rose|rose]] in
-his face as she began in these words: ‘I am sure I may rely upon it to
-keep my visit secret, and to keep secret what I am going to say.  I will
-rely upon it, if you will tell me I may so far trust—’
+‘Leave her [[Alone|alone]], everybody!’ cried Mrs. Sparsit, with great energy.
+‘Let nobody touch her.  She belongs to me.  Come in, ma’am!’ then said
+Mrs. Sparsit, reversing her former word of command.  ‘Come in, ma’am, or
+we’ll have you dragged in!’
 
-‘You may, I assure you.’
+The spectacle of a matron of classical deportment, seizing an ancient
+woman by the throat, and hauling her into a dwelling-[[house]], would have
+been under any circumstances, sufficient [[Temptation|temptation]] to all true English
+stragglers so blest as to witness it, to force a way into that
+dwelling-[[house]] and see the matter out.  But when the phenomenon was
+enhanced by the notoriety and mystery by this [[Time|time]] associated all over
+the town with the Bank robbery, it would have lured the stragglers in,
+with an irresistible attraction, though the roof had been expected to
+fall upon their heads.  Accordingly, the chance witnesses on the ground,
+consisting of the busiest of the neighbours to the number of some
+five-and-twenty, closed in after Sissy and Rachael, as they closed in
+after Mrs. Sparsit and her prize; and the whole [[Body|body]] made a disorderly
+irruption into Mr. Bounderby’s dining-room, where the people behind lost
+not a moment’s [[Time|time]] in mounting on the chairs, to get the better of the
+people in front.
 
-‘I am young, as you see; I am [[Alone|alone]], as you see.  In coming to you, sir,
-I have no advice or encouragement beyond my own [[Hope|hope]].’  He thought, ‘But
-that is very strong,’ as he followed the momentary upward glance of her
-eyes.  He thought besides, ‘This is a very odd beginning.  I don’t see
-where we are going.’
+‘Fetch Mr. Bounderby down!’ cried Mrs. Sparsit.  ‘Rachael, young woman;
+you know who this is?’
 
-‘I think,’ said Sissy, ‘you have already guessed whom I left just now!’
+‘It’s Mrs. Pegler,’ said Rachael.
 
-‘I have been in the greatest concern and uneasiness during the last
-four-and-twenty hours (which have appeared as many years),’ he returned,
-‘on a lady’s account.  The hopes I have been encouraged to form that you
-come from that lady, do not deceive me, I trust.’
+‘I should think it is!’ cried Mrs. Sparsit, exulting.  ‘Fetch Mr.
+Bounderby.  Stand away, everybody!’  Here old Mrs. Pegler, muffling
+herself up, and shrinking from observation, whispered a word of entreaty.
+‘Don’t tell me,’ said Mrs. Sparsit, aloud.  ‘I have told you twenty
+times, coming along, that I will _not_ leave you till I have handed you
+over to him myself.’
 
-‘I left her within an hour.’
+Mr. Bounderby now appeared, accompanied by Mr. Gradgrind and the whelp,
+with whom he had been holding conference up-stairs.  Mr. Bounderby looked
+more astonished than hospitable, at sight of this uninvited party in his
+dining-room.
 
-‘At—!’
+‘Why, what’s the matter now!’ said he.  ‘Mrs. Sparsit, ma’am?’
 
-‘At her father’s.’
+‘Sir,’ explained that worthy woman, ‘I trust it is my good fortune to
+produce a person you have much desired to find.  Stimulated by my wish to
+relieve your mind, sir, and connecting together such imperfect clues to
+the part of the country in which that person might be supposed to reside,
+as have been afforded by the young woman, Rachael, fortunately now
+present to identify, I have had the happiness to succeed, and to bring
+that person with me—I need not say most unwillingly on her part.  It has
+not been, sir, without some trouble that I have effected this; but
+trouble in your service is to me a pleasure, and hunger, thirst, and cold
+a real gratification.’
 
-Mr. Harthouse’s face lengthened in spite of his coolness, and his
-perplexity increased.  ‘Then I certainly,’ he thought, ‘do _not_ see
-where we are going.’
+Here Mrs. Sparsit ceased; for Mr. Bounderby’s visage exhibited an
+extraordinary combination of all possible colours and expressions of
+discomfiture, as old Mrs. Pegler was disclosed to his view.
 
-‘She hurried there last [[Night|night]].  She arrived there in great agitation, and
-was insensible all through the [[Night|night]].  I live at her father’s, and was
-with her.  You may be sure, sir, you will never see her again as long as
-you live.’
+‘Why, what do you mean by this?’ was his highly unexpected demand, in
+great warmth.  ‘I ask you, what do you mean by this, Mrs. Sparsit,
+ma’am?’
 
-Mr. Harthouse drew a long breath; and, if ever man found himself in the
-position of not knowing what to say, made the discovery beyond all
-question that he was so circumstanced.  The [[Child|child]]-like ingenuousness with
-which his visitor spoke, her modest fearlessness, her truthfulness which
-put all artifice aside, her entire forgetfulness of herself in her
-earnest quiet holding to the object with which she had come; all this,
-together with her reliance on his easily given promise—which in itself
-shamed him—presented something in which he was so inexperienced, and
-against which he knew any of his usual weapons would fall so powerless;
-that not a word could he rally to his relief.
+‘Sir!’ exclaimed Mrs. Sparsit, faintly.
 
-At last he said:
+‘Why don’t you mind your own business, ma’am?’ roared Bounderby.  ‘How
+dare you go and poke your officious nose into my family affairs?’
 
-‘So startling an announcement, so confidently made, and by such lips, is
-really disconcerting in the last degree.  May I be permitted to inquire,
-if you are charged to convey that information to me in those hopeless
-words, by the lady of whom we speak?’
+This allusion to her favourite feature overpowered Mrs. Sparsit.  She sat
+down stiffly in a chair, as if she were frozen; and with a fixed stare at
+Mr. Bounderby, slowly grated her mittens against one another, as if they
+were frozen too.
 
-‘I have no charge from her.’
+‘My dear Josiah!’ cried Mrs. Pegler, trembling.  ‘My darling boy!  I am
+not to blame.  It’s not my fault, Josiah.  I told this lady over and over
+again, that I knew she was doing what would not be agreeable to you, but
+she would do it.’
 
-‘The drowning man catches at the straw.  With no disrespect for your
-judgment, and with no [[Doubt|doubt]] of your sincerity, excuse my saying that I
-cling to the belief that there is yet [[Hope|hope]] that I am not condemned to
-perpetual [[Exile|exile]] from that lady’s presence.’
+‘What did you let her bring you for?  Couldn’t you knock her cap off, or
+her tooth out, or scratch her, or do something or other to her?’ asked
+Bounderby.
 
-‘There is not the least [[Hope|hope]].  The first object of my coming here, sir,
-is to assure you that you must believe that there is no more [[Hope|hope]] of your
-ever speaking with her again, than there would be if she had died when
-she came [[Home|home]] last [[Night|night]].’
+‘My own boy!  She threatened me that if I resisted her, I should be
+brought by constables, and it was better to come quietly than make that
+stir in such a’—Mrs. Pegler glanced timidly but proudly round the
+walls—‘such a fine [[house]] as this.  Indeed, indeed, it is not my fault!
+My dear, noble, stately boy!  I have always lived quiet, and secret,
+Josiah, my dear.  I have never broken the condition once.  I have never
+said I was your mother.  I have admired you at a distance; and if I have
+come to town sometimes, with long times between, to take a proud peep at
+you, I have done it unbeknown, my [[Love|love]], and gone away again.’
 
-‘Must believe?  But if I can’t—or if I should, by infirmity of [[Nature|nature]], be
-obstinate—and won’t—’
+Mr. Bounderby, with his hands in his pockets, walked in impatient
+mortification up and down at the side of the long dining-table, while the
+spectators greedily took in every syllable of Mrs. Pegler’s appeal, and
+at each succeeding syllable became more and more round-eyed.  Mr.
+Bounderby still walking up and down when Mrs. Pegler had done, Mr.
+Gradgrind addressed that maligned old lady:
 
-‘It is still true.  There is no [[Hope|hope]].’
+‘I am surprised, madam,’ he observed with severity, ‘that in your old age
+you have the face to claim Mr. Bounderby for your son, after your
+unnatural and inhuman treatment of him.’
 
-[[James Harthouse]] looked at her with an incredulous smile upon his lips;
-but her mind looked over and beyond him, and the smile was quite thrown
-away.
+‘_Me_ unnatural!’ cried poor old Mrs. Pegler.  ‘_Me_ inhuman!  To my dear
+boy?’
 
-He bit his lip, and took a little [[Time|time]] for consideration.
+‘Dear!’ repeated Mr. Gradgrind.  ‘Yes; dear in his [[Self|self]]-made prosperity,
+madam, I dare say.  Not very dear, however, when you deserted him in his
+infancy, and left him to the brutality of a drunken grandmother.’
 
-‘[[Well]]!  If it should unhappily appear,’ he said, ‘after due pains and
-duty on my part, that I am brought to a position so desolate as this
-banishment, I shall not become the lady’s persecutor.  But you said you
-had no commission from her?’
-
-‘I have only the commission of my [[Love|love]] for her, and her [[Love|love]] for me.  I
-have no other trust, than that I have been with her since she came [[Home|home]],
-and that she has given me her confidence.  I have no further trust, than
-that I know something of her character and her [[Marriage|marriage]].  O Mr.
-Harthouse, I think you had that trust too!’
-
-He was touched in the cavity where his heart should have been—in that
-nest of addled eggs, where the [[Birds|birds]] of heaven would have lived if they
-had not been whistled away—by the fervour of this reproach.
-
-‘I am not a moral sort of fellow,’ he said, ‘and I never make any
-pretensions to the character of a moral sort of fellow.  I am as immoral
-as need be.  At the same [[Time|time]], in bringing any distress upon the lady who
-is the subject of the present conversation, or in unfortunately
-compromising her in any way, or in committing myself by any expression of
-sentiments towards her, not perfectly reconcilable with—in fact with—the
-domestic hearth; or in taking any advantage of her father’s being a
-[[Machine|machine]], or of her brother’s being a whelp, or of her husband’s being a
-bear; I beg to be allowed to assure you that I have had no particularly
-evil intentions, but have glided on from one step to another with a
-smoothness so perfectly diabolical, that I had not the slightest idea the
-catalogue was half so long until I began to turn it over.  Whereas I
-find,’ said Mr. [[James Harthouse]], in conclusion, ‘that it is really in
-several volumes.’
-
-Though he said all this in his frivolous way, the way seemed, for that
-once, a conscious polishing of but an ugly surface.  He was silent for a
-moment; and then proceeded with a more [[Self|self]]-possessed air, though with
-traces of vexation and disappointment that would not be polished out.
-
-‘After what has been just now represented to me, in a manner I find it
-impossible to [[Doubt|doubt]]—I know of hardly any other source from which I could
-have accepted it so readily—I feel bound to say to you, in whom the
-confidence you have mentioned has been reposed, that I cannot refuse to
-contemplate the possibility (however unexpected) of my seeing the lady no
-more.  I am solely to blame for the thing having come to this—and—and, I
-cannot say,’ he added, rather hard up for a general peroration, ‘that I
-have any sanguine expectation of ever becoming a moral sort of fellow, or
-that I have any belief in any moral sort of fellow whatever.’
+‘_I_ deserted my Josiah!’ cried Mrs. Pegler, clasping her hands.  ‘Now,
+Lord forgive you, sir, for your wicked imaginations, and for your scandal
+against the [[Memory|memory]] of my poor mother, who died in my arms before Josiah
+was born.  May you repent of it, sir, and live to know better!’

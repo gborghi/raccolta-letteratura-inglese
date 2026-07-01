@@ -101,7 +101,7 @@ that is he must belong to the soil and not merely make the soil
 belong to him.  He must have the simplicity, and what many would
 call the stupidity of the peasant.  He must not only call a spade
 a spade, but regard it as a spade and not as a speculation.
-By some true [[Conversion|conversion]] the urban and modern man must be not
+By some true [[conversion]] the urban and modern man must be not
 only on the soil, but of the soil, and free from our urban trick
 of inventing the word dirt for the [[Dust|dust]] to which we shall return.
 He must be washed in mud, that he may be clean.

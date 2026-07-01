@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 12 (part 3)"
+title: "Jane Eyre — Chapter 12 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,27 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_12/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_12/part_04">part 04 ›</a></div>
 </nav>
 
+
+“Are you injured, sir?”
+
+I think he was swearing, but am not certain; however, he was
+pronouncing some formula which prevented him from replying to me
+directly.
+
+“Can I do anything?” I asked again.
+
+“You must just stand on one side,” he answered as he [[Rose|rose]], first to his
+knees, and then to his feet. I did; whereupon began a heaving,
+stamping, clattering process, accompanied by a barking and baying which
+removed me effectually some yards’ distance; but I would not be driven
+quite away till I saw the event. This was finally fortunate; the [[Horse|horse]]
+was re-established, and the dog was silenced with a “Down, Pilot!” The
+traveller now, stooping, felt his foot and leg, as if trying whether
+they were sound; apparently something ailed them, for he halted to the
+stile whence I had just risen, and sat down.
+
+I was in the mood for being useful, or at least officious, I think, for
+I now drew near him again.
 
 “If you are hurt, and want help, sir, I can fetch some one either from
 Thornfield Hall or from Hay.”
@@ -140,26 +161,3 @@ bound away; the dog rushed in his traces; all three vanished,
 
 “Like heath that, in the wilderness,
     The wild [[Wind|wind]] whirls away.”
-
-
-I took up my muff and walked on. The incident had occurred and was gone
-for me: it _was_ an incident of no moment, no [[Romance|romance]], no interest in a
-sense; yet it marked with change one single hour of a monotonous life.
-My help had been needed and claimed; I had given it: I was pleased to
-have done something; trivial, transitory though the deed was, it was
-yet an active thing, and I was weary of an existence all passive. The
-new face, too, was like a new picture introduced to the gallery of
-[[Memory|memory]]; and it was dissimilar to all the others hanging there: firstly,
-because it was masculine; and, secondly, because it was dark, strong,
-and stern. I had it still before me when I entered Hay, and slipped the
-letter into the post-office; I saw it as I walked fast down-[[Hill|hill]] all
-the way [[Home|home]]. When I came to the stile, I stopped a minute, looked
-round and listened, with an idea that a [[Horse|horse]]’s hoofs might ring on the
-causeway again, and that a rider in a cloak, and a Gytrash-like
-Newfoundland dog, might be again apparent: I saw only the hedge and a
-pollard willow before me, rising up still and straight to meet the
-moonbeams; I heard only the faintest waft of [[Wind|wind]] roaming fitful among
-the trees round Thornfield, a mile distant; and when I glanced down in
-the direction of the murmur, my eye, traversing the hall-front, caught
-a light kindling in a [[Window|window]]: it reminded me that I was late, and I
-hurried on.

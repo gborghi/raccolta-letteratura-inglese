@@ -1,5 +1,5 @@
 ---
-title: "[[Agnes Grey]] — Chapter 7 (part 4)"
+title: "Agnes Grey — Chapter 7 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/agnes-grey-(bronte)"
@@ -107,19 +107,3 @@ country itself was pleasant, as far as fertile fields, flourishing
 trees, quiet green lanes, and smiling hedges with wild-[[Flowers|flowers]]
 scattered along their banks, could make it; but it was depressingly
 flat to one born and nurtured among the rugged hills of ——.
-
-We were situated nearly two miles from the village church, and,
-consequently, the family carriage was put in requisition every [[Sunday]]
-morning, and sometimes oftener. Mr. and Mrs. Murray generally thought
-it sufficient to show themselves at church once in the course of the
-day; but frequently the children preferred going a second [[Time|time]] to
-wandering about the grounds all the day with nothing to do. If some of
-my pupils chose to walk and take me with them, it was [[Well|well]] for me; for
-otherwise my position in the carriage was to be crushed into the corner
-farthest from the open [[Window|window]], and with my back to the horses: a
-position which invariably made me sick; and if I were not actually
-obliged to leave the church in the middle of the service, my devotions
-were disturbed with a feeling of languor and sickliness, and the
-tormenting [[Fear|fear]] of its becoming worse: and a depressing headache was
-generally my companion throughout the day, which would otherwise have
-been one of welcome rest, and holy, calm enjoyment.

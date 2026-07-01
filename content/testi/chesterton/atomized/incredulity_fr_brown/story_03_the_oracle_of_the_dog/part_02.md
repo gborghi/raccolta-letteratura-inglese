@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The Oracle of the Dog (part 2)"
+title: "incredulity Fr Brown — The Oracle of the Dog (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -112,6 +112,3 @@ broken. As I live, it was broken by a faint and far - off shriek, like
 the shriek of a woman from beyond the hedges inland. We didn't know what
 it was then; but we knew afterwards. It was the cry the girl gave when
 she first saw the [[Body|body]] of her father.'
-
-'You went back, I suppose,' said [[Father Brown]] patiently. 'What happened
-then?'

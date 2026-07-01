@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 9: I HAVE A MEMORABLE BIRTHDAY"
+title: "David Copperfield — Chapter 9: I HAVE A MEMORABLE BIRTHDAY"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/david-copperfield-(dickens)"

@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 12 (part 4)"
+title: "Our Mutual Friend — Chapter 14 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,143 +14,136 @@ tags:
 </nav>
 
 
-‘What’s the matter?’ asked the man.
+The Secretary stated to the schoolmaster how the object was, to send to
+him for certain occasional evening instruction, a youth whom Mr and Mrs
+Boffin wished to help to an industrious and useful place in life. The
+schoolmaster was willing to undertake the charge of such a pupil. The
+Secretary inquired on what terms? The schoolmaster stated on what terms.
+Agreed and disposed of.
 
-‘Why, I know that knife!’ said Riderhood.
+‘May I ask, sir,’ said [[Bradley Headstone]], ‘to whose good opinion I owe a
+recommendation to you?’
 
-‘Yes, I dare say you do.’
+‘You should know that I am not the principal here. I am Mr Boffin’s
+Secretary. Mr Boffin is a gentleman who inherited a property of which
+you may have heard some public mention; the Harmon property.’
 
-He motioned to him to hold up his glass, and filled it. Riderhood
-emptied it to the last drop and began again.
+‘Mr Harmon,’ said Bradley: who would have been a great deal more at a
+loss than he was, if he had known to whom he spoke: ‘was murdered and
+found in the [[River|river]].’
 
-‘That there knife—’
+‘Was murdered and found in the [[River|river]].’
 
-‘Stop,’ said the man, composedly. ‘I was going to drink to your
-daughter. Your health, Miss Riderhood.’
+‘It was not—’
 
-‘That knife was the knife of a seaman named George Radfoot.’
+‘No,’ interposed the Secretary, smiling, ‘it was not he who recommended
+you. Mr Boffin heard of you through a certain Mr Lightwood. I think you
+know Mr Lightwood, or know of him?’
 
-‘It was.’
+‘I know as much of him as I wish to know, sir. I have no acquaintance
+with Mr Lightwood, and I [[Desire|desire]] none. I have no objection to Mr
+Lightwood, but I have a particular objection to some of Mr Lightwood’s
+friends—in short, to one of Mr Lightwood’s friends. His great friend.’
 
-‘That seaman was [[Well|well]] beknown to me.’
+He could hardly get the words out, even then and there, so fierce did
+he grow (though keeping himself down with infinite pains of repression),
+when the careless and contemptuous bearing of [[Eugene Wrayburn]] [[Rose|rose]]
+before his mind.
 
-‘He was.’
+The Secretary saw there was a strong feeling here on some sore point,
+and he would have made a diversion from it, but for Bradley’s holding to
+it in his cumbersome way.
 
-‘What’s come to him?’
+‘I have no objection to mention the friend by name,’ he said, doggedly.
+‘The person I object to, is Mr [[Eugene Wrayburn]].’
 
-‘[[Death]] has come to him. [[Death]] came to him in an ugly shape. He looked,’
-said the man, ‘very horrible after it.’
+The Secretary remembered him. In his disturbed recollection of that
+[[Night|night]] when he was striving against the drugged drink, there was but a
+dim image of Eugene’s person; but he remembered his name, and his manner
+of speaking, and how he had gone with them to view the [[Body|body]], and where
+he had stood, and what he had said.
 
-‘Arter what?’ said Riderhood, with a frowning stare.
+‘Pray, Mr Headstone, what is the name,’ he asked, again trying to make a
+diversion, ‘of young Hexam’s sister?’
 
-‘After he was killed.’
+‘Her name is Lizzie,’ said the schoolmaster, with a strong contraction
+of his whole face.
 
-‘Killed? Who killed him?’
+‘She is a young woman of a remarkable character; is she not?’
 
-Only answering with a shrug, the man filled the footless glass, and
-Riderhood emptied it: looking amazedly from his daughter to his visitor.
+‘She is sufficiently remarkable to be very superior to Mr Eugene
+Wrayburn—though an ordinary person might be that,’ said the
+schoolmaster; ‘and I [[Hope|hope]] you will not think it impertinent in me, sir,
+to ask why you put the two names together?’
 
-‘You don’t mean to tell a honest man—’ he was recommencing with
-his empty glass in his hand, when his eye became fascinated by the
-stranger’s outer coat. He leaned across the table to see it nearer,
-touched the sleeve, turned the cuff to look at the sleeve-lining (the
-man, in his perfect composure, offering not the least objection), and
-exclaimed, ‘It’s my belief as this here coat was George Radfoot’s too!’
+‘By mere accident,’ returned the Secretary. ‘Observing that Mr Wrayburn
+was a disagreeable subject with you, I tried to get away from it: though
+not very successfully, it would appear.’
 
-‘You are right. He wore it the last [[Time|time]] you ever saw him, and the last
-[[Time|time]] you ever will see him—in this world.’
+‘Do you know Mr Wrayburn, sir?’
 
-‘It’s my belief you mean to tell me to my face you killed him!’
-exclaimed Riderhood; but, nevertheless, allowing his glass to be filled
-again.
+‘No.’
 
-The man only answered with another shrug, and showed no symptom of
-confusion.
+‘Then perhaps the names cannot be put together on the authority of any
+representation of his?’
 
-‘Wish I may die if I know what to be up to with this chap!’ said
-Riderhood, after staring at him, and tossing his last glassful down his
-throat. ‘Let’s know what to make of you. Say something plain.’
+‘Certainly not.’
 
-‘I will,’ returned the other, leaning forward across the table, and
-speaking in a low impressive voice. ‘What a liar you are!’
+‘I took the liberty to ask,’ said Bradley, after casting his eyes on
+the ground, ‘because he is capable of making any representation, in the
+swaggering levity of his insolence. I—I [[Hope|hope]] you will not misunderstand
+me, sir. I—I am much interested in this brother and sister, and the
+subject awakens very strong feelings within me. Very, very, strong
+feelings.’ With a shaking hand, Bradley took out his handkerchief and
+wiped his brow.
 
-The honest witness [[Rose|rose]], and made as though he would fling his glass in
-the man’s face. The man not wincing, and merely shaking his forefinger
-half knowingly, half menacingly, the piece of honesty thought better of
-it and sat down again, putting the glass down too.
+The Secretary thought, as he glanced at the schoolmaster’s face, that he
+had opened a channel here indeed, and that it was an unexpectedly dark
+and deep and stormy one, and difficult to sound. All at once, in the
+midst of his turbulent emotions, Bradley stopped and seemed to challenge
+his look. Much as though he suddenly asked him, ‘What do you see in me?’
 
-‘And when you went to that lawyer yonder in the Temple with that
-invented story,’ said the stranger, in an exasperatingly comfortable
-sort of confidence, ‘you might have had your strong suspicions of a
-friend of your own, you know. I think you had, you know.’
+‘The brother, young Hexam, was your real recommendation here,’ said the
+Secretary, quietly going back to the point; ‘Mr and Mrs Boffin happening
+to know, through Mr Lightwood, that he was your pupil. Anything that
+I ask respecting the brother and sister, or either of them, I ask for
+myself out of my own interest in the subject, and not in my official
+character, or on Mr Boffin’s behalf. How I come to be interested, I need
+not explain. You know the father’s connection with the discovery of Mr
+Harmon’s [[Body|body]].’
 
-‘Me my suspicions? Of what friend?’
+‘Sir,’ replied Bradley, very restlessly indeed, ‘I know all the
+circumstances of that case.’
 
-‘Tell me again whose knife was this?’ demanded the man.
+‘Pray tell me, Mr Headstone,’ said the Secretary. ‘Does the sister
+suffer under any stigma because of the impossible accusation—groundless
+would be a better word—that was made against the father, and
+substantially withdrawn?’
 
-‘It was possessed by, and was the property of—him as I have made
-mention on,’ said Riderhood, stupidly evading the actual mention of the
-name.
+‘No, sir,’ returned Bradley, with a kind of anger.
 
-‘Tell me again whose coat was this?’
+‘I am very glad to hear it.’
 
-‘That there article of clothing likeways belonged to, and was wore
-by—him as I have made mention on,’ was again the dull Old Bailey
-evasion.
+‘The sister,’ said Bradley, separating his words over-carefully, and
+speaking as if he were repeating them from a book, ‘suffers under no
+reproach that repels a man of unimpeachable character who had made
+for himself every step of his way in life, from placing her in his own
+station. I will not say, raising her to his own station; I say, placing
+her in it. The sister labours under no reproach, unless she should
+unfortunately make it for herself. When such a man is not deterred from
+regarding her as his equal, and when he has convinced himself that
+there is no blemish on her, I think the fact must be taken to be pretty
+expressive.’
 
-‘I suspect that you gave him the credit of the deed, and of keeping
-cleverly out of the way. But there was small cleverness in HIS keeping
-out of the way. The cleverness would have been, to have got back for one
-single instant to the light of the sun.’
+‘And there is such a man?’ said the Secretary.
 
-‘Things is come to a pretty pass,’ growled Mr Riderhood, rising to his
-feet, goaded to stand at bay, ‘when bullyers as is wearing dead men’s
-clothes, and bullyers as is armed with dead men’s knives, is to come
-into the houses of honest live men, getting their livings by the sweats
-of their brows, and is to make these here sort of charges with no rhyme
-and no reason, neither the one nor yet the other! Why should I have had
-my suspicions of him?’
+[[Bradley Headstone]] knotted his brows, and squared his large lower jaw,
+and fixed his eyes on the ground with an air of determination that
+seemed unnecessary to the occasion, as he replied: ‘And there is such a
+man.’
 
-‘Because you knew him,’ replied the man; ‘because you had been one with
-him, and knew his real character under a fair outside; because on the
-[[Night|night]] which you had afterwards reason to believe to be the very [[Night|night]] of
-the murder, he came in here, within an hour of his having left his [[Ship|ship]]
-in the docks, and asked you in what lodgings he could find room. Was
-there no stranger with him?’
-
-‘I’ll take my world-without-end everlasting Alfred David that you warn’t
-with him,’ answered Riderhood. ‘You talk big, you do, but things look
-pretty black against yourself, to my thinking. You charge again’ me that
-George Radfoot got lost sight of, and was no more thought of. What’s
-that for a sailor? Why there’s fifty such, out of sight and out of
-mind, ten times as long as him—through entering in different names,
-re-shipping when the out’ard voyage is made, and what not—a turning
-up to light every day about here, and no matter made of it. Ask my
-daughter. You could go on Poll Parroting enough with her, when I warn’t
-come in: Poll Parrot a little with her on this pint. You and your
-suspicions of my suspicions of him! What are my suspicions of you? You
-tell me George Radfoot got killed. I ask you who done it and how you
-know it. You carry his knife and you wear his coat. I ask you how you
-come by ’em? Hand over that there bottle!’ Here Mr Riderhood appeared
-to labour under a virtuous delusion that it was his own property. ‘And
-you,’ he added, turning to his daughter, as he filled the footless
-glass, ‘if it warn’t wasting good sherry wine on you, I’d chuck this at
-you, for Poll Parroting with this man. It’s along of Poll Parroting
-that such like as him gets their suspicions, whereas I gets mine by
-argueyment, and being nat’rally a honest man, and sweating away at the
-brow as a honest man ought.’ Here he filled the footless goblet again,
-and stood chewing one half of its contents and looking down into the
-other as he slowly rolled the wine about in the glass; while Pleasant,
-whose sympathetic hair had come down on her being apostrophised,
-rearranged it, much in the style of the tail of a [[Horse|horse]] when proceeding
-to market to be sold.
-
-‘[[Well]]? Have you finished?’ asked the strange man.
-
-‘No,’ said Riderhood, ‘I ain’t. Far from it. Now then! I want to know
-how George Radfoot come by his [[Death|death]], and how you come by his kit?’
-
-‘If you ever do know, you won’t know now.’
-
-‘And next I want to know,’ proceeded Riderhood ‘whether you mean to
-charge that what-you-may-call-it-murder—’
+The Secretary had no reason or excuse for prolonging the conversation,
+and it ended here. Within three hours the oakum-headed apparition once
+more dived into the Leaving Shop, and that [[Night|night]] Rogue Riderhood’s
+recantation lay in the post office, addressed under cover to Lizzie
+Hexam at her right address.

@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 30 (part 2)"
+title: "Shirley — Chapter 30 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -12,6 +12,16 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_30/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_30/part_03">part 03 ›</a></div>
 </nav>
+
+
+face was never lily fair, but it is olive green now. You're not as bonny
+
+as you were, man."
+
+
+
+"And who is to have this prize you talk so much about?"
+
 
 
 "Only a baronet; that is all. I have not a [[Doubt|doubt]] in my own mind you've
@@ -243,21 +253,3 @@ air, at which I stand and marvel, without a thought of clasping and
 kissing it. I felt in her a powerful magnet to my interest and [[Vanity|vanity]]. I
 
 never felt as if [[Nature|nature]] meant her to be my other and better [[Self|self]]. When a
-
-question on that head rushed upon me, I flung it off, saying brutally I
-
-should be rich with her and ruined without her--vowing I would be
-
-practical, and not romantic."
-
-
-
-"A very sensible resolve. What mischief came of it, Bob?"
-
-
-
-"With this sensible resolve I walked up to Fieldhead one [[Night|night]] last
-
-August. It was the very eve of my departure for Birmingham; for, you
-
-see, I wanted to secure Fortune's splendid prize. I had previously

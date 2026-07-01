@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 5 (part 2)"
+title: "Persuasion — Chapter 5 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_05/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_05/part_03">part 03 ›</a></div>
 </nav>
 
+
+for each party’s perfectly knowing their situation.
+
+
+
+“Mrs Clay,” said she, warmly, “never forgets who she is; and as I am
 
 rather better acquainted with her sentiments than you can be, I can
 
@@ -205,19 +211,3 @@ has been in this [[house]] three times this [[Summer|summer]].”
 Anne said what was proper, and enquired after her husband. “Oh! Charles
 
 is out shooting. I have not seen him since seven o’[[Clock|clock]]. He would go,
-
-though I told him how ill I was. He said he should not stay out long;
-
-but he has never come back, and now it is almost one. I assure you, I
-
-have not seen a [[Soul|soul]] this whole long morning.”
-
-
-
-“You have had your little boys with you?”
-
-
-
-“Yes, as long as I could bear their noise; but they are so unmanageable
-
-that they do me more harm than good. Little Charles does not mind a

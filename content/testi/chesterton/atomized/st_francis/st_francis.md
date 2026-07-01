@@ -608,7 +608,7 @@ to whom [[Nature|nature]] had grown as unnatural as any religion.
 They knew much better than we do what was the matter with them
 and what sort of demons at once tempted and tormented them;
 and they wrote across that great space of [[history]] the text;
-"This sort goeth not out but by [[Prayer|prayer]] and fasting."
+"This sort goeth not out but by [[prayer]] and fasting."
 
 Now the historical importance of St. Francis and the transition from
 the twelfth to the thirteenth centuries, lies in the fact that they
@@ -1371,7 +1371,7 @@ almost like children talking a secret language.  Of these individual
 elements on their first [[Friendship|friendship]] we can say little with certainty;
 but it is certain that they remained friends to the end.
 Bernard of Quintaville occupies in the story something of the position
-of Sir Bedivere, "first made and latest left of [[arthur|Arthur]]'s knights,"
+of Sir Bedivere, "first made and latest left of [[Arthur]]'s knights,"
 for he reappears at the right hand side of the saint on
 his deathbed and receives some sort of special blessing.
 But all these things belong to another historical world and were quite
@@ -1789,7 +1789,7 @@ flower might seem to say the same thing; but indeed though they would
 both be telling the [[Truth|truth]], they would be telling different truths.
 For one the joy of life is a cause of [[Faith|faith]], for the other rather
 a result of [[Faith|faith]].  But one effect of the difference is that
-the sense of a divine dependence, which for the [[Artist|artist]] is like
+the sense of a divine dependence, which for the [[artist]] is like
 the brilliant levin-blaze, for the saint is like the broad daylight.
 Being in some mystical sense on the other side of things,
 he sees things go forth from the divine as children going forth
@@ -3215,7 +3215,7 @@ money had made no detailed provision about accepting [[Mountains|mountains]].
 Nor indeed did St. Francis accept it save as he accepted everything,
 as a temporary convenience rather than a personal possession;
 but he turned it into a sort of refuge for the eremitical rather than
-the monastic life; he retired there when he wished for a life of [[Prayer|prayer]]
+the monastic life; he retired there when he wished for a life of [[prayer]]
 and fasting which he did not ask even his closest friends to follow.
 This was Alverno of the Apennines, and upon its peak there rests
 for ever a dark cloud that has a rim or halo of glory.
@@ -3626,7 +3626,7 @@ it is truer to say in this sense that there was only one Franciscan,
 whose name was Francis.  Huge and happy as was the popular work he left
 behind him, there was something that he could not leave behind,
 any more than a landscape painter can leave his eyes in his will.
-It was an [[Artist|artist]] in life who was here called to be an [[Artist|artist]]
+It was an [[artist]] in life who was here called to be an [[artist]]
 in [[Death|death]]; and he had a better right than Nero, his anti-type,
 to say Qualis artifexpereo.  For Nero's life was full of posing
 for the occasion like that of an actor; while the Umbrian's

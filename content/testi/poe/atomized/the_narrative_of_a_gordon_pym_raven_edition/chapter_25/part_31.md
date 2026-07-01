@@ -14,6 +14,170 @@ tags:
 </nav>
 
 
+      extreme _haut ton_, however, pervaded her whole appearance; she
+
+      wore in a graceful and _dégagé_ manner, a large and beautiful
+
+      winding-sheet of the finest India lawn; her hair hung in ringlets
+
+      over her neck; a soft smile played about her mouth; but her nose,
+
+      extremely long, thin, sinuous, flexible and pimpled, hung down
+
+      far below her under lip, and in spite of the delicate manner in
+
+      which she now and then moved it to one side or the other with her
+
+      tongue, gave to her countenance a somewhat equivocal expression.
+
+
+
+      Over against her, and upon the left of the dropsical lady, was
+
+      seated a little puffy, wheezing, and gouty old man, whose cheeks
+
+      reposed upon the shoulders of their owner, like two huge bladders
+
+      of Oporto wine. With his arms folded, and with one bandaged leg
+
+      deposited upon the table, he seemed to think himself entitled to
+
+      some consideration. He evidently prided himself much upon every
+
+      inch of his personal appearance, but took more especial delight
+
+      in calling attention to his gaudy-colored surtout. This, to say
+
+      the [[Truth|truth]], must have cost him no little money, and was made to
+
+      fit him exceedingly [[Well|well]]—being fashioned from one of the
+
+      curiously embroidered silken covers appertaining to those
+
+      glorious escutcheons which, in England and elsewhere, are
+
+      customarily hung up, in some conspicuous place, upon the
+
+      dwellings of departed aristocracy.
+
+
+
+      Next to him, and at the right hand of the president, was a
+
+      gentleman in long white hose and cotton drawers. His frame shook,
+
+      in a ridiculous manner, with a fit of what Tarpaulin called “the
+
+      horrors.” His jaws, which had been newly shaved, were tightly
+
+      tied up by a bandage of muslin; and his arms being fastened in a
+
+      similar way at the wrists, prevented him from helping himself too
+
+      freely to the liquors upon the table; a precaution rendered
+
+      necessary, in the opinion of Legs, by the peculiarly sottish and
+
+      wine-bibbing cast of his visage. A pair of prodigious ears,
+
+      nevertheless, which it was no [[Doubt|doubt]] found impossible to confine,
+
+      towered away into the atmosphere of the apartment, and were
+
+      occasionally pricked up in a spasm, at the sound of the drawing
+
+      of a cork.
+
+
+
+      Fronting him, sixthly and lastly, was situated a singularly
+
+      stiff-looking personage, who, being afflicted with paralysis,
+
+      must, to speak seriously, have felt very ill at ease in his
+
+      unaccommodating habiliments. He was habited, somewhat uniquely,
+
+      in a new and handsome mahogany coffin. Its top or head-piece
+
+      pressed upon the skull of the wearer, and extended over it in the
+
+      fashion of a hood, giving to the entire face an air of
+
+      indescribable interest. Arm-holes had been cut in the sides, for
+
+      the sake not more of elegance than of convenience; but the dress,
+
+      nevertheless, prevented its proprietor from sitting as erect as
+
+      his associates; and as he lay reclining against his tressel, at
+
+      an angle of forty-five degrees, a pair of huge goggle eyes rolled
+
+      up their awful whites towards the ceiling in absolute amazement
+
+      at their own enormity.
+
+
+
+      Before each of the party lay a portion of a skull, which was used
+
+      as a drinking cup. Overhead was suspended a human [[skeleton]], by
+
+      means of a rope tied round one of the legs and fastened to a ring
+
+      in the ceiling. The other limb, confined by no such fetter, stuck
+
+      off from the [[Body|body]] at right angles, causing the whole loose and
+
+      rattling frame to dangle and twirl about at the caprice of every
+
+      occasional puff of [[Wind|wind]] which found its way into the apartment.
+
+      In the cranium of this hideous thing lay quantity of ignited
+
+      charcoal, which threw a fitful but vivid light over the entire
+
+      scene; while coffins, and other wares appertaining to the shop of
+
+      an undertaker, were piled high up around the room, and against
+
+      the windows, preventing any ray from escaping into the street.
+
+
+
+      At sight of this extraordinary assembly, and of their still more
+
+      extraordinary paraphernalia, our two seamen did not conduct
+
+      themselves with that degree of decorum which might have been
+
+      expected. Legs, leaning against the wall near which he happened
+
+      to be standing, dropped his lower jaw still lower than usual, and
+
+      spread open his eyes to their fullest extent: while Hugh
+
+      Tarpaulin, stooping down so as to bring his nose upon a level
+
+      with the table, and spreading out a palm upon either knee, burst
+
+      into a long, loud, and obstreperous roar of very ill-timed and
+
+      immoderate laughter.
+
+
+
+      Without, however, taking offence at behaviour so excessively
+
+      rude, the tall president smiled very graciously upon the
+
+      intruders—nodded to them in a dignified manner with his head of
+
+      sable plumes—and, arising, took each by an arm, and led him to a
+
+      seat which some others of the company had placed in the meantime
+
       for his accommodation. Legs to all this offered not the slightest
 
       resistance, but sat down as he was directed; while the gallant
@@ -39,179 +203,3 @@ tags:
 
 
       “It becomes our duty upon the present happy occasion—”
-
-
-
-      “Avast there!” interrupted Legs, looking very serious, “avast
-
-      there a bit, I say, and tell us who the devil ye all are, and
-
-      what business ye have here, rigged off like the foul fiends, and
-
-      swilling the snug blue ruin stowed away for the [[Winter|winter]] by my
-
-      honest shipmate, Will Wimble, the undertaker!”
-
-
-
-      At this unpardonable piece of ill-breeding, all the original
-
-      company half started to their feet, and uttered the same rapid
-
-      succession of wild fiendish shrieks which had before caught the
-
-      attention of the seamen. The president, however, was the first to
-
-      recover his composure, and at length, turning to Legs with great
-
-      dignity, recommenced:
-
-
-
-      “Most willingly will we gratify any reasonable curiosity on the
-
-      part of guests so illustrious, unbidden though they be. Know then
-
-      that in these dominions I am monarch, and here rule with
-
-      undivided empire under the title of ‘[[King]] Pest the First.’
-
-
-
-      “This apartment, which you no [[Doubt|doubt]] profanely suppose to be the
-
-      shop of Will Wimble the undertaker—a man whom we know not, and
-
-      whose plebeian appellation has never before this [[Night|night]] thwarted
-
-      our royal ears—this apartment, I say, is the Dais-Chamber of our
-
-      Palace, devoted to the councils of our kingdom, and to other
-
-      sacred and lofty purposes.
-
-
-
-      “The noble lady who sits opposite is [[Queen]] Pest, our Serene
-
-      Consort. The other exalted personages whom you behold are all of
-
-      our family, and wear the insignia of the [[Blood|blood]] royal under the
-
-      respective titles of ‘His Grace the Arch Duke Pest-Iferous’—‘His
-
-      Grace the Duke Pest-Ilential’—‘His Grace the Duke Tem-Pest’—and
-
-      ‘Her Serene Highness the Arch Duchess Ana-Pest.’
-
-
-
-      “As regards,” continued he, “your demand of the business upon
-
-      which we sit here in council, we might be pardoned for replying
-
-      that it concerns, and concerns [[Alone|alone]], our own private and regal
-
-      interest, and is in no manner important to any other than
-
-      ourself. But in consideration of those rights to which as guests
-
-      and strangers you may feel yourselves entitled, we will
-
-      furthermore explain that we are here this [[Night|night]], prepared by deep
-
-      research and accurate investigation, to examine, analyze, and
-
-      thoroughly determine the indefinable spirit—the incomprehensible
-
-      qualities and [[Nature|nature]]—of those inestimable treasures of the
-
-      palate, the wines, ales, and liqueurs of this goodly metropolis:
-
-      by so doing to advance not more our own designs than the true
-
-      welfare of that unearthly sovereign whose reign is over us all,
-
-      whose dominions are unlimited, and whose name is ‘[[Death]]’.”
-
-
-
-      “Whose name is Davy [[Jones]]!” ejaculated Tarpaulin, helping the
-
-      lady by his side to a skull of liqueur, and pouring out a second
-
-      for himself.
-
-
-
-      “Profane varlet!” said the president, now turning his attention
-
-      to the worthy Hugh, “profane and execrable wretch!—we have said,
-
-      that in consideration of those rights which, even in thy filthy
-
-      person, we feel no inclination to violate, we have condescended
-
-      to make reply to thy rude and unseasonable inquiries. We
-
-      nevertheless, for your unhallowed intrusion upon our councils,
-
-      believe it our duty to mulct thee and thy companion in each a
-
-      gallon of Black Strap—having imbibed which to the prosperity of
-
-      our kingdom—at a single draught—and upon your bended knees—ye
-
-      shall be forthwith free either to proceed upon your way, or
-
-      remain and be admitted to the privileges of our table, according
-
-      to your respective and individual pleasures.”
-
-
-
-      “It would be a matter of utter impossibility,” replied Legs, whom
-
-      the assumptions and dignity of [[King]] Pest the First had evidently
-
-      inspired some feelings of respect, and who arose and steadied
-
-      himself by the table as he spoke—“it would, please your majesty,
-
-      be a matter of utter impossibility to stow away in my hold even
-
-      one-fourth part of the same liquor which your majesty has just
-
-      mentioned. To say nothing of the stuffs placed on board in the
-
-      forenoon by way of ballast, and not to mention the various ales
-
-      and liqueurs shipped this evening at different sea-ports, I have,
-
-      at present, a full cargo of ‘humming-stuff’ taken in and duly
-
-      paid for at the sign of the ‘Jolly Tar.’ You will, therefore,
-
-      please your majesty, be so good as to take the will for the
-
-      deed—for by no manner of means either can I or will I [[Swallow|swallow]]
-
-      another drop—least of all a drop of that villainous bilge-[[Water|water]]
-
-      that answers to the name of ‘Black Strap.’”
-
-
-
-      “Belay that!” interrupted Tarpaulin, astonished not more at the
-
-      length of his companion’s speech than at the [[Nature|nature]] of his
-
-      refusal—“Belay that you lubber!—and I say, Legs, none of your
-
-      palaver! _My_ hull is still light, although I confess you
-
-      yourself seem to be a little top-heavy; and as for the matter of
-
-      your share of the cargo, why rather than raise a squall I would
-
-      find stowage-room for it myself, but—”

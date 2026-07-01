@@ -80,7 +80,7 @@ but it was a more purely popular revolution than either of them.
 The truly modern mind will of course regard the contention that it
 was popular as tantamount to a confession that it was animal.
 In these days when papers and speeches are full of words like
-[[Democracy|democracy]] and [[Self|self]]-determination, anything really resembling
+[[democracy]] and [[Self|self]]-determination, anything really resembling
 the movement of a mass of angry men is regarded as no better than
 a stampede of bulls or a scurry of rats.  The new sociologists
 call it the herd instinct, just as the old reactionaries called it

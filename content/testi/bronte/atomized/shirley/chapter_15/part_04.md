@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 15 (part 4)"
+title: "Shirley — Chapter 15 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -12,6 +12,26 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_15/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_15/part_05">part 05 ›</a></div>
 </nav>
+
+
+disinterested, since it prejudiced in nothing his faithful allegiance to
+
+the magnificent Dora Sykes.
+
+
+
+The repast turned out a very merry one. Donne and Malone, indeed,
+
+contributed but little to its vivacity, the chief part they played in it
+
+being what concerned the knife, fork, and wine-glass; but where four
+
+such natures as Mr. Hall, David Sweeting, [[Shirley]], and Caroline were
+
+assembled in health and amity, on a green lawn, under a sunny sky,
+
+amidst a wilderness of [[Flowers|flowers]], there could not be ungenial dullness.
+
 
 
 In the course of conversation Mr. Hall reminded the ladies that
@@ -201,23 +221,3 @@ sight, I am [[Well|well]] aware, _none_ are pure. What to our human perceptions
 looks spotless as we fancy angels, is to Him but frailty, needing the
 
 [[Blood|blood]] of His Son to cleanse, and the strength of His Spirit to sustain.
-
-Let us each and all cherish [[Humility|humility]]--I, as you, my young friends; and
-
-we may [[Well|well]] do it when we look into our own hearts, and see there
-
-temptations, inconsistencies, propensities, even we blush to recognize.
-
-And it is not youth, nor good looks, nor grace, nor any gentle outside
-
-charm which makes either [[Beauty|beauty]] or goodness in God's eyes.--Young
-
-ladies, when your [[Mirror|mirror]] or men's tongues flatter you, remember that, in
-
-the sight of her Maker, Mary Ann Ainley--a woman whom neither glass nor
-
-lips have ever panegyrized--is fairer and better than either of you. She
-
-is indeed," he added, after a pause--"she is indeed. You young things,
-
-wrapt up in yourselves and in earthly hopes, scarcely live as [[Christ]]

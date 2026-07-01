@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 11 (part 1)"
+title: "Dombey and Son — Chapter 39 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -10,131 +10,109 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/dombey-and-son-(dickens)">Dombey and Son</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_66/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_67/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_66/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_67/part_02">part 02 ›</a></div>
 </nav>
 
 
-CHAPTER XI.
-Paul’s Introduction to a New Scene
+CHAPTER XXXIX.
+Further Adventures of Captain Edward Cuttle, Mariner
 
 
-Mrs Pipchin’s constitution was made of such hard metal, in spite of its
-liability to the fleshly weaknesses of standing in need of repose after
-chops, and of requiring to be coaxed to [[Sleep|sleep]] by the soporific agency
-of sweet-breads, that it utterly set at naught the predictions of Mrs
-Wickam, and showed no symptoms of decline. Yet, as Paul’s rapt interest
-in the old lady continued unbated, Mrs Wickam would not budge an inch
-from the position she had taken up. Fortifying and entrenching herself
-on the strong ground of her Uncle’s Betsey Jane, she advised Miss
-Berry, as a friend, to prepare herself for the worst; and forewarned
-her that her aunt might, at any [[Time|time]], be expected to go off suddenly,
-like a powder-mill.
+[[Time]], sure of foot and strong of will, had so pressed onward, that the
+year enjoined by the old Instrument-maker, as the term during which his
+friend should refrain from opening the sealed packet accompanying the
+letter he had left for him, was now nearly expired, and [[Captain Cuttle]]
+began to look at it, of an evening, with feelings of mystery and
+uneasiness.
 
-“I [[Hope|hope]], Miss Berry,” Mrs Wickam would observe, “that you’ll come into
-whatever little property there may be to leave. You deserve it, I am
-sure, for yours is a trying life. Though there don’t seem much worth
-coming into—you’ll excuse my being so open—in this dismal den.”
+The Captain, in his [[Honour|honour]], would as soon have thought of opening the
+parcel one hour before the expiration of the term, as he would have
+thought of opening himself, to study his own anatomy. He merely brought
+it out, at a certain stage of his first evening pipe, laid it on the
+table, and sat gazing at the outside of it, through the smoke, in
+silent gravity, for two or three hours at a spell. Sometimes, when he
+had contemplated it thus for a pretty long while, the Captain would
+hitch his chair, by degrees, farther and farther off, as if to get
+beyond the range of its fascination; but if this were his design, he
+never succeeded: for even when he was brought up by the parlour wall,
+the packet still attracted him; or if his eyes, in thoughtful
+wandering, roved to the ceiling or the [[Fire|fire]], its image immediately
+followed, and posted itself conspicuously among the coals, or took up
+an advantageous position on the whitewash.
 
-Poor Berry took it all in good part, and drudged and slaved away as
-usual; perfectly convinced that Mrs Pipchin was one of the most
-meritorious persons in the world, and making every day innumerable
-sacrifices of herself upon the altar of that noble old woman. But all
-these immolations of Berry were somehow carried to the credit of Mrs
-Pipchin by Mrs Pipchin’s friends and admirers; and were made to
-harmonise with, and carry out, that [[Melancholy|melancholy]] fact of the deceased Mr
-Pipchin having broken his heart in the Peruvian mines.
+In respect of Heart’s Delight, the Captain’s parental and admiration
+knew no change. But since his last interview with Mr Carker, Captain
+Cuttle had come to entertain doubts whether his former intervention in
+behalf of that young lady and his dear boy Wal”r, had proved altogether
+so favourable as he could have wished, and as he at the [[Time|time]] believed.
+The Captain was troubled with a serious misgiving that he had done more
+harm than good, in short; and in his remorse and modesty he made the
+best atonement he could think of, by putting himself out of the way of
+doing any harm to anyone, and, as it were, throwing himself overboard
+for a dangerous person.
 
-For example, there was an honest [[grocer]] and general dealer in the
-retail line of business, between whom and Mrs Pipchin there was a small
-memorandum book, with a greasy red cover, perpetually in question, and
-concerning which divers secret councils and conferences were
-continually being held between the parties to that register, on the mat
-in the passage, and with closed doors in the parlour. Nor were there
-wanting dark hints from Master Bitherstone (whose temper had been made
-revengeful by the solar heats of India acting on his [[Blood|blood]]), of
-balances unsettled, and of a failure, on one occasion within his
-[[Memory|memory]], in the supply of moist sugar at tea-[[Time|time]]. This [[grocer]] being a
-bachelor and not a man who looked upon the surface for [[Beauty|beauty]], had once
-made honourable offers for the hand of Berry, which Mrs Pipchin had,
-with contumely and scorn, rejected. Everybody said how laudable this
-was in Mrs Pipchin, relict of a man who had died of the Peruvian mines;
-and what a staunch, high, independent spirit the old lady had. But
-nobody said anything about poor Berry, who cried for six weeks (being
-soundly rated by her good aunt all the [[Time|time]]), and lapsed into a state
-of hopeless spinsterhood.
+[[Self]]-buried, therefore, among the instruments, the Captain never went
+near Mr Dombey’s [[house]], or reported himself in any way to Florence or
+Miss Nipper. He even severed himself from Mr Perch, on the occasion of
+his next visit, by dryly informing that gentleman, that he thanked him
+for his company, but had cut himself adrift from all such acquaintance,
+as he didn’t know what magazine he mightn’t blow up, without meaning of
+it. In this [[Self|self]]-imposed retirement, the Captain passed whole days and
+weeks without interchanging a word with anyone but Rob the Grinder,
+whom he esteemed as a pattern of disinterested attachment and fidelity.
+In this retirement, the Captain, gazing at the packet of an evening,
+would sit smoking, and thinking of Florence and poor Walter, until they
+both seemed to his homely fancy to be dead, and to have passed away
+into eternal youth, the beautiful and [[Innocent|innocent]] children of his first
+remembrance.
 
-“Berry’s very fond of you, ain’t she?” Paul once asked Mrs Pipchin when
-they were sitting by the [[Fire|fire]] with the cat.
+The Captain did not, however, in his musings, neglect his own
+improvement, or the mental culture of Rob the Grinder. That young man
+was generally required to read out of some book to the Captain, for one
+hour, every evening; and as the Captain implicitly believed that all
+books were true, he accumulated, by this means, many remarkable facts.
+On [[Sunday]] nights, the Captain always read for himself, before going to
+bed, a certain Divine Sermon once delivered on a Mount; and although he
+was accustomed to quote the text, without book, after his own manner,
+he appeared to read it with as reverent an understanding of its
+heavenly spirit, as if he had got it all by heart in Greek, and had
+been able to write any number of fierce theological disquisitions on
+its every phrase.
 
-“Yes,” said Mrs Pipchin.
+Rob the Grinder, whose reverence for the inspired writings, under the
+admirable system of the Grinders’ School, had been developed by a
+perpetual bruising of his intellectual shins against all the proper
+names of all the tribes of Judah, and by the monotonous repetition of
+hard verses, especially by way of punishment, and by the parading of
+him at six years old in leather breeches, three times a [[Sunday]], very
+high up, in a very hot church, with a great organ buzzing against his
+drowsy head, like an exceedingly busy bee—Rob the Grinder made a mighty
+show of being edified when the Captain ceased to read, and generally
+yawned and nodded while the reading was in progress. The latter fact
+being never so much as suspected by the good Captain.
 
-“Why?” asked Paul.
+[[Captain Cuttle]], also, as a man of business; took to keeping books. In
+these he entered observations on the weather, and on the currents of
+the waggons and other vehicles: which he observed, in that quarter, to
+set westward in the morning and during the greater part of the day, and
+eastward towards the evening. Two or three stragglers appearing in one
+week, who “spoke him”—so the Captain entered it—on the subject of
+spectacles, and who, without positively purchasing, said they would
+look in again, the Captain decided that the business was improving, and
+made an entry in the day-book to that effect: the [[Wind|wind]] then blowing
+(which he first recorded) pretty fresh, west and by north; having
+changed in the [[Night|night]].
 
-“Why!” returned the disconcerted old lady. “How can you ask such
-things, Sir! why are you fond of your sister Florence?”
-
-“Because she’s very good,” said Paul. “There’s nobody like Florence.”
-
-“[[Well]]!” retorted Mrs Pipchin, shortly, “and there’s nobody like me, I
-suppose.”
-
-“Ain’t there really though?” asked Paul, leaning forward in his chair,
-and looking at her very hard.
-
-“No,” said the old lady.
-
-“I am glad of that,” observed Paul, rubbing his hands thoughtfully.
-“That’s a very good thing.”
-
-Mrs Pipchin didn’t dare to ask him why, lest she should receive some
-perfectly annihilating answer. But as a compensation to her wounded
-feelings, she harassed Master Bitherstone to that extent until
-bed-[[Time|time]], that he began that very [[Night|night]] to make arrangements for an
-overland return to India, by secreting from his supper a quarter of a
-round of bread and a [[Fragment|fragment]] of moist Dutch [[cheese]], as the beginning
-of a stock of provision to support him on the voyage.
-
-Mrs Pipchin had kept watch and ward over little Paul and his sister for
-nearly twelve months. They had been [[Home|home]] twice, but only for a few
-days; and had been constant in their weekly visits to Mr Dombey at the
-hotel. By little and little Paul had grown stronger, and had become
-able to dispense with his carriage; though he still looked thin and
-delicate; and still remained the same old, quiet, dreamy [[Child|child]] that he
-had been when first consigned to Mrs Pipchin’s care. One Saturday
-afternoon, at dusk, great consternation was occasioned in the [[Castle]] by
-the unlooked-for announcement of Mr Dombey as a visitor to Mrs Pipchin.
-The population of the parlour was immediately swept upstairs as on the
-wings of a whirlwind, and after much slamming of bedroom doors, and
-trampling overhead, and some knocking about of Master Bitherstone by
-Mrs Pipchin, as a relief to the perturbation of her spirits, the black
-bombazeen garments of the worthy old lady darkened the audience-chamber
-where Mr Dombey was contemplating the vacant arm-chair of his son and
-heir.
-
-“Mrs Pipchin,” said Mr Dombey, “How do you do?”
-
-“Thank you, Sir,” said Mrs Pipchin, “I am pretty [[Well|well]], considering.”
-
-Mrs Pipchin always used that form of words. It meant, considering her
-virtues, sacrifices, and so forth.
-
-“I can’t expect, Sir, to be very [[Well|well]],” said Mrs Pipchin, taking a
-chair and fetching her breath; “but such health as I have, I am
-grateful for.”
-
-Mr Dombey inclined his head with the satisfied air of a patron, who
-felt that this was the sort of thing for which he paid so much a
-quarter. After a moment’s [[Silence|silence]] he went on to say:
-
-“Mrs Pipchin, I have taken the liberty of calling, to consult you in
-reference to my son. I have had it in my mind to do so for some [[Time|time]]
-past; but have deferred it from [[Time|time]] to [[Time|time]], in order that his health
-might be thoroughly re-established. You have no misgivings on that
-subject, Mrs Pipchin?”
-
-“Brighton has proved very beneficial, Sir,” returned Mrs Pipchin. “Very
-beneficial, indeed.”
-
-“I purpose,” said Mr Dombey, “his remaining at Brighton.”
-
-Mrs Pipchin rubbed her hands, and bent her grey eyes on the [[Fire|fire]].
+One of the Captain’s chief difficulties was Mr Toots, who called
+frequently, and who without saying much seemed to have an idea that the
+little back parlour was an eligible room to chuckle in, as he would sit
+and avail himself of its accommodations in that regard by the half-hour
+together, without at all advancing in intimacy with the Captain. The
+Captain, rendered cautious by his late experience, was unable quite to
+satisfy his mind whether Mr Toots was the mild subject he appeared to
+be, or was a profoundly artful and dissimulating hypocrite. His
+frequent reference to Miss Dombey was suspicious; but the Captain had a
+secret kindness for Mr Toots’s apparent reliance on him, and forbore to
+decide against him for the present; merely eyeing him, with a sagacity
+not to be described, whenever he approached the subject that was
+nearest to his heart.

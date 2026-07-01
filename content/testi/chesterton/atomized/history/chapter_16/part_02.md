@@ -1,5 +1,5 @@
 ---
-title: "[[history]] — Chapter 16 (part 2)"
+title: "history — Chapter 16 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/history-(chesterton)"
@@ -107,7 +107,7 @@ long enough to show one of the immortal marks of the real
 mob-ritualism. There is nothing that strikes the undemocratic
 doctrinaire so sharply about direct democratic action as the [[Vanity|vanity]]
 or mummery of the things done seriously in the daylight;
-they astonish him by being as unpractical as a poem or a [[prayer]].
+they astonish him by being as unpractical as a poem or a [[Prayer|prayer]].
 The French Revolutionists stormed an empty [[Prison|prison]] merely
 because it was large and solid and difficult to [[Storm|storm]],
 and therefore symbolic of the mighty monarchical machinery of

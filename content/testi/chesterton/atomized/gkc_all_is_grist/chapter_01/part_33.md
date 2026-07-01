@@ -14,108 +14,102 @@ tags:
 </nav>
 
 
-Now I can heartily respect, and even sympathize with,
-some jolly old English Tory who still regards Bonaparte as Boney.
-I can understand the genial reactionary, like Mr. Sapsea,
-who continues through all continental changes to drink the toast,
-`When the French come over, may we meet them at Dover.'
-But I should hardly have thought of associating Mr. Sapsea with Mr. [[Shaw]].
-And whatever may be the true story of the punishment of St. [[Helena]],
-it seems rather hard on Napoleon that he should endure not only an eternal
-punishment, but a [[Double|double]] punishment:  one from all the reactionaries
-he defeated and the other from all the reformers he defended.
-It was the expansion of Napoleonic France that established
-everywhere the modern theories of civic right and equal opportunity;
-and the very name of that justice is the Code Napoleon.
-In the face of these facts, I naturally ask myself:  Why does
-a man like Mr. [[Shaw]] hate Napoleon?  Why does a man like Mr. Wells
-hate Napoleon?  The only sincere answer is that it is the mark
-of the Nonconformist always to hate Napoleon.
+I grieve to say that I am not moved to a profound respect or
+admiration for this intellectual compromise.  If the social idealist
+would take his inch I might be ready to trust him with his ell.
+If he could trust a poor man with the care of a cow or a cottage,
+or a common or garden child, I might believe he was sincere in wishing
+to trust all poor men with the destiny of all cottages and cows.
+As it is, I suspect that he is not going to trust that destiny
+to a democracy of poor men, but to an official or oligarch
+appointed to organize the poor men.  Similarly, if the new social
+philosophies fervently encouraged people to think more about
+domesticity and less about divorce, I might believe that they
+really were preferring the future generation to their own.
+As it is, I think they want to procure all possible pleasures
+and amusements for their own, including the mild amusement of
+prophesying some Utopia that can only come long after they are dead.
+If their novels and newspapers were less filled with the sublime
+spiritual liberation of eloping with the chauffeur, and more
+filled with the duty and dignity of remaining with the baby,
+I might admit that their faces are set towards the Future
+and their souls full of the song of `A Good [[Time]] Coming'.
+As it is, it seems to be an impatient and even pessimistic [[Lyric|lyric]]
+about `A Good Time Now'.
 
-It would take a long [[Time|time]] to explain.  A vague notion that a soldier
-is a naughty man; that he wears a cocked hat and sometimes even
-a cockade or a feather in it; that bodily fighting is always
-a blackguardly way of dealing with any position, however provocative;
-that soldiering is associated with canteens and cans; these and
-a thousand other things have created in the mind of the modern
-Puritan the mood of the modern Pacifist.  We can all understand,
-and Napoleon himself would entirely understand, the higher sense
-in which it may be said that glory is [[Vanity|vanity]].  But the Puritan
-always insists, not that glory is [[Vanity|vanity]], but that glory is infamy.
-He thinks this sort of action, this sort of [[Ambition|ambition]], not only
-the worst but the most horrible; he thinks there is no smell so foul
-as the smell of gunpowder.  I think the smell of the hair-oil
-of hypocritical peace-mongering infinitely more offensive.
-Nobody will accuse Mr. [[Shaw]]'s work of smelling like that; but there
-does come from it sometimes, suddenly, this strange stale smell
-of the Puritan; and it is then that I can answer our old question:
-Do We Agree?
+I am not at all pharisaical about these weaknesses considered
+as weaknesses, but I am rather bored with the pretence that they
+are strong with the strength of vigilant Watchers for the Dawn.
+And I am increasingly tired of the whole tone of that inverted idealism,
+which is terrified when told to make use of a single talent,
+but quite confident of its fitness to rule over ten cities.
+But I suspect, if I may describe the fashionable mood in terms
+of old-fashioned sentiment, that these people are only filling
+the Castle of Indolence with the Pleasures of Hope.
 
-XXIX.  On the [[Truth]] of Legends
+XXVIII On Mr Shaw's Puritanism
 
-I HAVE known all my life what is called the conflict between [[Romance|romance]]
-and realism, and I have always found that it was the realists
-who were romancing.  I have found, in a fashion too curious to be
-a coincidence, that the romances were generally real after all.
-For instance, everybody knows how a boy is told that his boyish
-day-[[Dreams|dreams]] are only day-[[Dreams|dreams]], and will not long survive in daylight;
-that his picturesque figures of the Red Indian or the Jolly Tar are only
-painted and pasteboard figures out of a toy-theatre, or melodramatic
-personalities out of a penny dreadful.  It is taken for granted that
-he will begin by believing in them and end by disbelieving in them.
-In a number of solid historical cases, I myself began rather early
-to disbelieve them, and have come eventually to believe them.
-I seriously think that the popular sentiment that created those characters
-was often a tradition of [[Truth|truth]], where the pedantic cynicism which
-destroyed them was often a much more deliberate perversion of [[Truth|truth]].
-The tradition may have come down rather loosely and vaguely,
-through a long line of nurses and grandmothers.  But the nurses
-and grandmothers were not paid to tell lies, and they did therefore,
-to a considerable and very valuable extent, tell the [[Truth|truth]].
-The critics and historians were paid to tell lies though they may
-not have put the [[Truth|truth]] to themselves in quite so crude a fashion.
-They were academic officials of a certain academic system; achieving a
-fame which depended upon a fashion; successful or unsuccessful,
-according to the power of a theory; suiting themselves,
-consciously or unconsciously, to a certain school; and, when all
-is said, living by receiving salaries or selling books.
-They had not the disinterestedness or detachment of gossip.
-They were not merely mentioning the things they remembered,
-but remembering only the things they were supposed to mention.
-Their minds had formed a mechanical habit of recording only
-the things that were suited to the records, and writing only
-the records that were suited to the official record office.
-Some of them were stark liars; some of them, which is much more strange
-and [[Uncanny|uncanny]], were honest men.  But they were, at best, men telling
-untrue stories in the interest of the [[Truth|truth]], or what they believed
-to be the [[Truth|truth]].  They were not ordinary people telling true stories,
-merely as stories that were curious because they were true.
-It is all the difference between the chronicler and the historian.
-And the difference is that the chronicler sometimes told fables;
-whereas the historian never tells fables, but only falsehoods.
-However this may be, I have known a curious number of cases in
-which mere sentimental gossip surrounded my [[Childhood|childhood]], and serious
-historical scholarship surrounded my manhood; and the sentimental
-gossip was right.
+THERE was a time when I was asked, with quite a curious persistence,
+what I thought of Mr. Bernard Shaw and what he thought of
+Professor Einstein.  It was especially in connexion with certain
+remarks about the nature of Great Men, and his reasons for limiting
+the list to some and excluding others.  I had no difficulty at
+the time in answering that I thought of Mr. Bernard Shaw very much
+as I have always thought of him, and that I shou1d have no difficulty
+in admitting him to my list of Great Men, though perhaps my list
+might be a little longer, and perhaps a little more liberal than his.
+I actually wrote a book about him in the ancient days, and I am
+happy to say that he reviewed it himself, with the typical opening:
+`This is the best book of criticism that I have yet produced.'
+And what I said then is very much what I should say still:
+that there is no very fundamental antagonism between Mr. Bernard [[Shaw]]
+and myself except in one fact--that he is a Puritan and I am at least
+relatively a Pagan.  It is true that I have become a Christian;
+but that is a thing that happened to quite a large number of Pagans.
+Only I never became a Puritan; and it seems to me that Mr. [[Shaw]]
+never became anything else.
 
-For instance, it was sentimental gossip that Mary [[Queen]] of Scots
-was very badly treated; or that Charles the First was to be
-pitied or even admired.  I remember loving both the historical
-characters as legends, and then learning afterwards that
-the legends were entirely legendary.  The historical realists
-of that [[Time|time]] told me that the attraction of Mary [[Queen]] of Scots
-was merely that she was much prettier than [[Queen Elizabeth]].
-They told me that the charm of the Cavalier consisted only in his
-wearing more picturesque clothes than the Puritan.  Those who told me
-this were often learned, and those who had left me with the earlier
-impression were often ignorant; and I myself was unfathomably ignorant.
-I therefore believed what they told me; I proceeded to believe,
-to believe blindly, credulously, and in hopeless intellectual servitude;
-to believe in the much more fabulous [[Fable|fable]], in the legend of the learned.
-I believed much more seriously--that is, much more superstitiously--
-in the school text-book than I had believed in the old wives' tale.
-But the old wife was an old wife by the normal process of becoming
-a wife and growing old, and she employed the normal habit of talking
-to children about her [[Childhood|childhood]].  But the schoolmaster was a
-professional schoolmaster; the schoolmaster was tied to his school;
-the schoolmaster was as much under discipline as the schoolboy.
+Of course I know that there are a number of things to which his actual
+attitude would be merely negative or sceptical as compared with my own;
+but those things never affect me as real or ultimate disagreements,
+but merely as matters which he does not happen to have understood
+even sufficiently to disagree.  They are part of a heritage of
+negation from the rebels of the nineteenth and eighteenth centuries:
+a rebellion that has become almost respectable with age.
+It is almost a mark of being behind the times to go on talking merely
+of traditional religion.  What we have to deal with in the modern
+world is traditional irreligion.  The period between Voltaire
+and Bernard [[Shaw]] is merely the period of the rise and decline
+of something that began as a joke and ended as a prejudice.
+Nobody will deny the wit of [[Shaw]], any more than the wit of Voltaire;
+but these sceptical or negative notions are not even the jokes of [[Shaw]]:
+they are merely the prejudices of [[Shaw]].  The jokes of [[Shaw]] have
+been much more serious and socially useful things, and have been
+directed against things much more modern than ecclesiastical
+abuses which have long ago been more than sufficiently abused.
+They have been directed against the spiritual [[Pride|pride]] of physical science;
+against the Doctor's Dilemma and not merely against the Curate's Egg--
+a rather ancient egg which, after all, was always excellent in parts.
+They have been directed against the worldliness of San Francisco
+rather than the unworldliness of St. Francis.  If he made fun
+of [[America]], it was at least at the moment when [[America]] was being
+taken most seriously, and at the moment when the seriousness was
+certainly a form of snobbishness.  I have never been disturbed by his
+disbelieving the things he does not understand, and I have always
+been delighted with his disbelieving the things he does understand:
+such as the Darwinian Theory or the Capitalist State.
+I should never be so stupid as to mistake Mr. Bernard [[Shaw]]
+for an irreligious man.  He seems to me, in a rather special
+and vivid sense, to be a religious man.  But there is always that
+deeper difference, and it is involved in the [[Nature|nature]] of the religion.
+And if I wanted a profound illustration of the difference that I mean,
+whether or no it is a difference I could explain, I could find it
+in a remark made in this discussion about Einstein and Great Men:
+a remark that may not seem to have anything to do with religion at all.
+Mr. [[Shaw]] is reported, and I apologize if he is misreported,
+as saying that he would hesitate to admit Napoleon into his select
+club of heroes; and that `it would have been better for the world
+if Napoleon had never lived'.  To which I answer that if Napoleon
+had never lived, then certainly Bernard Shaw never would have lived.
+At any rate, if Napoleon had not succeeded in being Napoleon, Shaw would
+not have succeeded in being Shaw.

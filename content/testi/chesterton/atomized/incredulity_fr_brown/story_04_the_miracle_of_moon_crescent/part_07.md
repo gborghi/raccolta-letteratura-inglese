@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The Miracle of [[Moon]] Crescent (part 7)"
+title: "incredulity Fr Brown — The Miracle of Moon Crescent (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -53,7 +53,7 @@ a miracle, as disbelieve in any man having any right to believe in a
 fact. The priest tells me that a man can appeal to a God I know nothing
 about to avenge him by the laws of some higher justice that I know
 nothing about. There's nothing for me to say except that I know nothing
-about it. But, at least, if the poor Paddy's [[prayer]] and [[Pistol|pistol]] could be
+about it. But, at least, if the poor Paddy's [[Prayer|prayer]] and [[Pistol|pistol]] could be
 heard in a higher world, that higher world might act in some way that
 seems odd to us. But you ask me to disbelieve the facts of this world as
 they appear to my own five wits. According to you, a whole procession of

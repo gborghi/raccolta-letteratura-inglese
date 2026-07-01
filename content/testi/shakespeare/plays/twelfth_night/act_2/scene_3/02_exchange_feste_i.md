@@ -1,5 +1,5 @@
 ---
-title: "[[Twelfth Night]] — Act II, Scene 3 — exchange ([[Feste|FESTE]] I) [2]"
+title: "Twelfth Night — Act II, Scene 3 — exchange (FESTE I) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/twelfth-night-(shakespeare)"

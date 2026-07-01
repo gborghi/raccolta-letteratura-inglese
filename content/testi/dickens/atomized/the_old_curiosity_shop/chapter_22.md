@@ -203,7 +203,7 @@ she ought to say or do, as Kit could possibly be.  When he had sat for
 some little [[Time|time]], attentive to the ticking of the sober [[Clock|clock]], he
 ventured to glance curiously at the dresser, and there, among the
 plates and dishes, were Barbara’s little work-box with a sliding lid to
-shut in the balls of cotton, and Barbara’s [[Prayer|prayer]]-book, and Barbara’s
+shut in the balls of cotton, and Barbara’s [[prayer]]-book, and Barbara’s
 [[Hymn|hymn]]-book, and Barbara’s [[Bible]].  Barbara’s little looking-glass hung in
 a good light near the [[Window|window]], and Barbara’s bonnet was on a nail behind
 the door.  From all these mute signs and tokens of her presence, he

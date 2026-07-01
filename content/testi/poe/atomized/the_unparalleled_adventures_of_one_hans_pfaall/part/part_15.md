@@ -1,5 +1,5 @@
 ---
-title: "[[The Unparalleled Adventures of one Hans Pfaall]] (part 15)"
+title: "The Unparalleled Adventures of one Hans Pfaall (part 15)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-unparalleled-adventures-of-one-hans-pfaall-(poe)"
@@ -13,6 +13,76 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/part/part_14">‹ part 14</a><a class="ex-next" href="/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/part/part_16">part 16 ›</a></div>
 </nav>
 
+
+      steam-engine, or the art of printing itself.
+
+
+
+      “It is necessary to premise, that the balloon, at the elevation
+
+      now attained, continued its course upward with an even and
+
+      undeviating ascent, and the car consequently followed with a
+
+      steadiness so perfect that it would have been impossible to
+
+      detect in it the slightest vacillation whatever. This
+
+      circumstance favored me greatly in the project I now determined
+
+      to adopt. My supply of [[Water|water]] had been put on board in kegs
+
+      containing five gallons each, and ranged very securely around the
+
+      interior of the car. I unfastened one of these, and taking two
+
+      ropes tied them tightly across the rim of the wicker-work from
+
+      one side to the other; placing them about a foot apart and
+
+      parallel so as to form a kind of shelf, upon which I placed the
+
+      keg, and steadied it in a horizontal position. About eight inches
+
+      immediately below these ropes, and four feet from the [[Bottom|bottom]] of
+
+      the car I fastened another shelf—but made of thin plank, being
+
+      the only similar piece of wood I had. Upon this latter shelf, and
+
+      exactly beneath one of the rims of the keg, a small earthern
+
+      pitcher was deposited. I now bored a hole in the end of the keg
+
+      over the pitcher, and fitted in a plug of soft wood, cut in a
+
+      tapering or conical shape. This plug I pushed in or pulled out,
+
+      as might happen, until, after a few experiments, it arrived at
+
+      that exact degree of tightness, at which the [[Water|water]], oozing from
+
+      the hole, and falling into the pitcher below, would fill the
+
+      latter to the brim in the period of sixty minutes. This, of
+
+      course, was a matter briefly and easily ascertained, by noticing
+
+      the proportion of the pitcher filled in any given [[Time|time]]. Having
+
+      arranged all this, the rest of the plan is obvious. My bed was so
+
+      contrived upon the floor of the car, as to bring my head, in
+
+      lying down, immediately below the mouth of the pitcher. It was
+
+      evident, that, at the expiration of an hour, the pitcher, getting
+
+      full, would be forced to run over, and to run over at the mouth,
+
+      which was somewhat lower than the rim. It was also evident, that
+
+      the [[Water|water]] thus falling from a height of more than four feet,
 
       could not do otherwise than fall upon my face, and that the sure
 
@@ -125,79 +195,3 @@ tags:
       northward. It was now very distinct, and appeared of a much
 
       darker hue than the waters of the ocean. I was evidently
-
-      approaching it, and with great rapidity. Fancied I could again
-
-      distinguish a strip of land to the eastward, and one also to the
-
-      westward, but could not be certain. Weather moderate. Nothing of
-
-      any consequence happened during the day. Went early to bed.
-
-
-
-      “April 6th. Was surprised at finding the rim of ice at a very
-
-      moderate distance, and an immense field of the same material
-
-      stretching away off to the horizon in the north. It was evident
-
-      that if the balloon held its present course, it would soon arrive
-
-      above the Frozen Ocean, and I had now little [[Doubt|doubt]] of ultimately
-
-      seeing the Pole. During the whole of the day I continued to near
-
-      the ice. Toward [[Night|night]] the limits of my horizon very suddenly and
-
-      materially increased, owing undoubtedly to the earth’s form being
-
-      that of an oblate spheroid, and my arriving above the flattened
-
-      regions in the vicinity of the Arctic circle. When darkness at
-
-      length overtook me, I went to bed in great anxiety, fearing to
-
-      pass over the object of so much curiosity when I should have no
-
-      opportunity of observing it.
-
-
-
-      “April 7th. Arose early, and, to my great joy, at length beheld
-
-      what there could be no hesitation in supposing the northern Pole
-
-      itself. It was there, beyond a [[Doubt|doubt]], and immediately beneath my
-
-      feet; but, alas! I had now ascended to so vast a distance, that
-
-      nothing could with accuracy be discerned. Indeed, to judge from
-
-      the progression of the numbers indicating my various altitudes,
-
-      respectively, at different periods, between six A.M. on the
-
-      second of April, and twenty minutes before nine A.M. of the same
-
-      day (at which [[Time|time]] the barometer ran down), it might be fairly
-
-      inferred that the balloon had now, at four o’[[Clock|clock]] in the morning
-
-      of April the seventh, reached a height of not less, certainly,
-
-      than 7,254 miles above the surface of the sea. This elevation may
-
-      appear immense, but the estimate upon which it is calculated gave
-
-      a result in all probability far inferior to the [[Truth|truth]]. At all
-
-      events I undoubtedly beheld the whole of the earth’s major
-
-      diameter; the entire northern hemisphere lay beneath me like a
-
-      chart orthographically projected: and the great circle of the
-
-      equator itself formed the boundary line of my horizon. Your
-
-      Excellencies may, however, readily imagine that the confined

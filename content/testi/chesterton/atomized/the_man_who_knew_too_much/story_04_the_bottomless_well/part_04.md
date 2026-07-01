@@ -1,5 +1,5 @@
 ---
-title: "The Man Who Knew Too Much — The Bottomless [[Well]] (part 4)"
+title: "The Man Who Knew Too Much — The Bottomless Well (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/the-man-who-knew-too-much-(chesterton)"
@@ -13,6 +13,23 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_04_the_bottomless_well/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_04_the_bottomless_well/part_05">part 05 ›</a></div>
 </nav>
 
+
+moonlight almost as broad as daylight, they saw what they had come
+
+to see.
+The great Lord [[Hastings]] lay prone on his face, in a posture in which
+
+there was a touch of something strange and stiff, with one elbow
+
+erect above his [[Body|body]], the arm being doubled, and his big, bony hand
+
+clutching the rank and ragged grass. A few feet away was Boyle,
+
+almost as motionless, but supported on his hands and knees, and
+
+staring at the [[Body|body]]. It might have been no more than shock and
+
+accident; but there was something ungainly and unnatural about the
 
 quadrupedal posture and the gaping face. It was as if his reason had
 
@@ -169,27 +186,3 @@ old man meant ruin and his [[Death|death]] meant triumph and even happiness."
 "[[Well]]," observed Fisher, at last, "I don't blame him for not telling
 
 you the woman's part of the story. But how do you know about the
-
-letter?"
-"I found it on the general's [[Body|body]]," answered Grayne, "but I found
-
-worse things than that. The [[Body|body]] had stiffened in the way rather
-
-peculiar to poisons of a certain Asiatic sort. Then I examined the
-
-coffee cups, and I knew enough chemistry to find [[Poison|poison]] in the dregs
-
-of one of them. Now, the General went straight to the bookcase,
-
-leaving his cup of coffee on the bookstand in the middle of the
-
-room. While his back was turned, and Boyle was pretending to examine
-
-the bookstand, he was left [[Alone|alone]] with the coffee cup. The [[Poison|poison]]
-
-takes about ten minutes to act, and ten minutes' walk would bring
-
-them to the bottomless [[Well|well]]."
-"Yes," remarked Fisher, "and what about the bottomless [[Well|well]]?"
-"What has the bottomless [[Well|well]] got to do with it?" asked his friend.
-"It has nothing to do with it," replied Fisher. "That is what I

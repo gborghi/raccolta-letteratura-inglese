@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 49 (part 3)"
+title: "Oliver Twist — Chapter 49 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,26 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_49/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_50/part_01">part 01 ›</a></div>
 </nav>
 
+
+[[Monks]] drew his breath yet more freely, and looked round with a smile of
+triumph.
+
+“When your brother,” said Mr. Brownlow, drawing nearer to the other’s
+chair, “When your brother: a feeble, ragged, neglected [[Child|child]]: was cast
+in my way by a stronger hand than chance, and rescued by me from a life
+of vice and infamy—”
+
+“What?” cried [[Monks]].
+
+“By me,” said Mr. Brownlow. “I told you I should interest you before
+long. I say by me—I see that your cunning associate suppressed my name,
+although for aught he knew, it would be quite strange to your ears.
+When he was rescued by me, then, and lay recovering from sickness in my
+[[house]], his strong resemblance to this picture I have spoken of, struck
+me with astonishment. Even when I first saw him in all his dirt and
+misery, there was a lingering expression in his face that came upon me
+like a glimpse of some old friend flashing on one in a vivid dream. I
+need not tell you he was snared away before I knew his [[history]]—”
 
 “Why not?” asked [[Monks]] hastily.
 

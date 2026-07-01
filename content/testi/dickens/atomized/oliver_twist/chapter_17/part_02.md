@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 17 (part 2)"
+title: "Oliver Twist — Chapter 17 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_17/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_17/part_03">part 03 ›</a></div>
 </nav>
 
+
+“You’re going by coach, sir? I thought it was always usual to send them
+paupers in carts.”
+
+“That’s when they’re ill, Mrs. Mann,” said the beadle. “We put the sick
+paupers into open carts in the rainy weather, to prevent their taking
+cold.”
 
 “Oh!” said Mrs. Mann.
 
@@ -145,16 +152,3 @@ temperate dinner of steaks, oyster sauce, and porter. Putting a glass
 of hot gin-and-[[Water|water]] on the chimney-piece, he drew his chair to the
 [[Fire|fire]]; and, with sundry moral reflections on the too-prevalent sin of
 discontent and complaining, composed himself to read the paper.
-
-The very first paragraph upon which Mr. Bumble’s eye rested, was the
-following advertisement.
-
-“FIVE GUINEAS REWARD
-
-
-“Whereas a young boy, named [[Oliver Twist]], absconded, or was enticed, on
-[[thursday|Thursday]] evening last, from his [[Home|home]], at Pentonville; and has not since
-been heard of. The above reward will be paid to any person who will
-give such information as will lead to the discovery of the said [[Oliver]]
-Twist, or tend to throw any light upon his previous [[history]], in which
-the advertiser is, for many reasons, warmly interested.”

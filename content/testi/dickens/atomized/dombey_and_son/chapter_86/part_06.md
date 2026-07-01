@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 30 (part 6)"
+title: "Dombey and Son — Chapter 58 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,82 +14,97 @@ tags:
 </nav>
 
 
-Sensible that any show of anger was useless here, her mother restrained
-herself, and fell a whimpering, and bewailed that she had lived too
-long, and that her only [[Child|child]] had cast her off, and that duty towards
-parents was forgotten in these evil days, and that she had heard
-unnatural taunts, and cared for life no longer.
+She raised her head a little, and peered at her daughter’s face; as if
+from the remembrance of her own youth, she had flown to the remembrance
+of her [[Child|child]]’s. Then, suddenly, she laid her face down on the bed, and
+shut her head up in her hands and arms.
 
-“If one is to go on living through continual scenes like this,” she
-whined, “I am sure it would be much better for me to think of some
-means of putting an end to my existence. Oh! The idea of your being my
-daughter, Edith, and addressing me in such a strain!”
+“They were as like,” said the old woman, without looking up, as you
+could see two brothers, so near an age—there wasn’t much more than a
+year between them, as I recollect—and if you could have seen my gal, as
+I have seen her once, side by side with the other’s daughter, you’d
+have seen, for all the difference of dress and life, that they were
+like each other. Oh! is the likeness gone, and is it my gal—only my
+gal—that’s to change so!”
 
-“Between us, mother,” returned Edith, mournfully, “the [[Time|time]] for mutual
-reproaches is past.”
+“We shall all change, mother, in our turn,” said Alice.
 
-“Then why do you revive it?” whimpered her mother. “You know that you
-are lacerating me in the cruellest manner. You know how sensitive I am
-to unkindness. At such a moment, too, when I have so much to think of,
-and am naturally anxious to appear to the best advantage! I [[Wonder|wonder]] at
-you, Edith. To make your mother a fright upon your wedding-day!”
+“Turn!” cried the old woman, “but why not hers as soon as my gal’s! The
+mother must have changed—she looked as old as me, and full as wrinkled
+through her paint—but she was handsome. What have I done, I, what have
+I done worse than her, that only my gal is to lie there fading!”
 
-Edith bent the same fixed look upon her, as she sobbed and rubbed her
-eyes; and said in the same low steady voice, which had neither risen
-nor fallen since she first addressed her, “I have said that Florence
-must go [[Home|home]].”
+With another of those wild cries, she went running out into the room
+from which she had come; but immediately, in her uncertain mood,
+returned, and creeping up to Harriet, said:
 
-“Let her go!” cried the afflicted and affrighted parent, hastily. “I am
-sure I am willing she should go. What is the girl to me?”
+“That’s what Alice bade me tell you, deary. That’s all. I found it out
+when I began to ask who she was, and all about her, away in
+Warwickshire there, one [[Summer|summer]]-[[Time|time]]. Such relations was no good to me,
+then. They wouldn’t have owned me, and had nothing to give me. I should
+have asked ’em, maybe, for a little money, afterwards, if it hadn’t
+been for my Alice; she’d a’most have killed me, if I had, I think. She
+was as proud as t’other in her way,” said the old woman, touching the
+face of her daughter fearfully, and withdrawing her hand, “for all
+she’s so quiet now; but she’ll shame ’em with her good looks yet. Ha,
+ha! She’ll shame ’em, will my handsome daughter!”
 
-“She is so much to me, that rather than communicate, or suffer to be
-communicated to her, one grain of the evil that is in my breast,
-mother, I would renounce you, as I would (if you gave me cause)
-renounce him in the church to-morrow,” replied Edith. “Leave her [[Alone|alone]].
-She shall not, while I can interpose, be tampered with and tainted by
-the lessons I have learned. This is no hard condition on this bitter
-[[Night|night]].”
+Her laugh, as she retreated, was worse than her cry; worse than the
+burst of imbecile lamentation in which it ended; worse than the doting
+air with which she sat down in her old seat, and stared out at the
+darkness.
 
-“If you had proposed it in a filial manner, Edith,” whined her mother,
-“perhaps not; very likely not. But such extremely cutting words—”
+The eyes of Alice had all this [[Time|time]] been fixed on Harriet, whose hand
+she had never released. She said now:
 
-“They are past and at an end between us now,” said Edith. “Take your
-own way, mother; share as you please in what you have gained; spend,
-enjoy, make much of it; and be as happy as you will. The object of our
-lives is won. Henceforth let us wear it silently. My lips are closed
-upon the past from this hour. I forgive you your part in to-morrow’s
-wickedness. May God forgive my own!”
+“I have felt, lying here, that I should like you to know this. It might
+explain, I have thought, something that used to help to harden me. I
+had heard so much, in my wrongdoing, of my neglected duty, that I took
+up with the belief that duty had not been done to me, and that as the
+seed was sown, the harvest grew. I somehow made it out that when ladies
+had bad homes and mothers, they went wrong in their way, too; but that
+their way was not so foul a one as mine, and they had need to bless God
+for it. That is all past. It is like [[A Dream|a dream]], now, which I cannot quite
+remember or understand. It has been more and more like [[A Dream|a dream]], every
+day, since you began to sit here, and to read to me. I only tell it
+you, as I can recollect it. Will you read to me a little more?”
 
-Without a tremor in her voice, or frame, and passing onward with a foot
-that set itself upon the neck of every soft emotion, she bade her
-mother good-[[Night|night]], and repaired to her own room.
+Harriet was withdrawing her hand to open the book, when Alice detained
+it for a moment.
 
-But not to rest; for there was no rest in the tumult of her agitation
-when [[Alone|alone]] to and fro, and to and fro, and to and fro again, five
-hundred times, among the splendid preparations for her adornment on the
-morrow; with her dark hair shaken down, her dark eyes flashing with a
-raging light, her broad white bosom red with the cruel grasp of the
-relentless hand with which she spurned it from her, pacing up and down
-with an averted head, as if she would avoid the sight of her own fair
-person, and [[divorce]] herself from its companionship. Thus, in the dead
-[[Time|time]] of the [[Night|night]] before her bridal, [[Edith Granger]] wrestled with her
-unquiet spirit, tearless, friendless, silent, proud, and uncomplaining.
+“You will not forget my mother? I forgive her, if I have any cause. I
+know that she forgives me, and is sorry in her heart. You will not
+forget her?”
 
-At length it happened that she touched the open door which led into the
-room where Florence lay.
+“Never, Alice!”
 
-She started, stopped, and looked in.
+“A moment yet. Lay your head so, dear, that as you read I may see the
+words in your kind face.”
 
-A light was burning there, and showed her Florence in her bloom of
-[[innocence]] and [[Beauty|beauty]], fast asleep. Edith held her breath, and felt
-herself drawn on towards her.
+Harriet complied and read—read the eternal book for all the weary, and
+the heavy-laden; for all the wretched, fallen, and neglected of this
+earth—read the blessed [[history]], in which the blind lame palsied beggar,
+the criminal, the woman stained with shame, the shunned of all our
+dainty clay, has each a portion, that no human [[Pride|pride]], indifference, or
+sophistry, through all the ages that this world shall last, can take
+away, or by the thousandth atom of a grain reduce—read the ministry of
+Him who, through the round of human life, and all its hopes and griefs,
+from birth to [[Death|death]], from infancy to age, had sweet compassion for, and
+interest in, its every scene and stage, its every [[Suffering|suffering]] and sorrow.
 
-Drawn nearer, nearer, nearer yet; at last, drawn so near, that stooping
-down, she pressed her lips to the gentle hand that lay outside the bed,
-and put it softly to her neck. Its touch was like the [[Prophet|prophet]]’s rod of
-old upon the rock. Her [[Tears|tears]] sprung forth beneath it, as she sunk upon
-her knees, and laid her aching head and streaming hair upon the pillow
-by its side.
+“I shall come,” said Harriet, when she shut the book, “very early in
+the morning.”
 
-Thus [[Edith Granger]] passed the [[Night|night]] before her bridal. Thus the sun
-found her on her bridal morning.
+The lustrous eyes, yet fixed upon her face, closed for a moment, then
+opened; and Alice kissed and blest her.
+
+The same eyes followed her to the door; and in their light, and on the
+tranquil face, there was a smile when it was closed.
+
+They never turned away. She laid her hand upon her breast, murmuring
+the sacred name that had been read to her; and life passed from her
+face, like light removed.
+
+Nothing lay there, any longer, but the ruin of the mortal [[house]] on
+which the rain had beaten, and the black hair that had fluttered in the
+wintry [[Wind|wind]].

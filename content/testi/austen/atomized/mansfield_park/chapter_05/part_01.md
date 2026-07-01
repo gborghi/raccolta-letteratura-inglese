@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 5 (part 1)"
+title: "Mansfield Park — Chapter 5 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -138,13 +138,3 @@ general would be so too. It would save me many a heartache.”
 “You are as bad as your brother, Mary; but we will cure you both.
 Mansfield shall cure you both, and without any taking in. Stay with us,
 and we will cure you.”
-
-The Crawfords, without wanting to be cured, were very willing to stay.
-Mary was satisfied with the Parsonage as a present [[Home|home]], and Henry
-equally ready to lengthen his visit. He had come, intending to spend
-only a few days with them; but Mansfield promised [[Well|well]], and there was
-nothing to call him elsewhere. It delighted Mrs. Grant to keep them
-both with her, and Dr. Grant was exceedingly [[Well|well]] contented to have it
-so: a talking pretty young woman like Miss Crawford is always pleasant
-society to an indolent, stay-at-[[Home|home]] man; and Mr. Crawford’s being his
-guest was an excuse for drinking claret every day.

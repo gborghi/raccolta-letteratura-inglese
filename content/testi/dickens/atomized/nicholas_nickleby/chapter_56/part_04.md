@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 56 (part 4)"
+title: "Nicholas Nickleby — Chapter 56 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_56/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_57/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘He did it cheap!’ retorted Ralph, testily; ‘yes, and he did it [[Well|well]],
+and carries it off with a hypocritical face and a sanctified air, but
+you! Risk! What do you mean by risk? The certificates are all genuine,
+Snawley HAD another son, he HAS been married twice, his first wife IS
+dead, none but her [[Ghost|ghost]] could tell that she didn’t write that letter,
+none but Snawley himself can tell that this is not his son, and that his
+son is food for worms! The only perjury is Snawley’s, and I fancy he is
+pretty [[Well|well]] used to it. Where’s your risk?’
 
 ‘Why, you know,’ said Squeers, fidgeting in his chair, ‘if you come to
 that, I might say where’s yours?’

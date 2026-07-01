@@ -1,5 +1,5 @@
 ---
-title: "[[Julius Caesar]] — Act I, Scene 1 — monologue ([[Cassius|CASSIUS]]) [5]"
+title: "Julius Caesar — Act I, Scene 1 — monologue (CASSIUS) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/julius-caesar-(shakespeare)"

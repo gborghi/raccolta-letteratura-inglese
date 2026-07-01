@@ -1,5 +1,5 @@
 ---
-title: "[[TheAppOfTyranny]] — Chapter 4 (part 10)"
+title: "TheAppOfTyranny — Chapter 4 (part 10)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/theappoftyranny-(chesterton)"
@@ -14,6 +14,44 @@ tags:
 </nav>
 
 
+are removed.  Of course, we [[Hope|hope]] that you will support the Project
+
+Gutenberg-tm mission of promoting free access to electronic works by
+
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+
+this agreement for keeping the Project Gutenberg-tm name associated with
+
+the work.  You can easily comply with the terms of this agreement by
+
+keeping this work in the same format with its attached full Project
+
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+
+what you can do with this work.  Copyright laws in most countries are in
+
+a constant state of change.  If you are outside the United States, check
+
+the laws of your country in addition to the terms of this agreement
+
+before downloading, copying, displaying, performing, distributing or
+
+creating derivative works based on this work or any other Project
+
+Gutenberg-tm work.  The Foundation makes no representations concerning
+
+the copyright status of any work in any country outside the United
+
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+
+access to, the full Project Gutenberg-tm License must appear prominently
+
 whenever any copy of a Project Gutenberg-tm work (any work on which the
 
 phrase "Project Gutenberg" appears, or with which the phrase "Project
@@ -22,8 +60,6 @@ Gutenberg" is associated) is accessed, displayed, performed, viewed,
 
 copied or distributed:
 
-
-
 This eBook is for the use of anyone anywhere at no cost and with
 
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -31,8 +67,6 @@ almost no restrictions whatsoever.  You may copy it, give it away or
 re-use it under the terms of the Project Gutenberg License included
 
 with this eBook or online at www.gutenberg.net
-
-
 
 1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
 
@@ -54,8 +88,6 @@ Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
 
 1.E.9.
 
-
-
 1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
 
 with the permission of the copyright holder, your use and distribution
@@ -68,15 +100,11 @@ to the Project Gutenberg-tm License for all works posted with the
 
 permission of the copyright holder found at the beginning of this work.
 
-
-
 1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
 
 License terms from this work, or any files containing a part of this
 
 work or any other work associated with Project Gutenberg-tm.
-
-
 
 1.E.5.  Do not copy, display, perform, distribute or redistribute this
 
@@ -87,8 +115,6 @@ prominently displaying the sentence set forth in paragraph 1.E.1 with
 active links or immediate access to the full terms of the Project
 
 Gutenberg-tm License.
-
-
 
 1.E.6.  You may [[convert]] to and distribute this work in any binary,
 
@@ -112,23 +138,17 @@ form.  Any alternate format must include the full Project Gutenberg-tm
 
 License as specified in paragraph 1.E.1.
 
-
-
 1.E.7.  Do not charge a fee for access to, viewing, displaying,
 
 performing, copying or distributing any Project Gutenberg-tm works
 
 unless you comply with paragraph 1.E.8 or 1.E.9.
 
-
-
 1.E.8.  You may charge a reasonable fee for copies of or providing
 
 access to or distributing Project Gutenberg-tm electronic works provided
 
 that
-
-
 
 - You pay a royalty fee of 20% of the gross profits you derive from
 
@@ -154,8 +174,6 @@ that
 
      the Project Gutenberg Literary Archive Foundation."
 
-
-
 - You provide a full refund of any money paid by a user who notifies
 
      you in writing (or by e-mail) within 30 days of receipt that s/he
@@ -170,8 +188,6 @@ that
 
      Project Gutenberg-tm works.
 
-
-
 - You provide, in accordance with paragraph 1.F.3, a full refund of any
 
      money paid for a work or a replacement copy, if a defect in the
@@ -180,56 +196,4 @@ that
 
      of receipt of the work.
 
-
-
 - You comply with all other terms of this agreement for free
-
-     distribution of Project Gutenberg-tm works.
-
-
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-
-electronic work or group of works on different terms than are set
-
-forth in this agreement, you must obtain permission in writing from
-
-both the Project Gutenberg Literary Archive Foundation and [[Michael]]
-
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-
-Foundation as set forth in Section 3 below.
-
-
-
-1.F.
-
-
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-
-effort to identify, do copyright research on, transcribe and proofread
-
-public domain works in creating the Project Gutenberg-tm
-
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-
-works, and the medium on which they may be stored, may contain
-
-"Defects," such as, but not limited to, incomplete, inaccurate or
-
-corrupt data, transcription errors, a copyright or other intellectual
-
-property infringement, a defective or damaged disk or other medium, a
-
-computer virus, or computer codes that damage or cannot be read by
-
-your equipment.
-
-
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-
-Gutenberg Literary Archive Foundation, the owner of the Project

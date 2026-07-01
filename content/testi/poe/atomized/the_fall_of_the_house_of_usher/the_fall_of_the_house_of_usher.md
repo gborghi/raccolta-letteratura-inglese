@@ -1,5 +1,5 @@
 ---
-title: "[[The Fall of the House of Usher]]"
+title: "The Fall of the House of Usher"
 author: "Poe"
 unitType: work
 parentWork: "works/the-fall-of-the-house-of-usher-(poe)"

@@ -1,5 +1,5 @@
 ---
-title: "[[The Literary Life of Thingum Bob, Esq]] (part 8)"
+title: "The Literary Life of Thingum Bob, Esq (part 8)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-literary-life-of-thingum-bob,-esq-(poe)"
@@ -13,6 +13,36 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_literary_life_of_thingum_bob_esq/part/part_07">‹ part 07</a><span></span></div>
 </nav>
 
+
+      that governor of yours is a millstone about your neck. We must
+
+      cut him at once.” [Here I took out my knife.] “We must cut him,”
+
+      continued Mr. Crab, “decidedly and forever. He won’t do—he
+
+      _won’t_. Upon second thoughts, you had better kick him, or cane
+
+      him, or something of that kind.”
+
+
+
+      “What do you say,” I suggested modestly, “to my kicking him in
+
+      the first instance, caning him afterwards, and winding up by
+
+      tweaking his nose?”
+
+
+
+      Mr. Crab looked at me musingly for some moments, and then
+
+      answered:
+
+
+
+      “I think, Mr. Bob, that what you propose would answer
+
+      sufficiently [[Well|well]]—indeed remarkably [[Well|well]]—that is to say, as far
 
       as it went—but barbers are exceedingly hard to cut, and I think,
 

@@ -1,5 +1,5 @@
 ---
-title: "[[CharlesDickens]] — Chapter 9 (part 3)"
+title: "CharlesDickens — Chapter 9 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/charlesdickens-(chesterton)"
@@ -38,7 +38,7 @@ of his [[Marriage|marriage]].  That incident [[Alone|alone]] is enough to sugges
 external offers and proposals were sometimes like screams heard
 from Bedlam.  Yet it remains true that he had in him a central part
 that was pleased only by the most decent and the most reposeful rites,
-by things of which the Anglican [[prayer|Prayer]]-book is very typical.
+by things of which the Anglican [[Prayer]]-book is very typical.
 It is certainly true that he was often extravagant.  It is most
 certainly equally true that he detested and despised extravagance.
 
@@ -83,7 +83,7 @@ whether Protestant or Catholic, moved him to an extravagance of [[Satire|satire]
 And he flung himself into the drunken energy of Stiggins,
 he piled up to the [[Stars|stars]] the "verbose flights of stairs"
 of Mr. Chadband, exactly because his own conception of religion
-was the quiet and impersonal Morning [[prayer|Prayer]].  It is typical of him
+was the quiet and impersonal Morning [[Prayer]].  It is typical of him
 that he had a peculiar hatred for speeches at the [[Grave|grave]]-side.
 
 An even clearer case of what I mean can be found in his
@@ -108,7 +108,7 @@ its ruins erect a gory guillotine.  Yet as a matter of fact,
 this apparent wildness of his came from his being, if anything,
 a very moderate politician.  It came, not at all from [[Fanaticism|fanaticism]],
 but from a rather rational detachment.  He had the sense
-to see that the British Constitution was not [[Democracy|democracy]],
+to see that the British Constitution was not [[democracy]],
 but the British Constitution.  It was an artificial system--
 like any other, good in some ways, bad in others.
 His [[Satire|satire]] of it sounded wild to those that worshipped it;

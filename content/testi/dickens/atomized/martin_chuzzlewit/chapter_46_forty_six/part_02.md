@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 46: FORTY SIX (part 2)"
+title: "Martin Chuzzlewit — Chapter 46: FORTY SIX (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_46_forty_six/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_46_forty_six/part_03">part 03 ›</a></div>
 </nav>
 
+
+Here she whispered him again.
+
+‘If it’s the same patterned chintz as that in the [[Window|window]]; thirty-two,
+twelve, six,’ said Moddle, with a sigh. ‘And very dear.’
+
+Miss Pecksniff stopped him from giving any further explanation by laying
+her hand upon his lips, and betraying a soft embarrassment. She then
+asked [[Tom Pinch]] which way he was going.
 
 ‘I was going to see if I could find your sister,’ answered Tom, ‘to whom
 I wished to say a few words. We were going to Mrs Todgers’s, where I had
@@ -123,18 +132,3 @@ arm in arm, in the front, in a state of profound [[Silence|silence]], which Tom 
 last broke; after thinking for a long [[Time|time]] what he could say that should
 refer to an indifferent topic, in respect of which he might rely, with
 some degree of certainty, on Mr Moddle’s bosom being unruffled.
-
-‘I [[Wonder|wonder]],’ said Tom, ‘that in these crowded streets the foot-passengers
-are not oftener run over.’
-
-Mr Moddle, with a dark look, replied:
-
-‘The drivers won’t do it.’
-
-‘Do you mean?’ Tom began--
-
-‘That there are some men,’ interrupted Moddle, with a hollow laugh, ‘who
-can’t get run over. They live a charmed life. Coal waggons recoil from
-them, and even cabs refuse to run them down. Ah!’ said Augustus, marking
-Tom’s astonishment. ‘There are such men. One of ‘em is a friend of
-mine.’

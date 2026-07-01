@@ -1,5 +1,5 @@
 ---
-title: "[[Agnes Grey]] — Chapter 4 (part 1)"
+title: "Agnes Grey — Chapter 4 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/agnes-grey-(bronte)"
@@ -126,30 +126,3 @@ emphatic words)—
 
 “Gracious heavens!—never in all my life—!—get their [[Death|death]] as sure as—!
 Do you think, my dear, she’s a _proper person_? Take my word for it—”
-
-I heard no more; but that sufficed.
-
-The senior Mrs. Bloomfield had been very attentive and civil to me; and
-till now I had thought her a nice, kind-hearted, chatty old [[Body|body]]. She
-would often come to me and talk in a confidential strain; nodding and
-shaking her head, and gesticulating with hands and eyes, as a certain
-class of old ladies are wont to do; though I never knew one that
-carried the peculiarity to so great an extent. She would even
-sympathise with me for the trouble I had with the children, and express
-at times, by half sentences, interspersed with nods and knowing winks,
-her sense of the injudicious conduct of their mamma in so restricting
-my power, and neglecting to support me with her authority. Such a mode
-of testifying disapprobation was not much to my taste; and I generally
-refused to take it in, or understand anything more than was openly
-spoken; at least, I never went farther than an implied acknowledgment
-that, if matters were otherwise ordered my task would be a less
-difficult one, and I should be better able to guide and instruct my
-charge; but now I must be doubly cautious. Hitherto, though I saw the
-old lady had her defects (of which one was a proneness to proclaim her
-perfections), I had always been wishful to excuse them, and to give her
-credit for all the virtues she professed, and even imagine others yet
-untold. Kindness, which had been the food of my life through so many
-years, had lately been so entirely denied me, that I welcomed with
-grateful joy the slightest semblance of it. No [[Wonder|wonder]], then, that my
-heart warmed to the old lady, and always gladdened at her approach and
-regretted her departure.

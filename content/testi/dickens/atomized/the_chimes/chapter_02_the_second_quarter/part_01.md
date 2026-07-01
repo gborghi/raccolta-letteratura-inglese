@@ -53,7 +53,7 @@ but, he was past that, now.
 
 The Year was Old, that day.  The patient Year had lived through the
 reproaches and misuses of its slanderers, and faithfully performed its
-work.  [[Spring]], [[Summer|summer]], [[Autumn|autumn]], [[Winter|winter]].  It had laboured through the
+work.  [[spring|Spring]], [[Summer|summer]], [[Autumn|autumn]], [[Winter|winter]].  It had laboured through the
 destined round, and now laid down its weary head to die.  Shut out from
 [[Hope|hope]], high impulse, active happiness, itself, but active messenger of
 many joys to others, it made appeal in its decline to have its toiling
@@ -130,12 +130,3 @@ great respect.
 ‘From [[Alderman Cute]], Sir Joseph.’
 
 ‘Is this all?  Have you nothing else, Porter?’ inquired Sir Joseph.
-
-Toby replied in the negative.
-
-‘You have no bill or demand upon me—my name is Bowley, Sir Joseph
-Bowley—of any kind from anybody, have you?’ said Sir Joseph.  ‘If you
-have, present it.  There is a cheque-book by the side of Mr. Fish.  I
-allow nothing to be carried into the New Year.  Every description of
-account is settled in this [[house]] at the close of the old one.  So that if
-[[Death|death]] was to—to—’

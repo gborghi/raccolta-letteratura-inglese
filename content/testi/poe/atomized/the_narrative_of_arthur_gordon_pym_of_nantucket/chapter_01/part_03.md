@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 2 (part 3)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 2 (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_01/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_01/part_04">part 04 ›</a></div>
 </nav>
 
+
+which I was excessively amused. A mattress from one of the cabin berths
+
+covered the whole of its [[Bottom|bottom]], and it contained almost every article
+
+of mere comfort which could be crowded into so small a space, allowing
+
+me, at the same [[Time|time]], sufficient room for my accommodation, either in a
 
 sitting position or lying at full length. Among other things, there
 
@@ -185,17 +193,3 @@ thirst, having eaten freely of the Bologna sausages after the loss of
 my mutton. I became very uneasy, and could no longer take any interest
 
 in my books. I was overpowered, too, with a [[Desire|desire]] to [[Sleep|sleep]], yet
-
-trembled at the thought of indulging it, lest there might exist some
-
-pernicious influence, like that of burning charcoal, in the confined
-
-air of the hold. In the mean [[Time|time]] the roll of the brig told me that we
-
-were far in the main ocean, and a dull humming sound, which reached my
-
-ears as if from an immense distance, convinced me no ordinary gale was
-
-blowing. I could not imagine a reason for the absence of Augustus. We
-
-were surely far enough advanced on our voyage to allow of my going up.

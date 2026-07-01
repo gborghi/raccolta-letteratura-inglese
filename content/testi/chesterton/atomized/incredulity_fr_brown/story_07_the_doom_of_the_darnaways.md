@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The Doom of the Darnaways"
+title: "incredulity Fr Brown — The Doom of the Darnaways"
 author: "Chesterton"
 unitType: story
 parentWork: "works/incredulity-fr-brown-(chesterton)"

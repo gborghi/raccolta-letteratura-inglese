@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 32 (part 1)"
+title: "Sense and Sensibility — Chapter 32 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -209,7 +209,3 @@ He would not speak another word to him, meet him where he might, for
 all the world! No, not if it were to be by the side of Barton covert,
 
 and they were kept watching for two hours together. Such a scoundrel of
-
-a fellow! such a deceitful dog! It was only the last [[Time|time]] they met that
-
-he had offered him one of Folly’s puppies! and this was the end of it!”

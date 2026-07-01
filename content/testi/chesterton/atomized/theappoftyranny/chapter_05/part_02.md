@@ -1,5 +1,5 @@
 ---
-title: "[[TheAppOfTyranny]] — Chapter 4 (part 2)"
+title: "TheAppOfTyranny — Chapter 4 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/theappoftyranny-(chesterton)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/theappoftyranny/chapter_05/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/theappoftyranny/chapter_05/part_03">part 03 ›</a></div>
 </nav>
 
+
+evil, more unlike than any other two men we can take at random from the
+
+great European family. They are opposite from the roots of their [[history]],
 
 nay, of their geography. It is an understatement to call Britain insular.
 
@@ -108,8 +112,6 @@ having an obligation to Europe, but no sort of sense whatever of having any
 
 obligation to Teutonism.
 
-
-
 This is the last and strongest of the Prussian qualities we have here
 
 considered. There is in stupidity of this sort a strange slippery
@@ -129,8 +131,6 @@ quite certain that a total stranger is his long-lost brother, has a greater
 advantage until it comes to matters of detail. "We must have chaos within"
 
 said Nietzsche, "that we may give birth to a dancing star."
-
-
 
 In these slight notes I have suggested the principal strong points of the
 
@@ -172,17 +172,7 @@ under-rated soldiers. For what their professors call roads of progress are
 
 really routes of escape.
 
-
-
-
-
-
-
 LETTERS TO AN OLD GARIBALDIAN
-
-
-
-
 
 [[Italy]], twice hast thou spoken; and [[Time|time]] is athirst
 
@@ -190,18 +180,4 @@ for the third.
 
                              --SWINBURNE.
 
-
-
-
-
 My Dear ------
-
-
-
-It is a long [[Time|time]] since we met; and I [[Fear|fear]] these letters may never reach
-
-you. But in these violent times I remember with a curious vividness how you
-
-brandished a paintbrush about your easel when I was a boy; and how it
-
-thrilled me to think that you had so brandished a bayonet against the

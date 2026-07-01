@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 25 (part 2)"
+title: "Great Expectations — Chapter 25 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -140,10 +140,3 @@ bestirring himself to feed the fowls, and we sat down to our punch in
 the arbour; where Wemmick told me, as he smoked a pipe, that it had
 taken him a good many years to bring the property up to its present
 pitch of perfection.
-
-“Is it your own, Mr. Wemmick?”
-
-“O yes,” said Wemmick, “I have got hold of it, a bit at a [[Time|time]]. It’s a
-freehold, by George!”
-
-“Is it indeed? I [[Hope|hope]] Mr. Jaggers admires it?”

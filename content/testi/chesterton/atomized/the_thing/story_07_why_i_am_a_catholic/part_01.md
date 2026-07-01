@@ -17,7 +17,7 @@ tags:
 WHY I AM A CATHOLIC
 
 A LEADING article in a daily paper was recently devoted
-to the New [[Prayer]] Book; without having anything very new to
+to the New [[prayer|Prayer]] Book; without having anything very new to
 say about it.  For it mostly consisted in repeating for the
 nine-hundredth-and-ninety-nine-thousandth [[Time|time]] that what the ordinary
 Englishman wants is a religion without dogma (whatever that may be),

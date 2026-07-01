@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 23 (part 4)"
+title: "Shirley — Chapter 23 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,26 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_23/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_23/part_05">part 05 ›</a></div>
 </nav>
 
+
+me to that end. Whom my feelings teach me to [[Love|love]] I _must_ and _shall_
+
+[[Love|love]]; and I [[Hope|hope]], if ever I have a husband and children, my feelings
+
+will induce me to [[Love|love]] them. I [[Hope|hope]], in that case, all my impulses will
+
+be strong in compelling me to [[Love|love]]."
+
+
+
+Caroline had a pleasure in saying this with emphasis; she had a pleasure
+
+in daring to say it in Mrs. Yorke's presence. She did not care what
+
+unjust sarcasm might be hurled at her in reply. She flushed, not with
+
+anger but excitement, when the ungenial matron answered coolly, "Don't
+
+waste your dramatic effects. That was [[Well|well]] said--it was quite fine; but
 
 it is lost on two women--an old wife and an old maid. There should have
 
@@ -213,31 +233,3 @@ Mrs. Yorke was not irritated at the reproof, worded with a severity so
 simple, dictated by a [[Pride|pride]] so quiet. Turning coolly to Miss Moore, she
 
 said, nodding her cap approvingly, "She has spirit in her, after
-
-all.--Always speak as honestly as you have done just now," she
-
-continued, "and you'll do."
-
-
-
-"I repel a recommendation so offensive," was the answer, delivered in
-
-the same pure key, with the same clear look. "I reject counsel poisoned
-
-by insinuation. It is my right to speak as I think proper; nothing binds
-
-me to converse as you dictate. So far from always speaking as I have
-
-done just now, I shall never address any one in a tone so stern or in
-
-language so harsh, unless in answer to unprovoked insult."
-
-
-
-"Mother, you have found your match," pronounced little Jessie, whom the
-
-scene appeared greatly to edify. [[Rose]] had heard the whole with an
-
-unmoved face. She now said, "No; Miss Helstone is not my mother's match,
-
-for she allows herself to be vexed. My mother would wear her out in a

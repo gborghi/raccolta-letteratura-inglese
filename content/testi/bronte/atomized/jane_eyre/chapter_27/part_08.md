@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 27 (part 8)"
+title: "Jane Eyre — Chapter 27 (part 8)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -133,7 +133,7 @@ fury; I must elude his sorrow: I retired to the door.
 “Yes.”
 
 “You will not come? You will not be my comforter, my rescuer? My deep
-[[Love|love]], my wild woe, my frantic [[Prayer|prayer]], are all nothing to you?”
+[[Love|love]], my wild woe, my frantic [[prayer]], are all nothing to you?”
 
 What unutterable pathos was in his voice! How hard it was to reiterate
 firmly, “I am going.”
@@ -145,12 +145,3 @@ firmly, “I am going.”
 “Withdraw, then,—I consent; but remember, you leave me here in anguish.
 Go up to your own room; think over all I have said, and, Jane, cast a
 glance on my sufferings—think of me.”
-
-He turned away; he threw himself on his face on the sofa. “Oh, Jane! my
-[[Hope|hope]]—my [[Love|love]]—my life!” broke in anguish from his lips. Then came a
-deep, strong sob.
-
-I had already gained the door; but, reader, I walked back—walked back
-as determinedly as I had retreated. I knelt down by him; I turned his
-face from the cushion to me; I kissed his cheek; I smoothed his hair
-with my hand.

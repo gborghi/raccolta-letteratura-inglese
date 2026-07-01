@@ -1,5 +1,5 @@
 ---
-title: "The Uses of Diversity — The [[Humour]] of [[King]] Herod"
+title: "The Uses of Diversity — The Humour of King Herod"
 author: "Chesterton"
 unitType: story
 parentWork: "works/the-uses-of-diversity-(chesterton)"

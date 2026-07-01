@@ -1,5 +1,5 @@
 ---
-title: "[[The Angel of the Odd]]"
+title: "The Angel of the Odd"
 author: "Poe"
 unitType: work
 parentWork: "works/the-angel-of-the-odd-(poe)"

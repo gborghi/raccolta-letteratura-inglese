@@ -1,5 +1,5 @@
 ---
-title: "[[wifrb11]] — The Fairy Tale of [[Father Brown]] (part 3)"
+title: "wifrb11 — The Fairy Tale of Father Brown (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_12_the_fairy_tale_of_father_brown/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_12_the_fairy_tale_of_father_brown/part_04">part 04 ›</a></div>
 </nav>
 
+
+     [[Flambeau]] stared at him.  "What an odd person you are!" he said. 
+"That's exactly what old Grimm said.  He said the ugliest part of it,
+he thought--uglier than the [[Blood|blood]] and bullet--was that the [[Flowers|flowers]]
+were quite short, plucked close under the head."
 
      "Of course," said the priest, "when a grown up girl is really
 picking [[Flowers|flowers]], she picks them with plenty of stalk.  If she just
@@ -132,33 +137,3 @@ paid and promised money on the chance of gaining the larger amount;
 and for this he had stolen out of his palace like a thief in the rain,
 for he had thought of another way to get the [[Desire|desire]] of his eyes,
 and to get it cheap.
-
-     "Away at the upper end of a rambling mountain path to which
-he was making his way, among the pillared rocks along the ridge
-that hangs above the town, stood the hermitage, hardly more than
-a cavern fenced with thorn, in which the third of the great brethren
-had long hidden himself from the world.  He, thought Prince Otto,
-could have no real reason for refusing to give up the gold. 
-He had known its place for years, and made no effort to find it,
-even before his new [[ascetic]] creed had cut him off from property
-or pleasures.  True, he had been an enemy, but he now professed
-a duty of having no enemies.  Some concession to his cause,
-some appeal to his principles, would probably get the mere money secret
-out of him.  Otto was no coward, in spite of his network of military
-precautions, and, in any case, his avarice was stronger than his fears. 
-Nor was there much cause for [[Fear|fear]].  Since he was certain there were
-no private arms in the whole principality, he was a hundred times
-more certain there were none in the Quaker's little hermitage on the [[Hill|hill]],
-where he lived on herbs, with two old rustic servants, and with
-no other voice of man for year after year.  Prince Otto looked down
-with something of a grim smile at the bright, square labyrinths
-of the lamp-lit [[City|city]] below him.  For as far as the eye could see
-there ran the rifles of his friends, and not one pinch of powder
-for his enemies.  Rifles ranked so close even to that mountain path
-that a cry from him would bring the soldiers rushing up the [[Hill|hill]],
-to say nothing of the fact that the wood and ridge were patrolled
-at regular intervals; rifles so far away, in the dim woods,
-dwarfed by distance, beyond the [[River|river]], that an enemy could not
-slink into the town by any detour.  And round the palace rifles
-at the west door and the east door, at the north door and the south,
-and all along the four facades linking them.  He was safe.

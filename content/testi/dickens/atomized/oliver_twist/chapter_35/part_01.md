@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 35 (part 1)"
+title: "Oliver Twist — Chapter 35 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/oliver-twist-(dickens)">Oliver Twist</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_34/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_35/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_34/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_35/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -132,8 +132,3 @@ else besides.
 At length, one morning, when [[Rose]] was [[Alone|alone]] in the breakfast-parlour,
 Harry Maylie entered; and, with some hesitation, begged permission to
 speak with her for a few moments.
-
-“A few—a very few—will suffice, [[Rose]],” said the young man, drawing his
-chair towards her. “What I shall have to say, has already presented
-itself to your mind; the most cherished hopes of my heart are not
-unknown to you, though from my lips you have not heard them stated.”

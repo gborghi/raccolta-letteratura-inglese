@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 13 (part 2)"
+title: "The Professor — Chapter 13 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -14,6 +14,12 @@ tags:
 </nav>
 
 
+my esteem; she had seen contempt and coldness in my eye, and to her, who
+
+coveted the approbation of all around her, who thirsted after universal
+
+good opinion, such discovery must have been an acute wound. I had
+
 witnessed its effect in the momentary pallor of her cheek--cheek unused
 
 to vary; yet how quickly, by dint of [[Self|self]]-control, had she recovered
@@ -26,13 +32,9 @@ lengthened, though shrewd upper lip, no coward shame on her austere
 
 forehead!
 
-
-
 “There is metal there,” I said, as I gazed. “Would that there were [[Fire|fire]]
 
 also, living ardour to make the steel glow--then I could [[Love|love]] her.”
-
-
 
 Presently I discovered that she knew I was watching her, for she stirred
 
@@ -53,8 +55,6 @@ I read that the wish of her heart, the design of her brain, was to lure
 back the game she had scared. A little incident gave her the opportunity
 
 of addressing me again.
-
-
 
 While all was [[Silence|silence]] in the class--[[Silence|silence]], but for the rustling of
 
@@ -77,8 +77,6 @@ up, in order to make out her [[Identity|identity]]--for, shortsighted as I was, 
 not recognized her at her entrance--Mdlle. Reuter, leaving her chair,
 
 approached the estrade.
-
-
 
 “Monsieur Creemsvort,” said she, in a whisper: for when the schoolrooms
 
@@ -110,11 +108,7 @@ instruction--n’est ce pas, monsieur?” And Mdlle. Reuter’s eyes were
 
 raised to mine with a look at once naive, benign, and beseeching.
 
-
-
 I replied, “Of course,” very laconically, almost abruptly.
-
-
 
 “Another word,” she said, with softness: “Mdlle. Henri has not received
 
@@ -134,8 +128,6 @@ me by attending to this hint?” I nodded. She continued with subdued
 
 earnestness--
 
-
-
 “Pardon me, monsieur, if I venture to add that what I have just said is
 
 of importance to the poor girl; she already experiences great difficulty
@@ -151,8 +143,6 @@ establishment too painful to be retained; a circumstance I should much
 regret for her sake, as she can ill afford to lose the profits of her
 
 occupation here.”
-
-
 
 Mdlle. Reuter possessed marvellous tact; but tact the most exclusive,
 
@@ -178,13 +168,9 @@ proceeded to collect them. As I passed the governess-pupil, I said to
 
 her--
 
-
-
 “You have come in too late to receive a lesson to-day; try to be more
 
 punctual next [[Time|time]].”
-
-
 
 I was behind her, and could not read in her face the effect of my not
 

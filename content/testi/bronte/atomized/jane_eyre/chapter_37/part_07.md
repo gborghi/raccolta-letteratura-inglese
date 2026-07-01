@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 37 (part 7)"
+title: "Jane Eyre — Chapter 37 (part 7)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_37/part_06">‹ part 06</a><span></span></div>
 </nav>
 
+
+“I was in my own room, and sitting by the [[Window|window]], which was open: it
+soothed me to feel the balmy [[Night|night]]-air; though I could see no [[Stars|stars]] and
+only by a vague, luminous haze, knew the presence of a [[Moon|moon]]. I longed
+for thee, Janet! Oh, I longed for thee both with [[Soul|soul]] and flesh! I
+asked of God, at once in anguish and [[Humility|humility]], if I had not been long
+enough desolate, afflicted, tormented; and might not soon taste bliss
+and peace once more. That I merited all I endured, I acknowledged—that
+I could scarcely endure more, I pleaded; and the alpha and omega of my
+heart’s wishes broke involuntarily from my lips in the words—‘Jane!
+Jane! Jane!’”
 
 “Did you speak these words aloud?”
 

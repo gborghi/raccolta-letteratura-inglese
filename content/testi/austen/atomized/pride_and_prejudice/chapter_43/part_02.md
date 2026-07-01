@@ -1,5 +1,5 @@
 ---
-title: "[[Pride and Prejudice]] — Chapter 43 (part 2)"
+title: "Pride and Prejudice — Chapter 43 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/pride-and-prejudice-(austen)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/pride_and_prejudice/chapter_43/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/pride_and_prejudice/chapter_43/part_03">part 03 ›</a></div>
 </nav>
 
+
+“Is your master much at Pemberley in the course of the year?”
+
+“Not so much as I could wish, sir: but I dare say he may spend half his
+[[Time|time]] here; and Miss Darcy is always down for the [[Summer|summer]] months.”
 
 “Except,” thought Elizabeth, “when she goes to Ramsgate.”
 

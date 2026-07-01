@@ -1,5 +1,5 @@
 ---
-title: "[[Lamia]]"
+title: "Lamia"
 author: "Keats"
 unitType: work
 parentWork: "works/lamia-(keats)"

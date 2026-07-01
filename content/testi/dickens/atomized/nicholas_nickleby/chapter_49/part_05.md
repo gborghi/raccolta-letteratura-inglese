@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 49 (part 5)"
+title: "Nicholas Nickleby — Chapter 49 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -122,6 +122,3 @@ Creevy on a few paces in advance, and urging the old gentleman to
 follow her. It succeeded to a miracle; and he went away in a rapture of
 admiration, strongly guarded by Tim Linkinwater on one side, and Frank
 himself on the other.
-
-‘Kate,’ murmured Mrs. Nickleby, reviving when the coast was clear, ‘is he
-gone?’

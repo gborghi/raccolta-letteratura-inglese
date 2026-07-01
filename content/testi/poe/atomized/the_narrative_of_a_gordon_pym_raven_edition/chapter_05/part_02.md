@@ -14,6 +14,8 @@ tags:
 </nav>
 
 
+      behaviour, that he was aware of my being in the hold, and
+
       Augustus thought it possible that he would be able to get to me
 
       if he put him down. He now hit upon the expedient of sending the
@@ -191,9 +193,3 @@ tags:
       filled with [[Water|water]] from the pitcher left by Peters, storing his
 
       pockets at the same [[Time|time]] with cold potatoes. To his great joy he
-
-      also came across a lantern, with a small piece of tallow candle
-
-      in it. This he could light at any moment, as he had in his
-
-      possession a box of phosphorus matches. When it was quite dark,

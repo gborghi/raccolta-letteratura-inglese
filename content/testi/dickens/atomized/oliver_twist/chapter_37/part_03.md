@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 37 (part 3)"
+title: "Oliver Twist — Chapter 37 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -150,7 +150,3 @@ mother. Where is she?”
 facetious. “It would be hard to tell. There’s no midwifery there,
 whichever place she’s gone to; so I suppose she’s out of employment,
 anyway.”
-
-“What do you mean?” demanded the stranger, sternly.
-
-“That she died last [[Winter|winter]],” rejoined Mr. Bumble.

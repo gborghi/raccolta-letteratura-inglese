@@ -1,5 +1,5 @@
 ---
-title: "[[Emma]] — Chapter 15 (part 3)"
+title: "Emma — Chapter 15 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/emma-(austen)"
@@ -13,6 +13,27 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/emma/chapter_15/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/emma/chapter_18/part_01">part 01 ›</a></div>
 </nav>
 
+
+“I am very much astonished, Mr. Elton. This to _me_! you forget
+yourself—you take me for my friend—any message to Miss [[smith|Smith]] I shall be
+happy to deliver; but no more of this to _me_, if you please.”
+
+“Miss [[smith|Smith]]!—message to Miss [[smith|Smith]]!—What could she possibly mean!”—And
+he repeated her words with such assurance of accent, such boastful
+pretence of amazement, that she could not help replying with quickness,
+
+“Mr. Elton, this is the most extraordinary conduct! and I can account
+for it only in one way; you are not yourself, or you could not speak
+either to me, or of Harriet, in such a manner. Command yourself enough
+to say no more, and I will endeavour to forget it.”
+
+But Mr. Elton had only drunk wine enough to elevate his spirits, not at
+all to confuse his intellects. He perfectly knew his own meaning; and
+having warmly protested against her suspicion as most injurious, and
+slightly touched upon his respect for Miss [[smith|Smith]] as her friend,—but
+acknowledging his [[Wonder|wonder]] that Miss [[smith|Smith]] should be mentioned at all,—he
+resumed the subject of his own passion, and was very urgent for a
+favourable answer.
 
 As she thought less of his inebriety, she thought more of his
 inconstancy and presumption; and with fewer struggles for politeness,

@@ -33,7 +33,7 @@ the test, why bother to join the League of Nations [[Union]]?
 
 THE EVOLUTION OF SLAVES
 
-A VERY curious and interesting thing has recently happened in [[america|America]].
+A VERY curious and interesting thing has recently happened in [[America]].
 There has suddenly appeared an organized political attack on
 Darwinian Evolution, led by an old demagogue appealing entirely
 to the ideals of [[democracy]].  I mean no discredit to Mr. Bryan
@@ -118,9 +118,9 @@ retaining only the ornaments; as a good many fashionable people
 in our own civilization seem to be doing now.  And there is nothing
 to show that ruder races who brew their "native beers" in Africa
 or Polynesia have not lost the art of brewing something better;
-just as Prohibitionist [[america|America]], before our very eyes, has left off
+just as Prohibitionist [[America]], before our very eyes, has left off
 brewing Christian beer and taken to drinking fermented wood-pulp
-and methylated spirit.  The very example of modern [[america|America]] falling
+and methylated spirit.  The very example of modern [[America]] falling
 from better to baser drinks, under a dismal taboo, is a perfect
 model of the way in which civilizations have relapsed into savagery,
 and produced the savages we know.  But the point is that drink,

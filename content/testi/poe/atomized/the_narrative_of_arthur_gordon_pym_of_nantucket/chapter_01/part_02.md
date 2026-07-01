@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 2 (part 2)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 2 (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_01/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_01/part_03">part 03 ›</a></div>
 </nav>
 
+
+It had been our original plan that I should keep out of the way until
+
+dark, and then slip on board the brig; but, as there was now a thick
+
+fog in our favour, it was agreed to lose no [[Time|time]] in secreting me.
 
 Augustus led the way to the wharf, and I followed at a little distance,
 
@@ -187,11 +193,3 @@ had only one assistant in the labour, a man not going out in the brig.
 My companion now showed me that one of the ends of the box could be
 
 removed at pleasure. He slipped it aside and displayed the interior, at
-
-which I was excessively amused. A mattress from one of the cabin berths
-
-covered the whole of its [[Bottom|bottom]], and it contained almost every article
-
-of mere comfort which could be crowded into so small a space, allowing
-
-me, at the same [[Time|time]], sufficient room for my accommodation, either in a

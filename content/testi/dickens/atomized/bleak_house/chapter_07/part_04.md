@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 7 (part 4)"
+title: "Bleak House — Chapter 7 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_07/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_08/part_01">part 01 ›</a></div>
 </nav>
 
+
+The story has nothing to do with a picture; the housekeeper can
+guarantee that. Mr. Guppy is obliged to her for the information and
+is, moreover, generally obliged. He retires with his friend, guided
+down another staircase by the young gardener, and presently is heard
+to drive away. It is now dusk. Mrs. Rouncewell can trust to the
+discretion of her two young hearers and may tell THEM how the terrace
+came to have that ghostly name.
 
 She seats herself in a large chair by the fast-darkening [[Window|window]] and
 tells them: “In the wicked days, my dears, of [[King]] Charles the

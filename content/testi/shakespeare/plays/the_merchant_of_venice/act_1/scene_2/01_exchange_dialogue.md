@@ -1,5 +1,5 @@
 ---
-title: "The Merchant of [[Venice]] — Act I, Scene 2 — exchange (dialogue) [1]"
+title: "The Merchant of Venice — Act I, Scene 2 — exchange (dialogue) [1]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-merchant-of-venice-(shakespeare)"

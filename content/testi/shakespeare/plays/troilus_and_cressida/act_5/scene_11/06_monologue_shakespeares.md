@@ -1,5 +1,5 @@
 ---
-title: "[[Troilus]] and [[Cressida]] — Act V, Scene 11 — monologue (SHAKESPEARE’S) [6]"
+title: "Troilus and Cressida — Act V, Scene 11 — monologue (SHAKESPEARE’S) [6]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/troilus-and-cressida-(shakespeare)"

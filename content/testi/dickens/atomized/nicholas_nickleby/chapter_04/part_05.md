@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 4 (part 5)"
+title: "Nicholas Nickleby — Chapter 4 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_04/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_05/part_01">part 01 ›</a></div>
 </nav>
 
+
+Nicholas cheerfully undertook the errand, and bidding his worthy
+uncle an affectionate farewell, which that warm-hearted old gentleman
+acknowledged by a growl, hastened away to execute his commission.
+
+He found Golden Square in due course; Mr. Noggs, who had stepped out
+for a minute or so to the public-[[house]], was opening the door with a
+latch-key, as he reached the steps.
 
 ‘What’s that?’ inquired Noggs, pointing to the parcel.
 

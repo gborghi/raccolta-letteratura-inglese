@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Book 26: some illustrated work of natural [[history]]. Often had I seen her"
+title: "Villette — Book 26: some illustrated work of natural history. Often had I seen her"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/villette-(bronte)"

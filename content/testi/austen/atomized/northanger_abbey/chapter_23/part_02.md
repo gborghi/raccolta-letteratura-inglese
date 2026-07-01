@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 22 (part 2)"
+title: "Northanger Abbey — Chapter 22 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_23/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_23/part_03">part 03 ›</a></div>
 </nav>
 
+
+entrance of the General, whose smiling compliments announced a happy
+
+state of mind, but whose gentle hint of sympathetic early rising did
+
+not advance her composure.
+
+
+
+The elegance of the breakfast set forced itself on Catherine’s notice
 
 when they were seated at table; and, luckily, it had been the General’s
 
@@ -193,19 +203,3 @@ in Gothic ornaments, stood forward for admiration. The remainder was
 shut off by knolls of old trees, or luxuriant plantations, and the
 
 steep woody hills rising behind, to give it shelter, were beautiful
-
-even in the leafless month of March. Catherine had seen nothing to
-
-compare with it; and her feelings of delight were so strong, that
-
-without waiting for any better authority, she boldly burst forth in
-
-[[Wonder|wonder]] and praise. The General listened with assenting gratitude; and
-
-it seemed as if his own estimation of Northanger had waited unfixed
-
-till that hour.
-
-
-
-The kitchen-[[Garden|garden]] was to be next admired, and he led the way to it

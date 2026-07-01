@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 23 (part 1)"
+title: "Villette — Chapter 23 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -116,6 +116,3 @@ anticipated I should find—Dr. Bretton; but he was in evening-dress.
 “The carriage is at the door,” said he; “my mother has sent it to take
 you to the theatre; she was going herself, but an arrival has prevented
 her: she immediately said, ‘Take Lucy in my place.’ Will you go?”
-
-“Just now? I am not dressed,” cried I, glancing despairingly at my dark
-merino.

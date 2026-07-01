@@ -14,6 +14,11 @@ tags:
 </nav>
 
 
+‘You didn’t find it then?’ said Dick.  ‘But of course you didn’t, or
+you’d be plumper.  Good [[Night|night]], [[Marchioness]].  Fare thee [[Well|well]], and if for
+ever, then for ever fare thee [[Well|well]]--and put up the chain, [[Marchioness]],
+in case of accidents.’
+
 With this parting injunction, Mr Swiveller emerged from the [[house]]; and
 feeling that he had by this [[Time|time]] taken quite as much to drink as
 promised to be good for his constitution (purl being a rather strong
@@ -117,15 +122,3 @@ here.’
 ‘There was a knife too,’ said Miss Sally, ‘of the same pattern.  They
 were given to me by my father, years ago, and are both gone.  You
 haven’t missed anything yourself, have you?’
-
-Mr Swiveller involuntarily clapped his hands to the jacket to be quite
-sure that it WAS a jacket and not a skirted coat; and having satisfied
-himself of the safety of this, his only moveable in Bevis Marks, made
-answer in the negative.
-
-‘It’s a very unpleasant thing, Dick,’ said Miss Brass, pulling out the
-tin box and refreshing herself with a pinch of snuff; ‘but between you
-and me--between friends you know, for if Sammy knew it, I should never
-hear the last of it--some of the office-money, too, that has been left
-about, has gone in the same way.  In particular, I have missed three
-half-crowns at three different times.’

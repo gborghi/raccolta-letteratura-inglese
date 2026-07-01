@@ -1,5 +1,5 @@
 ---
-title: "[[Metzengerstein]] (part 4)"
+title: "Metzengerstein (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/metzengerstein-(poe)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/metzengerstein/part/part_03">‹ part 03</a><span></span></div>
 </nav>
 
+
+      high-spirited [[Horse|horse]] are not to be supposed capable of exciting
+
+      unreasonable attention—especially among men who, daily trained to
+
+      the labors of the chase, might appear [[Well|well]] acquainted with the
+
+      sagacity of a [[Horse|horse]]—but there were certain circumstances which
+
+      intruded themselves per force upon the most skeptical and
+
+      phlegmatic; and it is said there were times when the animal
+
+      caused the gaping crowd who stood around to recoil in horror from
+
+      the deep and impressive meaning of his terrible stamp—times when
+
+      the young [[Metzengerstein]] turned pale and shrunk away from the
 
       rapid and searching expression of his earnest and human-looking
 

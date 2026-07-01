@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 3 (part 1)"
+title: "Persuasion — Chapter 3 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -220,7 +220,7 @@ father, his father might have disdained to speak to, and of becoming
 
 prematurely an object of disgust himself, than in any other line. One
 
-day last [[spring]], in town, I was in company with two men, striking
+day last [[Spring|spring]], in town, I was in company with two men, striking
 
 instances of what I am talking of; Lord St Ives, whose father we all
 
@@ -229,7 +229,3 @@ know to have been a country curate, without bread to eat; I was to give
 place to Lord St Ives, and a certain Admiral Baldwin, the most
 
 deplorable-looking personage you can imagine; his face the colour of
-
-mahogany, rough and rugged to the last degree; all lines and wrinkles,
-
-nine grey hairs of a side, and nothing but a dab of powder at top. ‘In

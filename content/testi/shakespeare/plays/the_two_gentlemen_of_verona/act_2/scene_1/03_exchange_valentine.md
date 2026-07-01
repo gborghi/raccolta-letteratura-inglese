@@ -1,5 +1,5 @@
 ---
-title: "The Two Gentlemen of [[Verona]] — Act II, Scene 1 — exchange ([[Valentine|VALENTINE]]) [3]"
+title: "The Two Gentlemen of Verona — Act II, Scene 1 — exchange (VALENTINE) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-two-gentlemen-of-verona-(shakespeare)"

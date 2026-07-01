@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 8 (part 3)"
+title: "Nicholas Nickleby — Chapter 8 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_08/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_08/part_04">part 04 ›</a></div>
 </nav>
 
+
+He could not but observe how silent and sad the boys all seemed to be.
+There was none of the noise and clamour of a schoolroom; none of
+its boisterous play, or hearty mirth. The children sat crouching and
+shivering together, and seemed to lack the spirit to move about. The
+only pupil who evinced the slightest tendency towards locomotion or
+playfulness was Master Squeers, and as his chief amusement was to tread
+upon the other boys’ toes in his new boots, his flow of spirits was
+rather disagreeable than otherwise.
 
 After some half-hour’s delay, Mr. Squeers reappeared, and the boys took
 their places and their books, of which latter commodity the average
@@ -125,19 +134,3 @@ to say:
 
 ‘Boys, I’ve been to [[London]], and have returned to my family and you, as
 strong and [[Well|well]] as ever.’
-
-According to half-yearly custom, the boys gave three feeble cheers at
-this refreshing intelligence. Such cheers! Sights of extra strength with
-the chill on.
-
-‘I have seen the parents of some boys,’ continued Squeers, turning over
-his papers, ‘and they’re so glad to hear how their sons are getting on,
-that there’s no prospect at all of their going away, which of course is
-a very pleasant thing to reflect upon, for all parties.’
-
-Two or three hands went to two or three eyes when Squeers said this, but
-the greater part of the young gentlemen having no particular parents to
-speak of, were wholly uninterested in the thing one way or other.
-
-‘I have had disappointments to contend against,’ said Squeers, looking
-very grim; ‘Bolder’s father was two pound ten short. Where is Bolder?’

@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 39 (part 4)"
+title: "The Tenant of Wildfell Hall — Chapter 39 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,26 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_39/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_39/part_05">part 05 ›</a></div>
 </nav>
 
+
+startled him: he stood and gazed at me in astonishment; I daresay I
+
+looked as fierce and resolute as he. I moved to the bell, and put my
+
+hand upon the cord. This tamed him still more. With a
+
+half-authoritative, half-deprecating wave of the hand, he sought to
+
+deter me from ringing.
+
+
+
+“Stand off, then!” said I; he stepped back. “And listen to me. I don’t
+
+like you,” I continued, as deliberately and emphatically as I could, to
+
+give the greater efficacy to my words; “and if I were divorced from my
+
+husband, or if he were dead, I would not marry you. There now! I [[Hope|hope]]
 
 you’re satisfied.”
 
@@ -82,7 +102,7 @@ that.”
 
 Walter did not answer, but walked to the [[Window|window]] to collect his
 
-faculties. [[arthur|Arthur]] uttered a low whistle, and followed him with his
+faculties. [[Arthur]] uttered a low whistle, and followed him with his
 
 eyes. A slight flush of anger [[Rose|rose]] to Hargrave’s cheek; but in a moment
 
@@ -281,25 +301,3 @@ defend it?”
 I instantly departed and shut myself into the library. What could
 
 possess me to make such a request of such a man I cannot tell; but
-
-drowning men catch at straws: they had driven me desperate between
-
-them; I hardly knew what I said. There was no other to preserve my name
-
-from being blackened and aspersed among this nest of boon companions,
-
-and through them, perhaps, into the world; and beside my abandoned
-
-wretch of a husband, the base, malignant Grimsby, and the false [[Villain|villain]]
-
-Hargrave, this boorish ruffian, coarse and brutal as he was, shone like
-
-a glow-worm in the dark, among its fellow worms.
-
-
-
-What a scene was this! Could I ever have imagined that I should be
-
-doomed to bear such insults under my own roof—to hear such things
-
-spoken in my presence; nay, spoken _to_ me and _of_ me; and by those

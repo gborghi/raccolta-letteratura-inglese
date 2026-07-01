@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 25"
+title: "The Professor — Chapter 25"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-professor-(bronte)"
@@ -15,8 +15,6 @@ tags:
 
 
 CHAPTER XXV.
-
-
 
 IN two months more Frances had fulfilled the [[Time|time]] of mourning for her
 
@@ -68,11 +66,9 @@ Vandenhuten received her, and seated her beside himself; we drove all
 
 together to the Protestant chapel, went through a certain service in the
 
-Common [[Prayer]] Book, and she and I came out married. M. Vandenhuten had
+Common [[prayer|Prayer]] Book, and she and I came out married. M. Vandenhuten had
 
 given the bride away.
-
-
 
 We took no bridal trip; our modesty, screened by the peaceful obscurity
 
@@ -83,8 +79,6 @@ exact that additional precaution. We repaired at once to a small [[house]]
 I had taken in the faubourg nearest to that part of the [[City|city]] where the
 
 scene of our avocations lay.
-
-
 
 Three or four hours after the wedding ceremony, Frances, divested of her
 
@@ -120,8 +114,6 @@ into the pot, she administered to me a proper British repast, at which
 
 there wanted neither candles nor urn, firelight nor comfort.
 
-
-
 Our week’s holiday glided by, and we readdressed ourselves to labour.
 
 Both my wife and I began in good earnest with the notion that we were
@@ -142,8 +134,6 @@ Unvaried were they as each cut gem, and like each gem brilliant and
 
 burning.
 
-
-
 A year and a half passed. One morning (it was a FETE, and we had the day
 
 to ourselves) Frances said to me, with a suddenness peculiar to her when
@@ -154,11 +144,7 @@ a conclusion, wished to test its soundness by the [[Touchstone|touchstone]] of m
 
 judgment:--
 
-
-
 “I don’t work enough.”
-
-
 
 “What now?” demanded I, looking up from my coffee, which I had been
 
@@ -172,8 +158,6 @@ saw at once, in the serious ardour of her face, a project of vital
 
 importance.
 
-
-
 “I am not satisfied,” returned she: “you are now earning eight thousand
 
 francs a year” (it was true; my efforts, punctuality, the fame of my
@@ -184,17 +168,11 @@ on), “while I am still at my miserable twelve hundred francs. I CAN do
 
 better, and I WILL.”
 
-
-
 “You work as long and as diligently as I do, Frances.”
-
-
 
 “Yes, monsieur, but I am not working in the right way, and I am
 
 convinced of it.”
-
-
 
 “You wish to change--you have a plan for progress in your mind; go and
 
@@ -202,11 +180,7 @@ put on your bonnet; and, while we take our walk, you shall tell me of
 
 it.”
 
-
-
 “Yes, monsieur.”
-
-
 
 She went--as docile as a [[Well|well]]-trained [[Child|child]]; she was a curious mixture
 
@@ -214,15 +188,11 @@ of tractability and firmness: I sat thinking about her, and wondering
 
 what her plan could be, when she re-entered.
 
-
-
 “Monsieur, I have given Minnie” (our bonne) “leave to go out too, as it
 
 is so very fine; so will you be kind enough to lock the door, and take
 
 the key with you?”
-
-
 
 “Kiss me, Mrs. Crimsworth,” was my not very apposite reply; but she
 
@@ -234,21 +204,13 @@ and suavely respectful, that my heart expanded at the sight of her, and
 
 a kiss seemed necessary to content its importunity.
 
-
-
 “There, monsieur.”
 
-
-
 “Why do you always call me ‘Monsieur’? Say, ‘William.’”
-
-
 
 “I cannot pronounce your W; besides, ‘Monsieur’ belongs to you; I like
 
 it best.”
-
-
 
 Minnie having departed in clean cap and smart shawl, we, too, set out,
 
@@ -269,8 +231,6 @@ to be declined; we took it, and when we had admired and examined some
 English-looking wild-[[Flowers|flowers]] growing at our feet, I recalled Frances’
 
 attention and my own to the topic touched on at breakfast.
-
-
 
 “What was her plan?” A natural one--the next step to be mounted by
 
@@ -298,8 +258,6 @@ old to enjoy it; then both she and I would rest; and what was to hinder
 
 us from going to live in England? England was still her Promised Land.
 
-
-
 I put no obstacle in her way; raised no objection; I knew she was
 
 not one who could live quiescent and inactive, or even comparatively
@@ -314,15 +272,11 @@ was not the hand ever to starve or cramp them; no, I delighted in
 
 offering them sustenance, and in clearing them wider space for action.
 
-
-
 “You have conceived a plan, Frances,” said I, “and a good plan; execute
 
 it; you have my free consent, and wherever and whenever my assistance is
 
 wanted, ask and you shall have.”
-
-
 
 Frances’ eyes thanked me almost with [[Tears|tears]]; just a sparkle or two, soon
 
@@ -332,13 +286,9 @@ some [[Time|time]] very close clasped in both her own, but she said no more than
 
 “Thank you, monsieur.”
 
-
-
 We passed a divine day, and came [[Home|home]] late, lighted by a full [[Summer|summer]]
 
 [[Moon|moon]].
-
-
 
 Ten years rushed now upon me with dusty, vibrating, unresting wings;
 
@@ -374,8 +324,6 @@ went back, and soon after sent a leash of young ----shire heiresses--his
 
 cousins; as he said “to be polished off by Mrs. Crimsworth.”
 
-
-
 As to this same Mrs. Crimsworth, in one sense she was become another
 
 woman, though in another she remained unchanged. So different was
@@ -399,8 +347,6 @@ the world knew the secret of their existence, but to me they were ever
 ready to yield an exquisite fragrance and present a [[Beauty|beauty]] as chaste as
 
 radiant.
-
-
 
 In the daytime my [[house]] and establishment were conducted by Madame the
 
@@ -500,8 +446,6 @@ enthusiastic heart and clever head, for her generosity and her genius,
 
 the title and rank went for nothing.
 
-
-
 My afternoons were spent also in college, with the exception of an hour
 
 that my wife daily exacted of me for her establishment, and with which
@@ -528,8 +472,6 @@ she did it was with an air of marked deference; it was her pleasure, her
 
 joy to make me still the master in all things.
 
-
-
 At six o’[[Clock|clock]] P.M. my daily labours ceased. I then came [[Home|home]], for
 
 my [[Home|home]] was my heaven; ever at that hour, as I entered our private
@@ -543,8 +485,6 @@ arms; much disappointed she would have been if her master had not been
 as constant to the tryst as herself, and if his truthfull kiss had not
 
 been prompt to answer her soft, “Bon soir, monsieur.”
-
-
 
 Talk French to me she would, and many a punishment she has had for
 
@@ -614,8 +554,6 @@ excited her; Scott she loved; Wordsworth only she puzzled at, wondered
 
 over, and hesitated to pronounce an opinion upon.
 
-
-
 But whether she read to me, or talked with me; whether she teased me
 
 in French, or entreated me in English; whether she jested with wit,
@@ -678,21 +616,15 @@ Entering it two minutes later she said quietly as she put down her
 
 extinguished lamp--
 
-
-
 “Victor rests [[Well|well]]: he smiled in his [[Sleep|sleep]]; he has your smile,
 
 monsieur.”
-
-
 
 The said Victor was of course her own boy, born in the third year of
 
 our [[Marriage|marriage]]: his Christian name had been given him in [[Honour|honour]] of M.
 
 Vandenhuten, who continued always our trusty and [[Well|well]]-beloved friend.
-
-
 
 Frances was then a good and dear wife to me, because I was to her a
 
@@ -704,49 +636,31 @@ a drunkard, or a [[Tyrant|tyrant]]--is another question, and one which I once
 
 propounded to her. Her answer, given after some reflection, was--
 
-
-
 “I should have tried to endure the evil or cure it for awhile; and when
 
 I found it intolerable and incurable, I should have left my torturer
 
 suddenly and silently.”
 
-
-
 “And if law or might had forced you back again?”
-
-
 
 “What, to a drunkard, a profligate, a selfish spendthrift, an unjust
 
 [[Fool|fool]]?”
 
-
-
 “Yes.”
-
-
 
 “I would have gone back; again assured myself whether or not his vice
 
 and my misery were capable of remedy; and if not, have left him again.”
 
-
-
 “And if again forced to return, and compelled to abide?”
 
-
-
 “I don’t know,” she said, hastily. “Why do you ask me, monsieur?”
-
-
 
 I would have an answer, because I saw a strange kind of spirit in her
 
 eye, whose voice I determined to waken.
-
-
 
 “Monsieur, if a wife’s [[Nature|nature]] loathes that of the man she is wedded to,
 
@@ -764,11 +678,7 @@ should be sure of a refuge. [[Death]] would certainly screen me both from
 
 bad laws and their consequences.”
 
-
-
 “Voluntary [[Death|death]], Frances?”
-
-
 
 “No, monsieur. I’d have [[Courage|courage]] to live out every throe of anguish fate
 
@@ -776,15 +686,11 @@ assigned me, and principle to contend for justice and liberty to the
 
 last.”
 
-
-
 “I see you would have made no patient Grizzle. And now, supposing fate
 
 had merely assigned you the lot of an old maid, what then? How would you
 
 have liked celibacy?”
-
-
 
 “Not much, certainly. An old maid’s life must doubtless be void and
 
@@ -828,13 +734,9 @@ her glance so thrilling and ardent--her action so rapid and strong. She
 
 looked down, smiling softly and passively:--
 
-
-
 “I cannot tell where it is gone, monsieur,” said she, “but I know that,
 
 whenever it is wanted, it will come back again.”
-
-
 
 Behold us now at the close of the ten years, and we have realized an
 
@@ -856,8 +758,6 @@ need not say how gainful; I communicated details to Messrs. Vandenhuten
 
 and Hunsden; nobody else can be interested in hearing them.
 
-
-
 Accounts being wound up, and our professional connection disposed of, we
 
 both agreed that, as mammon was not our master, nor his service that in
@@ -873,8 +773,6 @@ properly managed by right sympathy and unselfish activity, might
 help philanthropy in her enterprises, and put solace into the hand of
 
 [[Charity|charity]].
-
-
 
 To England we now resolved to take wing; we arrived there safely;
 
@@ -918,11 +816,9 @@ opens upon a lane as green as the lawn, very long, shady, and little
 
 frequented; on the turf of this lane generally appear the first daisies
 
-of [[spring]]--whence its name--Daisy Lane; serving also as a distinction to
+of [[Spring|spring]]--whence its name--Daisy Lane; serving also as a distinction to
 
 the [[house]].
-
-
 
 It terminates (the lane I mean) in a valley full of wood; which
 
@@ -944,8 +840,6 @@ of young ladies within a circuit of forty miles, who would be willing to
 
 assist him in the search.
 
-
-
 The estate fell to him by the [[Death|death]] of his father, five years since; he
 
 has given up trade, after having made by it sufficient to pay off some
@@ -965,8 +859,6 @@ a German metaphysician, sometimes a French savant; he had once a
 dissatisfied and savage-looking Italian, who neither sang nor played,
 
 and of whom Frances affirmed that he had “tout l’air d’un conspirateur.”
-
-
 
 What English guests Hunsden invites, are all either men of Birmingham or
 
@@ -994,8 +886,6 @@ Hunsden himself tolerated the drivelling theorists; with the practical
 
 men he seemed leagued hand and heart.
 
-
-
 When Hunsden is staying [[Alone|alone]] at the Wood (which seldom happens) he
 
 generally finds his way two or three times a week to Daisy Lane. He has
@@ -1015,8 +905,6 @@ me into lunacy by treading on my mental corns, or to force from Mrs.
 Crimsworth revelations of the dragon within her, by insulting the [[Memory|memory]]
 
 of Hofer and Tell.
-
-
 
 We also go frequently to Hunsden Wood, and both I and Frances relish a
 
@@ -1045,8 +933,6 @@ tastefully disposed in his panelled or tapestried rooms: I have seen
 there one or two pictures, and one or two pieces of statuary which many
 
 an aristocratic connoisseur might have envied.
-
-
 
 When I and Frances have dined and spent an evening with Hunsden, he
 
@@ -1084,13 +970,9 @@ come and graft her foreign [[Beauty|beauty]] on the old Hunsden oak, he answered
 
 suddenly--
 
-
-
 “You call her ideal; but see, here is her [[Shadow|shadow]]; and there cannot be a
 
 [[Shadow|shadow]] without a substance.”
-
-
 
 He had led us from the depth of the “winding way” into a glade from
 
@@ -1099,8 +981,6 @@ whence the beeches withdrew, leaving it open to the sky; an unclouded
 [[Moon|moon]] poured her light into this glade, and Hunsden held out under her
 
 beam an ivory miniature.
-
-
 
 Frances, with eagerness, examined it first; then she gave it to
 
@@ -1122,41 +1002,25 @@ independent, determined eye it was; the mouth was as firm as fine; the
 
 chin ditto. On the back of the miniature was gilded “Lucia.”
 
-
-
 “That is a real head,” was my conclusion.
-
-
 
 Hunsden smiled.
 
-
-
 “I think so,” he replied. “All was real in Lucia.”
 
-
-
 “And she was somebody you would have liked to marry--but could not?”
-
-
 
 “I should certainly have liked to marry her, and that I HAVE not done so
 
 is a proof that I COULD not.”
 
-
-
 He repossessed himself of the miniature, now again in Frances’ hand, and
 
 put it away.
 
-
-
 “What do YOU think of it?” he asked of my wife, as he buttoned his coat
 
 over it.
-
-
 
 “I am sure Lucia once wore [[Chains|chains]] and broke them,” was the strange
 
@@ -1174,19 +1038,11 @@ certain it spread wide pinions and carried her higher than--” she
 
 hesitated.
 
-
-
 “Than what?” demanded Hunsden.
-
-
 
 “Than ‘les convenances’ permitted you to follow.”
 
-
-
 “I think you grow spiteful--impertinent.”
-
-
 
 “Lucia has trodden the stage,” continued Frances. “You never seriously
 
@@ -1202,35 +1058,23 @@ filled a sphere from whence you would never have thought of taking a
 
 wife.”
 
-
-
 “Ingenious,” remarked Hunsden; “whether true or not is another question.
 
 Meantime, don’t you feel your little lamp of a spirit wax very pale,
 
 beside such a girandole as Lucia’s?”
 
-
-
 “Yes.”
-
-
 
 “Candid, at least; and [[The Professor|the Professor]] will soon be dissatisfied with the
 
 dim light you give?”
 
-
-
 “Will you, monsieur?”
-
-
 
 “My sight was always too weak to endure a blaze, Frances,” and we had
 
 now reached the wicket.
-
-
 
 I said, a few pages back, that this is a sweet [[Summer|summer]] evening; it
 
@@ -1252,8 +1096,6 @@ of whom Hunsden affirms that his mother is making a milksop. Mrs.
 
 Crimsworth retaliates:--
 
-
-
 “Better a thousand times he should be a milksop than what he, Hunsden,
 
 calls ‘a fine lad;’ and moreover she says that if Hunsden were to become
@@ -1268,15 +1110,11 @@ for that with his mutinous maxims and unpractical dogmas, he would ruin
 
 a score of children.”
 
-
-
 I have a word to say of Victor ere I shut this manuscript in my
 
 desk--but it must be a brief one, for I hear the tinkle of silver on
 
 porcelain.
-
-
 
 Victor is as little of a pretty [[Child|child]] as I am of a handsome man, or his
 
@@ -1314,8 +1152,6 @@ affection; this feeling, directed towards one or two living [[Animals|animals]] 
 
 the [[house]], strengthens almost to a passion.
 
-
-
 Mr. Hunsden gave him a mastiff cub, which he called Yorke, after the
 
 donor; it grew to a superb dog, whose fierceness, however, was much
@@ -1348,15 +1184,11 @@ Victor was kneeling beside his dead mastiff, bent over it, embracing its
 
 bull-like neck, and lost in a passion of the wildest woe: he saw me.
 
-
-
 “Oh, papa, I’ll never forgive you! I’ll never forgive you!” was his
 
 exclamation. “You shot Yorke--I saw it from the [[Window|window]]. I never believed
 
 you could be so cruel--I can [[Love|love]] you no more!”
-
-
 
 I had much ado to explain to him, with a steady voice, the stern
 
@@ -1364,15 +1196,11 @@ necessity of the deed; he still, with that inconsolable and bitter
 
 accent which I cannot render, but which pierced my heart, repeated--
 
-
-
 “He might have been cured--you should have tried--you should have burnt
 
 the wound with a hot iron, or covered it with caustic. You gave no [[Time|time]];
 
 and now it is too late--he is dead!”
-
-
 
 He sank fairly down on the senseless carcase; I waited patiently a long
 
@@ -1402,8 +1230,6 @@ had made me act so, and that I was now almost heart-broken to see him
 
 weep thus bitterly.
 
-
-
 Victor would have been no true son of his father, had these
 
 considerations, these reasons, breathed in so low, so sweet a
@@ -1421,8 +1247,6 @@ again what she had said about Yorke having suffered no [[Pain|pain]], and my not
 being cruel; the balmy words being repeated, he again pillowed his cheek
 
 on her breast, and was again tranquil.
-
-
 
 Some hours after, he came to me in my library, asked if I forgave him,
 
@@ -1455,8 +1279,6 @@ laid on the mound under which Yorke had been buried, his face covered
 with his hands; he was [[Melancholy|melancholy]] for some weeks, and more than a year
 
 elapsed before he would listen to any proposal of having another dog.
-
-
 
 Victor learns fast. He must soon go to Eton, where, I suspect, his first
 
@@ -1526,8 +1348,6 @@ his [[Soul|soul]]; then for the ordeal of merited and salutary [[Suffering|suffe
 
 which he will come (I trust) a wiser and a better man.
 
-
-
 I see him now; he stands by Hunsden, who is seated on the lawn under the
 
 beech; Hunsden’s hand rests on the boy’s collar, and he is instilling
@@ -1554,8 +1374,6 @@ Hunsden had children of his own, for then he would better know the
 
 danger of inciting their [[Pride|pride]] end indulging their foibles.
 
-
-
 Frances approaches my library [[Window|window]]; puts aside the honeysuckle which
 
 half covers it, and tells me tea is ready; seeing that I continue busy
@@ -1564,15 +1382,9 @@ she enters the room, comes near me quietly, and puts her hand on my
 
 shoulder.
 
-
-
 “Monsieur est trop applique.”
 
-
-
 “I shall soon have done.”
-
-
 
 She draws a chair near, and sits down to wait till I have finished; her
 
@@ -1582,25 +1394,17 @@ spicy [[Flowers|flowers]], as the glow of the westering sun, as the repose of th
 
 midsummer eve are to my senses.
 
-
-
 But Hunsden comes; I hear his step, and there he is, bending through the
 
 lattice, from which he has thrust away the woodbine with unsparing hand,
 
 disturbing two [[Bees|bees]] and a butterfly.
 
-
-
 “Crimsworth! I say, Crimsworth! take that pen out of his hand, mistress,
 
 and make him lift up his head.”
 
-
-
 “[[Well]], Hunsden? I hear you--”
-
-
 
 “I was at X---- yesterday! your brother Ned is getting richer than
 
@@ -1627,7 +1431,5 @@ fact. Brown says she weighs twelve stones now; you see what you’ve
 lost, Mr. Professor. Now, Monsieur and Madame, if you don’t come to tea,
 
 Victor and I will begin without you.”
-
-
 
 “Papa, come!”

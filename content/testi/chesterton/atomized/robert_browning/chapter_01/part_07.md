@@ -14,6 +14,23 @@ tags:
 </nav>
 
 
+It would have been hard, therefore, for Browning to have chosen a
+better example for his study of intellectual egotism than Paracelsus.
+Modern life accuses the mediæval tradition of crushing the intellect;
+Browning, with a truer instinct, accuses that tradition of
+over-glorifying it. There is, however, another and even more important
+deduction to be made from the moral of _Paracelsus_. The usual
+accusation against Browning is that he was consumed with [[logic]]; that
+he thought all subjects to be the proper pabulum of intellectual
+disquisition; that he gloried chiefly in his own power of plucking
+knots to pieces and rending fallacies in two; and that to this method
+he sacrificed deliberately, and with complete [[Self|self]]-complacency, the
+element of poetry and sentiment. To people who imagine Browning to
+have been this frigid believer in the intellect there is only one
+answer necessary or sufficient. It is the fact that he wrote a play
+designed to destroy the whole of this intellectualist fallacy at the
+age of twenty-three.
+
 _Paracelsus_ was in all likelihood Browning's introduction to the
 literary world. It was many years, and even many decades, before he
 had anything like a public appreciation, but a very great part of the

@@ -1,5 +1,5 @@
 ---
-title: "[[Cymbeline]] — Act V, Scene 5 — monologue (JUPITER) [8]"
+title: "Cymbeline — Act V, Scene 5 — monologue (JUPITER) [8]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/cymbeline-(shakespeare)"

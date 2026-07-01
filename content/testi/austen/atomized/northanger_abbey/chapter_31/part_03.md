@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 30 (part 3)"
+title: "Northanger Abbey — Chapter 30 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_31/part_02">‹ part 02</a><span></span></div>
 </nav>
 
+
+their care, and—as soon as his acquaintance allowed him to judge—of
+
+their treating her with parental kindness. His resolution was soon
+
+formed. Already had he discerned a liking towards Miss Morland in the
+
+countenance of his son; and thankful for Mr. Thorpe’s communication, he
+
+almost instantly determined to spare no pains in weakening his boasted
+
+interest and ruining his dearest hopes. Catherine herself could not be
+
+more ignorant at the [[Time|time]] of all this, than his own children. Henry and
 
 [[Eleanor]], perceiving nothing in her situation likely to engage their
 

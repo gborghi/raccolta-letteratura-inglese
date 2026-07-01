@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 41: DORA’S AUNTS (part 1)"
+title: "David Copperfield — Chapter 41: DORA’S AUNTS (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -128,12 +128,3 @@ greatest precaution, to Mrs. Crewler--’
 with every possible precaution to Mrs. Crewler, the effect upon her was
 such that she gave a scream and became insensible. I couldn’t approach
 the subject again, for months.’
-
-‘You did at last?’ said I.
-
-‘[[Well]], the Reverend Horace did,’ said Traddles. ‘He is an excellent man,
-most exemplary in every way; and he pointed out to her that she ought,
-as a Christian, to reconcile herself to the sacrifice (especially as it
-was so uncertain), and to bear no uncharitable feeling towards me. As to
-myself, Copperfield, I give you my word, I felt a perfect bird of prey
-towards the family.’

@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]] — Mr. H. G. Wells and the Giants (part 6)"
+title: "heret12 — Mr. H. G. Wells and the Giants (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/heret12-(chesterton)"
@@ -13,6 +13,37 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_05_mr_h_g_wells_and_the_giants/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_06_omar_and_the_sacred_vine/part_01">part 01 ›</a></div>
 </nav>
 
+
+But if the wisdom of Comte was insufficient, the folly of Comte
+was wisdom.  In an age of dusty modernity, when [[Beauty|beauty]] was thought
+of as something barbaric and ugliness as something sensible,
+he [[Alone|alone]] saw that men must always have the sacredness of mummery.
+He saw that while the brutes have all the useful things,
+the things that are truly human are the useless ones.
+He saw the falsehood of that almost universal notion of to-day,
+the notion that rites and forms are something artificial,
+additional, and corrupt.  Ritual is really much older
+than thought; it is much simpler and much wilder than thought.
+A feeling touching the [[Nature|nature]] of things does not only make
+men feel that there are certain proper things to say;
+it makes them feel that there are certain proper things to do.
+The more agreeable of these consist of dancing, building temples,
+and shouting very loud; the less agreeable, of wearing
+green carnations and burning other philosophers alive.
+But everywhere the religious [[Dance|dance]] came before the religious
+[[Hymn|hymn]], and man was a ritualist before he could speak.
+If Comtism had spread the world would have been converted,
+not by the Comtist [[philosophy]], but by the Comtist calendar.
+By discouraging what they conceive to be the weakness of their master,
+the English Positivists have broken the strength of their religion.
+A man who has [[Faith|faith]] must be prepared not only to be a martyr,
+but to be a [[Fool|fool]].  It is absurd to say that a man is ready
+to toil and die for his convictions when he is not even
+ready to wear a wreath round his head for them.  I myself,
+to take a corpus vile, am very certain that I would not read
+the works of Comte through for any consideration whatever.
+But I can easily imagine myself with the greatest enthusiasm
+lighting a bonfire on Darwin Day.
 
 That splendid effort failed, and nothing in the style of it has succeeded.
 There has been no rationalist festival, no rationalist ecstasy.

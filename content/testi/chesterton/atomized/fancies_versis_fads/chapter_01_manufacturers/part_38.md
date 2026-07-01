@@ -96,16 +96,16 @@ no heroic qualities; any more than I deny that Charlemagne was
 a great man because the legend says he was two hundred years old;
 any more than I deny that the resistance of Roman Britain to the heathen
 invasion was valiant and valuable, because the legend says that
-[[Arthur]] at Mount Badon killed nine hundred men with his own hand.
+[[arthur|Arthur]] at Mount Badon killed nine hundred men with his own hand.
 I mean that there exists in millions of modern minds a traditional
 image or vision called the "Mayflower," which has far less relation
-to the real facts than Charlemagne's two hundred years or [[Arthur]]'s
-nine hundred corpses.  Multitudes of people in England and [[america|America]],
+to the real facts than Charlemagne's two hundred years or [[arthur|Arthur]]'s
+nine hundred corpses.  Multitudes of people in England and [[America]],
 as intelligent and sympathetic as the young lady in Mr. Wells's [[Novel|novel]],
 think of the "Mayflower" as an origin, or archetype, like the Ark
 or at least the Argo.  Perhaps it would be an exaggeration
-to say that they think the "Mayflower" discovered [[america|America]].
-They do really talk as if the "Mayflower" populated [[america|America]].
+to say that they think the "Mayflower" discovered [[America]].
+They do really talk as if the "Mayflower" populated [[America]].
 Above all, they talk as if the establishment of [[New England]] had
 been the first and formative example of the expansion of England.
 They believe that English expansion was a Puritan experiment;

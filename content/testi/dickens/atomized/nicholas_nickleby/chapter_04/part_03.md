@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 4 (part 3)"
+title: "Nicholas Nickleby — Chapter 4 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_04/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_04/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘He goes down with me tomorrow, sir,’ said Squeers. ‘That’s his luggage
+that he is a sitting upon now. Each boy is required to bring, sir, two
+suits of clothes, six shirts, six pair of stockings, two nightcaps, two
+pocket-handkerchiefs, two pair of shoes, two hats, and a razor.’
+
+‘A razor!’ exclaimed Mr. Snawley, as they walked into the next box. ‘What
+for?’
+
+‘To shave with,’ replied Squeers, in a slow and measured tone.
 
 There was not much in these three words, but there must have been
 something in the manner in which they were said, to attract attention;
@@ -159,6 +169,3 @@ of [[Education|education]] adopted at Dotheboys Hall, which is situated, sir, at
 delightful village of Dotheboys, near Greta Bridge in Yorkshire,
 where youth are boarded, clothed, booked, washed, furnished with
 pocket-money--’
-
-‘Yes, we know all about that, sir,’ interrupted Ralph, testily. ‘It’s in
-the advertisement.’

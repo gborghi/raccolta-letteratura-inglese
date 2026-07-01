@@ -1,5 +1,5 @@
 ---
-title: "[[Maelzel's Chess-Player]] (part 3)"
+title: "Maelzel's Chess-Player (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/maelzel's-chess-player-(poe)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/maelzel_s_chess_player/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/maelzel_s_chess_player/part/part_04">part 04 ›</a></div>
 </nav>
 
+
+      should appear upon it, and the cushion should not be seen while
+
+      the pipe is held. Some immaterial alterations have been made in
 
       the costume of the player since it came into the possession of
 
@@ -185,13 +189,3 @@ tags:
       at one and the same [[Time|time]], every individual portion of the
 
       Automaton, and the idea of any person being concealed in the
-
-      interior, during so complete an exhibition of that interior, if
-
-      ever entertained, is immediately dismissed as preposterous in the
-
-      extreme.
-
-
-
-      M. Maelzel, having rolled the [[Machine|machine]] back into its original

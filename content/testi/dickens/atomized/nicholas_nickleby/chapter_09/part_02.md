@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 9 (part 2)"
+title: "Nicholas Nickleby — Chapter 9 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_09/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_09/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘No matter for that,’ said Mrs. Squeers; ‘I see them with right eyes,
+and that’s quite enough for me. I watched him when you were laying on
+to little Bolder this afternoon. He looked as black as thunder, all the
+while, and, one [[Time|time]], started up as if he had more than got it in his
+mind to make a rush at you. I saw him, though he thought I didn’t.’
 
 ‘Never mind that, father,’ said Miss Squeers, as the head of the family
 was about to reply. ‘Who is the man?’
@@ -138,39 +144,3 @@ I--very sorry to give you so much trouble.’
 
 ‘Not the least trouble in the world,’ replied Nicholas, closing the
 schoolroom door.
-
-‘I never saw such legs in the whole course of my life!’ said Miss
-Squeers, as she walked away.
-
-In fact, Miss Squeers was in [[Love|love]] with [[Nicholas Nickleby]].
-
-To account for the rapidity with which this young lady had conceived a
-passion for Nicholas, it may be necessary to state, that the friend
-from whom she had so recently returned, was a miller’s daughter of
-only eighteen, who had contracted herself unto the son of a small
-corn-factor, resident in the nearest market town. Miss Squeers and the
-miller’s daughter, being fast friends, had covenanted together some two
-years before, according to a custom prevalent among young ladies, that
-whoever was first engaged to be married, should straightway confide the
-mighty secret to the bosom of the other, before communicating it to
-any living [[Soul|soul]], and bespeak her as bridesmaid without loss of [[Time|time]]; in
-fulfilment of which pledge the miller’s daughter, when her engagement
-was formed, came out express, at eleven o’[[Clock|clock]] at [[Night|night]] as the
-corn-factor’s son made an offer of his hand and heart at twenty-five
-minutes past ten by the Dutch [[Clock|clock]] in the kitchen, and rushed into Miss
-Squeers’s bedroom with the gratifying intelligence. Now, Miss Squeers
-being five years older, and out of her teens (which is also a great
-matter), had, since, been more than commonly anxious to return the
-compliment, and possess her friend with a similar secret; but, either
-in consequence of finding it hard to please herself, or harder still to
-please anybody else, had never had an opportunity so to do, inasmuch as
-she had no such secret to disclose. The little interview with Nicholas
-had no sooner passed, as above described, however, than Miss Squeers,
-putting on her bonnet, made her way, with great precipitation, to
-her friend’s [[house]], and, upon a solemn renewal of divers old vows of
-secrecy, revealed how that she was--not exactly engaged, but going to
-be--to a gentleman’s son--(none of your corn-factors, but a gentleman’s
-son of high descent)--who had come down as teacher to Dotheboys Hall,
-under most mysterious and remarkable circumstances--indeed, as Miss
-Squeers more than once hinted she had good reason to believe, induced,
-by the fame of her many charms, to seek her out, and woo and win her.

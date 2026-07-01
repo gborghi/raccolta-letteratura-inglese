@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 22 (part 1)"
+title: "The Tenant of Wildfell Hall — Chapter 22 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -28,7 +28,7 @@ try to persuade myself that the sweetness overpowers it; I may call it
 
 a pleasant aromatic flavour; but say what I will, it is still there,
 
-and I cannot but taste it. I cannot shut my eyes to [[arthur|Arthur]]’s faults;
+and I cannot but taste it. I cannot shut my eyes to [[Arthur]]’s faults;
 
 and the more I [[Love|love]] him the more they trouble me. His very heart, that
 
@@ -219,13 +219,3 @@ street.
 “‘The last,’ he answered, somewhat against my expectation. And I took
 
 him [[Home|home]]—that is, to our club—for he was as submissive as a [[Child|child]]—and
-
-plied him with brandy-and-[[Water|water]] till he began to look rather
-
-brighter—rather more alive, at least.
-
-
-
-“‘Huntingdon, I’m ruined!’ said he, taking the third glass from my
-
-hand—he had drunk the others in dead [[Silence|silence]].

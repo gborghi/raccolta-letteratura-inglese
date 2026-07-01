@@ -131,7 +131,7 @@ It sees the [[Tragedy|tragedy]] of Ireland as simply and clearly as the [[Traged
 of [[Christ]] or Joan of Arc. There may have been more to be said on
 the coercive side than the culture of the Continent understands.
 So there was a great deal more than is usually admitted, to be said
-on the side of the patriotic [[Democracy|democracy]] which condemned Socrates;
+on the side of the patriotic [[democracy]] which condemned Socrates;
 and a very great deal to be said on the side of the imperial
 aristocracy which would have crushed Washington. But these disputes
 will not take Socrates from his niche among the pagan saints,
@@ -314,7 +314,7 @@ the last moment allies on whom we could depend; and it would have lost
 us the whole sympathy of the allies on whom we at that moment depended.
 I do not mean that American soldiers would have mutinied;
 though Irish soldiers might have done so; I mean something much worse.
-I mean that the whole mood of [[america|America]] would have altered, and there
+I mean that the whole mood of [[America]] would have altered, and there
 would have been some kind of compromise with German tyranny,
 in sheer disgust at a long exhibition of English tyranny.
 Things would have happened in Ireland, week after week, and month
@@ -329,7 +329,7 @@ looking towards that unhappy [[City|city]], who shook his head and said sadly,
 Of the meaning of this huge furnace of defiance I shall write
 when I write of the national idea itself. I am concerned
 here not for their nation but for mine; and especially with its
-peril from Prussia and its help from [[america|America]]. And it is simply
+peril from Prussia and its help from [[America]]. And it is simply
 a question of considering what these real things are really like.
 Remember that the American Republic is practically founded on the fact,
 or fancy, that England is a [[Tyrant|tyrant]]. Remember that it was being

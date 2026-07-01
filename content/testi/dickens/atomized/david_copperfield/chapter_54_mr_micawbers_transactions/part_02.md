@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 54: Mr. MICAWBER’S TRANSACTIONS (part 2)"
+title: "David Copperfield — Chapter 54: Mr. MICAWBER’S TRANSACTIONS (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_54_mr_micawbers_transactions/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_54_mr_micawbers_transactions/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘In reference to our domestic preparations, madam,’ said Mr. Micawber,
+with some [[Pride|pride]], ‘for meeting the destiny to which we are now understood
+to be [[Self|self]]-devoted, I beg to report them. My eldest daughter attends
+at five every morning in a neighbouring establishment, to acquire
+the process--if process it may be called--of milking cows. My younger
+children are instructed to observe, as closely as circumstances will
+permit, the habits of the pigs and poultry maintained in the poorer
+parts of this [[City|city]]: a pursuit from which they have, on two occasions,
+been brought [[Home|home]], within an inch of being run over. I have myself
+directed some attention, during the past week, to the art of baking; and
+my son Wilkins has issued forth with a walking-stick and driven cattle,
+when permitted, by the rugged hirelings who had them in charge, to
+render any voluntary service in that direction--which I regret to say,
+for the credit of our [[Nature|nature]], was not often; he being generally warned,
+with imprecations, to desist.’
 
 ‘All very right indeed,’ said my aunt, encouragingly. ‘Mrs. Micawber has
 been busy, too, I have no [[Doubt|doubt]].’
@@ -109,35 +125,3 @@ red, and his hair all kinds of shapes, ‘I don’t make any excuse for
 troubling you with business, because I know you are deeply interested
 in it, and it may divert your thoughts. My dear boy, I [[Hope|hope]] you are not
 worn out?’
-
-‘I am quite myself,’ said I, after a pause. ‘We have more cause to think
-of my aunt than of anyone. You know how much she has done.’
-
-‘Surely, surely,’ answered Traddles. ‘Who can forget it!’
-
-‘But even that is not all,’ said I. ‘During the last fortnight, some new
-trouble has vexed her; and she has been in and out of [[London]] every day.
-Several times she has gone out early, and been absent until evening.
-Last [[Night|night]], Traddles, with this [[Journey|journey]] before her, it was almost
-midnight before she came [[Home|home]]. You know what her consideration for
-others is. She will not tell me what has happened to distress her.’
-
-My aunt, very pale, and with deep lines in her face, sat immovable until
-I had finished; when some stray [[Tears|tears]] found their way to her cheeks, and
-she put her hand on mine.
-
-‘It’s nothing, Trot; it’s nothing. There will be no more of it. You
-shall know by and by. Now Agnes, my dear, let us attend to these
-affairs.’
-
-‘I must do Mr. Micawber the justice to say,’ Traddles began, ‘that
-although he would appear not to have worked to any good account for
-himself, he is a most untiring man when he works for other people. I
-never saw such a fellow. If he always goes on in the same way, he must
-be, virtually, about two hundred years old, at present. The heat into
-which he has been continually putting himself; and the distracted and
-impetuous manner in which he has been diving, day and [[Night|night]], among
-papers and books; to say nothing of the immense number of letters he has
-written me between this [[house]] and Mr. Wickfield’s, and often across the
-table when he has been sitting opposite, and might much more easily have
-spoken; is quite extraordinary.’

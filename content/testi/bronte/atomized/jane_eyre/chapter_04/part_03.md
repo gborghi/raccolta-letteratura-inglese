@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 4 (part 3)"
+title: "Jane Eyre — Chapter 4 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_04/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_04/part_04">part 04 ›</a></div>
 </nav>
 
+
+“Ten years.”
+
+“So much?” was the doubtful answer; and he prolonged his scrutiny for
+some minutes. Presently he addressed me—“Your name, little girl?”
 
 “[[Jane Eyre]], sir.”
 
@@ -151,8 +156,3 @@ long pinafores, and those little holland pockets outside their
 frocks—they are almost like poor people’s children! and,’ said she,
 ‘they looked at my dress and mama’s, as if they had never seen a silk
 gown before.’”
-
-“This is the state of things I quite approve,” returned Mrs. Reed; “had
-I sought all England over, I could scarcely have found a system more
-exactly fitting a [[Child|child]] like [[Jane Eyre]]. Consistency, my dear Mr.
-Brocklehurst; I advocate consistency in all things.”

@@ -1,5 +1,5 @@
 ---
-title: "[[misc]] — THE MAD OFFICIAL"
+title: "misc — THE MAD OFFICIAL"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 THE MAD OFFICIAL
-
 
 Going mad is the slowest and dullest business in the world.
 I have very nearly done it more than once in my boyhood,

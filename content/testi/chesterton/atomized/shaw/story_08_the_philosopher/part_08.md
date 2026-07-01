@@ -1,5 +1,5 @@
 ---
-title: "[[Shaw]] — THE PHILOSOPHER (part 8)"
+title: "Shaw — THE PHILOSOPHER (part 8)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/shaw-(chesterton)"
@@ -111,14 +111,3 @@ need to be something stranger and softer than Bernard [[Shaw]].
 But though I always argue with him whenever he argues,
 I confess that he always conquers me in the one or two moments
 when he is emotional.
-
-There is one really noble moment when Anne offers for all her cynical
-husband-hunting the only defence that is really great enough to cover it.
-"It will not be all happiness for me.  Perhaps [[Death|death]]."
-And the man rises also at that real crisis, saying, "Oh, that clutch
-holds and hurts.  What have you grasped in me?  Is there a father's
-heart as [[Well|well]] as a mother's?"  That seems to me actually great;
-I do not like either of the characters an atom more than formerly;
-but I can see shining and shaking through them at that instant
-the splendour of the God that made them and of the image of God
-who wrote their story.

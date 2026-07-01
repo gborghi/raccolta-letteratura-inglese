@@ -40,7 +40,7 @@ knowledge was exceptional. He was no spoilt and [[Self|self]]-conscious [[Child|
 taught to regard himself as clever. In the atmosphere in which he
 lived learning was a pleasure, and a natural pleasure, like sport or
 wine. He had in it the pleasure of some old scholar of the Renascence,
-when grammar itself was as fresh as the [[Flowers|flowers]] of [[Spring|spring]]. He had no
+when grammar itself was as fresh as the [[Flowers|flowers]] of [[spring]]. He had no
 reason to suppose that every one did not join in so admirable a game.
 His sagacious destiny, while giving him knowledge of everything else,
 left him in ignorance of the ignorance of the world.

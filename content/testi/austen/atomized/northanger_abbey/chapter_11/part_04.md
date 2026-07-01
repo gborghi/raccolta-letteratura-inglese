@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 10 (part 4)"
+title: "Northanger Abbey — Chapter 10 (part 4)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -12,6 +12,44 @@ tags:
 <div class="excerpt-crumb">Austen · <a href="/works/northanger-abbey-(austen)">Northanger Abbey</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_11/part_03">‹ part 03</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_12/part_01">part 01 ›</a></div>
 </nav>
+
+
+variety of things to be seen and done all day long, which I can know
+
+nothing of there.”
+
+
+
+“You are not fond of the country.”
+
+
+
+“Yes, I am. I have always lived there, and always been very happy. But
+
+certainly there is much more sameness in a country life than in a Bath
+
+life. One day in the country is exactly like another.”
+
+
+
+“But then you spend your [[Time|time]] so much more rationally in the country.”
+
+
+
+“Do I?”
+
+
+
+“Do you not?”
+
+
+
+“I do not believe there is much difference.”
+
+
+
+“Here you are in pursuit only of amusement all day long.”
+
 
 
 “And so I am at [[Home|home]]—only I do not find so much of it. I walk about

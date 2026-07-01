@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 21 (part 2)"
+title: "Oliver Twist — Chapter 21 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_21/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_22/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Good-bye, boy,” said the man.
+
+“He’s sulky,” replied Sikes, giving him a shake; “he’s sulky. A young
+dog! Don’t mind him.”
 
 “Not I!” rejoined the other, getting into his cart. “It’s a fine day,
 after all.” And he drove away.

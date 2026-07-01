@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 31"
+title: "Villette — Chapter 31"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/villette-(bronte)"
@@ -18,7 +18,7 @@ CHAPTER XXXI.
 THE DRYAD.
 
 
-The [[spring]] was advancing, and the weather had turned suddenly warm.
+The [[Spring|spring]] was advancing, and the weather had turned suddenly warm.
 This change of temperature brought with it for me, as probably for many
 others, temporary decrease of strength. Slight exertion at this [[Time|time]]
 left me overcome with fatigue—sleepless nights entailed languid days.
@@ -29,7 +29,7 @@ refuge in my solitary sanctuary, the first classe, I was glad to sit
 down, and to make of my desk a pillow for my arms and head.
 
 Awhile I listened to the lullaby of [[Bees|bees]] humming in the berceau, and
-watched, through the glass door and the tender, lightly-strewn [[spring]]
+watched, through the glass door and the tender, lightly-strewn [[Spring|spring]]
 foliage, [[Madame Beck]] and a gay party of friends, whom she had
 entertained that day at dinner after morning mass, walking in the
 centre-alley under orchard boughs dressed at this season in blossom,

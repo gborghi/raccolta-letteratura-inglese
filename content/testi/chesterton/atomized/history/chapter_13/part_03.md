@@ -1,5 +1,5 @@
 ---
-title: "[[history]] — Chapter 13 (part 3)"
+title: "history — Chapter 13 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/history-(chesterton)"

@@ -1,5 +1,5 @@
 ---
-title: "[[Don Quixote]] — Chapter 4 (part 3)"
+title: "Don Quixote — Chapter 4 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/don-quixote-(chesterton)"
@@ -13,6 +13,21 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_05/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_05/part_04">part 04 ›</a></div>
 </nav>
 
+
+Braintree assented civilly, having no very special knowledge
+of pictures and no knowledge at all of Pigments.  This ignorance,
+or indifference completed the case founded on the crude necktie.
+The expert, now fully realising that he was talking to
+an utter [[Outsider|outsider]], expanded with radiant condescension.
+He delivered a sort of lecture.
+
+"Ruskin is very sound upon that point," said Mr. Almeric Wister.
+"You would be quite safe in reading Ruskin, if only as a sort
+of introduction to the subject.  With the exception of Pater,
+of course, there has been no critic since having that atmosphere
+of authority.  [[democracy|Democracy]], of course, is not favourable to authority.
+And I very much [[Fear|fear]], Mr. Braintree, that [[democracy]] is not
+favourable to art."
 
 "[[Well]], if ever we have any [[democracy]], I suppose we shall
 find out," said Braintree.
@@ -134,32 +149,3 @@ felt any shame in looking on the faces of her fellows.
 
 "Don't you think," she said at last, "we are just quarrelling
 about a word?"
-
-"No, I don't, since you ask me," he said, gruffly.
-"I think we are arguing on two sides of an abyss, and that
-one little word is a chasm between two halves of humanity.
-If you really care to know, may I give you a little piece of advice?
-When you want to make us think you understand the situation,
-and still disapprove of the strike, say anything in the world
-except that.  Say there is the devil among the miners;
-say there is treason and anarchy among the miners;
-say there is blasphemy and [[Madness|madness]] among the miners.
-But don't say there is unrest among the miners.  For that one little
-word betrays the whole thing that is at the back of your mind;
-it is very old and its name is [[Slavery]]."
-
-"This is very extraordinary," said Mr. Wister.
-
-"Isn't it?" said the lady.  "Thrilling!"
-
-"No, quite simple," said the Syndicalist.  "Suppose there is a man
-in your coal-cellar instead of your coal-mine. Suppose it is his
-business to break up coal all day, and you can hear him hammering.
-We will suppose he is paid for it; we will suppose you honestly
-think he is paid enough.  Still, you can hear him chopping
-away all day while you are smoking or playing the piano--
-until a moment when the noise in the coal-cellar stops suddenly.
-It may be wrong for it to stop--it may be right--it may be all
-sorts of things.  But don't you see--can nothing make you see--
-what you really mean if you only say, like [[Hamlet]] to his
-old mole, 'Rest, perturbed spirit.'"

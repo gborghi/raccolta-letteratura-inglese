@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities — Chapter 24 (part 4)"
+title: "A Tale of Two Cities — Chapter 1 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-tale-of-two-cities-(dickens)"
@@ -10,119 +10,141 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/a-tale-of-two-cities-(dickens)">A Tale of Two Cities</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_31/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_33/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_31/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_32/part_01">part 01 ›</a></div>
 </nav>
 
 
-Yes. Like the mariner in the old story, the winds and streams had driven
-him within the influence of the Loadstone Rock, and it was drawing him
-to itself, and he must go. Everything that arose before his mind drifted
-him on, faster and faster, more and more steadily, to the terrible
-attraction. His latent uneasiness had been, that bad aims were being
-worked out in his own unhappy land by bad instruments, and that he who
-could not fail to know that he was better than they, was not there,
-trying to do something to stay bloodshed, and assert the claims of [[Mercy|mercy]]
-and humanity. With this uneasiness half stifled, and half reproaching
-him, he had been brought to the pointed comparison of himself with the
-brave old gentleman in whom duty was so strong; upon that comparison
-(injurious to himself) had instantly followed the sneers of Monseigneur,
-which had stung him bitterly, and those of Stryver, which above all were
-coarse and galling, for old reasons. Upon those, had followed Gabelle’s
-letter: the appeal of an [[Innocent|innocent]] prisoner, in danger of [[Death|death]], to his
-justice, [[Honour|honour]], and good name.
+Defarge took his receipt without noticing the exclamation, and withdrew,
+with his two fellow-patriots.
 
-His resolution was made. He must go to [[Paris]].
+“What the Devil, I say again!” exclaimed the gaoler, left with his wife.
+“How many more!”
 
-Yes. The Loadstone Rock was drawing him, and he must sail on, until he
-struck. He knew of no rock; he saw hardly any danger. The intention
-with which he had done what he had done, even although he had left
-it incomplete, presented it before him in an aspect that would be
-gratefully acknowledged in France on his presenting himself to assert
-it. Then, that glorious vision of doing good, which is so often the
-sanguine mirage of so many good minds, arose before him, and he even
-saw himself in the illusion with some influence to guide this raging
-Revolution that was running so fearfully wild.
+The gaoler’s wife, being provided with no answer to the question, merely
+replied, “One must have patience, my dear!” Three turnkeys who entered
+responsive to a bell she rang, echoed the sentiment, and one added, “For
+the [[Love|love]] of Liberty;” which sounded in that place like an inappropriate
+conclusion.
 
-As he walked to and fro with his resolution made, he considered that
-neither Lucie nor her father must know of it until he was gone.
-Lucie should be spared the [[Pain|pain]] of separation; and her father, always
-reluctant to turn his thoughts towards the dangerous ground of old,
-should come to the knowledge of the step, as a step taken, and not in
-the balance of suspense and [[Doubt|doubt]]. How much of the incompleteness of his
-situation was referable to her father, through the painful anxiety
-to avoid reviving old associations of France in his mind, he did not
-discuss with himself. But, that circumstance too, had had its influence
-in his course.
+The [[Prison|prison]] of La Force was a gloomy [[Prison|prison]], dark and filthy, and with a
+horrible smell of foul [[Sleep|sleep]] in it. Extraordinary how soon the noisome
+flavour of imprisoned [[Sleep|sleep]], becomes manifest in all such places that
+are ill cared for!
 
-He walked to and fro, with thoughts very busy, until it was [[Time|time]] to
-return to Tellson’s and take leave of Mr. Lorry. As soon as he arrived
-in [[Paris]] he would present himself to this old friend, but he must say
-nothing of his intention now.
+“In secret, too,” grumbled the gaoler, looking at the written paper. “As
+if I was not already full to bursting!”
 
-A carriage with post-horses was ready at the Bank door, and Jerry was
-booted and equipped.
+He stuck the paper on a file, in an ill-[[Humour|humour]], and [[Charles Darnay]]
+awaited his further pleasure for half an hour: sometimes, pacing to and
+fro in the strong arched room: sometimes, resting on a stone seat: in
+either case detained to be imprinted on the [[Memory|memory]] of the chief and his
+subordinates.
 
-“I have delivered that letter,” said [[Charles Darnay]] to Mr. Lorry. “I
-would not consent to your being charged with any written answer, but
-perhaps you will take a verbal one?”
+“Come!” said the chief, at length taking up his keys, “come with me,
+emigrant.”
 
-“That I will, and readily,” said Mr. Lorry, “if it is not dangerous.”
+Through the dismal [[Prison|prison]] twilight, his new charge accompanied him by
+corridor and staircase, many doors clanging and locking behind them,
+until they came into a large, low, vaulted chamber, crowded with
+prisoners of both sexes. The women were seated at a long table, reading
+and writing, knitting, sewing, and embroidering; the men were for the
+most part standing behind their chairs, or lingering up and down the
+room.
 
-“Not at all. Though it is to a prisoner in the Abbaye.”
+In the instinctive association of prisoners with shameful crime and
+disgrace, the new-comer recoiled from this company. But the crowning
+unreality of his long unreal ride, was, their all at once rising to
+receive him, with every refinement of manner known to the [[Time|time]], and with
+all the engaging graces and courtesies of life.
 
-“What is his name?” said Mr. Lorry, with his open pocket-book in his
-hand.
+So strangely clouded were these refinements by the [[Prison|prison]] manners and
+gloom, so spectral did they become in the inappropriate squalor and
+misery through which they were seen, that [[Charles Darnay]] seemed to stand
+in a company of the dead. [[Ghosts]] all! The [[Ghost|ghost]] of [[Beauty|beauty]], the [[Ghost|ghost]]
+of stateliness, the [[Ghost|ghost]] of elegance, the [[Ghost|ghost]] of [[Pride|pride]], the [[Ghost|ghost]] of
+frivolity, the [[Ghost|ghost]] of wit, the [[Ghost|ghost]] of youth, the [[Ghost|ghost]] of age, all
+waiting their dismissal from the desolate shore, all turning on him eyes
+that were changed by the [[Death|death]] they had died in coming there.
 
-“Gabelle.”
+It struck him motionless. The gaoler standing at his side, and the other
+gaolers moving about, who would have been [[Well|well]] enough as to appearance
+in the ordinary exercise of their functions, looked so extravagantly
+coarse contrasted with sorrowing mothers and blooming daughters who were
+there--with the apparitions of the coquette, the young [[Beauty|beauty]], and the
+mature woman delicately bred--that the inversion of all experience and
+likelihood which the scene of shadows presented, was heightened to its
+utmost. Surely, [[Ghosts|ghosts]] all. Surely, the long unreal ride some progress
+of disease that had brought him to these gloomy shades!
 
-“Gabelle. And what is the message to the unfortunate Gabelle in [[Prison|prison]]?”
+“In the name of the assembled companions in misfortune,” said a
+gentleman of courtly appearance and address, coming forward, “I have the
+[[Honour|honour]] of giving you welcome to La Force, and of condoling with you
+on the calamity that has brought you among us. May it soon terminate
+happily! It would be an impertinence elsewhere, but it is not so here,
+to ask your name and condition?”
 
-“Simply, ‘that he has received the letter, and will come.’”
+[[Charles Darnay]] roused himself, and gave the required information, in
+words as suitable as he could find.
 
-“Any [[Time|time]] mentioned?”
+“But I [[Hope|hope]],” said the gentleman, following the chief gaoler with his
+eyes, who moved across the room, “that you are not in secret?”
 
-“He will start upon his [[Journey|journey]] to-morrow [[Night|night]].”
+“I do not understand the meaning of the term, but I have heard them say
+so.”
 
-“Any person mentioned?”
+“Ah, what a pity! We so much regret it! But take [[Courage|courage]]; several
+members of our society have been in secret, at first, and it has lasted
+but a short [[Time|time]].” Then he added, raising his voice, “I grieve to inform
+the society--in secret.”
 
-“No.”
+There was a murmur of commiseration as [[Charles Darnay]] crossed the room
+to a grated door where the gaoler awaited him, and many voices--among
+which, the soft and compassionate voices of women were conspicuous--gave
+him good wishes and encouragement. He turned at the grated door, to
+render the thanks of his heart; it closed under the gaoler’s hand; and
+the apparitions vanished from his sight forever.
 
-He helped Mr. Lorry to wrap himself in a number of coats and cloaks,
-and went out with him from the warm atmosphere of the old Bank, into the
-misty air of Fleet-street. “My [[Love|love]] to Lucie, and to little Lucie,” said
-Mr. Lorry at parting, “and take precious care of them till I come back.”
- [[Charles Darnay]] shook his head and doubtfully smiled, as the carriage
-rolled away.
+The wicket opened on a stone staircase, leading upward. When they had
+ascended forty steps (the prisoner of half an hour already counted
+them), the gaoler opened a low black door, and they passed into a
+solitary cell. It struck cold and damp, but was not dark.
 
-That [[Night|night]]--it was the fourteenth of August--he sat up late, and wrote
-two fervent letters; one was to Lucie, explaining the strong obligation
-he was under to go to [[Paris]], and showing her, at length, the reasons
-that he had, for feeling confident that he could become involved in no
-personal danger there; the other was to the Doctor, confiding Lucie and
-their dear [[Child|child]] to his care, and dwelling on the same topics with the
-strongest assurances. To both, he wrote that he would despatch letters
-in proof of his safety, immediately after his arrival.
+“Yours,” said the gaoler.
 
-It was a hard day, that day of being among them, with the first
-reservation of their joint lives on his mind. It was a hard matter to
-preserve the [[Innocent|innocent]] deceit of which they were profoundly unsuspicious.
-But, an affectionate glance at his wife, so happy and busy, made him
-resolute not to tell her what impended (he had been half moved to do it,
-so strange it was to him to act in anything without her quiet aid), and
-the day passed quickly. Early in the evening he embraced her, and her
-scarcely less dear namesake, pretending that he would return by-and-bye
-(an imaginary engagement took him out, and he had secreted a valise
-of clothes ready), and so he emerged into the heavy mist of the heavy
-streets, with a heavier heart.
+“Why am I confined [[Alone|alone]]?”
 
-The unseen force was drawing him fast to itself, now, and all the tides
-and winds were setting straight and strong towards it. He left his
-two letters with a trusty porter, to be delivered half an hour before
-midnight, and no sooner; took [[Horse|horse]] for Dover; and began his [[Journey|journey]].
-“For the [[Love|love]] of Heaven, of justice, of generosity, of the [[Honour|honour]] of
-your noble name!” was the poor prisoner’s cry with which he strengthened
-his sinking heart, as he left all that was dear on earth behind him, and
-floated away for the Loadstone Rock.
+“How do I know!”
 
+“I can buy pen, ink, and paper?”
 
-The end of the second book.
+“Such are not my orders. You will be visited, and can ask then. At
+present, you may buy your food, and nothing more.”
+
+There were in the cell, a chair, a table, and a straw mattress. As
+the gaoler made a general inspection of these objects, and of the four
+walls, before going out, a wandering fancy wandered through the mind of
+the prisoner leaning against the wall opposite to him, that this gaoler
+was so unwholesomely bloated, both in face and person, as to look like
+a man who had been drowned and filled with [[Water|water]]. When the gaoler was
+gone, he thought in the same wandering way, “Now am I left, as if I were
+dead.” Stopping then, to look down at the mattress, he turned from it
+with a sick feeling, and thought, “And here in these crawling creatures
+is the first condition of the [[Body|body]] after [[Death|death]].”
+
+“Five paces by four and a half, five paces by four and a half, five
+paces by four and a half.” The prisoner walked to and fro in his cell,
+counting its measurement, and the roar of the [[City|city]] arose like muffled
+drums with a wild swell of voices added to them. “He made shoes, he made
+shoes, he made shoes.” The prisoner counted the measurement again, and
+paced faster, to draw his mind with him from that latter repetition.
+“The [[Ghosts|ghosts]] that vanished when the wicket closed. There was one among
+them, the appearance of a lady dressed in black, who was leaning in the
+embrasure of a [[Window|window]], and she had a light shining upon her golden
+hair, and she looked like * * * * Let us ride on again, for God’s sake,
+through the illuminated villages with the people all awake! * * * * He
+made shoes, he made shoes, he made shoes. * * * * Five paces by four and
+a half.” With such scraps tossing and [[rolling]] upward from the depths of
+his mind, the prisoner walked faster and faster, obstinately counting
+and counting; and the roar of the [[City|city]] changed to this extent--that it
+still rolled in like muffled drums, but with the wail of voices that he
+knew, in the swell that [[Rose|rose]] above them.

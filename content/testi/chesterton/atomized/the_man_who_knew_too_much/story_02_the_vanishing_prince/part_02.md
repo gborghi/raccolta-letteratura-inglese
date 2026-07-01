@@ -14,6 +14,14 @@ tags:
 </nav>
 
 
+and they dropped pell-mell into the eddying waters, while [[Michael]],
+
+who had thrown off his gown and dived, was able to swim away. It was
+
+said that he had carefully cut away the props so that they would not
+
+support anything so heavy as a policeman. But here again he was
+
 immediately fortunate, yet ultimately unfortunate, for it is said
 
 that one of the men was drowned, leaving a family feud which made a
@@ -173,15 +181,3 @@ to turn to bay. He had some remote claim on it, as on a family
 
 primitive Irish chieftains who fell fighting against the sea.
 "I saw some queer-looking people leaving as I came in," said Sir
-
-Walter Carey. "I suppose they were your witnesses. But why do they
-
-turn up here at this [[Time|time]] of [[Night|night]]?"
-Morton smiled grimly. "They come here by [[Night|night]] because they would
-
-be dead men if they came here by day. They are criminals committing
-
-a crime that is more horrible here than theft or murder."
-"What crime do you mean?" asked the other, with some curiosity.
-"They are helping the law," said Morton.
-There was a [[Silence|silence]], and Sir Walter considered the papers before him

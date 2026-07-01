@@ -1,5 +1,5 @@
 ---
-title: "[[TheCrimesOfEngland]] — Chapter 6"
+title: "TheCrimesOfEngland — Chapter 6"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/thecrimesofengland-(chesterton)"
@@ -16,11 +16,7 @@ tags:
 
 CHAPTER VI
 
-
-
 [[Hamlet|HAMLET]] AND THE DANES
-
-
 
 Degeneration of Grimm's Fairy Tales--From
 

@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-Cobbett's second visit to [[america|America]] is associated with an action
+Cobbett's second visit to [[America]] is associated with an action
 which all the authorities have censured as ridiculous,
 and which I think has been ridiculously censured.
 I do not mean that there was nothing to criticise, but only
@@ -62,26 +62,26 @@ He attacked Paine as he generally did attack people, in a highly
 personal and ferocious manner.  He said things about that
 ingenuous Deist that were certainly quite false; Cobbett was not
 guilty of lying, but he was guilty of readily thinking evil.
-To him at that [[Time|time]] Tom Paine was simply the Age of Reason;
+To him at that time Tom Paine was simply the Age of Reason;
 that is, the Age of Red Ruin.  For Cobbett also was as simple
-as Tom Paine and especially at that [[Time|time]] he had as guileless
-a [[Faith|faith]] in Royalism as the other had in Republicanism.
-But when Cobbett came back to [[america|America]] after his [[Imprisonment|imprisonment]],
+as Tom Paine and especially at that time he had as guileless
+a faith in Royalism as the other had in Republicanism.
+But when Cobbett came back to America after his imprisonment,
 he had made the terrible discovery that terminates youth,
 even if it often gives a new interest to life; the discovery
 that it is a strange world, that things are not what they seem,
 and certainly not always what they profess to be.
 He was in a position to begin to admit that there might be
 more in Tom Paine than met the eye, especially the blind eye
-that he had turned on all the enemies of the English [[Crown|crown]].
-But above all he went to [[america|America]] with his head still buzzing
+that he had turned on all the enemies of the English crown.
+But above all he went to America with his head still buzzing
 like a beehive with all sorts of new notions and suspicions,
-which went to make up the really original political [[philosophy]]
+which went to make up the really original political philosophy
 of his later years.  He was becoming a sceptic, not about crowns
 and creeds but about things that the world round him reverenced far
-more than any creed or [[Crown|crown]].  He was doubting things that Whigs
+more than any creed or crown.  He was doubting things that Whigs
 and Tories and Radicals were more and more taking for granted;
-the whole basis of the commercial [[success]] of his country.
+the whole basis of the commercial success of his country.
 Just as he was questioning the very medium of their exchange,
 so he was questioning the very language of their controversy.
 He thought that paper money was waste paper; and he thought
@@ -94,7 +94,7 @@ Will Cobbett had the inconceivable impudence to attack the Bank.
 Then he knew he was in collision with the colossal force of
 the whole modern world, like a man running with his head down at
 an express train.  The whole world would leave such a lunatic
-to run [[Alone|alone]]; and Cobbett was left to run entirely [[Alone|alone]].
+to run alone; and Cobbett was left to run entirely alone.
 All the books and pamphlets of the period, and indeed all the books
 and pamphlets ever since, have scoffed at him about this part
 of his political adventure.  He read such books and pamphlets
@@ -106,16 +106,16 @@ not to say a snarl, he came upon some of the real writings
 of the atrocious Paine; and was astonished to find that some
 of the opinions of the atrocious Paine bore a remarkable
 resemblance to those of the just and public-spirited Cobbett.
-He found that Paine, of all men, and apparently [[Alone|alone]] among
+He found that Paine, of all men, and apparently alone among
 all men, had really tried to say some of these things
 that needed so excruciatingly to be said; and about which
-all mankind walked about gagged and in a ghastly [[Silence|silence]].
+all mankind walked about gagged and in a ghastly silence.
 Surely it is not so very difficult to understand that he should
 have a revulsion so violent and impetuous as his original
 plunge of prejudice; surely those who have taken the trouble
 to write studies of Cobbett might have learned something
 of his manner of living, and how all his generosity and
-his [[Vanity|vanity]], his simplicity and his emotionalism, his sympathy
+his vanity, his simplicity and his emotionalism, his sympathy
 for the under-dog and his fury at being himself the dupe,
 should have called clamorously in him for some vigorous
 external action; for some proclamation or practical motion
@@ -123,4 +123,4 @@ that should relieve the feelings and perhaps right the wrong.
 He had cruelly calumniated a man who might have been his friend
 and was certainly his ally.  And it was too late to tell him so.
 For that which he had madly splashed with mud had already
-returned to [[Dust|dust]], and Thomas Paine was dead.
+returned to dust, and Thomas Paine was dead.

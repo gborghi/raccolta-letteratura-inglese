@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 43 (part 1)"
+title: "Oliver Twist — Chapter 43 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -150,19 +150,3 @@ informed that they represented that combination of words,
 “transportation for life,” when the dialogue was cut short by the entry
 of Master Bates, with his hands in his breeches-pockets, and his face
 twisted into a look of semi-comical woe.
-
-“It’s all up, [[Fagin]],” said Charley, when he and his new companion had
-been made known to each other.
-
-“What do you mean?”
-
-“They’ve found the gentleman as owns the box; two or three more’s a
-coming to ’dentify him; and the Artful’s booked for a passage out,”
-replied Master Bates. “I must have a full suit of mourning, [[Fagin]], and
-a hatband, to wisit him in, afore he sets out upon his travels. To
-think of Jack Dawkins—lummy Jack—the Dodger—the [[Artful Dodger]]—going
-abroad for a common twopenny-halfpenny sneeze-box! I never thought he’d
-a done it under a gold watch, chain, and seals, at the lowest. Oh, why
-didn’t he rob some rich old gentleman of all his walables, and go out
-as a gentleman, and not like a common prig, without no [[Honour|honour]] nor
-glory!”

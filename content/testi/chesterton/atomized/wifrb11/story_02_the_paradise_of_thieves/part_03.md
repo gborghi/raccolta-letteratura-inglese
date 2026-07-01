@@ -1,5 +1,5 @@
 ---
-title: "[[wifrb11]] — The Paradise of Thieves (part 3)"
+title: "wifrb11 — The Paradise of Thieves (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -13,6 +13,28 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_02_the_paradise_of_thieves/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_02_the_paradise_of_thieves/part_04">part 04 ›</a></div>
 </nav>
 
+
+     The coach was a kind of commodious wagonette, invented by
+the modernist talent of the courier, who dominated the expedition
+with his scientific activity and breezy wit.  The theory of danger from
+thieves was banished from thought and speech; though so far conceded
+in formal act that some slight protection was employed.  The courier
+and the young banker carried loaded revolvers, and Muscari
+(with much boyish gratification) buckled on a kind of cutlass
+under his black cloak.
+
+     He had planted his person at a flying leap next to
+the lovely Englishwoman; on the other side of her sat the priest,
+whose name was Brown and who was fortunately a silent individual;
+the courier and the father and son were on the banc behind. 
+Muscari was in towering spirits, seriously believing in the peril,
+and his talk to Ethel might [[Well|well]] have made her think him a maniac. 
+But there was something in the crazy and gorgeous ascent,
+amid crags like peaks loaded with woods like orchards, that dragged
+her spirit up [[Alone|alone]] with his into purple preposterous heavens
+with wheeling suns.  The white [[Road|road]] climbed like a white cat;
+it spanned sunless chasms like a tight-rope; it was flung round
+far-off headlands like a lasso.
 
      And yet, however high they went, the [[Desert|desert]] still blossomed
 like the [[Rose|rose]].  The fields were burnished in sun and [[Wind|wind]]
@@ -100,29 +122,3 @@ gods and goddesses who can fall upwards."
 happy a vision that the priest felt his suspicion shaken and shifted. 
 "After all," he thought, "perhaps the [[Poison|poison]] isn't hers; perhaps it's
 one of Muscari's melodramatic tricks."
-
-     Muscari set the lady lightly on her feet, made her an absurdly
-theatrical bow, and then, drawing his cutlass, hacked hard at
-the taut reins of the horses, so that they scrambled to their feet
-and stood in the grass trembling.  When he had done so,
-a most remarkable thing occurred.  A very quiet man, very poorly dressed
-and extremely sunburnt, came out of the bushes and took hold of
-the horses' heads.  He had a queer-shaped knife, very broad and crooked,
-buckled on his belt; there was nothing else remarkable about him,
-except his sudden and silent appearance.  The poet asked him who he was,
-and he did not answer.
-
-     Looking around him at the confused and startled group in the hollow,
-Muscari then perceived that another tanned and tattered man,
-with a short gun under his arm, was looking at them from
-the ledge just below, leaning his elbows on the edge of the turf. 
-Then he looked up at the [[Road|road]] from which they had fallen and saw,
-looking down on them, the muzzles of four other carbines and
-four other brown faces with bright but quite motionless eyes.
-
-     "The brigands!" cried Muscari, with a kind of monstrous gaiety. 
-"This was a trap.  Ezza, if you will oblige me by shooting the
-coachman first, we can cut our way out yet.  There are only six of them."
-
-     "The coachman," said Ezza, who was standing grimly with his hands
-in his pockets, "happens to be a servant of Mr Harrogate's."

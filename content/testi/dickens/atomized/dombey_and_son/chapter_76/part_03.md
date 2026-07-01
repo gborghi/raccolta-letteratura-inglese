@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 20 (part 3)"
+title: "Dombey and Son — Chapter 48 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,116 +14,128 @@ tags:
 </nav>
 
 
-Mr Dombey, in a few words, expressed his sense of the preference he
-received over those other distinguished members of society who were
-clamouring for the possession of [[Major Bagstock]]. But the Major cut him
-short by giving him to understand that he followed his own
-inclinations, and that they had risen up in a [[Body|body]] and said with one
-accord, “J. B., Dombey is the man for you to choose as a friend.”
+“If there should be someone listening and watching,” whispered
+Florence. “Someone who saw me come—who followed me, perhaps.”
 
-The Major being by this [[Time|time]] in a state of repletion, with essence of
-savoury pie oozing out at the corners of his eyes, and devilled grill
-and kidneys tightening his cravat: and the [[Time|time]] moreover approaching
-for the departure of the railway train to Birmingham, by which they
-were to leave town: the Native got him into his great-coat with immense
-difficulty, and buttoned him up until his face looked staring and
-gasping, over the top of that garment, as if he were in a barrel. The
-Native then handed him separately, and with a decent interval between
-each supply, his washleather gloves, his thick stick, and his hat;
-which latter article the Major wore with a rakish air on one side of
-his head, by way of toning down his remarkable visage. The Native had
-previously packed, in all possible and impossible parts of Mr Dombey’s
-chariot, which was in waiting, an unusual quantity of carpet-bags and
-small portmanteaus, no less apoplectic in appearance than the Major
-himself: and having filled his own pockets with Seltzer [[Water|water]], East
-India sherry, sandwiches, shawls, telescopes, maps, and newspapers, any
-or all of which light baggage the Major might require at any instant of
-the [[Journey|journey]], he announced that everything was ready. To complete the
-equipment of this unfortunate foreigner (currently believed to be a
-prince in his own country), when he took his seat in the rumble by the
-side of Mr Towlinson, a pile of the Major’s cloaks and great-coats was
-hurled upon him by the landlord, who aimed at him from the pavement
-with those great missiles like a Titan, and so covered him up, that he
-proceeded, in a living tomb, to the railroad station.
+“It ain’t the young woman, lady lass, is it?” said the Captain, taken
+with a bright idea.
 
-But before the carriage moved away, and while the Native was in the act
-of sepulture, Miss Tox appearing at her [[Window|window]], waved a lilywhite
-handkerchief. Mr Dombey received this parting salutation very
-coldly—very coldly even for him—and honouring her with the slightest
-possible inclination of his head, leaned back in the carriage with a
-very discontented look. His marked behaviour seemed to afford the Major
-(who was all politeness in his recognition of Miss Tox) unbounded
-satisfaction; and he sat for a long [[Time|time]] afterwards, leering, and
-choking, like an over-fed Mephistopheles.
+“Susan?” said Florence, shaking her head. “Ah no! Susan has been gone
+from me a long [[Time|time]].”
 
-During the bustle of preparation at the railway, Mr Dombey and the
-Major walked up and down the platform side by side; the former taciturn
-and gloomy, and the latter entertaining him, or entertaining himself,
-with a variety of anecdotes and reminiscences, in most of which Joe
-Bagstock was the principal performer. Neither of the two observed that
-in the course of these walks, they attracted the attention of a working
-man who was standing near the engine, and who touched his hat every
-[[Time|time]] they passed; for Mr Dombey habitually looked over the vulgar herd,
-not at them; and the Major was looking, at the [[Time|time]], into the core of
-one of his stories. At length, however, this man stepped before them as
-they turned round, and pulling his hat off, and keeping it off, ducked
-his head to Mr Dombey.
+“Not deserted, I [[Hope|hope]]?” said the Captain. “Don’t say that that there
+young woman’s run, my pretty!”
 
-“Beg your pardon, Sir,” said the man, “but I [[Hope|hope]] you’re a doin’ pretty
-[[Well|well]], Sir.”
+“Oh, no, no!” cried Florence. “She is one of the truest hearts in the
+world!”
 
-He was dressed in a canvas suit abundantly besmeared with coal-[[Dust|dust]] and
-oil, and had cinders in his whiskers, and a smell of half-slaked ashes
-all over him. He was not a bad-looking fellow, nor even what could be
-fairly called a dirty-looking fellow, in spite of this; and, in short,
-he was Mr Toodle, professionally clothed.
+The Captain was greatly relieved by this reply, and expressed his
+satisfaction by taking off his hard glazed hat, and dabbing his head
+all over with his handkerchief, rolled up like a ball, observing
+several times, with infinite complacency, and with a beaming
+countenance, that he know’d it.
 
-“I shall have the [[Honour|honour]] of stokin’ of you down, Sir,” said Mr Toodle.
-“Beg your pardon, Sir.—I [[Hope|hope]] you find yourself a coming round?”
+“So you’re quiet now, are you, brother?” said the Captain to Diogenes.
+“There warn’t nobody there, my lady lass, bless you!”
 
-Mr Dombey looked at him, in return for his tone of interest, as if a
-man like that would make his very eyesight dirty.
+Diogenes was not so sure of that. The door still had an attraction for
+him at intervals; and he went snuffing about it, and growling to
+himself, unable to forget the subject. This incident, coupled with the
+Captain’s observation of Florence’s fatigue and faintness, decided him
+to prepare Sol Gills’s chamber as a place of retirement for her
+immediately. He therefore hastily betook himself to the top of the
+[[house]], and made the best arrangement of it that his [[Imagination|imagination]] and his
+means suggested.
 
-“’Scuse the liberty, Sir,” said Toodle, seeing he was not clearly
-remembered, “but my wife Polly, as was called Richards in your family—”
+It was very clean already; and the Captain, being an orderly man, and
+accustomed to make things [[Ship|ship]]-shape, converted the bed into a couch,
+by covering it all over with a clean white drapery. By a similar
+contrivance, the Captain converted the little dressing-table into a
+species of altar, on which he set forth two silver teaspoons, a
+flower-pot, a telescope, his celebrated watch, a pocket-comb, and a
+[[Song|song]]-book, as a small collection of rarities, that made a choice
+appearance. Having darkened the [[Window|window]], and straightened the pieces of
+carpet on the floor, the Captain surveyed these preparations with great
+delight, and descended to the little parlour again, to bring Florence
+to her bower.
 
-A change in Mr Dombey’s face, which seemed to express recollection of
-him, and so it did, but it expressed in a much stronger degree an angry
-sense of humiliation, stopped Mr Toodle short.
+Nothing would induce the Captain to believe that it was possible for
+Florence to walk upstairs. If he could have got the idea into his head,
+he would have considered it an outrageous breach of hospitality to
+allow her to do so. Florence was too weak to dispute the point, and the
+Captain carried her up out of hand, laid her down, and covered her with
+a great watch-coat.
 
-“Your wife wants money, I suppose,” said Mr Dombey, putting his hand in
-his pocket, and speaking (but that he always did) haughtily.
+“My lady lass!” said the Captain, “you’re as safe here as if you was at
+the top of St Paul’s [[Cathedral]], with the ladder cast off. [[Sleep]] is what
+you want, afore all other things, and may you be able to show yourself
+smart with that there balsam for the still small woice of a wounded
+mind! When there’s anything you want, my Heart’s Delight, as this here
+humble [[house]] or town can offer, pass the word to Ed’ard Cuttle, as’ll
+stand off and on outside that door, and that there man will wibrate
+with joy.” The Captain concluded by kissing the hand that Florence
+stretched out to him, with the chivalry of any old knight-errant, and
+walking on tiptoe out of the room.
 
-“No thank’ee, Sir,” returned Toodle, “I can’t say she does. I don’t.”
+Descending to the little parlour, [[Captain Cuttle]], after holding a hasty
+council with himself, decided to open the shop-door for a few minutes,
+and satisfy himself that now, at all events, there was no one loitering
+about it. Accordingly he set it open, and stood upon the threshold,
+keeping a bright look-out, and sweeping the whole street with his
+spectacles.
 
-Mr Dombey was stopped short now in his turn: and awkwardly: with his
-hand in his pocket.
+“How de do, Captain Gills?” said a voice beside him. The Captain,
+looking down, found that he had been boarded by Mr Toots while sweeping
+the horizon.
 
-“No, Sir,” said Toodle, turning his oilskin cap round and round; “we’re
-a doin’ pretty [[Well|well]], Sir; we haven’t no cause to complain in the
-worldly way, Sir. We’ve had four more since then, Sir, but we rubs on.”
+“How are, you, my lad?” replied the Captain.
 
-Mr Dombey would have rubbed on to his own carriage, though in so doing
-he had rubbed the stoker underneath the wheels; but his attention was
-arrested by something in connexion with the cap still going slowly
-round and round in the man’s hand.
+“[[Well]], I’m pretty [[Well|well]], thank’ee, Captain Gills,” said Mr Toots. “You
+know I’m never quite what I could wish to be, now. I don’t expect that
+I ever shall be any more.”
 
-“We lost one babby,” observed Toodle, “there’s no denyin’.”
+Mr Toots never approached any nearer than this to the great theme of
+his life, when in conversation with [[Captain Cuttle]], on account of the
+agreement between them.
 
-“Lately,” added Mr Dombey, looking at the cap.
+“Captain Gills,” said Mr Toots, “if I could have the pleasure of a word
+with you, it’s—it’s rather particular.”
 
-“No, Sir, up’ard of three years ago, but all the rest is hearty. And in
-the matter o readin’, Sir,” said Toodle, ducking again, as if to remind
-Mr Dombey of what had passed between them on that subject long ago,
-“them boys o’ mine, they learned me, among ’em, arter all. They’ve made
-a wery tolerable scholar of me, Sir, them boys.”
+“Why, you see, my lad,” replied the Captain, leading the way into the
+parlour, “I ain’t what you may call exactly free this morning; and
+therefore if you can clap on a bit, I should take it kindly.”
 
-“Come, Major!” said Mr Dombey.
+“Certainly, Captain Gills,” replied Mr Toots, who seldom had any notion
+of the Captain’s meaning. “To clap on, is exactly what I could wish to
+do. Naturally.”
 
-“Beg your pardon, Sir,” resumed Toodle, taking a step before them and
-deferentially stopping them again, still cap in hand: “I wouldn’t have
-troubled you with such a pint except as a way of gettin’ in the name of
-my son Biler—christened Robin—him as you was so good as to make a
-Charitable Grinder on.”
+“If so be, my lad,” returned the Captain. “Do it!”
 
-“[[Well]], man,” said Mr Dombey in his severest manner. “What about him?”
+The Captain was so impressed by the possession of his tremendous
+secret—by the fact of Miss Dombey being at that moment under his roof,
+while the [[Innocent|innocent]] and unconscious Toots sat opposite to him—that a
+perspiration broke out on his forehead, and he found it impossible,
+while slowly drying the same, glazed hat in hand, to keep his eyes off
+Mr Toots’s face. Mr Toots, who himself appeared to have some secret
+reasons for being in a nervous state, was so unspeakably disconcerted
+by the Captain’s stare, that after looking at him vacantly for some
+[[Time|time]] in [[Silence|silence]], and shifting uneasily on his chair, he said:
+
+“I beg your pardon, Captain Gills, but you don’t happen to see anything
+particular in me, do you?”
+
+“No, my lad,” returned the Captain. “No.”
+
+“Because you know,” said Mr Toots with a chuckle, “I know I’m wasting
+away. You needn’t at all mind alluding to that. I—I should like it.
+Burgess and Co. have altered my measure, I’m in that state of thinness.
+It’s a gratification to me. I—I’m glad of it. I—I’d a great deal rather
+go into a decline, if I could. I’m a mere brute you know, grazing upon
+the surface of the earth, Captain Gills.”
+
+The more Mr Toots went on in this way, the more the Captain was weighed
+down by his secret, and stared at him. What with this cause of
+uneasiness, and his [[Desire|desire]] to get rid of Mr Toots, the Captain was in
+such a scared and strange condition, indeed, that if he had been in
+conversation with a [[Ghost|ghost]], he could hardly have evinced greater
+discomposure.

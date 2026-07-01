@@ -14,116 +14,110 @@ tags:
 </nav>
 
 
-* * * * *
+But the real answer to this aristocratic argument which seeks to
+identify [[democracy]] with a drab utilitarianism may be found in action
+such as that of the Hungarian Commune--whose name I decline to repeat.
+This Commune did just one of those acts that prove that a separate
+people has a separate personality; it threw something away.
+A man can throw a bank note into the [[Fire|fire]].  A man can fling a sack
+of corn into the [[River|river]].  The bank-note may be burnt as a satisfaction
+of some scruple; the corn may be destroyed as a sacrifice to some god.
+But whenever there is sacrifice we know there is a single will.
+Men may be disputatious and doubtful, may divide by very narrow
+majorities in their [[debate]] about how to gain wealth.  But men have
+to be uncommonly unanimous in order to refuse wealth.  It wants
+a very complete committee to burn a bank note in the office grate.
+It needs a highly religious tribe really to throw corn into the [[River|river]].
+This [[Self|self]]-denial is the test and definition of [[Self|self]]-[[government]].
 
-To me personally, at least, it would never seem needful to own a motor,
-any more than to own an avalanche.  An avalanche, if you have luck,
-I am told, is a very swift, successful, and thrilling way of coming
-down a [[Hill|hill]].  It is distinctly more stirring, say, than a glacier,
-which moves an inch in a hundred years.  But I do not divide these
-pleasures either by excitement or convenience, but by the [[Nature|nature]]
-of the thing itself.  It seems human to have a [[Horse|horse]] or bicycle,
-because it seems human to potter about; and men cannot work horses,
-nor can bicycles work men, enormously far afield of their ordinary
-haunts and affairs.
-
-But about motoring there is something magical, like going to the [[Moon|moon]];
-and I say the thing should be kept exceptional and felt
-as something breathless and bizarre.  My ideal [[Hero|hero]] would own
-his [[Horse|horse]], but would have the moral [[Courage|courage]] to hire his motor.
-Fairy tales are the only sound guidebooks to life; I like the
-Fairy Prince to ride on a white pony out of his father's stables,
-which are of ivory and gold.  But if in the course of his adventures
-he finds it necessary to travel on a flaming dragon, I think he ought
-to give the dragon back to the [[Witch|witch]] at the end of the story.
-It is a mistake to have dragons about the place.
-
-* * * * *
-
-For there is truly an air of something weird about luxury; and it is
-by this that healthy human [[Nature|nature]] has always smelt and suspected it.
-All romances that deal in extreme luxury, from the "Arabian Nights"
-to the novels of Ouida and Disraeli, have, it may be noted,
-a singular air of dream and occasionally of [[nightmare]].
-In such imaginative debauches there is something as occasional
-as intoxication; if that is still counted occasional.
-Life in those preposterous palaces would be an agony of dullness;
-it is clear we are meant to visit them only as in a flying vision.
-And what is true of the old freaks of wealth, flavour and fierce
-colour and smell, I would say also of the new freak of wealth,
-which is [[Speed|speed]].  I should say to the duke, when I entered his [[house]]
-at the head of an armed mob, "I do not object to your having
-exceptional pleasures, if you have them exceptionally.  I do not mind
-your enjoying the strange and alien energies of science, if you feel
-them strange and alien, and not your own.  But in condemning you
-(under the Seventeenth Section of the Eighth Decree of the Republic)
-to hire a motor-car twice a year at Margate, I am not the enemy
-of your luxuries, but, rather, the protector of them."
-
-That is what I should say to the duke.  As to what the duke would
-say to me, that is another matter, and may [[Well|well]] be deferred.
+I wish I could feel certain that any English County Council
+or Parish Council would be single enough to make that strong
+gesture of a romantic refusal; could say, "No rents shall
+be raised from this spot; no grain shall grow in this spot;
+no good shall come of this spot; it shall remain sterile for a sign."
+But I am afraid they might answer, like the eminent sociologist
+in the story, that it was "wiste of spice."
 
 -/-
 
-The Triumph of the [[donkey|Donkey]]
+The Strangeness of Luxury
 
-DOUBTLESS the unsympathetic might state my doctrine that one should
-not own a motor like a [[Horse|horse]], but rather use it like a flying dragon
-in the simpler form that I will always go motoring in somebody
-else's car.  My favourite modern philosopher (Mr. W. W. Jacobs)
-describes a similar case of spiritual delicacy misunderstood.
-I have not the book at hand, but I think that Job Brown was reproaching
-Bill Chambers for wasteful drunkenness, and Henery Walker spoke up
-for Bill, and said he scarcely ever had a glass but what somebody
-else paid for it, and there was "unpleasantness all round then."
+IT is an English misfortune that what is called "public spirit"
+is so often a very private spirit; the legitimate but strictly
+individual ideals of this or that person who happens to have
+the power to carry them out.  When these private principles are held
+by very rich people, the result is often the blackest and most
+repulsive kind of despotism, which is benevolent despotism.
+Obviously it is the public which ought to have public spirit.
+But in this country and at this epoch this is exactly what it has
+not got.  We shall have a public washhouse and a public kitchen
+long before we have a public spirit; in fact, if we had a public
+spirit we might very probably do without the other things.
+But if England were properly and naturally governed by
+the English, one of the first results would probably be this:
+that our standard of excess or defect in property would be changed
+from that of the plutocrat to that of the moderately needy man.
+That is, that while property might be strictly respected, everything that
+is necessary to a clerk would be felt and considered on quite a
+different plane from anything which is a very great luxury to a clerk.
+This sane distinction of sentiment is not instinctive at present,
+because our standard of life is that of the governing class,
+which is eternally turning luxuries into necessities as fast as pork
+is turned into sausages; and which cannot remember the beginning
+of its needs and cannot get to the end of its novelties.
 
-Being less sensitive than Bill Chambers (or whoever it was)
-I will risk this rude perversion of my meaning, and concede that I
-was in a motor-car yesterday, and the motor-car most certainly was
-not my own, and the [[Journey|journey]], though it contained nothing that is
-specially unusual on such journeys, had running through it a strain
-of the [[Grotesque|grotesque]] which was at once wholesome and humiliating.
-The symbol of that influence was that ancient symbol of the humble
-and humorous--a [[donkey]].
+Take, for the sake of argument, the case of the motor.
+Doubtless the duke now feels it as necessary to have a motor as to have
+a roof, and in a little while he may feel it equally necessary to have
+a flying [[Ship|ship]].  But this does not prove (as the reactionary sceptics
+always argue) that a motor really is just as necessary as a roof.
+It only proves that a man can get used to an artificial life:
+it does not prove that there is no natural life for him to get used to.
+In the broad bird's-eye view of common sense there abides
+a huge disproportion between the need for a roof and the need
+for an aeroplane; and no rush of inventions can ever alter it.
+The only difference is that things are now judged by the abnormal
+needs, when they might be judged merely by the normal needs.
+The best [[aristocrat]] sees the situation from an aeroplane.
+The good citizen, in his loftiest moments, goes no further than
+seeing it from the roof.
 
-* * * * *
+It is not true that luxury is merely relative.  It is not true
+that it is only an expensive novelty which we may afterwards come
+to think a necessity.  Luxury has a firm philosophical meaning;
+and where there is a real public spirit luxury is generally
+allowed for, sometimes rebuked, but always recognised instantly.
+To the healthy [[Soul|soul]] there is something in the very [[Nature|nature]] of certain
+pleasures which warns us that they are exceptions, and that if they
+become rules they will become very tyrannical rules.
 
-When first I saw the [[donkey]] I saw him in the sunlight as the unearthly
-gargoyle that he is.  My friend had met me in his car (I repeat firmly,
-in _his_ car) at the little painted station in the middle
-of the warm wet woods and hop-fields of that western country.
-He proposed to drive me first to his [[house]] beyond the village
-before starting for a longer spin of adventure, and we rattled
-through those rich green lanes which have in them something
-singularly analogous to fairy tales; whether the lanes produced
-the fairies or (as I believe) the fairies produced the lanes.
-All around in the glimmering hop-yards stood those little hop-kilns
-like stunted and slanting spires.  They look like dwarfish churches--
-in fact, rather like many modern churches I could mention,
-churches all of them small and each of them a little crooked.
-In this elfin atmosphere we swung round a sharp corner and half-way
-up a steep, white [[Hill|hill]], and saw what looked at first like a tall,
-black [[Monster|monster]] against the sun.  It appeared to be a dark and dreadful
-woman walking on wheels and waving long ears like a bat's. A
-second glance told me that she was not the local [[Witch|witch]] in a state
-of transition; she was only one of the million tricks of perspective.
-She stood up in a small wheeled cart drawn by a [[donkey]];
-the [[donkey]]'s ears were just behind her head, and the whole was black
-against the light.
-
-Perspective is really the comic element in everything.
-It has a pompous Latin name, but it is incurably Gothic and [[Grotesque|grotesque]].
-One simple proof of this is that it is always left out of all dignified
-and decorative art.  There is no perspective in the Elgin Marbles,
-and even the essentially angular angels in mediaeval stained glass
-almost always (as it says in "Patience") contrive to look both
-angular and flat.  There is something intrinsically disproportionate
-and outrageous in the idea of the distant objects dwindling and
-growing dwarfish, the closer objects swelling enormous and intolerable.
-There is something frantic in the notion that one's own father by
-walking a little way can be changed by a blast of [[Magic|magic]] to a pigmy.
-There is something farcical in the fancy that [[Nature]] keeps one's uncle
-in an infinite number of sizes, according to where he is to stand.
-All soldiers in retreat turn into tin soldiers; all bears in rout
-into toy bears; as if on the ultimate horizon of the world everything
-was sardonically doomed to stand up laughable and little against heaven.
+Take a harassed seamstress out of the Harrow [[Road]] and give her one
+[[Lightning|lightning]] hour in a motor-car, and she will probably feel it as splendid,
+but strange, rare, and even terrible.  But this is not (as the
+relativists say) merely because she has never been in a car before.
+She has never been in the middle of a Somerset cowslip meadow before;
+but if you put her there she does not think it terrifying
+or extraordinary, but merely pleasant and free and a little lonely.
+She does not think the motor monstrous because it is new.
+She thinks it monstrous because she has eyes in her head; she thinks it
+monstrous because it is monstrous.  That is, her mothers and grandmothers,
+and the whole race by whose life she lives, have had, as a matter
+of fact, a roughly recognisable mode of living; sitting in a green
+field was a part of it; travelling as quick as a cannon ball was not.
+And we should not look down on the seamstress because she mechanically
+emits a short sharp scream whenever the motor begins to move.
+On the contrary, we ought to look up to the seamstress, and regard her
+cry as a kind of mystic omen or revelation of [[Nature|nature]], as the old Goths
+used to consider the howls emitted by chance females when annoyed.
+For that ritual yell is really a mark of moral health--of swift
+response to the stimulations and changes of life.  The seamstress
+is wiser than all the learned ladies, precisely because she can
+still feel that a motor is a different sort of thing from a meadow.
+By the accident of her economic [[Imprisonment|imprisonment]] it is even possible
+that she may have seen more of the former than the latter.
+But this has not shaken her cyclopean sagacity as to which is
+the natural thing and which the artificial.  If not for her,
+at least for humanity as a whole, there is little [[Doubt|doubt]] about
+which is the more normally attainable.  It is considerably cheaper
+to sit in a meadow and see motors go by than to sit in a motor
+and see meadows go by.

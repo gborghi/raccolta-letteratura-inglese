@@ -1307,7 +1307,7 @@ of Friedland or roaring round the squares at Waterloo.
 But now they came file after file, like an invasion,
 and something in their numbers, or in the evening light that lit
 up their faces and their crests, or something in the reverie
-into which they broke, made me inclined to [[Spring|spring]] to my feet
+into which they broke, made me inclined to [[spring]] to my feet
 and cry out, "The French soldiers!"  There were the little men
 with the brown faces that had so often ridden through the capitals
 of Europe as coolly as they now rode through their own.
@@ -2385,7 +2385,7 @@ If you have not read the end of his story, go and read it;
 it is the wisest thing in the world.  The [[Hero|hero]] was at last taught
 to shudder by taking a wife, who threw a pail of cold [[Water|water]] over him.
 In that one sentence there is more of the real meaning of [[Marriage|marriage]]
-than in all the books about sex that cover Europe and [[America]].
+than in all the books about sex that cover Europe and [[america|America]].
 
 . . . . .
 
@@ -3582,7 +3582,7 @@ perhaps I saw them wrongly under that ashen morning and on
 that foolish errand.
 
 It was one of those days which more than once this year broke
-the retreat of [[Winter|winter]]; a [[Winter|winter]] day that began too late to be [[Spring|spring]].
+the retreat of [[Winter|winter]]; a [[Winter|winter]] day that began too late to be [[spring]].
 We were already clear of the obstructing crowds and quickening our pace
 through a borderland of market gardens and isolated public-houses,
 when the grey showed golden patches and a good light began
@@ -4056,7 +4056,7 @@ and narrows; not the part which is Parisian--and universal.
 You can find there (as commonly happens in modern centres)
 the worst things of all nations--the DAILY MAIL from England,
 the cheap philosophies from [[Germany]], the loose novels of France,
-and the drinks of [[America]].  But there is no English broad fun,
+and the drinks of [[america|America]].  But there is no English broad fun,
 no German kindly ceremony, no American exhilaration, and,
 above all, no French tradition of fighting for an idea.
 Though all the boulevards look like Parisian boulevards,

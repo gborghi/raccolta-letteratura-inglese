@@ -23,17 +23,17 @@ understood that he was essentially and emphatically English.
 But perhaps the most English thing about him was that he contrived
 by sheer poetry to picture himself as prosaic.  He was so imaginative
 that he imagined himself to be merely a plain man.  This is really
-an illusion that explains much of the [[history]] of John Bull;
+an illusion that explains much of the history of John Bull;
 as indeed it explains the whole legend and ideal of John Bull.
-As poets dream not of a poet but of a [[Hero|hero]], so a nation of poets
+As poets dream not of a poet but of a hero, so a nation of poets
 has called up as its ideal the vision of a practical man.
-But in Cobbett's [[Time|time]], and especially in Cobbett's case,
-what there was of illusion in this was quite [[Innocent|innocent]]; and he did
+But in Cobbett's time, and especially in Cobbett's case,
+what there was of illusion in this was quite innocent; and he did
 not know that there was anything spiritual or elemental about him.
 That universe that exists in the brain of every man was then
 rather by way of being a buried universe; and those were few who,
-like Blake and Swedenborg, dived after its submerged [[Stars|stars]].
-In the Age of Reason there was some tendency for the [[Soul|soul]] to
+like Blake and Swedenborg, dived after its submerged stars.
+In the Age of Reason there was some tendency for the soul to
 become the subconsciousness.  Cobbett certainly was cheerfully
 unconscious of having any subeonsciousness.  I shudder to think
 what would have happened to anybody who had told him he had
@@ -45,7 +45,7 @@ in that practical pilgrimage in which we do get a glimpse
 of those deeper things, at once more dark and more illuminated.
 It is all the more moving because it comes quite without warning
 in the middle of that quiet and unpretentious narrative,
-and with one turn takes on the character of some terrible [[Allegory|allegory]].
+and with one turn takes on the character of some terrible allegory.
 There is something about it mysterious and macabre, like a dark
 woodcut of Albert Durer.
 
@@ -56,13 +56,13 @@ foreign and financial names, whom he was wont to name very frankly.
 All day his heart had grown heavier with the increasing sense that
 the country was passing into the hands of these oriental merchants,
 and he was probably brooding, as he often did, on the very darkest
-version of their [[history]] and character, when he saw a strange object
-or ornament or accident standing up in those smooth and [[Well|well]]-ordered
-grounds neatly fenced from the [[Road|road]].  It was actually in the shape
-of a [[Cross|cross]]; `big enough and broad enough to crucify a man on.'
-With something that makes his staccato style sound for the first time
+version of their history and character, when he saw a strange object
+or ornament or accident standing up in those smooth and well-ordered
+grounds neatly fenced from the road.  It was actually in the shape
+of a cross; `big enough and broad enough to crucify a man on.'
+With something that makes his staccato style sound for the first [[Time|time]]
 like broken speech, he repeats more than once, `Aye, big enough and
-broad enough to crucify a man on.'  And then he says that his [[Horse|horse]],
+broad enough to crucify a man on.'  And then he says that his horse,
 who was accustomed to the ambling trot with which he rambled
 about for his adventures, was startled by the spur or the gesture
 which urged him to sudden activity.  He must have gone, he says,

@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 29 (part 3)"
+title: "Sense and Sensibility — Chapter 29 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -13,6 +13,28 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_29/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_29/part_04">part 04 ›</a></div>
 </nav>
 
+
+“Many, many circumstances,” said Elinor, solemnly.
+
+
+
+“No, no, no,” cried Marianne wildly, “he loves you, and only you. You
+
+_can_ have no grief.”
+
+
+
+“I can have no pleasure while I see you in this state.”
+
+
+
+“And you will never see me otherwise. Mine is a misery which nothing
+
+can do away.”
+
+
+
+“You must not talk so, Marianne. Have you no comforts? no friends? Is
 
 your loss such as [[Leaves|leaves]] no opening for consolation? Much as you suffer
 
@@ -251,27 +273,3 @@ forget his distress?”
 
 
 For a moment or two she could say no more; but when this emotion had
-
-passed away, she added, in a firmer tone,
-
-
-
-“Elinor, I have been cruelly used; but not by Willoughby.”
-
-
-
-“Dearest Marianne, who but himself? By whom can he have been
-
-instigated?”
-
-
-
-“By all the world, rather than by his own heart. I could rather believe
-
-every creature of my acquaintance leagued together to ruin me in his
-
-opinion, than believe his [[Nature|nature]] capable of such cruelty. This woman of
-
-whom he writes—whoever she be—or any one, in short, but your own dear
-
-[[Self|self]], mama, and Edward, may have been so barbarous to bely me. Beyond

@@ -14,6 +14,33 @@ tags:
 </nav>
 
 
+‘I didn’t go for to do it, my [[Love|love]],’ said Trotty, hastily repairing this
+mistake.  ‘Meg, my dear?’
+
+Meg looked towards him and saw that he had elaborately stationed himself
+behind the chair of their male visitor, where with many mysterious
+gestures he was holding up the sixpence he had earned.
+
+‘I see, my dear,’ said Trotty, ‘as I was coming in, half an ounce of tea
+lying somewhere on the stairs; and I’m pretty sure there was a bit of
+bacon too.  As I don’t remember where it was exactly, I’ll go myself and
+try to find ’em.’
+
+With this inscrutable artifice, Toby withdrew to purchase the viands he
+had spoken of, for ready money, at Mrs. Chickenstalker’s; and presently
+came back, pretending he had not been able to find them, at first, in the
+dark.
+
+‘But here they are at last,’ said Trotty, setting out the tea-things,
+‘all correct!  I was pretty sure it was tea, and a rasher.  So it is.
+Meg, my pet, if you’ll just make the tea, while your unworthy father
+toasts the bacon, we shall be ready, immediate.  It’s a curious
+circumstance,’ said Trotty, proceeding in his cookery, with the
+assistance of the toasting-fork, ‘curious, but [[Well|well]] known to my friends,
+that I never care, myself, for rashers, nor for tea.  I like to see other
+people enjoy ’em,’ said Trotty, speaking very loud, to impress the fact
+upon his guest, ‘but to me, as food, they’re disagreeable.’
+
 Yet Trotty sniffed the savour of the hissing bacon—ah!—as if he liked it;
 and when he poured the boiling [[Water|water]] in the tea-pot, looked lovingly down
 into the depths of that snug cauldron, and suffered the fragrant steam to
@@ -94,40 +121,3 @@ read) of a woman who had laid her desperate hands not only on her own
 life but on that of her young [[Child|child]].  A crime so terrible, and so
 revolting to his [[Soul|soul]], dilated with the [[Love|love]] of Meg, that he let the
 journal drop, and fell back in his chair, appalled!
-
-‘Unnatural and cruel!’ Toby cried.  ‘Unnatural and cruel!  None but
-people who were bad at heart, born bad, who had no business on the earth,
-could do such deeds.  It’s too true, all I’ve heard to-day; too just, too
-full of proof.  We’re Bad!’
-
-The Chimes took up the words so suddenly—burst out so loud, and clear,
-and sonorous—that [[The Bells|the Bells]] seemed to strike him in his chair.
-
-And what was that, they said?
-
-‘Toby Veck, Toby Veck, waiting for you Toby!  Toby Veck, Toby Veck,
-waiting for you Toby!  Come and see us, come and see us, Drag him to us,
-drag him to us, Haunt and hunt him, haunt and hunt him, Break his
-slumbers, break his slumbers!  Toby Veck Toby Veck, door open wide Toby,
-Toby Veck Toby Veck, door open wide Toby—’ then fiercely back to their
-impetuous strain again, and ringing in the very bricks and plaster on the
-walls.
-
-Toby listened.  Fancy, fancy!  His remorse for having run away from them
-that afternoon!  No, no.  Nothing of the kind.  Again, again, and yet a
-dozen times again.  ‘Haunt and hunt him, haunt and hunt him, Drag him to
-us, drag him to us!’  Deafening the whole town!
-
-‘Meg,’ said Trotty softly: tapping at her door.  ‘Do you hear anything?’
-
-‘I hear [[The Bells|the Bells]], father.  Surely they’re very loud to-[[Night|night]].’
-
-‘Is she asleep?’ said Toby, making an excuse for peeping in.
-
-‘So peacefully and happily!  I can’t leave her yet though, father.  Look
-how she holds my hand!’
-
-‘Meg,’ whispered Trotty.  ‘Listen to [[The Bells|the Bells]]!’
-
-She listened, with her face towards him all the [[Time|time]].  But it underwent
-no change.  She didn’t understand them.

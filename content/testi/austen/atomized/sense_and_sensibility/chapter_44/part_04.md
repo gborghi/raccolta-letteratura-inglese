@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 44 (part 4)"
+title: "Sense and Sensibility — Chapter 44 (part 4)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_44/part_03">‹ part 03</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_44/part_05">part 05 ›</a></div>
 </nav>
 
+
+she too must have become indifferent to me; talking to myself of our
+
+past attachment as a mere idle, trifling business, shrugging up my
+
+shoulders in proof of its being so, and silencing every reproach,
+
+overcoming every scruple, by secretly saying now and then, ‘I shall be
+
+heartily glad to hear she is [[Well|well]] married.’ But this note made me know
+
+myself better. I felt that she was infinitely dearer to me than any
+
+other woman in the world, and that I was using her infamously. But
+
+every thing was then just settled between Miss Grey and me. To retreat
 
 was impossible. All that I had to do, was to avoid you both. I sent no
 
@@ -197,25 +213,3 @@ opinion,’ said I to myself: ‘I am shut out for ever from their society,
 they already think me an unprincipled fellow, this letter will only
 
 make them think me a blackguard one.’ Such were my reasonings, as, in a
-
-sort of desperate carelessness, I copied my wife’s words, and parted
-
-with the last relics of Marianne. Her three notes,—unluckily they were
-
-all in my pocketbook, or I should have denied their existence, and
-
-hoarded them for ever,—I was forced to put them up, and could not even
-
-kiss them. And the lock of hair—that too I had always carried about me
-
-in the same pocket-book, which was now searched by Madam with the most
-
-ingratiating virulence,—the dear lock,—all, every memento was torn from
-
-me.”
-
-
-
-“You are very wrong, Mr. Willoughby, very blamable,” said Elinor, while
-
-her voice, in spite of herself, betrayed her compassionate emotion;

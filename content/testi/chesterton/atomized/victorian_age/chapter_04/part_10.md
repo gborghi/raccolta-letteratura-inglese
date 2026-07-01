@@ -14,21 +14,71 @@ tags:
 </nav>
 
 
+This and all associated files of various formats will be found in:
+
+        http://www.gutenberg.org/1/8/6/3/18639/
+
+Produced by Karina Aleksandrova, [[Juliet]] Sutherland and the
+
+Online Distributed Proofreading Team at http://www.pgdp.net
+
+Updated editions will replace the previous one--the old editions
+
+will be renamed.
+
+Creating the works from public domain print editions means that no
+
+one owns a United States copyright in these works, so the Foundation
+
+(and you!) can copy and distribute it in the United States without
+
+permission and without paying copyright royalties.  Special rules,
+
+set forth in the General Terms of Use part of this license, apply to
+
+copying and distributing Project Gutenberg-tm electronic works to
+
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+
+Gutenberg is a registered trademark, and may not be used if you
+
+charge for the eBooks, unless you receive specific permission.  If you
+
+do not charge anything for copies of this eBook, complying with the
+
+rules is very easy.  You may use this eBook for nearly any purpose
+
+such as creation of derivative works, reports, performances and
+
+research.  They may be modified and printed and given away--you may do
+
+practically ANYTHING with public domain eBooks.  Redistribution is
+
+subject to the trademark license, especially commercial
+
+redistribution.
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+
+distribution of electronic works, by using or distributing this work
+
+(or any other work associated in any way with the phrase "Project
+
 Gutenberg"), you agree to comply with all the terms of the Full Project
 
 Gutenberg-tm License (available with this file or online at
 
 http://gutenberg.org/license).
 
-
-
-
-
 Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
 
 electronic works
-
-
 
 1.A.  By reading or using any part of this Project Gutenberg-tm
 
@@ -50,8 +100,6 @@ terms of this agreement, you may obtain a refund from the person or
 
 entity to whom you paid the fee as set forth in paragraph 1.E.8.
 
-
-
 1.B.  "Project Gutenberg" is a registered trademark.  It may only be
 
 used on or associated in any way with an electronic work by people who
@@ -69,8 +117,6 @@ Gutenberg-tm electronic works if you follow the terms of this agreement
 and help preserve free future access to Project Gutenberg-tm electronic
 
 works.  See paragraph 1.E below.
-
-
 
 1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
 
@@ -102,8 +148,6 @@ keeping this work in the same format with its attached full Project
 
 Gutenberg-tm License when you share it without charge with others.
 
-
-
 1.D.  The copyright laws of the place where you are located also govern
 
 what you can do with this work.  Copyright laws in most countries are in
@@ -122,11 +166,7 @@ the copyright status of any work in any country outside the United
 
 States.
 
-
-
 1.E.  Unless you have removed all references to Project Gutenberg:
-
-
 
 1.E.1.  The following sentence, with active links to, or other immediate
 
@@ -140,8 +180,6 @@ Gutenberg" is associated) is accessed, displayed, performed, viewed,
 
 copied or distributed:
 
-
-
 This eBook is for the use of anyone anywhere at no cost and with
 
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -149,8 +187,6 @@ almost no restrictions whatsoever.  You may copy it, give it away or
 re-use it under the terms of the Project Gutenberg License included
 
 with this eBook or online at www.gutenberg.org
-
-
 
 1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
 
@@ -163,61 +199,3 @@ and distributed to anyone in the United States without paying any fees
 or charges.  If you are redistributing or providing access to a work
 
 with the phrase "Project Gutenberg" associated with or appearing on the
-
-work, you must comply either with the requirements of paragraphs 1.E.1
-
-through 1.E.7 or obtain permission for the use of the work and the
-
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-
-1.E.9.
-
-
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-
-with the permission of the copyright holder, your use and distribution
-
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-
-terms imposed by the copyright holder.  Additional terms will be linked
-
-to the Project Gutenberg-tm License for all works posted with the
-
-permission of the copyright holder found at the beginning of this work.
-
-
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-
-License terms from this work, or any files containing a part of this
-
-work or any other work associated with Project Gutenberg-tm.
-
-
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-
-electronic work, or any part of this electronic work, without
-
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-
-active links or immediate access to the full terms of the Project
-
-Gutenberg-tm License.
-
-
-
-1.E.6.  You may [[convert]] to and distribute this work in any binary,
-
-compressed, marked up, nonproprietary or proprietary form, including any
-
-word processing or hypertext form.  However, if you provide access to or
-
-distribute copies of a Project Gutenberg-tm work in a format other than
-
-"Plain Vanilla ASCII" or other format used in the official version
-
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-
-you must, at no additional cost, fee or expense to the user, provide a

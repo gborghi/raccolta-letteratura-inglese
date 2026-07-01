@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 54: Mr. MICAWBER’S TRANSACTIONS (part 4)"
+title: "David Copperfield — Chapter 54: Mr. MICAWBER’S TRANSACTIONS (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,55 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_54_mr_micawbers_transactions/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_54_mr_micawbers_transactions/part_05">part 05 ›</a></div>
 </nav>
 
+
+‘Right!’ replied my aunt.
+
+‘I can’t account for more than five,’ said Traddles, with an air of
+perplexity.
+
+‘--thousand, do you mean?’ inquired my aunt, with uncommon composure,
+‘or pounds?’
+
+‘Five thousand pounds,’ said Traddles.
+
+‘It was all there was,’ returned my aunt. ‘I sold three, myself. One, I
+paid for your articles, Trot, my dear; and the other two I have by me.
+When I lost the rest, I thought it wise to say nothing about that sum,
+but to keep it secretly for a rainy day. I wanted to see how you would
+come out of the trial, Trot; and you came out nobly--persevering,
+[[Self|self]]-reliant, [[Self|self]]-denying! So did Dick. Don’t speak to me, for I find
+my nerves a little shaken!’
+
+Nobody would have thought so, to see her sitting upright, with her arms
+folded; but she had wonderful [[Self|self]]-command.
+
+‘Then I am delighted to say,’ cried Traddles, beaming with joy, ‘that we
+have recovered the whole money!’
+
+‘Don’t congratulate me, anybody!’ exclaimed my aunt. ‘How so, sir?’
+
+‘You believed it had been misappropriated by Mr. Wickfield?’ said
+Traddles.
+
+‘Of course I did,’ said my aunt, ‘and was therefore easily silenced.
+Agnes, not a word!’
+
+‘And indeed,’ said Traddles, ‘it was sold, by virtue of the power of
+management he held from you; but I needn’t say by whom sold, or on whose
+actual signature. It was afterwards pretended to Mr. Wickfield, by that
+rascal,--and proved, too, by figures,--that he had possessed himself of
+the money (on general instructions, he said) to keep other deficiencies
+and difficulties from the light. Mr. Wickfield, being so weak and
+helpless in his hands as to pay you, afterwards, several sums of
+interest on a pretended principal which he knew did not exist, made
+himself, unhappily, a party to the fraud.’
+
+‘And at last took the blame upon himself,’ added my aunt; ‘and wrote me
+a mad letter, charging himself with robbery, and wrong unheard of. Upon
+which I paid him a visit early one morning, called for a candle, burnt
+the letter, and told him if he ever could right me and himself, to
+do it; and if he couldn’t, to keep his own counsel for his daughter’s
+sake.---If anybody speaks to me, I’ll leave the [[house]]!’
 
 We all remained quiet; Agnes covering her face.
 
@@ -91,53 +140,3 @@ said my aunt. ‘What’s the amount altogether?’
 ‘Why, Mr. Micawber has entered the transactions--he calls them
 transactions--with great form, in a book,’ rejoined Traddles, smiling;
 ‘and he makes the amount a hundred and three pounds, five.’
-
-‘Now, what shall we give him, that sum included?’ said my aunt. ‘Agnes,
-my dear, you and I can talk about division of it afterwards. What should
-it be? Five hundred pounds?’
-
-Upon this, Traddles and I both struck in at once. We both recommended
-a small sum in money, and the payment, without stipulation to Mr.
-Micawber, of the Uriah claims as they came in. We proposed that the
-family should have their passage and their outfit, and a hundred pounds;
-and that Mr. Micawber’s arrangement for the repayment of the advances
-should be gravely entered into, as it might be wholesome for him
-to suppose himself under that responsibility. To this, I added the
-suggestion, that I should give some explanation of his character and
-[[history]] to Mr. Peggotty, who I knew could be relied on; and that to Mr.
-Peggotty should be quietly entrusted the discretion of advancing another
-hundred. I further proposed to interest Mr. Micawber in Mr. Peggotty,
-by confiding so much of Mr. Peggotty’s story to him as I might feel
-justified in relating, or might think expedient; and to endeavour to
-bring each of them to bear upon the other, for the common advantage. We
-all entered warmly into these views; and I may mention at once, that the
-principals themselves did so, shortly afterwards, with perfect good will
-and harmony.
-
-Seeing that Traddles now glanced anxiously at my aunt again, I reminded
-him of the second and last point to which he had adverted.
-
-‘You and your aunt will excuse me, Copperfield, if I touch upon a
-painful theme, as I greatly [[Fear|fear]] I shall,’ said Traddles, hesitating;
-‘but I think it necessary to bring it to your recollection. On the day
-of Mr. Micawber’s memorable denunciation a threatening allusion was made
-by [[Uriah Heep]] to your aunt’s--husband.’
-
-My aunt, retaining her stiff position, and apparent composure, assented
-with a nod.
-
-‘Perhaps,’ observed Traddles, ‘it was mere purposeless impertinence?’
-
-‘No,’ returned my aunt.
-
-‘There was--pardon me--really such a person, and at all in his power?’
-hinted Traddles.
-
-‘Yes, my good friend,’ said my aunt.
-
-Traddles, with a perceptible lengthening of his face, explained that he
-had not been able to approach this subject; that it had shared the fate
-of Mr. Micawber’s liabilities, in not being comprehended in the terms he
-had made; that we were no longer of any authority with [[Uriah Heep]]; and
-that if he could do us, or any of us, any injury or annoyance, no [[Doubt|doubt]]
-he would.

@@ -10,9 +10,15 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/a-tale-of-two-cities-(dickens)">A Tale of Two Cities</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_06/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_08/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_06/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_07/part_01">part 01 ›</a></div>
 </nav>
 
+
+In the submissive way of one long accustomed to obey under coercion, he
+ate and drank what they gave him to eat and drink, and put on the cloak
+and other wrappings, that they gave him to wear. He readily responded to
+his daughter’s drawing her arm through his, and took--and kept--her hand
+in both his own.
 
 They began to descend; Monsieur Defarge going first with the lamp, Mr.
 Lorry closing the little procession. They had not traversed many steps

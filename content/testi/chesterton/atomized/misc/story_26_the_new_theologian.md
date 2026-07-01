@@ -1,5 +1,5 @@
 ---
-title: "[[misc]] — THE NEW THEOLOGIAN"
+title: "misc — THE NEW THEOLOGIAN"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 THE NEW THEOLOGIAN
-
 
 It is an old story that names do not fit things; it is an old story
 that the oldest forest is called the New Forest, and that Irish

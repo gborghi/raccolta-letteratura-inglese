@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 9 (part 2)"
+title: "Shirley — Chapter 9 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_09/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_09/part_03">part 03 ›</a></div>
 </nav>
 
+
+Here followed an interval of clamorous [[prayer]], accompanied by fearful
+
+groans. A shout of "I've found liberty!" "Doad o' Bill's has fun'
+
+liberty!" rang from the chapel, and out all the assembly broke again.
+
+
+
+    "What a [[Mercy|mercy]] is this!
+
+      What a heaven of bliss!
 
     How unspeakably happy am I!
 
@@ -245,21 +257,3 @@ wherever she looked, wherever she turned.
 
 
 It may be supposed that the children of such a pair were not likely to
-
-turn out quite ordinary, commonplace beings; and they were not. You see
-
-six of them, reader. The youngest is a baby on the mother's knee. It is
-
-all her own yet, and that one she has not yet begun to [[Doubt|doubt]], suspect,
-
-condemn; it derives its sustenance from her, it hangs on her, it clings
-
-to her, it loves her above everything else in the world. She is sure of
-
-that, because, as it lives by her, it cannot be otherwise, therefore she
-
-loves it.
-
-
-
-The two next are girls, [[Rose]] and Jessy; they are both now at their

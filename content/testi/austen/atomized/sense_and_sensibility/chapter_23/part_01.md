@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 23 (part 1)"
+title: "Sense and Sensibility — Chapter 23 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -201,9 +201,3 @@ Much as she had suffered from her first conversation with Lucy on the
 subject, she soon felt an earnest wish of renewing it; and this for
 
 more reasons than one. She wanted to hear many particulars of their
-
-engagement repeated again, she wanted more clearly to understand what
-
-Lucy really felt for Edward, whether there were any sincerity in her
-
-declaration of tender regard for him, and she particularly wanted to

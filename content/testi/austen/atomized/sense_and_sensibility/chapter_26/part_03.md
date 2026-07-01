@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 26 (part 3)"
+title: "Sense and Sensibility — Chapter 26 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_26/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_27/part_01">part 01 ›</a></div>
 </nav>
 
+
+that interested and occupied the others. Restless and dissatisfied
+
+every where, her sister could never obtain her opinion of any article
+
+of purchase, however it might equally concern them both: she received
+
+no pleasure from anything; was only impatient to be at [[Home|home]] again, and
 
 could with difficulty govern her vexation at the tediousness of Mrs.
 

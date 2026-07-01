@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 5 (part 3)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 5 (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_04/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_05/part_01">part 01 ›</a></div>
 </nav>
 
+
+but I made him no reply, and his apprehensions seemed thus to be
+
+confirmed. The brig was [[rolling]] violently, and there was so much noise
+
+in consequence, that it was useless to listen for any weak sound, such
 
 as those of my breathing or snoring. He threw open the lantern, and
 

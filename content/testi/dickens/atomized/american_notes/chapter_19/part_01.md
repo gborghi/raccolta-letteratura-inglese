@@ -48,7 +48,7 @@ is a [[Truth|truth]] that ought to be told.
 It is an essential part of every national character to pique itself
 mightily upon its faults, and to deduce tokens of its virtue or its
 wisdom from their very exaggeration.  One great blemish in the popular
-mind of [[America]], and the prolific parent of an innumerable brood of
+mind of [[america|America]], and the prolific parent of an innumerable brood of
 evils, is Universal Distrust.  Yet the American citizen plumes himself
 upon this spirit, even when he is sufficiently dispassionate to perceive
 the ruin it works; and will often adduce it, in spite of his own reason,
@@ -114,7 +114,7 @@ trading people.  The [[Love|love]] of trade is assigned as a reason for that
 comfortless custom, so very prevalent in country towns, of married
 persons living in hotels, having no fireside of their own, and seldom
 meeting from early morning until late at [[Night|night]], but at the hasty public
-meals.  The [[Love|love]] of trade is a reason why the literature of [[America]] is to
+meals.  The [[Love|love]] of trade is a reason why the literature of [[america|America]] is to
 remain for ever unprotected ‘For we are a trading people, and don’t care
 for poetry:’ though we _do_, by the way, profess to be very proud of our
 poets: while healthful amusements, cheerful means of recreation, and

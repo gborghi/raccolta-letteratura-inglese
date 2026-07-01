@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 1 (part 3)"
+title: "Shirley — Chapter 1 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_01/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_01/part_04">part 04 ›</a></div>
 </nav>
 
+
+pronounced veil, firm, helm, [[Storm|storm]]), and employing such other methods of
+
+retaliation as the innate refinement of their minds suggested.
+
+
+
+This, of course, would not do. Malone, being neither good-natured nor
+
+phlegmatic, was presently in a towering passion. He vociferated,
+
+gesticulated; Donne and Sweeting laughed. He reviled them as Saxons and
 
 snobs at the very top pitch of his high Celtic voice; they taunted him
 
@@ -247,17 +259,3 @@ district in Connaught will, in a decent English parish, bring disgrace
 on those who indulge in them, and, what is far worse, on the sacred
 
 institution of which they are merely the humble appendages."
-
-
-
-There was a certain dignity in the little elderly gentleman's manner of
-
-rebuking these youths, though it was not, perhaps, quite the dignity
-
-most appropriate to the occasion. Mr. Helstone, standing straight as a
-
-ramrod, looking keen as a kite, presented, despite his clerical hat,
-
-black coat, and gaiters, more the air of a veteran officer chiding his
-
-subalterns than of a venerable priest exhorting his sons in the [[Faith|faith]].

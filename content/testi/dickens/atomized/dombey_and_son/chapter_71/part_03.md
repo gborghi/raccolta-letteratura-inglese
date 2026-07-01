@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 15 (part 3)"
+title: "Dombey and Son — Chapter 43 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -10,129 +10,176 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/dombey-and-son-(dickens)">Dombey and Son</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_71/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_71/part_04">part 04 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_71/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_72/part_01">part 01 ›</a></div>
 </nav>
 
 
-“For the Port of Barbados, Boys!
-                    Cheerily!
-Leaving old England behind us, Boys!
-                    Cheerily!”
-Here the Captain roared in [[Chorus|chorus]]—
-                    “Oh cheerily, cheerily!
-                                        Oh cheer-i-ly!”
+She stole close to the bed, and drawing in her breath, bent down, and
+softly kissed him on the face, and laid her own for one brief moment by
+its side, and put the arm, with which she dared not touch him, round
+about him on the pillow.
 
+Awake, doomed man, while she is near! The [[Time|time]] is flitting by; the hour
+is coming with an angry tread; its foot is in the [[house]]. Awake!
 
-The last line reaching the quick ears of an ardent skipper not quite
-sober, who lodged opposite, and who instantly sprung out of bed, threw
-up his [[Window|window]], and joined in, across the street, at the top of his
-voice, produced a fine effect. When it was impossible to sustain the
-concluding note any longer, the skipper bellowed forth a terrific
-“ahoy!” intended in part as a friendly greeting, and in part to show
-that he was not at all breathed. That done, he shut down his [[Window|window]],
-and went to bed again.
+In her mind, she prayed to God to bless her father, and to soften him
+towards her, if it might be so; and if not, to forgive him if he was
+wrong, and pardon her the [[prayer]] which almost seemed impiety. And doing
+so, and looking back at him with blinded eyes, and stealing timidly
+away, passed out of his room, and crossed the other, and was gone.
 
-“And now, [[Captain Cuttle]],” said Walter, handing him the blue coat and
-waistcoat, and bustling very much, “if you’ll come and break the news
-to Uncle Sol (which he ought to have known, days upon days ago, by
-rights), I’ll leave you at the door, you know, and walk about until the
-afternoon.”
+He may [[Sleep|sleep]] on now. He may [[Sleep|sleep]] on while he may. But let him look for
+that slight figure when he wakes, and find it near him when the hour is
+come!
 
-The Captain, however, scarcely appeared to relish the commission, or to
-be by any means confident of his powers of executing it. He had
-arranged the future life and adventures of Walter so very differently,
-and so entirely to his own satisfaction; he had felicitated himself so
-often on the sagacity and foresight displayed in that arrangement, and
-had found it so complete and perfect in all its parts; that to suffer
-it to go to pieces all at once, and even to assist in breaking it up,
-required a great effort of his resolution. The Captain, too, found it
-difficult to unload his old ideas upon the subject, and to take a
-perfectly new cargo on board, with that rapidity which the
-circumstances required, or without jumbling and confounding the two.
-Consequently, instead of putting on his coat and waistcoat with
-anything like the impetuosity that could [[Alone|alone]] have kept pace with
-Walter’s mood, he declined to invest himself with those garments at all
-at present; and informed Walter that on such a serious matter, he must
-be allowed to “bite his nails a bit”.
+Sad and grieving was the heart of Florence, as she crept upstairs. The
+quiet [[house]] had grown more dismal since she came down. The [[Sleep|sleep]] she
+had been looking on, in the dead of [[Night|night]], had the solemnity to her of
+[[Death|death]] and life in one. The secrecy and [[Silence|silence]] of her own proceeding
+made the [[Night|night]] secret, silent, and oppressive. She felt unwilling,
+almost unable, to go on to her own chamber; and turning into the
+drawing-rooms, where the clouded [[Moon|moon]] was shining through the blinds,
+looked out into the empty streets.
 
-“It’s an old habit of mine, Wal”r,” said the Captain, “any [[Time|time]] these
-fifty year. When you see Ned Cuttle bite his nails, Wal”r, then you may
-know that Ned Cuttle’s aground.”
+The [[Wind|wind]] was blowing drearily. The lamps looked pale, and shook as if
+they were cold. There was a distant glimmer of something that was not
+quite darkness, rather than of light, in the sky; and foreboding [[Night|night]]
+was shivering and restless, as the dying are who make a troubled end.
+Florence remembered how, as a watcher, by a sick-bed, she had noted
+this bleak [[Time|time]], and felt its influence, as if in some hidden natural
+antipathy to it; and now it was very, very gloomy.
 
-[Illustration]
+Her Mama had not come to her room that [[Night|night]], which was one cause of
+her having sat late out of her bed. In her general uneasiness, no less
+than in her ardent [[Longing|longing]] to have somebody to speak to, and to break
+the spell of gloom and [[Silence|silence]], Florence directed her steps towards the
+chamber where she slept.
 
-Thereupon the Captain put his iron hook between his teeth, as if it
-were a hand; and with an air of wisdom and profundity that was the very
-concentration and sublimation of all philosophical reflection and [[Grave|grave]]
-inquiry, applied himself to the consideration of the subject in its
-various branches.
+The door was not fastened within, and yielded smoothly to her
+hesitating hand. She was surprised to find a bright light burning;
+still more surprised, on looking in, to see that her Mama, but
+partially undressed, was sitting near the ashes of the [[Fire|fire]], which had
+crumbled and dropped away. Her eyes were intently bent upon the air;
+and in their light, and in her face, and in her form, and in the grasp
+with which she held the elbows of her chair as if about to start up,
+Florence saw such fierce emotion that it terrified her.
 
-“There’s a friend of mine,” murmured the Captain, in an absent manner,
-“but he’s at present coasting round to Whitby, that would deliver such
-an opinion on this subject, or any other that could be named, as would
-give Parliament six and beat ’em. Been knocked overboard, that man,”
-said the Captain, “twice, and none the worse for it. Was beat in his
-apprenticeship, for three weeks (off and on), about the head with a
-ring-bolt. And yet a clearer-minded man don’t walk.”
+“Mama!” she cried, “what is the matter?”
 
-In spite of his respect for [[Captain Cuttle]], Walter could not help
-inwardly rejoicing at the absence of this sage, and devoutly hoping
-that his limpid intellect might not be brought to bear on his
-difficulties until they were quite settled.
+Edith started; looking at her with such a strange dread in her face,
+that Florence was more frightened than before.
 
-“If you was to take and show that man the buoy at the Nore,” said
-[[Captain Cuttle]] in the same tone, “and ask him his opinion of it, Wal”r,
-he’d give you an opinion that was no more like that buoy than your
-Uncle’s buttons are. There ain’t a man that walks—certainly not on two
-legs—that can come near him. Not near him!”
+“Mama!” said Florence, hurriedly advancing. “Dear Mama! what is the
+matter?”
 
-“What’s his name, [[Captain Cuttle]]?” inquired Walter, determined to be
-interested in the Captain’s friend.
+“I have not been [[Well|well]],” said Edith, shaking, and still looking at her
+in the same strange way. “I have had bad [[Dreams|dreams]], my [[Love|love]].”
 
-“His name’s Bunsby,” said the Captain. “But Lord, it might be anything
-for the matter of that, with such a mind as his!”
+“And not yet been to bed, Mama?”
 
-The exact idea which the Captain attached to this concluding piece of
-praise, he did not further elucidate; neither did Walter seek to draw
-it forth. For on his beginning to review, with the vivacity natural to
-himself and to his situation, the leading points in his own affairs, he
-soon discovered that the Captain had relapsed into his former profound
-state of mind; and that while he eyed him steadfastly from beneath his
-bushy eyebrows, he evidently neither saw nor heard him, but remained
-immersed in cogitation.
+“No,” she returned. “Half-waking [[Dreams|dreams]].”
 
-In fact, [[Captain Cuttle]] was labouring with such great designs, that far
-from being aground, he soon got off into the deepest of [[Water|water]], and
-could find no [[Bottom|bottom]] to his penetration. By degrees it became perfectly
-plain to the Captain that there was some mistake here; that it was
-undoubtedly much more likely to be Walter’s mistake than his; that if
-there were really any West India scheme afoot, it was a very different
-one from what Walter, who was young and rash, supposed; and could only
-be some new device for making his fortune with unusual celerity. “Or if
-there should be any little hitch between ’em,” thought the Captain,
-meaning between Walter and Mr Dombey, “it only wants a word in season
-from a friend of both parties, to set it right and smooth, and make all
-taut again.” [[Captain Cuttle]]’s deduction from these considerations was,
-that as he already enjoyed the pleasure of knowing Mr Dombey, from
-having spent a very agreeable half-hour in his company at Brighton (on
-the morning when they borrowed the money); and that, as a couple of men
-of the world, who understood each other, and were mutually disposed to
-make things comfortable, could easily arrange any little difficulty of
-this sort, and come at the real facts; the friendly thing for him to do
-would be, without saying anything about it to Walter at present, just
-to step up to Mr Dombey’s [[house]]—say to the servant “Would ye be so
-good, my lad, as report Cap’en Cuttle here?”—meet Mr Dombey in a
-confidential spirit—hook him by the button-hole—talk it over—make it
-all right—and come away triumphant!
+Her features gradually softened; and [[Suffering|suffering]] Florence to come closer
+to her, within her embrace, she said in a tender manner, “But what does
+my bird do here? What does my bird do here?”
 
-As these reflections presented themselves to the Captain’s mind, and by
-slow degrees assumed this shape and form, his visage cleared like a
-doubtful morning when it gives place to a bright [[Noon|noon]]. His eyebrows,
-which had been in the highest degree portentous, smoothed their rugged
-bristling aspect, and became serene; his eyes, which had been nearly
-closed in the severity of his mental exercise, opened freely; a smile
-which had been at first but three specks—one at the right-hand corner
-of his mouth, and one at the corner of each eye—gradually overspread
-his whole face, and, rippling up into his forehead, lifted the glazed
-hat: as if that too had been aground with [[Captain Cuttle]], and were now,
-like him, happily afloat again.
+“I have been uneasy, Mama, in not seeing you tonight, and in not
+knowing how Papa was; and I—”
+
+Florence stopped there, and said no more.
+
+“Is it late?” asked Edith, fondly putting back the curls that mingled
+with her own dark hair, and strayed upon her face.
+
+“Very late. Near day.”
+
+“Near day!” she repeated in surprise.
+
+“Dear Mama, what have you done to your hand?” said Florence.
+
+Edith drew it suddenly away, and, for a moment, looked at her with the
+same strange dread (there was a sort of wild avoidance in it) as
+before; but she presently said, “Nothing, nothing. A blow.” And then
+she said, “My Florence!” and then her bosom heaved, and she was weeping
+passionately.
+
+“Mama!” said Florence. “Oh Mama, what can I do, what should I do, to
+make us happier? Is there anything?”
+
+“Nothing,” she replied.
+
+“Are you sure of that? Can it never be? If I speak now of what is in my
+thoughts, in spite of what we have agreed,” said Florence, “you will
+not blame me, will you?”
+
+“It is useless,” she replied, “useless. I have told you, dear, that I
+have had bad [[Dreams|dreams]]. Nothing can change them, or prevent them coming
+back.”
+
+“I do not understand,” said Florence, gazing on her agitated face which
+seemed to darken as she looked.
+
+“I have dreamed,” said Edith in a low voice, “of a [[Pride|pride]] that is all
+powerless for good, all powerful for evil; of a [[Pride|pride]] that has been
+galled and goaded, through many shameful years, and has never recoiled
+except upon itself; a [[Pride|pride]] that has debased its owner with the
+consciousness of deep humiliation, and never helped its owner boldly to
+resent it or avoid it, or to say, ‘This shall not be!’ a [[Pride|pride]] that,
+rightly guided, might have led perhaps to better things, but which,
+misdirected and perverted, like all else belonging to the same
+possessor, has been [[Self|self]]-contempt, mere hardihood and ruin.”
+
+She neither looked nor spoke to Florence now, but went on as if she
+were [[Alone|alone]].
+
+“I have dreamed,” she said, “of such indifference and callousness,
+arising from this [[Self|self]]-contempt; this wretched, inefficient, miserable
+[[Pride|pride]]; that it has gone on with listless steps even to the altar,
+yielding to the old, familiar, beckoning finger,—oh mother, oh
+mother!—while it spurned it; and willing to be hateful to itself for
+once and for all, rather than to be stung daily in some new form. Mean,
+poor thing!”
+
+And now with gathering and darkening emotion, she looked as she had
+looked when Florence entered.
+
+“And I have dreamed,” she said, “that in a first late effort to achieve
+a purpose, it has been trodden on, and trodden down by a base foot, but
+turns and looks upon him. I have dreamed that it is wounded, hunted,
+set upon by [[dogs]], but that it stands at bay, and will not yield; no,
+that it cannot if it would; but that it is urged on to hate.”
+
+Her clenched hand tightened on the trembling arm she had in hers, and
+as she looked down on the alarmed and wondering face, frown subsided.
+“Oh Florence!” she said, “I think I have been nearly mad tonight!” and
+humbled her proud head upon her neck and wept again.
+
+“Don’t leave me! be near me! I have no [[Hope|hope]] but in you!” These words
+she said a score of times.
+
+Soon she grew calmer, and was full of pity for the [[Tears|tears]] of Florence,
+and for her waking at such untimely hours. And the day now dawning,
+Edith folded her in her arms and laid her down upon her bed, and, not
+lying down herself, sat by her, and bade her try to [[Sleep|sleep]].
+
+“For you are weary, dearest, and unhappy, and should rest.”
+
+“I am indeed unhappy, dear Mama, tonight,” said Florence. “But you are
+weary and unhappy, too.”
+
+“Not when you lie asleep so near me, sweet.”
+
+They kissed each other, and Florence, worn out, gradually fell into a
+gentle slumber; but as her eyes closed on the face beside her, it was
+so sad to think upon the face downstairs, that her hand drew closer to
+Edith for some comfort; yet, even in the act, it faltered, lest it
+should be deserting him. So, in her [[Sleep|sleep]], she tried to reconcile the
+two together, and to show them that she loved them both, but could not
+do it, and her waking grief was part of her [[Dreams|dreams]].
+
+Edith, sitting by, looked down at the dark eyelashes lying wet on the
+flushed cheeks, and looked with gentleness and pity, for she knew the
+[[Truth|truth]]. But no [[Sleep|sleep]] hung upon her own eyes. As the day came on she
+still sat watching and waking, with the placid hand in hers, and
+sometimes whispered, as she looked at the hushed face, “Be near me,
+Florence. I have no [[Hope|hope]] but in you!”

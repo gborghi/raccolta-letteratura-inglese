@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 14 (part 2)"
+title: "Oliver Twist — Chapter 14 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_14/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_14/part_03">part 03 ›</a></div>
 </nav>
 
+
+“Not always those,” said the old gentleman, patting [[Oliver]] on the head,
+and smiling as he did so; “there are other equally heavy ones, though
+of a much smaller size. How should you like to grow up a clever man,
+and write books, eh?”
 
 “I think I would rather read them, sir,” replied [[Oliver]].
 
@@ -126,19 +131,3 @@ Mr. Grimwig’s head was such a particularly large one, that the most
 sanguine man alive could hardly entertain a [[Hope|hope]] of being able to get
 through it at a sitting—to put entirely out of the question, a very
 thick coating of powder.
-
-“I’ll eat my head, sir,” repeated Mr. Grimwig, striking his stick upon
-the ground. “Hallo! what’s that!” looking at [[Oliver]], and retreating a
-pace or two.
-
-“This is young [[Oliver Twist]], whom we were speaking about,” said Mr.
-Brownlow.
-
-[[Oliver]] bowed.
-
-“You don’t mean to say that’s the boy who had the fever, I [[Hope|hope]]?” said
-Mr. Grimwig, recoiling a little more. “Wait a minute! Don’t speak!
-Stop—” continued Mr. Grimwig, abruptly, losing all dread of the fever
-in his triumph at the discovery; “that’s the boy who had the orange! If
-that’s not the boy, sir, who had the orange, and threw this bit of peel
-upon the staircase, I’ll eat my head, and his too.”

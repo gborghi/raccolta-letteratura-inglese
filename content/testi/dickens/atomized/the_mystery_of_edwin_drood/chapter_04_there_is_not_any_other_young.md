@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Part 4: there is not any other young—”"
+title: "The Mystery of Edwin Drood — Part 4: there is not any other young—”"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"

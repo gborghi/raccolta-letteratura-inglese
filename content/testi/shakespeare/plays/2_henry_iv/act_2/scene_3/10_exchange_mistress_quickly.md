@@ -1,5 +1,5 @@
 ---
-title: "2 [[Henry IV]] — Act II, Scene 3 — exchange ([[Mistress Quickly|MISTRESS QUICKLY]]) [10]"
+title: "2 Henry IV — Act II, Scene 3 — exchange (MISTRESS QUICKLY) [10]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/2-henry-iv-(shakespeare)"

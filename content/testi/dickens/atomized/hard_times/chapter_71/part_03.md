@@ -1,5 +1,5 @@
 ---
-title: "Hard Times — Chapter 3 (part 3)"
+title: "Hard Times — Chapter 6 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/hard-times-(dickens)"
@@ -10,109 +10,173 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/hard-times-(dickens)">Hard Times</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/hard_times/chapter_71/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/hard_times/chapter_72/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/hard_times/chapter_71/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/hard_times/chapter_73_it_was_consented_that_sissy_an/part_01">part 01 ›</a></div>
 </nav>
 
 
-‘Bounderby,’ urged Mr. Gradgrind, ‘this is unreasonable.’
+It appeared from the little this man said to those about him, which was
+quickly repeated all over the circle, that the lost man had fallen upon a
+mass of crumbled rubbish with which the pit was half choked up, and that
+his fall had been further broken by some jagged earth at the side.  He
+lay upon his back with one arm doubled under him, and according to his
+own belief had hardly stirred since he fell, except that he had moved his
+free hand to a side pocket, in which he remembered to have some bread and
+meat (of which he had swallowed crumbs), and had likewise scooped up a
+little [[Water|water]] in it now and then.  He had come straight away from his
+work, on being written to, and had walked the whole [[Journey|journey]]; and was on
+his way to Mr. Bounderby’s country [[house]] after dark, when he fell.  He
+was crossing that dangerous country at such a dangerous [[Time|time]], because he
+was [[Innocent|innocent]] of what was laid to his charge, and couldn’t rest from
+coming the nearest way to deliver himself up.  The Old Hell Shaft, the
+pitman said, with a curse upon it, was worthy of its bad name to the
+last; for though Stephen could speak now, he believed it would soon be
+found to have mangled the life out of him.
 
-‘Is it?’ said Bounderby.  ‘I am glad to hear you say so.  Because when
-[[Tom Gradgrind]], with his new lights, tells me that what I say is
-unreasonable, I am convinced at once it must be devilish sensible.  With
-your permission I am going on.  You know my origin; and you know that for
-a good many years of my life I didn’t want a shoeing-horn, in consequence
-of not having a shoe.  Yet you may believe or not, as you think proper,
-that there are ladies—born ladies—belonging to families—Families!—who
-next to worship the ground I walk on.’
+When all was ready, this man, still taking his last hurried charges from
+his comrades and the surgeon after the windlass had begun to lower him,
+disappeared into the pit.  The rope went out as before, the signal was
+made as before, and the windlass stopped.  No man removed his hand from
+it now.  Every one waited with his grasp set, and his [[Body|body]] bent down to
+the work, ready to reverse and [[Wind|wind]] in.  At length the signal was given,
+and all the ring leaned forward.
 
-He discharged this like a Rocket, at his father-in-law’s head.
+For, now, the rope came in, tightened and strained to its utmost as it
+appeared, and the men turned heavily, and the windlass complained.  It
+was scarcely endurable to look at the rope, and think of its giving way.
+But, ring after ring was coiled upon the barrel of the windlass safely,
+and the connecting [[Chains|chains]] appeared, and finally the bucket with the two
+men holding on at the sides—a sight to make the head swim, and oppress
+the heart—and tenderly supporting between them, slung and tied within,
+the figure of a poor, crushed, human creature.
 
-‘Whereas your daughter,’ proceeded Bounderby, ‘is far from being a born
-lady.  That you know, yourself.  Not that I care a pinch of candle-snuff
-about such things, for you are very [[Well|well]] aware I don’t; but that such is
-the fact, and you, [[Tom Gradgrind]], can’t change it.  Why do I say this?’
+A low murmur of pity went round the throng, and the women wept aloud, as
+this form, almost without form, was moved very slowly from its iron
+deliverance, and laid upon the bed of straw.  At first, none but the
+surgeon went close to it.  He did what he could in its adjustment on the
+couch, but the best that he could do was to cover it.  That gently done,
+he called to him Rachael and Sissy.  And at that [[Time|time]] the pale, worn,
+patient face was seen looking up at the sky, with the broken right hand
+lying bare on the outside of the covering garments, as if waiting to be
+taken by another hand.
 
-‘Not, I [[Fear|fear]],’ observed Mr. Gradgrind, in a low voice, ‘to spare me.’
+They gave him drink, moistened his face with [[Water|water]], and administered some
+drops of cordial and wine.  Though he lay quite motionless looking up at
+the sky, he smiled and said, ‘Rachael.’  She stooped down on the grass at
+his side, and bent over him until her eyes were between his and the sky,
+for he could not so much as turn them to look at her.
 
-‘Hear me out,’ said Bounderby, ‘and refrain from cutting in till your
-turn comes round.  I say this, because highly connected females have been
-astonished to see the way in which your daughter has conducted herself,
-and to witness her insensibility.  They have wondered how I have suffered
-it.  And I [[Wonder|wonder]] myself now, and I won’t suffer it.’
+‘Rachael, my dear.’
 
-‘Bounderby,’ returned Mr. Gradgrind, rising, ‘the less we say to-[[Night|night]]
-the better, I think.’
+She took his hand.  He smiled again and said, ‘Don’t let ’t go.’
 
-‘On the contrary, [[Tom Gradgrind]], the more we say to-[[Night|night]], the better, I
-think.  That is,’ the consideration checked him, ‘till I have said all I
-mean to say, and then I don’t care how soon we stop.  I come to a
-question that may shorten the business.  What do you mean by the proposal
-you made just now?’
+‘Thou’rt in great [[Pain|pain]], my own dear Stephen?’
 
-‘What do I mean, Bounderby?’
+‘I ha’ been, but not now.  I ha’ been—dreadful, and dree, and long, my
+dear—but ’tis ower now.  Ah, Rachael, aw a muddle!  Fro’ first to last, a
+muddle!’
 
-‘By your visiting proposition,’ said Bounderby, with an inflexible jerk
-of the hayfield.
+The spectre of his old look seemed to pass as he said the word.
 
-‘I mean that I [[Hope|hope]] you may be induced to arrange in a friendly manner,
-for allowing Louisa a period of repose and reflection here, which may
-tend to a gradual alteration for the better in many respects.’
+‘I ha’ fell into th’ pit, my dear, as have cost wi’in the knowledge o’
+old fok now livin, hundreds and hundreds o’ men’s lives—fathers, sons,
+brothers, dear to thousands an’ thousands, an’ keeping ’em fro’ want and
+hunger.  I ha’ fell into a pit that ha’ been wi’ th’ Firedamp crueller
+than battle.  I ha’ read on ’t in the public petition, as onny one may
+read, fro’ the men that works in pits, in which they ha’ pray’n and
+pray’n the lawmakers for [[Christ]]’s sake not to let their work be murder to
+’em, but to spare ’em for th’ wives and children that they loves as [[Well|well]]
+as gentlefok loves theirs.  When it were in work, it killed wi’out need;
+when ’tis let [[Alone|alone]], it kills wi’out need.  See how we die an’ no need,
+one way an’ another—in a muddle—every day!’
 
-‘To a softening down of your ideas of the incompatibility?’ said
-Bounderby.
+He faintly said it, without any anger against any one.  Merely as the
+[[Truth|truth]].
 
-‘If you put it in those terms.’
+‘Thy little sister, Rachael, thou hast not forgot her.  Thou’rt not like
+to forget her now, and me so nigh her.  Thou know’st—poor, patient,
+suff’rin, dear—how thou didst work for her, seet’n all day long in her
+little chair at thy winder, and how she died, young and misshapen, awlung
+o’ sickly air as had’n no need to be, an’ awlung o’ working people’s
+miserable homes.  A muddle!  Aw a muddle!’
 
-‘What made you think of this?’ said Bounderby.
+Louisa approached him; but he could not see her, lying with his face
+turned up to the [[Night|night]] sky.
 
-‘I have already said, I [[Fear|fear]] Louisa has not been understood.  Is it
-asking too much, Bounderby, that you, so far her elder, should aid in
-trying to set her right?  You have accepted a great charge of her; for
-better for worse, for—’
+‘If aw th’ things that tooches us, my dear, was not so muddled, I
+should’n ha’ had’n need to coom heer.  If we was not in a muddle among
+ourseln, I should’n ha’ been, by my own fellow weavers and workin’
+brothers, so mistook.  If Mr. Bounderby had ever know’d me right—if he’d
+ever know’d me at aw—he would’n ha’ took’n offence wi’ me.  He would’n
+ha’ suspect’n me.  But look up yonder, Rachael!  Look aboove!’
 
-Mr. Bounderby may have been annoyed by the repetition of his own words to
-[[Stephen Blackpool]], but he cut the quotation short with an angry start.
+Following his eyes, she saw that he was gazing at a star.
 
-‘Come!’ said he, ‘I don’t want to be told about that.  I know what I took
-her for, as [[Well|well]] as you do.  Never you mind what I took her for; that’s
-my look out.’
+      [Picture: [[Stephen Blackpool]] recovered from the Old Hell Shaft]
 
-‘I was merely going on to remark, Bounderby, that we may all be more or
-less in the wrong, not even excepting you; and that some yielding on your
-part, remembering the trust you have accepted, may not only be an act of
-true kindness, but perhaps a debt incurred towards Louisa.’
+‘It ha’ shined upon me,’ he said reverently, ‘in my [[Pain|pain]] and trouble down
+below.  It ha’ shined into my mind.  I ha’ look’n at ’t and thowt o’
+thee, Rachael, till the muddle in my mind have cleared awa, above a bit,
+I [[Hope|hope]].  If soom ha’ been wantin’ in unnerstan’in me better, I, too, ha’
+been wantin’ in unnerstan’in them better.  When I got thy letter, I
+easily believen that what the yoong ledy sen and done to me, and what her
+brother sen and done to me, was one, and that there were a wicked plot
+betwixt ’em.  When I fell, I were in anger wi’ her, an’ hurryin on t’ be
+as onjust t’ her as oothers was t’ me.  But in our judgments, like as in
+our doins, we mun bear and forbear.  In my [[Pain|pain]] an’ trouble, lookin up
+yonder,—wi’ it shinin on me—I ha’ seen more clear, and ha’ made it my
+dyin [[prayer]] that aw th’ world may on’y coom toogether more, an’ get a
+better unnerstan’in o’ one another, than when I were in ’t my own weak
+seln.’
 
-‘I think differently,’ blustered Bounderby.  ‘I am going to finish this
-business according to my own opinions.  Now, I don’t want to make a
-quarrel of it with you, [[Tom Gradgrind]].  To tell you the [[Truth|truth]], I don’t
-think it would be worthy of my reputation to quarrel on such a subject.
-As to your gentleman-friend, he may take himself off, wherever he likes
-best.  If he falls in my way, I shall tell him my mind; if he don’t fall
-in my way, I shan’t, for it won’t be worth my while to do it.  As to your
-daughter, whom I made Loo Bounderby, and might have done better by
-leaving Loo Gradgrind, if she don’t come [[Home|home]] to-morrow, by twelve
-o’[[Clock|clock]] at [[Noon|noon]], I shall understand that she prefers to stay away, and I
-shall send her wearing apparel and so forth over here, and you’ll take
-charge of her for the future.  What I shall say to people in general, of
-the incompatibility that led to my so laying down the law, will be this.
-I am [[Josiah Bounderby]], and I had my bringing-up; she’s the daughter of
-[[Tom Gradgrind]], and she had her bringing-up; and the two horses wouldn’t
-pull together.  I am pretty [[Well|well]] known to be rather an uncommon man, I
-believe; and most people will understand fast enough that it must be a
-woman rather out of the common, also, who, in the long run, would come up
-to my mark.’
+Louisa hearing what he said, bent over him on the opposite side to
+Rachael, so that he could see her.
 
-‘Let me seriously entreat you to reconsider this, Bounderby,’ urged Mr.
-Gradgrind, ‘before you commit yourself to such a decision.’
+‘You ha’ heard?’ he said, after a few moments’ [[Silence|silence]].  ‘I ha’ not
+forgot you, ledy.’
 
-‘I always come to a decision,’ said Bounderby, tossing his hat on: ‘and
-whatever I do, I do at once.  I should be surprised at [[Tom Gradgrind]]’s
-addressing such a remark to [[Josiah Bounderby]] of Coketown, knowing what he
-knows of him, if I could be surprised by anything [[Tom Gradgrind]] did,
-after his making himself a party to sentimental humbug.  I have given you
-my decision, and I have got no more to say.  Good [[Night|night]]!’
+‘Yes, Stephen, I have heard you.  And your [[prayer]] is mine.’
 
-So Mr. Bounderby went [[Home|home]] to his town [[house]] to bed.  At five minutes
-past twelve o’[[Clock|clock]] next day, he directed Mrs. Bounderby’s property to be
-carefully packed up and sent to [[Tom Gradgrind]]’s; advertised his country
-retreat for sale by private contract; and resumed a bachelor life.
+‘You ha’ a father.  Will yo tak’ a message to him?’
+
+‘He is here,’ said Louisa, with dread.  ‘Shall I bring him to you?’
+
+‘If yo please.’
+
+Louisa returned with her father.  Standing hand-in-hand, they both looked
+down upon the solemn countenance.
+
+‘Sir, yo will clear me an’ mak my name good wi’ aw men.  This I leave to
+yo.’
+
+Mr. Gradgrind was troubled and asked how?
+
+‘Sir,’ was the reply: ‘yor son will tell yo how.  Ask him.  I mak no
+charges: I leave none ahint me: not a single word.  I ha’ seen an’ spok’n
+wi’ yor son, one [[Night|night]].  I ask no more o’ yo than that yo clear me—an’ I
+trust to yo to do ’t.’
+
+The bearers being now ready to carry him away, and the surgeon being
+anxious for his removal, those who had torches or lanterns, prepared to
+go in front of the litter.  Before it was raised, and while they were
+arranging how to go, he said to Rachael, looking upward at the star:
+
+‘Often as I coom to myseln, and found it shinin’ on me down there in my
+trouble, I thowt it were the star as guided to Our Saviour’s [[Home|home]].  I
+awmust think it be the very star!’
+
+They lifted him up, and he was overjoyed to find that they were about to
+take him in the direction whither the star seemed to him to lead.
+
+‘Rachael, beloved lass!  Don’t let go my hand.  We may walk toogether
+t’[[Night|night]], my dear!’
+
+‘I will hold thy hand, and keep beside thee, Stephen, all the way.’
+
+‘Bless thee!  Will soombody be pleased to coover my face!’
+
+They carried him very gently along the fields, and down the lanes, and
+over the wide landscape; Rachael always holding the hand in hers.  Very
+few whispers broke the mournful [[Silence|silence]].  It was soon a funeral
+procession.  The star had shown him where to find the God of the poor;
+and through [[Humility|humility]], and sorrow, and [[Forgiveness|forgiveness]], he had gone to his
+Redeemer’s rest.

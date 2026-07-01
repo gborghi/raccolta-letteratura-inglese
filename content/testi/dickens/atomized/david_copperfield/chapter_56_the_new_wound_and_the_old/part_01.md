@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 56: THE NEW WOUND, AND THE OLD (part 1)"
+title: "David Copperfield — Chapter 56: THE NEW WOUND, AND THE OLD (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -143,8 +143,3 @@ That Mrs. Steerforth might not be induced to look behind her, and read,
 plainly written, what she was not yet prepared to know, I met her look
 quickly; but I had seen Rosa Dartle throw her hands up in the air with
 vehemence of [[Despair|despair]] and horror, and then clasp them on her face.
-
-The handsome lady--so like, oh so like!--regarded me with a fixed look,
-and put her hand to her forehead. I besought her to be calm, and prepare
-herself to bear what I had to tell; but I should rather have entreated
-her to weep, for she sat like a stone figure.

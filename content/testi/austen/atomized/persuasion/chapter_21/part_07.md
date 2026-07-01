@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 21 (part 7)"
+title: "Persuasion — Chapter 21 (part 7)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -13,6 +13,44 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_21/part_06">‹ part 06</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_22/part_01">part 01 ›</a></div>
 </nav>
 
+
+could have been worse. She had a great deal to listen to; all the
+
+particulars of past sad scenes, all the minutiae of distress upon
+
+distress, which in former conversations had been merely hinted at, were
+
+dwelt on now with a natural indulgence. Anne could perfectly comprehend
+
+the exquisite relief, and was only the more inclined to [[Wonder|wonder]] at the
+
+composure of her friend’s usual state of mind.
+
+
+
+There was one circumstance in the [[history]] of her grievances of
+
+particular irritation. She had good reason to believe that some
+
+property of her husband in the West Indies, which had been for many
+
+years under a sort of sequestration for the payment of its own
+
+incumbrances, might be recoverable by proper measures; and this
+
+property, though not large, would be enough to make her comparatively
+
+rich. But there was nobody to stir in it. Mr Elliot would do nothing,
+
+and she could do nothing herself, equally disabled from personal
+
+exertion by her state of bodily weakness, and from employing others by
+
+her want of money. She had no natural connexions to assist her even
+
+with their counsel, and she could not afford to purchase the assistance
+
+of the law. This was a cruel aggravation of actually straitened means.
 
 To feel that she ought to be in better circumstances, that a little
 

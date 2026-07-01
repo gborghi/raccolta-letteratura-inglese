@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/the-old-curiosity-shop-(dickens)">The Old Curiosity Shop</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_old_curiosity_shop/chapter_52/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/the_old_curiosity_shop/chapter_53/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_old_curiosity_shop/chapter_52/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/the_old_curiosity_shop/chapter_53/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -136,15 +136,3 @@ its brink.
 ‘What is it but a [[Grave|grave]]!’ said the sexton.  ‘What else!  And which of
 our old folks, knowing all this, thought, as the [[spring]] subsided, of
 their own failing strength, and lessening life?  Not one!’
-
-‘Are you very old yourself?’ asked the [[Child|child]], involuntarily.
-
-‘I shall be seventy-nine--next [[Summer|summer]].’
-
-‘You still work when you are [[Well|well]]?’
-
-‘Work!  To be sure.  You shall see my gardens hereabout.  Look at the
-[[Window|window]] there.  I made, and have kept, that plot of ground entirely with
-my own hands.  By this [[Time|time]] next year I shall hardly see the sky, the
-boughs will have grown so thick.  I have my [[Winter|winter]] work at [[Night|night]]
-besides.’

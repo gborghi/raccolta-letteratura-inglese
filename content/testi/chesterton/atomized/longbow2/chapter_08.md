@@ -1,5 +1,5 @@
 ---
-title: "[[longbow2]] — Chapter 8"
+title: "longbow2 — Chapter 8"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/longbow2-(chesterton)"
@@ -22,23 +22,23 @@ of the League of the Long Bow
 Mr. Robert Owen Hood came through his library that was lined with brown
 leather volumes with a brown paper parcel in his hand; a flippant person
 (such as his friend Mr. Pierce) might have said he was in a brown study. 
-He came out into the sunlight of his [[Garden|garden]], however, where his
+He came out into the sunlight of his garden, however, where his
 wife was arranging tea-things, for she was expecting visitors. 
 Even in the strong daylight he looked strangely little altered,
 despite the long and catastrophic period that had passed since he
 had met her in the Thames valley and managed really to set the Thames
-on [[Fire|fire]].  That [[Fire|fire]] had since spread in space and [[Time|time]] and become
+on fire.  That fire had since spread in space and time and become
 a conflagration in which much of modern civilization had been consumed;
 but in which (as its advocates alleged) English agriculture had been
-saved and a new and more hopeful chapter opened in English [[history]]. 
+saved and a new and more hopeful chapter opened in English history. 
 His angular face was rather more lined and wrinkled, but his straight
 shock of copper-coloured hair was as unchanged as if it had been
 a copper-coloured wig.  His wife Elizabeth was even less marked,
 for she was younger; she had the same slightly nervous or short-sighted
-look in the eyes that was like a humanizing touch to her [[Beauty|beauty]] made
+look in the eyes that was like a humanizing touch to her beauty made
 of ivory and gold.  But though she was not old she had always been
 a little old-fashioned; for she came of a forgotten aristocracy whose
-women had moved with a certain gravity as [[Well|well]] as grace about the old
+women had moved with a certain gravity as well as grace about the old
 country houses, before coronets were sold like cabbages or the Jews
 lent money to the squires.  But her husband was old-fashioned too;
 though he had just taken part in a successful revolution and bore
@@ -49,44 +49,44 @@ was a weakness for his wife being a lady--especially that lady.
 "you've been buying more old books."
 
 "As it happens, these are particularly new books," he replied;
-"but I suppose in one sense it's all ancient [[history]] now."
+"but I suppose in one sense it's all ancient history now."
 
-"What ancient [[history]]?" she asked.  "Is it a [[history|History]] of Babylon
+"What ancient history?" she asked.  "Is it a History of Babylon
 or prehistoric China?"
 
-"It is a [[history|History]] of Us."
+"It is a History of Us."
 
-"I [[Hope|hope]] not," she said; "but what do you mean?"
+"I hope not," she said; "but what do you mean?"
 
-"I mean it's a [[history]] of Our Revolution," said Owen Hood, "a true
+"I mean it's a history of Our Revolution," said Owen Hood, "a true
 and authentic account of the late glorious victories, as the old
 broadsheets said.  The Great War of 1914 started the fashion of
-bringing out the [[history]] of events almost before they'd happened. 
+bringing out the history of events almost before they'd happened. 
 There were standard histories of that war while it was still going on. 
 Our little civil war is at least finished, thank God; and this is
-the brand-new [[history]] of it.  Written by a rather clever fellow,
+the brand-new history of it.  Written by a rather clever fellow,
 detached but understanding and a little ironical on the right side. 
 Above all, he gives quite a good description of the Battle of
 the Bows."
 
-"I shouldn't call that our [[history]]," said Elizabeth quietly. 
-"I'm devoutly thankful that nobody can ever write our [[history]] or put
-it in a book.  Do you remember when you jumped into the [[Water|water]] after
-the [[Flowers|flowers]]?  I fancy it was then that you really set the Thames
-on [[Fire|fire]]."
+"I shouldn't call that our history," said Elizabeth quietly. 
+"I'm devoutly thankful that nobody can ever write our history or put
+it in a book.  Do you remember when you jumped into the water after
+the flowers?  I fancy it was then that you really set the Thames
+on fire."
 
-"With my red hair, no [[Doubt|doubt]]," he replied; "but I don't think I did set
-the Thames on [[Fire|fire]].  I think it was the Thames that set me on [[Fire|fire]]. 
+"With my red hair, no doubt," he replied; "but I don't think I did set
+the Thames on fire.  I think it was the Thames that set me on fire. 
 Only you were always the spirit of the stream and the goddess
 of the valley."
 
-"I [[Hope|hope]] I'm not quite so old as that," answered Elizabeth.
+"I hope I'm not quite so old as that," answered Elizabeth.
 
 "Listen to this," cried her husband, turning over the pages
 of the book.  "`According to the general belief, which prevailed
-until the recent success of the agrarian movement of the Long Bow,
+until the recent [[success]] of the agrarian movement of the Long Bow,
 it was overwhelmingly improbable that a revolutionary change could
-be effected in England.  The recent success of the agrarian protest--'"
+be effected in England.  The recent [[success]] of the agrarian protest--'"
 
 "Do come out of that book," remonstrated his wife.  "One of our
 visitors has just arrived."
@@ -99,16 +99,16 @@ way and his eagle face eager or indignant; and his conversation like
 his correspondence came in a rush and was too explosive to be explanatory.
 
 "I say," he cried, "I've come to talk to you about that idea,
-you know--Enoch Oates wrote about it from America, and he's a jolly
-good fellow and all that; but after all he does come from America,
+you know--Enoch Oates wrote about it from [[America]], and he's a jolly
+good fellow and all that; but after all he does come from [[America]],
 and so he thinks it's quite easy.  But you can see for yourself it
 isn't quite so easy, what with Turks and all that.  It's all very
-well to talk about the Unites States--"
+[[Well|well]] to talk about the Unites States--"
 
 "Never you mind about the United States," said Hood easily; "I think
 I'm rather in favour of the Heptarchy.  You just listen to this;
-the epic of our own Heptarchy, the story of our own dear little
-domestic war.  `The recent [[success]] of the agrarian protest--'"
+the [[Epic|epic]] of our own Heptarchy, the story of our own dear little
+domestic war.  `The recent success of the agrarian protest--'"
 
 He was interrupted again by the arrival of two more guests;
 by the silent entrance of Colonel Crane and the very noisy entrance
@@ -118,7 +118,7 @@ inn of the Blue Boar.  White's wife was still in the country,
 and Crane's having long been busy in her studio with war-posters,
 was now equally busy with peace-posters.
 
-Hood was one of those men whom books almost literally seize and [[Swallow|swallow]],
+Hood was one of those men whom books almost literally seize and swallow,
 like monsters with leather or paper jaws.  It was no exaggeration
 to say he was deep in a book as an incautious traveller might be
 deep in a swamp or some strange man-eating plant of the tropics;
@@ -128,34 +128,34 @@ on reading; or he would suddenly begin to read aloud with great passion,
 arguing with somebody in the book without reference to anybody
 in the room.  Though not normally rude, he would drift through
 other people's drawing-rooms towards other people's bookshelves
-and disappear into them, so to speak, like a rusty family [[Ghost|ghost]]. 
+and disappear into them, so to speak, like a rusty family ghost. 
 He would travel a hundred miles to see a friend for an hour,
 and then waste half an hour with his head in some odd volume he
 never happened to have seen before.  On all that side of him there
 was a sort of almost creepy unconsciousness.  His wife, who had
-old-world notions of the graces of a hostess, sometimes had [[Double|double]]
+old-world notions of the graces of a hostess, sometimes had double
 work to do.
 
-"The recent [[success]] of the agrarian protest," began Hood cheerfully
-as his wife [[Rose|rose]] swiftly to receive two more visitors.  These were
-Professor Green and Commander Bellew Blair; for a queer [[Friendship|friendship]]
+"The recent success of the agrarian protest," began Hood cheerfully
+as his wife rose swiftly to receive two more visitors.  These were
+Professor Green and Commander Bellew Blair; for a queer friendship
 had long linked together the most practical and the most unpractical
-of the brothers of the Long Bow.  The [[Friendship|friendship]], as Pierce remarked,
+of the brothers of the Long Bow.  The friendship, as Pierce remarked,
 was firmly rooted in the square root of minus infinity.
 
-"How beautiful your [[Garden|garden]] is looking," said Blair to his hostess. 
+"How beautiful your garden is looking," said Blair to his hostess. 
 "One so seldom sees flower-beds like that now; but I shall always
 think the old gardeners were right."
 
 "Most things are old-fashioned here, I'm afraid," replied Elizabeth,
 "but I always like them like that.  And how are the children?"
 
-"The recent [[success]] of the agrarian protest," remarked her husband
+"The recent success of the agrarian protest," remarked her husband
 in a clear voice, "is doubtless--"
 
 "Really," she said, laughing, "you are too ridiculous for anything. 
-Why in the world should you want to read out the [[history]] of the war
-to the people who were in it, and know quite [[Well|well]] already what
+Why in the world should you want to read out the history of the war
+to the people who were in it, and know quite well already what
 really happened?"
 
 "I beg your pardon," said Colonel Crane.  "Very improper to
@@ -166,7 +166,7 @@ of what never happened."
 
 "Why, then you'd better go on reading, Hood," said Hilary Pierce. 
 "The Colonel wants to know whether he was killed in battle;
-or whether there was any [[Truth|truth]] in that story that he was hanged
+or whether there was any truth in that story that he was hanged
 as a spy on the very tree he had climbed when running away as
 a deserter."
 
@@ -178,7 +178,7 @@ as a whole."
 
 "Perhaps," began Blair, "we had better--"
 
-"The recent [[success]] of the agrarian protest," remarked Hood
+"The recent success of the agrarian protest," remarked Hood
 in authoritative tones, "is doubtless to be attributed largely
 to the economic advantage belonging to an agrarian population. 
 It can feed the town or refuse to feed the town; and this question
@@ -188,7 +188,7 @@ Paddington Station in the first days of the rebellion.  Men who
 had grown used to seeing on innumerable mornings the innumerable
 ranks and rows of great milk-cans, looking leaden in a grey
 and greasy light, found themselves faced with a blank, in which
-those neglected things shone in the [[Memory|memory]] like stolen silver. 
+those neglected things shone in the memory like stolen silver. 
 It was true, as Sir Horace Hunter eagerly pointed out when he was
 put in command of the highly hygienic problem of the milk supply,
 that there would be no difficulty about manufacturing the metal cans,
@@ -198,7 +198,7 @@ been of the opinion, the learned doctor explained, that the shape
 of the cans, especially the small cans left outside poor houses,
 left much to be desired, and the whole process of standing these
 small objects about in the basements of private houses was open
-to [[Grave|grave]] objection in the matter of waste of space.  The public,
+to grave objection in the matter of waste of space.  The public,
 however, showed an indifference to this new issue and a disposition
 to go back on the old demand for milk; in which matter, they said,
 there was an unfair advantage for the man who possessed a cow over
@@ -216,7 +216,7 @@ There was every reason to believe that the people, especially the
 young people, of the village often evaded the regulation about the
 gutta-percha masks, and the rule requiring the worker to paint himself
 all over with an antiseptic gum; and the sending of inspectors from
-London to see that these rules were enforced led to lamentable scenes
+[[London]] to see that these rules were enforced led to lamentable scenes
 of violence.  It would be an error, however, to attribute the whole
 of this great social convulsion to any local agricultural dispute. 
 The causes must also be sought in the general state of society,
@@ -227,28 +227,28 @@ in the form of Land Nationalization; and the General Election
 which was the result of this departure fell largely into the hands
 of his lieutenants like Hunter and Low.  It soon became apparent
 that some of the illusions of the Eden epoch had worn rather thin. 
-It was found that the democracy could not always be intimidated
-even by the threat of consulting them about the choice of a Government.
+It was found that the [[democracy]] could not always be intimidated
+even by the threat of consulting them about the choice of a [[government|Government]].
 
 "Nor can it be denied that the General Election of 19-- was from
 the first rendered somewhat unreal by certain legal fictions
 which had long been spreading.  There was a custom, originating in
-the harmless and humane deception used upon excited maiden ladies
+the harmless and humane [[Deception|deception]] used upon excited maiden ladies
 from the provinces, by which the private secretaries of the Prime
 Minister would present themselves as that politician himself;
-sometimes completing the innocent illusion by brushing their hair,
+sometimes completing the [[Innocent|innocent]] illusion by brushing their hair,
 waxing their moustaches or wearing their eyeglasses in the manner
 of their master.  When this custom was extended to public platforms it
 cannot be denied that it became more questionable.  In the last days
 of that venerable statesman it has been asserted that there were no
-less than five Lloyd Georges touring the country at the same time,
+less than five Lloyd Georges touring the country at the same [[Time|time]],
 and that the contemporary Chancellor of the Exchequer had appeared
-simultaneously in three cities on the same night, while the original
+simultaneously in three cities on the same [[Night|night]], while the original
 of all these replicas, the popular and brilliant Chancellor himself,
-was enjoying a well-earned rest by the Lake of Como.  The incident
+was enjoying a [[Well|well]]-earned rest by the Lake of Como.  The incident
 of two identical Lord Smiths appearing side by side on the same
 platform (through a miscalculation of the party agents), though
-received with good humour and honest merriment by the audience,
+received with good [[Humour|humour]] and honest merriment by the audience,
 did but little good to the serious credit of parliamentary institutions. 
 There was of course a certain exaggeration in the suggestion
 of the satirist that a whole column of identical Prime Ministers,
@@ -266,7 +266,7 @@ merely formal, like a decorative pattern or border.  But it cannot be
 denied that the universal use of this phrase, combined with the equally
 universal sense of the unfairness of expecting any politician to carry
 it out, somewhat weakened the force of words in political affairs. 
-It would have been [[Well|well]] if statesmen had confined themselves to these
+It would have been well if statesmen had confined themselves to these
 accepted and familiar formalities.  Unfortunately, under the stress
 of the struggle which arose out of the menacing organization of
 the League of the Long Bow, they sought to dazzle their followers
@@ -281,39 +281,39 @@ The great philanthropist unquestionably had the highest intentions,
 both in his rash promise and his more reasonable fulfilment. 
 But when the munitions-workers found that the champagne-bottles,
 though carefully covered with the most beautiful gold-foil, contained
-in fact nothing but hygienically boiled [[Water|water]], the result was a sudden
+in fact nothing but hygienically boiled water, the result was a sudden
 and sensational strike, which paralysed the whole output of munitions
 and led to the first incredible victories of the League of the Long Bow.
 
 "There followed in consequence one of the most amazing wars
-of human [[history]]--a one-sided war.  One side would have been
+of human history--a one-sided war.  One side would have been
 insignificant if the other had not been impotent.  The minority could
 not have fought for long; only the majority could not fight at all. 
 There prevailed through the whole of the existing organizations
-of society a universal distrust that turned them into a [[Dust|dust]]
+of society a universal distrust that turned them into a dust
 of disconnected atoms.  What was the use of offering men higher
 pay when they did not believe they would ever receive it, but only
 alluded jeeringly to Lord Normantowers and his brand of champagne? 
 What was the use of telling every man that he would have a bonus,
 when you had told him for twenty years that he would soon be
 a millionaire?  What was the good of the Prime Minister pledging
-his [[Honour|honour]] in a ringing voice on platform after platform, when it
+his honour in a ringing voice on platform after platform, when it
 was already an open jest that it was not the Prime Minister at all? 
-The [[government|Government]] voted taxes and they were not paid.  It mobilized
+The Government voted taxes and they were not paid.  It mobilized
 armies and they did not move.  It introduced the pattern of a new
 all-pulverizing gun, and nobody would make it and nobody would
-[[Fire|fire]] it off.  We all remember the romantic crisis when no less
+fire it off.  We all remember the romantic crisis when no less
 a genius than Professor Hake came to Sir Horace Hunter, the Minister
 of Scientific Social Organization, with a new explosive capable
 of shattering the whole geological formation of Europe and sinking
-these islands in the Atlantic, but was unable to induce the [[cabman]]
+these islands in the Atlantic, but was unable to induce the cabman
 or any of the clerks to assist him in lifting it out of the cab.
 
 "Against all this anarchy of broken promises the little organization
 of the League of the Long Bow stood solid and loyal and dependable. 
 The Long Bowmen had become popular by the nickname of the Liars. 
-Everywhere the jest or catchword was repeated like a [[Song|song]],
-`Only the Liars Tell the Truth.'  They found more and more men
+Everywhere the jest or catchword was repeated like a song,
+`Only the Liars Tell the [[Truth]].'  They found more and more men
 to work and fight for them, because it was known that they would
 pay whatever wages they promised, and refuse to promise anything
 that they could not perform.  The nickname became an ironical symbol
@@ -329,7 +329,7 @@ by the money of an American crank to establish it in a widespread
 fashion across the west of England, they took the more serious task
 with the same tenacity.  When their foes mocked them with `the myth
 of three acres and a cow,' they answered:  `Yes, it is as mythical
-as the cow that jumped over the moon.  But our myths come true.'
+as the cow that jumped over the [[Moon|moon]].  But our myths come true.'
 
 "The inexplicable and indeed incredible conclusion of the story was due
 to a new fact; the fact of the actual presence of the new peasantry. 
@@ -340,23 +340,23 @@ Eden and his Cabinet finally committed themselves to the scheme
 of Land Nationalization by which their homesteads were to pass
 into official control.  That curious and inexplicable thing,
 the spirit of the peasant, had made great strides in the interval. 
-It was found that the Government could not move such people about
+It was found that the [[government|Government]] could not move such people about
 from place to place, as it is possible to do with the urban poor
 in the reconstruction of streets or the destruction of slums. 
 It was not a thing like moving pawns, but a thing like pulling
 up plants; and plants that had already struck their roots very deep. 
-In short, the Government, which had already adopted a policy commonly
+In short, the [[government|Government]], which had already adopted a policy commonly
 called Socialist from motives that were in fact very conservative,
 found itself confronted with the same peasant resistance as brought
-the Bolshevist Government in Russia to a standstill.  And when Lord
+the Bolshevist [[government|Government]] in [[Russia]] to a standstill.  And when Lord
 Eden and his Cabinet put in motion the whole modern machinery of
 militarism and coercion to crush the little experiment, he found himself
 confronted with a rural rising such as has not been known in England
 since the Middle Ages.
 
 "It is said that the men of the Long Bow carried their mediaeval
-symbolism so far as to wear Lincoln green as their uniform when they
-retired to the woods in the manner of Robin Hood.  It is certain
+symbolism so far as to wear [[Lincoln]] green as their uniform when they
+retired to the woods in the manner of [[Robin Hood]].  It is certain
 that they did employ the weapon after which they were named;
 and curiously enough, as will be seen, by no means without effect. 
 But it must be clearly understood that when the new agrarian class took
@@ -368,7 +368,7 @@ Therefore when Lord Eden proclaimed Nationalization, they turned
 out in thousands as their fathers would have gone out against pirates
 or wolves.
 
-"The Government acted with great promptitude.  It instantly
+"The [[government|Government]] acted with great promptitude.  It instantly
 voted 50,000 pounds to Mr. Rosenbaum Low, the expenditure of
 which was wisely left to his discretion at so acute a crisis,
 with no more than the understanding that he should take a thorough
@@ -376,7 +376,7 @@ general survey of the situation.  He proved worthy of the trust;
 and it was with the gravest consideration and sense of responsibility
 that he selected Mr. Leonard Kramp, the brilliant young financier,
 from all his other nephews to take command of the forces in the field. 
-In the field, however, fortune is well known to be somewhat
+In the field, however, fortune is [[Well|well]] known to be somewhat
 more incalculable; and all the intelligence and presence of mind
 that had enabled Kramp to postpone the rush on the Potosi Bank
 were not sufficient to balance the accidental possession by Crane
@@ -389,16 +389,16 @@ scientific resources of a kind; and an effective if eccentric kind.
 The scientific genius of Bellew Blair had equipped his side
 with many secret processes affecting aviation and aeronautics,
 and it is the peculiarity of this extraordinary man that his
-secret processes really remained for a considerable time secret. 
+secret processes really remained for a considerable [[Time|time]] secret. 
 For he had not told them to anybody with any intention of making
 any money out of them.  This quixotic and visionary behaviour
 contrasted sharply with the shrewd good sense of the great business
-men who know that publicity is the soul of business.  For some
-time past they had successfully ignored the outworn sentimental
+men who know that publicity is the [[Soul|soul]] of business.  For some
+[[Time|time]] past they had successfully ignored the outworn sentimental
 prejudice that had prevented soldiers and sailors from advertising
 the best methods of defeating the enemy; and we can all recall
 those brilliantly coloured announcements which used to brighten
-so many hoardings in those days, `Sink in [[smith|Smith]]'s Submarine;
+so many hoardings in those days, `Sink in Smith's Submarine;
 Pleasure Trips for Patriots.'  Or `Duffin's Portable Dug-Out Makes
 War a Luxury.'  Advertisement cannot fail to effect its aim;
 the name of an aeroplane that had been written on the sky in pink
@@ -407,25 +407,25 @@ of the air; and the patriotic statesman, deeply considering
 what sort of battleship might best defend his country's coasts,
 was insensibly and subtly influenced by the number of times that he
 had seen its name repeated on the steps of a moving staircase
-at an Imperial Exhibition.  Nor could there be any doubt about
-the brilliant success that attended these scientific specialties
+at an Imperial Exhibition.  Nor could there be any [[Doubt|doubt]] about
+the brilliant [[success]] that attended these scientific specialties
 so long as their operations were confined to the market. 
 The methods of Commander Blair were in comparison private, local,
 obscure and lacking any general recognition; and by a strange irony
 it was a positive advantage to this nameless and secretive crank
 that he had never advertised his weapons until he used them. 
 He had paraded a number of merely fanciful balloons and fireworks
-for a jest; but the secrets to which he attached importance he had
-hidden in cracks of the Welsh mountains with a curious and callous
+for a jest; but the [[Secrets|secrets]] to which he attached importance he had
+hidden in cracks of the Welsh [[Mountains|mountains]] with a curious and callous
 indifference to the principles of commercial distribution and display. 
 He could not in any case have conducted operations on so large
 a scale, being deficient in that capital, the lack of which has
 so often been fatal to inventors; and had made it useless for a man
-to discover a machine unless he could also discover a millionaire. 
-But it cannot be denied that when his machine was brought into
+to discover a [[Machine|machine]] unless he could also discover a millionaire. 
+But it cannot be denied that when his [[Machine|machine]] was brought into
 operation it was always operative, even to the point of killing
 the millionaire who might have financed it.  For the millionaire had
-so persistently cultivated the virtues of self-advertisement that it
+so persistently cultivated the virtues of [[Self|self]]-advertisement that it
 was difficult for him to become suddenly unknown and undistinguished,
 even in scenes of conflict where he most ardently desired to do so. 
 There was a movement on foot for treating all millionaires as
@@ -443,13 +443,13 @@ listening eagerly, "that he said I was personal.  Just at the moment
 when I was trying to wave away all personal features that could
 come between us, he actually said I was personal."
 
-Hood went on reading as if nobody had spoken.  "In truth the successes of
+Hood went on reading as if nobody had spoken.  "In [[Truth|truth]] the successes of
 Blair's instruments revealed a fallacy in the common commercial argument. 
 We talk of a competition between two kinds of soap or two kinds of jam
 or cocoa, but it is a competition in purchase and not in practice. 
 We do not make two men eat two kinds of jam and then observe which
 wears the most radiant smile of satisfaction.  We do not give two men
-two kinds of cocoa and note which endures it with most resignation. 
+two kinds of cocoa and note which endures it with most [[Resignation|resignation]]. 
 But we do use two guns directly against each other; and in the case
 of Blair's methods the less advertised gun was the better. 
 Nevertheless his scientific genius could only cover a corner of the field;
@@ -461,29 +461,29 @@ of Crane and Pierce were gross violations of strategic science.
 The victors themselves afterwards handsomely acknowledged the fact;
 but it was then too late to repair the error.  In order to understand
 it, however, it is necessary to grasp the curious condition into
-which so many elements of social life had sunk in the time just
+which so many elements of social life had sunk in the [[Time|time]] just
 preceding the outbreak.  It was this strange social situation which
 rendered the campaign a contradiction to so many sound military maxims.
 
 "For instance, it is a recognized military maxim that armies
 depend upon roads.  But anyone who had noticed the conditions that
-were already beginning to appear in the London streets as early
-as 1924 will understand that a road was something less simple
-and static than the Romans imagined.  The Government had adopted
-everywhere in their road-making the well-known material familiar
+were already beginning to appear in the [[London]] streets as early
+as 1924 will understand that a [[Road|road]] was something less simple
+and static than the Romans imagined.  The [[government|Government]] had adopted
+everywhere in their [[Road|road]]-making the [[Well|well]]-known material familiar
 to us all from the advertisements by the name of "Nobumpo,"
 thereby both insuring the comfort of travellers and rewarding
 a faithful supporter by placing a large order with Mr. Hugg. 
-As several members of the Government themselves held shares in Nobumpo
+As several members of the [[government|Government]] themselves held shares in Nobumpo
 their enthusiastic co-operation in the public work was assured. 
-But, as has no doubt been observed everywhere, it is one of the many
+But, as has no [[Doubt|doubt]] been observed everywhere, it is one of the many
 advantages of Nobumpo, as preserving that freshness of surface
 so agreeable to the pedestrian, that the whole material can be
 (and is) taken up and renewed every three months, for the comfort
 of travellers and the profit and encouragement of trade.  It so
 happened that at the precise moment of the outbreak of hostilities
 all the country roads, especially in the west, were as completely
-out of use as if they had been the main thoroughfares of London. 
+out of use as if they had been the main thoroughfares of [[London]]. 
 This in itself tended to equalize the chances or even to increase them
 in favour of a guerilla force, such as that which had disappeared
 into the woods and was everywhere moving under cover of the trees. 
@@ -503,12 +503,12 @@ Mechanical communications theoretically accelerate supply, while the supply
 of a force cut loose and living on the country is soon exhausted. 
 But the mechanical factor also depends upon a moral factor. 
 Ammunition would on normal occasions have been produced with unequalled
-rapidity by Poole's Process and brought up with unrivalled speed
+rapidity by Poole's Process and brought up with unrivalled [[Speed|speed]]
 in Blinker's Cars; but not at the moment when riotous employees were
 engaged in dipping Poole repeatedly in a large vat at the factory;
 or in the quieter conditions of the country-side, where various
 tramps were acquiring squatter's rights in Blinker's Cars,
-accidentally delayed upon their journey.  Everywhere the same
+accidentally delayed upon their [[Journey|journey]].  Everywhere the same
 thing happened; just as the great manufacturer failed to keep his
 promise to the workers who produced munitions, so the petty officials
 driving the lorries had failed to keep their promises to loafers
@@ -520,19 +520,19 @@ they could produce their own rude mediaeval weapons everywhere.
 It was in vain that Professor Hake delivered a series of popular
 lectures, proving to the lower classes that in the long run it
 would be to their economic advantage to be killed in battle. 
-Captain Pierce is reported to have said:  `I believe [[The Professor|the Professor]] is
-a botanist as [[Well|well]] as an economist; but as a botanist he has not yet
+Captain Pierce is reported to have said:  `I believe the Professor is
+a botanist as well as an economist; but as a botanist he has not yet
 discovered that guns and arrows do not grow on trees.  Bows and arrows do.'
 
-"But the incident which [[history]] will have most difficulty in explaining,
-and which it may perhaps refer to the region of myth or [[Romance|romance]],
+"But the incident which history will have most difficulty in explaining,
+and which it may perhaps refer to the region of myth or romance,
 is the crowning victory commonly called the Battle of the Bows. 
 It was indeed originally called `The Battle of the Bows of God';
 in reference to some strangely fantastic boast, equally strangely fulfilled,
 that is said to have been uttered by the celebrated Parson White,
 a sort of popular chaplain who seems to have been the Friar Tuck
-of this new band of Robin Hood.  Coming on a sort of embassy to Sir
-Horace Hunter, this clergyman is said to have threatened the Government
+of this new band of [[Robin Hood]].  Coming on a sort of embassy to Sir
+Horace Hunter, this clergyman is said to have threatened the [[government|Government]]
 with something like a miracle.  When rallied about the archaic
 sport of the long bow, he replied:  `Yes, we have long bows and we
 shall have longer bows; the longest bows the world has ever seen;
@@ -540,29 +540,29 @@ bows taller than houses; bows given to us by God Himself and big
 enough for His gigantic angels.'
 
 "The whole business of this battle, historic and decisive as
-it was, is covered with some obscurity, like that cloud of [[Storm|storm]]
+it was, is covered with some obscurity, like that cloud of storm
 that hung heavy upon the daybreak of that gloomy November day. 
-Had anyone been present with the [[government|Government]] forces who was [[Well|well]]
+Had anyone been present with the Government forces who was well
 acquainted with the western valley in which they were operating,
 such a person could not have failed to notice that the very landscape
 looked different; looked new and abnormal.  Dimly as it could be
 traced through the morning twilight, the very line of the woodland
 against the sky would have shown him a new shape; a deformity like
-a hump.  But the plans had all been laid out in [[London]] long before,
-in [[Imitation|imitation]] of that foresight, fixity of purpose, and final [[success]]
+a hump.  But the plans had all been laid out in London long before,
+in imitation of that foresight, fixity of purpose, and final success
 that will always be associated with the last German Emperor. 
 It was enough for them that there was a wood of some sort marked
 on the map, and they advanced toward it, low and crouching as its
 entrance appeared to be.
 
 "Then something happened, which even those who saw it and survived
-cannot describe.  The dark trees seemed to [[Spring|spring]] up to twice
-their height as in a [[nightmare]].  In the half-dark the whole wood
-seemed to rise from the earth like a rush of [[Birds|birds]] and then to turn
+cannot describe.  The dark trees seemed to spring up to twice
+their height as in a nightmare.  In the half-dark the whole wood
+seemed to rise from the earth like a rush of birds and then to turn
 over in mid-air and come towards the invaders like a roaring wave. 
 Some such dim and dizzy sight they saw; but many of them at least saw
 little enough afterwards.  Simultaneously with the turning of this
-[[Wheel|wheel]] of waving trees, rocks seemed to rain down out of heaven;
+wheel of waving trees, rocks seemed to rain down out of heaven;
 beams and stones and shafts and missiles of all kinds, flattening out
 the advancing force as under a pavement produced by a shower of
 paving-stones. It is asserted that some of the countrymen cunning
@@ -601,11 +601,11 @@ A moment after, he bounded, as it were, in a new direction.
 "And that reminds me of what I came about," he cried.  "Enoch Oates,
 your American friend, drags religion into politics all right; only it's
 a rather American sort of religion.  He's talking about a United
-States of Europe and wants to introduce you to a Lithuanian Prophet. 
+States of Europe and wants to introduce you to a Lithuanian [[Prophet]]. 
 It seems this Lithuanian party has started a movement for a
 Universal Peasant Republic or World State of Workers on the Land;
 but at present he's only got as far as Lithuania.  But he seems
-inclined to pick up England on the way, after the unexpected success
+inclined to pick up England on the way, after the unexpected [[success]]
 of the English agrarian party."
 
 "What's the good of talking to me about a World State," growled Hood. 
@@ -619,7 +619,7 @@ the very bets and jokes in which the whole thing began,
 will never be translated.  It takes an Englishman to eat his hat;
 I never heard of a Spaniard threatening to eat his sombrero,
 or a Chinaman to chew his pigtail.  You can only set the Thames
-on fire; you cannot set the Tiber or the Ganges on fire,
+on [[Fire|fire]]; you cannot set the Tiber or the Ganges on [[Fire|fire]],
 because the habit of speech has never been heard of.
 What's the good of talking about white elephants in countries
 where they are only white elephants?  Go and say to a Frenchman,

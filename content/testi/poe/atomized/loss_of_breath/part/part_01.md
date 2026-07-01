@@ -1,5 +1,5 @@
 ---
-title: "[[Loss of Breath]] (part 1)"
+title: "Loss of Breath (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/loss-of-breath-(poe)"
@@ -215,7 +215,3 @@ O breathe not, etc.
       contemptible reward of my industry and perseverance proved to be
 
       only a set of false teeth, two pair of hips, an eye, and a bundle
-
-      of billets-doux from Mr. Windenough to my wife. I might as [[Well|well]]
-
-      here observe that this confirmation of my lady’s partiality for

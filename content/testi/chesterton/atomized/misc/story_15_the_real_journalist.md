@@ -1,5 +1,5 @@
 ---
-title: "[[misc]] — THE REAL JOURNALIST"
+title: "misc — THE REAL JOURNALIST"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -10,12 +10,11 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">misc</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_14_the_priest_of_spring">‹ Story 14 THE PRIEST OF SPRING</a><a class="ex-next" href="/testi/chesterton/atomized/misc/story_16_the_sentimental_scot">Story 16 THE SENTIMENTAL SCOT ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_14_the_priest_of_spring_spring">‹ Story 14 THE PRIEST OF spring SPRING</a><a class="ex-next" href="/testi/chesterton/atomized/misc/story_16_the_sentimental_scot">Story 16 THE SENTIMENTAL SCOT ›</a></div>
 </nav>
 
 
 THE REAL JOURNALIST
-
 
 Our age which has boasted of realism will fail chiefly through lack
 of reality.  Never, I fancy, has there been so [[Grave|grave]] and startling

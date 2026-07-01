@@ -14,10 +14,10 @@ tags:
 </nav>
 
 
-For instance, we have just seen a staggering turn of the [[Wheel|wheel]]
-of fortune which has brought all the modern material [[Pride|pride]]
-and prosperity to a standstill.  [[America]], which a year or two ago
-seemed to have become one vast [[Eldorado]] studded with cities of gold,
+For instance, we have just seen a staggering turn of the wheel
+of fortune which has brought all the modern material pride
+and prosperity to a standstill.  America, which a year or two ago
+seemed to have become one vast Eldorado studded with cities of gold,
 is almost as much embarrassed as England, and really much more
 embarrassed than Ireland.  The industrial countries are actually
 finding it difficult to be industrial, while the old agricultural
@@ -25,13 +25,13 @@ countries still find it possible to be industrious.  Now, I do
 not pretend to have prophesied or expected this, for a man may
 cheerfully call a thing rotten without really expecting it to rot.
 But neither, certainly, did the young, the progressive, the prosperous,
-or the adventurous expect it.  Yet all [[history]] and culture is
+or the adventurous expect it.  Yet all history and culture is
 stiff with proverbs and prophecies telling them to expect it.
-The trouble is that they thought the proverbs and [[history]] a great
+The trouble is that they thought the proverbs and history a great
 deal too stiff.  Again and again, with monotonous reiteration,
-both my young friends and myself had been told from [[Childhood|childhood]] that
+both my young friends and myself had been told from childhood that
 fortune is fickle, that riches take to themselves wings and fly,
-that power can depart suddenly from the powerful, that [[Pride|pride]] goes
+that power can depart suddenly from the powerful, that pride goes
 before a fall, and insolence attracts the thunderbolt of the gods.
 But it was all unmeaning to us, and all the proverbs seemed
 stiff and stale, like dusty labels on neglected antiquities.
@@ -42,7 +42,7 @@ by Shakespeare; we had learned them and learned nothing from them.
 We had read ten thousand times, to the point of tedium, of the difference
 between the Napoleon of Marengo and the Napoleon of Moscow; but we
 should never have expected Moscow if we had been looking at Marengo.
-We knew that Charles the Fifth resigned his [[Crown|crown]], or that Charles
+We knew that Charles the Fifth resigned his crown, or that Charles
 the First lost his head; and we should have duly remarked `Sic
 transit gloria mundi', after the incident, but not before it.
 We had been told that the Roman Empire declined, or that the

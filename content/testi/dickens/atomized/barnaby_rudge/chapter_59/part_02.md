@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 59 (part 2)"
+title: "Barnaby Rudge — Chapter 59 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_59/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_59/part_03">part 03 ›</a></div>
 </nav>
 
+
+He thrust the little man aside as he spoke, and mounting on the steps,
+which were half let down, pulled down the blind by force, and stared
+into the chaise like an ogre into his larder.
 
 ‘Ha ha ha! and did you scratch, and pinch, and struggle, pretty
 mistress?’ he cried, as he grasped a little hand that sought in vain to
@@ -108,14 +112,3 @@ the [[Grave|grave]].
 ‘I come here to keep you quiet,’ he said, ‘and that’s the means I shall
 take. So don’t be quiet, pretty mistresses--make a noise--do--and I
 shall like it all the better.’
-
-They were proceeding at a rapid pace, and apparently with fewer
-attendants than before, though it was so dark (the torches being
-extinguished) that this was mere conjecture. They shrunk from his touch,
-each into the farthest corner of the carriage; but shrink as Dolly
-would, his arm encircled her waist, and held her fast. She neither cried
-nor spoke, for terror and disgust deprived her of the power; but she
-plucked at his hand as though she would die in the effort to disengage
-herself; and crouching on the ground, with her head averted and held
-down, repelled him with a strength she wondered at as much as he. The
-carriage stopped again.

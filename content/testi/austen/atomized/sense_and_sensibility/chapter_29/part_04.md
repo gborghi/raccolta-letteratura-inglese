@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 29 (part 4)"
+title: "Sense and Sensibility — Chapter 29 (part 4)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -13,6 +13,30 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_29/part_03">‹ part 03</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_30/part_01">part 01 ›</a></div>
 </nav>
 
+
+passed away, she added, in a firmer tone,
+
+
+
+“Elinor, I have been cruelly used; but not by Willoughby.”
+
+
+
+“Dearest Marianne, who but himself? By whom can he have been
+
+instigated?”
+
+
+
+“By all the world, rather than by his own heart. I could rather believe
+
+every creature of my acquaintance leagued together to ruin me in his
+
+opinion, than believe his [[Nature|nature]] capable of such cruelty. This woman of
+
+whom he writes—whoever she be—or any one, in short, but your own dear
+
+[[Self|self]], mama, and Edward, may have been so barbarous to bely me. Beyond
 
 you three, is there a creature in the world whom I would not rather
 

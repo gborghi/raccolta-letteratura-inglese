@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 10 (part 4)"
+title: "Bleak House — Chapter 10 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,28 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_10/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_11/part_01">part 01 ›</a></div>
 </nav>
 
+
+“You will find that the place is rough, sir,” says Mr. Snagsby,
+walking deferentially in the [[Road|road]] and leaving the narrow pavement to
+the lawyer; “and the party is very rough. But they’re a wild lot in
+general, sir. The advantage of this particular man is that he never
+wants [[Sleep|sleep]]. He’ll go at it right on end if you want him to, as long
+as ever you like.”
+
+It is quite dark now, and the gas-lamps have acquired their full
+effect. Jostling against clerks going to post the day’s letters, and
+against counsel and attorneys going [[Home|home]] to dinner, and against
+plaintiffs and defendants and suitors of all sorts, and against the
+general crowd, in whose way the forensic wisdom of ages has
+interposed a million of obstacles to the transaction of the commonest
+business of life; diving through law and equity, and through that
+kindred mystery, the street mud, which is made of nobody knows what
+and collects about us nobody knows whence or how—we only knowing in
+general that when there is too much of it we find it necessary to
+shovel it away—the lawyer and the law-stationer come to a rag and
+bottle shop and general emporium of much disregarded merchandise,
+lying and being in the [[Shadow|shadow]] of the wall of [[Lincoln]]’s Inn, and kept,
+as is announced in paint, to all whom it may concern, by one Krook.
 
 “This is where he lives, sir,” says the law-stationer.
 

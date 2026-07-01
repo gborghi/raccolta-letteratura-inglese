@@ -118,13 +118,3 @@ that comely girl who seemed to have died with him.
 
 The [[Child|child]] left her gathering the [[Flowers|flowers]] that grew upon the [[Grave|grave]], and
 thoughtfully retraced her steps.
-
-The old man was by this [[Time|time]] up and dressed.  Mr Codlin, still doomed
-to contemplate the harsh realities of existence, was packing among his
-linen the candle-ends which had been saved from the previous [[Night|night]]’s
-performance; while his companion received the compliments of all the
-loungers in the stable-yard, who, unable to separate him from the
-master-mind of Punch, set him down as next in importance to that merry
-outlaw, and loved him scarcely less.  When he had sufficiently
-acknowledged his popularity he came in to breakfast, at which meal they
-all sat down together.

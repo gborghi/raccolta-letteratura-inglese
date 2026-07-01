@@ -14,6 +14,15 @@ tags:
 </nav>
 
 
+Uttering a half shriek, she recoiled from a black figure which came
+suddenly out of the dark recess in which they were about to take
+refuge, and stood still, looking at them.
+
+‘Speak again,’ it said; ‘do I know the voice?’
+
+‘No,’ replied the [[Child|child]] timidly; ‘we are strangers, and having no money
+for a [[Night|night]]’s lodging, were going to rest here.’
+
 There was a feeble lamp at no great distance; the only one in the
 place, which was a kind of square yard, but sufficient to show how poor
 and mean it was.  To this, the figure beckoned them; at the same [[Time|time]]

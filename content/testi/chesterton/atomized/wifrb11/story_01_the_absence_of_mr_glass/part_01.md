@@ -1,5 +1,5 @@
 ---
-title: "[[wifrb11]] — The Absence of Mr Glass (part 1)"
+title: "wifrb11 — The Absence of Mr Glass (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
                         The Absence of Mr Glass
-
 
 THE consulting-rooms of Dr Orion Hood, the eminent criminologist
 and specialist in certain moral disorders, lay along the sea-front

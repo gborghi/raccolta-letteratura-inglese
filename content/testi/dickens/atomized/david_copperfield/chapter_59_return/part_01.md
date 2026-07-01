@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 59: RETURN (part 1)"
+title: "David Copperfield — Chapter 59: RETURN (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_58_absence/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_59_return/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_58_absence/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_59_return/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -130,12 +130,3 @@ a service of plate in a bureau, all tarnished with lying by, though more
 than one spoon and a fork had never yet been beheld in his chambers
 by mortal vision. By this [[Time|time]], I quite gave Traddles up for lost; and
 settled in my own mind that there was no [[Hope|hope]] for him.
-
-Being very anxious to see the dear old fellow, nevertheless, I
-dispatched my dinner, in a manner not at all calculated to raise me in
-the opinion of the chief waiter, and hurried out by the back way. Number
-two in the [[Court]] was soon reached; and an [[Inscription|inscription]] on the door-post
-informing me that Mr. Traddles occupied a set of chambers on the top
-storey, I ascended the staircase. A crazy old staircase I found it to
-be, feebly lighted on each landing by a club-headed little oil wick,
-dying away in a little dungeon of dirty glass.

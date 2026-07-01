@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 14"
+title: "Bleak House — Chapter 14"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/bleak-house-(dickens)"
@@ -354,7 +354,7 @@ I found the academy established in a sufficiently dingy [[house]] at the
 corner of an archway, with busts in all the staircase windows. In the
 same [[house]] there were also established, as I gathered from the plates
 on the door, a drawing-master, a coal-merchant (there was, certainly,
-no room for his coals), and a lithographic [[artist]]. On the plate
+no room for his coals), and a lithographic [[Artist|artist]]. On the plate
 which, in size and situation, took precedence of all the rest, I
 read, MR. TURVEYDROP. The door was open, and the hall was blocked up
 by a grand piano, a harp, and several other musical instruments in

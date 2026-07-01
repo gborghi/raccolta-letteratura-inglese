@@ -125,10 +125,3 @@ philosopher.  ‘I know better now, and p’raps I’m sorry for it.’
 Turning over the figures in the box like one who knew and despised
 them, Mr Codlin drew one forth and held it up for the inspection of his
 friend:
-
-‘Look here; here’s all this judy’s clothes falling to pieces again.
-You haven’t got a needle and thread I suppose?’
-
-The little man shook his head, and scratched it ruefully as he
-contemplated this severe indisposition of a principal performer.
-Seeing that they were at a loss, the [[Child|child]] said timidly:

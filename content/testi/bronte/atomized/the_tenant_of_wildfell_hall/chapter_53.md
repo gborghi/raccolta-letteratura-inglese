@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 53"
+title: "The Tenant of Wildfell Hall — Chapter 53"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -42,7 +42,7 @@ I did not raise my eyes, but I suppose mamma looked, for a clear
 
 melodious voice, whose tones thrilled through my nerves, exclaimed,
 
-“Oh, aunt! here’s Mr. Markham, [[arthur|Arthur]]’s friend! Stop, [[Richard]]!”
+“Oh, aunt! here’s Mr. Markham, [[Arthur]]’s friend! Stop, [[Richard]]!”
 
 
 
@@ -56,7 +56,7 @@ I looked up and met the eye of a pale, [[Grave|grave]], elderly lady surveying m
 
 from the open [[Window|window]]. She bowed, and so did I, and then she withdrew
 
-her head, while [[arthur|Arthur]] screamed to the footman to let him out; but
+her head, while [[Arthur]] screamed to the footman to let him out; but
 
 before that functionary could descend from his box a hand was silently
 
@@ -104,7 +104,7 @@ or disappointment than surprise.
 
 
 
-“Yes, yes! he _must_ enter,” cried [[arthur|Arthur]], running round from the other
+“Yes, yes! he _must_ enter,” cried [[Arthur]], running round from the other
 
 door; and seizing my hand in both his, he shook it heartily.
 
@@ -140,7 +140,7 @@ more I shall be as tall as you nearly.”
 
 
 
-“[[arthur|Arthur]],” said his mother, “tell him to come in. Go on, [[Richard]].”
+“[[Arthur]],” said his mother, “tell him to come in. Go on, [[Richard]].”
 
 
 
@@ -156,7 +156,7 @@ and looked round me, waiting to recover my composure, if possible—or,
 
 at any rate, to remember my new-formed resolutions and the principles
 
-on which they were founded; and it was not till [[arthur|Arthur]] had been for
+on which they were founded; and it was not till [[Arthur]] had been for
 
 some [[Time|time]] gently pulling my coat, and repeating his invitations to
 
@@ -188,7 +188,7 @@ cold, but she supposed I had not travelled far that morning.
 
 
 
-“Here’s Rachel, sir,” said [[arthur|Arthur]], the only truly happy one amongst us,
+“Here’s Rachel, sir,” said [[Arthur]], the only truly happy one amongst us,
 
 directing my attention to that worthy individual, who had just entered
 
@@ -216,7 +216,7 @@ unstinted still, and unconcealed in its glossy luxuriance.
 
 “Mamma has left off her widow’s cap in [[Honour|honour]] of uncle’s [[Marriage|marriage]],”
 
-observed [[arthur|Arthur]], reading my looks with a [[Child|child]]’s mingled simplicity and
+observed [[Arthur]], reading my looks with a [[Child|child]]’s mingled simplicity and
 
 quickness of observation. Mamma looked [[Grave|grave]] and Mrs. Maxwell shook her
 
@@ -362,7 +362,7 @@ over a dozen [[Leaves|leaves]] at once.
 
 
 
-There was a pause, of which [[arthur|Arthur]] thought he might venture to avail
+There was a pause, of which [[Arthur]] thought he might venture to avail
 
 himself to introduce his handsome young setter, and show me how
 
@@ -552,7 +552,7 @@ immediately letting it go.
 
 
 
-“Wait till [[arthur|Arthur]] comes, at least.”
+“Wait till [[Arthur]] comes, at least.”
 
 
 
@@ -782,7 +782,7 @@ rash, wild step, because she could not imagine how [[Well|well]] I know you; but
 
 she must know you herself, and learn to like you. You must leave us
 
-now, after lunch, and come again in [[spring]], and make a longer stay, and
+now, after lunch, and come again in [[Spring|spring]], and make a longer stay, and
 
 cultivate her acquaintance, and I know you will like each other.”
 
@@ -886,11 +886,11 @@ month had occurred both the ill-starred [[Marriage|marriage]] that had bound her
 
 her former husband, and the terrible [[Death|death]] that released her—“and
 
-therefore I said another year, in [[spring]].”
+therefore I said another year, in [[Spring|spring]].”
 
 
 
-“_Next_ [[spring]]?”
+“_Next_ [[Spring|spring]]?”
 
 
 
@@ -906,7 +906,7 @@ therefore I said another year, in [[spring]].”
 
 
 
-While she was speaking [[arthur|Arthur]] re-entered the room—good boy for keeping
+While she was speaking [[Arthur]] re-entered the room—good boy for keeping
 
 out so long.
 
@@ -1014,7 +1014,7 @@ shall be as dear to me as that of my own mother.”
 
 “Thank you, darling! you shall have a kiss for that. Good-by. There
 
-now—there, Gilbert—let me go—here’s [[arthur|Arthur]]; don’t astonish his
+now—there, Gilbert—let me go—here’s [[Arthur]]; don’t astonish his
 
 infantile brain with your [[Madness|madness]].”
 
@@ -1034,7 +1034,7 @@ add a few words more; because I know you will have a fellow-feeling for
 
 the old lady, and will wish to know the last of her [[history]]. I did come
 
-again in [[spring]], and, agreeably [[To Helen|to Helen]]’s injunctions, did my best to
+again in [[Spring|spring]], and, agreeably [[To Helen|to Helen]]’s injunctions, did my best to
 
 cultivate her acquaintance. She received me very kindly, having been,
 

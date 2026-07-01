@@ -1,5 +1,5 @@
 ---
-title: "[[Cymbeline|CYMBELINE]]"
+title: "CYMBELINE"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/cymbeline-(shakespeare)"

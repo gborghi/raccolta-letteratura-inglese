@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 15 (part 3)"
+title: "Jane Eyre — Chapter 15 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_15/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_15/part_04">part 04 ›</a></div>
 </nav>
 
+
+But I stayed out a few minutes longer with Adèle and Pilot—ran a race
+with her, and played a game of battledore and shuttlecock. When we went
+in, and I had removed her bonnet and coat, I took her on my knee; kept
+her there an hour, allowing her to prattle as she liked: not rebuking
+even some little freedoms and trivialities into which she was apt to
+stray when much noticed, and which betrayed in her a superficiality of
+character, inherited probably from her mother, hardly congenial to an
+English mind. Still she had her merits; and I was disposed to
+appreciate all that was good in her to the utmost. I sought in her
+countenance and features a likeness to Mr. Rochester, but found none:
+no trait, no turn of expression announced relationship. It was a pity:
+if she could but have been proved to resemble him, he would have
+thought more of her.
 
 It was not till after I had withdrawn to my own chamber for the [[Night|night]],
 that I steadily reviewed the tale Mr. Rochester had told me. As he had
@@ -99,22 +113,3 @@ tranquillity was broken. The [[Clock|clock]], far down in the hall, struck two.
 Just then it seemed my chamber-door was touched; as if fingers had
 swept the panels in groping a way along the dark gallery outside. I
 said, “Who is there?” Nothing answered. I was chilled with [[Fear|fear]].
-
-All at once I remembered that it might be Pilot, who, when the
-kitchen-door chanced to be left open, not unfrequently found his way up
-to the threshold of Mr. Rochester’s chamber: I had seen him lying there
-myself in the mornings. The idea calmed me somewhat: I lay down.
-[[Silence]] composes the nerves; and as an unbroken hush now reigned again
-through the whole [[house]], I began to feel the return of slumber. But it
-was not fated that I should [[Sleep|sleep]] that [[Night|night]]. [[A Dream|A dream]] had scarcely
-approached my ear, when it fled affrighted, scared by a marrow-freezing
-incident enough.
-
-This was a demoniac laugh—low, suppressed, and deep—uttered, as it
-seemed, at the very keyhole of my chamber door. The head of my bed was
-near the door, and I thought at first the goblin-laugher stood at my
-bedside—or rather, crouched by my pillow: but I [[Rose|rose]], looked round, and
-could see nothing; while, as I still gazed, the unnatural sound was
-reiterated: and I knew it came from behind the panels. My first impulse
-was to rise and fasten the bolt; my next, again to cry out, “Who is
-there?”

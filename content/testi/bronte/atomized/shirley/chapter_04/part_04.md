@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 4 (part 4)"
+title: "Shirley — Chapter 4 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_04/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_05/part_01">part 01 ›</a></div>
 </nav>
 
+
+Of the [[Nature|nature]] and strength of this animosity Mr. Helstone was but half
+
+aware. He neither knew how much Yorke had loved Mary [[Cave]], what he had
+
+felt on losing her, nor was he conscious of the calumnies concerning his
+
+treatment of her, familiar to every ear in the neighbourhood but his
+
+own. He believed political and religious differences [[Alone|alone]] separated him
+
+and Mr. Yorke. Had he known how the case really stood, he would hardly
 
 have been induced by any [[Persuasion|persuasion]] to [[Cross|cross]] his former rival's
 

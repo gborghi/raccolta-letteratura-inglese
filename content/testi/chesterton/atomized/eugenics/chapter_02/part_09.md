@@ -1,5 +1,5 @@
 ---
-title: "[[Eugenics]] — Part 1 (part 9)"
+title: "Eugenics — Part 1 (part 9)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/eugenics-(chesterton)"
@@ -13,6 +13,23 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/eugenics/chapter_02/part_08">‹ part 08</a><a class="ex-next" href="/testi/chesterton/atomized/eugenics/chapter_02/part_10">part 10 ›</a></div>
 </nav>
 
+
+Now, that specialists are valuable for this particular
+and practical purpose, of predicting the approach of enormous
+and admitted human calamities, nobody but a [[Fool|fool]] would deny.
+But that does not bring us one inch nearer to allowing them
+the right to define what is a calamity; or to call things calamities
+which common-sense does not call calamities.  We call in the doctor
+to save us from [[Death|death]]; and, [[Death|death]] being admittedly an evil,
+he has the right to administer the queerest and most recondite
+pill which he may think is a cure for all such menaces of [[Death|death]].
+He has not the right to administer [[Death|death]] as the cure for all human ills.
+And as he has no moral authority to enforce a new conception of happiness,
+so he has no moral authority to enforce a new conception of [[Sanity|sanity]].
+He may know I am going mad; for [[Madness|madness]] is an isolated thing
+like leprosy; and I know nothing about leprosy.  But if he merely
+thinks my mind is weak, I may happen to think the same of his.
+I often do.
 
 In short, unless pilots are to be permitted to ram ships on
 to the rocks and then say that heaven is the only true harbour;
@@ -100,46 +117,3 @@ Shall I pray that the [[Stars|stars]] of the twilight thereof be dark and it
 be not numbered among the days of the year, because it shut
 not up the doors of his mother's womb?  I respect fully decline;
 like Job, I will put my hand upon my mouth.
-
----/---
-
-V
-
-THE FLYING AUTHORITY
-
-It happened one day that an atheist and a man were standing
-together on a doorstep; and the atheist said, "It is raining."
-To which the man replied, "What is raining?": which question
-was the beginning of a violent quarrel and a lasting [[Friendship|friendship]].
-I will not touch upon any heads of the dispute, which doubtless
-included Jupiter, Pluvius, the Neuter Gender, Pantheism, Noah's Ark,
-Mackintoshes, and the Passive Mood; but I will record the one
-point upon which the two persons emerged in some agreement.
-It was that there is such a thing as an atheistic literary style;
-that materialism may appear in the mere diction of a man, though he be
-speaking of clocks or cats or anything quite remote from theology.
-The mark of the atheistic style is that it instinctively chooses the word
-which suggests that things are dead things; that things have no souls.
-Thus they will not speak of waging war, which means willing it;
-they speak of the "outbreak of war," as if all the guns blew up
-without the men touching them.  Thus those Socialists that are atheist
-will not call their international sympathy, sympathy; they will call
-it "solidarity," as if the poor men of France and [[Germany]] were
-physically stuck together like dates in a [[grocer]]'s shop.  The same
-Marxian Socialists are accused of cursing the Capitalists inordinately;
-but the [[Truth|truth]] is that they let the Capitalists off much too easily.
-For instead of saying that employers pay less wages,
-which might pin the employers to some moral responsibility,
-they insist on talking about the "rise and fall" of wages;
-as if a vast silver sea of sixpences and shillings was always
-going up and down automatically like the real sea at Margate.
-Thus they will not speak of [[Reform|reform]], but of development;
-and they spoil their one honest and virile phrase, "the class war"
-by talking of it as no one in his wits can talk of a war,
-predicting its finish and final result as one calculates the coming
-of Christmas Day or the taxes.  Thus, lastly (as we shall see touching
-our special subject-matter here) the atheist style in letters
-always avoids talking of [[Love|love]] or lust, which are things alive,
-and calls [[Marriage|marriage]] or concubinage "the relations of the sexes";
-as if a man and a woman were two wooden objects standing in a certain
-angle and attitude to each other like a table and a chair.

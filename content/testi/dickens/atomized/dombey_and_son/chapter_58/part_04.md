@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 2 (part 4)"
+title: "Dombey and Son — Chapter 30 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,125 +14,109 @@ tags:
 </nav>
 
 
-“Do you mean to say, Man,” inquired Mr Dombey; looking at him with
-marked displeasure, “that you have called a [[Child|child]] after a boiler?”
+“And so your preparations are nearly finished at last, my dear Dombey?”
+said [[Cleopatra]], when the dessert was put upon the table, and the
+silver-headed butler had withdrawn. “Even the lawyers” preparations!”
 
-“No, no, Sir,” returned Toodle, with a tender consideration for his
-mistake. “I should [[Hope|hope]] not! No, Sir. Arter a BILER Sir. The
-Steamingine was a’most as good as a godfather to him, and so we called
-him Biler, don’t you see!”
+“Yes, madam,” replied Mr Dombey; “the deed of settlement, the
+professional gentlemen inform me, is now ready, and as I was mentioning
+to you, Edith has only to do us the favour to suggest her own [[Time|time]] for
+its execution.”
 
-As the last straw breaks the laden camel’s back, this piece of
-information crushed the sinking spirits of Mr Dombey. He motioned his
-[[Child|child]]’s foster-father to the door, who departed by no means
-unwillingly: and then turning the key, paced up and down the room in
-solitary wretchedness.
+Edith sat like a handsome statue; as cold, as silent, and as still.
 
-It would be harsh, and perhaps not altogether true, to say of him that
-he felt these rubs and gratings against his [[Pride|pride]] more keenly than he
-had felt his wife’s [[Death|death]]: but certainly they impressed that event upon
-him with new force, and communicated to it added weight and bitterness.
-It was a rude shock to his sense of property in his [[Child|child]], that these
-people—the mere [[Dust|dust]] of the earth, as he thought them—should be
-necessary to him; and it was natural that in proportion as he felt
-disturbed by it, he should deplore the occurrence which had made them
-so. For all his starched, impenetrable dignity and composure, he wiped
-blinding [[Tears|tears]] from his eyes as he paced up and down his room; and
-often said, with an emotion of which he would not, for the world, have
-had a witness, “Poor little fellow!”
+“My dearest [[Love|love]],” said [[Cleopatra]], “do you hear what Mr Dombey says?
+Ah, my dear Dombey!” aside to that gentleman, “how her absence, as the
+[[Time|time]] approaches, reminds me of the days, when that most agreeable of
+creatures, her Papa, was in your situation!”
 
-It may have been characteristic of Mr Dombey’s [[Pride|pride]], that he pitied
-himself through the [[Child|child]]. Not poor me. Not poor widower, confiding by
-constraint in the wife of an ignorant Hind who has been working “mostly
-underground” all his life, and yet at whose door [[Death]] had never
-knocked, and at whose poor table four sons daily sit—but poor little
-fellow!
+“I have nothing to suggest. It shall be when you please,” said Edith,
+scarcely looking over the table at Mr Dombey.
 
-Those words being on his lips, it occurred to him—and it is an instance
-of the strong attraction with which his hopes and fears and all his
-thoughts were tending to one centre—that a great [[Temptation|temptation]] was being
-placed in this woman’s way. Her infant was a boy too. Now, would it be
-possible for her to change them?
+“To-morrow?” suggested Mr Dombey.
 
-Though he was soon satisfied that he had dismissed the idea as romantic
-and unlikely—though possible, there was no denying—he could not help
-pursuing it so far as to entertain within himself a picture of what his
-condition would be, if he should discover such an imposture when he was
-grown old. Whether a man so situated would be able to pluck away the
-result of so many years of usage, confidence, and belief, from the
-impostor, and endow a stranger with it?
+“If you please.”
 
-But it was idle speculating thus. It couldn’t happen. In a moment
-afterwards he determined that it could, but that such women were
-constantly observed, and had no opportunity given them for the
-accomplishment of such a design, even when they were so wicked as to
-entertain it. In another moment, he was remembering how few such cases
-seemed to have ever happened. In another moment he was wondering
-whether they ever happened and were not found out.
+“Or would next day,” said Mr Dombey, “suit your engagements better?”
 
-As his unusual emotion subsided, these misgivings gradually melted
-away, though so much of their [[Shadow|shadow]] remained behind, that he was
-constant in his resolution to look closely after Richards himself,
-without appearing to do so. Being now in an easier frame of mind, he
-regarded the woman’s station as rather an advantageous circumstance
-than otherwise, by placing, in itself, a broad distance between her and
-the [[Child|child]], and rendering their separation easy and natural. Thence he
-passed to the contemplation of the future glories of Dombey and Son,
-and dismissed the [[Memory|memory]] of his wife, for the [[Time|time]] being, with a
-tributary sigh or two.
+“I have no engagements. I am always at your disposal. Let it be when
+you like.”
 
-Meanwhile terms were ratified and agreed upon between Mrs Chick and
-Richards, with the assistance of Miss Tox; and Richards being with much
-ceremony invested with the Dombey baby, as if it were an Order,
-resigned her own, with many [[Tears|tears]] and kisses, to Jemima. Glasses of
-wine were then produced, to sustain the drooping spirits of the family;
-and Miss Tox, busying herself in dispensing “tastes” to the younger
-branches, bred them up to their father’s business with such surprising
-expedition, that she made chokers of four of them in a quarter of a
-minute.
+“No engagements, my dear Edith!” remonstrated her mother, “when you are
+in a most terrible state of flurry all day long, and have a thousand
+and one appointments with all sorts of trades-people!”
 
-“You’ll take a glass yourself, Sir, won’t you?” said Miss Tox, as
-Toodle appeared.
+“They are of your making,” returned Edith, turning on her with a slight
+contraction of her brow. “You and Mr Dombey can arrange between you.”
 
-“Thankee, Mum,” said Toodle, “since you are suppressing.”
+“Very true indeed, my [[Love|love]], and most considerate of you!” said
+[[Cleopatra]]. “My darling Florence, you must really come and kiss me once
+more, if you please, my dear!”
 
-“And you’re very glad to leave your dear good wife in such a
-comfortable [[Home|home]], ain’t you, Sir?” said Miss Tox, nodding and winking
-at him stealthily.
+Singular coincidence, that these gushes of interest in Florence hurried
+[[Cleopatra]] away from almost every dialogue in which Edith had a share,
+however trifling! Florence had certainly never undergone so much
+embracing, and perhaps had never been, unconsciously, so useful in her
+life.
 
-“No, Mum,” said Toodle. “Here’s wishing of her back agin.”
+Mr Dombey was far from quarrelling, in his own breast, with the manner
+of his beautiful betrothed. He had that good reason for sympathy with
+haughtiness and coldness, which is found in a fellow-feeling. It
+flattered him to think how these deferred to him, in Edith’s case, and
+seemed to have no will apart from his. It flattered him to picture to
+himself, this proud and stately woman doing the honours of his [[house]],
+and chilling his guests after his own manner. The dignity of Dombey and
+Son would be heightened and maintained, indeed, in such hands.
 
-Polly cried more than ever at this. So Mrs Chick, who had her matronly
-apprehensions that this indulgence in grief might be prejudicial to the
-little Dombey (“acid, indeed,” she whispered Miss Tox), hastened to the
-rescue.
+So thought Mr Dombey, when he was left [[Alone|alone]] at the dining-table, and
+mused upon his past and future fortunes: finding no uncongeniality in
+an air of scant and gloomy state that pervaded the room, in colour a
+dark brown, with black hatchments of pictures blotching the walls, and
+twenty-four black chairs, with almost as many nails in them as so many
+coffins, waiting like mutes, upon the threshold of the Turkey carpet;
+and two exhausted negroes holding up two withered branches of
+candelabra on the sideboard, and a musty smell prevailing as if the
+ashes of ten thousand dinners were entombed in the sarcophagus below
+it. The owner of the [[house]] lived much abroad; the air of England seldom
+agreed long with a member of the Feenix family; and the room had
+gradually put itself into deeper and still deeper mourning for him,
+until it was become so funereal as to want nothing but a [[Body|body]] in it to
+be quite complete.
 
-“Your little [[Child|child]] will thrive charmingly with your sister Jemima,
-Richards,” said Mrs Chick; “and you have only to make an effort—this is
-a world of effort, you know, Richards—to be very happy indeed. You have
-been already measured for your mourning, haven’t you, Richards?”
+No bad representation of the [[Body|body]], for the nonce, in his unbending
+form, if not in his attitude, Mr Dombey looked down into the cold
+depths of the dead sea of mahogany on which the fruit dishes and
+decanters lay at anchor: as if the subjects of his thoughts were rising
+towards the surface one by one, and plunging down again. Edith was
+there in all her majesty of brow and figure; and close to her came
+Florence, with her timid head turned to him, as it had been, for an
+instant, when she left the room; and Edith’s eyes upon her, and Edith’s
+hand put out protectingly. A little figure in a low arm-chair came
+springing next into the light, and looked upon him wonderingly, with
+its bright eyes and its old-young face, gleaming as in the flickering
+of an evening [[Fire|fire]]. Again came Florence close upon it, and absorbed his
+whole attention. Whether as a fore-doomed difficulty and disappointment
+to him; whether as a rival who had crossed him in his way, and might
+again; whether as his [[Child|child]], of whom, in his successful wooing, he
+could stoop to think as claiming, at such a [[Time|time]], to be no more
+estranged; or whether as a hint to him that the mere appearance of
+caring for his own [[Blood|blood]] should be maintained in his new relations; he
+best knew. Indifferently [[Well|well]], perhaps, at best; for [[Marriage|marriage]] company
+and [[Marriage|marriage]] altars, and ambitious scenes—still blotted here and there
+with Florence—always Florence—turned up so fast, and so confusedly,
+that he [[Rose|rose]], and went upstairs to escape them.
 
-“Ye—es, Ma’am,” sobbed Polly.
-
-“And it’ll fit beautifully. I know,” said Mrs Chick, “for the same
-young person has made me many dresses. The very best materials, too!”
-
-“Lor, you’ll be so smart,” said Miss Tox, “that your husband won’t know
-you; will you, Sir?”
-
-“I should know her,” said Toodle, gruffly, “anyhows and anywheres.”
-
-Toodle was evidently not to be bought over.
-
-“As to living, Richards, you know,” pursued Mrs Chick, “why, the very
-best of everything will be at your disposal. You will order your little
-dinner every day; and anything you take a fancy to, I’m sure will be as
-readily provided as if you were a Lady.”
-
-“Yes to be sure!” said Miss Tox, keeping up the ball with great
-sympathy. “And as to porter!—quite unlimited, will it not, Louisa?”
-
-“Oh, certainly!” returned Mrs Chick in the same tone. “With a little
-abstinence, you know, my dear, in point of vegetables.”
-
-“And pickles, perhaps,” suggested Miss Tox.
+It was quite late at [[Night|night]] before candles were brought; for at present
+they made Mrs Skewton’s head ache, she complained; and in the meantime
+Florence and Mrs Skewton talked together ([[Cleopatra]] being very anxious
+to keep her close to herself), or Florence touched the piano softly for
+Mrs Skewton’s delight; to make no mention of a few occasions in the
+course of the evening, when that affectionate lady was impelled to
+solicit another kiss, and which always happened after Edith had said
+anything. They were not many, however, for Edith sat apart by an open
+[[Window|window]] during the whole [[Time|time]] (in spite of her mother’s fears that she
+would take cold), and remained there until Mr Dombey took leave. He was
+serenely gracious to Florence when he did so; and Florence went to bed
+in a room within Edith’s, so happy and hopeful, that she thought of her
+late [[Self|self]] as if it were some other poor deserted girl who was to be
+pitied for her sorrow; and in her pity, sobbed herself to [[Sleep|sleep]].

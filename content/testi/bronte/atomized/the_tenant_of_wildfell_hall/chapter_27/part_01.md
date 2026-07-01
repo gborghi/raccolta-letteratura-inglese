@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 27 (part 1)"
+title: "The Tenant of Wildfell Hall — Chapter 27 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -22,7 +22,7 @@ tags:
 
 October 9th.—It was on the [[Night|night]] of the 4th, a little after tea, that
 
-Annabella had been singing and playing, with [[arthur|Arthur]] as usual at her
+Annabella had been singing and playing, with [[Arthur]] as usual at her
 
 side: she had ended her [[Song|song]], but still she sat at the instrument; and
 
@@ -88,13 +88,13 @@ Lowborough was beside her husband, bending over him as he sat, with her
 
 hand on his shoulder, softly talking and smiling in his face; and
 
-[[arthur|Arthur]] was at the table, turning over a book of engravings. I seated
+[[Arthur]] was at the table, turning over a book of engravings. I seated
 
 myself in the nearest chair; and Mr. Hargrave, finding his services
 
 were not desired, judiciously withdrew. Shortly after, the company
 
-broke up, and, as the guests were retiring to their rooms, [[arthur|Arthur]]
+broke up, and, as the guests were retiring to their rooms, [[Arthur]]
 
 approached me, smiling with the utmost assurance.
 
@@ -104,7 +104,7 @@ approached me, smiling with the utmost assurance.
 
 
 
-“This is no jest, [[arthur|Arthur]],” said I, seriously, but as calmly as I
+“This is no jest, [[Arthur]],” said I, seriously, but as calmly as I
 
 could—“unless you think it a jest to lose my affection for ever.”
 
@@ -180,7 +180,7 @@ the sun. You little exorbitant [[Tyrant|tyrant]], will not _that_—”
 
 
 
-“Be quiet a moment, will you, [[arthur|Arthur]]?” said I, “and listen to me—and
+“Be quiet a moment, will you, [[Arthur]]?” said I, “and listen to me—and
 
 don’t think I’m in a jealous fury: I am perfectly calm. Feel my hand.”
 
@@ -221,13 +221,3 @@ you that it distresses me, and may disgust me, if you go on and suffer
 the habit to grow upon you, as it will if you don’t check it in [[Time|time]].
 
 But the whole system of your conduct to Lady Lowborough is not
-
-referable to wine; and this [[Night|night]] you knew perfectly [[Well|well]] what you were
-
-doing.”
-
-
-
-“[[Well]], I’m sorry for it,” replied he, with more of sulkiness than
-
-contrition: “what more would you have?”

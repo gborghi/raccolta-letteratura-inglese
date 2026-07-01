@@ -1,5 +1,5 @@
 ---
-title: "Napoleon of Notting [[Hill]] — Chapter 2 (part 5)"
+title: "Napoleon of Notting Hill — Chapter 2 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/napoleon-of-notting-hill-(chesterton)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_03/part_01">part 01 ›</a></div>
 </nav>
 
+
+"And what," asked the other, "would you call the summary
+of those things?"
+
+"The summary of those things," answered Barker, with great animation,
+"is that we are rid of the superstitions, and in becoming so we
+have not merely become rid of the superstitions which have
+been most frequently and most enthusiastically so described.
+The superstition of big nationalities is bad, but the superstition
+of small nationalities is worse.  The superstition of reverencing our
+own country is bad, but the superstition of reverencing other people's
+countries is worse.  It is so everywhere, and in a hundred ways.
+The superstition of monarchy is bad, and the superstition of aristocracy
+is bad, but the superstition of [[democracy]] is the worst of all."
 
 The old gentleman opened his eyes with some surprise.
 

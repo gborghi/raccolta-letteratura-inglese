@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 20: TWENTY (part 4)"
+title: "Martin Chuzzlewit — Chapter 20: TWENTY (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_20_twenty/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_20_twenty/part_05">part 05 ›</a></div>
 </nav>
 
+
+‘What! you’re as lively as ever, are you?’ said Jonas. ‘Oh! You’re a
+wicked one!’
+
+‘There, go along!’ retorted Merry, pushing him away. ‘I’m sure I don’t
+know what I shall ever do, if I have to see much of you. Go along, for
+gracious’ sake!’
+
+Mr Pecksniff striking in here, with a request that Mr Jonas would
+immediately walk upstairs, he so far complied with the young lady’s
+adjuration as to go at once. But though he had the fair Cherry on his
+arm, he could not help looking back at her sister, and exchanging some
+further dialogue of the same bantering description, as they all four
+ascended to the parlour; where--for the young ladies happened, by good
+fortune, to be a little later than usual that [[Night|night]]--the tea-board was
+at that moment being set out.
 
 Mr Pinch was not at [[Home|home]], so they had it all to themselves, and were
 very snug and talkative, Jonas sitting between the two sisters, and
@@ -133,29 +149,3 @@ her best, but you didn’t.’
 
 ‘No, you didn’t. You never could have thought I liked her best, when you
 were by.’
-
-‘There’s no accounting for tastes,’ said Merry; ‘at least I didn’t mean
-to say that. I don’t know what I mean. Let me go to her.’
-
-‘Say “Yes,” and then I will.’
-
-‘If I ever brought myself to say so, it should only be that I might hate
-and tease you all my life.’
-
-‘That’s as good,’ cried Jonas, ‘as saying it right out. It’s a bargain,
-cousin. We’re a pair, if ever there was one.’
-
-This gallant speech was succeeded by a confused noise of kissing and
-slapping; and then the fair but much dishevelled Merry broke away, and
-followed in the footsteps of her sister.
-
-Now whether Mr Pecksniff had been listening--which in one of his
-character appears impossible; or divined almost by inspiration what the
-matter was--which, in a man of his sagacity is far more probable; or
-happened by sheer good fortune to find himself in exactly the
-right place, at precisely the right [[Time|time]]--which, under the special
-guardianship in which he lived might very reasonably happen; it is quite
-certain that at the moment when the sisters came together in their own
-room, he appeared at the chamber door. And a marvellous contrast it
-was--they so heated, noisy, and vehement; he so calm, so [[Self|self]]-possessed,
-so cool and full of peace, that not a hair upon his head was stirred.

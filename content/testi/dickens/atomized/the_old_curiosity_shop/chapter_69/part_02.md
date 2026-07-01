@@ -115,11 +115,3 @@ degree less cold would be to lose half the delight and glory of the
 [[Journey|journey]]: and up he jumped again, right cheerily, singing to the merry
 music of the wheels as they rolled away, and, leaving the townspeople
 in their warm beds, pursued their course along the lonely [[Road|road]].
-
-Meantime the two gentlemen inside, who were little disposed to [[Sleep|sleep]],
-beguiled the [[Time|time]] with conversation.  As both were anxious and
-expectant, it naturally turned upon the subject of their expedition, on
-the manner in which it had been brought about, and on the hopes and
-fears they entertained respecting it.  Of the former they had many, of
-the latter few--none perhaps beyond that indefinable uneasiness which
-is inseparable from suddenly awakened [[Hope|hope]], and protracted expectation.

@@ -1,5 +1,5 @@
 ---
-title: "[[TheAppOfTyranny]] — Chapter 2 (part 3)"
+title: "TheAppOfTyranny — Chapter 2 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/theappoftyranny-(chesterton)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/theappoftyranny/chapter_03/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/theappoftyranny/chapter_04/part_01">part 01 ›</a></div>
 </nav>
 
+
+again. Boiled down to its bones of [[logic]], it means simply this: "I am a
+
+German and you are a Chinaman. Therefore I, being a German, have a right
+
+to be a Chinaman. But you have no right to be a Chinaman; because you are
+
+only a Chinaman." This is probably the highest point to which the German
+
+culture has risen.
 
 The principle here neglected, which may be called Mutuality by those who
 
@@ -47,8 +57,6 @@ men. Certainly there can be no better summary of the savage than this,
 which as we have seen, unfits him for the duel. He is the man who cannot
 
 [[Love|love]]--no, nor even hate--his neighbour as himself.
-
-
 
 But this quality in Prussia does have one effect which has reference to the
 
@@ -115,8 +123,6 @@ Prussian calls all men to admire the [[Beauty|beauty]] of his large blue eyes. I
 do, it is because they have inferior eyes: if they don't, it is because
 
 they have no eyes.
-
-
 
 Wherever the most miserable remnant of our race, astray and dried up in
 

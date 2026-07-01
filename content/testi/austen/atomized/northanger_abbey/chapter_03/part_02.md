@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 2 (part 2)"
+title: "Northanger Abbey — Chapter 2 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_03/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_08/part_01">part 01 ›</a></div>
 </nav>
 
+
+her protégée, Mrs. Allen made her way through the throng of men by the
+
+door, as swiftly as the necessary caution would allow; Catherine,
 
 however, kept close at her side, and linked her arm too firmly within
 

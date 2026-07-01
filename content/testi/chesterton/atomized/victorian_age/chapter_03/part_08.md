@@ -14,6 +14,46 @@ tags:
 </nav>
 
 
+he so often called himself, a craftsman. He had enough masculine
+
+strength to be tidy: that is, after the masculine manner, tidy about his
+
+own trade. If his [[Poems|poems]] were too like wallpapers, it was because he
+
+really could make wallpapers. He knew that lines of poetry ought to be
+
+in a row, as palings ought to be in a row; and he knew that neither
+
+palings nor poetry looks any the worse for being simple or even severe.
+
+In a sense Morris was all the more creative because he felt the hard
+
+limits of creation as he would have felt them if he were not working in
+
+words but in wood; and if he was unduly dominated by the mere
+
+conventions of the mediævals, it was largely because they were (whatever
+
+else they were) the very finest fraternity of free workmen the world is
+
+ever likely to see.
+
+The very things that were urged against Morris are in this sense part of
+
+his ethical importance; part of the more promising and wholesome turn he
+
+was half unconsciously giving to the movement of modern art. His hazier
+
+fellow-Socialists blamed him because he made money; but this was at
+
+least in some degree because he made other things to make money: it was
+
+part of the real and refreshing fact that at last an æsthete had
+
+appeared who could make something. If he was a capitalist, at least he
+
+was what later capitalists cannot or will not be--something higher than
+
 a capitalist, a tradesman. As compared with aristocrats like Swinburne
 
 or aliens like Rossetti, he was vitally English and vitally Victorian.
@@ -68,8 +108,6 @@ of the Æsthetes to smell mediævalism as a smell of the morning; and not
 
 as a mere scent of [[Decay|decay]].
 
-
-
 With him the poetry that had been peculiarly Victorian practically
 
 ends; and, on the whole, it is a happy ending. There are many other
@@ -120,15 +158,11 @@ he made a manly attempt to tread down the decadents and return to the
 
 right reason of Wordsworth--
 
-
-
         "I have not paid the world
 
     The evil and the insolent courtesy
 
     Of offering it my baseness as a gift."
-
-
 
 But none of them were able even to understand Francis Thompson; his
 

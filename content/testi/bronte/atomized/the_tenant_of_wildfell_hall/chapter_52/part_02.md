@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 52 (part 2)"
+title: "The Tenant of Wildfell Hall — Chapter 52 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_52/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_53/part_01">part 01 ›</a></div>
 </nav>
 
+
+with a change of linen from my small carpet-bag, [[Well|well]]-brushed clothes,
+
+[[Well|well]]-polished boots, and neat new gloves, I mounted “The [[Lightning]],”
+
+and resumed my [[Journey|journey]]. I had nearly two stages yet before me, but the
 
 coach, I was informed, passed through the neighbourhood of Staningley,
 
@@ -74,7 +80,7 @@ deep, [[Well|well]]-cut ditches, and fine timber-trees, growing sometimes on the
 
 borders, sometimes in the midst of the enclosure: “_very_ fine land, if
 
-you saw it in the [[Summer|summer]] or [[spring]].”
+you saw it in the [[Summer|summer]] or [[Spring|spring]].”
 
 
 

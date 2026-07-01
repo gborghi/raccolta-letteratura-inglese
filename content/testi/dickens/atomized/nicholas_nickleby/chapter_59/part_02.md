@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 59 (part 2)"
+title: "Nicholas Nickleby — Chapter 59 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -129,9 +129,3 @@ you with his [[Secrets|secrets]], keep them; keep them, she-devil that you are!�
 the woman; ‘not so much his [[Secrets|secrets]] as yours. None of your black looks
 at me! You’ll want ‘em all, perhaps, for another [[Time|time]]. You had better
 keep ‘em.’
-
-‘Will you,’ said Ralph, suppressing his passion as [[Well|well]] as he could,
-and clutching her tightly by the wrist; ‘will you go to your husband and
-tell him that I know he is at [[Home|home]], and that I must see him? And
-will you tell me what it is that you and he mean by this new style of
-behaviour?’

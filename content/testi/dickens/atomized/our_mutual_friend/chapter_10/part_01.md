@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 5 (part 1)"
+title: "Our Mutual Friend — Chapter 6 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,119 +10,106 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_09/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_10/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_09/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_10/part_02">part 02 ›</a></div>
 </nav>
 
 
-Chapter 5
+Chapter 6
 
-BOFFIN’S BOWER
+CUT ADRIFT
 
 
-Over against a [[London]] [[house]], a corner [[house]] not far from Cavendish
-Square, a man with a wooden leg had sat for some years, with his
-remaining foot in a basket in cold weather, picking up a living on
-this wise:—Every morning at eight o’[[Clock|clock]], he stumped to the corner,
-carrying a chair, a clothes-[[Horse|horse]], a pair of trestles, a board, a
-basket, and an umbrella, all strapped together. Separating these, the
-board and trestles became a counter, the basket supplied the few small
-lots of fruit and sweets that he offered for sale upon it and became a
-foot-warmer, the unfolded clothes-[[Horse|horse]] displayed a choice collection of
-halfpenny ballads and became a screen, and the stool planted within it
-became his post for the rest of the day. All weathers saw the man at the
-post. This is to be accepted in a [[Double|double]] sense, for he contrived a
-back to his wooden stool, by placing it against the lamp-post. When the
-weather was wet, he put up his umbrella over his stock in trade, not
-over himself; when the weather was dry, he furled that faded article,
-tied it round with a piece of yarn, and laid it [[Cross|cross]]-wise under the
-trestles: where it looked like an unwholesomely-forced lettuce that had
-lost in colour and crispness what it had gained in size.
+The Six Jolly Fellowship Porters, already mentioned as a tavern of
+a dropsical appearance, had long settled down into a state of hale
+infirmity. In its whole constitution it had not a straight floor, and
+hardly a straight line; but it had outlasted, and clearly would yet
+outlast, many a better-trimmed building, many a sprucer public-[[house]].
+Externally, it was a narrow lopsided wooden jumble of corpulent windows
+heaped one upon another as you might heap as many toppling oranges,
+with a crazy wooden verandah impending over the [[Water|water]]; indeed the whole
+[[house]], inclusive of the complaining [[Flag|flag]]-staff on the roof, impended
+over the [[Water|water]], but seemed to have got into the condition of a
+faint-hearted diver who has paused so long on the brink that he will
+never go in at all.
 
-He had established his right to the corner, by imperceptible
-prescription. He had never varied his ground an inch, but had in the
-beginning diffidently taken the corner upon which the side of the [[house]]
-gave. A howling corner in the [[Winter|winter]] [[Time|time]], a dusty corner in the [[Summer|summer]]
-[[Time|time]], an undesirable corner at the best of times. Shelterless fragments
-of straw and paper got up revolving storms there, when the main street
-was at peace; and the [[Water|water]]-cart, as if it were drunk or short-sighted,
-came blundering and jolting round it, making it muddy when all else was
-clean.
+This description applies to the [[River|river]]-frontage of the Six Jolly
+Fellowship Porters. The back of the establishment, though the chief
+entrance was there, so contracted that it merely represented in its
+connexion with the front, the handle of a flat iron set upright on its
+broadest end. This handle stood at the [[Bottom|bottom]] of a wilderness of [[Court|court]]
+and alley: which wilderness pressed so hard and close upon the Six Jolly
+Fellowship Porters as to leave the hostelry not an inch of ground beyond
+its door. For this reason, in combination with the fact that the [[house]]
+was all but afloat at high [[Water|water]], when the Porters had a family wash the
+linen subjected to that operation might usually be seen drying on lines
+stretched across the reception-rooms and bed-chambers.
 
-On the front of his sale-board hung a little placard, like a
-kettle-holder, bearing the [[Inscription|inscription]] in his own small text:
+The wood forming the chimney-pieces, beams, partitions, floors and
+doors, of the Six Jolly Fellowship Porters, seemed in its old age
+fraught with confused memories of its youth. In many places it had
+become gnarled and riven, according to the manner of old trees; knots
+started out of it; and here and there it seemed to twist itself into
+some likeness of boughs. In this state of second [[Childhood|childhood]], it had an
+air of being in its own way garrulous about its early life. Not without
+reason was it often asserted by the regular frequenters of the Porters,
+that when the light shone full upon the grain of certain panels, and
+particularly upon an old corner cupboard of walnut-wood in the bar, you
+might trace little forests there, and tiny trees like the parent tree,
+in full umbrageous leaf.
 
-     Errands gone
-     On with fi
-     Delity By
-     Ladies and Gentlemen
-     I remain
-     Your humble Servt.
-     [[Silas Wegg]].
+The bar of the Six Jolly Fellowship Porters was a bar to soften the
+human breast. The available space in it was not much larger than a
+hackney-coach; but no one could have wished the bar bigger, that space
+was so girt in by corpulent little casks, and by cordial-bottles
+radiant with fictitious grapes in bunches, and by lemons in nets, and
+by biscuits in baskets, and by the polite beer-pulls that made low
+bows when customers were served with beer, and by the [[cheese]] in a snug
+corner, and by the landlady’s own small table in a snugger corner near
+the [[Fire|fire]], with the cloth everlastingly laid. This haven was divided from
+the rough world by a glass partition and a half-door, with a leaden
+sill upon it for the convenience of resting your liquor; but, over this
+half-door the bar’s snugness so gushed forth that, albeit customers
+drank there standing, in a dark and draughty passage where they were
+shouldered by other customers passing in and out, they always appeared
+to drink under an enchanting delusion that they were in the bar itself.
 
-He had not only settled it with himself in course of [[Time|time]], that he
-was errand-goer by appointment to the [[house]] at the corner (though he
-received such commissions not half a dozen times in a year, and then
-only as some servant’s deputy), but also that he was one of the [[house]]’s
-retainers and owed vassalage to it and was bound to leal and loyal
-interest in it. For this reason, he always spoke of it as ‘Our [[house|House]],’
-and, though his knowledge of its affairs was mostly speculative and
-all wrong, claimed to be in its confidence. On similar grounds he never
-beheld an inmate at any one of its windows but he touched his hat. Yet,
-he knew so little about the inmates that he gave them names of his own
-invention: as ‘Miss Elizabeth’, ‘Master George’, ‘Aunt Jane’, ‘Uncle
-Parker’—having no authority whatever for any such designations, but
-particularly the last—to which, as a natural consequence, he stuck with
-great obstinacy.
+For the rest, both the tap and parlour of the Six Jolly Fellowship
+Porters gave upon the [[River|river]], and had red curtains matching the noses of
+the regular customers, and were provided with comfortable fireside tin
+utensils, like models of sugar-loaf hats, made in that shape that they
+might, with their pointed ends, seek out for themselves glowing nooks
+in the depths of the red coals, when they mulled your ale, or heated for
+you those delectable drinks, Purl, Flip, and Dog’s Nose. The first of
+these humming compounds was a speciality of the Porters, which, through
+an [[Inscription|inscription]] on its door-posts, gently appealed to your feelings as,
+‘The Early Purl [[house|House]]’. For, it would seem that Purl must always be
+taken early; though whether for any more distinctly stomachic reason
+than that, as the early bird catches the worm, so the early purl catches
+the customer, cannot here be resolved. It only remains to add that in
+the handle of the flat iron, and opposite the bar, was a very little
+room like a three-cornered hat, into which no direct ray of sun, [[Moon|moon]],
+or star, ever penetrated, but which was superstitiously regarded as a
+sanctuary replete with comfort and retirement by gaslight, and on the
+door of which was therefore painted its alluring name: Cosy.
 
-Over the [[house]] itself, he exercised the same imaginary power as over its
-inhabitants and their affairs. He had never been in it, the length of
-a piece of fat black [[Water|water]]-pipe which trailed itself over the area-door
-into a damp stone passage, and had rather the air of a leech on the
-[[house]] that had ‘taken’ wonderfully; but this was no impediment to his
-arranging it according to a plan of his own. It was a great dingy [[house]]
-with a quantity of dim side [[Window|window]] and blank back premises, and it
-cost his mind a world of trouble so to lay it out as to account for
-everything in its external appearance. But, this once done, was quite
-satisfactory, and he rested persuaded, that he knew his way about the
-[[house]] blindfold: from the barred garrets in the high roof, to the two
-iron extinguishers before the main door—which seemed to request all
-lively visitors to have the kindness to put themselves out, before
-entering.
+Miss Potterson, sole proprietor and manager of the Fellowship Porters,
+reigned supreme on her throne, the Bar, and a man must have drunk
+himself mad drunk indeed if he thought he could contest a point with
+her. Being known on her own authority as Miss Abbey Potterson, some
+[[Water|water]]-side heads, which (like the [[Water|water]]) were none of the clearest,
+harboured muddled notions that, because of her dignity and firmness, she
+was named after, or in some sort related to, the Abbey at Westminster.
+But, Abbey was only short for Abigail, by which name Miss Potterson had
+been christened at Limehouse Church, some sixty and odd years before.
 
-Assuredly, this stall of [[Silas Wegg]]’s was the hardest little stall of
-all the sterile little stalls in [[London]]. It gave you the face-ache
-to look at his apples, the stomach-ache to look at his oranges, the
-tooth-ache to look at his nuts. Of the latter commodity he had always
-a grim little heap, on which lay a little wooden measure which had
-no discernible inside, and was considered to represent the penn’orth
-appointed by Magna Charta. Whether from too much east [[Wind|wind]] or no—it was
-an easterly corner—the stall, the stock, and the keeper, were all as
-dry as the [[Desert]]. Wegg was a knotty man, and a close-grained, with a
-face carved out of very hard material, that had just as much play
-of expression as a watchman’s rattle. When he laughed, certain jerks
-occurred in it, and the rattle sprung. Sooth to say, he was so wooden
-a man that he seemed to have taken his wooden leg naturally, and rather
-suggested to the fanciful observer, that he might be expected—if his
-development received no untimely check—to be completely set up with a
-pair of wooden legs in about six months.
+‘Now, you mind, you Riderhood,’ said Miss Abbey Potterson, with emphatic
+forefinger over the half-door, ‘the Fellowship don’t want you at all,
+and would rather by far have your room than your company; but if you
+were as welcome here as you are not, you shouldn’t even then have
+another drop of drink here this [[Night|night]], after this present pint of beer.
+So make the most of it.’
 
-Mr Wegg was an observant person, or, as he himself said, ‘took a
-powerful sight of notice’. He saluted all his regular passers-by every
-day, as he sat on his stool backed up by the lamp-post; and on the
-adaptable character of these salutes he greatly plumed himself. Thus,
-to the rector, he addressed a bow, compounded of lay deference, and
-a slight touch of the shady preliminary meditation at church; to the
-doctor, a confidential bow, as to a gentleman whose acquaintance with
-his inside he begged respectfully to acknowledge; before the Quality he
-delighted to abase himself; and for Uncle Parker, who was in the army
-(at least, so he had settled it), he put his open hand to the side
-of his hat, in a military manner which that angry-eyed buttoned-up
-inflammatory-faced old gentleman appeared but imperfectly to appreciate.
+‘But you know, Miss Potterson,’ this was suggested very meekly though,
+‘if I behave myself, you can’t help serving me, miss.’
 
-The only article in which Silas dealt, that was not hard, was
-gingerbread. On a certain day, some wretched infant having purchased the
-damp gingerbread-[[Horse|horse]] (fearfully out of condition), and the adhesive
-bird-cage, which had been exposed for the day’s sale, he had taken a tin
-box from under his stool to produce a relay of those dreadful specimens,
-and was going to look in at the lid, when he said to himself, pausing:
-‘Oh! Here you are again!’
+‘CAN’T I!’ said Abbey, with infinite expression.

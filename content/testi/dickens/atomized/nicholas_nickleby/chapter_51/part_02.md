@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 51 (part 2)"
+title: "Nicholas Nickleby — Chapter 51 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_51/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_51/part_03">part 03 ›</a></div>
 </nav>
 
+
+With which consolatory assurance, Peg Sliderskew gathered up the chosen
+suit, and folding her skinny arms upon the bundle, stood, mouthing, and
+grinning, and blinking her watery eyes, like an uncouth figure in some
+monstrous piece of carving.
 
 ‘You’re in a funny [[Humour|humour]], an’t you, Peg?’ said [[arthur|Arthur]], with not the
 best possible grace.
@@ -138,11 +143,3 @@ I’ll get the pen and ink, and write a line in answer. I’ll not detain
 you long. I know you’re a treasure to your master, Mr. Noggs. He speaks
 of you in such terms, sometimes, that, oh dear! you’d be astonished. I
 may say that I do too, and always did. I always say the same of you.’
-
-‘That’s “Curse Mr. Noggs with all my heart!” then, if you do,’ thought
-Newman, as Gride hurried out.
-
-The letter had fallen on the ground. Looking carefully about him for an
-instant, Newman, impelled by curiosity to know the result of the design
-he had overheard from his office closet, caught it up and rapidly read
-as follows:

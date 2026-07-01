@@ -14,6 +14,16 @@ tags:
 </nav>
 
 
+He fell into an almost sullen [[Silence|silence]] again; and several villages had been passed before he spoke again.
+
+
+
+
+They tramped through the darkness; and [[Dawn|dawn]] surprised them somewhere in the wilder and more wooded parts where the roads began to rise and roam. Dalroy gave an exclamation of pleasure and pointed ahead, drawing the attention of Dorian to the distance. Against the silver and scarlet bars of the daybreak could be seen afar a dark purple dome, with a [[Crown|crown]] of dark green [[Leaves|leaves]]; the place they had called Roundabout.
+
+
+
+
 Dalroy’s spirit seemed to revive at the sight, with the customary accompaniment of the threat of vocalism.
 
 

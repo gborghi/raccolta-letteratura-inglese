@@ -1,5 +1,5 @@
 ---
-title: "[[Richard II]] — Act V, Scene 5 — exchange (NORTHUMBERLAND) [4]"
+title: "Richard II — Act V, Scene 5 — exchange (NORTHUMBERLAND) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/richard-ii-(shakespeare)"

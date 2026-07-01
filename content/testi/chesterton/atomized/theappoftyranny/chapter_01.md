@@ -1,5 +1,5 @@
 ---
-title: "[[TheAppOfTyranny]] — Chapter 1"
+title: "TheAppOfTyranny — Chapter 1"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/theappoftyranny-(chesterton)"
@@ -16,41 +16,19 @@ tags:
 
 CHAPTER
 
-
-
     THE FACTS OF THE CASE
-
-
 
 I   THE WAR ON THE WORD
 
-
-
 II  THE REFUSAL OF RECIPROCITY
-
-
 
 III THE APPETITE OF TYRANNY
 
-
-
 IV  THE ESCAPE OF FOLLY
-
-
 
     LETTERS TO AN OLD GARIBALDIAN
 
-
-
-
-
-
-
 THE FACTS OF THE CASE
-
-
-
-
 
 Unless we are all mad, there is at the back of the most bewildering
 
@@ -71,8 +49,6 @@ both were burned because I set [[Fire|fire]] to their [[house]]. That is the sto
 the thing. The mere facts of the story about the present European
 
 conflagration are quite as easy to tell.
-
-
 
 Before we go on to the deeper things which make this war the most sincere
 
@@ -118,8 +94,6 @@ Macaulay, but so far as the mere contemporary facts are concerned, it might
 
 have been written by me.
 
-
-
 Upon the immediate logical and legal origin of the English interest there
 
 can be no rational [[debate]]. There are some things so simple that one can
@@ -132,45 +106,25 @@ diplomatist if he had been silenced every [[Time|time]] by Prussian diplomacy.
 
 Suppose we arrange it in the form of a kind of diary.
 
-
-
 July 24. [[Germany]] invades Belgium.
-
-
 
 July 25. England declares war.
 
-
-
 July 26. [[Germany]] promises not to annex Belgium.
-
-
 
 July 27. England withdraws from the war.
 
-
-
 July 28. [[Germany]] annexes Belgium. England declares war.
-
-
 
 July 29. [[Germany]] promises not to annex France. England withdraws from the
 
 war.
 
-
-
 July 30. [[Germany]] annexes France. England declares war.
-
-
 
 July 31. [[Germany]] promises not to annex England.
 
-
-
 Aug. 1. England withdraws from the war. [[Germany]] invades England...
-
-
 
 How long is anybody expected to go with that sort of game, or keep peace at
 
@@ -183,8 +137,6 @@ cold facts of the final negotiations, as told by any of the diplomatists in
 any of the documents, there is no [[Doubt|doubt]] about the story. And no [[Doubt|doubt]] about
 
 the [[Villain|villain]] of the story.
-
-
 
 These are the last facts--the facts which involved England. It is equally
 
@@ -223,8 +175,6 @@ arbitration--in short, for peace. But Prussia had already begun to
 mobilise; and Prussia, presuming that Servia might thus be rescued,
 
 declared war.
-
-
 
 Between these two ends of fact, the ultimatum to Servia, the ultimatum to
 
@@ -312,8 +262,6 @@ in turning up punctually to his appointment: or the unfair shock given to a
 
 creditor by the debtor paying his debts.
 
-
-
 Lastly, there is an attitude not unknown in the crisis against which I
 
 should particularly like to protest. I should address my protest especially
@@ -341,8 +289,6 @@ human justice and historic continuity: but that they are specially and
 supremely wrong upon their own principles of arbitration and international
 
 peace.
-
-
 
 These sincere and high-minded peace-[[lovers]] are always telling us that
 
@@ -381,8 +327,6 @@ into the dull details; we do enquire into the origins; we do emphatically
 enquire who it was that hit first. In short we do what I have done very
 
 briefly in this place.
-
-
 
 Given this, it is indeed true that behind these facts there are truths;
 

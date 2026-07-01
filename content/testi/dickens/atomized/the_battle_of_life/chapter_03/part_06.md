@@ -14,6 +14,25 @@ tags:
 </nav>
 
 
+The spirit of the lost girl looked out of those eyes.  Those eyes of
+Grace, her sister, sitting with her husband in the orchard, on their
+wedding-day, and his and Marion’s birth-day.
+
+He had not become a great man; he had not grown rich; he had not
+forgotten the scenes and friends of his youth; he had not fulfilled any
+one of the Doctor’s old predictions.  But, in his useful, patient,
+unknown visiting of poor men’s homes; and in his watching of sick beds;
+and in his daily knowledge of the gentleness and goodness flowering the
+by-paths of this world, not to be trodden down beneath the heavy foot of
+[[Poverty|poverty]], but springing up, elastic, in its track, and making its way
+beautiful; he had better learned and proved, in each succeeding year, the
+[[Truth|truth]] of his old [[Faith|faith]].  The manner of his life, though quiet and remote,
+had shown him how often men still entertained angels, unawares, as in the
+olden [[Time|time]]; and how the most unlikely forms—even some that were mean and
+ugly to the view, and poorly clad—became irradiated by the couch of
+sorrow, want, and [[Pain|pain]], and changed to ministering spirits with a glory
+round their heads.
+
 He lived to better purpose on the altered battle-ground, perhaps, than if
 he had contended restlessly in more ambitious lists; and he was happy
 with his wife, dear Grace.
@@ -127,30 +146,3 @@ and entreated him to pause—a moment.
 ‘[[Courage]], my wife!  When you have firmness to receive the messenger, the
 messenger is waiting at the gate.  The sun is setting on Marion’s
 birth-day.  [[Courage]], [[Courage|courage]], Grace!’
-
-She raised her head, and, looking at him, told him she was ready.  As she
-stood, and looked upon him going away, her face was so like Marion’s as
-it had been in her later days at [[Home|home]], that it was wonderful to see.  He
-took the [[Child|child]] with him.  She called her back—she bore the lost girl’s
-name—and pressed her to her bosom.  The little creature, being released
-again, sped after him, and Grace was left [[Alone|alone]].
-
-She knew not what she dreaded, or what hoped; but remained there,
-motionless, looking at the porch by which they had disappeared.
-
-Ah! what was that, emerging from its [[Shadow|shadow]]; standing on its threshold!
-That figure, with its white garments rustling in the evening air; its
-head laid down upon her father’s breast, and pressed against it to his
-loving heart!  O God! was it a vision that came bursting from the old
-man’s arms, and with a cry, and with a waving of its hands, and with a
-wild precipitation of itself upon her in its boundless [[Love|love]], sank down in
-her embrace!
-
-‘Oh, Marion, Marion!  Oh, my sister!  Oh, my heart’s dear [[Love|love]]!  Oh, joy
-and happiness unutterable, so to meet again!’
-
-It was no dream, no [[Phantom|phantom]] conjured up by [[Hope|hope]] and [[Fear|fear]], but Marion,
-sweet Marion!  So beautiful, so happy, so unalloyed by care and trial, so
-elevated and exalted in her loveliness, that as the setting sun shone
-brightly on her upturned face, she might have been a spirit visiting the
-earth upon some healing mission.

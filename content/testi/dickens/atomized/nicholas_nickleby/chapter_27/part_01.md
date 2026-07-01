@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 27 (part 1)"
+title: "Nicholas Nickleby — Chapter 27 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -133,8 +133,3 @@ to our friend, Sir Mulberry, is the good opinion of Mrs. Nickleby?’
 ‘Of what consequence?’ echoed Pyke.
 
 ‘Ay,’ repeated Pluck; ‘is it of the greatest consequence?’
-
-‘Of the very greatest consequence,’ replied Pyke.
-
-‘Mrs. Nickleby cannot be ignorant,’ said Mr. Pluck, ‘of the immense
-impression which that sweet girl has--’

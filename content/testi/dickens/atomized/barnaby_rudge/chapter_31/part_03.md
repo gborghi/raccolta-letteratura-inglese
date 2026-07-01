@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 31 (part 3)"
+title: "Barnaby Rudge — Chapter 31 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_31/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_31/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘Tush, man!’ said Joe, ‘I’m not so young as that. Needs must when the
+devil drives; and the devil that drives me is an empty pocket and an
+unhappy [[Home|home]]. For the present, good-bye.’
 
 ‘For [[King|king]] and country!’ cried the serjeant, flourishing his cap.
 
@@ -121,9 +125,3 @@ the possibility of her bursting into [[Tears|tears]], of her throwing herself in
 his arms, of her falling down in a fainting fit without previous word
 or sign; but any approach to such a line of conduct as this, had been so
 far from his thoughts that he could only look at her in silent [[Wonder|wonder]].
-
-Dolly in the meanwhile, turned to the corners of her apron, and measured
-the sides, and smoothed out the wrinkles, and was as silent as he. At
-last after a long pause, Joe said good-bye. ‘Good-bye’--said Dolly--with
-as pleasant a smile as if he were going into the next street, and were
-coming back to supper; ‘good-bye.’

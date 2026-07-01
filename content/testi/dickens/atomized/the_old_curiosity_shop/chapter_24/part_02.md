@@ -14,6 +14,16 @@ tags:
 </nav>
 
 
+‘I am almost afraid to disturb him,’ said the [[Child|child]] timidly.  ‘He does
+not seem to see us.  Perhaps if we wait a little, he may look this way.’
+
+They waited, but the schoolmaster cast no look towards them, and still
+sat, thoughtful and silent, in the little porch.  He had a kind face.
+In his plain old suit of black, he looked pale and meagre.  They
+fancied, too, a lonely air about him and his [[house]], but perhaps that
+was because the other people formed a merry company upon the green, and
+he seemed the only solitary man in all the place.
+
 They were very tired, and the [[Child|child]] would have been bold enough to
 address even a schoolmaster, but for something in his manner which
 seemed to denote that he was uneasy or distressed.  As they stood

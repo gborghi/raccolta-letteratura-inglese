@@ -1,5 +1,5 @@
 ---
-title: "The Haunted Man and the [[Ghost]]'s Bargain — Chapter 3 (part 4)"
+title: "The Haunted Man and the Ghost's Bargain — Chapter 3 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-haunted-man-and-the-ghost's-bargain-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_03/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_03/part_05">part 05 ›</a></div>
 </nav>
 
+
+Mrs. Tetterby shook her head; and without replying in words, raised a
+complete sea-[[Storm|storm]] about the baby, by her violent agitation of the
+cradle.
 
 “If you mean your [[Marriage|marriage]] was a sacrifice, my good woman—” said her
 husband.
@@ -138,10 +142,3 @@ me, and I’ll do all I can to keep you up. I thought there was no air
 about you; but there is, and it’s the air of [[Home|home]], and that’s the purest
 and the best there is, and God bless [[Home|home]] once more, and all belonging to
 it, Dolf!”
-
-“Hurrah! Here’s Mrs. William!” cried Johnny.
-
-So she was, and all the children with her; and so she came in, they
-kissed her, and kissed one another, and kissed the baby, and kissed their
-father and mother, and then ran back and flocked and danced about her,
-trooping on with her in triumph.

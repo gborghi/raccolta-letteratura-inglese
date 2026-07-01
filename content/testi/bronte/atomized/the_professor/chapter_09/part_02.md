@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 8 (part 2)"
+title: "The Professor — Chapter 8 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -13,6 +13,8 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_professor/chapter_09/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/the_professor/chapter_09/part_03">part 03 ›</a></div>
 </nav>
 
+
+There was a fearful dismay in this suggestion of my excited [[Imagination|imagination]],
 
 and if I had allowed myself [[Time|time]] to dwell upon it, I should no [[Doubt|doubt]]
 
@@ -29,8 +31,6 @@ anticipation shall be realized. I turned the door-handle, and in an
 instant had crossed the fatal threshold, closed the door behind me, and
 
 stood in the presence of Madame Pelet.
-
-
 
 Gracious heavens! The first view of her seemed to confirm my worst
 
@@ -52,21 +52,17 @@ fauteuil beside it. This was a woman, too, and, moreover, an old woman,
 
 and as fat and as rubicund as Madame Pelet was meagre and yellow; her
 
-attire was likewise very fine, and [[spring]] [[Flowers|flowers]] of different hues
+attire was likewise very fine, and [[Spring|spring]] [[Flowers|flowers]] of different hues
 
 circled in a bright wreath the [[Crown|crown]] of her violet-coloured velvet
 
 bonnet.
-
-
 
 I had only [[Time|time]] to make these general observations when Madame Pelet,
 
 coming forward with what she intended should be a graceful and elastic
 
 step, thus accosted me:
-
-
 
 “Monsieur is indeed most obliging to quit his books, his studies, at the
 
@@ -76,13 +72,9 @@ kindness by allowing me to present him to my dear friend Madame Reuter,
 
 who resides in the neighbouring [[house]]--the young ladies’ school.”
 
-
-
 “Ah!” thought I, “I knew she was old,” and I bowed and took my seat.
 
 Madame Reuter placed herself at the table opposite to me.
-
-
 
 “How do you like Belgium, Monsieur?” asked she, in an accent of the
 
@@ -140,8 +132,6 @@ I obeyed; and being seated fairly between them, I was thus addressed
 
 first by Madame Pelet, then by Madame Reuter.
 
-
-
 “We will now speak of business,” said Madame Pelet, and she went on to
 
 make an elaborate speech, which, being interpreted, was to the effect
@@ -152,8 +142,6 @@ order to give her friend Madame Reuter an opportunity of broaching an
 
 important proposal, which might turn out greatly to my advantage.
 
-
-
 “Pourvu que vous soyez sage,” said Madame Reuter, “et a vrai dire,
 
 vous en avez bien l’air. Take one drop of the punch” (or ponche, as she
@@ -162,11 +150,7 @@ pronounced it); “it is an agreeable and wholesome beverage after a full
 
 meal.”
 
-
-
 I bowed, but again declined it. She went on:
-
-
 
 “I feel,” said she, after a solemn sip--“I feel profoundly the
 
@@ -176,15 +160,11 @@ me, for you are aware, Monsieur, that it is my daughter who directs the
 
 establishment in the next [[house]]?”
 
-
-
 “Ah! I thought it was yourself, madame.” Though, indeed, at that moment
 
 I recollected that it was called Mademoiselle, not Madame Reuter’s
 
 pensionnat.
-
-
 
 “I! Oh, no! I manage the [[house]] and look after the servants, as my friend
 
@@ -192,13 +172,9 @@ Madame Pelet does for Monsieur her son--nothing more. Ah! you thought I
 
 gave lessons in class--did you?”
 
-
-
 And she laughed loud and long, as though the idea tickled her fancy
 
 amazingly.
-
-
 
 “Madame is in the wrong to laugh,” I observed; “if she does not give
 
@@ -208,22 +184,12 @@ white pocket-handkerchief and wafted it, with a French grace, past my
 
 nose, bowing at the same [[Time|time]].
 
-
-
 “Quel charmant jeune homme!” murmured Madame Pelet in a low voice.
 
 Madame Reuter, being less sentimental, as she was Flamand and not
 
 French, only laughed again.
 
-
-
 “You are a dangerous person, I [[Fear|fear]],” said she; “if you can forge
 
 compliments at that rate, Zoraide will positively be afraid of you; but
-
-if you are good, I will keep your secret, and not tell her how [[Well|well]] you
-
-can flatter. Now, listen what sort of a proposal she makes to you. She
-
-has heard that you are an excellent professor, and as she wishes to get

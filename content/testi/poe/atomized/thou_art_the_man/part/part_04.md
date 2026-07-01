@@ -1,5 +1,5 @@
 ---
-title: "[[Thou Art the Man]] (part 4)"
+title: "Thou Art the Man (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/thou-art-the-man-(poe)"
@@ -98,13 +98,3 @@ tags:
       “Guilty of murder in the first degree.” Soon afterward the unhappy wretch
       received sentence of [[Death|death]], and was remanded to the county jail to await
       the inexorable vengeance of the law.
-
-      In the meantime, the noble behavior of “Old Charley Goodfellow,” had
-      doubly endeared him to the honest citizens of the borough. He became ten
-      times a greater favorite than ever, and, as a natural result of the
-      hospitality with which he was treated, he relaxed, as it were, perforce,
-      the extremely parsimonious habits which his [[Poverty|poverty]] had hitherto impelled
-      him to observe, and very frequently had little reunions at his own [[house]],
-      when wit and jollity reigned supreme—dampened a little, of course, by the
-      occasional remembrance of the untoward and [[Melancholy|melancholy]] fate which impended
-      over the nephew of the late lamented bosom friend of the generous host.

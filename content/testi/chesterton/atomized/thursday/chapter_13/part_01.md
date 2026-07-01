@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 13 (part 1)"
+title: "thursday — Chapter 13 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -17,7 +17,6 @@ tags:
                          CHAPTER XIII
 
                 THE PURSUIT OF THE PRESIDENT
-
 
 NEXT morning five bewildered but hilarious people took the boat
 for Dover.  The poor old Colonel might have had some cause
@@ -156,9 +155,3 @@ Look at my face."
 "I dare say it's the sort of face that grows on one," said the President,
 "in fact, it grows on you; and who am I to quarrel with the wild fruits
 upon the Tree of Life?  I dare say it will grow on me some day."
-
-"We have no [[Time|time]] for tomfoolery," said the Secretary, breaking in savagely.
-"We have come to know what all this means.  Who are you?  What are you?
-Why did you get us all here?  Do you know who and what we are?
-Are you a half-witted man playing the conspirator, or are you a clever
-man playing the [[Fool|fool]]?  Answer me, I tell you."

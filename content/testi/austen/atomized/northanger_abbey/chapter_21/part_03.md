@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 20 (part 3)"
+title: "Northanger Abbey — Chapter 20 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_21/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_22/part_01">part 01 ›</a></div>
 </nav>
 
+
+“No, indeed; I should be too much frightened to do any such thing.”
+
+
+
+“What! not when Dorothy has given you to understand that there is a
+
+secret subterraneous communication between your apartment and the
+
+chapel of St. Anthony, scarcely two miles off. Could you shrink from so
 
 simple an adventure? No, no, you will proceed into this small vaulted
 
@@ -42,7 +52,7 @@ without discovering anything of importance—perhaps nothing but a
 
 considerable hoard of diamonds. At last, however, by touching a secret
 
-[[spring]], an inner compartment will open—a roll of paper appears—you
+[[Spring|spring]], an inner compartment will open—a roll of paper appears—you
 
 seize it—it contains many sheets of manuscript—you hasten with the
 

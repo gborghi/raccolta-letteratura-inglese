@@ -81,7 +81,7 @@ buried in Chaucer's day--the Black Prince, for instance.
 Warriors at least as valiant and victorious as Nelson were buried
 at Westminster in the Middle Ages--[[Henry V]], for instance.
 But when their images were carved on their tombs at all they
-were carved with closed eyes and hands pointed in [[Prayer|prayer]].
+were carved with closed eyes and hands pointed in [[prayer]].
 And I have seen one such monument, in Salisbury [[Cathedral]], I think,
 in which the man lies in dumb supplication, but the dog at his feet
 has risen erect and watchful, having heard the trumpet of God.

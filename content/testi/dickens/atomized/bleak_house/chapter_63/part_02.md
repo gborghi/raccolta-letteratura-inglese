@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 63 (part 2)"
+title: "Bleak House — Chapter 63 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_63/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_63/part_03">part 03 ›</a></div>
 </nav>
 
+
+“So far from it,” he declares at the end of a full account of what
+has preceded his arrival there, “I had very little idea of making
+myself known. I thought if you took by any means forgivingly to my
+name I might gradually get myself up to the point of writing a
+letter. But I should not have been surprised, brother, if you had
+considered it anything but welcome news to hear of me.”
 
 “We will show you at [[Home|home]] what kind of news we think it, George,”
 returns his brother. “This is a great day at [[Home|home]], and you could not
@@ -126,14 +133,3 @@ brotherly, as I said before, and I thank you heartily for it,”
 shaking him a long [[Time|time]] by the hand. “But the [[Truth|truth]] is, brother, I am
 a—I am a kind of a weed, and it’s too late to plant me in a regular
 [[Garden|garden]].”
-
-“My dear George,” returns the elder, concentrating his strong steady
-brow upon him and smiling confidently, “leave that to me, and let me
-try.”
-
-George shakes his head. “You could do it, I have not a [[Doubt|doubt]], if
-anybody could; but it’s not to be done. Not to be done, sir! Whereas
-it so falls out, on the other hand, that I am able to be of some
-trifle of use to [[Sir Leicester Dedlock]] since his illness—brought on
-by family sorrows—and that he would rather have that help from our
-mother’s son than from anybody else.”

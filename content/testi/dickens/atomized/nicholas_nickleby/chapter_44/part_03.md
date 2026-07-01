@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 44 (part 3)"
+title: "Nicholas Nickleby — Chapter 44 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_44/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_44/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘I am obliged to wait here till the rain holds a little,’ said Ralph,
+looking abroad. ‘If you talk, sir, I shall not put my fingers in my
+ears, though your talking may have as much effect as if I did.’
 
 ‘I was once in your confidence--’ thus his companion began. Ralph looked
 round, and smiled involuntarily.
@@ -31,7 +35,7 @@ another thing.’
 the change that you must see in me after so long an absence--must see,
 for I, upon whom it has come by slow and hard degrees, see it and know
 it [[Well|well]]--will not move you to pity, let the knowledge that bread; not
-the daily bread of the Lord’s [[Prayer]], which, as it is offered up in
+the daily bread of the Lord’s [[prayer|Prayer]], which, as it is offered up in
 cities like this, is understood to include half the luxuries of the
 world for the rich, and just as much coarse food as will support life
 for the poor--not that, but bread, a crust of dry hard bread, is beyond
@@ -143,16 +147,3 @@ hard work, with (maybe) [[Chains|chains]] upon those legs of yours, and shorter
 food than when I “pinched” and “ground” you, has blunted your wits, or
 you would not come with such a tale as this to me. You a hold upon me!
 Keep it, or publish it to the world, if you like.’
-
-‘I can’t do that,’ interposed Brooker. ‘That wouldn’t serve me.’
-
-‘Wouldn’t it?’ said Ralph. ‘It will serve you as much as bringing it to
-me, I promise you. To be plain with you, I am a careful man, and know my
-affairs thoroughly. I know the world, and the world knows me. Whatever
-you gleaned, or heard, or saw, when you served me, the world knows and
-magnifies already. You could tell it nothing that would surprise it,
-unless, indeed, it redounded to my credit or [[Honour|honour]], and then it would
-scout you for a liar. And yet I don’t find business slack, or clients
-scrupulous. Quite the contrary. I am reviled or threatened every day by
-one man or another,’ said Ralph; ‘but things roll on just the same, and
-I don’t grow poorer either.’

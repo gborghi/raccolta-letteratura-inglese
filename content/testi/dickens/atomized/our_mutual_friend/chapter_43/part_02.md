@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 2 (part 2)"
+title: "Our Mutual Friend — Chapter 5 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,129 +14,127 @@ tags:
 </nav>
 
 
-‘Pretty, pretty, pretty!’ said the old man with a clap of his hands.
-‘Most elegant taste!’
+Bella felt that Mrs Boffin was not comfortable, and that the eyes of
+that good creature sought to discover from her face what attention she
+had given to this discourse, and what impression it had made upon her.
+For which reason Bella’s eyes drooped more engrossedly over her book,
+and she turned the page with an air of profound absorption in it.
 
-‘Glad you like ’em,’ returned Miss Wren, loftily. ‘But the fun is,
-godmother, how I make the great ladies try my dresses on. Though it’s
-the hardest part of my business, and would be, even if my back were not
-bad and my legs queer.’
+‘Noddy,’ said Mrs Boffin, after thoughtfully pausing in her work.
 
-He looked at her as not understanding what she said.
+‘My dear,’ returned the Golden Dustman, stopping short in his trot.
 
-‘Bless you, godmother,’ said Miss Wren, ‘I have to scud about town at
-all hours. If it was only sitting at my bench, cutting out and sewing,
-it would be comparatively easy work; but it’s the trying-on by the great
-ladies that takes it out of me.’
+‘Excuse my putting it to you, Noddy, but now really! Haven’t you been
+a little strict with Mr Rokesmith to-[[Night|night]]? Haven’t you been a
+little—just a little little—not quite like your old [[Self|self]]?’
 
-‘How, the trying-on?’ asked Riah.
+‘Why, old woman, I [[Hope|hope]] so,’ returned Mr Boffin, cheerfully, if not
+boastfully.
 
-‘What a mooney godmother you are, after all!’ returned Miss Wren. ‘Look
-here. There’s a Drawing Room, or a grand day in the Park, or a Show, or
-a Fete, or what you like. Very [[Well|well]]. I squeeze among the crowd, and I
-look about me. When I see a great lady very suitable for my business, I
-say “You’ll do, my dear!” and I take particular notice of her, and run
-[[Home|home]] and cut her out and baste her. Then another day, I come scudding
-back again to try on, and then I take particular notice of her again.
-Sometimes she plainly seems to say, ‘How that little creature is
-staring!’ and sometimes likes it and sometimes don’t, but much more
-often yes than no. All the [[Time|time]] I am only saying to myself, “I must
-hollow out a bit here; I must slope away there;” and I am making a
-perfect slave of her, with making her try on my doll’s dress. Evening
-parties are severer work for me, because there’s only a doorway for a
-full view, and what with hobbling among the wheels of the carriages
-and the legs of the horses, I fully expect to be run over some [[Night|night]].
-However, there I have ’em, just the same. When they go bobbing into the
-hall from the carriage, and catch a glimpse of my little physiognomy
-poked out from behind a policeman’s cape in the rain, I dare say they
-think I am wondering and admiring with all my eyes and heart, but they
-little think they’re only working for my dolls! There was Lady Belinda
-Whitrose. I made her do [[Double|double]] duty in one [[Night|night]]. I said when she came
-out of the carriage, “YOU’ll do, my dear!” and I ran straight [[Home|home]] and
-cut her out and basted her. Back I came again, and waited behind the men
-that called the carriages. Very bad [[Night|night]] too. At last, “Lady Belinda
-Whitrose’s carriage! Lady Belinda Whitrose coming down!” And I made her
-try on—oh! and take pains about it too—before she got seated. That’s
-Lady Belinda hanging up by the waist, much too near the gaslight for a
-wax one, with her toes turned in.’
+‘[[Hope]] so, deary?’
 
-When they had plodded on for some [[Time|time]] nigh the [[River|river]], Riah asked
-the way to a certain tavern called the Six Jolly Fellowship Porters.
-Following the directions he received, they arrived, after two or three
-puzzled stoppages for consideration, and some uncertain looking about
-them, at the door of Miss Abbey Potterson’s dominions. A peep through
-the glass portion of the door revealed to them the glories of the bar,
-and Miss Abbey herself seated in state on her snug throne, reading the
-newspaper. To whom, with deference, they presented themselves.
+‘Our old selves wouldn’t do here, old lady. Haven’t you found that out
+yet? Our old selves would be fit for nothing here but to be robbed and
+imposed upon. Our old selves weren’t people of fortune; our new selves
+are; it’s a great difference.’
 
-Taking her eyes off her newspaper, and pausing with a suspended
-expression of countenance, as if she must finish the paragraph in hand
-before undertaking any other business whatever, Miss Abbey demanded,
-with some slight asperity: ‘Now then, what’s for you?’
+‘Ah!’ said Mrs Boffin, pausing in her work again, softly to draw a long
+breath and to look at the [[Fire|fire]]. ‘A great difference.’
 
-‘Could we see Miss Potterson?’ asked the old man, uncovering his head.
+‘And we must be up to the difference,’ pursued her husband; ‘we must be
+equal to the change; that’s what we must be. We’ve got to hold our own
+now, against everybody (for everybody’s hand is stretched out to be
+dipped into our pockets), and we have got to recollect that money makes
+money, as [[Well|well]] as makes everything else.’
 
-‘You not only could, but you can and you do,’ replied the hostess.
+‘Mentioning recollecting,’ said Mrs Boffin, with her work abandoned,
+her eyes upon the [[Fire|fire]], and her chin upon her hand, ‘do you recollect,
+Noddy, how you said to Mr Rokesmith when he first came to see us at the
+Bower, and you engaged him—how you said to him that if it had pleased
+Heaven to send [[John Harmon]] to his fortune safe, we could have been
+content with the one Mound which was our legacy, and should never have
+wanted the rest?’
 
-‘Might we speak with you, madam?’
+‘Ay, I remember, old lady. But we hadn’t tried what it was to have the
+rest then. Our new shoes had come [[Home|home]], but we hadn’t put ’em on. We’re
+wearing ’em now, we’re wearing ’em, and must step out accordingly.’
 
-By this [[Time|time]] Miss Abbey’s eyes had possessed themselves of the small
-figure of Miss [[Jenny Wren]]. For the closer observation of which, Miss
-Abbey laid aside her newspaper, [[Rose|rose]], and looked over the half-door of
-the bar. The crutch-stick seemed to entreat for its owner leave to come
-in and rest by the [[Fire|fire]]; so, Miss Abbey opened the half-door, and said,
-as though replying to the crutch-stick:
+Mrs Boffin took up her work again, and plied her needle in [[Silence|silence]].
 
-‘Yes, come in and rest by the [[Fire|fire]].’
+‘As to Rokesmith, that young man of mine,’ said Mr Boffin, dropping
+his voice and glancing towards the door with an apprehension of being
+overheard by some eavesdropper there, ‘it’s the same with him as with
+the footmen. I have found out that you must either scrunch them, or let
+them scrunch you. If you ain’t imperious with ’em, they won’t believe
+in your being any better than themselves, if as good, after the stories
+(lies mostly) that they have heard of your beginnings. There’s nothing
+betwixt stiffening yourself up, and throwing yourself away; take my word
+for that, old lady.’
 
-‘My name is Riah,’ said the old man, with courteous action, ‘and my
-avocation is in [[London]] [[City|city]]. This, my young companion—’
+Bella ventured for a moment to look stealthily towards him under her
+eyelashes, and she saw a dark cloud of suspicion, covetousness, and
+conceit, overshadowing the once open face.
 
-‘Stop a bit,’ interposed Miss Wren. ‘I’ll give the lady my card.’ She
-produced it from her pocket with an air, after struggling with the
-gigantic door-key which had got upon the top of it and kept it down.
-Miss Abbey, with manifest tokens of astonishment, took the diminutive
-document, and found it to run concisely thus:—
+‘Hows’ever,’ said he, ‘this isn’t entertaining to Miss Bella. Is it,
+Bella?’
 
+A deceiving Bella she was, to look at him with that pensively abstracted
+air, as if her mind were full of her book, and she had not heard a
+single word!
 
-		MISS [[Jenny Wren|JENNY WREN]]
+‘Hah! Better employed than to attend to it,’ said Mr Boffin. ‘That’s
+right, that’s right. Especially as you have no call to be told how to
+value yourself, my dear.’
 
-	       DOLLS’ DRESSMAKER.
+Colouring a little under this compliment, Bella returned, ‘I [[Hope|hope]] sir,
+you don’t think me vain?’
 
-	Dolls attended at their own residences.
+‘Not a bit, my dear,’ said Mr Boffin. ‘But I think it’s very creditable
+in you, at your age, to be so [[Well|well]] up with the pace of the world, and to
+know what to go in for. You are right. Go in for money, my [[Love|love]]. Money’s
+the article. You’ll make money of your good looks, and of the money Mrs
+Boffin and me will have the pleasure of settling upon you, and you’ll
+live and die rich. That’s the state to live and die in!’ said Mr Boffin,
+in an unctuous manner. ‘R—r—rich!’
 
+There was an expression of distress in Mrs Boffin’s face, as, after
+watching her husband’s, she turned to their adopted girl, and said:
 
-‘Lud!’ exclaimed Miss Potterson, staring. And dropped the card.
+‘Don’t mind him, Bella, my dear.’
 
-‘We take the liberty of coming, my young companion and I, madam,’ said
-Riah, ‘on behalf of [[Lizzie Hexam]].’
+‘Eh?’ cried Mr Boffin. ‘What! Not mind him?’
 
-Miss Potterson was stooping to loosen the bonnet-strings of the dolls’
-dressmaker. She looked round rather angrily, and said: ‘[[Lizzie Hexam]] is
-a very proud young woman.’
+‘I don’t mean that,’ said Mrs Boffin, with a worried look, ‘but I mean,
+don’t believe him to be anything but good and generous, Bella, because
+he is the best of men. No, I must say that much, Noddy. You are always
+the best of men.’
 
-‘She would be so proud,’ returned Riah, dexterously, ‘to stand [[Well|well]] in
-your good opinion, that before she quitted [[London]] for—’
+She made the declaration as if he were objecting to it: which assuredly
+he was not in any way.
 
-‘For where, in the name of the Cape of Good [[Hope]]?’ asked Miss Potterson,
-as though supposing her to have emigrated.
+‘And as to you, my dear Bella,’ said Mrs Boffin, still with that
+distressed expression, ‘he is so much attached to you, whatever he says,
+that your own father has not a truer interest in you and can hardly like
+you better than he does.’
 
-‘For the country,’ was the cautious answer,—‘she made us promise to
-come and show you a paper, which she left in our hands for that special
-purpose. I am an unserviceable friend of hers, who began to know her
-after her departure from this neighbourhood. She has been for some [[Time|time]]
-living with my young companion, and has been a helpful and a comfortable
-friend to her. Much needed, madam,’ he added, in a lower voice. ‘Believe
-me; if you knew all, much needed.’
+‘Says too!’ cried Mr Boffin. ‘Whatever he says! Why, I say so, openly.
+Give me a kiss, my dear [[Child|child]], in saying Good [[Night]], and let me confirm
+what my old lady tells you. I am very fond of you, my dear, and I am
+entirely of your mind, and you and I will take care that you shall be
+rich. These good looks of yours (which you have some right to be vain
+of; my dear, though you are not, you know) are worth money, and you
+shall make money of ’em. The money you will have, will be worth money,
+and you shall make money of that too. There’s a golden ball at your
+feet. Good [[Night|night]], my dear.’
 
-‘I can believe that,’ said Miss Abbey, with a softening glance at the
-little creature.
-
-‘And if it’s proud to have a heart that never hardens, and a temper
-that never tires, and a touch that never hurts,’ Miss Jenny struck in,
-flushed, ‘she is proud. And if it’s not, she is NOT.’
-
-Her set purpose of contradicting Miss Abbey point blank, was so far from
-offending that dread authority, as to elicit a gracious smile. ‘You do
-right, [[Child|child]],’ said Miss Abbey, ‘to speak [[Well|well]] of those who deserve [[Well|well]]
-of you.’
+Somehow, Bella was not so [[Well|well]] pleased with this assurance and this
+prospect as she might have been. Somehow, when she put her arms
+round Mrs Boffin’s neck and said Good [[Night]], she derived a sense of
+unworthiness from the still anxious face of that good woman and her
+obvious wish to excuse her husband. ‘Why, what need to excuse him?’
+thought Bella, sitting down in her own room. ‘What he said was very
+sensible, I am sure, and very true, I am sure. It is only what I often
+say to myself. Don’t I like it then? No, I don’t like it, and, though
+he is my liberal benefactor, I disparage him for it. Then pray,’ said
+Bella, sternly putting the question to herself in the looking-glass as
+usual, ‘what do you mean by this, you inconsistent little Beast?’

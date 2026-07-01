@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 16 (part 3)"
+title: "The Mystery of Edwin Drood — Chapter 16 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_17/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_17/part_04">part 04 ›</a></div>
 </nav>
 
+
+The Weir ran through his broken [[Sleep|sleep]], all [[Night|night]], and he was back again
+at sunrise. It was a bright frosty morning. The whole composition
+before him, when he stood where he had stood last [[Night|night]], was clearly
+discernible in its minutest details. He had surveyed it closely for
+some minutes, and was about to withdraw his eyes, when they were
+attracted keenly to one spot.
 
 He turned his back upon the Weir, and looked far away at the sky, and
 at the earth, and then looked again at that one spot. It caught his
@@ -105,16 +112,3 @@ sorrow, when interrogated? That he had, expressly and enthusiastically,
 planned with her, that he would await the arrival of her guardian, Mr.
 Grewgious. And yet, be it observed, he disappeared before that
 gentleman appeared.
-
-On the suspicions thus urged and supported, Neville was detained, and
-re-detained, and the search was pressed on every hand, and Jasper
-laboured [[Night|night]] and day. But nothing more was found. No discovery being
-made, which proved the lost man to be dead, it at length became
-necessary to release the person suspected of having made away with him.
-Neville was set at large. Then, a consequence ensued which Mr.
-Crisparkle had too [[Well|well]] foreseen. Neville must leave the place, for the
-place shunned him and cast him out. Even had it not been so, the dear
-old china shepherdess would have worried herself to [[Death|death]] with fears
-for her son, and with general trepidation occasioned by their having
-such an inmate. Even had that not been so, the authority to which the
-Minor Canon deferred officially, would have settled the point.

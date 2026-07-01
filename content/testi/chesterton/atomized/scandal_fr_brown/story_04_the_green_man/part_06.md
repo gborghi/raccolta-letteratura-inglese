@@ -14,6 +14,22 @@ tags:
 </nav>
 
 
+To their surprise he showed no dispostion to re - enter the [[house]], now
+that the whole company were at last about to enter it. He threw himself
+down on the rather rickety seat in the leafy arbour, and as the
+procession disappeared through the doorway, lit a pipe and proceeded to
+stare vacantly at the long ragged [[Leaves|leaves]] about his head and to listen to
+the [[Birds|birds]]. There was no man who had a more hearty and enduring appetite
+for doing nothing.
+
+He was, apparently, in a cloud of smoke and [[A Dream|a dream]] of abstraction, when
+the front doors were once more flung open and two or three figures came
+out helter - skelter, running towards him, the daughter of the [[house]] and
+her young admirer Mr Rook being easily winners in the race. Their faces
+were alight with astonishment; and the face of Inspector Burns, who
+advanced more heavily behind them, like an elephant shaking the [[Garden|garden]],
+was inflamed with some indignation as [[Well|well]].
+
 'What can all this mean?' cried Olive, as she came panting to a halt.
 'He's gone!'
 
@@ -117,20 +133,3 @@ marring a rich wife were all Making Good. But he was not a cynical
 scoundrel; or he would simply have come back and jilted or cut you as
 the case might be. He could not face you; while you were there, half of
 his broken ideal was left.
-
-'I did not tell the Admiral; but somebody did. Word came to him somehow,
-during the last grand parade on board, that his friend the family lawyer
-had betrayed him. He was in such a towering passion that he did what he
-could never have done in his sense; came straight on shore in his cocked
-hat and gold lace to catch the criminal; he wired to the police station,
-and that was why the Inspector was wandering round the Green Man.
-Lieutenant Rook followed him on shore because he suspected some family
-trouble and had half a [[Hope|hope]] he might help and put himself right. Hence
-his hesitating behaviour. As for his drawing his [[Sword|sword]] when he dropped
-behind and thought he was [[Alone|alone]], [[Well|well]] that's a matter of [[Imagination|imagination]]. He
-was a romantic person who had dreamed of swords and run away to sea; and
-found himself in a service where he wasn't even allowed to wear a [[Sword|sword]]
-except about once in three years. He thought he was quite [[Alone|alone]] on the
-sands where he played as a boy. If you don't understand what he did, I
-can only say, like Stevenson, âyou will never be a pirate.â Also you
-will never be a poet; and you have never been a boy.'

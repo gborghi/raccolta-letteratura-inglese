@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 11 (part 1)"
+title: "Shirley — Chapter 11 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -203,15 +203,3 @@ had been for ten years, but it was no ruin. Mr. Yorke had seen it kept
 in good repair, and an old gardener and his wife had lived in it,
 
 cultivated the grounds, and maintained the [[house]] in habitable condition.
-
-
-
-If Fieldhead had few other merits as a building, it might at least be
-
-termed picturesque. Its regular architecture, and the gray and mossy
-
-colouring communicated by [[Time|time]], gave it a just claim to this epithet.
-
-The old latticed windows, the stone porch, the walls, the roof, the
-
-chimney-stacks, were rich in crayon touches and sepia lights and shades.

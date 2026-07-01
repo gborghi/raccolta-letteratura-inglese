@@ -137,10 +137,3 @@ as a typist."
 As he spoke a small alert figure strode out of the [[house]] and across
 the lawns; his short beard thrust forward with something of the gesture
 of a terrier.
-
-"Yes, that is Dr. Wilson; I made arrangements with him only this morning,"
-answered [[Diana]], still staring.
-
-The doctor came to a halt in front of them, turning his head right
-and left in the terrier fashion, and looking at them with wrinkled
-brows and lids.

@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 15 (part 3)"
+title: "Our Mutual Friend — Chapter 16 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,127 +14,126 @@ tags:
 </nav>
 
 
-The bedroom where the clutching old man had lost his grip on life, was
-left as he had left it. There was the old grisly four-post bedstead,
-without hangings, and with a jail-like upper rim of iron and spikes; and
-there was the old patch-work counterpane. There was the tight-clenched
-old bureau, receding atop like a bad and secret forehead; there was the
-cumbersome old table with twisted legs, at the bed-side; and there
-was the box upon it, in which the will had lain. A few old chairs with
-patch-work covers, under which the more precious stuff to be preserved
-had slowly lost its quality of colour without imparting pleasure to any
-eye, stood against the wall. A hard family likeness was on all these
-things.
+‘Yes sure!’ said she, when the business was opened, ‘Mrs Milvey had the
+kindness to write to me, ma’am, and I got Sloppy to read it. It was a
+pretty letter. But she’s an affable lady.’
 
-‘The room was kept like this, Rokesmith,’ said Mr Boffin, ‘against the
-son’s return. In short, everything in the [[house]] was kept exactly as it
-came to us, for him to see and approve. Even now, nothing is changed
-but our own room below-stairs that you have just left. When the son came
-[[Home|home]] for the last [[Time|time]] in his life, and for the last [[Time|time]] in his life
-saw his father, it was most likely in this room that they met.’
+The visitors glanced at the long boy, who seemed to indicate by a
+broader stare of his mouth and eyes that in him Sloppy stood confessed.
 
-As the Secretary looked all round it, his eyes rested on a side door in
-a corner.
+‘For I aint, you must know,’ said Betty, ‘much of a hand at reading
+writing-hand, though I can read my [[Bible]] and most print. And I do [[Love|love]] a
+newspaper. You mightn’t think it, but Sloppy is a beautiful reader of a
+newspaper. He do the Police in different voices.’
 
-‘Another staircase,’ said Mr Boffin, unlocking the door, ‘leading down
-into the yard. We’ll go down this way, as you may like to see the yard,
-and it’s all in the [[Road|road]]. When the son was a little [[Child|child]], it was up
-and down these stairs that he mostly came and went to his father. He was
-very timid of his father. I’ve seen him sit on these stairs, in his
-shy way, poor [[Child|child]], many a [[Time|time]]. Mr and Mrs Boffin have comforted him,
-sitting with his little book on these stairs, often.’
+The visitors again considered it a point of politeness to look at
+Sloppy, who, looking at them, suddenly threw back his head, extended his
+mouth to its utmost width, and laughed loud and long. At this the two
+innocents, with their brains in that apparent danger, laughed, and Mrs
+Higden laughed, and the [[Orphan|orphan]] laughed, and then the visitors laughed.
+Which was more cheerful than intelligible.
 
-‘Ah! And his poor sister too,’ said Mrs Boffin. ‘And here’s the sunny
-place on the white wall where they one day measured one another. Their
-own little hands wrote up their names here, only with a pencil; but the
-names are here still, and the poor dears gone for ever.’
+Then Sloppy seeming to be seized with an industrious mania or fury,
+turned to at the mangle, and impelled it at the heads of the innocents
+with such a creaking and rumbling, that Mrs Higden stopped him.
 
-‘We must take care of the names, old lady,’ said Mr Boffin. ‘We must
-take care of the names. They shan’t be rubbed out in our [[Time|time]], nor yet,
-if we can help it, in the [[Time|time]] after us. Poor little children!’
+‘The gentlefolks can’t hear themselves speak, Sloppy. Bide a bit, bide a
+bit!’
 
-‘Ah, poor little children!’ said Mrs Boffin.
+‘Is that the dear [[Child|child]] in your lap?’ said Mrs Boffin.
 
-They had opened the door at the [[Bottom|bottom]] of the staircase giving on the
-yard, and they stood in the sunlight, looking at the scrawl of the two
-unsteady childish hands two or three steps up the staircase. There was
-something in this simple memento of a blighted [[Childhood|childhood]], and in the
-tenderness of Mrs Boffin, that touched the Secretary.
+‘Yes, ma’am, this is Johnny.’
 
-Mr Boffin then showed his new man of business the Mounds, and his own
-particular Mound which had been left him as his legacy under the will
-before he acquired the whole estate.
+‘Johnny, too!’ cried Mrs Boffin, turning to the Secretary; ‘already
+Johnny! Only one of the two names left to give him! He’s a pretty boy.’
 
-‘It would have been enough for us,’ said Mr Boffin, ‘in case it had
-pleased God to spare the last of those two young lives and sorrowful
-deaths. We didn’t want the rest.’
+With his chin tucked down in his shy childish manner, he was looking
+furtively at Mrs Boffin out of his blue eyes, and reaching his fat
+dimpled hand up to the lips of the old woman, who was kissing it by
+times.
 
-At the treasures of the yard, and at the outside of the [[house]], and at
-the detached building which Mr Boffin pointed out as the residence
-of himself and his wife during the many years of their service, the
-Secretary looked with interest. It was not until Mr Boffin had shown
-him every [[Wonder|wonder]] of the Bower twice over, that he remembered his having
-duties to discharge elsewhere.
+‘Yes, ma’am, he’s a pretty boy, he’s a dear darling boy, he’s the [[Child|child]]
+of my own last left daughter’s daughter. But she’s gone the way of all
+the rest.’
 
-‘You have no instructions to give me, Mr Boffin, in reference to this
-place?’
+‘Those are not his brother and sister?’ said Mrs Boffin.
 
-‘Not any, Rokesmith. No.’
+‘Oh, dear no, ma’am. Those are Minders.’
 
-‘Might I ask, without seeming impertinent, whether you have any
-intention of selling it?’
+‘Minders?’ the Secretary repeated.
 
-‘Certainly not. In remembrance of our old master, our old master’s
-children, and our old service, me and Mrs Boffin mean to keep it up as
-it stands.’
+‘Left to be Minded, sir. I keep a Minding-School. I can take only three,
+on account of the Mangle. But I [[Love|love]] children, and Four-pence a week is
+Four-pence. Come here, Toddles and Poddles.’
 
-The Secretary’s eyes glanced with so much meaning in them at the Mounds,
-that Mr Boffin said, as if in answer to a remark:
+Toddles was the pet-name of the boy; Poddles of the girl. At their
+little unsteady pace, they came across the floor, hand-in-hand, as if
+they were traversing an extremely difficult [[Road|road]] intersected by brooks,
+and, when they had had their heads patted by Mrs Betty Higden, made
+lunges at the [[Orphan|orphan]], dramatically representing an attempt to bear him,
+crowing, into captivity and [[Slavery|slavery]]. All the three children enjoyed this
+to a delightful extent, and the sympathetic Sloppy again laughed long
+and loud. When it was discreet to stop the play, Betty Higden said
+‘Go to your seats Toddles and Poddles,’ and they returned hand-in-hand
+across country, seeming to find the brooks rather swollen by late rains.
 
-‘Ay, ay, that’s another thing. I may sell THEM, though I should be sorry
-to see the neighbourhood deprived of ’em too. It’ll look but a poor dead
-flat without the Mounds. Still I don’t say that I’m going to keep ’em
-always there, for the sake of the [[Beauty|beauty]] of the landscape. There’s no
-hurry about it; that’s all I say at present. I ain’t a scholar in much,
-Rokesmith, but I’m a pretty fair scholar in [[Dust|dust]]. I can price the Mounds
-to a fraction, and I know how they can be best disposed of; and likewise
-that they take no harm by standing where they do. You’ll look in
-to-morrow, will you be so kind?’
+‘And Master—or Mister—Sloppy?’ said the Secretary, in [[Doubt|doubt]] whether he
+was man, boy, or what.
 
-‘Every day. And the sooner I can get you into your new [[house]], complete,
-the better you will be pleased, sir?’
+‘A [[Love|love]]-[[Child|child]],’ returned Betty Higden, dropping her voice; ‘parents
+never known; found in the street. He was brought up in the—’ with a
+shiver of repugnance, ‘—the [[house|House]].’
 
-‘[[Well]], it ain’t that I’m in a mortal hurry,’ said Mr Boffin; ‘only when
-you DO pay people for looking alive, it’s as [[Well|well]] to know that they ARE
-looking alive. Ain’t that your opinion?’
+‘The Poor-[[house]]?’ said the Secretary.
 
-‘Quite!’ replied the Secretary; and so withdrew.
+Mrs Higden set that resolute old face of hers, and darkly nodded yes.
 
-‘Now,’ said Mr Boffin to himself; subsiding into his regular series of
-turns in the yard, ‘if I can make it comfortable with Wegg, my affairs
-will be going smooth.’
+‘You dislike the mention of it.’
 
-The man of low cunning had, of course, acquired a mastery over the man
-of high simplicity. The mean man had, of course, got the better of the
-generous man. How long such conquests last, is another matter; that they
-are achieved, is every-day experience, not even to be flourished away by
-Podsnappery itself. The undesigning Boffin had become so far immeshed
-by the wily Wegg that his mind misgave him he was a very designing man
-indeed in purposing to do more for Wegg. It seemed to him (so skilful
-was Wegg) that he was plotting darkly, when he was contriving to do the
-very thing that Wegg was plotting to get him to do. And thus, while he
-was mentally turning the kindest of kind faces on Wegg this morning, he
-was not absolutely sure but that he might somehow deserve the charge of
-turning his back on him.
+‘Dislike the mention of it?’ answered the old woman. ‘Kill me sooner
+than take me there. Throw this pretty [[Child|child]] under cart-horses feet and
+a loaded waggon, sooner than take him there. Come to us and find us all
+a-dying, and set a light to us all where we lie and let us all blaze
+away with the [[house]] into a heap of cinders sooner than move a corpse of
+us there!’
 
-For these reasons Mr Boffin passed but anxious hours until evening came,
-and with it Mr Wegg, stumping leisurely to the Roman Empire. At about
-this period Mr Boffin had become profoundly interested in the fortunes
-of a great military leader known to him as Bully Sawyers, but perhaps
-better known to fame and easier of identification by the classical
-student, under the less Britannic name of Belisarius. Even this
-general’s career paled in interest for Mr Boffin before the clearing of
-his [[Conscience|conscience]] with Wegg; and hence, when that literary gentleman had
-according to custom eaten and drunk until he was all a-glow, and when
-he took up his book with the usual chirping introduction, ‘And now, Mr
-Boffin, sir, we’ll decline and we’ll fall!’ Mr Boffin stopped him.
+A surprising spirit in this lonely woman after so many years of hard
+working, and hard living, my Lords and Gentlemen and Honourable
+Boards! What is it that we call it in our grandiose speeches? British
+independence, rather perverted? Is that, or something like it, the ring
+of the cant?
+
+‘Do I never read in the newspapers,’ said the dame, fondling the
+[[Child|child]]—‘God help me and the like of me!—how the worn-out people that
+do come down to that, get driven from post to pillar and pillar to post,
+a-purpose to tire them out! Do I never read how they are put off, put
+off, put off—how they are grudged, grudged, grudged, the shelter, or
+the doctor, or the drop of physic, or the bit of bread? Do I never
+read how they grow heartsick of it and give it up, after having let
+themselves drop so low, and how they after all die out for want of help?
+Then I say, I [[Hope|hope]] I can die as [[Well|well]] as another, and I’ll die without
+that disgrace.’
+
+Absolutely impossible my Lords and Gentlemen and Honourable Boards, by
+any stretch of legislative wisdom to set these perverse people right in
+their [[logic]]?
+
+‘Johnny, my pretty,’ continued old Betty, caressing the [[Child|child]], and
+rather mourning over it than speaking to it, ‘your old Granny Betty is
+nigher fourscore year than threescore and ten. She never begged nor had
+a penny of the [[Union]] money in all her life. She paid scot and she
+paid lot when she had money to pay; she worked when she could, and
+she starved when she must. You pray that your Granny may have strength
+enough left her at the last (she’s strong for an old one, Johnny), to
+get up from her bed and run and hide herself and swown to [[Death|death]] in a
+hole, sooner than fall into the hands of those Cruel Jacks we read of
+that dodge and drive, and worry and weary, and scorn and shame, the
+decent poor.’
+
+A brilliant [[success]], my Lords and Gentlemen and Honourable Boards to
+have brought it to this in the minds of the best of the poor! Under
+submission, might it be worth thinking of at any odd [[Time|time]]?
+
+The fright and abhorrence that Mrs Betty Higden smoothed out of her
+strong face as she ended this diversion, showed how seriously she had
+meant it.

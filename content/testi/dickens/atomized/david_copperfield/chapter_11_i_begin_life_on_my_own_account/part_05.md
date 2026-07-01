@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 11: I BEGIN LIFE ON MY OWN ACCOUNT, AND DON’T LIKE IT (part 5)"
+title: "David Copperfield — Chapter 11: I BEGIN LIFE ON MY OWN ACCOUNT, AND DON’T LIKE IT (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_11_i_begin_life_on_my_own_account/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_11_i_begin_life_on_my_own_account/part_06">part 06 ›</a></div>
 </nav>
 
+
+At last Mr. Micawber’s difficulties came to a crisis, and he was
+arrested early one morning, and carried over to the [[King]]’s Bench [[Prison]]
+in the Borough. He told me, as he went out of the [[house]], that the God
+of day had now gone down upon him--and I really thought his heart was
+broken and mine too. But I heard, afterwards, that he was seen to play a
+lively game at skittles, before [[Noon|noon]].
 
 On the first [[Sunday]] after he was taken there, I was to go and see him,
 and have dinner with him. I was to ask my way to such a place, and just
@@ -107,15 +114,3 @@ to go back to the [[Prison|prison]], and walk up and down the parade with Mr.
 Micawber; or play casino with Mrs. Micawber, and hear reminiscences of
 her papa and mama. Whether Mr. Murdstone knew where I was, I am unable
 to say. I never told them at Murdstone and Grinby’s.
-
-Mr. Micawber’s affairs, although past their crisis, were very much
-involved by reason of a certain ‘Deed’, of which I used to hear a great
-deal, and which I suppose, now, to have been some former composition
-with his creditors, though I was so far from being clear about it
-then, that I am conscious of having confounded it with those demoniacal
-parchments which are held to have, once upon a [[Time|time]], obtained to a great
-extent in [[Germany]]. At last this document appeared to be got out of the
-way, somehow; at all events it ceased to be the rock-ahead it had been;
-and Mrs. Micawber informed me that ‘her family’ had decided that Mr.
-Micawber should apply for his release under the Insolvent Debtors Act,
-which would set him free, she expected, in about six weeks.

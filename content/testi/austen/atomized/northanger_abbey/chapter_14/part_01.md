@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 13 (part 1)"
+title: "Northanger Abbey — Chapter 13 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -211,11 +211,3 @@ distressed, but always steady.
 “I did not think you had been so obstinate, Catherine,” said James;
 
 “you were not used to be so hard to persuade; you once were the
-
-kindest, best-tempered of my sisters.”
-
-
-
-“I [[Hope|hope]] I am not less so now,” she replied, very feelingly; “but indeed
-
-I cannot go. If I am wrong, I am doing what I believe to be right.”

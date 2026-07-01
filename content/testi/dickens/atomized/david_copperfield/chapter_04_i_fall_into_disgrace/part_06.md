@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 4: I FALL INTO DISGRACE (part 6)"
+title: "David Copperfield — Chapter 4: I FALL INTO DISGRACE (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,69 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_04_i_fall_into_disgrace/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_04_i_fall_into_disgrace/part_07">part 07 ›</a></div>
 </nav>
 
+
+‘Certainly, my dear Jane,’ faltered my mother, meekly. ‘But--but do you
+think it did Edward good?’
+
+‘Do you think it did Edward harm, Clara?’ asked Mr. Murdstone, gravely.
+
+‘That’s the point,’ said his sister.
+
+To this my mother returned, ‘Certainly, my dear Jane,’ and said no more.
+
+I felt apprehensive that I was personally interested in this dialogue,
+and sought Mr. Murdstone’s eye as it lighted on mine.
+
+‘Now, David,’ he said--and I saw that cast again as he said it--‘you
+must be far more careful today than usual.’ He gave the cane another
+poise, and another switch; and having finished his preparation of it,
+laid it down beside him, with an impressive look, and took up his book.
+
+This was a good freshener to my presence of mind, as a beginning. I felt
+the words of my lessons slipping off, not one by one, or line by line,
+but by the entire page; I tried to lay hold of them; but they seemed,
+if I may so express it, to have put skates on, and to skim away from me
+with a smoothness there was no checking.
+
+We began badly, and went on worse. I had come in with an idea of
+distinguishing myself rather, conceiving that I was very [[Well|well]] prepared;
+but it turned out to be quite a mistake. Book after book was added to
+the heap of failures, Miss Murdstone being firmly watchful of us all the
+[[Time|time]]. And when we came at last to the five thousand cheeses (canes he
+made it that day, I remember), my mother burst out crying.
+
+‘Clara!’ said Miss Murdstone, in her warning voice.
+
+‘I am not quite [[Well|well]], my dear Jane, I think,’ said my mother.
+
+I saw him wink, solemnly, at his sister, as he [[Rose|rose]] and said, taking up
+the cane:
+
+‘Why, Jane, we can hardly expect Clara to bear, with perfect firmness,
+the worry and torment that David has occasioned her today. That would be
+stoical. Clara is greatly strengthened and improved, but we can hardly
+expect so much from her. David, you and I will go upstairs, boy.’
+
+As he took me out at the door, my mother ran towards us. Miss Murdstone
+said, ‘Clara! are you a perfect [[Fool|fool]]?’ and interfered. I saw my mother
+stop her ears then, and I heard her crying.
+
+He walked me up to my room slowly and gravely--I am certain he had a
+delight in that formal parade of executing justice--and when we got
+there, suddenly twisted my head under his arm.
+
+‘Mr. Murdstone! Sir!’ I cried to him. ‘Don’t! Pray don’t beat me! I have
+tried to learn, sir, but I can’t learn while you and Miss Murdstone are
+by. I can’t indeed!’
+
+‘Can’t you, indeed, David?’ he said. ‘We’ll try that.’
+
+He had my head as in a vice, but I twined round him somehow, and stopped
+him for a moment, entreating him not to beat me. It was only a moment
+that I stopped him, for he cut me heavily an instant afterwards, and in
+the same instant I caught the hand with which he held me in my mouth,
+between my teeth, and bit it through. It sets my teeth on edge to think
+of it.
 
 He beat me then, as if he would have beaten me to [[Death|death]]. Above all the
 noise we made, I heard them running up the stairs, and crying out--I
@@ -87,51 +150,3 @@ of days, it is so vividly and strongly stamped on my remembrance. On the
 last [[Night|night]] of my restraint, I was awakened by hearing my own name spoken
 in a whisper. I started up in bed, and putting out my arms in the dark,
 said:
-
-‘Is that you, Peggotty?’
-
-There was no immediate answer, but presently I heard my name again, in a
-tone so very mysterious and awful, that I think I should have gone into
-a fit, if it had not occurred to me that it must have come through the
-keyhole.
-
-I groped my way to the door, and putting my own lips to the keyhole,
-whispered: ‘Is that you, Peggotty dear?’
-
-‘Yes, my own precious Davy,’ she replied. ‘Be as soft as a mouse, or the
-Cat’ll hear us.’
-
-I understood this to mean Miss Murdstone, and was sensible of the
-urgency of the case; her room being close by.
-
-‘How’s mama, dear Peggotty? Is she very angry with me?’
-
-I could hear Peggotty crying softly on her side of the keyhole, as I was
-doing on mine, before she answered. ‘No. Not very.’
-
-‘What is going to be done with me, Peggotty dear? Do you know?’
-
-‘School. Near [[London]],’ was Peggotty’s answer. I was obliged to get her
-to repeat it, for she spoke it the first [[Time|time]] quite down my throat,
-in consequence of my having forgotten to take my mouth away from the
-keyhole and put my ear there; and though her words tickled me a good
-deal, I didn’t hear them.
-
-‘When, Peggotty?’
-
-‘Tomorrow.’
-
-‘Is that the reason why Miss Murdstone took the clothes out of my
-drawers?’ which she had done, though I have forgotten to mention it.
-
-‘Yes,’ said Peggotty. ‘Box.’
-
-‘Shan’t I see mama?’
-
-‘Yes,’ said Peggotty. ‘Morning.’
-
-Then Peggotty fitted her mouth close to the keyhole, and delivered these
-words through it with as much feeling and earnestness as a keyhole
-has ever been the medium of communicating, I will venture to assert:
-shooting in each broken little sentence in a convulsive little burst of
-its own.

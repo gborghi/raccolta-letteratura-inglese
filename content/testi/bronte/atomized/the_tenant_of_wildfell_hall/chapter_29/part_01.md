@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 29 (part 1)"
+title: "The Tenant of Wildfell Hall — Chapter 29 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -48,7 +48,7 @@ faithful Rachel, who evidently guessed my sorrows and felt for them,
 
 though she was too discreet to allude to them, I had my books and
 
-pencil, my domestic affairs, and the welfare and comfort of [[arthur|Arthur]]’s
+pencil, my domestic affairs, and the welfare and comfort of [[Arthur]]’s
 
 poor tenants and labourers to attend to: and I sometimes sought and
 
@@ -68,7 +68,7 @@ her in the beginning of June, and stayed till near the close of August.
 
 The first [[Time|time]] I saw him was on a sweet, warm evening, when I was
 
-sauntering in the park with little [[arthur|Arthur]] and Rachel, who is head-[[Nurse|nurse]]
+sauntering in the park with little [[Arthur]] and Rachel, who is head-[[Nurse|nurse]]
 
 and lady’s-maid in one—for, with my secluded life and tolerably active
 
@@ -80,7 +80,7 @@ preferred committing the important charge to her, with a young
 
 nursery-maid under her directions, to engaging any one else: besides,
 
-it saves money; and since I have made acquaintance with [[arthur|Arthur]]’s
+it saves money; and since I have made acquaintance with [[Arthur]]’s
 
 affairs, I have learnt to regard that as no trifling recommendation;
 
@@ -235,9 +235,3 @@ Huntingdon’s society for the last few weeks; and as for his tastes and
 occupations, they are quite beyond me—lonely wanderer as I am. Where I
 
 have but sipped and tasted, he drains the cup to the dregs; and if ever
-
-for a moment I have sought to drown the voice of reflection in [[Madness|madness]]
-
-and folly, or if I have wasted too much of my [[Time|time]] and talents among
-
-reckless and dissipated companions, God knows I would gladly renounce

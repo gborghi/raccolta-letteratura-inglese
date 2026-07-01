@@ -1,5 +1,5 @@
 ---
-title: "[[Emma]] — Chapter 9 (part 2)"
+title: "Emma — Chapter 11 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/emma-(austen)"
@@ -10,117 +10,140 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/works/emma-(austen)">Emma</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/emma/chapter_47/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/emma/chapter_48/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/emma/chapter_47/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/emma/chapter_47/part_03">part 03 ›</a></div>
 </nav>
 
 
-Harriet behaved extremely [[Well|well]] on the occasion, with great
-[[Self|self]]-command. What ever she might feel of brighter [[Hope|hope]], she betrayed
-nothing. [[Emma]] was gratified, to observe such a proof in her of
-strengthened character, and refrained from any allusion that might
-endanger its maintenance. They spoke, therefore, of Mrs. Churchill’s
-[[Death|death]] with mutual forbearance.
+“Me!” cried Harriet, colouring, and astonished. “Why should you caution
+me?—You do not think I care about Mr. [[Frank Churchill]].”
 
-Short letters from Frank were received at Randalls, communicating all
-that was immediately important of their state and plans. Mr. Churchill
-was better than could be expected; and their first removal, on the
-departure of the funeral for Yorkshire, was to be to the [[house]] of a
-very old friend in Windsor, to whom Mr. Churchill had been promising a
-visit the last ten years. At present, there was nothing to be done for
-Harriet; good wishes for the future were all that could yet be possible
-on [[Emma]]’s side.
+“I am delighted to hear you speak so stoutly on the subject,” replied
+[[Emma]], smiling; “but you do not mean to deny that there was a [[Time|time]]—and
+not very distant either—when you gave me reason to understand that you
+did care about him?”
 
-It was a more pressing concern to shew attention to [[Jane Fairfax]], whose
-prospects were closing, while Harriet’s opened, and whose engagements
-now allowed of no delay in any one at Highbury, who wished to shew her
-kindness—and with [[Emma]] it was grown into a first wish. She had scarcely
-a stronger regret than for her past coldness; and the person, whom she
-had been so many months neglecting, was now the very one on whom she
-would have lavished every distinction of regard or sympathy. She wanted
-to be of use to her; wanted to shew a value for her society, and
-testify respect and consideration. She resolved to prevail on her to
-spend a day at Hartfield. A note was written to urge it. The invitation
-was refused, and by a verbal message. “Miss Fairfax was not [[Well|well]] enough
-to write;” and when Mr. Perry called at Hartfield, the same morning, it
-appeared that she was so much indisposed as to have been visited,
-though against her own consent, by himself, and that she was [[Suffering|suffering]]
-under severe headaches, and a nervous fever to a degree, which made him
-[[Doubt|doubt]] the possibility of her going to Mrs. Smallridge’s at the [[Time|time]]
-proposed. Her health seemed for the moment completely deranged—appetite
-quite gone—and though there were no absolutely alarming symptoms,
-nothing touching the pulmonary complaint, which was the standing
-apprehension of the family, Mr. Perry was uneasy about her. He thought
-she had undertaken more than she was equal to, and that she felt it so
-herself, though she would not own it. Her spirits seemed overcome. Her
-present [[Home|home]], he could not but observe, was unfavourable to a nervous
-disorder:—confined always to one room;—he could have wished it
-otherwise—and her good aunt, though his very old friend, he must
-acknowledge to be not the best companion for an invalid of that
-description. Her care and attention could not be questioned; they were,
-in fact, only too great. He very much feared that Miss Fairfax derived
-more evil than good from them. [[Emma]] listened with the warmest concern;
-grieved for her more and more, and looked around eager to discover some
-way of being useful. To take her—be it only an hour or two—from her
-aunt, to give her change of air and scene, and quiet rational
-conversation, even for an hour or two, might do her good; and the
-following morning she wrote again to say, in the most feeling language
-she could command, that she would call for her in the carriage at any
-hour that Jane would name—mentioning that she had Mr. Perry’s decided
-opinion, in favour of such exercise for his patient. The answer was
-only in this short note:
+“Him!—never, never. Dear Miss Woodhouse, how could you so mistake me?”
+turning away distressed.
 
-“Miss Fairfax’s compliments and thanks, but is quite unequal to any
-exercise.”
+“Harriet!” cried [[Emma]], after a moment’s pause—“What do you mean?—Good
+Heaven! what do you mean?—Mistake you!—Am I to suppose then?—”
 
-[[Emma]] felt that her own note had deserved something better; but it was
-impossible to quarrel with words, whose tremulous inequality shewed
-indisposition so plainly, and she thought only of how she might best
-counteract this unwillingness to be seen or assisted. In spite of the
-answer, therefore, she ordered the carriage, and drove to Mrs. Bates’s,
-in the [[Hope|hope]] that Jane would be induced to join her—but it would not
-do;—[[Miss Bates]] came to the carriage door, all gratitude, and agreeing
-with her most earnestly in thinking an airing might be of the greatest
-service—and every thing that message could do was tried—but all in
-vain. [[Miss Bates]] was obliged to return without [[success]]; Jane was quite
-unpersuadable; the mere proposal of going out seemed to make her
-worse.—[[Emma]] wished she could have seen her, and tried her own powers;
-but, almost before she could hint the wish, [[Miss Bates]] made it appear
-that she had promised her niece on no account to let Miss Woodhouse in.
-“Indeed, the [[Truth|truth]] was, that poor dear Jane could not bear to see any
-[[Body|body]]—any [[Body|body]] at all—Mrs. Elton, indeed, could not be denied—and Mrs.
-Cole had made such a point—and Mrs. Perry had said so much—but, except
-them, Jane would really see nobody.”
+She could not speak another word.—Her voice was lost; and she sat down,
+waiting in great terror till Harriet should answer.
 
-[[Emma]] did not want to be classed with the Mrs. Eltons, the Mrs. Perrys,
-and the Mrs. Coles, who would force themselves anywhere; neither could
-she feel any right of preference herself—she submitted, therefore, and
-only questioned [[Miss Bates]] farther as to her niece’s appetite and diet,
-which she longed to be able to assist. On that subject poor [[Miss Bates]]
-was very unhappy, and very communicative; Jane would hardly eat any
-thing:—Mr. Perry recommended nourishing food; but every thing they
-could command (and never had any [[Body|body]] such good neighbours) was
-distasteful.
+Harriet, who was standing at some distance, and with face turned from
+her, did not immediately say any thing; and when she did speak, it was
+in a voice nearly as agitated as [[Emma]]’s.
 
-[[Emma]], on reaching [[Home|home]], called the housekeeper directly, to an
-examination of her stores; and some arrowroot of very superior quality
-was speedily despatched to [[Miss Bates]] with a most friendly note. In
-half an hour the arrowroot was returned, with a thousand thanks from
-[[Miss Bates]], but “dear Jane would not be satisfied without its being
-sent back; it was a thing she could not take—and, moreover, she
-insisted on her saying, that she was not at all in want of any thing.”
+“I should not have thought it possible,” she began, “that you could
+have misunderstood me! I know we agreed never to name him—but
+considering how infinitely superior he is to every [[Body|body]] else, I should
+not have thought it possible that I could be supposed to mean any other
+person. Mr. [[Frank Churchill]], indeed! I do not know who would ever look
+at him in the company of the other. I [[Hope|hope]] I have a better taste than
+to think of Mr. [[Frank Churchill]], who is like nobody by his side. And
+that you should have been so mistaken, is amazing!—I am sure, but for
+believing that you entirely approved and meant to encourage me in my
+attachment, I should have considered it at first too great a
+presumption almost, to dare to think of him. At first, if you had not
+told me that more wonderful things had happened; that there had been
+matches of greater disparity (those were your very words);—I should not
+have dared to give way to—I should not have thought it possible—But if
+_you_, who had been always acquainted with him—”
 
-When [[Emma]] afterwards heard that [[Jane Fairfax]] had been seen wandering
-about the meadows, at some distance from Highbury, on the afternoon of
-the very day on which she had, under the plea of being unequal to any
-exercise, so peremptorily refused to go out with her in the carriage,
-she could have no [[Doubt|doubt]]—putting every thing together—that Jane was
-resolved to receive no kindness from _her_. She was sorry, very sorry.
-Her heart was grieved for a state which seemed but the more pitiable
-from this sort of irritation of spirits, inconsistency of action, and
-inequality of powers; and it mortified her that she was given so little
-credit for proper feeling, or esteemed so little worthy as a friend:
-but she had the consolation of knowing that her intentions were good,
-and of being able to say to herself, that could Mr. Knightley have been
-privy to all her attempts of assisting [[Jane Fairfax]], could he even have
-seen into her heart, he would not, on this occasion, have found any
-thing to reprove.
+“Harriet!” cried [[Emma]], collecting herself resolutely—“Let us understand
+each other now, without the possibility of farther mistake. Are you
+speaking of—Mr. Knightley?”
+
+“To be sure I am. I never could have an idea of any [[Body|body]] else—and so I
+thought you knew. When we talked about him, it was as clear as
+possible.”
+
+“Not quite,” returned [[Emma]], with forced calmness, “for all that you
+then said, appeared to me to relate to a different person. I could
+almost assert that you had _named_ Mr. [[Frank Churchill]]. I am sure the
+service Mr. [[Frank Churchill]] had rendered you, in protecting you from
+the gipsies, was spoken of.”
+
+“Oh! Miss Woodhouse, how you do forget!”
+
+“My dear Harriet, I perfectly remember the substance of what I said on
+the occasion. I told you that I did not [[Wonder|wonder]] at your attachment; that
+considering the service he had rendered you, it was extremely
+natural:—and you agreed to it, expressing yourself very warmly as to
+your sense of that service, and mentioning even what your sensations
+had been in seeing him come forward to your rescue.—The impression of
+it is strong on my [[Memory|memory]].”
+
+“Oh, dear,” cried Harriet, “now I recollect what you mean; but I was
+thinking of something very different at the [[Time|time]]. It was not the
+gipsies—it was not Mr. [[Frank Churchill]] that I meant. No! (with some
+elevation) I was thinking of a much more precious circumstance—of Mr.
+Knightley’s coming and asking me to [[Dance|dance]], when Mr. Elton would not
+stand up with me; and when there was no other partner in the room. That
+was the kind action; that was the noble benevolence and generosity;
+that was the service which made me begin to feel how superior he was to
+every other being upon earth.”
+
+“Good God!” cried [[Emma]], “this has been a most unfortunate—most
+deplorable mistake!—What is to be done?”
+
+“You would not have encouraged me, then, if you had understood me? At
+least, however, I cannot be worse off than I should have been, if the
+other had been the person; and now—it _is_ possible—”
+
+She paused a few moments. [[Emma]] could not speak.
+
+“I do not [[Wonder|wonder]], Miss Woodhouse,” she resumed, “that you should feel a
+great difference between the two, as to me or as to any [[Body|body]]. You must
+think one five hundred million times more above me than the other. But
+I [[Hope|hope]], Miss Woodhouse, that supposing—that if—strange as it may
+appear—. But you know they were your own words, that _more_ wonderful
+things had happened, matches of _greater_ disparity had taken place
+than between Mr. [[Frank Churchill]] and me; and, therefore, it seems as if
+such a thing even as this, may have occurred before—and if I should be
+so fortunate, beyond expression, as to—if Mr. Knightley should
+really—if _he_ does not mind the disparity, I [[Hope|hope]], dear Miss
+Woodhouse, you will not set yourself against it, and try to put
+difficulties in the way. But you are too good for that, I am sure.”
+
+Harriet was standing at one of the windows. [[Emma]] turned round to look
+at her in consternation, and hastily said,
+
+“Have you any idea of Mr. Knightley’s returning your affection?”
+
+“Yes,” replied Harriet modestly, but not fearfully—“I must say that I
+have.”
+
+[[Emma]]’s eyes were instantly withdrawn; and she sat silently meditating,
+in a fixed attitude, for a few minutes. A few minutes were sufficient
+for making her acquainted with her own heart. A mind like hers, once
+opening to suspicion, made rapid progress. She touched—she admitted—she
+acknowledged the whole [[Truth|truth]]. Why was it so much worse that Harriet
+should be in [[Love|love]] with Mr. Knightley, than with [[Frank Churchill]]? Why
+was the evil so dreadfully increased by Harriet’s having some [[Hope|hope]] of a
+return? It darted through her, with the [[Speed|speed]] of an arrow, that Mr.
+Knightley must marry no one but herself!
+
+Her own conduct, as [[Well|well]] as her own heart, was before her in the same
+few minutes. She saw it all with a clearness which had never blessed
+her before. How improperly had she been acting by Harriet! How
+inconsiderate, how indelicate, how irrational, how unfeeling had been
+her conduct! What blindness, what [[Madness|madness]], had led her on! It struck
+her with dreadful force, and she was ready to give it every bad name in
+the world. Some portion of respect for herself, however, in spite of
+all these demerits—some concern for her own appearance, and a strong
+sense of justice by Harriet—(there would be no need of _compassion_ to
+the girl who believed herself loved by Mr. Knightley—but justice
+required that she should not be made unhappy by any coldness now,) gave
+[[Emma]] the resolution to sit and endure farther with calmness, with even
+apparent kindness.—For her own advantage indeed, it was fit that the
+utmost extent of Harriet’s hopes should be enquired into; and Harriet
+had done nothing to forfeit the regard and interest which had been so
+voluntarily formed and maintained—or to deserve to be slighted by the
+person, whose counsels had never led her right.—Rousing from
+reflection, therefore, and subduing her emotion, she turned to Harriet
+again, and, in a more inviting accent, renewed the conversation; for as
+to the subject which had first introduced it, the wonderful story of
+[[Jane Fairfax]], that was quite sunk and lost.—Neither of them thought but
+of Mr. Knightley and themselves.

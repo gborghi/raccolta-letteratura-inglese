@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 19 (part 1)"
+title: "Oliver Twist — Chapter 19 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -144,5 +144,3 @@ nothing more. Now, my dear, about that crib at Chertsey; when is it to
 be done, Bill, eh? When is it to be done? Such plate, my dear, such
 plate!” said the Jew: rubbing his hands, and elevating his eyebrows in
 a rapture of anticipation.
-
-“Not at all,” replied Sikes coldly.

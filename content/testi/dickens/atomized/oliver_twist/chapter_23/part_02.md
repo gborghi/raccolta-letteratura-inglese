@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 23 (part 2)"
+title: "Oliver Twist — Chapter 23 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_23/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_23/part_03">part 03 ›</a></div>
 </nav>
 
+
+“Ha! ha! That was very good! So like Mr. Grannett, wasn’t it?”
+interposed the matron. “[[Well]], Mr. Bumble?”
 
 “[[Well]], ma’am,” rejoined the beadle, “he went away; and he _did_ die in
 the streets. There’s a obstinate pauper for you!”

@@ -14,115 +14,113 @@ tags:
 </nav>
 
 
-I am not at all pharisaical about these weaknesses considered
-as weaknesses, but I am rather bored with the pretence that they
-are strong with the strength of vigilant Watchers for the [[Dawn]].
-And I am increasingly tired of the whole tone of that inverted idealism,
-which is terrified when told to make use of a single talent,
-but quite confident of its fitness to rule over ten cities.
-But I suspect, if I may describe the fashionable mood in terms
-of old-fashioned sentiment, that these people are only filling
-the [[Castle]] of [[Indolence]] with the Pleasures of [[Hope]].
+The man who has exhibited himself--as in so much of modern prose
+and verse--in every attitude of abject and dishonourable ignominy will
+find it very much harder to spring up straight of a sudden and defend
+his honour, if his real intellectual and spiritual honour is attacked.
+Among the old ways of preserving this sense of honour was the system
+of honours; and, though most of them are now pretty thoroughly
+dishonoured, nobody suggests that the Poet Laureateship has been sold.
+Anyhow, among the wider ways of doing it was what may be called
+the Pageant of Poetry; the public acknowledgment of the Poet,
+`to whom the high gods gave of right their thunders and their laurels
+and their light'.
 
-XXVIII On Mr [[Shaw]]'s [[Puritanism]]
+XXVII On Living for Posterity
 
-THERE was a [[Time|time]] when I was asked, with quite a curious persistence,
-what I thought of Mr. Bernard [[Shaw]] and what he thought of
-Professor Einstein.  It was especially in connexion with certain
-remarks about the [[Nature|nature]] of Great Men, and his reasons for limiting
-the list to some and excluding others.  I had no difficulty at
-the [[Time|time]] in answering that I thought of Mr. Bernard [[Shaw]] very much
-as I have always thought of him, and that I shou1d have no difficulty
-in admitting him to my list of Great Men, though perhaps my list
-might be a little longer, and perhaps a little more liberal than his.
-I actually wrote a book about him in the ancient days, and I am
-happy to say that he reviewed it himself, with the typical opening:
-`This is the best book of criticism that I have yet produced.'
-And what I said then is very much what I should say still:
-that there is no very fundamental antagonism between Mr. Bernard Shaw
-and myself except in one fact--that he is a Puritan and I am at least
-relatively a Pagan.  It is true that I have become a Christian;
-but that is a thing that happened to quite a large number of Pagans.
-Only I never became a Puritan; and it seems to me that Mr. Shaw
-never became anything else.
+WE all remember the story of that excess of [[Aspiration|aspiration]],
+in the sense of the use of aspirates, which led somebody to say
+of somebody, `If you give him a Hinch, he'll take a Hell.'
+Some recent extensions of social liberty have made the accident
+of the last word sound strangely like an omen.  But what strikes me
+as even more curious is this:  that there are some people who are
+perpetually demanding an ell but cannot be persuaded to accept an inch.
+They demand certain forms of social liberty in the large,
+but refuse them in the small, and especially in the solid.
+They are like people who should furiously demand a hundred head
+of cattle, and then flee in terror at the first appearance of a cow.
+Or they are like a king who should claim to rule the waves
+and be afraid to have a well or a pond in his own garden.
+The little more, and how little it is and how lightly they will take
+the larger responsibility!  The little less, and what miles they
+will run in order to be worlds away!
 
-Of course I know that there are a number of things to which his actual
-attitude would be merely negative or sceptical as compared with my own;
-but those things never affect me as real or ultimate disagreements,
-but merely as matters which he does not happen to have understood
-even sufficiently to disagree.  They are part of a heritage of
-negation from the rebels of the nineteenth and eighteenth centuries:
-a rebellion that has become almost respectable with age.
-It is almost a mark of being behind the times to go on talking merely
-of traditional religion.  What we have to deal with in the modern
-world is traditional irreligion.  The period between Voltaire
-and Bernard Shaw is merely the period of the rise and decline
-of something that began as a joke and ended as a prejudice.
-Nobody will deny the wit of Shaw, any more than the wit of Voltaire;
-but these sceptical or negative notions are not even the jokes of Shaw:
-they are merely the prejudices of Shaw.  The jokes of Shaw have
-been much more serious and socially useful things, and have been
-directed against things much more modern than ecclesiastical
-abuses which have long ago been more than sufficiently abused.
-They have been directed against the spiritual pride of physical science;
-against the Doctor's Dilemma and not merely against the Curate's Egg--
-a rather ancient egg which, after all, was always excellent in parts.
-They have been directed against the worldliness of San Francisco
-rather than the unworldliness of St. Francis.  If he made fun
-of America, it was at least at the moment when America was being
-taken most seriously, and at the moment when the seriousness was
-certainly a form of snobbishness.  I have never been disturbed by his
-disbelieving the things he does not understand, and I have always
-been delighted with his disbelieving the things he does understand:
-such as the Darwinian Theory or the Capitalist State.
-I should never be so stupid as to mistake Mr. Bernard Shaw
-for an irreligious man.  He seems to me, in a rather special
-and vivid sense, to be a religious man.  But there is always that
-deeper difference, and it is involved in the nature of the religion.
-And if I wanted a profound illustration of the difference that I mean,
-whether or no it is a difference I could explain, I could find it
-in a remark made in this discussion about Einstein and Great Men:
-a remark that may not seem to have anything to do with religion at all.
-Mr. Shaw is reported, and I apologize if he is misreported,
-as saying that he would hesitate to admit Napoleon into his select
-club of heroes; and that `it would have been better for the world
-if Napoleon had never lived'.  To which I answer that if Napoleon
-had never lived, then certainly Bernard [[Shaw]] never would have lived.
-At any rate, if Napoleon had not succeeded in being Napoleon, [[Shaw]] would
-not have succeeded in being [[Shaw]].
+For instance, I read in any number of New Leaders and Labour weeklies,
+and all sorts of papers supposed to be both progressive and popular,
+that the working-classes will now take over the government of
+the country; that the majority of manual workers will have their
+proper proportional right to rule in all matters of education and
+humanitarian reform; that the poor will at last inherit the earth.
+But if I say that one workman is capable of deciding about the education
+of one child, that he has the right to select a certain school
+or resist a certain system, I shall have all those progressive papers
+roaring at me as a rotten reactionary.  Why the workman should be
+clever enough to vote a curriculum for everybody else's children,
+but not clever enough to choose one for his own children, I cannot
+for the life of me imagine.  If I say that a decent costermonger
+is to be trusted with a donkey, or a decent rat-catcher with a dog,
+I shall be denounced as an obstacle to humanitarian legislation.
+But there is no objection to trusting a crowd of costermongers
+and rat-catchers to decide about the humanitarian legislation.
+And what is true of these particular cases of proprietorship
+is true of the whole ease of property.  When the meek inherit
+the earth, it must only mean that the mob inherits the earth.
+It must not mean that the man inherits even the smallest portion
+of the earth.  The mob is meek enough, certainly, when it is thus
+herded to its pastures by its sociological and educational pastors.
+It does not really mean that the many sheep, but that the few shepherds,
+will rule over all the meadows.  And when the nomadic shepherd
+finds himself confronted with the static or domestic peasant,
+with the man who is actually ruling his own small meadow like
+a realm, there is always a collision and a sort of civil war
+in the country-side. In any case, the original paradox remains:
+that it was regarded as a simple thing that all the meadows should
+belong to all the men, but a frantic and fantastic thing that any
+man should own any meadow.
 
-For certainly if Napoleon, or some revolutionary soldier nearly as
-competent as Napoleon (there may have been one or two others who could
-have proved competent), had not appeared to save the [[French Revolution]]
-from the invading forces of the aristocracies and autocracies, reaction
-would have shut down on the first republican hopes like a trap of iron,
-and all the democratic [[Dreams|dreams]] that have since filled the intellect
-and [[Imagination|imagination]] would have been utterly and perhaps finally destroyed.
-All that we call the modern world, with all its good and evil,
-was made by Napoleon; at any rate was made possible by Napoleon.
-And among the various products of that original revolutionary expansion
-was the particular theory of reconstruction which we call Socialism.
-I will leave Mr. [[Shaw]] to decide whether that particular product is to
-be classed among the good or evil products of the [[French Revolution]].
-But surely nobody with historical sense can [[Doubt|doubt]] that all these modern
-ideals of revolutionary improvement, with the purpose of social
-justice or equality, date from the great idealistic movement
-at the end of the eighteenth century.  Now I take it as certain
-that if the Revolution had not become militant, and been successfully
-defended by a man of military genius, it would have been easily
-crushed by the old oligarchies and despotic systems; and, having been
-easily crushed, would have been easily forgotten.  There would
-have remained no legend of revolutionary victory; and therefore,
-alas for human [[Nature|nature]], very little of revolutionary [[Heroism|heroism]].
-There would probably have remained, for centuries afterwards,
-not a gleam of revolutionary [[Hope|hope]].  I am merely stating the historical
-and especially the practical probabilities.  I do not discuss
-here how far the balance would have been for evil or good.
-We should doubtless have avoided many annoying forms of anarchical
-nonsense such as still manage to live on the tradition of the triumph
-of France.  We should have been less troubled with some mistaken
-mob movements, and some much more poisonous secret societies.
-But we should have missed some good things as [[Well|well]].
-We should have missed social [[Reform|reform]] as the serious preoccupation
-of the nineteenth century, we should have missed Socialism,
-and we should have missed [[Shaw]].
+But there is another ease that is even more curious.
+In the works of Mr. Wells, and all the typical Utopias and futuristic
+world-systems of recent times, it is incessantly and impressively
+repeated that we must live for the Future, for the Young,
+for the Rising Generation or the Babe Unborn.  The traditional
+obligations of the past are nothing, and even the temporary
+contracts and compromises of the present are comparatively little;
+but we really do have a duty to the future generations.
+It is apparently the only duty that remains.  While we are kicking
+our grandfather downstairs, we must take care to be very polite
+to our great-great-grandson, who is not yet present; and if a more
+enlightened ethic should ever justify us in painlessly poisoning
+our mother, it will be well to distract the attention by dreaming
+of some perfect Woman of the Future who may never need to be poisoned.
+These examples are quoted but lightly and from memory,
+but nobody will deny that current culture is in fact full of this
+notion of living for posterity.  It is preached as a democratic
+doctrine in the democratic organs to which I have referred.
+But it is always the People as a whole that is to live for the Posterity
+as a whole.
+
+But if we present precisely the same idea, in a present and
+practical form, it is called antiquated.  Its practical form
+is called Marriage or the Family.  It really does demand that a
+man and a woman should live largely for the next generation.
+It does demand that they should, to some extent, defer their
+personal amusements, such as divorce and dissipation, for the
+benefit of the next generation.  And whenever we suggest that,
+a wail goes up about the wickedness and cruelty of depriving
+the poor dear parents of the innocent gaieties of divorce.
+How can a poor father get any real fun out of being divorced,
+if his enjoyment is to be dashed by a morbid memory of the existence
+of his own son?  Nay, can we even be certain that the mother will
+keep up her high standard of dancing all night and every night,
+if there is a new-born baby who (with curious taste) is crying for her
+all night long?  When the problem of Posterity is presented in this
+practical form, poor old Posterity gets the knock pretty badly.
+The Present suddenly becomes much more important than the Future;
+and the rising generation is a mere drag on the risen generation,
+which intends to dance until it drops.  In this case also,
+the new thinkers are only thinking of the general, and are afraid
+to think of the particular.  Just as the Socialist must not confront
+a peasant with one concrete piece of land, so the Sociologist must
+not confront the parent with one concrete piece of Posterity.
+Otherwise the new parents will fly screaming, and in some cases adopt
+measures to ensure that there shall be next to no Posterity at all.

@@ -1,5 +1,5 @@
 ---
-title: "[[The Unparalleled Adventures of one Hans Pfaall]] (part 8)"
+title: "The Unparalleled Adventures of one Hans Pfaall (part 8)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-unparalleled-adventures-of-one-hans-pfaall-(poe)"
@@ -13,6 +13,38 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/part/part_07">‹ part 07</a><a class="ex-next" href="/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/part/part_09">part 09 ›</a></div>
 </nav>
 
+
+      our experimental knowledge of the properties of air, and the
+
+      mechanical laws regulating its dilation and compression, in what
+
+      may be called, comparatively speaking, the immediate vicinity of
+
+      the earth itself; and, at the same [[Time|time]], it is taken for granted
+
+      that animal life is and must be essentially incapable of
+
+      modification at any given [[Unattainable|unattainable]] distance from the surface.
+
+      Now, all such reasoning and from such data must, of course, be
+
+      simply analogical. The greatest height ever reached by man was
+
+      that of 25,000 feet, attained in the aeronautic expedition of
+
+      Messieurs Gay-Lussac and Biot. This is a moderate altitude, even
+
+      when compared with the eighty miles in question; and I could not
+
+      help thinking that the subject admitted room for [[Doubt|doubt]] and great
+
+      latitude for speculation.
+
+
+
+      “But, in point of fact, an ascension being made to any given
+
+      altitude, the ponderable quantity of air surmounted in any
 
       farther ascension is by no means in proportion to the additional
 
@@ -163,33 +195,3 @@ tags:
       recorded ascension, a diminution was apparent in the absolute
 
       rate of ascent; although such should have been the case, if on
-
-      account of nothing else, on account of the escape of gas through
-
-      balloons ill-constructed, and varnished with no better material
-
-      than the ordinary varnish. It seemed, therefore, that the effect
-
-      of such escape was only sufficient to counterbalance the effect
-
-      of some accelerating power. I now considered that, provided in my
-
-      passage I found the medium I had imagined, and provided that it
-
-      should prove to be actually and essentially what we denominate
-
-      atmospheric air, it could make comparatively little difference at
-
-      what extreme state of rarefaction I should discover it—that is to
-
-      say, in regard to my power of ascending—for the gas in the
-
-      balloon would not only be itself subject to rarefaction partially
-
-      similar (in proportion to the occurrence of which, I could suffer
-
-      an escape of so much as would be requisite to prevent explosion),
-
-      but, being what it was, would, at all events, continue
-
-      specifically lighter than any compound whatever of mere nitrogen

@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 39: THIRTY NINE (part 7)"
+title: "Martin Chuzzlewit — Chapter 39: THIRTY NINE (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_39_thirty_nine/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_40_forty/part_01">part 01 ›</a></div>
 </nav>
 
+
+As he had not, Tom drew down the [[Window|window]]-sash, and folded the shutter;
+and they left the rooms. He closed the door heavily, as Mr Fips had
+desired him; tried it, found it all safe, and put the key in his pocket.
 
 They made a pretty wide circuit in going back to Islington, as they had
 [[Time|time]] to spare, and Tom was never tired of looking about him. It was [[Well|well]]

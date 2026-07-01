@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 31 (part 3)"
+title: "Shirley — Chapter 31 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_31/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_31/part_04">part 04 ›</a></div>
 </nav>
 
+
+softening and conciliating, they but embolden and harden them. Of that
+
+number was Mr. Sympson.
+
+
+
+"_I_ disappointed? What is it to me? Have _I_ an interest in it? You
+
+would insinuate, perhaps, that I have motives?"
+
+
+
+"Most people have motives of some sort for their actions."
+
+
+
+"She accuses me to my face! I, that have been a parent to her, she
 
 charges with bad motives!"
 
@@ -349,57 +367,3 @@ confusion.
 
 
 "Several originals! Bless my heart!"
-
-
-
-"I have been in [[Love|love]] several times."
-
-
-
-"This is cynical."
-
-
-
-"With heroes of many nations."
-
-
-
-"What next----"
-
-
-
-"And philosophers."
-
-
-
-"She is mad----"
-
-
-
-"Don't ring the bell, uncle; you will alarm my aunt."
-
-
-
-"Your poor dear aunt, what a niece has she!"
-
-
-
-"Once I loved Socrates."
-
-
-
-"Pooh! no trifling, ma'am."
-
-
-
-"I admired Themistocles, Leonidas, Epaminondas."
-
-
-
-"Miss Keeldar----"
-
-
-
-"To pass over a few centuries, Washington was a plain man, but I liked
-
-him; but to speak of the actual present----"

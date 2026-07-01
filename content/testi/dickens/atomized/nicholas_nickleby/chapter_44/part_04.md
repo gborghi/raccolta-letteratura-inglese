@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 44 (part 4)"
+title: "Nicholas Nickleby — Chapter 44 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_44/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_44/part_05">part 05 ›</a></div>
 </nav>
 
+
+‘I can’t do that,’ interposed Brooker. ‘That wouldn’t serve me.’
+
+‘Wouldn’t it?’ said Ralph. ‘It will serve you as much as bringing it to
+me, I promise you. To be plain with you, I am a careful man, and know my
+affairs thoroughly. I know the world, and the world knows me. Whatever
+you gleaned, or heard, or saw, when you served me, the world knows and
+magnifies already. You could tell it nothing that would surprise it,
+unless, indeed, it redounded to my credit or [[Honour|honour]], and then it would
+scout you for a liar. And yet I don’t find business slack, or clients
+scrupulous. Quite the contrary. I am reviled or threatened every day by
+one man or another,’ said Ralph; ‘but things roll on just the same, and
+I don’t grow poorer either.’
 
 ‘I neither revile nor threaten,’ rejoined the man. ‘I can tell you of
 what you have lost by my act, what I only can restore, and what, if I
@@ -115,14 +128,3 @@ not weeping upon the [[Body|body]], but was scolding violently upon her chair;
 and all this amidst a clamour of tongues perfectly deafening, and which
 really appeared to have driven the unfortunate footman to the utmost
 verge of distraction.
-
-‘What is the matter here?’ said Ralph, pressing forward.
-
-At this inquiry, the clamour was increased twenty-fold, and an
-astounding string of such shrill contradictions as ‘He’s poisoned
-himself’--‘He hasn’t’--‘Send for a doctor’--‘Don’t’--‘He’s dying’--‘He
-isn’t, he’s only pretending’--with various other cries, poured forth
-with bewildering volubility, until Madame Mantalini was seen to address
-herself to Ralph, when female curiosity to know what she would say,
-prevailed, and, as if by general consent, a dead [[Silence|silence]], unbroken by a
-single whisper, instantaneously succeeded.

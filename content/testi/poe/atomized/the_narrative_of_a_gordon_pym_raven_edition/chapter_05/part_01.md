@@ -195,5 +195,3 @@ CHAPTER 5
       whine, scratching at the same [[Time|time]], as if anxious to remove the
 
       covering with his paws. There could be no [[Doubt|doubt]], from his
-
-      behaviour, that he was aware of my being in the hold, and

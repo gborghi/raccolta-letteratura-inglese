@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 59"
+title: "Nicholas Nickleby — Chapter 59"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -493,7 +493,7 @@ Yorkshire schoolmasters, and, while they sent the drudge out, that he
 shouldn’t overhear, forgot that such great caution might render him
 suspicious, and that he might watch his master out at nights, and might
 set other eyes to watch the schoolmaster? Who tampered with a selfish
-father, urging him to sell his daughter to old [[Arthur]] Gride, and
+father, urging him to sell his daughter to old [[arthur|Arthur]] Gride, and
 tampered with Gride too, and did so in the little office, WITH A CLOSET
 IN THE ROOM?’
 
@@ -595,7 +595,7 @@ having shifted his lodging, the officer shifted his, and lying concealed
 in the same street, and, indeed, in the opposite [[house]], soon found that
 Mr. Squeers and Mrs. Sliderskew were in constant communication.
 
-In this state of things, [[Arthur]] Gride was appealed to. The robbery,
+In this state of things, [[arthur|Arthur]] Gride was appealed to. The robbery,
 partly owing to the inquisitiveness of the neighbours, and partly to
 his own grief and rage, had, long ago, become known; but he positively
 refused to give his sanction or yield any assistance to the old woman’s

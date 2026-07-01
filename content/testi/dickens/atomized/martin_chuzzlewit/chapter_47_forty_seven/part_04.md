@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 47: FORTY SEVEN (part 4)"
+title: "Martin Chuzzlewit — Chapter 47: FORTY SEVEN (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,26 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_47_forty_seven/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_48_forty_eight/part_01">part 01 ›</a></div>
 </nav>
 
+
+But here were [[London]] streets again. Hush!
+
+It was but five o’[[Clock|clock]]. He had [[Time|time]] enough to reach his own [[house]]
+unobserved, and before there were many people in the streets, if nothing
+had happened so far, tending to his discovery. He slipped down from
+the coach without troubling the driver to stop his horses; and hurrying
+across the [[Road|road]], and in and out of every by-way that lay near his
+course, at length approached his own dwelling. He used additional
+caution in his immediate neighbourhood; halting first to look all
+down the street before him; then gliding swiftly through that one, and
+stopping to survey the next, and so on.
+
+The passage-way was empty when his murderer’s face looked into it. He
+stole on, to the door on tiptoe, as if he dreaded to disturb his own
+imaginary rest.
+
+He listened. Not a sound. As he turned the key with a trembling hand,
+and pushed the door softly open with his knee, a monstrous [[Fear|fear]] beset
+his mind.
 
 What if the murdered man were there before him!
 

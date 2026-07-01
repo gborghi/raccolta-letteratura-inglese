@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 32 (part 4)"
+title: "Bleak House — Chapter 32 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,29 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_32/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_32/part_05">part 05 ›</a></div>
 </nav>
 
+
+“And it was then,” resumes Mr. Guppy, still glancing with remarkable
+aversion at the coat-sleeve, as they pursue their conversation before
+the [[Fire|fire]], leaning on opposite sides of the table, with their heads
+very near together, “that he told you of his having taken the bundle
+of letters from his lodger’s portmanteau?”
+
+“That was the [[Time|time]], sir,” answers Tony, faintly adjusting his
+whiskers. “Whereupon I wrote a line to my dear boy, the Honourable
+William Guppy, informing him of the appointment for to-[[Night|night]] and
+advising him not to call before, Boguey being a slyboots.”
+
+The light vivacious tone of fashionable life which is usually assumed
+by Mr. Weevle sits so ill upon him to-[[Night|night]] that he abandons that and
+his whiskers together, and after looking over his shoulder, appears
+to yield himself up a prey to the horrors again.
+
+“You are to bring the letters to your room to read and compare, and
+to get yourself into a position to tell him all about them. That’s
+the arrangement, isn’t it, Tony?” asks Mr. Guppy, anxiously biting
+his thumb-nail.
+
+“You can’t speak too low. Yes. That’s what he and I agreed.”
 
 “I tell you what, Tony—”
 
@@ -121,31 +144,3 @@ of his is too keen by half. It runs in the family.”
 “And as to Krook,” resumes Mr. Guppy. “Now, do you suppose he really
 has got hold of any other papers of importance, as he has boasted to
 you, since you have been such allies?”
-
-Tony shakes his head. “I don’t know. Can’t imagine. If we get through
-this business without rousing his suspicions, I shall be better
-informed, no [[Doubt|doubt]]. How can I know without seeing them, when he don’t
-know himself? He is always spelling out words from them, and chalking
-them over the table and the shop-wall, and asking what this is and
-what that is; but his whole stock from beginning to end may easily be
-the waste-paper he bought it as, for anything I can say. It’s a
-monomania with him to think he is possessed of documents. He has been
-going to learn to read them this last quarter of a century, I should
-judge, from what he tells me.”
-
-“How did he first come by that idea, though? That’s the question,”
-Mr. Guppy suggests with one eye shut, after a little forensic
-meditation. “He may have found papers in something he bought, where
-papers were not supposed to be, and may have got it into his shrewd
-head from the manner and place of their concealment that they are
-worth something.”
-
-“Or he may have been taken in, in some pretended bargain. Or he may
-have been muddled altogether by long staring at whatever he HAS got,
-and by drink, and by hanging about the Lord Chancellor’s [[Court]] and
-hearing of documents for ever,” returns Mr. Weevle.
-
-Mr. Guppy sitting on the [[Window|window]]-sill, nodding his head and balancing
-all these possibilities in his mind, continues thoughtfully to tap
-it, and clasp it, and measure it with his hand, until he hastily
-draws his hand away.

@@ -14,6 +14,34 @@ tags:
 </nav>
 
 
+The great English poets who are supposed to have cared more for form
+than Browning did, cared less at least in this sense--that they were
+content to use old forms so long as they were certain that they had
+new ideas. Browning, on the other hand, no sooner had a new idea than
+he tried to make a new form to express it. Wordsworth and Shelley were
+really original poets; their attitude of thought and feeling marked
+without [[Doubt|doubt]] certain great changes in literature and [[philosophy]].
+Nevertheless, the "Ode on the Intimations of [[Immortality]]" is a
+perfectly normal and traditional ode, and "[[Prometheus]] Unbound" is a
+perfectly genuine and traditional Greek lyrical drama. But if we study
+Browning honestly, nothing will strike us more than that he really
+created a large number of quite [[Novel|novel]] and quite admirable artistic
+forms. It is too often forgotten what and how excellent these were.
+_The Ring and the Book_, for example, is an illuminating departure in
+literary method--the method of telling the same story several times
+and trusting to the variety of human character to turn it into several
+different and equally interesting stories. _Pippa Passes_, to take
+another example, is a new and most fruitful form, a series of detached
+dramas connected only by the presence of one fugitive and isolated
+figure. The invention of these things is not merely like the writing
+of a good poem--it is something like the invention of the [[Sonnet|sonnet]] or
+the Gothic arch. The poet who makes them does not merely create
+himself--he creates other poets. It is so in a degree long past
+enumeration with regard to Browning's smaller [[Poems|poems]]. Such a pious and
+horrible [[Lyric|lyric]] as "The Heretic's [[Tragedy]]," for instance, is absolutely
+original, with its weird and almost [[Blood|blood]]-curdling echo verses,
+mocking echoes indeed--
+
     "And dipt of his wings in [[Paris]] square,
        They bring him now to lie burned alive.
 
@@ -92,41 +120,3 @@ of the [[Nature|nature]] of art for art's sake. Here, for example, is a short
 distinct poem merely descriptive of one of those elfish German jugs in
 which it is to be presumed Tokay had been served to him. This is the
 whole poem, and a very good poem too--
-
-    "Up jumped Tokay on our table,
-    Like a pigmy [[Castle|castle]]-warder,
-    Dwarfish to see, but stout and able,
-    Arms and accoutrements all in order;
-    And fierce he looked North, then, wheeling South
-    Blew with his bugle a challenge to Drouth,
-    Cocked his flap-hat with the tosspot-feather,
-    Twisted his thumb in his red moustache,
-    Jingled his huge brass spurs together,
-    Tightened his waist with its Buda sash,
-    And then, with an impudence nought could abash,
-    Shrugged his hump-shoulder, to tell the beholder,
-    For twenty such knaves he would laugh but the bolder:
-    And so, with his [[Sword|sword]]-hilt gallantly jutting,
-    And dexter-hand on his haunch abutting,
-    Went the little man, Sir Ausbruch, strutting!"
-
-I suppose there are Browning students in existence who would think
-that this poem contained something pregnant about the Temperance
-question, or was a marvellously subtle analysis of the romantic
-movement in [[Germany]]. But surely to most of us it is sufficiently
-apparent that Browning was simply fashioning a ridiculous
-knick-knack, exactly as if he were actually moulding one of these
-preposterous German jugs. Now before studying the real character of
-this Browningesque style, there is one general [[Truth|truth]] to be recognised
-about Browning's work. It is this--that it is absolutely necessary to
-remember that Browning had, like every other poet, his simple and
-indisputable failures, and that it is one thing to speak of the
-badness of his artistic failures, and quite another thing to speak of
-the badness of his artistic aim. Browning's style may be a good style,
-and yet exhibit many examples of a thoroughly bad use of it. On this
-point there is indeed a singularly unfair system of judgment used by
-the public towards the poets. It is very little realised that the vast
-majority of great poets have written an enormous amount of very bad
-poetry. The unfortunate Wordsworth is generally supposed to be almost
-[[Alone|alone]] in this; but any one who thinks so can scarcely have read a
-certain number of the minor [[Poems|poems]] of Byron and Shelley and Tennyson.

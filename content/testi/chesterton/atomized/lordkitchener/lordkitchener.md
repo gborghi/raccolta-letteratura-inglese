@@ -1,5 +1,5 @@
 ---
-title: "[[LordKitchener]]"
+title: "LordKitchener"
 author: "Chesterton"
 unitType: work
 parentWork: "works/lordkitchener-(chesterton)"
@@ -1371,7 +1371,7 @@ have been strange if the hardening had been quite hopeless in the
 
 rigid and reticent Kitchener. Yet it was not hopeless; and the fact
 
-became the [[Spring|spring]] of much of the national [[Hope|hope]]. The grizzled martinet
+became the [[spring]] of much of the national [[Hope|hope]]. The grizzled martinet
 
 from India and [[Egypt]] showed a certain power which is in nearly all
 

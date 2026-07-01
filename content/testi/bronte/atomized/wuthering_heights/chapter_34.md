@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 34"
+title: "Wuthering Heights — Chapter 34"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/wuthering-heights-(bronte)"
@@ -33,7 +33,7 @@ my work under the fir-trees at the end of the [[house]]; and she beguiled
 Hareton, who had perfectly recovered from his accident, to dig and
 arrange her little [[Garden|garden]], which was shifted to that corner by the
 influence of Joseph’s complaints. I was comfortably revelling in the
-[[spring]] fragrance around, and the beautiful soft blue overhead, when my
+[[Spring|spring]] fragrance around, and the beautiful soft blue overhead, when my
 young lady, who had run down near the gate to procure some primrose
 roots for a border, returned only half laden, and informed us that Mr.
 [[Heathcliff]] was coming in. “And he spoke to me,” she added, with a

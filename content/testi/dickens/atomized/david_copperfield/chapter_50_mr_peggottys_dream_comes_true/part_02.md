@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 50: Mr. PEGGOTTY’S DREAM COMES TRUE (part 2)"
+title: "David Copperfield — Chapter 50: Mr. PEGGOTTY’S DREAM COMES TRUE (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_50_mr_peggottys_dream_comes_true/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_50_mr_peggottys_dream_comes_true/part_03">part 03 ›</a></div>
 </nav>
 
+
+We alighted at one of the entrances to the Square she had mentioned,
+where I directed the coach to wait, not knowing but that we might have
+some occasion for it. She laid her hand on my arm, and hurried me on
+to one of the sombre streets, of which there are several in that part,
+where the houses were once fair dwellings in the occupation of single
+families, but have, and had, long degenerated into poor lodgings let off
+in rooms. Entering at the open door of one of these, and releasing my
+arm, she beckoned me to follow her up the common staircase, which was
+like a tributary channel to the street.
 
 The [[house]] swarmed with inmates. As we went up, doors of rooms were
 opened and people’s heads put out; and we passed other people on the
@@ -113,19 +123,3 @@ be spared yourself!’
 
 ‘If I would be spared!’ returned the other fiercely; ‘what is there in
 common between US, do you think!’
-
-‘Nothing but our sex,’ said Emily, with a burst of [[Tears|tears]].
-
-‘And that,’ said Rosa Dartle, ‘is so strong a claim, preferred by one
-so infamous, that if I had any feeling in my breast but scorn and
-abhorrence of you, it would freeze it up. Our sex! You are an [[Honour|honour]] to
-our sex!’
-
-‘I have deserved this,’ said Emily, ‘but it’s dreadful! Dear, dear lady,
-think what I have suffered, and how I am fallen! Oh, Martha, come back!
-Oh, [[Home|home]], [[Home|home]]!’
-
-Miss Dartle placed herself in a chair, within view of the door, and
-looked downward, as if Emily were crouching on the floor before her.
-Being now between me and the light, I could see her curled lip, and her
-cruel eyes intently fixed on one place, with a greedy triumph.

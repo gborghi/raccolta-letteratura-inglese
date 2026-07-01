@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 35 (part 5)"
+title: "Nicholas Nickleby — Chapter 35 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,32 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_35/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_35/part_06">part 06 ›</a></div>
 </nav>
 
+
+‘He is a good creature,’ said Mr. Cheeryble, with great earnestness. ‘He
+is a kind [[Soul|soul]]. I am very much obliged to Trimmers. Trimmers is one of
+the best friends we have. He makes a thousand cases known to us that we
+should never discover of ourselves. I am VERY much obliged to Trimmers.’
+Saying which, Mr. Cheeryble rubbed his hands with infinite delight, and
+Mr. Trimmers happening to pass the door that instant, on his way out,
+shot out after him and caught him by the hand.
+
+‘I owe you a thousand thanks, Trimmers, ten thousand thanks. I take it
+very friendly of you, very friendly indeed,’ said Mr. Cheeryble, dragging
+him into a corner to get out of hearing. ‘How many children are there,
+and what has my brother Ned given, Trimmers?’
+
+‘There are six children,’ replied the gentleman, ‘and your brother has
+given us twenty pounds.’
+
+‘My brother Ned is a good fellow, and you’re a good fellow too,
+Trimmers,’ said the old man, shaking him by both hands with trembling
+eagerness. ‘Put me down for another twenty--or--stop a minute, stop a
+minute. We mustn’t look ostentatious; put me down ten pound, and Tim
+Linkinwater ten pound. A cheque for twenty pound for Mr. Trimmers, Tim.
+God bless you, Trimmers--and come and dine with us some day this week;
+you’ll always find a knife and fork, and we shall be delighted. Now, my
+dear sir--cheque from Mr. Linkinwater, Tim. Smashed by a cask of sugar,
+and six poor children--oh dear, dear, dear!’
 
 Talking on in this strain, as fast as he could, to prevent any friendly
 remonstrances from the collector of the subscription on the large amount
@@ -109,23 +135,3 @@ brother Ned and Tim Linkinwater in another room. It is no disparagement
 to Nicholas to say, that before he had been closeted with the two
 brothers ten minutes, he could only wave his hand at every fresh
 expression of kindness and sympathy, and sob like a little [[Child|child]].
-
-At length brother Ned and Tim Linkinwater came back together, when Tim
-instantly walked up to Nicholas and whispered in his ear in a very brief
-sentence (for Tim was ordinarily a man of few words), that he had taken
-down the address in the Strand, and would call upon him that evening,
-at eight. Having done which, Tim wiped his spectacles and put them on,
-preparatory to hearing what more the brothers Cheeryble had got to say.
-
-‘Tim,’ said brother Charles, ‘you understand that we have an intention
-of taking this young gentleman into the counting-[[house]]?’
-
-Brother Ned remarked that Tim was aware of that intention, and quite
-approved of it; and Tim having nodded, and said he did, drew himself up
-and looked particularly fat, and very important. After which, there was
-a profound [[Silence|silence]].
-
-‘I’m not coming an hour later in the morning, you know,’ said Tim,
-breaking out all at once, and looking very resolute. ‘I’m not going to
-[[Sleep|sleep]] in the fresh air; no, nor I’m not going into the country either. A
-pretty thing at this [[Time|time]] of day, certainly. Pho!’

@@ -1,5 +1,5 @@
 ---
-title: "[[manalive]] — Chapter 3 (part 4)"
+title: "manalive — Chapter 3 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/manalive-(chesterton)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/manalive/chapter_03/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/manalive/chapter_04/part_01">part 01 ›</a></div>
 </nav>
 
+
+"And I hate and despise your satires," cried Rosamund Hunt,
+letting loose her whole forcible female personality like a cyclone,
+and speaking every word to wound.  "I despise it as I despise
+your rank tobacco, and your nasty, loungy ways, and your snarling,
+and your Radicalism, and your old clothes, and your potty
+little newspaper, and your rotten failure at everything.
+I don't care whether you call it snobbishness or not, I like
+life and [[success]], and jolly things to look at, and action.
+You won't frighten me with Diogenes; I prefer Alexander."
 
 "Victrix causa deae--" said [[Michael]] gloomily; and this angered
 her more, as, not knowing what it meant, she imagined it

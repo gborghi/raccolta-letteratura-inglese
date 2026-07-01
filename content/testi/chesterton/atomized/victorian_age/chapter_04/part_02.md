@@ -14,6 +14,12 @@ tags:
 </nav>
 
 
+must not ask how they lived; for that is politics. One must not ask how
+
+they died; for that is religion. And religion and politics were ruled
+
+out of all the Later Victorian debating clubs; even including the
+
 debating club at Westminster. What third thing they were discussing,
 
 which was neither religion nor politics, I do not know. I have tried the
@@ -66,8 +72,6 @@ have felt that the train could be a substitute for its own passengers;
 
 or the telephone a substitute for its own voice.
 
-
-
 In any case it is clear that a change had begun to pass over scientific
 
 inquiry, of which we have seen the culmination in our own day. There had
@@ -95,8 +99,6 @@ twist of the rationalistic mind in the direction of arbitrary power,
 certainly weakened the Liberal movement from within. And meanwhile it
 
 was being weakened by heavy blows from without.
-
-
 
 There is a week that is the turn of the year; there was a year that was
 
@@ -136,8 +138,6 @@ reactionary: barricaded by Bismarck with [[Blood|blood]] and iron and by Darwin 
 
 people born about this [[Time|time]], probably has this cause.
 
-
-
 It was a great calamity that the [[Freedom|freedom]] of Wilkes and the [[Faith|faith]] of Dr.
 
 Johnson fought each other. But it was an even worse calamity that they
@@ -166,8 +166,6 @@ together, exactly as Macaulay's Lay says, and still stood all who saw
 
 them fall almost until the hour at which I write.
 
-
-
 This coincident collapse of both religious and political idealism
 
 produced a curious cold air of emptiness and real subconscious
@@ -183,13 +181,3 @@ people less intelligent than Mr. Wells meant by calling themselves _fin
 de siècle_; though, of course, rationally speaking, there is no more
 
 reason for being sad towards the end of a hundred years than towards the
-
-end of five hundred fortnights. There was no arithmetical [[Autumn|autumn]], but
-
-there was a spiritual one. And it came from the fact suggested in the
-
-paragraphs above; the sense that man's two great inspirations had
-
-failed him together. The Christian religion was much more dead in the
-
-eighteenth century than it was in the nineteenth century. But the

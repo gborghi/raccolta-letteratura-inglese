@@ -27,7 +27,7 @@ But _vers libre,_ or nine-tenths of it, is not a new metre any
 more than sleeping in a ditch is a new school of architecture.
 It is no more a revolution in literary form than eating meat
 raw is an innovation in cookery.  It is not even original,
-because it is not creative; the [[artist]] does not invent anything,
+because it is not creative; the [[Artist|artist]] does not invent anything,
 but only abolishes something.  But the only point about it
 that is to my present purpose is expressed in the word "[[Pride|pride]]."
 It is not merely proud in the sense of being exultant, but proud
@@ -41,8 +41,8 @@ the sensational and [[Self|self]]-evident character of that separation.
 I need not recommend the modern poet to attempt to sing his _vers
 libres_ in a public-[[house]]. I need not even urge the young Imagist
 to read out a number of his disconnected Images to a public meeting.
-The thing is not only admitted but admired.  The old [[artist]] remained
-proud in spite of his unpopularity; the new [[artist]] is proud because
+The thing is not only admitted but admired.  The old [[Artist|artist]] remained
+proud in spite of his unpopularity; the new [[Artist|artist]] is proud because
 of his unpopularity; perhaps it is his chief ground for [[Pride|pride]].
 
 Dwelling as I do in the Dark Ages, or at latest along the mediaeval

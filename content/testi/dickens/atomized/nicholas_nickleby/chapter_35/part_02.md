@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 35 (part 2)"
+title: "Nicholas Nickleby — Chapter 35 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_35/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_35/part_03">part 03 ›</a></div>
 </nav>
 
+
+At length the door opened again, and a lady in mourning came in; and
+Nicholas kissing the lady in mourning affectionately, and calling her
+his mother, led her towards the chair from which [[Smike]] had risen when
+she entered the room.
 
 ‘You are always kind-hearted, and anxious to help the oppressed, my dear
 mother,’ said Nicholas, ‘so you will be favourably disposed towards him,
@@ -124,16 +129,3 @@ it for a short [[Time|time]], seriously to reflect upon the state of his affairs
 and to determine, if he could, upon some course of life, which would
 enable him to support those who were so entirely dependent upon his
 exertions.
-
-Mr. Crummles occurred to him more than once; but although Kate was
-acquainted with the whole [[history]] of his connection with that gentleman,
-his mother was not; and he foresaw a thousand fretful objections, on
-her part, to his seeking a livelihood upon the stage. There were graver
-reasons, too, against his returning to that mode of life. Independently
-of those arising out of its spare and precarious earnings, and his own
-internal conviction that he could never [[Hope|hope]] to aspire to any great
-distinction, even as a provincial actor, how could he carry his sister
-from town to town, and place to place, and debar her from any other
-associates than those with whom he would be compelled, almost without
-distinction, to mingle? ‘It won’t do,’ said Nicholas, shaking his head;
-‘I must try something else.’

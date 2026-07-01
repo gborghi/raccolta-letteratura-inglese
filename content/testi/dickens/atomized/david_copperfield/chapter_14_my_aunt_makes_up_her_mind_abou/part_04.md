@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 14: MY AUNT MAKES UP HER MIND ABOUT ME (part 4)"
+title: "David Copperfield — Chapter 14: MY AUNT MAKES UP HER MIND ABOUT ME (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_14_my_aunt_makes_up_her_mind_abou/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_14_my_aunt_makes_up_her_mind_abou/part_05">part 05 ›</a></div>
 </nav>
 
+
+‘Shall I go away, aunt?’ I asked, trembling.
+
+‘No, sir,’ said my aunt. ‘Certainly not!’ With which she pushed me into
+a corner near her, and fenced Me in with a chair, as if it were a [[Prison|prison]]
+or a bar of justice. This position I continued to occupy during the
+whole interview, and from it I now saw Mr. and Miss Murdstone enter the
+room.
 
 ‘Oh!’ said my aunt, ‘I was not aware at first to whom I had the pleasure
 of objecting. But I don’t allow anybody to ride over that turf. I make
@@ -145,11 +153,3 @@ boy?’
 ‘It had been left to her, unconditionally, by her first husband,’
 Mr. Murdstone began, when my aunt caught him up with the greatest
 irascibility and impatience.
-
-‘Good Lord, man, there’s no occasion to say that. Left to her
-unconditionally! I think I see [[David Copperfield]] looking forward to any
-condition of any sort or kind, though it stared him point-blank in the
-face! Of course it was left to her unconditionally. But when she married
-again--when she took that most disastrous step of marrying you, in
-short,’ said my aunt, ‘to be plain--did no one put in a word for the boy
-at that [[Time|time]]?’

@@ -14,6 +14,40 @@ tags:
 </nav>
 
 
+Now the curious fact is this; that the very heresies which the early
+Church is blamed for crushing testify to the unfairness for which she
+is blamed.  In so far as something deserved the blame, it was precisely
+the things that she is blamed for blaming.  In so far as something
+was merely a superstition, she herself condemned that superstition.
+In so far as something was a mere reaction into barbarism,
+she herself resisted it because it was a reaction into barbarism.
+In so far as something was a fad of the fading empire, that died
+and deserved to die, it was the Church [[Alone|alone]] that killed it.
+The Church is reproached for being exactly what the heresy was
+repressed for being.  The explanations of the evolutionary historians
+and higher critics do really explain why Arianism and Gnosticism
+and Nestorianism were born--and also why they died.  They do not
+explain why the Church was born or why she has refused to die.
+Above all, they do not explain why she should have made war on
+the very evils she is supposed to share.
+
+Let us take a few practical examples of the principle; the principle
+that if there was anything that was really a superstition
+of the dying empire, it did really die with the dying empire;
+and certainly was not the same as the very thing that destroyed it.
+For this purpose we will take in order two or three of the most
+ordinary explanations of Christian origins among the modern critics
+of [[Christianity]].  Nothing is more common, for instance, than to find
+such a modern critic writing something like this:  '[[Christianity]] was
+above all a movement of ascetics, a rush into the [[Desert|desert]],
+a refuge in the cloister, a [[Renunciation|renunciation]] of all life and happiness;
+and this was a part of a gloomy and inhuman reaction against
+[[Nature|nature]] itself, a hatred of the [[Body|body]], a horror of the material universe,
+a sort of universal [[suicide]] of the senses and even of the [[Self|self]].
+It came from an eastern [[Fanaticism|fanaticism]] like that of the fakirs and was
+ultimately founded on an eastern pessimism, which seems to feel
+existence itself as an evil.'
+
 Now the most extraordinary thing about this is that it is all quite true;
 it is true in every detail except that it happens to be attributed
 entirely to the wrong person.  It is not true of the Church;

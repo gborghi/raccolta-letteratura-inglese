@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 28 (part 3)"
+title: "Nicholas Nickleby — Chapter 28 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_28/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_28/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘The C. of B.,’ replied Pyke, with the faintest trace of a grin
+lingering in his countenance. ‘The beautiful sister is the countess; not
+the duchess.’
 
 ‘True,’ said Pluck, ‘the C. of B. The resemblance is wonderful!’
 

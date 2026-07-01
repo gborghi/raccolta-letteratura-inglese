@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 29"
+title: "Great Expectations — Chapter 29"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/great-expectations-(dickens)"

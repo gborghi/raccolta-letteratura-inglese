@@ -1,5 +1,5 @@
 ---
-title: "[[AllThingsConsidered-8]] — CHRISTMAS (part 1)"
+title: "AllThingsConsidered-8 — CHRISTMAS (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/allthingsconsidered-8-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 CHRISTMAS
-
 
 There is no more dangerous or disgusting habit than that of celebrating
 Christmas before it comes, as I am doing in this article.

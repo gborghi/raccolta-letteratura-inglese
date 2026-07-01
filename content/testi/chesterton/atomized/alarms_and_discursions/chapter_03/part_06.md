@@ -14,6 +14,21 @@ tags:
 </nav>
 
 
+-/-
+
+The Man and His Newspaper
+
+AT a little station, which I decline to specify, somewhere between
+[[Oxford]] and Guildford, I missed a connection or miscalculated a route
+in such manner that I was left stranded for rather more than an hour.
+I adore waiting at railway stations, but this was not a very
+sumptuous specimen.  There was nothing on the platform except a chocolate
+automatic [[Machine|machine]], which eagerly absorbed pennies but produced no
+corresponding chocolate, and a small paper-stall with a few remaining
+copies of a cheap imperial organ which we will call the _Daily Wire_.
+It does not matter which imperial organ it was, as they all say
+the same thing.
+
 Though I knew it quite [[Well|well]] already, I read it with gravity as I
 strolled out of the station and up the country [[Road|road]].  It opened with
 the striking phrase that the Radicals were setting class against class.
@@ -107,21 +122,3 @@ as if all [[Nature]] were on the rack.
 
 "Her Ladyship made the sun and [[Moon|moon]] and [[Stars|stars]]," I said, impatiently.
 "So of course she can come between a mother and the [[Child|child]] of her [[Body|body]]."
-
-"[[Well]], it does seem a bit 'ard ..." he began with a break in his voice.
-
-"But, good Lord, man," I cried, "it isn't a matter of hardness!
-It's a matter of impious and indecent wickedness.  If your Sir Joseph
-knew the passions he was playing with, he did you a wrong for which
-in many Christian countries he would have a knife in him."
-
-The man continued to look across the frozen fields with a frown.
-He certainly told his tale with real resentment, whether it
-was true or false, or only exaggerated.  He was certainly sullen
-and injured; but he did not seem to think of any avenue of escape.
-At last he said:
-
-"[[Well]], it's a bad world; let's 'ope there's a better one."
-
-"Amen," I said.  "But when I think of Sir Joseph, I understand
-how men have hoped there was a worse one."

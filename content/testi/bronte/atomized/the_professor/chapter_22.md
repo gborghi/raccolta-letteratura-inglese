@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 21"
+title: "The Professor — Chapter 21"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-professor-(bronte)"
@@ -15,8 +15,6 @@ tags:
 
 
 CHAPTER XXI.
-
-
 
 DIRECTLY as I closed the door, I saw laid on the table two letters; my
 
@@ -40,11 +38,7 @@ a blank page: on one cover was an English postmark; on the other, a
 
 lady’s clear, fine autograph; the last I opened first:--
 
-
-
 “MONSIEUR,
-
-
 
 “I FOUND out what you had done the very morning after your visit to me;
 
@@ -79,8 +73,6 @@ circumstance is, indeed, the reason of my writing to you, for it is
 pleasant to communicate good news; and, in these days, I have only my
 
 master to whom I can tell anything.
-
-
 
 “A week ago, monsieur, I was sent for by a Mrs. Wharton, an English
 
@@ -138,8 +130,6 @@ lodgings), and, for this, Mrs. D. will give me twelve hundred francs per
 
 annum.
 
-
-
 “You see, therefore, monsieur, that I am now rich; richer almost than
 
 I ever hoped to be: I feel thankful for it, especially as my sight was
@@ -168,15 +158,9 @@ read. Do not be too angry with my circumlocution and inelegancies of
 
 expression, and, believe me
 
-
-
 “Your attached pupil,
 
-
-
 “F. E. HENRI.”
-
-
 
 Having read this letter, I mused on its contents for a few
 
@@ -195,8 +179,6 @@ epistle could be from none of my almost forgotten, and certainly quite
 forgetting patrician relations. From whom, then, was it? I removed the
 
 envelope; the note folded within ran as follows:
-
-
 
 “I have no [[Doubt|doubt]] in the world that you are doing [[Well|well]] in that greasy
 
@@ -226,8 +208,6 @@ sort of moral kicking I have, ready packed in my carpet-bag, destined to
 
 be presented to you immediately on my arrival.
 
-
-
 “Meantime I know all about your affairs, and have just got information,
 
 by Brown’s last letter, that you are said to be on the point of forming
@@ -250,15 +230,9 @@ for you know neither the day nor hour when your ----” (I don’t wish to
 
 blaspheme, so I’ll leave a blank)--cometh.
 
-
-
 “Yours truly,
 
-
-
 “HUNSDEN [[Yorke Hunsden|YORKE HUNSDEN]].”
-
-
 
 “Humph!” said I; and ere I laid the letter down, I again glanced at the
 
@@ -274,8 +248,6 @@ rather than knew, to appertain to his [[Nature|nature]], and I answered, “A gr
 
 deal.”
 
-
-
 Hunsden, then, was coming to Brussels, and coming I knew not when;
 
 coming charged with the expectation of finding me on the summit of
@@ -283,8 +255,6 @@ coming charged with the expectation of finding me on the summit of
 prosperity, about to be married, to step into a warm nest, to lie
 
 comfortably down by the side of a snug, [[Well|well]]-fed little mate.
-
-
 
 “I wish him joy of the fidelity of the picture he has painted,” thought
 
@@ -302,8 +272,6 @@ merely very like him, I’d not condescend to get out of his way, or to
 
 forge a smile or a cheerful word wherewith to avert his sarcasm.”
 
-
-
 Then I recurred to the other letter: that struck a chord whose sound I
 
 could not deaden by thrusting my fingers into my ears, for it vibrated
@@ -311,8 +279,6 @@ could not deaden by thrusting my fingers into my ears, for it vibrated
 within; and though its swell might be exquisite music, its cadence was a
 
 groan.
-
-
 
 That Frances was relieved from the pressure of want, that the curse of
 
@@ -327,8 +293,6 @@ letter were then pleasant, sweet as two draughts of nectar; but applying
 my lips for the third [[Time|time]] to the cup, and they were excoriated as with
 
 vinegar and gall.
-
-
 
 Two persons whose desires are moderate may live [[Well|well]] enough in Brussels
 
@@ -398,8 +362,6 @@ the [[Window|window]]; and at the [[Window|window]], [[Self|self]]-reproach seem
 
 wall, [[Self|self]]-disdain: all at once out spoke [[Conscience]]:--
 
-
-
 “Down, stupid tormenters!” cried she; “the man has done his duty;
 
 you shall not bait him thus by thoughts of what might have been; he
@@ -409,8 +371,6 @@ relinquished a temporary and contingent good to avoid a permanent and
 certain evil he did [[Well|well]]. Let him reflect now, and when your blinding
 
 [[Dust|dust]] and deafening hum subside, he will discover a path.”
-
-
 
 I sat down; I propped my forehead on both my hands; I thought and
 
@@ -437,8 +397,6 @@ brain and [[Memory|memory]], I disinterred certain remains of circumstances, and
 conceived a [[Hope|hope]] that by putting them together an expedient might be
 
 framed, and a resource discovered. The circumstances were briefly these:
-
-
 
 Some three months ago M. Pelet had, on the occasion of his fete, given
 
@@ -529,8 +487,6 @@ my [[Pride|pride]] and contradicted my habits, would, I felt, be an indulgence o
 false and indolent fastidiousness. I might repent the omission all my
 
 life; I would not then be guilty of it.
-
-
 
 That evening I went to M. Vandenhuten’s; but I had bent the bow and
 

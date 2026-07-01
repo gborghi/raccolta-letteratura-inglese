@@ -1,5 +1,5 @@
 ---
-title: "[[Emma]] — Chapter 16 (part 2)"
+title: "Emma — Chapter 18 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/emma-(austen)"
@@ -14,122 +14,115 @@ tags:
 </nav>
 
 
-“For when a lady’s in the case,
-“You know all other things give place.”
+“You ought to know your friend best,” replied Mr. Knightley; “but I
+should say she was a good-tempered, soft-hearted girl, not likely to be
+very, very determined against any young man who told her he loved her.”
 
+[[Emma]] could not help laughing as she answered, “Upon my word, I believe
+you know her quite as [[Well|well]] as I do.—But, Mr. Knightley, are you
+perfectly sure that she has absolutely and downright _accepted_ him. I
+could suppose she might in [[Time|time]]—but can she already?—Did not you
+misunderstand him?—You were both talking of other things; of business,
+shows of cattle, or new drills—and might not you, in the confusion of
+so many subjects, mistake him?—It was not Harriet’s hand that he was
+certain of—it was the dimensions of some famous ox.”
 
-Now I say, my dear, in _our_ case, for _lady_, read——mum! a word to the
-wise.—I am in a fine flow of spirits, an’t I? But I want to set your
-heart at ease as to Mrs. S.—_My_ representation, you see, has quite
-appeased her.”
+The contrast between the countenance and air of Mr. Knightley and
+[[Robert Martin]] was, at this moment, so strong to [[Emma]]’s feelings, and so
+strong was the recollection of all that had so recently passed on
+Harriet’s side, so fresh the sound of those words, spoken with such
+emphasis, “No, I [[Hope|hope]] I know better than to think of [[Robert Martin]],”
+that she was really expecting the intelligence to prove, in some
+measure, premature. It could not be otherwise.
 
-And again, on [[Emma]]’s merely turning her head to look at Mrs. Bates’s
-knitting, she added, in a half whisper,
+“Do you dare say this?” cried Mr. Knightley. “Do you dare to suppose me
+so great a blockhead, as not to know what a man is talking of?—What do
+you deserve?”
 
-“I mentioned no _names_, you will observe.—Oh! no; cautious as a
-minister of state. I managed it extremely [[Well|well]].”
+“Oh! I always deserve the best treatment, because I never put up with
+any other; and, therefore, you must give me a plain, direct answer. Are
+you quite sure that you understand the terms on which Mr. Martin and
+Harriet now are?”
 
-[[Emma]] could not [[Doubt|doubt]]. It was a palpable display, repeated on every
-possible occasion. When they had all talked a little while in harmony
-of the weather and Mrs. Weston, she found herself abruptly addressed
-with,
+“I am quite sure,” he replied, speaking very distinctly, “that he told
+me she had accepted him; and that there was no obscurity, nothing
+doubtful, in the words he used; and I think I can give you a proof that
+it must be so. He asked my opinion as to what he was now to do. He knew
+of no one but Mrs. Goddard to whom he could apply for information of
+her relations or friends. Could I mention any thing more fit to be
+done, than to go to Mrs. Goddard? I assured him that I could not. Then,
+he said, he would endeavour to see her in the course of this day.”
 
-“Do not you think, Miss Woodhouse, our saucy little friend here is
-charmingly recovered?—Do not you think her cure does Perry the highest
-credit?—(here was a side-glance of great meaning at Jane.) Upon my
-word, Perry has restored her in a wonderful short [[Time|time]]!—Oh! if you had
-seen her, as I did, when she was at the worst!”—And when Mrs. Bates was
-saying something to [[Emma]], whispered farther, “We do not say a word of
-any _assistance_ that Perry might have; not a word of a certain young
-physician from Windsor.—Oh! no; Perry shall have all the credit.”
+“I am perfectly satisfied,” replied [[Emma]], with the brightest smiles,
+“and most sincerely wish them happy.”
 
-“I have scarce had the pleasure of seeing you, Miss Woodhouse,” she
-shortly afterwards began, “since the party to Box [[Hill]]. Very pleasant
-party. But yet I think there was something wanting. Things did not
-seem—that is, there seemed a little cloud upon the spirits of some.—So
-it appeared to me at least, but I might be mistaken. However, I think
-it answered so far as to tempt one to go again. What say you both to
-our collecting the same party, and exploring to Box [[Hill]] again, while
-the fine weather lasts?—It must be the same party, you know, quite the
-same party, not _one_ exception.”
+“You are materially changed since we talked on this subject before.”
 
-Soon after this [[Miss Bates]] came in, and [[Emma]] could not help being
-diverted by the perplexity of her first answer to herself, resulting,
-she supposed, from [[Doubt|doubt]] of what might be said, and impatience to say
-every thing.
+“I [[Hope|hope]] so—for at that [[Time|time]] I was a [[Fool|fool]].”
 
-“Thank you, dear Miss Woodhouse, you are all kindness.—It is impossible
-to say—Yes, indeed, I quite understand—dearest Jane’s prospects—that
-is, I do not mean.—But she is charmingly recovered.—How is Mr.
-Woodhouse?—I am so glad.—Quite out of my power.—Such a happy little
-circle as you find us here.—Yes, indeed.—Charming young man!—that is—so
-very friendly; I mean good Mr. Perry!—such attention to Jane!”—And from
-her great, her more than commonly thankful delight towards Mrs. Elton
-for being there, [[Emma]] guessed that there had been a little show of
-resentment towards Jane, from the vicarage quarter, which was now
-graciously overcome.—After a few whispers, indeed, which placed it
-beyond a guess, Mrs. Elton, speaking louder, said,
+“And I am changed also; for I am now very willing to grant you all
+Harriet’s good qualities. I have taken some pains for your sake, and
+for [[Robert Martin]]’s sake, (whom I have always had reason to believe as
+much in [[Love|love]] with her as ever,) to get acquainted with her. I have
+often talked to her a good deal. You must have seen that I did.
+Sometimes, indeed, I have thought you were half suspecting me of
+pleading poor Martin’s cause, which was never the case; but, from all
+my observations, I am convinced of her being an artless, amiable girl,
+with very good notions, very seriously good principles, and placing her
+happiness in the affections and utility of domestic life.—Much of this,
+I have no [[Doubt|doubt]], she may thank you for.”
 
-“Yes, here I am, my good friend; and here I have been so long, that
-anywhere else I should think it necessary to apologise; but, the [[Truth|truth]]
-is, that I am waiting for my lord and master. He promised to join me
-here, and pay his respects to you.”
+“Me!” cried [[Emma]], shaking her head.—“Ah! poor Harriet!”
 
-“What! are we to have the pleasure of a call from Mr. Elton?—That will
-be a favour indeed! for I know gentlemen do not like morning visits,
-and Mr. Elton’s [[Time|time]] is so engaged.”
+She checked herself, however, and submitted quietly to a little more
+praise than she deserved.
 
-“Upon my word it is, [[Miss Bates]].—He really is engaged from morning to
-[[Night|night]].—There is no end of people’s coming to him, on some pretence or
-other.—The magistrates, and overseers, and churchwardens, are always
-wanting his opinion. They seem not able to do any thing without
-him.—‘Upon my word, Mr. E.,’ I often say, ‘rather you than I.—I do not
-know what would become of my crayons and my instrument, if I had half
-so many applicants.’—Bad enough as it is, for I absolutely neglect them
-both to an unpardonable degree.—I believe I have not played a bar this
-fortnight.—However, he is coming, I assure you: yes, indeed, on purpose
-to wait on you all.” And putting up her hand to screen her words from
-[[Emma]]—“A congratulatory visit, you know.—Oh! yes, quite indispensable.”
+Their conversation was soon afterwards closed by the entrance of her
+father. She was not sorry. She wanted to be [[Alone|alone]]. Her mind was in a
+state of flutter and [[Wonder|wonder]], which made it impossible for her to be
+collected. She was in dancing, singing, exclaiming spirits; and till
+she had moved about, and talked to herself, and laughed and reflected,
+she could be fit for nothing rational.
 
-[[Miss Bates]] looked about her, so happily—!
+Her father’s business was to announce James’s being gone out to put the
+horses to, preparatory to their now daily drive to Randalls; and she
+had, therefore, an immediate excuse for disappearing.
 
-“He promised to come to me as soon as he could disengage himself from
-Knightley; but he and Knightley are shut up together in deep
-consultation.—Mr. E. is Knightley’s right hand.”
+The joy, the gratitude, the exquisite delight of her sensations may be
+imagined. The sole grievance and alloy thus removed in the prospect of
+Harriet’s welfare, she was really in danger of becoming too happy for
+security.—What had she to wish for? Nothing, but to grow more worthy of
+him, whose intentions and judgment had been ever so superior to her
+own. Nothing, but that the lessons of her past folly might teach her
+[[Humility|humility]] and circumspection in future.
 
-[[Emma]] would not have smiled for the world, and only said, “Is Mr. Elton
-gone on foot to Donwell?—He will have a hot walk.”
+Serious she was, very serious in her thankfulness, and in her
+resolutions; and yet there was no preventing a laugh, sometimes in the
+very midst of them. She must laugh at such a close! Such an end of the
+doleful disappointment of five weeks back! Such a heart—such a Harriet!
 
-“Oh! no, it is a meeting at the [[Crown]], a regular meeting. Weston and
-Cole will be there too; but one is apt to speak only of those who
-lead.—I fancy Mr. E. and Knightley have every thing their own way.”
+Now there would be pleasure in her returning—Every thing would be a
+pleasure. It would be a great pleasure to know [[Robert Martin]].
 
-“Have not you mistaken the day?” said [[Emma]]. “I am almost certain that
-the meeting at the [[Crown]] is not till to-morrow.—Mr. Knightley was at
-Hartfield yesterday, and spoke of it as for Saturday.”
+High in the rank of her most serious and heartfelt felicities, was the
+reflection that all necessity of concealment from Mr. Knightley would
+soon be over. The disguise, equivocation, mystery, so hateful to her to
+practise, might soon be over. She could now look forward to giving him
+that full and perfect confidence which her disposition was most ready
+to welcome as a duty.
 
-“Oh! no, the meeting is certainly to-day,” was the abrupt answer, which
-denoted the impossibility of any blunder on Mrs. Elton’s side.—“I do
-believe,” she continued, “this is the most troublesome parish that ever
-was. We never heard of such things at Maple Grove.”
+In the gayest and happiest spirits she set forward with her father; not
+always listening, but always agreeing to what he said; and, whether in
+speech or [[Silence|silence]], conniving at the comfortable [[Persuasion|persuasion]] of his being
+obliged to go to Randalls every day, or poor Mrs. Weston would be
+disappointed.
 
-“Your parish there was small,” said Jane.
+They arrived.—Mrs. Weston was [[Alone|alone]] in the drawing-room:—but hardly had
+they been told of the baby, and Mr. Woodhouse received the thanks for
+coming, which he asked for, when a glimpse was caught through the
+blind, of two figures passing near the [[Window|window]].
 
-“Upon my word, my dear, I do not know, for I never heard the subject
-talked of.”
-
-“But it is proved by the smallness of the school, which I have heard
-you speak of, as under the patronage of your sister and Mrs. Bragge;
-the only school, and not more than five-and-twenty children.”
-
-“Ah! you clever creature, that’s very true. What a thinking brain you
-have! I say, Jane, what a perfect character you and I should make, if
-we could be shaken together. My liveliness and your solidity would
-produce perfection.—Not that I presume to insinuate, however, that
-_some_ people may not think _you_ perfection already.—But hush!—not a
-word, if you please.”
-
-It seemed an unnecessary caution; Jane was wanting to give her words,
-not to Mrs. Elton, but to Miss Woodhouse, as the latter plainly saw.
-The wish of distinguishing her, as far as civility permitted, was very
-evident, though it could not often proceed beyond a look.
+“It is Frank and Miss Fairfax,” said Mrs. Weston. “I was just going to
+tell you of our agreeable surprize in seeing him arrive this morning.
+He stays till to-morrow, and Miss Fairfax has been persuaded to spend
+the day with us.—They are coming in, I [[Hope|hope]].”

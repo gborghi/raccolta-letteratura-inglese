@@ -1,5 +1,5 @@
 ---
-title: "Hard Times — Chapter 3 (part 1)"
+title: "Hard Times — Chapter 6 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/hard-times-(dickens)"
@@ -14,123 +14,121 @@ tags:
 </nav>
 
 
-CHAPTER III
-VERY DECIDED
+CHAPTER VI
+THE STARLIGHT
 
 
-THE indefatigable Mrs. Sparsit, with a violent cold upon her, her voice
-reduced to a whisper, and her stately frame so racked by continual
-sneezes that it seemed in danger of dismemberment, gave chase to her
-patron until she found him in the metropolis; and there, majestically
-sweeping in upon him at his hotel in St. James’s Street, exploded the
-combustibles with which she was charged, and blew up.  Having executed
-her mission with infinite relish, this high-minded woman then fainted
-away on Mr. Bounderby’s coat-collar.
+THE [[Sunday]] was a bright [[Sunday]] in [[Autumn|autumn]], clear and cool, when early in
+the morning Sissy and Rachael met, to walk in the country.
 
-Mr. Bounderby’s first procedure was to shake Mrs. Sparsit off, and leave
-her to progress as she might through various stages of [[Suffering|suffering]] on the
-floor.  He next had recourse to the administration of potent
-restoratives, such as screwing the patient’s thumbs, smiting her hands,
-abundantly watering her face, and inserting salt in her mouth.  When
-these attentions had recovered her (which they speedily did), he hustled
-her into a fast train without offering any other refreshment, and carried
-her back to Coketown more dead than alive.
+As Coketown cast ashes not only on its own head but on the
+neighbourhood’s too—after the manner of those pious persons who do
+penance for their own sins by putting other people into sackcloth—it was
+customary for those who now and then thirsted for a draught of pure air,
+which is not absolutely the most wicked among the vanities of life, to
+get a few miles away by the railroad, and then begin their walk, or their
+lounge in the fields.  Sissy and Rachael helped themselves out of the
+smoke by the usual means, and were put down at a station about midway
+between the town and Mr. Bounderby’s retreat.
 
-Regarded as a classical ruin, Mrs. Sparsit was an interesting spectacle
-on her arrival at her [[Journey|journey]]’s end; but considered in any other light,
-the amount of damage she had by that [[Time|time]] sustained was excessive, and
-impaired her claims to admiration.  Utterly heedless of the wear and tear
-of her clothes and constitution, and adamant to her pathetic sneezes, Mr.
-Bounderby immediately crammed her into a coach, and bore her off to Stone
-Lodge.
+Though the green landscape was blotted here and there with heaps of coal,
+it was green elsewhere, and there were trees to see, and there were larks
+singing (though it was [[Sunday]]), and there were pleasant scents in the
+air, and all was over-arched by a bright blue sky.  In the distance one
+way, Coketown showed as a black mist; in another distance hills began to
+rise; in a third, there was a faint change in the light of the horizon
+where it shone upon the far-off sea.  Under their feet, the grass was
+fresh; beautiful shadows of branches flickered upon it, and speckled it;
+hedgerows were luxuriant; everything was at peace.  Engines at pits’
+mouths, and lean old horses that had worn the circle of their daily
+labour into the ground, were alike quiet; wheels had ceased for a short
+space to turn; and the great [[Wheel|wheel]] of earth seemed to revolve without the
+shocks and noises of another [[Time|time]].
 
-‘Now, [[Tom Gradgrind]],’ said Bounderby, bursting into his father-in-law’s
-room late at [[Night|night]]; ‘here’s a lady here—Mrs. Sparsit—you know Mrs.
-Sparsit—who has something to say to you that will strike you dumb.’
+They walked on across the fields and down the shady lanes, sometimes
+getting over a [[Fragment|fragment]] of a fence so rotten that it dropped at a touch
+of the foot, sometimes passing near a wreck of bricks and beams overgrown
+with grass, marking the site of deserted works.  They followed paths and
+tracks, however slight.  Mounds where the grass was rank and high, and
+where brambles, dock-weed, and such-like vegetation, were confusedly
+heaped together, they always avoided; for dismal stories were told in
+that country of the old pits hidden beneath such indications.
 
-‘You have missed my letter!’ exclaimed Mr. Gradgrind, surprised by the
-apparition.
+The sun was high when they sat down to rest.  They had seen no one, near
+or distant, for a long [[Time|time]]; and the [[Solitude|solitude]] remained unbroken.  ‘It is
+so still here, Rachael, and the way is so untrodden, that I think we must
+be the first who have been here all the [[Summer|summer]].’
 
-‘Missed your letter, sir!’ bawled Bounderby.  ‘The present [[Time|time]] is no
-[[Time|time]] for letters.  No man shall talk to [[Josiah Bounderby]] of Coketown
-about letters, with his mind in the state it’s in now.’
+As Sissy said it, her eyes were attracted by another of those rotten
+fragments of fence upon the ground.  She got up to look at it.  ‘And yet
+I don’t know.  This has not been broken very long.  The wood is quite
+fresh where it gave way.  Here are footsteps too.—O Rachael!’
 
-‘Bounderby,’ said Mr. Gradgrind, in a tone of temperate remonstrance, ‘I
-speak of a very special letter I have written to you, in reference to
-Louisa.’
+She ran back, and caught her round the neck.  Rachael had already started
+up.
 
-‘[[Tom Gradgrind]],’ replied Bounderby, knocking the flat of his hand several
-times with great vehemence on the table, ‘I speak of a very special
-messenger that has come to me, in reference to Louisa.  Mrs. Sparsit,
-ma’am, stand forward!’
+‘What is the matter?’
 
-That unfortunate lady hereupon essaying to offer testimony, without any
-voice and with painful gestures expressive of an inflamed throat, became
-so aggravating and underwent so many facial contortions, that Mr.
-Bounderby, unable to bear it, seized her by the arm and shook her.
+‘I don’t know.  There is a hat lying in the grass.’  They went forward
+together.  Rachael took it up, shaking from head to foot.  She broke into
+a passion of [[Tears|tears]] and lamentations: [[Stephen Blackpool]] was written in his
+own hand on the inside.
 
-‘If you can’t get it out, ma’am,’ said Bounderby, ‘leave _me_ to get it
-out.  This is not a [[Time|time]] for a lady, however highly connected, to be
-totally inaudible, and seemingly swallowing marbles.  [[Tom Gradgrind]], Mrs.
-Sparsit latterly found herself, by accident, in a situation to overhear a
-conversation out of doors between your daughter and your precious
-gentleman-friend, Mr. [[James Harthouse]].’
+‘O the poor lad, the poor lad!  He has been made away with.  He is lying
+murdered here!’
 
-‘Indeed!’ said Mr. Gradgrind.
+‘Is there—has the hat any [[Blood|blood]] upon it?’ Sissy faltered.
 
-‘Ah!  Indeed!’ cried Bounderby.  ‘And in that conversation—’
+They were afraid to look; but they did examine it, and found no mark of
+violence, inside or out.  It had been lying there some days, for rain and
+dew had stained it, and the mark of its shape was on the grass where it
+had fallen.  They looked fearfully about them, without moving, but could
+see nothing more.  ‘Rachael,’ Sissy whispered, ‘I will go on a little by
+myself.’
 
-‘It is not necessary to repeat its tenor, Bounderby.  I know what
-passed.’
+She had unclasped her hand, and was in the act of stepping forward, when
+Rachael caught her in both arms with a scream that resounded over the
+wide landscape.  Before them, at their very feet, was the brink of a
+black ragged chasm hidden by the thick grass.  They sprang back, and fell
+upon their knees, each hiding her face upon the other’s neck.
 
-‘You do?  Perhaps,’ said Bounderby, staring with all his might at his so
-quiet and assuasive father-in-law, ‘you know where your daughter is at
-the present [[Time|time]]!’
+‘O, my good Lord!  He’s down there!  Down there!’  At first this, and her
+terrific screams, were all that could be got from Rachael, by any [[Tears|tears]],
+by any prayers, by any representations, by any means.  It was impossible
+to hush her; and it was deadly necessary to hold her, or she would have
+flung herself down the shaft.
 
-‘Undoubtedly.  She is here.’
+‘Rachael, dear Rachael, good Rachael, for the [[Love|love]] of Heaven, not these
+dreadful cries!  Think of Stephen, think of Stephen, think of Stephen!’
 
-‘Here?’
+By an earnest repetition of this entreaty, poured out in all the agony of
+such a moment, Sissy at last brought her to be silent, and to look at her
+with a tearless face of stone.
 
-‘My dear Bounderby, let me beg you to restrain these loud out-breaks, on
-all accounts.  Louisa is here.  The moment she could detach herself from
-that interview with the person of whom you speak, and whom I deeply
-regret to have been the means of introducing to you, Louisa hurried here,
-for protection.  I myself had not been at [[Home|home]] many hours, when I
-received her—here, in this room.  She hurried by the train to town, she
-ran from town to this [[house]], through a raging [[Storm|storm]], and presented
-herself before me in a state of distraction.  Of course, she has remained
-here ever since.  Let me entreat you, for your own sake and for hers, to
-be more quiet.’
+‘Rachael, Stephen may be living.  You wouldn’t leave him lying maimed at
+the [[Bottom|bottom]] of this dreadful place, a moment, if you could bring help to
+him?’
 
-Mr. Bounderby silently gazed about him for some moments, in every
-direction except Mrs. Sparsit’s direction; and then, abruptly turning
-upon the niece of Lady Scadgers, said to that wretched woman:
+‘No, no, no!’
 
-‘Now, ma’am!  We shall be happy to hear any little apology you may think
-proper to offer, for going about the country at express pace, with no
-other luggage than a Cock-and-a-Bull, ma’am!’
+‘Don’t stir from here, for his sake!  Let me go and listen.’
 
-‘Sir,’ whispered Mrs. Sparsit, ‘my nerves are at present too much shaken,
-and my health is at present too much impaired, in your service, to admit
-of my doing more than taking refuge in [[Tears|tears]].’  (Which she did.)
+She shuddered to approach the pit; but she crept towards it on her hands
+and knees, and called to him as loud as she could call.  She listened,
+but no sound replied.  She called again and listened; still no answering
+sound.  She did this, twenty, thirty times.  She took a little clod of
+earth from the broken ground where he had stumbled, and threw it in.  She
+could not hear it fall.
 
-‘[[Well]], ma’am,’ said Bounderby, ‘without making any observation to you
-that may not be made with propriety to a woman of good family, what I
-have got to add to that, is that there is something else in which it
-appears to me you may take refuge, namely, a coach.  And the coach in
-which we came here being at the door, you’ll allow me to hand you down to
-it, and pack you [[Home|home]] to the Bank: where the best course for you to
-pursue, will be to put your feet into the hottest [[Water|water]] you can bear, and
-take a glass of scalding rum and butter after you get into bed.’  With
-these words, Mr. Bounderby extended his right hand to the weeping lady,
-and escorted her to the conveyance in question, shedding many plaintive
-sneezes by the way.  He soon returned [[Alone|alone]].
+The wide prospect, so beautiful in its stillness but a few minutes ago,
+almost carried [[Despair|despair]] to her brave heart, as she [[Rose|rose]] and looked all
+round her, seeing no help.  ‘Rachael, we must lose not a moment.  We must
+go in different directions, seeking aid.  You shall go by the way we have
+come, and I will go forward by the path.  Tell any one you see, and every
+one what has happened.  Think of Stephen, think of Stephen!’
 
-‘Now, as you showed me in your face, [[Tom Gradgrind]], that you wanted to
-speak to me,’ he resumed, ‘here I am.  But, I am not in a very agreeable
-state, I tell you plainly: not relishing this business, even as it is,
-and not considering that I am at any [[Time|time]] as dutifully and submissively
-treated by your daughter, as [[Josiah Bounderby]] of Coketown ought to be
-treated by his wife.  You have your opinion, I dare say; and I have mine,
-I know.  If you mean to say anything to me to-[[Night|night]], that goes against
-this candid remark, you had better let it [[Alone|alone]].’
+She knew by Rachael’s face that she might trust her now.  And after
+standing for a moment to see her running, wringing her hands as she ran,
+she turned and went upon her own search; she stopped at the hedge to tie
+her shawl there as a guide to the place, then threw her bonnet aside, and
+ran as she had never run before.

@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 9 (part 1)"
+title: "Nicholas Nickleby — Chapter 9 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -144,9 +144,3 @@ Knuckleboy was, that gave himself such airs.
 ‘Nickleby,’ said Squeers, spelling the name according to some eccentric
 system which prevailed in his own mind; ‘your mother always calls things
 and people by their wrong names.’
-
-‘No matter for that,’ said Mrs. Squeers; ‘I see them with right eyes,
-and that’s quite enough for me. I watched him when you were laying on
-to little Bolder this afternoon. He looked as black as thunder, all the
-while, and, one [[Time|time]], started up as if he had more than got it in his
-mind to make a rush at you. I saw him, though he thought I didn’t.’

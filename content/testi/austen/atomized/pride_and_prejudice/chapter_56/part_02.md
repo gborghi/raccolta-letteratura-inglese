@@ -1,5 +1,5 @@
 ---
-title: "[[Pride and Prejudice]] — Chapter 56 (part 2)"
+title: "Pride and Prejudice — Chapter 56 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/pride-and-prejudice-(austen)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/pride_and_prejudice/chapter_56/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/pride_and_prejudice/chapter_56/part_03">part 03 ›</a></div>
 </nav>
 
+
+“I never heard that it was.”
+
+“And can you likewise declare, that there is no _foundation_ for it?”
 
 “I do not pretend to possess equal frankness with your Ladyship. _You_
 may ask questions which _I_ shall not choose to answer.”
@@ -77,7 +81,7 @@ attached to her situation, that she could, upon the whole, have no cause
 to repine.”
 
 “Obstinate, headstrong girl! I am ashamed of you! Is this your gratitude
-for my attentions to you last [[spring]]? Is nothing due to me on that
+for my attentions to you last [[Spring|spring]]? Is nothing due to me on that
 score? Let us sit down. You are to understand, Miss Bennet, that I came
 here with the determined resolution of carrying my purpose; nor will I
 be dissuaded from it. I have not been used to submit to any person’s

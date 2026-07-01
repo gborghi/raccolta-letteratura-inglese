@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 18 (part 3)"
+title: "Shirley — Chapter 18 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_18/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_18/part_04">part 04 ›</a></div>
 </nav>
 
+
+especially from sich as ye. Look at t' difference between us. Ye're a
+
+little, young, slender lass, and I'm a great strong man; I'm rather more
+
+nor twice your age. It is not _my_ part, then, I think, to tak fro'
+
+_ye_--to be under obligations (as they say) to _ye_. And that day ye
+
+came to our [[house]], and called me to t' door, and offered me five
+
+shillings, which I [[Doubt|doubt]] ye could ill spare--for ye've no fortin', I
+
+know--that day I war fair a [[Rebel|rebel]], a radical, an insurrectionist; and
+
+_ye_ made me so. I thought it shameful that, willing and able as I was
 
 to work, I suld be i' such a condition that a young cratur about the age
 
@@ -229,37 +245,3 @@ here was touching on that subject, if I'm not mista'en."
 
 
 "[[Well]], what then? Politics are our habitual study, Joe. Do you know I
-
-see a newspaper every day, and two of a [[Sunday]]?"
-
-
-
-"I should think you'll read the marriages, probably, miss, and the
-
-murders, and the accidents, and sich like?"
-
-
-
-"I read the leading articles, Joe, and the foreign intelligence, and I
-
-look over the market prices. In short, I read just what gentlemen read."
-
-
-
-Joe looked as if he thought this talk was like the chattering of a pie.
-
-He replied to it by a disdainful [[Silence|silence]].
-
-
-
-"Joe," continued Miss Keeldar, "I never yet could ascertain properly
-
-whether you are a Whig or a Tory. Pray, which party has the [[Honour|honour]] of
-
-your alliance?"
-
-
-
-"It is rayther difficult to explain where you are sure not to be
-
-understood," was Joe's haughty response; "but as to being a Tory, I'd as

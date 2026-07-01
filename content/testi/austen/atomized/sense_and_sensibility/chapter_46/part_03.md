@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 46 (part 3)"
+title: "Sense and Sensibility — Chapter 46 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_46/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_47/part_01">part 01 ›</a></div>
 </nav>
 
+
+that the very eagerness of my [[Desire|desire]] to live, to have [[Time|time]] for
+
+atonement to my God, and to you all, did not kill me at once. Had I
+
+died, in what peculiar misery should I have left you, my [[Nurse|nurse]], my
+
+friend, my sister! You, who had seen all the fretful selfishness of my
 
 latter days; who had known all the murmurings of my heart! How should I
 

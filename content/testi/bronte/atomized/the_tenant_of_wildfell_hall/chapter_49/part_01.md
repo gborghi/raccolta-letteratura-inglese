@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 49 (part 1)"
+title: "The Tenant of Wildfell Hall — Chapter 49 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/works/the-tenant-of-wildfell-hall-(bronte)">The Tenant of Wildfell Hall</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_47/part_05">‹ part 05</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_49/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_48/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_49/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -199,9 +199,3 @@ to give her son in charge to Esther Hargrave, as her presence was so
 constantly required in the sick-room that she could not possibly attend
 
 to him herself; and though the [[Child|child]] had begged to be allowed to
-
-continue with her there, and to help her to [[Nurse|nurse]] his papa, and though
-
-she had no [[Doubt|doubt]] he would have been very good and quiet, she could not
-
-think of subjecting his young and tender feelings to the sight of so

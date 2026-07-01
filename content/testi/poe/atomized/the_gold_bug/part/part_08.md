@@ -1,5 +1,5 @@
 ---
-title: "[[The Gold-Bug]] (part 8)"
+title: "The Gold-Bug (part 8)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-gold-bug-(poe)"
@@ -13,6 +13,30 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_gold_bug/part/part_07">‹ part 07</a><a class="ex-next" href="/testi/poe/atomized/the_gold_bug/part/part_09">part 09 ›</a></div>
 </nav>
 
+
+      unaccountably interested—nay, even excited. Perhaps there was
+
+      something, amid all the extravagant demeanor of Legrand—some air
+
+      of forethought, or of deliberation, which impressed me. I dug
+
+      eagerly, and now and then caught myself actually looking, with
+
+      something that very much resembled expectation, for the fancied
+
+      treasure, the vision of which had demented my unfortunate
+
+      companion. At a period when such vagaries of thought most fully
+
+      possessed me, and when we had been at work perhaps an hour and a
+
+      half, we were again interrupted by the violent howlings of the
+
+      dog. His uneasiness, in the first instance, had been, evidently,
+
+      but the result of playfulness or caprice, but he now assumed a
+
+      bitter and serious tone. Upon Jupiter’s again attempting to
 
       muzzle him, he made furious resistance, and, leaping into the
 
@@ -175,29 +199,3 @@ tags:
       and the greater part of the next [[Night|night]], in a scrutiny of its
 
       contents. There had been nothing like order or arrangement. Every
-
-      thing had been heaped in promiscuously. Having assorted all with
-
-      care, we found ourselves possessed of even vaster wealth than we
-
-      had at first supposed. In coin there was rather more than four
-
-      hundred and fifty thousand dollars—estimating the value of the
-
-      pieces, as accurately as we could, by the tables of the period.
-
-      There was not a particle of silver. All was gold of antique date
-
-      and of great variety—French, Spanish, and German money, with a
-
-      few English guineas, and some counters, of which we had never
-
-      seen specimens before. There were several very large and heavy
-
-      coins, so worn that we could make nothing of their inscriptions.
-
-      There was no American money. The value of the jewels we found
-
-      more difficulty in estimating. There were diamonds—some of them
-
-      exceedingly large and fine—a hundred and ten in all, and not one

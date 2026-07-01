@@ -1,5 +1,5 @@
 ---
-title: "Hard Times — Chapter 6 (part 2)"
+title: "Hard Times — Chapter 8 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/hard-times-(dickens)"
@@ -14,138 +14,123 @@ tags:
 </nav>
 
 
-‘I ha never thowt yet, missus,’ said Stephen, ‘o’ askin thy name.’
+‘A hundred and fifty-four, seven, one,’ said Bitzer.
 
-The old lady announced herself as ‘Mrs. Pegler.’
+‘Come!’ retorted Bounderby, stopping to [[Wheel|wheel]] round upon him, ‘let’s have
+none of _your_ interruptions.  It’s enough to be robbed while you’re
+snoring because you’re too comfortable, without being put right with
+_your_ four seven ones.  I didn’t snore, myself, when I was your age, let
+me tell you.  I hadn’t victuals enough to snore.  And I didn’t four seven
+one.  Not if I knew it.’
 
-‘A widder, I think?’ said Stephen.
+Bitzer knuckled his forehead again, in a sneaking manner, and seemed at
+once particularly impressed and depressed by the instance last given of
+Mr. Bounderby’s moral abstinence.
 
-‘Oh, many long years!’  Mrs. Pegler’s husband (one of the best on record)
-was already dead, by Mrs. Pegler’s calculation, when Stephen was born.
+‘A hundred and fifty odd pound,’ resumed Mr. Bounderby.  ‘That sum of
+money, young Tom locked in his safe, not a very strong safe, but that’s
+no matter now.  Everything was left, all right.  Some [[Time|time]] in the [[Night|night]],
+while this young fellow snored—Mrs. Sparsit, ma’am, you say you have
+heard him snore?’
 
-‘’Twere a bad job, too, to lose so good a one,’ said Stephen.  ‘Onny
-children?’
+‘Sir,’ returned Mrs. Sparsit, ‘I cannot say that I have heard him
+precisely snore, and therefore must not make that statement.  But on
+[[Winter|winter]] evenings, when he has fallen asleep at his table, I have heard
+him, what I should prefer to describe as partially choke.  I have heard
+him on such occasions produce sounds of a [[Nature|nature]] similar to what may be
+sometimes heard in Dutch clocks.  Not,’ said Mrs. Sparsit, with a lofty
+sense of giving strict evidence, ‘that I would convey any imputation on
+his moral character.  Far from it.  I have always considered Bitzer a
+young man of the most upright principle; and to that I beg to bear my
+testimony.’
 
-Mrs. Pegler’s cup, rattling against her saucer as she held it, denoted
-some nervousness on her part.  ‘No,’ she said.  ‘Not now, not now.’
+‘[[Well]]!’ said the exasperated Bounderby, ‘while he was snoring, _or_
+choking, _or_ Dutch-clocking, _or_ something _or_ other—being asleep—some
+fellows, somehow, whether previously concealed in the [[house]] or not
+remains to be seen, got to young Tom’s safe, forced it, and abstracted
+the contents.  Being then disturbed, they made off; letting themselves
+out at the main door, and [[Double|double]]-locking it again (it was [[Double|double]]-locked,
+and the key under Mrs. Sparsit’s pillow) with a false key, which was
+picked up in the street near the Bank, about twelve o’[[Clock|clock]] to-day.  No
+alarm takes place, till this chap, Bitzer, turns out this morning, and
+begins to open and prepare the offices for business.  Then, looking at
+Tom’s safe, he sees the door ajar, and finds the lock forced, and the
+money gone.’
 
-‘Dead, Stephen,’ Rachael softly hinted.
+‘Where is Tom, by the by?’ asked Harthouse, glancing round.
 
-‘I’m sooary I ha spok’n on ’t,’ said Stephen, ‘I ought t’ hadn in my mind
-as I might touch a sore place.  I—I blame myseln.’
+‘He has been helping the police,’ said Bounderby, ‘and stays behind at
+the Bank.  I wish these fellows had tried to rob me when I was at his
+[[Time|time]] of life.  They would have been out of pocket if they had invested
+eighteenpence in the job; I can tell ’em that.’
 
-While he excused himself, the old lady’s cup rattled more and more.  ‘I
-had a son,’ she said, curiously distressed, and not by any of the usual
-appearances of sorrow; ‘and he did [[Well|well]], wonderfully [[Well|well]].  But he is not
-to be spoken of if you please.  He is—’  Putting down her cup, she moved
-her hands as if she would have added, by her action, ‘dead!’  Then she
-said aloud, ‘I have lost him.’
+‘Is anybody suspected?’
 
-Stephen had not yet got the better of his having given the old lady [[Pain|pain]],
-when his landlady came stumbling up the narrow stairs, and calling him to
-the door, whispered in his ear.  Mrs. Pegler was by no means deaf, for
-she caught a word as it was uttered.
+‘Suspected?  I should think there was somebody suspected.  Egod!’ said
+Bounderby, relinquishing Mrs. Sparsit’s arm to wipe his heated head.
+‘[[Josiah Bounderby]] of Coketown is not to be plundered and nobody
+suspected.  No, thank you!’
 
-‘Bounderby!’ she cried, in a suppressed voice, starting up from the
-table.  ‘Oh hide me!  Don’t let me be seen for the world.  Don’t let him
-come up till I’ve got away.  Pray, pray!’  She trembled, and was
-excessively agitated; getting behind Rachael, when Rachael tried to
-reassure her; and not seeming to know what she was about.
+Might Mr. Harthouse inquire Who was suspected?
 
-‘But hearken, missus, hearken,’ said Stephen, astonished.  ‘’Tisn’t Mr.
-Bounderby; ’tis his wife.  Yo’r not fearfo’ o’ her.  Yo was hey-go-mad
-about her, but an hour sin.’
+‘[[Well]],’ said Bounderby, stopping and facing about to confront them all,
+‘I’ll tell you.  It’s not to be mentioned everywhere; it’s not to be
+mentioned anywhere: in order that the scoundrels concerned (there’s a
+gang of ’em) may be thrown off their guard.  So take this in confidence.
+Now wait a bit.’  Mr. Bounderby wiped his head again.  ‘What should you
+say to;’ here he violently exploded: ‘to a Hand being in it?’
 
-‘But are you sure it’s the lady, and not the gentleman?’ she asked, still
-trembling.
+‘I [[Hope|hope]],’ said Harthouse, lazily, ‘not our friend Blackpot?’
 
-‘Certain sure!’
+‘Say Pool instead of Pot, sir,’ returned Bounderby, ‘and that’s the man.’
 
-‘[[Well]] then, pray don’t speak to me, nor yet take any notice of me,’ said
-the old woman.  ‘Let me be quite to myself in this corner.’
+Louisa faintly uttered some word of [[Incredulity|incredulity]] and surprise.
 
-Stephen nodded; looking to Rachael for an explanation, which she was
-quite unable to give him; took the candle, went downstairs, and in a few
-moments returned, lighting Louisa into the room.  She was followed by the
-whelp.
+‘O yes!  I know!’ said Bounderby, immediately catching at the sound.  ‘I
+know!  I am used to that.  I know all about it.  They are the finest
+people in the world, these fellows are.  They have got the gift of the
+gab, they have.  They only want to have their rights explained to them,
+they do.  But I tell you what.  Show me a dissatisfied Hand, and I’ll
+show you a man that’s fit for anything bad, I don’t care what it is.’
 
-Rachael had risen, and stood apart with her shawl and bonnet in her hand,
-when Stephen, himself profoundly astonished by this visit, put the candle
-on the table.  Then he too stood, with his doubled hand upon the table
-near it, waiting to be addressed.
+Another of the popular fictions of Coketown, which some pains had been
+taken to disseminate—and which some people really believed.
 
-For the first [[Time|time]] in her life Louisa had come into one of the dwellings
-of the Coketown Hands; for the first [[Time|time]] in her life she was face to
-face with anything like individuality in connection with them.  She knew
-of their existence by hundreds and by thousands.  She knew what results
-in work a given number of them would produce in a given space of [[Time|time]].
-She knew them in crowds passing to and from their nests, like ants or
-beetles.  But she knew from her reading infinitely more of the ways of
-toiling [[Insects|insects]] than of these toiling men and women.
+‘But I am acquainted with these chaps,’ said Bounderby.  ‘I can read ’em
+off, like books.  Mrs. Sparsit, ma’am, I appeal to you.  What warning did
+I give that fellow, the first [[Time|time]] he set foot in the [[house]], when the
+express object of his visit was to know how he could knock Religion over,
+and floor the Established Church?  Mrs. Sparsit, in point of high
+connexions, you are on a level with the aristocracy,—did I say, or did I
+not say, to that fellow, “you can’t hide the [[Truth|truth]] from me: you are not
+the kind of fellow I like; you’ll come to no good”?’
 
-Something to be worked so much and paid so much, and there ended;
-something to be infallibly settled by laws of supply and demand;
-something that blundered against those laws, and floundered into
-difficulty; something that was a little pinched when wheat was dear, and
-over-ate itself when wheat was cheap; something that increased at such a
-rate of percentage, and yielded such another percentage of crime, and
-such another percentage of pauperism; something wholesale, of which vast
-fortunes were made; something that occasionally [[Rose|rose]] like a sea, and did
-some harm and waste (chiefly to itself), and fell again; this she knew
-the Coketown Hands to be.  But, she had scarcely thought more of
-separating them into units, than of separating the sea itself into its
-component drops.
+‘Assuredly, sir,’ returned Mrs. Sparsit, ‘you did, in a highly impressive
+manner, give him such an admonition.’
 
-She stood for some moments looking round the room.  From the few chairs,
-the few books, the common prints, and the bed, she glanced to the two
-women, and to Stephen.
+‘When he shocked you, ma’am,’ said Bounderby; ‘when he shocked your
+feelings?’
 
-‘I have come to speak to you, in consequence of what passed just now.  I
-should like to be serviceable to you, if you will let me.  Is this your
-wife?’
+‘Yes, sir,’ returned Mrs. Sparsit, with a meek shake of her head, ‘he
+certainly did so.  Though I do not mean to say but that my feelings may
+be weaker on such points—more foolish if the term is preferred—than they
+might have been, if I had always occupied my present position.’
 
-Rachael raised her eyes, and they sufficiently answered no, and dropped
-again.
+Mr. Bounderby stared with a bursting [[Pride|pride]] at Mr. Harthouse, as much as
+to say, ‘I am the proprietor of this female, and she’s worth your
+attention, I think.’  Then, resumed his discourse.
 
-‘I remember,’ said Louisa, reddening at her mistake; ‘I recollect, now,
-to have heard your domestic misfortunes spoken of, though I was not
-attending to the particulars at the [[Time|time]].  It was not my meaning to ask a
-question that would give [[Pain|pain]] to any one here.  If I should ask any other
-question that may happen to have that result, give me credit, if you
-please, for being in ignorance how to speak to you as I ought.’
-
-As Stephen had but a little while ago instinctively addressed himself to
-her, so she now instinctively addressed herself to Rachael.  Her manner
-was short and abrupt, yet faltering and timid.
-
-‘He has told you what has passed between himself and my husband?  You
-would be his first resource, I think.’
-
-‘I have heard the end of it, young lady,’ said Rachael.
-
-‘Did I understand, that, being rejected by one employer, he would
-probably be rejected by all?  I thought he said as much?’
-
-‘The chances are very small, young lady—next to nothing—for a man who
-gets a bad name among them.’
-
-‘What shall I understand that you mean by a bad name?’
-
-‘The name of being troublesome.’
-
-‘Then, by the prejudices of his own class, and by the prejudices of the
-other, he is sacrificed alike?  Are the two so deeply separated in this
-town, that there is no place whatever for an honest workman between
-them?’
-
-Rachael shook her head in [[Silence|silence]].
-
-‘He fell into suspicion,’ said Louisa, ‘with his fellow-weavers,
-because—he had made a promise not to be one of them.  I think it must
-have been to you that he made that promise.  Might I ask you why he made
-it?’
-
-Rachael burst into [[Tears|tears]].  ‘I didn’t seek it of him, poor lad.  I prayed
-him to avoid trouble for his own good, little thinking he’d come to it
-through me.  But I know he’d die a hundred deaths, ere ever he’d break
-his word.  I know that of him [[Well|well]].’
+‘You can recall for yourself, Harthouse, what I said to him when you saw
+him.  I didn’t mince the matter with him.  I am never mealy with ’em.  I
+KNOW ’em.  Very [[Well|well]], sir.  Three days after that, he bolted.  Went off,
+nobody knows where: as my mother did in my infancy—only with this
+difference, that he is a worse subject than my mother, if possible.  What
+did he do before he went?  What do you say;’ Mr. Bounderby, with his hat
+in his hand, gave a beat upon the [[Crown|crown]] at every little division of his
+sentences, as if it were a tambourine; ‘to his being seen—[[Night|night]] after
+[[Night|night]]—watching the Bank?—to his lurking about there—after dark?—To its
+striking Mrs. Sparsit—that he could be lurking for no good—To her calling
+Bitzer’s attention to him, and their both taking notice of him—And to its
+appearing on inquiry to-day—that he was also noticed by the neighbours?’
+Having come to the climax, Mr. Bounderby, like an oriental dancer, put
+his tambourine on his head.

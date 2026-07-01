@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 58 (part 1)"
+title: "Great Expectations — Chapter 58 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -135,5 +135,3 @@ conclusive, “I will tell you what to say to Joseph. Here is Squires of
 the Boar present, known and respected in this town, and here is
 William, which his father’s name was Potkins if I do not deceive
 myself.”
-
-“You do not, sir,” said William.

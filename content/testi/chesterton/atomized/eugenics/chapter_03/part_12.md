@@ -1,5 +1,5 @@
 ---
-title: "[[Eugenics]] — Part 2 (part 12)"
+title: "Eugenics — Part 2 (part 12)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/eugenics-(chesterton)"
@@ -108,29 +108,3 @@ without committing him to his new Collectivist obligations.
 He is in a very perilous position; for he has ceased to be a Liberal
 without becoming a Socialist, and the bridge by which he was crossing
 has broken above an abyss of Anarchy.
-
----/---
-
-VI
-
-THE ECLIPSE OF LIBERTY
-
-If such a thing as the Eugenic sociology had been suggested
-in the period from Fox to Gladstone, it would have been far more
-fiercely repudiated by the reformers than by the Conservatives.
-If Tories had regarded it as an insult to [[Marriage|marriage]], Radicals would
-have far more resolutely regarded it as an insult to citizenship.
-But in the interval we have suffered from a process resembling
-a sort of mystical parricide, such as is told of so many gods,
-and is true of so many great ideas.  Liberty has produced scepticism,
-and scepticism has destroyed liberty.  The [[lovers]] of liberty thought they
-were leaving it unlimited, when they were only leaving it undefined.
-They thought they were only leaving it undefined, when they
-were really leaving it undefended.  Men merely finding themselves
-free found themselves free to dispute the value of [[Freedom|freedom]].
-But the important point to seize about this reactionary scepticism
-is that as it is bound to be unlimited in theory, so it is bound
-to be unlimited in practice.  In other words, the modern mind is set
-in an attitude which would enable it to advance, not only towards
-Eugenic legislation, but towards any conceivable or inconceivable
-extravagances of [[Eugenics]].

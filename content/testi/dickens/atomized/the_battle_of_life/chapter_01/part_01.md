@@ -102,13 +102,3 @@ floated with the stream, and whirled round on the mill, and crowded the
 orchard, and burdened the meadow, and piled the rickyard high with dying
 men.  So altered was the battle-ground, where thousands upon thousands
 had been killed in the great fight.
-
-Nowhere more altered, perhaps, about a hundred years ago, than in one
-little orchard attached to an old stone [[house]] with a honeysuckle porch;
-where, on a bright [[Autumn|autumn]] morning, there were sounds of music and
-laughter, and where two girls danced merrily together on the grass, while
-some half-dozen peasant women standing on ladders, gathering the apples
-from the trees, stopped in their work to look down, and share their
-enjoyment.  It was a pleasant, lively, natural scene; a beautiful day, a
-retired spot; and the two girls, quite unconstrained and careless, danced
-in the [[Freedom|freedom]] and gaiety of their hearts.

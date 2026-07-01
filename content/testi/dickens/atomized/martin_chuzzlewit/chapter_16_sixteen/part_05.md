@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 16: SIXTEEN (part 5)"
+title: "Martin Chuzzlewit — Chapter 16: SIXTEEN (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_16_sixteen/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_16_sixteen/part_06">part 06 ›</a></div>
 </nav>
 
+
+‘Is the major indoors?’ inquired the colonel, as he entered.
+
+‘Is it the master, sir?’ returned the girl, with a hesitation
+which seemed to imply that they were rather flush of majors in that
+establishment.
+
+‘The master!’ said Colonel Diver, stopping short and looking round at
+his war correspondent.
+
+‘Oh! The depressing institutions of that British empire, colonel!’ said
+Jefferson Brick. ‘Master!’
 
 ‘What’s the matter with the word?’ asked Martin.
 

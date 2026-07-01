@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 37"
+title: "Shirley — Chapter 37"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/shirley-(bronte)"
@@ -942,7 +942,7 @@ This war _must_ ere long draw to a close. Trade is likely to prosper for
 
 some years to come. There may be a brief misunderstanding between
 
-England and [[America]], but that will not last. What would you think if,
+England and [[america|America]], but that will not last. What would you think if,
 
 one day--perhaps ere another ten years elapse--Louis and I divide
 
@@ -1502,7 +1502,7 @@ Toilers of the Sea" shows the conflict of man with [[Nature|nature]]; "The Laugh
 
 Man" expounds the tyranny of the aristocratic ideal as exemplified in
 
-England. But being a great [[Artist|artist]] as [[Well|well]] as a great thinker, he never
+England. But being a great [[artist]] as [[Well|well]] as a great thinker, he never
 
 turned his romances into pamphlets. Drama is always his aim, and no
 
@@ -1694,7 +1694,7 @@ On its first appearance, in 1850, it immediately leaped high into public
 
 favour, and attained the distinction of an unmistakable classic. The
 
-[[Tragedy|tragedy]] of Hester Prynne and [[arthur|Arthur]] Dimmesdale is wrought out in the
+[[Tragedy|tragedy]] of Hester Prynne and [[Arthur]] Dimmesdale is wrought out in the
 
 midst of an austere Puritan community, which exacts the bitterest
 

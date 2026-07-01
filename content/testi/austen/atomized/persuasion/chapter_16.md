@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 16"
+title: "Persuasion — Chapter 16"
 author: "Austen"
 unitType: chapter
 parentWork: "works/persuasion-(austen)"
@@ -82,7 +82,7 @@ thing in particular?” “No, nothing.” “Merely Gowland,” he supposed.
 
 be better than [[Well|well]]; or I should recommend Gowland, the constant use of
 
-Gowland, during the [[spring]] months. Mrs Clay has been using it at my
+Gowland, during the [[Spring|spring]] months. Mrs Clay has been using it at my
 
 recommendation, and you see what it has done for her. You see how it
 

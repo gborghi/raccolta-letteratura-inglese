@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity]] — The Miracle of [[Moon]] Crescent (part 1)"
+title: "Incredulity — The Miracle of Moon Crescent (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-(chesterton)"
@@ -21,7 +21,7 @@ and the things that happened there were romantic enough in their way.
 At least it had been an expression of that genuine element
 of sentiment--historic and almost heroic--which manages
 to remain side by side with commercialism in the elder cities
-on the eastern coast of [[america|America]].  It was originally a curve
+on the eastern coast of [[America]].  It was originally a curve
 of classical architecture really recalling that eighteenth--
 century atmosphere in which men like Washington and Jefferson
 had seemed to be all the more republicans for being aristocrats.

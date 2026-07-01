@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 47 (part 1)"
+title: "Barnaby Rudge — Chapter 47 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -130,6 +130,3 @@ mother--‘I--always, I believe.’
 ‘I don’t believe it,’ cried the gentleman, ‘not a bit of it. It’s an
 excuse not to work. There’s nothing like flogging to cure that disorder.
 I’d make a difference in him in ten minutes, I’ll be bound.’
-
-‘Heaven has made none in more than twice ten years, sir,’ said the widow
-mildly.

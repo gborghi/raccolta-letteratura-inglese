@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 13 (part 3)"
+title: "Northanger Abbey — Chapter 13 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_14/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_15/part_01">part 01 ›</a></div>
 </nav>
 
+
+apartment herself. “What did William mean by it? He should make a point
+
+of inquiring into the matter.” And if Catherine had not most warmly
+
+asserted his [[innocence]], it seemed likely that William would lose the
+
+favour of his master forever, if not his place, by her rapidity.
+
+
+
+After sitting with them a quarter of an hour, she [[Rose|rose]] to take leave,
 
 and was then most agreeably surprised by [[General Tilney]]’s asking her if
 

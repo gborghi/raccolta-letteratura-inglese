@@ -1,5 +1,5 @@
 ---
-title: "Napoleon of Notting [[Hill]]"
+title: "Napoleon of Notting Hill"
 author: "Chesterton"
 unitType: work
 parentWork: "works/napoleon-of-notting-hill-(chesterton)"

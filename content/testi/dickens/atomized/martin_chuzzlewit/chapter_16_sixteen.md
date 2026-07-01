@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 16: SIXTEEN"
+title: "Martin Chuzzlewit — Chapter 16: SIXTEEN"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -17,7 +17,7 @@ tags:
 CHAPTER SIXTEEN
 
 MARTIN DISEMBARKS FROM THAT NOBLE AND FAST-SAILING LINE-OF-PACKET [[Ship|SHIP]],
-‘THE SCREW’, AT THE PORT OF [[New York|NEW YORK]], IN THE UNITED STATES OF [[America|AMERICA]].
+‘THE SCREW’, AT THE PORT OF [[New York|NEW YORK]], IN THE UNITED STATES OF [[america|AMERICA]].
 HE MAKES SOME ACQUAINTANCES, AND DINES AT A BOARDING-[[house|HOUSE]]. THE
 PARTICULARS OF THOSE TRANSACTIONS
 
@@ -492,7 +492,7 @@ Nothing would have delighted the colonel more than to be told that
 no such man as he could walk in high [[success]] the streets of any other
 country in the world; for that would only have been a logical assurance
 to him of the correct adaptation of his labours to the prevailing taste,
-and of his being strictly and peculiarly a national feature of [[America]].
+and of his being strictly and peculiarly a national feature of [[america|America]].
 
 They walked a mile or more along a handsome street which the colonel
 said was called Broadway, and which Mr Jefferson Brick said ‘whipped the
@@ -643,7 +643,7 @@ commercial depression,’ said the major.
 ‘I am sorry to hear that,’ returned Martin. ‘It’s not likely to last, I
 [[Hope|hope]]?’
 
-Martin knew nothing about [[America]], or he would have known perfectly [[Well|well]]
+Martin knew nothing about [[america|America]], or he would have known perfectly [[Well|well]]
 that if its individual citizens, to a man, are to be believed, it always
 IS depressed, and always IS stagnated, and always IS at an alarming
 crisis, and never was otherwise; though as a [[Body|body]] they are ready to make
@@ -1011,7 +1011,7 @@ away, or patched into praise.’
 ‘Think of what you have seen and heard to-day, beginning with the
 colonel,’ said his friend, ‘and ask yourself. How THEY came about,
 is another question. Heaven forbid that they should be samples of the
-intelligence and virtue of [[America]], but they come uppermost, and in
+intelligence and virtue of [[america|America]], but they come uppermost, and in
 great numbers, and too often represent it. Will you walk?’
 
 There was a cordial candour in his manner, and an engaging confidence
@@ -1029,4 +1029,4 @@ lost to view, appealed in these words--
      ‘Oh, but for such, Columbia’s days were done;
      Rank without ripeness, quickened without sun,
      Crude at the surface, rotten at the core,
-     Her fruits would fall before her [[Spring|spring]] were o’er!’
+     Her fruits would fall before her [[spring]] were o’er!’

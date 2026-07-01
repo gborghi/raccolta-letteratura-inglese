@@ -1,5 +1,5 @@
 ---
-title: "2 [[Henry IV]] — Act IV, Scene 3 — monologue ([[King|KING]] HENRY O) [11]"
+title: "2 Henry IV — Act IV, Scene 3 — monologue (KING HENRY O) [11]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/2-henry-iv-(shakespeare)"

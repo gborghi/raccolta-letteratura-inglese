@@ -1,5 +1,5 @@
 ---
-title: "[[The Thousand-And-Second Tale of Scheherazade]] (part 5)"
+title: "The Thousand-And-Second Tale of Scheherazade (part 5)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-thousand-and-second-tale-of-scheherazade-(poe)"
@@ -13,6 +13,21 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_thousand_and_second_tale_of_scheherazade/part/part_04">‹ part 04</a><a class="ex-next" href="/testi/poe/atomized/the_thousand_and_second_tale_of_scheherazade/part/part_06">part 06 ›</a></div>
 </nav>
 
+
+      “Pshaw!” said the [[King|king]].
+
+      “‘Quitting this land, we soon arrived at another in which the
+      [[Bees|bees]] and the [[Birds|birds]] are mathematicians of such genius and
+      erudition, that they give daily instructions in the science of
+      geometry to the wise men of the empire. The [[King|king]] of the place
+      having offered a reward for the solution of two very difficult
+      problems, they were solved upon the spot—the one by the [[Bees|bees]], and
+      the other by the [[Birds|birds]]; but the [[King|king]] keeping their solution a
+      secret, it was only after the most profound researches and labor,
+      and the writing of an infinity of big books, during a long series
+      of years, that the men-mathematicians at length arrived at the
+      identical solutions which had been given upon the spot by the
+      [[Bees|bees]] and by the [[Birds|birds]].’” (*16)
 
       “Oh my!” said the [[King|king]].
 
@@ -110,17 +125,3 @@ tags:
       prodigious strength, so that it erected or overthrew the
       mightiest empires at a breath; but its powers were exercised
       equally for evil and for good.’”
-
-      “Ridiculous!” said the [[King|king]].
-
-      “‘Among this nation of necromancers there was also one who had in
-      his veins the [[Blood|blood]] of the salamanders; for he made no scruple of
-      sitting down to smoke his chibouc in a red-hot oven until his
-      dinner was thoroughly roasted upon its floor. (*24) Another had
-      the faculty of converting the common metals into gold, without
-      even looking at them during the process. (*25) Another had such a
-      delicacy of touch that he made a wire so fine as to be invisible.
-      (*26) Another had such quickness of perception that he counted
-      all the separate motions of an elastic [[Body|body]], while it was
-      springing backward and forward at the rate of nine hundred
-      millions of times in a second.’” (*27)

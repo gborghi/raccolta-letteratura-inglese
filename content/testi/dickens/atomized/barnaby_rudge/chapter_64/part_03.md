@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 64 (part 3)"
+title: "Barnaby Rudge — Chapter 64 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,26 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_64/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_65/part_01">part 01 ›</a></div>
 </nav>
 
+
+Meanwhile, and in the midst of all the roar and outcry, those who were
+nearest to the pile, heaped up again the burning fragments that came
+toppling down, and raked the [[Fire|fire]] about the door, which, although a
+sheet of flame, was still a door fast locked and barred, and kept
+them out. Great pieces of blazing wood were passed, besides, above the
+people’s heads to such as stood about the ladders, and some of these,
+climbing up to the topmost stave, and holding on with one hand by the
+[[Prison|prison]] wall, exerted all their skill and force to cast these [[Fire|fire]]-brands
+on the roof, or down into the yards within. In many instances their
+efforts were successful; which occasioned a new and appalling addition
+to the horrors of the scene: for the prisoners within, seeing from
+between their bars that the [[Fire|fire]] caught in many places and thrived
+fiercely, and being all locked up in strong cells for the [[Night|night]], began
+to know that they were in danger of being burnt alive. This terrible
+[[Fear|fear]], spreading from cell to cell and from yard to yard, vented itself
+in such dismal cries and wailings, and in such dreadful shrieks for
+help, that the whole jail resounded with the noise; which was loudly
+heard even above the shouting of the mob and roaring of the flames, and
+was so full of agony and [[Despair|despair]], that it made the boldest tremble.
 
 It was remarkable that these cries began in that quarter of the jail
 which fronted Newgate Street, where, it was [[Well|well]] known, the men who were
@@ -63,7 +83,7 @@ dark. Pile up the [[Fire|fire]]!
 
 It burnt fiercely. The door was red-hot, and the gap wider. They vainly
 tried to shield their faces with their hands, and standing as if in
-readiness for a [[Spring|spring]], watched the place. Dark figures, some crawling
+readiness for a [[spring]], watched the place. Dark figures, some crawling
 on their hands and knees, some carried in the arms of others, were seen
 to pass along the roof. It was plain the jail could hold out no longer.
 The keeper, and his officers, and their wives and children, were

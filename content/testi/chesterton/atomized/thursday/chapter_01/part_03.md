@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 1 (part 3)"
+title: "thursday — Chapter 1 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_01/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_02/part_01">part 01 ›</a></div>
 </nav>
 
+
+She was looking at him from under level brows; her face was [[Grave|grave]]
+and open, and there had fallen upon it the [[Shadow|shadow]] of that unreasoning
+responsibility which is at the [[Bottom|bottom]] of the most frivolous woman,
+the maternal watch which is as old as the world.
 
 "Is he really an anarchist, then?" she asked.
 
@@ -171,7 +176,7 @@ Syme suddenly took off his hat.
 You say that a poet is always an anarchist.  I disagree;
 but I [[Hope|hope]] at least that he is always a sportsman.
 Permit me, here and now, to swear as a Christian, and promise
-as a good comrade and a fellow-[[Artist|artist]], that I will not
+as a good comrade and a fellow-[[artist]], that I will not
 report anything of this, whatever it is, to the police.
 And now, in the name of Colney Hatch, what is it?"
 

@@ -14,6 +14,84 @@ tags:
 </nav>
 
 
+      [[Nature|nature]] fearful and exciting, crept in upon my spirit, or that my
+
+      thoughts fell back aghast upon the wild tales and thrilling
+
+      theories of the entombed Morella? I snatched from the scrutiny of
+
+      the world a being whom destiny compelled me to adore, and in the
+
+      rigorous seclusion of my [[Home|home]], watched with an agonizing anxiety
+
+      over all which concerned the beloved.
+
+
+
+      And as years rolled away, and I gazed day after day upon her
+
+      holy, and mild, and eloquent face, and poured over her maturing
+
+      form, day after day did I discover new points of resemblance in
+
+      the [[Child|child]] to her mother, the [[Melancholy|melancholy]] and the dead. And hourly
+
+      grew darker these shadows of similitude, and more full, and more
+
+      definite, and more perplexing, and more hideously terrible in
+
+      their aspect. For that her smile was like her mother’s I could
+
+      bear; but then I shuddered at its too perfect _identity_—that her
+
+      eyes were like Morella’s I could endure; but then they, too,
+
+      often looked down into the depths of my [[Soul|soul]] with Morella’s own
+
+      intense and bewildering meaning. And in the contour of the high
+
+      forehead, and in the ringlets of the silken hair, and in the wan
+
+      fingers which buried themselves therein, and in the sad musical
+
+      tones of her speech, and above all—oh! above all—in the phrases
+
+      and expressions of the dead on the lips of the loved and the
+
+      living, I found food for consuming thought and horror—for a worm
+
+      that _would_ not die.
+
+
+
+      Thus passed away two lustra of her life, and as yet my daughter
+
+      remained nameless upon the earth. “My [[Child|child]],” and “my [[Love|love]],” were
+
+      the designations usually prompted by a father’s affection, and
+
+      the rigid seclusion of her days precluded all other intercourse.
+
+      Morella’s name died with her at her [[Death|death]]. Of the mother I had
+
+      never spoken to the daughter;—it was impossible to speak. Indeed,
+
+      during the brief period of her existence, the latter had received
+
+      no impressions from the outward world, save such as might have
+
+      been afforded by the narrow limits of her privacy. But at length
+
+      the ceremony of baptism presented to my mind, in its unnerved and
+
+      agitated condition, a present deliverance from the terrors of my
+
+      destiny. And at the baptismal font I hesitated for a name. And
+
+      many titles of the wise and beautiful, of old and modern times,
+
+      of my own and foreign lands, came thronging to my lips, with
+
       many, many fair titles of the gentle, and the happy, and the
 
       good. What prompted me then to disturb the [[Memory|memory]] of the buried
@@ -121,91 +199,3 @@ A TALE OF THE RAGGED [[Mountains|MOUNTAINS]]
       by no means unpleasing, as might be supposed; but it had no
 
       variation whatever. It was one of profound [[Melancholy|melancholy]]—of a
-
-      phaseless and unceasing gloom. His eyes were abnormally large,
-
-      and round like those of a cat. The pupils, too, upon any
-
-      accession or diminution of light, underwent contraction or
-
-      dilation, just such as is observed in the feline tribe. In
-
-      moments of excitement the orbs grew bright to a degree almost
-
-      inconceivable; seeming to emit luminous rays, not of a reflected
-
-      but of an intrinsic lustre, as does a candle or the sun; yet
-
-      their ordinary condition was so totally vapid, filmy, and dull as
-
-      to convey the idea of the eyes of a long-interred corpse.
-
-
-
-      These peculiarities of person appeared to cause him much
-
-      annoyance, and he was continually alluding to them in a sort of
-
-      half explanatory, half apologetic strain, which, when I first
-
-      heard it, impressed me very painfully. I soon, however, grew
-
-      accustomed to it, and my uneasiness wore off. It seemed to be his
-
-      design rather to insinuate than directly to assert that,
-
-      physically, he had not always been what he was—that a long series
-
-      of neuralgic attacks had reduced him from a condition of more
-
-      than usual personal [[Beauty|beauty]], to that which I saw. For many years
-
-      past he had been attended by a physician, named Templeton—an old
-
-      gentleman, perhaps seventy years of age—whom he had first
-
-      encountered at Saratoga, and from whose attention, while there,
-
-      he either received, or fancied that he received, great benefit.
-
-      The result was that Bedloe, who was wealthy, had made an
-
-      arrangement with Dr. Templeton, by which the latter, in
-
-      consideration of a liberal annual allowance, had consented to
-
-      devote his [[Time|time]] and medical experience exclusively to the care of
-
-      the invalid.
-
-
-
-      Doctor Templeton had been a traveller in his younger days, and at
-
-      [[Paris]] had become a [[convert]], in great measure, to the doctrines of
-
-      Mesmer. It was altogether by means of magnetic remedies that he
-
-      had succeeded in alleviating the acute pains of his patient; and
-
-      this [[success]] had very naturally inspired the latter with a
-
-      certain degree of confidence in the opinions from which the
-
-      remedies had been educed. The Doctor, however, like all
-
-      enthusiasts, had struggled hard to make a thorough [[convert]] of his
-
-      pupil, and finally so far gained his point as to induce the
-
-      sufferer to submit to numerous experiments. By a frequent
-
-      repetition of these, a result had arisen, which of late days has
-
-      become so common as to attract little or no attention, but which,
-
-      at the period of which I write, had very rarely been known in
-
-      [[America]]. I mean to say, that between Doctor Templeton and Bedloe
-
-      there had grown up, little by little, a very distinct and

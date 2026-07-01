@@ -14,6 +14,39 @@ tags:
 </nav>
 
 
+Lord Ivywood resumed his seat, his colourless lips
+still moving.  By some previous arrangement, probably,
+Mr. Leveson [[Rose|rose]] to move a motion about Vegetarianism.
+Mr. Leveson was of opinion that the Jewish
+and Moslem veto on pork had been the origin of
+Vegetarianism.  He thought it was a great step, and
+showed how progressive the creed could be.  He
+thought the persecution of the Hindoos by Moslems
+had probably been much exaggerated; he thought our
+experience in the Indian Mutiny showed we considered
+the feeling of Easterners too little in such matters.
+He thought Vegetarianism in some ways an advance
+on orthodox [[Christianity]].  He thought we must be
+ready for yet further advances; and he sat down.
+And as he had said precisely, clause by clause, everything
+that Lord Ivywood had said, it is needless to say
+that that nobleman afterward congratulated him on
+the boldness and originality of his brilliant speech.
+
+At a similar sort of preconcerted signal, Hibbs
+However [[Rose|rose]] rather vaguely to his feet to second the
+motion.  He rather prided himself on being a man of
+few words, in the vocal sense; he was no orator, as
+[[Brutus]] was.  It was only with pen in hand, in an
+office lined with works of reference, that he could feel
+that sense of confused responsibility that was the one
+pleasure of his life.  But on this occasion he was
+brighter than usual; partly because he liked being in
+a lord's [[house]]; partly because he had never tasted
+champagne before, and he felt as if it agreed with
+him; partly because he saw in the subject of Progress
+an infinite opportunity of splitting hairs.
+
 "Whatever," said Hibbs, with a solemn cough,
 "whatever we may think of the old belief that
 Moslems have differed from Buddhism in a regrettable

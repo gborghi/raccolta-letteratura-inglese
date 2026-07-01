@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 17: SOMEBODY TURNS UP"
+title: "David Copperfield — Chapter 17: SOMEBODY TURNS UP"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/david-copperfield-(dickens)"

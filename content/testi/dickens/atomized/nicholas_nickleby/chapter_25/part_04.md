@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 25 (part 4)"
+title: "Nicholas Nickleby — Chapter 25 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,28 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_25/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_25/part_05">part 05 ›</a></div>
 </nav>
 
+
+‘Do you think he won’t?’ cried Miss Petowker, really showing great
+capability for the stage. ‘Oh, do you think he won’t? Do you think
+Lillyvick will always remember it--always, always, always?’
+
+There is no knowing in what this burst of feeling might have ended, if
+Miss Snevellicci had not at that moment proclaimed the arrival of the
+fly, which so astounded the bride that she shook off divers alarming
+symptoms which were coming on very strong, and running to the glass
+adjusted her dress, and calmly declared that she was ready for the
+sacrifice.
+
+She was accordingly supported into the coach, and there ‘kept up’ (as
+Miss Snevellicci said) with perpetual sniffs of SAL VOLATILE and sips
+of brandy and other gentle stimulants, until they reached the manager’s
+door, which was already opened by the two Master Crummleses, who
+wore white cockades, and were decorated with the choicest and most
+resplendent waistcoats in the theatrical wardrobe. By the combined
+exertions of these young gentlemen and the bridesmaids, assisted by the
+coachman, Miss Petowker was at length supported in a condition of much
+exhaustion to the first floor, where she no sooner encountered the
+youthful bridegroom than she fainted with great decorum.
 
 ‘Henrietta Petowker!’ said the collector; ‘cheer up, my lovely one.’
 
@@ -107,36 +129,3 @@ with indignant astonishment.
 
 A profound [[Silence|silence]] came upon all, for Mr. Lillyvick was dignified beyond
 expression.
-
-‘To hang himself!’ cried Mr. Lillyvick again. ‘Is any parallel attempted
-to be drawn in this company between matrimony and hanging?’
-
-‘The noose, you know,’ said Mr. Folair, a little crest-fallen.
-
-‘The noose, sir?’ retorted Mr. Lillyvick. ‘Does any man dare to speak to
-me of a noose, and Henrietta Pe--’
-
-‘Lillyvick,’ suggested Mr. Crummles.
-
-‘--And Henrietta Lillyvick in the same breath?’ said the collector. ‘In
-this [[house]], in the presence of Mr. and Mrs. Crummles, who have brought
-up a talented and virtuous family, to be blessings and phenomenons, and
-what not, are we to hear talk of nooses?’
-
-‘Folair,’ said Mr. Crummles, deeming it a matter of decency to be
-affected by this allusion to himself and partner, ‘I’m astonished at
-you.’
-
-‘What are you going on in this way at me for?’ urged the unfortunate
-actor. ‘What have I done?’
-
-‘Done, sir!’ cried Mr. Lillyvick, ‘aimed a blow at the whole framework of
-society--’
-
-‘And the best and tenderest feelings,’ added Crummles, relapsing into
-the old man.
-
-‘And the highest and most estimable of social ties,’ said the collector.
-‘Noose! As if one was caught, trapped into the married state, pinned by
-the leg, instead of going into it of one’s own accord and glorying in
-the act!’

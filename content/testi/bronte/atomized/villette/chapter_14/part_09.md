@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 14 (part 9)"
+title: "Villette — Chapter 14 (part 9)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,33 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_14/part_08">‹ part 08</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_14/part_10">part 10 ›</a></div>
 </nav>
 
+
+She proudly led the way—“But you cannot see them [[Well|well]] from the
+classes,” said she, turning, “Madame keeps them too far off. Let us
+[[Cross|cross]] the [[Garden|garden]], enter by the corridor, and get close to them behind:
+we shall be scolded if we are seen, but never mind.”
+
+For once, I did not mind. Through the [[Garden|garden]] we went—penetrated into
+the corridor by a quiet private entrance, and approaching the _carré_,
+yet keeping in the corridor shade, commanded a near view of the band of
+“jeunes gens.”
+
+I believe I could have picked out the conquering de Hamal even
+undirected. He was a straight-nosed, very correct-featured little
+dandy. I say _little_ dandy, though he was not beneath the middle
+standard in stature; but his lineaments were small, and so were his
+hands and feet; and he was pretty and smooth, and as trim as a doll: so
+nicely dressed, so nicely curled, so booted and gloved and cravated—he
+was charming indeed. I said so. “What, a dear personage!” cried I, and
+commended Ginevra’s taste warmly; and asked her what she thought de
+Hamal might have done with the precious fragments of that heart she had
+broken—whether he kept them in a scent-vial, and conserved them in otto
+of roses? I observed, too, with deep rapture of approbation, that the
+colonel’s hands were scarce larger than Miss Fanshawe’s own, and
+suggested that this circumstance might be convenient, as he could wear
+her gloves at a pinch. On his dear curls, I told her I doated: and as
+to his low, Grecian brow, and exquisite classic headpiece, I confessed
+I had no language to do such perfections justice.
 
 “And if he were your [[Lover|lover]]?” suggested the cruelly exultant Ginevra.
 
@@ -118,42 +145,3 @@ quite in my way; not sensible and serious like the other; but one with
 whom I can talk on equal terms—who does not plague and bore, and harass
 me with depths, and heights, and passions, and talents for which I have
 no taste. There now. Don’t hold me so fast.”
-
-I slackened my grasp, and she darted off. I did not care to pursue her.
-
-Somehow I could not avoid returning once more in the direction of the
-corridor to get another glimpse of Dr. John; but I met him on the
-[[Garden|garden]]-steps, standing where the light from a [[Window|window]] fell broad. His
-[[Well|well]]-proportioned figure was not to be mistaken, for I [[Doubt|doubt]] whether
-there was another in that assemblage his equal. He carried his hat in
-his hand; his uncovered head, his face and fine brow were most handsome
-and manly. _His_ features were not delicate, not slight like those of a
-woman, nor were they cold, frivolous, and feeble; though [[Well|well]] cut, they
-were not so chiselled, so frittered away, as to lose in expression or
-significance what they gained in unmeaning symmetry. Much feeling spoke
-in them at times, and more sat silent in his eye. Such at least were my
-thoughts of him: to me he seemed all this. An inexpressible sense of
-[[Wonder|wonder]] occupied me, as I looked at this man, and reflected that _he_
-could not be slighted.
-
-It was, not my intention to approach or address him in the [[Garden|garden]], our
-terms of acquaintance not warranting such a step; I had only meant to
-view him in the crowd—myself unseen: coming upon him thus [[Alone|alone]], I
-withdrew. But he was looking out for me, or rather for her who had been
-with me: therefore he descended the steps, and followed me down the
-alley.
-
-“You know Miss Fanshawe? I have often wished to ask whether you knew
-her,” said he.
-
-“Yes: I know her.”
-
-“Intimately?”
-
-“Quite as intimately as I wish.”
-
-“What have you done with her now?”
-
-“Am I her keeper?” I felt inclined to ask; but I simply answered, “I
-have shaken her [[Well|well]], and would have shaken her better, but she escaped
-out of my hands and ran away.”

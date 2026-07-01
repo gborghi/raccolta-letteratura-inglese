@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 32 (part 2)"
+title: "Jane Eyre — Chapter 32 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -51,7 +51,7 @@ delight.
 [[Love|love]]—what a miracle I was! I drew better than her master in the first
 school in S——. Would I [[Sketch|sketch]] a portrait of her, to show to papa?”
 
-“With pleasure,” I replied; and I felt a thrill of [[Artist|artist]]-delight at
+“With pleasure,” I replied; and I felt a thrill of [[artist]]-delight at
 the idea of copying from so perfect and radiant a model. She had then
 on a dark-blue silk dress; her arms and her neck were bare; her only
 ornament was her chestnut tresses, which waved over her shoulders with

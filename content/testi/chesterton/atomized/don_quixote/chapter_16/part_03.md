@@ -1,5 +1,5 @@
 ---
-title: "[[Don Quixote]] — Chapter 15 (part 3)"
+title: "Don Quixote — Chapter 15 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/don-quixote-(chesterton)"
@@ -13,6 +13,34 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_16/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_16/part_04">part 04 ›</a></div>
 </nav>
 
+
+There was again a long [[Silence|silence]]; the sort of [[Silence|silence]] which endures
+because it is unnecessary, or rather impossible, to ask questions;
+and then Braintree took a step nearer and said:  "[[Well]], I am
+miserable enough, if that is part of the [[logic]] of the case;
+and yet again it is just part of this infernal furnace of reality
+that I cannot attack [[logic]].  How easy it is to attack [[logic]]!
+How impossible to find anything else except lying!
+And then they say that women are not logical; because they
+never waste [[logic]] on things that do not matter.  My God,
+is there any way _out_ of [[logic]]?"
+
+To anyone who had not known their knowledge of each other,
+this conversation would have seemed a series of riddles;
+but Braintree knew the answers before the riddles were asked.
+He knew that this woman had got hold of a religion
+and that a religion is often a [[Renunciation|renunciation]].
+She would not go with him without helping him to the [[Death|death]].
+And she would not help him; she would resist him to the [[Death|death]].
+That antagonism between them, as it had arisen in silly remarks
+and random _repartees_ in their first interview in the long
+room at Seawood, that antagonism, transfigured, enlightened,
+deepened but all the more defined by knowing all the best
+of each other, was risen again to a noble height of reason,
+which he was the last man in the world to despise.
+People laugh at these things when they find them in the old
+stories of Roman virtue.  They are people who have never loved
+at the same [[Time|time]] a [[Truth|truth]] and a friend.
 
 "There are some things," she said at last, "that I do know
 more about than you.  You used to make fun of my old
@@ -112,24 +140,3 @@ of his impossible [[Romance|romance]].  The pale and vivid face of Olive Ashley
 with its lift and poise and pointed chin had entered his world
 like a wedge, like the spear of something external and antagonistic.
 He had hated all her world all the more for not hating her.
-
-But with a man like [[Michael]] Herne the whole of this process
-worked backwards.  He had hardly realised what personal [[Romance|romance]]
-was inspiring the impersonal [[Romance|romance]] of his historical revolution.
-He had had nothing but a sense of growing glory within;
-of a world that grew larger and loftier like an expanding sunrise
-or a rising tide; and which was yet of the same unconscious
-stuff as the day-[[Dreams|dreams]] of his youth.  He had had at first
-the feeling that a hobby had become a holiday.  He had then had
-more and more feeling that the holiday had become a festival,
-in the sense of the solemn festival of a god.  Only at the back
-of his mind did he assume that the god was a goddess.  He was a man
-whose life had been almost wholly without personal relations.
-Therefore even when he was in fact growing from head to foot
-with a personal relation, he hardly knew that it was personal.
-He would have said in a sort of rapture that he was supported
-in his work by the most glorious friends that God had given to man.
-He would have spoken of them radiantly and collectively as if of
-a cloud of angels.  And yet at any moment, even from the first,
-if Rosamund Severne had quarrelled with him and left that company,
-he would instantly have discovered his disease.

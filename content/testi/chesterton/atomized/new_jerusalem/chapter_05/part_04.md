@@ -85,7 +85,7 @@ at the back of Zionism is in the difference between the picture
 of a Jew by Rembrandt and a picture of a Jew by Sargent.
 For Rembrandt the Rabbi was, in a special and [[Double|double]] sense,
 a distinguished figure.  He was something distinct from the world
-of the [[artist]], who drew a Rabbi as he would a Brahmin.  But Sargent
+of the [[Artist|artist]], who drew a Rabbi as he would a Brahmin.  But Sargent
 had to treat his sitters as solid citizens of England or [[America]];
 and consequently his pictures are direct provocations to a pogrom.
 But the light that Rembrandt loved falls not irreverently on

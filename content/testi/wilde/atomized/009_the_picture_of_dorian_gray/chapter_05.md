@@ -1,5 +1,5 @@
 ---
-title: "The Picture of [[Dorian Gray]] — Chapter 4"
+title: "The Picture of Dorian Gray — Chapter 4"
 author: "Wilde"
 unitType: chapter
 parentWork: "works/the-picture-of-dorian-gray-(wilde)"

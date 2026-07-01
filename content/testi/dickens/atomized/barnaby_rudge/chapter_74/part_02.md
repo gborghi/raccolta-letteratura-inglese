@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 74 (part 2)"
+title: "Barnaby Rudge — Chapter 74 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_74/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_75/part_01">part 01 ›</a></div>
 </nav>
 
+
+The sleeping man was Hugh; and perhaps it was not unnatural for Dennis
+to feel in a state of very uncomfortable suspense, and to wish with
+his whole [[Soul|soul]] that he might never wake again. Tired of standing, he
+crouched down in his corner after some [[Time|time]], and rested on the cold
+pavement; but although Hugh’s breathing still proclaimed that he
+was sleeping soundly, he could not trust him out of his sight for an
+instant. He was so afraid of him, and of some sudden onslaught, that he
+was not content to see his closed eyes through the chair-back, but
+every now and then, [[Rose|rose]] stealthily to his feet, and peered at him with
+outstretched neck, to assure himself that he really was still asleep,
+and was not about to [[spring]] upon him when he was off his guard.
 
 He slept so long and so soundly, that Mr Dennis began to think he might
 [[Sleep|sleep]] on until the turnkey visited them. He was congratulating himself

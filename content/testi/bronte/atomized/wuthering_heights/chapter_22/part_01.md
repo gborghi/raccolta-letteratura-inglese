@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 22 (part 1)"
+title: "Wuthering Heights — Chapter 22 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -121,7 +121,3 @@ to vex him. I [[Love|love]] him better than myself, Ellen; and I know it by
 this: I pray every [[Night|night]] that I may live after him; because I would
 rather be miserable than that he should be: that proves I [[Love|love]] him
 better than myself.”
-
-“Good words,” I replied. “But deeds must prove it also; and after he is
-[[Well|well]], remember you don’t forget resolutions formed in the hour of
-[[Fear|fear]].”

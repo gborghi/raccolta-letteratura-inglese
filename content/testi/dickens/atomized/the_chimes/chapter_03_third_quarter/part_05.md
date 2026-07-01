@@ -14,6 +14,15 @@ tags:
 </nav>
 
 
+At its proper [[Time|time]], the Banquet was served up.  Trotty involuntarily
+repaired to the Hall with the rest, for he felt himself conducted thither
+by some stronger impulse than his own free will.  The sight was gay in
+the extreme; the ladies were very handsome; the visitors delighted,
+cheerful, and good-tempered.  When the lower doors were opened, and the
+people flocked in, in their rustic dresses, the [[Beauty|beauty]] of the spectacle
+was at its height; but Trotty only murmured more and more, ‘Where is
+[[Richard]]!  He should help and comfort her!  I can’t see [[Richard]]!’
+
 There had been some speeches made; and Lady Bowley’s health had been
 proposed; and Sir Joseph Bowley had returned thanks, and had made his
 great speech, showing by various pieces of evidence that he was the born
@@ -116,25 +125,3 @@ It’s twenty mile away; and coming back I begs a trifle on the [[Road|road]].  
 jail with him!  At last, the constable, the keeper—anybody—finds me
 anywhere, a-doing anything.  To jail with him, for he’s a vagrant, and a
 jail-bird known; and jail’s the only [[Home|home]] he’s got.’
-
-The Alderman nodded sagaciously, as who should say, ‘A very good [[Home|home]]
-too!’
-
-‘Do I say this to serve MY cause!’ cried Fern.  ‘Who can give me back my
-liberty, who can give me back my good name, who can give me back my
-[[Innocent|innocent]] niece?  Not all the Lords and Ladies in wide England.  But,
-gentlemen, gentlemen, dealing with other men like me, begin at the right
-end.  Give us, in [[Mercy|mercy]], better homes when we’re a-lying in our cradles;
-give us better food when we’re a-working for our lives; give us kinder
-laws to bring us back when we're a-going wrong; and don’t set jail, jail,
-jail, afore us, everywhere we turn.  There an’t a condescension you can
-show the Labourer then, that he won’t take, as ready and as grateful as a
-man can be; for, he has a patient, peaceful, willing heart.  But you must
-put his rightful spirit in him first; for, whether he’s a wreck and ruin
-such as me, or is like one of them that stand here now, his spirit is
-divided from you at this [[Time|time]].  Bring it back, gentlefolks, bring it
-back!  Bring it back, afore the day comes when even his [[Bible]] changes in
-his altered mind, and the words seem to him to read, as they have
-sometimes read in my own eyes—in jail: “Whither thou goest, I can Not go;
-where thou lodgest, I do Not lodge; thy people are Not my people; Nor thy
-God my God!”’

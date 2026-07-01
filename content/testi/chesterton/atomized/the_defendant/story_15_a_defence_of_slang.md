@@ -10,12 +10,11 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-defendant-(chesterton)">The Defendant</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_defendant/story_14_a_defence_of_humility">‹ Story 14 A DEFENCE OF HUMILITY</a><a class="ex-next" href="/testi/chesterton/atomized/the_defendant/story_16_a_defence_of_baby_worship">Story 16 A DEFENCE OF BABY WORSHIP ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_defendant/story_14_a_defence_of_humility_humility">‹ Story 14 A DEFENCE OF Humility HUMILITY</a><a class="ex-next" href="/testi/chesterton/atomized/the_defendant/story_16_a_defence_of_baby_worship">Story 16 A DEFENCE OF BABY WORSHIP ›</a></div>
 </nav>
 
 
 A DEFENCE OF SLANG
-
 
 The aristocrats of the nineteenth century have destroyed entirely their
 one solitary utility. It is their business to be flaunting and arrogant;
@@ -140,6 +139,5 @@ living waters roared and toiled fathoms below. The world of slang is a
 kind of topsy-turveydom of poetry, full of blue moons and white
 elephants, of men losing their heads, and men whose tongues run away
 with them--a whole chaos of fairy tales.
-
 
        *       *       *       *       *

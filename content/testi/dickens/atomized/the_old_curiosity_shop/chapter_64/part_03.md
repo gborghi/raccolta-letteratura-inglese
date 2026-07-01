@@ -14,6 +14,12 @@ tags:
 </nav>
 
 
+The [[Marchioness]], in saying these words, brought a little table to the
+bedside, took her seat at it, and began to work away at the concoction
+of some cooling drink, with the address of a score of chemists.
+[[Richard]] Swiveller being indeed fatigued, fell into a slumber, and
+waking in about half an hour, inquired what [[Time|time]] it was.
+
 ‘Just gone half after six,’ replied his small friend, helping him to
 sit up again.
 

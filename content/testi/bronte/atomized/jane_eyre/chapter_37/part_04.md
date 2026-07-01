@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 37 (part 4)"
+title: "Jane Eyre — Chapter 37 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_37/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_37/part_05">part 05 ›</a></div>
 </nav>
 
+
+“Have you a pocket-comb about you, sir?”
+
+“What for, Jane?”
+
+“Just to comb out this shaggy black mane. I find you rather alarming,
+when I examine you close at hand: you talk of my being a fairy, but I
+am sure, you are more like a brownie.”
 
 “Am I hideous, Jane?”
 
@@ -132,14 +140,3 @@ accession of fortune, the discovery of my relations, followed in due
 order. Of course, St. John Rivers’ name came in frequently in the
 progress of my tale. When I had done, that name was immediately taken
 up.
-
-“This St. John, then, is your cousin?”
-
-“Yes.”
-
-“You have spoken of him often: do you like him?”
-
-“He was a very good man, sir; I could not help liking him.”
-
-“A good man. Does that mean a respectable [[Well|well]]-conducted man of fifty?
-Or what does it mean?”

@@ -1,5 +1,5 @@
 ---
-title: "[[THE DEATH OF WALLENSTEIN]] — Act III, Scene 3"
+title: "THE DEATH OF WALLENSTEIN — Act III, Scene 3"
 author: "Coleridge"
 unitType: scene
 parentWork: "works/the-death-of-wallenstein-(coleridge)"

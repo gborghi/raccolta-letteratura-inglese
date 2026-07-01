@@ -1,5 +1,5 @@
 ---
-title: "[[Coriolanus]] — Act V, Scene 3 — exchange ([[Virgilia|VIRGILIA]]) [3]"
+title: "Coriolanus — Act V, Scene 3 — exchange (VIRGILIA) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/coriolanus-(shakespeare)"

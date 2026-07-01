@@ -1,5 +1,5 @@
 ---
-title: "[[AllThingsConsidered-8]] — LIMERICKS AND COUNSELS OF PERFECTION"
+title: "AllThingsConsidered-8 — LIMERICKS AND COUNSELS OF PERFECTION"
 author: "Chesterton"
 unitType: story
 parentWork: "works/allthingsconsidered-8-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 LIMERICKS AND COUNSELS OF PERFECTION
-
 
 It is customary to remark that modern problems cannot easily be
 attacked because they are so complex.  In many cases I believe it

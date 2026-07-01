@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 17 (part 4)"
+title: "Wuthering Heights — Chapter 17 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -13,6 +13,30 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_17/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_17/part_05">part 05 ›</a></div>
 </nav>
 
+
+“‘Oh, I forgot you,’ said the [[Tyrant|tyrant]]. ‘You shall do that. Down with
+you. And you conspire with him against me, do you, viper? There, that
+is work fit for you!’
+
+“He shook me till my teeth rattled, and pitched me beside Joseph, who
+steadily concluded his supplications, and then [[Rose|rose]], vowing he would
+set off for the Grange directly. Mr. Linton was a magistrate, and
+though he had fifty wives dead, he should inquire into this. He was so
+obstinate in his resolution, that [[Heathcliff]] deemed it expedient to
+compel from my lips a recapitulation of what had taken place; standing
+over me, heaving with malevolence, as I reluctantly delivered the
+account in answer to his questions. It required a great deal of labour
+to satisfy the old man that [[Heathcliff]] was not the aggressor;
+especially with my hardly-wrung replies. However, Mr. Earnshaw soon
+convinced him that he was alive still; Joseph hastened to administer a
+dose of spirits, and by their succour his master presently regained
+motion and consciousness. [[Heathcliff]], aware that his opponent was
+ignorant of the treatment received while insensible, called him
+deliriously intoxicated; and said he should not notice his atrocious
+conduct further, but advised him to get to bed. To my joy, he left us,
+after giving this judicious counsel, and Hindley stretched himself on
+the hearthstone. I departed to my own room, marvelling that I had
+escaped so easily.
 
 “This morning, when I came down, about half an hour before [[Noon|noon]], Mr.
 Earnshaw was sitting by the [[Fire|fire]], deadly sick; his evil genius, almost
@@ -94,40 +118,3 @@ in suffocating sighs. I stared full at him, and laughed scornfully. The
 clouded windows of hell flashed a moment towards me; the fiend which
 usually looked out, however, was so dimmed and drowned that I did not
 [[Fear|fear]] to hazard another sound of derision.
-
-“‘Get up, and begone out of my sight,’ said the mourner.
-
-“I guessed he uttered those words, at least, though his voice was
-hardly intelligible.
-
-“‘I beg your pardon,’ I replied. ‘But I loved Catherine too; and her
-brother requires attendance, which, for her sake, I shall supply. Now
-that she’s dead, I see her in Hindley: Hindley has exactly her eyes, if
-you had not tried to gouge them out, and made them black and red; and
-her—’
-
-“‘Get up, wretched idiot, before I stamp you to [[Death|death]]!’ he cried,
-making a movement that caused me to make one also.
-
-“‘But then,’ I continued, holding myself ready to flee, ‘if poor
-Catherine had trusted you, and assumed the ridiculous, contemptible,
-degrading title of Mrs. [[Heathcliff]], she would soon have presented a
-similar picture! _She_ wouldn’t have borne your abominable behaviour
-quietly: her detestation and disgust must have found voice.’
-
-“The back of the settle and Earnshaw’s person interposed between me and
-him; so instead of endeavouring to reach me, he snatched a dinner-knife
-from the table and flung it at my head. It struck beneath my ear, and
-stopped the sentence I was uttering; but, pulling it out, I sprang to
-the door and delivered another; which I [[Hope|hope]] went a little deeper than
-his missile. The last glimpse I caught of him was a furious rush on his
-part, checked by the embrace of his host; and both fell locked together
-on the hearth. In my flight through the kitchen I bid Joseph [[Speed|speed]] to
-his master; I knocked over Hareton, who was hanging a litter of puppies
-from a chair-back in the doorway; and, blessed as a [[Soul|soul]] escaped from
-purgatory, I bounded, leaped, and flew down the steep [[Road|road]]; then,
-quitting its windings, shot direct across the moor, [[rolling]] over banks,
-and wading through marshes: precipitating myself, in fact, towards the
-beacon-light of the Grange. And far rather would I be condemned to a
-perpetual dwelling in the infernal regions than, even for one [[Night|night]],
-abide beneath the roof of [[Wuthering Heights]] again.”

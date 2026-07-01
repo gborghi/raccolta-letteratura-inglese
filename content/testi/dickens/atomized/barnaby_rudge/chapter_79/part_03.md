@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 79 (part 3)"
+title: "Barnaby Rudge — Chapter 79 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,21 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_79/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_80/part_01">part 01 ›</a></div>
 </nav>
 
+
+But in all the bandyings from hand to hand, and strivings to and fro,
+and sweepings here and there, which--saving that he looked more jolly
+and more radiant after every struggle--troubled his peace of mind no
+more than if he had been a straw upon the [[Water|water]]’s surface, he never once
+released his firm grasp of an arm, drawn tight through his. He sometimes
+turned to clap this friend upon the back, or whisper in his ear a word
+of staunch encouragement, or cheer him with a smile; but his great care
+was to shield him from the pressure, and force a passage for him to the
+Golden Key. Passive and timid, scared, pale, and wondering, and gazing
+at the throng as if he were newly risen from the dead, and felt himself
+a [[Ghost|ghost]] among the living, Barnaby--not Barnaby in the spirit, but in
+flesh and [[Blood|blood]], with pulses, sinews, nerves, and beating heart, and
+strong affections--clung to his stout old friend, and followed where he
+led.
 
 And thus, in course of [[Time|time]], they reached the door, held ready for their
 entrance by no unwilling hands. Then slipping in, and shutting out

@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 37 (part 1)"
+title: "Bleak House — Chapter 37 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/bleak-house-(dickens)">Bleak House</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_36/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_37/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_36/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_37/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -136,11 +136,3 @@ him.
 
 “My [[Love|love]],” said [[Richard]], “there is no one with whom I have a greater
 wish to talk than you, for I want you to understand me.”
-
-“And I want you, [[Richard]],” said I, shaking my head, “to understand
-some one else.”
-
-“Since you refer so immediately to [[John Jarndyce]],” said [[Richard]], “—I
-suppose you mean him?”
-
-“Of course I do.”

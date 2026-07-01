@@ -18,7 +18,6 @@ CHAPTER IV
 
 BROWNING IN [[Italy|ITALY]]
 
-
 The married pair went to Pisa in 1846, and moved soon afterwards to
 Florence. Of the life of the Brownings in [[Italy]] there is much perhaps
 to be said in the way of description and analysis, little to be said
@@ -581,7 +580,7 @@ condition of that remarkable man when living with other human beings.
 He had the [[Double|double]] arrogance which is only possible to that old and
 stately but almost extinct blend--the aristocratic republican. Like an
 old Roman senator, or like a gentleman of the Southern States of
-[[America]], he had the condescension of a gentleman to those below him,
+[[america|America]], he had the condescension of a gentleman to those below him,
 combined with the jealous [[Self|self]]-assertiveness of a Jacobin to those
 above. The only person who appears to have been able to manage him and
 bring out his more agreeable side was Browning. It is, by the way, one

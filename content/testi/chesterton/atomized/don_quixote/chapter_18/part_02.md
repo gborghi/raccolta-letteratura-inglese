@@ -1,5 +1,5 @@
 ---
-title: "[[Don Quixote]] — Chapter 17 (part 2)"
+title: "Don Quixote — Chapter 17 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/don-quixote-(chesterton)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_18/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_18/part_03">part 03 ›</a></div>
 </nav>
 
+
+Old Seawood sprang up as if galvanised; and a simple sort of vainglory
+deeper than all Victorian vanities came gasping to the surface like a
+drowning thing.  He forgot even the snobbish [[Fear|fear]] of snobbishness.
 
 "I had imagined," he said, stammering with emphasis,
 "that this movement was to restore a true respect for Nobility.

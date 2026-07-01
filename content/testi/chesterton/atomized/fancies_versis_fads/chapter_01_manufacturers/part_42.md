@@ -48,7 +48,7 @@ that evolution seems a probable conjecture, and natural selection
 is on the face of it an extravagantly improbable one.  All this,
 which is obvious to thinking people, has at last become obvious even to
 the most unthinking; and _that_ is the meaning of the attack on Darwinism
-in [[america|America]] and the battle of Mr. Bryan against the Missing Link.
+in [[America]] and the battle of Mr. Bryan against the Missing Link.
 The secret is out.  The obscurantism of the professors is over.
 Those of us who have humbly hammered on this point from [[Time|time]]
 to [[Time|time]] suddenly find ourselves hammering on an open door.

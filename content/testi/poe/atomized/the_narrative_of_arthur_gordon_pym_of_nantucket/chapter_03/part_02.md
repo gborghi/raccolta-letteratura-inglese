@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 4 (part 2)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 4 (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_03/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_03/part_03">part 03 ›</a></div>
 </nav>
 
+
+mutineers, however, succeeded at last in closing the forecastle
+
+effectually before more than six of their opponents could get up. These
 
 six, finding themselves so greatly outnumbered and without arms,
 
@@ -183,11 +187,3 @@ pale as [[Death|death]], but somewhat recovered from the effects of his wound. H
 spoke to the men in a voice hardly articulate, entreated them not to
 
 set him adrift, but to return to their duty, and promising to land them
-
-wherever they chose, and to take no steps for bringing them to justice.
-
-He might as [[Well|well]] have spoken to the winds. Two of the ruffians seized
-
-him by the arms and hurled him over the brig's side into the boat,
-
-which had been lowered while the mate went below. The four men who were

@@ -1,0 +1,132 @@
+---
+title: "Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 144)"
+author: "Whitman"
+unitType: excerpt
+parentWork: "works/complete-prose-works-specimen-days-and-collect,-november-boughs-and-goodbye-my-fancy-(whitman)"
+tags:
+  - graph/excerpt
+  - author/Whitman
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Whitman · <a href="/works/complete-prose-works-specimen-days-and-collect,-november-boughs-and-goodbye-my-fancy-(whitman)">Complete Prose Works</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/whitman/atomized/complete_prose_works/story_46_hospital_perplexity/part_143">‹ part 143</a><a class="ex-next" href="/testi/whitman/atomized/complete_prose_works/story_46_hospital_perplexity/part_145">part 145 ›</a></div>
+</nav>
+
+
+One of the persons who had occasion to stop most frequently at the
+tavern kept by Dumb Kate's parents was a young man, the son of a wealthy
+farmer, who own'd an estate in the neighborhood. He saw Kate, and
+was struck with her natural elegance. Though not of thoroughly wicked
+propensities, the fascination of so fine a prize made this youth
+determine to gain her [[Love|love]], and, if possible, to win her to himself.
+At first he hardly dared, even amid the depths of his own [[Soul|soul]], to
+entertain thoughts of vileness against one so confiding and childlike.
+But in a short [[Time|time]] such feelings wore away, and he made up his mind to
+become the betrayer of poor Kate. He was a good-looking fellow, and made
+but too sure of his victim. Kate was lost!
+
+The [[Villain|villain]] came to [[New York]] soon after, and engaged in a business which
+prosper'd [[Well|well]], and which has no [[Doubt|doubt]] by this [[Time|time]] made him what is
+call'd a man of fortune.
+
+Not long did sickness of the heart wear into the life and happiness of
+Dumb Kate. One pleasant [[spring]] day, the neighbors having been called by
+a notice the previous morning, the old churchyard was thrown open, and
+a coffin was borne over the early grass that seem'd so delicate with its
+light green hue. There was a new made [[Grave|grave]], and by its side the bier
+was rested--while they paused a moment until holy words had been said.
+An idle boy, call'd there by curiosity, saw something lying on the fresh
+earth thrown out from the [[Grave|grave]], which attracted his attention. A little
+blossom, the only one to be seen around, had grown exactly on the spot
+where the sexton chose to dig poor Kate's last resting-place. It was a
+weak but lovely flower, and now lay where it had been carelessly toss'd
+amid the coarse gravel. The boy twirl'd it a moment in his fingers--the
+bruis'd fragments gave out a momentary perfume, and then fell to the
+edge of the pit, over which the [[Child|child]] at that moment lean'd and gazed in
+his inquisitiveness. As they dropp'd, they were wafted to the [[Bottom|bottom]] of
+the [[Grave|grave]]. The last look was bestow'd on the dead girl's face by those
+who loved her so [[Well|well]] in life, and then she was softly laid away to her
+[[Sleep|sleep]] beneath that green grass covering.
+
+Yet in the churchyard on the [[Hill|hill]] is Kate's [[Grave|grave]]. There stands a little
+white stone at the head, and verdure grows richly there; and gossips,
+some-times of a Sabbath afternoon, rambling over that gathering-place of
+the gone from earth, stop a while, and con over the dumb girl's hapless
+story.
+
+TALK TO AN ART-[[Union|UNION]]
+
+_A Brooklyn fragment_
+
+It is a beautiful [[Truth|truth]] that all men contain something of the [[artist]] in
+them. And perhaps it is the case that the greatest artists live and die,
+the world and themselves alike ignorant what they possess. Who would
+not mourn that an ample palace, of surpassingly graceful architecture,
+fill'd with luxuries, and embellish'd with fine pictures and sculpture,
+should stand cold and still and vacant, and never be known or enjoy'd
+by its owner? Would such a fact as this cause your sadness? Then be sad.
+For there is a palace, to which the courts of the most sumptuous kings
+are but a frivolous patch, and, though it is always waiting for them,
+not one of its owners ever enters there with any genuine sense of its
+grandeur and glory.
+
+I think of few heroic actions, which cannot be traced to the
+artistical impulse. He who does great deeds, does them from his innate
+sensitiveness to moral [[Beauty|beauty]]. Such men are not merely artists, they are
+also artistic material. Washington in some great crisis, Lawrence on
+the bloody deck of the Chesapeake, Mary Stuart at the block, Kossuth
+in captivity, and Mazzini in [[Exile|exile]]--all great rebels and innovators,
+exhibit the highest phases of the [[artist]] spirit. The painter, the
+sculptor, the poet, express heroic [[Beauty|beauty]] better in description; but the
+others _are_ heroic [[Beauty|beauty]], the best belov'd of art.
+
+Talk not so much, then, young [[artist]], of the great old masters, who
+but painted and chisell'd. Study not only their productions. There is a
+still higher school for him who would kindle his [[Fire|fire]] with coal from
+the altar of the loftiest and purest art. It is the school of all grand
+actions and grand virtues, of [[Heroism|heroism]], of the [[Death|death]] of patriots and
+martyrs--of all the mighty deeds written in the pages of [[history]]--deeds
+of daring, and enthusiasm, devotion, and fortitude.
+
+[[Blood|BLOOD]]-MONEY
+
+"_Guilty of the [[Body|body]] and the [[Blood|blood]] of Christ_."
+
+I.
+
+    Of olden [[Time|time]], when it came to pass
+    That the beautiful god, Jesus, should finish his work on earth,
+    Then went Judas, and sold the divine youth,
+    And took pay for his [[Body|body]].
+
+    Curs'd was the deed, even before the sweat of the clutching hand
+      grew dry;
+    And darkness frown'd upon the seller of the like of God,
+    Where, as though earth lifted her breast to throw him from her,
+      and heaven refused him,
+    He hung in the air, [[Self|self]]-slaughter'd.
+
+    The cycles, with their long shadows, have stalk'd silently forward,
+    Since those ancient days--many a pouch enwrapping meanwhile
+    Its fee, like that paid for the son of Mary.
+
+    And still goes one, saying,
+    "What will ye give me, and I will deliver this man unto you?"
+    And they make the covenant, and pay the pieces of silver.
+
+II
+
+    Look forth, deliverer,
+    Look forth, first-born of the dead,
+    Over the tree-tops of Paradise;
+    See thyself in yet continued bonds,
+    Toilsome and poor, thou bear'st man's form again,
+    Thou art reviled, scourged, put into [[Prison|prison]],
+    Hunted from the arrogant equality of the rest;
+    With staves and swords throng the willing servants of authority,
+    Again they surround thee, mad with devilish spite;
+    Toward thee stretch the hands of a multitude, like vultures' talons,
+    The meanest spit in thy face, they smite thee with their palms;
+    Bruised, bloody, and pinion'd is thy [[Body|body]],
+    More sorrowful than [[Death|death]] is thy [[Soul|soul]].

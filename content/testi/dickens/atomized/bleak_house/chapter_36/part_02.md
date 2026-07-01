@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 36 (part 2)"
+title: "Bleak House — Chapter 36 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -29,7 +29,7 @@ up and where his old stool yet occupied its old place. This was
 considered by the whole village the most wonderful achievement in the
 world, but when an answer came back all the way from Plymouth, in
 which he mentioned that he was going to take the picture all the way
-to [[America]], and from [[America]] would write again, I got all the credit
+to [[america|America]], and from [[america|America]] would write again, I got all the credit
 that ought to have been given to the post-office and was invested
 with the merit of the whole system.
 

@@ -244,17 +244,17 @@ _II--The Root of Reality_
 THE only excuse of literature is to make things new; and the chief
 misfortune of journalism is that it has to make them old.
 What is hurried has to be hackneyed.  Suppose a man has to write
-on a particular subject, let us say [[america|America]]; if he has a day
+on a particular subject, let us say [[America]]; if he has a day
 to do it in, it is possible that, in the last afterglow of sunset,
 he may have discovered at least one thing which he himself really
-thinks about [[america|America]].  It is conceivable that somewhere under
+thinks about [[America]].  It is conceivable that somewhere under
 the [[Evening Star|evening star]] he may have a new idea, even about the new world.
 If he has only half an hour in which to write, he will just have
 [[Time|time]] to consult an encyclopaedia and vaguely remember the latest
 leading articles.  The encyclopaedia will be only about a decade
 out of date; the leading articles will be aeons out of date--
 having been written under similar conditions of modern rush.
-If he has only a quarter of an hour in which to write about [[america|America]],
+If he has only a quarter of an hour in which to write about [[America]],
 he may be driven in mere delirium and [[Madness|madness]] to call her his
 Gigantic Daughter in the west, to talk of the feasibility
 of Hands Across the Sea, or even to call himself an Anglo-Saxon,
@@ -393,7 +393,7 @@ not even differ from it.  It may be that Trusts are rising like towers
 of gold and iron, overshadowing the earth and shutting out the sun;
 but they are only rising on the left side of the [[Road|road]].  It may be
 that Trades Unions are laying labyrinths of international insurrection,
-cellars stored with the dynamite of a merely destructive [[Democracy|democracy]];
+cellars stored with the dynamite of a merely destructive [[democracy]];
 but all that international maze lies to the left side of the [[Road|road]].
 Employment and unemployment are there; Marx and the Manchester School
 are there.  The left side of the [[Road|road]] may even go through
@@ -946,7 +946,7 @@ It has to destroy a hundred families to keep up a class.
 
 But if this family spirit is incompatible with what we mean
 by aristocracy, it is quite as incompatible with three-quarters
-of what many men praise and preach as [[Democracy|democracy]].  The whole trend
+of what many men praise and preach as [[democracy]].  The whole trend
 of what has been regarded as liberal legislation in England,
 necessary or unnecessary, defensible and indefensible, has for good
 or evil been at the expense of the independence of the family,
@@ -1033,7 +1033,7 @@ How far this [[Sublime|sublime]] and suicidal ideal was really useful in revivin
 national enthusiasm, it is for Irishmen to judge; I should have said
 that the enthusiasm was there anyhow.  But if any such action is
 based on international hopes, as they affect England or a great part
-of [[america|America]], it seems to me it is founded on a fallacy about the facts.
+of [[America]], it seems to me it is founded on a fallacy about the facts.
 I shall have occasion to note many English errors about the Irish;
 and this seems to me a very notable Irish error about the English.
 If we are often utterly mistaken about their mentality, they were
@@ -1280,7 +1280,7 @@ proletarian Irish.  He made a most admirable speech, to which I
 mean no disparagement when I say that I think his personal
 popularity had even more weight than his personal eloquence.
 My own argument was confined to the particular value of small
-property as a weapon of militant [[Democracy|democracy]]; and was based
+property as a weapon of militant [[democracy]]; and was based
 on the idea that the citizen resisting injustice could find no
 substitute for private property, for every other impersonal power,
 however democratic in theory, must be bureaucratic in form.
@@ -1796,7 +1796,7 @@ It sees the [[Tragedy|tragedy]] of Ireland as simply and clearly as the [[Traged
 of [[Christ]] or Joan of Arc.  There may have been more to be said on
 the coercive side than the culture of the Continent understands.
 So there was a great deal more than is usually admitted, to be said
-on the side of the patriotic [[Democracy|democracy]] which condemned Socrates;
+on the side of the patriotic [[democracy]] which condemned Socrates;
 and a very great deal to be said on the side of the imperial
 aristocracy which would have crushed Washington.  But these disputes
 will not take Socrates from his niche among the pagan saints,
@@ -1983,7 +1983,7 @@ the last moment allies on whom we could depend; and it would have lost
 us the whole sympathy of the allies on whom we at that moment depended.
 I do not mean that American soldiers would have mutinied;
 though Irish soldiers might have done so; I mean something much worse.
-I mean that the whole mood of [[america|America]] would have altered, and there
+I mean that the whole mood of [[America]] would have altered, and there
 would have been some kind of compromise with German tyranny,
 in sheer disgust at a long exhibition of English tyranny.
 Things would have happened in Ireland, week after week, and month
@@ -1999,7 +1999,7 @@ looking towards that unhappy [[City|city]], who shook his head and said sadly,
 Of the meaning of this huge furnace of defiance I shall write
 when I write of the national idea itself.  I am concerned
 here not for their nation but for mine; and especially with its
-peril from Prussia and its help from [[america|America]].  And it is simply
+peril from Prussia and its help from [[America]].  And it is simply
 a question of considering what these real things are really like.
 Remember that the American Republic is practically founded on the fact,
 or fancy, that England is a [[Tyrant|tyrant]].  Remember that it was being
@@ -2103,7 +2103,7 @@ and her wrongs are not the subjective fancies of the Irish.
 Irishmen did not dream that they were evicted out of [[house]] and [[Home|home]]
 by the ruthless application of a land law no man now dares to defend.
 It was not a [[nightmare]] that dragged them from their beds;
-nor were they sleepwalkers when they wandered as far as [[america|America]].
+nor were they sleepwalkers when they wandered as far as [[America]].
 Skeffington did not have a delusion that he was being shot for keeping
 the peace; the shooting was objective, as the Prussian professors
 would say; as objective as the Prussian militarists could [[Desire|desire]].
@@ -2623,7 +2623,7 @@ He says that our capitalists were not guilty of direct cruelty,
 but of an attitude careless and even callous.  But what strikes me
 is that Sir [[arthur|Arthur]], with his taste for such protests and inquiries,
 need not have wandered quite so far from his own [[Home|home]] as the forests
-of South [[america|America]].
+of South [[America]].
 
 Sir [[arthur|Arthur]] Conan Doyle is an Irishman; and in his own country, within my
 own [[Memory|memory]] there occurred a staggering and almost incredible crime,
@@ -3155,7 +3155,7 @@ than that they permit any particular poetic interference with reason.
 says Mr. Yeats, and any one who has been in the atmosphere
 will know what he means.  In so far as such things stray
 from reason, they tend rather to ritual than to riot.
-Poetry is in Ireland what [[Humour|humour]] is in [[america|America]]; it is an institution.
+Poetry is in Ireland what [[Humour|humour]] is in [[America]]; it is an institution.
 The Englishman, who is always for good and evil the amateur,
 takes both in a more occasional and even accidental fashion.
 It must always be remembered here that the ancient Irish civilisation

@@ -14,6 +14,26 @@ tags:
 </nav>
 
 
+miscreant as the realist of to-day commonly scorns his own [[Hero|hero]]. Though
+
+his [[Soul|soul]] may be in rags, every man of Scott can speak like a [[King|king]].
+
+This quality, as I have said, is sadly to seek in the fiction of the
+
+passing hour. The realist would, of course, repudiate the bare idea of
+
+putting a bold and brilliant tongue in every man's head, but even where
+
+the moment of the story naturally demands eloquence the eloquence seems
+
+frozen in the tap. Take any contemporary work of fiction and turn to the
+
+scene where the young Socialist denounces the millionaire, and then
+
+compare the stilted sociological lecture given by that [[Self|self]]-sacrificing
+
+bore with the surging joy of words in Rob Roy's declaration of himself,
+
 or Athelstane's defiance of De Bracy. That ancient sea of human passion
 
 upon which high words and great phrases are the resplendent foam is just
@@ -53,8 +73,6 @@ stable your stirks in the sheilings of Dern-cleugh. See that the hare
 does not couch on the hearthstane of Ellangowan. Ride your ways, Godfrey
 
 [[Bertram]].'
-
-
 
 The reason is, of course, that these men are afraid of bombast and Scott
 
@@ -98,8 +116,6 @@ and the face of friends, that and that [[Alone|alone]] will almost certainly
 
 remain our vital [[philosophy]] to our dying day.
 
-
-
 Scott's bombast, therefore, will always be stirring to anyone who
 
 approaches it, as he should approach all literature, as a little [[Child|child]].
@@ -134,8 +150,6 @@ and are unaware that that transformation has already been triumphantly
 
 effected.
 
-
-
 Scott is separated, then, from much of the later conception of fiction
 
 by this quality of eloquence. The whole of the best and finest work of
@@ -169,31 +183,3 @@ artificial is the last and silliest evasion of criticism. There was
 never anything in the world that was really artificial. It had some
 
 motive or ideal behind it, and generally a much better one than we
-
-think.
-
-
-
-Of the faults of Scott as an [[artist]] it is not very necessary to speak,
-
-for faults are generally and easily pointed out, while there is yet no
-
-adequate valuation of the varieties and contrasts of virtue. We have
-
-compiled a complete botanical classification of the weeds in the
-
-poetical [[Garden|garden]], but the [[Flowers|flowers]] still flourish neglected and nameless.
-
-It is true, for example, that Scott had an incomparably stiff and
-
-pedantic way of dealing with his heroines: he made a lively girl of
-
-eighteen refuse an offer in the language of Dr Johnson. To him, as to
-
-most men of his [[Time|time]], woman was not an individual, but an
-
-institution--a toast that was drunk some [[Time|time]] after that of Church and
-
-[[King]]. But it is far better to consider the difference rather as a
-
-special merit, in that he stood for all those clean and bracing shocks

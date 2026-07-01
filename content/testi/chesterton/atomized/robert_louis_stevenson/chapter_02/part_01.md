@@ -1,5 +1,5 @@
 ---
-title: "Robert Louis Stevenson — Chapter 2 (part 1)"
+title: "Robert Louis Stevenson — Chapter 1 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/robert-louis-stevenson-(chesterton)"
@@ -10,123 +10,150 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/robert-louis-stevenson-(chesterton)">Robert Louis Stevenson</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/robert_louis_stevenson/chapter_01/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/robert_louis_stevenson/chapter_02/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/robert_louis_stevenson/chapter_11">‹ Chapter 11</a><a class="ex-next" href="/testi/chesterton/atomized/robert_louis_stevenson/chapter_02/part_02">part 02 ›</a></div>
 </nav>
 
 
-CHAPTER II
+CHAPTER I
 
-IN THE COUNTRY OF SKELT
+"THE MYTH OF STEVENSON"
 
-EVERY now and then the eye is riveted, in reading current criticism,
-by some statement so astonishingly untrue, or even contrary
-to the fact, that it seems as if a man walking down the street
-were suddenly standing on his head.  It is all the more
-noticeable when the critic really has a strong head to stand on.
-One of the ablest of the younger critics, whose studies in other
-subjects I have warmly admired, wrote in our invaluable _London Mercury_
-a study of Stevenson; or what purported to be a study of Stevenson.
-And the chief thing he said, indeed almost the only thing he said,
-was that the thought of Stevenson instantly throws us back to the greater
-example of [[Edgar]] Allan Poe; that both were pallid and graceful
-figures "making wax [[Flowers|flowers]]," as somebody said; and of course
-the earlier and greater had the advantage of the later and the less.
-In fact, the critic treated Stevenson as the [[Shadow|shadow]] of Poe; which may
-not unfairly be called the [[Shadow|shadow]] of a shade.  He almost hinted that,
-for those who had read Poe, it was hardly worth while to read Stevenson.
-And indeed I could almost suspect he had taken his own advice;
-and never read a line of Stevenson in his life.
+IN this brief study of Stevenson I propose to follow a somewhat
+unusual course; or to [[Sketch|sketch]] what may be considered a rather
+eccentric outline.  It can only be justified in practice; and I have
+a healthy [[Fear|fear]] that my practice will not justify it.  Nevertheless, I
+have not adopted it without considerable thought, and even [[Doubt|doubt]],
+about the best way of dealing with a real and practical problem.
+So before it collapses completely in practice, I will give myself
+the triumph and the joy of justifying it in principle.
 
-If a man were to say that Maeterlinck derives so directly from
-Dickens that it is difficult to draw the line between them, I should
-be momentarily at a loss to catch his meaning.  If he were to say
-that Walt Whitman was so close a copyist of Pope that it is hardly
-worth while to read the copy, I should not at once seize the clue.
-But I should think these comparisons rather more close, if anything,
-than the comparison between Stevenson and Poe.  Dickens did not
-confine himself to comic subjects so much as Poe did to tragic ones;
-and an [[Essay]] on Optimism might couple the names of Pope and Whitman.
-It might also include the name of Stevenson; but it would hardly beam
-and sparkle with the name of Poe.  The contrast, however, is much deeper
-than labels or the commonplaces of controversy.  It is much deeper
-than formal divisions between what is funny and what is serious.
-It is concerned with something which it is now fashionable
-in drawing-rooms to call psychological; but which those who would
-as soon talk Latin as Greek still prefer to call spiritual.
-It is not necessarily what the newspapers would call moral;
-but that is only because it is more moral than most modern [[morality]].
+The difficulty arises thus.  In the great days of Stevenson critics
+had begun to be ashamed of being critics, and of giving to their
+ancient function the name of criticism.  It was the fashion to publish
+a book that was a bundle of reviews and to call it "Appreciations."
+But the world advances; and if that sort of book is published now,
+it might [[Well|well]] bear the general title of "Depreciations." Stevenson has
+suffered more than most from this new fashion of minimising and
+finding fault; and some energetic and successful writers have thrown
+themselves into the business almost with the eagerness of stockbrokers,
+bent on making a slump instead of a boom in Stevenson Stock.
+It may be questioned whether we need welcome the bear any more
+than the bull in the china-shop of elegant English letters.
+Others seem to make quite a hobby of proving a particular writer
+to be overrated.  They write long and laborious articles,
+full of biographical detail and bitter commentary, in order
+to show that the subject is unworthy of attention; and write pages
+upon Stevenson to prove that he is not worth writing about.
+Neither their motives nor their methods are very clear or satisfactory.
+If it be true that all swans are geese to the discriminating eye
+of the scientific ornithologist, it hardly suffices to explain
+so long or so fatiguing a wild-goose chase.
 
-When Stevenson was known as Stennis, by Parisian art students
-struggling with his name, it was the hour of Art for Art's Sake.
-Painting was to be impersonal, though painters (like Whistler)
-were sometimes perhaps a little personal.  But they all insisted
-that every picture is as impersonal as a pattern.  They ought
-to have insisted that every pattern is as personal as a picture.
-Whether or no we see faces in the carpet, we ought to see a mind in
-the carpet; and in fact there is a mind in every scheme of ornament.
-There is as emphatically a [[morality]] expressed in Babylonian architecture
-or Baroque architecture as if it were plastered all over with
-Biblical texts.  Now in the same manner there is at the back of every
-[[Artist|artist]]'s mind something like a pattern or a type of architecture.
-The original quality in any man of [[Imagination|imagination]] is imagery.
-It is a thing like the landscapes of his [[Dreams|dreams]]; the sort of world
-he would wish to make or in which he would wish to wander;
-the strange flora and fauna of his own secret planet; the _sort_ of thing
-that he likes to think about.  This general atmosphere, and pattern
-or structure of growth, governs all his creations however varied;
-and because he can in this sense create a world, he is in this sense
-a creator; the image of God.  Now everybody knows what was in this
-sense the atmosphere and architecture of Poe.  Dark wine, dying lamps,
-drugging odours, a sense of being stifled in curtains of black velvet,
-a substance which is at once utterly black and unfathomably soft,
-all carried with them a sense of indefinite and infinite [[Decay|decay]].
-The word infinite is not itself used indefinitely.  The point of Poe
-is that we feel that _everything_ is decaying, including ourselves;
-faces are already growing featureless like those of lepers;
-roof-trees are rotting from root to roof; one great grey fungus
-as vast as a forest is sucking up life rather than giving it forth;
-mirrored in stagnant pools like lakes of [[Poison|poison]] which yet fade without
-line or frontier into the swamp.  The [[Stars|stars]] are not clean in his sight;
-but are rather more worlds made for worms.  And this corruption
-is increased, by an intense imaginative genius, with the addition
-of a satin surface of luxury and even a terrible sort of comfort.
-"Purple cushions that the lamplight gloated o'er" is in the spirit of his
-brother Baudelaire who wrote of _divans profonds commes les tombeaux._
-This dark luxury has something almost liquid about it.  Its laxity
-seems to be betraying more vividly how all these things are being
-sucked away from us, down a slow whirlpool more like a moving swamp.
-That is the atmosphere of [[Edgar]] Allan Poe; a sort of rich rottenness
-of decomposition, with something thick and narcotic in the very air.
-It is idle to describe what so darkly and magnificently describes itself.
-But perhaps the shortest and best way of describing that artistic
-talent is to say that Stevenson's is exactly the opposite.
+But it is true that, in a sense more general than that of these rather
+irritable individuals, such a reaction does exist.  And it is a reaction
+against Stevenson, or at least against Stevensonians.  Perhaps it
+would be most correct to call it a reaction against Stevensoniana.
+And let me say at this early stage that I heartily agree that there
+has been far too much Stevensoniana.  In one sense, indeed,
+everything about anybody so interesting as Stevenson is interesting.
+In one sense, everything about everybody is interesting.
+But not everybody can interest everybody else:  and it is [[Well|well]] to know
+an author is loved, but not to publish all the [[Love|love]]-letters. Sometimes
+we only had to endure that most awful and appalling [[Tragedy|tragedy]]:
+a [[Truth|truth]] told once too often.  Sometimes we heard Stevensonian
+sentiments repeated in violation of all Stevensonian rules.
+For of all things he hated dilution:  and loved to take language neat,
+like a liqueur.  In short, it was overdone; it was too noisy
+and yet all on one note; above all, it was too incessant
+and too prolonged.  As I say, there were a variety of causes,
+which it would be unnecessary and sometimes unamiable to discuss.
+There was perhaps something in it of the very virtue of Stevenson;
+he was tolerant of many societies and interested in many men;
+and there was nothing to ward off the direst results of the men
+being interested in him.  Especially after he was dead, one person
+after another turned up and wrote a book about meeting Stevenson
+on a steamboat or in a restaurant; and it is not surprising
+that such book-makers began to look as vulgar as bookies.
+There was perhaps something in it of the old joke of Johnson:
+that the Scots are in a conspiracy to praise each other.
+It was often because the Scots are secret sentimentalists and cannot
+always keep the secret.  Their interest in a story so brilliant and in
+some ways so pathetic was perfectly natural and human; but for all that,
+their interest was overdone.  It was sometimes, I regret to say,
+because the interest might fairly be called a vested interest.
+Anyhow, any number of things happened to combine to vulgarise the thing;
+but vulgarising a thing does not really make it vulgar.
 
-The first fact about the imagery of Stevenson is that all his images
-stand out in very sharp outline; and are, as it were, all edges.
-It is something in him that afterwards attracted him to the abrupt
-and angular black and white of woodcuts.  It is to be seen from
-the first, in the way in which his eighteenth-century figures stand
-up against the skyline, with their cutlasses and cocked hats.
-The very words carry the sound and the significance.
-It is as if they were cut out with cutlasses; as was that
-unforgettable chip or wedge that was hacked by the blade
-of Billy Bones out of the wooden sign of the "Admiral Benbow."
-That sharp indentation of the wooden square remains as a sort
-of symbolic shape expressing Stevenson's type of literary attack;
-and if all the colours should fade from me and the scene of all
-that [[Romance|romance]] grow dark, I think that black wooden sign with a piece
-bitten out of it would be the last shape that I should see.
-It is no mere pun to say that it is the best of his woodcuts.
-Normally, anyhow, the scene is the very reverse of dark, and certainly the
-very reverse of indefinite.  Just as all the form can best be described
-as clean-cut, so all the colour is conspicuously clear and bright.
-That is why such figures are so often seen standing against the sea.
-Everybody who has been at the seaside has noted how sharp and
-highly coloured, like painted caricatures, appear even the most
-ordinary figures as they pass in profile to and fro against the blue
-dado of the sea.  There is something also of that hard light
-that falls full and pale upon ships and open shores; and even more,
-it need not be said, of a certain salt and acrid clearness in the air.
-But it is notably the case in the outlines of these maritime figures.
-They are all edges and they stand by the sea, that is the edge
-of the world.
+Now Stevenson's life was really what we call picturesque;
+partly because he saw everything in pictures; and partly because a
+chapter of accidents did really attach him to very picturesque places.
+He was born on the high terraces of the noblest of northern cities:
+in the family mansion in Edinburgh in 1850; he was the son
+of a [[house]] of highly respected architects of lighthouses;
+and nothing could be more really romantic than such a legend
+of men laboriously lifting the star-crowned towers of the sea.
+He failed to follow the family tradition, however, for various reasons;
+he was blighted with ill-health and a taste for art; the latter
+sent him to pick up picturesque tricks and poses in the art colony
+of Barbizon; the former very soon sent him southward into warmer
+and warmer climates; and it so happens as he himself remarked,
+that the countries to which we are sent when health deserts us
+have a magical and rather mocking [[Beauty|beauty]].  At one [[Time|time]] he had paid
+a sort of vagabond visit to [[america|America]], crossing the ugly plains
+that lead to the abrupt [[Beauty|beauty]] of California, that promised land.
+He described it in the studies called _Across the Plain:_ a work
+vaguely unsatisfying both to writer and reader.  I think it records
+the subconscious blank and sense of bewilderment felt by every true
+European on first seeing the very light and landscape of [[america|America]].
+The shock of negation was in his case truly unnatural.
+He almost wrote a dull book.  But there is another reason for noting
+this exception here.
+
+This book makes no pretence of being even an outline of the life
+of Stevenson.  In his particular case I deliberately omit such
+an outline, because I find that it has cut across and confused
+the very sharp and lucid outline of his art.  But indeed in any case
+it would be very difficult to tell the tale with [[Truth|truth]] without
+telling it in detail, and in rather bewildering detail.  The first
+thing that strikes us, on a rapid survey of his life and letters,
+is his innumerable changes of domicile, especially in his early days.
+If his friends followed the example he professes to set, in the matter
+of Mr. [[Michael]] Finsbury, and refused to learn more than one address
+for one friend, he must have left his correspondence very far
+behind indeed.  His wanderings in Western Europe would appear
+on the map as much wilder as [[Well|well]] as wider than the "probable
+course of David Balfour's wanderings" in Western Scotland.
+If we started out to tell his story thus, we should have to note
+how he went first to Mentone and then back again to Edinburgh
+and then to Fontainebleau and then to the Highlands and then to
+Fontainebleau again and then to Davos in the [[Mountains|mountains]], and so on;
+a zigzag pilgrimage impossible to compress except in a larger [[Biography|biography]].
+But all or most of it is covered by one generalisation.
+This navigation chart was really a hospital chart.  Its jagged
+[[Mountains|mountains]] represented temperatures; or at least climates.
+The whole story of Stevenson is conditioned by a certain complexity,
+which a tenderness for the English language will restrain us
+from calling a complex.  It was a sort of [[Paradox|paradox]], by which he was
+at once more and less protected than other men; like somebody
+travelling the wildest roads of the world in a covered waggon.
+He went where he did partly because he was an adventurer and partly
+because he was an invalid.  By that sort of limping agility,
+he may be said to have seen at once too little and too much.
+He was perhaps a natural traveller; but he was not a normal traveller.
+Nobody ever did treat him as quite normal; which is the [[Truth|truth]]
+hidden in the falsehood of those who sneer at his childishness
+as that of a spoilt [[Child|child]].  He was courageous; and yet he had to be
+shielded against two things at once, his weakness and his [[Courage|courage]].
+But his picture of himself as a vagabond with blue fingers
+on the [[Winter|winter]] [[Road|road]] is avowedly an ideal picture; it was exactly
+that sort of [[Freedom|freedom]] that he could never have.  He could only be
+carried from sight to sight; or even from adventure to adventure.
+Indeed there is here a curious aptness in the quaint simplicity
+of his childish rhyme that ran, "My bed is like a little boat."
+Through all his varied experiences his bed was a boat and his boat was
+a bed.  Panoramas of tropic palm and Californian orange-grove passed
+over that moving couch like the long [[nightmare]] of the nursery walls.
+But his real [[Courage|courage]] was not so much turned outwards to the drama
+of the boat as inwards to the drama of the bed.  Nobody knew
+better than he did that nothing is more terrible than a bed;
+since it is always waiting to be a deathbed.

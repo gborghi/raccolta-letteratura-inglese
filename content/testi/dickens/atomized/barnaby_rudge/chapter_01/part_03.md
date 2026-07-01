@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 1 (part 3)"
+title: "Barnaby Rudge — Chapter 1 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -142,12 +142,3 @@ face!’ exclaimed the parish-clerk, metaphorically.
 ‘[[Silence]], sir!’ returned his father, ‘what do you mean by talking, when
 you see people that are more than two or three times your age, sitting
 still and silent and not dreaming of saying a word?’
-
-‘Why that’s the proper [[Time|time]] for me to talk, isn’t it?’ said Joe
-rebelliously.
-
-‘The proper [[Time|time]], sir!’ retorted his father, ‘the proper [[Time|time]]’s no
-[[Time|time]].’
-
-‘Ah to be sure!’ muttered Parkes, nodding gravely to the other two who
-nodded likewise, observing under their breaths that that was the point.

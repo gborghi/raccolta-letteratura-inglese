@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 9 (part 1)"
+title: "Shirley — Chapter 9 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -257,17 +257,3 @@ with an ease and buoyancy all their own:--
      And this is with burning,
 
        And fuel, and [[Fire|fire]]!"
-
-
-
-Here followed an interval of clamorous [[prayer]], accompanied by fearful
-
-groans. A shout of "I've found liberty!" "Doad o' Bill's has fun'
-
-liberty!" rang from the chapel, and out all the assembly broke again.
-
-
-
-    "What a [[Mercy|mercy]] is this!
-
-      What a heaven of bliss!

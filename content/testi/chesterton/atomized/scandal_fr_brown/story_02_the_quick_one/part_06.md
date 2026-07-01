@@ -14,6 +14,37 @@ tags:
 </nav>
 
 
+And so, for some stretch of those strange days and nights, we might
+almost say that the little figure of [[Father Brown]] drove before him into
+action all the armies and engines of the police forces of the [[Crown]], as
+the little figure of Napoleon drove the batteries and the battle - lines
+of the vast strategy that covered Europe. Police stations and post
+offices worked all [[Night|night]]; traffic was stopped, correspondence was
+intercepted, inquiries were made in a hundred places, in order to track
+the flying trail of that ghostly figure, without face or name, with an
+Inverness cape and an Edinburgh ticket.
+
+Meanwhile, of course, the other lines of investigation were not
+neglected. The full report of the post - mortem had not yet come in; but
+everybody seemed certain that it was a case of poisoning. This naturally
+threw the primary suspicion upon the cherry brandy; and this again
+naturally threw the primary suspicion on the hotel.
+
+'Most probably on the manager of the hotel,' said Greenwood gruffly. 'He
+looks a nasty little worm to me. Of course it might be something to do
+with some servant, like the barman; he seems rather a sulky specimen,
+and Raggley might have cursed him a bit, having a flaming temper, though
+he was generally generous enough afterwards. But, after all, as I say,
+the primary responsibility, and therefore the primary suspicion, rests
+on the manager.'
+
+'Oh, I knew the primary suspicion would rest on the manager,' said
+[[Father Brown]]. 'That was why I didn't suspect him. You see, I rather
+fancied somebody else must have known that the primary suspicion would
+rest on the manager; or the servants of the hotel. That is why I said it
+would be easy to kill anybody in the hotel . . . But you'd better go and
+have it out with him, I suppose.'
+
 The Inspector went; but came back again after a surprisingly short
 interview, and found his clerical friend turning over some papers that
 seemed to be a sort of dossier of the stormy career of John Raggley.
@@ -90,35 +121,3 @@ whisky.'
 
 'Which you think was mixed up with the murder,' said Greenwood, staring.
 'Look here, I don't know whether you're really serious or not.'
-
-Even as he was looking steadily in his friend's face, finding something
-still inscrutable in its expression, the telephone rang stridently
-behind the bar. Lifting the flap in the counter Inspector Greenwood
-passed rapidly inside, unhooked the receiver, listened for an instant,
-and then uttered a shout; not addressed to his interlocutor, but to the
-universe in general. Then he listened still more attentively and said
-explosively at intervals, 'Yes, yes . . . Come round at once; bring him
-round if possible . . . Good piece of work . . . Congratulate you.'
-
-Then Inspector Greenwood came back into the outer lounge, like a man who
-has renewed his youth, sat down squarely on his seat, with his hands
-planted on his knees, stared at his friend, and said:
-
-'[[Father Brown]], I don't know how you do it. You seem to have known he was
-a murderer before anybody else knew he was a man. He was nobody; he was
-nothing; he was a slight confusion in the evidence; nobody in the hotel
-saw him; the boy on the steps could hardly swear to him; he was just a
-fine shade of [[Doubt|doubt]] founded on an extra dirty glass. But we've got him,
-and he's the man we want.'
-
-[[Father Brown]] had risen with the sense of the crisis, mechanically
-clutching the papers destined to be so valuable to the biographer of Mr
-Raggley; and stood staring at his friend. Perhaps this gesture jerked
-his friend's mind to fresh confirmations.
-
-'Yes, we've got The Quick One. And very quick he was, like quicksilver,
-in making his get - away; we only just stopped him - off on a fishing
-trip to Orkney, he said. But he's the man, all right; he's the Scotch
-land - agent who made [[Love|love]] to Raggley's wife; he's the man who drank
-Scotch whisky in this bar and then took a train to Edinburgh. And nobody
-would have known it but for you.'

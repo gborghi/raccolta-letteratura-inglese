@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 4"
+title: "Mansfield Park — Chapter 4"
 author: "Austen"
 unitType: chapter
 parentWork: "works/mansfield-park-(austen)"
@@ -76,7 +76,7 @@ concern in them. Upon the whole, it was a comfortable [[Winter|winter]] to her;
 for though it brought no William to England, the never-failing [[Hope|hope]] of
 his arrival was worth much.
 
-The ensuing [[spring]] deprived her of her valued friend, the old grey
+The ensuing [[Spring|spring]] deprived her of her valued friend, the old grey
 pony; and for some [[Time|time]] she was in danger of feeling the loss in her
 health as [[Well|well]] as in her affections; for in spite of the acknowledged
 importance of her riding on [[Horse|horse]]-back, no measures were taken for

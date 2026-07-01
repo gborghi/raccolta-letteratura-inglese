@@ -1,5 +1,5 @@
 ---
-title: "[[Emma]] — Chapter 15 (part 1)"
+title: "Emma — Chapter 15 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/emma-(austen)"
@@ -117,11 +117,3 @@ Woodhouse’s first exclamation, and all that he could say for some [[Time|time]
 To her he looked for comfort; and her assurances of safety, her
 representation of the excellence of the horses, and of James, and of
 their having so many friends about them, revived him a little.
-
-His eldest daughter’s alarm was equal to his own. The horror of being
-blocked up at Randalls, while her children were at Hartfield, was full
-in her [[Imagination|imagination]]; and fancying the [[Road|road]] to be now just passable for
-adventurous people, but in a state that admitted no delay, she was
-eager to have it settled, that her father and [[Emma]] should remain at
-Randalls, while she and her husband set forward instantly through all
-the possible accumulations of drifted [[Snow|snow]] that might impede them.

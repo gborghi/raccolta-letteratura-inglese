@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 31 (part 4)"
+title: "Bleak House — Chapter 31 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,23 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_31/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_31/part_05">part 05 ›</a></div>
 </nav>
 
+
+“In the meantime,” I ventured to observe, “he is getting worse.”
+
+“In the meantime,” said Mr. Skimpole cheerfully, “as Miss Summerson,
+with her practical good sense, observes, he is getting worse.
+Therefore I recommend your turning him out before he gets still
+worse.”
+
+The amiable face with which he said it, I think I shall never forget.
+
+“Of course, little woman,” observed my guardian, turning to me, “I
+can ensure his admission into the proper place by merely going there
+to enforce it, though it’s a bad state of things when, in his
+condition, that is necessary. But it’s growing late, and is a very
+bad [[Night|night]], and the boy is worn out already. There is a bed in the
+wholesome loft-room by the stable; we had better keep him there till
+morning, when he can be wrapped up and removed. We’ll do that.”
 
 “Oh!” said Mr. Skimpole, with his hands upon the keys of the piano as
 we moved away. “Are you going back to our young friend?”
@@ -121,14 +138,3 @@ us, that is to say, but Mr. Skimpole, who repeatedly suggested, in
 his usual easy light style, that it had occurred to our young friend
 that he was not a safe inmate, having a bad kind of fever upon him,
 and that he had with great natural politeness taken himself off.
-
-Every possible inquiry was made, and every place was searched. The
-brick-kilns were examined, the cottages were visited, the two women
-were particularly questioned, but they knew nothing of him, and
-nobody could [[Doubt|doubt]] that their [[Wonder|wonder]] was genuine. The weather had for
-some [[Time|time]] been too wet and the [[Night|night]] itself had been too wet to admit
-of any tracing by footsteps. Hedge and ditch, and wall, and rick and
-stack, were examined by our men for a long distance round, lest the
-boy should be lying in such a place insensible or dead; but nothing
-was seen to indicate that he had ever been near. From the [[Time|time]] when
-he was left in the loft-room, he vanished.

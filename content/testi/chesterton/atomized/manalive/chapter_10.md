@@ -1,5 +1,5 @@
 ---
-title: "[[manalive]] — Chapter 4"
+title: "manalive — Chapter 4"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/manalive-(chesterton)"
@@ -19,32 +19,31 @@ tags:
 		     The Wild Weddings;
 		   or, the Polygamy Charge
 
-
 "A modern man," said Dr. Cyrus Pym, "must, if he be thoughtful,
-approach the problem of [[Marriage|marriage]] with some caution.
-[[Marriage]] is a stage--doubtless a suitable stage--in the long
+approach the problem of marriage with some caution.
+Marriage is a stage--doubtless a suitable stage--in the long
 advance of mankind towards a goal which we cannot as yet conceive;
-which we are not, perhaps, as yet fitted even to [[Desire|desire]].
-What, gentlemen, is the ethical position of [[Marriage|marriage]]?
+which we are not, perhaps, as yet fitted even to desire.
+What, gentlemen, is the ethical position of marriage?
 Have we outlived it?"
 
-"Outlived it?" broke out [[Moon]]; "why, nobody's ever survived it!
+"Outlived it?" broke out Moon; "why, nobody's ever survived it!
 Look at all the people married since Adam and Eve--and all
 as dead as mutton."
 
-"This is no [[Doubt|doubt]] an inter-pellation joc'lar in its character,"
-said Dr. Pym frigidly.  "I cannot tell what may be Mr. [[Moon]]'s
-matured and ethical view of [[Marriage|marriage]]--"
+"This is no doubt an inter-pellation joc'lar in its character,"
+said Dr. Pym frigidly.  "I cannot tell what may be Mr. Moon's
+matured and ethical view of marriage--"
 
-"I can tell," said [[Michael]] savagely, out of the gloom.  "[[Marriage]] is a duel
-to the [[Death|death]], which no man of [[Honour|honour]] should decline."
+"I can tell," said Michael savagely, out of the gloom.  "Marriage is a duel
+to the death, which no man of honour should decline."
 
-"[[Michael]]," said [[arthur|Arthur]] Inglewood in a low voice, "you MUST keep quiet."
+"Michael," said Arthur Inglewood in a low voice, "you MUST keep quiet."
 
-"Mr. [[Moon]]," said Pym with exquisite good temper, "probably regards
+"Mr. Moon," said Pym with exquisite good temper, "probably regards
 the institution in a more antiquated manner.  Probably he would make
-it stringent and uniform.  He would treat [[divorce]] in some great [[Soul|soul]]
-of steel--the [[divorce]] of a [[Julius Caesar]] or of a Salt Ring Robinson--
+it stringent and uniform.  He would treat divorce in some great soul
+of steel--the divorce of a Julius Caesar or of a Salt Ring Robinson--
 exactly as he would treat some no-account tramp or labourer who
 scoots from his wife.  Science has views broader and more humane.
 Just as murder for the scientist is a thirst for absolute destruction,
@@ -53,55 +52,55 @@ so polygamy for the scientist is an extreme development of the instinct
 for variety.  A man thus afflicted is incapable of constancy.
 Doubtless there is a physical cause for this flitting from flower to flower--
 as there is, doubtless, for the intermittent groaning which appears
-to afflict Mr. [[Moon]] at the present moment.  Our own world-scorning
+to afflict Mr. Moon at the present moment.  Our own world-scorning
 Winterbottom has even dared to say, `For a certain rare and fine
 physical type polygamy is but the realization of the variety of females,
-as comradeship is the realization of the variety of males.'
+as [[Comradeship|comradeship]] is the realization of the variety of males.'
 In any case, the type that tends to variety is recognized by all
 authoritative inquirers.  Such a type, if the widower of a negress,
 does in many ascertained cases espouse ~en seconde noces~ an albino;
 such a type, when freed from the gigantic embraces of a female Patagonian,
 will often evolve from its own imaginative instinct the consoling figure of
-an Eskimo.  To such a type there can be no doubt that the prisoner belongs.
-If blind doom and unbearable temptation constitute any slight excuse
-for a man, there is no doubt that he has these excuses.
+an Eskimo.  To such a type there can be no [[Doubt|doubt]] that the prisoner belongs.
+If blind doom and unbearable [[Temptation|temptation]] constitute any slight excuse
+for a man, there is no [[Doubt|doubt]] that he has these excuses.
 
 "Earlier in the inquiry the defence showed real chivalric
 ideality in admitting half of our story without further dispute.
 We should like to acknowledge and imitate so eminently large-hearted
 a style by conceding also that the story told by Curate Percy about
 the canoe, the weir, and the young wife seems to be substantially true.
-Apparently Smith did marry a young woman he had nearly run down in a boat;
+Apparently [[smith|Smith]] did marry a young woman he had nearly run down in a boat;
 it only remains to be considered whether it would not have been
 kinder of him to have murdered her instead of marrying her.
 In confirmation of this fact I can now con-cede to the defence
-an unquestionable record of such a marriage."
+an unquestionable record of such a [[Marriage|marriage]]."
 
-So saying, he handed across to Michael a cutting from the
-"Maidenhead Gazette" which distinctly recorded the marriage
-of the daughter of a "coach," a tutor well known in the place,
-to Mr. Innocent Smith, late of Brakespeare College, Cambridge.
+So saying, he handed across to [[Michael]] a cutting from the
+"Maidenhead Gazette" which distinctly recorded the [[Marriage|marriage]]
+of the daughter of a "coach," a tutor [[Well|well]] known in the place,
+to Mr. [[Innocent]] [[smith|Smith]], late of Brakespeare College, Cambridge.
 
 When Dr. Pym resumed it was realized that his face had grown
 at once both tragic and triumphant.
 
 "I pause upon this pre-liminary fact," he said seriously,
-"because this fact alone would give us the victory,
-were we aspiring after victory and not after truth.
+"because this fact [[Alone|alone]] would give us the victory,
+were we aspiring after victory and not after [[Truth|truth]].
 As far as the personal and domestic problem holds us,
-that problem is solved.  Dr. Warner and I entered this house at
+that problem is solved.  Dr. Warner and I entered this [[house]] at
 an instant of highly emotional diff'culty. England's Warner has
-entered many houses to save human kind from sickness; this time
-he entered to save an innocent lady from a walking pestilence.
-Smith was just about to carry away a young girl from this house;
+entered many houses to save human kind from sickness; this [[Time|time]]
+he entered to save an [[Innocent|innocent]] lady from a walking pestilence.
+[[smith|Smith]] was just about to carry away a young girl from this [[house]];
 his cab and bag were at the very door.  He had told her she was
-going to await the marriage license at the house of his aunt.
+going to await the [[Marriage|marriage]] license at the [[house]] of his aunt.
 That aunt," continued Cyrus Pym, his face darkening grandly--"that
 visionary aunt had been the dancing will-o'-the-wisp
 who had led many a high-souled maiden to her doom.
 Into how many virginal ears has he whispered that holy word?
 When he said `aunt' there glowed about her all the merriment
-and high [[morality]] of the Anglo-Saxon [[Home|home]].  Kettles began to hum,
+and high morality of the Anglo-Saxon home.  Kettles began to hum,
 pussy cats to purr, in that very wild cab that was being
 driven to destruction."
 
@@ -110,8 +109,8 @@ denizen of the eastern hemisphere has found), that the American was
 not only perfectly serious, but was really eloquent and affecting--
 when the difference of the hemispheres was adjusted.
 
-"It is therefore atrociously evident that the man [[smith|Smith]] has at
-least represented himself to one [[Innocent|innocent]] female of this [[house]]
+"It is therefore atrociously evident that the man Smith has at
+least represented himself to one innocent female of this house
 as an eligible bachelor, being, in fact, a married man.  I agree with
 my colleague, Mr. Gould, that no other crime could approximate to this.
 As to whether what our ancestors called purity has any ultimate ethical
@@ -120,7 +119,7 @@ But what hesitation can there be about the baseness of a citizen
 who ventures, by brutal experiments upon living females, to anticipate
 the verdict of science on such a point?
 
-"The woman mentioned by Curate Percy as living with [[smith|Smith]]
+"The woman mentioned by Curate Percy as living with Smith
 in Highbury may or may not be the same as the lady he married
 in Maidenhead.  If one short sweet spell of constancy and heart
 repose interrupted the plunging torrent of his profligate life,
@@ -130,7 +129,7 @@ and deeper into the shaking quagmires of infidelity and shame."
 
 Dr. Pym closed his eyes, but the unfortunate fact that there was no more
 light left this familiar signal without its full and proper moral effect.
-After a pause, which almost partook of the character of [[prayer]], he continued.
+After a pause, which almost partook of the character of prayer, he continued.
 
 "The first instance of the accused's repeated and irregular nuptials,"
 he exclaimed, "comes from Lady Bullingdon, who expresses herself
@@ -138,16 +137,15 @@ with the high haughtiness which must be excused in those who look
 out upon all mankind from the turrets of a Norman and ancestral keep.
 The communication she has sent to us runs as follows:--
 
-
 "Lady Bullingdon recalls the painful incident to which reference
-is made, and has no [[Desire|desire]] to deal with it in detail.
+is made, and has no desire to deal with it in detail.
 The girl Polly Green was a perfectly adequate dressmaker,
 and lived in the village for about two years.  Her unattached
-condition was bad for her as [[Well|well]] as for the general [[morality]]
+condition was bad for her as well as for the general morality
 of the village.  Lady Bullingdon, therefore, allowed it to be
-understood that she favoured the [[Marriage|marriage]] of the young woman.
+understood that she favoured the marriage of the young woman.
 The villagers, naturally wishing to oblige Lady Bullingdon,
-came forward in several cases; and all would have been [[Well|well]] had it
+came forward in several cases; and all would have been well had it
 not been for the deplorable eccentricity or depravity of the girl
 Green herself.  Lady Bullingdon supposes that where there is
 a village there must be a village idiot, and in her village,
@@ -156,44 +154,40 @@ Lady Bullingdon only saw him once, and she is quite aware
 that it is really difficult to distinguish between actual
 idiots and the ordinary heavy type of the rural lower classes.
 She noticed, however, the startling smallness of his head
-in comparison to the rest of his [[Body|body]]; and, indeed, the fact
+in comparison to the rest of his body; and, indeed, the fact
 of his having appeared upon election day wearing the rosette
 of both the two opposing parties appears to Lady Bullingdon
-to put the matter quite beyond [[Doubt|doubt]].  Lady Bullingdon was
+to put the matter quite beyond doubt.  Lady Bullingdon was
 astounded to learn that this afflicted being had put himself
 forward as one of the suitors of the girl in question.
 Lady Bullingdon's nephew interviewed the wretch upon the point,
-telling him that he was a `donkey' to dream of such a thing,
+telling him that he was a `[[donkey]]' to dream of such a thing,
 and actually received, along with an imbecile grin,
 the answer that donkeys generally go after carrots.
 But Lady Bullingdon was yet further amazed to find the unhappy
 girl inclined to accept this monstrous proposal, though she
-was actually asked in marriage by Garth, the undertaker, a man
+was actually asked in [[Marriage|marriage]] by Garth, the undertaker, a man
 in a far superior position to her own.  Lady Bullingdon could not,
 of course, countenance such an arrangement for a moment,
-and the two unhappy persons escaped for a clandestine marriage.
+and the two unhappy persons escaped for a clandestine [[Marriage|marriage]].
 Lady Bullingdon cannot exactly recall the man's name,
-but thinks it was Smith.  He was always called in the village
-the Innocent.  Later, Lady Bullingdon believes he murdered
+but thinks it was [[smith|Smith]].  He was always called in the village
+the [[Innocent]].  Later, Lady Bullingdon believes he murdered
 Green in a mental outbreak."
-
 
 "The next communication," proceeded Pym, "is more conspicuous for brevity,
 but I am of the opinion that it will adequately convey the upshot.
 It is dated from the offices of Messrs.  Hanbury and Bootle, publishers,
 and is as follows:--
 
-
 "Sir,--Yrs.  rcd.  and conts.  noted.  Rumour re typewriter possibly refers
 to a Miss Blake or similar name, left here nine years ago to marry an
 organ-grinder. Case was undoubtedly curious, and attracted police attention.
 Girl worked excellently till about Oct. 1907, when apparently went mad.
-Record was written at the time, part of which I enclose.--
+Record was written at the [[Time|time]], part of which I enclose.--
 Yrs., etc., W. Trip.
 
-
 "The fuller statement runs as follows:--
-
 
 "On October 12 a letter was sent from this office to Messrs.
 Bernard and Juke, bookbinders.  Opened by Mr. Juke, it was found
@@ -203,7 +197,6 @@ To this Mr. Juke, a person of a playful mind, returned the answer:
 `Sir, I am in a position to give it as my most decided opinion
 that it is not really decided that 00000073bb!!!!!xy. Yrs., etc.,
 						  J. Juke.'
-
 
 "On receiving this extraordinary reply, our Mr. Trip asked for the original
 letter sent from him, and found that the typewriter had indeed substituted
@@ -215,9 +208,9 @@ Becoming yet more hysterical and extravagant, she made a series of most
 improbable statements--as, that she was engaged to the barrel-organ man,
 that he was in the habit of serenading her on that instrument,
 that she was in the habit of playing back to him upon the typewriter
-(in the style of King Richard and Blondel), and that the organ man's
+(in the style of [[King]] [[Richard]] and Blondel), and that the organ man's
 musical ear was so exquisite and his adoration of herself so ardent
-that he could detect the note of the different letters on the machine,
+that he could detect the note of the different letters on the [[Machine|machine]],
 and was enraptured by them as by a melody.  To all these statements
 of course our Mr. Trip and the rest of us only paid that sort of assent
 that is paid to persons who must as quickly as possible be put in the
@@ -228,7 +221,7 @@ a fellow-lunatic, had pushed his barrel organ in at the office doors
 like a battering-ram, and was boisterously demanding his alleged fiancee.
 When I myself came on the scene he was flinging his great, ape-like arms about
 and reciting a poem to her.  But we were used to lunatics coming and reciting
-poems in our office, and we were not quite prepared for what followed.
+[[Poems|poems]] in our office, and we were not quite prepared for what followed.
 The actual verse he uttered began, I think,
 
 	"`O vivid, inviolate head,
@@ -247,29 +240,27 @@ these things in a record and leave it with them.
 				     (Signed) Aubrey Clarke,
 					Publishers' Reader.
 
-
 "And the last document," said Dr. Pym complacently, "is from
 one of those high-souled women who have in this age introduced
 your English girlhood to hockey, the higher mathematics,
 and every form of ideality.
 
-
 "Dear Sir (she writes),--I have no objection to telling you
 the facts about the absurd incident you mention; though I would
 ask you to communicate them with some caution, for such things,
 however entertaining in the abstract, are not always auxiliary
-to the [[success]] of a girls' school.  The [[Truth|truth]] is this:
+to the success of a girls' school.  The truth is this:
 I wanted some one to deliver a lecture on a philological
 or historical question--a lecture which, while containing
 solid educational matter, should be a little more popular and
 entertaining than usual, as it was the last lecture of the term.
-I remembered that a Mr. [[smith|Smith]] of Cambridge had written somewhere
-or other an amusing [[Essay|essay]] about his own somewhat ubiquitous name--
-an [[Essay|essay]] which showed considerable knowledge of genealogy
+I remembered that a Mr. Smith of Cambridge had written somewhere
+or other an amusing essay about his own somewhat ubiquitous name--
+an essay which showed considerable knowledge of genealogy
 and topography.  I wrote to him, asking if he would come and
 give us a bright address upon English surnames; and he did.
 It was very bright, almost too bright.  To put the matter otherwise,
-by the [[Time|time]] that he was halfway through it became apparent
+by the time that he was halfway through it became apparent
 to the other mistresses and myself that the man was totally
 and entirely off his head.  He began rationally enough by dealing
 with the two departments of place names and trade names, and he said
@@ -279,7 +270,7 @@ But then he went on calmly to maintain that every man who had
 a place name ought to go to live in that place, and that every
 man who had a trade name ought instantly to adopt that trade;
 that people named after colours should always dress in those colours,
-and that people named after trees or plants (such as Beech or [[Rose]])
+and that people named after trees or plants (such as Beech or Rose)
 ought to surround and decorate themselves with these vegetables.
 In a slight discussion that arose afterwards among the elder girls
 the difficulties of the proposal were clearly, and even eagerly,
@@ -300,7 +291,7 @@ produced the worst explosion of his insanity.  He was waving
 the hammer, and wildly demanding the names of everybody;
 and it so happened that Miss Brown, one of the younger teachers,
 was wearing a brown dress--a reddish-brown dress that went quietly
-enough with the warmer colour of her hair, as [[Well|well]] she knew.
+enough with the warmer colour of her hair, as well she knew.
 She was a nice girl, and nice girls do know about those things.
 But when our maniac discovered that we really had a Miss Brown
 who WAS brown, his ~idee fixe~ blew up like a powder magazine,
@@ -313,24 +304,23 @@ to describe it.
 "Of course, the anarchy died down in a week or two, and I can
 think of it now as a joke.  There was only one curious detail,
 which I will tell you, as you say your inquiry is vital; but I should
-[[Desire|desire]] you to consider it a little more confidential than the rest.
+desire you to consider it a little more confidential than the rest.
 Miss Brown, who was an excellent girl in every way, did quite
 suddenly and surreptitiously leave us only a day or two afterwards.
 I should never have thought that her head would be the one
 to be really turned by so absurd an excitement.--Believe me,
 yours faithfully, Ada Gridley.
 
-
 "I think," said Pym, with a really convincing simplicity and seriousness,
 "that these letters speak for themselves."
 
-Mr. [[Moon]] [[Rose|rose]] for the last [[Time|time]] in a darkness that gave no hint
+Mr. Moon rose for the last time in a darkness that gave no hint
 of whether his native gravity was mixed with his native irony.
 
 "Throughout this inquiry," he said, "but especially in this its
 closing phase, the prosecution has perpetually relied upon one argument;
 I mean the fact that no one knows what has become of all the unhappy
-women apparently seduced by [[smith|Smith]].  There is no sort of proof
+women apparently seduced by Smith.  There is no sort of proof
 that they were murdered, but that implication is perpetually made
 when the question is asked as to how they died.  Now I am not
 interested in how they died, or when they died, or whether they died.
@@ -339,16 +329,16 @@ were born, and when they were born, and whether they were born.
 Do not misunderstand me.  I do not dispute the existence of
 these women, or the veracity of those who have witnessed to them.
 I merely remark on the notable fact that only one of these victims,
-the Maidenhead girl, is described as having any [[Home|home]] or parents.
-All the rest are boarders or [[Birds|birds]] of passage--a guest, a solitary
+the Maidenhead girl, is described as having any home or parents.
+All the rest are boarders or birds of passage--a guest, a solitary
 dressmaker, a bachelor-girl doing typewriting.  Lady Bullingdon,
 looking from her turrets, which she bought from the Whartons with
 the old soap-boiler's money when she jumped at marrying an unsuccessful
 gentleman from Ulster--Lady Bullingdon, looking out from those turrets,
 did really see an object which she describes as Green.  Mr. Trip,
 of Hanbury and Bootle, really did have a typewriter betrothed
-to [[smith|Smith]].  Miss Gridley, though idealistic, is absolutely honest.
-She did [[house]], feed, and teach a young woman whom [[smith|Smith]] succeeded
+to Smith.  Miss Gridley, though idealistic, is absolutely honest.
+She did house, feed, and teach a young woman whom Smith succeeded
 in decoying away.  We admit that all these women really lived.
 But we still ask whether they were ever born?"
 
@@ -363,17 +353,17 @@ process of generation."
 "If these gals," said Gould impatiently--"if these gals were all alive
 (all alive O!) I'd chance a fiver they were all born."
 
-"You'd lose your fiver," said [[Michael]], speaking gravely out of the gloom.
+"You'd lose your fiver," said Michael, speaking gravely out of the gloom.
 "All those admirable ladies were alive.  They were more alive for having
-come into contact with [[smith|Smith]].  They were all quite definitely alive,
+come into contact with Smith.  They were all quite definitely alive,
 but only one of them was ever born."
 
 "Are you asking us to believe--" began Dr. Pym.
 
-"I am asking you a second question," said [[Moon]] sternly.  "Can the [[Court|court]]
+"I am asking you a second question," said Moon sternly.  "Can the court
 now sitting throw any light on a truly singular circumstance?
 Dr. Pym, in his interesting lecture on what are called, I believe,
-the relations of the sexes, said that [[smith|Smith]] was the slave
+the relations of the sexes, said that Smith was the slave
 of a lust for variety which would lead a man first to a negress
 and then to an albino, first to a Patagonian giantess and then
 to a tiny Eskimo.  But is there any evidence of such variety here?
@@ -384,19 +374,19 @@ A voice in my bosom answers, `No!' Lady Bullingdon, I am sure,
 would think a negress so conspicuous as to be almost Socialistic,
 and would feel something a little rakish even about an albino.
 
-"But was there in Smith's taste any such variety as the learned
+"But was there in [[smith|Smith]]'s taste any such variety as the learned
 doctor describes?  So far as our slight materials go,
 the very opposite seems to be the case.  We have only
 one actual description of any of the prisoner's wives--
 the short but highly poetic account by the aesthetic curate.
-`Her dress was the colour of [[Spring|spring]], and her hair of [[Autumn|autumn]] [[Leaves|leaves]].'
-[[Autumn]] [[Leaves|leaves]], of course, are of various colours, some of
+`Her dress was the colour of spring, and her hair of autumn leaves.'
+Autumn leaves, of course, are of various colours, some of
 which would be rather startling in hair (green, for instance);
 but I think such an expression would be most naturally used of
 the shades from red-brown to red, especially as ladies with their
 coppery-coloured hair do frequently wear light artistic greens.
-Now when we come to the next wife, we find the eccentric [[Lover|lover]],
-when told he is a [[donkey]], answering that donkeys always go
+Now when we come to the next wife, we find the eccentric lover,
+when told he is a donkey, answering that donkeys always go
 after carrots; a remark which Lady Bullingdon evidently
 regarded as pointless and part of the natural table-talk of a
 village idiot, but which has an obvious meaning if we suppose
@@ -415,7 +405,7 @@ in the office some poetry that only got as far as the words,--
 will enable us to guess that `ringed with a glory of red,'
 or `ringed with its passionate red,' was the line that rhymed
 to `head.' In this case once more, therefore, there is good
-reason to suppose that Smith fell in love with a girl with
+reason to suppose that [[smith|Smith]] fell in [[Love|love]] with a girl with
 some sort of auburn or darkish-red hair--rather," he said,
 looking down at the table, "rather like Miss Gray's hair."
 
@@ -425,40 +415,40 @@ but Moses Gould suddenly struck his forefinger on his nose,
 with an expression of extreme astonishment and intelligence
 in his brilliant eyes.
 
-"Mr. Moon's contention at present," interposed Pym, "is not,
+"Mr. [[Moon]]'s contention at present," interposed Pym, "is not,
 even if veracious, inconsistent with the lunatico-criminal view
-of I. Smith, which we have nailed to the mast.  Science has
+of I. [[smith|Smith]], which we have nailed to the mast.  Science has
 long anticipated such a complication.  An incurable attraction
 to a particular type of physical woman is one of the commonest
 of criminal per-versities, and when not considered narrowly,
 but in the light of induction and evolution--"
 
-"At this late stage," said Michael Moon very quietly, "I may perhaps
+"At this late stage," said [[Michael]] [[Moon]] very quietly, "I may perhaps
 relieve myself of a simple emotion that has been pressing me
 throughout the proceedings, by saying that induction and evolution
 may go and boil themselves.  The Missing Link and all that is
-well enough for kids, but I'm talking about things we know here.
+[[Well|well]] enough for kids, but I'm talking about things we know here.
 All we know of the Missing Link is that he is missing--and he won't
 be missed either.  I know all about his human head and his horrid tail;
 they belong to a very old game called `Heads I win, tails you lose.'
 If you do find a fellow's bones, it proves he lived a long while ago;
 if you don't find his bones, it proves how long ago he lived.
-That is the game you've been playing with this [[smith|Smith]] affair.
-Because [[smith|Smith]]'s head is small for his shoulders you call
+That is the game you've been playing with this Smith affair.
+Because Smith's head is small for his shoulders you call
 him microcephalous; if it had been large, you'd have called it
-[[Water|water]]-on-the-brain. As long as poor old [[smith|Smith]]'s seraglio seemed
-pretty various, variety was the sign of [[Madness|madness]]:  now, because it's
-turning out to be a bit monochrome--now monotony is the sign of [[Madness|madness]].
+water-on-the-brain. As long as poor old Smith's seraglio seemed
+pretty various, variety was the sign of madness:  now, because it's
+turning out to be a bit monochrome--now monotony is the sign of madness.
 I suffer from all the disadvantages of being a grown-up person,
-and I'm jolly [[Well|well]] going to get some of the advantages too;
+and I'm jolly well going to get some of the advantages too;
 and with all politeness I propose not to be bullied with long words
 instead of short reasons, or consider your business a triumphant
 progress merely because you're always finding out that you were wrong.
 Having relieved myself of these feelings, I have merely to add
 that I regard Dr. Pym as an ornament to the world far more beautiful
-than the Parthenon, or the monument on Bunker's [[Hill]], and that I
+than the Parthenon, or the monument on Bunker's Hill, and that I
 propose to resume and conclude my remarks on the many marriages
-of Mr. [[Innocent]] [[smith|Smith]].
+of Mr. Innocent Smith.
 
 "Besides this red hair, there is another unifying thread that
 runs through these scattered incidents.  There is something
@@ -469,11 +459,11 @@ I suggest that it might have been Black, and in that case we
 have a curious series:  Miss Green in Lady Bullingdon's village;
 Miss Brown at the Hendon School; Miss Black at the publishers.
 A chord of colours, as it were, which ends up with Miss Gray
-at Beacon [[house|House]], West Hampstead."
+at Beacon House, West Hampstead."
 
-Amid a dead [[Silence|silence]] [[Moon]] continued his exposition.
+Amid a dead silence Moon continued his exposition.
 "What is the meaning of this queer coincidence about colours?
-Personally I cannot [[Doubt|doubt]] for a moment that these names are purely
+Personally I cannot doubt for a moment that these names are purely
 arbitrary names, assumed as part of some general scheme or joke.
 I think it very probable that they were taken from a series of costumes--
 that Polly Green only meant Polly (or Mary) when in green,
@@ -483,12 +473,12 @@ This would explain--"
 Cyrus Pym was standing up rigid and almost pallid.
 "Do you actually mean to suggest--" he cried.
 
-"Yes," said [[Michael]]; "I do mean to suggest that.  [[Innocent]] [[smith|Smith]] has had
+"Yes," said Michael; "I do mean to suggest that.  Innocent Smith has had
 many wooings, and many weddings for all I know; but he has had only one wife.
 She was sitting on that chair an hour ago, and is now talking to Miss Duke
-in the [[Garden|garden]].
+in the garden.
 
-"Yes, [[Innocent]] [[smith|Smith]] has behaved here, as he has on hundreds of
+"Yes, Innocent Smith has behaved here, as he has on hundreds of
 other occasions, upon a plain and perfectly blameless principle.
 It is odd and extravagant in the modern world, but not more than any other
 principle plainly applied in the modern world would be.  His principle
@@ -498,7 +488,7 @@ that he is still a man alive, walking on two legs about the world.
 For this reason he fires bullets at his best friends; for this reason
 he arranges ladders and collapsible chimneys to steal his own property;
 for this reason he goes plodding around a whole planet to get back to his
-own [[Home|home]]; and for this reason he has been in the habit of taking the woman
+own home; and for this reason he has been in the habit of taking the woman
 whom he loved with a permanent loyalty, and leaving her about (so to speak)
 at schools, boarding-houses, and places of business, so that he might
 recover her again and again with a raid and a romantic elopement.
@@ -507,31 +497,31 @@ the sense of her perpetual value, and the perils that should be run
 for her sake.
 
 "So far his motives are clear enough; but perhaps his convictions are
-not quite so clear.  I think [[Innocent]] [[smith|Smith]] has an idea at the [[Bottom|bottom]]
+not quite so clear.  I think Innocent Smith has an idea at the bottom
 of all this.  I am by no means sure that I believe it myself, but I am
 quite sure that it is worth a man's uttering and defending.
 
-"The idea that [[smith|Smith]] is attacking is this.  Living in an entangled
+"The idea that Smith is attacking is this.  Living in an entangled
 civilization, we have come to think certain things wrong which are
 not wrong at all.  We have come to think outbreak and exuberance,
 banging and barging, rotting and wrecking, wrong.  In themselves they
 are not merely pardonable; they are unimpeachable.  There is nothing
-wicked about firing a [[Pistol|pistol]] off even at a friend, so long as you do not
+wicked about firing a pistol off even at a friend, so long as you do not
 mean to hit him and know you won't. It is no more wrong than throwing
 a pebble at the sea--less, for you do occasionally hit the sea.
 There is nothing wrong in bashing down a chimney-pot and breaking
 through a roof, so long as you are not injuring the life or property
-of other men.  It is no more wrong to choose to enter a [[house]] from
-the top than to choose to open a packing-case from the [[Bottom|bottom]].
+of other men.  It is no more wrong to choose to enter a house from
+the top than to choose to open a packing-case from the bottom.
 There is nothing wicked about walking round the world and coming back
-to your own [[house]]; it is no more wicked than walking round the [[Garden|garden]]
-and coming back to your own [[house]].  And there is nothing wicked
+to your own house; it is no more wicked than walking round the garden
+and coming back to your own house.  And there is nothing wicked
 about picking up your wife here, there, and everywhere, if, forsaking
 all others, you keep only to her so long as you both shall live.
-It is as [[Innocent|innocent]] as playing a game of hide-and-seek in the [[Garden|garden]].
+It is as innocent as playing a game of hide-and-seek in the garden.
 You associate such acts with blackguardism by a mere snobbish association,
 as you think there is something vaguely vile about going (or being
-seen going) into a pawnbroker's or a public-[[house]]. You think there
+seen going) into a pawnbroker's or a public-house. You think there
 is something squalid and commonplace about such a connection.
 You are mistaken.
 
@@ -541,7 +531,7 @@ He has broken the conventions, but he has kept the commandments.
 It is as if a man were found gambling wildly in a gambling hell,
 and you found that he only played for trouser buttons.
 It is as if you found a man making a clandestine appointment
-with a lady at a Covent [[Garden]] ball, and then you found it
+with a lady at a Covent Garden ball, and then you found it
 was his grandmother.  Everything is ugly and discreditable,
 except the facts; everything is wrong about him, except that
 he has done no wrong.

@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 54 (part 3)"
+title: "Nicholas Nickleby — Chapter 54 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_54/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_54/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘So there are!’ exclaimed Bray, eagerly catching at anything which
+seemed a justification of himself. ‘And so I told her, both last [[Night|night]]
+and today.’
+
+‘You told her [[Truth|truth]],’ said Ralph, ‘and did [[Well|well]] to do so; though I
+must say, at the same [[Time|time]], that if I had a daughter, and my [[Freedom|freedom]],
+pleasure, nay, my very health and life, depended on her taking a husband
+whom I pointed out, I should [[Hope|hope]] it would not be necessary to advance
+any other arguments to induce her to consent to my wishes.’
+
+Bray looked at Ralph as if to see whether he spoke in earnest, and
+having nodded twice or thrice in unqualified assent to what had fallen
+from him, said:
 
 ‘I must go upstairs for a few minutes, to finish dressing. When I come
 down, I’ll bring [[Madeline]] with me. Do you know, I had a very strange
@@ -112,17 +126,3 @@ You may use force with me; I think you will, for I AM a girl, and that
 would [[Well|well]] become you. But if I have a girl’s weakness, I have a woman’s
 heart, and it is not you who in a cause like this can turn that from its
 purpose.’
-
-‘And what may your purpose be, most lofty lady?’ said Ralph.
-
-‘To offer to the unhappy subject of your treachery, at this last
-moment,’ replied Nicholas, ‘a refuge and a [[Home|home]]. If the near prospect
-of such a husband as you have provided will not prevail upon her, I [[Hope|hope]]
-she may be moved by the prayers and entreaties of one of her own sex.
-At all events they shall be tried. I myself, avowing to her father from
-whom I come and by whom I am commissioned, will render it an act of
-greater baseness, meanness, and cruelty in him if he still dares to
-force this [[Marriage|marriage]] on. Here I wait to see him and his daughter. For
-this I came and brought my sister even into your presence. Our purpose
-is not to see or speak with you; therefore to you we stoop to say no
-more.’

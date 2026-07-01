@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 17"
+title: "Our Mutual Friend — Chapter 1"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,179 +10,14 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_21">‹ Chapter 21</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_23_birds_of_a_feather">Chapter 23 BIRDS OF A FEATHER ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_21">‹ Chapter 21</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_23_the_streets_being_for_pupils_o">Chapter 23 the streets being for pupils o ›</a></div>
 </nav>
 
 
-Chapter 17
+BOOK THE SECOND — [[Birds|BIRDS]] OF A FEATHER
+Chapter 1
 
-A DISMAL SWAMP
+OF AN EDUCATIONAL CHARACTER
 
 
-And now, in the blooming [[Summer|summer]] days, behold Mr and Mrs Boffin
-established in the eminently aristocratic family mansion, and behold
-all manner of crawling, creeping, fluttering, and buzzing creatures,
-attracted by the gold [[Dust|dust]] of the Golden Dustman!
-
-Foremost among those leaving cards at the eminently aristocratic door
-before it is quite painted, are the Veneerings: out of breath, one
-might imagine, from the impetuosity of their rush to the eminently
-aristocratic steps. One copper-plate Mrs Veneering, two copper-plate
-Mr Veneerings, and a connubial copper-plate Mr and Mrs Veneering,
-requesting the [[Honour|honour]] of Mr and Mrs Boffin’s company at dinner with
-the utmost Analytical solemnities. The enchanting Lady Tippins [[Leaves|leaves]] a
-card. Twemlow [[Leaves|leaves]] cards. A tall custard-coloured phaeton tooling up
-in a solemn manner [[Leaves|leaves]] four cards, to wit, a couple of Mr Podsnaps, a
-Mrs Podsnap, and a Miss Podsnap. All the world and his wife and daughter
-leave cards. Sometimes the world’s wife has so many daughters, that her
-card reads rather like a Miscellaneous Lot at an Auction; comprising Mrs
-Tapkins, Miss Tapkins, Miss Frederica Tapkins, Miss Antonina Tapkins,
-Miss Malvina Tapkins, and Miss Euphemia Tapkins; at the same [[Time|time]],
-the same lady [[Leaves|leaves]] the card of Mrs Henry George Alfred Swoshle, NEE
-Tapkins; also, a card, Mrs Tapkins at [[Home]], Wednesdays, Music, Portland
-Place.
-
-Miss [[Bella Wilfer]] becomes an inmate, for an indefinite period, of the
-eminently aristocratic dwelling. Mrs Boffin bears Miss Bella away to
-her Milliner’s and Dressmaker’s, and she gets beautifully dressed. The
-Veneerings find with swift remorse that they have omitted to invite Miss
-[[Bella Wilfer]]. One Mrs Veneering and one Mr and Mrs Veneering requesting
-that additional [[Honour|honour]], instantly do penance in white cardboard on
-the hall table. Mrs Tapkins likewise discovers her omission, and
-with promptitude repairs it; for herself; for Miss Tapkins, for Miss
-Frederica Tapkins, for Miss Antonina Tapkins, for Miss Malvina Tapkins,
-and for Miss Euphemia Tapkins. Likewise, for Mrs Henry George Alfred
-Swoshle NEE Tapkins. Likewise, for Mrs Tapkins at [[Home]], Wednesdays,
-Music, Portland Place.
-
-Tradesmen’s books hunger, and tradesmen’s mouths [[Water|water]], for the gold
-[[Dust|dust]] of the Golden Dustman. As Mrs Boffin and Miss Wilfer drive out, or
-as Mr Boffin walks out at his jog-trot pace, the fishmonger pulls off
-his hat with an air of reverence founded on conviction. His men cleanse
-their fingers on their woollen aprons before presuming to touch their
-foreheads to Mr Boffin or Lady. The gaping salmon and the golden mullet
-lying on the slab seem to turn up their eyes sideways, as they would
-turn up their hands if they had any, in worshipping admiration. The
-butcher, though a portly and a prosperous man, doesn’t know what to do
-with himself; so anxious is he to express [[Humility|humility]] when discovered by
-the passing Boffins taking the air in a mutton grove. Presents are made
-to the Boffin servants, and bland strangers with business-cards
-meeting said servants in the street, offer hypothetical corruption. As,
-‘Supposing I was to be favoured with an order from Mr Boffin, my dear
-friend, it would be worth my while’—to do a certain thing that I [[Hope|hope]]
-might not prove wholly disagreeable to your feelings.
-
-But no one knows so [[Well|well]] as the Secretary, who opens and reads the
-letters, what a set is made at the man marked by a stroke of notoriety.
-Oh the varieties of [[Dust|dust]] for ocular use, offered in exchange for the
-gold [[Dust|dust]] of the Golden Dustman! Fifty-seven churches to be erected with
-half-crowns, forty-two parsonage houses to be repaired with shillings,
-seven-and-twenty organs to be built with halfpence, twelve hundred
-children to be brought up on postage stamps. Not that a half-[[Crown|crown]],
-shilling, halfpenny, or postage stamp, would be particularly acceptable
-from Mr Boffin, but that it is so obvious he is the man to make up the
-deficiency. And then the charities, my Christian brother! And mostly in
-difficulties, yet mostly lavish, too, in the expensive articles of print
-and paper. Large fat private [[Double|double]] letter, sealed with ducal coronet.
-‘[[Nicodemus Boffin]], Esquire. My Dear Sir,—Having consented to preside
-at the forthcoming Annual Dinner of the Family Party Fund, and feeling
-deeply impressed with the immense usefulness of that noble Institution
-and the great importance of its being supported by a List of Stewards
-that shall prove to the public the interest taken in it by popular and
-distinguished men, I have undertaken to ask you to become a Steward on
-that occasion. Soliciting your favourable reply before the 14th instant,
-I am, My Dear Sir, Your faithful Servant, LINSEED. P.S. The Steward’s
-fee is limited to three Guineas.’ Friendly this, on the part of the Duke
-of Linseed (and thoughtful in the postscript), only lithographed by
-the hundred and presenting but a pale individuality of an address to
-[[Nicodemus Boffin]], Esquire, in quite another hand. It takes two noble
-Earls and a Viscount, combined, to inform [[Nicodemus Boffin]], Esquire,
-in an equally flattering manner, that an estimable lady in the West of
-England has offered to present a purse containing twenty pounds, to
-the Society for Granting Annuities to Unassuming Members of the Middle
-Classes, if twenty individuals will previously present purses of one
-hundred pounds each. And those benevolent noblemen very kindly point out
-that if [[Nicodemus Boffin]], Esquire, should wish to present two or more
-purses, it will not be inconsistent with the design of the estimable
-lady in the West of England, provided each purse be coupled with the
-name of some member of his honoured and respected family.
-
-These are the corporate beggars. But there are, besides, the individual
-beggars; and how does the heart of the Secretary fail him when he has
-to cope with THEM! And they must be coped with to some extent, because
-they all enclose documents (they call their scraps documents; but they
-are, as to papers deserving the name, what minced veal is to a calf),
-the non-return of which would be their ruin. That is to say, they
-are utterly ruined now, but they would be more utterly ruined then.
-Among these correspondents are several daughters of general officers,
-long accustomed to every luxury of life (except spelling), who little
-thought, when their gallant fathers waged war in the Peninsula, that
-they would ever have to appeal to those whom [[Providence]], in its
-inscrutable wisdom, has blessed with untold gold, and from among whom
-they select the name of [[Nicodemus Boffin]], Esquire, for a maiden effort
-in this wise, understanding that he has such a heart as never was.
-The Secretary learns, too, that confidence between man and wife would
-seem to obtain but rarely when virtue is in distress, so numerous are
-the wives who take up their pens to ask Mr Boffin for money without
-the knowledge of their devoted husbands, who would never permit it;
-while, on the other hand, so numerous are the husbands who take up
-their pens to ask Mr Boffin for money without the knowledge of their
-devoted wives, who would instantly go out of their senses if they
-had the least suspicion of the circumstance. There are the inspired
-beggars, too. These were sitting, only yesterday evening, musing over
-a [[Fragment|fragment]] of candle which must soon go out and leave them in the dark
-for the rest of their nights, when surely some Angel whispered the name
-of [[Nicodemus Boffin]], Esquire, to their souls, imparting rays of [[Hope|hope]],
-nay confidence, to which they had long been strangers! Akin to these
-are the suggestively-befriended beggars. They were partaking of a cold
-potato and [[Water|water]] by the flickering and gloomy light of a [[Lucifer|lucifer]]-match,
-in their lodgings (rent considerably in arrear, and heartless landlady
-threatening expulsion ‘like a dog’ into the streets), when a gifted
-friend happening to look in, said, ‘Write immediately to Nicodemus
-Boffin, Esquire,’ and would take no denial. There are the nobly
-independent beggars too. These, in the days of their abundance, ever
-regarded gold as dross, and have not yet got over that only impediment
-in the way of their amassing wealth, but they want no dross from
-[[Nicodemus Boffin]], Esquire; No, Mr Boffin; the world may term it [[Pride|pride]],
-paltry [[Pride|pride]] if you will, but they wouldn’t take it if you offered it;
-a loan, sir—for fourteen weeks to the day, interest calculated at the
-rate of five per cent per annum, to be bestowed upon any charitable
-institution you may name—is all they want of you, and if you have the
-meanness to refuse it, count on being despised by these great spirits.
-There are the beggars of punctual business-habits too. These will
-make an end of themselves at a quarter to one P.M. on Tuesday, if no
-Post-office order is in the interim received from [[Nicodemus Boffin]],
-Esquire; arriving after a quarter to one P.M. on Tuesday, it need not
-be sent, as they will then (having made an exact memorandum of the
-heartless circumstances) be ‘cold in [[Death|death]].’ There are the beggars
-on horseback too, in another sense from the sense of the proverb.
-These are mounted and ready to start on the highway to affluence. The
-goal is before them, the [[Road|road]] is in the best condition, their spurs
-are on, the steed is willing, but, at the last moment, for want of
-some special thing—a [[Clock|clock]], a violin, an astronomical telescope, an
-electrifying [[Machine|machine]]—they must dismount for ever, unless they receive
-its equivalent in money from [[Nicodemus Boffin]], Esquire. Less given to
-detail are the beggars who make sporting ventures. These, usually to
-be addressed in reply under initials at a country post-office, inquire
-in feminine hands, Dare one who cannot disclose herself to Nicodemus
-Boffin, Esquire, but whose name might startle him were it revealed,
-solicit the immediate advance of two hundred pounds from unexpected
-riches exercising their noblest privilege in the trust of a common
-humanity?
-
-In such a Dismal Swamp does the new [[house]] stand, and through it does
-the Secretary daily struggle breast-high. Not to mention all the people
-alive who have made inventions that won’t act, and all the jobbers who
-job in all the jobberies jobbed; though these may be regarded as the
-Alligators of the Dismal Swamp, and are always lying by to drag the
-Golden Dustman under.
-
-But the old [[house]]. There are no designs against the Golden Dustman
-there? There are no fish of the shark tribe in the Bower waters? Perhaps
-not. Still, Wegg is established there, and would seem, judged by his
-secret proceedings, to cherish a notion of making a discovery. For,
-when a man with a wooden leg lies prone on his stomach to peep under
-bedsteads; and hops up ladders, like some extinct bird, to survey the
-tops of presses and cupboards; and provides himself an iron rod which he
-is always poking and prodding into [[Dust|dust]]-mounds; the probability is that
-he expects to find something.
+The school at which young Charley Hexam had first learned from a

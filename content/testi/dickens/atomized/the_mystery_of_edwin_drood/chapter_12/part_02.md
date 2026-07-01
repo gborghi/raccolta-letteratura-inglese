@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 11 (part 2)"
+title: "The Mystery of Edwin Drood — Chapter 11 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_12/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_12/part_03">part 03 ›</a></div>
 </nav>
 
+
+“Now, Bazzard,” said Mr. Grewgious, on the entrance of his clerk:
+looking up from his papers as he arranged them for the [[Night|night]]: “what is
+in the [[Wind|wind]] besides fog?”
 
 “Mr. Drood,” said Bazzard.
 

@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 14 (part 4)"
+title: "Dombey and Son — Chapter 42 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,127 +14,124 @@ tags:
 </nav>
 
 
-That was no reason why he should be deaf; but he must have been, he
-thought, for, by and by, he heard Mr Feeder calling in his ear, and
-gently shaking him to rouse his attention. And when he raised his head,
-quite scared, and looked about him, he found that Doctor Blimber had
-come into the room; and that the [[Window|window]] was open, and that his forehead
-was wet with sprinkled [[Water|water]]; though how all this had been done without
-his knowledge, was very curious indeed.
+“To do credit even to your choice,” suggested Carker, with a yawning
+show of teeth.
 
-“Ah! Come, come! That’s [[Well|well]]! How is my little friend now?” said Doctor
-Blimber, encouragingly.
+“Yes; if you please to adopt that form of words,” said Mr Dombey, in
+his tone of state; “and at present I do not conceive that Mrs Dombey
+does that credit to it, to which it is entitled. There is a principle
+of opposition in Mrs Dombey that must be eradicated; that must be
+overcome: Mrs Dombey does not appear to understand,” said Mr Dombey,
+forcibly, “that the idea of opposition to Me is monstrous and absurd.”
 
-“Oh, quite [[Well|well]], thank you, Sir,” said Paul.
+“We, in the [[City]], know you better,” replied Carker, with a smile from
+ear to ear.
 
-But there seemed to be something the matter with the floor, for he
-couldn’t stand upon it steadily; and with the walls too, for they were
-inclined to turn round and round, and could only be stopped by being
-looked at very hard indeed. Mr Toots’s head had the appearance of being
-at once bigger and farther off than was quite natural; and when he took
-Paul in his arms, to carry him upstairs, Paul observed with
-astonishment that the door was in quite a different place from that in
-which he had expected to find it, and almost thought, at first, that Mr
-Toots was going to walk straight up the chimney.
+“You know me better,” said Mr Dombey. “I [[Hope|hope]] so. Though, indeed, I am
+bound to do Mrs Dombey the justice of saying, however inconsistent it
+may seem with her subsequent conduct (which remains unchanged), that on
+my expressing my disapprobation and determination to her, with some
+severity, on the occasion to which I have referred, my admonition
+appeared to produce a very powerful effect.” Mr Dombey delivered
+himself of those words with most portentous stateliness. “I wish you to
+have the goodness, then, to inform Mrs Dombey, Carker, from me, that I
+must recall our former conversation to her remembrance, in some
+surprise that it has not yet had its effect. That I must insist upon
+her regulating her conduct by the injunctions laid upon her in that
+conversation. That I am not satisfied with her conduct. That I am
+greatly dissatisfied with it. And that I shall be under the very
+disagreeable necessity of making you the bearer of yet more unwelcome
+and explicit communications, if she has not the good sense and the
+proper feeling to adapt herself to my wishes, as the first Mrs Dombey
+did, and, I believe I may add, as any other lady in her place would.”
 
-It was very kind of Mr Toots to carry him to the top of the [[house]] so
-tenderly; and Paul told him that it was. But Mr Toots said he would do
-a great deal more than that, if he could; and indeed he did more as it
-was: for he helped Paul to undress, and helped him to bed, in the
-kindest manner possible, and then sat down by the bedside and chuckled
-very much; while Mr Feeder, B.A., leaning over the [[Bottom|bottom]] of the
-bedstead, set all the little bristles on his head bolt upright with his
-bony hands, and then made believe to spar at Paul with great science,
-on account of his being all right again, which was so uncommonly
-facetious, and kind too in Mr Feeder, that Paul, not being able to make
-up his mind whether it was best to laugh or cry at him, did both at
-once.
+“The first Mrs Dombey lived very happily,” said Carker.
 
-How Mr Toots melted away, and Mr Feeder changed into Mrs Pipchin, Paul
-never thought of asking; neither was he at all curious to know; but
-when he saw Mrs Pipchin standing at the [[Bottom|bottom]] of the bed, instead of
-Mr Feeder, he cried out, “Mrs Pipchin, don’t tell Florence!”
+“The first Mrs Dombey had great good sense,” said Mr Dombey, in a
+gentlemanly toleration of the dead, “and very correct feeling.”
 
-“Don’t tell Florence what, my little Paul?” said Mrs Pipchin, coming
-round to the bedside, and sitting down in the chair.
+“Is Miss Dombey like her mother, do you think?” said Carker.
 
-“About me,” said Paul.
+Swiftly and darkly, Mr Dombey’s face changed. His confidential agent
+eyed it keenly.
 
-“No, no,” said Mrs Pipchin.
+“I have approached a painful subject,” he said, in a soft regretful
+tone of voice, irreconcilable with his eager eye. “Pray forgive me. I
+forget these [[Chains|chains]] of association in the interest I have. Pray forgive
+me.”
 
-“What do you think I mean to do when I grow up, Mrs Pipchin?” inquired
-Paul, turning his face towards her on his pillow, and resting his chin
-wistfully on his folded hands.
+But for all he said, his eager eye scanned Mr Dombey’s downcast face
+none the less closely; and then it shot a strange triumphant look at
+the picture, as appealing to it to bear witness how he led him on
+again, and what was coming.
 
-Mrs Pipchin couldn’t guess.
+“Carker,” said Mr Dombey, looking here and there upon the table, and
+saying in a somewhat altered and more hurried voice, and with a paler
+lip, “there is no occasion for apology. You mistake. The association is
+with the matter in hand, and not with any recollection, as you suppose.
+I do not approve of Mrs Dombey’s behaviour towards my daughter.”
 
-“I mean,” said Paul, “to put my money all together in one Bank, never
-try to get any more, go away into the country with my darling Florence,
-have a beautiful [[Garden|garden]], fields, and woods, and live there with her all
-my life!”
+“Pardon me,” said Mr Carker, “I don’t quite understand.”
 
-“Indeed!” cried Mrs Pipchin.
+[Illustration]
 
-“Yes,” said Paul. “That’s what I mean to do, when I—” He stopped, and
-pondered for a moment.
+“Understand then,” returned Mr Dombey, “that you may make that—that you
+will make that, if you please—matter of direct objection from me to Mrs
+Dombey. You will please to tell her that her show of devotion for my
+daughter is disagreeable to me. It is likely to be noticed. It is
+likely to induce people to contrast Mrs Dombey in her relation towards
+my daughter, with Mrs Dombey in her relation towards myself. You will
+have the goodness to let Mrs Dombey know, plainly, that I object to it;
+and that I expect her to defer, immediately, to my objection. Mrs
+Dombey may be in earnest, or she may be pursuing a whim, or she may be
+opposing me; but I object to it in any case, and in every case. If Mrs
+Dombey is in earnest, so much the less reluctant should she be to
+desist; for she will not serve my daughter by any such display. If my
+wife has any superfluous gentleness, and duty over and above her proper
+submission to me, she may bestow them where she pleases, perhaps; but I
+will have submission first!—Carker,” said Mr Dombey, checking the
+unusual emotion with which he had spoken, and falling into a tone more
+like that in which he was accustomed to assert his [[Greatness|greatness]], “you will
+have the goodness not to omit or slur this point, but to consider it a
+very important part of your instructions.”
 
-Mrs Pipchin’s grey eye scanned his thoughtful face.
+Mr Carker bowed his head, and rising from the table, and standing
+thoughtfully before the [[Fire|fire]], with his hand to his smooth chin, looked
+down at Mr Dombey with the evil slyness of some monkish carving, half
+human and half brute; or like a leering face on an old [[Water|water]]-spout. Mr
+Dombey, recovering his composure by degrees, or cooling his emotion in
+his sense of having taken a high position, sat gradually stiffening
+again, and looking at the parrot as she swung to and fro, in her great
+wedding ring.
 
-“If I grow up,” said Paul. Then he went on immediately to tell Mrs
-Pipchin all about the party, about Florence’s invitation, about the
-[[Pride|pride]] he would have in the admiration that would be felt for her by all
-the boys, about their being so kind to him and fond of him, about his
-being so fond of them, and about his being so glad of it. Then he told
-Mrs Pipchin about the analysis, and about his being certainly
-old-fashioned, and took Mrs Pipchin’s opinion on that point, and
-whether she knew why it was, and what it meant. Mrs Pipchin denied the
-fact altogether, as the shortest way of getting out of the difficulty;
-but Paul was far from satisfied with that reply, and looked so
-searchingly at Mrs Pipchin for a truer answer, that she was obliged to
-get up and look out of the [[Window|window]] to avoid his eyes.
+“I beg your pardon,” said Carker, after a [[Silence|silence]], suddenly resuming
+his chair, and drawing it opposite to Mr Dombey’s, “but let me
+understand. Mrs Dombey is aware of the probability of your making me
+the organ of your displeasure?”
 
-There was a certain calm Apothecary, who attended at the establishment
-when any of the young gentlemen were ill, and somehow he got into the
-room and appeared at the bedside, with Mrs Blimber. How they came
-there, or how long they had been there, Paul didn’t know; but when he
-saw them, he sat up in bed, and answered all the Apothecary’s questions
-at full length, and whispered to him that Florence was not to know
-anything about it, if he pleased, and that he had set his mind upon her
-coming to the party. He was very chatty with the Apothecary, and they
-parted excellent friends. Lying down again with his eyes shut, he heard
-the Apothecary say, out of the room and quite a long way off—or he
-dreamed it—that there was a want of vital power (what was that, Paul
-wondered!) and great constitutional weakness. That as the little fellow
-had set his heart on parting with his school-mates on the seventeenth,
-it would be better to indulge the fancy if he grew no worse. That he
-was glad to hear from Mrs Pipchin, that the little fellow would go to
-his friends in [[London]] on the eighteenth. That he would write to Mr
-Dombey, when he should have gained a better knowledge of the case, and
-before that day. That there was no immediate cause for—what? Paul lost
-that word. And that the little fellow had a fine mind, but was an
-old-fashioned boy.
+“Yes,” replied Mr Dombey. “I have said so.”
 
-What old fashion could that be, Paul wondered with a palpitating heart,
-that was so visibly expressed in him; so plainly seen by so many
-people!
+“Yes,” rejoined Carker, quickly; “but why?”
 
-He could neither make it out, nor trouble himself long with the effort.
-Mrs Pipchin was again beside him, if she had ever been away (he thought
-she had gone out with the Doctor, but it was all [[A Dream|a dream]] perhaps), and
-presently a bottle and glass got into her hands magically, and she
-poured out the contents for him. After that, he had some real good
-jelly, which Mrs Blimber brought to him herself; and then he was so
-[[Well|well]], that Mrs Pipchin went [[Home|home]], at his urgent solicitation, and
-Briggs and Tozer came to bed. Poor Briggs grumbled terribly about his
-own analysis, which could hardly have discomposed him more if it had
-been a chemical process; but he was very good to Paul, and so was
-Tozer, and so were all the rest, for they every one looked in before
-going to bed, and said, “How are you now, Dombey?” “Cheer up, little
-Dombey!” and so forth. After Briggs had got into bed, he lay awake for
-a long [[Time|time]], still bemoaning his analysis, and saying he knew it was
-all wrong, and they couldn’t have analysed a murderer worse, and—how
-would Doctor Blimber like it if his pocket-money depended on it? It was
-very easy, Briggs said, to make a galley-slave of a boy all the
-half-year, and then score him up idle; and to crib two dinners a-week
-out of his board, and then score him up greedy; but that wasn’t going
-to be submitted to, he believed, was it? Oh! Ah!
+“Why!” Mr Dombey repeated, not without hesitation. “Because I told
+her.”
+
+“Ay,” replied Carker. “But why did you tell her? You see,” he continued
+with a smile, and softly laying his velvet hand, as a cat might have
+laid its sheathed claws, on Mr Dombey’s arm; “if I perfectly understand
+what is in your mind, I am so much more likely to be useful, and to
+have the happiness of being effectually employed. I think I do
+understand. I have not the [[Honour|honour]] of Mrs Dombey’s good opinion. In my
+position, I have no reason to expect it; but I take the fact to be,
+that I have not got it?”
+
+“Possibly not,” said Mr Dombey.
+
+“Consequently,” pursued Carker, “your making the communications to Mrs
+Dombey through me, is sure to be particularly unpalatable to that
+lady?”
+
+“It appears to me,” said Mr Dombey, with haughty reserve, and yet with
+some embarrassment, “that Mrs Dombey’s views upon the subject form no
+part of it as it presents itself to you and me, Carker. But it may be
+so.”

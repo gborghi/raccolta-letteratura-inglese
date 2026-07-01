@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 20 (part 3)"
+title: "The Tenant of Wildfell Hall — Chapter 20 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -14,13 +14,27 @@ tags:
 </nav>
 
 
+not part with it for all the world can give!”
+
+
+
+Here our conference ended, for it was now high [[Time|time]] to prepare for
+
+church. Every one attended the morning service, except my uncle, who
+
+hardly ever goes, and Mr. Wilmot, who stayed at [[Home|home]] with him to enjoy
+
+a quiet game of cribbage. In the afternoon Miss Wilmot and Lord
+
+Lowborough likewise excused themselves from attending; but Mr.
+
 Huntingdon vouchsafed to accompany us again. Whether it was to
 
 ingratiate himself with my aunt I cannot tell, but, if so, he certainly
 
 should have behaved better. I must confess, I did not like his conduct
 
-during service at all. Holding his [[Prayer|prayer]]-book upside down, or open at
+during service at all. Holding his [[prayer]]-book upside down, or open at
 
 any place but the right, he did nothing but stare about him, unless he
 

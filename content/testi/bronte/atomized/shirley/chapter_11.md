@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 11"
+title: "Shirley — Chapter 11"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/shirley-(bronte)"
@@ -220,7 +220,7 @@ The trees behind were fine, bold, and spreading; the cedar on the lawn
 
 in front was grand; and the granite urns on the [[Garden|garden]] wall, the fretted
 
-arch of the gateway, were, for an [[Artist|artist]], as the very [[Desire|desire]] of the eye.
+arch of the gateway, were, for an [[artist]], as the very [[Desire|desire]] of the eye.
 
 
 

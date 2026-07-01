@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 8 (part 3)"
+title: "Great Expectations — Chapter 8 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_08/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_08/part_04">part 04 ›</a></div>
 </nav>
 
+
+“Are you sullen and obstinate?”
+
+“No, ma’am, I am very sorry for you, and very sorry I can’t play just
+now. If you complain of me I shall get into trouble with my sister, so
+I would do it if I could; but it’s so new here, and so strange, and so
+fine,—and [[Melancholy|melancholy]]—.” I stopped, fearing I might say too much, or had
+already said it, and we took another look at each other.
 
 Before she spoke again, she turned her eyes from me, and looked at the
 dress she wore, and at the dressing-table, and finally at herself in
@@ -145,25 +153,3 @@ entrance, I had fancied, without thinking about it, that it must
 necessarily be [[Night|night]]-[[Time|time]]. The rush of the daylight quite confounded
 me, and made me feel as if I had been in the candlelight of the strange
 room many hours.
-
-“You are to wait here, you boy,” said [[Estella]]; and disappeared and
-closed the door.
-
-I took the opportunity of being [[Alone|alone]] in the courtyard to look at my
-coarse hands and my common boots. My opinion of those accessories was
-not favourable. They had never troubled me before, but they troubled me
-now, as vulgar appendages. I determined to ask Joe why he had ever
-taught me to call those picture-cards Jacks, which ought to be called
-knaves. I wished Joe had been rather more genteelly brought up, and
-then I should have been so too.
-
-She came back, with some bread and meat and a little mug of beer. She
-put the mug down on the stones of the yard, and gave me the bread and
-meat without looking at me, as insolently as if I were a dog in
-disgrace. I was so humiliated, hurt, spurned, offended, angry, sorry,—I
-cannot hit upon the right name for the smart—God knows what its name
-was,—that [[Tears|tears]] started to my eyes. The moment they sprang there, the
-girl looked at me with a quick delight in having been the cause of
-them. This gave me power to keep them back and to look at her: so, she
-gave a contemptuous toss—but with a sense, I thought, of having made
-too sure that I was so wounded—and left me.

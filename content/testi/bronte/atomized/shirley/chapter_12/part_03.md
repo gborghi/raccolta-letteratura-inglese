@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 12 (part 3)"
+title: "Shirley — Chapter 12 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,30 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_12/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_12/part_04">part 04 ›</a></div>
 </nav>
 
+
+"A cousin, you know, is different to a stranger."
+
+
+
+"I am aware of that; but cousins, if they are stupid, are still more
+
+insupportable than strangers, because you cannot so easily keep them at
+
+a distance. But your cousin is not stupid?"
+
+
+
+"No; but----"
+
+
+
+"[[Well]]?"
+
+
+
+"If the company of fools irritates, as you say, the society of clever
+
+men [[Leaves|leaves]] its own peculiar [[Pain|pain]] also. Where the goodness or talent of
 
 your friend is beyond and above all [[Doubt|doubt]], your own worthiness to be his
 
@@ -231,37 +255,3 @@ month,' he would say."
 
 
 "Not I. But if I were, do you know what soothsayers I would consult?"
-
-
-
-"Let me hear."
-
-
-
-"Neither man nor woman, elderly nor young: the little Irish beggar that
-
-comes barefoot to my door; the mouse that steals out of the cranny in
-
-the wainscot; the bird that in [[Frost|frost]] and [[Snow|snow]] pecks at my [[Window|window]] for a
-
-crumb; the dog that licks my hand and sits beside my knee."
-
-
-
-"Did you ever see any one who was kind to such things?"
-
-
-
-"Did you ever see any one whom such things seemed instinctively to
-
-follow, like, rely on?"
-
-
-
-"We have a black cat and an old dog at the rectory. I know somebody to
-
-whose knee that black cat loves to climb, against whose shoulder and
-
-cheek it likes to purr. The old dog always comes out of his kennel and
-
-wags his tail, and whines affectionately when somebody passes."

@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 46 (part 2)"
+title: "Nicholas Nickleby — Chapter 46 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_46/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_46/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘Of that I am [[Well|well]] assured,’ returned brother Charles, ‘[[Well|well]] assured.
+You will give me credit for thinking so, when I tell you that the object
+of this mission is a young lady.’
 
 ‘A young lady, sir!’ cried Nicholas, quite trembling for the moment with
 his eagerness to hear more.

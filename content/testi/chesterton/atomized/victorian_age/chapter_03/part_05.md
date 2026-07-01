@@ -14,6 +14,28 @@ tags:
 </nav>
 
 
+too strong and too weak, or (as a false sex [[philosophy]] would express it)
+
+too masculine and too feminine. I mean that she hit the centre of
+
+weakness with almost the same emphatic precision with which she hit the
+
+centre of strength. She could write finally of the factory wheels
+
+"grinding life down from its mark," a strong and strictly true
+
+observation. Unfortunately she could also write of Euripides "with his
+
+droppings of warm [[Tears|tears]]." She could write in _A Drama of Exile_, a
+
+really fine exposition, touching the later relation of Adam and the
+
+[[Animals|animals]]: unfortunately the [[Tears|tears]] were again turned on at the wrong
+
+moment at the main; and the stage direction commands a [[Silence|silence]], only
+
+broken by the dropping of angel's [[Tears|tears]]. How much noise is made by
+
 angel's [[Tears|tears]]? Is it a sound of emptied buckets, or of [[Garden|garden]] hose, or
 
 of mountain cataracts? That is the sort of question which Elizabeth
@@ -45,8 +67,6 @@ interfering, he did not in one sense interfere enough. Her real
 inferiority to him in literature is that he was consciously while she
 
 was unconsciously absurd.
-
-
 
 It is natural, in the matter of Victorian moral change, to take
 
@@ -104,8 +124,6 @@ Swinburne could have found round about Putney plenty of slaves who had
 
 no crucifixes: but only crucifixions.
 
-
-
 When we come to ethics and [[philosophy]], doubtless we find Swinburne in
 
 full revolt, not only against the temperate idealism of Tennyson, but
@@ -140,8 +158,6 @@ heard uplifted the grand choruses of his own _Atalanta_, in his rear,
 
 refusing [[Hope|hope]].
 
-
-
 The splendid diction that blazes through the whole of that drama, that
 
 still dances exquisitely in the more lyrical _Poems and Ballads_, makes
@@ -165,37 +181,3 @@ the least languorous or luxurious or merely musical and sensuous, as one
 would gather from both the eulogies and the satires, from the conscious
 
 and the unconscious imitations. On the contrary, it is a sort of
-
-fighting and profane [[Parody|parody]] of the Old Testament; and its lines are made
-
-of short English words like the short Roman swords. The first line of
-
-one of his finest [[Poems|poems]], for instance, runs, "I have lived long enough
-
-to have seen one thing, that [[Love|love]] hath an end." In that sentence only
-
-one small "e" gets outside the monosyllable. Through all his
-
-interminable tragedies, he was fondest of lines like--
-
-
-
-    "If ever I leave off to [[Honour|honour]] you
-
-    God give me shame; I were the worst churl born."
-
-
-
-The dramas were far from being short and dramatic; but the words really
-
-were. Nor was his verse merely smooth; except his very bad verse, like
-
-"the lilies and languors of virtue, to the raptures and roses of vice,"
-
-which both, in cheapness of form and foolishness of sentiment, may be
-
-called the worst couplet in the world's literature. In his real poetry
-
-(even in the same poem) his rhythm and rhyme are as original and
-
-ambitious as Browning; and the only difference between him and Browning

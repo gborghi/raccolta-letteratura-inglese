@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE (part 7)"
+title: "David Copperfield — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,28 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_22_some_old_scenes_and_some_new_p/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_22_some_old_scenes_and_some_new_p/part_08">part 08 ›</a></div>
 </nav>
 
+
+‘The fee,’ said Steerforth, ‘is--’
+
+‘Five bob,’ replied Miss Mowcher, ‘and dirt cheap, my chicken. Ain’t I
+volatile, Mr. Copperfield?’
+
+I replied politely: ‘Not at all.’ But I thought she was rather so, when
+she tossed up his two half-crowns like a goblin pieman, caught them,
+dropped them in her pocket, and gave it a loud slap.
+
+‘That’s the Till!’ observed Miss Mowcher, standing at the chair again,
+and replacing in the bag a miscellaneous collection of little objects
+she had emptied out of it. ‘Have I got all my traps? It seems so. It
+won’t do to be like long Ned Beadwood, when they took him to church “to
+marry him to somebody”, as he says, and left the bride behind. Ha! ha!
+ha! A wicked rascal, Ned, but droll! Now, I know I’m going to break
+your hearts, but I am forced to leave you. You must call up all your
+fortitude, and try to bear it. Good-bye, Mr. Copperfield! Take care of
+yourself, jockey of Norfolk! How I have been rattling on! It’s all
+the fault of you two wretches. I forgive you! “Bob swore!”--as the
+Englishman said for “Good [[Night|night]]”, when he first learnt French, and
+thought it so like English. “Bob swore,” my ducks!’
 
 With the bag slung over her arm, and rattling as she waddled away, she
 waddled to the door, where she stopped to inquire if she should leave
@@ -112,24 +134,3 @@ said Ham, tenderly adjusting it on the rough palm of his hand, ‘how
 could I deny her when she give me this to carry for her--knowing what
 she brought it for? Such a toy as it is!’ said Ham, thoughtfully looking
 on it. ‘With such a little money in it, Em’ly my dear.’
-
-I shook him warmly by the hand when he had put it away again--for that
-was more satisfactory to me than saying anything--and we walked up
-and down, for a minute or two, in [[Silence|silence]]. The door opened then, and
-Peggotty appeared, beckoning to Ham to come in. I would have kept away,
-but she came after me, entreating me to come in too. Even then, I
-would have avoided the room where they all were, but for its being the
-neat-tiled kitchen I have mentioned more than once. The door opening
-immediately into it, I found myself among them before I considered
-whither I was going.
-
-The girl--the same I had seen upon the sands--was near the [[Fire|fire]]. She
-was sitting on the ground, with her head and one arm lying on a chair.
-I fancied, from the disposition of her figure, that Em’ly had but newly
-risen from the chair, and that the forlorn head might perhaps have been
-lying on her lap. I saw but little of the girl’s face, over which her
-hair fell loose and scattered, as if she had been disordering it with
-her own hands; but I saw that she was young, and of a fair complexion.
-Peggotty had been crying. So had little Em’ly. Not a word was spoken
-when we first went in; and the Dutch [[Clock|clock]] by the dresser seemed, in the
-[[Silence|silence]], to tick twice as loud as usual. Em’ly spoke first.

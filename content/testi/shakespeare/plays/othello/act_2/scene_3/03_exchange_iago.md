@@ -1,5 +1,5 @@
 ---
-title: "[[Othello]] — Act II, Scene 3 — exchange ([[Iago|IAGO]]) [3]"
+title: "Othello — Act II, Scene 3 — exchange (IAGO) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/othello-(shakespeare)"

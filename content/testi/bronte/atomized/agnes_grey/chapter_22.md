@@ -1,5 +1,5 @@
 ---
-title: "[[Agnes Grey]] — Chapter 21"
+title: "Agnes Grey — Chapter 21"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/agnes-grey-(bronte)"
@@ -178,7 +178,7 @@ however, if you will only come, I promise you shall be its governess as
 soon as it can speak; and you shall bring it up in the way it should
 go, and make a better woman of it than its mamma. And you shall see my
 poodle, too: a splendid little charmer imported from [[Paris]]: and two
-fine Italian paintings of great value—I forget the [[Artist|artist]]. Doubtless
+fine Italian paintings of great value—I forget the [[artist]]. Doubtless
 you will be able to discover prodigious beauties in them, which you
 must point out to me, as I only admire by hearsay; and many elegant
 curiosities besides, which I purchased at Rome and elsewhere; and,

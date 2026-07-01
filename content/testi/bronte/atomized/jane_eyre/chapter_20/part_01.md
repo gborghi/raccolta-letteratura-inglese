@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 20 (part 1)"
+title: "Jane Eyre — Chapter 20 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/works/jane-eyre-(bronte)">Jane Eyre</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_19/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_20/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_19/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_20/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -148,16 +148,3 @@ dark, low corridor of the fateful third storey: I had followed and
 stood at his side.
 
 “Have you a sponge in your room?” he asked in a whisper.
-
-“Yes, sir.”
-
-“Have you any salts—volatile salts?”
-
-“Yes.”
-
-“Go back and fetch both.”
-
-I returned, sought the sponge on the washstand, the salts in my drawer,
-and once more retraced my steps. He still waited; he held a key in his
-hand: approaching one of the small, black doors, he put it in the lock;
-he paused, and addressed me again.

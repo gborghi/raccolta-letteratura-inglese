@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 48: FORTY EIGHT (part 5)"
+title: "Martin Chuzzlewit — Chapter 48: FORTY EIGHT (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,27 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_48_forty_eight/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_48_forty_eight/part_06">part 06 ›</a></div>
 </nav>
 
+
+‘The short statement that I wish you to hear from his own lips, Mr
+Chuzzlewit,’ John pursued--looking attentively at him, and not at
+Martin--‘he made to me for the first [[Time|time]] yesterday, and repeated to me
+this morning, without the least variation of any essential particular. I
+have already told you that he informed me before he was removed from the
+Inn, that he had a secret to disclose to me which lay heavy on his mind.
+But, fluctuating between sickness and health and between his [[Desire|desire]] to
+relieve himself of it, and his dread of involving himself by revealing
+it, he has, until yesterday, avoided the disclosure. I never pressed
+him for it (having no idea of its weight or import, or of my right to do
+so), until within a few days past; when, understanding from him, on his
+own voluntary avowal, in a letter from the country, that it related to a
+person whose name was [[Jonas Chuzzlewit]]; and thinking that it might throw
+some light on that little mystery which made Tom anxious now and then; I
+urged the point upon him, and heard his statement, as you will now,
+from his own lips. It is due to him to say, that in the apprehension
+of [[Death|death]], he committed it to writing sometime since, and folded it in a
+sealed paper, addressed to me; which he could not resolve, however,
+to place of his own act in my hands. He has the paper in his breast, I
+believe, at this moment.’
 
 The young man touched it hastily; in corroboration of the fact.
 
@@ -130,26 +151,3 @@ as he would have died from this cause; and that I have undergone, and
 suffer now, intolerable misery. Nothing’ he added, stretching out his
 hands, ‘can paint my misery! It is [[Well|well]] deserved, but nothing can paint
 it.’
-
-With that he hung his head, and said no more, wasted and wretched, he
-was not a creature upon whom to heap reproaches that were unavailing.
-
-‘Let him remain at hand,’ said Martin, turning from him; ‘but out of
-sight, in Heaven’s name!’
-
-‘He will remain here,’ John whispered. ‘Come with me!’ Softly turning
-the key upon him as they went out, he conducted Martin into the
-adjoining room, in which they had been before.
-
-Martin was so amazed, so shocked, and confounded by what he had heard
-that it was some [[Time|time]] before he could reduce it to any order in his
-mind, or could sufficiently comprehend the bearing of one part upon
-another, to take in all the details at one view. When he, at length, had
-the whole narrative clearly before him, John Westlock went on to point
-out the great probability of the [[Guilt|guilt]] of Jonas being known to other
-people, who traded in it for their own benefit, and who were, by
-such means, able to exert that control over him which [[Tom Pinch]] had
-accidentally witnessed, and unconsciously assisted. This appeared so
-plain, that they agreed upon it without difficulty; but instead of
-deriving the least assistance from this source, they found that it
-embarrassed them the more.

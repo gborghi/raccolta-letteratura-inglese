@@ -1,5 +1,5 @@
 ---
-title: "[[Don Quixote]] — Chapter 19 (part 3)"
+title: "Don Quixote — Chapter 19 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/don-quixote-(chesterton)"
@@ -92,7 +92,7 @@ he broke by saying suddenly, in his abrupt and awkward way:
 
 Herne's thoughts abruptly and absently went back to the old
 tangled talk between himself and Archer about the Albigensian
-heresy and what need to follow [[Conversion|conversion]] from it; he stood
+heresy and what need to follow [[conversion]] from it; he stood
 a moment with his wits wool gathering.  Then in that narrow street
 of the coloured lantern a new and astonishing thing happened;
 something that never had happened in all the topsy turvey happenings

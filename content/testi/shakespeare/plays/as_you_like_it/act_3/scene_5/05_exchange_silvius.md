@@ -1,5 +1,5 @@
 ---
-title: "As You Like It — Act III, Scene 5 — exchange ([[Silvius|SILVIUS]]) [5]"
+title: "As You Like It — Act III, Scene 5 — exchange (SILVIUS) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/as-you-like-it-(shakespeare)"

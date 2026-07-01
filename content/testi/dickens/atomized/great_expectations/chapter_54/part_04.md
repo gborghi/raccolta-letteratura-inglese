@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 54 (part 4)"
+title: "Great Expectations — Chapter 54 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_54/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_54/part_05">part 05 ›</a></div>
 </nav>
 
+
+I lay down with the greater part of my clothes on, and slept [[Well|well]] for a
+few hours. When I awoke, the [[Wind|wind]] had risen, and the sign of the [[house]]
+(the [[Ship]]) was creaking and banging about, with noises that startled
+me. Rising softly, for my charge lay fast asleep, I looked out of the
+[[Window|window]]. It commanded the causeway where we had hauled up our boat, and,
+as my eyes adapted themselves to the light of the clouded [[Moon|moon]], I saw
+two men looking into her. They passed by under the [[Window|window]], looking at
+nothing else, and they did not go down to the landing-place which I
+could discern to be empty, but struck across the marsh in the direction
+of the Nore.
 
 My first impulse was to call up Herbert, and show him the two men going
 away. But reflecting, before I got into his room, which was at the back
@@ -103,20 +114,3 @@ Still, in the same moment, I saw the face tilt backward with a white
 terror on it that I shall never forget, and heard a great cry on board
 the steamer, and a loud splash in the [[Water|water]], and felt the boat sink
 from under me.
-
-It was but for an instant that I seemed to struggle with a thousand
-mill-weirs and a thousand flashes of light; that instant past, I was
-taken on board the galley. Herbert was there, and Startop was there;
-but our boat was gone, and the two convicts were gone.
-
-What with the cries aboard the steamer, and the furious blowing off of
-her steam, and her driving on, and our driving on, I could not at first
-distinguish sky from [[Water|water]] or shore from shore; but the crew of the
-galley righted her with great [[Speed|speed]], and, pulling certain swift strong
-strokes ahead, lay upon their oars, every man looking silently and
-eagerly at the [[Water|water]] astern. Presently a dark object was seen in it,
-bearing towards us on the tide. No man spoke, but the steersman held up
-his hand, and all softly backed [[Water|water]], and kept the boat straight and
-true before it. As it came nearer, I saw it to be Magwitch, swimming,
-but not swimming freely. He was taken on board, and instantly manacled
-at the wrists and ankles.

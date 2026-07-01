@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 1: I AM BORN (part 1)"
+title: "David Copperfield — Chapter 1: I AM BORN (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -114,9 +114,3 @@ yet twenty. My father and Miss Betsey never met again. He was [[Double|double]]
 my mother’s age when he married, and of but a delicate constitution. He
 died a year afterwards, and, as I have said, six months before I came
 into the world.
-
-This was the state of matters, on the afternoon of, what I may be
-excused for calling, that eventful and important Friday. I can make no
-claim therefore to have known, at that [[Time|time]], how matters stood; or to
-have any remembrance, founded on the evidence of my own senses, of what
-follows.

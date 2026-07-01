@@ -124,7 +124,7 @@ if there were not laid upon us like a load of memories,
 and almost like a living chain, the [[Love|love]] of England.
 
 For England, alas! has made to-day the worst possible
-compromise between aristocracy and [[Democracy|democracy]].
+compromise between aristocracy and [[democracy]].
 It has kept the aristocracy and lost the aristocrats.
 The country is still as much ruled by squires, but not so much
 by country gentlemen; and the [[Reform|reform]] of the [[house|House]] of Lords seems

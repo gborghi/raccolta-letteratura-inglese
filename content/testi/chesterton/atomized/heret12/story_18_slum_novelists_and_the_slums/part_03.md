@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]] — Slum Novelists and the Slums (part 3)"
+title: "heret12 — Slum Novelists and the Slums (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/heret12-(chesterton)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_18_slum_novelists_and_the_slums/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_19_concluding_remarks_on_the_importance_of/part_01">part 01 ›</a></div>
 </nav>
 
+
+A poor man is a man who has not got much money.  This may seem
+a simple and unnecessary description, but in the face of a great
+mass of modern fact and fiction, it seems very necessary indeed;
+most of our realists and sociologists talk about a poor man as if
+he were an octopus or an alligator.  There is no more need to study
+the psychology of [[Poverty|poverty]] than to study the psychology of bad temper,
+or the psychology of [[Vanity|vanity]], or the psychology of animal spirits.
+A man ought to know something of the emotions of an insulted man,
+not by being insulted, but simply by being a man.  And he ought to know
+something of the emotions of a poor man, not by being poor, but simply
+by being a man.  Therefore, in any writer who is describing [[Poverty|poverty]],
+my first objection to him will be that he has studied his subject.
+A democrat would have imagined it.
 
 A great many hard things have been said about religious slumming
 and political or social slumming, but surely the most despicable
@@ -37,7 +51,7 @@ condition with all men.  The journalist comes to tell other people
 how different the poor man is from everybody else.
 
 If the modern novels about the slums, such as the novels
-of Mr. [[Arthur]] Morrison, or the exceedingly able novels of
+of Mr. [[arthur|Arthur]] Morrison, or the exceedingly able novels of
 Mr. Somerset Maugham, are intended to be sensational, I can only say
 that that is a noble and reasonable object, and that they attain it.
 A sensation, a shock to the [[Imagination|imagination]], like the contact with

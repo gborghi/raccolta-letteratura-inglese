@@ -1,5 +1,5 @@
 ---
-title: "The [[Comedy]] of Errors — Act III, Scene 2 — exchange ([[Luciana|LUCIANA]]) [3]"
+title: "The Comedy of Errors — Act III, Scene 2 — exchange (LUCIANA) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-comedy-of-errors-(shakespeare)"

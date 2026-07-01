@@ -14,6 +14,36 @@ tags:
 </nav>
 
 
+Catholics_, practically preached against a raging mob, rise not only
+
+higher but happier, as his instant unpopularity increases. There is
+
+something grander than [[Humour|humour]], there is fun, in the very first lecture
+
+about the British Constitution as explained to a meeting of Russians.
+
+But always his triumphs are the triumphs of a highly sensitive man: a
+
+man must feel insults before he can so insultingly and splendidly
+
+avenge them. He is a naked man, who carries a naked [[Sword|sword]]. The quality
+
+of his literary style is so successful that it succeeds in escaping
+
+definition. The quality of his [[logic]] is that of a long but passionate
+
+patience, which waits until he has fixed all corners of an iron trap.
+
+But the quality of his moral comment on the age remains what I have
+
+said: a protest of the rationality of religion as against the increasing
+
+irrationality of mere Victorian comfort and compromise. So far as the
+
+present purpose is concerned, his protest died with him: he left few
+
+imitators and (it may easily be conceived) no successful imitators. The
+
 suggestion of him lingers on in the exquisite Elizabethan perversity of
 
 Coventry Patmore; and has later flamed out from the shy volcano of
@@ -23,8 +53,6 @@ Francis Thompson. Otherwise (as we shall see in the parallel case of
 Ruskin's Socialism) he has no followers in his own age: but very many in
 
 ours.
-
-
 
 The next group of reactionaries or romantics or whatever we elect to
 
@@ -112,8 +140,6 @@ considered as a kind of poet than considered as anything else; and the
 
 central idea of poetry is the idea of guessing right, like a [[Child|child]].
 
-
-
 He first emerged, as it were, as a student and disciple of Goethe. The
 
 connection was not wholly fortunate. With much of what Goethe really
@@ -155,41 +181,3 @@ into his [[philosophy]]. His [[philosophy]] largely remained a heavy Teutonic
 idealism, absurdly unaware of the complexity of things; as when he
 
 perpetually repeated (as with a kind of flat-footed stamping) that
-
-people ought to tell the [[Truth|truth]]; apparently supposing, to quote
-
-Stevenson's phrase, that telling the [[Truth|truth]] is as easy as blind hookey.
-
-Yet, though his general honesty is unquestionable, he was by no means
-
-one of those who will give up a fancy under the shock of a fact. If by
-
-sheer genius he frequently guessed right, he was not the kind of man to
-
-admit easily that he had guessed wrong. His version of Cromwell's filthy
-
-cruelties in Ireland, or his impatient slurring over of the most
-
-sinister [[Riddle|riddle]] in the [[morality]] of Frederick the Great--these passages
-
-are, one must frankly say, disingenuous. But it is, so to speak, a
-
-generous disingenuousness; the heat and momentum of sincere admirations,
-
-not the shuffling [[Fear|fear]] and flattery of the constitutional or patriotic
-
-historian. It bears most resemblance to the incurable prejudices of a
-
-woman.
-
-
-
-For the rest there hovered behind all this transcendental haze a certain
-
-presence of old northern paganism; he really had some sympathy with the
-
-vast vague gods of that moody but not unmanly [[Nature]]-worship which seems
-
-to have filled the darkness of the North before the coming of the Roman
-
-Eagle or the Christian [[Cross]]. This he combined, allowing for certain

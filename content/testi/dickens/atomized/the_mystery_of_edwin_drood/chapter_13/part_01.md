@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 12 (part 1)"
+title: "The Mystery of Edwin Drood — Chapter 12 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -131,6 +131,3 @@ looking about him with magnificent patronage.
 vaults, towers, and ruins,” returns Jasper. “You remember suggesting,
 when you brought us together, that, as a [[Lover|lover]] of the picturesque, it
 might be worth my while?”
-
-“I remember!” replies the auctioneer. And the solemn idiot really
-believes that he does remember.

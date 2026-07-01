@@ -1,5 +1,5 @@
 ---
-title: "[[aquinas]] — Chapter 7 (part 1)"
+title: "aquinas — Chapter 7 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/aquinas-(chesterton)"
@@ -26,7 +26,7 @@ as in that famous case, when it was found to be the tooth of a pig.
 It is very right that there should be a purely physical science
 of such things; but the name commonly used might [[Well|well]], by analogy,
 have been dedicated to things not only wider and deeper, but rather
-more relevant.  Just as, in [[America]], the new Humanists have pointed
+more relevant.  Just as, in [[america|America]], the new Humanists have pointed
 out to the old Humanitarians that their [[Humanitarianism|humanitarianism]] has been
 largely concentrated on things that are not specially human, such as
 physical conditions, appetites, economic needs, environment and so on--

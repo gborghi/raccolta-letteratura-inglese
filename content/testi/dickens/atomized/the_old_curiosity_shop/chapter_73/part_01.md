@@ -115,15 +115,3 @@ washed ashore.  The general supposition was that he had committed
 [[suicide]], and, this appearing to be favoured by all the circumstances of
 his [[Death|death]], the verdict was to that effect.  He was left to be buried
 with a stake through his heart in the centre of four lonely roads.
-
-It was rumoured afterwards that this horrible and barbarous ceremony
-had been dispensed with, and that the remains had been secretly given
-up to Tom Scott.  But even here, opinion was divided; for some said Tom
-dug them up at midnight, and carried them to a place indicated to him
-by the widow.  It is probable that both these stories may have had
-their origin in the simple fact of Tom’s shedding [[Tears|tears]] upon the
-inquest--which he certainly did, extraordinary as it may appear.  He
-manifested, besides, a strong [[Desire|desire]] to assault the jury; and being
-restrained and conducted out of [[Court|court]], darkened its only [[Window|window]] by
-standing on his head upon the sill, until he was dexterously tilted
-upon his feet again by a cautious beadle.

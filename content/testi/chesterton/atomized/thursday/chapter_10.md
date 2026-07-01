@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 10"
+title: "thursday — Chapter 10"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/thursday-(chesterton)"
@@ -17,7 +17,6 @@ tags:
                           CHAPTER X 
 
                            THE DUEL
-
 
 SYME sat down at a cafe table with his companions, his blue eyes
 sparkling like the bright sea below, and ordered a bottle of Saumur

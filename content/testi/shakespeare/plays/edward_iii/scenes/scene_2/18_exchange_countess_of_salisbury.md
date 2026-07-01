@@ -1,5 +1,5 @@
 ---
-title: "[[Edward III]] — Scene 2 — exchange ([[Countess of Salisbury|COUNTESS OF SALISBURY]]) [18]"
+title: "Edward III — Scene 2 — exchange (COUNTESS OF SALISBURY) [18]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/edward-iii-(shakespeare)"

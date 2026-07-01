@@ -1,5 +1,5 @@
 ---
-title: "[[longbow2]] — Chapter 6 (part 6)"
+title: "longbow2 — Chapter 6 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -14,6 +14,21 @@ tags:
 </nav>
 
 
+"At this point, however, a still more extraordinary development
+took place.  The young man in the front row, who had several times
+interrupted the proceedings with irrelevant remarks, sprang to his feet,
+and loudly declaring that Professor Green was the only sane man in
+the Congress, rushed at the group surrounding him, violently hurled
+Sir Horace Hunter from the platform, and with the assistance
+of a friend and fellow-rioter, managed to recapture the lunatic
+from the doctors and police, and carry him outside the building. 
+Those pursuing the fugitives found themselves at first confronted
+with a new mystery, in the form of their complete disappearance. 
+It has since been discovered that they actually escaped by aeroplane;
+the young man, whose name is said to be Pierce, being a [[Well|well]]-known
+aviator formerly connected with the Flying Corps.  The other young man,
+who assisted him and acted as pilot, has not yet been identified."
+
 [[Night]] closed and the [[Stars|stars]] stood out over Dale's Farm; and the
 telescope pointed at the [[Stars|stars]] in vain.  Its giant lenses had
 vainly mirrored the [[Moon|moon]] of which its owner had spoken in so vain
@@ -24,7 +39,6 @@ go to an hotel in Bath for the [[Night|night]], especially if the revels
 of the roystering astronomers were long and late.  "It's no affair
 of ours," said the farmer's wife cheerfully.  "He is not a [[Child|child]]." 
 But the farmer's daughter was not quite so sure on the point.
-
 
 Next morning she [[Rose|rose]] even earlier than usual and went about her
 ordinary tasks, which by some accident or other seemed to look more
@@ -78,7 +92,6 @@ she had the sensation of having walked for a long [[Time|time]].  And when
 the ascent ended with a gap in the trees and a blank space of sky,
 she looked over the edge like one looking into another world.
 
-
 Mr. Enoch Oates, in his more expansive moments, had been known to
 allude to what he called God's Great Prairies.  Mr. Rosenbaum Low,
 having come to [[London]] from, or through, Johannesburg, often referred
@@ -111,19 +124,3 @@ and another smaller dot, which was a [[Child|child]].  Something like a [[Wind|w
 behind her or within her, that had driven her over the hills,
 seemed to sweep all the long lines of that landslide of a landscape,
 so that they pointed to that spot.
-
-As the path dropped to the level and she began to walk by farms
-and villages, the [[Storm|storm]] in her mind began to settle and she recovered
-the reasonable prudence with which she had pottered about her
-own farm.  She even felt some responsibility and embarrassment
-about troubling her friend by coming on so vague an errand.  But she
-told herself convincingly enough that after all she was justified. 
-One would not normally be alarmed about a strayed lodger as if he
-were a [[Lion|lion]] escaped from a menagerie.  But she had after all very
-good reason for regarding this [[Lion|lion]] as rather a fearful wildfowl. 
-His way of talking had been so eccentric that everybody for miles round
-would have agreed, if they had heard him, that he had a tile loose. 
-She was very glad they had not heard him; but their imaginary
-opinion fortified her own.  They had a duty in common humanity;
-they could not let a poor gentleman of doubtful [[Sanity|sanity]] disappear
-without further inquiry.

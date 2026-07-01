@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 15 (part 1)"
+title: "Dombey and Son — Chapter 43 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -10,111 +10,122 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/dombey-and-son-(dickens)">Dombey and Son</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_70/part_09">‹ part 09</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_71/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_70/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_71/part_02">part 02 ›</a></div>
 </nav>
 
 
-CHAPTER XV.
-Amazing Artfulness of [[Captain Cuttle]], and a new Pursuit for [[Walter Gay]]
+CHAPTER XLIII.
+The Watches of the [[Night]]
 
 
-Walter could not, for several days, decide what to do in the Barbados
-business; and even cherished some faint [[Hope|hope]] that Mr Dombey might not
-have meant what he had said, or that he might change his mind, and tell
-him he was not to go. But as nothing occurred to give this idea (which
-was sufficiently improbable in itself) any touch of confirmation, and
-as [[Time|time]] was slipping by, and he had none to lose, he felt that he must
-act, without hesitating any longer.
+Florence, long since awakened from her dream, mournfully observed the
+estrangement between her father and Edith, and saw it widen more and
+more, and knew that there was greater bitterness between them every
+day. Each day’s added knowledge deepened the shade upon her [[Love|love]] and
+[[Hope|hope]], roused up the old sorrow that had slumbered for a little [[Time|time]],
+and made it even heavier to bear than it had been before.
 
-Walter’s chief difficulty was, how to break the change in his affairs
-to Uncle Sol, to whom he was sensible it would be a terrible blow. He
-had the greater difficulty in dashing Uncle Sol’s spirits with such an
-astounding piece of intelligence, because they had lately recovered
-very much, and the old man had become so cheerful, that the little back
-parlour was itself again. Uncle Sol had paid the first appointed
-portion of the debt to Mr Dombey, and was hopeful of working his way
-through the rest; and to cast him down afresh, when he had sprung up so
-manfully from his troubles, was a very distressing necessity.
+It had been hard—how hard may none but Florence ever know!—to have the
+natural affection of a true and earnest [[Nature|nature]] turned to agony; and
+slight, or stern repulse, substituted for the tenderest protection and
+the dearest care. It had been hard to feel in her deep heart what she
+had felt, and never know the happiness of one touch of response. But it
+was much more hard to be compelled to [[Doubt|doubt]] either her father or Edith,
+so affectionate and dear to her, and to think of her [[Love|love]] for each of
+them, by turns, with [[Fear|fear]], distrust, and [[Wonder|wonder]].
 
-Yet it would never do to run away from him. He must know of it
-beforehand; and how to tell him was the point. As to the question of
-going or not going, Walter did not consider that he had any power of
-choice in the matter. Mr Dombey had truly told him that he was young,
-and that his Uncle’s circumstances were not good; and Mr Dombey had
-plainly expressed, in the glance with which he had accompanied that
-reminder, that if he declined to go he might stay at [[Home|home]] if he chose,
-but not in his counting-[[house]]. His Uncle and he lay under a great
-obligation to Mr Dombey, which was of Walter’s own soliciting. He might
-have begun in secret to [[Despair|despair]] of ever winning that gentleman’s
-favour, and might have thought that he was now and then disposed to put
-a slight upon him, which was hardly just. But what would have been duty
-without that, was still duty with it—or Walter thought so—and duty must
-be done.
+Yet Florence now began to do so; and the doing of it was a task imposed
+upon her by the very purity of her [[Soul|soul]], as one she could not fly from.
+She saw her father cold and obdurate to Edith, as to her; hard,
+inflexible, unyielding. Could it be, she asked herself with starting
+[[Tears|tears]], that her own dear mother had been made unhappy by such
+treatment, and had pined away and died? Then she would think how proud
+and stately Edith was to everyone but her, with what disdain she
+treated him, how distantly she kept apart from him, and what she had
+said on the [[Night|night]] when they came [[Home|home]]; and quickly it would come on
+Florence, almost as a crime, that she loved one who was set in
+opposition to her father, and that her father knowing of it, must think
+of her in his solitary room as the unnatural [[Child|child]] who added this wrong
+to the old fault, so much wept for, of never having won his fatherly
+affection from her birth. The next kind word from Edith, the next kind
+glance, would shake these thoughts again, and make them seem like black
+ingratitude; for who but she had cheered the drooping heart of
+Florence, so lonely and so hurt, and been its best of comforters! Thus,
+with her gentle [[Nature|nature]] yearning to them both, feeling for the misery of
+both, and whispering doubts of her own duty to both, Florence in her
+wider and expanded [[Love|love]], and by the side of Edith, endured more than
+when she had hoarded up her undivided secret in the mournful [[house]], and
+her beautiful Mama had never dawned upon it.
 
-When Mr Dombey had looked at him, and told him he was young, and that
-his Uncle’s circumstances were not good, there had been an expression
-of disdain in his face; a contemptuous and disparaging assumption that
-he would be quite content to live idly on a reduced old man, which
-stung the boy’s generous [[Soul|soul]]. Determined to assure Mr Dombey, in so
-far as it was possible to give him the assurance without expressing it
-in words, that indeed he mistook his [[Nature|nature]], Walter had been anxious to
-show even more cheerfulness and activity after the West Indian
-interview than he had shown before: if that were possible, in one of
-his quick and zealous disposition. He was too young and inexperienced
-to think, that possibly this very quality in him was not agreeable to
-Mr Dombey, and that it was no stepping-stone to his good opinion to be
-elastic and hopeful of pleasing under the [[Shadow|shadow]] of his powerful
-displeasure, whether it were right or wrong. But it may have been—it
-may have been—that the great man thought himself defied in this new
-exposition of an honest spirit, and purposed to bring it down.
+One exquisite unhappiness that would have far outweighed this, Florence
+was spared. She never had the least suspicion that Edith by her
+tenderness for her widened the separation from her father, or gave him
+new cause of dislike. If Florence had conceived the possibility of such
+an effect being wrought by such a cause, what grief she would have
+felt, what sacrifice she would have tried to make, poor loving girl,
+how fast and sure her quiet passage might have been beneath it to the
+presence of that higher Father who does not reject his children’s [[Love|love]],
+or spurn their tried and broken hearts, Heaven knows! But it was
+otherwise, and that was [[Well|well]].
 
-“[[Well]]! at last and at least, Uncle Sol must be told,” thought Walter,
-with a sigh. And as Walter was apprehensive that his voice might
-perhaps quaver a little, and that his countenance might not be quite as
-hopeful as he could wish it to be, if he told the old man himself, and
-saw the first effects of his communication on his wrinkled face, he
-resolved to avail himself of the services of that powerful mediator,
-[[Captain Cuttle]]. [[Sunday]] coming round, he set off therefore, after
-breakfast, once more to beat up [[Captain Cuttle]]’s quarters.
+No word was ever spoken between Florence and Edith now, on these
+subjects. Edith had said there ought to be between them, in that wise,
+a division and a [[Silence|silence]] like the [[Grave|grave]] itself: and Florence felt she
+was right.
 
-It was not unpleasant to remember, on the way thither, that Mrs
-MacStinger resorted to a great distance every [[Sunday]] morning, to attend
-the ministry of the Reverend Melchisedech Howler, who, having been one
-day discharged from the West India Docks on a false suspicion (got up
-expressly against him by the general enemy) of screwing gimlets into
-puncheons, and applying his lips to the orifice, had announced the
-destruction of the world for that day two years, at ten in the morning,
-and opened a front parlour for the reception of ladies and gentlemen of
-the Ranting [[Persuasion|persuasion]], upon whom, on the first occasion of their
-assemblage, the admonitions of the Reverend Melchisedech had produced
-so powerful an effect, that, in their rapturous performance of a sacred
-jig, which closed the service, the whole flock broke through into a
-kitchen below, and disabled a mangle belonging to one of the fold.
+In this state of affairs her father was brought [[Home|home]], [[Suffering|suffering]] and
+disabled; and gloomily retired to his own rooms, where he was tended by
+servants, not approached by Edith, and had no friend or companion but
+Mr Carker, who withdrew near midnight.
 
-This the Captain, in a moment of uncommon conviviality, had confided to
-Walter and his Uncle, between the repetitions of lovely Peg, on the
-[[Night|night]] when Brogley the broker was paid out. The Captain himself was
-punctual in his attendance at a church in his own neighbourhood, which
-hoisted the [[Union]] Jack every [[Sunday]] morning; and where he was good
-enough—the lawful beadle being infirm—to keep an eye upon the boys,
-over whom he exercised great power, in virtue of his mysterious hook.
-Knowing the regularity of the Captain’s habits, Walter made all the
-haste he could, that he might anticipate his going out; and he made
-such good [[Speed|speed]], that he had the pleasure, on turning into Brig Place,
-to behold the broad blue coat and waistcoat hanging out of the
-Captain’s open [[Window|window]], to air in the sun.
+“And nice company he is, Miss Floy,” said [[Susan Nipper]]. “Oh, he’s a
+precious piece of goods! If ever he wants a character don’t let him
+come to me whatever he does, that’s all I tell him.”
 
-It appeared incredible that the coat and waistcoat could be seen by
-mortal eyes without the Captain; but he certainly was not in them,
-otherwise his legs—the houses in Brig Place not being lofty—would have
-obstructed the street door, which was perfectly clear. Quite wondering
-at this discovery, Walter gave a single knock.
+“Dear Susan,” urged Florence, “don’t!”
 
-“Stinger,” he distinctly heard the Captain say, up in his room, as if
-that were no business of his. Therefore Walter gave two knocks.
+“Oh, it’s very [[Well|well]] to say ‘don’t’ Miss Floy,” returned the Nipper,
+much exasperated; “but raly begging your pardon we’re coming to such
+passes that it turns all the [[Blood|blood]] in a person’s [[Body|body]] into pins and
+needles, with their pints all ways. Don’t mistake me, Miss Floy, I
+don’t mean nothing again your ma-in-law who has always treated me as a
+lady should though she is rather high I must say not that I have any
+right to object to that particular, but when we come to Mrs Pipchinses
+and having them put over us and keeping guard at your Pa’s door like
+crocodiles (only make us thankful that they lay no eggs!) we are a
+growing too outrageous!”
 
-“Cuttle,” he heard the Captain say upon that; and immediately
-afterwards the Captain, in his clean shirt and braces, with his
-neckerchief hanging loosely round his throat like a coil of rope, and
-his glazed hat on, appeared at the [[Window|window]], leaning out over the broad
-blue coat and waistcoat.
+“Papa thinks [[Well|well]] of Mrs Pipchin, Susan,” returned Florence, “and has a
+right to choose his housekeeper, you know. Pray don’t!”
+
+“[[Well]] Miss Floy,” returned the Nipper, “when you say don’t, I never do
+I [[Hope|hope]] but Mrs Pipchin acts like early gooseberries upon me Miss, and
+nothing less.”
+
+Susan was unusually emphatic and destitute of punctuation in her
+discourse on this [[Night|night]], which was the [[Night|night]] of Mr Dombey’s being
+brought [[Home|home]], because, having been sent downstairs by Florence to
+inquire after him, she had been obliged to deliver her message to her
+mortal enemy Mrs Pipchin; who, without carrying it in to Mr Dombey, had
+taken upon herself to return what Miss Nipper called a huffish answer,
+on her own responsibility. This, [[Susan Nipper]] construed into
+presumption on the part of that exemplary sufferer by the Peruvian
+mines, and a deed of disparagement upon her young lady, that was not to
+be forgiven; and so far her emphatic state was special. But she had
+been in a condition of greatly increased suspicion and distrust, ever
+since the [[Marriage|marriage]]; for, like most persons of her quality of mind, who
+form a strong and sincere attachment to one in the different station
+which Florence occupied, Susan was very jealous, and her [[Jealousy|jealousy]]
+naturally attached to Edith, who divided her old empire, and came
+between them. Proud and glad as [[Susan Nipper]] truly was, that her young
+mistress should be advanced towards her proper place in the scene of
+her old neglect, and that she should have her father’s handsome wife
+for her companion and protectress, she could not relinquish any part of
+her own dominion to the handsome wife, without a grudge and a vague
+feeling of ill-will, for which she did not fail to find a disinterested
+justification in her sharp perception of the [[Pride|pride]] and passion of the
+lady’s character. From the background to which she had necessarily
+retired somewhat, since the [[Marriage|marriage]], Miss Nipper looked on, therefore,
+at domestic affairs in general, with a resolute conviction that no good
+would come of Mrs Dombey: always being very careful to publish on all
+possible occasions, that she had nothing to say against her.

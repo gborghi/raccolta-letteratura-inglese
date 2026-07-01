@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 7 (part 3)"
+title: "Wuthering Heights — Chapter 7 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_07/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_07/part_04">part 04 ›</a></div>
 </nav>
 
+
+“Nay, sir,” I could not avoid answering, “he’ll touch nothing, not he:
+and I suppose he must have his share of the dainties as [[Well|well]] as we.”
 
 “He shall have his share of my hand, if I catch him downstairs till
 dark,” cried Hindley. “Begone, you vagabond! What! you are attempting
@@ -111,12 +114,3 @@ last. I [[Hope|hope]] he will not die before I do!”
 
 “For shame, [[Heathcliff]]!” said I. “It is for God to punish wicked
 people; we should learn to forgive.”
-
-“No, God won’t have the satisfaction that I shall,” he returned. “I
-only wish I knew the best way! Let me [[Alone|alone]], and I’ll plan it out:
-while I’m thinking of that I don’t feel [[Pain|pain]].”
-
-But, Mr. Lockwood, I forget these tales cannot divert you. I’m annoyed
-how I should dream of chattering on at such a rate; and your gruel
-cold, and you nodding for bed! I could have told [[Heathcliff]]’s [[history]],
-all that you need hear, in half a dozen words.

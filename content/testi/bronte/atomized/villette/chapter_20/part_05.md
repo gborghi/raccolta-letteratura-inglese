@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 20 (part 5)"
+title: "Villette — Chapter 20 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"

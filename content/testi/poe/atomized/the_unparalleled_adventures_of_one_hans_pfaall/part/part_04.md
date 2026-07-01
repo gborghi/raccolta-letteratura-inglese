@@ -1,5 +1,5 @@
 ---
-title: "[[The Unparalleled Adventures of one Hans Pfaall]] (part 4)"
+title: "The Unparalleled Adventures of one Hans Pfaall (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-unparalleled-adventures-of-one-hans-pfaall-(poe)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/part/part_03">‹ part 03</a><a class="ex-next" href="/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/part/part_05">part 05 ›</a></div>
 </nav>
 
+
+      of my former humble situation in life, and forgotten the
+
+      bellows-mender in far different occupations. But at the epoch of
+
+      which I speak, the analogy which a casual observation of a star
+
+      offered to the conclusions I had already drawn, struck me with
+
+      the force of positive conformation, and I then finally made up my
+
+      mind to the course which I afterwards pursued.
+
+
+
+      “It was late when I reached [[Home|home]], and I went immediately to bed.
 
       My mind, however, was too much occupied to [[Sleep|sleep]], and I lay the
 
@@ -177,21 +193,3 @@ tags:
       I at length met with entire [[success]] in all my preparations. My
 
       balloon was soon completed. It would contain more than forty
-
-      thousand cubic feet of gas; would take me up easily, I
-
-      calculated, with all my implements, and, if I managed rightly,
-
-      with one hundred and seventy-five pounds of ballast into the
-
-      bargain. It had received three coats of varnish, and I found the
-
-      cambric muslin to answer all the purposes of silk itself, quite
-
-      as strong and a good deal less expensive.
-
-
-
-      “Everything being now ready, I exacted from my wife an oath of
-
-      secrecy in relation to all my actions from the day of my first

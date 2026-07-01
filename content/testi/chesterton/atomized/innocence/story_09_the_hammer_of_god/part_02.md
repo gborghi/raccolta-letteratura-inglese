@@ -1,5 +1,5 @@
 ---
-title: "[[innocence]] — The Hammer of God (part 2)"
+title: "innocence — The Hammer of God (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -13,6 +13,26 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god/part_03">part 03 ›</a></div>
 </nav>
 
+
+"The blacksmith is away at Greenford," said Wilfred quietly;
+"the [[Time|time]] of his return is unsettled."
+
+And with that he turned and went into the church with bowed head,
+crossing himself like one who wishes to be quit of an unclean spirit.
+He was anxious to forget such grossness in the cool twilight of his tall
+Gothic cloisters; but on that morning it was fated that his still round
+of religious exercises should be everywhere arrested by small shocks.
+As he entered the church, hitherto always empty at that hour, a kneeling
+figure [[Rose|rose]] hastily to its feet and came towards the full daylight
+of the doorway.  When the curate saw it he stood still with surprise.
+For the early worshipper was none other than the village idiot,
+a nephew of the blacksmith, one who neither would nor could care
+for the church or for anything else.  He was always called "Mad Joe,"
+and seemed to have no other name; he was a dark, strong, slouching lad,
+with a heavy white face, dark straight hair, and a mouth always open.
+As he passed the priest, his [[Moon|moon]]-calf countenance gave no hint of what
+he had been doing or thinking of.  He had never been known to pray before.
+What sort of prayers was he saying now?  Extraordinary prayers surely.
 
 Wilfred Bohun stood rooted to the spot long enough to see
 the idiot go out into the sunshine, and even to see his
@@ -103,35 +123,3 @@ He was silent a moment, looking grimly through his glasses; then he added:
 at one stroke.  If you or I or any normally made man in the country
 were accused of this crime, we should be acquitted as an infant would
 be acquitted of stealing the Nelson column."
-
-"That's what I say," repeated the cobbler obstinately; "there's only one
-man that could have done it, and he's the man that would have done it.
-Where's Simeon Barnes, the blacksmith?"
-
-"He's over at Greenford," faltered the curate.
-
-"More likely over in France," muttered the cobbler.
-
-"No; he is in neither of those places," said a small and colourless voice,
-which came from the little Roman priest who had joined the group.
-"As a matter of fact, he is coming up the [[Road|road]] at this moment."
-
-The little priest was not an interesting man to look at,
-having stubbly brown hair and a round and stolid face.
-But if he had been as splendid as [[Apollo]] no one would have looked
-at him at that moment.  Everyone turned round and peered at
-the pathway which wound across the plain below, along which was
-indeed walking, at his own huge stride and with a hammer on
-his shoulder, Simeon the [[smith]].  He was a bony and gigantic man,
-with deep, dark, sinister eyes and a dark chin beard.
-He was walking and talking quietly with two other men;
-and though he was never specially cheerful, he seemed quite
-at his ease.
-
-"My God!" cried the atheistic cobbler, "and there's the hammer
-he did it with."
-
-"No," said the inspector, a sensible-looking man
-with a sandy moustache, speaking for the first [[Time|time]].
-"There's the hammer he did it with over there by the church wall.
-We have left it and the [[Body|body]] exactly as they are."

@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 62 (part 2)"
+title: "Barnaby Rudge — Chapter 62 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_62/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_62/part_03">part 03 ›</a></div>
 </nav>
 
+
+The blind man, who knew that he had risen, motioned him to sit down
+again upon his bedstead; but he took no notice of the gesture.
+
+‘It was then I thought, for the first [[Time|time]], of fastening the murder upon
+him. It was then I dressed him in my clothes, and dragged him down
+the back-stairs to the piece of [[Water|water]]. Do I remember listening to the
+bubbles that came rising up when I had rolled him in? Do I remember
+wiping the [[Water|water]] from my face, and because the [[Body|body]] splashed it there,
+in its descent, feeling as if it MUST be [[Blood|blood]]?
 
 ‘Did I go [[Home|home]] when I had done? And oh, my God! how long it took to do!
 Did I stand before my wife, and tell her? Did I see her fall upon the
@@ -125,37 +135,3 @@ yesterday, that your son who is called Barnaby--not after his father, I
 suppose--’
 
 ‘[[Death]]! does that matter now!’
-
-‘--You are impatient,’ said the blind man, calmly; ‘it’s a good sign,
-and looks like life--that your son Barnaby had been lured away from her
-by one of his companions who knew him of old, at Chigwell; and that he
-is now among the rioters.’
-
-‘And what is that to me? If father and son be hanged together, what
-comfort shall I find in that?’
-
-‘Stay--stay, my friend,’ returned the blind man, with a cunning look,
-‘you travel fast to journeys’ ends. Suppose I track my lady out, and say
-thus much: “You want your son, ma’am--good. I, knowing those who tempt
-him to remain among them, can restore him to you, ma’am--good. You must
-pay a price, ma’am, for his restoration--good again. The price is small,
-and easy to be paid--dear ma’am, that’s best of all.”’
-
-‘What mockery is this?’
-
-‘Very likely, she may reply in those words. “No mockery at all,” I
-answer: “Madam, a person said to be your husband ([[Identity|identity]] is difficult
-of proof after the lapse of many years) is in [[Prison|prison]], his life in
-peril--the charge against him, murder. Now, ma’am, your husband has been
-dead a long, long [[Time|time]]. The gentleman never can be confounded with him,
-if you will have the goodness to say a few words, on oath, as to when he
-died, and how; and that this person (who I am told resembles him in some
-degree) is no more he than I am. Such testimony will set the question
-quite at rest. Pledge yourself to me to give it, ma’ am, and I will
-undertake to keep your son (a fine lad) out of harm’s way until you have
-done this trifling service, when he shall be delivered up to you, safe
-and sound. On the other hand, if you decline to do so, I [[Fear|fear]] he will be
-betrayed, and handed over to the law, which will assuredly sentence him
-to suffer [[Death|death]]. It is, in fact, a choice between his life and [[Death|death]]. If
-you refuse, he swings. If you comply, the timber is not grown, nor the
-hemp sown, that shall do him any harm.”’

@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 42: MISCHIEF"
+title: "David Copperfield — Chapter 42: MISCHIEF"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/david-copperfield-(dickens)"

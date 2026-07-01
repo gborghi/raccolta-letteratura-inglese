@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 32 (part 3)"
+title: "Shirley — Chapter 32 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_32/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_32/part_04">part 04 ›</a></div>
 </nav>
 
+
+To break him in by severity would be a useless attempt; to win him by
+
+flattery would be an effort worse than useless. He is best let [[Alone|alone]].
+
+[[Time]] will educate and experience train him.
+
+
+
+Professedly Martin Yorke (it is a young Yorke, of course) tramples on
+
+the name of poetry. Talk sentiment to him, and you would be answered by
+
+sarcasm. Here he is, wandering [[Alone|alone]], waiting duteously on [[Nature]], while
 
 she unfolds a page of stern, of silent, and of solemn poetry beneath his
 
@@ -257,23 +271,3 @@ She put her veil aside. She looked into his eyes, and said, "To die!"
 
 
 "To die. All along of the women, my mother and the rest. They did
-
-something about his bandages that finished everything. He would have got
-
-better but for them. I am sure they should be arrested, cribbed, tried,
-
-and brought in for Botany Bay, at the very least."
-
-
-
-The questioner, perhaps, did nor hear this judgment. She stood
-
-motionless. In two minutes, without another word, she moved forwards; no
-
-good-[[Night|night]], no further inquiry. This was not amusing, nor what Martin
-
-had calculated on. He expected something dramatic and demonstrative. It
-
-was hardly worth while to frighten the girl if she would not entertain
-
-him in return. He called, "Miss Helstone!"

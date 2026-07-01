@@ -1,5 +1,5 @@
 ---
-title: "[[Richard]] [[Duke of York]] (3 [[Henry VI]]) — Act V, Scene 1 — monologue (GEORGE OF [[Clarence|CLARENCE]]) [3]"
+title: "Richard Duke of York (3 Henry VI) — Act V, Scene 1 — monologue (GEORGE OF CLARENCE) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/richard-duke-of-york---(3-henry-vi)-(shakespeare)"

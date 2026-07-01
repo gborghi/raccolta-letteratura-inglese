@@ -1,5 +1,5 @@
 ---
-title: "The Man Who Knew Too Much — The Temple of [[Silence]] (part 4)"
+title: "The Man Who Knew Too Much — The Temple of Silence (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/the-man-who-knew-too-much-(chesterton)"
@@ -13,6 +13,21 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_07_the_temple_of_silence/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_07_the_temple_of_silence/part_05">part 05 ›</a></div>
 </nav>
 
+
+The agent stared still more, but assented civilly, and led the other
+
+into an office littered with leaflets and hung all round with highly
+
+colored posters which linked the name of Hughes with all the higher
+
+interests of humanity.
+"Mr. Horne Fisher, I believe," said Mr. Gryce. "Much honored by the
+
+call, of course. Can't pretend to congratulate you on entering the
+
+contest, I'm afraid; you won't expect that. Here we've been keeping
+
+the old [[Flag|flag]] flying for [[Freedom|freedom]] and [[Reform|reform]], and you come in and
 
 break the battle line."
 For Mr. Elijah Gryce abounded in military metaphors and in
@@ -169,24 +184,3 @@ Horne Fisher looked at him thoughtfully as he turned away abruptly
 and busied himself with the papers on his desk. Then Fisher uttered
 
 a short phrase of thanks and farewell, and went out into the street,
-
-still very thoughtful.
-His reflection seemed to end in resolution, and, falling into a more
-
-rapid stride, he passed out of the little town along a [[Road|road]] leading
-
-toward the gate of the great park, the country seat of Sir Francis
-
-Verner. A glitter of sunlight made the early [[Winter|winter]] more like a late
-
-[[Autumn|autumn]], and the dark woods were touched here and there with red and
-
-golden [[Leaves|leaves]], like the last rays of a lost sunset. From a higher
-
-part of the [[Road|road]] he had seen the long, classical facade of the great
-
-[[house]] with its many windows, almost immediately beneath him, but
-
-when the [[Road|road]] ran down under the wall of the estate, topped with
-
-towering trees behind, he realized that it was half a mile round to

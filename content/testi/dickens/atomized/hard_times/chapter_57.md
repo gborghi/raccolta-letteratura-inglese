@@ -1,5 +1,5 @@
 ---
-title: "Hard Times — Chapter 2"
+title: "Hard Times — Chapter 4"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/hard-times-(dickens)"
@@ -14,317 +14,294 @@ tags:
 </nav>
 
 
-CHAPTER II
-MR. [[James Harthouse|JAMES HARTHOUSE]]
+CHAPTER IV
+MEN AND BROTHERS
 
 
-THE Gradgrind party wanted assistance in cutting the throats of the
-Graces.  They went about recruiting; and where could they enlist recruits
-more hopefully, than among the fine gentlemen who, having found out
-everything to be worth nothing, were equally ready for anything?
+‘OH, my friends, the down-trodden operatives of Coketown!  Oh, my friends
+and fellow-countrymen, the slaves of an iron-handed and a grinding
+despotism!  Oh, my friends and fellow-sufferers, and fellow-workmen, and
+fellow-men!  I tell you that the hour is come, when we must rally round
+one another as One united power, and crumble into [[Dust|dust]] the oppressors
+that too long have battened upon the plunder of our families, upon the
+sweat of our brows, upon the labour of our hands, upon the strength of
+our sinews, upon the God-created glorious rights of Humanity, and upon
+the holy and eternal privileges of Brotherhood!’
 
-Moreover, the healthy spirits who had mounted to this [[Sublime|sublime]] height were
-attractive to many of the Gradgrind school.  They liked fine gentlemen;
-they pretended that they did not, but they did.  They became exhausted in
-[[Imitation|imitation]] of them; and they yaw-yawed in their speech like them; and they
-served out, with an enervated air, the little mouldy rations of political
-economy, on which they regaled their disciples.  There never before was
-seen on earth such a wonderful hybrid race as was thus produced.
+‘Good!’  ‘Hear, hear, hear!’  ‘Hurrah!’ and other cries, arose in many
+voices from various parts of the densely crowded and suffocatingly close
+Hall, in which the orator, perched on a stage, delivered himself of this
+and what other froth and fume he had in him.  He had declaimed himself
+into a violent heat, and was as hoarse as he was hot.  By dint of roaring
+at the top of his voice under a flaring gaslight, clenching his fists,
+knitting his brows, setting his teeth, and pounding with his arms, he had
+taken so much out of himself by this [[Time|time]], that he was brought to a stop,
+and called for a glass of [[Water|water]].
 
-Among the fine gentlemen not regularly belonging to the Gradgrind school,
-there was one of a good family and a better appearance, with a happy turn
-of [[Humour|humour]] which had told immensely with the [[house|House]] of Commons on the
-occasion of his entertaining it with his (and the Board of Directors)
-view of a railway accident, in which the most careful officers ever
-known, employed by the most liberal managers ever heard of, assisted by
-the finest mechanical contrivances ever devised, the whole in action on
-the best line ever constructed, had killed five people and wounded
-thirty-two, by a casualty without which the excellence of the whole
-system would have been positively incomplete.  Among the slain was a cow,
-and among the scattered articles unowned, a widow’s cap.  And the
-honourable member had so tickled the [[house|House]] (which has a delicate sense of
-[[Humour|humour]]) by putting the cap on the cow, that it became impatient of any
-serious reference to the Coroner’s Inquest, and brought the railway off
-with Cheers and Laughter.
+As he stood there, trying to quench his fiery face with his drink of
+[[Water|water]], the comparison between the orator and the crowd of attentive faces
+turned towards him, was extremely to his disadvantage.  Judging him by
+[[Nature]]’s evidence, he was above the mass in very little but the stage on
+which he stood.  In many great respects he was essentially below them.
+He was not so honest, he was not so manly, he was not so good-humoured;
+he substituted cunning for their simplicity, and passion for their safe
+solid sense.  An ill-made, high-shouldered man, with lowering brows, and
+his features crushed into an habitually sour expression, he contrasted
+most unfavourably, even in his mongrel dress, with the great [[Body|body]] of his
+hearers in their plain working clothes.  Strange as it always is to
+consider any assembly in the act of submissively resigning itself to the
+dreariness of some complacent person, lord or commoner, whom
+three-fourths of it could, by no human means, raise out of the slough of
+inanity to their own intellectual level, it was particularly strange, and
+it was even particularly affecting, to see this crowd of earnest faces,
+whose honesty in the main no competent observer free from bias could
+[[Doubt|doubt]], so agitated by such a leader.
 
-Now, this gentleman had a younger brother of still better appearance than
-himself, who had tried life as a Cornet of Dragoons, and found it a bore;
-and had afterwards tried it in the train of an English minister abroad,
-and found it a bore; and had then strolled to Jerusalem, and got bored
-there; and had then gone yachting about the world, and got bored
-everywhere.  To whom this honourable and jocular, member fraternally said
-one day, ‘Jem, there’s a good opening among the hard Fact fellows, and
-they want men.  I [[Wonder|wonder]] you don’t go in for statistics.’  Jem, rather
-taken by the novelty of the idea, and very hard up for a change, was as
-ready to ‘go in’ for statistics as for anything else.  So, he went in.
-He coached himself up with a blue-book or two; and his brother put it
-about among the hard Fact fellows, and said, ‘If you want to bring in,
-for any place, a handsome dog who can make you a devilish good speech,
-look after my brother Jem, for he’s your man.’  After a few dashes in the
-public meeting way, Mr. Gradgrind and a council of political sages
-approved of Jem, and it was resolved to send him down to Coketown, to
-become known there and in the neighbourhood.  Hence the letter Jem had
-last [[Night|night]] shown to Mrs. Sparsit, which Mr. Bounderby now held in his
-hand; superscribed, ‘[[Josiah Bounderby]], Esquire, Banker, Coketown.
-Specially to introduce [[James Harthouse]], Esquire.  [[Thomas Gradgrind]].’
+Good!  Hear, hear!  Hurrah!  The eagerness both of attention and
+intention, exhibited in all the countenances, made them a most impressive
+sight.  There was no carelessness, no languor, no idle curiosity; none of
+the many shades of indifference to be seen in all other assemblies,
+visible for one moment there.  That every man felt his condition to be,
+somehow or other, worse than it might be; that every man considered it
+incumbent on him to join the rest, towards the making of it better; that
+every man felt his only [[Hope|hope]] to be in his allying himself to the comrades
+by whom he was surrounded; and that in this belief, right or wrong
+(unhappily wrong then), the whole of that crowd were gravely, deeply,
+faithfully in earnest; must have been as plain to any one who chose to
+see what was there, as the bare beams of the roof and the whitened brick
+walls.  Nor could any such spectator fail to know in his own breast, that
+these men, through their very delusions, showed great qualities,
+susceptible of being turned to the happiest and best account; and that to
+pretend (on the strength of sweeping axioms, howsoever cut and dried)
+that they went astray wholly without cause, and of their own irrational
+wills, was to pretend that there could be smoke without [[Fire|fire]], [[Death|death]]
+without birth, harvest without seed, anything or everything produced from
+nothing.
 
-Within an hour of the receipt of this dispatch and Mr. [[James Harthouse]]’s
-card, Mr. Bounderby put on his hat and went down to the Hotel.  There he
-found Mr. [[James Harthouse]] looking out of [[Window|window]], in a state of mind so
-disconsolate, that he was already half-disposed to ‘go in’ for something
-else.
+The orator having refreshed himself, wiped his corrugated forehead from
+left to right several times with his handkerchief folded into a pad, and
+concentrated all his revived forces, in a sneer of great disdain and
+bitterness.
 
-‘My name, sir,’ said his visitor, ‘is [[Josiah Bounderby]], of Coketown.’
+‘But oh, my friends and brothers!  Oh, men and Englishmen, the
+down-trodden operatives of Coketown!  What shall we say of that man—that
+working-man, that I should find it necessary so to libel the glorious
+name—who, being practically and [[Well|well]] acquainted with the grievances and
+wrongs of you, the injured pith and marrow of this land, and having heard
+you, with a noble and majestic unanimity that will make Tyrants tremble,
+resolve for to subscribe to the funds of the United Aggregate Tribunal,
+and to abide by the injunctions issued by that [[Body|body]] for your benefit,
+whatever they may be—what, I ask you, will you say of that working-man,
+since such I must acknowledge him to be, who, at such a [[Time|time]], deserts his
+post, and sells his [[Flag|flag]]; who, at such a [[Time|time]], turns a traitor and a
+craven and a recreant, who, at such a [[Time|time]], is not ashamed to make to you
+the dastardly and humiliating avowal that he will hold himself aloof, and
+will _not_ be one of those associated in the gallant stand for [[Freedom]]
+and for Right?’
 
-Mr. [[James Harthouse]] was very happy indeed (though he scarcely looked so)
-to have a pleasure he had long expected.
+The assembly was divided at this point.  There were some groans and
+hisses, but the general sense of [[Honour|honour]] was much too strong for the
+condemnation of a man unheard.  ‘Be sure you’re right, Slackbridge!’
+‘Put him up!’  ‘Let’s hear him!’  Such things were said on many sides.
+Finally, one strong voice called out, ‘Is the man heer?  If the man’s
+heer, Slackbridge, let’s hear the man himseln, ’stead o’ yo.’  Which was
+received with a round of applause.
 
-‘Coketown, sir,’ said Bounderby, obstinately taking a chair, ‘is not the
-kind of place you have been accustomed to.  Therefore, if you will allow
-me—or whether you will or not, for I am a plain man—I’ll tell you
-something about it before we go any further.’
+Slackbridge, the orator, looked about him with a withering smile; and,
+holding out his right hand at arm’s length (as the manner of all
+Slackbridges is), to still the thundering sea, waited until there was a
+profound [[Silence|silence]].
 
-Mr. Harthouse would be charmed.
+‘Oh, my friends and fellow-men!’ said Slackbridge then, shaking his head
+with violent scorn, ‘I do not [[Wonder|wonder]] that you, the prostrate sons of
+labour, are incredulous of the existence of such a man.  But he who sold
+his birthright for a mess of pottage existed, and Judas Iscariot existed,
+and Castlereagh existed, and this man exists!’
 
-‘Don’t be too sure of that,’ said Bounderby.  ‘I don’t promise it.  First
-of all, you see our smoke.  That’s meat and drink to us.  It’s the
-healthiest thing in the world in all respects, and particularly for the
-lungs.  If you are one of those who want us to consume it, I differ from
-you.  We are not going to wear the bottoms of our boilers out any faster
-than we wear ’em out now, for all the humbugging sentiment in Great
-Britain and Ireland.’
+Here, a brief press and confusion near the stage, ended in the man
+himself standing at the orator’s side before the concourse.  He was pale
+and a little moved in the face—his lips especially showed it; but he
+stood quiet, with his left hand at his chin, waiting to be heard.  There
+was a chairman to regulate the proceedings, and this functionary now took
+the case into his own hands.
 
-By way of ‘going in’ to the fullest extent, Mr. Harthouse rejoined, ‘Mr.
-Bounderby, I assure you I am entirely and completely of your way of
-thinking.  On conviction.’
+‘My friends,’ said he, ‘by virtue o’ my office as your president, I askes
+o’ our friend Slackbridge, who may be a little over hetter in this
+business, to take his seat, whiles this man [[Stephen Blackpool]] is heern.
+You all know this man [[Stephen Blackpool]].  You know him awlung o’ his
+misfort’ns, and his good name.’
 
-‘I am glad to hear it,’ said Bounderby.  ‘Now, you have heard a lot of
-talk about the work in our mills, no [[Doubt|doubt]].  You have?  Very good.  I’ll
-state the fact of it to you.  It’s the pleasantest work there is, and
-it’s the lightest work there is, and it’s the best-paid work there is.
-More than that, we couldn’t improve the mills themselves, unless we laid
-down Turkey carpets on the floors.  Which we’re not a-going to do.’
+With that, the chairman shook him frankly by the hand, and sat down
+again.  Slackbridge likewise sat down, wiping his hot forehead—always
+from left to right, and never the reverse way.
 
-‘Mr. Bounderby, perfectly right.’
+‘My friends,’ Stephen began, in the midst of a dead calm; ‘I ha’ hed
+what’s been spok’n o’ me, and ’tis lickly that I shan’t mend it.  But I’d
+liefer you’d hearn the [[Truth|truth]] concernin myseln, fro my lips than fro onny
+other man’s, though I never cud’n speak afore so monny, wi’out bein
+moydert and muddled.’
 
-‘Lastly,’ said Bounderby, ‘as to our Hands.  There’s not a Hand in this
-town, sir, man, woman, or [[Child|child]], but has one ultimate object in life.
-That object is, to be fed on turtle soup and venison with a gold spoon.
-Now, they’re not a-going—none of ’em—ever to be fed on turtle soup and
-venison with a gold spoon.  And now you know the place.’
+Slackbridge shook his head as if he would shake it off, in his
+bitterness.
 
-Mr. Harthouse professed himself in the highest degree instructed and
-refreshed, by this condensed epitome of the whole Coketown question.
+‘I’m th’ one single Hand in Bounderby’s mill, o’ a’ the men theer, as
+don’t coom in wi’ th’ proposed reg’lations.  I canna coom in wi’ ’em.  My
+friends, I [[Doubt|doubt]] their doin’ yo onny good.  Licker they’ll do yo hurt.’
 
-‘Why, you see,’ replied Mr. Bounderby, ‘it suits my disposition to have a
-full understanding with a man, particularly with a public man, when I
-make his acquaintance.  I have only one thing more to say to you, Mr.
-Harthouse, before assuring you of the pleasure with which I shall
-respond, to the utmost of my poor ability, to my friend [[Tom Gradgrind]]’s
-letter of introduction.  You are a man of family.  Don’t you deceive
-yourself by supposing for a moment that I am a man of family.  I am a bit
-of dirty riff-raff, and a genuine scrap of tag, rag, and bobtail.’
+Slackbridge laughed, folded his arms, and frowned sarcastically.
 
-If anything could have exalted Jem’s interest in Mr. Bounderby, it would
-have been this very circumstance.  Or, so he told him.
+‘But ’t an’t sommuch for that as I stands out.  If that were aw, I’d coom
+in wi’ th’ rest.  But I ha’ my reasons—mine, yo see—for being hindered;
+not on’y now, but awlus—awlus—life long!’
 
-‘So now,’ said Bounderby, ‘we may shake hands on equal terms.  I say,
-equal terms, because although I know what I am, and the exact depth of
-the gutter I have lifted myself out of, better than any man does, I am as
-proud as you are.  I am just as proud as you are.  Having now asserted my
-independence in a proper manner, I may come to how do you find yourself,
-and I [[Hope|hope]] you’re pretty [[Well|well]].’
+Slackbridge jumped up and stood beside him, gnashing and tearing.  ‘Oh,
+my friends, what but this did I tell you?  Oh, my fellow-countrymen, what
+warning but this did I give you?  And how shows this recreant conduct in
+a man on whom unequal laws are known to have fallen heavy?  Oh, you
+Englishmen, I ask you how does this subornation show in one of
+yourselves, who is thus consenting to his own undoing and to yours, and
+to your children’s and your children’s children’s?’
 
-The better, Mr. Harthouse gave him to understand as they shook hands, for
-the salubrious air of Coketown.  Mr. Bounderby received the answer with
-favour.
+There was some applause, and some crying of Shame upon the man; but the
+greater part of the audience were quiet.  They looked at Stephen’s worn
+face, rendered more pathetic by the homely emotions it evinced; and, in
+the kindness of their [[Nature|nature]], they were more sorry than indignant.
 
-‘Perhaps you know,’ said he, ‘or perhaps you don’t know, I married Tom
-Gradgrind’s daughter.  If you have nothing better to do than to walk up
-town with me, I shall be glad to introduce you to [[Tom Gradgrind]]’s
-daughter.’
+‘’Tis this Delegate’s trade for t’ speak,’ said Stephen, ‘an’ he’s paid
+for ’t, an’ he knows his work.  Let him keep to ’t.  Let him give no heed
+to what I ha had’n to bear.  That’s not for him.  That’s not for nobbody
+but me.’
 
-‘Mr. Bounderby,’ said Jem, ‘you anticipate my dearest wishes.’
+There was a propriety, not to say a dignity in these words, that made the
+hearers yet more quiet and attentive.  The same strong voice called out,
+‘Slackbridge, let the man be heern, and howd thee tongue!’  Then the
+place was wonderfully still.
 
-They went out without further discourse; and Mr. Bounderby piloted the
-new acquaintance who so strongly contrasted with him, to the private red
-brick dwelling, with the black outside shutters, the green inside blinds,
-and the black street door up the two white steps.  In the drawing-room of
-which mansion, there presently entered to them the most remarkable girl
-Mr. [[James Harthouse]] had ever seen.  She was so constrained, and yet so
-careless; so reserved, and yet so watchful; so cold and proud, and yet so
-sensitively ashamed of her husband’s braggart [[Humility|humility]]—from which she
-shrunk as if every example of it were a cut or a blow; that it was quite
-a new sensation to observe her.  In face she was no less remarkable than
-in manner.  Her features were handsome; but their natural play was so
-locked up, that it seemed impossible to guess at their genuine
-expression.  Utterly indifferent, perfectly [[Self|self]]-reliant, never at a
-loss, and yet never at her ease, with her figure in company with them
-there, and her mind apparently quite [[Alone|alone]]—it was of no use ‘going in’
-yet awhile to comprehend this girl, for she baffled all penetration.
+‘My brothers,’ said Stephen, whose low voice was distinctly heard, ‘and
+my fellow-workmen—for that yo are to me, though not, as I knows on, to
+this delegate here—I ha but a word to sen, and I could sen nommore if I
+was to speak till Strike o’ day.  I know weel, aw what’s afore me.  I
+know weel that yo aw resolve to ha nommore ado wi’ a man who is not wi’
+yo in this matther.  I know weel that if I was a lyin parisht i’ th’
+[[Road|road]], yo’d feel it right to pass me by, as a forrenner and stranger.
+What I ha getn, I mun mak th’ best on.’
 
-From the mistress of the [[house]], the visitor glanced to the [[house]] itself.
-There was no mute sign of a woman in the room.  No graceful little
-adornment, no fanciful little device, however trivial, anywhere expressed
-her influence.  Cheerless and comfortless, boastfully and doggedly rich,
-there the room stared at its present occupants, unsoftened and unrelieved
-by the least trace of any womanly occupation.  As Mr. Bounderby stood in
-the midst of his household gods, so those unrelenting divinities occupied
-their places around Mr. Bounderby, and they were worthy of one another,
-and [[Well|well]] matched.
+‘[[Stephen Blackpool]],’ said the chairman, rising, ‘think on ’t agen.  Think
+on ’t once agen, lad, afore thou’rt shunned by aw owd friends.’
 
-‘This, sir,’ said Bounderby, ‘is my wife, Mrs. Bounderby: [[Tom Gradgrind]]’s
-eldest daughter.  Loo, Mr. [[James Harthouse]].  Mr. Harthouse has joined
-your father’s muster-roll.  If he is not [[Tom Gradgrind]]’s colleague before
-long, I believe we shall at least hear of him in connexion with one of
-our neighbouring towns.  You observe, Mr. Harthouse, that my wife is my
-junior.  I don’t know what she saw in me to marry me, but she saw
-something in me, I suppose, or she wouldn’t have married me.  She has
-lots of expensive knowledge, sir, political and otherwise.  If you want
-to cram for anything, I should be troubled to recommend you to a better
-adviser than Loo Bounderby.’
+There was an universal murmur to the same effect, though no man
+articulated a word.  Every eye was fixed on Stephen’s face.  To repent of
+his determination, would be to take a load from all their minds.  He
+looked around him, and knew that it was so.  Not a grain of anger with
+them was in his heart; he knew them, far below their surface weaknesses
+and misconceptions, as no one but their fellow-labourer could.
 
-To a more agreeable adviser, or one from whom he would be more likely to
-learn, Mr. Harthouse could never be recommended.
+‘I ha thowt on ’t, above a bit, sir.  I simply canna coom in.  I mun go
+th’ way as lays afore me.  I mun tak my leave o’ aw heer.’
 
-‘Come!’ said his host.  ‘If you’re in the complimentary line, you’ll get
-on here, for you’ll meet with no competition.  I have never been in the
-way of learning compliments myself, and I don’t profess to understand the
-art of paying ’em.  In fact, despise ’em.  But, your bringing-up was
-different from mine; mine was a real thing, by George!  You’re a
-gentleman, and I don’t pretend to be one.  I am [[Josiah Bounderby]] of
-Coketown, and that’s enough for me.  However, though I am not influenced
-by manners and station, Loo Bounderby may be.  She hadn’t my
-advantages—disadvantages you would call ’em, but I call ’em advantages—so
-you’ll not waste your power, I dare say.’
+He made a sort of reverence to them by holding up his arms, and stood for
+the moment in that attitude; not speaking until they slowly dropped at
+his sides.
 
-‘Mr. Bounderby,’ said Jem, turning with a smile to Louisa, ‘is a noble
-animal in a comparatively natural state, quite free from the harness in
-which a conventional hack like myself works.’
+‘Monny’s the pleasant word as soom heer has spok’n wi’ me; monny’s the
+face I see heer, as I first seen when I were yoong and lighter heart’n
+than now.  I ha’ never had no fratch afore, sin ever I were born, wi’ any
+o’ my like; Gonnows I ha’ none now that’s o’ my makin’.  Yo’ll ca’ me
+traitor and that—yo I mean t’ say,’ addressing Slackbridge, ‘but ’tis
+easier to ca’ than mak’ out.  So let be.’
 
-‘You respect Mr. Bounderby very much,’ she quietly returned.  ‘It is
-natural that you should.’
+He had moved away a pace or two to come down from the platform, when he
+remembered something he had not said, and returned again.
 
-He was disgracefully thrown out, for a gentleman who had seen so much of
-the world, and thought, ‘Now, how am I to take this?’
+‘Haply,’ he said, turning his furrowed face slowly about, that he might
+as it were individually address the whole audience, those both near and
+distant; ‘haply, when this question has been tak’n up and discoosed,
+there’ll be a threat to turn out if I’m let to work among yo.  I [[Hope|hope]] I
+shall die ere ever such a [[Time|time]] cooms, and I shall work solitary among yo
+unless it cooms—truly, I mun do ’t, my friends; not to brave yo, but to
+live.  I ha nobbut work to live by; and wheerever can I go, I who ha
+worked sin I were no heighth at aw, in Coketown heer?  I mak’ no
+complaints o’ bein turned to the wa’, o’ bein outcasten and overlooken
+fro this [[Time|time]] forrard, but [[Hope|hope]] I shall be let to work.  If there is any
+right for me at aw, my friends, I think ’tis that.’
 
-‘You are going to devote yourself, as I gather from what Mr. Bounderby
-has said, to the service of your country.  You have made up your mind,’
-said Louisa, still standing before him where she had first stopped—in all
-the singular contrariety of her [[Self|self]]-possession, and her being obviously
-very ill at ease—‘to show the nation the way out of all its
-difficulties.’
+Not a word was spoken.  Not a sound was audible in the building, but the
+slight rustle of men moving a little apart, all along the centre of the
+room, to open a means of passing out, to the man with whom they had all
+bound themselves to renounce companionship.  Looking at no one, and going
+his way with a lowly steadiness upon him that asserted nothing and sought
+nothing, Old Stephen, with all his troubles on his head, left the scene.
 
-‘Mrs. Bounderby,’ he returned, laughing, ‘upon my [[Honour|honour]], no.  I will
-make no such pretence to you.  I have seen a little, here and there, up
-and down; I have found it all to be very worthless, as everybody has, and
-as some confess they have, and some do not; and I am going in for your
-respected father’s opinions—really because I have no choice of opinions,
-and may as [[Well|well]] back them as anything else.’
+Then Slackbridge, who had kept his oratorical arm extended during the
+going out, as if he were repressing with infinite solicitude and by a
+wonderful moral power the vehement passions of the multitude, applied
+himself to raising their spirits.  Had not the Roman [[Brutus]], oh, my
+British countrymen, condemned his son to [[Death|death]]; and had not the Spartan
+mothers, oh my soon to be victorious friends, driven their flying
+children on the points of their enemies’ swords?  Then was it not the
+sacred duty of the men of Coketown, with forefathers before them, an
+admiring world in company with them, and a posterity to come after them,
+to hurl out traitors from the tents they had pitched in a sacred and a
+God-like cause?  The winds of heaven answered Yes; and bore Yes, east,
+west, north, and south.  And consequently three cheers for the United
+Aggregate Tribunal!
 
-‘Have you none of your own?’ asked Louisa.
+Slackbridge acted as fugleman, and gave the [[Time|time]].  The multitude of
+doubtful faces (a little [[Conscience|conscience]]-stricken) brightened at the sound,
+and took it up.  Private feeling must yield to the common cause.  Hurrah!
+The roof yet vibrated with the cheering, when the assembly dispersed.
 
-‘I have not so much as the slightest predilection left.  I assure you I
-attach not the least importance to any opinions.  The result of the
-varieties of boredom I have undergone, is a conviction (unless conviction
-is too industrious a word for the lazy sentiment I entertain on the
-subject), that any set of ideas will do just as much good as any other
-set, and just as much harm as any other set.  There’s an English family
-with a charming Italian motto.  What will be, will be.  It’s the only
-[[Truth|truth]] going!’
+Thus easily did [[Stephen Blackpool]] fall into the loneliest of lives, the
+life of [[Solitude|solitude]] among a familiar crowd.  The stranger in the land who
+looks into ten thousand faces for some answering look and never finds it,
+is in cheering society as compared with him who passes ten averted faces
+daily, that were once the countenances of friends.  Such experience was
+to be Stephen’s now, in every waking moment of his life; at his work, on
+his way to it and from it, at his door, at his [[Window|window]], everywhere.  By
+general consent, they even avoided that side of the street on which he
+habitually walked; and left it, of all the working men, to him only.
 
-This vicious assumption of honesty in dishonesty—a vice so dangerous, so
-deadly, and so common—seemed, he observed, a little to impress her in his
-favour.  He followed up the advantage, by saying in his pleasantest
-manner: a manner to which she might attach as much or as little meaning
-as she pleased: ‘The side that can prove anything in a line of units,
-tens, hundreds, and thousands, Mrs. Bounderby, seems to me to afford the
-most fun, and to give a man the best chance.  I am quite as much attached
-to it as if I believed it.  I am quite ready to go in for it, to the same
-extent as if I believed it.  And what more could I possibly do, if I did
-believe it!’
+He had been for many years, a quiet silent man, associating but little
+with other men, and used to companionship with his own thoughts.  He had
+never known before the strength of the want in his heart for the frequent
+recognition of a nod, a look, a word; or the immense amount of relief
+that had been poured into it by drops through such small means.  It was
+even harder than he could have believed possible, to separate in his own
+[[Conscience|conscience]] his abandonment by all his fellows from a baseless sense of
+shame and disgrace.
 
-‘You are a singular politician,’ said Louisa.
+The first four days of his [[Endurance|endurance]] were days so long and heavy, that he
+began to be appalled by the prospect before him.  Not only did he see no
+Rachael all the [[Time|time]], but he avoided every chance of seeing her; for,
+although he knew that the prohibition did not yet formally extend to the
+women working in the factories, he found that some of them with whom he
+was acquainted were changed to him, and he feared to try others, and
+dreaded that Rachael might be even singled out from the rest if she were
+seen in his company.  So, he had been quite [[Alone|alone]] during the four days,
+and had spoken to no one, when, as he was leaving his work at [[Night|night]], a
+young man of a very light complexion accosted him in the street.
 
-‘Pardon me; I have not even that merit.  We are the largest party in the
-state, I assure you, Mrs. Bounderby, if we all fell out of our adopted
-ranks and were reviewed together.’
+‘Your name’s Blackpool, ain’t it?’ said the young man.
 
-Mr. Bounderby, who had been in danger of bursting in [[Silence|silence]], interposed
-here with a project for postponing the family dinner till half-past six,
-and taking Mr. [[James Harthouse]] in the meantime on a round of visits to
-the voting and interesting notabilities of Coketown and its vicinity.
-The round of visits was made; and Mr. [[James Harthouse]], with a discreet
-use of his blue coaching, came off triumphantly, though with a
-considerable accession of boredom.
+Stephen coloured to find himself with his hat in his hand, in his
+gratitude for being spoken to, or in the suddenness of it, or both.  He
+made a feint of adjusting the lining, and said, ‘Yes.’
 
-In the evening, he found the dinner-table laid for four, but they sat
-down only three.  It was an appropriate occasion for Mr. Bounderby to
-discuss the flavour of the hap’orth of stewed eels he had purchased in
-the streets at eight years old; and also of the inferior [[Water|water]], specially
-used for laying the [[Dust|dust]], with which he had washed down that repast.  He
-likewise entertained his guest over the soup and fish, with the
-calculation that he (Bounderby) had eaten in his youth at least three
-horses under the guise of polonies and saveloys.  These recitals, Jem, in
-a languid manner, received with ‘charming!’ every now and then; and they
-probably would have decided him to ‘go in’ for Jerusalem again to-morrow
-morning, had he been less curious respecting Louisa.
+‘You are the Hand they have sent to Coventry, I mean?’ said Bitzer, the
+very light young man in question.
 
-‘Is there nothing,’ he thought, glancing at her as she sat at the head of
-the table, where her youthful figure, small and slight, but very
-graceful, looked as pretty as it looked misplaced; ‘is there nothing that
-will move that face?’
+Stephen answered ‘Yes,’ again.
 
-Yes!  By Jupiter, there was something, and here it was, in an unexpected
-shape.  Tom appeared.  She changed as the door opened, and broke into a
-beaming smile.
+‘I supposed so, from their all appearing to keep away from you.  Mr.
+Bounderby wants to speak to you.  You know his [[house]], don’t you?’
 
-A beautiful smile.  Mr. [[James Harthouse]] might not have thought so much of
-it, but that he had wondered so long at her impassive face.  She put out
-her hand—a pretty little soft hand; and her fingers closed upon her
-brother’s, as if she would have carried them to her lips.
+Stephen said ‘Yes,’ again.
 
-‘Ay, ay?’ thought the visitor.  ‘This whelp is the only creature she
-cares for.  So, so!’
+‘Then go straight up there, will you?’ said Bitzer.  ‘You’re expected,
+and have only to tell the servant it’s you.  I belong to the Bank; so, if
+you go straight up without me (I was sent to fetch you), you’ll save me a
+walk.’
 
-The whelp was presented, and took his chair.  The appellation was not
-flattering, but not unmerited.
-
-‘When I was your age, young Tom,’ said Bounderby, ‘I was punctual, or I
-got no dinner!’
-
-‘When you were my age,’ resumed Tom, ‘you hadn’t a wrong balance to get
-right, and hadn’t to dress afterwards.’
-
-‘Never mind that now,’ said Bounderby.
-
-‘[[Well]], then,’ grumbled Tom.  ‘Don’t begin with me.’
-
-‘Mrs. Bounderby,’ said Harthouse, perfectly hearing this under-strain as
-it went on; ‘your brother’s face is quite familiar to me.  Can I have
-seen him abroad?  Or at some public school, perhaps?’
-
-‘No,’ she resumed, quite interested, ‘he has never been abroad yet, and
-was educated here, at [[Home|home]].  Tom, [[Love|love]], I am telling Mr. Harthouse that
-he never saw you abroad.’
-
-‘No such luck, sir,’ said Tom.
-
-There was little enough in him to brighten her face, for he was a sullen
-young fellow, and ungracious in his manner even to her.  So much the
-greater must have been the [[Solitude|solitude]] of her heart, and her need of some
-one on whom to bestow it.  ‘So much the more is this whelp the only
-creature she has ever cared for,’ thought Mr. [[James Harthouse]], turning it
-over and over.  ‘So much the more.  So much the more.’
-
-Both in his sister’s presence, and after she had left the room, the whelp
-took no pains to hide his contempt for Mr. Bounderby, whenever he could
-indulge it without the observation of that independent man, by making wry
-faces, or shutting one eye.  Without responding to these telegraphic
-communications, Mr. Harthouse encouraged him much in the course of the
-evening, and showed an unusual liking for him.  At last, when he [[Rose|rose]] to
-return to his hotel, and was a little doubtful whether he knew the way by
-[[Night|night]], the whelp immediately proffered his services as guide, and turned
-out with him to escort him thither.
-
-            [Picture: Mr. Harthouse dines at the Bounderby’s]
+Stephen, whose way had been in the contrary direction, turned about, and
+betook himself as in duty bound, to the red brick [[Castle|castle]] of the giant
+Bounderby.

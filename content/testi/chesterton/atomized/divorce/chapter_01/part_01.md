@@ -1,5 +1,5 @@
 ---
-title: "[[divorce]] — Chapter 1 (part 1)"
+title: "divorce — Chapter 1 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/divorce-(chesterton)"
@@ -97,7 +97,7 @@ in the [[Bible]], about all men being the children of Adam and Eve.
 Millions of peasants and plain people all over the world assume
 [[Marriage|marriage]] to be static, without having ever clapped eyes on any text.
 Numbers of more modern people, especially after the recent experiments
-in [[america|America]], think [[divorce]] is a social disease, without having ever
+in [[America]], think [[divorce]] is a social disease, without having ever
 bothered about any text.  It may be maintained that even in these,
 or in any one, the idea of [[Marriage|marriage]] is ultimately mystical;
 and the same may be maintained about the idea of brotherhood.

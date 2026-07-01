@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 6"
+title: "Northanger Abbey — Chapter 6"
 author: "Austen"
 unitType: chapter
 parentWork: "works/northanger-abbey-(austen)"

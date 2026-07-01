@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 30 (part 2)"
+title: "Sense and Sensibility — Chapter 30 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_30/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_30/part_03">part 03 ›</a></div>
 </nav>
 
+
+moment—“your poor sister is gone to her own room, I suppose, to moan by
+
+herself. Is there nothing one can get to comfort her? Poor dear, it
 
 seems quite cruel to let her be [[Alone|alone]]. [[Well]], by-and-by we shall have a
 
@@ -207,17 +211,3 @@ she left her.
 In the drawing-room, whither she then repaired, she was soon joined by
 
 Mrs. Jennings, with a wine-glass, full of something, in her hand.
-
-
-
-“My dear,” said she, entering, “I have just recollected that I have
-
-some of the finest old Constantia wine in the [[house]] that ever was
-
-tasted, so I have brought a glass of it for your sister. My poor
-
-husband! how fond he was of it! Whenever he had a touch of his old
-
-colicky gout, he said it did him more good than any thing else in the
-
-world. Do take it to your sister.”

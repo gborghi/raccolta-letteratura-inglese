@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 35 (part 1)"
+title: "The Tenant of Wildfell Hall — Chapter 35 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -102,7 +102,7 @@ I came forward and busied myself with the breakfast things.
 
 she seated herself at the table. “Ah, here comes one that will not
 
-rejoice at it!” she murmured, half to herself, as [[arthur|Arthur]] entered the
+rejoice at it!” she murmured, half to herself, as [[Arthur]] entered the
 
 room.
 
@@ -158,7 +158,7 @@ suppressed. Startled, almost appalled, by this sudden outbreak, she
 
 recoiled in [[Silence|silence]]. I would have given way to my fury and said more,
 
-but [[arthur|Arthur]]’s low laugh recalled me to myself. I checked the
+but [[Arthur]]’s low laugh recalled me to myself. I checked the
 
 half-uttered invective, and scornfully turned away, regretting that I
 
@@ -235,11 +235,3 @@ slightest injury to yourself or any other?”
 
 
 This was spoken in a low, earnest, melting tone, as he bent over me. I
-
-now raised my head; and steadily confronting his gaze, I answered
-
-calmly, “Mr. Hargrave, do you mean to insult me?”
-
-
-
-He was not prepared for this. He paused a moment to recover the shock;

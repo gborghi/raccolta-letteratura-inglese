@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 21 (part 4)"
+title: "Dombey and Son — Chapter 49 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -10,149 +10,130 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/dombey-and-son-(dickens)">Dombey and Son</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_77/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_78/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_77/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_77/part_05">part 05 ›</a></div>
 </nav>
 
 
-The Major replied that it was hard in [[Cleopatra]] to require the world to
-be all heart, and yet to appropriate to herself the hearts of all the
-world; which obliged [[Cleopatra]] to remind him that flattery was
-insupportable to her, and that if he had the boldness to address her in
-that strain any more, she would positively send him [[Home|home]].
+When they were [[Alone|alone]] again, the Captain insisted on her eating a slice
+of dry toast, and drinking a glass of spiced negus (which he made to
+perfection); and, encouraging her with every kind word and
+inconsequential quotation he could possibly think of, led her upstairs
+to her bedroom. But he too had something on his mind, and was not easy
+in his manner.
 
-Withers the Wan, at this period, handing round the tea, Mr Dombey again
-addressed himself to Edith.
+“Good-[[Night|night]], dear heart,” said [[Captain Cuttle]] to her at her
+chamber-door.
 
-“There is not much company here, it would seem?” said Mr Dombey, in his
-own portentous gentlemanly way.
+Florence raised her lips to his face, and kissed him.
 
-“I believe not. We see none.”
+At any other [[Time|time]] the Captain would have been overbalanced by such a
+token of her affection and gratitude; but now, although he was very
+sensible of it, he looked in her face with even more uneasiness than he
+had testified before, and seemed unwilling to leave her.
 
-“Why really,” observed Mrs Skewton from her couch, “there are no people
-here just now with whom we care to associate.”
+“Poor Wal”r!” said the Captain.
 
-“They have not enough heart,” said Edith, with a smile. The very
-twilight of a smile: so singularly were its light and darkness blended.
+“Poor, poor Walter!” sighed Florence.
 
-“My dearest Edith rallies me, you see!” said her mother, shaking her
-head: which shook a little of itself sometimes, as if the palsy
-twinkled now and then in opposition to the diamonds. “Wicked one!”
+“Drownded, ain’t he?” said the Captain.
 
-“You have been here before, if I am not mistaken?” said Mr Dombey.
-Still to Edith.
+Florence shook her head, and sighed.
 
-“Oh, several times. I think we have been everywhere.”
+“Good-[[Night|night]], my lady lass!” said [[Captain Cuttle]], putting out his hand.
 
-“A beautiful country!”
+“God bless you, dear, kind friend!”
 
-“I suppose it is. Everybody says so.”
+But the Captain lingered still.
 
-“Your cousin Feenix raves about it, Edith,” interposed her mother from
-her couch.
+“Is anything the matter, dear [[Captain Cuttle]]?” said Florence, easily
+alarmed in her then state of mind. “Have you anything to tell me?”
 
-The daughter slightly turned her graceful head, and raising her
-eyebrows by a hair’s-breadth, as if her cousin Feenix were of all the
-mortal world the least to be regarded, turned her eyes again towards Mr
-Dombey.
+“To tell you, lady lass!” replied the Captain, meeting her eyes in
+confusion. “No, no; what should I have to tell you, pretty! You don’t
+expect as I’ve got anything good to tell you, sure?”
 
-“I [[Hope|hope]], for the credit of my good taste, that I am tired of the
-neighbourhood,” she said.
+“No!” said Florence, shaking her head.
 
-“You have almost reason to be, Madam,” he replied, glancing at a
-variety of landscape drawings, of which he had already recognised
-several as representing neighbouring points of view, and which were
-strewn abundantly about the room, “if these beautiful productions are
-from your hand.”
+The Captain looked at her wistfully, and repeated “No,”— still
+lingering, and still showing embarrassment.
 
-She gave him no reply, but sat in a disdainful [[Beauty|beauty]], quite amazing.
+“Poor Wal”r!” said the Captain. “My Wal”r, as I used to call you! Old
+Sol Gills’s nevy! Welcome to all as knowed you, as the [[Flowers|flowers]] in May!
+Where are you got to, brave boy? Drownded, ain’t he?”
 
-“Have they that interest?” said Mr Dombey. “Are they yours?”
+Concluding his apostrophe with this abrupt appeal to Florence, the
+Captain bade her good-[[Night|night]], and descended the stairs, while Florence
+remained at the top, holding the candle out to light him down. He was
+lost in the obscurity, and, judging from the sound of his receding
+footsteps, was in the act of turning into the little parlour, when his
+head and shoulders unexpectedly emerged again, as from the deep,
+apparently for no other purpose than to repeat, “Drownded, ain’t he,
+pretty?” For when he had said that in a tone of tender condolence, he
+disappeared.
 
-“Yes.”
+Florence was very sorry that she should unwittingly, though naturally,
+have awakened these associations in the mind of her protector, by
+taking refuge there; and sitting down before the little table where the
+Captain had arranged the telescope and [[Song|song]]-book, and those other
+rarities, thought of Walter, and of all that was connected with him in
+the past, until she could have almost wished to lie down on her bed and
+fade away. But in her lonely yearning to the dead whom she had loved,
+no thought of [[Home|home]]—no possibility of going back—no presentation of it
+as yet existing, or as sheltering her father—once entered her thoughts.
+She had seen the murder done. In the last lingering natural aspect in
+which she had cherished him through so much, he had been torn out of
+her heart, defaced, and slain. The thought of it was so appalling to
+her, that she covered her eyes, and shrunk trembling from the least
+remembrance of the deed, or of the cruel hand that did it. If her fond
+heart could have held his image after that, it must have broken; but it
+could not; and the void was filled with a wild dread that fled from all
+confronting with its shattered fragments—with such a dread as could
+have risen out of nothing but the depths of such a [[Love|love]], so wronged.
 
-“And you play, I already know.”
+She dared not look into the glass; for the sight of the darkening mark
+upon her bosom made her afraid of herself, as if she bore about her
+something wicked. She covered it up, with a hasty, faltering hand, and
+in the dark; and laid her weary head down, weeping.
 
-“Yes.”
+The Captain did not go to bed for a long [[Time|time]]. He walked to and fro in
+the shop and in the little parlour, for a full hour, and, appearing to
+have composed himself by that exercise, sat down with a [[Grave|grave]] and
+thoughtful face, and read out of a [[prayer|Prayer]]-book the forms of [[prayer]]
+appointed to be used at sea. These were not easily disposed of; the
+good Captain being a mighty slow, gruff reader, and frequently stopping
+at a hard word to give himself such encouragement as “Now, my lad! With
+a will!” or, “Steady, Ed’ard Cuttle, steady!” which had a great effect
+in helping him out of any difficulty. Moreover, his spectacles greatly
+interfered with his powers of vision. But notwithstanding these
+drawbacks, the Captain, being heartily in earnest, read the service to
+the very last line, and with genuine feeling too; and approving of it
+very much when he had done, turned in, under the counter (but not
+before he had been upstairs, and listened at Florence’s door), with a
+serene breast, and a most benevolent visage.
 
-“And sing?”
+The Captain turned out several times in the course of the [[Night|night]], to
+assure himself that his charge was resting quietly; and once, at
+daybreak, found that she was awake: for she called to know if it were
+he, on hearing footsteps near her door.
 
-“Yes.”
+“Yes, my lady lass,” replied the Captain, in a growling whisper. “Are
+you all right, di’mond?”
 
-She answered all these questions with a strange reluctance; and with
-that remarkable air of opposition to herself, already noticed as
-belonging to her [[Beauty|beauty]]. Yet she was not embarrassed, but wholly
-[[Self|self]]-possessed. Neither did she seem to wish to avoid the conversation,
-for she addressed her face, and—so far as she could—her manner also, to
-him; and continued to do so, when he was silent.
+Florence thanked him, and said “Yes.”
 
-“You have many resources against weariness at least,” said Mr Dombey.
+The Captain could not lose so favourable an opportunity of applying his
+mouth to the keyhole, and calling through it, like a hoarse breeze,
+“Poor Wal”r! Drownded, ain’t he?” after which he withdrew, and turning
+in again, slept till seven o’[[Clock|clock]].
 
-“Whatever their efficiency may be,” she returned, “you know them all
-now. I have no more.”
-
-“May I [[Hope|hope]] to prove them all?” said Mr Dombey, with solemn gallantry,
-laying down a drawing he had held, and motioning towards the harp.
-
-“Oh certainly! If you [[Desire|desire]] it!”
-
-She [[Rose|rose]] as she spoke, and crossing by her mother’s couch, and
-directing a stately look towards her, which was instantaneous in its
-duration, but inclusive (if anyone had seen it) of a multitude of
-expressions, among which that of the twilight smile, without the smile
-itself, overshadowed all the rest, went out of the room.
-
-The Major, who was quite forgiven by this [[Time|time]], had wheeled a little
-table up to [[Cleopatra]], and was sitting down to play picquet with her.
-Mr Dombey, not knowing the game, sat down to watch them for his
-edification until Edith should return.
-
-“We are going to have some music, Mr Dombey, I [[Hope|hope]]?” said [[Cleopatra]].
-
-“Mrs Granger has been kind enough to promise so,” said Mr Dombey.
-
-“Ah! That’s very nice. Do you propose, Major?”
-
-“No, Ma’am,” said the Major. “Couldn’t do it.”
-
-“You’re a barbarous being,” replied the lady, “and my hand’s destroyed.
-You are fond of music, Mr Dombey?”
-
-“Eminently so,” was Mr Dombey’s answer.
-
-“Yes. It’s very nice,” said [[Cleopatra]], looking at her cards. “So much
-heart in it—undeveloped recollections of a previous state of
-existence—and all that—which is so truly charming. Do you know,”
-simpered [[Cleopatra]], reversing the knave of clubs, who had come into her
-game with his heels uppermost, “that if anything could tempt me to put
-a period to my life, it would be curiosity to find out what it’s all
-about, and what it means; there are so many provoking mysteries,
-really, that are hidden from us. Major, you to play!”
-
-The Major played; and Mr Dombey, looking on for his instruction, would
-soon have been in a state of dire confusion, but that he gave no
-attention to the game whatever, and sat wondering instead when Edith
-would come back.
-
-She came at last, and sat down to her harp, and Mr Dombey [[Rose|rose]] and
-stood beside her, listening. He had little taste for music, and no
-knowledge of the strain she played, but he saw her bending over it, and
-perhaps he heard among the sounding strings some distant music of his
-own, that tamed the [[Monster|monster]] of the iron [[Road|road]], and made it less
-inexorable.
-
-[[Cleopatra]] had a sharp eye, verily, at picquet. It glistened like a
-bird’s, and did not fix itself upon the game, but pierced the room from
-end to end, and gleamed on harp, performer, listener, everything.
-
-When the haughty [[Beauty|beauty]] had concluded, she arose, and receiving Mr
-Dombey’s thanks and compliments in exactly the same manner as before,
-went with scarcely any pause to the piano, and began there.
-
-[[Edith Granger]], any [[Song|song]] but that! [[Edith Granger]], you are very handsome,
-and your touch upon the keys is brilliant, and your voice is deep and
-rich; but not the air that his neglected daughter sang to his dead son!
-
-Alas, he knows it not; and if he did, what air of hers would stir him,
-rigid man! [[Sleep]], lonely Florence, [[Sleep|sleep]]! Peace in thy [[Dreams|dreams]], although
-the [[Night|night]] has turned dark, and the clouds are gathering, and threaten
-to discharge themselves in hail!
+Nor was he free from his uneasy and embarrassed manner all that day;
+though Florence, being busy with her needle in the little parlour, was
+more calm and tranquil than she had been on the day preceding. Almost
+always when she raised her eyes from her work, she observed the captain
+looking at her, and thoughtfully stroking his chin; and he so often
+hitched his arm-chair close to her, as if he were going to say
+something very confidential, and hitched it away again, as not being
+able to make up his mind how to begin, that in the course of the day he
+cruised completely round the parlour in that frail bark, and more than
+once went ashore against the wainscot or the closet door, in a very
+distressed condition.

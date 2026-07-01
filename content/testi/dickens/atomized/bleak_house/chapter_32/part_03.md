@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 32 (part 3)"
+title: "Bleak House — Chapter 32 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,31 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_32/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_32/part_04">part 04 ›</a></div>
 </nav>
 
+
+“Wasn’t that Snagsby talking to you, Tony?”
+
+“Yes, and he—yes, it was Snagsby,” said Mr. Weevle, altering the
+construction of his sentence.
+
+“On business?”
+
+“No. No business. He was only sauntering by and stopped to prose.”
+
+“I thought it was Snagsby,” says Mr. Guppy, “and thought it as [[Well|well]]
+that he shouldn’t see me, so I waited till he was gone.”
+
+“There we go again, William G.!” cried Tony, looking up for an
+instant. “So mysterious and secret! By George, if we were going to
+commit a murder, we couldn’t have more mystery about it!”
+
+Mr. Guppy affects to smile, and with the view of changing the
+conversation, looks with an admiration, real or pretended, round the
+room at the Galaxy Gallery of British [[Beauty]], terminating his survey
+with the portrait of [[Lady Dedlock]] over the mantelshelf, in which she
+is represented on a terrace, with a pedestal upon the terrace, and a
+vase upon the pedestal, and her shawl upon the vase, and a prodigious
+piece of fur upon the shawl, and her arm on the prodigious piece of
+fur, and a bracelet on her arm.
 
 “That’s very like [[Lady Dedlock]],” says Mr. Guppy. “It’s a speaking
 likeness.”
@@ -124,26 +149,3 @@ They look at one another, and Tony goes listening to the door, and a
 little way upstairs, and a little way downstairs. Comes back and says
 it’s all right and all quiet, and quotes the remark he lately made to
 Mr. Snagsby about their cooking chops at the Sol’s Arms.
-
-“And it was then,” resumes Mr. Guppy, still glancing with remarkable
-aversion at the coat-sleeve, as they pursue their conversation before
-the [[Fire|fire]], leaning on opposite sides of the table, with their heads
-very near together, “that he told you of his having taken the bundle
-of letters from his lodger’s portmanteau?”
-
-“That was the [[Time|time]], sir,” answers Tony, faintly adjusting his
-whiskers. “Whereupon I wrote a line to my dear boy, the Honourable
-William Guppy, informing him of the appointment for to-[[Night|night]] and
-advising him not to call before, Boguey being a slyboots.”
-
-The light vivacious tone of fashionable life which is usually assumed
-by Mr. Weevle sits so ill upon him to-[[Night|night]] that he abandons that and
-his whiskers together, and after looking over his shoulder, appears
-to yield himself up a prey to the horrors again.
-
-“You are to bring the letters to your room to read and compare, and
-to get yourself into a position to tell him all about them. That’s
-the arrangement, isn’t it, Tony?” asks Mr. Guppy, anxiously biting
-his thumb-nail.
-
-“You can’t speak too low. Yes. That’s what he and I agreed.”

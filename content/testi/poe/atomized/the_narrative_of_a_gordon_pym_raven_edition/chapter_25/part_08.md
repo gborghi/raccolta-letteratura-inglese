@@ -14,6 +14,44 @@ tags:
 </nav>
 
 
+      and dreary grandeur of the building, the almost savage aspect of
+
+      the domain, the many [[Melancholy|melancholy]] and [[Time|time]]-honored memories
+
+      connected with both, had much in unison with the feelings of
+
+      utter abandonment which had driven me into that remote and
+
+      unsocial region of the country. Yet although the external abbey,
+
+      with its verdant [[Decay|decay]] hanging about it, suffered but little
+
+      alteration, I gave way, with a [[Child|child]]-like perversity, and
+
+      perchance with a faint [[Hope|hope]] of alleviating my sorrows, to a
+
+      display of more than regal magnificence within. For such follies,
+
+      even in [[Childhood|childhood]], I had imbibed a taste and now they came back
+
+      to me as if in the dotage of grief. Alas, I feel how much even of
+
+      incipient [[Madness|madness]] might have been discovered in the gorgeous and
+
+      fantastic draperies, in the solemn carvings of [[Egypt]], in the wild
+
+      cornices and furniture, in the Bedlam patterns of the carpets of
+
+      tufted gold! I had become a bounden slave in the trammels of
+
+      opium, and my labors and my orders had taken a coloring from my
+
+      [[Dreams|dreams]]. But these absurdities I must not pause to detail. Let me
+
+      speak only of that one chamber, ever accursed, whither in a
+
+      moment of mental [[Alienation|alienation]], I led from the altar as my bride—as
+
       the successor of the unforgotten Ligeia—the fair-haired and
 
       blue-eyed Lady Rowena Trevanion, of Tremaine.
@@ -149,49 +187,3 @@ tags:
       a hatred belonging more to demon than to man. My [[Memory|memory]] flew
 
       back, (oh, with what intensity of regret!) to Ligeia, the
-
-      beloved, the august, the beautiful, the entombed. I revelled in
-
-      recollections of her purity, of her wisdom, of her lofty, her
-
-      ethereal [[Nature|nature]], of her passionate, her idolatrous [[Love|love]]. Now,
-
-      then, did my spirit fully and freely burn with more than all the
-
-      fires of her own. In the excitement of my opium [[Dreams|dreams]] (for I was
-
-      habitually fettered in the shackles of the drug) I would call
-
-      aloud upon her name, during the [[Silence|silence]] of the [[Night|night]], or among
-
-      the sheltered recesses of the glens by day, as if, through the
-
-      wild eagerness, the solemn passion, the consuming ardor of my
-
-      [[Longing|longing]] for the departed, I could restore her to the pathway she
-
-      had abandoned—ah, could it be forever?—upon the earth.
-
-
-
-      About the commencement of the second month of the [[Marriage|marriage]], the
-
-      Lady Rowena was attacked with sudden illness, from which her
-
-      recovery was slow. The fever which consumed her rendered her
-
-      nights uneasy; and in her perturbed state of half-slumber, she
-
-      spoke of sounds, and of motions, in and about the chamber of the
-
-      turret, which I concluded had no origin save in the distemper of
-
-      her fancy, or perhaps in the phantasmagoric influences of the
-
-      chamber itself. She became at length convalescent—finally [[Well|well]].
-
-      Yet but a brief period elapsed, ere a second more violent
-
-      disorder again threw her upon a bed of [[Suffering|suffering]]; and from this
-
-      attack her frame, at all times feeble, never altogether

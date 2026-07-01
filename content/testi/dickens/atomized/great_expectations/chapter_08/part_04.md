@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 8 (part 4)"
+title: "Great Expectations — Chapter 8 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,28 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_08/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_09/part_01">part 01 ›</a></div>
 </nav>
 
+
+“You are to wait here, you boy,” said [[Estella]]; and disappeared and
+closed the door.
+
+I took the opportunity of being [[Alone|alone]] in the courtyard to look at my
+coarse hands and my common boots. My opinion of those accessories was
+not favourable. They had never troubled me before, but they troubled me
+now, as vulgar appendages. I determined to ask Joe why he had ever
+taught me to call those picture-cards Jacks, which ought to be called
+knaves. I wished Joe had been rather more genteelly brought up, and
+then I should have been so too.
+
+She came back, with some bread and meat and a little mug of beer. She
+put the mug down on the stones of the yard, and gave me the bread and
+meat without looking at me, as insolently as if I were a dog in
+disgrace. I was so humiliated, hurt, spurned, offended, angry, sorry,—I
+cannot hit upon the right name for the smart—God knows what its name
+was,—that [[Tears|tears]] started to my eyes. The moment they sprang there, the
+girl looked at me with a quick delight in having been the cause of
+them. This gave me power to keep them back and to look at her: so, she
+gave a contemptuous toss—but with a sense, I thought, of having made
+too sure that I was so wounded—and left me.
 
 But when she was gone, I looked about me for a place to hide my face
 in, and got behind one of the gates in the brewery-lane, and leaned my

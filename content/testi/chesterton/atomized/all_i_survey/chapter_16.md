@@ -59,7 +59,7 @@ Yet it is very unlikely that the State will ever put a tax
 on tigers; because, alas! these beautiful creatures are rare
 in our English lanes and still rarer by our English firesides.
 Any [[Lover|lover]] of [[Nature|nature]] who has seen the first tiger appearing
-somewhat prematurely in early [[spring]] will almost certainly
+somewhat prematurely in early [[Spring|spring]] will almost certainly
 (if he survives) write a letter to the newspapers about it,
 as an event even more exceptional than the cuckoo.  There is
 not enough money in tigers to make it worth while to tax them;

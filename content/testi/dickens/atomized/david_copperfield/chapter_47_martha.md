@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 47: MARTHA"
+title: "David Copperfield — Chapter 47: MARTHA"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/david-copperfield-(dickens)"

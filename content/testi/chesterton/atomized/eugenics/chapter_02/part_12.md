@@ -1,5 +1,5 @@
 ---
-title: "[[Eugenics]] — Part 1 (part 12)"
+title: "Eugenics — Part 1 (part 12)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/eugenics-(chesterton)"
@@ -13,6 +13,91 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/eugenics/chapter_02/part_11">‹ part 11</a><a class="ex-next" href="/testi/chesterton/atomized/eugenics/chapter_02/part_13">part 13 ›</a></div>
 </nav>
 
+
+It was best presented perhaps by the distinguished doctor who wrote
+the article on these matters in that composite book which Mr. Wells
+edited, and called "The Great State."  He said the doctor should
+no longer be a mere plasterer of paltry maladies, but should be,
+in his own words, "the health adviser of the community."  The same can
+be expressed with even more point and simplicity in the proverb that
+prevention is better than cure.  Commenting on this, I said that it
+amounted to treating all people who are [[Well|well]] as if they were ill.
+This the writer admitted to be true, only adding that everyone is ill.
+To which I rejoin that if everyone is ill the health advisor is ill too,
+and therefore cannot know how to cure that minimum of illness.
+This is the fundamental fallacy in the whole business of
+preventive medicine.  Prevention is not better than cure.
+Cutting off a man's head is not better than curing his headache;
+it is not even better than failing to cure it.  And it is the same if
+a man is in revolt, even a morbid revolt.  Taking the heart out of him
+by [[Slavery|slavery]] is not better than leaving the heart in him, even if you
+leave it a broken heart.  Prevention is not only not better than cure;
+prevention is even worse than disease.  Prevention means being an
+invalid for life, with the extra exasperation of being quite [[Well|well]].
+I will ask God, but certainly not man, to prevent me in all my doings.
+But the decisive and discussable form of this is [[Well|well]] summed
+up in that phrase about the health adviser of society.
+I am sure that those who speak thus have something in their minds
+larger and more illuminating than the other two propositions we
+have considered.  They do not mean that all citizens should decide,
+which would mean merely the present vague and dubious balance.
+They do not mean that all medical men should decide, which would mean
+a much more unbalanced balance.  They mean that a few men might be
+found who had a consistent scheme and vision of a healthy nation,
+as Napoleon had a consistent scheme and vision of an army.
+It is cold anarchy to say that all men are to meddle in all
+men's marriages.  It is cold anarchy to say that any doctor
+may seize and segregate anyone he likes.  But it is not anarchy
+to say that a few great hygienists might enclose or limit the life
+of all citizens, as nurses do with a family of children.
+It is not anarchy, it is tyranny; but tyranny is a workable thing.
+When we ask by what process such men could be certainly chosen,
+we are back again on the old dilemma of despotism, which means a man,
+or [[democracy]] which means men, or aristocracy which means favouritism.
+But as a vision the thing is plausible and even rational.
+It is rational, and it is wrong.
+
+It is wrong, quite apart from the suggestion that an expert on
+health cannot be chosen.  It is wrong because an expert on health
+cannot exist.  An expert on disease can exist, for the very reason
+we have already considered in the case of [[Madness|madness]], because experts
+can only arise out of exceptional things.  A parallel with any
+of the other learned professions will make the point plain.
+If I am prosecuted for trespass, I will ask my solicitor which of
+the local lanes I am forbidden to walk in.  But if my solicitor,
+having gained my case, were so elated that he insisted on settling
+what lanes I should walk in; if he asked me to let him map out
+all my country walks, because he was the perambulatory adviser
+of the community --- then that Solicitor would solicit in vain.
+If he will insist on walking behind me through woodland ways,
+pointing out with his walking-stick likely avenues and attractive
+short-cuts, I shall turn on him with passion, saying "Sir, I pay
+you to know one particular puzzle in Latin and Norman French,
+which they call the law of England; and you do know the law of England.
+I have never had any earthly reason to suppose that you know England.
+If you did, you would leave a man [[Alone|alone]] when he was looking at it."
+As are the limits of the lawyer's special knowledge about walking,
+so are the limits of the doctor's. If I fall over the stump
+of a tree and break my leg, as is likely enough, I shall say
+to the lawyer, "Please go and fetch the doctor."  I shall do it
+because the doctor really has a larger knowledge of a narrower area.
+There are only a certain number of ways in which a leg can
+be broken; I know none of them, and he knows all of them.
+There is such a thing as being a specialist in broken legs.
+There is no such thing as being a specialist in legs.  When unbroken,
+legs are a matter of taste.  If the doctor has really mended my leg,
+he may merit a colossal equestrian statue on the top of an eternal
+tower of brass.  But if the doctor has really mended my leg he has
+no more rights over it.  He must not come and teach me how to walk;
+because he and I learnt that in the same school, the nursery.
+And there is no more abstract likelihood of the doctor
+walking more elegantly than I do than there is of the barber
+or the bishop or the burglar walking more elegantly than I do.
+There cannot be a general specialist; the specialist can have no
+kind of authority, unless he has avowedly limited his range.
+There cannot be such a thing as the health adviser of the community,
+because there cannot be such a thing as one who specialises
+in the universe.
 
 Thus when Dr. Saleeby says that a young man about to be married
 should be obliged to produce his health-book as he does his bank-book,
@@ -33,100 +118,3 @@ it is for the perfectly simple reason that he has not got one.
 He can mention some extraordinary malady he has; but every man
 of [[Honour|honour]] is expected to do that now, whatever may be the decision
 that follows on the knowledge.
-
-Health is simply [[Nature]], and no naturalist ought to have
-the impudence to understand it.  Health, one may say, is God;
-and no agnostic has any right to claim His acquaintance.
-For God must mean, among other things, that mystical and multitudinous
-balance of all things, by which they are at least able to stand
-up straight and endure; and any scientist who pretends to have
-exhausted this subject of ultimate [[Sanity|sanity]], I will call the lowest
-of religious fanatics.  I will allow him to understand the madman,
-for the madman is an exception.  But if he says he understands
-the sane man, then he says he has the secret of the Creator.
-For whenever you and I feel fully sane, we are quite incapable
-of naming the elements that make up that mysterious simplicity.
-We can no more analyse such peace in the [[Soul|soul]] than we can conceive
-in our heads the whole enormous and dizzy equilibrium by which,
-out of suns roaring like infernos and heavens toppling like precipices,
-He has hanged the world upon nothing.
-
-We conclude, therefore, that unless Eugenic activity be restricted
-to monstrous things like mania, there is no constituted or
-constitutable authority that can really over-rule men in a matter
-in which they are so largely on a level.  In the matter of
-fundamental human rights, nothing can be above Man, except God.
-An institution claiming to come from God might have such authority;
-but this is the last claim the Eugenists are likely to make.
-One caste or one profession seeking to rule men in such matters
-is like a man's right eye claiming to rule him, or his left leg
-to run away with him.  It is [[Madness|madness]].  We now pass on to consider
-whether there is really anything in the way of [[Eugenics]] to be done,
-with such cheerfulness as we may possess after discovering that there
-is nobody to do it.
-
----/---
-
-VI
-
-THE UNANSWERED CHALLENGE
-
-Dr. Saleeby did me the [[Honour|honour]] of referring to me in one of his
-addresses on this subject, and said that even I cannot produce
-any but a feeble-minded [[Child|child]] from a feeble-minded ancestry.
-To which I reply, first of all, that he cannot produce
-a feeble-minded [[Child|child]].  The whole point of our contention is
-that this phrase conveys nothing fixed and outside opinion.
-There is such a thing as mania, which has always been segregated;
-there is such a thing as idiocy, which has always been segregated;
-but feeble-mindedness is a new phrase under which you might
-segregate anybody.  It is essential that this fundamental fallacy
-in the use of statistics should be got somehow into the modern mind.
-Such people must be made to see the point, which is surely plain enough,
-that it is useless to have exact figures if they are exact figures
-about an inexact phrase.  If I say, "There are five fools in Action,"
-it is surely quite clear that, though no mathematician can make
-five the same as four or six, that will not stop you or anyone else
-from finding a few more fools in Action.  Now weak-mindedness,
-like folly, is a term divided from [[Madness|madness]] in this vital manner ---
-that in one sense it applies to all men, in another to most men,
-in another to very many men, and so on.  It is as if Dr. Saleeby
-were to say, "[[Vanity]], I find, is undoubtedly hereditary.  Here is
-Mrs. [[Jones]], who was very sensitive about her sonnets being criticized,
-and I found her little daughter in a new frock looking in the glass.
-The experiment is conclusive, the demonstration is complete;
-there in the first generation is the artistic temperament ---
-that is [[Vanity|vanity]]; and there in the second generation is dress ---
-and that is [[Vanity|vanity]]."  We should answer, "My friend, all is [[Vanity|vanity]],
-[[Vanity|vanity]] and vexation of spirit --- especially when one has to listen
-to [[logic]] of your favourite kind.  Obviously all human beings must
-value themselves; and obviously there is in all such evaluation an
-element of weakness, since it is not the valuation of eternal justice.
-What is the use of your finding by experiment in some people a thing
-we know by reason must be in all of them?"
-
-Here it will be as [[Well|well]] to pause a moment and avert one
-possible misunderstanding.  I do not mean that you and I cannot
-and do not practically see and personally remark on this or that
-eccentric or intermediate type, for which the word "feeble-minded"
-might be a very convenient word, and might correspond to a genuine
-though indefinable fact of experience.  In the same way we might speak,
-and do speak, of such and such a person being "mad with [[Vanity|vanity]]"
-without wanting two keepers to walk in and take the person off.
-But I ask the reader to remember always that I am talking of words,
-not as they are used in talk or novels, but as they will be used,
-and have been used, in warrants and certificates, and Acts of Parliament.
-The distinction between the two is perfectly clear and practical.
-The difference is that a novelist or a talker can be trusted
-to try and hit the mark; it is all to his glory that the cap
-should fit, that the type should be recognized; that he should,
-in a literary sense, hang the right man.  But it is by no means always
-to the interest of governments or officials to hang the right man.
-The fact that they often do stretch words in order to cover
-cases is the whole foundation of having any fixed laws or free
-institutions at all.  My point is not that I have never met anyone
-whom I should call feeble-minded, rather than mad or imbecile.
-My point is that if I want to dispossess a nephew, oust a rival,
-[[Silence|silence]] a blackmailer, or get rid of an importunate widow, there is
-nothing in [[logic]] to prevent my calling them feeble-minded too.
-And the vaguer the charge is the less they will be able to disprove it.

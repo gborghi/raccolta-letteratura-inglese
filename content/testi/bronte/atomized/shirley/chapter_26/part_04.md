@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 26 (part 4)"
+title: "Shirley — Chapter 26 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -12,6 +12,34 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_26/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_26/part_05">part 05 ›</a></div>
 </nav>
+
+
+her in his behalf. She is not often so inconsiderate, so irritable."
+
+
+
+       *       *       *       *       *
+
+
+
+The verbal testimony of two friends of Caroline's to her cousin's
+
+character augmented her favourable opinion of him. William Farren, whose
+
+cottage he had visited in company with Mr. Hall, pronounced him a "real
+
+gentleman;" there was not such another in Briarfield.
+
+He--William--"could do aught for that man. And then to see how t' bairns
+
+liked him, and how t' wife took to him first minute she saw him. He
+
+never went into a [[house]] but t' childer wor about him directly. Them
+
+little things wor like as if they'd a keener sense nor grown-up folks i'
+
+finding our folk's natures."
+
 
 
 Mr. Hall, in answer to a question of Miss Helstone's as to what he
@@ -243,55 +271,3 @@ you can talk sensibly about what you read."
 
 
 "I _am_ fond of reading. I know I have sense, and I know I have
-
-feeling."
-
-
-
-Miss Keeldar here entered.
-
-
-
-"Henry," she said, "I have brought your lunch here. I shall prepare it
-
-for you myself."
-
-
-
-She placed on the table a glass of new milk, a plate of something which
-
-looked not unlike leather, and a utensil which resembled a
-
-toasting-fork.
-
-
-
-"What are you two about," she continued, "ransacking Mr. Moore's desk?"
-
-
-
-"Looking at your old copy-books," returned Caroline.
-
-
-
-"My old copy-books?"
-
-
-
-"French exercise-books. Look here! They must be held precious; they are
-
-kept carefully."
-
-
-
-She showed the bundle. [[Shirley]] snatched it up. "Did not know one was in
-
-existence," she said. "I thought the whole lot had long since lit the
-
-kitchen [[Fire|fire]], or curled the maid's hair at Sympson Grove.--What made you
-
-keep them, Henry?"
-
-
-
-"It is not my doing. I should not have thought of it. It never entered

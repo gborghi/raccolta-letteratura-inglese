@@ -14,6 +14,19 @@ tags:
 </nav>
 
 
+‘Go on, ladies, go on,’ said Daniel. ‘Mrs Quilp, pray ask the ladies to
+stop to supper, and have a couple of lobsters and something light and
+palatable.’
+
+‘I--I--didn’t ask them to tea, Quilp,’ stammered his wife. ‘It’s quite
+an accident.’
+
+‘So much the better, Mrs Quilp; these accidental parties are always the
+pleasantest,’ said the [[Dwarf|dwarf]], rubbing his hands so hard that he seemed
+to be engaged in manufacturing, of the dirt with which they were
+encrusted, little charges for popguns. ‘What! Not going, ladies, you
+are not going, surely!’
+
 His fair enemies tossed their heads slightly as they sought their
 respective bonnets and shawls, but left all verbal contention to Mrs
 Jiniwin, who finding herself in the position of champion, made a faint

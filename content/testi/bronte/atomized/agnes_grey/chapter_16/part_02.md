@@ -1,5 +1,5 @@
 ---
-title: "[[Agnes Grey]] — Chapter 15 (part 2)"
+title: "Agnes Grey — Chapter 15 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/agnes-grey-(bronte)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/agnes_grey/chapter_16/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/agnes_grey/chapter_18/part_01">part 01 ›</a></div>
 </nav>
 
+
+She greeted them, however, with a cheerful smile, and protestations of
+pleasure at the happy meeting equal to their own. They placed
+themselves one on each side of her, and all three walked away chatting
+and laughing as young ladies do when they get together, if they be but
+on tolerably intimate terms. But I, feeling myself to be one too many,
+left them to their merriment and lagged behind, as usual on such
+occasions: I had no relish for walking beside Miss Green or Miss Susan
+like one deaf and dumb, who could neither speak nor be spoken to.
 
 But this [[Time|time]] I was not long [[Alone|alone]]. It struck me, first, as very odd,
 that just as I was thinking about Mr. Weston he should come up and

@@ -1,5 +1,5 @@
 ---
-title: "[[Edward III]] — Scene 6 — monologue ([[King of France|KING OF FRANCE]]) [5]"
+title: "Edward III — Scene 6 — monologue (KING OF FRANCE) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/edward-iii-(shakespeare)"

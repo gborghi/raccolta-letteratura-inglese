@@ -1,5 +1,5 @@
 ---
-title: "[[wifrb11]] — The Mistake of the [[Machine]] (part 4)"
+title: "wifrb11 — The Mistake of the Machine (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -14,11 +14,17 @@ tags:
 </nav>
 
 
-     Usher smote the table and [[Rose|rose]] in a sort of angry triumph.
+     "I'm sorry," said the other.  "I only point out what seems
+a reasonable possibility.  If you could tell by his manner when
+the word that might hang him had come, why shouldn't he tell
+from your manner that the word that might hang him was coming? 
+I should ask for more than words myself before I hanged anybody."
+
+     Usher smote the table and rose in a sort of angry triumph.
 
      "And that," he cried, "is just what I'm going to give you. 
-I tried the [[Machine|machine]] first just in order to test the thing in other ways
-afterwards and the [[Machine|machine]], sir, is right."
+I tried the machine first just in order to test the thing in other ways
+afterwards and the machine, sir, is right."
 
      He paused a moment and resumed with less excitement. 
 "I rather want to insist, if it comes to that, that so far
@@ -28,7 +34,7 @@ ill-fitting, as I've said, but they were rather better, if anything,
 than those of the submerged class to which he evidently belonged. 
 Moreover, under all the stains of his plunging through ploughed fields
 or bursting through dusty hedges, the man was comparatively clean. 
-This might mean, of course, that he had only just broken [[Prison|prison]];
+This might mean, of course, that he had only just broken prison;
 but it reminded me more of the desperate decency of the comparatively
 respectable poor.  His demeanour was, I am bound to confess,
 quite in accordance with theirs.  He was silent and dignified as they are;
@@ -37,13 +43,13 @@ He professed total ignorance of the crime and the whole question;
 and showed nothing but a sullen impatience for something sensible
 that might come to take him out of his meaningless scrape. 
 He asked me more than once if he could telephone for a lawyer
-who had helped him a long [[Time|time]] ago in a trade dispute, and in every sense
-acted as you would expect an [[Innocent|innocent]] man to act.  There was nothing
+who had helped him a long time ago in a trade dispute, and in every sense
+acted as you would expect an innocent man to act.  There was nothing
 against him in the world except that little finger on the dial
 that pointed to the change of his pulse.
 
-     "Then, sir, the [[Machine|machine]] was on its trial; and the [[Machine|machine]] was right. 
-By the [[Time|time]] I came with him out of the private room into the vestibule
+     "Then, sir, the machine was on its trial; and the machine was right. 
+By the time I came with him out of the private room into the vestibule
 where all sorts of other people were awaiting examination,
 I think he had already more or less made up his mind to clear things up
 by something like a confession.  He turned to me and began to say
@@ -55,7 +61,7 @@ stood up, screaming aloud and pointing at him with her finger.
 I have never in my life heard anything more demoniacally distinct. 
 Her lean finger seemed to pick him out as if it were a pea-shooter. 
 Though the word was a mere howl, every syllable was as clear
-as a separate stroke on the clock.
+as a separate stroke on the [[Clock|clock]].
 
      "`Drugger Davis!' she shouted.  `They've got Drugger Davis!'
 
@@ -116,7 +122,3 @@ He didn't write his own, initials in a man's [[Blood|blood]].  Saints alive!
 Can't you see the whole character is different, in good and evil?  
 Why, you don't seem to be like I am a bit.  One would think
 you'd never had any vices of your own."
-
-     The amazed American had already parted his lips in protest
-when the door of his private and official room was hammered
-and rattled in an unceremonious way to which he was totally unaccustomed.

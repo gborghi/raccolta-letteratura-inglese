@@ -55,8 +55,6 @@ XXXVI.            ON SOPHISTICATION
 XXXVII.           ON DRESS AND DECORUM
 XXXVIII.          ON ALGERNON CHARLES SWINBURNE
 
-
-
 I. On the Prudery of Slang
 
 WHAT puzzles me is that so many things which boast of being

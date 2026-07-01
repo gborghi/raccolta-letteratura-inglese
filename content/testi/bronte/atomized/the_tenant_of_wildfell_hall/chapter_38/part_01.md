@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 38 (part 1)"
+title: "The Tenant of Wildfell Hall — Chapter 38 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -237,9 +237,3 @@ a suppressed groan of agony, and paced the room again in a paroxysm of
 renewed agitation. My heart smote me; but I would try to console him,
 
 though I knew not how to attempt it.
-
-
-
-“She is a wicked woman,” I said. “She has basely deceived and betrayed
-
-you. She is as little worthy of your regret as she was of your

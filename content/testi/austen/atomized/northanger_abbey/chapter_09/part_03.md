@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 8 (part 3)"
+title: "Northanger Abbey — Chapter 8 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_09/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_10/part_01">part 01 ›</a></div>
 </nav>
 
+
+often done as not.”
+
+
+
+“Nonsense, how can you say so? But when you men have a point to carry,
+
+you never stick at anything. My sweet Catherine, do support me;
+
+persuade your brother how impossible it is. Tell him that it would
 
 quite shock you to see me do such a thing; now would not it?”
 

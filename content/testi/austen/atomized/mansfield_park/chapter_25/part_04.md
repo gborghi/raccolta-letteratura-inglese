@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 25 (part 4)"
+title: "Mansfield Park — Chapter 25 (part 4)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -13,6 +13,23 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/mansfield_park/chapter_25/part_03">‹ part 03</a><a class="ex-next" href="/testi/austen/atomized/mansfield_park/chapter_26/part_01">part 01 ›</a></div>
 </nav>
 
+
+“We shall be the losers,” continued Sir Thomas. “His going, though only
+eight miles, will be an unwelcome contraction of our family circle; but
+I should have been deeply mortified if any son of mine could reconcile
+himself to doing less. It is perfectly natural that you should not have
+thought much on the subject, Mr. Crawford. But a parish has wants and
+claims which can be known only by a clergyman constantly resident, and
+which no proxy can be capable of satisfying to the same extent. [[Edmund]]
+might, in the common phrase, do the duty of Thornton, that is, he might
+read prayers and preach, without giving up [[Mansfield Park]]: he might
+ride over every [[Sunday]], to a [[house]] nominally inhabited, and go through
+divine service; he might be the clergyman of Thornton Lacey every
+seventh day, for three or four hours, if that would content him. But it
+will not. He knows that human [[Nature|nature]] needs more lessons than a weekly
+sermon can convey; and that if he does not live among his parishioners,
+and prove himself, by constant attention, their [[Well|well]]-wisher and friend,
+he does very little either for their good or his own.”
 
 Mr. Crawford bowed his acquiescence.
 

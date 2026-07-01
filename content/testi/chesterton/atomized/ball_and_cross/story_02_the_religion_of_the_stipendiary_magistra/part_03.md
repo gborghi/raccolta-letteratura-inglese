@@ -1,5 +1,5 @@
 ---
-title: "ball and [[Cross|cross]] — The Religion of the Stipendiary Magistrate (part 3)"
+title: "ball and cross — The Religion of the Stipendiary Magistrate (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/ball-and-cross-(chesterton)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ball_and_cross/story_02_the_religion_of_the_stipendiary_magistra/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/ball_and_cross/story_02_the_religion_of_the_stipendiary_magistra/part_04">part 04 ›</a></div>
 </nav>
 
+
+The police magistrate, before whom they were hurried and tried,
+was a Mr. Cumberland Vane, a cheerful, middle-aged gentleman,
+honourably celebrated for the lightness of his sentences and the
+lightness of his conversation.  He occasionally worked himself up
+into a sort of theoretic rage about certain particular offenders,
+such as the men who took pokers to their wives, talked in a loose,
+sentimental way about the desirability of flogging them, and was
+hopelessly bewildered by the fact that the wives seemed even more
+angry with him than with their husbands.  He was a tall, spruce man,
+with a twist of black moustache and incomparable morning dress.
+He looked like a gentleman, and yet, somehow, like a stage gentleman.
+
+He had often treated serious crimes against mere order or property
+with a humane flippancy.  Hence, about the mere breaking of an
+editor's [[Window|window]], he was almost uproarious.
 
 "Come, Mr. MacIan, come," he said, leaning back in his chair,
 "do you generally enter you friends' houses by walking through
@@ -141,12 +157,3 @@ I should still exist.  But if what that devil [[Dreams|dreams]] were true,
 I should not be--I should burst like a bubble and be gone.
 I could not live in that imbecile universe.  Shall I not fight
 for my own existence?"
-
-The magistrate recovered his voice and his presence of mind.
-The first part of the speech, the bombastic and brutally practical
-challenge, stunned him with surprise; but the rest of Evan's remarks,
-branching off as they did into theoretic phrases, gave his vague
-and very English mind (full of memories of the hedging and compromise
-in English public speaking) an indistinct sensation of relief,
-as if the man, though mad, were not so dangerous as he had thought.
-He went into a sort of weary laughter.

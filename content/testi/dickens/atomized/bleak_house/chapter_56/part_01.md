@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 56 (part 1)"
+title: "Bleak House — Chapter 56 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -128,6 +128,3 @@ labours of expressing to do what or to fetch whom. He has written the
 letter B, and there stopped. Of a sudden, in the height of his
 misery, he puts Mr. before it. The old housekeeper suggests Bucket.
 Thank heaven! That’s his meaning.
-
-Mr. Bucket is found to be downstairs, by appointment. Shall he come
-up?

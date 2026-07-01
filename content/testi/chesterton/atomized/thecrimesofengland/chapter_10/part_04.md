@@ -1,5 +1,5 @@
 ---
-title: "[[TheCrimesOfEngland]] — Chapter 10 (part 4)"
+title: "TheCrimesOfEngland — Chapter 10 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thecrimesofengland-(chesterton)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thecrimesofengland/chapter_10/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/thecrimesofengland/chapter_10/part_05">part 05 ›</a></div>
 </nav>
 
+
+should be done with the German Emperor after a victory of the Allies.
+
+Our more feminine advisers incline to the view that he should be shot.
+
+This is to make a mistake about the very [[Nature|nature]] of hereditary monarchy.
+
+Assuredly the Emperor William at his worst would be entitled to say to
+
+his amiable [[Crown]] Prince what Charles II. said when his brother warned
+
+him of the plots of assassins: "They will never kill me to make you
+
+[[King|king]]." Others, of greater monstrosity of mind, have suggested that he
+
+should be sent to St. [[Helena]]. So far as an estimate of his
 
 historical importance goes, he might as [[Well|well]] be sent to Mount Calvary.
 
@@ -28,8 +44,6 @@ hereditary kingship has a horrible and degenerate [[Truth|truth]]. The [[King|ki
 
 dies; he only decays for ever.
 
-
-
 If it were a matter of the smallest importance what happened to the
 
 Emperor William when once his [[house]] had been disarmed, I should satisfy
@@ -37,8 +51,6 @@ Emperor William when once his [[house]] had been disarmed, I should satisfy
 my fancy with another picture of his declining years; a conclusion that
 
 would be peaceful, humane, harmonious, and forgiving.
-
-
 
 In various parts of the lanes and villages of South England the
 
@@ -90,8 +102,6 @@ have known what Poland was and was yet to be; he might have known that
 
 he ate and drank to his damnation, discerning not the [[Body|body]] of God.
 
-
-
 Whether the placing of the present German Emperor in charge of one of
 
 these wayside public-houses would be a jest after _his_ own heart
@@ -130,8 +140,6 @@ cities, but did truly set on [[Fire|fire]] the minds of men, even though it were
 
 [[Fire|fire]] from hell.
 
-
-
 Everything was young once, even Frederick the Great. It was an
 
 appropriate preface to the terrible [[Epic|epic]] of Prussia that it began with
@@ -169,29 +177,3 @@ least a [[Lover|lover]]; and his first campaign was like a [[Love|love]]-story. 
 was pagan in him worshipped the Republic as men worship a woman, and all
 
 that was Catholic in him understood the [[Paradox|paradox]] of Our Lady of
-
-Victories. [[Henry VIII]]., a far less reputable person, was in his early
-
-days a good knight of the later and more florid school of chivalry; we
-
-might almost say that he was a fine old English gentleman so long as he
-
-was young. Even Nero was loved in his first days: and there must have
-
-been some cause to make that Christian maiden cast [[Flowers|flowers]] on his
-
-dishonourable [[Grave|grave]]. But the spirit of the great Hohenzollern smelt from
-
-the first of the charnel. He came out to his first victory like one
-
-broken by defeats; his strength was stripped to the bone and fearful as
-
-a fleshless [[Resurrection|resurrection]]; for the worst of what could come had already
-
-befallen him. The very construction of his kingship was built upon the
-
-destruction of his manhood. He had known the final shame; his [[Soul|soul]] had
-
-surrendered to force. He could not redress that wrong; he could only
-
-repeat it and repay it. He could make the souls of his soldiers

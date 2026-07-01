@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 29 (part 1)"
+title: "Wuthering Heights — Chapter 29 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -120,6 +120,3 @@ coffin loose, and covered it up: not Linton’s side, damn him! I wish
 he’d been soldered in lead. And I bribed the sexton to pull it away
 when I’m laid there, and slide mine out too; I’ll have it made so: and
 then by the [[Time|time]] Linton gets to us he’ll not know which is which!”
-
-“You were very wicked, Mr. [[Heathcliff]]!” I exclaimed; “were you not
-ashamed to disturb the dead?”

@@ -1,5 +1,5 @@
 ---
-title: "[[history]] — Chapter 16"
+title: "history — Chapter 16"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/history-(chesterton)"
@@ -47,7 +47,7 @@ were given the power to commemorate the large humanity of their own land;
 immortalizing a mood as broad and soft as their own brush-work. Come
 naturally, at the right emotional angle, upon a canvass of Gainsborough,
 who painted ladies like landscapes, as great and as unconscious
-with repose, and you will note how subtly the [[artist]] gives to a dress
+with repose, and you will note how subtly the [[Artist|artist]] gives to a dress
 flowing in the foreground something of the divine quality of distance.
 Then you will understand another faded phrase and words spoken far
 away upon the sea; there will rise up quite fresh before you and be
@@ -290,7 +290,7 @@ began on the whole to increase.  Gladstone, an idealistic though
 inconsistent Liberal, rather belatedly realized that the [[Freedom|freedom]]
 he loved in Greece and [[Italy]] had its rights nearer [[Home|home]],
 and may be said to have found a second youth in the gateway
-of the [[Grave|grave]], in the eloquence and emphasis of his [[Conversion|conversion]].
+of the [[Grave|grave]], in the eloquence and emphasis of his [[conversion]].
 And a statesman wearing the opposite label (for what that is worth)
 had the spiritual insight to see that Ireland, if resolved
 to be a nation, was even more resolved to be a peasantry.

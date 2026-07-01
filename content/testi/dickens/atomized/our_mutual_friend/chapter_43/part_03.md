@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 2 (part 3)"
+title: "Our Mutual Friend — Chapter 5 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,148 +14,100 @@ tags:
 </nav>
 
 
-‘Right or wrong,’ muttered Miss Wren, inaudibly, with a visible hitch of
-her chin, ‘I mean to do it, and you may make up your mind to THAT, old
-lady.’
+The looking-glass preserving a discreet ministerial [[Silence|silence]] when thus
+called upon for explanation, Bella went to bed with a weariness upon her
+spirit which was more than the weariness of want of [[Sleep|sleep]]. And again
+in the morning, she looked for the cloud, and for the deepening of the
+cloud, upon the Golden Dustman’s face.
 
-‘Here is the paper, madam,’ said the Jew, delivering into Miss
-Potterson’s hands the original document drawn up by Rokesmith, and
-signed by Riderhood. ‘Will you please to read it?’
+She had begun by this [[Time|time]] to be his frequent companion in his morning
+strolls about the streets, and it was at this [[Time|time]] that he made her a
+party to his engaging in a curious pursuit. Having been hard at work in
+one dull enclosure all his life, he had a [[Child|child]]’s delight in looking
+at shops. It had been one of the first novelties and pleasures of his
+[[Freedom|freedom]], and was equally the delight of his wife. For many years their
+only walks in [[London]] had been taken on Sundays when the shops were shut;
+and when every day in the week became their holiday, they derived an
+enjoyment from the variety and fancy and [[Beauty|beauty]] of the display in the
+windows, which seemed incapable of exhaustion. As if the principal
+streets were a great Theatre and the play were childishly new to them,
+Mr and Mrs Boffin, from the beginning of Bella’s intimacy in their
+[[house]], had been constantly in the front row, charmed with all they saw
+and applauding vigorously. But now, Mr Boffin’s interest began to centre
+in book-shops; and more than that—for that of itself would not have
+been much—in one exceptional kind of book.
 
-‘But first of all,’ said Miss Abbey, ‘—did you ever taste shrub,
-[[Child|child]]?’
+‘Look in here, my dear,’ Mr Boffin would say, checking Bella’s arm at a
+bookseller’s [[Window|window]]; ‘you can read at sight, and your eyes are as sharp
+as they’re bright. Now, look [[Well|well]] about you, my dear, and tell me if you
+see any book about a Miser.’
 
-Miss Wren shook her head.
+If Bella saw such a book, Mr Boffin would instantly dart in and buy
+it. And still, as if they had not found it, they would seek out another
+book-shop, and Mr Boffin would say, ‘Now, look [[Well|well]] all round, my
+dear, for a Life of a Miser, or any book of that sort; any Lives of odd
+characters who may have been Misers.’
 
-‘Should you like to?’
+Bella, thus directed, would examine the [[Window|window]] with the greatest
+attention, while Mr Boffin would examine her face. The moment she
+pointed out any book as being entitled Lives of eccentric personages,
+Anecdotes of strange characters, Records of remarkable individuals, or
+anything to that purpose, Mr Boffin’s countenance would light up, and
+he would instantly dart in and buy it. Size, price, quality, were of no
+account. Any book that seemed to promise a chance of miserly [[Biography|biography]],
+Mr Boffin purchased without a moment’s delay and carried [[Home|home]]. Happening
+to be informed by a bookseller that a portion of the Annual Register was
+devoted to ‘Characters’, Mr Boffin at once bought a whole set of that
+ingenious compilation, and began to carry it [[Home|home]] piecemeal, confiding
+a volume to Bella, and bearing three himself. The completion of this
+labour occupied them about a fortnight. When the task was done, Mr
+Boffin, with his appetite for Misers whetted instead of satiated, began
+to look out again.
 
-‘Should if it’s good,’ returned Miss Wren.
+It very soon became unnecessary to tell Bella what to look for, and an
+understanding was established between her and Mr Boffin that she was
+always to look for Lives of Misers. Morning after morning they roamed
+about the town together, pursuing this singular research. Miserly
+literature not being abundant, the proportion of failures to successes
+may have been as a hundred to one; still Mr Boffin, never wearied,
+remained as avaricious for misers as he had been at the first onset. It
+was curious that Bella never saw the books about the [[house]], nor did she
+ever hear from Mr Boffin one word of reference to their contents. He
+seemed to save up his Misers as they had saved up their money. As they
+had been greedy for it, and secret about it, and had hidden it, so he
+was greedy for them, and secret about them, and hid them. But beyond all
+[[Doubt|doubt]] it was to be noticed, and was by Bella very clearly noticed, that,
+as he pursued the acquisition of those dismal records with the ardour of
+[[Don Quixote]] for his books of chivalry, he began to spend his money with
+a more sparing hand. And often when he came out of a shop with some new
+account of one of those wretched lunatics, she would almost shrink from
+the sly dry chuckle with which he would take her arm again and trot
+away. It did not appear that Mrs Boffin knew of this taste. He made
+no allusion to it, except in the morning walks when he and Bella were
+always [[Alone|alone]]; and Bella, partly under the impression that he took her
+into his confidence by implication, and partly in remembrance of Mrs
+Boffin’s anxious face that [[Night|night]], held the same reserve.
 
-‘You shall try. And, if you find it good, I’ll mix some for you with hot
-[[Water|water]]. Put your poor little feet on the fender. It’s a cold, cold [[Night|night]],
-and the fog clings so.’ As Miss Abbey helped her to turn her chair, her
-loosened bonnet dropped on the floor. ‘Why, what lovely hair!’ cried
-Miss Abbey. ‘And enough to make wigs for all the dolls in the world.
-What a quantity!’
+While these occurrences were in progress, Mrs Lammle made the discovery
+that Bella had a fascinating influence over her. The Lammles, originally
+presented by the dear Veneerings, visited the Boffins on all grand
+occasions, and Mrs Lammle had not previously found this out; but now the
+knowledge came upon her all at once. It was a most extraordinary thing
+(she said to Mrs Boffin); she was foolishly susceptible of the power of
+[[Beauty|beauty]], but it wasn’t altogether that; she never had been able to resist
+a natural grace of manner, but it wasn’t altogether that; it was more
+than that, and there was no name for the indescribable extent and degree
+to which she was captivated by this charming girl.
 
-‘Call THAT a quantity?’ returned Miss Wren. ‘Poof! What do you say to
-the rest of it?’ As she spoke, she untied a band, and the golden stream
-fell over herself and over the chair, and flowed down to the ground.
-Miss Abbey’s admiration seemed to increase her perplexity. She beckoned
-the Jew towards her, as she reached down the shrub-bottle from its
-niche, and whispered:
-
-‘[[Child]], or woman?’
-
-‘[[Child]] in years,’ was the answer; ‘woman in [[Self-Reliance|self-reliance]] and trial.’
-
-‘You are talking about Me, good people,’ thought Miss Jenny, sitting in
-her golden bower, warming her feet. ‘I can’t hear what you say, but I
-know your tricks and your manners!’
-
-The shrub, when tasted from a spoon, perfectly harmonizing with Miss
-Jenny’s palate, a judicious amount was mixed by Miss Potterson’s skilful
-hands, whereof Riah too partook. After this preliminary, Miss Abbey read
-the document; and, as often as she raised her eyebrows in so doing,
-the watchful Miss Jenny accompanied the action with an expressive and
-emphatic sip of the shrub and [[Water|water]].
-
-‘As far as this goes,’ said Miss Abbey Potterson, when she had read it
-several times, and thought about it, ‘it proves (what didn’t much need
-proving) that Rogue Riderhood is a [[Villain|villain]]. I have my doubts whether he
-is not the [[Villain|villain]] who solely did the deed; but I have no expectation of
-those doubts ever being cleared up now. I believe I did Lizzie’s father
-wrong, but never Lizzie’s [[Self|self]]; because when things were at the worst I
-trusted her, had perfect confidence in her, and tried to persuade her
-to come to me for a refuge. I am very sorry to have done a man wrong,
-particularly when it can’t be undone. Be kind enough to let Lizzie know
-what I say; not forgetting that if she will come to the Porters, after
-all, bygones being bygones, she will find a [[Home|home]] at the Porters, and a
-friend at the Porters. She knows Miss Abbey of old, remind her, and she
-knows what-like the [[Home|home]], and what-like the friend, is likely to turn
-out. I am generally short and sweet—or short and sour, according as it
-may be and as opinions vary—’ remarked Miss Abbey, ‘and that’s about
-all I have got to say, and enough too.’
-
-But before the shrub and [[Water|water]] was sipped out, Miss Abbey bethought
-herself that she would like to keep a copy of the paper by her. ‘It’s
-not long, sir,’ said she to Riah, ‘and perhaps you wouldn’t mind just
-jotting it down.’ The old man willingly put on his spectacles, and,
-standing at the little desk in the corner where Miss Abbey filed her
-receipts and kept her sample phials (customers’ scores were interdicted
-by the strict administration of the Porters), wrote out the copy in
-a fair round character. As he stood there, doing his methodical
-penmanship, his ancient scribelike figure intent upon the work, and the
-little dolls’ dressmaker sitting in her golden bower before the [[Fire|fire]],
-Miss Abbey had her doubts whether she had not dreamed those two rare
-figures into the bar of the Six Jolly Fellowships, and might not wake
-with a nod next moment and find them gone.
-
-Miss Abbey had twice made the experiment of shutting her eyes and
-opening them again, still finding the figures there, when, dreamlike,
-a confused hubbub arose in the public room. As she started up, and they
-all three looked at one another, it became a noise of clamouring voices
-and of the stir of feet; then all the windows were heard to be hastily
-thrown up, and shouts and cries came floating into the [[house]] from
-the [[River|river]]. A moment more, and Bob Gliddery came clattering along the
-passage, with the noise of all the nails in his boots condensed into
-every separate nail.
-
-‘What is it?’ asked Miss Abbey.
-
-‘It’s summut run down in the fog, ma’am,’ answered Bob. ‘There’s ever so
-many people in the [[River|river]].’
-
-‘Tell ’em to put on all the kettles!’ cried Miss Abbey. ‘See that the
-boiler’s full. Get a bath out. Hang some blankets to the [[Fire|fire]]. Heat some
-stone bottles. Have your senses about you, you girls down stairs, and
-use ’em.’
-
-While Miss Abbey partly delivered these directions to Bob—whom she
-seized by the hair, and whose head she knocked against the wall, as a
-general injunction to vigilance and presence of mind—and partly hailed
-the kitchen with them—the company in the public room, jostling one
-another, rushed out to the causeway, and the outer noise increased.
-
-‘Come and look,’ said Miss Abbey to her visitors. They all three hurried
-to the vacated public room, and passed by one of the windows into the
-wooden verandah overhanging the [[River|river]].
-
-‘Does anybody down there know what has happened?’ demanded Miss Abbey,
-in her voice of authority.
-
-‘It’s a steamer, Miss Abbey,’ cried one blurred figure in the fog.
-
-‘It always IS a steamer, Miss Abbey,’ cried another.
-
-‘Them’s her lights, Miss Abbey, wot you see a-blinking yonder,’ cried
-another.
-
-‘She’s a-blowing off her steam, Miss Abbey, and that’s what makes the
-fog and the noise worse, don’t you see?’ explained another.
-
-Boats were putting off, torches were lighting up, people were rushing
-tumultuously to the [[Water|water]]’s edge. Some man fell in with a splash, and
-was pulled out again with a roar of laughter. The drags were called for.
-A cry for the life-buoy passed from mouth to mouth. It was impossible to
-make out what was going on upon the [[River|river]], for every boat that put off
-sculled into the fog and was lost to view at a boat’s length. Nothing
-was clear but that the unpopular steamer was assailed with reproaches
-on all sides. She was the Murderer, bound for Gallows Bay; she was the
-Manslaughterer, bound for Penal Settlement; her captain ought to be
-tried for his life; her crew ran down men in row-boats with a relish;
-she mashed up Thames lightermen with her paddles; she fired property
-with her funnels; she always was, and she always would be, wreaking
-destruction upon somebody or something, after the manner of all her
-kind. The whole bulk of the fog teemed with such taunts, uttered in
-tones of universal hoarseness. All the while, the steamer’s lights moved
-spectrally a very little, as she lay-to, waiting the upshot of whatever
-accident had happened. Now, she began burning blue-lights. These made a
-luminous patch about her, as if she had set the fog on [[Fire|fire]], and in the
-patch—the cries changing their note, and becoming more fitful and more
-excited—shadows of men and boats could be seen moving, while voices
-shouted: ‘There!’ ‘There again!’ ‘A couple more strokes a-head!’
-‘Hurrah!’ ‘Look out!’ ‘Hold on!’ ‘Haul in!’ and the like. Lastly, with
-a few tumbling clots of blue [[Fire|fire]], the [[Night|night]] closed in dark again,
-the wheels of the steamer were heard revolving, and her lights glided
-smoothly away in the direction of the sea.
+This charming girl having the words repeated to her by Mrs Boffin (who
+was proud of her being admired, and would have done anything to give her
+pleasure), naturally recognized in Mrs Lammle a woman of penetration
+and taste. Responding to the sentiments, by being very gracious to Mrs
+Lammle, she gave that lady the means of so improving her opportunity,
+as that the captivation became reciprocal, though always wearing an
+appearance of greater sobriety on Bella’s part than on the enthusiastic
+Sophronia’s. Howbeit, they were so much together that, for a [[Time|time]], the
+Boffin chariot held Mrs Lammle oftener than Mrs Boffin: a preference
+of which the latter worthy [[Soul|soul]] was not in the least jealous, placidly
+remarking, ‘Mrs Lammle is a younger companion for her than I am, and
+Lor! she’s more fashionable.’

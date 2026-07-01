@@ -14,6 +14,14 @@ tags:
 </nav>
 
 
+      in, keeping, however, at a respectful distance. Too-wit himself
+
+      remained on board, and, upon our dropping anchor, invited us to
+
+      accompany him on shore, and visit his village in the interior. To
+
+      this Captain Guy consented; and ten savages being left on board
+
       as hostages, a party of us, twelve in all, got in readiness to
 
       attend the chief. We took care to be [[Well|well]] armed, yet without

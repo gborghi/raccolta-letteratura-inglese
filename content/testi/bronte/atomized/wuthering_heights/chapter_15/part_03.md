@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 15 (part 3)"
+title: "Wuthering Heights — Chapter 15 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_15/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_17/part_01">part 01 ›</a></div>
 </nav>
 
+
+“You teach me now how cruel you’ve been—cruel and false. _Why_ did you
+despise me? _Why_ did you betray your own heart, Cathy? I have not one
+word of comfort. You deserve this. You have killed yourself. Yes, you
+may kiss me, and cry; and wring out my kisses and [[Tears|tears]]: they’ll blight
+you—they’ll damn you. You loved me—then what _right_ had you to leave
+me? What right—answer me—for the poor fancy you felt for Linton?
+Because misery and degradation, and [[Death|death]], and nothing that God or
+[[Satan]] could inflict would have parted us, _you_, of your own will, did
+it. I have not broken your heart—_you_ have broken it; and in breaking
+it, you have broken mine. So much the worse for me that I am strong. Do
+I want to live? What kind of living will it be when you—oh, God! would
+_you_ like to live with your [[Soul|soul]] in the [[Grave|grave]]?”
 
 “Let me [[Alone|alone]]. Let me [[Alone|alone]],” sobbed Catherine. “If I’ve done wrong,
 I’m dying for it. It is enough! You left me too: but I won’t upbraid

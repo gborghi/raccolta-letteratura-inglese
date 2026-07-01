@@ -14,6 +14,110 @@ tags:
 </nav>
 
 
+      chattered, and his eyes were starting from their sockets.
+
+      “Proceed!” he at length said hoarsely to Bedloe.
+
+
+
+      “For many minutes,” continued the latter, “my sole sentiment—my
+
+      sole feeling—was that of darkness and nonentity, with the
+
+      consciousness of [[Death|death]]. At length there seemed to pass a violent
+
+      and sudden shock through my [[Soul|soul]], as if of electricity. With it
+
+      came the sense of elasticity and of light. This latter I felt—not
+
+      saw. In an instant I seemed to rise from the ground. But I had no
+
+      bodily, no visible, audible, or palpable presence. The crowd had
+
+      departed. The tumult had ceased. The [[City|city]] was in comparative
+
+      repose. Beneath me lay my corpse, with the arrow in my temple,
+
+      the whole head greatly swollen and disfigured. But all these
+
+      things I felt—not saw. I took interest in nothing. Even the
+
+      corpse seemed a matter in which I had no concern. Volition I had
+
+      none, but appeared to be impelled into motion, and flitted
+
+      buoyantly out of the [[City|city]], retracing the circuitous path by which
+
+      I had entered it. When I had attained that point of the ravine in
+
+      the [[Mountains|mountains]] at which I had encountered the hyena, I again
+
+      experienced a shock as of a galvanic battery; the sense of
+
+      weight, of volition, of substance, returned. I became my original
+
+      [[Self|self]], and bent my steps eagerly homeward—but the past had not
+
+      lost the vividness of the real—and not now, even for an instant,
+
+      can I compel my understanding to regard it as [[A Dream|a dream]].”
+
+
+
+      “Nor was it,” said Templeton, with an air of deep solemnity, “yet
+
+      it would be difficult to say how otherwise it should be termed.
+
+      Let us suppose only, that the [[Soul|soul]] of the man of to-day is upon
+
+      the verge of some stupendous psychal discoveries. Let us content
+
+      ourselves with this supposition. For the rest I have some
+
+      explanation to make. Here is a watercolor drawing, which I should
+
+      have shown you before, but which an unaccountable sentiment of
+
+      horror has hitherto prevented me from showing.”
+
+
+
+      We looked at the picture which he presented. I saw nothing in it
+
+      of an extraordinary character, but its effect upon Bedloe was
+
+      prodigious. He nearly fainted as he gazed. And yet it was but a
+
+      miniature portrait—a miraculously accurate one, to be sure—of his
+
+      own very remarkable features. At least this was my thought as I
+
+      regarded it.
+
+
+
+      “You will perceive,” said Templeton, “the date of this picture—it
+
+      is here, scarcely visible, in this corner—1780. In this year was
+
+      the portrait taken. It is the likeness of a dead friend—a Mr.
+
+      Oldeb—to whom I became much attached at Calcutta, during the
+
+      administration of Warren [[Hastings]]. I was then only twenty years
+
+      old. When I first saw you, Mr. Bedloe, at Saratoga, it was the
+
+      miraculous similarity which existed between yourself and the
+
+      painting which induced me to accost you, to seek your [[Friendship|friendship]],
+
+      and to bring about those arrangements which resulted in my
+
+      becoming your constant companion. In accomplishing this point, I
+
+      was urged partly, and perhaps principally, by a regretful [[Memory|memory]]
+
       of the deceased, but also, in part, by an uneasy, and not
 
       altogether horrorless curiosity respecting yourself.
@@ -101,133 +205,3 @@ tags:
 
 
       “N. B.—The poisonous sangsue of Charlottesville may always be
-
-      distinguished from the medicinal leech by its blackness, and
-
-      especially by its writhing or vermicular motions, which very
-
-      nearly resemble those of a snake.”
-
-
-
-      I was speaking with the editor of the paper in question, upon the
-
-      topic of this remarkable accident, when it occurred to me to ask
-
-      how it happened that the name of the deceased had been given as
-
-      Bedlo.
-
-
-
-      “I presume,” I said, “you have authority for this spelling, but I
-
-      have always supposed the name to be written with an e at the
-
-      end.”
-
-
-
-      “Authority?—no,” he replied. “It is a mere typographical error.
-
-      The name is Bedlo with an e, all the world over, and I never knew
-
-      it to be spelt otherwise in my life.”
-
-
-
-      “Then,” said I mutteringly, as I turned upon my heel, “then
-
-      indeed has it come to pass that one [[Truth|truth]] is stranger than any
-
-      fiction—for Bedloe, without the e, what is it but Oldeb
-
-      conversed! And this man tells me that it is a typographical
-
-      error.”
-
-
-
-
-
-
-
-
-
-THE SPECTACLES
-
-
-
-
-
-      Many years ago, it was the fashion to ridicule the idea of “[[Love|love]]
-
-      at first sight;” but those who think, not less than those who
-
-      feel deeply, have always advocated its existence. Modern
-
-      discoveries, indeed, in what may be termed ethical magnetism or
-
-      magnetoesthetics, render it probable that the most natural, and,
-
-      consequently, the truest and most intense of the human affections
-
-      are those which arise in the heart as if by electric sympathy—in
-
-      a word, that the brightest and most enduring of the psychal
-
-      fetters are those which are riveted by a glance. The confession I
-
-      am about to make will add another to the already almost
-
-      innumerable instances of the [[Truth|truth]] of the position.
-
-
-
-      My story requires that I should be somewhat minute. I am still a
-
-      very young man—not yet twenty-two years of age. My name, at
-
-      present, is a very usual and rather plebeian one—Simpson. I say
-
-      “at present;” for it is only lately that I have been so
-
-      called—having legislatively adopted this surname within the last
-
-      year in order to receive a large inheritance left me by a distant
-
-      male relative, Adolphus Simpson, Esq. The bequest was conditioned
-
-      upon my taking the name of the testator,—the family, not the
-
-      Christian name; my Christian name is Napoleon Bonaparte—or, more
-
-      properly, these are my first and middle appellations.
-
-
-
-      I assumed the name, Simpson, with some reluctance, as in my true
-
-      patronym, Froissart, I felt a very pardonable [[Pride|pride]]—believing
-
-      that I could trace a descent from the immortal author of the
-
-      “Chronicles.” While on the subject of names, by the bye, I may
-
-      mention a singular coincidence of sound attending the names of
-
-      some of my immediate predecessors. My father was a Monsieur
-
-      Froissart, of [[Paris]]. His wife—my mother, whom he married at
-
-      fifteen—was a Mademoiselle Croissart, eldest daughter of
-
-      Croissart the banker, whose wife, again, being only sixteen when
-
-      married, was the eldest daughter of one Victor Voissart. Monsieur
-
-      Voissart, very singularly, had married a lady of similar name—a
-
-      Mademoiselle Moissart. She, too, was quite a [[Child|child]] when married;
-
-      and her mother, also, Madame Moissart, was only fourteen when led

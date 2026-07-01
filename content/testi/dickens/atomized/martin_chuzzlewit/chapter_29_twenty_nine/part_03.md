@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 29: TWENTY NINE (part 3)"
+title: "Martin Chuzzlewit — Chapter 29: TWENTY NINE (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_29_twenty_nine/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_29_twenty_nine/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘Oh dear me!’ cried the patient, ‘oh dear, dear!’
+
+‘There!’ said Mrs Prig, ‘that’s the way he’s been a-conductin of
+himself, Sarah, ever since I got him out of bed, if you’ll believe it.’
 
 ‘Instead of being grateful,’ Mrs Gamp observed, ‘for all our little
 ways. Oh, fie for shame, sir, fie for shame!’
@@ -130,8 +135,3 @@ but fifty. At length it was lost, or said to be; and for the next five
 minutes she was face to face with the coachman, go wherever he might,
 protesting that it should be ‘made good,’ though she took the question
 to the [[house|House]] of Commons.
-
-At last, her bundle, and her pattens, and her basket, and everything
-else, being disposed of, she took a friendly leave of Poll and Mr
-Bailey, dropped a curtsey to John Westlock, and parted as from a
-cherished member of the sisterhood with Betsey Prig.

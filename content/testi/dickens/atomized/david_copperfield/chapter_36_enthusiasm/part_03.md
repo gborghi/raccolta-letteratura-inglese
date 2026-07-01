@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 36: ENTHUSIASM (part 3)"
+title: "David Copperfield — Chapter 36: ENTHUSIASM (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_36_enthusiasm/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_36_enthusiasm/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘I came out to inquire whether Annie would like to go to the opera
+tonight,’ said Mr. Maldon, turning to her. ‘It’s the last good [[Night|night]]
+there will be, this season; and there’s a singer there, whom she really
+ought to hear. She is perfectly exquisite. Besides which, she is so
+charmingly ugly,’ relapsing into languor.
 
 The Doctor, ever pleased with what was likely to please his young wife,
 turned to her and said:
@@ -111,17 +117,3 @@ Dora through this thicket, axe in hand.
 
 ‘I am very much obliged to you, my dear Traddles!’ said I. ‘I’ll begin
 tomorrow.’
-
-Traddles looked astonished, as he [[Well|well]] might; but he had no notion as
-yet of my rapturous condition.
-
-‘I’ll buy a book,’ said I, ‘with a good scheme of this art in it; I’ll
-work at it at the Commons, where I haven’t half enough to do; I’ll take
-down the speeches in our [[Court|court]] for practice--Traddles, my dear fellow,
-I’ll master it!’
-
-‘Dear me,’ said Traddles, opening his eyes, ‘I had no idea you were such
-a determined character, Copperfield!’
-
-I don’t know how he should have had, for it was new enough to me. I
-passed that off, and brought Mr. Dick on the carpet.

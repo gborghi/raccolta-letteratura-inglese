@@ -1,5 +1,5 @@
 ---
-title: "[[Timon]] of Athens — Act II, Scene 2 — exchange (CAPHIS) [2]"
+title: "Timon of Athens — Act II, Scene 2 — exchange (CAPHIS) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/timon-of-athens-(shakespeare)"

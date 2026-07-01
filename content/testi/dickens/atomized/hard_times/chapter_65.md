@@ -1,5 +1,5 @@
 ---
-title: "Hard Times — Chapter 10"
+title: "Hard Times — Chapter 12"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/hard-times-(dickens)"
@@ -14,181 +14,196 @@ tags:
 </nav>
 
 
-CHAPTER X
-MRS. SPARSIT’S STAIRCASE
+CHAPTER XII
+DOWN
 
 
-MRS. SPARSIT’S nerves being slow to recover their tone, the worthy woman
-made a stay of some weeks in duration at Mr. Bounderby’s retreat, where,
-notwithstanding her anchorite turn of mind based upon her becoming
-consciousness of her altered station, she resigned herself with noble
-fortitude to lodging, as one may say, in clover, and feeding on the fat
-of the land.  During the whole term of this recess from the guardianship
-of the Bank, Mrs. Sparsit was a pattern of consistency; continuing to
-take such pity on Mr. Bounderby to his face, as is rarely taken on man,
-and to call his portrait a Noodle to _its_ face, with the greatest
-acrimony and contempt.
+THE national dustmen, after entertaining one another with a great many
+noisy little fights among themselves, had dispersed for the present, and
+Mr. Gradgrind was at [[Home|home]] for the vacation.
 
-Mr. Bounderby, having got it into his explosive composition that Mrs.
-Sparsit was a highly superior woman to perceive that he had that general
-[[Cross|cross]] upon him in his deserts (for he had not yet settled what it was),
-and further that Louisa would have objected to her as a frequent visitor
-if it had comported with his [[Greatness|greatness]] that she should object to anything
-he chose to do, resolved not to lose sight of Mrs. Sparsit easily.  So
-when her nerves were strung up to the pitch of again consuming
-sweetbreads in [[Solitude|solitude]], he said to her at the dinner-table, on the day
-before her departure, ‘I tell you what, ma’am; you shall come down here
-of a Saturday, while the fine weather lasts, and stay till Monday.’  To
-which Mrs. Sparsit returned, in effect, though not of the Mahomedan
-[[Persuasion|persuasion]]: ‘To hear is to obey.’
+He sat writing in the room with the deadly statistical [[Clock|clock]], proving
+something no [[Doubt|doubt]]—probably, in the main, that the Good Samaritan was a
+Bad Economist.  The noise of the rain did not disturb him much; but it
+attracted his attention sufficiently to make him raise his head
+sometimes, as if he were rather remonstrating with the elements.  When it
+thundered very loudly, he glanced towards Coketown, having it in his mind
+that some of the tall chimneys might be struck by [[Lightning|lightning]].
 
-Now, Mrs. Sparsit was not a poetical woman; but she took an idea in the
-[[Nature|nature]] of an allegorical fancy, into her head.  Much watching of Louisa,
-and much consequent observation of her impenetrable demeanour, which
-keenly whetted and sharpened Mrs. Sparsit’s edge, must have given her as
-it were a lift, in the way of inspiration.  She erected in her mind a
-mighty Staircase, with a dark pit of shame and ruin at the [[Bottom|bottom]]; and
-down those stairs, from day to day and hour to hour, she saw Louisa
-coming.
+The thunder was [[rolling]] into distance, and the rain was pouring down like
+a [[deluge]], when the door of his room opened.  He looked round the lamp
+upon his table, and saw, with amazement, his eldest daughter.
 
-It became the business of Mrs. Sparsit’s life, to look up at her
-staircase, and to watch Louisa coming down.  Sometimes slowly, sometimes
-quickly, sometimes several steps at one bout, sometimes stopping, never
-turning back.  If she had once turned back, it might have been the [[Death|death]]
-of Mrs. Sparsit in spleen and grief.
+‘Louisa!’
 
-She had been descending steadily, to the day, and on the day, when Mr.
-Bounderby issued the weekly invitation recorded above.  Mrs. Sparsit was
-in good spirits, and inclined to be conversational.
+‘Father, I want to speak to you.’
 
-‘And pray, sir,’ said she, ‘if I may venture to ask a question
-appertaining to any subject on which you show reserve—which is indeed
-hardy in me, for I [[Well|well]] know you have a reason for everything you do—have
-you received intelligence respecting the robbery?’
+‘What is the matter?  How strange you look!  And good Heaven,’ said Mr.
+Gradgrind, wondering more and more, ‘have you come here exposed to this
+[[Storm|storm]]?’
 
-‘Why, ma’am, no; not yet.  Under the circumstances, I didn’t expect it
-yet.  Rome wasn’t built in a day, ma’am.’
+She put her hands to her dress, as if she hardly knew.  ‘Yes.’  Then she
+uncovered her head, and letting her cloak and hood fall where they might,
+stood looking at him: so colourless, so dishevelled, so defiant and
+despairing, that he was afraid of her.
 
-‘Very true, sir,’ said Mrs. Sparsit, shaking her head.
+‘What is it?  I conjure you, Louisa, tell me what is the matter.’
 
-‘Nor yet in a week, ma’am.’
+She dropped into a chair before him, and put her cold hand on his arm.
 
-‘No, indeed, sir,’ returned Mrs. Sparsit, with a gentle [[Melancholy|melancholy]] upon
-her.
+‘Father, you have trained me from my cradle?’
 
-‘In a similar manner, ma’am,’ said Bounderby, ‘I can wait, you know.  If
-Romulus and Remus could wait, [[Josiah Bounderby]] can wait.  They were
-better off in their youth than I was, however.  They had a she-wolf for a
-[[Nurse|nurse]]; I had only a she-wolf for a grandmother.  She didn’t give any
-milk, ma’am; she gave bruises.  She was a regular Alderney at that.’
+‘Yes, Louisa.’
 
-‘Ah!’ Mrs. Sparsit sighed and shuddered.
+‘I curse the hour in which I was born to such a destiny.’
 
-‘No, ma’am,’ continued Bounderby, ‘I have not heard anything more about
-it.  It’s in hand, though; and young Tom, who rather sticks to business
-at present—something new for him; he hadn’t the schooling _I_ had—is
-helping.  My injunction is, Keep it quiet, and let it seem to blow over.
-Do what you like under the [[Rose|rose]], but don’t give a sign of what you’re
-about; or half a hundred of ’em will combine together and get this fellow
-who has bolted, out of reach for good.  Keep it quiet, and the thieves
-will grow in confidence by little and little, and we shall have ’em.’
+He looked at her in [[Doubt|doubt]] and dread, vacantly repeating: ‘Curse the hour?
+Curse the hour?’
 
-‘Very sagacious indeed, sir,’ said Mrs. Sparsit.  ‘Very interesting.  The
-old woman you mentioned, sir—’
+‘How could you give me life, and take from me all the inappreciable
+things that raise it from the state of conscious [[Death|death]]?  Where are the
+graces of my [[Soul|soul]]?  Where are the sentiments of my heart?  What have you
+done, O father, what have you done, with the [[Garden|garden]] that should have
+bloomed once, in this great wilderness here!’
 
-‘The old woman I mentioned, ma’am,’ said Bounderby, cutting the matter
-short, as it was nothing to boast about, ‘is not laid hold of; but, she
-may take her oath she will be, if that is any satisfaction to her
-villainous old mind.  In the mean [[Time|time]], ma’am, I am of opinion, if you
-ask me my opinion, that the less she is talked about, the better.’
+She struck herself with both her hands upon her bosom.
 
-The same evening, Mrs. Sparsit, in her chamber [[Window|window]], resting from her
-packing operations, looked towards her great staircase and saw Louisa
-still descending.
+‘If it had ever been here, its ashes [[Alone|alone]] would save me from the void in
+which my whole life sinks.  I did not mean to say this; but, father, you
+remember the last [[Time|time]] we conversed in this room?’
 
-She sat by Mr. Harthouse, in an alcove in the [[Garden|garden]], talking very low;
-he stood leaning over her, as they whispered together, and his face
-almost touched her hair.  ‘If not quite!’ said Mrs. Sparsit, straining
-her hawk’s eyes to the utmost.  Mrs. Sparsit was too distant to hear a
-word of their discourse, or even to know that they were speaking softly,
-otherwise than from the expression of their figures; but what they said
-was this:
+He had been so wholly unprepared for what he heard now, that it was with
+difficulty he answered, ‘Yes, Louisa.’
 
-‘You recollect the man, Mr. Harthouse?’
+‘What has risen to my lips now, would have risen to my lips then, if you
+had given me a moment’s help.  I don’t reproach you, father.  What you
+have never nurtured in me, you have never nurtured in yourself; but O! if
+you had only done so long ago, or if you had only neglected me, what a
+much better and much happier creature I should have been this day!’
 
-‘Oh, perfectly!’
+On hearing this, after all his care, he bowed his head upon his hand and
+groaned aloud.
 
-‘His face, and his manner, and what he said?’
+‘Father, if you had known, when we were last together here, what even I
+feared while I strove against it—as it has been my task from infancy to
+strive against every natural prompting that has arisen in my heart; if
+you had known that there lingered in my breast, sensibilities,
+affections, weaknesses capable of being cherished into strength, defying
+all the calculations ever made by man, and no more known to his
+arithmetic than his Creator is,—would you have given me to the husband
+whom I am now sure that I hate?’
 
-‘Perfectly.  And an infinitely dreary person he appeared to me to be.
-Lengthy and prosy in the extreme.  It was knowing to hold forth, in the
-humble-virtue school of eloquence; but, I assure you I thought at the
-[[Time|time]], “My good fellow, you are over-doing this!”’
+He said, ‘No.  No, my poor [[Child|child]].’
 
-‘It has been very difficult to me to think ill of that man.’
+‘Would you have doomed me, at any [[Time|time]], to the [[Frost|frost]] and blight that have
+hardened and spoiled me?  Would you have robbed me—for no one’s
+enrichment—only for the greater desolation of this world—of the
+immaterial part of my life, the [[spring]] and [[Summer|summer]] of my belief, my refuge
+from what is sordid and bad in the real things around me, my school in
+which I should have learned to be more humble and more trusting with
+them, and to [[Hope|hope]] in my little sphere to make them better?’
 
-‘My dear Louisa—as Tom says.’  Which he never did say.  ‘You know no good
-of the fellow?’
+‘O no, no.  No, Louisa.’
 
-‘No, certainly.’
+‘Yet, father, if I had been stone blind; if I had groped my way by my
+sense of touch, and had been free, while I knew the shapes and surfaces
+of things, to exercise my fancy somewhat, in regard to them; I should
+have been a million times wiser, happier, more loving, more contented,
+more [[Innocent|innocent]] and human in all good respects, than I am with the eyes I
+have.  Now, hear what I have come to say.’
 
-‘Nor of any other such person?’
+He moved, to support her with his arm.  She rising as he did so, they
+stood close together: she, with a hand upon his shoulder, looking fixedly
+in his face.
 
-‘How can I,’ she returned, with more of her first manner on her than he
-had lately seen, ‘when I know nothing of them, men or women?’
+‘With a hunger and thirst upon me, father, which have never been for a
+moment appeased; with an ardent impulse towards some region where rules,
+and figures, and definitions were not quite absolute; I have grown up,
+battling every inch of my way.’
 
-‘My dear Louisa, then consent to receive the submissive representation of
-your devoted friend, who knows something of several varieties of his
-excellent fellow-creatures—for excellent they are, I am quite ready to
-believe, in spite of such little foibles as always helping themselves to
-what they can get hold of.  This fellow talks.  [[Well]]; every fellow talks.
-He professes [[morality]].  [[Well]]; all sorts of humbugs profess [[morality]].
-From the [[house|House]] of Commons to the [[house|House]] of Correction, there is a general
-profession of [[morality]], except among our people; it really is that
-exception which makes our people quite reviving.  You saw and heard the
-case.  Here was one of the fluffy classes pulled up extremely short by my
-esteemed friend Mr. Bounderby—who, as we know, is not possessed of that
-delicacy which would soften so tight a hand.  The member of the fluffy
-classes was injured, exasperated, left the [[house]] grumbling, met somebody
-who proposed to him to go in for some share in this Bank business, went
-in, put something in his pocket which had nothing in it before, and
-relieved his mind extremely.  Really he would have been an uncommon,
-instead of a common, fellow, if he had not availed himself of such an
-opportunity.  Or he may have originated it altogether, if he had the
-cleverness.’
+‘I never knew you were unhappy, my [[Child|child]].’
 
-‘I almost feel as though it must be bad in me,’ returned Louisa, after
-sitting thoughtful awhile, ‘to be so ready to agree with you, and to be
-so lightened in my heart by what you say.’
+‘Father, I always knew it.  In this strife I have almost repulsed and
+crushed my better angel into a demon.  What I have learned has left me
+doubting, misbelieving, despising, regretting, what I have not learned;
+and my dismal resource has been to think that life would soon go by, and
+that nothing in it could be worth the [[Pain|pain]] and trouble of a contest.’
 
-‘I only say what is reasonable; nothing worse.  I have talked it over
-with my friend Tom more than once—of course I remain on terms of perfect
-confidence with Tom—and he is quite of my opinion, and I am quite of his.
-Will you walk?’
+‘And you so young, Louisa!’ he said with pity.
 
-They strolled away, among the lanes beginning to be indistinct in the
-twilight—she leaning on his arm—and she little thought how she was going
-down, down, down, Mrs. Sparsit’s staircase.
+‘And I so young.  In this condition, father—for I show you now, without
+[[Fear|fear]] or favour, the ordinary deadened state of my mind as I know it—you
+proposed my husband to me.  I took him.  I never made a pretence to him
+or you that I loved him.  I knew, and, father, you knew, and he knew,
+that I never did.  I was not wholly indifferent, for I had a [[Hope|hope]] of
+being pleasant and useful to Tom.  I made that wild escape into something
+visionary, and have slowly found out how wild it was.  But Tom had been
+the subject of all the little tenderness of my life; perhaps he became so
+because I knew so [[Well|well]] how to pity him.  It matters little now, except as
+it may dispose you to think more leniently of his errors.’
 
-[[Night]] and day, Mrs. Sparsit kept it standing.  When Louisa had arrived at
-the [[Bottom|bottom]] and disappeared in the gulf, it might fall in upon her if it
-would; but, until then, there it was to be, a Building, before Mrs.
-Sparsit’s eyes.  And there Louisa always was, upon it.
+As her father held her in his arms, she put her other hand upon his other
+shoulder, and still looking fixedly in his face, went on.
 
-And always gliding down, down, down!
+‘When I was irrevocably married, there [[Rose|rose]] up into rebellion against the
+tie, the old strife, made fiercer by all those causes of disparity which
+arise out of our two individual natures, and which no general laws shall
+ever rule or state for me, father, until they shall be able to direct the
+anatomist where to strike his knife into the [[Secrets|secrets]] of my [[Soul|soul]].’
 
-Mrs. Sparsit saw [[James Harthouse]] come and go; she heard of him here and
-there; she saw the changes of the face he had studied; she, too, remarked
-to a nicety how and when it clouded, how and when it cleared; she kept
-her black eyes wide open, with no touch of pity, with no touch of
-compunction, all absorbed in interest.  In the interest of seeing her,
-ever drawing, with no hand to stay her, nearer and nearer to the [[Bottom|bottom]]
-of this new Giant’s Staircase.
+‘Louisa!’ he said, and said imploringly; for he [[Well|well]] remembered what had
+passed between them in their former interview.
 
-With all her deference for Mr. Bounderby as contradistinguished from his
-portrait, Mrs. Sparsit had not the smallest intention of interrupting the
-descent.  Eager to see it accomplished, and yet patient, she waited for
-the last fall, as for the ripeness and fulness of the harvest of her
-hopes.  Hushed in expectancy, she kept her wary gaze upon the stairs; and
-seldom so much as darkly shook her right mitten (with her fist in it), at
-the figure coming down.
+‘I do not reproach you, father, I make no complaint.  I am here with
+another object.’
+
+‘What can I do, [[Child|child]]?  Ask me what you will.’
+
+‘I am coming to it.  Father, chance then threw into my way a new
+acquaintance; a man such as I had had no experience of; used to the
+world; light, polished, easy; making no pretences; avowing the low
+estimate of everything, that I was half afraid to form in secret;
+conveying to me almost immediately, though I don’t know how or by what
+degrees, that he understood me, and read my thoughts.  I could not find
+that he was worse than I.  There seemed to be a near affinity between us.
+I only wondered it should be worth his while, who cared for nothing else,
+to care so much for me.’
+
+‘For you, Louisa!’
+
+Her father might instinctively have loosened his hold, but that he felt
+her strength departing from her, and saw a wild dilating [[Fire|fire]] in the eyes
+steadfastly regarding him.
+
+‘I say nothing of his plea for claiming my confidence.  It matters very
+little how he gained it.  Father, he did gain it.  What you know of the
+story of my [[Marriage|marriage]], he soon knew, just as [[Well|well]].’
+
+Her father’s face was ashy white, and he held her in both his arms.
+
+‘I have done no worse, I have not disgraced you.  But if you ask me
+whether I have loved him, or do [[Love|love]] him, I tell you plainly, father,
+that it may be so.  I don’t know.’
+
+She took her hands suddenly from his shoulders, and pressed them both
+upon her side; while in her face, not like itself—and in her figure,
+drawn up, resolute to finish by a last effort what she had to say—the
+feelings long suppressed broke loose.
+
+‘This [[Night|night]], my husband being away, he has been with me, declaring
+himself my [[Lover|lover]].  This minute he expects me, for I could release myself
+of his presence by no other means.  I do not know that I am sorry, I do
+not know that I am ashamed, I do not know that I am degraded in my own
+esteem.  All that I know is, your [[philosophy]] and your teaching will not
+save me.  Now, father, you have brought me to this.  Save me by some
+other means!’
+
+He tightened his hold in [[Time|time]] to prevent her sinking on the floor, but
+she cried out in a terrible voice, ‘I shall die if you hold me!  Let me
+fall upon the ground!’  And he laid her down there, and saw the [[Pride|pride]] of
+his heart and the triumph of his system, lying, an insensible heap, at
+his feet.
+
+                                * * * * *
+
+                          END OF THE SECOND BOOK

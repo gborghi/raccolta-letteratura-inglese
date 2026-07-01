@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 4 (part 1)"
+title: "Our Mutual Friend — Chapter 6 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,137 +10,138 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_27/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_28/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_27/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_28/part_02">part 02 ›</a></div>
 </nav>
 
 
-Chapter 4
+Chapter 6
 
-CUPID PROMPTED
+A [[Riddle|RIDDLE]] WITHOUT AN ANSWER
 
 
-To use the cold language of the world, Mrs Alfred Lammle rapidly
-improved the acquaintance of Miss Podsnap. To use the warm language of
-Mrs Lammle, she and her sweet Georgiana soon became one: in heart, in
-mind, in sentiment, in [[Soul|soul]].
+Again Mr Mortimer Lightwood and Mr [[Eugene Wrayburn]] sat together in the
+Temple. This evening, however, they were not together in the place of
+business of the eminent solicitor, but in another dismal set of
+chambers facing it on the same second-floor; on whose dungeon-like black
+outer-door appeared the legend:
 
-Whenever Georgiana could escape from the thraldom of Podsnappery; could
-throw off the bedclothes of the custard-coloured phaeton, and get up;
-could shrink out of the range of her mother’s rocking, and (so to speak)
-rescue her poor little frosty toes from being rocked over; she repaired
-to her friend, Mrs Alfred Lammle. Mrs Podsnap by no means objected. As
-a consciously ‘splendid woman,’ accustomed to overhear herself so
-denominated by elderly osteologists pursuing their studies in dinner
-society, Mrs Podsnap could dispense with her daughter. Mr Podsnap, for
-his part, on being informed where Georgiana was, swelled with patronage
-of the Lammles. That they, when unable to lay hold of him, should
-respectfully grasp at the hem of his mantle; that they, when they could
-not bask in the glory of him the sun, should take up with the pale
-reflected light of the watery young [[Moon|moon]] his daughter; appeared quite
-natural, becoming, and proper. It gave him a better opinion of the
-discretion of the Lammles than he had heretofore held, as showing that
-they appreciated the value of the connexion. So, Georgiana repairing
-to her friend, Mr Podsnap went out to dinner, and to dinner, and yet to
-dinner, arm in arm with Mrs Podsnap: settling his obstinate head in his
-cravat and shirt-collar, much as if he were performing on the Pandean
-pipes, in his own [[Honour|honour]], the triumphal march, See the conquering
-Podsnap comes, Sound the trumpets, beat the drums!
+		PRIVATE
 
-It was a trait in Mr Podsnap’s character (and in one form or other
-it will be generally seen to pervade the depths and shallows of
-Podsnappery), that he could not endure a hint of disparagement of any
-friend or acquaintance of his. ‘How dare you?’ he would seem to say, in
-such a case. ‘What do you mean? I have licensed this person. This person
-has taken out MY certificate. Through this person you strike at me,
-Podsnap the Great. And it is not that I particularly care for the
-person’s dignity, but that I do most particularly care for Podsnap’s.’
-Hence, if any one in his presence had presumed to [[Doubt|doubt]] the
-responsibility of the Lammles, he would have been mightily huffed. Not
-that any one did, for Veneering, M.P., was always the authority for
-their being very rich, and perhaps believed it. As indeed he might, if
-he chose, for anything he knew of the matter.
+		MR [[Eugene Wrayburn|EUGENE WRAYBURN]]
 
-Mr and Mrs Lammle’s [[house]] in Sackville Street, Piccadilly, was but
-a temporary residence. It has done [[Well|well]] enough, they informed their
-friends, for Mr Lammle when a bachelor, but it would not do now. So,
-they were always looking at palatial residences in the best situations,
-and always very nearly taking or buying one, but never quite concluding
-the bargain. Hereby they made for themselves a shining little reputation
-apart. People said, on seeing a vacant palatial residence, ‘The very
-thing for the Lammles!’ and wrote to the Lammles about it, and the
-Lammles always went to look at it, but unfortunately it never exactly
-answered. In short, they suffered so many disappointments, that they
-began to think it would be necessary to build a palatial residence.
-And hereby they made another shining reputation; many persons of their
-acquaintance becoming by anticipation dissatisfied with their own
-houses, and envious of the non-existent Lammle structure.
+		MR MORTIMER LIGHTWOOD
 
-The handsome fittings and furnishings of the [[house]] in Sackville Street
-were piled thick and high over the [[skeleton]] up-stairs, and if it ever
-whispered from under its load of upholstery, ‘Here I am in the closet!’
-it was to very few ears, and certainly never to Miss Podsnap’s. What
-Miss Podsnap was particularly charmed with, next to the graces of
-her friend, was the happiness of her friend’s married life. This was
-frequently their theme of conversation.
+		(Mr Lightwood’s Offices opposite.)
 
-‘I am sure,’ said Miss Podsnap, ‘Mr Lammle is like a [[Lover|lover]]. At least
-I—I should think he was.’
+Appearances indicated that this establishment was a very recent
+institution. The white letters of the [[Inscription|inscription]] were extremely white
+and extremely strong to the sense of smell, the complexion of the
+tables and chairs was (like Lady Tippins’s) a little too blooming to
+be believed in, and the carpets and floorcloth seemed to rush at the
+beholder’s face in the unusual prominency of their patterns. But the
+Temple, accustomed to tone down both the still life and the human life
+that has much to do with it, would soon get the better of all that.
 
-‘Georgiana, darling!’ said Mrs Lammle, holding up a forefinger, ‘Take
-care!’
+‘[[Well]]!’ said Eugene, on one side of the [[Fire|fire]], ‘I feel tolerably
+comfortable. I [[Hope|hope]] the upholsterer may do the same.’
 
-‘Oh my goodness me!’ exclaimed Miss Podsnap, reddening. ‘What have I
-said now?’
+‘Why shouldn’t he?’ asked Lightwood, from the other side of the [[Fire|fire]].
 
-‘Alfred, you know,’ hinted Mrs Lammle, playfully shaking her head. ‘You
-were never to say Mr Lammle any more, Georgiana.’
+‘To be sure,’ pursued Eugene, reflecting, ‘he is not in the secret of
+our pecuniary affairs, so perhaps he may be in an easy frame of mind.’
 
-‘Oh! Alfred, then. I am glad it’s no worse. I was afraid I had said
-something shocking. I am always saying something wrong to ma.’
+‘We shall pay him,’ said Mortimer.
 
-‘To me, Georgiana dearest?’
+‘Shall we, really?’ returned Eugene, indolently surprised. ‘You don’t
+say so!’
 
-‘No, not to you; you are not ma. I wish you were.’
+‘I mean to pay him, Eugene, for my part,’ said Mortimer, in a slightly
+injured tone.
 
-Mrs Lammle bestowed a sweet and loving smile upon her friend, which Miss
-Podsnap returned as she best could. They sat at lunch in Mrs Lammle’s
-own boudoir.
+‘Ah! I mean to pay him too,’ retorted Eugene. ‘But then I mean so much
+that I—that I don’t mean.’
 
-‘And so, dearest Georgiana, Alfred is like your notion of a [[Lover|lover]]?’
+‘Don’t mean?’
 
-‘I don’t say that, Sophronia,’ Georgiana replied, beginning to conceal
-her elbows. ‘I haven’t any notion of a [[Lover|lover]]. The dreadful wretches that
-ma brings up at places to torment me, are not [[lovers]]. I only mean that
-Mr—’
+‘So much that I only mean and shall always only mean and nothing more,
+my dear Mortimer. It’s the same thing.’
 
-‘Again, dearest Georgiana?’
+His friend, lying back in his easy chair, watched him lying back in his
+easy chair, as he stretched out his legs on the hearth-rug, and said,
+with the amused look that [[Eugene Wrayburn]] could always awaken in him
+without seeming to try or care:
 
-‘That Alfred—’
+‘Anyhow, your vagaries have increased the bill.’
 
-‘Sounds much better, darling.’
+‘Calls the domestic virtues vagaries!’ exclaimed Eugene, raising his
+eyes to the ceiling.
 
-‘—Loves you so. He always treats you with such delicate gallantry and
-attention. Now, don’t he?’
+‘This very complete little kitchen of ours,’ said Mortimer, ‘in which
+nothing will ever be cooked—’
 
-‘Truly, my dear,’ said Mrs Lammle, with a rather singular expression
-crossing her face. ‘I believe that he loves me, fully as much as I [[Love|love]]
-him.’
+‘My dear, dear Mortimer,’ returned his friend, lazily lifting his head
+a little to look at him, ‘how often have I pointed out to you that its
+moral influence is the important thing?’
 
-‘Oh, what happiness!’ exclaimed Miss Podsnap.
+‘Its moral influence on this fellow!’ exclaimed Lightwood, laughing.
 
-‘But do you know, my Georgiana,’ Mrs Lammle resumed presently, ‘that
-there is something suspicious in your enthusiastic sympathy with
-Alfred’s tenderness?’
+‘Do me the favour,’ said Eugene, getting out of his chair with much
+gravity, ‘to come and inspect that feature of our establishment which
+you rashly disparage.’ With that, taking up a candle, he conducted
+his chum into the fourth room of the set of chambers—a little narrow
+room—which was very completely and neatly fitted as a kitchen. ‘See!’
+said Eugene, ‘miniature flour-barrel, [[rolling]]-pin, spice-box, shelf of
+brown jars, chopping-board, coffee-mill, dresser elegantly furnished
+with crockery, saucepans and pans, roasting jack, a charming kettle, an
+armoury of dish-covers. The moral influence of these objects, in forming
+the domestic virtues, may have an immense influence upon me; not upon
+you, for you are a hopeless case, but upon me. In fact, I have an idea
+that I feel the domestic virtues already forming. Do me the favour to
+step into my bedroom. Secretaire, you see, and abstruse set of solid
+mahogany pigeon-holes, one for every letter of the alphabet. To what use
+do I devote them? I receive a bill—say from [[Jones]]. I docket it neatly
+at the secretaire, [[Jones|JONES]], and I put it into pigeonhole J. It’s the next
+thing to a receipt and is quite as satisfactory to ME. And I very much
+wish, Mortimer,’ sitting on his bed, with the air of a philosopher
+lecturing a disciple, ‘that my example might induce YOU to cultivate
+habits of punctuality and method; and, by means of the moral influences
+with which I have surrounded you, to encourage the formation of the
+domestic virtues.’
 
-‘Good gracious no, I [[Hope|hope]] not!’
+Mortimer laughed again, with his usual commentaries of ‘How CAN you be
+so ridiculous, Eugene!’ and ‘What an absurd fellow you are!’ but when
+his laugh was out, there was something serious, if not anxious, in his
+face. Despite that pernicious assumption of lassitude and indifference,
+which had become his second [[Nature|nature]], he was strongly attached to his
+friend. He had founded himself upon Eugene when they were yet boys at
+school; and at this hour imitated him no less, admired him no less,
+loved him no less, than in those departed days.
 
-‘Doesn’t it rather suggest,’ said Mrs Lammle archly, ‘that my
-Georgiana’s little heart is—’
+‘Eugene,’ said he, ‘if I could find you in earnest for a minute, I would
+try to say an earnest word to you.’
 
-‘Oh don’t!’ Miss Podsnap blushingly besought her. ‘Please don’t! I
-assure you, Sophronia, that I only praise Alfred, because he is your
-husband and so fond of you.’
+‘An earnest word?’ repeated Eugene. ‘The moral influences are beginning
+to work. Say on.’
 
-Sophronia’s glance was as if a rather new light broke in upon her. It
-shaded off into a cool smile, as she said, with her eyes upon her lunch,
-and her eyebrows raised:
+‘[[Well]], I will,’ returned the other, ‘though you are not earnest yet.’
+
+‘In this [[Desire|desire]] for earnestness,’ murmured Eugene, with the air of one
+who was meditating deeply, ‘I trace the happy influences of the little
+flour-barrel and the coffee-mill. Gratifying.’
+
+‘Eugene,’ resumed Mortimer, disregarding the light interruption, and
+laying a hand upon Eugene’s shoulder, as he, Mortimer, stood before him
+seated on his bed, ‘you are withholding something from me.’
+
+Eugene looked at him, but said nothing.
+
+‘All this past [[Summer|summer]], you have been withholding something from me.
+Before we entered on our boating vacation, you were as bent upon it as I
+have seen you upon anything since we first rowed together. But you cared
+very little for it when it came, often found it a tie and a drag upon
+you, and were constantly away. Now it was [[Well|well]] enough half-a-dozen
+times, a dozen times, twenty times, to say to me in your own odd manner,
+which I know so [[Well|well]] and like so much, that your disappearances were
+precautions against our boring one another; but of course after a short
+while I began to know that they covered something. I don’t ask what it
+is, as you have not told me; but the fact is so. Say, is it not?’

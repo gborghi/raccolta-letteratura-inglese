@@ -1,5 +1,5 @@
 ---
-title: "2 [[Henry IV]] — Act II, Scene 3 — monologue (LADY PERCY) [2]"
+title: "2 Henry IV — Act II, Scene 3 — monologue (LADY PERCY) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/2-henry-iv-(shakespeare)"

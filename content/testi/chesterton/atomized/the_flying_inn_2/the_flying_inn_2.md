@@ -1682,7 +1682,7 @@ the reckless and insane experiment of eating bread
 with it.'  You'll get no bread from me, my friend.
 Indeed, Lord Ivywood has given directions that the
 allusion to this ignorant and depraved habit shall be
-eliminated from the Lord's [[Prayer]].  Have a drink."
+eliminated from the Lord's [[prayer|Prayer]].  Have a drink."
 
 He had already poured out a little of the spirit into
 two thick tumblers and a broken teacup, which he had
@@ -3079,7 +3079,7 @@ ninety-two patients who hadn't got anything.  But
 Boone had to keep it dark; naturally, because all his
 lady patients grew mustaches.  It was a result of the
 treatment.  But it wasn't a result he wishes to dwell
-on.  Then there was old Dean [[arthur|Arthur]], who discovered
+on.  Then there was old Dean [[Arthur]], who discovered
 balloons if ever a man did.  He discovered them
 long before they were discovered.  But people were
 suspicious about such things just then--there was a
@@ -9733,7 +9733,7 @@ Thus it happened that his contribution to the metrical
 inquiry into the crooked roads was avowedly hasty
 and flippant.  While Dorian who was of the opposite
 temper, the temper that receives impressions instead
-of pushing out to make them, found his [[Artist|artist]]'s [[Love|love]]
+of pushing out to make them, found his [[artist]]'s [[Love|love]]
 of [[Beauty|beauty]] fulfilled as it had never been before in that
 noble nest; and was far more serious and human than
 usual.  Patrick's verses ran:

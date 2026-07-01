@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 33 (part 3)"
+title: "Shirley — Chapter 33 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -12,6 +12,36 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_33/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_33/part_04">part 04 ›</a></div>
 </nav>
+
+
+"Up here, sir?"
+
+
+
+"Up here, sir; but if you object, she shall go down again."
+
+
+
+"Is this a place or am I a person to bring a lady to, you absurd lad?"
+
+
+
+"No; so I'll take her off."
+
+
+
+"Martin, you will stay here. Who is she?"
+
+
+
+"Your grandmother from that château on the Scheldt Miss Moore talks
+
+about."
+
+
+
+"Martin," said the softest whisper at the door, "don't be foolish."
+
 
 
 "Is she there?" inquired Moore hastily. He had caught an imperfect
@@ -301,39 +331,3 @@ just at midnight, I used to wake from awful [[Dreams|dreams]]; and the book lay
 open before me at the last page, where was written 'Finis.' I had
 
 strange feelings."
-
-
-
-"You speak my experience."
-
-
-
-"I believed I should never see you again; and I grew so thin--as thin as
-
-you are now. I could do nothing for myself--neither rise nor lie down;
-
-and I could not eat. Yet you see I am better."
-
-
-
-"Comforter--sad as sweet. I am too feeble to say what I feel; but while
-
-you speak I _do_ feel."
-
-
-
-"Here I am at your side, where I thought never more to be. Here I speak
-
-to you. I see you listen to me willingly--look at me kindly. Did I count
-
-on that? I despaired."
-
-
-
-Moore sighed--a sigh so deep it was nearly a groan. He covered his eyes
-
-with his hand.
-
-
-
-"May I be spared to make some atonement."

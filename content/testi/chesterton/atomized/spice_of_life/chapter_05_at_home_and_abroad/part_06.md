@@ -1,5 +1,5 @@
 ---
-title: "Spice Of Life — Part 4: AT [[Home|HOME]] AND ABROAD (part 6)"
+title: "Spice Of Life — Part 4: AT HOME AND ABROAD (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/spice-of-life-(chesterton)"
@@ -18,21 +18,21 @@ SCIPIO AND THE CHILDREN
 
 I HAVE lately found myself in the town of Tarragona; famous for
 its vinegar, which it wisely sends abroad, rather than the wine,
-which it still more wisely drinks at [[Home|home]].  I have myself ordered
+which it still more wisely drinks at home.  I have myself ordered
 a fair amount of the wine; I omitted to order any of the vinegar.
-These things are an [[Allegory|allegory]]; for there is something of
+These things are an allegory; for there is something of
 the same contrast between the acid taste of party politics,
 especially anti-clerical politics, which is all that is exported
 to the English papers from Spain, and the rich and joyful vintage
-of popular life and [[Humour|humour]], of which nobody can get the gusto
+of popular life and humour, of which nobody can get the gusto
 except by going to Spain.  I have always noted that there is never
 anything new in the news; and the things which the traveller
 recognizes are never the things that the journalist reports.
 For instance, the thing that struck me first and last in Spain
 was the Spanish children; especially the Spanish little boys,
 and their relation to the Spanish fathers of the Spanish little boys.
-The [[Love|love]] of fathers and sons in this country is one of the great
-[[Poems|poems]] of Christendom; it has, like a bewildering [[Jewel|jewel]], a hundred
+The love of fathers and sons in this country is one of the great
+poems of Christendom; it has, like a bewildering jewel, a hundred
 beautiful aspects, and especially that supremely beautiful aspect;
 that it is a knock in the eye for that nasty-minded old pedant Freud.
 
@@ -61,7 +61,7 @@ his father; probably because he was aiming at something else.
 He shot an arrow that hit me; but I am a BROAD target.
 His bow and his archery were quite inadequate; and would not have
 been tolerated in the scientific Archery School into which he would
-no [[Doubt|doubt]] have been instantly drafted in any state in which sport
+no doubt have been instantly drafted in any state in which sport
 is taken as seriously as it should be.  While I was staring at him,
 and at some other little boys who had assembled, also to stare at him,
 the English traveller interrupted my dream by saying suddenly:
@@ -73,10 +73,10 @@ I was instantly prompted to answer, and almost did answer,
 "Why, of course, the boy with the bow and arrows!  There is
 also the waiter."
 
-But I stopped myself in [[Time|time]], remembering the strange [[philosophy]]
+But I stopped myself in time, remembering the strange philosophy
 of sightseeing; and then I found my mind rather a blank.
 I knew next to nothing about the town, and said so.  I said
-the [[Cathedral]] was very fine; and then added with increasing vagueness;
+the Cathedral was very fine; and then added with increasing vagueness;
 "I'm afraid I don't know anything at all about Tarragona.
 I have a hazy idea that Scipio got buried here or born here.
 I can't even remember which."
@@ -84,7 +84,7 @@ I can't even remember which."
 "Who was it who was buried or born?" he inquired patiently.
 
 "Scipio," I said, with an increasing sense of weakness; then I
-added as in feeble [[Self|self]]-defence, "Africanus."
+added as in feeble self-defence, "Africanus."
 
 He inquired whether I meant that the man was an African.  I feared,
 in any case, that the word `African' would not instantly summon up
@@ -123,7 +123,6 @@ My companion did not reply; and I continued to watch the archer;
 and though [[Apollo]] was a Pagan god, I am glad that such a sun-god
 slew the Punic Python; and that even before the [[Faith]], those ancient
 arrows cast down Moloch for us all.
-
 
 THE REAL ISSUE
 

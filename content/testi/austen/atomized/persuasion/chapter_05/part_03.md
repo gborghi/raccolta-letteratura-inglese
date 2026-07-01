@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 5 (part 3)"
+title: "Persuasion — Chapter 5 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_05/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_06/part_01">part 01 ›</a></div>
 </nav>
 
+
+though I told him how ill I was. He said he should not stay out long;
+
+but he has never come back, and now it is almost one. I assure you, I
+
+have not seen a [[Soul|soul]] this whole long morning.”
+
+
+
+“You have had your little boys with you?”
+
+
+
+“Yes, as long as I could bear their noise; but they are so unmanageable
+
+that they do me more harm than good. Little Charles does not mind a
 
 word I say, and Walter is growing quite as bad.”
 

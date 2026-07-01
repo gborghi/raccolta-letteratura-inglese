@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]] — Concluding Remarks on the Importance of Orthodoxy"
+title: "heret12 — Concluding Remarks on the Importance of Orthodoxy"
 author: "Chesterton"
 unitType: story
 parentWork: "works/heret12-(chesterton)"
@@ -99,10 +99,10 @@ to preach Socialism.  All the art of all the artists looked tiny
 and tedious beside the art which was a byproduct of propaganda.
 
 The reason, indeed, is very simple.  A man cannot be wise enough to be
-a great [[artist]] without being wise enough to wish to be a philosopher.
+a great [[Artist|artist]] without being wise enough to wish to be a philosopher.
 A man cannot have the energy to produce good art without having
-the energy to wish to pass beyond it.  A small [[artist]] is content
-with art; a great [[artist]] is content with nothing except everything.
+the energy to wish to pass beyond it.  A small [[Artist|artist]] is content
+with art; a great [[Artist|artist]] is content with nothing except everything.
 So we find that when real forces, good or bad, like Kipling and
 G. B. S., enter our arena, they bring with them not only startling
 and arresting art, but very startling and arresting dogmas.  And they
@@ -167,7 +167,7 @@ for the same reason that the poet loved it; if we dislike him because of
 his opinions, we are disliking him for the best of all possible reasons.
 If a man comes into Hyde Park to preach it is permissible to hoot him;
 but it is discourteous to applaud him as a performing bear.
-And an [[artist]] is only a performing bear compared with the meanest
+And an [[Artist|artist]] is only a performing bear compared with the meanest
 man who fancies he has anything to say.
 
 There is, indeed, one class of modern writers and thinkers who cannot
@@ -189,7 +189,7 @@ Unfortunately, the philosopher who talks about aspects of [[Truth|truth]]
 generally also asks, "What is [[Truth|truth]]?"  Frequently even he denies
 the existence of [[Truth|truth]], or says it is inconceivable by the
 human intelligence.  How, then, can he recognize its aspects?
-I should not like to be an [[artist]] who brought an architectural
+I should not like to be an [[Artist|artist]] who brought an architectural
 [[Sketch|sketch]] to a builder, saying, "This is the south aspect of
 Sea-View Cottage.  Sea-View Cottage, of course, does not exist."
 I should not even like very much to have to explain,

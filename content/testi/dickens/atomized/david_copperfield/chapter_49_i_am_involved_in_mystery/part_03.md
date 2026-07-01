@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 49: I AM INVOLVED IN MYSTERY (part 3)"
+title: "David Copperfield — Chapter 49: I AM INVOLVED IN MYSTERY (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -129,10 +129,3 @@ is trying, I assure you.’
 ‘That I am convinced of,’ said Mr. Micawber. ‘My dear sir!’ for Mr.
 Dick was shaking hands with him again; ‘I am deeply sensible of your
 cordiality!’
-
-‘How do you find yourself?’ said Mr. Dick, with an anxious look.
-
-‘Indifferent, my dear sir,’ returned Mr. Micawber, sighing.
-
-‘You must keep up your spirits,’ said Mr. Dick, ‘and make yourself as
-comfortable as possible.’

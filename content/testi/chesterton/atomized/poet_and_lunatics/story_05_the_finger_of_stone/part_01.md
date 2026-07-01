@@ -117,7 +117,3 @@ He spoke somewhat sharply, for he was faintly annoyed by
 the attitudes of the antiquarian and the [[artist]], who were deep
 in their own dreamier and less practical tastes and topics.
 Armitage was saying at the moment:
-
-"Yes, I suppose I've seen today some of the very oldest sculpture of
-the veritable Dark Ages.  And it's not stiff like some Byzantine work;
-there's a touch of the true [[Grotesque|grotesque]] you generally get in Gothic."

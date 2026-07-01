@@ -1,5 +1,5 @@
 ---
-title: "[[Some Words with a Mummy]] (part 3)"
+title: "Some Words with a Mummy (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/some-words-with-a-mummy-(poe)"

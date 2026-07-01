@@ -14,6 +14,30 @@ tags:
 </nav>
 
 
+The steamboats to Quebec perform the [[Journey|journey]] in the [[Night|night]]; that is to
+say, they leave Montreal at six in the evening, and arrive at Quebec at
+six next morning.  We made this excursion during our stay in Montreal
+(which exceeded a fortnight), and were charmed by its interest and
+[[Beauty|beauty]].
+
+The impression made upon the visitor by this Gibraltar of [[america|America]]: its
+giddy heights; its citadel suspended, as it were, in the air; its
+picturesque steep streets and frowning gateways; and the splendid views
+which burst upon the eye at every turn: is at once unique and lasting.
+
+It is a place not to be forgotten or mixed up in the mind with other
+places, or altered for a moment in the crowd of scenes a traveller can
+recall.  Apart from the realities of this most picturesque [[City|city]], there
+are associations clustering about it which would make a [[Desert|desert]] rich in
+interest.  The dangerous precipice along whose rocky front, Wolfe and his
+brave companions climbed to glory; the Plains of Abraham, where he
+received his mortal wound; the fortress so chivalrously defended by
+Montcalm; and his soldier’s [[Grave|grave]], dug for him while yet alive, by the
+bursting of a shell; are not the least among them, or among the gallant
+incidents of [[history]].  That is a noble Monument too, and worthy of two
+great nations, which perpetuates the [[Memory|memory]] of both brave generals, and
+on which their names are jointly written.
+
 The [[City|city]] is rich in public institutions and in Catholic churches and
 charities, but it is mainly in the prospect from the site of the Old
 [[government|Government]] [[house|House]], and from the Citadel, that its surpassing [[Beauty|beauty]] lies.
@@ -30,7 +54,7 @@ sunken [[Window|window]] in the fortress and looked at from the shadowed room
 within, forms one of the brightest and most enchanting pictures that the
 eye can rest upon.
 
-In the [[Spring|spring]] of the year, vast numbers of emigrants who have newly
+In the [[spring]] of the year, vast numbers of emigrants who have newly
 arrived from England or from Ireland, pass between Quebec and Montreal on
 their way to the backwoods and new settlements of Canada.  If it be an
 entertaining lounge (as I very often found it) to take a morning stroll
@@ -86,38 +110,3 @@ seldom even a moment’s petulance or harsh complaint broke out among them:
 I felt a stronger [[Love|love]] and [[Honour|honour]] of my kind come glowing on my heart,
 and wished to God there had been many Atheists in the better part of
 human [[Nature|nature]] there, to read this simple lesson in the book of Life.
-
-                                * * * * *
-
-We left Montreal for [[New York]] again, on the thirtieth of May, crossing to
-La Prairie, on the opposite shore of the St. Lawrence, in a steamboat; we
-then took the railroad to St. John’s, which is on the brink of Lake
-Champlain.  Our last greeting in Canada was from the English officers in
-the pleasant barracks at that place (a class of gentlemen who had made
-every hour of our visit memorable by their hospitality and [[Friendship|friendship]]);
-and with ‘Rule Britannia’ sounding in our ears, soon left it far behind.
-
-But Canada has held, and always will retain, a foremost place in my
-remembrance.  Few Englishmen are prepared to find it what it is.
-Advancing quietly; old differences settling down, and being fast
-forgotten; public feeling and private enterprise alike in a sound and
-wholesome state; nothing of flush or fever in its system, but health and
-vigour throbbing in its steady pulse: it is full of [[Hope|hope]] and promise.  To
-me—who had been accustomed to think of it as something left behind in the
-strides of advancing society, as something neglected and forgotten,
-slumbering and wasting in its [[Sleep|sleep]]—the demand for labour and the rates
-of wages; the busy quays of Montreal; the vessels taking in their
-cargoes, and discharging them; the amount of shipping in the different
-ports; the commerce, roads, and public works, all made _to last_; the
-respectability and character of the public journals; and the amount of
-rational comfort and happiness which honest industry may earn: were very
-great surprises.  The steamboats on the lakes, in their conveniences,
-cleanliness, and safety; in the gentlemanly character and bearing of
-their captains; and in the politeness and perfect comfort of their social
-regulations; are unsurpassed even by the famous Scotch vessels,
-deservedly so much esteemed at [[Home|home]].  The inns are usually bad; because
-the custom of boarding at hotels is not so general here as in the States,
-and the British officers, who form a large portion of the society of
-every town, live chiefly at the regimental messes: but in every other
-respect, the traveller in Canada will find as good provision for his
-comfort as in any place I know.

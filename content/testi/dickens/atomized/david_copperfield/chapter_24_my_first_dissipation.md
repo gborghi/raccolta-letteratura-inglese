@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 24: MY FIRST DISSIPATION"
+title: "David Copperfield — Chapter 24: MY FIRST DISSIPATION"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/david-copperfield-(dickens)"

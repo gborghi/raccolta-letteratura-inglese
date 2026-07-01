@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 9 (part 5)"
+title: "Bleak House — Chapter 9 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_09/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_10/part_01">part 01 ›</a></div>
 </nav>
 
+
+At last Mr. Guppy came back, looking something the worse for the
+conference. “My eye, miss,” he said in a low voice, “he’s a Tartar!”
+
+“Pray take some refreshment, sir,” said I.
+
+Mr. Guppy sat down at the table and began nervously sharpening the
+carving-knife on the carving-fork, still looking at me (as I felt
+quite sure without looking at him) in the same unusual manner. The
+sharpening lasted so long that at last I felt a kind of obligation on
+me to raise my eyes in order that I might break the spell under which
+he seemed to labour, of not being able to leave off.
 
 He immediately looked at the dish and began to carve.
 

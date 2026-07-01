@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 12 (part 1)"
+title: "Wuthering Heights — Chapter 12 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -120,8 +120,3 @@ nest in the [[Winter|winter]], full of little skeletons. [[Heathcliff]] set a tr
 over it, and the old ones dared not come. I made him promise he’d never
 shoot a lapwing after that, and he didn’t. Yes, here are more! Did he
 shoot my lapwings, Nelly? Are they red, any of them? Let me look.”
-
-“Give over with that baby-work!” I interrupted, dragging the pillow
-away, and turning the holes towards the mattress, for she was removing
-its contents by handfuls. “Lie down and shut your eyes: you’re
-wandering. There’s a mess! The down is flying about like [[Snow|snow]].”

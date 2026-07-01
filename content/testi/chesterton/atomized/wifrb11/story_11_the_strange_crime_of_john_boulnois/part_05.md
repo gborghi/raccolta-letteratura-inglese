@@ -1,5 +1,5 @@
 ---
-title: "[[wifrb11]] — The Strange Crime of John Boulnois (part 5)"
+title: "wifrb11 — The Strange Crime of John Boulnois (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -122,12 +122,12 @@ triangular opening of shirt-front:  he had assumed it that evening
 in his original purpose of going to see his wife act [[Juliet]].
 
      "I won't keep you long from `The Bloody Thumb' or any other
-catastrophic affairs," said [[Father Brown]], smiling.  "I only came
+catastrophic affairs," said Father Brown, smiling.  "I only came
 to ask you about the crime you committed this evening."
 
      Boulnois looked at him steadily, but a red bar began to show
 across his broad brow; and he seemed like one discovering embarrassment
-for the first [[Time|time]].
+for the first time.
 
      "I know it was a strange crime," assented Brown in a low voice. 
 "Stranger than murder perhaps--to you.  The little sins are sometimes
@@ -137,14 +137,14 @@ six times a week:  and yet you find it sticks to your tongue like
 a nameless atrocity."
 
      "It makes one feel," said the philosopher slowly, "such a
-damned [[Fool|fool]]."
+damned fool."
 
      "I know," assented the other, "but one often has to choose
-between feeling a damned [[Fool|fool]] and being one."
+between feeling a damned fool and being one."
 
-     "I can't analyse myself [[Well|well]]," went on Boulnois; "but sitting
+     "I can't analyse myself well," went on Boulnois; "but sitting
 in that chair with that story I was as happy as a schoolboy
-on a half-holiday.  It was security, [[Eternity|eternity]]--I can't convey it...
+on a half-holiday.  It was security, eternity--I can't convey it...
 the cigars were within reach...the matches were within reach...
 the Thumb had four more appearances to...it was not only a peace,
 but a plenitude.  Then that bell rang, and I thought for one long,
@@ -156,11 +156,11 @@ to speak and his notebook open to write in.  I remembered the Yankee
 interviewer I had forgotten.  His hair was parted in the middle,
 and I tell you that murder--"
 
-     "I understand," said [[Father Brown]].  "I've seen him."
+     "I understand," said Father Brown.  "I've seen him."
 
      "I didn't commit murder," continued the Catastrophist mildly,
 "but only perjury.  I said I had gone across to Pendragon Park
-and shut the door in his face.  That is my crime, [[Father Brown]],
+and shut the door in his face.  That is my crime, Father Brown,
 and I don't know what penance you would inflict for it."
 
      "I shan't inflict any penance," said the clerical gentleman,
@@ -171,8 +171,6 @@ penance which would otherwise have followed your little offence."
      "And what," asked Boulnois, smiling, "is the little penance
 I have so luckily been let off?"
 
-     "Being hanged," said [[Father Brown]].
-
-
+     "Being hanged," said Father Brown.
 
                                 TWELVE

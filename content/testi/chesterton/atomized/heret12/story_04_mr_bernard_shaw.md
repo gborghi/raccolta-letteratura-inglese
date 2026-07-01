@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]] — Mr. Bernard [[Shaw]]"
+title: "heret12 — Mr. Bernard Shaw"
 author: "Chesterton"
 unitType: story
 parentWork: "works/heret12-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 IV.  Mr. Bernard [[Shaw]]
-
 
 In the glad old days, before the rise of modern morbidities,
 when genial old Ibsen filled the world with wholesome joy, and the
@@ -47,7 +46,7 @@ He fronts his audiences with the venerable affectation of [[Mark Antony]]--
    But as you know me all, a plain blunt man."
 
 It is the whole difference between the aim of the orator and
-the aim of any other [[artist]], such as the poet or the sculptor.
+the aim of any other [[Artist|artist]], such as the poet or the sculptor.
 The aim of the sculptor is to convince us that he is a sculptor;
 the aim of the orator, is to convince us that he is not an orator.
 Once let Mr. Chamberlain be mistaken for a practical man, and his
@@ -68,7 +67,7 @@ a standing monument of the advantage of being misunderstood.
 Mr. Bernard [[Shaw]] is always represented by those who disagree
 with him, and, I [[Fear|fear]], also (if such exist) by those who
 agree with him, as a capering humorist, a dazzling acrobat,
-a quick-change [[artist]].  It is said that he cannot be taken seriously,
+a quick-change [[Artist|artist]].  It is said that he cannot be taken seriously,
 that he will defend anything or attack anything, that he will
 do anything to startle and amuse.  All this is not only untrue,
 but it is, glaringly, the opposite of the [[Truth|truth]]; it is as wild

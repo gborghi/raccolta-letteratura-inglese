@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 29 (part 1)"
+title: "Great Expectations — Chapter 29 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -148,8 +148,3 @@ are all [[Well|well]].”
 “Are they any wiser?” said Sarah, with a dismal shake of the head;
 “they had better be wiser, than [[Well|well]]. Ah, Matthew, Matthew! You know
 your way, sir?”
-
-Tolerably, for I had gone up the staircase in the dark, many a [[Time|time]]. I
-ascended it now, in lighter boots than of yore, and tapped in my old
-way at the door of [[Miss Havisham]]’s room. “Pip’s rap,” I heard her say,
-immediately; “come in, Pip.”

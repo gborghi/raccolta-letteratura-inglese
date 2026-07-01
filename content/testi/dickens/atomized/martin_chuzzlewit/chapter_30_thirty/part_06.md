@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 30: THIRTY (part 6)"
+title: "Martin Chuzzlewit — Chapter 30: THIRTY (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,21 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_30_thirty/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_31_thirty_one/part_01">part 01 ›</a></div>
 </nav>
 
+
+Little, indeed! Her mind was so strangely constituted that she would
+have preferred the caresses of a toad, an adder, or a serpent--nay, the
+hug of a bear--to the endearments of Mr Pecksniff.
+
+‘Come, come,’ said that good gentleman, ‘a word or two will set this
+matter right, and establish a pleasant understanding between us. I am
+not angry, my [[Love|love]].’
+
+‘YOU angry!’
+
+‘No,’ said Mr Pecksniff, ‘I am not. I say so. Neither are you.’
+
+There was a beating heart beneath his hand that told another story
+though.
 
 ‘I am sure you are not,’ said Mr Pecksniff: ‘and I will tell you why.
 There are two Martin Chuzzlewits, my dear; and your carrying your anger

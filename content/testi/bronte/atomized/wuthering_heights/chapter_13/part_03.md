@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 13 (part 3)"
+title: "Wuthering Heights — Chapter 13 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -13,6 +13,8 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_13/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_13/part_04">part 04 ›</a></div>
 </nav>
 
+
+“We have none,” he answered; “you must wait on yourself!”
 
 “Where must I [[Sleep|sleep]], then?” I sobbed; I was beyond regarding
 [[Self|self]]-respect, weighed down by fatigue and wretchedness.
@@ -125,10 +127,3 @@ the apartments we passed.
 hinges. “It’s weel eneugh to ate a few porridge in. There’s a pack o’
 corn i’ t’ corner, thear, meeterly clane; if ye’re feared o’ muckying
 yer grand silk cloes, spread yer hankerchir o’ t’ top on’t.”
-
-The “rahm” was a kind of lumber-hole smelling strong of malt and grain;
-various sacks of which articles were piled around, leaving a wide, bare
-space in the middle.
-
-“Why, man,” I exclaimed, facing him angrily, “this is not a place to
-[[Sleep|sleep]] in. I wish to see my bed-room.”

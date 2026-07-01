@@ -1,5 +1,5 @@
 ---
-title: "The Man Who Knew Too Much — The Temple of [[Silence]] (part 8)"
+title: "The Man Who Knew Too Much — The Temple of Silence (part 8)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/the-man-who-knew-too-much-(chesterton)"
@@ -13,6 +13,39 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_07_the_temple_of_silence/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_07_the_temple_of_silence/part_09">part 09 ›</a></div>
 </nav>
 
+
+battle he was conscious that the door was standing open. Somebody
+
+was summoning the roughs from inside.
+The moment they were within they hurled him upon a sort of bench or
+
+bed with violence, but no damage; for the settee, or whatever it
+
+was, seemed to be comfortably cushioned for his reception. Their
+
+violence had in it a great element of haste, and before he could
+
+rise they had all rushed for the door to escape. Whatever bandits
+
+they were that infested this [[Desert|desert]] island, they were obviously
+
+uneasy about their job and very anxious to be quit of it. He had the
+
+flying fancy that regular criminals would hardly be in such a panic.
+
+The next moment the great door crashed to and he could hear the
+
+bolts shriek as they shot into their place, and the feet of the
+
+retreating men scampering and stumbling along the causeway. But
+
+rapidly as it happened, it did not happen before Fisher had done
+
+something that he wanted to do. Unable to rise from his sprawling
+
+attitude in that flash of [[Time|time]], he had shot out one of his long legs
+
+and hooked it round the ankle of the last man disappearing through
 
 the door. The man swayed and toppled over inside the [[Prison|prison]] chamber,
 
@@ -152,40 +185,3 @@ with it a new light broke on his mind. There was something else that
 
 might happen in a moment.
 "Do you know what that means?" he cried. "It means that God himself
-
-may hold a candle to show me your infernal face."
-Then next moment came a crash of thunder; but before the thunder a
-
-white light had filled the whole room for a single split second.
-Fisher had seen two things in front of him. One was the
-
-black-and-white pattern of the iron grating against the sky; the
-
-other was the face in the corner. It was the face of his brother.
-Nothing came from Horne Fisher's lips except a Christian name, which
-
-was followed by a [[Silence|silence]] more dreadful than the dark. At last the
-
-other figure stirred and sprang up, and the voice of Harry Fisher
-
-was heard for the first [[Time|time]] in that horrible room.
-"You've seen me, I suppose," he said, "and we may as [[Well|well]] have a
-
-light now. You could have turned it on at any [[Time|time]], if you'd found
-
-the switch."
-He pressed a button in the wall and all the details of that room
-
-sprang into something stronger than daylight. Indeed, the details
-
-were so unexpected that for a moment they turned the captive's
-
-rocking mind from the last personal revelation. The room, so far
-
-from being a dungeon cell, was more like a drawing-room, even a
-
-lady's drawing-room, except for some boxes of cigars and bottles of
-
-wine that were stacked with books and magazines on a side table. A
-
-second glance showed him that the more masculine fittings were quite

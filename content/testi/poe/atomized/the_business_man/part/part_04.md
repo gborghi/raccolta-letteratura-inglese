@@ -1,5 +1,5 @@
 ---
-title: "[[The Business Man]] (part 4)"
+title: "The Business Man (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-business-man-(poe)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_business_man/part/part_03">‹ part 03</a><span></span></div>
 </nav>
 
+
+      was not avaricious, but my dog was. I allowed him a third of the
+
+      profit, but he was advised to insist upon half. This I couldn’t
+
+      stand—so we quarrelled and parted.
+
+
+
+      I next tried my hand at the Organ-Grinding for a while, and may
+
+      say that I made out pretty [[Well|well]]. It is a plain, straightforward
+
+      business, and requires no particular abilities. You can get a
 
       music-mill for a mere [[Song|song]], and to put it in order, you have but
 

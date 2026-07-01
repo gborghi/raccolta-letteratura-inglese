@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-uses-of-diversity-(chesterton)">The Uses of Diversity</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_uses_of_diversity/story_20_the_silver_goblets">‹ Story 20 The Silver Goblets</a><a class="ex-next" href="/testi/chesterton/atomized/the_uses_of_diversity/story_22_questions_of_divorce">Story 22 Questions of Divorce ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_uses_of_diversity/story_20_the_silver_goblets">‹ Story 20 The Silver Goblets</a><a class="ex-next" href="/testi/chesterton/atomized/the_uses_of_diversity/story_22_questions_of_divorce_divorce">Story 22 Questions of divorce Divorce ›</a></div>
 </nav>
 
 

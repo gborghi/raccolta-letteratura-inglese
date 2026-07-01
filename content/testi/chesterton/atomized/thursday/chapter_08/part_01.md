@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 8 (part 1)"
+title: "thursday — Chapter 8 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -17,7 +17,6 @@ tags:
                          CHAPTER VIII
 
                     [[The Professor|THE PROFESSOR]] EXPLAINS
-
 
 WHEN [[Gabriel Syme]] found himself finally established in a chair,
 and opposite to him, fixed and final also, the lifted eyebrows

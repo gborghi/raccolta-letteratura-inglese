@@ -1,5 +1,5 @@
 ---
-title: "[[wifrb11]]"
+title: "wifrb11"
 author: "Chesterton"
 unitType: work
 parentWork: "works/wifrb11-(chesterton)"
@@ -203,7 +203,7 @@ or:
      etext or this "small print!" statement.  You may however,
      if you wish, distribute this etext in [[Machine|machine]] readable
      binary, compressed, mark-up, or proprietary form,
-     including any form resulting from [[conversion]] by word pro-
+     including any form resulting from [[Conversion|conversion]] by word pro-
      cessing or hypertext software, but only so long as
      *EITHER*:
 
@@ -2918,10 +2918,10 @@ about sunset; and their neighbourhood or some such accidental influence
 had turned their talk to matters of legal process.  From the problem
 of the licence in [[Cross|cross]]-examination, their talk strayed to Roman and
 mediaeval torture, to the examining magistrate in France and
-the Third Degree in [[america|America]].
+the Third Degree in [[America]].
 
      "I've been reading," said [[Flambeau]], "of this new psychometric method
-they talk about so much, especially in [[america|America]].  You know what I mean;
+they talk about so much, especially in [[America]].  You know what I mean;
 they put a pulsometer on a man's wrist and judge by how his heart goes
 at the pronunciation of certain words.  What do you think of it?"
 
@@ -3216,8 +3216,8 @@ to shoot a man than in the curious geological surroundings of that pool,
 where a [[Body|body]] thrown down would sink through thick slime to a depth
 practically unknown.  Let us suppose, then, that our friend
 with the cropped hair came to kill Falconroy and not Todd. 
-But, as I have pointed out, there are many reasons why people in [[america|America]]
-might want to kill Todd.  There is no reason why anybody in [[america|America]]
+But, as I have pointed out, there are many reasons why people in [[America]]
+might want to kill Todd.  There is no reason why anybody in [[America]]
 should want to kill an English lord newly landed, except for the one reason
 mentioned in the pink paper--that the lord is paying his attentions
 to the millionaire's daughter.  Our crop-haired friend,

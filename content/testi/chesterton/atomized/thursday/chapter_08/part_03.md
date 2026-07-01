@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 8 (part 3)"
+title: "thursday — Chapter 8 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -13,6 +13,8 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_08/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_08/part_04">part 04 ›</a></div>
 </nav>
 
+
+"Confound it!" cried Syme.  "And we don't know where he is."
 
 "Yes," said the other in his curious, absent-minded way,
 "I know where he is myself."
@@ -167,7 +169,7 @@ of laughter, or (if they were too far gone) with a roar of
 indignation at the insult.  I cannot describe the surprise I felt
 when my entrance was received with a respectful [[Silence|silence]], followed
 (when I had first opened my lips) with a murmur of admiration.
-The curse of the perfect [[Artist|artist]] had fallen upon me.
+The curse of the perfect [[artist]] had fallen upon me.
 I had been too subtle, I had been too true.  They thought I
 really was the great Nihilist Professor.  I was a healthy-minded
 young man at the [[Time|time]], and I confess that it was a blow.

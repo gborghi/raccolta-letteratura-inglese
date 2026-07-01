@@ -14,6 +14,22 @@ tags:
 </nav>
 
 
+      that I was perishing, and perishing of sheer fright. My brain
+
+      swam—I grew deadly sick—my vision failed—even the glaring
+
+      eyeballs above me grew dim. Making a last strong effort, I at
+
+      length breathed a faint ejaculation to God, and resigned myself
+
+      to die. The sound of my voice seemed to arouse all the latent
+
+      fury of the animal. He precipitated himself at full length upon
+
+      my [[Body|body]]; but what was my astonishment, when, with a long and low
+
+      whine, he commenced licking my face and hands with the greatest
+
       eagerness, and with the most extravagant demonstration of
 
       affection and joy! I was bewildered, utterly lost in
@@ -171,29 +187,3 @@ tags:
       I was, either to leave the guidance of the whipcord and seek out
 
       a new passage, or to climb over the obstacle, and resume the path
-
-      on the other side. The former alternative presented too many
-
-      difficulties and dangers to be thought of without a shudder. In
-
-      my present weak state of both mind and [[Body|body]], I should infallibly
-
-      lose my way if I attempted it, and perish miserably amid the
-
-      dismal and disgusting labyrinths of the hold. I proceeded,
-
-      therefore, without hesitation, to summon up all my remaining
-
-      strength and fortitude, and endeavour, as I best might, to
-
-      clamber over the crate.
-
-
-
-      Upon standing erect, with this end in view, I found the
-
-      undertaking even a more serious task than my fears had led me to
-
-      imagine. On each side of the narrow passage arose a complete wall
-
-      of various heavy lumber, which the least blunder on my part might

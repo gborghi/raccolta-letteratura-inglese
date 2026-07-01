@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 24 (part 3)"
+title: "Wuthering Heights — Chapter 24 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_24/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_27/part_01">part 01 ›</a></div>
 </nav>
 
+
+“‘If you don’t let me in, I’ll kill you!—If you don’t let me in, I’ll
+kill you!’ he rather shrieked than said. ‘Devil! devil!—I’ll kill
+you—I’ll kill you!’
 
 “Joseph uttered his croaking laugh again.
 

@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 19 (part 4)"
+title: "Nicholas Nickleby — Chapter 19 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_19/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_19/part_05">part 05 ›</a></div>
 </nav>
 
+
+‘I wish you’d interfere here, Nickleby,’ said Lord Frederick.
+
+‘What is the matter, my lord?’ demanded Ralph from the [[Bottom|bottom]] of the
+table, where he was supported by Messrs Pyke and Pluck.
+
+‘This fellow, Hawk, is monopolising your niece,’ said Lord Frederick.
+
+‘He has a tolerable share of everything that you lay claim to, my lord,’
+said Ralph with a sneer.
 
 ‘’Gad, so he has,’ replied the young man; ‘deyvle take me if I know
 which is master in my [[house]], he or I.’
@@ -130,20 +140,3 @@ at Miss Nickleby’s eyes is worth [[Double|double]] the money.’
 ‘More,’ said Mr. Pyke.
 
 ‘Far more,’ said Mr. Pluck.
-
-‘How goes the enemy, Snobb?’ asked Sir Mulberry Hawk.
-
-‘Four minutes gone.’
-
-‘Bravo!’
-
-‘Won’t you ma-ake one effort for me, Miss Nickleby?’ asked Lord
-Frederick, after a short interval.
-
-‘You needn’t trouble yourself to inquire, my buck,’ said Sir Mulberry;
-‘Miss Nickleby and I understand each other; she declares on my side, and
-shows her taste. You haven’t a chance, old fellow. [[Time]], Snobb?’
-
-‘Eight minutes gone.’
-
-‘Get the money ready,’ said Sir Mulberry; ‘you’ll soon hand over.’

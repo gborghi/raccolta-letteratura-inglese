@@ -1,5 +1,5 @@
 ---
-title: "[[conversion]] — Chapter 3: THE REAL OBSTACLES (part 2)"
+title: "conversion — Chapter 3: THE REAL OBSTACLES (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/conversion-(chesterton)"

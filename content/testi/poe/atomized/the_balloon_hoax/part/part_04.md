@@ -1,5 +1,5 @@
 ---
-title: "[[The Balloon-Hoax]] (part 4)"
+title: "The Balloon-Hoax (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-balloon-hoax-(poe)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_balloon_hoax/part/part_03">‹ part 03</a><a class="ex-next" href="/testi/poe/atomized/the_balloon_hoax/part/part_05">part 05 ›</a></div>
 </nav>
 
+
+      us, having been made over [[Night|night]], we commenced the inflation this
+
+      morning at daybreak; but owing to a thick fog, which encumbered
+
+      the folds of the silk and rendered it unmanageable, we did not
+
+      get through before nearly eleven o’[[Clock|clock]]. Cut loose, then, in
+
+      high spirits, and [[Rose|rose]] gently but steadily, with a light breeze
+
+      at North, which bore us in the direction of the British Channel.
+
+      Found the ascending force greater than we had expected; and as we
 
       arose higher and so got clear of the cliffs, and more in the
 
@@ -84,7 +98,7 @@ tags:
 
       direction, and our course was brought nearly at right angles to
 
-      that of the [[Wind|wind]]; when we set in motion the [[Spring|spring]] of the screw,
+      that of the [[Wind|wind]]; when we set in motion the [[spring]] of the screw,
 
       and were rejoiced to find it propel us readily as desired. Upon
 
@@ -98,7 +112,7 @@ tags:
 
       discouraged us in no little degree. The steel rod connecting the
 
-      [[Spring|spring]] with the propeller was suddenly jerked out of place, at
+      [[spring]] with the propeller was suddenly jerked out of place, at
 
       the car end, (by a swaying of the car through some movement of
 
@@ -130,7 +144,7 @@ tags:
 
       which bore us on, and in place of beating back to [[Paris]], make an
 
-      attempt to reach the coast of North [[America]]. After slight
+      attempt to reach the coast of North [[america|America]]. After slight
 
       reflection I gave a willing assent to this bold proposition,
 
@@ -167,21 +181,3 @@ tags:
       greatest excitement on board all—an excitement greatly relished
 
       by ourselves, and especially by our two men, who, now under the
-
-      influence of a dram of Geneva, seemed resolved to give all
-
-      scruple, or [[Fear|fear]], to the [[Wind|wind]]. Many of the vessels fired signal
-
-      guns; and in all we were saluted with loud cheers (which we heard
-
-      with surprising distinctness) and the waving of caps and
-
-      handkerchiefs. We kept on in this manner throughout the day, with
-
-      no material incident, and, as the shades of [[Night|night]] closed around
-
-      us, we made a rough estimate of the distance traversed. It could
-
-      not have been less than five hundred miles, and was probably much
-
-      more. The propeller was kept in constant operation, and, no

@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 24"
+title: "Wuthering Heights — Chapter 24"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/wuthering-heights-(bronte)"
@@ -117,7 +117,7 @@ satisfied him better.
 
 “On my second visit Linton seemed in lively spirits; and Zillah (that
 is their housekeeper) made us a clean room and a good [[Fire|fire]], and told us
-that, as Joseph was out at a [[Prayer|prayer]]-meeting and [[Hareton Earnshaw]] was
+that, as Joseph was out at a [[prayer]]-meeting and [[Hareton Earnshaw]] was
 off with his [[dogs]]—robbing our woods of pheasants, as I heard
 afterwards—we might do what we liked. She brought me some warm wine and
 gingerbread, and appeared exceedingly good-natured; and Linton sat in

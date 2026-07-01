@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 42"
+title: "The Tenant of Wildfell Hall — Chapter 42"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -22,7 +22,7 @@ tags:
 
 September 1st.—No Mr. Huntingdon yet. Perhaps he will stay among his
 
-friends till Christmas; and then, next [[spring]], he will be off again. If
+friends till Christmas; and then, next [[Spring|spring]], he will be off again. If
 
 he continue this plan, I shall be able to stay at Grassdale [[Well|well]]
 
@@ -30,7 +30,7 @@ enough—that is, I _shall_ be able to stay, and that is enough; even an
 
 occasional bevy of friends at the shooting season may be borne, if
 
-[[arthur|Arthur]] get so firmly attached to me, so [[Well|well]] established in good sense
+[[Arthur]] get so firmly attached to me, so [[Well|well]] established in good sense
 
 and principles before they come that I shall be able, by reason and
 

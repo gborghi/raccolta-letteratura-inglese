@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 57: THE EMIGRANTS (part 1)"
+title: "David Copperfield — Chapter 57: THE EMIGRANTS (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"

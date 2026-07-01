@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 23 (part 5)"
+title: "The Mystery of Edwin Drood — Chapter 23 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -13,6 +13,31 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_25/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_25/part_06">part 06 ›</a></div>
 </nav>
 
+
+“What’s the medicine?”
+
+“I’ll be honest with you beforehand, as [[Well|well]] as after. It’s opium.”
+
+Mr. Datchery, with a sudden change of countenance, gives her a sudden
+look.
+
+“It’s opium, deary. Neither more nor less. And it’s like a human
+creetur so far, that you always hear what can be said against it, but
+seldom what can be said in its praise.”
+
+Mr. Datchery begins very slowly to count out the sum demanded of him.
+Greedily watching his hands, she continues to hold forth on the great
+example set him.
+
+“It was last Christmas Eve, just arter dark, the once that I was here
+afore, when the young gentleman gave me the three-and-six.” Mr.
+Datchery stops in his counting, finds he has counted wrong, shakes his
+money together, and begins again.
+
+“And the young gentleman’s name,” she adds, “was Edwin.”
+
+Mr. Datchery drops some money, stoops to pick it up, and reddens with
+the exertion as he asks:
 
 “How do you know the young gentleman’s name?”
 
@@ -132,27 +157,3 @@ and ale which Mrs. Tope has left prepared for him, he still sits when
 his supper is finished. At length he rises, throws open the door of a
 corner cupboard, and refers to a few uncouth chalked strokes on its
 inner side.
-
-“I like,” says Mr. Datchery, “the old tavern way of keeping scores.
-Illegible except to the scorer. The scorer not committed, the scored
-debited with what is against him. Hum; ha! A very small score this; a
-very poor score!”
-
-He sighs over the contemplation of its [[Poverty|poverty]], takes a bit of [[chalk]]
-from one of the cupboard shelves, and pauses with it in his hand,
-uncertain what addition to make to the account.
-
-“I think a moderate stroke,” he concludes, “is all I am justified in
-scoring up;” so, suits the action to the word, closes the cupboard, and
-goes to bed.
-
-A brilliant morning shines on the old [[City|city]]. Its antiquities and ruins
-are surpassingly beautiful, with a lusty ivy gleaming in the sun, and
-the rich trees waving in the balmy air. Changes of glorious light from
-moving boughs, [[songs]] of [[Birds|birds]], scents from gardens, woods, and
-fields—or, rather, from the one great [[Garden|garden]] of the whole cultivated
-island in its yielding [[Time|time]]—penetrate into the [[Cathedral]], subdue its
-earthy odour, and preach the [[Resurrection]] and the Life. The cold stone
-tombs of centuries ago grow warm; and flecks of brightness dart into
-the sternest marble corners of the building, fluttering there like
-wings.

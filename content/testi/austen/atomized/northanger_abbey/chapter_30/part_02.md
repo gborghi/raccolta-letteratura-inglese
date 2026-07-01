@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 29 (part 2)"
+title: "Northanger Abbey — Chapter 29 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_30/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_30/part_03">part 03 ›</a></div>
 </nav>
 
+
+attempt at grandeur or pathos can withstand. Swiftly therefore shall
+
+her post-boy drive through the village, amid the gaze of [[Sunday]] groups,
+
+and speedy shall be her descent from it.
+
+
+
+But, whatever might be the distress of Catherine’s mind, as she thus
 
 advanced towards the parsonage, and whatever the humiliation of her
 
@@ -189,15 +199,3 @@ commiserated her for what she had been yesterday left to endure. The
 strength of these feelings, however, was far from assisting her pen;
 
 and never had it been harder for her to write than in addressing
-
-[[Eleanor Tilney]]. To compose a letter which might at once do justice to
-
-her sentiments and her situation, convey gratitude without servile
-
-regret, be guarded without coldness, and honest without resentment—a
-
-letter which [[Eleanor]] might not be pained by the perusal of—and, above
-
-all, which she might not blush herself, if Henry should chance to see,
-
-was an undertaking to frighten away all her powers of performance; and,

@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 8 (part 2)"
+title: "Bleak House — Chapter 8 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -124,12 +124,3 @@ crutches on which the ruins are propped decaying. Although Bleak
 [[house|House]] was not in Chancery, its master was, and it was stamped with
 the same seal. These are the Great Seal’s impressions, my dear, all
 over England—the children know them!”
-
-“How changed it is!” I said again.
-
-“Why, so it is,” he answered much more cheerfully; “and it is wisdom
-in you to keep me to the bright side of the picture.” (The idea of my
-wisdom!) “These are things I never talk about or even think about,
-excepting in the growlery here. If you consider it right to mention
-them to Rick and Ada,” looking seriously at me, “you can. I leave it
-to your discretion, Esther.”

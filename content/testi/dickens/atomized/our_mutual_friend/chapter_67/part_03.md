@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 8 (part 3)"
+title: "Our Mutual Friend — Chapter 12 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,134 +14,117 @@ tags:
 </nav>
 
 
-What was a bad [[Time|time]] for Mr Dolls, could not fail to be a bad [[Time|time]] for
-the dolls’ dressmaker. However, she was on the alert next morning, and
-drove to Bond Street, and set down the two ladies punctually, and then
-directed her equipage to conduct her to the Albany. Arrived at the
-doorway of the [[house]] in which Mr Fledgeby’s chambers were, she found a
-lady standing there in a travelling dress, holding in her hand—of all
-things in the world—a gentleman’s hat.
+‘Certainly. Here, if you please,’ was the reply.
 
-‘You want some one?’ said the lady in a stern manner.
+‘Why,’ retorted Mr Inspector, again using his pocket handkerchief,
+‘though there’s nothing for the lady to be at all alarmed at, still,
+ladies are apt to take alarm at matters of business—being of that
+fragile sex that they’re not accustomed to them when not of a strictly
+domestic character—and I do generally make it a rule to propose
+retirement from the presence of ladies, before entering upon business
+topics. Or perhaps,’ Mr Inspector hinted, ‘if the lady was to step
+up-stairs, and take a look at baby now!’
 
-‘I am going up stairs to Mr Fledgeby’s.’
+‘Mrs Rokesmith,’—her husband was beginning; when Mr Inspector,
+regarding the words as an introduction, said, ‘Happy I am sure, to have
+the [[Honour|honour]].’ And bowed, with gallantry.
 
-‘You cannot do that at this moment. There is a gentleman with him. I am
-waiting for the gentleman. His business with Mr Fledgeby will very soon
-be transacted, and then you can go up. Until the gentleman comes down,
-you must wait here.’
+‘Mrs Rokesmith,’ resumed her husband, ‘is satisfied that she can have no
+reason for being alarmed, whatever the business is.’
 
-While speaking, and afterwards, the lady kept watchfully between her and
-the staircase, as if prepared to oppose her going up, by force. The
-lady being of a stature to stop her with a hand, and looking mightily
-determined, the dressmaker stood still.
+‘Really? Is that so?’ said Mr Inspector. ‘But it’s a sex to live and
+learn from, and there’s nothing a lady can’t accomplish when she once
+fully gives her mind to it. It’s the case with my own wife. [[Well]], ma’am,
+this good gentleman of yours has given rise to a rather large amount
+of trouble which might have been avoided if he had come forward and
+explained himself. [[Well]] you see! He DIDN’T come forward and explain
+himself. Consequently, now that we meet, him and me, you’ll say—and say
+right—that there’s nothing to be alarmed at, in my proposing to him
+TO come forward—or, putting the same meaning in another form, to come
+along with me—and explain himself.’
 
-‘[[Well]]? Why do you listen?’ asked the lady.
+When Mr Inspector put it in that other form, ‘to come along with me,’
+there was a relishing roll in his voice, and his eye beamed with an
+official lustre.
 
-‘I am not listening,’ said the dressmaker.
+‘Do you propose to take me into custody?’ inquired John Rokesmith, very
+coolly.
 
-‘What do you hear?’ asked the lady, altering her phrase.
+‘Why argue?’ returned Mr Inspector in a comfortable sort of
+remonstrance; ‘ain’t it enough that I propose that you shall come along
+with me?’
 
-‘Is it a kind of a spluttering somewhere?’ said the dressmaker, with an
-inquiring look.
+‘For what reason?’
 
-‘Mr Fledgeby in his shower-bath, perhaps,’ remarked the lady, smiling.
+‘Lord bless my [[Soul|soul]] and [[Body|body]]!’ returned Mr Inspector, ‘I [[Wonder|wonder]] at it in
+a man of your [[Education|education]]. Why argue?’
 
-‘And somebody’s beating a carpet, I think?’
+‘What do you charge against me?’
 
-‘Mr Fledgeby’s carpet, I dare say,’ replied the smiling lady.
+‘I [[Wonder|wonder]] at you before a lady,’ said Mr Inspector, shaking his head
+reproachfully: ‘I [[Wonder|wonder]], brought up as you have been, you haven’t a
+more delicate mind! I charge you, then, with being some way concerned
+in the Harmon Murder. I don’t say whether before, or in, or after, the
+fact. I don’t say whether with having some knowledge of it that hasn’t
+come out.’
 
-Miss Wren had a reasonably good eye for smiles, being [[Well|well]] accustomed
-to them on the part of her young friends, though their smiles mostly ran
-smaller than in [[Nature|nature]]. But she had never seen so singular a smile
-as that upon this lady’s face. It twitched her nostrils open in a
-remarkable manner, and contracted her lips and eyebrows. It was a smile
-of enjoyment too, though of such a fierce kind that Miss Wren thought
-she would rather not enjoy herself than do it in that way.
+‘You don’t surprise me. I foresaw your visit this afternoon.’
 
-‘[[Well]]!’ said the lady, watching her. ‘What now?’
+‘Don’t!’ said Mr Inspector. ‘Why, why argue? It’s my duty to inform you
+that whatever you say, will be used against you.’
 
-‘I [[Hope|hope]] there’s nothing the matter!’ said the dressmaker.
+‘I don’t think it will.’
 
-‘Where?’ inquired the lady.
+‘But I tell you it will,’ said Mr Inspector. ‘Now, having received the
+caution, do you still say that you foresaw my visit this afternoon?’
 
-‘I don’t know where,’ said Miss Wren, staring about her. ‘But I never
-heard such odd noises. Don’t you think I had better call somebody?’
+‘Yes. And I will say something more, if you will step with me into the
+next room.’
 
-‘I think you had better not,’ returned the lady with a significant
-frown, and drawing closer.
+With a reassuring kiss on the lips of the frightened Bella, her husband
+(to whom Mr Inspector obligingly offered his arm), took up a candle, and
+withdrew with that gentleman. They were a full half-hour in conference.
+When they returned, Mr Inspector looked considerably astonished.
 
-On this hint, the dressmaker relinquished the idea, and stood looking
-at the lady as hard as the lady looked at her. Meanwhile the dressmaker
-listened with amazement to the odd noises which still continued, and the
-lady listened too, but with a coolness in which there was no trace of
-amazement.
+‘I have invited this worthy officer, my dear,’ said John, ‘to make a
+short excursion with me in which you shall be a sharer. He will take
+something to eat and drink, I dare say, on your invitation, while you
+are getting your bonnet on.’
 
-Soon afterwards, came a slamming and banging of doors; and then came
-running down stairs, a gentleman with whiskers, and out of breath, who
-seemed to be red-hot.
+Mr Inspector declined eating, but assented to the proposal of a glass of
+brandy and [[Water|water]]. Mixing this cold, and pensively consuming it, he broke
+at intervals into such soliloquies as that he never did know such a
+move, that he never had been so gravelled, and that what a game was
+this to try the sort of stuff a man’s opinion of himself was made
+of! Concurrently with these comments, he more than once burst out a
+laughing, with the half-enjoying and half-piqued air of a man, who
+had given up a good conundrum, after much guessing, and been told the
+answer. Bella was so timid of him, that she noted these things in a
+half-shrinking, half-perceptive way, and similarly noted that there was
+a great change in his manner towards John. That coming-along-with-him
+deportment was now lost in long musing looks at John and at herself and
+sometimes in slow heavy rubs of his hand across his forehead, as if he
+were ironing out the creases which his deep pondering made there. He had
+had some coughing and whistling satellites secretly gravitating towards
+him about the premises, but they were now dismissed, and he eyed John as
+if he had meant to do him a public service, but had unfortunately been
+anticipated. Whether Bella might have noted anything more, if she
+had been less afraid of him, she could not determine; but it was all
+inexplicable to her, and not the faintest flash of the real state of the
+case broke in upon her mind. Mr Inspector’s increased notice of herself
+and knowing way of raising his eyebrows when their eyes by any chance
+met, as if he put the question ‘Don’t you see?’ augmented her timidity,
+and, consequently, her perplexity. For all these reasons, when he
+and she and John, at towards nine o’[[Clock|clock]] of a [[Winter|winter]] evening went to
+[[London]], and began driving from [[London]] Bridge, among low-lying [[Water|water]]-side
+wharves and docks and strange places, Bella was in the state of a
+dreamer; perfectly unable to account for her being there, perfectly
+unable to forecast what would happen next, or whither she was going, or
+why; certain of nothing in the immediate present, but that she confided
+in John, and that John seemed somehow to be getting more triumphant. But
+what a certainty was that!
 
-‘Is your business done, Alfred?’ inquired the lady.
-
-‘Very thoroughly done,’ replied the gentleman, as he took his hat from
-her.
-
-‘You can go up to Mr Fledgeby as soon as you like,’ said the lady,
-moving haughtily away.
-
-‘Oh! And you can take these three pieces of stick with you,’ added the
-gentleman politely, ‘and say, if you please, that they come from Mr
-Alfred Lammle, with his compliments on leaving England. Mr Alfred
-Lammle. Be so good as not to forget the name.’
-
-The three pieces of stick were three broken and frayed fragments of a
-stout lithe cane. Miss Jenny taking them wonderingly, and the gentleman
-repeating with a grin, ‘Mr Alfred Lammle, if you’ll be so good.
-Compliments, on leaving England,’ the lady and gentleman walked away
-quite deliberately, and Miss Jenny and her crutch-stick went up stairs.
-‘Lammle, Lammle, Lammle?’ Miss Jenny repeated as she panted from stair
-to stair, ‘where have I heard that name? Lammle, Lammle? I know! Saint
-Mary Axe!’
-
-With a gleam of new intelligence in her sharp face, the dolls’
-dressmaker pulled at Fledgeby’s bell. No one answered; but, from within
-the chambers, there proceeded a continuous spluttering sound of a highly
-singular and unintelligible [[Nature|nature]].
-
-‘Good gracious! Is Little Eyes choking?’ cried Miss Jenny.
-
-Pulling at the bell again and getting no reply, she pushed the outer
-door, and found it standing ajar. No one being visible on her opening it
-wider, and the spluttering continuing, she took the liberty of opening
-an inner door, and then beheld the extraordinary spectacle of Mr
-Fledgeby in a shirt, a pair of Turkish trousers, and a Turkish cap,
-[[rolling]] over and over on his own carpet, and spluttering wonderfully.
-
-‘Oh Lord!’ gasped Mr Fledgeby. ‘Oh my eye! Stop thief! I am strangling.
-[[Fire]]! Oh my eye! A glass of [[Water|water]]. Give me a glass of [[Water|water]]. Shut the
-door. Murder! Oh Lord!’ And then rolled and spluttered more than ever.
-
-Hurrying into another room, Miss Jenny got a glass of [[Water|water]], and brought
-it for Fledgeby’s relief: who, gasping, spluttering, and rattling in his
-throat betweenwhiles, drank some [[Water|water]], and laid his head faintly on her
-arm.
-
-‘Oh my eye!’ cried Fledgeby, struggling anew. ‘It’s salt and snuff. It’s
-up my nose, and down my throat, and in my [[Wind|wind]]-pipe. Ugh! Ow! Ow! Ow!
-Ah—h—h—h!’ And here, crowing fearfully, with his eyes starting out of
-his head, appeared to be contending with every mortal disease incidental
-to poultry.
-
-‘And Oh my Eye, I’m so sore!’ cried Fledgeby, starting, over on his
-back, in a spasmodic way that caused the dressmaker to retreat to the
-wall. ‘Oh I smart so! Do put something to my back and arms, and legs and
-shoulders. Ugh! It’s down my throat again and can’t come up. Ow! Ow! Ow!
-Ah—h—h—h! Oh I smart so!’ Here Mr Fledgeby bounded up, and bounded
-down, and went [[rolling]] over and over again.
-
-The dolls’ dressmaker looked on until he rolled himself into a corner
-with his Turkish slippers uppermost, and then, resolving in the first
-place to address her ministration to the salt and snuff, gave him more
-[[Water|water]] and slapped his back. But, the latter application was by no means
-a [[success]], causing Mr Fledgeby to scream, and to cry out, ‘Oh my eye!
-don’t slap me! I’m covered with weales and I smart so!’
+They alighted at last at the corner of a [[Court|court]], where there was a
+building with a bright lamp and wicket gate. Its orderly appearance was
+very unlike that of the surrounding neighbourhood, and was explained by
+the [[Inscription|inscription]] POLICE STATION.

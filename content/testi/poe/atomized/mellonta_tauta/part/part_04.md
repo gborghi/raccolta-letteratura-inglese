@@ -1,5 +1,5 @@
 ---
-title: "[[Mellonta Tauta]] (part 4)"
+title: "Mellonta Tauta (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/mellonta-tauta-(poe)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/mellonta_tauta/part/part_03">‹ part 03</a><a class="ex-next" href="/testi/poe/atomized/mellonta_tauta/part/part_05">part 05 ›</a></div>
 </nav>
 
+
+      the late announcement of this proposition! Investigation has been
+
+      taken out of the hands of the ground-moles and given, as a task,
+
+      to the true and only true thinkers, the men of ardent
+
+      [[Imagination|imagination]]. These latter theorize. Can you not fancy the shout
+
+      of scorn with which my words would be received by our progenitors
+
+      were it possible for them to be now looking over my shoulder?
+
+      These men, I say, theorize; and their theories are simply
 
       corrected, reduced, systematized—cleared, little by little, of
 
@@ -175,23 +189,3 @@ tags:
       at length, by dint of his own energies, which exhausted him.
 
       Nevertheless, he had his uses, as every thing has, however vile,
-
-      and taught mankind a lesson which to this day it is in no danger
-
-      of forgetting—never to run directly contrary to the natural
-
-      analogies. As for Republicanism, no analogy could be found for it
-
-      upon the face of the earth—unless we except the case of the
-
-      “prairie [[dogs]],” an exception which seems to demonstrate, if
-
-      anything, that [[democracy]] is a very admirable form of
-
-      [[government]]—for [[dogs]].
-
-
-
-      April 6.—Last [[Night|night]] had a fine view of Alpha Lyrae, whose disk,
-
-      through our captain’s spy-glass, subtends an angle of half a

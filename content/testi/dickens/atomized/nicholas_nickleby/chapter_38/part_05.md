@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 38 (part 5)"
+title: "Nicholas Nickleby — Chapter 38 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_38/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_38/part_06">part 06 ›</a></div>
 </nav>
 
+
+Mr. Squeers sat himself down on the opposite seat to the unfortunate
+[[Smike]], and, planting his hands firmly on his knees, looked at him for
+some five minutes, when, seeming to recover from his trance, he uttered
+a loud laugh, and slapped his old pupil’s face several times--taking the
+right and left sides alternately.
 
 ‘It isn’t [[A Dream|a dream]]!’ said Squeers. ‘That’s real flesh and [[Blood|blood]]! I know
 the feel of it!’ and being quite assured of his good fortune by these
@@ -124,15 +130,3 @@ vagrant--the felon--the [[Rebel|rebel]]--the [[Monster|monster]] of unthankfulne
 
 ‘What! The boy that run away!’ cried Snawley, resting his knife and fork
 upright on the table, and opening his eyes to their full width.
-
-‘The very boy’, said Squeers, putting his fist close to [[Smike]]’s nose,
-and drawing it away again, and repeating the process several times, with
-a vicious aspect. ‘If there wasn’t a lady present, I’d fetch him such
-a--: never mind, I’ll owe it him.’
-
-And here Mr. Squeers related how, and in what manner, and when and where,
-he had picked up the runaway.
-
-‘It’s clear that there has been a [[Providence]] in it, sir,’ said Mr
-Snawley, casting down his eyes with an air of [[Humility|humility]], and elevating
-his fork, with a bit of lobster on the top of it, towards the ceiling.

@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities — Chapter 15 (part 1)"
+title: "A Tale of Two Cities — Chapter 16 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-tale-of-two-cities-(dickens)"
@@ -14,125 +14,124 @@ tags:
 </nav>
 
 
-CHAPTER XV.
-Knitting
+CHAPTER XVI.
+Still Knitting
 
 
-There had been earlier drinking than usual in the wine-shop of Monsieur
-Defarge. As early as six o’[[Clock|clock]] in the morning, sallow faces peeping
-through its barred windows had descried other faces within, bending over
-measures of wine. Monsieur Defarge sold a very thin wine at the best
-of times, but it would seem to have been an unusually thin wine that
-he sold at this [[Time|time]]. A sour wine, moreover, or a souring, for its
-influence on the mood of those who drank it was to make them gloomy. No
-vivacious Bacchanalian flame leaped out of the pressed grape of Monsieur
-Defarge: but, a smouldering [[Fire|fire]] that burnt in the dark, lay hidden in
-the dregs of it.
+[[Madame Defarge]] and monsieur her husband returned amicably to the
+bosom of Saint Antoine, while a speck in a blue cap toiled through the
+darkness, and through the [[Dust|dust]], and down the weary miles of avenue by
+the wayside, slowly tending towards that point of the compass where
+the chateau of Monsieur the Marquis, now in his [[Grave|grave]], listened to
+the whispering trees. Such ample leisure had the stone faces, now,
+for listening to the trees and to the fountain, that the few village
+scarecrows who, in their [[Quest|quest]] for herbs to eat and fragments of dead
+stick to burn, strayed within sight of the great stone courtyard and
+terrace staircase, had it borne in upon their starved fancy that
+the expression of the faces was altered. A rumour just lived in the
+village--had a faint and bare existence there, as its people had--that
+when the knife struck [[Home|home]], the faces changed, from faces of [[Pride|pride]] to
+faces of anger and [[Pain|pain]]; also, that when that dangling figure was hauled
+up forty feet above the fountain, they changed again, and bore a cruel
+look of being avenged, which they would henceforth bear for ever. In the
+stone face over the great [[Window|window]] of the bed-chamber where the murder
+was done, two fine dints were pointed out in the sculptured nose, which
+everybody recognised, and which nobody had seen of old; and on the
+scarce occasions when two or three ragged peasants emerged from the
+crowd to take a hurried peep at Monsieur the Marquis petrified, a
+skinny finger would not have pointed to it for a minute, before they all
+started away among the moss and [[Leaves|leaves]], like the more fortunate hares
+who could find a living there.
 
-This had been the third morning in succession, on which there had been
-early drinking at the wine-shop of Monsieur Defarge. It had begun
-on Monday, and here was Wednesday come. There had been more of early
-brooding than drinking; for, many men had listened and whispered and
-slunk about there from the [[Time|time]] of the opening of the door, who could
-not have laid a piece of money on the counter to save their souls. These
-were to the full as interested in the place, however, as if they could
-have commanded whole barrels of wine; and they glided from seat to seat,
-and from corner to corner, swallowing talk in lieu of drink, with greedy
-looks.
+Chateau and hut, stone face and dangling figure, the red stain on the
+stone floor, and the pure [[Water|water]] in the village [[Well|well]]--thousands of acres
+of land--a whole province of France--all France itself--lay under the
+[[Night|night]] sky, concentrated into a faint hair-breadth line. So does a whole
+world, with all its greatnesses and littlenesses, lie in a twinkling
+star. And as mere human knowledge can split a ray of light and analyse
+the manner of its composition, so, sublimer intelligences may read in
+the feeble shining of this earth of ours, every thought and act, every
+vice and virtue, of every responsible creature on it.
 
-Notwithstanding an unusual flow of company, the master of the wine-shop
-was not visible. He was not missed; for, nobody who crossed the
-threshold looked for him, nobody asked for him, nobody wondered to see
-only [[Madame Defarge]] in her seat, presiding over the distribution of
-wine, with a bowl of battered small coins before her, as much defaced
-and beaten out of their original impress as the small coinage of
-humanity from whose ragged pockets they had come.
+The Defarges, husband and wife, came lumbering under the starlight,
+in their public vehicle, to that gate of [[Paris]] whereunto their
+[[Journey|journey]] naturally tended. There was the usual stoppage at the barrier
+guardhouse, and the usual lanterns came glancing forth for the usual
+examination and inquiry. Monsieur Defarge alighted; knowing one or two
+of the soldiery there, and one of the police. The latter he was intimate
+with, and affectionately embraced.
 
-A suspended interest and a prevalent absence of mind, were perhaps
-observed by the spies who looked in at the wine-shop, as they looked in
-at every place, high and low, from the [[King|king]]’s palace to the criminal’s
-gaol. Games at cards languished, players at dominoes musingly built
-towers with them, drinkers drew figures on the tables with spilt drops
-of wine, [[Madame Defarge]] herself picked out the pattern on her sleeve
-with her toothpick, and saw and heard something inaudible and invisible
-a long way off.
+When Saint Antoine had again enfolded the Defarges in his dusky wings,
+and they, having finally alighted near the Saint’s boundaries, were
+picking their way on foot through the black mud and offal of his
+streets, [[Madame Defarge]] spoke to her husband:
 
-Thus, Saint Antoine in this vinous feature of his, until midday. It was
-high noontide, when two dusty men passed through his streets and under
-his swinging lamps: of whom, one was Monsieur Defarge: the other a
-mender of roads in a blue cap. All adust and athirst, the two entered
-the wine-shop. Their arrival had lighted a kind of [[Fire|fire]] in the breast
-of Saint Antoine, fast spreading as they came along, which stirred and
-flickered in flames of faces at most doors and windows. Yet, no one had
-followed them, and no man spoke when they entered the wine-shop, though
-the eyes of every man there were turned upon them.
+“Say then, my friend; what did Jacques of the police tell thee?”
 
-“Good day, gentlemen!” said Monsieur Defarge.
+“Very little to-[[Night|night]], but all he knows. There is another spy
+commissioned for our quarter. There may be many more, for all that he
+can say, but he knows of one.”
 
-It may have been a signal for loosening the general tongue. It elicited
-an answering [[Chorus|chorus]] of “Good day!”
+“Eh [[Well|well]]!” said [[Madame Defarge]], raising her eyebrows with a cool
+business air. “It is necessary to register him. How do they call that
+man?”
 
-“It is bad weather, gentlemen,” said Defarge, shaking his head.
+“He is English.”
 
-Upon which, every man looked at his neighbour, and then all cast down
-their eyes and sat silent. Except one man, who got up and went out.
+“So much the better. His name?”
 
-“My wife,” said Defarge aloud, addressing [[Madame Defarge]]: “I have
-travelled certain leagues with this good mender of roads, called
-Jacques. I met him--by accident--a day and half’s [[Journey|journey]] out of [[Paris]].
-He is a good [[Child|child]], this mender of roads, called Jacques. Give him to
-drink, my wife!”
+“Barsad,” said Defarge, making it French by pronunciation. But, he had
+been so careful to get it accurately, that he then spelt it with perfect
+correctness.
 
-A second man got up and went out. [[Madame Defarge]] set wine before the
-mender of roads called Jacques, who doffed his blue cap to the company,
-and drank. In the breast of his blouse he carried some coarse dark
-bread; he ate of this between whiles, and sat munching and drinking near
-[[Madame Defarge]]’s counter. A third man got up and went out.
+“Barsad,” repeated madame. “Good. Christian name?”
 
-Defarge refreshed himself with a draught of wine--but, he took less
-than was given to the stranger, as being himself a man to whom it was no
-rarity--and stood waiting until the countryman had made his breakfast.
-He looked at no one present, and no one now looked at him; not even
-[[Madame Defarge]], who had taken up her knitting, and was at work.
+“John.”
 
-“Have you finished your repast, friend?” he asked, in due season.
+“John Barsad,” repeated madame, after murmuring it once to herself.
+“Good. His appearance; is it known?”
 
-“Yes, thank you.”
+“Age, about forty years; height, about five feet nine; black hair;
+complexion dark; generally, rather handsome visage; eyes dark, face
+thin, long, and sallow; nose aquiline, but not straight, having a
+peculiar inclination towards the left cheek; expression, therefore,
+sinister.”
 
-“Come, then! You shall see the apartment that I told you you could
-occupy. It will suit you to a marvel.”
+“Eh my [[Faith|faith]]. It is a portrait!” said madame, laughing. “He shall be
+registered to-morrow.”
 
-Out of the wine-shop into the street, out of the street into a
-courtyard, out of the courtyard up a steep staircase, out of the
-staircase into a garret--formerly the garret where a white-haired man
-sat on a low bench, stooping forward and very busy, making shoes.
+They turned into the wine-shop, which was closed (for it was midnight),
+and where [[Madame Defarge]] immediately took her post at her desk, counted
+the small moneys that had been taken during her absence, examined the
+stock, went through the entries in the book, made other entries of
+her own, checked the serving man in every possible way, and finally
+dismissed him to bed. Then she turned out the contents of the bowl
+of money for the second [[Time|time]], and began knotting them up in her
+handkerchief, in a chain of separate knots, for safe keeping through the
+[[Night|night]]. All this while, Defarge, with his pipe in his mouth, walked
+up and down, complacently admiring, but never interfering; in which
+condition, indeed, as to the business and his domestic affairs, he
+walked up and down through life.
 
-No white-haired man was there now; but, the three men were there who had
-gone out of the wine-shop singly. And between them and the white-haired
-man afar off, was the one small link, that they had once looked in at
-him through the chinks in the wall.
+The [[Night|night]] was hot, and the shop, close shut and surrounded by so foul a
+neighbourhood, was ill-smelling. Monsieur Defarge’s olfactory sense was
+by no means delicate, but the stock of wine smelt much stronger than
+it ever tasted, and so did the stock of rum and brandy and aniseed. He
+whiffed the compound of scents away, as he put down his smoked-out pipe.
 
-Defarge closed the door carefully, and spoke in a subdued voice:
+“You are fatigued,” said madame, raising her glance as she knotted the
+money. “There are only the usual odours.”
 
-“Jacques One, Jacques Two, Jacques Three! This is the witness
-encountered by appointment, by me, Jacques Four. He will tell you all.
-Speak, Jacques Five!”
+“I am a little tired,” her husband acknowledged.
 
-The mender of roads, blue cap in hand, wiped his swarthy forehead with
-it, and said, “Where shall I commence, monsieur?”
+“You are a little depressed, too,” said madame, whose quick eyes had
+never been so intent on the accounts, but they had had a ray or two for
+him. “Oh, the men, the men!”
 
-“Commence,” was Monsieur Defarge’s not unreasonable reply, “at the
-commencement.”
+“But my dear!” began Defarge.
 
-“I saw him then, messieurs,” began the mender of roads, “a year ago this
-running [[Summer|summer]], underneath the carriage of the Marquis, hanging by the
-chain. Behold the manner of it. I leaving my work on the [[Road|road]], the sun
-going to bed, the carriage of the Marquis slowly ascending the [[Hill|hill]], he
-hanging by the chain--like this.”
+“But my dear!” repeated madame, nodding firmly; “but my dear! You are
+faint of heart to-[[Night|night]], my dear!”
 
-Again the mender of roads went through the whole performance; in which
-he ought to have been perfect by that [[Time|time]], seeing that it had been
-the infallible resource and indispensable entertainment of his village
-during a whole year.
-
-Jacques One struck in, and asked if he had ever seen the man before?
+“[[Well]], then,” said Defarge, as if a thought were wrung out of his
+breast, “it _is_ a long [[Time|time]].”

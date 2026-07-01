@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 13: THE SEQUEL OF MY RESOLUTION (part 3)"
+title: "David Copperfield — Chapter 13: THE SEQUEL OF MY RESOLUTION (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_13_the_sequel_of_my_resolution/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_13_the_sequel_of_my_resolution/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘Oh, my liver!’ cried the old man, throwing the jacket on a shelf. ‘Get
+out of the shop! Oh, my lungs, get out of the shop! Oh, my eyes and
+limbs--goroo!--don’t ask for money; make it an exchange.’ I never was
+so frightened in my life, before or since; but I told him humbly that
+I wanted money, and that nothing else was of any use to me, but that I
+would wait for it, as he desired, outside, and had no wish to hurry
+him. So I went outside, and sat down in the shade in a corner. And I sat
+there so many hours, that the shade became sunlight, and the sunlight
+became shade again, and still I sat there waiting for the money.
 
 There never was such another drunken madman in that line of business,
 I [[Hope|hope]]. That he was [[Well|well]] known in the neighbourhood, and enjoyed the
@@ -126,15 +136,3 @@ I almost feared he saw the money in my pocket.
 ‘What do you mean,’ said the tinker, ‘by wearing my brother’s silk
 handkerchief! Give it over here!’ And he had mine off my neck in a
 moment, and tossed it to the woman.
-
-The woman burst into a fit of laughter, as if she thought this a joke,
-and tossed it back to me, nodded once, as slightly as before, and made
-the word ‘Go!’ with her lips. Before I could obey, however, the tinker
-seized the handkerchief out of my hand with a roughness that threw me
-away like a feather, and putting it loosely round his own neck, turned
-upon the woman with an oath, and knocked her down. I never shall forget
-seeing her fall backward on the hard [[Road|road]], and lie there with her bonnet
-tumbled off, and her hair all whitened in the [[Dust|dust]]; nor, when I looked
-back from a distance, seeing her sitting on the pathway, which was a
-bank by the roadside, wiping the [[Blood|blood]] from her face with a corner of
-her shawl, while he went on ahead.

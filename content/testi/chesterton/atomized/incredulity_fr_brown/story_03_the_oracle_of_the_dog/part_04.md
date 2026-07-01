@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The Oracle of the Dog (part 4)"
+title: "incredulity Fr Brown — The Oracle of the Dog (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity_fr_brown/story_03_the_oracle_of_the_dog/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity_fr_brown/story_03_the_oracle_of_the_dog/part_05">part 05 ›</a></div>
 </nav>
 
+
+There was a short [[Silence|silence]], and then [[Father Brown]] said suddenly; 'What
+was the lawyer there for?'
+
+'He fold us the Colonel sent for him to alter his will,' answered
+Fiennes. 'And, by the way, there was another thing about the business of
+the will that I ought to mention. You see, the will wasn't actually
+signed in the [[Summer|summer]] - [[house]] that afternoon.'
 
 'I suppose not,' said [[Father Brown]]; 'there would have to be two
 witnesses.'
@@ -119,10 +127,3 @@ now,' he said. 'The problem is not who did it or what did it, but how it
 was done. We might find many men and even many tools - pins and shears
 and lancets. But how did a man get into the room? How did even a pin get
 into it?'
-
-He was staring reflectively at the ceiling as he spoke, but as he said
-the last words his eye cocked in an alert fashion as if he had suddenly
-seen a curious fly on the ceiling.
-
-'[[Well]], what would you do about it?' asked the young man. 'You have a lot
-of experience; what would you advise now?'

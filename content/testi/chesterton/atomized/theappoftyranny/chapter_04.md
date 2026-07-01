@@ -1,5 +1,5 @@
 ---
-title: "[[TheAppOfTyranny]] — Chapter 3"
+title: "TheAppOfTyranny — Chapter 3"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/theappoftyranny-(chesterton)"
@@ -16,13 +16,7 @@ tags:
 
 III
 
-
-
 THE APPETITE OF TYRANNY
-
-
-
-
 
 The German Emperor has reproached this country with allying itself with
 
@@ -75,8 +69,6 @@ really fancy, like Mr. Baring's friend, that all Russian churches are
 the fanatical Russian is as proud of being different from the Mongol, as
 
 the fanatical Spaniard was proud of being different from the Moor.
-
-
 
 The town of Reading, as it exists, offers few opportunities for piracy on
 
@@ -134,8 +126,6 @@ speak. For good or evil, it is the fact of [[history]] that [[Russia]] is the on
 
 Power in Europe that has never supported the Crescent against the [[Cross]].
 
-
-
 That, doubtless, will appear an unimportant matter; but it may become
 
 important under certain peculiar conditions. Suppose, for the sake of
@@ -161,8 +151,6 @@ talked about supporting a semi-oriental power. That we support a
 semi-oriental power, we deny. That he has supported an entirely oriental
 
 power cannot be denied--no, not even by the man who did it.
-
-
 
 But here is to be noted the essential difference between [[Russia]] and
 
@@ -225,8 +213,6 @@ hand to the freeing of a single [[City|city]] or the independence of one solitar
 unconsciously consistent, instinctively restrictive, innocently evil;
 
 "following darkness like [[A Dream|a dream]]."
-
-
 
 Suppose we heard of a person (gifted with some longevity) who had helped
 
@@ -314,8 +300,6 @@ the benefits of oppression. He is a sort of disinterested despot. He is as
 
 disinterested as the devil who is ready to do any one's dirty work.
 
-
-
 This would seem obviously fantastic were it not supported by solid facts
 
 which cannot be explained otherwise. Indeed it would be inconceivable if we
@@ -351,8 +335,6 @@ thus much easier for the warlords to go everywhere and impose a hopeless
 [[Slavery|slavery]] upon every one, for they have already imposed a sort of hopeful
 
 [[Slavery|slavery]] on their own simple race.
-
-
 
 And when men shall speak to us of the hoary iniquities of [[Russia]] and of how
 

@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 30 (part 4)"
+title: "Nicholas Nickleby — Chapter 30 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_30/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_30/part_05">part 05 ›</a></div>
 </nav>
 
+
+Now this was not exactly the kind of reply suited to Mr. Snevellicci’s
+importance as a man and a father, so he picked out the unfortunate Mrs
+Snevellicci, and asked her what the devil she meant by talking to him in
+that way.
 
 ‘Dear me, my dear!’ said Mrs. Snevellicci.
 
@@ -142,23 +147,3 @@ finding too surely that there was not, begged pardon of all the company
 with great [[Humility|humility]], and sat down such a crest-fallen, dispirited,
 disenchanted man, that despite all his selfishness and dotage, he was
 quite an object of compassion.
-
-Miss Snevellicci’s papa being greatly exalted by this triumph, and
-incontestable proof of his popularity with the fair sex, quickly grew
-convivial, not to say uproarious; volunteering more than one [[Song|song]] of
-no inconsiderable length, and regaling the social circle between-whiles
-with recollections of divers splendid women who had been supposed to
-entertain a passion for himself, several of whom he toasted by name,
-taking occasion to remark at the same [[Time|time]] that if he had been a little
-more alive to his own interest, he might have been [[rolling]] at that
-moment in his chariot-and-four. These reminiscences appeared to awaken
-no very torturing pangs in the breast of Mrs. Snevellicci, who was
-sufficiently occupied in descanting to Nicholas upon the manifold
-accomplishments and merits of her daughter. Nor was the young lady
-herself at all behind-hand in displaying her choicest allurements; but
-these, heightened as they were by the artifices of Miss Ledrook, had no
-effect whatever in increasing the attentions of Nicholas, who, with the
-precedent of Miss Squeers still fresh in his [[Memory|memory]], steadily resisted
-every fascination, and placed so strict a guard upon his behaviour that
-when he had taken his leave the ladies were unanimous in pronouncing him
-quite a [[Monster|monster]] of insensibility.

@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 25 (part 1)"
+title: "Bleak House — Chapter 25 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/bleak-house-(dickens)">Bleak House</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_24/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_25/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_24/part_07">‹ part 07</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_25/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -92,7 +92,7 @@ holds certain loose atoms of an idea (picked up at Tooting, where
 they were found floating among the orphans) that there is buried
 money underneath the cellar, guarded by an old man with a white
 beard, who cannot get out for seven thousand years because he said
-the Lord’s [[Prayer]] backwards.
+the Lord’s [[prayer|Prayer]] backwards.
 
 “Who was Nimrod?” Mrs. Snagsby repeatedly inquires of herself. “Who
 was that lady—that creature? And who is that boy?” Now, Nimrod being

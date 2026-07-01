@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 58 (part 3)"
+title: "Great Expectations — Chapter 58 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_58/part_02">‹ part 02</a><span></span></div>
 </nav>
 
+
+My first thought was one of great thankfulness that I had never
+breathed this last baffled [[Hope|hope]] to Joe. How often, while he was with me
+in my illness, had it risen to my lips! How irrevocable would have been
+his knowledge of it, if he had remained with me but another hour!
 
 “Dear [[Biddy]],” said I, “you have the best husband in the whole world,
 and if you could have seen him by my bed you would have—But no, you

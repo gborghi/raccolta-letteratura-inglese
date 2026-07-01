@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 42 (part 2)"
+title: "Bleak House — Chapter 42 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_42/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_42/part_03">part 03 ›</a></div>
 </nav>
 
+
+“Why yes, sir, that’s all,” says Mr. Snagsby, ending with a cough
+that plainly adds, “and it’s enough too—for me.”
+
+“I don’t know what Mademoiselle Hortense may want or mean, unless she
+is mad,” says the lawyer.
+
+“Even if she was, you know, sir,” Mr. Snagsby pleads, “it wouldn’t be
+a consolation to have some weapon or another in the form of a foreign
+dagger planted in the family.”
 
 “No,” says the other. “[[Well]], [[Well|well]]! This shall be stopped. I am sorry
 you have been inconvenienced. If she comes again, send her here.”
@@ -56,7 +66,7 @@ you.”
 “Not true. Lies!”
 
 At times there is a suddenness in the manner of Mademoiselle Hortense
-so like a bodily [[Spring|spring]] upon the subject of it that such subject
+so like a bodily [[spring]] upon the subject of it that such subject
 involuntarily starts and falls back. It is Mr. Tulkinghorn’s case at
 present, though Mademoiselle Hortense, with her eyes almost shut up
 (but still looking out sideways), is only smiling contemptuously and
@@ -74,7 +84,7 @@ key.
 attrapped me—catched me—to give you information; you have asked me
 to show you the dress of mine my Lady must have wore that [[Night|night]], you
 have prayed me to come in it here to meet that boy. Say! Is it not?”
-Mademoiselle Hortense makes another [[Spring|spring]].
+Mademoiselle Hortense makes another [[spring]].
 
 “You are a vixen, a vixen!” Mr. Tulkinghorn seems to meditate as he
 looks distrustfully at her, then he replies, “[[Well]], wench, [[Well|well]]. I
@@ -140,17 +150,3 @@ nods of her head.
 
 “You come here to make a remarkably modest demand, which you have
 just stated, and it not being conceded, you will come again.”
-
-“And again,” says mademoiselle with more tight and angry nods. “And
-yet again. And yet again. And many times again. In effect, for ever!”
-
-“And not only here, but you will go to Mr. Snagsby’s too, perhaps?
-That visit not succeeding either, you will go again perhaps?”
-
-“And again,” repeats mademoiselle, cataleptic with determination.
-“And yet again. And yet again. And many times again. In effect, for
-ever!”
-
-“Very [[Well|well]]. Now, Mademoiselle Hortense, let me recommend you to take
-the candle and pick up that money of yours. I think you will find it
-behind the clerk’s partition in the corner yonder.”

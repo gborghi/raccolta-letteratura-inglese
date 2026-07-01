@@ -1,5 +1,5 @@
 ---
-title: "[[aquinas]] — Chapter 1"
+title: "aquinas — Chapter 1"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/aquinas-(chesterton)"
@@ -748,11 +748,11 @@ is like blaming Father Matthew, who persuaded millions of
 drunkards to take a temperance pledge, because the accepted law
 sometimes allowed a drunkard to be arrested by a policeman.
 It is to miss the whole point; which is that this particular
-man had a genius for [[Conversion|conversion]], quite apart from compulsion.
+man had a genius for [[conversion]], quite apart from compulsion.
 The real difference between Francis and Dominic, which is no discredit
 to either of them, is that Dominic did happen to be confronted
-with a huge campaign for the [[Conversion|conversion]] of heretics, while Francis
-had only the more subtle task of the [[Conversion|conversion]] of human beings.
+with a huge campaign for the [[conversion]] of heretics, while Francis
+had only the more subtle task of the [[conversion]] of human beings.
 It is an old story that, while we may need somebody like Dominic
 to [[convert]] the heathen to [[Christianity]], we are in even greater
 need of somebody like Francis, to [[convert]] the Christians

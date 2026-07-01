@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 30 (part 1)"
+title: "Shirley — Chapter 30 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -227,11 +227,3 @@ thundering [[Home|home]] in a breakneck gallop and laying your assize laurels at
 her feet, you coolly took coach up to [[London]]. What you have done there
 
 [[Satan]] knows; nothing in this world, I believe, but sat and sulked. Your
-
-face was never lily fair, but it is olive green now. You're not as bonny
-
-as you were, man."
-
-
-
-"And who is to have this prize you talk so much about?"

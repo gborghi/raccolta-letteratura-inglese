@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 4 (part 4)"
+title: "Our Mutual Friend — Chapter 6 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,142 +14,141 @@ tags:
 </nav>
 
 
-So, Mr and Mrs Alfred Lammle had to prompt, and this is how they
-prompted.
+A pause ensued, in which the schoolmaster looked very awkward.
 
-‘Georgiana,’ said Mr Lammle, low and smiling, and sparkling all over,
-like a harlequin; ‘you are not in your usual spirits. Why are you not in
-your usual spirits, Georgiana?’
+‘May I suggest, Schoolmaster,’ said Eugene, removing his fast-waning
+cigar from his lips to glance at it, ‘that you can now take your pupil
+away.’
 
-Georgiana faltered that she was much the same as she was in general; she
-was not aware of being different.
+‘And Mr Lightwood,’ added the boy, with a burning face, under the
+flaming aggravation of getting no sort of answer or attention, ‘I [[Hope|hope]]
+you’ll take notice of what I have said to your friend, and of what
+your friend has heard me say, word by word, whatever he pretends to the
+contrary. You are bound to take notice of it, Mr Lightwood, for, as I
+have already mentioned, you first brought your friend into my sister’s
+company, and but for you we never should have seen him. Lord knows none
+of us ever wanted him, any more than any of us will ever miss him. Now
+Mr Headstone, as Mr [[Eugene Wrayburn]] has been obliged to hear what I had
+to say, and couldn’t help himself, and as I have said it out to the last
+word, we have done all we wanted to do, and may go.’
 
-‘Not aware of being different!’ retorted Mr Alfred Lammle. ‘You, my dear
-Georgiana! Who are always so natural and unconstrained with us! Who are
-such a relief from the crowd that are all alike! Who are the embodiment
-of gentleness, simplicity, and reality!’
+‘Go down-stairs, and leave me a moment, Hexam,’ he returned. The boy
+complying with an indignant look and as much noise as he could make,
+swung out of the room; and Lightwood went to the [[Window|window]], and leaned
+there, looking out.
 
-Miss Podsnap looked at the door, as if she entertained confused thoughts
-of taking refuge from these compliments in flight.
+‘You think me of no more value than the dirt under your feet,’ said
+Bradley to Eugene, speaking in a carefully weighed and measured tone, or
+he could not have spoken at all.
 
-‘Now, I will be judged,’ said Mr Lammle, raising his voice a little, ‘by
-my friend Fledgeby.’
+‘I assure you, Schoolmaster,’ replied Eugene, ‘I don’t think about you.’
 
-‘Oh DON’T!’ Miss Podsnap faintly ejaculated: when Mrs Lammle took the
-prompt-book.
+‘That’s not true,’ returned the other; ‘you know better.’
 
-‘I beg your pardon, Alfred, my dear, but I cannot part with Mr Fledgeby
-quite yet; you must wait for him a moment. Mr Fledgeby and I are engaged
-in a personal discussion.’
+‘That’s coarse,’ Eugene retorted; ‘but you DON’T know better.’
 
-Fledgeby must have conducted it on his side with immense art, for no
-appearance of uttering one syllable had escaped him.
+‘Mr Wrayburn, at least I know very [[Well|well]] that it would be idle to set
+myself against you in insolent words or overbearing manners. That lad
+who has just gone out could put you to shame in half-a-dozen branches of
+knowledge in half an hour, but you can throw him aside like an inferior.
+You can do as much by me, I have no [[Doubt|doubt]], beforehand.’
 
-‘A personal discussion, Sophronia, my [[Love|love]]? What discussion? Fledgeby, I
-am jealous. What discussion, Fledgeby?’
+‘Possibly,’ remarked Eugene.
 
-‘Shall I tell him, Mr Fledgeby?’ asked Mrs Lammle.
+‘But I am more than a lad,’ said Bradley, with his clutching hand, ‘and
+I WILL be heard, sir.’
 
-Trying to look as if he knew anything about it, Fascination replied,
-‘Yes, tell him.’
+‘As a schoolmaster,’ said Eugene, ‘you are always being heard. That
+ought to content you.’
 
-‘We were discussing then,’ said Mrs Lammle, ‘if you MUST know, Alfred,
-whether Mr Fledgeby was in his usual flow of spirits.’
+‘But it does not content me,’ replied the other, white with passion. ‘Do
+you suppose that a man, in forming himself for the duties I discharge,
+and in watching and repressing himself daily to discharge them [[Well|well]],
+dismisses a man’s [[Nature|nature]]?’
 
-‘Why, that is the very point, Sophronia, that Georgiana and I were
-discussing as to herself! What did Fledgeby say?’
+‘I suppose you,’ said Eugene, ‘judging from what I see as I look at you,
+to be rather too passionate for a good schoolmaster.’ As he spoke, he
+tossed away the end of his cigar.
 
-‘Oh, a likely thing, sir, that I am going to tell you everything, and be
-told nothing! What did Georgiana say?’
+‘Passionate with you, sir, I admit I am. Passionate with you, sir, I
+respect myself for being. But I have not Devils for my pupils.’
 
-‘Georgiana said she was doing her usual justice to herself to-day, and I
-said she was not.’
+‘For your Teachers, I should rather say,’ replied Eugene.
 
-‘Precisely,’ exclaimed Mrs Lammle, ‘what I said to Mr Fledgeby.’ Still,
-it wouldn’t do. They would not look at one another. No, not even
-when the sparkling host proposed that the quartette should take an
-appropriately sparkling glass of wine. Georgiana looked from her wine
-glass at Mr Lammle and at Mrs Lammle; but mightn’t, couldn’t, shouldn’t,
-wouldn’t, look at Mr Fledgeby. Fascination looked from his wine glass
-at Mrs Lammle and at Mr Lammle; but mightn’t, couldn’t, shouldn’t,
-wouldn’t, look at Georgiana.
+‘Mr Wrayburn.’
 
-More prompting was necessary. Cupid must be brought up to the mark. The
-manager had put him down in the bill for the part, and he must play it.
+‘Schoolmaster.’
 
-‘Sophronia, my dear,’ said Mr Lammle, ‘I don’t like the colour of your
-dress.’
+‘Sir, my name is [[Bradley Headstone]].’
 
-‘I appeal,’ said Mrs Lammle, ‘to Mr Fledgeby.’
+‘As you justly said, my good sir, your name cannot concern me. Now, what
+more?’
 
-‘And I,’ said Mr Lammle, ‘to Georgiana.’
+‘This more. Oh, what a misfortune is mine,’ cried Bradley, breaking off
+to wipe the starting perspiration from his face as he shook from head to
+foot, ‘that I cannot so control myself as to appear a stronger creature
+than this, when a man who has not felt in all his life what I have felt
+in a day can so command himself!’ He said it in a very agony, and even
+followed it with an errant motion of his hands as if he could have torn
+himself.
 
-‘Georgy, my [[Love|love]],’ remarked Mrs Lammle aside to her dear girl, ‘I rely
-upon you not to go over to the opposition. Now, Mr Fledgeby.’
+[[Eugene Wrayburn]] looked on at him, as if he found him beginning to be
+rather an entertaining study.
 
-Fascination wished to know if the colour were not called [[Rose|rose]]-colour?
-Yes, said Mr Lammle; actually he knew everything; it was really
-[[Rose|rose]]-colour. Fascination took [[Rose|rose]]-colour to mean the colour of roses.
-(In this he was very warmly supported by Mr and Mrs Lammle.) Fascination
-had heard the term [[Queen]] of [[Flowers]] applied to the [[Rose]]. Similarly, it
-might be said that the dress was the [[Queen]] of Dresses. (‘Very happy,
-Fledgeby!’ from Mr Lammle.) Notwithstanding, Fascination’s opinion
-was that we all had our eyes—or at least a large majority of us—and
-that—and—and his farther opinion was several ands, with nothing beyond
-them.
+‘Mr Wrayburn, I [[Desire|desire]] to say something to you on my own part.’
 
-‘Oh, Mr Fledgeby,’ said Mrs Lammle, ‘to [[Desert|desert]] me in that way! Oh, Mr
-Fledgeby, to abandon my poor dear injured [[Rose|rose]] and declare for blue!’
+‘Come, come, Schoolmaster,’ returned Eugene, with a languid approach to
+impatience as the other again struggled with himself; ‘say what you have
+to say. And let me remind you that the door is standing open, and your
+young friend waiting for you on the stairs.’
 
-‘Victory, victory!’ cried Mr Lammle; ‘your dress is condemned, my dear.’
+‘When I accompanied that youth here, sir, I did so with the purpose of
+adding, as a man whom you should not be permitted to put aside, in case
+you put him aside as a boy, that his instinct is correct and right.’
+Thus [[Bradley Headstone]], with great effort and difficulty.
 
-‘But what,’ said Mrs Lammle, stealing her affectionate hand towards her
-dear girl’s, ‘what does Georgy say?’
+‘Is that all?’ asked Eugene.
 
-‘She says,’ replied Mr Lammle, interpreting for her, ‘that in her eyes
-you look [[Well|well]] in any colour, Sophronia, and that if she had expected to
-be embarrassed by so pretty a compliment as she has received, she would
-have worn another colour herself. Though I tell her, in reply, that it
-would not have saved her, for whatever colour she had worn would have
-been Fledgeby’s colour. But what does Fledgeby say?’
+‘No, sir,’ said the other, flushed and fierce. ‘I strongly support him
+in his disapproval of your visits to his sister, and in his objection to
+your officiousness—and worse—in what you have taken upon yourself to
+do for her.’
 
-‘He says,’ replied Mrs Lammle, interpreting for him, and patting the
-back of her dear girl’s hand, as if it were Fledgeby who was patting it,
-‘that it was no compliment, but a little natural act of homage that
-he couldn’t resist. And,’ expressing more feeling as if it were more
-feeling on the part of Fledgeby, ‘he is right, he is right!’
+‘Is THAT all?’ asked Eugene.
 
-Still, no not even now, would they look at one another. Seeming to gnash
-his sparkling teeth, studs, eyes, and buttons, all at once, Mr Lammle
-secretly bent a dark frown on the two, expressive of an intense [[Desire|desire]]
-to bring them together by knocking their heads together.
+‘No, sir. I determined to tell you that you are not justified in these
+proceedings, and that they are injurious to his sister.’
 
-‘Have you heard this opera of to-[[Night|night]], Fledgeby?’ he asked, stopping
-very short, to prevent himself from running on into ‘confound you.’
+‘Are you her schoolmaster as [[Well|well]] as her brother’s?—Or perhaps you
+would like to be?’ said Eugene.
 
-‘Why no, not exactly,’ said Fledgeby. ‘In fact I don’t know a note of
-it.’
+It was a stab that the [[Blood|blood]] followed, in its rush to Bradley
+Headstone’s face, as swiftly as if it had been dealt with a dagger.
+‘What do you mean by that?’ was as much as he could utter.
 
-‘Neither do you know it, Georgy?’ said Mrs Lammle. ‘N-no,’ replied
-Georgiana, faintly, under the sympathetic coincidence.
+‘A natural [[Ambition|ambition]] enough,’ said Eugene, coolly. ‘Far be it from me
+to say otherwise. The sister who is something too much upon your lips,
+perhaps—is so very different from all the associations to which she had
+been used, and from all the low obscure people about her, that it is a
+very natural [[Ambition|ambition]].’
 
-‘Why, then,’ said Mrs Lammle, charmed by the discovery which flowed from
-the premises, ‘you neither of you know it! How charming!’
+‘Do you throw my obscurity in my teeth, Mr Wrayburn?’
 
-Even the craven Fledgeby felt that the [[Time|time]] was now come when he must
-strike a blow. He struck it by saying, partly to Mrs Lammle and partly
-to the circumambient air, ‘I consider myself very fortunate in being
-reserved by—’
+‘That can hardly be, for I know nothing concerning it, Schoolmaster, and
+seek to know nothing.’
 
-As he stopped dead, Mr Lammle, making that gingerous bush of his
-whiskers to look out of, offered him the word ‘Destiny.’
+‘You reproach me with my origin,’ said [[Bradley Headstone]]; ‘you cast
+insinuations at my bringing-up. But I tell you, sir, I have worked my
+way onward, out of both and in spite of both, and have a right to be
+considered a better man than you, with better reasons for being proud.’
 
-‘No, I wasn’t going to say that,’ said Fledgeby. ‘I was going to say
-Fate. I consider it very fortunate that Fate has written in the book
-of—in the book which is its own property—that I should go to that
-opera for the first [[Time|time]] under the memorable circumstances of going with
-Miss Podsnap.’
+‘How I can reproach you with what is not within my knowledge, or how
+I can cast stones that were never in my hand, is a problem for the
+ingenuity of a schoolmaster to prove,’ returned Eugene. ‘Is THAT all?’
 
-To which Georgiana replied, hooking her two little fingers in one
-another, and addressing the tablecloth, ‘Thank you, but I generally go
-with no one but you, Sophronia, and I like that very much.’
+‘No, sir. If you suppose that boy—’
+
+‘Who really will be tired of waiting,’ said Eugene, politely.
+
+‘If you suppose that boy to be friendless, Mr Wrayburn, you deceive
+yourself. I am his friend, and you shall find me so.’

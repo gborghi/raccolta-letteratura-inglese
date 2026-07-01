@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 50 (part 2)"
+title: "Sense and Sensibility — Chapter 50 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_50/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_50/part_03">part 03 ›</a></div>
 </nav>
 
+
+re-established him completely in her favour.
+
+
+
+The whole of Lucy’s behaviour in the affair, and the prosperity which
 
 crowned it, therefore, may be held forth as a most encouraging instance
 
@@ -191,11 +197,3 @@ the constitutional safeguard of a flannel waistcoat!
 
 
 But so it was. Instead of falling a sacrifice to an irresistible
-
-passion, as once she had fondly flattered herself with
-
-expecting,—instead of remaining even for ever with her mother, and
-
-finding her only pleasures in retirement and study, as afterwards in
-
-her more calm and sober judgment she had determined on,—she found

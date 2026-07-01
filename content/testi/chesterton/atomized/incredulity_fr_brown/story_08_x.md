@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — '"
+title: "incredulity Fr Brown — '"
 author: "Chesterton"
 unitType: story
 parentWork: "works/incredulity-fr-brown-(chesterton)"

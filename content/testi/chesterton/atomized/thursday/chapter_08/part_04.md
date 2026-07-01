@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 8 (part 4)"
+title: "thursday — Chapter 8 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"

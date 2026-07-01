@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 31 (part 4)"
+title: "Barnaby Rudge — Chapter 31 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_31/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_33/part_01">part 01 ›</a></div>
 </nav>
 
+
+Dolly in the meanwhile, turned to the corners of her apron, and measured
+the sides, and smoothed out the wrinkles, and was as silent as he. At
+last after a long pause, Joe said good-bye. ‘Good-bye’--said Dolly--with
+as pleasant a smile as if he were going into the next street, and were
+coming back to supper; ‘good-bye.’
 
 ‘Come,’ said Joe, putting out both hands, ‘Dolly, dear Dolly, don’t let
 us part like this. I [[Love|love]] you dearly, with all my heart and [[Soul|soul]]; with

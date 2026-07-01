@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 37 (part 6)"
+title: "Jane Eyre — Chapter 37 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_37/part_05">‹ part 05</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_37/part_07">part 07 ›</a></div>
 </nav>
 
+
+I shuddered involuntarily, and clung instinctively closer to my blind
+but beloved master. He smiled.
+
+“What, Jane! Is this true? Is such really the state of matters between
+you and Rivers?”
+
+“Absolutely, sir! Oh, you need not be jealous! I wanted to tease you a
+little to make you less sad: I thought anger would be better than
+grief. But if you wish me to [[Love|love]] you, could you but see how much I
+_do_ [[Love|love]] you, you would be proud and content. All my heart is yours,
+sir: it belongs to you; and with you it would remain, were fate to
+[[Exile|exile]] the rest of me from your presence for ever.”
 
 Again, as he kissed me, painful thoughts darkened his aspect.
 
@@ -160,14 +173,3 @@ might be between eleven and twelve o’[[Clock|clock]]—ere I retired to my dre
 rest, I supplicated God, that, if it seemed good to Him, I might soon
 be taken from this life, and admitted to that world to come, where
 there was still [[Hope|hope]] of rejoining Jane.
-
-“I was in my own room, and sitting by the [[Window|window]], which was open: it
-soothed me to feel the balmy [[Night|night]]-air; though I could see no [[Stars|stars]] and
-only by a vague, luminous haze, knew the presence of a [[Moon|moon]]. I longed
-for thee, Janet! Oh, I longed for thee both with [[Soul|soul]] and flesh! I
-asked of God, at once in anguish and [[Humility|humility]], if I had not been long
-enough desolate, afflicted, tormented; and might not soon taste bliss
-and peace once more. That I merited all I endured, I acknowledged—that
-I could scarcely endure more, I pleaded; and the alpha and omega of my
-heart’s wishes broke involuntarily from my lips in the words—‘Jane!
-Jane! Jane!’”

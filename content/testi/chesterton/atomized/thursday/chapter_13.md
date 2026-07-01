@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 13"
+title: "thursday — Chapter 13"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/thursday-(chesterton)"
@@ -17,7 +17,6 @@ tags:
                          CHAPTER XIII
 
                 THE PURSUIT OF THE PRESIDENT
-
 
 NEXT morning five bewildered but hilarious people took the boat
 for Dover.  The poor old Colonel might have had some cause
@@ -242,9 +241,7 @@ string of letters after his name.  Dr. Bull's address was,
 at any rate, considerably longer than his communication,
 for the communication consisted entirely of the words:--
 
-
 "What about Martin Tupper now?"
-
 
 "What does the old maniac mean?" asked Bull, staring at the words.
 "What does yours say, Syme?"
@@ -412,9 +409,7 @@ pieces of paper of no value wrapped one round the other.
 When the last covering was torn away it reduced itself to a small
 slip of paper, on which was written:--
 
-
 "The word, I fancy, should be 'pink'."
-
 
 The man once known as Gogol said nothing, but the movements of his hands
 and feet were like those of a man urging a [[Horse|horse]] to renewed efforts.

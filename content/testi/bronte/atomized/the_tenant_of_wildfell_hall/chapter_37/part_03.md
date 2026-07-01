@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 37 (part 3)"
+title: "The Tenant of Wildfell Hall — Chapter 37 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,28 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_37/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_37/part_04">part 04 ›</a></div>
 </nav>
 
+
+other.”
+
+
+
+“And can you suppose that I should wish you to injure yourself? No: on
+
+the contrary, it is your own happiness I long for more than mine. You
+
+are miserable now, Mrs. Huntingdon,” continued he, looking me boldly in
+
+the face. “You do not complain, but I see—and feel—and know that you
+
+are miserable—and must remain so as long as you keep those walls of
+
+impenetrable ice about your still warm and palpitating heart; and I am
+
+miserable, too. Deign to smile on me and I am happy: trust me, and you
+
+shall be happy also, for if you _are_ a woman I can make you so—and I
+
+_will_ do it in spite of yourself!” he muttered between his teeth; “and
 
 as for others, the question is between ourselves [[Alone|alone]]: you cannot
 
@@ -30,7 +52,7 @@ from the [[Window|window]], whither he had followed me.
 
 “They need not know,” he began; but before anything more could be said
 
-on either side, Esther and [[arthur|Arthur]] re-entered the room. The former
+on either side, Esther and [[Arthur]] re-entered the room. The former
 
 glanced at Walter’s flushed, excited countenance, and then at mine—a
 
@@ -187,31 +209,3 @@ word—a glance, and will not do it—is this right?”
 “In the first place, _I_ don’t believe _you_,” answered I; “in the
 
 second, if you will be such a [[Fool|fool]], I can’t hinder it.”
-
-
-
-“If you affect,” replied he, earnestly, “to regard as folly the best,
-
-the strongest, the most godlike impulses of our [[Nature|nature]], I don’t believe
-
-you. I know you are not the heartless, icy being you pretend to be—you
-
-had a heart once, and gave it to your husband. When you found him
-
-utterly unworthy of the treasure, you reclaimed it; and you will not
-
-_pretend_ that you loved that sensual, earthly-minded profligate so
-
-deeply, so devotedly, that you can never [[Love|love]] another? I know that
-
-there are feelings in your [[Nature|nature]] that have never yet been called
-
-forth; I know, too, that in your present neglected lonely state you are
-
-and _must_ be miserable. You have it in your power to raise two human
-
-beings from a state of actual [[Suffering|suffering]] to such unspeakable beatitude
-
-as only generous, noble, [[Self|self]]-forgetting [[Love|love]] can give (for you _can_
-
-[[Love|love]] me if you will); you may tell me that you scorn and detest me,

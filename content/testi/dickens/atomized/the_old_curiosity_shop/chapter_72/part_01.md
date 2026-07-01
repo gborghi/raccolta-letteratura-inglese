@@ -138,16 +138,3 @@ both!’
 
 ‘I am quite ready,’ said the old man, meekly.  ‘Come, boy, come--’ and
 so submitted to be led away.
-
-And now the bell--the bell she had so often heard, by [[Night|night]] and day,
-and listened to with solemn pleasure almost as a living voice--rung
-its remorseless toll, for her, so young, so beautiful, so good.
-Decrepit age, and vigorous life, and blooming youth, and helpless
-infancy, poured forth--on crutches, in the [[Pride|pride]] of strength and
-health, in the full blush of promise, in the mere [[Dawn|dawn]] of life--to
-gather round her tomb.  Old men were there, whose eyes were dim and
-senses failing--grandmothers, who might have died ten years ago, and
-still been old--the deaf, the blind, the lame, the palsied, the living
-dead in many shapes and forms, to see the closing of that early [[Grave|grave]].
-What was the [[Death|death]] it would shut in, to that which still could crawl
-and creep above it!

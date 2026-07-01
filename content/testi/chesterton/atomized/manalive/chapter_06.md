@@ -1,5 +1,5 @@
 ---
-title: "[[manalive]] — Part 2"
+title: "manalive — Part 2"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/manalive-(chesterton)"

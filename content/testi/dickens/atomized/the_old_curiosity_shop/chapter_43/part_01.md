@@ -127,15 +127,3 @@ and except these distant places, and occasionally some men working in
 the fields, or lounging on the bridges under which they passed, to see
 them creep along, nothing encroached on their monotonous and secluded
 track.
-
-Nell was rather disheartened, when they stopped at a kind of wharf late
-in the afternoon, to learn from one of the men that they would not
-reach their place of destination until next day, and that, if she had
-no provision with her, she had better buy it there.  She had but a few
-pence, having already bargained with them for some bread, but even of
-these it was necessary to be very careful, as they were on their way to
-an utterly strange place, with no resource whatever.  A small loaf and
-a morsel of [[cheese]], therefore, were all she could afford, and with
-these she took her place in the boat again, and, after half an hour’s
-delay during which the men were drinking at the public-[[house]], proceeded
-on the [[Journey|journey]].

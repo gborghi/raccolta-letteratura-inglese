@@ -14,6 +14,91 @@ tags:
 </nav>
 
 
+Lastly, there is this value about the colour that men call colourless;
+that it suggests in some way the mixed and troubled average of existence,
+especially in its quality of strife and expectation and promise.
+Grey is a colour that always seems on the eve of changing to some
+other colour; of brightening into blue or blanching into white
+or bursting into green and gold.  So we may be perpetually reminded
+of the indefinite [[Hope|hope]] that is in [[Doubt|doubt]] itself; and when there is
+grey weather in our hills or grey hairs in our heads, perhaps they
+may still remind us of the morning.
+
+-/-
+
+The Anarchist
+
+I HAVE now lived for about two months in the country, and have gathered
+the last rich autumnal fruit of a rural life, which is a strong [[Desire|desire]]
+to see [[London]].  Artists living in my neighbourhood talk rapturously
+of the [[rolling]] liberty of the landscape, the living peace of woods.
+But I say to them (with a slight Buckinghamshire accent), "Ah, that is
+how [[cockneys|Cockneys]] feel.  For us real old country people the country
+is reality; it is the town that is [[Romance|romance]].  [[Nature]] is as plain
+as one of her pigs, as commonplace, as comic, and as healthy.
+But civilisation is full of poetry, even if it be sometimes
+an evil poetry.  The streets of [[London]] are paved with gold;
+that is, with the very poetry of avarice."  With these typically
+bucolic words I touch my hat and go ambling away on a stick,
+with a stiffness of gait proper to the Oldest Inhabitant;
+while in my more animated moments I am taken for the Village Idiot.
+Exchanging heavy but courteous salutations with other gaffers, I reach
+the station, where I ask for a ticket for [[London]] where the [[King|king]] lives.
+Such a [[Journey|journey]], mingled of provincial fascination and [[Fear|fear]],
+did I successfully perform only a few days ago; and [[Alone|alone]] and
+helpless in the capital, found myself in the tangle of roads around
+the Marble Arch.
+
+A faint prejudice may possess the mind that I have slightly exaggerated
+my rusticity and remoteness.  And yet it is true as I came to that corner
+of the Park that, for some unreasonable reason of mood, I saw all [[London]]
+as a strange [[City|city]] and the civilisation itself as one enormous whim.
+The Marble Arch itself, in its new insular position, with traffic
+turning dizzily all about it, struck me as a placid monstrosity.
+What could be wilder than to have a huge arched gateway, with people
+going everywhere except under it?  If I took down my front door
+and stood it up all by itself in the middle of my back [[Garden|garden]],
+my village neighbours (in their simplicity) would probably stare.
+Yet the Marble Arch is now precisely that; an elaborate entrance
+and the only place by which no one can enter.  By the new arrangement
+its last weak pretence to be a gate has been taken away.  The [[cabman]]
+still cannot drive through it, but he can have the delights of riding
+round it, and even (on foggy nights) the rapture of running into it.
+It has been raised from the rank of a fiction to the dignity
+of an obstacle.
+
+As I began to walk across a corner of the Park, this sense of what
+is strange in cities began to mingle with some sense of what is
+stern as [[Well|well]] as strange.  It was one of those queer-coloured
+[[Winter|winter]] days when a watery sky changes to pink and grey and green,
+like an enormous opal.  The trees stood up grey and angular,
+as if in attitudes of agony; and here and there on benches under
+the trees sat men as grey and angular as they.  It was cold even for me,
+who had eaten a large breakfast and purposed to eat a perfectly
+Gargantuan lunch; it was colder for the men under the trees.
+And to eastward through the opalescent haze, the warmer whites
+and yellows of the houses in Park-lane shone as unsubstantially
+as if the clouds themselves had taken on the shape of mansions to mock
+the men who sat there in the cold.  But the mansions were real--
+like the mockery.
+
+No one worth calling a man allows his moods to change his convictions;
+but it is by moods that we understand other men's convictions.
+The bigot is not he who knows he is right; every sane man knows
+he is right.  The bigot is he whose emotions and [[Imagination|imagination]]
+are too cold and weak to feel how it is that other men go wrong.
+At that moment I felt vividly how men might go wrong, even unto dynamite.
+If one of those huddled men under the trees had stood up and asked
+for rivers of [[Blood|blood]], it would have been erroneous--but not irrelevant.
+It would have been appropriate and in the picture; that lurid grey
+picture of insolence on one side and impotence on the other.
+It may be true (on the whole it is) that this social [[Machine|machine]]
+we have made is better than anarchy.  Still, it is a [[Machine|machine]];
+and we have made it.  It does hold those poor men helpless:
+and it does lift those rich men high ... and such men--
+good Lord!  By the [[Time|time]] I flung myself on a bench beside another man
+I was half inclined to try anarchy for a change.
+
 The other was of more prosperous appearance than most of the men
 on such seats; still, he was not what one calls a gentleman,
 and had probably worked at some [[Time|time]] like a human being.
@@ -35,120 +120,3 @@ and I had sat down beside the man who wanted to pull it down.
 I bowed in [[Silence|silence]] for an instant under the approaching [[Apocalypse|apocalypse]];
 and in that instant the man turned sharply and started talking
 like a torrent.
-
-"Understand me," he said.  "Ordinary people think an Anarchist means
-a man with a bomb in his pocket.  Herbert Spencer was an Anarchist.
-But for that fatal admission of his on page 793, he would be a
-complete Anarchist.  Otherwise, he agrees wholly with Pidge."
-
-This was uttered with such blinding rapidity of syllabification
-as to be a better test of teetotalism than the Scotch one of saying
-"Biblical criticism" six times.  I attempted to speak, but he began
-again with the same rippling rapidity.
-
-"You will say that Pidge also admits [[government]] in that tenth chapter
-so easily misunderstood.  Bolger has attacked Pidge on those lines.
-But Bolger has no scientific training.  Bolger is a psychometrist,
-but no sociologist.  To any one who has combined a study of Pidge with
-the earlier and better discoveries of Kruxy, the fallacy is quite clear.
-Bolger confounds social coercion with coercional social action."
-
-His rapid rattling mouth shut quite tight suddenly, and he looked
-steadily and triumphantly at me, with his head on one side.
-I opened my mouth, and the mere motion seemed to sting him to
-fresh verbal leaps.
-
-"Yes," he said, "that's all very [[Well|well]].  The Finland Group has
-accepted Bolger.  But," he said, suddenly lifting a long finger as
-if to stop me, "but--Pidge has replied.  His pamphlet is published.
-He has proved that Potential Social Rebuke is not a weapon of
-the true Anarchist.  He has shown that just as religious authority
-and political authority have gone, so must emotional authority
-and psychological authority.  He has shown--"
-
-I stood up in a sort of daze.  "I think you remarked," I said feebly,
-"that the mere common populace do not quite understand Anarchism--"
-
-"Quite so," he said with burning swiftness; "as I said, they think
-any Anarchist is a man with a bomb, whereas--"
-
-"But great heavens, man!"  I said; "it's the man with the bomb that
-I understand!  I wish you had half his sense.  What do I care how many
-German dons tie themselves in knots about how this society began?
-My only interest is about how soon it will end.  Do you see those fat
-white houses over in Park-lane, where your masters live?"
-
-He assented and muttered something about concentrations of capital.
-
-"[[Well]]," I said, "if the [[Time|time]] ever comes when we all [[Storm|storm]]
-those houses, will you tell me one thing?  Tell me how we shall
-do it without authority?  Tell me how you will have an army
-of revolt without discipline?"
-
-For the first instant he was doubtful; and I had bidden him farewell,
-and crossed the street again, when I saw him open his mouth and begin
-to run after me.  He had remembered something out of Pidge.
-
-I escaped, however, and as I leapt on an omnibus I saw again the enormous
-emblem of the Marble Arch.  I saw that massive symbol of the modern mind:
-a door with no [[house]] to it; the gigantic gate of Nowhere.
-
--/-
-
-How I found the Superman
-
-READERS of Mr. Bernard [[Shaw]] and other modern writers may be
-interested to know that the Superman has been found.  I found him;
-he lives in South Croydon.  My [[success]] will be a great blow to Mr. [[Shaw]],
-who has been following quite a false scent, and is now looking
-for the creature in Blackpool; and as for Mr. Wells's notion
-of generating him out of gases in a private laboratory, I always
-thought it doomed to failure.  I assure Mr. Wells that the Superman
-at Croydon was born in the ordinary way, though he himself, of course,
-is anything but ordinary.
-
-Nor are his parents unworthy of the wonderful being whom they
-have given to the world.  The name of Lady Hypatia Smythe-Browne
-(now Lady Hypatia Hagg) will never be forgotten in the East End,
-where she did such splendid social work.  Her constant cry of "Save
-the children!" referred to the cruel neglect of children's eyesight
-involved in allowing them to play with crudely painted toys.
-She quoted unanswerable statistics to prove that children allowed
-to look at violet and vermilion often suffered from failing eyesight
-in their extreme old age; and it was owing to her ceaseless crusade
-that the pestilence of the Monkey-on-the-Stick was almost swept
-from Hoxton.  The devoted worker would tramp the streets untiringly,
-taking away the toys from all the poor children, who were often
-moved to [[Tears|tears]] by her kindness.  Her good work was interrupted,
-partly by a new interest in the creed of Zoroaster, and partly
-by a savage blow from an umbrella.  It was inflicted by a dissolute
-Irish apple-woman, who, on returning from some orgy to her ill-kept
-apartment, found Lady Hypatia in the bedroom taking down an oleograph,
-which, to say the least of it, could not really elevate the mind.
-At this the ignorant and partly intoxicated Celt dealt the social
-reformer a severe blow, adding to it an absurd accusation of theft.
-The lady's exquisitely balanced mind received a shock, and it was
-during a short mental illness that she married Dr. Hagg.
-
-Of Dr. Hagg himself I [[Hope|hope]] there is no need to speak.
-Any one even slightly acquainted with those daring experiments
-in Neo-Individualist [[Eugenics]], which are now the one absorbing
-interest of the English [[democracy]], must know his name and often
-commend it to the personal protection of an impersonal power.
-Early in life he brought to bear that ruthless insight into the [[history]]
-of religions which he had gained in boyhood as an electrical engineer.
-Later he became one of our greatest geologists; and achieved that bold and
-bright outlook upon the future of Socialism which only geology can give.
-At first there seemed something like a rift, a faint, but perceptible,
-fissure, between his views and those of his aristocratic wife.
-For she was in favour (to use her own powerful [[Epigram|epigram]]) of protecting
-the poor against themselves; while he declared pitilessly,
-in a new and striking metaphor, that the weakest must go to the wall.
-Eventually, however, the married pair perceived an essential [[Union|union]]
-in the unmistakably modern character of both their views, and in this
-enlightening and intelligible formula their souls found peace.
-The result is that this [[Union|union]] of the two highest types of
-our civilisation, the fashionable lady and the all but vulgar
-medical man, has been blessed by the birth of the Superman,
-that being whom all the labourers in Battersea are so eagerly
-expecting [[Night|night]] and day.

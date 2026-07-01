@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 39 (part 4)"
+title: "Oliver Twist — Chapter 39 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_39/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_39/part_05">part 05 ›</a></div>
 </nav>
 
+
+Before the sound of their footsteps had ceased to echo through the
+[[house]], the girl had slipped off her shoes; and drawing her gown loosely
+over her head, and muffling her arms in it, stood at the door,
+listening with breathless interest. The moment the noise ceased, she
+glided from the room; ascended the stairs with incredible softness and
+[[Silence|silence]]; and was lost in the gloom above.
+
+The room remained deserted for a quarter of an hour or more; the girl
+glided back with the same unearthly tread; and, immediately afterwards,
+the two men were heard descending. [[Monks]] went at once into the street;
+and the Jew crawled upstairs again for the money. When he returned, the
+girl was adjusting her shawl and bonnet, as if preparing to be gone.
 
 “Why, Nance!” exclaimed the Jew, starting back as he put down the
 candle, “how pale you are!”
@@ -128,13 +141,3 @@ him, was suddenly stricken, as it were, while in the very attitude of
 rising, into a deep and heavy [[Sleep|sleep]]. The grasp of his hand relaxed; the
 upraised arm fell languidly by his side; and he lay like one in a
 profound trance.
-
-“The laudanum has taken effect at last,” murmured the girl, as she [[Rose|rose]]
-from the bedside. “I may be too late, even now.”
-
-She hastily dressed herself in her bonnet and shawl: looking fearfully
-round, from [[Time|time]] to [[Time|time]], as if, despite the sleeping draught, she
-expected every moment to feel the pressure of Sikes’s heavy hand upon
-her shoulder; then, stooping softly over the bed, she kissed the
-robber’s lips; and then opening and closing the room-door with
-noiseless touch, hurried from the [[house]].

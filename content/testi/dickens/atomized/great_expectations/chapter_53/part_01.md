@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 53 (part 1)"
+title: "Great Expectations — Chapter 53 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -124,10 +124,3 @@ there,—the means of ascent to the loft above.
 
 “Now,” said he, when we had surveyed one another for some [[Time|time]], “I’ve
 got you.”
-
-“Unbind me. Let me go!”
-
-“Ah!” he returned, “_I_’ll let you go. I’ll let you go to the [[Moon|moon]],
-I’ll let you go to the [[Stars|stars]]. All in good [[Time|time]].”
-
-“Why have you lured me here?”

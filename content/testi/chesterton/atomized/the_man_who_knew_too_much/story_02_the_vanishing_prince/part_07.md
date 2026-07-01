@@ -14,6 +14,44 @@ tags:
 </nav>
 
 
+of Irish [[Tragedy|tragedy]]—you who come to kill me, wading through the [[Blood|blood]]
+
+of your brethren. If they had fallen in a feud on the hillside, it
+
+would be called murder, and yet your sin might be forgiven you. But
+
+I, who am [[Innocent|innocent]], I was to be slain with ceremony. There would
+
+be long speeches and patient judges listening to my vain plea of
+
+[[innocence]], noting down my [[Despair|despair]] and disregarding it. Yes, that is
+
+what I call assassination. But killing may be no murder; there is
+
+one shot left in this little gun, and I know where it should go."
+Wilson turned quickly on the table, and even as he turned he twisted
+
+in agony, for [[Michael]] shot him through the [[Body|body]] where he sat, so
+
+that he tumbled off the table like lumber.
+The police rushed to lift him; Sir Walter stood speechless; and
+
+then, with a strange and weary gesture, Horne Fisher spoke.
+"You are indeed a type of the Irish [[Tragedy|tragedy]]," he said. "You were
+
+entirely in the right, and you have put yourself in the wrong."
+The prince's face was like marble for a space then there dawned in
+
+his eyes a light not unlike that of [[Despair|despair]]. He laughed suddenly and
+
+flung the smoking [[Pistol|pistol]] on the ground.
+"I am indeed in the wrong," he said. "I have committed a crime that
+
+may justly bring a curse on me and my children."
+Horne Fisher did not seem entirely satisfied with this very sudden
+
+repentance; he kept his eyes on the man and only said, in a low
+
 voice, "What crime do you mean?"
 "I have helped English justice," replied Prince [[Michael]]. "I have
 

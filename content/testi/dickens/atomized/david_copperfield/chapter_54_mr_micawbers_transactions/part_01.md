@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 54: Mr. MICAWBER’S TRANSACTIONS (part 1)"
+title: "David Copperfield — Chapter 54: Mr. MICAWBER’S TRANSACTIONS (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_52_i_assist_at_an_explosion/part_08">‹ part 08</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_54_mr_micawbers_transactions/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_52_i_assist_at_an_explosion/part_09">‹ part 09</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_54_mr_micawbers_transactions/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -103,7 +103,7 @@ will be our lot to combat with the teeming soil.’
 the very considerate kindness of our friends and patrons. What I wish
 is, to be perfectly business-like, and perfectly punctual. Turning over,
 as we are about to turn over, an entirely new leaf; and falling back,
-as we are now in the act of falling back, for a [[Spring]] of no common
+as we are now in the act of falling back, for a [[spring|Spring]] of no common
 magnitude; it is important to my sense of [[Self|self]]-respect, besides being
 an example to my son, that these arrangements should be concluded as
 between man and man.’
@@ -123,19 +123,3 @@ execute any such instrument. As between man and man.’
 My aunt observed, that in a case where both parties were willing to
 agree to anything, she took it for granted there would be no difficulty
 in settling this point. Mr. Micawber was of her opinion.
-
-‘In reference to our domestic preparations, madam,’ said Mr. Micawber,
-with some [[Pride|pride]], ‘for meeting the destiny to which we are now understood
-to be [[Self|self]]-devoted, I beg to report them. My eldest daughter attends
-at five every morning in a neighbouring establishment, to acquire
-the process--if process it may be called--of milking cows. My younger
-children are instructed to observe, as closely as circumstances will
-permit, the habits of the pigs and poultry maintained in the poorer
-parts of this [[City|city]]: a pursuit from which they have, on two occasions,
-been brought [[Home|home]], within an inch of being run over. I have myself
-directed some attention, during the past week, to the art of baking; and
-my son Wilkins has issued forth with a walking-stick and driven cattle,
-when permitted, by the rugged hirelings who had them in charge, to
-render any voluntary service in that direction--which I regret to say,
-for the credit of our [[Nature|nature]], was not often; he being generally warned,
-with imprecations, to desist.’

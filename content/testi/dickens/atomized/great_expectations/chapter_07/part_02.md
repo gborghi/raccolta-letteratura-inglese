@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 7 (part 2)"
+title: "Great Expectations — Chapter 7 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_07/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_07/part_03">part 03 ›</a></div>
 </nav>
 
+
+I leaned over Joe, and, with the aid of my forefinger read him the
+whole letter.
+
+“Astonishing!” said Joe, when I had finished. “You ARE a scholar.”
 
 “How do you spell Gargery, Joe?” I asked him, with a modest patronage.
 
@@ -141,11 +146,3 @@ her, ‘And bring the poor little [[Child|child]]. God bless the poor little
 I broke out crying and begging pardon, and hugged Joe round the neck:
 who dropped the poker to hug me, and to say, “Ever the best of friends;
 an’t us, Pip? Don’t cry, old chap!”
-
-When this little interruption was over, Joe resumed:—
-
-“[[Well]], you see, Pip, and here we are! That’s about where it lights;
-here we are! Now, when you take me in hand in my learning, Pip (and I
-tell you beforehand I am awful dull, most awful dull), Mrs. Joe mustn’t
-see too much of what we’re up to. It must be done, as I may say, on the
-sly. And why on the sly? I’ll tell you why, Pip.”

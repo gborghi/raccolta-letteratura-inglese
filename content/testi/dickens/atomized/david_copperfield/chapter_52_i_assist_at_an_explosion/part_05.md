@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 52: I ASSIST AT AN EXPLOSION (part 5)"
+title: "David Copperfield — Chapter 52: I ASSIST AT AN EXPLOSION (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,23 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_52_i_assist_at_an_explosion/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_52_i_assist_at_an_explosion/part_06">part 06 ›</a></div>
 </nav>
 
+
+Mr. Micawber’s enjoyment of his epistolary powers, in describing this
+unfortunate state of things, really seemed to outweigh any [[Pain|pain]] or
+anxiety that the reality could have caused him. He read on:
+
+‘“Then it was that--HEEP--began to favour me with just so much of his
+confidence, as was necessary to the discharge of his infernal business.
+Then it was that I began, if I may so Shakespearianly express myself, to
+dwindle, peak, and pine. I found that my services were constantly
+called into requisition for the falsification of business, and the
+[[Mystification|mystification]] of an individual whom I will designate as Mr. W. That Mr.
+W. was imposed upon, kept in ignorance, and deluded, in every possible
+way; yet, that all this while, the ruffian--HEEP--was professing
+unbounded gratitude to, and unbounded [[Friendship|friendship]] for, that much-abused
+gentleman. This was bad enough; but, as the philosophic Dane observes,
+with that universal applicability which distinguishes the illustrious
+ornament of the Elizabethan Era, worse remains behind!”’
 
 Mr. Micawber was so very much struck by this happy rounding off with a
 quotation, that he indulged himself, and us, with a second reading of
@@ -123,25 +140,3 @@ making too great a show of liveries, or as slaves when they are too
 numerous rise against their masters, so I think I could mention a
 nation that has got into many great difficulties, and will get into many
 greater, from maintaining too large a retinue of words.
-
-Mr. Micawber read on, almost smacking his lips:
-
-‘“To wit, in manner following, that is to say. Mr. W. being infirm, and
-it being within the bounds of probability that his decease might lead
-to some discoveries, and to the downfall of--HEEP’S--power over the W.
-family,--as I, [[Wilkins Micawber]], the undersigned, assume--unless the
-filial affection of his daughter could be secretly influenced from
-allowing any investigation of the partnership affairs to be ever made,
-the said--HEEP--deemed it expedient to have a bond ready by him, as from
-Mr. W., for the before-mentioned sum of twelve six fourteen, two and
-nine, with interest, stated therein to have been advanced by--HEEP--to
-Mr. W. to save Mr. W. from dishonour; though really the sum was never
-advanced by him, and has long been replaced. The signatures to this
-instrument purporting to be executed by Mr. W. and attested by Wilkins
-Micawber, are forgeries by--HEEP. I have, in my possession, in his hand
-and pocket-book, several similar imitations of Mr. W.’s signature, here
-and there defaced by [[Fire|fire]], but legible to anyone. I never attested any
-such document. And I have the document itself, in my possession.”’ Uriah
-Heep, with a start, took out of his pocket a bunch of keys, and opened
-a certain drawer; then, suddenly bethought himself of what he was about,
-and turned again towards us, without looking in it.

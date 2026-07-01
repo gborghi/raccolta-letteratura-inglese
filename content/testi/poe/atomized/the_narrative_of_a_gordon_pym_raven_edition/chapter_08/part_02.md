@@ -14,6 +14,10 @@ tags:
 </nav>
 
 
+      could not make out all that was said, but I could plainly see the
+
+      effects of the conversation in the countenances of those present.
+
       The mate was evidently much agitated, and presently, when some
 
       one mentioned the terrific appearance of Rogers’ corpse, I
@@ -177,13 +181,3 @@ tags:
       pinned him to the floor in an instant. My friend, however, was
 
       now too much injured to render us any aid whatever, and I was so
-
-      encumbered with my disguise that I could do but little. The dog
-
-      would not leave his hold upon the throat of [[Jones]]—Peters,
-
-      nevertheless, was far more than a match for the two men who
-
-      remained, and would, no [[Doubt|doubt]], have dispatched them sooner, had
-
-      it not been for the narrow space in which he had to act, and the

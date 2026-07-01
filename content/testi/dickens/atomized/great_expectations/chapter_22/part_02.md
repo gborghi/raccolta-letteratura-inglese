@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 22 (part 2)"
+title: "Great Expectations — Chapter 22 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_22/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_22/part_03">part 03 ›</a></div>
 </nav>
 
+
+“Would you mind Handel for a familiar name? There’s a charming piece of
+music by Handel, called the Harmonious Blacksmith.”
 
 “I should like it very much.”
 

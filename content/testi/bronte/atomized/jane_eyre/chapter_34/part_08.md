@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 34 (part 8)"
+title: "Jane Eyre — Chapter 34 (part 8)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,30 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_34/part_07">‹ part 07</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_35/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Shall I?” I said briefly; and I looked at his features, beautiful in
+their harmony, but strangely formidable in their still severity; at his
+brow, commanding but not open; at his eyes, bright and deep and
+searching, but never soft; at his tall imposing figure; and fancied
+myself in idea _his wife_. Oh! it would never do! As his curate, his
+comrade, all would be right: I would [[Cross|cross]] oceans with him in that
+capacity; toil under Eastern suns, in Asian deserts with him in that
+office; admire and emulate his [[Courage|courage]] and devotion and vigour;
+accommodate quietly to his masterhood; smile undisturbed at his
+ineradicable [[Ambition|ambition]]; discriminate the Christian from the man:
+profoundly esteem the one, and freely forgive the other. I should
+suffer often, no [[Doubt|doubt]], attached to him only in this capacity: my [[Body|body]]
+would be under rather a stringent yoke, but my heart and mind would be
+free. I should still have my unblighted [[Self|self]] to turn to: my natural
+unenslaved feelings with which to communicate in moments of [[Loneliness|loneliness]].
+There would be recesses in my mind which would be only mine, to which
+he never came, and sentiments growing there fresh and sheltered which
+his austerity could never blight, nor his measured warrior-march
+trample down: but as his wife—at his side always, and always
+restrained, and always checked—forced to keep the [[Fire|fire]] of my [[Nature|nature]]
+continually low, to compel it to burn inwardly and never utter a cry,
+though the imprisoned flame consumed vital after vital—_this_ would be
+unendurable.
 
 “St. John!” I exclaimed, when I had got so far in my meditation.
 

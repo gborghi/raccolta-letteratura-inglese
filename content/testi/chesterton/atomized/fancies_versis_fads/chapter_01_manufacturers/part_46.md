@@ -94,7 +94,7 @@ legendary lady secretary of Madam Blavatsky or Mrs. Besant,
 who was so much delighted with a new sofa or ottoman that she sat
 on it by preference when resting or reading her correspondence.
 At last it moved slightly, and she found it was a mahatma covered with
-his Eastern robe and rigid in [[prayer]], or some more impersonal ecstasy.
+his Eastern robe and rigid in [[Prayer|prayer]], or some more impersonal ecstasy.
 That a lady secretary should have a seat any gentleman will approve;
 that a mahatma should be sat on no Christian will deny;
 nevertheless, there is another possible moral to the [[Fable|fable]]

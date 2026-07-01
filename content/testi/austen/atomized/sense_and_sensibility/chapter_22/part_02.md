@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 22 (part 2)"
+title: "Sense and Sensibility — Chapter 22 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_22/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_22/part_03">part 03 ›</a></div>
 </nav>
 
+
+to speak, and to speak cautiously, she said, with calmness of manner,
+
+which tolerably [[Well|well]] concealed her surprise and solicitude—“May I ask
 
 if your engagement is of long standing?”
 
@@ -249,17 +253,3 @@ have suffered for Edward’s sake these last four years. Every thing in
 such suspense and uncertainty; and seeing him so seldom—we can hardly
 
 meet above twice a-year. I am sure I [[Wonder|wonder]] my heart is not quite
-
-broke.”
-
-
-
-Here she took out her handkerchief; but Elinor did not feel very
-
-compassionate.
-
-
-
-“Sometimes.” continued Lucy, after wiping her eyes, “I think whether it
-
-would not be better for us both to break off the matter entirely.” As

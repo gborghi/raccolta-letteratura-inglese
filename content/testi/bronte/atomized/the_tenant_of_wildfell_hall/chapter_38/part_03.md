@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 38 (part 3)"
+title: "The Tenant of Wildfell Hall — Chapter 38 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_38/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_39/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Just so! [[Well]] then,—”
+
+
+
+“No!” exclaimed his lordship, with deep, determined emphasis. “Though I
+
+hate him from my heart, and should rejoice at any calamity that could
+
+befall him, I’ll leave him to God; and though I abhor my own life, I’ll
 
 leave that, too, to Him that gave it.”
 
@@ -178,7 +188,7 @@ except myself, and just as I was leaving my room [[Lord Lowborough]] was
 
 descending to take his place in the carriage, where his lady was
 
-already ensconced; and [[arthur|Arthur]] (or Mr. Huntingdon, as I prefer calling
+already ensconced; and [[Arthur]] (or Mr. Huntingdon, as I prefer calling
 
 him, for the other is my [[Child|child]]’s name) had the gratuitous insolence to
 

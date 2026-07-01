@@ -45,7 +45,7 @@ BY G.K. CHESTERTON
 
 [[London|LONDON]]
 
-[[arthur|ARTHUR]] L. HUMPHREYS
+[[Arthur|ARTHUR]] L. HUMPHREYS
 
 1902
 
@@ -527,7 +527,7 @@ that surrounds us on every side. The manner in which Morris carried out
 
 his crusade may, considering the circumstances, be called triumphant.
 
-Our carpets began to bloom under our feet like the meadows in [[Spring|spring]],
+Our carpets began to bloom under our feet like the meadows in [[spring]],
 
 and our hitherto prosaic stools and sofas seemed growing legs and arms
 
@@ -581,7 +581,7 @@ sprang honestly and naturally out of the life they led and preferred to
 
 lead. And it may surely be maintained that any real advance in the
 
-[[Beauty|beauty]] of modern dress must [[Spring|spring]] honestly and naturally out of the
+[[Beauty|beauty]] of modern dress must [[spring]] honestly and naturally out of the
 
 life we lead and prefer to lead. We are not altogether without hints and
 
@@ -991,7 +991,7 @@ arraign existence on the most deadly charges, he may condemn it with the
 
 most desolating verdict, but he cannot alter the fact that on some walk
 
-in a [[Spring|spring]] morning when all the limbs are swinging and all the [[Blood|blood]]
+in a [[spring]] morning when all the limbs are swinging and all the [[Blood|blood]]
 
 alive in the [[Body|body]], the lips may be caught repeating:
 
@@ -3893,7 +3893,7 @@ whom even nations and empires only exist to satisfy the moment, men to
 
 whom the last hot hour of [[Summer|summer]] is better than a sharp and wintry
 
-[[Spring|spring]]. They have an art, a literature, a political [[philosophy]], which
+[[spring]]. They have an art, a literature, a political [[philosophy]], which
 
 are all alike valued for their immediate effect upon the taste, not for
 
@@ -4099,7 +4099,7 @@ the same quality which is often possessed by those nocturnal
 
 comedies--that of seeming more human than our waking life--even while
 
-they are less possible. Sir [[arthur|Arthur]] Wardour, with his daughter and the
+they are less possible. Sir [[Arthur]] Wardour, with his daughter and the
 
 old beggar crouching in a cranny of the cliff as [[Night|night]] falls and the
 

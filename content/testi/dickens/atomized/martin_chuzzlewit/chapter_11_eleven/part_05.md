@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 11: ELEVEN (part 5)"
+title: "Martin Chuzzlewit — Chapter 11: ELEVEN (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_11_eleven/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_11_eleven/part_06">part 06 ›</a></div>
 </nav>
 
+
+Mr Jonas considered this so particularly childish (perhaps with some
+reason), that he only laughed the more, and told his cousins that he was
+afraid one of these fine days, Chuffey would be the [[Death|death]] of him. The
+cloth was then removed, and the bottle of wine set upon the table, from
+which Mr Jonas filled the young ladies’ glasses, calling on them not to
+spare it, as they might be certain there was plenty more where that came
+from. But he added with some haste after this sally that it was only his
+joke, and they wouldn’t suppose him to be in earnest, he was sure.
 
 ‘I shall drink,’ said Anthony, ‘to Pecksniff. Your father, my dears. A
 clever man, Pecksniff. A wary man! A hypocrite, though, eh? A hypocrite,
@@ -113,16 +122,3 @@ his griping and penurious habits stepped in; and as one [[Poison|poison]] will
 sometimes neutralise another, when wholesome remedies would not avail,
 so he was restrained by a bad passion from quaffing his full measure of
 evil, when virtue might have sought to hold him back in vain.
-
-By the [[Time|time]] he had unfolded all the peddling schemes he knew upon the
-cards, it was growing late in the evening; and Mr Pecksniff not making
-his appearance, the young ladies expressed a wish to return [[Home|home]]. But
-this, Mr Jonas, in his gallantry, would by no means allow, until they
-had partaken of some bread and [[cheese]] and porter; and even then he was
-excessively unwilling to allow them to depart; often beseeching Miss
-[[Charity]] to come a little closer, or to stop a little longer, and
-preferring many other complimentary petitions of that [[Nature|nature]] in his own
-hospitable and earnest way. When all his efforts to detain them were
-fruitless, he put on his hat and greatcoat preparatory to escorting them
-to Todgers’s; remarking that he knew they would rather walk thither than
-ride; and that for his part he was quite of their opinion.

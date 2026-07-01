@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 3 (part 3)"
+title: "Wuthering Heights — Chapter 3 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -37,7 +37,7 @@ in!”
 
 The fingers relaxed, I snatched mine through the hole, hurriedly piled
 the books up in a pyramid against it, and stopped my ears to exclude
-the lamentable [[Prayer|prayer]].
+the lamentable [[prayer]].
 
 I seemed to keep them closed above a quarter of an hour; yet, the
 instant I listened again, there was the doleful cry moaning on!

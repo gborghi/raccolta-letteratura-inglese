@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 31 (part 1)"
+title: "Nicholas Nickleby — Chapter 31 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -134,12 +134,3 @@ made up his mind whether to halt or go straight forwards. After a
 very short consideration, the former inclination prevailed, and making
 towards the point he had had in his mind, Newman knocked a modest [[Double|double]]
 knock, or rather a nervous single one, at Miss La Creevy’s door.
-
-It was opened by a strange servant, on whom the odd figure of the
-visitor did not appear to make the most favourable impression possible,
-inasmuch as she no sooner saw him than she very nearly closed it, and
-placing herself in the narrow gap, inquired what he wanted. But Newman
-merely uttering the monosyllable ‘Noggs,’ as if it were some cabalistic
-word, at sound of which bolts would fly back and doors open, pushed
-briskly past and gained the door of Miss La Creevy’s sitting-room,
-before the astonished servant could offer any opposition.

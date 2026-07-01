@@ -14,6 +14,12 @@ tags:
 </nav>
 
 
+‘Where should they put ’em?’
+
+‘Not on the ground surely.  What do you say to hanging them up?’
+
+He stops and looks round to emphasise his answer:
+
 ‘Why, I say that’s just it.  When they had hooks they _would_ hang
 themselves, so they’re taken out of every cell, and there’s only the
 marks left where they used to be!’
@@ -108,24 +114,3 @@ Barrel-organs?  No, not one.  Yes, I remember one.  One barrel-organ and
 a dancing-monkey—sportive by [[Nature|nature]], but fast fading into a dull, lumpish
 monkey, of the Utilitarian school.  Beyond that, nothing lively; no, not
 so much as a white mouse in a twirling cage.
-
-Are there no amusements?  Yes.  There is a lecture-room across the way,
-from which that glare of light proceeds, and there may be evening service
-for the ladies thrice a week, or oftener.  For the young gentlemen, there
-is the counting-[[house]], the store, the bar-room: the latter, as you may
-see through these windows, pretty full.  Hark! to the clinking sound of
-hammers breaking lumps of ice, and to the cool gurgling of the pounded
-bits, as, in the process of mixing, they are poured from glass to glass!
-No amusements?  What are these suckers of cigars and swallowers of strong
-drinks, whose hats and legs we see in every possible variety of twist,
-doing, but amusing themselves?  What are the fifty newspapers, which
-those precocious urchins are bawling down the street, and which are kept
-filed within, what are they but amusements?  Not vapid, waterish
-amusements, but good strong stuff; dealing in round abuse and blackguard
-names; pulling off the roofs of private houses, as the Halting Devil did
-in Spain; pimping and pandering for all degrees of vicious taste, and
-gorging with coined lies the most voracious maw; imputing to every man in
-public life the coarsest and the vilest motives; scaring away from the
-stabbed and prostrate [[Body|body]]-politic, every Samaritan of clear [[Conscience|conscience]]
-and good deeds; and setting on, with yell and whistle and the clapping of
-foul hands, the vilest vermin and worst [[Birds|birds]] of prey.—No amusements!

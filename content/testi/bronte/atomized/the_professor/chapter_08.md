@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 7"
+title: "The Professor — Chapter 7"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-professor-(bronte)"
@@ -16,15 +16,11 @@ tags:
 
 CHAPTER VII.
 
-
-
 READER, perhaps you were never in Belgium? Haply you don’t know the
 
 physiognomy of the country? You have not its lineaments defined upon
 
 your [[Memory|memory]], as I have them on mine?
-
-
 
 Three--nay four--pictures line the four-walled cell where are stored for
 
@@ -32,7 +28,7 @@ me the records of the past. First, Eton. All in that picture is in far
 
 perspective, receding, diminutive; but freshly coloured, green, dewy,
 
-with a [[spring]] sky, piled with glittering yet showery clouds; for my
+with a [[Spring|spring]] sky, piled with glittering yet showery clouds; for my
 
 [[Childhood|childhood]] was not all sunshine--it had its overcast, its cold, its
 
@@ -41,8 +37,6 @@ stormy hours. Second, X----, huge, dingy; the canvas cracked and smoked;
 a yellow sky, sooty clouds; no sun, no azure; the verdure of the suburbs
 
 blighted and sullied--a very dreary scene.
-
-
 
 Third, Belgium; and I will pause before this landscape. As to the
 
@@ -71,8 +65,6 @@ outline, the sound which wakened them dies, and they sink, each and all,
 like a light wreath of mist, absorbed in the mould, recalled to urns,
 
 resealed in monuments. Farewell, luminous phantoms!
-
-
 
 This is Belgium, reader. Look! don’t call the picture a flat or a dull
 
@@ -122,8 +114,6 @@ I thought nothing of the stones turning under my feet, or of the thorns
 
 scratching my face and hands.
 
-
-
 I gazed often, and always with delight, from the [[Window|window]] of the diligence
 
 (these, be it remembered, were not the days of trains and railroads).
@@ -159,8 +149,6 @@ fiacre conveyed me to the Hotel de ----, where I had been advised by a
 fellow-traveller to put up; having eaten a traveller’s supper, I retired
 
 to bed, and slept a traveller’s [[Sleep|sleep]].
-
-
 
 Next morning I awoke from prolonged and sound repose with the impression
 
@@ -226,8 +214,6 @@ very picturesque; she reminded me of the female figures in certain Dutch
 
 paintings I had seen in other years at Seacombe Hall.
 
-
-
 I repaired to the public room; that, too, was very large and very lofty,
 
 and warmed by a stove; the floor was black, and the stove was black, and
@@ -270,8 +256,6 @@ capital I was in; it was my first experience of that skill in living
 
 languages I afterwards found to be so general in Brussels.
 
-
-
 I lingered over my breakfast as long as I could; while it was there
 
 on the table, and while that stranger continued talking to me, I was a
@@ -304,8 +288,6 @@ and forced my reluctant [[Body|body]] out of the Hotel de ---- into the foreign
 
 street.
 
-
-
 It was a fine day, but I would not look at the blue sky or at the
 
 stately houses round me; my mind was bent on one thing, finding out “Mr.
@@ -315,8 +297,6 @@ Brown, Numero --, Rue Royale,” for so my letter was addressed. By dint
 of inquiry I succeeded; I stood at last at the desired door, knocked,
 
 asked for Mr. Brown, and was admitted.
-
-
 
 Being shown into a small breakfast-room, I found myself in the
 
@@ -340,8 +320,6 @@ that as a friend of Mr. Hunsden’s he would be willing to assist me as
 
 [[house]] at Liege, and another in a bookseller’s shop at Louvain.
 
-
-
 “Clerk and shopman!” murmured I to myself. “No.” I shook my head. I
 
 had tried the high stool; I hated it; I believed there were other
@@ -349,8 +327,6 @@ had tried the high stool; I hated it; I believed there were other
 occupations that would suit me better; besides I did not wish to leave
 
 Brussels.
-
-
 
 “I know of no place in Brussels,” answered Mr. Brown, “unless indeed you
 
@@ -360,21 +336,13 @@ the director of a large establishment who is in want of a professor of
 
 English and Latin.”
 
-
-
 I thought two minutes, then I seized the idea eagerly.
 
-
-
 “The very thing, sir!” said I.
-
-
 
 “But,” asked he, “do you understand French [[Well|well]] enough to teach Belgian
 
 boys English?”
-
-
 
 Fortunately I could answer this question in the affirmative;
 
@@ -384,8 +352,6 @@ intelligibly though not fluently. I could also read it [[Well|well]], and write
 
 it decently.
 
-
-
 “Then,” pursued Mr. Brown, “I think I can promise you the place, for
 
 [[Monsieur Pelet]] will not refuse a professor recommended by me; but come
@@ -394,17 +360,11 @@ here again at five o’[[Clock|clock]] this afternoon, and I will introduce you 
 
 him.”
 
-
-
 The word “professor” struck me. “I am not a professor,” said I.
-
-
 
 “Oh,” returned Mr. Brown, “professor, here in Belgium, means a teacher,
 
 that is all.”
-
-
 
 My [[Conscience|conscience]] thus quieted, I thanked Mr. Brown, and, for the present,
 
@@ -445,8 +405,6 @@ externats no [[Doubt|doubt]], were at that moment issuing from the door--I looke
 for a pretty face amongst them, but their close, little French bonnets
 
 hid their features; in a moment they were gone.
-
-
 
 I had traversed a good deal of Brussels before five o’[[Clock|clock]] arrived,
 
@@ -496,8 +454,6 @@ establishment, you may, in [[Time|time]], obtain employment in other seminaries,
 
 and thus turn your vacant moments to profitable account.”
 
-
-
 I thought this very kind, and indeed I found afterwards that the terms
 
 on which M. Pelet had engaged me were really liberal for Brussels;
@@ -507,8 +463,6 @@ instruction being extremely cheap there on account of the number of
 teachers. It was further arranged that I should be installed in my new
 
 post the very next day, after which M. Pelet and I parted.
-
-
 
 [[Well]], and what was he like? and what were my impressions concerning him?
 
@@ -542,8 +496,6 @@ M. Pelet presented an absolute contrast to my late master, Edward
 
 Crimsworth.
 
-
-
 Influenced by the impression I had received of his gentleness, I was a
 
 good deal surprised when, on arriving the next day at my new employer’s
@@ -570,13 +522,9 @@ perambulated the length and breadth of the classes, M. Pelet turned and
 
 said to me--
 
-
-
 “Would you object to taking the boys as they are, and testing their
 
 proficiency in English?”
-
-
 
 The proposal was unexpected. I had thought I should have been allowed at
 
@@ -590,21 +538,13 @@ my thoughts, and likewise to frame in French the sentence by which I
 
 proposed to open business. I made it as short as possible:--
 
-
-
 “Messieurs, prenez vos livres de lecture.”
-
-
 
 “Anglais ou Francais, monsieur?” demanded a thickset, [[Moon|moon]]-faced young
 
 Flamand in a blouse. The answer was fortunately easy:--
 
-
-
 “Anglais.”
-
-
 
 I determined to give myself as little trouble as possible in this
 
@@ -617,8 +557,6 @@ criticisms of the young gentlemen before me, relative to whom I felt
 already it would be necessary at once to take up an advantageous
 
 position, and I proceeded to employ means accordingly.
-
-
 
 “Commencez!” cried I, when they had all produced their books. The
 
@@ -650,8 +588,6 @@ rotation, and when the twelfth had concluded with splutter, hiss, and
 
 mumble, I solemnly laid down the book.
 
-
-
 “Arretez!” said I. There was a pause, during which I regarded them all
 
 with a steady and somewhat stern gaze; a dog, if stared at hard enough
@@ -664,11 +600,7 @@ were beginning to look sullen, and others ashamed, I slowly joined my
 
 hands, and ejaculated in a deep “voix de poitrine”--
 
-
-
 “Comme c’est affreux!”
-
-
 
 They looked at each other, pouted, coloured, swung their heels; they
 
@@ -681,8 +613,6 @@ I wished them to be. Having thus taken them down a peg in their
 a very easy thing, considering that I hardly dared to speak for [[Fear|fear]] of
 
 betraying my own deficiencies.
-
-
 
 “Ecoutez, messieurs!” said I, and I endeavoured to throw into my
 
@@ -700,27 +630,19 @@ attention; by the [[Time|time]] I had done nearly an hour had elapsed. I then
 
 [[Rose|rose]] and said:--
 
-
-
 “C’est assez pour aujourd’hui, messieurs; demain nous recommencerons, et
 
 j’espere que tout ira bien.”
 
-
-
 With this oracular sentence I bowed, and in company with M. Pelet
 
 quitted the school-room.
-
-
 
 “C’est bien! c’est tres bien!” said my principal as we entered his
 
 parlour. “Je vois que monsieur a de l’adresse; cela, me plait, car, dans
 
 l’instruction, l’adresse fait tout autant que le savoir.”
-
-
 
 From the parlour M. Pelet conducted me to my apartment, my “chambre,”
 
@@ -744,15 +666,11 @@ it would present if disencumbered of the boards. M. Pelet read, I
 
 suppose, the expression of my eye; he explained:--
 
-
-
 “La fenetre fermee donne sur un jardin appartenant a un pensionnat
 
 de demoiselles,” said he, “et les convenances exigent--enfin, vous
 
 comprenez--n’est-ce pas, monsieur?”
-
-
 
 “Oui, oui,” was my reply, and I looked of course quite satisfied; but
 
@@ -828,8 +746,6 @@ such as we sober English never run into. I think, indeed, we have too
 
 limited a list to choose from.
 
-
-
 Meantime my path was gradually growing smooth before me. I, in a
 
 few weeks, conquered the teasing difficulties inseparable from the
@@ -855,8 +771,6 @@ uncommon one. Before concluding this chapter I will say a word on the
 system I pursued with regard to my classes: my experience may possibly
 
 be of use to others.
-
-
 
 It did not require very keen observation to detect the character of the
 
@@ -885,8 +799,6 @@ injudicious and arbitrary measures on the part of [[The Professor|the Professor]
 would have resisted as obstinately, as clamorously, as desperate swine;
 
 and though not brave singly, they were relentless acting EN MASSE.
-
-
 
 I understood that before my arrival in M. Pelet’s establishment, the
 

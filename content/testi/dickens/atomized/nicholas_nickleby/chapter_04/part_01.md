@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 4 (part 1)"
+title: "Nicholas Nickleby — Chapter 4 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -108,12 +108,3 @@ lace-up half-boots and corduroy trousers dangling in the air--a
 diminutive boy, with his shoulders drawn up to his ears, and his hands
 planted on his knees, who glanced timidly at the schoolmaster, from [[Time|time]]
 to [[Time|time]], with evident dread and apprehension.
-
-‘Half-past three,’ muttered Mr. Squeers, turning from the [[Window|window]], and
-looking sulkily at the coffee-room [[Clock|clock]]. ‘There will be nobody here
-today.’
-
-Much vexed by this reflection, Mr. Squeers looked at the little boy to
-see whether he was doing anything he could beat him for. As he happened
-not to be doing anything at all, he merely boxed his ears, and told him
-not to do it again.

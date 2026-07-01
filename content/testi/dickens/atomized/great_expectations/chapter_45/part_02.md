@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 45 (part 2)"
+title: "Great Expectations — Chapter 45 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_45/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_45/part_03">part 03 ›</a></div>
 </nav>
 
+
+I thanked him for his [[Friendship|friendship]] and caution, and our discourse
+proceeded in a low tone, while I toasted the Aged’s sausage and he
+buttered the crumb of the Aged’s roll.
+
+“Now, Mr. Pip, you know,” said Wemmick, “you and I understand one
+another. We are in our private and personal capacities, and we have
+been engaged in a confidential transaction before to-day. Official
+sentiments are one thing. We are extra official.”
 
 I cordially assented. I was so very nervous, that I had already lighted
 the Aged’s sausage like a torch, and been obliged to blow it out.
@@ -141,16 +150,3 @@ and thus, although I was assured that I had risen in Clara’s esteem,
 and although the young lady and I had long regularly interchanged
 messages and remembrances by Herbert, I had never seen her. However, I
 did not trouble Wemmick with these particulars.
-
-“The [[house]] with the bow-[[Window|window]],” said Wemmick, “being by the
-[[River|river]]-side, down the Pool there between Limehouse and Greenwich, and
-being kept, it seems, by a very respectable widow who has a furnished
-upper floor to let, Mr. Herbert put it to me, what did I think of that
-as a temporary tenement for Tom, Jack, or [[Richard]]? Now, I thought very
-[[Well|well]] of it, for three reasons I’ll give you. That is to say: _Firstly_.
-It’s altogether out of all your beats, and is [[Well|well]] away from the usual
-heap of streets great and small. _Secondly_. Without going near it
-yourself, you could always hear of the safety of Tom, Jack, or [[Richard]],
-through Mr. Herbert. _Thirdly_. After a while and when it might be
-prudent, if you should want to slip Tom, Jack, or [[Richard]] on board a
-foreign packet-boat, there he is—ready.”

@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 13 (part 4)"
+title: "Shirley — Chapter 13 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,28 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_13/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_13/part_05">part 05 ›</a></div>
 </nav>
 
+
+under a darker aspect than I used to do. I have fears I never used to
+
+have--not of [[Ghosts|ghosts]], but of omens and disastrous events; and I have an
+
+inexpressible weight on my mind which I would give the world to shake
+
+off, and I cannot do it."
+
+
+
+"Strange!" cried [[Shirley]]. "I never feel so." Mrs. Pryor said nothing.
+
+
+
+"Fine weather, pleasant days, pleasant scenes, are powerless to give me
+
+pleasure," continued Caroline. "Calm evenings are not calm to me.
+
+Moonlight, which I used to think mild, now only looks mournful. Is this
+
+weakness of mind, Mrs. Pryor, or what is it? I cannot help it. I often
 
 struggle against it. I reason; but reason and effort make no
 
@@ -221,31 +243,3 @@ was to it, sealed her lips. Now, as on a thousand other occasions,
 inexplicable nervous scruples kept her back from interfering. She merely
 
 showed her concern for Miss Helstone in an indirect way, by asking her
-
-if the [[Fire|fire]] made her too warm, placing a screen between her chair and
-
-the hearth, closing a [[Window|window]] whence she imagined a draught proceeded,
-
-and often and restlessly glancing at her. [[Shirley]] resumed: "Having
-
-destroyed your plan," she said, "which I [[Hope|hope]] I have done, I shall
-
-construct a new one of my own. Every [[Summer|summer]] I make an excursion. This
-
-season I propose spending two months either at the Scotch lochs or the
-
-English lakes--that is, I shall go there provided you consent to
-
-accompany me. If you refuse, I shall not stir a foot."
-
-
-
-"You are very good, [[Shirley]]."
-
-
-
-"I would be very good if you would let me. I have every disposition to
-
-be good. It is my misfortune and habit, I know, to think of myself
-
-paramount to anybody else; but who is not like me in that respect?

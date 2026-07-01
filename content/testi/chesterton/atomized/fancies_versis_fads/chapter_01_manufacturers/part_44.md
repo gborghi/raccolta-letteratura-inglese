@@ -85,7 +85,7 @@ If [[Education|education]] is the largest thing in the world, what is the sense
 of talking about a woman being liberated from the largest thing
 in the world?  It is as if we were to rescue her from the cruel
 doom of being a poet like Shakespeare; or to pity the limitations
-of an all-round [[artist]] like Leonardo da Vinci.  Nor can there
+of an all-round [[Artist|artist]] like Leonardo da Vinci.  Nor can there
 be any [[Doubt|doubt]] that there is [[Truth|truth]] in this claim for [[Education|education]].
 Only precisely the sort of which it is particularly true is the sort
 called domestic [[Education|education]].  Private [[Education|education]] really is universal.

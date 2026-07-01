@@ -1,5 +1,5 @@
 ---
-title: "2 [[Henry IV]] — Act V, Scene 5 — monologue (EPILOGUE) [4]"
+title: "2 Henry IV — Act V, Scene 5 — monologue (EPILOGUE) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/2-henry-iv-(shakespeare)"

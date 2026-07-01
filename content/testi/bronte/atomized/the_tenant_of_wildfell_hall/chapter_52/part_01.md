@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 52 (part 1)"
+title: "The Tenant of Wildfell Hall — Chapter 52 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -144,7 +144,7 @@ it—all presented a picture, striking indeed, and pleasing to an
 
 unencumbered mind, but by no means encouraging to me. There was one
 
-comfort, however,—all this was entailed upon little [[arthur|Arthur]], and could
+comfort, however,—all this was entailed upon little [[Arthur]], and could
 
 not under any circumstances, strictly speaking, be his mother’s. But
 
@@ -223,9 +223,3 @@ therefore, I not only fortified myself with as substantial a breakfast
 as my excited feelings would allow me to [[Swallow|swallow]], but I bestowed a
 
 little more than usual [[Time|time]] and care upon my toilet; and, furnished
-
-with a change of linen from my small carpet-bag, [[Well|well]]-brushed clothes,
-
-[[Well|well]]-polished boots, and neat new gloves, I mounted “The [[Lightning]],”
-
-and resumed my [[Journey|journey]]. I had nearly two stages yet before me, but the

@@ -1,5 +1,5 @@
 ---
-title: "[[manalive]] — Chapter 1"
+title: "manalive — Chapter 1"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/manalive-(chesterton)"
@@ -18,7 +18,6 @@ tags:
 
 		      The Eye of [[Death]];
 		    or, the Murder Charge
-
 
 The dining-room of the Dukes had been set out for the [[Court]]
 of Beacon with a certain impromptu pomposity that seemed somehow
@@ -142,13 +141,10 @@ paper in his hand and a fever of importance on his face.
 He began in a loud, high, cockney voice that was as abrupt
 as a cock-crow:--
 
-
 "Sir,--Hi am the Sub-Warden of Brikespeare College, Cambridge--"
-
 
 "Lord have mercy on us," muttered Moon, making a backward movement as men
 do when a gun goes off.
-
 
 "Hi am the Sub-Warden of Brikespeare College, Cambridge,"
 proclaimed the uncompromising Moses, "and I can endorse the description
@@ -173,17 +169,14 @@ The photograph I enclose is from the group of the University Rifle Club
 prizemen, and represents him as he was when at the College.--
 Hi am, your obedient servant, Amos Boulter.
 
-
 "The other letter," continued Gould in a glow of triumph, "is from the porter,
 and won't take long to read.
-
 
 "Dear Sir,--It is quite true that I am the porter of Brikespeare College,
 and that I 'elped the Warden down when the young man was shooting at him,
 as Mr. Boulter has said in his letter.  The young man who was shooting at
 him was Mr. Smith, the same that is in the photograph Mr. Boulter sends.--
 Yours respectfully, Samuel Barker."
-
 
 Gould handed the two letters across to Moon, who examined them.
 But for the vocal divergences in the matter of h's and a's,
@@ -275,7 +268,6 @@ of Dr. Warner whom that remarkable man has affected in the same way.
 Following the example of my learned friends I will read only two of them.
 The first is from an honest and laborious matron living off the Harrow Road.
 
-
 "Mr. Moon, Sir,--Yes, I did throw a sorsepan at him.  Wot then?
 It was all I had to throw, all the soft things being porned,
 and if your Docter Warner doesn't like having sorsepans thrown at him,
@@ -283,11 +275,9 @@ don't let him wear his hat in a respectable woman's parler, and tell
 him to leave orf smiling or tell us the joke.--Yours respectfully,
 					       Hannah Miles.
 
-
 "The other letter is from a physician of some note in Dublin,
 with whom Dr. Warner was once engaged in consultation.
 He writes as follows:--
-
 
 "Dear Sir,--The incident to which you refer is one which I regret,
 and which, moreover, I have never been able to explain.
@@ -300,7 +290,6 @@ what regret); but pulling seems to me to imply a precision of objective
 with which I cannot reproach myself.  In comparison with this, the act
 of punching was an outward, instantaneous, and even natural gesture.--
 Believe me, yours faithfully, Burton Lestrange.
-
 
 "I have numberless other letters," continued [[Moon]], "all bearing witness
 to this widespread feeling about my eminent friend; and I therefore think
@@ -448,7 +437,6 @@ of the Cambridge incident is contained, and then that document itself.
 When you have heard both, there will be no [[Doubt|doubt]] about your decision.
 The covering letter runs as follows:--
 
-
 "Dear Sir,--The following is a very exact and even vivid account of the
 incident as it really happened at Brakespeare College.  We, the undersigned,
 do not see any particular reason why we should refer it to any
@@ -461,9 +449,7 @@ But every word of it is true.--We are, yours faithfully,
 
 					    "[[Innocent]] [[smith|Smith]].
 
-
 "The enclosed statement," continued Inglewood, "runs as follows:--
-
 
 "A celebrated English university backs so abruptly on the [[River|river]],
 that it has, so to speak, to be propped up and patched
@@ -526,7 +512,6 @@ your client was a bird of some sort--say, a flamingo?"
 No one quite knowing what to make of this, Mr. [[Moon]] resumed his seat
 and Inglewood resumed the reading of his document:--
 
-
 "There is something pleasing to a mystic in such a land of mirrors.
 For a mystic is one who holds that two worlds are better than one.
 In the highest sense, indeed, all thought is reflection.
@@ -539,7 +524,6 @@ This duplication of mentality, as in a [[Mirror|mirror]], is (we repeat)
 the inmost thing of human [[philosophy]].  There is a mystical, even a
 monstrous [[Truth|truth]], in the statement that two heads are better than one.
 But they ought both to grow on the same [[Body|body]]."
-
 
 "I know it's a little transcendental at first," interposed Inglewood,
 beaming round with a broad apology, "but you see this document was written
@@ -554,7 +538,6 @@ bears here and there the trace of coming from two authors."
 
 "In that case," said Dr. Pym, leaning back and sniffing,
 "I cannot agree with them that two heads are better than one."
-
 
 "The undersigned persons think it needless to touch on a kindred
 problem so often discussed at committees for University [[Reform]]:
@@ -571,10 +554,8 @@ other hand, they are puddles--puddles, puddles, puddles, puddles.
 The undersigned persons ask you to excuse an emphasis inseparable
 from strong conviction."
 
-
 Inglewood ignored a somewhat wild expression on the faces of some present,
 and continued with eminent cheerfulness:--
-
 
 "Such were the thoughts that failed to [[Cross|cross]] the mind of
 the undergraduate [[smith|Smith]] as he picked his way among the stripes
@@ -803,7 +784,6 @@ give us a [[Song|song]]!'
 	  And perched me on this curious place,
 	    A happy English child.'
 
-
 "Dr. Emerson Eames having briefly complied, his persecutor abruptly
 told him to hold his hands up in the air.  Vaguely connecting this
 proceeding with the usual conduct of brigands and bushrangers,
@@ -980,4 +960,4 @@ for beer.  Farewell.
 			      "(Signed) James Emerson Eames,
 		   Warden of Brakespeare College, Cambridge.
 
-					   "[[Innocent]] [[smith|Smith]]."
+					   "Innocent Smith."

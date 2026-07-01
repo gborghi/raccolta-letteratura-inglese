@@ -150,8 +150,3 @@ militavi non sine_--what's the Latin for having a lark?
 I can't pretend to Peace and Joy, and all the rest of it,
 particularly in this original briar-patch.  I haven't been
 happy, Hump, but I have had a jolly [[Time|time]]."
-
-The sunset stillness settled down again, save for the
-cropping of the [[donkey]] in the undergrowth; and
-Pump said nothing sympathetically; and it was
-Dalroy once more who took up his [[Parable|parable]].

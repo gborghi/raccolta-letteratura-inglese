@@ -1,5 +1,5 @@
 ---
-title: "[[The Unparalleled Adventures of one Hans Pfaall]] (part 20)"
+title: "The Unparalleled Adventures of one Hans Pfaall (part 20)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-unparalleled-adventures-of-one-hans-pfaall-(poe)"
@@ -13,6 +13,94 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/part/part_19">‹ part 19</a><a class="ex-next" href="/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/part/part_21">part 21 ›</a></div>
 </nav>
 
+
+      undertaken, or conceived by any denizen of earth. But my
+
+      adventures yet remain to be related. And indeed your Excellencies
+
+      may [[Well|well]] imagine that, after a residence of five years upon a
+
+      planet not only deeply interesting in its own peculiar character,
+
+      but rendered doubly so by its intimate connection, in capacity of
+
+      satellite, with the world inhabited by man, I may have
+
+      intelligence for the private ear of the States’ College of
+
+      Astronomers of far more importance than the details, however
+
+      wonderful, of the mere voyage which so happily concluded. This
+
+      is, in fact, the case. I have much—very much which it would give
+
+      me the greatest pleasure to communicate. I have much to say of
+
+      the climate of the planet; of its wonderful alternations of heat
+
+      and cold, of unmitigated and burning sunshine for one fortnight,
+
+      and more than polar frigidity for the next; of a constant
+
+      transfer of moisture, by distillation like that in vacuo, from
+
+      the point beneath the sun to the point the farthest from it; of a
+
+      variable zone of running [[Water|water]]; of the people themselves; of
+
+      their manners, customs, and political institutions; of their
+
+      peculiar physical construction; of their ugliness; of their want
+
+      of ears, those useless appendages in an atmosphere so peculiarly
+
+      modified; of their consequent ignorance of the use and properties
+
+      of speech; of their substitute for speech in a singular method of
+
+      inter-communication; of the incomprehensible connection between
+
+      each particular individual in the [[Moon|moon]] with some particular
+
+      individual on the earth—a connection analogous with, and
+
+      depending upon, that of the orbs of the planet and the
+
+      satellites, and by means of which the lives and destinies of the
+
+      inhabitants of the one are interwoven with the lives and
+
+      destinies of the inhabitants of the other; and above all, if it
+
+      so please your Excellencies—above all, of those dark and hideous
+
+      mysteries which lie in the outer regions of the [[Moon|moon]]—regions
+
+      which, owing to the almost miraculous accordance of the
+
+      satellite’s rotation on its own axis with its sidereal revolution
+
+      about the earth, have never yet been turned, and, by God’s [[Mercy|mercy]],
+
+      never shall be turned, to the scrutiny of the telescopes of man.
+
+      All this, and more—much more—would I most willingly detail. But,
+
+      to be brief, I must have my reward. I am pining for a return to
+
+      my family and to my [[Home|home]]; and as the price of any farther
+
+      communication on my part—in consideration of the light which I
+
+      have it in my power to throw upon many very important branches of
+
+      physical and metaphysical science—I must solicit, through the
+
+      influence of your honorable [[Body|body]], a pardon for the crime of which
+
+      I have been guilty in the [[Death|death]] of the creditors upon my
+
+      departure from Rotterdam. This, then, is the object of the
 
       present paper. Its bearer, an inhabitant of the [[Moon|moon]], whom I have
 
@@ -117,123 +205,3 @@ tags:
 
 
       Thirdly. That the newspapers which were stuck all over the little
-
-      balloon were newspapers of Holland, and therefore could not have
-
-      been made in the [[Moon|moon]]. They were dirty papers—very dirty—and
-
-      Gluck, the printer, would take his [[Bible]] oath to their having
-
-      been printed in Rotterdam.
-
-
-
-      He was mistaken—undoubtedly—mistaken.
-
-
-
-      Fourthly, That Hans Pfaall himself, the drunken [[Villain|villain]], and the
-
-      three very idle gentlemen styled his creditors, were all seen, no
-
-      longer than two or three days ago, in a tippling [[house]] in the
-
-      suburbs, having just returned, with money in their pockets, from
-
-      a trip beyond the sea.
-
-
-
-      Don’t believe it—don’t believe a word of it.
-
-
-
-      Lastly. That it is an opinion very generally received, or which
-
-      ought to be generally received, that the College of Astronomers
-
-      in the [[City|city]] of Rotterdam, as [[Well|well]] as other colleges in all other
-
-      parts of the world,—not to mention colleges and astronomers in
-
-      general,—are, to say the least of the matter, not a whit better,
-
-      nor greater, nor wiser than they ought to be.
-
-
-
-      ~~~ End of Text ~~~
-
-
-
-Notes to Hans Pfaal
-
-
-
-      (*1) NOTE—Strictly speaking, there is but little similarity
-
-      between the above sketchy trifle and the celebrated “[[Moon]]-Story”
-
-      of Mr. Locke; but as both have the character of _hoaxes_
-
-      (although the one is in a tone of banter, the other of downright
-
-      earnest), and as both hoaxes are on the same subject, the
-
-      [[Moon|moon]]—moreover, as both attempt to give plausibility by scientific
-
-      detail—the author of “Hans Pfaall” thinks it necessary to say, in
-
-      _self-defence,_ that his own _jeu d’esprit_ was published in the
-
-      “Southern Literary Messenger” about three weeks before the
-
-      commencement of Mr. L’s in the “[[New York]] Sun.” Fancying a
-
-      likeness which, perhaps, does not exist, some of the [[New York]]
-
-      papers copied “Hans Pfaall,” and collated it with the
-
-      “[[Moon]]-Hoax,” by way of detecting the writer of the one in the
-
-      writer of the other.
-
-
-
-      As many more persons were actually gulled by the “[[Moon]]-Hoax” than
-
-      would be willing to acknowledge the fact, it may here afford some
-
-      little amusement to show why no one should have been deceived-to
-
-      point out those particulars of the story which should have been
-
-      sufficient to establish its real character. Indeed, however rich
-
-      the [[Imagination|imagination]] displayed in this ingenious fiction, it wanted
-
-      much of the force which might have been given it by a more
-
-      scrupulous attention to facts and to general analogy. That the
-
-      public were misled, even for an instant, merely proves the gross
-
-      ignorance which is so generally prevalent upon subjects of an
-
-      astronomical [[Nature|nature]].
-
-
-
-      The [[Moon|moon]]’s distance from the earth is, in round numbers, 240,000
-
-      miles. If we [[Desire|desire]] to ascertain how near, apparently, a lens
-
-      would bring the satellite (or any distant object), we, of course,
-
-      have but to divide the distance by the magnifying or, more
-
-      strictly, by the space-penetrating power of the glass. Mr. L.
-
-      makes his lens have a power of 42,000 times. By this divide
-
-      240,000 (the [[Moon|moon]]’s real distance), and we have five miles and

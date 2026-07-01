@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 4: I FALL INTO DISGRACE"
+title: "David Copperfield — Chapter 4: I FALL INTO DISGRACE"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/david-copperfield-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_03_i_have_a_change">‹ Chapter 03 I HAVE A CHANGE</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_05_i_am_sent_away_from_home">Chapter 05 I AM SENT AWAY FROM HOME ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_03_i_have_a_change">‹ Chapter 03 I HAVE A CHANGE</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_05_i_am_sent_away_from_home_home">Chapter 05 I AM SENT AWAY FROM Home HOME ›</a></div>
 </nav>
 
 

@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 7 (part 9)"
+title: "Shirley — Chapter 7 (part 9)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,54 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_07/part_08">‹ part 08</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_07/part_10">part 10 ›</a></div>
 </nav>
 
+
+Then out came the pieces of his flute (he always carried them in his
+
+pocket, as unfailingly as he carried his handkerchief). They were
+
+screwed and arranged, Malone and Donne meanwhile herding together and
+
+sneering at him, which the little man, glancing over his shoulder, saw,
+
+but did not heed at all. He was persuaded their sarcasm all arose from
+
+envy. They could not accompany the ladies as he could; he was about to
+
+enjoy a triumph over them.
+
+
+
+The triumph began. Malone, much chagrined at hearing him pipe up in most
+
+superior style, determined to earn distinction too, if possible, and
+
+all at once assuming the character of a swain (which character he had
+
+endeavoured to enact once or twice before, but in which he had not
+
+hitherto met with the [[success]] he doubtless opined his merits deserved),
+
+approached a sofa on which Miss Helstone was seated, and depositing his
+
+great Irish frame near her, tried his hand (or rather tongue) at a fine
+
+speech or two, accompanied by grins the most extraordinary and
+
+incomprehensible. In the course of his efforts to render himself
+
+agreeable, he contrived to possess himself of the two long sofa cushions
+
+and a square one; with which, after [[rolling]] them about for some [[Time|time]]
+
+with strange gestures, he managed to erect a sort of barrier between
+
+himself and the object of his attentions. Caroline, quite willing that
+
+they should be sundered, soon devised an excuse for stepping over to the
+
+opposite side of the room, and taking up a position beside Mrs. Sykes,
+
+of which good lady she entreated some instruction in a new stitch in
 
 ornamental knitting, a favour readily granted; and thus Peter Augustus
 
@@ -155,67 +203,3 @@ a sort of apology:--
 
 
 "I only left the drawing-room a minute for a little quiet."
-
-
-
-There was something so diffident and downcast in the air and tone with
-
-which she said this, any one might perceive that some saddening change
-
-had lately passed over her prospects, and that the faculty of cheerful
-
-[[Self|self]]-possession had left her. Mr. Moore, probably, remembered how she
-
-had formerly been accustomed to meet him with gentle ardour and hopeful
-
-confidence. He must have seen how the check of this morning had
-
-operated. Here was an opportunity for carrying out his new system with
-
-effect, if he chose to improve it. Perhaps he found it easier to
-
-practise that system in broad daylight, in his mill-yard, amidst busy
-
-occupations, than in a quiet parlour, disengaged, at the hour of
-
-eventide. Fanny lit the candles, which before had stood unlit on the
-
-table, brought writing materials, and left the room. Caroline was about
-
-to follow her. Moore, to act consistently, should have let her go;
-
-whereas he stood in the doorway, and, holding out his hand, gently kept
-
-her back. He did not ask her to stay, but he would not let her go.
-
-
-
-"Shall I tell my uncle you are here?" asked she, still in the same
-
-subdued voice.
-
-
-
-"No; I can say to you all I had to say to him. You will be my
-
-messenger?"
-
-
-
-"Yes, Robert."
-
-
-
-"Then you may just inform him that I have got a clue to the [[Identity|identity]] of
-
-one, at least, of the men who broke my frames; that he belongs to the
-
-same gang who attacked Sykes and Pearson's dressing-shop, and that I
-
-[[Hope|hope]] to have him in custody to-morrow. You can remember that?"
-
-
-
-"Oh yes!" These two monosyllables were uttered in a sadder tone than
-
-ever; and as she said them she shook her head slightly and sighed. "Will

@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 26 (part 1)"
+title: "Northanger Abbey — Chapter 26 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -203,7 +203,3 @@ disadvantage, giving ready-monied actual happiness for a draft on the
 future, that may not be honoured. Witness myself, at this present hour.
 
 Because I am to [[Hope|hope]] for the satisfaction of seeing you at Woodston on
-
-Wednesday, which bad weather, or twenty other causes, may prevent, I
-
-must go away directly, two days before I intended it.”

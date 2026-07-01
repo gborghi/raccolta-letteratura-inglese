@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 38 (part 4)"
+title: "Villette — Chapter 38 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_40/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_40/part_05">part 05 ›</a></div>
 </nav>
 
+
+Who might tell? Yet I began to take some [[Courage|courage]], some comfort; it
+seemed to me that I felt a pulse of his heart beating yet true to the
+whole throb of mine.
+
+I waited my champion. Apollyon came trailing his Hell behind him. I
+think if [[Eternity]] held torment, its form would not be fiery rack, nor
+its [[Nature|nature]] [[Despair|despair]]. I think that on a certain day amongst those days
+which never dawned, and will not set, an angel entered Hades—stood,
+shone, smiled, delivered a prophecy of conditional pardon, kindled a
+doubtful [[Hope|hope]] of bliss to come, not now, but at a day and hour unlooked
+for, revealed in his own glory and grandeur the height and compass of
+his promise: spoke thus—then towering, became a star, and vanished into
+his own Heaven. His legacy was suspense—a worse boon than [[Despair|despair]].
 
 All that evening I waited, trusting in the dove-sent olive-leaf, yet in
 the midst of my trust, terribly fearing. My [[Fear|fear]] pressed heavy. Cold
@@ -114,35 +128,3 @@ fresh [[Well|well]]-[[Water|water]]. Entering by the carré, a piece of [[Mirror
 in an oaken cabinet, repeated my image. It said I was changed: my
 cheeks and lips were sodden white, my eyes were glassy, and my eyelids
 swollen and purple.
-
-On rejoining my companions, I knew they all looked at me—my heart
-seemed discovered to them: I believed myself [[Self|self]]-betrayed. Hideously
-certain did it seem that the very youngest of the school must guess why
-and for whom I despaired.
-
-“Isabelle,” the [[Child|child]] whom I had once nursed in sickness, approached
-me. Would she, too, mock me!
-
-“Que vous êtes pâle! Vous êtes donc bien malade, Mademoiselle!” said
-she, putting her finger in her mouth, and staring with a wistful
-stupidity which at the moment seemed to me more beautiful than the
-keenest intelligence.
-
-Isabelle did not long stand [[Alone|alone]] in the recommendation of ignorance:
-before the day was over, I gathered cause of gratitude towards the
-whole blind household. The multitude have something else to do than to
-read hearts and interpret dark sayings. Who wills, may keep his own
-counsel—be his own secret’s sovereign. In the course of that day, proof
-met me on proof, not only that the cause of my present sorrow was
-unguessed, but that my whole [[Inner Life|inner life]] for the last six months, was
-still mine only. It was not known—it had not been noted—that I held in
-peculiar value one life among all lives. Gossip had passed me by;
-curiosity had looked me over; both subtle influences, hovering always
-round, had never become centred upon me. A given organization may live
-in a full fever-hospital, and escape typhus. M. Emanuel had come and
-gone: I had been taught and sought; in season and out of season he had
-called me, and I had obeyed him: “M. Paul wants Miss Lucy”—“Miss Lucy
-is with M. Paul”—such had been the perpetual bulletin; and nobody
-commented, far less condemned. Nobody hinted, nobody jested. Madame
-Beck read the [[Riddle|riddle]]: none else resolved it. What I now suffered was
-called illness—a headache: I accepted the baptism.

@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 20 (part 2)"
+title: "Persuasion — Chapter 20 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_20/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_20/part_03">part 03 ›</a></div>
 </nav>
 
+
+all [[Suffering|suffering]], nothing but [[Suffering|suffering]], which was by no means the case at
+
+Lyme. We were only in anxiety and distress during the last two hours,
 
 and previously there had been a great deal of enjoyment. So much
 
@@ -199,21 +203,3 @@ pretend to understand the language. I am a very poor Italian scholar.”
 have only knowledge enough of the language to translate at sight these
 
 inverted, transposed, curtailed Italian lines, into clear,
-
-comprehensible, elegant English. You need not say anything more of your
-
-ignorance. Here is complete proof.”
-
-
-
-“I will not oppose such kind politeness; but I should be sorry to be
-
-examined by a real proficient.”
-
-
-
-“I have not had the pleasure of visiting in Camden Place so long,”
-
-replied he, “without knowing something of Miss [[Anne Elliot]]; and I do
-
-regard her as one who is too modest for the world in general to be

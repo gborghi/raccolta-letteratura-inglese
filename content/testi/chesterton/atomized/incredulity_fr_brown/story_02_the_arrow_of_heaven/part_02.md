@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The Arrow of Heaven (part 2)"
+title: "incredulity Fr Brown — The Arrow of Heaven (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -13,6 +13,25 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity_fr_brown/story_02_the_arrow_of_heaven/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity_fr_brown/story_02_the_arrow_of_heaven/part_03">part 03 ›</a></div>
 </nav>
 
+
+It seemed that Wain had an uncle named Crake who had a partner named
+Merton, who was number three in the series of rich business men to whom
+the cup had belonged. The first of them, Titus P. Trant, the Copper
+[[King]], had received threatening letters from somebody signing himself
+Daniel Doom. The name was presumably a pseudonym, but it had come to
+stand for a very public if not a very popular character; for somebody as
+[[Well|well]] known as [[Robin Hood]] and Jack the Ripper combined. For it soon
+became clear that the writer of the threatening letter did not confine
+himself to threatening. Anyhow, the upshot was that old Trant was found
+one morning with his head in his own lily - pond, and there was not the
+[[Shadow|shadow]] of a clue. The cup was, fortunately, safe in the bank; and it
+passed with the rest of Trant's property to his cousin, Brian Horder,
+who was also a man of great wealth and who was also threatened by the
+nameless enemy. Brian Horder was picked up dead at the foot of a cliff
+outside his seaside residence, at which there was a burglary, this [[Time|time]]
+on a large scale. For though the cup apparently again escaped, enough
+bonds and securities were stolen to leave Horder's financial affairs in
+confusion.
 
 'Brian Horder's widow,' explained Wain, 'had to sell most of his
 valuables, I believe, and Brander Merton must have purchased the cup at
@@ -101,35 +120,3 @@ tsar, or the [[King|king]] of England, you'd have had the curiosity to go. You
 mayn't care much for tsars or millionaires; but it just means that power
 like that is always interesting. And I [[Hope|hope]] it's not against your
 principles to visit a modern sort of emperor like Merton.'
-
-'Not at all,' said [[Father Brown]], quietly. 'It is my duty to visit
-prisoners and all miserable men in captivity.'
-
-There was a [[Silence|silence]], and the young man frowned with a strange and almost
-shifty look on his lean face. Then he said, abruptly:
-
-'[[Well]], you've got to remember it isn't only common crooks or the Black
-Hand that's against him. This Daniel Doom is pretty much like the devil.
-Look how he dropped Trant in his own gardens and Horder outside his
-[[house]], and got away with it.'
-
-The top floor of the mansion, inside the enormously thick walls,
-consisted of two rooms; an outer room which they entered, and an inner
-room that was the great millionaire's sanctum. They entered the outer
-room just as two other visitors were coming out of the inner one. One
-was hailed by Peter Wain as his uncle - a small but very stalwart and
-active man with a shaven head that looked bald, and a brown face that
-looked almost too brown to have ever been white. This was old Crake,
-commonly called Hickory Crake in reminiscence of the more famous Old
-Hickory, because of his fame in the last Red Indian wars. His companion
-was a singular contrast - a very dapper gentleman with dark hair like a
-black varnish and a broad, black ribbon to his monocle: Barnard Blake,
-who was old Merton's lawyer and had been discussing with the partners
-the business of the firm. The four men met in the middle of the outer
-room and paused for a little polite conversation, in the act of
-respectively going and coming. And through all goings and comings
-another figure sat at the back of the room near the inner door, massive
-and motionless in the half - light from the inner [[Window|window]]; a man with a
-Negro face and enormous shoulders. This was what the humorous [[Self|self]] -
-criticism of [[america|America]] playfully calls the Bad Man; whom his friends might
-call a bodyguard and his enemies a bravo.

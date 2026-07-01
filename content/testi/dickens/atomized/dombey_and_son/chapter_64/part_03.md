@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 8 (part 3)"
+title: "Dombey and Son — Chapter 36 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,130 +14,112 @@ tags:
 </nav>
 
 
-“I want Florence to come for me,” said Paul.
+In his full enjoyment of this culminating point of his story, the
+shudder, which had gone all round the table like an electric spark,
+struck Cousin Feenix, and he stopped. Not a smile occasioned by the
+only general topic of conversation broached that day, appeared on any
+face. A profound [[Silence|silence]] ensued; and the wretched mild man, who had
+been as [[Innocent|innocent]] of any real foreknowledge of the story as the [[Child|child]]
+[[unborn]], had the exquisite misery of reading in every eye that he was
+regarded as the prime mover of the mischief.
 
-“Won’t you come with your poor [[Nurse]] Wickam, Master Paul?” inquired
-that attendant, with great pathos.
+Mr Dombey’s face was not a changeful one, and being cast in its mould
+of state that day, showed little other apprehension of the story, if
+any, than that which he expressed when he said solemnly, amidst the
+[[Silence|silence]], that it was “Very good.” There was a rapid glance from Edith
+towards Florence, but otherwise she remained, externally, impassive and
+unconscious.
 
-“No, I won’t,” replied Paul, composing himself in his arm-chair again,
-like the master of the [[house]].
+Through the various stages of rich meats and wines, continual gold and
+silver, dainties of earth, air, [[Fire|fire]], and [[Water|water]], heaped-up fruits, and
+that unnecessary article in Mr Dombey’s banquets—ice—the dinner slowly
+made its way: the later stages being achieved to the sonorous music of
+incessant [[Double|double]] knocks, announcing the arrival of visitors, whose
+portion of the feast was limited to the smell thereof. When Mrs Dombey
+[[Rose|rose]], it was a sight to see her lord, with stiff throat and erect head,
+hold the door open for the withdrawal of the ladies; and to see how she
+swept past him with his daughter on her arm.
 
-Invoking a blessing upon his [[innocence]], Mrs Wickam withdrew, and
-presently Florence appeared in her stead. The [[Child|child]] immediately started
-up with sudden readiness and animation, and raised towards his father
-in bidding him good-[[Night|night]], a countenance so much brighter, so much
-younger, and so much more [[Child|child]]-like altogether, that Mr Dombey, while
-he felt greatly reassured by the change, was quite amazed at it.
-
-After they had left the room together, he thought he heard a soft voice
-singing; and remembering that Paul had said his sister sung to him, he
-had the curiosity to open the door and listen, and look after them. She
-was toiling up the great, wide, vacant staircase, with him in her arms;
-his head was lying on her shoulder, one of his arms thrown negligently
-round her neck. So they went, toiling up; she singing all the way, and
-Paul sometimes crooning out a feeble accompaniment. Mr Dombey looked
-after them until they reached the top of the staircase—not without
-halting to rest by the way—and passed out of his sight; and then he
-still stood gazing upwards, until the dull rays of the [[Moon|moon]], glimmering
-in a [[Melancholy|melancholy]] manner through the dim skylight, sent him back to his
+Mr Dombey was a [[Grave|grave]] sight, behind the decanters, in a state of
+dignity; and the East India Director was a forlorn sight near the
+unoccupied end of the table, in a state of [[Solitude|solitude]]; and the Major was
+a military sight, relating stories of the [[Duke of York]] to six of the
+seven mild men (the ambitious one was utterly quenched); and the Bank
+Director was a lowly sight, making a plan of his little attempt at a
+pinery, with dessert-knives, for a group of admirers; and Cousin Feenix
+was a thoughtful sight, as he smoothed his long wristbands and
+stealthily adjusted his wig. But all these sights were of short
+duration, being speedily broken up by coffee, and the desertion of the
 room.
 
-Mrs Chick and Miss Tox were convoked in council at dinner next day; and
-when the cloth was removed, Mr Dombey opened the proceedings by
-requiring to be informed, without any gloss or reservation, whether
-there was anything the matter with Paul, and what Mr Pilkins said about
-him.
+[Illustration]
 
-“For the [[Child|child]] is hardly,” said Mr Dombey, “as stout as I could wish.”
+There was a throng in the state-rooms upstairs, increasing every
+minute; but still Mr Dombey’s list of visitors appeared to have some
+native impossibility of amalgamation with Mrs Dombey’s list, and no one
+could have doubted which was which. The single exception to this rule
+perhaps was Mr Carker, who now smiled among the company, and who, as he
+stood in the circle that was gathered about Mrs Dombey—watchful of her,
+of them, his chief, [[Cleopatra]] and the Major, Florence, and everything
+around—appeared at ease with both divisions of guests, and not marked
+as exclusively belonging to either.
 
-“My dear Paul,” returned Mrs Chick, “with your usual happy
-discrimination, which I am weak enough to envy you, every [[Time|time]] I am in
-your company; and so I think is Miss Tox.”
+Florence had a dread of him, which made his presence in the room a
+[[nightmare]] to her. She could not avoid the recollection of it, for her
+eyes were drawn towards him every now and then, by an attraction of
+dislike and distrust that she could not resist. Yet her thoughts were
+busy with other things; for as she sat apart—not unadmired or unsought,
+but in the gentleness of her quiet spirit—she felt how little part her
+father had in what was going on, and saw, with [[Pain|pain]], how ill at ease he
+seemed to be, and how little regarded he was as he lingered about near
+the door, for those visitors whom he wished to distinguish with
+particular attention, and took them up to introduce them to his wife,
+who received them with proud coldness, but showed no interest or wish
+to please, and never, after the bare ceremony of reception, in
+consultation of his wishes, or in welcome of his friends, opened her
+lips. It was not the less perplexing or painful to Florence, that she
+who acted thus, treated her so kindly and with such loving
+consideration, that it almost seemed an ungrateful return on her part
+even to know of what was passing before her eyes.
 
-“Oh my dear!” said Miss Tox, softly, “how could it be otherwise?
-Presumptuous as it is to aspire to such a level; still, if the bird of
-[[Night|night]] may—but I’ll not trouble Mr Dombey with the sentiment. It merely
-relates to the Bulbul.”
+Happy Florence would have been, might she have ventured to bear her
+father company, by so much as a look; and happy Florence was, in little
+suspecting the main cause of his uneasiness. But afraid of seeming to
+know that he was placed at any disadvantage, lest he should be
+resentful of that knowledge; and divided between her impulse towards
+him, and her grateful affection for Edith; she scarcely dared to raise
+her eyes towards either. Anxious and unhappy for them both, the thought
+stole on her through the crowd, that it might have been better for them
+if this noise of tongues and tread of feet had never come there,—if the
+old dulness and [[Decay|decay]] had never been replaced by novelty and
+splendour,—if the neglected [[Child|child]] had found no friend in Edith, but had
+lived her solitary life, unpitied and forgotten.
 
-Mr Dombey bent his head in stately recognition of the Bulbuls as an
-old-established [[Body|body]].
+Mrs Chick had some such thoughts too, but they were not so quietly
+developed in her mind. This good matron had been outraged in the first
+instance by not receiving an invitation to dinner. That blow partially
+recovered, she had gone to a vast expense to make such a figure before
+Mrs Dombey at [[Home|home]], as should dazzle the senses of that lady, and heap
+mortification, [[Mountains|mountains]] high, on the head of Mrs Skewton.
 
-“With your usual happy discrimination, my dear Paul,” resumed Mrs
-Chick, “you have hit the point at once. Our darling is altogether as
-stout as we could wish. The fact is, that his mind is too much for him.
-His [[Soul|soul]] is a great deal too large for his frame. I am sure the way in
-which that dear [[Child|child]] talks!” said Mrs Chick, shaking her head; “no one
-would believe. His expressions, Lucretia, only yesterday upon the
-subject of Funerals!”
+“But I am made,” said Mrs Chick to Mr Chick, “of no more account than
+Florence! Who takes the smallest notice of me? No one!”
 
-“I am afraid,” said Mr Dombey, interrupting her testily, “that some of
-those persons upstairs suggest improper subjects to the [[Child|child]]. He was
-speaking to me last [[Night|night]] about his—about his Bones,” said Mr Dombey,
-laying an irritated stress upon the word. “What on earth has anybody to
-do with the—with the—Bones of my son? He is not a living [[skeleton]], I
-suppose.”
+“No one, my dear,” assented Mr Chick, who was seated by the side of Mrs
+Chick against the wall, and could console himself, even there, by
+softly whistling.
 
-“Very far from it,” said Mrs Chick, with unspeakable expression.
+“Does it at all appear as if I was wanted here?” exclaimed Mrs Chick,
+with flashing eyes.
 
-“I [[Hope|hope]] so,” returned her brother. “Funerals again! who talks to the
-[[Child|child]] of funerals? We are not undertakers, or mutes, or [[Grave|grave]]-diggers,
-I believe.”
+“No, my dear, I don’t think it does,” said Mr Chick.
 
-“Very far from it,” interposed Mrs Chick, with the same profound
-expression as before.
+“Paul’s mad!” said Mrs Chick.
 
-“Then who puts such things into his head?” said Mr Dombey. “Really I
-was quite dismayed and shocked last [[Night|night]]. Who puts such things into
-his head, Louisa?”
+Mr Chick whistled.
 
-“My dear Paul,” said Mrs Chick, after a moment’s [[Silence|silence]], “it is of no
-use inquiring. I do not think, I will tell you candidly that Wickam is
-a person of very cheerful spirit, or what one would call a—”
-
-“A daughter of Momus,” Miss Tox softly suggested.
-
-“Exactly so,” said Mrs Chick; “but she is exceedingly attentive and
-useful, and not at all presumptuous; indeed I never saw a more biddable
-woman. I would say that for her, if I was put upon my trial before a
-[[Court]] of Justice.”
-
-“[[Well]]! you are not put upon your trial before a [[Court]] of Justice, at
-present, Louisa,” returned Mr Dombey, chafing, “and therefore it don’t
-matter.”
-
-“My dear Paul,” said Mrs Chick, in a warning voice, “I must be spoken
-to kindly, or there is an end of me,” at the same [[Time|time]] a premonitory
-redness developed itself in Mrs Chick’s eyelids which was an invariable
-sign of rain, unless the weather changed directly.
-
-“I was inquiring, Louisa,” observed Mr Dombey, in an altered voice, and
-after a decent interval, “about Paul’s health and actual state.”
-
-“If the dear [[Child|child]],” said Mrs Chick, in the tone of one who was summing
-up what had been previously quite agreed upon, instead of saying it all
-for the first [[Time|time]], “is a little weakened by that last attack, and is
-not in quite such vigorous health as we could wish; and if he has some
-temporary weakness in his system, and does occasionally seem about to
-lose, for the moment, the use of his—”
-
-Mrs Chick was afraid to say limbs, after Mr Dombey’s recent objection
-to bones, and therefore waited for a suggestion from Miss Tox, who,
-true to her office, hazarded “members.”
-
-“Members!” repeated Mr Dombey.
-
-“I think the medical gentleman mentioned legs this morning, my dear
-Louisa, did he not?” said Miss Tox.
-
-“Why, of course he did, my [[Love|love]],” retorted Mrs Chick, mildly
-reproachful. “How can you ask me? You heard him. I say, if our dear
-Paul should lose, for the moment, the use of his legs, these are
-casualties common to many children at his [[Time|time]] of life, and not to be
-prevented by any care or caution. The sooner you understand that, Paul,
-and admit that, the better. If you have any [[Doubt|doubt]] as to the amount of
-care, and caution, and affection, and [[Self-Sacrifice|self-sacrifice]], that has been
-bestowed upon little Paul, I should wish to refer the question to your
-medical attendant, or to any of your dependants in this [[house]]. Call
-Towlinson,” said Mrs Chick, “I believe he has no prejudice in our
-favour; quite the contrary. I should wish to hear what accusation
-Towlinson can make!”
+“Unless you are a [[Monster|monster]], which I sometimes think you are,” said Mrs
+Chick with candour, “don’t sit there humming tunes. How anyone with the
+most distant feelings of a man, can see that mother-in-law of Paul’s,
+dressed as she is, going on like that, with [[Major Bagstock]], for whom,
+among other precious things, we are indebted to your Lucretia Tox.”

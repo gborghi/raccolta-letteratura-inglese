@@ -1,5 +1,5 @@
 ---
-title: "[[wifrb11]] — The Man in the Passage"
+title: "wifrb11 — The Man in the Passage"
 author: "Chesterton"
 unitType: story
 parentWork: "works/wifrb11-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
                         The Man in the Passage
-
 
 TWO men appeared simultaneously at the two ends of a sort of passage
 running along the side of the [[Apollo]] Theatre in the Adelphi. 
@@ -703,8 +702,5 @@ in a looking-glass, when two such distinguished men don't?"
      [[Father Brown]] blinked even more painfully than before;
 then he stammered:  "Really, my lord, I don't know unless it's because
 I don't look at it so often."
-
-
-
 
                                  FIVE

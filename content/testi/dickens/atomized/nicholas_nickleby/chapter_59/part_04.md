@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 59 (part 4)"
+title: "Nicholas Nickleby — Chapter 59 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,26 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_59/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_59/part_05">part 05 ›</a></div>
 </nav>
 
+
+‘My name’s Nickleby,’ said Ralph.
+
+‘I know it,’ replied Tim, surveying him through his spectacles.
+
+‘Which of your firm was it who called on me this morning?’ demanded
+Ralph.
+
+‘Mr. Charles.’
+
+‘Then, tell Mr. Charles I want to see him.’
+
+‘You shall see,’ said Tim, getting off his stool with great agility,
+‘you shall see, not only Mr. Charles, but Mr. Ned likewise.’
+
+Tim stopped, looked steadily and severely at Ralph, nodded his head
+once, in a curt manner which seemed to say there was a little more
+behind, and vanished. After a short interval, he returned, and, ushering
+Ralph into the presence of the two brothers, remained in the room
+himself.
 
 ‘I want to speak to you, who spoke to me this morning,’ said Ralph,
 pointing out with his finger the man whom he addressed.
@@ -119,24 +139,3 @@ set other eyes to watch the schoolmaster? Who tampered with a selfish
 father, urging him to sell his daughter to old [[arthur|Arthur]] Gride, and
 tampered with Gride too, and did so in the little office, WITH A CLOSET
 IN THE ROOM?’
-
-Ralph had put a great command upon himself; but he could not have
-suppressed a slight start, if he had been certain to be beheaded for it
-next moment.
-
-‘Aha!’ cried Newman, ‘you mind me now, do you? What first set this fag
-to be jealous of his master’s actions, and to feel that, if he hadn’t
-crossed him when he might, he would have been as bad as he, or worse?
-That master’s cruel treatment of his own flesh and [[Blood|blood]], and vile
-designs upon a young girl who interested even his broken-down, drunken,
-miserable hack, and made him linger in his service, in the [[Hope|hope]] of doing
-her some good (as, thank God, he had done others once or twice before),
-when he would, otherwise, have relieved his feelings by pummelling his
-master soundly, and then going to the Devil. He would--mark that; and
-mark this--that I’m here now, because these gentlemen thought it best.
-When I sought them out (as I did; there was no tampering with me),
-I told them I wanted help to find you out, to trace you down, to go
-through with what I had begun, to help the right; and that when I had
-done it, I’d burst into your room and tell you all, face to face, man
-to man, and like a man. Now I’ve said my say, and let anybody else say
-theirs, and [[Fire|fire]] away!’

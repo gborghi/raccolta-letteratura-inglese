@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 22 (part 3)"
+title: "Great Expectations — Chapter 22 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -152,7 +152,3 @@ capital from such a source of income.
 “But the thing is,” said [[Herbert Pocket]], “that you look about you.
 _That’s_ the grand thing. You are in a counting-[[house]], you know, and
 you look about you.”
-
-It struck me as a singular implication that you couldn’t be out of a
-counting-[[house]], you know, and look about you; but I silently deferred
-to his experience.

@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 42 (part 2)"
+title: "Oliver Twist — Chapter 42 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -141,9 +141,3 @@ table, ordered something to drink of the grinning Barney.
 
 “A pleasant [[Night|night]], sir, but cool for the [[Time|time]] of year,” said [[Fagin]],
 rubbing his hands. “From the country, I see, sir?”
-
-“How do yer see that?” asked Noah Claypole.
-
-“We have not so much [[Dust|dust]] as that in [[London]],” replied [[Fagin]], pointing
-from Noah’s shoes to those of his companion, and from them to the two
-bundles.

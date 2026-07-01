@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity]] — The [[Ghost]] of Gideon Wise (part 4)"
+title: "Incredulity — The Ghost of Gideon Wise (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-(chesterton)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_08_the_ghost_of_gideon_wise/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_08_the_ghost_of_gideon_wise/part_05">part 05 ›</a></div>
 </nav>
 
+
+Nares was silent; and nobody spoke until Elias interposed with his clear
+though faintly lisping drawl.
 
 `This appears to me to be a highly unprofitable discussion on both sides,'
 he said.  `You have summoned us here either to ask us for information

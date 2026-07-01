@@ -14,6 +14,21 @@ tags:
 </nav>
 
 
+In this connexion, by the way, I must once more express my
+astonishment that, in an age which will have ten professors
+of psychology to tea, or strew the world with pamphlets and books
+about subconsciousness and psycho-analysis, nobody seems to notice
+the most normal and elementary facts of practical psychology.
+Otherwise, it would not be left to an irresponsible and ignorant
+journalist to point out the elementary fact:  that dullness can
+be a stimulant.  There is hardly any need to point out, to any
+one acquainted with our lighter entertainments, that amusement
+can be a narcotic.  But, anyhow, some one with more scientific
+authority ought really to study these strange reactions of stale
+and even oppressive atmospheres on the romantic spirit of youth.
+Who knows?--if something suggestive were written on the subject,
+even youth might be young once more.
+
 XIX.  On Gossip about Heredity
 
 A SHORT [[Time|time]] ago a distinguished scientific expert, pleading for a more
@@ -96,38 +111,3 @@ of modern journalism; and there are such things as [[Education|education]]
 and environment, about which a still louder yell of human folly
 will go up--in short, there is something in morals which corresponds
 to infection in measles.
-
-But this wild [[Romance|romance]] of popular science spread wider and wider.
-What is odd about it is not its [[Truth|truth]] or untruth, but the unresisted
-smoothness with which it spread over one field after another.
-I know so little of the scientific study itself that I should not think
-of denying the possibility of some sort of inherited drunkenness;
-though I cannot make any sense of the theory of inherited alcoholism.
-But why were hundreds and thousands of people, who knew even less science
-than I do, instantly and calmly assured that drunkenness was hereditary?
-Why did they begin at once to watch the doubtful steps of the curate,
-because his great-uncle the Admiral was found drunk in a ditch on
-Trafalgar Day?  Why did they eagerly watch for the [[Fire|fire]] of alcoholic
-craving in the eyes of the new-born infant who was remotely descended
-from Three-Bottle Thumpington?  The question grows wilder as the
-application grew wider.  The next thing we heard was the cheerful news
-that Assassination was a regular family feature, like a family nose.
-As in the other cases, it was not so much stated by scientific people
-as spread by unscientific people as the last scientific news.
-A brilliant lady novelist lately based a whole [[Novel|novel]] upon it,
-called Red Sky at Morning, in which a hazy, good-natured youth kills
-somebody for a very insufficient reason, merely because his father
-fifty years ago had killed somebody quite different for a totally
-different reason.  All this seems to me highly irrational.  There are
-almost as many motives for murdering men as there are men to murder.
-A man kills because he is blackmailed, or because he is jilted,
-or because he is a political fanatic, and so on.  But how do you
-inherit a blackmailer, or an unreliable girl, or a political theory?
-There certainly is inheritance, as of physical type, perhaps of
-physical temperament; of being indolent or restless and so on.
-But the number of lazy men who will murder a valet for waking them
-up is about as large as the number of impatient men who will murder
-him for keeping them waiting.  That is to say, it is very small.
-The mysterious moral inhibition, or its absence, by which men
-do or do not murder, is in the individual [[Soul|soul]]; and I defy anybody
-to show that it is hereditary.

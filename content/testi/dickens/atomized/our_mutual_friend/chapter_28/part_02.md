@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 4 (part 2)"
+title: "Our Mutual Friend — Chapter 6 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,141 +14,139 @@ tags:
 </nav>
 
 
-‘You are quite wrong, my [[Love|love]], in your guess at my meaning. What I
-insinuated was, that my Georgiana’s little heart was growing conscious
-of a vacancy.’
+‘I give you my word of [[Honour|honour]], Mortimer,’ returned Eugene, after a
+serious pause of a few moments, ‘that I don’t know.’
 
-‘No, no, no,’ said Georgiana. ‘I wouldn’t have anybody say anything to
-me in that way for I don’t know how many thousand pounds.’
+‘Don’t know, Eugene?’
 
-‘In what way, my Georgiana?’ inquired Mrs Lammle, still smiling coolly
-with her eyes upon her lunch, and her eyebrows raised.
+‘Upon my [[Soul|soul]], don’t know. I know less about myself than about most
+people in the world, and I don’t know.’
 
-‘YOU know,’ returned poor little Miss Podsnap. ‘I think I should go out
-of my mind, Sophronia, with vexation and shyness and detestation, if
-anybody did. It’s enough for me to see how loving you and your husband
-are. That’s a different thing. I couldn’t bear to have anything of that
-sort going on with myself. I should beg and pray to—to have the person
-taken away and trampled upon.’
+‘You have some design in your mind?’
 
-Ah! here was Alfred. Having stolen in unobserved, he playfully leaned on
-the back of Sophronia’s chair, and, as Miss Podsnap saw him, put one
-of Sophronia’s wandering locks to his lips, and waved a kiss from it
-towards Miss Podsnap.
+‘Have I? I don’t think I have.’
 
-‘What is this about husbands and detestations?’ inquired the captivating
-Alfred.
+‘At any rate, you have some subject of interest there which used not to
+be there?’
 
-‘Why, they say,’ returned his wife, ‘that listeners never hear any good
-of themselves; though you—but pray how long have you been here, sir?’
+‘I really can’t say,’ replied Eugene, shaking his head blankly, after
+pausing again to reconsider. ‘At times I have thought yes; at other
+times I have thought no. Now, I have been inclined to pursue such a
+subject; now I have felt that it was absurd, and that it tired and
+embarrassed me. Absolutely, I can’t say. Frankly and faithfully, I would
+if I could.’
 
-‘This instant arrived, my own.’
+So replying, he clapped a hand, in his turn, on his friend’s shoulder,
+as he [[Rose|rose]] from his seat upon the bed, and said:
 
-‘Then I may go on—though if you had been here but a moment or two
-sooner, you would have heard your praises sounded by Georgiana.’
+‘You must take your friend as he is. You know what I am, my dear
+Mortimer. You know how dreadfully susceptible I am to boredom. You know
+that when I became enough of a man to find myself an embodied conundrum,
+I bored myself to the last degree by trying to find out what I meant.
+You know that at length I gave it up, and declined to guess any more.
+Then how can I possibly give you the answer that I have not discovered?
+The old nursery form runs, “[[Riddle]]-me-[[Riddle|riddle]]-me-ree, p’raps you can’t
+tell me what this may be?” My reply runs, “No. Upon my life, I can’t.”’
 
-‘Only, if they were to be called praises at all which I really don’t
-think they were,’ explained Miss Podsnap in a flutter, ‘for being so
-devoted to Sophronia.’
+So much of what was fantastically true to his own knowledge of this
+utterly careless Eugene, mingled with the answer, that Mortimer could
+not receive it as a mere evasion. Besides, it was given with an engaging
+air of openness, and of special exemption of the one friend he valued,
+from his reckless indifference.
 
-‘Sophronia!’ murmured Alfred. ‘My life!’ and kissed her hand. In return
-for which she kissed his watch-chain.
+‘Come, dear boy!’ said Eugene. ‘Let us try the effect of smoking. If it
+enlightens me at all on this question, I will impart unreservedly.’
 
-‘But it was not I who was to be taken away and trampled upon, I [[Hope|hope]]?’
-said Alfred, drawing a seat between them.
+They returned to the room they had come from, and, finding it heated,
+opened a [[Window|window]]. Having lighted their cigars, they leaned out of this
+[[Window|window]], smoking, and looking down at the moonlight, as it shone into the
+[[Court|court]] below.
 
-‘Ask Georgiana, my [[Soul|soul]],’ replied his wife.
+‘No enlightenment,’ resumed Eugene, after certain minutes of [[Silence|silence]]. ‘I
+feel sincerely apologetic, my dear Mortimer, but nothing comes.’
 
-Alfred touchingly appealed to Georgiana.
+‘If nothing comes,’ returned Mortimer, ‘nothing can come from it. So
+I shall [[Hope|hope]] that this may hold good throughout, and that there may be
+nothing on foot. Nothing injurious to you, Eugene, or—’
 
-‘Oh, it was nobody,’ replied Miss Podsnap. ‘It was nonsense.’
+Eugene stayed him for a moment with his hand on his arm, while he took a
+piece of earth from an old flowerpot on the [[Window|window]]-sill and dexterously
+shot it at a little point of light opposite; having done which to his
+satisfaction, he said, ‘Or?’
 
-‘But if you are determined to know, Mr Inquisitive Pet, as I suppose you
-are,’ said the happy and fond Sophronia, smiling, ‘it was any one who
-should venture to aspire to Georgiana.’
+‘Or injurious to any one else.’
 
-‘Sophronia, my [[Love|love]],’ remonstrated Mr Lammle, becoming graver, ‘you are
-not serious?’
+‘How,’ said Eugene, taking another little piece of earth, and shooting
+it with great precision at the former mark, ‘how injurious to any one
+else?’
 
-‘Alfred, my [[Love|love]],’ returned his wife, ‘I dare say Georgiana was not, but
-I am.’
+‘I don’t know.’
 
-‘Now this,’ said Mr Lammle, ‘shows the accidental combinations that
-there are in things! Could you believe, my Ownest, that I came in here
-with the name of an aspirant to our Georgiana on my lips?’
+‘And,’ said Eugene, taking, as he said the word, another shot, ‘to whom
+else?’
 
-‘Of course I could believe, Alfred,’ said Mrs Lammle, ‘anything that YOU
-told me.’
+‘I don’t know.’
 
-‘You dear one! And I anything that YOU told me.’
+Checking himself with another piece of earth in his hand, Eugene looked
+at his friend inquiringly and a little suspiciously. There was no
+concealed or half-expressed meaning in his face.
 
-How delightful those interchanges, and the looks accompanying them! Now,
-if the [[skeleton]] up-stairs had taken that opportunity, for instance, of
-calling out ‘Here I am, suffocating in the closet!’
+‘Two belated wanderers in the mazes of the law,’ said Eugene, attracted
+by the sound of footsteps, and glancing down as he spoke, ‘stray into
+the [[Court|court]]. They examine the door-posts of number one, seeking the name
+they want. Not finding it at number one, they come to number two. On the
+hat of wanderer number two, the shorter one, I drop this pellet. Hitting
+him on the hat, I smoke serenely, and become absorbed in contemplation
+of the sky.’
 
-‘I give you my [[Honour|honour]], my dear Sophronia—’
+Both the wanderers looked up towards the [[Window|window]]; but, after
+interchanging a mutter or two, soon applied themselves to the door-posts
+below. There they seemed to discover what they wanted, for they
+disappeared from view by entering at the doorway. ‘When they emerge,’
+said Eugene, ‘you shall see me bring them both down’; and so prepared
+two pellets for the purpose.
 
-‘And I know what that is, [[Love|love]],’ said she.
+He had not reckoned on their seeking his name, or Lightwood’s. But
+either the one or the other would seem to be in question, for now there
+came a knock at the door. ‘I am on duty to-[[Night|night]],’ said Mortimer, ‘stay
+you where you are, Eugene.’ Requiring no [[Persuasion|persuasion]], he stayed there,
+smoking quietly, and not at all curious to know who knocked, until
+Mortimer spoke to him from within the room, and touched him. Then,
+drawing in his head, he found the visitors to be young Charley Hexam
+and the schoolmaster; both standing facing him, and both recognized at a
+glance.
 
-‘You do, my darling—that I came into the room all but uttering young
-Fledgeby’s name. Tell Georgiana, dearest, about young Fledgeby.’
+‘You recollect this young fellow, Eugene?’ said Mortimer.
 
-‘Oh no, don’t! Please don’t!’ cried Miss Podsnap, putting her fingers in
-her ears. ‘I’d rather not.’
+‘Let me look at him,’ returned Wrayburn, coolly. ‘Oh, yes, yes. I
+recollect him!’
 
-Mrs Lammle laughed in her gayest manner, and, removing her Georgiana’s
-unresisting hands, and playfully holding them in her own at arms’
-length, sometimes near together and sometimes wide apart, went on:
+He had not been about to repeat that former action of taking him by the
+chin, but the boy had suspected him of it, and had thrown up his arm
+with an angry start. Laughingly, Wrayburn looked to Lightwood for an
+explanation of this odd visit.
 
-‘You must know, you dearly beloved little goose, that once upon a
-[[Time|time]] there was a certain person called young Fledgeby. And this young
-Fledgeby, who was of an excellent family and rich, was known to two
-other certain persons, dearly attached to one another and called Mr and
-Mrs Alfred Lammle. So this young Fledgeby, being one [[Night|night]] at the play,
-there sees with Mr and Mrs Alfred Lammle, a certain heroine called—’
+‘He says he has something to say.’
 
-‘No, don’t say Georgiana Podsnap!’ pleaded that young lady almost in
-[[Tears|tears]]. ‘Please don’t. Oh do do do say somebody else! Not Georgiana
-Podsnap. Oh don’t, don’t, don’t!’
+‘Surely it must be to you, Mortimer.’
 
-‘No other,’ said Mrs Lammle, laughing airily, and, full of affectionate
-blandishments, opening and closing Georgiana’s arms like a pair of
-compasses, ‘than my little Georgiana Podsnap. So this young Fledgeby goes
-to that Alfred Lammle and says—’
+‘So I thought, but he says no. He says it is to you.’
 
-‘Oh ple-e-e-ease don’t!’ Georgiana, as if the supplication were being
-squeezed out of her by powerful compression. ‘I so hate him for saying
-it!’
+‘Yes, I do say so,’ interposed the boy. ‘And I mean to say what I want
+to say, too, Mr [[Eugene Wrayburn]]!’
 
-‘For saying what, my dear?’ laughed Mrs Lammle.
+Passing him with his eyes as if there were nothing where he stood,
+Eugene looked on to [[Bradley Headstone]]. With consummate [[Indolence|indolence]], he
+turned to Mortimer, inquiring: ‘And who may this other person be?’
 
-‘Oh, I don’t know what he said,’ cried Georgiana wildly, ‘but I hate him
-all the same for saying it.’
+‘I am Charles Hexam’s friend,’ said Bradley; ‘I am Charles Hexam’s
+schoolmaster.’
 
-‘My dear,’ said Mrs Lammle, always laughing in her most captivating way,
-‘the poor young fellow only says that he is stricken all of a heap.’
+‘My good sir, you should teach your pupils better manners,’ returned
+Eugene.
 
-‘Oh, what shall I ever do!’ interposed Georgiana. ‘Oh my goodness what a
-[[Fool]] he must be!’
-
-‘—And implores to be asked to dinner, and to make a fourth at the play
-another [[Time|time]]. And so he dines to-morrow and goes to the Opera with
-us. That’s all. Except, my dear Georgiana—and what will you think of
-this!—that he is infinitely shyer than you, and far more afraid of you
-than you ever were of any one in all your days!’
-
-In perturbation of mind Miss Podsnap still fumed and plucked at her
-hands a little, but could not help laughing at the notion of anybody’s
-being afraid of her. With that advantage, Sophronia flattered her and
-rallied her more successfully, and then the insinuating Alfred flattered
-her and rallied her, and promised that at any moment when she might
-require that service at his hands, he would take young Fledgeby out and
-trample on him. Thus it remained amicably understood that young Fledgeby
-was to come to admire, and that Georgiana was to come to be admired; and
-Georgiana with the entirely new sensation in her breast of having that
-prospect before her, and with many kisses from her dear Sophronia in
-present possession, preceded six feet one of discontented footman (an
-amount of the article that always came for her when she walked [[Home|home]]) to
-her father’s dwelling.
-
-The happy pair being left together, Mrs Lammle said to her husband:
+Composedly smoking, he leaned an elbow on the chimneypiece, at the side
+of the [[Fire|fire]], and looked at the schoolmaster. It was a cruel look, in its
+cold disdain of him, as a creature of no worth. The schoolmaster looked
+at him, and that, too, was a cruel look, though of the different kind,
+that it had a raging [[Jealousy|jealousy]] and fiery wrath in it.

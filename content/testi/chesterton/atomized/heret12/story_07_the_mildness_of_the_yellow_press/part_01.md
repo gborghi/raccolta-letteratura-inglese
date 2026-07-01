@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]] — The Mildness of the Yellow Press (part 1)"
+title: "heret12 — The Mildness of the Yellow Press (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/heret12-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 VIII.  The Mildness of the Yellow Press
-
 
 There is a great deal of protest made from one quarter or another nowadays
 against the influence of that new journalism which is associated with
@@ -89,7 +88,7 @@ When they brace themselves up to attack anything, they never
 reach the point of attacking anything which is large and real,
 and would resound with the shock.  They do not attack the army
 as men do in France, or the judges as men do in Ireland,
-or the [[Democracy|democracy]] itself as men did in England a hundred years ago.
+or the [[democracy]] itself as men did in England a hundred years ago.
 They attack something like the War Office--something, that is,
 which everybody attacks and nobody bothers to defend,
 something which is an old joke in fourth-rate comic papers.

@@ -14,6 +14,8 @@ tags:
 </nav>
 
 
+      season, he must have encountered ice—it was March when he reached
+
       the latitude specified. The winds, prevailing, as they do, from
 
       the southward and westward, had carried the floes, aided by

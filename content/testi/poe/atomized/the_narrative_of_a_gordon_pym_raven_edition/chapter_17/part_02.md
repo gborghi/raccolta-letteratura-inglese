@@ -14,6 +14,10 @@ tags:
 </nav>
 
 
+      the thermometer being as high as fifty-one. At this period not a
+
+      particle of ice was to be discovered. All hands on board now felt
+
       certain of attaining the pole.
 
 

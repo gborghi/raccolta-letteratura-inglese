@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 3 (part 1)"
+title: "Our Mutual Friend — Chapter 4 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,156 +10,138 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_07/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_08/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_07/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_08/part_02">part 02 ›</a></div>
 </nav>
 
 
-Chapter 3
+Chapter 4
 
-ANOTHER MAN
+THE R. WILFER FAMILY
 
 
-As the disappearing skirts of the ladies ascended the Veneering
-staircase, Mortimer, following them forth from the dining-room, turned
-into a library of bran-new books, in bran-new bindings liberally gilded,
-and requested to see the messenger who had brought the paper. He was a
-boy of about fifteen. Mortimer looked at the boy, and the boy looked
-at the bran-new pilgrims on the wall, going to Canterbury in more gold
-frame than procession, and more carving than country.
+Reginald Wilfer is a name with rather a grand sound, suggesting on
+first acquaintance brasses in country churches, scrolls in stained-glass
+windows, and generally the De Wilfers who came over with the Conqueror.
+For, it is a remarkable fact in genealogy that no De Any ones ever came
+over with Anybody else.
 
-‘Whose writing is this?’
+But, the Reginald Wilfer family were of such commonplace extraction and
+pursuits that their forefathers had for generations modestly subsisted
+on the Docks, the Excise Office, and the Custom [[house|House]], and the existing
+R. Wilfer was a poor clerk. So poor a clerk, through having a limited
+salary and an unlimited family, that he had never yet attained the
+modest object of his [[Ambition|ambition]]: which was, to wear a complete new suit
+of clothes, hat and boots included, at one [[Time|time]]. His black hat was brown
+before he could afford a coat, his pantaloons were white at the seams
+and knees before he could buy a pair of boots, his boots had worn out
+before he could treat himself to new pantaloons, and, by the [[Time|time]] he
+worked round to the hat again, that shining modern article roofed-in an
+ancient ruin of various periods.
 
-‘Mine, sir.’
+If the conventional Cherub could ever grow up and be clothed, he might
+be photographed as a portrait of Wilfer. His chubby, smooth, [[Innocent|innocent]]
+appearance was a reason for his being always treated with condescension
+when he was not put down. A stranger entering his own poor [[house]] at
+about ten o’[[Clock|clock]] P.M. might have been surprised to find him sitting up
+to supper. So boyish was he in his curves and proportions, that his
+old schoolmaster meeting him in Cheapside, might have been unable to
+withstand the [[Temptation|temptation]] of caning him on the spot. In short, he was
+the conventional cherub, after the supposititious shoot just mentioned,
+rather grey, with signs of care on his expression, and in decidedly
+insolvent circumstances.
 
-‘Who told you to write it?’
+He was shy, and unwilling to own to the name of Reginald, as being too
+aspiring and [[Self|self]]-assertive a name. In his signature he used only the
+initial R., and imparted what it really stood for, to none but chosen
+friends, under the seal of confidence. Out of this, the facetious habit
+had arisen in the neighbourhood surrounding Mincing Lane of making
+christian names for him of adjectives and participles beginning with R.
+Some of these were more or less appropriate: as Rusty, Retiring, Ruddy,
+Round, Ripe, Ridiculous, Ruminative; others, derived their point from
+their want of application: as Raging, Rattling, Roaring, Raffish. But,
+his popular name was Rumty, which in a moment of inspiration had been
+bestowed upon him by a gentleman of convivial habits connected with the
+drug-markets, as the beginning of a social [[Chorus|chorus]], his leading part in
+the execution of which had led this gentleman to the Temple of Fame, and
+of which the whole expressive burden ran:
 
-‘My father, Jesse Hexam.’
+     ‘Rumty iddity, row dow dow,
+     Sing toodlely, teedlely, bow wow wow.’
 
-‘Is it he who found the [[Body|body]]?’
+Thus he was constantly addressed, even in minor notes on business, as
+‘Dear Rumty’; in answer to which, he sedately signed himself, ‘Yours
+truly, R. Wilfer.’
 
-‘Yes, sir.’
+He was clerk in the drug-[[house]] of Chicksey, Veneering, and Stobbles.
+Chicksey and Stobbles, his former masters, had both become absorbed in
+Veneering, once their traveller or commission agent: who had signalized
+his accession to supreme power by bringing into the business a quantity
+of plate-glass [[Window|window]] and French-polished mahogany partition, and a
+gleaming and enormous doorplate.
 
-‘What is your father?’
+R. Wilfer locked up his desk one evening, and, putting his bunch of keys
+in his pocket much as if it were his peg-top, made for [[Home|home]]. His [[Home|home]]
+was in the Holloway region north of [[London]], and then divided from it by
+fields and trees. Between Battle Bridge and that part of the Holloway
+district in which he dwelt, was a tract of suburban Sahara, where tiles
+and bricks were burnt, bones were boiled, carpets were beat, rubbish was
+shot, [[dogs]] were fought, and [[Dust|dust]] was heaped by contractors. Skirting
+the border of this [[Desert|desert]], by the way he took, when the light of its
+kiln-fires made lurid smears on the fog, R. Wilfer sighed and shook his
+head.
 
-The boy hesitated, looked reproachfully at the pilgrims as if they had
-involved him in a little difficulty, then said, folding a plait in the
-right leg of his trousers, ‘He gets his living along-shore.’
+‘Ah me!’ said he, ‘what might have been is not what is!’
 
-‘Is it far?’
+With which commentary on human life, indicating an experience of it
+not exclusively his own, he made the best of his way to the end of his
+[[Journey|journey]].
 
-‘Is which far?’ asked the boy, upon his guard, and again upon the [[Road|road]]
-to Canterbury.
+Mrs Wilfer was, of course, a tall woman and an angular. Her lord being
+cherubic, she was necessarily majestic, according to the principle which
+matrimonially unites contrasts. She was much given to tying up her head
+in a pocket-handkerchief, knotted under the chin. This head-gear, in
+conjunction with a pair of gloves worn within doors, she seemed to
+consider as at once a kind of armour against misfortune (invariably
+assuming it when in low spirits or difficulties), and as a species of
+full dress. It was therefore with some sinking of the spirit that her
+husband beheld her thus heroically attired, putting down her candle in
+the little hall, and coming down the doorsteps through the little front
+[[Court|court]] to open the gate for him.
 
-‘To your father’s?’
+Something had gone wrong with the [[house]]-door, for R. Wilfer stopped on
+the steps, staring at it, and cried:
 
-‘It’s a goodish stretch, sir. I come up in a cab, and the cab’s waiting
-to be paid. We could go back in it before you paid it, if you liked.
-I went first to your office, according to the direction of the papers
-found in the pockets, and there I see nobody but a chap of about my age
-who sent me on here.’
+‘Hal-loa?’
 
-There was a curious mixture in the boy, of uncompleted savagery, and
-uncompleted civilization. His voice was hoarse and coarse, and his face
-was coarse, and his stunted figure was coarse; but he was cleaner than
-other boys of his type; and his writing, though large and round,
-was good; and he glanced at the backs of the books, with an awakened
-curiosity that went below the binding. No one who can read, ever looks
-at a book, even unopened on a shelf, like one who cannot.
+‘Yes,’ said Mrs Wilfer, ‘the man came himself with a pair of pincers,
+and took it off, and took it away. He said that as he had no expectation
+of ever being paid for it, and as he had an order for another LADIES’
+SCHOOL door-plate, it was better (burnished up) for the interests of all
+parties.’
 
-‘Were any means taken, do you know, boy, to ascertain if it was possible
-to restore life?’ Mortimer inquired, as he sought for his hat.
+‘Perhaps it was, my dear; what do you think?’
 
-‘You wouldn’t ask, sir, if you knew his state. Pharaoh’s multitude that
-were drowned in the Red Sea, ain’t more beyond restoring to life. If
-Lazarus was only half as far gone, that was the greatest of all the
-miracles.’
+‘You are master here, R. W.,’ returned his wife. ‘It is as you think;
+not as I do. Perhaps it might have been better if the man had taken the
+door too?’
 
-‘Halloa!’ cried Mortimer, turning round with his hat upon his head, ‘you
-seem to be at [[Home|home]] in the Red Sea, my young friend?’
+‘My dear, we couldn’t have done without the door.’
 
-‘Read of it with teacher at the school,’ said the boy.
+‘Couldn’t we?’
 
-‘And Lazarus?’
+‘Why, my dear! Could we?’
 
-‘Yes, and him too. But don’t you tell my father! We should have no peace
-in our place, if that got touched upon. It’s my sister’s contriving.’
-
-‘You seem to have a good sister.’
-
-‘She ain’t half bad,’ said the boy; ‘but if she knows her letters it’s
-the most she does—and them I learned her.’
-
-The gloomy Eugene, with his hands in his pockets, had strolled in and
-assisted at the latter part of the dialogue; when the boy spoke these
-words slightingly of his sister, he took him roughly enough by the chin,
-and turned up his face to look at it.
-
-‘[[Well]], I’m sure, sir!’ said the boy, resisting; ‘I [[Hope|hope]] you’ll know me
-again.’
-
-Eugene vouchsafed no answer; but made the proposal to Mortimer, ‘I’ll
-go with you, if you like?’ So, they all three went away together in the
-vehicle that had brought the boy; the two friends (once boys together at
-a public school) inside, smoking cigars; the messenger on the box beside
-the driver.
-
-‘Let me see,’ said Mortimer, as they went along; ‘I have been, Eugene,
-upon the honourable roll of solicitors of the High [[Court]] of Chancery,
-and attorneys at Common Law, five years; and—except gratuitously taking
-instructions, on an average once a fortnight, for the will of Lady
-Tippins who has nothing to leave—I have had no scrap of business but
-this romantic business.’
-
-‘And I,’ said Eugene, ‘have been “called” seven years, and have had no
-business at all, and never shall have any. And if I had, I shouldn’t
-know how to do it.’
-
-‘I am far from being clear as to the last particular,’ returned
-Mortimer, with great composure, ‘that I have much advantage over you.’
-
-‘I hate,’ said Eugene, putting his legs up on the opposite seat, ‘I hate
-my profession.’
-
-‘Shall I incommode you, if I put mine up too?’ returned Mortimer. ‘Thank
-you. I hate mine.’
-
-‘It was forced upon me,’ said the gloomy Eugene, ‘because it was
-understood that we wanted a barrister in the family. We have got a
-precious one.’
-
-‘It was forced upon me,’ said Mortimer, ‘because it was understood that
-we wanted a solicitor in the family. And we have got a precious one.’
-
-‘There are four of us, with our names painted on a door-post in right of
-one black hole called a set of chambers,’ said Eugene; ‘and each of us
-has the fourth of a clerk—Cassim Baba, in the robber’s [[Cave|cave]]—and Cassim
-is the only respectable member of the party.’
-
-‘I am one by myself, one,’ said Mortimer, ‘high up an awful staircase
-commanding a burial-ground, and I have a whole clerk to myself, and he
-has nothing to do but look at the burial-ground, and what he will turn
-out when arrived at maturity, I cannot conceive. Whether, in that shabby
-rook’s nest, he is always plotting wisdom, or plotting murder; whether
-he will grow up, after so much solitary brooding, to enlighten his
-fellow-creatures, or to [[Poison|poison]] them; is the only speck of interest that
-presents itself to my professional view. Will you give me a light? Thank
-you.’
-
-‘Then idiots talk,’ said Eugene, leaning back, folding his arms, smoking
-with his eyes shut, and speaking slightly through his nose, ‘of Energy.
-If there is a word in the dictionary under any letter from A to Z that
-I abominate, it is energy. It is such a conventional superstition, such
-parrot gabble! What the deuce! Am I to rush out into the street, collar
-the first man of a wealthy appearance that I meet, shake him, and say,
-“Go to law upon the spot, you dog, and retain me, or I’ll be the [[Death|death]]
-of you”? Yet that would be energy.’
-
-‘Precisely my view of the case, Eugene. But show me a good opportunity,
-show me something really worth being energetic about, and I’ll show you
-energy.’
-
-‘And so will I,’ said Eugene.
-
-And it is likely enough that ten thousand other young men, within the
-limits of the [[London]] Post-office town delivery, made the same hopeful
-remark in the course of the same evening.
+‘It is as you think, R. W.; not as I do.’ With those submissive words,
+the dutiful wife preceded him down a few stairs to a little basement
+front room, half kitchen, half parlour, where a girl of about nineteen,
+with an exceedingly pretty figure and face, but with an impatient and
+petulant expression both in her face and in her shoulders (which in
+her sex and at her age are very expressive of discontent), sat playing
+draughts with a younger girl, who was the youngest of the [[house|House]] of
+Wilfer. Not to encumber this page by telling off the Wilfers in detail
+and casting them up in the gross, it is enough for the present that the
+rest were what is called ‘out in the world,’ in various ways, and that
+they were Many. So many, that when one of his dutiful children called in
+to see him, R. Wilfer generally seemed to say to himself, after a little
+mental arithmetic, ‘Oh! here’s another of ’em!’ before adding aloud,
+‘How de do, John,’ or Susan, as the case might be.

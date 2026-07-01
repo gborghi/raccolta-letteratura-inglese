@@ -1,5 +1,5 @@
 ---
-title: "[[aquinas]]"
+title: "aquinas"
 author: "Chesterton"
 unitType: work
 parentWork: "works/aquinas-(chesterton)"
@@ -843,11 +843,11 @@ is like blaming Father Matthew, who persuaded millions of
 drunkards to take a temperance pledge, because the accepted law
 sometimes allowed a drunkard to be arrested by a policeman.
 It is to miss the whole point; which is that this particular
-man had a genius for [[Conversion|conversion]], quite apart from compulsion.
+man had a genius for [[conversion]], quite apart from compulsion.
 The real difference between Francis and Dominic, which is no discredit
 to either of them, is that Dominic did happen to be confronted
-with a huge campaign for the [[Conversion|conversion]] of heretics, while Francis
-had only the more subtle task of the [[Conversion|conversion]] of human beings.
+with a huge campaign for the [[conversion]] of heretics, while Francis
+had only the more subtle task of the [[conversion]] of human beings.
 It is an old story that, while we may need somebody like Dominic
 to [[convert]] the heathen to [[Christianity]], we are in even greater
 need of somebody like Francis, to [[convert]] the Christians
@@ -1326,7 +1326,7 @@ For the moment they had forgotten everything except the name of a family,
 that is narrower than a tribe, and far narrower than a nation.
 And the third figure of that trio, born of the same mother
 and perhaps visibly one with the others in face or form,
-had a conception of brotherhood broader than most modern [[Democracy|democracy]],
+had a conception of brotherhood broader than most modern [[democracy]],
 for it was not national but international; a [[Faith|faith]] in [[Mercy|mercy]] and modesty
 far deeper than any mere mildness of manners in the modern world;
 and a drastic oath of [[Poverty|poverty]], which would now be counted quite
@@ -1782,7 +1782,7 @@ The great intellectual tradition that comes down to us from Pythagoras
 and Plato was never interrupted or lost through such trifles as the sack
 of Rome, the triumph of Attila or all the barbarian invasions of
 the Dark Ages.  It was only lost after the introduction of printing,
-the discovery of [[America]], the founding of the Royal Society and
+the discovery of [[america|America]], the founding of the Royal Society and
 all the enlightenment of the [[Renaissance]] and the modern world.
 It was there, if anywhere, that there was lost or impatiently snapped
 the long thin delicate thread that had descended from distant antiquity;
@@ -1973,7 +1973,7 @@ But it is probably true to say that the fact, that a man like [[aquinas|Aquinas]
 had managed even partially to satisfy a man like Tempier, was the end
 of the essential quarrel.  What was already familiar to the few
 became familiar to the many; that an Aristotelian could really
-be a Christian.  Another fact assisted in the common [[Conversion|conversion]].
+be a Christian.  Another fact assisted in the common [[conversion]].
 It rather curiously resembles the story of the [[Translation|translation]]
 of the [[Bible]]; and the alleged Catholic suppression of the [[Bible]].
 Behind the scenes, where the Pope was much more tolerant than the
@@ -3194,12 +3194,12 @@ and tramps; but it was intensely disliked by the upper servants.
 
 Still, if we take the thing as seriously as all childish things should
 be taken, we may learn something from that mysterious state of [[innocence]],
-which is the first and best [[spring]] of all our later indignations.
+which is the first and best [[Spring|spring]] of all our later indignations.
 We may begin to understand why it was that there grew steadily
 with his growing mind, a great and very solitary mind,
 an [[Ambition|ambition]] that was the inversion of all the things about him.
 We shall guess what had continuously swelled within him, whether in
-protest or prophecy or [[Prayer|prayer]] for deliverance, before he startled
+protest or prophecy or [[prayer]] for deliverance, before he startled
 his family by flinging away not only the trappings of nobility,
 but all forms of [[Ambition|ambition]], even ecclesiastical [[Ambition|ambition]].
 His [[Childhood|childhood]] may contain the hint of that first stride of his manhood,
@@ -3346,12 +3346,12 @@ statement of his own solution.  Needless to say he felt with
 hearty simplicity the heavy responsibility and gravity of such
 a judicial decision; and not unnaturally seems to have worried
 about it more than he commonly did over his work.  He sought for
-guidance in more than usually prolonged [[Prayer|prayer]] and intercession;
+guidance in more than usually prolonged [[prayer]] and intercession;
 and finally, with one of those few but striking bodily gestures
 that mark the turning points of his life, he threw down his thesis
 at the foot of the crucifix on the altar, and left it lying there;
 as if awaiting judgment.  Then he turned and came down the altar
-steps and buried himself once more in [[Prayer|prayer]]; but the other Friars,
+steps and buried himself once more in [[prayer]]; but the other Friars,
 it is said, were watching; and [[Well|well]] they might be.  For they declared
 afterwards that the figure of [[Christ]] had come down from the [[Cross|cross]]
 before their mortal eyes; and stood upon the scroll, saying "Thomas,
@@ -3376,7 +3376,7 @@ It is less individual, but it is much more intense.  It is concerned
 with the common origin; but it is hardly an occasion for originality.
 Thus we are forced to think first of Thomas as the maker of
 the Thomist [[philosophy]]; as we think first of Christopher [[Columbus]]
-as the discoverer of [[America]], though he may have been quite sincere
+as the discoverer of [[america|America]], though he may have been quite sincere
 in his pious [[Hope|hope]] to [[convert]] the Khan of Tartary; or of James Watt
 as the discoverer of the steam-engine, though he may have been
 a devout [[Fire|fire]]-worshipper, or a sincere Scottish Calvinist,
@@ -3417,7 +3417,7 @@ practical prose writer; some would say a very prosaic prose writer.
 He maintained controversy with an eye on only two qualities;
 clarity and courtesy.  And he maintained these because they
 were entirely practical qualities; affecting the probabilities
-of [[Conversion|conversion]].  But the composer of the Corpus Christi service
+of [[conversion]].  But the composer of the Corpus Christi service
 was not merely what even the wild and woolly would call a poet;
 he was what the most fastidious would call an [[artist]].
 His [[Double|double]] function rather recalls the [[Double|double]] activity of some
@@ -3960,7 +3960,7 @@ as in that famous case, when it was found to be the tooth of a pig.
 It is very right that there should be a purely physical science
 of such things; but the name commonly used might [[Well|well]], by analogy,
 have been dedicated to things not only wider and deeper, but rather
-more relevant.  Just as, in [[America]], the new Humanists have pointed
+more relevant.  Just as, in [[america|America]], the new Humanists have pointed
 out to the old Humanitarians that their [[Humanitarianism|humanitarianism]] has been
 largely concentrated on things that are not specially human, such as
 physical conditions, appetites, economic needs, environment and so on--
@@ -4992,7 +4992,7 @@ once more.  It is four hundred years after; and this book, I [[Hope|hope]]
 (and I am happy to say I believe) will probably be lost and
 forgotten in the flood of better books about St. Thomas [[aquinas|Aquinas]],
 which are at this moment pouring from every printing-press in Europe,
-and even in England and [[America]].  Compared with such books it
+and even in England and [[america|America]].  Compared with such books it
 is obviously a very slight and amateurish production; but it is
 not likely to be burned, and if it were, it would not leave even
 a noticeable gap in the pouring mass of new and magnificent work,

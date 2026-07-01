@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 6 (part 2)"
+title: "Barnaby Rudge — Chapter 6 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -147,6 +147,3 @@ seemed to be fixed upon his game, to the exclusion of all other things.
 Something in the young man’s face expressed this opinion, for Gabriel
 repeated what he had just said, more earnestly than before, and with
 another glance towards Barnaby, again asked what like the man was.
-
-‘The [[Night|night]] was so dark,’ said Edward, ‘the attack so sudden, and he so
-wrapped and muffled up, that I can hardly say. It seems that--’

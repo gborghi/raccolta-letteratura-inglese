@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/a-tale-of-two-cities-(dickens)">A Tale of Two Cities</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_05">‹ Chapter 05</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_07_the_golden_thread">Chapter 07 the Golden Thread ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_05">‹ Chapter 05</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_07">Chapter 07 ›</a></div>
 </nav>
 
 

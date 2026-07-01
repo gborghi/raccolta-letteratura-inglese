@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 25 (part 1)"
+title: "Villette — Chapter 25 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -135,12 +135,3 @@ mind by this evening’s [[Child|child]]-like light-heartedness.
 
 “Couldn’t consent to a step of the kind on any account. Sorry for it,
 but couldn’t do it.”
-
-“Why? I am quite [[Well|well]] now: it can’t break my collar-bone again, or
-dislocate my shoulder. Is it wine?”
-
-“No; nor dew.”
-
-“I don’t want dew; I don’t like dew: but what is it?”
-
-“Ale—strong ale—old October; brewed, perhaps, when I was born.”

@@ -1,5 +1,5 @@
 ---
-title: "Hard Times — Chapter 9"
+title: "Hard Times — Chapter 11"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/hard-times-(dickens)"
@@ -14,334 +14,355 @@ tags:
 </nav>
 
 
-CHAPTER IX
-HEARING THE LAST OF IT
+CHAPTER XI
+LOWER AND LOWER
 
 
-MRS. SPARSIT, lying by to recover the tone of her nerves in Mr.
-Bounderby’s retreat, kept such a sharp look-out, [[Night|night]] and day, under her
-Coriolanian eyebrows, that her eyes, like a couple of lighthouses on an
-iron-bound coast, might have warned all prudent mariners from that bold
-rock her Roman nose and the dark and craggy region in its neighbourhood,
-but for the placidity of her manner.  Although it was hard to believe
-that her retiring for the [[Night|night]] could be anything but a form, so severely
-wide awake were those classical eyes of hers, and so impossible did it
-seem that her rigid nose could yield to any relaxing influence, yet her
-manner of sitting, smoothing her uncomfortable, not to say, gritty
-mittens (they were constructed of a cool fabric like a meat-safe), or of
-ambling to unknown places of destination with her foot in her cotton
-stirrup, was so perfectly serene, that most observers would have been
-constrained to suppose her a dove, embodied by some freak of [[Nature|nature]], in
-the earthly tabernacle of a bird of the hook-beaked order.
+THE figure descended the great stairs, steadily, steadily; always
+verging, like a weight in deep [[Water|water]], to the black gulf at the [[Bottom|bottom]].
 
-She was a most wonderful woman for prowling about the [[house]].  How she got
-from story to story was a mystery beyond solution.  A lady so decorous in
-herself, and so highly connected, was not to be suspected of dropping
-over the banisters or sliding down them, yet her extraordinary facility
-of locomotion suggested the wild idea.  Another noticeable circumstance
-in Mrs. Sparsit was, that she was never hurried.  She would shoot with
-consummate velocity from the roof to the hall, yet would be in full
-possession of her breath and dignity on the moment of her arrival there.
-Neither was she ever seen by human vision to go at a great pace.
+Mr. Gradgrind, apprised of his wife’s decease, made an expedition from
+[[London]], and buried her in a business-like manner.  He then returned with
+promptitude to the national cinder-heap, and resumed his sifting for the
+odds and ends he wanted, and his throwing of the [[Dust|dust]] about into the eyes
+of other people who wanted other odds and ends—in fact resumed his
+parliamentary duties.
 
-She took very kindly to Mr. Harthouse, and had some pleasant conversation
-with him soon after her arrival.  She made him her stately curtsey in the
-[[Garden|garden]], one morning before breakfast.
+In the meantime, Mrs. Sparsit kept unwinking watch and ward.  Separated
+from her staircase, all the week, by the length of iron [[Road|road]] dividing
+Coketown from the country [[house]], she yet maintained her cat-like
+observation of Louisa, through her husband, through her brother, through
+[[James Harthouse]], through the outsides of letters and packets, through
+everything animate and inanimate that at any [[Time|time]] went near the stairs.
+‘Your foot on the last step, my lady,’ said Mrs. Sparsit, apostrophizing
+the descending figure, with the aid of her threatening mitten, ‘and all
+your art shall never blind me.’
 
-‘It appears but yesterday, sir,’ said Mrs. Sparsit, ‘that I had the
-[[Honour|honour]] of receiving you at the Bank, when you were so good as to wish to
-be made acquainted with Mr. Bounderby’s address.’
+Art or [[Nature|nature]] though, the original stock of Louisa’s character or the
+graft of circumstances upon it,—her curious reserve did baffle, while it
+stimulated, one as sagacious as Mrs. Sparsit.  There were times when Mr.
+[[James Harthouse]] was not sure of her.  There were times when he could not
+read the face he had studied so long; and when this lonely girl was a
+greater mystery to him, than any woman of the world with a ring of
+satellites to help her.
 
-‘An occasion, I am sure, not to be forgotten by myself in the course of
-Ages,’ said Mr. Harthouse, inclining his head to Mrs. Sparsit with the
-most indolent of all possible airs.
+So the [[Time|time]] went on; until it happened that Mr. Bounderby was called away
+from [[Home|home]] by business which required his presence elsewhere, for three or
+four days.  It was on a Friday that he intimated this to Mrs. Sparsit at
+the Bank, adding: ‘But you’ll go down to-morrow, ma’am, all the same.
+You’ll go down just as if I was there.  It will make no difference to
+you.’
 
-‘We live in a singular world, sir,’ said Mrs. Sparsit.
+‘Pray, sir,’ returned Mrs. Sparsit, reproachfully, ‘let me beg you not to
+say that.  Your absence will make a vast difference to me, sir, as I
+think you very [[Well|well]] know.’
 
-‘I have had the [[Honour|honour]], by a coincidence of which I am proud, to have
-made a remark, similar in effect, though not so epigrammatically
-expressed.’
+‘[[Well]], ma’am, then you must get on in my absence as [[Well|well]] as you can,’
+said Mr. Bounderby, not displeased.
 
-‘A singular world, I would say, sir,’ pursued Mrs. Sparsit; after
-acknowledging the compliment with a drooping of her dark eyebrows, not
-altogether so mild in its expression as her voice was in its dulcet
-tones; ‘as regards the intimacies we form at one [[Time|time]], with individuals
-we were quite ignorant of, at another.  I recall, sir, that on that
-occasion you went so far as to say you were actually apprehensive of Miss
-Gradgrind.’
+‘Mr. Bounderby,’ retorted Mrs. Sparsit, ‘your will is to me a law, sir;
+otherwise, it might be my inclination to dispute your kind commands, not
+feeling sure that it will be quite so agreeable to Miss Gradgrind to
+receive me, as it ever is to your own munificent hospitality.  But you
+shall say no more, sir.  I will go, upon your invitation.’
 
-‘Your [[Memory|memory]] does me more [[Honour|honour]] than my insignificance deserves.  I
-availed myself of your obliging hints to correct my timidity, and it is
-unnecessary to add that they were perfectly accurate.  Mrs. Sparsit’s
-talent for—in fact for anything requiring accuracy—with a combination of
-strength of mind—and Family—is too habitually developed to admit of any
-question.’  He was almost falling asleep over this compliment; it took
-him so long to get through, and his mind wandered so much in the course
-of its execution.
+‘Why, when I invite you to my [[house]], ma’am,’ said Bounderby, opening his
+eyes, ‘I should [[Hope|hope]] you want no other invitation.’
 
-‘You found Miss Gradgrind—I really cannot call her Mrs. Bounderby; it’s
-very absurd of me—as youthful as I described her?’ asked Mrs. Sparsit,
-sweetly.
+‘No, indeed, sir,’ returned Mrs. Sparsit, ‘I should [[Hope|hope]] not.  Say no
+more, sir.  I would, sir, I could see you gay again.’
 
-‘You drew her portrait perfectly,’ said Mr. Harthouse.  ‘Presented her
-dead image.’
+‘What do you mean, ma’am?’ blustered Bounderby.
 
-‘Very engaging, sir,’ said Mrs. Sparsit, causing her mittens slowly to
-revolve over one another.
+‘Sir,’ rejoined Mrs. Sparsit, ‘there was wont to be an elasticity in you
+which I sadly miss.  Be buoyant, sir!’
 
-‘Highly so.’
+Mr. Bounderby, under the influence of this difficult adjuration, backed
+up by her compassionate eye, could only scratch his head in a feeble and
+ridiculous manner, and afterwards assert himself at a distance, by being
+heard to bully the small fry of business all the morning.
 
-‘It used to be considered,’ said Mrs. Sparsit, ‘that Miss Gradgrind was
-wanting in animation, but I confess she appears to me considerably and
-strikingly improved in that respect.  Ay, and indeed here _is_ Mr.
-Bounderby!’ cried Mrs. Sparsit, nodding her head a great many times, as
-if she had been talking and thinking of no one else.  ‘How do you find
-yourself this morning, sir?  Pray let us see you cheerful, sir.’
+‘Bitzer,’ said Mrs. Sparsit that afternoon, when her patron was gone on
+his [[Journey|journey]], and the Bank was closing, ‘present my compliments to young
+Mr. Thomas, and ask him if he would step up and partake of a [[Lamb|lamb]] chop
+and walnut ketchup, with a glass of India ale?’  Young Mr. Thomas being
+usually ready for anything in that way, returned a gracious answer, and
+followed on its heels.  ‘Mr. Thomas,’ said Mrs. Sparsit, ‘these plain
+viands being on table, I thought you might be tempted.’
 
-Now, these persistent assuagements of his misery, and lightenings of his
-load, had by this [[Time|time]] begun to have the effect of making Mr. Bounderby
-softer than usual towards Mrs. Sparsit, and harder than usual to most
-other people from his wife downward.  So, when Mrs. Sparsit said with
-forced lightness of heart, ‘You want your breakfast, sir, but I dare say
-Miss Gradgrind will soon be here to preside at the table,’ Mr. Bounderby
-replied, ‘If I waited to be taken care of by my wife, ma’am, I believe
-you know pretty [[Well|well]] I should wait till Doomsday, so I’ll trouble _you_
-to take charge of the teapot.’  Mrs. Sparsit complied, and assumed her
-old position at table.
+‘Thank’ee, Mrs. Sparsit,’ said the whelp.  And gloomily fell to.
 
-This again made the excellent woman vastly sentimental.  She was so
-humble withal, that when Louisa appeared, she [[Rose|rose]], protesting she never
-could think of sitting in that place under existing circumstances, often
-as she had had the [[Honour|honour]] of making Mr. Bounderby’s breakfast, before
-Mrs. Gradgrind—she begged pardon, she meant to say Miss Bounderby—she
-hoped to be excused, but she really could not get it right yet, though
-she trusted to become familiar with it by and by—had assumed her present
-position.  It was only (she observed) because Miss Gradgrind happened to
-be a little late, and Mr. Bounderby’s [[Time|time]] was so very precious, and she
-knew it of old to be so essential that he should breakfast to the moment,
-that she had taken the liberty of complying with his request; long as his
-will had been a law to her.
+‘How is Mr. Harthouse, Mr. Tom?’ asked Mrs. Sparsit.
 
-‘There!  Stop where you are, ma’am,’ said Mr. Bounderby, ‘stop where you
-are!  Mrs. Bounderby will be very glad to be relieved of the trouble, I
-believe.’
+‘Oh, he’s all right,’ said Tom.
 
-‘Don’t say that, sir,’ returned Mrs. Sparsit, almost with severity,
-‘because that is very unkind to Mrs. Bounderby.  And to be unkind is not
-to be you, sir.’
+‘Where may he be at present?’ Mrs. Sparsit asked in a light
+conversational manner, after mentally devoting the whelp to the Furies
+for being so uncommunicative.
 
-‘You may set your mind at rest, ma’am.—You can take it very quietly,
-can’t you, Loo?’ said Mr. Bounderby, in a blustering way to his wife.
+‘He is shooting in Yorkshire,’ said Tom.  ‘Sent Loo a basket half as big
+as a church, yesterday.’
 
-‘Of course.  It is of no moment.  Why should it be of any importance to
-me?’
+‘The kind of gentleman, now,’ said Mrs. Sparsit, sweetly, ‘whom one might
+wager to be a good shot!’
 
-‘Why should it be of any importance to any one, Mrs. Sparsit, ma’am?’
-said Mr. Bounderby, swelling with a sense of slight.  ‘You attach too
-much importance to these things, ma’am.  By George, you’ll be corrupted
-in some of your notions here.  You are old-fashioned, ma’am.  You are
-behind [[Tom Gradgrind]]’s children’s [[Time|time]].’
+‘Crack,’ said Tom.
 
-‘What is the matter with you?’ asked Louisa, coldly surprised.  ‘What has
-given you offence?’
+He had long been a down-looking young fellow, but this characteristic had
+so increased of late, that he never raised his eyes to any face for three
+seconds together.  Mrs. Sparsit consequently had ample means of watching
+his looks, if she were so inclined.
 
-‘Offence!’ repeated Bounderby.  ‘Do you suppose if there was any offence
-given me, I shouldn’t name it, and request to have it corrected?  I am a
-straightforward man, I believe.  I don’t go beating about for
-side-winds.’
+‘Mr. Harthouse is a great favourite of mine,’ said Mrs. Sparsit, ‘as
+indeed he is of most people.  May we expect to see him again shortly, Mr.
+Tom?’
 
-‘I suppose no one ever had occasion to think you too diffident, or too
-delicate,’ Louisa answered him composedly: ‘I have never made that
-objection to you, either as a [[Child|child]] or as a woman.  I don’t understand
-what you would have.’
+‘Why, _I_ expect to see him to-morrow,’ returned the whelp.
 
-‘Have?’ returned Mr. Bounderby.  ‘Nothing.  Otherwise, don’t you, Loo
-Bounderby, know thoroughly [[Well|well]] that I, [[Josiah Bounderby]] of Coketown,
-would have it?’
+‘Good news!’ cried Mrs. Sparsit, blandly.
 
-She looked at him, as he struck the table and made the teacups ring, with
-a proud colour in her face that was a new change, Mr. Harthouse thought.
-‘You are incomprehensible this morning,’ said Louisa.  ‘Pray take no
-further trouble to explain yourself.  I am not curious to know your
-meaning.  What does it matter?’
+‘I have got an appointment with him to meet him in the evening at the
+station here,’ said Tom, ‘and I am going to dine with him afterwards, I
+believe.  He is not coming down to the country [[house]] for a week or so,
+being due somewhere else.  At least, he says so; but I shouldn’t [[Wonder|wonder]]
+if he was to stop here over [[Sunday]], and stray that way.’
 
-Nothing more was said on this theme, and Mr. Harthouse was soon idly gay
-on indifferent subjects.  But from this day, the Sparsit action upon Mr.
-Bounderby threw Louisa and [[James Harthouse]] more together, and
-strengthened the dangerous [[Alienation|alienation]] from her husband and confidence
-against him with another, into which she had fallen by degrees so fine
-that she could not retrace them if she tried.  But whether she ever tried
-or no, lay hidden in her own closed heart.
+‘Which reminds me!’ said Mrs. Sparsit.  ‘Would you remember a message to
+your sister, Mr. Tom, if I was to charge you with one?’
 
-Mrs. Sparsit was so much affected on this particular occasion, that,
-assisting Mr. Bounderby to his hat after breakfast, and being then [[Alone|alone]]
-with him in the hall, she imprinted a chaste kiss upon his hand, murmured
-‘My benefactor!’ and retired, overwhelmed with grief.  Yet it is an
-indubitable fact, within the cognizance of this [[history]], that five
-minutes after he had left the [[house]] in the [[Self|self]]-same hat, the same
-descendant of the Scadgerses and connexion by matrimony of the Powlers,
-shook her right-hand mitten at his portrait, made a contemptuous grimace
-at that work of art, and said ‘Serve you right, you Noodle, and I am glad
-of it.’
+‘[[Well]]?  I’ll try,’ returned the reluctant whelp, ‘if it isn’t a long un.’
 
-Mr. Bounderby had not been long gone, when Bitzer appeared.  Bitzer had
-come down by train, shrieking and rattling over the long line of arches
-that bestrode the wild country of past and present coal-pits, with an
-express from Stone Lodge.  It was a hasty note to inform Louisa that Mrs.
-Gradgrind lay very ill.  She had never been [[Well|well]] within her daughter’s
-knowledge; but, she had declined within the last few days, had continued
-sinking all through the [[Night|night]], and was now as nearly dead, as her limited
-capacity of being in any state that implied the [[Ghost|ghost]] of an intention to
-get out of it, allowed.
+‘It is merely my respectful compliments,’ said Mrs. Sparsit, ‘and I [[Fear|fear]]
+I may not trouble her with my society this week; being still a little
+nervous, and better perhaps by my poor [[Self|self]].’
 
-Accompanied by the lightest of porters, fit colourless servitor at
-[[Death]]’s door when Mrs. Gradgrind knocked, Louisa rumbled to Coketown,
-over the coal-pits past and present, and was whirled into its smoky jaws.
-She dismissed the messenger to his own devices, and rode away to her old
-[[Home|home]].
+‘Oh!  If that’s all,’ observed Tom, ‘it wouldn’t much matter, even if I
+was to forget it, for Loo’s not likely to think of you unless she sees
+you.’
 
-She had seldom been there since her [[Marriage|marriage]].  Her father was usually
-sifting and sifting at his parliamentary cinder-heap in [[London]] (without
-being observed to turn up many precious articles among the rubbish), and
-was still hard at it in the national [[Dust|dust]]-yard.  Her mother had taken it
-rather as a disturbance than otherwise, to be visited, as she reclined
-upon her sofa; young people, Louisa felt herself all unfit for; Sissy she
-had never softened to again, since the [[Night|night]] when the stroller’s [[Child|child]]
-had raised her eyes to look at Mr. Bounderby’s intended wife.  She had no
-inducements to go back, and had rarely gone.
+Having paid for his entertainment with this agreeable compliment, he
+relapsed into a hangdog [[Silence|silence]] until there was no more India ale left,
+when he said, ‘[[Well]], Mrs. Sparsit, I must be off!’ and went off.
 
-Neither, as she approached her old [[Home|home]] now, did any of the best
-influences of old [[Home|home]] descend upon her.  The [[Dreams|dreams]] of [[Childhood|childhood]]—its
-airy fables; its graceful, beautiful, humane, impossible adornments of
-the world beyond: so good to be believed in once, so good to be
-remembered when outgrown, for then the least among them rises to the
-stature of a great [[Charity]] in the heart, [[Suffering|suffering]] little children to
-come into the midst of it, and to keep with their pure hands a [[Garden|garden]] in
-the stony ways of this world, wherein it were better for all the children
-of Adam that they should oftener sun themselves, simple and trustful, and
-not worldly-wise—what had she to do with these?  Remembrances of how she
-had journeyed to the little that she knew, by the enchanted roads of what
-she and millions of [[Innocent|innocent]] creatures had hoped and imagined; of how,
-first coming upon Reason through the tender light of Fancy, she had seen
-it a beneficent god, deferring to gods as great as itself; not a grim
-Idol, cruel and cold, with its victims bound hand to foot, and its big
-dumb shape set up with a sightless stare, never to be moved by anything
-but so many calculated tons of leverage—what had she to do with these?
-Her remembrances of [[Home|home]] and [[Childhood|childhood]] were remembrances of the drying up
-of every [[spring]] and fountain in her young heart as it gushed out.  The
-golden waters were not there.  They were flowing for the fertilization of
-the land where grapes are gathered from thorns, and figs from thistles.
+Next day, Saturday, Mrs. Sparsit sat at her [[Window|window]] all day long looking
+at the customers coming in and out, watching the postmen, keeping an eye
+on the general traffic of the street, revolving many things in her mind,
+but, above all, keeping her attention on her staircase.  The evening
+come, she put on her bonnet and shawl, and went quietly out: having her
+reasons for hovering in a furtive way about the station by which a
+passenger would arrive from Yorkshire, and for preferring to peep into it
+round pillars and corners, and out of ladies’ waiting-room windows, to
+appearing in its precincts openly.
 
-She went, with a heavy, hardened kind of sorrow upon her, into the [[house]]
-and into her mother’s room.  Since the [[Time|time]] of her leaving [[Home|home]], Sissy
-had lived with the rest of the family on equal terms.  Sissy was at her
-mother’s side; and Jane, her sister, now ten or twelve years old, was in
-the room.
+Tom was in attendance, and loitered about until the expected train came
+in.  It brought no Mr. Harthouse.  Tom waited until the crowd had
+dispersed, and the bustle was over; and then referred to a posted list of
+trains, and took counsel with porters.  That done, he strolled away idly,
+stopping in the street and looking up it and down it, and lifting his hat
+off and putting it on again, and yawning and stretching himself, and
+exhibiting all the symptoms of mortal weariness to be expected in one who
+had still to wait until the next train should come in, an hour and forty
+minutes hence.
 
-There was great trouble before it could be made known to Mrs. Gradgrind
-that her eldest [[Child|child]] was there.  She reclined, propped up, from mere
-habit, on a couch: as nearly in her old usual attitude, as anything so
-helpless could be kept in.  She had positively refused to take to her
-bed; on the ground that if she did, she would never hear the last of it.
+‘This is a device to keep him out of the way,’ said Mrs. Sparsit,
+starting from the dull office [[Window|window]] whence she had watched him last.
+‘Harthouse is with his sister now!’
 
-Her feeble voice sounded so far away in her bundle of shawls, and the
-sound of another voice addressing her seemed to take such a long [[Time|time]] in
-getting down to her ears, that she might have been lying at the [[Bottom|bottom]] of
-a [[Well|well]].  The poor lady was nearer [[Truth]] than she ever had been: which had
-much to do with it.
+It was the conception of an inspired moment, and she shot off with her
+utmost swiftness to work it out.  The station for the country [[house]] was
+at the opposite end of the town, the [[Time|time]] was short, the [[Road|road]] not easy;
+but she was so quick in pouncing on a disengaged coach, so quick in
+darting out of it, producing her money, seizing her ticket, and diving
+into the train, that she was borne along the arches spanning the land of
+coal-pits past and present, as if she had been caught up in a cloud and
+whirled away.
 
-On being told that Mrs. Bounderby was there, she replied, at
-[[Cross|cross]]-purposes, that she had never called him by that name since he
-married Louisa; that pending her choice of an objectionable name, she had
-called him J; and that she could not at present depart from that
-regulation, not being yet provided with a permanent substitute.  Louisa
-had sat by her for some minutes, and had spoken to her often, before she
-arrived at a clear understanding who it was.  She then seemed to come to
-it all at once.
+All the [[Journey|journey]], immovable in the air though never left behind; plain to
+the dark eyes of her mind, as the electric wires which ruled a colossal
+strip of music-paper out of the evening sky, were plain to the dark eyes
+of her [[Body|body]]; Mrs. Sparsit saw her staircase, with the figure coming down.
+Very near the [[Bottom|bottom]] now.  Upon the brink of the abyss.
 
-‘[[Well]], my dear,’ said Mrs. Gradgrind, ‘and I [[Hope|hope]] you are going on
-satisfactorily to yourself.  It was all your father’s doing.  He set his
-heart upon it.  And he ought to know.’
+An overcast September evening, just at nightfall, saw beneath its
+drooping eyelids Mrs. Sparsit glide out of her carriage, pass down the
+wooden steps of the little station into a stony [[Road|road]], [[Cross|cross]] it into a
+green lane, and become hidden in a [[Summer|summer]]-growth of [[Leaves|leaves]] and branches.
+One or two late [[Birds|birds]] sleepily chirping in their nests, and a bat heavily
+crossing and recrossing her, and the reek of her own tread in the thick
+[[Dust|dust]] that felt like velvet, were all Mrs. Sparsit heard or saw until she
+very softly closed a gate.
 
-‘I want to hear of you, mother; not of myself.’
+She went up to the [[house]], keeping within the shrubbery, and went round
+it, peeping between the [[Leaves|leaves]] at the lower windows.  Most of them were
+open, as they usually were in such warm weather, but there were no lights
+yet, and all was silent.  She tried the [[Garden|garden]] with no better effect.
+She thought of the wood, and stole towards it, heedless of long grass and
+briers: of worms, snails, and slugs, and all the creeping things that be.
+With her dark eyes and her hook nose warily in advance of her, Mrs.
+Sparsit softly crushed her way through the thick undergrowth, so intent
+upon her object that she probably would have done no less, if the wood
+had been a wood of adders.
 
-‘You want to hear of me, my dear?  That’s something new, I am sure, when
-anybody wants to hear of me.  Not at all [[Well|well]], Louisa.  Very faint and
-giddy.’
+Hark!
 
-‘Are you in [[Pain|pain]], dear mother?’
+The smaller [[Birds|birds]] might have tumbled out of their nests, fascinated by
+the glittering of Mrs. Sparsit’s eyes in the gloom, as she stopped and
+listened.
 
-‘I think there’s a [[Pain|pain]] somewhere in the room,’ said Mrs. Gradgrind, ‘but
-I couldn’t positively say that I have got it.’
+Low voices close at hand.  His voice and hers.  The appointment _was_ a
+device to keep the brother away!  There they were yonder, by the felled
+tree.
 
-After this strange speech, she lay silent for some [[Time|time]].  Louisa, holding
-her hand, could feel no pulse; but kissing it, could see a slight thin
-thread of life in fluttering motion.
+Bending low among the dewy grass, Mrs. Sparsit advanced closer to them.
+She drew herself up, and stood behind a tree, like Robinson Crusoe in his
+ambuscade against the savages; so near to them that at a [[spring]], and that
+no great one, she could have touched them both.  He was there secretly,
+and had not shown himself at the [[house]].  He had come on horseback, and
+must have passed through the neighbouring fields; for his [[Horse|horse]] was tied
+to the meadow side of the fence, within a few paces.
 
-‘You very seldom see your sister,’ said Mrs. Gradgrind.  ‘She grows like
-you.  I wish you would look at her.  Sissy, bring her here.’
+‘My dearest [[Love|love]],’ said he, ‘what could I do?  Knowing you were [[Alone|alone]],
+was it possible that I could stay away?’
 
-She was brought, and stood with her hand in her sister’s.  Louisa had
-observed her with her arm round Sissy’s neck, and she felt the difference
-of this approach.
+‘You may hang your head, to make yourself the more attractive; _I_ don’t
+know what they see in you when you hold it up,’ thought Mrs. Sparsit;
+‘but you little think, my dearest [[Love|love]], whose eyes are on you!’
 
-‘Do you see the likeness, Louisa?’
+That she hung her head, was certain.  She urged him to go away, she
+commanded him to go away; but she neither turned her face to him, nor
+raised it.  Yet it was remarkable that she sat as still as ever the
+amiable woman in ambuscade had seen her sit, at any period in her life.
+Her hands rested in one another, like the hands of a statue; and even her
+manner of speaking was not hurried.
 
-‘Yes, mother.  I should think her like me.  But—’
+‘My dear [[Child|child]],’ said Harthouse; Mrs. Sparsit saw with delight that his
+arm embraced her; ‘will you not bear with my society for a little while?’
 
-‘Eh!  Yes, I always say so,’ Mrs. Gradgrind cried, with unexpected
-quickness.  ‘And that reminds me.  I—I want to speak to you, my dear.
-Sissy, my good girl, leave us [[Alone|alone]] a minute.’ Louisa had relinquished
-the hand: had thought that her sister’s was a better and brighter face
-than hers had ever been: had seen in it, not without a rising feeling of
-resentment, even in that place and at that [[Time|time]], something of the
-gentleness of the other face in the room; the sweet face with the
-trusting eyes, made paler than watching and sympathy made it, by the rich
-dark hair.
+‘Not here.’
 
-Left [[Alone|alone]] with her mother, Louisa saw her lying with an awful lull upon
-her face, like one who was floating away upon some great [[Water|water]], all
-resistance over, content to be carried down the stream.  She put the
-[[Shadow|shadow]] of a hand to her lips again, and recalled her.
+‘Where, Louisa?
 
-‘You were going to speak to me, mother.’
+‘Not here.’
 
-‘Eh?  Yes, to be sure, my dear.  You know your father is almost always
-away now, and therefore I must write to him about it.’
+‘But we have so little [[Time|time]] to make so much of, and I have come so far,
+and am altogether so devoted, and distracted.  There never was a slave at
+once so devoted and ill-used by his mistress.  To look for your sunny
+welcome that has warmed me into life, and to be received in your frozen
+manner, is heart-rending.’
 
-‘About what, mother?  Don’t be troubled.  About what?’
+‘Am I to say again, that I must be left to myself here?’
 
-‘You must remember, my dear, that whenever I have said anything, on any
-subject, I have never heard the last of it: and consequently, that I have
-long left off saying anything.’
+‘But we must meet, my dear Louisa.  Where shall we meet?’
 
-‘I can hear you, mother.’  But, it was only by dint of bending down to
-her ear, and at the same [[Time|time]] attentively watching the lips as they
-moved, that she could link such faint and broken sounds into any chain of
-connexion.
+They both started.  The listener started, guiltily, too; for she thought
+there was another listener among the trees.  It was only rain, beginning
+to fall fast, in heavy drops.
 
-‘You learnt a great deal, Louisa, and so did your brother.  Ologies of
-all kinds from morning to [[Night|night]].  If there is any Ology left, of any
-description, that has not been worn to rags in this [[house]], all I can say
-is, I [[Hope|hope]] I shall never hear its name.’
+‘Shall I ride up to the [[house]] a few minutes hence, innocently supposing
+that its master is at [[Home|home]] and will be charmed to receive me?’
 
-‘I can hear you, mother, when you have strength to go on.’  This, to keep
-her from floating away.
+‘No!’
 
-‘But there is something—not an Ology at all—that your father has missed,
-or forgotten, Louisa.  I don’t know what it is.  I have often sat with
-Sissy near me, and thought about it.  I shall never get its name now.
-But your father may.  It makes me restless.  I want to write to him, to
-find out for God’s sake, what it is.  Give me a pen, give me a pen.’
+‘Your cruel commands are implicitly to be obeyed; though I am the most
+unfortunate fellow in the world, I believe, to have been insensible to
+all other women, and to have fallen prostrate at last under the foot of
+the most beautiful, and the most engaging, and the most imperious.  My
+dearest Louisa, I cannot go myself, or let you go, in this hard abuse of
+your power.’
 
-Even the power of restlessness was gone, except from the poor head, which
-could just turn from side to side.
+Mrs. Sparsit saw him detain her with his encircling arm, and heard him
+then and there, within her (Mrs. Sparsit’s) greedy hearing, tell her how
+he loved her, and how she was the stake for which he ardently desired to
+play away all that he had in life.  The objects he had lately pursued,
+turned worthless beside her; such [[success]] as was almost in his grasp, he
+flung away from him like the dirt it was, compared with her.  Its
+pursuit, nevertheless, if it kept him near her, or its [[Renunciation|renunciation]] if it
+took him from her, or flight if she shared it, or secrecy if she
+commanded it, or any fate, or every fate, all was alike to him, so that
+she was true to him,—the man who had seen how cast away she was, whom she
+had inspired at their first meeting with an admiration, an interest, of
+which he had thought himself incapable, whom she had received into her
+confidence, who was devoted to her and adored her.  All this, and more,
+in his hurry, and in hers, in the whirl of her own gratified malice, in
+the dread of being discovered, in the rapidly increasing noise of heavy
+rain among the [[Leaves|leaves]], and a thunderstorm [[rolling]] up—Mrs. Sparsit
+received into her mind, set off with such an unavoidable halo of
+confusion and indistinctness, that when at length he climbed the fence
+and led his [[Horse|horse]] away, she was not sure where they were to meet, or
+when, except that they had said it was to be that [[Night|night]].
 
-She fancied, however, that her request had been complied with, and that
-the pen she could not have held was in her hand.  It matters little what
-figures of wonderful no-meaning she began to trace upon her wrappers.
-The hand soon stopped in the midst of them; the light that had always
-been feeble and dim behind the weak transparency, went out; and even Mrs.
-Gradgrind, emerged from the [[Shadow|shadow]] in which man walketh and disquieteth
-himself in vain, took upon her the dread solemnity of the sages and
-patriarchs.
+But one of them yet remained in the darkness before her; and while she
+tracked that one she must be right.  ‘Oh, my dearest [[Love|love]],’ thought Mrs.
+Sparsit, ‘you little think how [[Well|well]] attended you are!’
+
+Mrs. Sparsit saw her out of the wood, and saw her enter the [[house]].  What
+to do next?  It rained now, in a sheet of [[Water|water]].  Mrs. Sparsit’s white
+stockings were of many colours, green predominating; prickly things were
+in her shoes; caterpillars slung themselves, in hammocks of their own
+making, from various parts of her dress; rills ran from her bonnet, and
+her Roman nose.  In such condition, Mrs. Sparsit stood hidden in the
+density of the shrubbery, considering what next?
+
+Lo, Louisa coming out of the [[house]]!  Hastily cloaked and muffled, and
+stealing away.  She elopes!  She falls from the lowermost stair, and is
+swallowed up in the gulf.
+
+Indifferent to the rain, and moving with a quick determined step, she
+struck into a side-path parallel with the ride.  Mrs. Sparsit followed in
+the [[Shadow|shadow]] of the trees, at but a short distance; for it was not easy to
+keep a figure in view going quickly through the umbrageous darkness.
+
+When she stopped to close the side-gate without noise, Mrs. Sparsit
+stopped.  When she went on, Mrs. Sparsit went on.  She went by the way
+Mrs. Sparsit had come, emerged from the green lane, crossed the stony
+[[Road|road]], and ascended the wooden steps to the railroad.  A train for
+Coketown would come through presently, Mrs. Sparsit knew; so she
+understood Coketown to be her first place of destination.
+
+In Mrs. Sparsit’s limp and streaming state, no extensive precautions were
+necessary to change her usual appearance; but, she stopped under the lee
+of the station wall, tumbled her shawl into a new shape, and put it on
+over her bonnet.  So disguised she had no [[Fear|fear]] of being recognized when
+she followed up the railroad steps, and paid her money in the small
+office.  Louisa sat waiting in a corner.  Mrs. Sparsit sat waiting in
+another corner.  Both listened to the thunder, which was loud, and to the
+rain, as it washed off the roof, and pattered on the parapets of the
+arches.  Two or three lamps were rained out and blown out; so, both saw
+the [[Lightning|lightning]] to advantage as it quivered and zigzagged on the iron
+tracks.
+
+The seizure of the station with a fit of trembling, gradually deepening
+to a complaint of the heart, announced the train.  [[Fire]] and steam, and
+smoke, and red light; a hiss, a crash, a bell, and a shriek; Louisa put
+into one carriage, Mrs. Sparsit put into another: the little station a
+[[Desert|desert]] speck in the thunderstorm.
+
+Though her teeth chattered in her head from wet and cold, Mrs. Sparsit
+exulted hugely.  The figure had plunged down the precipice, and she felt
+herself, as it were, attending on the [[Body|body]].  Could she, who had been so
+active in the getting up of the funeral triumph, do less than exult?
+‘She will be at Coketown long before him,’ thought Mrs. Sparsit, ‘though
+his [[Horse|horse]] is never so good.  Where will she wait for him?  And where will
+they go together?  Patience.  We shall see.’
+
+The tremendous rain occasioned infinite confusion, when the train stopped
+at its destination.  Gutters and pipes had burst, drains had overflowed,
+and streets were under [[Water|water]].  In the first instant of alighting, Mrs.
+Sparsit turned her distracted eyes towards the waiting coaches, which
+were in great request.  ‘She will get into one,’ she considered, ‘and
+will be away before I can follow in another.  At all risks of being run
+over, I must see the number, and hear the order given to the coachman.’
+
+But, Mrs. Sparsit was wrong in her calculation.  Louisa got into no
+coach, and was already gone.  The black eyes kept upon the
+railroad-carriage in which she had travelled, settled upon it a moment
+too late.  The door not being opened after several minutes, Mrs. Sparsit
+passed it and repassed it, saw nothing, looked in, and found it empty.
+Wet through and through: with her feet squelching and squashing in her
+shoes whenever she moved; with a rash of rain upon her classical visage;
+with a bonnet like an over-ripe fig; with all her clothes spoiled; with
+damp impressions of every button, string, and hook-and-eye she wore,
+printed off upon her highly connected back; with a stagnant verdure on
+her general exterior, such as accumulates on an old park fence in a
+mouldy lane; Mrs. Sparsit had no resource but to burst into [[Tears|tears]] of
+bitterness and say, ‘I have lost her!’

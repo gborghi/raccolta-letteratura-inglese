@@ -14,6 +14,11 @@ tags:
 </nav>
 
 
+He had flung himself on a pile of pine-needles to enjoy the gathering darkness of the pinewoods as the [[Moon|moon]] sank behind them. There is nothing more deep and wonderful than really impenetrable pinewoods where the nearer trees show against the more shadowy; a tracery of silver upon grey and of grey upon black.
+
+
+
+
 It was by this [[Time|time]], in pure pleasure and idleness that he picked up a pine-needle to philosophise about it.
 
 

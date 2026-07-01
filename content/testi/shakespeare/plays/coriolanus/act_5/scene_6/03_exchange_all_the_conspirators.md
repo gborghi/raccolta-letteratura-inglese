@@ -1,5 +1,5 @@
 ---
-title: "[[Coriolanus]] — Act V, Scene 6 — exchange (ALL THE CONSPIRATORS) [3]"
+title: "Coriolanus — Act V, Scene 6 — exchange (ALL THE CONSPIRATORS) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/coriolanus-(shakespeare)"

@@ -16,10 +16,6 @@ tags:
 
 ROSTAND
 
-
-
-
-
 When 'Cyrano de Bergerac' was published, it bore the subordinate title
 
 of a heroic [[Comedy|comedy]]. We have no tradition in English literature which
@@ -109,8 +105,6 @@ a grinning mask. It is a refuge from the world, and not even, properly
 speaking, a part of it. Their wit is a thin sheet of shining ice over
 
 the eternal waters of bitterness.
-
-
 
 'Cyrano de Bergerac' came to us as the new decoration of an old [[Truth|truth]],
 

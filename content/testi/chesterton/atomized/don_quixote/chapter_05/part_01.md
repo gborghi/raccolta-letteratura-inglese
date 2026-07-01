@@ -1,5 +1,5 @@
 ---
-title: "[[Don Quixote]] — Chapter 4 (part 1)"
+title: "Don Quixote — Chapter 4 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/don-quixote-(chesterton)"
@@ -137,21 +137,3 @@ me that it's all for his own good."
 walking rather more slowly than when coming away from it.
 But he did not see the ladder leaning up against the outhouse,
 or the development of this story might have been disastrously foiled.
-
-Olive's theory about educating the uneducated man by association
-with educated men seemed to give him considerable food for
-thought as he went across the grassy plot kicking his heels,
-with his hands thrust deep in his trousers' pockets.  Of course,
-there was something in it; fellows did find their level sometimes
-by going to [[Oxford]].  They find out in what way their [[Education|education]]
-has been neglected, even if they continue to neglect it.
-But he had never seen the experiment tried on so dark a social stratum
-as the black and buried coal-seam for which the Syndicalist stood.
-He could not imagine anyone quite so rugged and dogged in his demagogy
-as his friend Jack Braintree gradually learning how to balance
-a cigarette and a tea-cup and talk about the Roumanian Shakespeare.
-There was to be a reception of that sort that afternoon, he knew--
-but Braintree in it!  Of course, there was a whole world of things
-that the sulky tub-thumper out of the slums did not know.
-He was not so sure whether they could ever be things that
-he wanted to know.

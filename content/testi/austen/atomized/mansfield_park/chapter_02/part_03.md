@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 2 (part 3)"
+title: "Mansfield Park — Chapter 2 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -87,7 +87,7 @@ lowly of her own claims to feel injured by it.
 
 From about the [[Time|time]] of her entering the family, Lady [[Bertram]], in
 consequence of a little ill-health, and a great deal of [[Indolence|indolence]], gave
-up the [[house]] in town, which she had been used to occupy every [[spring]],
+up the [[house]] in town, which she had been used to occupy every [[Spring|spring]],
 and remained wholly in the country, leaving Sir Thomas to attend his
 duty in Parliament, with whatever increase or diminution of comfort
 might arise from her absence. In the country, therefore, the Miss

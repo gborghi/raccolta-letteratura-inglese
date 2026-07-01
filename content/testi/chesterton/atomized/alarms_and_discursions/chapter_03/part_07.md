@@ -14,6 +14,24 @@ tags:
 </nav>
 
 
+"[[Well]], it does seem a bit 'ard ..." he began with a break in his voice.
+
+"But, good Lord, man," I cried, "it isn't a matter of hardness!
+It's a matter of impious and indecent wickedness.  If your Sir Joseph
+knew the passions he was playing with, he did you a wrong for which
+in many Christian countries he would have a knife in him."
+
+The man continued to look across the frozen fields with a frown.
+He certainly told his tale with real resentment, whether it
+was true or false, or only exaggerated.  He was certainly sullen
+and injured; but he did not seem to think of any avenue of escape.
+At last he said:
+
+"[[Well]], it's a bad world; let's 'ope there's a better one."
+
+"Amen," I said.  "But when I think of Sir Joseph, I understand
+how men have hoped there was a worse one."
+
 Then we were silent for a long [[Time|time]] and felt the cold of the day
 crawling up, and at last I said, abruptly:
 
@@ -115,19 +133,3 @@ and I incline to the opinion that the [[Moon|moon]] is not old enough.
 The [[Moon|moon]], like everything else, will ripen by the end of the world;
 and in the last days we shall see it taking on those volcanic
 sunset colours, and leaping with that enormous and fantastic life.
-
-But this is a parenthesis; and one perhaps slightly lacking in
-prosaic actuality.  Whatever may be the value of the above speculations,
-the phrase about the [[Moon|moon]] and green [[cheese]] remains a good example
-of this imagery of eating and drinking on a large scale.
-The same huge fancy is in the phrase "if all the trees were bread
-and [[cheese]]," which I have cited elsewhere in this connection;
-and in that noble [[nightmare]] of a Scandinavian legend,
-in which Thor drinks the deep sea nearly dry out of a horn.
-In an [[Essay|essay]] like the present (first intended as a paper to be read
-before the Royal Society) one cannot be too exact; and I will concede
-that my theory of the gradual vire-scence of our satellite is to be
-regarded rather as an alternative theory than as a law finally
-demonstrated and universally accepted by the scientific world.
-It is a hypothesis that holds the field, as the scientists say
-of a theory when there is no evidence for it so far.

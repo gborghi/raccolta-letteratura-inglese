@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 8 (part 1)"
+title: "Our Mutual Friend — Chapter 10 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,134 +10,139 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_31/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_32/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_31/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_32/part_02">part 02 ›</a></div>
 </nav>
 
 
-Chapter 8
+Chapter 10
 
-IN WHICH AN [[Innocent|INNOCENT]] ELOPEMENT OCCURS
+A SUCCESSOR
 
 
-The minion of fortune and the worm of the hour, or in less cutting
-language, [[Nicodemus Boffin]], Esquire, the Golden Dustman, had become
-as much at [[Home|home]] in his eminently aristocratic family mansion as he
-was likely ever to be. He could not but feel that, like an eminently
-aristocratic family [[cheese]], it was much too large for his wants, and
-bred an infinite amount of parasites; but he was content to regard this
-drawback on his property as a sort of perpetual Legacy Duty. He felt the
-more resigned to it, forasmuch as Mrs Boffin enjoyed herself completely,
-and Miss Bella was delighted.
+Some of the Reverend Frank Milvey’s brethren had found themselves
+exceedingly uncomfortable in their minds, because they were required to
+bury the dead too hopefully. But, the Reverend Frank, inclining to the
+belief that they were required to do one or two other things (say out of
+nine-and-thirty) calculated to trouble their consciences rather more if
+they would think as much about them, held his peace.
 
-That young lady was, no [[Doubt|doubt]], an acquisition to the Boffins. She
-was far too pretty to be unattractive anywhere, and far too quick of
-perception to be below the tone of her new career. Whether it improved
-her heart might be a matter of taste that was open to question; but as
-touching another matter of taste, its improvement of her appearance and
-manner, there could be no question whatever.
+Indeed, the Reverend Frank Milvey was a forbearing man, who noticed many
+sad warps and blights in the vineyard wherein he worked, and did not
+profess that they made him savagely wise. He only learned that the more
+he himself knew, in his little limited human way, the better he could
+distantly imagine what Omniscience might know.
 
-And thus it soon came about that Miss Bella began to set Mrs Boffin
-right; and even further, that Miss Bella began to feel ill at ease, and
-as it were responsible, when she saw Mrs Boffin going wrong. Not that so
-sweet a disposition and so sound a [[Nature|nature]] could ever go very wrong even
-among the great visiting authorities who agreed that the Boffins were
-‘charmingly vulgar’ (which for certain was not their own case in saying
-so), but that when she made a slip on the social ice on which all the
-children of Podsnappery, with genteel souls to be saved, are required to
-skate in circles, or to slide in long rows, she inevitably tripped Miss
-Bella up (so that young lady felt), and caused her to experience great
-confusion under the glances of the more skilful performers engaged in
-those ice-exercises.
+Wherefore, if the Reverend Frank had had to read the words that troubled
+some of his brethren, and profitably touched innumerable hearts, in
+a worse case than Johnny’s, he would have done so out of the pity and
+[[Humility|humility]] of his [[Soul|soul]]. Reading them over Johnny, he thought of his own
+six children, but not of his [[Poverty|poverty]], and read them with dimmed eyes.
+And very seriously did he and his bright little wife, who had been
+listening, look down into the small [[Grave|grave]] and walk [[Home|home]] arm-in-arm.
 
-At Miss Bella’s [[Time|time]] of life it was not to be expected that she should
-examine herself very closely on the congruity or stability of her
-position in Mr Boffin’s [[house]]. And as she had never been sparing of
-complaints of her old [[Home|home]] when she had no other to compare it with,
-so there was no novelty of ingratitude or disdain in her very much
-preferring her new one.
+There was grief in the aristocratic [[house]], and there was joy in the
+Bower. Mr Wegg argued, if an [[Orphan|orphan]] were wanted, was he not an [[Orphan|orphan]]
+himself; and could a better be desired? And why go beating about
+Brentford bushes, seeking orphans forsooth who had established no claims
+upon you and made no sacrifices for you, when here was an [[Orphan|orphan]] ready
+to your hand who had given up in your cause, Miss Elizabeth, Master
+George, Aunt Jane, and Uncle Parker?
 
-‘An invaluable man is Rokesmith,’ said Mr Boffin, after some two or
-three months. ‘But I can’t quite make him out.’
+Mr Wegg chuckled, consequently, when he heard the tidings. Nay, it was
+afterwards affirmed by a witness who shall at present be nameless,
+that in the seclusion of the Bower he poked out his wooden leg, in the
+stage-ballet manner, and executed a taunting or triumphant pirouette on
+the genuine leg remaining to him.
 
-Neither could Bella, so she found the subject rather interesting.
+John Rokesmith’s manner towards Mrs Boffin at this [[Time|time]], was more the
+manner of a young man towards a mother, than that of a Secretary towards
+his employer’s wife. It had always been marked by a subdued affectionate
+deference that seemed to have sprung up on the very day of his
+engagement; whatever was odd in her dress or her ways had seemed to have
+no oddity for him; he had sometimes borne a quietly-amused face in her
+company, but still it had seemed as if the pleasure her genial temper
+and radiant [[Nature|nature]] yielded him, could have been quite as naturally
+expressed in a tear as in a smile. The completeness of his sympathy with
+her fancy for having a little [[John Harmon]] to protect and rear, he
+had shown in every act and word, and now that the kind fancy was
+disappointed, he treated it with a manly tenderness and respect for
+which she could hardly thank him enough.
 
-‘He takes more care of my affairs, morning, [[Noon|noon]], and [[Night|night]],’ said Mr
-Boffin, ‘than fifty other men put together either could or would; and
-yet he has ways of his own that are like tying a scaffolding-pole right
-across the [[Road|road]], and bringing me up short when I am almost a-walking arm
-in arm with him.’
+‘But I do thank you, Mr Rokesmith,’ said Mrs Boffin, ‘and I thank you
+most kindly. You [[Love|love]] children.’
 
-‘May I ask how so, sir?’ inquired Bella.
+‘I [[Hope|hope]] everybody does.’
 
-‘[[Well]], my dear,’ said Mr Boffin, ‘he won’t meet any company here, but
-you. When we have visitors, I should wish him to have his regular place
-at the table like ourselves; but no, he won’t take it.’
+‘They ought,’ said Mrs Boffin; ‘but we don’t all of us do what we ought,
+do us?’
 
-‘If he considers himself above it,’ said Miss Bella, with an airy toss
-of her head, ‘I should leave him [[Alone|alone]].’
+John Rokesmith replied, ‘Some among us supply the short-comings of the
+rest. You have loved children [[Well|well]], Mr Boffin has told me.’
 
-‘It ain’t that, my dear,’ replied Mr Boffin, thinking it over. ‘He don’t
-consider himself above it.’
+‘Not a bit better than he has, but that’s his way; he puts all the good
+upon me. You speak rather sadly, Mr Rokesmith.’
 
-‘Perhaps he considers himself beneath it,’ suggested Bella. ‘If so, he
-ought to know best.’
+‘Do I?’
 
-‘No, my dear; nor it ain’t that, neither. No,’ repeated Mr Boffin, with
-a shake of his head, after again thinking it over; ‘Rokesmith’s a modest
-man, but he don’t consider himself beneath it.’
+‘It sounds to me so. Were you one of many children?’ He shook his head.
 
-‘Then what does he consider, sir?’ asked Bella.
+‘An only [[Child|child]]?’
 
-‘Dashed if I know!’ said Mr Boffin. ‘It seemed at first as if it
-was only Lightwood that he objected to meet. And now it seems to be
-everybody, except you.’
+‘No there was another. Dead long ago.’
 
-Oho! thought Miss Bella. ‘In—deed! That’s it, is it!’ For Mr Mortimer
-Lightwood had dined there two or three times, and she had met him
-elsewhere, and he had shown her some attention. ‘Rather cool in a
-Secretary—and Pa’s lodger—to make me the subject of his [[Jealousy|jealousy]]!’
+‘Father or mother alive?’
 
-That Pa’s daughter should be so contemptuous of Pa’s lodger was odd;
-but there were odder anomalies than that in the mind of the spoilt girl:
-spoilt first by [[Poverty|poverty]], and then by wealth. Be it this [[history]]’s part,
-however, to leave them to unravel themselves.
+‘Dead.’—
 
-‘A little too much, I think,’ Miss Bella reflected scornfully, ‘to
-have Pa’s lodger laying claim to me, and keeping eligible people off!
-A little too much, indeed, to have the opportunities opened to me by Mr
-and Mrs Boffin, appropriated by a mere Secretary and Pa’s lodger!’
+‘And the rest of your relations?’
 
-Yet it was not so very long ago that Bella had been fluttered by the
-discovery that this same Secretary and lodger seem to like her. Ah! but
-the eminently aristocratic mansion and Mrs Boffin’s dressmaker had not
-come into play then.
+‘Dead—if I ever had any living. I never heard of any.’
 
-In spite of his seemingly retiring manners a very intrusive person, this
-Secretary and lodger, in Miss Bella’s opinion. Always a light in his
-office-room when we came [[Home|home]] from the play or Opera, and he always at
-the carriage-door to hand us out. Always a provoking radiance too on
-Mrs Boffin’s face, and an abominably cheerful reception of him, as if it
-were possible seriously to approve what the man had in his mind!
+At this point of the dialogue Bella came in with a light step. She
+paused at the door a moment, hesitating whether to remain or retire;
+perplexed by finding that she was not observed.
 
-‘You never charge me, Miss Wilfer,’ said the Secretary, encountering her
-by chance [[Alone|alone]] in the great drawing-room, ‘with commissions for [[Home|home]].
-I shall always be happy to execute any commands you may have in that
-direction.’
+‘Now, don’t mind an old lady’s talk,’ said Mrs Boffin, ‘but tell me. Are
+you quite sure, Mr Rokesmith, that you have never had a disappointment
+in [[Love|love]]?’
 
-‘Pray what may you mean, Mr Rokesmith?’ inquired Miss Bella, with
-languidly drooping eyelids.
+‘Quite sure. Why do you ask me?’
 
-‘By [[Home|home]]? I mean your father’s [[house]] at Holloway.’
+‘Why, for this reason. Sometimes you have a kind of kept-down manner
+with you, which is not like your age. You can’t be thirty?’
 
-She coloured under the retort—so skilfully thrust, that the words
-seemed to be merely a plain answer, given in plain good [[Faith|faith]]—and said,
-rather more emphatically and sharply:
+‘I am not yet thirty.’
 
-‘What commissions and commands are you speaking of?’
+Deeming it high [[Time|time]] to make her presence known, Bella coughed here to
+attract attention, begged pardon, and said she would go, fearing that
+she interrupted some matter of business.
 
-‘Only little words of remembrance as I assume you sent somehow or
-other,’ replied the Secretary with his former air. ‘It would be a
-pleasure to me if you would make me the bearer of them. As you know, I
-come and go between the two houses every day.’
+‘No, don’t go,’ rejoined Mrs Boffin, ‘because we are coming to business,
+instead of having begun it, and you belong to it as much now, my dear
+Bella, as I do. But I want my Noddy to consult with us. Would somebody
+be so good as find my Noddy for me?’
 
-‘You needn’t remind me of that, sir.’
+Rokesmith departed on that errand, and presently returned accompanied by
+Mr Boffin at his jog-trot. Bella felt a little vague trepidation as to
+the subject-matter of this same consultation, until Mrs Boffin announced
+it.
+
+‘Now, you come and sit by me, my dear,’ said that worthy [[Soul|soul]], taking
+her comfortable place on a large ottoman in the centre of the room,
+and drawing her arm through Bella’s; ‘and Noddy, you sit here, and Mr
+Rokesmith you sit there. Now, you see, what I want to talk about, is
+this. Mr and Mrs Milvey have sent me the kindest note possible (which
+Mr Rokesmith just now read to me out aloud, for I ain’t good at
+handwritings), offering to find me another little [[Child|child]] to name and
+educate and bring up. [[Well]]. This has set me thinking.’
+
+(‘And she is a steam-ingein at it,’ murmured Mr Boffin, in an admiring
+parenthesis, ‘when she once begins. It mayn’t be so easy to start her;
+but once started, she’s a ingein.’)
+
+‘—This has set me thinking, I say,’ repeated Mrs Boffin, cordially
+beaming under the influence of her husband’s compliment, ‘and I have
+thought two things. First of all, that I have grown timid of reviving
+[[John Harmon]]’s name. It’s an unfortunate name, and I fancy I should
+reproach myself if I gave it to another dear [[Child|child]], and it proved again
+unlucky.’

@@ -14,6 +14,40 @@ tags:
 </nav>
 
 
+BROWN HAT.  Yes, sir.
+
+STRAW HAT.  Yes, sir.
+
+A pause.  They look at each other, very seriously.
+
+STRAW HAT.  I calculate you’ll have got through that case of the
+corporation, Judge, by this [[Time|time]], now?
+
+BROWN HAT.  Yes, sir.
+
+STRAW HAT.  How did the verdict go, sir?
+
+BROWN HAT.  For the defendant, sir.
+
+STRAW HAT.  (Interrogatively.)  Yes, sir?
+
+BROWN HAT. (Affirmatively.)  Yes, sir.
+
+BOTH.  (Musingly, as each gazes down the street.)  Yes, sir.
+
+Another pause.  They look at each other again, still more seriously than
+before.
+
+BROWN HAT.  This coach is rather behind its [[Time|time]] to-day, I guess.
+
+STRAW HAT.  (Doubtingly.)  Yes, sir.
+
+BROWN HAT.  (Looking at his watch.)  Yes, sir; nigh upon two hours.
+
+STRAW HAT.  (Raising his eyebrows in very great surprise.)  Yes, sir!
+
+BROWN HAT.  (Decisively, as he puts up his watch.)  Yes, sir.
+
 ALL THE OTHER INSIDE PASSENGERS.  (Among themselves.)  Yes, sir.
 
 COACHMAN.  (In a very surly tone.)  No it an’t.
@@ -44,7 +78,7 @@ rest alight also.  We dine soon afterwards with the boarders in the
 very bad and the [[Water|water]] is worse, I ask for brandy; but it is a Temperance
 Hotel, and spirits are not to be had for [[Love|love]] or money.  This
 preposterous forcing of unpleasant drinks down the reluctant throats of
-travellers is not at all uncommon in [[America]], but I never discovered that
+travellers is not at all uncommon in [[america|America]], but I never discovered that
 the scruples of such wincing landlords induced them to preserve any
 unusually nice balance between the quality of their fare, and their scale
 of charges: on the contrary, I rather suspected them of diminishing the
@@ -102,25 +136,3 @@ years ago, and as the owner cannot be discovered, the State has been
 unable to reclaim it.  So there it remains, in the midst of cultivation
 and improvement, like ground accursed, and made obscene and rank by some
 great crime.
-
-We reached [[Columbus]] shortly before seven o’[[Clock|clock]], and stayed there, to
-refresh, that day and [[Night|night]]: having excellent apartments in a very large
-unfinished hotel called the Neill [[house|House]], which were richly fitted with
-the polished wood of the black walnut, and opened on a handsome portico
-and stone verandah, like rooms in some Italian mansion.  The town is
-clean and pretty, and of course is ‘going to be’ much larger.  It is the
-seat of the State legislature of Ohio, and lays claim, in consequence, to
-some consideration and importance.
-
-There being no stage-coach next day, upon the [[Road|road]] we wished to take, I
-hired ‘an extra,’ at a reasonable charge to carry us to Tiffin; a small
-town from whence there is a railroad to Sandusky.  This extra was an
-ordinary four-[[Horse|horse]] stage-coach, such as I have described, changing
-horses and drivers, as the stage-coach would, but was exclusively our own
-for the [[Journey|journey]].  To ensure our having horses at the proper stations, and
-being incommoded by no strangers, the proprietors sent an agent on the
-box, who was to accompany us the whole way through; and thus attended,
-and bearing with us, besides, a hamper full of savoury cold meats, and
-fruit, and wine, we started off again in high spirits, at half-past six
-o’[[Clock|clock]] next morning, very much delighted to be by ourselves, and
-disposed to enjoy even the roughest [[Journey|journey]].

@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 49 (part 4)"
+title: "Sense and Sensibility — Chapter 49 (part 4)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -13,6 +13,26 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_49/part_03">‹ part 03</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_50/part_01">part 01 ›</a></div>
 </nav>
 
+
+with her than her [[house]] would hold. Edward was allowed to retain the
+
+privilege of first comer, and [[Colonel Brandon]] therefore walked every
+
+[[Night|night]] to his old quarters at the Park; from whence he usually returned
+
+in the morning, early enough to interrupt the [[lovers]]’ first tête-à-tête
+
+before breakfast.
+
+
+
+A three weeks’ residence at Delaford, where, in his evening hours at
+
+least, he had little to do but to calculate the disproportion between
+
+thirty-six and seventeen, brought him to Barton in a temper of mind
+
+which needed all the improvement in Marianne’s looks, all the kindness
 
 of her welcome, and all the encouragement of her mother’s language, to
 

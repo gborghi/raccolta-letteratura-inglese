@@ -1,5 +1,5 @@
 ---
-title: "[[Richard III]] — Act I, Scene 2 — monologue ([[Richard|RICHARD]] [[Gloucester|GLOUCESTER]]) [6]"
+title: "Richard III — Act I, Scene 2 — monologue (RICHARD GLOUCESTER) [6]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/richard-iii-(shakespeare)"

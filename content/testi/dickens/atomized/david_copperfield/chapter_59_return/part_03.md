@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 59: RETURN (part 3)"
+title: "David Copperfield — Chapter 59: RETURN (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_59_return/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_59_return/part_04">part 04 ›</a></div>
 </nav>
 
+
+Observing that he slightly faltered, and comprehending that in the
+goodness of his heart he was fearful of giving me some [[Pain|pain]] by what he
+had said, I expressed my concurrence with a heartiness that evidently
+relieved and pleased him greatly.
+
+‘But then,’ said Traddles, ‘our domestic arrangements are, to say
+the [[Truth|truth]], quite unprofessional altogether, my dear Copperfield. Even
+Sophy’s being here, is unprofessional. And we have no other place of
+abode. We have put to sea in a cockboat, but we are quite prepared to
+rough it. And Sophy’s an extraordinary manager! You’ll be surprised how
+those girls are stowed away. I am sure I hardly know how it’s done!’
 
 ‘Are many of the young ladies with you?’ I inquired.
 
@@ -130,14 +142,3 @@ quite sorry that they are going [[Home|home]] on Tuesday, which is the day befor
 the first day of Michaelmas Term. But here,’ said Traddles, breaking off
 in his confidence, and speaking aloud, ‘ARE the girls! Mr. Copperfield,
 Miss Crewler--Miss Sarah--Miss Louisa--Margaret and Lucy!’
-
-They were a perfect nest of roses; they looked so wholesome and fresh.
-They were all pretty, and Miss Caroline was very handsome; but there was
-a loving, cheerful, fireside quality in Sophy’s bright looks, which was
-better than that, and which assured me that my friend had chosen [[Well|well]].
-We all sat round the [[Fire|fire]]; while the sharp boy, who I now divined had
-lost his breath in putting the papers out, cleared them away again, and
-produced the tea-things. After that, he retired for the [[Night|night]], shutting
-the outer door upon us with a bang. Mrs. Traddles, with perfect pleasure
-and composure beaming from her household eyes, having made the tea, then
-quietly made the toast as she sat in a corner by the [[Fire|fire]].

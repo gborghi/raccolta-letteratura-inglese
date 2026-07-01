@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 11 (part 1)"
+title: "Oliver Twist — Chapter 11 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -134,6 +134,3 @@ magistrate who offers a gratuitous and unprovoked insult to a
 respectable person, under the protection of the bench.” Saying this,
 Mr. Brownlow looked around the office as if in search of some person
 who would afford him the required information.
-
-“Officer!” said Mr. Fang, throwing the paper on one side, “what’s this
-fellow charged with?”

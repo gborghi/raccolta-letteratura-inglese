@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 37 (part 3)"
+title: "Bleak House — Chapter 37 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_37/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_37/part_04">part 04 ›</a></div>
 </nav>
 
+
+He told Ada, in his most ingenuous way, that he had not come to make
+any secret inroad on the terms she had accepted (rather too
+implicitly and confidingly, he thought) from Mr. Jarndyce, that he
+had come openly to see her and to see me and to justify himself for
+the present terms on which he stood with Mr. Jarndyce. As the dear
+old infant would be with us directly, he begged that I would make an
+appointment for the morning, when he might set himself right through
+the means of an unreserved conversation with me. I proposed to walk
+with him in the park at seven o’[[Clock|clock]], and this was arranged. Mr.
+Skimpole soon afterwards appeared and made us merry for an hour. He
+particularly requested to see little Coavinses (meaning Charley) and
+told her, with a patriarchal air, that he had given her late father
+all the business in his power and that if one of her little brothers
+would make haste to get set up in the same profession, he hoped he
+should still be able to put a good deal of employment in his way.
 
 “For I am constantly being taken in these nets,” said Mr. Skimpole,
 looking beamingly at us over a glass of [[wine-and-water]], “and am
@@ -115,33 +131,3 @@ preserve that outward indifference. It may cause other parties
 interested to become lax about their interests; and people may die
 off, and points may drag themselves out of [[Memory|memory]], and many things
 may smoothly happen that are convenient enough.”
-
-I was so touched with pity for [[Richard]] that I could not reproach him
-any more, even by a look. I remembered my guardian’s gentleness
-towards his errors and with what perfect [[Freedom|freedom]] from resentment he
-had spoken of them.
-
-“Esther,” [[Richard]] resumed, “you are not to suppose that I have come
-here to make underhanded charges against [[John Jarndyce]]. I have only
-come to justify myself. What I say is, it was all very [[Well|well]] and we
-got on very [[Well|well]] while I was a boy, utterly regardless of this same
-suit; but as soon as I began to take an interest in it and to look
-into it, then it was quite another thing. Then [[John Jarndyce]]
-discovers that Ada and I must break off and that if I don’t amend
-that very objectionable course, I am not fit for her. Now, Esther, I
-don’t mean to amend that very objectionable course: I will not hold
-[[John Jarndyce]]’s favour on those unfair terms of compromise, which he
-has no right to dictate. Whether it pleases him or displeases him, I
-must maintain my rights and Ada’s. I have been thinking about it a
-good deal, and this is the conclusion I have come to.”
-
-Poor dear [[Richard]]! He had indeed been thinking about it a good deal.
-His face, his voice, his manner, all showed that too plainly.
-
-“So I tell him honourably (you are to know I have written to him
-about all this) that we are at issue and that we had better be at
-issue openly than covertly. I thank him for his goodwill and his
-protection, and he goes his [[Road|road]], and I go mine. The fact is, our
-roads are not the same. Under one of the wills in dispute, I should
-take much more than he. I don’t mean to say that it is the one to be
-established, but there it is, and it has its chance.”

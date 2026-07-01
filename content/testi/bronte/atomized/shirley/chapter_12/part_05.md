@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 12 (part 5)"
+title: "Shirley — Chapter 12 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -12,6 +12,50 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_12/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_12/part_06">part 06 ›</a></div>
 </nav>
+
+
+"It is, and is said to be a good likeness. Before her [[Marriage|marriage]] she was
+
+accounted the [[Beauty|beauty]] of the district."
+
+
+
+"I should say she merited the distinction. What accuracy in all the
+
+lineaments! It is, however, a passive face. The original could not have
+
+been what is generally termed 'a woman of spirit.'"
+
+
+
+"I believe she was a remarkably still, silent person."
+
+
+
+"One would scarcely have expected, my dear, that your uncle's choice
+
+should have fallen on a partner of that description. Is he not fond of
+
+being amused by lively chat?"
+
+
+
+"In company he is. But he always says he could never do with a talking
+
+wife. He must have quiet at [[Home|home]]. You go out to gossip, he affirms; you
+
+come [[Home|home]] to read and reflect."
+
+
+
+"Mrs. Matthewson lived but a few years after her [[Marriage|marriage]], I think I
+
+have heard?"
+
+
+
+"About five years."
+
 
 
 "[[Well]], my dear," pursued Mrs. Pryor, rising to go, "I trust it is
@@ -215,35 +259,3 @@ As to dependency or humiliation, Caroline did not feel it in her
 intercourse with [[Shirley]], and why should Mrs. Pryor? The heiress was
 
 rich--very rich--compared with her new friend: one possessed a clear
-
-thousand a year, the other not a penny; and yet there was a safe sense
-
-of equality experienced in her society, never known in that of the
-
-ordinary Briarfield and Whinbury gentry.
-
-
-
-The reason was, [[Shirley]]'s head ran on other things than money and
-
-position. She was glad to be independent as to property; by fits she was
-
-even elated at the notion of being lady of the manor, and having tenants
-
-and an estate. She was especially tickled with an agreeable complacency
-
-when reminded of "all that property" down in the Hollow, "comprising an
-
-excellent cloth-mill, dyehouse, warehouse, together with the messuage,
-
-gardens, and outbuildings, termed Hollow's Cottage;" but her exultation
-
-being quite undisguised was singularly inoffensive; and, for her serious
-
-thoughts, they tended elsewhere. To admire the great, reverence the
-
-good, and be joyous with the genial, was very much the bent of [[Shirley]]'s
-
-[[Soul|soul]]: she mused, therefore, on the means of following this bent far
-
-oftener than she pondered on her social superiority.

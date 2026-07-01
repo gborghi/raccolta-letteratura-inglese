@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 7 (part 1)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 7 (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -195,7 +195,3 @@ various purposes, and effected in various manners. In moderate weather,
 it is frequently done with a view of merely bringing the vessel to a
 
 stand-still, to wait for another vessel, or any similar object. If the
-
-vessel which lies to is under full sail, the manoeuvre is usually
-
-accomplished by throwing round some portion of her sails so as to let

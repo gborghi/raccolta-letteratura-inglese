@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 21"
+title: "The Tenant of Wildfell Hall — Chapter 21"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -392,6 +392,6 @@ to tease me, and my aunt has ceased to lecture me, and I have ceased to
 
 be jealous of Annabella—and even to dislike her—and now that Mr.
 
-Huntingdon is become _my_ [[arthur|Arthur]], and I may enjoy his society without
+Huntingdon is become _my_ [[Arthur]], and I may enjoy his society without
 
 restraint. What _shall_ I do without him, I repeat?

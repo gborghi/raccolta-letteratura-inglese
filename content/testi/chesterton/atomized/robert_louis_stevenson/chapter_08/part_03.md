@@ -1,5 +1,5 @@
 ---
-title: "Robert Louis Stevenson — Chapter 8 (part 3)"
+title: "Robert Louis Stevenson — Chapter 7 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/robert-louis-stevenson-(chesterton)"
@@ -10,70 +10,105 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/robert-louis-stevenson-(chesterton)">Robert Louis Stevenson</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/robert_louis_stevenson/chapter_08/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/robert_louis_stevenson/chapter_09/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/robert_louis_stevenson/chapter_08/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/robert_louis_stevenson/chapter_08/part_04">part 04 ›</a></div>
 </nav>
 
 
-I have paused upon this parenthesis; because it foreshadows the general
-view to which all these rather rambling criticisms ultimately tend;
-that Stevenson stood for the [[Truth|truth]] and did not quite understand
-the [[Truth|truth]] he stood for.  If he had understood it, he would have known
-that the virile craftsmanship which he was only too eager to admire
-in Villon, was really connected with certain virtues, which were none
-the less the virtues of a craftsman because they happened to be
-the virtues of a thief.  Nobody pretends that Villon was a saint;
-but the socially disreputable externals of his sin do not (for those
-of his [[Faith|faith]]) make him a specially or supremely hopeless sinner.
-If he was a thief, nobody can prove that he was not a penitent thief;
-and the moral system to which he was attached had raised such a man
-to its altars under the somewhat paradoxical title of The Good Thief.
-He was probably the last man to expect in his own person to be
-that [[Night|night]] in paradise; but he was not any further off from heaven
-merely because he was likely to be hanged high on a gallows.
-Here we have once more, I fancy, a touch of Calvinism with its finger
-of [[Fear|fear]].  There is also that grim and stony optimism attributed
-to the Old Testament, with its divine favouritism for the fortunate.
-But though the surface of this rather superficial criticism
-was alien to that free will which is the creed of craftsmanship,
-the personal creative spirit underneath the criticism was still
-that of the genuine Christian craftsman.  When Stevenson set about
-to describe Villon and his gang of ragamuffins, under the [[Snow|snow]] and
-[[gargoyles]] of mediaeval [[Paris]], he carved his [[Grotesque|grotesque]] as carefully
-as a gargoyle and balanced his story as beautifully as a French ballade.
-He did not take opium and absinthe and then sit down to wait
-for nameless cosmic energies to pour into his [[Soul|soul]] from nowhere.
-His spirit was a spirit utterly different from the mystical scepticism
-common in his [[Time|time]].  He was responsible; he was deliberate;
-he was thrifty; he thoroughly deserved the dignified title of
-a working man.
+Again, it illustrates this variety of experiment that Stevenson
+also wrote a [[Detective|detective]] story; or as he characteristically called it
+(in a sort of pedantic plain English) a police [[Novel|novel]].  He wrote it
+in collaboration with Mr. Lloyd Osbourne; and I have considered
+another aspect of it already, in the local colour of _The Wrecker._
+But _The Wrecker_ is ultimately a police [[Novel|novel]]; and the best
+sort of police [[Novel|novel]], in which the police are never called in.
+Stevenson explained his reasons for leading up to the problem with studies
+of social life; and certainly it says much for the liveliness of that life
+that we do not grow so impatient as to offer the obvious comment.
+Otherwise we should certainly make one reasonable criticism.
+The writer may be pardoned if he is a long [[Time|time]] getting to the solution,
+but not when he is such a long [[Time|time]] getting to the mystery.
+It must be confessed that we have to wait for the question
+to be asked, as [[Well|well]] as for it to be answered.  Personally I am
+very glad to wait in the waiting-room of Pinkerton and Dodd.
+But anyhow when the question is asked, it is with great animation;
+and the excitement of beginning to piece together a puzzle,
+which is the essence of a [[Detective|detective]] story, has seldom been more
+lively and lifelike than in the [[Cross|cross]] questions and crooked answers
+of Captain Nares and his super-cargo. Here, however, the [[Detective|detective]]
+story merely illustrates the fact of his having almost as many irons
+in the [[Fire|fire]] as Jim Pinkerton.  It illustrates the general fact
+that he tried a great many different styles; and yet his style
+was not different.
 
-The point here is that even his chief fault as an [[Artist|artist]] was
-typically the fault of a craftsman.  He worked too narrowly, perhaps,
-producing only a thing perfect of its kind out of certain materials,
-by a certain method and under the limitations of a certain style.
-The same sort of criticism that feels a French ballade to be
-too fixed and artificial a form, the same sort of criticism
-that feels a fourteenth-century Virgin to be too stiff or affected
-in its posture, does doubtless feel a story of Stevenson to be too
-meagre in its materials or too strict in its stylistic [[unity]].
-As I have explained above, I do not mean to suggest that such
-criticism is entirely unjust or unreasonable.  Stevenson's work has
-its faults, like other good work; and its chief deficiency does
-appear in a certain defect of thinness, which is produced by this
-instinct for hard simplification.  But nobody could adequately
-write a [[history]] of nineteenth-century literature without noting
-this important departure in the direction of a closer and more
-vigilant verbal choice, as compared either with the cheerful laxity
-that went before it or the more gloomy laxity that has come since.
-Whatever else Stevenson stands for, he certainly stands for the idea
-that literature is not mere sensation or mere [[Self|self]]-expression
-or mere record; but is sensation appealing to certain senses,
-[[Self|self]]-expression in a certain material and record in a certain style.
-And in this he was certainly asserting the rights of the [[Soul|soul]]
-of man, as against various formless forces which some regarded
-as the [[Soul|soul]] of [[Nature|nature]]; the _anima mundi_ of the pantheists.
-In this way Stevenson represented the same deep, ancient, hieratic and
-traditional [[Truth|truth]] that was taught to that generation by William Morris;
-and neither of them had the least idea what it was.
+If there were experiments in which his touch was less happy they were,
+strangely enough perhaps, those connected with the simple
+or semi-savage world in which he found so much happiness.
+_The Island Nights' Entertainments_ are not quite so entertaining
+as the Arabian Nights' Entertainments, whether New or Old.
+The explanation may be found, perhaps, in that casual phrase with
+which he swept the South Seas and swept away a good many imperial
+or international illusions, probably without knowing it; when he said
+of all those regions, "It is a large ocean but a narrow world."
+He did not really find new types, at least among the white men;
+he rather found new countries full of old and battered types,
+white men who no longer looked very conspicuously white.
+One exception must be allowed; the story of _The Ebb-Tide_ has
+a very great deal of kick in it; even though we hardly have the full
+satisfaction of seeing all the characters kicked.  Anyhow, it is quite
+certain that whatever was the cause of the relative ineffectiveness
+of some of the work done at Vailima, it was not due to his having
+written himself out or experienced any weakening of power.
+For the very last days of all were spent in producing what was,
+or would have been, his most powerful piece of work.  I have said
+something elsewhere, in connection with the Scottish romances,
+of his last great story, which is unfortunately a great [[Fragment|fragment]].
+Actually (I am tempted to say fortunately) that story named
+after Weir of Hermiston is not mainly about Weir of Hermiston.
+At least it is not about the first and most famous person of that name;
+and the best chapters of the book now in existence are concerned with
+the most sensitive and passionate shades of the Scottish temperament;
+richer shades of passion than he had ever yet attempted to touch.
+If ever the grey moor turned purple, it did at the moment
+when the girl lifted her voice to sing the [[Song|song]] of the Elliots.
+He never forgets his abrupt gesture; and it was never so arresting
+as when her psalm-book page was rent across.
 
-* * * *
+When Stevenson drew the long bow for the last [[Time|time]], like [[Robin Hood]],
+he had two strings to his bow; and they both broke; but one was much
+stronger than the other.  In other words he had two stories in his head,
+both of which broke off short; and perhaps it is not surprising
+that the weaker was rather neglected in favour of the stronger.
+The story of _St.  Ives_ contains excellent things, as does everything
+that he ever wrote, down to the most casual private letter.
+But it may be called disappointing, with rather more exactitude
+than is usual in the use of that word.  _St.  Ives_ can hardly
+avoid being a sort of [[Historical Novel|historical novel]]; and yet it is a rather
+unhistorical [[Novel|novel]].  By which I do not mean that there may be
+mistakes about dates or details; which matter nothing in fiction
+and are made too much fuss of even in [[history]].  I mean it is
+unhistorical in showing a strange lack of historical [[Imagination|imagination]]
+and the sense of historical opportunity.  It is the story of a soldier
+of Napoleon imprisoned on Edinburgh Rock and escaping from it.
+But indeed we might fancy it was Stevenson and not St. Ives who was
+imprisoned on Edinburgh Rock.  And Stevenson does not escape from it.
+Such a subject demanded a sort of international interpreter;
+but it is in [[Truth|truth]] the most strangely insular of all his books.
+St. Ives is not a Frenchman; he is the less and not the more French
+because he is given all the foppery and swagger which spinsters
+in Edinburgh in 1813 doubtless did associate with a Frenchman.
+He is no more a French soldier than Bonaparte was Boney.
+He has neither the French realism nor the French idealism.
+He does not look at England as a Frenchman of the revolutionary
+wars would have looked at it.  This story is simply France seen
+from Britain; it is not, as it should be, Britain seen from France.
+Unless St. Ives were a very bitter Royalist (which he evidently was not,
+but a moderate Bonapartist) he would quite certainly have conceived
+himself as carrying not mere military glory but the light of reason and
+[[philosophy]] and social justice to the aristocratic and autocratic states.
+He would have been impatient with the illogical resistance to
+rational things; not merely annoyed at not being shaved or provided
+with a looking-glass. But St. Ives is not a French soldier.
+He is a man in a French uniform; but so was Alan Breck Stewart.
+And that blessed and beloved name may perhaps recall to us
+that [[Vanity|vanity]] and a [[Love|love]] of fine coats can occasionally be found,
+even in the British Isles.

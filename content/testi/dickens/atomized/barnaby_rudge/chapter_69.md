@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 69"
+title: "Barnaby Rudge — Chapter 69"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/barnaby-rudge-(dickens)"

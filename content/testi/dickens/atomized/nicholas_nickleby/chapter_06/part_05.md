@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 6 (part 5)"
+title: "Nicholas Nickleby — Chapter 6 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,8 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_06/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_06/part_06">part 06 ›</a></div>
 </nav>
 
+
+‘The lady groaned, and wrung her hands.
 
 ‘“The policy of courts,” he continued, turning to the two other sisters,
 “drew ye from your peaceful [[Home|home]] to scenes of revelry and splendour.
@@ -37,7 +39,7 @@ was one flat stone beneath which she slept in peace.
 
 ‘And could they, remembering how her young heart had sickened at the
 thought of cloistered walls, look upon her [[Grave|grave]], in garbs which would
-chill the very ashes within it? Could they bow down in [[Prayer|prayer]], and when
+chill the very ashes within it? Could they bow down in [[prayer]], and when
 all Heaven turned to hear them, bring the dark shade of sadness on one
 angel’s face? No.
 

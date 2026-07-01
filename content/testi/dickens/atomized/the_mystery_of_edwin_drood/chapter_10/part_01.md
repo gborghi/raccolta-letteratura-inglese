@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 9 (part 1)"
+title: "The Mystery of Edwin Drood — Chapter 9 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -118,19 +118,3 @@ originated in her [[Lover|lover]]’s taking things in general so very easily. T
 Rosa direct, she brought a petition from her brother that she would
 forgive him; and, having delivered it with sisterly earnestness, made
 an end of the subject.
-
-It was reserved for Miss Twinkleton to tone down the public mind of the
-Nuns’ [[house|House]]. That lady, therefore, entering in a stately manner what
-plebeians might have called the school-room, but what, in the patrician
-language of the head of the Nuns’ [[house|House]], was euphuistically, not to say
-round-aboutedly, denominated “the apartment allotted to study,” and
-saying with a forensic air, “Ladies!” all [[Rose|rose]]. Mrs. Tisher at the same
-[[Time|time]] grouped herself behind her chief, as representing [[Queen]]
-Elizabeth’s first historical female friend at Tilbury fort. Miss
-Twinkleton then proceeded to remark that Rumour, Ladies, had been
-represented by the bard of Avon—needless were it to mention the
-immortal SHAKESPEARE, also called the Swan of his native [[River|river]], not
-improbably with some reference to the ancient superstition that that
-bird of graceful plumage (Miss Jennings will please stand upright) sang
-sweetly on the approach of [[Death|death]], for which we have no ornithological
-authority,—Rumour, Ladies, had been represented by that bard—hem!—

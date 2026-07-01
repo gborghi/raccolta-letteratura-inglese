@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 27 (part 3)"
+title: "Jane Eyre — Chapter 27 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_27/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_27/part_04">part 04 ›</a></div>
 </nav>
 
+
+He recommenced his walk, but soon again stopped, and this [[Time|time]] just
+before me.
 
 “Jane! will you hear reason?” (he stooped and approached his lips to my
 ear); “because, if you won’t, I’ll try violence.” His voice was hoarse;

@@ -1,5 +1,5 @@
 ---
-title: "[[The Colloquy of Monos and Una]]"
+title: "The Colloquy of Monos and Una"
 author: "Poe"
 unitType: work
 parentWork: "works/the-colloquy-of-monos-and-una-(poe)"

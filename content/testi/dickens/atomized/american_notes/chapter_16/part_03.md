@@ -14,6 +14,25 @@ tags:
 </nav>
 
 
+There is an admirable jail here, [[Well|well]] and wisely governed, and
+excellently regulated, in every respect.  The men were employed as
+shoemakers, ropemakers, blacksmiths, tailors, carpenters, and
+stonecutters; and in building a new [[Prison|prison]], which was pretty far advanced
+towards completion.  The female prisoners were occupied in needlework.
+Among them was a beautiful girl of twenty, who had been there nearly
+three years.  She acted as bearer of secret despatches for the
+[[Self|self]]-styled Patriots on Navy Island, during the Canadian Insurrection:
+sometimes dressing as a girl, and carrying them in her stays; sometimes
+attiring herself as a boy, and secreting them in the lining of her hat.
+In the latter character she always rode as a boy would, which was nothing
+to her, for she could govern any [[Horse|horse]] that any man could ride, and could
+drive four-in-hand with the best whip in those parts.  Setting forth on
+one of her patriotic missions, she appropriated to herself the first
+[[Horse|horse]] she could lay her hands on; and this offence had brought her where
+I saw her.  She had quite a lovely face, though, as the reader may
+suppose from this [[Sketch|sketch]] of her [[history]], there was a lurking devil in her
+bright eye, which looked out pretty sharply from between her [[Prison|prison]] bars.
+
 There is a bomb-proof fort here of great strength, which occupies a bold
 position, and is capable, doubtless, of doing good service; though the
 town is much too close upon the frontier to be long held, I should
@@ -57,7 +76,7 @@ to see floating down with the stream, a most gigantic raft, with some
 thirty or forty wooden houses upon it, and at least as many [[Flag|flag]]-masts,
 so that it looked like a nautical street.  I saw many of these rafts
 afterwards, but never one so large.  All the timber, or ‘lumber,’ as it
-is called in [[America]], which is brought down the St. Lawrence, is floated
+is called in [[america|America]], which is brought down the St. Lawrence, is floated
 down in this manner.  When the raft reaches its place of destination, it
 is broken up; the materials are sold; and the boatmen return for more.
 
@@ -95,29 +114,5 @@ the place have consequently determined to pull down immediately.  The
 full of life and bustle.  In one of the suburbs is a plank [[Road|road]]—not
 footpath—five or six miles long, and a famous [[Road|road]] it is too.  All the
 rides in the vicinity were made doubly interesting by the bursting out of
-[[Spring|spring]], which is here so rapid, that it is but a day’s leap from barren
+[[spring]], which is here so rapid, that it is but a day’s leap from barren
 [[Winter|winter]], to the blooming youth of [[Summer|summer]].
-
-The steamboats to Quebec perform the [[Journey|journey]] in the [[Night|night]]; that is to
-say, they leave Montreal at six in the evening, and arrive at Quebec at
-six next morning.  We made this excursion during our stay in Montreal
-(which exceeded a fortnight), and were charmed by its interest and
-[[Beauty|beauty]].
-
-The impression made upon the visitor by this Gibraltar of [[America]]: its
-giddy heights; its citadel suspended, as it were, in the air; its
-picturesque steep streets and frowning gateways; and the splendid views
-which burst upon the eye at every turn: is at once unique and lasting.
-
-It is a place not to be forgotten or mixed up in the mind with other
-places, or altered for a moment in the crowd of scenes a traveller can
-recall.  Apart from the realities of this most picturesque [[City|city]], there
-are associations clustering about it which would make a [[Desert|desert]] rich in
-interest.  The dangerous precipice along whose rocky front, Wolfe and his
-brave companions climbed to glory; the Plains of Abraham, where he
-received his mortal wound; the fortress so chivalrously defended by
-Montcalm; and his soldier’s [[Grave|grave]], dug for him while yet alive, by the
-bursting of a shell; are not the least among them, or among the gallant
-incidents of [[history]].  That is a noble Monument too, and worthy of two
-great nations, which perpetuates the [[Memory|memory]] of both brave generals, and
-on which their names are jointly written.

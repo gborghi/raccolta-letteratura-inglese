@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 17: SEVENTEEN (part 7)"
+title: "Martin Chuzzlewit — Chapter 17: SEVENTEEN (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -10,9 +10,75 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/martin-chuzzlewit-(dickens)">Martin Chuzzlewit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_17_seventeen/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_18_eighteen/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_17_seventeen/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_17_seventeen/part_08">part 08 ›</a></div>
 </nav>
 
+
+‘On Mondays?’
+
+‘The [[philosophy|Philosophy]] of Crime.’
+
+‘On Fridays?’
+
+‘The [[philosophy|Philosophy]] of Vegetables.’
+
+‘You have forgotten Thursdays; the [[philosophy|Philosophy]] of [[government|Government]], my dear,’
+observed the third lady.
+
+‘No,’ said Mrs Brick. ‘That’s Tuesdays.’
+
+‘So it is!’ cried the lady. ‘The [[philosophy|Philosophy]] of Matter on Thursdays, of
+course.’
+
+‘You see, Mr Chuzzlewit, our ladies are fully employed,’ said Bevan.
+
+‘Indeed you have reason to say so,’ answered Martin. ‘Between these very
+[[Grave|grave]] pursuits abroad, and family duties at [[Home|home]], their [[Time|time]] must be
+pretty [[Well|well]] engrossed.’
+
+Martin stopped here, for he saw that the ladies regarded him with no
+very great favour, though what he had done to deserve the disdainful
+expression which appeared in their faces he was at a loss to divine. But
+on their going upstairs to their bedrooms--which they very soon did--Mr
+Bevan informed him that domestic drudgery was far beneath the exalted
+range of these Philosophers, and that the chances were a hundred to one
+that not one of the three could perform the easiest woman’s work for
+herself, or make the simplest article of dress for any of her children.
+
+‘Though whether they might not be better employed with such blunt
+instruments as knitting-needles than with these edge-tools,’ he said,
+‘is another question; but I can answer for one thing--they don’t often
+cut themselves. Devotions and lectures are our balls and concerts. They
+go to these places of resort, as an escape from monotony; look at each
+other’s clothes; and come [[Home|home]] again.’
+
+‘When you say “[[Home|home]],” do you mean a [[house]] like this?’
+
+‘Very often. But I see you are tired to [[Death|death]], and will wish you good
+[[Night|night]]. We will discuss your projects in the morning. You cannot but
+feel already that it is useless staying here, with any [[Hope|hope]] of advancing
+them. You will have to go further.’
+
+‘And to fare worse?’ said Martin, pursuing the old adage.
+
+‘[[Well]], I [[Hope|hope]] not. But sufficient for the day, you know--good [[Night|night]]’
+
+They shook hands heartily and separated. As soon as Martin was left
+[[Alone|alone]], the excitement of novelty and change which had sustained him
+through all the fatigues of the day, departed; and he felt so thoroughly
+dejected and worn out, that he even lacked the energy to crawl upstairs
+to bed.
+
+In twelve or fifteen hours, how great a change had fallen on his hopes
+and sanguine plans! New and strange as he was to the ground on which he
+stood, and to the air he breathed, he could not--recalling all that he
+had crowded into that one day--but entertain a strong misgiving that his
+enterprise was doomed. Rash and ill-considered as it had often looked on
+shipboard, but had never seemed on shore, it wore a dismal aspect, now,
+that frightened him. Whatever thoughts he called up to his aid, they
+came upon him in depressing and discouraging shapes, and gave him no
+relief. Even the diamonds on his finger sparkled with the brightness of
+[[Tears|tears]], and had no ray of [[Hope|hope]] in all their brilliant lustre.
 
 He continued to sit in gloomy rumination by the stove, unmindful of
 the boarders who dropped in one by one from their stores and
@@ -74,62 +140,3 @@ But Mr Tapley made no answer; merely plunging a reed into the
 mixture--which caused a pleasant commotion among the pieces of ice--and
 signifying by an expressive gesture that it was to be pumped up through
 that agency by the enraptured drinker.
-
-Martin took the glass with an astonished look; applied his lips to the
-reed; and cast up his eyes once in ecstasy. He paused no more until the
-goblet was drained to the last drop.
-
-‘There, sir!’ said Mark, taking it from him with a triumphant face; ‘if
-ever you should happen to be dead beat again, when I ain’t in the
-way, all you’ve got to do is to ask the nearest man to go and fetch a
-cobbler.’
-
-‘To go and fetch a cobbler?’ repeated Martin.
-
-‘This wonderful invention, sir,’ said Mark, tenderly patting the empty
-glass, ‘is called a cobbler. Sherry cobbler when you name it long;
-cobbler, when you name it short. Now you’re equal to having your boots
-took off, and are, in every particular worth mentioning, another man.’
-
-Having delivered himself of this solemn preface, he brought the
-bootjack.
-
-‘Mind! I am not going to relapse, Mark,’ said Martin; ‘but, good Heaven,
-if we should be left in some wild part of this country without goods or
-money!’
-
-‘[[Well]], sir!’ replied the imperturbable Tapley; ‘from what we’ve seen
-already, I don’t know whether, under those circumstances, we shouldn’t
-do better in the wild parts than in the tame ones.’
-
-‘Oh, [[Tom Pinch]], [[Tom Pinch]]!’ said Martin, in a thoughtful tone; ‘what
-would I give to be again beside you, and able to hear your voice, though
-it were even in the old bedroom at Pecksniff’s!’
-
-‘Oh, Dragon, Dragon!’ echoed Mark, cheerfully, ‘if there warn’t any
-[[Water|water]] between you and me, and nothing faint-hearted-like in going back,
-I don’t know that I mightn’t say the same. But here am I, Dragon, in
-[[New York]], [[america|America]]; and there are you in Wiltshire, Europe; and there’s a
-fortune to make, Dragon, and a beautiful young lady to make it for; and
-whenever you go to see the Monument, Dragon, you mustn’t give in on the
-doorsteps, or you’ll never get up to the top!’
-
-‘Wisely said, Mark,’ cried Martin. ‘We must look forward.’
-
-‘In all the story-books as ever I read, sir, the people as looked
-backward was turned into stones,’ replied Mark; ‘and my opinion always
-was, that they brought it on themselves, and it served ‘em right. I wish
-you good [[Night|night]], sir, and pleasant [[Dreams|dreams]]!’
-
-‘They must be of [[Home|home]], then,’ said Martin, as he lay down in bed.
-
-‘So I say, too,’ whispered [[Mark Tapley]], when he was out of hearing and
-in his own room; ‘for if there don’t come a [[Time|time]] afore we’re [[Well|well]] out of
-this, when there’ll be a little more credit in keeping up one’s jollity,
-I’m a United Statesman!’
-
-Leaving them to blend and mingle in their [[Sleep|sleep]] the shadows of objects
-afar off, as they take fantastic shapes upon the wall in the dim light
-of thought without control, be it the part of this slight chronicle--a
-dream within [[A Dream|a dream]]--as rapidly to change the scene, and [[Cross|cross]] the
-ocean to the English shore.

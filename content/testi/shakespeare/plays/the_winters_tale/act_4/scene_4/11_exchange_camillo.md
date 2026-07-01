@@ -1,5 +1,5 @@
 ---
-title: "The Winters Tale — Act IV, Scene 4 — exchange ([[Camillo|CAMILLO]]) [11]"
+title: "The Winters Tale — Act IV, Scene 4 — exchange (CAMILLO) [11]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-winter’s-tale-(shakespeare)"

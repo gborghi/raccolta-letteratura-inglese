@@ -1,5 +1,5 @@
 ---
-title: "The Two Gentlemen of [[Verona]] — Act V, Scene 4 — monologue (THE TAMING OF THE SHREW) [4]"
+title: "The Two Gentlemen of Verona — Act V, Scene 4 — monologue (THE TAMING OF THE SHREW) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-two-gentlemen-of-verona-(shakespeare)"

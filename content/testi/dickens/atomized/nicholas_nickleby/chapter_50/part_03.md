@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 50 (part 3)"
+title: "Nicholas Nickleby — Chapter 50 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_50/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_50/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘Look in the papers,’ interrupted Sir Mulberry, turning suddenly round,
+‘tomorrow--no, next day, will you?’
 
 ‘Upon my life, my dear fellow, I seldom or never read the papers,’ said
 the other, shrugging his shoulders, ‘but I will, at your recommendation.

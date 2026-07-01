@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 15"
+title: "The Professor — Chapter 15"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-professor-(bronte)"
@@ -15,8 +15,6 @@ tags:
 
 
 CHAPTER XV.
-
-
 
 SOME [[Time|time]] elapsed before I again gave a lesson in the first class; the
 
@@ -50,23 +48,17 @@ school-room door, I heard her say, suddenly and sharply, addressing one
 
 of the eldest and most turbulent of the lot--
 
-
-
 “Amelie Mullenberg, ask me no question, and request of me no assistance,
 
 for a week to come; during that space of [[Time|time]] I will neither speak to
 
 you nor help you.”
 
-
-
 The words were uttered with emphasis--nay, with vehemence--and a
 
 comparative [[Silence|silence]] followed; whether the calm was permanent, I know
 
 not; two doors now closed between me and the CARRE.
-
-
 
 Next day was appropriated to the first class; on my arrival, I found the
 
@@ -94,13 +86,9 @@ discourse had been of the most friendly tendency, for I heard the
 
 closing words--
 
-
-
 “C’est assez, ma bonne amie; a present je ne veux pas vous retenir
 
 davantage.”
-
-
 
 Without reply, Mdlle. Henri turned away; dissatisfaction was plainly
 
@@ -130,8 +118,6 @@ expecting with [[Resignation|resignation]] the discords of the sixteenth, when a
 
 though low voice, read out, in clear correct English.
 
-
-
 “On his way to Perth, the [[King|king]] was met by a Highland woman, calling
 
 herself a prophetess; she stood at the side of the ferry by which he was
@@ -141,8 +127,6 @@ about to travel to the north, and cried with a loud voice, ‘My lord the
 [[King|king]], if you pass this [[Water|water]] you will never return again alive!’”--(VIDE
 
 the [[history|HISTORY]] OF SCOTLAND).
-
-
 
 I looked up in amazement; the voice was a voice of Albion; the accent
 
@@ -168,8 +152,6 @@ that of the others, and wanted to discover what I thought; I masked my
 
 visage with indifference, and ordered the next girl to proceed.
 
-
-
 When the lesson was over, I took advantage of the confusion caused by
 
 breaking up, to approach Mdlle. Henri; she was standing near the [[Window|window]]
@@ -182,41 +164,23 @@ exercise-book out of her hand; as I turned over the [[Leaves|leaves]] I addresse
 
 her:--
 
-
-
 “You have had lessons in English before?” I asked.
-
-
 
 “No, sir.”
 
-
-
 “No! you read it [[Well|well]]; you have been in England?”
-
-
 
 “Oh, no!” with some animation.
 
-
-
 “You have been in English families?”
-
-
 
 Still the answer was “No.” Here my eye, resting on the flyleaf of the
 
 book, saw written, “Frances Evan Henri.”
 
-
-
 “Your name?” I asked
 
-
-
 “Yes, sir.”
-
-
 
 My interrogations were cut short; I heard a little rustling behind me,
 
@@ -224,19 +188,13 @@ and close at my back was the directress, professing to be examining the
 
 interior of a desk.
 
-
-
 “Mademoiselle,” said she, looking up and addressing the teacher, “Will
 
 you have the goodness to go and stand in the corridor, while the young
 
 ladies are putting on their things, and try to keep some order?”
 
-
-
 Mdlle. Henri obeyed.
-
-
 
 “What splendid weather!” observed the directress cheerfully, glancing at
 
@@ -246,29 +204,21 @@ your new pupil, monsieur?” continued she, following my retreating steps.
 
 “Is she likely to make progress in English?”
 
-
-
 “Indeed I can hardly judge. She possesses a pretty good accent; of
 
 her real knowledge of the language I have as yet had no opportunity of
 
 forming an opinion.”
 
-
-
 “And her natural capacity, monsieur? I have had my fears about that: can
 
 you relieve me by an assurance at least of its average power?”
-
-
 
 “I see no reason to [[Doubt|doubt]] its average power, mademoiselle, but really
 
 I scarcely know her, and have not had [[Time|time]] to study the calibre of her
 
 capacity. I wish you a very good afternoon.”
-
-
 
 She still pursued me. “You will observe, monsieur, and tell me what you
 
@@ -332,13 +282,9 @@ I [[Fear|fear]] I have touched this sore point inadvertently, and she cannot get
 
 over it.”
 
-
-
 During the greater part of this harangue my hand was on the lock of the
 
 outer door; I now turned it.
-
-
 
 “Au revoir, mademoiselle,” said I, and I escaped. I saw the directress’s
 

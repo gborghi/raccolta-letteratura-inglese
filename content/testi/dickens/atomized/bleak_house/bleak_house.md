@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]]"
+title: "Bleak House"
 author: "Dickens"
 unitType: work
 parentWork: "works/bleak-house-(dickens)"
@@ -185,7 +185,7 @@ familiar things.
 
    ** Another case, very clearly described by a dentist,
     occurred at the town of [[Columbus]], in the United States
-    of [[America]], quite recently. The subject was a German who
+    of [[america|America]], quite recently. The subject was a German who
     kept a liquor-shop and was an inveterate drunkard.
 
 
@@ -3096,7 +3096,7 @@ henceforth to belong to Ada and me. Out of this you went up three
 steps into Ada’s bedroom, which had a fine broad [[Window|window]] commanding a
 beautiful view (we saw a great expanse of darkness lying underneath
 the [[Stars|stars]]), to which there was a hollow [[Window|window]]-seat, in which, with a
-[[Spring|spring]]-lock, three dear Adas might have been lost at once. Out of
+[[spring]]-lock, three dear Adas might have been lost at once. Out of
 this room you passed into a little gallery, with which the other best
 rooms (only two) communicated, and so, by a little staircase of
 shallow steps with a number of corner stairs in it, considering its
@@ -3173,7 +3173,7 @@ inaptitude for all worldly affairs, he is a perfect [[Child|child]].”
 We felt that he must be very interesting.
 
 “He knows Mrs. Jellyby,” said Mr. Jarndyce. “He is a musical man, an
-amateur, but might have been a professional. He is an [[artist]] too, an
+amateur, but might have been a professional. He is an [[Artist|artist]] too, an
 amateur, but might have been a professional. He is a man of
 attainments and of captivating manners. He has been unfortunate in
 his affairs, and unfortunate in his pursuits, and unfortunate in his
@@ -3384,7 +3384,7 @@ is the universe), and I know nothing of it, so you shall have your
 way. But if I had mine,” glancing at the cousins, “there should be no
 brambles of sordid realities in such a path as that. It should be
 strewn with roses; it should lie through bowers, where there was no
-[[Spring|spring]], [[Autumn|autumn]], nor [[Winter|winter]], but perpetual [[Summer|summer]]. Age or change
+[[spring]], [[Autumn|autumn]], nor [[Winter|winter]], but perpetual [[Summer|summer]]. Age or change
 should never wither it. The base word money should never be breathed
 near it!”
 
@@ -4062,7 +4062,7 @@ for seven hundred years.
 Even the long drawing-room of Chesney Wold cannot revive Mr. Guppy’s
 spirits. He is so low that he droops on the threshold and has hardly
 strength of mind to enter. But a portrait over the chimney-piece,
-painted by the fashionable [[artist]] of the day, acts upon him like a
+painted by the fashionable [[Artist|artist]] of the day, acts upon him like a
 charm. He recovers in a moment. He stares at it with uncommon
 interest; he seems to be fixed and fascinated by it.
 
@@ -4608,7 +4608,7 @@ everything, I really believe, from five hundred thousand tracts to an
 annuity and from a marble monument to a silver tea-pot. They took a
 multitude of titles. They were the Women of England, the Daughters of
 Britain, the Sisters of all the cardinal virtues separately, the
-Females of [[America]], the Ladies of a hundred denominations. They
+Females of [[america|America]], the Ladies of a hundred denominations. They
 appeared to be always excited about canvassing and electing. They
 seemed to our poor wits, and according to their own accounts, to be
 constantly polling people by tens of thousands, yet never bringing
@@ -8551,7 +8551,7 @@ I found the academy established in a sufficiently dingy [[house]] at the
 corner of an archway, with busts in all the staircase windows. In the
 same [[house]] there were also established, as I gathered from the plates
 on the door, a drawing-master, a coal-merchant (there was, certainly,
-no room for his coals), and a lithographic [[artist]]. On the plate
+no room for his coals), and a lithographic [[Artist|artist]]. On the plate
 which, in size and situation, took precedence of all the rest, I
 read, MR. TURVEYDROP. The door was open, and the hall was blocked up
 by a grand piano, a harp, and several other musical instruments in
@@ -9254,10 +9254,10 @@ the bill, instead of providing it?”
 
 “My dear Jarndyce,” he returned, “you surprise me. You take the
 butcher’s position. A butcher I once dealt with occupied that very
-ground. Says he, ‘Sir, why did you eat [[Spring|spring]] [[Lamb|lamb]] at eighteen pence
-a pound?’ ‘Why did I eat [[Spring|spring]] [[Lamb|lamb]] at eighteen pence a pound, my
+ground. Says he, ‘Sir, why did you eat [[spring]] [[Lamb|lamb]] at eighteen pence
+a pound?’ ‘Why did I eat [[spring]] [[Lamb|lamb]] at eighteen pence a pound, my
 honest friend?’ said I, naturally amazed by the question. ‘I like
-[[Spring|spring]] [[Lamb|lamb]]!’ This was so far convincing. ‘[[Well]], sir,’ says he, ‘I
+[[spring]] [[Lamb|lamb]]!’ This was so far convincing. ‘[[Well]], sir,’ says he, ‘I
 wish I had meant the [[Lamb|lamb]] as you mean the money!’ ‘My good fellow,’
 said I, ‘pray let us reason like intellectual beings. How could that
 be? It was impossible. You HAD got the [[Lamb|lamb]], and I have NOT got the
@@ -11214,7 +11214,7 @@ Boythorn had himself composed and posted there, on painted boards to
 which his name was attached in large letters, the following solemn
 warnings: “Beware of the bull-dog. He is most ferocious. Lawrence
 Boythorn.” “The blunderbus is loaded with slugs. Lawrence Boythorn.”
-“Man-traps and [[Spring|spring]]-guns are set here at all times of the day and
+“Man-traps and [[spring]]-guns are set here at all times of the day and
 [[Night|night]]. Lawrence Boythorn.” “Take notice. That any person or persons
 audaciously presuming to trespass on this property will be punished
 with the utmost severity of private chastisement and prosecuted with
@@ -11275,7 +11275,7 @@ sight—’”
 
 Shall I ever forget the rapid beating at my heart, occasioned by the
 look I met as I stood up! Shall I ever forget the manner in which
-those handsome proud eyes seemed to [[Spring|spring]] out of their languor and
+those handsome proud eyes seemed to [[spring]] out of their languor and
 to hold mine! It was only a moment before I cast mine down—released
 again, if I may say so—on my book; but I knew the beautiful face
 quite [[Well|well]] in that short space of [[Time|time]].
@@ -11936,7 +11936,7 @@ experience that the Chadband style of oratory is widely received and
 much admired.
 
 Mr. Chadband, however, having concluded for the present, sits down at
-Mr. Snagsby’s table and lays about him prodigiously. The [[conversion]]
+Mr. Snagsby’s table and lays about him prodigiously. The [[Conversion|conversion]]
 of nutriment of any sort into oil of the quality already mentioned
 appears to be a process so inseparable from the constitution of this
 exemplary vessel that in beginning to eat and drink, he may be
@@ -13111,7 +13111,7 @@ it is served out and asks Judy where the girl is.
 
 “Charley, do you mean?”
 
-This touches a [[Spring|spring]] in Grandmother Smallweed, who, chuckling as
+This touches a [[spring]] in Grandmother Smallweed, who, chuckling as
 usual at the trivets, cries, “Over the [[Water|water]]! Charley over the [[Water|water]],
 Charley over the [[Water|water]], over the [[Water|water]] to Charley, Charley over the
 [[Water|water]], over the [[Water|water]] to Charley!” and becomes quite energetic about
@@ -16770,7 +16770,7 @@ bird of the crow species.
 twopence. It’s a great deal for what he has done.”
 
 The person, who is one of those extraordinary specimens of human
-fungus that [[Spring|spring]] up spontaneously in the western streets of [[London]],
+fungus that [[spring]] up spontaneously in the western streets of [[London]],
 ready dressed in an old red jacket, with a “mission” for holding
 horses and calling coaches, received his twopence with anything but
 transport, tosses the money into the air, catches it over-handed, and
@@ -17421,7 +17421,7 @@ will get no harm from me. You may trust me so far.”
 
 “[[Well]], I think I may. But the very looks of you are unsettling,” Mrs.
 Bagnet rejoins. “Ah, George, George! If you had only settled down and
-married Joe Pouch’s widow when he died in North [[America]], SHE’D have
+married Joe Pouch’s widow when he died in North [[america|America]], SHE’D have
 combed your hair for you.”
 
 “It was a chance for me, certainly,” returns the trooper half
@@ -19313,7 +19313,7 @@ He laughed heartily and answered, “No.”
 
 He answered “No” again, and this [[Time|time]] my dear girl confidently
 answered “No” too and shook the lovely head which, with its blooming
-[[Flowers|flowers]] against the golden hair, was like the very [[Spring|spring]]. “Much YOU
+[[Flowers|flowers]] against the golden hair, was like the very [[spring]]. “Much YOU
 know of east winds, my ugly darling,” said I, kissing her in my
 admiration—I couldn’t help it.
 
@@ -21222,7 +21222,7 @@ the late Mr. Krook’s obstinacy in going out of the world by any such
 by-way as wholly unjustifiable and personally offensive. The less the
 [[Court|court]] understands of all this, the more the [[Court|court]] likes it, and the
 greater enjoyment it has in the stock in trade of the Sol’s Arms.
-Then there comes the [[artist]] of a picture newspaper, with a foreground
+Then there comes the [[Artist|artist]] of a picture newspaper, with a foreground
 and figures ready drawn for anything from a wreck on the Cornish
 coast to a review in Hyde Park or a meeting in Manchester, and in
 Mrs. Perkins’ own room, memorable evermore, he then and there throws
@@ -21600,7 +21600,7 @@ haven’t had the letter more than a quarter of an hour.”
 him my opinion?”
 
 “Oh! Why didn’t he marry,” Mrs. Bagnet answers, half laughing and
-half crying, “Joe Pouch’s widder in North [[America]]? Then he wouldn’t
+half crying, “Joe Pouch’s widder in North [[america|America]]? Then he wouldn’t
 have got himself into these troubles.”
 
 “The old girl,” says Mr. Bagnet, “puts it correct—why didn’t you?”
@@ -22933,7 +22933,7 @@ up and where his old stool yet occupied its old place. This was
 considered by the whole village the most wonderful achievement in the
 world, but when an answer came back all the way from Plymouth, in
 which he mentioned that he was going to take the picture all the way
-to [[America]], and from [[America]] would write again, I got all the credit
+to [[america|America]], and from [[america|America]] would write again, I got all the credit
 that ought to have been given to the post-office and was invested
 with the merit of the whole system.
 
@@ -26553,7 +26553,7 @@ you.”
 “Not true. Lies!”
 
 At times there is a suddenness in the manner of Mademoiselle Hortense
-so like a bodily [[Spring|spring]] upon the subject of it that such subject
+so like a bodily [[spring]] upon the subject of it that such subject
 involuntarily starts and falls back. It is Mr. Tulkinghorn’s case at
 present, though Mademoiselle Hortense, with her eyes almost shut up
 (but still looking out sideways), is only smiling contemptuously and
@@ -26571,7 +26571,7 @@ key.
 attrapped me—catched me—to give you information; you have asked me
 to show you the dress of mine my Lady must have wore that [[Night|night]], you
 have prayed me to come in it here to meet that boy. Say! Is it not?”
-Mademoiselle Hortense makes another [[Spring|spring]].
+Mademoiselle Hortense makes another [[spring]].
 
 “You are a vixen, a vixen!” Mr. Tulkinghorn seems to meditate as he
 looks distrustfully at her, then he replies, “[[Well]], wench, [[Well|well]]. I
@@ -27248,7 +27248,7 @@ objects for the admiration and pleasure of us poor men; and not to
 reap all the admiration and pleasure that they yield is to be
 ungrateful to our benefactors.”
 
-Sir Leicester seemed to approve of this sentiment highly. “An [[artist]],
+Sir Leicester seemed to approve of this sentiment highly. “An [[Artist|artist]],
 sir?”
 
 “No,” returned Mr. Skimpole. “A perfectly idle man. A mere amateur.”
@@ -30065,7 +30065,7 @@ loosely muffled, goes out into the moonlight. Mercury attends with
 the key. Having opened the [[Garden|garden]]-gate, he delivers the key into his
 Lady’s hands at her request and is bidden to go back. She will walk
 there some [[Time|time]] to ease her aching head. She may be an hour, she may
-be more. She needs no further escort. The gate shuts upon its [[Spring|spring]]
+be more. She needs no further escort. The gate shuts upon its [[spring]]
 with a clash, and he [[Leaves|leaves]] her passing on into the dark shade of
 some trees.
 
@@ -32664,7 +32664,7 @@ the early [[Winter|winter]] [[Night|night]]—admiring Mercury.
 “Are you so much? But then, you see, you’re broad in proportion and
 don’t look it. You’re not one of the weak-legged ones, you ain’t. Was
 you ever modelled now?” Mr. Bucket asks, conveying the expression of
-an [[artist]] into the turn of his eye and head.
+an [[Artist|artist]] into the turn of his eye and head.
 
 Mercury never was modelled.
 
@@ -33700,7 +33700,7 @@ It is but the [[Death|death]], it is all the same. Let us go, my angel. Adieu,
 you old man, grey. I pity you, and I despise you!”
 
 With these last words she snaps her teeth together as if her mouth
-closed with a [[Spring|spring]]. It is impossible to describe how Mr. Bucket
+closed with a [[spring]]. It is impossible to describe how Mr. Bucket
 gets her out, but he accomplishes that feat in a manner so peculiar
 to himself, enfolding and pervading her like a cloud, and hovering
 away with her as if he were a homely Jupiter and she the object of

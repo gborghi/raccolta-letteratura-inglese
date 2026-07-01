@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 52"
+title: "Oliver Twist — Chapter 52"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/oliver-twist-(dickens)"
@@ -66,7 +66,7 @@ He looked up into the gallery again. Some of the people were eating,
 and some fanning themselves with handkerchiefs; for the crowded place
 was very hot. There was one young man sketching his face in a little
 note-book. He wondered whether it was like, and looked on when the
-[[artist]] broke his pencil-point, and made another with his knife, as any
+[[Artist|artist]] broke his pencil-point, and made another with his knife, as any
 idle spectator might have done.
 
 In the same way, when he turned his eyes towards the judge, his mind
@@ -324,8 +324,8 @@ Brownlow’s hand.
 bag, in a hole a little way up the chimney in the top front-room. I
 want to talk to you, my dear. I want to talk to you.”
 
-“Yes, yes,” returned [[Oliver]]. “Let me say a [[Prayer|prayer]]. Do! Let me say one
-[[Prayer|prayer]]. Say only one, upon your knees, with me, and we will talk till
+“Yes, yes,” returned [[Oliver]]. “Let me say a [[prayer]]. Do! Let me say one
+[[prayer]]. Say only one, upon your knees, with me, and we will talk till
 morning.”
 
 “Outside, outside,” replied [[Fagin]], pushing the boy before him towards

@@ -14,6 +14,79 @@ tags:
 </nav>
 
 
+I SUPPOSE that, taking this [[Summer|summer]] as a whole, people will not
+call it an appropriate [[Time|time]] for praising the English climate.
+But for my part I will praise the English climate till I die--
+even if I die of the English climate.  There is no weather
+so good as English weather.  Nay, in a real sense there is no
+weather at all anywhere but in England.  In France you have much
+sun and some rain; in [[Italy]] you have hot winds and cold winds;
+in Scotland and Ireland you have rain, either thick or thin;
+in [[america|America]] you have hells of heat and cold, and in the Tropics you have
+sunstrokes varied by thunderbolts.  But all these you have on a broad
+and brutal scale, and you settle down into contentment or [[Despair|despair]].
+Only in our own romantic country do you have the strictly romantic
+thing called Weather; beautiful and changing as a woman.
+The great English landscape painters (neglected now like everything
+that is English) have this salient distinction:  that the Weather is not
+the atmosphere of their pictures; it is the subject of their pictures.
+They paint portraits of the Weather.  The Weather sat to Constable.
+The Weather posed for Turner, and a deuce of a pose it was.
+This cannot truly be said of the greatest of their continental
+models or rivals.  Poussin and Claude painted objects,
+ancient cities or perfect Arcadian shepherds through a clear medium
+of the climate.  But in the English painters Weather is the [[Hero|hero]];
+with Turner an Adelphi [[Hero|hero]], taunting, flashing and fighting,
+melodramatic but really magnificent.  The English climate,
+a tall and terrible protagonist, robed in rain and thunder and [[Snow|snow]]
+and sunlight, fills the whole canvas and the whole foreground.
+I admit the superiority of many other French things besides French art.
+But I will not yield an inch on the superiority of English weather and
+weather-painting. Why, the French have not even got a word for Weather:
+and you must ask for the weather in French as if you were asking
+for the [[Time|time]] in English.
+
+Then, again, variety of climate should always go with stability of abode.
+The weather in the [[Desert|desert]] is monotonous; and as a natural consequence
+the Arabs wander about, hoping it may be different somewhere.
+But an Englishman's [[house]] is not only his [[Castle|castle]]; it is his fairy [[Castle|castle]].
+Clouds and colours of every varied [[Dawn|dawn]] and eve are perpetually
+touching and turning it from clay to gold, or from gold to ivory.
+There is a line of woodland beyond a corner of my [[Garden|garden]]
+which is literally different on every one of the three hundred
+and sixty-five days.  Sometimes it seems as near as a hedge,
+and sometimes as far as a faint and fiery evening cloud.
+The same principle (by the way) applies to the difficult problem
+of wives.  Variability is one of the virtues of a woman.
+It avoids the crude requirement of polygamy.  So long as you have
+one good wife you are sure to have a spiritual harem.
+
+Now, among the heresies that are spoken in this matter is the habit
+of calling a grey day a "colourless" day.  Grey is a colour,
+and can be a very powerful and pleasing colour.  There is also an
+insulting style of speech about "one grey day just like another."
+You might as [[Well|well]] talk about one green tree just like another.
+A grey clouded sky is indeed a canopy between us and the sun;
+so is a green tree, if it comes to that.  But the grey umbrellas differ
+as much as the green in their style and shape, in their tint and tilt.
+One day may be grey like steel, and another grey like dove's plumage.
+One may seem grey like the deathly [[Frost|frost]], and another grey
+like the smoke of substantial kitchens.  No things could seem
+further apart than the [[Doubt|doubt]] of grey and the decision of scarlet.
+Yet grey and red can mingle, as they do in the morning clouds:
+and also in a sort of warm smoky stone of which they build the little
+towns in the west country.  In those towns even the houses that are wholly
+grey have a glow in them; as if their secret firesides were such furnaces
+of hospitality as faintly to transfuse the walls like walls of cloud.
+And wandering in those westland parts I did once really find a sign-post
+pointing up a steep crooked path to a town that was called Clouds.
+I did not climb up to it; I feared that either the town would not be
+good enough for the name, or I should not be good enough for the town.
+Anyhow, the little hamlets of the warm grey stone have a geniality
+which is not achieved by all the artistic scarlet of the suburbs;
+as if it were better to warm one's hands at the ashes of Glastonbury
+than at the painted flames of Croydon.
+
 Again, the enemies of grey (those astute, daring and evil-minded men)
 are fond of bringing forward the argument that colours suffer in
 grey weather, and that strong sunlight is necessary to all the hues
@@ -41,88 +114,3 @@ and its brightness kills all the bright blue [[Flowers|flowers]].
 But on a grey day the larkspur looks like fallen heaven; the red
 daisies are really the red lost eyes of day; and the sunflower
 is the vice-regent of the sun.
-
-Lastly, there is this value about the colour that men call colourless;
-that it suggests in some way the mixed and troubled average of existence,
-especially in its quality of strife and expectation and promise.
-Grey is a colour that always seems on the eve of changing to some
-other colour; of brightening into blue or blanching into white
-or bursting into green and gold.  So we may be perpetually reminded
-of the indefinite [[Hope|hope]] that is in [[Doubt|doubt]] itself; and when there is
-grey weather in our hills or grey hairs in our heads, perhaps they
-may still remind us of the morning.
-
--/-
-
-The Anarchist
-
-I HAVE now lived for about two months in the country, and have gathered
-the last rich autumnal fruit of a rural life, which is a strong [[Desire|desire]]
-to see [[London]].  Artists living in my neighbourhood talk rapturously
-of the [[rolling]] liberty of the landscape, the living peace of woods.
-But I say to them (with a slight Buckinghamshire accent), "Ah, that is
-how [[cockneys|Cockneys]] feel.  For us real old country people the country
-is reality; it is the town that is [[Romance|romance]].  [[Nature]] is as plain
-as one of her pigs, as commonplace, as comic, and as healthy.
-But civilisation is full of poetry, even if it be sometimes
-an evil poetry.  The streets of [[London]] are paved with gold;
-that is, with the very poetry of avarice."  With these typically
-bucolic words I touch my hat and go ambling away on a stick,
-with a stiffness of gait proper to the Oldest Inhabitant;
-while in my more animated moments I am taken for the Village Idiot.
-Exchanging heavy but courteous salutations with other gaffers, I reach
-the station, where I ask for a ticket for [[London]] where the [[King|king]] lives.
-Such a [[Journey|journey]], mingled of provincial fascination and [[Fear|fear]],
-did I successfully perform only a few days ago; and [[Alone|alone]] and
-helpless in the capital, found myself in the tangle of roads around
-the Marble Arch.
-
-A faint prejudice may possess the mind that I have slightly exaggerated
-my rusticity and remoteness.  And yet it is true as I came to that corner
-of the Park that, for some unreasonable reason of mood, I saw all [[London]]
-as a strange [[City|city]] and the civilisation itself as one enormous whim.
-The Marble Arch itself, in its new insular position, with traffic
-turning dizzily all about it, struck me as a placid monstrosity.
-What could be wilder than to have a huge arched gateway, with people
-going everywhere except under it?  If I took down my front door
-and stood it up all by itself in the middle of my back [[Garden|garden]],
-my village neighbours (in their simplicity) would probably stare.
-Yet the Marble Arch is now precisely that; an elaborate entrance
-and the only place by which no one can enter.  By the new arrangement
-its last weak pretence to be a gate has been taken away.  The [[cabman]]
-still cannot drive through it, but he can have the delights of riding
-round it, and even (on foggy nights) the rapture of running into it.
-It has been raised from the rank of a fiction to the dignity
-of an obstacle.
-
-As I began to walk across a corner of the Park, this sense of what
-is strange in cities began to mingle with some sense of what is
-stern as [[Well|well]] as strange.  It was one of those queer-coloured
-[[Winter|winter]] days when a watery sky changes to pink and grey and green,
-like an enormous opal.  The trees stood up grey and angular,
-as if in attitudes of agony; and here and there on benches under
-the trees sat men as grey and angular as they.  It was cold even for me,
-who had eaten a large breakfast and purposed to eat a perfectly
-Gargantuan lunch; it was colder for the men under the trees.
-And to eastward through the opalescent haze, the warmer whites
-and yellows of the houses in Park-lane shone as unsubstantially
-as if the clouds themselves had taken on the shape of mansions to mock
-the men who sat there in the cold.  But the mansions were real--
-like the mockery.
-
-No one worth calling a man allows his moods to change his convictions;
-but it is by moods that we understand other men's convictions.
-The bigot is not he who knows he is right; every sane man knows
-he is right.  The bigot is he whose emotions and [[Imagination|imagination]]
-are too cold and weak to feel how it is that other men go wrong.
-At that moment I felt vividly how men might go wrong, even unto dynamite.
-If one of those huddled men under the trees had stood up and asked
-for rivers of [[Blood|blood]], it would have been erroneous--but not irrelevant.
-It would have been appropriate and in the picture; that lurid grey
-picture of insolence on one side and impotence on the other.
-It may be true (on the whole it is) that this social [[Machine|machine]]
-we have made is better than anarchy.  Still, it is a [[Machine|machine]];
-and we have made it.  It does hold those poor men helpless:
-and it does lift those rich men high ... and such men--
-good Lord!  By the [[Time|time]] I flung myself on a bench beside another man
-I was half inclined to try anarchy for a change.

@@ -1,5 +1,5 @@
 ---
-title: "[[The Man That Was Used Up]] (part 3)"
+title: "The Man That Was Used Up (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-man-that-was-used-up-(poe)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_man_that_was_used_up/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/the_man_that_was_used_up/part/part_04">part 04 ›</a></div>
 </nav>
 
+
+      slips, and completely overlooked the stage.
+
+
+
+      “[[smith|Smith]]!” said Miss Arabella, as she at length comprehended the
+
+      purport of my query; “[[smith|Smith]]!—why, not General John A. B. C.?”
+
+
+
+      “[[smith|Smith]]!” inquired [[Miranda]], musingly. “God bless me, did you ever
 
       behold a finer figure?”
 
@@ -233,25 +245,3 @@ tags:
       conscientiously, that you don’t know all about that affair of
 
       [[smith|Smith]]’s, as [[Well|well]] as I do, eh? [[smith|Smith]]? John A—B—C.? Why, bless me,
-
-      he’s the ma-a-an—”
-
-
-
-      “_Mr_. Sinivate,” said I, imploringly, “_is_ he the man in the
-
-      mask?”
-
-
-
-      “No-o-o!” said he, looking wise, “nor the man in the mo-o-on.”
-
-
-
-      This reply I considered a pointed and positive insult, and so
-
-      left the [[house]] at once in high dudgeon, with a firm resolve to
-
-      call my friend, Mr. Sinivate, to a speedy account for his
-
-      ungentlemanly conduct and ill-breeding.

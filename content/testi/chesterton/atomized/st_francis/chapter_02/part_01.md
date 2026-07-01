@@ -16,10 +16,7 @@ tags:
 
 CHAPTER II
 
-
-
 THE WORLD ST.  FRANCIS FOUND
-
 
 The modern innovation which has substituted journalism for [[history]],
 or for that tradition that is the gossip of [[history]], has had at least

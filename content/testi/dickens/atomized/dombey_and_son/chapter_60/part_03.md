@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 4 (part 3)"
+title: "Dombey and Son — Chapter 32 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,134 +14,140 @@ tags:
 </nav>
 
 
-“You shall drink the other bottle, Wally,” he said, “when you come to
-good fortune; when you are a thriving, respected, happy man; when the
-start in life you have made today shall have brought you, as I pray
-Heaven it may!—to a smooth part of the course you have to run, my
-[[Child|child]]. My [[Love|love]] to you!”
+“I say! I should like to speak a word to you, Mr Gills, if you please,”
+said Toots at length, with surprising presence of mind. “I say! Miss
+D.O.M. you know!”
 
-Some of the fog that hung about old Sol seemed to have got into his
-throat; for he spoke huskily. His hand shook too, as he clinked his
-glass against his nephew’s. But having once got the wine to his lips,
-he tossed it off like a man, and smacked them afterwards.
+The Captain, with responsive gravity and mystery, immediately waved his
+hook towards the little parlour, whither Mr Toots followed him.
 
-“Dear Uncle,” said the boy, affecting to make light of it, while the
-[[Tears|tears]] stood in his eyes, “for the [[Honour|honour]] you have done me, et cetera,
-et cetera. I shall now beg to propose Mr [[Solomon Gills]] with three times
-three and one cheer more. Hurrah! and you’ll return thanks, Uncle, when
-we drink the last bottle together; won’t you?”
+“Oh! I beg your pardon though,” said Mr Toots, looking up in the
+Captain’s face as he sat down in a chair by the [[Fire|fire]], which the Captain
+placed for him; “you don’t happen to know the Chicken at all; do you,
+Mr Gills?”
 
-They clinked their glasses again; and Walter, who was hoarding his
-wine, took a sip of it, and held the glass up to his eye with as
-critical an air as he could possibly assume.
+“The Chicken?” said the Captain.
 
-His Uncle sat looking at him for some [[Time|time]] in [[Silence|silence]]. When their eyes
-at last met, he began at once to pursue the theme that had occupied his
-thoughts, aloud, as if he had been speaking all the [[Time|time]].
+“The Game Chicken,” said Mr Toots.
 
-“You see, Walter,” he said, “in [[Truth|truth]] this business is merely a habit
-with me. I am so accustomed to the habit that I could hardly live if I
-relinquished it: but there’s nothing doing, nothing doing. When that
-uniform was worn,” pointing out towards the little Midshipman, “then
-indeed, fortunes were to be made, and were made. But competition,
-competition—new invention, new invention—alteration, alteration—the
-world’s gone past me. I hardly know where I am myself, much less where
-my customers are.”
+The Captain shaking his head, Mr Toots explained that the man alluded
+to was the celebrated public character who had covered himself and his
+country with glory in his contest with the Nobby Shropshire One; but
+this piece of information did not appear to enlighten the Captain very
+much.
 
-“Never mind ’em, Uncle!”
+“Because he’s outside: that’s all,” said Mr Toots. “But it’s of no
+consequence; he won’t get very wet, perhaps.”
 
-“Since you came [[Home|home]] from weekly boarding-school at Peckham, for
-instance—and that’s ten days,” said Solomon, “I don’t remember more
-than one person that has come into the shop.”
+“I can pass the word for him in a moment,” said the Captain.
 
-“Two, Uncle, don’t you recollect? There was the man who came to ask for
-change for a sovereign—”
+“[[Well]], if you would have the goodness to let him sit in the shop with
+your young man,” chuckled Mr Toots, “I should be glad; because, you
+know, he’s easily offended, and the damp’s rather bad for his stamina.
+I’ll call him in, Mr Gills.”
 
-“That’s the one,” said Solomon.
+[Illustration]
 
-“Why Uncle! don’t you call the woman anybody, who came to ask the way
-to Mile-End Turnpike?”
+With that, Mr Toots repairing to the shop-door, sent a peculiar whistle
+into the [[Night|night]], which produced a stoical gentleman in a shaggy white
+great-coat and a flat-brimmed hat, with very short hair, a broken nose,
+and a considerable tract of bare and sterile country behind each ear.
 
-“Oh! it’s true,” said Solomon, “I forgot her. Two persons.”
+“Sit down, Chicken,” said Mr Toots.
 
-“To be sure, they didn’t buy anything,” cried the boy.
+The compliant Chicken spat out some small pieces of straw on which he
+was regaling himself, and took in a fresh supply from a reserve he
+carried in his hand.
 
-“No. They didn’t buy anything,” said Solomon, quietly.
+“There ain’t no drain of nothing short handy, is there?” said the
+Chicken, generally. “This here sluicing [[Night|night]] is hard lines to a man as
+lives on his condition.”
 
-“Nor want anything,” cried the boy.
+[[Captain Cuttle]] proffered a glass of rum, which the Chicken, throwing
+back his head, emptied into himself, as into a cask, after proposing
+the brief sentiment, “Towards us!” Mr Toots and the Captain returning
+then to the parlour, and taking their seats before the [[Fire|fire]], Mr Toots
+began:
 
-“No. If they had, they’d gone to another shop,” said Solomon, in the
-same tone.
+“Mr Gills—”
 
-“But there were two of ’em, Uncle,” cried the boy, as if that were a
-great triumph. “You said only one.”
+“Awast!” said the Captain. “My name’s Cuttle.”
 
-“[[Well]], Wally,” resumed the old man, after a short pause: “not being
-like the Savages who came on Robinson Crusoe’s Island, we can’t live on
-a man who asks for change for a sovereign, and a woman who inquires the
-way to Mile-End Turnpike. As I said just now, the world has gone past
-me. I don’t blame it; but I no longer understand it. Tradesmen are not
-the same as they used to be, apprentices are not the same, business is
-not the same, business commodities are not the same. Seven-eighths of
-my stock is old-fashioned. I am an old-fashioned man in an
-old-fashioned shop, in a street that is not the same as I remember it.
-I have fallen behind the [[Time|time]], and am too old to catch it again. Even
-the noise it makes a long way ahead, confuses me.”
+Mr Toots looked greatly disconcerted, while the Captain proceeded
+gravely.
 
-Walter was going to speak, but his Uncle held up his hand.
+“Cap’en Cuttle is my name, and England is my nation, this here is my
+dwelling-place, and blessed be creation—Job,” said the Captain, as an
+index to his authority.
 
-“Therefore, Wally—therefore it is that I am anxious you should be early
-in the busy world, and on the world’s track. I am only the [[Ghost|ghost]] of
-this business—its substance vanished long ago; and when I die, its
-[[Ghost|ghost]] will be laid. As it is clearly no inheritance for you then, I
-have thought it best to use for your advantage, almost the only
-[[Fragment|fragment]] of the old connexion that stands by me, through long habit.
-Some people suppose me to be wealthy. I wish for your sake they were
-right. But whatever I leave behind me, or whatever I can give you, you
-in such a [[house|House]] as Dombey’s are in the [[Road|road]] to use [[Well|well]] and make the
-most of. Be diligent, try to like it, my dear boy, work for a steady
-independence, and be happy!”
+“Oh! I couldn’t see Mr Gills, could I?” said Mr Toots; “because—”
 
-“I’ll do everything I can, Uncle, to deserve your affection. Indeed I
-will,” said the boy, earnestly.
+“If you could see Sol Gills, young gen’l’m’n,” said the Captain,
+impressively, and laying his heavy hand on Mr Toots’s knee, “old Sol,
+mind you—with your own eyes—as you sit there—you’d be welcomer to me,
+than a [[Wind|wind]] astern, to a [[Ship|ship]] becalmed. But you can’t see Sol Gills.
+And why can’t you see Sol Gills?” said the Captain, apprised by the
+face of Mr Toots that he was making a profound impression on that
+gentleman’s mind. “Because he’s inwisible.”
 
-“I know it,” said Solomon. “I am sure of it,” and he applied himself to
-a second glass of the old Madeira, with increased relish. “As to the
-Sea,” he pursued, “that’s [[Well|well]] enough in fiction, Wally, but it won’t
-do in fact: it won’t do at all. It’s natural enough that you should
-think about it, associating it with all these familiar things; but it
-won’t do, it won’t do.”
+Mr Toots in his agitation was going to reply that it was of no
+consequence at all. But he corrected himself, and said, “Lor bless me!”
 
-[[Solomon Gills]] rubbed his hands with an air of stealthy enjoyment, as he
-talked of the sea, though; and looked on the seafaring objects about
-him with inexpressible complacency.
+“That there man,” said the Captain, “has left me in charge here by a
+piece of writing, but though he was a’most as good as my sworn brother,
+I know no more where he’s gone, or why he’s gone; if so be to seek his
+nevy, or if so be along of being not quite settled in his mind; than
+you do. One morning at daybreak, he went over the side,” said the
+Captain, “without a splash, without a ripple I have looked for that man
+high and low, and never set eyes, nor ears, nor nothing else, upon him
+from that hour.”
 
-“Think of this wine for instance,” said old Sol, “which has been to the
-East Indies and back, I’m not able to say how often, and has been once
-round the world. Think of the pitch-dark nights, the roaring winds, and
-[[rolling]] seas:”
+“But, good Gracious, Miss Dombey don’t know—” Mr Toots began.
 
-“The thunder, [[Lightning|lightning]], rain, hail, [[Storm|storm]] of all kinds,” said the boy.
+“Why, I ask you, as a feeling heart,” said the Captain, dropping his
+voice, “why should she know? why should she be made to know, until such
+[[Time|time]] as there wam’t any help for it? She took to old Sol Gills, did
+that sweet creetur, with a kindness, with a affability, with a—what’s
+the good of saying so? you know her.”
 
-“To be sure,” said Solomon,—“that this wine has passed through. Think
-what a straining and creaking of timbers and masts: what a whistling
-and howling of the gale through ropes and rigging:”
+“I should [[Hope|hope]] so,” chuckled Mr Toots, with a conscious blush that
+suffused his whole countenance.
 
-“What a clambering aloft of men, vying with each other who shall lie
-out first upon the yards to furl the icy sails, while the [[Ship|ship]] rolls
-and pitches, like mad!” cried his nephew.
+“And you come here from her?” said the Captain.
 
-“Exactly so,” said Solomon: “has gone on, over the old cask that held
-this wine. Why, when the Charming Sally went down in the—”
+“I should think so,” chuckled Mr Toots.
 
-“In the Baltic Sea, in the dead of [[Night|night]]; five-and-twenty minutes past
-twelve when the captain’s watch stopped in his pocket; he lying dead
-against the main-mast—on the fourteenth of February, seventeen
-forty-nine!” cried Walter, with great animation.
+“Then all I need observe, is,” said the Captain, “that you know a
+angel, and are chartered a angel.”
 
-“Ay, to be sure!” cried old Sol, “quite right! Then, there were five
-hundred casks of such wine aboard; and all hands (except the first
-mate, first lieutenant, two seamen, and a lady, in a leaky boat) going
-to work to stave the casks, got drunk and died drunk, singing ‘Rule
-Britannia’, when she settled and went down, and ending with one awful
-scream in [[Chorus|chorus]].”
+Mr Toots instantly seized the Captain’s hand, and requested the favour
+of his [[Friendship|friendship]].
+
+“Upon my word and [[Honour|honour]],” said Mr Toots, earnestly, “I should be very
+much obliged to you if you’d improve my acquaintance. I should like to
+know you, Captain, very much. I really am in want of a friend, I am.
+Little Dombey was my friend at old Blimber’s, and would have been now,
+if he’d have lived. The Chicken,” said Mr Toots, in a forlorn whisper,
+“is very [[Well|well]]—admirable in his way—the sharpest man perhaps in the
+world; there’s not a move he isn’t up to, everybody says so—but I don’t
+know—he’s not everything. So she is an angel, Captain. If there is an
+angel anywhere, it’s Miss Dombey. That’s what I’ve always said. Really
+though, you know,” said Mr Toots, “I should be very much obliged to you
+if you’d cultivate my acquaintance.”
+
+[[Captain Cuttle]] received this proposal in a polite manner, but still
+without committing himself to its acceptance; merely observing, “Ay,
+ay, my lad. We shall see, we shall see;” and reminding Mr Toots of his
+immediate mission, by inquiring to what he was indebted for the [[Honour|honour]]
+of that visit.
+
+“Why the fact is,” replied Mr Toots, “that it’s the young woman I come
+from. Not Miss Dombey—Susan, you know.
+
+The Captain nodded his head once, with a [[Grave|grave]] expression of face
+indicative of his regarding that young woman with serious respect.
+
+“And I’ll tell you how it happens,” said Mr Toots. “You know, I go and
+call sometimes, on Miss Dombey. I don’t go there on purpose, you know,
+but I happen to be in the neighbourhood very often; and when I find
+myself there, why—why I call.”

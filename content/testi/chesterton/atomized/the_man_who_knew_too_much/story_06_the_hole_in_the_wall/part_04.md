@@ -14,6 +14,24 @@ tags:
 </nav>
 
 
+was not a particularly loud noise, but it seemed to consist of a
+
+series of thuds or heavy blows, such as might be struck on a wooden
+
+door by a man seeking to enter. They were followed by something like
+
+a faint creak or crack, as if the obstacle had either been opened or
+
+had given way. He opened his own bedroom door and listened, but as
+
+he heard talk and laughter all over the lower floors, he had no
+
+reason to [[Fear|fear]] that a summons would be neglected or the [[house]] left
+
+without protection. He went to his open [[Window|window]], looking out over the
+
+frozen pond and the moonlit statue in the middle of their circle of
+
 darkling woods, and listened again. But [[Silence|silence]] had returned to that
 
 silent place, and, after straining his ears for a considerable [[Time|time]],
@@ -164,30 +182,3 @@ see the flat weeds on the floor of the lake, as if it were through a
 thin pane of glass. No, if Bulmer had only broken the ice he
 
 wouldn't have said much at the moment, though possibly a good deal
-
-afterward. We should have found him stamping and damning up and down
-
-this path, and calling for clean boots."
-"Let us [[Hope|hope]] we shall find him as happily employed," remarked the
-
-diplomatist. "In that case the voice must have come out of the
-
-wood."
-"I'll swear it didn't come out of the [[house]]," said Fisher; and the
-
-two disappeared together into the twilight of wintry trees.
-The plantation stood dark against the fiery colors of sunrise, a
-
-black fringe having that feathery appearance which makes trees when
-
-they are bare the very reverse of rugged. Hours and hours afterward,
-
-when the same dense, but delicate, margin was dark against the
-
-greenish colors opposite the sunset, the search thus begun at
-
-sunrise had not come to an end. By successive stages, and to slowly
-
-gathering groups of the company, it became apparent that the most
-
-extraordinary of all gaps had appeared in the party; the guests

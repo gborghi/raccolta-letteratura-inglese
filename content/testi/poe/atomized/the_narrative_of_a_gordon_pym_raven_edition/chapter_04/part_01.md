@@ -195,5 +195,3 @@ CHAPTER 4
       piteously, and entreating the mate, in the most humble manner, to
 
       spare his life. The only reply was a blow on the forehead from an
-
-      axe. The poor fellow fell to the deck without a groan, and the

@@ -598,7 +598,7 @@ CHAPTER 3
 
       called my name could be no one but himself. All was silent for
 
-      some moments. At length I again heard the word “[[arthur|Arthur]]!” repeated
+      some moments. At length I again heard the word “[[Arthur]]!” repeated
 
       in a low tone, and one full of hesitation. Reviving [[Hope|hope]] loosened
 

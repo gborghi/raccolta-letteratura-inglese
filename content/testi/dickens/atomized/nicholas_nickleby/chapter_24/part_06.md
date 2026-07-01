@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 24 (part 6)"
+title: "Nicholas Nickleby — Chapter 24 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_24/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_25/part_01">part 01 ›</a></div>
 </nav>
 
+
+At the next [[house]] they visited, they were in great glory; for, there,
+resided the six children who were so enraptured with the public actions
+of the phenomenon, and who, being called down from the nursery to be
+treated with a private view of that young lady, proceeded to poke their
+fingers into her eyes, and tread upon her toes, and show her many other
+little attentions peculiar to their [[Time|time]] of life.
+
+‘I shall certainly persuade Mr. Borum to take a private box,’ said the
+lady of the [[house]], after a most gracious reception. ‘I shall only
+take two of the children, and will make up the rest of the party, of
+gentlemen--your admirers, Miss Snevellicci. Augustus, you naughty boy,
+leave the little girl [[Alone|alone]].’
+
+This was addressed to a young gentleman who was pinching the phenomenon
+behind, apparently with a view of ascertaining whether she was real.
 
 ‘I am sure you must be very tired,’ said the mama, turning to Miss
 Snevellicci. ‘I cannot think of allowing you to go, without first taking

@@ -1,5 +1,5 @@
 ---
-title: "The Man Who Knew Too Much — The Bottomless [[Well]]"
+title: "The Man Who Knew Too Much — The Bottomless Well"
 author: "Chesterton"
 unitType: story
 parentWork: "works/the-man-who-knew-too-much-(chesterton)"

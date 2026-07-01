@@ -46,75 +46,75 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Story 01 ONDON CHAPMAN HALL ld](/testi/dickens/atomized/sketches_by_boz/story_01_ondon_chapman_hall_ld)
-- [Story 02 HAPTER ITHE BEADLE THE PARISH ENGINE THE](/testi/dickens/atomized/sketches_by_boz/story_02_hapter_ithe_beadle_the_parish_engine_the)
-- [Story 03 HAPTER IITHE CURATE THE OLD LADY THE HAL](/testi/dickens/atomized/sketches_by_boz/story_03_hapter_iithe_curate_the_old_lady_the_hal)
-- [Story 04 HAPTER IIITHE FOUR SISTERS](/testi/dickens/atomized/sketches_by_boz/story_04_hapter_iiithe_four_sisters)
-- [Story 05 HAPTER IVTHE ELECTION FOR BEADLE](/testi/dickens/atomized/sketches_by_boz/story_05_hapter_ivthe_election_for_beadle)
-- [Story 06 HAPTER VTHE BROKERS MAN](/testi/dickens/atomized/sketches_by_boz/story_06_hapter_vthe_brokers_man)
-- [Story 07 R BUNGS NARRATIVE](/testi/dickens/atomized/sketches_by_boz/story_07_r_bungs_narrative)
-- [Story 08 HAPTER VITHE LADIES SOCIETIES](/testi/dickens/atomized/sketches_by_boz/story_08_hapter_vithe_ladies_societies)
-- [Story 09 HAPTER VIIOUR NEXT DOOR NEIGHBOUR](/testi/dickens/atomized/sketches_by_boz/story_09_hapter_viiour_next_door_neighbour)
-- [Story 10 HAPTER ITHE STREETSMORNING](/testi/dickens/atomized/sketches_by_boz/story_10_hapter_ithe_streetsmorning)
-- [Story 11 HAPTER IITHE STREETSNIGHT](/testi/dickens/atomized/sketches_by_boz/story_11_hapter_iithe_streetsnight)
-- [Story 12 HAPTER IIISHOPS AND THEIR TENANTS](/testi/dickens/atomized/sketches_by_boz/story_12_hapter_iiishops_and_their_tenants)
-- [Story 13 HAPTER IVSCOTLAND YARD](/testi/dickens/atomized/sketches_by_boz/story_13_hapter_ivscotland_yard)
-- [Story 14 HAPTER VSEVEN DIALS](/testi/dickens/atomized/sketches_by_boz/story_14_hapter_vseven_dials)
-- [Story 15 HAPTER VIMEDITATIONS IN MONMOUTH STREET](/testi/dickens/atomized/sketches_by_boz/story_15_hapter_vimeditations_in_monmouth_street)
-- [Story 16 HAPTER VIIHACKNEY COACH STANDS](/testi/dickens/atomized/sketches_by_boz/story_16_hapter_viihackney_coach_stands)
-- [Story 17 HAPTER VIIIDOCTORS COMMONS](/testi/dickens/atomized/sketches_by_boz/story_17_hapter_viiidoctors_commons)
-- [Story 18 HAPTER IXLONDON RECREATIONS](/testi/dickens/atomized/sketches_by_boz/story_18_hapter_ixlondon_recreations)
-- [Story 19 HAPTER XTHE RIVER](/testi/dickens/atomized/sketches_by_boz/story_19_hapter_xthe_river)
-- [Story 20 HAPTER XIASTLEYS](/testi/dickens/atomized/sketches_by_boz/story_20_hapter_xiastleys)
-- [Story 21 HAPTER XIIGREENWICH FAIR](/testi/dickens/atomized/sketches_by_boz/story_21_hapter_xiigreenwich_fair)
-- [Story 22 HAPTER XIIIPRIVATE THEATRES](/testi/dickens/atomized/sketches_by_boz/story_22_hapter_xiiiprivate_theatres)
-- [Story 23 HAPTER XIVVAUXHALL GARDENS BY DAY](/testi/dickens/atomized/sketches_by_boz/story_23_hapter_xivvauxhall_gardens_by_day)
-- [Story 24 HAPTER XVEARLY COACHES](/testi/dickens/atomized/sketches_by_boz/story_24_hapter_xvearly_coaches)
-- [Story 25 HAPTER XVIOMNIBUSES](/testi/dickens/atomized/sketches_by_boz/story_25_hapter_xviomnibuses)
-- [Story 26 HAPTER XVIITHE LAST CAB DRIVER AND THE F](/testi/dickens/atomized/sketches_by_boz/story_26_hapter_xviithe_last_cab_driver_and_the_f)
-- [Story 27 HAPTER XVIIIA PARLIAMENTARY SKETCH](/testi/dickens/atomized/sketches_by_boz/story_27_hapter_xviiia_parliamentary_sketch)
-- [Story 28 HAPTER XIXPUBLIC DINNERS](/testi/dickens/atomized/sketches_by_boz/story_28_hapter_xixpublic_dinners)
-- [Story 29 HAPTER XXTHE FIRST OF MAY](/testi/dickens/atomized/sketches_by_boz/story_29_hapter_xxthe_first_of_may)
-- [Story 30 HAPTER XXIBROKERS AND MARINE STORE SHOPS](/testi/dickens/atomized/sketches_by_boz/story_30_hapter_xxibrokers_and_marine_store_shops)
-- [Story 31 HAPTER XXIIGIN SHOPS](/testi/dickens/atomized/sketches_by_boz/story_31_hapter_xxiigin_shops)
-- [Story 32 HAPTER XXIIITHE PAWNBROKERS SHOP](/testi/dickens/atomized/sketches_by_boz/story_32_hapter_xxiiithe_pawnbrokers_shop)
-- [Story 33 HAPTER XXIVCRIMINAL COURTS](/testi/dickens/atomized/sketches_by_boz/story_33_hapter_xxivcriminal_courts)
-- [Story 34 HAPTER XXVA VISIT TO NEWGATE](/testi/dickens/atomized/sketches_by_boz/story_34_hapter_xxva_visit_to_newgate)
-- [Story 35 HAPTER ITHOUGHTS ABOUT PEOPLE](/testi/dickens/atomized/sketches_by_boz/story_35_hapter_ithoughts_about_people)
-- [Story 36 HAPTER IIA CHRISTMAS DINNER](/testi/dickens/atomized/sketches_by_boz/story_36_hapter_iia_christmas_dinner)
-- [Story 37 HAPTER IIITHE NEW YEAR](/testi/dickens/atomized/sketches_by_boz/story_37_hapter_iiithe_new_year)
-- [Story 38 HAPTER IVMISS EVANS AND THE EAGLE](/testi/dickens/atomized/sketches_by_boz/story_38_hapter_ivmiss_evans_and_the_eagle)
-- [Story 39 HAPTER VTHE PARLOUR ORATOR](/testi/dickens/atomized/sketches_by_boz/story_39_hapter_vthe_parlour_orator)
-- [Story 40 HAPTER VITHE HOSPITAL PATIENT](/testi/dickens/atomized/sketches_by_boz/story_40_hapter_vithe_hospital_patient)
-- [Story 41 HAPTER VIITHE MISPLACED ATTACHMENT OF MR](/testi/dickens/atomized/sketches_by_boz/story_41_hapter_viithe_misplaced_attachment_of_mr)
-- [Story 42 HAPTER VIIITHE MISTAKEN MILLINER A TALE](/testi/dickens/atomized/sketches_by_boz/story_42_hapter_viiithe_mistaken_milliner_a_tale)
-- [Story 43 HAPTER IXTHE DANCING ACADEMY](/testi/dickens/atomized/sketches_by_boz/story_43_hapter_ixthe_dancing_academy)
-- [Story 44 HAPTER XSHABBY GENTEEL PEOPLE](/testi/dickens/atomized/sketches_by_boz/story_44_hapter_xshabby_genteel_people)
-- [Story 45 HAPTER XIMAKING A NIGHT OF IT](/testi/dickens/atomized/sketches_by_boz/story_45_hapter_ximaking_a_night_of_it)
-- [Story 46 HAPTER XIITHE PRISONERS VAN](/testi/dickens/atomized/sketches_by_boz/story_46_hapter_xiithe_prisoners_van)
-- [Story 47 HAPTER ITHE BOARDING HOUSE](/testi/dickens/atomized/sketches_by_boz/story_47_hapter_ithe_boarding_house)
-- [Story 48 HAPTER I](/testi/dickens/atomized/sketches_by_boz/story_48_hapter_i)
-- [Story 49 HAPTER THE SECOND](/testi/dickens/atomized/sketches_by_boz/story_49_hapter_the_second)
-- [Story 50 HAPTER IIMR MINNS AND HIS COUSIN](/testi/dickens/atomized/sketches_by_boz/story_50_hapter_iimr_minns_and_his_cousin)
-- [Story 51 HAPTER IIISENTIMENT](/testi/dickens/atomized/sketches_by_boz/story_51_hapter_iiisentiment)
-- [Story 52 P was seated at the same library table a](/testi/dickens/atomized/sketches_by_boz/story_52_p_was_seated_at_the_same_library_table_a)
-- [Story 53 HAPTER IVTHE TUGGSES AT RAMSGATE](/testi/dickens/atomized/sketches_by_boz/story_53_hapter_ivthe_tuggses_at_ramsgate)
-- [Story 54 Hush The lady paused and stared with a s](/testi/dickens/atomized/sketches_by_boz/story_54_hush_the_lady_paused_and_stared_with_a_s)
-- [Story 55 HAPTER VHORATIO SPARKINS](/testi/dickens/atomized/sketches_by_boz/story_55_hapter_vhoratio_sparkins)
-- [Story 56 HAPTER VITHE BLACK VEIL](/testi/dickens/atomized/sketches_by_boz/story_56_hapter_vithe_black_veil)
-- [Story 57 HAPTER VIITHE STEAM EXCURSION](/testi/dickens/atomized/sketches_by_boz/story_57_hapter_viithe_steam_excursion)
-- [Story 58 I really thought the Ram would have drop](/testi/dickens/atomized/sketches_by_boz/story_58_i_really_thought_the_ram_would_have_drop)
-- [Story 59 HAPTER VIIITHE GREAT WINGLEBURY DUEL](/testi/dickens/atomized/sketches_by_boz/story_59_hapter_viiithe_great_winglebury_duel)
-- [Story 60 HAPTER IXMRS JOSEPH PORTER](/testi/dickens/atomized/sketches_by_boz/story_60_hapter_ixmrs_joseph_porter)
-- [Story 61 HAPTER XA PASSAGE IN THE LIFE OF MR WATK](/testi/dickens/atomized/sketches_by_boz/story_61_hapter_xa_passage_in_the_life_of_mr_watk)
-- [Story 62 HAPTER THE FIRST](/testi/dickens/atomized/sketches_by_boz/story_62_hapter_the_first)
-- [Story 63 HAPTER THE SECOND](/testi/dickens/atomized/sketches_by_boz/story_63_hapter_the_second)
-- [Story 64 HAPTER XITHE BLOOMSBURY CHRISTENING](/testi/dickens/atomized/sketches_by_boz/story_64_hapter_xithe_bloomsbury_christening)
-- [Story 65 HAPTER XIITHE DRUNKARDS DEATH](/testi/dickens/atomized/sketches_by_boz/story_65_hapter_xiithe_drunkards_death)
-- [Story 66 OACH HOUSE PIG AND TINDER BOX](/testi/dickens/atomized/sketches_by_boz/story_66_oach_house_pig_and_tinder_box)
-- [Story 67 OACH HOUSE ORIGINAL PIG](/testi/dickens/atomized/sketches_by_boz/story_67_oach_house_original_pig)
-- [Story 68 ARGE ROOM BOOT JACK AND COUNTENANCE](/testi/dickens/atomized/sketches_by_boz/story_68_arge_room_boot_jack_and_countenance)
-- [Story 69 R ROBERT BOLTON THE GENTLEMAN CONNECTED](/testi/dickens/atomized/sketches_by_boz/story_69_r_robert_bolton_the_gentleman_connected)
+- Story 01 ONDON CHAPMAN HALL ld
+- Story 02 HAPTER ITHE BEADLE THE PARISH ENGINE THE
+- Story 03 HAPTER IITHE CURATE THE OLD LADY THE HAL
+- Story 04 HAPTER IIITHE FOUR SISTERS
+- Story 05 HAPTER IVTHE ELECTION FOR BEADLE
+- Story 06 HAPTER VTHE BROKERS MAN
+- Story 07 R BUNGS NARRATIVE
+- Story 08 HAPTER VITHE LADIES SOCIETIES
+- Story 09 HAPTER VIIOUR NEXT DOOR NEIGHBOUR
+- Story 10 HAPTER ITHE STREETSMORNING
+- Story 11 HAPTER IITHE STREETSNIGHT
+- Story 12 HAPTER IIISHOPS AND THEIR TENANTS
+- Story 13 HAPTER IVSCOTLAND YARD
+- Story 14 HAPTER VSEVEN DIALS
+- Story 15 HAPTER VIMEDITATIONS IN MONMOUTH STREET
+- Story 16 HAPTER VIIHACKNEY COACH STANDS
+- Story 17 HAPTER VIIIDOCTORS COMMONS
+- Story 18 HAPTER IXLONDON RECREATIONS
+- Story 19 HAPTER XTHE RIVER
+- Story 20 HAPTER XIASTLEYS
+- Story 21 HAPTER XIIGREENWICH FAIR
+- Story 22 HAPTER XIIIPRIVATE THEATRES
+- Story 23 HAPTER XIVVAUXHALL GARDENS BY DAY
+- Story 24 HAPTER XVEARLY COACHES
+- Story 25 HAPTER XVIOMNIBUSES
+- Story 26 HAPTER XVIITHE LAST CAB DRIVER AND THE F
+- Story 27 HAPTER XVIIIA PARLIAMENTARY SKETCH
+- Story 28 HAPTER XIXPUBLIC DINNERS
+- Story 29 HAPTER XXTHE FIRST OF MAY
+- Story 30 HAPTER XXIBROKERS AND MARINE STORE SHOPS
+- Story 31 HAPTER XXIIGIN SHOPS
+- Story 32 HAPTER XXIIITHE PAWNBROKERS SHOP
+- Story 33 HAPTER XXIVCRIMINAL COURTS
+- Story 34 HAPTER XXVA VISIT TO NEWGATE
+- Story 35 HAPTER ITHOUGHTS ABOUT PEOPLE
+- Story 36 HAPTER IIA CHRISTMAS DINNER
+- Story 37 HAPTER IIITHE NEW YEAR
+- Story 38 HAPTER IVMISS EVANS AND THE EAGLE
+- Story 39 HAPTER VTHE PARLOUR ORATOR
+- Story 40 HAPTER VITHE HOSPITAL PATIENT
+- Story 41 HAPTER VIITHE MISPLACED ATTACHMENT OF MR
+- Story 42 HAPTER VIIITHE MISTAKEN MILLINER A TALE
+- Story 43 HAPTER IXTHE DANCING ACADEMY
+- Story 44 HAPTER XSHABBY GENTEEL PEOPLE
+- Story 45 HAPTER XIMAKING A NIGHT OF IT
+- Story 46 HAPTER XIITHE PRISONERS VAN
+- Story 47 HAPTER ITHE BOARDING HOUSE
+- Story 48 HAPTER I
+- Story 49 HAPTER THE SECOND
+- Story 50 HAPTER IIMR MINNS AND HIS COUSIN
+- Story 51 HAPTER IIISENTIMENT
+- Story 52 P was seated at the same library table a
+- Story 53 HAPTER IVTHE TUGGSES AT RAMSGATE
+- Story 54 Hush The lady paused and stared with a s
+- Story 55 HAPTER VHORATIO SPARKINS
+- Story 56 HAPTER VITHE BLACK VEIL
+- Story 57 HAPTER VIITHE STEAM EXCURSION
+- Story 58 I really thought the Ram would have drop
+- Story 59 HAPTER VIIITHE GREAT WINGLEBURY DUEL
+- Story 60 HAPTER IXMRS JOSEPH PORTER
+- Story 61 HAPTER XA PASSAGE IN THE LIFE OF MR WATK
+- Story 62 HAPTER THE FIRST
+- Story 63 HAPTER THE SECOND
+- Story 64 HAPTER XITHE BLOOMSBURY CHRISTENING
+- Story 65 HAPTER XIITHE DRUNKARDS DEATH
+- Story 66 OACH HOUSE PIG AND TINDER BOX
+- Story 67 OACH HOUSE ORIGINAL PIG
+- Story 68 ARGE ROOM BOOT JACK AND COUNTENANCE
+- Story 69 R ROBERT BOLTON THE GENTLEMAN CONNECTED
 
 
 ## Testo integrale / Full text

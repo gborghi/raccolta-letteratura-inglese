@@ -1,5 +1,5 @@
 ---
-title: "Napoleon of Notting [[Hill]] — Chapter 2 (part 2)"
+title: "Napoleon of Notting Hill — Chapter 2 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/napoleon-of-notting-hill-(chesterton)"
@@ -10,148 +10,145 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_14/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_14/part_03">part 03 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_14/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_15/part_01">part 01 ›</a></div>
 </nav>
 
 
-"I am now," said the [[King]], "going to write an account of the battle
-by an eye-witness." And he picked up a fourth sheet of wall-paper.
-Almost at the same moment Buck strode quickly into the office.
-He had a bandage round his head.
+When Turnbull saw it, he ceased a moment from fighting,
+and looked round him.  The evening sunlight struck his face;
+it looked like a [[Child|child]]'s.
 
-"I was told," he said with his usual gruff civility, "that your
-Majesty was here."
+"I have had my youth," he said.  Then snatching an axe from a man,
+he dashed into the thick of the spears of Shepherd's Bush,
+and died somewhere far in the depths of their reeling ranks.
+Then the battle roared on; every man of Notting [[Hill]] was
+slain before [[Night|night]].
 
-"And of all things on earth," cried the [[King]], with delight,
-"here is an eye-witness!  An eyewitness who, I regret to observe,
-has at present only one eye to witness with.  Can you write us
-the special article, Buck?  Have you a rich style?"
+Wayne was standing by a tree [[Alone|alone]] after the battle.
+Several men approached him with axes.  One struck at him.
+His foot seemed partly to slip; but he flung his hand out,
+and steadied himself against the tree.
 
-Buck, with a [[Self|self]]-restraint which almost approached politeness,
-took no notice whatever of the [[King]]'s maddening geniality.
+Barker sprang after him, [[Sword|sword]] in hand, and shaking with excitement.
 
-"I took the liberty, your Majesty," he said shortly, "of asking
-Mr. Barker to come here also."
+"How large now, my lord," he cried, "is the Empire of Notting [[Hill]]?"
 
-As he spoke, indeed, Barker came swinging into the office,
-with his usual air of hurry.
+Wayne smiled in the gathering dark.
 
-"What is happening now?" asked Buck, turning to him with a
-kind of relief.
+"Always as large as this," he said, and swept his [[Sword|sword]] round
+in a semicircle of silver.
 
-"Fighting still going on," said Barker.  "The four hundred from
-West Kensington were hardly touched last [[Night|night]].  They hardly got
-near the place.  Poor Wilson's Bayswater men got cut about, though.
-They fought confoundedly [[Well|well]].  They took Pump Street once.
-What mad things do happen in the world.  To think that of all of us
-it should be little Wilson with the red whiskers who came put best."
+Barker dropped, wounded in the neck; and Wilson sprang over his
+[[Body|body]] like a tiger-cat, rushing at Wayne.  At the same moment there
+came behind the Lord of the Red [[Lion]] a cry and a flare of yellow,
+and a mass of the West Kensington halberdiers ploughed up the slope,
+knee-deep in grass, bearing the yellow banner of the [[City|city]] before them,
+and shouting aloud.
 
-The [[King]] made a note on his paper:
+At the same second Wilson went down under Wayne's [[Sword|sword]], seemingly smashed
+like a fly.  The great [[Sword|sword]] [[Rose|rose]] again like, a bird, but Wilson
+seemed to rise with it, and, his [[Sword|sword]] being broken, sprang at
+Wayne's throat like a dog.  The foremost of the yellow halberdiers
+had reached the tree and swung his axe above the struggling Wayne.
+With a curse the [[King]] whirled up his own halberd and dashed
+the blade in the man's face.  He reeled, and rolled, down the slope,
+just as the furious Wilson was flung on his back again.
+And again he was on his feet, and again at Wayne's throat.
+Then he was flung again, but this [[Time|time]] laughing triumphantly.
+Grasped in his hand was the red and yellow favour that Wayne wore
+as Provost of Notting [[Hill]].  He had torn it from the place where it
+had been carried for twenty-five years.
 
-"Romantic Conduct of Mr. Wilson."
+With a shout the West Kensington men closed round Wayne, the great
+yellow banner flapping over his head.
 
-"Yes," said Buck, "it makes one a bit less proud of one's 'h's.' "
+"Where is your favour now, Provost?" cried the West Kensington leader.
+And a laugh went up.
 
-The [[King]] suddenly folded or crumpled up the paper, and put it
-in his pocket.
+Adam struck at the standard-bearer and brought him reeling forward.
+As the banner stooped, he grasped the yellow folds and tore off a shred.
+A halberdier struck him on the shoulder, wounding bloodily.
 
-"I have an idea," he said.  "I will be an eyewitness.  I will write you
-such letters from the Front as will be more gorgeous than the real thing.
-Give me my coat, Paladium.  I entered this room a mere [[King]] of England.
-I leave it, Special War Correspondent of the [[Court]] Journal.
-It is useless to stop me, Pally; it is vain to cling to
-my knees, Buck; it is hopeless, Barker, to weep upon my neck.
-'When duty calls'... the remainder of the sentiment escapes me.
-You will receive my first article this evening by the eight o'[[Clock|clock]] post."
+"Here is one colour!" he cried, pushing the yellow into his belt;
+"and here!" he cried, pointing to his own [[Blood|blood]], "Here is the other."
 
-And, running out of the office, he jumped upon a blue Bayswater
-omnibus that went swinging by.
+At the same instant the shock of a sudden and heavy halberd laid the [[King]]
+stunned or dead.  In the wild visions of vanishing consciousness,
+he saw again something that belonged to an utterly forgotten [[Time|time]],
+something that he had seen somewhere long ago in a restaurant.
+He saw, with his swimming eyes, red and yellow, the colours of Nicaragua.
 
-"[[Well]]," said Barker, gloomily, "[[Well|well]]."
+Quin did not see the end.  Wilson, wild with joy, sprang again
+at [[Adam Wayne]], and the great [[Sword|sword]] of Notting [[Hill]] was whirled
+above once more.  Then men ducked instinctively at the rushing
+noise of the [[Sword|sword]] coming down out of the sky, and Wilson of
+Bayswater was smashed and wiped down upon the floor like a fly.
+Nothing was left of him but a wreck; but the blade that had
+broken him was broken.  In dying he had snapped the great [[Sword|sword]]
+and the spell of it; the [[Sword|sword]] of Wayne was broken, at the hilt.
+One rush of the enemy carried Wayne by force against the tree.
+They were too close to use halberd or even [[Sword|sword]]; they were breast
+to breast, even nostrils to nostrils.  But Buck got his dagger free.
 
-"Barker," said Buck, "business may be lower than politics, but war is,
-as I discovered last [[Night|night]], a long sight more like business.
-You politicians are such ingrained demagogues that even when you
-have a despotism you think of nothing but public opinion.
-So you learn to tack and run, and are afraid of the first breeze.
-Now we stick to a thing and get it.  And our mistakes help us.
-Look here! at this moment we've beaten Wayne."
+"Kill him!" he cried, in a strange stifled voice.  "Kill him!
+Good or bad, he is none of us!  Do not be blinded by the face! ...
+God! have we not been blinded all along!" and he drew his arm back
+for a stab and seemed to close his eyes.
 
-"Beaten Wayne," repeated Barker.
+Wayne did not drop the hand that hung on to the tree-branch. But
+a mighty heave went over his breast, and his whole huge figure,
+like an earthquake over great hills.  And with that convulsion of effort
+he rent the branch out of the tree, with tongues of torn wood.
+And swaying it once only, he let the splintered club fall on Buck,
+breaking his neck.  The planner of the Great [[Road]] fell face
+foremost dead, with his dagger in a grip of steel.
 
-"Why the dickens not?" cried the other, flinging out his hands.
-"Look here.  I said last [[Night|night]] that we had them by holding the
-nine entrances.  [[Well]], I was wrong.  We should have had them but for
-a singular event...the lamps went out.  But for that it was certain.
-Has it occurred to you, my brilliant Barker, that another singular
-event has happened since that singular event of the lamps going out?"
+"For you and me, and for all brave men, my brother," said Wayne,
+in his strange chant, "there is good wine poured in the inn at
+the end of the world."
 
-"What event?" asked Barker.
+The packed men made another lurch or heave towards him; it was
+almost too dark to fight clearly.  He caught hold of the oak again,
+this [[Time|time]] getting his hand into a wide crevice and grasping,
+as it were, the bowels of the tree.  The whole crowd,
+numbering some thirty men, made a rush to tear him away from it;
+they hung on with all their weight and numbers, and nothing stirred.
+A [[Solitude|solitude]] could not have been stiller than that group of straining men.
+Then there was a faint sound.
 
-"By an astounding coincidence, the sun has risen," cried out Buck,
-with a savage air of patience.  "Why the hell aren't we holding all
-those approaches now, and passing in on them again?  It should have
-been done at sunrise.  The confounded doctor wouldn't let me go out.
-You were in command."
+"His hand is slipping," cried two men in exultation.
 
-Barker smiled grimly.
+"You don't know much of him," said another, grimly (a man of
+the old war).  "More likely his bone cracks."
 
-"It is a gratification to me, my dear Buck, to be able
-to say that we anticipated your suggestions precisely.
-We went as early as possible to reconnoitre the nine entrances.
-Unfortunately, while we were fighting each other in the dark,
-like a lot of drunken navvies, Mr. Wayne's friend's were working
-very hard indeed.  Three hundred yards from.  Pump Street, at every one
-of those entrances, there is a barricade nearly as high as the houses.
-They were finishing the last, in Pembridge [[Road]], when we arrived.
-Our mistakes," he cried bitterly, and flung his cigarette on the ground.
-"It is not we who learn from them."
+"It is neither...by God, it is neither!" said one of the first two.
 
-There was a [[Silence|silence]] for a few moments, and Barker lay back wearily
-in a chair.  The office [[Clock|clock]] ticked exactly in the stillness.
+"What is it, then?" asked the second.
 
-At length Barker said suddenly:
+"The tree is falling," he replied.
 
-"Buck, does it ever [[Cross|cross]] your mind what this is all about?
-The Hammersmith to Maida Vale thoroughfare was an uncommonly
-good speculation.  You and I hoped a great deal from it.  But is it
-worth it?  It will cost us thousands to crush this ridiculous riot.
-Suppose we let it [[Alone|alone]]?"
+"As the tree falleth, so shall it lie," said Wayne's voice out of
+the darkness, and it had the same sweet and yet horrible air that it
+had had throughout, of coming from a great distance, from before or
+after the event.  Even when he was struggling like an eel or battering
+like a madman, he spoke like a spectator, "As the tree falleth,
+so shall it lie," he said.  "Men have called that a gloomy text.
+It is the essence of all exultation.  I am doing now what I have done
+all my life, what is the only happiness, what is the only universality.
+I am clinging to something.  Let it fall, and there let it lie.
+Fools, you go about and see the kingdoms of the earth, and are liberal,
+and wise, and cosmopolitan, which is all that the devil can give
+you...all that he could offer to [[Christ]] only to be spurned away.
+I am doing what the truly wise do.  When a [[Child|child]] goes out into the [[Garden|garden]]
+and takes hold of a tree, saying, 'Let this tree be all I have,'
+that moment its roots take hold on hell and its branches on the [[Stars|stars]].
+The joy I have is what the [[Lover|lover]] knows when a woman is everything.
+It is what a savage knows when his idol is everything.
+It is what I know when Notting [[Hill]] is everything.  I have a [[City|city]].
+Let it stand or fall."
 
-"And be thrashed in public by a red-haired madman whom any two
-doctors would lock up?" cried out Buck, starting to his feet.
-"What do you propose to do, Mr. Barker?  To apologize to the admirable
-Mr. Wayne?  To kneel to the Charter of the Cities?  To clasp to your
-bosom the [[Flag|flag]] of the Red [[Lion]]?  To kiss in succession every sacred
-lamp-post that saved Notting [[Hill]]?  No, by God!  My men fought jolly
-[[Well|well]]...they were beaten by a trick.  And they'll fight again."
-
-"Buck," said Barker, "I always admired you.  And you were quite
-right in what you said the other day."
-
-"In what?"
-
-"In saying," said Barker, rising quietly, "that we had all got into
-[[Adam Wayne]]'s atmosphere and out of our own.  My friend, the whole
-territorial kingdom of [[Adam Wayne]] extends to about nine streets,
-with barricades at the end of them.  But the spiritual kingdom
-of [[Adam Wayne]] extends, God knows where...it extends to this office
-at any rate.  The red-haired madman whom any two doctors would
-lock up is filling this room with his roaring, unreasonable [[Soul|soul]].
-And it was the red-haired madman who said the last word you spoke."
-
-Buck walked to the [[Window|window]] without replying.
-
-"You understand, of course," he said at last, "I do not dream
-of giving in."
-
-. . . . .
-
-The [[King]], meanwhile, was rattling along on the top of his blue omnibus.
-The traffic of [[London]] as a whole had not, of course, been greatly
-disturbed by these events, for the affair was treated as a
-Notting [[Hill]] riot, and that area was marked off as if it had been
-in the hands of a gang of recognized rioters.  The blue omnibuses
-simply went round as they would have done if a [[Road|road]] were being mended,
-and the omnibup on which the correspondent of the [[Court]] Journal
-was sitting swept round the corner of [[Queen]]'s [[Road]], Bayswater.
+As he spoke the turf lifted itself like a living thing, and out
+of it [[Rose|rose]] slowly, like crested serpents, the roots of the oak.
+Then the great head of the tree, that seemed a green cloud among
+grey ones, swept the sky suddenly like a broom, and the whole tree
+heeled over like a [[Ship|ship]], smashing every one in its fall.

@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 27 (part 5)"
+title: "Jane Eyre — Chapter 27 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_27/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_27/part_06">part 06 ›</a></div>
 </nav>
 
+
+“‘This life,’ said I at last, ‘is hell: this is the air—those are the
+sounds of the bottomless pit! I have a right to deliver myself from it
+if I can. The sufferings of this mortal state will leave me with the
+heavy flesh that now cumbers my [[Soul|soul]]. Of the fanatic’s burning [[Eternity|eternity]]
+I have no [[Fear|fear]]: there is not a future state worse than this present
+one—let me break away, and go [[Home|home]] to God!’
 
 “I said this whilst I knelt down at and unlocked a trunk which
 contained a brace of loaded pistols: I meant to shoot myself. I only
@@ -107,13 +114,3 @@ me so absolutely rational that I should be considered free to [[Love|love]] and
 be loved, I never doubted some woman might be found willing and able to
 understand my case and accept me, in spite of the curse with which I
 was burdened.”
-
-“[[Well]], sir?”
-
-“When you are inquisitive, Jane, you always make me smile. You open
-your eyes like an eager bird, and make every now and then a restless
-movement, as if answers in speech did not flow fast enough for you, and
-you wanted to read the tablet of one’s heart. But before I go on, tell
-me what you mean by your ‘[[Well]], sir?’ It is a small phrase very
-frequent with you; and which many a [[Time|time]] has drawn me on and on through
-interminable talk: I don’t very [[Well|well]] know why.”

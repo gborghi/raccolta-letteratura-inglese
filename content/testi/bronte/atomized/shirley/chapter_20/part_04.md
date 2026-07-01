@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 20 (part 4)"
+title: "Shirley — Chapter 20 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -12,6 +12,32 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_20/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_20/part_05">part 05 ›</a></div>
 </nav>
+
+
+over him sometimes, and murmured the softest words of pity and
+
+endearment, in tones whose music the old, scarred, canine warrior
+
+acknowledged by licking her hand or her sandal alternately with his own
+
+red wounds. As to John, his lady turned a cold shoulder on him for a
+
+week afterwards.
+
+
+
+Mrs. Gill, remembering this little episode, came "all of a tremble," as
+
+she said herself. In a firm, brief voice Miss Keeldar proceeded to put
+
+questions and give orders. That at such a [[Time|time]] Fieldhead should have
+
+evinced the inhospitality of a miser's hovel stung her haughty spirit to
+
+the quick; and the revolt of its [[Pride|pride]] was seen in the heaving of her
+
+heart, stirred stormily under the lace and silk which veiled it.
+
 
 
 "How long is it since that message came from the mill?"
@@ -209,51 +235,3 @@ be somewhat lighter than the one Miss Keeldar destined you to carry."
 As the vehicle rumbled out of the yard, [[Shirley]], rallying her spirits,
 
 demanded what had become of the wounded.
-
-
-
-"There was not a single man hurt on our side," was the answer.
-
-
-
-"You were hurt yourself, on the temples," interposed a quick, low
-
-voice--that of Caroline, who, having withdrawn within the shade of the
-
-door, and behind the large person of Mrs. Gill, had till now escaped
-
-Moore's notice. When she spoke, his eye searched the obscurity of her
-
-retreat.
-
-
-
-"Are you much hurt?" she inquired.
-
-
-
-"As you might scratch your finger with a needle in sewing."
-
-
-
-"Lift your hair and let us see."
-
-
-
-He took his hat off, and did as he was bid, disclosing only a narrow
-
-slip of [[Court|court]]-plaster. Caroline indicated, by a slight movement of the
-
-head, that she was satisfied, and disappeared within the clear obscure
-
-of the interior.
-
-
-
-"How did she know I was hurt?" asked Moore.
-
-
-
-"By rumour, no [[Doubt|doubt]]. But it is too good in her to trouble herself about
-
-you. For my part, it was of your victims I was thinking when I inquired

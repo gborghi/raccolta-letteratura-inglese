@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 22 (part 3)"
+title: "Jane Eyre — Chapter 22 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_22/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_23/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Pass, Janet,” said he, making room for me to [[Cross|cross]] the stile: “go up
+[[Home|home]], and stay your weary little wandering feet at a friend’s
+threshold.”
+
+All I had now to do was to obey him in [[Silence|silence]]: no need for me to
+colloquise further. I got over the stile without a word, and meant to
+leave him calmly. An impulse held me fast—a force turned me round. I
+said—or something in me said for me, and in spite of me—
 
 “Thank you, Mr. Rochester, for your great kindness. I am strangely glad
 to get back again to you: and wherever you are is my [[Home|home]]—my only
@@ -31,7 +40,7 @@ coming grief. When tea was over and Mrs. Fairfax had taken her
 knitting, and I had assumed a low seat near her, and Adèle, kneeling on
 the carpet, had nestled close up to me, and a sense of mutual affection
 seemed to surround us with a ring of golden peace, I uttered a silent
-[[Prayer|prayer]] that we might not be parted far or soon; but when, as we thus
+[[prayer]] that we might not be parted far or soon; but when, as we thus
 sat, Mr. Rochester entered, unannounced, and looking at us, seemed to
 take pleasure in the spectacle of a group so amicable—when he said he
 supposed the old lady was all right now that she had got her adopted

@@ -1,5 +1,5 @@
 ---
-title: "A Christmas [[carol|Carol]] — Stave 2: THE FIRST OF THE THREE SPIRITS (part 6)"
+title: "A Christmas Carol — Stave 2: THE FIRST OF THE THREE SPIRITS (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-christmas-carol-(dickens)"
@@ -41,7 +41,7 @@ when the master of the [[house]], having his daughter leaning
 fondly on him, sat down with her and her mother at his
 own fireside; and when he thought that such another
 creature, quite as graceful and as full of promise, might
-have called him father, and been a [[Spring|spring]]-[[Time|time]] in the
+have called him father, and been a [[spring]]-[[Time|time]] in the
 haggard [[Winter|winter]] of his life, his sight grew very dim indeed.
 
 "Belle," said the husband, turning to his wife with a

@@ -25,8 +25,8 @@ lurid simplicity as "The Cow with the India-rubber Tongue."
 It sounds rather a good title for a creepy [[Short Story|short story]].
 At the base of the Albert Memorial (I may explain for those
 who have never enjoyed that monument) are four groups
-of statuary representing Europe, Asia, Africa, and [[america|America]].
-[[america|America]] especially is very overwhelming; borne onward on a
+of statuary representing Europe, Asia, Africa, and [[America]].
+[[America]] especially is very overwhelming; borne onward on a
 snorting bison who plunges forward in a fury of western progress,
 and is surrounded with Red Indians, Mexicans, and all sorts
 of pioneers, 0 pioneers, armed to the teeth.  The [[Child|child]] passed this

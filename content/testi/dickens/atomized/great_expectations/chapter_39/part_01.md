@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 39 (part 1)"
+title: "Great Expectations — Chapter 39 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/great-expectations-(dickens)">Great Expectations</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_38/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_39/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_38/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_39/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -131,9 +131,3 @@ contrary, I saw him next moment, once more holding out both his hands
 to me.
 
 “What do you mean?” said I, half suspecting him to be mad.
-
-He stopped in his looking at me, and slowly rubbed his right hand over
-his head. “It’s disapinting to a man,” he said, in a coarse broken
-voice, “arter having looked for’ard so distant, and come so fur; but
-you’re not to blame for that,—neither on us is to blame for that. I’ll
-speak in half a minute. Give me half a minute, please.”

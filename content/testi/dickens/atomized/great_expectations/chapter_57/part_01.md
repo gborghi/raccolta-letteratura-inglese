@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 57 (part 1)"
+title: "Great Expectations — Chapter 57 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/great-expectations-(dickens)">Great Expectations</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_55/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_57/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_56/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_57/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -135,9 +135,3 @@ his hand, and we both felt happy.
 
 “Which you meantersay, Pip, how long have your illness lasted, dear old
 chap?”
-
-“Yes, Joe.”
-
-“It’s the end of May, Pip. To-morrow is the first of June.”
-
-“And have you been here all that [[Time|time]], dear Joe?”

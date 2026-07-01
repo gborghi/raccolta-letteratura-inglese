@@ -1,5 +1,5 @@
 ---
-title: "[[misc]] — THE NAMELESS MAN"
+title: "misc — THE NAMELESS MAN"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -16,21 +16,19 @@ tags:
 
 THE NAMELESS MAN
 
-
 There are only two forms of [[government]] the monarchy or personal
 [[government]], and the republic or impersonal [[government]].  England is not
 a [[government]]; England is an anarchy, because there are so many kings.
 But there is one real advantage (among many real disadvantages)
 in the method of abstract [[democracy]], and that is this:
 that under impersonal [[government]] politics are so much more personal.
-In France and [[america|America]], where the State is an abstraction,
+In France and [[America]], where the State is an abstraction,
 political argument is quite full of human details--some might even
 say of inhuman details.  But in England, precisely because we are
 ruled by personages, these personages do not permit personalities.
 In England names are honoured, and therefore names are suppressed.
 But in the republics, in France especially, a man can put his enemies'
 names into his article and his own name at the end of it.
-
 
 This is the essential condition of such candour.  If we merely made our
 anonymous articles more violent, we should be baser than we are now.

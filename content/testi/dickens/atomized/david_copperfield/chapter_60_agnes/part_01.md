@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 60: AGNES (part 1)"
+title: "David Copperfield — Chapter 60: AGNES (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"

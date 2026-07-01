@@ -203,7 +203,3 @@ CHAPTER 22
 
 
       The discharge to larboard produced the most terrible effect. The
-
-      star and [[Double|double]]-headed shot of the large guns cut seven or eight
-
-      of the rafts completely asunder, and killed, perhaps, thirty or

@@ -105,7 +105,6 @@ that represents our life as dangerous and startling is truer
 than any literature that represents it as dubious and languid.
 For life is a fight and is not a conversation.
 
-
 THE [[Soul|SOUL]] IN EVERY LEGEND
 
 I THINK it was that very fine and subtle writer, Vernon Lee, who lapsed

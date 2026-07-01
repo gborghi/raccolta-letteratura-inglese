@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 49: FORTY NINE (part 3)"
+title: "Martin Chuzzlewit — Chapter 49: FORTY NINE (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_49_forty_nine/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_49_forty_nine/part_04">part 04 ›</a></div>
 </nav>
 
+
+But Betsey Prig expected pickled salmon. It was obvious that she did;
+for her first words, after glancing at the table, were:
 
 ‘I know’d she wouldn’t have a cowcumber!’
 

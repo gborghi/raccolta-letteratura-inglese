@@ -1,5 +1,5 @@
 ---
-title: "Irish Impressions — The [[Paradox]] of Labour"
+title: "Irish Impressions — The Paradox of Labour"
 author: "Chesterton"
 unitType: story
 parentWork: "works/irish-impressions-(chesterton)"
@@ -70,7 +70,7 @@ How far this [[Sublime|sublime]] and suicidal ideal was really useful in revivin
 national enthusiasm, it is for Irishmen to judge; I should have said
 that the enthusiasm was there anyhow. But if any such action is
 based on international hopes, as they affect England or a great part
-of [[america|America]], it seems to me it is founded on a fallacy about the facts.
+of [[America]], it seems to me it is founded on a fallacy about the facts.
 I shall have occasion to note many English errors about the Irish;
 and this seems to me a very notable Irish error about the English.
 If we are often utterly mistaken about their mentality, they were
@@ -312,7 +312,7 @@ proletarian Irish. He made a most admirable speech, to which I
 mean no disparagement when I say that I think his personal
 popularity had even more weight than his personal eloquence.
 My own argument was confined to the particular value of small
-property as a weapon of militant [[Democracy|democracy]]; and was based
+property as a weapon of militant [[democracy]]; and was based
 on the idea that the citizen resisting injustice could find no
 substitute for private property, for every other impersonal power,
 however democratic in theory, must be bureaucratic in form.

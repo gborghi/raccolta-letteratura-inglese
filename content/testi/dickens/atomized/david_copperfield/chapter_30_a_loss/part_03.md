@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 30: A LOSS (part 3)"
+title: "David Copperfield — Chapter 30: A LOSS (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_30_a_loss/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_31_a_greater_loss/part_01">part 01 ›</a></div>
 </nav>
 
+
+The sound of her voice had not reached me, but he bent his head as if he
+listened to her, and then said:
 
 ‘Let you stay with your uncle? Why, you doen’t mean to ask me that! Stay
 with your uncle, Moppet? When your husband that’ll be so soon, is here

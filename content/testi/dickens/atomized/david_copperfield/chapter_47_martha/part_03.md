@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 47: MARTHA (part 3)"
+title: "David Copperfield — Chapter 47: MARTHA (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_47_martha/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_47_martha/part_04">part 04 ›</a></div>
 </nav>
 
+
+His influence upon her was complete. She stood, shrinkingly, before him,
+as if she were afraid to meet his eyes; but her passionate sorrow was
+quite hushed and mute.
+
+‘If you heerd,’ said Mr. Peggotty, ‘owt of what passed between Mas’r
+Davy and me, th’ [[Night|night]] when it snew so hard, you know as I have
+been--wheer not--fur to seek my dear niece. My dear niece,’ he repeated
+steadily. ‘Fur she’s more dear to me now, Martha, than she was dear
+afore.’
 
 She put her hands before her face; but otherwise remained quiet.
 
@@ -122,14 +132,3 @@ healing virtue in him, went away along the desolate [[Road|road]]. She had been
 ill, probably for a long [[Time|time]]. I observed, upon that closer opportunity
 of observation, that she was worn and haggard, and that her sunken eyes
 expressed privation and [[Endurance|endurance]].
-
-We followed her at a short distance, our way lying in the same
-direction, until we came back into the lighted and populous streets. I
-had such implicit confidence in her declaration, that I then put it to
-Mr. Peggotty, whether it would not seem, in the onset, like distrusting
-her, to follow her any farther. He being of the same mind, and equally
-reliant on her, we suffered her to take her own [[Road|road]], and took ours,
-which was towards Highgate. He accompanied me a good part of the way;
-and when we parted, with a [[Prayer|prayer]] for the [[success]] of this fresh effort,
-there was a new and thoughtful compassion in him that I was at no loss
-to interpret.

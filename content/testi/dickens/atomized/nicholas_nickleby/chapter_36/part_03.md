@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 36 (part 3)"
+title: "Nicholas Nickleby — Chapter 36 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_36/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_37/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘It’s no matter, sir,’ said Mr. Kenwigs. ‘I dare say it’s none the
+worse for keeping cold. Message from the country!’ said Mr. Kenwigs,
+ruminating; ‘that’s curious. I don’t know anybody in the country.’
 
 ‘Miss Petowker,’ suggested Nicholas.
 

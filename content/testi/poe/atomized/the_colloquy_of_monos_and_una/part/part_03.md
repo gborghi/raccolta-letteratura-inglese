@@ -1,5 +1,5 @@
 ---
-title: "[[The Colloquy of Monos and Una]] (part 3)"
+title: "The Colloquy of Monos and Una (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-colloquy-of-monos-and-una-(poe)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_colloquy_of_monos_and_una/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/the_colloquy_of_monos_and_una/part/part_04">part 04 ›</a></div>
 </nav>
 
+
+      impediment to vision. As volition was in abeyance, the balls
+
+      could not roll in their sockets but all objects within the range
+
+      of the visual hemisphere were seen with more or less
+
+      distinctness; the rays which fell upon the external retina, or
+
+      into the corner of the eye, producing a more vivid effect than
+
+      those which struck the front or interior surface. Yet, in the
 
       former instance, this effect was so far anomalous that I
 
@@ -179,23 +191,3 @@ tags:
       individual seconds accurately together, yet I had no difficulty
 
       in holding steadily in mind the tones, and the respective
-
-      momentary errors of each. And this—this keen, perfect,
-
-      [[Self|self]]-existing sentiment of duration—this sentiment existing (as
-
-      man could not possibly have conceived it to exist) independently
-
-      of any succession of events—this idea—this sixth sense,
-
-      upspringing from the ashes of the rest, was the first obvious and
-
-      certain step of the intemporal [[Soul|soul]] upon the threshold of the
-
-      temporal [[Eternity]].
-
-
-
-      It was midnight; and you still sat by my side. All others had
-
-      departed from the chamber of [[Death]]. They had deposited me in the

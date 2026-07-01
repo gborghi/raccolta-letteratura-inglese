@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 23 (part 5)"
+title: "Villette — Chapter 23 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,33 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_23/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_24/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Where is Harriet? I wish Harriet would come to me,” said the girlish
+voice, faintly.
+
+“Where is Mrs. Hurst?” demanded the gentleman impatiently and somewhat
+sternly of the man-servant who had admitted us.
+
+“I am sorry to say she is gone out of town, sir; my young lady gave her
+leave till to-morrow.”
+
+“Yes—I did—I did. She is gone to see her sister; I said she might go: I
+remember now,” interposed the young lady; “but I am so sorry, for Manon
+and Louison cannot understand a word I say, and they hurt me without
+meaning to do so.”
+
+Dr. John and the gentleman now interchanged greetings; and while they
+passed a few minutes in consultation, I approached the easy-chair, and
+seeing what the faint and sinking girl wished to have done, I did it
+for her.
+
+I was still occupied in the arrangement, when Graham drew near; he was
+no less skilled in surgery than medicine, and, on examination, found
+that no further advice than his own was necessary to the treatment of
+the present case. He ordered her to be carried to her chamber, and
+whispered to me:—“Go with the women, Lucy; they seem but dull; you can
+at least direct their movements, and thus spare her some [[Pain|pain]]. She must
+be touched very tenderly.”
 
 The chamber was a room shadowy with pale-blue hangings, vaporous with
 curtainings and veilings of muslin; the bed seemed to me like

@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 45"
+title: "Mansfield Park — Chapter 45"
 author: "Austen"
 unitType: chapter
 parentWork: "works/mansfield-park-(austen)"
@@ -110,7 +110,7 @@ of displeasure, or even of hearing her. They were perfectly free from
 any [[Jealousy|jealousy]] of Mansfield. She was as welcome to wish herself there as
 to be there.
 
-It was sad to Fanny to lose all the pleasures of [[spring]]. She had not
+It was sad to Fanny to lose all the pleasures of [[Spring|spring]]. She had not
 known before what pleasures she _had_ to lose in passing March and
 April in a town. She had not known before how much the beginnings and
 progress of vegetation had delighted her. What animation, both of [[Body|body]]
@@ -162,7 +162,7 @@ been so dwelt on. It was weeks since she had heard anything of Miss
 Crawford or of her other connexions in town, except through Mansfield,
 and she was beginning to suppose that she might never know whether Mr.
 Crawford had gone into Norfolk again or not till they met, and might
-never hear from his sister any more this [[spring]], when the following
+never hear from his sister any more this [[Spring|spring]], when the following
 letter was received to revive old and create some new sensations—
 
 “Forgive me, my dear Fanny, as soon as you can, for my long [[Silence|silence]],
@@ -222,7 +222,7 @@ brings no intelligence to prevent my sending it. Mrs. R. knows a
 decline is apprehended; he saw her this morning: she returns to Wimpole
 Street to-day; the old lady is come. Now do not make yourself uneasy
 with any queer fancies because he has been spending a few days at
-Richmond. He does it every [[spring]]. Be assured he cares for nobody but
+Richmond. He does it every [[Spring|spring]]. Be assured he cares for nobody but
 you. At this very moment he is wild to see you, and occupied only in
 contriving the means for doing so, and for making his pleasure conduce
 to yours. In proof, he repeats, and more eagerly, what he said at

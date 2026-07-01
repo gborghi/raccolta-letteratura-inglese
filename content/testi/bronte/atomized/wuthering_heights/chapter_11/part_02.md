@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 11 (part 2)"
+title: "Wuthering Heights — Chapter 11 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_11/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_11/part_03">part 03 ›</a></div>
 </nav>
 
+
+“Judas! Traitor!” I ejaculated. “You are a hypocrite, too, are you? A
+deliberate deceiver.”
 
 “Who is, Nelly?” said Catherine’s voice at my elbow: I had been
 over-intent on watching the pair outside to mark her entrance.
@@ -125,11 +128,3 @@ must you have to remain here, after the language which has been held to
 you by that blackguard? I suppose, because it is his ordinary talk you
 think nothing of it: you are habituated to his baseness, and, perhaps,
 imagine I can get used to it too!”
-
-“Have you been listening at the door, [[Edgar]]?” asked the mistress, in a
-tone particularly calculated to provoke her husband, implying both
-carelessness and contempt of his irritation. [[Heathcliff]], who had raised
-his eyes at the former speech, gave a sneering laugh at the latter; on
-purpose, it seemed, to draw Mr. Linton’s attention to him. He
-succeeded; but [[Edgar]] did not mean to entertain him with any high
-flights of passion.

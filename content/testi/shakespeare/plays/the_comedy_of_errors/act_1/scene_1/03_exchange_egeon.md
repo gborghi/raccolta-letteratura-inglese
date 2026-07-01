@@ -1,5 +1,5 @@
 ---
-title: "The [[Comedy]] of Errors — Act I, Scene 1 — exchange ([[Egeon|EGEON]]) [3]"
+title: "The Comedy of Errors — Act I, Scene 1 — exchange (EGEON) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-comedy-of-errors-(shakespeare)"

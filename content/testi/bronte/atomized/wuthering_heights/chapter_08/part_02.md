@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 8 (part 2)"
+title: "Wuthering Heights — Chapter 8 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_08/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_08/part_03">part 03 ›</a></div>
 </nav>
 
+
+Mrs. Dean raised the candle, and I discerned a soft-featured face,
+exceedingly resembling the young lady at the Heights, but more pensive
+and amiable in expression. It formed a sweet picture. The long light
+hair curled slightly on the temples; the eyes were large and serious;
+the figure almost too graceful. I did not marvel how [[Catherine Earnshaw]]
+could forget her first friend for such an individual. I marvelled much
+how he, with a mind to correspond with his person, could fancy my idea
+of [[Catherine Earnshaw]].
 
 “A very agreeable portrait,” I observed to the [[house]]-keeper. “Is it
 like?”
@@ -112,18 +121,3 @@ for an intrusion. “[[Isabella]] and [[Edgar Linton]] talked of calling this
 afternoon,” she said, at the conclusion of a minute’s [[Silence|silence]]. “As it
 rains, I hardly expect them; but they may come, and if they do, you run
 the risk of being scolded for no good.”
-
-“Order Ellen to say you are engaged, Cathy,” he persisted; “don’t turn
-me out for those pitiful, silly friends of yours! I’m on the point,
-sometimes, of complaining that they—but I’ll not—”
-
-“That they what?” cried Catherine, gazing at him with a troubled
-countenance. “Oh, Nelly!” she added petulantly, jerking her head away
-from my hands, “you’ve combed my hair quite out of curl! That’s enough;
-let me [[Alone|alone]]. What are you on the point of complaining about,
-[[Heathcliff]]?”
-
-“Nothing—only look at the almanack on that wall;” he pointed to a
-framed sheet hanging near the [[Window|window]], and continued, “The crosses are
-for the evenings you have spent with the Lintons, the dots for those
-spent with me. Do you see? I’ve marked every day.”

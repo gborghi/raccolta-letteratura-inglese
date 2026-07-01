@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 2"
+title: "Great Expectations — Chapter 2"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/great-expectations-(dickens)"
@@ -338,7 +338,7 @@ at every turn; I am afraid to think of what I might have done on
 requirement, in the secrecy of my terror.
 
 If I slept at all that [[Night|night]], it was only to imagine myself drifting
-down the [[River|river]] on a strong [[Spring|spring]]-tide, to the Hulks; a ghostly pirate
+down the [[River|river]] on a strong [[spring]]-tide, to the Hulks; a ghostly pirate
 calling out to me through a speaking-trumpet, as I passed the
 gibbet-station, that I had better come ashore and be hanged there at
 once, and not put it off. I was afraid to [[Sleep|sleep]], even if I had been

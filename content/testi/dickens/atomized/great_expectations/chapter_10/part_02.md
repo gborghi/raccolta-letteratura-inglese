@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 10 (part 2)"
+title: "Great Expectations — Chapter 10 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_10/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_11/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Habit? No,” returned the stranger, “but once and away, and on a
+Saturday [[Night|night]] too. Come! Put a name to it, Mr. Gargery.”
 
 “I wouldn’t wish to be stiff company,” said Joe. “Rum.”
 

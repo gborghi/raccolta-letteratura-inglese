@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity]] — The Arrow of Heaven"
+title: "Incredulity — The Arrow of Heaven"
 author: "Chesterton"
 unitType: story
 parentWork: "works/incredulity-(chesterton)"
@@ -49,11 +49,11 @@ His short figure, his short--sighted and undistinguished countenance,
 his rather rusty--black clerical clothes, could pass
 through any crowd in his own country without being noticed
 as anything unusual, except perhaps unusually insignificant.
-But [[america|America]] has a genius for the encouragement of fame;
+But [[America]] has a genius for the encouragement of fame;
 and his appearance in one or two curious criminal problems,
 together with his long association with [[Flambeau]], the ex--
 criminal and [[Detective|detective]], had consolidated a reputation in
-[[america|America]] out of what was little more than a rumour in England.
+[[America]] out of what was little more than a rumour in England.
 His round face was blank with surprise when he found himself
 held up on the quay by a group of journalists, as by a gang
 of brigands, who asked him questions about all the subjects
@@ -1104,7 +1104,7 @@ replied [[Father Brown]].  `Your respect for the law comes rather late,
 Mr Barnard Blake.'
 
 After a pause he resumed in a milder tone:  'I, for one,
-am ready to tell the [[Truth|truth]] if the proper authorities ask me;
+am ready to tell the truth if the proper authorities ask me;
 and the rest of you can do as you like.  But as a fact,
 it will make very little difference.  Wilton only rang me up
 to tell me that I was now free to lay his confession before you;

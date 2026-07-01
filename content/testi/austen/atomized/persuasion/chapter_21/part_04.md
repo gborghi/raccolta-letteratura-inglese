@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 21 (part 4)"
+title: "Persuasion — Chapter 21 (part 4)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -12,6 +12,34 @@ tags:
 <div class="excerpt-crumb">Austen · <a href="/works/persuasion-(austen)">Persuasion</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_21/part_03">‹ part 03</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_21/part_05">part 05 ›</a></div>
 </nav>
+
+
+with me. It was curious, that having just left you behind me in Bath,
+
+my first and principal acquaintance on marrying should be your cousin;
+
+and that, through him, I should be continually hearing of your father
+
+and sister. He described one Miss Elliot, and I thought very
+
+affectionately of the other.”
+
+
+
+“Perhaps,” cried Anne, struck by a sudden idea, “you sometimes spoke of
+
+me to Mr Elliot?”
+
+
+
+“To be sure I did; very often. I used to boast of my own [[Anne Elliot]],
+
+and vouch for your being a very different creature from—”
+
+
+
+She checked herself just in [[Time|time]].
+
 
 
 “This accounts for something which Mr Elliot said last [[Night|night]],” cried
@@ -213,37 +241,3 @@ any thing be stronger?”
 
 
 Anne could not immediately get over the shock and mortification of
-
-finding such words applied to her father. She was obliged to recollect
-
-that her seeing the letter was a violation of the laws of [[Honour|honour]], that
-
-no one ought to be judged or to be known by such testimonies, that no
-
-private correspondence could bear the eye of others, before she could
-
-recover calmness enough to return the letter which she had been
-
-meditating over, and say—
-
-
-
-“Thank you. This is full proof undoubtedly; proof of every thing you
-
-were saying. But why be acquainted with us now?”
-
-
-
-“I can explain this too,” cried Mrs [[smith|Smith]], smiling.
-
-
-
-“Can you really?”
-
-
-
-“Yes. I have shewn you Mr Elliot as he was a dozen years ago, and I
-
-will shew him as he is now. I cannot produce written proof again, but I
-
-can give as authentic oral testimony as you can [[Desire|desire]], of what he is

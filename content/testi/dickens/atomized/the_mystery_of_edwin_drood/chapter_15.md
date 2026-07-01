@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 14"
+title: "The Mystery of Edwin Drood — Chapter 14"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -211,7 +211,7 @@ Up to this point he has been extremely cheerful. Perhaps, the having to
 carry his case with her, and therefore to present it in its brightest
 aspect, has roused his spirits. Perhaps, the having done so with
 [[success]], is followed by a revulsion. As the day closes in, and the
-[[City|city]]-lights begin to [[Spring|spring]] up before them, he grows depressed.
+[[City|city]]-lights begin to [[spring]] up before them, he grows depressed.
 
 “I wish I were not going to this dinner, [[Helena]].”
 

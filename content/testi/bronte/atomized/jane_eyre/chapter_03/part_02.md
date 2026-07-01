@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 3 (part 2)"
+title: "Jane Eyre — Chapter 3 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -165,15 +165,3 @@ place?”
 
 “If I had anywhere else to go, I should be glad to leave it; but I can
 never get away from Gateshead till I am a woman.”
-
-“Perhaps you may—who knows? Have you any relations besides Mrs. Reed?”
-
-“I think not, sir.”
-
-“None belonging to your father?”
-
-“I don’t know: I asked Aunt Reed once, and she said possibly I might
-have some poor, low relations called Eyre, but she knew nothing about
-them.”
-
-“If you had such, would you like to go to them?”

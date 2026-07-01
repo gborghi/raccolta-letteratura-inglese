@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 29 (part 1)"
+title: "Villette — Chapter 29 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -103,7 +103,7 @@ him in his firm conviction that the work was righteous and needed.
 Breakfast being over and mass attended, the school-bell rang and the
 rooms filled: a very pretty spectacle was presented in classe. Pupils
 and teachers sat neatly arrayed, orderly and expectant, each bearing in
-her hand the bouquet of felicitation—the prettiest [[spring]]-[[Flowers|flowers]] all
+her hand the bouquet of felicitation—the prettiest [[Spring|spring]]-[[Flowers|flowers]] all
 fresh, and filling the air with their fragrance: I only had no bouquet.
 I like to see [[Flowers|flowers]] growing, but when they are gathered, they cease
 to please. I look on them as things rootless and perishable; their

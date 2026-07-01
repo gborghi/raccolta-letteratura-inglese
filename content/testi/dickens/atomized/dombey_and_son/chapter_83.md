@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 27"
+title: "Dombey and Son — Chapter 55"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,779 +14,549 @@ tags:
 </nav>
 
 
-CHAPTER XXVII.
-Deeper Shadows
-
-
-Mr Carker the Manager [[Rose|rose]] with the lark, and went out, walking in the
-[[Summer|summer]] day. His meditations—and he meditated with contracted brows
-while he strolled along—hardly seemed to soar as high as the lark, or
-to mount in that direction; rather they kept close to their nest upon
-the earth, and looked about, among the [[Dust|dust]] and worms. But there was
-not a bird in the air, singing unseen, farther beyond the reach of
-human eye than Mr Carker’s thoughts. He had his face so perfectly under
-control, that few could say more, in distinct terms, of its expression,
-than that it smiled or that it pondered. It pondered now, intently. As
-the lark [[Rose|rose]] higher, he sank deeper in thought. As the lark poured out
-her melody clearer and stronger, he fell into a graver and profounder
-[[Silence|silence]]. At length, when the lark came headlong down, with an
-accumulating stream of [[Song|song]], and dropped among the green wheat near
-him, rippling in the breath of the morning like a [[River|river]], he sprang up
-from his reverie, and looked round with a sudden smile, as courteous
-and as soft as if he had had numerous observers to propitiate; nor did
-he relapse, after being thus awakened; but clearing his face, like one
-who bethought himself that it might otherwise wrinkle and tell tales,
-went smiling on, as if for practice.
-
-Perhaps with an eye to first impressions, Mr Carker was very carefully
-and trimly dressed, that morning. Though always somewhat formal, in his
-dress, in [[Imitation|imitation]] of the great man whom he served, he stopped short
-of the extent of Mr Dombey’s stiffness: at once perhaps because he knew
-it to be ludicrous, and because in doing so he found another means of
-expressing his sense of the difference and distance between them. Some
-people quoted him indeed, in this respect, as a pointed commentary, and
-not a flattering one, on his icy patron—but the world is prone to
-misconstruction, and Mr Carker was not accountable for its bad
-propensity.
-
-Clean and florid: with his light complexion, fading as it were, in the
-sun, and his dainty step enhancing the softness of the turf: Mr Carker
-the Manager strolled about meadows, and green lanes, and glided among
-avenues of trees, until it was [[Time|time]] to return to breakfast. Taking a
-nearer way back, Mr Carker pursued it, airing his teeth, and said aloud
-as he did so, “Now to see the second Mrs Dombey!”
-
-He had strolled beyond the town, and re-entered it by a pleasant walk,
-where there was a deep shade of leafy trees, and where there were a few
-benches here and there for those who chose to rest. It not being a
-place of general resort at any hour, and wearing at that [[Time|time]] of the
-still morning the air of being quite deserted and retired, Mr Carker
-had it, or thought he had it, all to himself. So, with the whim of an
-idle man, to whom there yet remained twenty minutes for reaching a
-destination easily able in ten, Mr Carker threaded the great boles of
-the trees, and went passing in and out, before this one and behind
-that, weaving a chain of footsteps on the dewy ground.
-
-But he found he was mistaken in supposing there was no one in the
-grove, for as he softly rounded the trunk of one large tree, on which
-the obdurate bark was knotted and overlapped like the hide of a
-rhinoceros or some kindred [[Monster|monster]] of the ancient days before the
-Flood, he saw an unexpected figure sitting on a bench near at hand,
-about which, in another moment, he would have wound the chain he was
-making.
-
-It was that of a lady, elegantly dressed and very handsome, whose dark
-proud eyes were fixed upon the ground, and in whom some passion or
-struggle was raging. For as she sat looking down, she held a corner of
-her under lip within her mouth, her bosom heaved, her nostril quivered,
-her head trembled, indignant [[Tears|tears]] were on her cheek, and her foot was
-set upon the moss as though she would have crushed it into nothing. And
-yet almost the [[Self|self]]-same glance that showed him this, showed him the
-[[Self|self]]-same lady rising with a scornful air of weariness and lassitude,
-and turning away with nothing expressed in face or figure but careless
-[[Beauty|beauty]] and imperious disdain.
-
-A withered and very ugly old woman, dressed not so much like a gipsy as
-like any of that medley race of vagabonds who tramp about the country,
-begging, and stealing, and tinkering, and weaving rushes, by turns, or
-all together, had been observing the lady, too; for, as she [[Rose|rose]], this
-second figure strangely confronting the first, scrambled up from the
-ground—out of it, it almost appeared—and stood in the way.
-
-“Let me tell your fortune, my pretty lady,” said the old woman,
-munching with her jaws, as if the [[Death]]’s Head beneath her yellow skin
-were impatient to get out.
-
-“I can tell it for myself,” was the reply.
-
-“Ay, ay, pretty lady; but not right. You didn’t tell it right when you
-were sitting there. I see you! Give me a piece of silver, pretty lady,
-and I’ll tell your fortune true. There’s riches, pretty lady, in your
-face.”
-
-“I know,” returned the lady, passing her with a dark smile, and a proud
-step. “I knew it before.
-
-“What! You won’t give me nothing?” cried the old woman. “You won’t give
-me nothing to tell your fortune, pretty lady? How much will you give me
-to tell it, then? Give me something, or I’ll call it after you!”
-croaked the old woman, passionately.
-
-Mr Carker, whom the lady was about to pass close, slinking against his
-tree as she crossed to gain the path, advanced so as to meet her, and
-pulling off his hat as she went by, bade the old woman hold her peace.
-The lady acknowledged his interference with an inclination of the head,
-and went her way.
-
-“You give me something then, or I’ll call it after her!” screamed the
-old woman, throwing up her arms, and pressing forward against his
-outstretched hand. “Or come,” she added, dropping her voice suddenly,
-looking at him earnestly, and seeming in a moment to forget the object
-of her wrath, “give me something, or I’ll call it after you!”
-
-“After me, old lady!” returned the Manager, putting his hand in his
-pocket.
-
-“Yes,” said the woman, steadfast in her scrutiny, and holding out her
-shrivelled hand. “I know!”
-
-“What do you know?” demanded Carker, throwing her a shilling. “Do you
-know who the handsome lady is?”
-
-Munching like that sailor’s wife of yore, who had chestnuts in her lap,
-and scowling like the [[Witch|witch]] who asked for some in vain, the old woman
-picked the shilling up, and going backwards, like a crab, or like a
-heap of crabs: for her alternately expanding and contracting hands
-might have represented two of that species, and her creeping face, some
-half-a-dozen more: crouched on the veinous root of an old tree, pulled
-out a short black pipe from within the [[Crown|crown]] of her bonnet, lighted it
-with a match, and smoked in [[Silence|silence]], looking fixedly at her questioner.
-
-Mr Carker laughed, and turned upon his heel.
-
-“Good!” said the old woman. “One [[Child|child]] dead, and one [[Child|child]] living: one
-wife dead, and one wife coming. Go and meet her!”
-
-In spite of himself, the Manager looked round again, and stopped. The
-old woman, who had not removed her pipe, and was munching and mumbling
-while she smoked, as if in conversation with an invisible familiar,
-pointed with her finger in the direction he was going, and laughed.
-
-“What was that you said, Bedlamite?” he demanded.
-
-The woman mumbled, and chattered, and smoked, and still pointed before
-him; but remained silent Muttering a farewell that was not
-complimentary, Mr Carker pursued his way; but as he turned out of that
-place, and looked over his shoulder at the root of the old tree, he
-could yet see the finger pointing before him, and thought he heard the
-woman screaming, “Go and meet her!”
-
-Preparations for a choice repast were completed, he found, at the
-hotel; and Mr Dombey, and the Major, and the breakfast, were awaiting
-the ladies. Individual constitution has much to do with the development
-of such facts, no [[Doubt|doubt]]; but in this case, appetite carried it hollow
-over the tender passion; Mr Dombey being very cool and collected, and
-the Major fretting and fuming in a state of violent heat and
-irritation. At length the door was thrown open by the Native, and,
-after a pause, occupied by her languishing along the gallery, a very
-blooming, but not very youthful lady, appeared.
-
-“My dear Mr Dombey,” said the lady, “I am afraid we are late, but Edith
-has been out already looking for a favourable point of view for a
-[[Sketch|sketch]], and kept me waiting for her. Falsest of Majors,” giving him her
-little finger, “how do you do?”
-
-“Mrs Skewton,” said Mr Dombey, “let me gratify my friend Carker:” Mr
-Dombey unconsciously emphasised the word friend, as saying ‘no really;
-I do allow him to take credit for that distinction:’ “by presenting him
-to you. You have heard me mention Mr Carker.”
-
-“I am charmed, I am sure,” said Mrs Skewton, graciously.
-
-Mr Carker was charmed, of course. Would he have been more charmed on Mr
-Dombey’s behalf, if Mrs Skewton had been (as he at first supposed her)
-the Edith whom they had toasted overnight?
-
-“Why, where, for Heaven’s sake, is Edith?” exclaimed Mrs Skewton,
-looking round. “Still at the door, giving Withers orders about the
-mounting of those drawings! My dear Mr Dombey, will you have the
-kindness”—
-
-Mr Dombey was already gone to seek her. Next moment he returned,
-bearing on his arm the same elegantly dressed and very handsome lady
-whom Mr Carker had encountered underneath the trees.
-
-“Carker—” began Mr Dombey. But their recognition of each other was so
-manifest, that Mr Dombey stopped surprised.
-
-“I am obliged to the gentleman,” said Edith, with a stately bend, “for
-sparing me some annoyance from an importunate beggar just now.”
-
-“I am obliged to my good fortune,” said Mr Carker, bowing low, “for the
-opportunity of rendering so slight a service to one whose servant I am
-proud to be.”
-
-As her eye rested on him for an instant, and then lighted on the
-ground, he saw in its bright and searching glance a suspicion that he
-had not come up at the moment of his interference, but had secretly
-observed her sooner. As he saw that, she saw in his eye that her
-distrust was not without foundation.
-
-“Really,” cried Mrs Skewton, who had taken this opportunity of
-inspecting Mr Carker through her glass, and satisfying herself (as she
-lisped audibly to the Major) that he was all heart; “really now, this
-is one of the most enchanting coincidences that I ever heard of. The
-idea! My dearest Edith, there is such an obvious destiny in it, that
-really one might almost be induced to [[Cross|cross]] one’s arms upon one’s
-frock, and say, like those wicked Turks, there is no What’s-his-name
-but Thingummy, and What-you-may-call-it is his [[Prophet|prophet]]!”
-
-Edith designed no revision of this extraordinary quotation from the
-Koran, but Mr Dombey felt it necessary to offer a few polite remarks.
-
-“It gives me great pleasure,” said Mr Dombey, with cumbrous gallantry,
-“that a gentleman so nearly connected with myself as Carker is, should
-have had the [[Honour|honour]] and happiness of rendering the least assistance to
-Mrs Granger.” Mr Dombey bowed to her. “But it gives me some [[Pain|pain]], and
-it occasions me to be really envious of Carker;” he unconsciously laid
-stress on these words, as sensible that they must appear to involve a
-very surprising proposition; “envious of Carker, that I had not that
-[[Honour|honour]] and that happiness myself.” Mr Dombey bowed again. Edith, saving
-for a curl of her lip, was motionless.
-
-“By the Lord, Sir,” cried the Major, bursting into speech at sight of
-the waiter, who was come to announce breakfast, “it’s an extraordinary
-thing to me that no one can have the [[Honour|honour]] and happiness of shooting
-all such beggars through the head without being brought to book for it.
-But here’s an arm for Mrs Granger if she’ll do J. B. the [[Honour|honour]] to
-accept it; and the greatest service Joe can render you, Ma’am, just
-now, is, to lead you into table!”
-
-With this, the Major gave his arm to Edith; Mr Dombey led the way with
-Mrs Skewton; Mr Carker went last, smiling on the party.
-
-“I am quite rejoiced, Mr Carker,” said the lady-mother, at breakfast,
-after another approving survey of him through her glass, “that you have
-timed your visit so happily, as to go with us today. It is the most
-enchanting expedition!”
-
-“Any expedition would be enchanting in such society,” returned Carker;
-“but I believe it is, in itself, full of interest.”
-
-“Oh!” cried Mrs Skewton, with a faded little scream of rapture, “the
-[[Castle]] is charming!—associations of the Middle Ages—and all that—which
-is so truly exquisite. Don’t you dote upon the Middle Ages, Mr Carker?”
-
-“Very much, indeed,” said Mr Carker.
-
-“Such charming times!” cried [[Cleopatra]]. “So full of [[Faith|faith]]! So vigorous
-and forcible! So picturesque! So perfectly removed from commonplace! Oh
-dear! If they would only leave us a little more of the poetry of
-existence in these terrible days!”
-
-Mrs Skewton was looking sharp after Mr Dombey all the [[Time|time]] she said
-this, who was looking at Edith: who was listening, but who never lifted
-up her eyes.
-
-“We are dreadfully real, Mr Carker,” said Mrs Skewton; “are we not?”
-
-Few people had less reason to complain of their reality than [[Cleopatra]],
-who had as much that was false about her as could [[Well|well]] go to the
-composition of anybody with a real individual existence. But Mr Carker
-commiserated our reality nevertheless, and agreed that we were very
-hardly used in that regard.
-
-“Pictures at the [[Castle]], quite divine!” said [[Cleopatra]]. “I [[Hope|hope]] you
-dote upon pictures?”
-
-“I assure you, Mrs Skewton,” said Mr Dombey, with solemn encouragement
-of his Manager, “that Carker has a very good taste for pictures; quite
-a natural power of appreciating them. He is a very creditable [[artist]]
-himself. He will be delighted, I am sure, with Mrs Granger’s taste and
-skill.”
-
-“Damme, Sir!” cried [[Major Bagstock]], “my opinion is, that you’re the
-admirable Carker, and can do anything.”
-
-“Oh!” smiled Carker, with [[Humility|humility]], “you are much too sanguine, Major
-Bagstock. I can do very little. But Mr Dombey is so generous in his
-estimation of any trivial accomplishment a man like myself may find it
-almost necessary to acquire, and to which, in his very different
-sphere, he is far superior, that—” Mr Carker shrugged his shoulders,
-deprecating further praise, and said no more.
-
-All this [[Time|time]], Edith never raised her eyes, unless to glance towards
-her mother when that lady’s fervent spirit shone forth in words. But as
-Carker ceased, she looked at Mr Dombey for a moment. For a moment only;
-but with a transient gleam of scornful [[Wonder|wonder]] on her face, not lost on
-one observer, who was smiling round the board.
-
-Mr Dombey caught the dark eyelash in its descent, and took the
-opportunity of arresting it.
-
-“You have been to Warwick often, unfortunately?” said Mr Dombey.
-
-“Several times.”
-
-“The visit will be tedious to you, I am afraid.”
-
-“Oh no; not at all.”
-
-“Ah! You are like your cousin Feenix, my dearest Edith,” said Mrs
-Skewton. “He has been to Warwick [[Castle]] fifty times, if he has been
-there once; yet if he came to Leamington to-morrow—I wish he would,
-dear angel!—he would make his fifty-second visit next day.”
-
-“We are all enthusiastic, are we not, Mama?” said Edith, with a cold
-smile.
-
-“Too much so, for our peace, perhaps, my dear,” returned her mother;
-“but we won’t complain. Our own emotions are our recompense. If, as
-your cousin Feenix says, the [[Sword|sword]] wears out the what’s-its-name—”
-
-“The scabbard, perhaps,” said Edith.
-
-“Exactly—a little too fast, it is because it is bright and glowing, you
-know, my dearest [[Love|love]].”
-
-Mrs Skewton heaved a gentle sigh, supposed to cast a [[Shadow|shadow]] on the
-surface of that dagger of lath, whereof her susceptible bosom was the
-sheath: and leaning her head on one side, in the [[Cleopatra]] manner,
-looked with pensive affection on her darling [[Child|child]].
-
-Edith had turned her face towards Mr Dombey when he first addressed
-her, and had remained in that attitude, while speaking to her mother,
-and while her mother spoke to her, as though offering him her
-attention, if he had anything more to say. There was something in the
-manner of this simple courtesy: almost defiant, and giving it the
-character of being rendered on compulsion, or as a matter of traffic to
-which she was a reluctant party again not lost upon that same observer
-who was smiling round the board. It set him thinking of her as he had
-first seen her, when she had believed herself to be [[Alone|alone]] among the
-trees.
-
-Mr Dombey having nothing else to say, proposed—the breakfast being now
-finished, and the Major gorged, like any Boa Constrictor—that they
-should start. A barouche being in waiting, according to the orders of
-that gentleman, the two ladies, the Major and himself, took their seats
-in it; the Native and the wan page mounted the box, Mr Towlinson being
-left behind; and Mr Carker, on horseback, brought up the rear.
-
-Mr Carker cantered behind the carriage at the distance of a hundred
-yards or so, and watched it, during all the ride, as if he were a cat,
-indeed, and its four occupants, mice. Whether he looked to one side of
-the [[Road|road]], or to the other—over distant landscape, with its smooth
-undulations, [[Wind|wind]]-mills, corn, grass, bean fields, wild-[[Flowers|flowers]],
-farm-yards, hayricks, and the spire among the wood—or upwards in the
-sunny air, where butterflies were sporting round his head, and [[Birds|birds]]
-were pouring out their [[songs]]—or downward, where the shadows of the
-branches interlaced, and made a trembling carpet on the [[Road|road]]—or onward,
-where the overhanging trees formed aisles and arches, dim with the
-softened light that steeped through [[Leaves|leaves]]—one corner of his eye was
-ever on the formal head of Mr Dombey, addressed towards him, and the
-feather in the bonnet, drooping so neglectfully and scornfully between
-them; much as he had seen the haughty eyelids droop; not least so, when
-the face met that now fronting it. Once, and once only, did his wary
-glance release these objects; and that was, when a leap over a low
-hedge, and a gallop across a field, enabled him to anticipate the
-carriage coming by the [[Road|road]], and to be standing ready, at the [[Journey|journey]]’s
-end, to hand the ladies out. Then, and but then, he met her glance for
-an instant in her first surprise; but when he touched her, in
-alighting, with his soft white hand, it overlooked him altogether as
-before.
-
-Mrs Skewton was bent on taking charge of Mr Carker herself, and showing
-him the beauties of the [[Castle]]. She was determined to have his arm, and
-the Major’s too. It would do that incorrigible creature: who was the
-most barbarous infidel in point of poetry: good to be in such company.
-This chance arrangement left Mr Dombey at liberty to escort Edith:
-which he did: stalking before them through the apartments with a
-gentlemanly solemnity.
-
-“Those darling byegone times, Mr Carker,” said [[Cleopatra]], “with their
-delicious fortresses, and their dear old dungeons, and their delightful
-places of torture, and their romantic vengeances, and their picturesque
-assaults and sieges, and everything that makes life truly charming! How
-dreadfully we have degenerated!”
-
-“Yes, we have fallen off deplorably,” said Mr Carker.
-
-The peculiarity of their conversation was, that Mrs Skewton, in spite
-of her ecstasies, and Mr Carker, in spite of his urbanity, were both
-intent on watching Mr Dombey and Edith. With all their conversational
-endowments, they spoke somewhat distractedly, and at random, in
-consequence.
-
-“We have no [[Faith]] left, positively,” said Mrs Skewton, advancing her
-shrivelled ear; for Mr Dombey was saying something to Edith. “We have
-no [[Faith]] in the dear old Barons, who were the most delightful
-creatures—or in the dear old Priests, who were the most warlike of
-men—or even in the days of that inestimable [[Queen]] Bess, upon the wall
-there, which were so extremely golden. Dear creature! She was all Heart
-And that charming father of hers! I [[Hope|hope]] you dote on Harry the Eighth!”
-
-“I admire him very much,” said Carker.
-
-“So bluff!” cried Mrs Skewton, “wasn’t he? So burly. So truly English.
-Such a picture, too, he makes, with his dear little peepy eyes, and his
-benevolent chin!”
-
-“Ah, Ma’am!” said Carker, stopping short; “but if you speak of
-pictures, there’s a composition! What gallery in the world can produce
-the counterpart of that?”
-
-As the smiling gentleman thus spake, he pointed through a doorway to
-where Mr Dombey and Edith were standing [[Alone|alone]] in the centre of another
-room.
-
-They were not interchanging a word or a look. Standing together, arm in
-arm, they had the appearance of being more divided than if seas had
-rolled between them. There was a difference even in the [[Pride|pride]] of the
-two, that removed them farther from each other, than if one had been
-the proudest and the other the humblest specimen of humanity in all
-creation. He, [[Self|self]]-important, unbending, formal, austere. She, lovely
-and graceful, in an uncommon degree, but totally regardless of herself
-and him and everything around, and spurning her own attractions with
-her haughty brow and lip, as if they were a badge or livery she hated.
-So unmatched were they, and opposed, so forced and linked together by a
-chain which adverse hazard and mischance had forged: that fancy might
-have imagined the pictures on the walls around them, startled by the
-unnatural conjunction, and observant of it in their several
-expressions. Grim knights and warriors looked scowling on them. A
-churchman, with his hand upraised, denounced the mockery of such a
-couple coming to God’s altar. Quiet waters in landscapes, with the sun
-reflected in their depths, asked, if better means of escape were not at
-hand, was there no drowning left? Ruins cried, “Look here, and see what
-We are, wedded to uncongenial [[Time]]!” [[Animals]], opposed by [[Nature|nature]],
-worried one another, as a moral to them. Loves and Cupids took to
-flight afraid, and [[Martyrdom]] had no such torment in its painted [[history]]
-of [[Suffering|suffering]].
-
-Nevertheless, Mrs Skewton was so charmed by the sight to which Mr
-Carker invoked her attention, that she could not refrain from saying,
-half aloud, how sweet, how very full of [[Soul|soul]] it was! Edith,
-overhearing, looked round, and flushed indignant scarlet to her hair.
-
-“My dearest Edith knows I was admiring her!” said [[Cleopatra]], tapping
-her, almost timidly, on the back with her parasol. “Sweet pet!”
-
-Again Mr Carker saw the strife he had witnessed so unexpectedly among
-the trees. Again he saw the haughty languor and indifference come over
-it, and hide it like a cloud.
-
-She did not raise her eyes to him; but with a slight peremptory motion
-of them, seemed to bid her mother come near. Mrs Skewton thought it
-expedient to understand the hint, and advancing quickly, with her two
-cavaliers, kept near her daughter from that [[Time|time]].
-
-Mr Carker now, having nothing to distract his attention, began to
-discourse upon the pictures and to select the best, and point them out
-to Mr Dombey: speaking with his usual familiar recognition of Mr
-Dombey’s [[Greatness|greatness]], and rendering homage by adjusting his eye-glass for
-him, or finding out the right place in his catalogue, or holding his
-stick, or the like. These services did not so much originate with Mr
-Carker, in [[Truth|truth]], as with Mr Dombey himself, who was apt to assert his
-chieftainship by saying, with subdued authority, and in an easy way—for
-him—“Here, Carker, have the goodness to assist me, will you?” which the
-smiling gentleman always did with pleasure.
-
-They made the tour of the pictures, the walls, crow’s nest, and so
-forth; and as they were still one little party, and the Major was
-rather in the shade: being sleepy during the process of digestion: Mr
-Carker became communicative and agreeable. At first, he addressed
-himself for the most part to Mrs Skewton; but as that sensitive lady
-was in such ecstasies with the works of art, after the first quarter of
-an hour, that she could do nothing but yawn (they were such perfect
-inspirations, she observed as a reason for that mark of rapture), he
-transferred his attentions to Mr Dombey. Mr Dombey said little beyond
-an occasional “Very true, Carker,” or “Indeed, Carker,” but he tacitly
-encouraged Carker to proceed, and inwardly approved of his behaviour
-very much: deeming it as [[Well|well]] that somebody should talk, and thinking
-that his remarks, which were, as one might say, a branch of the parent
-establishment, might amuse Mrs Granger. Mr Carker, who possessed an
-excellent discretion, never took the liberty of addressing that lady,
-direct; but she seemed to listen, though she never looked at him; and
-once or twice, when he was emphatic in his peculiar [[Humility|humility]], the
-twilight smile stole over her face, not as a light, but as a deep black
-[[Shadow|shadow]].
-
-Warwick [[Castle]] being at length pretty [[Well|well]] exhausted, and the Major
-very much so: to say nothing of Mrs Skewton, whose peculiar
-demonstrations of delight had become very frequent Indeed: the carriage
-was again put in requisition, and they rode to several admired points
-of view in the neighbourhood. Mr Dombey ceremoniously observed of one
-of these, that a [[Sketch|sketch]], however slight, from the fair hand of Mrs
-Granger, would be a remembrance to him of that agreeable day: though he
-wanted no artificial remembrance, he was sure (here Mr Dombey made
-another of his bows), which he must always highly value. Withers the
-lean having Edith’s [[Sketch|sketch]]-book under his arm, was immediately called
-upon by Mrs Skewton to produce the same: and the carriage stopped, that
-Edith might make the drawing, which Mr Dombey was to put away among his
-treasures.
-
-“But I am afraid I trouble you too much,” said Mr Dombey.
-
-“By no means. Where would you wish it taken from?” she answered,
-turning to him with the same enforced attention as before.
-
-Mr Dombey, with another bow, which cracked the starch in his cravat,
-would beg to leave that to the [[artist|Artist]].
-
-“I would rather you chose for yourself,” said Edith.
-
-“Suppose then,” said Mr Dombey, “we say from here. It appears a good
-spot for the purpose, or—Carker, what do you think?”
-
-There happened to be in the foreground, at some little distance, a
-grove of trees, not unlike that in which Mr Carker had made his chain
-of footsteps in the morning, and with a seat under one tree, greatly
-resembling, in the general character of its situation, the point where
-his chain had broken.
-
-“Might I venture to suggest to Mrs Granger,” said Carker, “that that is
-an interesting—almost a curious—point of view?”
-
-She followed the direction of his riding-whip with her eyes, and raised
-them quickly to his face. It was the second glance they had exchanged
-since their introduction; and would have been exactly like the first,
-but that its expression was plainer.
-
-“Will you like that?” said Edith to Mr Dombey.
-
-“I shall be charmed,” said Mr Dombey to Edith.
-
-Therefore the carriage was driven to the spot where Mr Dombey was to be
-charmed; and Edith, without moving from her seat, and opening her
-[[Sketch|sketch]]-book with her usual proud indifference, began to [[Sketch|sketch]].
-
-“My pencils are all pointless,” she said, stopping and turning them
-over.
-
-“Pray allow me,” said Mr Dombey. “Or Carker will do it better, as he
-understands these things. Carker, have the goodness to see to these
-pencils for Mrs Granger.”
-
-Mr Carker rode up close to the carriage-door on Mrs Granger’s side, and
-letting the rein fall on his [[Horse|horse]]’s neck, took the pencils from her
-hand with a smile and a bow, and sat in the saddle leisurely [[mending]]
-them. Having done so, he begged to be allowed to hold them, and to hand
-them to her as they were required; and thus Mr Carker, with many
-commendations of Mrs Granger’s extraordinary skill—especially in
-trees—remained—close at her side, looking over the drawing as she made
-it. Mr Dombey in the meantime stood bolt upright in the carriage like a
-highly respectable [[Ghost|ghost]], looking on too; while [[Cleopatra]] and the Major
-dallied as two ancient doves might do.
-
-“Are you satisfied with that, or shall I finish it a little more?” said
-Edith, showing the [[Sketch|sketch]] to Mr Dombey.
-
-Mr Dombey begged that it might not be touched; it was perfection.
-
-“It is most extraordinary,” said Carker, bringing every one of his red
-gums to bear upon his praise. “I was not prepared for anything so
-beautiful, and so unusual altogether.”
-
-This might have applied to the sketcher no less than to the [[Sketch|sketch]]; but
-Mr Carker’s manner was openness itself—not as to his mouth [[Alone|alone]], but
-as to his whole spirit. So it continued to be while the drawing was
-laid aside for Mr Dombey, and while the sketching materials were put
-up; then he handed in the pencils (which were received with a distant
-acknowledgment of his help, but without a look), and tightening his
-rein, fell back, and followed the carriage again.
-
-Thinking, perhaps, as he rode, that even this trivial [[Sketch|sketch]] had been
-made and delivered to its owner, as if it had been bargained for and
-bought. Thinking, perhaps, that although she had assented with such
-perfect readiness to his request, her haughty face, bent over the
-drawing, or glancing at the distant objects represented in it, had been
-the face of a proud woman, engaged in a sordid and miserable
-transaction. Thinking, perhaps, of such things: but smiling certainly,
-and while he seemed to look about him freely, in enjoyment of the air
-and exercise, keeping always that sharp corner of his eye upon the
-carriage.
-
-A stroll among the haunted ruins of Kenilworth, and more rides to more
-points of view: most of which, Mrs Skewton reminded Mr Dombey, Edith
-had already sketched, as he had seen in looking over her drawings:
-brought the day’s expedition to a close. Mrs Skewton and Edith were
-driven to their own lodgings; Mr Carker was graciously invited by
-[[Cleopatra]] to return thither with Mr Dombey and the Major, in the
-evening, to hear some of Edith’s music; and the three gentlemen
-repaired to their hotel to dinner.
-
-The dinner was the counterpart of yesterday’s, except that the Major
-was twenty-four hours more triumphant and less mysterious. Edith was
-toasted again. Mr Dombey was again agreeably embarrassed. And Mr Carker
-was full of interest and praise.
-
-There were no other visitors at Mrs Skewton’s. Edith’s drawings were
-strewn about the room, a little more abundantly than usual perhaps; and
-Withers, the wan page, handed round a little stronger tea. The harp was
-there; the piano was there; and Edith sang and played. But even the
-music was played by Edith to Mr Dombey’s order, as it were, in the same
-uncompromising way. As thus.
-
-“Edith, my dearest [[Love|love]],” said Mrs Skewton, half an hour after tea, “Mr
-Dombey is dying to hear you, I know.”
-
-“Mr Dombey has life enough left to say so for himself, Mama, I have no
-[[Doubt|doubt]].”
-
-“I shall be immensely obliged,” said Mr Dombey.
-
-“What do you wish?”
-
-“Piano?” hesitated Mr Dombey.
-
-“Whatever you please. You have only to choose.”
-
-Accordingly, she began with the piano. It was the same with the harp;
-the same with her singing; the same with the selection of the pieces
-that she sang and played. Such frigid and constrained, yet prompt and
-pointed acquiescence with the wishes he imposed upon her, and on no one
-else, was sufficiently remarkable to penetrate through all the
-mysteries of picquet, and impress itself on Mr Carker’s keen attention.
-Nor did he lose sight of the fact that Mr Dombey was evidently proud of
-his power, and liked to show it.
-
-Nevertheless, Mr Carker played so [[Well|well]]—some games with the Major, and
-some with [[Cleopatra]], whose vigilance of eye in respect of Mr Dombey and
-Edith no lynx could have surpassed—that he even heightened his position
-in the lady-mother’s good graces; and when on taking leave he regretted
-that he would be obliged to return to [[London]] next morning, [[Cleopatra]]
-trusted: community of feeling not being met with every day: that it was
-far from being the last [[Time|time]] they would meet.
-
-“I [[Hope|hope]] so,” said Mr Carker, with an expressive look at the couple in
-the distance, as he drew towards the door, following the Major. “I
-think so.”
-
-Mr Dombey, who had taken a stately leave of Edith, bent, or made some
-approach to a bend, over [[Cleopatra]]’s couch, and said, in a low voice:
-
-“I have requested Mrs Granger’s permission to call on her to-morrow
-morning—for a purpose—and she has appointed twelve o’[[Clock|clock]]. May I [[Hope|hope]]
-to have the pleasure of finding you at [[Home|home]], Madam, afterwards?”
-
-[[Cleopatra]] was so much fluttered and moved, by hearing this, of course,
-incomprehensible speech, that she could only shut her eyes, and shake
-her head, and give Mr Dombey her hand; which Mr Dombey, not exactly
-knowing what to do with, dropped.
-
-“Dombey, come along!” cried the Major, looking in at the door. “Damme,
-Sir, old Joe has a great mind to propose an alteration in the name of
-the Royal Hotel, and that it should be called the Three Jolly
-Bachelors, in [[Honour|honour]] of ourselves and Carker.” With this, the Major
-slapped Mr Dombey on the back, and winking over his shoulder at the
-ladies, with a frightful tendency of [[Blood|blood]] to the head, carried him
-off.
-
-Mrs Skewton reposed on her sofa, and Edith sat apart, by her harp, in
-[[Silence|silence]]. The mother, trifling with her fan, looked stealthily at the
-daughter more than once, but the daughter, brooding gloomily with
-downcast eyes, was not to be disturbed.
-
-Thus they remained for a long hour, without a word, until Mrs Skewton’s
-maid appeared, according to custom, to prepare her gradually for [[Night|night]].
-At [[Night|night]], she should have been a [[skeleton]], with dart and hour-glass,
-rather than a woman, this attendant; for her touch was as the touch of
-[[Death]]. The painted object shrivelled underneath her hand; the form
-collapsed, the hair dropped off, the arched dark eyebrows changed to
-scanty tufts of grey; the pale lips shrunk, the skin became cadaverous
-and loose; an old, worn, yellow, nodding woman, with red eyes, [[Alone|alone]]
-remained in [[Cleopatra]]’s place, huddled up, like a slovenly bundle, in a
-greasy flannel gown.
-
-The very voice was changed, as it addressed Edith, when they were [[Alone|alone]]
-again.
-
-“Why don’t you tell me,” it said sharply, “that he is coming here
-to-morrow by appointment?”
-
-“Because you know it,” returned Edith, “Mother.”
-
-The mocking emphasis she laid on that one word!
-
-“You know he has bought me,” she resumed. “Or that he will, to-morrow.
-He has considered of his bargain; he has shown it to his friend; he is
-even rather proud of it; he thinks that it will suit him, and may be
-had sufficiently cheap; and he will buy to-morrow. God, that I have
-lived for this, and that I feel it!”
-
-Compress into one handsome face the conscious [[Self|self]]-abasement, and the
-burning indignation of a hundred women, strong in passion and in [[Pride|pride]];
-and there it hid itself with two white shuddering arms.
-
-“What do you mean?” returned the angry mother. “Haven’t you from a
-[[Child|child]]—”
-
-“A [[Child|child]]!” said Edith, looking at her, “when was I a [[Child|child]]? What
-[[Childhood|childhood]] did you ever leave to me? I was a woman—artful, designing,
-mercenary, laying snares for men—before I knew myself, or you, or even
-understood the base and wretched aim of every new display I learnt You
-gave birth to a woman. Look upon her. She is in her [[Pride|pride]] tonight.”
-
-And as she spoke, she struck her hand upon her beautiful bosom, as
-though she would have beaten down herself.
-
-“Look at me,” she said, “who have never known what it is to have an
-honest heart, and [[Love|love]]. Look at me, taught to scheme and plot when
-children play; and married in my youth—an old age of design—to one for
-whom I had no feeling but indifference. Look at me, whom he left a
-widow, dying before his inheritance descended to him—a judgment on you!
-[[Well|well]] deserved!—and tell me what has been my life for ten years since.”
-
-“We have been making every effort to endeavour to secure to you a good
-establishment,” rejoined her mother. “That has been your life. And now
-you have got it.”
-
-“There is no slave in a market: there is no [[Horse|horse]] in a fair: so shown
-and offered and examined and paraded, Mother, as I have been, for ten
-shameful years,” cried Edith, with a burning brow, and the same bitter
-emphasis on the one word. “Is it not so? Have I been made the bye-word
-of all kinds of men? Have fools, have profligates, have boys, have
-dotards, dangled after me, and one by one rejected me, and fallen off,
-because you were too plain with all your cunning: yes, and too true,
-with all those false pretences: until we have almost come to be
-notorious? The licence of look and touch,” she said, with flashing
-eyes, “have I submitted to it, in half the places of resort upon the
-map of England? Have I been hawked and vended here and there, until the
-last grain of [[Self|self]]-respect is dead within me, and I loathe myself? Has
-been my late [[Childhood|childhood]]? I had none before. Do not tell me that I had,
-tonight of all nights in my life!”
-
-“You might have been [[Well|well]] married,” said her mother, “twenty times at
-least, Edith, if you had given encouragement enough.”
-
-“No! Who takes me, refuse that I am, and as I [[Well|well]] deserve to be,” she
-answered, raising her head, and trembling in her energy of shame and
-stormy [[Pride|pride]], “shall take me, as this man does, with no art of mine put
-forth to lure him. He sees me at the auction, and he thinks it [[Well|well]] to
-buy me. Let him! When he came to view me—perhaps to bid—he required to
-see the roll of my accomplishments. I gave it to him. When he would
-have me show one of them, to justify his purchase to his men, I require
-of him to say which he demands, and I exhibit it. I will do no more. He
-makes the purchase of his own will, and with his own sense of its
-worth, and the power of his money; and I [[Hope|hope]] it may never disappoint
-him. I have not vaunted and pressed the bargain; neither have you, so
-far as I have been able to prevent you.
-
-“You talk strangely tonight, Edith, to your own Mother.”
-
-“It seems so to me; stranger to me than you,” said Edith. “But my
-[[Education|education]] was completed long ago. I am too old now, and have fallen too
-low, by degrees, to take a new course, and to stop yours, and to help
-myself. The germ of all that purifies a woman’s breast, and makes it
-true and good, has never stirred in mine, and I have nothing else to
-sustain me when I despise myself.” There had been a touching sadness in
-her voice, but it was gone, when she went on to say, with a curled lip,
-“So, as we are genteel and poor, I am content that we should be made
-rich by these means; all I say is, I have kept the only purpose I have
-had the strength to form—I had almost said the power, with you at my
-side, Mother—and have not tempted this man on.”
-
-“This man! You speak,” said her mother, “as if you hated him.”
-
-“And you thought I loved him, did you not?” she answered, stopping on
-her way across the room, and looking round. “Shall I tell you,” she
-continued, with her eyes fixed on her mother, “who already knows us
-thoroughly, and reads us right, and before whom I have even less of
-[[Self|self]]-respect or confidence than before my own inward [[Self|self]]; being so
-much degraded by his knowledge of me?”
-
-“This is an attack, I suppose,” returned her mother coldly, “on poor,
-unfortunate what’s-his-name—Mr Carker! Your want of [[Self|self]]-respect and
-confidence, my dear, in reference to that person (who is very
-agreeable, it strikes me), is not likely to have much effect on your
-establishment. Why do you look at me so hard? Are you ill?”
-
-Edith suddenly let fall her face, as if it had been stung, and while
-she pressed her hands upon it, a terrible tremble crept over her whole
-frame. It was quickly gone; and with her usual step, she passed out of
-the room.
-
-The maid who should have been a [[skeleton]], then reappeared, and giving
-one arm to her mistress, who appeared to have taken off her manner with
-her charms, and to have put on paralysis with her flannel gown,
-collected the ashes of [[Cleopatra]], and carried them away in the other,
-ready for tomorrow’s revivification.
+CHAPTER LV.
+Rob the Grinder loses his Place
+
+
+The Porter at the iron gate which shut the [[Court|court]]-yard from the street,
+had left the little wicket of his [[house]] open, and was gone away; no
+[[Doubt|doubt]] to mingle in the distant noise at the door of the great
+staircase. Lifting the latch softly, Carker crept out, and shutting the
+jangling gate after him with as little noise as possible, hurried off.
+
+In the fever of his mortification and unavailing rage, the panic that
+had seized upon him mastered him completely. It [[Rose|rose]] to such a height
+that he would have blindly encountered almost any risk, rather than
+meet the man of whom, two hours ago, he had been utterly regardless.
+His fierce arrival, which he had never expected; the sound of his
+voice; their having been so near a meeting, face to face; he would have
+braved out this, after the first momentary shock of alarm, and would
+have put as bold a front upon his [[Guilt|guilt]] as any [[Villain|villain]]. But the
+springing of his mine upon himself, seemed to have rent and shivered
+all his hardihood and [[Self-Reliance|self-reliance]]. Spurned like any reptile;
+entrapped and mocked; turned upon, and trodden down by the proud woman
+whose mind he had slowly poisoned, as he thought, until she had sunk
+into the mere creature of his pleasure; undeceived in his deceit, and
+with his fox’s hide stripped off, he sneaked away, abashed, degraded,
+and afraid.
+
+Some other terror came upon him quite removed from this of being
+pursued, suddenly, like an electric shock, as he was creeping through
+the streets Some visionary terror, unintelligible and inexplicable,
+associated with a trembling of the ground,—a rush and sweep of
+something through the air, like [[Death]] upon the wing. He shrunk, as if
+to let the thing go by. It was not gone, it never had been there, yet
+what a startling horror it had left behind.
+
+He raised his wicked face so full of trouble, to the [[Night|night]] sky, where
+the [[Stars|stars]], so full of peace, were shining on him as they had been when
+he first stole out into the air; and stopped to think what he should
+do. The dread of being hunted in a strange remote place, where the laws
+might not protect him—the novelty of the feeling that it was strange
+and remote, originating in his being left [[Alone|alone]] so suddenly amid the
+ruins of his plans—his greater dread of seeking refuge now, in [[Italy]] or
+in Sicily, where men might be hired to assassinate him, he thought, at
+any dark street corner—the waywardness of [[Guilt|guilt]] and [[Fear|fear]]—perhaps some
+sympathy of action with the turning back of all his schemes—impelled
+him to turn back too, and go to England.
+
+“I am safer there, in any case. If I should not decide,” he thought,
+“to give this [[Fool|fool]] a meeting, I am less likely to be traced there, than
+abroad here, now. And if I should (this cursed fit being over), at
+least I shall not be [[Alone|alone]], without a [[Soul|soul]] to speak to, or advise with,
+or stand by me. I shall not be run in upon and worried like a rat.”
+
+He muttered Edith’s name, and clenched his hand. As he crept along, in
+the [[Shadow|shadow]] of the massive buildings, he set his teeth, and muttered
+dreadful imprecations on her head, and looked from side to side, as if
+in search of her. Thus, he stole on to the gate of an inn-yard. The
+people were a-bed; but his ringing at the bell soon produced a man with
+a lantern, in company with whom he was presently in a dim coach-[[house]],
+bargaining for the hire of an old phaeton, to [[Paris]].
+
+The bargain was a short one; and the horses were soon sent for. Leaving
+word that the carriage was to follow him when they came, he stole away
+again, beyond the town, past the old ramparts, out on the open [[Road|road]],
+which seemed to glide away along the dark plain, like a stream.
+
+Whither did it flow? What was the end of it? As he paused, with some
+such suggestion within him, looking over the gloomy flat where the
+slender trees marked out the way, again that flight of [[Death]] came
+rushing up, again went on, impetuous and resistless, again was nothing
+but a horror in his mind, dark as the scene and undefined as its
+remotest verge.
+
+There was no [[Wind|wind]]; there was no passing [[Shadow|shadow]] on the deep shade of the
+[[Night|night]]; there was no noise. The [[City|city]] lay behind him, lighted here and
+there, and starry worlds were hidden by the masonry of spire and roof
+that hardly made out any shapes against the sky. Dark and lonely
+distance lay around him everywhere, and the clocks were faintly
+striking two.
+
+He went forward for what appeared a long [[Time|time]], and a long way; often
+stopping to listen. At last the ringing of horses’ [[Bells|bells]] greeted his
+anxious ears. Now softer, and now louder, now inaudible, now ringing
+very slowly over bad ground, now brisk and merry, it came on; until
+with a loud shouting and lashing, a shadowy postillion muffled to the
+eyes, checked his four struggling horses at his side.
+
+“Who goes there! Monsieur?”
+
+“Yes.”
+
+“Monsieur has walked a long way in the dark midnight.”
+
+“No matter. Everyone to his task. Were there any other horses ordered
+at the Post-[[house]]?”
+
+“A thousand devils!—and pardons! other horses? at this hour? No.”
+
+“Listen, my friend. I am much hurried. Let us see how fast we can
+travel! The faster, the more money there will be to drink. Off we go
+then! Quick!”
+
+“Halloa! whoop! Halloa! Hi!” Away, at a gallop, over the black
+landscape, scattering the [[Dust|dust]] and dirt like spray!
+
+The clatter and commotion echoed to the hurry and discordance of the
+fugitive’s ideas. Nothing clear without, and nothing clear within.
+Objects flitting past, merging into one another, dimly descried,
+confusedly lost sight of, gone! Beyond the changing scraps of fence and
+cottage immediately upon the [[Road|road]], a lowering waste. Beyond the
+shifting images that [[Rose|rose]] up in his mind and vanished as they showed
+themselves, a black expanse of dread and rage and baffled villainy.
+Occasionally, a sigh of mountain air came from the distant Jura, fading
+along the plain. Sometimes that rush which was so furious and horrible,
+again came sweeping through his fancy, passed away, and left a chill
+upon his [[Blood|blood]].
+
+The lamps, gleaming on the medley of horses’ heads, jumbled with the
+shadowy driver, and the fluttering of his cloak, made a thousand
+indistinct shapes, answering to his thoughts. Shadows of familiar
+people, stooping at their desks and books, in their remembered
+attitudes; strange apparitions of the man whom he was flying from, or
+of Edith; repetitions in the ringing [[Bells|bells]] and [[rolling]] wheels, of words
+that had been spoken; confusions of [[Time|time]] and place, making last [[Night|night]] a
+month ago, a month ago last [[Night|night]]—[[Home|home]] now distant beyond [[Hope|hope]], now
+instantly accessible; commotion, discord, hurry, darkness, and
+confusion in his mind, and all around him.—Hallo! Hi! away at a gallop
+over the black landscape; [[Dust|dust]] and dirt flying like spray, the smoking
+horses snorting and plunging as if each of them were ridden by a demon,
+away in a frantic triumph on the dark [[Road|road]]—whither?
+
+[Illustration]
+
+Again the nameless shock comes speeding up, and as it passes, [[The Bells|the bells]]
+ring in his ears “whither?” The wheels roar in his ears “whither?” All
+the noise and rattle shapes itself into that cry. The lights and
+shadows [[Dance|dance]] upon the horses’ heads like imps. No stopping now: no
+slackening! On, on! Away with him upon the dark [[Road|road]] wildly!
+
+He could not think to any purpose. He could not separate one subject of
+reflection from another, sufficiently to dwell upon it, by itself, for
+a minute at a [[Time|time]]. The crash of his project for the gaining of a
+voluptuous compensation for past restraint; the overthrow of his
+treachery to one who had been true and generous to him, but whose least
+proud word and look he had treasured up, at interest, for years—for
+false and subtle men will always secretly despise and dislike the
+object upon which they fawn and always resent the payment and receipt
+of homage that they know to be worthless; these were the themes
+uppermost in his mind. A lurking rage against the woman who had so
+entrapped him and avenged herself was always there; crude and misshapen
+schemes of retaliation upon her, floated in his brain; but nothing was
+distinct. A hurry and contradiction pervaded all his thoughts. Even
+while he was so busy with this fevered, ineffectual thinking, his one
+constant idea was, that he would postpone reflection until some
+indefinite [[Time|time]].
+
+Then, the old days before the second [[Marriage|marriage]] [[Rose|rose]] up in his
+remembrance. He thought how jealous he had been of the boy, how jealous
+he had been of the girl, how artfully he had kept intruders at a
+distance, and drawn a circle round his dupe that none but himself
+should [[Cross|cross]]; and then he thought, had he done all this to be flying
+now, like a scared thief, from only the poor dupe?
+
+He could have laid hands upon himself for his cowardice, but it was the
+very [[Shadow|shadow]] of his defeat, and could not be separated from it. To have
+his confidence in his own knavery so shattered at a blow—to be within
+his own knowledge such a miserable tool—was like being paralysed. With
+an impotent ferocity he raged at Edith, and hated Mr Dombey and hated
+himself, but still he fled, and could do nothing else.
+
+Again and again he listened for the sound of wheels behind. Again and
+again his fancy heard it, coming on louder and louder. At last he was
+so persuaded of this, that he cried out, “Stop” preferring even the
+loss of ground to such uncertainty.
+
+The word soon brought carriage, horses, driver, all in a heap together,
+across the [[Road|road]].
+
+“The devil!” cried the driver, looking over his shoulder, “what’s the
+matter?”
+
+“Hark! What’s that?”
+
+“What?”
+
+“That noise?”
+
+“Ah Heaven, be quiet, cursed brigand!” to a [[Horse|horse]] who shook his [[Bells|bells]]
+“What noise?”
+
+“Behind. Is it not another carriage at a gallop? There! what’s that?”
+
+“Miscreant with a Pig’s head, stand still!” to another [[Horse|horse]], who bit
+another, who frightened the other two, who plunged and backed. “There
+is nothing coming.”
+
+“Nothing.”
+
+“No, nothing but the day yonder.”
+
+“You are right, I think. I hear nothing now, indeed. Go on!”
+
+The entangled equipage, half hidden in the reeking cloud from the
+horses, goes on slowly at first, for the driver, checked unnecessarily
+in his progress, sulkily takes out a pocket-knife, and puts a new lash
+to his whip. Then “Hallo, whoop! Hallo, hi!” Away once more, savagely.
+
+And now the [[Stars|stars]] faded, and the day glimmered, and standing in the
+carriage, looking back, he could discern the track by which he had
+come, and see that there was no traveller within view, on all the heavy
+expanse. And soon it was broad day, and the sun began to shine on
+cornfields and vineyards; and solitary labourers, risen from little
+temporary huts by heaps of stones upon the [[Road|road]], were, here and there,
+at work repairing the highway, or eating bread. By and by, there were
+peasants going to their daily labour, or to market, or lounging at the
+doors of poor cottages, gazing idly at him as he passed. And then there
+was a postyard, ankle-deep in mud, with steaming dunghills and vast
+outhouses half ruined; and looking on this dainty prospect, an immense,
+old, shadeless, glaring, stone chateau, with half its windows blinded,
+and green damp crawling lazily over it, from the balustraded terrace to
+the taper tips of the extinguishers upon the turrets.
+
+Gathered up moodily in a corner of the carriage, and only intent on
+going fast—except when he stood up, for a mile together, and looked
+back; which he would do whenever there was a piece of open country—he
+went on, still postponing thought indefinitely, and still always
+tormented with thinking to no purpose.
+
+Shame, disappointment, and discomfiture gnawed at his heart; a constant
+apprehension of being overtaken, or met—for he was groundlessly afraid
+even of travellers, who came towards him by the way he was
+going—oppressed him heavily. The same intolerable awe and dread that
+had come upon him in the [[Night|night]], returned unweakened in the day. The
+monotonous ringing of [[The Bells|the bells]] and tramping of the horses; the
+monotony of his anxiety, and useless rage; the monotonous [[Wheel|wheel]] of
+[[Fear|fear]], regret, and passion, he kept turning round and round; made the
+[[Journey|journey]] like a vision, in which nothing was quite real but his own
+torment.
+
+It was a vision of long roads, that stretched away to an horizon,
+always receding and never gained; of ill-paved towns, up [[Hill|hill]] and down,
+where faces came to dark doors and ill-glazed windows, and where rows
+of mudbespattered cows and oxen were tied up for sale in the long
+narrow streets, butting and lowing, and receiving blows on their blunt
+heads from bludgeons that might have beaten them in; of bridges,
+crosses, churches, postyards, new horses being put in against their
+wills, and the horses of the last stage reeking, panting, and laying
+their drooping heads together dolefully at stable doors; of little
+cemeteries with black crosses settled sideways in the graves, and
+withered wreaths upon them dropping away; again of long, long roads,
+dragging themselves out, up [[Hill|hill]] and down, to the treacherous horizon.
+
+Of morning, [[Noon|noon]], and sunset; [[Night|night]], and the rising of an early [[Moon|moon]].
+Of long roads temporarily left behind, and a rough pavement reached; of
+battering and clattering over it, and looking up, among [[house]]-roofs, at
+a great church-tower; of getting out and eating hastily, and drinking
+draughts of wine that had no cheering influence; of coming forth afoot,
+among a host of beggars—blind men with quivering eyelids, led by old
+women holding candles to their faces; idiot girls; the lame, the
+epileptic, and the palsied—of passing through the clamour, and looking
+from his seat at the upturned countenances and outstretched hands, with
+a hurried dread of recognising some pursuer pressing forward—of
+galloping away again, upon the long, long [[Road|road]], gathered up, dull and
+stunned, in his corner, or rising to see where the [[Moon|moon]] shone faintly
+on a patch of the same endless [[Road|road]] miles away, or looking back to see
+who followed.
+
+Of never sleeping, but sometimes dozing with unclosed eyes, and
+springing up with a start, and a reply aloud to an imaginary voice. Of
+cursing himself for being there, for having fled, for having let her
+go, for not having confronted and defied him. Of having a deadly
+quarrel with the whole world, but chiefly with himself. Of blighting
+everything with his black mood as he was carried on and away.
+
+It was a fevered vision of things past and present all confounded
+together; of his life and [[Journey|journey]] blended into one. Of being madly
+hurried somewhere, whither he must go. Of old scenes starting up among
+the novelties through which he travelled. Of musing and brooding over
+what was past and distant, and seeming to take no notice of the actual
+objects he encountered, but with a wearisome exhausting consciousness
+of being bewildered by them, and having their images all crowded in his
+hot brain after they were gone.
+
+A vision of change upon change, and still the same monotony of [[Bells|bells]]
+and wheels, and horses’ feet, and no rest. Of town and country,
+postyards, horses, drivers, [[Hill|hill]] and valley, light and darkness, [[Road|road]]
+and pavement, height and hollow, wet weather and dry, and still the
+same monotony of [[Bells|bells]] and wheels, and horses’ feet, and no rest. A
+vision of tending on at last, towards the distant capital, by busier
+roads, and sweeping round, by old cathedrals, and dashing through small
+towns and villages, less thinly scattered on the [[Road|road]] than formerly,
+and sitting shrouded in his corner, with his cloak up to his face, as
+people passing by looked at him.
+
+Of [[rolling]] on and on, always postponing thought, and always racked with
+thinking; of being unable to reckon up the hours he had been upon the
+[[Road|road]], or to comprehend the points of [[Time|time]] and place in his [[Journey|journey]]. Of
+being parched and giddy, and half mad. Of pressing on, in spite of all,
+as if he could not stop, and coming into [[Paris]], where the turbid [[River|river]]
+held its swift course undisturbed, between two brawling streams of life
+and motion.
+
+A troubled vision, then, of bridges, quays, interminable streets; of
+wine-shops, [[Water|water]]-carriers, great crowds of people, soldiers, coaches,
+military drums, arcades. Of the monotony of [[Bells|bells]] and wheels and
+horses’ feet being at length lost in the universal din and uproar. Of
+the gradual subsidence of that noise as he passed out in another
+carriage by a different barrier from that by which he had entered. Of
+the restoration, as he travelled on towards the seacoast, of the
+monotony of [[Bells|bells]] and wheels, and horses’ feet, and no rest.
+
+Of sunset once again, and nightfall. Of long roads again, and dead of
+[[Night|night]], and feeble lights in windows by the roadside; and still the old
+monotony of [[Bells|bells]] and wheels, and horses’ feet, and no rest. Of [[Dawn|dawn]],
+and daybreak, and the rising of the sun. Of tolling slowly up a [[Hill|hill]],
+and feeling on its top the fresh sea-breeze; and seeing the morning
+light upon the edges of the distant waves. Of coming down into a
+harbour when the tide was at its full, and seeing fishing-boats float
+on, and glad women and children waiting for them. Of nets and seamen’s
+clothes spread out to dry upon the shore; of busy sailors, and their
+voices high among ships’ masts and rigging; of the buoyancy and
+brightness of the [[Water|water]], and the universal sparkling.
+
+Of receding from the coast, and looking back upon it from the deck when
+it was a haze upon the [[Water|water]], with here and there a little opening of
+bright land where the Sun struck. Of the swell, and flash, and murmur
+of the calm sea. Of another grey line on the ocean, on the vessel’s
+track, fast growing clearer and higher. Of cliffs and buildings, and a
+windmill, and a church, becoming more and more visible upon it. Of
+steaming on at last into smooth [[Water|water]], and mooring to a pier whence
+groups of people looked down, greeting friends on board. Of
+disembarking, passing among them quickly, shunning every one; and of
+being at last again in England.
+
+He had thought, in his dream, of going down into a remote country-place
+he knew, and lying quiet there, while he secretly informed himself of
+what transpired, and determined how to act, Still in the same stunned
+condition, he remembered a certain station on the railway, where he
+would have to branch off to his place of destination, and where there
+was a quiet Inn. Here, he indistinctly resolved to tarry and rest.
+
+With this purpose he slunk into a railway carriage as quickly as he
+could, and lying there wrapped in his cloak as if he were asleep, was
+soon borne far away from the sea, and deep into the inland green.
+Arrived at his destination he looked out, and surveyed it carefully. He
+was not mistaken in his impression of the place. It was a retired spot,
+on the borders of a little wood. Only one [[house]], newly-built or altered
+for the purpose, stood there, surrounded by its neat [[Garden|garden]]; the small
+town that was nearest, was some miles away. Here he alighted then; and
+going straight into the tavern, unobserved by anyone, secured two rooms
+upstairs communicating with each other, and sufficiently retired.
+
+His object was to rest, and recover the command of himself, and the
+balance of his mind. Imbecile discomfiture and rage—so that, as he
+walked about his room, he ground his teeth—had complete possession of
+him. His thoughts, not to be stopped or directed, still wandered where
+they would, and dragged him after them. He was stupefied, and he was
+wearied to [[Death|death]].
+
+But, as if there were a curse upon him that he should never rest again,
+his drowsy senses would not lose their consciousness. He had no more
+influence with them, in this regard, than if they had been another
+man’s. It was not that they forced him to take note of present sounds
+and objects, but that they would not be diverted from the whole hurried
+vision of his [[Journey|journey]]. It was constantly before him all at once. She
+stood there, with her dark disdainful eyes again upon him; and he was
+riding on nevertheless, through town and country, light and darkness,
+wet weather and dry, over [[Road|road]] and pavement, [[Hill|hill]] and valley, height
+and hollow, jaded and scared by the monotony of [[Bells|bells]] and wheels, and
+horses’ feet, and no rest.
+
+“What day is this?” he asked of the waiter, who was making preparations
+for his dinner.
+
+“Day, Sir?”
+
+“Is it Wednesday?”
+
+“Wednesday, Sir? No, Sir. [[thursday|Thursday]], Sir.”
+
+“I forgot. How goes the [[Time|time]]? My watch is unwound.”
+
+“Wants a few minutes of five o’[[Clock|clock]], Sir. Been travelling a long [[Time|time]],
+Sir, perhaps?”
+
+“Yes”
+
+“By rail, Sir?”
+
+“Yes”
+
+“Very confusing, Sir. Not much in the habit of travelling by rail
+myself, Sir, but gentlemen frequently say so.”
+
+“Do many gentlemen come here?
+
+“Pretty [[Well|well]], Sir, in general. Nobody here at present. Rather slack
+just now, Sir. Everything is slack, Sir.”
+
+He made no answer; but had risen into a sitting posture on the sofa
+where he had been lying, and leaned forward with an arm on each knee,
+staring at the ground. He could not master his own attention for a
+minute together. It rushed away where it would, but it never, for an
+instant, lost itself in [[Sleep|sleep]].
+
+He drank a quantity of wine after dinner, in vain. No such artificial
+means would bring [[Sleep|sleep]] to his eyes. His thoughts, more incoherent,
+dragged him more unmercifully after them—as if a wretch, condemned to
+such expiation, were drawn at the heels of wild horses. No oblivion,
+and no rest.
+
+How long he sat, drinking and brooding, and being dragged in
+[[Imagination|imagination]] hither and thither, no one could have told less correctly
+than he. But he knew that he had been sitting a long [[Time|time]] by
+candle-light, when he started up and listened, in a sudden terror.
+
+For now, indeed, it was no fancy. The ground shook, the [[house]] rattled,
+the fierce impetuous rush was in the air! He felt it come up, and go
+darting by; and even when he had hurried to the [[Window|window]], and saw what it
+was, he stood, shrinking from it, as if it were not safe to look.
+
+A curse upon the fiery devil, thundering along so smoothly, tracked
+through the distant valley by a glare of light and lurid smoke, and
+gone! He felt as if he had been plucked out of its path, and saved from
+being torn asunder. It made him shrink and shudder even now, when its
+faintest hum was hushed, and when the lines of iron [[Road|road]] he could trace
+in the moonlight, running to a point, were as empty and as silent as a
+[[Desert|desert]].
+
+Unable to rest, and irresistibly attracted—or he thought so—to this
+[[Road|road]], he went out, and lounged on the brink of it, marking the way the
+train had gone, by the yet smoking cinders that were lying in its
+track. After a lounge of some half hour in the direction by which it
+had disappeared, he turned and walked the other way—still keeping to
+the brink of the [[Road|road]]—past the inn [[Garden|garden]], and a long way down; looking
+curiously at the bridges, signals, lamps, and wondering when another
+Devil would come by.
+
+A trembling of the ground, and quick vibration in his ears; a distant
+shriek; a dull light advancing, quickly changed to two red eyes, and a
+fierce [[Fire|fire]], dropping glowing coals; an irresistible bearing on of a
+great roaring and dilating mass; a high [[Wind|wind]], and a rattle—another come
+and gone, and he holding to a gate, as if to save himself!
+
+He waited for another, and for another. He walked back to his former
+point, and back again to that, and still, through the wearisome vision
+of his [[Journey|journey]], looked for these approaching monsters. He loitered
+about the station, waiting until one should stay to call there; and
+when one did, and was detached for [[Water|water]], he stood parallel with it,
+watching its heavy wheels and brazen front, and thinking what a cruel
+power and might it had. Ugh! To see the great wheels slowly turning,
+and to think of being run down and crushed!
+
+Disordered with wine and want of rest—that want which nothing, although
+he was so weary, would appease—these ideas and objects assumed a
+diseased importance in his thoughts. When he went back to his room,
+which was not until near midnight, they still haunted him, and he sat
+listening for the coming of another.
+
+So in his bed, whither he repaired with no [[Hope|hope]] of [[Sleep|sleep]]. He still lay
+listening; and when he felt the trembling and vibration, got up and
+went to the [[Window|window]], to watch (as he could from its position) the dull
+light changing to the two red eyes, and the fierce [[Fire|fire]] dropping
+glowing coals, and the rush of the giant as it fled past, and the track
+of glare and smoke along the valley. Then he would glance in the
+direction by which he intended to depart at sunrise, as there was no
+rest for him there; and would lie down again, to be troubled by the
+vision of his [[Journey|journey]], and the old monotony of [[Bells|bells]] and wheels and
+horses’ feet, until another came. This lasted all [[Night|night]]. So far from
+resuming the mastery of himself, he seemed, if possible, to lose it
+more and more, as the [[Night|night]] crept on. When the [[Dawn|dawn]] appeared, he was
+still tormented with thinking, still postponing thought until he should
+be in a better state; the past, present, and future all floated
+confusedly before him, and he had lost all power of looking steadily at
+any one of them.
+
+“At what [[Time|time]],” he asked the man who had waited on him over-[[Night|night]], now
+entering with a candle, “do I leave here, did you say?”
+
+“About a quarter after four, Sir. Express comes through at four,
+Sir.—It don’t stop.”
+
+He passed his hand across his throbbing head, and looked at his watch.
+Nearly half-past three.
+
+“Nobody going with you, Sir, probably,” observed the man. “Two
+gentlemen here, Sir, but they’re waiting for the train to [[London]].”
+
+“I thought you said there was nobody here,” said Carker, turning upon
+him with the [[Ghost|ghost]] of his old smile, when he was angry or suspicious.
+
+“Not then, sir. Two gentlemen came in the [[Night|night]] by the short train that
+stops here, Sir. Warm [[Water|water]], Sir?”
+
+“No; and take away the candle. There’s day enough for me.”
+
+Having thrown himself upon the bed, half-dressed he was at the [[Window|window]]
+as the man left the room. The cold light of morning had succeeded to
+[[Night|night]] and there was already, in the sky, the red suffusion of the
+coming sun. He bathed his head and face with [[Water|water]]—there was no cooling
+influence in it for him—hurriedly put on his clothes, paid what he
+owed, and went out.
+
+The air struck chill and comfortless as it breathed upon him. There was
+a heavy dew; and, hot as he was, it made him shiver. After a glance at
+the place where he had walked last [[Night|night]], and at the signal-lights
+burning in the morning, and bereft of their significance, he turned to
+where the sun was rising, and beheld it, in its glory, as it broke upon
+the scene.
+
+So awful, so transcendent in its [[Beauty|beauty]], so divinely solemn. As he cast
+his faded eyes upon it, where it [[Rose|rose]], tranquil and serene, unmoved by
+all the wrong and wickedness on which its beams had shone since the
+beginning of the world, who shall say that some weak sense of virtue
+upon Earth, and its in Heaven, did not manifest itself, even to him? If
+ever he remembered sister or brother with a touch of tenderness and
+remorse, who shall say it was not then?
+
+He needed some such touch then. [[Death]] was on him. He was marked off—the
+living world, and going down into his [[Grave|grave]].
+
+He paid the money for his [[Journey|journey]] to the country-place he had thought
+of; and was walking to and fro, [[Alone|alone]], looking along the lines of iron,
+across the valley in one direction, and towards a dark bridge near at
+hand in the other; when, turning in his walk, where it was bounded by
+one end of the wooden stage on which he paced up and down, he saw the
+man from whom he had fled, emerging from the door by which he himself
+had entered. And their eyes met.
+
+In the quick unsteadiness of the surprise, he staggered, and slipped on
+to the [[Road|road]] below him. But recovering his feet immediately, he stepped
+back a pace or two upon that [[Road|road]], to interpose some wider space
+between them, and looked at his pursuer, breathing short and quick.
+
+He heard a shout—another—saw the face change from its vindictive
+passion to a faint sickness and terror—felt the earth tremble—knew in a
+moment that the rush was come—uttered a shriek—looked round—saw the red
+eyes, bleared and dim, in the daylight, close upon him—was beaten down,
+caught up, and whirled away upon a jagged mill, that spun him round and
+round, and struck him limb from limb, and licked his stream of life up
+with its fiery heat, and cast his mutilated fragments in the air.
+
+When the traveller, who had been recognised, recovered from a swoon, he
+saw them bringing from a distance something covered, that lay heavy and
+still, upon a board, between four men, and saw that others drove some
+[[dogs]] away that sniffed upon the [[Road|road]], and soaked his [[Blood|blood]] up, with a
+train of ashes.

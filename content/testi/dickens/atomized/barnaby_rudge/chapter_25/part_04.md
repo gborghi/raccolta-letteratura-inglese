@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 25 (part 4)"
+title: "Barnaby Rudge — Chapter 25 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_25/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_27/part_01">part 01 ›</a></div>
 </nav>
 
+
+They were to return by the coach. As there was an interval of full two
+hours before it started, and they needed rest and some refreshment,
+Barnaby begged hard for a visit to the Maypole. But his mother, who had
+no wish to be recognised by any of those who had known her long ago, and
+who feared besides that Mr Haredale might, on second thoughts, despatch
+some messenger to that place of entertainment in [[Quest|quest]] of her, proposed
+to wait in the churchyard instead. As it was easy for Barnaby to buy
+and carry thither such humble viands as they required, he cheerfully
+assented, and in the churchyard they sat down to take their frugal
+dinner.
 
 Here again, [[The Raven|the raven]] was in a highly reflective state; walking up and
 down when he had dined, with an air of elderly complacency which was

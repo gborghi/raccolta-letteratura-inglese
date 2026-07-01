@@ -115,7 +115,7 @@ at the end of every street and ballot-boxes rattled over all Asia.
 But, alas! they heard of Spain.  They heard that in Spain the trials
 of rebels in arms had occasionally been conducted in secret;
 and this was enough to destroy the long and famous tradition of free
-[[Democracy|democracy]] in the Far East.
+[[democracy]] in the Far East.
 
 Now I do think that, compared with this amazing bosh, Gilbert'sMikado,
 with his punishment "lingering, with boiling oil in it,"
@@ -124,7 +124,7 @@ Eastern despotism has many advantages; and I do not [[Doubt|doubt]]
 that many of its decisions were not "lingering," but as rough
 and rapid as they were just.  But to what mental state
 have people come if they cannot see that Europe has been,
-upon the whole, the [[Home|home]] of [[Democracy|democracy]], and Asia, upon the whole,
+upon the whole, the [[Home|home]] of [[democracy]], and Asia, upon the whole,
 the [[Home|home]] of despotism?  Really, Japan is not so barren
 of resource as this writer supposes.  The Far East really has
 no need to go to [[Russia]] for autocracy, or to Spain for torture.

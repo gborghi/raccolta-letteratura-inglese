@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 13 (part 3)"
+title: "Barnaby Rudge — Chapter 13 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_13/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_13/part_04">part 04 ›</a></div>
 </nav>
 
+
+Joe was by no means a sheepish fellow, but, for all that, when he got
+to the corner of the street in which the locksmith lived, he could by no
+means make up his mind to walk straight to the [[house]]. First, he resolved
+to stroll up another street for five minutes, then up another street for
+five minutes more, and so on until he had lost full half an hour, when
+he made a bold plunge and found himself with a red face and a beating
+heart in the smoky workshop.
 
 ‘Joe Willet, or his [[Ghost|ghost]]?’ said Varden, rising from the desk at which
 he was busy with his books, and looking at him under his spectacles.
@@ -131,10 +139,3 @@ sorry to see that you don’t take your tea, Varden, and that you don’t
 take yours, Mr Joseph; though of course it would be foolish of me to
 expect that anything that can be had at [[Home|home]], and in the company of
 females, would please YOU.’
-
-This pronoun was understood in the plural sense, and included both
-gentlemen, upon both of whom it was rather hard and undeserved, for
-Gabriel had applied himself to the meal with a very promising appetite,
-until it was spoilt by Mrs Varden herself, and Joe had as great a liking
-for the female society of the locksmith’s [[house]]--or for a part of it at
-all events--as man could [[Well|well]] entertain.

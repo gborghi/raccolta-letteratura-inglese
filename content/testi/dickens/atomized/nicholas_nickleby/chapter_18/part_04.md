@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 18 (part 4)"
+title: "Nicholas Nickleby — Chapter 18 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,21 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_18/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_18/part_05">part 05 ›</a></div>
 </nav>
 
+
+‘Bless me!’ exclaimed Mrs. Nickleby.
+
+‘Yes,’ continued Miss Knag, ‘and received great encouragement too,
+and confidently hoped to marry her. He has a most romantic heart,
+Mrs. Nickleby, as indeed--hem--as indeed all our family have, and the
+disappointment was a dreadful blow. He is a wonderfully accomplished
+man--most extraordinarily accomplished--reads--hem--reads every [[Novel|novel]]
+that comes out; I mean every [[Novel|novel]] that--hem--that has any fashion in
+it, of course. The fact is, that he did find so much in the books he
+read, applicable to his own misfortunes, and did find himself in every
+respect so much like the heroes--because of course he is conscious of
+his own superiority, as we all are, and very naturally--that he took to
+scorning everything, and became a genius; and I am quite sure that he
+is, at this very present moment, writing another book.’
 
 ‘Another book!’ repeated Kate, finding that a pause was left for
 somebody to say something.
@@ -114,25 +129,3 @@ of countenance all the [[Time|time]].
 
 ‘She is not quite so accustomed to her business, as she will be in a
 week or two,’ interposed Madame Mantalini with a gracious smile.
-
-‘I am afraid you have been giving her some of your wicked looks, my
-lord,’ said the intended.
-
-‘No, no, no,’ replied the old lord, ‘no, no, I’m going to be married,
-and lead a new life. Ha, ha, ha! a new life, a new life! ha, ha, ha!’
-
-It was a satisfactory thing to hear that the old gentleman was going to
-lead a new life, for it was pretty evident that his old one would not
-last him much longer. The mere exertion of protracted chuckling reduced
-him to a fearful ebb of coughing and gasping; it was some minutes
-before he could find breath to remark that the girl was too pretty for a
-milliner.
-
-‘I [[Hope|hope]] you don’t think good looks a disqualification for the business,
-my lord,’ said Madame Mantalini, simpering.
-
-‘Not by any means,’ replied the old lord, ‘or you would have left it
-long ago.’
-
-‘You naughty creature,’ said the lively lady, poking the peer with her
-parasol; ‘I won’t have you talk so. How dare you?’

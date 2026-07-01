@@ -14,6 +14,18 @@ tags:
 </nav>
 
 
+      extraordinary [[Animals|animals]] bear a resemblance to the dromedary, or
+
+      camel of the [[Desert|desert]]. In a bag at the root of the neck they carry
+
+      with them a constant supply of [[Water|water]]. In some instances, upon
+
+      killing them after a full year’s deprivation of all nourishment,
+
+      as much as three gallons of perfectly sweet and fresh [[Water|water]] have
+
+      been found in their bags. Their food is chiefly wild parsley and
+
       celery, with purslain, sea-kelp, and prickly pears, upon which
 
       latter vegetable they thrive wonderfully, a great quantity of it

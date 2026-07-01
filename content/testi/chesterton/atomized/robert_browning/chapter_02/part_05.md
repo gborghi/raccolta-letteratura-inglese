@@ -14,6 +14,13 @@ tags:
 </nav>
 
 
+The general accusation against Browning in connection with his use of
+the [[Grotesque|grotesque]] comes in very definitely here; for in using these homely
+and practical images, these allusions, bordering on what many would
+call the commonplace, he was indeed true to the actual and abiding
+spirit of [[Love|love]]. In that delightful poem "Youth and Art" we have the
+singing girl saying to her old [[Lover|lover]]--
+
     "No harm! It was not my fault
       If you never turned your eye's tail up
     As I shook upon E _in alt_,

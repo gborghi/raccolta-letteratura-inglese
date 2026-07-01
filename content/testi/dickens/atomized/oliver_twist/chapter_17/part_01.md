@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 17 (part 1)"
+title: "Oliver Twist — Chapter 17 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -132,10 +132,3 @@ only themselves to thank.”
 There was so much determination and depth of purpose about the menacing
 manner in which Mr. Bumble delivered himself of these words, that Mrs.
 Mann appeared quite awed by them. At length she said,
-
-“You’re going by coach, sir? I thought it was always usual to send them
-paupers in carts.”
-
-“That’s when they’re ill, Mrs. Mann,” said the beadle. “We put the sick
-paupers into open carts in the rainy weather, to prevent their taking
-cold.”

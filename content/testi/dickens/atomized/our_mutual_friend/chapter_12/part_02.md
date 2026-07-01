@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 7 (part 2)"
+title: "Our Mutual Friend — Chapter 8 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,132 +14,119 @@ tags:
 </nav>
 
 
-‘Always at [[Home|home]].’
+‘And what is particularly eligible in the property Mr Boffin, is, that
+it involves no trouble. There are no estates to manage, no rents to
+return so much per cent upon in bad times (which is an extremely dear
+way of getting your name into the newspapers), no voters to become
+parboiled in hot [[Water|water]] with, no agents to take the cream off the
+milk before it comes to table. You could put the whole in a cash-box
+to-morrow morning, and take it with you to—say, to the Rocky [[Mountains]].
+Inasmuch as every man,’ concluded Mr Lightwood, with an indolent smile,
+‘appears to be under a fatal spell which obliges him, sooner or later,
+to mention the Rocky [[Mountains]] in a tone of extreme familiarity to some
+other man, I [[Hope|hope]] you’ll excuse my pressing you into the service of that
+gigantic range of geographical bores.’
 
-This would seem to be secretly agreeable to Wegg, but he veils his
-feelings, and observes, ‘Strange. To what do you attribute it?’
+Without following this last remark very closely, Mr Boffin cast his
+perplexed gaze first at the ceiling, and then at the carpet.
 
-‘I don’t know,’ replies [[Venus]], who is a haggard [[Melancholy|melancholy]] man, speaking
-in a weak voice of querulous complaint, ‘to what to attribute it, Mr
-Wegg. I can’t work you into a miscellaneous one, no how. Do what I will,
-you can’t be got to fit. Anybody with a passable knowledge would pick
-you out at a look, and say,—“No go! Don’t match!”’
+‘[[Well]],’ he remarked, ‘I don’t know what to say about it, I am sure. I
+was a’most as [[Well|well]] as I was. It’s a great lot to take care of.’
 
-‘[[Well]], but hang it, [[Mr Venus]],’ Wegg expostulates with some little
-irritation, ‘that can’t be personal and peculiar in ME. It must often
-happen with miscellaneous ones.’
+‘My dear Mr Boffin, then DON’T take care of it!’
 
-‘With ribs (I grant you) always. But not else. When I prepare a
-miscellaneous one, I know beforehand that I can’t keep to [[Nature|nature]], and
-be miscellaneous with ribs, because every man has his own ribs, and no
-other man’s will go with them; but elseways I can be miscellaneous. I
-have just sent [[Home|home]] a [[Beauty]]—a perfect [[Beauty]]—to a school of art. One
-leg Belgian, one leg English, and the pickings of eight other people in
-it. Talk of not being qualified to be miscellaneous! By rights you OUGHT
-to be, Mr Wegg.’
+‘Eh?’ said that gentleman.
 
-Silas looks as hard at his one leg as he can in the dim light, and after
-a pause sulkily opines ‘that it must be the fault of the other people.
-Or how do you mean to say it comes about?’ he demands impatiently.
+‘Speaking now,’ returned Mortimer, ‘with the irresponsible imbecility
+of a private individual, and not with the profundity of a professional
+adviser, I should say that if the circumstance of its being too much,
+weighs upon your mind, you have the haven of consolation open to you
+that you can easily make it less. And if you should be apprehensive of
+the trouble of doing so, there is the further haven of consolation that
+any number of people will take the trouble off your hands.’
 
-‘I don’t know how it comes about. Stand up a minute. Hold the light.’
-[[Mr Venus]] takes from a corner by his chair, the bones of a leg and foot,
-beautifully pure, and put together with exquisite neatness. These he
-compares with Mr Wegg’s leg; that gentleman looking on, as if he were
-being measured for a riding-boot. ‘No, I don’t know how it is, but so it
-is. You have got a twist in that bone, to the best of my belief. I never
-saw the likes of you.’
+‘[[Well]]! I don’t quite see it,’ retorted Mr Boffin, still perplexed.
+‘That’s not satisfactory, you know, what you’re a-saying.’
 
-Mr Wegg having looked distrustfully at his own limb, and suspiciously at
-the pattern with which it has been compared, makes the point:
+‘Is Anything satisfactory, Mr Boffin?’ asked Mortimer, raising his
+eyebrows.
 
-‘I’ll bet a pound that ain’t an English one!’
+‘I used to find it so,’ answered Mr Boffin, with a wistful look. ‘While
+I was foreman at the Bower—afore it WAS the Bower—I considered the
+business very satisfactory. The old man was a awful Tartar (saying
+it, I’m sure, without disrespect to his [[Memory|memory]]) but the business was
+a pleasant one to look after, from before daylight to past dark. It’s
+a’most a pity,’ said Mr Boffin, rubbing his ear, ‘that he ever went and
+made so much money. It would have been better for him if he hadn’t so
+given himself up to it. You may depend upon it,’ making the discovery
+all of a sudden, ‘that HE found it a great lot to take care of!’
 
-‘An easy wager, when we run so much into foreign! No, it belongs to that
-French gentleman.’
+Mr Lightwood coughed, not convinced.
 
-As he nods towards a point of darkness behind Mr Wegg, the latter, with
-a slight start, looks round for ‘that French gentleman,’ whom he at
-length descries to be represented (in a very workmanlike manner) by his
-ribs only, standing on a shelf in another corner, like a piece of armour
-or a pair of stays.
+‘And speaking of satisfactory,’ pursued Mr Boffin, ‘why, Lord save
+us! when we come to take it to pieces, bit by bit, where’s the
+satisfactoriness of the money as yet? When the old man does right the
+poor boy after all, the poor boy gets no good of it. He gets made away
+with, at the moment when he’s lifting (as one may say) the cup and
+sarser to his lips. Mr Lightwood, I will now name to you, that on behalf
+of the poor dear boy, me and Mrs Boffin have stood out against the old
+man times out of number, till he has called us every name he could lay
+his tongue to. I have seen him, after Mrs Boffin has given him her mind
+respecting the claims of the nat’ral affections, catch off Mrs Boffin’s
+bonnet (she wore, in general, a black straw, perched as a matter of
+convenience on the top of her head), and send it spinning across
+the yard. I have indeed. And once, when he did this in a manner that
+amounted to personal, I should have given him a rattler for himself, if
+Mrs Boffin hadn’t thrown herself betwixt us, and received flush on the
+temple. Which dropped her, Mr Lightwood. Dropped her.’
 
-‘Oh!’ says Mr Wegg, with a sort of sense of being introduced; ‘I
-dare say you were all right enough in your own country, but I [[Hope|hope]] no
-objections will be taken to my saying that the Frenchman was never yet
-born as I should wish to match.’
+Mr Lightwood murmured ‘Equal [[Honour|honour]]—Mrs Boffin’s head and heart.’
 
-At this moment the greasy door is violently pushed inward, and a boy
-follows it, who says, after having let it slam:
+‘You understand; I name this,’ pursued Mr Boffin, ‘to show you, now the
+affairs are wound up, that me and Mrs Boffin have ever stood as we were
+in Christian [[Honour|honour]] bound, the children’s friend. Me and Mrs Boffin
+stood the poor girl’s friend; me and Mrs Boffin stood the poor boy’s
+friend; me and Mrs Boffin up and faced the old man when we momently
+expected to be turned out for our pains. As to Mrs Boffin,’ said Mr
+Boffin lowering his voice, ‘she mightn’t wish it mentioned now she’s
+Fashionable, but she went so far as to tell him, in my presence, he was
+a flinty-hearted rascal.’
 
-‘Come for the stuffed canary.’
+Mr Lightwood murmured ‘Vigorous Saxon spirit—Mrs Boffin’s
+ancestors—bowmen—Agincourt and Cressy.’
 
-‘It’s three and ninepence,’ returns [[Venus]]; ‘have you got the money?’
-
-The boy produces four shillings. [[Mr Venus]], always in exceedingly low
-spirits and making whimpering sounds, peers about for the stuffed
-canary. On his taking the candle to assist his search, Mr Wegg observes
-that he has a convenient little shelf near his knees, exclusively
-appropriated to [[skeleton]] hands, which have very much the appearance of
-wanting to lay hold of him. From these [[Mr Venus]] rescues the canary in a
-glass case, and shows it to the boy.
-
-‘There!’ he whimpers. ‘There’s animation! On a twig, making up his mind
-to hop! Take care of him; he’s a lovely specimen.—And three is four.’
-
-The boy gathers up his change and has pulled the door open by a leather
-strap nailed to it for the purpose, when [[Venus]] cries out:
-
-‘Stop him! Come back, you young [[Villain|villain]]! You’ve got a tooth among them
-halfpence.’
-
-‘How was I to know I’d got it? You giv it me. I don’t want none of your
-teeth; I’ve got enough of my own.’ So the boy pipes, as he selects it
-from his change, and throws it on the counter.
-
-‘Don’t sauce ME, in the wicious [[Pride|pride]] of your youth,’ [[Mr Venus]] retorts
-pathetically. ‘Don’t hit ME because you see I’m down. I’m low enough
-without that. It dropped into the till, I suppose. They drop into
-everything. There was two in the coffee-pot at breakfast [[Time|time]]. Molars.’
-
-‘Very [[Well|well]], then,’ argues the boy, ‘what do you call names for?’
-
-To which [[Mr Venus]] only replies, shaking his shock of dusty hair, and
-winking his weak eyes, ‘Don’t sauce ME, in the wicious [[Pride|pride]] of your
-youth; don’t hit ME, because you see I’m down. You’ve no idea how small
-you’d come out, if I had the articulating of you.’
-
-This consideration seems to have its effect on the boy, for he goes out
-grumbling.
-
-‘Oh dear me, dear me!’ sighs [[Mr Venus]], heavily, snuffing the candle,
-‘the world that appeared so flowery has ceased to blow! You’re casting
-your eye round the shop, Mr Wegg. Let me show you a light. My working
-bench. My young man’s bench. A Wice. Tools. Bones, warious. Skulls,
-warious. Preserved Indian baby. African ditto. Bottled preparations,
-warious. Everything within reach of your hand, in good preservation.
-The mouldy ones a-top. What’s in those hampers over them again, I don’t
-quite remember. Say, human warious. Cats. Articulated English baby.
-[[dogs|Dogs]]. Ducks. Glass eyes, warious. Mummied bird. Dried cuticle, warious.
-Oh, dear me! That’s the general panoramic view.’
-
-Having so held and waved the candle as that all these heterogeneous
-objects seemed to come forward obediently when they were named, and
-then retire again, [[Mr Venus]] despondently repeats, ‘Oh dear me, dear
-me!’ resumes his seat, and with drooping despondency upon him, falls to
-pouring himself out more tea.
-
-‘Where am I?’ asks Mr Wegg.
-
-‘You’re somewhere in the back shop across the yard, sir; and speaking
-quite candidly, I wish I’d never bought you of the Hospital Porter.’
-
-‘Now, look here, what did you give for me?’
-
-‘[[Well]],’ replies [[Venus]], blowing his tea: his head and face peering out
-of the darkness, over the smoke of it, as if he were modernizing the old
-original rise in his family: ‘you were one of a warious lot, and I don’t
-know.’
-
-Silas puts his point in the improved form of ‘What will you take for
-me?’
+‘The last [[Time|time]] me and Mrs Boffin saw the poor boy,’ said Mr Boffin,
+warming (as fat usually does) with a tendency to melt, ‘he was a [[Child|child]]
+of seven year old. For when he came back to make intercession for his
+sister, me and Mrs Boffin were away overlooking a country contract which
+was to be sifted before carted, and he was come and gone in a single
+hour. I say he was a [[Child|child]] of seven year old. He was going away, all
+[[Alone|alone]] and forlorn, to that foreign school, and he come into our place,
+situate up the yard of the present Bower, to have a warm at our [[Fire|fire]].
+There was his little scanty travelling clothes upon him. There was his
+little scanty box outside in the shivering [[Wind|wind]], which I was going to
+carry for him down to the steamboat, as the old man wouldn’t hear of
+allowing a sixpence coach-money. Mrs Boffin, then quite a young woman
+and pictur of a full-blown [[Rose|rose]], stands him by her, kneels down at the
+[[Fire|fire]], warms her two open hands, and falls to rubbing his cheeks; but
+seeing the [[Tears|tears]] come into the [[Child|child]]’s eyes, the [[Tears|tears]] come fast into
+her own, and she holds him round the neck, like as if she was protecting
+him, and cries to me, “I’d give the wide wide world, I would, to run
+away with him!” I don’t say but what it cut me, and but what it at the
+same [[Time|time]] heightened my feelings of admiration for Mrs Boffin. The poor
+[[Child|child]] clings to her for awhile, as she clings to him, and then, when
+the old man calls, he says “I must go! God bless you!” and for a moment
+rests his heart against her bosom, and looks up at both of us, as if it
+was in [[Pain|pain]]—in agony. Such a look! I went aboard with him (I gave him
+first what little treat I thought he’d like), and I left him when he had
+fallen asleep in his berth, and I came back to Mrs Boffin. But tell
+her what I would of how I had left him, it all went for nothing, for,
+according to her thoughts, he never changed that look that he had looked
+up at us two. But it did one piece of good. Mrs Boffin and me had no
+[[Child|child]] of our own, and had sometimes wished that how we had one. But not
+now. “We might both of us die,” says Mrs Boffin, “and other eyes might
+see that lonely look in our [[Child|child]].” So of a [[Night|night]], when it was very
+cold, or when the [[Wind|wind]] roared, or the rain dripped heavy, she would
+wake sobbing, and call out in a fluster, “Don’t you see the poor [[Child|child]]’s
+face? O shelter the poor [[Child|child]]!”—till in course of years it gently wore
+out, as many things do.’

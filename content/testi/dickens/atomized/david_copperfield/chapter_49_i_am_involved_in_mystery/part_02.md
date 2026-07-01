@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 49: I AM INVOLVED IN MYSTERY (part 2)"
+title: "David Copperfield — Chapter 49: I AM INVOLVED IN MYSTERY (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"

@@ -145,7 +145,3 @@ promote prosperity to have a Bull in a china shop.'
 Equally, my friends, it would not be calculated to
 promote prosperity to have a Bull in a wine shop.  All
 this is clear."
-
-He stuck his umbrella upright in the sand and struck
-one finger against another, like a man getting to business
-at last.

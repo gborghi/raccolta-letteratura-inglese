@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 34: MY AUNT ASTONISHES ME (part 1)"
+title: "David Copperfield — Chapter 34: MY AUNT ASTONISHES ME (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -130,6 +130,3 @@ forgetting herself, and taking care of the other nine.’
 
 He saw, I suppose, that I could not help smiling at the simplicity of
 this reply; and added, with a smile upon his own ingenuous face:
-
-‘Not, of course, but that my Sophy--pretty name, Copperfield, I always
-think?’

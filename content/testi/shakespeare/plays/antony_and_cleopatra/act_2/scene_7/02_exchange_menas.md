@@ -1,5 +1,5 @@
 ---
-title: "Antony and [[Cleopatra]] — Act II, Scene 7 — exchange (MENAS) [2]"
+title: "Antony and Cleopatra — Act II, Scene 7 — exchange (MENAS) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/antony-and-cleopatra-(shakespeare)"

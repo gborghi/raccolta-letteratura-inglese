@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 21 (part 4)"
+title: "Shirley — Chapter 21 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_21/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_21/part_05">part 05 ›</a></div>
 </nav>
 
+
+trodden way. The freshness of the wood [[Flowers|flowers]] attested that foot of man
+
+seldom pressed them; the abounding wild roses looked as if they budded,
+
+bloomed, and faded under the watch of [[Solitude|solitude]], as if in a sultan's
+
+harem. Here you saw the sweet azure of blue-[[Bells|bells]], and recognized in
+
+pearl-white blossoms, spangling the grass, a humble type of some starlit
+
+spot in space.
+
+
+
+Mrs. Pryor liked a quiet walk. She ever shunned high-roads, and sought
+
+byways and lonely lanes. One companion she preferred to total [[Solitude|solitude]],
 
 for in [[Solitude|solitude]] she was nervous; a vague [[Fear|fear]] of annoying encounters
 
@@ -185,31 +203,3 @@ pass, and I get them over somehow, but I do not _live_. I endure
 existence, but I rarely enjoy it. Since Miss Keeldar and you came I have
 
 been--I was going to say happier, but that would be untrue." She paused.
-
-
-
-"How untrue? You are fond of Miss Keeldar, are you not, my dear?"
-
-
-
-"Very fond of [[Shirley]]. I both like and admire her. But I am painfully
-
-circumstanced. For a reason I cannot explain I want to go away from this
-
-place, and to forget it."
-
-
-
-"You told me before you wished to be a governess; but, my dear, if you
-
-remember, I did not encourage the idea. I have been a governess myself
-
-great part of my life. In Miss Keeldar's acquaintance I esteem myself
-
-most fortunate. Her talents and her really sweet disposition have
-
-rendered my office easy to me; but when I was young, before I married,
-
-my trials were severe, poignant. I should not like a---- I should not
-
-like you to endure similar ones. It was my lot to enter a family of

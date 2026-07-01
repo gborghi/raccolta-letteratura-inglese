@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 24 (part 3)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 24 (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_23/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_24/part_01">part 01 ›</a></div>
 </nav>
 
+
+had been guilty in leaving the other canoe in the power of the savages,
+
+who, by this [[Time|time]], were not more than twice as far from the beach as
+
+ourselves, and were rapidly advancing to the pursuit. No [[Time|time]] was now
+
+to be lost. Our [[Hope|hope]] was, at best, a forlorn one, but we had none
+
+other. It was very doubtful whether, with the utmost exertion, we could
 
 get back in [[Time|time]] to anticipate them in taking possession of the canoe;
 

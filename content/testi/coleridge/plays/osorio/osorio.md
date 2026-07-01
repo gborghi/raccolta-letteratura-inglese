@@ -1,5 +1,5 @@
 ---
-title: "[[OSORIO|OSORIO]]"
+title: "OSORIO"
 author: "Coleridge"
 unitType: work
 parentWork: "works/osorio-(coleridge)"

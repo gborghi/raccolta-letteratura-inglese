@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 28 (part 2)"
+title: "Dombey and Son — Chapter 56 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,121 +14,119 @@ tags:
 </nav>
 
 
-Florence had a new reason in all this for wishing to be at [[Home|home]] again.
-Her lonely life was better suited to her course of timid [[Hope|hope]] and
-[[Doubt|doubt]]; and she feared sometimes, that in her absence she might miss
-some hopeful chance of testifying her affection for her father. Heaven
-knows, she might have set her mind at rest, poor [[Child|child]]! on this last
-point; but her slighted [[Love|love]] was fluttering within her, and, even in
-her [[Sleep|sleep]], it flew away in [[Dreams|dreams]], and nestled, like a wandering bird
-come [[Home|home]], upon her father’s neck.
+“Mr Toots,” returned Florence, “if you, who are so old and true a
+friend of mine, were to stay away from this [[house]] now, you would make
+me very unhappy. It can never, never, give me any feeling but pleasure
+to see you.
 
-Of Walter she thought often. Ah! how often, when the [[Night|night]] was gloomy,
-and the [[Wind|wind]] was blowing round the [[house]]! But [[Hope|hope]] was strong in her
-breast. It is so difficult for the young and ardent, even with such
-experience as hers, to imagine youth and ardour quenched like a weak
-flame, and the bright day of life merging into [[Night|night]], at [[Noon|noon]], that
-[[Hope|hope]] was strong yet. Her [[Tears|tears]] fell frequently for Walter’s sufferings;
-but rarely for his supposed [[Death|death]], and never long.
+“Miss Dombey,” said Mr Toots, taking out his pocket-handkerchief, “if I
+shed a tear, it is a tear of joy. It is of no consequence, and I am
+very much obliged to you. I may be allowed to remark, after what you
+have so kindly said, that it is not my intention to neglect my person
+any longer.”
 
-She had written to the old Instrument-maker, but had received no answer
-to her note: which indeed required none. Thus matters stood with
-Florence on the morning when she was going [[Home|home]], gladly, to her old
-secluded life.
+Florence received this intimation with the prettiest expression of
+perplexity possible.
 
-Doctor and Mrs Blimber, accompanied (much against his will) by their
-valued charge, Master Barnet, were already gone back to Brighton, where
-that young gentleman and his fellow-pilgrims to Parnassus were then, no
-[[Doubt|doubt]], in the continual resumption of their studies. The holiday [[Time|time]]
-was past and over; most of the juvenile guests at the villa had taken
-their departure; and Florence’s long visit was come to an end.
+“I mean,” said Mr Toots, “that I shall consider it my duty as a
+fellow-creature generally, until I am claimed by the silent tomb, to
+make the best of myself, and to—to have my boots as brightly polished,
+as—as—circumstances will admit of. This is the last [[Time|time]], Miss Dombey,
+of my intruding any observation of a private and personal [[Nature|nature]]. I
+thank you very much indeed. If I am not, in a general way, as sensible
+as my friends could wish me to be, or as I could wish myself, I really
+am, upon my word and [[Honour|honour]], particularly sensible of what is
+considerate and kind. I feel,” said Mr Toots, in an impassioned tone,
+“as if I could express my feelings, at the present moment, in a most
+remarkable manner, if—if—I could only get a start.”
 
-There was one guest, however, albeit not resident within the [[house]], who
-had been very constant in his attentions to the family, and who still
-remained devoted to them. This was Mr Toots, who after renewing, some
-weeks ago, the acquaintance he had had the happiness of forming with
-Skettles Junior, on the [[Night|night]] when he burst the Blimberian bonds and
-soared into [[Freedom|freedom]] with his ring on, called regularly every other day,
-and left a perfect pack of cards at the hall-door; so many indeed, that
-the ceremony was quite a deal on the part of Mr Toots, and a hand at
-whist on the part of the servant.
+Appearing not to get it, after waiting a minute or two to see if it
+would come, Mr Toots took a hasty leave, and went below to seek the
+Captain, whom he found in the shop.
 
-Mr Toots, likewise, with the bold and happy idea of preventing the
-family from forgetting him (but there is reason to suppose that this
-expedient originated in the teeming brain of the Chicken), had
-established a six-oared cutter, manned by aquatic friends of the
-Chicken’s and steered by that illustrious character in person, who wore
-a bright red fireman’s coat for the purpose, and concealed the
-perpetual black eye with which he was afflicted, beneath a green shade.
-Previous to the institution of this equipage, Mr Toots sounded the
-Chicken on a hypothetical case, as, supposing the Chicken to be
-enamoured of a young lady named Mary, and to have conceived the
-intention of starting a boat of his own, what would he call that boat?
-The Chicken replied, with divers strong asseverations, that he would
-either christen it Poll or The Chicken’s Delight. Improving on this
-idea, Mr Toots, after deep study and the exercise of much invention,
-resolved to call his boat The Toots’s Joy, as a delicate compliment to
-Florence, of which no man knowing the parties, could possibly miss the
-appreciation.
+“Captain Gills,” said Mr Toots, “what is now to take place between us,
+takes place under the sacred seal of confidence. It is the sequel,
+Captain Gills, of what has taken place between myself and Miss Dombey,
+upstairs.”
 
-Stretched on a crimson cushion in his gallant bark, with his shoes in
-the air, Mr Toots, in the exercise of his project, had come up the
-[[River|river]], day after day, and week after week, and had flitted to and fro,
-near Sir Barnet’s [[Garden|garden]], and had caused his crew to cut across and
-across the [[River|river]] at sharp angles, for his better exhibition to any
-lookers-out from Sir Barnet’s windows, and had had such evolutions
-performed by the Toots’s Joy as had filled all the neighbouring part of
-the [[Water|water]]-side with astonishment. But whenever he saw anyone in Sir
-Barnet’s [[Garden|garden]] on the brink of the [[River|river]], Mr Toots always feigned to
-be passing there, by a combination of coincidences of the most singular
-and unlikely description.
+“Alow and aloft, eh, my lad?” murmured the Captain.
 
-“How are you, Toots?” Sir Barnet would say, waving his hand from the
-lawn, while the artful Chicken steered close in shore.
+“Exactly so, Captain Gills,” said Mr Toots, whose fervour of
+acquiescence was greatly heightened by his entire ignorance of the
+Captain’s meaning. “Miss Dombey, I believe, Captain Gills, is to be
+shortly united to Lieutenant Walters?”
 
-“How de do, Sir Barnet?” Mr Toots would answer, “What a surprising
-thing that I should see you here!”
+“Why, ay, my lad. We’re all shipmets here,—Wal”r and sweet—heart will
+be jined together in the [[house]] of bondage, as soon as the askings is
+over,” whispered [[Captain Cuttle]], in his ear.
 
-Mr Toots, in his sagacity, always said this, as if, instead of that
-being Sir Barnet’s [[house]], it were some deserted edifice on the banks of
-the Nile, or Ganges.
+“The askings, Captain Gills!” repeated Mr Toots.
 
-“I never was so surprised!” Mr Toots would exclaim.—“Is Miss Dombey
-there?”
+“In the church, down yonder,” said the Captain, pointing his thumb over
+his shoulder.
 
-Whereupon Florence would appear, perhaps.
+“Oh! Yes!” returned Mr Toots.
 
-“Oh, Diogenes is quite [[Well|well]], Miss Dombey,” Toots would cry. “I called
-to ask this morning.”
+“And then,” said the Captain, in his hoarse whisper, and tapping Mr
+Toots on the chest with the back of his hand, and falling from him with
+a look of infinite admiration, “what follers? That there pretty
+creetur, as delicately brought up as a foreign bird, goes away upon the
+roaring main with Wal”r on a woyage to China!”
 
-“Thank you very much!” the pleasant voice of Florence would reply.
+“Lord, Captain Gills!” said Mr Toots.
 
-“Won’t you come ashore, Toots?” Sir Barnet would say then. “Come!
-you’re in no hurry. Come and see us.”
+“Ay!” nodded the Captain. “The [[Ship|ship]] as took him up, when he was wrecked
+in the hurricane that had drove her clean out of her course, was a
+China trader, and Wal”r made the woyage, and got into favour, aboard
+and ashore—being as smart and good a lad as ever stepped—and so, the
+supercargo dying at Canton, he got made (having acted as clerk afore),
+and now he’s supercargo aboard another [[Ship|ship]], same owners. And so, you
+see,” repeated the Captain, thoughtfully, “the pretty creetur goes away
+upon the roaring main with Wal”r, on a woyage to China.”
 
-“Oh, it’s of no consequence, thank you!” Mr Toots would blushingly
-rejoin. “I thought Miss Dombey might like to know, that’s all.
-Good-bye!” And poor Mr Toots, who was dying to accept the invitation,
-but hadn’t the [[Courage|courage]] to do it, signed to the Chicken, with an aching
-heart, and away went the Joy, cleaving the [[Water|water]] like an arrow.
+Mr Toots and [[Captain Cuttle]] heaved a sigh in concert. “What then?” said
+the Captain. “She loves him true. He loves her true. Them as should
+have loved and tended of her, treated of her like the beasts as perish.
+When she, cast out of [[Home|home]], come here to me, and dropped upon them
+planks, her wownded heart was broke. I know it. I, Ed’ard Cuttle, see
+it. There’s nowt but true, kind, steady [[Love|love]], as can ever piece it up
+again. If so be I didn’t know that, and didn’t know as Wal”r was her
+true [[Love|love]], brother, and she his, I’d have these here blue arms and legs
+chopped off, afore I’d let her go. But I know it, and what then! Why,
+then, I say, Heaven go with ’em both, and so it will! Amen!”
 
-The Joy was lying in a state of extraordinary splendour, at the [[Garden|garden]]
-steps, on the morning of Florence’s departure. When she went downstairs
-to take leave, after her talk with Susan, she found Mr Toots awaiting
-her in the drawing-room.
+“Captain Gills,” said Mr Toots, “let me have the pleasure of shaking
+hands. You’ve a way of saying things, that gives me an agreeable warmth,
+all up my back. _I_ say Amen. You are aware, Captain Gills, that I,
+too, have adored Miss Dombey.”
 
-“Oh, how de do, Miss Dombey?” said the stricken Toots, always
-dreadfully disconcerted when the [[Desire|desire]] of his heart was gained, and he
-was speaking to her; “thank you, I’m very [[Well|well]] indeed, I [[Hope|hope]] you’re
-the same, so was Diogenes yesterday.”
+“Cheer up!” said the Captain, laying his hand on Mr Toots’s shoulder.
+“Stand by, boy!”
 
-“You are very kind,” said Florence.
+“It is my intention, Captain Gills,” returned the spirited Mr Toots,
+“to cheer up. Also to standby, as much as possible. When the silent
+tomb shall yawn, Captain Gills, I shall be ready for burial; not
+before. But not being certain, just at present, of my power over
+myself, what I wish to say to you, and what I shall take it as a
+particular favour if you will mention to Lieutenant Walters, is as
+follows.”
 
-“Thank you, it’s of no consequence,” retorted Mr Toots. “I thought
-perhaps you wouldn’t mind, in this fine weather, coming [[Home|home]] by [[Water|water]],
-Miss Dombey. There’s plenty of room in the boat for your maid.”
+“Is as follers,” echoed the Captain. “Steady!”
 
-“I am very much obliged to you,” said Florence, hesitating. “I really
-am—but I would rather not.”
-
-“Oh, it’s of no consequence,” retorted Mr Toots. “Good morning.”
+“Miss Dombey being so inexpressably kind,” continued Mr Toots with
+watery eyes, “as to say that my presence is the reverse of disagreeable
+to her, and you and everybody here being no less forbearing and
+tolerant towards one who—who certainly,” said Mr Toots, with momentary
+dejection, “would appear to have been born by mistake, I shall come
+backwards and forwards of an evening, during the short [[Time|time]] we can all
+be together. But what I ask is this. If, at any moment, I find that I
+cannot endure the contemplation of Lieutenant Walters’s bliss, and
+should rush out, I [[Hope|hope]], Captain Gills, that you and he will both
+consider it as my misfortune and not my fault, or the want of inward
+conflict. That you’ll feel convinced I bear no malice to any living
+creature-least of all to Lieutenant Walters himself—and that you’ll
+casually remark that I have gone out for a walk, or probably to see
+what o’[[Clock|clock]] it is by the Royal Exchange. Captain Gills, if you could
+enter into this arrangement, and could answer for Lieutenant Walters,
+it would be a relief to my feelings that I should think cheap at the
+sacrifice of a considerable portion of my property.”

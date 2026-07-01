@@ -14,6 +14,10 @@ tags:
 </nav>
 
 
+shipping and many newspapers. He entered by the gate giving on the
+
+[[Road|road]], at the opposite side to the [[River|river]], but there was a mixed
+
 quality in all that watery landscape which perpetually reminded a
 
 traveler that the [[River|river]] was near. White gleams of [[Water|water]] would shine
@@ -176,16 +180,3 @@ the dome of a bald head and the top of a fishing rod, both equally
 motionless, rising out of the tall undergrowth against the
 
 background of the stream beyond. The fisherman seemed to be seated
-
-against the stump of a tree and facing toward the other bank, so
-
-that his face could not be seen, but the shape of his head was
-
-unmistakable.
-"He doesn't like to be disturbed when he's fishing," continued
-
-Harker. "It's a sort of fad of his to eat nothing but fish, and he's
-
-very proud of catching his own. Of course he's all for simplicity,
-
-like so many of these millionaires. He likes to come in saying he's

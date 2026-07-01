@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 28: TWENTY EIGHT (part 3)"
+title: "Martin Chuzzlewit — Chapter 28: TWENTY EIGHT (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_28_twenty_eight/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_28_twenty_eight/part_04">part 04 ›</a></div>
 </nav>
 
+
+It does not follow in the case of such a person that the more talkative
+he becomes, the more agreeable he is; on the contrary, his merits show
+to most advantage, perhaps, in [[Silence|silence]]. Having no means, as he thought,
+of putting himself on an equality with the rest, but by the assertion
+of that depth and sharpness on which he had been complimented, Jonas
+exhibited that faculty to the utmost; and was so deep and sharp that
+he lost himself in his own profundity, and cut his fingers with his own
+edge-tools.
 
 It was especially in his way and character to exhibit his quality at his
 entertainer’s expense; and while he drank of his sparkling wines, and
@@ -122,17 +131,3 @@ intoxication.
 do with Todgers’s. I cut that connection long ago. He’s been a-dining
 with my governor at the west-end. Didn’t you know he was a-coming to see
 us?’
-
-‘No,’ she said, faintly.
-
-‘Oh yes! We’re heavy swells too, and so I tell you. Don’t you come out,
-a-catching cold in your head. I’ll wake him!’ Mr Bailey expressing in
-his demeanour a perfect confidence that he could carry him in with ease,
-if necessary, opened the coach door, let down the steps, and giving
-Jonas a shake, cried ‘We’ve got [[Home|home]], my flower! Tumble up, then!’
-
-He was so far recovered as to be able to respond to this appeal, and
-to come stumbling out of the coach in a heap, to the great hazard of Mr
-Bailey’s person. When he got upon the pavement, Mr Bailey first butted
-at him in front, and then dexterously propped him up behind; and having
-steadied him by these means, he assisted him into the [[house]].

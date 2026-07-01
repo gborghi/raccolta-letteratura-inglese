@@ -1,5 +1,5 @@
 ---
-title: "[[CharlesDickens]] — Chapter 6 (part 5)"
+title: "CharlesDickens — Chapter 6 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/charlesdickens-(chesterton)"
@@ -14,9 +14,36 @@ tags:
 </nav>
 
 
+He returned [[Home|home]] in the [[spring]] of 1842, and in the later part
+of the year his "American Notes" appeared, and the cry against him
+that had begun over copyright swelled into a roar in his rear.
+Yet when we read the "Notes" we can find little offence
+in them, and, to say [[Truth|truth]], less interest than usual.
+They are no true picture of [[America]], or even of his vision of [[America]],
+and this for two reasons.  First, that he deliberately excluded
+from them all mention of that copyright question which had really
+given him his glimpse of how tyrannical a [[democracy]] can be.
+Second, that here he chiefly criticises [[America]] for faults
+which are not, after all, especially American.  For example,
+he is indignant with the inadequate character of the prisons,
+and compares them unfavourably with those in England, controlled by
+Lieutenant Tracey, and by Captain Chesterton at Coldbath Fields,
+two reformers of [[Prison|prison]] discipline for whom he had a high regard.
+But it was a mere accident that American gaols were inferior
+to English.  There was and is nothing in the American
+spirit to prevent their effecting all the reforms of Tracey
+and Chesterton, nothing to prevent their doing anything that
+money and energy and organisation can do.  [[America]] might have
+(for all I know, does have) a [[Prison|prison]] system cleaner and more
+humane and more efficient than any other in the world.
+And the evil genius of [[America]] might still remain--everything might
+remain that makes Pogram or Chollop irritating or absurd.
+And against the evil genius of [[America]] Dickens was now to strike
+a second and a very different blow.
+
 In January, 1843, appeared the first number of the [[Novel|novel]] called
 "[[Martin Chuzzlewit]]."  The earlier part of the book and the end,
-which have no connection with [[america|America]] or the American problem,
+which have no connection with [[America]] or the American problem,
 in any case require a passing word.  But except for the two
 gigantic grotesques on each side of the gateway of the tale,
 Pecksniff and Mrs. Gamp, "[[Martin Chuzzlewit]]" will be chiefly
@@ -51,10 +78,10 @@ made to be laughed at?
 But it is the American part of "[[Martin Chuzzlewit]]" which is
 our concern, and which is memorable.  It has the air of a
 great [[Satire|satire]]; but if it is only a great slander it is still great.
-His serious book on [[america|America]] was merely a squib, perhaps a damp squib.
-In any case, we all know that [[america|America]] will survive such serious books.
-But his fantastic book may survive [[america|America]].  It may survive
-[[america|America]] as "The Knights" has survived Athens.  "[[Martin Chuzzlewit]]"
+His serious book on [[America]] was merely a squib, perhaps a damp squib.
+In any case, we all know that [[America]] will survive such serious books.
+But his fantastic book may survive [[America]].  It may survive
+[[America]] as "The Knights" has survived Athens.  "[[Martin Chuzzlewit]]"
 has this quality of great [[Satire|satire]] that the critic forgets
 to ask whether the portrait is true to the original,
 because the portrait is so much more important than the original.
@@ -72,7 +99,7 @@ he said that [[Queen]] Victoria did not live in the Tower of [[London]]
 he "fell into an error not uncommon among his countrymen."
 He has his finger on the nerve of an evil which was not only
 in his enemies, but in himself.  The great democrat has hold
-of one of the dangers of [[Democracy|democracy]].  The great optimist confronts
+of one of the dangers of [[democracy]].  The great optimist confronts
 a horrible [[nightmare]] of optimism.  Above all, the genuine Englishman
 attacks a sin that is not merely American, but English also.
 The eternal, complacent iteration of patriotic half-truths;
@@ -81,7 +108,7 @@ stale butter; above all, the big defiances of small enemies,
 or the very urgent challenges to very distant enemies; the cowardice
 so habitual and unconscious that it wears the plumes of [[Courage|courage]]--
 all this is an English [[Temptation|temptation]] as [[Well|well]] as an American one.
-"[[Martin Chuzzlewit]]" may be a caricature of [[america|America]].  [[america|America]] may
+"[[Martin Chuzzlewit]]" may be a caricature of [[America]].  [[America]] may
 be a caricature of England.  But in the gravest college,
 in the quietest country [[house]] of England, there is the seed of
 the same essential [[Madness|madness]] that fills Dickens's book, like an asylum,
@@ -111,7 +138,7 @@ lets it fall as something obviously dim and barbaric--then there
 is only one adjective for the ultimate fate of that civilisation,
 and that adjective is "Chinese."
 
-[[Martin Chuzzlewit]]'s [[america|America]] is a mad-[[house]]: but it is a mad-[[house]]
+[[Martin Chuzzlewit]]'s [[America]] is a mad-[[house]]: but it is a mad-[[house]]
 we are all on the [[Road|road]] to.  For completeness and even comfort are
 almost the definitions of insanity.  The lunatic is the man who lives
 in a small world but thinks it is a large one:  he is the man

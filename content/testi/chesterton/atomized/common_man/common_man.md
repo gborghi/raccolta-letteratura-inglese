@@ -1,5 +1,5 @@
 ---
-title: "[[Common Man]]"
+title: "Common Man"
 author: "Chesterton"
 unitType: work
 parentWork: "works/common-man-(chesterton)"
@@ -74,7 +74,7 @@ The explanation, or excuse, for this [[Essay|essay]] is to be found
 in a certain notion, which seems to me very obvious, but which I
 have never, as it happens, seen stated by anybody else.  It happens
 rather to cut across the common frontiers of current controversy.
-It can be used for or against [[Democracy]], according to whether that
+It can be used for or against [[democracy|Democracy]], according to whether that
 swear-word is or is not printed with a big D. It can be connected,
 like most things, with religion; but only rather indirectly
 with my own religion.  It is primarily the recognition of a fact,
@@ -236,9 +236,9 @@ It is quite certain that many modern thinkers and writers honestly feel
 a contempt for the [[Common Man]]; it is also quite certain that I myself
 feel a contempt for those who feel this contempt.  But the actual
 issue must be faced more fully; because what is called the reaction
-against [[Democracy|democracy]] is at this moment the chief result of [[Democracy|democracy]].
+against [[democracy]] is at this moment the chief result of [[democracy]].
 Now on this quarrel I am democratic, or at least defiant of the attacks
-of [[Democracy|democracy]].  I do not believe that most modern people have seen
+of [[democracy]].  I do not believe that most modern people have seen
 the real point of the advantage or disadvantage of popular rule;
 and my [[Doubt|doubt]] can be very largely suggested and summarised under this
 title of the [[Common Man]].
@@ -249,7 +249,7 @@ out what appalling blunders have in fact been due to the Uncommon Man.
 It is easy enough to argue that the mob makes mistakes; but as a fact
 it never has a chance even to make mistakes until its superiors
 have used their superiority to make much worse mistakes.  It is easy
-to weary of [[Democracy|democracy]] and cry out for an intellectual aristocracy.
+to weary of [[democracy]] and cry out for an intellectual aristocracy.
 But the trouble is that every intellectual aristocracy seems to
 have been utterly unintellectual.  Anybody might guess beforehand
 that there would be blunders of the ignorant.  What nobody could
@@ -327,7 +327,7 @@ Some of them did rightly exalt liberty and human dignity
 and equality, as expressed in the Declaration of Independence.
 But even that was so much mishandled that there is now a disposition
 to deny the [[Truth|truth]] along with the falsehood.  There has been a reaction
-against [[Democracy]]; or, in plain words, the prigs are now too bored
+against [[democracy|Democracy]]; or, in plain words, the prigs are now too bored
 even to go on with their normal routine about the [[Common Man]];
 the familiar routine of oppressing him in practice and adoring
 him in theory.
@@ -339,7 +339,7 @@ is enough to justify my preference.  I repeat that they have had
 all the educational advantages over him; they have always led him;
 and they have always misled him.  And even in becoming reactionaries,
 they remain as raw and crude as when they were revolutionaries.
-Their anti-[[Democracy|democracy]] is as much stuffed with cant as their [[Democracy|democracy]].
+Their anti-[[democracy]] is as much stuffed with cant as their [[democracy]].
 I need only allude to the detestable new fashion of referring to ordinary
 men as morons.  First, it is pedantry, the dullest form of [[Vanity|vanity]];
 for a moron is only the Greek for a [[Fool|fool]]; and it is mostly sham pedantry,
@@ -687,7 +687,7 @@ In their treatment of the great national fairy-tale of good
 and evil, the Puritans killed St. George but carefully preserved
 the Dragon, And this seventeenth-century tradition of dealing
 with the psychic life still lies like a great [[Shadow|shadow]] over England
-and [[america|America]], so that if we glance at a [[Novel|novel]] about occultism we
+and [[America]], so that if we glance at a [[Novel|novel]] about occultism we
 may be perfectly certain that it deals with sad or evil destiny.
 Whatever else we expect we certainly should never expect to find
 in it spirits such as those in Aylwin as inspirers of a tale of
@@ -1500,7 +1500,7 @@ Now the queer thing is this:  that I think it is I who am standing
 up for the principle of patriotism; and I think it is he who is
 denying it.  As a matter of fact, I am one of the few people left,
 of my own sort and calling, who do still believe in patriotism;
-just as I am among the few who do still believe in [[Democracy|democracy]].
+just as I am among the few who do still believe in [[democracy]].
 Both these ideas, were exaggerated extravagantly and,
 what is worse, erroneously, or entirely in the wrong way,
 during the nineteenth century; but the reaction against them
@@ -2418,7 +2418,7 @@ anthropological fashion.  It is akin to all that dates from Darwin;
 and the popularisation by Huxley of an almost pessimistic type
 of evolution.  Modern Southerners are much more hostile to negroes
 than they were when they owned slaves.  As there [[Rose|rose]] recently
-in [[america|America]] the anthropological theory that the negro is only an ape,
+in [[America]] the anthropological theory that the negro is only an ape,
 so there [[Rose|rose]] recently in Europe the anthropological notion that
 the Pole is only a Slav, or that the Irishman is only a Celt.
 People were so proud of discovering these larger groups that they
@@ -3426,13 +3426,13 @@ grander by being quoted again and again; that the words actually
 grow together with [[Time|time]], as do the sections of a seasoned violin?
 I am not saying that the [[Truth|truth]] is all on the side of tradition;
 I am only saying that the publicity is all on the side of innovation.
-Until the recent rise of the Humanist group in [[america|America]],
+Until the recent rise of the Humanist group in [[America]],
 hardly anybody, even of the educated classes, possessed even
 the vocabulary for a defence of tradition.  The very words in use,
 the very structure of the sentences, the ordinary tone of the whole
 public Press, prevented me from using the real and reasonable
 arguments against mere novelty.  England, strangely enough,
-has even less of a working Humanist vocabulary than [[america|America]].
+has even less of a working Humanist vocabulary than [[America]].
 Here also working journalistic ethics have been too much cut
 down and simplified to a few crude ideas, of commercial activity
 or continuous [[Reform|reform]].  I shall be completely misunderstood if I am
@@ -3486,7 +3486,7 @@ Taken in conjunction with the charge of pedantry, it has created
 the image of a bullying schoolmaster, a superior person who thinks
 himself above good manners.  Now Johnson was sometimes insolent,
 but he was never superior.  He was not a despot, but exactly
-the reverse.  It was his sense of the [[Democracy|democracy]] of [[debate]] that made
+the reverse.  It was his sense of the [[democracy]] of [[debate]] that made
 him loud and unscrupulous, like a mob.  It was exactly because
 he thought the other men as clever as himself that he sought
 in desperate cases to bear them down by clamour.  Everyone knows
@@ -3960,7 +3960,7 @@ living which seemed to be more and more broad.  We might say
 that the poets had led the procession, for even at the beginning
 of the nineteenth century Shelley and Landor and Byron and Keats had
 moved in various ways towards a pantheistic paganism; and the tendency
-was continued by Victor Hugo in Europe and by Walt Whitman in [[america|America]].
+was continued by Victor Hugo in Europe and by Walt Whitman in [[America]].
 There were, of course, continual [[Cross|cross]]-currents and confusions.
 Even an appeal to pantheism is something like an appeal to theism,
 and it was difficult to imitate the pagans without discovering,
@@ -5123,7 +5123,7 @@ of the philosopher to pause upon such words, and determine their
 importance and unimportance.  The Roman Republic and all its citizens
 had to the last a horror of the word "[[King|king]]". It was in consequence of this
 that they invented and imposed on us the word "Emperor". The great
-Republicans who founded [[america|America]] also had a horror of the word "[[King|king]]";
+Republicans who founded [[America]] also had a horror of the word "[[King|king]]";
 which has therefore reappeared with the special qualification
 of a Steel [[King]], an Oil [[King]], a Pork [[King]], or other similar monarchs
 made of similar materials.  The business of the philosopher is not
@@ -5299,7 +5299,7 @@ mere destructiveness; neither on the noblest level of human culture,
 but neither on the most ignoble.  First, of course, the Vandal
 may be the Iconoclast.  He may destroy certain artistic creations
 because they are really opposed to his moral convictions.
-Thus a Puritan fanatic from [[america|America]] might conceivably think himself
+Thus a Puritan fanatic from [[America]] might conceivably think himself
 commanded by the Lord to dynamite Westminster Abbey, because it
 is full of idols; that is of images with a religious character.
 Curiously enough, he would be half right.  It is full of idols;
@@ -5470,7 +5470,7 @@ and the mystic jewels which remained only as letters.
 It was not what we ordinarily understand by revolt.  It had no hatred
 in its heart for ancient and essentially human institutions.
 It had that deeply conservative belief in the most ancient
-of institutions, the average man, which goes by the name of [[Democracy|democracy]].
+of institutions, the average man, which goes by the name of [[democracy]].
 Their ideal, like the ideal of all sensible people, was a chaotic
 and confused notion of goodness made up of English primroses
 and Greek statues, [[Birds|birds]] singing in April, and regiments being cut
@@ -5679,7 +5679,7 @@ however intimate and sacred.  Bradlaugh was a Member of Parliament;
 he might [[Well|well]] have become a Cabinet Minister and appointed Bishops.
 Mr. Saklatvala was a Socialist leader and might quite [[Well|well]]
 be a Labour Minister, with a majority in the [[house|House]] and might
-by Act of Parliament make the [[prayer|Prayer]] Book anything he chose.
+by Act of Parliament make the [[Prayer]] Book anything he chose.
 That is State Establishment, as now universally understood;
 that is what Dean Inge desires and presumably defends; or must set
 about the delicate task of defending.
@@ -5806,8 +5806,8 @@ They are witty, brilliant and fashionable bankrupts.
 They have come to an end; and they have not come to an End.
 The earlier rebels were happy in being pioneers of the actual
 forward movements of their [[Time|time]]; as Walt Whitman, axe in hand,
-walked before the actual march of industrial [[Democracy|democracy]].
-But Mr. Aldous Huxley can hardly be roused by the word [[Democracy]].
+walked before the actual march of industrial [[democracy]].
+But Mr. Aldous Huxley can hardly be roused by the word [[democracy|Democracy]].
 D. H. Lawrence, on the other hand, could be roused by
 the word Industrialism.
 
@@ -6582,7 +6582,7 @@ be encouraged, it means nothing whatever.
 
 THE NEW BIGOTRY
 
-I notice with some amusement, both in [[america|America]] and English literature,
+I notice with some amusement, both in [[America]] and English literature,
 the rise of a new kind of bigotry.  Bigotry does not consist in a man
 being convinced he is right; that is not bigotry, but [[Sanity|sanity]].
 Bigotry consists in a man being convinced that another man must
@@ -6632,7 +6632,7 @@ Episcopalians are forced by their bishops to believe in.
 
 This, though some of the worst examples have occurred in England,
 is a strictly correct [[Biography|biography]] of a man of genius who has come to us
-from [[america|America]]--Mr. T. S. Eliot.  It would be an exaggeration to say
+from [[America]]--Mr. T. S. Eliot.  It would be an exaggeration to say
 that Mr. Eliot was expelled from Harvard for being a High Churchman,
 as Shelley was expelled from [[Oxford]] for being an atheist.
 Mr. Eliot's character was not blasted by a religion until later
@@ -6847,7 +6847,7 @@ will last.  As the Imperialists wanted to paint the map red,
 so the Internationalists and Idealists now want to paint the map pink.
 But none of them has painted half so much of the map anything as they,
 in their optimism, have sometimes supposed.  And even in the areas
-where a sort of official optimism prevails, as in parts of [[america|America]],
+where a sort of official optimism prevails, as in parts of [[America]],
 there is a great deal more of the old ordinary [[Melancholy|melancholy]] of men than
 anyone could gather from newspaper headlines or political programmes.
 And I believe that the most general [[philosophy]] of men left to themselves,
@@ -7046,7 +7046,7 @@ and think it needless to dwell on the life of Heliogabalus or the science
 of hydraulics.  And thus he will learn the same lesson in another way;
 the somewhat difficult lesson that he is nobody except himself.
 
-Those two discoveries commonly combine in a [[Conversion|conversion]];
+Those two discoveries commonly combine in a [[conversion]];
 and this is perhaps the most workable framework in which to state
 the two chief elements of my own.  There was first the relation
 of Catholicism to my own original and personal problem; and there
@@ -7938,7 +7938,7 @@ These things, above all, were closing in upon that high and thwarted
 perhaps, might have attained and made one flesh.
 
 Historians quarrel about whether the English under Elizabeth
-preferred the [[prayer|Prayer]]-Book or the Mass-Book. But surely nobody will
+preferred the [[Prayer]]-Book or the Mass-Book. But surely nobody will
 quarrel about whether they preferred the Crescent or the [[Cross]].
 The learned dispute about how England was divided into Catholics
 and Protestants.  But nobody will dispute what England would have felt,
@@ -8071,7 +8071,7 @@ I know at least one Englishman who wishes to-day that he were as
 hopeful about the immediate future of England as about the immediate
 future of Spain.  But in my vision they might have learned from each
 other and produced, among other things, one prodigious consequence;
-[[america|America]] would be a very different place.
+[[America]] would be a very different place.
 
 There was a moment when all Christendom might have clustered together
 and crystallised anew, under the chemistry of the new culture;

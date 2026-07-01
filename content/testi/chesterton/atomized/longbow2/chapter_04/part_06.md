@@ -1,5 +1,5 @@
 ---
-title: "[[longbow2]] — Chapter 4 (part 6)"
+title: "longbow2 — Chapter 4 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -13,6 +13,34 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/longbow2/chapter_04/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/longbow2/chapter_04/part_07">part 07 ›</a></div>
 </nav>
 
+
+"Look here," said the inspector, recovering from his astonishment
+and breaking in on these felicitations.  "I don't understand
+all these games, but it's my business to ask a few questions. 
+Sorry to say it, sir, but you've ignored our notifications and evaded
+our attempts to--"
+
+"Have I?" inquired Mr. White brightly.  "Have I really evaded you? 
+[[Well]], [[Well|well]], perhaps I have.  An elephant is such a standing [[Temptation|temptation]]
+to evasion, to evanescence, to fading away like a dewdrop. 
+Like a snowdrop perhaps would be more appropriate.  Come on, Snowdrop."
+
+The last word came smartly, and he gave a smart smack to the huge
+head of the pachyderm.  Before the inspector could move or anyone
+had realized what had happened, the whole big bulk had pitched forward
+with a plunge like a cataract and went in great whirling strides,
+the crowd scattering before it.  The police had not come provided
+for elephants, which are rare in those parts.  Even if they had
+overtaken it on bicycles, they would have found it difficult to climb
+it on bicycles.  Even if they had had revolvers, they had omitted
+to conceal about their persons anything in the way of big-game rifles. 
+The white [[Monster|monster]] vanished rapidly up the long white [[Road|road]],
+so rapidly that when it dwindled to a small object and disappeared,
+people could hardly believe that such a prodigy had ever been present,
+or that their eyes had not been momentarily bewitched.  Only, as it
+disappeared in the distance, Pierce heard once more the high nasal
+trumpeting noise which, in the eclipse of [[Night|night]], had seemed to fill
+the forest with [[Fear|fear]].
 
 It was at a subsequent meeting in [[London]] that Crane and Pierce had an
 opportunity of learning, more or less, the true story of the affair,
@@ -101,38 +129,3 @@ Rather funny to be talking about noses, isn't it, for I suppose
 really it was her rival's nose that figured most prominently. 
 Think of having a rival with a nose like that to turn up at you! 
 Talk about a spire pointing to the [[Stars|stars]]--'"
-
-"I think," said Crane, interposing mildly, "that it would be
-better if you resumed your duties as official interpreter. 
-What was it that you were going to say about the lady who brooded
-over misunderstandings?"
-
-"I was going to say," replied the lawyer, "that when I first
-came upon that crowd in the village, and saw that tall figure
-and dark strong face dominating it in the old way, my mind went
-back to a score of things I remembered about her in the past. 
-Though we have not met for ten years, I knew from the first glimpse
-of her face that she had been worrying, in a powerful secretive sort
-of way; worrying about something she didn't understand and would
-not inquire about.  I remember long ago, when she was an ordinary
-fox-hunting squire's daughter and White was one of Sydney [[smith|Smith]]'s
-wild curates, how she sulked for two months over a mistake about
-a post-card that could have been explained in two minutes. 
-At least it could have been explained by anybody except White. 
-But you will understand that if he tried to explain the post-card
-on another post-card, the results may not have been luminous,
-let [[Alone|alone]] radiant."
-
-"But what has all this to do with noses?" inquired Pierce.
-
-"Don't you understand yet?" asked Hood with a smile.  "Don't you
-know who was the rival with the long nose?"
-
-He paused for a moment and then continued, "It occurred to me as soon
-as I had guessed at the [[Nature|nature]] of the nose which may certainly
-be called the main feature of the story.  An elusive, flexible and
-insinuating nose, the serpent of their Eden.  [[Well]], they seem
-to have returned to their Eden now; and I have no [[Doubt|doubt]] it will
-be all right; for it is when people are separated that these sort
-of [[Secrets|secrets]] [[Spring|spring]] up between them.  After all, it was a mystery
-to us and we cannot be surprised if it was a mystery to her."

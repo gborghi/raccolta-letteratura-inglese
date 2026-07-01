@@ -14,118 +14,114 @@ tags:
 </nav>
 
 
-A distinguished psychologist, who is [[Well|well]] acquainted with physiology,
-has told me that parts of himself are certainly levers,
-while other parts are probably pulleys, but that after feeling
-himself carefully all over, he cannot find a [[Wheel|wheel]] anywhere.
-The [[Wheel|wheel]], as a mode of movement, is a purely human thing.
-On the ancient escutcheon of Adam (which, like much of the rest
-of his costume, has not yet been discovered) the heraldic emblem
-was a [[Wheel|wheel]]--_passant_. As a mode of progress, I say, it is unique.
-Many modern philosophers, like my friend before mentioned,
-are ready to find links between man and beast, and to show that man
-has been in all things the blind slave of his mother earth.
-Some, of a very different kind, are even eager to show it;
-especially if it can be twisted to the discredit of religion.
-But even the most eager scientists have often admitted in my hearing
-that they would be surprised if some kind of cow approached them
-moving solemnly on four wheels.  Wings, fins, flappers, claws,
-hoofs, webs, trotters, with all these the fantastic families
-of the earth come against us and close around us, fluttering and
-flapping and rustling and galloping and lumbering and thundering;
-but there is no sound of wheels.
+* * * * *
 
-I remember dimly, if, indeed, I remember aright, that in some of
-those dark prophetic pages of Scripture, that seem of cloudy purple
-and dusky gold, there is a passage in which the seer beholds a violent
-dream of wheels.  Perhaps this was indeed the symbolic declaration
-of the spiritual supremacy of man.  Whatever the [[Birds|birds]] may do above
-or the fishes beneath his [[Ship|ship]], man is the only thing to steer;
-the only thing to be conceived as steering.  He may make the [[Birds|birds]]
-his friends, if he can.  He may make the fishes his gods, if he chooses.
-But most certainly he will not believe a bird at the masthead;
-and it is hardly likely that he will even permit a fish at the helm.
-He is, as Swinburne says, helmsman and chief:  he is literally
-the Man at the [[Wheel]].
+It was for this reason that the old woman and her [[donkey]]
+struck us first when seen from behind as one black [[Grotesque|grotesque]].
+I afterwards had the chance of seeing the old woman, the cart,
+and the [[donkey]] fairly, in flank and in all their length.
+I saw the old woman and the [[donkey]] _passant_, as they might have
+appeared heraldically on the shield of some heroic family.
+I saw the old woman and the [[donkey]] dignified, decorative, and flat,
+as they might have marched across the Elgin Marbles.  Seen thus
+under an equal light, there was nothing specially ugly about them;
+the cart was long and sufficiently comfortable; the [[donkey]] was
+stolid and sufficiently respectable; the old woman was lean but
+sufficiently strong, and even smiling in a sour, rustic manner.
+But seen from behind they looked like one black monstrous animal;
+the dark [[donkey]] ears seemed like dreadful wings, and the tall
+dark back of the woman, erect like a tree, seemed to grow taller
+and taller until one could almost scream.
 
-The [[Wheel|wheel]] is an animal that is always standing on its head;
-only "it does it so rapidly that no philosopher has ever found
-out which is its head."  Or if the phrase be felt as more exact,
-it is an animal that is always turning head over heels and progressing
-by this principle.  Some fish, I think, turn head over heels
-(supposing them, for the sake of argument, to have heels);
-I have a dog who nearly did it; and I did it once myself when I
-was very small.  It was an accident, and, as delightful novelist,
-Mr. De Morgan, would say, it never can happen again.  Since then
-no one has accused me of being upside down except mentally:
-and I rather think that there is something to be said for that;
-especially as typified by the rotary symbol.  A [[Wheel|wheel]] is the
-[[Sublime|sublime]] [[Paradox|paradox]]; one part of it is always going forward and the other
-part always going back.  Now this, as it happens, is highly similar
-to the proper condition of any human [[Soul|soul]] or any political state.
-Every sane [[Soul|soul]] or state looks at once backwards and forwards;
-and even goes backwards to come on.
+Then we went by her with a blasting roar like a railway train,
+and fled far from her over the brow of the [[Hill|hill]] to my friend's [[Home|home]].
 
-For those interested in revolt (as I am) I only say meekly that one cannot
-have a Revolution without revolving.  The [[Wheel|wheel]], being a logical thing,
-has reference to what is behind as [[Well|well]] as what is before.  It has
-(as every society should have) a part that perpetually leaps helplessly
-at the sky and a part that perpetually bows down its head into the [[Dust|dust]].
-Why should people be so scornful of us who stand on our heads?
-Bowing down one's head in the [[Dust|dust]] is a very good thing,
-the humble beginning of all happiness.  When we have bowed
-our heads in the [[Dust|dust]] for a little [[Time|time]] the happiness comes;
-and then (leaving our heads in the humble and reverent position)
-we kick up our heels behind in the air.  That is the true origin
-of standing on one's head; and the ultimate defence of [[Paradox|paradox]].
-The [[Wheel|wheel]] humbles itself to be exalted; only it does it a little
-quicker than I do.
+There we paused only for my friend to stock the car with some kind
+of picnic paraphernalia, and so started again, as it happened,
+by the way we had come.  Thus it fell that we went shattering down
+that short, sharp [[Hill|hill]] again before the poor old woman and her [[donkey]]
+had managed to crawl to the top of it; and seeing them under a
+different light, I saw them very differently.  Black against the sun,
+they had seemed comic; but bright against greenwood and grey cloud,
+they were not comic but tragic; for there are not a few things
+that seem fantastic in the twilight, and in the sunlight are sad.
+I saw that she had a grand, gaunt mask of ancient [[Honour|honour]]
+and [[Endurance|endurance]], and wide eyes sharpened to two shining points,
+as if looking for that small [[Hope|hope]] on the horizon of human life.
+I also saw that her cart contained carrots.
 
--/-
+"Don't you feel, broadly speaking, a beast," I asked my friend,
+"when you go so easily and so fast?"  For we had crashed by so that
+the crazy cart must have thrilled in every stick of it.
 
-Five Hundred and Fifty-five
+My friend was a good man, and said, "Yes. But I don't think it
+would do her any good if I went slower."
 
-LIFE is full of a ceaseless shower of small coincidences;
-too small to be worth mentioning except for a special purpose,
-often too trifling even to be noticed, any more than we notice
-one snowflake falling on another.  It is this that lends
-a frightful plausibility to all false doctrines and evil fads.
-There are always such crowds of accidental arguments for anything.
-If I said suddenly that historical [[Truth|truth]] is generally told
-by red-haired men, I have no [[Doubt|doubt]] that ten minutes' reflection
-(in which I decline to indulge) would provide me with a handsome
-list of instances in support of it.  I remember a riotous argument
-about Bacon and Shakespeare in which I offered quite at random
-to show that Lord Rosebery had written the works of Mr. W. B. Yeats.
-No sooner had I said the words than a torrent of coincidences
-rushed upon my mind.  I pointed out, for instance, that Mr. Yeats's
-chief work was "The Secret [[Rose]]."  This may easily be paraphrased
-as "The Quiet or Modest [[Rose]]"; and so, of course, as the Primrose.
-A second after I saw the same suggestion in the combination of "[[Rose|rose]]"
-and "bury." If I had pursued the matter, who knows but I might have
-been a raving maniac by this [[Time|time]].
+"No," I assented after reflection.  "Perhaps the only pleasure we can
+give to her or any one else is to get out of their sight very soon."
 
-We trip over these trivial repetitions and exactitudes at
-every turn, only they are too trivial even for conversation.
-A man named Williams did walk into a strange [[house]] and murder
-a man named Williamson; it sounds like a sort of infanticide.
-A journalist of my acquaintance did move quite unconsciously
-from a place called Overstrand to a place called Overroads.
-When he had made this escape he was very properly pursued by a
-voting card from Battersea, on which a political agent named
-Burn asked him to vote for a political candidate named Burns.
-And when he did so another coincidence happened to him:
-rather a spiritual than a material coincidence; a mystical thing,
-a matter of a [[Magic|magic]] number.
+My friend availed himself of this advice in no niggard spirit;
+I felt as if we were fleeing for our lives in throttling [[Fear|fear]] after
+some frightful atrocity.  In [[Truth|truth]], there is only one difference
+left between the secrecy of the two social classes:  the poor hide
+themselves in darkness and the rich hide themselves in distance.
+They both hide.
 
 * * * * *
 
-For a sufficient number of reasons, the man I know went up to vote
-in Battersea in a drifting and even dubious frame of mind.
-As the train slid through swampy woods and sullen skies there came
-into his empty mind those idle and yet awful questions which come when
-the mind is empty.  Fools make cosmic systems out of them; knaves make
-profane [[Poems|poems]] out of them; men try to crush them like an ugly lust.
-Religion is only the responsible reinforcement of common [[Courage|courage]]
-and common sense.  Religion only sets up the normal mood of health
-against the hundred moods of disease.
+As we shot like a lost boat over a cataract down into a whirlpool of
+white roads far below, I saw afar a black dot crawling like an insect.
+I looked again:  I could hardly believe it.  There was the slow old woman,
+with her slow old [[donkey]], still toiling along the main [[Road|road]].
+I asked my friend to slacken, but when he said of the car,
+"She's wanting to go," I knew it was all up with him.
+For when you have called a thing female you have yielded to it utterly.
+We passed the old woman with a shock that must have shaken the earth:
+if her head did not reel and her heart quail, I know not what they
+were made of.  And when we had fled perilously on in the gathering dark,
+spurning hamlets behind us, I suddenly called out, "Why, what asses
+we are!  Why, it's She that is brave--she and the [[donkey]].
+We are safe enough; we are artillery and plate-armour: and she stands up
+to us with matchwood and a snail!  If you had grown old in a quiet valley,
+and people began firing cannon-balls as big as cabs at you in your
+seventieth year, wouldn't you jump--and she never moved an eyelid.
+Oh! we go very fast and very far, no [[Doubt|doubt]]--"
+
+As I spoke came a curious noise, and my friend, instead of going fast,
+began to go very slow; then he stopped; then he got out.
+Then he said, "And I left the Stepney behind."
+
+The grey moths came out of the wood and the yellow [[Stars|stars]] came
+out to [[Crown|crown]] it, as my friend, with the lucidity of [[Despair|despair]],
+explained to me (on the soundest scientific principles, of course)
+that nothing would be any good at all.  We must [[Sleep|sleep]] the [[Night|night]]
+in the lane, except in the very unlikely event of some one coming
+by to carry a message to some town.  Twice I thought I heard
+some tiny sound of such approach, and it died away like [[Wind|wind]]
+in the trees, and the motorist was already asleep when I heard
+it renewed and realised Something certainly was approaching.
+I ran up the [[Road|road]]--and there it was.  Yes, It--and She.
+Thrice had she come, once comic and once tragic and once heroic.
+And when she came again it was as if in pardon on a pure errand of prosaic
+pity and relief.  I am quite serious.  I do not want you to laugh.
+It is not the first [[Time|time]] a [[donkey]] has been received seriously,
+nor one riding a [[donkey]] with respect.
+
+-/-
+
+The [[Wheel]]
+
+IN a quiet and rustic though fairly famous church in my neighbourhood
+there is a [[Window|window]] supposed to represent an Angel on a Bicycle.
+It does definitely and indisputably represent a nude youth sitting
+on a [[Wheel|wheel]]; but there is enough complication in the [[Wheel|wheel]] and sanctity
+(I suppose) in the youth to warrant this working description.
+It is a thing of florid Renascence outline, and belongs to the highly
+pagan period which introduced all sorts of objects into ornament:
+personally I can believe in the bicycle more than in the angel.
+Men, they say, are now imitating angels; in their flying-machines,
+that is:  not in any other respect that I have heard of.  So perhaps
+the angel on the bicycle (if he is an angel and if it is a bicycle)
+was avenging himself by imitating man.  If so, he showed that high
+order of intellect which is attributed to angels in the mediaeval books,
+though not always (perhaps) in the mediaeval pictures.

@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 40: FORTY (part 1)"
+title: "Martin Chuzzlewit — Chapter 40: FORTY (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -115,5 +115,3 @@ than the satisfaction of knowing it was not the case.
 Mr Fips, of Austin Friars, rather deepened than illumined the obscurity
 of his position; for on the first occasion of Tom’s waiting on him to
 receive his weekly pay, he said:
-
-‘Oh! by the bye, Mr Pinch, you needn’t mention it, if you please!’

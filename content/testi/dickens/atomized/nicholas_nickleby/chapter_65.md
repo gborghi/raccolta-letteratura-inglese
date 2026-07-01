@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 65"
+title: "Nicholas Nickleby — Chapter 65"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/nicholas-nickleby-(dickens)">Nicholas Nickleby</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_64">‹ Chapter 64</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_02/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_64">‹ Chapter 64</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_01/part_01">part 01 ›</a></div>
 </nav>
 
 
@@ -73,7 +73,7 @@ toiled all his days, and burdened his [[Soul|soul]] with so many evil deeds, wer
 swept at last into the coffers of the state, and no man was the better
 or the happier for them.
 
-[[Arthur]] Gride was tried for the unlawful possession of the will, which
+[[arthur|Arthur]] Gride was tried for the unlawful possession of the will, which
 he had either procured to be stolen, or had dishonestly acquired and
 retained by other means as bad. By dint of an ingenious counsel, and
 a legal flaw, he escaped; but only to undergo a worse punishment;

@@ -1,5 +1,5 @@
 ---
-title: "Napoleon of Notting [[Hill]] — Chapter 1 (part 3)"
+title: "Napoleon of Notting Hill — Chapter 3 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/napoleon-of-notting-hill-(chesterton)"
@@ -14,113 +14,150 @@ tags:
 </nav>
 
 
-A couple of days after his interview with the [[King]], [[Adam Wayne]]
-was pacing like a caged [[Lion|lion]] in front of five shops that occupied
-the upper end of the disputed street.  They were a [[grocer]]'s,
-a chemist's, a barber's, an old curiosity shop, and a toy-shop
-that sold also newspapers.  It was these five shops which his
-childish fastidiousness had first selected as the essentials
-of the Notting [[Hill]] campaign, the citadel of the [[City|city]].
-If Notting [[Hill]] was the heart of the universe, and Pump Street
-was the heart of Notting [[Hill]], this was the heart of Pump Street.
-The fact that they were all small and side by side realized that feeling
-for a formidable comfort and compactness which, as we have said,
-was the heart of his patriotism and of all patriotism.  The [[grocer]]
-(who had a wine and spirit licence) was included because he could
-provision the garrison; the old curiosity shop because it contained
-enough swords, pistols, partisans, [[Cross|cross]]-bows, and blunderbusses to arm
-a whole irregular regiment; the toy and paper shop because Wayne
-thought a free press an essential centre for the [[Soul|soul]] of Pump Street;
-the chemist's to cope with outbreaks of disease among the besieged;
-and the barber's because it was in the middle of all the rest,
-and the barber's son was an intimate friend and spiritual affinity.
+And Mr. Buck sat down amid subdued but excited applause among the allies.
 
-It was a cloudless October evening settling down through purple
-into pure silver around the roofs and chimneys of the steep
-little street, which looked black and sharp and dramatic.
-In the deep shadows the gas-lit shop fronts gleamed like five fires
-in a row, and before them, darkly outlined like a [[Ghost|ghost]] against
-some purgatorial furnaces, passed to and fro the tall bird-like
-figure and eagle nose of [[Adam Wayne]].
+"Mr. Buck," said the [[King]], "I beg your pardon, for a number of beautiful
+and sacred thoughts, in which you were generally classified as a [[Fool|fool]].
+But there is another thing to be considered.  Suppose you send
+in your workmen, and Mr. Wayne does a thing regrettable indeed,
+but of which I am sorry to say, I think him quite capable...knocks
+their teeth out."
 
-He swung his stick restlessly, and seemed fitfully talking to himself.
+"I have thought of that, your Majesty," said Mr. Buck, easily, "and I
+think it can simply be guarded against.  Let us send in a strong guard
+of say a hundred men...a hundred Of the North Kensington Halberdiers"
+(he smiled grimly), "of whom your Majesty is so fond.  Or say...a
+hundred and fifty.  The whole population of Pump Street, I fancy,
+is only about a hundred."
 
-"There are, after all, enigmas," he said, "even to the man who has [[Faith|faith]].
-There are doubts that remain even after the true [[philosophy]]
-is completed in every rung and rivet.  And here is one of them.
-Is the normal human need, the normal human condition, higher or
-lower than those special spates of the [[Soul|soul]] which call out a
-doubtful and dangerous glory? those special powers of knowledge
-or sacrifice which are made possible only by the existence of evil?
-Which should come first to our affections, the enduring sanities of peace
-or the half-maniacal virtues of battle?  Which should come first,
-the man great in the daily round or the man great in emergency?
-Which should come first, to return to the enigma before me, the [[grocer]]
-or the chemist?  Which is more certainly the stay of the [[City|city]],
-the swift chivalrous chemist or the benignant all-providing, [[grocer]]?
-In such ultimate spiritual doubts it is only possible to choose
-a side by the higher instincts and to abide the issue.  In any case,
-I have made my choice.  May I be pardoned if I choose wrongly,
-but I choose the [[grocer]]."
+"Still they might stand together and lick you," said the [[King]], dubiously.
 
-"Good morning, sir," said the [[grocer]], who was a middle-aged man,
-partially bald, with harsh red whiskers and beard, and forehead
-lined with all the cares of the small tradesman.  "What can I
-do for you, sir?"
+"Then say two hundred," said Buck, gaily.
 
-Wayne removed his hat on entering the shop, with a ceremonious
-gesture, which, slight as it was, made the tradesman eye him
-with the beginnings of [[Wonder|wonder]].
+"It might happen," said the [[King]], restlessly, "that one Notting Hiller
+fought better than two, North Kensingtons."
 
-"I come, sir," he said soberly, "to appeal to your patriotism."
+"It might," said Buck, coolly; "then say two hundred and fifty."
 
-"Why, sir," said the [[grocer]], "that sounds like the times when I
-was a boy and we used to have elections."
+The [[King]] bit his lip.
 
-"You will have them again," said Wayne, firmly, "and far greater things.
-Listen, Mr. Mead.  I know the temptations which a [[grocer]] has to a too
-cosmopolitan [[philosophy]].  I can imagine what it must be to sit all
-day as you do surrounded with wares from all the ends of the earth,
-from strange seas that we have never sailed and strange forests
-that we could not even picture.  No Eastern [[King|king]] ever had such
-argosies or such cargoes coming from the sunrise and the sunset,
-and Solomon in all his glory was not enriched like one of you.
-India is at your elbow," he cried, lifting his voice and pointing his
-stick at a drawer of rice, the [[grocer]] making a movement of some alarm,
-"China is before you, Demerara is behind you, [[America]] is above
-your head, and at this very moment, like some old Spanish admiral,
-you hold Tunis in your hands."
+"And if they are beaten, too," he said viciously.
 
-Mr. Mead dropped the box of dates which he was just lifting,
-and then picked it up again vaguely.
+"Your Majesty," said Buck, and leaned back easily in his chair.
+"Suppose they are.  If anything be clear, it is clear
+that all fighting matters are mere matters of arithmetic.
+Here we have a hundred and fifty say of Notting [[Hill]] soldiers.
+Or say two hundred.  If one of them can fight two of us...we
+can send in, not four hundred, but six hundred, and smash him.
+That is all.  It is out of all immediate probability that one of them
+could fight four of us.  So what I say is this.  Run no risks.
+Finish it at once.  Send in eight hundred men and smash him...smash
+him almost without seeing him.  And go on with the improvements."
 
-Wayne went on with a heightened colour, but in a lowered voice:
+And Mr. Buck pulled out a bandanna and blew his nose.
 
-"I know, I say, the temptations of so international, so universal
-a vision of wealth.  I know that it must be your danger not to fall
-like many tradesmen into too dusty and mechanical a narrowness,
-but rather to be too broad, to be too general, too liberal.
-If a narrow nationalism be the danger of the pastrycook who makes
-his own wares under his own heavens, no less is cosmopolitanism
-the danger of the [[grocer]].  But I come to you in the name of that
-patriotism which no wanderings or enlightenments should ever
-wholly extinguish, and I ask you to remember Notting [[Hill]].
-For, after all, in this cosmopolitan magnificence, she has
-played no small part.  Your dates may come from the tall palms
-of Barbary, your sugar from the strange islands of the tropics,
-your tea from the secret villages of the Empire of the Dragon.
-That this room might be furnished, forests may have been spoiled
-under the Southern [[Cross]], and leviathans speared under the Polar Star.
-But you yourself...surely no inconsiderable treasure...you yourself,
-the brain that wields these vast interests...you yourself,
-at least, have grown to strength and wisdom between these grey
-houses and under this rainy sky.  This [[City|city]] which made you,
-and thus made your fortunes, is threatened with war.
-Come forth and tell to the ends of the earth this lesson.
-Oil is from the North and fruits from the South; rices are from
-India and spices from Ceylon; sheep are from New Zealand and men
-from Notting [[Hill]]."
+"Do you know, Mr. Buck," said the [[King]], staring gloomily at the table,
+"the admirable clearness of your reason produces in my mind
+a sentiment which I trust I shall not offend you by describing
+as an [[Aspiration|aspiration]] to punch your head.  You irritate me sublimely.
+What can it be in me?  Is it the relic of a moral sense?"
 
-The [[grocer]] sat for some little while, with dim eyes and his mouth open,
-looking rather like a fish.  Then he scratched the back of his head,
-and said nothing.  Then he said:
+"But your Majesty," said Barker, eagerly and suavely, "does not
+refuse our proposals?"
+
+"My dear Barker, your proposals are as damnable as your manners.
+I want to have nothing to do with them.  Suppose I stopped
+them altogether.  What would happen?"
+
+Barker answered in a very low voice:
+
+"Revolution."
+
+The [[King]] glanced quickly at the men around the table.
+They were all looking down silently:  their brows were red.
+
+He [[Rose|rose]] with a startling suddenness, and an unusual pallor.
+
+"Gentlemen," he said, "you have overruled me.  Therefore I can
+speak plainly.  I think [[Adam Wayne]], who is as mad as a hatter,
+worth more than a million of you.  But you have the force, and, I admit,
+the common sense, and he is lost.  Take your eight hundred halberdiers
+and smash him.  It would be more sportsmanlike to take two hundred."
+
+"More sportsmanlike," said Buck, grimly, "but a great deal less humane.
+We are not artists, and streets purple with gore do not catch our
+eye in the right way."
+
+"It is pitiful," said Auberon.  "With five or six times their number
+there will be no fight at all."
+
+"I [[Hope|hope]] not," said Buck, rising and adjusting his gloves.
+"We [[Desire|desire]] no fight, your Majesty.  We are peaceable business men."
+
+"[[Well]]," said the [[King]], wearily, "the conference is at an end at last."
+
+And he went out of the room before any one else could stir.
+
+. . . . .
+
+Forty workmen, a hundred Bayswater Halberdiers, two hundred
+from South, and three from North Kensington, assembled at the foot
+of Holland Walk and marched up it, under the general direction
+of Barker, who looked flushed and happy in full dress.  At the end
+of the procession a small and sulky figure lingered like an urchin.
+It was the [[King]].
+
+"Barker," he said at length, appealingly, "you are an old friend
+of mine...you understand my hobbies as I understand yours.
+Why can't you let it [[Alone|alone]]?  I hoped that such fun might come
+out of this Wayne business.  Why can't you let it [[Alone|alone]]?
+It doesn't really so much matter to you...what's a [[Road|road]] or so?
+For me it's the one joke that may save me from pessimism.
+Take fewer men and give me an hour's fun.  Really and truly,
+James, if you collected coins or humming-[[Birds|birds]], and I could buy
+one with the price of your [[Road|road]], I would buy it.  I collect
+incidents...those rare, those precious things.  Let me have one.
+Pay a few pounds for it.  Give these Notting Hillers a chance.
+Let them [[Alone|alone]]."
+
+"Auberon," said Barker, kindly, forgetting all royal titles
+in a rare moment of sincerity, "I do feel what you mean.
+I have had moments when these hobbies have hit me.
+I have had moments when I have sympathized with your humours.
+I have had moments, though you may not easily believe it,
+when I have sympathized with the [[Madness|madness]] of [[Adam Wayne]].
+But the world, Auberon, the real world, is not run on these hobbies.
+It goes on great brutal wheels of facts...wheels on which you are
+the butterfly.  And Wayne is the fly on the [[Wheel|wheel]]."
+
+Auberon's eyes looked frankly at the other's.
+
+"Thank you, James; what you say is true.  It is only a parenthetical
+consolation to me to compare the intelligence of flies, somewhat
+favourably with the intelligence of wheels.  But it is the [[Nature|nature]]
+of flies to die soon, and the [[Nature|nature]] of wheels to go on for ever.
+Go on with the [[Wheel|wheel]].  Good-bye, old man."
+
+And [[James Barker]] went on, laughing, with a high colour, slapping his
+bamboo on his leg.
+
+The [[King]] watched the tail of the retreating regiment with a look
+of genuine depression, which made him seem more like a baby than ever.
+Then he swung round and struck his hands together.
+
+"In a world without [[Humour|humour]]," he said, "the only thing to do is to eat.
+And how perfect an exception!  How can these people strike dignified
+attitudes, and pretend that things matter, when the total ludicrousness
+of life is proved by the very method by which it is supported?
+A man strikes the lyre, and says, 'Life is real, life is earnest,'
+and then goes into a room and stuffs alien substances into a hole
+in his head.  I think [[Nature]] was indeed a little broad in her [[Humour|humour]]
+in these matters.  But we all fall back on the pantomime, as I
+have in this municipal affair.  [[Nature]] has her farces, like, the act
+of eating or the shape of the kangaroo, for the more brutal appetite.
+She keeps her [[Stars|stars]] and [[Mountains|mountains]] for those who can appreciate something
+more subtly ridiculous."  He turned to his equerry.  "But, as I
+said 'eating,' let us have a picnic like two nice little children.
+Just run and bring me a table and a dozen courses or so, and plenty
+of champagne, and under these swinging boughs, Bowler, we will
+return to [[Nature]]."

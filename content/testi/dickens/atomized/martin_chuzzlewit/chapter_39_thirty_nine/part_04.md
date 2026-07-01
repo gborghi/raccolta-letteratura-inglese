@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 39: THIRTY NINE (part 4)"
+title: "Martin Chuzzlewit — Chapter 39: THIRTY NINE (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"

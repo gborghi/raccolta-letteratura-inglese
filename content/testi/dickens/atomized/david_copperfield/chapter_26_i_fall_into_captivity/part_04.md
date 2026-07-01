@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 26: I FALL INTO CAPTIVITY (part 4)"
+title: "David Copperfield — Chapter 26: I FALL INTO CAPTIVITY (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -134,7 +134,3 @@ thing--is she, Jip? We are not going to confide in any such [[Cross|cross]]
 people, Jip and I. We mean to bestow our confidence where we like,
 and to find out our own friends, instead of having them found out for
 us--don’t we, Jip?’
-
-Jip made a comfortable noise, in answer, a little like a tea-kettle when
-it sings. As for me, every word was a new heap of fetters, riveted above
-the last.

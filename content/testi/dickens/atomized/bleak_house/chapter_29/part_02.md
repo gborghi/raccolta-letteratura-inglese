@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 29 (part 2)"
+title: "Bleak House — Chapter 29 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_29/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_29/part_03">part 03 ›</a></div>
 </nav>
 
+
+With this apology, Mercury directs a scornful and indignant look at
+the young man of the name of Guppy which plainly says, “What do you
+come calling here for and getting ME into a row?”
 
 “It’s quite right. I gave him those directions,” says my Lady. “Let
 the young man wait.”
@@ -142,9 +146,3 @@ since that, taken the liberty of looking at your ladyship in your
 carriage in the park, when I dare say you was not aware of me, but I
 never saw your ladyship so near), it’s really more surprising than I
 thought it.”
-
-Young man of the name of Guppy! There have been times, when ladies
-lived in strongholds and had unscrupulous attendants within call,
-when that poor life of yours would NOT have been worth a minute’s
-purchase, with those beautiful eyes looking at you as they look at
-this moment.

@@ -1,5 +1,5 @@
 ---
-title: "[[The Fall of the House of Usher]] (part 7)"
+title: "The Fall of the House of Usher (part 7)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-fall-of-the-house-of-usher-(poe)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_fall_of_the_house_of_usher/part/part_06">‹ part 06</a><span></span></div>
 </nav>
 
+
+     Who entereth herein, a conqueror hath bin;
+     Who slayeth the dragon, the shield he shall win;
+
+      And Ethelred uplifted his mace, and struck upon the head of the
+      dragon, which fell before him, and gave up his pesty breath, with
+      a shriek so horrid and harsh, and withal so piercing, that
+      Ethelred had fain to close his ears with his hands against the
+      dreadful noise of it, the like whereof was never before heard.”
 
       Here again I paused abruptly, and now with a feeling of wild
       amazement—for there could be no [[Doubt|doubt]] whatever that, in this

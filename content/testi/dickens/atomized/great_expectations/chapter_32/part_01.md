@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 32 (part 1)"
+title: "Great Expectations — Chapter 32 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/great-expectations-(dickens)">Great Expectations</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_30/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_32/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_31/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_32/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -129,11 +129,3 @@ you? Now, who’s next?”
 Thus, we walked through Wemmick’s greenhouse, until he turned to me and
 said, “Notice the man I shall shake hands with.” I should have done so,
 without the preparation, as he had shaken hands with no one yet.
-
-Almost as soon as he had spoken, a portly upright man (whom I can see
-now, as I write) in a [[Well|well]]-worn olive-coloured frock-coat, with a
-peculiar pallor overspreading the red in his complexion, and eyes that
-went wandering about when he tried to fix them, came up to a corner of
-the bars, and put his hand to his hat—which had a greasy and fatty
-surface like cold broth—with a half-serious and half-jocose military
-salute.

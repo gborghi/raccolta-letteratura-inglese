@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — ' (part 4)"
+title: "incredulity Fr Brown — ' (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -138,9 +138,3 @@ minds of the Darnaways are falling to pieces, as their blighted old
 sticks and stones are falling to pieces, eaten away by the sea and the
 salt air. [[suicide|Suicide]] - of course he committed [[suicide]]; I dare say all the
 rest will commit [[suicide]]. Perhaps the best thing they could do.'
-
-As the man of science spoke there sprang suddenly and with startling
-clearness into Payne's [[Memory|memory]] the face of the daughter of the Darnaways,
-a tragic mask pale against an unfathomable blackness, but itself of a
-blinding and more than mortal [[Beauty|beauty]]. He opened his mouth to speak and
-found himself speechless.

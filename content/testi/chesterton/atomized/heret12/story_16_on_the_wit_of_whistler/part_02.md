@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]] — On the Wit of Whistler (part 2)"
+title: "heret12 — On the Wit of Whistler (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/heret12-(chesterton)"
@@ -76,9 +76,9 @@ is altogether done to himself.
 
 He was not a great personality, because he thought so much about himself.
 And the case is stronger even than that.  He was sometimes not even a
-great [[artist]], because he thought so much about art.  Any man with a vital
+great [[Artist|artist]], because he thought so much about art.  Any man with a vital
 knowledge of the human psychology ought to have the most profound suspicion
-of anybody who claims to be an [[artist]], and talks a great deal about art.
+of anybody who claims to be an [[Artist|artist]], and talks a great deal about art.
 Art is a right and human thing, like walking or saying one's prayers;
 but the moment it begins to be talked about very solemnly, a man may be fairly
 certain that the thing has come into a congestion and a kind of difficulty.
@@ -101,7 +101,7 @@ produce any art.
 Whistler could produce art; and in so far he was a great man.
 But he could not forget art; and in so far he was only a man with
 the artistic temperament.  There can be no stronger manifestation of
-the man who is a really great [[artist]] than the fact that he can dismiss
+the man who is a really great [[Artist|artist]] than the fact that he can dismiss
 the subject of art; that he can, upon due occasion, wish art at the [[Bottom|bottom]]
 of the sea.  Similarly, we should always be much more inclined to trust
 a solicitor who did not talk about conveyancing over the nuts and wine.

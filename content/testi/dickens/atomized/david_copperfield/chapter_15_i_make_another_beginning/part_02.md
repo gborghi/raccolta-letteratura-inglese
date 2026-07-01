@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 15: I MAKE ANOTHER BEGINNING (part 2)"
+title: "David Copperfield — Chapter 15: I MAKE ANOTHER BEGINNING (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -134,20 +134,3 @@ My aunt seemed disposed to contest the point; but to facilitate matters
 I said I would gladly remain behind, if they pleased; and returned into
 Mr. Wickfield’s office, where I sat down again, in the chair I had first
 occupied, to await their return.
-
-It so happened that this chair was opposite a narrow passage, which
-ended in the little circular room where I had seen [[Uriah Heep]]’s pale
-face looking out of the [[Window|window]]. Uriah, having taken the pony to a
-neighbouring stable, was at work at a desk in this room, which had a
-brass frame on the top to hang paper upon, and on which the writing he
-was making a copy of was then hanging. Though his face was towards me, I
-thought, for some [[Time|time]], the writing being between us, that he could not
-see me; but looking that way more attentively, it made me uncomfortable
-to observe that, every now and then, his sleepless eyes would come below
-the writing, like two red suns, and stealthily stare at me for I dare
-say a whole minute at a [[Time|time]], during which his pen went, or pretended
-to go, as cleverly as ever. I made several attempts to get out of their
-way--such as standing on a chair to look at a map on the other side of
-the room, and poring over the columns of a Kentish newspaper--but they
-always attracted me back again; and whenever I looked towards those two
-red suns, I was sure to find them, either just rising or just setting.

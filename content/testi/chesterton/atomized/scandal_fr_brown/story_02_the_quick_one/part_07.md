@@ -14,6 +14,38 @@ tags:
 </nav>
 
 
+Even as he was looking steadily in his friend's face, finding something
+still inscrutable in its expression, the telephone rang stridently
+behind the bar. Lifting the flap in the counter Inspector Greenwood
+passed rapidly inside, unhooked the receiver, listened for an instant,
+and then uttered a shout; not addressed to his interlocutor, but to the
+universe in general. Then he listened still more attentively and said
+explosively at intervals, 'Yes, yes . . . Come round at once; bring him
+round if possible . . . Good piece of work . . . Congratulate you.'
+
+Then Inspector Greenwood came back into the outer lounge, like a man who
+has renewed his youth, sat down squarely on his seat, with his hands
+planted on his knees, stared at his friend, and said:
+
+'[[Father Brown]], I don't know how you do it. You seem to have known he was
+a murderer before anybody else knew he was a man. He was nobody; he was
+nothing; he was a slight confusion in the evidence; nobody in the hotel
+saw him; the boy on the steps could hardly swear to him; he was just a
+fine shade of [[Doubt|doubt]] founded on an extra dirty glass. But we've got him,
+and he's the man we want.'
+
+[[Father Brown]] had risen with the sense of the crisis, mechanically
+clutching the papers destined to be so valuable to the biographer of Mr
+Raggley; and stood staring at his friend. Perhaps this gesture jerked
+his friend's mind to fresh confirmations.
+
+'Yes, we've got The Quick One. And very quick he was, like quicksilver,
+in making his get - away; we only just stopped him - off on a fishing
+trip to Orkney, he said. But he's the man, all right; he's the Scotch
+land - agent who made [[Love|love]] to Raggley's wife; he's the man who drank
+Scotch whisky in this bar and then took a train to Edinburgh. And nobody
+would have known it but for you.'
+
 '[[Well]], what I meant,' began [[Father Brown]], in a rather dazed tone; and at
 that instant there was a rattle and rumble of heavy vehicles outside the
 hotel; and two or three other and subordinate policemen blocked the bar
@@ -93,36 +125,3 @@ slightest reason for doubting his word.'
 'But look here,' said Greenwood. 'This brings it all back to the hotel
 authorities; and I thought you agreed that the manager isn't the
 murderer. Is it the barman, or what?'
-
-'I don't know,' said the priest blankly. 'I don't know for certain even
-about the manager. I don't know anything about the barman. I fancy the
-manager might be a bit of a conspirator, even if he wasn't a murderer.
-But I do know there's one solitary witness on earth who may have seem
-something; and that's why I set all your police [[dogs]] on his trail to the
-ends of the earth.'
-
-The mysterious Scotchman, when he finally appeared before the company
-thus assembled, was certainly a formidable figure; tall, with a hulking
-stride and a long sardonic hatchet face, with tufts of red hair; and
-wearing not only an Inverness cape but a Glengarry bonnet, he might [[Well|well]]
-be excused for a somewhat acrid attitude; but anybody could see he was
-of the sort to resist arrest, even with violence. It was not surprising
-that he had come to blows with a fighting fellow like Raggley. It was
-not even surprising that the police had been convinced, by the mere
-details of capture, that he was a tough and a, typical killer. But he
-claimed to be a perfectly respectable farmer, in Aberdeenshire, his name
-being James Grant; and somehow not only [[Father Brown]], but Inspector
-Greenwood, a shrewd man with a great deal of experience, was pretty soon
-convinced that the Scot's ferocity was the fury of [[innocence]] rather than
-[[Guilt|guilt]].
-
-'Now what we want from you, Mr Grant,' said the Inspector gravely,
-dropping without further parley into tones of courtesy, 'is simply your
-evidence on one very important fact. I am greatly grieved at the
-misunderstanding by which you have suffered, but I am sure you wish to
-serve the ends of justice. I believe you came into this bar just after
-it opened, at half - past five, and were served with a glass of whisky.
-We are not certain what servant of the hotel, whether the barman or the
-manager or some subordinate, was in the bar at the [[Time|time]]. Will you look
-round the room, and tell me whether the bar - attendant who served you
-is present here.'

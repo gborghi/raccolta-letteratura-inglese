@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 9 (part 3)"
+title: "Our Mutual Friend — Chapter 10 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,143 +14,114 @@ tags:
 </nav>
 
 
-‘Mrs Boffin wishes to adopt a little boy, my dear.’
+‘Mortimer, you wretch,’ says Lady Tippins, turning the eyeglass about
+and about, ‘where is your charge, the bridegroom?’
 
-Mrs Milvey, looking rather alarmed, her husband added:
+‘Give you my [[Honour|honour]],’ returns Mortimer, ‘I don’t know, and I don’t
+care.’
 
-‘An [[Orphan|orphan]], my dear.’
+‘Miserable! Is that the way you do your duty?’
 
-‘Oh!’ said Mrs Milvey, reassured for her own little boys.
+‘Beyond an impression that he is to sit upon my knee and be seconded
+at some point of the solemnities, like a principal at a prizefight, I
+assure you I have no notion what my duty is,’ returns Mortimer.
 
-‘And I was thinking, Margaretta, that perhaps old Mrs Goody’s grandchild
-might answer the purpose.
+Eugene is also in attendance, with a pervading air upon him of having
+presupposed the ceremony to be a funeral, and of being disappointed. The
+scene is the Vestry-room of St James’s Church, with a number of leathery
+old registers on shelves, that might be bound in Lady Tippinses.
 
-‘Oh my DEAR Frank! I DON’T think that would do!’
+But, hark! A carriage at the gate, and Mortimer’s man arrives, looking
+rather like a spurious Mephistopheles and an unacknowledged member
+of that gentleman’s family. Whom Lady Tippins, surveying through her
+eye-glass, considers a fine man, and quite a catch; and of whom Mortimer
+remarks, in the lowest spirits, as he approaches, ‘I believe this is my
+fellow, confound him!’ More carriages at the gate, and lo the rest of
+the characters. Whom Lady Tippins, standing on a cushion, surveying
+through the eye-glass, thus checks off. ‘Bride; five-and-forty if a
+day, thirty shillings a yard, veil fifteen pound, pocket-handkerchief
+a present. Bridesmaids; kept down for [[Fear|fear]] of outshining bride,
+consequently not girls, twelve and sixpence a yard, Veneering’s [[Flowers|flowers]],
+snub-nosed one rather pretty but too conscious of her stockings, bonnets
+three pound ten. Twemlow; blessed release for the dear man if she really
+was his daughter, nervous even under the pretence that she is, [[Well|well]] he
+may be. Mrs Veneering; never saw such velvet, say two thousand pounds
+as she stands, absolute jeweller’s [[Window|window]], father must have been a
+pawnbroker, or how could these people do it? Attendant unknowns; pokey.’
 
-‘No?’
+Ceremony performed, register signed, Lady Tippins escorted out of sacred
+edifice by Veneering, carriages [[rolling]] back to Stucconia, servants
+with favours and [[Flowers|flowers]], Veneering’s [[house]] reached, drawing-rooms most
+magnificent. Here, the Podsnaps await the happy party; Mr Podsnap, with
+his hair-brushes made the most of; that imperial rocking-[[Horse|horse]], Mrs
+Podsnap, majestically skittish. Here, too, are Boots and Brewer, and
+the two other Buffers; each Buffer with a flower in his button-hole, his
+hair curled, and his gloves buttoned on tight, apparently come prepared,
+if anything had happened to the bridegroom, to be married instantly.
+Here, too, the bride’s aunt and next relation; a widowed female of
+a Medusa sort, in a stoney cap, glaring petrifaction at her
+fellow-creatures. Here, too, the bride’s trustee; an oilcake-fed style
+of business-gentleman with mooney spectacles, and an object of much
+interest. Veneering launching himself upon this trustee as his oldest
+friend (which makes seven, Twemlow thought), and confidentially retiring
+with him into the conservatory, it is understood that Veneering is his
+co-trustee, and that they are arranging about the fortune. Buffers are
+even overheard to whisper Thir-ty Thou-sand Pou-nds! with a smack and a
+relish suggestive of the very finest oysters. Pokey unknowns, amazed
+to find how intimately they know Veneering, pluck up spirit, fold
+their arms, and begin to contradict him before breakfast. What [[Time|time]] Mrs
+Veneering, carrying baby dressed as a bridesmaid, flits about among
+the company, emitting flashes of many-coloured [[Lightning|lightning]] from diamonds,
+emeralds, and rubies.
 
-‘Oh NO!’
+The Analytical, in course of [[Time|time]] achieving what he feels to be due to
+himself in bringing to a dignified conclusion several quarrels he has on
+hand with the pastrycook’s men, announces breakfast. Dining-room no less
+magnificent than drawing-room; tables superb; all the camels out, and
+all laden. Splendid cake, covered with Cupids, silver, and true-[[lovers]]’
+knots. Splendid bracelet, produced by Veneering before going down, and
+clasped upon the arm of bride. Yet nobody seems to think much more of
+the Veneerings than if they were a tolerable landlord and landlady
+doing the thing in the way of business at so much a head. The bride and
+bridegroom talk and laugh apart, as has always been their manner;
+and the Buffers work their way through the dishes with systematic
+perseverance, as has always been THEIR manner; and the pokey unknowns
+are exceedingly benevolent to one another in invitations to take
+glasses of champagne; but Mrs Podsnap, arching her mane and rocking her
+grandest, has a far more deferential audience than Mrs Veneering; and
+Podsnap all but does the honours.
 
-The smiling Mrs Boffin, feeling it incumbent on her to take part in the
-conversation, and being charmed with the emphatic little wife and her
-ready interest, here offered her acknowledgments and inquired what there
-was against him?
+Another dismal circumstance is, that Veneering, having the captivating
+Tippins on one side of him and the bride’s aunt on the other, finds
+it immensely difficult to keep the peace. For, Medusa, besides
+unmistakingly glaring petrifaction at the fascinating Tippins, follows
+every lively remark made by that dear creature, with an audible snort:
+which may be referable to a chronic cold in the head, but may also be
+referable to indignation and contempt. And this snort being regular in
+its reproduction, at length comes to be expected by the company, who
+make embarrassing pauses when it is falling due, and by waiting for it,
+render it more emphatic when it comes. The stoney aunt has likewise an
+injurious way of rejecting all dishes whereof Lady Tippins partakes:
+saying aloud when they are proffered to her, ‘No, no, no, not for me.
+Take it away!’ As with a set purpose of implying a misgiving that if
+nourished upon similar meats, she might come to be like that charmer,
+which would be a fatal consummation. Aware of her enemy, Lady Tippins
+tries a youthful sally or two, and tries the eye-glass; but, from the
+impenetrable cap and snorting armour of the stoney aunt all weapons
+rebound powerless.
 
-‘I DON’T think,’ said Mrs Milvey, glancing at the Reverend Frank, ‘—and
-I believe my husband will agree with me when he considers it again—that
-you could possibly keep that [[Orphan|orphan]] clean from snuff. Because his
-grandmother takes so MANY ounces, and drops it over him.’
-
-‘But he would not be living with his grandmother then, Margaretta,’ said
-Mr Milvey.
-
-‘No, Frank, but it would be impossible to keep her from Mrs Boffin’s
-[[house]]; and the MORE there was to eat and drink there, the oftener she
-would go. And she IS an inconvenient woman. I [[Hope|HOPE]] it’s not uncharitable
-to remember that last Christmas Eve she drank eleven cups of tea, and
-grumbled all the [[Time|time]]. And she is NOT a grateful woman, Frank. You
-recollect her addressing a crowd outside this [[house]], about her wrongs,
-when, one [[Night|night]] after we had gone to bed, she brought back the petticoat
-of new flannel that had been given her, because it was too short.’
-
-‘That’s true,’ said Mr Milvey. ‘I don’t think that would do. Would
-little Harrison—’
-
-‘Oh, FRANK!’ remonstrated his emphatic wife.
-
-‘He has no grandmother, my dear.’
-
-‘No, but I DON’T think Mrs Boffin would like an [[Orphan|orphan]] who squints so
-MUCH.’
-
-‘That’s true again,’ said Mr Milvey, becoming haggard with perplexity.
-‘If a little girl would do—’
-
-‘But, my DEAR Frank, Mrs Boffin wants a boy.’
-
-‘That’s true again,’ said Mr Milvey. ‘Tom Bocker is a nice boy’
-(thoughtfully).
-
-‘But I [[Doubt|DOUBT]], Frank,’ Mrs Milvey hinted, after a little hesitation, ‘if
-Mrs Boffin wants an [[Orphan|orphan]] QUITE nineteen, who drives a cart and waters
-the roads.’
-
-Mr Milvey referred the point to Mrs Boffin in a look; on that smiling
-lady’s shaking her black velvet bonnet and bows, he remarked, in lower
-spirits, ‘that’s true again.’
-
-‘I am sure,’ said Mrs Boffin, concerned at giving so much trouble, ‘that
-if I had known you would have taken so much pains, sir—and you too, ma’
-am—I don’t think I would have come.’
-
-‘PRAY don’t say that!’ urged Mrs Milvey.
-
-‘No, don’t say that,’ assented Mr Milvey, ‘because we are so much
-obliged to you for giving us the preference.’ Which Mrs Milvey
-confirmed; and really the kind, conscientious couple spoke, as if they
-kept some profitable [[Orphan|orphan]] warehouse and were personally patronized.
-‘But it is a responsible trust,’ added Mr Milvey, ‘and difficult to
-discharge. At the same [[Time|time]], we are naturally very unwilling to lose the
-chance you so kindly give us, and if you could afford us a day or two
-to look about us,—you know, Margaretta, we might carefully examine the
-workhouse, and the Infant School, and your District.’
-
-‘To be SURE!’ said the emphatic little wife.
-
-‘We have orphans, I know,’ pursued Mr Milvey, quite with the air as if
-he might have added, ‘in stock,’ and quite as anxiously as if there were
-great competition in the business and he were afraid of losing an order,
-‘over at the clay-pits; but they are employed by relations or friends,
-and I am afraid it would come at last to a transaction in the way of
-barter. And even if you exchanged blankets for the [[Child|child]]—or books
-and firing—it would be impossible to prevent their being turned into
-liquor.’
-
-Accordingly, it was resolved that Mr and Mrs Milvey should search for
-an [[Orphan|orphan]] likely to suit, and as free as possible from the foregoing
-objections, and should communicate again with Mrs Boffin. Then, Mr
-Boffin took the liberty of mentioning to Mr Milvey that if Mr Milvey
-would do him the kindness to be perpetually his banker to the extent
-of ‘a twenty-pound note or so,’ to be expended without any reference
-to him, he would be heartily obliged. At this, both Mr Milvey and Mrs
-Milvey were quite as much pleased as if they had no wants of their own,
-but only knew what [[Poverty|poverty]] was, in the persons of other people; and
-so the interview terminated with satisfaction and good opinion on all
-sides.
-
-‘Now, old lady,’ said Mr Boffin, as they resumed their seats behind the
-hammer-headed [[Horse|horse]] and man: ‘having made a very agreeable visit there,
-we’ll try Wilfer’s.’
-
-It appeared, on their drawing up at the family gate, that to try
-Wilfer’s was a thing more easily projected than done, on account of the
-extreme difficulty of getting into that establishment; three pulls
-at the bell producing no external result; though each was attended
-by audible sounds of scampering and rushing within. At the fourth
-tug—vindictively administered by the hammer-headed young man—Miss
-[[Lavinia]] appeared, emerging from the [[house]] in an accidental manner, with
-a bonnet and parasol, as designing to take a contemplative walk. The
-young lady was astonished to find visitors at the gate, and expressed
-her feelings in appropriate action.
-
-‘Here’s Mr and Mrs Boffin!’ growled the hammer-headed young man through
-the bars of the gate, and at the same [[Time|time]] shaking it, as if he were on
-view in a Menagerie; ‘they’ve been here half an hour.’
-
-‘Who did you say?’ asked Miss [[Lavinia]].
-
-‘Mr and Mrs BOFFIN’ returned the young man, rising into a roar.
-
-Miss [[Lavinia]] tripped up the steps to the [[house]]-door, tripped down the
-steps with the key, tripped across the little [[Garden|garden]], and opened the
-gate. ‘Please to walk in,’ said Miss [[Lavinia]], haughtily. ‘Our servant is
-out.’
-
-Mr and Mrs Boffin complying, and pausing in the little hall until Miss
-[[Lavinia]] came up to show them where to go next, perceived three pairs of
-listening legs upon the stairs above. Mrs Wilfer’s legs, Miss Bella’s
-legs, Mr George Sampson’s legs.
-
-‘Mr and Mrs Boffin, I think?’ said [[Lavinia]], in a warning voice. Strained
-attention on the part of Mrs Wilfer’s legs, of Miss Bella’s legs, of Mr
-George Sampson’s legs.
+Another objectionable circumstance is, that the pokey unknowns support
+each other in being unimpressible. They persist in not being frightened
+by the gold and silver camels, and they are banded together to defy
+the elaborately chased ice-pails. They even seem to unite in some vague
+utterance of the sentiment that the landlord and landlady will make a
+pretty good profit out of this, and they almost carry themselves
+like customers. Nor is there compensating influence in the adorable
+bridesmaids; for, having very little interest in the bride, and none
+at all in one another, those lovely beings become, each one of her own
+account, depreciatingly contemplative of the millinery present; while
+the bridegroom’s man, exhausted, in the back of his chair, appears to be
+improving the occasion by penitentially contemplating all the wrong he
+has ever done; the difference between him and his friend Eugene, being,
+that the latter, in the back of HIS chair, appears to be contemplating
+all the wrong he would like to do—particularly to the present company.

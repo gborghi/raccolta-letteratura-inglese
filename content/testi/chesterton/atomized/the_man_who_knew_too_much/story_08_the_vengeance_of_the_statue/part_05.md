@@ -14,6 +14,28 @@ tags:
 </nav>
 
 
+had made here was not only a wreck of stone.
+When the man emerged at last on to the [[Garden|garden]] path, with the full
+
+light on his face and figure, he was walking slowly indeed, but
+
+easily, and with no appearance of [[Fear|fear]].
+"This is a terrible thing," he said. "I saw it from above; I was
+
+taking a stroll along the ridge."
+"Do you mean that you saw the murder?" demanded March, "or the
+
+accident? I mean did you see the statue fall?"
+"No," said Archer, "I mean I saw the statue fallen."
+Prince seemed to be paying but little attention; his eye was riveted
+
+on an object lying on the path a yard or two from the corpse. It
+
+seemed to be a rusty iron bar bent crooked at one end.
+"One thing I don't understand," he said, "is all this [[Blood|blood]]. The
+
+poor fellow's skull isn't smashed; most likely his neck is broken;
+
 but [[Blood|blood]] seems to have spouted as if all his arteries were severed.
 
 I was wondering if some other instrument . . . that iron thing, for
@@ -159,34 +181,3 @@ want you to be with me; for I rather think it is my hour."
 March and Fisher both had motor bicycles; and the first half of
 
 their day's [[Journey|journey]] consisted in coasting eastward amid the
-
-unconversational noise of those uncomfortable engines. But when they
-
-came out beyond Canterbury into the flats of eastern [[Kent]], Fisher
-
-stopped at a pleasant little public [[house]] beside a sleepy stream;
-
-and they sat down to eat and to drink and to speak almost for the
-
-first [[Time|time]]. It was a brilliant afternoon, [[Birds|birds]] were singing in the
-
-wood behind, and the sun shone full on their ale bench and table;
-
-but the face of Fisher in the strong sunlight had a gravity never
-
-seen on it before.
-"Before we go any farther," he said, "there is something you ought
-
-to know. You and I have seen some mysterious things and got to the
-
-[[Bottom|bottom]] of them before now; and it's only right that you should get
-
-to the [[Bottom|bottom]] of this one. But in dealing with the [[Death|death]] of my uncle
-
-I must begin at the other end from where our old [[Detective|detective]] yarns
-
-began. I will give you the steps of deduction presently, if you want
-
-to listen to them; but I did not reach the [[Truth|truth]] of this by steps of
-
-deduction. I will first of all tell you the [[Truth|truth]] itself, because I

@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 7 (part 1)"
+title: "The Professor — Chapter 7 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -16,15 +16,11 @@ tags:
 
 CHAPTER VII.
 
-
-
 READER, perhaps you were never in Belgium? Haply you don’t know the
 
 physiognomy of the country? You have not its lineaments defined upon
 
 your [[Memory|memory]], as I have them on mine?
-
-
 
 Three--nay four--pictures line the four-walled cell where are stored for
 
@@ -32,7 +28,7 @@ me the records of the past. First, Eton. All in that picture is in far
 
 perspective, receding, diminutive; but freshly coloured, green, dewy,
 
-with a [[spring]] sky, piled with glittering yet showery clouds; for my
+with a [[Spring|spring]] sky, piled with glittering yet showery clouds; for my
 
 [[Childhood|childhood]] was not all sunshine--it had its overcast, its cold, its
 
@@ -41,8 +37,6 @@ stormy hours. Second, X----, huge, dingy; the canvas cracked and smoked;
 a yellow sky, sooty clouds; no sun, no azure; the verdure of the suburbs
 
 blighted and sullied--a very dreary scene.
-
-
 
 Third, Belgium; and I will pause before this landscape. As to the
 
@@ -71,8 +65,6 @@ outline, the sound which wakened them dies, and they sink, each and all,
 like a light wreath of mist, absorbed in the mould, recalled to urns,
 
 resealed in monuments. Farewell, luminous phantoms!
-
-
 
 This is Belgium, reader. Look! don’t call the picture a flat or a dull
 
@@ -122,8 +114,6 @@ I thought nothing of the stones turning under my feet, or of the thorns
 
 scratching my face and hands.
 
-
-
 I gazed often, and always with delight, from the [[Window|window]] of the diligence
 
 (these, be it remembered, were not the days of trains and railroads).
@@ -160,8 +150,6 @@ fellow-traveller to put up; having eaten a traveller’s supper, I retired
 
 to bed, and slept a traveller’s [[Sleep|sleep]].
 
-
-
 Next morning I awoke from prolonged and sound repose with the impression
 
 that I was yet in X----, and perceiving it to be broad daylight I
@@ -193,11 +181,3 @@ charged with colossal phlegm and force. From the small, narrow [[Window|window]]
 of that room, I first saw THE dome, looming through a [[London]] mist. I
 
 suppose the sensations, stirred by those first sounds, first sights, are
-
-felt but once; treasure them, [[Memory]]; seal them in urns, and keep them
-
-in safe niches! [[Well]]--I [[Rose|rose]]. Travellers talk of the apartments in
-
-foreign dwellings being bare and uncomfortable; I thought my chamber
-
-looked stately and cheerful. It had such large windows--CROISEES that

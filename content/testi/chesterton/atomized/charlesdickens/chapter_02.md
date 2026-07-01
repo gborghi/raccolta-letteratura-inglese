@@ -1,5 +1,5 @@
 ---
-title: "[[CharlesDickens]] — Chapter 1"
+title: "CharlesDickens — Chapter 1"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/charlesdickens-(chesterton)"
@@ -328,7 +328,7 @@ of a democratic optimism--a confidence in common men.
 Dickens depends upon such a comprehension in a rather unusual manner,
 a manner worth explanation, or at least remark.
 
-The disadvantage under which Dickens has fallen, both as an [[artist]]
+The disadvantage under which Dickens has fallen, both as an [[Artist|artist]]
 and a moralist, is very plain.  His misfortune is that neither of
 the two last movements in [[Literary Criticism|literary criticism]] has done him any good.
 He has suffered alike from his enemies, and from the enemies
@@ -466,7 +466,7 @@ laugh at him.
 
 I believe myself that this braver world of his will certainly return;
 for I believe that it is bound up with the realities,
-like morning and the [[Spring|spring]].  But for those who beyond
+like morning and the [[spring]].  But for those who beyond
 remedy regard it as an error, I put this appeal before any
 other observations on Dickens.  First let us sympathise,
 if only for an instant, with the hopes of the Dickens period,

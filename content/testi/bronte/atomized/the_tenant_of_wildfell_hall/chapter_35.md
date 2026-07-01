@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 35"
+title: "The Tenant of Wildfell Hall — Chapter 35"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -102,7 +102,7 @@ I came forward and busied myself with the breakfast things.
 
 she seated herself at the table. “Ah, here comes one that will not
 
-rejoice at it!” she murmured, half to herself, as [[arthur|Arthur]] entered the
+rejoice at it!” she murmured, half to herself, as [[Arthur]] entered the
 
 room.
 
@@ -158,7 +158,7 @@ suppressed. Startled, almost appalled, by this sudden outbreak, she
 
 recoiled in [[Silence|silence]]. I would have given way to my fury and said more,
 
-but [[arthur|Arthur]]’s low laugh recalled me to myself. I checked the
+but [[Arthur]]’s low laugh recalled me to myself. I checked the
 
 half-uttered invective, and scornfully turned away, regretting that I
 
@@ -330,7 +330,7 @@ mother. Little [[Helen]], however, was soon tired of playing, and insisted
 
 upon going to [[Sleep|sleep]]; and while I sat on the sofa with her on my knee,
 
-and [[arthur|Arthur]] seated beside me, gently playing with her soft, flaxen hair,
+and [[Arthur]] seated beside me, gently playing with her soft, flaxen hair,
 
 Lady Lowborough composedly came and placed herself on the other side.
 

@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 13 (part 1)"
+title: "Persuasion — Chapter 13 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -213,7 +213,3 @@ There was some anxiety mixed with [[Lady Russell]]’s joy in meeting her.
 She knew who had been frequenting Uppercross. But happily, either Anne
 
 was improved in plumpness and looks, or [[Lady Russell]] fancied her so;
-
-and Anne, in receiving her compliments on the occasion, had the
-
-amusement of connecting them with the silent admiration of her cousin,

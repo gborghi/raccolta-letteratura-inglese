@@ -1,5 +1,5 @@
 ---
-title: "[[The Mystery of Marie Roget]] (part 1)"
+title: "The Mystery of Marie Roget (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-mystery-of-marie-roget-(poe)"
@@ -205,7 +205,3 @@ A SEQUEL TO â€œ[[The Murders in the Rue Morgue|THE MURDERS IN THE RUE MORGUE]].â
 
 
       The anticipations of the shopkeeper were realized, and his rooms
-
-      soon became notorious through the charms of the sprightly
-
-      grisette. She had been in his employ about a year, when her

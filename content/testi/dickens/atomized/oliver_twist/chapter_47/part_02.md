@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 47 (part 2)"
+title: "Oliver Twist — Chapter 47 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_47/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_48/part_01">part 01 ›</a></div>
 </nav>
 
+
+“You would?”
+
+“Would I!” said the housebreaker. “Try me.”
 
 “If it was Charley, or the Dodger, or Bet, or—”
 
@@ -200,7 +204,7 @@ She staggered and fell: nearly blinded with the [[Blood|blood]] that rained down
 from a deep gash in her forehead; but raising herself, with difficulty,
 on her knees, drew from her bosom a white handkerchief—[[Rose Maylie]]’s
 own—and holding it up, in her folded hands, as high towards Heaven as
-her feeble strength would allow, breathed one [[Prayer|prayer]] for [[Mercy|mercy]] to her
+her feeble strength would allow, breathed one [[prayer]] for [[Mercy|mercy]] to her
 Maker.
 
 It was a ghastly figure to look upon. The murderer staggering backward

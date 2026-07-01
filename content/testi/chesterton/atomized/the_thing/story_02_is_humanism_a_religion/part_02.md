@@ -15,18 +15,18 @@ tags:
 
 
 [[Well]] ... here is what Mr. Foerster says about the present position
-of the founder of the new world of [[Democracy|democracy]]:  "Our present science lends
+of the founder of the new world of [[democracy]]:  "Our present science lends
 little support to an inherent 'dignity of man' or to his 'perfectibility.'
 It is wholly possible that the science of the future will lead
-us away from [[Democracy|democracy]] towards some form of aristocracy.
-The millennial expectations that Whitman built upon science and [[Democracy|democracy]],
+us away from [[democracy]] towards some form of aristocracy.
+The millennial expectations that Whitman built upon science and [[democracy]],
 we are now [[Well|well]] aware rested upon insecure foundations.... The
 perfection of [[Nature|nature]], the natural goodness of man, 'the great [[Pride|pride]]
 of man in himself' offset with an emotional [[Humanitarianism|humanitarianism]]--these are
 the materials of a structure only slightly coloured with modernity.
 His politics, his ethics, his religion belong to the past,
 even that facile 'religiousness' which he hoped would suffuse
-and complete the work of science and [[Democracy|democracy]].... In the essentials
+and complete the work of science and [[democracy]].... In the essentials
 of his prophecy, Whitman, we must conclude, has been falsified
 by the event."  This is a very moderate and fair statement;
 it would be easy to find the same thing in a much fiercer statement.
@@ -93,12 +93,12 @@ and plague-stricken about the unaccountable growth of hair.
 In short, the whole mood has changed, as a matter of poetry.
 But it has not changed as a matter of theology; and that is the argument
 for having an unchanging theology.  The Catholic theology has nothing
-to do with [[Democracy|democracy]], for or against, in the sense of a machinery
+to do with [[democracy]], for or against, in the sense of a machinery
 of voting or a criticism of particular political privileges.
-It is not committed to support what Whitman said for [[Democracy|democracy]],
-or even what Jefferson or [[Lincoln]] said for [[Democracy|democracy]].
+It is not committed to support what Whitman said for [[democracy]],
+or even what Jefferson or [[Lincoln]] said for [[democracy]].
 But it is absolutely committed to contradict what Mr. Mencken
-says against [[Democracy|democracy]].  There will be Diocletian persecutions,
+says against [[democracy]].  There will be Diocletian persecutions,
 there will be Dominican [[Crusades|crusades]], there will be rending of all religious
 peace and compromise, or even the end of civilization and the world,
 before the [[Catholic Church]] will admit that one single moron,

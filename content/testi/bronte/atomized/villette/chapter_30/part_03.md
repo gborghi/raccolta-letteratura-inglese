@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 29 (part 3)"
+title: "Villette — Chapter 29 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_30/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_32/part_01">part 01 ›</a></div>
 </nav>
 
+
+“It is [[Well|well]]!” dropped at length from the lips of M. Paul; and having
+uttered this phrase, the [[Shadow|shadow]] of some great paroxysm—the swell of
+wrath, scorn, resolve—passed over his brow, rippled his lips, and lined
+his cheeks. Gulping down all further comment, he launched into his
+customary “discours.”
 
 I can’t at all remember what this “discours” was; I did not listen to
 it: the gulping-down process, the abrupt dismissal of his mortification
@@ -80,7 +86,7 @@ etcetera; made Frenchified comparisons between the “jeunes filles” and
 the sweet blossoms before him; paid Mademoiselle St. Pierre a very
 full-blown compliment on the superiority of her bouquet; and ended by
 announcing that the first really fine, mild, and balmy morning in
-[[spring]], he intended to take the whole class out to breakfast in the
+[[Spring|spring]], he intended to take the whole class out to breakfast in the
 country. “Such of the class, at least,” he added, with emphasis, “as he
 could count amongst the number of his friends.”
 

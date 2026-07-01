@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]]"
+title: "The Mystery of Edwin Drood"
 author: "Dickens"
 unitType: work
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -3038,7 +3038,7 @@ the light upon it.
 it.”
 
 “I am sorry for that, Mr. Drood.” Neville apologises, with a real
-intention to apologise; “if I had known I was in the [[artist]]’s
+intention to apologise; “if I had known I was in the [[Artist|artist]]’s
 presence—”
 
 “O, a joke, sir, a mere joke,” Edwin cuts in, with a provoking yawn. “A
@@ -5104,7 +5104,7 @@ minute.”
 
 He took a bunch of keys from his pocket, singled out by the
 candle-light the key he wanted, and then, with a candle in his hand,
-went to a bureau or escritoire, unlocked it, touched the [[Spring|spring]] of a
+went to a bureau or escritoire, unlocked it, touched the [[spring]] of a
 little secret drawer, and took from it an ordinary ring-case made for a
 single ring. With this in his hand, he returned to his chair. As he
 held it up for the young man to see, his hand trembled.
@@ -6515,7 +6515,7 @@ Up to this point he has been extremely cheerful. Perhaps, the having to
 carry his case with her, and therefore to present it in its brightest
 aspect, has roused his spirits. Perhaps, the having done so with
 [[success]], is followed by a revulsion. As the day closes in, and the
-[[City|city]]-lights begin to [[Spring|spring]] up before them, he grows depressed.
+[[City|city]]-lights begin to [[spring]] up before them, he grows depressed.
 
 “I wish I were not going to this dinner, [[Helena]].”
 
@@ -10164,7 +10164,7 @@ a third hand (a brown one) appear among the [[Flowers|flowers]] and [[Leaves|lea
 help her friend out of sight.
 
 The refection that Mr. Tartar produced in the Admiral’s Cabin by merely
-touching the [[Spring|spring]] knob of a locker and the handle of a drawer, was a
+touching the [[spring]] knob of a locker and the handle of a drawer, was a
 dazzling enchanted repast. Wonderful macaroons, glittering liqueurs,
 magically-preserved tropical spices, and jellies of celestial tropical
 fruits, displayed themselves profusely at an instant’s notice. But Mr.
@@ -10752,7 +10752,7 @@ His travelling baggage is easily carried in his hand, and he repairs
 with it on foot, to a hybrid hotel in a little square behind Aldersgate
 Street, near the General Post Office. It is hotel, boarding-[[house]], or
 lodging-[[house]], at its visitor’s option. It announces itself, in the new
-Railway Advertisers, as a [[Novel|novel]] enterprise, timidly beginning to [[Spring|spring]]
+Railway Advertisers, as a [[Novel|novel]] enterprise, timidly beginning to [[spring]]
 up. It bashfully, almost apologetically, gives the traveller to
 understand that it does not expect him, on the good old constitutional
 hotel plan, to order a pint of sweet blacking for his drinking, and
@@ -10921,7 +10921,7 @@ thousands of times in this room.”
 
 “It _was_ pleasant to do!”
 
-He says this with a savage air, and a [[Spring|spring]] or start at her. Quite
+He says this with a savage air, and a [[spring]] or start at her. Quite
 unmoved she retouches and replenishes the contents of the bowl with her
 little spatula. Seeing her intent upon the occupation, he sinks into
 his former attitude.

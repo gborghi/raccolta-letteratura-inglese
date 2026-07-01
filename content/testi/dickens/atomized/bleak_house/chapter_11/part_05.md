@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 11 (part 5)"
+title: "Bleak House — Chapter 11 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_11/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_12/part_01">part 01 ›</a></div>
 </nav>
 
+
+Boy put aside, to the great edification of the audience, especially
+of Little Swills, the comic vocalist.
 
 Now. Is there any other witness? No other witness.
 

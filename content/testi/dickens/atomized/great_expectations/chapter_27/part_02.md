@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 27 (part 2)"
+title: "Great Expectations — Chapter 27 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_27/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_27/part_03">part 03 ›</a></div>
 </nav>
 
+
+I took what Joe gave me, and found it to be the crumpled play-bill of a
+small metropolitan theatre, announcing the first appearance, in that
+very week, of “the celebrated Provincial Amateur of Roscian renown,
+whose unique performance in the highest tragic walk of our National
+Bard has lately occasioned so great a sensation in local dramatic
+circles.”
 
 “Were you at his performance, Joe?” I inquired.
 
@@ -127,14 +134,3 @@ him; in which condition he heaped coals of [[Fire|fire]] on my head.
 Joe looked at me for a single instant with something faintly like
 reproach. Utterly preposterous as his cravat was, and as his collars
 were, I was conscious of a sort of dignity in the look.
-
-“Us two being now [[Alone|alone]],” resumed Joe, “and me having the intentions
-and abilities to stay not many minutes more, I will now
-conclude—leastways begin—to mention what have led to my having had the
-present [[Honour|honour]]. For was it not,” said Joe, with his old air of lucid
-exposition, “that my only wish were to be useful to you, I should not
-have had the [[Honour|honour]] of breaking wittles in the company and abode of
-gentlemen.”
-
-I was so unwilling to see the look again, that I made no remonstrance
-against this tone.

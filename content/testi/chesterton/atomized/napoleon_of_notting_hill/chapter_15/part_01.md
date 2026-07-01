@@ -1,5 +1,5 @@
 ---
-title: "Napoleon of Notting [[Hill]] — Chapter 3 (part 1)"
+title: "Napoleon of Notting Hill — Chapter 3 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/napoleon-of-notting-hill-(chesterton)"
@@ -10,126 +10,129 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_14/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_15/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_14/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_15/part_02">part 02 ›</a></div>
 </nav>
 
 
 CHAPTER III
 
-THE GREAT ARMY OF SOUTH KENSINGTON
+TWO VOICES
 
-THE article from the special correspondent of the [[Court]] Journal
-arrived in due course, written on very coarse copy-paper in the [[King]]'s
-arabesque of handwriting, in which three words filled a page, and yet
-were illegible.  Moreover, the contribution was the more perplexing
-at first as it opened with a succession of erased paragraphs.
-The writer appeared to have attempted the article once or twice
-in several journalistic styles.  At the side of one experiment
-was written, "Try American style," and the [[Fragment|fragment]] began:
+IN a place in which there was total darkness for hours, there was
+also for hours total [[Silence|silence]].  Then a voice spoke out of the darkness,
+no one could have told from where, and said aloud:
 
-"The [[King]] must go.  We want gritty men.  Flapdoodle is all very...;"
-and then broke off, followed by the note, "Good sound journalism safer.
-Try it."
+"So ends the Empire of Notting [[Hill]].  As it began in [[Blood|blood]],
+so it ended in [[Blood|blood]], and all things are always the same."
 
-The experiment in good sound journalism appeared to begin:
+And there was [[Silence|silence]] again, and then again there was a voice,
+but it had not the same tone; it seemed that it was not the same voice.
 
-"The greatest of English poets has said that a [[Rose|rose]] by any..."
+"If all things are always the same, it is because they are
+always heroic.  If all things are always the same, it is because
+they are always new.  To each man one [[Soul|soul]] only is given;
+to each [[Soul|soul]] only is given a little power...the power at some
+moments to outgrow and [[Swallow|swallow]] up the [[Stars|stars]].  If age after age
+that power comes upon men, whatever gives it to them is great.
+Whatever makes men feel old is mean...an empire or a skin-flint shop.
+Whatever makes men feel young is great...a great war or a [[Love|love]] story.
+And in the darkest of the books of God there is written a [[Truth|truth]] that is
+also a [[Riddle|riddle]].  It is of the new things that men tire...of fashions
+and proposals and improvements and change.  It is the old things
+that startle and intoxicate.  It is the old things that are young.
+There is no sceptic who does not feel that many have doubted before.
+There is no rich and fickle man who does not feel that all his novelties
+are ancient.  There is no worshipper of change who does not feel
+upon his neck the vast weight of the weariness of the universe.
+But we who do the old things are fed by [[Nature|nature]] with a perpetual infancy.
+No man who is in [[Love|love]] thinks that any one has been in [[Love|love]] before.
+No woman who has a [[Child|child]] thinks that there have been such things
+as children.  No people that fight for their own [[City|city]] are haunted
+with the burden of the broken empires.  Yes, oh dark voice,
+the world is always the same, for it is always unexpected."
 
-This also stopped abruptly.  The next annotation at the side was
-almost undecipherable, but seemed to be something like:
+A little gust of [[Wind|wind]] brew through the [[Night|night]], and then the
+first voice answered:
 
-"How about old Steevens and the mot juste?  E.g. ..."
+"But in this world there are some, be they wise or foolish,
+whom nothing intoxicates.  There are some who see all your disturbances
+like a cloud of flies.  They know that while men will laugh at
+your Notting [[Hill]], and will study and rehearse and sing of Athens
+and Jerusalem, Athens and Jerusalem were silly suburbs like your
+Notting [[Hill]].  They know that the earth itself is a suburb, and can
+feel only drearily and respectably amused as they move upon it."
 
-"Morning winked a little wearily at me over the cult edge of Campden [[Hill]]
-and its houses with their sharp shadows.  Under the abrupt black
-cardboard of the outline, it took some little [[Time|time]] to detect colours;
-but at length I saw a brownish yellow shifting in the obscurity,
-and I knew that it was the guard of Swindon's West Kensington army.
-They are being held as a reserve, and lining the whole ridge
-above the Bayswater [[Road]].  Their camp and their main force
-is under the great [[Water|water]] works tower on Campden [[Hill]].
-I forgot to say that the [[Water|water]] works tower looked swart.
+"They are philosophers or they are fools," said the other voice.
+"They are not men.  Men live, as I say, rejoicing from age
+to age in something fresher than progress...in the fact
+that with every baby a new sun and a new [[Moon|moon]] are made.
+If our ancient humanity were a single man, it might perhaps be
+that he would break down under the [[Memory|memory]] of so many loyalties,
+under the burden of so many diverse heroisms, under the load
+and terror of all the goodness of men.  But it has pleased God
+so to isolate the individual [[Soul|soul]] that it can only learn of all
+other souls by hearsay, and to each one goodness and happiness come
+with the youth and violence of [[Lightning|lightning]], as momentary and as pure.
+And the doom of failure that lies on all human systems does not
+in real fact affect them any more than the worms of the inevitable
+[[Grave|grave]] affect a children's game hi a meadow.  Notting [[Hill]] has fallen;
+Notting [[Hill]] has died.  But that is not the tremendous issue.
+Notting [[Hill]] has lived."
 
-"As I passed them and came over the curve of Silver Street, I saw
-the blue cloudy masses of Barker's men blocking the entrance
-to the highroad like a sapphire smoke (good). The disposition
-of the allied troops, under the general management of Mr. Wilson,
-appears to be as follows...The Yellow Army (if I may so describe
-the West Kensingtonians) lies, as I have said, hi a strip along the ridge;
-its furthest point westward being the west side of Campden [[Hill]] [[Road]],
-its furthest point eastward the beginning of Kensington Gardens.
-The Green Army of Wilson lines the Notting [[Hill]] High [[Road]] itself from
-[[Queen]]'s [[Road]] to the corner of Pembridge [[Road]], curving round the latter,
-and extending some three hundred yards up towards Westbourne Grove.
-Westbourne Grove itself is occupied by Barker of South Kensington.
-The fourth side of this rough square, the [[Queen]]'s [[Road]] side,
-is held by some of Buck's Purple warriors.
+"But if," answered the other voice, "if what is achieved by
+all these efforts be only the common contentment of humanity,
+why do men so extravagantly toil and die in them?
+Has nothing been done by Notting [[Hill]] that any chance clump
+of farmers or clan of savages would not have done without it?
+What might have been done to Notting [[Hill]] if the world had been
+different may be a deep question; but there is a deeper.
+What could have happened to the world if Notting [[Hill]] had never been?"
 
-"The whole resembles some ancient and dainty Dutch flower-bed. Along
-the crest of Campden [[Hill]] lie the golden crocuses of West Kensington.
-They are, as it were, the first fiery fringe of the whole.
-Northward lies our hyacinth Barker, with all his blue hyacinths.
-Round to the south-west run the green rushes of Wilson of Bayswater,
-and a line of violet irises (aptly symbolized by Mr. Buck)
-complete the whole.  The argent exterior... (I am losing the style.
-I should have said 'Curving with a whisk' instead of merely 'Curving.'
-Also I should have called the hyacinths 'sudden.' I cannot
-keep this up.  War is too rapid for this style of writing.
-Please ask the office-boy to insert mots justes.)
+The other voice replied:
 
-"The [[Truth|truth]] is that there is nothing to report.  That commonplace
-element which is always ready to devour all beautiful things
-(as the Black Pig in the Irish Mythology will finally devour
-the [[Stars|stars]] and gods); that commonplace element, as I say, has in
-its Black Piggish way devoured finally the chances of any [[Romance|romance]]
-in this affair; that which once consisted of absurd but thrilling
-combats in the streets, has degenerated into something which is
-the very prose of warfare...it has degenerated into a siege.
-A siege may be defined as a peace plus the inconvenience of war.
-Of course Wayne cannot hold out.  There is no more chance of help
-from anywhere else than of ships from the [[Moon|moon]].  And if old Wayne
-had stocked his street with tinned meats till all his garrison had
-to sit on them, he couldn't hold out for more than a month or two.
-As a matter of [[Melancholy|melancholy]] fact he has done something rather like this.
-He has stocked his street with food until there must be uncommonly
-little room to turn round.  But what is the good?  To hold out for
-all that [[Time|time]] and then to give in of necessity, what does it mean?
-It means waiting until your victories are forgotten and then taking
-the trouble to be defeated.  I cannot understand how Wayne can
-be so inartistic.
+"The same that would have happened to the world and all the starry
+systems if an apple-tree grew six apples instead of seven;
+something would have been eternally lost.  There has never
+been anything in the world absolutely like Notting [[Hill]].
+There will never be anything quite like it to the crack of doom.
+I cannot believe anything but that God loved it as He must
+surely [[Love|love]] anything that is itself and unreplaceable.
+But even for that I do not care.  If God, with all His thunders,
+hated it, I loved it."
 
-"And how odd it is that one views a thing quite differently when one
-knows it is defeated.  I always thought Wayne was rather fine.
-But now, when I know that he is done for, there seems to be
-nothing else but Wayne.  All the streets seem to point at him,
-all the chimneys seem to lean towards him.  I suppose it is a
-morbid feeling; but Pump Street seems to be the only part of [[London]]
-that I feel physically.  I suppose, I say, that it is morbid.
-I suppose it is exactly how a man feels about his heart
-when his heart is weak.  'Pump Street'"the heart is a pump.
-And I am drivelling.
+And with the voice a tall, strange figure lifted itself out of
+the debris in the half-darkness.
 
-"Our finest leader at the front is beyond all question, General Wilson.
-He has adopted [[Alone|alone]] among the other Provosts the uniform of his
-own halberdiers, although that fine old sixteenth-century garb
-was not originally intended to go with red side-whiskers. It was
-he who, against a most admirable and desperate defence, broke last
-[[Night|night]] into Pump Street and held it for at least half an hour.
-He was afterwards expelled from it by General Turnbull, of Notting [[Hill]],
-but only after desperate fighting and the sudden descent of that
-terrible darkness which proved so much more fatal to the forces
-of General Buck and General Swindon.
+The other voice came after a long pause, and as it were hoarsely.
 
-"Provost Wayne himself, with whom I had, with great good fortune, a most
-interesting interview, bore the most eloquent testimony to the conduct
-of General Wilson and his men.  His precise words are as follows:
-'I have bought sweets at his funny little shop when I was four
-years old, and ever since.  I never noticed anything, I am ashamed
-to say, except that he talked through his nose, and didn't wash
-himself particularly.  And he came over our barricade like a devil
-from hell.'  I repeated this speech to General Wilson himself,
-with some delicate improvements, and he seemed pleased with it.
-He does not, however, seem pleased with anything so much just now as
-he is with the wearing of a [[Sword|sword]].  I have it from the front on the best
-authority that General Wilson was not completely shaved yesterday.
-It is believed in military circles that he is growing a moustache....
+"But suppose the whole matter were really a hocus-pocus. Suppose
+that whatever meaning you may choose in your fancy to give to it,
+the real meaning of the whole was mockery.  Suppose it was
+all folly.  Suppose..."
+
+"I have been in it," answered the voice from the tall and strange figure,
+"and I know it was not."
+
+A smaller figure seemed half to rise in the dark.
+
+"Suppose I am God," said the voice, "and suppose I made the world
+in idleness.  Suppose the [[Stars|stars]], that you think eternal,
+are only the idiot fireworks of an everlasting schoolboy.
+Suppose the sun and the [[Moon|moon]], to which you sing alternately,
+are only the two eyes of one vast and sneering giant, opened alternately
+in a never-ending wink.  Suppose the trees, in my eyes, are as
+foolish as enormous toad-stools. Suppose Socrates and Charlemagne
+are to me only beasts, made funnier by walking on their hind legs.
+Suppose I am God, and having made things, laugh at them."
+
+"And suppose I am man," answered the other.  "And suppose that I
+give the answer that shatters even a laugh.  Suppose I do not
+laugh back at you, do not blaspheme you, do not curse you.
+But suppose, standing up straight under the sky, with every power
+of my being, I thank you for the fools' paradise you have made.
+Suppose I praise you, with a literal [[Pain|pain]] of ecstacy,
+for the jest that has brought me so terrible a joy.
+If we have taken the [[Child|child]]'s games, and given them the seriousness
+of a Crusade, if we have drenched your [[Grotesque|grotesque]] Dutch [[Garden|garden]]
+with the [[Blood|blood]] of martyrs, we have turned a nursery into a temple.
+I ask you, in the name of Heaven, who wins?"

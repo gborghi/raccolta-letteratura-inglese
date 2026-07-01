@@ -116,11 +116,3 @@ was pitched hard by, but it either was, or appeared to be, empty.
 where he was lying at his ease, into her grandfather’s face.  ‘You were
 in a mighty hurry a minute ago.  Go, if you like.  You’re your own
 master, I [[Hope|hope]]?’
-
-‘Don’t vex him,’ returned Isaac List, who was squatting like a frog on
-the other side of the [[Fire|fire]], and had so screwed himself up that he
-seemed to be squinting all over; ‘he didn’t mean any offence.’
-
-‘You keep me poor, and plunder me, and make a sport and jest of me
-besides,’ said the old man, turning from one to the other.  ‘Ye’ll
-drive me mad among ye.’

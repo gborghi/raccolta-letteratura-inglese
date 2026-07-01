@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 4 (part 2)"
+title: "Dombey and Son — Chapter 32 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,146 +14,105 @@ tags:
 </nav>
 
 
-“Where’s Walter, I [[Wonder|wonder]]!” said [[Solomon Gills]], after he had carefully
-put up the chronometer again. “Here’s dinner been ready, half an hour,
-and no Walter!”
+It was a chill dark [[Autumn|autumn]] evening, and [[Captain Cuttle]] had ordered a
+[[Fire|fire]] to be kindled in the little back parlour, now more than ever like
+the cabin of a [[Ship|ship]]. The rain fell fast, and the [[Wind|wind]] blew hard; and
+straying out on the [[house]]-top by that stormy bedroom of his old friend,
+to take an observation of the weather, the Captain’s heart died within
+him, when he saw how wild and desolate it was. Not that he associated
+the weather of that [[Time|time]] with poor Walter’s destiny, or doubted that if
+[[Providence]] had doomed him to be lost and shipwrecked, it was over, long
+ago; but that beneath an outward influence, quite distinct from the
+subject-matter of his thoughts, the Captain’s spirits sank, and his
+hopes turned pale, as those of wiser men had often done before him, and
+will often do again.
 
-Turning round upon his stool behind the counter, Mr Gills looked out
-among the instruments in the [[Window|window]], to see if his nephew might be
-crossing the [[Road|road]]. No. He was not among the bobbing umbrellas, and he
-certainly was not the newspaper boy in the oilskin cap who was slowly
-working his way along the piece of brass outside, writing his name over
-Mr Gills’s name with his forefinger.
+[[Captain Cuttle]], addressing his face to the sharp [[Wind|wind]] and slanting
+rain, looked up at the heavy scud that was flying fast over the
+wilderness of [[house]]-tops, and looked for something cheery there in
+vain. The prospect near at hand was no better. In sundry tea-chests and
+other rough boxes at his feet, the pigeons of Rob the Grinder were
+cooing like so many dismal breezes getting up. A crazy weathercock of a
+midshipman, with a telescope at his eye, once visible from the street,
+but long bricked out, creaked and complained upon his rusty pivot as
+the shrill blast spun him round and round, and sported with him
+cruelly. Upon the Captain’s coarse blue vest the cold raindrops started
+like steel beads; and he could hardly maintain himself aslant against
+the stiff Nor’-Wester that came pressing against him, importunate to
+topple him over the parapet, and throw him on the pavement below. If
+there were any [[Hope]] alive that evening, the Captain thought, as he held
+his hat on, it certainly kept [[house]], and wasn’t out of doors; so the
+Captain, shaking his head in a despondent manner, went in to look for
+it.
 
-“If I didn’t know he was too fond of me to make a run of it, and go and
-enter himself aboard [[Ship|ship]] against my wishes, I should begin to be
-fidgetty,” said Mr Gills, tapping two or three weather-glasses with his
-knuckles. “I really should. All in the Downs, eh! Lots of moisture!
-[[Well]]! it’s wanted.”
+[[Captain Cuttle]] descended slowly to the little back parlour, and, seated
+in his accustomed chair, looked for it in the [[Fire|fire]]; but it was not
+there, though the [[Fire|fire]] was bright. He took out his tobacco-box and
+pipe, and composing himself to smoke, looked for it in the red glow
+from the bowl, and in the wreaths of vapour that curled upward from his
+lips; but there was not so much as an atom of the rust of [[Hope]]’s anchor
+in either. He tried a glass of grog; but [[Melancholy|melancholy]] [[Truth|truth]] was at the
+[[Bottom|bottom]] of that [[Well|well]], and he couldn’t finish it. He made a turn or two
+in the shop, and looked for [[Hope]] among the instruments; but they
+obstinately worked out reckonings for the missing [[Ship|ship]], in spite of any
+opposition he could offer, that ended at the [[Bottom|bottom]] of the lone sea.
 
-“I believe,” said Mr Gills, blowing the [[Dust|dust]] off the glass top of a
-compass-case, “that you don’t point more direct and due to the back
-parlour than the boy’s inclination does after all. And the parlour
-couldn’t bear straighter either. Due north. Not the twentieth part of a
-point either way.”
+The [[Wind|wind]] still rushing, and the rain still pattering, against the
+closed shutters, the Captain brought to before the wooden Midshipman
+upon the counter, and thought, as he dried the little officer’s uniform
+with his sleeve, how many years the Midshipman had seen, during which
+few changes—hardly any—had transpired among his [[Ship|ship]]’s company; how the
+changes had come all together, one day, as it might be; and of what a
+sweeping kind they were. Here was the little society of the back
+parlour broken up, and scattered far and wide. Here was no audience for
+Lovely Peg, even if there had been anybody to sing it, which there was
+not; for the Captain was as morally certain that nobody but he could
+execute that ballad, as he was that he had not the spirit, under
+existing circumstances, to attempt it. There was no bright face of
+“Wal”r” in the [[house]];—here the Captain transferred his sleeve for a
+moment from the Midshipman’s uniform to his own cheek;—the familiar wig
+and buttons of Sol Gills were a vision of the past; [[Richard]] Whittington
+was knocked on the head; and every plan and project in connexion with
+the Midshipman, lay drifting, without mast or rudder, on the waste of
+waters.
 
-“Halloa, Uncle Sol!”
+As the Captain, with a dejected face, stood revolving these thoughts,
+and polishing the Midshipman, partly in the tenderness of old
+acquaintance, and partly in the absence of his mind, a knocking at the
+shop-door communicated a frightful start to the frame of Rob the
+Grinder, seated on the counter, whose large eyes had been intently
+fixed on the Captain’s face, and who had been debating within himself,
+for the five hundredth [[Time|time]], whether the Captain could have done a
+murder, that he had such an evil [[Conscience|conscience]], and was always running
+away.
 
-“Halloa, my boy!” cried the Instrument-maker, turning briskly round.
-“What! you are here, are you?”
+“What’s that?” said [[Captain Cuttle]], softly.
 
-A cheerful looking, merry boy, fresh with running [[Home|home]] in the rain;
-fair-faced, bright-eyed, and curly-haired.
+“Somebody’s knuckles, Captain,” answered Rob the Grinder.
 
-“[[Well]], Uncle, how have you got on without me all day? Is dinner ready?
-I’m so hungry.”
+The Captain, with an abashed and guilty air, immediately walked on
+tiptoe to the little parlour and locked himself in. Rob, opening the
+door, would have parleyed with the visitor on the threshold if the
+visitor had come in female guise; but the figure being of the male sex,
+and Rob’s orders only applying to women, Rob held the door open and
+allowed it to enter: which it did very quickly, glad to get out of the
+driving rain.
 
-“As to getting on,” said Solomon good-naturedly, “it would be odd if I
-couldn’t get on without a young dog like you a great deal better than
-with you. As to dinner being ready, it’s been ready this half hour and
-waiting for you. As to being hungry, I am!”
+“A job for Burgess and Co. at any rate,” said the visitor, looking over
+his shoulder compassionately at his own legs, which were very wet and
+covered with splashes. “Oh, how-de-do, Mr Gills?”
 
-“Come along then, Uncle!” cried the boy. “Hurrah for the admiral!”
+The salutation was addressed to the Captain, now emerging from the back
+parlour with a most transparent and utterly futile affectation of
+coming out by accidence.
 
-“Confound the admiral!” returned [[Solomon Gills]]. “You mean the Lord
-Mayor.”
+“Thankee,” the gentleman went on to say in the same breath; “I’m very
+[[Well|well]] indeed, myself, I’m much obliged to you. My name is Toots,—Mister
+Toots.”
 
-“No I don’t!” cried the boy. “Hurrah for the admiral! Hurrah for the
-admiral! For-ward!”
-
-At this word of command, the Welsh wig and its wearer were borne
-without resistance into the back parlour, as at the head of a boarding
-party of five hundred men; and Uncle Sol and his nephew were speedily
-engaged on a fried sole with a prospect of steak to follow.
-
-“The [[Lord Mayor]], Wally,” said Solomon, “for ever! No more admirals. The
-[[Lord Mayor]]’s your admiral.”
-
-“Oh, is he though!” said the boy, shaking his head. “Why, the [[Sword]]
-Bearer’s better than him. He draws his [[Sword|sword]] sometimes.”
-
-“And a pretty figure he cuts with it for his pains,” returned the
-Uncle. “Listen to me, Wally, listen to me. Look on the mantelshelf.”
-
-“Why who has cocked my silver mug up there, on a nail?” exclaimed the
-boy.
-
-“I have,” said his Uncle. “No more mugs now. We must begin to drink out
-of glasses today, Walter. We are men of business. We belong to the
-[[City]]. We started in life this morning.”
-
-“[[Well]], Uncle,” said the boy, “I’ll drink out of anything you like, so
-long as I can drink to you. Here’s to you, Uncle Sol, and Hurrah for
-the—”
-
-“[[Lord Mayor]],” interrupted the old man.
-
-“For the [[Lord Mayor]], Sheriffs, Common Council, and Livery,” said the
-boy. “Long life to ’em!”
-
-The uncle nodded his head with great satisfaction. “And now,” he said,
-“let’s hear something about the Firm.”
-
-“Oh! there’s not much to be told about the Firm, Uncle,” said the boy,
-plying his knife and fork. “It’s a precious dark set of offices, and in
-the room where I sit, there’s a high fender, and an iron safe, and some
-cards about ships that are going to sail, and an almanack, and some
-desks and stools, and an inkbottle, and some books, and some boxes, and
-a lot of cobwebs, and in one of ’em, just over my head, a shrivelled-up
-blue-bottle that looks as if it had hung there ever so long.”
-
-“Nothing else?” said the Uncle.
-
-“No, nothing else, except an old birdcage (I [[Wonder|wonder]] how that ever came
-there!) and a coal-scuttle.”
-
-“No bankers’ books, or cheque books, or bills, or such tokens of wealth
-[[rolling]] in from day to day?” said old Sol, looking wistfully at his
-nephew out of the fog that always seemed to hang about him, and laying
-an unctuous emphasis upon the words.
-
-“Oh yes, plenty of that I suppose,” returned his nephew carelessly;
-“but all that sort of thing’s in Mr Carker’s room, or Mr Morfin’s, or
-Mr Dombey’s.”
-
-“Has Mr Dombey been there today?” inquired the Uncle.
-
-“Oh yes! In and out all day.”
-
-“He didn’t take any notice of you, I suppose?”.
-
-“Yes he did. He walked up to my seat,—I wish he wasn’t so solemn and
-stiff, Uncle,—and said, ‘Oh! you are the son of Mr Gills the Ships’
-Instrument-maker.’ ‘Nephew, Sir,’ I said. ‘I said nephew, boy,’ said
-he. But I could take my oath he said son, Uncle.”
-
-“You’re mistaken I daresay. It’s no matter.”
-
-“No, it’s no matter, but he needn’t have been so sharp, I thought.
-There was no harm in it though he did say son. Then he told me that you
-had spoken to him about me, and that he had found me employment in the
-[[house|House]] accordingly, and that I was expected to be attentive and
-punctual, and then he went away. I thought he didn’t seem to like me
-much.”
-
-“You mean, I suppose,” observed the Instrument-maker, “that you didn’t
-seem to like him much?”
-
-“[[Well]], Uncle,” returned the boy, laughing. “Perhaps so; I never thought
-of that.”
-
-Solomon looked a little graver as he finished his dinner, and glanced
-from [[Time|time]] to [[Time|time]] at the boy’s bright face. When dinner was done, and
-the cloth was cleared away (the entertainment had been brought from a
-neighbouring eating-[[house]]), he lighted a candle, and went down below
-into a little cellar, while his nephew, standing on the mouldy
-staircase, dutifully held the light. After a moment’s groping here and
-there, he presently returned with a very ancient-looking bottle,
-covered with [[Dust|dust]] and dirt.
-
-“Why, Uncle Sol!” said the boy, “what are you about? that’s the
-wonderful Madeira!—there’s only one more bottle!”
-
-Uncle Sol nodded his head, implying that he knew very [[Well|well]] what he was
-about; and having drawn the cork in solemn [[Silence|silence]], filled two glasses
-and set the bottle and a third clean glass on the table.
+The Captain remembered to have seen this young gentleman at the
+wedding, and made him a bow. Mr Toots replied with a chuckle; and being
+embarrassed, as he generally was, breathed hard, shook hands with the
+Captain for a long [[Time|time]], and then falling on Rob the Grinder, in the
+absence of any other resource, shook hands with him in a most
+affectionate and cordial manner.

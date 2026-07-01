@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 13: THIRTEEN (part 8)"
+title: "Martin Chuzzlewit — Chapter 13: THIRTEEN (part 8)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,37 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_13_thirteen/part_07">‹ part 07</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_14_fourteen/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘Now tell me the [[Truth|truth]]. Do you know anything about that?’
+
+Mark turned it over and over; held it near his eyes; held it away from
+him at arm’s length; held it with the superscription upwards and with
+the superscription downwards; and shook his head with such a genuine
+expression of astonishment at being asked the question, that Martin
+said, as he took it from him again:
+
+‘No, I see you don’t. How should you! Though, indeed, your knowing about
+it would not be more extraordinary than its being here. Come, Tapley,’
+he added, after a moment’s thought, ‘I’ll trust you with my [[history]],
+such as it is, and then you’ll see more clearly what sort of fortunes
+you would link yourself to, if you followed me.’
+
+‘I beg your pardon, sir,’ said Mark; ‘but afore you enter upon it
+will you take me if I choose to go? Will you turn off me--Mark
+Tapley--formerly of the Blue Dragon, as can be [[Well|well]] recommended by Mr
+Pinch, and as wants a gentleman of your strength of mind to look up to;
+or will you, in climbing the ladder as you’re certain to get to the
+top of, take me along with you at a respectful distance? Now, sir,’
+said Mark, ‘it’s of very little importance to you, I know, there’s the
+difficulty; but it’s of very great importance to me, and will you be so
+good as to consider of it?’
+
+If this were meant as a second appeal to Martin’s weak side, founded on
+his observation of the effect of the first, Mr Tapley was a skillful and
+shrewd observer. Whether an intentional or an accidental shot, it
+hit the mark fully for Martin, relenting more and more, said with a
+condescension which was inexpressibly delicious to him, after his recent
+humiliation:
 
 ‘We’ll see about it, Tapley. You shall tell me in what disposition you
 find yourself to-morrow.’

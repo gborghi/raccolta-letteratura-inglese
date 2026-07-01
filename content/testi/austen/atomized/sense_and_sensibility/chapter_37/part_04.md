@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 37 (part 4)"
+title: "Sense and Sensibility — Chapter 37 (part 4)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -12,6 +12,26 @@ tags:
 <div class="excerpt-crumb">Austen · <a href="/works/sense-and-sensibility-(austen)">Sense and Sensibility</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_37/part_03">‹ part 03</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_38/part_01">part 01 ›</a></div>
 </nav>
+
+
+she had asked these young women to her [[house]]; merely because she
+
+thought they deserved some attention, were harmless, [[Well|well]]-behaved
+
+girls, and would be pleasant companions; for otherwise we both wished
+
+very much to have invited you and Marianne to be with us, while your
+
+kind friend there, was attending her daughter. And now to be so
+
+rewarded! ‘I wish, with all my heart,’ says poor Fanny in her
+
+affectionate way, ‘that we had asked your sisters instead of them.’”
+
+
+
+Here he stopped to be thanked; which being done, he went on.
+
 
 
 “What poor Mrs. Ferrars suffered, when first Fanny broke it to her, is

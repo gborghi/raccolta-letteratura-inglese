@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 2 (part 2)"
+title: "Villette — Chapter 2 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_02/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_03/part_01">part 01 ›</a></div>
 </nav>
 
+
+She obeyed; went and returned deftly and nimbly. He was talking to Mrs.
+Bretton when she came back, and she waited with the handkerchief in her
+hand. It was a picture, in its way, to see her, with her tiny stature,
+and trim, neat shape, standing at his knee. Seeing that he continued to
+talk, apparently unconscious of her return, she took his hand, opened
+the unresisting fingers, insinuated into them the handkerchief, and
+closed them upon it one by one. He still seemed not to see or to feel
+her; but by-and-by, he lifted her to his knee; she nestled against him,
+and though neither looked at nor spoke to the other for an hour
+following, I suppose both were satisfied.
 
 During tea, the minute thing’s movements and behaviour gave, as usual,
 full occupation to the eye. First she directed Warren, as he placed the

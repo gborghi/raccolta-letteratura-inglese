@@ -1,5 +1,5 @@
 ---
-title: "[[King John]] — Act V, Scene 2 — exchange (LOUIS THE [[Dauphin|DAUPHIN]]) [8]"
+title: "King John — Act V, Scene 2 — exchange (LOUIS THE DAUPHIN) [8]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/king-john-(shakespeare)"

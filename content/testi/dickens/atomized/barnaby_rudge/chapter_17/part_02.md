@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 17 (part 2)"
+title: "Barnaby Rudge — Chapter 17 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -14,6 +14,15 @@ tags:
 </nav>
 
 
+‘What do you mean?’
+
+‘Do not stop to ask. I will not answer. Much as I dread to touch you, I
+would drag you to the door if I possessed the strength, rather than you
+should lose an instant. Miserable wretch! fly from this place.’
+
+‘If there are spies without, I am safer here,’ replied the man, standing
+aghast. ‘I will remain here, and will not fly till the danger is past.’
+
 ‘It is too late!’ cried the widow, who had listened for the step, and
 not to him. ‘Hark to that foot upon the ground. Do you tremble to hear
 it! It is my son, my idiot son!’
@@ -27,7 +36,7 @@ dark, houseless [[Night|night]]. He knocks again. Let him come in!’
 ‘The dread of this hour,’ returned the widow, ‘has been upon me all my
 life, and I will not. Evil will fall upon him, if you stand eye to eye.
 My blighted boy! Oh! all good angels who know the [[Truth|truth]]--hear a poor
-mother’s [[Prayer|prayer]], and spare my boy from knowledge of this man!’
+mother’s [[prayer]], and spare my boy from knowledge of this man!’
 
 ‘He rattles at the shutters!’ cried the man. ‘He calls you. That voice
 and cry! It was he who grappled with me in the [[Road|road]]. Was it he?’
@@ -126,21 +135,3 @@ it?’
 He fell into a shivering fit as he put the question, and shutting out
 the light with his hands, sat shaking in every limb until it had passed
 away. After a [[Time|time]], he raised his head and looked about him.
-
-‘Is it gone?’
-
-‘There has been nothing here,’ rejoined his mother, soothing him.
-‘Nothing indeed, dear Barnaby. Look! You see there are but you and me.’
-
-He gazed at her vacantly, and, becoming reassured by degrees, burst into
-a wild laugh.
-
-‘But let us see,’ he said, thoughtfully. ‘Were we talking? Was it you
-and me? Where have we been?’
-
-‘Nowhere but here.’
-
-‘Aye, but Hugh, and I,’ said Barnaby,--‘that’s it. Maypole Hugh, and
-I, you know, and Grip--we have been lying in the forest, and among the
-trees by the [[Road|road]] side, with a dark lantern after [[Night|night]] came on, and the
-dog in a noose ready to slip him when the man came by.’

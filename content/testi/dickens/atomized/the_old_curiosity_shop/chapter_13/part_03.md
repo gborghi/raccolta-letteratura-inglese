@@ -14,6 +14,22 @@ tags:
 </nav>
 
 
+‘And say,’ added Mr Swiveller, ‘say, sir, that I was wafted here upon
+the pinions of concord; that I came to remove, with the rake of
+[[Friendship|friendship]], the seeds of mutual violence and heart-burning, and to sow
+in their place, the germs of social harmony.  Will you have the
+goodness to charge yourself with that commission, Sir?’
+
+‘Certainly!’ rejoined Quilp.
+
+‘Will you be kind enough to add to it, Sir,’ said Dick, producing a
+very small limp card, ‘that that is my address, and that I am to be
+found at [[Home|home]] every morning.  Two distinct knocks, sir, will produce
+the slavey at any [[Time|time]].  My particular friends, Sir, are accustomed to
+sneeze when the door is opened, to give her to understand that they ARE
+my friends and have no interested motives in asking if I’m at [[Home|home]].  I
+beg your pardon; will you allow me to look at that card again?’
+
 ‘Oh! by all means,’ rejoined Quilp.
 
 ‘By a slight and not unnatural mistake, sir,’ said Dick, substituting

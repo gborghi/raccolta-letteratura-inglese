@@ -68,7 +68,6 @@ Or it will become more and more what that mysterious energy was before
 which the Roman religion of the poets and the historians perished--
 a voice out of the catacombs and a cry from the [[Cross]].
 
-
 THE RELIGIOUS AIM OF [[Education|EDUCATION]]
 
 By G.K. Chesterton

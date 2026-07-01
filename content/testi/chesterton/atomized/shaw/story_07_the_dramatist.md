@@ -1,5 +1,5 @@
 ---
-title: "[[Shaw]] — THE DRAMATIST"
+title: "Shaw — THE DRAMATIST"
 author: "Chesterton"
 unitType: story
 parentWork: "works/shaw-(chesterton)"
@@ -74,7 +74,7 @@ Into all this enters Bluntschli, the little sturdy crop-haired Swiss
 professional soldier, a man without a country but with a trade.
 He tells the army-adoring heroine frankly that she is a humbug;
 and she, after a moment's reflection, appears to agree with him.
-The play is like nearly all [[Shaw]]'s plays, the dialogue of a [[Conversion|conversion]].
+The play is like nearly all [[Shaw]]'s plays, the dialogue of a [[conversion]].
 By the end of it the young lady has lost all her military illusions
 and admires this mercenary soldier not because he faces guns,
 but because he faces facts.
@@ -398,7 +398,7 @@ it is even finer and more important because of its fate,
 which was to rouse a long and serious [[Storm|storm]] and to be vetoed
 by the Censor of Plays.  I say that this drama is most
 important because of the quarrel that came out of it.
-If I were speaking of some mere [[Artist|artist]] this might be an insult.
+If I were speaking of some mere [[artist]] this might be an insult.
 But there are high and heroic things in Bernard [[Shaw]];
 and one of the highest and most heroic is this, that he certainly
 cares much more for a quarrel than for a play.  And this quarrel
@@ -594,7 +594,7 @@ arresting and even indecent; I do not think that anyone thought
 of connecting it with the old Calvinistic [[morality]].  But [[Shaw]],
 who knew better than the Shavians, was at this moment on the very eve
 of confessing his moral origin.  The next book of plays he produced
-(including THE DEVIL'S DISCIPLE, CAPTAIN BRASSBOUND'S [[Conversion|CONVERSION]],
+(including THE DEVIL'S DISCIPLE, CAPTAIN BRASSBOUND'S [[conversion|CONVERSION]],
 and CAESAR AND [[Cleopatra|CLEOPATRA]]), actually bore the title of PLAYS FOR PURITANS.
 
 The play called THE DEVIL'S DISCIPLE has great merits,
@@ -646,7 +646,7 @@ asks rhetorically why he cannot be shot like a soldier.
 "Now there you speak like a civilian," replies General Burgoyne.
 "Have you formed any conception of the condition of marksmanship
 in the British Army?"  Excellent, too, is the passage in which
-his subordinate speaks of crushing the enemy in [[America]],
+his subordinate speaks of crushing the enemy in [[america|America]],
 and Burgoyne asks him who will crush their enemies in England,
 snobbery and jobbery and incurable carelessness and sloth.
 And in one sentence towards the end, [[Shaw]] reaches a wider and more
@@ -684,7 +684,7 @@ The question, however, need not detain us, for the batch of plays
 contained two others about which it is easier to speak.
 
 The third play in order in the series called PLAYS FOR PURITANS
-is a very charming one; CAPTAIN BRASSBOUND'S [[Conversion|CONVERSION]].
+is a very charming one; CAPTAIN BRASSBOUND'S [[conversion|CONVERSION]].
 This also turns, as does so much of the Caesar drama, on the idea
 of [[Vanity|vanity]] of [[Revenge|revenge]]--the idea that it is too slight and silly
 a thing for a man to allow to occupy and corrupt his consciousness.
@@ -720,7 +720,7 @@ a question of losing a life as of throwing away a bullet.
 But indeed the Irish comparison [[Alone|alone]] suggests a [[Doubt|doubt]] which
 wriggles in the recesses of my mind about the complete reliability
 of the [[philosophy]] of Lady Cicely Waynefleet, the complete
-finality of the moral of CAPTAIN BRASSBOUND'S [[Conversion|CONVERSION]].
+finality of the moral of CAPTAIN BRASSBOUND'S [[conversion|CONVERSION]].
 Of course, it was very natural in an [[aristocrat]] like
 Lady Cicely Waynefleet to wish to let sleeping [[dogs]] lie,
 especially those whom Mr. Blatchford calls under-[[dogs]]. Of
@@ -821,7 +821,7 @@ who wrote it down in gold and scarlet, sea-green and turquoise.
 Nevertheless, it is a good thing that the more austere
 method should exist separately, and that some men should be
 specially good at it.  Bernard [[Shaw]] is specially good at it;
-he is pre-eminently a black and white [[Artist|artist]].
+he is pre-eminently a black and white [[artist]].
 
 And as a study in black and white nothing could be better
 than this [[Sketch|sketch]] of [[Julius Caesar]].  He is not so much
@@ -919,7 +919,7 @@ tradition he comes a terrible cropper, as in this case.
 Bernard [[Shaw]] (I strongly suspect) began to disbelieve in Santa Claus
 at a discreditably early age.  And by this [[Time|time]] Santa Claus has avenged
 himself by taking away the key of all the prehistoric scriptures; so that
-a noble and honourable [[Artist|artist]] flounders about like any German professor.
+a noble and honourable [[artist]] flounders about like any German professor.
 Here is a whole fairy literature which is almost exclusively devoted
 to the unexpected victory of the weak over the strong; and Bernard [[Shaw]]
 manages to make it mean the inevitable victory of the strong over
@@ -1053,7 +1053,7 @@ that he had a [[Shadow|shadow]]."
 As has been said already, there must be some [[Truth|truth]] in every
 popular impression.  And the impression that [[Shaw]], the most
 savagely serious man of his [[Time|time]], is a mere music-hall
-[[Artist|artist]] must have reference to such rare outbreaks as these.
+[[artist]] must have reference to such rare outbreaks as these.
 As a rule his speeches are full, not only of substance,
 but of substances, materials like pork, mahogany, lead, and leather.
 There is no man whose arguments cover a more Napoleonic map

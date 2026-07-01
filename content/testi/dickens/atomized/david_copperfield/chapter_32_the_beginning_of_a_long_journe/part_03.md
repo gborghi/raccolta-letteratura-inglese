@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 32: THE BEGINNING OF A LONG [[Journey|JOURNEY]] (part 3)"
+title: "David Copperfield — Chapter 32: THE BEGINNING OF A LONG [[Journey|JOURNEY (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_32_the_beginning_of_a_long_journe/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_32_the_beginning_of_a_long_journe/part_04">part 04 ›</a></div>
 </nav>
 
+
+Mrs. Joram was so unhappy that her husband came out to take care of
+her. Leaving them together, I went [[Home|home]] to Peggotty’s; more [[Melancholy|melancholy]]
+myself, if possible, than I had been yet.
+
+That good creature--I mean Peggotty--all untired by her late anxieties
+and sleepless nights, was at her brother’s, where she meant to stay till
+morning. An old woman, who had been employed about the [[house]] for some
+weeks past, while Peggotty had been unable to attend to it, was the
+[[house]]’s only other occupant besides myself. As I had no occasion for her
+services, I sent her to bed, by no means against her will, and sat down
+before the kitchen [[Fire|fire]] a little while, to think about all this.
 
 I was blending it with the deathbed of the late Mr. Barkis, and was
 driving out with the tide towards the distance at which Ham had looked
@@ -113,22 +125,3 @@ very intent expression all the while, and pursued:
 walk as fast as you, with my short legs and short breath, and I couldn’t
 overtake you; but I guessed where you came, and came after you. I have
 been here before, today, but the good woman wasn’t at [[Home|home]].’
-
-‘Do you know her?’ I demanded.
-
-‘I know of her, and about her,’ she replied, ‘from Omer and Joram. I
-was there at seven o’[[Clock|clock]] this morning. Do you remember what Steerforth
-said to me about this unfortunate girl, that [[Time|time]] when I saw you both at
-the inn?’
-
-The great bonnet on Miss Mowcher’s head, and the greater bonnet on
-the wall, began to go backwards and forwards again when she asked this
-question.
-
-I remembered very [[Well|well]] what she referred to, having had it in my
-thoughts many times that day. I told her so.
-
-‘May the Father of all Evil confound him,’ said the little woman,
-holding up her forefinger between me and her sparkling eyes, ‘and ten
-times more confound that wicked servant; but I believed it was YOU who
-had a boyish passion for her!’

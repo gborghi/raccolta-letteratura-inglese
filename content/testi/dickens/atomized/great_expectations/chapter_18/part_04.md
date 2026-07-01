@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 18 (part 4)"
+title: "Great Expectations — Chapter 18 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -135,9 +135,3 @@ soon go.”
 order my new clothes, I shall tell the tailor that I’ll come and put
 them on there, or that I’ll have them sent to Mr. Pumblechook’s. It
 would be very disagreeable to be stared at by all the people here.”
-
-“Mr. and Mrs. Hubble might like to see you in your new gen-teel figure
-too, Pip,” said Joe, industriously cutting his bread, with his [[cheese]]
-on it, in the palm of his left hand, and glancing at my untasted supper
-as if he thought of the [[Time|time]] when we used to compare slices. “So might
-Wopsle. And the Jolly Bargemen might take it as a compliment.”

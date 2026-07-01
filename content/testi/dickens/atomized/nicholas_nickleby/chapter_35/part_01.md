@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 35 (part 1)"
+title: "Nicholas Nickleby — Chapter 35 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -131,8 +131,3 @@ remarks, which were delivered with such good-[[Humour|humour]] and merriment, th
 even nicer than Mrs. Grudden, of Mr. [[Vincent Crummles]]’s theatre; and she
 was a nice lady too, and talked, perhaps more, but certainly louder,
 than Miss La Creevy.
-
-At length the door opened again, and a lady in mourning came in; and
-Nicholas kissing the lady in mourning affectionately, and calling her
-his mother, led her towards the chair from which [[Smike]] had risen when
-she entered the room.

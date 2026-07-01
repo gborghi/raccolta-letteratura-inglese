@@ -1,5 +1,5 @@
 ---
-title: "[[Diddling]] (part 1)"
+title: "Diddling (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/diddling-(poe)"
@@ -235,7 +235,3 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
       The moderns, however, have brought it to a perfection never
 
       dreamed of by our thick-headed progenitors. Without pausing to
-
-      speak of the “old saws,” therefore, I shall content myself with a
-
-      compendious account of some of the more “modern instances.”

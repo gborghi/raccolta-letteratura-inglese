@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 12 (part 2)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 12 (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_11/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_11/part_03">part 03 ›</a></div>
 </nav>
 
+
+he will not feel a deep interest in the preservation of his existence;
+
+an interest momentarily increasing with the frailness of the tenure by
+
+which that existence may be held. But now that the silent, definite,
 
 and stern [[Nature|nature]] of the business in which I was engaged (so different
 
@@ -193,13 +199,3 @@ feeble shout of joy, and we all proceeded forthwith to the forecastle.
 The difficulty of descending here was greater than that of going down
 
 in the cabin, the opening being much smaller, for it will be remembered
-
-that the whole framework about the cabin companion-hatch had been
-
-carried away, whereas the forecastle-way, being a simple hatch of only
-
-about three feet square, had remained uninjured. I did not hesitate,
-
-however, to attempt the descent; and, a rope being fastened round my
-
-[[Body|body]] as before, I plunged boldly in, feet foremost, made my way quickly

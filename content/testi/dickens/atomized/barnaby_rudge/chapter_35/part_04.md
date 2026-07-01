@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 35 (part 4)"
+title: "Barnaby Rudge — Chapter 35 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_35/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_37/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘Not one,’ repeated Gashford.
+
+‘Which of them can say for his honesty, what I can say for mine; which
+of them has refused a minister’s bribe of one thousand pounds a year, to
+resign his seat in favour of another? Not one.’
 
 ‘Not one,’ repeated Gashford again--taking the [[Lion|lion]]’s share of the
 mulled wine between whiles.

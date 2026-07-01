@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 38 (part 4)"
+title: "Great Expectations — Chapter 38 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -10,9 +10,62 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/great-expectations-(dickens)">Great Expectations</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_38/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_39/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_38/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_38/part_05">part 05 ›</a></div>
 </nav>
 
+
+“[[Estella]] who?” said I.
+
+“Never you mind,” retorted Drummle.
+
+“[[Estella]] of where?” said I. “You are bound to say of where.” Which he
+was, as a Finch.
+
+“Of Richmond, gentlemen,” said Drummle, putting me out of the question,
+“and a peerless [[Beauty|beauty]].”
+
+Much he knew about peerless beauties, a mean, miserable idiot! I
+whispered Herbert.
+
+“I know that lady,” said Herbert, across the table, when the toast had
+been honoured.
+
+“_Do_ you?” said Drummle.
+
+“And so do I,” I added, with a scarlet face.
+
+“_Do_ you?” said Drummle. “_O_, Lord!”
+
+This was the only retort—except glass or crockery—that the heavy
+creature was capable of making; but, I became as highly incensed by it
+as if it had been barbed with wit, and I immediately [[Rose|rose]] in my place
+and said that I could not but regard it as being like the honourable
+Finch’s impudence to come down to that Grove,—we always talked about
+coming down to that Grove, as a neat Parliamentary turn of
+expression,—down to that Grove, proposing a lady of whom he knew
+nothing. Mr. Drummle, upon this, starting up, demanded what I meant by
+that? Whereupon I made him the extreme reply that I believed he knew
+where I was to be found.
+
+Whether it was possible in a Christian country to get on without [[Blood|blood]],
+after this, was a question on which the Finches were divided. The
+[[debate]] upon it grew so lively, indeed, that at least six more
+honourable members told six more, during the discussion, that they
+believed _they_ knew where _they_ were to be found. However, it was
+decided at last (the Grove being a [[Court]] of [[Honour]]) that if Mr. Drummle
+would bring never so slight a certificate from the lady, importing that
+he had the [[Honour|honour]] of her acquaintance, Mr. Pip must express his regret,
+as a gentleman and a Finch, for “having been betrayed into a warmth
+which.” Next day was appointed for the production (lest our [[Honour|honour]]
+should take cold from delay), and next day Drummle appeared with a
+polite little avowal in [[Estella]]’s hand, that she had had the [[Honour|honour]] of
+dancing with him several times. This left me no course but to regret
+that I had been “betrayed into a warmth which,” and on the whole to
+repudiate, as untenable, the idea that I was to be found anywhere.
+Drummle and I then sat snorting at one another for an hour, while the
+Grove engaged in indiscriminate contradiction, and finally the
+promotion of good feeling was declared to have gone ahead at an amazing
+rate.
 
 I tell this lightly, but it was no light thing to me. For, I cannot
 adequately express what [[Pain|pain]] it gave me to think that [[Estella]] should
@@ -95,67 +148,3 @@ ill-tempered, lowering, stupid fellow.”
 
 “You know he has nothing to recommend him but money and a ridiculous
 roll of addle-headed predecessors; now, don’t you?”
-
-“[[Well]]?” said she again; and each [[Time|time]] she said it, she opened her
-lovely eyes the wider.
-
-To overcome the difficulty of getting past that monosyllable, I took it
-from her, and said, repeating it with emphasis, “[[Well]]! Then, that is
-why it makes me wretched.”
-
-Now, if I could have believed that she favoured Drummle with any idea
-of making me—me—wretched, I should have been in better heart about it;
-but in that habitual way of hers, she put me so entirely out of the
-question, that I could believe nothing of the kind.
-
-“Pip,” said [[Estella]], casting her glance over the room, “don’t be
-foolish about its effect on you. It may have its effect on others, and
-may be meant to have. It’s not worth discussing.”
-
-“Yes it is,” said I, “because I cannot bear that people should say,
-‘she throws away her graces and attractions on a mere boor, the lowest
-in the crowd.’”
-
-“I can bear it,” said [[Estella]].
-
-“Oh! don’t be so proud, [[Estella]], and so inflexible.”
-
-“Calls me proud and inflexible in this breath!” said [[Estella]], opening
-her hands. “And in his last breath reproached me for stooping to a
-boor!”
-
-“There is no [[Doubt|doubt]] you do,” said I, something hurriedly, “for I have
-seen you give him looks and smiles this very [[Night|night]], such as you never
-give to—me.”
-
-“Do you want me then,” said [[Estella]], turning suddenly with a fixed and
-serious, if not angry, look, “to deceive and entrap you?”
-
-“Do you deceive and entrap him, [[Estella]]?”
-
-“Yes, and many others,—all of them but you. Here is Mrs. Brandley. I’ll
-say no more.”
-
-
-
-
-And now that I have given the one chapter to the theme that so filled
-my heart, and so often made it ache and ache again, I pass on
-unhindered, to the event that had impended over me longer yet; the
-event that had begun to be prepared for, before I knew that the world
-held [[Estella]], and in the days when her baby intelligence was receiving
-its first distortions from [[Miss Havisham]]’s wasting hands.
-
-In the Eastern story, the heavy slab that was to fall on the bed of
-state in the flush of conquest was slowly wrought out of the quarry,
-the tunnel for the rope to hold it in its place was slowly carried
-through the leagues of rock, the slab was slowly raised and fitted in
-the roof, the rope was rove to it and slowly taken through the miles of
-hollow to the great iron ring. All being made ready with much labour,
-and the hour come, the sultan was aroused in the dead of the [[Night|night]], and
-the sharpened axe that was to sever the rope from the great iron ring
-was put into his hand, and he struck with it, and the rope parted and
-rushed away, and the ceiling fell. So, in my case; all the work, near
-and afar, that tended to the end, had been accomplished; and in an
-instant the blow was struck, and the roof of my stronghold dropped upon
-me.

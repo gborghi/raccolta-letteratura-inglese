@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 1: I AM BORN (part 2)"
+title: "David Copperfield — Chapter 1: I AM BORN (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_01_i_am_born/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_01_i_am_born/part_03">part 03 ›</a></div>
 </nav>
 
+
+This was the state of matters, on the afternoon of, what I may be
+excused for calling, that eventful and important Friday. I can make no
+claim therefore to have known, at that [[Time|time]], how matters stood; or to
+have any remembrance, founded on the evidence of my own senses, of what
+follows.
 
 My mother was sitting by the [[Fire|fire]], but poorly in health, and very low in
 spirits, looking at it through her [[Tears|tears]], and desponding heavily about
@@ -132,9 +138,3 @@ settled her with one hand, even if my mother had been in far better
 training for such an encounter than she was that evening. But it passed
 with the action of rising from her chair; and she sat down again very
 meekly, and fainted.
-
-When she came to herself, or when Miss Betsey had restored her,
-whichever it was, she found the latter standing at the [[Window|window]]. The
-twilight was by this [[Time|time]] shading down into darkness; and dimly as they
-saw each other, they could not have done that without the aid of the
-[[Fire|fire]].

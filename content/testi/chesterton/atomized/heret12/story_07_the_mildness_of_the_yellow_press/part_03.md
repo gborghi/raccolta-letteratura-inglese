@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]] — The Mildness of the Yellow Press (part 3)"
+title: "heret12 — The Mildness of the Yellow Press (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/heret12-(chesterton)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_07_the_mildness_of_the_yellow_press/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_10_science_and_the_savages/part_01">part 01 ›</a></div>
 </nav>
 
+
+"A little common sense impresses American working-men more than
+high-flown argument.  A speaker who, as he made his points,
+pulled buttons off his waistcoat, won thousands of votes for his side."
+Or, "Sound common sense tells better in [[America]] than high-flown argument.
+Thus Senator Budge, who threw his false teeth in the air every [[Time|time]]
+he made an [[Epigram|epigram]], won the solid approval of American working-men."
+Or again, "The sound common sense of a gentleman from Earlswood,
+who stuck straws in his hair during the progress of his speech,
+assured the victory of Mr. Roosevelt."
 
 There are many other elements in this article on which I should
 [[Love|love]] to linger.  But the matter which I wish to point out is

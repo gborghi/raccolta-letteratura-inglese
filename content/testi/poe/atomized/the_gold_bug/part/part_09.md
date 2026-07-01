@@ -1,5 +1,5 @@
 ---
-title: "[[The Gold-Bug]] (part 9)"
+title: "The Gold-Bug (part 9)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-gold-bug-(poe)"
@@ -13,6 +13,32 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_gold_bug/part/part_08">‹ part 08</a><a class="ex-next" href="/testi/poe/atomized/the_gold_bug/part/part_10">part 10 ›</a></div>
 </nav>
 
+
+      thing had been heaped in promiscuously. Having assorted all with
+
+      care, we found ourselves possessed of even vaster wealth than we
+
+      had at first supposed. In coin there was rather more than four
+
+      hundred and fifty thousand dollars—estimating the value of the
+
+      pieces, as accurately as we could, by the tables of the period.
+
+      There was not a particle of silver. All was gold of antique date
+
+      and of great variety—French, Spanish, and German money, with a
+
+      few English guineas, and some counters, of which we had never
+
+      seen specimens before. There were several very large and heavy
+
+      coins, so worn that we could make nothing of their inscriptions.
+
+      There was no American money. The value of the jewels we found
+
+      more difficulty in estimating. There were diamonds—some of them
+
+      exceedingly large and fine—a hundred and ten in all, and not one
 
       of them small; eighteen rubies of remarkable brilliancy;—three
 
@@ -94,7 +120,7 @@ tags:
 
       graphic powers irritated me—for I am considered a good
 
-      [[Artist|artist]]—and, therefore, when you handed me the scrap of parchment,
+      [[artist]]—and, therefore, when you handed me the scrap of parchment,
 
       I was about to crumple it up and throw it angrily into the [[Fire|fire]].”
 
@@ -165,37 +191,3 @@ tags:
       for I recollected turning up first one side and then the other,
 
       in search of the cleanest spot. Had the skull been then there, of
-
-      course I could not have failed to notice it. Here was indeed a
-
-      mystery which I felt it impossible to explain; but, even at that
-
-      early moment, there seemed to glimmer, faintly, within the most
-
-      remote and secret chambers of my intellect, a glow-worm-like
-
-      conception of that [[Truth|truth]] which last [[Night|night]]’s adventure brought to
-
-      so magnificent a demonstration. I arose at once, and putting the
-
-      parchment securely away, dismissed all farther reflection until I
-
-      should be [[Alone|alone]].
-
-
-
-      “When you had gone, and when Jupiter was fast asleep, I betook
-
-      myself to a more methodical investigation of the affair. In the
-
-      first place I considered the manner in which the parchment had
-
-      come into my possession. The spot where we discovered the
-
-      _scarabæus_ was on the coast of the main land, about a mile
-
-      eastward of the island, and but a short distance above high [[Water|water]]
-
-      mark. Upon my taking hold of it, it gave me a sharp bite, which
-
-      caused me to let it drop. Jupiter, with his accustomed caution,

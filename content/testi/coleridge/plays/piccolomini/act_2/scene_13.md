@@ -1,5 +1,5 @@
 ---
-title: "[[THE PICCOLOMINI]] — Act II, Scene 13"
+title: "THE PICCOLOMINI — Act II, Scene 13"
 author: "Coleridge"
 unitType: scene
 parentWork: "works/the-piccolomini-(coleridge)"

@@ -1,5 +1,5 @@
 ---
-title: "[[Don Quixote]] — Chapter 4"
+title: "Don Quixote — Chapter 4"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/don-quixote-(chesterton)"
@@ -264,11 +264,11 @@ He delivered a sort of lecture.
 "You would be quite safe in reading Ruskin, if only as a sort
 of introduction to the subject.  With the exception of Pater,
 of course, there has been no critic since having that atmosphere
-of authority.  [[Democracy]], of course, is not favourable to authority.
-And I very much [[Fear|fear]], Mr. Braintree, that [[Democracy|democracy]] is not
+of authority.  [[democracy|Democracy]], of course, is not favourable to authority.
+And I very much [[Fear|fear]], Mr. Braintree, that [[democracy]] is not
 favourable to art."
 
-"[[Well]], if ever we have any [[Democracy|democracy]], I suppose we shall
+"[[Well]], if ever we have any [[democracy]], I suppose we shall
 find out," said Braintree.
 
 "I [[Fear|fear]]," said Wister, shaking his head, "that we have quite
@@ -286,7 +286,7 @@ she said to Wister, "I'm afraid we interrupted you"; which was
 indeed the case.
 
 "I was saying," said Wister, airily, but also a little loftily,
-"that I [[Fear|fear]] we have descended to [[Democracy|democracy]] and an age of little men.
+"that I [[Fear|fear]] we have descended to [[democracy]] and an age of little men.
 The great Victorians are gone."
 
 "Yes, of course," answered the girl, a little mechanically.

@@ -1,5 +1,5 @@
 ---
-title: "The Haunted Man and the [[Ghost]]'s Bargain — Chapter 3 (part 7)"
+title: "The Haunted Man and the Ghost's Bargain — Chapter 3 (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-haunted-man-and-the-ghost's-bargain-(dickens)"
@@ -13,6 +13,23 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_03/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_03/part_08">part 08 ›</a></div>
 </nav>
 
+
+The Chemist looked at him, and shook his head. “I had a sister,” he said
+vacantly. He knew no more.
+
+“One Christmas morning,” pursued the old man, “that you come here with
+her—and it began to [[Snow|snow]], and my wife invited the lady to walk in, and
+sit by the [[Fire|fire]] that is always a burning on Christmas Day in what used to
+be, before our ten poor gentlemen commuted, our great Dinner Hall. I was
+there; and I recollect, as I was stirring up the blaze for the young lady
+to warm her pretty feet by, she read the scroll out loud, that is
+underneath that pictur, ‘Lord, keep my [[Memory|memory]] green!’ She and my poor
+wife fell a talking about it; and it’s a strange thing to think of, now,
+that they both said (both being so unlike to die) that it was a good
+[[prayer]], and that it was one they would put up very earnestly, if they
+were called away young, with reference to those who were dearest to them.
+‘My brother,’ says the young lady—‘My husband,’ says my poor wife.—‘Lord,
+keep his [[Memory|memory]] of me, green, and do not let me be forgotten!’”
 
 [[Tears]] more painful, and more bitter than he had ever shed in all his
 life, coursed down Redlaw’s face. Philip, fully occupied in recalling
@@ -140,33 +157,3 @@ long ago, or in what belief that he has forfeited), should come to this?”
 His eyes wandered to the figure standing near the door, but came back
 speedily to her, on whom he gazed intently, as if he strove to learn some
 lesson from every tone of her voice, and every beam of her eyes.
-
-“I have no learning, and you have much,” said Milly; “I am not used to
-think, and you are always thinking. May I tell you why it seems to me a
-good thing for us, to remember wrong that has been done us?”
-
-“Yes.”
-
-“That we may forgive it.”
-
-“Pardon me, great Heaven!” said Redlaw, lifting up his eyes, “for having
-thrown away thine own high attribute!”
-
-“And if,” said Milly, “if your [[Memory|memory]] should one day be restored, as we
-will [[Hope|hope]] and pray it may be, would it not be a blessing to you to recall
-at once a wrong and its [[Forgiveness|forgiveness]]?”
-
-He looked at the figure by the door, and fastened his attentive eyes on
-her again; a ray of clearer light appeared to him to shine into his mind,
-from her bright face.
-
-“He cannot go to his abandoned [[Home|home]]. He does not seek to go there. He
-knows that he could only carry shame and trouble to those he has so
-cruelly neglected; and that the best reparation he can make them now, is
-to avoid them. A very little money carefully bestowed, would remove him
-to some distant place, where he might live and do no wrong, and make such
-atonement as is left within his power for the wrong he has done. To the
-unfortunate lady who is his wife, and to his son, this would be the best
-and kindest boon that their best friend could give them—one too that they
-need never know of; and to him, shattered in reputation, mind, and [[Body|body]],
-it might be salvation.”

@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 7 (part 4)"
+title: "Our Mutual Friend — Chapter 10 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,170 +10,138 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_48/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_49/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_48/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_48/part_05">part 05 ›</a></div>
 </nav>
 
 
-Still swilling tea, [[Mr Venus]] nodded assent.
+When he got back, Lightwood was standing over the [[Fire|fire]], brooding in a
+sufficiently low-spirited manner.
 
-‘And there you sit, sir,’ pursued Wegg with an air of thoughtful
-admiration, ‘as if you had never left off! There you sit, sir, as if you
-had an unlimited capacity of assimilating the flagrant article! There
-you sit, sir, in the midst of your works, looking as if you’d been
-called upon for [[Home]], Sweet [[Home]], and was obleeging the company!
+‘I’ll wash my hands of Mr Dolls physically—’ said Eugene, ‘and be with
+you again directly, Mortimer.’
 
-     “A [[Exile|exile]] from [[Home|home]] splendour dazzles in vain,
-     O give you your lowly Preparations again,
-     The [[Birds|birds]] stuffed so sweetly that can’t be expected to come at
-     your call,
-     Give you these with the peace of mind dearer than all.
-     [[Home]], [[Home]], [[Home]], sweet [[Home]]!”
+‘I would much prefer,’ retorted Mortimer, ‘your washing your hands of Mr
+Dolls, morally, Eugene.’
 
-—Be it ever,’ added Mr Wegg in prose as he glanced about the shop,
-‘ever so ghastly, all things considered there’s no place like it.’
+‘So would I,’ said Eugene; ‘but you see, dear boy, I can’t do without
+him.’
 
-‘You said you’d like to ask something; but you haven’t asked it,’
-remarked [[Venus]], very unsympathetic in manner.
+In a minute or two he resumed his chair, as perfectly unconcerned as
+usual, and rallied his friend on having so narrowly escaped the prowess
+of their muscular visitor.
 
-‘Your peace of mind,’ said Wegg, offering condolence, ‘your peace of
-mind was in a poor way that [[Night|night]]. HOW’S it going on? IS it looking up
-at all?’
+‘I can’t be amused on this theme,’ said Mortimer, restlessly. ‘You can
+make almost any theme amusing to me, Eugene, but not this.’
 
-‘She does not wish,’ replied [[Mr Venus]] with a comical mixture of
-indignant obstinacy and tender [[Melancholy|melancholy]], ‘to regard herself, nor yet
-to be regarded, in that particular light. There’s no more to be said.’
+‘[[Well]]!’ cried Eugene, ‘I am a little ashamed of it myself, and therefore
+let us change the subject.’
 
-‘Ah, dear me, dear me!’ exclaimed Wegg with a sigh, but eyeing him while
-pretending to keep him company in eyeing the [[Fire|fire]], ‘such is Woman! And
-I remember you said that [[Night|night]], sitting there as I sat here—said that
-[[Night|night]] when your peace of mind was first laid low, that you had taken an
-interest in these very affairs. Such is coincidence!’
+‘It is so deplorably underhanded,’ said Mortimer. ‘It is so unworthy of
+you, this setting on of such a shameful scout.’
 
-‘Her father,’ rejoined [[Venus]], and then stopped to [[Swallow|swallow]] more tea, ‘her
-father was mixed up in them.’
+‘We have changed the subject!’ exclaimed Eugene, airily. ‘We have found
+a new one in that word, scout. Don’t be like Patience on a mantelpiece
+frowning at Dolls, but sit down, and I’ll tell you something that you
+really will find amusing. Take a cigar. Look at this of mine. I
+light it—draw one puff—breathe the smoke out—there it goes—it’s
+Dolls!—it’s gone—and being gone you are a man again.’
 
-‘You didn’t mention her name, sir, I think?’ observed Wegg, pensively.
-‘No, you didn’t mention her name that [[Night|night]].’
+‘Your subject,’ said Mortimer, after lighting a cigar, and comforting
+himself with a whiff or two, ‘was scouts, Eugene.’
 
-‘Pleasant Riderhood.’
+‘Exactly. Isn’t it droll that I never go out after dark, but I find
+myself attended, always by one scout, and often by two?’
 
-‘In—deed!’ cried Wegg. ‘Pleasant Riderhood. There’s something moving in
-the name. Pleasant. Dear me! Seems to express what she might have
-been, if she hadn’t made that unpleasant remark—and what she ain’t,
-in consequence of having made it. Would it at all pour balm into your
-wounds, [[Mr Venus]], to inquire how you came acquainted with her?’
+Lightwood took his cigar from his lips in surprise, and looked at his
+friend, as if with a latent suspicion that there must be a jest or
+hidden meaning in his words.
 
-‘I was down at the [[Water|water]]-side,’ said [[Venus]], taking another gulp of
-tea and mournfully winking at the [[Fire|fire]]—‘looking for parrots’—taking
-another gulp and stopping.
+‘On my [[Honour|honour]], no,’ said Wrayburn, answering the look and smiling
+carelessly; ‘I don’t [[Wonder|wonder]] at your supposing so, but on my [[Honour|honour]], no.
+I say what I mean. I never go out after dark, but I find myself in the
+ludicrous situation of being followed and observed at a distance, always
+by one scout, and often by two.’
 
-Mr Wegg hinted, to jog his attention: ‘You could hardly have been out
-parrot-shooting, in the British climate, sir?’
+‘Are you sure, Eugene?’
 
-‘No, no, no,’ said [[Venus]] fretfully. ‘I was down at the [[Water|water]]-side,
-looking for parrots brought [[Home|home]] by sailors, to buy for stuffing.’
+‘Sure? My dear boy, they are always the same.’
 
-‘Ay, ay, ay, sir!’
+‘But there’s no process out against you. The Jews only threaten. They
+have done nothing. Besides, they know where to find you, and I represent
+you. Why take the trouble?’
 
-‘—And looking for a nice pair of rattlesnakes, to articulate for a
-Museum—when I was doomed to fall in with her and deal with her. It was
-just at the [[Time|time]] of that discovery in the [[River|river]]. Her father had seen the
-discovery being towed in the [[River|river]]. I made the popularity of the subject
-a reason for going back to improve the acquaintance, and I have never
-since been the man I was. My very bones is rendered flabby by brooding
-over it. If they could be brought to me loose, to sort, I should hardly
-have the face to claim ’em as mine. To such an extent have I fallen off
-under it.’
+‘Observe the legal mind!’ remarked Eugene, turning round to the
+furniture again, with an air of indolent rapture. ‘Observe the dyer’s
+hand, assimilating itself to what it works in,—or would work in, if
+anybody would give it anything to do. Respected solicitor, it’s not
+that. The schoolmaster’s abroad.’
 
-Mr Wegg, less interested than he had been, glanced at one particular
-shelf in the dark.
+‘The schoolmaster?’
 
-‘Why I remember, [[Mr Venus]],’ he said in a tone of friendly commiseration
-‘(for I remember every word that falls from you, sir), I remember that
-you said that [[Night|night]], you had got up there—and then your words was,
-“Never mind.”’
+‘Ay! Sometimes the schoolmaster and the pupil are both abroad. Why, how
+soon you rust in my absence! You don’t understand yet? Those fellows
+who were here one [[Night|night]]. They are the scouts I speak of, as doing me the
+[[Honour|honour]] to attend me after dark.’
 
-‘—The parrot that I bought of her,’ said [[Venus]], with a despondent rise
-and fall of his eyes. ‘Yes; there it lies on its side, dried up; except
-for its plumage, very like myself. I’ve never had the heart to prepare
-it, and I never shall have now.’
+‘How long has this been going on?’ asked Lightwood, opposing a serious
+face to the laugh of his friend.
 
-With a disappointed face, Silas mentally consigned this parrot to
-regions more than tropical, and, seeming for the [[Time|time]] to have lost
-his power of assuming an interest in the woes of [[Mr Venus]], fell to
-tightening his wooden leg as a preparation for departure: its gymnastic
-performances of that evening having severely tried its constitution.
+‘I apprehend it has been going on, ever since a certain person went off.
+Probably, it had been going on some little [[Time|time]] before I noticed it:
+which would bring it to about that [[Time|time]].’
 
-After Silas had left the shop, hat-box in hand, and had left [[Mr Venus]]
-to lower himself to oblivion-point with the requisite weight of tea, it
-greatly preyed on his ingenuous mind that he had taken this [[artist]] into
-partnership at all. He bitterly felt that he had overreached himself in
-the beginning, by grasping at [[Mr Venus]]’s mere straws of hints, now shown
-to be worthless for his purpose. Casting about for ways and means of
-dissolving the connexion without loss of money, reproaching himself for
-having been betrayed into an avowal of his secret, and complimenting
-himself beyond measure on his purely accidental good luck, he beguiled
-the distance between Clerkenwell and the mansion of the Golden Dustman.
+‘Do you think they suppose you to have inveigled her away?’
 
-For, [[Silas Wegg]] felt it to be quite out of the question that he could
-lay his head upon his pillow in peace, without first hovering over
-Mr Boffin’s [[house]] in the superior character of its Evil Genius. Power
-(unless it be the power of intellect or virtue) has ever the greatest
-attraction for the lowest natures; and the mere defiance of the
-unconscious [[house]]-front, with his power to strip the roof off the
-inhabiting family like the roof of a [[house]] of cards, was a treat which
-had a charm for [[Silas Wegg]].
+‘My dear Mortimer, you know the absorbing [[Nature|nature]] of my professional
+occupations; I really have not had leisure to think about it.’
 
-As he hovered on the opposite side of the street, exulting, the carriage
-drove up.
+‘Have you asked them what they want? Have you objected?’
 
-‘There’ll shortly be an end of YOU,’ said Wegg, threatening it with the
-hat-box. ‘YOUR varnish is fading.’
+‘Why should I ask them what they want, dear fellow, when I am
+indifferent what they want? Why should I express objection, when I don’t
+object?’
 
-Mrs Boffin descended and went in.
+‘You are in your most reckless mood. But you called the situation just
+now, a ludicrous one; and most men object to that, even those who are
+utterly indifferent to everything else.’
 
-‘Look out for a fall, my Lady Dustwoman,’ said Wegg.
+‘You charm me, Mortimer, with your reading of my weaknesses. (By-the-by,
+that very word, Reading, in its critical use, always charms me. An
+actress’s Reading of a chambermaid, a dancer’s Reading of a hornpipe, a
+singer’s Reading of a [[Song|song]], a marine painter’s Reading of the sea,
+the kettle-drum’s Reading of an instrumental passage, are phrases
+ever youthful and delightful.) I was mentioning your perception of my
+weaknesses. I own to the weakness of objecting to occupy a ludicrous
+position, and therefore I transfer the position to the scouts.’
 
-Bella lightly descended, and ran in after her.
+‘I wish, Eugene, you would speak a little more soberly and plainly, if
+it were only out of consideration for my feeling less at ease than you
+do.’
 
-‘How brisk we are!’ said Wegg. ‘You won’t run so gaily to your old
-shabby [[Home|home]], my girl. You’ll have to go there, though.’
-
-A little while, and the Secretary came out.
-
-‘I was passed over for you,’ said Wegg. ‘But you had better provide
-yourself with another situation, young man.’
-
-Mr Boffin’s [[Shadow|shadow]] passed upon the blinds of three large windows as he
-trotted down the room, and passed again as he went back.
-
-‘Yoop!’ cried Wegg. ‘You’re there, are you? Where’s the bottle? You
-would give your bottle for my box, Dustman!’
-
-Having now composed his mind for slumber, he turned homeward. Such
-was the [[Greed|greed]] of the fellow, that his mind had shot beyond halves,
-two-thirds, three-fourths, and gone straight to spoliation of the whole.
-‘Though that wouldn’t quite do,’ he considered, growing cooler as he got
-away. ‘That’s what would happen to him if he didn’t buy us up. We should
-get nothing by that.’
-
-We so judge others by ourselves, that it had never come into his head
-before, that he might not buy us up, and might prove honest, and prefer
-to be poor. It caused him a slight tremor as it passed; but a very
-slight one, for the idle thought was gone directly.
-
-‘He’s grown too fond of money for that,’ said Wegg; ‘he’s grown too fond
-of money.’ The burden fell into a strain or tune as he stumped along the
-pavements. All the way [[Home|home]] he stumped it out of the rattling streets,
-PIANO with his own foot, and FORTE with his wooden leg, ‘He’s GROWN too
-FOND of MONEY for THAT, he’s GROWN too FOND of MONEY.’
-
-Even next day Silas soothed himself with this melodious strain, when he
-was called out of bed at daybreak, to set open the yard-gate and admit
-the train of carts and horses that came to carry off the little Mound.
-And all day long, as he kept unwinking watch on the slow process which
-promised to protract itself through many days and weeks, whenever
-(to save himself from being choked with [[Dust|dust]]) he patrolled a little
-cinderous beat he established for the purpose, without taking his eyes
-from the diggers, he still stumped to the tune: He’s GROWN too FOND of
-MONEY for THAT, he’s GROWN too FOND of MONEY.’
+‘Then soberly and plainly, Mortimer, I goad the schoolmaster to [[Madness|madness]].
+I make the schoolmaster so ridiculous, and so aware of being made
+ridiculous, that I see him chafe and fret at every pore when we [[Cross|cross]]
+one another. The amiable occupation has been the solace of my life,
+since I was baulked in the manner unnecessary to recall. I have derived
+inexpressible comfort from it. I do it thus: I stroll out after dark,
+stroll a little way, look in at a [[Window|window]] and furtively look out for the
+schoolmaster. Sooner or later, I perceive the schoolmaster on the watch;
+sometimes accompanied by his hopeful pupil; oftener, pupil-less. Having
+made sure of his watching me, I tempt him on, all over [[London]]. One
+[[Night|night]] I go east, another [[Night|night]] north, in a few nights I go all round the
+compass. Sometimes, I walk; sometimes, I proceed in cabs, draining the
+pocket of the schoolmaster who then follows in cabs. I study and get
+up abstruse No Thoroughfares in the course of the day. With Venetian
+mystery I seek those No Thoroughfares at [[Night|night]], glide into them by means
+of dark courts, tempt the schoolmaster to follow, turn suddenly, and
+catch him before he can retreat. Then we face one another, and I pass
+him as unaware of his existence, and he undergoes grinding torments.
+Similarly, I walk at a great pace down a short street, rapidly turn the
+corner, and, getting out of his view, as rapidly turn back. I catch him
+coming on post, again pass him as unaware of his existence, and again
+he undergoes grinding torments. [[Night]] after [[Night|night]] his disappointment is
+acute, but [[Hope|hope]] springs eternal in the scholastic breast, and he follows
+me again to-morrow. Thus I enjoy the pleasures of the chase, and derive
+great benefit from the healthful exercise. When I do not enjoy the
+pleasures of the chase, for anything I know he watches at the Temple
+Gate all [[Night|night]].’

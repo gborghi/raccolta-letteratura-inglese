@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 13 (part 5)"
+title: "Nicholas Nickleby — Chapter 13 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_13/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_14/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘I am in no mood for more noise and riot,’ thought Nicholas, ‘and yet,
+do what I will, I shall have an altercation with this honest blockhead,
+and perhaps a blow or two from yonder staff.’
+
+In [[Truth|truth]], there appeared some reason to expect that such a result would
+follow from the encounter, for John Browdie no sooner saw Nicholas
+advancing, than he reined in his [[Horse|horse]] by the footpath, and waited until
+such [[Time|time]] as he should come up; looking meanwhile, very sternly between
+the [[Horse|horse]]’s ears, at Nicholas, as he came on at his leisure.
 
 ‘Servant, young genelman,’ said John.
 

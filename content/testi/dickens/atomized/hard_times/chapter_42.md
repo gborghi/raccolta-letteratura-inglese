@@ -1,5 +1,5 @@
 ---
-title: "Hard Times — Chapter 4"
+title: "Hard Times — Chapter 5"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/hard-times-(dickens)"
@@ -14,293 +14,229 @@ tags:
 </nav>
 
 
-CHAPTER IV
-MR. BOUNDERBY
+CHAPTER V
+THE KEYNOTE
 
 
-NOT being Mrs. Grundy, who _was_ Mr. Bounderby?
+COKETOWN, to which Messrs. Bounderby and Gradgrind now walked, was a
+triumph of fact; it had no greater taint of fancy in it than Mrs.
+Gradgrind herself.  Let us strike the key-note, Coketown, before pursuing
+our tune.
 
-Why, Mr. Bounderby was as near being Mr. Gradgrind’s bosom friend, as a
-man perfectly devoid of sentiment can approach that spiritual
-relationship towards another man perfectly devoid of sentiment.  So near
-was Mr. Bounderby—or, if the reader should prefer it, so far off.
+It was a town of red brick, or of brick that would have been red if the
+smoke and ashes had allowed it; but as matters stood, it was a town of
+unnatural red and black like the painted face of a savage.  It was a town
+of machinery and tall chimneys, out of which interminable serpents of
+smoke trailed themselves for ever and ever, and never got uncoiled.  It
+had a black canal in it, and a [[River|river]] that ran purple with ill-smelling
+dye, and vast piles of building full of windows where there was a
+rattling and a trembling all day long, and where the piston of the
+steam-engine worked monotonously up and down, like the head of an
+elephant in a state of [[Melancholy|melancholy]] [[Madness|madness]].  It contained several large
+streets all very like one another, and many small streets still more like
+one another, inhabited by people equally like one another, who all went
+in and out at the same hours, with the same sound upon the same
+pavements, to do the same work, and to whom every day was the same as
+yesterday and to-morrow, and every year the counterpart of the last and
+the next.
 
-He was a rich man: banker, merchant, manufacturer, and what not.  A big,
-loud man, with a stare, and a metallic laugh.  A man made out of a coarse
-material, which seemed to have been stretched to make so much of him.  A
-man with a great puffed head and forehead, swelled veins in his temples,
-and such a strained skin to his face that it seemed to hold his eyes
-open, and lift his eyebrows up.  A man with a pervading appearance on him
-of being inflated like a balloon, and ready to start.  A man who could
-never sufficiently vaunt himself a [[Self-Made Man|self-made man]].  A man who was always
-proclaiming, through that brassy speaking-trumpet of a voice of his, his
-old ignorance and his old [[Poverty|poverty]].  A man who was the Bully of [[Humility|humility]].
+These attributes of Coketown were in the main inseparable from the work
+by which it was sustained; against them were to be set off, comforts of
+life which found their way all over the world, and elegancies of life
+which made, we will not ask how much of the fine lady, who could scarcely
+bear to hear the place mentioned.  The rest of its features were
+voluntary, and they were these.
 
-A year or two younger than his eminently practical friend, Mr. Bounderby
-looked older; his seven or eight and forty might have had the seven or
-eight added to it again, without surprising anybody.  He had not much
-hair.  One might have fancied he had talked it off; and that what was
-left, all standing up in disorder, was in that condition from being
-constantly blown about by his windy boastfulness.
+You saw nothing in Coketown but what was severely workful.  If the
+members of a religious [[Persuasion|persuasion]] built a chapel there—as the members of
+eighteen religious persuasions had done—they made it a pious warehouse of
+red brick, with sometimes (but this is only in highly ornamental
+examples) a bell in a birdcage on the top of it.  The solitary exception
+was the New Church; a stuccoed edifice with a square steeple over the
+door, terminating in four short pinnacles like florid wooden legs.  All
+the public inscriptions in the town were painted alike, in severe
+characters of black and white.  The jail might have been the infirmary,
+the infirmary might have been the jail, the town-hall might have been
+either, or both, or anything else, for anything that appeared to the
+contrary in the graces of their construction.  Fact, fact, fact,
+everywhere in the material aspect of the town; fact, fact, fact,
+everywhere in the immaterial.  The M’Choakumchild school was all fact,
+and the school of design was all fact, and the relations between master
+and man were all fact, and everything was fact between the lying-in
+hospital and the cemetery, and what you couldn’t state in figures, or
+show to be purchaseable in the cheapest market and saleable in the
+dearest, was not, and never should be, world without end, Amen.
 
-In the formal drawing-room of Stone Lodge, standing on the hearthrug,
-warming himself before the [[Fire|fire]], Mr. Bounderby delivered some
-observations to Mrs. Gradgrind on the circumstance of its being his
-birthday.  He stood before the [[Fire|fire]], partly because it was a cool [[spring]]
-afternoon, though the sun shone; partly because the shade of Stone Lodge
-was always haunted by the [[Ghost|ghost]] of damp mortar; partly because he thus
-took up a commanding position, from which to subdue Mrs. Gradgrind.
+A town so sacred to fact, and so triumphant in its assertion, of course
+got on [[Well|well]]?  Why no, not quite [[Well|well]].  No?  Dear me!
 
-‘I hadn’t a shoe to my foot.  As to a stocking, I didn’t know such a
-thing by name.  I passed the day in a ditch, and the [[Night|night]] in a pigsty.
-That’s the way I spent my tenth birthday.  Not that a ditch was new to
-me, for I was born in a ditch.’
+No.  Coketown did not come out of its own furnaces, in all respects like
+gold that had stood the [[Fire|fire]].  First, the perplexing mystery of the place
+was, Who belonged to the eighteen denominations?  Because, whoever did,
+the labouring people did not.  It was very strange to walk through the
+streets on a [[Sunday]] morning, and note how few of _them_ the barbarous
+jangling of [[Bells|bells]] that was driving the sick and nervous mad, called away
+from their own quarter, from their own close rooms, from the corners of
+their own streets, where they lounged listlessly, gazing at all the
+church and chapel going, as at a thing with which they had no manner of
+concern.  Nor was it merely the stranger who noticed this, because there
+was a native organization in Coketown itself, whose members were to be
+heard of in the [[house|House]] of Commons every session, indignantly petitioning
+for acts of parliament that should make these people religious by main
+force.  Then came the Teetotal Society, who complained that these same
+people _would_ get drunk, and showed in tabular statements that they did
+get drunk, and proved at tea parties that no inducement, human or Divine
+(except a medal), would induce them to forego their custom of getting
+drunk.  Then came the chemist and druggist, with other tabular
+statements, showing that when they didn’t get drunk, they took opium.
+Then came the experienced chaplain of the jail, with more tabular
+statements, outdoing all the previous tabular statements, and showing
+that the same people _would_ resort to low haunts, hidden from the public
+eye, where they heard low singing and saw low dancing, and mayhap joined
+in it; and where A. B., aged twenty-four next birthday, and committed for
+eighteen months’ solitary, had himself said (not that he had ever shown
+himself particularly worthy of belief) his ruin began, as he was
+perfectly sure and confident that otherwise he would have been a tip-top
+moral specimen.  Then came Mr. Gradgrind and Mr. Bounderby, the two
+gentlemen at this present moment walking through Coketown, and both
+eminently practical, who could, on occasion, furnish more tabular
+statements derived from their own personal experience, and illustrated by
+cases they had known and seen, from which it clearly appeared—in short,
+it was the only clear thing in the case—that these same people were a bad
+lot altogether, gentlemen; that do what you would for them they were
+never thankful for it, gentlemen; that they were restless, gentlemen;
+that they never knew what they wanted; that they lived upon the best, and
+bought fresh butter; and insisted on Mocha coffee, and rejected all but
+prime parts of meat, and yet were eternally dissatisfied and
+unmanageable.  In short, it was the moral of the old nursery [[Fable|fable]]:
 
-Mrs. Gradgrind, a little, thin, white, pink-eyed bundle of shawls, of
-surpassing feebleness, mental and bodily; who was always taking physic
-without any effect, and who, whenever she showed a symptom of coming to
-life, was invariably stunned by some weighty piece of fact tumbling on
-her; Mrs. Gradgrind hoped it was a dry ditch?
+    There was an old woman, and what do you think?
+    She lived upon nothing but victuals and drink;
+    Victuals and drink were the whole of her diet,
+    And yet this old woman would NEVER be quiet.
 
-‘No!  As wet as a sop.  A foot of [[Water|water]] in it,’ said Mr. Bounderby.
+Is it possible, I [[Wonder|wonder]], that there was any analogy between the case of
+the Coketown population and the case of the little Gradgrinds?  Surely,
+none of us in our sober senses and acquainted with figures, are to be
+told at this [[Time|time]] of day, that one of the foremost elements in the
+existence of the Coketown working-people had been for scores of years,
+deliberately set at nought?  That there was any Fancy in them demanding
+to be brought into healthy existence instead of struggling on in
+convulsions?  That exactly in the ratio as they worked long and
+monotonously, the craving grew within them for some physical relief—some
+relaxation, encouraging good [[Humour|humour]] and good spirits, and giving them a
+vent—some recognized holiday, though it were but for an honest [[Dance|dance]] to a
+stirring band of music—some occasional light pie in which even
+M’Choakumchild had no finger—which craving must and would be satisfied
+aright, or must and would inevitably go wrong, until the laws of the
+Creation were repealed?
 
-‘Enough to give a baby cold,’ Mrs. Gradgrind considered.
+‘This man lives at Pod’s End, and I don’t quite know Pod’s End,’ said Mr.
+Gradgrind.  ‘Which is it, Bounderby?’
 
-‘Cold?  I was born with inflammation of the lungs, and of everything
-else, I believe, that was capable of inflammation,’ returned Mr.
-Bounderby.  ‘For years, ma’am, I was one of the most miserable little
-wretches ever seen.  I was so sickly, that I was always moaning and
-groaning.  I was so ragged and dirty, that you wouldn’t have touched me
-with a pair of tongs.’
+Mr. Bounderby knew it was somewhere down town, but knew no more
+respecting it.  So they stopped for a moment, looking about.
 
-Mrs. Gradgrind faintly looked at the tongs, as the most appropriate thing
-her imbecility could think of doing.
+Almost as they did so, there came running round the corner of the street
+at a quick pace and with a frightened look, a girl whom Mr. Gradgrind
+recognized.  ‘Halloa!’ said he.  ‘Stop!  Where are you going! Stop!’
+Girl number twenty stopped then, palpitating, and made him a curtsey.
 
-‘How I fought through it, _I_ don’t know,’ said Bounderby.  ‘I was
-determined, I suppose.  I have been a determined character in later life,
-and I suppose I was then.  Here I am, Mrs. Gradgrind, anyhow, and nobody
-to thank for my being here, but myself.’
+‘Why are you tearing about the streets,’ said Mr. Gradgrind, ‘in this
+improper manner?’
 
-Mrs. Gradgrind meekly and weakly hoped that his mother—
+‘I was—I was run after, sir,’ the girl panted, ‘and I wanted to get
+away.’
 
-‘_My_ mother?  Bolted, ma’am!’ said Bounderby.
+‘Run after?’ repeated Mr. Gradgrind.  ‘Who would run after _you_?’
 
-Mrs. Gradgrind, stunned as usual, collapsed and gave it up.
+The question was unexpectedly and suddenly answered for her, by the
+colourless boy, Bitzer, who came round the corner with such blind [[Speed|speed]]
+and so little anticipating a stoppage on the pavement, that he brought
+himself up against Mr. Gradgrind’s waistcoat and rebounded into the [[Road|road]].
 
-‘My mother left me to my grandmother,’ said Bounderby; ‘and, according to
-the best of my remembrance, my grandmother was the wickedest and the
-worst old woman that ever lived.  If I got a little pair of shoes by any
-chance, she would take ’em off and sell ’em for drink.  Why, I have known
-that grandmother of mine lie in her bed and drink her four-teen glasses
-of liquor before breakfast!’
+‘What do you mean, boy?’ said Mr. Gradgrind.  ‘What are you doing?  How
+dare you dash against—everybody—in this manner?’  Bitzer picked up his
+cap, which the concussion had knocked off; and backing, and knuckling his
+forehead, pleaded that it was an accident.
 
-Mrs. Gradgrind, weakly smiling, and giving no other sign of vitality,
-looked (as she always did) like an indifferently executed transparency of
-a small female figure, without enough light behind it.
+‘Was this boy running after you, Jupe?’ asked Mr. Gradgrind.
 
-‘She kept a chandler’s shop,’ pursued Bounderby, ‘and kept me in an
-egg-box.  That was the cot of _my_ infancy; an old egg-box.  As soon as I
-was big enough to run away, of course I ran away.  Then I became a young
-vagabond; and instead of one old woman knocking me about and starving me,
-everybody of all ages knocked me about and starved me.  They were right;
-they had no business to do anything else.  I was a nuisance, an
-incumbrance, and a pest.  I know that very [[Well|well]].’
+‘Yes, sir,’ said the girl reluctantly.
 
-His [[Pride|pride]] in having at any [[Time|time]] of his life achieved such a great social
-distinction as to be a nuisance, an incumbrance, and a pest, was only to
-be satisfied by three sonorous repetitions of the boast.
+‘No, I wasn’t, sir!’ cried Bitzer.  ‘Not till she run away from me.  But
+the [[Horse|horse]]-riders never mind what they say, sir; they’re famous for it.
+You know the [[Horse|horse]]-riders are famous for never minding what they say,’
+addressing Sissy.  ‘It’s as [[Well|well]] known in the town as—please, sir, as the
+multiplication table isn’t known to the [[Horse|horse]]-riders.’  Bitzer tried Mr.
+Bounderby with this.
 
-‘I was to pull through it, I suppose, Mrs. Gradgrind.  Whether I was to
-do it or not, ma’am, I did it.  I pulled through it, though nobody threw
-me out a rope.  Vagabond, errand-boy, vagabond, labourer, porter, clerk,
-chief manager, small partner, [[Josiah Bounderby]] of Coketown.  Those are
-the antecedents, and the culmination.  [[Josiah Bounderby]] of Coketown
-learnt his letters from the outsides of the shops, Mrs. Gradgrind, and
-was first able to tell the [[Time|time]] upon a dial-plate, from studying the
-steeple [[Clock|clock]] of St. Giles’s Church, [[London]], under the direction of a
-drunken cripple, who was a convicted thief, and an incorrigible vagrant.
-Tell [[Josiah Bounderby]] of Coketown, of your district schools and your
-model schools, and your training schools, and your whole kettle-of-fish
-of schools; and [[Josiah Bounderby]] of Coketown, tells you plainly, all
-right, all correct—he hadn’t such advantages—but let us have hard-headed,
-solid-fisted people—the [[Education|education]] that made him won’t do for everybody,
-he knows [[Well|well]]—such and such his [[Education|education]] was, however, and you may force
-him to [[Swallow|swallow]] boiling fat, but you shall never force him to suppress the
-facts of his life.’
+‘He frightened me so,’ said the girl, ‘with his cruel faces!’
 
-Being heated when he arrived at this climax, [[Josiah Bounderby]] of Coketown
-stopped.  He stopped just as his eminently practical friend, still
-accompanied by the two young culprits, entered the room.  His eminently
-practical friend, on seeing him, stopped also, and gave Louisa a
-reproachful look that plainly said, ‘Behold your Bounderby!’
+‘Oh!’ cried Bitzer.  ‘Oh!  An’t you one of the rest!  An’t you a
+[[Horse|horse]]-rider!  I never looked at her, sir.  I asked her if she would know
+how to define a [[Horse|horse]] to-morrow, and offered to tell her again, and she
+ran away, and I ran after her, sir, that she might know how to answer
+when she was asked.  You wouldn’t have thought of saying such mischief if
+you hadn’t been a [[Horse|horse]]-rider?’
 
-‘[[Well]]!’ blustered Mr. Bounderby, ‘what’s the matter?  What is young
-Thomas in the dumps about?’
+‘Her calling seems to be pretty [[Well|well]] known among ’em,’ observed Mr.
+Bounderby.  ‘You’d have had the whole school peeping in a row, in a
+week.’
 
-He spoke of young Thomas, but he looked at Louisa.
+‘Truly, I think so,’ returned his friend.  ‘Bitzer, turn you about and
+take yourself [[Home|home]]. Jupe, stay here a moment.  Let me hear of your
+running in this manner any more, boy, and you will hear of me through the
+master of the school.  You understand what I mean.  Go along.’
 
-‘We were peeping at the circus,’ muttered Louisa, haughtily, without
-lifting up her eyes, ‘and father caught us.’
+The boy stopped in his rapid blinking, knuckled his forehead again,
+glanced at Sissy, turned about, and retreated.
 
-‘And, Mrs. Gradgrind,’ said her husband in a lofty manner, ‘I should as
-soon have expected to find my children reading poetry.’
+‘Now, girl,’ said Mr. Gradgrind, ‘take this gentleman and me to your
+father’s; we are going there.  What have you got in that bottle you are
+carrying?’
 
-‘Dear me,’ whimpered Mrs. Gradgrind.  ‘How can you, Louisa and Thomas!  I
-[[Wonder|wonder]] at you.  I declare you’re enough to make one regret ever having
-had a family at all.  I have a great mind to say I wish I hadn’t.  _Then_
-what would you have done, I should like to know?’
+‘Gin,’ said Mr. Bounderby.
 
-Mr. Gradgrind did not seem favourably impressed by these cogent remarks.
-He frowned impatiently.
+‘Dear, no, sir!  It’s the nine oils.’
 
-‘As if, with my head in its present throbbing state, you couldn’t go and
-look at the shells and minerals and things provided for you, instead of
-circuses!’ said Mrs. Gradgrind.  ‘You know, as [[Well|well]] as I do, no young
-people have circus masters, or keep circuses in cabinets, or attend
-lectures about circuses.  What can you possibly want to know of circuses
-then?  I am sure you have enough to do, if that’s what you want.  With my
-head in its present state, I couldn’t remember the mere names of half the
-facts you have got to attend to.’
+‘The what?’ cried Mr. Bounderby.
 
-‘That’s the reason!’ pouted Louisa.
+‘The nine oils, sir, to rub father with.’
 
-‘Don’t tell me that’s the reason, because it can’t be nothing of the
-sort,’ said Mrs. Gradgrind.  ‘Go and be somethingological directly.’
-Mrs. Gradgrind was not a scientific character, and usually dismissed her
-children to their studies with this general injunction to choose their
-pursuit.
+‘Then,’ said Mr. Bounderby, with a loud short laugh, ‘what the devil do
+you rub your father with nine oils for?’
 
-In [[Truth|truth]], Mrs. Gradgrind’s stock of facts in general was woefully
-defective; but Mr. Gradgrind in raising her to her high matrimonial
-position, had been influenced by two reasons.  Firstly, she was most
-satisfactory as a question of figures; and, secondly, she had ‘no
-nonsense’ about her.  By nonsense he meant fancy; and truly it is
-probable she was as free from any alloy of that [[Nature|nature]], as any human
-being not arrived at the perfection of an absolute idiot, ever was.
+‘It’s what our people aways use, sir, when they get any hurts in the
+ring,’ replied the girl, looking over her shoulder, to assure herself
+that her pursuer was gone.  ‘They bruise themselves very bad sometimes.’
 
-The simple circumstance of being left [[Alone|alone]] with her husband and Mr.
-Bounderby, was sufficient to stun this admirable lady again without
-collision between herself and any other fact.  So, she once more died
-away, and nobody minded her.
+‘Serve ’em right,’ said Mr. Bounderby, ‘for being idle.’  She glanced up
+at his face, with mingled astonishment and dread.
 
-‘Bounderby,’ said Mr. Gradgrind, drawing a chair to the fireside, ‘you
-are always so interested in my young people—particularly in Louisa—that I
-make no apology for saying to you, I am very much vexed by this
-discovery.  I have systematically devoted myself (as you know) to the
-[[Education|education]] of the reason of my family.  The reason is (as you know) the
-only faculty to which [[Education|education]] should be addressed.  ‘And yet,
-Bounderby, it would appear from this unexpected circumstance of to-day,
-though in itself a trifling one, as if something had crept into Thomas’s
-and Louisa’s minds which is—or rather, which is not—I don’t know that I
-can express myself better than by saying—which has never been intended to
-be developed, and in which their reason has no part.’
+‘By George!’ said Mr. Bounderby, ‘when I was four or five years younger
+than you, I had worse bruises upon me than ten oils, twenty oils, forty
+oils, would have rubbed off.  I didn’t get ’em by posture-making, but by
+being banged about.  There was no rope-dancing for me; I danced on the
+bare ground and was larruped with the rope.’
 
-‘There certainly is no reason in looking with interest at a parcel of
-vagabonds,’ returned Bounderby.  ‘When I was a vagabond myself, nobody
-looked with any interest at _me_; I know that.’
+Mr. Gradgrind, though hard enough, was by no means so rough a man as Mr.
+Bounderby.  His character was not unkind, all things considered; it might
+have been a very kind one indeed, if he had only made some round mistake
+in the arithmetic that balanced it, years ago.  He said, in what he meant
+for a reassuring tone, as they turned down a narrow [[Road|road]], ‘And this is
+Pod’s End; is it, Jupe?’
 
-‘Then comes the question; said the eminently practical father, with his
-eyes on the [[Fire|fire]], ‘in what has this vulgar curiosity its rise?’
+‘This is it, sir, and—if you wouldn’t mind, sir—this is the [[house]].’
 
-‘I’ll tell you in what.  In idle [[Imagination|imagination]].’
+She stopped, at twilight, at the door of a mean little public-[[house]], with
+dim red lights in it.  As haggard and as shabby, as if, for want of
+custom, it had itself taken to drinking, and had gone the way all
+drunkards go, and was very near the end of it.
 
-‘I [[Hope|hope]] not,’ said the eminently practical; ‘I confess, however, that the
-misgiving _has_ crossed me on my way [[Home|home]].’
+‘It’s only crossing the bar, sir, and up the stairs, if you wouldn’t
+mind, and waiting there for a moment till I get a candle.  If you should
+hear a dog, sir, it’s only Merrylegs, and he only barks.’
 
-‘In idle [[Imagination|imagination]], Gradgrind,’ repeated Bounderby.  ‘A very bad thing
-for anybody, but a cursed bad thing for a girl like Louisa.  I should ask
-Mrs. Gradgrind’s pardon for strong expressions, but that she knows very
-[[Well|well]] I am not a refined character.  Whoever expects refinement in _me_
-will be disappointed.  I hadn’t a refined bringing up.’
-
-‘Whether,’ said Gradgrind, pondering with his hands in his pockets, and
-his cavernous eyes on the [[Fire|fire]], ‘whether any instructor or servant can
-have suggested anything?  Whether Louisa or Thomas can have been reading
-anything?  Whether, in spite of all precautions, any idle story-book can
-have got into the [[house]]?  Because, in minds that have been practically
-formed by rule and line, from the cradle upwards, this is so curious, so
-incomprehensible.’
-
-‘Stop a bit!’ cried Bounderby, who all this [[Time|time]] had been standing, as
-before, on the hearth, bursting at the very furniture of the room with
-explosive [[Humility|humility]].  ‘You have one of those strollers’ children in the
-school.’
-
-‘Cecilia Jupe, by name,’ said Mr. Gradgrind, with something of a stricken
-look at his friend.
-
-‘Now, stop a bit!’ cried Bounderby again.  ‘How did she come there?’
-
-‘Why, the fact is, I saw the girl myself, for the first [[Time|time]], only just
-now.  She specially applied here at the [[house]] to be admitted, as not
-regularly belonging to our town, and—yes, you are right, Bounderby, you
-are right.’
-
-‘Now, stop a bit!’ cried Bounderby, once more.  ‘Louisa saw her when she
-came?’
-
-‘Louisa certainly did see her, for she mentioned the application to me.
-But Louisa saw her, I have no [[Doubt|doubt]], in Mrs. Gradgrind’s presence.’
-
-‘Pray, Mrs. Gradgrind,’ said Bounderby, ‘what passed?’
-
-‘Oh, my poor health!’ returned Mrs. Gradgrind.  ‘The girl wanted to come
-to the school, and Mr. Gradgrind wanted girls to come to the school, and
-Louisa and Thomas both said that the girl wanted to come, and that Mr.
-Gradgrind wanted girls to come, and how was it possible to contradict
-them when such was the fact!’
-
-‘Now I tell you what, Gradgrind!’ said Mr. Bounderby.  ‘Turn this girl to
-the right about, and there’s an end of it.’
-
-‘I am much of your opinion.’
-
-‘Do it at once,’ said Bounderby, ‘has always been my motto from a [[Child|child]].
-When I thought I would run away from my egg-box and my grandmother, I did
-it at once.  Do you the same.  Do this at once!’
-
-‘Are you walking?’ asked his friend.  ‘I have the father’s address.
-Perhaps you would not mind walking to town with me?’
-
-‘Not the least in the world,’ said Mr. Bounderby, ‘as long as you do it
-at once!’
-
-So, Mr. Bounderby threw on his hat—he always threw it on, as expressing a
-man who had been far too busily employed in making himself, to acquire
-any fashion of wearing his hat—and with his hands in his pockets,
-sauntered out into the hall.  ‘I never wear gloves,’ it was his custom to
-say.  ‘I didn’t climb up the ladder in _them_.—Shouldn’t be so high up,
-if I had.’
-
-Being left to saunter in the hall a minute or two while Mr. Gradgrind
-went up-stairs for the address, he opened the door of the children’s
-study and looked into that serene floor-clothed apartment, which,
-notwithstanding its book-cases and its cabinets and its variety of
-learned and philosophical appliances, had much of the genial aspect of a
-room devoted to hair-cutting.  Louisa languidly leaned upon the [[Window|window]]
-looking out, without looking at anything, while young Thomas stood
-sniffing revengefully at the [[Fire|fire]].  Adam [[smith|Smith]] and Malthus, two younger
-Gradgrinds, were out at lecture in custody; and little Jane, after
-manufacturing a good deal of moist pipe-clay on her face with
-slate-pencil and [[Tears|tears]], had fallen asleep over vulgar fractions.
-
-‘It’s all right now, Louisa: it’s all right, young Thomas,’ said Mr.
-Bounderby; ‘you won’t do so any more.  I’ll answer for it’s being all
-over with father.  [[Well]], Louisa, that’s worth a kiss, isn’t it?’
-
-‘You can take one, Mr. Bounderby,’ returned Louisa, when she had coldly
-paused, and slowly walked across the room, and ungraciously raised her
-cheek towards him, with her face turned away.
-
-‘Always my pet; ain’t you, Louisa?’ said Mr. Bounderby.  ‘Good-bye,
-Louisa!’
-
-He went his way, but she stood on the same spot, rubbing the cheek he had
-kissed, with her handkerchief, until it was burning red.  She was still
-doing this, five minutes afterwards.
-
-‘What are you about, Loo?’ her brother sulkily remonstrated.  ‘You’ll rub
-a hole in your face.’
-
-‘You may cut the piece out with your penknife if you like, Tom.  I
-wouldn’t cry!’
+‘Merrylegs and nine oils, eh!’ said Mr. Bounderby, entering last with his
+metallic laugh.  ‘Pretty [[Well|well]] this, for a [[Self-Made Man|self-made man]]!’

@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 8 (part 2)"
+title: "Our Mutual Friend — Chapter 12 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,139 +14,131 @@ tags:
 </nav>
 
 
-‘Look here,’ said Fledgeby.—‘Are you attending?’
+‘Sir’ returned Lightwood, with a meaning glance towards Bella, ‘my
+position is a truly painful one. I [[Hope|hope]] that no complicity in a very
+dark transaction may attach to you, but you cannot fail to know that
+your own extraordinary conduct has laid you under suspicion.’
 
-‘I am attending, sir,’ replied Miss Wren, without the slightest
-appearance of so doing. ‘Another touch of blue in your trimming, my
-dear.’
+‘I know it has,’ was all the reply.
 
-‘[[Well]], look here,’ said Fledgeby, rather discouraged by the
-circumstances under which he found himself pursuing the conversation.
-‘If you’re attending—’
+‘My professional duty,’ said Lightwood hesitating, with another glance
+towards Bella, ‘is greatly at variance with my personal inclination; but
+I [[Doubt|doubt]], Mr Handford, or Mr Rokesmith, whether I am justified in taking
+leave of you here, with your whole course unexplained.’
 
-(‘Light blue, my sweet young lady,’ remarked Miss Wren, in a sprightly
-tone, ‘being best suited to your fair complexion and your flaxen
-curls.’)
+Bella caught her husband by the hand.
 
-‘I say, if you’re attending,’ proceeded Fledgeby, ‘it’ll pay better in
-this way. It’ll lead in a roundabout manner to your buying damage and
-waste of Pubsey and Co. at a nominal price, or even getting it for
-nothing.’
+‘Don’t be alarmed, my darling. Mr Lightwood will find that he is quite
+justified in taking leave of me here. At all events,’ added Rokesmith,
+‘he will find that I mean to take leave of him here.’
 
-‘Aha!’ thought the dressmaker. ‘But you are not so roundabout, Little
-Eyes, that I don’t notice your answering for Pubsey and Co. after all!
-Little Eyes, Little Eyes, you’re too cunning by half.’
+‘I think, sir,’ said Lightwood, ‘you can scarcely deny that when I came
+to your [[house]] on the occasion to which you have referred, you avoided me
+of a set purpose.’
 
-‘And I take it for granted,’ pursued Fledgeby, ‘that to get the most of
-your materials for nothing would be [[Well|well]] worth your while, Miss Jenny?’
+‘Mr Lightwood, I assure you I have no disposition to deny it, or
+intention to deny it. I should have continued to avoid you, in pursuance
+of the same set purpose, for a short [[Time|time]] longer, if we had not met now.
+I am going straight [[Home|home]], and shall remain at [[Home|home]] to-morrow until [[Noon|noon]].
+Hereafter, I [[Hope|hope]] we may be better acquainted. Good-day.’
 
-‘You may take it for granted,’ returned the dressmaker with many knowing
-nods, ‘that it’s always [[Well|well]] worth my while to make money.’
+Lightwood stood irresolute, but Bella’s husband passed him in the
+steadiest manner, with Bella on his arm; and they went [[Home|home]] without
+encountering any further remonstrance or molestation from any one.
 
-‘Now,’ said Fledgeby approvingly, ‘you’re answering to a sensible
-purpose. Now, you’re coming out and looking alive! So I make so free,
-Miss Jenny, as to offer the remark, that you and Judah were too thick
-together to last. You can’t come to be intimate with such a deep file
-as Judah without beginning to see a little way into him, you know,’ said
-Fledgeby with a wink.
+When they had dined and were [[Alone|alone]], John Rokesmith said to his wife, who
+had preserved her cheerfulness: ‘And you don’t ask me, my dear, why I
+bore that name?’
 
-‘I must own,’ returned the dressmaker, with her eyes upon her work,
-‘that we are not good friends at present.’
+‘No, John [[Love|love]]. I should dearly like to know, of course;’ (which her
+anxious face confirmed;) ‘but I wait until you can tell me of your own
+free will. You asked me if I could have perfect [[Faith|faith]] in you, and I said
+yes, and I meant it.’
 
-‘I know you’re not good friends at present,’ said Fledgeby. ‘I know all
-about it. I should like to pay off Judah, by not letting him have his
-own deep way in everything. In most things he’ll get it by hook or
-by crook, but—hang it all!—don’t let him have his own deep way in
-everything. That’s too much.’ Mr Fledgeby said this with some display of
-indignant warmth, as if he was counsel in the cause for Virtue.
+It did not escape Bella’s notice that he began to look triumphant. She
+wanted no strengthening in her firmness; but if she had had need of any,
+she would have derived it from his kindling face.
 
-‘How can I prevent his having his own way?’ began the dressmaker.
+‘You cannot have been prepared, my dearest, for such a discovery as that
+this mysterious Mr Handford was identical with your husband?’
 
-‘Deep way, I called it,’ said Fledgeby.
+‘No, John dear, of course not. But you told me to prepare to be tried,
+and I prepared myself.’
 
-‘—His own deep way, in anything?’
+He drew her to nestle closer to him, and told her it would soon be over,
+and the [[Truth|truth]] would soon appear. ‘And now,’ he went on, ‘lay stress,
+my dear, on these words that I am going to add. I stand in no kind of
+peril, and I can by possibility be hurt at no one’s hand.’
 
-‘I’ll tell you,’ said Fledgeby. ‘I like to hear you ask it, because
-it’s looking alive. It’s what I should expect to find in one of your
-sagacious understanding. Now, candidly.’
+‘You are quite, quite sure of that, John dear?’
 
-‘Eh?’ cried Miss Jenny.
+‘Not a hair of my head! Moreover, I have done no wrong, and have injured
+no man. Shall I swear it?’
 
-‘I said, now candidly,’ Mr Fledgeby explained, a little put out.
+‘No, John!’ cried Bella, laying her hand upon his lips, with a proud
+look. ‘Never to me!’
 
-‘Oh-h!’
+‘But circumstances,’ he went on ‘—I can, and I will, disperse them in
+a moment—have surrounded me with one of the strangest suspicions ever
+known. You heard Mr Lightwood speak of a dark transaction?’
 
-‘I should be glad to countermine him, respecting the handsome gal, your
-friend. He means something there. You may depend upon it, Judah means
-something there. He has a motive, and of course his motive is a dark
-motive. Now, whatever his motive is, it’s necessary to his motive’—Mr
-Fledgeby’s constructive powers were not equal to the avoidance of some
-tautology here—‘that it should be kept from me, what he has done with
-her. So I put it to you, who know: What HAS he done with her? I ask no
-more. And is that asking much, when you understand that it will pay?’
+‘Yes, John.’
 
-Miss [[Jenny Wren]], who had cast her eyes upon the bench again after her
-last interruption, sat looking at it, needle in hand but not working,
-for some moments. She then briskly resumed her work, and said with a
-sidelong glance of her eyes and chin at Mr Fledgeby:
+‘You are prepared to hear explicitly what he meant?’
 
-‘Where d’ye live?’
+‘Yes, John.’
 
-‘Albany, Piccadilly,’ replied Fledgeby.
+‘My life, he meant the murder of [[John Harmon]], your allotted husband.’
 
-‘When are you at [[Home|home]]?’
+With a fast palpitating heart, Bella grasped him by the arm. ‘You cannot
+be suspected, John?’
 
-‘When you like.’
+‘Dear [[Love|love]], I can be—for I am!’
 
-‘Breakfast-[[Time|time]]?’ said Jenny, in her abruptest and shortest manner.
+There was [[Silence|silence]] between them, as she sat looking in his face, with the
+colour quite gone from her own face and lips. ‘How dare they!’ she cried
+at length, in a burst of generous indignation. ‘My beloved husband, how
+dare they!’
 
-‘No better [[Time|time]] in the day,’ said Fledgeby.
+He caught her in his arms as she opened hers, and held her to his heart.
+‘Even knowing this, you can trust me, Bella?’
 
-‘I’ll look in upon you to-morrow, young man. Those two ladies,’ pointing
-to dolls, ‘have an appointment in Bond Street at ten precisely. When
-I’ve dropped ’em there, I’ll drive round to you.’ With a weird little
-laugh, Miss Jenny pointed to her crutch-stick as her equipage.
+‘I can trust you, John dear, with all my [[Soul|soul]]. If I could not trust you,
+I should fall dead at your feet.’
 
-‘This is looking alive indeed!’ cried Fledgeby, rising.
+The kindling triumph in his face was bright indeed, as he looked up and
+rapturously exclaimed, what had he done to deserve the blessing of this
+dear confiding creature’s heart! Again she put her hand upon his lips,
+saying, ‘Hush!’ and then told him, in her own little natural pathetic
+way, that if all the world were against him, she would be for him; that
+if all the world repudiated him, she would believe him; that if he were
+infamous in other eyes, he would be honoured in hers; and that, under
+the worst unmerited suspicion, she could devote her life to consoling
+him, and imparting her own [[Faith|faith]] in him to their little [[Child|child]].
 
-‘Mark you! I promise you nothing,’ said the dolls’ dressmaker, dabbing
-two dabs at him with her needle, as if she put out both his eyes.
+A twilight calm of happiness then succeeding to their radiant [[Noon|noon]], they
+remained at peace, until a strange voice in the room startled them both.
+The room being by that [[Time|time]] dark, the voice said, ‘Don’t let the lady
+be alarmed by my striking a light,’ and immediately a match rattled, and
+glimmered in a hand. The hand and the match and the voice were then seen
+by John Rokesmith to belong to Mr Inspector, once meditatively active in
+this chronicle.
 
-‘No no. I understand,’ returned Fledgeby. ‘The damage and waste question
-shall be settled first. It shall be made to pay; don’t you be afraid.
-Good-day, Miss Jenny.’
+‘I take the liberty,’ said Mr Inspector, in a business-like manner, ‘to
+bring myself to the recollection of Mr Julius Handford, who gave me his
+name and address down at our place a considerable [[Time|time]] ago. Would the
+lady object to my lighting the pair of candles on the chimneypiece, to
+throw a further light upon the subject? No? Thank you, ma’am. Now, we
+look cheerful.’
 
-‘Good-day, young man.’
+Mr Inspector, in a dark-blue buttoned-up frock coat and pantaloons,
+presented a serviceable, half-pay, Royal Arms kind of appearance, as he
+applied his pocket handkerchief to his nose and bowed to the lady.
 
-Mr Fledgeby’s prepossessing form withdrew itself; and the little
-dressmaker, clipping and snipping and stitching, and stitching and
-snipping and clipping, fell to work at a great rate; musing and
-muttering all the [[Time|time]].
-
-‘Misty, misty, misty. Can’t make it out. Little Eyes and the wolf in a
-conspiracy? Or Little Eyes and the wolf against one another? Can’t make
-it out. My poor Lizzie, have they both designs against you, either way?
-Can’t make it out. Is Little Eyes Pubsey, and the wolf Co? Can’t make it
-out. Pubsey true to Co, and Co to Pubsey? Pubsey false to Co, and Co to
-Pubsey? Can’t make it out. What said Little Eyes? “Now, candidly?”
- Ah! However the cat jumps, HE’S a liar. That’s all I can make out at
-present; but you may go to bed in the Albany, Piccadilly, with THAT for
-your pillow, young man!’ Thereupon, the little dressmaker again dabbed
-out his eyes separately, and making a loop in the air of her thread and
-deftly catching it into a knot with her needle, seemed to bowstring him
-into the bargain.
-
-For the terrors undergone by Mr Dolls that evening when his little
-parent sat profoundly meditating over her work, and when he imagined
-himself found out, as often as she changed her attitude, or turned her
-eyes towards him, there is no adequate name. Moreover it was her habit
-to shake her head at that wretched old boy whenever she caught his eye
-as he shivered and shook. What are popularly called ‘the trembles’ being
-in full force upon him that evening, and likewise what are popularly
-called ‘the horrors,’ he had a very bad [[Time|time]] of it; which was not
-made better by his being so remorseful as frequently to moan ‘Sixty
-threepennorths.’ This imperfect sentence not being at all intelligible
-as a confession, but sounding like a Gargantuan order for a dram,
-brought him into new difficulties by occasioning his parent to pounce
-at him in a more than usually snappish manner, and to overwhelm him with
-bitter reproaches.
+‘You favoured me, Mr Handford,’ said Mr Inspector, ‘by writing down your
+name and address, and I produce the piece of paper on which you wrote
+it. Comparing the same with the writing on the fly-leaf of this book on
+the table—and a sweet pretty volume it is—I find the writing of the
+entry, “Mrs John Rokesmith. From her husband on her birthday”—and very
+gratifying to the feelings such memorials are—to correspond exactly.
+Can I have a word with you?’

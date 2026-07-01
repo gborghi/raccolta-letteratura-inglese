@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 38 (part 3)"
+title: "Great Expectations — Chapter 38 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,40 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_38/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_38/part_04">part 04 ›</a></div>
 </nav>
 
+
+“Who taught me to be proud?” returned [[Estella]]. “Who praised me when I
+learnt my lesson?”
+
+“So hard, so hard!” moaned [[Miss Havisham]], with her former action.
+
+“Who taught me to be hard?” returned [[Estella]]. “Who praised me when I
+learnt my lesson?”
+
+“But to be proud and hard to _me_!” [[Miss Havisham]] quite shrieked, as
+she stretched out her arms. “[[Estella]], [[Estella]], [[Estella]], to be proud and
+hard to _me_!”
+
+[[Estella]] looked at her for a moment with a kind of calm [[Wonder|wonder]], but was
+not otherwise disturbed; when the moment was past, she looked down at
+the [[Fire|fire]] again.
+
+“I cannot think,” said [[Estella]], raising her eyes after a [[Silence|silence]] “why
+you should be so unreasonable when I come to see you after a
+separation. I have never forgotten your wrongs and their causes. I have
+never been unfaithful to you or your schooling. I have never shown any
+weakness that I can charge myself with.”
+
+“Would it be weakness to return my [[Love|love]]?” exclaimed [[Miss Havisham]]. “But
+yes, yes, she would call it so!”
+
+“I begin to think,” said [[Estella]], in a musing way, after another moment
+of calm [[Wonder|wonder]], “that I almost understand how this comes about. If you
+had brought up your adopted daughter wholly in the dark confinement of
+these rooms, and had never let her know that there was such a thing as
+the daylight by which she had never once seen your face,—if you had
+done that, and then, for a purpose had wanted her to understand the
+daylight and know all about it, you would have been disappointed and
+angry?”
 
 [[Miss Havisham]], with her head in her hands, sat making a low moaning,
 and swaying herself on her chair, but gave no answer.
@@ -95,56 +129,3 @@ turn to do that day. I thought I saw him leer in an ugly way at me
 while the decanters were going round, but as there was no [[Love|love]] lost
 between us, that might easily be. What was my indignant surprise when
 he called upon the company to pledge him to “[[Estella]]!”
-
-“[[Estella]] who?” said I.
-
-“Never you mind,” retorted Drummle.
-
-“[[Estella]] of where?” said I. “You are bound to say of where.” Which he
-was, as a Finch.
-
-“Of Richmond, gentlemen,” said Drummle, putting me out of the question,
-“and a peerless [[Beauty|beauty]].”
-
-Much he knew about peerless beauties, a mean, miserable idiot! I
-whispered Herbert.
-
-“I know that lady,” said Herbert, across the table, when the toast had
-been honoured.
-
-“_Do_ you?” said Drummle.
-
-“And so do I,” I added, with a scarlet face.
-
-“_Do_ you?” said Drummle. “_O_, Lord!”
-
-This was the only retort—except glass or crockery—that the heavy
-creature was capable of making; but, I became as highly incensed by it
-as if it had been barbed with wit, and I immediately [[Rose|rose]] in my place
-and said that I could not but regard it as being like the honourable
-Finch’s impudence to come down to that Grove,—we always talked about
-coming down to that Grove, as a neat Parliamentary turn of
-expression,—down to that Grove, proposing a lady of whom he knew
-nothing. Mr. Drummle, upon this, starting up, demanded what I meant by
-that? Whereupon I made him the extreme reply that I believed he knew
-where I was to be found.
-
-Whether it was possible in a Christian country to get on without [[Blood|blood]],
-after this, was a question on which the Finches were divided. The
-[[debate]] upon it grew so lively, indeed, that at least six more
-honourable members told six more, during the discussion, that they
-believed _they_ knew where _they_ were to be found. However, it was
-decided at last (the Grove being a [[Court]] of [[Honour]]) that if Mr. Drummle
-would bring never so slight a certificate from the lady, importing that
-he had the [[Honour|honour]] of her acquaintance, Mr. Pip must express his regret,
-as a gentleman and a Finch, for “having been betrayed into a warmth
-which.” Next day was appointed for the production (lest our [[Honour|honour]]
-should take cold from delay), and next day Drummle appeared with a
-polite little avowal in [[Estella]]’s hand, that she had had the [[Honour|honour]] of
-dancing with him several times. This left me no course but to regret
-that I had been “betrayed into a warmth which,” and on the whole to
-repudiate, as untenable, the idea that I was to be found anywhere.
-Drummle and I then sat snorting at one another for an hour, while the
-Grove engaged in indiscriminate contradiction, and finally the
-promotion of good feeling was declared to have gone ahead at an amazing
-rate.

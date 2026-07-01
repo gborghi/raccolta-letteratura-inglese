@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 6 (part 5)"
+title: "Shirley — Chapter 6 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,26 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_06/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_06/part_06">part 06 ›</a></div>
 </nav>
 
+
+question, "Not my enemy, Robert?" And Moore, Quaker-like, had replied
+
+with another query, "Could I be?" And then, seating himself at the
+
+table, had settled Caroline at his side.
+
+
+
+Caroline scarcely heard mademoiselle's explosion of wrath when she
+
+rejoined them; the long declamation about the "conduite indigne de cette
+
+méchante créature" sounded in her ear as confusedly as the agitated
+
+rattling of the china. Robert laughed a little at it, in very subdued
+
+sort, and then, politely and calmly entreating his sister to be
+
+tranquil, assured her that if it would yield her any satisfaction, she
 
 should have her choice of an attendant amongst all the girls in his
 
@@ -219,39 +239,3 @@ and tell us their thoughts, and impart their ideas."
 impressively as your English ancestors, Robert. To-[[Night|night]] you shall be
 
 entirely English. You shall read an English book."
-
-
-
-"An old English book?"
-
-
-
-"Yes, an old English book--one that you like; and I will choose a part
-
-of it that is toned quite in harmony with something in you. It shall
-
-waken your [[Nature|nature]], fill your mind with music; it shall pass like a
-
-skilful hand over your heart, and make its strings sound. Your heart is
-
-a lyre, Robert; but the lot of your life has not been a minstrel to
-
-sweep it, and it is often silent. Let glorious William come near and
-
-touch it. You will see how he will draw the English power and melody out
-
-of its chords."
-
-
-
-"I must read Shakespeare?"
-
-
-
-"You must have his spirit before you; you must hear his voice with your
-
-mind's ear; you must take some of his [[Soul|soul]] into yours."
-
-
-
-"With a view to making me better? Is it to operate like a sermon?"

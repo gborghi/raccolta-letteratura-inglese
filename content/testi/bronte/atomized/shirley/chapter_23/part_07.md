@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 23 (part 7)"
+title: "Shirley — Chapter 23 (part 7)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -12,6 +12,60 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_23/part_06">‹ part 06</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_24/part_01">part 01 ›</a></div>
 </nav>
+
+
+agean some o' yer pots, and tables, and stuff.--Tak tent o' this
+
+baking-bowl, sir; they've set it i' yer way, fair as if they did it i'
+
+malice."
+
+
+
+To Joe's observations succeeded a confused sort of pause, which
+
+Caroline, though she was listening with both her ears, could not
+
+understand. It was very brief. A cry broke it--a sound of surprise,
+
+followed by the sound of a kiss; ejaculations, but half articulate,
+
+succeeded.
+
+
+
+"Mon Dieu! mon Dieu! Est-ce que je m'y attendais?" were the words
+
+chiefly to be distinguished.
+
+
+
+"Et tu te portes toujours bien, bonne sœur?" inquired another
+
+voice--Robert's, certainly.
+
+
+
+Caroline was puzzled. Obeying an impulse the wisdom of which she had not
+
+[[Time|time]] to question, she escaped from the little parlour, by way of leaving
+
+the coast clear, and running upstairs took up a position at the head of
+
+the banisters, whence she could make further observations ere presenting
+
+herself. It was considerably past sunset now; dusk filled the passage,
+
+yet not such deep dusk but that she could presently see Robert and
+
+Hortense traverse it.
+
+
+
+"Caroline! Caroline!" called Hortense, a moment afterwards, "venez voir
+
+mon frère!"
+
 
 
 "Strange," commented Miss Helstone, "passing strange! What does this

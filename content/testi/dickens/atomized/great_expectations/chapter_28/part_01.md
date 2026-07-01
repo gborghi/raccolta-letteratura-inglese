@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 28 (part 1)"
+title: "Great Expectations — Chapter 28 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -120,7 +120,3 @@ hearthstone, which attends the convict presence.
 passenger; “I’ll sit next you myself. I’ll put ’em on the outside of
 the row. They won’t interfere with you, sir. You needn’t know they’re
 there.”
-
-“And don’t blame _me_,” growled the convict I had recognised. “_I_
-don’t want to go. _I_ am quite ready to stay behind. As fur as I am
-concerned any one’s welcome to _my_ place.”

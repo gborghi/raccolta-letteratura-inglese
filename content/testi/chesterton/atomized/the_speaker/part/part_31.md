@@ -14,6 +14,39 @@ tags:
 </nav>
 
 
+Books exist to produce emotions:  if we are not moved by them
+we practically have not read them.  If a real book has
+not touched us we might as [[Well|well]] not have touched the book.
+In literature to be dispassionate is simply to be illiterate.
+To be disinterested is simply to be uninterested.
+The object of a book on comets, of course, is not to make us
+all feel like comets; but the object of a poem about warriors
+is to make us all feel like warriors.  It is not merely
+true that the right method for one may be the wrong method
+for the other; it must be the wrong method for the other.
+A critic who takes a scientific view of the Book of Job is exactly
+like a surgeon who should take a poetical view of appendicitis:
+he is simply an old muddler.
+
+It is said, of course, that this scientific quality is only
+applied to the actual facts, which are the department of science.
+But what are the actual facts?  There are very few facts
+in connection with a work of literature which are really wholly
+apart from literary tact and grasp.  That certain words are
+on a piece of parchment in a certain order science can say.
+Whether in that order they make sense or nonsense only
+literature can say.  That in another place (say on a brick)
+the same words are in another order science can say.
+Whether it is a more likely order only literature can say.
+That on two bricks there is the same sentence science can say.
+Whether it is the sort of sentence one man would write on two bricks,
+or two men happen to write on their own respective bricks,
+only literature can say.  Let me take an example from
+Professor Dillon's own interesting introduction.  Referring to
+a controversy among scholars about the possible indebtedness
+of the unknown Hebrew poet to other Hebrew writers, he says:
+"On the one hand it is doubtless possible that the words:
+
 "Art thou the first man born?  Or wast thou brought forth
 before the hills?
 

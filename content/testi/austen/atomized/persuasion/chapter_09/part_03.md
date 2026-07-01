@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 9 (part 3)"
+title: "Persuasion — Chapter 9 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_09/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_10/part_01">part 01 ›</a></div>
 </nav>
 
+
+his manners of their usual composure: he started, and could only say,
+
+“I thought the Miss Musgroves had been here: Mrs Musgrove told me I
+
+should find them here,” before he walked to the [[Window|window]] to recollect
+
+himself, and feel how he ought to behave.
+
+
+
+“They are up stairs with my sister: they will be down in a few moments,
 
 I dare say,” had been Anne’s reply, in all the confusion that was
 

@@ -1,5 +1,5 @@
 ---
-title: "[[REMORSE]] — Act IV, Scene 2"
+title: "REMORSE — Act IV, Scene 2"
 author: "Coleridge"
 unitType: scene
 parentWork: "works/remorse-(coleridge)"

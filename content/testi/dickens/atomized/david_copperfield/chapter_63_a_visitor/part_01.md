@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 63: A VISITOR (part 1)"
+title: "David Copperfield — Chapter 63: A VISITOR (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -24,7 +24,7 @@ ravelled end.
 
 I had advanced in fame and fortune, my domestic joy was perfect, I had
 been married ten happy years. Agnes and I were sitting by the [[Fire|fire]], in
-our [[house]] in [[London]], one [[Night|night]] in [[Spring|spring]], and three of our children were
+our [[house]] in [[London]], one [[Night|night]] in [[spring]], and three of our children were
 playing in the room, when I was told that a stranger wished to see me.
 
 He had been asked if he came on business, and had answered No; he had
@@ -135,6 +135,3 @@ and made him welcome. We all do that, all the colony over. He’d got an
 old newspaper with him, and some other account in print of the [[Storm|storm]].
 That’s how she know’d it. When I came [[Home|home]] at [[Night|night]], I found she know’d
 it.’
-
-He dropped his voice as he said these words, and the gravity I so [[Well|well]]
-remembered overspread his face.

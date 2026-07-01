@@ -14,6 +14,36 @@ tags:
 </nav>
 
 
+Thus the author of How to Write Fiction is in reality wrong at
+the very start.  He treats a [[Novel|novel]] as if it was based on its plot.
+There are some novels which are so based: The Moonstone,
+for example.  But he does not realise that the real germ
+of a [[Novel|novel]] may be any kind of matter-a man, a society,
+a curse, a landscape, a vision, a school of thought, a joke.
+When Thackeray called [[Vanity]] Fair a [[Novel|novel]] without a [[Hero|hero]],
+he spoke the strict [[Truth|truth]], for the protagonist in [[Vanity]] Fair
+is not a man, but a crowd, jostling, noisy, and monstrous.
+The [[Hero|hero]] of Notre Dame is a stone church, the [[Hero|hero]] of The Wrong Box
+is a wooden barrel, the [[Hero|hero]] of Peleas and Melisandre is an atmosphere.
+The author of this book seems to us very much beside the mark
+when he says of Maeterlinck that his atmosphere, "put into
+bald language, means that he has succeeded in creating an artistic
+environment for his weird characters," and proceeds to compare it
+with the darkness and strangeness of the first scene in [[Hamlet]].
+In [[Hamlet]] the sombre background symbolises the human figure:
+in Maeterlinck the human figures themselves merely symbolise
+the sombre background.  He does not "create an artistic environment
+for his characters:"  the environment creates the characters
+and then kills them-no very difficult task, for they are a small
+and frightened race, like men created by a man and not by God.
+And this contradiction is merely typical of the thousand
+contradictions which render a science of fiction impossible.
+The fact is that every novelist begins to draw his figure at
+a different extremity.  There can be no biology of these strange
+creatures of the brain in one of which the centre of life is
+in the tail, in another in the horns, in another in the stomach,
+in another in the wings.
+
 Consequently we have nothing to say to Wilkie Collins
 and Sir Walter Besant and other authorities from whom
 explanations of artistic method are quoted here, except that,
@@ -70,7 +100,6 @@ through the arch of which the earth shines like elfland.
 
 G.K.C.
 
-
 The Problem of Minor Poetry
 
 --March 30, 1901, The Speaker
@@ -91,44 +120,3 @@ We see no reason why the power of expressing all our wants in rhyme
 and rhythm should not be attained by any one in the future.
 There is no reason why a man wishing his neighbour to pass the potatoes
 should not say quite naturally:-
-
-  "Pass me those goblins, in the earth that grew,
-  Those hells whose heaven is a blossom blue,"
-
-whereupon the most prosaic of his companions would pass
-the potatoes immediately.  A man who suspected another of having
-stolen his umbrella would exclaim with righteous indignation--
-
-  "Methinks thou cowerest in that dusky dome
-  Wherein I also dared the floods to come:"
-
-whereupon a person of the most impervious moral [[Nature|nature]] would
-immediately return the umbrella.
-
-Such is the general impression produced on the mind by the horrible
-facility which a large number of modern men exhibit in the matter
-of verse.  Owing to some inexperience of critical effects we are
-unable to say whether it would be considered a tribute to any class
-of poets to say that they express in language which no one can impugn
-sentiments which no one can help having.  But this is assuredly
-the case with an enormous number of modern minor writers of verse.
-Sometimes, undoubtedly, the matter is somewhat simpler.
-One poet among those whose books lie before us at present exclaims
-in opening an address to the ocean--
-
-  My feeble powers, O mighty sea,
-  I cannot strain to sing to thee,
-
-which seems an excellent, manly and lucid excuse for not writing
-a poem to the sea, but not a very good excuse for writing one.
-The majority of modern poets, however, are not so conveniently
-disposed of.  They have, in spite of generalisations,
-protests and criticisms, a decidedly indefensible habit of writing
-very good poetry, poetry at least adorned with a degree of style,
-dignity and judgment which would not have been possible in every age.
-We can only explain it as we say, by the theory that talking in rhyme
-is becoming an universal accomplishment, like signing one's own name.
-We have no [[Doubt|doubt]] that when language first existed, those persons
-who could emit certain screams and grunts expressive of the most simple
-necessities went about with long curled hair and a hyper-elegant
-demeanour to celebrate their poetic superiority.

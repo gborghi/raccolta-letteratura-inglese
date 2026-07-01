@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 22 (part 4)"
+title: "Nicholas Nickleby — Chapter 22 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_22/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_22/part_05">part 05 ›</a></div>
 </nav>
 
+
+The landlord hurried into the parlour, without staying for further
+permission, nor did Nicholas strive to prevent him: wisely considering
+that supper, under the circumstances, was too serious a matter to be
+trifled with. It was not long before the host returned, in a condition
+of much excitement.
+
+‘All right,’ he said in a low voice. ‘I knew he would. You’ll see
+something rather worth seeing, in there. Ecod, how they are a-going of
+it!’
+
+There was no [[Time|time]] to inquire to what this exclamation, which was
+delivered in a very rapturous tone, referred; for he had already thrown
+open the door of the room; into which Nicholas, followed by [[Smike]] with
+the bundle on his shoulder (he carried it about with him as vigilantly
+as if it had been a sack of gold), straightway repaired.
 
 Nicholas was prepared for something odd, but not for something quite so
 odd as the sight he encountered. At the upper end of the room, were a
@@ -119,15 +135,3 @@ Portsmouth on the morrow, whither the father and sons were proceeding
 (not for the regular season, but in the course of a wandering
 speculation), after fulfilling an engagement at Guildford with the
 greatest applause.
-
-‘You are going that way?’ asked the manager.
-
-‘Ye-yes,’ said Nicholas. ‘Yes, I am.’
-
-‘Do you know the town at all?’ inquired the manager, who seemed to
-consider himself entitled to the same degree of confidence as he had
-himself exhibited.
-
-‘No,’ replied Nicholas.
-
-‘Never there?’

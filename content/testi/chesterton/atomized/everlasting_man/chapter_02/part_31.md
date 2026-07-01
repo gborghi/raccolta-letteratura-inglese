@@ -14,117 +14,106 @@ tags:
 </nav>
 
 
-That is where all these things differed from religion or the reality
-in which these different dimensions met in a sort of solid.
-They differed from the reality not in what they looked like
-but in what they were.  A picture may look like a landscape;
-it may look in every detail exactly like a landscape.
-The only detail in which it differs is that it is not a landscape.
-The difference is only that which divides a portrait of [[Queen Elizabeth]]
-from [[Queen Elizabeth]].  Only in this mythical and mystical world
-the portrait could exist before the person; and the portrait was
-therefore more vague and doubtful.  But anybody who has felt and fed
-on the atmosphere of these myths will know what I mean, when I say
-that in one sense they did not really profess to be realities.
-The pagans had [[Dreams|dreams]] about realities; and they would have
-been the first to admit, in their own words, that some came
-through the gate of ivory and others through the gate of horn.
-The [[Dreams|dreams]] do indeed tend to be very vivid [[Dreams|dreams]] when they touch
-on those tender or tragic things, which can really make a sleeper
-awaken with the sense that his heart has been broken in his [[Sleep|sleep]].
-They tend continually to hover over certain passionate themes
-of meeting and parting, of a life that ends in [[Death|death]] or a [[Death|death]]
-that is the beginning of life.  Demeter wanders over a stricken
-world looking for a stolen [[Child|child]]; Isis stretches out her arms
-over the earth in vain to gather the limbs of Osiris; and there is
-lamentation upon the hills for Atys and through the woods for [[Adonis]].
-There mingles with all such mourning the mystical and profound
-sense that [[Death|death]] can be a deliverer and an appeasement;
-that such [[Death|death]] gives us a divine [[Blood|blood]] for a renovating [[River|river]]
-and that all good is found in gathering the broken [[Body|body]] of the god.
-We may truly call these foreshadowing; so long as we remember
-that foreshadowings are shadows.  And the metaphor of a [[Shadow|shadow]]
-happens to hit very exactly the [[Truth|truth]] that is very vital here.
-For a [[Shadow|shadow]] is a shape; a thing which reproduces shape but
-not texture.  These things were something like the real thing;
-and to say that they were like is to say that they were different.
-Saying something is like a dog is another way of saying it is not a dog;
-and it is in this sense of [[Identity|identity]] that a myth is not a man.
-Nobody really thought of Isis as a human being, nobody really thought
-of Demeter as a historical character, nobody thought of [[Adonis]]
-as the founder of a Church.  There was no idea that any one of them
-had changed the world; but rather that their recurrent [[Death|death]] and life
-bore the sad and beautiful burden of the changelessness of the world.
-Not one of them was a revolution, save in the sense of the revolution
-of the sun and [[Moon|moon]].  Their whole meaning is missed if we do not see
-that they mean the shadows that we are and the shadows that we pursue.
-In certain sacrificial and communal aspects they naturally suggest
-what sort of a god might satisfy them; but they do not profess
-to be satisfied.  Anyone who says they do is a bad judge of poetry.
+The substance of all such paganism may be summarised thus.  It is
+an attempt to reach the divine reality through the [[Imagination|imagination]] [[Alone|alone]];
+in its own field reason does not restrain it at all.  It is vital
+to view of all [[history]] that reason is something separate from religion
+even in the most rational of these civilisations.  It is only as
+an afterthought, when such cults are decadent or on the defensive,
+that a few Neo-Platonists or a few Brahmins are found trying to
+rationalise them, and even then only by trying to allegorise them.
+But in reality the rivers of mythology and [[philosophy]] run parallel
+and do not mingle till they meet in the sea of Christendom.
+Simple secularists still talk as if the Church had introduced a sort
+of schism between reason and religion.  The [[Truth|truth]] is that the Church
+was actually the first thing that ever tried to combine reason
+and religion.  There had never before been any such [[Union|union]] of the
+priests and the philosophers.  Mythology, then, sought god through
+the [[Imagination|imagination]]; or sought [[Truth|truth]] by means of [[Beauty|beauty]], in the sense
+in which [[Beauty|beauty]] includes much of the most [[Grotesque|grotesque]] ugliness.
+But the [[Imagination|imagination]] has its own laws and therefore its own triumphs,
+which neither logicians nor men of science can understand.
+It remained true to that imaginative instinct through a thousand
+extravagances, through every crude cosmic pantomime of a pig eating
+the [[Moon|moon]] or the world being cut out of a cow, through all the dizzy
+convolutions and mystic malformations of Asiatic art, through all
+the stark and staring rigidity of Egyptian and Assyrian portraiture,
+through every kind of cracked [[Mirror|mirror]] of mad art that seemed to deform
+the world and displace the sky, it remained true to something
+about which there can be no argument; something that makes it
+possible for some [[Artist|artist]] of some school to stand suddenly still
+before that particular deformity and say, 'My dream has come true.'
+Therefore do we all in fact feel that pagan or primitive myths
+are infinitely suggestive, so long as we are wise enough not to
+inquire what they suggest.  Therefore we all feel what is meant by
+[[Prometheus]] stealing [[Fire|fire]] from heaven, until some prig of a pessimist
+or progressive person explains what it means.  Therefore we all
+know the meaning of Jack and the Beanstalk, until we are told.
+In this sense it is true that it is the ignorant who accept myths,
+but only because it is the ignorant who appreciate [[Poems|poems]].
+[[Imagination]] has its own laws and triumphs; and a tremendous power
+began to clothe its images, whether images in the mind or in the mud,
+whether in the bamboo of the South Sea Islands or the marble
+of the [[Mountains|mountains]] of Hellas.  But there was always a trouble in
+the triumph, which in these pages I have tried to analyse in vain;
+but perhaps I might in conclusion state it thus.
 
-Those who talk about Pagan Christs have less sympathy with Paganism
-than with [[Christianity]].  Those who call these cults 'religions,'
-and 'compare' them with the certitude and challenge of the Church
-have much less appreciation than we have of what made heathenism human,
-or of why classic literature is still something that hangs in the air
-like a [[Song|song]].  It is no very human tenderness for the hungry to prove
-that hunger is the same as food.  It is no very genial understanding
-of youth to argue that [[Hope|hope]] destroys the need for happiness.
-And it is utterly unreal to argue that these images in the mind,
-admired entirely in the abstract, were even in the same world
-with a living man and a living polity that were worshipped because
-they were concrete.  We might as [[Well|well]] say that a boy playing
-at robbers is the same as a man in his first day in the trenches;
-or that boy's first fancies about 'the not impossible she'
-are the same as the sacrament of [[Marriage|marriage]].  They are fundamentally
-different exactly where they are superficially similar; we might
-almost say they are not the same even when they are the same.
-They are only different because one is real and the other is not.
-I do not mean merely that I myself believe that one is true
-and the other is not.  I mean that one was never meant to be
-true in the same sense as the other.  The sense in which it
-was meant to be true I have tried to suggest vaguely here,
-but it is undoubtedly very subtle and almost indescribable.
-It is so subtle that the students who profess to put it up as a rival
-to our religion miss the whole meaning and purport of their own study.
-We know better than the scholars, even those of us who are no scholars,
-what was in that hollow cry that went forth over the dead [[Adonis]]
-and why the [[Great Mother]] had a daughter wedded to [[Death|death]].
-We have entered more deeply than they into the Eleusinian Mysteries
-and have passed a higher grade, where gate within gate guarded
-the wisdom of Orpheus.  We know the meaning of all the myths.
-We know the last secret revealed to the perfect initiate.
-And it is not the voice of a priest or a [[Prophet|prophet]] saying 'These
-things are.'  It is the voice of a dreamer and an idealist crying,
-'Why cannot these things be?'
+The crux and crisis is that man found it natural to worship;
+even natural to worship unnatural things.  The posture of the idol
+might be stiff and strange; but the gesture of the worshipper
+was generous and beautiful.  He not only felt freer when he bent;
+he actually felt taller when he bowed.  Henceforth anything that took
+away the gesture of worship would stunt and even maim him for ever.
+Henceforth being merely secular would be a servitude and an inhibition.
+If man cannot pray he is gagged; if he cannot kneel he is in irons.
+We therefore feel throughout the whole of paganism a curious [[Double|double]]
+feeling of trust and distrust.  When the man makes the gesture of
+salutation and of sacrifice, when he pours out the libation or lifts
+up the [[Sword|sword]], he knows he is doing a worthy and a virile thing.
+He knows he is doing one of the things for which a man was made.
+His imaginative experiment is therefore justified.  But precisely
+because it began with [[Imagination|imagination]], there is to the end something
+of mockery in it, and especially in the object of it.  This mockery,
+in the more intense moments of the intellect, becomes the almost
+intolerable irony of [[Greek Tragedy|Greek tragedy]].  There seems a disproportion
+between the priest and the altar or between the altar and the god.
+The priest seems more solemn and almost more sacred than the god.
+All the order of the temple is solid and sane and satisfactory
+to certain parts of our [[Nature|nature]]; except the very centre of it,
+which seems strangely mutable and dubious, like a dancing flame.
+It is the first thought round which the whole has been built;
+and the first thought is still a fancy and almost a frivolity.
+In that strange place of meeting, the man seems more statuesque
+than the statue.  He himself can stand for ever in the noble
+and natural attitude of the statue of the Praying Boy.
+But whatever name be written on the pedestal, whether Zeus or Ammon
+or [[Apollo]], the god whom he worships is [[Proteus]].
 
-
-* * *
-
-VI
-
-THE DEMONS AND THE PHILOSOPHERS
-
-
-I have dwelt at some little length on this imaginative sort of paganism,
-which has crowded the world with temples and is everywhere the parent of
-popular festivity.  For the central [[history]] of civilisation, as I see it,
-consists of two further stages before the final stage of Christendom.
-The first was the struggle between this paganism and something less
-worthy than itself, and the second the process by which it grew
-in itself less worthy.  In this very varied and often very vague
-polytheism there was a weakness of [[Original Sin|original sin]].  Pagan gods were
-depicted as tossing men like dice; and indeed they are loaded dice.
-About sex especially men are born unbalanced; we might almost say men
-are born mad.  They scarcely reach [[Sanity|sanity]] till they reach sanctity.
-This disproportion dragged down the winged fancies; and filled
-the end of paganism with a mere filth and litter of spawning gods.
-But the first point to realise is that this sort of paganism
-had an early collision with another sort of paganism;
-and that the issue of that essentially spiritual struggle really
-determined the [[history]] of the world.  In order to understand
-it we must pass to a review of the other kind of paganism.
-It can be considered much more briefly; indeed there is a very
-real sense in which the less that is said about it the better.
-If we have called the first sort of mythology the day-dream,
-we might very [[Well|well]] call the second sort of mythology the [[nightmare]].
+The Praying Boy may be said to express a need rather than to satisfy
+a need.  It is by a normal and necessary action that his hands
+are lifted; but it is no less a [[Parable|parable]] that his hands are empty.
+About the [[Nature|nature]] of that need there will be more to say; but at this
+point it may be said that perhaps after all this true instinct,
+that [[Prayer|prayer]] and sacrifice are a liberty and an enlargement, refers back
+to that vast and half-forgotten conception of universal fatherhood,
+which we have already seen everywhere fading from the morning sky.
+This is true; and yet it is not all the [[Truth|truth]].  There remains
+an indestructible instinct, in the poet as represented by the pagan,
+that he is not entirely wrong in localising his God.  It is something
+in the [[Soul|soul]] of poetry if not of piety.  And the greatest of poets,
+when he defined the poet, did not say that he gave us the universe
+or the absolute or the infinite; but, in his own larger language,
+a local habitation and a name.  No poet is merely a pantheist;
+those who are counted most pantheistic, like Shelley,
+start with some local and particular image as the pagans did.
+After all, Shelley wrote of the skylark because it was a skylark.
+You could not issue an imperial or international [[Translation|translation]] of it
+for use in South [[America]], in which it was changed to an ostrich.
+So the mythological [[Imagination|imagination]] moves as it were in circles,
+hovering either to find a place or to return to it.  In a word,
+mythology is a search; it is something that combines a recurrent
+[[Desire|desire]] with a recurrent [[Doubt|doubt]], mixing a most hungry sincerity
+in the idea of seeking for a place with a most dark and deep and
+mysterious levity about all the places found.  So far could the lonely
+[[Imagination|imagination]] lead, and we must turn later to the lonely reason.
+Nowhere along this [[Road|road]] did the two ever travel together.

@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 16: SIXTEEN (part 4)"
+title: "Martin Chuzzlewit — Chapter 16: SIXTEEN (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_16_sixteen/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_16_sixteen/part_05">part 05 ›</a></div>
 </nav>
 
+
+‘That’s what I was about to observe, certainly,’ said Martin.
+
+‘Keep cool, Jefferson,’ said the colonel gravely. ‘Don’t bust! oh you
+Europeans! After that, let’s have a glass of wine!’ So saying, he got
+down from the table, and produced, from a basket outside the door, a
+bottle of champagne, and three glasses.
+
+‘Mr Jefferson Brick, sir,’ said the colonel, filling Martin’s glass
+and his own, and pushing the bottle to that gentleman, ‘will give us a
+sentiment.’
 
 ‘[[Well]], sir!’ cried the war correspondent, ‘Since you have concluded to
 call upon me, I will respond. I will give you, sir, The Rowdy Journal
@@ -137,15 +148,3 @@ and an Irish girl popped her head out of one of the top windows to see
 who it was. Pending her [[Journey|journey]] downstairs, the pigs were joined by two
 or three friends from the next street, in company with whom they lay
 down sociably in the gutter.
-
-‘Is the major indoors?’ inquired the colonel, as he entered.
-
-‘Is it the master, sir?’ returned the girl, with a hesitation
-which seemed to imply that they were rather flush of majors in that
-establishment.
-
-‘The master!’ said Colonel Diver, stopping short and looking round at
-his war correspondent.
-
-‘Oh! The depressing institutions of that British empire, colonel!’ said
-Jefferson Brick. ‘Master!’

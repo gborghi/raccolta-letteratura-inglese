@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 5 (part 3)"
+title: "Oliver Twist — Chapter 5 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_05/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_05/part_04">part 04 ›</a></div>
 </nav>
 
+
+As the atrocity presented itself to Mr. Bumble’s mind in full force, he
+struck the counter sharply with his cane, and became flushed with
+indignation.
 
 “[[Well]],” said the undertaker, “I ne—ver—did—”
 
@@ -123,11 +127,3 @@ hitherto remained as quiet as if she had been wholly deaf to all that
 passed, menaced them into [[Silence|silence]]. Having unloosened the cravat of the
 man who still remained extended on the ground, she tottered towards the
 undertaker.
-
-“She was my daughter,” said the old woman, nodding her head in the
-direction of the corpse; and speaking with an idiotic leer, more
-ghastly than even the presence of [[Death|death]] in such a place. “Lord, Lord!
-[[Well]], it _is_ strange that I who gave birth to her, and was a woman
-then, should be alive and merry now, and she lying there: so cold and
-stiff! Lord, Lord!—to think of it; it’s as good as a play—as good as a
-play!”

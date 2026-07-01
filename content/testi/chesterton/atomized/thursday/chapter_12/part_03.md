@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 12 (part 3)"
+title: "thursday — Chapter 12 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -13,6 +13,21 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_12/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_12/part_04">part 04 ›</a></div>
 </nav>
 
+
+"It need not interrupt conversation," said the gloomy Ratcliffe.  "Pray resume
+your remarks, Colonel.  You were talking, I think, about the plain people
+of a peaceable French town."
+
+The staring Colonel was long past minding [[Satire|satire]].
+He rolled his eyes all round the street.
+
+"It is extraordinary," he said, "most extraordinary."
+
+"A fastidious person," said Syme, "might even call it unpleasant.
+However, I suppose those lights out in the field beyond this street
+are the Gendarmerie.  We shall soon get there."
+
+"No," said Inspector Ratcliffe, "we shall never get there."
 
 He had been standing up and looking keenly ahead of him.
 Now he sat down and smoothed his sleek hair with a weary gesture.
@@ -129,23 +144,3 @@ The Colonel sprang out of the car with an intolerant exclamation.
 It must be a practical joke.  If you knew Renard as I do--
 it's like calling [[Queen]] Victoria a dynamiter.  If you had got
 the man's character into your head--"
-
-"Dr. Bull," said Syme sardonically, "has at least got it into his hat."
-
-"I tell you it can't be!" cried the Colonel, stamping.
-
-"Renard shall explain it.  He shall explain it to me,"
-and he strode forward.
-
-"Don't be in such a hurry," drawled the smoker.  "He will very soon
-explain it to all of us."
-
-But the impatient Colonel was already out of earshot, advancing towards
-the advancing enemy.  The excited Dr. Renard lifted his [[Pistol|pistol]] again,
-but perceiving his opponent, hesitated, and the Colonel came face to face
-with him with frantic gestures of remonstrance.
-
-"It is no good," said Syme.  "He will never get anything out
-of that old heathen.  I vote we drive bang through the thick
-of them, bang as the bullets went through Bull's hat.
-We may all be killed, but we must kill a tidy number of them."

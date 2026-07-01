@@ -14,6 +14,16 @@ tags:
 </nav>
 
 
+They repaired to the other tenement; tried the rusty keys as before; at
+length found the right one; and opened the worm-eaten door.  It led
+into a chamber, vaulted and old, like that from which they had come,
+but not so spacious, and having only one other little room attached.
+It was not difficult to divine that the other [[house]] was of right the
+schoolmaster’s, and that he had chosen for himself the least
+commodious, in his care and regard for them.  Like the adjoining
+habitation, it held such old articles of furniture as were absolutely
+necessary, and had its stack of [[Fire|fire]]-wood.
+
 To make these dwellings as habitable and full of comfort as they could,
 was now their pleasant care.  In a short [[Time|time]], each had its cheerful
 [[Fire|fire]] glowing and crackling on the hearth, and reddening the pale old
@@ -96,27 +106,3 @@ accustomed to retirement, and very little acquainted with the world,
 which he had left many years before to come and settle in that place.
 His wife had died in the [[house]] in which he still lived, and he had long
 since lost sight of any earthly cares or hopes beyond it.
-
-He received them very kindly, and at once showed an interest in Nell;
-asking her name, and age, her birthplace, the circumstances which had
-led her there, and so forth.  The schoolmaster had already told her
-story.  They had no other friends or [[Home|home]] to leave, he said, and had
-come to share his fortunes.  He loved the [[Child|child]] as though she were his
-own.
-
-‘[[Well]], [[Well|well]],’ said the clergyman.  ‘Let it be as you [[Desire|desire]].  She is
-very young.’
-
-‘Old in adversity and trial, sir,’ replied the schoolmaster.
-
-‘God help her.  Let her rest, and forget them,’ said the old gentleman.
-‘But an old church is a dull and gloomy place for one so young as you,
-my [[Child|child]].’
-
-‘Oh no, sir,’ returned Nell.  ‘I have no such thoughts, indeed.’
-
-‘I would rather see her dancing on the green at nights,’ said the old
-gentleman, laying his hand upon her head, and smiling sadly, ‘than have
-her sitting in the [[Shadow|shadow]] of our mouldering arches.  You must look to
-this, and see that her heart does not grow heavy among these solemn
-ruins.  Your request is granted, friend.’

@@ -14,6 +14,28 @@ tags:
 </nav>
 
 
+The Alderman nodded sagaciously, as who should say, ‘A very good [[Home|home]]
+too!’
+
+‘Do I say this to serve MY cause!’ cried Fern.  ‘Who can give me back my
+liberty, who can give me back my good name, who can give me back my
+[[Innocent|innocent]] niece?  Not all the Lords and Ladies in wide England.  But,
+gentlemen, gentlemen, dealing with other men like me, begin at the right
+end.  Give us, in [[Mercy|mercy]], better homes when we’re a-lying in our cradles;
+give us better food when we’re a-working for our lives; give us kinder
+laws to bring us back when we're a-going wrong; and don’t set jail, jail,
+jail, afore us, everywhere we turn.  There an’t a condescension you can
+show the Labourer then, that he won’t take, as ready and as grateful as a
+man can be; for, he has a patient, peaceful, willing heart.  But you must
+put his rightful spirit in him first; for, whether he’s a wreck and ruin
+such as me, or is like one of them that stand here now, his spirit is
+divided from you at this [[Time|time]].  Bring it back, gentlefolks, bring it
+back!  Bring it back, afore the day comes when even his [[Bible]] changes in
+his altered mind, and the words seem to him to read, as they have
+sometimes read in my own eyes—in jail: “Whither thou goest, I can Not go;
+where thou lodgest, I do Not lodge; thy people are Not my people; Nor thy
+God my God!”’
+
 A sudden stir and agitation took place in Hall.  Trotty thought at first,
 that several had risen to eject the man; and hence this change in its
 appearance.  But, another moment showed him that the room and all the
@@ -114,36 +136,3 @@ kind of drowsy thoughtfulness:
 taken this gift back and left it at her door, a dozen times since then.
 But when she came at last, and stood before me, face to face, what could
 I do?’
-
-‘You saw her!’ exclaimed Meg.  ‘You saw her!  O, Lilian, my sweet girl!
-O, Lilian, Lilian!’
-
-‘I saw her,’ he went on to say, not answering, but engaged in the same
-slow pursuit of his own thoughts.  ‘There she stood: trembling!  “How
-does she look, [[Richard]]?  Does she ever speak of me?  Is she thinner?  My
-old place at the table: what’s in my old place?  And the frame she taught
-me our old work on—has she burnt it, [[Richard]]!”  There she was.  I heard
-her say it.’
-
-Meg checked her sobs, and with the [[Tears|tears]] streaming from her eyes, bent
-over him to listen.  Not to lose a breath.
-
-With his arms resting on his knees; and stooping forward in his chair, as
-if what he said were written on the ground in some half legible
-character, which it was his occupation to decipher and connect; he went
-on.
-
-‘“[[Richard]], I have fallen very low; and you may guess how much I have
-suffered in having this sent back, when I can bear to bring it in my hand
-to you.  But you loved her once, even in my [[Memory|memory]], dearly.  Others
-stepped in between you; fears, and jealousies, and doubts, and vanities,
-estranged you from her; but you did [[Love|love]] her, even in my [[Memory|memory]]!”  I
-suppose I did,’ he said, interrupting himself for a moment.  ‘I did!
-That’s neither here nor there—“O [[Richard]], if you ever did; if you have
-any [[Memory|memory]] for what is gone and lost, take it to her once more.  Once
-more!  Tell her how I laid my head upon your shoulder, where her own head
-might have lain, and was so humble to you, [[Richard]].  Tell her that you
-looked into my face, and saw the [[Beauty|beauty]] which she used to praise, all
-gone: all gone: and in its place, a poor, wan, hollow cheek, that she
-would weep to see.  Tell her everything, and take it back, and she will
-not refuse again.  She will not have the heart!”’

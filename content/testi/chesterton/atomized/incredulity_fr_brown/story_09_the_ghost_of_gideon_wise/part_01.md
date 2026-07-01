@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The [[Ghost]] of Gideon Wise (part 1)"
+title: "incredulity Fr Brown — The Ghost of Gideon Wise (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-fr-brown-(chesterton)">incredulity Fr Brown</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity_fr_brown/story_08_x/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity_fr_brown/story_09_the_ghost_of_gideon_wise/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity_fr_brown/story_08_x/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity_fr_brown/story_09_the_ghost_of_gideon_wise/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -117,7 +117,7 @@ shall try to drag you into it.'
 'You will try, boy,' said old Gallup with a hearty laugh.
 
 For so much still lingers of that great dream of Jefferson and, the
-thing that men have called [[Democracy]] that in his country, while the rich
+thing that men have called [[democracy|Democracy]] that in his country, while the rich
 rule like tyrants, the poor do not talk like slaves; but there is
 candour between the oppressor and the oppressed.
 

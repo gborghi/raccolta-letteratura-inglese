@@ -14,6 +14,76 @@ tags:
 </nav>
 
 
+      wild Pantheism of Fichte; the modified Paliggenedia of the
+
+      Pythagoreans; and, above all, the doctrines of [[Identity]] as urged
+
+      by Schelling, were generally the points of discussion presenting
+
+      the most of [[Beauty|beauty]] to the imaginative Morella. That [[Identity|identity]]
+
+      which is termed personal, Mr. Locke, I think, truly defines to
+
+      consist in the saneness of rational being. And since by person we
+
+      understand an intelligent essence having reason, and since there
+
+      is a consciousness which always accompanies thinking, it is this
+
+      which makes us all to be that which we call _ourselves_—thereby
+
+      distinguishing us from other beings that think, and giving us our
+
+      personal [[Identity|identity]]. But the _principium indivduationis_, the
+
+      notion of that [[Identity|identity]] _which at [[Death|death]] is or is not lost
+
+      forever_—was to me, at all times, a consideration of intense
+
+      interest; not more from the perplexing and exciting [[Nature|nature]] of its
+
+      consequences, than from the marked and agitated manner in which
+
+      Morella mentioned them.
+
+
+
+      But, indeed, the [[Time|time]] had now arrived when the mystery of my
+
+      wife’s manner oppressed me as a spell. I could no longer bear the
+
+      touch of her wan fingers, nor the low tone of her musical
+
+      language, nor the lustre of her [[Melancholy|melancholy]] eyes. And she knew all
+
+      this, but did not upbraid; she seemed conscious of my weakness or
+
+      my folly, and, smiling, called it Fate. She seemed, also,
+
+      conscious of a cause, to me unknown, for the gradual [[Alienation|alienation]]
+
+      of my regard; but she gave me no hint or token of its [[Nature|nature]]. Yet
+
+      was she woman, and pined away daily. In [[Time|time]] the crimson spot
+
+      settled steadily upon the cheek, and the blue veins upon the pale
+
+      forehead became prominent; and one instant my [[Nature|nature]] melted into
+
+      pity, but in, next I met the glance of her meaning eyes, and then
+
+      my [[Soul|soul]] sickened and became giddy with the giddiness of one who
+
+      gazes downward into some dreary and unfathomable abyss.
+
+
+
+      Shall I then say that I longed with an earnest and consuming
+
+      [[Desire|desire]] for the moment of Morella’s decease? I did; but the
+
+      fragile spirit clung to its tenement of clay for many days—for
+
       many weeks and irksome months, until my tortured nerves obtained
 
       the mastery over my mind, and I grew furious through delay, and,
@@ -143,81 +213,3 @@ tags:
       my [[Soul|soul]], nor throw it off from those perceptions which trembled
 
       to receive it—is it to be wondered at that suspicions, of a
-
-      [[Nature|nature]] fearful and exciting, crept in upon my spirit, or that my
-
-      thoughts fell back aghast upon the wild tales and thrilling
-
-      theories of the entombed Morella? I snatched from the scrutiny of
-
-      the world a being whom destiny compelled me to adore, and in the
-
-      rigorous seclusion of my [[Home|home]], watched with an agonizing anxiety
-
-      over all which concerned the beloved.
-
-
-
-      And as years rolled away, and I gazed day after day upon her
-
-      holy, and mild, and eloquent face, and poured over her maturing
-
-      form, day after day did I discover new points of resemblance in
-
-      the [[Child|child]] to her mother, the [[Melancholy|melancholy]] and the dead. And hourly
-
-      grew darker these shadows of similitude, and more full, and more
-
-      definite, and more perplexing, and more hideously terrible in
-
-      their aspect. For that her smile was like her mother’s I could
-
-      bear; but then I shuddered at its too perfect _identity_—that her
-
-      eyes were like Morella’s I could endure; but then they, too,
-
-      often looked down into the depths of my [[Soul|soul]] with Morella’s own
-
-      intense and bewildering meaning. And in the contour of the high
-
-      forehead, and in the ringlets of the silken hair, and in the wan
-
-      fingers which buried themselves therein, and in the sad musical
-
-      tones of her speech, and above all—oh! above all—in the phrases
-
-      and expressions of the dead on the lips of the loved and the
-
-      living, I found food for consuming thought and horror—for a worm
-
-      that _would_ not die.
-
-
-
-      Thus passed away two lustra of her life, and as yet my daughter
-
-      remained nameless upon the earth. “My [[Child|child]],” and “my [[Love|love]],” were
-
-      the designations usually prompted by a father’s affection, and
-
-      the rigid seclusion of her days precluded all other intercourse.
-
-      Morella’s name died with her at her [[Death|death]]. Of the mother I had
-
-      never spoken to the daughter;—it was impossible to speak. Indeed,
-
-      during the brief period of her existence, the latter had received
-
-      no impressions from the outward world, save such as might have
-
-      been afforded by the narrow limits of her privacy. But at length
-
-      the ceremony of baptism presented to my mind, in its unnerved and
-
-      agitated condition, a present deliverance from the terrors of my
-
-      destiny. And at the baptismal font I hesitated for a name. And
-
-      many titles of the wise and beautiful, of old and modern times,
-
-      of my own and foreign lands, came thronging to my lips, with

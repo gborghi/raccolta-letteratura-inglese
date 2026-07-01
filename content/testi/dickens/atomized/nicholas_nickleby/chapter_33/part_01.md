@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 33 (part 1)"
+title: "Nicholas Nickleby — Chapter 33 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -127,10 +127,3 @@ fallen on his neck and burst into [[Tears|tears]].
 ‘I have been so unhappy here, dear brother,’ sobbed poor Kate; ‘so very,
 very miserable. Do not leave me here, dear Nicholas, or I shall die of a
 broken heart.’
-
-‘I will leave you nowhere,’ answered Nicholas--‘never again, Kate,’ he
-cried, moved in spite of himself as he folded her to his heart. ‘Tell
-me that I acted for the best. Tell me that we parted because I feared to
-bring misfortune on your head; that it was a trial to me no less than to
-yourself, and that if I did wrong it was in ignorance of the world and
-unknowingly.’

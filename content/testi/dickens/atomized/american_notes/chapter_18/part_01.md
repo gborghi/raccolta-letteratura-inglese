@@ -18,7 +18,7 @@ CHAPTER XVII
 [[Slavery|SLAVERY]]
 
 
-THE upholders of [[Slavery|slavery]] in [[America]]—of the atrocities of which system, I
+THE upholders of [[Slavery|slavery]] in [[america|America]]—of the atrocities of which system, I
 shall not write one word for which I have not had ample proof and
 warrant—may be divided into three great classes.
 
@@ -36,13 +36,13 @@ own, breed, use, buy, and sell them at all hazards: who doggedly deny the
 horrors of the system in the teeth of such a mass of evidence as never
 was brought to bear on any other subject, and to which the experience of
 every day contributes its immense amount; who would at this or any other
-moment, gladly involve [[America]] in a war, civil or foreign, provided that
+moment, gladly involve [[america|America]] in a war, civil or foreign, provided that
 it had for its sole end and object the assertion of their right to
 perpetuate [[Slavery|slavery]], and to whip and work and torture slaves, unquestioned
 by any human authority, and unassailed by any human power; who, when they
 speak of [[Freedom]], mean the [[Freedom]] to oppress their kind, and to be
 savage, merciless, and cruel; and of whom every man on his own ground, in
-republican [[America]], is a more exacting, and a sterner, and a less
+republican [[america|America]], is a more exacting, and a sterner, and a less
 responsible despot than the Caliph Haroun Alraschid in his angry robe of
 scarlet.
 
@@ -56,7 +56,7 @@ their growth in negro wrongs.
 
 It has been sometimes urged that, in the unavailing efforts which have
 been made to advance the cause of Human [[Freedom]] in the republic of
-[[America]] (strange cause for [[history]] to treat of!), sufficient regard has
+[[america|America]] (strange cause for [[history]] to treat of!), sufficient regard has
 not been had to the existence of the first class of persons; and it has
 been contended that they are hardly used, in being confounded with the
 second.  This is, no [[Doubt|doubt]], the case; noble instances of pecuniary and

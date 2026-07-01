@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 37 (part 3)"
+title: "Nicholas Nickleby — Chapter 37 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_37/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_37/part_04">part 04 ›</a></div>
 </nav>
 
+
+Having thus expressed his sentiments, Mr. Linkinwater gave vent to
+a short laugh, indicative of defiance to the cities of [[London]] and
+Westminster, and, turning again to his desk, quietly carried seventy-six
+from the last column he had added up, and went on with his work.
+
+‘Tim Linkinwater, sir,’ said brother Charles; ‘give me your hand, sir.
+This is your birthday. How dare you talk about anything else till you
+have been wished many happy returns of the day, Tim Linkinwater? God
+bless you, Tim! God bless you!’
+
+‘My dear brother,’ said the other, seizing Tim’s disengaged fist, ‘Tim
+Linkinwater looks ten years younger than he did on his last birthday.’
+
+‘Brother Ned, my dear boy,’ returned the other old fellow, ‘I believe
+that Tim Linkinwater was born a hundred and fifty years old, and
+is gradually coming down to five-and-twenty; for he’s younger every
+birthday than he was the year before.’
 
 ‘So he is, brother Charles, so he is,’ replied brother Ned. ‘There’s not
 a [[Doubt|doubt]] about it.’
@@ -104,14 +122,3 @@ it if it had been; which last position occasioned the superannuated bank
 clerk to laugh tremendously, and to declare that it was the very best
 thing he had ever heard in his life, and that Tim Linkinwater might say
 a great many things before he said anything which would beat THAT.
-
-There was one little ceremony peculiar to the day, both the matter and
-manner of which made a very strong impression upon Nicholas. The cloth
-having been removed and the decanters sent round for the first [[Time|time]], a
-profound [[Silence|silence]] succeeded, and in the cheerful faces of the brothers
-there appeared an expression, not of absolute [[Melancholy|melancholy]], but of quiet
-thoughtfulness very unusual at a festive table. As Nicholas, struck
-by this sudden alteration, was wondering what it could portend, the
-brothers [[Rose|rose]] together, and the one at the top of the table leaning
-forward towards the other, and speaking in a low voice as if he were
-addressing him individually, said:

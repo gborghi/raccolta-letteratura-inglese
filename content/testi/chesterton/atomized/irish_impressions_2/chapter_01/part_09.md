@@ -56,7 +56,7 @@ How far this [[Sublime|sublime]] and suicidal ideal was really useful in revivin
 national enthusiasm, it is for Irishmen to judge; I should have said
 that the enthusiasm was there anyhow.  But if any such action is
 based on international hopes, as they affect England or a great part
-of [[america|America]], it seems to me it is founded on a fallacy about the facts.
+of [[America]], it seems to me it is founded on a fallacy about the facts.
 I shall have occasion to note many English errors about the Irish;
 and this seems to me a very notable Irish error about the English.
 If we are often utterly mistaken about their mentality, they were

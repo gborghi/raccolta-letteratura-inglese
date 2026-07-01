@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 11: I BEGIN LIFE ON MY OWN ACCOUNT, AND DON’T LIKE IT (part 6)"
+title: "David Copperfield — Chapter 11: I BEGIN LIFE ON MY OWN ACCOUNT, AND DON’T LIKE IT (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_11_i_begin_life_on_my_own_account/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_12_liking_life_on_my_own_account/part_01">part 01 ›</a></div>
 </nav>
 
+
+Mr. Micawber’s affairs, although past their crisis, were very much
+involved by reason of a certain ‘Deed’, of which I used to hear a great
+deal, and which I suppose, now, to have been some former composition
+with his creditors, though I was so far from being clear about it
+then, that I am conscious of having confounded it with those demoniacal
+parchments which are held to have, once upon a [[Time|time]], obtained to a great
+extent in [[Germany]]. At last this document appeared to be got out of the
+way, somehow; at all events it ceased to be the rock-ahead it had been;
+and Mrs. Micawber informed me that ‘her family’ had decided that Mr.
+Micawber should apply for his release under the Insolvent Debtors Act,
+which would set him free, she expected, in about six weeks.
 
 ‘And then,’ said Mr. Micawber, who was present, ‘I have no [[Doubt|doubt]] I
 shall, please Heaven, begin to be beforehand with the world, and to live

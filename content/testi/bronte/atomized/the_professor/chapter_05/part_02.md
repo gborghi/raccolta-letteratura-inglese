@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 4 (part 2)"
+title: "The Professor — Chapter 4 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -14,6 +14,14 @@ tags:
 </nav>
 
 
+the devil?”
+
+“On the contrary, I am going post to him.”
+
+“That is [[Well|well]]--you’re just in luck: this is Tuesday evening; there are
+
+scores of market gigs and carts returning to Dinneford to-[[Night|night]]; and he,
+
 or some of his, have a seat in all regularly; so, if you’ll step in
 
 and sit half-an-hour in my bachelor’s parlour, you may catch him as he
@@ -24,23 +32,15 @@ to-[[Night|night]], he’ll have so many customers to serve; Tuesday is his busy
 
 in X---- and Dinneford; come in at all events.”
 
-
-
 He swung the wicket open as he spoke.
 
-
-
 “Do you really wish me to go in?” I asked.
-
-
 
 “As you please--I’m [[Alone|alone]]; your company for an hour or two would be
 
 agreeable to me; but, if you don’t choose to favour me so far, I’ll not
 
 press the point. I hate to bore any one.”
-
-
 
 It suited me to accept the invitation as it suited Hunsden to give it.
 
@@ -51,8 +51,6 @@ opened; thence we traversed a passage, and entered his parlour; the door
 being shut, he pointed me to an arm-chair by the hearth; I sat down, and
 
 glanced round me.
-
-
 
 It was a comfortable room, at once snug and handsome; the bright grate
 
@@ -88,8 +86,6 @@ were works on Political Economy. I examined no further, for Mr. Hunsden
 
 himself recalled my attention.
 
-
-
 “You shall have something,” said he, “for you ought to feel disposed for
 
 refreshment after walking nobody knows how far on such a Canadian [[Night|night]]
@@ -102,8 +98,6 @@ Rhein-wein for my own drinking, and you may choose between that and
 
 coffee.”
 
-
-
 Here again Hunsden suited me: if there was one generally received
 
 practice I abhorred more than another, it was the habitual imbibing of
@@ -112,11 +106,7 @@ spirits and strong wines. I had, however, no fancy for his acid German
 
 nectar, but I liked coffee, so I responded--
 
-
-
 “Give me some coffee, Mr. Hunsden.”
-
-
 
 I perceived my answer pleased him; he had doubtless expected to see a
 
@@ -196,36 +186,8 @@ the two semblances were blent, and a queer, composite countenance they
 
 made.
 
-
-
 Starting from his silent fit, he began:--
-
-
 
 “William! what a [[Fool|fool]] you are to live in those dismal lodgings of Mrs.
 
 [[King]]’s, when you might take rooms here in Grove Street, and have a
-
-[[Garden|garden]] like me!”
-
-
-
-“I should be too far from the mill.”
-
-
-
-“What of that? It would do you good to walk there and back two or three
-
-times a day; besides, are you such a fossil that you never wish to see a
-
-flower or a green leaf?”
-
-
-
-“I am no fossil.”
-
-
-
-“What are you then? You sit at that desk in Crimsworth’s counting-[[house]]
-
-day by day and week by week, scraping with a pen on paper, just like an

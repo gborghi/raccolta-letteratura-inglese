@@ -1,5 +1,5 @@
 ---
-title: "The Rime of the [[Ancient Mariner]] — Part VII"
+title: "The Rime of the Ancient Mariner — Part VII"
 author: "Coleridge"
 unitType: section
 parentWork: "works/the-rime-of-the-ancient-mariner-(coleridge)"

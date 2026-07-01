@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The Curse of the Golden [[Cross]] (part 8)"
+title: "incredulity Fr Brown — The Curse of the Golden Cross (part 8)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-fr-brown-(chesterton)"

@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 10 (part 3)"
+title: "Dombey and Son — Chapter 38 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,124 +14,126 @@ tags:
 </nav>
 
 
-Notwithstanding the palpitation of the heart which these allusions
-occasioned her, they were anything but disagreeable to Miss Tox, as
-they enabled her to be extremely interesting, and to manifest an
-occasional incoherence and distraction which she was not at all
-unwilling to display. The Major gave her abundant opportunities of
-exhibiting this emotion: being profuse in his complaints, at dinner, of
-her desertion of him and Princess’s Place: and as he appeared to derive
-great enjoyment from making them, they all got on very [[Well|well]].
+[Illustration]
 
-None the worse on account of the Major taking charge of the whole
-conversation, and showing as great an appetite in that respect as in
-regard of the various dainties on the table, among which he may be
-almost said to have wallowed: greatly to the aggravation of his
-inflammatory tendencies. Mr Dombey’s habitual [[Silence|silence]] and reserve
-yielding readily to this usurpation, the Major felt that he was coming
-out and shining: and in the flow of spirits thus engendered, rang such
-an infinite number of new changes on his own name that he quite
-astonished himself. In a word, they were all very [[Well|well]] pleased. The
-Major was considered to possess an inexhaustible fund of conversation;
-and when he took a late farewell, after a long rubber, Mr Dombey again
-complimented the blushing Miss Tox on her neighbour and acquaintance.
+The ill-starred youngest Toodle but one, who would appear, from the
+frequency of his domestic troubles, to have been born under an unlucky
+planet, was prevented from performing his part in this general
+salutation by having fixed the sou’wester hat (with which he had been
+previously trifling) deep on his head, hind side before, and being
+unable to get it off again; which accident presenting to his terrified
+[[Imagination|imagination]] a dismal picture of his passing the rest of his days in
+darkness, and in hopeless seclusion from his friends and family, caused
+him to struggle with great violence, and to utter suffocating cries.
+Being released, his face was discovered to be very hot, and red, and
+damp; and Miss Tox took him on her lap, much exhausted.
 
-But all the way [[Home|home]] to his own hotel, the Major incessantly said to
-himself, and of himself, “Sly, Sir—sly, Sir—de-vil-ish sly!” And when
-he got there, sat down in a chair, and fell into a silent fit of
-laughter, with which he was sometimes seized, and which was always
-particularly awful. It held him so long on this occasion that the dark
-servant, who stood watching him at a distance, but dared not for his
-life approach, twice or thrice gave him over for lost. His whole form,
-but especially his face and head, dilated beyond all former experience;
-and presented to the dark man’s view, nothing but a heaving mass of
-indigo. At length he burst into a violent paroxysm of coughing, and
-when that was a little better burst into such ejaculations as the
-following:
+“You have almost forgotten me, Sir, I daresay,” said Miss Tox to Mr
+Toodle.
 
-“Would you, Ma’am, would you? Mrs Dombey, eh, Ma’am? I think not,
-Ma’am. Not while Joe B. can put a spoke in your [[Wheel|wheel]], Ma’am. J. B.“s
-even with you now, Ma’am. He isn’t altogether bowled out, yet, Sir,
-isn’t Bagstock. She’s deep, Sir, deep, but Josh is deeper. Wide awake
-is old Joe—broad awake, and staring, Sir!” There was no [[Doubt|doubt]] of this
-last assertion being true, and to a very fearful extent; as it
-continued to be during the greater part of that [[Night|night]], which the Major
-chiefly passed in similar exclamations, diversified with fits of
-coughing and choking that startled the whole [[house]].
+“No, Ma’am, no,” said Toodle. “But we’ve all on us got a little older
+since then.”
 
-It was on the day after this occasion (being [[Sunday]]) when, as Mr
-Dombey, Mrs Chick, and Miss Tox were sitting at breakfast, still
-eulogising the Major, Florence came running in: her face suffused with
-a bright colour, and her eyes sparkling joyfully: and cried,
+“And how do you find yourself, Sir?” inquired Miss Tox, blandly.
 
-“Papa! Papa! Here’s Walter! and he won’t come in.”
+“Hearty, Ma’am, thank’ee,” replied Toodle. “How do _you_ find
+_your_self, Ma’am? Do the rheumaticks keep off pretty [[Well|well]], Ma’am? We
+must all expect to grow into ’em, as we gets on.”
 
-“Who?” cried Mr Dombey. “What does she mean? What is this?”
+“Thank you,” said Miss Tox. “I have not felt any inconvenience from
+that disorder yet.”
 
-“Walter, Papa!” said Florence timidly; sensible of having approached
-the presence with too much familiarity. “Who found me when I was lost.”
+“You’re wery fortunate, Ma’am,” returned Mr Toodle. “Many people at
+your [[Time|time]] of life, Ma’am, is martyrs to it. There was my mother—” But
+catching his wife’s eye here, Mr Toodle judiciously buried the rest in
+another mug of tea.
 
-“Does she mean young Gay, Louisa?” inquired Mr Dombey, knitting his
-brows. “Really, this [[Child|child]]’s manners have become very boisterous. She
-cannot mean young Gay, I think. See what it is, will you?”
+“You never mean to say, Mrs Richards,” cried Miss Tox, looking at Rob,
+“that that is your—”
 
-Mrs Chick hurried into the passage, and returned with the information
-that it was young Gay, accompanied by a very strange-looking person;
-and that young Gay said he would not take the liberty of coming in,
-hearing Mr Dombey was at breakfast, but would wait until Mr Dombey
-should signify that he might approach.
+“Eldest, Ma’am,” said Polly. “Yes, indeed, it is. That’s the little
+fellow, Ma’am, that was the [[Innocent|innocent]] cause of so much.”
 
-“Tell the boy to come in now,” said Mr Dombey. “Now, Gay, what is the
-matter? Who sent you down here? Was there nobody else to come?”
+“This here, Ma’am,” said Toodle, “is him with the short legs—and they
+was,” said Mr Toodle, with a touch of poetry in his tone, “unusual
+short for leathers—as Mr Dombey made a Grinder on.”
 
-“I beg your pardon, Sir,” returned Walter. “I have not been sent. I
-have been so bold as to come on my own account, which I [[Hope|hope]] you’ll
-pardon when I mention the cause.
+The recollection almost overpowered Miss Tox. The subject of it had a
+peculiar interest for her directly. She asked him to shake hands, and
+congratulated his mother on his frank, ingenuous face. Rob, overhearing
+her, called up a look, to justify the eulogium, but it was hardly the
+right look.
 
-But Mr Dombey, without attending to what he said, was looking
-impatiently on either side of him (as if he were a pillar in his way)
-at some object behind.
+“And now, Mrs Richards,” said Miss Tox,—“and you too, Sir,” addressing
+Toodle—“I’ll tell you, plainly and truly, what I have come here for.
+You may be aware, Mrs Richards—and, possibly, you may be aware too,
+Sir—that a little distance has interposed itself between me and some of
+my friends, and that where I used to visit a good deal, I do not visit
+now.”
 
-“What’s that?” said Mr Dombey. “Who is that? I think you have made some
-mistake in the door, Sir.”
+Polly, who, with a woman’s tact, understood this at once, expressed as
+much in a little look. Mr Toodle, who had not the faintest idea of what
+Miss Tox was talking about, expressed that also, in a stare.
 
-“Oh, I’m very sorry to intrude with anyone, Sir,” cried Walter,
-hastily: “but this is—this is [[Captain Cuttle]], Sir.”
+“Of course,” said Miss Tox, “how our little coolness has arisen is of
+no moment, and does not require to be discussed. It is sufficient for
+me to say, that I have the greatest possible respect for, and interest
+in, Mr Dombey;” Miss Tox’s voice faltered; “and everything that relates
+to him.”
 
-“Wal”r, my lad,” observed the Captain in a deep voice: “stand by!”
+Mr Toodle, enlightened, shook his head, and said he had heerd it said,
+and, for his own part, he did think, as Mr Dombey was a difficult
+subject.
 
-At the same [[Time|time]] the Captain, coming a little further in, brought out
-his wide suit of blue, his conspicuous shirt-collar, and his knobby
-nose in full relief, and stood bowing to Mr Dombey, and waving his hook
-politely to the ladies, with the hard glazed hat in his one hand, and a
-red equator round his head which it had newly imprinted there.
+“Pray don’t say so, Sir, if you please,” returned Miss Tox. “Let me
+entreat you not to say so, Sir, either now, or at any future [[Time|time]]. Such
+observations cannot but be very painful to me; and to a gentleman,
+whose mind is constituted as, I am quite sure, yours is, can afford no
+permanent satisfaction.”
 
-Mr Dombey regarded this phenomenon with amazement and indignation, and
-seemed by his looks to appeal to Mrs Chick and Miss Tox against it.
-Little Paul, who had come in after Florence, backed towards Miss Tox as
-the Captain waved his hook, and stood on the defensive.
+Mr Toodle, who had not entertained the least [[Doubt|doubt]] of offering a remark
+that would be received with acquiescence, was greatly confounded.
 
-“Now, Gay,” said Mr Dombey. “What have you got to say to me?”
+“All that I wish to say, Mrs Richards,” resumed Miss Tox,—“and I
+address myself to you too, Sir,—is this. That any intelligence of the
+proceedings of the family, of the welfare of the family, of the health
+of the family, that reaches you, will be always most acceptable to me.
+That I shall be always very glad to chat with Mrs Richards about the
+family, and about old [[Time|time]]. And as Mrs Richards and I never had the
+least difference (though I could wish now that we had been better
+acquainted, but I have no one but myself to blame for that), I [[Hope|hope]] she
+will not object to our being very good friends now, and to my coming
+backwards and forwards here, when I like, without being a stranger.
+Now, I really [[Hope|hope]], Mrs Richards,” said Miss Tox, earnestly, “that you
+will take this, as I mean it, like a good-humoured creature, as you
+always were.”
 
-Again the Captain observed, as a general opening of the conversation
-that could not fail to propitiate all parties, “Wal”r, standby!”
+Polly was gratified, and showed it. Mr Toodle didn’t know whether he
+was gratified or not, and preserved a stolid calmness.
 
-“I am afraid, Sir,” began Walter, trembling, and looking down at the
-ground, “that I take a very great liberty in coming—indeed, I am sure I
-do. I should hardly have had the [[Courage|courage]] to ask to see you, Sir, even
-after coming down, I am afraid, if I had not overtaken Miss Dombey,
-and—”
+“You see, Mrs Richards,” said Miss Tox—“and I [[Hope|hope]] you see too,
+Sir—there are many little ways in which I can be slightly useful to
+you, if you will make no stranger of me; and in which I shall be
+delighted to be so. For instance, I can teach your children something.
+I shall bring a few little books, if you’ll allow me, and some work,
+and of an evening now and then, they’ll learn—dear me, they’ll learn a
+great deal, I trust, and be a credit to their teacher.”
 
-“[[Well]]!” said Mr Dombey, following his eyes as he glanced at the
-attentive Florence, and frowning unconsciously as she encouraged him
-with a smile. “Go on, if you please.”
+Mr Toodle, who had a great respect for learning, jerked his head
+approvingly at his wife, and moistened his hands with dawning
+satisfaction.
 
-“Ay, ay,” observed the Captain, considering it incumbent on him, as a
-point of good breeding, to support Mr Dombey. “[[Well]] said! Go on,
-Wal”r.”
+“Then, not being a stranger, I shall be in nobody’s way,” said Miss
+Tox, “and everything will go on just as if I were not here. Mrs
+Richards will do her [[mending]], or her ironing, or her nursing, whatever
+it is, without minding me: and you’ll smoke your pipe, too, if you’re
+so disposed, Sir, won’t you?”
 
-[[Captain Cuttle]] ought to have been withered by the look which Mr Dombey
-bestowed upon him in acknowledgment of his patronage. But quite
-[[Innocent|innocent]] of this, he closed one eye in reply, and gave Mr Dombey to
-understand, by certain significant motions of his hook, that Walter was
-a little bashful at first, and might be expected to come out shortly.
+“Thank’ee, Mum,” said Mr Toodle. “Yes; I’ll take my bit of backer.”
+
+“Very good of you to say so, Sir,” rejoined Miss Tox, “and I really do
+assure you now, unfeignedly, that it will be a great comfort to me, and
+that whatever good I may be fortunate enough to do the children, you
+will more than pay back to me, if you’ll enter into this little bargain
+comfortably, and easily, and good-naturedly, without another word about
+it.”

@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 29 (part 2)"
+title: "Sense and Sensibility — Chapter 29 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_29/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_29/part_03">part 03 ›</a></div>
 </nav>
 
+
+follows:
+
+
+
+                                    “Bond Street, January.
+
+
+
+
+
+        MY DEAR MADAM,
+
+    “I have just had the [[Honour|honour]] of receiving your letter, for which I
+
+    beg to return my sincere acknowledgments. I am much concerned to
 
     find there was anything in my behaviour last [[Night|night]] that did not
 
@@ -219,27 +235,3 @@ know you feel for me; I know what a heart you have; but yet you are—you
 must be happy; Edward loves you—what, oh what, can do away such
 
 happiness as that?”
-
-
-
-“Many, many circumstances,” said Elinor, solemnly.
-
-
-
-“No, no, no,” cried Marianne wildly, “he loves you, and only you. You
-
-_can_ have no grief.”
-
-
-
-“I can have no pleasure while I see you in this state.”
-
-
-
-“And you will never see me otherwise. Mine is a misery which nothing
-
-can do away.”
-
-
-
-“You must not talk so, Marianne. Have you no comforts? no friends? Is

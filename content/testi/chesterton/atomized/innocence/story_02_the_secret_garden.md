@@ -1,5 +1,5 @@
 ---
-title: "[[innocence]] — The Secret [[Garden]]"
+title: "innocence — The Secret Garden"
 author: "Chesterton"
 unitType: story
 parentWork: "works/innocence-(chesterton)"
@@ -676,7 +676,7 @@ pretence of reverence at the big black [[Body|body]] with the yellow head.
 
 "His name was Arnold Becker," said the under-[[Detective|detective]], "though
 he went by many aliases.  He was a wandering sort of scamp,
-and is known to have been in [[america|America]]; so that was where Brayne got
+and is known to have been in [[America]]; so that was where Brayne got
 his knife into him.  We didn't have much to do with him ourselves,
 for he worked mostly in [[Germany]].  We've communicated, of course,
 with the German police.  But, oddly enough, there was a twin brother
@@ -701,7 +701,7 @@ any page in [[aquinas|Aquinas]] once.  Will my head split--or will it see?
 I see half--I only see half."
 
 He buried his head in his hands, and stood in a sort of rigid torture
-of thought or [[prayer]], while the other three could only go on staring
+of thought or [[Prayer|prayer]], while the other three could only go on staring
 at this last prodigy of their wild twelve hours.
 
 When [[Father Brown]]'s hands fell they showed a face quite fresh

@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 16 (part 3)"
+title: "Nicholas Nickleby — Chapter 16 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,37 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_16/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_16/part_04">part 04 ›</a></div>
 </nav>
 
+
+Within the precincts of the ancient [[City|city]] of Westminster, and within
+half a quarter of a mile of its ancient sanctuary, is a narrow and dirty
+region, the sanctuary of the smaller members of Parliament in modern
+days. It is all comprised in one street of gloomy lodging-houses, from
+whose windows, in vacation-[[Time|time]], there frown long [[Melancholy|melancholy]] rows of
+bills, which say, as plainly as did the countenances of their occupiers,
+ranged on ministerial and opposition benches in the session which
+slumbers with its fathers, ‘To Let’, ‘To Let’. In busier periods of the
+year these bills disappear, and the houses swarm with legislators. There
+are legislators in the parlours, in the first floor, in the second, in
+the third, in the garrets; the small apartments reek with the breath of
+deputations and delegates. In damp weather, the place is rendered close,
+by the steams of moist acts of parliament and frouzy petitions; general
+postmen grow faint as they enter its infected limits, and shabby figures
+in [[Quest|quest]] of franks, flit restlessly to and fro like the troubled [[Ghosts|ghosts]]
+of Complete Letter-writers departed. This is Manchester Buildings; and
+here, at all hours of the [[Night|night]], may be heard the rattling of latch-keys
+in their respective keyholes: with now and then--when a gust of [[Wind|wind]]
+sweeping across the [[Water|water]] which washes the Buildings’ feet, impels the
+sound towards its entrance--the weak, shrill voice of some young member
+practising tomorrow’s speech. All the livelong day, there is a grinding
+of organs and clashing and clanging of little boxes of music; for
+Manchester Buildings is an eel-pot, which has no outlet but its awkward
+mouth--a case-bottle which has no thoroughfare, and a short and narrow
+neck--and in this respect it may be typical of the fate of some few
+among its more adventurous residents, who, after wriggling themselves
+into Parliament by violent efforts and contortions, find that it, too,
+is no thoroughfare for them; that, like Manchester Buildings, it leads
+to nothing beyond itself; and that they are fain at last to back out, no
+wiser, no richer, not one whit more famous, than they went in.
 
 Into Manchester Buildings Nicholas turned, with the address of the great
 Mr. Gregsbury in his hand. As there was a stream of people pouring into
@@ -87,45 +118,3 @@ dear friend, I am very sorry to see you here.’
 ‘I am very sorry to be here, sir,’ said Mr. Pugstyles; ‘but your conduct,
 Mr. Gregsbury, has rendered this deputation from your constituents
 imperatively necessary.’
-
-‘My conduct, Pugstyles,’ said Mr. Gregsbury, looking round upon the
-deputation with gracious magnanimity--‘my conduct has been, and ever
-will be, regulated by a sincere regard for the true and real interests
-of this great and happy country. Whether I look at [[Home|home]], or abroad;
-whether I behold the peaceful industrious communities of our island
-[[Home|home]]: her rivers covered with steamboats, her roads with locomotives,
-her streets with cabs, her skies with balloons of a power and magnitude
-hitherto unknown in the [[history]] of aeronautics in this or any other
-nation--I say, whether I look merely at [[Home|home]], or, stretching my
-eyes farther, contemplate the boundless prospect of conquest and
-possession--achieved by British perseverance and British valour--which
-is outspread before me, I clasp my hands, and turning my eyes to the
-broad expanse above my head, exclaim, “Thank Heaven, I am a Briton!”’
-
-The [[Time|time]] had been, when this burst of enthusiasm would have been cheered
-to the very echo; but now, the deputation received it with chilling
-coldness. The general impression seemed to be, that as an explanation
-of Mr. Gregsbury’s political conduct, it did not enter quite enough into
-detail; and one gentleman in the rear did not scruple to remark aloud,
-that, for his purpose, it savoured rather too much of a ‘gammon’
-tendency.
-
-‘The meaning of that term--gammon,’ said Mr. Gregsbury, ‘is unknown
-to me. If it means that I grow a little too fervid, or perhaps even
-hyperbolical, in extolling my native land, I admit the full justice of
-the remark. I AM proud of this free and happy country. My form dilates,
-my eye glistens, my breast heaves, my heart swells, my bosom burns, when
-I call to mind her [[Greatness|greatness]] and her glory.’
-
-‘We wish, sir,’ remarked Mr. Pugstyles, calmly, ‘to ask you a few
-questions.’
-
-‘If you please, gentlemen; my [[Time|time]] is yours--and my country’s--and my
-country’s--’ said Mr. Gregsbury.
-
-This permission being conceded, Mr. Pugstyles put on his spectacles, and
-referred to a written paper which he drew from his pocket; whereupon
-nearly every other member of the deputation pulled a written paper from
-HIS pocket, to check Mr. Pugstyles off, as he read the questions.
-
-This done, Mr. Pugstyles proceeded to business.

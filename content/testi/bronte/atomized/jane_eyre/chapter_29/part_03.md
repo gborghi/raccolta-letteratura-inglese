@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 29 (part 3)"
+title: "Jane Eyre — Chapter 29 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_29/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_29/part_04">part 04 ›</a></div>
 </nav>
 
+
+“You should have waited for my leave to descend,” she said. “You still
+look very pale—and so thin! Poor [[Child|child]]!—poor girl!”
 
 [[Diana]] had a voice toned, to my ear, like the cooing of a dove. She
 possessed eyes whose gaze I delighted to encounter. Her whole face
@@ -135,12 +138,3 @@ explained the [[Quest|quest]].
 
 [[Diana]] laughed. “Why, she can’t be above seventeen or eighteen years
 old, St. John,” said she.
-
-“I am near nineteen: but I am not married. No.”
-
-I felt a burning glow mount to my face; for bitter and agitating
-recollections were awakened by the allusion to [[Marriage|marriage]]. They all saw
-the embarrassment and the emotion. [[Diana]] and Mary relieved me by
-turning their eyes elsewhere than to my crimsoned visage; but the
-colder and sterner brother continued to gaze, till the trouble he had
-excited forced out [[Tears|tears]] as [[Well|well]] as colour.

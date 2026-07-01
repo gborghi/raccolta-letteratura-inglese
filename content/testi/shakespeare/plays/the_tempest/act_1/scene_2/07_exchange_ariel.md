@@ -1,5 +1,5 @@
 ---
-title: "The Tempest — Act I, Scene 2 — exchange ([[Ariel|ARIEL]]) [7]"
+title: "The Tempest — Act I, Scene 2 — exchange (ARIEL) [7]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-tempest-(shakespeare)"

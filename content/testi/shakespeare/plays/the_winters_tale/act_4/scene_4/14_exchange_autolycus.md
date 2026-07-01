@@ -1,5 +1,5 @@
 ---
-title: "The Winters Tale — Act IV, Scene 4 — exchange ([[Autolycus|AUTOLYCUS]]) [14]"
+title: "The Winters Tale — Act IV, Scene 4 — exchange (AUTOLYCUS) [14]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-winter’s-tale-(shakespeare)"

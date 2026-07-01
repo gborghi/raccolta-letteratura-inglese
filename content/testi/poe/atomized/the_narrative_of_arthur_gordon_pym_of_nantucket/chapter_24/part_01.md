@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 25 (part 1)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 25 (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -199,7 +199,3 @@ boats than the flat-bottomed rafts; the four canoes being all of the
 kind in their possession, and these having been obtained, by mere
 
 accident, from some large island to the southwest--that his own name
-
-was Nu-Nu--that he had no knowledge of Bennet's Islet--and that the
-
-appellation of the island we had left was _Tsalal_. The commencement of

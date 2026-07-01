@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 22 (part 4)"
+title: "The Tenant of Wildfell Hall — Chapter 22 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,28 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_22/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_22/part_05">part 05 ›</a></div>
 </nav>
 
+
+other; besides, I like to enjoy my life at all sides and ends, which
+
+cannot be done by one that suffers himself to be the slave of a single
+
+propensity—and, moreover, drinking spoils one’s good looks,” he
+
+concluded, with a most conceited smile that ought to have provoked me
+
+more than it did.
+
+
+
+“And did [[Lord Lowborough]] profit by your advice?” I asked.
+
+
+
+“Why, yes, in a manner. For a while he managed very [[Well|well]]; indeed, he
+
+was a model of moderation and prudence—something too much so for the
+
+tastes of our wild community; but, somehow, Lowborough had not the gift
 
 of moderation: if he stumbled a little to one side, he must go down
 
@@ -223,29 +245,3 @@ contact here at Staningley, and she, in the absence of her other
 admirers, indubitably courted his notice and held out every
 
 encouragement to his timid advances. Then, indeed, he began to [[Hope|hope]] for
-
-a [[Dawn|dawn]] of brighter days; and if, for a while, I darkened his prospects
-
-by standing between him and his sun—and so nearly plunged him again
-
-into the abyss of [[Despair|despair]]—it only intensified his ardour and
-
-strengthened his hopes when I chose to abandon the field in the pursuit
-
-of a brighter treasure. In a word, as I told you, he is fairly
-
-besotted. At first, he could dimly perceive her faults, and they gave
-
-him considerable uneasiness; but now his passion and her art together
-
-have blinded him to everything but her perfections and his amazing good
-
-fortune. Last [[Night|night]] he came to me brimful of his new-found felicity:
-
-
-
-“‘Huntingdon, I am not a castaway!’ said he, seizing my hand and
-
-squeezing it like a vice. ‘There is happiness in store for me yet—even
-
-in this life—she loves me!’

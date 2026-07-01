@@ -1,5 +1,5 @@
 ---
-title: "[[history]] — Chapter 14"
+title: "history — Chapter 14"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/history-(chesterton)"
@@ -105,7 +105,7 @@ in a real sense regarded as revolutionary.  The Jesuit seemed
 to the English not merely a conspirator but a sort of anarchist.
 There is something appalling about abstract speculations to
 many Englishmen; and the abstract speculations of Jesuits like
-Suarez dealt with extreme [[Democracy|democracy]] and things undreamed of here.
+Suarez dealt with extreme [[democracy]] and things undreamed of here.
 The last Stuart proposals for toleration seemed thus to many as vast
 and empty as atheism.  The only seventeenth-century Englishmen who had
 something of this transcendental abstraction were the Quakers, and the

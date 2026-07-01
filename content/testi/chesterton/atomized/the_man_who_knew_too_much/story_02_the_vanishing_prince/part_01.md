@@ -184,11 +184,3 @@ police a chase through a long suite of grand apartments, and finally
 through his own bedroom on to a balcony that overhung the [[River|river]]. The
 
 moment the pursuers stepped on to the balcony it broke under them,
-
-and they dropped pell-mell into the eddying waters, while [[Michael]],
-
-who had thrown off his gown and dived, was able to swim away. It was
-
-said that he had carefully cut away the props so that they would not
-
-support anything so heavy as a policeman. But here again he was

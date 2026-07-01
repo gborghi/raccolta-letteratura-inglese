@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 22 (part 2)"
+title: "Jane Eyre — Chapter 22 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_22/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_22/part_03">part 03 ›</a></div>
 </nav>
 
+
+I had not notified to Mrs. Fairfax the exact day of my return; for I
+did not wish either car or carriage to meet me at Millcote. I proposed
+to walk the distance quietly by myself; and very quietly, after leaving
+my box in the ostler’s care, did I slip away from the George Inn, about
+six o’[[Clock|clock]] of a June evening, and take the old [[Road|road]] to Thornfield: a
+[[Road|road]] which lay chiefly through fields, and was now little frequented.
 
 It was not a bright or splendid [[Summer|summer]] evening, though fair and soft:
 the haymakers were at work all along the [[Road|road]]; and the sky, though far
@@ -121,12 +128,3 @@ abrupt vocal response; but he smiled at me with a certain smile he had
 of his own, and which he used but on rare occasions. He seemed to think
 it too good for common purposes: it was the real sunshine of feeling—he
 shed it over me now.
-
-“Pass, Janet,” said he, making room for me to [[Cross|cross]] the stile: “go up
-[[Home|home]], and stay your weary little wandering feet at a friend’s
-threshold.”
-
-All I had now to do was to obey him in [[Silence|silence]]: no need for me to
-colloquise further. I got over the stile without a word, and meant to
-leave him calmly. An impulse held me fast—a force turned me round. I
-said—or something in me said for me, and in spite of me—

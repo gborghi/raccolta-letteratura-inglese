@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]] — On the Wit of Whistler (part 3)"
+title: "heret12 — On the Wit of Whistler (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/heret12-(chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-Whistler never ceased to be an [[artist]].  As Mr. Max Beerbohm pointed
+Whistler never ceased to be an [[Artist|artist]].  As Mr. Max Beerbohm pointed
 out in one of his extraordinarily sensible and sincere critiques,
 Whistler really regarded Whistler as his greatest work of art.
 The white lock, the single eyeglass, the remarkable hat--
@@ -35,7 +35,7 @@ could be as keen as Shakespeare was on business transactions in a
 little town in Warwickshire.  The explanation is simple enough;
 it is that Shakespeare had a real lyrical impulse, wrote a real [[Lyric|lyric]],
 and so got rid of the impulse and went about his business.
-Being an [[artist]] did not prevent him from being an ordinary man,
+Being an [[Artist|artist]] did not prevent him from being an ordinary man,
 any more than being a sleeper at [[Night|night]] or being a diner at dinner
 prevented him from being an ordinary man.
 

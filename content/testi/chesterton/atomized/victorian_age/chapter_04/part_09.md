@@ -14,6 +14,58 @@ tags:
 </nav>
 
 
+       *       *       *       *       *
+
+Of what will now be the future of so separate and almost secretive an
+
+adventure of the English, the present writer will not permit himself,
+
+even for an instant, to prophesy. The Victorian Age made one or two
+
+mistakes, but they were mistakes that were really useful; that is,
+
+mistakes that were really mistaken. They thought that commerce outside a
+
+country must extend peace: it has certainly often extended war. They
+
+thought that commerce inside a country must certainly promote
+
+prosperity; it has largely promoted [[Poverty|poverty]]. But for them these were
+
+experiments; for us they ought to be lessons. If _we_ continue the
+
+capitalist use of the populace--if _we_ continue the capitalist use of
+
+external arms, it will lie heavy on the living. The dishonour will not
+
+be on the dead.
+
+BIBLIOGRAPHICAL NOTE
+
+After having surveyed the immense field presented in such a volume as
+
+Mr. George Mair's _Modern English Literature_ in this series, or, more
+
+fully, in the _Cambridge [[history|History]] of Modern Literature_, the later volume
+
+of Chambers' _English Literature_, Mr. Gosse's _History of Modern
+
+English Literature_, or Henry Morley's _English Literature in the Reign
+
+of Victoria_, the wise reader will choose some portion for closer study,
+
+and will go straight to the originals before he has any further traffic
+
+with critics or commentators, however able.
+
+He will then need the aid of fuller biographies. Some Victorian _Lives_
+
+are already classic, or nearly so, among them Sir G. Trevelyan's
+
+_Macaulay_, Forster's _Dickens_, Mrs. Gaskell's _Charlotte Brontë_,
+
+Froude's _Carlyle_, and Sir E. T. Cook's _Ruskin_. With these may be
+
 ranged the great _Dictionary of National Biography_. The "English Men of
 
 Letters" Series includes H. D. Traill's _Coleridge_, Ainger's _Lamb_,
@@ -46,8 +98,6 @@ _Short Biographical Dictionary of English Literature_ is useful for
 
 dates.
 
-
-
 The latter half of the second volume of Mr. F. A. Mumby's _Letters of
 
 Literary Men_ is devoted to the Victorian Age. There are fuller
@@ -57,8 +107,6 @@ collections of the _Letters_ of Leigh Hunt, Thackeray, Dickens, the
 Brownings, Fitzgerald, Charles Kingsley, Matthew Arnold, and more
 
 recently the _Letters of George Meredith_, edited by his son.
-
-
 
 Among the important critical writers of the period, Matthew Arnold
 
@@ -82,27 +130,13 @@ Harrison (_The Choice of Books_, etc.), Andrew Lang, Walter Bagehot,
 
 Couch.
 
-
-
-
-
-
-
-
-
 INDEX
-
-
-
-
 
 Æsthetes, the, and Decadents, 218-27
 
 Arnold, Matthew, 73-79, 87
 
 Austen, Jane, 92, 105, 109
-
-
 
 Bentham, 36
 
@@ -120,8 +154,6 @@ Browning, Elizabeth B., 176-82
 
 Byron, 22
 
-
-
 Carlyle, 40, 49-62, 158
 
 Carroll, Lewis, 153
@@ -132,8 +164,6 @@ Coleridge, 20
 
 Collins, Wilkie, 130, 132
 
-
-
 Darwin, 38, 206-7, 209
 
 De Quincey, 23-25, 65
@@ -142,11 +172,7 @@ Dickens, 40, 79-89, 100, 106, 119-23, 129, 131
 
 Disraeli, 42, 135
 
-
-
 Eliot, George, 92, 103-9, 157
-
-
 
 Faber, 46
 
@@ -156,13 +182,9 @@ Fitzgerald, 192-95
 
 Froude, 60, 62
 
-
-
 Gaskell, Mrs., 94
 
 Gilbert, 154
-
-
 
 Hardy, Thomas, 138-39, 143-45
 
@@ -180,15 +202,9 @@ Hunt, Leigh, 23
 
 Huxley, 39-40, 205
 
-
-
 Imperialism, 60, 239
 
-
-
 James, Henry, 228-31
-
-
 
 Keats, 20
 
@@ -197,8 +213,6 @@ Keble, 45
 Kingsley, 40, 59, 64, 72, 134-35
 
 Kipling, R., 60, 249-50
-
-
 
 [[Lamb]], 23
 
@@ -209,8 +223,6 @@ Lear, Edward, 153
 Literary temperament, the English, 13-16
 
 Lytton, Bulwer, 135-37
-
-
 
 Macaulay, 28-36, 55
 
@@ -226,13 +238,9 @@ Mill, J. S., 36-37, 55
 
 Morris, Wm., 196-200, 232
 
-
-
 Newman, 38, 40, 45-48, 78, 159
 
 [[Novel]], The Modern, 90-99
-
-
 
 Oliphant, Mrs., 116-17
 
@@ -240,23 +248,17 @@ Oliphant, Mrs., 116-17
 
 [[Oxford]] Movement, 42-45
 
-
-
 Pater, Walter, 69-71
 
 Patmore, 48, 201-2
 
 Pre-Raphaelite School, 68, 72
 
-
-
 Reade, Charles, 134
 
 Rossetti, D. G. and C., 71, 188-91
 
 Ruskin, 40, 62-8, 70, 158
-
-
 
 Science, Victorian, 208-12
 
@@ -274,8 +276,6 @@ Stevenson, R. L., 243-49
 
 Swinburne, 69, 159, 181-88
 
-
-
 Tennyson, 40, 64, 160-69
 
 Thackeray, 100, 110, 123-30, 158
@@ -283,8 +283,6 @@ Thackeray, 100, 110, 123-30, 158
 Thompson, Francis, 48, 201, 202
 
 Trollope, Anthony, 130, 132-33
-
-
 
 Watson, Wm., 202
 
@@ -294,98 +292,10 @@ Wilde, Oscar, 218-23
 
 Women, Victorian, 91, 99, 104, 115-16, 140
 
-
-
-
-
-
-
-
-
-
-
 End of the Project Gutenberg EBook of The Victorian Age in Literature, by 
 
 G. K. Chesterton
 
-
-
 *** END OF THIS PROJECT GUTENBERG EBOOK THE VICTORIAN AGE IN LITERATURE ***
 
-
-
 ***** This file should be named 18639-8.txt or 18639-8.zip *****
-
-This and all associated files of various formats will be found in:
-
-        http://www.gutenberg.org/1/8/6/3/18639/
-
-
-
-Produced by Karina Aleksandrova, [[Juliet]] Sutherland and the
-
-Online Distributed Proofreading Team at http://www.pgdp.net
-
-
-
-
-
-Updated editions will replace the previous one--the old editions
-
-will be renamed.
-
-
-
-Creating the works from public domain print editions means that no
-
-one owns a United States copyright in these works, so the Foundation
-
-(and you!) can copy and distribute it in the United States without
-
-permission and without paying copyright royalties.  Special rules,
-
-set forth in the General Terms of Use part of this license, apply to
-
-copying and distributing Project Gutenberg-tm electronic works to
-
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-
-Gutenberg is a registered trademark, and may not be used if you
-
-charge for the eBooks, unless you receive specific permission.  If you
-
-do not charge anything for copies of this eBook, complying with the
-
-rules is very easy.  You may use this eBook for nearly any purpose
-
-such as creation of derivative works, reports, performances and
-
-research.  They may be modified and printed and given away--you may do
-
-practically ANYTHING with public domain eBooks.  Redistribution is
-
-subject to the trademark license, especially commercial
-
-redistribution.
-
-
-
-
-
-
-
-*** START: FULL LICENSE ***
-
-
-
-THE FULL PROJECT GUTENBERG LICENSE
-
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-
-
-To protect the Project Gutenberg-tm mission of promoting the free
-
-distribution of electronic works, by using or distributing this work
-
-(or any other work associated in any way with the phrase "Project

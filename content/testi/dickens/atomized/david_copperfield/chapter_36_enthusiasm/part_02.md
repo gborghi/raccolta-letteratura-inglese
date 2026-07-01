@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 36: ENTHUSIASM (part 2)"
+title: "David Copperfield — Chapter 36: ENTHUSIASM (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -130,9 +130,3 @@ have encountered some fine ladies and gentlemen who might as [[Well|well]] have
 been born caterpillars. Perhaps it impressed me the more then, because
 it was new to me, but it certainly did not tend to exalt my opinion of,
 or to strengthen my confidence in, Mr. Jack Maldon.
-
-‘I came out to inquire whether Annie would like to go to the opera
-tonight,’ said Mr. Maldon, turning to her. ‘It’s the last good [[Night|night]]
-there will be, this season; and there’s a singer there, whom she really
-ought to hear. She is perfectly exquisite. Besides which, she is so
-charmingly ugly,’ relapsing into languor.

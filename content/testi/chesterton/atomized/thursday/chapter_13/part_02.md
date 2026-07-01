@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 13 (part 2)"
+title: "thursday — Chapter 13 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_13/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_13/part_03">part 03 ›</a></div>
 </nav>
 
+
+"We have no [[Time|time]] for tomfoolery," said the Secretary, breaking in savagely.
+"We have come to know what all this means.  Who are you?  What are you?
+Why did you get us all here?  Do you know who and what we are?
+Are you a half-witted man playing the conspirator, or are you a clever
+man playing the [[Fool|fool]]?  Answer me, I tell you."
 
 "Candidates," murmured [[Sunday]], "are only required to answer
 eight out of the seventeen questions on the paper.
@@ -93,9 +99,7 @@ string of letters after his name.  Dr. Bull's address was,
 at any rate, considerably longer than his communication,
 for the communication consisted entirely of the words:--
 
-
 "What about Martin Tupper now?"
-
 
 "What does the old maniac mean?" asked Bull, staring at the words.
 "What does yours say, Syme?"
@@ -118,17 +122,3 @@ But quick as it went by, [[Sunday]] had bounded out of his cab,
 sprung at the [[Fire|fire]]-engine, caught it, slung himself on to it,
 and was seen as he disappeared in the noisy distance talking
 to the astonished fireman with explanatory gestures.
-
-"After him!" howled Syme.  "He can't go astray now.
-There's no mistaking a [[Fire|fire]]-engine."
-
-The three cabmen, who had been stunned for a moment, whipped up
-their horses and slightly decreased the distance between themselves
-and their disappearing prey.  The President acknowledged this
-proximity by coming to the back of the car, bowing repeatedly,
-kissing his hand, and finally flinging a neatly-folded note into
-the bosom of Inspector Ratcliffe.  When that gentleman opened it,
-not without impatience, he found it contained the words:--
-
-"Fly at once.  The [[Truth|truth]] about your trouser-stretchers is known.
---A FRIEND."

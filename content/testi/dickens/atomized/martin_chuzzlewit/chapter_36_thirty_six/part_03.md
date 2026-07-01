@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 36: THIRTY SIX (part 3)"
+title: "Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_36_thirty_six/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_36_thirty_six/part_04">part 04 ›</a></div>
 </nav>
 
+
+This was a matter of taste, which Tom did not feel himself called upon
+to discuss.
+
+‘You’ll seldom find ‘em possessing correct opinions about refreshment,
+for instance, when they’re too young, you know,’ said the coachman; ‘a
+woman must have arrived at maturity, before her mind’s equal to coming
+provided with a basket like that.’
 
 ‘Perhaps you would like to know what it contains?’ said Tom, smiling.
 
@@ -106,19 +114,3 @@ fee of Tom.
 ‘Upon my word,’ said Tom, ‘I should not have minded very much, if we had
 been five hours after it; for at this early hour I don’t know where to
 go, or what to do with myself.’
-
-‘Don’t they expect you then?’ inquired the driver.
-
-‘Who?’ said Tom.
-
-‘Why them,’ returned the driver.
-
-His mind was so clearly running on the assumption of Tom’s having come
-to town to see an extensive circle of anxious relations and friends,
-that it would have been pretty hard work to undeceive him. Tom did not
-try. He cheerfully evaded the subject, and going into the Inn, fell fast
-asleep before a [[Fire|fire]] in one of the public rooms opening from the yard.
-When he awoke, the people in the [[house]] were all astir, so he washed and
-dressed himself; to his great refreshment after the [[Journey|journey]]; and, it
-being by that [[Time|time]] eight o’[[Clock|clock]], went forth at once to see his old
-friend John.

@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 14 (part 4)"
+title: "Our Mutual Friend — Chapter 17 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,147 +10,174 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_55/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_55/part_05">part 05 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_55/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_56/part_01">part 01 ›</a></div>
 </nav>
 
 
-‘But,’ said Wegg, possibly with some slight perception to the foregoing
-effect, ‘your speaking countenance remarks, [[Mr Venus]], that I’m duller
-and savager than usual. Perhaps I HAVE allowed myself to brood too much.
-Begone, dull Care! ’tis gone, sir. I’ve looked in upon you, and empire
-resumes her sway. For, as the [[Song|song]] says—subject to your correction,
-sir—
+Mr and Mrs Podsnap are of the company, and the Fathers descry in Mrs
+Podsnap a fine woman. She is consigned to a Father—Boots’s Father,
+who employs five hundred thousand men—and is brought to anchor on
+Veneering’s left; thus affording opportunity to the sportive Tippins on
+his right (he, as usual, being mere vacant space), to entreat to be told
+something about those loves of Navvies, and whether they really do live
+on raw beefsteaks, and drink porter out of their barrows. But, in spite
+of such little skirmishes it is felt that this was to be a wondering
+dinner, and that the wondering must not be neglected. Accordingly,
+Brewer, as the man who has the greatest reputation to sustain, becomes
+the interpreter of the general instinct.
 
-     “When the heart of a man is depressed with cares,
-     The mist is dispelled if [[Venus]] appears.
-     Like the notes of a fiddle, you sweetly, sir, sweetly,
-     Raises our spirits and charms our ears.”
+‘I took,’ says Brewer in a favourable pause, ‘a cab this morning, and I
+rattled off to that Sale.’
 
-Good-[[Night|night]], sir.’
+Boots (devoured by envy) says, ‘So did I.’
 
-‘I shall have a word or two to say to you, Mr Wegg, before long,’
-remarked [[Venus]], ‘respecting my share in the project we’ve been speaking
-of.’
+Buffer says, ‘So did I’; but can find nobody to care whether he did or
+not.
 
-‘My [[Time|time]], sir,’ returned Wegg, ‘is yours. In the meanwhile let it be
-fully understood that I shall not neglect bringing the grindstone to
-bear, nor yet bringing Dusty Boffin’s nose to it. His nose once brought
-to it, shall be held to it by these hands, [[Mr Venus]], till the sparks
-flies out in showers.’
+‘And what was it like?’ inquires Veneering.
 
-With this agreeable promise Wegg stumped out, and shut the shop-door
-after him. ‘Wait till I light a candle, Mr Boffin,’ said [[Venus]], ‘and
-you’ll come out more comfortable.’ So, he lighting a candle and holding
-it up at arm’s length, Mr Boffin disengaged himself from behind the
-alligator’s smile, with an expression of countenance so very downcast
-that it not only appeared as if the alligator had the whole of the joke
-to himself, but further as if it had been conceived and executed at Mr
-Boffin’s expense.
+‘I assure you,’ replies Brewer, looking about for anybody else to
+address his answer to, and giving the preference to Lightwood; ‘I assure
+you, the things were going for a [[Song|song]]. Handsome things enough, but
+fetching nothing.’
 
-‘That’s a treacherous fellow,’ said Mr Boffin, dusting his arms and legs
-as he came forth, the alligator having been but musty company. ‘That’s a
-dreadful fellow.’
+‘So I heard this afternoon,’ says Lightwood.
 
-‘The alligator, sir?’ said [[Venus]].
+Brewer begs to know now, would it be fair to ask a professional man
+how—on—earth—these—people—ever—did—come—TO—such—A—total
+smash? (Brewer’s divisions being for emphasis.)
 
-‘No, [[Venus]], no. The Serpent.’
+Lightwood replies that he was consulted certainly, but could give no
+opinion which would pay off the Bill of Sale, and therefore violates no
+confidence in supposing that it came of their living beyond their means.
 
-‘You’ll have the goodness to notice, Mr Boffin,’ remarked [[Venus]], ‘that I
-said nothing to him about my going out of the affair altogether, because
-I didn’t wish to take you anyways by surprise. But I can’t be too soon
-out of it for my satisfaction, Mr Boffin, and I now put it to you when
-it will suit your views for me to retire?’
+‘But how,’ says Veneering, ‘CAN people do that!’
 
-‘Thank’ee, [[Venus]], thank’ee, [[Venus]]; but I don’t know what to say,’
-returned Mr Boffin, ‘I don’t know what to do. He’ll drop down on me any
-way. He seems fully determined to drop down; don’t he?’
+Hah! That is felt on all hands to be a shot in the bull’s eye. How CAN
+people do that! The Analytical Chemist going round with champagne, looks
+very much as if HE could give them a pretty good idea how people did
+that, if he had a mind.
 
-[[Mr Venus]] opined that such was clearly his intention.
+‘How,’ says Mrs Veneering, laying down her fork to press her aquiline
+hands together at the tips of the fingers, and addressing the Father who
+travels the three thousand miles per week: ‘how a mother can look at
+her baby, and know that she lives beyond her husband’s means, I cannot
+imagine.’
 
-‘You might be a sort of protection for me, if you remained in it,’ said
-Mr Boffin; ‘you might stand betwixt him and me, and take the edge off
-him. Don’t you feel as if you could make a show of remaining in it,
-[[Venus]], till I had [[Time|time]] to turn myself round?’
+Eugene suggests that Mrs Lammle, not being a mother, had no baby to look
+at.
 
-[[Venus]] naturally inquired how long Mr Boffin thought it might take him to
-turn himself round?
+‘True,’ says Mrs Veneering, ‘but the principle is the same.’
 
-‘I am sure I don’t know,’ was the answer, given quite at a loss.
-‘Everything is so at sixes and sevens. If I had never come into the
-property, I shouldn’t have minded. But being in it, it would be very
-trying to be turned out; now, don’t you acknowledge that it would,
-[[Venus]]?’
+Boots is clear that the principle is the same. So is Buffer. It is the
+unfortunate destiny of Buffer to damage a cause by espousing it. The
+rest of the company have meekly yielded to the proposition that the
+principle is the same, until Buffer says it is; when instantly a general
+murmur arises that the principle is not the same.
 
-[[Mr Venus]] preferred, he said, to leave Mr Boffin to arrive at his own
-conclusions on that delicate question.
+‘But I don’t understand,’ says the Father of the three hundred and
+seventy-five thousand pounds, ‘—if these people spoken of, occupied the
+position of being in society—they were in society?’
 
-‘I am sure I don’t know what to do,’ said Mr Boffin. ‘If I ask advice of
-any one else, it’s only letting in another person to be bought out, and
-then I shall be ruined that way, and might as [[Well|well]] have given up the
-property and gone slap to the workhouse. If I was to take advice of my
-young man, Rokesmith, I should have to buy HIM out. Sooner or later, of
-course, he’d drop down upon me, like Wegg. I was brought into the world
-to be dropped down upon, it appears to me.’
+Veneering is bound to confess that they dined here, and were even
+married from here.
 
-[[Mr Venus]] listened to these lamentations in [[Silence|silence]], while Mr Boffin
-jogged to and fro, holding his pockets as if he had a [[Pain|pain]] in them.
+‘Then I don’t understand,’ pursues the Father, ‘how even their living
+beyond their means could bring them to what has been termed a total
+smash. Because, there is always such a thing as an adjustment of
+affairs, in the case of people of any standing at all.’
 
-‘After all, you haven’t said what you mean to do yourself, [[Venus]]. When
-you do go out of it, how do you mean to go?’
+Eugene (who would seem to be in a gloomy state of suggestiveness),
+suggests, ‘Suppose you have no means and live beyond them?’
 
-[[Venus]] replied that as Wegg had found the document and handed it to him,
-it was his intention to hand it back to Wegg, with the declaration that
-he himself would have nothing to say to it, or do with it, and that Wegg
-must act as he chose, and take the consequences.
+This is too insolvent a state of things for the Father to entertain. It
+is too insolvent a state of things for any one with any [[Self|self]]-respect
+to entertain, and is universally scouted. But, it is so amazing how any
+people can have come to a total smash, that everybody feels bound to
+account for it specially. One of the Fathers says, ‘Gaming table.’
+Another of the Fathers says, ‘Speculated without knowing that
+speculation is a science.’ Boots says ‘Horses.’ Lady Tippins says to her
+fan, ‘Two establishments.’ Mr Podsnap, saying nothing, is referred
+to for his opinion; which he delivers as follows; much flushed and
+extremely angry:
 
-‘And then he drops down with his whole weight upon ME!’ cried Mr Boffin,
-ruefully. ‘I’d sooner be dropped upon by you than by him, or even by you
-jintly, than by him [[Alone|alone]]!’
+‘Don’t ask me. I [[Desire|desire]] to take no part in the discussion of these
+people’s affairs. I abhor the subject. It is an odious subject, an
+offensive subject, a subject that makes me sick, and I—’ And with his
+favourite right-arm flourish which sweeps away everything and settles it
+for ever, Mr Podsnap sweeps these inconveniently unexplainable wretches
+who have lived beyond their means and gone to total smash, off the face
+of the universe.
 
-[[Mr Venus]] could only repeat that it was his fixed intention to betake
-himself to the paths of science, and to walk in the same all the days
-of his life; not dropping down upon his fellow-creatures until they were
-deceased, and then only to articulate them to the best of his humble
-ability.
+Eugene, leaning back in his chair, is observing Mr Podsnap with an
+irreverent face, and may be about to offer a new suggestion, when
+the Analytical is beheld in collision with the Coachman; the Coachman
+manifesting a purpose of coming at the company with a silver salver,
+as though intent upon making a collection for his wife and family; the
+Analytical cutting him off at the sideboard. The superior stateliness,
+if not the superior generalship, of the Analytical prevails over a man
+who is as nothing off the box; and the Coachman, yielding up his salver,
+retires defeated.
 
-‘How long could you be persuaded to keep up the appearance of remaining
-in it?’ asked Mr Boffin, retiring on his other idea. ‘Could you be got
-to do so, till the Mounds are gone?’
+Then, the Analytical, perusing a scrap of paper lying on the salver,
+with the air of a literary Censor, adjusts it, takes his [[Time|time]] about
+going to the table with it, and presents it to Mr [[Eugene Wrayburn]].
+Whereupon the pleasant Tippins says aloud, ‘The Lord Chancellor has
+resigned!’
 
-No. That would protract the mental uneasiness of [[Mr Venus]] too long, he
-said.
+With distracting coolness and slowness—for he knows the curiosity of
+the Charmer to be always devouring—Eugene makes a pretence of getting
+out an eyeglass, polishing it, and reading the paper with difficulty,
+long after he has seen what is written on it. What is written on it in
+wet ink, is:
 
-‘Not if I was to show you reason now?’ demanded Mr Boffin; ‘not if I was
-to show you good and sufficient reason?’
+‘Young Blight.’
 
-If by good and sufficient reason Mr Boffin meant honest and
-unimpeachable reason, that might weigh with [[Mr Venus]] against his
-personal wishes and convenience. But he must add that he saw no opening
-to the possibility of such reason being shown him.
+‘Waiting?’ says Eugene over his shoulder, in confidence, with the
+Analytical.
 
-‘Come and see me, [[Venus]],’ said Mr Boffin, ‘at my [[house]].’
+‘Waiting,’ returns the Analytical in responsive confidence.
 
-‘Is the reason there, sir?’ asked [[Mr Venus]], with an incredulous smile
-and blink.
+Eugene looks ‘Excuse me,’ towards Mrs Veneering, goes out, and finds
+Young Blight, Mortimer’s clerk, at the hall-door.
 
-‘It may be, or may not be,’ said Mr Boffin, ‘just as you view it. But
-in the meantime don’t go out of the matter. Look here. Do this. Give me
-your word that you won’t take any steps with Wegg, without my knowledge,
-just as I have given you my word that I won’t without yours.’
+‘You told me to bring him, sir, to wherever you was, if he come while
+you was out and I was in,’ says that discreet young gentleman, standing
+on tiptoe to whisper; ‘and I’ve brought him.’
 
-‘Done, Mr Boffin!’ said [[Venus]], after brief consideration.
+‘Sharp boy. Where is he?’ asks Eugene.
 
-‘Thank’ee, [[Venus]], thank’ee, [[Venus]]! Done!’
+‘He’s in a cab, sir, at the door. I thought it best not to show him, you
+see, if it could be helped; for he’s a-shaking all over, like—Blight’s
+simile is perhaps inspired by the surrounding dishes of sweets—‘like
+Glue Monge.’
 
-‘When shall I come to see you, Mr Boffin.’
+‘Sharp boy again,’ returns Eugene. ‘I’ll go to him.’
 
-‘When you like. The sooner the better. I must be going now. Good-[[Night|night]],
-[[Venus]].’
+Goes out straightway, and, leisurely leaning his arms on the open [[Window|window]]
+of a cab in waiting, looks in at Mr Dolls: who has brought his own
+atmosphere with him, and would seem from its odour to have brought it,
+for convenience of carriage, in a rum-cask.
 
-‘Good-[[Night|night]], sir.’
+‘Now Dolls, wake up!’
 
-‘And good-[[Night|night]] to the rest of the present company,’ said Mr Boffin,
-glancing round the shop. ‘They make a queer show, [[Venus]], and I should
-like to be better acquainted with them some day. Good-[[Night|night]], [[Venus]],
-good-[[Night|night]]! Thankee, [[Venus]], thankee, [[Venus]]!’ With that he jogged out
-into the street, and jogged upon his homeward way.
+‘Mist Wrayburn? Drection! Fifteen shillings!’
+
+After carefully reading the dingy scrap of paper handed to him, and as
+carefully tucking it into his waistcoat pocket, Eugene tells out the
+money; beginning incautiously by telling the first shilling into Mr
+Dolls’s hand, which instantly jerks it out of [[Window|window]]; and ending by
+telling the fifteen shillings on the seat.
+
+‘Give him a ride back to Charing [[Cross]], sharp boy, and there get rid of
+him.’
+
+Returning to the dining-room, and pausing for an instant behind the
+screen at the door, Eugene overhears, above the hum and clatter, the
+fair Tippins saying: ‘I am dying to ask him what he was called out for!’
+
+‘Are you?’ mutters Eugene, ‘then perhaps if you can’t ask him, you’ll
+die. So I’ll be a benefactor to society, and go. A stroll and a cigar,
+and I can think this over. Think this over.’ Thus, with a thoughtful
+face, he finds his hat and cloak, unseen of the Analytical, and goes his
+way.

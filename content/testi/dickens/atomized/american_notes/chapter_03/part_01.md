@@ -103,22 +103,8 @@ shriek from my wife, who demands to know whether there’s any danger.  I
 rouse myself, and look out of bed.  The [[Water|water]]-jug is plunging and leaping
 like a lively dolphin; all the smaller articles are afloat, except my
 shoes, which are stranded on a carpet-bag, high and dry, like a couple of
-coal-barges.  Suddenly I see them [[Spring|spring]] into the air, and behold the
+coal-barges.  Suddenly I see them [[spring]] into the air, and behold the
 looking-glass, which is nailed to the wall, sticking fast upon the
 ceiling.  At the same [[Time|time]] the door entirely disappears, and a new one is
 opened in the floor.  Then I begin to comprehend that the state-room is
 standing on its head.
-
-Before it is possible to make any arrangement at all compatible with this
-[[Novel|novel]] state of things, the [[Ship|ship]] rights.  Before one can say ‘Thank
-Heaven!’ she wrongs again.  Before one can cry she _is_ wrong, she seems
-to have started forward, and to be a creature actually running of its own
-accord, with broken knees and failing legs, through every variety of hole
-and pitfall, and stumbling constantly.  Before one can so much as [[Wonder|wonder]],
-she takes a high leap into the air.  Before she has [[Well|well]] done that, she
-takes a deep dive into the [[Water|water]].  Before she has gained the surface, she
-throws a summerset.  The instant she is on her legs, she rushes backward.
-And so she goes on staggering, heaving, wrestling, leaping, diving,
-jumping, pitching, throbbing, [[rolling]], and rocking: and going through all
-these movements, sometimes by turns, and sometimes altogether: until one
-feels disposed to roar for [[Mercy|mercy]].

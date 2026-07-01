@@ -233,7 +233,7 @@ of escaping the guide and being able to contradict the guide-book.
 And this really is a benefit that can only be obtained by travel.
 If you merely stay at [[Home|home]], you will probably read books, and books
 with all the prejudices of guide-books; if not, you will read newspapers,
-often containing pronouncements upon Europe or [[America]] far below
+often containing pronouncements upon Europe or [[america|America]] far below
 the mental level of any tout who tries to get a tip by showing
 you round an Italian ruin.  In short, we all know that the real
 pleasures of the tripper are those that are not supposed to be part
@@ -666,7 +666,7 @@ on being wheeled about, like Mr. [[Pickwick]], in a [[Wheel|wheel]]-barrow. But
 that is not at all the part of Progress that I find problematical.
 I have no particular objection to people going about in cars;
 though I may regret the curious evolution of the human form
-in [[America]], where wheels have completely taken the place of legs.
+in [[america|America]], where wheels have completely taken the place of legs.
 What was not adequately realized, by those who merely talked
 about Progress, is simply this:  that Progress is never merely
 the solving of problems, it is always also the setting of problems.
@@ -842,7 +842,7 @@ it is rather a question of what it is possible for us to prevent.
 Now, I think those who hold the old view of right should stand firm,
 stand apart and even realize they stand [[Alone|alone]].  They should attack.
 England looks much more hopeful as a Pagan country calling for
-[[Conversion|conversion]] than as a Christian country calling for compromise.
+[[conversion]] than as a Christian country calling for compromise.
 The roast beef of Old England will last longer when it is salted beef.
 But if the salt lose its savour, wherewith shall it be salted?
 
@@ -1101,13 +1101,13 @@ Whatever his faults, he did most certainly have a real religion,
 in the sense of a creed.  But it was a sombre creed, one which had been
 made intentionally, more stern and ruthless than the other creeds;
 and this created a new mood and moral atmosphere which ultimately
-spread all over the great plains of Puritan [[America]].  Now, the point
+spread all over the great plains of Puritan [[america|America]].  Now, the point
 is this:  that as the creed crumbled slowly as a creed, its place
 was taken by something vaguer but of the same general spirit.
 The sombre theological system was replaced by a sombre social theory.
-You can put it another way if you like, and say that [[America]]
-tolerated Prohibition; not because [[America]] was Puritan, but because
-[[America]] had been Puritan.  The idea of [[morality]] that came to prevail
+You can put it another way if you like, and say that [[america|America]]
+tolerated Prohibition; not because [[america|America]] was Puritan, but because
+[[america|America]] had been Puritan.  The idea of [[morality]] that came to prevail
 till lately at least was in every sense a [[Survival|survival]] of [[Puritanism]],
 even if it was also in a sense a substitute for [[Puritanism]].
 That is the essential [[history]] of that curious episode; the teetotal ethic
@@ -1384,7 +1384,7 @@ produce the special good they promise; they do not produce even the
 special evil they threaten.  The Voltairean revolt promised to produce,
 and even began to produce, the rise of mobs and overthrow of thrones;
 but it was not the final form of scepticism.  The actual effect
-of what we call [[Democracy|democracy]] has been the disappearance of the mob.
+of what we call [[democracy]] has been the disappearance of the mob.
 We might say there were mobs at the beginning of the Revolution
 and no mobs at the end of it.  That Voltairean influence has not
 ended in the rule of mobs, but in the rule of secret societies.
@@ -1407,7 +1407,7 @@ of narrow national and tribal fury which at this moment
 menaces mankind with a war that may be the end of the world.
 But the root of both perversions is in the common ground of
 atheist irresponsibility; there was nothing to stop the sceptic
-from turning [[Democracy|democracy]] into secrecy; there was nothing to stop
+from turning [[democracy]] into secrecy; there was nothing to stop
 him interpreting liberty as the infinite licence of tyranny.
 The spiritual zero of Christendom was at that freezing instant when
 those two dry, thin, hatchet-faced men looked in each other's hollow
@@ -1848,7 +1848,7 @@ _XIII About Blondes_
 
 PRESENTED in very large letters on the leader page of a leading
 daily paper, I find the statement that "the problem that besets the most
-limpid of all [[America]]'s blonde actresses . . . is too many riches."
+limpid of all [[america|America]]'s blonde actresses . . . is too many riches."
 Gazing at this announcement, I fell into a trance of reflection,
 like those in which many modern writers have seen visions of the future.
 But I was only wondering in a vague way what an average society,
@@ -1912,12 +1912,12 @@ I am willing to be excited when they discuss what is the most popular
 of a prizewinner in any [[Beauty]] Competition without thinking that I
 knew several better-looking women living in my own street.
 I should therefore accept, with a slight sigh, the statement that
-somebody was the most beautiful of all [[America]]'s blonde actresses.
+somebody was the most beautiful of all [[america|America]]'s blonde actresses.
 But surely it is by some more curious convolutions of thought
 that anybody can reach so firm and fixed a belief that she is "the
-most limpid of all [[America]]'s blonde actresses."
+most limpid of all [[america|America]]'s blonde actresses."
 
-It seems to be assumed that all [[America]]'s blonde actresses are
+It seems to be assumed that all [[america|America]]'s blonde actresses are
 engaged in a fierce competition for limpidity--whatever that may be.
 Not without bitter rivalries and breathless jealousies has the peculiar
 palm been won.  Challenges have been issued to the multitudinous
@@ -2871,8 +2871,8 @@ People were taught to look only to the future, or at least every
 part of it except their own future.  They were taught never to look
 at the past, because the past had borne unbroken testimony to this
 element of [[Time|time]] and change.  And that is the real reason why the world
-has been, as they say just now, disappointed with [[Democracy|democracy]].
-There is no necessary depression or [[Despair|despair]] about [[Democracy|democracy]].
+has been, as they say just now, disappointed with [[democracy]].
+There is no necessary depression or [[Despair|despair]] about [[democracy]].
 What is depressing is optimism.  There is nothing false in the idea
 of the equality of man; but there is something utterly false
 in denying the thing in which men are most obviously equal,
@@ -2890,7 +2890,7 @@ and ludicrous illusion has nothing to do with the idea of men
 feeling their fellow-men as fellows--or even as good fellows.
 It was an illusion of the intellectuals, who happened to be prigs
 and dictated the Victorian idea of progress.  There is nothing wrong
-with [[Democracy|democracy]]; there is nothing wrong with the people ruling,
+with [[democracy]]; there is nothing wrong with the people ruling,
 except what is wrong with anybody out of the people ruling; what is wrong
 is forgetting that people are only people.  They will make mistakes,
 as you and I make mistakes; and as all our superiors, the supermen,
@@ -2914,8 +2914,8 @@ called himself a Socialist; but that hardly seems sufficient reason
 for people of a totally opposite type calling him a Communist;
 in the face of the quite different and quite definite modern meaning
 of Communism.  Mr. Middleton Murry makes what I cannot but think
-a delicate insinuation that the [[Conversion|conversion]] of a literary man like
-himself to Communism is more or less comparable to the [[Conversion|conversion]]
+a delicate insinuation that the [[conversion]] of a literary man like
+himself to Communism is more or less comparable to the [[conversion]]
 of the older literary man to Socialism.  But it is precisely
 by the test of literature, that is the test of [[Imagination|imagination]], that it
 is quite impossible to get the two things into the same picture.
@@ -3988,7 +3988,7 @@ something had happened to arithmetic in the schools; but it would
 not imply that I am a mathematician, which is absurd; still less
 that I could discuss the higher mathematics with Professor Einstein.
 If I found my most cultivated acquaintances alluding to Vienna as the
-capital of Spain, or the Volga as the chief [[River|river]] of [[America]], I should
+capital of Spain, or the Volga as the chief [[River|river]] of [[america|America]], I should
 feel the geographical studies had become a little vague; in spite
 of the fact that my own knowledge of geography is very vague indeed.
 In short, an ordinary man is only justified in complaining of
@@ -4158,7 +4158,7 @@ If we have vulgarized electricity on the earth, it is no answer
 to boast that, in a few years more, we can vulgarize the [[Stars|stars]]
 in the sky.
 
-Tell me that the bustling business man is struck rigid in [[Prayer|prayer]]
+Tell me that the bustling business man is struck rigid in [[prayer]]
 at the mere sound of the telephone-bell, like the peasants
 of Millet at the Angelus; tell me that he bows in reverence
 as he approaches the shrine of the telephone-box; tell me even
@@ -4437,10 +4437,10 @@ in another branch of science, has recently contradicted Darwinism with
 the same emphasis and eagerness with which the Darwinians affirmed it.
 This is news in the newspapers, but in this country we grossly
 exaggerate the extent to which it is new in the scientific world.
-When Sir [[arthur|Arthur]] Keith and Mr. H. G. Wells tried to treat Anti-Darwinism
+When Sir [[Arthur]] Keith and Mr. H. G. Wells tried to treat Anti-Darwinism
 as an unheard-of [[Paradox|paradox]], Mr. Belloc had not the least difficulty in
 naming fifty scientific men of the first rank, throughout Europe, who were
-avowed Anti-Darwinians. And Sir [[arthur|Arthur]] Keith could say nothing in reply,
+avowed Anti-Darwinians. And Sir [[Arthur]] Keith could say nothing in reply,
 except that one out of the fifty, the distinguished Professor Dwight,
 had never at any [[Time|time]] accepted the Darwinian hypothesis.
 The argument was, apparently, that Dwight could not be right,
@@ -4664,7 +4664,7 @@ reformatory and the psychological clinic--begin to close
 upon the growing boy and the hopeful butcher of his kind.
 We are given detailed descriptions of depressing domestic interiors,
 as if being dumbly asked whether a wife so involved in the washing
-or the dusting or the [[spring]]-cleaning was not eventually bound to murder
+or the dusting or the [[Spring|spring]]-cleaning was not eventually bound to murder
 or be murdered in any case.  It is all very [[Well|well]], but I would point out
 to the sanguinary sophist that the argument can be turned the other way.
 If it be true that a misguided wife may begin thoughtlessly by
@@ -4680,11 +4680,11 @@ There could not be a grimmer example of this [[Tragedy|tragedy]] than poor
 for accusing her of any rooted or aboriginal taste for hygiene.
 When she was young and [[Innocent|innocent]], her [[Imagination|imagination]] seems to have been
 quite unpolluted by the impure image of soap.  I should even hesitate
-to accuse her of [[spring]]-cleaning in the serious, anti-social, and sinful
+to accuse her of [[Spring|spring]]-cleaning in the serious, anti-social, and sinful
 sense of the term.  Anyhow, a number of very different [[Birds|birds]] seem to
 have nested undisturbed over the main entrance to the reception-rooms;
 which looks as if she was once a human being, and more interested
-in [[spring]]-broods than in [[spring]]-cleaning. Unfortunately,
+in [[Spring|spring]]-broods than in [[Spring|spring]]-cleaning. Unfortunately,
 like such a very large number of people living in dark, barbarous,
 ignorant, and ferocious times, she was full of modern ideas.
 She intended especially to maintain the two brightest and most
@@ -4711,8 +4711,8 @@ Those ambitions of the housewife, which seem to the modern moralist
 so obvious a cause of murder, were, in fact, wildly exaggerated
 in her case as a consequence of murder.  It was the worst doom
 of the murderess that she wanted to do the washing, not on Monday,
-but at midnight; that she wanted to have a [[spring]]-cleaning,
-not in the [[spring]] of the year, but in the middle of the [[Night|night]].
+but at midnight; that she wanted to have a [[Spring|spring]]-cleaning,
+not in the [[Spring|spring]] of the year, but in the middle of the [[Night|night]].
 Who shall say lightly that a murder or two does not matter,
 when it may lead to the murderess becoming as hygienic as all that?
 
@@ -5137,7 +5137,7 @@ even confine itself to a Channel-tunnel between Dover and Calais,
 but actually built a bridge that stretches across all Europe from
 the western extreme of Great Britain to the eastern extreme of Greece.
 It is the great defect of a mere mechanical machinery of majorities
-that it always [[Leaves|leaves]] out that great [[Democracy|democracy]] of the dead who are
+that it always [[Leaves|leaves]] out that great [[democracy]] of the dead who are
 truly described as the great majority.  Rituals and festivals,
 like those of a great national or international wedding-day,
 contain a thousand things to remind us that our countrymen inherit

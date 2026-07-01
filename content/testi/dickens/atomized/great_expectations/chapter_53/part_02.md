@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 53 (part 2)"
+title: "Great Expectations — Chapter 53 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_53/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_53/part_03">part 03 ›</a></div>
 </nav>
 
+
+“Unbind me. Let me go!”
+
+“Ah!” he returned, “_I_’ll let you go. I’ll let you go to the [[Moon|moon]],
+I’ll let you go to the [[Stars|stars]]. All in good [[Time|time]].”
+
+“Why have you lured me here?”
 
 “Don’t you know?” said he, with a deadly look.
 

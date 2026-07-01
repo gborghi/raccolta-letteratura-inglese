@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]] — Paganism and Mr. Lowes Dickinson (part 3)"
+title: "heret12 — Paganism and Mr. Lowes Dickinson (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/heret12-(chesterton)"

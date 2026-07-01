@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 10 (part 4)"
+title: "thursday — Chapter 10 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_10/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_10/part_05">part 05 ›</a></div>
 </nav>
 
+
+He fell to fighting again with a [[Supernatural|supernatural]] levity, like a Mohammedan
+panting for Paradise.  As the train came nearer and nearer he fancied he could
+see people putting up the floral arches in [[Paris]]; he joined in the growing
+noise and the glory of the great Republic whose gate he was guarding
+against Hell.  His thoughts [[Rose|rose]] higher and higher with the rising roar
+of the train, which ended, as if proudly, in a long and piercing whistle.
+The train stopped.
 
 Suddenly, to the astonishment of everyone the Marquis sprang
 back quite out of [[Sword|sword]] reach and threw down his [[Sword|sword]].
@@ -141,21 +149,3 @@ and half his face.
 The head which emerged was the blonde, [[Well|well]] brushed,
 smooth-haired head which is common in the English constabulary,
 but the face was terribly pale.
-
-"I am Inspector Ratcliffe," he said, with a sort of haste
-that verged on harshness.  "My name is pretty [[Well|well]] known to
-the police, and I can see [[Well|well]] enough that you belong to them.
-But if there is any [[Doubt|doubt]] about my position, I have a card,"
-and he began to pull a blue card from his pocket.
-
-[[The Professor]] gave a tired gesture.
-
-"Oh, don't show it us," he said wearily; "we've got enough of them
-to equip a paper-chase."
-
-The little man named Bull, had, like many men who seem to be
-of a mere vivacious vulgarity, sudden movements of good taste.
-Here he certainly saved the situation.  In the midst of this
-staggering transformation scene he stepped forward with all
-the gravity and responsibility of a second, and addressed
-the two seconds of the Marquis.

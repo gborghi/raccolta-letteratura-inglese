@@ -1,5 +1,5 @@
 ---
-title: "The [[history|History]] of [[King Lear]] (Quarto Text) — Scene 24 — exchange (THE PERSONS OF THE PLAY) [8]"
+title: "The History of King Lear (Quarto Text) — Scene 24 — exchange (THE PERSONS OF THE PLAY) [8]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-history-of-king-lear---the-quarto-text-(shakespeare)"

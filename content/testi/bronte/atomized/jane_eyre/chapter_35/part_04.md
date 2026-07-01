@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 35 (part 4)"
+title: "Jane Eyre — Chapter 35 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,23 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_35/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_36/part_01">part 01 ›</a></div>
 </nav>
 
+
+He laid his hand on my head as he uttered the last words. He had spoken
+earnestly, mildly: his look was not, indeed, that of a [[Lover|lover]] beholding
+his mistress, but it was that of a pastor recalling his wandering
+sheep—or better, of a guardian angel watching the [[Soul|soul]] for which he is
+responsible. All men of talent, whether they be men of feeling or not;
+whether they be zealots, or aspirants, or despots—provided only they be
+sincere—have their [[Sublime|sublime]] moments, when they subdue and rule. I felt
+veneration for St. John—veneration so strong that its impetus thrust me
+at once to the point I had so long shunned. I was tempted to cease
+struggling with him—to rush down the torrent of his will into the gulf
+of his existence, and there lose my own. I was almost as hard beset by
+him now as I had been once before, in a different way, by another. I
+was a [[Fool|fool]] both times. To have yielded then would have been an error of
+principle; to have yielded now would have been an error of judgment. So
+I think at this hour, when I look back to the crisis through the quiet
+medium of [[Time|time]]: I was unconscious of folly at the instant.
 
 I stood motionless under my hierophant’s touch. My refusals were
 forgotten—my fears overcome—my wrestlings paralysed. The
@@ -29,7 +46,7 @@ more potent is it than force! I could resist St. John’s wrath: I grew
 pliant as a reed under his kindness. Yet I knew all the [[Time|time]], if I
 yielded now, I should not the less be made to repent, some day, of my
 former rebellion. His [[Nature|nature]] was not changed by one hour of solemn
-[[Prayer|prayer]]: it was only elevated.
+[[prayer]]: it was only elevated.
 
 “I could decide if I were but certain,” I answered: “were I but
 convinced that it is God’s will I should marry you, I could vow to

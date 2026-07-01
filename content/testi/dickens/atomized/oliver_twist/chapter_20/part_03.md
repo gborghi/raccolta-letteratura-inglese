@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 20 (part 3)"
+title: "Oliver Twist — Chapter 20 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_20/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_21/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Now, first: do you know wot this is?” inquired Sikes, taking up a
+pocket-[[Pistol|pistol]] which lay on the table.
+
+[[Oliver]] replied in the affirmative.
+
+“[[Well]], then, look here,” continued Sikes. “This is powder; that ’ere’s
+a bullet; and this is a little bit of a old hat for waddin’.”
+
+[[Oliver]] murmured his comprehension of the different bodies referred to;
+and Mr. Sikes proceeded to load the [[Pistol|pistol]], with great nicety and
+deliberation.
+
+“Now it’s loaded,” said Mr. Sikes, when he had finished.
 
 “Yes, I see it is, sir,” replied [[Oliver]].
 

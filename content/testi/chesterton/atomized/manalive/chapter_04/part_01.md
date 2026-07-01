@@ -1,5 +1,5 @@
 ---
-title: "[[manalive]] — Chapter 4 (part 1)"
+title: "manalive — Chapter 4 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/manalive-(chesterton)"
@@ -17,7 +17,6 @@ tags:
 			 Chapter IV
 
 		    The [[Garden]] of the God
-
 
 [[Diana]] Duke seemed inexplicably irritated at the abrupt entrance
 and utterance of the other girl.
@@ -142,6 +141,3 @@ It's not liberty, Rosamund.  Unless you marry God, as our nuns do in Ireland,
 you must marry Man--that is Me.  The only third thing is to marry yourself--
 yourself, yourself, yourself--the only companion that is never satisfied--
 and never satisfactory."
-
-"[[Michael]]," said Miss Hunt, in a very soft voice, "if you won't talk so much,
-I'll marry you."

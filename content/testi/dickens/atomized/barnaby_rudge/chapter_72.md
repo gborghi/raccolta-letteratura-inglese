@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 72"
+title: "Barnaby Rudge — Chapter 72"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -140,10 +140,10 @@ took off.’
 ‘At the defence of the Salwanners,’ repeated Mr Willet, softly; again
 looking round the table.
 
-‘In [[America]], where the war is,’ said Joe.
+‘In [[america|America]], where the war is,’ said Joe.
 
-‘In [[America]], where the war is,’ repeated Mr Willet. ‘It was took off in
-the defence of the Salwanners in [[America]] where the war is.’ Continuing
+‘In [[america|America]], where the war is,’ repeated Mr Willet. ‘It was took off in
+the defence of the Salwanners in [[america|America]] where the war is.’ Continuing
 to repeat these words to himself in a low tone of voice (the same
 information had been conveyed to him in the same terms, at least fifty
 times before), Mr Willet arose from table, walked round to Joe, felt his
@@ -152,7 +152,7 @@ arm remained; shook his hand; lighted his pipe at the [[Fire|fire]], took a long
 whiff, walked to the door, turned round once when he had reached it,
 wiped his left eye with the back of his forefinger, and said, in
 a faltering voice: ‘My son’s arm--was took off--at the defence of
-the--Salwanners--in [[America]]--where the war is’--with which words he
+the--Salwanners--in [[america|America]]--where the war is’--with which words he
 withdrew, and returned no more that [[Night|night]].
 
 Indeed, on various pretences, they all withdrew one after another, save

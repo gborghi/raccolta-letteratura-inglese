@@ -1,5 +1,5 @@
 ---
-title: "[[divorce|Divorce]] [[Democracy]] (part 2)"
+title: "Divorce Democracy (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/divorce-democracy-(chesterton)"
@@ -109,21 +109,3 @@ would be to punish or [[divorce]] a gentleman for slamming a door.
 Yet who can [[Doubt|doubt]], if ever [[divorce]] is applied to the populace,
 it would be applied in the spirit which takes the blow quite seriously?
 If any one doubts it, he does not know what world he is living in.
-
-It is common to meet nowadays men who talk of what they call Free [[Love]]
-as if it were something like Free Silver--a new and ingenious
-political scheme.  They seem to forget that it is as easy to judge
-what it would be like as to judge of what legal [[Marriage|marriage]] would be like.
-"Free [[Love]]" has been going on in every town and village since
-the beginning of the world; and the first fact that every man of
-the world knows about it is plain enough.  It never does produce any
-of the wild purity and perfect [[Freedom|freedom]] its friends attribute to it.
-If any paper had the pluck to head a column "Is Concubinage a Failure?"
-instead of "Is [[Marriage]] a Failure?" the answer "Yes" would be given
-by the personal [[Memory|memory]] of all.  Modern people perpetually quote some
-wild expression of [[Monks|monks]] in the wilderness (when a whole civilisation
-was maddened by remorse) about the perilous quality of Woman,
-about how she was a spectre and a serpent and a destroying [[Fire|fire]].
-Probably the establishment of nuns, situated a few miles off,
-described Man also as a serpent and a spectre; but their works
-have not come down to us.

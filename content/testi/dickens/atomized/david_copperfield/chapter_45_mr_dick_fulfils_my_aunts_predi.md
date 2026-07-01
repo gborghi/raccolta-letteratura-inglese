@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 45: MR. DICK FULFILS MY AUNT’S PREDICTIONS"
+title: "David Copperfield — Chapter 45: MR. DICK FULFILS MY AUNT’S PREDICTIONS"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/david-copperfield-(dickens)"

@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 15 (part 2)"
+title: "Mansfield Park — Chapter 15 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/mansfield_park/chapter_15/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/mansfield_park/chapter_15/part_03">part 03 ›</a></div>
 </nav>
 
+
+“There, my dear, do you hear what [[Edmund]] says?”
+
+“If I were to decline the part,” said [[Maria]], with renewed zeal, “[[Julia]]
+would certainly take it.”
+
+“What!” cried [[Edmund]], “if she knew your reasons!”
+
+“Oh! she might think the difference between us—the difference in our
+situations—that _she_ need not be so scrupulous as _I_ might feel
+necessary. I am sure she would argue so. No; you must excuse me; I
+cannot retract my consent; it is too far settled, everybody would be so
+disappointed, Tom would be quite angry; and if we are so very nice, we
+shall never act anything.”
 
 “I was just going to say the very same thing,” said Mrs. Norris. “If
 every play is to be objected to, you will act nothing, and the
@@ -104,20 +118,3 @@ to have.”
 
 “You chose very wisely, I am sure,” replied Miss Crawford, with a
 brightened look; “Anhalt is a heavy part.”
-
-“_The_ _Count_ has two-and-forty speeches,” returned Mr. Rushworth,
-“which is no trifle.”
-
-“I am not at all surprised,” said Miss Crawford, after a short pause,
-“at this want of an Anhalt. Amelia deserves no better. Such a forward
-young lady may [[Well|well]] frighten the men.”
-
-“I should be but too happy in taking the part, if it were possible,”
-cried Tom; “but, unluckily, the Butler and Anhalt are in together. I
-will not entirely give it up, however; I will try what can be done—I
-will look it over again.”
-
-“Your _brother_ should take the part,” said Mr. Yates, in a low voice.
-“Do not you think he would?”
-
-“_I_ shall not ask him,” replied Tom, in a cold, determined manner.

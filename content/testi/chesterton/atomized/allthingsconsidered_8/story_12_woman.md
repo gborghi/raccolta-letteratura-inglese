@@ -1,5 +1,5 @@
 ---
-title: "[[AllThingsConsidered-8]] — WOMAN"
+title: "AllThingsConsidered-8 — WOMAN"
 author: "Chesterton"
 unitType: story
 parentWork: "works/allthingsconsidered-8-(chesterton)"
@@ -10,12 +10,11 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/allthingsconsidered-8-(chesterton)">AllThingsConsidered 8</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_11_oxford_from_without">‹ Story 11 OXFORD FROM WITHOUT</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_13_the_modern_martyr">Story 13 THE MODERN MARTYR ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_11_oxford_oxford_from_without">‹ Story 11 Oxford OXFORD FROM WITHOUT</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_13_the_modern_martyr">Story 13 THE MODERN MARTYR ›</a></div>
 </nav>
 
 
 WOMAN
-
 
 A correspondent has written me an able and interesting letter in the
 matter of some allusions of mine to the subject of communal kitchens.

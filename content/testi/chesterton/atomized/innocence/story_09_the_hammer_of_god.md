@@ -1,5 +1,5 @@
 ---
-title: "[[innocence]] — The Hammer of God"
+title: "innocence — The Hammer of God"
 author: "Chesterton"
 unitType: story
 parentWork: "works/innocence-(chesterton)"
@@ -25,7 +25,7 @@ of the place.  It was upon this crossway, in the lifting of a leaden
 and silver daybreak, that two brothers met in the street and spoke;
 though one was beginning the day and the other finishing it.
 The Rev. and Hon. Wilfred Bohun was very devout, and was making his
-way to some austere exercises of [[prayer]] or contemplation at [[Dawn|dawn]].
+way to some austere exercises of [[Prayer|prayer]] or contemplation at [[Dawn|dawn]].
 Colonel the Hon. Norman Bohun, his elder brother, was by no means devout,
 and was sitting in evening dress on the bench outside "The Blue Boar,"
 drinking what the philosophic observer was free to regard either
@@ -66,7 +66,7 @@ another and purer turn of the almost morbid thirst for [[Beauty|beauty]]
 which sent his brother raging after women and wine.
 This charge was doubtful, while the man's practical piety
 was indubitable.  Indeed, the charge was mostly an ignorant
-misunderstanding of the [[Love|love]] of [[Solitude|solitude]] and secret [[prayer]],
+misunderstanding of the [[Love|love]] of [[Solitude|solitude]] and secret [[Prayer|prayer]],
 and was founded on his being often found kneeling, not before
 the altar, but in peculiar places, in the crypts or gallery,
 or even in the belfry.  He was at the moment about to enter
@@ -429,14 +429,14 @@ I wanted; you have said the word."
 Then he continued, mastering his discomposure:  "The words you said were,
 `No man but an idiot would pick up the small hammer.'"
 
-"Yes," said the doctor.  "[[Well]]?"
+"Yes," said the doctor.  "Well?"
 
-"[[Well]]," said the curate, "no man but an idiot did."
+"Well," said the curate, "no man but an idiot did."
 The rest stared at him with eyes arrested and riveted,
 and he went on in a febrile and feminine agitation.
 
 "I am a priest," he cried unsteadily, "and a priest should be no shedder
-of [[Blood|blood]].  I--I mean that he should bring no one to the gallows.
+of blood.  I--I mean that he should bring no one to the gallows.
 And I thank God that I see the criminal clearly now--because he is
 a criminal who cannot be brought to the gallows."
 
@@ -456,10 +456,10 @@ My brother was mocking him."
 But how do you explain--"
 
 The Rev. Wilfred was almost trembling with the excitement of his own
-glimpse of the [[Truth|truth]].  "Don't you see; don't you see," he cried feverishly;
+glimpse of the truth.  "Don't you see; don't you see," he cried feverishly;
 "that is the only theory that covers both the queer things, that answers
 both the riddles.  The two riddles are the little hammer and the big blow.
-The [[smith]] might have struck the big blow, but would not have chosen
+The smith might have struck the big blow, but would not have chosen
 the little hammer.  His wife would have chosen the little hammer, but she
 could not have struck the big blow.  But the madman might have done both.
 As for the little hammer--why, he was mad and might have picked up anything.
@@ -469,12 +469,12 @@ paroxysm may have the strength of ten men?"
 The doctor drew a deep breath and then said, "By golly,
 I believe you've got it."
 
-[[Father Brown]] had fixed his eyes on the speaker so long
+Father Brown had fixed his eyes on the speaker so long
 and steadily as to prove that his large grey, ox-like eyes
 were not quite so insignificant as the rest of his face.
-When [[Silence|silence]] had fallen he said with marked respect:
+When silence had fallen he said with marked respect:
 "Mr. Bohun, yours is the only theory yet propounded which
-holds [[Water|water]] every way and is essentially unassailable.
+holds water every way and is essentially unassailable.
 I think, therefore, that you deserve to be told,
 on my positive knowledge, that it is not the true one."
 And with that the old little man walked away and stared again
@@ -493,7 +493,7 @@ party had broken up, they heard voices from the others.
 The priest looked up quietly and then looked down again
 as he heard the blacksmith say in a loud voice:
 
-"I [[Hope|hope]] I've convinced you, Mr. Inspector.  I'm a strong man,
+"I hope I've convinced you, Mr. Inspector.  I'm a strong man,
 as you say, but I couldn't have flung my hammer bang here
 from Greenford.  My hammer hasn't got wings that it should come
 flying half a mile over hedges and fields."
@@ -505,7 +505,7 @@ you can in finding a man as big and strong as yourself.
 By George! you might be useful, if only to hold him!
 I suppose you yourself have no guess at the man?"
 
-"I may have a guess," said the pale [[smith]], "but it is not at
+"I may have a guess," said the pale smith, "but it is not at
 a man."  Then, seeing the scared eyes turn towards his wife
 on the bench, he put his huge hand on her shoulder and said:
 "Nor a woman either."
@@ -514,7 +514,7 @@ on the bench, he put his huge hand on her shoulder and said:
 "You don't think cows use hammers, do you?"
 
 "I think no thing of flesh held that hammer," said the blacksmith
-in a stifled voice; "mortally speaking, I think the man died [[Alone|alone]]."
+in a stifled voice; "mortally speaking, I think the man died alone."
 
 Wilfred made a sudden forward movement and peered at him with burning eyes.
 
@@ -522,9 +522,9 @@ Wilfred made a sudden forward movement and peered at him with burning eyes.
 "that the hammer jumped up of itself and knocked the man down?"
 
 "Oh, you gentlemen may stare and snigger," cried Simeon;
-"you clergymen who tell us on [[Sunday]] in what a stillness
+"you clergymen who tell us on Sunday in what a stillness
 the Lord smote Sennacherib.  I believe that One who walks
-invisible in every [[house]] defended the [[Honour|honour]] of mine, and laid
+invisible in every house defended the honour of mine, and laid
 the defiler dead before the door of it.  I believe the force
 in that blow was just the force there is in earthquakes,
 and no force less."
@@ -535,27 +535,27 @@ Wilfred said, with a voice utterly undescribable:
 "That agent is outside my jurisdiction," said the inspector
 with a slight smile.
 
-"You are not outside His," answered the [[smith]]; "see you to it,"
-and, turning his broad back, he went into the [[house]].
+"You are not outside His," answered the smith; "see you to it,"
+and, turning his broad back, he went into the house.
 
-The shaken Wilfred was led away by [[Father Brown]], who had an easy
+The shaken Wilfred was led away by Father Brown, who had an easy
 and friendly way with him.  "Let us get out of this horrid place,
 Mr. Bohun," he said.  "May I look inside your church?  I hear it's
 one of the oldest in England.  We take some interest, you know,"
 he added with a comical grimace, "in old English churches."
 
-Wilfred Bohun did not smile, for [[Humour|humour]] was never his strong point.
+Wilfred Bohun did not smile, for humour was never his strong point.
 But he nodded rather eagerly, being only too ready to explain the Gothic
 splendours to someone more likely to be sympathetic than the Presbyterian
 blacksmith or the atheist cobbler.
 
 "By all means," he said; "let us go in at this side."  And he led
 the way into the high side entrance at the top of the flight of steps.
-[[Father Brown]] was mounting the first step to follow him when he felt a hand
+Father Brown was mounting the first step to follow him when he felt a hand
 on his shoulder, and turned to behold the dark, thin figure of the doctor,
 his face darker yet with suspicion.
 
-"Sir," said the physician harshly, "you appear to know some [[Secrets|secrets]] in this
+"Sir," said the physician harshly, "you appear to know some secrets in this
 black business.  May I ask if you are going to keep them to yourself?"
 
 "Why, doctor," answered the priest, smiling quite pleasantly,
@@ -566,16 +566,16 @@ of them.  But if you think I have been discourteously reticent
 with you or anyone, I will go to the extreme limit of my custom.
 I will give you two very large hints."
 
-"[[Well]], sir?" said the doctor gloomily.
+"Well, sir?" said the doctor gloomily.
 
-"First," said [[Father Brown]] quietly, "the thing is quite
+"First," said Father Brown quietly, "the thing is quite
 in your own province.  It is a matter of physical science.
 The blacksmith is mistaken, not perhaps in saying that the blow
 was divine, but certainly in saying that it came by a miracle.
 It was no miracle, doctor, except in so far as man is himself
 a miracle, with his strange and wicked and yet half-heroic heart.
-The force that smashed that skull was a force [[Well|well]] known to scientists--
-one of the most frequently debated of the laws of [[Nature|nature]]."
+The force that smashed that skull was a force well known to scientists--
+one of the most frequently debated of the laws of nature."
 
 The doctor, who was looking at him with frowning intentness, only said:
 "And the other hint?"
@@ -586,19 +586,19 @@ tale that his hammer had wings and flew half a mile across country?"
 
 "Yes," said the doctor, "I remember that."
 
-"[[Well]]," added [[Father Brown]], with a broad smile, "that fairy tale
-was the nearest thing to the real [[Truth|truth]] that has been said today."
+"Well," added Father Brown, with a broad smile, "that fairy tale
+was the nearest thing to the real truth that has been said today."
 And with that he turned his back and stumped up the steps
 after the curate.
 
 The Reverend Wilfred, who had been waiting for him, pale and impatient,
 as if this little delay were the last straw for his nerves, led him
 immediately to his favourite corner of the church, that part of the gallery
-closest to the carved roof and lit by the wonderful [[Window|window]] with the angel.
+closest to the carved roof and lit by the wonderful window with the angel.
 The little Latin priest explored and admired everything exhaustively,
-talking cheerfully but in a low voice all the [[Time|time]].  When in the course
+talking cheerfully but in a low voice all the time.  When in the course
 of his investigation he found the side exit and the winding stair down
-which Wilfred had rushed to find his brother dead, [[Father Brown]] ran
+which Wilfred had rushed to find his brother dead, Father Brown ran
 not down but up, with the agility of a monkey, and his clear voice came
 from an outer platform above.
 
@@ -606,25 +606,25 @@ from an outer platform above.
 
 Bohun followed him, and came out on a kind of stone gallery or balcony
 outside the building, from which one could see the illimitable plain in
-which their small [[Hill|hill]] stood, wooded away to the purple horizon and dotted
+which their small hill stood, wooded away to the purple horizon and dotted
 with villages and farms.  Clear and square, but quite small beneath them,
 was the blacksmith's yard, where the inspector still stood taking notes
 and the corpse still lay like a smashed fly.
 
-"Might be the map of the world, mightn't it?" said [[Father Brown]].
+"Might be the map of the world, mightn't it?" said Father Brown.
 
 "Yes," said Bohun very gravely, and nodded his head.
 
 Immediately beneath and about them the lines of the Gothic building plunged
-outwards into the void with a sickening swiftness akin to [[suicide]].
+outwards into the void with a sickening swiftness akin to suicide.
 There is that element of Titan energy in the architecture of the
 Middle Ages that, from whatever aspect it be seen, it always seems
-to be rushing away, like the strong back of some maddened [[Horse|horse]].
+to be rushing away, like the strong back of some maddened horse.
 This church was hewn out of ancient and silent stone, bearded with old
-fungoids and stained with the nests of [[Birds|birds]].  And yet, when they saw it
-from below, it sprang like a fountain at the [[Stars|stars]]; and when they saw it,
+fungoids and stained with the nests of birds.  And yet, when they saw it
+from below, it sprang like a fountain at the stars; and when they saw it,
 as now, from above, it poured like a cataract into a voiceless pit.
-For these two men on the tower were left [[Alone|alone]] with the most terrible
+For these two men on the tower were left alone with the most terrible
 aspect of Gothic; the monstrous foreshortening and disproportion,
 the dizzy perspectives, the glimpses of great things small and small
 things great; a topsy-turvydom of stone in the mid-air. Details of stone,
@@ -633,25 +633,25 @@ and farms, pygmy in their distance.  A carved bird or beast at a corner
 seemed like some vast walking or flying dragon wasting the pastures
 and villages below.  The whole atmosphere was dizzy and dangerous,
 as if men were upheld in air amid the gyrating wings of colossal genii;
-and the whole of that old church, as tall and rich as a [[Cathedral|cathedral]],
+and the whole of that old church, as tall and rich as a cathedral,
 seemed to sit upon the sunlit country like a cloudburst.
 
 "I think there is something rather dangerous about standing on these high
-places even to pray," said [[Father Brown]].  "Heights were made to be looked at,
+places even to pray," said Father Brown.  "Heights were made to be looked at,
 not to be looked from."
 
 "Do you mean that one may fall over," asked Wilfred.
 
-"I mean that one's [[Soul|soul]] may fall if one's [[Body|body]] doesn't,"
+"I mean that one's soul may fall if one's body doesn't,"
 said the other priest.
 
 "I scarcely understand you," remarked Bohun indistinctly.
 
-"Look at that blacksmith, for instance," went on [[Father Brown]] calmly;
-"a good man, but not a Christian--hard, imperious, unforgiving.  [[Well]], his
+"Look at that blacksmith, for instance," went on Father Brown calmly;
+"a good man, but not a Christian--hard, imperious, unforgiving.  Well, his
 Scotch religion was made up by men who prayed on hills and high crags,
 and learnt to look down on the world more than to look up at heaven.
-[[Humility]] is the mother of giants.  One sees great things from the valley;
+Humility is the mother of giants.  One sees great things from the valley;
 only small things from the peak."
 
 "But he--he didn't do it," said Bohun tremulously.
@@ -663,7 +663,7 @@ his pale grey eyes.  "I knew a man," he said, "who began by worshipping
 with others before the altar, but who grew fond of high and lonely
 places to pray from, corners or niches in the belfry or the spire.
 And once in one of those dizzy places, where the whole world
-seemed to turn under him like a [[Wheel|wheel]], his brain turned also,
+seemed to turn under him like a wheel, his brain turned also,
 and he fancied he was God.  So that, though he was a good man,
 he committed a great crime."
 
@@ -672,22 +672,22 @@ and white as they tightened on the parapet of stone.
 
 "He thought it was given to him to judge the world and strike down
 the sinner.  He would never have had such a thought if he had been kneeling
-with other men upon a floor.  But he saw all men walking about like [[Insects|insects]].
+with other men upon a floor.  But he saw all men walking about like insects.
 He saw one especially strutting just below him, insolent and evident
 by a bright green hat--a poisonous insect."
 
 Rooks cawed round the corners of the belfry; but there was no other sound
-till [[Father Brown]] went on.
+till Father Brown went on.
 
 "This also tempted him, that he had in his hand one of the most awful
-engines of [[Nature|nature]]; I mean gravitation, that mad and quickening rush
+engines of nature; I mean gravitation, that mad and quickening rush
 by which all earth's creatures fly back to her heart when released.
 See, the inspector is strutting just below us in the smithy.
 If I were to toss a pebble over this parapet it would be something
-like a bullet by the [[Time|time]] it struck him.  If I were to drop a hammer--
+like a bullet by the time it struck him.  If I were to drop a hammer--
 even a small hammer--"
 
-Wilfred Bohun threw one leg over the parapet, and [[Father Brown]]
+Wilfred Bohun threw one leg over the parapet, and Father Brown
 had him in a minute by the collar.
 
 "Not by that door," he said quite gently; "that door leads to hell."
@@ -696,35 +696,35 @@ Bohun staggered back against the wall, and stared at him with frightful eyes.
 
 "How do you know all this?" he cried.  "Are you a devil?"
 
-"I am a man," answered [[Father Brown]] gravely; "and therefore have all
+"I am a man," answered Father Brown gravely; "and therefore have all
 devils in my heart.  Listen to me," he said after a short pause.
 "I know what you did--at least, I can guess the great part of it.
 When you left your brother you were racked with no unrighteous rage,
 to the extent even that you snatched up a small hammer, half inclined
 to kill him with his foulness on his mouth.  Recoiling, you thrust
 it under your buttoned coat instead, and rushed into the church.
-You pray wildly in many places, under the angel [[Window|window]], upon the
+You pray wildly in many places, under the angel window, upon the
 platform above, and a higher platform still, from which you could see
 the colonel's Eastern hat like the back of a green beetle crawling about.
-Then something snapped in your [[Soul|soul]], and you let God's thunderbolt fall."
+Then something snapped in your soul, and you let God's thunderbolt fall."
 
 Wilfred put a weak hand to his head, and asked in a low voice:
 "How did you know that his hat looked like a green beetle?"
 
-"Oh, that," said the other with the [[Shadow|shadow]] of a smile, "that was
+"Oh, that," said the other with the shadow of a smile, "that was
 common sense.  But hear me further.  I say I know all this;
 but no one else shall know it.  The next step is for you; I shall
 take no more steps; I will seal this with the seal of confession.
 If you ask me why, there are many reasons, and only one that concerns you.
 I leave things to you because you have not yet gone very far wrong,
-as assassins go.  You did not help to fix the crime on the [[smith]]
+as assassins go.  You did not help to fix the crime on the smith
 when it was easy; or on his wife, when that was easy.  You tried
 to fix it on the imbecile because you knew that he could not suffer.
 That was one of the gleams that it is my business to find in assassins.
-And now come down into the village, and go your own way as free as the [[Wind|wind]];
+And now come down into the village, and go your own way as free as the wind;
 for I have said my last word."
 
-They went down the winding stairs in utter [[Silence|silence]], and came out
+They went down the winding stairs in utter silence, and came out
 into the sunlight by the smithy.  Wilfred Bohun carefully unlatched
 the wooden gate of the yard, and going up to the inspector, said:
 "I wish to give myself up; I have killed my brother."

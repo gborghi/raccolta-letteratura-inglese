@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 14 (part 3)"
+title: "Northanger Abbey — Chapter 14 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_15/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_16/part_01">part 01 ›</a></div>
 </nav>
 
+
+politics, it was an easy step to [[Silence|silence]]. The general pause which
+
+succeeded his short disquisition on the state of the nation was put an
+
+end to by Catherine, who, in rather a solemn tone of voice, uttered
+
+these words, “I have heard that something very shocking indeed will
 
 soon come out in [[London]].”
 

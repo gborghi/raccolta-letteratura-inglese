@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 5"
+title: "The Tenant of Wildfell Hall — Chapter 5"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -136,7 +136,7 @@ anything to change the subject.
 
 
 
-“Mamma sends all her pictures to [[London]],” said [[arthur|Arthur]]; “and somebody
+“Mamma sends all her pictures to [[London]],” said [[Arthur]]; “and somebody
 
 sells them for her there, and sends us the money.”
 
@@ -198,7 +198,7 @@ and the left, when she checked me with,—
 
 directions before I require them. I shall not think about going till
 
-next [[spring]]; and then, perhaps, I may trouble you. At present we have
+next [[Spring|spring]]; and then, perhaps, I may trouble you. At present we have
 
 the [[Winter|winter]] before us, and—”
 
@@ -222,7 +222,7 @@ large holly-bush that stood between the [[Window|window]] and the porch.
 
 
 
-“It’s mamma’s friend,” said [[arthur|Arthur]].
+“It’s mamma’s friend,” said [[Arthur]].
 
 
 
@@ -248,7 +248,7 @@ through a shock of light brown curls, shaken over the forehead as it
 
 bent above its treasure, bore sufficient resemblance to those of the
 
-young gentleman before me to proclaim it a portrait of [[arthur|Arthur]] Graham in
+young gentleman before me to proclaim it a portrait of [[Arthur]] Graham in
 
 his early infancy.
 

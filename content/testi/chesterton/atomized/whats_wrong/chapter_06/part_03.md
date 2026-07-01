@@ -1,5 +1,5 @@
 ---
-title: "whats wrong — Part 1 (part 3)"
+title: "whats wrong — Part 2 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/whats-wrong-(chesterton)"
@@ -14,116 +14,124 @@ tags:
 </nav>
 
 
-This definite ideal is a far more urgent and practical matter in our
-existing English trouble than any immediate plans or proposals.
-For the present chaos is due to a sort of general oblivion
-of all that men were originally aiming at.  No man demands
-what he desires; each man demands what he fancies he can get.
-Soon people forget what the man really wanted first; and after
-a successful and vigorous political life, he forgets it himself.
-The whole is an extravagant riot of second bests, a pandemonium
-of pis-aller. Now this sort of pliability does not merely prevent any
-heroic consistency, it also prevents any really practical compromise.
-One can only find the middle distance between two points
-if the two points will stand still.  We may make an arrangement
-between two litigants who cannot both get what they want;
-but not if they will not even tell us what they want.
-The keeper of a restaurant would much prefer that each customer
-should give his order smartly, though it were for stewed ibis
-or boiled elephant, rather than that each customer should
-sit holding his head in his hands, plunged in arithmetical
-calculations about how much food there can be on the premises.
-Most of us have suffered from a certain sort of ladies who, by their
-perverse unselfishness, give more trouble than the selfish; who almost
-clamor for the unpopular dish and scramble for the worst seat.
-Most of us have known parties or expeditions full of this seething
-fuss of [[Self|self]]-effacement. From much meaner motives than those of such
-admirable women, our practical politicians keep things in the same
-confusion through the same [[Doubt|doubt]] about their real demands.
-There is nothing that so much prevents a settlement as a tangle
-of small surrenders.  We are bewildered on every side by politicians
-who are in favor of secular [[Education|education]], but think it hopeless
-to work for it; who [[Desire|desire]] total prohibition, but are certain
-they should not demand it; who regret compulsory [[Education|education]],
-but resignedly continue it; or who want peasant proprietorship
-and therefore vote for something else.  It is this dazed and
-floundering opportunism that gets in the way of everything.
-If our statesmen were visionaries something practical might be done.
-If we ask for something in the abstract we might get something
-in the concrete.  As it is, it is not only impossible to get
-what one wants, but it is impossible to get any part of it,
-because nobody can mark it out plainly like a map.  That clear
-and even hard quality that there was in the old bargaining has
-wholly vanished.  We forget that the word "compromise" contains,
-among other things, the rigid and ringing word "promise."
-Moderation is not vague; it is as definite as perfection.
-The middle point is as fixed as the extreme point.
+All true [[Comradeship|comradeship]] has in it those three elements which I have
+remarked in the ordinary exclamation about the weather.  First, it has
+a sort of broad [[philosophy]] like the common sky, emphasizing that we
+are all under the same cosmic conditions.  We are all in the same boat,
+the "winged rock" of Mr. Herbert Trench.  Secondly, it recognizes
+this bond as the essential one; for [[Comradeship|comradeship]] is simply
+humanity seen in that one aspect in which men are really equal.
+The old writers were entirely wise when they talked of the equality
+of men; but they were also very wise in not mentioning women.
+Women are always authoritarian; they are always above or below;
+that is why [[Marriage|marriage]] is a sort of poetical see-saw. There are
+only three things in the world that women do not understand;
+and they are Liberty, Equality, and Fraternity.  But men (a class
+little understood in the modern world) find these things the breath
+of their nostrils; and our most learned ladies will not even begin
+to understand them until they make allowance for this kind of
+cool camaraderie.  Lastly, it contains the third quality of the weather,
+the insistence upon the [[Body|body]] and its indispensable satisfaction.
+No one has even begun to understand [[Comradeship|comradeship]] who does not accept
+with it a certain hearty eagerness in eating, drinking, or smoking,
+an uproarious materialism which to many women appears only hoggish.
+You may call the thing an orgy or a sacrament; it is certainly
+an essential.  It is at root a resistance to the superciliousness
+of the individual.  Nay, its very swaggering and howling are humble.
+In the heart of its rowdiness there is a sort of mad modesty; a [[Desire|desire]]
+to melt the separate [[Soul|soul]] into the mass of unpretentious masculinity.
+It is a clamorous confession of the weakness of all flesh.
+No man must be superior to the things that are common to men.
+This sort of equality must be bodily and gross and comic.
+Not only are we all in the same boat, but we are all seasick.
 
-If I am made to walk the plank by a pirate, it is vain
-for me to offer, as a common-sense compromise, to walk
-along the plank for a reasonable distance.  It is exactly
-about the reasonable distance that the pirate and I differ.
-There is an exquisite mathematical split second at which the plank
-tips up.  My common-sense ends just before that instant;
-the pirate's common-sense begins just beyond it.
-But the point itself is as hard as any geometrical diagram;
-as abstract as any theological dogma.
+The word [[Comradeship|comradeship]] just now promises to become as fatuous as
+the word "affinity."  There are clubs of a Socialist sort where all
+the members, men and women, call each other "Comrade."  I have no
+serious emotions, hostile or otherwise, about this particular habit:
+at the worst it is conventionality, and at the best flirtation.
+I am convinced here only to point out a rational principle.
+If you choose to lump all [[Flowers|flowers]] together, lilies and dahlias
+and tulips and chrysanthemums and call them all daisies,
+you will find that you have spoiled the very fine word daisy.
+If you choose to call every human attachment [[Comradeship|comradeship]],
+if you include under that name the respect of a youth for a
+venerable prophetess, the interest of a man in a beautiful woman
+who baffles him, the pleasure of a philosophical old fogy in a girl
+who is impudent and [[Innocent|innocent]], the end of the meanest quarrel
+or the beginning of the most mountainous [[Love|love]]; if you are going
+to call all these [[Comradeship|comradeship]], you will gain nothing, you will
+only lose a word.  Daisies are obvious and universal and open;
+but they are only one kind of flower.  [[Comradeship]] is obvious
+and universal and open; but it is only one kind of affection;
+it has characteristics that would destroy any other kind.
+Anyone who has known true [[Comradeship|comradeship]] in a club or in a regiment,
+knows that it is impersonal.  There is a pedantic phrase used
+in debating clubs which is strictly true to the masculine emotion;
+they call it "speaking to the question."  Women speak to each other;
+men speak to the subject they are speaking about.  Many an honest
+man has sat in a ring of his five best friends under heaven
+and forgotten who was in the room while he explained some system.
+This is not peculiar to intellectual men; men are all theoretical,
+whether they are talking about God or about golf.
+Men are all impersonal; that is to say, republican.  No one
+remembers after a really good talk who has said the good things.
+Every man speaks to a visionary multitude; a mystical cloud,
+that is called the club.
+
+It is obvious that this cool and careless quality which is essential
+to the collective affection of males involves disadvantages and dangers.
+It leads to spitting; it leads to coarse speech; it must lead to
+these things so long as it is honorable; [[Comradeship|comradeship]] must be in some
+degree ugly.  The moment [[Beauty|beauty]] is mentioned in male [[Friendship|friendship]],
+the nostrils are stopped with the smell of abominable things.
+[[Friendship]] must be physically dirty if it is to be morally clean.
+It must be in its shirt sleeves.  The chaos of habits that always goes
+with males when left entirely to themselves has only one honorable cure;
+and that is the strict discipline of a monastery.  Anyone who has
+seen our unhappy young idealists in East End Settlements losing their
+collars in the wash and living on tinned salmon will fully understand
+why it was decided by the wisdom of St. Bernard or St. Benedict,
+that if men were to live without women, they must not live without rules.
+Something of the same sort of artificial exactitude, of course,
+is obtained in an army; and an army also has to be in many ways monastic;
+only that it has celibacy without chastity.  But these things do not
+apply to normal married men.  These have a quite sufficient restraint
+on their instinctive anarchy in the savage common-sense of the other sex.
+There is only one very timid sort of man that is not afraid of women.
 
 * * *
 
 III
 
-THE NEW HYPOCRITE
+THE COMMON VISION
 
-But this new cloudy political cowardice has rendered useless
-the old English compromise.  People have begun to be
-terrified of an improvement merely because it is complete.
-They call it utopian and revolutionary that anyone should really
-have his own way, or anything be really done, and done with.
-Compromise used to mean that half a loaf was better than no bread.
-Among modern statesmen it really seems to mean that half a loaf
-is better than a whole loaf.
-
-As an instance to sharpen the argument, I take the one case
-of our everlasting [[Education|education]] bills.  We have actually contrived
-to invent a new kind of hypocrite.  The old hypocrite,
-Tartuffe or Pecksniff, was a man whose aims were really worldly
-and practical, while he pretended that they were religious.
-The new hypocrite is one whose aims are really religious,
-while he pretends that they are worldly and practical.
-The Rev. Brown, the Wesleyan minister, sturdily declares
-that he cares nothing for creeds, but only for [[Education|education]];
-meanwhile, in [[Truth|truth]], the wildest Wesleyanism is tearing his [[Soul|soul]].
-The Rev. [[smith|Smith]], of the Church of England, explains gracefully,
-with the [[Oxford]] manner, that the only question for him is
-the prosperity and efficiency of the schools; while in [[Truth|truth]]
-all the evil passions of a curate are roaring within him.
-It is a fight of creeds masquerading as policies.
-I think these reverend gentlemen do themselves wrong; I think
-they are more pious than they will admit.  Theology is not
-(as some suppose) expunged as an error.  It is merely concealed,
-like a sin.  Dr. [[Clifford]] really wants a theological atmosphere
-as much as Lord Halifax; only it is a different one.
-If Dr. [[Clifford]] would ask plainly for [[Puritanism]] and Lord Halifax
-ask plainly for Catholicism, something might be done for them.
-We are all, one hopes, imaginative enough to recognize the dignity
-and distinctness of another religion, like [[Islam]] or the cult
-of [[Apollo]].  I am quite ready to respect another man's [[Faith|faith]];
-but it is too much to ask that I should respect his [[Doubt|doubt]],
-his worldly hesitations and fictions, his political bargain
-and make-believe. Most Nonconformists with an instinct for
-English [[history]] could see something poetic and national about
-the Archbishop of Canterbury as an Archbishop of Canterbury.  It is
-when he does the rational British statesman that they very
-justifiably get annoyed.  Most Anglicans with an eye for pluck
-and simplicity could admire Dr. [[Clifford]] as a Baptist minister.
-It is when he says that he is simply a citizen that nobody can
-possibly believe him.
-
-But indeed the case is yet more curious than this.
-The one argument that used to be urged for our creedless
-vagueness was that at least it saved us from [[Fanaticism|fanaticism]].
-But it does not even do that.  On the contrary, it creates
-and renews [[Fanaticism|fanaticism]] with a force quite peculiar to itself.
-This is at once so strange and so true that I will ask the reader's
-attention to it with a little more precision.
+Now this masculine [[Love|love]] of an open and level camaraderie is
+the life within all democracies and attempts to govern by [[debate]];
+without it the republic would be a dead formula.  Even as it is,
+of course, the spirit of [[Democracy|democracy]] frequently differs widely
+from the letter, and a pothouse is often a better test than
+a Parliament.  [[Democracy]] in its human sense is not arbitrament
+by the majority; it is not even arbitrament by everybody.
+It can be more nearly defined as arbitrament by anybody.
+I mean that it rests on that club habit of taking a total
+stranger for granted, of assuming certain things to be inevitably
+common to yourself and him.  Only the things that anybody
+may be presumed to hold have the full authority of [[Democracy|democracy]].
+Look out of the [[Window|window]] and notice the first man who walks by.
+The Liberals may have swept England with an over-whelming majority;
+but you would not stake a button that the man is a Liberal.  The [[Bible]]
+may be read in all schools and respected in all law courts; but you
+would not bet a straw that he believes in the [[Bible]].  But you would bet
+your week's wages, let us say, that he believes in wearing clothes.
+You would bet that he believes that physical [[Courage|courage]] is a fine thing,
+or that parents have authority over children.  Of course,
+he might be the millionth man who does not believe these things;
+if it comes to that, he might be the Bearded Lady dressed up as a man.
+But these prodigies are quite a different thing from any mere
+calculation of numbers.  People who hold these views are not a minority,
+but a monstrosity.  But of these universal dogmas that have full
+democratic authority the only test is this test of anybody.
+What you would observe before any newcomer in a tavern--that is
+the real English law.  The first man you see from the [[Window|window]],
+he is the [[King]] of England.

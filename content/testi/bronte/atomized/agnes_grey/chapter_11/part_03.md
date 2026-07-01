@@ -1,5 +1,5 @@
 ---
-title: "[[Agnes Grey]] — Chapter 11 (part 3)"
+title: "Agnes Grey — Chapter 11 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/agnes-grey-(bronte)"
@@ -14,6 +14,12 @@ tags:
 </nav>
 
 
+“Howsever, I follered his advice: I thought he meant it all for th’
+best, though he _had_ a queer way with him. But you know, Miss, he’s
+rich an’ young, and such like cannot right understand the thoughts of a
+poor old woman such as me. But, howsever, I did my best to do all as he
+bade me—but maybe I’m plaguing you, Miss, wi’ my chatter.”
+
 “Oh, no, [[Nancy]]! Go on, and tell me all.”
 
 “[[Well]], my rheumatiz got better—I know not whether wi’ going to church
@@ -23,9 +29,9 @@ wasn’t going to tell you about my eyes, I was talking about my trouble
 o’ mind;—and to tell the [[Truth|truth]], Miss Grey, I don’t think it was anyways
 eased by coming to church—nought to speak on, at least: I like got my
 health better; but that didn’t mend my [[Soul|soul]]. I hearkened and hearkened
-the ministers, and read an’ read at my [[Prayer|prayer]]-book; but it was all like
+the ministers, and read an’ read at my [[prayer]]-book; but it was all like
 sounding brass and a tinkling cymbal: the sermons I couldn’t
-understand, an’ th’ [[Prayer|prayer]]-book only served to show me how wicked I
+understand, an’ th’ [[prayer]]-book only served to show me how wicked I
 was, that I could read such good words an’ never be no better for it,
 and oftens feel it a sore labour an’ a heavy task beside, instead of a
 blessing and a privilege as all good Christians does. It seemed like as

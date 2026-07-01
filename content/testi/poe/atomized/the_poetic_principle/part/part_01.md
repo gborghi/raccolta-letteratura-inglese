@@ -1,5 +1,5 @@
 ---
-title: "[[The Poetic Principle]] (part 1)"
+title: "The Poetic Principle (part 1)"
 author: "Poe"
 unitType: excerpt
 tags:
@@ -97,7 +97,3 @@ In speaking of [[The Poetic Principle|the Poetic Principle]], I have no design t
       spirit-stirring, but in general they have been too imponderous to stamp
       themselves deeply into the public attention, and thus, as so many feathers
       of fancy, have been blown aloft only to be whistled down the [[Wind|wind]].
-
-      A remarkable instance of the effect of undue brevity in depressing a poem,
-      in keeping it out of the popular view, is afforded by the following
-      exquisite little Serenade—

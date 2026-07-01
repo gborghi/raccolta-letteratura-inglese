@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 11 (part 3)"
+title: "Oliver Twist — Chapter 11 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_11/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_12/part_01">part 01 ›</a></div>
 </nav>
 
+
+The man was right. His manner was determined; and the matter was
+growing rather too serious to be hushed up.
 
 “Swear the man,” growled Mr. Fang, with a very ill grace. “Now, man,
 what have you got to say?”

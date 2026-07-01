@@ -14,6 +14,11 @@ tags:
 </nav>
 
 
+'No; but I see what you mean,' said Stanes, 'by saying that I didn't
+even see the problem. It isn't merely who killed Sand; it's why anybody
+should accuse somebody else of killing Sand and then accuse Sand of
+killing himself.'
+
 [[Father Brown]]'s face was knotted and the cigar was clenched in his teeth;
 the end of it plowed and darkened rhythmically like the signal of some
 burning pulse of the brain. Then he spoke as if to himself:
@@ -117,30 +122,3 @@ note of his discoveries the day before old [[Hubert]] disappeared.'
 know where the [[Body|body]] is.'
 
 'Do you mean -?' began his host hastily.
-
-'It is here,' said [[Father Brown]], and stamped on the hearthrug. 'Here,
-under the elegant Persian rug in this cosy and comfortable room.'
-
-'Where in the world did you find that?'
-
-'I've just remembered,' said [[Father Brown]], 'that I found it in my
-[[Sleep|sleep]].'
-
-He closed his eyes as if trying to picture [[A Dream|a dream]], and went on
-dreamily:
-
-'This is a murder story turning on the problem of How to Hide the [[Body]];
-and I found it in my [[Sleep|sleep]]. I was always woken up every morning by
-hammering from this building. On that morning I half - woke up, went to
-[[Sleep|sleep]] again and woke once more, expecting to find it late; but it
-wasn't. Why? Because there had been hammering that morning, though all
-the usual work had stopped; short, hurried hammering in the small hours
-before [[Dawn|dawn]]. Automatically a man sleeping stirs at such a familiar
-sound. But he goes to [[Sleep|sleep]] again, because the usual sound is not at the
-usual hour. Now why did a certain secret criminal want all the work to
-cease suddenly; and only new workers come in? Because, if the old
-workers had come in next day, they would have found a new piece of work
-done in the [[Night|night]]. The old workers would have known where they left off;
-and they would have found the whole flooring of this room already nailed
-down. Nailed down by a man who knew how to do it; haying mixed a good
-deal with the workmen and learned their ways.'

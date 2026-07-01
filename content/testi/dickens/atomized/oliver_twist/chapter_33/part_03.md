@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 33 (part 3)"
+title: "Oliver Twist — Chapter 33 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,28 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_33/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_34/part_01">part 01 ›</a></div>
 </nav>
 
+
+The man shook his fist, as he uttered these words incoherently. He
+advanced towards [[Oliver]], as if with the intention of aiming a blow at
+him, but fell violently on the ground: writhing and foaming, in a fit.
+
+[[Oliver]] gazed, for a moment, at the struggles of the madman (for such he
+supposed him to be); and then darted into the [[house]] for help. Having
+seen him safely carried into the hotel, he turned his face homewards,
+running as fast as he could, to make up for lost [[Time|time]]: and recalling
+with a great deal of astonishment and some [[Fear|fear]], the extraordinary
+behaviour of the person from whom he had just parted.
+
+The circumstance did not dwell in his recollection long, however: for
+when he reached the cottage, there was enough to occupy his mind, and
+to drive all considerations of [[Self|self]] completely from his [[Memory|memory]].
+
+[[Rose Maylie]] had rapidly grown worse; before mid-[[Night|night]] she was
+delirious. A medical practitioner, who resided on the spot, was in
+constant attendance upon her; and after first seeing the patient, he
+had taken Mrs. Maylie aside, and pronounced her disorder to be one of a
+most alarming [[Nature|nature]]. “In fact,” he said, “it would be little short of
+a miracle, if she recovered.”
 
 How often did [[Oliver]] start from his bed that [[Night|night]], and stealing out,
 with noiseless footstep, to the staircase, listen for the slightest

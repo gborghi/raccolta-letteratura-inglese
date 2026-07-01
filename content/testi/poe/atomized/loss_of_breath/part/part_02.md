@@ -1,5 +1,5 @@
 ---
-title: "[[Loss of Breath]] (part 2)"
+title: "Loss of Breath (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/loss-of-breath-(poe)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/loss_of_breath/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/loss_of_breath/part/part_03">part 03 ›</a></div>
 </nav>
 
+
+      of billets-doux from Mr. Windenough to my wife. I might as [[Well|well]]
+
+      here observe that this confirmation of my lady’s partiality for
 
       Mr. W. occasioned me little uneasiness. That Mrs. Lackobreath
 
@@ -201,15 +205,3 @@ tags:
       under the left hind [[Wheel|wheel]] of the vehicle. I must besides do the
 
       driver the justice to state that he did not forget to throw after
-
-      me the largest of my trunks, which, unfortunately falling on my
-
-      head, fractured my skull in a manner at once interesting and
-
-      extraordinary.
-
-
-
-      The landlord of the “Crow,” who is a hospitable man, finding that
-
-      my trunk contained sufficient to indemnify him for any little

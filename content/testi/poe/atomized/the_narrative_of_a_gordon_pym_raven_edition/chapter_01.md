@@ -20,7 +20,7 @@ CHAPTER 1
 
 
 
-      My name is [[arthur|Arthur]] Gordon Pym. My father was a respectable trader
+      My name is [[Arthur]] Gordon Pym. My father was a respectable trader
 
       in sea-stores at Nantucket, where I was born. My maternal
 
@@ -108,7 +108,7 @@ CHAPTER 1
 
       started up, and swore with a terrible oath that he would not go
 
-      to [[Sleep|sleep]] for any [[arthur|Arthur]] Pym in Christendom, when there was so
+      to [[Sleep|sleep]] for any [[Arthur]] Pym in Christendom, when there was so
 
       glorious a breeze from the southwest. I never was so astonished
 

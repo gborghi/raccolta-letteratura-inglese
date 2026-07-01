@@ -20,7 +20,7 @@ tags:
 And the exuberant joy I take in it is the nearest thing I have ever
 known to art for art's sake.
 
-In short it seems to me that [[Milton]] was a great [[artist]], and that
+In short it seems to me that [[Milton]] was a great [[Artist|artist]], and that
 he was also a great accident.  It was rather in the same sense that
 his master Cromwell was a great accident.  It is not true that all
 the moral virtues were crystallized in [[Milton]] and his Puritans.
@@ -109,36 +109,3 @@ in everything except the fact (not wholly remote from [[Literary Criticism|liter
 that they did not write so [[Well|well]] as he did.  But they wrote [[Well|well]] enough
 to lift the load of materialism from the English name and show us
 the shining fields of a Paradise that is not wholly lost.
-
-Of such was the [[anti-puritan|anti-Puritan]] party; and the reader may learn
-more about it from the author of "The Glass of Fashion."
-There he may form a general idea of how, but for the Puritans, England
-would have been abandoned to mere ribaldry and licence; blasted by
-the blasphemies of George Herbert; rolled in the mire of the vile
-materialism of Vaughan; tickled to ribald laughter by the cheap
-cynicism and tap-room familiarities of Crashaw and Traherne.
-But the same Cavalier tradition continued into the next age,
-and indeed into the next century; and the critic must extend his
-condemnation to include the brutal buffooneries of Bishop Ken or the gay
-and careless worldliness of Jeremy Collier.  Nay, he must extend it
-to cover the last Tories who kept the tradition of the Jacobites;
-the careless merriment of Dean Swift, the godless dissipation
-of Dr. Johnson.  None of these men were Puritans; all of them
-were strong opponents of political and religious [[Puritanism]].
-The [[Truth|truth]] is that English literature bears a very continuous and
-splendid testimony to the fact that England was not merely Puritan.
-Ben Jonson in "Bartholomew Fair" spoke for most English people,
-and certainly for most English poets.  Anti-[[Puritanism]] was the one
-thing common to Shakespeare and Dryden, to Swift and Jonson,
-to Cobbett and Dickens.  And the historical bias the other way has come,
-not from Puritan superiority, but simply from Puritan [[success]].
-It was the political triumph of the party, in the Revolution and
-the resultant commercial industrialism, that suppressed the testimony
-of the populace and the poets.  Loyalty died away in a few
-popular [[songs]]; the Cromwellians never had any popular [[Song|song]] to die.
-English [[history]] has moved away from English literature.  Our culture,
-like our agriculture, is at once very native and very neglected.
-And as this neglect is regrettable, if only as neglect of literature,
-I will pause in conclusion upon the later period, two generations
-after [[Milton]], when the last of the true Tories drank wine with
-Bolingbroke or tea with Johnson.

@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 11 (part 2)"
+title: "Jane Eyre — Chapter 11 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -128,14 +128,3 @@ further path, and the power of meriting the kindness which seemed so
 frankly offered me before it was earned. My couch had no thorns in it
 that [[Night|night]]; my solitary room no fears. At once weary and content, I
 slept soon and soundly: when I awoke it was broad day.
-
-The chamber looked such a bright little place to me as the sun shone in
-between the gay blue chintz [[Window|window]] curtains, showing papered walls and
-a carpeted floor, so unlike the bare planks and stained plaster of
-Lowood, that my spirits [[Rose|rose]] at the view. Externals have a great effect
-on the young: I thought that a fairer era of life was beginning for me,
-one that was to have its [[Flowers|flowers]] and pleasures, as [[Well|well]] as its thorns
-and toils. My faculties, roused by the change of scene, the new field
-offered to [[Hope|hope]], seemed all astir. I cannot precisely define what they
-expected, but it was something pleasant: not perhaps that day or that
-month, but at an indefinite future period.

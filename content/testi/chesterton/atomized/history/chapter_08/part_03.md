@@ -1,5 +1,5 @@
 ---
-title: "[[history]] — Chapter 8 (part 3)"
+title: "history — Chapter 8 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/history-(chesterton)"
@@ -93,7 +93,7 @@ a point of complaint against the modern Trades Unions.
 But they insisted also, as the Trades Unions cannot do, upon a high
 standard of craftsmanship, which still astonishes the world in
 the corners of perishing buildings or the colours of broken glass.
-There is no [[artist]] or art critic who will not concede, however distant
+There is no [[Artist|artist]] or art critic who will not concede, however distant
 his own style from the Gothic school, that there was in this
 [[Time|time]] a nameless but universal artistic touch in the moulding
 of the very tools of life.  Accident has preserved the rudest

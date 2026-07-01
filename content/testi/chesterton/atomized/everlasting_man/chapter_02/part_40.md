@@ -14,120 +14,95 @@ tags:
 </nav>
 
 
-The ancient religion of [[Italy]] was on the whole that mixture which we
-have considered under the head of mythology; save that where
-the Greeks had a natural turn for the mythology, the Latins seem
-to have had a real turn for religion.  Both multiplied gods, yet they
-sometimes seem to have multiplied them for almost opposite reasons.
-It would seem sometimes as if the Greek polytheism branched
-and blossomed upwards like the boughs of a tree, while the Italian
-polytheism ramified downward like the roots.  Perhaps it would
-be truer to say that the former branches lifted themselves lightly,
-bearing [[Flowers|flowers]]; while the latter hung down, being heavy with fruit.
-I mean that the Latins seem to multiply gods to bring them nearer to men,
-while the Greek gods [[Rose|rose]] and radiated outwards into the morning sky.
-What strikes us in the Italian cults is their local and especially
-their domestic character.  We gain the impression of divinities
-swarming about the [[house]] like flies; of deities clustering
-and clinging like bats about the pillars or building like [[Birds|birds]]
-under the eaves.  We have a vision of a god of roofs and a god
-of gate-posts, of a god of doors and even a god of drains.
-It has been suggested that all mythology was a sort of fairy-tale;
-but this was a particular sort of fairy-tale which may truly be
-called a fireside tale, or a nursery-tale; because it was a tale
-of the interior of the [[Home|home]]; like those which make chairs and tables
-talk like elves.  The old household gods of the Italian peasants
-seem to have been great, clumsy, wooden images, more featureless
-than the figure-head which Quilp battered with the poker.
-This religion of the [[Home|home]] was very homely.  Of course there were
-other less human elements in the tangle of Italian mythology.
-There were Greek deities superimposed on the Roman; there were
-here and there uglier things underneath, experiments in the cruel
-kind of paganism, like the Arician rite of the priest slaying
-the slayer.  But these things were always potential in paganism;
-they are certainly not the peculiar character of Latin paganism.
-The peculiarity of that may be roughly covered by saying that if
-mythology personified the forces of [[Nature|nature]], this mythology personified
-[[Nature|nature]] as transformed by the forces of man.  It was the god
-of the corn and not of the grass, of the cattle and not the wild
-things of the forest; in short the cult was literally a culture;
-as when we speak of it as agriculture.
+No wise man will wish to bring more long words into the world.
+But it may be allowable to say that we need a new thing;
+which may be called psychological [[history]].  I mean the consideration
+of what things meant in the mind of a man, especially an ordinary man;
+as distinct from what is defined or deduced merely from official
+forms or political pronouncements.  I have already touched on it
+in such a case as the totem or indeed any other popular myth.
+It is not enough to be told that a tom-cat was called a totem;
+especially when it was not called a totem.  We want to know what it
+felt like.  Was it like Whittington's cat or like a [[Witch|witch]]'s cat?
+Was its real name Pashtl or Puss-in-Boots?  That is the sort of thing
+we need touching the [[Nature|nature]] of political and social relations.
+We want to know the real sentiment that was the social bond of many
+common men, as sane and as selfish as we are.  What did soldiers feel
+when they saw splendid in the sky that strange totem that we call
+the Golden Eagle of the Legions?  What did vassals feel about those
+other totems the lions or the leopards upon the shield of their lord?
+So long as we neglect this subjective side of [[history]], which may more
+simply be called the inside of [[history]], there will always be a certain
+limitation on that science which can be better transcended by art.
+So long as the historian cannot do that, fiction will be truer than fact.
+There will be more reality in a [[Novel|novel]]; yes, even in a [[Historical Novel|historical novel]].
 
-With this there was a [[Paradox|paradox]] which is still for many the puzzle
-or [[Riddle|riddle]] of the Latins.  With religion running through every
-domestic detail like a climbing plant, there went what seems
-to many the very opposite spirit; the spirit of revolt.
-Imperialists and reactionaries often involve Rome as the very
-model of order and obedience; but Rome was the very reverse.
-The real [[history]] of [[Ancient Rome|ancient Rome]] is much more like the [[history]]
-of modern [[Paris]].  It might be called in modern language a [[City|city]]
-built out of barricades.  It is said that the gate of Janus
-was never closed because there was an eternal war without;
-it is almost as true that there was an eternal revolution within.
-From the first Plebeian riots to the last Servile Wars, the state
-that imposed peace on the world was never really at peace.
-The rulers were themselves rebels.
+In nothing is this new [[history]] needed so much as in the psychology
+of war.  Our [[history]] is stiff with official documents,
+public or private, which tell us nothing of the thing itself.
+At the worst we only have the official posters, which could
+not have been spontaneous precisely because they were official.
+At the best we have only the secret diplomacy, which could
+not have been popular precisely because it was secret.
+Upon one or other of these is based the historical judgement about
+the real reasons that sustained the struggle.  Governments fight
+for colonies or commercial rights; governments fight about harbours
+or high tariffs; governments fight for a gold mine or a pearl fishery.
+It seems sufficient to answer that governments do not fight at all.
+Why do the fighters fight?  What is the psychology that sustains
+the terrible and wonderful thing called a war?  Nobody who knows
+anything of soldiers believes the silly notion of the dons,
+that millions of men can be ruled by force.  If they were all
+to slack, it would be impossible to punish all the slackers.
+And the least little touch of slacking would lose a whole campaign
+in half a day.  What did men really feel about the policy?
+If it be said that they accepted the policy from the politician,
+what did they feel about the politician?  If the vassals warred blindly
+for their prince what did those blind men see in their prince?
 
-There is a real relation between this religion in private and this
-revolution in public life.  Stories none the less heroic for being
-hackneyed remind us that the Republic was founded on a tyrannicide
-that avenged an insult to a wife; that the Tribunes of the people were
-re-established after another which avenged an insult to a daughter.
-The [[Truth|truth]] is that only men to whom the family is sacred will ever
-have a standard or a status by which to criticise the state.
-They [[Alone|alone]] can appeal to something more holy than the gods of the [[City|city]];
-the gods of the hearth.  That is why men are mystified in seeing
-that the same nations that are thought rigid in domesticity are also
-thought restless in politics, for instance the Irish and the French.
-It is worth while to dwell on this domestic point because it is
-an exact example of what is meant here by the inside of [[history]],
-like the inside of houses.  Merely political histories of Rome may be
-right enough in saying that this or that was a cynical or cruel act
-of the Roman politicians; but the spirit that lifted Rome from beneath
-was the spirit of all the Romans; and it is not a cant to call it
-the ideal of Cincinnatus passing from the senate to the plough.
-Men of that sort had strengthened their village on every side,
-had extended its victories already over Italians and even over Greeks,
-when they found themselves confronted with a war that changed the world.
-I have called it here the war of the gods and demons.
-
-There was established on the opposite coast of the inland sea a [[City|city]]
-that bore the name of the New Town.  It was already much older,
-more powerful, and more prosperous than the Italian town; but there still
-remained about it an atmosphere that made the name not inappropriate.
-It had been called new because it was a colony like [[New York]]
-or New Zealand.  It was an outpost or settlement of the energy
-and expansion of the great commercial cities of Tyre and Sidon.
-There was a note of the new countries and colonies about it,
-a confident and commercial outlook.  It was fond of saying things
-that rang with a certain metallic assurance; as that nobody could
-wash his hands in the sea without the leave of the New Town.
-For it depended almost entirely on the [[Greatness|greatness]] of its ships,
-as did the two great ports and markets from which its people came.
-It brought from Tyre and Sidon a prodigious talent for trade and
-considerable experience of travel.  It brought other things as [[Well|well]].
-
-In a previous chapter I have hinted at something of the psychology
-that lies behind a certain type of religion.  There was a tendency
-in those hungry for practical results, apart from poetical results,
-to call upon spirits of terror and compulsion; to move Acheron in [[Despair|despair]]
-of bending the Gods.  There is always a sort of dim idea that these
-darker powers will really do things, with no nonsense about it.
-In the interior psychology of the Punic peoples this strange sort
-of pessimistic practicality had grown to great proportions.
-In the New Town, which the Romans called Carthage, as in the parent
-cities of Phoenicia, the god who got things done bore the name of Moloch,
-who was perhaps identical with the other deity whom we know as Baal,
-the Lord.  The Romans did not at first quite know what to call him
-or what to make of him; they had to go back to the grossest myth of Greek
-or Roman origins and compare him to [[Saturn]] devouring his children.
-But the worshippers of Moloch were not gross or primitive.
-They were members of a mature and polished civilisation,
-abounding in refinements and luxuries; they were probably far
-more civilised than the Romans.  And Moloch was not a myth;
-or at any rate his meal was not a myth.  These highly civilised
-people really met together to invoke the blessing of heaven on their
-empire by throwing hundreds of their infants into a large furnace.
-We can only realise the combination by imagining a number of Manchester
-merchants with chimney-pot hats and mutton-chop whiskers, going to
-church every [[Sunday]] at eleven o'[[Clock|clock]] to see a baby roasted alive.
+There is something we all know which can only be rendered,
+in an appropriate language, as realpolitik.  As a matter of fact,
+it is an almost insanely unreal politik.  It is always stubbornly
+and stupidly repeating that men fight for material ends,
+without reflecting for a moment that the material ends are hardly
+ever material to the men who fight.  In any case no man will
+die for practical politics, just as no man will die for pay.
+Nero could not hire a hundred Christians to be eaten by lions
+at a shilling an hour; for men will not be martyred for money.
+But the vision called up by real politik, or realistic politics,
+is beyond example crazy and incredible.  Does anybody in the world
+believe that a soldier says, 'My leg is nearly dropping off, but I shall
+go on till it drops; for after all I shall enjoy all the advantages
+of my [[government]] obtaining a warm-[[Water|water]] port in the Gulf of Finland.'
+Can anybody suppose that a clerk turned conscript says, 'If I
+am gassed I shall probably die in torments, but it is a comfort
+to reflect that should I ever decide to become a pearl-diver in
+the South Seas, that career is now open to me and my countrymen.'
+Materialist [[history]] is the most madly incredible of all histories,
+or even of all romances.  Whatever starts wars, the thing that
+sustains wars is something in the [[Soul|soul]]; that is something akin
+to religion.  It is what men feel about life and about [[Death|death]].
+A man near to [[Death|death]] is dealing directly with an absolute;
+it is nonsense to say he is concerned only with relative and remote
+complications that [[Death|death]] in any case will end.  If he is sustained
+by certain loyalties, they must be loyalties as simple as [[Death|death]].
+They are generally two ideas, which are only two sides of one idea.
+The first is the [[Love|love]] of something said to be threatened, if it
+be only vaguely known as [[Home|home]]; the second is dislike and defiance
+of some strange thing that threatens it.  The first is far more
+philosophical than it sounds, though we need not discuss it here.
+A man does not want his national [[Home|home]] destroyed or even changed,
+because he cannot even remember all the good things that go with it;
+just as he does not want his [[house]] burnt down, because he can
+hardly count all the things he would miss.  Therefore he fights
+for what sounds like a hazy abstraction, but is really a [[house]].
+But the negative side of it is quite as noble as [[Well|well]] as quite as strong.
+Men fight hardest when they feel that the foe is at once an old enemy
+and an eternal stranger, that his atmosphere is alien and antagonistic,
+as the French feel about the Prussian or the Eastern Christians
+about the Turk.  If we say it is a difference of religion,
+people will drift into dreary bickerings about sects and dogmas.
+We will pity them and say it is a difference about [[Death|death]] and daylight;
+a difference that does really come like a dark [[Shadow|shadow]] between our eyes
+and the day.  Men can think of this difference even at the point
+of [[Death|death]]; for it is a difference about the meaning of life.

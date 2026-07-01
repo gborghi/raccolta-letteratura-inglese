@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 12 (part 4)"
+title: "Bleak House — Chapter 12 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,27 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_12/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_12/part_05">part 05 ›</a></div>
 </nav>
 
+
+Then there is my Lord Boodle, of considerable reputation with his
+party, who has known what office is and who tells Sir Leicester
+Dedlock with much gravity, after dinner, that he really does not see
+to what the present age is tending. A [[debate]] is not what a [[debate]]
+used to be; the [[house|House]] is not what the [[house|House]] used to be; even a
+Cabinet is not what it formerly was. He perceives with astonishment
+that supposing the present [[government]] to be overthrown, the limited
+choice of the [[Crown]], in the formation of a new ministry, would lie
+between Lord Coodle and Sir Thomas Doodle—supposing it to be
+impossible for the Duke of Foodle to act with Goodle, which may be
+assumed to be the case in consequence of the breach arising out of
+that affair with Hoodle. Then, giving the [[Home]] Department and the
+leadership of the [[house|House]] of Commons to Joodle, the Exchequer to
+Koodle, the Colonies to Loodle, and the Foreign Office to Moodle,
+what are you to do with Noodle? You can’t offer him the Presidency of
+the Council; that is reserved for Poodle. You can’t put him in the
+Woods and Forests; that is hardly good enough for [[quoodle|Quoodle]]. What
+follows? That the country is shipwrecked, lost, and gone to pieces
+(as is made manifest to the patriotism of [[Sir Leicester Dedlock]])
+because you can’t provide for Noodle!
 
 On the other hand, the Right Honourable William Buffy, M.P., contends
 across the table with some one else that the shipwreck of the
@@ -95,47 +116,3 @@ crease of his dress. Whether his whole [[Soul|soul]] is devoted to the great
 or whether he yields them nothing beyond the services he sells is his
 personal secret. He keeps it, as he keeps the [[Secrets|secrets]] of his clients;
 he is his own client in that matter, and will never betray himself.
-
-“How do you do, Mr. Tulkinghorn?” says Sir Leicester, giving him his
-hand.
-
-Mr. Tulkinghorn is quite [[Well|well]]. Sir Leicester is quite [[Well|well]]. My Lady
-is quite [[Well|well]]. All highly satisfactory. The lawyer, with his hands
-behind him, walks at Sir Leicester’s side along the terrace. My Lady
-walks upon the other side.
-
-“We expected you before,” says Sir Leicester. A gracious observation.
-As much as to say, “Mr. Tulkinghorn, we remember your existence when
-you are not here to remind us of it by your presence. We bestow a
-[[Fragment|fragment]] of our minds upon you, sir, you see!”
-
-Mr. Tulkinghorn, comprehending it, inclines his head and says he is
-much obliged.
-
-“I should have come down sooner,” he explains, “but that I have been
-much engaged with those matters in the several suits between yourself
-and Boythorn.”
-
-“A man of a very ill-regulated mind,” observes Sir Leicester with
-severity. “An extremely dangerous person in any community. A man of a
-very low character of mind.”
-
-“He is obstinate,” says Mr. Tulkinghorn.
-
-“It is natural to such a man to be so,” says Sir Leicester, looking
-most profoundly obstinate himself. “I am not at all surprised to hear
-it.”
-
-“The only question is,” pursues the lawyer, “whether you will give up
-anything.”
-
-“No, sir,” replies Sir Leicester. “Nothing. I give up?”
-
-“I don’t mean anything of importance. That, of course, I know you
-would not abandon. I mean any minor point.”
-
-“Mr. Tulkinghorn,” returns Sir Leicester, “there can be no minor
-point between myself and Mr. Boythorn. If I go farther, and observe
-that I cannot readily conceive how ANY right of mine can be a minor
-point, I speak not so much in reference to myself as an individual as
-in reference to the family position I have it in charge to maintain.”

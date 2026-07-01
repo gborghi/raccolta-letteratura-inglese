@@ -14,9 +14,45 @@ tags:
 </nav>
 
 
+as to tell a lady she should remain in the Church of England mainly
+
+because God had put her there. But in spite of its superficial
+
+spirituality and encouragement, it is not hard to see how such a
+
+doctrine could be abused. It practically comes to saying that God is on
+
+the side of the big battalions--or at least, of the victorious ones.
+
+Thus a creed which set out to create conquerors would only corrupt
+
+soldiers; corrupt them with a craven and unsoldierly worship of [[success]]:
+
+and that which began as the [[philosophy]] of [[Courage|courage]] ends as the [[philosophy]]
+
+of cowardice. If, indeed, Carlyle were right in saying that right is
+
+only "rightly articulated" might, men would never articulate or move in
+
+any way. For no act can have might before it is done: if there is no
+
+right, it cannot rationally be done at all. This element, like the
+
+Anti-Utilitarian element, is to be kept in mind in connection with after
+
+developments: for in this Carlyle is the first cry of Imperialism, as
+
+(in the other case) of Socialism: and the two babes [[unborn]] who stir at
+
+the trumpet are Mr. Bernard [[Shaw]] and Mr. Rudyard Kipling. Kipling also
+
+carries on from Carlyle the concentration on the purely Hebraic parts of
+
+the [[Bible]]. The fallacy of this whole [[philosophy]] is that if God is indeed
+
+present at a modern battle, He may be present not as on Gilboa but
+
 Golgotha.
-
-
 
 Carlyle's direct historical worship of strength and the rest of it was
 
@@ -82,8 +118,6 @@ triumphantly the sort of [[Romance|romance]] of England that all this school was
 
 attempting to establish; and link him up with Kingsley and the rest.
 
-
-
 Ruskin may be very roughly regarded as the young lieutenant of Carlyle
 
 in his war on Utilitarian Radicalism: but as an individual he presents
@@ -145,51 +179,3 @@ was troubled under its serene surface. The incessant excitement of
 Kingsley, though romantic and attractive in many ways, was a great deal
 
 more like Nervous [[Christianity]] than Muscular [[Christianity]]. It would be
-
-quite unfair to say of Ruskin that there was any major inconsistency
-
-between his mediæval tastes and his very unmediæval temper: and minor
-
-inconsistencies do not matter in anybody. But it is not quite unfair to
-
-say of him that he seemed to want all parts of the [[Cathedral]] except the
-
-altar.
-
-
-
-As an [[Artist|artist]] in prose he is one of the most miraculous products of the
-
-extremely poetical genius of England. The length of a Ruskin sentence is
-
-like that length in the long arrow that was boasted of by the drawers of
-
-the long bow. He draws, not a cloth-yard shaft but a long lance to his
-
-ear: he shoots a spear. But the whole goes light as a bird and straight
-
-as a bullet. There is no Victorian writer before him to whom he even
-
-suggests a comparison, technically considered, except perhaps De
-
-Quincey; who also employed the long rich [[rolling]] sentence that, like a
-
-rocket, bursts into [[Stars|stars]] at the end. But De Quincey's sentences, as I
-
-have said, have always a dreamy and insecure sense about them, like the
-
-turret on toppling turret of some mad sultan's pagoda. Ruskin's sentence
-
-branches into brackets and relative clauses as a straight strong tree
-
-branches into boughs and bifurcations, rather shaking off its burden
-
-than merely adding to it. It is interesting to remember that Ruskin
-
-wrote some of the best of these sentences in the attempt to show that he
-
-did understand the growth of trees, and that nobody else did--except
-
-Turner, of course. It is also (to those acquainted with his perverse and
-
-wild rhetorical prejudices) even more amusing to remember that if a

@@ -1,5 +1,5 @@
 ---
-title: "I Because I do not [[Hope|hope]] to turn again"
+title: "I Because I do not hope to turn again"
 author: "Eliot"
 unitType: section
 tags:

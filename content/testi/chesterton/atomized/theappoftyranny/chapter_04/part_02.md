@@ -1,5 +1,5 @@
 ---
-title: "[[TheAppOfTyranny]] — Chapter 3 (part 2)"
+title: "TheAppOfTyranny — Chapter 3 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/theappoftyranny-(chesterton)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/theappoftyranny/chapter_04/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/theappoftyranny/chapter_05/part_01">part 01 ›</a></div>
 </nav>
 
+
+with England, with Austria, with [[Russia]]. Can any one candidly say that they
+
+have left on any one of these people the faintest impress of progress or
 
 liberation? Prussia was the enemy of the French Monarchy; but a worse
 
@@ -45,8 +49,6 @@ hand to the freeing of a single [[City|city]] or the independence of one solitar
 unconsciously consistent, instinctively restrictive, innocently evil;
 
 "following darkness like [[A Dream|a dream]]."
-
-
 
 Suppose we heard of a person (gifted with some longevity) who had helped
 
@@ -134,8 +136,6 @@ the benefits of oppression. He is a sort of disinterested despot. He is as
 
 disinterested as the devil who is ready to do any one's dirty work.
 
-
-
 This would seem obviously fantastic were it not supported by solid facts
 
 which cannot be explained otherwise. Indeed it would be inconceivable if we
@@ -171,8 +171,6 @@ thus much easier for the warlords to go everywhere and impose a hopeless
 [[Slavery|slavery]] upon every one, for they have already imposed a sort of hopeful
 
 [[Slavery|slavery]] on their own simple race.
-
-
 
 And when men shall speak to us of the hoary iniquities of [[Russia]] and of how
 

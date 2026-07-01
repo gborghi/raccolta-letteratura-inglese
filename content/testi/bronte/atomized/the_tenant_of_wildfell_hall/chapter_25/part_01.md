@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 25 (part 1)"
+title: "The Tenant of Wildfell Hall — Chapter 25 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -22,7 +22,7 @@ tags:
 
 On the eighth of April we went to [[London]], on the eighth of May I
 
-returned, in obedience to [[arthur|Arthur]]’s wish; very much against my own,
+returned, in obedience to [[Arthur]]’s wish; very much against my own,
 
 because I left him behind. If he had come with me, I should have been
 
@@ -120,7 +120,7 @@ I know that you are here, neglected—?”
 
 “I shall not feel myself neglected: while you are doing your duty,
 
-[[arthur|Arthur]], I shall never complain of neglect. If you had told me before,
+[[Arthur]], I shall never complain of neglect. If you had told me before,
 
 that you had anything to do, it would have been half done before this;
 
@@ -184,7 +184,7 @@ cannot trust me to go a hundred miles in our own carriage, with our own
 
 footman and a maid to attend me? If you come with me I shall assuredly
 
-keep you. But tell me, [[arthur|Arthur]], what _is_ this tiresome business; and
+keep you. But tell me, [[Arthur]], what _is_ this tiresome business; and
 
 why did you never mention it before?”
 
@@ -216,7 +216,7 @@ wish he would return!
 
 
 
-June 29th.—No [[arthur|Arthur]] yet; and for many days I have been looking and
+June 29th.—No [[Arthur]] yet; and for many days I have been looking and
 
 [[Longing|longing]] in vain for a letter. His letters, when they come, are kind, if
 
@@ -235,11 +235,3 @@ me!
 
 
 Oh, it is cruel to leave me so long [[Alone|alone]]! He knows I have no one but
-
-Rachel to speak to, for we have no neighbours here, except the
-
-Hargraves, whose residence I can dimly descry from these upper windows
-
-embosomed among those low, woody hills beyond the Dale. I was glad when
-
-I learnt that Milicent was so near us; and her company would be a

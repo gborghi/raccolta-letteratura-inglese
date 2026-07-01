@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 18 (part 2)"
+title: "Oliver Twist — Chapter 18 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -144,10 +144,3 @@ something of you, though, or you’ll be the first he ever had that
 turned out unprofitable. You’d better begin at once; for you’ll come to
 the trade long before you think of it; and you’re only losing [[Time|time]],
 [[Oliver]].”
-
-Master Bates backed this advice with sundry moral admonitions of his
-own: which, being exhausted, he and his friend Mr. Dawkins launched
-into a glowing description of the numerous pleasures incidental to the
-life they led, interspersed with a variety of hints to [[Oliver]] that the
-best thing he could do, would be to secure [[Fagin]]’s favour without more
-delay, by the means which they themselves had employed to gain it.

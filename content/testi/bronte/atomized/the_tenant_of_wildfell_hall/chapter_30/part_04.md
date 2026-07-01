@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 30 (part 4)"
+title: "The Tenant of Wildfell Hall — Chapter 30 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,32 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_30/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_31/part_01">part 01 ›</a></div>
 </nav>
 
+
+would not encourage it. He was pleased with this mark of confidence,
+
+and certainly did not betray it. On that and every subsequent occasion
+
+his presence served rather as a check upon his host, than an incitement
+
+to further acts of intemperance; and he always succeeded in bringing
+
+him from the dining-room in good [[Time|time]], and in tolerably good condition;
+
+for if [[Arthur]] disregarded such intimations as “[[Well]], I must not detain
+
+you from your lady,” or “We must not forget that Mrs. Huntingdon is
+
+[[Alone|alone]],” he would insist upon leaving the table himself, to join me, and
+
+his host, however unwillingly, was obliged to follow.
+
+
+
+Hence I learned to welcome Mr. Hargrave as a real friend to the family,
+
+a harmless companion for [[Arthur]], to cheer his spirits and preserve him
+
+from the tedium of absolute idleness and a total isolation from all
 
 society but mine, and a useful ally to me. I could not but feel
 
@@ -44,7 +70,7 @@ should exist a secret understanding between my husband’s friend and me,
 
 unknown to him, of which he was the object. But my after-thought was,
 
-“If it is wrong, surely [[arthur|Arthur]]’s is the fault, not mine.”
+“If it is wrong, surely [[Arthur]]’s is the fault, not mine.”
 
 
 
@@ -90,7 +116,7 @@ save myself and him! Such vain presumption would be rightly served, if
 
 I should perish with him in the gulf from which I sought to save him!
 
-Yet, God preserve me from it, and him too! Yes, poor [[arthur|Arthur]], I will
+Yet, God preserve me from it, and him too! Yes, poor [[Arthur]], I will
 
 still [[Hope|hope]] and pray for you; and though I write as if you were some
 
@@ -104,7 +130,7 @@ would be less bitter, less dissatisfied.
 
 His conduct has, of late, been what the world calls irreproachable; but
 
-then I know his heart is still unchanged; and I know that [[spring]] is
+then I know his heart is still unchanged; and I know that [[Spring|spring]] is
 
 approaching, and deeply dread the consequences.
 
@@ -128,7 +154,7 @@ promised to go.
 
 
 
-“Then you will leave me again, [[arthur|Arthur]]?” said I.
+“Then you will leave me again, [[Arthur]]?” said I.
 
 
 
@@ -148,11 +174,11 @@ could bring myself up to the scratch.”
 
 
 
-About the third week in August, [[arthur|Arthur]] set out for Scotland, and Mr.
+About the third week in August, [[Arthur]] set out for Scotland, and Mr.
 
 Hargrave accompanied him thither, to my private satisfaction. Shortly
 
-after, I, with little [[arthur|Arthur]] and Rachel, went to Staningley, my dear
+after, I, with little [[Arthur]] and Rachel, went to Staningley, my dear
 
 old [[Home|home]], which, as [[Well|well]] as my dear old friends its inhabitants, I saw
 
@@ -166,7 +192,7 @@ those old familiar scenes, and tones, and faces.
 
 
 
-[[arthur|Arthur]] did not come [[Home|home]] till several weeks after my return to
+[[Arthur]] did not come [[Home|home]] till several weeks after my return to
 
 Grassdale; but I did not feel so anxious about him now; to think of him
 
@@ -194,7 +220,7 @@ his fox-hunting and coursing are a sufficient occupation for him
 
 without, when the ground is not hardened by [[Frost|frost]]; so that he is not
 
-wholly dependent on me for entertainment. But it is now January; [[spring]]
+wholly dependent on me for entertainment. But it is now January; [[Spring|spring]]
 
 is approaching; and, I repeat, I dread the consequences of its arrival.
 

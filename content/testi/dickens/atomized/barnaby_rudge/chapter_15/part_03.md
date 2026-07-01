@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 15 (part 3)"
+title: "Barnaby Rudge — Chapter 15 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_15/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_15/part_04">part 04 ›</a></div>
 </nav>
 
+
+Edward having obeyed him, he took an elegant little knife from his
+pocket, and paring his nails, continued:
 
 ‘You have to thank me, Ned, for being of good family; for your mother,
 charming person as she was, and almost broken-hearted, and so forth, as

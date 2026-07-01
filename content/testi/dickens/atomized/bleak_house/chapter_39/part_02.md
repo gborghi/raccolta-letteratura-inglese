@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 39 (part 2)"
+title: "Bleak House — Chapter 39 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -127,7 +127,3 @@ there is no change for the better, I must, as a bare matter of fact,
 deny that.”
 
 “Aye?” returns [[Richard]], brightening. “But how do you make it out?”
-
-“Mr. Carstone, you are represented by—”
-
-“You said just now—a rock.”

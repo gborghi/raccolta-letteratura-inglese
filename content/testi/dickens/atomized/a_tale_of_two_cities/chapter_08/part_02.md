@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities — Chapter 1 (part 2)"
+title: "A Tale of Two Cities — Chapter 2 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-tale-of-two-cities-(dickens)"
@@ -14,148 +14,135 @@ tags:
 </nav>
 
 
-Mr. Cruncher reposed under a patchwork counterpane, like a Harlequin
-at [[Home|home]]. At first, he slept heavily, but, by degrees, began to roll
-and surge in bed, until he [[Rose|rose]] above the surface, with his spiky hair
-looking as if it must tear the sheets to ribbons. At which juncture, he
-exclaimed, in a voice of dire exasperation:
+“What’s _he_ got to do with the case?” asked the man he had spoken with.
 
-“Bust me, if she ain’t at it agin!”
+“Blest if I know,” said Jerry.
 
-A woman of orderly and industrious appearance [[Rose|rose]] from her knees in a
-corner, with sufficient haste and trepidation to show that she was the
-person referred to.
+“What have _you_ got to do with it, then, if a person may inquire?”
 
-“What!” said Mr. Cruncher, looking out of bed for a boot. “You’re at it
-agin, are you?”
+“Blest if I know that either,” said Jerry.
 
-After hailing the morn with this second salutation, he threw a boot at
-the woman as a third. It was a very muddy boot, and may introduce the
-odd circumstance connected with Mr. Cruncher’s domestic economy, that,
-whereas he often came [[Home|home]] after banking hours with clean boots, he
-often got up next morning to find the same boots covered with clay.
+The entrance of the Judge, and a consequent great stir and settling
+down in the [[Court|court]], stopped the dialogue. Presently, the dock became the
+central point of interest. Two gaolers, who had been standing there,
+went out, and the prisoner was brought in, and put to the bar.
 
-“What,” said Mr. Cruncher, varying his apostrophe after missing his
-mark--“what are you up to, Aggerawayter?”
+Everybody present, except the one wigged gentleman who looked at the
+ceiling, stared at him. All the human breath in the place, rolled
+at him, like a sea, or a [[Wind|wind]], or a [[Fire|fire]]. Eager faces strained round
+pillars and corners, to get a sight of him; spectators in back rows
+stood up, not to miss a hair of him; people on the floor of the [[Court|court]],
+laid their hands on the shoulders of the people before them, to help
+themselves, at anybody’s cost, to a view of him--stood a-tiptoe, got
+upon ledges, stood upon next to nothing, to see every inch of him.
+Conspicuous among these latter, like an animated bit of the spiked wall
+of Newgate, Jerry stood: aiming at the prisoner the beery breath of a
+whet he had taken as he came along, and discharging it to mingle with
+the waves of other beer, and gin, and tea, and coffee, and what not,
+that flowed at him, and already broke upon the great windows behind him
+in an impure mist and rain.
 
-“I was only saying my prayers.”
+The object of all this staring and blaring, was a young man of about
+five-and-twenty, [[Well|well]]-grown and [[Well|well]]-looking, with a sunburnt cheek and
+a dark eye. His condition was that of a young gentleman. He was plainly
+dressed in black, or very dark grey, and his hair, which was long and
+dark, was gathered in a ribbon at the back of his neck; more to be out
+of his way than for ornament. As an emotion of the mind will express
+itself through any covering of the [[Body|body]], so the paleness which his
+situation engendered came through the brown upon his cheek, showing the
+[[Soul|soul]] to be stronger than the sun. He was otherwise quite [[Self|self]]-possessed,
+bowed to the Judge, and stood quiet.
 
-“Saying your prayers! You’re a nice woman! What do you mean by flopping
-yourself down and praying agin me?”
+The sort of interest with which this man was stared and breathed at,
+was not a sort that elevated humanity. Had he stood in peril of a less
+horrible sentence--had there been a chance of any one of its savage
+details being spared--by just so much would he have lost in his
+fascination. The form that was to be doomed to be so shamefully mangled,
+was the sight; the immortal creature that was to be so butchered
+and torn asunder, yielded the sensation. Whatever gloss the various
+spectators put upon the interest, according to their several arts and
+powers of [[Self|self]]-deceit, the interest was, at the root of it, Ogreish.
 
-“I was not praying against you; I was praying for you.”
+[[Silence]] in the [[Court|court]]! [[Charles Darnay]] had yesterday pleaded Not Guilty to
+an indictment denouncing him (with infinite jingle and jangle) for that
+he was a false traitor to our serene, illustrious, excellent, and so
+forth, prince, our Lord the [[King]], by reason of his having, on divers
+occasions, and by divers means and ways, assisted Lewis, the French
+[[King]], in his wars against our said serene, illustrious, excellent, and
+so forth; that was to say, by coming and going, between the dominions of
+our said serene, illustrious, excellent, and so forth, and those of the
+said French Lewis, and wickedly, falsely, traitorously, and otherwise
+evil-adverbiously, revealing to the said French Lewis what forces our
+said serene, illustrious, excellent, and so forth, had in preparation
+to send to Canada and North [[america|America]]. This much, Jerry, with his head
+becoming more and more spiky as the law terms bristled it, made out with
+huge satisfaction, and so arrived circuitously at the understanding that
+the aforesaid, and over and over again aforesaid, [[Charles Darnay]], stood
+there before him upon his trial; that the jury were swearing in; and
+that Mr. Attorney-General was making ready to speak.
 
-“You weren’t. And if you were, I won’t be took the liberty with. Here!
-your mother’s a nice woman, young Jerry, going a praying agin your
-father’s prosperity. You’ve got a dutiful mother, you have, my son.
-You’ve got a religious mother, you have, my boy: going and flopping
-herself down, and praying that the bread-and-butter may be snatched out
-of the mouth of her only [[Child|child]].”
+The accused, who was (and who knew he was) being mentally hanged,
+beheaded, and quartered, by everybody there, neither flinched from
+the situation, nor assumed any theatrical air in it. He was quiet and
+attentive; watched the opening proceedings with a [[Grave|grave]] interest;
+and stood with his hands resting on the slab of wood before him, so
+composedly, that they had not displaced a leaf of the herbs with which
+it was strewn. The [[Court|court]] was all bestrewn with herbs and sprinkled with
+vinegar, as a precaution against gaol air and gaol fever.
 
-Master Cruncher (who was in his shirt) took this very ill, and, turning
-to his mother, strongly deprecated any praying away of his personal
-board.
+Over the prisoner’s head there was a [[Mirror|mirror]], to throw the light down
+upon him. Crowds of the wicked and the wretched had been reflected in
+it, and had passed from its surface and this earth’s together. Haunted
+in a most ghastly manner that abominable place would have been, if the
+glass could ever have rendered back its reflections, as the ocean is one
+day to give up its dead. Some passing thought of the infamy and disgrace
+for which it had been reserved, may have struck the prisoner’s mind. Be
+that as it may, a change in his position making him conscious of a bar
+of light across his face, he looked up; and when he saw the glass his
+face flushed, and his right hand pushed the herbs away.
 
-“And what do you suppose, you conceited female,” said Mr. Cruncher, with
-unconscious inconsistency, “that the worth of _your_ prayers may be?
-Name the price that you put _your_ prayers at!”
+It happened, that the action turned his face to that side of the [[Court|court]]
+which was on his left. About on a level with his eyes, there sat,
+in that corner of the Judge’s bench, two persons upon whom his look
+immediately rested; so immediately, and so much to the changing of his
+aspect, that all the eyes that were turned upon him, turned to them.
 
-“They only come from the heart, Jerry. They are worth no more than
-that.”
+The spectators saw in the two figures, a young lady of little more than
+twenty, and a gentleman who was evidently her father; a man of a very
+remarkable appearance in respect of the absolute whiteness of his hair,
+and a certain indescribable intensity of face: not of an active kind,
+but pondering and [[Self|self]]-communing. When this expression was upon him, he
+looked as if he were old; but when it was stirred and broken up--as
+it was now, in a moment, on his speaking to his daughter--he became a
+handsome man, not past the prime of life.
 
-“Worth no more than that,” repeated Mr. Cruncher. “They ain’t worth
-much, then. Whether or no, I won’t be prayed agin, I tell you. I can’t
-afford it. I’m not a going to be made unlucky by _your_ sneaking. If
-you must go flopping yourself down, flop in favour of your husband and
-[[Child|child]], and not in opposition to ’em. If I had had any but a unnat’ral
-wife, and this poor boy had had any but a unnat’ral mother, I might
-have made some money last week instead of being counter-prayed and
-countermined and religiously circumwented into the worst of luck.
-B-u-u-ust me!” said Mr. Cruncher, who all this [[Time|time]] had been putting
-on his clothes, “if I ain’t, what with piety and one blowed thing and
-another, been choused this last week into as bad luck as ever a poor
-devil of a honest tradesman met with! Young Jerry, dress yourself, my
-boy, and while I clean my boots keep a eye upon your mother now and
-then, and if you see any signs of more flopping, give me a call. For, I
-tell you,” here he addressed his wife once more, “I won’t be gone agin,
-in this manner. I am as rickety as a hackney-coach, I’m as sleepy as
-laudanum, my lines is strained to that degree that I shouldn’t know, if
-it wasn’t for the [[Pain|pain]] in ’em, which was me and which somebody else, yet
-I’m none the better for it in pocket; and it’s my suspicion that you’ve
-been at it from morning to [[Night|night]] to prevent me from being the better for
-it in pocket, and I won’t put up with it, Aggerawayter, and what do you
-say now!”
+His daughter had one of her hands drawn through his arm, as she sat by
+him, and the other pressed upon it. She had drawn close to him, in her
+dread of the scene, and in her pity for the prisoner. Her forehead had
+been strikingly expressive of an engrossing terror and compassion
+that saw nothing but the peril of the accused. This had been so very
+noticeable, so very powerfully and naturally shown, that starers who
+had had no pity for him were touched by her; and the whisper went about,
+“Who are they?”
 
-Growling, in addition, such phrases as “Ah! yes! You’re religious, too.
-You wouldn’t put yourself in opposition to the interests of your husband
-and [[Child|child]], would you? Not you!” and throwing off other sarcastic sparks
-from the whirling grindstone of his indignation, Mr. Cruncher betook
-himself to his boot-cleaning and his general preparation for business.
-In the meantime, his son, whose head was garnished with tenderer spikes,
-and whose young eyes stood close by one another, as his father’s did,
-kept the required watch upon his mother. He greatly disturbed that poor
-woman at intervals, by darting out of his sleeping closet, where he made
-his toilet, with a suppressed cry of “You are going to flop, mother.
---Halloa, father!” and, after raising this fictitious alarm, darting in
-again with an undutiful grin.
+Jerry, the messenger, who had made his own observations, in his own
+manner, and who had been sucking the rust off his fingers in his
+absorption, stretched his neck to hear who they were. The crowd about
+him had pressed and passed the inquiry on to the nearest attendant, and
+from him it had been more slowly pressed and passed back; at last it got
+to Jerry:
 
-Mr. Cruncher’s temper was not at all improved when he came to his
-breakfast. He resented Mrs. Cruncher’s saying grace with particular
-animosity.
+“Witnesses.”
 
-“Now, Aggerawayter! What are you up to? At it again?”
+“For which side?”
 
-His wife explained that she had merely “asked a blessing.”
+“Against.”
 
-“Don’t do it!” said Mr. Crunches looking about, as if he rather expected
-to see the loaf disappear under the efficacy of his wife’s petitions. “I
-ain’t a going to be blest out of [[house]] and [[Home|home]]. I won’t have my wittles
-blest off my table. Keep still!”
+“Against what side?”
 
-Exceedingly red-eyed and grim, as if he had been up all [[Night|night]] at a party
-which had taken anything but a convivial turn, [[Jerry Cruncher]] worried
-his breakfast rather than ate it, growling over it like any four-footed
-inmate of a menagerie. Towards nine o’[[Clock|clock]] he smoothed his ruffled
-aspect, and, presenting as respectable and business-like an exterior as
-he could overlay his natural [[Self|self]] with, issued forth to the occupation
-of the day.
+“The prisoner’s.”
 
-It could scarcely be called a trade, in spite of his favourite
-description of himself as “a honest tradesman.” His stock consisted of
-a wooden stool, made out of a broken-backed chair cut down, which stool,
-young Jerry, walking at his father’s side, carried every morning to
-beneath the banking-[[house]] [[Window|window]] that was nearest Temple Bar: where,
-with the addition of the first handful of straw that could be gleaned
-from any passing vehicle to keep the cold and wet from the odd-job-man’s
-feet, it formed the encampment for the day. On this post of his, Mr.
-Cruncher was as [[Well|well]] known to Fleet-street and the Temple, as the Bar
-itself,--and was almost as in-looking.
-
-Encamped at a quarter before nine, in good [[Time|time]] to touch his
-three-cornered hat to the oldest of men as they passed in to Tellson’s,
-Jerry took up his station on this windy March morning, with young Jerry
-standing by him, when not engaged in making forays through the Bar, to
-inflict bodily and mental injuries of an acute description on passing
-boys who were small enough for his amiable purpose. Father and son,
-extremely like each other, looking silently on at the morning traffic
-in Fleet-street, with their two heads as near to one another as the two
-eyes of each were, bore a considerable resemblance to a pair of monkeys.
-The resemblance was not lessened by the accidental circumstance, that
-the mature Jerry bit and spat out straw, while the twinkling eyes of the
-youthful Jerry were as restlessly watchful of him as of everything else
-in Fleet-street.
-
-The head of one of the regular indoor messengers attached to Tellson’s
-establishment was put through the door, and the word was given:
-
-“Porter wanted!”
-
-“Hooray, father! Here’s an early job to begin with!”
-
-Having thus given his parent God [[Speed|speed]], young Jerry seated himself on
-the stool, entered on his reversionary interest in the straw his father
-had been chewing, and cogitated.
-
-“Al-ways rusty! His fingers is al-ways rusty!” muttered young Jerry.
-“Where does my father get all that iron rust from? He don’t get no iron
-rust here!”
+The Judge, whose eyes had gone in the general direction, recalled them,
+leaned back in his seat, and looked steadily at the man whose life was
+in his hand, as Mr. Attorney-General [[Rose|rose]] to spin the rope, grind the
+axe, and hammer the nails into the scaffold.

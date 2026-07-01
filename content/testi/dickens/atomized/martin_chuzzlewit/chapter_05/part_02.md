@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 5 (part 2)"
+title: "Martin Chuzzlewit — Chapter 5 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_05/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_05/part_03">part 03 ›</a></div>
 </nav>
 
+
+And now the morning grew so fair, and all things were so wide awake and
+gay, that the sun seeming to say--Tom had no [[Doubt|doubt]] he said--‘I can’t
+stand it any longer; I must have a look,’ streamed out in radiant
+majesty. The mist, too shy and gentle for such lusty company, fled off,
+quite scared, before it; and as it swept away, the hills and mounds and
+distant pasture lands, teeming with placid sheep and noisy crows, came
+out as bright as though they were unrolled bran new for the occasion. In
+compliment to which discovery, the brook stood still no longer, but ran
+briskly off to bear the tidings to the [[Water|water]]-mill, three miles away.
 
 Mr Pinch was jogging along, full of pleasant thoughts and cheerful
 influences, when he saw, upon the path before him, going in the same
@@ -125,21 +135,3 @@ Mark looked more fixedly before him, and further off still, as he
 answered that he didn’t suppose it would be much of an object to her.
 There were plenty of smart young fellows as would be glad of the place.
 He knew a dozen himself.
-
-‘That’s probable enough,’ said Mr Pinch, ‘but I am not at all sure that
-Mrs Lupin would be glad of them. Why, I always supposed that Mrs Lupin
-and you would make a match of it, Mark; and so did every one, as far as
-I know.’
-
-‘I never,’ Mark replied, in some confusion, ‘said nothing as was in a
-direct way courting-like to her, nor she to me, but I don’t know what I
-mightn’t do one of these odd times, and what she mightn’t say in answer.
-[[Well]], sir, THAT wouldn’t suit.’
-
-‘Not to be landlord of the Dragon, Mark?’ cried Mr Pinch.
-
-‘No, sir, certainly not,’ returned the other, withdrawing his gaze from
-the horizon, and looking at his fellow-traveller. ‘Why that would be the
-ruin of a man like me. I go and sit down comfortably for life, and no
-man never finds me out. What would be the credit of the landlord of the
-Dragon’s being jolly? Why, he couldn’t help it, if he tried.’

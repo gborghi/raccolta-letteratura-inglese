@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 8 (part 1)"
+title: "The Professor — Chapter 8 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -15,8 +15,6 @@ tags:
 
 
 CHAPTER VIII.
-
-
 
 AND Pelet himself? How did I continue to like him? Oh, extremely [[Well|well]]!
 
@@ -36,11 +34,7 @@ that I was a little shocked at the difference he made between them and
 
 me, and accounted for it by saying, with a quiet sarcastic smile--
 
-
-
 “Ce ne sont que des Flamands--allez!”
-
-
 
 And then he took his cigar gently from his lips and spat on the painted
 
@@ -104,8 +98,6 @@ mere licentiousness. He felt the difference of our notions, and, by
 
 mutual consent, we kept off ground debateable.
 
-
-
 Pelet’s [[house]] was kept and his kitchen managed by his mother, a real
 
 old Frenchwoman; she had been handsome--at least she told me so, and I
@@ -140,8 +132,6 @@ her, his reproofs were bitter and unsparing; but he seldom gave himself
 
 that trouble.
 
-
-
 Madame Pelet had her own society, her own circle of chosen visitors,
 
 whom, however, I seldom saw, as she generally entertained them in what
@@ -164,8 +154,6 @@ quite out of the question. These details will sound very odd in English
 
 ears, but Belgium is not England, and its ways are not our ways.
 
-
-
 Madame Pelet’s habits of life, then, being taken into consideration,
 
 I was a good deal surprised when, one [[thursday|Thursday]] evening ([[thursday|Thursday]] was
@@ -179,8 +167,6 @@ tapped at the door, and, on its being opened, presented Madame Pelet’s
 compliments, and she would be happy to see me to take my “gouter” (a
 
 meal which answers to our English “tea”) with her in the dining-room.
-
-
 
 “Plait-il?” said I, for I thought I must have misunderstood, the
 
@@ -196,14 +182,8 @@ he was a member. Just as I laid my hand on the handle of the dining-room
 
 door, a queer idea glanced across my mind.
 
-
-
 “Surely she’s not going to make [[Love|love]] to me,” said I. “I’ve heard of
 
 old Frenchwomen doing odd things in that line; and the gouter? They
 
 generally begin such affairs with eating and drinking, I believe.”
-
-
-
-There was a fearful dismay in this suggestion of my excited [[Imagination|imagination]],

@@ -1,5 +1,5 @@
 ---
-title: "[[divorce]]"
+title: "divorce"
 author: "Chesterton"
 unitType: work
 parentWork: "works/divorce-(chesterton)"
@@ -133,7 +133,7 @@ in the [[Bible]], about all men being the children of Adam and Eve.
 Millions of peasants and plain people all over the world assume
 [[Marriage|marriage]] to be static, without having ever clapped eyes on any text.
 Numbers of more modern people, especially after the recent experiments
-in [[america|America]], think [[divorce]] is a social disease, without having ever
+in [[America]], think [[divorce]] is a social disease, without having ever
 bothered about any text.  It may be maintained that even in these,
 or in any one, the idea of [[Marriage|marriage]] is ultimately mystical;
 and the same may be maintained about the idea of brotherhood.
@@ -766,17 +766,17 @@ in it like a rabbit and undermine a whole countryside.
 Next we have, as we always have touching such crude experiments,
 an argument from the example of other countries, and especially
 of new countries.  Thus the Eugenists tell me solemnly that there
-have been very successful Eugenic experiments in [[america|America]].
+have been very successful Eugenic experiments in [[America]].
 And they rigidly retain their solemnity (while refusing with many
 rebukes to believe in mine) when I tell them that one of the Eugenic
-experiments in [[america|America]] is a chemical experiment; which consists
+experiments in [[America]] is a chemical experiment; which consists
 of changing a black man into the allotropic form of white ashes.
 It is really an exceedingly Eugenic experiment; since its chief object
 is to discourage an inter-racial mixture of [[Blood|blood]] which is not desired.
 But I do not like this American experiment, however American;
 and I trust and believe that it is not typically American at all.
 It represents, I conceive, only one element in the complexity
-of the great [[Democracy|democracy]]; and goes along with other evil elements;
+of the great [[democracy]]; and goes along with other evil elements;
 so that I am not at all surprised that the same strange social sections,
 which permit a human being to be burned alive, also permit
 the exalted science of [[Eugenics]].  It is the same in the milder
@@ -785,7 +785,7 @@ colonials have established prohibition Laws, which they try to evade;
 just as we are told they have established [[divorce]] laws, which they
 are now trying to repeal.  For in this case of [[divorce]], at least,
 the argument from distant precedents has recoiled crushingly upon itself.
-There is already an agitation for less [[divorce]] in [[america|America]],
+There is already an agitation for less [[divorce]] in [[America]],
 even while there is an agitation for more [[divorce]] in England.
 
 Again, when an argument is based on a need of population, it will
@@ -1515,7 +1515,7 @@ to servile status, the alternative and therefore the antagonist.
 [[Marriage]] makes a small state within the state, which resists
 all such regimentation.  That bond breaks all other bonds;
 that law is found stronger than all later and lesser laws.
-They [[Desire|desire]] the [[Democracy|democracy]] to be sexually fluid, because the
+They [[Desire|desire]] the [[democracy]] to be sexually fluid, because the
 making of small nuclei is like the making of small nations.
 Like small nations, they are a nuisance to the mind of imperial scope.
 In short, what they [[Fear|fear]], in the most literal sense, is [[Home|home]] rule.
@@ -1954,7 +1954,7 @@ brilliant and most fair-minded controversialists on that side;
 and he has said, for instance, that he agrees with me in supporting
 the ideal of indissoluble or, at least, of undissolved [[Marriage|marriage]].
 Mr. Haynes is one of the few friends of [[divorce]] who are also real
-friends of [[Democracy|democracy]]; and I am sure that in practice this stands
+friends of [[democracy]]; and I am sure that in practice this stands
 for a real sympathy with the [[Home|home]], especially the poor [[Home|home]].
 Unfortunately, on the theoretic side, the word "ideal" is far from being
 an exact term, and is open to two almost opposite interpretations.
@@ -2013,7 +2013,7 @@ unusually blessed and inspired.  But whatever they [[Desire|desire]],
 it is as [[Well|well]] that they should realise exactly what they do;
 and in this case I should like to hear their criticisms in the matter
 of what they see.  They must surely see that in England at present,
-as in many parts of [[america|America]] in the past, the new liberty is being
+as in many parts of [[America]] in the past, the new liberty is being
 taken in the spirit of licence as if the exception were to be
 the rule, or, rather, perhaps the absence of rule.  This will especially
 be made manifest if we consider that the effect of the process is

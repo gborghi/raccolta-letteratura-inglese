@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 11 (part 2)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 11 (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_10/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_10/part_03">part 03 ›</a></div>
 </nav>
 
+
+endeavoured to eat it, but found it utterly impossible to [[Swallow|swallow]] a
+
+single morsel, although I fancied that some little alleviation of my
 
 [[Suffering|suffering]] was obtained by chewing small pieces of it and spitting them
 
@@ -187,15 +191,3 @@ up in moody contemplation. Upon looking in the direction pointed out I
 could not perceive the faintest appearance of the shore--indeed, I was
 
 too [[Well|well]] aware that we were far from any land to indulge in a [[Hope|hope]] of
-
-that [[Nature|nature]]. It was a long [[Time|time]], nevertheless, before I could convince
-
-Parker of his mistake. He then burst into a flood of [[Tears|tears]], weeping
-
-like a [[Child|child]], with loud cries and sobs, for two or three hours, when,
-
-becoming exhausted, he fell asleep.
-
-
-
-Peters and Augustus now made several ineffectual efforts to [[Swallow|swallow]]

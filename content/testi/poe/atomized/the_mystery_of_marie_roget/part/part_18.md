@@ -1,5 +1,5 @@
 ---
-title: "[[The Mystery of Marie Roget]] (part 18)"
+title: "The Mystery of Marie Roget (part 18)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-mystery-of-marie-roget-(poe)"
@@ -13,6 +13,98 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_mystery_of_marie_roget/part/part_17">‹ part 17</a><a class="ex-next" href="/testi/poe/atomized/the_mystery_of_marie_roget/part/part_19">part 19 ›</a></div>
 </nav>
 
+
+      have been a wrong here, or, more possibly, an accident at Madame
+
+      Deluc’s. But, in fact, this is a point of minor importance. We
+
+      are not engaged in an attempt to discover the scene, but to
+
+      produce the perpetrators of the murder. What I have adduced,
+
+      notwithstanding the minuteness with which I have adduced it, has
+
+      been with the view, first, to show the folly of the positive and
+
+      headlong assertions of Le Soleil, but secondly and chiefly, to
+
+      bring you, by the most natural route, to a further contemplation
+
+      of the [[Doubt|doubt]] whether this assassination has, or has not, been the
+
+      work of a gang.
+
+
+
+      “We will resume this question by mere allusion to the revolting
+
+      details of the surgeon examined at the inquest. It is only
+
+      necessary to say that his published inferences, in regard to the
+
+      number of ruffians, have been properly ridiculed as unjust and
+
+      totally baseless, by all the reputable anatomists of [[Paris]]. Not
+
+      that the matter might not have been as inferred, but that there
+
+      was no ground for the inference:—was there not much for another?
+
+
+
+      “Let us reflect now upon ‘the traces of a struggle;’ and let me
+
+      ask what these traces have been supposed to demonstrate. A gang.
+
+      But do they not rather demonstrate the absence of a gang? What
+
+      struggle could have taken place—what struggle so violent and so
+
+      enduring as to have left its ‘traces’ in all directions—between a
+
+      weak and defenceless girl and the gang of ruffians imagined? The
+
+      silent grasp of a few rough arms and all would have been over.
+
+      The victim must have been absolutely passive at their will. You
+
+      will here bear in mind that the arguments urged against the
+
+      thicket as the scene, are applicable in chief part, only against
+
+      it as the scene of an outrage committed by more than a single
+
+      individual. If we imagine but one violator, we can conceive, and
+
+      thus only conceive, the struggle of so violent and so obstinate a
+
+      [[Nature|nature]] as to have left the ‘traces’ apparent.
+
+
+
+      “And again. I have already mentioned the suspicion to be excited
+
+      by the fact that the articles in question were suffered to remain
+
+      at all in the thicket where discovered. It seems almost
+
+      impossible that these evidences of [[Guilt|guilt]] should have been
+
+      accidentally left where found. There was sufficient presence of
+
+      mind (it is supposed) to remove the corpse; and yet a more
+
+      positive evidence than the corpse itself (whose features might
+
+      have been quickly obliterated by [[Decay|decay]],) is allowed to lie
+
+      conspicuously in the scene of the outrage—I allude to the
+
+      handkerchief with the name of the deceased. If this was accident,
+
+      it was not the accident of a gang. We can imagine it only the
+
+      accident of an individual. Let us see. An individual has
 
       committed the murder. He is [[Alone|alone]] with the [[Ghost|ghost]] of the departed.
 
@@ -101,101 +193,3 @@ tags:
       resorting to such an expedient? To three or four, the limbs of
 
       the corpse would have afforded not only a sufficient, but the
-
-      best possible hold. The device is that of a single individual;
-
-      and this brings us to the fact that ‘between the thicket and the
-
-      [[River|river]], the rails of the fences were found taken down, and the
-
-      ground bore evident traces of some heavy burden having been
-
-      dragged along it!’ But would a number of men have put themselves
-
-      to the superfluous trouble of taking down a fence, for the
-
-      purpose of dragging through it a corpse which they might have
-
-      lifted over any fence in an instant? Would a number of men have
-
-      so dragged a corpse at all as to have left evident traces of the
-
-      dragging?
-
-
-
-      “And here we must refer to an observation of Le Commerciel; an
-
-      observation upon which I have already, in some measure,
-
-      commented. ‘A piece,’ says this journal, ‘of one of the
-
-      unfortunate girl’s petticoats was torn out and tied under her
-
-      chin, and around the back of her head, probably to prevent
-
-      screams. This was done by fellows who had no
-
-      pocket-handkerchiefs.’
-
-
-
-      “I have before suggested that a genuine blackguard is never
-
-      without a pocket-handkerchief. But it is not to this fact that I
-
-      now especially advert. That it was not through want of a
-
-      handkerchief for the purpose imagined by Le Commerciel, that this
-
-      bandage was employed, is rendered apparent by the handkerchief
-
-      left in the thicket; and that the object was not ‘to prevent
-
-      screams’ appears, also, from the bandage having been employed in
-
-      preference to what would so much better have answered the
-
-      purpose. But the language of the evidence speaks of the strip in
-
-      question as ‘found around the neck, fitting loosely, and secured
-
-      with a hard knot.’ These words are sufficiently vague, but differ
-
-      materially from those of Le Commerciel. The slip was eighteen
-
-      inches wide, and therefore, although of muslin, would form a
-
-      strong band when folded or rumpled longitudinally. And thus
-
-      rumpled it was discovered. My inference is this. The solitary
-
-      murderer, having borne the corpse, for some distance (whether
-
-      from the thicket or elsewhere) by means of the bandage hitched
-
-      around its middle, found the weight, in this mode of procedure,
-
-      too much for his strength. He resolved to drag the burthen—the
-
-      evidence goes to show that it was dragged. With this object in
-
-      view, it became necessary to attach something like a rope to one
-
-      of the extremities. It could be best attached about the neck,
-
-      where the head would prevent its slipping off. And, now, the
-
-      murderer bethought him, unquestionably, of the bandage about the
-
-      loins. He would have used this, but for its volution about the
-
-      corpse, the hitch which embarrassed it, and the reflection that
-
-      it had not been ‘torn off’ from the garment. It was easier to
-
-      tear a new slip from the petticoat. He tore it, made it fast
-
-      about the neck, and so dragged his victim to the brink of the
-
-      [[River|river]]. That this ‘bandage,’ only attainable with trouble and

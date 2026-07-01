@@ -14,6 +14,11 @@ tags:
 </nav>
 
 
+“You can fancy anything in the tasting way,” returned his shorter companion. “Mr. Jack, who was always up to his tricks, did serve plain [[Water|water]] in those little glasses they drink liqueurs out of, and everyone swore it was a delicious liqueur, and wanted to know where they could get it–all except old Admiral Guffin, who said it tasted too strong of olives. But [[Water|water]]’s much the best for our game, certainly.”
+
+
+
+
 Patrick nodded, and then said:
 
 
@@ -85,28 +90,3 @@ Both Pump and Dalroy thought they had never seen a man look so sullen. His face 
 
 
 But what mystified them most was this, that he did not so much exhibit the natural curiosity of a gentleman whose private [[house]] is entered by strangers, but rather an embarrassed and restless expectation. During Dalroy’s eager apologies and courteous inquiries about the direction and accommodations of Peaceways, his eye (which was of the boiled gooseberry order) perpetually wandered from them to the cupboard and then again to the [[Window|window]], and at last he got up and went to look out into the [[Road|road]].
-
-
-
-
-“Oh, yes, sir; very healthy place, Peaceways,” he said, peering through the lattice. “Very … dash it, what do they mean? … Very healthy place. Of course they have their little ways.”
-
-
-
-
-“Only drink pure milk, don’t they?” asked Dalroy.
-
-
-
-
-The householder looked at him with a rather wild eye and grunted.
-
-
-
-
-“Yes; so they say,” and he went again to the [[Window|window]].
-
-
-
-
-“I’ve bought some of it,” said Patrick, patting his pet milk can, which he carried under his arm, as if unable to be separated from Dr. Meadows’s discovery. “Have a glass of milk, sir.”

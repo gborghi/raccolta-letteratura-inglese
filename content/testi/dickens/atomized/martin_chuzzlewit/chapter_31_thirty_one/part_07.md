@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 31: THIRTY ONE (part 7)"
+title: "Martin Chuzzlewit — Chapter 31: THIRTY ONE (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_31_thirty_one/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_32_thirty_two/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘You’re coming to the Dragon, Mr Pinch?’
+
+‘No,’ said Tom, ‘no. I shall walk to Salisbury to-[[Night|night]]. I couldn’t stay
+here. For goodness’ sake, don’t make me so unhappy, Mrs Lupin.’
+
+‘But you’ll come to the Dragon, Mr Pinch. If it’s only for tonight. To
+see me, you know; not as a traveller.’
 
 ‘God bless my [[Soul|soul]]!’ said Tom, wiping his eyes. ‘The kindness of people
 is enough to break one’s heart! I mean to go to Salisbury to-[[Night|night]], my

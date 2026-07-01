@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities — Chapter 24 (part 3)"
+title: "A Tale of Two Cities — Chapter 1 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-tale-of-two-cities-(dickens)"
@@ -14,126 +14,126 @@ tags:
 </nav>
 
 
-Mindful of the secret, Darnay with great difficulty checked himself, and
-said: “You may not understand the gentleman.”
+“Just Heaven!” exclaimed Darnay. “Under what law, and for what offence?”
 
-“I understand how to put _you_ in a corner, Mr. Darnay,” said Bully
-Stryver, “and I’ll do it. If this fellow is a gentleman, I _don’t_
-understand him. You may tell him so, with my compliments. You may also
-tell him, from me, that after abandoning his worldly goods and position
-to this butcherly mob, I [[Wonder|wonder]] he is not at the head of them. But, no,
-gentlemen,” said Stryver, looking all round, and snapping his fingers,
-“I know something of human [[Nature|nature]], and I tell you that you’ll never
-find a fellow like this fellow, trusting himself to the mercies of such
-precious _protégés_. No, gentlemen; he’ll always show ’em a clean pair
-of heels very early in the scuffle, and sneak away.”
+The officer looked up from his slip of paper for a moment.
 
-With those words, and a final snap of his fingers, Mr. Stryver
-shouldered himself into Fleet-street, amidst the general approbation of
-his hearers. Mr. Lorry and [[Charles Darnay]] were left [[Alone|alone]] at the desk,
-in the general departure from the Bank.
+“We have new laws, Evrémonde, and new offences, since you were here.” He
+said it with a hard smile, and went on writing.
 
-“Will you take charge of the letter?” said Mr. Lorry. “You know where to
-deliver it?”
+“I entreat you to observe that I have come here voluntarily, in response
+to that written appeal of a fellow-countryman which lies before you. I
+demand no more than the opportunity to do so without delay. Is not that
+my right?”
 
-“I do.”
+“Emigrants have no rights, Evrémonde,” was the stolid reply. The officer
+wrote until he had finished, read over to himself what he had written,
+sanded it, and handed it to Defarge, with the words “In secret.”
 
-“Will you undertake to explain, that we suppose it to have been
-addressed here, on the chance of our knowing where to forward it, and
-that it has been here some [[Time|time]]?”
+Defarge motioned with the paper to the prisoner that he must accompany
+him. The prisoner obeyed, and a guard of two armed patriots attended
+them.
 
-“I will do so. Do you start for [[Paris]] from here?”
+“Is it you,” said Defarge, in a low voice, as they went down the
+guardhouse steps and turned into [[Paris]], “who married the daughter of
+[[Doctor Manette]], once a prisoner in the Bastille that is no more?”
 
-“From here, at eight.”
+“Yes,” replied Darnay, looking at him with surprise.
 
-“I will come back, to see you off.”
+“My name is Defarge, and I keep a wine-shop in the Quarter Saint
+Antoine. Possibly you have heard of me.”
 
-Very ill at ease with himself, and with Stryver and most other men,
-Darnay made the best of his way into the quiet of the Temple, opened the
-letter, and read it. These were its contents:
+“My wife came to your [[house]] to reclaim her father? Yes!”
 
+The word “wife” seemed to serve as a gloomy reminder to Defarge, to say
+with sudden impatience, “In the name of that sharp female newly-born,
+and called La Guillotine, why did you come to France?”
 
-“[[Prison]] of the Abbaye, [[Paris]].
+“You heard me say why, a minute ago. Do you not believe it is the
+[[Truth|truth]]?”
 
-“June 21, 1792. “MONSIEUR HERETOFORE THE MARQUIS.
+“A bad [[Truth|truth]] for you,” said Defarge, speaking with knitted brows, and
+looking straight before him.
 
-“After having long been in danger of my life at the hands of the
-village, I have been seized, with great violence and indignity, and
-brought a long [[Journey|journey]] on foot to [[Paris]]. On the [[Road|road]] I have suffered a
-great deal. Nor is that all; my [[house]] has been destroyed--razed to the
-ground.
+“Indeed I am lost here. All here is so unprecedented, so changed, so
+sudden and unfair, that I am absolutely lost. Will you render me a
+little help?”
 
-“The crime for which I am imprisoned, Monsieur heretofore the Marquis,
-and for which I shall be summoned before the tribunal, and shall lose my
-life (without your so generous help), is, they tell me, treason against
-the majesty of the people, in that I have acted against them for an
-emigrant. It is in vain I represent that I have acted for them, and not
-against, according to your commands. It is in vain I represent that,
-before the sequestration of emigrant property, I had remitted the
-imposts they had ceased to pay; that I had collected no rent; that I had
-had recourse to no process. The only response is, that I have acted for
-an emigrant, and where is that emigrant?
+“None.” Defarge spoke, always looking straight before him.
 
-“Ah! most gracious Monsieur heretofore the Marquis, where is that
-emigrant? I cry in my [[Sleep|sleep]] where is he? I demand of Heaven, will he
-not come to deliver me? No answer. Ah Monsieur heretofore the Marquis,
-I send my desolate cry across the sea, hoping it may perhaps reach your
-ears through the great bank of Tilson known at [[Paris]]!
+“Will you answer me a single question?”
 
-“For the [[Love|love]] of Heaven, of justice, of generosity, of the [[Honour|honour]] of
-your noble name, I supplicate you, Monsieur heretofore the Marquis, to
-succour and release me. My fault is, that I have been true to you. Oh
-Monsieur heretofore the Marquis, I pray you be you true to me!
+“Perhaps. According to its [[Nature|nature]]. You can say what it is.”
 
-“From this [[Prison|prison]] here of horror, whence I every hour tend nearer and
-nearer to destruction, I send you, Monsieur heretofore the Marquis, the
-assurance of my dolorous and unhappy service.
+“In this [[Prison|prison]] that I am going to so unjustly, shall I have some free
+communication with the world outside?”
 
-“Your afflicted,
+“You will see.”
 
-“Gabelle.”
+“I am not to be buried there, prejudged, and without any means of
+presenting my case?”
 
+“You will see. But, what then? Other people have been similarly buried
+in worse prisons, before now.”
 
-The latent uneasiness in Darnay’s mind was roused to vigourous life
-by this letter. The peril of an old servant and a good one, whose
-only crime was fidelity to himself and his family, stared him so
-reproachfully in the face, that, as he walked to and fro in the Temple
-considering what to do, he almost hid his face from the passersby.
+“But never by me, Citizen Defarge.”
 
-He knew very [[Well|well]], that in his horror of the deed which had culminated
-the bad deeds and bad reputation of the old family [[house]], in his
-resentful suspicions of his uncle, and in the aversion with which his
-[[Conscience|conscience]] regarded the crumbling fabric that he was supposed to uphold,
-he had acted imperfectly. He knew very [[Well|well]], that in his [[Love|love]] for Lucie,
-his [[Renunciation|renunciation]] of his social place, though by no means new to his own
-mind, had been hurried and incomplete. He knew that he ought to have
-systematically worked it out and supervised it, and that he had meant to
-do it, and that it had never been done.
+Defarge glanced darkly at him for answer, and walked on in a steady
+and set [[Silence|silence]]. The deeper he sank into this [[Silence|silence]], the fainter [[Hope|hope]]
+there was--or so Darnay thought--of his softening in any slight degree.
+He, therefore, made haste to say:
 
-The happiness of his own chosen English [[Home|home]], the necessity of being
-always actively employed, the swift changes and troubles of the [[Time|time]]
-which had followed on one another so fast, that the events of this week
-annihilated the immature plans of last week, and the events of the week
-following made all new again; he knew very [[Well|well]], that to the force of
-these circumstances he had yielded:--not without disquiet, but still
-without continuous and accumulating resistance. That he had watched
-the times for a [[Time|time]] of action, and that they had shifted and struggled
-until the [[Time|time]] had gone by, and the nobility were trooping from
-France by every highway and byway, and their property was in course of
-confiscation and destruction, and their very names were blotting out,
-was as [[Well|well]] known to himself as it could be to any new authority in
-France that might impeach him for it.
+“It is of the utmost importance to me (you know, Citizen, even better
+than I, of how much importance), that I should be able to communicate to
+Mr. Lorry of Tellson’s Bank, an English gentleman who is now in [[Paris]],
+the simple fact, without comment, that I have been thrown into the
+[[Prison|prison]] of La Force. Will you cause that to be done for me?”
 
-But, he had oppressed no man, he had imprisoned no man; he was so
-far from having harshly exacted payment of his dues, that he had
-relinquished them of his own will, thrown himself on a world with no
-favour in it, won his own private place there, and earned his own
-bread. Monsieur Gabelle had held the impoverished and involved estate
-on written instructions, to spare the people, to give them what little
-there was to give--such fuel as the heavy creditors would let them have
-in the [[Winter|winter]], and such produce as could be saved from the same grip in
-the [[Summer|summer]]--and no [[Doubt|doubt]] he had put the fact in plea and proof, for his
-own safety, so that it could not but appear now.
+“I will do,” Defarge doggedly rejoined, “nothing for you. My duty is to
+my country and the People. I am the sworn servant of both, against you.
+I will do nothing for you.”
 
-This favoured the desperate resolution [[Charles Darnay]] had begun to make,
-that he would go to [[Paris]].
+[[Charles Darnay]] felt it hopeless to entreat him further, and his [[Pride|pride]]
+was touched besides. As they walked on in [[Silence|silence]], he could not but see
+how used the people were to the spectacle of prisoners passing along the
+streets. The very children scarcely noticed him. A few passers turned
+their heads, and a few shook their fingers at him as an [[aristocrat]];
+otherwise, that a man in good clothes should be going to [[Prison|prison]], was no
+more remarkable than that a labourer in working clothes should be
+going to work. In one narrow, dark, and dirty street through which they
+passed, an excited orator, mounted on a stool, was addressing an excited
+audience on the crimes against the people, of the [[King|king]] and the royal
+family. The few words that he caught from this man’s lips, first made
+it known to [[Charles Darnay]] that the [[King|king]] was in [[Prison|prison]], and that the
+foreign ambassadors had one and all left [[Paris]]. On the [[Road|road]] (except at
+Beauvais) he had heard absolutely nothing. The escort and the universal
+watchfulness had completely isolated him.
+
+That he had fallen among far greater dangers than those which had
+developed themselves when he left England, he of course knew now. That
+perils had thickened about him fast, and might thicken faster and faster
+yet, he of course knew now. He could not but admit to himself that he
+might not have made this [[Journey|journey]], if he could have foreseen the events
+of a few days. And yet his misgivings were not so dark as, imagined by
+the light of this later [[Time|time]], they would appear. Troubled as the future
+was, it was the unknown future, and in its obscurity there was ignorant
+[[Hope|hope]]. The horrible massacre, days and nights long, which, within a few
+rounds of the [[Clock|clock]], was to set a great mark of [[Blood|blood]] upon the blessed
+garnering [[Time|time]] of harvest, was as far out of his knowledge as if it had
+been a hundred thousand years away. The “sharp female newly-born, and
+called La Guillotine,” was hardly known to him, or to the generality
+of people, by name. The frightful deeds that were to be soon done, were
+probably unimagined at that [[Time|time]] in the brains of the doers. How could
+they have a place in the shadowy conceptions of a gentle mind?
+
+Of unjust treatment in detention and hardship, and in cruel separation
+from his wife and [[Child|child]], he foreshadowed the likelihood, or the
+certainty; but, beyond this, he dreaded nothing distinctly. With this on
+his mind, which was enough to carry into a dreary [[Prison|prison]] courtyard, he
+arrived at the [[Prison|prison]] of La Force.
+
+A man with a bloated face opened the strong wicket, to whom Defarge
+presented “The Emigrant Evrémonde.”
+
+“What the Devil! How many more of them!” exclaimed the man with the
+bloated face.

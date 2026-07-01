@@ -1,5 +1,5 @@
 ---
-title: "[[Troilus]] and [[Cressida]] — Act V, Scene 11 — exchange (ADDITIONAL PASSAGES) [3]"
+title: "Troilus and Cressida — Act V, Scene 11 — exchange (ADDITIONAL PASSAGES) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/troilus-and-cressida-(shakespeare)"

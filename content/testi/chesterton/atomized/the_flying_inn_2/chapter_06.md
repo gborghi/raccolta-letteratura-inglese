@@ -158,7 +158,7 @@ the reckless and insane experiment of eating bread
 with it.'  You'll get no bread from me, my friend.
 Indeed, Lord Ivywood has given directions that the
 allusion to this ignorant and depraved habit shall be
-eliminated from the Lord's [[Prayer]].  Have a drink."
+eliminated from the Lord's [[prayer|Prayer]].  Have a drink."
 
 He had already poured out a little of the spirit into
 two thick tumblers and a broken teacup, which he had

@@ -1,5 +1,5 @@
 ---
-title: "Robert Louis Stevenson — Chapter 3 (part 1)"
+title: "Robert Louis Stevenson — Chapter 2 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/robert-louis-stevenson-(chesterton)"
@@ -14,127 +14,119 @@ tags:
 </nav>
 
 
-CHAPTER III
+CHAPTER II
 
-YOUTH AND EDINBURGH
+IN THE COUNTRY OF SKELT
 
-IT is the suggestion of this chapter that when Stevenson first
-stepped out of his early Edinburgh [[Home|home]], he slipped upon the step.
-It may have been nothing worse, to begin with, than the ordinary
-butter-slide of the buffoonery of youth; such buffoonery as
-makes up the typical Edinburgh tale called _The Misadventures
-of John Nicholson._ But that tale [[Alone|alone]] would suggest that there
-was something a little greasy or even grimy about the butter.
-It is an odd story for Stevenson to have written; and no Stevensonian
-has any particular [[Desire|desire]] to dwell on those few of his works
-that might almost have been written by somebody else.  But it has
-a biographical importance that has hardly been properly estimated,
-even in connection with this rather overworked [[Biography|biography]].
-It is a curiously unlovely and uncomfortable [[Comedy|comedy]], not even
-uncomfortable enough to be a [[Tragedy|tragedy]].  The [[Hero|hero]] is not only not heroic,
-but he is hardly more amusing than attractive; and the fun that is
-made of him is not only not genial, but is not particularly funny.
-It is strange that such misadventures should come from the mind
-that gave us the radiant harlequinade of _The Wrong Box._ But I
-mention it here because it is full of a certain atmosphere, into which
-Stevenson was plunged too abruptly, as I believe, when he passed
-from boyhood into youth.  It is true to call it the atmosphere, or one
-of the atmospheres of Edinburgh; yet it is the very reverse of so much
-that we rightly associate with the arid dignity of the Modern Athens.
-There is something very specially sordid and squalid in the glimpses
-of low life given in the dissipations of John Nicholson;
-and something of the same kind comes to us like a gust of gas
-from the medical students of _The [[Body]] Snatcher._ When I say
-that this first step of Stevenson led him rather abruptly astray,
-I do not mean that he did anything half so bad as multitudes of polite
-persons have done in the most polished centres of civilisation.
-But I do mean that his [[City|city]] was not, in that particular aspect,
-very polite or polished or even particularly civilised.
-And I notice it because it has been noticed too little; and some
-other things have been noticed too much.
+EVERY now and then the eye is riveted, in reading current criticism,
+by some statement so astonishingly untrue, or even contrary
+to the fact, that it seems as if a man walking down the street
+were suddenly standing on his head.  It is all the more
+noticeable when the critic really has a strong head to stand on.
+One of the ablest of the younger critics, whose studies in other
+subjects I have warmly admired, wrote in our invaluable _London Mercury_
+a study of Stevenson; or what purported to be a study of Stevenson.
+And the chief thing he said, indeed almost the only thing he said,
+was that the thought of Stevenson instantly throws us back to the greater
+example of [[Edgar]] Allan Poe; that both were pallid and graceful
+figures "making wax [[Flowers|flowers]]," as somebody said; and of course
+the earlier and greater had the advantage of the later and the less.
+In fact, the critic treated Stevenson as the [[Shadow|shadow]] of Poe; which may
+not unfairly be called the [[Shadow|shadow]] of a shade.  He almost hinted that,
+for those who had read Poe, it was hardly worth while to read Stevenson.
+And indeed I could almost suspect he had taken his own advice;
+and never read a line of Stevenson in his life.
 
-It is an obvious [[Truth|truth]] that Stevenson was born of a Puritan tradition,
-in a Presbyterian country, where still rolled the echoes, at least,
-of the theological thunders of Knox; and where the Sabbath was
-sometimes more like a day of [[Death|death]] than a day of rest.  It is easy,
-only too easy, to apply this by representing Stevenson's father
-as a stern old Covenanter who frowned down the gay talents of his son;
-and such a simplification stands out boldly in black and white.
-But like many other black and white statements, it is not true;
-it is not even fair.  Old Mr. Stevenson was a Presbyterian and
-presumably a Puritan, but he was not a Pharisee; and he certainly
-did not need to be a Pharisee in order to condemn some parts of
-the conduct of his son.  It is probably true that almost any other
-son might have offended equally; but it is also true that almost
-any other father would have been equally offended.  The son would
-have been the last to pretend that the faults were all on one side;
-the only thing that can concern posterity in the matter is certain
-social conditions which gave to those faults a particular savour,
-which counted for something even when the faults themselves have been
-long left behind.  And while people have written rather too much
-about the [[Shadow|shadow]] of the Kirk and the restrictions of a Puritan society,
-there is something that has not been seen about what may be called
-the underside of such a Puritan [[City|city]].  There is something strangely
-ugly and ungracious not merely about the virtues but about the vices,
-and especially the pleasures, of such a place.  It can be felt,
-as I say, in Stevenson's own stories and in many other stories
-about Edinburgh.  Blasts of raw whisky come to us on that raw [[Wind|wind]]:
-there is sometimes something shrill, like the skirl of the pipes,
-about Scottish laughter; occasionally something very nearly insane
-about Scottish intoxication.  I will not connect it, as did a friend
-of mine, with the hypothesis that the heathen Scots originally
-worshipped demons; but it is probably connected with the same rather
-savage intensity which gave them their theological thoroughness.
-Anyhow, it is true that in such a world even [[Temptation|temptation]] itself
-has something terrifying as [[Well|well]] as tempting; and yet something
-at the same [[Time|time]] undignified and flat.  It was this that cut
-across the natural poetic adventure or [[Ambition|ambition]] of a young poet;
-and gave to the early part of his story a quality of frustration,
-if not of aberration.
+If a man were to say that Maeterlinck derives so directly from
+Dickens that it is difficult to draw the line between them, I should
+be momentarily at a loss to catch his meaning.  If he were to say
+that Walt Whitman was so close a copyist of Pope that it is hardly
+worth while to read the copy, I should not at once seize the clue.
+But I should think these comparisons rather more close, if anything,
+than the comparison between Stevenson and Poe.  Dickens did not
+confine himself to comic subjects so much as Poe did to tragic ones;
+and an [[Essay]] on Optimism might couple the names of Pope and Whitman.
+It might also include the name of Stevenson; but it would hardly beam
+and sparkle with the name of Poe.  The contrast, however, is much deeper
+than labels or the commonplaces of controversy.  It is much deeper
+than formal divisions between what is funny and what is serious.
+It is concerned with something which it is now fashionable
+in drawing-rooms to call psychological; but which those who would
+as soon talk Latin as Greek still prefer to call spiritual.
+It is not necessarily what the newspapers would call moral;
+but that is only because it is more moral than most modern [[morality]].
 
-What was the matter with Stevenson, I fancy, in so far as there
-was ever anything much the matter with him, was that there was
-too sharp a contrast between the shelter and delicate fancies
-of his [[Childhood|childhood]] and the sort of world which met him like the [[Wind|wind]]
-on the front door-step. It was not merely the contrast between
-poetry and [[Puritanism]]; it was also the contrast between poetry
-and prose; and prose that was almost repulsively prosaic.
-He did not believe enough in [[Puritanism]] to cling to it; but he did
-believe very much in a potential poetry of life, and he was bewildered
-by its apparently impossible position in the world of real living.
-And his national religion, even if he had believed in his religion
-as ardently as he believed in his nation, would never have met
-that particular point at issue.
+When Stevenson was known as Stennis, by Parisian art students
+struggling with his name, it was the hour of Art for Art's Sake.
+Painting was to be impersonal, though painters (like Whistler)
+were sometimes perhaps a little personal.  But they all insisted
+that every picture is as impersonal as a pattern.  They ought
+to have insisted that every pattern is as personal as a picture.
+Whether or no we see faces in the carpet, we ought to see a mind in
+the carpet; and in fact there is a mind in every scheme of ornament.
+There is as emphatically a [[morality]] expressed in Babylonian architecture
+or Baroque architecture as if it were plastered all over with
+Biblical texts.  Now in the same manner there is at the back of every
+[[artist]]'s mind something like a pattern or a type of architecture.
+The original quality in any man of [[Imagination|imagination]] is imagery.
+It is a thing like the landscapes of his [[Dreams|dreams]]; the sort of world
+he would wish to make or in which he would wish to wander;
+the strange flora and fauna of his own secret planet; the _sort_ of thing
+that he likes to think about.  This general atmosphere, and pattern
+or structure of growth, governs all his creations however varied;
+and because he can in this sense create a world, he is in this sense
+a creator; the image of God.  Now everybody knows what was in this
+sense the atmosphere and architecture of Poe.  Dark wine, dying lamps,
+drugging odours, a sense of being stifled in curtains of black velvet,
+a substance which is at once utterly black and unfathomably soft,
+all carried with them a sense of indefinite and infinite [[Decay|decay]].
+The word infinite is not itself used indefinitely.  The point of Poe
+is that we feel that _everything_ is decaying, including ourselves;
+faces are already growing featureless like those of lepers;
+roof-trees are rotting from root to roof; one great grey fungus
+as vast as a forest is sucking up life rather than giving it forth;
+mirrored in stagnant pools like lakes of [[Poison|poison]] which yet fade without
+line or frontier into the swamp.  The [[Stars|stars]] are not clean in his sight;
+but are rather more worlds made for worms.  And this corruption
+is increased, by an intense imaginative genius, with the addition
+of a satin surface of luxury and even a terrible sort of comfort.
+"Purple cushions that the lamplight gloated o'er" is in the spirit of his
+brother Baudelaire who wrote of _divans profonds commes les tombeaux._
+This dark luxury has something almost liquid about it.  Its laxity
+seems to be betraying more vividly how all these things are being
+sucked away from us, down a slow whirlpool more like a moving swamp.
+That is the atmosphere of [[Edgar]] Allan Poe; a sort of rich rottenness
+of decomposition, with something thick and narcotic in the very air.
+It is idle to describe what so darkly and magnificently describes itself.
+But perhaps the shortest and best way of describing that artistic
+talent is to say that Stevenson's is exactly the opposite.
 
-[[Puritanism]] had no idea of purity.  We might almost say that there is every
-other virtue in [[Puritanism]] except purity; often including continence,
-which is quite a different thing from purity.  But it has not many
-images of positive [[innocence]]; of the things that are at once white
-and solid, like the white [[chalk]] or white wood which children [[Love|love]].
-This does not detract at all from the noble Puritan qualities:
-the republican simplicity, the fighting spirit, the thrift, the [[logic]],
-the [[Renunciation|renunciation]] of luxuries, the resistance to tyrants, the energy
-and enterprise which have helped to give the Scot his adventurous
-advantage all over the world.  But it is none the less true that there
-has been in his creed, at best, negative rather than positive purity:
-the difference between the blank white [[Window|window]] and the ivory tower.
-I know that a Victorian prejudice still regards this interpretation
-of [[history]] by theology as a piece of most distressing bad taste.
-I also know that this taboo on the main topic of mankind is becoming
-an intolerable nuisance; and preventing anybody, from the Papist
-to the atheist, from saying what he really thinks about the most
-real themes in the world.  And I will take the liberty of stating,
-in spite of the taboo, that it is really relevant here to remember
-this Puritan defect.  It is as much a fact that the Kirk of
-Stevenson's country had no cult of the Holy [[Child]], no feast of the
-Holy Innocents, no tradition of the Little Brothers of St. Francis,
-nothing that could in any way _carry on_ the childish enthusiasm
-for simple things, and link it up with a lifelong rule of life--
-this is as much a fact as that the Quakers are not a good military
-school or the good Moslem a good wine-taster. Hence it followed
-that when Stevenson left his [[Home|home]], he shut the door on a [[house]]
-lined with fairy gold, but he came out on a frightful contrast;
-on temptations at once attractive and repulsive, and terrors
-that were still depressing even when they were disregarded.
-The boy in such surroundings is torn by something worse than the dilemma
-of Tannhäuser. He wonders why he is attracted by repellent things.
+The first fact about the imagery of Stevenson is that all his images
+stand out in very sharp outline; and are, as it were, all edges.
+It is something in him that afterwards attracted him to the abrupt
+and angular black and white of woodcuts.  It is to be seen from
+the first, in the way in which his eighteenth-century figures stand
+up against the skyline, with their cutlasses and cocked hats.
+The very words carry the sound and the significance.
+It is as if they were cut out with cutlasses; as was that
+unforgettable chip or wedge that was hacked by the blade
+of Billy Bones out of the wooden sign of the "Admiral Benbow."
+That sharp indentation of the wooden square remains as a sort
+of symbolic shape expressing Stevenson's type of literary attack;
+and if all the colours should fade from me and the scene of all
+that [[Romance|romance]] grow dark, I think that black wooden sign with a piece
+bitten out of it would be the last shape that I should see.
+It is no mere pun to say that it is the best of his woodcuts.
+Normally, anyhow, the scene is the very reverse of dark, and certainly the
+very reverse of indefinite.  Just as all the form can best be described
+as clean-cut, so all the colour is conspicuously clear and bright.
+That is why such figures are so often seen standing against the sea.
+Everybody who has been at the seaside has noted how sharp and
+highly coloured, like painted caricatures, appear even the most
+ordinary figures as they pass in profile to and fro against the blue
+dado of the sea.  There is something also of that hard light
+that falls full and pale upon ships and open shores; and even more,
+it need not be said, of a certain salt and acrid clearness in the air.
+But it is notably the case in the outlines of these maritime figures.
+They are all edges and they stand by the sea, that is the edge
+of the world.

@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 24 (part 5)"
+title: "Shirley — Chapter 24 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,62 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_24/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_24/part_06">part 06 ›</a></div>
 </nav>
 
+
+threw back the curtain to admit the moonlight more freely. She gazed
+
+intently on her face.
+
+
+
+"Then, if you [[Love|love]] me," said she, speaking quickly, with an altered
+
+voice; "if you feel as if, to use your own words, you could 'grow to my
+
+heart,' it will be neither shock nor [[Pain|pain]] for you to know that _that_
+
+heart is the source whence yours was filled; that from _my_ veins issued
+
+the tide which flows in _yours_; that you are _mine_--my daughter--my
+
+own [[Child|child]]."
+
+
+
+"Mrs. Pryor----"
+
+
+
+"My own [[Child|child]]!"
+
+
+
+"That is--that means--you have adopted me?"
+
+
+
+"It means that, if I have given you nothing else, I at least gave you
+
+life; that I bore you, nursed you; that I am your true mother. No other
+
+woman can claim the title; it is _mine_."
+
+
+
+"But Mrs. James Helstone--but my father's wife, whom I do not remember
+
+ever to have seen, she is my mother?"
+
+
+
+"She _is_ your mother. James Helstone was _my_ husband. I say you are
+
+_mine_. I have proved it. I thought perhaps you were all his, which
+
+would have been a cruel dispensation for me. I find it is _not_ so. God
+
+permitted me to be the parent of my [[Child|child]]'s mind. It belongs to me; it
+
+is my property--my _right_. These features are James's own. He had a
 
 fine face when he was young, and not altered by error. Papa, my darling,
 
@@ -235,59 +291,3 @@ his whole treasure of beauties, nor added to them one dark defect. All
 _you_ derived from him is excellent. You owe him gratitude. Leave,
 
 between him and me, the settlement of our mutual account. Meddle not.
-
-God is the arbiter. This world's laws never came near us--never! They
-
-were powerless as a rotten bulrush to protect me--impotent as idiot
-
-babblings to restrain him! As you said, it is all over now; the [[Grave|grave]]
-
-lies between us. There he sleeps, in that church. To his [[Dust|dust]] I say this
-
-[[Night|night]], what I have never said before, 'James, slumber peacefully! See!
-
-your terrible debt is cancelled! Look! I wipe out the long, black
-
-account with my own hand! James, your [[Child|child]] atones. This living likeness
-
-of you--this thing with your perfect features--this one good gift you
-
-gave me has nestled affectionately to my heart, and tenderly called me
-
-"mother." Husband, rest forgiven!'"
-
-
-
-"Dearest mother, that is right! Can papa's spirit hear us? Is he
-
-comforted to know that we still [[Love|love]] him?"
-
-
-
-"I said nothing of [[Love|love]]. I spoke of [[Forgiveness|forgiveness]]. Mind the [[Truth|truth]], [[Child|child]];
-
-I said nothing of [[Love|love]]! On the threshold of [[Eternity|eternity]], should he be there
-
-to see me enter, will I maintain that."
-
-
-
-"O mother, you must have suffered!"
-
-
-
-"O [[Child|child]], the human heart _can_ suffer! It can hold more [[Tears|tears]] than the
-
-ocean holds waters. We never know how deep, how wide it is, till misery
-
-begins to unbind her clouds, and fill it with rushing blackness."
-
-
-
-"Mother, forget."
-
-
-
-"Forget!" she said, with the strangest spectre of a laugh. "The north
-
-pole will rush to the south, and the headlands of Europe be locked into

@@ -1,5 +1,5 @@
 ---
-title: "Hard Times — Chapter 9"
+title: "Hard Times — Chapter 10"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/hard-times-(dickens)"
@@ -14,330 +14,223 @@ tags:
 </nav>
 
 
-CHAPTER IX
-SISSY’S PROGRESS
-
-
-[[Sissy Jupe|SISSY JUPE]] had not an easy [[Time|time]] of it, between Mr. M’Choakumchild and
-Mrs. Gradgrind, and was not without strong impulses, in the first months
-of her probation, to run away.  It hailed facts all day long so very
-hard, and life in general was opened to her as such a closely ruled
-ciphering-book, that assuredly she would have run away, but for only one
-restraint.
-
-It is lamentable to think of; but this restraint was the result of no
-arithmetical process, was [[Self|self]]-imposed in defiance of all calculation,
-and went dead against any table of probabilities that any Actuary would
-have drawn up from the premises.  The girl believed that her father had
-not deserted her; she lived in the [[Hope|hope]] that he would come back, and in
-the [[Faith|faith]] that he would be made the happier by her remaining where she
-was.
-
-The wretched ignorance with which Jupe clung to this consolation,
-rejecting the superior comfort of knowing, on a sound arithmetical basis,
-that her father was an unnatural vagabond, filled Mr. Gradgrind with
-pity.  Yet, what was to be done?  M’Choakumchild reported that she had a
-very dense head for figures; that, once possessed with a general idea of
-the globe, she took the smallest conceivable interest in its exact
-measurements; that she was extremely slow in the acquisition of dates,
-unless some pitiful incident happened to be connected therewith; that she
-would burst into [[Tears|tears]] on being required (by the mental process)
-immediately to name the cost of two hundred and forty-seven muslin caps
-at fourteen-pence halfpenny; that she was as low down, in the school, as
-low could be; that after eight weeks of induction into the elements of
-Political Economy, she had only yesterday been set right by a prattler
-three feet high, for returning to the question, ‘What is the first
-principle of this science?’ the absurd answer, ‘To do unto others as I
-would that they should do unto me.’
-
-Mr. Gradgrind observed, shaking his head, that all this was very bad;
-that it showed the necessity of infinite grinding at the mill of
-knowledge, as per system, schedule, blue book, report, and tabular
-statements A to Z; and that Jupe ‘must be kept to it.’  So Jupe was kept
-to it, and became low-spirited, but no wiser.
-
-‘It would be a fine thing to be you, Miss Louisa!’ she said, one [[Night|night]],
-when Louisa had endeavoured to make her perplexities for next day
-something clearer to her.
-
-‘Do you think so?’
-
-‘I should know so much, Miss Louisa.  All that is difficult to me now,
-would be so easy then.’
-
-‘You might not be the better for it, Sissy.’
-
-Sissy submitted, after a little hesitation, ‘I should not be the worse,
-Miss Louisa.’  To which Miss Louisa answered, ‘I don’t know that.’
-
-There had been so little communication between these two—both because
-life at Stone Lodge went monotonously round like a piece of machinery
-which discouraged human interference, and because of the prohibition
-relative to Sissy’s past career—that they were still almost strangers.
-Sissy, with her dark eyes wonderingly directed to Louisa’s face, was
-uncertain whether to say more or to remain silent.
-
-‘You are more useful to my mother, and more pleasant with her than I can
-ever be,’ Louisa resumed.  ‘You are pleasanter to yourself, than _I_ am
-to _my_self.’
-
-‘But, if you please, Miss Louisa,’ Sissy pleaded, ‘I am—O so stupid!’
-
-Louisa, with a brighter laugh than usual, told her she would be wiser
-by-and-by.
-
-‘You don’t know,’ said Sissy, half crying, ‘what a stupid girl I am.  All
-through school hours I make mistakes.  Mr. and Mrs. M’Choakumchild call
-me up, over and over again, regularly to make mistakes.  I can’t help
-them.  They seem to come natural to me.’
-
-‘Mr. and Mrs. M’Choakumchild never make any mistakes themselves, I
-suppose, Sissy?’
-
-‘O no!’ she eagerly returned.  ‘They know everything.’
-
-‘Tell me some of your mistakes.’
-
-‘I am almost ashamed,’ said Sissy, with reluctance.  ‘But to-day, for
-instance, Mr. M’Choakumchild was explaining to us about Natural
-Prosperity.’
-
-‘National, I think it must have been,’ observed Louisa.
-
-‘Yes, it was.—But isn’t it the same?’ she timidly asked.
-
-‘You had better say, National, as he said so,’ returned Louisa, with her
-dry reserve.
-
-‘National Prosperity.  And he said, Now, this schoolroom is a Nation.
-And in this nation, there are fifty millions of money.  Isn’t this a
-prosperous nation?  Girl number twenty, isn’t this a prosperous nation,
-and a’n’t you in a thriving state?’
-
-‘What did you say?’ asked Louisa.
-
-‘Miss Louisa, I said I didn’t know.  I thought I couldn’t know whether it
-was a prosperous nation or not, and whether I was in a thriving state or
-not, unless I knew who had got the money, and whether any of it was mine.
-But that had nothing to do with it.  It was not in the figures at all,’
-said Sissy, wiping her eyes.
-
-‘That was a great mistake of yours,’ observed Louisa.
-
-‘Yes, Miss Louisa, I know it was, now.  Then Mr. M’Choakumchild said he
-would try me again.  And he said, This schoolroom is an immense town, and
-in it there are a million of inhabitants, and only five-and-twenty are
-starved to [[Death|death]] in the streets, in the course of a year.  What is your
-remark on that proportion?  And my remark was—for I couldn’t think of a
-better one—that I thought it must be just as hard upon those who were
-starved, whether the others were a million, or a million million.  And
-that was wrong, too.’
-
-‘Of course it was.’
-
-‘Then Mr. M’Choakumchild said he would try me once more.  And he said,
-Here are the stutterings—’
-
-‘Statistics,’ said Louisa.
-
-‘Yes, Miss Louisa—they always remind me of stutterings, and that’s
-another of my mistakes—of accidents upon the sea.  And I find (Mr.
-M’Choakumchild said) that in a given [[Time|time]] a hundred thousand persons went
-to sea on long voyages, and only five hundred of them were drowned or
-burnt to [[Death|death]].  What is the percentage?  And I said, Miss;’ here Sissy
-fairly sobbed as confessing with extreme contrition to her greatest
-error; ‘I said it was nothing.’
-
-‘Nothing, Sissy?’
-
-‘Nothing, Miss—to the relations and friends of the people who were
-killed.  I shall never learn,’ said Sissy.  ‘And the worst of all is,
-that although my poor father wished me so much to learn, and although I
-am so anxious to learn, because he wished me to, I am afraid I don’t like
-it.’
-
-Louisa stood looking at the pretty modest head, as it drooped abashed
-before her, until it was raised again to glance at her face.  Then she
-asked:
-
-‘Did your father know so much himself, that he wished you to be [[Well|well]]
-taught too, Sissy?’
-
-Sissy hesitated before replying, and so plainly showed her sense that
-they were entering on forbidden ground, that Louisa added, ‘No one hears
-us; and if any one did, I am sure no harm could be found in such an
-[[Innocent|innocent]] question.’
-
-‘No, Miss Louisa,’ answered Sissy, upon this encouragement, shaking her
-head; ‘father knows very little indeed.  It’s as much as he can do to
-write; and it’s more than people in general can do to read his writing.
-Though it’s plain to _me_.’
-
-‘Your mother?’
-
-‘Father says she was quite a scholar.  She died when I was born.  She
-was;’ Sissy made the terrible communication nervously; ‘she was a
-dancer.’
-
-‘Did your father [[Love|love]] her?’  Louisa asked these questions with a strong,
-wild, wandering interest peculiar to her; an interest gone astray like a
-banished creature, and hiding in solitary places.
-
-‘O yes!  As dearly as he loves me.  Father loved me, first, for her sake.
-He carried me about with him when I was quite a baby.  We have never been
-asunder from that [[Time|time]].’
-
-‘Yet he [[Leaves|leaves]] you now, Sissy?’
-
-‘Only for my good.  Nobody understands him as I do; nobody knows him as I
-do.  When he left me for my good—he never would have left me for his
-own—I know he was almost broken-hearted with the trial.  He will not be
-happy for a single minute, till he comes back.’
-
-‘Tell me more about him,’ said Louisa, ‘I will never ask you again.
-Where did you live?’
-
-‘We travelled about the country, and had no fixed place to live in.
-Father’s a;’ Sissy whispered the awful word, ‘a clown.’
-
-‘To make the people laugh?’ said Louisa, with a nod of intelligence.
-
-‘Yes.  But they wouldn’t laugh sometimes, and then father cried.  Lately,
-they very often wouldn’t laugh, and he used to come [[Home|home]] despairing.
-Father’s not like most.  Those who didn’t know him as [[Well|well]] as I do, and
-didn’t [[Love|love]] him as dearly as I do, might believe he was not quite right.
-Sometimes they played tricks upon him; but they never knew how he felt
-them, and shrunk up, when he was [[Alone|alone]] with me.  He was far, far timider
-than they thought!’
-
-‘And you were his comfort through everything?’
-
-She nodded, with the [[Tears|tears]] [[rolling]] down her face.  ‘I [[Hope|hope]] so, and father
-said I was.  It was because he grew so scared and trembling, and because
-he felt himself to be a poor, weak, ignorant, helpless man (those used to
-be his words), that he wanted me so much to know a great deal, and be
-different from him.  I used to read to him to cheer his [[Courage|courage]], and he
-was very fond of that.  They were wrong books—I am never to speak of them
-here—but we didn’t know there was any harm in them.’
-
-‘And he liked them?’ said Louisa, with a searching gaze on Sissy all this
-[[Time|time]].
-
-‘O very much!  They kept him, many times, from what did him real harm.
-And often and often of a [[Night|night]], he used to forget all his troubles in
-wondering whether the Sultan would let the lady go on with the story, or
-would have her head cut off before it was finished.’
-
-‘And your father was always kind?  To the last?’ asked Louisa
-contravening the great principle, and wondering very much.
-
-‘Always, always!’ returned Sissy, clasping her hands.  ‘Kinder and kinder
-than I can tell.  He was angry only one [[Night|night]], and that was not to me,
-but Merrylegs.  Merrylegs;’ she whispered the awful fact; ‘is his
-performing dog.’
-
-‘Why was he angry with the dog?’ Louisa demanded.
-
-‘Father, soon after they came [[Home|home]] from performing, told Merrylegs to
-jump up on the backs of the two chairs and stand across them—which is one
-of his tricks.  He looked at father, and didn’t do it at once.
-Everything of father’s had gone wrong that [[Night|night]], and he hadn’t pleased
-the public at all.  He cried out that the very dog knew he was failing,
-and had no compassion on him.  Then he beat the dog, and I was
-frightened, and said, “Father, father!  Pray don’t hurt the creature who
-is so fond of you!  O Heaven forgive you, father, stop!”  And he stopped,
-and the dog was bloody, and father lay down crying on the floor with the
-dog in his arms, and the dog licked his face.’
-
-Louisa saw that she was sobbing; and going to her, kissed her, took her
-hand, and sat down beside her.
-
-‘Finish by telling me how your father left you, Sissy.  Now that I have
-asked you so much, tell me the end.  The blame, if there is any blame, is
-mine, not yours.’
-
-‘Dear Miss Louisa,’ said Sissy, covering her eyes, and sobbing yet; ‘I
-came [[Home|home]] from the school that afternoon, and found poor father just come
-[[Home|home]] too, from the booth.  And he sat rocking himself over the [[Fire|fire]], as
-if he was in [[Pain|pain]].  And I said, “Have you hurt yourself, father?” (as he
-did sometimes, like they all did), and he said, “A little, my darling.”
-And when I came to stoop down and look up at his face, I saw that he was
-crying.  The more I spoke to him, the more he hid his face; and at first
-he shook all over, and said nothing but “My darling;” and “My [[Love|love]]!”’
-
-Here Tom came lounging in, and stared at the two with a coolness not
-particularly savouring of interest in anything but himself, and not much
-of that at present.
-
-‘I am asking Sissy a few questions, Tom,’ observed his sister.  ‘You have
-no occasion to go away; but don’t interrupt us for a moment, Tom dear.’
-
-‘Oh! very [[Well|well]]!’ returned Tom.  ‘Only father has brought old Bounderby
-[[Home|home]], and I want you to come into the drawing-room.  Because if you come,
-there’s a good chance of old Bounderby’s asking me to dinner; and if you
-don’t, there’s none.’
-
-‘I’ll come directly.’
-
-‘I’ll wait for you,’ said Tom, ‘to make sure.’
-
-Sissy resumed in a lower voice.  ‘At last poor father said that he had
-given no satisfaction again, and never did give any satisfaction now, and
-that he was a shame and disgrace, and I should have done better without
-him all along.  I said all the affectionate things to him that came into
-my heart, and presently he was quiet and I sat down by him, and told him
-all about the school and everything that had been said and done there.
-When I had no more left to tell, he put his arms round my neck, and
-kissed me a great many times.  Then he asked me to fetch some of the
-stuff he used, for the little hurt he had had, and to get it at the best
-place, which was at the other end of town from there; and then, after
-kissing me again, he let me go.  When I had gone down-stairs, I turned
-back that I might be a little bit more company to him yet, and looked in
-at the door, and said, “Father dear, shall I take Merrylegs?”  Father
-shook his head and said, “No, Sissy, no; take nothing that’s known to be
-mine, my darling;” and I left him sitting by the [[Fire|fire]].  Then the thought
-must have come upon him, poor, poor father! of going away to try
-something for my sake; for when I came back, he was gone.’
-
-‘I say!  Look sharp for old Bounderby, Loo!’ Tom remonstrated.
-
-‘There’s no more to tell, Miss Louisa.  I keep the nine oils ready for
-him, and I know he will come back.  Every letter that I see in Mr.
-Gradgrind’s hand takes my breath away and blinds my eyes, for I think it
-comes from father, or from Mr. Sleary about father.  Mr. Sleary promised
-to write as soon as ever father should be heard of, and I trust to him to
-keep his word.’
-
-‘Do look sharp for old Bounderby, Loo!’ said Tom, with an impatient
-whistle.  ‘He’ll be off if you don’t look sharp!’
-
-After this, whenever Sissy dropped a curtsey to Mr. Gradgrind in the
-presence of his family, and said in a faltering way, ‘I beg your pardon,
-sir, for being troublesome—but—have you had any letter yet about me?’
-Louisa would suspend the occupation of the moment, whatever it was, and
-look for the reply as earnestly as Sissy did.  And when Mr. Gradgrind
-regularly answered, ‘No, Jupe, nothing of the sort,’ the trembling of
-Sissy’s lip would be repeated in Louisa’s face, and her eyes would follow
-Sissy with compassion to the door.  Mr. Gradgrind usually improved these
-occasions by remarking, when she was gone, that if Jupe had been properly
-trained from an early age she would have remonstrated to herself on sound
-principles the baselessness of these fantastic hopes.  Yet it did seem
-(though not to him, for he saw nothing of it) as if fantastic [[Hope|hope]] could
-take as strong a hold as Fact.
-
-This observation must be limited exclusively to his daughter.  As to Tom,
-he was becoming that not unprecedented triumph of calculation which is
-usually at work on number one.  As to Mrs. Gradgrind, if she said
-anything on the subject, she would come a little way out of her wrappers,
-like a feminine dormouse, and say:
-
-‘Good gracious bless me, how my poor head is vexed and worried by that
-girl Jupe’s so perseveringly asking, over and over again, about her
-tiresome letters!  Upon my word and [[Honour|honour]] I seem to be fated, and
-destined, and ordained, to live in the midst of things that I am never to
-hear the last of.  It really is a most extraordinary circumstance that it
-appears as if I never was to hear the last of anything!’
-
-At about this point, Mr. Gradgrind’s eye would fall upon her; and under
-the influence of that wintry piece of fact, she would become torpid
-again.
+CHAPTER X
+[[Stephen Blackpool|STEPHEN BLACKPOOL]]
+
+
+I ENTERTAIN a weak idea that the English people are as hard-worked as any
+people upon whom the sun shines.  I acknowledge to this ridiculous
+idiosyncrasy, as a reason why I would give them a little more play.
+
+In the hardest working part of Coketown; in the innermost fortifications
+of that ugly citadel, where [[Nature]] was as strongly bricked out as killing
+airs and gases were bricked in; at the heart of the labyrinth of narrow
+courts upon courts, and close streets upon streets, which had come into
+existence piecemeal, every piece in a violent hurry for some one man’s
+purpose, and the whole an unnatural family, shouldering, and trampling,
+and pressing one another to [[Death|death]]; in the last close nook of this great
+exhausted receiver, where the chimneys, for want of air to make a
+draught, were built in an immense variety of stunted and crooked shapes,
+as though every [[house]] put out a sign of the kind of people who might be
+expected to be born in it; among the multitude of Coketown, generically
+called ‘the Hands,’—a race who would have found more favour with some
+people, if [[Providence]] had seen fit to make them only hands, or, like the
+lower creatures of the seashore, only hands and stomachs—lived a certain
+[[Stephen Blackpool]], forty years of age.
+
+Stephen looked older, but he had had a hard life.  It is said that every
+life has its roses and thorns; there seemed, however, to have been a
+misadventure or mistake in Stephen’s case, whereby somebody else had
+become possessed of his roses, and he had become possessed of the same
+somebody else’s thorns in addition to his own.  He had known, to use his
+words, a peck of trouble.  He was usually called Old Stephen, in a kind
+of rough homage to the fact.
+
+A rather stooping man, with a knitted brow, a pondering expression of
+face, and a hard-looking head sufficiently capacious, on which his
+iron-grey hair lay long and thin, Old Stephen might have passed for a
+particularly intelligent man in his condition.  Yet he was not.  He took
+no place among those remarkable ‘Hands,’ who, piecing together their
+broken intervals of leisure through many years, had mastered difficult
+sciences, and acquired a knowledge of most unlikely things.  He held no
+station among the Hands who could make speeches and carry on debates.
+Thousands of his compeers could talk much better than he, at any [[Time|time]].
+He was a good power-loom weaver, and a man of perfect integrity.  What
+more he was, or what else he had in him, if anything, let him show for
+himself.
+
+The lights in the great factories, which looked, when they were
+illuminated, like Fairy palaces—or the travellers by express-train said
+so—were all extinguished; and [[The Bells|the bells]] had rung for knocking off for the
+[[Night|night]], and had ceased again; and the Hands, men and women, boy and girl,
+were clattering [[Home|home]].  Old Stephen was standing in the street, with the
+old sensation upon him which the stoppage of the machinery always
+produced—the sensation of its having worked and stopped in his own head.
+
+‘Yet I don’t see Rachael, still!’ said he.
+
+It was a wet [[Night|night]], and many groups of young women passed him, with their
+shawls drawn over their bare heads and held close under their chins to
+keep the rain out.  He knew Rachael [[Well|well]], for a glance at any one of
+these groups was sufficient to show him that she was not there.  At last,
+there were no more to come; and then he turned away, saying in a tone of
+disappointment, ‘Why, then, ha’ missed her!’
+
+But, he had not gone the length of three streets, when he saw another of
+the shawled figures in advance of him, at which he looked so keenly that
+perhaps its mere [[Shadow|shadow]] indistinctly reflected on the wet pavement—if he
+could have seen it without the figure itself moving along from lamp to
+lamp, brightening and fading as it went—would have been enough to tell
+him who was there.  Making his pace at once much quicker and much softer,
+he darted on until he was very near this figure, then fell into his
+former walk, and called ‘Rachael!’
+
+She turned, being then in the brightness of a lamp; and raising her hood
+a little, showed a quiet oval face, dark and rather delicate, irradiated
+by a pair of very gentle eyes, and further set off by the perfect order
+of her shining black hair.  It was not a face in its first bloom; she was
+a woman five and thirty years of age.
+
+‘Ah, lad!  ’Tis thou?’  When she had said this, with a smile which would
+have been quite expressed, though nothing of her had been seen but her
+pleasant eyes, she replaced her hood again, and they went on together.
+
+‘I thought thou wast ahind me, Rachael?’
+
+‘No.’
+
+‘Early t’[[Night|night]], lass?’
+
+‘’Times I’m a little early, Stephen! ’times a little late.  I’m never to
+be counted on, going [[Home|home]].’
+
+‘Nor going t’other way, neither, ’t seems to me, Rachael?’
+
+‘No, Stephen.’
+
+He looked at her with some disappointment in his face, but with a
+respectful and patient conviction that she must be right in whatever she
+did.  The expression was not lost upon her; she laid her hand lightly on
+his arm a moment as if to thank him for it.
+
+‘We are such true friends, lad, and such old friends, and getting to be
+such old folk, now.’
+
+‘No, Rachael, thou’rt as young as ever thou wast.’
+
+‘One of us would be puzzled how to get old, Stephen, without ’t other
+getting so too, both being alive,’ she answered, laughing; ‘but, anyways,
+we’re such old friends, and t’ hide a word of honest [[Truth|truth]] fro’ one
+another would be a sin and a pity.  ’Tis better not to walk too much
+together.  ’Times, yes!  ’Twould be hard, indeed, if ’twas not to be at
+all,’ she said, with a cheerfulness she sought to communicate to him.
+
+‘’Tis hard, anyways, Rachael.’
+
+‘Try to think not; and ’twill seem better.’
+
+‘I’ve tried a long [[Time|time]], and ’ta’nt got better.  But thou’rt right; ’t
+might mak fok talk, even of thee.  Thou hast been that to me, Rachael,
+through so many year: thou hast done me so much good, and heartened of me
+in that cheering way, that thy word is a law to me.  Ah, lass, and a
+bright good law!  Better than some real ones.’
+
+‘Never fret about them, Stephen,’ she answered quickly, and not without
+an anxious glance at his face.  ‘Let the laws be.’
+
+‘Yes,’ he said, with a slow nod or two.  ‘Let ’em be.  Let everything be.
+Let all sorts [[Alone|alone]].  ’Tis a muddle, and that’s aw.’
+
+‘Always a muddle?’ said Rachael, with another gentle touch upon his arm,
+as if to recall him out of the thoughtfulness, in which he was biting the
+long ends of his loose neckerchief as he walked along.  The touch had its
+instantaneous effect.  He let them fall, turned a smiling face upon her,
+and said, as he broke into a good-humoured laugh, ‘Ay, Rachael, lass,
+awlus a muddle.  That’s where I stick.  I come to the muddle many times
+and agen, and I never get beyond it.’
+
+They had walked some distance, and were near their own homes.  The
+woman’s was the first reached.  It was in one of the many small streets
+for which the favourite undertaker (who turned a handsome sum out of the
+one poor ghastly pomp of the neighbourhood) kept a black ladder, in order
+that those who had done their daily groping up and down the narrow stairs
+might slide out of this working world by the windows.  She stopped at the
+corner, and putting her hand in his, wished him good [[Night|night]].
+
+‘Good [[Night|night]], dear lass; good [[Night|night]]!’
+
+She went, with her neat figure and her sober womanly step, down the dark
+street, and he stood looking after her until she turned into one of the
+small houses.  There was not a flutter of her coarse shawl, perhaps, but
+had its interest in this man’s eyes; not a tone of her voice but had its
+echo in his innermost heart.
+
+When she was lost to his view, he pursued his homeward way, glancing up
+sometimes at the sky, where the clouds were sailing fast and wildly.
+But, they were broken now, and the rain had ceased, and the [[Moon|moon]]
+shone,—looking down the high chimneys of Coketown on the deep furnaces
+below, and casting [[titanic|Titanic]] shadows of the steam-engines at rest, upon the
+walls where they were lodged.  The man seemed to have brightened with the
+[[Night|night]], as he went on.
+
+His [[Home|home]], in such another street as the first, saving that it was
+narrower, was over a little shop.  How it came to pass that any people
+found it worth their while to sell or buy the wretched little toys, mixed
+up in its [[Window|window]] with cheap newspapers and pork (there was a leg to be
+raffled for to-morrow-[[Night|night]]), matters not here.  He took his end of
+candle from a shelf, lighted it at another end of candle on the counter,
+without disturbing the mistress of the shop who was asleep in her little
+room, and went upstairs into his lodging.
+
+It was a room, not unacquainted with the black ladder under various
+tenants; but as neat, at present, as such a room could be.  A few books
+and writings were on an old bureau in a corner, the furniture was decent
+and sufficient, and, though the atmosphere was tainted, the room was
+clean.
+
+Going to the hearth to set the candle down upon a round three-legged
+table standing there, he stumbled against something.  As he recoiled,
+looking down at it, it raised itself up into the form of a woman in a
+sitting attitude.
+
+‘Heaven’s [[Mercy|mercy]], woman!’ he cried, falling farther off from the figure.
+‘Hast thou come back again!’
+
+Such a woman!  A disabled, drunken creature, barely able to preserve her
+sitting posture by steadying herself with one begrimed hand on the floor,
+while the other was so purposeless in trying to push away her tangled
+hair from her face, that it only blinded her the more with the dirt upon
+it.  A creature so foul to look at, in her tatters, stains and splashes,
+but so much fouler than that in her moral infamy, that it was a shameful
+thing even to see her.
+
+After an impatient oath or two, and some stupid clawing of herself with
+the hand not necessary to her support, she got her hair away from her
+eyes sufficiently to obtain a sight of him.  Then she sat swaying her
+[[Body|body]] to and fro, and making gestures with her unnerved arm, which seemed
+intended as the accompaniment to a fit of laughter, though her face was
+stolid and drowsy.
+
+‘Eigh, lad?  What, yo’r there?’  Some hoarse sounds meant for this, came
+mockingly out of her at last; and her head dropped forward on her breast.
+
+‘Back agen?’ she screeched, after some minutes, as if he had that moment
+said it.  ‘Yes!  And back agen.  Back agen ever and ever so often.  Back?
+Yes, back.  Why not?’
+
+Roused by the unmeaning violence with which she cried it out, she
+scrambled up, and stood supporting herself with her shoulders against the
+wall; dangling in one hand by the string, a dunghill-[[Fragment|fragment]] of a
+bonnet, and trying to look scornfully at him.
+
+‘I’ll sell thee off again, and I’ll sell thee off again, and I’ll sell
+thee off a score of times!’ she cried, with something between a furious
+menace and an effort at a defiant [[Dance|dance]].  ‘Come awa’ from th’ bed!’  He
+was sitting on the side of it, with his face hidden in his hands.  ‘Come
+awa! from ’t.  ’Tis mine, and I’ve a right to t’!’
+
+As she staggered to it, he avoided her with a shudder, and passed—his
+face still hidden—to the opposite end of the room.  She threw herself
+upon the bed heavily, and soon was snoring hard.  He sunk into a chair,
+and moved but once all that [[Night|night]].  It was to throw a covering over her;
+as if his hands were not enough to hide her, even in the darkness.

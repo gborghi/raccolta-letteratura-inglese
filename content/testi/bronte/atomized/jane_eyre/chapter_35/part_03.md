@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 35 (part 3)"
+title: "Jane Eyre — Chapter 35 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_35/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_35/part_04">part 04 ›</a></div>
 </nav>
 
+
+“Not as a husband.”
+
+“Yet he is a handsome fellow.”
+
+“And I am so plain, you see, Die. We should never suit.”
+
+“Plain! You? Not at all. You are much too pretty, as [[Well|well]] as too good,
+to be grilled alive in Calcutta.” And again she earnestly conjured me
+to give up all thoughts of going out with her brother.
+
+“I must indeed,” I said; “for when just now I repeated the offer of
+serving him for a deacon, he expressed himself shocked at my want of
+decency. He seemed to think I had committed an impropriety in proposing
+to accompany him unmarried: as if I had not from the first hoped to
+find in him a brother, and habitually regarded him as such.”
 
 “What makes you say he does not [[Love|love]] you, Jane?”
 
@@ -86,19 +102,19 @@ the kings of the earth bring their glory and [[Honour|honour]]; which has no nee
 of sun or [[Moon|moon]] to shine in it, because the glory of God lightens it,
 and the [[Lamb]] is the light thereof.
 
-In the [[Prayer|prayer]] following the chapter, all his energy gathered—all his
+In the [[prayer]] following the chapter, all his energy gathered—all his
 stern zeal woke: he was in deep earnest, wrestling with God, and
 resolved on a conquest. He supplicated strength for the weak-hearted;
 guidance for wanderers from the fold: a return, even at the eleventh
 hour, for those whom the temptations of the world and the flesh were
 luring from the narrow path. He asked, he urged, he claimed the boon of
 a brand snatched from the burning. Earnestness is ever deeply solemn:
-first, as I listened to that [[Prayer|prayer]], I wondered at his; then, when it
+first, as I listened to that [[prayer]], I wondered at his; then, when it
 continued and [[Rose|rose]], I was touched by it, and at last awed. He felt the
 [[Greatness|greatness]] and goodness of his purpose so sincerely: others who heard
 him plead for it, could not but feel it too.
 
-The [[Prayer|prayer]] over, we took leave of him: he was to go at a very early
+The [[prayer]] over, we took leave of him: he was to go at a very early
 hour in the morning. [[Diana]] and Mary having kissed him, left the room—in
 compliance, I think, with a whispered hint from him: I tendered my
 hand, and wished him a pleasant [[Journey|journey]].
@@ -114,20 +130,3 @@ while it is day—warned that ‘the [[Night|night]] cometh when no man shall wo
 Remember the fate of Dives, who had his good things in this life. God
 give you strength to choose that better part which shall not be taken
 from you!”
-
-He laid his hand on my head as he uttered the last words. He had spoken
-earnestly, mildly: his look was not, indeed, that of a [[Lover|lover]] beholding
-his mistress, but it was that of a pastor recalling his wandering
-sheep—or better, of a guardian angel watching the [[Soul|soul]] for which he is
-responsible. All men of talent, whether they be men of feeling or not;
-whether they be zealots, or aspirants, or despots—provided only they be
-sincere—have their [[Sublime|sublime]] moments, when they subdue and rule. I felt
-veneration for St. John—veneration so strong that its impetus thrust me
-at once to the point I had so long shunned. I was tempted to cease
-struggling with him—to rush down the torrent of his will into the gulf
-of his existence, and there lose my own. I was almost as hard beset by
-him now as I had been once before, in a different way, by another. I
-was a [[Fool|fool]] both times. To have yielded then would have been an error of
-principle; to have yielded now would have been an error of judgment. So
-I think at this hour, when I look back to the crisis through the quiet
-medium of [[Time|time]]: I was unconscious of folly at the instant.

@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 3 (part 1)"
+title: "Oliver Twist — Chapter 3 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -52,7 +52,7 @@ applications of the cane. As for society, he was carried every other
 day into the hall where the boys dined, and there sociably flogged as a
 public warning and example. And so far from being denied the advantages
 of religious consolation, he was kicked into the same apartment every
-evening at [[Prayer|prayer]]-[[Time|time]], and there permitted to listen to, and console
+evening at [[prayer]]-[[Time|time]], and there permitted to listen to, and console
 his mind with, a general supplication of the boys, containing a special
 clause, therein inserted by authority of the board, in which they
 entreated to be made good, virtuous, contented, and obedient, and to be
@@ -119,15 +119,3 @@ where [[Oliver]] had first seen him.
 
 “It’s a nasty trade,” said Mr. Limbkins, when Gamfield had again stated
 his wish.
-
-“Young boys have been smothered in chimneys before now,” said another
-gentleman.
-
-“That’s acause they damped the straw afore they lit it in the chimbley
-to make ’em come down again,” said Gamfield; “that’s all smoke, and no
-blaze; vereas smoke ain’t o’ no use at all in making a boy come down,
-for it only sinds him to [[Sleep|sleep]], and that’s wot he likes. Boys is wery
-obstinit, and wery lazy, Gen’l’men, and there’s nothink like a good hot
-blaze to make ’em come down vith a run. It’s humane too, gen’l’men,
-acause, even if they’ve stuck in the chimbley, roasting their feet
-makes ’em struggle to hextricate theirselves.”

@@ -14,6 +14,57 @@ tags:
 </nav>
 
 
+‘I’m not sure,’ said Mr. Britain, ‘that it’s what would be considered
+good [[philosophy]].  I’ve my doubts about that; but it wears [[Well|well]], and saves
+a quantity of snarling, which the genuine article don’t always.’
+
+‘See how you used to go on once, yourself, you know!’ said Clemency.
+
+‘Ah!’ said Mr. Britain.  ‘But the most extraordinary thing, Clemmy, is
+that I should live to be brought round, through you.  That’s the strange
+part of it.  Through you!  Why, I suppose you haven’t so much as half an
+idea in your head.’
+
+Clemency, without taking the least offence, shook it, and laughed and
+hugged herself, and said, ‘No, she didn’t suppose she had.’
+
+‘I’m pretty sure of it,’ said Mr. Britain.
+
+‘Oh!  I dare say you’re right,’ said Clemency.  ‘I don’t pretend to none.
+I don’t want any.’
+
+Benjamin took his pipe from his lips, and laughed till the [[Tears|tears]] ran down
+his face.  ‘What a natural you are, Clemmy!’ he said, shaking his head,
+with an infinite relish of the joke, and wiping his eyes.  Clemency,
+without the smallest inclination to dispute it, did the like, and laughed
+as heartily as he.
+
+‘I can’t help liking you,’ said Mr. Britain; ‘you’re a regular good
+creature in your way, so shake hands, Clem.  Whatever happens, I’ll
+always take notice of you, and be a friend to you.’
+
+‘Will you?’ returned Clemency.  ‘[[Well]]! that’s very good of you.’
+
+‘Yes, yes,’ said Mr. Britain, giving her his pipe to knock the ashes out
+of it; ‘I’ll stand by you.  Hark!  That’s a curious noise!’
+
+‘Noise!’ repeated Clemency.
+
+‘A footstep outside.  Somebody dropping from the wall, it sounded like,’
+said Britain.  ‘Are they all abed up-stairs?’
+
+‘Yes, all abed by this [[Time|time]],’ she replied.
+
+‘Didn’t you hear anything?’
+
+‘No.’
+
+They both listened, but heard nothing.
+
+‘I tell you what,’ said Benjamin, taking down a lantern.  ‘I’ll have a
+look round, before I go to bed myself, for satisfaction’s sake.  Undo the
+door while I light this, Clemmy.’
+
 Clemency complied briskly; but observed as she did so, that he would only
 have his walk for his pains, that it was all his fancy, and so forth.
 Mr. Britain said ‘very likely;’ but sallied out, nevertheless, armed with
@@ -101,50 +152,3 @@ that, bursting into [[Tears|tears]], she threw her arms round Marion’s neck.
 
 ‘It’s little that I know, my dear,’ cried Clemency, ‘very little; but I
 know that this should not be.  Think of what you do!’
-
-‘I have thought of it many times,’ said Marion, gently.
-
-‘Once more,’ urged Clemency.  ‘Till to-morrow.’  Marion shook her head.
-
-‘For Mr. Alfred’s sake,’ said Clemency, with homely earnestness.  ‘Him
-that you used to [[Love|love]] so dearly, once!’
-
-She hid her face, upon the instant, in her hands, repeating ‘Once!’ as if
-it rent her heart.
-
-‘Let me go out,’ said Clemency, soothing her.  ‘I’ll tell him what you
-like.  Don’t [[Cross|cross]] the door-step to-[[Night|night]].  I’m sure no good will come of
-it.  Oh, it was an unhappy day when Mr. Warden was ever brought here!
-Think of your good father, darling—of your sister.’
-
-‘I have,’ said Marion, hastily raising her head.  ‘You don’t know what I
-do.  I _must_ speak to him.  You are the best and truest friend in all
-the world for what you have said to me, but I must take this step.  Will
-you go with me, Clemency,’ she kissed her on her friendly face, ‘or shall
-I go [[Alone|alone]]?’
-
-Sorrowing and wondering, Clemency turned the key, and opened the door.
-Into the dark and doubtful [[Night|night]] that lay beyond the threshold, Marion
-passed quickly, holding by her hand.
-
-In the dark [[Night|night]] he joined her, and they spoke together earnestly and
-long; and the hand that held so fast by Clemency’s, now trembled, now
-turned deadly cold, now clasped and closed on hers, in the strong feeling
-of the speech it emphasised unconsciously.  When they returned, he
-followed to the door, and pausing there a moment, seized the other hand,
-and pressed it to his lips.  Then, stealthily withdrew.
-
-The door was barred and locked again, and once again she stood beneath
-her father’s roof.  Not bowed down by the secret that she brought there,
-though so young; but, with that same expression on her face for which I
-had no name before, and shining through her [[Tears|tears]].
-
-Again she thanked and thanked her humble friend, and trusted to her, as
-she said, with confidence, implicitly.  Her chamber safely reached, she
-fell upon her knees; and with her secret weighing on her heart, could
-pray!
-
-Could rise up from her prayers, so tranquil and serene, and bending over
-her fond sister in her slumber, look upon her face and smile—though
-sadly: murmuring as she kissed her forehead, how that Grace had been a
-mother to her, ever, and she loved her as a [[Child|child]]!

@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 2"
+title: "Martin Chuzzlewit — Chapter 2"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -33,7 +33,7 @@ yet stood together bravely, resisting to the last the tyranny of nipping
 winds and early frosts--took heart and brightened up; the stream which
 had been dull and sullen all day long, broke out into a cheerful smile;
 the [[Birds|birds]] began to chirp and twitter on the naked boughs, as though the
-hopeful creatures half believed that [[Winter|winter]] had gone by, and [[Spring|spring]]
+hopeful creatures half believed that [[Winter|winter]] had gone by, and [[spring]]
 had come already. The vane upon the tapering spire of the old church
 glistened from its lofty station in sympathy with the general gladness;
 and from the ivy-shaded windows such gleams of light shone back upon

@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 11"
+title: "The Professor — Chapter 11"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-professor-(bronte)"
@@ -15,8 +15,6 @@ tags:
 
 
 CHAPTER XI.
-
-
 
 I HAD indeed had a very long talk with the crafty little politician, and
 
@@ -62,21 +60,15 @@ this evening (as had often happened before) I was to be still farther
 
 distinguished.
 
-
-
 “Eh bien, mauvais sujet!” said the voice of M. Pelet behind me, as I
 
 set my foot on the first step of the stair, “ou allez-vous? Venez a la
 
 salle-a-manger, que je vous gronde un peu.”
 
-
-
 “I beg pardon, monsieur,” said I, as I followed him to his private
 
 sitting-room, “for having returned so late--it was not my fault.”
-
-
 
 “That is just what I want to know,” rejoined M. Pelet, as he ushered me
 
@@ -96,27 +88,17 @@ reverted to the two outcast ushers, whose voices I could hear even now
 
 crying hoarsely for order in the playground.
 
-
-
 “C’est une grande responsabilite, que la surveillance,” observed I.
 
-
-
 “Plait-il?” dit M. Pelet.
-
-
 
 I remarked that I thought Messieurs Vandam and Kint must sometimes be a
 
 little fatigued with their labours.
 
-
-
 “Des betes de somme,--des betes de somme,” murmured scornfully the
 
 director. Meantime I offered him his cup of coffee.
-
-
 
 “Servez-vous mon garcon,” said he blandly, when I had put a couple of
 
@@ -128,53 +110,31 @@ establishment as in mine, at four o’[[Clock|clock]], and when you returned it 
 
 past five.”
 
-
-
 “Mdlle. wished to speak with me, monsieur.”
-
-
 
 “Indeed! on what subject? if one may ask.”
 
-
-
 “Mademoiselle talked about nothing, monsieur.”
-
-
 
 “A fertile topic! and did she discourse thereon in the schoolroom,
 
 before the pupils?”
 
-
-
 “No; like you, monsieur, she asked me to walk into her parlour.”
-
-
 
 “And Madame Reuter--the old duenna--my mother’s gossip, was there, of
 
 course?”
 
-
-
 “No, monsieur; I had the [[Honour|honour]] of being quite [[Alone|alone]] with mademoiselle.”
-
-
 
 “C’est joli--cela,” observed M. Pelet, and he smiled and looked into the
 
 [[Fire|fire]].
 
-
-
 “Honi soit qui mal y pense,” murmured I, significantly.
 
-
-
 “Je connais un peu ma petite voisine--voyez-vous.”
-
-
 
 “In that case, monsieur will be able to aid me in finding out what was
 
@@ -184,39 +144,23 @@ listening to the most copious and fluent dissertation on the merest
 
 frivolities.”
 
-
-
 “She was sounding your character.”
-
-
 
 “I thought so, monsieur.”
 
-
-
 “Did she find out your weak point?”
-
-
 
 “What is my weak point?”
 
-
-
 “Why, the sentimental. Any woman sinking her shaft deep enough, will
 
-at last reach a fathomless [[spring]] of sensibility in thy breast,
+at last reach a fathomless [[Spring|spring]] of sensibility in thy breast,
 
 Crimsworth.”
 
-
-
 I felt the [[Blood|blood]] stir about my heart and rise warm to my cheek.
 
-
-
 “Some women might, monsieur.”
-
-
 
 “Is Mdlle. Reuter of the number? Come, speak frankly, mon fils; elle est
 
@@ -226,41 +170,25 @@ la tendresse d’une petite maman a l’amour d’une epouse devouee; n’est-ce
 
 pas que cela t’irait superieurement?”
 
-
-
 “No, monsieur; I should like my wife to be my wife, and not half my
 
 mother.”
 
-
-
 “She is then a little too old for you?”
 
-
-
 “No, monsieur, not a day too old if she suited me in other things.”
-
-
 
 “In what does she not suit you, William? She is personally agreeable, is
 
 she not?”
 
-
-
 “Very; her hair and complexion are just what I admire; and her turn of
 
 form, though quite Belgian, is full of grace.”
 
-
-
 “Bravo! and her face? her features? How do you like them?”
 
-
-
 “A little harsh, especially her mouth.”
-
-
 
 “Ah, yes! her mouth,” said M. Pelet, and he chuckled inwardly. “There is
 
@@ -268,29 +196,17 @@ character about her mouth--firmness--but she has a very pleasant smile;
 
 don’t you think so?”
 
-
-
 “Rather crafty.”
-
-
 
 “True, but that expression of craft is owing to her eyebrows; have you
 
 remarked her eyebrows?”
 
-
-
 I answered that I had not.
-
-
 
 “You have not seen her looking down then?” said he.
 
-
-
 “No.”
-
-
 
 “It is a treat, notwithstanding. Observe her when she has some knitting,
 
@@ -318,11 +234,7 @@ her general mien; observe then her eyebrows, et dites-moi s’il n’y a pas
 
 du chat dans l’un et du renard dans l’autre.”
 
-
-
 “I will take careful notice the first opportunity,” said I.
-
-
 
 “And then,” continued M. Pelet, “the eyelid will flicker, the
 
@@ -332,15 +244,9 @@ from under the screen, will take its brief, sly, searching survey, and
 
 retreat again.”
 
-
-
 I smiled, and so did Pelet, and after a few minutes’ [[Silence|silence]], I asked:
 
-
-
 “Will she ever marry, do you think?”
-
-
 
 “Marry! Will [[Birds|birds]] pair? Of course it is both her intention and
 
@@ -354,35 +260,23 @@ mistaken if she will not yet leave the print of her stealing steps on
 
 thy heart, Crimsworth.”
 
-
-
 “Of her steps? Confound it, no! My heart is not a plank to be walked
 
 on.”
 
-
-
 “But the soft touch of a patte de velours will do it no harm.”
-
-
 
 “She offers me no patte de velours; she is all form and reserve with
 
 me.”
 
-
-
 “That to begin with; let respect be the foundation, affection the first
 
 floor, [[Love|love]] the superstructure; Mdlle. Reuter is a skilful architect.”
 
-
-
 “And interest, M. Pelet--interest. Will not mademoiselle consider that
 
 point?”
-
-
 
 “Yes, yes, no [[Doubt|doubt]]; it will be the cement between every stone. And now
 
@@ -390,27 +284,17 @@ we have discussed the directress, what of the pupils? N’y a-t-il pas de
 
 belles etudes parmi ces jeunes tetes?”
 
-
-
 “Studies of character? Yes; curious ones, at least, I imagine; but one
 
 cannot divine much from a first interview.”
-
-
 
 “Ah, you affect discretion; but tell me now, were you not a little
 
 abashed before these blooming young creatures?”
 
-
-
 “At first, yes; but I rallied and got through with all due sang-froid.”
 
-
-
 “I don’t believe you.”
-
-
 
 “It is true, notwithstanding. At first I thought them angels, but they
 
@@ -422,19 +306,13 @@ so cleverly that in five minutes I knew them, at least, for what they
 
 were--three arrant coquettes.”
 
-
-
 “Je les connais!” exclaimed M. Pelet. “Elles sont toujours au premier
 
 rang a l’eglise et a la promenade; une blonde superbe, une jolie
 
 espiegle, une belle brune.”
 
-
-
 “Exactly.”
-
-
 
 “Lovely creatures all of them--heads for artists; what a group they
 
@@ -458,8 +336,6 @@ played the austere, the insensible in the presence of an Aphrodite so
 
 exquisite?”
 
-
-
 I might have laughed at the director’s enthusiasm had I believed
 
 it real, but there was something in his tone which indicated got-up
@@ -470,15 +346,11 @@ guard, to induce me to come out in return, so I scarcely even smiled. He
 
 went on:
 
-
-
 “Confess, William, do not the mere good looks of [[Zoraide Reuter]] appear
 
 dowdyish and commonplace compared with the splendid charms of some of
 
 her pupils?”
-
-
 
 The question discomposed me, but I now felt plainly that my principal
 
@@ -490,8 +362,6 @@ what was right and honourable. The iniquity of the instigation proved
 
 its antidote, and when he further added:--
 
-
-
 “Each of those three beautiful girls will have a handsome fortune; and
 
 with a little address, a gentlemanlike, intelligent young fellow like
@@ -500,11 +370,7 @@ you might make himself master of the hand, heart, and purse of any one
 
 of the trio.”
 
-
-
 I replied by a look and an interrogative “Monsieur?” which startled him.
-
-
 
 He laughed a forced laugh, affirmed that he had only been joking, and
 

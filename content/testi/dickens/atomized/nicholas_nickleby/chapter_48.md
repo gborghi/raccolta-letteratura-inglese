@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 48"
+title: "Nicholas Nickleby — Chapter 48"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -168,7 +168,7 @@ thrice with profound gravity, and remarking, that he could not for the
 life of him imagine how the newspapers found out the things they did,
 folded up the extracts and put them in his pocket again.
 
-‘I am astonished to hear this news,’ said Nicholas. ‘Going to [[America]]!
+‘I am astonished to hear this news,’ said Nicholas. ‘Going to [[america|America]]!
 You had no such thing in contemplation when I was with you.’
 
 ‘No,’ replied Crummles, ‘I hadn’t then. The fact is that Mrs
@@ -188,7 +188,7 @@ phenomenon too.’
 ‘Why, it’s pretty sure to be something uncommon, I suppose,’ rejoined
 Mr. Crummles. ‘The talent of the other three is principally in combat and
 serious pantomime. I should like this one to have a turn for juvenile
-[[Tragedy|tragedy]]; I understand they want something of that sort in [[America]] very
+[[Tragedy|tragedy]]; I understand they want something of that sort in [[america|America]] very
 much. However, we must take it as it comes. Perhaps it may have a genius
 for the tight-rope. It may have any sort of genius, in short, if it
 takes after its mother, Johnson, for she is an universal genius; but,
@@ -201,7 +201,7 @@ from frequent going down upon those joints, in curses, prayers, last
 struggles, and other strong passages.
 
 While the ex-manager completed his toilet, he informed Nicholas that as
-he should have a fair start in [[America]] from the proceeds of a tolerably
+he should have a fair start in [[america|America]] from the proceeds of a tolerably
 good engagement which he had been fortunate enough to obtain, and as
 he and Mrs. Crummles could scarcely [[Hope|hope]] to act for ever (not being
 immortal, except in the breath of Fame and in a figurative sense) he had

@@ -1,5 +1,5 @@
 ---
-title: "The Man Who Knew Too Much — The Temple of [[Silence]] (part 3)"
+title: "The Man Who Knew Too Much — The Temple of Silence (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/the-man-who-knew-too-much-(chesterton)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_07_the_temple_of_silence/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_07_the_temple_of_silence/part_04">part 04 ›</a></div>
 </nav>
 
+
+smile.
+And so it happened that Horne Fisher arrived some days later at the
+
+little station of a rather remote market town in the west,
+
+accompanied by a light suitcase and a lively brother. It must not be
+
+supposed, however, that the brother's cheerful tone consisted
+
+entirely of chaff. He supported the new candidate with [[Hope|hope]] as [[Well|well]]
+
+as hilarity; and at the back of his boisterous partnership there was
 
 an increasing sympathy and encouragement. Harry Fisher had always
 
@@ -180,18 +193,3 @@ which was Mr. Gryce's name, and that individual turned and beheld
 
 his pursuer with a stare.
 "Could I have a word with you, sir?" asked Horne Fisher, politely.
-
-The agent stared still more, but assented civilly, and led the other
-
-into an office littered with leaflets and hung all round with highly
-
-colored posters which linked the name of Hughes with all the higher
-
-interests of humanity.
-"Mr. Horne Fisher, I believe," said Mr. Gryce. "Much honored by the
-
-call, of course. Can't pretend to congratulate you on entering the
-
-contest, I'm afraid; you won't expect that. Here we've been keeping
-
-the old [[Flag|flag]] flying for [[Freedom|freedom]] and [[Reform|reform]], and you come in and

@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 27 (part 3)"
+title: "Sense and Sensibility — Chapter 27 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_27/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_29/part_01">part 01 ›</a></div>
 </nav>
 
+
+intended, as they openly correspond, and their [[Marriage|marriage]] is universally
+
+talked of.”
+
+
+
+“How can that be? By whom can you have heard it mentioned?”
+
+
+
+“By many—by some of whom you know nothing, by others with whom you are
+
+most intimate, Mrs. Jennings, Mrs. Palmer, and the Middletons. But
 
 still I might not have believed it, for where the mind is perhaps
 

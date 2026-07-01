@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 21: TWENTY ONE"
+title: "Martin Chuzzlewit — Chapter 21: TWENTY ONE"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -109,7 +109,7 @@ approaching consummation of his fondest wishes.
 ‘A military officer,’ said Mark.
 
 ‘Confound you for a ridiculous fellow!’ cried Martin, laughing heartily
-in spite of himself. ‘What military officer? You know they [[Spring|spring]] up in
+in spite of himself. ‘What military officer? You know they [[spring]] up in
 every field.’
 
 ‘As thick as scarecrows in England, sir,’ interposed Mark, ‘which is a
@@ -577,7 +577,7 @@ land may be got into a dice-box, and why may not a whole territory be
 bargained for in a shed? It was but a temporary office too; for the
 Edeners were ‘going’ to build a superb establishment for the transaction
 of their business, and had already got so far as to mark out the site.
-Which is a great way in [[America]]. The office-door was wide open, and in
+Which is a great way in [[america|America]]. The office-door was wide open, and in
 the doorway was the agent; no [[Doubt|doubt]] a tremendous fellow to get through
 his work, for he seemed to have no arrears, but was swinging backwards
 and forwards in a rocking-chair, with one of his legs planted high up
@@ -612,7 +612,7 @@ by the name of Scadder.
 ‘Ac-tive and spry, sir, in my country’s service and the sympathetic
 cause. Two gentlemen on business, Mr Scadder.’
 
-He shook hands with each of them--nothing is done in [[America]] without
+He shook hands with each of them--nothing is done in [[america|America]] without
 shaking hands--then went on rocking.
 
 ‘I think I know what bis’ness you have brought these strangers here
@@ -667,7 +667,7 @@ but some geological and botanical specimens, one or two rusty ledgers, a
 homely desk, and a stool. ‘Heyday! what’s that?’
 
 ‘That’s Eden,’ said Scadder, picking his teeth with a sort of young
-bayonet that flew out of his knife when he touched a [[Spring|spring]].
+bayonet that flew out of his knife when he touched a [[spring]].
 
 ‘Why, I had no idea it was a [[City|city]].’
 
@@ -912,7 +912,7 @@ runs:
 
 
 ‘“SIR--I address you on behalf of the Watertoast Association of United
-Sympathisers. It is founded, sir, in the great republic of [[America]]! and
+Sympathisers. It is founded, sir, in the great republic of [[america|America]]! and
 now holds its breath, and swells the blue veins in its forehead nigh to
 bursting, as it watches, sir, with feverish intensity and sympathetic
 ardour, your noble efforts in the cause of [[Freedom]].”’

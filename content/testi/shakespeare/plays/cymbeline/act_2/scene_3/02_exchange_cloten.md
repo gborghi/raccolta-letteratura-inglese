@@ -1,5 +1,5 @@
 ---
-title: "[[Cymbeline]] — Act II, Scene 3 — exchange ([[Cloten|CLOTEN]]) [2]"
+title: "Cymbeline — Act II, Scene 3 — exchange (CLOTEN) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/cymbeline-(shakespeare)"

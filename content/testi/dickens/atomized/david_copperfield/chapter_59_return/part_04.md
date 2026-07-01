@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 59: RETURN (part 4)"
+title: "David Copperfield — Chapter 59: RETURN (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_59_return/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_59_return/part_05">part 05 ›</a></div>
 </nav>
 
+
+They were a perfect nest of roses; they looked so wholesome and fresh.
+They were all pretty, and Miss Caroline was very handsome; but there was
+a loving, cheerful, fireside quality in Sophy’s bright looks, which was
+better than that, and which assured me that my friend had chosen [[Well|well]].
+We all sat round the [[Fire|fire]]; while the sharp boy, who I now divined had
+lost his breath in putting the papers out, cleared them away again, and
+produced the tea-things. After that, he retired for the [[Night|night]], shutting
+the outer door upon us with a bang. Mrs. Traddles, with perfect pleasure
+and composure beaming from her household eyes, having made the tea, then
+quietly made the toast as she sat in a corner by the [[Fire|fire]].
 
 She had seen Agnes, she told me while she was toasting. ‘Tom’ had taken
 her down into [[Kent]] for a wedding trip, and there she had seen my aunt,
@@ -96,16 +107,3 @@ taught to be my sister. She would marry, and would have new claimants on
 her tenderness; and in doing it, would never know the [[Love|love]] for her that
 had grown up in my heart. It was right that I should pay the forfeit of
 my headlong passion. What I reaped, I had sown.
-
-I was thinking. And had I truly disciplined my heart to this, and could
-I resolutely bear it, and calmly hold the place in her [[Home|home]] which she
-had calmly held in mine,--when I found my eyes resting on a countenance
-that might have arisen out of the [[Fire|fire]], in its association with my early
-remembrances.
-
-Little Mr. Chillip the Doctor, to whose good offices I was indebted in
-the very first chapter of this [[history]], sat reading a newspaper in the
-[[Shadow|shadow]] of an opposite corner. He was tolerably stricken in years by this
-[[Time|time]]; but, being a mild, meek, calm little man, had worn so easily, that
-I thought he looked at that moment just as he might have looked when he
-sat in our parlour, waiting for me to be born.

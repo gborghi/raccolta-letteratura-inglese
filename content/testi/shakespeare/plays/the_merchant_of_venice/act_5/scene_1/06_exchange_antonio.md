@@ -1,5 +1,5 @@
 ---
-title: "The Merchant of [[Venice]] — Act V, Scene 1 — exchange ([[Antonio|ANTONIO]]) [6]"
+title: "The Merchant of Venice — Act V, Scene 1 — exchange (ANTONIO) [6]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-merchant-of-venice-(shakespeare)"

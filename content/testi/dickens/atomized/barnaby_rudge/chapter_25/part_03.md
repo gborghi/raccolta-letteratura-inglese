@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 25 (part 3)"
+title: "Barnaby Rudge — Chapter 25 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_25/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_25/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘What if I came, sir,’ she rejoined, ‘I who have but one other friend on
+earth, to reject your aid from this moment, and to say that henceforth
+I launch myself upon the world, [[Alone|alone]] and unassisted, to sink or swim as
+Heaven may decree!’
 
 ‘You would have, if you came to me for such a purpose,’ said Mr Haredale
 calmly, ‘some reason to assign for conduct so extraordinary, which--if
@@ -112,14 +117,3 @@ the instant preparation of innumerable kettles for purposes of tea, he
 was thoughtful, and rather seemed to do so from an abstract sense of
 duty, than with any regard to making himself agreeable, or being what is
 commonly called good company.
-
-They were to return by the coach. As there was an interval of full two
-hours before it started, and they needed rest and some refreshment,
-Barnaby begged hard for a visit to the Maypole. But his mother, who had
-no wish to be recognised by any of those who had known her long ago, and
-who feared besides that Mr Haredale might, on second thoughts, despatch
-some messenger to that place of entertainment in [[Quest|quest]] of her, proposed
-to wait in the churchyard instead. As it was easy for Barnaby to buy
-and carry thither such humble viands as they required, he cheerfully
-assented, and in the churchyard they sat down to take their frugal
-dinner.

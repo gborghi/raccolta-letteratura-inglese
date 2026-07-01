@@ -1,5 +1,5 @@
 ---
-title: "[[Pride and Prejudice]] — Chapter 53 (part 3)"
+title: "Pride and Prejudice — Chapter 53 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/pride-and-prejudice-(austen)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/pride_and_prejudice/chapter_53/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/pride_and_prejudice/chapter_55/part_01">part 01 ›</a></div>
 </nav>
 
+
+He readily agreed to it.
+
+“I began to be afraid you would never come back again. People _did_ say,
+you meant to quit the place entirely at Michaelmas; but, however, I [[Hope|hope]]
+it is not true. A great many changes have happened in the neighbourhood
+since you went away. Miss Lucas is married and settled: and one of my
+own daughters. I suppose you have heard of it; indeed, you must have
+seen it in the papers. It was in the ‘Times’ and the ‘Courier,’ I know;
+though it was not put in as it ought to be. It was only said, ‘Lately,
+George Wickham, Esq., to Miss [[Lydia Bennet]],’ without there being a
+syllable said of her father, or the place where she lived, or anything.
+It was my brother Gardiner’s drawing up, too, and I [[Wonder|wonder]] how he came
+to make such an awkward business of it. Did you see it?”
 
 Bingley replied that he did, and made his congratulations. Elizabeth
 dared not lift up her eyes. How Mr. Darcy looked, therefore, she could

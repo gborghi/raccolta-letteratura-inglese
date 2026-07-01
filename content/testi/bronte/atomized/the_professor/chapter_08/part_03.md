@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 7 (part 3)"
+title: "The Professor — Chapter 7 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_professor/chapter_08/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/the_professor/chapter_08/part_04">part 04 ›</a></div>
 </nav>
 
+
+“Oh,” returned Mr. Brown, “professor, here in Belgium, means a teacher,
+
+that is all.”
+
+My [[Conscience|conscience]] thus quieted, I thanked Mr. Brown, and, for the present,
+
+withdrew. This [[Time|time]] I stepped out into the street with a relieved heart;
+
+the task I had imposed on myself for that day was executed. I might now
+
+take some hours of holiday. I felt free to look up. For the first [[Time|time]]
 
 I remarked the sparkling clearness of the air, the deep blue of the sky,
 
@@ -45,8 +57,6 @@ externats no [[Doubt|doubt]], were at that moment issuing from the door--I looke
 for a pretty face amongst them, but their close, little French bonnets
 
 hid their features; in a moment they were gone.
-
-
 
 I had traversed a good deal of Brussels before five o’[[Clock|clock]] arrived,
 
@@ -96,8 +106,6 @@ establishment, you may, in [[Time|time]], obtain employment in other seminaries,
 
 and thus turn your vacant moments to profitable account.”
 
-
-
 I thought this very kind, and indeed I found afterwards that the terms
 
 on which M. Pelet had engaged me were really liberal for Brussels;
@@ -107,8 +115,6 @@ instruction being extremely cheap there on account of the number of
 teachers. It was further arranged that I should be installed in my new
 
 post the very next day, after which M. Pelet and I parted.
-
-
 
 [[Well]], and what was he like? and what were my impressions concerning him?
 
@@ -142,8 +148,6 @@ M. Pelet presented an absolute contrast to my late master, Edward
 
 Crimsworth.
 
-
-
 Influenced by the impression I had received of his gentleness, I was a
 
 good deal surprised when, on arriving the next day at my new employer’s
@@ -170,13 +174,9 @@ perambulated the length and breadth of the classes, M. Pelet turned and
 
 said to me--
 
-
-
 “Would you object to taking the boys as they are, and testing their
 
 proficiency in English?”
-
-
 
 The proposal was unexpected. I had thought I should have been allowed at
 
@@ -185,29 +185,3 @@ least three days to prepare; but it is a bad omen to commence any career
 by hesitation, so I just stepped to [[The Professor|the professor]]’s desk near which we
 
 stood, and faced the circle of my pupils. I took a moment to collect
-
-my thoughts, and likewise to frame in French the sentence by which I
-
-proposed to open business. I made it as short as possible:--
-
-
-
-“Messieurs, prenez vos livres de lecture.”
-
-
-
-“Anglais ou Francais, monsieur?” demanded a thickset, [[Moon|moon]]-faced young
-
-Flamand in a blouse. The answer was fortunately easy:--
-
-
-
-“Anglais.”
-
-
-
-I determined to give myself as little trouble as possible in this
-
-lesson; it would not do yet to trust my unpractised tongue with the
-
-delivery of explanations; my accent and idiom would be too open to the

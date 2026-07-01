@@ -1,5 +1,5 @@
 ---
-title: "[[GKC-Autobiography]] — Chapter 7"
+title: "GKC-Autobiography — Chapter 7"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/gkc-autobiography-(chesterton)"

@@ -11504,7 +11504,7 @@ a distracted and devoted manner, compounded of [[Ophelia]] and any
 Veneering having instructed his driver to charge at the Public in the
 streets, like the Life-Guards at Waterloo, is driven furiously to Duke
 Street, Saint James’s. There, he finds Twemlow in his lodgings, fresh
-from the hands of a secret [[artist]] who has been doing something to his
+from the hands of a secret [[Artist|artist]] who has been doing something to his
 hair with yolks of eggs. The process requiring that Twemlow shall, for
 two hours after the application, allow his hair to stick upright and dry
 gradually, he is in an appropriate state for the receipt of startling
@@ -23619,7 +23619,7 @@ performances of that evening having severely tried its constitution.
 
 After Silas had left the shop, hat-box in hand, and had left [[Mr Venus]]
 to lower himself to oblivion-point with the requisite weight of tea, it
-greatly preyed on his ingenuous mind that he had taken this [[artist]] into
+greatly preyed on his ingenuous mind that he had taken this [[Artist|artist]] into
 partnership at all. He bitterly felt that he had overreached himself in
 the beginning, by grasping at [[Mr Venus]]’s mere straws of hints, now shown
 to be worthless for his purpose. Casting about for ways and means of
@@ -36791,7 +36791,7 @@ your mind, for a stretch of months together, you’d have been out of
 condition and out of sorts.’
 
 ‘Certainly, it has trained you down, Mr Wegg,’ said [[Venus]], contemplating
-his figure with an [[artist]]’s eye. ‘Trained you down very low, it has! So
+his figure with an [[Artist|artist]]’s eye. ‘Trained you down very low, it has! So
 weazen and yellow is the kivering upon your bones, that one might almost
 fancy you had come to give a look-in upon the French gentleman in the
 corner, instead of me.’
@@ -38600,7 +38600,7 @@ conceal exactly what I was at great pains to suggest: namely, that Mr
 [[John Harmon]] was not slain, and that Mr John Rokesmith was he. Pleasing
 myself with the idea that the supposition might in part arise out
 of some ingenuity in the story, and thinking it worth while, in the
-interests of art, to hint to an audience that an [[artist]] (of whatever
+interests of art, to hint to an audience that an [[Artist|artist]] (of whatever
 denomination) may perhaps be trusted to know what he is about in his
 vocation, if they will concede him a little patience, I was not alarmed
 by the anticipation.

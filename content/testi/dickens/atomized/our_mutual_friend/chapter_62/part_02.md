@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 3 (part 2)"
+title: "Our Mutual Friend — Chapter 7 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,137 +14,121 @@ tags:
 </nav>
 
 
-Here [[Mr Venus]] interposed, and remarked that he conceived Mr Boffin to
-have taken the description literally; the rather, forasmuch as he, Mr
-[[Venus]], had himself supposed the menial to have contracted an affliction
-or a habit of the nose, involving a serious drawback on the pleasures of
-social intercourse, until he had discovered that Mr Wegg’s description
-of him was to be accepted as merely figurative.
+[[Bradley Headstone]] was so remarkably awkward at these exercises, that the
+Rogue observed it.
 
-‘Anyhow, and every how,’ said Wegg, ‘he has been planted here, and he
-is here. Now, I won’t have him here. So I call upon Boffin, before I say
-another word, to fetch him in and send him packing to the right-about.’
+‘Look out, T’otherest!’ he cried, ‘you’ll cut your hand!’
 
-The unsuspecting Sloppy was at that moment airing his many buttons
-within view of the [[Window|window]]. Mr Boffin, after a short interval of
-impassive discomfiture, opened the [[Window|window]] and beckoned him to come in.
+But, the caution came too late, for Bradley gashed it at the instant.
+And, what was more unlucky, in asking Riderhood to tie it up, and in
+standing close to him for the purpose, he shook his hand under the smart
+of the wound, and shook [[Blood|blood]] over Riderhood’s dress.
 
-‘I call upon Boffin,’ said Wegg, with one arm a-kimbo and his head on
-one side, like a bullying counsel pausing for an answer from a witness,
-‘to inform that menial that I am Master here!’
+When dinner was done, and when what remained of the platters and what
+remained of the congealed gravy had been put back into what remained of
+the pie, which served as an economical investment for all miscellaneous
+savings, Riderhood filled the mug with beer and took a long drink. And
+now he did look at Bradley, and with an evil eye.
 
-In humble obedience, when the button-gleaming Sloppy entered Mr Boffin
-said to him: ‘Sloppy, my fine fellow, Mr Wegg is Master here. He doesn’t
-want you, and you are to go from here.’
+‘T’otherest!’ he said, hoarsely, as he bent across the table to touch
+his arm. ‘The news has gone down the [[River|river]] afore you.’
 
-‘For good!’ Mr Wegg severely stipulated.
+‘What news?’
 
-‘For good,’ said Mr Boffin.
+‘Who do you think,’ said Riderhood, with a hitch of his head, as if he
+disdainfully jerked the feint away, ‘picked up the [[Body|body]]? Guess.’
 
-Sloppy stared, with both his eyes and all his buttons, and his mouth
-wide open; but was without loss of [[Time|time]] escorted forth by [[Silas Wegg]],
-pushed out at the yard gate by the shoulders, and locked out.
+‘I am not good at guessing anything.’
 
-‘The atomspear,’ said Wegg, stumping back into the room again, a
-little reddened by his late exertion, ‘is now freer for the purposes of
-respiration. [[Mr Venus]], sir, take a chair. Boffin, you may sit down.’
+‘She did. Hooroar! You had him there agin. She did.’
 
-Mr Boffin, still with his hands ruefully stuck in his pockets, sat on
-the edge of the settle, shrunk into a small compass, and eyed the potent
-Silas with conciliatory looks.
+The convulsive twitching of [[Bradley Headstone]]’s face, and the sudden
+hot [[Humour|humour]] that broke out upon it, showed how grimly the intelligence
+touched him. But he said not a single word, good or bad. He only smiled
+in a lowering manner, and got up and stood leaning at the [[Window|window]],
+looking through it. Riderhood followed him with his eyes. Riderhood cast
+down his eyes on his own besprinkled clothes. Riderhood began to have an
+air of being better at a guess than Bradley owned to being.
 
-‘This gentleman,’ said [[Silas Wegg]], pointing out [[Venus]], ‘this gentleman,
-Boffin, is more milk and watery with you than I’ll be. But he hasn’t
-borne the Roman yoke as I have, nor yet he hasn’t been required to
-pander to your depraved appetite for miserly characters.’
+‘I have been so long in want of rest,’ said the schoolmaster, ‘that with
+your leave I’ll lie down again.’
 
-‘I never meant, my dear Wegg—’ Mr Boffin was beginning, when Silas
-stopped him.
+‘And welcome, T’otherest!’ was the hospitable answer of his host. He had
+laid himself down without waiting for it, and he remained upon the bed
+until the sun was low. When he arose and came out to resume his [[Journey|journey]],
+he found his host waiting for him on the grass by the towing-path
+outside the door.
 
-‘Hold your tongue, Boffin! Answer when you’re called upon to answer.
-You’ll find you’ve got quite enough to do. Now, you’re aware—are
-you—that you’re in possession of property to which you’ve no right at
-all? Are you aware of that?’
+‘Whenever it may be necessary that you and I should have any further
+communication together,’ said Bradley, ‘I will come back. Good-[[Night|night]]!’
 
-‘[[Venus]] tells me so,’ said Mr Boffin, glancing towards him for any
-support he could give.
+‘[[Well]], since no better can be,’ said Riderhood, turning on his heel,
+‘Good-[[Night|night]]!’ But he turned again as the other set forth, and added
+under his breath, looking after him with a leer: ‘You wouldn’t be let to
+go like that, if my Relief warn’t as good as come. I’ll catch you up in
+a mile.’
 
-‘I tell you so,’ returned Silas. ‘Now, here’s my hat, Boffin, and here’s
-my walking-stick. Trifle with me, and instead of making a bargain with
-you, I’ll put on my hat and take up my walking-stick, and go out, and
-make a bargain with the rightful owner. Now, what do you say?’
+In a word, his real [[Time|time]] of relief being that evening at sunset, his
+mate came lounging in, within a quarter of an hour. Not staying to fill
+up the utmost margin of his [[Time|time]], but borrowing an hour or so, to be
+repaid again when he should relieve his reliever, Riderhood straightway
+followed on the track of [[Bradley Headstone]].
 
-‘I say,’ returned Mr Boffin, leaning forward in alarmed appeal, with his
-hands on his knees, ‘that I am sure I don’t want to trifle, Wegg. I have
-said so to [[Venus]].’
+He was a better follower than Bradley. It had been the calling of his
+life to slink and skulk and dog and waylay, and he knew his calling
+[[Well|well]]. He effected such a forced march on leaving the Lock [[house|House]] that he
+was close up with him—that is to say, as close up with him as he deemed
+it convenient to be—before another Lock was passed. His man looked back
+pretty often as he went, but got no hint of him. HE knew how to take
+advantage of the ground, and where to put the hedge between them, and
+where the wall, and when to duck, and when to drop, and had a thousand
+arts beyond the doomed Bradley’s slow conception.
 
-‘You certainly have, sir,’ said [[Venus]].
+But, all his arts were brought to a standstill, like himself when
+Bradley, turning into a green lane or riding by the [[River|river]]-side—a
+solitary spot run wild in nettles, briars, and brambles, and encumbered
+with the scathed trunks of a whole hedgerow of felled trees, on the
+outskirts of a little wood—began stepping on these trunks and dropping
+down among them and stepping on them again, apparently as a schoolboy
+might have done, but assuredly with no schoolboy purpose, or want of
+purpose.
 
-‘You’re too milk and watery with our friend, you are indeed,’
-remonstrated Silas, with a disapproving shake of his wooden head. ‘Then
-at once you confess yourself desirous to come to terms, do you Boffin?
-Before you answer, keep this hat [[Well|well]] in your mind and also this
-walking-stick.’
+‘What are you up to?’ muttered Riderhood, down in the ditch, and holding
+the hedge a little open with both hands. And soon his actions made a
+most extraordinary reply. ‘By George and the Draggin!’ cried Riderhood,
+‘if he ain’t a going to bathe!’
 
-‘I am willing, Wegg, to come to terms.’
+He had passed back, on and among the trunks of trees again, and has
+passed on to the [[Water|water]]-side and had begun undressing on the grass. For
+a moment it had a suspicious look of [[suicide]], arranged to counterfeit
+accident. ‘But you wouldn’t have fetched a bundle under your arm, from
+among that timber, if such was your game!’ said Riderhood. Nevertheless
+it was a relief to him when the bather after a plunge and a few strokes
+came out. ‘For I shouldn’t,’ he said in a feeling manner, ‘have liked to
+lose you till I had made more money out of you neither.’
 
-‘Willing won’t do, Boffin. I won’t take willing. Are you desirous to
-come to terms? Do you ask to be allowed as a favour to come to terms?’
-Mr Wegg again planted his arm, and put his head on one side.
+Prone in another ditch (he had changed his ditch as his man had changed
+his position), and holding apart so small a patch of the hedge that the
+sharpest eyes could not have detected him, Rogue Riderhood watched the
+bather dressing. And now gradually came the [[Wonder|wonder]] that he stood up,
+completely clothed, another man, and not the Bargeman.
 
-‘Yes.’
+‘Aha!’ said Riderhood. ‘Much as you was dressed that [[Night|night]]. I see.
+You’re a taking me with you, now. You’re deep. But I knows a deeper.’
 
-‘Yes what?’ said the inexorable Wegg: ‘I won’t take yes. I’ll have it
-out of you in full, Boffin.’
+When the bather had finished dressing, he kneeled on the grass, doing
+something with his hands, and again stood up with his bundle under his
+arm. Looking all around him with great attention, he then went to the
+[[River|river]]’s edge, and flung it in as far, and yet as lightly as he could. It
+was not until he was so decidedly upon his way again as to be beyond a
+bend of the [[River|river]] and for the [[Time|time]] out of view, that Riderhood scrambled
+from the ditch.
 
-‘Dear me!’ cried that unfortunate gentleman. ‘I am so worrited! I ask to
-be allowed to come to terms, supposing your document is all correct.’
-
-‘Don’t you be afraid of that,’ said Silas, poking his head at him. ‘You
-shall be satisfied by seeing it. [[Mr Venus]] will show it you, and I’ll
-hold you the while. Then you want to know what the terms are. Is
-that about the sum and substance of it? Will you or won’t you answer,
-Boffin?’ For he had paused a moment.
-
-‘Dear me!’ cried that unfortunate gentleman again, ‘I am worrited to
-that degree that I’m almost off my head. You hurry me so. Be so good as
-name the terms, Wegg.’
-
-‘Now, mark, Boffin,’ returned Silas: ‘Mark ’em [[Well|well]], because they’re
-the lowest terms and the only terms. You’ll throw your Mound (the little
-Mound as comes to you any way) into the general estate, and then you’ll
-divide the whole property into three parts, and you’ll keep one and hand
-over the others.’
-
-[[Mr Venus]]’s mouth screwed itself up, as Mr Boffin’s face lengthened
-itself, [[Mr Venus]] not having been prepared for such a rapacious demand.
-
-‘Now, wait a bit, Boffin,’ Wegg proceeded, ‘there’s something more.
-You’ve been a squandering this property—laying some of it out on
-yourself. _That_ won’t do. You’ve bought a [[house]]. You’ll be charged for
-it.’
-
-‘I shall be ruined, Wegg!’ Mr Boffin faintly protested.
-
-‘Now, wait a bit, Boffin; there’s something more. You’ll leave me in
-sole custody of these Mounds till they’re all laid low. If any waluables
-should be found in ’em, I’ll take care of such waluables. You’ll produce
-your contract for the sale of the Mounds, that we may know to a penny
-what they’re worth, and you’ll make out likewise an exact list of
-all the other property. When the Mounds is cleared away to the last
-shovel-full, the final diwision will come off.’
-
-‘Dreadful, dreadful, dreadful! I shall die in a workhouse!’ cried the
-Golden Dustman, with his hands to his head.
-
-‘Now, wait a bit, Boffin; there’s something more. You’ve been unlawfully
-ferreting about this yard. You’ve been seen in the act of ferreting
-about this yard. Two pair of eyes at the present moment brought to bear
-upon you, have seen you dig up a Dutch bottle.’
-
-‘It was mine, Wegg,’ protested Mr Boffin. ‘I put it there myself.’
-
-‘What was in it, Boffin?’ inquired Silas.
-
-‘Not gold, not silver, not bank notes, not jewels, nothing that you
-could turn into money, Wegg; upon my [[Soul|soul]]!’
+‘Now,’ was his [[debate]] with himself ‘shall I foller you on, or shall I
+let you loose for this once, and go a fishing?’ The [[debate]] continuing,
+he followed, as a precautionary measure in any case, and got him again
+in sight. ‘If I was to let you loose this once,’ said Riderhood then,
+still following, ‘I could make you come to me agin, or I could find
+you out in one way or another. If I wasn’t to go a fishing, others
+might.—I’ll let you loose this once, and go a fishing!’ With that, he
+suddenly dropped the pursuit and turned.

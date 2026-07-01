@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 31 (part 5)"
+title: "Bleak House — Chapter 31 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_31/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_31/part_06">part 06 ›</a></div>
 </nav>
 
+
+Every possible inquiry was made, and every place was searched. The
+brick-kilns were examined, the cottages were visited, the two women
+were particularly questioned, but they knew nothing of him, and
+nobody could [[Doubt|doubt]] that their [[Wonder|wonder]] was genuine. The weather had for
+some [[Time|time]] been too wet and the [[Night|night]] itself had been too wet to admit
+of any tracing by footsteps. Hedge and ditch, and wall, and rick and
+stack, were examined by our men for a long distance round, lest the
+boy should be lying in such a place insensible or dead; but nothing
+was seen to indicate that he had ever been near. From the [[Time|time]] when
+he was left in the loft-room, he vanished.
 
 The search continued for five days. I do not mean that it ceased even
 then, but that my attention was then diverted into a current very
@@ -97,7 +108,7 @@ Charley told me that when her father died she had kneeled down and
 prayed in her first sorrow that he likewise might be raised up and
 given back to his poor children, and that if she should never get
 better and should die too, she thought it likely that it might come
-into Tom’s mind to offer the same [[Prayer|prayer]] for her. Then would I show
+into Tom’s mind to offer the same [[prayer]] for her. Then would I show
 Tom how these people of old days had been brought back to life on
 earth, only that we might know our [[Hope|hope]] to be restored to heaven!
 
@@ -113,22 +124,3 @@ The [[Hope|hope]] that never had been given, from the first, of Charley being
 in outward appearance Charley any more soon began to be encouraged;
 and even that prospered, and I saw her growing into her old childish
 likeness again.
-
-It was a great morning when I could tell Ada all this as she stood
-out in the [[Garden|garden]]; and it was a great evening when Charley and I at
-last took tea together in the next room. But on that same evening, I
-felt that I was stricken cold.
-
-Happily for both of us, it was not until Charley was safe in bed
-again and placidly asleep that I began to think the contagion of her
-illness was upon me. I had been able easily to hide what I felt at
-tea-[[Time|time]], but I was past that already now, and I knew that I was
-rapidly following in Charley’s steps.
-
-I was [[Well|well]] enough, however, to be up early in the morning, and to
-return my darling’s cheerful blessing from the [[Garden|garden]], and to talk
-with her as long as usual. But I was not free from an impression that
-I had been walking about the two rooms in the [[Night|night]], a little beside
-myself, though knowing where I was; and I felt confused at
-times—with a curious sense of fullness, as if I were becoming too
-large altogether.

@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 36 (part 4)"
+title: "Villette — Chapter 36 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_38/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_38/part_05">part 05 ›</a></div>
 </nav>
 
+
+I knew that action would give a turn to his mood. He never liked to see
+me mend pens; my knife was always dull-edged—my hand, too, was
+unskilful; I hacked and chipped. On this occasion I cut my own
+finger—half on purpose. I wanted to restore him to his natural state,
+to set him at his ease, to get him to chide.
 
 “Maladroit!” he cried at last, “she will make mincemeat of her hands.”
 
@@ -73,7 +79,7 @@ thought [[Lucifer]] smiled.”
 
 “Not respect that tract? But it is the pure essence of [[Faith|faith]], [[Love|love]],
 [[Charity|charity]]! I thought it would touch you: in its gentleness, I trusted
-that it could not fail. I laid it in your desk with a [[Prayer|prayer]]: I must
+that it could not fail. I laid it in your desk with a [[prayer]]: I must
 indeed be a sinner: Heaven will not hear the petitions that come
 warmest from my heart. You scorn my little offering. Oh, cela me fait
 mal!”
@@ -126,8 +132,3 @@ Just what I thought, that did I tell M. Emanuel, and explained to him
 that my own last appeal, the guide to which I looked, and the teacher
 which I owned, must always be the [[Bible]] itself, rather than any sect,
 of whatever name or nation.
-
-He left me soothed, yet full of solicitude, breathing a wish, as strong
-as a [[Prayer|prayer]], that if I were wrong, Heaven would lead me right. I heard,
-poured forth on the threshold, some fervid murmurings to “Marie, Reine
-du Ciel,” some deep [[Aspiration|aspiration]] that _his_ [[Hope|hope]] might yet be _mine_.

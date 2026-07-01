@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 12 (part 3)"
+title: "Persuasion — Chapter 12 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -12,6 +12,20 @@ tags:
 <div class="excerpt-crumb">Austen · <a href="/works/persuasion-(austen)">Persuasion</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_12/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_12/part_04">part 04 ›</a></div>
 </nav>
+
+
+what can we do? We cannot part.”
+
+
+
+“No,” said Anne, “that I can easily believe to be impossible; but in
+
+[[Time|time]], perhaps—we know what [[Time|time]] does in every case of affliction, and
+
+you must remember, Captain Harville, that your friend may yet be called
+
+a young mourner—only last [[Summer|summer]], I understand.”
+
 
 
 “Ay, true enough,” (with a deep sigh) “only June.”
@@ -217,23 +231,3 @@ Wentworth, Anne, or Charles, who, really a very affectionate brother,
 hung over Louisa with sobs of grief, and could only turn his eyes from
 
 one sister, to see the other in a state as insensible, or to witness
-
-the hysterical agitations of his wife, calling on him for help which he
-
-could not give.
-
-
-
-Anne, attending with all the strength and zeal, and thought, which
-
-instinct supplied, to Henrietta, still tried, at intervals, to suggest
-
-comfort to the others, tried to quiet Mary, to animate Charles, to
-
-assuage the feelings of [[Captain Wentworth]]. Both seemed to look to her
-
-for directions.
-
-
-
-“Anne, Anne,” cried Charles, “What is to be done next? What, in

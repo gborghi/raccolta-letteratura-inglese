@@ -1,5 +1,5 @@
 ---
-title: "[[Emma]] — Chapter 8 (part 2)"
+title: "Emma — Chapter 8 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/emma-(austen)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/emma/chapter_08/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/emma/chapter_08/part_03">part 03 ›</a></div>
 </nav>
 
+
+“Pray, Mr. Knightley,” said [[Emma]], who had been smiling to herself
+through a great part of this speech, “how do you know that Mr. Martin
+did not speak yesterday?”
 
 “Certainly,” replied he, surprized, “I do not absolutely know it; but
 it may be inferred. Was not she the whole day with you?”
@@ -119,7 +123,3 @@ being disinclined to him. I know him [[Well|well]]. He has too much real feeling
 to address any woman on the haphazard of selfish passion. And as to
 conceit, he is the farthest from it of any man I know. Depend upon it
 he had encouragement.”
-
-It was most convenient to [[Emma]] not to make a direct reply to this
-assertion; she chose rather to take up her own line of the subject
-again.

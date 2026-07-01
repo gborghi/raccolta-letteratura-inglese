@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 7 (part 2)"
+title: "Mansfield Park — Chapter 7 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -107,10 +107,3 @@ being gifted by [[Nature]] with strength and [[Courage|courage]] was fully appre
 by the Miss Bertrams; her delight in riding was like their own; her
 early excellence in it was like their own, and they had great pleasure
 in praising it.
-
-“I was sure she would ride [[Well|well]],” said [[Julia]]; “she has the make for it.
-Her figure is as neat as her brother’s.”
-
-“Yes,” added [[Maria]], “and her spirits are as good, and she has the same
-energy of character. I cannot but think that good horsemanship has a
-great deal to do with the mind.”

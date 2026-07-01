@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 24 (part 3)"
+title: "Jane Eyre — Chapter 24 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_24/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_24/part_04">part 04 ›</a></div>
 </nav>
 
+
+“Is that all? Thank God it is no worse!” And now he unknit his black
+brows; looked down, smiling at me, and stroked my hair, as if [[Well|well]]
+pleased at seeing a danger averted. “I think I may confess,” he
+continued, “even although I should make you a little indignant,
+Jane—and I have seen what a [[Fire|fire]]-spirit you can be when you are
+indignant. You glowed in the cool moonlight last [[Night|night]], when you
+mutinied against fate, and claimed your rank as my equal. Janet,
+by-the-bye, it was you who made me the offer.”
 
 “Of course I did. But to the point if you please, sir—Miss Ingram?”
 
@@ -134,18 +143,3 @@ and so little acquainted with men, I wished to put you on your guard.
 It is an old saying that ‘all is not gold that glitters;’ and in this
 case I do [[Fear|fear]] there will be something found to be different to what
 either you or I expect.”
-
-“Why?—am I a [[Monster|monster]]?” I said: “is it impossible that Mr. Rochester
-should have a sincere affection for me?”
-
-“No: you are very [[Well|well]]; and much improved of late; and Mr. Rochester, I
-daresay, is fond of you. I have always noticed that you were a sort of
-pet of his. There are times when, for your sake, I have been a little
-uneasy at his marked preference, and have wished to put you on your
-guard: but I did not like to suggest even the possibility of wrong. I
-knew such an idea would shock, perhaps offend you; and you were so
-discreet, and so thoroughly modest and sensible, I hoped you might be
-trusted to protect yourself. Last [[Night|night]] I cannot tell you what I
-suffered when I sought all over the [[house]], and could find you nowhere,
-nor the master either; and then, at twelve o’[[Clock|clock]], saw you come in
-with him.”

@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 16 (part 2)"
+title: "The Mystery of Edwin Drood — Chapter 16 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -120,10 +120,3 @@ hawk’s eyes of his for the correction of his sight. He got closer to
 the Weir, and peered at its [[Well|well]]-known posts and timbers. Nothing in
 the least unusual was remotely shadowed forth. But he resolved that he
 would come back early in the morning.
-
-The Weir ran through his broken [[Sleep|sleep]], all [[Night|night]], and he was back again
-at sunrise. It was a bright frosty morning. The whole composition
-before him, when he stood where he had stood last [[Night|night]], was clearly
-discernible in its minutest details. He had surveyed it closely for
-some minutes, and was about to withdraw his eyes, when they were
-attracted keenly to one spot.

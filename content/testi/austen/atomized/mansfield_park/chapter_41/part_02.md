@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 41 (part 2)"
+title: "Mansfield Park — Chapter 41 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -107,15 +107,3 @@ willing to allow he might have more good qualities than she had been
 wont to suppose. She began to feel the possibility of his turning out
 [[Well|well]] at last; but he was and must ever be completely unsuited to her,
 and ought not to think of her.
-
-He perceived that enough had been said of Everingham, and that it would
-be as [[Well|well]] to talk of something else, and turned to Mansfield. He could
-not have chosen better; that was a topic to bring back her attention
-and her looks almost instantly. It was a real indulgence to her to hear
-or to speak of Mansfield. Now so long divided from everybody who knew
-the place, she felt it quite the voice of a friend when he mentioned
-it, and led the way to her fond exclamations in praise of its beauties
-and comforts, and by his honourable tribute to its inhabitants allowed
-her to gratify her own heart in the warmest eulogium, in speaking of
-her uncle as all that was clever and good, and her aunt as having the
-sweetest of all sweet tempers.

@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 14 (part 8)"
+title: "Bleak House — Chapter 14 (part 8)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,37 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_14/part_07">‹ part 07</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_15/part_01">part 01 ›</a></div>
 </nav>
 
+
+“When my noble and learned brother gives his judgment, they’re to be
+let go free,” said Krook, winking at us again. “And then,” he added,
+whispering and grinning, “if that ever was to happen—which it
+won’t—the [[Birds|birds]] that have never been caged would kill ’em.”
+
+“If ever the [[Wind|wind]] was in the east,” said my guardian, pretending to
+look out of the [[Window|window]] for a weathercock, “I think it’s there
+to-day!”
+
+We found it very difficult to get away from the [[house]]. It was not
+Miss Flite who detained us; she was as reasonable a little creature
+in consulting the convenience of others as there possibly could be.
+It was Mr. Krook. He seemed unable to detach himself from Mr.
+Jarndyce. If he had been linked to him, he could hardly have attended
+him more closely. He proposed to show us his [[Court]] of Chancery and
+all the strange medley it contained; during the whole of our
+inspection (prolonged by himself) he kept close to Mr. Jarndyce and
+sometimes detained him under one pretence or other until we had
+passed on, as if he were tormented by an inclination to enter upon
+some secret subject which he could not make up his mind to approach.
+I cannot imagine a countenance and manner more singularly expressive
+of caution and indecision, and a perpetual impulse to do something he
+could not resolve to venture on, than Mr. Krook’s was that day. His
+watchfulness of my guardian was incessant. He rarely removed his eyes
+from his face. If he went on beside him, he observed him with the
+slyness of an old white fox. If he went before, he looked back. When
+we stood still, he got opposite to him, and drawing his hand across
+and across his open mouth with a curious expression of a sense of
+power, and turning up his eyes, and lowering his grey eyebrows until
+they appeared to be shut, seemed to scan every lineament of his face.
 
 At last, having been (always attended by the cat) all over the [[house]]
 and having seen the whole stock of miscellaneous lumber, which was

@@ -14,6 +14,44 @@ tags:
 </nav>
 
 
+moonish as we are earthy. The exquisitely penetrating political and
+
+social [[Satire|satire]] he afterwards wrote belongs to an age later than the
+
+Victorian. But because, even from the beginning, his whole trend was
+
+Socialist, it is right to place him here.
+
+While the old Victorian ideas were being disturbed by an increasing
+
+torture at [[Home|home]], they were also intoxicated by a new [[Romance|romance]] from
+
+abroad. It did not come from [[Italy]] with Rossetti and Browning, or from
+
+Persia with Fitzgerald: but it came from countries as remote, countries
+
+which were (as the simple phrase of that period ran) "painted red" on
+
+the map. It was an attempt to [[Reform|reform]] England through the newer nations;
+
+by the criticism of the forgotten colonies, rather than of the forgotten
+
+classes. Both Socialism and Imperialism were utterly alien to the
+
+Victorian idea. From the point of view of a Victorian [[aristocrat]] like
+
+Palmerston, Socialism would be the cheek of gutter snipes; Imperialism
+
+would be the intrusion of cads. But cads are not [[Alone|alone]] concerned.
+
+Broadly, the phase in which the Victorian epoch closed was what can only
+
+be called the Imperialist phase. Between that and us stands a very
+
+individual [[artist]] who must nevertheless be connected with that phase. As
+
+I said at the beginning, Macaulay (or, rather, the mind Macaulay shared
+
 with most of his powerful middle class) remains as a sort of pavement or
 
 flat foundation under all the Victorians. They discussed the dogmas
@@ -44,8 +82,6 @@ This was the last note of the Victorians: procrastination was called
 
 progress.
 
-
-
 Now if we look for the worst fruits of this fallacy we shall find them
 
 in historical criticism. There is a curious habit of treating any one
@@ -63,8 +99,6 @@ obviously, such a phrase only applies to an alleged or real divine
 event: otherwise the forerunner would be a founder. Unless Jesus had
 
 been the Baptist's God, He would simply have been his disciple.
-
-
 
 Nevertheless the fallacy of the "forerunner" has been largely used in
 
@@ -120,8 +154,6 @@ failure of the poet. Yet when we look back up the false perspective of
 
 downward path.
 
-
-
 I shall not talk here, any more than anywhere else in this book, about
 
 the "sedulous ape" business. No man ever wrote as [[Well|well]] as Stevenson who
@@ -149,47 +181,3 @@ touching _cri de coeur_ "shall we never shed [[Blood|blood]]?" He did for the
 penny dreadful what Coleridge had done for the penny ballad. He proved
 
 that, because it was really human, it could really rise as near to
-
-heaven as human [[Nature|nature]] could take it. If Thackeray is our youth,
-
-Stevenson is our boyhood: and though this is not the most artistic
-
-thing in him, it is the most important thing in the [[history]] of Victorian
-
-art. All the other fine things he did were, for curious reasons, remote
-
-from the current of his age. For instance, he had the good as [[Well|well]] as
-
-the bad of coming from a Scotch Calvinist's [[house]]. No man in that age
-
-had so healthy an instinct for the actuality of positive evil. In _The
-
-Master of Ballantrae_ he did prove with a pen of steel, that the Devil
-
-is a gentleman--but is none the less the Devil. It is also
-
-characteristic of him (and of the revolt from Victorian respectability
-
-in general) that his most [[Blood|blood]]-and-thunder sensational tale is also
-
-that which contains his most intimate and bitter [[Truth|truth]]. _Dr. Jekyll and
-
-Mr. Hyde_ is a [[Double|double]] triumph; it has the outside excitement that
-
-belongs to Conan Doyle with the inside excitement that belongs to Henry
-
-James. Alas, it is equally characteristic of the Victorian [[Time|time]] that
-
-while nearly every Englishman has enjoyed the anecdote, hardly one
-
-Englishman has seen the joke--I mean the point. You will find twenty
-
-allusions to Jekyll and Hyde in a day's newspaper reading. You will also
-
-find that all such allusions suppose the two personalities to be equal,
-
-neither caring for the other. Or more roughly, they think the book means
-
-that man can be cloven into two creatures, good and evil. The whole stab
-
-of the story is that man _can't_: because while evil does not care for

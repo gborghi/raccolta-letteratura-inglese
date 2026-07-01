@@ -1,5 +1,5 @@
 ---
-title: "[[The Murders in the Rue Morgue]] (part 4)"
+title: "The Murders in the Rue Morgue (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-murders-in-the-rue-morgue-(poe)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_murders_in_the_rue_morgue/part/part_03">‹ part 03</a><a class="ex-next" href="/testi/poe/atomized/the_murders_in_the_rue_morgue/part/part_05">part 05 ›</a></div>
 </nav>
 
+
+      you were still thinking of the stones,) until we reached the
+
+      little alley called Lamartine, which has been paved, by way of
+
+      experiment, with the overlapping and riveted blocks. Here your
+
+      countenance brightened up, and, perceiving your lips move, I
+
+      could not [[Doubt|doubt]] that you murmured the word ‘stereotomy,’ a term
+
+      very affectedly applied to this species of pavement. I knew that
+
+      you could not say to yourself ‘stereotomy’ without being brought
 
       to think of atomies, and thus of the theories of Epicurus; and
 
@@ -189,29 +203,3 @@ tags:
       attempt to raise her, the head fell off. The [[Body|body]], as [[Well|well]] as the
 
       head, was fearfully mutilated—the former so much so as scarcely
-
-      to retain any semblance of humanity.
-
-
-
-      “To this horrible mystery there is not as yet, we believe, the
-
-      slightest clew.”
-
-
-
-      The next day’s paper had these additional particulars.
-
-
-
-      “_The [[Tragedy]] in the Rue Morgue._—Many individuals have been
-
-      examined in relation to this most extraordinary and frightful
-
-      affair” [The word ‘affaire’ has not yet, in France, that levity
-
-      of import which it conveys with us], “but nothing whatever has
-
-      transpired to throw light upon it. We give below all the material
-
-      testimony elicited.

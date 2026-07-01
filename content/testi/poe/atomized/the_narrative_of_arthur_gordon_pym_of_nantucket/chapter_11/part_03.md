@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 12 (part 3)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 12 (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_11/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_12/part_01">part 01 ›</a></div>
 </nav>
 
+
+that the whole framework about the cabin companion-hatch had been
+
+carried away, whereas the forecastle-way, being a simple hatch of only
+
+about three feet square, had remained uninjured. I did not hesitate,
+
+however, to attempt the descent; and, a rope being fastened round my
+
+[[Body|body]] as before, I plunged boldly in, feet foremost, made my way quickly
 
 to the berth, and, at the very first attempt, brought up the axe. It
 

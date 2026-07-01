@@ -1,5 +1,5 @@
 ---
-title: "[[The Murders in the Rue Morgue]] (part 5)"
+title: "The Murders in the Rue Morgue (part 5)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-murders-in-the-rue-morgue-(poe)"
@@ -12,6 +12,34 @@ tags:
 <div class="excerpt-crumb">Poe · <a href="/works/the-murders-in-the-rue-morgue-(poe)">The Murders in the Rue Morgue</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_murders_in_the_rue_morgue/part/part_04">‹ part 04</a><a class="ex-next" href="/testi/poe/atomized/the_murders_in_the_rue_morgue/part/part_06">part 06 ›</a></div>
 </nav>
+
+
+      to retain any semblance of humanity.
+
+
+
+      “To this horrible mystery there is not as yet, we believe, the
+
+      slightest clew.”
+
+
+
+      The next day’s paper had these additional particulars.
+
+
+
+      “_The [[Tragedy]] in the Rue Morgue._—Many individuals have been
+
+      examined in relation to this most extraordinary and frightful
+
+      affair” [The word ‘affaire’ has not yet, in France, that levity
+
+      of import which it conveys with us], “but nothing whatever has
+
+      transpired to throw light upon it. We give below all the material
+
+      testimony elicited.
+
 
 
       “_Pauline Dubourg_, laundress, deposes that she has known both
@@ -179,29 +207,3 @@ tags:
       as harsh. Could not call it a shrill voice. The gruff voice said
 
       repeatedly ‘_sacré_,’ ‘_diable_,’ and once ‘_mon Dieu._’
-
-
-
-      “_Jules Mignaud_, banker, of the firm of Mignaud et Fils, Rue
-
-      Deloraine. Is the elder Mignaud. Madame L’Espanaye had some
-
-      property. Had opened an account with his banking [[house]] in the
-
-      [[Spring|spring]] of the year—(eight years previously). Made frequent
-
-      deposits in small sums. Had checked for nothing until the third
-
-      day before her [[Death|death]], when she took out in person the sum of 4000
-
-      francs. This sum was paid in gold, and a clerk went [[Home|home]] with the
-
-      money.
-
-
-
-      “_Adolphe Le Bon_, clerk to Mignaud et Fils, deposes that on the
-
-      day in question, about [[Noon|noon]], he accompanied Madame L’Espanaye to
-
-      her residence with the 4000 francs, put up in two bags. Upon the

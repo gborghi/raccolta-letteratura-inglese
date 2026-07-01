@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 22 (part 2)"
+title: "The Tenant of Wildfell Hall — Chapter 22 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -12,6 +12,18 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/the-tenant-of-wildfell-hall-(bronte)">The Tenant of Wildfell Hall</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_22/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_22/part_03">part 03 ›</a></div>
 </nav>
+
+
+plied him with brandy-and-[[Water|water]] till he began to look rather
+
+brighter—rather more alive, at least.
+
+
+
+“‘Huntingdon, I’m ruined!’ said he, taking the third glass from my
+
+hand—he had drunk the others in dead [[Silence|silence]].
+
 
 
 “‘Not you,’ said I. ‘You’ll find a man can live without his money as
@@ -257,15 +269,3 @@ when he peevishly pushed it away, saying,—
 join you: I’m only come to be with you awhile, because I can’t bear my
 
 own thoughts.’ And he folded his arms, and leant back in his chair; so
-
-we let him be. But I left the glass by him; and, after awhile, Grimsby
-
-directed my attention towards it, by a significant wink; and, on
-
-turning my head, I saw it was drained to the [[Bottom|bottom]]. He made me a sign
-
-to replenish, and quietly pushed up the bottle. I willingly complied;
-
-but Lowborough detected the pantomime, and, nettled at the intelligent
-
-grins that were passing between us, snatched the glass from my hand,

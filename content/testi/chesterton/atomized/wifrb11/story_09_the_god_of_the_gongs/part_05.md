@@ -1,5 +1,5 @@
 ---
-title: "[[wifrb11]] — The God of the Gongs (part 5)"
+title: "wifrb11 — The God of the Gongs (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -25,15 +25,15 @@ the fight will have to be put off."
      "What authority have you for what you say?" asked Lord Pooley
 abruptly.  "Whom did you consult?"
 
-     "I consulted a bandstand," said [[Father Brown]], scratching his head. 
+     "I consulted a bandstand," said Father Brown, scratching his head. 
 "But, no, I'm wrong; I consulted a book, too.  I  picked it up
-on a bookstall in [[London]]--very cheap, too."
+on a bookstall in London--very cheap, too."
 
      He had taken out of his pocket a small, stout, leather-bound volume,
-and [[Flambeau]], looking over his shoulder, could see that it was some
+and Flambeau, looking over his shoulder, could see that it was some
 book of old travels, and had a leaf turned down for reference.
 
-     "`The only form in which Voodoo--'" began Father Brown, reading aloud.
+     "`The only form in which Voodoo--'" began [[Father Brown]], reading aloud.
 
      "In which what?" inquired his lordship.
 
@@ -139,7 +139,7 @@ he added, with a smile, "I [[Fear|fear]] the English decline to draw
 any fine distinction between the moral character produced by my religion
 and that which blooms out of Voodoo."
 
-     The blaze of the [[Spring|spring]] season had burst upon Seawood,
+     The blaze of the [[spring]] season had burst upon Seawood,
 littering its foreshore with famines and bathing-machines,
 with nomadic preachers and nigger minstrels, before the two friends
 saw it again, and long before the [[Storm|storm]] of pursuit after the strange
@@ -181,8 +181,5 @@ apologetically.  "And I'm sure he wouldn't whiten his face."
      [[Father Brown]], also leaning motionless on the parapet, moved one finger
 for an instant into the direction of the soot-masked niggers singing
 on the sands.
-
-
-
 
                                   TEN

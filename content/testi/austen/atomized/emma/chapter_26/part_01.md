@@ -1,5 +1,5 @@
 ---
-title: "[[Emma]] — Chapter 7 (part 1)"
+title: "Emma — Chapter 8 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/emma-(austen)"
@@ -10,117 +10,116 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/works/emma-(austen)">Emma</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/emma/chapter_25/part_03">‹ part 03</a><a class="ex-next" href="/testi/austen/atomized/emma/chapter_26/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/emma/chapter_25/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/emma/chapter_26/part_02">part 02 ›</a></div>
 </nav>
 
 
-CHAPTER VII
+CHAPTER VIII
 
 
-[[Emma]]’s very good opinion of [[Frank Churchill]] was a little shaken the
-following day, by hearing that he was gone off to [[London]], merely to
-have his hair cut. A sudden freak seemed to have seized him at
-breakfast, and he had sent for a chaise and set off, intending to
-return to dinner, but with no more important view that appeared than
-having his hair cut. There was certainly no harm in his travelling
-sixteen miles twice over on such an errand; but there was an air of
-foppery and nonsense in it which she could not approve. It did not
-accord with the rationality of plan, the moderation in expense, or even
-the unselfish warmth of heart, which she had believed herself to
-discern in him yesterday. [[Vanity]], extravagance, [[Love|love]] of change,
-restlessness of temper, which must be doing something, good or bad;
-heedlessness as to the pleasure of his father and Mrs. Weston,
-indifferent as to how his conduct might appear in general; he became
-liable to all these charges. His father only called him a coxcomb, and
-thought it a very good story; but that Mrs. Weston did not like it, was
-clear enough, by her passing it over as quickly as possible, and making
-no other comment than that “all young people would have their little
-whims.”
+[[Frank Churchill]] came back again; and if he kept his father’s dinner
+waiting, it was not known at Hartfield; for Mrs. Weston was too anxious
+for his being a favourite with Mr. Woodhouse, to betray any
+imperfection which could be concealed.
 
-With the exception of this little blot, [[Emma]] found that his visit
-hitherto had given her friend only good ideas of him. Mrs. Weston was
-very ready to say how attentive and pleasant a companion he made
-himself—how much she saw to like in his disposition altogether. He
-appeared to have a very open temper—certainly a very cheerful and
-lively one; she could observe nothing wrong in his notions, a great
-deal decidedly right; he spoke of his uncle with warm regard, was fond
-of talking of him—said he would be the best man in the world if he were
-left to himself; and though there was no being attached to the aunt, he
-acknowledged her kindness with gratitude, and seemed to mean always to
-speak of her with respect. This was all very promising; and, but for
-such an unfortunate fancy for having his hair cut, there was nothing to
-denote him unworthy of the distinguished [[Honour|honour]] which her [[Imagination|imagination]]
-had given him; the [[Honour|honour]], if not of being really in [[Love|love]] with her, of
-being at least very near it, and saved only by her own
-indifference—(for still her resolution held of never marrying)—the
-[[Honour|honour]], in short, of being marked out for her by all their joint
-acquaintance.
+He came back, had had his hair cut, and laughed at himself with a very
+good grace, but without seeming really at all ashamed of what he had
+done. He had no reason to wish his hair longer, to conceal any
+confusion of face; no reason to wish the money unspent, to improve his
+spirits. He was quite as undaunted and as lively as ever; and, after
+seeing him, [[Emma]] thus moralised to herself:—
 
-Mr. Weston, on his side, added a virtue to the account which must have
-some weight. He gave her to understand that Frank admired her
-extremely—thought her very beautiful and very charming; and with so
-much to be said for him altogether, she found she must not judge him
-harshly. As Mrs. Weston observed, “all young people would have their
-little whims.”
+“I do not know whether it ought to be so, but certainly silly things do
+cease to be silly if they are done by sensible people in an impudent
+way. Wickedness is always wickedness, but folly is not always folly.—It
+depends upon the character of those who handle it. Mr. Knightley, he is
+_not_ a trifling, silly young man. If he were, he would have done this
+differently. He would either have gloried in the achievement, or been
+ashamed of it. There would have been either the ostentation of a
+coxcomb, or the evasions of a mind too weak to defend its own
+vanities.—No, I am perfectly sure that he is not trifling or silly.”
 
-There was one person among his new acquaintance in Surry, not so
-leniently disposed. In general he was judged, throughout the parishes
-of Donwell and Highbury, with great candour; liberal allowances were
-made for the little excesses of such a handsome young man—one who
-smiled so often and bowed so [[Well|well]]; but there was one spirit among them
-not to be softened, from its power of censure, by bows or smiles—Mr.
-Knightley. The circumstance was told him at Hartfield; for the moment,
-he was silent; but [[Emma]] heard him almost immediately afterwards say to
-himself, over a newspaper he held in his hand, “Hum! just the trifling,
-silly fellow I took him for.” She had half a mind to resent; but an
-instant’s observation convinced her that it was really said only to
-relieve his own feelings, and not meant to provoke; and therefore she
-let it pass.
+With Tuesday came the agreeable prospect of seeing him again, and for a
+longer [[Time|time]] than hitherto; of judging of his general manners, and by
+inference, of the meaning of his manners towards herself; of guessing
+how soon it might be necessary for her to throw coldness into her air;
+and of fancying what the observations of all those might be, who were
+now seeing them together for the first [[Time|time]].
 
-Although in one instance the bearers of not good tidings, Mr. and Mrs.
-Weston’s visit this morning was in another respect particularly
-opportune. Something occurred while they were at Hartfield, to make
-[[Emma]] want their advice; and, which was still more lucky, she wanted
-exactly the advice they gave.
+She meant to be very happy, in spite of the scene being laid at Mr.
+Cole’s; and without being able to forget that among the failings of Mr.
+Elton, even in the days of his favour, none had disturbed her more than
+his propensity to dine with Mr. Cole.
 
-This was the occurrence:—The Coles had been settled some years in
-Highbury, and were very good sort of people—friendly, liberal, and
-unpretending; but, on the other hand, they were of low origin, in
-trade, and only moderately genteel. On their first coming into the
-country, they had lived in proportion to their income, quietly, keeping
-little company, and that little unexpensively; but the last year or two
-had brought them a considerable increase of means—the [[house]] in town had
-yielded greater profits, and fortune in general had smiled on them.
-With their wealth, their views increased; their want of a larger [[house]],
-their inclination for more company. They added to their [[house]], to their
-number of servants, to their expenses of every sort; and by this [[Time|time]]
-were, in fortune and style of living, second only to the family at
-Hartfield. Their [[Love|love]] of society, and their new dining-room, prepared
-every [[Body|body]] for their keeping dinner-company; and a few parties, chiefly
-among the single men, had already taken place. The regular and best
-families [[Emma]] could hardly suppose they would presume to invite—neither
-Donwell, nor Hartfield, nor Randalls. Nothing should tempt _her_ to go,
-if they did; and she regretted that her father’s known habits would be
-giving her refusal less meaning than she could wish. The Coles were
-very respectable in their way, but they ought to be taught that it was
-not for them to arrange the terms on which the superior families would
-visit them. This lesson, she very much feared, they would receive only
-from herself; she had little [[Hope|hope]] of Mr. Knightley, none of Mr. Weston.
+Her father’s comfort was amply secured, Mrs. Bates as [[Well|well]] as Mrs.
+Goddard being able to come; and her last pleasing duty, before she left
+the [[house]], was to pay her respects to them as they sat together after
+dinner; and while her father was fondly noticing the [[Beauty|beauty]] of her
+dress, to make the two ladies all the amends in her power, by helping
+them to large slices of cake and full glasses of wine, for whatever
+unwilling [[Self|self]]-denial his care of their constitution might have obliged
+them to practise during the meal.—She had provided a plentiful dinner
+for them; she wished she could know that they had been allowed to eat
+it.
 
-But she had made up her mind how to meet this presumption so many weeks
-before it appeared, that when the insult came at last, it found her
-very differently affected. Donwell and Randalls had received their
-invitation, and none had come for her father and herself; and Mrs.
-Weston’s accounting for it with “I suppose they will not take the
-liberty with you; they know you do not dine out,” was not quite
-sufficient. She felt that she should like to have had the power of
-refusal; and afterwards, as the idea of the party to be assembled
-there, consisting precisely of those whose society was dearest to her,
-occurred again and again, she did not know that she might not have been
-tempted to accept. Harriet was to be there in the evening, and the
-Bateses. They had been speaking of it as they walked about Highbury the
-day before, and [[Frank Churchill]] had most earnestly lamented her
-absence. Might not the evening end in a [[Dance|dance]]? had been a question of
-his. The bare possibility of it acted as a farther irritation on her
-spirits; and her being left in solitary grandeur, even supposing the
-omission to be intended as a compliment, was but poor comfort.
+She followed another carriage to Mr. Cole’s door; and was pleased to
+see that it was Mr. Knightley’s; for Mr. Knightley keeping no horses,
+having little spare money and a great deal of health, activity, and
+independence, was too apt, in [[Emma]]’s opinion, to get about as he could,
+and not use his carriage so often as became the owner of Donwell Abbey.
+She had an opportunity now of speaking her approbation while warm from
+her heart, for he stopped to hand her out.
+
+“This is coming as you should do,” said she; “like a gentleman.—I am
+quite glad to see you.”
+
+He thanked her, observing, “How lucky that we should arrive at the same
+moment! for, if we had met first in the drawing-room, I [[Doubt|doubt]] whether
+you would have discerned me to be more of a gentleman than usual.—You
+might not have distinguished how I came, by my look or manner.”
+
+“Yes I should, I am sure I should. There is always a look of
+consciousness or bustle when people come in a way which they know to be
+beneath them. You think you carry it off very [[Well|well]], I dare say, but
+with you it is a sort of bravado, an air of affected unconcern; I
+always observe it whenever I meet you under those circumstances. _Now_
+you have nothing to try for. You are not afraid of being supposed
+ashamed. You are not striving to look taller than any [[Body|body]] else. _Now_
+I shall really be very happy to walk into the same room with you.”
+
+“Nonsensical girl!” was his reply, but not at all in anger.
+
+[[Emma]] had as much reason to be satisfied with the rest of the party as
+with Mr. Knightley. She was received with a cordial respect which could
+not but please, and given all the consequence she could wish for. When
+the Westons arrived, the kindest looks of [[Love|love]], the strongest of
+admiration were for her, from both husband and wife; the son approached
+her with a cheerful eagerness which marked her as his peculiar object,
+and at dinner she found him seated by her—and, as she firmly believed,
+not without some dexterity on his side.
+
+The party was rather large, as it included one other family, a proper
+unobjectionable country family, whom the Coles had the advantage of
+naming among their acquaintance, and the male part of Mr. Cox’s family,
+the lawyer of Highbury. The less worthy females were to come in the
+evening, with [[Miss Bates]], Miss Fairfax, and Miss [[smith|Smith]]; but already, at
+dinner, they were too numerous for any subject of conversation to be
+general; and, while politics and Mr. Elton were talked over, [[Emma]] could
+fairly surrender all her attention to the pleasantness of her
+neighbour. The first remote sound to which she felt herself obliged to
+attend, was the name of [[Jane Fairfax]]. Mrs. Cole seemed to be relating
+something of her that was expected to be very interesting. She
+listened, and found it [[Well|well]] worth listening to. That very dear part of
+[[Emma]], her fancy, received an amusing supply. Mrs. Cole was telling that
+she had been calling on [[Miss Bates]], and as soon as she entered the room
+had been struck by the sight of a pianoforte—a very elegant looking
+instrument—not a grand, but a large-sized square pianoforte; and the
+substance of the story, the end of all the dialogue which ensued of
+surprize, and inquiry, and congratulations on her side, and
+explanations on [[Miss Bates]]’s, was, that this pianoforte had arrived
+from Broadwood’s the day before, to the great astonishment of both aunt
+and niece—entirely unexpected; that at first, by [[Miss Bates]]’s account,
+Jane herself was quite at a loss, quite bewildered to think who could
+possibly have ordered it—but now, they were both perfectly satisfied
+that it could be from only one quarter;—of course it must be from
+Colonel Campbell.

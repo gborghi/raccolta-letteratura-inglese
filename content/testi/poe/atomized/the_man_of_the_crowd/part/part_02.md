@@ -1,5 +1,5 @@
 ---
-title: "[[The Man of the Crowd]] (part 2)"
+title: "The Man of the Crowd (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-man-of-the-crowd-(poe)"

@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 69 (part 2)"
+title: "Barnaby Rudge — Chapter 69 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_69/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_69/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘Trim off these gewgaws,’ said his father, plucking the scraps of ribbon
+and the feathers from his hat, ‘and over your own dress wear my cloak.
+Take heed how you go, and they will be too busy in the streets to notice
+you. Of your coming back you need take no account, for he’ll manage
+that, safely.’
 
 ‘To be sure!’ said Barnaby. ‘To be sure he will! A wise man, father, and
 one who can teach us to be rich. Oh! I know him, I know him.’
@@ -128,9 +134,3 @@ his skin parched up by fever, his whole [[Body|body]] bruised and cut, and beate
 about, Hugh still took the flask, and raised it to his lips. He was in
 the act of drinking, when the front of the shed was suddenly darkened,
 and Dennis stood before them.
-
-‘No offence, no offence,’ said that personage in a conciliatory tone, as
-Hugh stopped in his draught, and eyed him, with no pleasant look, from
-head to foot. ‘No offence, brother. Barnaby here too, eh? How are you,
-Barnaby? And two other gentlemen! Your humble servant, gentlemen. No
-offence to YOU either, I [[Hope|hope]]. Eh, brothers?’

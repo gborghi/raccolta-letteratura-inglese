@@ -1,5 +1,5 @@
 ---
-title: "[[Richard II]] — Act II, Scene 1 — monologue ([[John of Gaunt|JOHN OF GAUNT]]) [2]"
+title: "Richard II — Act II, Scene 1 — monologue (JOHN OF GAUNT) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/richard-ii-(shakespeare)"

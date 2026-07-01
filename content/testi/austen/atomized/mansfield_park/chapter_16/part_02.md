@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 16 (part 2)"
+title: "Mansfield Park — Chapter 16 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -29,7 +29,7 @@ play as they could, and now, to complete the business, are going to ask
 the help of a young man very slightly known to any of us. This is the
 end of all the privacy and propriety which was talked about at first. I
 know no harm of Charles Maddox; but the excessive intimacy which must
-[[spring]] from his being admitted among us in this manner is highly
+[[Spring|spring]] from his being admitted among us in this manner is highly
 objectionable, the _more_ than intimacy—the familiarity. I cannot think
 of it with any patience; and it does appear to me an evil of such
 magnitude as must, _if_ _possible_, be prevented. Do not you see it in

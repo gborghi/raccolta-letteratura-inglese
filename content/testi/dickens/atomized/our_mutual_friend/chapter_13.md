@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 8"
+title: "Our Mutual Friend — Chapter 9"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,631 +14,700 @@ tags:
 </nav>
 
 
-Chapter 8
+Chapter 9
 
-MR BOFFIN IN CONSULTATION
+MR AND MRS BOFFIN IN CONSULTATION
 
 
-Whosoever had gone out of Fleet Street into the Temple at the date of
-this [[history]], and had wandered disconsolate about the Temple until he
-stumbled on a dismal churchyard, and had looked up at the dismal windows
-commanding that churchyard until at the most dismal [[Window|window]] of them
-all he saw a dismal boy, would in him have beheld, at one grand
-comprehensive swoop of the eye, the managing clerk, junior clerk,
-common-law clerk, conveyancing clerk, chancery clerk, every refinement
-and department of clerk, of Mr Mortimer Lightwood, erewhile called in
-the newspapers eminent solicitor.
+Betaking himself straight homeward, Mr Boffin, without further let or
+hindrance, arrived at the Bower, and gave Mrs Boffin (in a walking dress
+of black velvet and feathers, like a mourning coach-[[Horse|horse]]) an account of
+all he had said and done since breakfast.
 
-Mr Boffin having been several times in communication with this clerkly
-essence, both on its own ground and at the Bower, had no difficulty in
-identifying it when he saw it up in its dusty eyrie. To the second floor
-on which the [[Window|window]] was situated, he ascended, much pre-occupied in mind
-by the uncertainties besetting the Roman Empire, and much regretting the
-[[Death|death]] of the amiable Pertinax: who only last [[Night|night]] had left the Imperial
-affairs in a state of great confusion, by falling a victim to the fury
-of the praetorian guards.
+‘This brings us round, my dear,’ he then pursued, ‘to the question
+we left unfinished: namely, whether there’s to be any new go-in for
+Fashion.’
 
-‘Morning, morning, morning!’ said Mr Boffin, with a wave of his hand, as
-the office door was opened by the dismal boy, whose appropriate name was
-Blight. ‘Governor in?’
-
-‘Mr Lightwood gave you an appointment, sir, I think?’
-
-‘I don’t want him to give it, you know,’ returned Mr Boffin; ‘I’ll pay
-my way, my boy.’
-
-‘No [[Doubt|doubt]], sir. Would you walk in? Mr Lightwood ain’t in at the present
-moment, but I expect him back very shortly. Would you take a seat in Mr
-Lightwood’s room, sir, while I look over our Appointment Book?’
-Young Blight made a great show of fetching from his desk a long thin
-manuscript volume with a brown paper cover, and running his finger down
-the day’s appointments, murmuring, ‘Mr Aggs, Mr Baggs, Mr Caggs, Mr
-Daggs, Mr Faggs, Mr Gaggs, Mr Boffin. Yes, sir; quite right. You are a
-little before your [[Time|time]], sir. Mr Lightwood will be in directly.’
-
-‘I’m not in a hurry,’ said Mr Boffin
-
-‘Thank you, sir. I’ll take the opportunity, if you please, of entering
-your name in our Callers’ Book for the day.’ Young Blight made another
-great show of changing the volume, taking up a pen, sucking it, dipping
-it, and running over previous entries before he wrote. As, ‘Mr Alley,
-Mr Balley, Mr Calley, Mr Dalley, Mr Falley, Mr Galley, Mr Halley, Mr
-Lalley, Mr Malley. And Mr Boffin.’
-
-‘Strict system here; eh, my lad?’ said Mr Boffin, as he was booked.
-
-‘Yes, sir,’ returned the boy. ‘I couldn’t get on without it.’
-
-By which he probably meant that his mind would have been shattered to
-pieces without this fiction of an occupation. Wearing in his solitary
-confinement no fetters that he could polish, and being provided with no
-drinking-cup that he could carve, he had fallen on the device of ringing
-alphabetical changes into the two volumes in question, or of entering
-vast numbers of persons out of the Directory as transacting business
-with Mr Lightwood. It was the more necessary for his spirits, because,
-being of a sensitive temperament, he was apt to consider it personally
-disgraceful to himself that his master had no clients.
-
-‘How long have you been in the law, now?’ asked Mr Boffin, with a
-pounce, in his usual inquisitive way.
-
-‘I’ve been in the law, now, sir, about three years.’
-
-‘Must have been as good as born in it!’ said Mr Boffin, with admiration.
-‘Do you like it?’
-
-‘I don’t mind it much,’ returned Young Blight, heaving a sigh, as if its
-bitterness were past.
-
-‘What wages do you get?’
-
-‘Half what I could wish,’ replied young Blight.
-
-‘What’s the whole that you could wish?’
-
-‘Fifteen shillings a week,’ said the boy.
-
-‘About how long might it take you now, at a average rate of going, to be
-a Judge?’ asked Mr Boffin, after surveying his small stature in [[Silence|silence]].
-
-The boy answered that he had not yet quite worked out that little
-calculation.
-
-‘I suppose there’s nothing to prevent your going in for it?’ said Mr
-Boffin.
-
-The boy virtually replied that as he had the [[Honour|honour]] to be a Briton who
-never never never, there was nothing to prevent his going in for it. Yet
-he seemed inclined to suspect that there might be something to prevent
-his coming out with it.
-
-‘Would a couple of pound help you up at all?’ asked Mr Boffin.
-
-On this head, young Blight had no [[Doubt|doubt]] whatever, so Mr Boffin made him
-a present of that sum of money, and thanked him for his attention to his
-(Mr Boffin’s) affairs; which, he added, were now, he believed, as good
-as settled.
-
-Then Mr Boffin, with his stick at his ear, like a Familiar Spirit
-explaining the office to him, sat staring at a little bookcase of Law
-Practice and Law Reports, and at a [[Window|window]], and at an empty blue bag, and
-at a stick of sealing-wax, and a pen, and a box of wafers, and an apple,
-and a writing-pad—all very dusty—and at a number of inky smears
-and blots, and at an imperfectly-disguised gun-case pretending to be
-something legal, and at an iron box labelled HARMON ESTATE, until Mr
-Lightwood appeared.
-
-Mr Lightwood explained that he came from the proctor’s, with whom he had
-been engaged in transacting Mr Boffin’s affairs.
-
-‘And they seem to have taken a deal out of you!’ said Mr Boffin, with
-commiseration.
-
-Mr Lightwood, without explaining that his weariness was chronic,
-proceeded with his exposition that, all forms of law having been at
-length complied with, will of Harmon deceased having been proved, [[Death|death]]
-of Harmon next inheriting having been proved, &c., and so forth, [[Court]]
-of Chancery having been moved, &c. and so forth, he, Mr Lightwood, had
-now the gratification, [[Honour|honour]], and happiness, again &c. and so forth, of
-congratulating Mr Boffin on coming into possession as residuary legatee,
-of upwards of one hundred thousand pounds, standing in the books of the
-Governor and Company of the Bank of England, again &c. and so forth.
-
-‘And what is particularly eligible in the property Mr Boffin, is, that
-it involves no trouble. There are no estates to manage, no rents to
-return so much per cent upon in bad times (which is an extremely dear
-way of getting your name into the newspapers), no voters to become
-parboiled in hot [[Water|water]] with, no agents to take the cream off the
-milk before it comes to table. You could put the whole in a cash-box
-to-morrow morning, and take it with you to—say, to the Rocky [[Mountains]].
-Inasmuch as every man,’ concluded Mr Lightwood, with an indolent smile,
-‘appears to be under a fatal spell which obliges him, sooner or later,
-to mention the Rocky [[Mountains]] in a tone of extreme familiarity to some
-other man, I [[Hope|hope]] you’ll excuse my pressing you into the service of that
-gigantic range of geographical bores.’
-
-Without following this last remark very closely, Mr Boffin cast his
-perplexed gaze first at the ceiling, and then at the carpet.
-
-‘[[Well]],’ he remarked, ‘I don’t know what to say about it, I am sure. I
-was a’most as [[Well|well]] as I was. It’s a great lot to take care of.’
-
-‘My dear Mr Boffin, then DON’T take care of it!’
-
-‘Eh?’ said that gentleman.
-
-‘Speaking now,’ returned Mortimer, ‘with the irresponsible imbecility
-of a private individual, and not with the profundity of a professional
-adviser, I should say that if the circumstance of its being too much,
-weighs upon your mind, you have the haven of consolation open to you
-that you can easily make it less. And if you should be apprehensive of
-the trouble of doing so, there is the further haven of consolation that
-any number of people will take the trouble off your hands.’
-
-‘[[Well]]! I don’t quite see it,’ retorted Mr Boffin, still perplexed.
-‘That’s not satisfactory, you know, what you’re a-saying.’
-
-‘Is Anything satisfactory, Mr Boffin?’ asked Mortimer, raising his
-eyebrows.
-
-‘I used to find it so,’ answered Mr Boffin, with a wistful look. ‘While
-I was foreman at the Bower—afore it WAS the Bower—I considered the
-business very satisfactory. The old man was a awful Tartar (saying
-it, I’m sure, without disrespect to his [[Memory|memory]]) but the business was
-a pleasant one to look after, from before daylight to past dark. It’s
-a’most a pity,’ said Mr Boffin, rubbing his ear, ‘that he ever went and
-made so much money. It would have been better for him if he hadn’t so
-given himself up to it. You may depend upon it,’ making the discovery
-all of a sudden, ‘that HE found it a great lot to take care of!’
-
-Mr Lightwood coughed, not convinced.
-
-‘And speaking of satisfactory,’ pursued Mr Boffin, ‘why, Lord save
-us! when we come to take it to pieces, bit by bit, where’s the
-satisfactoriness of the money as yet? When the old man does right the
-poor boy after all, the poor boy gets no good of it. He gets made away
-with, at the moment when he’s lifting (as one may say) the cup and
-sarser to his lips. Mr Lightwood, I will now name to you, that on behalf
-of the poor dear boy, me and Mrs Boffin have stood out against the old
-man times out of number, till he has called us every name he could lay
-his tongue to. I have seen him, after Mrs Boffin has given him her mind
-respecting the claims of the nat’ral affections, catch off Mrs Boffin’s
-bonnet (she wore, in general, a black straw, perched as a matter of
-convenience on the top of her head), and send it spinning across
-the yard. I have indeed. And once, when he did this in a manner that
-amounted to personal, I should have given him a rattler for himself, if
-Mrs Boffin hadn’t thrown herself betwixt us, and received flush on the
-temple. Which dropped her, Mr Lightwood. Dropped her.’
-
-Mr Lightwood murmured ‘Equal [[Honour|honour]]—Mrs Boffin’s head and heart.’
-
-‘You understand; I name this,’ pursued Mr Boffin, ‘to show you, now the
-affairs are wound up, that me and Mrs Boffin have ever stood as we were
-in Christian [[Honour|honour]] bound, the children’s friend. Me and Mrs Boffin
-stood the poor girl’s friend; me and Mrs Boffin stood the poor boy’s
-friend; me and Mrs Boffin up and faced the old man when we momently
-expected to be turned out for our pains. As to Mrs Boffin,’ said Mr
-Boffin lowering his voice, ‘she mightn’t wish it mentioned now she’s
-Fashionable, but she went so far as to tell him, in my presence, he was
-a flinty-hearted rascal.’
-
-Mr Lightwood murmured ‘Vigorous Saxon spirit—Mrs Boffin’s
-ancestors—bowmen—Agincourt and Cressy.’
-
-‘The last [[Time|time]] me and Mrs Boffin saw the poor boy,’ said Mr Boffin,
-warming (as fat usually does) with a tendency to melt, ‘he was a [[Child|child]]
-of seven year old. For when he came back to make intercession for his
-sister, me and Mrs Boffin were away overlooking a country contract which
-was to be sifted before carted, and he was come and gone in a single
-hour. I say he was a [[Child|child]] of seven year old. He was going away, all
-[[Alone|alone]] and forlorn, to that foreign school, and he come into our place,
-situate up the yard of the present Bower, to have a warm at our [[Fire|fire]].
-There was his little scanty travelling clothes upon him. There was his
-little scanty box outside in the shivering [[Wind|wind]], which I was going to
-carry for him down to the steamboat, as the old man wouldn’t hear of
-allowing a sixpence coach-money. Mrs Boffin, then quite a young woman
-and pictur of a full-blown [[Rose|rose]], stands him by her, kneels down at the
-[[Fire|fire]], warms her two open hands, and falls to rubbing his cheeks; but
-seeing the [[Tears|tears]] come into the [[Child|child]]’s eyes, the [[Tears|tears]] come fast into
-her own, and she holds him round the neck, like as if she was protecting
-him, and cries to me, “I’d give the wide wide world, I would, to run
-away with him!” I don’t say but what it cut me, and but what it at the
-same [[Time|time]] heightened my feelings of admiration for Mrs Boffin. The poor
-[[Child|child]] clings to her for awhile, as she clings to him, and then, when
-the old man calls, he says “I must go! God bless you!” and for a moment
-rests his heart against her bosom, and looks up at both of us, as if it
-was in [[Pain|pain]]—in agony. Such a look! I went aboard with him (I gave him
-first what little treat I thought he’d like), and I left him when he had
-fallen asleep in his berth, and I came back to Mrs Boffin. But tell
-her what I would of how I had left him, it all went for nothing, for,
-according to her thoughts, he never changed that look that he had looked
-up at us two. But it did one piece of good. Mrs Boffin and me had no
-[[Child|child]] of our own, and had sometimes wished that how we had one. But not
-now. “We might both of us die,” says Mrs Boffin, “and other eyes might
-see that lonely look in our [[Child|child]].” So of a [[Night|night]], when it was very
-cold, or when the [[Wind|wind]] roared, or the rain dripped heavy, she would
-wake sobbing, and call out in a fluster, “Don’t you see the poor [[Child|child]]’s
-face? O shelter the poor [[Child|child]]!”—till in course of years it gently wore
-out, as many things do.’
-
-‘My dear Mr Boffin, everything wears to rags,’ said Mortimer, with a
-light laugh.
-
-‘I won’t go so far as to say everything,’ returned Mr Boffin, on whom
-his manner seemed to grate, ‘because there’s some things that I never
-found among the [[Dust|dust]]. [[Well]], sir. So Mrs Boffin and me grow older and
-older in the old man’s service, living and working pretty hard in it,
-till the old man is discovered dead in his bed. Then Mrs Boffin and me
-seal up his box, always standing on the table at the side of his bed,
-and having frequently heerd tell of the Temple as a spot where lawyer’s
-[[Dust|dust]] is contracted for, I come down here in search of a lawyer to
-advise, and I see your young man up at this present elevation, chopping
-at the flies on the [[Window|window]]-sill with his penknife, and I give him a Hoy!
-not then having the pleasure of your acquaintance, and by that
-means come to gain the [[Honour|honour]]. Then you, and the gentleman in the
-uncomfortable neck-cloth under the little archway in Saint Paul’s
-Churchyard—’
-
-‘Doctors’ Commons,’ observed Lightwood.
-
-‘I understood it was another name,’ said Mr Boffin, pausing, ‘but you
-know best. Then you and Doctor Scommons, you go to work, and you do the
-thing that’s proper, and you and Doctor S. take steps for finding out
-the poor boy, and at last you do find out the poor boy, and me and Mrs
-Boffin often exchange the observation, “We shall see him again,
-under happy circumstances.” But it was never to be; and the want of
-satisfactoriness is, that after all the money never gets to him.’
-
-‘But it gets,’ remarked Lightwood, with a languid inclination of the
-head, ‘into excellent hands.’
-
-‘It gets into the hands of me and Mrs Boffin only this very day and
-hour, and that’s what I am working round to, having waited for this day
-and hour a’ purpose. Mr Lightwood, here has been a wicked cruel
-murder. By that murder me and Mrs Boffin mysteriously profit. For the
-apprehension and conviction of the murderer, we offer a reward of one
-tithe of the property—a reward of Ten Thousand Pound.’
-
-‘Mr Boffin, it’s too much.’
-
-‘Mr Lightwood, me and Mrs Boffin have fixed the sum together, and we
-stand to it.’
-
-‘But let me represent to you,’ returned Lightwood, ‘speaking now with
-professional profundity, and not with individual imbecility, that the
-offer of such an immense reward is a [[Temptation|temptation]] to forced suspicion,
-forced construction of circumstances, strained accusation, a whole
-tool-box of edged tools.’
-
-‘[[Well]],’ said Mr Boffin, a little staggered, ‘that’s the sum we put o’
-one side for the purpose. Whether it shall be openly declared in the new
-notices that must now be put about in our names—’
-
-‘In your name, Mr Boffin; in your name.’
-
-‘Very [[Well|well]]; in my name, which is the same as Mrs Boffin’s, and means
-both of us, is to be considered in drawing ’em up. But this is the first
-instruction that I, as the owner of the property, give to my lawyer on
-coming into it.’
-
-‘Your lawyer, Mr Boffin,’ returned Lightwood, making a very short
-note of it with a very rusty pen, ‘has the gratification of taking the
-instruction. There is another?’
-
-‘There is just one other, and no more. Make me as compact a little will
-as can be reconciled with tightness, leaving the whole of the property
-to “my beloved wife, Henerietty Boffin, sole executrix”. Make it as
-short as you can, using those words; but make it tight.’
-
-At some loss to fathom Mr Boffin’s notions of a tight will, Lightwood
-felt his way.
-
-‘I beg your pardon, but professional profundity must be exact. When you
-say tight—’
-
-‘I mean tight,’ Mr Boffin explained.
-
-‘Exactly so. And nothing can be more laudable. But is the tightness to
-bind Mrs Boffin to any and what conditions?’
-
-‘Bind Mrs Boffin?’ interposed her husband. ‘No! What are you thinking
-of! What I want is, to make it all hers so tight as that her hold of it
-can’t be loosed.’
-
-‘Hers freely, to do what she likes with? Hers absolutely?’
-
-‘Absolutely?’ repeated Mr Boffin, with a short sturdy laugh. ‘Hah! I
-should think so! It would be handsome in me to begin to bind Mrs Boffin
-at this [[Time|time]] of day!’
-
-So that instruction, too, was taken by Mr Lightwood; and Mr Lightwood,
-having taken it, was in the act of showing Mr Boffin out, when Mr Eugene
-Wrayburn almost jostled him in the door-way. Consequently Mr Lightwood
-said, in his cool manner, ‘Let me make you two known to one another,’
-and further signified that Mr Wrayburn was counsel learned in the
-law, and that, partly in the way of business and partly in the way of
-pleasure, he had imparted to Mr Wrayburn some of the interesting facts
-of Mr Boffin’s [[Biography|biography]].
-
-‘Delighted,’ said Eugene—though he didn’t look so—‘to know Mr Boffin.’
-
-‘Thankee, sir, thankee,’ returned that gentleman. ‘And how do YOU like
-the law?’
-
-‘A—not particularly,’ returned Eugene.
-
-‘Too dry for you, eh? [[Well]], I suppose it wants some years of sticking
-to, before you master it. But there’s nothing like work. Look at the
-[[Bees|bees]].’
-
-‘I beg your pardon,’ returned Eugene, with a reluctant smile, ‘but will
-you excuse my mentioning that I always protest against being referred to
-the [[Bees|bees]]?’
-
-‘Do you!’ said Mr Boffin.
-
-‘I object on principle,’ said Eugene, ‘as a biped—’
-
-‘As a what?’ asked Mr Boffin.
-
-‘As a two-footed creature;—I object on principle, as a two-footed
-creature, to being constantly referred to [[Insects|insects]] and four-footed
-creatures. I object to being required to model my proceedings according
-to the proceedings of the bee, or the dog, or the spider, or the camel.
-I fully admit that the camel, for instance, is an excessively temperate
-person; but he has several stomachs to entertain himself with, and I
-have only one. Besides, I am not fitted up with a convenient cool cellar
-to keep my drink in.’
-
-‘But I said, you know,’ urged Mr Boffin, rather at a loss for an answer,
-‘the bee.’
-
-‘Exactly. And may I represent to you that it’s injudicious to say the
-bee? For the whole case is assumed. Conceding for a moment that there is
-any analogy between a bee, and a man in a shirt and pantaloons (which
-I deny), and that it is settled that the man is to learn from the bee
-(which I also deny), the question still remains, what is he to learn?
-To imitate? Or to avoid? When your friends the [[Bees|bees]] worry themselves to
-that highly fluttered extent about their sovereign, and become perfectly
-distracted touching the slightest monarchical movement, are we men to
-learn the [[Greatness|greatness]] of Tuft-hunting, or the littleness of the
-[[Court]] Circular? I am not clear, Mr Boffin, but that the hive may be
-satirical.’
-
-‘At all events, they work,’ said Mr Boffin.
-
-‘Ye-es,’ returned Eugene, disparagingly, ‘they work; but don’t you think
-they overdo it? They work so much more than they need—they make so much
-more than they can eat—they are so incessantly boring and buzzing at
-their one idea till [[Death]] comes upon them—that don’t you think they
-overdo it? And are human labourers to have no holidays, because of the
-[[Bees|bees]]? And am I never to have change of air, because the [[Bees|bees]] don’t? Mr
-Boffin, I think honey excellent at breakfast; but, regarded in the light
-of my conventional schoolmaster and moralist, I protest against the
-tyrannical humbug of your friend the bee. With the highest respect for
-you.’
-
-‘Thankee,’ said Mr Boffin. ‘Morning, morning!’
-
-But, the worthy Mr Boffin jogged away with a comfortless impression he
-could have dispensed with, that there was a deal of unsatisfactoriness
-in the world, besides what he had recalled as appertaining to the Harmon
-property. And he was still jogging along Fleet Street in this condition
-of mind, when he became aware that he was closely tracked and observed
-by a man of genteel appearance.
-
-‘Now then?’ said Mr Boffin, stopping short, with his meditations brought
-to an abrupt check, ‘what’s the next article?’
-
-‘I beg your pardon, Mr Boffin.’
-
-‘My name too, eh? How did you come by it? I don’t know you.’
-
-‘No, sir, you don’t know me.’
-
-Mr Boffin looked full at the man, and the man looked full at him.
-
-‘No,’ said Mr Boffin, after a glance at the pavement, as if it were made
-of faces and he were trying to match the man’s, ‘I DON’T know you.’
-
-‘I am nobody,’ said the stranger, ‘and not likely to be known; but Mr
-Boffin’s wealth—’
-
-‘Oh! that’s got about already, has it?’ muttered Mr Boffin.
-
-‘—And his romantic manner of acquiring it, make him conspicuous. You
-were pointed out to me the other day.’
-
-‘[[Well]],’ said Mr Boffin, ‘I should say I was a disappintment to you when
-I WAS pinted out, if your politeness would allow you to confess it, for
-I am [[Well|well]] aware I am not much to look at. What might you want with me?
-Not in the law, are you?’
-
-‘No, sir.’
-
-‘No information to give, for a reward?’
-
-‘No, sir.’
-
-There may have been a momentary mantling in the face of the man as he
-made the last answer, but it passed directly.
-
-‘If I don’t mistake, you have followed me from my lawyer’s and tried
-to fix my attention. Say out! Have you? Or haven’t you?’ demanded Mr
-Boffin, rather angry.
-
-‘Yes.’
-
-‘Why have you?’
-
-‘If you will allow me to walk beside you, Mr Boffin, I will tell you.
-Would you object to turn aside into this place—I think it is called
-[[Clifford]]’s Inn—where we can hear one another better than in the roaring
-street?’
-
-(‘Now,’ thought Mr Boffin, ‘if he proposes a game at skittles, or meets
-a country gentleman just come into property, or produces any article
-of jewellery he has found, I’ll knock him down!’ With this discreet
-reflection, and carrying his stick in his arms much as Punch carries
-his, Mr Boffin turned into [[Clifford]]’s Inn aforesaid.)
-
-‘Mr Boffin, I happened to be in Chancery Lane this morning, when I saw
-you going along before me. I took the liberty of following you, trying
-to make up my mind to speak to you, till you went into your lawyer’s.
-Then I waited outside till you came out.’
-
-(‘Don’t quite sound like skittles, nor yet country gentleman, nor yet
-jewellery,’ thought Mr Boffin, ‘but there’s no knowing.’)
-
-‘I am afraid my object is a bold one, I am afraid it has little of the
-usual practical world about it, but I venture it. If you ask me, or if
-you ask yourself—which is more likely—what emboldens me, I answer, I
-have been strongly assured, that you are a man of rectitude and plain
-dealing, with the soundest of sound hearts, and that you are blessed in
-a wife distinguished by the same qualities.’
-
-‘Your information is true of Mrs Boffin, anyhow,’ was Mr Boffin’s
-answer, as he surveyed his new friend again. There was something
-repressed in the strange man’s manner, and he walked with his eyes
-on the ground—though conscious, for all that, of Mr Boffin’s
-observation—and he spoke in a subdued voice. But his words came easily,
-and his voice was agreeable in tone, albeit constrained.
-
-‘When I add, I can discern for myself what the general tongue says of
-you—that you are quite unspoiled by Fortune, and not uplifted—I trust
-you will not, as a man of an open [[Nature|nature]], suspect that I mean to flatter
-you, but will believe that all I mean is to excuse myself, these being
-my only excuses for my present intrusion.’
-
-(‘How much?’ thought Mr Boffin. ‘It must be coming to money. How much?’)
-
-‘You will probably change your manner of living, Mr Boffin, in your
-changed circumstances. You will probably keep a larger [[house]], have many
-matters to arrange, and be beset by numbers of correspondents. If you
-would try me as your Secretary—’
-
-‘As WHAT?’ cried Mr Boffin, with his eyes wide open.
-
-‘Your Secretary.’
-
-‘[[Well]],’ said Mr Boffin, under his breath, ‘that’s a queer thing!’
-
-‘Or,’ pursued the stranger, wondering at Mr Boffin’s [[Wonder|wonder]], ‘if you
-would try me as your man of business under any name, I know you would
-find me faithful and grateful, and I [[Hope|hope]] you would find me useful. You
-may naturally think that my immediate object is money. Not so, for
-I would willingly serve you a year—two years—any term you might
-appoint—before that should begin to be a consideration between us.’
-
-‘Where do you come from?’ asked Mr Boffin.
-
-‘I come,’ returned the other, meeting his eye, ‘from many countries.’
-
-Boffin’s acquaintances with the names and situations of foreign lands
-being limited in extent and somewhat confused in quality, he shaped his
-next question on an elastic model.
-
-‘From—any particular place?’
-
-‘I have been in many places.’
-
-‘What have you been?’ asked Mr Boffin.
-
-Here again he made no great advance, for the reply was, ‘I have been a
-student and a traveller.’
-
-‘But if it ain’t a liberty to plump it out,’ said Mr Boffin, ‘what do
-you do for your living?’
-
-‘I have mentioned,’ returned the other, with another look at him, and
-a smile, ‘what I aspire to do. I have been superseded as to some slight
-intentions I had, and I may say that I have now to begin life.’
-
-Not very [[Well|well]] knowing how to get rid of this applicant, and feeling the
-more embarrassed because his manner and appearance claimed a delicacy
-in which the worthy Mr Boffin feared he himself might be deficient, that
-gentleman glanced into the mouldy little plantation or cat-preserve, of
-[[Clifford]]’s Inn, as it was that day, in search of a suggestion. Sparrows
-were there, cats were there, dry-rot and wet-rot were there, but it was
-not otherwise a suggestive spot.
-
-‘All this [[Time|time]],’ said the stranger, producing a little pocket-book and
-taking out a card, ‘I have not mentioned my name. My name is Rokesmith.
-I lodge at one Mr Wilfer’s, at Holloway.’
-
-Mr Boffin stared again.
-
-‘Father of Miss [[Bella Wilfer]]?’ said he.
-
-‘My landlord has a daughter named Bella. Yes; no [[Doubt|doubt]].’
-
-Now, this name had been more or less in Mr Boffin’s thoughts all the
-morning, and for days before; therefore he said:
-
-‘That’s singular, too!’ unconsciously staring again, past all bounds of
-good manners, with the card in his hand. ‘Though, by-the-bye, I suppose
-it was one of that family that pinted me out?’
-
-‘No. I have never been in the streets with one of them.’
-
-‘Heard me talked of among ’em, though?’
-
-‘No. I occupy my own rooms, and have held scarcely any communication
-with them.’
-
-‘Odder and odder!’ said Mr Boffin. ‘[[Well]], sir, to tell you the [[Truth|truth]], I
-don’t know what to say to you.’
-
-‘Say nothing,’ returned Mr Rokesmith; ‘allow me to call on you in a few
-days. I am not so unconscionable as to think it likely that you would
-accept me on trust at first sight, and take me out of the very street.
-Let me come to you for your further opinion, at your leisure.’
-
-‘That’s fair, and I don’t object,’ said Mr Boffin; ‘but it must be on
-condition that it’s fully understood that I no more know that I shall
-ever be in want of any gentleman as Secretary—it WAS Secretary you
-said; wasn’t it?’
-
-‘Yes.’
-
-Again Mr Boffin’s eyes opened wide, and he stared at the applicant from
-head to foot, repeating ‘Queer!—You’re sure it was Secretary? Are you?’
-
-‘I am sure I said so.’
-
-—‘As Secretary,’ repeated Mr Boffin, meditating upon the word; ‘I no
-more know that I may ever want a Secretary, or what not, than I do that
-I shall ever be in want of the man in the [[Moon|moon]]. Me and Mrs Boffin have
-not even settled that we shall make any change in our way of life. Mrs
-Boffin’s inclinations certainly do tend towards Fashion; but, being
-already set up in a fashionable way at the Bower, she may not make
-further alterations. However, sir, as you don’t press yourself, I wish
-to meet you so far as saying, by all means call at the Bower if you
-like. Call in the course of a week or two. At the same [[Time|time]], I consider
-that I ought to name, in addition to what I have already named, that I
-have in my employment a literary man—WITH a wooden leg—as I have no
-thoughts of parting from.’
-
-‘I regret to hear I am in some sort anticipated,’ Mr Rokesmith answered,
-evidently having heard it with surprise; ‘but perhaps other duties might
-arise?’
-
-‘You see,’ returned Mr Boffin, with a confidential sense of dignity, ‘as
-to my literary man’s duties, they’re clear. Professionally he declines
-and he falls, and as a friend he drops into poetry.’
-
-Without observing that these duties seemed by no means clear to Mr
-Rokesmith’s astonished comprehension, Mr Boffin went on:
-
-‘And now, sir, I’ll wish you good-day. You can call at the Bower any
-[[Time|time]] in a week or two. It’s not above a mile or so from you, and your
-landlord can direct you to it. But as he may not know it by its new
-name of Boffin’s Bower, say, when you inquire of him, it’s Harmon’s;
-will you?’
-
-‘Harmoon’s,’ repeated Mr Rokesmith, seeming to have caught the sound
-imperfectly, ‘Harmarn’s. How do you spell it?’
-
-‘Why, as to the spelling of it,’ returned Mr Boffin, with great presence
-of mind, ‘that’s YOUR look out. Harmon’s is all you’ve got to say to
-HIM. Morning, morning, morning!’ And so departed, without looking back.
+‘Now, I’ll tell you what I want, Noddy,’ said Mrs Boffin, smoothing her
+dress with an air of immense enjoyment, ‘I want Society.’
+
+‘Fashionable Society, my dear?’
+
+‘Yes!’ cried Mrs Boffin, laughing with the glee of a [[Child|child]]. ‘Yes! It’s
+no good my being kept here like Wax-Work; is it now?’
+
+‘People have to pay to see Wax-Work, my dear,’ returned her husband,
+‘whereas (though you’d be cheap at the same money) the neighbours is
+welcome to see YOU for nothing.’
+
+‘But it don’t answer,’ said the cheerful Mrs Boffin. ‘When we worked
+like the neighbours, we suited one another. Now we have left work off;
+we have left off suiting one another.’
+
+‘What, do you think of beginning work again?’ Mr Boffin hinted.
+
+‘Out of the question! We have come into a great fortune, and we must do
+what’s right by our fortune; we must act up to it.’
+
+Mr Boffin, who had a deep respect for his wife’s intuitive wisdom,
+replied, though rather pensively: ‘I suppose we must.’
+
+‘It’s never been acted up to yet, and, consequently, no good has come of
+it,’ said Mrs Boffin.
+
+‘True, to the present [[Time|time]],’ Mr Boffin assented, with his former
+pensiveness, as he took his seat upon his settle. ‘I [[Hope|hope]] good may be
+coming of it in the future [[Time|time]]. Towards which, what’s your views, old
+lady?’
+
+Mrs Boffin, a smiling creature, broad of figure and simple of [[Nature|nature]],
+with her hands folded in her lap, and with buxom creases in her throat,
+proceeded to expound her views.
+
+‘I say, a good [[house]] in a good neighbourhood, good things about us,
+good living, and good society. I say, live like our means, without
+extravagance, and be happy.’
+
+‘Yes. I say be happy, too,’ assented the still pensive Mr Boffin.
+‘Lor-a-mussy!’ exclaimed Mrs Boffin, laughing and clapping her hands,
+and gaily rocking herself to and fro, ‘when I think of me in a light
+yellow chariot and pair, with silver boxes to the wheels—’
+
+‘Oh! you was thinking of that, was you, my dear?’
+
+‘Yes!’ cried the delighted creature. ‘And with a footman up behind, with
+a bar across, to keep his legs from being poled! And with a coachman
+up in front, sinking down into a seat big enough for three of him, all
+covered with upholstery in green and white! And with two bay horses
+tossing their heads and stepping higher than they trot long-ways! And
+with you and me leaning back inside, as grand as ninepence! Oh-h-h-h My!
+Ha ha ha ha ha!’
+
+Mrs Boffin clapped her hands again, rocked herself again, beat her feet
+upon the floor, and wiped the [[Tears|tears]] of laughter from her eyes.
+
+‘And what, my old lady,’ inquired Mr Boffin, when he also had
+sympathetically laughed: ‘what’s your views on the subject of the
+Bower?’
+
+‘Shut it up. Don’t part with it, but put somebody in it, to keep it.’
+
+‘Any other views?’
+
+‘Noddy,’ said Mrs Boffin, coming from her fashionable sofa to his side
+on the plain settle, and hooking her comfortable arm through his,
+‘Next I think—and I really have been thinking early and late—of the
+disappointed girl; her that was so cruelly disappointed, you know, both
+of her husband and his riches. Don’t you think we might do something for
+her? Have her to live with us? Or something of that sort?’
+
+‘Ne-ver once thought of the way of doing it!’ cried Mr Boffin, smiting
+the table in his admiration. ‘What a thinking steam-ingein this old lady
+is. And she don’t know how she does it. Neither does the ingein!’
+
+Mrs Boffin pulled his nearest ear, in acknowledgment of this piece of
+[[philosophy]], and then said, gradually toning down to a motherly strain:
+‘Last, and not least, I have taken a fancy. You remember dear little
+[[John Harmon]], before he went to school? Over yonder across the yard, at
+our [[Fire|fire]]? Now that he is past all benefit of the money, and it’s come to
+us, I should like to find some [[Orphan|orphan]] [[Child|child]], and take the boy and adopt
+him and give him John’s name, and provide for him. Somehow, it would
+make me easier, I fancy. Say it’s only a whim—’
+
+‘But I don’t say so,’ interposed her husband.
+
+‘No, but deary, if you did—’
+
+‘I should be a Beast if I did,’ her husband interposed again.
+
+‘That’s as much as to say you agree? Good and kind of you, and like you,
+deary! And don’t you begin to find it pleasant now,’ said Mrs Boffin,
+once more radiant in her comely way from head to foot, and once more
+smoothing her dress with immense enjoyment, ‘don’t you begin to find
+it pleasant already, to think that a [[Child|child]] will be made brighter, and
+better, and happier, because of that poor sad [[Child|child]] that day? And isn’t
+it pleasant to know that the good will be done with the poor sad [[Child|child]]’s
+own money?’
+
+‘Yes; and it’s pleasant to know that you are Mrs Boffin,’ said her
+husband, ‘and it’s been a pleasant thing to know this many and many a
+year!’ It was ruin to Mrs Boffin’s aspirations, but, having so spoken,
+they sat side by side, a hopelessly Unfashionable pair.
+
+These two ignorant and unpolished people had guided themselves so far on
+in their [[Journey of Life|journey of life]], by a religious sense of duty and [[Desire|desire]] to do
+right. Ten thousand weaknesses and absurdities might have been detected
+in the breasts of both; ten thousand vanities additional, possibly, in
+the breast of the woman. But the hard wrathful and sordid [[Nature|nature]] that
+had wrung as much work out of them as could be got in their best days,
+for as little money as could be paid to hurry on their worst, had never
+been so warped but that it knew their moral straightness and respected
+it. In its own despite, in a constant conflict with itself and them, it
+had done so. And this is the eternal law. For, Evil often stops short at
+itself and dies with the doer of it; but Good, never.
+
+Through his most inveterate purposes, the dead Jailer of Harmony Jail
+had known these two faithful servants to be honest and true. While he
+raged at them and reviled them for opposing him with the speech of the
+honest and true, it had scratched his stony heart, and he had perceived
+the powerlessness of all his wealth to buy them if he had addressed
+himself to the attempt. So, even while he was their griping taskmaster
+and never gave them a good word, he had written their names down in his
+will. So, even while it was his daily declaration that he mistrusted all
+mankind—and sorely indeed he did mistrust all who bore any resemblance
+to himself—he was as certain that these two people, surviving him,
+would be trustworthy in all things from the greatest to the least, as he
+was that he must surely die.
+
+Mr and Mrs Boffin, sitting side by side, with Fashion withdrawn to an
+immeasurable distance, fell to discussing how they could best find their
+[[Orphan|orphan]]. Mrs Boffin suggested advertisement in the newspapers, requesting
+orphans answering annexed description to apply at the Bower on a certain
+day; but Mr Boffin wisely apprehending obstruction of the neighbouring
+thoroughfares by [[Orphan|orphan]] swarms, this course was negatived. Mrs Boffin
+next suggested application to their clergyman for a likely [[Orphan|orphan]]. Mr
+Boffin thinking better of this scheme, they resolved to call upon the
+reverend gentleman at once, and to take the same opportunity of making
+acquaintance with Miss [[Bella Wilfer]]. In order that these visits might be
+visits of state, Mrs Boffin’s equipage was ordered out.
+
+This consisted of a long hammer-headed old [[Horse|horse]], formerly used in the
+business, attached to a four-wheeled chaise of the same period, which
+had long been exclusively used by the Harmony Jail poultry as the
+favourite laying-place of several discreet hens. An unwonted application
+of corn to the [[Horse|horse]], and of paint and varnish to the carriage, when
+both fell in as a part of the Boffin legacy, had made what Mr Boffin
+considered a neat turn-out of the whole; and a driver being added, in
+the person of a long hammer-headed young man who was a very good match
+for the [[Horse|horse]], left nothing to be desired. He, too, had been formerly
+used in the business, but was now entombed by an honest jobbing tailor
+of the district in a perfect Sepulchre of coat and gaiters, sealed with
+ponderous buttons.
+
+Behind this domestic, Mr and Mrs Boffin took their seats in the back
+compartment of the vehicle: which was sufficiently commodious, but had
+an undignified and alarming tendency, in getting over a rough crossing,
+to hiccup itself away from the front compartment. On their being
+descried emerging from the gates of the Bower, the neighbourhood turned
+out at door and [[Window|window]] to salute the Boffins. Among those who were ever
+and again left behind, staring after the equipage, were many youthful
+spirits, who hailed it in stentorian tones with such congratulations as
+‘Nod-dy Bof-fin!’ ‘Bof-fin’s mon-ey!’ ‘Down with the [[Dust|dust]], Bof-fin!’ and
+other similar compliments. These, the hammer-headed young man took in
+such ill part that he often impaired the majesty of the progress by
+pulling up short, and making as though he would alight to exterminate
+the offenders; a purpose from which he only allowed himself to be
+dissuaded after long and lively arguments with his employers.
+
+At length the Bower district was left behind, and the peaceful dwelling
+of the Reverend Frank Milvey was gained. The Reverend Frank Milvey’s
+abode was a very modest abode, because his income was a very modest
+income. He was officially accessible to every blundering old woman who
+had incoherence to bestow upon him, and readily received the Boffins.
+He was quite a young man, expensively educated and wretchedly paid, with
+quite a young wife and half a dozen quite young children. He was under
+the necessity of teaching and translating from the classics, to eke out
+his scanty means, yet was generally expected to have more [[Time|time]] to spare
+than the idlest person in the parish, and more money than the richest.
+He accepted the needless inequalities and inconsistencies of his life,
+with a kind of conventional submission that was almost slavish; and any
+daring layman who would have adjusted such burdens as his, more decently
+and graciously, would have had small help from him.
+
+With a ready patient face and manner, and yet with a latent smile that
+showed a quick enough observation of Mrs Boffin’s dress, Mr Milvey, in
+his little book-room—charged with sounds and cries as though the six
+children above were coming down through the ceiling, and the roasting
+leg of mutton below were coming up through the floor—listened to Mrs
+Boffin’s statement of her want of an [[Orphan|orphan]].
+
+‘I think,’ said Mr Milvey, ‘that you have never had a [[Child|child]] of your own,
+Mr and Mrs Boffin?’
+
+Never.
+
+‘But, like the Kings and Queens in the Fairy Tales, I suppose you have
+wished for one?’
+
+In a general way, yes.
+
+Mr Milvey smiled again, as he remarked to himself ‘Those kings and
+queens were always wishing for children.’ It occurring to him, perhaps,
+that if they had been Curates, their wishes might have tended in the
+opposite direction.
+
+‘I think,’ he pursued, ‘we had better take Mrs Milvey into our Council.
+She is indispensable to me. If you please, I’ll call her.’
+
+So, Mr Milvey called, ‘Margaretta, my dear!’ and Mrs Milvey came down.
+A pretty, bright little woman, something worn by anxiety, who had
+repressed many pretty tastes and bright fancies, and substituted in
+their stead, schools, soup, flannel, coals, and all the week-day cares
+and [[Sunday]] coughs of a large population, young and old. As gallantly had
+Mr Milvey repressed much in himself that naturally belonged to his old
+studies and old fellow-students, and taken up among the poor and their
+children with the hard crumbs of life.
+
+‘Mr and Mrs Boffin, my dear, whose good fortune you have heard of.’
+
+Mrs Milvey, with the most unaffected grace in the world, congratulated
+them, and was glad to see them. Yet her engaging face, being an open as
+[[Well|well]] as a perceptive one, was not without her husband’s latent smile.
+
+‘Mrs Boffin wishes to adopt a little boy, my dear.’
+
+Mrs Milvey, looking rather alarmed, her husband added:
+
+‘An [[Orphan|orphan]], my dear.’
+
+‘Oh!’ said Mrs Milvey, reassured for her own little boys.
+
+‘And I was thinking, Margaretta, that perhaps old Mrs Goody’s grandchild
+might answer the purpose.
+
+‘Oh my DEAR Frank! I DON’T think that would do!’
+
+‘No?’
+
+‘Oh NO!’
+
+The smiling Mrs Boffin, feeling it incumbent on her to take part in the
+conversation, and being charmed with the emphatic little wife and her
+ready interest, here offered her acknowledgments and inquired what there
+was against him?
+
+‘I DON’T think,’ said Mrs Milvey, glancing at the Reverend Frank, ‘—and
+I believe my husband will agree with me when he considers it again—that
+you could possibly keep that [[Orphan|orphan]] clean from snuff. Because his
+grandmother takes so MANY ounces, and drops it over him.’
+
+‘But he would not be living with his grandmother then, Margaretta,’ said
+Mr Milvey.
+
+‘No, Frank, but it would be impossible to keep her from Mrs Boffin’s
+[[house]]; and the MORE there was to eat and drink there, the oftener she
+would go. And she IS an inconvenient woman. I [[Hope|HOPE]] it’s not uncharitable
+to remember that last Christmas Eve she drank eleven cups of tea, and
+grumbled all the [[Time|time]]. And she is NOT a grateful woman, Frank. You
+recollect her addressing a crowd outside this [[house]], about her wrongs,
+when, one [[Night|night]] after we had gone to bed, she brought back the petticoat
+of new flannel that had been given her, because it was too short.’
+
+‘That’s true,’ said Mr Milvey. ‘I don’t think that would do. Would
+little Harrison—’
+
+‘Oh, FRANK!’ remonstrated his emphatic wife.
+
+‘He has no grandmother, my dear.’
+
+‘No, but I DON’T think Mrs Boffin would like an [[Orphan|orphan]] who squints so
+MUCH.’
+
+‘That’s true again,’ said Mr Milvey, becoming haggard with perplexity.
+‘If a little girl would do—’
+
+‘But, my DEAR Frank, Mrs Boffin wants a boy.’
+
+‘That’s true again,’ said Mr Milvey. ‘Tom Bocker is a nice boy’
+(thoughtfully).
+
+‘But I [[Doubt|DOUBT]], Frank,’ Mrs Milvey hinted, after a little hesitation, ‘if
+Mrs Boffin wants an [[Orphan|orphan]] QUITE nineteen, who drives a cart and waters
+the roads.’
+
+Mr Milvey referred the point to Mrs Boffin in a look; on that smiling
+lady’s shaking her black velvet bonnet and bows, he remarked, in lower
+spirits, ‘that’s true again.’
+
+‘I am sure,’ said Mrs Boffin, concerned at giving so much trouble, ‘that
+if I had known you would have taken so much pains, sir—and you too, ma’
+am—I don’t think I would have come.’
+
+‘PRAY don’t say that!’ urged Mrs Milvey.
+
+‘No, don’t say that,’ assented Mr Milvey, ‘because we are so much
+obliged to you for giving us the preference.’ Which Mrs Milvey
+confirmed; and really the kind, conscientious couple spoke, as if they
+kept some profitable [[Orphan|orphan]] warehouse and were personally patronized.
+‘But it is a responsible trust,’ added Mr Milvey, ‘and difficult to
+discharge. At the same [[Time|time]], we are naturally very unwilling to lose the
+chance you so kindly give us, and if you could afford us a day or two
+to look about us,—you know, Margaretta, we might carefully examine the
+workhouse, and the Infant School, and your District.’
+
+‘To be SURE!’ said the emphatic little wife.
+
+‘We have orphans, I know,’ pursued Mr Milvey, quite with the air as if
+he might have added, ‘in stock,’ and quite as anxiously as if there were
+great competition in the business and he were afraid of losing an order,
+‘over at the clay-pits; but they are employed by relations or friends,
+and I am afraid it would come at last to a transaction in the way of
+barter. And even if you exchanged blankets for the [[Child|child]]—or books
+and firing—it would be impossible to prevent their being turned into
+liquor.’
+
+Accordingly, it was resolved that Mr and Mrs Milvey should search for
+an [[Orphan|orphan]] likely to suit, and as free as possible from the foregoing
+objections, and should communicate again with Mrs Boffin. Then, Mr
+Boffin took the liberty of mentioning to Mr Milvey that if Mr Milvey
+would do him the kindness to be perpetually his banker to the extent
+of ‘a twenty-pound note or so,’ to be expended without any reference
+to him, he would be heartily obliged. At this, both Mr Milvey and Mrs
+Milvey were quite as much pleased as if they had no wants of their own,
+but only knew what [[Poverty|poverty]] was, in the persons of other people; and
+so the interview terminated with satisfaction and good opinion on all
+sides.
+
+‘Now, old lady,’ said Mr Boffin, as they resumed their seats behind the
+hammer-headed [[Horse|horse]] and man: ‘having made a very agreeable visit there,
+we’ll try Wilfer’s.’
+
+It appeared, on their drawing up at the family gate, that to try
+Wilfer’s was a thing more easily projected than done, on account of the
+extreme difficulty of getting into that establishment; three pulls
+at the bell producing no external result; though each was attended
+by audible sounds of scampering and rushing within. At the fourth
+tug—vindictively administered by the hammer-headed young man—Miss
+[[Lavinia]] appeared, emerging from the [[house]] in an accidental manner, with
+a bonnet and parasol, as designing to take a contemplative walk. The
+young lady was astonished to find visitors at the gate, and expressed
+her feelings in appropriate action.
+
+‘Here’s Mr and Mrs Boffin!’ growled the hammer-headed young man through
+the bars of the gate, and at the same [[Time|time]] shaking it, as if he were on
+view in a Menagerie; ‘they’ve been here half an hour.’
+
+‘Who did you say?’ asked Miss [[Lavinia]].
+
+‘Mr and Mrs BOFFIN’ returned the young man, rising into a roar.
+
+Miss [[Lavinia]] tripped up the steps to the [[house]]-door, tripped down the
+steps with the key, tripped across the little [[Garden|garden]], and opened the
+gate. ‘Please to walk in,’ said Miss [[Lavinia]], haughtily. ‘Our servant is
+out.’
+
+Mr and Mrs Boffin complying, and pausing in the little hall until Miss
+[[Lavinia]] came up to show them where to go next, perceived three pairs of
+listening legs upon the stairs above. Mrs Wilfer’s legs, Miss Bella’s
+legs, Mr George Sampson’s legs.
+
+‘Mr and Mrs Boffin, I think?’ said [[Lavinia]], in a warning voice. Strained
+attention on the part of Mrs Wilfer’s legs, of Miss Bella’s legs, of Mr
+George Sampson’s legs.
+
+‘Yes, Miss.’
+
+‘If you’ll step this way—down these stairs—I’ll let Ma know.’
+Excited flight of Mrs Wilfer’s legs, of Miss Bella’s legs, of Mr George
+Sampson’s legs.
+
+After waiting some quarter of an hour [[Alone|alone]] in the family sitting-room,
+which presented traces of having been so hastily arranged after a meal,
+that one might have doubted whether it was made tidy for visitors,
+or cleared for blindman’s buff, Mr and Mrs Boffin became aware of the
+entrance of Mrs Wilfer, majestically faint, and with a condescending
+stitch in her side: which was her company manner.
+
+‘Pardon me,’ said Mrs Wilfer, after the first salutations, and as soon
+as she had adjusted the handkerchief under her chin, and waved her
+gloved hands, ‘to what am I indebted for this [[Honour|honour]]?’
+
+‘To make short of it, ma’am,’ returned Mr Boffin, ‘perhaps you may be
+acquainted with the names of me and Mrs Boffin, as having come into a
+certain property.’
+
+‘I have heard, sir,’ returned Mrs Wilfer, with a dignified bend of her
+head, ‘of such being the case.’
+
+‘And I dare say, ma’am,’ pursued Mr Boffin, while Mrs Boffin added
+confirmatory nods and smiles, ‘you are not very much inclined to take
+kindly to us?’
+
+‘Pardon me,’ said Mrs Wilfer. ‘’Twere unjust to visit upon Mr and Mrs
+Boffin, a calamity which was doubtless a dispensation.’ These words
+were rendered the more effective by a serenely heroic expression of
+[[Suffering|suffering]].
+
+‘That’s fairly meant, I am sure,’ remarked the honest Mr Boffin; ‘Mrs
+Boffin and me, ma’am, are plain people, and we don’t want to pretend
+to anything, nor yet to go round and round at anything because there’s
+always a straight way to everything. Consequently, we make this call
+to say, that we shall be glad to have the [[Honour|honour]] and pleasure of your
+daughter’s acquaintance, and that we shall be rejoiced if your daughter
+will come to consider our [[house]] in the light of her [[Home|home]] equally with
+this. In short, we want to cheer your daughter, and to give her
+the opportunity of sharing such pleasures as we are a going to take
+ourselves. We want to brisk her up, and brisk her about, and give her a
+change.’
+
+‘That’s it!’ said the open-hearted Mrs Boffin. ‘Lor! Let’s be
+comfortable.’
+
+Mrs Wilfer bent her head in a distant manner to her lady visitor, and
+with majestic monotony replied to the gentleman:
+
+‘Pardon me. I have several daughters. Which of my daughters am I to
+understand is thus favoured by the kind intentions of Mr Boffin and his
+lady?’
+
+‘Don’t you see?’ the ever-smiling Mrs Boffin put in. ‘Naturally, Miss
+Bella, you know.’
+
+‘Oh-h!’ said Mrs Wilfer, with a severely unconvinced look. ‘My daughter
+Bella is accessible and shall speak for herself.’ Then opening the door
+a little way, simultaneously with a sound of scuttling outside it,
+the good lady made the proclamation, ‘Send Miss Bella to me!’ which
+proclamation, though grandly formal, and one might almost say heraldic,
+to hear, was in fact enunciated with her maternal eyes reproachfully
+glaring on that young lady in the flesh—and in so much of it that she
+was retiring with difficulty into the small closet under the stairs,
+apprehensive of the emergence of Mr and Mrs Boffin.
+
+‘The avocations of R. W., my husband,’ Mrs Wilfer explained, on resuming
+her seat, ‘keep him fully engaged in the [[City]] at this [[Time|time]] of the day,
+or he would have had the [[Honour|honour]] of participating in your reception
+beneath our humble roof.’
+
+‘Very pleasant premises!’ said Mr Boffin, cheerfully.
+
+‘Pardon me, sir,’ returned Mrs Wilfer, correcting him, ‘it is the abode
+of conscious though independent [[Poverty]].’
+
+Finding it rather difficult to pursue the conversation down this [[Road|road]],
+Mr and Mrs Boffin sat staring at mid-air, and Mrs Wilfer sat silently
+giving them to understand that every breath she drew required to be
+drawn with a [[Self|self]]-denial rarely paralleled in [[history]], until Miss Bella
+appeared: whom Mrs Wilfer presented, and to whom she explained the
+purpose of the visitors.
+
+‘I am much obliged to you, I am sure,’ said Miss Bella, coldly shaking
+her curls, ‘but I [[Doubt|doubt]] if I have the inclination to go out at all.’
+
+‘Bella!’ Mrs Wilfer admonished her; ‘Bella, you must conquer this.’
+
+‘Yes, do what your Ma says, and conquer it, my dear,’ urged Mrs Boffin,
+‘because we shall be so glad to have you, and because you are much too
+pretty to keep yourself shut up.’ With that, the pleasant creature gave
+her a kiss, and patted her on her dimpled shoulders; Mrs Wilfer sitting
+stiffly by, like a functionary presiding over an interview previous to
+an execution.
+
+‘We are going to move into a nice [[house]],’ said Mrs Boffin, who was woman
+enough to compromise Mr Boffin on that point, when he couldn’t very [[Well|well]]
+contest it; ‘and we are going to set up a nice carriage, and we’ll go
+everywhere and see everything. And you mustn’t,’ seating Bella beside
+her, and patting her hand, ‘you mustn’t feel a dislike to us to begin
+with, because we couldn’t help it, you know, my dear.’
+
+With the natural tendency of youth to yield to candour and sweet temper,
+Miss Bella was so touched by the simplicity of this address that she
+frankly returned Mrs Boffin’s kiss. Not at all to the satisfaction
+of that good woman of the world, her mother, who sought to hold the
+advantageous ground of obliging the Boffins instead of being obliged.
+
+‘My youngest daughter, [[Lavinia]],’ said Mrs Wilfer, glad to make a
+diversion, as that young lady reappeared. ‘Mr George Sampson, a friend
+of the family.’
+
+The friend of the family was in that stage of tender passion which bound
+him to regard everybody else as the foe of the family. He put the round
+head of his cane in his mouth, like a stopper, when he sat down. As if
+he felt himself full to the throat with affronting sentiments. And he
+eyed the Boffins with implacable eyes.
+
+‘If you like to bring your sister with you when you come to stay with
+us,’ said Mrs Boffin, ‘of course we shall be glad. The better you please
+yourself, Miss Bella, the better you’ll please us.’
+
+‘Oh, my consent is of no consequence at all, I suppose?’ cried Miss
+[[Lavinia]].
+
+‘Lavvy,’ said her sister, in a low voice, ‘have the goodness to be seen
+and not heard.’
+
+‘No, I won’t,’ replied the sharp [[Lavinia]]. ‘I’m not a [[Child|child]], to be taken
+notice of by strangers.’
+
+‘You ARE a [[Child|child]].’
+
+‘I’m not a [[Child|child]], and I won’t be taken notice of. “Bring your sister,”
+ indeed!’
+
+‘[[Lavinia]]!’ said Mrs Wilfer. ‘Hold! I will not allow you to utter in my
+presence the absurd suspicion that any strangers—I care not what their
+names—can patronize my [[Child|child]]. Do you dare to suppose, you ridiculous
+girl, that Mr and Mrs Boffin would enter these doors upon a patronizing
+errand; or, if they did, would remain within them, only for one single
+instant, while your mother had the strength yet remaining in her vital
+frame to request them to depart? You little know your mother if you
+presume to think so.’
+
+‘It’s all very fine,’ [[Lavinia]] began to grumble, when Mrs Wilfer
+repeated:
+
+‘Hold! I will not allow this. Do you not know what is due to guests?
+Do you not comprehend that in presuming to hint that this lady and
+gentleman could have any idea of patronizing any member of your
+family—I care not which—you accuse them of an impertinence little less
+than insane?’
+
+‘Never mind me and Mrs Boffin, ma’am,’ said Mr Boffin, smilingly: ‘we
+don’t care.’
+
+‘Pardon me, but I do,’ returned Mrs Wilfer.
+
+Miss [[Lavinia]] laughed a short laugh as she muttered, ‘Yes, to be sure.’
+
+‘And I require my audacious [[Child|child]],’ proceeded Mrs Wilfer, with a
+withering look at her youngest, on whom it had not the slightest effect,
+‘to please to be just to her sister Bella; to remember that her sister
+Bella is much sought after; and that when her sister Bella accepts an
+attention, she considers herself to be conferring qui-i-ite as much
+[[Honour|honour]],’—this with an indignant shiver,—‘as she receives.’
+
+But, here Miss Bella repudiated, and said quietly, ‘I can speak for
+myself; you know, ma. You needn’t bring ME in, please.’
+
+‘And it’s all very [[Well|well]] aiming at others through convenient me,’ said
+the irrepressible [[Lavinia]], spitefully; ‘but I should like to ask George
+Sampson what he says to it.’
+
+‘Mr Sampson,’ proclaimed Mrs Wilfer, seeing that young gentleman take
+his stopper out, and so darkly fixing him with her eyes as that he put
+it in again: ‘Mr Sampson, as a friend of this family and a frequenter of
+this [[house]], is, I am persuaded, far too [[Well|well]]-bred to interpose on such
+an invitation.’
+
+This exaltation of the young gentleman moved the conscientious Mrs
+Boffin to repentance for having done him an injustice in her mind, and
+consequently to saying that she and Mr Boffin would at any [[Time|time]] be glad
+to see him; an attention which he handsomely acknowledged by replying,
+with his stopper unremoved, ‘Much obliged to you, but I’m always
+engaged, day and [[Night|night]].’
+
+However, Bella compensating for all drawbacks by responding to the
+advances of the Boffins in an engaging way, that easy pair were on the
+whole [[Well|well]] satisfied, and proposed to the said Bella that as soon as
+they should be in a condition to receive her in a manner suitable to
+their desires, Mrs Boffin should return with notice of the fact. This
+arrangement Mrs Wilfer sanctioned with a stately inclination of her
+head and wave of her gloves, as who should say, ‘Your demerits shall be
+overlooked, and you shall be mercifully gratified, poor people.’
+
+‘By-the-bye, ma’am,’ said Mr Boffin, turning back as he was going, ‘you
+have a lodger?’
+
+‘A gentleman,’ Mrs Wilfer answered, qualifying the low expression,
+‘undoubtedly occupies our first floor.’
+
+‘I may call him Our Mutual Friend,’ said Mr Boffin. ‘What sort of a
+fellow IS Our Mutual Friend, now? Do you like him?’
+
+‘Mr Rokesmith is very punctual, very quiet, a very eligible inmate.’
+
+‘Because,’ Mr Boffin explained, ‘you must know that I’m not particularly
+[[Well|well]] acquainted with Our Mutual Friend, for I have only seen him once.
+You give a good account of him. Is he at [[Home|home]]?’
+
+‘Mr Rokesmith is at [[Home|home]],’ said Mrs Wilfer; ‘indeed,’ pointing through
+the [[Window|window]], ‘there he stands at the [[Garden|garden]] gate. Waiting for you,
+perhaps?’
+
+‘Perhaps so,’ replied Mr Boffin. ‘Saw me come in, maybe.’
+
+Bella had closely attended to this short dialogue. Accompanying Mrs
+Boffin to the gate, she as closely watched what followed.
+
+‘How are you, sir, how are you?’ said Mr Boffin. ‘This is Mrs Boffin. Mr
+Rokesmith, that I told you of; my dear.’
+
+She gave him good day, and he bestirred himself and helped her to her
+seat, and the like, with a ready hand.
+
+‘Good-bye for the present, Miss Bella,’ said Mrs Boffin, calling out a
+hearty parting. ‘We shall meet again soon! And then I [[Hope|hope]] I shall have
+my little [[John Harmon]] to show you.’
+
+Mr Rokesmith, who was at the [[Wheel|wheel]] adjusting the skirts of her dress,
+suddenly looked behind him, and around him, and then looked up at her,
+with a face so pale that Mrs Boffin cried:
+
+‘Gracious!’ And after a moment, ‘What’s the matter, sir?’
+
+‘How can you show her the Dead?’ returned Mr Rokesmith.
+
+‘It’s only an adopted [[Child|child]]. One I have told her of. One I’m going to
+give the name to!’
+
+‘You took me by surprise,’ said Mr Rokesmith, ‘and it sounded like an
+omen, that you should speak of showing the Dead to one so young and
+blooming.’
+
+Now, Bella suspected by this [[Time|time]] that Mr Rokesmith admired her. Whether
+the knowledge (for it was rather that than suspicion) caused her to
+incline to him a little more, or a little less, than she had done at
+first; whether it rendered her eager to find out more about him, because
+she sought to establish reason for her distrust, or because she sought
+to free him from it; was as yet dark to her own heart. But at most
+times he occupied a great amount of her attention, and she had set her
+attention closely on this incident.
+
+That he knew it as [[Well|well]] as she, she knew as [[Well|well]] as he, when they were
+left together standing on the path by the [[Garden|garden]] gate.
+
+‘Those are worthy people, Miss Wilfer.’
+
+‘Do you know them [[Well|well]]?’ asked Bella.
+
+He smiled, reproaching her, and she coloured, reproaching herself—both,
+with the knowledge that she had meant to entrap him into an answer not
+true—when he said ‘I know OF them.’
+
+‘Truly, he told us he had seen you but once.’
+
+‘Truly, I supposed he did.’
+
+Bella was nervous now, and would have been glad to recall her question.
+
+‘You thought it strange that, feeling much interested in you, I should
+start at what sounded like a proposal to bring you into contact with the
+murdered man who lies in his [[Grave|grave]]. I might have known—of course in a
+moment should have known—that it could not have that meaning. But my
+interest remains.’
+
+Re-entering the family-room in a meditative state, Miss Bella was
+received by the irrepressible [[Lavinia]] with:
+
+‘There, Bella! At last I [[Hope|hope]] you have got your wishes realized—by your
+Boffins. You’ll be rich enough now—with your Boffins. You can have as
+much flirting as you like—at your Boffins. But you won’t take ME to
+your Boffins, I can tell you—you and your Boffins too!’
+
+‘If,’ quoth Mr George Sampson, moodily pulling his stopper out, ‘Miss
+Bella’s Mr Boffin comes any more of his nonsense to ME, I only wish him
+to understand, as betwixt man and man, that he does it at his per—’ and
+was going to say peril; but Miss [[Lavinia]], having no confidence in his
+mental powers, and feeling his oration to have no definite application
+to any circumstances, jerked his stopper in again, with a sharpness that
+made his eyes [[Water|water]].
+
+And now the worthy Mrs Wilfer, having used her youngest daughter as a
+lay-figure for the edification of these Boffins, became bland to her,
+and proceeded to develop her last instance of force of character,
+which was still in reserve. This was, to illuminate the family with her
+remarkable powers as a physiognomist; powers that terrified R. W. when
+ever let loose, as being always fraught with gloom and evil which no
+inferior prescience was aware of. And this Mrs Wilfer now did, be it
+observed, in [[Jealousy|jealousy]] of these Boffins, in the very same moments when
+she was already reflecting how she would flourish these very same
+Boffins and the state they kept, over the heads of her Boffinless
+friends.
+
+‘Of their manners,’ said Mrs Wilfer, ‘I say nothing. Of their
+appearance, I say nothing. Of the disinterestedness of their intentions
+towards Bella, I say nothing. But the craft, the secrecy, the dark
+deep underhanded plotting, written in Mrs Boffin’s countenance, make me
+shudder.’
+
+As an incontrovertible proof that those baleful attributes were all
+there, Mrs Wilfer shuddered on the spot.

@@ -1,5 +1,5 @@
 ---
-title: "[[aquinas]] — Chapter 8 (part 1)"
+title: "aquinas — Chapter 8 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/aquinas-(chesterton)"
@@ -17,7 +17,6 @@ tags:
 VIII
 
 THE SEQUEL TO ST.  THOMAS
-
 
 It is often said that St. Thomas, unlike St. Francis, did not permit
 in his work the indescribable element of poetry.  As, for instance,

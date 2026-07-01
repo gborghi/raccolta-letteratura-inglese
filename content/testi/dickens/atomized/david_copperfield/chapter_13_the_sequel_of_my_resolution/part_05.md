@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 13: THE SEQUEL OF MY RESOLUTION (part 5)"
+title: "David Copperfield — Chapter 13: THE SEQUEL OF MY RESOLUTION (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,21 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_13_the_sequel_of_my_resolution/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_13_the_sequel_of_my_resolution/part_06">part 06 ›</a></div>
 </nav>
 
+
+My shoes were by this [[Time|time]] in a woeful condition. The soles had shed
+themselves bit by bit, and the upper leathers had broken and burst until
+the very shape and form of shoes had departed from them. My hat (which
+had served me for a [[Night|night]]-cap, too) was so crushed and bent, that no old
+battered handleless saucepan on a dunghill need have been ashamed to vie
+with it. My shirt and trousers, stained with heat, dew, grass, and
+the Kentish soil on which I had slept--and torn besides--might have
+frightened the [[Birds|birds]] from my aunt’s [[Garden|garden]], as I stood at the gate. My
+hair had known no comb or brush since I left [[London]]. My face, neck, and
+hands, from unaccustomed exposure to the air and sun, were burnt to a
+berry-brown. From head to foot I was powdered almost as white with [[chalk]]
+and [[Dust|dust]], as if I had come out of a lime-kiln. In this plight, and with
+a strong consciousness of it, I waited to introduce myself to, and make
+my first impression on, my formidable aunt.
 
 The unbroken stillness of the parlour [[Window|window]] leading me to infer, after
 a while, that she was not there, I lifted up my eyes to the [[Window|window]] above
@@ -112,32 +127,3 @@ away.’ My aunt shook her head firmly, confident in the character and
 behaviour of the girl who never was born.
 
 ‘Oh! you think she wouldn’t have run away?’ said Mr. Dick.
-
-‘Bless and save the man,’ exclaimed my aunt, sharply, ‘how he talks!
-Don’t I know she wouldn’t? She would have lived with her god-mother,
-and we should have been devoted to one another. Where, in the name of
-[[Wonder|wonder]], should his sister, [[Betsey Trotwood]], have run from, or to?’
-
-‘Nowhere,’ said Mr. Dick.
-
-‘[[Well]] then,’ returned my aunt, softened by the reply, ‘how can you
-pretend to be wool-gathering, Dick, when you are as sharp as a surgeon’s
-lancet? Now, here you see young [[David Copperfield]], and the question I
-put to you is, what shall I do with him?’
-
-‘What shall you do with him?’ said Mr. Dick, feebly, scratching his
-head. ‘Oh! do with him?’
-
-‘Yes,’ said my aunt, with a [[Grave|grave]] look, and her forefinger held up.
-‘Come! I want some very sound advice.’
-
-‘Why, if I was you,’ said Mr. Dick, considering, and looking vacantly
-at me, ‘I should--’ The contemplation of me seemed to inspire him with a
-sudden idea, and he added, briskly, ‘I should wash him!’
-
-‘Janet,’ said my aunt, turning round with a quiet triumph, which I did
-not then understand, ‘Mr. Dick sets us all right. Heat the bath!’
-
-Although I was deeply interested in this dialogue, I could not help
-observing my aunt, Mr. Dick, and Janet, while it was in progress, and
-completing a survey I had already been engaged in making of the room.

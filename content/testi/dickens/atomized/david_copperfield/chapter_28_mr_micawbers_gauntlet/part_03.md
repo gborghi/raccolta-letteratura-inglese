@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 28: Mr. MICAWBER’S GAUNTLET (part 3)"
+title: "David Copperfield — Chapter 28: Mr. MICAWBER’S GAUNTLET (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_28_mr_micawbers_gauntlet/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_28_mr_micawbers_gauntlet/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘I beg your pardon, sir?’
+
+‘Is Mr. Steerforth coming from [[Oxford]]?’
 
 ‘I should imagine that he might be here tomorrow, sir. I rather thought
 he might have been here today, sir. The mistake is mine, no [[Doubt|doubt]], sir.’

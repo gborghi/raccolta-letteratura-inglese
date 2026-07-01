@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 35 (part 1)"
+title: "Jane Eyre — Chapter 35 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -137,10 +137,3 @@ tenacious surface another and far deeper impression: I had burnt it in.
 
 “Now you will indeed hate me,” I said. “It is useless to attempt to
 conciliate you: I see I have made an eternal enemy of you.”
-
-A fresh wrong did these words inflict: the worse, because they touched
-on the [[Truth|truth]]. That bloodless lip quivered to a temporary spasm. I knew
-the steely ire I had whetted. I was heart-wrung.
-
-“You utterly misinterpret my words,” I said, at once seizing his hand:
-“I have no intention to grieve or [[Pain|pain]] you—indeed, I have not.”

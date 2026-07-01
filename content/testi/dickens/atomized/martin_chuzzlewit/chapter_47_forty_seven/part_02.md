@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 47: FORTY SEVEN (part 2)"
+title: "Martin Chuzzlewit — Chapter 47: FORTY SEVEN (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_47_forty_seven/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_47_forty_seven/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘What are you staring at?’ said Jonas.
+
+‘Not at a handsome man,’ returned the guard. ‘If you want your fortune
+told, I’ll tell you a bit of it. You won’t be drowned. That’s a
+consolation for you.’
+
+Before he could retort or turn away, the coachman put an end to the
+dialogue by giving him a cut with his whip, and bidding him get out for a
+surly dog. The guard jumped up to his seat at the same moment, and they
+drove off, laughing; leaving him to stand in the [[Road|road]] and shake his fist
+at them. He was not displeased though, on second thoughts, to have
+been taken for an ill-conditioned common country fellow; but rather
+congratulated himself upon it as a proof that he was [[Well|well]] disguised.
 
 Wandering into a copse by the [[Road|road]]-side--but not in that place; two or
 three miles off--he tore out from a fence a thick, hard, knotted stake;
@@ -112,22 +126,3 @@ denoted where he went; then, he was seen or heard no more.
 Never more beheld by mortal eye or heard by mortal ear; one man
 excepted. That man, parting the [[Leaves|leaves]] and branches on the other side,
 near where the path emerged again, came leaping out soon afterwards.
-
-What had he left within the wood, that he sprang out of it as if it were
-a hell!
-
-The [[Body|body]] of a murdered man. In one thick solitary spot, it lay among
-the last year’s [[Leaves|leaves]] of oak and beech, just as it had fallen headlong
-down. Sopping and soaking in among the [[Leaves|leaves]] that formed its pillow;
-oozing down into the boggy ground, as if to cover itself from human
-sight; forcing its way between and through the curling [[Leaves|leaves]], as if
-those senseless things rejected and forswore it and were coiled up in
-abhorrence; went a dark, dark stain that dyed the whole [[Summer|summer]] [[Night|night]]
-from earth to heaven.
-
-The doer of this deed came leaping from the wood so fiercely, that he
-cast into the air a shower of fragments of young boughs, torn away
-in his passage, and fell with violence upon the grass. But he quickly
-gained his feet again, and keeping underneath a hedge with his [[Body|body]]
-bent, went running on towards the [[Road|road]]. The [[Road|road]] once reached, he fell
-into a rapid walk, and set on toward [[London]].

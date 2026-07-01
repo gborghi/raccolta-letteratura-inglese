@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 19: I LOOK ABOUT ME, AND MAKE A DISCOVERY (part 3)"
+title: "David Copperfield — Chapter 19: I LOOK ABOUT ME, AND MAKE A DISCOVERY (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,21 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_19_i_look_about_me_and_make_a_dis/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_19_i_look_about_me_and_make_a_dis/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘And to take care,’ said Mr. Wickfield, ‘that you’re not imposed on, eh?
+As you certainly would be, in any contract you should make for yourself.
+[[Well]]! I am ready. There are worse tasks than that, in my calling.’
+
+‘I shall have nothing to think of then,’ said the Doctor, with a smile,
+‘but my Dictionary; and this other contract-bargain--Annie.’
+
+As Mr. Wickfield glanced towards her, sitting at the tea table by Agnes,
+she seemed to me to avoid his look with such unwonted hesitation and
+timidity, that his attention became fixed upon her, as if something were
+suggested to his thoughts.
+
+‘There is a post come in from India, I observe,’ he said, after a short
+[[Silence|silence]].
 
 ‘By the by! and letters from Mr. Jack Maldon!’ said the Doctor.
 

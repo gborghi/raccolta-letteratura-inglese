@@ -1,5 +1,5 @@
 ---
-title: "[[longbow2]] — Chapter 7 (part 5)"
+title: "longbow2 — Chapter 7 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -14,10 +14,23 @@ tags:
 </nav>
 
 
+Then followed a passage of somewhat less solid political value,
+in which the acute reader might trace the influence of the poetical
+Mr. Pierce rather than the scientific Mr. Blair.  It began "They
+Have Stolen the Earth; We Will Divide the Sky."  But the writer
+followed this with a somewhat unconvincing claim to have trained rooks
+and swallows to hover in rows in the air to represent the hedges
+of "the blue meadows of the new realm," and he was so obliging
+as to accompany the explanation with diagrams of space showing
+the exact ornithological boundaries in dotted lines.  There were other
+equally scientific documents dealing with the treatment of clouds,
+the driving of [[Birds|birds]] to graze on [[Insects|insects]], and so on.  The whole
+of this section concluded with the great social and economic slogan: 
+"Three Acres and a Crow."
+
 But when Lord Eden read on, his attention appeared graver than this
 particular sort of social reconstruction would seem to warrant. 
 The writer of the pamphlet resumed:
-
 
 "Do not be surprised if there seems to be something topsy-turvy
 in the above programme.  That topsy-turvydom marks the whole of
@@ -54,12 +67,10 @@ and keeping the [[house]] as [[Well|well]], is concealed from the public;
 along with the equally interesting fact that he is allowed to do
 these things chiefly because he lends money to the Prime Minister."
 
-
 The Prime Minister smiled still more grimly and glanced in a light
 yet lingering fashion at some of the accompanying leaflets. 
 They seemed to be in the form of electioneering leaflets, though not
 apparently connected with any particular election.
-
 
 "Vote for Crane.  He Said He would Heat His Hat and Did It. 
 Lord Normantowers said he would explain how people came to [[Swallow|swallow]]
@@ -71,7 +82,6 @@ and they didn't. It was your money he made to fly.
 
 "Vote for the League of the Long Bow.  They Are The Only Men Who
 Don't Tell Lies."
-
 
 The Prime Minister stood gazing after the vanishing cloud-[[Castle|castle]],
 as it faded into the clouds, with a curious expression in his eyes. 
@@ -87,7 +97,7 @@ So is the thunderbolt.'"
 "Thunderbolts!" said Normantowers contemptuously.  "What can
 these fools do but go about flinging fireworks?"
 
-"Quite so," replied Eden; "but I'm afraid by this [[Time|time]] they are
+"Quite so," replied Eden; "but I'm afraid by this time they are
 flinging fireworks into a powder-magazine."
 
 He continued to gaze into the sky with screwed-up eyes,
@@ -97,42 +107,31 @@ If his eye could really have followed the thing after which he gazed,
 he would have been surprised; if his unfathomable scepticism was
 still capable of surprise.  It passed over woods and meadows like
 a sunset cloud towards the sunset, or a little to the north-west
-of it, like the fairy [[Castle|castle]] that was west of the [[Moon|moon]].  It left
+of it, like the fairy castle that was west of the moon.  It left
 behind the green orchards and the red towers of Hereford and passed
 into bare places whose towers are mightier than any made by man,
 where they buttress the mighty wall of Wales.  Far away in this
 wilderness of columned cliffs and clefts it found a cleft or hollow,
 along the floor of which ran a dark line that might have been
-a black [[River|river]] running through a rocky valley.  But it was in fact
-a crack opening below into another abyss.  The strange flying-[[Ship|ship]]
+a black river running through a rocky valley.  But it was in fact
+a crack opening below into another abyss.  The strange flying-ship
 followed the course of the winding fissure till it came to a place
 where the crack opened into a chasm, round like a cauldron and
 accidental as the knot in some colossal tree-trunk; through which
 it sank, entering the twilight of the tremendous cavern beneath. 
 The abyss below was lit here and there with artificial lights,
-like fallen [[Stars|stars]] of the underworld, and bridged with wooden
+like fallen stars of the underworld, and bridged with wooden
 platforms and galleries, on which were wooden huts and huge
 packing-cases and many things somewhat suggestive of a munition dump. 
 On the rocky walls were spread out various balloon coverings,
-some of them even more [[Grotesque|grotesque]] in outline than the [[Castle|castle]]. 
-Some were in the shapes of [[Animals|animals]]; and on that primeval background
+some of them even more grotesque in outline than the castle. 
+Some were in the shapes of animals; and on that primeval background
 looked like the last fossils, or possibly the first outlines of vast
 prehistoric creatures.  Perhaps there was something suggestive
 in the fancy that in that underworld a new world was being created. 
-The man who alighted from the flying [[Castle|castle]] recognized, almost as
+The man who alighted from the flying castle recognized, almost as
 one recognizes a domestic pet, the outline of a highly primitive
 pig stretching like a large archaic drawing across the wall. 
 For the young man was called Hilary Pierce, and had had previous
 dealings with the flying pig, though for that day he had been put in
-charge of the flying [[Castle|castle]].
-
-On the platform on which he alighted stood a table covered
-with papers, with almost more papers than Lord Eden's table. 
-But these papers were covered almost entirely with figures and numbers
-and mathematical symbols.  Two men were bending over the table,
-discussing and occasionally disputing.  In the taller of the two
-the scientific world might have recognized Professor Green,
-whom it was seeking everywhere like the Missing Link, to incarcerate
-him in the interests of science.  In the shorter and sturdier
-figure a very few people might have recognized Bellew Blair,
-the organizing brain of the English Revolution.
+charge of the flying castle.

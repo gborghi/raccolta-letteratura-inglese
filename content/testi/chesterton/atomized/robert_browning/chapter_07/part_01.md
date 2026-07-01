@@ -18,7 +18,6 @@ CHAPTER VII
 
 _THE RING AND THE BOOK_
 
-
 When we have once realised the great conception of the plan of _The
 Ring and the Book_, the studying of a single matter from nine
 different stand-points, it becomes exceedingly interesting to notice

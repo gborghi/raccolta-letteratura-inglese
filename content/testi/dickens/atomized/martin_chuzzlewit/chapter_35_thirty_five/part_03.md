@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 35: THIRTY FIVE (part 3)"
+title: "Martin Chuzzlewit — Chapter 35: THIRTY FIVE (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_35_thirty_five/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_36_thirty_six/part_01">part 01 ›</a></div>
 </nav>
 
+
+And now the stone was lowered down into its place, amidst the shouting
+of the concourse. When it was firmly fixed, the member for the
+Gentlemanly Interest struck upon it thrice with the handle of the
+trowel, as if inquiring, with a touch of [[Humour|humour]], whether anybody was at
+[[Home|home]]. Mr Pecksniff then unrolled his Plans (prodigious plans they were),
+and people gathered round to look at and admire them.
 
 Martin, who had been fretting himself--quite unnecessarily, as Mark
 thought--during the whole of these proceedings, could no longer restrain

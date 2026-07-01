@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 20 (part 2)"
+title: "The Tenant of Wildfell Hall — Chapter 20 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -12,6 +12,14 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/the-tenant-of-wildfell-hall-(bronte)">The Tenant of Wildfell Hall</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_20/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_20/part_03">part 03 ›</a></div>
 </nav>
+
+
+his proposals, and she beckoned me into another room, where she once
+
+more commenced a solemn remonstrance, which, however, entirely failed
+
+to convince me that her view of the case was preferable to my own.
+
 
 
 “You judge him uncharitably, aunt, I know,” said I. “His very friends
@@ -221,17 +229,3 @@ danger of the belief, I would not publish it abroad if I thought any
 poor wretch would be likely to presume upon it to his own destruction,
 
 but it is a glorious thought to cherish in one’s own heart, and I would
-
-not part with it for all the world can give!”
-
-
-
-Here our conference ended, for it was now high [[Time|time]] to prepare for
-
-church. Every one attended the morning service, except my uncle, who
-
-hardly ever goes, and Mr. Wilmot, who stayed at [[Home|home]] with him to enjoy
-
-a quiet game of cribbage. In the afternoon Miss Wilmot and Lord
-
-Lowborough likewise excused themselves from attending; but Mr.

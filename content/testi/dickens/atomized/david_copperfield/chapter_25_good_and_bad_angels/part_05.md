@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 25: GOOD AND BAD ANGELS (part 5)"
+title: "David Copperfield — Chapter 25: GOOD AND BAD ANGELS (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,30 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_25_good_and_bad_angels/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_25_good_and_bad_angels/part_06">part 06 ›</a></div>
 </nav>
 
+
+Mr. Waterbrook was only too happy, as it appeared to me, to have such
+interests, and such names, even hinted at, across his table. He assumed
+an expression of gloomy intelligence (though I am persuaded he knew
+no more about the discussion than I did), and highly approved of the
+discretion that had been observed. Mr. Spiker, after the receipt of such
+a confidence, naturally desired to favour his friend with a confidence
+of his own; therefore the foregoing dialogue was succeeded by another,
+in which it was Mr. Gulpidge’s turn to be surprised, and that by another
+in which the surprise came round to Mr. Spiker’s turn again, and so on,
+turn and turn about. All this [[Time|time]] we, the outsiders, remained oppressed
+by the tremendous interests involved in the conversation; and our
+host regarded us with [[Pride|pride]], as the victims of a salutary awe and
+astonishment. I was very glad indeed to get upstairs to Agnes, and to
+talk with her in a corner, and to introduce Traddles to her, who was
+shy, but agreeable, and the same good-natured creature still. As he
+was obliged to leave early, on account of going away next morning for
+a month, I had not nearly so much conversation with him as I could have
+wished; but we exchanged addresses, and promised ourselves the pleasure
+of another meeting when he should come back to town. He was greatly
+interested to hear that I knew Steerforth, and spoke of him with such
+warmth that I made him tell Agnes what he thought of him. But Agnes only
+looked at me the while, and very slightly shook her head when only I
+observed her.
 
 As she was not among people with whom I believed she could be very much
 at [[Home|home]], I was almost glad to hear that she was going away within a few
@@ -98,40 +122,3 @@ Copperfield!’
 I could have thrown my bootjack at him (it lay ready on the rug), for
 having entrapped me into the disclosure of anything concerning Agnes,
 however immaterial. But I only drank my coffee.
-
-‘What a [[Prophet|prophet]] you have shown yourself, Mister Copperfield!’ pursued
-Uriah. ‘Dear me, what a [[Prophet|prophet]] you have proved yourself to be! Don’t
-you remember saying to me once, that perhaps I should be a partner in
-Mr. Wickfield’s business, and perhaps it might be Wickfield and
-Heep? You may not recollect it; but when a person is umble, Master
-Copperfield, a person treasures such things up!’
-
-‘I recollect talking about it,’ said I, ‘though I certainly did not
-think it very likely then.’ ‘Oh! who would have thought it likely,
-Mister Copperfield!’ returned Uriah, enthusiastically. ‘I am sure I
-didn’t myself. I recollect saying with my own lips that I was much too
-umble. So I considered myself really and truly.’
-
-He sat, with that carved grin on his face, looking at the [[Fire|fire]], as I
-looked at him.
-
-‘But the umblest persons, Master Copperfield,’ he presently resumed,
-‘may be the instruments of good. I am glad to think I have been the
-instrument of good to Mr. Wickfield, and that I may be more so. Oh what
-a worthy man he is, Mister Copperfield, but how imprudent he has been!’
-
-‘I am sorry to hear it,’ said I. I could not help adding, rather
-pointedly, ‘on all accounts.’
-
-‘Decidedly so, Mister Copperfield,’ replied Uriah. ‘On all accounts.
-Miss Agnes’s above all! You don’t remember your own eloquent
-expressions, Master Copperfield; but I remember how you said one day
-that everybody must admire her, and how I thanked you for it! You have
-forgot that, I have no [[Doubt|doubt]], Master Copperfield?’
-
-‘No,’ said I, drily.
-
-‘Oh how glad I am you have not!’ exclaimed Uriah. ‘To think that you
-should be the first to kindle the sparks of [[Ambition|ambition]] in my umble breast,
-and that you’ve not forgot it! Oh!--Would you excuse me asking for a cup
-more coffee?’

@@ -14,6 +14,58 @@ tags:
 </nav>
 
 
+Of some of Mr. Godard's arguments I will not speak at length,
+for we think he must have employed them in some haste.
+We cannot see the philosophical bearing of such a remark as that
+"patriotism fights against the best interests of the patria."
+It seems to us like saying that we dislike total abstainers
+because we find they all drink.  In that case it would
+not be total abstinence that we disliked, but drinking.
+If certain so-called "patriots" work against the patria the case
+against them does not lie in the charge that they are patriotic,
+but in the charge that they are not.
+
+The fact is that Mr. Godard has erred by confusing two things.
+[[Christianity]] is a symbol, the dim and shifting symbol,
+of a certain [[Love|love]] of all things, a certain loyalty to
+the universe to which we all rise in our higher moments.
+It is not the [[Love|love]] of humanity, it goes out to cats and tadpoles.
+It is an inspiration far too mysterious to be bridled or counted upon;
+far too certain to be demonstrated; far too perfect to be praised.
+It has nothing to do with practical politics or material privileges;
+it extends itself with a calm [[Conscience|conscience]] to the creatures we burden
+for transport and slay for food.  It is a moment in which we
+realize our kinship with the [[Stars|stars]] and the stones in the [[Road|road]];
+in which our sensitiveness runs like a maze of nerves over the whole
+Cosmos until a falling star or a stricken tree is like a wound
+upon our bodies.  But this gigantic [[Self|self]] is a thing that even
+the greatest and purest only realize at certain [[Seasons|seasons]].
+It does not and cannot have anything to do with those working loyalties
+which we have to preserve in order to preserve our mode of life.
+That terrible truce in which the [[Lion|lion]] lies down with the [[Lamb|lamb]] is
+a vision, not a daily rule.  For natural purposes, we assert our
+family against our fellow-countrymen, our country against humanity,
+humanity against [[Nature|nature]].
+
+Mr. Godard never seems to realize that he does belong to a country.
+Great Britain is no more a geographical area than the Order of the
+Jesuits or the Cocoa Tree Club.  Like them, it is a centre of power,
+numbering certain persons within its rules and responsibilities.
+It is not humanity which prevents Mr. Godard from being knocked
+down with a bludgeon; it is his country and his country [[Alone|alone]].
+It is not humanity that makes Mr. Godard pay for a dog-license,
+it is his country and his country [[Alone|alone]].  The only real error
+of Mr. Godard is that he calls upon a mere abstract sentiment,
+however natural and beautiful, to take the place of what is a necessary
+working sentiment designed for certain definite relations of life.  It is
+like saying, "Let a soldier's obedience to his officers be removed from
+the pinnacle of a virtue and replaced by a [[Love|love]] of all living things."
+Patriotism is obviously a virtue so long as there is a patria.
+Mr. Godard seems to think that a nation will remain strong and
+independent automatically, without any assistance from patriotism.
+I should be inclined to ask what is keeping the Boer nation in existence
+at this moment.
+
 The bill which Mr. Godard counts up against modern Jingoism
 is long and heavy.  But of all the crimes it has committed,
 none is so black and ruinous as this; that it has made good
@@ -38,7 +90,6 @@ in the wrath of God.
 G. K. C
 
 * "Patriotism and Ethics," By John Godard.  [[London]]:  Grant Richards.  5s.
-
 
 Mr. William Watson's [[Poems]]
 
@@ -79,53 +130,3 @@ but they made them openly of earth and sand.  He works more
 quietly than they, yet he is the most arrogant of all of them,
 for his material is a lump of that marble which was the mother
 of all the gods.
-
-A certain amount of the literary importance of Mr. Watson can no
-[[Doubt|doubt]] be traced to the bewildering eccentricity of everybody else.
-It is possible for originality to be so popular that it becomes vulgar.
-It is possible that the whole ground of obvious invention may be
-rapidly covered; that every kind of new thing should be brought sharply
-to the attention of everybody.  The last man of science has declared not
-only that the [[Moon|moon]] is made of green [[cheese]], but that he has eaten it.
-The last poet has declared, on the authority of a vision,
-that devils have halos and angels horns.  It seems that there is
-nothing further that anyone can say that will make anyone else jump.
-The extravagance of what has gone before has made all extravagance tame.
-People are not merely at ease in Zion; they are at ease in limbo.
-[[Blood]] and thunder is so victorious that it cannot succeed;
-men are too blinded with [[Blood|blood]] to see [[Blood|blood]].  Men are too deafened
-with thunder to hear the thunder.  It seems as if the universe
-had shown to men its most startling, and they are not startled.
-It seems that nothing will startle them.
-
-But there is something which will startle them.
-[[Sanity]] will startle them, quietness will startle them,
-classical moderation will startle them.  Any man walking easily
-and coolly in the conventional paths will touch with an explosion
-the deep conventions of the unconventional.  Any contented man
-will seem to these discontented ones a sort of Anarchist.
-And this is one of the fundamental fascinations of the position
-of Mr. William Watson, both as a poet and as a philosopher.
-In a [[Time|time]] when everyone was original, the only truly
-original thing left to do was not to be original at all.
-The still small voice of [[Sanity|sanity]] came with a sort of hissing
-stab to remind us that the Lord was not in the thunder.
-The world caught its breath for a moment at the one genuine
-novelty of a man who did not try to be new.
-
-This element in Mr. Watson, of what may be called the arrestingly
-ordinary, owes much of its impressiveness, of course, to his own
-perfectly placid [[Courage|courage]] and consistency in maintaining the attitude.
-He meets the disdain of the decadents with a disdain equal
-to their own; he is fully as proud of being conventional
-as they can be of being unconventional.  Some of his finest
-work has been written in defence of himself and his method,
-and under the impulse of this passionate and pugnacious decency.
-Nothing in recent rhetoric has been finer than the whole of the poem
-called "Apologia," and especially the passage in which in the middle
-of a [[Grave|grave]] and formal defence of classicism he turns dramatically
-upon the decadents:
-
-"For though of faulty and of erring walk, I have not suffered aught
-of frail in me To stain my [[Song|song]]; I have not paid the world The evil
-and the insolent courtesy Of offering it my baseness as a gift."

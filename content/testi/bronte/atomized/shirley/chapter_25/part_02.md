@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 25 (part 2)"
+title: "Shirley — Chapter 25 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_25/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_25/part_03">part 03 ›</a></div>
 </nav>
 
+
+Now, too, she was not always petitioning to drink. The words, "I am _so_
+
+thirsty," ceased to be her plaint. Sometimes, when she had swallowed a
+
+morsel, she would say it had revived her. All descriptions of food were
+
+no longer equally distasteful; she could be induced, sometimes, to
 
 indicate a preference. With what trembling pleasure and anxious care did
 
@@ -211,23 +219,3 @@ your black silk every afternoon. In that you look nice; it suits you.
 And you shall have a black satin dress for Sundays--a real satin, not a
 
 satinet or any of the shams. And, mamma, when you get the new one, mind
-
-you must wear it."
-
-
-
-"My dear, I thought of the black silk serving me as a best dress for
-
-many years yet, and I wished to buy you several things."
-
-
-
-"Nonsense, mamma. My uncle gives me cash to get what I want. You know he
-
-is generous enough; and I have set my heart on seeing you in a black
-
-satin. Get it soon, and let it be made by a dressmaker of my
-
-recommending. Let me choose the pattern. You always want to disguise
-
-yourself like a grandmother. You would persuade one that you are old and

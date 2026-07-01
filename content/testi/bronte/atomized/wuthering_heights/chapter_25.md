@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 25"
+title: "Wuthering Heights — Chapter 25"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/wuthering-heights-(bronte)"
@@ -80,7 +80,7 @@ counsellor to the last. Miss Catherine is a good girl: I don’t [[Fear|fear]]
 that she will go wilfully wrong; and people who do their duty are
 always finally rewarded.”
 
-[[spring|Spring]] advanced; yet my master gathered no real strength, though he
+[[Spring]] advanced; yet my master gathered no real strength, though he
 resumed his walks in the grounds with his daughter. To her
 inexperienced notions, this itself was a sign of convalescence; and
 then his cheek was often flushed, and his eyes were bright; she felt

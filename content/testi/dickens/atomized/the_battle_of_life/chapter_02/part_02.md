@@ -14,6 +14,13 @@ tags:
 </nav>
 
 
+‘In no part of the United Kingdom of Great Britain and Ireland,’ replied
+Mr. Snitchey.
+
+‘A mere prodigal son with no father to go back to, no swine to keep, and
+no husks to share with them?  Eh?’ pursued the client, rocking one leg
+over the other, and searching the ground with his eyes.
+
 Mr. Snitchey coughed, as if to deprecate the being supposed to
 participate in any figurative illustration of a legal position.  Mr.
 Craggs, as if to express that it was a partnership view of the subject,
@@ -149,12 +156,3 @@ it, Mr. [[Michael Warden]] means, if he can, to marry Marion, the Doctor’s
 lovely daughter, and to carry her away with him.’
 
 ‘Really, Mr. Craggs,’ Snitchey began.
-
-‘Really, Mr. Snitchey, and Mr. Craggs, partners both,’ said the client,
-interrupting him; ‘you know your duty to your clients, and you know [[Well|well]]
-enough, I am sure, that it is no part of it to interfere in a mere [[Love|love]]
-affair, which I am obliged to confide to you.  I am not going to carry
-the young lady off, without her own consent.  There’s nothing illegal in
-it.  I never was Mr. Heathfield’s bosom friend.  I violate no confidence
-of his.  I [[Love|love]] where he loves, and I mean to win where he would win, if
-I can.’

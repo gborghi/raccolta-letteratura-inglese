@@ -1,5 +1,5 @@
 ---
-title: "[[The Thousand-And-Second Tale of Scheherazade]] (part 6)"
+title: "The Thousand-And-Second Tale of Scheherazade (part 6)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-thousand-and-second-tale-of-scheherazade-(poe)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_thousand_and_second_tale_of_scheherazade/part/part_05">‹ part 05</a><span></span></div>
 </nav>
 
+
+      “Ridiculous!” said the [[King|king]].
+
+      “‘Among this nation of necromancers there was also one who had in
+      his veins the [[Blood|blood]] of the salamanders; for he made no scruple of
+      sitting down to smoke his chibouc in a red-hot oven until his
+      dinner was thoroughly roasted upon its floor. (*24) Another had
+      the faculty of converting the common metals into gold, without
+      even looking at them during the process. (*25) Another had such a
+      delicacy of touch that he made a wire so fine as to be invisible.
+      (*26) Another had such quickness of perception that he counted
+      all the separate motions of an elastic [[Body|body]], while it was
+      springing backward and forward at the rate of nine hundred
+      millions of times in a second.’” (*27)
 
       “Absurd!” said the [[King|king]].
 

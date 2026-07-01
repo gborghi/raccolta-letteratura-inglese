@@ -1,5 +1,5 @@
 ---
-title: "The [[Tragedy]] of [[King Lear]] (Folio Text) — Act IV, Scene 5 — exchange ([[Cordelia|CORDELIA]]) [8]"
+title: "The Tragedy of King Lear (Folio Text) — Act IV, Scene 5 — exchange (CORDELIA) [8]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-tragedy-of-king-lear---the-folio-text-(shakespeare)"

@@ -1,5 +1,5 @@
 ---
-title: "Robert Louis Stevenson — Chapter 2 (part 2)"
+title: "Robert Louis Stevenson — Chapter 1 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/robert-louis-stevenson-(chesterton)"
@@ -14,106 +14,126 @@ tags:
 </nav>
 
 
-This is but a rough experimental method; but it will be found useful
-to make the experiment, of calling up all the Stevensonian scenes
-that recur most readily to the [[Memory|memory]]; and noting this bright hard
-quality in shape and hue.  It will make it seem all the stranger
-that any ornithologist could have confused [[The Raven|the raven]] of Poe with
-the parrot of Long John Silver.  The parrot was scarce more reputable;
-but he was a bird from the lands of bright plumage and blue skies,
-where the other bird was a mere [[Shadow|shadow]] making darkness more dark.
-It is even worth noting that when the more modern pirates of _The Wrecker_
-carried away with them a caged bird, it had to be a canary.
-It is specially observed when Stevenson is dealing with things which many
-of his contemporaries made merely shadowy or unfathomably mysterious;
-such as the Highland hills and all the lost kingdoms of the Gael.
-His Highland tales have everything Scotch except Scotch mist.
-At that [[Time|time]], and even before, writers of the school of Fiona Macleod
-were already treating such peoples entirely as the Children of the Mist.
-But there is very little mist on the [[Mountains|mountains]] of Stevenson.
-There is no Celtic twilight about his Celts.  Alan Breck Stewart had
-no yearning for any delicate vapour to veil his bright silver buttons
-or his bright blue French coat.  There was hardly a cloud in the sky
-upon that day of doom, when Glenure dropped dead in the sunshine;
-and he did not have red hair for nothing.  Stevenson is even moved
-to mention that the servant behind him was laden with lemons;
-because lemons are bright yellow.  This sort of making of a picture
-may not be conscious, but it is none the less characteristic.
-Of course I do not mean literally that all the scenes in any [[Novel|novel]] could
-have the same scheme of colour, or occur at the same [[Time|time]] of day.
-There are exceptions to the rule; but even these will generally
-be found to be exceptions that prove the rule.  A [[Time|time]] of _A Lodging
-for the Night_ is not unnaturally at [[Night|night]]; but even in that [[nightmare]]
-of [[Winter|winter]] in mediaeval [[Paris]] the mind's eye is really filled
-rather with the whiteness of [[Snow|snow]] than the blackness of darkness.
-It is against the [[Snow|snow]] that we see the flaming mediaeval figures;
-and especially that memorable figure who (like Campbell
-of Glenure) had no right to have red hair when he was dead.
-The hair is like a scarlet splash of [[Blood|blood]] crying for vengeance;
-but I [[Doubt|doubt]] whether the doomed gentleman in Poe's poetry would
-have been allowed to have red hair even when he was alive.
-In the same way, it would be easy to answer in detail, by finding
-some description of [[Night|night]] in the works of Stevenson; but it would
-never be the [[Night|night]] that broods eternally on the works of Poe.
-It might be said, for instance, that there are few more vivid
-or typical scenes in the Stevensonian tales than that of the duel at
-midnight in _The Master of Ballantrae._ But there again the exception
-proves the rule; the description insists not on the darkness
-of [[Night|night]] but on the hardness of [[Winter|winter]], the "windless stricture
-of the [[Frost|frost]]"; the candles that stand as straight as the swords;
-the candle-flames that seem almost as cold as the [[Stars|stars]].
-I have spoken of the [[Double|double]] meaning of a woodcut;
-this was surely, in the same [[Double|double]] sense, a steel engraving.
-A steely cold stiffens and steadies that tingling play of steel;
-and that not only materially but morally.  The [[house|House]] of Durrisdeer
-does not fall after the fashion of The [[house|House]] of Ussher.
-There is in that murderous scene I know not what that is clean
-and salt and sane; and, in spite of all, the white [[Frost|frost]] gives
-to the candles a sort of cold [[Purification|purification]] as of Candlemas.
-But the point is, at the moment, that when we say this deed was done
-at [[Night|night]], we do not mean that it was done in the dark.  There is a sense
-of exactitude and emphatic detail that belongs entirely to the day.
-Here indeed the two authors so strangely compared might almost
-have conspired in advance against the critic who compared them:
-as when Poe's ideal [[Detective|detective]] prefers to think in the dark,
-and therefore puts up the shutters even during the day.
-Dupin brings the outer darkness into the parlour, while Durie
-carries the candle-light into the forest.
+Broadly speaking, therefore, his [[Biography|biography]] would consist of journeys
+hither and thither, with a [[donkey]] in the Cevennes, with a baronet
+on the French canals; on a sledge in Switzerland or in a bathchair
+at Bournemouth.  But they were all, in one way or another, related to the
+problem of his health as [[Well|well]] as to the cheerfulness of his curiosity.
+Now of all human things the search for health is the most unhealthy.
+And it is truly a great glory to Stevenson that he, almost [[Alone|alone]]
+among men, could go on pursuing his bodily health without once
+losing his mental health.  As soon as he came to any place, he lost
+no [[Time|time]] in finding a new and better reason for having come there.
+It might be a [[Child|child]] or a [[Sonnet|sonnet]], a flirtation or the plan of a story;
+but he made that the real reason; and not the unhealthy reason of health.
+Nevertheless, there generally had been, somewhere in the background,
+some suggestion of the reason of health; as there was in that last
+great [[Journey|journey]] to his final [[Home|home]] in the South Seas.
 
-These images are not fancies or accidents:  their spirit runs
-through the whole scene.  The same incident, for instance, shows all
-the author's [[Love|love]] of sharp edges and cutting or piercing action.
-It is supremely typical that he made Mrs. Durie thrust the [[Sword|sword]]
-up to the hilt into the frozen ground.  It is true that afterwards
-(perhaps under the sad eye of Mr. Archer and the sensitive realists)
-he consented to withdraw this as "an exaggeration to stagger Hugo."
-But it is much more significant that it did not originally
-stagger Stevenson.  It was the very vital gesture of all his works
-that that sharp blade should cleave that stiff clay.  It was true
-in many other senses, touching mortal clay and the [[Sword|sword]] of the spirit.
-But I am speaking now of the gesture of the craftsman, like that of
-a man cutting wood.  This man had an appetite for cutting it clean.
-He never committed a murder without making a clean job of it.
+The one real break, I suspect, in this curious [[Double|double]] process
+of protection and risk, was his break-away to [[america|America]], which arose
+partly at least in connection with the matter of his [[Marriage|marriage]].
+It seemed to his friends and family, not so much like the
+conduct of an invalid who had done a bolt from the hospital,
+as the conduct of a lunatic unaccountably loose from the asylum.
+In [[Truth|truth]], the voyage struck them as less mad than the [[Marriage|marriage]].
+As this is not a biographical study, I need not go deeply into
+the delicate disputes about that business; but it was admittedly at
+least unconventional.  All that matters to the argument here is that,
+while there was much in it that was even noble, it was not normal.
+It was not [[Love|love]] as it should come to youth:  it is no disrespect
+to either to say that in both, psychologically speaking,
+there was an element of patching up as [[Well|well]] as of binding together.
+Stevenson had met, first in [[Paris]] and later in [[america|America]], an American
+lady married to a seemingly somewhat unsatisfactory American gentleman,
+against whom she took proceedings for [[divorce]].  Stevenson at the same
+[[Time|time]] precipitately crossed the seas and in some sense pursued her
+to California; I suppose with some vague idea of being in at the [[Death|death]];
+and indeed he was very nearly in at his own.  The escapade brought
+on him one of the worst and sharpest of his attacks of illness;
+the lady, being on the spot, naturally threw herself into nursing him;
+and as soon as he could stand on two rickety legs they were married.
+It caused consternation to his family, who were however really
+reconciled afterwards, it would seem, by the personal magnetism
+of his foreign and almost exotic bride.  Certainly in her society
+his literary work went with a renewed swing and even regularity;
+and the rest of his story is practically the story of his important works;
+varied by his, if possible, still more important friendships.
+There was illness, in which, it should be said, it was often a case
+of two invalids nursing each other.  Then came the decision to fall
+back on the secure climate of the Pacific Islands; which led to his
+taking up his last station at Vailima on the island of Samoa:
+in a coloured archipelago which our cheerful forefathers might have
+described as the Cannibal Islands, but which Stevenson was more
+disposed to describe as the Islands of the Blest.  There he lived
+as happily as can an [[Exile|exile]] who loves his country and his friends,
+free at least of all the daily dangers of his lung trouble;
+and there he died very suddenly, at the age of forty-four,
+the beloved patriarch of a little white and brown community,
+to whom he was known as Tusitala or the Teller of Tales.
 
-Whence did that spirit come; and how did the story of it begin?
-That is the right and real way of beginning the story of Stevenson.
-If I say that it began with cutting figures out of cardboard,
-it might sound like a [[Parody|parody]] of the pedantic fancies about juvenile
-psychology and early [[Education|education]].  But perhaps it will be better even
-to run the horrid risk of being mistaken for a modern educationist,
-rather than to repeat the too familiar phrases by which the admirer
-of Stevenson has got himself described as a sentimentalist.
-Too much has been talked in this connection about the [[Soul]] of the [[Child]]
-or the Peter Pan of Samoa; not because it is untrue, but because it
-is a mistake to tell a [[Truth|truth]] too often, so that it loses its freshness;
-especially when it is the [[Truth|truth]] about how to remain fresh.
-Many are perhaps rather tired of hearing about it; though they would
-never be tired of having it.  I have therefore deliberately approached
-the matter by another [[Road|road]]; and even by a [[Road|road]] running backwards.
-Instead of talking first about Cummy and the nursery anecdotes
-of Master Louis (at the risk of making a really graceful figure grow
-ridiculous by mere repetition, in the eyes of multitudes of greatly
-inferior people) I have tried to take the stock and normal of his
-work first, and then note that it really does date in a special
-sense from his [[Childhood|childhood]]; and that it is not sentimental and not
-senseless and not irrelevant to say so.
+That is the main outline of the actual [[Biography|biography]] of
+Robert Louis Stevenson; and from the [[Time|time]] when he clambered
+as a boy among the crags and castellations of the Painted [[Hill]],
+looking across the islets of the Forth, to the [[Time|time]] when tall
+brown barbarians, crowned with red [[Flowers|flowers]], bore him on their
+spears to the peak of their sacred mountain, the spirit of this
+[[artist]] had been permitted to inhabit, and as it were to haunt,
+the beautiful places of the earth.  To the last he had tasted that
+[[Beauty|beauty]] with a burning sensibility; and it is no joke, in his case,
+to say that he would have enjoyed coming to his own funeral.
+Of course, even this generalisation is too much of a simplification.
+He was not, as we shall later have occasion to note,
+unacquainted with sombre nor, alas, with sordid surroundings.
+Oscar Wilde said with some [[Truth|truth]] that Stevenson might have
+produced yet richer and more purple romances if he had always
+lived in [[Gower]] Street; and he was certainly one of the very few
+who have managed to feel fierce and adventurous at Bournemouth.
+But broadly speaking, it is true that the outline of his life
+was romantic; and was therefore perhaps too easily turned into
+a [[Romance|romance]].  He himself deliberately turned it into a [[Romance|romance]];
+but not all those romancing were such good romancers as he.
+So the [[Romance|romance]] tended to turn into mere repetition and gossip;
+and the romantic figure faded into journalism as the figure of
+[[Robin Hood]] faded into endless penny dreadfuls or schoolboy serials;
+as the figure of Micawber was multiplied and cheapened into Ally Sloper.
+Then came the reaction; a reaction which I should call rather
+excusable than justifiable.  But that reaction is the problem
+in any Popular treatment of him to-day.
+
+Now if I were to follow here the natural course of such a
+volume as this, I should have to begin by telling slowly and
+systematically the tale that I have just told rapidly and briefly.
+I should have to give a chapter to his [[Childhood|childhood]], to his favourite
+aunt and his yet more beloved [[Nurse|nurse]], and to all the things much
+more clearly recorded in _A [[Child]]'s [[Garden]] of Verses._ I should have
+to give a chapter to his youth, his differences with his father,
+his struggles with his malady, his greater struggles about
+his [[Marriage|marriage]]; working up slowly through the whole length of
+the book to the familiar picture of so many magazines and memoirs;
+the slender semi-tropical Tusitala with his long brown hair and long
+olive face and long strange slits of eyes, sitting clad in white
+or crowned with garlands and telling tales to all the tribes of men.
+Now the misfortune of all this would be that it would amount to saying,
+through a slow series of chapters, that there is nothing more to be
+said about Stevenson except what has been said a thousand times.
+It would be to suggest that Stevenson's serious fame does still
+really depend on this string of picturesque accidents; and that there
+is really nothing to be told of him, except that he wore long hair
+in the Savile Club or light clothes in the Samoan [[Mountains|mountains]].
+His life really was romantic; but to repeat that [[Romance|romance]] is like
+reprinting the _Scarlet Pimpernel_ or offering the world an entirely
+new portrait of Rudolph Valentino.  It is against this repetition
+that the reaction has set in; perhaps wrongly but certainly strongly.
+And to spin it out through the whole of this book would be to give
+the impression (which I should mildly resent) that this book is only
+the thousandth unnecessary volume of Stevensoniana.  However I told
+his story in detail, though it were with all the sympathy I feel,
+I could not avoid that suggestion of a sort of jaded journalism.
+Stevenson's picturesque attitude and career are rather in his
+way at this moment; not for me, because I like the picturesque,
+but for this new pose which may be called the pose of the prosaic.
+To these unfortunate realists, to say that there were all these
+romantic things about him is only another way of saying that there
+was nothing in him.  And there was a very great deal in him.
+I am driven to adopt some other method of bringing it out.

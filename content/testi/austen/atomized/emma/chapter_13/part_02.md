@@ -1,5 +1,5 @@
 ---
-title: "[[Emma]] — Chapter 13 (part 2)"
+title: "Emma — Chapter 13 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/emma-(austen)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/emma/chapter_13/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/emma/chapter_13/part_03">part 03 ›</a></div>
 </nav>
 
+
+“[[Well]],” said she to herself, “this is most strange!—After I had got him
+off so [[Well|well]], to chuse to go into company, and leave Harriet ill
+behind!—Most strange indeed!—But there is, I believe, in many men,
+especially single men, such an inclination—such a passion for dining
+out—a dinner engagement is so high in the class of their pleasures,
+their employments, their dignities, almost their duties, that any thing
+gives way to it—and this must be the case with Mr. Elton; a most
+valuable, amiable, pleasing young man undoubtedly, and very much in
+[[Love|love]] with Harriet; but still, he cannot refuse an invitation, he must
+dine out wherever he is asked. What a strange thing [[Love|love]] is! he can see
+ready wit in Harriet, but will not dine [[Alone|alone]] for her.”
 
 Soon afterwards Mr. Elton quitted them, and she could not but do him
 the justice of feeling that there was a great deal of sentiment in his
@@ -111,24 +123,3 @@ answer at all. She could not be complying, she dreaded being
 quarrelsome; her [[Heroism|heroism]] reached only to [[Silence|silence]]. She allowed him to
 talk, and arranged the glasses, and wrapped herself up, without opening
 her lips.
-
-They arrived, the carriage turned, the step was let down, and Mr.
-Elton, spruce, black, and smiling, was with them instantly. [[Emma]]
-thought with pleasure of some change of subject. Mr. Elton was all
-obligation and cheerfulness; he was so very cheerful in his civilities
-indeed, that she began to think he must have received a different
-account of Harriet from what had reached her. She had sent while
-dressing, and the answer had been, “Much the same—not better.”
-
-“_My_ report from Mrs. Goddard’s,” said she presently, “was not so
-pleasant as I had hoped—‘Not better’ was _my_ answer.”
-
-His face lengthened immediately; and his voice was the voice of
-sentiment as he answered.
-
-“Oh! no—I am grieved to find—I was on the point of telling you that
-when I called at Mrs. Goddard’s door, which I did the very last thing
-before I returned to dress, I was told that Miss [[smith|Smith]] was not better,
-by no means better, rather worse. Very much grieved and concerned—I had
-flattered myself that she must be better after such a cordial as I knew
-had been given her in the morning.”

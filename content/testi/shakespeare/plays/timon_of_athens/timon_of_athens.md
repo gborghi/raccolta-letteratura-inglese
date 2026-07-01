@@ -1,5 +1,5 @@
 ---
-title: "[[Timon|TIMON]] OF ATHENS"
+title: "TIMON OF ATHENS"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/timon-of-athens-(shakespeare)"

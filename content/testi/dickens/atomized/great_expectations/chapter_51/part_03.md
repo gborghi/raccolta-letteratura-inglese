@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 51 (part 3)"
+title: "Great Expectations — Chapter 51 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_51/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_53/part_01">part 01 ›</a></div>
 </nav>
 
+
+“I understand you perfectly.”
+
+“But that I make no admissions?”
+
+“That you make no admissions.” And Wemmick repeated, “No admissions.”
+
+“Put the case, Pip, that passion and the terror of [[Death|death]] had a little
+shaken the woman’s intellects, and that when she was set at liberty,
+she was scared out of the ways of the world, and went to him to be
+sheltered. Put the case that he took her in, and that he kept down the
+old, wild, violent [[Nature|nature]] whenever he saw an inkling of its breaking
+out, by asserting his power over her in the old way. Do you comprehend
+the imaginary case?”
 
 “Quite.”
 

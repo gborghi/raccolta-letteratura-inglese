@@ -1,5 +1,5 @@
 ---
-title: "[[The Oblong Box]] (part 4)"
+title: "The Oblong Box (part 4)"
 author: "Poe"
 unitType: excerpt
 tags:
@@ -12,6 +12,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_oblong_box/part/part_03">‹ part 03</a><a class="ex-next" href="/testi/poe/atomized/the_oblong_box/part/part_05">part 05 ›</a></div>
 </nav>
 
+
+      wooden edges of the berth, as he endeavored to lay it down very
+
+      gently—there being no room for it on the floor. After this there
+
+      was a dead stillness, and I heard nothing more, upon either
+
+      occasion, until nearly daybreak; unless, perhaps, I may mention a
+
+      low sobbing, or murmuring sound, so very much suppressed as to be
+
+      nearly inaudible—if, indeed, the whole of this latter noise were
+
+      not rather produced by my own [[Imagination|imagination]]. I say it seemed to
+
+      resemble sobbing or sighing—but, of course, it could not have
 
       been either. I rather think it was a ringing in my own ears. Mr.
 
@@ -192,33 +208,3 @@ tags:
       will be but a trifle—it is nothing—mere nothing. By the mother
 
       who bore you—for the [[Love|love]] of Heaven—by your [[Hope|hope]] of salvation, I
-
-      implore you to put back for the box!”
-
-
-
-      The captain, for a moment, seemed touched by the earnest appeal
-
-      of the [[artist]], but he regained his stern composure, and merely
-
-      said:
-
-
-
-      “Mr. Wyatt, you are mad. I cannot listen to you. Sit down, I say,
-
-      or you will swamp the boat. Stay—hold him—seize him!—he is about
-
-      to [[spring]] overboard! There—I knew it—he is over!”
-
-
-
-      As the captain said this, Mr. Wyatt, in fact, sprang from the
-
-      boat, and, as we were yet in the lee of the wreck, succeeded, by
-
-      almost superhuman exertion, in getting hold of a rope which hung
-
-      from the fore-[[Chains|chains]]. In another moment he was on board, and
-
-      rushing frantically down into the cabin.

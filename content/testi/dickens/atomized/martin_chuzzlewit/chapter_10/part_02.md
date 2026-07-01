@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 10 (part 2)"
+title: "Martin Chuzzlewit — Chapter 10 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_10/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_10/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘You are right,’ repeated Martin. ‘It is not a caprice. It is built up
+on reason, proof, and cool comparison. Caprices never are. Moreover, I
+am not a capricious man. I never was.’
 
 ‘Most assuredly not,’ said Mr Pecksniff.
 
@@ -139,10 +143,3 @@ painful strain! What was more natural than that you should make one
 slight mistake, when in all other respects you were so very correct, and
 have had such reason--such very sad and undeniable reason--to judge of
 every one about you in the worst light!’
-
-‘True,’ replied the other. ‘You are very lenient with me.’
-
-‘We always said, my girls and I,’ cried Mr Pecksniff with increasing
-obsequiousness, ‘that while we mourned the heaviness of our misfortune
-in being confounded with the base and mercenary, still we could not
-[[Wonder|wonder]] at it. My dears, you remember?’

@@ -138,9 +138,3 @@ couldn’t bear the [[house]] after what had taken place; that he was
 wretched in it; and that he looked upon himself as being in a certain
 kind of way the cause of the occurrence.--A very excellent lodger Sir.
 I [[Hope|hope]] we may not lose him.’
-
-‘Yah!’ cried the [[Dwarf|dwarf]].  ‘Never thinking of anybody but yourself--why
-don’t you retrench then--scrape up, hoard, economise, eh?’
-
-‘Why, sir,’ replied Brass, ‘upon my word I think Sarah’s as good an
-economiser as any going.  I do indeed, Mr Quilp.’

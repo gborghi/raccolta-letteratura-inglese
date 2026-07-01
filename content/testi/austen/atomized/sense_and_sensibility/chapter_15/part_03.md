@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 15 (part 3)"
+title: "Sense and Sensibility — Chapter 15 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_15/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_19/part_01">part 01 ›</a></div>
 </nav>
 
+
+sincerely [[Love|love]] him; and suspicion of his integrity cannot be more
+
+painful to yourself than to me. It has been involuntary, and I will not
+
+encourage it. I was startled, I confess, by the alteration in his
+
+manners this morning;—he did not speak like himself, and did not return
+
+your kindness with any cordiality. But all this may be explained by
+
+such a situation of his affairs as you have supposed. He had just
 
 parted from my sister, had seen her leave him in the greatest
 

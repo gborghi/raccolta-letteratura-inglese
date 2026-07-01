@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 12 (part 4)"
+title: "Villette — Chapter 12 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_12/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_13/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Dr. John! it is found.”
+
+He did not ask by whom, for with his quick eye he perceived that I held
+it in my hand.
+
+“Do not betray her,” he said, looking at me as if I were indeed a
+dragon.
+
+“Were I ever so disposed to treachery, I cannot betray what I do not
+know,” was my answer. “Read the note, and you will see how little it
+reveals.”
 
 “Perhaps you have read it,” I thought to myself; and yet I could not
 believe he wrote it: that could hardly be his style: besides, I was

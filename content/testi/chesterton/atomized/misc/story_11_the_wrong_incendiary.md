@@ -1,5 +1,5 @@
 ---
-title: "[[misc]] — THE WRONG INCENDIARY"
+title: "misc — THE WRONG INCENDIARY"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 THE WRONG INCENDIARY
-
 
 I stood looking at the Coronation Procession--I mean the one
 in Beaconsfield; not the rather elephantine [[Imitation|imitation]] of it which,

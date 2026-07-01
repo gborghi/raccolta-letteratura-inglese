@@ -14,6 +14,15 @@ tags:
 </nav>
 
 
+'Yes,' said [[Father Brown]], suddenly coming out of his trance. 'That's
+exactly what I said.'
+
+He looked across at Craken with a glassy and rather ghastly smile,
+saying: 'Mr Craken and I are in complete agreement.'
+
+'[[Well]],' said Baker, 'Craken is going out to smoke a pipe with the
+plutocrats; but I [[Doubt|doubt]] whether it will be a pipe of peace.'
+
 He turned rather abruptly and called to an aged attendant in the
 background. Mandeville was one of the last of the very old - fashioned
 Colleges; and even Craken was one of the first of the Communists; before
@@ -113,14 +122,3 @@ figure travelling as rapidly and as straight as a bullet; and Father
 Brown recognized the neat black clothes and shrewd doglike face of a
 police - surgeon whom he had met in the poorer parts of town. He was the
 first to arrive of the official contingent.
-
-'Look here,' said the Master to the priest, before the doctor was within
-earshot. 'I must know something. Did you mean what you said about
-Communism being a real danger and leading to crime?'
-
-'Yes,' said [[Father Brown]] smiling rather grimly, 'I have really noticed
-the spread of some Communist ways and influences; and, in one sense,
-this is a Communist crime.'
-
-'Thank you,' said the Master. 'Then I must go off and see to something
-at once. Tell the authorities I'll be back in ten minutes.'

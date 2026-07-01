@@ -1,5 +1,5 @@
 ---
-title: "[[The Gold-Bug]] (part 3)"
+title: "The Gold-Bug (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-gold-bug-(poe)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_gold_bug/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/the_gold_bug/part/part_04">part 04 ›</a></div>
 </nav>
 
+
+      all dat.”
+
+
+
+      “_Very_ sick, Jupiter!—why didn’t you say so at once? Is he
+
+      confined to bed?”
+
+
+
+      “No, dat he aint!—he aint ’fin’d nowhar—dat’s just whar de shoe
+
+      pinch—my mind is got to be berry hebby ’bout poor Massa Will.”
+
+
+
+      “Jupiter, I should like to understand what it is you are talking
 
       about. You say your master is sick. Hasn’t he told you what ails
 
@@ -267,17 +285,3 @@ tags:
       Finding that no satisfaction was to be obtained of Jupiter, whose
 
       whole intellect seemed to be absorbed by “de bug,” I now stepped
-
-      into the boat and made sail. With a fair and strong breeze we
-
-      soon ran into the little cove to the northward of Fort Moultrie,
-
-      and a walk of some two miles brought us to the hut. It was about
-
-      three in the afternoon when we arrived. Legrand had been awaiting
-
-      us in eager expectation. He grasped my hand with a nervous
-
-      empressement which alarmed me and strengthened the suspicions
-
-      already entertained. His countenance was pale even to

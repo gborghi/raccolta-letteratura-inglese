@@ -14,6 +14,47 @@ tags:
 </nav>
 
 
+  "Pass me those goblins, in the earth that grew,
+  Those hells whose heaven is a blossom blue,"
+
+whereupon the most prosaic of his companions would pass
+the potatoes immediately.  A man who suspected another of having
+stolen his umbrella would exclaim with righteous indignation--
+
+  "Methinks thou cowerest in that dusky dome
+  Wherein I also dared the floods to come:"
+
+whereupon a person of the most impervious moral [[Nature|nature]] would
+immediately return the umbrella.
+
+Such is the general impression produced on the mind by the horrible
+facility which a large number of modern men exhibit in the matter
+of verse.  Owing to some inexperience of critical effects we are
+unable to say whether it would be considered a tribute to any class
+of poets to say that they express in language which no one can impugn
+sentiments which no one can help having.  But this is assuredly
+the case with an enormous number of modern minor writers of verse.
+Sometimes, undoubtedly, the matter is somewhat simpler.
+One poet among those whose books lie before us at present exclaims
+in opening an address to the ocean--
+
+  My feeble powers, O mighty sea,
+  I cannot strain to sing to thee,
+
+which seems an excellent, manly and lucid excuse for not writing
+a poem to the sea, but not a very good excuse for writing one.
+The majority of modern poets, however, are not so conveniently
+disposed of.  They have, in spite of generalisations,
+protests and criticisms, a decidedly indefensible habit of writing
+very good poetry, poetry at least adorned with a degree of style,
+dignity and judgment which would not have been possible in every age.
+We can only explain it as we say, by the theory that talking in rhyme
+is becoming an universal accomplishment, like signing one's own name.
+We have no [[Doubt|doubt]] that when language first existed, those persons
+who could emit certain screams and grunts expressive of the most simple
+necessities went about with long curled hair and a hyper-elegant
+demeanour to celebrate their poetic superiority.
+
 An example of how [[Well|well]] the thing can be done may be found
 in the book called At the Gates of [[Song]], by Mr. Lloyd Miffln.
 Mr. Lloyd Mifflin is, we conceive, an American.
@@ -72,12 +113,10 @@ We prefer her when the transformation is not quite complete.
 
 G.K.C.
 
-
 Patriotism and Ethics
 
 --May 18, 1901, The Speaker [Reprinted in The Living Age,
 volume 230, July-September 1901]
-
 
 Every kind of moral and personal credit is due to Mr. Godard for his
 [[Courage|courage]] and conscientiousness in publishing this interesting book
@@ -115,41 +154,3 @@ But what have these things to do with patriotism?
 What has Imperialism to do with patriotism?  What have sky-larking
 crowds to do with patriotism?  Above all, what particular
 connection is there between Mr. Chamberlain and patriotism?
-
-This is the primary and superficial objection to Mr. Godard,
-that he has meekly accepted the theory of the [[government|Government]] that the war
-is a great trial of English patriotism, instead of being, as it is,
-a vulgar and dirty experiment in a corner, different in no way
-from other frontier experiments except in the arrogance of its terms
-and the magnifying-glass of morbidity through which it is regarded.
-Mr. Godard, if he wished to study patriotism, should not have taken one
-paltry colonial squabble out of [[history]], as one takes lots out of a hat;
-he should have reviewed the great wars of [[history]] in something
-like their proper proportion.  But one thing is at least certain.
-If Mr. Godard does not think patriotism is a precious virtue,
-his sympathy with Boer resistance is inexplicable.  He passionately,
-and most justly exclaims, "Does 'justice' decimate a nation
-because it refuses unconditionally to submit to a foreign yoke?"
-But if patriotism has no value a foreign yoke has no injustice.
-"Can we contemplate," he continues, "the absolute annexation
-of the territory of two foreign States, 'a penalty so extreme
-as to be without parallel in the [[history]] of modern nations
-since the partition of Poland?'"  It is the opinion of many,
-including myself, that annexation is far too great a penalty.
-But if patriotism has no sanctity, it is not a penalty at all.
-If the lines between nations are really as needless and arbitrary
-as Mr. Godard represents, it is no more cruel to take over a Boer
-farm from the Republic to the Empire than to transfer a particular
-street from Fulham to Hammersmith.  If there were a passionate
-patriotic feeling in Hammersmith; if the inhabitants delighted
-in boasting that the [[Flag|flag]] of Hammersmith had never fallen
-in war, that the women of Hammersmith were the most beautiful
-and the wines of Hammersmith the most rejoicing in the world,
-then I myself should thoroughly sympathize with Hammersmith,
-entertaining, as I probably should, similar convictions
-about South Kensington.  But presumably Mr. Godard would not.
-He considers any peculiar attachment to a nation narrow and immoral.
-He must, therefore, I infer, consider the present resistance
-of the Boers a hideous and ghastly thing, the deluging of a whole
-country with [[Blood|blood]] by madmen fighting for a detestable prejudice.
-I do not.

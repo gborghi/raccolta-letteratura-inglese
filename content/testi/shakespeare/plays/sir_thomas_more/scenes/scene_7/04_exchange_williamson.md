@@ -1,5 +1,5 @@
 ---
-title: "[[Sir Thomas More]] — Scene 7 — exchange (WILLIAMSON) [4]"
+title: "Sir Thomas More — Scene 7 — exchange (WILLIAMSON) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/sir-thomas-more-(shakespeare)"

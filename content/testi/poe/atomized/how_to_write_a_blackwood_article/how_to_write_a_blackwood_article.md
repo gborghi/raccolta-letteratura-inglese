@@ -1,5 +1,5 @@
 ---
-title: "[[How to Write a Blackwood Article]]"
+title: "How to Write a Blackwood Article"
 author: "Poe"
 unitType: work
 parentWork: "works/how-to-write-a-blackwood-article-(poe)"

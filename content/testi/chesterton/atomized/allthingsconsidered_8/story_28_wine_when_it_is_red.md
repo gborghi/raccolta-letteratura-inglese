@@ -1,5 +1,5 @@
 ---
-title: "[[AllThingsConsidered-8]] — WINE WHEN IT IS RED"
+title: "AllThingsConsidered-8 — WINE WHEN IT IS RED"
 author: "Chesterton"
 unitType: story
 parentWork: "works/allthingsconsidered-8-(chesterton)"
@@ -10,12 +10,11 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/allthingsconsidered-8-(chesterton)">AllThingsConsidered 8</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_27_humanitarianism_and_strength">‹ Story 27 HUMANITARIANISM AND STRENGTH</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_29_demagogues_and_mystagogues">Story 29 DEMAGOGUES AND MYSTAGOGUES ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_27_humanitarianism_humanitarianism_and_stre">‹ Story 27 Humanitarianism HUMANITARIANISM AND STRE</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_29_demagogues_and_mystagogues">Story 29 DEMAGOGUES AND MYSTAGOGUES ›</a></div>
 </nav>
 
 
 WINE WHEN IT IS RED
-
 
 I suppose that there will be some wigs on the green in connection
 with the recent manifesto signed by a string of very eminent doctors

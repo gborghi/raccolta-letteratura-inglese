@@ -1,5 +1,5 @@
 ---
-title: "A Christmas [[carol|Carol]] — Stave 4: THE LAST OF THE SPIRITS (part 1)"
+title: "A Christmas Carol — Stave 4: THE LAST OF THE SPIRITS (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-christmas-carol-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/a-christmas-carol-(dickens)">A Christmas Carol</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_christmas_carol/chapter_03_the_second_of_the_three_spirit/part_07">‹ part 07</a><a class="ex-next" href="/testi/dickens/atomized/a_christmas_carol/chapter_04_the_last_of_the_spirits/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_christmas_carol/chapter_03_the_second_of_the_three_spirit/part_08">‹ part 08</a><a class="ex-next" href="/testi/dickens/atomized/a_christmas_carol/chapter_04_the_last_of_the_spirits/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -78,7 +78,7 @@ Scrooge followed in the [[Shadow|shadow]] of its dress, which bore him
 up, he thought, and carried him along.
 
 They scarcely seemed to enter the [[City|city]]; for the [[City|city]] rather
-seemed to [[Spring|spring]] up about them, and encompass them of its
+seemed to [[spring]] up about them, and encompass them of its
 own act. But there they were, in the heart of it; on
 'Change, amongst the merchants; who hurried up and down,
 and chinked the money in their pockets, and conversed in

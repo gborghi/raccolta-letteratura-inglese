@@ -1,5 +1,5 @@
 ---
-title: "[[The Premature Burial]] (part 3)"
+title: "The Premature Burial (part 3)"
 author: "Poe"
 unitType: excerpt
 tags:
@@ -12,6 +12,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_premature_burial/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/the_premature_burial/part/part_04">part 04 ›</a></div>
 </nav>
 
+
+      The most thrilling peculiarity of this incident, nevertheless, is
+      involved in what Mr. S. himself asserts. He declares that at no
+      period was he altogether insensible—that, dully and confusedly,
+      he was aware of everything which happened to him, from the moment
+      in which he was pronounced dead by his physicians, to that in
+      which he fell swooning to the floor of the hospital. “I am
+      alive,” were the uncomprehended words which, upon recognizing the
+      locality of the dissecting-room, he had endeavored, in his
+      extremity, to utter.
 
       It were an easy matter to multiply such histories as these—but I
       forbear—for, indeed, we have no need of such to establish the
@@ -104,19 +114,3 @@ tags:
       many minutes, in much bewilderment and perplexity—the mental
       faculties in general, but the [[Memory|memory]] in especial, being in a
       condition of absolute abeyance.
-
-      In all that I endured there was no physical [[Suffering|suffering]] but of
-      moral distress an infinitude. My fancy grew charnel, I talked “of
-      worms, of tombs, and epitaphs.” I was lost in reveries of [[Death|death]],
-      and the idea of premature burial held continual possession of my
-      brain. The ghastly Danger to which I was subjected haunted me day
-      and [[Night|night]]. In the former, the torture of meditation was
-      excessive—in the latter, supreme. When the grim Darkness
-      overspread the Earth, then, with every horror of thought, I
-      shook—shook as the quivering plumes upon the hearse. When [[Nature]]
-      could endure wakefulness no longer, it was with a struggle that I
-      consented to [[Sleep|sleep]]—for I shuddered to reflect that, upon awaking,
-      I might find myself the tenant of a [[Grave|grave]]. And when, finally, I
-      sank into slumber, it was only to rush at once into a world of
-      phantasms, above which, with vast, sable, overshadowing wing,
-      hovered, predominant, the one sepulchral Idea.

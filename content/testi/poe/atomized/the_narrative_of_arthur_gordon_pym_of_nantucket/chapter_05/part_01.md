@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 6 (part 1)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 6 (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -197,7 +197,3 @@ being first stowed as compactly as may be, should be covered with a
 layer of stout shifting-boards, extending completely across the vessel.
 
 Upon these boards strong temporary stanchions should be erected,
-
-reaching to the timbers above, and thus securing everything in its
-
-place. In cargoes consisting of grain, or any similar matter,

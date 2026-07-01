@@ -14,6 +14,28 @@ tags:
 </nav>
 
 
+      our intellects were so entirely disordered by the long course of
+
+      privation and terror to which we had been subjected, that we
+
+      could not justly be considered, at that period, in the light of
+
+      rational beings. In subsequent perils, nearly as great, if not
+
+      greater, I bore up with fortitude against all the evils of my
+
+      situation, and Peters, it will be seen, evinced a stoical
+
+      [[philosophy]] nearly as incredible as his present childlike
+
+      supineness and imbecility—the mental condition made the
+
+      difference.
+
+
+
+      The overturning of the brig, even with the consequent loss of the
+
       wine and turtle, would not, in fact, have rendered our situation
 
       more deplorable than before, except for the disappearance of the

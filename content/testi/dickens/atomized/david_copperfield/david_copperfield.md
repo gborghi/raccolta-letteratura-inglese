@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]]"
+title: "David Copperfield"
 author: "Dickens"
 unitType: work
 parentWork: "works/david-copperfield-(dickens)"

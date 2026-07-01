@@ -1,5 +1,5 @@
 ---
-title: "Hard Times — Chapter 6 (part 2)"
+title: "Hard Times — Chapter 8 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/hard-times-(dickens)"
@@ -10,122 +10,143 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/hard-times-(dickens)">Hard Times</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/hard_times/chapter_74/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/hard_times/chapter_74/part_03">part 03 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/hard_times/chapter_74/part_01">‹ part 01</a><span></span></div>
 </nav>
 
 
-First to wake them, and next to tell them, all so wild and breathless as
-she was, what had brought her there, were difficulties; but they no
-sooner understood her than their spirits were on [[Fire|fire]] like hers.  One of
-the men was in a drunken slumber, but on his comrade’s shouting to him
-that a man had fallen down the Old Hell Shaft, he started out to a pool
-of dirty [[Water|water]], put his head in it, and came back sober.
+‘The Thquire thtood by you, Thethilia, and I’ll thtand by the Thquire.
+More than that: thith ith a prethiouth rathcal, and belongth to that
+bluthtering Cove that my people nearly pitht out o’ winder.  It’ll be a
+dark [[Night|night]]; I’ve got a horthe that’ll do anything but thpeak; I’ve got a
+pony that’ll go fifteen mile an hour with Childerth driving of him; I’ve
+got a dog that’ll keep a man to one plathe four-and-twenty hourth.  Get a
+word with the young Thquire.  Tell him, when he theeth our horthe begin
+to danthe, not to be afraid of being thpilt, but to look out for a
+pony-gig coming up.  Tell him, when he theeth that gig clothe by, to jump
+down, and it’ll take him off at a rattling pathe.  If my dog leth thith
+young man thtir a peg on foot, I give him leave to go.  And if my horthe
+ever thtirth from that thpot where he beginth a danthing, till the
+morning—I don’t know him?—Tharp’th the word!’
 
-With these two men she ran to another half-a-mile further, and with that
-one to another, while they ran elsewhere.  Then a [[Horse|horse]] was found; and
-she got another man to ride for life or [[Death|death]] to the railroad, and send a
-message to Louisa, which she wrote and gave him.  By this [[Time|time]] a whole
-village was up: and windlasses, ropes, poles, candles, lanterns, all
-things necessary, were fast collecting and being brought into one place,
-to be carried to the Old Hell Shaft.
+The word was so sharp, that in ten minutes Mr. Childers, sauntering about
+the market-place in a pair of slippers, had his cue, and Mr. Sleary’s
+equipage was ready.  It was a fine sight, to behold the learned dog
+barking round it, and Mr. Sleary instructing him, with his one
+practicable eye, that Bitzer was the object of his particular attentions.
+Soon after dark they all three got in and started; the learned dog (a
+formidable creature) already pinning Bitzer with his eye, and sticking
+close to the [[Wheel|wheel]] on his side, that he might be ready for him in the
+event of his showing the slightest disposition to alight.
 
-It seemed now hours and hours since she had left the lost man lying in
-the [[Grave|grave]] where he had been buried alive.  She could not bear to remain
-away from it any longer—it was like deserting him—and she hurried swiftly
-back, accompanied by half-a-dozen labourers, including the drunken man
-whom the news had sobered, and who was the best man of all.  When they
-came to the Old Hell Shaft, they found it as lonely as she had left it.
-The men called and listened as she had done, and examined the edge of the
-chasm, and settled how it had happened, and then sat down to wait until
-the implements they wanted should come up.
+The other three sat up at the inn all [[Night|night]] in great suspense.  At eight
+o’[[Clock|clock]] in the morning Mr. Sleary and the dog reappeared: both in high
+spirits.
 
-Every sound of [[Insects|insects]] in the air, every stirring of the [[Leaves|leaves]], every
-whisper among these men, made Sissy tremble, for she thought it was a cry
-at the [[Bottom|bottom]] of the pit.  But the [[Wind|wind]] blew idly over it, and no sound
-arose to the surface, and they sat upon the grass, waiting and waiting.
-After they had waited some [[Time|time]], straggling people who had heard of the
-accident began to come up; then the real help of implements began to
-arrive.  In the midst of this, Rachael returned; and with her party there
-was a surgeon, who brought some wine and medicines.  But, the expectation
-among the people that the man would be found alive was very slight
-indeed.
+‘All right, Thquire!’ said Mr. Sleary, ‘your thon may be aboard-a-thip by
+thith [[Time|time]].  Childerth took him off, an hour and a half after we left
+there latht [[Night|night]].  The horthe danthed the polka till he wath dead beat
+(he would have walthed if he hadn’t been in harneth), and then I gave him
+the word and he went to thleep comfortable.  When that prethiouth young
+Rathcal thed he’d go for’ard afoot, the dog hung on to hith
+neck-hankercher with all four legth in the air and pulled him down and
+rolled him over.  Tho he come back into the drag, and there he that,
+’till I turned the horthe’th head, at half-patht thixth thith morning.’
 
-There being now people enough present to impede the work, the sobered man
-put himself at the head of the rest, or was put there by the general
-consent, and made a large ring round the Old Hell Shaft, and appointed
-men to keep it.  Besides such volunteers as were accepted to work, only
-Sissy and Rachael were at first permitted within this ring; but, later in
-the day, when the message brought an express from Coketown, Mr. Gradgrind
-and Louisa, and Mr. Bounderby, and the whelp, were also there.
+Mr. Gradgrind overwhelmed him with thanks, of course; and hinted as
+delicately as he could, at a handsome remuneration in money.
 
-The sun was four hours lower than when Sissy and Rachael had first sat
-down upon the grass, before a means of enabling two men to descend
-securely was rigged with poles and ropes.  Difficulties had arisen in the
-construction of this [[Machine|machine]], simple as it was; requisites had been found
-wanting, and messages had had to go and return.  It was five o’[[Clock|clock]] in
-the afternoon of the bright autumnal [[Sunday]], before a candle was sent
-down to try the air, while three or four rough faces stood crowded close
-together, attentively watching it: the man at the windlass lowering as
-they were told.  The candle was brought up again, feebly burning, and
-then some [[Water|water]] was cast in.  Then the bucket was hooked on; and the
-sobered man and another got in with lights, giving the word ‘Lower away!’
+‘I don’t want money mythelf, Thquire; but Childerth ith a family man, and
+if you wath to like to offer him a five-pound note, it mightn’t be
+unactheptable.  Likewithe if you wath to thtand a collar for the dog, or
+a thet of bellth for the horthe, I thould be very glad to take ’em.
+Brandy and [[Water|water]] I alwayth take.’  He had already called for a glass, and
+now called for another.  ‘If you wouldn’t think it going too far,
+Thquire, to make a little thpread for the company at about three and
+thixth ahead, not reckoning Luth, it would make ’em happy.’
 
-As the rope went out, tight and strained, and the windlass creaked, there
-was not a breath among the one or two hundred men and women looking on,
-that came as it was wont to come.  The signal was given and the windlass
-stopped, with abundant rope to spare.  Apparently so long an interval
-ensued with the men at the windlass standing idle, that some women
-shrieked that another accident had happened!  But the surgeon who held
-the watch, declared five minutes not to have elapsed yet, and sternly
-admonished them to keep [[Silence|silence]].  He had not [[Well|well]] done speaking, when the
-windlass was reversed and worked again.  Practised eyes knew that it did
-not go as heavily as it would if both workmen had been coming up, and
-that only one was returning.
+All these little tokens of his gratitude, Mr. Gradgrind very willingly
+undertook to render.  Though he thought them far too slight, he said, for
+such a service.
 
-The rope came in tight and strained; and ring after ring was coiled upon
-the barrel of the windlass, and all eyes were fastened on the pit.  The
-sobered man was brought up and leaped out briskly on the grass.  There
-was an universal cry of ‘Alive or dead?’ and then a deep, profound hush.
+‘Very [[Well|well]], Thquire; then, if you’ll only give a Horthe-riding, a
+bethpeak, whenever you can, you’ll more than balanthe the account.  Now,
+Thquire, if your daughter will ethcuthe me, I thould like one parting
+word with you.’
 
-When he said ‘Alive!’ a great shout arose and many eyes had [[Tears|tears]] in
-them.
+Louisa and Sissy withdrew into an adjoining room; Mr. Sleary, stirring
+and drinking his brandy and [[Water|water]] as he stood, went on:
 
-‘But he’s hurt very bad,’ he added, as soon as he could make himself
-heard again.  ‘Where’s doctor?  He’s hurt so very bad, sir, that we donno
-how to get him up.’
+‘Thquire,—you don’t need to be told that dogth ith wonderful animalth.’
 
-They all consulted together, and looked anxiously at the surgeon, as he
-asked some questions, and shook his head on receiving the replies.  The
-sun was setting now; and the red light in the evening sky touched every
-face there, and caused it to be distinctly seen in all its rapt suspense.
+‘Their instinct,’ said Mr. Gradgrind, ‘is surprising.’
 
-The consultation ended in the men returning to the windlass, and the
-pitman going down again, carrying the wine and some other small matters
-with him.  Then the other man came up.  In the meantime, under the
-surgeon’s directions, some men brought a hurdle, on which others made a
-thick bed of spare clothes covered with loose straw, while he himself
-contrived some bandages and slings from shawls and handkerchiefs.  As
-these were made, they were hung upon an arm of the pitman who had last
-come up, with instructions how to use them: and as he stood, shown by the
-light he carried, leaning his powerful loose hand upon one of the poles,
-and sometimes glancing down the pit, and sometimes glancing round upon
-the people, he was not the least conspicuous figure in the scene.  It was
-dark now, and torches were kindled.
+‘Whatever you call it—and I’m bletht if _I_ know what to call it’—said
+Sleary, ‘it ith athtonithing.  The way in whith a dog’ll find you—the
+dithtanthe he’ll come!’
 
-It appeared from the little this man said to those about him, which was
-quickly repeated all over the circle, that the lost man had fallen upon a
-mass of crumbled rubbish with which the pit was half choked up, and that
-his fall had been further broken by some jagged earth at the side.  He
-lay upon his back with one arm doubled under him, and according to his
-own belief had hardly stirred since he fell, except that he had moved his
-free hand to a side pocket, in which he remembered to have some bread and
-meat (of which he had swallowed crumbs), and had likewise scooped up a
-little [[Water|water]] in it now and then.  He had come straight away from his
-work, on being written to, and had walked the whole [[Journey|journey]]; and was on
-his way to Mr. Bounderby’s country [[house]] after dark, when he fell.  He
-was crossing that dangerous country at such a dangerous [[Time|time]], because he
-was [[Innocent|innocent]] of what was laid to his charge, and couldn’t rest from
-coming the nearest way to deliver himself up.  The Old Hell Shaft, the
-pitman said, with a curse upon it, was worthy of its bad name to the
-last; for though Stephen could speak now, he believed it would soon be
-found to have mangled the life out of him.
+‘His scent,’ said Mr. Gradgrind, ‘being so fine.’
+
+‘I’m bletht if I know what to call it,’ repeated Sleary, shaking his
+head, ‘but I have had dogth find me, Thquire, in a way that made me think
+whether that dog hadn’t gone to another dog, and thed, “You don’t happen
+to know a perthon of the name of Thleary, do you?  Perthon of the name of
+Thleary, in the Horthe-Riding way—thtout man—game eye?”  And whether that
+dog mightn’t have thed, “[[Well]], I can’t thay I know him mythelf, but I
+know a dog that I think would be likely to be acquainted with him.”  And
+whether that dog mightn’t have thought it over, and thed, “Thleary,
+Thleary!  O yeth, to be thure!  A friend of mine menthioned him to me at
+one [[Time|time]].  I can get you hith addreth directly.”  In conthequenth of my
+being afore the public, and going about tho muth, you thee, there mutht
+be a number of dogth acquainted with me, Thquire, that _I_ don’t know!’
+
+Mr. Gradgrind seemed to be quite confounded by this speculation.
+
+‘Any way,’ said Sleary, after putting his lips to his brandy and [[Water|water]],
+‘ith fourteen month ago, Thquire, thinthe we wath at Chethter.  We wath
+getting up our Children in the Wood one morning, when there cometh into
+our Ring, by the thtage door, a dog.  He had travelled a long way, he
+wath in a very bad condithon, he wath lame, and pretty [[Well|well]] blind.  He
+went round to our children, one after another, as if he wath a theeking
+for a [[Child|child]] he know’d; and then he come to me, and throwd hithelf up
+behind, and thtood on hith two forelegth, weak ath he wath, and then he
+wagged hith tail and died.  Thquire, that dog wath Merrylegth.’
+
+‘Sissy’s father’s dog!’
+
+‘Thethilia’th father’th old dog.  Now, Thquire, I can take my oath, from
+my knowledge of that dog, that that man wath dead—and buried—afore that
+dog come back to me.  Joth’phine and Childerth and me talked it over a
+long [[Time|time]], whether I thould write or not.  But we agreed, “No.  There’th
+nothing comfortable to tell; why unthettle her mind, and make her
+unhappy?”  Tho, whether her father bathely detherted her; or whether he
+broke hith own heart [[Alone|alone]], rather than pull her down along with him;
+never will be known, now, Thquire, till—no, not till we know how the
+dogth findth uth out!’
+
+‘She keeps the bottle that he sent her for, to this hour; and she will
+believe in his affection to the last moment of her life,’ said Mr.
+Gradgrind.
+
+‘It theemth to prethent two thingth to a perthon, don’t it, Thquire?’
+said Mr. Sleary, musing as he looked down into the depths of his brandy
+and [[Water|water]]: ‘one, that there ith a [[Love|love]] in the world, not all
+Thelf-interetht after all, but thomething very different; t’other, that
+it hath a way of ith own of calculating or not calculating, whith
+thomehow or another ith at leatht ath hard to give a name to, ath the
+wayth of the dogth ith!’
+
+Mr. Gradgrind looked out of [[Window|window]], and made no reply.  Mr. Sleary
+emptied his glass and recalled the ladies.
+
+‘Thethilia my dear, kith me and good-bye!  Mith Thquire, to thee you
+treating of her like a thithter, and a thithter that you trutht and
+[[Honour|honour]] with all your heart and more, ith a very pretty thight to me.  I
+[[Hope|hope]] your brother may live to be better detherving of you, and a greater
+comfort to you.  Thquire, thake handth, firtht and latht!  Don’t be croth
+with uth poor vagabondth.  People mutht be amuthed.  They can’t be
+alwayth a learning, nor yet they can’t be alwayth a working, they an’t
+made for it.  You _mutht_ have uth, Thquire.  Do the withe thing and the
+kind thing too, and make the betht of uth; not the wurtht!’
+
+‘And I never thought before,’ said Mr. Sleary, putting his head in at the
+door again to say it, ‘that I wath tho muth of a Cackler!’

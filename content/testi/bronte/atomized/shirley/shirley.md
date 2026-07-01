@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]]"
+title: "Shirley"
 author: "Bronte"
 unitType: work
 parentWork: "works/shirley-(bronte)"
@@ -1815,7 +1815,7 @@ myself baffled at every turn by their untoward effects."
 
 warehouse yonder, and observe how it is piled to the roof with pieces.
 
-Roakes and Pearson are in the same condition. [[America]] used to be their
+Roakes and Pearson are in the same condition. [[america|America]] used to be their
 
 market, but the Orders in Council have cut that off."
 
@@ -2191,7 +2191,7 @@ The "Orders in Council," provoked by Napoleon's Milan and Berlin
 
 decrees, and forbidding neutral powers to trade with France, had, by
 
-offending [[America]], cut off the principal market of the Yorkshire woollen
+offending [[america|America]], cut off the principal market of the Yorkshire woollen
 
 trade, and brought it consequently to the verge of ruin. Minor foreign
 
@@ -14245,7 +14245,7 @@ The trees behind were fine, bold, and spreading; the cedar on the lawn
 
 in front was grand; and the granite urns on the [[Garden|garden]] wall, the fretted
 
-arch of the gateway, were, for an [[Artist|artist]], as the very [[Desire|desire]] of the eye.
+arch of the gateway, were, for an [[artist]], as the very [[Desire|desire]] of the eye.
 
 
 
@@ -24397,7 +24397,7 @@ had known from her [[Childhood|childhood]]; unconsciously she was his ideal of a
 
 Her gentle mien, step, gestures, her grace of person and attire, moved
 
-some [[Artist|artist]]-fibres about his peasant heart. He had a pleasure in looking
+some [[artist]]-fibres about his peasant heart. He had a pleasure in looking
 
 at her, as he had in examining rare [[Flowers|flowers]] or in seeing pleasant
 
@@ -35137,7 +35137,7 @@ sumptuous luncheon was discussed.--"Would not you, Mr. Hall?"
 
 "To please you, I should; but, for my own part, I have cut him as an
 
-[[Artist|artist]]. I had enough of him in that capacity in Cumberland and
+[[artist]]. I had enough of him in that capacity in Cumberland and
 
 Westmoreland. Many a wetting we got amongst the [[Mountains|mountains]] because he
 
@@ -35595,7 +35595,7 @@ feel indifferent whether I am comprehended or not."
 
 
 
-"Any literary scrub, or shabby, whining [[Artist|artist]]."
+"Any literary scrub, or shabby, whining [[artist]]."
 
 
 
@@ -42401,7 +42401,7 @@ tell you his name."
 
 
 
-"Listen! [[arthur|Arthur]] Wellesley, Lord Wellington."
+"Listen! [[Arthur]] Wellesley, Lord Wellington."
 
 
 
@@ -49921,7 +49921,7 @@ This war _must_ ere long draw to a close. Trade is likely to prosper for
 
 some years to come. There may be a brief misunderstanding between
 
-England and [[America]], but that will not last. What would you think if,
+England and [[america|America]], but that will not last. What would you think if,
 
 one day--perhaps ere another ten years elapse--Louis and I divide
 
@@ -50481,7 +50481,7 @@ Toilers of the Sea" shows the conflict of man with [[Nature|nature]]; "The Laugh
 
 Man" expounds the tyranny of the aristocratic ideal as exemplified in
 
-England. But being a great [[Artist|artist]] as [[Well|well]] as a great thinker, he never
+England. But being a great [[artist]] as [[Well|well]] as a great thinker, he never
 
 turned his romances into pamphlets. Drama is always his aim, and no
 
@@ -50673,7 +50673,7 @@ On its first appearance, in 1850, it immediately leaped high into public
 
 favour, and attained the distinction of an unmistakable classic. The
 
-[[Tragedy|tragedy]] of Hester Prynne and [[arthur|Arthur]] Dimmesdale is wrought out in the
+[[Tragedy|tragedy]] of Hester Prynne and [[Arthur]] Dimmesdale is wrought out in the
 
 midst of an austere Puritan community, which exacts the bitterest
 

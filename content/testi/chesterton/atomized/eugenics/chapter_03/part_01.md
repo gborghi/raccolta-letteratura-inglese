@@ -1,5 +1,5 @@
 ---
-title: "[[Eugenics]] — Part 2 (part 1)"
+title: "Eugenics — Part 2 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/eugenics-(chesterton)"
@@ -108,7 +108,7 @@ Any fact so complete as the American exodus from the Empire must
 be considered as final for aeons, though it hardly happened more than
 a hundred years ago.  Merely because it has managed to occur it must
 be called first, a necessary evil, and then an indispensable good.
-I need not add that I do not want to reconquer [[america|America]]; but then
+I need not add that I do not want to reconquer [[America]]; but then
 I am not an Imperialist.
 
 Then there is another way of testing it:  ask yourself how many people

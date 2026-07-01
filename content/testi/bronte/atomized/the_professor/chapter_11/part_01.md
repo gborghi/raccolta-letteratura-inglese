@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 10 (part 1)"
+title: "The Professor — Chapter 10 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -16,8 +16,6 @@ tags:
 
 CHAPTER X.
 
-
-
 NEXT day the morning hours seemed to pass very slowly at M. Pelet’s; I
 
 wanted the afternoon to come that I might go again to the neighbouring
@@ -32,23 +30,15 @@ deep bell, tolling slowly two, marked the moment for which I had been
 
 waiting.
 
-
-
 At the foot of the narrow back-stairs that descended from my room, I met
 
 M. Pelet.
-
-
 
 “Comme vous avez l’air rayonnant!” said he. “Je ne vous ai jamais vu
 
 aussi gai. Que s’est-il donc passe?”
 
-
-
 “Apparemment que j’aime les changements,” replied I.
-
-
 
 “Ah! je comprends--c’est cela--soyez sage seulement. Vous etes bien
 
@@ -56,17 +46,11 @@ jeune--trop jeune pour le role que vous allez jouer; il faut prendre
 
 garde--savez-vous?”
 
-
-
 “Mais quel danger y a-t-il?”
-
-
 
 “Je n’en sais rien--ne vous laissez pas aller a de vives
 
 impressions--voila tout.”
-
-
 
 I laughed: a sentiment of exquisite pleasure played over my nerves at
 
@@ -83,8 +67,6 @@ some of anger. I broke from M. Pelet, and as I strode down the passage
 he followed me with one of his laughs--a very French, rakish, mocking
 
 sound.
-
-
 
 Again I stood at the neighbouring door, and soon was re-admitted into
 
@@ -116,8 +98,6 @@ mistress appeared, and I walked slowly along the corridor, side by side
 
 with Mdlle. Reuter.
 
-
-
 “Monsieur will give a lesson in the first class to-day,” said she;
 
 “dictation or reading will perhaps be the best thing to begin with, for
@@ -127,8 +107,6 @@ those are the easiest forms of communicating instruction in a foreign
 language; and, at the first, a master naturally feels a little
 
 unsettled.”
-
-
 
 She was quite right, as I had found from experience; it only remained
 
@@ -145,8 +123,6 @@ playground and [[Garden|garden]]; a broad staircase ascended spirally on the
 opposite side; the remaining wall showed a pair of great folding-doors,
 
 now closed, and admitting, doubtless, to the classes.
-
-
 
 Mdlle. Reuter turned her eye laterally on me, to ascertain, probably,
 
@@ -180,8 +156,6 @@ tableau; a wet sponge appeared beside the [[chalk]], to enable me to efface
 
 the marks when they had served the purpose intended.
 
-
-
 I carefully and deliberately made these observations before allowing
 
 myself to take one glance at the benches before me; having handled the
@@ -191,8 +165,6 @@ crayon, looked back at the tableau, fingered the sponge in order to
 ascertain that it was in a right state of moisture, I found myself cool
 
 enough to admit of looking calmly up and gazing deliberately round me.
-
-
 
 And first I observed that Mdlle. Reuter had already glided away, she
 
@@ -224,12 +196,6 @@ the first view like a stoic; I was dazzled, my eyes fell, and in a voice
 
 somewhat too low I murmured--
 
-
-
 “Prenez vos cahiers de dictee, mesdemoiselles.”
 
-
-
 Not so had I bid the boys at Pelet’s take their reading-books. A
-
-rustle followed, and an opening of desks; behind the lifted lids which

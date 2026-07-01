@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 1 (part 1)"
+title: "Persuasion — Chapter 1 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -223,7 +223,3 @@ it was only in Anne that she could fancy the mother to revive again.
 
 
 A few years before, [[Anne Elliot]] had been a very pretty girl, but her
-
-bloom had vanished early; and as even in its height, her father had
-
-found little to admire in her, (so totally different were her delicate

@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 34: MY AUNT ASTONISHES ME"
+title: "David Copperfield — Chapter 34: MY AUNT ASTONISHES ME"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/david-copperfield-(dickens)"

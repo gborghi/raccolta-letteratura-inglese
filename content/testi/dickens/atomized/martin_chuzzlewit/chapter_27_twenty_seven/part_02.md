@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 27: TWENTY SEVEN (part 2)"
+title: "Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_27_twenty_seven/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_27_twenty_seven/part_03">part 03 ›</a></div>
 </nav>
 
+
+The secretary smiled again; laughed, indeed, this [[Time|time]]; and said,
+rubbing his nose slily with one end of the portfolio:
 
 ‘It was a capital thought, wasn’t it?’
 

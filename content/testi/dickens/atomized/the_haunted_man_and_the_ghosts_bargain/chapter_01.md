@@ -1,5 +1,5 @@
 ---
-title: "The Haunted Man and the [[Ghost]]'s Bargain — Chapter 1"
+title: "The Haunted Man and the Ghost's Bargain — Chapter 1"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/the-haunted-man-and-the-ghost's-bargain-(dickens)"
@@ -778,7 +778,7 @@ confidence was locked as in my own), passing between me and the centre of
 the system of my hopes and struggles, won her to himself, and shattered
 my frail universe. My sister, doubly dear, doubly devoted, doubly
 cheerful in my [[Home|home]], lived on to see me famous, and my old [[Ambition|ambition]] so
-rewarded when its [[Spring|spring]] was broken, and then—”
+rewarded when its [[spring]] was broken, and then—”
 
 “Then died,” he interposed. “Died, gentle as ever; happy; and with no
 concern but for her brother. Peace!”
@@ -974,7 +974,7 @@ the boy what he did there, and whence he came.
 was so long gone, that I went to look for her, and lost myself. I don’t
 want you. I want the woman.”
 
-He made a [[Spring|spring]], so suddenly, to get away, that the dull sound of his
+He made a [[spring]], so suddenly, to get away, that the dull sound of his
 naked feet upon the floor was near the curtain, when Redlaw caught him by
 his rags.
 

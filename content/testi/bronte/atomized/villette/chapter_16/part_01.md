@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 16 (part 1)"
+title: "Villette — Chapter 16 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -114,15 +114,3 @@ without interruption. I did mightily [[Wonder|wonder]] how she came there, or wh
 she could have to do among the scenes, or with the days of my girlhood.
 Still more I marvelled what those scenes and days could now have to do
 with me.
-
-Too weak to scrutinize thoroughly the mystery, I tried to settle it by
-saying it was a mistake, [[A Dream|a dream]], a fever-fit; and yet I knew there
-could be no mistake, and that I was not sleeping, and I believed I was
-sane. I wished the room had not been so [[Well|well]] lighted, that I might not
-so clearly have seen the little pictures, the ornaments, the screens,
-the worked chair. All these objects, as [[Well|well]] as the blue-damask
-furniture, were, in fact, precisely the same, in every minutest detail,
-with those I so [[Well|well]] remembered, and with which I had been so
-thoroughly intimate, in the drawing-room of my godmother’s [[house]] at
-Bretton. Methought the apartment only was changed, being of different
-proportions and dimensions.

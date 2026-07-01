@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 52: I ASSIST AT AN EXPLOSION (part 4)"
+title: "David Copperfield — Chapter 52: I ASSIST AT AN EXPLOSION (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,30 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_52_i_assist_at_an_explosion/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_52_i_assist_at_an_explosion/part_05">part 05 ›</a></div>
 </nav>
 
+
+‘But, my Ury--’
+
+‘Will you hold your tongue, mother, and leave it to me?’
+
+Though I had long known that his servility was false, and all his
+pretences knavish and hollow, I had had no adequate conception of the
+extent of his hypocrisy, until I now saw him with his mask off. The
+suddenness with which he dropped it, when he perceived that it was
+useless to him; the malice, insolence, and hatred, he revealed; the leer
+with which he exulted, even at this moment, in the evil he had done--all
+this [[Time|time]] being desperate too, and at his wits’ end for the means
+of getting the better of us--though perfectly consistent with the
+experience I had of him, at first took even me by surprise, who had
+known him so long, and disliked him so heartily.
+
+I say nothing of the look he conferred on me, as he stood eyeing us,
+one after another; for I had always understood that he hated me, and I
+remembered the marks of my hand upon his cheek. But when his eyes passed
+on to Agnes, and I saw the rage with which he felt his power over her
+slipping away, and the exhibition, in their disappointment, of the
+odious passions that had led him to aspire to one whose virtues he could
+never appreciate or care for, I was shocked by the mere thought of her
+having lived, an hour, within sight of such a man.
 
 After some rubbing of the lower part of his face, and some looking at us
 with those bad eyes, over his grisly fingers, he made one more address
@@ -112,20 +136,3 @@ necessity had been foreseen by--HEEP? That those advances were secured
 by I.O.U.’s and other similar acknowledgements, known to the legal
 institutions of this country? And that I thus became immeshed in the web
 he had spun for my reception?”’
-
-Mr. Micawber’s enjoyment of his epistolary powers, in describing this
-unfortunate state of things, really seemed to outweigh any [[Pain|pain]] or
-anxiety that the reality could have caused him. He read on:
-
-‘“Then it was that--HEEP--began to favour me with just so much of his
-confidence, as was necessary to the discharge of his infernal business.
-Then it was that I began, if I may so Shakespearianly express myself, to
-dwindle, peak, and pine. I found that my services were constantly
-called into requisition for the falsification of business, and the
-[[Mystification|mystification]] of an individual whom I will designate as Mr. W. That Mr.
-W. was imposed upon, kept in ignorance, and deluded, in every possible
-way; yet, that all this while, the ruffian--HEEP--was professing
-unbounded gratitude to, and unbounded [[Friendship|friendship]] for, that much-abused
-gentleman. This was bad enough; but, as the philosophic Dane observes,
-with that universal applicability which distinguishes the illustrious
-ornament of the Elizabethan Era, worse remains behind!”’

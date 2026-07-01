@@ -1,5 +1,5 @@
 ---
-title: "[[The Angel of the Odd]] (part 3)"
+title: "The Angel of the Odd (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-angel-of-the-odd-(poe)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_angel_of_the_odd/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/the_angel_of_the_odd/part/part_04">part 04 ›</a></div>
 </nav>
 
+
+      betook myself again to my nap, and at length a second [[Time|time]] awoke,
+
+      when, to my utter amazement, it _still_ wanted twenty-seven
+
+      minutes of six. I jumped up to examine the [[Clock|clock]], and found that
 
       it had ceased running. My watch informed me that it was half past
 
@@ -187,15 +193,3 @@ tags:
       headlong into the current; the sole witness of my fate being a
 
       solitary crow that had been seduced into the eating of
-
-      brandy-saturated corn, and so had staggered away from his
-
-      fellows. No sooner had I entered the [[Water|water]] than this bird took it
-
-      into its head to fly away with the most indispensable portion of
-
-      my apparel. Postponing, therefore, for the present, my suicidal
-
-      design, I just slipped my nether extremities into the sleeves of
-
-      my coat, and betook myself to a pursuit of the felon with all the

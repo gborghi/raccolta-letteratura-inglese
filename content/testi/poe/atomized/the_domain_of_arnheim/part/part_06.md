@@ -1,5 +1,5 @@
 ---
-title: "[[The Domain of Arnheim]] (part 6)"
+title: "The Domain of Arnheim (part 6)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-domain-of-arnheim-(poe)"

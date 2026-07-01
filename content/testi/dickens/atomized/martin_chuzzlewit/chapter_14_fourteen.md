@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 14: FOURTEEN"
+title: "Martin Chuzzlewit — Chapter 14: FOURTEEN"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -120,7 +120,7 @@ your sake. I am going,’ he added slowly, looking far into the deep
 
 ‘Abroad, Martin!’
 
-‘Only to [[America]]. See now. How you droop directly!’
+‘Only to [[america|America]]. See now. How you droop directly!’
 
 ‘If I do, or, I [[Hope|hope]] I may say, if I did,’ she answered, raising her
 head after a short [[Silence|silence]], and looking once more into his face, ‘it was
@@ -194,7 +194,7 @@ over his shoulder, that there was no one near, and that Mark was still
 intent upon the fog, not only looked at her lips, too, but kissed them
 into the bargain.
 
-‘Now I am going to [[America]], with great prospects of doing [[Well|well]], and of
+‘Now I am going to [[america|America]], with great prospects of doing [[Well|well]], and of
 returning [[Home|home]] myself very soon; it may be to take you there for a few
 years, but, at all events, to claim you for my wife; which, after such
 trials, I should do with no [[Fear|fear]] of your still thinking it a duty to
@@ -261,7 +261,7 @@ thinks an angel.’
 ‘Mr Pecksniff again?’ asked Mary.
 
 ‘The same,’ said Martin ‘--will be at once apparent to you. I have
-completed my arrangements for going to [[America]]; and you will be
+completed my arrangements for going to [[america|America]]; and you will be
 surprised to hear that I am to be accompanied by [[Mark Tapley]], upon whom
 I have stumbled strangely in [[London]], and who insists on putting himself
 under my protection’--meaning, my [[Love|love]],’ said Martin, breaking off

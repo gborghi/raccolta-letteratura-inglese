@@ -14,113 +14,115 @@ tags:
 </nav>
 
 
-It happened that the other day I hired a motor-car, because I wanted
-to visit in very rapid succession the battle-places and hiding-places
-of Alfred the Great; and for a thing of this sort a motor is
-really appropriate.  It is not by any means the best way of seeing
-the [[Beauty|beauty]] of the country; you see [[Beauty|beauty]] better by walking, and best
-of all by sitting still.  But it is a good method in any enterprise
-that involves a [[Parody|parody]] of the military or governmental quality--
-anything which needs to know quickly the whole contour of a county
-or the rough, relative position of men and towns.  On such a [[Journey|journey]],
-like jagged [[Lightning|lightning]], I sat from morning till [[Night|night]] by the side
-of the chauffeur; and we scarcely exchanged a word to the hour.
-But by the [[Time|time]] the yellow [[Stars|stars]] came out in the villages and
-the white [[Stars|stars]] in the skies, I think I understood his character;
-and I [[Fear|fear]] he understood mine.
+-/-
 
-He was a Cheshire man with a sour, patient, and humorous face;
-he was modest, though a north countryman, and genial, though an expert.
-He spoke (when he spoke at all) with a strong northland accent;
-and he evidently was new to the beautiful south country,
-as was clear both from his approval and his complaints.
-But though he came from the north he was agricultural and not
-commercial in origin; he looked at the land rather than the towns,
-even if he looked at it with a somewhat more sharp and utilitarian eye.
-His first remark for some hours was uttered when we were crossing
-the more coarse and desolate heights of Salisbury Plain.
-He remarked that he had always thought that Salisbury Plain was a plain.
-This [[Alone|alone]] showed that he was new to the vicinity.  But he also said,
-with a critical frown, "A lot of this land ought to be good land enough.
-Why don't they use it?"  He was then silent for some more hours.
+The Sentimentalist
 
-At an abrupt angle of the slopes that lead down from what is called
-(with no little [[Humour|humour]]) Salisbury Plain, I saw suddenly, as by accident,
-something I was looking for--that is, something I did not expect to see.
-We are all supposed to be trying to walk into heaven; but we
-should be uncommonly astonished if we suddenly walked into it.
-As I was leaving Salisbury Plain (to put it roughly) I lifted up
-my eyes and saw the White [[Horse]] of Britain.
+"SENTIMENTALISM is the most broken reed on which righteousness can lean";
+these were, I think, the exact words of a distinguished American visitor
+at the Guildhall, and may Heaven forgive me if I do him a wrong.
+It was spoken in illustration of the folly of supporting Egyptian
+and other Oriental nationalism, and it has tempted me to some
+reflections on the first word of the sentence.
 
-One or two truly fine poets of the Tory and Protestant type,
-such as Swinburne and Mr. Rudyard Kipling, have eulogised
-England under the image of white horses, meaning the white-maned
-breakers of the Channel.  This is right and natural enough.
-The true philosophical Tory goes back to ancient things because
-he thinks they will be anarchic things.  It would startle him very
-much to be told that there are white horses of artifice in England
-that may be older than those wild white horses of the elements.
-Yet it is truly so.  Nobody knows how old are those strange green
-and white hieroglyphics, those straggling quadrupeds of [[chalk]],
-that stand out on the sides of so many of the Southern Downs.
-They are possibly older than Saxon and older than Roman times.
-They may [[Well|well]] be older than British, older than any recorded times.
-They may go back, for all we know, to the first faint seeds
-of human life on this planet.  Men may have picked a [[Horse|horse]]
-out of the grass long before they scratched a [[Horse|horse]] on
-a vase or pot, or messed and massed any [[Horse|horse]] out of clay.
-This may be the oldest human art--before building or graving.
-And if so, it may have first happened in another geological age,
-before the sea burst through the narrow Straits of Dover.
-The White [[Horse]] may have begun in Berkshire when there were no white
-horses at Folkestone or Newhaven.  That rude but evident white
-outline that I saw across the valley may have been begun when Britain
-was not an island.  We forget that there are many places where art
-is older than [[Nature|nature]].
+The Sentimentalist, roughly speaking, is the man who wants to eat
+his cake and have it.  He has no sense of [[Honour|honour]] about ideas;
+he will not see that one must pay for an idea as for anything else.
+He will not see that any worthy idea, like any honest woman, can only
+be won on its own terms, and with its logical chain of loyalty.
+One idea attracts him; another idea really inspires him;
+a third idea flatters him; a fourth idea pays him.
+He will have them all at once in one wild intellectual harem,
+no matter how much they quarrel and contradict each other.
+The Sentimentalist is a philosophic profligate, who tries to capture
+every mental [[Beauty|beauty]] without reference to its rival beauties;
+who will not even be off with the old [[Love|love]] before he is on with the new.
+Thus if a man were to say, "I [[Love|love]] this woman, but I may some day
+find my affinity in some other woman," he would be a Sentimentalist.
+He would be saying, "I will eat my wedding-cake and keep it."
+Or if a man should say, "I am a Republican, believing in
+the equality of citizens; but when the [[government|Government]] has given
+me my peerage I can do infinite good as a kind landlord and a
+wise legislator"; then that man would be a Sentimentalist.
+He would be trying to keep at the same [[Time|time]] the classic austerity
+of equality and also the vulgar excitement of an [[aristocrat]].
+Or if a man should say, "I am in favour of religious equality;
+but I must preserve the Protestant Succession," he would be a
+Sentimentalist of a grosser and more improbable kind.
 
-We took a long detour through somewhat easier roads, till we came
-to a breach or chasm in the valley, from which we saw our friend
-the White [[Horse]] once more.  At least, we thought it was our friend
-the White [[Horse]]; but after a little inquiry we discovered to our
-astonishment that it was another friend and another [[Horse|horse]].
-Along the leaning flanks of the same fair valley there was (it seemed)
-another white [[Horse|horse]]; as rude and as clean, as ancient and as modern,
-as the first.  This, at least, I thought must be the aboriginal
-White [[Horse]] of Alfred, which I had always heard associated with his name.
-And yet before we had driven into Wantage and seen [[King Alfred]]'s
-quaint grey statue in the sun, we had seen yet a third white [[Horse|horse]].
-And the third white [[Horse|horse]] was so hopelessly unlike a [[Horse|horse]] that we were
-sure that it was genuine.  The final and original white [[Horse|horse]], the white
-[[Horse|horse]] of the White [[Horse]] Vale, has that big, babyish quality that truly
-belongs to our remotest ancestors.  It really has the prehistoric,
-preposterous quality of Zulu or New Zealand native drawings.
-This at least was surely made by our fathers when they were barely men;
-long before they were civilised men.
+This is the essence of the Sentimentalist:  that he seeks to enjoy every
+idea without its sequence, and every pleasure without its consequence.
 
-But why was it made?  Why did barbarians take so much trouble
-to make a [[Horse|horse]] nearly as big as a [[Hamlet|hamlet]]; a [[Horse|horse]] who could
-bear no hunter, who could drag no load?  What was this [[titanic]],
-sub-conscious instinct for spoiling a beautiful green slope
-with a very ugly white quadruped?  What (for the matter of that)
-is this whole hazardous fancy of humanity ruling the earth,
-which may have begun with white horses, which may by no means end
-with twenty [[Horse|horse]]-power cars?  As I rolled away out of that country,
-I was still cloudily considering how ordinary men ever came
-to want to make such strange [[chalk]] horses, when my chauffeur
-startled me by speaking for the first [[Time|time]] for nearly two hours.
-He suddenly let go one of the handles and pointed at a gross green
-bulk of down that happened to swell above us.
+Now it would really be hard to find a worse case of this inconsequent
+sentimentalism than the theory of the British Empire advanced
+by Mr. Roosevelt himself in his attack on Sentimentalists.
+For the Imperial theory, the Roosevelt and Kipling theory, of our
+relation to Eastern races is simply one of eating the Oriental cake
+(I suppose a Sultana Cake) and at the same [[Time|time]] leaving it [[Alone|alone]].
 
-"That would be a good place," he said.
+Now there are two sane attitudes of a European statesman towards
+Eastern peoples, and there are only two.
 
-Naturally I referred to his last speech of some hours before;
-and supposed he meant that it would be promising for agriculture.
-As a fact, it was quite unpromising; and this made me suddenly understand
-the quiet ardour in his eye.  All of a sudden I saw what he really meant.
-He really meant that this would be a splendid place to pick out
-another white [[Horse|horse]].  He knew no more than I did why it was done;
-but he was in some unthinkable prehistoric tradition, because he wanted
-to do it.  He became so acute in sensibility that he could not bear
-to pass any broad breezy [[Hill|hill]] of grass on which there was _not_
-a white [[Horse|horse]].  He could hardly keep his hands off the hills.
-He could hardly leave any of the living grass [[Alone|alone]].
+First, he may simply say that the less we have to do with them
+the better; that whether they are lower than us or higher they
+are so catastrophically different that the more we go our way
+and they go theirs the better for all parties concerned.
+I will confess to some tenderness for this view.  There is much
+to be said for letting that calm immemorial life of slave
+and sultan, temple and palm tree flow on as it has always flowed.
+The best reason of all, the reason that affects me most finally,
+is that if we left the rest of the world [[Alone|alone]] we might have
+some [[Time|time]] for attending to our own affairs, which are urgent
+to the point of excruciation.  All [[history]] points to this;
+that intensive cultivation in the long run triumphs over the widest
+extensive cultivation; or, in other words, that making one's own
+field superior is far more effective than reducing other people's
+fields to inferiority.  If you cultivate your own [[Garden|garden]] and grow
+a specially large cabbage, people will probably come to see it.
+Whereas the life of one selling small cabbages round the whole
+district is often forlorn.
+
+Now, the Imperial Pioneer is essentially a commercial traveller;
+and a commercial traveller is essentially a person who goes to see people
+because they don't want to see him.  As long as empires go about urging
+their ideas on others, I always have a notion that the ideas are no good.
+If they were really so splendid, they would make the country
+preaching them a [[Wonder|wonder]] of the world.  That is the true ideal;
+a great nation ought not to be a hammer, but a magnet.
+Men went to the mediaeval Sorbonne because it was worth going to.
+Men went to old Japan because only there could they find the unique
+and exquisite old Japanese art.  Nobody will ever go to modern Japan
+(nobody worth bothering about, I mean), because modern Japan
+has made the huge mistake of going to the other people:
+becoming a common empire.  The mountain has condescended to Mahomet;
+and henceforth Mahomet will whistle for it when he wants it.
+
+* * * * *
+
+That is my political theory:  that we should make England worth
+copying instead of telling everybody to copy her.
+
+But it is not the only possible theory.  There is another view of our
+relations to such places as [[Egypt]] and India which is entirely tenable.
+It may be said, "We Europeans are the heirs of the Roman Empire;
+when all is said we have the largest [[Freedom|freedom]], the most exact science,
+the most solid [[Romance|romance]].  We have a deep though undefined obligation
+to give as we have received from God; because the tribes of men are
+truly thirsting for these things as for [[Water|water]].  All men really want
+clear laws:  we can give clear laws.  All men really want hygiene:
+we can give hygiene.  We are not merely imposing Western ideas.
+We are simply fulfilling human ideas--for the first [[Time|time]]."
+
+On this line, I think, it is possible to justify the forts of Africa
+and the railroads of Asia; but on this line we must go much further.
+If it is our duty to give our best, there can be no [[Doubt|doubt]] about what is
+our best.  The greatest thing our Europe has made is the Citizen:
+the idea of the average man, free and full of [[Honour|honour]],
+voluntarily invoking on his own sin the just vengeance of his [[City|city]].
+All else we have done is mere machinery for that:
+railways exist only to carry the Citizen; forts only to defend him;
+electricity only to light him, medicine only to heal him.
+Popularism, the idea of the people alive and patiently feeding [[history]],
+that we cannot give; for it exists everywhere, East and West.
+But [[democracy]], the idea of the people fighting and governing--
+that is the only thing we have to give.

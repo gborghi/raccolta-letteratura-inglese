@@ -1,5 +1,5 @@
 ---
-title: "[[queertrades]] — Chapter 1 (part 3)"
+title: "queertrades — Chapter 1 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/queertrades-(chesterton)"
@@ -139,12 +139,3 @@ for both of us.  Whenever--"
 
 But even as she spoke her speech was cloven by another hoarse
 proclamation from the dark street, again horribly articulate.
-
-"Major Brown, Major Brown, how did the jackal die?"
-
-Brown dashed out of the door and down the steps, but again
-he was frustrated; there was no figure in sight, and the street
-was far too long and empty for the shouter to have run away.
-Even the rational Major was a little shaken as he returned in a
-certain [[Time|time]] to the drawing-room. Scarcely had he done so than
-the terrific voice came:

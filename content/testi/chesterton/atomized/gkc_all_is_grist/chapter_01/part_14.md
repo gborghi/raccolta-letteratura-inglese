@@ -14,13 +14,25 @@ tags:
 </nav>
 
 
+Far above all these people, like gods on Olympus, like higher
+beings living on a loftier plane, there are two or three people
+who are of prodigious public importance, like emperors or kings.
+The tone of everybody else in talking about them implies the remote
+condescension of a sovereign.  The obvious example is the Duke of Omnium.
+He is spoken of as playing a great princely part like a prince.
+We need not deny him the credit, but we need not disguise the fact
+that his importance rested on being what we call a millionaire.
+More presentable, I admit, than the millionaires who are flattered
+to-day. But he is ruler of all England because he is gigantically rich.
+Now this kind of man is always a Whig.
+
 What the serious historians have disguised the frivolous novelist
 has detected.  Their histories are fiction and his fiction is [[history]].
 That is the [[Truth|truth]]; and that is Trollope's unconscious
 witness to what the Whigs really did in English [[history]];
 why they were able to overthrow the Stuarts; why they were able
 to dominate the common traditional Tories like Dr. Thorne.
-What the Revolution did was obviously not to establish a [[Democracy|democracy]];
+What the Revolution did was obviously not to establish a [[democracy]];
 not even to establish a normal and national gentry; not even to
 establish a mere rustic squirearchy.  It was to establish certain
 great magnates, whose wealth and power was far out of proportion

@@ -94,7 +94,7 @@ If you have not read the end of his story, go and read it;
 it is the wisest thing in the world.  The [[Hero|hero]] was at last taught
 to shudder by taking a wife, who threw a pail of cold [[Water|water]] over him.
 In that one sentence there is more of the real meaning of [[Marriage|marriage]]
-than in all the books about sex that cover Europe and [[America]].
+than in all the books about sex that cover Europe and [[america|America]].
 
 . . . . .
 

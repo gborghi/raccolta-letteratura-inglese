@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 38 (part 2)"
+title: "Sense and Sensibility — Chapter 38 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_38/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_38/part_03">part 03 ›</a></div>
 </nav>
 
+
+brother’s Wednesday, and we saw nothing of him not all [[thursday|Thursday]],
+
+Friday, and Saturday, and did not know what was become of him. Once
 
 Lucy thought to write to him, but then her spirits [[Rose|rose]] against that.
 
@@ -199,13 +203,3 @@ about it myself, but pray tell her I am quite happy to hear she is not
 in anger against us, and Lady Middleton the same; and if anything
 
 should happen to take you and your sister away, and Mrs. Jennings
-
-should want company, I am sure we should be very glad to come and stay
-
-with her for as long a [[Time|time]] as she likes. I suppose Lady Middleton
-
-won’t ask us any more this bout. Good-by; I am sorry Miss Marianne was
-
-not here. Remember me kindly to her. La! if you have not got your
-
-spotted muslin on!—I [[Wonder|wonder]] you was not afraid of its being torn.”

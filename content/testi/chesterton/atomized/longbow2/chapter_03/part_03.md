@@ -1,5 +1,5 @@
 ---
-title: "[[longbow2]] — Chapter 3 (part 3)"
+title: "longbow2 — Chapter 3 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/longbow2/chapter_03/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/longbow2/chapter_03/part_04">part 04 ›</a></div>
 </nav>
 
+
+"Loud and prolonged cheers," said Crane politely, "and now come
+away and don't spoil the peroration.  Owen wants to potter about
+the local antiquities, like Mr. Oates.  I'm more interested
+in novelties.  Want to look at that [[Machine|machine]] of yours."
 
 They began to descend the zig-zag pebbled path fenced and embanked
 with hedges and flower-beds like a [[Garden|garden]] grown on a staircase,
@@ -125,19 +130,3 @@ That is the unpardonable sin; that is the supreme blasphemy and
 crime against the [[Nature|nature]] of things, which shall not go unavenged. 
 You shall have pigs, I say, if the skies fall and the whole world
 is whelmed in war."
-
-He disappeared like a flash behind the high bank and the wall,
-and Joan went back in [[Silence|silence]] to the inn.
-
-The first incident of the war did not seem superficially encouraging,
-though the [[Hero|hero]] of it seemed by no means discouraged by it. 
-As reported in the police news of various papers, Hilary Patrick Pierce,
-formerly of the Flying Corps, was arrested for driving pigs into
-the county of Bluntshire, in contravention of the regulations made
-for the public health.  He seemed to have had almost as much trouble
-with the pigs as with the police; but he made a witty and eloquent
-speech on being arrested, to which the police and the pigs appeared
-to be equally unresponsive.  The incident was considered trivial
-and his punishment was trifling; but the occasion was valued
-by some of the authorities as giving an opportunity for the final
-elucidation and establishment of the new rule.

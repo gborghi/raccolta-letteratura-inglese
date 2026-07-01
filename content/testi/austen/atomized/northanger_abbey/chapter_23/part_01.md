@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 22 (part 1)"
+title: "Northanger Abbey — Chapter 22 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -211,13 +211,3 @@ my sister a pleasant mode of instruction?”
 
 
 Catherine was saved the embarrassment of attempting an answer by the
-
-entrance of the General, whose smiling compliments announced a happy
-
-state of mind, but whose gentle hint of sympathetic early rising did
-
-not advance her composure.
-
-
-
-The elegance of the breakfast set forced itself on Catherine’s notice

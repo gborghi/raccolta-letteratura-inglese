@@ -1,5 +1,5 @@
 ---
-title: "whats wrong — Part 3 (part 6)"
+title: "whats wrong — Part 4 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/whats-wrong-(chesterton)"
@@ -14,114 +14,117 @@ tags:
 </nav>
 
 
-I am not expressing my own views here, but those of nearly
-all the women I have known.  It is quite unfair to say that
-a woman hates other women individually; but I think it would
-be quite true to say that she detests them in a confused heap.
-And this is not because she despises her own sex, but because she
-respects it; and respects especially that sanctity and separation
-of each item which is represented in manners by the idea of dignity
-and in morals by the idea of chastity.
+There are no uneducated people.  Everybody in England is educated;
+only most people are educated wrong.  The state schools were not
+the first schools, but among the last schools to be established;
+and [[London]] had been educating Londoners long before the
+[[London]] School Board.  The error is a highly practical one.
+It is persistently assumed that unless a [[Child|child]] is civilized by
+the established schools, he must remain a barbarian.  I wish he did.
+Every [[Child|child]] in [[London]] becomes a highly civilized person.
+But here are so many different civilizations, most of them born tired.
+Anyone will tell you that the trouble with the poor is not so much that
+the old are still foolish, but rather that the young are already wise.
+Without going to school at all, the gutter-boy would be educated.
+Without going to school at all, he would be over-educated. The
+real object of our schools should be not so much to suggest
+complexity as solely to restore simplicity.  You will hear venerable
+idealists declare we must make war on the ignorance of the poor;
+but, indeed, we have rather to make war on their knowledge.
+Real educationists have to resist a kind of roaring cataract
+of culture.  The truant is being taught all day.  If the children
+do not look at the large letters in the spelling-book, they need
+only walk outside and look at the large letters on the poster.
+If they do not care for the colored maps provided by the school,
+they can gape at the colored maps provided by the Daily Mail.  If they
+tire of electricity, they can take to electric trams.
+If they are unmoved by music, they can take to drink.
+If they will not work so as to get a prize from their school,
+they may work to get a prize from Prizy Bits.  If they cannot
+learn enough about law and citizenship to please the teacher,
+they learn enough about them to avoid the policeman.  If they will
+not learn [[history]] forwards from the right end in the [[history]] books,
+they will learn it backwards from the wrong end in the party newspapers.
+And this is the [[Tragedy|tragedy]] of the whole affair:  that the [[London]] poor,
+a particularly quick-witted and civilized class, learn everything
+tail foremost, learn even what is right in the way of what is wrong.
+They do not see the first principles of law in a law book;
+they only see its last results in the police news.
+They do not see the truths of politics in a general survey.
+They only see the lies of politics, at a General Election.
+
+But whatever be the pathos of the [[London]] poor, it has nothing
+to do with being uneducated.  So far from being without guidance,
+they are guided constantly, earnestly, excitedly; only guided wrong.
+The poor are not at all neglected, they are merely oppressed;
+nay, rather they are persecuted.  There are no people in [[London]]
+who are not appealed to by the rich; the appeals of the rich
+shriek from every hoarding and shout from every hustings.
+For it should always be remembered that the queer, abrupt ugliness
+of our streets and costumes are not the creation of [[Democracy|democracy]],
+but of aristocracy.  The [[house|House]] of Lords objected to the Embankment
+being disfigured by trams.  But most of the rich men who disfigure
+the street-walls with their wares are actually in the [[house|House]]
+of Lords.  The peers make the country seats beautiful by making
+the town streets hideous.  This, however, is parenthetical.
+The point is, that the poor in [[London]] are not left [[Alone|alone]],
+but rather deafened and bewildered with raucous and despotic advice.
+They are not like sheep without a shepherd.  They are more like one
+sheep whom twenty-seven shepherds are shouting at.  All the newspapers,
+all the new advertisements, all the new medicines and new theologies,
+all the glare and blare of the gas and brass of modern times--
+it is against these that the national school must bear up if it can.
+I will not question that our elementary [[Education|education]] is better
+than barbaric ignorance.  But there is no barbaric ignorance.
+I do not [[Doubt|doubt]] that our schools would be good for uninstructed boys.
+But there are no uninstructed boys.  A modern [[London]] school
+ought not merely to be clearer, kindlier, more clever and more
+rapid than ignorance and darkness.  It must also be clearer
+than a picture postcard, cleverer than a Limerick competition,
+quicker than the tram, and kindlier than the tavern.  The school,
+in fact, has the responsibility of universal rivalry.  We need not
+deny that everywhere there is a light that must conquer darkness.
+But here we demand a light that can conquer light.
 
 * * *
 
-V
+VIII
 
-THE COLDNESS OF CHLOE
+THE BROKEN RAINBOW
 
-We hear much of the human error which accepts what is sham
-and what is real.  But it is worth while to remember that with
-unfamiliar things we often mistake what is real for what is sham.
-It is true that a very young man may think the wig of an
-actress is her hair.  But it is equally true that a [[Child|child]]
-yet younger may call the hair of a negro his wig.
-Just because the woolly savage is remote and barbaric he seems
-to be unnaturally neat and tidy.  Everyone must have noticed
-the same thing in the fixed and almost offensive color
-of all unfamiliar things, tropic [[Birds|birds]] and tropic blossoms.
-Tropic [[Birds|birds]] look like staring toys out of a toy-shop. Tropic [[Flowers|flowers]]
-simply look like artificial [[Flowers|flowers]], like things cut out of wax.
-This is a deep matter, and, I think, not unconnected with divinity;
-but anyhow it is the [[Truth|truth]] that when we see things for the first
-[[Time|time]] we feel instantly that they are fictive creations;
-we feel the finger of God.  It is only when we are thoroughly used
-to them and our five wits are wearied, that we see them as wild
-and objectless; like the shapeless tree-tops or the shifting cloud.
-It is the design in [[Nature]] that strikes us first; the sense
-of the crosses and confusions in that design only comes
-afterwards through experience and an almost eerie monotony.
-If a man saw the [[Stars|stars]] abruptly by accident he would
-think them as festive and as artificial as a firework.
-We talk of the folly of painting the lily; but if we saw
-the lily without warning we should think that it was painted.
-We talk of the devil not being so black as he is painted;
-but that very phrase is a testimony to the kinship between
-what is called vivid and what is called artificial.
-If the modern sage had only one glimpse of grass and sky,
-he would say that grass was not as green as it was painted;
-that sky was not as blue as it was painted.  If one could see
-the whole universe suddenly, it would look like a bright-colored toy,
-just as the South American hornbill looks like a bright-colored toy.
-And so they are--both of them, I mean.
-
-But it was not with this aspect of the startling air of
-artifice about all strange objects that I meant to deal.
-I mean merely, as a guide to [[history]], that we should not be surprised
-if things wrought in fashions remote from ours seem artificial;
-we should convince ourselves that nine times out of ten
-these things are nakedly and almost indecently honest.
-You will hear men talk of the frosted classicism of Corneille
-or of the powdered pomposities of the eighteenth century,
-but all these phrases are very superficial.  There never was
-an artificial epoch.  There never was an age of reason.
-Men were always men and women women:  and their two generous appetites
-always were the expression of passion and the telling of [[Truth|truth]].
-We can see something stiff and quaint in their mode of expression,
-just as our descendants will see something stiff and quaint
-in our coarsest slum [[Sketch|sketch]] or our most naked pathological play.
-But men have never talked about anything but important things;
-and the next force in femininity which we have to consider can
-be considered best perhaps in some dusty old volume of verses
-by a person of quality.
-
-The eighteenth century is spoken of as the period of artificiality,
-in externals at least; but, indeed, there may be two words about that.
-In modern speech one uses artificiality as meaning indefinitely a sort
-of deceit; and the eighteenth century was far too artificial to deceive.
-It cultivated that completest art that does not conceal the art.
-Its fashions and costumes positively revealed [[Nature|nature]] by allowing artifice;
-as in that obvious instance of a barbering that frosted every head with
-the same silver.  It would be fantastic to call this a quaint [[Humility|humility]]
-that concealed youth; but, at least, it was not one with the evil [[Pride|pride]]
-that conceals old age.  Under the eighteenth century fashion people
-did not so much all pretend to be young, as all agree to be old.
-The same applies to the most odd and unnatural of their fashions;
-they were freakish, but they were not false.  A lady may or may
-not be as red as she is painted, but plainly she was not so black
-as she was patched.
-
-But I only introduce the reader into this atmosphere of the older
-and franker fictions that he may be induced to have patience for a
-moment with a certain element which is very common in the decoration
-and literature of that age and of the two centuries preceding it.
-It is necessary to mention it in such a connection because it
-is exactly one of those things that look as superficial as powder,
-and are really as rooted as hair.
-
-In all the old flowery and [[Pastoral|pastoral]] [[Love|love]]-[[songs]], those of the
-seventeenth and eighteenth centuries especially, you will find
-a perpetual reproach against woman in the matter of her coldness;
-ceaseless and stale similes that compare her eyes to northern [[Stars|stars]],
-her heart to ice, or her bosom to [[Snow|snow]].  Now most of us have always
-supposed these old and iterant phrases to be a mere pattern of dead words,
-a thing like a cold wall-paper. Yet I think those old cavalier poets
-who wrote about the coldness of Chloe had hold of a psychological
-[[Truth|truth]] missed in nearly all the realistic novels of today.
-Our psychological romancers perpetually represent wives as striking
-terror into their husbands by [[rolling]] on the floor, gnashing their teeth,
-throwing about the furniture or poisoning the coffee; all this upon
-some strange fixed theory that women are what they call emotional.
-But in [[Truth|truth]] the old and frigid form is much nearer to the vital fact.
-Most men if they spoke with any sincerity would agree that the most
-terrible quality in women, whether in [[Friendship|friendship]], courtship or [[Marriage|marriage]],
-was not so much being emotional as being unemotional.
+I will take one case that will serve both as symbol and example:
+the case of color.  We hear the realists (those sentimental fellows)
+talking about the gray streets and the gray lives of the poor.
+But whatever the poor streets are they are not gray;
+but motley, striped, spotted, piebald and patched like a quilt.
+Hoxton is not aesthetic enough to be monochrome; and there is
+nothing of the Celtic twilight about it.  As a matter of fact,
+a [[London]] gutter-boy walks unscathed among furnaces of color.
+Watch him walk along a line of hoardings, and you will see him
+now against glowing green, like a traveler in a tropic forest;
+now black like a bird against the burning blue of the Midi;
+now passant across a field gules, like the golden leopards
+of England.  He ought to understand the irrational rapture of that cry
+of Mr. Stephen Phillips about "that bluer blue, that greener green."
+There is no blue much bluer than Reckitt's Blue and no blacking
+blacker than Day and Martin's; no more emphatic yellow than
+that of Colman's Mustard.  If, despite this chaos of color,
+like a shattered rainbow, the spirit of the small boy is not exactly
+intoxicated with art and culture, the cause certainly does not lie
+in universal grayness or the mere starving of his senses.  It lies
+in the fact that the colors are presented in the wrong connection,
+on the wrong scale, and, above all, from the wrong motive.
+It is not colors he lacks, but a [[philosophy]] of colors.
+In short, there is nothing wrong with Reckitt's Blue except that it
+is not Reckitt's. Blue does not belong to Reckitt, but to the sky;
+black does not belong to Day and Martin, but to the abyss.
+Even the finest posters are only very little things on a very
+large scale.  There is something specially irritant in this way
+about the iteration of advertisements of mustard:  a condiment,
+a small luxury; a thing in its [[Nature|nature]] not to be taken in quantity.
+There is a special irony in these starving streets to see
+such a great deal of mustard to such very little meat.
+Yellow is a bright pigment; mustard is a pungent pleasure.
+But to look at these seas of yellow is to be like a man
+who should [[Swallow|swallow]] gallons of mustard.  He would either die,
+or lose the taste of mustard altogether.

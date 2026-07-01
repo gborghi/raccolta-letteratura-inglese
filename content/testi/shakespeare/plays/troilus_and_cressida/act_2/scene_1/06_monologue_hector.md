@@ -1,5 +1,5 @@
 ---
-title: "[[Troilus]] and [[Cressida]] — Act II, Scene 1 — monologue ([[Hector|HECTOR]]) [6]"
+title: "Troilus and Cressida — Act II, Scene 1 — monologue (HECTOR) [6]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/troilus-and-cressida-(shakespeare)"

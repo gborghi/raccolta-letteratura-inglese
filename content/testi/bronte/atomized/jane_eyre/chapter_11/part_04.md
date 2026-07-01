@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 11 (part 4)"
+title: "Jane Eyre — Chapter 11 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_11/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_11/part_05">part 05 ›</a></div>
 </nav>
 
+
+As I was meditating on this discovery, a little girl, followed by her
+attendant, came running up the lawn. I looked at my pupil, who did not
+at first appear to notice me: she was quite a [[Child|child]], perhaps seven or
+eight years old, slightly built, with a pale, small-featured face, and
+a redundancy of hair falling in curls to her waist.
+
+“Good morning, Miss Adela,” said Mrs. Fairfax. “Come and speak to the
+lady who is to teach you, and to make you a clever woman some day.” She
+approached.
+
+“C’est là ma gouvernante!” said she, pointing to me, and addressing her
+[[Nurse|nurse]]; who answered—
 
 “Mais oui, certainement.”
 
@@ -122,17 +135,3 @@ Rochester before I knew Madame Frédéric, and he was always kind to me
 and gave me pretty dresses and toys: but you see he has not kept his
 word, for he has brought me to England, and now he is gone back again
 himself, and I never see him.”
-
-After breakfast, Adèle and I withdrew to the library, which room, it
-appears, Mr. Rochester had directed should be used as the schoolroom.
-Most of the books were locked up behind glass doors; but there was one
-bookcase left open containing everything that could be needed in the
-way of elementary works, and several volumes of light literature,
-poetry, [[Biography|biography]], travels, a few romances, &c. I suppose he had
-considered that these were all the governess would require for her
-private perusal; and, indeed, they contented me amply for the present;
-compared with the scanty pickings I had now and then been able to glean
-at Lowood, they seemed to offer an abundant harvest of entertainment
-and information. In this room, too, there was a cabinet piano, quite
-new and of superior tone; also an easel for painting and a pair of
-globes.

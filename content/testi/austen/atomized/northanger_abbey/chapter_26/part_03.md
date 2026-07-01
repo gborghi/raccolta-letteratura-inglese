@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 25 (part 3)"
+title: "Northanger Abbey — Chapter 25 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -12,6 +12,20 @@ tags:
 <div class="excerpt-crumb">Austen · <a href="/works/northanger-abbey-(austen)">Northanger Abbey</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_26/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_27/part_01">part 01 ›</a></div>
 </nav>
+
+
+“I [[Hope|hope]], so far as concerns my brother, you are misinformed. I [[Hope|hope]] he
+
+has not had any material share in bringing on Mr. Morland’s
+
+disappointment. His marrying Miss Thorpe is not probable. I think you
+
+must be deceived so far. I am very sorry for Mr. Morland—sorry that
+
+anyone you [[Love|love]] should be unhappy; but my surprise would be greater at
+
+Frederick’s marrying her than at any other part of the story.”
+
 
 
 “It is very true, however; you shall read James’s letter yourself.

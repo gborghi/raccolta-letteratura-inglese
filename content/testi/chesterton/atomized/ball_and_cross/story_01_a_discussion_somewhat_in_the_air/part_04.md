@@ -1,5 +1,5 @@
 ---
-title: "ball and [[Cross|cross]] — A Discussion Somewhat in the Air (part 4)"
+title: "ball and cross — A Discussion Somewhat in the Air (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/ball-and-cross-(chesterton)"
@@ -13,6 +13,39 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ball_and_cross/story_01_a_discussion_somewhat_in_the_air/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/ball_and_cross/story_01_a_discussion_somewhat_in_the_air/part_05">part 05 ›</a></div>
 </nav>
 
+
+"Ha! ha!" he yelled, "what sort of a support do you find it, old fellow?"
+
+"For practical purposes of support," replied [[Michael]] grimly,
+"it is at any rate a great deal better than the ball.
+May I ask if you are going to leave me here?"
+
+"Yes, yes.  I mount!  I mount!" cried [[The Professor|the professor]] in
+ungovernable excitement.  "_Altiora peto_.  My path is upward."
+
+"How often have you told me, Professor, that there is really no
+up or down in space?" said the monk.  "I shall mount up as much
+as you will."
+
+"Indeed," said [[Lucifer]], leering over the side of the flying [[Ship|ship]].
+"May I ask what you are going to do?"
+
+The monk pointed downward at Ludgate [[Hill]].  "I am going," he said,
+"to climb up into a star."
+
+Those who look at the matter most superficially regard [[Paradox|paradox]]
+as something which belongs to jesting and light journalism.
+[[Paradox]] of this kind is to be found in the saying of the dandy, in the
+decadent [[Comedy|comedy]], "Life is much too important to be taken seriously."
+Those who look at the matter a little more deeply or delicately see
+that [[Paradox|paradox]] is a thing which especially belongs to all religions.
+[[Paradox]] of this kind is to be found in such a saying as "The meek
+shall inherit the earth."  But those who see and feel the fundamental
+fact of the matter know that [[Paradox|paradox]] is a thing which belongs not
+to religion only, but to all vivid and violent practical crises
+of human living.  This kind of [[Paradox|paradox]] may be clearly perceived
+by anybody who happens to be hanging in mid-space, clinging to one
+arm of the [[Cross]] of St. Paul's.
 
 Father [[Michael]] in spite of his years, and in spite of his asceticism
 (or because of it, for all I know), was a very healthy and happy
@@ -106,11 +139,3 @@ Now he was living in the same world with a man; an inexhaustible ecstasy.
 In the gallery below the ball Father [[Michael]] had found that man
 who is the noblest and most divine and most lovable of all men,
 better than all the saints, greater than all the heroes--man Friday.
-
-In the confused colour and music of his new paradise,
-[[Michael]] heard only in a faint and distant fashion some remarks
-that this beautiful solid man seemed to be making to him;
-remarks about something or other being after hours and against orders.
-He also seemed to be asking how [[Michael]] "got up" there.  This beautiful
-man evidently felt as [[Michael]] did that the earth was a star and was
-set in heaven.

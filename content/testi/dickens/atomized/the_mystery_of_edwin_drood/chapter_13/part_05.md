@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 12 (part 5)"
+title: "The Mystery of Edwin Drood — Chapter 12 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -13,6 +13,25 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_13/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_14/part_01">part 01 ›</a></div>
 </nav>
 
+
+“If you will have it so, or must have it so,” replies Jasper, “I’ll not
+leave you here. Take them, while I walk to and fro.”
+
+[[Durdles]] is asleep at once; and in his [[Sleep|sleep]] he [[Dreams|dreams]] [[A Dream|a dream]].
+
+It is not much of [[A Dream|a dream]], considering the vast extent of the domains
+of dreamland, and their wonderful productions; it is only remarkable
+for being unusually restless and unusually real. He [[Dreams|dreams]] of lying
+there, asleep, and yet counting his companion’s footsteps as he walks
+to and fro. He [[Dreams|dreams]] that the footsteps die away into distance of [[Time|time]]
+and of space, and that something touches him, and that something falls
+from his hand. Then something clinks and gropes about, and he [[Dreams|dreams]]
+that he is [[Alone|alone]] for so long a [[Time|time]], that the lanes of light take new
+directions as the [[Moon|moon]] advances in her course. From succeeding
+unconsciousness he passes into [[A Dream|a dream]] of slow uneasiness from cold;
+and painfully awakes to a perception of the lanes of light—really
+changed, much as he had dreamed—and Jasper walking among them, beating
+his hands and feet.
 
 “Holloa!” [[Durdles]] cries out, unmeaningly alarmed.
 

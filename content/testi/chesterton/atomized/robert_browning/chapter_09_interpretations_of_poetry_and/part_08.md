@@ -14,6 +14,37 @@ tags:
 </nav>
 
 
+  MACMILLAN AND CO., LTD., [[London|LONDON]].
+
+       *       *       *       *       *
+
+ENGLISH MEN OF ACTION SERIES.
+
+[[Crown]] 8vo. Cloth. With Portraits. 2s. 6d. each.
+
+    CAMPBELL (COLIN). By ARCHIBALD FORBES.
+    CLIVE. By Sir CHARLES WILSON.
+    COOK (Captain). By Sir WALTER BESANT.
+    DAMPIER. By W. CLARK RUSSELL.
+    DRAKE. By JULIAN CORBETT.
+    DUNDONALD. By the Hon. J.W. FORTESCUE.
+    GORDON (General). By Sir W. BUTLER.
+    [[Hastings|HASTINGS]] (Warren). By Sir A. LYALL.
+    HAVELOCK (Sir Henry). By A. FORBES.
+    [[Henry V|HENRY V]]. By the Rev. A.J. CHURCH.
+    LAWRENCE (Lord). By Sir [[Richard|RICHARD]] TEMPLE.
+    LIVINGSTONE. By THOMAS HUGHES.
+    MONK. By JULIAN CORBETT.
+    MONTROSE. By [[Mowbray|MOWBRAY]] MORRIS.
+    NAPIER (Sir Charles). By Colonel Sir W. BUTLER.
+    NELSON. By Prof. J.K. LAUGHTON.
+    PETERBOROUGH. By W. STEBBING.
+    RODNEY. By DAVID HANNAY.
+    STRAFFORD. By H.D. TRAILL.
+    WARWICK, the [[King]]-Maker By C.W. OMAN.
+    WELLINGTON. By GEORGE HOOPER.
+    WOLFE. By A.G. BRADLEY.
+
        *       *       *       *       *
 
 TWELVE ENGLISHMEN STATESMEN.
@@ -26,7 +57,6 @@ of famous Statesmen, but to present in historic order the lives and
 work of those leading actors in our affairs who by their direct
 influence have left an abiding mark on the policy, the institutions,
 and the position of Great Britain among States_.
-
 
 WILLIAM THE CONQUEROR. By EDWARD A. FREEMAN, D.C.L., LL.D., late
 Regius Professor of Modern [[history|History]] in the University of [[Oxford]].
@@ -56,17 +86,6 @@ PITT. By Lord ROSEBERY.
 PEEL. By J.R. THURSFIELD, M.A., late Fellow of Jesus College,
 [[Oxford]].
 
-
-
-
-
-
-
-
-
-
-
-
 End of the Project Gutenberg EBook of Robert Browning, by G. K. Chesterton
 
 *** END OF THIS PROJECT GUTENBERG EBOOK ROBERT BROWNING ***
@@ -77,7 +96,6 @@ This and all associated files of various formats will be found in:
 
 Produced by Jonathan Ingram, Victoria Woosley and PG Distributed
 Proofreaders
-
 
 Updated editions will replace the previous one--the old editions
 will be renamed.
@@ -99,8 +117,6 @@ practically ANYTHING with public domain eBooks.  Redistribution is
 subject to the trademark license, especially commercial
 redistribution.
 
-
-
 *** START: FULL LICENSE ***
 
 THE FULL PROJECT GUTENBERG LICENSE
@@ -112,7 +128,6 @@ distribution of electronic works, by using or distributing this work
 Gutenberg"), you agree to comply with all the terms of the Full Project
 Gutenberg-tm License (available with this file or online at
 http://gutenberg.net/license).
-
 
 Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
 electronic works
@@ -153,13 +168,3 @@ this agreement for keeping the Project Gutenberg-tm name associated with
 the work.  You can easily comply with the terms of this agreement by
 keeping this work in the same format with its attached full Project
 Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.

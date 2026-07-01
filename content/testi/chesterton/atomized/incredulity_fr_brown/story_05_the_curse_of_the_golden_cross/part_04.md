@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The Curse of the Golden [[Cross]] (part 4)"
+title: "incredulity Fr Brown — The Curse of the Golden Cross (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity_fr_brown/story_05_the_curse_of_the_golden_cross/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity_fr_brown/story_05_the_curse_of_the_golden_cross/part_05">part 05 ›</a></div>
 </nav>
 
+
+'He may be anybody else,' answered Smaill seriously. 'That is what I
+meant by what I said just now. You are the only man I feel sure is not
+the enemy.'
+
+[[Father Brown]] again looked embarrassed; then he smiled and said: '[[Well]],
+oddly enough, I'm not. What we have to consider is any chance of finding
+out if he really is here before he - before he makes himself
+unpleasant.'
 
 'There is one chance of finding out, I think,' remarked [[The Professor|the Professor]]
 rather grimly. 'When we get to Southampton I shall take a car at once
@@ -115,8 +124,3 @@ the rest of the company with a start of realization that, though they
 had sat opposite him at meal - times for a week, they had hardly ever
 heard him speak before; and that though he was supposed to be an English
 lecturer, he spoke with a rather occult foreign accent.
-
-'You see, my dear Professor,' cried Lady [[Diana]] with trenchant
-cheerfulness, 'your Byzantine mummy was simply too exciting to be
-missed. I simply had to come along and see it; and I'm sure the
-gentlemen felt just the same. Now you must tell us all about it.'

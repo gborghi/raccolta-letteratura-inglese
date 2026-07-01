@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Part 1: hear Neville moving too. Are you going back?” (part 2)"
+title: "The Mystery of Edwin Drood — Part 1: hear Neville moving too. Are you going back?” (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -136,6 +136,3 @@ BILLICKIN got appended to the document.
 Details were then settled for taking possession on the next day but
 one, when Miss Twinkleton might be reasonably expected; and Rosa went
 back to Furnival’s Inn on her guardian’s arm.
-
-Behold Mr. Tartar walking up and down Furnival’s Inn, checking himself
-when he saw them coming, and advancing towards them!

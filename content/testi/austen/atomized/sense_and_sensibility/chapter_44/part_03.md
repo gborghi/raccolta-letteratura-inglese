@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 44 (part 3)"
+title: "Sense and Sensibility — Chapter 44 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_44/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_44/part_04">part 04 ›</a></div>
 </nav>
 
+
+previously disposed, I believe, to [[Doubt|doubt]] the [[morality]] of my conduct in
+
+general, and was moreover discontented with the very little attention,
+
+the very little portion of my [[Time|time]] that I had bestowed on her, in my
+
+present visit. In short, it ended in a total breach. By one measure I
+
+might have saved myself. In the height of her [[morality]], good woman! she
 
 offered to forgive the past, if I would marry Eliza. That could not
 
@@ -207,19 +217,3 @@ awakened, because [[Time|time]] and [[London]], business and dissipation, had in
 some measure quieted it, and I had been growing a fine hardened
 
 [[Villain|villain]], fancying myself indifferent to her, and chusing to fancy that
-
-she too must have become indifferent to me; talking to myself of our
-
-past attachment as a mere idle, trifling business, shrugging up my
-
-shoulders in proof of its being so, and silencing every reproach,
-
-overcoming every scruple, by secretly saying now and then, ‘I shall be
-
-heartily glad to hear she is [[Well|well]] married.’ But this note made me know
-
-myself better. I felt that she was infinitely dearer to me than any
-
-other woman in the world, and that I was using her infamously. But
-
-every thing was then just settled between Miss Grey and me. To retreat

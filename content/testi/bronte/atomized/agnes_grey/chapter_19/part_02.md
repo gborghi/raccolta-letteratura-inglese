@@ -1,5 +1,5 @@
 ---
-title: "[[Agnes Grey]] — Chapter 18 (part 2)"
+title: "Agnes Grey — Chapter 18 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/agnes-grey-(bronte)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/agnes_grey/chapter_19/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/agnes_grey/chapter_19/part_03">part 03 ›</a></div>
 </nav>
 
+
+Amid all this, let it not be imagined that I escaped without many a
+reprimand, and many an implied reproach, that lost none of its sting
+from not being openly worded; but rather wounded the more deeply,
+because, from that very reason, it seemed to preclude [[Self|self]]-defence.
+Frequently, I was told to amuse Miss Matilda with other things, and to
+remind her of her mother’s precepts and prohibitions. I did so to the
+best of my power: but she would not be amused against her will, and
+could not against her taste; and though I went beyond mere reminding,
+such gentle remonstrances as I could use were utterly ineffectual.
 
 “_Dear_ Miss Grey! it is the _strangest_ thing. I suppose you can’t
 help it, if it’s not in your [[Nature|nature]]—but I _wonder_ you can’t win the
@@ -115,20 +125,3 @@ have done their duty.”
 “True: but is it not strange that persons of experience, who have been
 married themselves, should judge so falsely?” Matilda now came panting
 back, with the lacerated [[Body|body]] of the young hare in her hand.
-
-“Was it your intention to kill that hare, or to save it, Miss Murray?”
-asked Mr. Weston, apparently puzzled at her gleeful countenance.
-
-“I pretended to want to save it,” she answered, honestly enough, “as it
-was so glaringly out of season; but I was better pleased to see it
-lolled. However, you can both witness that I couldn’t help it: Prince
-was determined to have her; and he clutched her by the back, and killed
-her in a minute! Wasn’t it a noble chase?”
-
-“Very! for a young lady after a leveret.”
-
-There was a quiet sarcasm in the tone of his reply which was not lost
-upon her; she shrugged her shoulders, and, turning away with a
-significant “Humph!” asked me how I had enjoyed the fun. I replied that
-I saw no fun in the matter; but admitted that I had not observed the
-transaction very narrowly.

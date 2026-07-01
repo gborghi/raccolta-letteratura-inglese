@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity]] — The [[Resurrection]] of [[Father Brown]] (part 2)"
+title: "Incredulity — The Resurrection of Father Brown (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-(chesterton)"
@@ -92,20 +92,20 @@ of the unfortunate cleric in the most commonplace occupations,
 and exhibited them in gigantic photographs in the gigantic
 [[Sunday]] papers of the United States.  He turned his sayings
 into slogans, and was continually presenting the world with
-`A message' from the reverend gentleman in South [[america|America]].
+`A message' from the reverend gentleman in South America.
 Any stock less strong and strenuously receptive than the American
-race would have become very much bored with [[Father Brown]].
+race would have become very much bored with Father Brown.
 As it was, he received handsome and eager offers to go
 on a lecturing tour in the States; and when he declined,
-the terms were raised with expressions of respectful [[Wonder|wonder]].
+the terms were raised with expressions of respectful wonder.
 A series of stories about him, like the stories of
 Sherlock Holmes, were, by the instrumentality of Mr Snaith,
-planned out and put before the [[Hero|hero]] with requests for his assistance
+planned out and put before the hero with requests for his assistance
 and encouragement.  As the priest found they had started,
 he could offer no suggestion except that they should stop.
 And this in turn was taken by Mr Snaith as the text
-for a discussion on whether [[Father Brown]] should disappear
-temporarily over a cliff, in the manner of Dr Watson's [[Hero|hero]].
+for a discussion on whether Father Brown should disappear
+temporarily over a cliff, in the manner of Dr Watson's hero.
 To all these demands the priest had patiently to reply
 in writing, saying that he would consent on such terms
 to the temporary cessation of the stories and begging that a
@@ -115,11 +115,11 @@ the last of them, he sighed.
 
 Needless to say, this strange boom in the North reacted on the little
 outpost in the South where he had expected to live in so lonely
-an [[Exile|exile]].  The considerable English and American population
+an exile.  The considerable English and American population
 already on the spot began to be proud of possessing so widely
 advertised a person.  American tourists, of the sort who land
 with a loud demand for Westminster Abbey, landed on that distant
-coast with a loud demand for [[Father Brown]].  They were within
+coast with a loud demand for Father Brown.  They were within
 measurable distance of running excursion trains named after him,
 and bringing crowds to see him as if he were a public monument.
 He was especially troubled by the active and ambitious new

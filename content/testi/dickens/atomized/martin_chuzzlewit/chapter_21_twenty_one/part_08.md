@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 21: TWENTY ONE (part 8)"
+title: "Martin Chuzzlewit — Chapter 21: TWENTY ONE (part 8)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -12,6 +12,22 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/martin-chuzzlewit-(dickens)">Martin Chuzzlewit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_21_twenty_one/part_07">‹ part 07</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_22_twenty_two/part_01">part 01 ›</a></div>
 </nav>
+
+
+‘Thus,’ said the General, ‘thus, my friends and fellow-citizens, it
+runs:
+
+
+‘“SIR--I address you on behalf of the Watertoast Association of United
+Sympathisers. It is founded, sir, in the great republic of [[america|America]]! and
+now holds its breath, and swells the blue veins in its forehead nigh to
+bursting, as it watches, sir, with feverish intensity and sympathetic
+ardour, your noble efforts in the cause of [[Freedom]].”’
+
+
+At the name of [[Freedom]], and at every repetition of that name, all the
+Sympathisers roared aloud; cheering with nine times nine, and nine times
+over.
 
 
 ‘“In [[Freedom]]’s name, sir--holy [[Freedom]]--I address you. In [[Freedom]]’s

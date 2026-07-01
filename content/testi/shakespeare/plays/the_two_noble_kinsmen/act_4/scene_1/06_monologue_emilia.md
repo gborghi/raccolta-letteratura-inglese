@@ -1,5 +1,5 @@
 ---
-title: "The Two Noble Kinsmen — Act IV, Scene 1 — monologue ([[Emilia|EMILIA]]) [6]"
+title: "The Two Noble Kinsmen — Act IV, Scene 1 — monologue (EMILIA) [6]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-two-noble-kinsmen-(shakespeare)"

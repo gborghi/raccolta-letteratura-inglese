@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The Miracle of [[Moon]] Crescent (part 2)"
+title: "incredulity Fr Brown — The Miracle of Moon Crescent (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity_fr_brown/story_04_the_miracle_of_moon_crescent/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity_fr_brown/story_04_the_miracle_of_moon_crescent/part_03">part 03 ›</a></div>
 </nav>
 
+
+'[[Well]], I suppose I must be going,' he said.
+
+'Very good of you to call, Mr Vandam,' said Wynd, politely; 'you will
+excuse my not coming out, as I've something here I must fix at once.
+Fenner,' he added to the secretary,' show Mr Vandam to his car, and
+don't come back again for half an hour. I've something here I want to
+work out by myself; after that I shall want you.'
 
 The three men went out into the hallway together, closing the door
 behind them. The big servant, Wilson, was turning down the hallway in
@@ -80,7 +88,7 @@ movement out [[Home|home]]: we breathe. We don't pray; we breathe.'
 intelligent face which could hardly conceal the weariness; but he had
 listened to the two monologues with the admirable patience and
 politeness (so much in contrast with the legends of impatience and
-insolence) with which such monologues are listened to in [[america|America]].
+insolence) with which such monologues are listened to in [[America]].
 
 'Nothing [[Supernatural|supernatural]],' continued Alboin, 'just the great natural fact
 behind all the [[Supernatural|supernatural]] fancies. What did the Jews want with a God
@@ -110,13 +118,3 @@ looked rather like a big, black mushroom, for he was quite short and his
 small, stumpy figure was eclipsed by his big, black clerical hat; the
 resemblance might have been more complete if mushrooms were in the habit
 of carrying umbrellas, even of a shabby and shapeless sort.
-
-Fenner, the secretary, was conscious of a curious additional surprise at
-recognizing the figure of a priest; but when the priest turned up a
-round face under the round hat and innocently asked for Mr Warren Wynd,
-he gave the regular negative answer rather more curtly than before. But
-the priest stood his ground.
-
-'I do really want to see Mr Wynd,' he said. 'It seems odd, but that's
-exactly what I do want to do. I don't want to speak to him. I just want
-to see him. I just want to see if he's there to be seen.'

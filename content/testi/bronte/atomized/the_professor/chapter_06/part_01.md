@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 5 (part 1)"
+title: "The Professor — Chapter 5 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -15,8 +15,6 @@ tags:
 
 
 CHAPTER V.
-
-
 
 THERE is a climax to everything, to every state of feeling as [[Well|well]] as to
 
@@ -41,8 +39,6 @@ still numb; I could not write till they had regained vitality, so I
 went on thinking, and still the theme of my thoughts was the “climax.”
 
  [[Self]]-dissatisfaction troubled exceedingly the current of my meditations.
-
-
 
 “Come, [[William Crimsworth]],” said my [[Conscience|conscience]], or whatever it is that
 
@@ -100,8 +96,6 @@ never be made perfect. Eight o’[[Clock|clock]] strikes! your hands are thawed,
 
 to work!”
 
-
-
 “Work? why should I work?” said I sullenly: “I cannot please though I
 
 toil like a slave.” “Work, work!” reiterated the inward voice. “I may
@@ -113,8 +107,6 @@ packet of letters and commenced my task--task thankless and bitter as
 that of the Israelite crawling over the sun-baked fields of [[Egypt]] in
 
 search of straw and stubble wherewith to accomplish his tale of bricks.
-
-
 
 About ten o’[[Clock|clock]] I heard Mr. Crimsworth’s gig turn into the yard, and
 
@@ -132,8 +124,6 @@ eye, instead of being cold, was fierce. He studied me a minute or two
 
 longer than usual, but went out in [[Silence|silence]].
 
-
-
 Twelve o’[[Clock|clock]] arrived; the bell rang for a suspension of labour; the
 
 workpeople went off to their dinners; Steighton, too, departed, desiring
@@ -146,13 +136,9 @@ preparatory to closing my desk, when Crimsworth reappeared at the door,
 
 and entering closed it behind him.
 
-
-
 “You’ll stay here a minute,” said he, in a deep, brutal voice, while his
 
 nostrils distended and his eye shot a spark of sinister [[Fire|fire]].
-
-
 
 [[Alone]] with Edward I remembered our relationship, and remembering that
 
@@ -160,21 +146,13 @@ forgot the difference of position; I put away deference and careful
 
 forms of speech; I answered with simple brevity.
 
-
-
 “It is [[Time|time]] to go [[Home|home]],” I said, turning the key in my desk.
-
-
 
 “You’ll stay here!” he reiterated. “And take your hand off that key!
 
 leave it in the lock!”
 
-
-
 “Why?” asked I. “What cause is there for changing my usual plans?”
-
-
 
 “Do as I order,” was the answer, “and no questions! You are my servant,
 
@@ -184,21 +162,13 @@ breath, when an abrupt pause announced that rage had for the moment got
 
 the better of articulation.
 
-
-
 “You may look, if you wish to know,” I replied. “There is the open desk,
 
 there are the papers.”
 
-
-
 “Confound your insolence! What have you been about?”
 
-
-
 “Your work, and have done it [[Well|well]].”
-
-
 
 “Hypocrite and twaddler! Smooth-faced, snivelling greasehorn!” (This
 
@@ -208,8 +178,6 @@ black, rancid whale-oil, usually to be seen suspended to cart-wheels,
 
 and employed for greasing the same.)
 
-
-
 “Come, [[Edward Crimsworth]], enough of this. It is [[Time|time]] you and I wound up
 
 accounts. I have now given your service three months’ trial, and I find
@@ -218,18 +186,4 @@ it the most nauseous [[Slavery|slavery]] under the sun. Seek another clerk. I st
 
 no longer.”
 
-
-
 “What! do you dare to give me notice? Stop at least for your wages.” He
-
-took down the heavy gig whip hanging beside his mackintosh.
-
-
-
-I permitted myself to laugh with a degree of scorn I took no pains to
-
-temper or hide. His fury boiled up, and when he had sworn half-a-dozen
-
-vulgar, impious oaths, without, however, venturing to lift the whip, he
-
-continued:

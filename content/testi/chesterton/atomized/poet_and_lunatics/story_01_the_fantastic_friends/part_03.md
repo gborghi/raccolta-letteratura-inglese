@@ -14,6 +14,14 @@ tags:
 </nav>
 
 
+A high dog-cart had drawn up on the other side of the [[Road|road]].
+The reins were in the gloved hands of a tall, dark young lady,
+clad in dark blue of the tailor-made type, neat but not particularly new.
+By her side was a man, perhaps ten years older than herself,
+but seeming in many ways much more, for his high-featured face
+was wasted as with sickness, and there was a great anxiety in his
+large grey eyes.
+
 In the momentary [[Silence|silence]] the clear voice of the girl came like an echo
 of the doctor's phrase, saying:  "I am sure we can get some lunch here."
 She slipped lightly to the ground and stood by the [[Horse|horse]]'s head,
@@ -120,17 +128,3 @@ The lady was again looking at the painter with a slightly
 constricted brow; she seemed to be almost sorry for him in his
 comparative eclipse; but he only smiled and said:  "No, I'm no good
 at practical things."
-
-Almost as he spoke a noise like a sort of cry came through the inn
-from the [[Road|road]] beyond, and Dr. Garth sprang to his feet and stood peering
-in at the door.  The next moment Gale also seemed to rouse himself
-with a sort of sudden agitation; and the moment after that the others
-were all following the doctor, who had already started through the [[house]].
-But when he came to the front door Gale turned for a moment,
-barring the exit with his tall figure, and said:
-
-"Don't let the lady come out."
-
-The squire had already seen over the painter's shoulder a horrible
-instantaneous image.  It was the black figure of a man hanging
-from the signboard of the Rising Sun.

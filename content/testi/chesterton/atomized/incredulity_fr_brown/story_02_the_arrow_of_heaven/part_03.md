@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The Arrow of Heaven (part 3)"
+title: "incredulity Fr Brown — The Arrow of Heaven (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -13,6 +13,38 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity_fr_brown/story_02_the_arrow_of_heaven/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity_fr_brown/story_02_the_arrow_of_heaven/part_04">part 04 ›</a></div>
 </nav>
 
+
+'Not at all,' said [[Father Brown]], quietly. 'It is my duty to visit
+prisoners and all miserable men in captivity.'
+
+There was a [[Silence|silence]], and the young man frowned with a strange and almost
+shifty look on his lean face. Then he said, abruptly:
+
+'[[Well]], you've got to remember it isn't only common crooks or the Black
+Hand that's against him. This Daniel Doom is pretty much like the devil.
+Look how he dropped Trant in his own gardens and Horder outside his
+[[house]], and got away with it.'
+
+The top floor of the mansion, inside the enormously thick walls,
+consisted of two rooms; an outer room which they entered, and an inner
+room that was the great millionaire's sanctum. They entered the outer
+room just as two other visitors were coming out of the inner one. One
+was hailed by Peter Wain as his uncle - a small but very stalwart and
+active man with a shaven head that looked bald, and a brown face that
+looked almost too brown to have ever been white. This was old Crake,
+commonly called Hickory Crake in reminiscence of the more famous Old
+Hickory, because of his fame in the last Red Indian wars. His companion
+was a singular contrast - a very dapper gentleman with dark hair like a
+black varnish and a broad, black ribbon to his monocle: Barnard Blake,
+who was old Merton's lawyer and had been discussing with the partners
+the business of the firm. The four men met in the middle of the outer
+room and paused for a little polite conversation, in the act of
+respectively going and coming. And through all goings and comings
+another figure sat at the back of the room near the inner door, massive
+and motionless in the half - light from the inner [[Window|window]]; a man with a
+Negro face and enormous shoulders. This was what the humorous [[Self|self]] -
+criticism of [[America]] playfully calls the Bad Man; whom his friends might
+call a bodyguard and his enemies a bravo.
 
 This man never moved or stirred to greet anybody; but the sight of him
 in the outer room seemed to move Peter Wain to his first nervous query.
@@ -98,40 +130,3 @@ into that room he'd be dead before he got out.'
 suddenly, with something like a jerk: 'I [[Hope|hope]] you won't mind my
 mentioning it, but a kind of a notion came into my head just this
 minute. It's about you.'
-
-'Indeed,' remarked Wilton, 'and what about me?'
-
-'I think you are a man of one idea,' said [[Father Brown]], 'and you will
-forgive me for saying that it seems to be even more the idea of catching
-Daniel Doom than of defending Brander Merton.'
-
-Wilton started a little and continued to stare at his companion; then
-very slowly his grim mouth took on a rather curious smile. 'How did you
-- what makes you think that?' he asked.
-
-'You said that if you heard a shot you could instantly electrocute the
-escaping enemy,' remarked the priest. 'I suppose it occurred to you that
-the shot might be fatal to your employer before the shock was fatal to
-his foe. I don't mean that you wouldn't protect Mr Merton if you could,
-but it seems to come rather second in your thoughts. The arrangements
-are very elaborate, as you say, and you seem to have elaborated them.
-But they seem even more designed to catch a murderer than to save a
-man.'
-
-'[[Father Brown]],' said the secretary, who had recovered his quiet tone,
-'you're very smart, but there's something more to you than smartness.
-Somehow you're the sort of man to whom one wants to tell the [[Truth|truth]]; and
-besides, you'll probably hear it, anyhow, for in one way it's a joke
-against me already. They all say I'm a monomaniac about running down
-this big crook, and perhaps I am. But I'll tell you one thing that none
-of them know. My full name is John Wilton Border.' [[Father Brown]] nodded
-as if he were completely enlightened, but the other went on.
-
-'This fellow who calls himself Doom killed my father and uncle and
-ruined my mother. When Merton wanted a secretary I took the job, because
-I thought that where the cup was the criminal might sooner or later be.
-But I didn't know who the criminal was and could only wait for him; and
-I meant to serve Merton faithfully.'
-
-'I understand,' said [[Father Brown]] gently; 'and, by the way, isn't it
-[[Time|time]] that we attended on him?'

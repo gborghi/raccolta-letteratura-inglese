@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 58: ABSENCE"
+title: "David Copperfield — Chapter 58: ABSENCE"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/david-copperfield-(dickens)"

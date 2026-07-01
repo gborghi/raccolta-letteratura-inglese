@@ -1,5 +1,5 @@
 ---
-title: "[[misc]] — THE MYSTAGOGUE"
+title: "misc — THE MYSTAGOGUE"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 THE MYSTAGOGUE
-
 
 Whenever you hear much of things being unutterable and indefinable
 and impalpable and unnamable and subtly indescribable, then elevate

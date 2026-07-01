@@ -16,10 +16,7 @@ tags:
 
 Chapter VIII
 
-
-
 THE [[Mirror|MIRROR]] OF [[Christ|CHRIST]]
-
 
 No man who has been given the [[Freedom|freedom]] of the [[Faith]] is likely
 to fall into those hole-and corner extravagances in which later
@@ -402,7 +399,7 @@ money had made no detailed provision about accepting [[Mountains|mountains]].
 Nor indeed did St. Francis accept it save as he accepted everything,
 as a temporary convenience rather than a personal possession;
 but he turned it into a sort of refuge for the eremitical rather than
-the monastic life; he retired there when he wished for a life of [[Prayer|prayer]]
+the monastic life; he retired there when he wished for a life of [[prayer]]
 and fasting which he did not ask even his closest friends to follow.
 This was Alverno of the Apennines, and upon its peak there rests
 for ever a dark cloud that has a rim or halo of glory.

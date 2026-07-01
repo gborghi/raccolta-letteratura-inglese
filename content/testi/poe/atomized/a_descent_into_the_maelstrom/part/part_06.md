@@ -1,5 +1,5 @@
 ---
-title: "[[A Descent Into the Maelstrom]] (part 6)"
+title: "A Descent Into the Maelstrom (part 6)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/a-descent-into-the-maelstrom-(poe)"
@@ -13,6 +13,28 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/a_descent_into_the_maelstrom/part/part_05">‹ part 05</a><a class="ex-next" href="/testi/poe/atomized/a_descent_into_the_maelstrom/part/part_07">part 07 ›</a></div>
 </nav>
 
+
+      “As I felt the sickening sweep of the descent, I had
+      instinctively tightened my hold upon the barrel, and closed my
+      eyes. For some seconds I dared not open them—while I expected
+      instant destruction, and wondered that I was not already in my
+      [[Death|death]]-struggles with the [[Water|water]]. But moment after moment elapsed.
+      I still lived. The sense of falling had ceased; and the motion of
+      the vessel seemed much as it had been before, while in the belt
+      of foam, with the exception that she now lay more along. I took
+      [[Courage|courage]], and looked once again upon the scene.
+
+      “Never shall I forget the sensations of awe, horror, and
+      admiration with which I gazed about me. The boat appeared to be
+      hanging, as if by [[Magic|magic]], midway down, upon the interior surface
+      of a funnel vast in circumference, prodigious in depth, and whose
+      perfectly smooth sides might have been mistaken for ebony, but
+      for the bewildering rapidity with which they spun around, and for
+      the gleaming and ghastly radiance they shot forth, as the rays of
+      the full [[Moon|moon]], from that circular rift amid the clouds which I
+      have already described, streamed in a flood of golden glory along
+      the black walls, and far away down into the inmost recesses of
+      the abyss.
 
       “At first I was too much confused to observe anything accurately.
       The general burst of terrific grandeur was all that I beheld.
@@ -104,12 +126,3 @@ tags:
       how it happened that a cylinder, swimming in a vortex, offered
       more resistance to its suction, and was drawn in with greater
       difficulty than an equally bulky [[Body|body]], of any form whatever. (*1)
-
-      “There was one startling circumstance which went a great way in
-      enforcing these observations, and rendering me anxious to turn
-      them to account, and this was that, at every revolution, we
-      passed something like a barrel, or else the yard or the mast of a
-      vessel, while many of these things, which had been on our level
-      when I first opened my eyes upon the wonders of the whirlpool,
-      were now high up above us, and seemed to have moved but little
-      from their original station.

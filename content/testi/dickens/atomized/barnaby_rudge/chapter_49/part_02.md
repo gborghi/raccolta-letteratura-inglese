@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 49 (part 2)"
+title: "Barnaby Rudge — Chapter 49 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_49/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_49/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘[[Well]] said!’ cried Hugh. ‘Ha ha! Nobly said! That’s the old stout
+Barnaby, that I have climbed and leaped with, many and many a day--I
+knew I was not mistaken in Barnaby.--Don’t you see, man,’ he added in
+a whisper, as he slipped to the other side of Dennis, ‘that the lad’s a
+natural, and can be got to do anything, if you take him the right way?
+Letting [[Alone|alone]] the fun he is, he’s worth a dozen men, in earnest, as
+you’d find if you tried a fall with him. Leave him to me. You shall soon
+see whether he’s of use or not.’
 
 Mr Dennis received these explanatory remarks with many nods and winks,
 and softened his behaviour towards Barnaby from that moment. Hugh,
@@ -98,16 +107,3 @@ and leading to two little doors communicating with a low passage which
 opened on the gallery. Between them was a kind of [[Well|well]], or unglazed
 skylight, for the admission of light and air into the lobby, which might
 be some eighteen or twenty feet below.
-
-Upon one of these little staircases--not that at the head of which Lord
-George appeared from [[Time|time]] to [[Time|time]], but the other--Gashford stood with
-his elbow on the bannister, and his cheek resting on his hand, with his
-usual crafty aspect. Whenever he varied this attitude in the slightest
-degree--so much as by the gentlest motion of his arm--the uproar was
-certain to increase, not merely there, but in the lobby below; from
-which place no [[Doubt|doubt]], some man who acted as fugleman to the rest, was
-constantly looking up and watching him.
-
-‘Order!’ cried Hugh, in a voice which made itself heard even above the
-roar and tumult, as Lord George appeared at the top of the staircase.
-‘News! News from my lord!’

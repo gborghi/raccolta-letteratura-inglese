@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 2 (part 3)"
+title: "Oliver Twist — Chapter 2 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_02/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_02/part_04">part 04 ›</a></div>
 </nav>
 
+
+Mr. Bumble walked on with long strides; little [[Oliver]], firmly grasping
+his gold-laced cuff, trotted beside him, inquiring at the end of every
+quarter of a mile whether they were “nearly there.” To these
+interrogations Mr. Bumble returned very brief and snappish replies; for
+the temporary blandness which gin-and-[[Water|water]] awakens in some bosoms had
+by this [[Time|time]] evaporated; and he was once again a beadle.
 
 [[Oliver]] had not been within the walls of the workhouse a quarter of an
 hour, and had scarcely completed the demolition of a second slice of
@@ -123,28 +130,3 @@ the clothes of all the paupers, which fluttered loosely on their
 wasted, shrunken forms, after a week or two’s gruel. But the number of
 workhouse inmates got thin as [[Well|well]] as the paupers; and the board were
 in ecstasies.
-
-The room in which the boys were fed, was a large stone hall, with a
-copper at one end: out of which the master, dressed in an apron for the
-purpose, and assisted by one or two women, ladled the gruel at
-mealtimes. Of this festive composition each boy had one porringer, and
-no more—except on occasions of great public rejoicing, when he had two
-ounces and a quarter of bread besides. The bowls never wanted washing.
-The boys polished them with their spoons till they shone again; and
-when they had performed this operation (which never took very long, the
-spoons being nearly as large as the bowls), they would sit staring at
-the copper, with such eager eyes, as if they could have devoured the
-very bricks of which it was composed; employing themselves, meanwhile,
-in sucking their fingers most assiduously, with the view of catching up
-any stray splashes of gruel that might have been cast thereon. Boys
-have generally excellent appetites. [[Oliver Twist]] and his companions
-suffered the tortures of slow starvation for three months: at last they
-got so voracious and wild with hunger, that one boy, who was tall for
-his age, and hadn’t been used to that sort of thing (for his father had
-kept a small cook-shop), hinted darkly to his companions, that unless
-he had another basin of gruel _per diem_, he was afraid he might some
-[[Night|night]] happen to eat the boy who slept next him, who happened to be a
-weakly youth of tender age. He had a wild, hungry eye; and they
-implicitly believed him. A council was held; lots were cast who should
-walk up to the master after supper that evening, and ask for more; and
-it fell to [[Oliver Twist]].

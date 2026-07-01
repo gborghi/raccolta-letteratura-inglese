@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 20 (part 1)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 20 (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -199,9 +199,3 @@ knife, the incision being one inch or more, according to the size of
 the mollusca. Through this opening the entrails are forced out by
 
 pressure, and they are much like those of any other small tenant of the
-
-deep. The article is then washed, and afterward boiled to a certain
-
-degree, which must not be too much or too little. They are then buried
-
-in the ground for four hours, then boiled again for a short [[Time|time]], after

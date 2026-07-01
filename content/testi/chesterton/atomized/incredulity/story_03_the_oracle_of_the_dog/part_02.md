@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity]] — The Oracle of the Dog (part 2)"
+title: "Incredulity — The Oracle of the Dog (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-(chesterton)"
@@ -14,23 +14,23 @@ tags:
 </nav>
 
 
-`So Colonel Druce wore a white coat, did he?' said Father Brown
+`So Colonel Druce wore a white coat, did he?' said [[Father Brown]]
 as he put down the paper.
 
-`Trick he learnt in the tropics,' replied Fiennes, with some [[Wonder|wonder]].
+`Trick he learnt in the tropics,' replied Fiennes, with some wonder.
 `He'd had some queer adventures there, by his own account;
-and I fancy his dislike of Valentine was connected with the doctor
+and I fancy his dislike of [[Valentine]] was connected with the doctor
 coming from the tropics, too.  But it's all an infernal puzzle.
-The account there is pretty accurate.  I didn't see the tragedy,
+The account there is pretty accurate.  I didn't see the [[Tragedy|tragedy]],
 in the sense of the discovery; I was out walking with the young
 nephews and the dog--the dog I wanted to tell you about.
 But I saw the stage set for it as described; the straight
-lane between the blue flowers right up to the dark entrance,
+lane between the blue [[Flowers|flowers]] right up to the dark entrance,
 and the lawyer going down it in his blacks and his silk hat,
 and the red head of the secretary showing high above
 the green hedge as he worked on it with his shears.
 Nobody could have mistaken that red head at any distance;
-and if people say they saw it there all the time, you may be
+and if people say they saw it there all the [[Time|time]], you may be
 sure they did.
 
 This red--haired secretary, Floyd, is quite a character;
@@ -39,13 +39,13 @@ work as he was doing the gardener's. I think he is an American;
 he's certainly got the American view of life--what they call
 the view--point, bless `em.'
 
-`What about the lawyer?' asked Father Brown.  There was
-a silence and then Fiennes spoke quite slowly for him.
+`What about the lawyer?' asked [[Father Brown]].  There was
+a [[Silence|silence]] and then Fiennes spoke quite slowly for him.
 `Traill struck me as a singular man.  In his fine black clothes
 he was almost foppish, yet you can hardly call him fashionable.
 For he wore a pair of long, luxuriant black whiskers
 such as haven't been seen since Victorian times.
-He had rather a fine [[Grave|grave]] face and a fine [[Grave|grave]] manner,
+He had rather a fine grave face and a fine grave manner,
 but every now and then he seemed to remember to smile.
 And when he showed his white teeth he seemed to lose a little
 of his dignity, and there was something faintly fawning about him.
@@ -57,7 +57,7 @@ Nobody knows who did it.  Nobody knows how it could be done.
 At least there's only one exception I'd make, and that's why
 I really mentioned the whole thing.  The dog knows.'
 
-[[Father Brown]] sighed and then said absently:
+Father Brown sighed and then said absently:
 `You were there as a friend of young Donald, weren't you?
 He didn't go on your walk with you?'
 
@@ -66,7 +66,7 @@ had gone to bed that morning and got up that afternoon.
 I went with his cousins, two young officers from India,
 and our conversation was trivial enough.  I remember the elder,
 whose name I think is Herbert Druce and who is an authority
-on horse--breeding, talked about nothing but a mare he had bought
+on [[Horse|horse]]--breeding, talked about nothing but a mare he had bought
 and the moral character of the man who sold her; while his brother
 Harry seemed to be brooding on his bad luck at Monte Carlo.
 I only mention it to show you, in the light of what happened
@@ -79,8 +79,8 @@ The dog was the only mystic in our company.'
 started me off on the story, your saying you didn't believe
 in believing in a dog.  He's a big black retriever, named Nox,
 and a suggestive name, too; for I think what he did
-a darker mystery than the murder.  You know Druce's [[house]]
-and [[Garden|garden]] are by the sea; we walked about a mile from it
+a darker mystery than the murder.  You know Druce's house
+and garden are by the sea; we walked about a mile from it
 along the sands and then turned back, going the other way.
 We passed a rather curious rock called the Rock of Fortune,
 famous in the neighbourhood because it's one of those examples
@@ -90,9 +90,9 @@ outline of it makes it look a little wild and sinister;
 at least it made it look so to me, for I don't imagine my
 jolly young companions were afflicted with the picturesque.
 But it may be that I was beginning to feel an atmosphere;
-for just then the question arose of whether it was [[Time|time]]
+for just then the question arose of whether it was time
 to go back to tea, and even then I think I had a premonition
-that [[Time|time]] counted for a good deal in the business.
+that time counted for a good deal in the business.
 Neither Herbert Druce nor I had a watch, so we called out to
 his brother, who was some paces behind, having stopped to light
 his pipe under the hedge.  Hence it happened that he shouted
@@ -101,15 +101,15 @@ through the growing twilight; and somehow the loudness of it
 made it sound like the proclamation of something tremendous.
 His unconsciousness seemed to make it all the more so;
 but that was always the way with omens; and particular ticks
-of the [[Clock|clock]] were really very ominous things that afternoon.
-According to Dr [[Valentine]]'s testimony, poor Druce had actually
+of the clock were really very ominous things that afternoon.
+According to Dr Valentine's testimony, poor Druce had actually
 died just about half past four.
 
-`Well, they said we needn't go home for ten minutes, and we walked
+`[[Well]], they said we needn't go [[Home|home]] for ten minutes, and we walked
 a little farther along the sands, doing nothing in particular--
 throwing stones for the dog and throwing sticks into the sea for,
 him to swim after.  But to me the twilight seemed to grow
-oddly oppressive, and the very shadow of the top--heavy Rock
+oddly oppressive, and the very [[Shadow|shadow]] of the top--heavy Rock
 of Fortune lay on me like a load.  And then the curious
 thing happened.  Nox had just brought back Herbert's walking--
 stick out of the sea and his brother had thrown his in also.
@@ -120,14 +120,11 @@ Then he suddenly threw up his head and sent up a howl or wail
 of woe--if ever I heard one in the world.
 
 ``What the devil's the matter with the dog?` asked Herbert;
-but none of us could answer.  There was a long [[Silence|silence]]
+but none of us could answer.  There was a long silence
 after the brute's wailing and whining died away on
-the desolate shore; and then the [[Silence|silence]] was broken.
+the desolate shore; and then the silence was broken.
 As I live, it was broken by a faint and far--off shriek,
 like the shriek of a woman from beyond the hedges inland.
 We didn't know what it was then; but we knew afterwards.
-It was the cry the girl gave when she first saw the [[Body|body]]
+It was the cry the girl gave when she first saw the body
 of her father.'
-
-`You went back, I suppose,' said Father Brown patiently.
-`What happened then?'

@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 29 (part 2)"
+title: "The Tenant of Wildfell Hall — Chapter 29 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_29/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_30/part_01">part 01 ›</a></div>
 </nav>
 
+
+for a moment I have sought to drown the voice of reflection in [[Madness|madness]]
+
+and folly, or if I have wasted too much of my [[Time|time]] and talents among
+
+reckless and dissipated companions, God knows I would gladly renounce
 
 them entirely and for ever, if I had but _half_ the blessings that man
 
@@ -156,7 +162,7 @@ newly-acquired domestic habits.
 
 The [[Time|time]] that I met him [[Alone|alone]] was on a bright, but not oppressively hot
 
-day, in the beginning of July: I had taken little [[arthur|Arthur]] into the wood
+day, in the beginning of July: I had taken little [[Arthur]] into the wood
 
 that skirts the park, and there seated him on the moss-cushioned roots
 
@@ -226,7 +232,7 @@ witnessed his [[Fear|fear]] to offend.
 
 could show to his lady.” He half drew from his waistcoat-pocket a
 
-letter with [[arthur|Arthur]]’s still beloved hand on the address, scowled at it,
+letter with [[Arthur]]’s still beloved hand on the address, scowled at it,
 
 and put it back again, adding—“But he tells me he is about to return
 
@@ -286,7 +292,7 @@ my thoughts unscrutinized, within the sanctum of my [[Home|home]].
 
 
 
-And _was_ I glad? Yes, delighted; though I was angered by [[arthur|Arthur]]’s
+And _was_ I glad? Yes, delighted; though I was angered by [[Arthur]]’s
 
 conduct, and though I felt that he had wronged me, and was determined
 

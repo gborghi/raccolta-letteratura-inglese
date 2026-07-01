@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 11 (part 5)"
+title: "Our Mutual Friend — Chapter 13 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,61 +14,171 @@ tags:
 </nav>
 
 
-‘The hollow down by the flare?’
+The late [[John Harmon]], looking at the proud face with the down-cast eyes,
+and at the quick breathing as it stirred the fall of bright brown hair
+over the beautiful neck, would probably have remained silent.
 
-‘Ah! That’s the name! You can find a lady there, I know.’
+‘I wish to speak to you, sir,’ said Bella, ‘once for all, and I don’t
+know how to do it. I have sat here all this evening, wishing to speak to
+you, and determining to speak to you, and feeling that I must. I beg for
+a moment’s [[Time|time]].’
 
-‘More easily than I can make one of such material as myself, Jenny.’
+He remained silent, and she remained with her face averted, sometimes
+making a slight movement as if she would turn and speak. At length she
+did so.
 
-The sparkling eye looked steadfastly up, as the musing face looked
-thoughtfully down. ‘[[Well]]?’ said the dolls’ dressmaker, ‘We have found
-our lady?’
+‘You know how I am situated here, sir, and you know how I am situated
+at [[Home|home]]. I must speak to you for myself, since there is no one about
+me whom I could ask to do so. It is not generous in you, it is not
+honourable in you, to conduct yourself towards me as you do.’
 
-Lizzie nodded, and asked, ‘Shall she be rich?’
+‘Is it ungenerous or dishonourable to be devoted to you; fascinated by
+you?’
 
-‘She had better be, as he’s poor.’
+‘Preposterous!’ said Bella.
 
-‘She is very rich. Shall she be handsome?’
+The late [[John Harmon]] might have thought it rather a contemptuous and
+lofty word of repudiation.
 
-‘Even you can be that, Lizzie, so she ought to be.’
+‘I now feel obliged to go on,’ pursued the Secretary, ‘though it were
+only in [[Self|self]]-explanation and [[Self|self]]-defence. I [[Hope|hope]], Miss Wilfer, that
+it is not unpardonable—even in me—to make an honest declaration of an
+honest devotion to you.’
 
-‘She is very handsome.’
+‘An honest declaration!’ repeated Bella, with emphasis.
 
-‘What does she say about him?’ asked Miss Jenny, in a low voice:
-watchful, through an intervening [[Silence|silence]], of the face looking down at
-the [[Fire|fire]].
+‘Is it otherwise?’
 
-‘She is glad, glad, to be rich, that he may have the money. She is glad,
-glad, to be beautiful, that he may be proud of her. Her poor heart—’
+‘I must request, sir,’ said Bella, taking refuge in a touch of timely
+resentment, ‘that I may not be questioned. You must excuse me if I
+decline to be [[Cross|cross]]-examined.’
 
-‘Eh? Her poor heart?’ said Miss Wren.
+‘Oh, Miss Wilfer, this is hardly charitable. I ask you nothing but what
+your own emphasis suggests. However, I waive even that question. But
+what I have declared, I take my stand by. I cannot recall the avowal of
+my earnest and deep attachment to you, and I do not recall it.’
 
-‘Her heart—is given him, with all its [[Love|love]] and [[Truth|truth]]. She would
-joyfully die with him, or, better than that, die for him. She knows he
-has failings, but she thinks they have grown up through his being like
-one cast away, for the want of something to trust in, and care for, and
-think [[Well|well]] of. And she says, that lady rich and beautiful that I can
-never come near, “Only put me in that empty place, only try how little
-I mind myself, only prove what a world of things I will do and bear for
-you, and I [[Hope|hope]] that you might even come to be much better than you are,
-through me who am so much worse, and hardly worth the thinking of beside
-you.”’
+‘I reject it, sir,’ said Bella.
 
-As the face looking at the [[Fire|fire]] had become exalted and forgetful in the
-rapture of these words, the little creature, openly clearing away
-her fair hair with her disengaged hand, had gazed at it with earnest
-attention and something like alarm. Now that the speaker ceased, the
-little creature laid down her head again, and moaned, ‘O me, O me, O
-me!’
+‘I should be blind and deaf if I were not prepared for the reply.
+Forgive my offence, for it carries its punishment with it.’
 
-‘In [[Pain|pain]], dear Jenny?’ asked Lizzie, as if awakened.
+‘What punishment?’ asked Bella.
 
-‘Yes, but not the old [[Pain|pain]]. Lay me down, lay me down. Don’t go out of
-my sight to-[[Night|night]]. Lock the door and keep close to me.’ Then turning away
-her face, she said in a whisper to herself, ‘My Lizzie, my poor Lizzie!
-O my blessed children, come back in the long bright slanting rows, and
-come for her, not me. She wants help more than I, my blessed children!’
+‘Is my present [[Endurance|endurance]] none? But excuse me; I did not mean to
+[[Cross|cross]]-examine you again.’
 
-She had stretched her hands up with that higher and better look, and
-now she turned again, and folded them round Lizzie’s neck, and rocked
-herself on Lizzie’s breast.
+‘You take advantage of a hasty word of mine,’ said Bella with a little
+sting of [[Self|self]]-reproach, ‘to make me seem—I don’t know what. I spoke
+without consideration when I used it. If that was bad, I am sorry; but
+you repeat it after consideration, and that seems to me to be at least
+no better. For the rest, I beg it may be understood, Mr Rokesmith, that
+there is an end of this between us, now and for ever.’
+
+‘Now and for ever,’ he repeated.
+
+‘Yes. I appeal to you, sir,’ proceeded Bella with increasing spirit,
+‘not to pursue me. I appeal to you not to take advantage of your
+position in this [[house]] to make my position in it distressing and
+disagreeable. I appeal to you to discontinue your habit of making your
+misplaced attentions as plain to Mrs Boffin as to me.’
+
+‘Have I done so?’
+
+‘I should think you have,’ replied Bella. ‘In any case it is not your
+fault if you have not, Mr Rokesmith.’
+
+‘I [[Hope|hope]] you are wrong in that impression. I should be very sorry to
+have justified it. I think I have not. For the future there is no
+apprehension. It is all over.’
+
+‘I am much relieved to hear it,’ said Bella. ‘I have far other views in
+life, and why should you waste your own?’
+
+‘Mine!’ said the Secretary. ‘My life!’
+
+His curious tone caused Bella to glance at the curious smile with which
+he said it. It was gone as he glanced back. ‘Pardon me, Miss Wilfer,’
+he proceeded, when their eyes met; ‘you have used some hard words, for
+which I do not [[Doubt|doubt]] you have a justification in your mind, that I do
+not understand. Ungenerous and dishonourable. In what?’
+
+‘I would rather not be asked,’ said Bella, haughtily looking down.
+
+‘I would rather not ask, but the question is imposed upon me. Kindly
+explain; or if not kindly, justly.’
+
+‘Oh, sir!’ said Bella, raising her eyes to his, after a little struggle
+to forbear, ‘is it generous and honourable to use the power here which
+your favour with Mr and Mrs Boffin and your ability in your place give
+you, against me?’
+
+‘Against you?’
+
+‘Is it generous and honourable to form a plan for gradually bringing
+their influence to bear upon a suit which I have shown you that I do not
+like, and which I tell you that I utterly reject?’
+
+The late [[John Harmon]] could have borne a good deal, but he would have
+been cut to the heart by such a suspicion as this.
+
+‘Would it be generous and honourable to step into your place—if you did
+so, for I don’t know that you did, and I [[Hope|hope]] you did not—anticipating,
+or knowing beforehand, that I should come here, and designing to take me
+at this disadvantage?’
+
+‘This mean and cruel disadvantage,’ said the Secretary.
+
+‘Yes,’ assented Bella.
+
+The Secretary kept [[Silence|silence]] for a little while; then merely said, ‘You
+are wholly mistaken, Miss Wilfer; wonderfully mistaken. I cannot say,
+however, that it is your fault. If I deserve better things of you, you
+do not know it.’
+
+‘At least, sir,’ retorted Bella, with her old indignation rising, ‘you
+know the [[history]] of my being here at all. I have heard Mr Boffin say
+that you are master of every line and word of that will, as you are
+master of all his affairs. And was it not enough that I should have been
+willed away, like a [[Horse|horse]], or a dog, or a bird; but must you too begin
+to dispose of me in your mind, and speculate in me, as soon as I had
+ceased to be the talk and the laugh of the town? Am I for ever to be
+made the property of strangers?’
+
+‘Believe me,’ returned the Secretary, ‘you are wonderfully mistaken.’
+
+‘I should be glad to know it,’ answered Bella.
+
+‘I [[Doubt|doubt]] if you ever will. Good-[[Night|night]]. Of course I shall be careful to
+conceal any traces of this interview from Mr and Mrs Boffin, as long as
+I remain here. Trust me, what you have complained of is at an end for
+ever.’
+
+‘I am glad I have spoken, then, Mr Rokesmith. It has been painful and
+difficult, but it is done. If I have hurt you, I [[Hope|hope]] you will forgive
+me. I am inexperienced and impetuous, and I have been a little spoilt;
+but I really am not so bad as I dare say I appear, or as you think me.’
+
+He quitted the room when Bella had said this, relenting in her wilful
+inconsistent way. Left [[Alone|alone]], she threw herself back on her ottoman, and
+said, ‘I didn’t know the lovely woman was such a Dragon!’ Then, she
+got up and looked in the glass, and said to her image, ‘You have been
+positively swelling your features, you little [[Fool|fool]]!’ Then, she took an
+impatient walk to the other end of the room and back, and said, ‘I
+wish Pa was here to have a talk about an avaricious [[Marriage|marriage]]; but he
+is better away, poor dear, for I know I should pull his hair if he WAS
+here.’ And then she threw her work away, and threw her book after
+it, and sat down and hummed a tune, and hummed it out of tune, and
+quarrelled with it.
+
+And John Rokesmith, what did he?
+
+He went down to his room, and buried [[John Harmon]] many additional fathoms
+deep. He took his hat, and walked out, and, as he went to Holloway or
+anywhere else—not at all minding where—heaped mounds upon mounds of
+earth over [[John Harmon]]’s [[Grave|grave]]. His walking did not bring him [[Home|home]] until
+the [[Dawn|dawn]] of day. And so busy had he been all [[Night|night]], piling and piling
+weights upon weights of earth above [[John Harmon]]’s [[Grave|grave]], that by that
+[[Time|time]] [[John Harmon]] lay buried under a whole Alpine range; and still the
+Sexton Rokesmith accumulated [[Mountains|mountains]] over him, lightening his labour
+with the [[Dirge|dirge]], ‘Cover him, crush him, keep him down!’

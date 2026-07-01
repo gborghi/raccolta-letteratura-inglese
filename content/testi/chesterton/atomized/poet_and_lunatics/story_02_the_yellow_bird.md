@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/poet-and-lunatics-(chesterton)">Poet and Lunatics</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/poet_and_lunatics/story_01_the_fantastic_friends">‹ Story 01 THE FANTASTIC FRIENDS</a><a class="ex-next" href="/testi/chesterton/atomized/poet_and_lunatics/story_03_the_shadow_of_the_shark">Story 03 THE SHADOW OF THE SHARK ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/poet_and_lunatics/story_01_the_fantastic_friends">‹ Story 01 THE FANTASTIC FRIENDS</a><a class="ex-next" href="/testi/chesterton/atomized/poet_and_lunatics/story_03_the_shadow_shadow_of_the_shark">Story 03 THE Shadow SHADOW OF THE SHARK ›</a></div>
 </nav>
 
 
@@ -801,6 +801,5 @@ and Gabriel Gale turned his face to something like a small crowd.
 
 "It was only the [[Prison|prison]] gun," he said, "the signal that a
 prisoner has escaped."
-
 
 III

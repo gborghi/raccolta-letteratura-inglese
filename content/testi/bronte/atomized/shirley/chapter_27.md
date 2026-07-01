@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 27"
+title: "Shirley — Chapter 27"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/shirley-(bronte)"
@@ -246,7 +246,7 @@ feel indifferent whether I am comprehended or not."
 
 
 
-"Any literary scrub, or shabby, whining [[Artist|artist]]."
+"Any literary scrub, or shabby, whining [[artist]]."
 
 
 

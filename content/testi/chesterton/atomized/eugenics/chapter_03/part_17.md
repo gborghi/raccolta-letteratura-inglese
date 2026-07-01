@@ -1,5 +1,5 @@
 ---
-title: "[[Eugenics]] — Part 2 (part 17)"
+title: "Eugenics — Part 2 (part 17)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/eugenics-(chesterton)"
@@ -13,6 +13,31 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/eugenics/chapter_03/part_16">‹ part 16</a><a class="ex-next" href="/testi/chesterton/atomized/eugenics/chapter_03/part_18">part 18 ›</a></div>
 </nav>
 
+
+Now this anomalous situation will probably ultimately evolve into the
+Servile State of Mr. Belloc's thesis.  The poor will sink into [[Slavery|slavery]];
+it might as correctly be said that the poor will rise into [[Slavery|slavery]].
+That is to say, sooner or later, it is very probable that the rich
+will take over the philanthropic as [[Well|well]] as the tyrannic side
+of the bargain; and will feed men like slaves as [[Well|well]] as hunting
+them like outlaws.  But for the purpose of my own argument it
+is not necessary to carry the process so far as this, or indeed
+any farther than it has already gone.  The purely negative
+stage of interference, at which we have stuck for the present,
+is in itself quite favourable to all these eugenical experiments.
+The capitalist whose half-conscious thought and course of action
+I have simplified into a story in the preceding chapters,
+finds this insufficient solution quite sufficient for his purposes.
+What he has felt for a long [[Time|time]] is that he must check or improve
+the reckless and random breeding of the submerged race, which is at
+once outstripping his requirements and failing to fulfil his needs.
+Now the anomalous situation has already accustomed him to
+stopping things.  The first interferences with sex need only be negative;
+and there are already negative interferences without number.  So that
+the study of this stage of Socialism brings us to the same conclusion
+as that of the ideal of liberty as formally professed by Liberalism.
+The ideal of liberty is lost, and the ideal of Socialism is changed,
+till it is a mere excuse for the oppression of the poor.
 
 The first movements for intervention in the deepest domestic
 concerns of the poor all had this note of negative interference.
@@ -97,28 +122,3 @@ but there has emphatically been such a thing as peasant art.
 And the only literature which even reminds us of the real tone
 and talk of the English working classes is to be found in the comic
 [[Song|song]] of the English music-hall.
-
-I first heard one of them on my voyage to [[america|America]], in the midst
-of the sea within sight of the New World, with the Statue of Liberty
-beginning to loom up on the horizon.  From the lips of a young
-Scotch engineer, of all people in the world, I heard for the first
-[[Time|time]] these immortal words from a [[London]] music-hall [[Song|song]]:---
-
-    "Father's got the sack from the [[Water|water]]-works
-     For smoking of his old cherry-briar;
-     Father's got the sack from the [[Water|water]]-works
-    'Cos he might set the [[Water|water]]-works on [[Fire|fire]]."
-
-As I told my friends in [[america|America]], I think it no part of a patriot to boast;
-and boasting itself is certainly not a thing to boast of.  I [[Doubt|doubt]]
-the persuasive power of English as exemplified in Kipling, and one can
-easily force it on foreigners too much, even as exemplified in Dickens.
-I am no Imperialist, and only on rare and proper occasions a Jingo.
-But when I hear those words about Father and the [[Water|water]]-works,
-when I hear under far-off foreign skies anything so gloriously
-English as that, then indeed (I said to them), then indeed:---
-
-    "I thank the goodness and the grace
-     That on my birth have smiled,
-     And made me, as you see me here,
-     A little English [[Child|child]]."

@@ -1,5 +1,5 @@
 ---
-title: "[[wifrb11]] — The Mistake of the [[Machine]]"
+title: "wifrb11 — The Mistake of the Machine"
 author: "Chesterton"
 unitType: story
 parentWork: "works/wifrb11-(chesterton)"
@@ -16,16 +16,15 @@ tags:
 
                       The Mistake of the [[Machine]]
 
-
 [[Flambeau|FLAMBEAU]] and his friend the priest were sitting in the Temple Gardens
 about sunset; and their neighbourhood or some such accidental influence
 had turned their talk to matters of legal process.  From the problem
 of the licence in [[Cross|cross]]-examination, their talk strayed to Roman and
 mediaeval torture, to the examining magistrate in France and
-the Third Degree in [[america|America]].
+the Third Degree in [[America]].
 
      "I've been reading," said [[Flambeau]], "of this new psychometric method
-they talk about so much, especially in [[america|America]].  You know what I mean;
+they talk about so much, especially in [[America]].  You know what I mean;
 they put a pulsometer on a man's wrist and judge by how his heart goes
 at the pronunciation of certain words.  What do you think of it?"
 
@@ -320,8 +319,8 @@ to shoot a man than in the curious geological surroundings of that pool,
 where a [[Body|body]] thrown down would sink through thick slime to a depth
 practically unknown.  Let us suppose, then, that our friend
 with the cropped hair came to kill Falconroy and not Todd. 
-But, as I have pointed out, there are many reasons why people in [[america|America]]
-might want to kill Todd.  There is no reason why anybody in [[america|America]]
+But, as I have pointed out, there are many reasons why people in [[America]]
+might want to kill Todd.  There is no reason why anybody in [[America]]
 should want to kill an English lord newly landed, except for the one reason
 mentioned in the pink paper--that the lord is paying his attentions
 to the millionaire's daughter.  Our crop-haired friend,
@@ -554,10 +553,10 @@ because it was comparatively mild and rational though still resounding.
 
      "I [[Fear|fear]] you don't read the Society papers properly," he said,
 and began to read out in a monotonous voice, "`Or locked in
-the jewelled bosoms of our [[City|city]]'s gayest leaders; but there is talk
-of a pretty [[Parody|parody]] of the manners and customs of the other end
+the jewelled bosoms of our city's gayest leaders; but there is talk
+of a pretty parody of the manners and customs of the other end
 of Society's scale.' There's been a big Slum Dinner up at
-[[Pilgrim]]'s Pond tonight; and a man, one of the guests, disappeared. 
+Pilgrim's Pond tonight; and a man, one of the guests, disappeared. 
 Mr Ireton Todd is a good host, and has tracked him here,
 without even waiting to take off his fancy-dress."
 
@@ -571,9 +570,9 @@ hove in sight."
 
      "Do you seriously mean--" began the official.
 
-     "Why, look here, Mr Usher," said [[Father Brown]] quietly,
-"you said the [[Machine|machine]] couldn't make a mistake; and in one sense it didn't. 
-But the other [[Machine|machine]] did; the [[Machine|machine]] that worked it. 
+     "Why, look here, Mr Usher," said Father Brown quietly,
+"you said the machine couldn't make a mistake; and in one sense it didn't. 
+But the other machine did; the machine that worked it. 
 You assumed that the man in rags jumped at the name of Lord Falconroy,
 because he was Lord Falconroy's murderer.  He jumped at the name
 of Lord Falconroy because he is Lord Falconroy."
@@ -582,7 +581,7 @@ of Lord Falconroy because he is Lord Falconroy."
 
      "He felt his plight and recent panic were hardly patrician,"
 replied the priest, "so he tried to keep the name back at first. 
-But he was just going to tell it you, when"--and [[Father Brown]] looked
+But he was just going to tell it you, when"--and Father Brown looked
 down at his boots--"when a woman found another name for him."
 
      "But you can't be so mad as to say," said Greywood Usher,
@@ -601,7 +600,7 @@ about this.  But I think," he went on softly and reflectively,
 "I think you Americans are too modest.  I think you idealize
 the English aristocracy--even in assuming it to be so aristocratic. 
 You see a good-looking Englishman in evening-dress; you know
-he's in the [[house|House]] of Lords; and you fancy he has a father. 
+he's in the House of Lords; and you fancy he has a father. 
 You don't allow for our national buoyancy and uplift.  Many of our
 most influential noblemen have not only risen recently, but--"
 
@@ -611,32 +610,29 @@ in impatience against a shade of irony in the other's face.
      "Don't stay talking to this lunatic!" cried Todd brutally.
 "Take me to my friend."
 
-     Next morning [[Father Brown]] appeared with the same demure expression,
+     Next morning Father Brown appeared with the same demure expression,
 carrying yet another piece of pink newspaper.
 
      "I'm afraid you neglect the fashionable press rather," he said,
 "but this cutting may interest you."
 
      Usher read the headlines, "Last-Trick's Strayed Revellers:
-Mirthful Incident near [[Pilgrim]]'s Pond." The paragraph went on: 
+Mirthful Incident near Pilgrim's Pond." The paragraph went on: 
 "A laughable occurrence took place outside Wilkinson's Motor Garage
-last [[Night|night]].  A policeman on duty had his attention drawn by larrikins
-to a man in [[Prison|prison]] dress who was stepping with considerable coolness
+last night.  A policeman on duty had his attention drawn by larrikins
+to a man in prison dress who was stepping with considerable coolness
 into the steering-seat of a pretty high-toned Panhard; he was accompanied
 by a girl wrapped in a ragged shawl.  On the police interfering,
 the young woman threw back the shawl, and all recognized
 Millionaire Todd's daughter, who had just come from the Slum Freak Dinner
 at the Pond, where all the choicest guests were in a similar deshabille. 
-She and the gentleman who had donned [[Prison|prison]] uniform were going for
+She and the gentleman who had donned prison uniform were going for
 the customary joy-ride."
 
      Under the pink slip Mr Usher found a strip of a later paper,
 headed, "Astounding Escape of Millionaire's Daughter with Convict. 
 She had Arranged Freak Dinner.  Now Safe in--"
 
-     Mr Greenwood Usher lifted his eyes, but [[Father Brown]] was gone.
-
-
-
+     Mr Greenwood Usher lifted his eyes, but Father Brown was gone.
 
                                   SIX

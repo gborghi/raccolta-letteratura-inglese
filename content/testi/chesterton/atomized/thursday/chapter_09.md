@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 9"
+title: "thursday — Chapter 9"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/thursday-(chesterton)"
@@ -17,7 +17,6 @@ tags:
                          CHAPTER IX
 
                     THE MAN IN SPECTACLES
-
 
 "BURGUNDY is a jolly thing," said [[The Professor|the Professor]] sadly, as he set
 his glass down.

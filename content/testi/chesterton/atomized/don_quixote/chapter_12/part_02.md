@@ -1,5 +1,5 @@
 ---
-title: "[[Don Quixote]] — Chapter 11 (part 2)"
+title: "Don Quixote — Chapter 11 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/don-quixote-(chesterton)"
@@ -142,8 +142,3 @@ certainly become rather a symbol of them.  I assure you some people
 whom I admire very much regarded it rather as a scarf dipped in gore.
 In fact, if you go back to the beginning, I think that was the reason
 why I wore it."
-
-"I dare say," said the librarian thoughtfully, "that was why
-you wore a red tie.  But I want to know why you wore a tie.
-I want to know why anybody, of all the sacred race of man,
-ever wore a tie."

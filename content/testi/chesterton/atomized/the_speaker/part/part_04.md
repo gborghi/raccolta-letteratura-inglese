@@ -50,7 +50,6 @@ lines of Goldsmith?--
 Have we realised that these ragged folk are the real riches
 of the Transvaal?  Can we work the mines of the human gold?
 
-
 Buddha Versus Buddhism
 
 --November 17, 1900, The Speaker

@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 9 (part 4)"
+title: "Nicholas Nickleby — Chapter 9 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,56 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_09/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_09/part_05">part 05 ›</a></div>
 </nav>
 
+
+‘Where’s John, ‘Tilda?’ said Miss Squeers.
+
+‘Only gone [[Home|home]] to clean himself,’ replied the friend. ‘He will be here
+by the [[Time|time]] the tea’s drawn.’
+
+‘I do so palpitate,’ observed Miss Squeers.
+
+‘Ah! I know what it is,’ replied the friend.
+
+‘I have not been used to it, you know, ‘Tilda,’ said Miss Squeers,
+applying her hand to the left side of her sash.
+
+‘You’ll soon get the better of it, dear,’ rejoined the friend. While
+they were talking thus, the hungry servant brought in the tea-things,
+and, soon afterwards, somebody tapped at the room door.
+
+‘There he is!’ cried Miss Squeers. ‘Oh ‘Tilda!’
+
+‘Hush!’ said ‘Tilda. ‘Hem! Say, come in.’
+
+‘Come in,’ cried Miss Squeers faintly. And in walked Nicholas.
+
+‘Good-evening,’ said that young gentleman, all unconscious of his
+conquest. ‘I understood from Mr. Squeers that--’
+
+‘Oh yes; it’s all right,’ interposed Miss Squeers. ‘Father don’t tea
+with us, but you won’t mind that, I dare say.’ (This was said archly.)
+
+Nicholas opened his eyes at this, but he turned the matter off very
+coolly--not caring, particularly, about anything just then--and went
+through the ceremony of introduction to the miller’s daughter with so
+much grace, that that young lady was lost in admiration.
+
+‘We are only waiting for one more gentleman,’ said Miss Squeers, taking
+off the teapot lid, and looking in, to see how the tea was getting on.
+
+It was matter of equal moment to Nicholas whether they were waiting for
+one gentleman or twenty, so he received the intelligence with perfect
+unconcern; and, being out of spirits, and not seeing any especial reason
+why he should make himself agreeable, looked out of the [[Window|window]] and
+sighed involuntarily.
+
+As luck would have it, Miss Squeers’s friend was of a playful turn, and
+hearing Nicholas sigh, she took it into her head to rally the [[lovers]] on
+their lowness of spirits.
+
+‘But if it’s caused by my being here,’ said the young lady, ‘don’t mind
+me a bit, for I’m quite as bad. You may go on just as you would if you
+were [[Alone|alone]].’
 
 ‘’Tilda,’ said Miss Squeers, colouring up to the top row of curls,
 ‘I am ashamed of you;’ and here the two friends burst into a variety
@@ -99,51 +149,3 @@ never forgive you, or speak to you again.’
 ‘Weel, my lass, I dean’t care aboot ‘un,’ said the corn-factor,
 bestowing a hearty kiss on Miss Matilda; ‘let ‘un gang on, let ‘un gang
 on.’
-
-It now became Miss Squeers’s turn to intercede with Nicholas, which she
-did with many symptoms of alarm and horror; the effect of the [[Double|double]]
-intercession was, that he and John Browdie shook hands across the table
-with much gravity; and such was the imposing [[Nature|nature]] of the ceremonial,
-that Miss Squeers was overcome and shed [[Tears|tears]].
-
-‘What’s the matter, Fanny?’ said Miss Price.
-
-‘Nothing, ‘Tilda,’ replied Miss Squeers, sobbing.
-
-‘There never was any danger,’ said Miss Price, ‘was there, Mr. Nickleby?’
-
-‘None at all,’ replied Nicholas. ‘Absurd.’
-
-‘That’s right,’ whispered Miss Price, ‘say something kind to her,
-and she’ll soon come round. Here! Shall John and I go into the little
-kitchen, and come back presently?’
-
-‘Not on any account,’ rejoined Nicholas, quite alarmed at the
-proposition. ‘What on earth should you do that for?’
-
-‘[[Well]],’ said Miss Price, beckoning him aside, and speaking with some
-degree of contempt--‘you ARE a one to keep company.’
-
-‘What do you mean?’ said Nicholas; ‘I am not a one to keep company at
-all--here at all events. I can’t make this out.’
-
-‘No, nor I neither,’ rejoined Miss Price; ‘but men are always fickle,
-and always were, and always will be; that I can make out, very easily.’
-
-‘Fickle!’ cried Nicholas; ‘what do you suppose? You don’t mean to say
-that you think--’
-
-‘Oh no, I think nothing at all,’ retorted Miss Price, pettishly.
-‘Look at her, dressed so beautiful and looking so [[Well|well]]--really ALMOST
-handsome. I am ashamed at you.’
-
-‘My dear girl, what have I got to do with her dressing beautifully or
-looking [[Well|well]]?’ inquired Nicholas.
-
-‘Come, don’t call me a dear girl,’ said Miss Price--smiling a little
-though, for she was pretty, and a coquette too in her small way, and
-Nicholas was good-looking, and she supposed him the property of somebody
-else, which were all reasons why she should be gratified to think she
-had made an impression on him,--‘or Fanny will be saying it’s my fault.
-Come; we’re going to have a game at cards.’ Pronouncing these last words
-aloud, she tripped away and rejoined the big Yorkshireman.

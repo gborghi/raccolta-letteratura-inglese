@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 38 (part 5)"
+title: "Villette — Chapter 38 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,38 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_40/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_40/part_06">part 06 ›</a></div>
 </nav>
 
+
+On rejoining my companions, I knew they all looked at me—my heart
+seemed discovered to them: I believed myself [[Self|self]]-betrayed. Hideously
+certain did it seem that the very youngest of the school must guess why
+and for whom I despaired.
+
+“Isabelle,” the [[Child|child]] whom I had once nursed in sickness, approached
+me. Would she, too, mock me!
+
+“Que vous êtes pâle! Vous êtes donc bien malade, Mademoiselle!” said
+she, putting her finger in her mouth, and staring with a wistful
+stupidity which at the moment seemed to me more beautiful than the
+keenest intelligence.
+
+Isabelle did not long stand [[Alone|alone]] in the recommendation of ignorance:
+before the day was over, I gathered cause of gratitude towards the
+whole blind household. The multitude have something else to do than to
+read hearts and interpret dark sayings. Who wills, may keep his own
+counsel—be his own secret’s sovereign. In the course of that day, proof
+met me on proof, not only that the cause of my present sorrow was
+unguessed, but that my whole [[Inner Life|inner life]] for the last six months, was
+still mine only. It was not known—it had not been noted—that I held in
+peculiar value one life among all lives. Gossip had passed me by;
+curiosity had looked me over; both subtle influences, hovering always
+round, had never become centred upon me. A given organization may live
+in a full fever-hospital, and escape typhus. M. Emanuel had come and
+gone: I had been taught and sought; in season and out of season he had
+called me, and I had obeyed him: “M. Paul wants Miss Lucy”—“Miss Lucy
+is with M. Paul”—such had been the perpetual bulletin; and nobody
+commented, far less condemned. Nobody hinted, nobody jested. Madame
+Beck read the [[Riddle|riddle]]: none else resolved it. What I now suffered was
+called illness—a headache: I accepted the baptism.
 
 But what bodily illness was ever like this [[Pain|pain]]? This certainty that he
 was gone without a farewell—this cruel conviction that fate and
@@ -94,37 +126,3 @@ breathing! How very still the whole large [[house]]! What was the [[Time|time]]?
 felt restless to know. There stood a [[Clock|clock]] in the classe below: what
 hindered me from venturing down to consult it? By such a [[Moon|moon]], its
 large white face and jet black figures must be vividly distinct.
-
-As for hindrance to this step, there offered not so much as a creaking
-hinge or a clicking latch. On these hot July nights, close air could
-not be tolerated, and the chamber-door stood wide open. Will the
-dormitory-planks sustain my tread untraitorous? Yes. I know wherever a
-board is loose, and will avoid it. The oak staircase creaks somewhat as
-I descend, but not much:—I am in the carré.
-
-The great classe-doors are close shut: they are bolted. On the other
-hand, the entrance to the corridor stands open. The classes seem to my
-thought, great dreary jails, buried far back beyond thoroughfares, and
-for me, filled with spectral and intolerable Memories, laid miserable
-amongst their straw and their manacles. The corridor offers a cheerful
-vista, leading to the high vestibule which opens direct upon the
-street.
-
-Hush!—the [[Clock|clock]] strikes. Ghostly deep as is the stillness of this
-convent, it is only eleven. While my ear follows to [[Silence|silence]] the hum of
-the last stroke, I catch faintly from the built-out capital, a sound
-like [[Bells|bells]] or like a band—a sound where sweetness, where victory, where
-mourning blend. Oh, to approach this music nearer, to listen to it
-[[Alone|alone]] by the rushy basin! Let me go—oh, let me go! What hinders, what
-does not aid [[Freedom|freedom]]?
-
-There, in the corridor, hangs my [[Garden|garden]]-costume, my large hat, my
-shawl. There is no lock on the huge, heavy, porte-cochère; there is no
-key to seek: it fastens with a sort of [[spring]]-bolt, not to be opened
-from the outside, but which, from within, may be noiselessly withdrawn.
-Can I manage it? It yields to my hand, yields with propitious facility.
-I [[Wonder|wonder]] as that portal seems almost spontaneously to unclose—I [[Wonder|wonder]]
-as I [[Cross|cross]] the threshold and step on the paved street, [[Wonder|wonder]] at the
-strange ease with which this [[Prison|prison]] has been forced. It seems as if I
-had been pioneered invisibly, as if some dissolving force had gone
-before me: for myself, I have scarce made an effort.

@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 35 (part 2)"
+title: "Shirley — Chapter 35 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_35/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_35/part_03">part 03 ›</a></div>
 </nav>
 
+
+restrictive than protective. Still, whatever contributed to his
+
+happiness pleased her, and she expressed herself to that effect.
+
+
+
+He sat down, but soon [[Rose|rose]] again. He went to the [[Window|window]]; he came back to
 
 the [[Fire|fire]].
 
@@ -301,41 +309,3 @@ my credit, and consequently will not please you."
 
 
 "Ah, don't! I cannot bear to think ill of you."
-
-
-
-"And I cannot bear that you should think better of me than I deserve."
-
-
-
-"[[Well]], but I half know your 'thing;' indeed, I believe I know all about
-
-it."
-
-
-
-"You do not."
-
-
-
-"I believe I do."
-
-
-
-"Whom does it concern besides me?"
-
-
-
-She coloured; she hesitated; she was silent.
-
-
-
-"Speak, Cary! Whom does it concern?"
-
-
-
-She tried to utter a name, and could not.
-
-
-
-"Tell me; there is none present but ourselves. Be frank."

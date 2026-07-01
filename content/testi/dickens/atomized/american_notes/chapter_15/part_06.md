@@ -10,9 +10,50 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/american-notes-(dickens)">American Notes</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/american_notes/chapter_15/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/american_notes/chapter_16/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/american_notes/chapter_15/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/american_notes/chapter_15/part_07">part 07 ›</a></div>
 </nav>
 
+
+We were taking an early dinner at this [[house]], on the day after our
+arrival, which was [[Sunday]], when a steamboat came in sight, and presently
+touched at the wharf.  As she proved to be on her way to Buffalo, we
+hurried on board with all [[Speed|speed]], and soon left Sandusky far behind us.
+
+She was a large vessel of five hundred tons, and handsomely fitted up,
+though with high-pressure engines; which always conveyed that kind of
+feeling to me, which I should be likely to experience, I think, if I had
+lodgings on the first-floor of a powder-mill.  She was laden with flour,
+some casks of which commodity were stored upon the deck.  The captain
+coming up to have a little conversation, and to introduce a friend,
+seated himself astride of one of these barrels, like a Bacchus of private
+life; and pulling a great clasp-knife out of his pocket, began to
+‘whittle’ it as he talked, by paring thin slices off the edges.  And he
+whittled with such industry and hearty good will, that but for his being
+called away very soon, it must have disappeared bodily, and left nothing
+in its place but grist and shavings.
+
+After calling at one or two flat places, with low dams stretching out
+into the lake, whereon were stumpy lighthouses, like windmills without
+sails, the whole looking like a Dutch vignette, we came at midnight to
+Cleveland, where we lay all [[Night|night]], and until nine o’[[Clock|clock]] next morning.
+
+I entertained quite a curiosity in reference to this place, from having
+seen at Sandusky a specimen of its literature in the shape of a
+newspaper, which was very strong indeed upon the subject of Lord
+Ashburton’s recent arrival at Washington, to adjust the points in dispute
+between the United States [[government|Government]] and Great Britain: informing its
+readers that as [[america|America]] had ‘whipped’ England in her infancy, and whipped
+her again in her youth, so it was clearly necessary that she must whip
+her once again in her maturity; and pledging its credit to all True
+Americans, that if Mr. Webster did his duty in the approaching
+negotiations, and sent the English Lord [[Home|home]] again in [[Double|double]] quick [[Time|time]],
+they should, within two years, sing ‘Yankee Doodle in Hyde Park, and Hail
+Columbia in the scarlet courts of Westminster!’  I found it a pretty
+town, and had the satisfaction of beholding the outside of the office of
+the journal from which I have just quoted.  I did not enjoy the delight
+of seeing the wit who indited the paragraph in question, but I have no
+[[Doubt|doubt]] he is a prodigious man in his way, and held in high repute by a
+select circle.
 
 There was a gentleman on board, to whom, as I unintentionally learned
 through the thin partition which divided our state-room from the cabin in
@@ -71,41 +112,3 @@ the Dead, great thoughts of Eternal Rest and Happiness: nothing of gloom
 or terror.  Niagara was at once stamped upon my heart, an Image of
 [[Beauty]]; to remain there, changeless and indelible, until its pulses cease
 to beat, for ever.
-
-Oh, how the strife and trouble of daily life receded from my view, and
-lessened in the distance, during the ten memorable days we passed on that
-Enchanted Ground!  What voices spoke from out the thundering [[Water|water]]; what
-faces, faded from the earth, looked out upon me from its gleaming depths;
-what Heavenly promise glistened in those angels’ [[Tears|tears]], the drops of many
-hues, that showered around, and twined themselves about the gorgeous
-arches which the changing rainbows made!
-
-I never stirred in all that [[Time|time]] from the Canadian side, whither I had
-gone at first.  I never crossed the [[River|river]] again; for I knew there were
-people on the other shore, and in such a place it is natural to shun
-strange company.  To wander to and fro all day, and see the cataracts
-from all points of view; to stand upon the edge of the great [[Horse]]-Shoe
-Fall, marking the hurried [[Water|water]] gathering strength as it approached the
-verge, yet seeming, too, to pause before it shot into the gulf below; to
-gaze from the [[River|river]]’s level up at the torrent as it came streaming down;
-to climb the neighbouring heights and watch it through the trees, and see
-the wreathing [[Water|water]] in the rapids hurrying on to take its fearful plunge;
-to linger in the [[Shadow|shadow]] of the solemn rocks three miles below; watching
-the [[River|river]] as, stirred by no visible cause, it heaved and eddied and awoke
-the echoes, being troubled yet, far down beneath the surface, by its
-giant leap; to have Niagara before me, lighted by the sun and by the
-[[Moon|moon]], red in the day’s decline, and grey as evening slowly fell upon it;
-to look upon it every day, and wake up in the [[Night|night]] and hear its
-ceaseless voice: this was enough.
-
-I think in every quiet season now, still do those waters roll and leap,
-and roar and tumble, all day long; still are the rainbows spanning them,
-a hundred feet below.  Still, when the sun is on them, do they shine and
-glow like molten gold.  Still, when the day is gloomy, do they fall like
-[[Snow|snow]], or seem to crumble away like the front of a great [[chalk]] cliff, or
-roll down the rock like dense white smoke.  But always does the mighty
-stream appear to die as it comes down, and always from its unfathomable
-[[Grave|grave]] arises that tremendous [[Ghost|ghost]] of spray and mist which is never laid:
-which has haunted this place with the same dread solemnity since Darkness
-brooded on the deep, and that first flood before the [[deluge|Deluge]]—Light—came
-rushing on Creation at the word of God.

@@ -1,5 +1,5 @@
 ---
-title: "[[Henry VI]] Part One — Act I, Scene 1 — exchange (BEDFORD) [4]"
+title: "Henry VI Part One — Act I, Scene 1 — exchange (BEDFORD) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/henry-vi-part-one-(shakespeare)"

@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 7 (part 3)"
+title: "Shirley — Chapter 7 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_07/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_07/part_04">part 04 ›</a></div>
 </nav>
 
+
+Rumours had reached her ear of what that father's character was; old
+
+servants had dropped hints; she knew, too, that he was not a good man,
+
+and that he was never kind to her. She recollected--a dark recollection
+
+it was--some weeks that she had spent with him in a great town
+
+somewhere, when she had had no maid to dress her or take care of her;
+
+when she had been shut up, day and [[Night|night]], in a high garret-room, without
+
+a carpet, with a bare uncurtained bed, and scarcely any other furniture;
 
 when he went out early every morning, and often forgot to return and
 
@@ -201,23 +215,3 @@ scorpion. Show no consternation: close your fingers firmly upon the
 gift; let it sting through your palm. Never mind; in [[Time|time]], after your
 
 hand and arm have swelled and quivered long with torture, the squeezed
-
-scorpion will die, and you will have learned the great lesson how to
-
-endure without a sob. For the whole remnant of your life, if you survive
-
-the test--some, it is said, die under it--you will be stronger, wiser,
-
-less sensitive. This you are not aware of, perhaps, at the [[Time|time]], and so
-
-cannot borrow [[Courage|courage]] of that [[Hope|hope]]. [[Nature]], however, as has been
-
-intimated, is an excellent friend in such cases, sealing the lips,
-
-interdicting utterance, commanding a placid dissimulation--a
-
-dissimulation often wearing an easy and gay mien at first, settling down
-
-to sorrow and paleness in [[Time|time]], then passing away, and leaving a
-
-convenient stoicism, not the less fortifying because it is half-bitter.

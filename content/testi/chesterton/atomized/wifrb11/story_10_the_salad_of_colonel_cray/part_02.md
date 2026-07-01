@@ -1,5 +1,5 @@
 ---
-title: "[[wifrb11]] — The Salad of Colonel Cray (part 2)"
+title: "wifrb11 — The Salad of Colonel Cray (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_10_the_salad_of_colonel_cray/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_10_the_salad_of_colonel_cray/part_03">part 03 ›</a></div>
 </nav>
 
+
+     "Did he--" asked Major Putnam in a lowered voice, "did he fall
+or cry out, or anything?"
+
+     Colonel Cray was regarding his host with a strange and steady stare. 
+"I'll tell you exactly what he did," he said.  "He sneezed."
 
      [[Father Brown]]'s hand went half-way to his head, with the gesture
 of a man remembering somebody's name.  He knew now what it was
@@ -118,15 +124,3 @@ than the ward.
 
      "It serves you right," she was saying:  "I always told you
 not to have that old-fashioned cruet-stand."
-
-     "I prefer it," said Putnam, placably.  "I'm old-fashioned myself;
-and the things keep together."
-
-     "And vanish together, as you see," she retorted.  "[[Well]], if you are
-not going to bother about the burglar, I shouldn't bother about the lunch. 
-It's [[Sunday]], and we can't send for vinegar and all that in the town;
-and you Indian gentlemen can't enjoy what you call a dinner without
-a lot of hot things.  I wish to goodness now you hadn't asked
-Cousin [[Oliver]] to take me to the musical service.  It isn't over
-till half-past twelve, and the Colonel has to leave by then. 
-I don't believe you men can manage [[Alone|alone]]."

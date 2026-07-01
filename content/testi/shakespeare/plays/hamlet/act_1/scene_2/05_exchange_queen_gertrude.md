@@ -1,5 +1,5 @@
 ---
-title: "[[Hamlet]] — Act I, Scene 2 — exchange ([[Queen|QUEEN]] [[Gertrude|GERTRUDE]]) [5]"
+title: "Hamlet — Act I, Scene 2 — exchange (QUEEN GERTRUDE) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/hamlet-(shakespeare)"

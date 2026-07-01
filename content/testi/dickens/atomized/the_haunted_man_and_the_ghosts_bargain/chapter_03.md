@@ -1,5 +1,5 @@
 ---
-title: "The Haunted Man and the [[Ghost]]'s Bargain — Chapter 3"
+title: "The Haunted Man and the Ghost's Bargain — Chapter 3"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/the-haunted-man-and-the-ghost's-bargain-(dickens)"
@@ -162,7 +162,7 @@ you have yielded up. No softening [[Memory|memory]] of sorrow, wrong, or trouble
 enters here, because this wretched mortal from his birth has been
 abandoned to a worse condition than the beasts, and has, within his
 knowledge, no one contrast, no humanising touch, to make a grain of such
-a [[Memory|memory]] [[Spring|spring]] up in his hardened breast. All within this desolate
+a [[Memory|memory]] [[spring]] up in his hardened breast. All within this desolate
 creature is barren wilderness. All within the man bereft of what you
 have resigned, is the same barren wilderness. Woe to such a man! Woe,
 tenfold, to the nation that shall count its monsters such as this, lying

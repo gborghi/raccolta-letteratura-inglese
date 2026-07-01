@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities — Chapter 6"
+title: "A Tale of Two Cities — Chapter 8"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/a-tale-of-two-cities-(dickens)"
@@ -14,279 +14,561 @@ tags:
 </nav>
 
 
-CHAPTER VI.
-Triumph
+CHAPTER VIII.
+A Hand at Cards
 
 
-The dread tribunal of five Judges, Public Prosecutor, and determined
-Jury, sat every day. Their lists went forth every evening, and were
-read out by the gaolers of the various prisons to their prisoners. The
-standard gaoler-joke was, “Come out and listen to the Evening Paper, you
-inside there!”
+Happily unconscious of the new calamity at [[Home|home]], [[Miss Pross]] threaded her
+way along the narrow streets and crossed the [[River|river]] by the bridge of the
+Pont-Neuf, reckoning in her mind the number of indispensable purchases
+she had to make. Mr. Cruncher, with the basket, walked at her side. They
+both looked to the right and to the left into most of the shops they
+passed, had a wary eye for all gregarious assemblages of people, and
+turned out of their [[Road|road]] to avoid any very excited group of talkers. It
+was a raw evening, and the misty [[River|river]], blurred to the eye with blazing
+lights and to the ear with harsh noises, showed where the barges were
+stationed in which the smiths worked, making guns for the Army of the
+Republic. Woe to the man who played tricks with _that_ Army, or got
+undeserved promotion in it! Better for him that his beard had never
+grown, for the National Razor shaved him close.
 
-“Charles Evrémonde, called Darnay!”
+Having purchased a few small articles of grocery, and a measure of oil
+for the lamp, [[Miss Pross]] bethought herself of the wine they wanted.
+After peeping into several wine-shops, she stopped at the sign of the
+Good Republican [[Brutus]] of Antiquity, not far from the National Palace,
+once (and twice) the Tuileries, where the aspect of things rather
+took her fancy. It had a quieter look than any other place of the same
+description they had passed, and, though red with patriotic caps, was
+not so red as the rest. Sounding Mr. Cruncher, and finding him of her
+opinion, [[Miss Pross]] resorted to the Good Republican [[Brutus]] of Antiquity,
+attended by her cavalier.
 
-So at last began the Evening Paper at La Force.
+Slightly observant of the smoky lights; of the people, pipe in mouth,
+playing with limp cards and yellow dominoes; of the one bare-breasted,
+bare-armed, soot-begrimed workman reading a journal aloud, and of
+the others listening to him; of the weapons worn, or laid aside to be
+resumed; of the two or three customers fallen forward asleep, who in the
+popular high-shouldered shaggy black spencer looked, in that attitude,
+like slumbering bears or [[dogs]]; the two outlandish customers approached
+the counter, and showed what they wanted.
 
-When a name was called, its owner stepped apart into a spot reserved
-for those who were announced as being thus fatally recorded. Charles
-Evrémonde, called Darnay, had reason to know the usage; he had seen
-hundreds pass away so.
+As their wine was measuring out, a man parted from another man in a
+corner, and [[Rose|rose]] to depart. In going, he had to face [[Miss Pross]]. No
+sooner did he face her, than [[Miss Pross]] uttered a scream, and clapped
+her hands.
 
-His bloated gaoler, who wore spectacles to read with, glanced over them
-to assure himself that he had taken his place, and went through the
-list, making a similar short pause at each name. There were twenty-three
-names, but only twenty were responded to; for one of the prisoners so
-summoned had died in gaol and been forgotten, and two had already been
-guillotined and forgotten. The list was read, in the vaulted chamber
-where Darnay had seen the associated prisoners on the [[Night|night]] of his
-arrival. Every one of those had perished in the massacre; every human
-creature he had since cared for and parted with, had died on the
-scaffold.
+In a moment, the whole company were on their feet. That somebody was
+assassinated by somebody vindicating a difference of opinion was the
+likeliest occurrence. Everybody looked to see somebody fall, but only
+saw a man and a woman standing staring at each other; the man with all
+the outward aspect of a Frenchman and a thorough Republican; the woman,
+evidently English.
 
-There were hurried words of farewell and kindness, but the parting was
-soon over. It was the incident of every day, and the society of La Force
-were engaged in the preparation of some games of forfeits and a little
-concert, for that evening. They crowded to the grates and shed [[Tears|tears]]
-there; but, twenty places in the projected entertainments had to be
-refilled, and the [[Time|time]] was, at best, short to the lock-up hour, when the
-common rooms and corridors would be delivered over to the great [[dogs]]
-who kept watch there through the [[Night|night]]. The prisoners were far from
-insensible or unfeeling; their ways arose out of the condition of the
-[[Time|time]]. Similarly, though with a subtle difference, a species of fervour
-or intoxication, known, without [[Doubt|doubt]], to have led some persons to
-brave the guillotine unnecessarily, and to die by it, was not mere
-boastfulness, but a wild infection of the wildly shaken public mind. In
-[[Seasons|seasons]] of pestilence, some of us will have a secret attraction to the
-disease--a terrible passing inclination to die of it. And all of us have
-like wonders hidden in our breasts, only needing circumstances to evoke
-them.
+What was said in this disappointing anti-climax, by the disciples of the
+Good Republican [[Brutus]] of Antiquity, except that it was something very
+voluble and loud, would have been as so much Hebrew or Chaldean to Miss
+Pross and her protector, though they had been all ears. But, they had no
+ears for anything in their surprise. For, it must be recorded, that
+not only was [[Miss Pross]] lost in amazement and agitation, but,
+Mr. Cruncher--though it seemed on his own separate and individual
+account--was in a state of the greatest [[Wonder|wonder]].
 
-The passage to the Conciergerie was short and dark; the [[Night|night]] in its
-vermin-haunted cells was long and cold. Next day, fifteen prisoners were
-put to the bar before [[Charles Darnay]]’s name was called. All the fifteen
-were condemned, and the trials of the whole occupied an hour and a half.
+“What is the matter?” said the man who had caused [[Miss Pross]] to scream;
+speaking in a vexed, abrupt voice (though in a low tone), and in
+English.
 
-“Charles Evrémonde, called Darnay,” was at length arraigned.
+“Oh, Solomon, dear Solomon!” cried [[Miss Pross]], clapping her hands again.
+“After not setting eyes upon you or hearing of you for so long a [[Time|time]],
+do I find you here!”
 
-His judges sat upon the Bench in feathered hats; but the rough red cap
-and tricoloured cockade was the head-dress otherwise prevailing. Looking
-at the Jury and the turbulent audience, he might have thought that the
-usual order of things was reversed, and that the felons were trying the
-honest men. The lowest, cruelest, and worst populace of a [[City|city]], never
-without its quantity of low, cruel, and bad, were the directing
-spirits of the scene: noisily commenting, applauding, disapproving,
-anticipating, and precipitating the result, without a check. Of the men,
-the greater part were armed in various ways; of the women, some wore
-knives, some daggers, some ate and drank as they looked on, many
-knitted. Among these last, was one, with a spare piece of knitting under
-her arm as she worked. She was in a front row, by the side of a man whom
-he had never seen since his arrival at the Barrier, but whom he directly
-remembered as Defarge. He noticed that she once or twice whispered in
-his ear, and that she seemed to be his wife; but, what he most noticed
-in the two figures was, that although they were posted as close to
-himself as they could be, they never looked towards him. They seemed to
-be waiting for something with a dogged determination, and they looked at
-the Jury, but at nothing else. Under the President sat [[Doctor Manette]],
-in his usual quiet dress. As [[Well|well]] as the prisoner could see, he and Mr.
-Lorry were the only men there, unconnected with the Tribunal, who
-wore their usual clothes, and had not assumed the coarse garb of the
-Carmagnole.
+“Don’t call me Solomon. Do you want to be the [[Death|death]] of me?” asked the
+man, in a furtive, frightened way.
 
-Charles Evrémonde, called Darnay, was accused by the public prosecutor
-as an emigrant, whose life was forfeit to the Republic, under the decree
-which banished all emigrants on [[Pain|pain]] of [[Death]]. It was nothing that the
-decree bore date since his return to France. There he was, and there was
-the decree; he had been taken in France, and his head was demanded.
+“Brother, brother!” cried [[Miss Pross]], bursting into [[Tears|tears]]. “Have I ever
+been so hard with you that you ask me such a cruel question?”
 
-“Take off his head!” cried the audience. “An enemy to the Republic!”
+“Then hold your meddlesome tongue,” said Solomon, “and come out, if you
+want to speak to me. Pay for your wine, and come out. Who’s this man?”
 
-The President rang his bell to [[Silence|silence]] those cries, and asked the
-prisoner whether it was not true that he had lived many years in
-England?
+[[Miss Pross]], shaking her loving and dejected head at her by no means
+affectionate brother, said through her [[Tears|tears]], “Mr. Cruncher.”
 
-Undoubtedly it was.
+“Let him come out too,” said Solomon. “Does he think me a [[Ghost|ghost]]?”
 
-Was he not an emigrant then? What did he call himself?
+Apparently, Mr. Cruncher did, to judge from his looks. He said not a
+word, however, and [[Miss Pross]], exploring the depths of her reticule
+through her [[Tears|tears]] with great difficulty paid for her wine. As she did
+so, Solomon turned to the followers of the Good Republican [[Brutus]]
+of Antiquity, and offered a few words of explanation in the French
+language, which caused them all to relapse into their former places and
+pursuits.
 
-Not an emigrant, he hoped, within the sense and spirit of the law.
+“Now,” said Solomon, stopping at the dark street corner, “what do you
+want?”
 
-Why not? the President desired to know.
+“How dreadfully unkind in a brother nothing has ever turned my [[Love|love]] away
+from!” cried [[Miss Pross]], “to give me such a greeting, and show me no
+affection.”
 
-Because he had voluntarily relinquished a title that was distasteful
-to him, and a station that was distasteful to him, and had left
-his country--he submitted before the word emigrant in the present
-acceptation by the Tribunal was in use--to live by his own industry in
-England, rather than on the industry of the overladen people of France.
+“There. Confound it! There,” said Solomon, making a dab at [[Miss Pross]]’s
+lips with his own. “Now are you content?”
 
-What proof had he of this?
+[[Miss Pross]] only shook her head and wept in [[Silence|silence]].
 
-He handed in the names of two witnesses; Theophile Gabelle, and
-Alexandre Manette.
+“If you expect me to be surprised,” said her brother Solomon, “I am not
+surprised; I knew you were here; I know of most people who are here. If
+you really don’t want to endanger my existence--which I half believe you
+do--go your ways as soon as possible, and let me go mine. I am busy. I
+am an official.”
 
-But he had married in England? the President reminded him.
+“My English brother Solomon,” mourned [[Miss Pross]], casting up her
+tear-fraught eyes, “that had the makings in him of one of the best and
+greatest of men in his native country, an official among foreigners, and
+such foreigners! I would almost sooner have seen the dear boy lying in
+his--”
 
-True, but not an English woman.
+“I said so!” cried her brother, interrupting. “I knew it. You want to be
+the [[Death|death]] of me. I shall be rendered Suspected, by my own sister. Just
+as I am getting on!”
 
-A citizeness of France?
+“The gracious and merciful Heavens forbid!” cried [[Miss Pross]]. “Far
+rather would I never see you again, dear Solomon, though I have ever
+loved you truly, and ever shall. Say but one affectionate word to me,
+and tell me there is nothing angry or estranged between us, and I will
+detain you no longer.”
 
-Yes. By birth.
+Good [[Miss Pross]]! As if the estrangement between them had come of any
+culpability of hers. As if Mr. Lorry had not known it for a fact, years
+ago, in the quiet corner in Soho, that this precious brother had spent
+her money and left her!
 
-Her name and family?
+He was saying the affectionate word, however, with a far more grudging
+condescension and patronage than he could have shown if their relative
+merits and positions had been reversed (which is invariably the case,
+all the world over), when Mr. Cruncher, touching him on the shoulder,
+hoarsely and unexpectedly interposed with the following singular
+question:
 
-“[[Lucie Manette]], only daughter of [[Doctor Manette]], the good physician who
-sits there.”
+“I say! Might I ask the favour? As to whether your name is John Solomon,
+or Solomon John?”
 
-This answer had a happy effect upon the audience. Cries in exaltation
-of the [[Well|well]]-known good physician rent the hall. So capriciously were
-the people moved, that [[Tears|tears]] immediately rolled down several ferocious
-countenances which had been glaring at the prisoner a moment before, as
-if with impatience to pluck him out into the streets and kill him.
+The official turned towards him with sudden distrust. He had not
+previously uttered a word.
 
-On these few steps of his dangerous way, [[Charles Darnay]] had set his foot
-according to [[Doctor Manette]]’s reiterated instructions. The same cautious
-counsel directed every step that lay before him, and had prepared every
-inch of his [[Road|road]].
+“Come!” said Mr. Cruncher. “Speak out, you know.” (Which, by the way,
+was more than he could do himself.) “John Solomon, or Solomon John? She
+calls you Solomon, and she must know, being your sister. And _I_ know
+you’re John, you know. Which of the two goes first? And regarding that
+name of Pross, likewise. That warn’t your name over the [[Water|water]].”
 
-The President asked, why had he returned to France when he did, and not
-sooner?
+“What do you mean?”
 
-He had not returned sooner, he replied, simply because he had no means
-of living in France, save those he had resigned; whereas, in England,
-he lived by giving instruction in the French language and literature.
-He had returned when he did, on the pressing and written entreaty of
-a French citizen, who represented that his life was endangered by his
-absence. He had come back, to save a citizen’s life, and to bear his
-testimony, at whatever personal hazard, to the [[Truth|truth]]. Was that criminal
-in the eyes of the Republic?
+“[[Well]], I don’t know all I mean, for I can’t call to mind what your name
+was, over the [[Water|water]].”
 
-The populace cried enthusiastically, “No!” and the President rang his
-bell to quiet them. Which it did not, for they continued to cry “No!”
- until they left off, of their own will.
+“No?”
 
-The President required the name of that citizen. The accused explained
-that the citizen was his first witness. He also referred with confidence
-to the citizen’s letter, which had been taken from him at the Barrier,
-but which he did not [[Doubt|doubt]] would be found among the papers then before
-the President.
+“No. But I’ll swear it was a name of two syllables.”
 
-The Doctor had taken care that it should be there--had assured him that
-it would be there--and at this stage of the proceedings it was produced
-and read. Citizen Gabelle was called to confirm it, and did so. Citizen
-Gabelle hinted, with infinite delicacy and politeness, that in the
-pressure of business imposed on the Tribunal by the multitude of
-enemies of the Republic with which it had to deal, he had been slightly
-overlooked in his [[Prison|prison]] of the Abbaye--in fact, had rather passed out
-of the Tribunal’s patriotic remembrance--until three days ago; when he
-had been summoned before it, and had been set at liberty on the Jury’s
-declaring themselves satisfied that the accusation against him was
-answered, as to himself, by the surrender of the citizen Evrémonde,
-called Darnay.
+“Indeed?”
 
-[[Doctor Manette]] was next questioned. His high personal popularity,
-and the clearness of his answers, made a great impression; but, as he
-proceeded, as he showed that the Accused was his first friend on his
-release from his long [[Imprisonment|imprisonment]]; that, the accused had remained in
-England, always faithful and devoted to his daughter and himself in
-their [[Exile|exile]]; that, so far from being in favour with the [[aristocrat|Aristocrat]]
-[[government]] there, he had actually been tried for his life by it, as
-the foe of England and friend of the United States--as he brought these
-circumstances into view, with the greatest discretion and with the
-straightforward force of [[Truth|truth]] and earnestness, the Jury and the
-populace became one. At last, when he appealed by name to Monsieur
-Lorry, an English gentleman then and there present, who, like himself,
-had been a witness on that English trial and could corroborate his
-account of it, the Jury declared that they had heard enough, and that
-they were ready with their votes if the President were content to
-receive them.
+“Yes. T’other one’s was one syllable. I know you. You was a spy--witness
+at the Bailey. What, in the name of the Father of Lies, own father to
+yourself, was you called at that [[Time|time]]?”
 
-At every vote (the Jurymen voted aloud and individually), the populace
-set up a shout of applause. All the voices were in the prisoner’s
-favour, and the President declared him free.
+“Barsad,” said another voice, striking in.
 
-Then, began one of those extraordinary scenes with which the populace
-sometimes gratified their fickleness, or their better impulses towards
-generosity and [[Mercy|mercy]], or which they regarded as some set-off against
-their swollen account of cruel rage. No man can decide now to which of
-these motives such extraordinary scenes were referable; it is probable,
-to a blending of all the three, with the second predominating. No sooner
-was the acquittal pronounced, than [[Tears|tears]] were shed as freely as [[Blood|blood]]
-at another [[Time|time]], and such fraternal embraces were bestowed upon the
-prisoner by as many of both sexes as could rush at him, that after
-his long and unwholesome confinement he was in danger of fainting from
-exhaustion; none the less because he knew very [[Well|well]], that the very same
-people, carried by another current, would have rushed at him with
-the very same intensity, to rend him to pieces and strew him over the
-streets.
+“That’s the name for a thousand pound!” cried Jerry.
 
-His removal, to make way for other accused persons who were to be tried,
-rescued him from these caresses for the moment. Five were to be tried
-together, next, as enemies of the Republic, forasmuch as they had not
-assisted it by word or deed. So quick was the Tribunal to compensate
-itself and the nation for a chance lost, that these five came down to
-him before he left the place, condemned to die within twenty-four
-hours. The first of them told him so, with the customary [[Prison|prison]] sign
-of [[Death]]--a raised finger--and they all added in words, “Long live the
-Republic!”
+The speaker who struck in, was [[Sydney Carton]]. He had his hands behind
+him under the skirts of his riding-coat, and he stood at Mr. Cruncher’s
+elbow as negligently as he might have stood at the Old Bailey itself.
 
-The five had had, it is true, no audience to lengthen their proceedings,
-for when he and [[Doctor Manette]] emerged from the gate, there was a great
-crowd about it, in which there seemed to be every face he had seen in
-[[Court]]--except two, for which he looked in vain. On his coming out, the
-concourse made at him anew, weeping, embracing, and shouting, all by
-turns and all together, until the very tide of the [[River|river]] on the bank of
-which the mad scene was acted, seemed to run mad, like the people on the
-shore.
+“Don’t be alarmed, my dear [[Miss Pross]]. I arrived at Mr. Lorry’s, to his
+surprise, yesterday evening; we agreed that I would not present myself
+elsewhere until all was [[Well|well]], or unless I could be useful; I present
+myself here, to beg a little talk with your brother. I wish you had a
+better employed brother than Mr. Barsad. I wish for your sake Mr. Barsad
+was not a Sheep of the Prisons.”
 
-They put him into a great chair they had among them, and which they had
-taken either out of the [[Court]] itself, or one of its rooms or passages.
-Over the chair they had thrown a red [[Flag|flag]], and to the back of it they
-had bound a pike with a red cap on its top. In this car of triumph, not
-even the Doctor’s entreaties could prevent his being carried to his [[Home|home]]
-on men’s shoulders, with a confused sea of red caps heaving about him,
-and casting up to sight from the stormy deep such wrecks of faces, that
-he more than once misdoubted his mind being in confusion, and that he
-was in the tumbril on his way to the Guillotine.
+Sheep was a cant word of the [[Time|time]] for a spy, under the gaolers. The spy,
+who was pale, turned paler, and asked him how he dared--
 
-In wild dreamlike procession, embracing whom they met and pointing
-him out, they carried him on. Reddening the snowy streets with the
-prevailing Republican colour, in winding and tramping through them, as
-they had reddened them below the [[Snow|snow]] with a deeper dye, they carried
-him thus into the courtyard of the building where he lived. Her father
-had gone on before, to prepare her, and when her husband stood upon his
-feet, she dropped insensible in his arms.
+“I’ll tell you,” said Sydney. “I lighted on you, Mr. Barsad, coming out
+of the [[Prison|prison]] of the Conciergerie while I was contemplating the walls,
+an hour or more ago. You have a face to be remembered, and I remember
+faces [[Well|well]]. Made curious by seeing you in that connection, and having
+a reason, to which you are no stranger, for associating you with
+the misfortunes of a friend now very unfortunate, I walked in your
+direction. I walked into the wine-shop here, close after you, and
+sat near you. I had no difficulty in deducing from your unreserved
+conversation, and the rumour openly going about among your admirers, the
+[[Nature|nature]] of your calling. And gradually, what I had done at random, seemed
+to shape itself into a purpose, Mr. Barsad.”
 
-As he held her to his heart and turned her beautiful head between his
-face and the brawling crowd, so that his [[Tears|tears]] and her lips might come
-together unseen, a few of the people fell to dancing. Instantly, all the
-rest fell to dancing, and the courtyard overflowed with the Carmagnole.
-Then, they elevated into the vacant chair a young woman from the
-crowd to be carried as the Goddess of Liberty, and then swelling and
-overflowing out into the adjacent streets, and along the [[River|river]]’s bank,
-and over the bridge, the Carmagnole absorbed them every one and whirled
-them away.
+“What purpose?” the spy asked.
 
-After grasping the Doctor’s hand, as he stood victorious and proud
-before him; after grasping the hand of Mr. Lorry, who came panting in
-breathless from his struggle against the waterspout of the Carmagnole;
-after kissing little Lucie, who was lifted up to clasp her arms round
-his neck; and after embracing the ever zealous and faithful Pross who
-lifted her; he took his wife in his arms, and carried her up to their
-rooms.
+“It would be troublesome, and might be dangerous, to explain in the
+street. Could you favour me, in confidence, with some minutes of your
+company--at the office of Tellson’s Bank, for instance?”
 
-“Lucie! My own! I am safe.”
+“Under a threat?”
 
-“O dearest Charles, let me thank God for this on my knees as I have
-prayed to Him.”
+“Oh! Did I say that?”
 
-They all reverently bowed their heads and hearts. When she was again in
-his arms, he said to her:
+“Then, why should I go there?”
 
-“And now speak to your father, dearest. No other man in all this France
-could have done what he has done for me.”
+“Really, Mr. Barsad, I can’t say, if you can’t.”
 
-She laid her head upon her father’s breast, as she had laid his poor
-head on her own breast, long, long ago. He was happy in the return he
-had made her, he was recompensed for his [[Suffering|suffering]], he was proud of his
-strength. “You must not be weak, my darling,” he remonstrated; “don’t
-tremble so. I have saved him.”
+“Do you mean that you won’t say, sir?” the spy irresolutely asked.
+
+“You apprehend me very clearly, Mr. Barsad. I won’t.”
+
+Carton’s negligent recklessness of manner came powerfully in aid of his
+quickness and skill, in such a business as he had in his secret mind,
+and with such a man as he had to do with. His practised eye saw it, and
+made the most of it.
+
+“Now, I told you so,” said the spy, casting a reproachful look at his
+sister; “if any trouble comes of this, it’s your doing.”
+
+“Come, come, Mr. Barsad!” exclaimed Sydney. “Don’t be ungrateful.
+But for my great respect for your sister, I might not have led up so
+pleasantly to a little proposal that I wish to make for our mutual
+satisfaction. Do you go with me to the Bank?”
+
+“I’ll hear what you have got to say. Yes, I’ll go with you.”
+
+“I propose that we first conduct your sister safely to the corner of her
+own street. Let me take your arm, [[Miss Pross]]. This is not a good [[City|city]],
+at this [[Time|time]], for you to be out in, unprotected; and as your escort
+knows Mr. Barsad, I will invite him to Mr. Lorry’s with us. Are we
+ready? Come then!”
+
+[[Miss Pross]] recalled soon afterwards, and to the end of her life
+remembered, that as she pressed her hands on Sydney’s arm and looked up
+in his face, imploring him to do no hurt to Solomon, there was a braced
+purpose in the arm and a kind of inspiration in the eyes, which not only
+contradicted his light manner, but changed and raised the man. She was
+too much occupied then with fears for the brother who so little deserved
+her affection, and with Sydney’s friendly reassurances, adequately to
+heed what she observed.
+
+They left her at the corner of the street, and Carton led the way to Mr.
+Lorry’s, which was within a few minutes’ walk. John Barsad, or Solomon
+Pross, walked at his side.
+
+Mr. Lorry had just finished his dinner, and was sitting before a cheery
+little log or two of [[Fire|fire]]--perhaps looking into their blaze for the
+picture of that younger elderly gentleman from Tellson’s, who had looked
+into the red coals at the Royal George at Dover, now a good many years
+ago. He turned his head as they entered, and showed the surprise with
+which he saw a stranger.
+
+“[[Miss Pross]]’s brother, sir,” said Sydney. “Mr. Barsad.”
+
+“Barsad?” repeated the old gentleman, “Barsad? I have an association
+with the name--and with the face.”
+
+“I told you you had a remarkable face, Mr. Barsad,” observed Carton,
+coolly. “Pray sit down.”
+
+As he took a chair himself, he supplied the link that Mr. Lorry wanted,
+by saying to him with a frown, “Witness at that trial.” Mr. Lorry
+immediately remembered, and regarded his new visitor with an undisguised
+look of abhorrence.
+
+“Mr. Barsad has been recognised by [[Miss Pross]] as the affectionate
+brother you have heard of,” said Sydney, “and has acknowledged the
+relationship. I pass to worse news. Darnay has been arrested again.”
+
+Struck with consternation, the old gentleman exclaimed, “What do you
+tell me! I left him safe and free within these two hours, and am about
+to return to him!”
+
+“Arrested for all that. When was it done, Mr. Barsad?”
+
+“Just now, if at all.”
+
+“Mr. Barsad is the best authority possible, sir,” said Sydney, “and I
+have it from Mr. Barsad’s communication to a friend and brother Sheep
+over a bottle of wine, that the arrest has taken place. He left the
+messengers at the gate, and saw them admitted by the porter. There is no
+earthly [[Doubt|doubt]] that he is retaken.”
+
+Mr. Lorry’s business eye read in the speaker’s face that it was loss
+of [[Time|time]] to dwell upon the point. Confused, but sensible that something
+might depend on his presence of mind, he commanded himself, and was
+silently attentive.
+
+“Now, I trust,” said Sydney to him, “that the name and influence of
+[[Doctor Manette]] may stand him in as good stead to-morrow--you said he
+would be before the Tribunal again to-morrow, Mr. Barsad?--”
+
+“Yes; I believe so.”
+
+“--In as good stead to-morrow as to-day. But it may not be so. I own
+to you, I am shaken, Mr. Lorry, by [[Doctor Manette]]’s not having had the
+power to prevent this arrest.”
+
+“He may not have known of it beforehand,” said Mr. Lorry.
+
+“But that very circumstance would be alarming, when we remember how
+identified he is with his son-in-law.”
+
+“That’s true,” Mr. Lorry acknowledged, with his troubled hand at his
+chin, and his troubled eyes on Carton.
+
+“In short,” said Sydney, “this is a desperate [[Time|time]], when desperate games
+are played for desperate stakes. Let the Doctor play the winning game; I
+will play the losing one. No man’s life here is worth purchase. Any one
+carried [[Home|home]] by the people to-day, may be condemned tomorrow. Now, the
+stake I have resolved to play for, in case of the worst, is a friend
+in the Conciergerie. And the friend I purpose to myself to win, is Mr.
+Barsad.”
+
+“You need have good cards, sir,” said the spy.
+
+“I’ll run them over. I’ll see what I hold,--Mr. Lorry, you know what a
+brute I am; I wish you’d give me a little brandy.”
+
+It was put before him, and he drank off a glassful--drank off another
+glassful--pushed the bottle thoughtfully away.
+
+“Mr. Barsad,” he went on, in the tone of one who really was looking
+over a hand at cards: “Sheep of the prisons, emissary of Republican
+committees, now turnkey, now prisoner, always spy and secret informer,
+so much the more valuable here for being English that an Englishman
+is less open to suspicion of subornation in those characters than a
+Frenchman, represents himself to his employers under a false name.
+That’s a very good card. Mr. Barsad, now in the employ of the republican
+French [[government]], was formerly in the employ of the aristocratic
+English [[government]], the enemy of France and [[Freedom|freedom]]. That’s an excellent
+card. Inference clear as day in this region of suspicion, that Mr.
+Barsad, still in the pay of the aristocratic English [[government]], is the
+spy of Pitt, the treacherous foe of the Republic crouching in its bosom,
+the English traitor and agent of all mischief so much spoken of and so
+difficult to find. That’s a card not to be beaten. Have you followed my
+hand, Mr. Barsad?”
+
+“Not to understand your play,” returned the spy, somewhat uneasily.
+
+“I play my Ace, Denunciation of Mr. Barsad to the nearest Section
+Committee. Look over your hand, Mr. Barsad, and see what you have. Don’t
+hurry.”
+
+He drew the bottle near, poured out another glassful of brandy, and
+drank it off. He saw that the spy was fearful of his drinking himself
+into a fit state for the immediate denunciation of him. Seeing it, he
+poured out and drank another glassful.
+
+“Look over your hand carefully, Mr. Barsad. Take [[Time|time]].”
+
+It was a poorer hand than he suspected. Mr. Barsad saw losing cards
+in it that [[Sydney Carton]] knew nothing of. Thrown out of his honourable
+employment in England, through too much unsuccessful hard swearing
+there--not because he was not wanted there; our English reasons for
+vaunting our superiority to secrecy and spies are of very modern
+date--he knew that he had crossed the Channel, and accepted service in
+France: first, as a tempter and an eavesdropper among his own countrymen
+there: gradually, as a tempter and an eavesdropper among the natives. He
+knew that under the overthrown [[government]] he had been a spy upon Saint
+Antoine and Defarge’s wine-shop; had received from the watchful police
+such heads of information concerning [[Doctor Manette]]’s [[Imprisonment|imprisonment]],
+release, and [[history]], as should serve him for an introduction to
+familiar conversation with the Defarges; and tried them on Madame
+Defarge, and had broken down with them signally. He always remembered
+with [[Fear|fear]] and trembling, that that terrible woman had knitted when he
+talked with her, and had looked ominously at him as her fingers moved.
+He had since seen her, in the Section of Saint Antoine, over and over
+again produce her knitted registers, and denounce people whose lives the
+guillotine then surely swallowed up. He knew, as every one employed as
+he was did, that he was never safe; that flight was impossible; that
+he was tied fast under the [[Shadow|shadow]] of the axe; and that in spite of
+his utmost tergiversation and treachery in furtherance of the reigning
+terror, a word might bring it down upon him. Once denounced, and on such
+[[Grave|grave]] grounds as had just now been suggested to his mind, he foresaw
+that the dreadful woman of whose unrelenting character he had seen many
+proofs, would produce against him that fatal register, and would quash
+his last chance of life. Besides that all secret men are men soon
+terrified, here were surely cards enough of one black suit, to justify
+the holder in growing rather livid as he turned them over.
+
+“You scarcely seem to like your hand,” said Sydney, with the greatest
+composure. “Do you play?”
+
+“I think, sir,” said the spy, in the meanest manner, as he turned to Mr.
+Lorry, “I may appeal to a gentleman of your years and benevolence, to
+put it to this other gentleman, so much your junior, whether he can
+under any circumstances reconcile it to his station to play that Ace
+of which he has spoken. I admit that _I_ am a spy, and that it is
+considered a discreditable station--though it must be filled by
+somebody; but this gentleman is no spy, and why should he so demean
+himself as to make himself one?”
+
+“I play my Ace, Mr. Barsad,” said Carton, taking the answer on himself,
+and looking at his watch, “without any scruple, in a very few minutes.”
+
+“I should have hoped, gentlemen both,” said the spy, always striving to
+hook Mr. Lorry into the discussion, “that your respect for my sister--”
+
+“I could not better testify my respect for your sister than by finally
+relieving her of her brother,” said [[Sydney Carton]].
+
+“You think not, sir?”
+
+“I have thoroughly made up my mind about it.”
+
+The smooth manner of the spy, curiously in dissonance with his
+ostentatiously rough dress, and probably with his usual demeanour,
+received such a check from the inscrutability of Carton,--who was a
+mystery to wiser and honester men than he,--that it faltered here and
+failed him. While he was at a loss, Carton said, resuming his former air
+of contemplating cards:
+
+“And indeed, now I think again, I have a strong impression that I
+have another good card here, not yet enumerated. That friend and
+fellow-Sheep, who spoke of himself as pasturing in the country prisons;
+who was he?”
+
+“French. You don’t know him,” said the spy, quickly.
+
+“French, eh?” repeated Carton, musing, and not appearing to notice him
+at all, though he echoed his word. “[[Well]]; he may be.”
+
+“Is, I assure you,” said the spy; “though it’s not important.”
+
+“Though it’s not important,” repeated Carton, in the same mechanical
+way--“though it’s not important--No, it’s not important. No. Yet I know
+the face.”
+
+“I think not. I am sure not. It can’t be,” said the spy.
+
+“It-can’t-be,” muttered [[Sydney Carton]], retrospectively, and idling his
+glass (which fortunately was a small one) again. “Can’t-be. Spoke good
+French. Yet like a foreigner, I thought?”
+
+“Provincial,” said the spy.
+
+“No. Foreign!” cried Carton, striking his open hand on the table, as a
+light broke clearly on his mind. “Cly! Disguised, but the same man. We
+had that man before us at the Old Bailey.”
+
+“Now, there you are hasty, sir,” said Barsad, with a smile that gave his
+aquiline nose an extra inclination to one side; “there you really give
+me an advantage over you. Cly (who I will unreservedly admit, at this
+distance of [[Time|time]], was a partner of mine) has been dead several years. I
+attended him in his last illness. He was buried in [[London]], at the church
+of Saint Pancras-in-the-Fields. His unpopularity with the blackguard
+multitude at the moment prevented my following his remains, but I helped
+to lay him in his coffin.”
+
+Here, Mr. Lorry became aware, from where he sat, of a most remarkable
+goblin [[Shadow|shadow]] on the wall. Tracing it to its source, he discovered it
+to be caused by a sudden extraordinary rising and stiffening of all the
+risen and stiff hair on Mr. Cruncher’s head.
+
+“Let us be reasonable,” said the spy, “and let us be fair. To show you
+how mistaken you are, and what an unfounded assumption yours is, I will
+lay before you a certificate of Cly’s burial, which I happened to have
+carried in my pocket-book,” with a hurried hand he produced and opened
+it, “ever since. There it is. Oh, look at it, look at it! You may take
+it in your hand; it’s no forgery.”
+
+Here, Mr. Lorry perceived the reflection on the wall to elongate, and
+Mr. Cruncher [[Rose|rose]] and stepped forward. His hair could not have been more
+violently on end, if it had been that moment dressed by the Cow with the
+crumpled horn in the [[house]] that Jack built.
+
+Unseen by the spy, Mr. Cruncher stood at his side, and touched him on
+the shoulder like a ghostly bailiff.
+
+“That there Roger Cly, master,” said Mr. Cruncher, with a taciturn and
+iron-bound visage. “So _you_ put him in his coffin?”
+
+“I did.”
+
+“Who took him out of it?”
+
+Barsad leaned back in his chair, and stammered, “What do you mean?”
+
+“I mean,” said Mr. Cruncher, “that he warn’t never in it. No! Not he!
+I’ll have my head took off, if he was ever in it.”
+
+The spy looked round at the two gentlemen; they both looked in
+unspeakable astonishment at Jerry.
+
+“I tell you,” said Jerry, “that you buried paving-stones and earth in
+that there coffin. Don’t go and tell me that you buried Cly. It was a
+take in. Me and two more knows it.”
+
+“How do you know it?”
+
+“What’s that to you? Ecod!” growled Mr. Cruncher, “it’s you I have got a
+old grudge again, is it, with your shameful impositions upon tradesmen!
+I’d catch hold of your throat and choke you for half a guinea.”
+
+[[Sydney Carton]], who, with Mr. Lorry, had been lost in amazement at
+this turn of the business, here requested Mr. Cruncher to moderate and
+explain himself.
+
+“At another [[Time|time]], sir,” he returned, evasively, “the present [[Time|time]] is
+ill-conwenient for explainin’. What I stand to, is, that he knows [[Well|well]]
+wot that there Cly was never in that there coffin. Let him say he was,
+in so much as a word of one syllable, and I’ll either catch hold of his
+throat and choke him for half a guinea;” Mr. Cruncher dwelt upon this as
+quite a liberal offer; “or I’ll out and announce him.”
+
+“Humph! I see one thing,” said Carton. “I hold another card, Mr. Barsad.
+Impossible, here in raging [[Paris]], with Suspicion filling the air, for
+you to outlive denunciation, when you are in communication with another
+aristocratic spy of the same antecedents as yourself, who, moreover, has
+the mystery about him of having feigned [[Death|death]] and come to life again!
+A plot in the prisons, of the foreigner against the Republic. A strong
+card--a certain Guillotine card! Do you play?”
+
+“No!” returned the spy. “I throw up. I confess that we were so unpopular
+with the outrageous mob, that I only got away from England at the risk
+of being ducked to [[Death|death]], and that Cly was so ferreted up and down, that
+he never would have got away at all but for that sham. Though how this
+man knows it was a sham, is a [[Wonder|wonder]] of wonders to me.”
+
+“Never you trouble your head about this man,” retorted the contentious
+Mr. Cruncher; “you’ll have trouble enough with giving your attention to
+that gentleman. And look here! Once more!”--Mr. Cruncher could not
+be restrained from making rather an ostentatious parade of his
+liberality--“I’d catch hold of your throat and choke you for half a
+guinea.”
+
+The Sheep of the prisons turned from him to [[Sydney Carton]], and said,
+with more decision, “It has come to a point. I go on duty soon, and
+can’t overstay my [[Time|time]]. You told me you had a proposal; what is it?
+Now, it is of no use asking too much of me. Ask me to do anything in my
+office, putting my head in great extra danger, and I had better trust my
+life to the chances of a refusal than the chances of consent. In short,
+I should make that choice. You talk of desperation. We are all desperate
+here. Remember! I may denounce you if I think proper, and I can swear my
+way through stone walls, and so can others. Now, what do you want with
+me?”
+
+“Not very much. You are a turnkey at the Conciergerie?”
+
+“I tell you once for all, there is no such thing as an escape possible,”
+ said the spy, firmly.
+
+“Why need you tell me what I have not asked? You are a turnkey at the
+Conciergerie?”
+
+“I am sometimes.”
+
+“You can be when you choose?”
+
+“I can pass in and out when I choose.”
+
+[[Sydney Carton]] filled another glass with brandy, poured it slowly out
+upon the hearth, and watched it as it dropped. It being all spent, he
+said, rising:
+
+“So far, we have spoken before these two, because it was as [[Well|well]] that
+the merits of the cards should not rest solely between you and me. Come
+into the dark room here, and let us have one final word [[Alone|alone]].”

@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 14"
+title: "thursday — Chapter 14"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/thursday-(chesterton)"
@@ -17,7 +17,6 @@ tags:
                          CHAPTER XIV
 
                     THE SIX PHILOSOPHERS
-
 
 ACROSS green fields, and breaking through blooming hedges, toiled six
 draggled detectives, about five miles out of [[London]].  The optimist

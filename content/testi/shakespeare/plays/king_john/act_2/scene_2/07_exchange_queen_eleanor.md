@@ -1,5 +1,5 @@
 ---
-title: "[[King John]] — Act II, Scene 2 — exchange ([[Queen|QUEEN]] [[Eleanor|ELEANOR]]) [7]"
+title: "King John — Act II, Scene 2 — exchange (QUEEN ELEANOR) [7]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/king-john-(shakespeare)"

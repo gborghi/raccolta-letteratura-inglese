@@ -1,5 +1,5 @@
 ---
-title: "[[Julius Caesar]] — Act III, Scene 1 — exchange (SERVANT I) [8]"
+title: "Julius Caesar — Act III, Scene 1 — exchange (SERVANT I) [8]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/julius-caesar-(shakespeare)"

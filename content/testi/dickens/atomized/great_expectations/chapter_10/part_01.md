@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 10 (part 1)"
+title: "Great Expectations — Chapter 10 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/great-expectations-(dickens)">Great Expectations</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_09/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_10/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_09/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_10/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -119,6 +119,3 @@ you drink, Mr. Gargery? At my expense? To top up with?”
 
 “[[Well]],” said Joe, “to tell you the [[Truth|truth]], I ain’t much in the habit of
 drinking at anybody’s expense but my own.”
-
-“Habit? No,” returned the stranger, “but once and away, and on a
-Saturday [[Night|night]] too. Come! Put a name to it, Mr. Gargery.”

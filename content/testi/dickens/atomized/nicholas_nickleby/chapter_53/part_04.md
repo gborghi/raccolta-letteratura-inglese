@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 53 (part 4)"
+title: "Nicholas Nickleby — Chapter 53 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -123,9 +123,3 @@ items, until the entrance of Peg Sliderskew interrupted him.
 
 ‘It’s the fowl,’ replied Peg, holding up a plate containing a little, a
 very little one. Quite a phenomenon of a fowl. So very small and skinny.
-
-‘A beautiful bird!’ said [[arthur|Arthur]], after inquiring the price, and finding
-it proportionate to the size. ‘With a rasher of ham, and an egg made
-into sauce, and potatoes, and greens, and an apple pudding, Peg, and a
-little bit of [[cheese]], we shall have a dinner for an emperor. There’ll
-only be she and me--and you, Peg, when we’ve done.’

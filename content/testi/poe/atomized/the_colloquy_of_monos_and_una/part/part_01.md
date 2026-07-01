@@ -1,5 +1,5 @@
 ---
-title: "[[The Colloquy of Monos and Una]] (part 1)"
+title: "The Colloquy of Monos and Una (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-colloquy-of-monos-and-una-(poe)"
@@ -221,7 +221,3 @@ tags:
       of the laws of _gradation_ so visibly pervading all things in
 
       Earth and Heaven—wild attempts at an omni-prevalent [[democracy|Democracy]]
-
-      were made. Yet this evil sprang necessarily from the leading
-
-      evil—Knowledge. Man could not both know and succumb. Meantime

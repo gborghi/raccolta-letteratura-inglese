@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 18 (part 2)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 18 (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_17/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_17/part_03">part 03 ›</a></div>
 </nav>
 
+
+arrangement he appeared perfectly satisfied, and gave some directions
+
+to the canoes, when one of them approached, the rest remaining about
 
 fifty yards off. Twenty of the savages now got on board, and proceeded
 
@@ -187,11 +191,3 @@ invited us to accompany him on shore, and visit his village in the
 interior. To this Captain Guy consented; and ten savages being left on
 
 board as hostages, a party of us, twelve in all, got in readiness to
-
-attend the chief. We took care to be [[Well|well]] armed, yet without evincing
-
-any distrust. The schooner had her guns run out, her boarding-nettings
-
-up, and every other proper precaution was taken to guard against
-
-surprise. Directions were left with the chief mate to admit no person

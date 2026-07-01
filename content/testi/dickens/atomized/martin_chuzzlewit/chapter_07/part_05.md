@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 7 (part 5)"
+title: "Martin Chuzzlewit — Chapter 7 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_07/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_07/part_06">part 06 ›</a></div>
 </nav>
 
+
+Mr Pinch took from his pocket an old-fashioned red-leather purse with
+a steel clasp, which had probably once belonged to his deceased
+grandmother. It held one half-sovereign and no more. All Tom’s worldly
+wealth until next quarter-day.
 
 ‘Stay!’ cried Mr Tigg, who had watched this proceeding keenly. ‘I was
 just about to say, that for the convenience of posting you had better
@@ -141,13 +146,3 @@ of himself directly; and having once looked up, there was no
 looking down again; for of all the tight, plump, buxom, bright-eyed,
 dimple-faced landladies that ever shone on earth, there stood before him
 then, bodily in that bar, the very pink and pineapple.
-
-‘Why, I tell you what,’ said Mark, throwing off all his constraint in an
-instant and seizing the hostess round the waist--at which she was not at
-all alarmed, for she knew what a good young man he was--‘if I took what
-I liked most, I should take you. If I only thought what was best for me,
-I should take you. If I took what nineteen young fellows in twenty would
-be glad to take, and would take at any price, I should take you. Yes,
-I should,’ cried Mr Tapley, shaking his head expressively enough, and
-looking (in a momentary state of forgetfulness) rather hard at the
-hostess’s ripe lips. ‘And no man wouldn’t [[Wonder|wonder]] if I did!’

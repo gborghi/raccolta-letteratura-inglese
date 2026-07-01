@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 63 (part 3)"
+title: "Nicholas Nickleby — Chapter 63 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -152,6 +152,3 @@ the brothers say?’
 ‘Why, God bless your [[Soul|soul]]!’ cried Tim, innocently, ‘you don’t suppose I
 should think of such a thing without their knowing it! Why they left us
 here on purpose.’
-
-‘I can never look ‘em in the face again!’ exclaimed Miss La Creevy,
-faintly.

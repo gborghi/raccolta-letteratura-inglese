@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 9 (part 5)"
+title: "Our Mutual Friend — Chapter 10 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,192 +14,138 @@ tags:
 </nav>
 
 
-‘Lavvy,’ said her sister, in a low voice, ‘have the goodness to be seen
-and not heard.’
+‘Again there are two sides to the question, Mrs Lammle. What do you
+pretend to believe?’
 
-‘No, I won’t,’ replied the sharp [[Lavinia]]. ‘I’m not a [[Child|child]], to be taken
-notice of by strangers.’
+‘So you first deceive me and then insult me!’ cries the lady, with a
+heaving bosom.
 
-‘You ARE a [[Child|child]].’
+‘Not at all. I have originated nothing. The [[Double|double]]-edged question was
+yours.’
 
-‘I’m not a [[Child|child]], and I won’t be taken notice of. “Bring your sister,”
- indeed!’
+‘Was mine!’ the bride repeats, and her parasol breaks in her angry hand.
 
-‘[[Lavinia]]!’ said Mrs Wilfer. ‘Hold! I will not allow you to utter in my
-presence the absurd suspicion that any strangers—I care not what their
-names—can patronize my [[Child|child]]. Do you dare to suppose, you ridiculous
-girl, that Mr and Mrs Boffin would enter these doors upon a patronizing
-errand; or, if they did, would remain within them, only for one single
-instant, while your mother had the strength yet remaining in her vital
-frame to request them to depart? You little know your mother if you
-presume to think so.’
+His colour has turned to a livid white, and ominous marks have come to
+light about his nose, as if the finger of the very devil himself had,
+within the last few moments, touched it here and there. But he has
+repressive power, and she has none.
 
-‘It’s all very fine,’ [[Lavinia]] began to grumble, when Mrs Wilfer
-repeated:
+‘Throw it away,’ he coolly recommends as to the parasol; ‘you have made
+it useless; you look ridiculous with it.’
 
-‘Hold! I will not allow this. Do you not know what is due to guests?
-Do you not comprehend that in presuming to hint that this lady and
-gentleman could have any idea of patronizing any member of your
-family—I care not which—you accuse them of an impertinence little less
-than insane?’
+Whereupon she calls him in her rage, ‘A deliberate [[Villain|villain]],’ and so
+casts the broken thing from her as that it strikes him in falling. The
+finger-marks are something whiter for the instant, but he walks on at
+her side.
 
-‘Never mind me and Mrs Boffin, ma’am,’ said Mr Boffin, smilingly: ‘we
-don’t care.’
+She bursts into [[Tears|tears]], declaring herself the wretchedest, the most
+deceived, the worst-used, of women. Then she says that if she had
+the [[Courage|courage]] to kill herself, she would do it. Then she calls him vile
+impostor. Then she asks him, why, in the disappointment of his base
+speculation, he does not take her life with his own hand, under the
+present favourable circumstances. Then she cries again. Then she is
+enraged again, and makes some mention of swindlers. Finally, she sits
+down crying on a block of stone, and is in all the known and unknown
+humours of her sex at once. Pending her changes, those aforesaid marks
+in his face have come and gone, now here now there, like white steps
+of a pipe on which the diabolical performer has played a tune. Also his
+livid lips are parted at last, as if he were breathless with running.
+Yet he is not.
 
-‘Pardon me, but I do,’ returned Mrs Wilfer.
+‘Now, get up, Mrs Lammle, and let us speak reasonably.’
 
-Miss [[Lavinia]] laughed a short laugh as she muttered, ‘Yes, to be sure.’
+She sits upon her stone, and takes no heed of him.
 
-‘And I require my audacious [[Child|child]],’ proceeded Mrs Wilfer, with a
-withering look at her youngest, on whom it had not the slightest effect,
-‘to please to be just to her sister Bella; to remember that her sister
-Bella is much sought after; and that when her sister Bella accepts an
-attention, she considers herself to be conferring qui-i-ite as much
-[[Honour|honour]],’—this with an indignant shiver,—‘as she receives.’
+‘Get up, I tell you.’
 
-But, here Miss Bella repudiated, and said quietly, ‘I can speak for
-myself; you know, ma. You needn’t bring ME in, please.’
+Raising her head, she looks contemptuously in his face, and repeats,
+‘You tell me! Tell me, forsooth!’
 
-‘And it’s all very [[Well|well]] aiming at others through convenient me,’ said
-the irrepressible [[Lavinia]], spitefully; ‘but I should like to ask George
-Sampson what he says to it.’
+She affects not to know that his eyes are fastened on her as she droops
+her head again; but her whole figure reveals that she knows it uneasily.
 
-‘Mr Sampson,’ proclaimed Mrs Wilfer, seeing that young gentleman take
-his stopper out, and so darkly fixing him with her eyes as that he put
-it in again: ‘Mr Sampson, as a friend of this family and a frequenter of
-this [[house]], is, I am persuaded, far too [[Well|well]]-bred to interpose on such
-an invitation.’
+‘Enough of this. Come! Do you hear? Get up.’
 
-This exaltation of the young gentleman moved the conscientious Mrs
-Boffin to repentance for having done him an injustice in her mind, and
-consequently to saying that she and Mr Boffin would at any [[Time|time]] be glad
-to see him; an attention which he handsomely acknowledged by replying,
-with his stopper unremoved, ‘Much obliged to you, but I’m always
-engaged, day and [[Night|night]].’
+Yielding to his hand, she rises, and they walk again; but this [[Time|time]] with
+their faces turned towards their place of residence.
 
-However, Bella compensating for all drawbacks by responding to the
-advances of the Boffins in an engaging way, that easy pair were on the
-whole [[Well|well]] satisfied, and proposed to the said Bella that as soon as
-they should be in a condition to receive her in a manner suitable to
-their desires, Mrs Boffin should return with notice of the fact. This
-arrangement Mrs Wilfer sanctioned with a stately inclination of her
-head and wave of her gloves, as who should say, ‘Your demerits shall be
-overlooked, and you shall be mercifully gratified, poor people.’
+‘Mrs Lammle, we have both been deceiving, and we have both been
+deceived. We have both been biting, and we have both been bitten. In a
+nut-shell, there’s the state of the case.’
 
-‘By-the-bye, ma’am,’ said Mr Boffin, turning back as he was going, ‘you
-have a lodger?’
+‘You sought me out—’
 
-‘A gentleman,’ Mrs Wilfer answered, qualifying the low expression,
-‘undoubtedly occupies our first floor.’
+‘Tut! Let us have done with that. WE know very [[Well|well]] how it was. Why
+should you and I talk about it, when you and I can’t disguise it? To
+proceed. I am disappointed and cut a poor figure.’
 
-‘I may call him Our Mutual Friend,’ said Mr Boffin. ‘What sort of a
-fellow IS Our Mutual Friend, now? Do you like him?’
+‘Am I no one?’
 
-‘Mr Rokesmith is very punctual, very quiet, a very eligible inmate.’
+‘Some one—and I was coming to you, if you had waited a moment. You,
+too, are disappointed and cut a poor figure.’
 
-‘Because,’ Mr Boffin explained, ‘you must know that I’m not particularly
-[[Well|well]] acquainted with Our Mutual Friend, for I have only seen him once.
-You give a good account of him. Is he at [[Home|home]]?’
+‘An injured figure!’
 
-‘Mr Rokesmith is at [[Home|home]],’ said Mrs Wilfer; ‘indeed,’ pointing through
-the [[Window|window]], ‘there he stands at the [[Garden|garden]] gate. Waiting for you,
-perhaps?’
+‘You are now cool enough, Sophronia, to see that you can’t be injured
+without my being equally injured; and that therefore the mere word is
+not to the purpose. When I look back, I [[Wonder|wonder]] how I can have been such
+a [[Fool|fool]] as to take you to so great an extent upon trust.’
 
-‘Perhaps so,’ replied Mr Boffin. ‘Saw me come in, maybe.’
+‘And when I look back—’ the bride cries, interrupting.
 
-Bella had closely attended to this short dialogue. Accompanying Mrs
-Boffin to the gate, she as closely watched what followed.
+‘And when you look back, you [[Wonder|wonder]] how you can have been—you’ll excuse
+the word?’
 
-‘How are you, sir, how are you?’ said Mr Boffin. ‘This is Mrs Boffin. Mr
-Rokesmith, that I told you of; my dear.’
+‘Most certainly, with so much reason.’
 
-She gave him good day, and he bestirred himself and helped her to her
-seat, and the like, with a ready hand.
+‘—Such a [[Fool|fool]] as to take ME to so great an extent upon trust. But the
+folly is committed on both sides. I cannot get rid of you; you cannot
+get rid of me. What follows?’
 
-‘Good-bye for the present, Miss Bella,’ said Mrs Boffin, calling out a
-hearty parting. ‘We shall meet again soon! And then I [[Hope|hope]] I shall have
-my little [[John Harmon]] to show you.’
+‘Shame and misery,’ the bride bitterly replies.
 
-Mr Rokesmith, who was at the [[Wheel|wheel]] adjusting the skirts of her dress,
-suddenly looked behind him, and around him, and then looked up at her,
-with a face so pale that Mrs Boffin cried:
+‘I don’t know. A mutual understanding follows, and I think it may carry
+us through. Here I split my discourse (give me your arm, Sophronia),
+into three heads, to make it shorter and plainer. Firstly, it’s enough
+to have been done, without the mortification of being known to have been
+done. So we agree to keep the fact to ourselves. You agree?’
 
-‘Gracious!’ And after a moment, ‘What’s the matter, sir?’
+‘If it is possible, I do.’
 
-‘How can you show her the Dead?’ returned Mr Rokesmith.
+‘Possible! We have pretended [[Well|well]] enough to one another. Can’t we,
+united, pretend to the world? Agreed. Secondly, we owe the Veneerings
+a grudge, and we owe all other people the grudge of wishing them to be
+taken in, as we ourselves have been taken in. Agreed?’
 
-‘It’s only an adopted [[Child|child]]. One I have told her of. One I’m going to
-give the name to!’
+‘Yes. Agreed.’
 
-‘You took me by surprise,’ said Mr Rokesmith, ‘and it sounded like an
-omen, that you should speak of showing the Dead to one so young and
-blooming.’
+‘We come smoothly to thirdly. You have called me an adventurer,
+Sophronia. So I am. In plain uncomplimentary English, so I am. So are
+you, my dear. So are many people. We agree to keep our own secret, and
+to work together in furtherance of our own schemes.’
 
-Now, Bella suspected by this [[Time|time]] that Mr Rokesmith admired her. Whether
-the knowledge (for it was rather that than suspicion) caused her to
-incline to him a little more, or a little less, than she had done at
-first; whether it rendered her eager to find out more about him, because
-she sought to establish reason for her distrust, or because she sought
-to free him from it; was as yet dark to her own heart. But at most
-times he occupied a great amount of her attention, and she had set her
-attention closely on this incident.
+‘What schemes?’
 
-That he knew it as [[Well|well]] as she, she knew as [[Well|well]] as he, when they were
-left together standing on the path by the [[Garden|garden]] gate.
+‘Any scheme that will bring us money. By our own schemes, I mean our
+joint interest. Agreed?’
 
-‘Those are worthy people, Miss Wilfer.’
+She answers, after a little hesitation, ‘I suppose so. Agreed.’
 
-‘Do you know them [[Well|well]]?’ asked Bella.
+‘Carried at once, you see! Now, Sophronia, only half a dozen words more.
+We know one another perfectly. Don’t be tempted into twitting me with
+the past knowledge that you have of me, because it is identical with
+the past knowledge that I have of you, and in twitting me, you
+twit yourself, and I don’t want to hear you do it. With this good
+understanding established between us, it is better never done. To [[Wind|wind]]
+up all:—You have shown temper today, Sophronia. Don’t be betrayed into
+doing so again, because I have a Devil of a temper myself.’
 
-He smiled, reproaching her, and she coloured, reproaching herself—both,
-with the knowledge that she had meant to entrap him into an answer not
-true—when he said ‘I know OF them.’
-
-‘Truly, he told us he had seen you but once.’
-
-‘Truly, I supposed he did.’
-
-Bella was nervous now, and would have been glad to recall her question.
-
-‘You thought it strange that, feeling much interested in you, I should
-start at what sounded like a proposal to bring you into contact with the
-murdered man who lies in his [[Grave|grave]]. I might have known—of course in a
-moment should have known—that it could not have that meaning. But my
-interest remains.’
-
-Re-entering the family-room in a meditative state, Miss Bella was
-received by the irrepressible [[Lavinia]] with:
-
-‘There, Bella! At last I [[Hope|hope]] you have got your wishes realized—by your
-Boffins. You’ll be rich enough now—with your Boffins. You can have as
-much flirting as you like—at your Boffins. But you won’t take ME to
-your Boffins, I can tell you—you and your Boffins too!’
-
-‘If,’ quoth Mr George Sampson, moodily pulling his stopper out, ‘Miss
-Bella’s Mr Boffin comes any more of his nonsense to ME, I only wish him
-to understand, as betwixt man and man, that he does it at his per—’ and
-was going to say peril; but Miss [[Lavinia]], having no confidence in his
-mental powers, and feeling his oration to have no definite application
-to any circumstances, jerked his stopper in again, with a sharpness that
-made his eyes [[Water|water]].
-
-And now the worthy Mrs Wilfer, having used her youngest daughter as a
-lay-figure for the edification of these Boffins, became bland to her,
-and proceeded to develop her last instance of force of character,
-which was still in reserve. This was, to illuminate the family with her
-remarkable powers as a physiognomist; powers that terrified R. W. when
-ever let loose, as being always fraught with gloom and evil which no
-inferior prescience was aware of. And this Mrs Wilfer now did, be it
-observed, in [[Jealousy|jealousy]] of these Boffins, in the very same moments when
-she was already reflecting how she would flourish these very same
-Boffins and the state they kept, over the heads of her Boffinless
-friends.
-
-‘Of their manners,’ said Mrs Wilfer, ‘I say nothing. Of their
-appearance, I say nothing. Of the disinterestedness of their intentions
-towards Bella, I say nothing. But the craft, the secrecy, the dark
-deep underhanded plotting, written in Mrs Boffin’s countenance, make me
-shudder.’
-
-As an incontrovertible proof that those baleful attributes were all
-there, Mrs Wilfer shuddered on the spot.
+So, the happy pair, with this hopeful [[Marriage|marriage]] contract thus signed,
+sealed, and delivered, repair homeward. If, when those infernal
+finger-marks were on the white and breathless countenance of Alfred
+Lammle, Esquire, they denoted that he conceived the purpose of subduing
+his dear wife Mrs Alfred Lammle, by at once divesting her of any
+lingering reality or pretence of [[Self|self]]-respect, the purpose would seem
+to have been presently executed. The mature young lady has mighty little
+need of powder, now, for her downcast face, as he escorts her in the
+light of the setting sun to their abode of bliss.

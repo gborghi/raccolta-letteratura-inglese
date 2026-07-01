@@ -1,5 +1,5 @@
 ---
-title: "[[Mystification]] (part 4)"
+title: "Mystification (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/mystification-(poe)"
@@ -12,6 +12,22 @@ tags:
 <div class="excerpt-crumb">Poe · <a href="/works/mystification-(poe)">Mystification</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/mystification/part/part_03">‹ part 03</a><span></span></div>
 </nav>
+
+
+      his “_Duelli Lex scripta, et non; aliterque_.” The nicety of your
+
+      discernment in all the matters here treated, will be sufficient,
+
+      I am assured, to convince you _that the mere circumstance of me
+
+      referring you_ to this admirable passage, ought to satisfy your
+
+      request, as a man of honor, for explanation.
+
+
+
+      “With sentiments of profound respect,
+
 
 
       “Your most obedient servant,

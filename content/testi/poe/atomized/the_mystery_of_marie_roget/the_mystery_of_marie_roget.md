@@ -1,5 +1,5 @@
 ---
-title: "[[The Mystery of Marie Roget]]"
+title: "The Mystery of Marie Roget"
 author: "Poe"
 unitType: work
 parentWork: "works/the-mystery-of-marie-roget-(poe)"

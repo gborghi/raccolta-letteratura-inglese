@@ -1,5 +1,5 @@
 ---
-title: "A Christmas [[carol|Carol]] — Stave 4: THE LAST OF THE SPIRITS (part 4)"
+title: "A Christmas Carol — Stave 4: THE LAST OF THE SPIRITS (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-christmas-carol-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_christmas_carol/chapter_04_the_last_of_the_spirits/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/a_christmas_carol/chapter_04_the_last_of_the_spirits/part_05">part 05 ›</a></div>
 </nav>
 
+
+He sat down to the dinner that had been hoarding for
+him by the [[Fire|fire]]; and when she asked him faintly what news
+(which was not until after a long [[Silence|silence]]), he appeared
+embarrassed how to answer.
 
 "Is it good?" she said, "or bad?"--to help him.
 
@@ -166,9 +171,3 @@ wasn't," cried Bob, "for the sake of anything he might be
 able to do for us, so much as for his kind way, that this was
 quite delightful. It really seemed as if he had known our
 [[Tiny Tim]], and felt with us."
-
-"I'm sure he's a good [[Soul|soul]]!" said Mrs. Cratchit.
-
-"You would be surer of it, my dear," returned Bob, "if
-you saw and spoke to him. I shouldn't be at all surprised--
-mark what I say!--if he got Peter a better situation."

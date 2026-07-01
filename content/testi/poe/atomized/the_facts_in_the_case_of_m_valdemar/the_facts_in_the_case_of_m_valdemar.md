@@ -1,5 +1,5 @@
 ---
-title: "[[The Facts in the Case of M. Valdemar]]"
+title: "The Facts in the Case of M. Valdemar"
 author: "Poe"
 unitType: work
 parentWork: "works/the-facts-in-the-case-of-m.-valdemar-(poe)"
@@ -70,7 +70,7 @@ Of course I shall not pretend to consider it any matter for
       When the ideas to which I have alluded first occurred to me, it
       was of course very natural that I should think of M. Valdemar. I
       knew the steady [[philosophy]] of the man too [[Well|well]] to apprehend any
-      scruples from him; and he had no relatives in [[America]] who would
+      scruples from him; and he had no relatives in [[america|America]] who would
       be likely to interfere. I spoke to him frankly upon the subject;
       and, to my surprise, his interest seemed vividly excited. I say
       to my surprise, for, although he had always yielded his person

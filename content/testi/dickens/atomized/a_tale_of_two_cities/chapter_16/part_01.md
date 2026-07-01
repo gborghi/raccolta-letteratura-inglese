@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities — Chapter 9 (part 1)"
+title: "A Tale of Two Cities — Chapter 10 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-tale-of-two-cities-(dickens)"
@@ -10,154 +10,134 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/a-tale-of-two-cities-(dickens)">A Tale of Two Cities</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_14/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_16/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_15/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_16/part_02">part 02 ›</a></div>
 </nav>
 
 
-CHAPTER IX.
-The Gorgon’s Head
+CHAPTER X.
+Two Promises
 
 
-It was a heavy mass of building, that chateau of Monsieur the Marquis,
-with a large stone courtyard before it, and two stone sweeps of
-staircase meeting in a stone terrace before the principal door. A stony
-business altogether, with heavy stone balustrades, and stone urns, and
-stone [[Flowers|flowers]], and stone faces of men, and stone heads of lions, in
-all directions. As if the Gorgon’s head had surveyed it, when it was
-finished, two centuries ago.
+More months, to the number of twelve, had come and gone, and Mr. Charles
+Darnay was established in England as a higher teacher of the French
+language who was conversant with French literature. In this age, he
+would have been a Professor; in that age, he was a Tutor. He read with
+young men who could find any leisure and interest for the study of a
+living tongue spoken all over the world, and he cultivated a taste for
+its stores of knowledge and fancy. He could write of them, besides, in
+sound English, and render them into sound English. Such masters were not
+at that [[Time|time]] easily found; Princes that had been, and Kings that were
+to be, were not yet of the Teacher class, and no ruined nobility had
+dropped out of Tellson’s ledgers, to turn cooks and carpenters. As a
+tutor, whose attainments made the student’s way unusually pleasant and
+profitable, and as an elegant translator who brought something to his
+work besides mere dictionary knowledge, young Mr. Darnay soon became
+known and encouraged. He was [[Well|well]] acquainted, more-over, with the
+circumstances of his country, and those were of ever-growing interest.
+So, with great perseverance and untiring industry, he prospered.
 
-Up the broad flight of shallow steps, Monsieur the Marquis, [[Flambeau|flambeau]]
-preceded, went from his carriage, sufficiently disturbing the darkness
-to elicit loud remonstrance from an owl in the roof of the great pile
-of stable building away among the trees. All else was so quiet, that the
-[[Flambeau|flambeau]] carried up the steps, and the other [[Flambeau|flambeau]] held at the great
-door, burnt as if they were in a close room of state, instead of being
-in the open [[Night|night]]-air. Other sound than the owl’s voice there was none,
-save the falling of a fountain into its stone basin; for, it was one of
-those dark nights that hold their breath by the hour together, and then
-heave a long low sigh, and hold their breath again.
+In [[London]], he had expected neither to walk on pavements of gold, nor
+to lie on beds of roses; if he had had any such exalted expectation, he
+would not have prospered. He had expected labour, and he found it, and
+did it and made the best of it. In this, his prosperity consisted.
 
-The great door clanged behind him, and Monsieur the Marquis crossed a
-hall grim with certain old boar-spears, swords, and knives of the chase;
-grimmer with certain heavy riding-rods and riding-whips, of which many a
-peasant, gone to his benefactor [[Death]], had felt the weight when his lord
-was angry.
+A certain portion of his [[Time|time]] was passed at Cambridge, where he
+read with undergraduates as a sort of tolerated smuggler who drove a
+contraband trade in European languages, instead of conveying Greek
+and Latin through the Custom-[[house]]. The rest of his [[Time|time]] he passed in
+[[London]].
 
-Avoiding the larger rooms, which were dark and made fast for the [[Night|night]],
-Monsieur the Marquis, with his [[Flambeau|flambeau]]-bearer going on before, went up
-the staircase to a door in a corridor. This thrown open, admitted him
-to his own private apartment of three rooms: his bed-chamber and two
-others. High vaulted rooms with cool uncarpeted floors, great [[dogs]] upon
-the hearths for the burning of wood in [[Winter|winter]] [[Time|time]], and all luxuries
-befitting the state of a marquis in a luxurious age and country.
-The fashion of the last Louis but one, of the line that was never to
-break--the fourteenth Louis--was conspicuous in their rich furniture;
-but, it was diversified by many objects that were illustrations of old
-pages in the [[history]] of France.
+Now, from the days when it was always [[Summer|summer]] in Eden, to these days
+when it is mostly [[Winter|winter]] in fallen latitudes, the world of a man has
+invariably gone one way--[[Charles Darnay]]’s way--the way of the [[Love|love]] of a
+woman.
 
-A supper-table was laid for two, in the third of the rooms; a round
-room, in one of the chateau’s four extinguisher-topped towers. A small
-lofty room, with its [[Window|window]] wide open, and the wooden jalousie-blinds
-closed, so that the dark [[Night|night]] only showed in slight horizontal lines of
-black, alternating with their broad lines of stone colour.
+He had loved [[Lucie Manette]] from the hour of his danger. He had never
+heard a sound so sweet and dear as the sound of her compassionate voice;
+he had never seen a face so tenderly beautiful, as hers when it was
+confronted with his own on the edge of the [[Grave|grave]] that had been dug for
+him. But, he had not yet spoken to her on the subject; the assassination
+at the deserted chateau far away beyond the heaving [[Water|water]] and the long,
+long, dusty roads--the solid stone chateau which had itself become the
+mere mist of [[A Dream|a dream]]--had been done a year, and he had never yet, by so
+much as a single spoken word, disclosed to her the state of his heart.
 
-“My nephew,” said the Marquis, glancing at the supper preparation; “they
-said he was not arrived.”
+That he had his reasons for this, he knew full [[Well|well]]. It was again a
+[[Summer|summer]] day when, lately arrived in [[London]] from his college occupation,
+he turned into the quiet corner in Soho, bent on seeking an opportunity
+of opening his mind to [[Doctor Manette]]. It was the close of the [[Summer|summer]]
+day, and he knew Lucie to be out with [[Miss Pross]].
 
-Nor was he; but, he had been expected with Monseigneur.
+He found the Doctor reading in his arm-chair at a [[Window|window]]. The energy
+which had at once supported him under his old sufferings and aggravated
+their sharpness, had been gradually restored to him. He was now a
+very energetic man indeed, with great firmness of purpose, strength
+of resolution, and vigour of action. In his recovered energy he was
+sometimes a little fitful and sudden, as he had at first been in the
+exercise of his other recovered faculties; but, this had never been
+frequently observable, and had grown more and more rare.
 
-“Ah! It is not probable he will arrive to-[[Night|night]]; nevertheless, leave the
-table as it is. I shall be ready in a quarter of an hour.”
+He studied much, slept little, sustained a great deal of fatigue with
+ease, and was equably cheerful. To him, now entered [[Charles Darnay]], at
+sight of whom he laid aside his book and held out his hand.
 
-In a quarter of an hour Monseigneur was ready, and sat down [[Alone|alone]] to his
-sumptuous and choice supper. His chair was opposite to the [[Window|window]], and
-he had taken his soup, and was raising his glass of Bordeaux to his
-lips, when he put it down.
+“[[Charles Darnay]]! I rejoice to see you. We have been counting on your
+return these three or four days past. Mr. Stryver and [[Sydney Carton]] were
+both here yesterday, and both made you out to be more than due.”
 
-“What is that?” he calmly asked, looking with attention at the
-horizontal lines of black and stone colour.
+“I am obliged to them for their interest in the matter,” he answered,
+a little coldly as to them, though very warmly as to the Doctor. “Miss
+Manette--”
 
-“Monseigneur? That?”
+“Is [[Well|well]],” said the Doctor, as he stopped short, “and your return will
+delight us all. She has gone out on some household matters, but will
+soon be [[Home|home]].”
 
-“Outside the blinds. Open the blinds.”
+“[[Doctor Manette]], I knew she was from [[Home|home]]. I took the opportunity of her
+being from [[Home|home]], to beg to speak to you.”
 
-It was done.
+There was a blank [[Silence|silence]].
 
-“[[Well]]?”
+“Yes?” said the Doctor, with evident constraint. “Bring your chair here,
+and speak on.”
 
-“Monseigneur, it is nothing. The trees and the [[Night|night]] are all that are
-here.”
+He complied as to the chair, but appeared to find the speaking on less
+easy.
 
-The servant who spoke, had thrown the blinds wide, had looked out into
-the vacant darkness, and stood with that blank behind him, looking round
-for instructions.
+“I have had the happiness, [[Doctor Manette]], of being so intimate here,”
+ so he at length began, “for some year and a half, that I [[Hope|hope]] the topic
+on which I am about to touch may not--”
 
-“Good,” said the imperturbable master. “Close them again.”
+He was stayed by the Doctor’s putting out his hand to stop him. When he
+had kept it so a little while, he said, drawing it back:
 
-That was done too, and the Marquis went on with his supper. He was
-half way through it, when he again stopped with his glass in his hand,
-hearing the sound of wheels. It came on briskly, and came up to the
-front of the chateau.
+“Is Lucie the topic?”
 
-“Ask who is arrived.”
+“She is.”
 
-It was the nephew of Monseigneur. He had been some few leagues behind
-Monseigneur, early in the afternoon. He had diminished the distance
-rapidly, but not so rapidly as to come up with Monseigneur on the [[Road|road]].
-He had heard of Monseigneur, at the posting-houses, as being before him.
+“It is hard for me to speak of her at any [[Time|time]]. It is very hard for me
+to hear her spoken of in that tone of yours, [[Charles Darnay]].”
 
-He was to be told (said Monseigneur) that supper awaited him then and
-there, and that he was prayed to come to it. In a little while he came.
-He had been known in England as [[Charles Darnay]].
+“It is a tone of fervent admiration, true homage, and deep [[Love|love]], Doctor
+Manette!” he said deferentially.
 
-Monseigneur received him in a courtly manner, but they did not shake
-hands.
+There was another blank [[Silence|silence]] before her father rejoined:
 
-“You left [[Paris]] yesterday, sir?” he said to Monseigneur, as he took his
-seat at table.
+“I believe it. I do you justice; I believe it.”
 
-“Yesterday. And you?”
+His constraint was so manifest, and it was so manifest, too, that it
+originated in an unwillingness to approach the subject, that Charles
+Darnay hesitated.
 
-“I come direct.”
+“Shall I go on, sir?”
 
-“From [[London]]?”
+Another blank.
 
-“Yes.”
+“Yes, go on.”
 
-“You have been a long [[Time|time]] coming,” said the Marquis, with a smile.
-
-“On the contrary; I come direct.”
-
-“Pardon me! I mean, not a long [[Time|time]] on the [[Journey|journey]]; a long [[Time|time]]
-intending the [[Journey|journey]].”
-
-“I have been detained by”--the nephew stopped a moment in his
-answer--“various business.”
-
-“Without [[Doubt|doubt]],” said the polished uncle.
-
-So long as a servant was present, no other words passed between them.
-When coffee had been served and they were [[Alone|alone]] together, the nephew,
-looking at the uncle and meeting the eyes of the face that was like a
-fine mask, opened a conversation.
-
-“I have come back, sir, as you anticipate, pursuing the object that
-took me away. It carried me into great and unexpected peril; but it is
-a sacred object, and if it had carried me to [[Death|death]] I [[Hope|hope]] it would have
-sustained me.”
-
-“Not to [[Death|death]],” said the uncle; “it is not necessary to say, to [[Death|death]].”
-
-“I [[Doubt|doubt]], sir,” returned the nephew, “whether, if it had carried me to
-the utmost brink of [[Death|death]], you would have cared to stop me there.”
-
-The deepened marks in the nose, and the lengthening of the fine straight
-lines in the cruel face, looked ominous as to that; the uncle made a
-graceful gesture of protest, which was so clearly a slight form of good
-breeding that it was not reassuring.
-
-“Indeed, sir,” pursued the nephew, “for anything I know, you may have
-expressly worked to give a more suspicious appearance to the suspicious
-circumstances that surrounded me.”
-
-“No, no, no,” said the uncle, pleasantly.
+“You anticipate what I would say, though you cannot know how earnestly
+I say it, how earnestly I feel it, without knowing my secret heart, and
+the hopes and fears and anxieties with which it has long been
+laden. Dear [[Doctor Manette]], I [[Love|love]] your daughter fondly, dearly,
+disinterestedly, devotedly. If ever there were [[Love|love]] in the world, I [[Love|love]]
+her. You have loved yourself; let your old [[Love|love]] speak for me!”

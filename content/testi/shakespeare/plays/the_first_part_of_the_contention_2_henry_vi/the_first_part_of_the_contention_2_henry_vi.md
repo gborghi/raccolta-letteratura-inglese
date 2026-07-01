@@ -1,5 +1,5 @@
 ---
-title: "THE FIRST PART OF THE CONTENTION - (2 [[Henry VI|HENRY VI]])"
+title: "THE FIRST PART OF THE CONTENTION - (2 HENRY VI)"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-first-part-of-the-contention---(2-henry-vi)-(shakespeare)"

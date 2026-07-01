@@ -1,5 +1,5 @@
 ---
-title: "The Winters Tale — Act V, Scene 3 — exchange ([[Leontes|LEONTES]]) [2]"
+title: "The Winters Tale — Act V, Scene 3 — exchange (LEONTES) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-winter’s-tale-(shakespeare)"

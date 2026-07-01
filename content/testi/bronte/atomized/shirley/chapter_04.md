@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 4"
+title: "Shirley — Chapter 4"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/shirley-(bronte)"

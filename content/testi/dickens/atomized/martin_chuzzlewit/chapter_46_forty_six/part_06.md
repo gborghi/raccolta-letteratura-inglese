@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 46: FORTY SIX (part 6)"
+title: "Martin Chuzzlewit — Chapter 46: FORTY SIX (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -139,16 +139,3 @@ from--’
 
 ‘By the Lord!’ cried Jonas, fiercely catching up the chair, ‘I’ll knock
 your brains out, if you speak another word.’
-
-Tom, nevertheless, persisting in his intention, and opening his lips to
-speak again, Jonas set upon him like a savage; and in the quickness and
-ferocity of his attack would have surely done him some grievous injury,
-defenceless as he was, and embarrassed by having his frightened sister
-clinging to his arm, if Merry had not run between them, crying to
-Tom for the [[Love|love]] of Heaven to leave the [[house]]. The agony of this poor
-creature, the terror of his sister, the impossibility of making himself
-audible, and the equal impossibility of bearing up against Mrs Gamp, who
-threw herself upon him like a feather-bed, and forced him backwards down
-the stairs by the mere oppression of her dead weight, prevailed. Tom
-shook the [[Dust|dust]] of that [[house]] off his feet, without having mentioned
-Nadgett’s name.

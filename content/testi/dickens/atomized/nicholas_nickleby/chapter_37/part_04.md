@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 37 (part 4)"
+title: "Nicholas Nickleby — Chapter 37 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_37/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_37/part_05">part 05 ›</a></div>
 </nav>
 
+
+There was one little ceremony peculiar to the day, both the matter and
+manner of which made a very strong impression upon Nicholas. The cloth
+having been removed and the decanters sent round for the first [[Time|time]], a
+profound [[Silence|silence]] succeeded, and in the cheerful faces of the brothers
+there appeared an expression, not of absolute [[Melancholy|melancholy]], but of quiet
+thoughtfulness very unusual at a festive table. As Nicholas, struck
+by this sudden alteration, was wondering what it could portend, the
+brothers [[Rose|rose]] together, and the one at the top of the table leaning
+forward towards the other, and speaking in a low voice as if he were
+addressing him individually, said:
 
 ‘Brother Charles, my dear fellow, there is another association connected
 with this day which must never be forgotten, and never can be forgotten,
@@ -119,18 +130,3 @@ among themselves, in utter disregard of the [[Time|time]]. This done, they
 withdrew; shortly afterwards, Tim Linkinwater’s sister withdrew; in
 reasonable [[Time|time]] after that, the sitting was broken up for tea and
 coffee, and a round game of cards.
-
-At half-past ten--late hours for the square--there appeared a little
-tray of sandwiches and a bowl of bishop, which bishop coming on the top
-of the [[Double|double]]-diamond, and other excitements, had such an effect
-upon Tim Linkinwater, that he drew Nicholas aside, and gave him to
-understand, confidentially, that it was quite true about the uncommonly
-handsome spinster, and that she was to the full as good-looking as she
-had been described--more so, indeed--but that she was in too much of a
-hurry to change her condition, and consequently, while Tim was courting
-her and thinking of changing his, got married to somebody else. ‘After
-all, I dare say it was my fault,’ said Tim. ‘I’ll show you a print
-I have got upstairs, one of these days. It cost me five-and-twenty
-shillings. I bought it soon after we were cool to each other. Don’t
-mention it, but it’s the most extraordinary accidental likeness you ever
-saw--her very portrait, sir!’

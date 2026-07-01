@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 15 (part 1)"
+title: "Shirley — Chapter 15 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -170,7 +170,7 @@ reiterating, "Down! down! down!" while the tawny dog bayed, bellowed,
 
 howled at him, and a group of servants came bundling from the kitchen.
 
-The dog made a [[spring]]; the second gentleman turned tail and rushed after
+The dog made a [[Spring|spring]]; the second gentleman turned tail and rushed after
 
 his comrade. The first was already safe in a bedroom; he held the door
 
@@ -239,11 +239,3 @@ In [[Truth|truth]] they were, being of polished oak. The caution came a little
 late for Malone. He had slipped already in his stately descent, and was
 
 only saved from falling by a clutch at the banisters, which made the
-
-whole structure creak again.
-
-
-
-Tartar seemed to think the visitor's descent effected with unwarranted
-
-_éclat_, and accordingly he growled once more. Malone, however, was no

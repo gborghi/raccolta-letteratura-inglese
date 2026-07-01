@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 9 (part 1)"
+title: "Persuasion — Chapter 9 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -219,7 +219,3 @@ families renewed—very sad for herself and her children.
 Henrietta; and considering the alliances which the Musgroves have made,
 
 she has no right to throw herself away. I do not think any young woman
-
-has a right to make a choice that may be disagreeable and inconvenient
-
-to the _principal_ part of her family, and be giving bad connections to

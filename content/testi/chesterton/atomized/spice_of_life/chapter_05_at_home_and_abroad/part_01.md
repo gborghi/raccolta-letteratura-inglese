@@ -1,5 +1,5 @@
 ---
-title: "Spice Of Life — Part 4: AT [[Home|HOME]] AND ABROAD (part 1)"
+title: "Spice Of Life — Part 4: AT HOME AND ABROAD (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/spice-of-life-(chesterton)"
@@ -14,11 +14,11 @@ tags:
 </nav>
 
 
-PART FOUR:  AT [[Home|HOME]] AND ABROAD
+PART FOUR:  AT HOME AND ABROAD
 
 ON HOLIDAYS
 
-THERE ARE epochs of [[history]] which their enemies call rude
+THERE ARE epochs of history which their enemies call rude
 and which their friends call simple.  My difficulty is that
 they seem to me not simple, but subtle.  They understood
 much better than we do the idea of variety and reaction.
@@ -27,17 +27,17 @@ The world must be turned upside down at absolute intervals,
 as a bucket must be turned upside down in order to empty it.
 It is the essence of a holiday that it must be a revolution, and it
 is the essence of a revolution that it must revolve.  A revolution far
-more frightful and overwhelming than any of the revolutions of [[history]]
+more frightful and overwhelming than any of the revolutions of history
 happens every twelve hours.  We do, quite seriously, die daily.
 We trust ourselves in utter dark and dissolution; in such black
-[[Sleep|sleep]] as has killed many men by a drug or by the drifting [[Snow|snow]].
-Each of us has every [[Night|night]] an enormous negative holiday.
+sleep as has killed many men by a drug or by the drifting snow.
+Each of us has every night an enormous negative holiday.
 But most will agree, I think, that the essence of that holiday
 is its irresponsibility.  The legal authorities would be kept busy
-if we could be indicted for the crimes we have committed in [[Dreams|dreams]].
+if we could be indicted for the crimes we have committed in dreams.
 Now the whole point of a holiday was to be, within certain
 rational restraints, irresponsible.  Interfering with a holiday
-was almost like interfering with [[A Dream|a dream]].  And the whole project
+was almost like interfering with a dream.  And the whole project
 of using holidays as anything else but holidays was really absent
 from the mind.  The notion of `combining amusement with instruction'
 would have seemed like the notion of combining [[Sleep|sleep]] with insomnia.
@@ -105,7 +105,6 @@ But this holiday sentiment will continue to weaken so long as men
 try to make all our holidays duties, or all our days holidays;
 and cannot understand that when anything is being woven the shuttle
 flies back and forth.
-
 
 THE PEASANT
 

@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 1 (part 4)"
+title: "Shirley — Chapter 1 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_01/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_01/part_05">part 05 ›</a></div>
 </nav>
 
+
+There was a certain dignity in the little elderly gentleman's manner of
+
+rebuking these youths, though it was not, perhaps, quite the dignity
+
+most appropriate to the occasion. Mr. Helstone, standing straight as a
+
+ramrod, looking keen as a kite, presented, despite his clerical hat,
+
+black coat, and gaiters, more the air of a veteran officer chiding his
+
+subalterns than of a venerable priest exhorting his sons in the [[Faith|faith]].
 
 Gospel mildness, apostolic benignity, never seemed to have breathed
 
@@ -249,35 +261,3 @@ him in Nunnely Park that very afternoon."
 
 
 "Tell it, sir. What was it?" urged Sweeting.
-
-
-
-"Davy, thou hast an enormous organ of [[Wonder|wonder]] in thy cranium. Malone, you
-
-see, has none. Neither murders nor visions interest him. See what a big
-
-vacant Saph he looks at this moment."
-
-
-
-"Saph! Who was Saph, sir?"
-
-
-
-"I thought you would not know. You may find it out. It is biblical. I
-
-know nothing more of him than his name and race; but from a boy upwards
-
-I have always attached a personality to Saph. Depend on it he was
-
-honest, heavy, and luckless. He met his end at Gob by the hand of
-
-Sibbechai."
-
-
-
-"But the vision, sir?"
-
-
-
-"Davy, thou shalt hear. Donne is biting his nails, and Malone yawning,

@@ -75,23 +75,23 @@ as carnal as the Incarnation.  But something of the ancient voice
 that was supposed to have rung through the graves, it could
 cry again, 'We have seen, he hath seen us, a visible god.'
 So the ancient shepherds might have danced, and their feet have been
-beautiful upon the [[Mountains|mountains]], rejoicing over the philosophers.
+beautiful upon the mountains, rejoicing over the philosophers.
 But the philosophers had also heard.
 
 It is still a strange story, though an old one, how they came out
-of [[Orient|orient]] lands, crowned with the majesty of kings and clothed with
-something of the mystery of magicians.  That [[Truth|truth]] that is tradition
+of orient lands, crowned with the majesty of kings and clothed with
+something of the mystery of magicians.  That truth that is tradition
 has wisely remembered them almost as unknown quantities, as mysterious
 as their mysterious and melodious names; Melchior, Caspar, Balthazar.
 But there came with them all that world of wisdom that had watched
-the [[Stars|stars]] in Chaldea and the sun in Persia; and we shall not be wrong
+the stars in Chaldea and the sun in Persia; and we shall not be wrong
 if we see in them the same curiosity that moves all the sages.
 They would stand for the same human ideal if their names had really
 been Confucius or Pythagoras or Plato.  They were those who sought
-not tales but the [[Truth|truth]] of things, and since their thirst for [[Truth|truth]]
+not tales but the truth of things, and since their thirst for truth
 was itself a thirst for God, they also have had their reward.
 But even in order to understand that reward, we must understand that
-for [[philosophy]] as much as mythology, that reward was the completion
+for philosophy as much as mythology, that reward was the completion
 of the incomplete.
 
 Such learned men would doubtless have come, as these learned men
@@ -99,28 +99,28 @@ did come, to find themselves confirmed in much that was true
 in their own traditions and right in their own reasoning.
 Confucius would have found a new foundation for the family in the
 very reversal of the Holy Family; Buddha would have looked upon a
-new [[Renunciation|renunciation]], of [[Stars|stars]] rather than jewels and divinity than royalty.
+new renunciation, of stars rather than jewels and divinity than royalty.
 These learned men would still have the right to say, or rather
-a new right to say, that there was [[Truth|truth]] in their old teaching.
+a new right to say, that there was truth in their old teaching.
 But after all these learned men would have come to learn.
 They would have come to complete their conceptions with something
 they had not yet conceived; even to balance their imperfect
 universe with something they might once have contradicted.
 Buddha would have come from his impersonal paradise to worship a person.
 Confucius would have come from his temples of ancestor-worship
-to worship a [[Child|child]].
+to worship a child.
 
 We must grasp from the first this character in the new cosmos;
 that it was larger than the old cosmos.  In that sense Christendom
-is larger than creation; as creation had been before [[Christ]].
+is larger than creation; as creation had been before Christ.
 It included things that had not been there; it also included
-the things that had been there.  The point happens to be [[Well|well]]
+the things that had been there.  The point happens to be well
 illustrated in this example of Chinese piety, but it would
 be true of other pagan virtues or pagan beliefs.  Nobody can
-[[Doubt|doubt]] that a reasonable respect for parents is part of a gospel
-in which God himself was subject in [[Childhood|childhood]] to earthly parents.
+doubt that a reasonable respect for parents is part of a gospel
+in which God himself was subject in childhood to earthly parents.
 But the other sense in which the parents were subject to him does
-introduce an idea that is not Confucian.  The infant [[Christ]] is not like
+introduce an idea that is not Confucian.  The infant Christ is not like
 the infant Confucius; our mysticism conceives him in an immortal infancy.
 I do not know what Confucius would have done with the Bambino had it
 come to life in his arms as it did in the arms of St. Francis.
@@ -129,32 +129,32 @@ it is the challenge of the Church.  The Church contains what the world
 does not contain.  Life itself does not provide as she does
 for all sides of life.  That every other single system is narrow
 and insufficient compared to this one; that is not a rhetorical boast;
-it is a real fact and a real dilemma.  Where is the Holy [[Child|child]]
+it is a real fact and a real dilemma.  Where is the Holy child
 amid the Stoics and the ancestor-worshippers?  Where is Our Lady
 of the Moslems, a woman made for no man and set above all angels?
-Where is St. [[Michael]] of the [[Monks|monks]] of Buddha, rider and master of
-the trumpets, guarding for every soldier the [[Honour|honour]] of the [[Sword|sword]]?
-What could St. Thomas [[aquinas|Aquinas]] do with the mythology of Brahminism,
+Where is St. Michael of the monks of Buddha, rider and master of
+the trumpets, guarding for every soldier the honour of the sword?
+What could St. Thomas Aquinas do with the mythology of Brahminism,
 he who set forth all the science and rationality and even rationalism
-of [[Christianity]]?  Yet even if we compare [[aquinas|Aquinas]] with Aristotle,
+of Christianity?  Yet even if we compare Aquinas with Aristotle,
 at the other extreme of reason, we shall find the same sense of
-something added.  [[aquinas|Aquinas]] could understand the most logical parts
+something added.  Aquinas could understand the most logical parts
 of Aristotle; it is doubtful if Aristotle could have understood
-the most mystical parts of [[aquinas|Aquinas]].  Even where we can hardly
+the most mystical parts of Aquinas.  Even where we can hardly
 call the Christian greater, we are forced to call him larger.
-But it is so to whatever [[philosophy]] or heresy or modern movement
+But it is so to whatever philosophy or heresy or modern movement
 we may turn.  How would Francis the Troubadour have fared among
 the Calvinists, or for that matter among the Utilitarians
 of the Manchester School?  Yet men like Bossuet and Pascal
 could be as stern and logical as any Calvinist or Utilitarian.
-How would St. Joan of Arc, a woman waving on men to war with the [[Sword|sword]],
+How would St. Joan of Arc, a woman waving on men to war with the sword,
 have fared among the Quakers or the Doukhabors or the Tolstoyan
 sect of pacifists?  Yet any number of Catholic saints have
 spent their lives in preaching peace and preventing wars.
 It is the same with all the modern attempts at Syncretism.
 They are never able to make something larger than the Creed
 without leaving something out.  I do not mean leaving out
-something divine but something human; the [[Flag|flag]] or the inn or
+something divine but something human; the flag or the inn or
 the boy's tale of battle or the hedge at the end of the field.
 The Theosophists build a pantheon; but it is only a pantheon
 for pantheists.  They call a Parliament of Religions as a reunion
@@ -163,13 +163,13 @@ Yet exactly such a pantheon had been set up two thousand years
 before by the shores of the Mediterranean; and Christians were invited
 to set up the image of Jesus side by side with the image of Jupiter,
 of Mithras, of Osiris, of Atys, or of Ammon.  It was the refusal
-of the Christians that was the turning-point of [[history]].
+of the Christians that was the turning-point of history.
 If the Christians had accepted, they and the whole world would
-have certainly, in a [[Grotesque|grotesque]] but exact metaphor, gone to pot.
+have certainly, in a grotesque but exact metaphor, gone to pot.
 They would all have been boiled down to one lukewarm liquid in that great
 pot of cosmopolitan corruption in which all the other myths and mysteries
 were already melting.  It was an awful and an appalling escape.
-Nobody understands the [[Nature|nature]] of the Church, or the ringing note
+Nobody understands the nature of the Church, or the ringing note
 of the creed descending from antiquity, who does not realise
 that the whole world once very nearly died of broadmindedness
 and the brotherhood of all religions.

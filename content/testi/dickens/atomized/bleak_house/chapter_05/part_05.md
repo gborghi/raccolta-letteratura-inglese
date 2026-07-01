@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 5 (part 5)"
+title: "Bleak House — Chapter 5 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_05/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_06/part_01">part 01 ›</a></div>
 </nav>
 
+
+“With such an omen, it is even more necessary than usual that I
+should be there before the Chancellor comes in,” said she, “for he
+might mention my case the first thing. I have a presentiment that he
+WILL mention it the first thing this morning.”
+
+She stopped to tell us in a whisper as we were going down that the
+whole [[house]] was filled with strange lumber which her landlord had
+bought piecemeal and had no wish to sell, in consequence of being a
+little M. This was on the first floor. But she had made a previous
+stoppage on the second floor and had silently pointed at a dark door
+there.
 
 “The only other lodger,” she now whispered in explanation, “a
 law-writer. The children in the lanes here say he has sold himself to

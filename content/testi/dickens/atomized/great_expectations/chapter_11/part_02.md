@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 11 (part 2)"
+title: "Great Expectations — Chapter 11 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_11/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_11/part_03">part 03 ›</a></div>
 </nav>
 
+
+“[[Well]]?”
+
+“[[Well]], miss?” I answered, almost falling over her and checking myself.
+
+She stood looking at me, and, of course, I stood looking at her.
+
+“Am I pretty?”
+
+“Yes; I think you are very pretty.”
+
+“Am I insulting?”
 
 “Not so much so as you were last [[Time|time]],” said I.
 
@@ -146,13 +158,3 @@ stick; “that, where those cobwebs are?”
 “I can’t guess what it is, ma’am.”
 
 “It’s a great cake. A bride-cake. Mine!”
-
-She looked all round the room in a glaring manner, and then said,
-leaning on me while her hand twitched my shoulder, “Come, come, come!
-Walk me, walk me!”
-
-I made out from this, that the work I had to do, was to walk Miss
-Havisham round and round the room. Accordingly, I started at once, and
-she leaned upon my shoulder, and we went away at a pace that might have
-been an [[Imitation|imitation]] (founded on my first impulse under that roof) of Mr.
-Pumblechook’s chaise-cart.

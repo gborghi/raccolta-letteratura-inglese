@@ -14,6 +14,148 @@ tags:
 </nav>
 
 
+      to me will you? Do you see the stage-box?—there!—no, the next.—
+
+      Did you ever behold as lovely a woman?”
+
+
+
+      “She is very beautiful, no [[Doubt|doubt]],” he said.
+
+
+
+      “I [[Wonder|wonder]] who she can be?”
+
+
+
+      “Why, in the name of all that is angelic, don’t you know who she
+
+      is? ‘Not to know her argues yourself unknown.’ She is the
+
+      celebrated Madame Lalande—the [[Beauty|beauty]] of the day par excellence,
+
+      and the talk of the whole town. Immensely wealthy too—a widow,
+
+      and a great match—has just arrived from [[Paris]].”
+
+
+
+      “Do you know her?”
+
+
+
+      “Yes; I have the honor.”
+
+
+
+      “Will you introduce me?”
+
+
+
+      “Assuredly, with the greatest pleasure; when shall it be?”
+
+
+
+      “To-morrow, at one, I will call upon you at B—’s.”
+
+
+
+      “Very good; and now do hold your tongue, if you can.”
+
+
+
+      In this latter respect I was forced to take Talbot’s advice; for
+
+      he remained obstinately deaf to every further question or
+
+      suggestion, and occupied himself exclusively for the rest of the
+
+      evening with what was transacting upon the stage.
+
+
+
+      In the meantime I kept my eyes riveted on Madame Lalande, and at
+
+      length had the good fortune to obtain a full front view of her
+
+      face. It was exquisitely lovely—this, of course, my heart had
+
+      told me before, even had not Talbot fully satisfied me upon the
+
+      point—but still the unintelligible something disturbed me. I
+
+      finally concluded that my senses were impressed by a certain air
+
+      of gravity, sadness, or, still more properly, of weariness, which
+
+      took something from the youth and freshness of the countenance,
+
+      only to endow it with a seraphic tenderness and majesty, and
+
+      thus, of course, to my enthusiastic and romantic temperment, with
+
+      an interest tenfold.
+
+
+
+      While I thus feasted my eyes, I perceived, at last, to my great
+
+      trepidation, by an almost imperceptible start on the part of the
+
+      lady, that she had become suddenly aware of the intensity of my
+
+      gaze. Still, I was absolutely fascinated, and could not withdraw
+
+      it, even for an instant. She turned aside her face, and again I
+
+      saw only the chiselled contour of the back portion of the head.
+
+      After some minutes, as if urged by curiosity to see if I was
+
+      still looking, she gradually brought her face again around and
+
+      again encountered my burning gaze. Her large dark eyes fell
+
+      instantly, and a deep blush mantled her cheek. But what was my
+
+      astonishment at perceiving that she not only did not a second
+
+      [[Time|time]] avert her head, but that she actually took from her girdle a
+
+      [[Double|double]] eyeglass—elevated it—adjusted it—and then regarded me
+
+      through it, intently and deliberately, for the space of several
+
+      minutes.
+
+
+
+      Had a thunderbolt fallen at my feet I could not have been more
+
+      thoroughly astounded—astounded only—not offended or disgusted in
+
+      the slightest degree; although an action so bold in any other
+
+      woman would have been likely to offend or disgust. But the whole
+
+      thing was done with so much quietude—so much nonchalance—so much
+
+      repose—with so evident an air of the highest breeding, in
+
+      short—that nothing of mere effrontery was perceptible, and my
+
+      sole sentiments were those of admiration and surprise.
+
+
+
+      I observed that, upon her first elevation of the glass, she had
+
+      seemed satisfied with a momentary inspection of my person, and
+
+      was withdrawing the instrument, when, as if struck by a second
+
+      thought, she resumed it, and so continued to regard me with fixed
+
       attention for the space of several minutes—for five minutes, at
 
       the very least, I am sure.
@@ -93,137 +235,3 @@ tags:
       devotion, I forgot everything but the presence and the majestic
 
       loveliness of the vision which confronted my gaze. Watching my
-
-      opportunity, when I thought the audience were fully engaged with
-
-      the opera, I at length caught the eyes of Madame Lalande, and,
-
-      upon the instant, made a slight but unmistakable bow.
-
-
-
-      She blushed very deeply—then averted her eyes—then slowly and
-
-      cautiously looked around, apparently to see if my rash action had
-
-      been noticed—then leaned over toward the gentleman who sat by her
-
-      side.
-
-
-
-      I now felt a burning sense of the impropriety I had committed,
-
-      and expected nothing less than instant exposure; while a vision
-
-      of pistols upon the morrow floated rapidly and uncomfortably
-
-      through my brain. I was greatly and immediately relieved,
-
-      however, when I saw the lady merely hand the gentleman a
-
-      play-bill, without speaking; but the reader may form some feeble
-
-      conception of my astonishment—of my profound amazement—my
-
-      delirious bewilderment of heart and [[Soul|soul]]—when, instantly
-
-      afterward, having again glanced furtively around, she allowed her
-
-      bright eyes to set fully and steadily upon my own, and then, with
-
-      a faint smile, disclosing a bright line of her pearly teeth, made
-
-      two distinct, pointed, and unequivocal affirmative inclinations
-
-      of the head.
-
-
-
-      It is useless, of course, to dwell upon my joy—upon my
-
-      transport—upon my illimitable ecstasy of heart. If ever man was
-
-      mad with excess of happiness, it was myself at that moment. I
-
-      loved. This was my first [[Love|love]]—so I felt it to be. It was [[Love|love]]
-
-      supreme—indescribable. It was “[[Love|love]] at first sight;” and at first
-
-      sight, too, it had been appreciated and returned.
-
-
-
-      Yes, returned. How and why should I [[Doubt|doubt]] it for an instant. What
-
-      other construction could I possibly put upon such conduct, on the
-
-      part of a lady so beautiful—so wealthy—evidently so
-
-      accomplished—of so high breeding—of so lofty a position in
-
-      society—in every regard so entirely respectable as I felt assured
-
-      was Madame Lalande? Yes, she loved me—she returned the enthusiasm
-
-      of my [[Love|love]], with an enthusiasm as blind—as uncompromising—as
-
-      uncalculating—as abandoned—and as utterly unbounded as my own!
-
-      These delicious fancies and reflections, however, were now
-
-      interrupted by the falling of the drop-curtain. The audience
-
-      arose; and the usual tumult immediately supervened. Quitting
-
-      Talbot abruptly, I made every effort to force my way into closer
-
-      proximity with Madame Lalande. Having failed in this, on account
-
-      of the crowd, I at length gave up the chase, and bent my steps
-
-      homeward; consoling myself for my disappointment in not having
-
-      been able to touch even the hem of her robe, by the reflection
-
-      that I should be introduced by Talbot, in due form, upon the
-
-      morrow.
-
-
-
-      This morrow at last came, that is to say, a day finally dawned
-
-      upon a long and weary [[Night|night]] of impatience; and then the hours
-
-      until “one” were snail-paced, dreary, and innumerable. But even
-
-      Stamboul, it is said, shall have an end, and there came an end to
-
-      this long delay. The [[Clock|clock]] struck. As the last echo ceased, I
-
-      stepped into B——’s and inquired for Talbot.
-
-
-
-      “Out,” said the footman—Talbot’s own.
-
-
-
-      “Out!” I replied, staggering back half a dozen paces—“let me tell
-
-      you, my fine fellow, that this thing is thoroughly impossible and
-
-      impracticable; Mr. Talbot is not out. What do you mean?”
-
-
-
-      “Nothing, sir; only Mr. Talbot is not in, that’s all. He rode
-
-      over to S——, immediately after breakfast, and left word that he
-
-      would not be in town again for a week.”
-
-
-
-      I stood petrified with horror and rage. I endeavored to reply,

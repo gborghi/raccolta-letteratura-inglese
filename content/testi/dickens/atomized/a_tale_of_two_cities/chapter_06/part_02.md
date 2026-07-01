@@ -14,6 +14,10 @@ tags:
 </nav>
 
 
+His haggard eyes turned to Defarge as if he would have transferred the
+question to him: but as no help came from that quarter, they turned back
+on the questioner when they had sought the ground.
+
 “I am not a shoemaker by trade? No, I was not a shoemaker by trade. I-I
 learnt it here. I taught myself. I asked leave to--”
 
@@ -135,16 +139,3 @@ But when he did find spoken words for it, they came to him coherently,
 though slowly.
 
 “How was this?--_Was it you_?”
-
-Once more, the two spectators started, as he turned upon her with a
-frightful suddenness. But she sat perfectly still in his grasp, and only
-said, in a low voice, “I entreat you, good gentlemen, do not come near
-us, do not speak, do not move!”
-
-“Hark!” he exclaimed. “Whose voice was that?”
-
-His hands released her as he uttered this cry, and went up to his white
-hair, which they tore in a frenzy. It died out, as everything but his
-shoemaking did die out of him, and he refolded his little packet and
-tried to secure it in his breast; but he still looked at her, and
-gloomily shook his head.

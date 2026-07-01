@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 10 (part 3)"
+title: "The Mystery of Edwin Drood — Chapter 10 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_11/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_11/part_04">part 04 ›</a></div>
 </nav>
 
+
+“It is very retired,” assented Mr. Crisparkle, laying hold of his
+opportunity straightway, and walking on with them. “It is a place of
+all others where one can speak without interruption, as I wish to do.
+Mr. Neville, I believe you tell your sister everything that passes
+between us?”
 
 “Everything, sir.”
 
@@ -133,7 +139,3 @@ being bestowed upon him. I say that I [[Love|love]] her, and despise and hate
 him!” This with a face so flushed, and a gesture so violent, that his
 sister crossed to his side, and caught his arm, remonstrating,
 “Neville, Neville!”
-
-Thus recalled to himself, he quickly became sensible of having lost the
-guard he had set upon his passionate tendency, and covered his face
-with his hand, as one repentant and wretched.

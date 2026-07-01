@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 17"
+title: "Barnaby Rudge — Chapter 17"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -167,7 +167,7 @@ dark, houseless [[Night|night]]. He knocks again. Let him come in!’
 ‘The dread of this hour,’ returned the widow, ‘has been upon me all my
 life, and I will not. Evil will fall upon him, if you stand eye to eye.
 My blighted boy! Oh! all good angels who know the [[Truth|truth]]--hear a poor
-mother’s [[Prayer|prayer]], and spare my boy from knowledge of this man!’
+mother’s [[prayer]], and spare my boy from knowledge of this man!’
 
 ‘He rattles at the shutters!’ cried the man. ‘He calls you. That voice
 and cry! It was he who grappled with me in the [[Road|road]]. Was it he?’
@@ -358,7 +358,7 @@ said. Grip, what was it we heard her say that [[Night|night]]?’
 
 ‘I’m a devil!’ rejoined [[The Raven|the raven]] promptly.
 
-‘No, no,’ said Barnaby. ‘But you said something in a [[Prayer|prayer]]; and when
+‘No, no,’ said Barnaby. ‘But you said something in a [[prayer]]; and when
 you [[Rose|rose]] and walked about, you looked (as you have done ever since,
 mother, towards [[Night|night]] on my birthday) just as you do now. I have found
 that out, you see, though I am silly. So I say you’re wrong; and this

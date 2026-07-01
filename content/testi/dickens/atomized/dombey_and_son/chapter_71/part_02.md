@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 15 (part 2)"
+title: "Dombey and Son — Chapter 43 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,140 +14,106 @@ tags:
 </nav>
 
 
-“Wal”r!” cried the Captain, looking down upon him in amazement.
+“Susan,” said Florence, who was sitting thoughtfully at her table, “it
+is very late. I shall want nothing more tonight.”
 
-“Ay, ay, [[Captain Cuttle]],” returned Walter, “only me”
+“Ah, Miss Floy!” returned the Nipper, “I’m sure I often wish for them
+old times when I sat up with you hours later than this and fell asleep
+through being tired out when you was as broad awake as spectacles, but
+you’ve ma’s-in-law to come and sit with you now Miss Floy and I’m
+thankful for it I’m sure. I’ve not a word to say against ’em.”
 
-“What’s the matter, my lad?” inquired the Captain, with great concern.
-“Gills an’t been and sprung nothing again?”
+“I shall not forget who was my old companion when I had none, Susan,”
+returned Florence, gently, “never!” And looking up, she put her arm
+round the neck of her humble friend, drew her face down to hers, and
+bidding her good-[[Night|night]], kissed it; which so mollified Miss Nipper, that
+she fell a sobbing.
 
-“No, no,” said Walter. “My Uncle’s all right, [[Captain Cuttle]].”
+“Now my dear Miss Floy,” said Susan, “let me go downstairs again and
+see how your Pa is, I know you’re wretched about him, do let me go
+downstairs again and knock at his door my own [[Self|self]].”
 
-The Captain expressed his gratification, and said he would come down
-below and open the door, which he did.
+“No,” said Florence, “go to bed. We shall hear more in the morning. I
+will inquire myself in the morning. Mama has been down, I daresay;”
+Florence blushed, for she had no such [[Hope|hope]]; “or is there now, perhaps.
+Good-[[Night|night]]!”
 
-“Though you’re early, Wal”r,” said the Captain, eyeing him still
-doubtfully, when they got upstairs:
+Susan was too much softened to express her private opinion on the
+probability of Mrs Dombey’s being in attendance on her husband, and
+silently withdrew. Florence left [[Alone|alone]], soon hid her head upon her
+hands as she had often done in other days, and did not restrain the
+[[Tears|tears]] from coursing down her face. The misery of this domestic discord
+and unhappiness; the withered [[Hope|hope]] she cherished now, if [[Hope|hope]] it could
+be called, of ever being taken to her father’s heart; her doubts and
+fears between the two; the yearning of her [[Innocent|innocent]] breast to both; the
+heavy disappointment and regret of such an end as this, to what had
+been a vision of bright [[Hope|hope]] and promise to her; all crowded on her
+mind and made her [[Tears|tears]] flow fast. Her mother and her brother dead, her
+father unmoved towards her, Edith opposed to him and casting him away,
+but loving her, and loved by her, it seemed as if her affection could
+never prosper, rest where it would. That weak thought was soon hushed,
+but the thoughts in which it had arisen were too true and strong to be
+dismissed with it; and they made the [[Night|night]] desolate.
 
-“Why, the fact is, [[Captain Cuttle]],” said Walter, sitting down, “I was
-afraid you would have gone out, and I want to benefit by your friendly
-counsel.”
+Among such reflections there [[Rose|rose]] up, as there had risen up all day,
+the image of her father, wounded and in [[Pain|pain]], [[Alone|alone]] in his own room,
+untended by those who should be nearest to him, and passing the tardy
+hours in lonely [[Suffering|suffering]]. A frightened thought which made her start
+and clasp her hands—though it was not a new one in her mind—that he
+might die, and never see her or pronounce her name, thrilled her whole
+frame. In her agitation she thought, and trembled while she thought, of
+once more stealing downstairs, and venturing to his door.
 
-“So you shall,” said the Captain; “what’ll you take?”
+She listened at her own. The [[house]] was quiet, and all the lights were
+out. It was a long, long [[Time|time]], she thought, since she used to make her
+nightly pilgrimages to his door! It was a long, long [[Time|time]], she tried to
+think, since she had entered his room at midnight, and he had led her
+back to the stair-foot!
 
-“I want to take your opinion, [[Captain Cuttle]],” returned Walter,
-smiling. “That’s the only thing for me.”
+With the same [[Child|child]]’s heart within her, as of old: even with the
+[[Child|child]]’s sweet timid eyes and clustering hair: Florence, as strange to
+her father in her early maiden bloom, as in her nursery [[Time|time]], crept
+down the staircase listening as she went, and drew near to his room. No
+one was stirring in the [[house]]. The door was partly open to admit air;
+and all was so still within, that she could hear the burning of the
+[[Fire|fire]], and count the ticking of the [[Clock|clock]] that stood upon the
+chimney-piece.
 
-“Come on then,” said the Captain. “With a will, my lad!”
+She looked in. In that room, the housekeeper wrapped in a blanket was
+fast asleep in an easy chair before the [[Fire|fire]]. The doors between it and
+the next were partly closed, and a screen was drawn before them; but
+there was a light there, and it shone upon the cornice of his bed. All
+was so very still that she could hear from his breathing that he was
+asleep. This gave her [[Courage|courage]] to pass round the screen, and look into
+his chamber.
 
-Walter related to him what had happened; and the difficulty in which he
-felt respecting his Uncle, and the relief it would be to him if Captain
-Cuttle, in his kindness, would help him to smooth it away; Captain
-Cuttle’s infinite consternation and astonishment at the prospect
-unfolded to him, gradually swallowing that gentleman up, until it left
-his face quite vacant, and the suit of blue, the glazed hat, and the
-hook, apparently without an owner.
+It was as great a start to come upon his sleeping face as if she had
+not expected to see it. Florence stood arrested on the spot, and if he
+had awakened then, must have remained there.
 
-“You see, [[Captain Cuttle]],” pursued Walter, “for myself, I am young, as
-Mr Dombey said, and not to be considered. I am to fight my way through
-the world, I know; but there are two points I was thinking, as I came
-along, that I should be very particular about, in respect to my Uncle.
-I don’t mean to say that I deserve to be the [[Pride|pride]] and delight of his
-life—you believe me, I know—but I am. Now, don’t you think I am?”
+There was a cut upon his forehead, and they had been wetting his hair,
+which lay bedabbled and entangled on the pillow. One of his arms,
+resting outside the bed, was bandaged up, and he was very white. But it
+was not this, that after the first quick glance, and first assurance of
+his sleeping quietly, held Florence rooted to the ground. It was
+something very different from this, and more than this, that made him
+look so solemn in her eye.
 
-The Captain seemed to make an endeavour to rise from the depths of his
-astonishment, and get back to his face; but the effort being
-ineffectual, the glazed hat merely nodded with a mute, unutterable
-meaning.
+She had never seen his face in all her life, but there had been upon
+it—or she fancied so—some disturbing consciousness of her. She had
+never seen his face in all her life, but [[Hope|hope]] had sunk within her, and
+her timid glance had dropped before its stern, unloving, and repelling
+harshness. As she looked upon it now, she saw it, for the first [[Time|time]],
+free from the cloud that had darkened her [[Childhood|childhood]]. Calm, tranquil
+[[Night|night]] was reigning in its stead. He might have gone to [[Sleep|sleep]], for
+anything she saw there, blessing her.
 
-“If I live and have my health,” said Walter, “and I am not afraid of
-that, still, when I leave England I can hardly [[Hope|hope]] to see my Uncle
-again. He is old, [[Captain Cuttle]]; and besides, his life is a life of
-custom—”
+Awake, unkind father! Awake, now, sullen man! The [[Time|time]] is flitting by;
+the hour is coming with an angry tread. Awake!
 
-“Steady, Wal”r! Of a want of custom?” said the Captain, suddenly
-reappearing.
-
-“Too true,” returned Walter, shaking his head: “but I meant a life of
-habit, [[Captain Cuttle]]—that sort of custom. And if (as you very truly
-said, I am sure) he would have died the sooner for the loss of the
-stock, and all those objects to which he has been accustomed for so
-many years, don’t you think he might die a little sooner for the loss
-of—”
-
-“Of his Nevy,” interposed the Captain. “Right!”
-
-“[[Well]] then,” said Walter, trying to speak gaily, “we must do our best
-to make him believe that the separation is but a temporary one, after
-all; but as I know better, or dread that I know better, [[Captain Cuttle]],
-and as I have so many reasons for regarding him with affection, and
-duty, and [[Honour|honour]], I am afraid I should make but a very poor hand at
-that, if I tried to persuade him of it. That’s my great reason for
-wishing you to break it out to him; and that’s the first point.”
-
-“Keep her off a point or so!” observed the Captain, in a contemplative
-voice.
-
-“What did you say, [[Captain Cuttle]]?” inquired Walter.
-
-“Stand by!” returned the Captain, thoughtfully.
-
-Walter paused to ascertain if the Captain had any particular
-information to add to this, but as he said no more, went on.
-
-“Now, the second point, [[Captain Cuttle]]. I am sorry to say, I am not a
-favourite with Mr Dombey. I have always tried to do my best, and I have
-always done it; but he does not like me. He can’t help his likings and
-dislikings, perhaps. I say nothing of that. I only say that I am
-certain he does not like me. He does not send me to this post as a good
-one; he disclaims to represent it as being better than it is; and I
-[[Doubt|doubt]] very much if it will ever lead me to advancement in the
-[[house|House]]—whether it does not, on the contrary, dispose of me for ever, and
-put me out of the way. Now, we must say nothing of this to my Uncle,
-[[Captain Cuttle]], but must make it out to be as favourable and promising
-as we can; and when I tell you what it really is, I only do so, that in
-case any means should ever arise of lending me a hand, so far off, I
-may have one friend at [[Home|home]] who knows my real situation.
-
-“Wal”r, my boy,” replied the Captain, “in the Proverbs of Solomon you
-will find the following words, ‘May we never want a friend in need, nor
-a bottle to give him!’ When found, make a note of.”
-
-Here the Captain stretched out his hand to Walter, with an air of
-downright good [[Faith|faith]] that spoke volumes; at the same [[Time|time]] repeating
-(for he felt proud of the accuracy and pointed application of his
-quotation), “When found, make a note of.”
-
-“[[Captain Cuttle]],” said Walter, taking the immense fist extended to him
-by the Captain in both his hands, which it completely filled, next to
-my Uncle Sol, I [[Love|love]] you. There is no one on earth in whom I can more
-safely trust, I am sure. As to the mere going away, [[Captain Cuttle]], I
-don’t care for that; why should I care for that! If I were free to seek
-my own fortune—if I were free to go as a common sailor—if I were free
-to venture on my own account to the farthest end of the world—I would
-gladly go! I would have gladly gone, years ago, and taken my chance of
-what might come of it. But it was against my Uncle’s wishes, and
-against the plans he had formed for me; and there was an end of that.
-But what I feel, [[Captain Cuttle]], is that we have been a little mistaken
-all along, and that, so far as any improvement in my prospects is
-concerned, I am no better off now than I was when I first entered
-Dombey’s [[house|House]]—perhaps a little worse, for the [[house|House]] may have been
-kindly inclined towards me then, and it certainly is not now.”
-
-“Turn again, Whittington,” muttered the disconsolate Captain, after
-looking at Walter for some [[Time|time]].
-
-“Ay,” replied Walter, laughing, “and turn a great many times, too,
-[[Captain Cuttle]], I’m afraid, before such fortune as his ever turns up
-again. Not that I complain,” he added, in his lively, animated,
-energetic way. “I have nothing to complain of. I am provided for. I can
-live. When I leave my Uncle, I leave him to you; and I can leave him to
-no one better, [[Captain Cuttle]]. I haven’t told you all this because I
-[[Despair|despair]], not I; it’s to convince you that I can’t pick and choose in
-Dombey’s [[house|House]], and that where I am sent, there I must go, and what I
-am offered, that I must take. It’s better for my Uncle that I should be
-sent away; for Mr Dombey is a valuable friend to him, as he proved
-himself, you know when, [[Captain Cuttle]]; and I am persuaded he won’t be
-less valuable when he hasn’t me there, every day, to awaken his
-dislike. So hurrah for the West Indies, [[Captain Cuttle]]! How does that
-tune go that the sailors sing?
+There was no change upon his face; and as she watched it, awfully, its
+motionless response recalled the faces that were gone. So they looked,
+so would he; so she, his weeping [[Child|child]], who should say when! so all the
+world of [[Love|love]] and hatred and indifference around them! When that [[Time|time]]
+should come, it would not be the heavier to him, for this that she was
+going to do; and it might fall something lighter upon her.

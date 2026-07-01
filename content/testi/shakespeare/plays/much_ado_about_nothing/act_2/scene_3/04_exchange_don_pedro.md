@@ -1,5 +1,5 @@
 ---
-title: "Much Ado About Nothing — Act II, Scene 3 — exchange ([[Don Pedro|DON PEDRO]]) [4]"
+title: "Much Ado About Nothing — Act II, Scene 3 — exchange (DON PEDRO) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/much-ado-about-nothing-(shakespeare)"

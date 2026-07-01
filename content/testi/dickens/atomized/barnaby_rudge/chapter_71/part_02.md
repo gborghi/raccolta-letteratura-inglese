@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 71 (part 2)"
+title: "Barnaby Rudge — Chapter 71 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -137,5 +137,3 @@ to-[[Night|night]].’
 ‘Your uncle, dear Miss Haredale, happily--I say happily, because he has
 succeeded where many of our creed have failed, and is safe--has crossed
 the sea, and is out of Britain.’
-
-‘I thank God for it,’ said [[Emma]], faintly.

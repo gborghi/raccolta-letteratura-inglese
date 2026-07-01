@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 26 (part 2)"
+title: "Jane Eyre — Chapter 26 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_26/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_26/part_03">part 03 ›</a></div>
 </nav>
 
+
+“The ceremony is quite broken off,” subjoined the voice behind us. “I
+am in a condition to prove my allegation: an insuperable impediment to
+this [[Marriage|marriage]] exists.”
 
 Mr. Rochester heard, but heeded not: he stood stubborn and rigid,
 making no movement but to possess himself of my hand. What a hot and

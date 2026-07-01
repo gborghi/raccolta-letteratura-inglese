@@ -241,8 +241,3 @@ Mr. Coote also had a little rum; and also laid a little money under the rather v
 
 
 An idea, suited to the romantic opportunism of his present absurd career, suddenly swept over his mind, and he rushed out to look at the cart and [[donkey]]. The next moment he was back again, asking the tinker what his price was, and almost in the same breath offering a much bigger price than the tinker would have dreamed of asking. This was considered, however, as a lunacy specially allowed to gentlemen; the tinker had some more rum on the strength of the payment, and then Dalroy, offering his excuses, sealed up the cask and took it and the [[cheese]] to be stowed in the [[Bottom|bottom]] of the cart. The money, however, he still left lying in shining silver and copper before the silver beard of old Marne.
-
-
-
-
-No one acquainted with the quaint and often wordless camaraderie of the English poor will require to be told that they all went out and stared at him as he loaded the cart and saw to the harness of the [[donkey]] –all except the old cottager, who sat as if hypnotised by the sight of the money. While they were standing there they saw coming down the white, hot [[Road|road]], where it curled over the [[Hill|hill]], a figure that gave them no pleasure, even when it was a mere marching black spot in the distance. It was a Mr. Bullrose, the agent of Lord Ivywood’s estates.

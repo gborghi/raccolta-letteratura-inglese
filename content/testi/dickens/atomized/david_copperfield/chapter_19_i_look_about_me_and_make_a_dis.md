@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 19: I LOOK ABOUT ME, AND MAKE A DISCOVERY"
+title: "David Copperfield — Chapter 19: I LOOK ABOUT ME, AND MAKE A DISCOVERY"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/david-copperfield-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_18_a_retrospect">‹ Chapter 18 A RETROSPECT</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_20_steerforths_home">Chapter 20 STEERFORTHS HOME ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_18_a_retrospect">‹ Chapter 18 A RETROSPECT</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_20_steerforths_home_home">Chapter 20 STEERFORTHS Home HOME ›</a></div>
 </nav>
 
 

@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 13 (part 2)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 13 (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_12/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_12/part_03">part 03 ›</a></div>
 </nav>
 
+
+close by the hulk during the whole of the forenoon. We made several
+
+unsuccessful attempts to capture him by means of a noose. Augustus much
+
+worse, and evidently sinking as much from want of proper nourishment as
+
+from the effect of his wounds. He constantly prayed to be released from
 
 his sufferings, wishing for nothing but [[Death|death]]. This evening we ate the
 
@@ -181,21 +189,3 @@ of immediate danger, for the least slip or false movement would have
 thrown us at once within reach of these voracious fish, who frequently
 
 thrust themselves directly upon us, swimming up to leeward. No shouts
-
-or exertions on our part seemed to alarm them. Even when one of the
-
-largest was struck with an axe by Peters, and much wounded, he
-
-persisted in his attempts to push in where we were. A cloud came up at
-
-dusk, but, to our extreme anguish, passed over without discharging
-
-itself. It is quite impossible to conceive our sufferings from thirst
-
-at this period. We passed a sleepless [[Night|night]], both on this account and
-
-through dread of the sharks.
-
-
-
-_August 3._ No prospect of relief, and the brig lying still more and

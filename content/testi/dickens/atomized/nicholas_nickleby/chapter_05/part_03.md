@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 5 (part 3)"
+title: "Nicholas Nickleby — Chapter 5 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_05/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_05/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘I should never have forgiven myself if I had not seen him,’ said Mrs
+Nickleby. ‘Poor dear boy--going away without his breakfast too, because
+he feared to distress us!’
+
+‘Mighty fine certainly,’ said Ralph, with great testiness. ‘When I first
+went to business, ma’am, I took a penny loaf and a ha’porth of milk for
+my breakfast as I walked to the [[City|city]] every morning; what do you say to
+that, ma’am? Breakfast! Bah!’
+
+‘Now, Nickleby,’ said Squeers, coming up at the moment buttoning his
+greatcoat; ‘I think you’d better get up behind. I’m afraid of one of
+them boys falling off and then there’s twenty pound a year gone.’
+
+‘Dear Nicholas,’ whispered Kate, touching her brother’s arm, ‘who is
+that vulgar man?’
 
 ‘Eh!’ growled Ralph, whose quick ears had caught the inquiry. ‘Do you
 wish to be introduced to Mr. Squeers, my dear?’
@@ -125,21 +141,3 @@ son, and a good scholar, mathematical, classical, and commercial. We
 don’t do things by halves at our shop. All manner of learning my boys
 take down, sir; the expense is never thought of; and they get paternal
 treatment and washing in.’
-
-‘Upon my word,’ said the gentleman, glancing at Nicholas with a
-half-smile, and a more than half expression of surprise, ‘these are
-advantages indeed.’
-
-‘You may say that, sir,’ rejoined Squeers, thrusting his hands into his
-great-coat pockets. ‘The most unexceptionable references are given
-and required. I wouldn’t take a reference with any boy, that wasn’t
-responsible for the payment of five pound five a quarter, no, not if you
-went down on your knees, and asked me, with the [[Tears|tears]] running down your
-face, to do it.’
-
-‘Highly considerate,’ said the passenger.
-
-‘It’s my great aim and end to be considerate, sir,’ rejoined Squeers.
-‘Snawley, junior, if you don’t leave off chattering your teeth, and
-shaking with the cold, I’ll warm you with a severe thrashing in about
-half a minute’s [[Time|time]].’

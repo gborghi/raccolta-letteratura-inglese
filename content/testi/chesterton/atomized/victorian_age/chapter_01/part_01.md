@@ -16,13 +16,7 @@ tags:
 
 CHAPTER I
 
-
-
 THE VICTORIAN COMPROMISE AND ITS ENEMIES
-
-
-
-
 
 The previous literary life of this country had left vigorous many old
 
@@ -132,15 +126,11 @@ Shakespeare seems rather proud of talking nonsense: I never can read
 
 that rousing and mounting description of the [[Storm|storm]], where it comes to--
 
-
-
     "Who take the ruffian billows by the top,
 
     Curling their monstrous heads, and _hanging_ them
 
     With deafening clamour in the slippery clouds."
-
-
 
 without seeing an immense balloon rising from the ground, with
 
@@ -151,8 +141,6 @@ stop me: I am above reason now." That is the nearest we can get to the
 general national spirit, which we have now to follow through one brief
 
 and curious but very national episode.
-
-
 
 Three years before the young [[Queen|queen]] was crowned, William Cobbett was
 
@@ -180,8 +168,6 @@ no mean [[City|city]]. He differed from after Liberals in strongly affirming tha
 
 Liverpool and Leeds are mean cities.
 
-
-
 It is no idle Hibernianism to say that towards the end of the eighteenth
 
 century the most important event in English [[history]] happened in France.
@@ -195,11 +181,3 @@ that never happened at all--the English Revolution on the lines of the
 [[French Revolution]]. Its failure was not due to any lack of fervour or
 
 even ferocity in those who would have brought it about: from the [[Time|time]]
-
-when the first shout went up for Wilkes to the [[Time|time]] when the last
-
-Luddite fires were quenched in a cold rain of rationalism, the spirit of
-
-Cobbett, of rural republicanism, of English and patriotic [[Democracy|democracy]],
-
-burned like a beacon. The revolution failed because it was foiled by

@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 26 (part 2)"
+title: "Shirley — Chapter 26 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_26/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_26/part_03">part 03 ›</a></div>
 </nav>
 
+
+nose apiece. They had been educated faultlessly. All they did was [[Well|well]]
+
+done. [[history|History]] and the most solid books had cultivated their minds.
+
+Principles and opinions they possessed which could not be mended. More
 
 exactly-regulated lives, feelings, manners, habits, it would have been
 
@@ -199,35 +205,3 @@ uncle's family before the Sympsons came down here?"
 [[Shirley]]'s reply was not so prompt as her responses usually were, but at
 
 last she answered, "Yes--of course; I knew it [[Well|well]]."
-
-
-
-"I thought you must have been aware of the circumstance."
-
-
-
-"[[Well]]! what then?"
-
-
-
-"It puzzles me to guess how it chanced that you never mentioned it to
-
-me."
-
-
-
-"Why should it puzzle you?"
-
-
-
-"It seems odd. I cannot account for it. You talk a great deal--you talk
-
-freely. How was that circumstance never touched on?"
-
-
-
-"Because it never was," and [[Shirley]] laughed.
-
-
-
-"You are a singular being!" observed her friend. "I thought I knew you

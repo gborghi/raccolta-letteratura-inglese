@@ -1,5 +1,5 @@
 ---
-title: "[[innocence]] — The Three Tools of [[Death]] (part 3)"
+title: "innocence — The Three Tools of Death (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -28,18 +28,18 @@ Gilder looked at the man-servant in utter amazement.
 
 "To keep it safe from the criminal, of course," replied that person placidly.
 
-"Surely," said Gilder, "Sir [[Aaron]]'s money might have been safely left
-with Sir [[Aaron]]'s family."
+"Surely," said Gilder, "Sir Aaron's money might have been safely left
+with Sir Aaron's family."
 
 The tail of his sentence was drowned in the roar of the train as it
 went rocking and clanking; but through all the hell of noises to
-which that unhappy [[house]] was periodically subject, they could hear
+which that unhappy house was periodically subject, they could hear
 the syllables of Magnus's answer, in all their bell-like distinctness:
-"I have no reason to feel confidence in Sir [[Aaron]]'s family."
+"I have no reason to feel confidence in Sir Aaron's family."
 
 All the motionless men had the ghostly sensation of the presence of some
 new person; and Merton was scarcely surprised when he looked up and saw
-the pale face of Armstrong's daughter over [[Father Brown]]'s shoulder.
+the pale face of Armstrong's daughter over Father Brown's shoulder.
 She was still young and beautiful in a silvery style, but her hair
 was of so dusty and hueless a brown that in some shadows it seemed
 to have turned totally grey.
@@ -47,15 +47,15 @@ to have turned totally grey.
 "Be careful what you say," said Royce gruffly, "you'll
 frighten Miss Armstrong."
 
-"I [[Hope|hope]] so," said the man with the clear voice.
+"I hope so," said the man with the clear voice.
 
 As the woman winced and everyone else wondered, he went on:
 "I am somewhat used to Miss Armstrong's tremors.
 I have seen her trembling off and on for years.  And some said
-she was shaking with cold and some she was shaking with [[Fear|fear]],
+she was shaking with cold and some she was shaking with fear,
 but I know she was shaking with hate and wicked anger--
 fiends that have had their feast this morning.  She would have
-been away by now with her [[Lover|lover]] and all the money but for me.
+been away by now with her lover and all the money but for me.
 Ever since my poor old master prevented her from marrying
 that tipsy blackguard--"
 
@@ -65,9 +65,9 @@ your mere opinions--"
 
 "Oh!  I'll give you practical evidence," cut in Magnus, in his
 hacking accent.  "You'll have to subpoena me, Mr. Inspector,
-and I shall have to tell the [[Truth|truth]].  And the [[Truth|truth]] is this:
+and I shall have to tell the truth.  And the truth is this:
 An instant after the old man was pitched bleeding out of
-the [[Window|window]], I ran into the attic, and found his daughter
+the window, I ran into the attic, and found his daughter
 swooning on the floor with a red dagger still in her hand.
 Allow me to hand that also to the proper authorities."
 He took from his tail-pocket a long horn-hilted knife with
@@ -79,9 +79,9 @@ Merton felt an almost bodily sickness at the sight of him;
 and he muttered to Gilder:  "Surely you would take Miss Armstrong's
 word against his?"
 
-[[Father Brown]] suddenly lifted a face so absurdly fresh that it
+Father Brown suddenly lifted a face so absurdly fresh that it
 looked somehow as if he had just washed it.  "Yes," he said,
-radiating [[innocence]], "but is Miss Armstrong's word against his?"
+radiating innocence, "but is Miss Armstrong's word against his?"
 
 The girl uttered a startled, singular little cry; everyone looked at her.
 Her figure was rigid as if paralysed; only her face within its
@@ -91,11 +91,11 @@ She stood like one of a sudden lassooed and throttled.
 "This man," said Mr. Gilder gravely, "actually says that you were found
 grasping a knife, insensible, after the murder."
 
-"He says the [[Truth|truth]]," answered Alice.
+"He says the truth," answered Alice.
 
 The next fact of which they were conscious was that Patrick Royce strode
 with his great stooping head into their ring and uttered the singular words:
-"[[Well]], if I've got to go, I'll have a bit of pleasure first."
+"Well, if I've got to go, I'll have a bit of pleasure first."
 
 His huge shoulder heaved and he sent an iron fist smash into Magnus's
 bland Mongolian visage, laying him on the lawn as flat as a starfish.
@@ -111,7 +111,7 @@ were turning into a brainless harlequinade.
 
 Gilder threw an alarmed glance at the man knocked down; but since
 that outraged person was already sitting up and wiping a little
-[[Blood|blood]] off a substantially uninjured face, he only said shortly:
+blood off a substantially uninjured face, he only said shortly:
 "What do you mean?"
 
 "It is quite true, as this fellow says," explained Royce,
@@ -142,16 +142,16 @@ Two vases were smashed on the mantelpiece and one on the carpet.
 battered man somehow had the pathos of the first sin of a baby.
 
 "You all know about me," he continued huskily; "everybody knows
-how my story began, and it may as [[Well|well]] end like that too.
+how my story began, and it may as well end like that too.
 I was called a clever man once, and might have been a happy one;
-Armstrong saved the remains of a brain and [[Body|body]] from the taverns,
+Armstrong saved the remains of a brain and body from the taverns,
 and was always kind to me in his own way, poor fellow!
 Only he wouldn't let me marry Alice here; and it will always
-be said that he was right enough.  [[Well]], you can form your
+be said that he was right enough.  Well, you can form your
 own conclusions, and you won't want me to go into details.
 That is my whisky bottle half emptied in the corner; that is
 my revolver quite emptied on the carpet.  It was the rope from
-my box that was found on the corpse, and it was from my [[Window|window]]
+my box that was found on the corpse, and it was from my window
 the corpse was thrown.  You need not set detectives to grub
-up my [[Tragedy|tragedy]]; it is a common enough weed in this world.
+up my tragedy; it is a common enough weed in this world.
 I give myself to the gallows; and, by God, that is enough!"

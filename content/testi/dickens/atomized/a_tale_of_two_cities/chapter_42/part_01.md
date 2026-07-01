@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities — Chapter 10 (part 1)"
+title: "A Tale of Two Cities — Chapter 12 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-tale-of-two-cities-(dickens)"
@@ -10,127 +10,141 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/a-tale-of-two-cities-(dickens)">A Tale of Two Cities</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_41/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_42/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_40/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_42/part_02">part 02 ›</a></div>
 </nav>
 
 
-CHAPTER X.
-The Substance of the [[Shadow]]
+CHAPTER XII.
+Darkness
 
 
-“I, Alexandre Manette, unfortunate physician, native of Beauvais, and
-afterwards resident in [[Paris]], write this [[Melancholy|melancholy]] paper in my doleful
-cell in the Bastille, during the last month of the year, 1767. I write
-it at stolen intervals, under every difficulty. I design to secrete it
-in the wall of the chimney, where I have slowly and laboriously made a
-place of concealment for it. Some pitying hand may find it there, when I
-and my sorrows are [[Dust|dust]].
+[[Sydney Carton]] paused in the street, not quite decided where to go. “At
+Tellson’s banking-[[house]] at nine,” he said, with a musing face. “Shall I
+do [[Well|well]], in the mean [[Time|time]], to show myself? I think so. It is best that
+these people should know there is such a man as I here; it is a sound
+precaution, and may be a necessary preparation. But care, care, care!
+Let me think it out!”
 
-“These words are formed by the rusty iron point with which I write with
-difficulty in scrapings of soot and charcoal from the chimney, mixed
-with [[Blood|blood]], in the last month of the tenth year of my captivity. [[Hope]]
-has quite departed from my breast. I know from terrible warnings I have
-noted in myself that my reason will not long remain unimpaired, but I
-solemnly declare that I am at this [[Time|time]] in the possession of my right
-mind--that my [[Memory|memory]] is exact and circumstantial--and that I write the
-[[Truth|truth]] as I shall answer for these my last recorded words, whether they
-be ever read by men or not, at the Eternal Judgment-seat.
+Checking his steps which had begun to tend towards an object, he took a
+turn or two in the already darkening street, and traced the thought
+in his mind to its possible consequences. His first impression was
+confirmed. “It is best,” he said, finally resolved, “that these people
+should know there is such a man as I here.” And he turned his face
+towards Saint Antoine.
 
-“One cloudy moonlight [[Night|night]], in the third week of December (I think the
-twenty-second of the month) in the year 1757, I was walking on a retired
-part of the quay by the Seine for the refreshment of the frosty air,
-at an hour’s distance from my place of residence in the Street of the
-School of Medicine, when a carriage came along behind me, driven very
-fast. As I stood aside to let that carriage pass, apprehensive that it
-might otherwise run me down, a head was put out at the [[Window|window]], and a
-voice called to the driver to stop.
+Defarge had described himself, that day, as the keeper of a wine-shop in
+the Saint Antoine suburb. It was not difficult for one who knew the [[City|city]]
+[[Well|well]], to find his [[house]] without asking any question. Having ascertained
+its situation, Carton came out of those closer streets again, and dined
+at a place of refreshment and fell sound asleep after dinner. For the
+first [[Time|time]] in many years, he had no strong drink. Since last [[Night|night]] he
+had taken nothing but a little light thin wine, and last [[Night|night]] he had
+dropped the brandy slowly down on Mr. Lorry’s hearth like a man who had
+done with it.
 
-“The carriage stopped as soon as the driver could rein in his horses,
-and the same voice called to me by my name. I answered. The carriage
-was then so far in advance of me that two gentlemen had [[Time|time]] to open the
-door and alight before I came up with it.
+It was as late as seven o’[[Clock|clock]] when he awoke refreshed, and went out
+into the streets again. As he passed along towards Saint Antoine, he
+stopped at a shop-[[Window|window]] where there was a [[Mirror|mirror]], and slightly altered
+the disordered arrangement of his loose cravat, and his coat-collar, and
+his wild hair. This done, he went on direct to Defarge’s, and went in.
 
-“I observed that they were both wrapped in cloaks, and appeared to
-conceal themselves. As they stood side by side near the carriage door,
-I also observed that they both looked of about my own age, or rather
-younger, and that they were greatly alike, in stature, manner, voice,
-and (as far as I could see) face too.
+There happened to be no customer in the shop but Jacques Three, of the
+restless fingers and the croaking voice. This man, whom he had seen upon
+the Jury, stood drinking at the little counter, in conversation with the
+Defarges, man and wife. The Vengeance assisted in the conversation, like
+a regular member of the establishment.
 
-“‘You are [[Doctor Manette]]?’ said one.
+As Carton walked in, took his seat and asked (in very indifferent
+French) for a small measure of wine, [[Madame Defarge]] cast a careless
+glance at him, and then a keener, and then a keener, and then advanced
+to him herself, and asked him what it was he had ordered.
 
-“I am.”
+He repeated what he had already said.
 
-“‘[[Doctor Manette]], formerly of Beauvais,’ said the other; ‘the young
-physician, originally an expert surgeon, who within the last year or two
-has made a rising reputation in [[Paris]]?’
+“English?” asked [[Madame Defarge]], inquisitively raising her dark
+eyebrows.
 
-“‘Gentlemen,’ I returned, ‘I am that [[Doctor Manette]] of whom you speak so
-graciously.’
+After looking at her, as if the sound of even a single French word were
+slow to express itself to him, he answered, in his former strong foreign
+accent. “Yes, madame, yes. I am English!”
 
-“‘We have been to your residence,’ said the first, ‘and not being
-so fortunate as to find you there, and being informed that you were
-probably walking in this direction, we followed, in the [[Hope|hope]] of
-overtaking you. Will you please to enter the carriage?’
+[[Madame Defarge]] returned to her counter to get the wine, and, as he
+took up a Jacobin journal and feigned to pore over it puzzling out its
+meaning, he heard her say, “I swear to you, like Evrémonde!”
 
-“The manner of both was imperious, and they both moved, as these words
-were spoken, so as to place me between themselves and the carriage door.
-They were armed. I was not.
+Defarge brought him the wine, and gave him Good Evening.
 
-“‘Gentlemen,’ said I, ‘pardon me; but I usually inquire who does me
-the [[Honour|honour]] to seek my assistance, and what is the [[Nature|nature]] of the case to
-which I am summoned.’
+“How?”
 
-“The reply to this was made by him who had spoken second. ‘Doctor,
-your clients are people of condition. As to the [[Nature|nature]] of the case,
-our confidence in your skill assures us that you will ascertain it for
-yourself better than we can describe it. Enough. Will you please to
-enter the carriage?’
+“Good evening.”
 
-“I could do nothing but comply, and I entered it in [[Silence|silence]]. They both
-entered after me--the last springing in, after putting up the steps. The
-carriage turned about, and drove on at its former [[Speed|speed]].
+“Oh! Good evening, citizen,” filling his glass. “Ah! and good wine. I
+drink to the Republic.”
 
-“I repeat this conversation exactly as it occurred. I have no [[Doubt|doubt]] that
-it is, word for word, the same. I describe everything exactly as it took
-place, constraining my mind not to wander from the task. Where I make
-the broken marks that follow here, I leave off for the [[Time|time]], and put my
-paper in its hiding-place.
+Defarge went back to the counter, and said, “Certainly, a little like.”
+ Madame sternly retorted, “I tell you a good deal like.” Jacques Three
+pacifically remarked, “He is so much in your mind, see you, madame.”
+ The amiable Vengeance added, with a laugh, “Yes, my [[Faith|faith]]! And you
+are looking forward with so much pleasure to seeing him once more
+to-morrow!”
 
-        *****
+Carton followed the lines and words of his paper, with a slow
+forefinger, and with a studious and absorbed face. They were all leaning
+their arms on the counter close together, speaking low. After a [[Silence|silence]]
+of a few moments, during which they all looked towards him without
+disturbing his outward attention from the Jacobin editor, they resumed
+their conversation.
 
-“The carriage left the streets behind, passed the North Barrier, and
-emerged upon the country [[Road|road]]. At two-thirds of a league from the
-Barrier--I did not estimate the distance at that [[Time|time]], but afterwards
-when I traversed it--it struck out of the main avenue, and presently
-stopped at a solitary [[house]], We all three alighted, and walked, by
-a damp soft footpath in a [[Garden|garden]] where a neglected fountain had
-overflowed, to the door of the [[house]]. It was not opened immediately, in
-answer to the ringing of the bell, and one of my two conductors struck
-the man who opened it, with his heavy riding glove, across the face.
+“It is true what madame says,” observed Jacques Three. “Why stop? There
+is great force in that. Why stop?”
 
-“There was nothing in this action to attract my particular attention,
-for I had seen common people struck more commonly than [[dogs]]. But, the
-other of the two, being angry likewise, struck the man in like manner
-with his arm; the look and bearing of the brothers were then so exactly
-alike, that I then first perceived them to be twin brothers.
+“[[Well]], [[Well|well]],” reasoned Defarge, “but one must stop somewhere. After all,
+the question is still where?”
 
-“From the [[Time|time]] of our alighting at the outer gate (which we found
-locked, and which one of the brothers had opened to admit us, and had
-relocked), I had heard cries proceeding from an upper chamber. I was
-conducted to this chamber straight, the cries growing louder as we
-ascended the stairs, and I found a patient in a high fever of the brain,
-lying on a bed.
+“At extermination,” said madame.
 
-“The patient was a woman of great [[Beauty|beauty]], and young; assuredly not much
-past twenty. Her hair was torn and ragged, and her arms were bound to
-her sides with sashes and handkerchiefs. I noticed that these bonds were
-all portions of a gentleman’s dress. On one of them, which was a fringed
-scarf for a dress of ceremony, I saw the armorial bearings of a Noble,
-and the letter E.
+“Magnificent!” croaked Jacques Three. The Vengeance, also, highly
+approved.
 
-“I saw this, within the first minute of my contemplation of the patient;
-for, in her restless strivings she had turned over on her face on the
-edge of the bed, had drawn the end of the scarf into her mouth, and was
-in danger of suffocation. My first act was to put out my hand to relieve
-her breathing; and in moving the scarf aside, the embroidery in the
-corner caught my sight.
+“Extermination is good doctrine, my wife,” said Defarge, rather
+troubled; “in general, I say nothing against it. But this Doctor has
+suffered much; you have seen him to-day; you have observed his face when
+the paper was read.”
+
+“I have observed his face!” repeated madame, contemptuously and angrily.
+“Yes. I have observed his face. I have observed his face to be not the
+face of a true friend of the Republic. Let him take care of his face!”
+
+“And you have observed, my wife,” said Defarge, in a deprecatory manner,
+“the anguish of his daughter, which must be a dreadful anguish to him!”
+
+“I have observed his daughter,” repeated madame; “yes, I have observed
+his daughter, more times than one. I have observed her to-day, and I
+have observed her other days. I have observed her in the [[Court|court]], and
+I have observed her in the street by the [[Prison|prison]]. Let me but lift my
+finger--!” She seemed to raise it (the listener’s eyes were always on
+his paper), and to let it fall with a rattle on the ledge before her, as
+if the axe had dropped.
+
+“The citizeness is superb!” croaked the Juryman.
+
+“She is an Angel!” said The Vengeance, and embraced her.
+
+“As to thee,” pursued madame, implacably, addressing her husband, “if it
+depended on thee--which, happily, it does not--thou wouldst rescue this
+man even now.”
+
+“No!” protested Defarge. “Not if to lift this glass would do it! But I
+would leave the matter there. I say, stop there.”
+
+“See you then, Jacques,” said [[Madame Defarge]], wrathfully; “and see you,
+too, my little Vengeance; see you both! Listen! For other crimes as
+tyrants and oppressors, I have this race a long [[Time|time]] on my register,
+doomed to destruction and extermination. Ask my husband, is that so.”
+
+“It is so,” assented Defarge, without being asked.
+
+“In the beginning of the great days, when the Bastille falls, he finds
+this paper of to-day, and he brings it [[Home|home]], and in the middle of the
+[[Night|night]] when this place is clear and shut, we read it, here on this spot,
+by the light of this lamp. Ask him, is that so.”

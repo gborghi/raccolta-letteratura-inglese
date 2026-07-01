@@ -14,6 +14,11 @@ tags:
 </nav>
 
 
+“You see,” said Miss Browning, “we mustn’t interfere with his career; that is the important thing. And, really, I think the quieter we keep about everything the better. I am sure he is maturing very big plans. You heard what the [[Prophet]] said the other [[Night|night]]?”
+
+
+
+
 “The last thing the [[Prophet]] said to me,” said the darker lady, in a dogged manner, “was that when we English see the English youth, we cry out ‘He is crescent!’ But when we see the English aged man, we cry out ‘He is [[Cross|cross]]!’”
 
 
@@ -165,27 +170,3 @@ Away in the distant music room, Lady Enid, having found the music she preferred,
 
 
 “The tune of harp, sackbut, psaltery, dulcimer and all kinds of music,” said Joan, softly and fiercely, “when we shall bow down and worship the Golden Image that Nebuchadnezzar the [[King]] has set up. Girls! Women! Do you know what this place is? Do you know why it is all doors within doors and lattice behind lattice; and everything is curtained and cushioned; and why the [[Flowers|flowers]] that are so fragrant here are not the [[Flowers|flowers]] of our hills?”
-
-
-
-
-From the distant and slowly darkening music room, Enid Wimpole’s [[Song|song]] came thin and clear:
-
-
-
-
-“Less than the [[Dust|dust]] beneath thy chariot [[Wheel|wheel]],
-
-
-
-
-Less than the rust that never stained thy [[Sword|sword]]–”
-
-
-
-“Do you know what we are?” demanded Joan Brett, again. “We are a Harem.”
-
-
-
-
-“Why, what can you mean?” cried the younger girl, in great agitation. “Why, Lord Ivywood has never–”

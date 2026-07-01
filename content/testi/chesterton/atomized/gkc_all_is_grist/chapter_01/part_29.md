@@ -14,112 +14,99 @@ tags:
 </nav>
 
 
-The difficulty of [[history]] is that historians seldom see the simple things,
-or even the obvious things, because they are too simple and obvious.
-It is sometimes said of the pictures of the [[Renaissance]] artists,
-especially of the pictures of Rubens, that we ought to stand
-far back in order to take in the whole stupendous design,
-and not be annoyed because some detail is technically careless
-or emotionally coarse.  It is probably true of more than one
-[[Renaissance]] picture of the [[Resurrection]]; and it is certainly true
-of that general [[Resurrection]] that is called the [[Renaissance]].
-There has been too much bickering over bits of the astonishing business;
-too much casuistry about whether this or that painter in this
-or that point surrendered to heathenism, or merely to human [[Nature|nature]].
-The whole story consists of two staggering truths.  First, that these
-men did really raise the dead.  They did call up all heathenism,
-which might seem about as safe as calling up all hell.
-And, second, that they did really in a manner [[convert]] and christen
-the dead; that they did baptize all that bodily manifestation
-and materialization into the [[Body|body]] of [[Christ]].  Even when it had been
-and was no more, it did become something that it had not been.
-They paraded before the world a wild hypothetical pageant of what
-old Greece and Rome would have been if they had not been pagan.
-To do this with any dead society is an amazing achievement.
-To copy the old [[Body|body]] in any case is amazing; to copy the old [[Body|body]],
-and also put in a new [[Soul|soul]], is amazing beyond praise, beyond question,
-and certainly beyond quibbling.  The fact is so familiar that it
-has ceased to amaze; the only chance of conveying it would be
-to take some fantastic parallel in modern and ancient things.
-We should be mildly surprised to hear that the English in [[Egypt]]
-had reconstructed for themselves the ancient Egyptian civilization;
-that all the proclamations of Lord Lloyd had been carved on obelisks
-in Egyptian hieroglyphics; that Lord Cromer had been preserved on
-the premises in the form of a mummy; or that Lord Kitchener at Cairo
-had religiously gone the round of worshipping a series of stuffed cats.
-But we should be surprised, with something less of mildness, if we were
-told that all this was done in such a way as to cause no embarrassment,
-or even amusement, to the English gentlemen who were doing it;
-and who managed to do it without the least sense that their code
-of manners was altered, or that their religion, when they had any,
-was [[Suffering|suffering]] neglect.  Just as it would be a remarkable thing
-for men to become ancient Egyptians and yet remain modern Englishmen,
-so it was a remarkable thing when these men became ancient Greeks
-and yet remained medieval Christians.
+I have already picked two quarrels with better men than myself,
+who were enthusiasts for childish [[Romance|romance]], upon the reality of the
+[[Romance|romance]] of [[Childhood|childhood]].  First, I disagree with them when they treat
+the infantile [[Imagination|imagination]] as a sort of dream; whereas I remember it
+rather as a man dreaming might remember the world where he was awake.
+And second, I deny that children have suffered under a tyranny
+of moral tales.  For I remember the [[Time|time]] when it would have seemed
+the most hideous tyranny to take my moral tales away from me.
+And, in order to make this clear, I must contradict yet another
+common assumption in the romantic description of the [[Dawn|dawn]] of life.
+The point is not very easy to explain; indeed, I have spent
+the greater part of my life in an unsuccessful attempt to explain it.
+Upon the cartloads of ill-constructed books in which I
+have completely failed to do so I have no [[Desire|desire]] to dwell.
+But perhaps, as a general definition, this might be useful; or, if not
+as a definition, at least a suggestion.  From the first vaguely,
+and of late more and more clearly, I have felt that the world
+is conceiving liberty as something that merely works outwards.
+And I have always conceived it as something that works inwards.
 
-There are many morals to the story; but one must be manifest in
-the mere word I have used.  If the medieval religion had really been
-such a silly superstition as some of its simpler enemies represent,
-it quite certainly would have been swallowed up for ever in
-such an earthquake of enlightenment as the great [[Renaissance]].
-The fact that the vision of a superb and many-sided human culture
-did not disturb the fundamental ideas of these late medieval
-Christians has a simple explanation:  that the ideas are true.
-The application of these true ideas in medieval times had been
-very much hampered by local ignorance and feudal prejudice.
-But the truths were so true that they would have survived,
-in really thinking men, through ten Renaissances and twenty Revivals
-of Learning.  We see this vividly in the intensely intellectual
-character of the religious conviction in men like Michelangelo
-and even Leonardo da Vinci.  Nobody knew better than they that
-[[Christianity]] is really wiser, and even wider, than Paganism;
-that [[aquinas|Aquinas]] was not only better but broader than Aristotle.
-Not from such men came the clumsy denials of the deep dogmas of
-the [[Faith]].  Michelangelo was not the man to dispute that the truly
-divine humanity would be crucified; nor could Raphael be reckoned
-on for a breezy protest against the respect felt for the Madonna.
-But if the whole thing had been a dirty asceticism of the [[Desert|desert]],
-the mere monkey tricks of the Manichees, it would have fallen like
-filthy rags from men who had seen the grace of the Greek athletes.
-If it had been only a worship of dolls with tinsel crowns,
-it would have looked a paltry and pygmy affair in the presence
-of the great head of Jupiter.  But the real men of the [[Renaissance]]
-knew that, as a matter of fact, there was much more humanity
-in the rules for the brethren gathered by St. Francis than
-in the rules for the boys beaten before the altar of [[Diana]];
-and that, as a matter of fact, the Church had a much more logical
-idea about the exact position of Jesus in Heaven than the heathens
-had ever had about the exact position of Jupiter on Olympus.
-It was the intellectual value of the creed that preserved it through
-any revolution of aesthetic values, just as it preserves it still
-amid the wildest changes in aesthetic taste to-day. Michelangelo
-went on being a Christian then, just as Mr. Eric Gill goes on being
-a Christian now, because a man may be original without being
-separated from the origins; and because a man may be able to think,
-even if he can also draw.
+The ordinary poetic description of the first [[Dreams|dreams]] of life is
+a description of mere [[Longing|longing]] for larger and larger horizons.
+The [[Imagination|imagination]] is supposed to work towards the infinite;
+though in that sense the infinite is the opposite of the [[Imagination|imagination]].
+For the [[Imagination|imagination]] deals with an image, and an image is in its
+[[Nature|nature]] a thing that has an outline, and therefore a limit.
+Now I will maintain, paradoxical as it may seem, that the [[Child|child]]
+does not [[Desire|desire]] merely to fall out of the [[Window|window]], or even to fly
+through the air or to be drowned in the sea.  When he wishes to go
+to other places, they are still places, even if nobody has ever
+been there.  But, in [[Truth|truth]], the case is much stronger than that.
+It is plain on the face of the facts that the [[Child|child]] is positively
+in [[Love|love]] with limits.  He uses his [[Imagination|imagination]] to invent
+imaginary limits.  The [[Nurse|nurse]] and the governess have never told
+him that it is his moral duty to step on alternate paving-stones.
+He deliberately deprives this world of half its paving-stones,
+in order to exult in a challenge that he has offered to himself.
+I played that kind of game with myself all over the mats and boards
+and carpets of the [[house]]; and, at the risk of being detained during
+His Majesty's pleasure, I will admit that I often play it still.
+In that sense I have constantly tried to cut down the actual space
+at my disposal; to divide and subdivide, into these happy prisons,
+the [[house]] in which I was quite free to run wild.
 
-I would not be provocative, but I think this rather neglected [[Truth|truth]]
-is due to these great artists, when so many people imagine them
-to have been Pagans and some can even imagine them as Puritans.
-It seems clear to me that those despised medieval superstitions,
-suited only for barbarians like [[Dante]] and St. Francis, were exactly
-the ideas that did remain rooted in the most civilized centres of
-the world, when they were disputed in the more barbarous provinces.
-When we consider how exciting the destructive [[Quest|quest]] of the intellect
-really is (though it is generally people totally devoid of
-intellect who say so), it is really rather remarkable that there
-was comparatively so little of it in these great adventurers,
-who were devoted to the creative [[Quest|quest]] of the [[Imagination|imagination]].
-When we consider how wild they often were in the matter of morals
-(though it is generally the sort of moderns who have no morals
-at all who darkly denounce the immorality of these later men
-of the medieval decline) it is really rather remarkable that they
-kept as much as they did of the [[Faith|faith]] from which the morals grew--
-or ought to have grown.  When we consider that it really is a fact
-(though the first [[Fool|fool]] in the street will tell you so)
-that scepticism had begun to appear here and there even among
-priests and bishops, it is really singular, upon the balance,
-that it had not appeared more among painters and sculptors.
-We may talk, as they sometimes may have talked, about reviving
-the gods of Greece.  But Moses is Moses and David is David,
-and a Pagan would have stood puzzled before them.
+I believe that there is in this psychological freak a [[Truth|truth]] without
+which the whole modern world is missing its main opportunity.
+If we look at the favourite nursery romances, or at least if we
+have the patience to look at them twice, we shall find that they all
+really support this view, even when they have largely been accepted
+as supporting the opposite view.  The charm of Robinson Crusoe
+is not in the fact that he could find his way to a remote island,
+but in the fact that he could not find any way of getting away from it.
+It is that fact which gives an intensive interest and excitement
+to all the things that he had with him on the island; the axe
+and the parrot and the guns and the little hoard of grain.
+The tale of Treasure Island is not the record of a vague [[Desire|desire]]
+to go on a sea voyage for one's health.  It ends where it began;
+and it began with Stevenson drawing a map of the island,
+with all its bays and capes cut out as clearly as fretwork.
+The eternal interest of the Noah's Ark, considered as a toy,
+consists in its complete suggestion of compactness and isolation;
+of creatures so comically remote and fantastic being all locked up
+in one box; as if Noah had been told to pack up the sun and [[Moon|moon]]
+with his luggage.  In other words, it is exactly the same game that I
+have played myself, by piling all the things I wanted on a sofa,
+and imagining that the carpet around me was the surrounding sea.
+
+This game of [[Self|self]]-limitation is one of the secret pleasures of life.
+As it says in the little manuals about such sports, the game is
+played in several forms.  One very good way of playing it is to look
+at the nearest bookcase and [[Wonder|wonder]] whether you would find sufficient
+entertainment in that chance collection, even if you had no other books.
+But always it is dominated by this principle of division and restriction,
+which begins with the game played by the [[Child|child]] with the paving-stones.
+But I dwell upon it here because it must be understood as some thing
+real and rooted, so far as I am concerned, in order that the other
+views I have offered about these things may make any sort of sense.
+If anybody chooses to say that I have founded all my social [[philosophy]]
+on the antics of a baby, I am quite satisfied to bow and smile.
+
+I have no great hopes that my own private Utopia, the Utopia of
+subdivision and [[Self|self]]-limitation, is likely to be rapidly established
+in the real world.  I do not immediately expect that the landlord
+with five hundred acres will instantly cut it down to fifty acres,
+and stand in startled admiration of the fresh and pleasing shape,
+the entirely new and attractive map or outline of his domains.
+I hardly suppose that he will be romantically enraptured, all at once,
+at the discovery of the enchanted island that I have cut out for him,
+out of the dull and dreary sea of his solid landed estate.
+I [[Doubt|doubt]] whether the simple kindly act of stealing half his books will
+drive him to reading the other half; I am not sure that the traditional
+childish present, of a little [[Garden|garden]] marked out in the middle
+of his large [[Garden|garden]], will instantly change him to a little [[Child|child]].
+But I do know that great historic changes always begin at exactly
+the opposite end to the end the world is pursuing, and that the
+human search, so long turned outwards, will turn inwards very soon.

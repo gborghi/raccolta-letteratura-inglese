@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 53 (part 5)"
+title: "Great Expectations — Chapter 53 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_53/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_54/part_01">part 01 ›</a></div>
 </nav>
 
+
+My terror, as I lay there, of falling ill, and being unfitted for
+to-morrow, was so besetting, that I [[Wonder|wonder]] it did not disable me of
+itself. It would have done so, pretty surely, in conjunction with the
+mental wear and tear I had suffered, but for the unnatural strain upon
+me that to-morrow was. So anxiously looked forward to, charged with
+such consequences, its results so impenetrably hidden, though so near.
 
 No precaution could have been more obvious than our refraining from
 communication with him that day; yet this again increased my

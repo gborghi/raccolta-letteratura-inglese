@@ -57,7 +57,7 @@ Probably he will be confused with Mr. G. D. H. Cole, the first President
 of the Guild Socialistic Republic.  With the greatest admiration
 for Mr. Cole, I cannot quite picture him as so festive a figure;
 and I incline to think that the same influences will probably
-eliminate the festivity.  It is said that [[america|America]], having already
+eliminate the festivity.  It is said that [[America]], having already
 abolished the bowl, is now attempting to abolish the pipe.
 After that it might very reasonably go on to abolish the fiddlers;
 for music can be far more maddening than wine.  [[tolstoy|Tolstoy]], the only

@@ -55,11 +55,11 @@ as varied as those round the secret of [[Edwin Drood]].  But without
 exaggerating any one of the elements that contributed to it,
 we may note that the very last phase of his life was a new phase;
 and was almost entirely filled with his new activity in giving
-public readings from his works.  He had gone to [[america|America]] once
+public readings from his works.  He had gone to [[America]] once
 more in the November of 1867, with this particular purpose;
 and his campaign of public speaking in this style was truly
 American in its scope and scale.  If he had indeed been unjust
-to [[america|America]] as a writer, it is curious that he should have
+to [[America]] as a writer, it is curious that he should have
 reached his final popularity and perhaps his final collapse,
 in a character so supremely American.  Differences exist
 about how far he exaggerated the function or how far his

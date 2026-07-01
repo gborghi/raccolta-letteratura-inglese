@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 9 (part 3)"
+title: "Villette — Chapter 9 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -139,26 +139,3 @@ lately had: all the rest is settled.”
 “There,” I thought, “lies the mystery; considering that they were not
 given you by Mrs. Cholmondeley, and that your own means are limited to
 a few shillings, of which I know you to be excessively careful.”
-
-“Ecoutez!” she went on, drawing near and speaking in her most
-confidential and coaxing tone; for my “sulkiness” was inconvenient to
-her: she liked me to be in a talking and listening mood, even if I only
-talked to chide and listened to rail. “Ecoutez, chère grogneuse! I will
-tell you all how and about it; and you will then see, not only how
-right the whole thing is, but how cleverly managed. In the first place,
-I _must_ go out. Papa himself said that he wished me to see something
-of the world; he particularly remarked to Mrs. Cholmondeley, that,
-though I was a sweet creature enough, I had rather a
-bread-and-butter-eating, school-girl air; of which it was his special
-[[Desire|desire]] that I should get rid, by an introduction to society here,
-before I make my regular début in England. [[Well]], then, if I go out, I
-_must_ dress. Mrs. Cholmondeley is turned shabby, and will give nothing
-more; it would be too hard upon uncle to make him pay for _all_ the
-things I need: _that_ you can’t deny—_that_ agrees with your own
-preachments. [[Well]], but SOMEBODY who heard me (quite by chance, I assure
-you) complaining to Mrs. Cholmondeley of my distressed circumstances,
-and what straits I was put to for an ornament or two—_somebody_, far
-from grudging one a present, was quite delighted at the idea of being
-permitted to offer some trifle. You should have seen what a _blanc-bec_
-he looked when he first spoke of it: how he hesitated and blushed, and
-positively trembled from [[Fear|fear]] of a repulse.”

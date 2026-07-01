@@ -14,6 +14,22 @@ tags:
 </nav>
 
 
+‘Come!  How should I know who kept the [[house]]?  When I sent my servant on
+to you, I strolled in here because the place was new to me; and I had a
+natural curiosity in everything new and old, in these old scenes; and it
+was outside the town.  I wanted to communicate with you, first, before
+appearing there.  I wanted to know what people would say to me.  I see by
+your manner that you can tell me.  If it were not for your confounded
+caution, I should have been possessed of everything long ago.’
+
+‘Our caution!’ returned the lawyer, ‘speaking for [[Self]] and
+Craggs—deceased,’ here Mr. Snitchey, glancing at his hat-band, shook his
+head, ‘how can you reasonably blame us, Mr. Warden?  It was understood
+between us that the subject was never to be renewed, and that it wasn’t a
+subject on which [[Grave|grave]] and sober men like us (I made a note of your
+observations at the [[Time|time]]) could interfere.  Our caution too!  When Mr.
+Craggs, sir, went down to his respected [[Grave|grave]] in the full belief—’
+
 ‘I had given a solemn promise of [[Silence|silence]] until I should return, whenever
 that might be,’ interrupted Mr. Warden; ‘and I have kept it.’
 
@@ -109,22 +125,3 @@ away; in whose true [[Memory|memory]] she lived, unchanging, youthful, radiant w
 all promise and all [[Hope|hope]]; in whose affection—and it was a mother’s now,
 there was a cherished little daughter playing by her side—she had no
 rival, no successor; upon whose gentle lips her name was trembling then.
-
-The spirit of the lost girl looked out of those eyes.  Those eyes of
-Grace, her sister, sitting with her husband in the orchard, on their
-wedding-day, and his and Marion’s birth-day.
-
-He had not become a great man; he had not grown rich; he had not
-forgotten the scenes and friends of his youth; he had not fulfilled any
-one of the Doctor’s old predictions.  But, in his useful, patient,
-unknown visiting of poor men’s homes; and in his watching of sick beds;
-and in his daily knowledge of the gentleness and goodness flowering the
-by-paths of this world, not to be trodden down beneath the heavy foot of
-[[Poverty|poverty]], but springing up, elastic, in its track, and making its way
-beautiful; he had better learned and proved, in each succeeding year, the
-[[Truth|truth]] of his old [[Faith|faith]].  The manner of his life, though quiet and remote,
-had shown him how often men still entertained angels, unawares, as in the
-olden [[Time|time]]; and how the most unlikely forms—even some that were mean and
-ugly to the view, and poorly clad—became irradiated by the couch of
-sorrow, want, and [[Pain|pain]], and changed to ministering spirits with a glory
-round their heads.

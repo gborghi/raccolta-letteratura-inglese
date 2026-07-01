@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 34 (part 4)"
+title: "Wuthering Heights — Chapter 34 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_34/part_03">‹ part 03</a><span></span></div>
 </nav>
 
+
+I hasped the [[Window|window]]; I combed his black long hair from his forehead; I
+tried to close his eyes: to extinguish, if possible, that frightful,
+life-like gaze of exultation before any one else beheld it. They would
+not shut: they seemed to sneer at my attempts; and his parted lips and
+sharp white teeth sneered too! Taken with another fit of cowardice, I
+cried out for Joseph. Joseph shuffled up and made a noise, but
+resolutely refused to meddle with him.
 
 “Th’ divil’s harried off his [[Soul|soul]],” he cried, “and he may hev’ his
 carcass into t’ bargin, for aught I care! Ech! what a wicked ’un he

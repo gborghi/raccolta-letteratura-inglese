@@ -1,5 +1,5 @@
 ---
-title: "The Haunted Man and the [[Ghost]]'s Bargain — Chapter 2 (part 7)"
+title: "The Haunted Man and the Ghost's Bargain — Chapter 2 (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-haunted-man-and-the-ghost's-bargain-(dickens)"
@@ -13,6 +13,34 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_02/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_02/part_08">part 08 ›</a></div>
 </nav>
 
+
+“Very little.”
+
+“You have retired and withdrawn from me, more than any of the rest, I
+think?”
+
+The student signified assent.
+
+“And why?” said the Chemist; not with the least expression of interest,
+but with a moody, wayward kind of curiosity. “Why? How comes it that
+you have sought to keep especially from me, the knowledge of your
+remaining here, at this season, when all the rest have dispersed, and of
+your being ill? I want to know why this is?”
+
+The young man, who had heard him with increasing agitation, raised his
+downcast eyes to his face, and clasping his hands together, cried with
+sudden earnestness and with trembling lips:
+
+“Mr. Redlaw! You have discovered me. You know my secret!”
+
+“Secret?” said the Chemist, harshly. “I know?”
+
+“Yes! Your manner, so different from the interest and sympathy which
+endear you to so many hearts, your altered voice, the constraint there is
+in everything you say, and in your looks,” replied the student, “warn me
+that you know me. That you would conceal it, even now, is but a proof to
+me (God knows I need none!) of your natural kindness and of the bar there
+is between us.”
 
 A vacant and contemptuous laugh, was all his answer.
 
@@ -113,42 +141,3 @@ was heard outside.
 “I can see very [[Well|well]] now,” she said, “thank you, Dolf. Don’t cry, dear.
 Father and mother will be comfortable again, to-morrow, and [[Home|home]] will be
 comfortable too. A gentleman with him, is there!”
-
-Redlaw released his hold, as he listened.
-
-“I have feared, from the first moment,” he murmured to himself, “to meet
-her. There is a steady quality of goodness in her, that I dread to
-influence. I may be the murderer of what is tenderest and best within
-her bosom.”
-
-She was knocking at the door.
-
-“Shall I dismiss it as an idle foreboding, or still avoid her?” he
-muttered, looking uneasily around.
-
-She was knocking at the door again.
-
-“Of all the visitors who could come here,” he said, in a hoarse alarmed
-voice, turning to his companion, “this is the one I should [[Desire|desire]] most to
-avoid. Hide me!”
-
-The student opened a frail door in the wall, communicating where the
-garret-roof began to slope towards the floor, with a small inner room.
-Redlaw passed in hastily, and shut it after him.
-
-The student then resumed his place upon the couch, and called to her to
-enter.
-
-“Dear Mr. [[Edmund]],” said Milly, looking round, “they told me there was a
-gentleman here.”
-
-“There is no one here but I.”
-
-“There has been some one?”
-
-“Yes, yes, there has been some one.”
-
-She put her little basket on the table, and went up to the back of the
-couch, as if to take the extended hand—but it was not there. A little
-surprised, in her quiet way, she leaned over to look at his face, and
-gently touched him on the brow.

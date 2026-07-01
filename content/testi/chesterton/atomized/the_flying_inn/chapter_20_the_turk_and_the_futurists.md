@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_19_the_hospitality_of_the_captain">‹ Chapter 19 THE HOSPITALITY OF THE CAPTAIN</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_21_the_road_to_roundabout">Chapter 21 THE ROAD TO ROUNDABOUT ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_19_the_hospitality_of_the_captain">‹ Chapter 19 THE HOSPITALITY OF THE CAPTAIN</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_21_the_road_road_to_roundabout">Chapter 21 THE Road ROAD TO ROUNDABOUT ›</a></div>
 </nav>
 
 

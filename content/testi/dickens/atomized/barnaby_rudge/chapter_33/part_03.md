@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 33 (part 3)"
+title: "Barnaby Rudge — Chapter 33 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_33/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_33/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘Tell us what’s the matter, sir,’ said John, ‘or I’ll kill you. Tell us
+what’s the matter, sir, or in another second I’ll have your head under
+the biler. How dare you look like that? Is anybody a-following of you?
+What do you mean? Say something, or I’ll be the [[Death|death]] of you, I will.’
 
 Mr Willet, in his frenzy, was so near keeping his word to the very
 letter (Solomon Daisy’s eyes already beginning to roll in an alarming
@@ -119,16 +124,3 @@ looking round him like a man who felt relieved.
 ‘What more do you mean to say, sir, is to come?’ asked John, pausing in
 the act of wiping his face upon his apron. ‘What are you a-going to tell
 us of next?’
-
-‘What I saw.’
-
-‘Saw!’ echoed all three, bending forward.
-
-‘When I opened the church-door to come out,’ said the little man, with
-an expression of face which bore ample testimony to the sincerity of
-his conviction, ‘when I opened the church-door to come out, which I did
-suddenly, for I wanted to get it shut again before another gust of [[Wind|wind]]
-came up, there crossed me--so close, that by stretching out my finger
-I could have touched it--something in the likeness of a man. It was
-bare-headed to the [[Storm|storm]]. It turned its face without stopping, and fixed
-its eyes on mine. It was a [[Ghost|ghost]]--a spirit.’

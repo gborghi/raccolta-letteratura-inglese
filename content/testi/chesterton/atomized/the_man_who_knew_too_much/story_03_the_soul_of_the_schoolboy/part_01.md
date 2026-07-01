@@ -1,5 +1,5 @@
 ---
-title: "The Man Who Knew Too Much — The [[Soul]] of the Schoolboy (part 1)"
+title: "The Man Who Knew Too Much — The Soul of the Schoolboy (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/the-man-who-knew-too-much-(chesterton)"
@@ -187,7 +187,3 @@ among the [[Crown]] jewels, or at least the [[Crown]] relics, until one of
 the royal princes publicly restored it to the shrine to which it was
 
 supposed to belong. Other causes combined to concentrate official
-
-vigilance upon it; there had been a scare about spies carrying
-
-explosives in small objects, and one of those experimental orders

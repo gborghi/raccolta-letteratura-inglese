@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 27: TOMMY TRADDLES (part 3)"
+title: "David Copperfield — Chapter 27: TOMMY TRADDLES (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -135,14 +135,3 @@ company, and with a pair of brown gloves on.
 ‘My dear,’ said Mr. Micawber, leading her towards me, ‘here is
 a gentleman of the name of Copperfield, who wishes to renew his
 acquaintance with you.’
-
-It would have been better, as it turned out, to have led gently up
-to this announcement, for Mrs. Micawber, being in a delicate state of
-health, was overcome by it, and was taken so unwell, that Mr. Micawber
-was obliged, in great trepidation, to run down to the [[Water|water]]-butt in
-the backyard, and draw a basinful to lave her brow with. She
-presently revived, however, and was really pleased to see me. We had
-half-an-hour’s talk, all together; and I asked her about the twins,
-who, she said, were ‘grown great creatures’; and after Master and Miss
-Micawber, whom she described as ‘absolute giants’, but they were not
-produced on that occasion.

@@ -43,7 +43,7 @@ of Mahomet.  For when the Persians who had destroyed Jerusalem rode
 out in triumph to the village of Bethlehem, they looked up and saw
 above the door a picture in coloured stone, a picture of themselves.
 They were following a strange star and worshipping an unknown [[Child|child]].
-For a Christian [[artist]], following some ancient Eastern tradition
+For a Christian [[Artist|artist]], following some ancient Eastern tradition
 containing an eternal [[Truth|truth]], had drawn the three wise men with
 the long robes and high head-dresses of Persia.  The worshippers
 of the sun had come westward for the worship of the star.

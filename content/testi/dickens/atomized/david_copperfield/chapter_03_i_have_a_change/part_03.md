@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 3: I HAVE A CHANGE (part 3)"
+title: "David Copperfield — Chapter 3: I HAVE A CHANGE (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"

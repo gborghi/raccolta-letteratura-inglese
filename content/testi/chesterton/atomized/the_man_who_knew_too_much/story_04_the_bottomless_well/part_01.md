@@ -1,5 +1,5 @@
 ---
-title: "The Man Who Knew Too Much — The Bottomless [[Well]] (part 1)"
+title: "The Man Who Knew Too Much — The Bottomless Well (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/the-man-who-knew-too-much-(chesterton)"
@@ -190,7 +190,3 @@ about that [[Well|well]]?"
 
 rather stiffly.
 "That's rather a mistake," replied Fisher, "especially from your
-
-point of view. Lord [[Hastings]] himself is an Arab legend. That is
-
-perhaps the very greatest thing he really is. If his reputation went

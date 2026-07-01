@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 14 (part 2)"
+title: "Bleak House — Chapter 14 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_14/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_14/part_03">part 03 ›</a></div>
 </nav>
 
+
+“Thank you,” said my guardian. “I am much obliged to Mrs. Jellyby.
+Oh, dear me! This is a very trying [[Wind|wind]]!”
 
 We were busy with Peepy, taking off his clerical hat, asking him if
 he remembered us, and so on. Peepy retired behind his elbow at first,
@@ -134,12 +137,3 @@ to the piano, we put him on a chair to look out of [[Window|window]]; and Miss
 Jellyby, holding him by one leg, resumed her confidence.
 
 “It began in your coming to our [[house]],” she said.
-
-We naturally asked how.
-
-“I felt I was so awkward,” she replied, “that I made up my mind to be
-improved in that respect at all events and to learn to [[Dance|dance]]. I told
-Ma I was ashamed of myself, and I must be taught to [[Dance|dance]]. Ma looked
-at me in that provoking way of hers as if I wasn’t in sight, but I
-was quite determined to be taught to [[Dance|dance]], and so I went to Mr.
-Turveydrop’s Academy in Newman Street.”

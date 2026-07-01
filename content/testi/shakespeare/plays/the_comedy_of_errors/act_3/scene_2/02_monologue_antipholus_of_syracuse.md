@@ -1,5 +1,5 @@
 ---
-title: "The [[Comedy]] of Errors — Act III, Scene 2 — monologue ([[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]]) [2]"
+title: "The Comedy of Errors — Act III, Scene 2 — monologue (ANTIPHOLUS OF SYRACUSE) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-comedy-of-errors-(shakespeare)"

@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 6 (part 4)"
+title: "Nicholas Nickleby — Chapter 6 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -16,7 +16,7 @@ tags:
 
 ‘The holy man, who had often urged the same point before, but had never
 met with so direct a repulse, walked some little distance behind, with
-his eyes bent upon the earth, and his lips moving AS IF in [[Prayer|prayer]]. As
+his eyes bent upon the earth, and his lips moving AS IF in [[prayer]]. As
 the sisters reached the porch, he quickened his pace, and called upon
 them to stop.
 
@@ -122,5 +122,3 @@ breath when first he saw thee intent upon this pastime, lies buried on
 a plain whereof the turf is red with [[Blood|blood]]. Rusty fragments of armour,
 once brightly burnished, lie rotting on the ground, and are as little
 distinguishable for his, as are the bones that crumble in the mould!”
-
-‘The lady groaned, and wrung her hands.

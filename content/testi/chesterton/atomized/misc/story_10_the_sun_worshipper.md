@@ -1,5 +1,5 @@
 ---
-title: "[[misc]] — THE SUN WORSHIPPER"
+title: "misc — THE SUN WORSHIPPER"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 THE SUN WORSHIPPER
-
 
 There is a shrewd warning to be given to all people who are in revolt.
 And in the present state of things, I think all men are revolting

@@ -14,6 +14,10 @@ tags:
 </nav>
 
 
+      star and [[Double|double]]-headed shot of the large guns cut seven or eight
+
+      of the rafts completely asunder, and killed, perhaps, thirty or
+
       forty of the savages outright, while a hundred of them, at least,
 
       were thrown into the [[Water|water]], the most of them dreadfully wounded.
@@ -78,11 +82,11 @@ tags:
 
       reconnoitre the [[Hill|hill]] in the vicinity of the chasm. At about fifty
 
-      yards from the mouth of it we saw a small [[Spring|spring]] of [[Water|water]], at
+      yards from the mouth of it we saw a small [[spring]] of [[Water|water]], at
 
       which we slaked the burning thirst that now consumed us. Not far
 
-      from the [[Spring|spring]] we discovered several of the filbert-bushes which
+      from the [[spring]] we discovered several of the filbert-bushes which
 
       I mentioned before. Upon tasting the nuts we found them
 
@@ -189,11 +193,3 @@ tags:
       forecastle. The rigging, masts and what remained of the sails
 
       caught immediately, and the [[Fire|fire]] spread rapidly along the decks.
-
-      Still a great many of the savages retained their stations about
-
-      her, hammering with large stones, axes, and cannon balls at the
-
-      bolts and other iron and copper work. On the beach, and in canoes
-
-      and rafts, there were not less, altogether, in the immediate

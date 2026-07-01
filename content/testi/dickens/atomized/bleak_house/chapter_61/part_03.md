@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 61 (part 3)"
+title: "Bleak House — Chapter 61 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -124,8 +124,3 @@ always hoped, in the first hour when I seemed to stand in any ray of
 good fortune, to tell you this. I have always feared that I should
 tell it you in vain. My hopes and fears are both fulfilled to-[[Night|night]].
 I distress you. I have said enough.”
-
-Something seemed to pass into my place that was like the angel he
-thought me, and I felt so sorrowful for the loss he had sustained! I
-wished to help him in his trouble, as I had wished to do when he
-showed that first commiseration for me.

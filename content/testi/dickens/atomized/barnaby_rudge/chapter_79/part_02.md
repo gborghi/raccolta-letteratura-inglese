@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 79 (part 2)"
+title: "Barnaby Rudge — Chapter 79 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_79/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_79/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘You speak too fondly,’ he answered, ‘and yet I cannot wish you were
+less partial; for I have a pleasure in hearing those words, and shall
+have in calling them to mind when we are far asunder, which nothing else
+could give me. Bear with me for a moment longer, Edward, for she and I
+have been together many years; and although I believe that in resigning
+her to you I put the seal upon her future happiness, I find it needs an
+effort.’
 
 He pressed her tenderly to his bosom, and after a minute’s pause,
 resumed:
@@ -118,18 +126,3 @@ Though he was really in a fair way to be torn to pieces in the general
 enthusiasm, the locksmith, nothing discomposed, echoed their shouts till
 he was as hoarse as they, and in a glow of joy and right good-[[Humour|humour]],
 waved his hat until the daylight shone between its brim and [[Crown|crown]].
-
-But in all the bandyings from hand to hand, and strivings to and fro,
-and sweepings here and there, which--saving that he looked more jolly
-and more radiant after every struggle--troubled his peace of mind no
-more than if he had been a straw upon the [[Water|water]]’s surface, he never once
-released his firm grasp of an arm, drawn tight through his. He sometimes
-turned to clap this friend upon the back, or whisper in his ear a word
-of staunch encouragement, or cheer him with a smile; but his great care
-was to shield him from the pressure, and force a passage for him to the
-Golden Key. Passive and timid, scared, pale, and wondering, and gazing
-at the throng as if he were newly risen from the dead, and felt himself
-a [[Ghost|ghost]] among the living, Barnaby--not Barnaby in the spirit, but in
-flesh and [[Blood|blood]], with pulses, sinews, nerves, and beating heart, and
-strong affections--clung to his stout old friend, and followed where he
-led.

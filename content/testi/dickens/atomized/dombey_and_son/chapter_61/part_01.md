@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 5 (part 1)"
+title: "Dombey and Son — Chapter 33 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -10,127 +10,118 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/dombey-and-son-(dickens)">Dombey and Son</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_60/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_61/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_60/part_07">‹ part 07</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_61/part_02">part 02 ›</a></div>
 </nav>
 
 
-CHAPTER V.
-Paul’s Progress and Christening
+CHAPTER XXXIII.
+Contrasts
 
 
-Little Paul, [[Suffering|suffering]] no contamination from the [[Blood|blood]] of the Toodles,
-grew stouter and stronger every day. Every day, too, he was more and
-more ardently cherished by Miss Tox, whose devotion was so far
-appreciated by Mr Dombey that he began to regard her as a woman of
-great natural good sense, whose feelings did her credit and deserved
-encouragement. He was so lavish of this condescension, that he not only
-bowed to her, in a particular manner, on several occasions, but even
-entrusted such stately recognitions of her to his sister as “pray tell
-your friend, Louisa, that she is very good,” or “mention to Miss Tox,
-Louisa, that I am obliged to her;” specialities which made a deep
-impression on the lady thus distinguished.
+Turn we our eyes upon two homes; not lying side by side, but wide
+apart, though both within easy range and reach of the great [[City|city]] of
+[[London]].
 
-Whether Miss Tox conceived that having been selected by the Fates to
-welcome the little Dombey before he was born, in Kirby, Beard and
-Kirby’s Best Mixed Pins, it therefore naturally devolved upon her to
-greet him with all other forms of welcome in all other early stages of
-his existence—or whether her overflowing goodness induced her to
-volunteer into the domestic militia as a substitute in some sort for
-his deceased Mama—or whether she was conscious of any other motives—are
-questions which in this stage of the Firm’s [[history]] herself only could
-have solved. Nor have they much bearing on the fact (of which there is
-no [[Doubt|doubt]]), that Miss Tox’s constancy and zeal were a heavy
-discouragement to Richards, who lost flesh hourly under her patronage,
-and was in some danger of being superintended to [[Death|death]].
+The first is situated in the green and wooded country near Norwood. It
+is not a mansion; it is of no pretensions as to size; but it is
+beautifully arranged, and tastefully kept. The lawn, the soft, smooth
+slope, the flower-[[Garden|garden]], the clumps of trees where graceful forms of
+ash and willow are not wanting, the conservatory, the rustic verandah
+with sweet-smelling creeping plants entwined about the pillars, the
+simple exterior of the [[house]], the [[Well|well]]-ordered offices, though all upon
+the diminutive scale proper to a mere cottage, bespeak an amount of
+elegant comfort within, that might serve for a palace. This indication
+is not without warrant; for, within, it is a [[house]] of refinement and
+luxury. Rich colours, excellently blended, meet the eye at every turn;
+in the furniture—its proportions admirably devised to suit the shapes
+and sizes of the small rooms; on the walls; upon the floors; tingeing
+and subduing the light that comes in through the odd glass doors and
+windows here and there. There are a few choice prints and pictures too;
+in quaint nooks and recesses there is no want of books; and there are
+games of skill and chance set forth on tables—fantastic chessmen, dice,
+backgammon, cards, and billiards.
 
-Miss Tox was often in the habit of assuring Mrs Chick, that nothing
-could exceed her interest in all connected with the development of that
-sweet [[Child|child]]; and an observer of Miss Tox’s proceedings might have
-inferred so much without declaratory confirmation. She would preside
-over the [[Innocent|innocent]] repasts of the young heir, with ineffable
-satisfaction, almost with an air of joint proprietorship with Richards
-in the entertainment. At the little ceremonies of the bath and
-toilette, she assisted with enthusiasm. The administration of infantine
-doses of physic awakened all the active sympathy of her character; and
-being on one occasion secreted in a cupboard (whither she had fled in
-modesty), when Mr Dombey was introduced into the nursery by his sister,
-to behold his son, in the course of preparation for bed, taking a short
-walk uphill over Richards’s gown, in a short and airy linen jacket,
-Miss Tox was so transported beyond the ignorant present as to be unable
-to refrain from crying out, “Is he not beautiful Mr Dombey! Is he not a
-Cupid, Sir!” and then almost sinking behind the closet door with
-confusion and blushes.
+And yet amidst this opulence of comfort, there is something in the
+general air that is not [[Well|well]]. Is it that the carpets and the cushions
+are too soft and noiseless, so that those who move or repose among them
+seem to act by stealth? Is it that the prints and pictures do not
+commemorate great thoughts or deeds, or render [[Nature|nature]] in the Poetry of
+landscape, hall, or hut, but are of one voluptuous cast—mere shows of
+form and colour—and no more? Is it that the books have all their gold
+outside, and that the titles of the greater part qualify them to be
+companions of the prints and pictures? Is it that the completeness and
+the [[Beauty|beauty]] of the place are here and there belied by an affectation of
+[[Humility|humility]], in some unimportant and inexpensive regard, which is as false
+as the face of the too truly painted portrait hanging yonder, or its
+original at breakfast in his easy chair below it? Or is it that, with
+the daily breath of that original and master of all here, there issues
+forth some subtle portion of himself, which gives a vague expression of
+himself to everything about him?
 
-“Louisa,” said Mr Dombey, one day, to his sister, “I really think I
-must present your friend with some little token, on the occasion of
-Paul’s christening. She has exerted herself so warmly in the [[Child|child]]’s
-behalf from the first, and seems to understand her position so
-thoroughly (a very rare merit in this world, I am sorry to say), that
-it would really be agreeable to me to notice her.”
+It is Mr Carker the Manager who sits in the easy chair. A gaudy parrot
+in a burnished cage upon the table [[Tears|tears]] at the wires with her beak,
+and goes walking, upside down, in its dome-top, shaking her [[house]] and
+screeching; but Mr Carker is indifferent to the bird, and looks with a
+musing smile at a picture on the opposite wall.
 
-Let it be no detraction from the merits of Miss Tox, to hint that in Mr
-Dombey’s eyes, as in some others that occasionally see the light, they
-only achieved that mighty piece of knowledge, the understanding of
-their own position, who showed a fitting reverence for his. It was not
-so much their merit that they knew themselves, as that they knew him,
-and bowed low before him.
+“A most extraordinary accidental likeness, certainly,” says he.
 
-“My dear Paul,” returned his sister, “you do Miss Tox but justice, as a
-man of your penetration was sure, I knew, to do. I believe if there are
-three words in the English language for which she has a respect
-amounting almost to veneration, those words are, Dombey and Son.”
+Perhaps it is a Juno; perhaps a Potiphar’s Wife”; perhaps some scornful
+Nymph—according as the Picture Dealers found the market, when they
+christened it. It is the figure of a woman, supremely handsome, who,
+turning away, but with her face addressed to the spectator, flashes her
+proud glance upon him.
 
-“[[Well]],” said Mr Dombey, “I believe it. It does Miss Tox credit.”
+It is like Edith.
 
-“And as to anything in the shape of a token, my dear Paul,” pursued his
-sister, “all I can say is that anything you give Miss Tox will be
-hoarded and prized, I am sure, like a relic. But there is a way, my
-dear Paul, of showing your sense of Miss Tox’s friendliness in a still
-more flattering and acceptable manner, if you should be so inclined.”
+With a passing gesture of his hand at the picture—what! a menace? No;
+yet something like it. A wave as of triumph? No; yet more like that. An
+insolent salute wafted from his lips? No; yet like that too—he resumes
+his breakfast, and calls to the chafing and imprisoned bird, who coming
+down into a pendant gilded hoop within the cage, like a great
+wedding-ring, swings in it, for his delight.
 
-“How is that?” asked Mr Dombey.
+The second [[Home|home]] is on the other side of [[London]], near to where the busy
+great north [[Road|road]] of bygone days is silent and almost deserted, except
+by wayfarers who toil along on foot. It is a poor small [[house]], barely
+and sparely furnished, but very clean; and there is even an attempt to
+decorate it, shown in the homely [[Flowers|flowers]] trained about the porch and in
+the narrow [[Garden|garden]]. The neighbourhood in which it stands has as little
+of the country to recommend it, as it has of the town. It is neither of
+the town nor country. The former, like the giant in his travelling
+boots, has made a stride and passed it, and has set his
+brick-and-mortar heel a long way in advance; but the intermediate space
+between the giant’s feet, as yet, is only blighted country, and not
+town; and, here, among a few tall chimneys belching smoke all day and
+[[Night|night]], and among the brick-fields and the lanes where turf is cut, and
+where the fences tumble down, and where the dusty nettles grow, and
+where a scrap or two of hedge may yet be seen, and where the
+bird-catcher still comes occasionally, though he swears every [[Time|time]] to
+come no more—this second [[Home|home]] is to be found.”
 
-“Godfathers, of course,” continued Mrs Chick, “are important in point
-of connexion and influence.”
+She who inhabits it, is she who left the first in her devotion to an
+outcast brother. She withdrew from that [[Home|home]] its redeeming spirit, and
+from its master’s breast his solitary angel: but though his liking for
+her is gone, after this ungrateful slight as he considers it; and
+though he abandons her altogether in return, an old idea of her is not
+quite forgotten even by him. Let her flower-[[Garden|garden]], in which he never
+sets his foot, but which is yet maintained, among all his costly
+alterations, as if she had quitted it but yesterday, bear witness!
 
-“I don’t know why they should be, to my son,” said Mr Dombey, coldly.
+Harriet Carker has changed since then, and on her [[Beauty|beauty]] there has
+fallen a heavier shade than [[Time]] of his unassisted [[Self|self]] can cast,
+all-potent as he is—the [[Shadow|shadow]] of anxiety and sorrow, and the daily
+struggle of a poor existence. But it is [[Beauty|beauty]] still; and still a
+gentle, quiet, and retiring [[Beauty|beauty]] that must be sought out, for it
+cannot vaunt itself; if it could, it would be what it is, no more.
 
-“Very true, my dear Paul,” retorted Mrs Chick, with an extraordinary
-show of animation, to cover the suddenness of her [[conversion]]; “and
-spoken like yourself. I might have expected nothing else from you. I
-might have known that such would have been your opinion. Perhaps;” here
-Mrs Chick faltered again, as not quite comfortably feeling her way;
-“perhaps that is a reason why you might have the less objection to
-allowing Miss Tox to be godmother to the dear thing, if it were only as
-deputy and proxy for someone else. That it would be received as a great
-[[Honour|honour]] and distinction, Paul, I need not say.”
-
-“Louisa,” said Mr Dombey, after a short pause, “it is not to be
-supposed—”
-
-“Certainly not,” cried Mrs Chick, hastening to anticipate a refusal, “I
-never thought it was.”
-
-Mr Dombey looked at her impatiently.
-
-“Don’t flurry me, my dear Paul,” said his sister; “for that destroys
-me. I am far from strong. I have not been quite myself, since poor dear
-Fanny departed.”
-
-Mr Dombey glanced at the pocket-handkerchief which his sister applied
-to her eyes, and resumed:
-
-“It is not be supposed, I say—”
-
-“And I say,” murmured Mrs Chick, “that I never thought it was.”
-
-“Good Heaven, Louisa!” said Mr Dombey.
-
-“No, my dear Paul,” she remonstrated with tearful dignity, “I must
-really be allowed to speak. I am not so clever, or so reasoning, or so
-eloquent, or so anything, as you are. I know that very [[Well|well]]. So much
-the worse for me. But if they were the last words I had to utter—and
-last words should be very solemn to you and me, Paul, after poor dear
-Fanny—I would still say I never thought it was. And what is more,”
-added Mrs Chick with increased dignity, as if she had withheld her
-crushing argument until now, “I never did think it was.”
+Yes. This slight, small, patient figure, neatly dressed in homely
+stuffs, and indicating nothing but the dull, household virtues, that
+have so little in common with the received idea of [[Heroism|heroism]] and
+[[Greatness|greatness]], unless, indeed, any ray of them should shine through the
+lives of the great ones of the earth, when it becomes a constellation
+and is tracked in Heaven straightway—this slight, small, patient
+figure, leaning on the man still young but worn and grey, is she, his
+sister, who, of all the world, went over to him in his shame and put
+her hand in his, and with a sweet composure and determination, led him
+hopefully upon his barren way.

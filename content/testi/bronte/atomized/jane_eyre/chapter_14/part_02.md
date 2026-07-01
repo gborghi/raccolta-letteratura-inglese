@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 14 (part 2)"
+title: "Jane Eyre — Chapter 14 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_14/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_14/part_03">part 03 ›</a></div>
 </nav>
 
+
+He had been looking two minutes at the [[Fire|fire]], and I had been looking the
+same length of [[Time|time]] at him, when, turning suddenly, he caught my gaze
+fastened on his physiognomy.
 
 “You examine me, Miss Eyre,” said he: “do you think me handsome?”
 

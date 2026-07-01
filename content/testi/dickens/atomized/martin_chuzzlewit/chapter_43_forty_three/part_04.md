@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 43: FORTY THREE (part 4)"
+title: "Martin Chuzzlewit — Chapter 43: FORTY THREE (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,38 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_43_forty_three/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_43_forty_three/part_05">part 05 ›</a></div>
 </nav>
 
+
+‘That’s all very true, and perfectly correct, Mark; and if it were a
+mere question of humbling myself before HIM, I would not consider it
+twice. But don’t you see, that being wholly under this hypocrite’s
+[[government]], and having (if what we hear be true) no mind or will of his
+own, I throw myself, in fact, not at his feet, but at the feet of
+Mr Pecksniff? And when I am rejected and spurned away,’ said Martin,
+turning crimson at the thought, ‘it is not by him; my own [[Blood|blood]] stirred
+against me; but by Pecksniff--Pecksniff, Mark!’
+
+‘[[Well]], but we know beforehand,’ returned the politic Mr Tapley, ‘that
+Pecksniff is a wagabond, a scoundrel, and a willain.’
+
+‘A most pernicious [[Villain|villain]]!’ said Martin.
+
+‘A most pernicious willain. We know that beforehand, sir; and,
+consequently, it’s no shame to be defeated by Pecksniff. Blow
+Pecksniff!’ cried Mr Tapley, in the fervour of his eloquence. ‘Who’s he!
+It’s not in the natur of Pecksniff to shame US, unless he agreed with
+us, or done us a service; and, in case he offered any audacity of that
+description, we could express our sentiments in the English language,
+I [[Hope|hope]]. Pecksniff!’ repeated Mr Tapley, with ineffable disdain. ‘What’s
+Pecksniff, who’s Pecksniff, where’s Pecksniff, that he’s to be so much
+considered? We’re not a-calculating for ourselves;’ he laid uncommon
+emphasis on the last syllable of that word, and looked full in Martin’s
+face; ‘we’re making a effort for a young lady likewise as has undergone
+her share; and whatever little [[Hope|hope]] we have, this here Pecksniff is not
+to stand in its way, I expect. I never heard of any act of Parliament,
+as was made by Pecksniff. Pecksniff! Why, I wouldn’t see the man myself;
+I wouldn’t hear him; I wouldn’t choose to know he was in company. I’d
+scrape my shoes on the scraper of the door, and call that Pecksniff, if
+you liked; but I wouldn’t condescend no further.’
 
 The amazement of Mrs Lupin, and indeed of Mr Tapley himself for that
 matter, at this impassioned flow of language, was immense. But Martin,
@@ -103,40 +135,3 @@ by his faithful ally) opened the door of that parlour in which he knew
 a visitor was most likely to be found; passed at once into the room; and
 stood, without a word of notice or announcement, in the presence of his
 grandfather.
-
-Mr Pecksniff also was in the room; and Mary. In the swift instant of
-their mutual recognition, Martin saw the old man droop his grey head,
-and hide his face in his hands.
-
-It smote him to the heart. In his most selfish and most careless day,
-this lingering remnant of the old man’s ancient [[Love|love]], this buttress of a
-ruined tower he had built up in the [[Time|time]] gone by, with so much [[Pride|pride]] and
-[[Hope|hope]], would have caused a pang in Martin’s heart. But now, changed for
-the better in his worst respect; looking through an altered medium on
-his former friend, the guardian of his [[Childhood|childhood]], so broken and bowed
-down; resentment, sullenness, [[Self|self]]-confidence, and [[Pride|pride]], were all swept
-away, before the starting [[Tears|tears]] upon the withered cheeks. He could not
-bear to see them. He could not bear to think they fell at sight of
-him. He could not bear to view reflected in them, the reproachful and
-irrevocable Past.
-
-He hurriedly advanced to seize the old man’s hand in his, when Mr
-Pecksniff interposed himself between them.
-
-‘No, young man!’ said Mr Pecksniff, striking himself upon the breast,
-and stretching out his other arm towards his guest as if it were a wing
-to shelter him. ‘No, sir. None of that. Strike here, sir, here! Launch
-your arrows at me, sir, if you’ll have the goodness; not at Him!’
-
-‘Grandfather!’ cried Martin. ‘Hear me! I implore you, let me speak!’
-
-‘Would you, sir? Would you?’ said Mr Pecksniff, dodging about, so as to
-keep himself always between them. ‘Is it not enough, sir, that you come
-into my [[house]] like a thief in the [[Night|night]], or I should rather say, for we
-can never be too particular on the subject of [[Truth]], like a thief in
-the day-[[Time|time]]; bringing your dissolute companions with you, to plant
-themselves with their backs against the insides of parlour doors, and
-prevent the entrance or issuing forth of any of my household’--Mark had
-taken up this position, and held it quite unmoved--‘but would you also
-strike at venerable Virtue? Would you? Know that it is not defenceless.
-I will be its shield, young man. Assail me. Come on, sir. [[Fire]] away!’

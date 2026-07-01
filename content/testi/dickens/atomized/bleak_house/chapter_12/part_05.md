@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 12 (part 5)"
+title: "Bleak House — Chapter 12 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,50 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_12/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_13/part_01">part 01 ›</a></div>
 </nav>
 
+
+“How do you do, Mr. Tulkinghorn?” says Sir Leicester, giving him his
+hand.
+
+Mr. Tulkinghorn is quite [[Well|well]]. Sir Leicester is quite [[Well|well]]. My Lady
+is quite [[Well|well]]. All highly satisfactory. The lawyer, with his hands
+behind him, walks at Sir Leicester’s side along the terrace. My Lady
+walks upon the other side.
+
+“We expected you before,” says Sir Leicester. A gracious observation.
+As much as to say, “Mr. Tulkinghorn, we remember your existence when
+you are not here to remind us of it by your presence. We bestow a
+[[Fragment|fragment]] of our minds upon you, sir, you see!”
+
+Mr. Tulkinghorn, comprehending it, inclines his head and says he is
+much obliged.
+
+“I should have come down sooner,” he explains, “but that I have been
+much engaged with those matters in the several suits between yourself
+and Boythorn.”
+
+“A man of a very ill-regulated mind,” observes Sir Leicester with
+severity. “An extremely dangerous person in any community. A man of a
+very low character of mind.”
+
+“He is obstinate,” says Mr. Tulkinghorn.
+
+“It is natural to such a man to be so,” says Sir Leicester, looking
+most profoundly obstinate himself. “I am not at all surprised to hear
+it.”
+
+“The only question is,” pursues the lawyer, “whether you will give up
+anything.”
+
+“No, sir,” replies Sir Leicester. “Nothing. I give up?”
+
+“I don’t mean anything of importance. That, of course, I know you
+would not abandon. I mean any minor point.”
+
+“Mr. Tulkinghorn,” returns Sir Leicester, “there can be no minor
+point between myself and Mr. Boythorn. If I go farther, and observe
+that I cannot readily conceive how ANY right of mine can be a minor
+point, I speak not so much in reference to myself as an individual as
+in reference to the family position I have it in charge to maintain.”
 
 Mr. Tulkinghorn inclines his head again. “I have now my
 instructions,” he says. “Mr. Boythorn will give us a good deal of

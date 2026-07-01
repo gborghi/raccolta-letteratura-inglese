@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 31: A GREATER LOSS"
+title: "David Copperfield — Chapter 31: A GREATER LOSS"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/david-copperfield-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_30_a_loss">‹ Chapter 30 A LOSS</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_32_the_beginning_of_a_long_journe">Chapter 32 THE BEGINNING OF A LONG JOURNE ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_30_a_loss">‹ Chapter 30 A LOSS</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_32_the_beginning_of_a_long_journe">Chapter 32 THE BEGINNING OF A LONG Journe ›</a></div>
 </nav>
 
 

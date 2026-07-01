@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 15 (part 2)"
+title: "Shirley — Chapter 15 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -14,7 +14,15 @@ tags:
 </nav>
 
 
-coward. The [[spring]] of the dog had taken him by surprise, but he passed
+whole structure creak again.
+
+
+
+Tartar seemed to think the visitor's descent effected with unwarranted
+
+_éclat_, and accordingly he growled once more. Malone, however, was no
+
+coward. The [[Spring|spring]] of the dog had taken him by surprise, but he passed
 
 him now in suppressed fury rather than [[Fear|fear]]. If a look could have
 
@@ -193,25 +201,3 @@ fond of that brute--'tis so ugly--a mere carter's dog. Pray hang him."
 
 
 "And purchase in his stead some sweetly pooty pug or poodle--something
-
-appropriate to the fair sex. Ladies generally like lap-[[dogs]]."
-
-
-
-"Perhaps I am an exception."
-
-
-
-"Oh, you can't be, you know. All ladies are alike in those matters. That
-
-is universally allowed."
-
-
-
-"Tartar frightened you terribly, Mr. Donne. I [[Hope|hope]] you won't take any
-
-harm."
-
-
-
-"That I shall, no [[Doubt|doubt]]. He gave me a turn I shall not soon forget. When

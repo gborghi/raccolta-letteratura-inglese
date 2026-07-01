@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 28 (part 6)"
+title: "Shirley — Chapter 28 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,50 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_28/part_05">‹ part 05</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_28/part_07">part 07 ›</a></div>
 </nav>
 
+
+"Because it is not worth sharing."
+
+
+
+"Because nobody can give the high price you require for your confidence.
+
+Nobody is rich enough to purchase it. Nobody has the [[Honour|honour]], the
+
+intellect, the power you demand in your adviser. There is not a shoulder
+
+in England on which you would rest your hand for support, far less a
+
+bosom which you would permit to pillow your head. Of course you must
+
+live [[Alone|alone]]."
+
+
+
+"I _can_ live [[Alone|alone]], if need be. But the question is not how to live,
+
+but how to die [[Alone|alone]]. That strikes me in a more grisly light."
+
+
+
+"You apprehend the effects of the virus? You anticipate an indefinitely
+
+threatening, dreadful doom?"
+
+
+
+She bowed.
+
+
+
+"You are very nervous and womanish."
+
+
+
+"You complimented me two minutes since on my powerful mind."
+
+
+
+"You are very womanish. If the whole affair were coolly examined and
 
 discussed, I feel assured it would turn out that there is no danger of
 
@@ -287,87 +331,3 @@ Still leaning on the back of Miss Keeldar's chair, Moore watched the
 rapid motion of her fingers, as the green and purple garland grew
 
 beneath them. After a prolonged pause, he again asked, "Is the [[Shadow|shadow]]
-
-_quite_ gone?"
-
-
-
-"Wholly. As I _was_ two hours since, and as I _am_ now, are two
-
-different states of existence. I believe, Mr. Moore, griefs and fears
-
-nursed in [[Silence|silence]] grow like Titan infants."
-
-
-
-"You will cherish such feelings no more in [[Silence|silence]]?"
-
-
-
-"Not if I dare speak."
-
-
-
-"In using the word '_dare_,' to whom do you allude?"
-
-
-
-"To you."
-
-
-
-"How is it applicable to me?"
-
-
-
-"On account of your austerity and shyness."
-
-
-
-"Why am I austere and shy?"
-
-
-
-"Because you are proud."
-
-
-
-"Why am I proud?"
-
-
-
-"I should like to know. Will you be good enough to tell me?"
-
-
-
-"Perhaps, because I am poor, for one reason. [[Poverty]] and [[Pride|pride]] often go
-
-together."
-
-
-
-"That is such a nice reason. I should be charmed to discover another
-
-that would pair with it. Mate that turtle, Mr. Moore."
-
-
-
-"Immediately. What do you think of marrying to sober [[Poverty]] many-tinted
-
-Caprice?"
-
-
-
-"Are you capricious?"
-
-
-
-"_You_ are."
-
-
-
-"A libel. I am steady as a rock, fixed as the polar star."
-
-
-
-"I look out at some early hour of the day, and see a fine, perfect

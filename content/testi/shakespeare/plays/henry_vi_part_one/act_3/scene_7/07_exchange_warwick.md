@@ -1,5 +1,5 @@
 ---
-title: "[[Henry VI]] Part One — Act III, Scene 7 — exchange (WARWICK) [7]"
+title: "Henry VI Part One — Act III, Scene 7 — exchange (WARWICK) [7]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/henry-vi-part-one-(shakespeare)"

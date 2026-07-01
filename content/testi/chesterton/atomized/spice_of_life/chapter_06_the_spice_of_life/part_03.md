@@ -14,6 +14,33 @@ tags:
 </nav>
 
 
+But there were many cases, even among more terrestrial and commonplace
+metaphors, where the material metaphor photographed itself on my fancy.
+One of them was the phrase about a man "Losing his heart."
+A man, considered as a material envelope, seemed so securely done up
+that how the heart could get out of the [[Body|body]] was a problem analogous
+to that of how the apple could get into the dumpling.  Perhaps, I mused,
+the phrase about a man having his heart in his mouth might throw
+some light on the somewhat revolting phrase, which spoke of a man
+with his heart in his boots; where there was clearly no thoroughfare.
+From this my childish taste turned with a certain relief to the easier
+and more popular picture of a man losing his head; which seemed
+the sort of thing that might happen to anybody.  Indeed, by this
+dream of symbolic decapitation I was much haunted in infancy
+and am not infrequently inspired and comforted even to this day.
+Whatever other metaphors may mean, this metaphor of the lost head has
+some primary and poetic meaning; and I have written many bad [[Poems|poems]],
+bad fairy tales, and bad apologues in my industrious attempt
+to find it out and declare it.  The connection between the animal
+and intellectual meaning of it became close and even confused.
+I vaguely thought of Charles I as having lost his head equally
+in both senses; which is not perhaps wholly untrue.  When I read
+of the miracle of St. Dennis, who carried his head in his hand,
+it seemed to me quite a soothing and graceful proceeding, like a
+gentleman carrying his hat in his hand.  St. Dennis did not lose
+his head anyhow; he carried it in his hand so as not to lose it;
+as ladies do their ridiculous handbags.
+
 Indeed, this drifting and dancing dream of decapitation, in which
 kings and saints figured with gothic fantasticality, had a kind
 of [[Allegory|allegory]] in the core of it.  The separation of [[Body|body]] and head is
@@ -42,7 +69,6 @@ This man is the heretic; and in this way all the heresies were made.
 The anarchist goes off his head and the sophist goes off his [[Body|body]];
 I will not renew the old dispute about which is the worse amputation;
 but I should recommend the prudent reader to avoid both.
-
 
 THE SPICE OF LIFE**
 
@@ -99,7 +125,7 @@ Fortunately, if I was a champion of skittles, there was never any
 danger of my being a champion at skittles.  But I have played ordinary
 games like skittles, always badly; but all healthy people will agree
 that you never enjoy a game till you enjoy being beaten at the game.
-I have even played golf in Scotland before [[arthur|Arthur]] Balfour brought
+I have even played golf in Scotland before [[Arthur]] Balfour brought
 it to England and it became a fashion and then a religion.
 I have been since inhibited by a difficulty in regarding a game
 as a religion, and the horrid secret of my failure is that I

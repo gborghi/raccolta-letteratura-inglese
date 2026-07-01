@@ -14,6 +14,23 @@ tags:
 </nav>
 
 
+Two other characteristic passages from Mr. Mencken will serve to show
+more sharply this curious sense in which he misses his own point.
+On the one hand, he appears to state most positively the purely
+personal and subjective [[Nature|nature]] of criticism; he makes it individual
+and almost irresponsible.  "The critic is first and last simply
+trying to express himself; he is trying to achieve thereby for
+his own inner ego the grateful feeling of a function performed,
+a tension relieved, a katharsis attained, which Wagner achieved when
+he wrote DIE WALKURIE, and a hen achieves every [[Time|time]] she lays an egg."
+That is all consistent enough as far as it goes; but unfortunately
+Mr. Mencken appears to go on to something quite inconsistent with it.
+According to the quotation, he afterwards bursts into a [[Song|song]]
+of triumph because there is now in [[america|America]] not only criticism,
+but controversy.  "To-day for the first [[Time|time]] in years there is strife
+in American criticism... ears are bitten off, noses are bloodied.
+There are wallops both above and below the belt."
+
 Now, there may be something in his case for controversy; but it
 is quite inconsistent with his case for creative [[Self|self]]-expression.
 If the critic produces the criticism ONLY to please himself;
@@ -87,7 +104,7 @@ and while I believe we are both heavy men, I [[Doubt|doubt]] not that he is
 the more formidable.  The very possibility of our being reduced
 to this inarticulate explanation may possibly throw some light
 on Mr. Mencken's remarkable description of the new literary life
-in [[America]].  "Ears are bitten off," he says; and this curious
+in [[america|America]].  "Ears are bitten off," he says; and this curious
 form of cultural intercourse might really be the only solution,
 when ears are no longer organs of hearing and there are no organs
 except organs of [[Self|self]]-expression. He that hath ears to hear and will
@@ -103,25 +120,3 @@ the ostrich from hiding its head in the sand, achieving thereby
 for its own inner ego the grateful feeling of a function performed.
 But we cannot argue with it about whether the egg is a bad egg,
 or whether parts of it are excellent.
-
-In all these instances, therefore, because of the absence of a standard of
-ultimate values, the most ordinary functions really cannot be performed.
-They not only cannot be performed with "a grateful feeling,"
-or a katharsis, but in the long run they cannot be performed at all.
-We cannot really denounce the Service-mongering bond salesman
-as a swindler, because we have no certain agreement that it
-is shameful to be a swindler.  A little manipulation of some
-of Mr. Mencken's own individualistic theories about mentality
-as superior to moralism might present the swindler as a superman.
-We cannot really argue for or against the mere ideal of Service,
-because neither side has really considered what is to be served
-or how we are to arrive at the right rules for serving it.
-Consequently, in practice, it may turn out that the State of Service
-is merely the Servile State.  And finally, we cannot really argue
-about that or anything else, because there are no rules of the game
-of argument.  There is nothing to prove who has scored a point
-and who has not.  There cannot be "strife in American criticism";
-the professors cannot be "forced to make some defence."
-That would require plaintiffs and defendants to appear before some
-tribunal and give evidence according to some tests of [[Truth|truth]].
-There can be a disturbance, but there can not be a discussion.

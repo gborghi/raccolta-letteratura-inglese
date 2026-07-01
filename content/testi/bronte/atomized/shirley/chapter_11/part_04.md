@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 11 (part 4)"
+title: "Shirley — Chapter 11 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -12,6 +12,48 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_11/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_11/part_05">part 05 ›</a></div>
 </nav>
+
+
+[[Night|night]]--that party to which you would not go. I was pleased with her. I
+
+choose that you shall make her acquaintance. It will do you good."
+
+
+
+"She is now come of age, I suppose?"
+
+
+
+"She is come of age, and will reside for a [[Time|time]] on her property. I
+
+lectured her on the subject; I showed her her duty. She is not
+
+intractable. She is rather a fine girl; she will teach you what it is to
+
+have a sprightly spirit. Nothing lackadaisical about _her_."
+
+
+
+"I don't think she will want to see me, or to have me introduced to her.
+
+What good can I do her? How can I amuse her?"
+
+
+
+"Pshaw! Put your bonnet on."
+
+
+
+"Is she proud, uncle?"
+
+
+
+"Don't know. You hardly imagine she would show her [[Pride|pride]] to me, I
+
+suppose? A chit like that would scarcely presume to give herself airs
+
+with the rector of her parish, however rich she might be."
+
 
 
 "No. But how did she behave to other people?"
@@ -76,7 +118,7 @@ oak: fine, dark, glossy panels compassed the walls gloomily and grandly.
 
 Very handsome, reader, these shining brown panels are, very mellow in
 
-colouring and tasteful in effect, but--if you know what a "[[spring]] clean"
+colouring and tasteful in effect, but--if you know what a "[[Spring|spring]] clean"
 
 is--very execrable and inhuman. Whoever, having the bowels of humanity,
 
@@ -175,37 +217,3 @@ and rasping voice discomfited the lady more and more. She tried,
 however, to get up little speeches about the weather, the aspect of the
 
 country, etc.; but the impracticable Mr. Helstone presently found
-
-himself somewhat deaf. Whatever she said he affected not to hear
-
-distinctly, and she was obliged to go over each elaborately-constructed
-
-nothing twice. The effort soon became too much for her. She was just
-
-rising in a perplexed flutter, nervously murmuring that she knew not
-
-what detained Miss Keeldar, that she would go and look for her, when
-
-Miss Keeldar saved her the trouble by appearing. It was to be presumed
-
-at least that she who now came in through a glass door from the [[Garden|garden]]
-
-owned that name.
-
-
-
-There is real grace in ease of manner, and so old Helstone felt when an
-
-erect, slight girl walked up to him, retaining with her left hand her
-
-little silk apron full of [[Flowers|flowers]], and, giving him her right hand, said
-
-pleasantly, "I knew you would come to see me, though you _do_ think Mr.
-
-Yorke has made me a Jacobin. Good-morning."
-
-
-
-"But we'll not have you a Jacobin," returned he. "No, Miss [[Shirley]]; they
-
-shall not steal the flower of my parish from me. Now that you are

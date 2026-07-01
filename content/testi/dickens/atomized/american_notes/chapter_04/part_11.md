@@ -34,7 +34,7 @@ been felons themselves, and were, to the last, their bosom-friends and
 pot-companions.  At the same [[Time|time]] I know, as all men do or should, that
 the subject of [[Prison]] Discipline is one of the highest importance to any
 community; and that in her sweeping [[Reform|reform]] and bright example to other
-countries on this head, [[America]] has shown great wisdom, great
+countries on this head, [[america|America]] has shown great wisdom, great
 benevolence, and exalted policy.  In contrasting her system with that
 which we have modelled upon it, I merely seek to show that with all its
 drawbacks, ours has some advantages of its own.

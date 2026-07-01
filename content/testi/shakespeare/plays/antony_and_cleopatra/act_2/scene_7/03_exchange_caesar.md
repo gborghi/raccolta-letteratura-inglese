@@ -1,5 +1,5 @@
 ---
-title: "Antony and [[Cleopatra]] — Act II, Scene 7 — exchange (CAESAR) [3]"
+title: "Antony and Cleopatra — Act II, Scene 7 — exchange (CAESAR) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/antony-and-cleopatra-(shakespeare)"

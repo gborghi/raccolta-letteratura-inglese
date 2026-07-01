@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 1 (part 1)"
+title: "Our Mutual Friend — Chapter 5 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,124 +10,137 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_58/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_60/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_59/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_60/part_02">part 02 ›</a></div>
 </nav>
 
 
-Chapter 1
+Chapter 5
 
-SETTING TRAPS
+CONCERNING THE MENDICANT’S BRIDE
 
 
-Plashwater Weir Mill Lock looked tranquil and pretty on an evening in
-the [[Summer|summer]] [[Time|time]]. A soft air stirred the [[Leaves|leaves]] of the fresh green trees,
-and passed like a smooth [[Shadow|shadow]] over the [[River|river]], and like a smoother
-[[Shadow|shadow]] over the yielding grass. The voice of the falling [[Water|water]], like
-the voices of the sea and the [[Wind|wind]], were as an outer [[Memory|memory]] to a
-contemplative listener; but not particularly so to Mr Riderhood, who sat
-on one of the blunt wooden levers of his lock-gates, dozing. Wine must
-be got into a butt by some agency before it can be drawn out; and the
-wine of sentiment never having been got into Mr Riderhood by any agency,
-nothing in [[Nature|nature]] tapped him.
+The impressive gloom with which Mrs Wilfer received her husband on his
+return from the wedding, knocked so hard at the door of the cherubic
+[[Conscience|conscience]], and likewise so impaired the firmness of the cherubic legs,
+that the culprit’s tottering condition of mind and [[Body|body]] might have
+roused suspicion in less occupied persons than the grimly heroic lady,
+Miss [[Lavinia]], and that esteemed friend of the family, Mr George Sampson.
+But, the attention of all three being fully possessed by the main
+fact of the [[Marriage|marriage]], they had happily none to bestow on the guilty
+conspirator; to which fortunate circumstance he owed the escape for
+which he was in nowise indebted to himself.
 
-As the Rogue sat, ever and again nodding himself off his balance, his
-recovery was always attended by an angry stare and growl, as if, in the
-absence of any one else, he had aggressive inclinations towards himself.
-In one of these starts the cry of ‘Lock, ho! Lock!’ prevented his
-relapse into a doze. Shaking himself as he got up like the surly brute
-he was, he gave his growl a responsive twist at the end, and turned his
-face down-stream to see who hailed.
+‘You do not, R. W.’ said Mrs Wilfer from her stately corner, ‘inquire
+for your daughter Bella.’
 
-It was an amateur-sculler, [[Well|well]] up to his work though taking it easily,
-in so light a boat that the Rogue remarked: ‘A little less on you, and
-you’d a’most ha’ been a Wagerbut’; then went to work at his windlass
-handles and sluices, to let the sculler in. As the latter stood in his
-boat, holding on by the boat-hook to the woodwork at the lock side,
-waiting for the gates to open, Rogue Riderhood recognized his ‘T’other
-governor,’ Mr [[Eugene Wrayburn]]; who was, however, too indifferent or too
-much engaged to recognize him.
+‘To be sure, my dear,’ he returned, with a most flagrant assumption of
+unconsciousness, ‘I did omit it. How—or perhaps I should rather say
+where—IS Bella?’
 
-The creaking lock-gates opened slowly, and the light boat passed in as
-soon as there was room enough, and the creaking lock-gates closed upon
-it, and it floated low down in the dock between the two sets of gates,
-until the [[Water|water]] should rise and the second gates should open and let it
-out. When Riderhood had run to his second windlass and turned it, and
-while he leaned against the lever of that gate to help it to swing
-open presently, he noticed, lying to rest under the green hedge by the
-towing-path astern of the Lock, a Bargeman.
+‘Not here,’ Mrs Wilfer proclaimed, with folded arms.
 
-The [[Water|water]] [[Rose|rose]] and [[Rose|rose]] as the sluice poured in, dispersing the scum
-which had formed behind the lumbering gates, and sending the boat up,
-so that the sculler gradually [[Rose|rose]] like an apparition against the light
-from the bargeman’s point of view. Riderhood observed that the bargeman
-[[Rose|rose]] too, leaning on his arm, and seemed to have his eyes fastened on
-the rising figure.
+The cherub faintly muttered something to the abortive effect of ‘Oh,
+indeed, my dear!’
 
-But, there was the toll to be taken, as the gates were now complaining
-and opening. The T’other governor tossed it ashore, twisted in a piece
-of paper, and as he did so, knew his man.
+‘Not here,’ repeated Mrs Wilfer, in a stern sonorous voice. ‘In a word,
+R. W., you have no daughter Bella.’
 
-‘Ay, ay? It’s you, is it, honest friend?’ said Eugene, seating himself
-preparatory to resuming his sculls. ‘You got the place, then?’
+‘No daughter Bella, my dear?’
 
-‘I got the place, and no thanks to you for it, nor yet none to Lawyer
-Lightwood,’ gruffly answered Riderhood.
+‘No. Your daughter Bella,’ said Mrs Wilfer, with a lofty air of never
+having had the least copartnership in that young lady: of whom she now
+made reproachful mention as an article of luxury which her husband had
+set up entirely on his own account, and in direct opposition to her
+advice: ‘—your daughter Bella has bestowed herself upon a Mendicant.’
 
-‘We saved our recommendation, honest fellow,’ said Eugene, ‘for the next
-candidate—the one who will offer himself when you are transported or
-hanged. Don’t be long about it; will you be so good?’
+‘Good gracious, my dear!’
 
-So imperturbable was the air with which he gravely bent to his work that
-Riderhood remained staring at him, without having found a retort, until
-he had rowed past a line of wooden objects by the weir, which showed
-like huge teetotums standing at rest in the [[Water|water]], and was almost hidden
-by the drooping boughs on the left bank, as he rowed away, keeping
-out of the opposing current. It being then too late to retort with
-any effect—if that could ever have been done—the honest man confined
-himself to cursing and growling in a grim under-tone. Having then
-got his gates shut, he crossed back by his plank lock-bridge to the
-towing-path side of the [[River|river]].
+‘Show your father his daughter Bella’s letter, [[Lavinia]],’ said Mrs
+Wilfer, in her monotonous Act of Parliament tone, and waving her hand.
+‘I think your father will admit it to be documentary proof of what I
+tell him. I believe your father is acquainted with his daughter Bella’s
+writing. But I do not know. He may tell you he is not. Nothing will
+surprise me.’
 
-If, in so doing, he took another glance at the bargeman, he did it by
-stealth. He cast himself on the grass by the Lock side, in an indolent
-way, with his back in that direction, and, having gathered a few blades,
-fell to chewing them. The dip of [[Eugene Wrayburn]]’s sculls had become
-hardly audible in his ears when the bargeman passed him, putting the
-utmost width that he could between them, and keeping under the hedge.
-Then, Riderhood sat up and took a long look at his figure, and then
-cried: ‘Hi—I—i! Lock, ho! Lock! Plashwater Weir Mill Lock!’
+‘Posted at Greenwich, and dated this morning,’ said the Irrepressible,
+flouncing at her father in handing him the evidence. ‘Hopes Ma won’t be
+angry, but is happily married to Mr John Rokesmith, and didn’t mention
+it beforehand to avoid words, and please tell darling you, and [[Love|love]]
+to me, and I should like to know what you’d have said if any other
+unmarried member of the family had done it!’
 
-The bargeman stopped, and looked back.
+He read the letter, and faintly exclaimed ‘Dear me!’
 
-‘Plashwater Weir Mill Lock, T’otherest gov—er—nor—or—or—or!’ cried
-Mr Riderhood, with his hands to his mouth.
+‘You may [[Well|well]] say Dear me!’ rejoined Mrs Wilfer, in a deep tone. Upon
+which encouragement he said it again, though scarcely with the [[success]]
+he had expected; for the scornful lady then remarked, with extreme
+bitterness: ‘You said that before.’
 
-The bargeman turned back. Approaching nearer and nearer, the bargeman
-became [[Bradley Headstone]], in rough [[Water|water]]-side second-hand clothing.
+‘It’s very surprising. But I suppose, my dear,’ hinted the cherub, as he
+folded the letter after a disconcerting [[Silence|silence]], ‘that we must make the
+best of it? Would you object to my pointing out, my dear, that Mr
+John Rokesmith is not (so far as I am acquainted with him), strictly
+speaking, a Mendicant.’
 
-‘Wish I may die,’ said Riderhood, smiting his right leg, and laughing,
-as he sat on the grass, ‘if you ain’t ha’ been a imitating me,
-T’otherest governor! Never thought myself so good-looking afore!’
+‘Indeed?’ returned Mrs Wilfer, with an awful air of politeness. ‘Truly
+so? I was not aware that Mr John Rokesmith was a gentleman of landed
+property. But I am much relieved to hear it.’
 
-Truly, [[Bradley Headstone]] had taken careful note of the honest man’s
-dress in the course of that [[Night|night]]-walk they had had together. He must
-have committed it to [[Memory|memory]], and slowly got it by heart. It was
-exactly reproduced in the dress he now wore. And whereas, in his own
-schoolmaster clothes, he usually looked as if they were the clothes of
-some other man, he now looked, in the clothes of some other man or men,
-as if they were his own.
+‘I [[Doubt|doubt]] if you HAVE heard it, my dear,’ the cherub submitted with
+hesitation.
 
-‘THIS your Lock?’ said Bradley, whose surprise had a genuine air; ‘they
-told me, where I last inquired, it was the third I should come to. This
-is only the second.’
+‘Thank you,’ said Mrs Wilfer. ‘I make false statements, it appears? So
+be it. If my daughter flies in my face, surely my husband may. The one
+thing is not more unnatural than the other. There seems a fitness in the
+arrangement. By all means!’ Assuming, with a shiver of [[Resignation|resignation]], a
+deadly cheerfulness.
 
-‘It’s my belief, governor,’ returned Riderhood, with a wink and shake of
-his head, ‘that you’ve dropped one in your counting. It ain’t Locks as
-YOU’VE been giving your mind to. No, no!’
+But, here the Irrepressible skirmished into the conflict, dragging the
+reluctant form of Mr Sampson after her.
 
-As he expressively jerked his pointing finger in the direction the boat
-had taken, a flush of impatience mounted into Bradley’s face, and he
-looked anxiously up the [[River|river]].
+‘Ma,’ interposed the young lady, ‘I must say I think it would be much
+better if you would keep to the point, and not hold forth about
+people’s flying into people’s faces, which is nothing more nor less than
+impossible nonsense.’
 
-‘It ain’t Locks as YOU’VE been a reckoning up,’ said Riderhood, when the
-schoolmaster’s eyes came back again. ‘No, no!’
+‘How!’ exclaimed Mrs Wilfer, knitting her dark brows.
+
+‘Just im-possible nonsense, Ma,’ returned Lavvy, ‘and George Sampson
+knows it is, as [[Well|well]] as I do.’
+
+Mrs Wilfer suddenly becoming petrified, fixed her indignant eyes upon
+the wretched George: who, divided between the support due from him to
+his [[Love|love]], and the support due from him to his [[Love|love]]’s mamma, supported
+nobody, not even himself.
+
+‘The true point is,’ pursued [[Lavinia]], ‘that Bella has behaved in a most
+unsisterly way to me, and might have severely compromised me with George
+and with George’s family, by making off and getting married in this very
+low and disreputable manner—with some pew-opener or other, I suppose,
+for a bridesmaid—when she ought to have confided in me, and ought
+to have said, “If, Lavvy, you consider it due to your engagement with
+George, that you should countenance the occasion by being present, then
+Lavvy, I beg you to BE present, keeping my secret from Ma and Pa.” As of
+course I should have done.’
+
+‘As of course you would have done? Ingrate!’ exclaimed Mrs Wilfer.
+‘Viper!’
+
+‘I say! You know ma’am. Upon my [[Honour|honour]] you mustn’t,’ Mr Sampson
+remonstrated, shaking his head seriously. ‘With the highest respect for
+you, ma’am, upon my life you mustn’t. No really, you know. When a man
+with the feelings of a gentleman finds himself engaged to a young lady,
+and it comes (even on the part of a member of the family) to vipers, you
+know!—I would merely put it to your own good feeling, you know,’ said
+Mr Sampson, in rather lame conclusion.
+
+Mrs Wilfer’s baleful stare at the young gentleman in acknowledgment of
+his obliging interference was of such a [[Nature|nature]] that Miss [[Lavinia]] burst
+into [[Tears|tears]], and caught him round the neck for his protection.
+
+‘My own unnatural mother,’ screamed the young lady, ‘wants to annihilate
+George! But you shan’t be annihilated, George. I’ll die first!’
+
+Mr Sampson, in the arms of his mistress, still struggled to shake his
+head at Mrs Wilfer, and to remark: ‘With every sentiment of respect for
+you, you know, ma’am—vipers really doesn’t do you credit.’

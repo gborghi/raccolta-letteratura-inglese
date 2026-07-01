@@ -1,5 +1,5 @@
 ---
-title: "[[queertrades]] — Chapter 2"
+title: "queertrades — Chapter 2"
 author: "Chesterton"
 unitType: story
 parentWork: "works/queertrades-(chesterton)"
@@ -18,16 +18,15 @@ Chapter 2
 
 The Painful Fall of a Great Reputation
 
-
 Basil Grant and I were talking one day in what is perhaps the most perfect
 place for talking on earth--the top of a tolerably deserted tramcar.
-To talk on the top of a [[Hill|hill]] is superb, but to talk on the top
-of a flying [[Hill|hill]] is a fairy tale.
+To talk on the top of a hill is superb, but to talk on the top
+of a flying hill is a fairy tale.
 
-The vast blank space of North [[London]] was flying by;
+The vast blank space of North London was flying by;
 the very pace gave us a sense of its immensity and its meanness.
-It was, as it were, a base infinitude, a squalid [[Eternity|eternity]],
-and we felt the real horror of the poor parts of [[London]], the horror
+It was, as it were, a base infinitude, a squalid eternity,
+and we felt the real horror of the poor parts of London, the horror
 that is so totally missed and misrepresented by the sensational
 novelists who depict it as being a matter of narrow streets,
 filthy houses, criminals and maniacs, and dens of vice.
@@ -49,15 +48,15 @@ there was one thing we knew we should not see--anything really great,
 central, of the first class, anything that humanity had adored.
 And with revulsion indescribable our emotions returned, I think,
 to those really close and crooked entries, to those really mean streets,
-to those genuine slums which lie round the Thames and the [[City]],
+to those genuine slums which lie round the Thames and the City,
 in which nevertheless a real possibility remains that at any chance
-corner the great [[Cross|cross]] of the great [[Cathedral|cathedral]] of Wren may strike
+corner the great cross of the great cathedral of Wren may strike
 down the street like a thunderbolt.
 
 "But you must always remember also," said Grant to me, in his
 heavy abstracted way, when I had urged this view, "that the very
 vileness of the life of these ordered plebeian places bears
-witness to the victory of the human [[Soul|soul]].  I agree with you.
+witness to the victory of the human soul.  I agree with you.
 I agree that they have to live in something worse than barbarism.
 They have to live in a fourth-rate civilization.  But yet I am
 practically certain that the majority of people here are good people.
@@ -100,17 +99,17 @@ passing crowd, but though there was nothing about him sufficient
 to attract a startled notice, there was quite enough to demand
 a curious consideration when once that notice was attracted.
 He wore a black top-hat, but there was enough in it of those strange
-curves whereby the decadent [[artist]] of the eighties tried to turn
+curves whereby the decadent artist of the eighties tried to turn
 the top-hat into something as rhythmic as an Etruscan vase.
 His hair, which was largely grey, was curled with the instinct
-of one who appreciated the gradual [[Beauty|beauty]] of grey and silver.
+of one who appreciated the gradual beauty of grey and silver.
 The rest of his face was oval and, I thought, rather Oriental;
 he had two black tufts of moustache.
 
 "What has he done?"  I asked.
 
 "I am not sure of the details," said Grant, "but his besetting
-sin is a [[Desire|desire]] to intrigue to the disadvantage of others.
+sin is a desire to intrigue to the disadvantage of others.
 Probably he has adopted some imposture or other to effect his plan."
 
 "What plan?"  I asked.  "If you know all about him, why don't you
@@ -127,7 +126,7 @@ man in England?"
 
 "I meant what I said," said Basil Grant calmly.  "The moment
 I saw that man, I saw all these people stricken with a sudden
-and splendid [[innocence]].  I saw that while all ordinary poor men
+and splendid innocence.  I saw that while all ordinary poor men
 in the streets were being themselves, he was not being himself.
 I saw that all the men in these slums, cadgers, pickpockets,
 hooligans, are all, in the deepest sense, trying to be good.
@@ -137,28 +136,28 @@ And I saw that that man was trying to be evil."
 
 "In God's name, look at his face," cried out Basil in a voice
 that startled the driver.  "Look at the eyebrows.  They mean
-that infernal [[Pride|pride]] which made [[Satan]] so proud that he sneered
+that infernal pride which made Satan so proud that he sneered
 even at heaven when he was one of the first angels in it.
 Look at his moustaches, they are so grown as to insult humanity.
 In the name of the sacred heavens look at his hair.  In the name
-of God and the [[Stars|stars]], look at his hat."
+of God and the stars, look at his hat."
 
 I stirred uncomfortably.
 
 "But, after all," I said, "this is very fanciful--perfectly absurd.
 Look at the mere facts.  You have never seen the man before, you--"
 
-"Oh, the mere facts," he cried out in a kind of [[Despair|despair]].
+"Oh, the mere facts," he cried out in a kind of despair.
 "The mere facts!  Do you really admit--are you still so sunk
 in superstitions, so clinging to dim and prehistoric altars,
 that you believe in facts?  Do you not trust an immediate impression?"
 
-"[[Well]], an immediate impression may be," I said, "a little less
+"Well, an immediate impression may be," I said, "a little less
 practical than facts."
 
 "Bosh," he said.  "On what else is the whole world run
 but immediate impressions?  What is more practical?
-My friend, the [[philosophy]] of this world may be founded on facts,
+My friend, the philosophy of this world may be founded on facts,
 its business is run on spiritual impressions and atmospheres.
 Why do you refuse or accept a clerk?  Do you measure his skull?
 Do you read up his physiological state in a handbook?
@@ -167,9 +166,9 @@ may save your business--you refuse a clerk that may rob your till,
 entirely upon those immediate mystical impressions under the pressure
 of which I pronounce, with a perfect sense of certainty and sincerity,
 that that man walking in that street beside us is a humbug and a
-[[Villain|villain]] of some kind."
+villain of some kind."
 
-"You always put things [[Well|well]]," I said, "but, of course, such things
+"You always put things well," I said, "but, of course, such things
 cannot immediately be put to the test."
 
 Basil sprang up straight and swayed with the swaying car.
@@ -180,29 +179,29 @@ it will turn out as I say."
 And with a scuttle, a jump, and a run, we were off the car.
 
 The man with the curved silver hair and the curved Eastern face walked
-along for some [[Time|time]], his long splendid frock-coat flying behind him.
-Then he swung sharply out of the great glaring [[Road|road]] and disappeared
+along for some time, his long splendid frock-coat flying behind him.
+Then he swung sharply out of the great glaring road and disappeared
 down an ill-lit alley.  We swung silently after him.
 
 "This is an odd turning for a man of that kind to take," I said.
 
 "A man of what kind?" asked my friend.
 
-"[[Well]]," I said, "a man with that kind of expression and those boots.
-I thought it rather odd, to tell the [[Truth|truth]], that he should be in this
+"Well," I said, "a man with that kind of expression and those boots.
+I thought it rather odd, to tell the truth, that he should be in this
 part of the world at all."
 
 "Ah, yes," said Basil, and said no more.
 
 We tramped on, looking steadily in front of us.  The elegant figure,
 like the figure of a black swan, was silhouetted suddenly against
-the glare of intermittent gaslight and then swallowed again in [[Night|night]].
+the glare of intermittent gaslight and then swallowed again in night.
 The intervals between the lights were long, and a fog was thickening
-the whole [[City|city]].  Our pace, therefore, had become swift and mechanical
+the whole city.  Our pace, therefore, had become swift and mechanical
 between the lamp-posts; but Basil came to a standstill suddenly
-like a reined [[Horse|horse]]; I stopped also.  We had almost run into the man.
+like a reined horse; I stopped also.  We had almost run into the man.
 A great part of the solid darkness in front of us was the darkness
-of his [[Body|body]].
+of his body.
 
 At first I thought he had turned to face us.  But though we
 were hardly a yard off he did not realize that we were there.
@@ -219,8 +218,8 @@ A heavy, deep voice from inside said:
 "Right you are."
 
 And with a click we were in the blackness again, and striding
-after the striding stranger through a labyrinth of [[London]] lanes,
-the lights just helping us.  It was only five o'[[Clock|clock]], but [[Winter|winter]]
+after the striding stranger through a labyrinth of London lanes,
+the lights just helping us.  It was only five o'clock, but winter
 and the fog had made it like midnight.
 
 "This is really an extraordinary walk for the patent-leather boots,"
@@ -231,7 +230,7 @@ I repeated.
 As I tramped on I strained my eyes through the dusky atmosphere and tried
 to make out the direction described.  For some ten minutes I wondered
 and doubted; at the end of that I saw that my friend was right.
-We were coming to the great dreary spaces of fashionable [[London]]--
+We were coming to the great dreary spaces of fashionable London--
 more dreary, one must admit, even than the dreary plebeian spaces.
 
 "This is very extraordinary!" said Basil Grant, as we turned
@@ -240,19 +239,19 @@ into Berkeley Square.
 "What is extraordinary?"  I asked.  "I thought you said it
 was quite natural."
 
-"I do not [[Wonder|wonder]]," answered Basil, "at his walking through
-nasty streets; I do not [[Wonder|wonder]] at his going to Berkeley Square.
-But I do [[Wonder|wonder]] at his going to the [[house]] of a very good man."
+"I do not wonder," answered Basil, "at his walking through
+nasty streets; I do not wonder at his going to Berkeley Square.
+But I do wonder at his going to the house of a very good man."
 
 "What very good man?"  I asked with exasperation.
 
-"The operation of [[Time|time]] is a singular one," he said with his
+"The operation of time is a singular one," he said with his
 imperturbable irrelevancy.  "It is not a true statement of the case to say
 that I have forgotten my career when I was a judge and a public man.
-I remember it all vividly, but it is like remembering some [[Novel|novel]].
-But fifteen years ago I knew this square as [[Well|well]] as Lord Rosebery does,
+I remember it all vividly, but it is like remembering some novel.
+But fifteen years ago I knew this square as well as Lord Rosebery does,
 and a confounded long sight better than that man who is going up
-the steps of old Beaumont's [[house]]."
+the steps of old Beaumont's house."
 
 "Who is old Beaumont?"  I asked irritably.
 
@@ -267,29 +266,29 @@ odd and new must be an advance.  If you went to him and proposed to eat
 your grandmother, he would agree with you, so long as you put it
 on hygienic and public grounds, as a cheap alternative to cremation.
 So long as you progress fast enough it seems a matter of indifference
-to him whether you are progressing to the [[Stars|stars]] or the devil.
-So his [[house]] is filled with an endless succession of literary
+to him whether you are progressing to the stars or the devil.
+So his house is filled with an endless succession of literary
 and political fashions; men who wear long hair because it
 is romantic; men who wear short hair because it is medical;
 men who walk on their feet only to exercise their hands;
-and men who walk on their hands for [[Fear|fear]] of tiring their feet.
+and men who walk on their hands for fear of tiring their feet.
 But though the inhabitants of his salons are generally fools,
 like himself, they are almost always, like himself, good men.
 I am really surprised to see a criminal enter there."
 
 "My good fellow," I said firmly, striking my foot on the pavement,
-"the [[Truth|truth]] of this affair is very simple.  To use your own eloquent
+"the truth of this affair is very simple.  To use your own eloquent
 language, you have the `slight disadvantage' of being off your head.
 You see a total stranger in a public street; you choose to start
 certain theories about his eyebrows.  You then treat him as a burglar
 because he enters an honest man's door.  The thing is too monstrous.
-Admit that it is, Basil, and come home with me.  Though these
+Admit that it is, Basil, and come [[Home|home]] with me.  Though these
 people are still having tea, yet with the distance we have to go,
 we shall be late for dinner."
 
 Basil's eyes were shining in the twilight like lamps.
 
-"I thought," he said, "that I had outlived vanity."
+"I thought," he said, "that I had outlived [[Vanity|vanity]]."
 
 "What do you want now?"  I cried.
 
@@ -309,7 +308,7 @@ up the dark stone steps and rang at the bell.
 
 A severe servant in black and white opened the door to us:
 on receiving my friend's name his manner passed in a flash from
-astonishment to respect.  We were ushered into the house very quickly,
+astonishment to respect.  We were ushered into the [[house]] very quickly,
 but not so quickly but that our host, a white-haired man with a
 fiery face, came out quickly to meet us.
 
@@ -317,9 +316,9 @@ fiery face, came out quickly to meet us.
 "I have not seen you for years.  Have you been--er--" he said,
 rather wildly, "have you been in the country?"
 
-"Not for all that time," answered Basil, smiling.  "I have long
+"Not for all that [[Time|time]]," answered Basil, smiling.  "I have long
 given up my official position, my dear Philip, and have been
-living in a deliberate retirement.  I hope I do not come at
+living in a deliberate retirement.  I [[Hope|hope]] I do not come at
 an inopportune moment."
 
 "An inopportune moment," cried the ardent gentleman.
@@ -334,25 +333,25 @@ of laughter came from the inner room.
 "And who is Wimpole?"
 
 "Basil," cried the other, "you must have been in the country.
-You must have been in the antipodes.  You must have been in the moon.
+You must have been in the antipodes.  You must have been in the [[Moon|moon]].
 Who is Wimpole?  Who was Shakespeare?"
 
 "As to who Shakespeare was," answered my friend placidly,
 "my views go no further than thinking that he was not Bacon.
-More probably he was Mary Queen of Scots.  But as to who Wimpole is--"
+More probably he was Mary [[Queen]] of Scots.  But as to who Wimpole is--"
 and his speech also was cloven with a roar of laughter from within.
 
 "Wimpole!" cried Lord Beaumont, in a sort of ecstasy.
 "Haven't you heard of the great modern wit?  My dear fellow,
 he has turned conversation, I do not say into an art--
 for that, perhaps, it always was but into a great art,
-like the statuary of Michael Angelo--an art of masterpieces.
+like the statuary of [[Michael]] [[Angelo]]--an art of masterpieces.
 His repartees, my good friend, startle one like a man shot dead.
 They are final; they are--"
 
 Again there came the hilarious roar from the room, and almost
 with the very noise of it, a big, panting apoplectic old gentleman
-came out of the inner house into the hall where we were standing.
+came out of the inner [[house]] into the hall where we were standing.
 
 "Now, my dear chap," began Lord Beaumont hastily.
 
@@ -367,16 +366,16 @@ have heard of Sir Walter Cholmondeliegh."
 "Who has not?" asked Grant, and bowed to the worthy old baronet,
 eyeing him with some curiosity.  He was hot and heavy in his
 momentary anger, but even that could not conceal the noble though
-opulent outline of his face and body, the florid white hair,
-the Roman nose, the body stalwart though corpulent, the chin
-aristocratic though double.  He was a magnificent courtly gentleman;
+opulent outline of his face and [[Body|body]], the florid white hair,
+the Roman nose, the [[Body|body]] stalwart though corpulent, the chin
+aristocratic though [[Double|double]].  He was a magnificent courtly gentleman;
 so much of a gentleman that he could show an unquestionable weakness
 of anger without altogether losing dignity; so much of a gentleman
-that even his faux pas were well-bred.
+that even his faux pas were [[Well|well]]-bred.
 
 "I am distressed beyond expression, Beaumont," he said gruffly,
 "to fail in respect to these gentlemen, and even more especially
-to fail in it in your house.  But it is not you or they that are
+to fail in it in your [[house]].  But it is not you or they that are
 in any way concerned, but that flashy half-caste jackanapes--"
 
 At this moment a young man with a twist of red moustache and a sombre
@@ -391,7 +390,7 @@ him as a schoolboy."
 and respectfully, but the cloud was still on his brow.
 Turning to Sir Walter Cholmondeliegh, he said:
 
-"I was sent by Lady Beaumont to express her hope that you
+"I was sent by Lady Beaumont to express her [[Hope|hope]] that you
 were not going yet, Sir Walter.  She says she has scarcely seen
 anything of you."
 
@@ -426,19 +425,19 @@ and sometimes so reactionary.  Are you a modern, Basil?"
 the crowded drawing-room.
 
 This caused a slight diversion, and some eyes were turned away
-from our slim friend with the Oriental face for the first time
+from our slim friend with the Oriental face for the first [[Time|time]]
 that afternoon.  Two people, however, still looked at him.
-One was the daughter of the house, Muriel Beaumont, who gazed at
+One was the daughter of the [[house]], Muriel Beaumont, who gazed at
 him with great violet eyes and with the intense and awful thirst
 of the female upper class for verbal amusement and stimulus.
 The other was Sir Walter Cholmondeliegh, who looked at him with a still
-and sullen but unmistakable desire to throw him out of the window.
+and sullen but unmistakable [[Desire|desire]] to throw him out of the [[Window|window]].
 
 He sat there, coiled rather than seated on the easy chair;
 everything from the curves of his smooth limbs to the coils
 of his silvered hair suggesting the circles of a serpent more than
 the straight limbs of a man--the unmistakable, splendid serpentine
-gentleman we had seen walking in North London, his eyes shining
+gentleman we had seen walking in North [[London]], his eyes shining
 with repeated victory.
 
 "What I can't understand, Mr Wimpole," said Muriel Beaumont
@@ -467,7 +466,7 @@ Grant walked across the room and tapped the red-moustached secretary
 on the shoulder.  That gentleman was leaning against the wall
 regarding the whole scene with a great deal of gloom; but, I fancied,
 with very particular gloom when his eyes fell on the young lady
-of the house rapturously listening to Wimpole.
+of the [[house]] rapturously listening to Wimpole.
 
 "May I have a word with you outside, Drummond?" asked Grant.
 "It is about business.  Lady Beaumont will excuse us."
@@ -522,7 +521,7 @@ Sir Walter hates him."
 This speech affected me with a genuine sense of esteem and pity for
 the young man; that is, of pity for him because of his obviously hopeless
 worship of Miss Beaumont, and of esteem for him because of the direct
-realistic account of the history of Wimpole which he had given.
+realistic account of the [[history]] of Wimpole which he had given.
 Still, I was sorry that he seemed so steadily set against the man,
 and could not help referring it to an instinct of his personal relations,
 however nobly disguised from himself.
@@ -541,13 +540,13 @@ within a few minutes, in the street outside.
 "What is?"  I asked, baldly enough.
 
 "This affair.  Listen to me, my old friend.  Lord and Lady Beaumont
-have just invited you and me to a grand dinner-party this very night,
-at which Mr Wimpole will be in all his glory.  Well, there is nothing
+have just invited you and me to a grand dinner-party this very [[Night|night]],
+at which Mr Wimpole will be in all his glory.  [[Well]], there is nothing
 very extraordinary about that.  The extraordinary thing is that we
 are not going."
 
-"Well, really," I said, "it is already six o'clock and I doubt if we
-could get home and dress.  I see nothing extraordinary in the fact
+"[[Well]], really," I said, "it is already six o'[[Clock|clock]] and I [[Doubt|doubt]] if we
+could get [[Home|home]] and dress.  I see nothing extraordinary in the fact
 that we are not going."
 
 "Don't you?" said Grant.  "I'll bet you'll see something extraordinary
@@ -558,29 +557,29 @@ I looked at him blankly.
 "Doing instead?"  I asked.  "What are we doing instead?"
 
 "Why," said he, "we are waiting for one or two hours outside this
-house on a winter evening.  You must forgive me; it is all my vanity.
+[[house]] on a [[Winter|winter]] evening.  You must forgive me; it is all my [[Vanity|vanity]].
 It is only to show you that I am right.  Can you, with the assistance
 of this cigar, wait until both Sir Walter Cholmondeliegh and the mystic
-Wimpole have left this house?"
+Wimpole have left this [[house]]?"
 
 "Certainly," I said.  "But I do not know which is likely to leave first.
 Have you any notion?"
 
 "No," he said.  "Sir Walter may leave first in a glow of rage.
 Or again, Mr Wimpole may leave first, feeling that his last
-epigram is a thing to be flung behind him like a firework.
-And Sir Walter may remain some time to analyse Mr Wimpole's character.
-But they will both have to leave within reasonable time, for they
+[[Epigram|epigram]] is a thing to be flung behind him like a firework.
+And Sir Walter may remain some [[Time|time]] to analyse Mr Wimpole's character.
+But they will both have to leave within reasonable [[Time|time]], for they
 will both have to get dressed and come back to dinner here tonight."
 
-As he spoke the shrill double whistle from the porch
-of the great house drew a dark cab to the dark portal.
+As he spoke the shrill [[Double|double]] whistle from the porch
+of the [[Great House|great house]] drew a dark cab to the dark portal.
 And then a thing happened that we really had not expected.
 Mr Wimpole and Sir Walter Cholmondeliegh came out at the same moment.
 
-They paused for a second or two opposite each other in a natural doubt;
+They paused for a second or two opposite each other in a natural [[Doubt|doubt]];
 then a certain geniality, fundamental perhaps in both of them,
-made Sir Walter smile and say:  "The night is foggy.
+made Sir Walter smile and say:  "The [[Night|night]] is foggy.
 Pray take my cab."
 
 Before I could count twenty the cab had gone rattling up the street
@@ -593,13 +592,13 @@ We pelted on steadily, keeping the cab in sight, through dark
 mazy streets.  God only, I thought, knows why we are running at all,
 but we are running hard.  Fortunately we did not run far.
 The cab pulled up at the fork of two streets and Sir Walter paid
-the cabman, who drove away rejoicing, having just come in contact
+the [[cabman]], who drove away rejoicing, having just come in contact
 with the more generous among the rich.  Then the two men talked
 together as men do talk together after giving and receiving
-great insults, the talk which leads either to forgiveness or a duel--
+great insults, the talk which leads either to [[Forgiveness|forgiveness]] or a duel--
 at least so it seemed as we watched it from ten yards off.
 Then the two men shook hands heartily, and one went down one fork
-of the road and one down another.
+of the [[Road|road]] and one down another.
 
 Basil, with one of his rare gestures, flung his arms forward.
 
@@ -612,7 +611,7 @@ We dashed across the open space and reached the juncture of two paths.
 He ran on.
 
 "Idiot!"  I howled.  "Sir Walter's gone down there.
-Wimpole has slipped us.  He's half a mile down the other road.
+Wimpole has slipped us.  He's half a mile down the other [[Road|road]].
 You're wrong ... Are you deaf?  You're wrong!"
 
 "I don't think I am," he panted, and ran on.
@@ -641,7 +640,7 @@ but we got him tight.  I had not the remotest notion why.
 He had a splendid and full-blooded vigour; when he could
 not box he kicked, and we bound him; when he could not kick
 he shouted, and we gagged him.  Then, by Basil's arrangement,
-we dragged him into a small [[Court|court]] by the street side and waited.
+we dragged him into a small court by the street side and waited.
 As I say, I had no notion why.
 
 "I am sorry to incommode you," said Basil calmly out of the darkness;
@@ -649,7 +648,7 @@ As I say, I had no notion why.
 
 "An appointment!"  I said blankly.
 
-"Yes," he said, glancing calmly at the apoplectic old [[aristocrat]] gagged
+"Yes," he said, glancing calmly at the apoplectic old aristocrat gagged
 on the ground, whose eyes were starting impotently from his head.
 "I have made an appointment here with a thoroughly nice young fellow.
 An old friend.  Jasper Drummond his name is--you may have met him
@@ -657,15 +656,15 @@ this afternoon at the Beaumonts.  He can scarcely come though till
 the Beaumonts' dinner is over."
 
 For I do not know how many hours we stood there calmly in the darkness.
-By the [[Time|time]] those hours were over I had thoroughly made up my mind
+By the time those hours were over I had thoroughly made up my mind
 that the same thing had happened which had happened long ago on
-the bench of a British [[Court]] of Justice.  Basil Grant had gone mad.
+the bench of a British Court of Justice.  Basil Grant had gone mad.
 I could imagine no other explanation of the facts, with the portly,
 purple-faced old country gentleman flung there strangled on the floor
 like a bundle of wood.
 
 After about four hours a lean figure in evening dress rushed into
-the [[Court|court]].  A glimpse of gaslight showed the red moustache and white
+the court.  A glimpse of gaslight showed the red moustache and white
 face of Jasper Drummond.
 
 "Mr Grant," he said blankly, "the thing is incredible.
@@ -722,17 +721,17 @@ like piracy."
 
 "It is," said Grant calmly, "the great new trade of the Organizer
 of Repartee.  This fat old gentleman lying on the ground strikes you,
-as I have no [[Doubt|doubt]], as very stupid and very rich.  Let me clear
+as I have no doubt, as very stupid and very rich.  Let me clear
 his character.  He is, like ourselves, very clever and very poor.
 He is also not really at all fat; all that is stuffing.
 He is not particularly old, and his name is not Cholmondeliegh.
 He is a swindler, and a swindler of a perfectly delightful and
-[[Novel|novel]] kind.  He hires himself out at dinner-parties to lead up
+novel kind.  He hires himself out at dinner-parties to lead up
 to other people's repartees.  According to a preconcerted scheme
 (which you may find on that piece of paper), he says the stupid
 things he has arranged for himself, and his client says the clever
 things arranged for him.  In short, he allows himself to be scored
-off for a guinea a [[Night|night]]."
+off for a guinea a night."
 
 "And this fellow Wimpole--" began Drummond with indignation.
 

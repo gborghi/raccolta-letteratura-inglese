@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 45 (part 1)"
+title: "Bleak House — Chapter 45 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -134,11 +134,3 @@ Vholes.
 Mr. Carstone, and you can only [[Hope|hope]] that his position may be yet
 retrievable. You will allow me to order you lunch after your [[Journey|journey]],
 sir.”
-
-“I thank you, Mr. Jarndyce,” said Mr. Vholes, putting out his long
-black sleeve to check the ringing of the bell, “not any. I thank you,
-no, not a morsel. My digestion is much impaired, and I am but a poor
-knife and fork at any [[Time|time]]. If I was to partake of solid food at this
-period of the day, I don’t know what the consequences might be.
-Everything having been openly carried on, sir, I will now with your
-permission take my leave.”

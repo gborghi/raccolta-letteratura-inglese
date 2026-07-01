@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 36 (part 3)"
+title: "Villette — Chapter 36 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -117,9 +117,3 @@ probably, he would have been glad to see something emotional in me. I
 could not show it. In another minute, however, I should have betrayed
 confusion, had I not bethought myself to take some quill-pens from my
 desk, and begin soberly to mend them.
-
-I knew that action would give a turn to his mood. He never liked to see
-me mend pens; my knife was always dull-edged—my hand, too, was
-unskilful; I hacked and chipped. On this occasion I cut my own
-finger—half on purpose. I wanted to restore him to his natural state,
-to set him at his ease, to get him to chide.

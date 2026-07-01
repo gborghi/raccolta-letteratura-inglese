@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 16"
+title: "Wuthering Heights — Chapter 16"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/wuthering-heights-(bronte)"
@@ -134,7 +134,7 @@ gentle dream—may she wake as kindly in the other world!”
 his foot, and groaning in a sudden paroxysm of ungovernable passion.
 “Why, she’s a liar to the end! Where is she? Not _there_—not in
 heaven—not perished—where? Oh! you said you cared nothing for my
-sufferings! And I pray one [[Prayer|prayer]]—I repeat it till my tongue
+sufferings! And I pray one [[prayer]]—I repeat it till my tongue
 stiffens—[[Catherine Earnshaw]], may you not rest as long as I am living;
 you said I killed you—haunt me, then! The murdered _do_ haunt their
 murderers, I believe. I know that [[Ghosts|ghosts]] _have_ wandered on earth. Be

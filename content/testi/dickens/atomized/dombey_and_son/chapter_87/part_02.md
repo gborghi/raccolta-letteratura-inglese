@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 31 (part 2)"
+title: "Dombey and Son — Chapter 59 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,128 +14,114 @@ tags:
 </nav>
 
 
-Besides all this, and much more, twenty nursery-maids in Mr Dombey’s
-street [[Alone|alone]], have promised twenty families of little women, whose
-instinctive interest in nuptials dates from their cradles, that they
-shall go and see the [[Marriage|marriage]]. Truly, Mr Sownds the Beadle has good
-reason to feel himself in office, as he suns his portly figure on the
-church steps, waiting for the [[Marriage|marriage]] hour. Truly, Mrs Miff has cause
-to pounce on an unlucky [[Dwarf|dwarf]] [[Child|child]], with a giant baby, who peeps in at
-the porch, and drive her forth with indignation!
+The council downstairs are in full conclave all this [[Time|time]], and, having
+nothing to do, perform perfect feats of eating. At length, they are one
+day summoned in a [[Body|body]] to Mrs Pipchin’s room, and thus addressed by the
+fair Peruvian:
 
-Cousin Feenix has come over from abroad, expressly to attend the
-[[Marriage|marriage]]. Cousin Feenix was a man about town, forty years ago; but he
-is still so juvenile in figure and in manner, and so [[Well|well]] got up, that
-strangers are amazed when they discover latent wrinkles in his
-lordship’s face, and crows’ feet in his eyes: and first observe him,
-not exactly certain when he walks across a room, of going quite
-straight to where he wants to go. But Cousin Feenix, getting up at
-half-past seven o’[[Clock|clock]] or so, is quite another thing from Cousin
-Feenix got up; and very dim, indeed, he looks, while being shaved at
-Long’s Hotel, in Bond Street.
+“Your master’s in difficulties,” says Mrs Pipchin, tartly. “You know
+that, I suppose?”
 
-Mr Dombey [[Leaves|leaves]] his dressing-room, amidst a general whisking away of
-the women on the staircase, who disperse in all directions, with a
-great rustling of skirts, except Mrs Perch, who, being (but that she
-always is) in an interesting situation, is not nimble, and is obliged
-to face him, and is ready to sink with confusion as she curtesys;—may
-Heaven avert all evil consequences from the [[house]] of Perch! Mr Dombey
-walks up to the drawing-room, to bide his [[Time|time]]. Gorgeous are Mr
-Dombey’s new blue coat, fawn-coloured pantaloons, and lilac waistcoat;
-and a whisper goes about the [[house]], that Mr Dombey’s hair is curled.
+Mr Towlinson, as spokesman, admits a general knowledge of the fact.
 
-A [[Double|double]] knock announces the arrival of the Major, who is gorgeous too,
-and wears a whole geranium in his button-hole, and has his hair curled
-tight and crisp, as [[Well|well]] the Native knows.
+“And you’re all on the look-out for yourselves, I warrant you,” says
+Mrs Pipchin, shaking her head at them.
 
-“Dombey!” says the Major, putting out both hands, “how are you?”
+A shrill voice from the rear exclaims, “No more than yourself!”
 
-“Major,” says Mr Dombey, “how are You?”
+“That’s your opinion, Mrs Impudence, is it?” says the ireful Pipchin,
+looking with a fiery eye over the intermediate heads.
 
-“By Jove, Sir,” says the Major, “Joey B. is in such case this morning,
-Sir,”—and here he hits himself hard upon the breast—“In such case this
-morning, Sir, that, damme, Dombey, he has half a mind to make a [[Double|double]]
-[[Marriage|marriage]] of it, Sir, and take the mother.”
+“Yes, Mrs Pipchin, it is,” replies Cook, advancing. “And what then,
+pray?”
 
-Mr Dombey smiles; but faintly, even for him; for Mr Dombey feels that
-he is going to be related to the mother, and that, under those
-circumstances, she is not to be joked about.
+“Why, then you may go as soon as you like,” says Mrs Pipchin. “The
+sooner the better; and I [[Hope|hope]] I shall never see your face again.”
 
-“Dombey,” says the Major, seeing this, “I give you joy. I congratulate
-you, Dombey. By the Lord, Sir,” says the Major, “you are more to be
-envied, this day, than any man in England!”
+With this the doughty Pipchin produces a canvas bag; and tells her
+wages out to that day, and a month beyond it; and clutches the money
+tight, until a receipt for the same is duly signed, to the last
+upstroke; when she grudgingly lets it go. This form of proceeding Mrs
+Pipchin repeats with every member of the household, until all are paid.
 
-Here again Mr Dombey’s assent is qualified; because he is going to
-confer a great distinction on a lady; and, no [[Doubt|doubt]], she is to be
-envied most.
+“Now those that choose, can go about their business,” says Mrs Pipchin,
+“and those that choose can stay here on board wages for a week or so,
+and make themselves useful. Except,” says the inflammable Pipchin,
+“that slut of a cook, who’ll go immediately.”
 
-“As to [[Edith Granger]], Sir,” pursues the Major, “there is not a woman in
-all Europe but might—and would, Sir, you will allow Bagstock to add—and
-would—give her ears, and her earrings, too, to be in [[Edith Granger]]’s
-place.”
+“That,” says Cook, “she certainly will! I wish you good day, Mrs
+Pipchin, and sincerely wish I could compliment you on the sweetness of
+your appearance!”
 
-“You are good enough to say so, Major,” says Mr Dombey.
+“Get along with you,” says Mrs Pipchin, stamping her foot.
 
-“Dombey,” returns the Major, “you know it. Let us have no false
-delicacy. You know it. Do you know it, or do you not, Dombey?” says the
-Major, almost in a passion.
+Cook sails off with an air of beneficent dignity, highly exasperating
+to Mrs Pipchin, and is shortly joined below stairs by the rest of the
+confederation.
 
-“Oh, really, Major—”
+Mr Towlinson then says that, in the first place, he would beg to
+propose a little snack of something to eat; and over that snack would
+[[Desire|desire]] to offer a suggestion which he thinks will meet the position in
+which they find themselves. The refreshment being produced, and very
+heartily partaken of, Mr Towlinson’s suggestion is, in effect, that
+Cook is going, and that if we are not true to ourselves, nobody will be
+true to us. That they have lived in that [[house]] a long [[Time|time]], and exerted
+themselves very much to be sociable together. (At this, Cook says, with
+emotion, “Hear, hear!” and Mrs Perch, who is there again, and full to
+the throat, sheds [[Tears|tears]].) And that he thinks, at the present [[Time|time]], the
+feeling ought to be “Go one, go all!” The housemaid is much affected by
+this generous sentiment, and warmly seconds it. Cook says she feels
+it’s right, and only hopes it’s not done as a compliment to her, but
+from a sense of duty. Mr Towlinson replies, from a sense of duty; and
+that now he is driven to express his opinions, he will openly say, that
+he does not think it over-respectable to remain in a [[house]] where Sales
+and such-like are carrying forwards. The housemaid is sure of it; and
+relates, in confirmation, that a strange man, in a carpet cap, offered,
+this very morning, to kiss her on the stairs. Hereupon, Mr Towlinson is
+starting from his chair, to seek and “smash” the offender; when he is
+laid hold on by the ladies, who beseech him to calm himself, and to
+reflect that it is easier and wiser to leave the scene of such
+indecencies at once. Mrs Perch, presenting the case in a new light,
+even shows that delicacy towards Mr Dombey, shut up in his own rooms,
+imperatively demands precipitate retreat. “For what,” says the good
+woman, “must his feelings be, if he was to come upon any of the poor
+servants that he once deceived into thinking him immensely rich!” Cook
+is so struck by this moral consideration, that Mrs Perch improves it
+with several pious axioms, original and selected. It becomes a clear
+case that they must all go. Boxes are packed, cabs fetched, and at dusk
+that evening there is not one member of the party left.
 
-“Damme, Sir,” retorts the Major, “do you know that fact, or do you not?
-Dombey! Is old Joe your friend? Are we on that footing of unreserved
-intimacy, Dombey, that may justify a man—a blunt old Joseph B., Sir—in
-speaking out; or am I to take open order, Dombey, and to keep my
-distance, and to stand on forms?”
+The [[house]] stands, large and weather-proof, in the long dull street; but
+it is a ruin, and the rats fly from it.
 
-“My dear [[Major Bagstock]],” says Mr Dombey, with a gratified air, “you
-are quite warm.”
+The men in the carpet caps go on tumbling the furniture about; and the
+gentlemen with the pens and ink make out inventories of it, and sit
+upon pieces of furniture never made to be sat upon, and eat bread and
+[[cheese]] from the public-[[house]] on other pieces of furniture never made to
+be eaten on, and seem to have a delight in appropriating precious
+articles to strange uses. Chaotic combinations of furniture also take
+place. Mattresses and bedding appear in the dining-room; the glass and
+china get into the conservatory; the great dinner service is set out in
+heaps on the long divan in the large drawing-room; and the stair-wires,
+made into fasces, decorate the marble chimneypieces. Finally, a rug,
+with a printed bill upon it, is hung out from the balcony; and a
+similar appendage graces either side of the hall door.
 
-“By Gad, Sir,” says the Major, “I am warm. Joseph B. does not deny it,
-Dombey. He is warm. This is an occasion, Sir, that calls forth all the
-honest sympathies remaining in an old, infernal, battered, used-up,
-invalided, J. B. carcase. And I tell you what, Dombey—at such a [[Time|time]] a
-man must blurt out what he feels, or put a muzzle on; and Joseph
-Bagstock tells you to your face, Dombey, as he tells his club behind
-your back, that he never will be muzzled when [[Paul Dombey]] is in
-question. Now, damme, Sir,” concludes the Major, with great firmness,
-“what do you make of that?”
-
-“Major,” says Mr Dombey, “I assure you that I am really obliged to you.
-I had no idea of checking your too partial [[Friendship|friendship]].”
-
-“Not too partial, Sir!” exclaims the choleric Major. “Dombey, I deny
-it.”
-
-“Your [[Friendship|friendship]] I will say then,” pursues Mr Dombey, “on any account.
-Nor can I forget, Major, on such an occasion as the present, how much I
-am indebted to it.”
-
-“Dombey,” says the Major, with appropriate action, “that is the hand of
-Joseph Bagstock: of plain old Joey B., Sir, if you like that better!
-That is the hand, of which His Royal Highness the late [[Duke of York]],
-did me the [[Honour|honour]] to observe, Sir, to His Royal Highness the late Duke
-of [[Kent]], that it was the hand of Josh: a rough and tough, and possibly
-an up-to-snuff, old vagabond. Dombey, may the present moment be the
-least unhappy of our lives. God bless you!”
-
-Now enters Mr Carker, gorgeous likewise, and smiling like a
-wedding-guest indeed. He can scarcely let Mr Dombey’s hand go, he is so
-congratulatory; and he shakes the Major’s hand so heartily at the same
-[[Time|time]], that his voice shakes too, in accord with his arms, as it comes
-sliding from between his teeth.
-
-“The very day is auspicious,” says Mr Carker. “The brightest and most
-genial weather! I [[Hope|hope]] I am not a moment late?”
-
-“Punctual to your [[Time|time]], Sir,” says the Major.
-
-“I am rejoiced, I am sure,” says Mr Carker. “I was afraid I might be a
-few seconds after the appointed [[Time|time]], for I was delayed by a procession
-of waggons; and I took the liberty of riding round to Brook
-Street”—this to Mr Dombey—“to leave a few poor rarities of [[Flowers|flowers]] for
-Mrs Dombey. A man in my position, and so distinguished as to be invited
-here, is proud to offer some homage in acknowledgment of his vassalage:
-and as I have no [[Doubt|doubt]] Mrs Dombey is overwhelmed with what is costly
-and magnificent;” with a strange glance at his patron; “I [[Hope|hope]] the very
-[[Poverty|poverty]] of my offering, may find favour for it.”
+Then, all day long, there is a retinue of mouldy gigs and chaise-carts
+in the street; and herds of shabby vampires, Jew and Christian,
+over-run the [[house]], sounding the plate-glass mirrors with their
+knuckles, striking discordant octaves on the Grand Piano, drawing wet
+forefingers over the pictures, breathing on the blades of the best
+dinner-knives, punching the squabs of chairs and sofas with their dirty
+fists, touzling the feather beds, opening and shutting all the drawers,
+balancing the silver spoons and forks, looking into the very threads of
+the drapery and linen, and disparaging everything. There is not a
+secret place in the whole [[house]]. Fluffy and snuffy strangers stare into
+the kitchen-range as curiously as into the attic clothes-press. Stout
+men with napless hats on, look out of the bedroom windows, and cut
+jokes with friends in the street. Quiet, calculating spirits withdraw
+into the dressing-rooms with catalogues, and make marginal notes
+thereon, with stumps of pencils. Two brokers invade the very
+[[Fire|fire]]-escape, and take a panoramic survey of the neighbourhood from the
+top of the [[house]]. The swarm and buzz, and going up and down, endure for
+days. The Capital Modern Household Furniture, &c., is on view.

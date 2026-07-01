@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 28 (part 3)"
+title: "Dombey and Son — Chapter 56 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,123 +14,120 @@ tags:
 </nav>
 
 
-“Won’t you wait and see Lady Skettles?” asked Florence, kindly.
+“My lad,” returned the Captain, “say no more. There ain’t a colour you
+can run up, as won’t be made out, and answered to, by Wal”r and [[Self|self]].”
 
-“Oh no, thank you,” returned Mr Toots, “it’s of no consequence at all.”
+“Captain Gills,” said Mr Toots, “my mind is greatly relieved. I wish to
+preserve the good opinion of all here. I—I—mean [[Well|well]], upon my [[Honour|honour]],
+however badly I may show it. You know,” said Mr Toots, “it’s as exactly
+as Burgess and Co. wished to oblige a customer with a most
+extraordinary pair of trousers, and could not cut out what they had in
+their minds.”
 
-So shy was Mr Toots on such occasions, and so flurried! But Lady
-Skettles entering at the moment, Mr Toots was suddenly seized with a
-passion for asking her how she did, and hoping she was very [[Well|well]]; nor
-could Mr Toots by any possibility leave off shaking hands with her,
-until Sir Barnet appeared: to whom he immediately clung with the
-tenacity of desperation.
+With this apposite illustration, of which he seemed a little Proud, Mr
+Toots gave [[Captain Cuttle]] his blessing and departed.
 
-“We are losing, today, Toots,” said Sir Barnet, turning towards
-Florence, “the light of our [[house]], I assure you”
+The honest Captain, with his Heart’s Delight in the [[house]], and Susan
+tending her, was a beaming and a happy man. As the days flew by, he
+grew more beaming and more happy, every day. After some conferences
+with Susan (for whose wisdom the Captain had a profound respect, and
+whose valiant precipitation of herself on Mrs MacStinger he could never
+forget), he proposed to Florence that the daughter of the elderly lady
+who usually sat under the blue umbrella in Leadenhall Market, should,
+for prudential reasons and considerations of privacy, be superseded in
+the temporary discharge of the household duties, by someone who was not
+unknown to them, and in whom they could safely confide. Susan, being
+present, then named, in furtherance of a suggestion she had previously
+offered to the Captain, Mrs Richards. Florence brightened at the name.
+And Susan, setting off that very afternoon to the Toodle domicile, to
+sound Mrs Richards, returned in triumph the same evening, accompanied
+by the identical rosy-cheeked apple-faced Polly, whose demonstrations,
+when brought into Florence’s presence, were hardly less affectionate
+than those of [[Susan Nipper]] herself.
 
-“Oh, it’s of no conseq—I mean yes, to be sure,” faltered the
-embarrassed Mr Toots. “Good morning!”
+This piece of generalship accomplished; from which the Captain derived
+uncommon satisfaction, as he did, indeed, from everything else that was
+done, whatever it happened to be; Florence had next to prepare Susan
+for their approaching separation. This was a much more difficult task,
+as Miss Nipper was of a resolute disposition, and had fully made up her
+mind that she had come back never to be parted from her old mistress
+any more.
 
-Notwithstanding the emphatic [[Nature|nature]] of this farewell, Mr Toots, instead
-of going away, stood leering about him, vacantly. Florence, to relieve
-him, bade adieu, with many thanks, to Lady Skettles, and gave her arm
-to Sir Barnet.
+“As to wages dear Miss Floy,” she said, “you wouldn’t hint and wrong me
+so as think of naming them, for I’ve put money by and wouldn’t sell my
+[[Love|love]] and duty at a [[Time|time]] like this even if the Savings’ Banks and me
+were total strangers or the Banks were broke to pieces, but you’ve
+never been without me darling from the [[Time|time]] your poor dear Ma was took
+away, and though I’m nothing to be boasted of you’re used to me and oh
+my own dear mistress through so many years don’t think of going
+anywhere without me, for it mustn’t and can’t be!”
 
-“May I beg of you, my dear Miss Dombey,” said her host, as he conducted
-her to the carriage, “to present my best compliments to your dear
-Papa?”
+“Dear Susan, I am going on a long, long voyage.”
 
-It was distressing to Florence to receive the commission, for she felt
-as if she were imposing on Sir Barnet by allowing him to believe that a
-kindness rendered to her, was rendered to her father. As she could not
-explain, however, she bowed her head and thanked him; and again she
-thought that the dull [[Home|home]], free from such embarrassments, and such
-reminders of her sorrow, was her natural and best retreat.
+“[[Well]] Miss Floy, and what of that? the more you’ll want me. Lengths of
+voyages ain’t an object in my eyes, thank God!” said the impetuous
+[[Susan Nipper]].
 
-Such of her late friends and companions as were yet remaining at the
-villa, came running from within, and from the [[Garden|garden]], to say good-bye.
-They were all attached to her, and very earnest in taking leave of her.
-Even the household were sorry for her going, and the servants came
-nodding and curtseying round the carriage door. As Florence looked
-round on the kind faces, and saw among them those of Sir Barnet and his
-lady, and of Mr Toots, who was chuckling and staring at her from a
-distance, she was reminded of the [[Night|night]] when Paul and she had come from
-Doctor Blimber’s: and when the carriage drove away, her face was wet
-with [[Tears|tears]].
+“But, Susan, I am going with Walter, and I would go with Walter
+anywhere—everywhere! Walter is poor, and I am very poor, and I must
+learn, now, both to help myself, and help him.”
 
-Sorrowful [[Tears|tears]], but [[Tears|tears]] of consolation, too; for all the softer
-memories connected with the dull old [[house]] to which she was returning
-made it dear to her, as they [[Rose|rose]] up. How long it seemed since she had
-wandered through the silent rooms: since she had last crept, softly and
-afraid, into those her father occupied: since she had felt the solemn
-but yet soothing influence of the beloved dead in every action of her
-daily life! This new farewell reminded her, besides, of her parting
-with poor Walter: of his looks and words that [[Night|night]]: and of the
-gracious blending she had noticed in him, of tenderness for those he
-left behind, with [[Courage|courage]] and high spirit. His little [[history]] was
-associated with the old [[house]] too, and gave it a new claim and hold
-upon her heart.
+“Dear Miss Floy!” cried Susan, bursting out afresh, and shaking her
+head violently, “it’s nothing new to you to help yourself and others
+too and be the patientest and truest of noble hearts, but let me talk
+to Mr [[Walter Gay]] and settle it with him, for suffer you to go away
+across the world [[Alone|alone]] I cannot, and I won’t.”
 
-Even [[Susan Nipper]] softened towards the [[Home|home]] of so many years, as they
-were on their way towards it. Gloomy as it was, and rigid justice as
-she rendered to its gloom, she forgave it a great deal. “I shall be
-glad to see it again, I don’t deny, Miss,” said the Nipper. “There
-ain’t much in it to boast of, but I wouldn’t have it burnt or pulled
-down, neither!”
+“[[Alone]], Susan?” returned Florence. “[[Alone]]? and Walter taking me with
+him!” Ah, what a bright, amazed, enraptured smile was on her face!—He
+should have seen it. “I am sure you will not speak to Walter if I ask
+you not,” she added tenderly; “and pray don’t, dear.”
 
-“You’ll be glad to go through the old rooms, won’t you, Susan?” said
-Florence, smiling.
+Susan sobbed “Why not, Miss Floy?”
 
-“[[Well]], Miss,” returned the Nipper, softening more and more towards the
-[[house]], as they approached it nearer, “I won’t deny but what I shall,
-though I shall hate ’em again, to-morrow, very likely.”
+“Because,” said Florence, “I am going to be his wife, to give him up my
+whole heart, and to live with him and die with him. He might think, if
+you said to him what you have said to me, that I am afraid of what is
+before me, or that you have some cause to be afraid for me. Why, Susan,
+dear, I [[Love|love]] him!”
 
-Florence felt that, for her, there was greater peace within it than
-elsewhere. It was better and easier to keep her secret shut up there,
-among the tall dark walls, than to carry it abroad into the light, and
-try to hide it from a crowd of happy eyes. It was better to pursue the
-study of her loving heart, [[Alone|alone]], and find no new discouragements in
-loving hearts about her. It was easier to [[Hope|hope]], and pray, and [[Love|love]] on,
-all uncared for, yet with constancy and patience, in the tranquil
-sanctuary of such remembrances: although it mouldered, rusted, and
-decayed about her: than in a new scene, let its gaiety be what it
-would. She welcomed back her old enchanted dream of life, and longed
-for the old dark door to close upon her, once again.
+Miss Nipper was so much affected by the quiet fervour of these words,
+and the simple, heartfelt, all-pervading earnestness expressed in them,
+and making the speaker’s face more beautiful and pure than ever, that
+she could only cling to her again, crying. Was her little mistress
+really, really going to be married, and pitying, caressing, and
+protecting her, as she had done before.
 
-Full of such thoughts, they turned into the long and sombre street.
-Florence was not on that side of the carriage which was nearest to her
-[[Home|home]], and as the distance lessened between them and it, she looked out
-of her [[Window|window]] for the children over the way.
+But the Nipper, though susceptible of womanly weaknesses, was almost as
+capable of putting constraint upon herself as of attacking the
+redoubtable MacStinger. From that [[Time|time]], she never returned to the
+subject, but was always cheerful, active, bustling, and hopeful. She
+did, indeed, inform Mr Toots privately, that she was only “keeping up”
+for the [[Time|time]], and that when it was all over, and Miss Dombey was gone,
+she might be expected to become a spectacle distressful; and Mr Toots
+did also express that it was his case too, and that they would mingle
+their [[Tears|tears]] together; but she never otherwise indulged her private
+feelings in the presence of Florence or within the precincts of the
+Midshipman.
 
-She was thus engaged, when an exclamation from Susan caused her to turn
-quickly round.
-
-“Why, Gracious me!” cried Susan, breathless, “where’s our [[house]]!”
-
-“Our [[house]]!” said Florence.
-
-Susan, drawing in her head from the [[Window|window]], thrust it out again, drew
-it in again as the carriage stopped, and stared at her mistress in
-amazement.
-
-There was a labyrinth of scaffolding raised all round the [[house]], from
-the basement to the roof. Loads of bricks and stones, and heaps of
-mortar, and piles of wood, blocked up half the width and length of the
-broad street at the side. Ladders were raised against the walls;
-labourers were climbing up and down; men were at work upon the steps of
-the scaffolding; painters and decorators were busy inside; great rolls
-of ornamental paper were being delivered from a cart at the door; an
-upholsterer’s waggon also stopped the way; no furniture was to be seen
-through the gaping and broken windows in any of the rooms; nothing but
-workmen, and the implements of their several trades, swarming from the
-kitchens to the garrets. Inside and outside alike: bricklayers,
-painters, carpenters, masons: hammer, hod, brush, pickaxe, saw, and
-trowel: all at work together, in full [[Chorus|chorus]]!
-
-Florence descended from the coach, half doubting if it were, or could
-be the right [[house]], until she recognised Towlinson, with a sun-burnt
-face, standing at the door to receive her.
-
-“There is nothing the matter?” inquired Florence.
-
-“Oh no, Miss.”
+Limited and plain as Florence’s wardrobe was—what a contrast to that
+prepared for the last [[Marriage|marriage]] in which she had taken part!—there was a
+good deal to do in getting it ready, and [[Susan Nipper]] worked away at
+her side, all day, with the concentrated zeal of fifty sempstresses.
+The wonderful contributions [[Captain Cuttle]] would have made to this
+branch of the outfit, if he had been permitted—as pink parasols, tinted
+silk stockings, blue shoes, and other articles no less necessary on
+shipboard—would occupy some space in the recital. He was induced,
+however, by various fraudulent representations, to limit his
+contributions to a work-box and dressing case, of each of which he
+purchased the very largest specimen that could be got for money. For
+ten days or a fortnight afterwards, he generally sat, during the
+greater part of the day, gazing at these boxes; divided between extreme
+admiration of them, and dejected misgivings that they were not gorgeous
+enough, and frequently diving out into the street to purchase some wild
+article that he deemed necessary to their completeness. But his
+master-stroke was, the bearing of them both off, suddenly, one morning,
+and getting the two words FLORENCE GAY engraved upon a brass heart
+inlaid over the lid of each. After this, he smoked four pipes
+successively in the little parlour by himself, and was discovered
+chuckling, at the expiration of as many hours.

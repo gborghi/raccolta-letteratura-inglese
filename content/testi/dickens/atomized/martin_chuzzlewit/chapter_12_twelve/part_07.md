@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 12: TWELVE (part 7)"
+title: "Martin Chuzzlewit — Chapter 12: TWELVE (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,27 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_12_twelve/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_12_twelve/part_08">part 08 ›</a></div>
 </nav>
 
+
+They were not quite so glad to get up again at half-past four o’[[Clock|clock]],
+in all the shivering discomfort of a dark [[Winter|winter]]’s morning; but they
+turned out punctually, and were at the finger-post full half-an-hour
+before the appointed [[Time|time]]. It was not by any means a lively morning, for
+the sky was black and cloudy, and it rained hard; but Martin said there
+was some satisfaction in seeing that brute of a [[Horse|horse]] (by this, he meant
+Mr Pecksniff’s Arab steed) getting very wet; and that he rejoiced, on
+his account, that it rained so fast. From this it may be inferred that
+Martin’s spirits had not improved, as indeed they had not; for while he
+and Mr Pinch stood waiting under a hedge, looking at the rain, the gig,
+the cart, and its reeking driver, he did nothing but grumble; and, but
+that it is indispensable to any dispute that there should be two parties
+to it, he would certainly have picked a quarrel with Tom.
+
+At length the noise of wheels was faintly audible in the distance and
+presently the coach came splashing through the mud and mire with one
+miserable outside passenger crouching down among wet straw, under a
+saturated umbrella; and the coachman, guard, and horses, in a fellowship
+of dripping wretchedness. Immediately on its stopping, Mr Pecksniff let
+down the [[Window|window]]-glass and hailed [[Tom Pinch]].
 
 ‘Dear me, Mr Pinch! Is it possible that you are out upon this very
 inclement morning?’
@@ -112,46 +133,3 @@ this?’
 
 ‘I will talk to you, sir,’ said Mr Pecksniff in a severe voice, as he
 looked at him for the first [[Time|time]], ‘presently.’
-
-‘You are very obliging,’ returned Martin; ‘presently will not do. I must
-trouble you to talk to me at once.’
-
-Mr Pecksniff made a feint of being deeply interested in his pocketbook,
-but it shook in his hands; he trembled so.
-
-‘Now,’ retorted Martin, rapping the table again. ‘Now. Presently will
-not do. Now!’
-
-‘Do you threaten me, sir?’ cried Mr Pecksniff.
-
-Martin looked at him, and made no answer; but a curious observer
-might have detected an ominous twitching at his mouth, and perhaps
-an involuntary attraction of his right hand in the direction of Mr
-Pecksniff’s cravat.
-
-‘I lament to be obliged to say, sir,’ resumed Mr Pecksniff, ‘that it
-would be quite in keeping with your character if you did threaten me.
-You have deceived me. You have imposed upon a [[Nature|nature]] which you knew to
-be confiding and unsuspicious. You have obtained admission, sir,’ said
-Mr Pecksniff, rising, ‘to this [[house]], on perverted statements and on
-false pretences.’
-
-‘Go on,’ said Martin, with a scornful smile. ‘I understand you now. What
-more?’
-
-‘Thus much more, sir,’ cried Mr Pecksniff, trembling from head to foot,
-and trying to rub his hands, as though he were only cold. ‘Thus much
-more, if you force me to publish your shame before a third party, which
-I was unwilling and indisposed to do. This lowly roof, sir, must not
-be contaminated by the presence of one who has deceived, and cruelly
-deceived, an honourable, beloved, venerated, and venerable gentleman;
-and who wisely suppressed that deceit from me when he sought my
-protection and favour, knowing that, humble as I am, I am an honest
-man, seeking to do my duty in this carnal universe, and setting my face
-against all vice and treachery. I weep for your depravity, sir,’ said
-Mr Pecksniff; ‘I mourn over your corruption, I pity your voluntary
-withdrawal of yourself from the flowery paths of purity and peace;’ here
-he struck himself upon his breast, or moral [[Garden|garden]]; ‘but I cannot have
-a leper and a serpent for an inmate. Go forth,’ said Mr Pecksniff,
-stretching out his hand: ‘go forth, young man! Like all who know you, I
-renounce you!’

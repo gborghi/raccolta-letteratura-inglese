@@ -14,6 +14,16 @@ tags:
 </nav>
 
 
+      Tiger was lying in the foot of the berth, and appeared to have
+
+      recovered in some measure his faculties, for I could see him
+
+      occasionally open his eyes and draw a long breath.
+
+
+
+      After a few minutes the mate and cook went above, leaving Dirk
+
       Peters behind, who, as soon as they were gone, came and sat
 
       himself down in the place just occupied by the mate. He began to
@@ -185,15 +195,3 @@ tags:
 
 
       July 5th. About daybreak there came on a stiff breeze from the
-
-      west, which at [[Noon|noon]] freshened into a gale, so that the brig could
-
-      carry nothing more than her trysail and foresail. In taking in
-
-      the foretopsail, Simms, one of the common hands, and belonging
-
-      also to the cook’s gang, fell overboard, being very much in
-
-      liquor, and was drowned—no attempt being made to save him. The
-
-      whole number of persons on board was now thirteen, to wit: Dirk

@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-thing-(chesterton)">The Thing</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_25_the_slavery_of_the_mind">‹ Story 25 THE SLAVERY OF THE MIND</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_27_what_we_think_about">Story 27 WHAT WE THINK ABOUT ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_25_the_slavery_slavery_of_the_mind">‹ Story 25 THE Slavery SLAVERY OF THE MIND</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_27_what_we_think_about">Story 27 WHAT WE THINK ABOUT ›</a></div>
 </nav>
 
 
@@ -108,7 +108,7 @@ Those who have not read the speculations and the doubts simply go
 on repeating the dogma.  While Dr. Barnes was preaching sermons
 carefully founded on the biology of fifty years ago, Mr. Belloc was
 proving conclusively before the whole world that Mr. H. G. Wells and
-Sir [[arthur|Arthur]] Keith were unacquainted with the biology of five years ago.
+Sir [[Arthur]] Keith were unacquainted with the biology of five years ago.
 In short, it is only just, as we have said, to insist on the difference
 between Dean Inge and Dr. Barnes; which is like the difference
 between Huxley and Haeckel.  Everybody would be better and happier
@@ -170,7 +170,7 @@ Science is the study of the admitted laws of existence; it cannot prove
 a universal negative about whether those laws could ever be suspended
 by something admittedly above them.  It is as if we were to say
 that a lawyer was so deeply learned in the American Constitution
-that he knew there could never be a revolution in [[America]].
+that he knew there could never be a revolution in [[america|America]].
 Or it is as if a man were to say he was so close a student of the text
 of [[Hamlet]] that he was authorised to deny that an actor had dropped
 the skull and bolted when the theatre caught [[Fire|fire]].  The constitution

@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 35 (part 2)"
+title: "Oliver Twist — Chapter 35 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_35/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_35/part_03">part 03 ›</a></div>
 </nav>
 
+
+“A few—a very few—will suffice, [[Rose]],” said the young man, drawing his
+chair towards her. “What I shall have to say, has already presented
+itself to your mind; the most cherished hopes of my heart are not
+unknown to you, though from my lips you have not heard them stated.”
 
 [[Rose]] had been very pale from the moment of his entrance; but that might
 have been the effect of her recent illness. She merely bowed; and
@@ -123,15 +128,3 @@ rejoined [[Rose]], “I could have—”
 
 “Have received this declaration very differently?” said Harry. “Do not
 conceal that from me, at least, [[Rose]].”
-
-“I could,” said [[Rose]]. “Stay!” she added, disengaging her hand, “why
-should we prolong this painful interview? Most painful to me, and yet
-productive of lasting happiness, notwithstanding; for it _will_ be
-happiness to know that I once held the high place in your regard which
-I now occupy, and every triumph you achieve in life will animate me
-with new fortitude and firmness. Farewell, Harry! As we have met
-today, we meet no more; but in other relations than those in which
-this conversation have placed us, we may be long and happily entwined;
-and may every blessing that the prayers of a true and earnest heart can
-call down from the source of all [[Truth|truth]] and sincerity, cheer and prosper
-you!”

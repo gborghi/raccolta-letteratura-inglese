@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 16 (part 2)"
+title: "The Tenant of Wildfell Hall — Chapter 16 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_16/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_16/part_03">part 03 ›</a></div>
 </nav>
 
+
+_matrimony is a serious thing_.” And she spoke it _so_ seriously, that
+
+one might have fancied she had known it to her cost; but I asked no
+
+more impertinent questions, and merely answered,—
+
+
+
+“I know it is; and I know there is [[Truth|truth]] and sense in what you say; but
 
 you need not [[Fear|fear]] me, for I not only should think it _wrong_ to marry a
 
@@ -195,21 +205,3 @@ shortly after, they both came up, and she introduced him as Mr.
 Huntingdon, the son of a late friend of my uncle’s. He asked me to
 
 [[Dance|dance]]. I gladly consented, of course; and he was my companion during
-
-the remainder of my stay, which was not long, for my aunt, as usual,
-
-insisted upon an early departure.
-
-
-
-I was sorry to go, for I had found my new acquaintance a very lively
-
-and entertaining companion. There was a certain graceful ease and
-
-[[Freedom|freedom]] about all he said and did, that gave a sense of repose and
-
-expansion to the mind, after so much constraint and formality as I had
-
-been doomed to suffer. There might be, it is true, a little too much
-
-careless boldness in his manner and address, but I was in so good a

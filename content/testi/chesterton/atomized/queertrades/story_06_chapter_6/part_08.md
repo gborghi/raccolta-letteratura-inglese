@@ -1,5 +1,5 @@
 ---
-title: "[[queertrades]] — Chapter 6 (part 8)"
+title: "queertrades — Chapter 6 (part 8)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/queertrades-(chesterton)"

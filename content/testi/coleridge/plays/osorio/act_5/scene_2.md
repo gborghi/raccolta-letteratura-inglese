@@ -1,5 +1,5 @@
 ---
-title: "[[OSORIO]] — Act V, Scene 2"
+title: "OSORIO — Act V, Scene 2"
 author: "Coleridge"
 unitType: scene
 parentWork: "works/osorio-(coleridge)"

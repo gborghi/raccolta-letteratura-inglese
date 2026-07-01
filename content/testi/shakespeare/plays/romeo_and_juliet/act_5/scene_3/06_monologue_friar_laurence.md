@@ -1,5 +1,5 @@
 ---
-title: "[[Romeo]] and [[Juliet]] — Act V, Scene 3 — monologue ([[Friar Laurence|FRIAR LAURENCE]]) [6]"
+title: "Romeo and Juliet — Act V, Scene 3 — monologue (FRIAR LAURENCE) [6]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/romeo-and-juliet-(shakespeare)"

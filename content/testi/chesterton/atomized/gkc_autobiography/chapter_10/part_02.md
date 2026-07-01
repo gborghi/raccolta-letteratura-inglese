@@ -1,5 +1,5 @@
 ---
-title: "[[GKC-Autobiography]] — Chapter 10 (part 2)"
+title: "GKC-Autobiography — Chapter 10 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/gkc-autobiography-(chesterton)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_10/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_10/part_03">part 03 ›</a></div>
 </nav>
 
+
+  We were young, we were merry, we were very very wise
+  And the doors stood open at our feast;
+  When there passed us a woman with the west in her eyes
+  And a man with his back to the east.
 
 Needless to say, however, his hospitality terminated with a magnificent
 feast with wine, and all ended in a glow of gaiety; but there

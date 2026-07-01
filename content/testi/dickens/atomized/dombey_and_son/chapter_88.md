@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 32"
+title: "Dombey and Son — Chapter 60"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,796 +14,567 @@ tags:
 </nav>
 
 
-CHAPTER XXXII.
-The Wooden Midshipman goes to Pieces
+CHAPTER LX.
+Chiefly Matrimonial
 
 
-Honest [[Captain Cuttle]], as the weeks flew over him in his fortified
-retreat, by no means abated any of his prudent provisions against
-surprise, because of the non-appearance of the enemy. The Captain
-argued that his present security was too profound and wonderful to
-endure much longer; he knew that when the [[Wind|wind]] stood in a fair quarter,
-the weathercock was seldom nailed there; and he was too [[Well|well]] acquainted
-with the determined and dauntless character of Mrs MacStinger, to [[Doubt|doubt]]
-that that heroic woman had devoted herself to the task of his discovery
-and capture. Trembling beneath the weight of these reasons, Captain
-Cuttle lived a very close and retired life; seldom stirring abroad
-until after dark; venturing even then only into the obscurest streets;
-never going forth at all on Sundays; and both within and without the
-walls of his retreat, avoiding bonnets, as if they were worn by raging
-lions.
+The grand half-yearly festival holden by Doctor and Mrs Blimber, on
+which occasion they requested the pleasure of the company of every
+young gentleman pursuing his studies in that genteel establishment, at
+an early party, when the hour was half-past seven o’[[Clock|clock]], and when the
+object was quadrilles, had duly taken place, about this [[Time|time]]; and the
+young gentlemen, with no unbecoming demonstrations of levity, had
+betaken themselves, in a state of scholastic repletion, to their own
+homes. Mr Skettles had repaired abroad, permanently to grace the
+establishment of his father Sir Barnet Skettles, whose popular manners
+had obtained him a diplomatic appointment, the honours of which were
+discharged by himself and Lady Skettles, to the satisfaction even of
+their own countrymen and countrywomen: which was considered almost
+miraculous. Mr Tozer, now a young man of lofty stature, in Wellington
+boots, was so extremely full of antiquity as to be nearly on a par with
+a genuine ancient Roman in his knowledge of English: a triumph that
+affected his good parents with the tenderest emotions, and caused the
+father and mother of Mr Briggs (whose learning, like ill-arranged
+luggage, was so tightly packed that he couldn’t get at anything he
+wanted) to hide their diminished heads. The fruit laboriously gathered
+from the tree of knowledge by this latter young gentleman, in fact, had
+been subjected to so much pressure, that it had become a kind of
+intellectual Norfolk Biffin, and had nothing of its original form or
+flavour remaining. Master Bitherstone now, on whom the forcing system
+had the happier and not uncommon effect of leaving no impression
+whatever, when the forcing apparatus ceased to work, was in a much more
+comfortable plight; and being then on shipboard, bound for Bengal,
+found himself forgetting, with such admirable rapidity, that it was
+doubtful whether his declensions of noun-substantives would hold out to
+the end of the voyage.
 
-The Captain never dreamed that in the event of his being pounced upon
-by Mrs MacStinger, in his walks, it would be possible to offer
-resistance. He felt that it could not be done. He saw himself, in his
-mind’s eye, put meekly in a hackney-coach, and carried off to his old
-lodgings. He foresaw that, once immured there, he was a lost man: his
-hat gone; Mrs MacStinger watchful of him day and [[Night|night]]; reproaches
-heaped upon his head, before the infant family; himself the guilty
-object of suspicion and distrust; an ogre in the children’s eyes, and
-in their mother’s a detected traitor.
+When Doctor Blimber, in pursuance of the usual course, would have said
+to the young gentlemen, on the morning of the party, “Gentlemen, we
+will resume our studies on the twenty-fifth of next month,” he departed
+from the usual course, and said, “Gentlemen, when our friend
+Cincinnatus retired to his farm, he did not present to the senate any
+Roman who he sought to nominate as his successor. But there is a Roman
+here,” said Doctor Blimber, laying his hand on the shoulder of Mr
+Feeder, B.A., “adolescens imprimis gravis et doctus, gentlemen, whom I,
+a retiring Cincinnatus, wish to present to my little senate, as their
+future Dictator. Gentlemen, we will resume our studies on the
+twenty-fifth of next month, under the auspices of Mr Feeder, B.A.” At
+this (which Doctor Blimber had previously called upon all the parents,
+and urbanely explained), the young gentlemen cheered; and Mr Tozer, on
+behalf of the rest, instantly presented the Doctor with a silver
+inkstand, in a speech containing very little of the mother-tongue, but
+fifteen quotations from the Latin, and seven from the Greek, which
+moved the younger of the young gentlemen to discontent and envy: they
+remarking, “Oh, ah. It was all very [[Well|well]] for old Tozer, but they didn’t
+subscribe money for old Tozer to show off with, they supposed; did
+they? What business was it of old Tozer’s more than anybody else’s? It
+wasn’t his inkstand. Why couldn’t he leave the boys’ property [[Alone|alone]]?”
+and murmuring other expressions of their dissatisfaction, which seemed
+to find a greater relief in calling him old Tozer, than in any other
+available vent.
 
-A violent perspiration, and a lowness of spirits, always came over the
-Captain as this gloomy picture presented itself to his [[Imagination|imagination]]. It
-generally did so previous to his stealing out of doors at [[Night|night]] for air
-and exercise. Sensible of the risk he ran, the Captain took leave of
-Rob, at those times, with the solemnity which became a man who might
-never return: exhorting him, in the event of his (the Captain’s) being
-lost sight of, for a [[Time|time]], to tread in the paths of virtue, and keep
-the brazen instruments [[Well|well]] polished.
+Not a word had been said to the young gentlemen, nor a hint dropped, of
+anything like a contemplated [[Marriage|marriage]] between Mr Feeder, B.A., and the
+fair Cornelia Blimber. Doctor Blimber, especially, seemed to take pains
+to look as if nothing would surprise him more; but it was perfectly
+[[Well|well]] known to all the young gentlemen nevertheless, and when they
+departed for the society of their relations and friends, they took
+leave of Mr Feeder with awe.
 
-But not to throw away a chance; and to secure to himself a means, in
-case of the worst, of holding communication with the external world;
-[[Captain Cuttle]] soon conceived the happy idea of teaching Rob the
-Grinder some secret signal, by which that adherent might make his
-presence and fidelity known to his commander, in the hour of adversity.
-After much cogitation, the Captain decided in favour of instructing him
-to whistle the marine melody, “Oh cheerily, cheerily!” and Rob the
-Grinder attaining a point as near perfection in that accomplishment as
-a landsman could [[Hope|hope]] to reach, the Captain impressed these mysterious
-instructions on his mind:
+Mr Feeder’s most romantic visions were fulfilled. The Doctor had
+determined to paint the [[house]] outside, and put it in thorough repair;
+and to give up the business, and to give up Cornelia. The painting and
+repairing began upon the very day of the young gentlemen’s departure,
+and now behold! the wedding morning was come, and Cornelia, in a new
+pair of spectacles, was waiting to be led to the hymeneal altar.
 
-“Now, my lad, stand by! If ever I’m took—”
+The Doctor with his learned legs, and Mrs Blimber in a lilac bonnet,
+and Mr Feeder, B.A., with his long knuckles and his bristly head of
+hair, and Mr Feeder’s brother, the Reverend Alfred Feeder, M.A., who
+was to perform the ceremony, were all assembled in the drawing-room,
+and Cornelia with her orange-[[Flowers|flowers]] and bridesmaids had just come
+down, and looked, as of old, a little squeezed in appearance, but very
+charming, when the door opened, and the weak-eyed young man, in a loud
+voice, made the following proclamation:
 
-“Took, Captain!” interposed Rob, with his round eyes wide open.
+“MR AND MRS TOOTS!”
 
-“Ah!” said [[Captain Cuttle]] darkly, “if ever I goes away, meaning to come
-back to supper, and don’t come within hail again, twenty-four hours
-arter my loss, go you to Brig Place and whistle that “ere tune near my
-old moorings—not as if you was a meaning of it, you understand, but as
-if you’d drifted there, promiscuous. If I answer in that tune, you
-sheer off, my lad, and come back four-and-twenty hours arterwards; if I
-answer in another tune, do you stand off and on, and wait till I throw
-out further signals. Do you understand them orders, now?”
 
-“What am I to stand off and on of, Captain?” inquired Rob. “The
-[[Horse|horse]]-[[Road|road]]?”
+Upon which there entered Mr Toots, grown extremely stout, and on his
+arm a lady very handsomely and becomingly dressed, with very bright
+black eyes.
 
-“Here’s a smart lad for you!” cried the Captain eyeing him sternly, “as
-don’t know his own native alphabet! Go away a bit and come back again
-alternate—d’ye understand that?”
+“Mrs Blimber,” said Mr Toots, “allow me to present my wife.”
 
-“Yes, Captain,” said Rob.
+Mrs Blimber was delighted to receive her. Mrs Blimber was a little
+condescending, but extremely kind.
 
-“Very good my lad, then,” said the Captain, relenting. “Do it!”
+“And as you’ve known me for a long [[Time|time]], you know,” said Mr Toots, “let
+me assure you that she is one of the most remarkable women that ever
+lived.”
 
-That he might do it the better, [[Captain Cuttle]] sometimes condescended,
-of an evening after the shop was shut, to rehearse this scene: retiring
-into the parlour for the purpose, as into the lodgings of a
-supposititious MacStinger, and carefully observing the behaviour of his
-ally, from the hole of espial he had cut in the wall. Rob the Grinder
-discharged himself of his duty with so much exactness and judgment,
-when thus put to the proof, that the Captain presented him, at divers
-times, with seven sixpences, in token of satisfaction; and gradually
-felt stealing over his spirit the [[Resignation|resignation]] of a man who had made
-provision for the worst, and taken every reasonable precaution against
-an unrelenting fate.
+“My dear!” remonstrated Mrs Toots.
 
-Nevertheless, the Captain did not tempt ill-fortune, by being a whit
-more venturesome than before. Though he considered it a point of good
-breeding in himself, as a general friend of the family, to attend Mr
-Dombey’s wedding (of which he had heard from Mr Perch), and to show
-that gentleman a pleasant and approving countenance from the gallery,
-he had repaired to the church in a hackney cabriolet with both windows
-up; and might have scrupled even to make that venture, in his dread of
-Mrs MacStinger, but that the lady’s attendance on the ministry of the
-Reverend Melchisedech rendered it peculiarly unlikely that she would be
-found in communion with the Establishment.
+“Upon my word and [[Honour|honour]] she is,” said Mr Toots. “I—I assure you, Mrs
+Blimber, she’s a most extraordinary woman.”
 
-The Captain got safe [[Home|home]] again, and fell into the ordinary routine of
-his new life, without encountering any more direct alarm from the
-enemy, than was suggested to him by the daily bonnets in the street.
-But other subjects began to lay heavy on the Captain’s mind. Walter’s
-[[Ship|ship]] was still unheard of. No news came of old Sol Gills. Florence did
-not even know of the old man’s disappearance, and [[Captain Cuttle]] had
-not the heart to tell her. Indeed the Captain, as his own hopes of the
-generous, handsome, gallant-hearted youth, whom he had loved, according
-to his rough manner, from a [[Child|child]], began to fade, and faded more and
-more from day to day, shrunk with instinctive [[Pain|pain]] from the thought of
-exchanging a word with Florence. If he had had good news to carry to
-her, the honest Captain would have braved the newly decorated [[house]] and
-splendid furniture—though these, connected with the lady he had seen at
-church, were awful to him—and made his way into her presence. With a
-dark horizon gathering around their common hopes, however, that
-darkened every hour, the Captain almost felt as if he were a new
-misfortune and affliction to her; and was scarcely less afraid of a
-visit from Florence, than from Mrs MacStinger herself.
+Mrs Toots laughed merrily, and Mrs Blimber led her to Cornelia. Mr
+Toots having paid his respects in that direction and having saluted his
+old preceptor, who said, in allusion to his conjugal state, “[[Well]],
+Toots, [[Well|well]], Toots! So you are one of us, are you, Toots?”—retired with
+Mr Feeder, B.A., into a [[Window|window]].
 
-It was a chill dark [[Autumn|autumn]] evening, and [[Captain Cuttle]] had ordered a
-[[Fire|fire]] to be kindled in the little back parlour, now more than ever like
-the cabin of a [[Ship|ship]]. The rain fell fast, and the [[Wind|wind]] blew hard; and
-straying out on the [[house]]-top by that stormy bedroom of his old friend,
-to take an observation of the weather, the Captain’s heart died within
-him, when he saw how wild and desolate it was. Not that he associated
-the weather of that [[Time|time]] with poor Walter’s destiny, or doubted that if
-[[Providence]] had doomed him to be lost and shipwrecked, it was over, long
-ago; but that beneath an outward influence, quite distinct from the
-subject-matter of his thoughts, the Captain’s spirits sank, and his
-hopes turned pale, as those of wiser men had often done before him, and
-will often do again.
+Mr Feeder, B.A., being in great spirits, made a spar at Mr Toots, and
+tapped him skilfully with the back of his hand on the breastbone.
 
-[[Captain Cuttle]], addressing his face to the sharp [[Wind|wind]] and slanting
-rain, looked up at the heavy scud that was flying fast over the
-wilderness of [[house]]-tops, and looked for something cheery there in
-vain. The prospect near at hand was no better. In sundry tea-chests and
-other rough boxes at his feet, the pigeons of Rob the Grinder were
-cooing like so many dismal breezes getting up. A crazy weathercock of a
-midshipman, with a telescope at his eye, once visible from the street,
-but long bricked out, creaked and complained upon his rusty pivot as
-the shrill blast spun him round and round, and sported with him
-cruelly. Upon the Captain’s coarse blue vest the cold raindrops started
-like steel beads; and he could hardly maintain himself aslant against
-the stiff Nor’-Wester that came pressing against him, importunate to
-topple him over the parapet, and throw him on the pavement below. If
-there were any [[Hope]] alive that evening, the Captain thought, as he held
-his hat on, it certainly kept [[house]], and wasn’t out of doors; so the
-Captain, shaking his head in a despondent manner, went in to look for
-it.
+“[[Well]], old Buck!” said Mr Feeder with a laugh. “[[Well]]! Here we are!
+Taken in and done for. Eh?”
 
-[[Captain Cuttle]] descended slowly to the little back parlour, and, seated
-in his accustomed chair, looked for it in the [[Fire|fire]]; but it was not
-there, though the [[Fire|fire]] was bright. He took out his tobacco-box and
-pipe, and composing himself to smoke, looked for it in the red glow
-from the bowl, and in the wreaths of vapour that curled upward from his
-lips; but there was not so much as an atom of the rust of [[Hope]]’s anchor
-in either. He tried a glass of grog; but [[Melancholy|melancholy]] [[Truth|truth]] was at the
-[[Bottom|bottom]] of that [[Well|well]], and he couldn’t finish it. He made a turn or two
-in the shop, and looked for [[Hope]] among the instruments; but they
-obstinately worked out reckonings for the missing [[Ship|ship]], in spite of any
-opposition he could offer, that ended at the [[Bottom|bottom]] of the lone sea.
+“Feeder,” returned Mr Toots. “I give you joy. If you’re as—as—as
+perfectly blissful in a matrimonial life, as I am myself, you’ll have
+nothing to [[Desire|desire]].”
 
-The [[Wind|wind]] still rushing, and the rain still pattering, against the
-closed shutters, the Captain brought to before the wooden Midshipman
-upon the counter, and thought, as he dried the little officer’s uniform
-with his sleeve, how many years the Midshipman had seen, during which
-few changes—hardly any—had transpired among his [[Ship|ship]]’s company; how the
-changes had come all together, one day, as it might be; and of what a
-sweeping kind they were. Here was the little society of the back
-parlour broken up, and scattered far and wide. Here was no audience for
-Lovely Peg, even if there had been anybody to sing it, which there was
-not; for the Captain was as morally certain that nobody but he could
-execute that ballad, as he was that he had not the spirit, under
-existing circumstances, to attempt it. There was no bright face of
-“Wal”r” in the [[house]];—here the Captain transferred his sleeve for a
-moment from the Midshipman’s uniform to his own cheek;—the familiar wig
-and buttons of Sol Gills were a vision of the past; [[Richard]] Whittington
-was knocked on the head; and every plan and project in connexion with
-the Midshipman, lay drifting, without mast or rudder, on the waste of
-waters.
+“I don’t forget my old friends, you see,” said Mr Feeder. “I ask em to
+my wedding, Toots.”
 
-As the Captain, with a dejected face, stood revolving these thoughts,
-and polishing the Midshipman, partly in the tenderness of old
-acquaintance, and partly in the absence of his mind, a knocking at the
-shop-door communicated a frightful start to the frame of Rob the
-Grinder, seated on the counter, whose large eyes had been intently
-fixed on the Captain’s face, and who had been debating within himself,
-for the five hundredth [[Time|time]], whether the Captain could have done a
-murder, that he had such an evil [[Conscience|conscience]], and was always running
-away.
+“Feeder,” replied Mr Toots gravely, “the fact is, that there were
+several circumstances which prevented me from communicating with you
+until after my [[Marriage|marriage]] had been solemnised. In the first place, I had
+made a perfect brute of myself to you, on the subject of Miss Dombey;
+and I felt that if you were asked to any wedding of mine, you would
+naturally expect that it was with Miss Dombey, which involved
+explanations, that upon my word and [[Honour|honour]], at that crisis, would have
+knocked me completely over. In the second place, our wedding was
+strictly private; there being nobody present but one friend of myself
+and Mrs Toots’s, who is a Captain in—I don’t exactly know in what,”
+said Mr Toots, “but it’s of no consequence. I [[Hope|hope]], Feeder, that in
+writing a statement of what had occurred before Mrs Toots and myself
+went abroad upon our foreign tour, I fully discharged the offices of
+[[Friendship|friendship]].”
 
-“What’s that?” said [[Captain Cuttle]], softly.
+“Toots, my boy,” said Mr Feeder, shaking his hands, “I was joking.”
 
-“Somebody’s knuckles, Captain,” answered Rob the Grinder.
+“And now, Feeder,” said Mr Toots, “I should be glad to know what you
+think of my [[Union|union]].”
 
-The Captain, with an abashed and guilty air, immediately walked on
-tiptoe to the little parlour and locked himself in. Rob, opening the
-door, would have parleyed with the visitor on the threshold if the
-visitor had come in female guise; but the figure being of the male sex,
-and Rob’s orders only applying to women, Rob held the door open and
-allowed it to enter: which it did very quickly, glad to get out of the
-driving rain.
+“Capital!” returned Mr Feeder.
 
-“A job for Burgess and Co. at any rate,” said the visitor, looking over
-his shoulder compassionately at his own legs, which were very wet and
-covered with splashes. “Oh, how-de-do, Mr Gills?”
+“You think it’s capital, do you, Feeder?” said Mr Toots solemnly. “Then
+how capital must it be to Me! For you can never know what an
+extraordinary woman that is.”
 
-The salutation was addressed to the Captain, now emerging from the back
-parlour with a most transparent and utterly futile affectation of
-coming out by accidence.
+Mr Feeder was willing to take it for granted. But Mr Toots shook his
+head, and wouldn’t hear of that being possible.
 
-“Thankee,” the gentleman went on to say in the same breath; “I’m very
-[[Well|well]] indeed, myself, I’m much obliged to you. My name is Toots,—Mister
-Toots.”
+“You see,” said Mr Toots, “what I wanted in a wife was—in short, was
+sense. Money, Feeder, I had. Sense I—I had not, particularly.”
 
-The Captain remembered to have seen this young gentleman at the
-wedding, and made him a bow. Mr Toots replied with a chuckle; and being
-embarrassed, as he generally was, breathed hard, shook hands with the
-Captain for a long [[Time|time]], and then falling on Rob the Grinder, in the
-absence of any other resource, shook hands with him in a most
-affectionate and cordial manner.
+Mr Feeder murmured, “Oh, yes, you had, Toots!” But Mr Toots said:
 
-“I say! I should like to speak a word to you, Mr Gills, if you please,”
-said Toots at length, with surprising presence of mind. “I say! Miss
-D.O.M. you know!”
+“No, Feeder, I had not. Why should I disguise it? I had not. I knew
+that sense was There,” said Mr Toots, stretching out his hand towards
+his wife, “in perfect heaps. I had no relation to object or be
+offended, on the score of station; for I had no relation. I have never
+had anybody belonging to me but my guardian, and him, Feeder, I have
+always considered as a Pirate and a Corsair. Therefore, you know it was
+not likely,” said Mr Toots, “that I should take his opinion.”
 
-The Captain, with responsive gravity and mystery, immediately waved his
-hook towards the little parlour, whither Mr Toots followed him.
+“No,” said Mr Feeder.
 
-“Oh! I beg your pardon though,” said Mr Toots, looking up in the
-Captain’s face as he sat down in a chair by the [[Fire|fire]], which the Captain
-placed for him; “you don’t happen to know the Chicken at all; do you,
-Mr Gills?”
+“Accordingly,” resumed Mr Toots, “I acted on my own. Bright was the day
+on which I did so! Feeder! Nobody but myself can tell what the capacity
+of that woman’s mind is. If ever the Rights of Women, and all that kind
+of thing, are properly attended to, it will be through her powerful
+intellect—Susan, my dear!” said Mr Toots, looking abruptly out of the
+windows “pray do not exert yourself!”
 
-“The Chicken?” said the Captain.
+“My dear,” said Mrs Toots, “I was only talking.”
 
-“The Game Chicken,” said Mr Toots.
+“But, my [[Love|love]],” said Mr Toots, “pray do not exert yourself. You really
+must be careful. Do not, my dear Susan, exert yourself. She’s so easily
+excited,” said Mr Toots, apart to Mrs Blimber, “and then she forgets
+the medical man altogether.”
 
-The Captain shaking his head, Mr Toots explained that the man alluded
-to was the celebrated public character who had covered himself and his
-country with glory in his contest with the Nobby Shropshire One; but
-this piece of information did not appear to enlighten the Captain very
-much.
+Mrs Blimber was impressing on Mrs Toots the necessity of caution, when
+Mr Feeder, B.A., offered her his arm, and led her down to the carriages
+that were waiting to go to church. Doctor Blimber escorted Mrs Toots.
+Mr Toots escorted the fair bride, around whose lambent spectacles two
+gauzy little bridesmaids fluttered like moths. Mr Feeder’s brother, Mr
+Alfred Feeder, M.A., had already gone on, in advance, to assume his
+official functions.
 
-“Because he’s outside: that’s all,” said Mr Toots. “But it’s of no
-consequence; he won’t get very wet, perhaps.”
+The ceremony was performed in an admirable manner. Cornelia, with her
+crisp little curls, “went in,” as the Chicken might have said, with
+great composure; and Doctor Blimber gave her away, like a man who had
+quite made up his mind to it. The gauzy little bridesmaids appeared to
+suffer most. Mrs Blimber was affected, but gently so; and told the
+Reverend Mr Alfred Feeder, M.A., on the way [[Home|home]], that if she could
+only have seen Cicero in his retirement at Tusculum, she would not have
+had a wish, now, ungratified.
 
-“I can pass the word for him in a moment,” said the Captain.
+There was a breakfast afterwards, limited to the same small party; at
+which the spirits of Mr Feeder, B.A., were tremendous, and so
+communicated themselves to Mrs Toots that Mr Toots was several times
+heard to observe, across the table, “My dear Susan, don’t exert
+yourself!” The best of it was, that Mr Toots felt it incumbent on him
+to make a speech; and in spite of a whole code of telegraphic
+dissuasions from Mrs Toots, appeared on his legs for the first [[Time|time]] in
+his life.
 
-“[[Well]], if you would have the goodness to let him sit in the shop with
-your young man,” chuckled Mr Toots, “I should be glad; because, you
-know, he’s easily offended, and the damp’s rather bad for his stamina.
-I’ll call him in, Mr Gills.”
+“I really,” said Mr Toots, “in this [[house]], where whatever was done to
+me in the way of—of any mental confusion sometimes—which is of no
+consequence and I impute to nobody—I was always treated like one of
+Doctor Blimber’s family, and had a desk to myself for a considerable
+period—can—not—allow—my friend Feeder to be—”
+
+Mrs Toots suggested “married.”
+
+“It may not be inappropriate to the occasion, or altogether
+uninteresting,” said Mr Toots with a delighted face, “to observe that
+my wife is a most extraordinary woman, and would do this much better
+than myself—allow my friend Feeder to be married—especially to—”
+
+Mrs Toots suggested “to Miss Blimber.”
+
+“To Mrs Feeder, my [[Love|love]]!” said Mr Toots, in a subdued tone of private
+discussion: ‘“whom God hath joined,’ you know, ‘let no man’—don’t you
+know? I cannot allow my friend Feeder to be married—especially to Mrs
+Feeder—without proposing their—their—Toasts; and may,” said Mr Toots,
+fixing his eyes on his wife, as if for inspiration in a high flight,
+“may the torch of Hymen be the beacon of joy, and may the [[Flowers|flowers]] we
+have this day strewed in their path, be the—the banishers of—of gloom!”
+
+Doctor Blimber, who had a taste for metaphor, was pleased with this,
+and said, “Very good, Toots! Very [[Well|well]] said, indeed, Toots!” and nodded
+his head and patted his hands. Mr Feeder made in reply, a comic speech
+chequered with sentiment. Mr Alfred Feeder, M.A., was afterwards very
+happy on Doctor and Mrs Blimber; Mr Feeder, B.A., scarcely less so, on
+the gauzy little bridesmaids. Doctor Blimber then, in a sonorous voice,
+delivered a few thoughts in the [[Pastoral|pastoral]] style, relative to the rushes
+among which it was the intention of himself and Mrs Blimber to dwell,
+and the bee that would hum around their cot. Shortly after which, as
+the Doctor’s eyes were twinkling in a remarkable manner, and his
+son-in-law had already observed that [[Time|time]] was made for slaves, and had
+inquired whether Mrs Toots sang, the discreet Mrs Blimber dissolved the
+sitting, and sent Cornelia away, very cool and comfortable, in a
+post-chaise, with the man of her heart.
+
+Mr and Mrs Toots withdrew to the Bedford (Mrs Toots had been there
+before in old times, under her maiden name of Nipper), and there found
+a letter, which it took Mr Toots such an enormous [[Time|time]] to read, that
+Mrs Toots was frightened.
+
+“My dear Susan,” said Mr Toots, “fright is worse than exertion. Pray be
+calm!”
+
+“Who is it from?” asked Mrs Toots.
+
+“Why, my [[Love|love]],” said Mr Toots, “it’s from Captain Gills. Do not excite
+yourself. Walters and Miss Dombey are expected [[Home|home]]!”
+
+“My dear,” said Mrs Toots, raising herself quickly from the sofa, very
+pale, “don’t try to deceive me, for it’s no use, they’re come [[Home|home]]—I
+see it plainly in your face!”
+
+“She’s a most extraordinary woman!” exclaimed Mr Toots, in rapturous
+admiration. “You’re perfectly right, my [[Love|love]], they have come [[Home|home]]. Miss
+Dombey has seen her father, and they are reconciled!”
+
+“Reconciled!” cried Mrs Toots, clapping her hands.
+
+“My dear,” said Mr Toots; “pray do not exert yourself. Do remember the
+medical man! Captain Gills says—at least he don’t say, but I imagine,
+from what I can make out, he means—that Miss Dombey has brought her
+unfortunate father away from his old [[house]], to one where she and
+Walters are living; that he is lying very ill there—supposed to be
+dying; and that she attends upon him [[Night|night]] and day.”
+
+Mrs Toots began to cry quite bitterly.
+
+“My dearest Susan,” replied Mr Toots, “do, do, if you possibly can,
+remember the medical man! If you can’t, it’s of no consequence—but do
+endeavour to!”
+
+His wife, with her old manner suddenly restored, so pathetically
+entreated him to take her to her precious pet, her little mistress, her
+own darling, and the like, that Mr Toots, whose sympathy and admiration
+were of the strongest kind, consented from his very heart of hearts;
+and they agreed to depart immediately, and present themselves in answer
+to the Captain’s letter.
+
+Now some hidden sympathies of things, or some coincidences, had that
+day brought the Captain himself (toward whom Mr and Mrs Toots were soon
+journeying) into the flowery train of wedlock; not as a principal, but
+as an accessory. It happened accidentally, and thus:
+
+The Captain, having seen Florence and her baby for a moment, to his
+unbounded content, and having had a long talk with Walter, turned out
+for a walk; feeling it necessary to have some solitary meditation on
+the changes of human affairs, and to shake his glazed hat profoundly
+over the fall of Mr Dombey, for whom the generosity and simplicity of
+his [[Nature|nature]] were awakened in a lively manner. The Captain would have
+been very low, indeed, on the unhappy gentleman’s account, but for the
+recollection of the baby; which afforded him such intense satisfaction
+whenever it arose, that he laughed aloud as he went along the street,
+and, indeed, more than once, in a sudden impulse of joy, threw up his
+glazed hat and caught it again; much to the amazement of the
+spectators. The rapid alternations of light and shade to which these
+two conflicting subjects of reflection exposed the Captain, were so
+very trying to his spirits, that he felt a long walk necessary to his
+composure; and as there is a great deal in the influence of harmonious
+associations, he chose, for the scene of this walk, his old
+neighbourhood, down among the mast, oar, and block makers, [[Ship|ship]]-biscuit
+bakers, coal-whippers, pitch-kettles, sailors, canals, docks,
+swing-bridges, and other soothing objects.
+
+These peaceful scenes, and particularly the region of Limehouse Hole
+and thereabouts, were so influential in calming the Captain, that he
+walked on with restored tranquillity, and was, in fact, regaling
+himself, under his breath, with the ballad of Lovely Peg, when, on
+turning a corner, he was suddenly transfixed and rendered speechless by
+a triumphant procession that he beheld advancing towards him.
+
+This awful demonstration was headed by that determined woman Mrs
+MacStinger, who, preserving a countenance of inexorable resolution, and
+wearing conspicuously attached to her obdurate bosom a stupendous watch
+and appendages, which the Captain recognised at a glance as the
+property of Bunsby, conducted under her arm no other than that
+sagacious mariner; he, with the distraught and [[Melancholy|melancholy]] visage of a
+captive borne into a foreign land, meekly resigning himself to her
+will. Behind them appeared the young MacStingers, in a [[Body|body]], exulting.
+Behind them, two ladies of a terrible and steadfast aspect, leading
+between them a short gentleman in a tall hat, who likewise exulted. In
+the wake, appeared Bunsby’s boy, bearing umbrellas. The whole were in
+good marching order; and a dreadful smartness that pervaded the party
+would have sufficiently announced, if the intrepid countenances of the
+ladies had been wanting, that it was a procession of sacrifice, and
+that the victim was Bunsby.
 
 [Illustration]
 
-With that, Mr Toots repairing to the shop-door, sent a peculiar whistle
-into the [[Night|night]], which produced a stoical gentleman in a shaggy white
-great-coat and a flat-brimmed hat, with very short hair, a broken nose,
-and a considerable tract of bare and sterile country behind each ear.
-
-“Sit down, Chicken,” said Mr Toots.
-
-The compliant Chicken spat out some small pieces of straw on which he
-was regaling himself, and took in a fresh supply from a reserve he
-carried in his hand.
-
-“There ain’t no drain of nothing short handy, is there?” said the
-Chicken, generally. “This here sluicing [[Night|night]] is hard lines to a man as
-lives on his condition.”
-
-[[Captain Cuttle]] proffered a glass of rum, which the Chicken, throwing
-back his head, emptied into himself, as into a cask, after proposing
-the brief sentiment, “Towards us!” Mr Toots and the Captain returning
-then to the parlour, and taking their seats before the [[Fire|fire]], Mr Toots
-began:
-
-“Mr Gills—”
-
-“Awast!” said the Captain. “My name’s Cuttle.”
-
-Mr Toots looked greatly disconcerted, while the Captain proceeded
-gravely.
-
-“Cap’en Cuttle is my name, and England is my nation, this here is my
-dwelling-place, and blessed be creation—Job,” said the Captain, as an
-index to his authority.
-
-“Oh! I couldn’t see Mr Gills, could I?” said Mr Toots; “because—”
-
-“If you could see Sol Gills, young gen’l’m’n,” said the Captain,
-impressively, and laying his heavy hand on Mr Toots’s knee, “old Sol,
-mind you—with your own eyes—as you sit there—you’d be welcomer to me,
-than a [[Wind|wind]] astern, to a [[Ship|ship]] becalmed. But you can’t see Sol Gills.
-And why can’t you see Sol Gills?” said the Captain, apprised by the
-face of Mr Toots that he was making a profound impression on that
-gentleman’s mind. “Because he’s inwisible.”
-
-Mr Toots in his agitation was going to reply that it was of no
-consequence at all. But he corrected himself, and said, “Lor bless me!”
-
-“That there man,” said the Captain, “has left me in charge here by a
-piece of writing, but though he was a’most as good as my sworn brother,
-I know no more where he’s gone, or why he’s gone; if so be to seek his
-nevy, or if so be along of being not quite settled in his mind; than
-you do. One morning at daybreak, he went over the side,” said the
-Captain, “without a splash, without a ripple I have looked for that man
-high and low, and never set eyes, nor ears, nor nothing else, upon him
-from that hour.”
-
-“But, good Gracious, Miss Dombey don’t know—” Mr Toots began.
-
-“Why, I ask you, as a feeling heart,” said the Captain, dropping his
-voice, “why should she know? why should she be made to know, until such
-[[Time|time]] as there wam’t any help for it? She took to old Sol Gills, did
-that sweet creetur, with a kindness, with a affability, with a—what’s
-the good of saying so? you know her.”
-
-“I should [[Hope|hope]] so,” chuckled Mr Toots, with a conscious blush that
-suffused his whole countenance.
-
-“And you come here from her?” said the Captain.
-
-“I should think so,” chuckled Mr Toots.
-
-“Then all I need observe, is,” said the Captain, “that you know a
-angel, and are chartered a angel.”
-
-Mr Toots instantly seized the Captain’s hand, and requested the favour
-of his [[Friendship|friendship]].
-
-“Upon my word and [[Honour|honour]],” said Mr Toots, earnestly, “I should be very
-much obliged to you if you’d improve my acquaintance. I should like to
-know you, Captain, very much. I really am in want of a friend, I am.
-Little Dombey was my friend at old Blimber’s, and would have been now,
-if he’d have lived. The Chicken,” said Mr Toots, in a forlorn whisper,
-“is very [[Well|well]]—admirable in his way—the sharpest man perhaps in the
-world; there’s not a move he isn’t up to, everybody says so—but I don’t
-know—he’s not everything. So she is an angel, Captain. If there is an
-angel anywhere, it’s Miss Dombey. That’s what I’ve always said. Really
-though, you know,” said Mr Toots, “I should be very much obliged to you
-if you’d cultivate my acquaintance.”
-
-[[Captain Cuttle]] received this proposal in a polite manner, but still
-without committing himself to its acceptance; merely observing, “Ay,
-ay, my lad. We shall see, we shall see;” and reminding Mr Toots of his
-immediate mission, by inquiring to what he was indebted for the [[Honour|honour]]
-of that visit.
-
-“Why the fact is,” replied Mr Toots, “that it’s the young woman I come
-from. Not Miss Dombey—Susan, you know.
-
-The Captain nodded his head once, with a [[Grave|grave]] expression of face
-indicative of his regarding that young woman with serious respect.
-
-“And I’ll tell you how it happens,” said Mr Toots. “You know, I go and
-call sometimes, on Miss Dombey. I don’t go there on purpose, you know,
-but I happen to be in the neighbourhood very often; and when I find
-myself there, why—why I call.”
-
-“Nat’rally,” observed the Captain.
-
-“Yes,” said Mr Toots. “I called this afternoon. Upon my word and
-[[Honour|honour]], I don’t think it’s possible to form an idea of the angel Miss
-Dombey was this afternoon.”
-
-The Captain answered with a jerk of his head, implying that it might
-not be easy to some people, but was quite so to him.
-
-“As I was coming out,” said Mr Toots, “the young woman, in the most
-unexpected manner, took me into the pantry.”
-
-The Captain seemed, for the moment, to object to this proceeding; and
-leaning back in his chair, looked at Mr Toots with a distrustful, if
-not threatening visage.
-
-“Where she brought out,” said Mr Toots, “this newspaper. She told me
-that she had kept it from Miss Dombey all day, on account of something
-that was in it, about somebody that she and Dombey used to know; and
-then she read the passage to me. Very [[Well|well]]. Then she said—wait a
-minute; what was it she said, though!”
-
-Mr Toots, endeavouring to concentrate his mental powers on this
-question, unintentionally fixed the Captain’s eye, and was so much
-discomposed by its stern expression, that his difficulty in resuming
-the thread of his subject was enhanced to a painful extent.
-
-“Oh!” said Mr Toots after long consideration. “Oh, ah! Yes! She said
-that she hoped there was a bare possibility that it mightn’t be true;
-and that as she couldn’t very [[Well|well]] come out herself, without surprising
-Miss Dombey, would I go down to Mr [[Solomon Gills]] the Instrument-maker’s
-in this street, who was the party’s Uncle, and ask whether he believed
-it was true, or had heard anything else in the [[City]]. She said, if he
-couldn’t speak to me, no [[Doubt|doubt]] [[Captain Cuttle]] could. By the bye!” said
-Mr Toots, as the discovery flashed upon him, “you, you know!”
-
-The Captain glanced at the newspaper in Mr Toots’s hand, and breathed
-short and hurriedly.
-
-“[[Well]],” pursued Mr Toots, “the reason why I’m rather late is, because I
-went up as far as Finchley first, to get some uncommonly fine chickweed
-that grows there, for Miss Dombey’s bird. But I came on here, directly
-afterwards. You’ve seen the paper, I suppose?”
-
-The Captain, who had become cautious of reading the news, lest he
-should find himself advertised at full length by Mrs MacStinger, shook
-his head.
-
-“Shall I read the passage to you?” inquired Mr Toots.
-
-The Captain making a sign in the affirmative, Mr Toots read as follows,
-from the Shipping Intelligence:
-
-“‘Southampton. The barque Defiance, Henry James, Commander, arrived in
-this port today, with a cargo of sugar, coffee, and rum, reports that
-being becalmed on the sixth day of her passage [[Home|home]] from Jamaica,
-in’—in such and such a latitude, you know,” said Mr Toots, after making
-a feeble dash at the figures, and tumbling over them.
-
-“Ay!” cried the Captain, striking his clenched hand on the table.
-“Heave ahead, my lad!”
-
-“—latitude,” repeated Mr Toots, with a startled glance at the Captain,
-“and longitude so-and-so,—‘the look-out observed, half an hour before
-sunset, some fragments of a wreck, drifting at about the distance of a
-mile. The weather being clear, and the barque making no way, a boat was
-hoisted out, with orders to inspect the same, when they were found to
-consist of sundry large spars, and a part of the main rigging of an
-English brig, of about five hundred tons burden, together with a
-portion of the stem on which the words and letters “Son and H-” were
-yet plainly legible. No vestige of any dead [[Body|body]] was to be seen upon
-the floating fragments. Log of the Defiance states, that a breeze
-springing up in the [[Night|night]], the wreck was seen no more. There can be no
-[[Doubt|doubt]] that all surmises as to the fate of the missing vessel, the Son
-and Heir, port of [[London]], bound for Barbados, are now set at rest for
-ever; that she broke up in the last hurricane; and that every [[Soul|soul]] on
-board perished.’”
-
-[[Captain Cuttle]], like all mankind, little knew how much [[Hope|hope]] had
-survived within him under discouragement, until he felt its
-[[Death|death]]-shock. During the reading of the paragraph, and for a minute or
-two afterwards, he sat with his gaze fixed on the modest Mr Toots, like
-a man entranced; then, suddenly rising, and putting on his glazed hat,
-which, in his visitor’s [[Honour|honour]], he had laid upon the table, the Captain
-turned his back, and bent his head down on the little chimneypiece.
-
-“Oh” upon my word and [[Honour|honour]],” cried Mr Toots, whose tender heart was
-moved by the Captain’s unexpected distress, “this is a most wretched
-sort of affair this world is! Somebody’s always dying, or going and
-doing something uncomfortable in it. I’m sure I never should have
-looked forward so much, to coming into my property, if I had known
-this. I never saw such a world. It’s a great deal worse than
-Blimber’s.”
-
-[[Captain Cuttle]], without altering his position, signed to Mr Toots not
-to mind him; and presently turned round, with his glazed hat thrust
-back upon his ears, and his hand composing and smoothing his brown
-face.
-
-“Wal”r, my dear lad,” said the Captain, “farewell! Wal”r my [[Child|child]], my
-boy, and man, I loved you! He warn’t my flesh and [[Blood|blood]],” said the
-Captain, looking at the [[Fire|fire]]—“I ain’t got none—but something of what a
-father feels when he loses a son, I feel in losing Wal”r. For why?”
-said the Captain. “Because it ain’t one loss, but a round dozen.
-Where’s that there young school-boy with the rosy face and curly hair,
-that used to be as merry in this here parlour, come round every week,
-as a piece of music? Gone down with Wal”r. Where’s that there fresh
-lad, that nothing couldn’t tire nor put out, and that sparkled up and
-blushed so, when we joked him about Heart’s Delight, that he was
-beautiful to look at? Gone down with Wal”r. Where’s that there man’s
-spirit, all afire, that wouldn’t see the old man hove down for a
-minute, and cared nothing for itself? Gone down with Wal”r. It ain’t
-one Wal”r. There was a dozen Wal”rs that I know’d and loved, all
-holding round his neck when he went down, and they’re a-holding round
-mine now!”
-
-Mr Toots sat silent: folding and refolding the newspaper as small as
-possible upon his knee.
-
-“And Sol Gills,” said the Captain, gazing at the [[Fire|fire]], “poor nevyless
-old Sol, where are you got to! you was left in charge of me; his last
-words was, ‘Take care of my Uncle!’ What came over you, Sol, when you
-went and gave the go-bye to Ned Cuttle; and what am I to put in my
-accounts that he’s a looking down upon, respecting you! Sol Gills, Sol
-Gills!” said the Captain, shaking his head slowly, “catch sight of that
-there newspaper, away from [[Home|home]], with no one as know’d Wal”r by, to say
-a word; and broadside to you broach, and down you pitch, head
-foremost!”
-
-Drawing a heavy sigh, the Captain turned to Mr Toots, and roused
-himself to a sustained consciousness of that gentleman’s presence.
-
-“My lad,” said the Captain, “you must tell the young woman honestly
-that this here fatal news is too correct. They don’t [[Romance|romance]], you see,
-on such pints. It’s entered on the [[Ship|ship]]’s log, and that’s the truest
-book as a man can write. To-morrow morning,” said the Captain, “I’ll
-step out and make inquiries; but they’ll lead to no good. They can’t do
-it. If you’ll give me a look-in in the forenoon, you shall know what I
-have heerd; but tell the young woman from Cap’en Cuttle, that it’s
-over. Over!” And the Captain, hooking off his glazed hat, pulled his
-handkerchief out of the [[Crown|crown]], wiped his grizzled head despairingly,
-and tossed the handkerchief in again, with the indifference of deep
-dejection.
-
-“Oh! I assure you,” said Mr Toots, “really I am dreadfully sorry. Upon
-my word I am, though I wasn’t acquainted with the party. Do you think
-Miss Dombey will be very much affected, Captain Gills—I mean Mr
-Cuttle?”
-
-“Why, Lord [[Love|love]] you,” returned the Captain, with something of
-compassion for Mr Toots’s [[innocence]]. “When she warn’t no higher than
-that, they were as fond of one another as two young doves.”
-
-“Were they though!” said Mr Toots, with a considerably lengthened face.
-
-“They were made for one another,” said the Captain, mournfully; “but
-what signifies that now!”
-
-“Upon my word and [[Honour|honour]],” cried Mr Toots, blurting out his words
-through a singular combination of awkward chuckles and emotion, “I’m
-even more sorry than I was before. You know, Captain Gills, I—I
-positively adore Miss Dombey;—I—I am perfectly sore with loving her;”
-the burst with which this confession forced itself out of the unhappy
-Mr Toots, bespoke the vehemence of his feelings; “but what would be the
-good of my regarding her in this manner, if I wasn’t truly sorry for
-her feeling [[Pain|pain]], whatever was the cause of it. Mine ain’t a selfish
-affection, you know,” said Mr Toots, in the confidence engendered by
-his having been a witness of the Captain’s tenderness. “It’s the sort
-of thing with me, Captain Gills, that if I could be run over—or—or
-trampled upon—or—or thrown off a very high place-or anything of that
-sort—for Miss Dombey’s sake, it would be the most delightful thing that
-could happen to me.”
-
-All this, Mr Toots said in a suppressed voice, to prevent its reaching
-the jealous ears of the Chicken, who objected to the softer emotions;
-which effort of restraint, coupled with the intensity of his feelings,
-made him red to the tips of his ears, and caused him to present such an
-affecting spectacle of disinterested [[Love|love]] to the eyes of Captain
-Cuttle, that the good Captain patted him consolingly on the back, and
-bade him cheer up.
-
-“Thankee, Captain Gills,” said Mr Toots, “it’s kind of you, in the
-midst of your own troubles, to say so. I’m very much obliged to you. As
-I said before, I really want a friend, and should be glad to have your
-acquaintance. Although I am very [[Well|well]] off,” said Mr Toots, with energy,
-“you can’t think what a miserable Beast I am. The hollow crowd, you
-know, when they see me with the Chicken, and characters of distinction
-like that, suppose me to be happy; but I’m wretched. I suffer for Miss
-Dombey, Captain Gills. I can’t get through my meals; I have no pleasure
-in my tailor; I often cry when I’m [[Alone|alone]]. I assure you it’ll be a
-satisfaction to me to come back to-morrow, or to come back fifty
-times.”
-
-Mr Toots, with these words, shook the Captain’s hand; and disguising
-such traces of his agitation as could be disguised on so short a
-notice, before the Chicken’s penetrating glance, rejoined that eminent
-gentleman in the shop. The Chicken, who was apt to be jealous of his
-ascendancy, eyed [[Captain Cuttle]] with anything but favour as he took
-leave of Mr Toots, but followed his patron without being otherwise
-demonstrative of his ill-will: leaving the Captain oppressed with
-sorrow; and Rob the Grinder elevated with joy, on account of having had
-the [[Honour|honour]] of staring for nearly half an hour at the conqueror of the
-Nobby Shropshire One.
-
-Long after Rob was fast asleep in his bed under the counter, the
-Captain sat looking at the [[Fire|fire]]; and long after there was no [[Fire|fire]] to
-look at, the Captain sat gazing on the rusty bars, with unavailing
-thoughts of Walter and old Sol crowding through his mind. Retirement to
-the stormy chamber at the top of the [[house]] brought no rest with it; and
-the Captain [[Rose|rose]] up in the morning, sorrowful and unrefreshed.
-
-As soon as the [[City]] offices were opened, the Captain issued forth to
-the counting-[[house]] of Dombey and Son. But there was no opening of the
-Midshipman’s windows that morning. Rob the Grinder, by the Captain’s
-orders, left the shutters closed, and the [[house]] was as a [[house]] of
-[[Death|death]].
-
-It chanced that Mr Carker was entering the office, as [[Captain Cuttle]]
-arrived at the door. Receiving the Manager’s benison gravely and
-silently, [[Captain Cuttle]] made bold to accompany him into his own room.
-
-“[[Well]], [[Captain Cuttle]],” said Mr Carker, taking up his usual position
-before the fireplace, and keeping on his hat, “this is a bad business.”
-
-“You have received the news as was in print yesterday, Sir?” said the
-Captain.
-
-“Yes,” said Mr Carker, “we have received it! It was accurately stated.
-The underwriters suffer a considerable loss. We are very sorry. No
-help! Such is life!”
-
-Mr Carker pared his nails delicately with a penknife, and smiled at the
-Captain, who was standing by the door looking at him.
-
-“I excessively regret poor Gay,” said Carker, “and the crew. I
-understand there were some of our very best men among ’em. It always
-happens so. Many men with families too. A comfort to reflect that poor
-Gay had no family, [[Captain Cuttle]]!”
-
-The Captain stood rubbing his chin, and looking at the Manager. The
-Manager glanced at the unopened letters lying on his desk, and took up
-the newspaper.
-
-“Is there anything I can do for you, [[Captain Cuttle]]?” he asked looking
-off it, with a smiling and expressive glance at the door.
-
-“I wish you could set my mind at rest, Sir, on something it’s uneasy
-about,” returned the Captain.
-
-“Ay!” exclaimed the Manager, “what’s that? Come, [[Captain Cuttle]], I must
-trouble you to be quick, if you please. I am much engaged.”
-
-“Lookee here, Sir,” said the Captain, advancing a step. “Afore my
-friend Wal”r went on this here disastrous voyage—”
-
-“Come, come, [[Captain Cuttle]],” interposed the smiling Manager, “don’t
-talk about disastrous voyages in that way. We have nothing to do with
-disastrous voyages here, my good fellow. You must have begun very early
-on your day’s allowance, Captain, if you don’t remember that there are
-hazards in all voyages, whether by sea or land. You are not made uneasy
-by the supposition that young what’s-his-name was lost in bad weather
-that was got up against him in these offices—are you? Fie, Captain!
-[[Sleep]], and soda-[[Water|water]], are the best cures for such uneasiness as that.”
-
-“My lad,” returned the Captain, slowly—“you are a’most a lad to me, and
-so I don’t ask your pardon for that slip of a word,—if you find any
-pleasure in this here sport, you ain’t the gentleman I took you for.
-And if you ain’t the gentleman I took you for, may be my mind has call
-to be uneasy. Now this is what it is, Mr Carker.—Afore that poor lad
-went away, according to orders, he told me that he warn’t a going away
-for his own good, or for promotion, he know’d. It was my belief that he
-was wrong, and I told him so, and I come here, your head governor being
-absent, to ask a question or two of you in a civil way, for my own
-satisfaction. Them questions you answered—free. Now it’ll ease my mind
-to know, when all is over, as it is, and when what can’t be cured must
-be endoored—for which, as a scholar, you’ll overhaul the book it’s in,
-and thereof make a note—to know once more, in a word, that I warn’t
-mistaken; that I warn’t back’ard in my duty when I didn’t tell the old
-man what Wal”r told me; and that the [[Wind|wind]] was truly in his sail, when
-he highsted of it for Barbados Harbour. Mr Carker,” said the Captain,
-in the goodness of his [[Nature|nature]], “when I was here last, we was very
-pleasant together. If I ain’t been altogether so pleasant myself this
-morning, on account of this poor lad, and if I have chafed again any
-observation of yours that I might have fended off, my name is Ed’ard
-Cuttle, and I ask your pardon.”
-
-“[[Captain Cuttle]],” returned the Manager, with all possible politeness,
-“I must ask you to do me a favour.”
-
-“And what is it, Sir?” inquired the Captain.
-
-“To have the goodness to walk off, if you please,” rejoined the
-Manager, stretching forth his arm, “and to carry your jargon somewhere
-else.”
-
-Every knob in the Captain’s face turned white with astonishment and
-indignation; even the red rim on his forehead faded, like a rainbow
-among the gathering clouds.
-
-“I tell you what, [[Captain Cuttle]],” said the Manager, shaking his
-forefinger at him, and showing him all his teeth, but still amiably
-smiling, “I was much too lenient with you when you came here before.
-You belong to an artful and audacious set of people. In my [[Desire|desire]] to
-save young what’s-his-name from being kicked out of this place, neck
-and crop, my good Captain, I tolerated you; but for once, and only
-once. Now, go, my friend!”
-
-The Captain was absolutely rooted to the ground, and speechless—
-
-“Go,” said the good-humoured Manager, gathering up his skirts, and
-standing astride upon the hearth-rug, “like a sensible fellow, and let
-us have no turning out, or any such violent measures. If Mr Dombey were
-here, Captain, you might be obliged to leave in a more ignominious
-manner, possibly. I merely say, Go!”
-
-The Captain, laying his ponderous hand upon his chest, to assist
-himself in fetching a deep breath, looked at Mr Carker from head to
-foot, and looked round the little room, as if he did not clearly
-understand where he was, or in what company.
-
-“You are deep, [[Captain Cuttle]],” pursued Carker, with the easy and
-vivacious frankness of a man of the world who knew the world too [[Well|well]]
-to be ruffled by any discovery of misdoing, when it did not immediately
-concern himself, “but you are not quite out of soundings,
-either—neither you nor your absent friend, Captain. What have you done
-with your absent friend, hey?”
-
-Again the Captain laid his hand upon his chest. After drawing another
-deep breath, he conjured himself to “stand by!” But in a whisper.
-
-“You hatch nice little plots, and hold nice little councils, and make
-nice little appointments, and receive nice little visitors, too,
-Captain, hey?” said Carker, bending his brows upon him, without showing
-his teeth any the less: “but it’s a bold measure to come here
-afterwards. Not like your discretion! You conspirators, and hiders, and
-runners-away, should know better than that. Will you oblige me by
-going?”
-
-“My lad,” gasped the Captain, in a choked and trembling voice, and with
-a curious action going on in the ponderous fist; “there’s a many words
-I could wish to say to you, but I don’t rightly know where they’re
-stowed just at present. My young friend, Wal”r, was drownded only last
-[[Night|night]], according to my reckoning, and it puts me out, you see. But you
-and me will come alongside o’one another again, my lad,” said the
-Captain, holding up his hook, “if we live.”
-
-“It will be anything but shrewd in you, my good fellow, if we do,”
-returned the Manager, with the same frankness; “for you may rely, I
-give you fair warning, upon my detecting and exposing you. I don’t
-pretend to be a more moral man than my neighbours, my good Captain; but
-the confidence of this [[house|House]], or of any member of this [[house|House]], is not to
-be abused and undermined while I have eyes and ears. Good day!” said Mr
-Carker, nodding his head.
-
-[[Captain Cuttle]], looking at him steadily (Mr Carker looked full as
-steadily at the Captain), went out of the office and left him standing
-astride before the [[Fire|fire]], as calm and pleasant as if there were no more
-spots upon his [[Soul|soul]] than on his pure white linen, and his smooth sleek
-skin.
-
-The Captain glanced, in passing through the outer counting-[[house]], at
-the desk where he knew poor Walter had been used to sit, now occupied
-by another young boy, with a face almost as fresh and hopeful as his on
-the day when they tapped the famous last bottle but one of the old
-Madeira, in the little back parlour. The nation of ideas, thus
-awakened, did the Captain a great deal of good; it softened him in the
-very height of his anger, and brought the [[Tears|tears]] into his eyes.
-
-Arrived at the wooden Midshipman’s again, and sitting down in a corner
-of the dark shop, the Captain’s indignation, strong as it was, could
-make no head against his grief. Passion seemed not only to do wrong and
-violence to the [[Memory|memory]] of the dead, but to be infected by [[Death|death]], and to
-droop and decline beside it. All the living knaves and liars in the
-world, were nothing to the honesty and [[Truth|truth]] of one dead friend.
-
-The only thing the honest Captain made out clearly, in this state of
-mind, besides the loss of Walter, was, that with him almost the whole
-world of [[Captain Cuttle]] had been drowned. If he reproached himself
-sometimes, and keenly too, for having ever connived at Walter’s
-[[Innocent|innocent]] deceit, he thought at least as often of the Mr Carker whom no
-sea could ever render up; and the Mr Dombey, whom he now began to
-perceive was as far beyond human recall; and the “Heart’s Delight,”
-with whom he must never foregather again; and the Lovely Peg, that
-teak-built and trim ballad, that had gone ashore upon a rock, and split
-into mere planks and beams of rhyme. The Captain sat in the dark shop,
-thinking of these things, to the entire exclusion of his own injury;
-and looking with as sad an eye upon the ground, as if in contemplation
-of their actual fragments, as they floated past.
-
-But the Captain was not unmindful, for all that, of such decent and
-rest observances in [[Memory|memory]] of poor Walter, as he felt within his power.
-Rousing himself, and rousing Rob the Grinder (who in the unnatural
-twilight was fast asleep), the Captain sallied forth with his attendant
-at his heels, and the door-key in his pocket, and repairing to one of
-those convenient slop-selling establishments of which there is abundant
-choice at the eastern end of [[London]], purchased on the spot two suits of
-mourning—one for Rob the Grinder, which was immensely too small, and
-one for himself, which was immensely too large. He also provided Rob
-with a species of hat, greatly to be admired for its symmetry and
-usefulness, as [[Well|well]] as for a happy blending of the mariner with the
-coal-heaver; which is usually termed a sou’wester; and which was
-something of a novelty in connexion with the instrument business. In
-their several garments, which the vendor declared to be such a miracle
-in point of fit as nothing but a rare combination of fortuitous
-circumstances ever brought about, and the fashion of which was
-unparalleled within the [[Memory|memory]] of the oldest inhabitant, the Captain
-and Grinder immediately arrayed themselves: presenting a spectacle
-fraught with [[Wonder|wonder]] to all who beheld it.
-
-In this altered form, the Captain received Mr Toots. “I’m took aback,
-my lad, at present,” said the Captain, “and will only confirm that
-there ill news. Tell the young woman to break it gentle to the young
-lady, and for neither of ’em never to think of me no more—“special,
-mind you, that is—though I will think of them, when [[Night|night]] comes on a
-hurricane and seas is [[Mountains|mountains]] rowling, for which overhaul your Doctor
-Watts, brother, and when found make a note on.”
-
-The Captain reserved, until some fitter [[Time|time]], the consideration of Mr
-Toots’s offer of [[Friendship|friendship]], and thus dismissed him. [[Captain Cuttle]]’s
-spirits were so low, in [[Truth|truth]], that he half determined, that day, to
-take no further precautions against surprise from Mrs MacStinger, but
-to abandon himself recklessly to chance, and be indifferent to what
-might happen. As evening came on, he fell into a better frame of mind,
-however; and spoke much of Walter to Rob the Grinder, whose attention
-and fidelity he likewise incidentally commended. Rob did not blush to
-hear the Captain earnest in his praises, but sat staring at him, and
-affecting to snivel with sympathy, and making a feint of being
-virtuous, and treasuring up every word he said (like a young spy as he
-was) with very promising deceit.
-
-When Rob had turned in, and was fast asleep, the Captain trimmed the
-candle, put on his spectacles—he had felt it appropriate to take to
-spectacles on entering into the Instrument Trade, though his eyes were
-like a hawk’s—and opened the [[prayer]]-book at the Burial Service. And
-reading softly to himself, in the little back parlour, and stopping now
-and then to wipe his eyes, the Captain, in a true and simple spirit,
-committed Walter’s [[Body|body]] to the deep.
+The first impulse of the Captain was to run away. This also appeared to
+be the first impulse of Bunsby, hopeless as its execution must have
+proved. But a cry of recognition proceeding from the party, and
+Alexander MacStinger running up to the Captain with open arms, the
+Captain struck.
+
+“[[Well]], Cap’en Cuttle!” said Mrs MacStinger. “This is indeed a meeting!
+I bear no malice now, Cap’en Cuttle—you needn’t [[Fear|fear]] that I’m a going
+to cast any reflections. I [[Hope|hope]] to go to the altar in another spirit.”
+Here Mrs MacStinger paused, and drawing herself up, and inflating her
+bosom with a long breath, said, in allusion to the victim, “My “usband,
+Cap’en Cuttle!”
+
+The abject Bunsby looked neither to the right nor to the left, nor at
+his bride, nor at his friend, but straight before him at nothing. The
+Captain putting out his hand, Bunsby put out his; but, in answer to the
+Captain’s greeting, spake no word.
+
+“Cap’en Cuttle,” said Mrs MacStinger, “if you would wish to heal up
+past animosities, and to see the last of your friend, my “usband, as a
+single person, we should be “appy of your company to chapel. Here is a
+lady here,” said Mrs MacStinger, turning round to the more intrepid of
+the two, “my bridesmaid, that will be glad of your protection, Cap’en
+Cuttle.”
+
+The short gentleman in the tall hat, who it appeared was the husband of
+the other lady, and who evidently exulted at the reduction of a fellow
+creature to his own condition, gave place at this, and resigned the
+lady to [[Captain Cuttle]]. The lady immediately seized him, and, observing
+that there was no [[Time|time]] to lose, gave the word, in a strong voice, to
+advance.
+
+The Captain’s concern for his friend, not unmingled, at first, with
+some concern for himself—for a shadowy terror that he might be married
+by violence, possessed him, until his knowledge of the service came to
+his relief, and remembering the legal obligation of saying, “I will,”
+he felt himself personally safe so long as he resolved, if asked any
+question, distinctly to reply “I won’t”—threw him into a profuse
+perspiration; and rendered him, for a [[Time|time]], insensible to the movements
+of the procession, of which he now formed a feature, and to the
+conversation of his fair companion. But as he became less agitated, he
+learnt from this lady that she was the widow of a Mr Bokum, who had
+held an employment in the Custom [[house|House]]; that she was the dearest friend
+of Mrs MacStinger, whom she considered a pattern for her sex; that she
+had often heard of the Captain, and now hoped he had repented of his
+past life; that she trusted Mr Bunsby knew what a blessing he had
+gained, but that she feared men seldom did know what such blessings
+were, until they had lost them; with more to the same purpose.
+
+All this [[Time|time]], the Captain could not but observe that Mrs Bokum kept
+her eyes steadily on the bridegroom, and that whenever they came near a
+[[Court|court]] or other narrow turning which appeared favourable for flight, she
+was on the alert to cut him off if he attempted escape. The other lady,
+too, as [[Well|well]] as her husband, the short gentleman with the tall hat,
+were plainly on guard, according to a preconcerted plan; and the
+wretched man was so secured by Mrs MacStinger, that any effort at
+[[Self|self]]-preservation by flight was rendered futile. This, indeed, was
+apparent to the mere populace, who expressed their perception of the
+fact by jeers and cries; to all of which, the dread MacStinger was
+inflexibly indifferent, while Bunsby himself appeared in a state of
+unconsciousness.
+
+The Captain made many attempts to accost the philosopher, if only in a
+monosyllable or a signal; but always failed, in consequence of the
+vigilance of the guard, and the difficulty, at all times peculiar to
+Bunsby’s constitution, of having his attention aroused by any outward
+and visible sign whatever. Thus they approached the chapel, a neat
+whitewashed edifice, recently engaged by the Reverend Melchisedech
+Howler, who had consented, on very urgent solicitation, to give the
+world another two years of existence, but had informed his followers
+that, then, it must positively go.
+
+While the Reverend Melchisedech was offering up some extemporary
+orisons, the Captain found an opportunity of growling in the
+bridegroom’s ear:
+
+“What cheer, my lad, what cheer?”
+
+To which Bunsby replied, with a forgetfulness of the Reverend
+Melchisedech, which nothing but his desperate circumstances could have
+excused:
+
+“D——d bad,”
+
+“Jack Bunsby,” whispered the Captain, “do you do this here, of your own
+free will?”
+
+Mr Bunsby answered “No.”
+
+“Why do you do it, then, my lad?” inquired the Captain, not
+unnaturally.
+
+Bunsby, still looking, and always looking with an immovable
+countenance, at the opposite side of the world, made no reply.
+
+“Why not sheer off?” said the Captain. “Eh?” whispered Bunsby, with a
+momentary gleam of [[Hope|hope]].
+
+“Sheer off,” said the Captain.
+
+“Where’s the good?” retorted the forlorn sage. “She’d capter me agen.”
+
+“Try!” replied the Captain. “Cheer up! Come! Now’s your [[Time|time]]. Sheer
+off, Jack Bunsby!”
+
+Jack Bunsby, however, instead of profiting by the advice, said in a
+doleful whisper:
+
+“It all began in that there chest o’ yourn. Why did I ever conwoy her
+into port that [[Night|night]]?”
+
+“My lad,” faltered the Captain, “I thought as you had come over her;
+not as she had come over you. A man as has got such opinions as you
+have!”
+
+Mr Bunsby merely uttered a suppressed groan.
+
+“Come!” said the Captain, nudging him with his elbow, “now’s your [[Time|time]]!
+Sheer off! I’ll cover your retreat. The [[Time|time]]’s a flying. Bunsby! It’s
+for liberty. Will you once?”
+
+Bunsby was immovable.
+
+“Bunsby!” whispered the Captain, “will you twice?”
+
+Bunsby wouldn’t twice.
+
+“Bunsby!” urged the Captain, “it’s for liberty; will you three times?
+Now or never!”
+
+Bunsby didn’t then, and didn’t ever; for Mrs MacStinger immediately
+afterwards married him.
+
+One of the most frightful circumstances of the ceremony to the Captain,
+was the deadly interest exhibited therein by Juliana MacStinger; and
+the fatal concentration of her faculties, with which that promising
+[[Child|child]], already the image of her parent, observed the whole proceedings.
+The Captain saw in this a succession of man-traps stretching out
+infinitely; a series of ages of oppression and coercion, through which
+the seafaring line was doomed. It was a more memorable sight than the
+unflinching steadiness of Mrs Bokum and the other lady, the exultation
+of the short gentleman in the tall hat, or even the fell inflexibility
+of Mrs MacStinger. The Master MacStingers understood little of what was
+going on, and cared less; being chiefly engaged, during the ceremony,
+in treading on one another’s half-boots; but the contrast afforded by
+those wretched infants only set off and adorned the precocious woman in
+Juliana. Another year or two, the Captain thought, and to lodge where
+that [[Child|child]] was, would be destruction.
+
+The ceremony was concluded by a general [[spring]] of the young family on
+Mr Bunsby, whom they hailed by the endearing name of father, and from
+whom they solicited half-pence. These gushes of affection over, the
+procession was about to issue forth again, when it was delayed for some
+little [[Time|time]] by an unexpected transport on the part of Alexander
+MacStinger. That dear [[Child|child]], it seemed, connecting a chapel with
+tombstones, when it was entered for any purpose apart from the ordinary
+religious exercises, could not be persuaded but that his mother was now
+to be decently interred, and lost to him for ever. In the anguish of
+this conviction, he screamed with astonishing force, and turned black
+in the face. However touching these marks of a tender disposition were
+to his mother, it was not in the character of that remarkable woman to
+permit her recognition of them to degenerate into weakness. Therefore,
+after vainly endeavouring to convince his reason by shakes, pokes,
+bawlings-out, and similar applications to his head, she led him into
+the air, and tried another method; which was manifested to the [[Marriage|marriage]]
+party by a quick succession of sharp sounds, resembling applause, and
+subsequently, by their seeing Alexander in contact with the coolest
+paving-stone in the [[Court|court]], greatly flushed, and loudly lamenting.
+
+The procession being then in a condition to form itself once more, and
+repair to Brig Place, where a [[Marriage|marriage]] feast was in readiness, returned
+as it had come; not without the receipt, by Bunsby, of many humorous
+congratulations from the populace on his recently-acquired happiness.
+The Captain accompanied it as far as the [[house]]-door, but, being made
+uneasy by the gentler manner of Mrs Bokum, who, now that she was
+relieved from her engrossing duty—for the watchfulness and alacrity of
+the ladies sensibly diminished when the bridegroom was safely
+married—had greater leisure to show an interest in his behalf, there
+left it and the captive; faintly pleading an appointment, and promising
+to return presently. The Captain had another cause for uneasiness, in
+remorsefully reflecting that he had been the first means of Bunsby’s
+entrapment, though certainly without intending it, and through his
+unbounded [[Faith|faith]] in the resources of that philosopher.
+
+To go back to old Sol Gills at the wooden Midshipman’s, and not first
+go round to ask how Mr Dombey was—albeit the [[house]] where he lay was out
+of [[London]], and away on the borders of a fresh heath—was quite out of
+the Captain’s course. So he got a lift when he was tired, and made out
+the [[Journey|journey]] gaily.
+
+The blinds were pulled down, and the [[house]] so quiet, that the Captain
+was almost afraid to knock; but listening at the door, he heard low
+voices within, very near it, and, knocking softly, was admitted by Mr
+Toots. Mr Toots and his wife had, in fact, just arrived there; having
+been at the Midshipman’s to seek him, and having there obtained the
+address.
+
+They were not so recently arrived, but that Mrs Toots had caught the
+baby from somebody, taken it in her arms, and sat down on the stairs,
+hugging and fondling it. Florence was stooping down beside her; and no
+one could have said which Mrs Toots was hugging and fondling most, the
+mother or the [[Child|child]], or which was the tenderer, Florence of Mrs Toots,
+or Mrs Toots of her, or both of the baby; it was such a little group of
+[[Love|love]] and agitation.
+
+“And is your Pa very ill, my darling dear Miss Floy?” asked Susan.
+
+“He is very, very ill,” said Florence. “But, Susan, dear, you must not
+speak to me as you used to speak. And what’s this?” said Florence,
+touching her clothes, in amazement. “Your old dress, dear? Your old
+cap, curls, and all?”
+
+Susan burst into [[Tears|tears]], and showered kisses on the little hand that had
+touched her so wonderingly.
+
+“My dear Miss Dombey,” said Mr Toots, stepping forward, “I’ll explain.
+She’s the most extraordinary woman. There are not many to equal her!
+She has always said—she said before we were married, and has said to
+this day—that whenever you came [[Home|home]], she’d come to you in no dress but
+the dress she used to serve you in, for [[Fear|fear]] she might seem strange to
+you, and you might like her less. I admire the dress myself,” said Mr
+Toots, “of all things. I adore her in it! My dear Miss Dombey, she’ll
+be your maid again, your [[Nurse|nurse]], all that she ever was, and more.
+There’s no change in her. But, Susan, my dear,” said Mr Toots, who had
+spoken with great feeling and high admiration, “all I ask is, that
+you’ll remember the medical man, and not exert yourself too much!”

@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 9 (part 2)"
+title: "Jane Eyre — Chapter 9 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,21 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_09/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_09/part_03">part 03 ›</a></div>
 </nav>
 
+
+My favourite seat was a smooth and broad stone, rising white and dry
+from the very middle of the beck, and only to be got at by wading
+through the [[Water|water]]; a feat I accomplished barefoot. The stone was just
+broad enough to accommodate, comfortably, another girl and me, at that
+[[Time|time]] my chosen comrade—one Mary Ann Wilson; a shrewd, observant
+personage, whose society I took pleasure in, partly because she was
+witty and original, and partly because she had a manner which set me at
+my ease. Some years older than I, she knew more of the world, and could
+tell me many things I liked to hear: with her my curiosity found
+gratification: to my faults also she gave ample indulgence, never
+imposing curb or rein on anything I said. She had a turn for narrative,
+I for analysis; she liked to inform, I to question; so we got on
+swimmingly together, deriving much entertainment, if not much
+improvement, from our mutual intercourse.
 
 And where, meantime, was [[Helen Burns]]? Why did I not spend these sweet
 days of liberty with her? Had I forgotten her? or was I so worthless as
@@ -108,28 +123,3 @@ you’ll catch the fever if you stop out when the dew is falling.”
 The [[Nurse|nurse]] closed the front door; I went in by the side entrance which
 led to the schoolroom: I was just in [[Time|time]]; it was nine o’[[Clock|clock]], and
 Miss Miller was calling the pupils to go to bed.
-
-It might be two hours later, probably near eleven, when I—not having
-been able to fall asleep, and deeming, from the perfect [[Silence|silence]] of the
-dormitory, that my companions were all wrapt in profound repose—[[Rose|rose]]
-softly, put on my frock over my [[Night|night]]-dress, and, without shoes, crept
-from the apartment, and set off in [[Quest|quest]] of Miss Temple’s room. It was
-quite at the other end of the [[house]]; but I knew my way; and the light
-of the unclouded [[Summer|summer]] [[Moon|moon]], entering here and there at passage
-windows, enabled me to find it without difficulty. An odour of camphor
-and burnt vinegar warned me when I came near the fever room: and I
-passed its door quickly, fearful lest the [[Nurse|nurse]] who sat up all [[Night|night]]
-should hear me. I dreaded being discovered and sent back; for I _must_
-see [[Helen]],—I must embrace her before she died,—I must give her one last
-kiss, exchange with her one last word.
-
-Having descended a staircase, traversed a portion of the [[house]] below,
-and succeeded in opening and shutting, without noise, two doors, I
-reached another flight of steps; these I mounted, and then just
-opposite to me was Miss Temple’s room. A light shone through the
-keyhole and from under the door; a profound stillness pervaded the
-vicinity. Coming near, I found the door slightly ajar; probably to
-admit some fresh air into the close abode of sickness. Indisposed to
-hesitate, and full of impatient impulses—[[Soul|soul]] and senses quivering with
-keen throes—I put it back and looked in. My eye sought [[Helen]], and
-feared to find [[Death|death]].

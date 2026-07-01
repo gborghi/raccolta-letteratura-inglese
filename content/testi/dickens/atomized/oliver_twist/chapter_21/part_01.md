@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 21 (part 1)"
+title: "Oliver Twist — Chapter 21 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -126,8 +126,3 @@ Sikes dismounted with great precipitation, holding [[Oliver]] by the hand
 all the while; and lifting him down directly, bestowed a furious look
 upon him, and rapped the side-pocket with his fist, in a significant
 manner.
-
-“Good-bye, boy,” said the man.
-
-“He’s sulky,” replied Sikes, giving him a shake; “he’s sulky. A young
-dog! Don’t mind him.”

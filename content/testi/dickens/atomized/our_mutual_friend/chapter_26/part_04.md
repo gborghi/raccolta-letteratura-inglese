@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 2 (part 4)"
+title: "Our Mutual Friend — Chapter 4 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,135 +10,137 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_26/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_27/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_26/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_26/part_05">part 05 ›</a></div>
 </nav>
 
 
-The very breathing of the figure was contemptible, as it laboured and
-rattled in that operation, like a blundering [[Clock|clock]].
+A handsome little dinner was served immediately, and Mr Lammle sat
+sparkling at his end of the table, with his servant behind his chair,
+and HIS ever-lingering doubts upon the subject of his wages behind
+himself. Mr Lammle’s utmost powers of sparkling were in requisition
+to-day, for Fascination Fledgeby and Georgiana not only struck each
+other speechless, but struck each other into astonishing attitudes;
+Georgiana, as she sat facing Fledgeby, making such efforts to conceal
+her elbows as were totally incompatible with the use of a knife and
+fork; and Fledgeby, as he sat facing Georgiana, avoiding her countenance
+by every possible device, and betraying the discomposure of his mind in
+feeling for his whiskers with his spoon, his wine glass, and his bread.
 
-‘Slave, slave, slave, from morning to [[Night|night]],’ pursued the person of the
-[[house]], ‘and all for this! WHAT do you mean by it?’
+So, Mr and Mrs Alfred Lammle had to prompt, and this is how they
+prompted.
 
-There was something in that emphasized ‘What,’ which absurdly frightened
-the figure. As often as the person of the [[house]] worked her way round to
-it—even as soon as he saw that it was coming—he collapsed in an extra
-degree.
+‘Georgiana,’ said Mr Lammle, low and smiling, and sparkling all over,
+like a harlequin; ‘you are not in your usual spirits. Why are you not in
+your usual spirits, Georgiana?’
 
-‘I wish you had been taken up, and locked up,’ said the person of the
-[[house]]. ‘I wish you had been poked into cells and black holes, and run
-over by rats and spiders and beetles. I know their tricks and their
-manners, and they’d have tickled you nicely. Ain’t you ashamed of
-yourself?’
+Georgiana faltered that she was much the same as she was in general; she
+was not aware of being different.
 
-‘Yes, my dear,’ stammered the father.
+‘Not aware of being different!’ retorted Mr Alfred Lammle. ‘You, my dear
+Georgiana! Who are always so natural and unconstrained with us! Who are
+such a relief from the crowd that are all alike! Who are the embodiment
+of gentleness, simplicity, and reality!’
 
-‘Then,’ said the person of the [[house]], terrifying him by a grand muster
-of her spirits and forces before recurring to the emphatic word, ‘WHAT
-do you mean by it?’
+Miss Podsnap looked at the door, as if she entertained confused thoughts
+of taking refuge from these compliments in flight.
 
-‘Circumstances over which had no control,’ was the miserable creature’s
-plea in extenuation.
+‘Now, I will be judged,’ said Mr Lammle, raising his voice a little, ‘by
+my friend Fledgeby.’
 
-‘I’LL circumstance you and control you too,’ retorted the person of the
-[[house]], speaking with vehement sharpness, ‘if you talk in that way. I’ll
-give you in charge to the police, and have you fined five shillings when
-you can’t pay, and then I won’t pay the money for you, and you’ll be
-transported for life. How should you like to be transported for life?’
+‘Oh DON’T!’ Miss Podsnap faintly ejaculated: when Mrs Lammle took the
+prompt-book.
 
-‘Shouldn’t like it. Poor shattered invalid. Trouble nobody long,’ cried
-the wretched figure.
+‘I beg your pardon, Alfred, my dear, but I cannot part with Mr Fledgeby
+quite yet; you must wait for him a moment. Mr Fledgeby and I are engaged
+in a personal discussion.’
 
-‘Come, come!’ said the person of the [[house]], tapping the table near her
-in a business-like manner, and shaking her head and her chin; ‘you know
-what you’ve got to do. Put down your money this instant.’
+Fledgeby must have conducted it on his side with immense art, for no
+appearance of uttering one syllable had escaped him.
 
-The obedient figure began to rummage in its pockets.
+‘A personal discussion, Sophronia, my [[Love|love]]? What discussion? Fledgeby, I
+am jealous. What discussion, Fledgeby?’
 
-‘Spent a fortune out of your wages, I’ll be bound!’ said the person of
-the [[house]]. ‘Put it here! All you’ve got left! Every farthing!’
+‘Shall I tell him, Mr Fledgeby?’ asked Mrs Lammle.
 
-Such a business as he made of collecting it from his [[dogs]]’-eared
-pockets; of expecting it in this pocket, and not finding it; of not
-expecting it in that pocket, and passing it over; of finding no pocket
-where that other pocket ought to be!
+Trying to look as if he knew anything about it, Fascination replied,
+‘Yes, tell him.’
 
-‘Is this all?’ demanded the person of the [[house]], when a confused heap of
-pence and shillings lay on the table.
+‘We were discussing then,’ said Mrs Lammle, ‘if you MUST know, Alfred,
+whether Mr Fledgeby was in his usual flow of spirits.’
 
-‘Got no more,’ was the rueful answer, with an accordant shake of the
-head.
+‘Why, that is the very point, Sophronia, that Georgiana and I were
+discussing as to herself! What did Fledgeby say?’
 
-‘Let me make sure. You know what you’ve got to do. Turn all your pockets
-inside out, and leave ’em so!’ cried the person of the [[house]].
+‘Oh, a likely thing, sir, that I am going to tell you everything, and be
+told nothing! What did Georgiana say?’
 
-He obeyed. And if anything could have made him look more abject or more
-dismally ridiculous than before, it would have been his so displaying
-himself.
+‘Georgiana said she was doing her usual justice to herself to-day, and I
+said she was not.’
 
-‘Here’s but seven and eightpence halfpenny!’ exclaimed Miss Wren, after
-reducing the heap to order. ‘Oh, you prodigal old son! Now you shall be
-starved.’
+‘Precisely,’ exclaimed Mrs Lammle, ‘what I said to Mr Fledgeby.’ Still,
+it wouldn’t do. They would not look at one another. No, not even
+when the sparkling host proposed that the quartette should take an
+appropriately sparkling glass of wine. Georgiana looked from her wine
+glass at Mr Lammle and at Mrs Lammle; but mightn’t, couldn’t, shouldn’t,
+wouldn’t, look at Mr Fledgeby. Fascination looked from his wine glass
+at Mrs Lammle and at Mr Lammle; but mightn’t, couldn’t, shouldn’t,
+wouldn’t, look at Georgiana.
 
-‘No, don’t starve me,’ he urged, whimpering.
+More prompting was necessary. Cupid must be brought up to the mark. The
+manager had put him down in the bill for the part, and he must play it.
 
-‘If you were treated as you ought to be,’ said Miss Wren, ‘you’d be fed
-upon the skewers of cats’ meat;—only the skewers, after the cats had
-had the meat. As it is, go to bed.’
+‘Sophronia, my dear,’ said Mr Lammle, ‘I don’t like the colour of your
+dress.’
 
-When he stumbled out of the corner to comply, he again put out both his
-hands, and pleaded: ‘Circumstances over which no control—’
+‘I appeal,’ said Mrs Lammle, ‘to Mr Fledgeby.’
 
-‘Get along with you to bed!’ cried Miss Wren, snapping him up. ‘Don’t
-speak to me. I’m not going to forgive you. Go to bed this moment!’
+‘And I,’ said Mr Lammle, ‘to Georgiana.’
 
-Seeing another emphatic ‘What’ upon its way, he evaded it by complying
-and was heard to shuffle heavily up stairs, and shut his door, and throw
-himself on his bed. Within a little while afterwards, Lizzie came down.
+‘Georgy, my [[Love|love]],’ remarked Mrs Lammle aside to her dear girl, ‘I rely
+upon you not to go over to the opposition. Now, Mr Fledgeby.’
 
-‘Shall we have our supper, Jenny dear?’
+Fascination wished to know if the colour were not called [[Rose|rose]]-colour?
+Yes, said Mr Lammle; actually he knew everything; it was really
+[[Rose|rose]]-colour. Fascination took [[Rose|rose]]-colour to mean the colour of roses.
+(In this he was very warmly supported by Mr and Mrs Lammle.) Fascination
+had heard the term [[Queen]] of [[Flowers]] applied to the [[Rose]]. Similarly, it
+might be said that the dress was the [[Queen]] of Dresses. (‘Very happy,
+Fledgeby!’ from Mr Lammle.) Notwithstanding, Fascination’s opinion
+was that we all had our eyes—or at least a large majority of us—and
+that—and—and his farther opinion was several ands, with nothing beyond
+them.
 
-‘Ah! bless us and save us, we need have something to keep us going,’
-returned Miss Jenny, shrugging her shoulders.
+‘Oh, Mr Fledgeby,’ said Mrs Lammle, ‘to [[Desert|desert]] me in that way! Oh, Mr
+Fledgeby, to abandon my poor dear injured [[Rose|rose]] and declare for blue!’
 
-Lizzie laid a cloth upon the little bench (more handy for the person of
-the [[house]] than an ordinary table), and put upon it such plain fare as
-they were accustomed to have, and drew up a stool for herself.
+‘Victory, victory!’ cried Mr Lammle; ‘your dress is condemned, my dear.’
 
-‘Now for supper! What are you thinking of, Jenny darling?’
+‘But what,’ said Mrs Lammle, stealing her affectionate hand towards her
+dear girl’s, ‘what does Georgy say?’
 
-‘I was thinking,’ she returned, coming out of a deep study, ‘what I
-would do to Him, if he should turn out a drunkard.’
+‘She says,’ replied Mr Lammle, interpreting for her, ‘that in her eyes
+you look [[Well|well]] in any colour, Sophronia, and that if she had expected to
+be embarrassed by so pretty a compliment as she has received, she would
+have worn another colour herself. Though I tell her, in reply, that it
+would not have saved her, for whatever colour she had worn would have
+been Fledgeby’s colour. But what does Fledgeby say?’
 
-‘Oh, but he won’t,’ said Lizzie. ‘You’ll take care of that, beforehand.’
+‘He says,’ replied Mrs Lammle, interpreting for him, and patting the
+back of her dear girl’s hand, as if it were Fledgeby who was patting it,
+‘that it was no compliment, but a little natural act of homage that
+he couldn’t resist. And,’ expressing more feeling as if it were more
+feeling on the part of Fledgeby, ‘he is right, he is right!’
 
-‘I shall try to take care of it beforehand, but he might deceive me.
-Oh, my dear, all those fellows with their tricks and their manners do
-deceive!’ With the little fist in full action. ‘And if so, I tell you
-what I think I’d do. When he was asleep, I’d make a spoon red hot, and
-I’d have some boiling liquor bubbling in a saucepan, and I’d take it
-out hissing, and I’d open his mouth with the other hand—or perhaps he’d
-[[Sleep|sleep]] with his mouth ready open—and I’d pour it down his throat, and
-blister it and choke him.’
+Still, no not even now, would they look at one another. Seeming to gnash
+his sparkling teeth, studs, eyes, and buttons, all at once, Mr Lammle
+secretly bent a dark frown on the two, expressive of an intense [[Desire|desire]]
+to bring them together by knocking their heads together.
 
-‘I am sure you would do no such horrible thing,’ said Lizzie.
+‘Have you heard this opera of to-[[Night|night]], Fledgeby?’ he asked, stopping
+very short, to prevent himself from running on into ‘confound you.’
 
-‘Shouldn’t I? [[Well]]; perhaps I shouldn’t. But I should like to!’
+‘Why no, not exactly,’ said Fledgeby. ‘In fact I don’t know a note of
+it.’
 
-‘I am equally sure you would not.’
-
-‘Not even like to? [[Well]], you generally know best. Only you haven’t
-always lived among it as I have lived—and your back isn’t bad and your
-legs are not queer.’
-
-As they went on with their supper, Lizzie tried to bring her round to
-that prettier and better state. But, the charm was broken. The person
-of the [[house]] was the person of a [[house]] full of sordid shames and cares,
-with an upper room in which that abased figure was infecting even
-[[Innocent|innocent]] [[Sleep|sleep]] with sensual brutality and degradation. The doll’s
-dressmaker had become a little quaint shrew; of the world, worldly; of
-the earth, earthy.
-
-Poor doll’s dressmaker! How often so dragged down by hands that should
-have raised her up; how often so misdirected when losing her way on the
-eternal [[Road|road]], and asking guidance! Poor, poor little doll’s dressmaker!
+‘Neither do you know it, Georgy?’ said Mrs Lammle. ‘N-no,’ replied
+Georgiana, faintly, under the sympathetic coincidence.

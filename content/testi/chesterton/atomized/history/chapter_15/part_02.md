@@ -1,5 +1,5 @@
 ---
-title: "[[history]] — Chapter 15 (part 2)"
+title: "history — Chapter 15 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/history-(chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-Roughly and frankly speaking, we may say that [[america|America]] forced
+Roughly and frankly speaking, we may say that [[America]] forced
 the quarrel.  She wished to be separate, which was to her but
 another phrase for wishing to be free.  She was not thinking of
 her wrongs as a colony, but already of her rights as a republic.
@@ -30,15 +30,15 @@ I do not mean equality with her, but even with each other.
 Chatham might have compromised with Washington,
 because Washington was a gentleman; but Chatham could
 hardly have conceived a country not governed by gentlemen.
-Burke was apparently ready to grant everything to [[america|America]];
-but he would not have been ready to grant what [[america|America]]
+Burke was apparently ready to grant everything to [[America]];
+but he would not have been ready to grant what [[America]]
 eventually gained.  If he had seen American [[democracy]],
 he would have been as much appalled by it as he was by
 French [[democracy]], and would always have been by any [[democracy]].
 In a word the Whigs were liberal and even generous aristocrats,
 but they were aristocrats; that is why their concessions were
 as vain as their conquests.  We talk, with a humiliation too rare
-with us, about our dubious part in the secession of [[america|America]].
+with us, about our dubious part in the secession of [[America]].
 Whether it increase or decrease the humiliation I do not know;
 but I strongly suspect that we had very little to do with it.
 I believe we counted for uncommonly little in the case.
@@ -93,7 +93,7 @@ that some men are dull, I can only gravely agree with them,
 that some men are very dull.
 
 But a few years after Lafayette had returned from helping
-to found a republic in [[america|America]] he was flung over his own
+to found a republic in [[America]] he was flung over his own
 frontiers for resisting the foundation of a republic in France.
 So furious was the onward stride of this new spirit that the
 republican of the new world lived to be the reactionary of the old.

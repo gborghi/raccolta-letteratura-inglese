@@ -14,6 +14,222 @@ tags:
 </nav>
 
 
+      elevated his forehead into innumerable wrinkles; the gouty little
+
+      old man puffed like a pair of bellows; the lady of the winding
+
+      sheet waved her nose to and fro; the gentleman in the cotton
+
+      drawers pricked up his ears; she of the shroud gasped like a
+
+      dying fish; and he of the coffin looked stiff and rolled up his
+
+      eyes.
+
+
+
+      “Ugh! ugh! ugh!” chuckled Tarpaulin without heeding the general
+
+      excitation, “ugh! ugh! ugh!—ugh! ugh! ugh!—ugh! ugh! ugh!—I was
+
+      saying,” said he, “I was saying when Mr. [[King]] Pest poked in his
+
+      marlin-spike, that as for the matter of two or three gallons more
+
+      or less of Black Strap, it was a trifle to a tight sea-boat like
+
+      myself not overstowed—but when it comes to drinking the health of
+
+      the Devil (whom God assoilzie) and going down upon my marrow
+
+      bones to his ill-favored majesty there, whom I know, as [[Well|well]] as I
+
+      know myself to be a sinner, to be nobody in the whole world, but
+
+      Tim Hurlygurly the stage-player!—why! it’s quite another guess
+
+      sort of a thing, and utterly and altogether past my
+
+      comprehension.”
+
+
+
+      He was not allowed to finish this speech in tranquillity. At the
+
+      name Tim Hurlygurly the whole assembly leaped from their name
+
+      seats.
+
+
+
+      “Treason!” shouted his Majesty [[King]] Pest the First.
+
+
+
+      “Treason!” said the little man with the gout.
+
+
+
+      “Treason!” screamed the Arch Duchess Ana-Pest.
+
+
+
+      “Treason!” muttered the gentleman with his jaws tied up.
+
+
+
+      “Treason!” growled he of the coffin.
+
+
+
+      “Treason! treason!” shrieked her majesty of the mouth; and,
+
+      seizing by the hinder part of his breeches the unfortunate
+
+      Tarpaulin, who had just commenced pouring out for himself a skull
+
+      of liqueur, she lifted him high into the air, and let him fall
+
+      without ceremony into the huge open puncheon of his beloved ale.
+
+      Bobbing up and down, for a few seconds, like an apple in a bowl
+
+      of toddy, he, at length, finally disappeared amid the whirlpool
+
+      of foam which, in the already effervescent liquor, his struggles
+
+      easily succeeded in creating.
+
+
+
+      Not tamely, however, did the tall seaman behold the discomfiture
+
+      of his companion. Jostling [[King]] Pest through the open trap, the
+
+      valiant Legs slammed the door down upon him with an oath, and
+
+      strode towards the centre of the room. Here tearing down the
+
+      [[skeleton]] which swung over the table, he laid it about him with so
+
+      much energy and good will, that, as the last glimpses of light
+
+      died away within the apartment, he succeeded in knocking out the
+
+      brains of the little gentleman with the gout. Rushing then with
+
+      all his force against the fatal hogshead full of October ale and
+
+      Hugh Tarpaulin, he rolled it over and over in an instant. Out
+
+      burst a [[deluge]] of liquor so fierce—so impetuous—so
+
+      overwhelming—that the room was flooded from wall to wall—the
+
+      loaded table was overturned—the tressels were thrown upon their
+
+      backs—the tub of punch into the [[Fire|fire]]-place—and the ladies into
+
+      hysterics. Piles of [[Death|death]]-furniture floundered about. Jugs,
+
+      pitchers, and carboys mingled promiscuously in the _mêlée_, and
+
+      wicker flagons encountered desperately with bottles of junk. The
+
+      man with the horrors was drowned upon the spot—the little stiff
+
+      gentleman floated off in his coffin—and the victorious Legs,
+
+      seizing by the waist the fat lady in the shroud, rushed out with
+
+      her into the street, and made a bee-line for the _Free and Easy_,
+
+      followed under easy sail by the redoubtable Hugh Tarpaulin, who,
+
+      having sneezed three or four times, panted and puffed after him
+
+      with the Arch Duchess Ana-Pest.
+
+
+
+
+
+
+
+
+
+THREE SUNDAYS IN A WEEK
+
+
+
+
+
+      “You hard-headed, dunder-headed, obstinate, rusty, crusty, musty,
+
+      fusty, old savage!” said I, in fancy, one afternoon, to my grand
+
+      uncle Rumgudgeon—shaking my fist at him in [[Imagination|imagination]].
+
+
+
+      Only in [[Imagination|imagination]]. The fact is, some trivial discrepancy _did_
+
+      exist, just then, between what I said and what I had not the
+
+      [[Courage|courage]] to say—between what I did and what I had half a mind to
+
+      do.
+
+
+
+      The old porpoise, as I opened the drawing-room door, was sitting
+
+      with his feet upon the mantel-piece, and a bumper of port in his
+
+      paw, making strenuous efforts to accomplish the ditty.
+
+
+
+      Remplis ton verre vide!
+
+      Vide ton verre plein!
+
+
+
+      “My _dear_ uncle,” said I, closing the door gently, and
+
+      approaching him with the blandest of smiles, “you are always so
+
+      very kind and considerate, and have evinced your benevolence in
+
+      so many—so very many ways—that—that I feel I have only to suggest
+
+      this little point to you once more to make sure of your full
+
+      acquiescence.”
+
+
+
+      “Hem!” said he, “good boy! go on!”
+
+
+
+      “I am sure, my dearest uncle (you confounded old rascal!), that
+
+      you have no design really, seriously, to oppose my [[Union|union]] with
+
+      Kate. This is merely a joke of yours, I know—ha! ha! ha!—how very
+
+      pleasant you are at times.”
+
+
+
+      “Ha! ha! ha!” said he, “curse you! yes!”
+
+
+
+      “To be sure—of course! I knew you were jesting. Now, uncle, all
+
       that Kate and myself wish at present, is that you would oblige us
 
       with your advice as—as regards the [[Time|time]]—you know, uncle—in short,
@@ -35,187 +251,3 @@ tags:
       that’s good!—oh, that’s capital—_such_ a wit! But all we want
 
       just _now_, you know, uncle, is that you would indicate the [[Time|time]]
-
-      precisely.”
-
-
-
-      “Ah!—precisely?”
-
-
-
-      “Yes, uncle—that is, if it would be quite agreeable to yourself.”
-
-
-
-      “Wouldn’t it answer, Bobby, if I were to leave it at random—some
-
-      [[Time|time]] within a year or so, for example?—_must_ I say precisely?”
-
-
-
-      “_If_ you please, uncle—precisely.”
-
-
-
-      “[[Well]], then, Bobby, my boy—you’re a fine fellow, aren’t
-
-      you?—since you _will_ have the exact [[Time|time]] I’ll—why I’ll oblige
-
-      you for once.”
-
-
-
-      “Dear uncle!”
-
-
-
-      “Hush, sir!” (drowning my voice)—“I’ll oblige you for once. You
-
-      shall have my consent—and the _plum_, we mus’n’t forget the
-
-      plum—let me see! when shall it be? To-day’s [[Sunday]]—isn’t it?
-
-      [[Well]], then, you shall be married precisely—_precisely_, now
-
-      mind!—_when three Sundays come together in a week!_ Do you hear
-
-      me, sir! _What_ are you gaping at? I say, you shall have Kate and
-
-      her plum when three Sundays come together in a week—but not
-
-      _till_ then—you young scapegrace—not _till_ then, if I die for
-
-      it. You know me—_I’m a man of my word_—now be off!” Here he
-
-      swallowed his bumper of port, while I rushed from the room in
-
-      [[Despair|despair]].
-
-
-
-      A very “fine old English gentleman,” was my grand-uncle
-
-      Rumgudgeon, but unlike him of the [[Song|song]], he had his weak points.
-
-      He was a little, pursy, pompous, passionate semicircular
-
-      somebody, with a red nose, a thick skull, a long purse, and a
-
-      strong sense of his own consequence. With the best heart in the
-
-      world, he contrived, through a predominant whim of contradiction,
-
-      to earn for himself, among those who only knew him superficially,
-
-      the character of a curmudgeon. Like many excellent people, he
-
-      seemed possessed with a spirit of tantalization, which might
-
-      easily, at a casual glance, have been mistaken for malevolence.
-
-      To every request, a positive “No!” was his immediate answer; but
-
-      in the end—in the long, long end—there were exceedingly few
-
-      requests which he refused. Against all attacks upon his purse he
-
-      made the most sturdy defence; but the amount extorted from him,
-
-      at last, was generally in direct ratio with the length of the
-
-      siege and the stubbornness of the resistance. In [[Charity|charity]] no one
-
-      gave more liberally or with a worse grace.
-
-
-
-      For the fine arts, and especially for the belles-lettres, he
-
-      entertained a profound contempt. With this he had been inspired
-
-      by Casimir Perier, whose pert little query “A quoi un poete est
-
-      il bon?” he was in the habit of quoting, with a very droll
-
-      pronunciation, as the ne plus ultra of logical wit. Thus my own
-
-      inkling for the Muses had excited his entire displeasure. He
-
-      assured me one day, when I asked him for a new copy of Horace,
-
-      that the [[Translation|translation]] of “Poeta nascitur non fit” was “a nasty
-
-      poet for nothing fit”—a remark which I took in high dudgeon. His
-
-      repugnance to “the humanities” had, also, much increased of late,
-
-      by an accidental bias in favor of what he supposed to be natural
-
-      science. Somebody had accosted him in the street, mistaking him
-
-      for no less a personage than Doctor Dubble L. Dee, the lecturer
-
-      upon quack physics. This set him off at a tangent; and just at
-
-      the epoch of this story—for story it is getting to be after
-
-      all—my grand-uncle Rumgudgeon was accessible and pacific only
-
-      upon points which happened to chime in with the caprioles of the
-
-      hobby he was riding. For the rest, he laughed with his arms and
-
-      legs, and his politics were stubborn and easily understood. He
-
-      thought, with Horsley, that “the people have nothing to do with
-
-      the laws but to obey them.”
-
-
-
-      I had lived with the old gentleman all my life. My parents, in
-
-      dying, had bequeathed me to him as a rich legacy. I believe the
-
-      old [[Villain|villain]] loved me as his own [[Child|child]]—nearly if not quite as [[Well|well]]
-
-      as he loved Kate—but it was a dog’s existence that he led me,
-
-      after all. From my first year until my fifth, he obliged me with
-
-      very regular floggings. From five to fifteen, he threatened me,
-
-      hourly, with the [[house|House]] of Correction. From fifteen to twenty, not
-
-      a day passed in which he did not promise to cut me off with a
-
-      shilling. I was a sad dog, it is true—but then it was a part of
-
-      my [[Nature|nature]]—a point of my [[Faith|faith]]. In Kate, however, I had a firm
-
-      friend, and I knew it. She was a good girl, and told me very
-
-      sweetly that I might have her (plum and all) whenever I could
-
-      badger my grand-uncle Rumgudgeon, into the necessary consent.
-
-      Poor girl!—she was barely fifteen, and without this consent, her
-
-      little amount in the funds was not come-at-able until five
-
-      immeasurable summers had “dragged their slow length along.” What,
-
-      then, to do? At fifteen, or even at twenty-one (for I had now
-
-      passed my fifth olympiad) five years in prospect are very much
-
-      the same as five hundred. In vain we besieged the old gentleman
-
-      with importunities. Here was a piece de resistance (as Messieurs
-
-      Ude and Careme would say) which suited his perverse fancy to a T.
-
-      It would have stiffed the indignation of Job himself, to see how
-
-      much like an old mouser he behaved to us two poor wretched little

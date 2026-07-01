@@ -1,5 +1,5 @@
 ---
-title: "[[Richard II]] — Act IV, Scene 1 — exchange (SURREY) [2]"
+title: "Richard II — Act IV, Scene 1 — exchange (SURREY) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/richard-ii-(shakespeare)"

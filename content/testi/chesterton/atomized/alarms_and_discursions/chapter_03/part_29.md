@@ -16,116 +16,114 @@ tags:
 
 * * * * *
 
-It was for this reason that the old woman and her [[donkey]]
-struck us first when seen from behind as one black [[Grotesque|grotesque]].
-I afterwards had the chance of seeing the old woman, the cart,
-and the [[donkey]] fairly, in flank and in all their length.
-I saw the old woman and the [[donkey]] _passant_, as they might have
-appeared heraldically on the shield of some heroic family.
-I saw the old woman and the [[donkey]] dignified, decorative, and flat,
-as they might have marched across the Elgin Marbles.  Seen thus
-under an equal light, there was nothing specially ugly about them;
-the cart was long and sufficiently comfortable; the [[donkey]] was
-stolid and sufficiently respectable; the old woman was lean but
-sufficiently strong, and even smiling in a sour, rustic manner.
-But seen from behind they looked like one black monstrous animal;
-the dark [[donkey]] ears seemed like dreadful wings, and the tall
-dark back of the woman, erect like a tree, seemed to grow taller
-and taller until one could almost scream.
+To me personally, at least, it would never seem needful to own a motor,
+any more than to own an avalanche.  An avalanche, if you have luck,
+I am told, is a very swift, successful, and thrilling way of coming
+down a [[Hill|hill]].  It is distinctly more stirring, say, than a glacier,
+which moves an inch in a hundred years.  But I do not divide these
+pleasures either by excitement or convenience, but by the [[Nature|nature]]
+of the thing itself.  It seems human to have a [[Horse|horse]] or bicycle,
+because it seems human to potter about; and men cannot work horses,
+nor can bicycles work men, enormously far afield of their ordinary
+haunts and affairs.
 
-Then we went by her with a blasting roar like a railway train,
-and fled far from her over the brow of the [[Hill|hill]] to my friend's [[Home|home]].
-
-There we paused only for my friend to stock the car with some kind
-of picnic paraphernalia, and so started again, as it happened,
-by the way we had come.  Thus it fell that we went shattering down
-that short, sharp [[Hill|hill]] again before the poor old woman and her [[donkey]]
-had managed to crawl to the top of it; and seeing them under a
-different light, I saw them very differently.  Black against the sun,
-they had seemed comic; but bright against greenwood and grey cloud,
-they were not comic but tragic; for there are not a few things
-that seem fantastic in the twilight, and in the sunlight are sad.
-I saw that she had a grand, gaunt mask of ancient [[Honour|honour]]
-and [[Endurance|endurance]], and wide eyes sharpened to two shining points,
-as if looking for that small [[Hope|hope]] on the horizon of human life.
-I also saw that her cart contained carrots.
-
-"Don't you feel, broadly speaking, a beast," I asked my friend,
-"when you go so easily and so fast?"  For we had crashed by so that
-the crazy cart must have thrilled in every stick of it.
-
-My friend was a good man, and said, "Yes. But I don't think it
-would do her any good if I went slower."
-
-"No," I assented after reflection.  "Perhaps the only pleasure we can
-give to her or any one else is to get out of their sight very soon."
-
-My friend availed himself of this advice in no niggard spirit;
-I felt as if we were fleeing for our lives in throttling [[Fear|fear]] after
-some frightful atrocity.  In [[Truth|truth]], there is only one difference
-left between the secrecy of the two social classes:  the poor hide
-themselves in darkness and the rich hide themselves in distance.
-They both hide.
+But about motoring there is something magical, like going to the [[Moon|moon]];
+and I say the thing should be kept exceptional and felt
+as something breathless and bizarre.  My ideal [[Hero|hero]] would own
+his [[Horse|horse]], but would have the moral [[Courage|courage]] to hire his motor.
+Fairy tales are the only sound guidebooks to life; I like the
+Fairy Prince to ride on a white pony out of his father's stables,
+which are of ivory and gold.  But if in the course of his adventures
+he finds it necessary to travel on a flaming dragon, I think he ought
+to give the dragon back to the [[Witch|witch]] at the end of the story.
+It is a mistake to have dragons about the place.
 
 * * * * *
 
-As we shot like a lost boat over a cataract down into a whirlpool of
-white roads far below, I saw afar a black dot crawling like an insect.
-I looked again:  I could hardly believe it.  There was the slow old woman,
-with her slow old [[donkey]], still toiling along the main [[Road|road]].
-I asked my friend to slacken, but when he said of the car,
-"She's wanting to go," I knew it was all up with him.
-For when you have called a thing female you have yielded to it utterly.
-We passed the old woman with a shock that must have shaken the earth:
-if her head did not reel and her heart quail, I know not what they
-were made of.  And when we had fled perilously on in the gathering dark,
-spurning hamlets behind us, I suddenly called out, "Why, what asses
-we are!  Why, it's She that is brave--she and the [[donkey]].
-We are safe enough; we are artillery and plate-armour: and she stands up
-to us with matchwood and a snail!  If you had grown old in a quiet valley,
-and people began firing cannon-balls as big as cabs at you in your
-seventieth year, wouldn't you jump--and she never moved an eyelid.
-Oh! we go very fast and very far, no [[Doubt|doubt]]--"
+For there is truly an air of something weird about luxury; and it is
+by this that healthy human [[Nature|nature]] has always smelt and suspected it.
+All romances that deal in extreme luxury, from the "Arabian Nights"
+to the novels of Ouida and Disraeli, have, it may be noted,
+a singular air of dream and occasionally of [[nightmare]].
+In such imaginative debauches there is something as occasional
+as intoxication; if that is still counted occasional.
+Life in those preposterous palaces would be an agony of dullness;
+it is clear we are meant to visit them only as in a flying vision.
+And what is true of the old freaks of wealth, flavour and fierce
+colour and smell, I would say also of the new freak of wealth,
+which is [[Speed|speed]].  I should say to the duke, when I entered his [[house]]
+at the head of an armed mob, "I do not object to your having
+exceptional pleasures, if you have them exceptionally.  I do not mind
+your enjoying the strange and alien energies of science, if you feel
+them strange and alien, and not your own.  But in condemning you
+(under the Seventeenth Section of the Eighth Decree of the Republic)
+to hire a motor-car twice a year at Margate, I am not the enemy
+of your luxuries, but, rather, the protector of them."
 
-As I spoke came a curious noise, and my friend, instead of going fast,
-began to go very slow; then he stopped; then he got out.
-Then he said, "And I left the Stepney behind."
-
-The grey moths came out of the wood and the yellow [[Stars|stars]] came
-out to [[Crown|crown]] it, as my friend, with the lucidity of [[Despair|despair]],
-explained to me (on the soundest scientific principles, of course)
-that nothing would be any good at all.  We must [[Sleep|sleep]] the [[Night|night]]
-in the lane, except in the very unlikely event of some one coming
-by to carry a message to some town.  Twice I thought I heard
-some tiny sound of such approach, and it died away like [[Wind|wind]]
-in the trees, and the motorist was already asleep when I heard
-it renewed and realised Something certainly was approaching.
-I ran up the [[Road|road]]--and there it was.  Yes, It--and She.
-Thrice had she come, once comic and once tragic and once heroic.
-And when she came again it was as if in pardon on a pure errand of prosaic
-pity and relief.  I am quite serious.  I do not want you to laugh.
-It is not the first [[Time|time]] a [[donkey]] has been received seriously,
-nor one riding a [[donkey]] with respect.
+That is what I should say to the duke.  As to what the duke would
+say to me, that is another matter, and may [[Well|well]] be deferred.
 
 -/-
 
-The [[Wheel]]
+The Triumph of the [[donkey|Donkey]]
 
-IN a quiet and rustic though fairly famous church in my neighbourhood
-there is a [[Window|window]] supposed to represent an Angel on a Bicycle.
-It does definitely and indisputably represent a nude youth sitting
-on a [[Wheel|wheel]]; but there is enough complication in the [[Wheel|wheel]] and sanctity
-(I suppose) in the youth to warrant this working description.
-It is a thing of florid Renascence outline, and belongs to the highly
-pagan period which introduced all sorts of objects into ornament:
-personally I can believe in the bicycle more than in the angel.
-Men, they say, are now imitating angels; in their flying-machines,
-that is:  not in any other respect that I have heard of.  So perhaps
-the angel on the bicycle (if he is an angel and if it is a bicycle)
-was avenging himself by imitating man.  If so, he showed that high
-order of intellect which is attributed to angels in the mediaeval books,
-though not always (perhaps) in the mediaeval pictures.
+DOUBTLESS the unsympathetic might state my doctrine that one should
+not own a motor like a [[Horse|horse]], but rather use it like a flying dragon
+in the simpler form that I will always go motoring in somebody
+else's car.  My favourite modern philosopher (Mr. W. W. Jacobs)
+describes a similar case of spiritual delicacy misunderstood.
+I have not the book at hand, but I think that Job Brown was reproaching
+Bill Chambers for wasteful drunkenness, and Henery Walker spoke up
+for Bill, and said he scarcely ever had a glass but what somebody
+else paid for it, and there was "unpleasantness all round then."
 
-For wheels are the mark of a man quite as much as wings are the mark
-of an angel.  Wheels are the things that are as old as mankind and yet
-are strictly peculiar to man, that are prehistoric but not pre-human.
+Being less sensitive than Bill Chambers (or whoever it was)
+I will risk this rude perversion of my meaning, and concede that I
+was in a motor-car yesterday, and the motor-car most certainly was
+not my own, and the [[Journey|journey]], though it contained nothing that is
+specially unusual on such journeys, had running through it a strain
+of the [[Grotesque|grotesque]] which was at once wholesome and humiliating.
+The symbol of that influence was that ancient symbol of the humble
+and humorous--a [[donkey]].
+
+* * * * *
+
+When first I saw the [[donkey]] I saw him in the sunlight as the unearthly
+gargoyle that he is.  My friend had met me in his car (I repeat firmly,
+in _his_ car) at the little painted station in the middle
+of the warm wet woods and hop-fields of that western country.
+He proposed to drive me first to his [[house]] beyond the village
+before starting for a longer spin of adventure, and we rattled
+through those rich green lanes which have in them something
+singularly analogous to fairy tales; whether the lanes produced
+the fairies or (as I believe) the fairies produced the lanes.
+All around in the glimmering hop-yards stood those little hop-kilns
+like stunted and slanting spires.  They look like dwarfish churches--
+in fact, rather like many modern churches I could mention,
+churches all of them small and each of them a little crooked.
+In this elfin atmosphere we swung round a sharp corner and half-way
+up a steep, white [[Hill|hill]], and saw what looked at first like a tall,
+black [[Monster|monster]] against the sun.  It appeared to be a dark and dreadful
+woman walking on wheels and waving long ears like a bat's. A
+second glance told me that she was not the local [[Witch|witch]] in a state
+of transition; she was only one of the million tricks of perspective.
+She stood up in a small wheeled cart drawn by a [[donkey]];
+the [[donkey]]'s ears were just behind her head, and the whole was black
+against the light.
+
+Perspective is really the comic element in everything.
+It has a pompous Latin name, but it is incurably Gothic and [[Grotesque|grotesque]].
+One simple proof of this is that it is always left out of all dignified
+and decorative art.  There is no perspective in the Elgin Marbles,
+and even the essentially angular angels in mediaeval stained glass
+almost always (as it says in "Patience") contrive to look both
+angular and flat.  There is something intrinsically disproportionate
+and outrageous in the idea of the distant objects dwindling and
+growing dwarfish, the closer objects swelling enormous and intolerable.
+There is something frantic in the notion that one's own father by
+walking a little way can be changed by a blast of [[Magic|magic]] to a pigmy.
+There is something farcical in the fancy that [[Nature]] keeps one's uncle
+in an infinite number of sizes, according to where he is to stand.
+All soldiers in retreat turn into tin soldiers; all bears in rout
+into toy bears; as if on the ultimate horizon of the world everything
+was sardonically doomed to stand up laughable and little against heaven.

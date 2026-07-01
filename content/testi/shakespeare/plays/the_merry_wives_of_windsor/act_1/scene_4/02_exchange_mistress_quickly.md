@@ -1,5 +1,5 @@
 ---
-title: "The Merry Wives of Windsor — Act I, Scene 4 — exchange ([[Mistress Quickly|MISTRESS QUICKLY]]) [2]"
+title: "The Merry Wives of Windsor — Act I, Scene 4 — exchange (MISTRESS QUICKLY) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-merry-wives-of-windsor-(shakespeare)"

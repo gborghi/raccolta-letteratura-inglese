@@ -1,5 +1,5 @@
 ---
-title: "[[The Literary Life of Thingum Bob, Esq]] (part 2)"
+title: "The Literary Life of Thingum Bob, Esq (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-literary-life-of-thingum-bob,-esq-(poe)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_literary_life_of_thingum_bob_esq/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/the_literary_life_of_thingum_bob_esq/part/part_03">part 03 ›</a></div>
 </nav>
 
+
+      exactly—I took about fifty verses beginning with “[[Achilles]]’
+
+      wrath,” and “grease,” and something else. From a fourth, which I
 
       recollect was also the work of a blind man, I selected a page or
 
@@ -150,7 +154,7 @@ tags:
 
 
 
-      [[Achilles]]’ wrath, to Greece the direful [[Spring|spring]]
+      [[Achilles]]’ wrath, to Greece the direful [[spring]]
 
       Of woes unnumbered, &c., &c., &c., &c.
 
@@ -219,11 +223,3 @@ tags:
       “We say, ‘most _intelligible_.’ ‘Oppodeldoc,’ (whoever he is,)
 
       will be kind enough to tell us, perhaps, how ‘_hail_’ can be
-
-      ‘_holy light_’ We always regarded it as _frozen rain_. Will he
-
-      inform us, also, how frozen rain can be, at one and the same
-
-      [[Time|time]], both ‘holy light,’ (whatever that is,) and an
-
-      ‘offspring?’—which latter term, (if we understand any thing about

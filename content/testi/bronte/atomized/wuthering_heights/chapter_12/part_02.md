@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 12 (part 2)"
+title: "Wuthering Heights — Chapter 12 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_12/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_12/part_03">part 03 ›</a></div>
 </nav>
 
+
+“Give over with that baby-work!” I interrupted, dragging the pillow
+away, and turning the holes towards the mattress, for she was removing
+its contents by handfuls. “Lie down and shut your eyes: you’re
+wandering. There’s a mess! The down is flying about like [[Snow|snow]].”
 
 I went here and there collecting it.
 

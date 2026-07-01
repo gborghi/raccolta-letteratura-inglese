@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 37 (part 4)"
+title: "The Tenant of Wildfell Hall — Chapter 37 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,32 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_37/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_38/part_01">part 01 ›</a></div>
 </nav>
 
+
+“If you affect,” replied he, earnestly, “to regard as folly the best,
+
+the strongest, the most godlike impulses of our [[Nature|nature]], I don’t believe
+
+you. I know you are not the heartless, icy being you pretend to be—you
+
+had a heart once, and gave it to your husband. When you found him
+
+utterly unworthy of the treasure, you reclaimed it; and you will not
+
+_pretend_ that you loved that sensual, earthly-minded profligate so
+
+deeply, so devotedly, that you can never [[Love|love]] another? I know that
+
+there are feelings in your [[Nature|nature]] that have never yet been called
+
+forth; I know, too, that in your present neglected lonely state you are
+
+and _must_ be miserable. You have it in your power to raise two human
+
+beings from a state of actual [[Suffering|suffering]] to such unspeakable beatitude
+
+as only generous, noble, [[Self|self]]-forgetting [[Love|love]] can give (for you _can_
+
+[[Love|love]] me if you will); you may tell me that you scorn and detest me,
 
 but, since you have set me the example of plain speaking, I will answer
 

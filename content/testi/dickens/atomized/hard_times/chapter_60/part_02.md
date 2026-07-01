@@ -1,5 +1,5 @@
 ---
-title: "Hard Times — Chapter 5 (part 2)"
+title: "Hard Times — Chapter 7 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/hard-times-(dickens)"
@@ -10,154 +10,135 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/hard-times-(dickens)">Hard Times</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/hard_times/chapter_60/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/hard_times/chapter_61/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/hard_times/chapter_60/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/hard_times/chapter_60/part_03">part 03 ›</a></div>
 </nav>
 
 
-‘Now, my friend,’ said Mr. Bounderby, whom he could not have exasperated
-more, quite unconscious of it though he was, than by seeming to appeal to
-any one else, ‘if you will favour me with your attention for half a
-minute, I should like to have a word or two with you.  You said just now,
-that you had nothing to tell us about this business.  You are quite sure
-of that before we go any further.’
+Then he would address Mr. Harthouse in the same style.
 
-‘Sir, I am sure on ’t.’
+‘Harthouse, you have a couple of horses down here.  Bring half a dozen
+more if you like, and we’ll find room for ’em.  There’s stabling in this
+place for a dozen horses; and unless Nickits is belied, he kept the full
+number.  A round dozen of ’em, sir.  When that man was a boy, he went to
+Westminster School.  Went to Westminster School as a [[King]]’s Scholar, when
+I was principally living on garbage, and sleeping in market baskets.
+Why, if I wanted to keep a dozen horses—which I don’t, for one’s enough
+for me—I couldn’t bear to see ’em in their stalls here, and think what my
+own lodging used to be.  I couldn’t look at ’em, sir, and not order ’em
+out.  Yet so things come round.  You see this place; you know what sort
+of a place it is; you are aware that there’s not a completer place of its
+size in this kingdom or elsewhere—I don’t care where—and here, got into
+the middle of it, like a maggot into a nut, is [[Josiah Bounderby]].  While
+Nickits (as a man came into my office, and told me yesterday), Nickits,
+who used to act in Latin, in the Westminster School plays, with the
+chief-justices and nobility of this country applauding him till they were
+black in the face, is drivelling at this minute—drivelling, sir!—in a
+fifth floor, up a narrow dark back street in Antwerp.’
 
-‘Here’s a gentleman from [[London]] present,’ Mr. Bounderby made a backhanded
-point at Mr. [[James Harthouse]] with his thumb, ‘a Parliament gentleman.  I
-should like him to hear a short bit of dialogue between you and me,
-instead of taking the substance of it—for I know precious [[Well|well]],
-beforehand, what it will be; nobody knows better than I do, take
-notice!—instead of receiving it on trust from my mouth.’
+It was among the leafy shadows of this retirement, in the long sultry
+[[Summer|summer]] days, that Mr. Harthouse began to prove the face which had set him
+wondering when he first saw it, and to try if it would change for him.
 
-Stephen bent his head to the gentleman from [[London]], and showed a rather
-more troubled mind than usual.  He turned his eyes involuntarily to his
-former refuge, but at a look from that quarter (expressive though
-instantaneous) he settled them on Mr. Bounderby’s face.
+‘Mrs. Bounderby, I esteem it a most fortunate accident that I find you
+[[Alone|alone]] here.  I have for some [[Time|time]] had a particular wish to speak to you.’
 
-‘Now, what do you complain of?’ asked Mr. Bounderby.
+It was not by any wonderful accident that he found her, the [[Time|time]] of day
+being that at which she was always [[Alone|alone]], and the place being her
+favourite resort.  It was an opening in a dark wood, where some felled
+trees lay, and where she would sit watching the fallen [[Leaves|leaves]] of last
+year, as she had watched the falling ashes at [[Home|home]].
 
-‘I ha’ not coom here, sir,’ Stephen reminded him, ‘to complain.  I coom
-for that I were sent for.’
+He sat down beside her, with a glance at her face.
 
-‘What,’ repeated Mr. Bounderby, folding his arms, ‘do you people, in a
-general way, complain of?’
+‘Your brother.  My young friend Tom—’
 
-Stephen looked at him with some little irresolution for a moment, and
-then seemed to make up his mind.
+Her colour brightened, and she turned to him with a look of interest.  ‘I
+never in my life,’ he thought, ‘saw anything so remarkable and so
+captivating as the lighting of those features!’  His face betrayed his
+thoughts—perhaps without betraying him, for it might have been according
+to its instructions so to do.
 
-‘Sir, I were never good at showin o ’t, though I ha had’n my share in
-feeling o ’t.  ’Deed we are in a muddle, sir.  Look round town—so rich as
-’tis—and see the numbers o’ people as has been broughten into bein heer,
-fur to weave, an’ to card, an’ to piece out a livin’, aw the same one
-way, somehows, ’twixt their cradles and their graves.  Look how we live,
-an’ wheer we live, an’ in what numbers, an’ by what chances, and wi’ what
-sameness; and look how the mills is awlus a goin, and how they never
-works us no nigher to ony dis’ant object—ceptin awlus, [[Death]].  Look how
-you considers of us, and writes of us, and talks of us, and goes up wi’
-yor deputations to Secretaries o’ State ’bout us, and how yo are awlus
-right, and how we are awlus wrong, and never had’n no reason in us sin
-ever we were born.  Look how this ha growen an’ growen, sir, bigger an’
-bigger, broader an’ broader, harder an’ harder, fro year to year, fro
-generation unto generation.  Who can look on ’t, sir, and fairly tell a
-man ’tis not a muddle?’
+‘Pardon me.  The expression of your sisterly interest is so beautiful—Tom
+should be so proud of it—I know this is inexcusable, but I am so
+compelled to admire.’
 
-‘Of course,’ said Mr. Bounderby.  ‘Now perhaps you’ll let the gentleman
-know, how you would set this muddle (as you’re so fond of calling it) to
-rights.’
+‘Being so impulsive,’ she said composedly.
 
-‘I donno, sir.  I canna be expecten to ’t.  ’Tis not me as should be
-looken to for that, sir.  ’Tis them as is put ower me, and ower aw the
-rest of us.  What do they tak upon themseln, sir, if not to do’t?’
+‘Mrs. Bounderby, no: you know I make no pretence with you.  You know I am
+a sordid piece of human [[Nature|nature]], ready to sell myself at any [[Time|time]] for any
+reasonable sum, and altogether incapable of any Arcadian proceeding
+whatever.’
 
-‘I’ll tell you something towards it, at any rate,’ returned Mr.
-Bounderby.  ‘We will make an example of half a dozen Slackbridges.  We’ll
-indict the blackguards for felony, and get ’em shipped off to penal
-settlements.’
+‘I am waiting,’ she returned, ‘for your further reference to my brother.’
 
-Stephen gravely shook his head.
+‘You are rigid with me, and I deserve it.  I am as worthless a dog as you
+will find, except that I am not false—not false.  But you surprised and
+started me from my subject, which was your brother.  I have an interest
+in him.’
 
-‘Don’t tell me we won’t, man,’ said Mr. Bounderby, by this [[Time|time]] blowing a
-hurricane, ‘because we will, I tell you!’
+‘Have you an interest in anything, Mr. Harthouse?’ she asked, half
+incredulously and half gratefully.
 
-‘Sir,’ returned Stephen, with the quiet confidence of absolute certainty,
-‘if yo was t’ tak a hundred Slackbridges—aw as there is, and aw the
-number ten times towd—an’ was t’ sew ’em up in separate sacks, an’ sink
-’em in the deepest ocean as were made ere ever dry land coom to be, yo’d
-leave the muddle just wheer ’tis.  Mischeevous strangers!’ said Stephen,
-with an anxious smile; ‘when ha we not heern, I am sure, sin ever we can
-call to mind, o’ th’ mischeevous strangers!  ’Tis not by _them_ the
-trouble’s made, sir.  ’Tis not wi’ _them_ ’t commences.  I ha no favour
-for ’em—I ha no reason to favour ’em—but ’tis hopeless and useless to
-dream o’ takin them fro their trade, ’stead o’ takin their trade fro
-them!  Aw that’s now about me in this room were heer afore I coom, an’
-will be heer when I am gone.  Put that [[Clock|clock]] aboard a [[Ship|ship]] an’ pack it
-off to Norfolk Island, an’ the [[Time|time]] will go on just the same.  So ’tis
-wi’ Slackbridge every bit.’
+‘If you had asked me when I first came here, I should have said no.  I
+must say now—even at the hazard of appearing to make a pretence, and of
+justly awakening your [[Incredulity|incredulity]]—yes.’
 
-Reverting for a moment to his former refuge, he observed a cautionary
-movement of her eyes towards the door.  Stepping back, he put his hand
-upon the lock.  But he had not spoken out of his own will and [[Desire|desire]]; and
-he felt it in his heart a noble return for his late injurious treatment
-to be faithful to the last to those who had repudiated him.  He stayed to
-finish what was in his mind.
+She made a slight movement, as if she were trying to speak, but could not
+find voice; at length she said, ‘Mr. Harthouse, I give you credit for
+being interested in my brother.’
 
-‘Sir, I canna, wi’ my little learning an’ my common way, tell the
-genelman what will better aw this—though some working men o’ this town
-could, above my powers—but I can tell him what I know will never do ’t.
-The strong hand will never do ’t.  Vict’ry and triumph will never do ’t.
-Agreeing fur to mak one side unnat’rally awlus and for ever right, and
-toother side unnat’rally awlus and for ever wrong, will never, never do
-’t.  Nor yet lettin [[Alone|alone]] will never do ’t.  Let thousands upon thousands
-[[Alone|alone]], aw leading the like lives and aw faw’en into the like muddle, and
-they will be as one, and yo will be as anoother, wi’ a black unpassable
-world betwixt yo, just as long or short a [[Time|time]] as sich-like misery can
-last.  Not drawin nigh to fok, wi’ kindness and patience an’ cheery ways,
-that so draws nigh to one another in their monny troubles, and so
-cherishes one another in their distresses wi’ what they need
-themseln—like, I humbly believe, as no people the genelman ha seen in aw
-his travels can beat—will never do ’t till th’ Sun turns t’ ice.  Most o’
-aw, rating ’em as so much Power, and reg’latin ’em as if they was figures
-in a soom, or machines: wi’out loves and likens, wi’out memories and
-inclinations, wi’out souls to weary and souls to [[Hope|hope]]—when aw goes quiet,
-draggin on wi’ ’em as if they’d nowt o’ th’ kind, and when aw goes
-onquiet, reproachin ’em for their want o’ sitch humanly feelins in their
-dealins wi’ yo—this will never do ’t, sir, till God’s work is onmade.’
+‘Thank you.  I claim to deserve it.  You know how little I do claim, but
+I will go that length.  You have done so much for him, you are so fond of
+him; your whole life, Mrs. Bounderby, expresses such charming
+[[Self|self]]-forgetfulness on his account—pardon me again—I am running wide of
+the subject.  I am interested in him for his own sake.’
 
-Stephen stood with the open door in his hand, waiting to know if anything
-more were expected of him.
+She had made the slightest action possible, as if she would have risen in
+a hurry and gone away.  He had turned the course of what he said at that
+instant, and she remained.
 
-‘Just stop a moment,’ said Mr. Bounderby, excessively red in the face.
-‘I told you, the last [[Time|time]] you were here with a grievance, that you had
-better turn about and come out of that.  And I also told you, if you
-remember, that I was up to the gold spoon look-out.’
+‘Mrs. Bounderby,’ he resumed, in a lighter manner, and yet with a show of
+effort in assuming it, which was even more expressive than the manner he
+dismissed; ‘it is no irrevocable offence in a young fellow of your
+brother’s years, if he is heedless, inconsiderate, and expensive—a little
+dissipated, in the common phrase.  Is he?’
 
-‘I were not up to ’t myseln, sir; I do assure yo.’
+‘Yes.’
 
-‘Now it’s clear to me,’ said Mr. Bounderby, ‘that you are one of those
-chaps who have always got a grievance.  And you go about, sowing it and
-raising crops.  That’s the business of _your_ life, my friend.’
+‘Allow me to be frank.  Do you think he games at all?’
 
-Stephen shook his head, mutely protesting that indeed he had other
-business to do for his life.
+‘I think he makes bets.’  Mr. Harthouse waiting, as if that were not her
+whole answer, she added, ‘I know he does.’
 
-‘You are such a waspish, raspish, ill-conditioned chap, you see,’ said
-Mr. Bounderby, ‘that even your own [[Union]], the men who know you best, will
-have nothing to do with you.  I never thought those fellows could be
-right in anything; but I tell you what!  I so far go along with them for
-a novelty, that _I_’ll have nothing to do with you either.’
+‘Of course he loses?’
 
-Stephen raised his eyes quickly to his face.
+‘Yes.’
 
-‘You can finish off what you’re at,’ said Mr. Bounderby, with a meaning
-nod, ‘and then go elsewhere.’
+‘Everybody does lose who bets.  May I hint at the probability of your
+sometimes supplying him with money for these purposes?’
 
-‘Sir, yo know weel,’ said Stephen expressively, ‘that if I canna get work
-wi’ yo, I canna get it elsewheer.’
+She sat, looking down; but, at this question, raised her eyes searchingly
+and a little resentfully.
 
-The reply was, ‘What I know, I know; and what you know, you know.  I have
-no more to say about it.’
+‘Acquit me of impertinent curiosity, my dear Mrs. Bounderby.  I think Tom
+may be gradually falling into trouble, and I wish to stretch out a
+helping hand to him from the depths of my wicked experience.—Shall I say
+again, for his sake?  Is that necessary?’
 
-Stephen glanced at Louisa again, but her eyes were raised to his no more;
-therefore, with a sigh, and saying, barely above his breath, ‘Heaven help
-us aw in this world!’ he departed.
+She seemed to try to answer, but nothing came of it.
+
+‘Candidly to confess everything that has occurred to me,’ said James
+Harthouse, again gliding with the same appearance of effort into his more
+airy manner; ‘I will confide to you my [[Doubt|doubt]] whether he has had many
+advantages.  Whether—forgive my plainness—whether any great amount of
+confidence is likely to have been established between himself and his
+most worthy father.’
+
+‘I do not,’ said Louisa, flushing with her own great remembrance in that
+wise, ‘think it likely.’
+
+‘Or, between himself, and—I may trust to your perfect understanding of my
+meaning, I am sure—and his highly esteemed brother-in-law.’
+
+She flushed deeper and deeper, and was burning red when she replied in a
+fainter voice, ‘I do not think that likely, either.’

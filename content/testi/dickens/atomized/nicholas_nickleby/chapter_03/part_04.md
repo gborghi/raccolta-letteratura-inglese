@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 3 (part 4)"
+title: "Nicholas Nickleby — Chapter 3 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,21 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_03/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_04/part_01">part 01 ›</a></div>
 </nav>
 
+
+Mr. [[Ralph Nickleby]] heard all this with a half-smile; and when the widow
+had finished, quietly took up the subject where it had been left before
+the above outbreak.
+
+‘Are you willing to work, sir?’ he inquired, frowning on his nephew.
+
+‘Of course I am,’ replied Nicholas haughtily.
+
+‘Then see here, sir,’ said his uncle. ‘This caught my eye this morning,
+and you may thank your [[Stars|stars]] for it.’
+
+With this exordium, Mr. [[Ralph Nickleby]] took a newspaper from his
+pocket, and after unfolding it, and looking for a short [[Time|time]] among the
+advertisements, read as follows:
 
 ‘“[[Education|EDUCATION]].--At Mr. [[Wackford Squeers]]’s Academy, Dotheboys Hall, at the
 delightful village of Dotheboys, near Greta Bridge in Yorkshire, Youth

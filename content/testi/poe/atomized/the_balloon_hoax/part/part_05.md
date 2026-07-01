@@ -1,5 +1,5 @@
 ---
-title: "[[The Balloon-Hoax]] (part 5)"
+title: "The Balloon-Hoax (part 5)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-balloon-hoax-(poe)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_balloon_hoax/part/part_04">‹ part 04</a><a class="ex-next" href="/testi/poe/atomized/the_balloon_hoax/part/part_06">part 06 ›</a></div>
 </nav>
 
+
+      influence of a dram of Geneva, seemed resolved to give all
+
+      scruple, or [[Fear|fear]], to the [[Wind|wind]]. Many of the vessels fired signal
+
+      guns; and in all we were saluted with loud cheers (which we heard
+
+      with surprising distinctness) and the waving of caps and
+
+      handkerchiefs. We kept on in this manner throughout the day, with
+
+      no material incident, and, as the shades of [[Night|night]] closed around
+
+      us, we made a rough estimate of the distance traversed. It could
+
+      not have been less than five hundred miles, and was probably much
+
+      more. The propeller was kept in constant operation, and, no
 
       [[Doubt|doubt]], aided our progress materially. As the sun went down, the
 
@@ -173,27 +191,3 @@ tags:
       subsidence of the whole [[Machine|machine]]. These phenomena were occasioned
 
       by the expansion of the gas, through increase of heat in the
-
-      atmosphere, and the consequent disruption of the minute particles
-
-      of ice with which the network had become encrusted during the
-
-      [[Night|night]]. Threw down several bottles to the vessels below. Saw one
-
-      of them picked up by a large [[Ship|ship]]—seemingly one of the [[New York]]
-
-      line packets. Endeavored to make out her name, but could not be
-
-      sure of it. Mr. Osborne’s telescope made it out something like
-
-      “Atalanta.” It is now 12, at [[Night|night]], and we are still going nearly
-
-      west, at a rapid pace. The sea is peculiarly phosphorescent.
-
-
-
-      “P.S. [By Mr. Ainsworth.] It is now 2, A.M., and nearly calm, as
-
-      [[Well|well]] as I can judge—but it is very difficult to determine this
-
-      point, since we move _with_ the air so completely. I have not

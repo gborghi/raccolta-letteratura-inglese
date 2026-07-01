@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 45 (part 2)"
+title: "Nicholas Nickleby — Chapter 45 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -124,11 +124,3 @@ and surprise of the scene, and though the [[Tears|tears]] were in her eyes, felt
 disposition to join him.
 
 ‘Have you done enjoying yourself, sir?’ said Ralph, at length.
-
-‘Pratty nigh for the prasant [[Time|time]], sir,’ replied John.
-
-‘I can wait,’ said Ralph. ‘Take your own [[Time|time]], pray.’
-
-Ralph waited until there was a perfect [[Silence|silence]], and then turning to Mrs
-Nickleby, but directing an eager glance at Kate, as if more anxious to
-watch his effect upon her, said:

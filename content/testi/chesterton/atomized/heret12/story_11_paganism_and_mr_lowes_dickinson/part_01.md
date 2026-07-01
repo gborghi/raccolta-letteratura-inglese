@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]] — Paganism and Mr. Lowes Dickinson (part 1)"
+title: "heret12 — Paganism and Mr. Lowes Dickinson (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/heret12-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 XII.  Paganism and Mr. Lowes Dickinson
-
 
 Of the New Paganism (or neo-Paganism), as it was preached flamboyantly
 by Mr. Swinburne or delicately by Walter Pater, there is no necessity

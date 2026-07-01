@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 52 (part 3)"
+title: "Bleak House — Chapter 52 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,23 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_52/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_52/part_04">part 04 ›</a></div>
 </nav>
 
+
+He stopped on hearing some one at the locks and bolts and did not
+resume until the door had been opened and was shut again. For what
+purpose opened, I will mention presently.
+
+“I should have got a lawyer, and he would have said (as I have often
+read in the newspapers), ‘My client says nothing, my client reserves
+his defence’: my client this, that, and t’other. [[Well]], ’tis not the
+custom of that breed to go straight, according to my opinion, or to
+think that other men do. Say I am [[Innocent|innocent]] and I get a lawyer. He
+would be as likely to believe me guilty as not; perhaps more. What
+would he do, whether or not? Act as if I was—shut my mouth up, tell
+me not to commit myself, keep circumstances back, chop the evidence
+small, quibble, and get me off perhaps! But, Miss Summerson, do I
+care for getting off in that way; or would I rather be hanged in my
+own way—if you’ll excuse my mentioning anything so disagreeable to a
+lady?”
 
 He had warmed into his subject now, and was under no further
 necessity to wait a bit.
@@ -123,18 +140,3 @@ and I now perceived from her glances at the door and at me, by turns,
 that she wished us to retire and to await her following us outside
 the [[Prison|prison]]. Communicating this by similar means to my guardian and
 Mr. Woodcourt, I [[Rose|rose]].
-
-“We [[Hope|hope]] you will think better of it, Mr. George,” said I, “and we
-shall come to see you again, trusting to find you more reasonable.”
-
-“More grateful, Miss Summerson, you can’t find me,” he returned.
-
-“But more persuadable we can, I [[Hope|hope]],” said I. “And let me entreat
-you to consider that the clearing up of this mystery and the
-discovery of the real perpetrator of this deed may be of the last
-importance to others besides yourself.”
-
-He heard me respectfully but without much heeding these words, which
-I spoke a little turned from him, already on my way to the door; he
-was observing (this they afterwards told me) my height and figure,
-which seemed to catch his attention all at once.

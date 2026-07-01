@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 4 (part 4)"
+title: "Jane Eyre — Chapter 4 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_04/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_04/part_05">part 05 ›</a></div>
 </nav>
 
+
+“This is the state of things I quite approve,” returned Mrs. Reed; “had
+I sought all England over, I could scarcely have found a system more
+exactly fitting a [[Child|child]] like [[Jane Eyre]]. Consistency, my dear Mr.
+Brocklehurst; I advocate consistency in all things.”
 
 “Consistency, madam, is the first of Christian duties; and it has been
 observed in every arrangement connected with the establishment of
@@ -129,11 +134,3 @@ unhoped-for liberty. Not without cause was this sentiment: Mrs. Reed
 looked frightened; her work had slipped from her knee; she was lifting
 up her hands, rocking herself to and fro, and even twisting her face as
 if she would cry.
-
-“Jane, you are under a mistake: what is the matter with you? Why do you
-tremble so violently? Would you like to drink some [[Water|water]]?”
-
-“No, Mrs. Reed.”
-
-“Is there anything else you wish for, Jane? I assure you, I [[Desire|desire]] to
-be your friend.”

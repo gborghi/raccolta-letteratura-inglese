@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 33 (part 2)"
+title: "Jane Eyre — Chapter 33 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -116,7 +116,7 @@ matter one can comprehend, or consequently enjoy, all at once. And then
 there are other chances in life far more thrilling and rapture-giving:
 _this_ is solid, an affair of the actual world, nothing ideal about it:
 all its associations are solid and sober, and its manifestations are
-the same. One does not jump, and [[spring]], and shout hurrah! at hearing
+the same. One does not jump, and [[Spring|spring]], and shout hurrah! at hearing
 one has got a fortune; one begins to consider responsibilities, and to
 ponder business; on a base of steady satisfaction rise certain [[Grave|grave]]
 cares, and we contain ourselves, and brood over our bliss with a solemn
@@ -144,6 +144,3 @@ think they say—but what is that?”
 Here was a new stunner—I had been calculating on four or five thousand.
 This news actually took my breath for a moment: Mr. St. John, whom I
 had never heard laugh before, laughed now.
-
-“[[Well]],” said he, “if you had committed a murder, and I had told you
-your crime was discovered, you could scarcely look more aghast.”

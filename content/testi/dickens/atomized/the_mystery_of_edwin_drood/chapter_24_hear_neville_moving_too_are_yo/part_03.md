@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Part 1: hear Neville moving too. Are you going back?” (part 3)"
+title: "The Mystery of Edwin Drood — Part 1: hear Neville moving too. Are you going back?” (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_24_hear_neville_moving_too_are_yo/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_24_hear_neville_moving_too_are_yo/part_04">part 04 ›</a></div>
 </nav>
 
+
+Behold Mr. Tartar walking up and down Furnival’s Inn, checking himself
+when he saw them coming, and advancing towards them!
 
 “It occurred to me,” hinted Mr. Tartar, “that we might go up the [[River|river]],
 the weather being so delicious and the tide serving. I have a boat of
@@ -115,11 +118,3 @@ Twinkleton kept a school. The leap from that knowledge to the inference
 that Miss Twinkleton set herself to teach _her_ something, was easy.
 “But you don’t do it,” soliloquised the Billickin; “I am not your
 pupil, whatever she,” meaning Rosa, “may be, poor thing!”
-
-Miss Twinkleton, on the other hand, having changed her dress and
-recovered her spirits, was animated by a bland [[Desire|desire]] to improve the
-occasion in all ways, and to be as serene a model as possible. In a
-happy compromise between her two states of existence, she had already
-become, with her workbasket before her, the equably vivacious companion
-with a slight judicious flavouring of information, when the Billickin
-announced herself.

@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 3 (part 6)"
+title: "Martin Chuzzlewit — Chapter 3 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,33 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_03/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_03/part_07">part 07 ›</a></div>
 </nav>
 
+
+‘You wish me to speak to you as to a total stranger,’ said the old man,
+‘do you?’
+
+Mr Pecksniff replied, by a shrug of his shoulders and an apparent
+turning round of his eyes in their sockets before he opened them, that
+he was still reduced to the necessity of entertaining that [[Desire|desire]].
+
+‘You shall be gratified,’ said Martin. ‘Sir, I am a rich man. Not so
+rich as some suppose, perhaps, but yet wealthy. I am not a miser sir,
+though even that charge is made against me, as I hear, and currently
+believed. I have no pleasure in hoarding. I have no pleasure in the
+possession of money, The devil that we call by that name can give me
+nothing but unhappiness.’
+
+It would be no description of Mr Pecksniff’s gentleness of manner to
+adopt the common parlance, and say that he looked at this moment as if
+butter wouldn’t melt in his mouth. He rather looked as if any quantity
+of butter might have been made out of him, by churning the milk of human
+kindness, as it spouted upwards from his heart.
+
+‘For the same reason that I am not a hoarder of money,’ said the old
+man, ‘I am not lavish of it. Some people find their gratification in
+storing it up; and others theirs in parting with it; but I have no
+gratification connected with the thing. [[Pain]] and bitterness are the only
+goods it ever could procure for me. I hate it. It is a spectre walking
+before me through the world, and making every social pleasure hideous.’
 
 A thought arose in Pecksniff’s mind, which must have instantly mounted
 to his face, or [[Martin Chuzzlewit]] would not have resumed as quickly and
@@ -108,14 +135,3 @@ disappointed, will mourn it, perhaps; though for that I care little.
 This is the only kind of friend I have or will have. Judge from such
 premises what a profitable hour you have spent in coming here, and leave
 me, to return no more.’
-
-With these words, the old man fell slowly back upon his pillow. Mr
-Pecksniff as slowly [[Rose|rose]], and, with a prefatory hem, began as follows:
-
-‘Mr Chuzzlewit.’
-
-‘There. Go!’ interposed the other. ‘Enough of this. I am weary of you.’
-
-‘I am sorry for that, sir,’ rejoined Mr Pecksniff, ‘because I have a
-duty to discharge, from which, depend upon it, I shall not shrink. No,
-sir, I shall not shrink.’

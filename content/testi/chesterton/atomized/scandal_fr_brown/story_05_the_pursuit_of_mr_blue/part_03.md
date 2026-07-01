@@ -126,8 +126,3 @@ questions that didn't seem to me to get us any further, except towards a
 quarrel. Perhaps he's jealous because the old man called in somebody
 else, and wasn't content with his elegant secretary's advice. See you
 later.'
-
-And he turned away, ploughing through the sand to the place where the
-eccentric preacher had already mounted his marine nest; and looked in
-the green gloaming rather like some huge polyp or stinging jelly - fish
-trailing his poisonous filaments in the phosphorescent sea.

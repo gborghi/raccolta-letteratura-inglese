@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 26 (part 1)"
+title: "Shirley — Chapter 26 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -259,9 +259,3 @@ of this diet or to ask for a crumb beyond it.
 
 
 The daughters were an example to their sex. They were tall, with a Roman
-
-nose apiece. They had been educated faultlessly. All they did was [[Well|well]]
-
-done. [[history|History]] and the most solid books had cultivated their minds.
-
-Principles and opinions they possessed which could not be mended. More

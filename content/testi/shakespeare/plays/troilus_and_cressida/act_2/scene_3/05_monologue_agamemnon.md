@@ -1,5 +1,5 @@
 ---
-title: "[[Troilus]] and [[Cressida]] — Act II, Scene 3 — monologue ([[Agamemnon|AGAMEMNON]]) [5]"
+title: "Troilus and Cressida — Act II, Scene 3 — monologue (AGAMEMNON) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/troilus-and-cressida-(shakespeare)"

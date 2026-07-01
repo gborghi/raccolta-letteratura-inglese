@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 51 (part 2)"
+title: "Oliver Twist — Chapter 51 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -118,15 +118,3 @@ some weeks before; he had searched for her, on foot, in every town and
 village near; it was on the [[Night|night]] when he returned [[Home|home]], assured that
 she had destroyed herself, to hide her shame and his, that his old
 heart broke.”
-
-There was a short [[Silence|silence]] here, until Mr. Brownlow took up the thread
-of the narrative.
-
-“Years after this,” he said, “this man’s—Edward Leeford’s—mother came
-to me. He had left her, when only eighteen; robbed her of jewels and
-money; gambled, squandered, forged, and fled to [[London]]: where for two
-years he had associated with the lowest outcasts. She was sinking under
-a painful and incurable disease, and wished to recover him before she
-died. Inquiries were set on foot, and strict searches made. They were
-unavailing for a long [[Time|time]], but ultimately successful; and he went back
-with her to France.”

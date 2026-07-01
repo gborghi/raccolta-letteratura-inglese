@@ -1,5 +1,5 @@
 ---
-title: "[[innocence]] — The Queer Feet (part 5)"
+title: "innocence — The Queer Feet (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -141,9 +141,3 @@ but I think I know a cleverer."
 
 "He was a clever fellow," answered the other, "but I am not quite
 sure of what other you mean."
-
-"I mean you," said the colonel, with a short laugh.  "I don't
-want to get the fellow jailed; make yourself easy about that.
-But I'd give a good many silver forks to know exactly how you
-fell into this affair, and how you got the stuff out of him.
-I reckon you're the most up-to-date devil of the present company."

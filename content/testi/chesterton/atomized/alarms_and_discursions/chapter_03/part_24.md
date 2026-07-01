@@ -14,111 +14,127 @@ tags:
 </nav>
 
 
-I strolled slowly back across the stretch of turf by the sunset,
-a field of the cloth of gold.  As I drew near my own [[house]],
-its huge size began to horrify me; and when I came to the porch of it
-I discovered with an [[Incredulity|incredulity]] as strong as [[Despair|despair]] that my [[house]]
-was actually bigger than myself.  A minute or two before there
-might [[Well|well]] have seemed to be a monstrous and mythical competition
-about which of the two should [[Swallow|swallow]] the other.  But I was Jonah;
-my [[house]] was the huge and hungry fish; and even as its jaws darkened
-and closed about me I had again this dreadful fancy touching the dizzy
-altitude of all the works of man.  I climbed the stairs stubbornly,
-planting each foot with savage care, as if ascending a glacier.
-When I got to a landing I was wildly relieved, and waved my hat.
-The very word "landing" has about it the wild sound of some one washed
-up by the sea.  I climbed each flight like a ladder in naked sky.
-The walls all round me failed and faded into infinity; I went up
-the ladder to my bedroom as Montrose went up the ladder to the gallows;
-_sic itur ad astra_.  Do you think this is a little fantastic--
-even a little fearful and nervous?  Believe me, it is only one of
-the wild and wonderful things that one can learn by stopping at [[Home|home]].
+In the feverish [[Summer|summer]] of this [[Fanaticism|fanaticism]] there arose the phrase
+that this or that part of England is being "built over."
+Now, there is not the slightest objection, in itself, to England
+being built over by men, any more than there is to its being
+(as it is already) built over by [[Birds|birds]], or by squirrels, or by spiders.
+But if [[Birds|birds]]' nests were so thick on a tree that one could see nothing
+but nests and no [[Leaves|leaves]] at all, I should say that bird civilisation
+was becoming a bit decadent.  If whenever I tried to walk down the [[Road|road]]
+I found the whole thoroughfare one crawling carpet of spiders,
+closely interlocked, I should feel a distress verging on distaste.
+If one were at every turn crowded, elbowed, overlooked, overcharged,
+sweated, rack-rented, swindled, and sold up by avaricious and
+arrogant squirrels, one might at last remonstrate.  But the great towns
+have grown intolerable solely because of such suffocating vulgarities
+and tyrannies.  It is not humanity that disgusts us in the huge cities;
+it is inhumanity.  It is not that there are human beings;
+but that they are not treated as such.  We do not, I [[Hope|hope]], dislike men
+and women; we only dislike their being made into a sort of jam:
+crushed together so that they are not merely powerless but shapeless.
+It is not the presence of people that makes [[London]] appalling.
+It is merely the absence of The People.
+
+Therefore, I [[Dance|dance]] with joy to think that my part of England
+is being built over, so long as it is being built over in
+a human way at human intervals and in a human proportion.
+So long, in short, as I am not myself built over, like a pagan
+slave buried in the foundations of a temple, or an American clerk
+in a star-striking pagoda of flats, I am delighted to see the faces
+and the homes of a race of bipeds, to which I am not only attracted
+by a strange affection, but to which also (by a touching coincidence)
+I actually happen to belong.  I am not one desiring deserts.
+I am not [[Timon]] of Athens; if my town were Athens I would stay in it.
+I am not Simeon Stylites; except in the mournful sense that every
+Saturday I find myself on the top of a newspaper column.
+I am not in the [[Desert|desert]] repenting of some monstrous sins;
+at least, I am repenting of them all right, but not in the [[Desert|desert]].
+I do not want the nearest human [[house]] to be too distant to see; that is
+my objection to the wilderness.  But neither do I want the nearest human
+[[house]] to be too close to see; that is my objection to the modern [[City|city]].
+I [[Love|love]] my fellow-man; I do not want him so far off that I can
+only observe anything of him through a telescope, nor do I want
+him so close that I can examine parts of him with a microscope.
+I want him within a stone's throw of me; so that whenever it is
+really necessary, I may throw the stone.
+
+Perhaps, after all, it may not be a stone.  Perhaps, after all,
+it may be a bouquet, or a snowball, or a firework, or a Free Trade Loaf;
+perhaps they will ask for a stone and I shall give them bread.
+But it is essential that they should be within reach:  how can I
+[[Love|love]] my neighbour as myself if he gets out of range for snowballs?
+There should be no institution out of the reach of an indignant
+or admiring humanity.  I could hit the nearest [[house]] quite [[Well|well]]
+with the catapult; but the [[Truth|truth]] is that the catapult belongs to a
+little boy I know, and, with characteristic youthful selfishness,
+he has taken it away.
 
 -/-
 
-The Three Kinds of Men
+The Wings of Stone
 
-ROUGHLY speaking, there are three kinds of people in this world.
-The first kind of people are People; they are the largest and probably
-the most valuable class.  We owe to this class the chairs we sit down on,
-the clothes we wear, the houses we live in; and, indeed (when we
-come to think of it), we probably belong to this class ourselves.
-The second class may be called for convenience the Poets;
-they are often a nuisance to their families, but, generally speaking,
-a blessing to mankind.  The third class is that of the Professors
-or Intellectuals; sometimes described as the thoughtful people;
-and these are a blight and a desolation both to their families and
-also to mankind.  Of course, the classification sometimes overlaps,
-like all classification.  Some good people are almost poets and
-some bad poets are almost professors.  But the division follows
-lines of real psychological cleavage.  I do not offer it lightly.
-It has been the fruit of more than eighteen minutes of earnest
-reflection and research.
+THE preceding [[Essay|essay]] is about a half-built [[house]] upon my
+private horizon; I wrote it sitting in a [[Garden|garden]]-chair; and as,
+though it was a week ago, I have scarcely moved since then
+(to speak of), I do not see why I should not go on writing about it.
+Strictly speaking, I have moved; I have even walked across a field--
+a field of turf all fiery in our early [[Summer|summer]] sunlight--and studied
+the early angular red [[skeleton]] which has turned golden in the sun.
+It is odd that the [[skeleton]] of a [[house]] is cheerful when the [[skeleton]]
+of a man is mournful, since we only see it after the man is destroyed.
+At least, we think the [[skeleton]] is mournful; the [[skeleton]] himself
+does not seem to think so.  Anyhow, there is something strangely
+primary and poetic about this sight of the scaffolding and main
+lines of a human building; it is a pity there is no scaffolding
+round a human baby.  One seems to see domestic life as the daring
+and ambitious thing that it is, when one looks at those open staircases
+and empty chambers, those spirals of [[Wind|wind]] and open halls of sky.
+Ibsen said that the art of domestic drama was merely to knock one wall
+out of the four walls of a drawing-room. I find the drawing-room
+even more impressive when all four walls are knocked out.
 
-The class called People (to which you and I, with no little [[Pride|pride]],
-attach ourselves) has certain casual, yet profound, assumptions,
-which are called "commonplaces," as that children are charming,
-or that twilight is sad and sentimental, or that one man fighting
-three is a fine sight.  Now, these feelings are not crude;
-they are not even simple.  The charm of children is very subtle;
-it is even complex, to the extent of being almost contradictory.
-It is, at its very plainest, mingled of a regard for hilarity and a
-regard for helplessness.  The sentiment of twilight, in the vulgarest
-drawing-room [[Song|song]] or the coarsest pair of sweethearts, is, so far
-as it goes, a subtle sentiment.  It is strangely balanced between
-[[Pain|pain]] and pleasure; it might also be called pleasure tempting [[Pain|pain]].
-The plunge of impatient chivalry by which we all admire a man
-fighting odds is not at all easy to define separately, it means
-many things, pity, dramatic surprise, a [[Desire|desire]] for justice, a delight
-in experiment and the indeterminate.  The ideas of the mob are really
-very subtle ideas; but the mob does not express them subtly.
-In fact, it does not express them at all, except on those occasions
-(now only too rare) when it indulges in insurrection and massacre.
+I have never understood what people mean by domesticity
+being tame; it seems to me one of the wildest of adventures.
+But if you wish to see how high and harsh and fantastic an adventure
+it is, consider only the actual structure of a [[house]] itself.
+A man may march up in a rather bored way to bed; but at least
+he is mounting to a height from which he could kill himself.
+Every rich, silent, padded staircase, with banisters of oak,
+stair-rods of brass, and busts and settees on every landing,
+every such staircase is truly only an awful and naked ladder
+running up into the Infinite to a deadly height.  The millionaire
+who stumps up inside the [[house]] is really doing the same thing
+as the tiler or roof-mender who climbs up outside the [[house]];
+they are both mounting up into the void.  They are both making an
+escalade of the intense inane.  Each is a sort of domestic mountaineer;
+he is reaching a point from which mere idle falling will kill a man;
+and life is always worth living while men feel that they may die.
 
-Now, this accounts for the otherwise unreasonable fact of the existence
-of Poets.  Poets are those who share these popular sentiments,
-but can so express them that they prove themselves the strange
-and delicate things that they really are.  Poets draw out the shy
-refinement of the rabble.  Where the [[Common Man|common man]] covers the queerest
-emotions by saying, "Rum little kid," Victor Hugo will write "L'art
-d'être grand-père"; where the stockbroker will only say abruptly,
-"Evenings closing in now," Mr. Yeats will write "Into the twilight";
-where the navvy can only mutter something about pluck and being
-"precious game," Homer will show you the [[Hero|hero]] in rags in his own hall
-defying the princes at their banquet.  The Poets carry the popular
-sentiments to a keener and more splendid pitch; but let it always be
-remembered that it is the popular sentiments that they are carrying.
-No man ever wrote any good poetry to show that [[Childhood|childhood]] was shocking,
-or that twilight was gay and farcical, or that a man was
-contemptible because he had crossed his single [[Sword|sword]] with three.
-The people who maintain this are the Professors, or Prigs.
-
-* * * * *
-
-The Poets are those who rise above the people by understanding them.
-Of course, most of the Poets wrote in prose--Rabelais, for instance,
-and Dickens.  The Prigs rise above the people by refusing
-to understand them:  by saying that all their dim,
-strange preferences are prejudices and superstitions.
-The Prigs make the people feel stupid; the Poets make the people
-feel wiser than they could have imagined that they were.
-There are many weird elements in this situation.  The oddest of all
-perhaps is the fate of the two factors in practical politics.
-The Poets who embrace and admire the people are often pelted with stones
-and crucified.  The Prigs who despise the people are often loaded
-with lands and crowned.  In the [[house|House]] of Commons, for instance,
-there are quite a number of prigs, but comparatively few poets.
-There are no People there at all.
-
-By poets, as I have said, I do not mean people who write poetry,
-or indeed people who write anything.  I mean such people as,
-having culture and [[Imagination|imagination]], use them to understand and share
-the feelings of their fellows; as against those who use them
-to rise to what they call a higher plane.  Crudely, the poet
-differs from the mob by his sensibility; [[The Professor|the professor]] differs
-from the mob by his insensibility.  He has not sufficient
-finesse and sensitiveness to sympathise with the mob.
-His only notion is coarsely to contradict it, to cut across it,
-in accordance with some egotistical plan of his own; to tell
-himself that, whatever the ignorant say, they are probably wrong.
-He forgets that ignorance often has the exquisite intuitions of [[innocence]].
+I cannot understand people at present making such a fuss about
+flying ships and aviation, when men ever since Stonehenge and
+the Pyramids have done something so much more wild than flying.
+A grasshopper can go astonishingly high up in the air,
+his biological limitation and weakness is that he cannot stop there.
+Hosts of unclean [[Birds|birds]] and crapulous [[Insects|insects]] can pass through the sky,
+but they cannot pass any communication between it and the earth.
+But the army of man has advanced vertically into infinity,
+and not been cut off.  It can establish outposts in the ether,
+and yet keep open behind it its erect and insolent [[Road|road]].
+It would be grand (as in Jules Verne) to [[Fire|fire]] a cannon-ball at the [[Moon|moon]];
+but would it not be grander to build a railway to the [[Moon|moon]]?
+Yet every building of brick or wood is a hint of that high railroad;
+every chimney points to some star, and every tower is a Tower
+of Babel.  Man rising on these awful and unbroken wings of stone
+seems to me more majestic and more mystic than man fluttering
+for an instant on wings of canvas and sticks of steel.
+How [[Sublime|sublime]] and, indeed, almost dizzy is the thought of these
+veiled ladders on which we all live, like climbing monkeys!
+Many a black-coated clerk in a flat may comfort himself for his sombre
+garb by reflecting that he is like some lonely rook in an immemorial elm.
+Many a wealthy bachelor on the top floor of a pile of mansions
+should look forth at morning and try (if possible) to feel like
+an eagle whose nest just clings to the edge of some awful cliff.
+How sad that the word "giddy" is used to imply wantonness or levity!
+It should be a high compliment to a man's exalted spirituality
+and the [[Imagination|imagination]] to say he is a little giddy.

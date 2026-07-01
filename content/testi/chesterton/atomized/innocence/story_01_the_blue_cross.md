@@ -1,5 +1,5 @@
 ---
-title: "[[innocence]] — The Blue [[Cross]]"
+title: "innocence — The Blue Cross"
 author: "Chesterton"
 unitType: story
 parentWork: "works/innocence-(chesterton)"

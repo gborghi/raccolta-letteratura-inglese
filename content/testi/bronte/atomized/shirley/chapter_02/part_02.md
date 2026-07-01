@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 2 (part 2)"
+title: "Shirley — Chapter 2 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_02/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_02/part_03">part 03 ›</a></div>
 </nav>
 
+
+and hung up his wet surtout and hat, drew one of the rheumatic-looking
+
+chairs to the hearth, and set his knees almost within the bars of the
+
+red grate.
+
+
+
+"Comfortable quarters you have here, Mr. Moore; and all snug to
 
 yourself."
 
@@ -267,19 +277,3 @@ the risk lies."
 "What these fellows have done to others they may do to me. There is only
 
 this difference: most of the manufacturers seem paralyzed when they are
-
-attacked. Sykes, for instance, when his dressing-shop was set on [[Fire|fire]]
-
-and burned to the ground, when the cloth was torn from his tenters and
-
-left in shreds in the field, took no steps to discover or punish the
-
-miscreants: he gave up as tamely as a rabbit under the jaws of a ferret.
-
-Now I, if I know myself, should stand by my trade, my mill, and my
-
-machinery."
-
-
-
-"Helstone says these three are your gods; that the 'Orders in Council'

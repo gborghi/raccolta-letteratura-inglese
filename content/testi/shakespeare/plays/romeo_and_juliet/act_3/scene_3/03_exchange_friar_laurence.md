@@ -1,5 +1,5 @@
 ---
-title: "[[Romeo]] and [[Juliet]] — Act III, Scene 3 — exchange ([[Friar Laurence|FRIAR LAURENCE]]) [3]"
+title: "Romeo and Juliet — Act III, Scene 3 — exchange (FRIAR LAURENCE) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/romeo-and-juliet-(shakespeare)"

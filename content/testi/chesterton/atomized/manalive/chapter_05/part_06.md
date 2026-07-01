@@ -1,5 +1,5 @@
 ---
-title: "[[manalive]] — Chapter 5 (part 6)"
+title: "manalive — Chapter 5 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/manalive-(chesterton)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/manalive/chapter_05/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/manalive/chapter_05/part_07">part 07 ›</a></div>
 </nav>
 
+
+"Why," cried [[Michael]], with a shout of laughter, "the [[Court]] of Beacon
+has opened--and shut up again too.  You all know now I am right.
+Your buried common sense has told you what my buried common sense has
+told me.  [[smith|Smith]] might have fired off a hundred cannons instead of a [[Pistol|pistol]],
+and you would still know he was harmless as I know he is harmless.
+Back we all go to the [[house]] and clear a room for discussion.
+For the High [[Court]] of Beacon, which has already arrived at its decision,
+is just about to begin its inquiry."
 
 "Just a goin' to begin!" cried little Mr. Moses in an extraordinary
 sort of disinterested excitement, like that of an animal during music
@@ -43,8 +52,8 @@ Under the [[Shadow|shadow]] of [[Tragedy|tragedy]] she had kept it back as unsym
 his voice sounded remote and rude, like the voice of a statue.
 
 Those who had so long danced and disputed round his immobility
-were left breathless by his precipitance.  With a run and [[Spring|spring]]
-he was out of the [[Garden|garden]] into the street; with a [[Spring|spring]] and
+were left breathless by his precipitance.  With a run and [[spring]]
+he was out of the [[Garden|garden]] into the street; with a [[spring]] and
 one quivering kick he was actually on the roof of the cab.
 The [[cabman]] happened to be standing by the [[Horse|horse]]'s head, having just
 removed its emptied nose-bag. [[smith|Smith]] seemed for an instant to be
@@ -111,24 +120,3 @@ swept up to the blue-railed gate at which they had originally stood.
 Mr. [[smith|Smith]] got down from his perch with an air of absent-mindedness,
 and coming back into the [[Garden|garden]] stood in the same elephantine
 attitude as before.
-
-"Get inside! get inside!" cried [[Moon]] hilariously, with the air
-of one shooing a company of cats.  "Come, come, be quick about it!
-Didn't I tell you I wanted to talk to Inglewood?"
-
-How they were all really driven into the [[house]] again it would
-have been difficult afterwards to say.  They had reached the point
-of being exhausted with incongruities, as people at a farce
-are ill with laughing, and the brisk growth of the [[Storm|storm]] among
-the trees seemed like a final gesture of things in general.
-Inglewood lingered behind them, saying with a certain amicable
-exasperation, "I say, do you really want to speak to me?"
-
-"I do," said [[Michael]], "very much."
-
-[[Night]] had come as it generally does, quicker than the twilight had seemed
-to promise.  While the human eye still felt the sky as light gray, a very
-large and lustrous [[Moon|moon]] appearing abruptly above a bulk of roofs and trees,
-proved by contrast that the sky was already a very dark gray indeed.
-A drift of barren [[Leaves|leaves]] across the lawn, a drift of riven clouds across
-the sky, seemed to be lifted on the same strong and yet laborious [[Wind|wind]].

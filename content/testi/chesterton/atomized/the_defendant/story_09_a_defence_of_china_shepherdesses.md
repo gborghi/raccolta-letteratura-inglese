@@ -16,7 +16,6 @@ tags:
 
 A DEFENCE OF CHINA SHEPHERDESSES
 
-
 There are some things of which the world does not like to be reminded,
 for they are the dead loves of the world. One of these is that great
 enthusiasm for the Arcadian life which, however much it may now lie open
@@ -142,6 +141,5 @@ moment that we can see nothing but a dull-faced man smoking and drinking
 heavily with his friend in a pot-[[house]], the man himself is on his [[Soul|soul]]'s
 holiday, crowned with the [[Flowers|flowers]] of a passionate idleness, and far more
 like the Happy Peasant than the world will ever know.
-
 
        *       *       *       *       *

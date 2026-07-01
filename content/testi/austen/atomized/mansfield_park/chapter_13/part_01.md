@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 13 (part 1)"
+title: "Mansfield Park — Chapter 13 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -112,8 +112,3 @@ for a curtain, and perhaps that may be enough.”
 run up, doors in flat, and three or four scenes to be let down; nothing
 more would be necessary on such a plan as this. For mere amusement
 among ourselves we should want nothing more.”
-
-“I believe we must be satisfied with _less_,” said [[Maria]]. “There would
-not be [[Time|time]], and other difficulties would arise. We must rather adopt
-Mr. Crawford’s views, and make the _performance_, not the _theatre_,
-our object. Many parts of our best plays are independent of scenery.”

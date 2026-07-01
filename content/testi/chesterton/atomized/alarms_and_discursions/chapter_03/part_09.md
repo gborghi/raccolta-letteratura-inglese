@@ -14,6 +14,25 @@ tags:
 </nav>
 
 
+* * * * *
+
+I will call him Simmons.  He was a tall, healthy figure, strong, but a
+little slouching, and there was in his walk something between a slight
+swagger and a seaman's roll; he commonly had his hands in his pockets.
+His hair was dark, straight, and undistinguished; and his face,
+if one saw it after his figure, was something of a surprise.
+For while the form might be called big and braggart, the face
+might have been called weak, and was certainly worried.  It was a
+hesitating face, which seemed to blink doubtfully in the daylight.
+He had even the look of one who has received a buffet that
+he cannot return.  In all occupations he was the average boy;
+just sufficiently good at sports, just sufficiently bad at work
+to be universally satisfactory.  But he was prominent in nothing,
+for prominence was to him a thing like bodily [[Pain|pain]].  He could not endure,
+without discomfort amounting to desperation, that any boy should
+be noticed or sensationally separated from the long line of boys;
+for him, to be distinguished was to be disgraced.
+
 Those who interpret schoolboys as merely wooden and barbarous,
 unmoved by anything but a savage seriousness about tuck or cricket,
 make the mistake of forgetting how much of the schoolboy life is

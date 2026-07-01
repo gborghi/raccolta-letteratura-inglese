@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 19 (part 1)"
+title: "Jane Eyre — Chapter 19 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/works/jane-eyre-(bronte)">Jane Eyre</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_18/part_05">‹ part 05</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_19/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_18/part_06">‹ part 06</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_19/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -23,7 +23,7 @@ chimney-corner. She had on a red cloak and a black bonnet: or rather, a
 broad-brimmed gipsy hat, tied down with a striped handkerchief under
 her chin. An extinguished candle stood on the table; she was bending
 over the [[Fire|fire]], and seemed reading in a little black book, like a
-[[Prayer|prayer]]-book, by the light of the blaze: she muttered the words to
+[[prayer]]-book, by the light of the blaze: she muttered the words to
 herself, as most old women do, while she read; she did not desist
 immediately on my entrance: it appeared she wished to finish a
 paragraph.
@@ -169,7 +169,3 @@ but your future school? Have you no present interest in any of the
 company who occupy the sofas and chairs before you? Is there not one
 face you study? one figure whose movements you follow with at least
 curiosity?”
-
-“I like to observe all the faces and all the figures.”
-
-“But do you never single one from the rest—or it may be, two?”

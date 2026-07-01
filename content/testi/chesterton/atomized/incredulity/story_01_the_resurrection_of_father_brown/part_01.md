@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity]] — The [[Resurrection]] of [[Father Brown]] (part 1)"
+title: "Incredulity — The Resurrection of Father Brown (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-(chesterton)"
@@ -20,7 +20,7 @@ THERE was a brief period during which [[Father Brown]] enjoyed,
 or rather did not enjoy, something like fame.  He was a nine days'
 [[Wonder|wonder]] in the newspapers; he was even a common topic of controversy
 in the weekly reviews; his exploits were narrated eagerly and inaccurately
-in any number of clubs and drawing--rooms, especially in [[america|America]].
+in any number of clubs and drawing--rooms, especially in [[America]].
 Incongruous and indeed incredible as it may seem to any one who knew him,
 his adventures as a [[Detective|detective]] were even made the subject of short
 stories appearing in magazines.
@@ -29,7 +29,7 @@ Strangely enough, this wandering limelight struck him in the most obscure,
 or at least the most remote, of his many places of residence.
 He had been sent out to officiate, as something between a missionary
 and a parish priest, in one of those sections of the northern coast
-of South [[america|America]], where strips of country still cling insecurely
+of South [[America]], where strips of country still cling insecurely
 to European powers, or are continually threatening to become
 independent republics, under the gigantic [[Shadow|shadow]] of President Monroe.
 The population was red and brown with pink spots; that is,

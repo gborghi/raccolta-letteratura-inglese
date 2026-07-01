@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 7"
+title: "Dombey and Son — Chapter 35"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,255 +14,538 @@ tags:
 </nav>
 
 
-CHAPTER VII.
-A Bird’s-eye Glimpse of Miss Tox’s Dwelling-place: also of the State of
-Miss Tox’s Affections
+CHAPTER XXXV.
+The Happy Pair
 
 
-Miss Tox inhabited a dark little [[house]] that had been squeezed, at some
-remote period of English [[history|History]], into a fashionable neighbourhood at
-the west end of the town, where it stood in the shade like a poor
-relation of the great street round the corner, coldly looked down upon
-by mighty mansions. It was not exactly in a [[Court|court]], and it was not
-exactly in a yard; but it was in the dullest of No-Thoroughfares,
-rendered anxious and haggard by distant [[Double|double]] knocks. The name of this
-retirement, where grass grew between the chinks in the stone pavement,
-was Princess’s Place; and in Princess’s Place was Princess’s Chapel,
-with a tinkling bell, where sometimes as many as five-and-twenty people
-attended service on a [[Sunday]]. The Princess’s Arms was also there, and
-much resorted to by splendid footmen. A sedan chair was kept inside the
-railing before the Princess’s Arms, but it had never come out within
-the [[Memory|memory]] of man; and on fine mornings, the top of every rail (there
-were eight-and-forty, as Miss Tox had often counted) was decorated with
-a pewter-pot.
+The dark blot on the street is gone. Mr Dombey’s mansion, if it be a
+gap among the other houses any longer, is only so because it is not to
+be vied with in its brightness, and haughtily casts them off. The
+saying is, that [[Home|home]] is [[Home|home]], be it never so homely. If it hold good in
+the opposite contingency, and [[Home|home]] is [[Home|home]] be it never so stately, what
+an altar to the Household Gods is raised up here!
 
-There was another private [[house]] besides Miss Tox’s in Princess’s Place:
-not to mention an immense Pair of gates, with an immense pair of
-[[Lion|lion]]-headed knockers on them, which were never opened by any chance,
-and were supposed to constitute a disused entrance to somebody’s
-stables. Indeed, there was a smack of stabling in the air of Princess’s
-Place; and Miss Tox’s bedroom (which was at the back) commanded a vista
-of Mews, where hostlers, at whatever sort of work engaged, were
-continually accompanying themselves with effervescent noises; and where
-the most domestic and confidential garments of coachmen and their wives
-and families, usually hung, like [[Macbeth]]’s banners, on the outward
-walls.
+Lights are sparkling in the windows this evening, and the ruddy glow of
+fires is warm and bright upon the hangings and soft carpets, and the
+dinner waits to be served, and the dinner-table is handsomely set
+forth, though only for four persons, and the side board is cumbrous
+with plate. It is the first [[Time|time]] that the [[house]] has been arranged for
+occupation since its late changes, and the happy pair are looked for
+every minute.
 
-At this other private [[house]] in Princess’s Place, tenanted by a retired
-butler who had married a housekeeper, apartments were let Furnished, to
-a single gentleman: to wit, a wooden-featured, blue-faced Major, with
-his eyes starting out of his head, in whom Miss Tox recognised, as she
-herself expressed it, “something so truly military;” and between whom
-and herself, an occasional interchange of newspapers and pamphlets, and
-such Platonic dalliance, was effected through the medium of a dark
-servant of the Major’s who Miss Tox was quite content to classify as a
-“native,” without connecting him with any geographical idea whatever.
+Only second to the wedding morning, in the interest and expectation it
+engenders among the household, is this evening of the coming [[Home|home]]. Mrs
+Perch is in the kitchen taking tea; and has made the tour of the
+establishment, and priced the silks and damasks by the yard, and
+exhausted every interjection in the dictionary and out of it expressive
+of admiration and [[Wonder|wonder]]. The upholsterer’s foreman, who has left his
+hat, with a pocket-handkerchief in it, both smelling strongly of
+varnish, under a chair in the hall, lurks about the [[house]], gazing
+upwards at the cornices, and downward at the carpets, and occasionally,
+in a silent transport of enjoyment, taking a rule out of his pocket,
+and skirmishingly measuring expensive objects, with unutterable
+feelings. Cook is in high spirits, and says give her a place where
+there’s plenty of company (as she’ll bet you sixpence there will be
+now), for she is of a lively disposition, and she always was from a
+[[Child|child]], and she don’t mind who knows it; which sentiment elicits from
+the breast of Mrs Perch a responsive murmur of support and approbation.
+All the housemaid hopes is, happiness for ’em—but [[Marriage|marriage]] is a
+lottery, and the more she thinks about it, the more she feels the
+independence and the safety of a single life. Mr Towlinson is saturnine
+and grim, and says that’s his opinion too, and give him War besides,
+and down with the French—for this young man has a general impression
+that every foreigner is a Frenchman, and must be by the laws of [[Nature|nature]].
 
-Perhaps there never was a smaller entry and staircase, than the entry
-and staircase of Miss Tox’s [[house]]. Perhaps, taken altogether, from top
-to [[Bottom|bottom]], it was the most inconvenient little [[house]] in England, and
-the crookedest; but then, Miss Tox said, what a situation! There was
-very little daylight to be got there in the [[Winter|winter]]: no sun at the best
-of times: air was out of the question, and traffic was walled out.
-Still Miss Tox said, think of the situation! So said the blue-faced
-Major, whose eyes were starting out of his head: who gloried in
-Princess’s Place: and who delighted to turn the conversation at his
-club, whenever he could, to something connected with some of the great
-people in the great street round the corner, that he might have the
-satisfaction of saying they were his neighbours.
+At each new sound of wheels, they all stop, whatever they are saying,
+and listen; and more than once there is a general starting up and a cry
+of “Here they are!” But here they are not yet; and Cook begins to mourn
+over the dinner, which has been put back twice, and the upholsterer’s
+foreman still goes lurking about the rooms, undisturbed in his blissful
+reverie!
 
-In short, with Miss Tox and the blue-faced Major, it was enough for
-Princess’s Place—as with a very small [[Fragment|fragment]] of society, it is enough
-for many a little hanger-on of another sort—to be [[Well|well]] connected, and
-to have genteel [[Blood|blood]] in its veins. It might be poor, mean, shabby,
-stupid, dull. No matter. The great street round the corner trailed off
-into Princess’s Place; and that which of High Holborn would have become
-a choleric word, spoken of Princess’s Place became flat blasphemy.
+Florence is ready to receive her father and her new Mama. Whether the
+emotions that are throbbing in her breast originate in pleasure or in
+[[Pain|pain]], she hardly knows. But the fluttering heart sends added colour to
+her cheeks, and brightness to her eyes; and they say downstairs,
+drawing their heads together—for they always speak softly when they
+speak of her—how beautiful Miss Florence looks tonight, and what a
+sweet young lady she has grown, poor dear! A pause succeeds; and then
+Cook, feeling, as president, that her sentiments are waited for,
+wonders whether—and there stops. The housemaid wonders too, and so does
+Mrs Perch, who has the happy social faculty of always wondering when
+other people [[Wonder|wonder]], without being at all particular what she wonders
+at. Mr Towlinson, who now descries an opportunity of bringing down the
+spirits of the ladies to his own level, says wait and see; he wishes
+some people were [[Well|well]] out of this. Cook leads a sigh then, and a murmur
+of “Ah, it’s a strange world, it is indeed!” and when it has gone round
+the table, adds persuasively, “but Miss Florence can’t [[Well|well]] be the
+worse for any change, Tom.” Mr Towlinson’s rejoinder, pregnant with
+frightful meaning, is “Oh, can’t she though!” and sensible that a mere
+man can scarcely be more prophetic, or improve upon that, he holds his
+peace.
 
-The dingy tenement inhabited by Miss Tox was her own; having been
-devised and bequeathed to her by the deceased owner of the fishy eye in
-the locket, of whom a miniature portrait, with a powdered head and a
-pigtail, balanced the kettle-holder on opposite sides of the parlour
-fireplace. The greater part of the furniture was of the powdered-head
-and pig-tail period: comprising a plate-warmer, always languishing and
-sprawling its four attenuated bow legs in somebody’s way; and an
-obsolete harpsichord, illuminated round the maker’s name with a painted
-garland of sweet peas. In any part of the [[house]], visitors were usually
-cognizant of a prevailing mustiness; and in warm weather Miss Tox had
-been seen apparently writing in sundry chinks and crevices of the
-wainscoat with the wrong end of a pen dipped in spirits of
-turpentine.
+Mrs Skewton, prepared to greet her darling daughter and dear son-in-law
+with open arms, is appropriately attired for that purpose in a very
+youthful costume, with short sleeves. At present, however, her ripe
+charms are blooming in the shade of her own apartments, whence she had
+not emerged since she took possession of them a few hours ago, and
+where she is fast growing fretful, on account of the postponement of
+dinner. The maid who ought to be a [[skeleton]], but is in [[Truth|truth]] a buxom
+[[Damsel|damsel]], is, on the other hand, in a most amiable state: considering her
+quarterly stipend much safer than heretofore, and foreseeing a great
+improvement in her board and lodging.
 
-Although [[Major Bagstock]] had arrived at what is called in polite
-literature, the grand meridian of life, and was proceeding on his
-[[Journey|journey]] downhill with hardly any throat, and a very rigid pair of
-jaw-bones, and long-flapped elephantine ears, and his eyes and
-complexion in the state of artificial excitement already mentioned, he
-was mightily proud of awakening an interest in Miss Tox, and tickled
-his [[Vanity|vanity]] with the fiction that she was a splendid woman who had her
-eye on him. This he had several times hinted at the club: in connexion
-with little jocularities, of which old Joe Bagstock, old Joey Bagstock,
-old J. Bagstock, old Josh Bagstock, or so forth, was the perpetual
-theme: it being, as it were, the Major’s stronghold and donjon-keep of
-light [[Humour|humour]], to be on the most familiar terms with his own name.
+Where are the happy pair, for whom this brave [[Home|home]] is waiting? Do
+steam, tide, [[Wind|wind]], and horses, all abate their [[Speed|speed]], to linger on such
+happiness? Does the swarm of loves and graces hovering about them
+retard their progress by its numbers? Are there so many [[Flowers|flowers]] in
+their happy path, that they can scarcely move along, without
+entanglement in thornless roses, and sweetest briar?
 
-“Joey B., Sir,” the Major would say, with a flourish of his
-walking-stick, “is worth a dozen of you. If you had a few more of the
-Bagstock breed among you, Sir, you’d be none the worse for it. Old Joe,
-Sir, needn’t look far for a wife even now, if he was on the look-out;
-but he’s hard-hearted, Sir, is Joe—he’s tough, Sir, tough, and
-de-vilish sly!” After such a declaration, wheezing sounds would be
-heard; and the Major’s blue would deepen into purple, while his eyes
-strained and started convulsively.
+They are here at last! The noise of wheels is heard, grows louder, and
+a carriage drives up to the door! A thundering knock from the obnoxious
+foreigner anticipates the rush of Mr Towlinson and party to open it;
+and Mr Dombey and his bride alight, and walk in arm in arm.
 
-Notwithstanding his very liberal laudation of himself, however, the
-Major was selfish. It may be doubted whether there ever was a more
-entirely selfish person at heart; or at stomach is perhaps a better
-expression, seeing that he was more decidedly endowed with that latter
-organ than with the former. He had no idea of being overlooked or
-slighted by anybody; least of all, had he the remotest comprehension of
-being overlooked and slighted by Miss Tox.
+“My sweetest Edith!” cries an agitated voice upon the stairs. “My
+dearest Dombey!” and the short sleeves wreath themselves about the
+happy couple in turn, and embrace them.
 
-And yet, Miss Tox, as it appeared, forgot him—gradually forgot him. She
-began to forget him soon after her discovery of the Toodle family. She
-continued to forget him up to the [[Time|time]] of the christening. She went on
-forgetting him with compound interest after that. Something or somebody
-had superseded him as a source of interest.
+Florence had come down to the hall too, but did not advance: reserving
+her timid welcome until these nearer and dearer transports should
+subside. But the eyes of Edith sought her out, upon the threshold; and
+dismissing her sensitive parent with a slight kiss on the cheek, she
+hurried on to Florence and embraced her.
 
-“Good morning, Ma’am,” said the Major, meeting Miss Tox in Princess’s
-Place, some weeks after the changes chronicled in the last chapter.
+“How do you do, Florence?” said Mr Dombey, putting out his hand.
 
-“Good morning, Sir,” said Miss Tox; very coldly.
+As Florence, trembling, raised it to her lips, she met his glance. The
+look was cold and distant enough, but it stirred her heart to think
+that she observed in it something more of interest than he had ever
+shown before. It even expressed a kind of faint surprise, and not a
+disagreeable surprise, at sight of her. She dared not raise her eyes to
+his any more; but she felt that he looked at her once again, and not
+less favourably. Oh what a thrill of joy shot through her, awakened by
+even this intangible and baseless confirmation of her [[Hope|hope]] that she
+would learn to win him, through her new and beautiful Mama!
 
-“Joe Bagstock, Ma’am,” observed the Major, with his usual gallantry,
-“has not had the happiness of bowing to you at your [[Window|window]], for a
-considerable period. Joe has been hardly used, Ma’am. His sun has been
-behind a cloud.”
+“You will not be long dressing, Mrs Dombey, I presume?” said Mr Dombey.
 
-Miss Tox inclined her head; but very coldly indeed.
+“I shall be ready immediately.”
 
-“Joe’s luminary has been out of town, Ma’am, perhaps,” inquired the
-Major.
+“Let them send up dinner in a quarter of an hour.”
 
-“I? out of town? oh no, I have not been out of town,” said Miss Tox. “I
-have been much engaged lately. My [[Time|time]] is nearly all devoted to some
-very intimate friends. I am afraid I have none to spare, even now. Good
-morning, Sir!”
+With that Mr Dombey stalked away to his own dressing-room, and Mrs
+Dombey went upstairs to hers. Mrs Skewton and Florence repaired to the
+drawing-room, where that excellent mother considered it incumbent on
+her to shed a few irrepressible [[Tears|tears]], supposed to be forced from her
+by her daughter’s felicity; and which she was still drying, very
+gingerly, with a laced corner of her pocket-handkerchief, when her
+son-in-law appeared.
 
-As Miss Tox, with her most fascinating step and carriage, disappeared
-from Princess’s Place, the Major stood looking after her with a bluer
-face than ever: muttering and growling some not at all complimentary
-remarks.
+“And how, my dearest Dombey, did you find that delightfullest of
+cities, [[Paris]]?” she asked, subduing her emotion.
 
-“Why, damme, Sir,” said the Major, [[rolling]] his lobster eyes round and
-round Princess’s Place, and apostrophizing its fragrant air, “six
-months ago, the woman loved the ground Josh Bagstock walked on. What’s
-the meaning of it?”
+“It was cold,” returned Mr Dombey.
 
-The Major decided, after some consideration, that it meant mantraps;
-that it meant plotting and snaring; that Miss Tox was digging pitfalls.
-“But you won’t catch Joe, Ma’am,” said the Major. “He’s tough, Ma’am,
-tough, is J.B. Tough, and de-vilish sly!” over which reflection he
-chuckled for the rest of the day.
+“Gay as ever,” said Mrs Skewton, “of course.
 
-But still, when that day and many other days were gone and past, it
-seemed that Miss Tox took no heed whatever of the Major, and thought
-nothing at all about him. She had been wont, once upon a [[Time|time]], to look
-out at one of her little dark windows by accident, and blushingly
-return the Major’s greeting; but now, she never gave the Major a
-chance, and cared nothing at all whether he looked over the way or not.
-Other changes had come to pass too. The Major, standing in the shade of
-his own apartment, could make out that an air of greater smartness had
-recently come over Miss Tox’s [[house]]; that a new cage with gilded wires
-had been provided for the ancient little canary bird; that divers
-ornaments, cut out of coloured card-boards and paper, seemed to
-decorate the chimney-piece and tables; that a plant or two had suddenly
-sprung up in the windows; that Miss Tox occasionally practised on the
-harpsichord, whose garland of sweet peas was always displayed
-ostentatiously, crowned with the Copenhagen and Bird Waltzes in a Music
-Book of Miss Tox’s own copying.
+“Not particularly. I thought it dull,” said Mr Dombey.
 
-Over and above all this, Miss Tox had long been dressed with uncommon
-care and elegance in slight mourning. But this helped the Major out of
-his difficulty; and he determined within himself that she had come into
-a small legacy, and grown proud.
+“Fie, my dearest Dombey!” archly; “dull!”
 
-It was on the very next day after he had eased his mind by arriving at
-this decision, that the Major, sitting at his breakfast, saw an
-apparition so tremendous and wonderful in Miss Tox’s little
-drawing-room, that he remained for some [[Time|time]] rooted to his chair; then,
-rushing into the next room, returned with a [[Double|double]]-barrelled
-opera-glass, through which he surveyed it intently for some minutes.
+“It made that impression upon me, Madam,” said Mr Dombey, with [[Grave|grave]]
+politeness. “I believe Mrs Dombey found it dull too. She mentioned once
+or twice that she thought it so.”
 
-“It’s a Baby, Sir,” said the Major, shutting up the glass again, “for
-fifty thousand pounds!”
+“Why, you naughty girl!” cried Mrs Skewton, rallying her dear [[Child|child]],
+who now entered, “what dreadfully heretical things have you been saying
+about [[Paris]]?”
 
-The Major couldn’t forget it. He could do nothing but whistle, and
-stare to that extent, that his eyes, compared with what they now
-became, had been in former times quite cavernous and sunken. Day after
-day, two, three, four times a week, this Baby reappeared. The Major
-continued to stare and whistle. To all other intents and purposes he
-was [[Alone|alone]] in Princess’s Place. Miss Tox had ceased to mind what he did.
-He might have been black as [[Well|well]] as blue, and it would have been of no
-consequence to her.
+Edith raised her eyebrows with an air of weariness; and passing the
+folding-doors which were thrown open to display the suite of rooms in
+their new and handsome garniture, and barely glancing at them as she
+passed, sat down by Florence.
 
-The perseverance with which she walked out of Princess’s Place to fetch
-this baby and its [[Nurse|nurse]], and walked back with them, and walked [[Home|home]]
-with them again, and continually mounted guard over them; and the
-perseverance with which she nursed it herself, and fed it, and played
-with it, and froze its young [[Blood|blood]] with airs upon the harpsichord, was
-extraordinary. At about this same period too, she was seized with a
-passion for looking at a certain bracelet; also with a passion for
-looking at the [[Moon|moon]], of which she would take long observations from her
-chamber [[Window|window]]. But whatever she looked at; sun, [[Moon|moon]], [[Stars|stars]], or
-bracelet; she looked no more at the Major. And the Major whistled, and
-stared, and wondered, and dodged about his room, and could make nothing
-of it.
+“My dear Dombey,” said Mrs Skewton, “how charmingly these people have
+carried out every idea that we hinted. They have made a perfect palace
+of the [[house]], positively.”
 
-“You’ll quite win my brother Paul’s heart, and that’s the [[Truth|truth]], my
-dear,” said Mrs Chick, one day.
+“It is handsome,” said Mr Dombey, looking round. “I directed that no
+expense should be spared; and all that money could do, has been done, I
+believe.”
 
-Miss Tox turned pale.
+“And what can it not do, dear Dombey?” observed [[Cleopatra]].
 
-“He grows more like Paul every day,” said Mrs Chick.
+“It is powerful, Madam,” said Mr Dombey.
 
-Miss Tox returned no other reply than by taking the little Paul in her
-arms, and making his cockade perfectly flat and limp with her caresses.
+He looked in his solemn way towards his wife, but not a word said she.
 
-“His mother, my dear,” said Miss Tox, “whose acquaintance I was to have
-made through you, does he at all resemble her?”
+“I [[Hope|hope]], Mrs Dombey,” addressing her after a moment’s [[Silence|silence]], with
+especial distinctness; “that these alterations meet with your
+approval?”
 
-“Not at all,” returned Louisa
+“They are as handsome as they can be,” she returned, with haughty
+carelessness. “They should be so, of course. And I suppose they are.”
 
-“She was—she was pretty, I believe?” faltered Miss Tox.
+An expression of scorn was habitual to the proud face, and seemed
+inseparable from it; but the contempt with which it received any appeal
+to admiration, respect, or consideration on the ground of his riches,
+no matter how slight or ordinary in itself, was a new and different
+expression, unequalled in intensity by any other of which it was
+capable. Whether Mr Dombey, wrapped in his own [[Greatness|greatness]], was at all
+aware of this, or no, there had not been wanting opportunities already
+for his complete enlightenment; and at that moment it might have been
+effected by the one glance of the dark eye that lighted on him, after
+it had rapidly and scornfully surveyed the theme of his
+[[Self|self]]-glorification. He might have read in that one glance that nothing
+that his wealth could do, though it were increased ten thousand fold,
+could win him for its own sake, one look of softened recognition from
+the defiant woman, linked to him, but arrayed with her whole [[Soul|soul]]
+against him. He might have read in that one glance that even for its
+sordid and mercenary influence upon herself, she spurned it, while she
+claimed its utmost power as her right, her bargain—as the base and
+worthless recompense for which she had become his wife. He might have
+read in it that, ever baring her own head for the [[Lightning|lightning]] of her own
+contempt and [[Pride|pride]] to strike, the most [[Innocent|innocent]] allusion to the power
+of his riches degraded her anew, sunk her deeper in her own respect,
+and made the blight and waste within her more complete.
 
-“Why, poor dear Fanny was interesting,” said Mrs Chick, after some
-judicial consideration. “Certainly interesting. She had not that air of
-commanding superiority which one would somehow expect, almost as a
-matter of course, to find in my brother’s wife; nor had she that
-strength and vigour of mind which such a man requires.”
+But dinner was announced, and Mr Dombey led down [[Cleopatra]]; Edith and
+his daughter following. Sweeping past the gold and silver demonstration
+on the sideboard as if it were heaped-up dirt, and deigning to bestow
+no look upon the elegancies around her, she took her place at his board
+for the first [[Time|time]], and sat, like a statue, at the feast.
 
-Miss Tox heaved a deep sigh.
+Mr Dombey, being a good deal in the statue way himself, was [[Well|well]] enough
+pleased to see his handsome wife immovable and proud and cold. Her
+deportment being always elegant and graceful, this as a general
+behaviour was agreeable and congenial to him. Presiding, therefore,
+with his accustomed dignity, and not at all reflecting on his wife by
+any warmth or hilarity of his own, he performed his share of the
+honours of the table with a cool satisfaction; and the installation
+dinner, though not regarded downstairs as a great [[success]], or very
+promising beginning, passed off, above, in a sufficiently polite,
+genteel, and frosty manner.
 
-“But she was pleasing:” said Mrs Chick: “extremely so. And she
-meant!—oh, dear, how [[Well|well]] poor Fanny meant!”
+Soon after tea, Mrs Skewton, who affected to be quite overcome and worn
+out by her emotions of happiness, arising in the contemplation of her
+dear [[Child|child]] united to the man of her heart, but who, there is reason to
+suppose, found this family party somewhat dull, as she yawned for one
+hour continually behind her fan, retired to bed. Edith, also, silently
+withdrew and came back no more. Thus, it happened that Florence, who
+had been upstairs to have some conversation with Diogenes, returning to
+the drawing-room with her little work-basket, found no one there but
+her father, who was walking to and fro, in dreary magnificence.
 
-“You Angel!” cried Miss Tox to little Paul. “You Picture of your own
-Papa!”
+“I beg your pardon. Shall I go away, Papa?” said Florence faintly,
+hesitating at the door.
 
-If the Major could have known how many hopes and ventures, what a
-multitude of plans and speculations, rested on that baby head; and
-could have seen them hovering, in all their heterogeneous confusion and
-disorder, round the puckered cap of the unconscious little Paul; he
-might have stared indeed. Then would he have recognised, among the
-crowd, some few ambitious motes and beams belonging to Miss Tox; then
-would he perhaps have understood the [[Nature|nature]] of that lady’s faltering
-investment in the Dombey Firm.
+“No,” returned Mr Dombey, looking round over his shoulder; “you can
+come and go here, Florence, as you please. This is not my private
+room.”
 
-If the [[Child|child]] himself could have awakened in the [[Night|night]], and seen,
-gathered about his cradle-curtains, faint reflections of the [[Dreams|dreams]]
-that other people had of him, they might have scared him, with good
-reason. But he slumbered on, alike unconscious of the kind intentions
-of Miss Tox, the [[Wonder|wonder]] of the Major, the early sorrows of his sister,
-and the stern visions of his father; and [[Innocent|innocent]] that any spot of
-earth contained a Dombey or a Son.
+Florence entered, and sat down at a distant little table with her work:
+finding herself for the first [[Time|time]] in her life—for the very first [[Time|time]]
+within her [[Memory|memory]] from her infancy to that hour—[[Alone|alone]] with her father,
+as his companion. She, his natural companion, his only [[Child|child]], who in
+her lonely life and grief had known the [[Suffering|suffering]] of a breaking heart;
+who, in her rejected [[Love|love]], had never breathed his name to God at [[Night|night]],
+but with a tearful blessing, heavier on him than a curse; who had
+prayed to die young, so she might only die in his arms; who had, all
+through, repaid the agony of slight and coldness, and dislike, with
+patient unexacting [[Love|love]], excusing him, and pleading for him, like his
+better angel!
+
+She trembled, and her eyes were dim. His figure seemed to grow in
+height and bulk before her as he paced the room: now it was all blurred
+and indistinct; now clear again, and plain; and now she seemed to think
+that this had happened, just the same, a multitude of years ago. She
+yearned towards him, and yet shrunk from his approach. Unnatural
+emotion in a [[Child|child]], [[Innocent|innocent]] of wrong! Unnatural the hand that had
+directed the sharp plough, which furrowed up her gentle [[Nature|nature]] for the
+sowing of its seeds!
+
+Bent upon not distressing or offending him by her distress, Florence
+controlled herself, and sat quietly at her work. After a few more turns
+across and across the room, he left off pacing it; and withdrawing into
+a shadowy corner at some distance, where there was an easy chair,
+covered his head with a handkerchief, and composed himself to [[Sleep|sleep]].
+
+It was enough for Florence to sit there watching him; turning her eyes
+towards his chair from [[Time|time]] to [[Time|time]]; watching him with her thoughts,
+when her face was intent upon her work; and sorrowfully glad to think
+that he _could_ [[Sleep|sleep]], while she was there, and that he was not made
+restless by her strange and long-forbidden presence.
+
+What would have been her thoughts if she had known that he was steadily
+regarding her; that the veil upon his face, by accident or by design,
+was so adjusted that his sight was free, and that it never wandered
+from her face an instant. That when she looked towards him, in the
+obscure dark corner, her speaking eyes, more earnest and pathetic in
+their voiceless speech than all the orators of all the world, and
+impeaching him more nearly in their mute address, met his, and did not
+know it! That when she bent her head again over her work, he drew his
+breath more easily, but with the same attention looked upon her
+still—upon her white brow and her falling hair, and busy hands; and
+once attracted, seemed to have no power to turn his eyes away!
+
+And what were his thoughts meanwhile? With what emotions did he prolong
+the attentive gaze covertly directed on his unknown daughter? Was there
+reproach to him in the quiet figure and the mild eyes? Had he begun to
+feel her disregarded claims and did they touch him [[Home|home]] at last, and
+waken him to some sense of his cruel injustice?
+
+There are yielding moments in the lives of the sternest and harshest
+men, though such men often keep their secret [[Well|well]]. The sight of her in
+her [[Beauty|beauty]], almost changed into a woman without his knowledge, may have
+struck out some such moments even in his life of [[Pride|pride]]. Some passing
+thought that he had had a happy [[Home|home]] within his reach—had had a
+household spirit bending at his feet—had overlooked it in his
+stiffnecked sullen arrogance, and wandered away and lost himself, may
+have engendered them. Some simple eloquence distinctly heard, though
+only uttered in her eyes, unconscious that he read them as “By the
+[[Death|death]]-beds I have tended, by the [[Childhood|childhood]] I have suffered, by our
+meeting in this dreary [[house]] at midnight, by the cry wrung from me in
+the anguish of my heart, oh, father, turn to me and seek a refuge in my
+[[Love|love]] before it is too late!” may have arrested them. Meaner and lower
+thoughts, as that his dead boy was now superseded by new ties, and he
+could forgive the having been supplanted in his affection, may have
+occasioned them. The mere association of her as an ornament, with all
+the ornament and pomp about him, may have been sufficient. But as he
+looked, he softened to her, more and more. As he looked, she became
+blended with the [[Child|child]] he had loved, and he could hardly separate the
+two. As he looked, he saw her for an instant by a clearer and a
+brighter light, not bending over that [[Child|child]]’s pillow as his
+rival—monstrous thought—but as the spirit of his [[Home|home]], and in the
+action tending himself no less, as he sat once more with his bowed-down
+head upon his hand at the foot of the little bed. He felt inclined to
+speak to her, and call her to him. The words “Florence, come here!”
+were rising to his lips—but slowly and with difficulty, they were so
+very strange—when they were checked and stifled by a footstep on the
+stair.
+
+It was his wife’s. She had exchanged her dinner dress for a loose robe,
+and unbound her hair, which fell freely about her neck. But this was
+not the change in her that startled him.
+
+“Florence, dear,” she said, “I have been looking for you everywhere.”
+
+As she sat down by the side of Florence, she stooped and kissed her
+hand. He hardly knew his wife. She was so changed. It was not merely
+that her smile was new to him—though that he had never seen; but her
+manner, the tone of her voice, the light of her eyes, the interest, and
+confidence, and winning wish to please, expressed in all-this was not
+Edith.
+
+“Softly, dear Mama. Papa is asleep.”
+
+It was Edith now. She looked towards the corner where he was, and he
+knew that face and manner very [[Well|well]].
+
+“I scarcely thought you could be here, Florence.”
+
+Again, how altered and how softened, in an instant!
+
+“I left here early,” pursued Edith, “purposely to sit upstairs and talk
+with you. But, going to your room, I found my bird was flown, and I
+have been waiting there ever since, expecting its return.
+
+If it had been a bird, indeed, she could not have taken it more
+tenderly and gently to her breast, than she did Florence.
+
+“Come, dear!”
+
+“Papa will not expect to find me, I suppose, when he wakes,” hesitated
+Florence.
+
+“Do you think he will, Florence?” said Edith, looking full upon her.
+
+Florence drooped her head, and [[Rose|rose]], and put up her work-basket. Edith
+drew her hand through her arm, and they went out of the room like
+sisters. Her very step was different and new to him, Mr Dombey thought,
+as his eyes followed her to the door.
+
+He sat in his shadowy corner so long, that the church clocks struck the
+hour three times before he moved that [[Night|night]]. All that while his face
+was still intent upon the spot where Florence had been seated. The room
+grew darker, as the candles waned and went out; but a darkness gathered
+on his face, exceeding any that the [[Night|night]] could cast, and rested there.
+
+Florence and Edith, seated before the [[Fire|fire]] in the remote room where
+little Paul had died, talked together for a long [[Time|time]]. Diogenes, who
+was of the party, had at first objected to the admission of Edith, and,
+even in deference to his mistress’s wish, had only permitted it under
+growling protest. But, emerging by little and little from the
+ante-room, whither he had retired in dudgeon, he soon appeared to
+comprehend, that with the most amiable intentions he had made one of
+those mistakes which will occasionally arise in the best-regulated
+[[dogs]]’ minds; as a friendly apology for which he stuck himself up on end
+between the two, in a very hot place in front of the [[Fire|fire]], and sat
+panting at it, with his tongue out, and a most imbecile expression of
+countenance, listening to the conversation.
+
+It turned, at first, on Florence’s books and favourite pursuits, and on
+the manner in which she had beguiled the interval since the [[Marriage|marriage]].
+The last theme opened up to her a subject which lay very near her
+heart, and she said, with the [[Tears|tears]] starting to her eyes:
+
+“Oh, Mama! I have had a great sorrow since that day.”
+
+“You a great sorrow, Florence!”
+
+“Yes. Poor Walter is drowned.”
+
+Florence spread her hands before her face, and wept with all her heart.
+Many as were the secret [[Tears|tears]] which Walter’s fate had cost her, they
+flowed yet, when she thought or spoke of him.
+
+“But tell me, dear,” said Edith, soothing her. “Who was Walter? What
+was he to you?”
+
+“He was my brother, Mama. After dear Paul died, we said we would be
+brother and sister. I had known him a long [[Time|time]]—from a little [[Child|child]]. He
+knew Paul, who liked him very much; Paul said, almost at the last,
+‘Take care of Walter, dear Papa! I was fond of him!’ Walter had been
+brought in to see him, and was there then—in this room.”
+
+“And did he take care of Walter?” inquired Edith, sternly.
+
+“Papa? He appointed him to go abroad. He was drowned in shipwreck on
+his voyage,” said Florence, sobbing.
+
+“Does he know that he is dead?” asked Edith.
+
+“I cannot tell, Mama. I have no means of knowing. Dear Mama!” cried
+Florence, clinging to her as for help, and hiding her face upon her
+bosom, “I know that you have seen—”
+
+“Stay! Stop, Florence.” Edith turned so pale, and spoke so earnestly,
+that Florence did not need her restraining hand upon her lips. “Tell me
+all about Walter first; let me understand this [[history]] all through.”
+
+Florence related it, and everything belonging to it, even down to the
+[[Friendship|friendship]] of Mr Toots, of whom she could hardly speak in her distress
+without a tearful smile, although she was deeply grateful to him. When
+she had concluded her account, to the whole of which Edith, holding her
+hand, listened with close attention, and when a [[Silence|silence]] had succeeded,
+Edith said:
+
+“What is it that you know I have seen, Florence?”
+
+“That I am not,” said Florence, with the same mute appeal, and the same
+quick concealment of her face as before, “that I am not a favourite
+[[Child|child]], Mama. I never have been. I have never known how to be. I have
+missed the way, and had no one to show it to me. Oh, let me learn from
+you how to become dearer to Papa Teach me! you, who can so [[Well|well]]!” and
+clinging closer to her, with some broken fervent words of gratitude and
+endearment, Florence, relieved of her sad secret, wept long, but not as
+painfully as of yore, within the encircling arms of her new mother.
+
+Pale even to her lips, and with a face that strove for composure until
+its proud [[Beauty|beauty]] was as fixed as [[Death|death]], Edith looked down upon the
+weeping girl, and once kissed her. Then gradually disengaging herself,
+and putting Florence away, she said, stately, and quiet as a marble
+image, and in a voice that deepened as she spoke, but had no other
+token of emotion in it:
+
+“Florence, you do not know me! Heaven forbid that you should learn from
+me!”
+
+“Not learn from you?” repeated Florence, in surprise.
+
+“That I should teach you how to [[Love|love]], or be loved, Heaven forbid!” said
+Edith. “If you could teach me, that were better; but it is too late.
+You are dear to me, Florence. I did not think that anything could ever
+be so dear to me, as you are in this little [[Time|time]].”
+
+She saw that Florence would have spoken here, so checked her with her
+hand, and went on.
+
+“I will be your true friend always. I will cherish you, as much, if not
+as [[Well|well]] as anyone in this world could. You may trust in me—I know it
+and I say it, dear,—with the whole confidence even of your pure heart.
+There are hosts of women whom he might have married, better and truer
+in all other respects than I am, Florence; but there is not one who
+could come here, his wife, whose heart could beat with greater [[Truth|truth]] to
+you than mine does.”
+
+“I know it, dear Mama!” cried Florence. “From that first most happy day
+I have known it.”
+
+“Most happy day!” Edith seemed to repeat the words involuntarily, and
+went on. “Though the merit is not mine, for I thought little of you
+until I saw you, let the undeserved reward be mine in your trust and
+[[Love|love]]. And in this—in this, Florence; on the first [[Night|night]] of my taking up
+my abode here; I am led on as it is best I should be, to say it for the
+first and last [[Time|time]].”
+
+Florence, without knowing why, felt almost afraid to hear her proceed,
+but kept her eyes riveted on the beautiful face so fixed upon her own.
+
+“Never seek to find in me,” said Edith, laying her hand upon her
+breast, “what is not here. Never if you can help it, Florence, fall off
+from me because it is not here. Little by little you will know me
+better, and the [[Time|time]] will come when you will know me, as I know myself.
+Then, be as lenient to me as you can, and do not turn to bitterness the
+only sweet remembrance I shall have.”
+
+The [[Tears|tears]] that were visible in her eyes as she kept them fixed on
+Florence, showed that the composed face was but as a handsome mask; but
+she preserved it, and continued:
+
+“I have seen what you say, and know how true it is. But believe me—you
+will soon, if you cannot now—there is no one on this earth less
+qualified to set it right or help you, Florence, than I. Never ask me
+why, or speak to me about it or of my husband, more. There should be,
+so far, a division, and a [[Silence|silence]] between us two, like the [[Grave|grave]]
+itself.”
+
+She sat for some [[Time|time]] silent; Florence scarcely venturing to breathe
+meanwhile, as dim and imperfect shadows of the [[Truth|truth]], and all its daily
+consequences, chased each other through her terrified, yet incredulous
+[[Imagination|imagination]]. Almost as soon as she had ceased to speak, Edith’s face
+began to subside from its set composure to that quieter and more
+relenting aspect, which it usually wore when she and Florence were
+[[Alone|alone]] together. She shaded it, after this change, with her hands; and
+when she arose, and with an affectionate embrace bade Florence
+good-[[Night|night]], went quickly, and without looking round.
+
+But when Florence was in bed, and the room was dark except for the glow
+of the [[Fire|fire]], Edith returned, and saying that she could not [[Sleep|sleep]], and
+that her dressing-room was lonely, drew a chair upon the hearth, and
+watched the embers as they died away. Florence watched them too from
+her bed, until they, and the noble figure before them, crowned with its
+flowing hair, and in its thoughtful eyes reflecting back their light,
+became confused and indistinct, and finally were lost in slumber.
+
+In her [[Sleep|sleep]], however, Florence could not lose an undefined impression
+of what had so recently passed. It formed the subject of her [[Dreams|dreams]],
+and haunted her; now in one shape, now in another; but always
+oppressively; and with a sense of [[Fear|fear]]. She dreamed of seeking her
+father in wildernesses, of following his track up fearful heights, and
+down into deep mines and caverns; of being charged with something that
+would release him from extraordinary [[Suffering|suffering]]—she knew not what, or
+why—yet never being able to attain the goal and set him free. Then she
+saw him dead, upon that very bed, and in that very room, and knew that
+he had never loved her to the last, and fell upon his cold breast,
+passionately weeping. Then a prospect opened, and a [[River|river]] flowed, and a
+plaintive voice she knew, cried, “It is running on, Floy! It has never
+stopped! You are moving with it!” And she saw him at a distance
+stretching out his arms towards her, while a figure such as Walter’s
+used to be, stood near him, awfully serene and still. In every vision,
+Edith came and went, sometimes to her joy, sometimes to her sorrow,
+until they were [[Alone|alone]] upon the brink of a dark [[Grave|grave]], and Edith
+pointing down, she looked and saw—what!—another Edith lying at the
+[[Bottom|bottom]].
+
+In the terror of this dream, she cried out and awoke, she thought. A
+soft voice seemed to whisper in her ear, “Florence, dear Florence, it
+is nothing but [[A Dream|a dream]]!” and stretching out her arms, she returned the
+caress of her new Mama, who then went out at the door in the light of
+the grey morning. In a moment, Florence sat up wondering whether this
+had really taken place or not; but she was only certain that it was
+grey morning indeed, and that the blackened ashes of the [[Fire|fire]] were on
+the hearth, and that she was [[Alone|alone]].
+
+So passed the [[Night|night]] on which the happy pair came [[Home|home]].

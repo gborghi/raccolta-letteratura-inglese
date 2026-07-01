@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 20 (part 1)"
+title: "Nicholas Nickleby — Chapter 20 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -86,7 +86,7 @@ and if she enjoyed a little bit of [[Revenge|revenge]], no living [[Soul|soul]] 
 the worse. One of the many to whom, from straitened circumstances, a
 consequent inability to form the associations they would wish, and a
 disinclination to mix with the society they could obtain, [[London]] is
-as complete a [[Solitude|solitude]] as the plains of Syria, the humble [[artist]] had
+as complete a [[Solitude|solitude]] as the plains of Syria, the humble [[Artist|artist]] had
 pursued her lonely, but contented way for many years; and, until the
 peculiar misfortunes of the Nickleby family attracted her attention,
 had made no friends, though brimful of the friendliest feelings to all
@@ -142,7 +142,3 @@ face is haggard and pale. And how come you to have left Yorkshire?’
 
 She stopped here; for there was so much heart in her altered tone and
 manner, that Nicholas was quite moved.
-
-‘I need look somewhat changed,’ he said, after a short [[Silence|silence]]; ‘for
-I have undergone some [[Suffering|suffering]], both of mind and [[Body|body]], since I left
-[[London]]. I have been very poor, too, and have even suffered from want.’

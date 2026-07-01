@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 8 (part 2)"
+title: "Shirley — Chapter 8 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -12,6 +12,16 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_08/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_08/part_03">part 03 ›</a></div>
 </nav>
+
+
+desk. His master's answer to the rector's question was a smile. Joe took
+
+the word. Putting on a quiet but pawky look, he said,--
+
+
+
+"It's a friend of yours, Mr. Helstone, a gentleman you often speak of."
+
 
 
 "Indeed! His name, Joe? You look [[Well|well]] this morning."
@@ -231,17 +241,3 @@ was prudent to take precautions.
 Mr. Sykes now addressed Mr. Helstone, who stood on the hearth, his
 
 shovel-hat on his head, watching him significantly with his little, keen
-
-eyes.
-
-
-
-"You, sir, as a clergyman," said he, "may feel it disagreeable to be
-
-present amidst scenes of hurry and flurry, and, I may say, peril. I dare
-
-say your nerves won't stand it. You're a man of peace, sir; but we
-
-manufacturers, living in the world, and always in turmoil, get quite
-
-belligerent. Really, there's an ardour excited by the thoughts of danger

@@ -14,6 +14,60 @@ tags:
 </nav>
 
 
+      room, upon the varying figures of the drapery, and upon the
+
+      writhing of the parti-colored fires in the censer overhead. My
+
+      eyes then fell, as I called to mind the circumstances of a former
+
+      [[Night|night]], to the spot beneath the glare of the censer where I had
+
+      seen the faint traces of the [[Shadow|shadow]]. It was there, however, no
+
+      longer; and breathing with greater [[Freedom|freedom]], I turned my glances
+
+      to the pallid and rigid figure upon the bed. Then rushed upon me
+
+      a thousand memories of Ligeia—and then came back upon my heart,
+
+      with the turbulent violence of a flood, the whole of that
+
+      unutterable woe with which I had regarded her thus enshrouded.
+
+      The [[Night|night]] waned; and still, with a bosom full of bitter thoughts
+
+      of the one only and supremely beloved, I remained gazing upon the
+
+      [[Body|body]] of Rowena.
+
+
+
+      It might have been midnight, or perhaps earlier, or later, for I
+
+      had taken no note of [[Time|time]], when a sob, low, gentle, but very
+
+      distinct, startled me from my revery. I _felt_ that it came from
+
+      the bed of ebony—the bed of [[Death|death]]. I listened in an agony of
+
+      superstitious terror—but there was no repetition of the sound. I
+
+      strained my vision to detect any motion in the corpse—but there
+
+      was not the slightest perceptible. Yet I could not have been
+
+      deceived. I had heard the noise, however faint, and my [[Soul|soul]] was
+
+      awakened within me. I resolutely and perseveringly kept my
+
+      attention riveted upon the [[Body|body]]. Many minutes elapsed before any
+
+      circumstance occurred tending to throw light upon the mystery. At
+
+      length it became evident that a slight, a very feeble, and barely
+
+      noticeable tinge of color had flushed up within the cheeks, and
+
       along the sunken small veins of the eyelids. Through a species of
 
       unutterable horror and awe, for which the language of [[Mortality|mortality]]
@@ -135,65 +189,3 @@ tags:
       had been dead, once again stirred—and now more vigorously than
 
       hitherto, although arousing from a dissolution more appalling in
-
-      its utter hopelessness than any. I had long ceased to struggle or
-
-      to move, and remained sitting rigidly upon the ottoman, a
-
-      helpless prey to a whirl of violent emotions, of which extreme
-
-      awe was perhaps the least terrible, the least consuming. The
-
-      corpse, I repeat, stirred, and now more vigorously than before.
-
-      The hues of life flushed up with unwonted energy into the
-
-      countenance—the limbs relaxed—and, save that the eyelids were yet
-
-      pressed heavily together, and that the bandages and draperies of
-
-      the [[Grave|grave]] still imparted their charnel character to the figure, I
-
-      might have dreamed that Rowena had indeed shaken off, utterly,
-
-      the fetters of [[Death]]. But if this idea was not, even then,
-
-      altogether adopted, I could at least [[Doubt|doubt]] no longer, when,
-
-      arising from the bed, tottering, with feeble steps, with closed
-
-      eyes, and with the manner of one bewildered in [[A Dream|a dream]], the thing
-
-      that was enshrouded advanced boldly and palpably into the middle
-
-      of the apartment.
-
-
-
-      I trembled not—I stirred not—for a crowd of unutterable fancies
-
-      connected with the air, the stature, the demeanor of the figure,
-
-      rushing hurriedly through my brain, had paralyzed—had chilled me
-
-      into stone. I stirred not—but gazed upon the apparition. There
-
-      was a mad disorder in my thoughts—a tumult unappeasable. Could
-
-      it, indeed, be the living Rowena who confronted me? Could it
-
-      indeed be Rowena at all—the fair-haired, the blue-eyed Lady
-
-      Rowena Trevanion of Tremaine? Why, why should I [[Doubt|doubt]] it? The
-
-      bandage lay heavily about the mouth—but then might it not be the
-
-      mouth of the breathing Lady of Tremaine? And the cheeks—there
-
-      were the roses as in her [[Noon|noon]] of life—yes, these might indeed be
-
-      the fair cheeks of the living Lady of Tremaine. And the chin,
-
-      with its dimples, as in health, might it not be hers?—but had she
-
-      then grown taller since her malady? What inexpressible [[Madness|madness]]

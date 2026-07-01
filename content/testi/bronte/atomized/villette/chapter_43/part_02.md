@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 41 (part 2)"
+title: "Villette — Chapter 41 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_43/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_43/part_03">part 03 ›</a></div>
 </nav>
 
+
+“Leave her to me; it is a crisis: I will give her a cordial, and it
+will pass,” said the calm [[Madame Beck]].
+
+To be left to her and her cordial seemed to me something like being
+left to the poisoner and her bowl. When M. Paul answered deeply,
+harshly, and briefly—
 
 “Laissez-moi!” in the grim sound I felt a music strange, strong, but
 life-giving.
@@ -142,6 +149,3 @@ Guadaloupe, he looked forward to release from liabilities and a clear
 course; and what did I purpose doing in the interval of his absence? he
 asked. I had talked once, he reminded me, of trying to be independent
 and keeping a little school of my own: had I dropped the idea?
-
-“Indeed, I had not: I was doing my best to save what would enable me to
-put it in practice.”

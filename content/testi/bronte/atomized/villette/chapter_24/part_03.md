@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 24 (part 3)"
+title: "Villette — Chapter 24 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,26 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_24/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_24/part_04">part 04 ›</a></div>
 </nav>
 
+
+Bitter and dark as was this January day, I remember leaving the classe,
+and running down without bonnet to the [[Bottom|bottom]] of the long [[Garden|garden]], and
+then lingering amongst the stripped shrubs, in the forlorn [[Hope|hope]] that
+the postman’s ring might occur while I was out of hearing, and I might
+thus be spared the thrill which some particular nerve or nerves, almost
+gnawed through with the unremitting tooth of a fixed idea, were
+becoming wholly unfit to support. I lingered as long as I dared without
+[[Fear|fear]] of attracting attention by my absence. I muffled my head in my
+apron, and stopped my ears in terror of the torturing clang, sure to be
+followed by such blank [[Silence|silence]], such barren vacuum for me. At last I
+ventured to re-enter the first classe, where, as it was not yet nine
+o’[[Clock|clock]], no pupils had been admitted. The first thing seen was a white
+object on my black desk, a white, flat object. The post had, indeed,
+arrived; by me unheard. Rosine had visited my cell, and, like some
+angel, had left behind her a bright token of her presence. That shining
+thing on the desk was indeed a letter, a real letter; I saw so much at
+the distance of three yards, and as I had but one correspondent on
+earth, from that one it must come. He remembered me yet. How deep a
+pulse of gratitude sent new life through my heart.
 
 Drawing near, bending and looking on the letter, in trembling but
 almost certain [[Hope|hope]] of seeing a known hand, it was my lot to find, on
@@ -86,34 +106,3 @@ people’s [[Night|night]] sets in.
     to La Terrasse. Be sure to come: you may meet some old
     acquaintance. Good-by, my wise, dear, [[Grave|grave]] little
     god-daughter.—Very truly yours,
-
-
-“LOUISA BRETTON.”
-
-
-Now, a letter like that sets one to rights! I might still be sad after
-reading that letter, but I was more composed; not exactly cheered,
-perhaps, but relieved. My friends, at least, were [[Well|well]] and happy: no
-accident had occurred to Graham; no illness had seized his
-mother—calamities that had so long been my dream and thought. Their
-feelings for me too were—as they had been. Yet, how strange it was to
-look on Mrs. Bretton’s seven weeks and contrast them with my seven
-weeks! Also, how very wise it is in people placed in an exceptional
-position to hold their tongues and not rashly declare how such position
-galls them! The world can understand [[Well|well]] enough the process of
-perishing for want of food: perhaps few persons can enter into or
-follow out that of going mad from solitary confinement. They see the
-long-buried prisoner disinterred, a maniac or an idiot!—how his senses
-left him—how his nerves, first inflamed, underwent nameless agony, and
-then sunk to palsy—is a subject too intricate for examination, too
-abstract for popular comprehension. Speak of it! you might almost as
-[[Well|well]] stand up in an European market-place, and propound dark sayings in
-that language and mood wherein Nebuchadnezzar, the imperial
-hypochondriac, communed with his baffled Chaldeans. And long, long may
-the minds to whom such themes are no mystery—by whom their bearings are
-sympathetically seized—be few in number, and rare of rencounter. Long
-may it be generally thought that physical privations [[Alone|alone]] merit
-compassion, and that the rest is a figment. When the world was younger
-and haler than now, moral trials were a deeper mystery still: perhaps
-in all the land of Israel there was but one Saul—certainly but one
-David to soothe or comprehend him.

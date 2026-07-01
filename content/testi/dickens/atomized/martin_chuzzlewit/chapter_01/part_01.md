@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 1 (part 1)"
+title: "Martin Chuzzlewit — Chapter 1 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/martin-chuzzlewit-(dickens)">Martin Chuzzlewit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_55_fifty_four">‹ Chapter 55 FIFTY FOUR</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_01/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_54_fifty_four">‹ Chapter 54 FIFTY FOUR</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_01/part_02">part 02 ›</a></div>
 </nav>
 
 

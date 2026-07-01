@@ -1,5 +1,5 @@
 ---
-title: "[[Eugenics]] — Part 1 (part 16)"
+title: "Eugenics — Part 1 (part 16)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/eugenics-(chesterton)"
@@ -13,6 +13,59 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/eugenics/chapter_02/part_15">‹ part 15</a><a class="ex-next" href="/testi/chesterton/atomized/eugenics/chapter_02/part_17">part 17 ›</a></div>
 </nav>
 
+
+I mean the error that still sends men marching about disestablishing
+churches and talking of the tyranny of compulsory church teaching
+or compulsory church tithes.  I do not wish for an irrelevant
+misunderstanding here; I would myself certainly disestablish any
+church that had a numerical minority, like the Irish or the Welsh;
+and I think it would do a great deal of good to genuine churches that have
+a partly conventional majority, like the English, or even the Russian.
+But I should only do this if I had nothing else to do; and just now
+there is very much else to do.  For religion, orthodox, or unorthodox,
+is not just now relying on the weapon of State establishment at all.
+The Pope practically made no attempt to preserve the Concordat;
+but seemed rather relieved at the independence his Church
+gained by the destruction of it:  and it is common talk among
+the French clericalists that the Church has gained by the change.
+In [[Russia]] the one real charge brought by religious people
+(especially Roman Catholics) against the Orthodox Church is not its
+orthodoxy or heterodoxy, but its abject dependence on the State.
+In England we can almost measure an Anglican's fervour for his
+Church by his comparative coolness about its establishment ---
+that is, its control by a Parliament of Scotch Presbyterians
+like Balfour, or Welsh Congregationalists like Lloyd George.
+In Scotland the powerful combination of the two great sects outside
+the establishment have left it in a position in which it feels
+no disposition to boast of being called by mere lawyers the Church
+of Scotland.  I am not here arguing that Churches should not depend
+on the State; nor that they do not depend upon much worse things.
+It may be reasonably maintained that the strength of Romanism,
+though it be not in any national police, is in a moral police
+more rigid and vigilant.  It may be reasonably maintained that
+the strength of Anglicanism, though it be not in establishment,
+is in aristocracy, and its [[Shadow|shadow]], which is called snobbishness.
+All I assert here is that the Churches are not now leaning heavily
+on their political establishment; they are not using heavily the
+secular arm.  Almost everywhere their legal tithes have been modified,
+their legal boards of control have been mixed.  They may still
+employ tyranny, and worse tyranny:  I am not considering that.
+They are not specially using that special tyranny which consists
+in using the [[government]].
+
+The thing that really is trying to tyrannize through [[government]]
+is Science.  The thing that really does use the secular arm is Science.
+And the creed that really is levying tithes and capturing schools,
+the creed that really is enforced by fine and [[Imprisonment|imprisonment]],
+the creed that really is proclaimed not in sermons but in statutes,
+and spread not by pilgrims but by policemen --- that creed is the great
+but disputed system of thought which began with Evolution and has
+ended in [[Eugenics]].  Materialism is really our established Church;
+for the [[government|Government]] will really help it to persecute its heretics.
+Vaccination, in its hundred years of experiment, has been disputed
+almost as much as baptism in its approximate two thousand.
+But it seems quite natural to our politicians to enforce vaccination;
+and it would seem to them [[Madness|madness]] to enforce baptism.
 
 I am not frightened of the word "persecution" when it is
 attributed to the churches; nor is it in the least as a term
@@ -61,59 +114,3 @@ to profess.  But even if I yelled out a credo when the Eugenists
 had me on the rack, I should not know what creed to yell.
 I might get an extra turn of the rack for confessing to the creed
 they confessed quite a week ago.
-
-Now let not light-minded persons say that I am here taking
-extravagant parallels; for the parallel is not only perfect, but plain.
-For this reason:  that the difference between torture and vivisection
-is not in any way affected by the fierceness or mildness of either.
-Whether they gave the rack half a turn or half a hundred,
-they were, by hypothesis, dealing with a [[Truth|truth]] which they knew
-to be there.  Whether they vivisect painfully or painlessly,
-they are trying to find out whether the [[Truth|truth]] is there or not.
-The old inquisitors tortured to put their own opinions into somebody.
-But the new Inquisitors torture to get their own opinions out of him.
-They do not know what their own opinions are, until the victim
-of vivisection tells them.  The division of thought is a complete
-chasm for anyone who cares about thinking.  The old persecutor
-was trying to teach the citizen, with [[Fire|fire]] and [[Sword|sword]].
-The new persecutor is trying to learn from the citizen, with scalpel
-and germ-injector. The master was meeker than the pupil will be.
-
-I could prove by many practical instances that even my illustrations
-are not exaggerated, by many placid proposals I have heard for the
-vivisection of criminals, or by the filthy incident of Dr. Neisser.
-But I prefer here to stick to a strictly logical line of distinction,
-and insist that whereas in all previous persecutions the violence was
-used to end our indecision, the whole point here is that the violence
-is used to end the indecision of the persecutors.  This is what
-the honest Eugenists really mean, so far as they mean anything.
-They mean that the public is to be given up, not as a heathen
-land for [[Conversion|conversion]], but simply as a pabulum for a experiment.
-That is the real, rude, barbaric sense behind this Eugenic legislation.
-The Eugenist doctors are not such fools as they look in the light of any
-logical inquiry about what they want.  They do not know what they want,
-except that they want your [[Soul|soul]] and [[Body|body]] and mine in order to find out.
-They are quite seriously, as they themselves might say,
-the first religion to be experimental instead of doctrinal.
-All other established Churches have been based on somebody having
-found the [[Truth|truth]].  This is the first Church that was ever based
-on not having found it.
-
-There is in them a perfectly sincere [[Hope|hope]] and enthusiasm;
-but it is not for us, but for what they might learn from us,
-if they could rule us as they can rabbits.  They cannot tell us
-anything about heredity, because they do not know anything about it.
-But they do quite honestly believe that they would know something
-about it, when they had married and mismarried us for a few
-hundred years.  They cannot tell us who is fit to wield such authority,
-for they know that nobody is; but they do quite honestly believe
-that when that authority has been abused for a very long [[Time|time]],
-somebody somehow will be evolved who is fit for the job.
-I am no Puritan, and no one who knows my opinions will consider it
-a mere criminal charge if I say that they are simply gambling.
-The reckless gambler has no money in his pockets; he has
-only the ideas in his head.  These gamblers have no idea
-in their heads; they have only the money in their pockets.
-But they think that if they could use the money to buy a big society
-to experiment on, something like an idea might come to them at last.
-That is [[Eugenics]].

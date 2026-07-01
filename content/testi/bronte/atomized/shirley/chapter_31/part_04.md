@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 31 (part 4)"
+title: "Shirley — Chapter 31 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -12,6 +12,60 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_31/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_31/part_05">part 05 ›</a></div>
 </nav>
+
+
+"I have been in [[Love|love]] several times."
+
+
+
+"This is cynical."
+
+
+
+"With heroes of many nations."
+
+
+
+"What next----"
+
+
+
+"And philosophers."
+
+
+
+"She is mad----"
+
+
+
+"Don't ring the bell, uncle; you will alarm my aunt."
+
+
+
+"Your poor dear aunt, what a niece has she!"
+
+
+
+"Once I loved Socrates."
+
+
+
+"Pooh! no trifling, ma'am."
+
+
+
+"I admired Themistocles, Leonidas, Epaminondas."
+
+
+
+"Miss Keeldar----"
+
+
+
+"To pass over a few centuries, Washington was a plain man, but I liked
+
+him; but to speak of the actual present----"
+
 
 
 "Ah! the actual present."
@@ -343,29 +397,3 @@ you."
 
 
 "Another creed! I believe she is an infidel."
-
-
-
-"An infidel to _your_ religion, an atheist to _your_ god."
-
-
-
-"_An--atheist!!!_"
-
-
-
-"Your god, sir, is the world. In my eyes you too, if not an infidel, are
-
-an idolater. I conceive that you ignorantly worship; in all things you
-
-appear to me too superstitious. Sir, your god, your great Bel, your
-
-fish-tailed Dagon, rises before me as a demon. You, and such as you,
-
-have raised him to a throne, put on him a [[Crown|crown]], given him a sceptre.
-
-Behold how hideously he governs! See him busied at the work he likes
-
-best--making marriages. He binds the young to the old, the strong to the
-
-imbecile. He stretches out the arm of Mezentius, and fetters the dead to

@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 30: THIRTY (part 5)"
+title: "Martin Chuzzlewit — Chapter 30: THIRTY (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_30_thirty/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_30_thirty/part_06">part 06 ›</a></div>
 </nav>
 
+
+She said the morning was so beautiful that she had walked further than
+she intended, and would return. Mr Pecksniff said it was exactly his
+case, and he would return with her.
+
+‘Take my arm, sweet girl,’ said Mr Pecksniff.
+
+Mary declined it, and walked so very fast that he remonstrated. ‘You
+were loitering when I came upon you,’ Mr Pecksniff said. ‘Why be so
+cruel as to hurry now? You would not shun me, would you?’
 
 ‘Yes, I would,’ she answered, turning her glowing cheek indignantly
 upon him, ‘you know I would. Release me, Mr Pecksniff. Your touch is
@@ -127,18 +137,3 @@ is really difficult to ruffle me. It is a curious fact, but it is
 difficult, do you know, for any one to ruffle me. And did she think,’
 said Mr Pecksniff, with a playful tightening of his grasp ‘that SHE
 could! How little did she know his heart!’
-
-Little, indeed! Her mind was so strangely constituted that she would
-have preferred the caresses of a toad, an adder, or a serpent--nay, the
-hug of a bear--to the endearments of Mr Pecksniff.
-
-‘Come, come,’ said that good gentleman, ‘a word or two will set this
-matter right, and establish a pleasant understanding between us. I am
-not angry, my [[Love|love]].’
-
-‘YOU angry!’
-
-‘No,’ said Mr Pecksniff, ‘I am not. I say so. Neither are you.’
-
-There was a beating heart beneath his hand that told another story
-though.

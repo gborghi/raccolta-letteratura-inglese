@@ -1,5 +1,5 @@
 ---
-title: "[[aquinas]] — Chapter 4 (part 10)"
+title: "aquinas — Chapter 4 (part 10)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/aquinas-(chesterton)"
@@ -117,12 +117,12 @@ statement of his own solution.  Needless to say he felt with
 hearty simplicity the heavy responsibility and gravity of such
 a judicial decision; and not unnaturally seems to have worried
 about it more than he commonly did over his work.  He sought for
-guidance in more than usually prolonged [[Prayer|prayer]] and intercession;
+guidance in more than usually prolonged [[prayer]] and intercession;
 and finally, with one of those few but striking bodily gestures
 that mark the turning points of his life, he threw down his thesis
 at the foot of the crucifix on the altar, and left it lying there;
 as if awaiting judgment.  Then he turned and came down the altar
-steps and buried himself once more in [[Prayer|prayer]]; but the other Friars,
+steps and buried himself once more in [[prayer]]; but the other Friars,
 it is said, were watching; and [[Well|well]] they might be.  For they declared
 afterwards that the figure of [[Christ]] had come down from the [[Cross|cross]]
 before their mortal eyes; and stood upon the scroll, saying "Thomas,

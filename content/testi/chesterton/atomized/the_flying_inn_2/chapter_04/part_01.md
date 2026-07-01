@@ -159,10 +159,3 @@ grandfather."
 "I think it's very ungallant on your part," said Lady
 Joan, with a mournful smile, "to ask a lady to remember
 his grandfather."
-
-"You know what I mean, Lady Joan," said her host,
-good humouredly.  "And I never was hard on the case
-myself; we all have our little ways.  I shouldn't like
-it done to my pig; but I don't see why a man shouldn't
-have his own pig in his own pew with him if he likes
-it.  It wasn't a free seat.  It was the family pew."

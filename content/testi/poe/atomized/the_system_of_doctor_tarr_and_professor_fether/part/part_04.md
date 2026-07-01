@@ -1,5 +1,5 @@
 ---
-title: "[[The System of Doctor Tarr and Professor Fether]] (part 4)"
+title: "The System of Doctor Tarr and Professor Fether (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-system-of-doctor-tarr-and-professor-fether-(poe)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_system_of_doctor_tarr_and_professor_fether/part/part_03">‹ part 03</a><a class="ex-next" href="/testi/poe/atomized/the_system_of_doctor_tarr_and_professor_fether/part/part_05">part 05 ›</a></div>
 </nav>
 
+
+      “Mille pardons! Ma’m’selle!” replied Monsieur De Kock, thus
+
+      addressed—“a thousand pardons! I had no intention of offending.
 
       Ma’m’selle Laplace—Monsieur De Kock will do himself the honor of
 
@@ -239,9 +243,3 @@ tags:
 
 
       Here a friend, at the side of the speaker, put a hand upon his
-
-      shoulder and whispered a few words in his ear; upon which he
-
-      ceased talking with great suddenness, and sank back within his
-
-      chair.

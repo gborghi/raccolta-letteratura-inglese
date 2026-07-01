@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 44 (part 1)"
+title: "Oliver Twist — Chapter 44 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/oliver-twist-(dickens)">Oliver Twist</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_43/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_44/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_43/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_44/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -145,8 +145,3 @@ Do you hear me?” cried [[Nancy]] stamping her foot upon the ground.
 “Aye! And if I hear you for half a minute longer, the dog shall have
 such a grip on your throat as’ll tear some of that screaming voice out.
 Wot has come over you, you jade! Wot is it?”
-
-“Let me go,” said the girl with great earnestness; then sitting herself
-down on the floor, before the door, she said, “Bill, let me go; you
-don’t know what you are doing. You don’t, indeed. For only one
-hour—do—do!”

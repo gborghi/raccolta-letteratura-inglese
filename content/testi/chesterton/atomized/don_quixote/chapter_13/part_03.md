@@ -1,5 +1,5 @@
 ---
-title: "[[Don Quixote]] — Chapter 12 (part 3)"
+title: "Don Quixote — Chapter 12 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/don-quixote-(chesterton)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_13/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_14/part_01">part 01 ›</a></div>
 </nav>
 
+
+"The trouble is," said the Prime Minister, "that their side
+has suddenly developed somebody who believes in something.
+It's not fair, in a way.  We knew all about Labour members,
+of course, and they were damned like all other members.
+You couldn't insult them; you got at them by degrees;
+you told them they were admirable parliamentarians and foemen
+worthy of your steel, and then, of course, you found some
+sort of a job for them sooner or later; and there you were.
+But this business of the Coal-Tar people is different.
+The Unions wouldn't have been much different by themselves,
+of course.  People at a Trade [[Union]] meeting don't know what
+they're voting about--"
 
 "Of course not," said Seawood nodding gravely and graciously,
 "quite ignorant, I suppose?"

@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]]"
+title: "heret12"
 author: "Chesterton"
 unitType: work
 parentWork: "works/heret12-(chesterton)"
@@ -357,7 +357,7 @@ to believe in going back to fundamentals.  Such is the general
 idea of this book.  I wish to deal with my most distinguished
 contemporaries, not personally or in a merely literary manner,
 but in relation to the real [[Body|body]] of doctrine which they teach.
-I am not concerned with Mr. Rudyard Kipling as a vivid [[artist]]
+I am not concerned with Mr. Rudyard Kipling as a vivid [[Artist|artist]]
 or a vigorous personality; I am concerned with him as a Heretic--
 that is to say, a man whose view of things has the hardihood
 to differ from mine.  I am not concerned with Mr. Bernard [[Shaw]]
@@ -440,7 +440,7 @@ appropriate and charming.  I have not the work by me, but I remember
 that Mr. Foote dismissed very contemptuously any attempts to deal
 with the problem of strong drink by religious offices or intercessions,
 and said that a picture of a drunkard's liver would be more
-efficacious in the matter of temperance than any [[prayer]] or praise.
+efficacious in the matter of temperance than any [[Prayer|prayer]] or praise.
 In that picturesque expression, it seems to me, is perfectly embodied
 the incurable morbidity of modern ethics.  In that temple the lights
 are low, the crowds kneel, the solemn anthems are uplifted.  But that upon
@@ -1008,7 +1008,7 @@ He fronts his audiences with the venerable affectation of [[Mark Antony]]--
    But as you know me all, a plain blunt man."
 
 It is the whole difference between the aim of the orator and
-the aim of any other [[artist]], such as the poet or the sculptor.
+the aim of any other [[Artist|artist]], such as the poet or the sculptor.
 The aim of the sculptor is to convince us that he is a sculptor;
 the aim of the orator, is to convince us that he is not an orator.
 Once let Mr. Chamberlain be mistaken for a practical man, and his
@@ -1029,7 +1029,7 @@ a standing monument of the advantage of being misunderstood.
 Mr. Bernard [[Shaw]] is always represented by those who disagree
 with him, and, I [[Fear|fear]], also (if such exist) by those who
 agree with him, as a capering humorist, a dazzling acrobat,
-a quick-change [[artist]].  It is said that he cannot be taken seriously,
+a quick-change [[Artist|artist]].  It is said that he cannot be taken seriously,
 that he will defend anything or attack anything, that he will
 do anything to startle and amuse.  All this is not only untrue,
 but it is, glaringly, the opposite of the [[Truth|truth]]; it is as wild
@@ -1368,7 +1368,7 @@ They are becoming conscious of their own strength--that is,
 they are growing weaker.  But one purely modern man has emerged
 in the strictly modern decades who does carry into our world
 the clear personal simplicity of the old world of science.
-One man of genius we have who is an [[artist]], but who was a man
+One man of genius we have who is an [[Artist|artist]], but who was a man
 of science, and who seems to be marked above all things with this
 great scientific [[Humility|humility]].  I mean Mr. H. G. Wells.  And in his case,
 as in the others above spoken of, there must be a great preliminary
@@ -2565,7 +2565,7 @@ and influential aesthetic weakness as [[Well|well]].  We should really be much m
 interested in Mr. Moore if he were not quite so interested in himself.
 We feel as if we were being shown through a gallery of really fine pictures,
 into each of which, by some useless and discordant convention,
-the [[artist]] had represented the same figure in the same attitude.
+the [[Artist|artist]] had represented the same figure in the same attitude.
 "The Grand Canal with a distant view of Mr. Moore," "Effect of Mr. Moore
 through a Scotch Mist," "Mr. Moore by Firelight," "Ruins of Mr. Moore
 by Moonlight," and so on, seems to be the endless series.  He would no
@@ -4188,7 +4188,7 @@ Wolfe walked about the room with a drawn [[Sword|sword]] calling himself
 Caesar and Hannibal, and went to [[Death|death]] with poetry in his mouth.
 Clive was a man of the same type as Cromwell or Bunyan, or, for the
 matter of that, Johnson--that is, he was a strong, sensible man
-with a kind of running [[Spring|spring]] of hysteria and [[Melancholy|melancholy]] in him.
+with a kind of running [[spring]] of hysteria and [[Melancholy|melancholy]] in him.
 Like Johnson, he was all the more healthy because he was morbid.
 The tales of all the admirals and adventurers of that England are
 full of braggadocio, of sentimentality, of splendid affectation.
@@ -4784,9 +4784,9 @@ is altogether done to himself.
 
 He was not a great personality, because he thought so much about himself.
 And the case is stronger even than that.  He was sometimes not even a
-great [[artist]], because he thought so much about art.  Any man with a vital
+great [[Artist|artist]], because he thought so much about art.  Any man with a vital
 knowledge of the human psychology ought to have the most profound suspicion
-of anybody who claims to be an [[artist]], and talks a great deal about art.
+of anybody who claims to be an [[Artist|artist]], and talks a great deal about art.
 Art is a right and human thing, like walking or saying one's prayers;
 but the moment it begins to be talked about very solemnly, a man may be fairly
 certain that the thing has come into a congestion and a kind of difficulty.
@@ -4809,7 +4809,7 @@ produce any art.
 Whistler could produce art; and in so far he was a great man.
 But he could not forget art; and in so far he was only a man with
 the artistic temperament.  There can be no stronger manifestation of
-the man who is a really great [[artist]] than the fact that he can dismiss
+the man who is a really great [[Artist|artist]] than the fact that he can dismiss
 the subject of art; that he can, upon due occasion, wish art at the [[Bottom|bottom]]
 of the sea.  Similarly, we should always be much more inclined to trust
 a solicitor who did not talk about conveyancing over the nuts and wine.
@@ -4828,7 +4828,7 @@ should be placed at our disposal in that particular forensic controversy.
 In a word, we are very glad that he is an ordinary man, since that may
 help him to be an exceptional lawyer.
 
-Whistler never ceased to be an [[artist]].  As Mr. Max Beerbohm pointed
+Whistler never ceased to be an [[Artist|artist]].  As Mr. Max Beerbohm pointed
 out in one of his extraordinarily sensible and sincere critiques,
 Whistler really regarded Whistler as his greatest work of art.
 The white lock, the single eyeglass, the remarkable hat--
@@ -4849,7 +4849,7 @@ could be as keen as Shakespeare was on business transactions in a
 little town in Warwickshire.  The explanation is simple enough;
 it is that Shakespeare had a real lyrical impulse, wrote a real [[Lyric|lyric]],
 and so got rid of the impulse and went about his business.
-Being an [[artist]] did not prevent him from being an ordinary man,
+Being an [[Artist|artist]] did not prevent him from being an ordinary man,
 any more than being a sleeper at [[Night|night]] or being a diner at dinner
 prevented him from being an ordinary man.
 
@@ -5732,10 +5732,10 @@ to preach Socialism.  All the art of all the artists looked tiny
 and tedious beside the art which was a byproduct of propaganda.
 
 The reason, indeed, is very simple.  A man cannot be wise enough to be
-a great [[artist]] without being wise enough to wish to be a philosopher.
+a great [[Artist|artist]] without being wise enough to wish to be a philosopher.
 A man cannot have the energy to produce good art without having
-the energy to wish to pass beyond it.  A small [[artist]] is content
-with art; a great [[artist]] is content with nothing except everything.
+the energy to wish to pass beyond it.  A small [[Artist|artist]] is content
+with art; a great [[Artist|artist]] is content with nothing except everything.
 So we find that when real forces, good or bad, like Kipling and
 G. B. S., enter our arena, they bring with them not only startling
 and arresting art, but very startling and arresting dogmas.  And they
@@ -5800,7 +5800,7 @@ for the same reason that the poet loved it; if we dislike him because of
 his opinions, we are disliking him for the best of all possible reasons.
 If a man comes into Hyde Park to preach it is permissible to hoot him;
 but it is discourteous to applaud him as a performing bear.
-And an [[artist]] is only a performing bear compared with the meanest
+And an [[Artist|artist]] is only a performing bear compared with the meanest
 man who fancies he has anything to say.
 
 There is, indeed, one class of modern writers and thinkers who cannot
@@ -5822,7 +5822,7 @@ Unfortunately, the philosopher who talks about aspects of [[Truth|truth]]
 generally also asks, "What is [[Truth|truth]]?"  Frequently even he denies
 the existence of [[Truth|truth]], or says it is inconceivable by the
 human intelligence.  How, then, can he recognize its aspects?
-I should not like to be an [[artist]] who brought an architectural
+I should not like to be an [[Artist|artist]] who brought an architectural
 [[Sketch|sketch]] to a builder, saying, "This is the south aspect of
 Sea-View Cottage.  Sea-View Cottage, of course, does not exist."
 I should not even like very much to have to explain,

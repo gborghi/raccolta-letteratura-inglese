@@ -14,6 +14,13 @@ tags:
 </nav>
 
 
+Mr. Pump had made many attempts to arrest this
+[[Song|song]], but they were as vain as all attempts to arrest
+the car.  The angry chauffeur seemed, indeed, rather
+inspired to further energy by the violent vocal noises
+behind; and Pump again found it best to fall back on
+conversation.
+
 "[[Well]], Captain," he said, amicably.  "I can't quite
 agree with you about those things.  Of course, you
 can trust foreigners too much as poor Thompson did;

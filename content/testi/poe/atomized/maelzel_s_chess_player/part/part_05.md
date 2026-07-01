@@ -1,5 +1,5 @@
 ---
-title: "[[Maelzel's Chess-Player]] (part 5)"
+title: "Maelzel's Chess-Player (part 5)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/maelzel's-chess-player-(poe)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/maelzel_s_chess_player/part/part_04">‹ part 04</a><a class="ex-next" href="/testi/poe/atomized/maelzel_s_chess_player/part/part_06">part 06 ›</a></div>
 </nav>
 
+
+      say nothing at present more than we have already said. In
+
+      relation to the second it is only necessary to repeat what we
+
+      have before stated, that the [[Machine|machine]] is rolled about on castors,
+
+      and will, at the request of a spectator, be moved to and fro to
+
+      any portion of the room, even during the progress of a game. The
 
       supposition of the magnet is also untenable—for if a magnet were
 
@@ -177,19 +187,3 @@ tags:
       one assumed proving the correct one is then as [[unity]] to infinity.
 
       But, in reality, this particular point, the shifting of the
-
-      partitions, is of no consequence whatever. It was altogether
-
-      unnecessary to devote seven or eight pages for the purpose of
-
-      proving what no one in his senses would deny—viz: that the
-
-      wonderful mechanical genius of Baron Kempelen could invent the
-
-      necessary means for shutting a door or slipping aside a pannel,
-
-      with a human agent too at his service in actual contact with the
-
-      pannel or the door, and the whole operations carried on, as the
-
-      author of the [[Essay]] himself shows, and as we shall attempt to

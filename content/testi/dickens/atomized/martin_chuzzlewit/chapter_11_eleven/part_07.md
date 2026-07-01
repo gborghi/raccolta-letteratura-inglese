@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 11: ELEVEN (part 7)"
+title: "Martin Chuzzlewit — Chapter 11: ELEVEN (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_11_eleven/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_11_eleven/part_08">part 08 ›</a></div>
 </nav>
 
+
+There were several of these concerted pieces; perhaps two or three too
+many, though that, as Mrs Todgers said, was a fault on the right side.
+But even then, even at that solemn moment, when the thrilling sounds may
+be presumed to have penetrated into the very depths of his [[Nature|nature]], if he
+had any depths, Jinkins couldn’t leave the youngest gentleman [[Alone|alone]]. He
+asked him distinctly, before the second [[Song|song]] began--as a personal favour
+too, mark the [[Villain|villain]] in that--not to play. Yes; he said so; not to
+play. The breathing of the youngest gentleman was heard through the
+key-hole of the door. He DIDN’T play. What vent was a flute for the
+passions swelling up within his breast? A trombone would have been a
+world too mild.
 
 The serenade approached its close. Its crowning interest was at hand.
 The gentleman of a literary turn had written a [[Song|song]] on the departure of
@@ -117,21 +129,3 @@ Pecksniff, as they took their seats apart at the table, while the rest
 conversed among themselves. ‘Where’s the use of a division between
 you and me? We are the two halves of a pair of scissors, when apart,
 Pecksniff; but together we are something. Eh?’
-
-‘Unanimity, my good sir,’ rejoined Mr Pecksniff, ‘is always delightful.’
-
-‘I don’t know about that,’ said the old man, ‘for there are some people
-I would rather differ from than agree with. But you know my opinion of
-you.’
-
-Mr Pecksniff, still having ‘hypocrite’ in his mind, only replied by a
-motion of his head, which was something between an affirmative bow, and
-a negative shake.
-
-‘Complimentary,’ said Anthony. ‘Complimentary, upon my word. It was an
-involuntary tribute to your abilities, even at the [[Time|time]]; and it was not
-a [[Time|time]] to suggest compliments either. But we agreed in the coach, you
-know, that we quite understood each other.’
-
-‘Oh, quite!’ assented Mr Pecksniff, in a manner which implied that he
-himself was misunderstood most cruelly, but would not complain.

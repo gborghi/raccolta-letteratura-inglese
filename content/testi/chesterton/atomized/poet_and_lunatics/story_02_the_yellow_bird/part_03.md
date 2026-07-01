@@ -14,6 +14,16 @@ tags:
 </nav>
 
 
+"Hullo!" cried Garth.  "This moated grange of yours is actually
+coming to life.  Somebody is actually beginning to open a [[Window|window]]."
+
+"You haven't been looking at it as I have," answered Mallow quietly.
+"Just round the angle on the left there's a little [[Window|window]] that's
+been open all the [[Time|time]].  That belongs to the little sitting-room
+out of the spare bedroom.  It used to be Laura's room, and still
+has a lot of her things in it; but I think they give it now
+to their guests."
+
 "Including, doubtless, their paying guest," observed Garth.
 
 "He's a queer sort of guest.  I only [[Hope|hope]] he's a paying one,"
@@ -125,21 +135,3 @@ What did you say you thought it was... a yellow-hammer?"
 "Yellow-hammer yourself," retorted Garth; "you're quite as yellow
 as he is.  In fact, with your long legs and straw-coloured hair,
 you're really rather like him."
-
-Mallow, in his more mystical mood, looked strangely from one to the other,
-for indeed there was a certain vague similarity between the two tall,
-fair-haired figures, the one on the [[house]] and the other on the [[Hill|hill]].
-
-"Perhaps I am rather like him," said Gale quietly.  "Perhaps I'm
-just sufficiently like him to learn not to be like him, so to speak.
-We may both be [[Birds|birds]] of a feather, the yellow feather; but we
-don't flock together, because he likes to flock by himself.
-And as to being a hammer, yellow or otherwise, [[Well|well]], that also
-is an [[Allegory|allegory]]."
-
-"I decline to make head or tail of your allegories,"
-said Dr. Garth shortly.
-
-"I used to want a hammer to smash things with," continued Gale;
-"but I've learnt to do something else with a hammer, which is what
-a hammer is meant for; and every now and then I manage to do it."

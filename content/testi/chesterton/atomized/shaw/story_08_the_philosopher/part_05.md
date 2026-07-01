@@ -1,5 +1,5 @@
 ---
-title: "[[Shaw]] — THE PHILOSOPHER (part 5)"
+title: "Shaw — THE PHILOSOPHER (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/shaw-(chesterton)"
@@ -13,6 +13,27 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/shaw/story_08_the_philosopher/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/shaw/story_08_the_philosopher/part_06">part 06 ›</a></div>
 </nav>
 
+
+This is the first and finest item of the original Bernard [[Shaw]] creed:
+that if reason says that life is irrational, life must be content
+to reply that reason is lifeless; life is the primary thing,
+and if reason impedes it, then reason must be trodden
+down into the mire amid the most abject superstitions.
+In the ordinary sense it would be specially absurd
+to suggest that [[Shaw]] desires man to be a mere animal.
+For that is always associated with lust or incontinence;
+and [[Shaw]]'s ideals are strict, hygienic, and even, one might say,
+old-maidish. But there is a mystical sense in which one may say
+literally that [[Shaw]] desires man to be an animal.  That is,
+he desires him to cling first and last to life, to the spirit
+of animation, to the thing which is common to him and the [[Birds|birds]]
+and plants.  Man should have the blind [[Faith|faith]] of a beast:
+he should be as mystically immutable as a cow, and as deaf
+to sophistries as a fish.  [[Shaw]] does not wish him to be a
+philosopher or an [[artist]]; he does not even wish him to be a man,
+so much as he wishes him to be, in this holy sense, an animal.
+He must follow the [[Flag|flag]] of life as fiercely from conviction
+as all other creatures follow it from instinct.
 
 But this Shavian worship of life is by no means lively.
 It has nothing in common either with the braver or the baser forms

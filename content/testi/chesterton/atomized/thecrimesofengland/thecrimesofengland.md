@@ -1,5 +1,5 @@
 ---
-title: "[[TheCrimesOfEngland]]"
+title: "TheCrimesOfEngland"
 author: "Chesterton"
 unitType: work
 parentWork: "works/thecrimesofengland-(chesterton)"
@@ -3315,7 +3315,7 @@ might not be historical, but at least he was legendary. Hengist and
 
 Horsa were not even legendary, for they left no legend. Anybody could
 
-see what was obligatory on the representative of [[arthur|Arthur]]; he was bound to
+see what was obligatory on the representative of [[Arthur]]; he was bound to
 
 be chivalrous, that is, to be European. But nobody could imagine what
 

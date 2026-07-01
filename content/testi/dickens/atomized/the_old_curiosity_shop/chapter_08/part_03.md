@@ -14,6 +14,21 @@ tags:
 </nav>
 
 
+However, Mr Swiveller had Miss Sophy’s hand for the first quadrille
+(country-dances being low, were utterly proscribed) and so gained an
+advantage over his rival, who sat despondingly in a corner and
+contemplated the glorious figure of the young lady as she moved through
+the mazy [[Dance|dance]]. Nor was this the only start Mr Swiveller had of the
+market-gardener, for determining to show the family what quality of man
+they trifled with, and influenced perhaps by his late libations, he
+performed such feats of agility and such spins and twirls as filled the
+company with astonishment, and in particular caused a very long
+gentleman who was dancing with a very short scholar, to stand quite
+transfixed by [[Wonder|wonder]] and admiration. Even Mrs Wackles forgot for the
+moment to snub three small young ladies who were inclined to be happy,
+and could not repress a rising thought that to have such a dancer as
+that in the family would be a [[Pride|pride]] indeed.
+
 At this momentous crisis, Miss Cheggs proved herself a vigourous and
 useful ally, for not confining herself to expressing by scornful smiles
 a contempt for Mr Swiveller’s accomplishments, she took every
@@ -117,23 +132,3 @@ promptitude that struck terror into the souls of all the pupils.
 ‘I’ve got such news for you,’ said Miss Cheggs approaching once more,
 ‘Alick has been saying such things to Sophy. Upon my word, you know,
 it’s quite serious and in earnest, that’s clear.’
-
-‘What’s he been saying, my dear?’ demanded Mrs Wackles.
-
-‘All manner of things,’ replied Miss Cheggs, ‘you can’t think how out
-he has been speaking!’
-
-[[Richard]] Swiviller considered it advisable to hear no more, but taking
-advantage of a pause in the dancing, and the approach of Mr Cheggs to
-pay his [[Court|court]] to the old lady, swaggered with an extremely careful
-assumption of extreme carelessness toward the door, passing on the way
-Miss Jane Wackles, who in all the glory of her curls was holding a
-flirtation, (as good practice when no better was to be had) with a
-feeble old gentleman who lodged in the parlour. Near the door sat Miss
-Sophy, still fluttered and confused by the attentions of Mr Cheggs, and
-by her side [[Richard]] Swiveller lingered for a moment to exchange a few
-parting words.
-
-‘My boat is on the shore and my bark is on the sea, but before I pass
-this door I will say farewell to thee,’ murmured Dick, looking gloomily
-upon her.

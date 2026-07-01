@@ -111,19 +111,3 @@ stop and try their chance; the crowd grew thicker and more noisy; gilt
 gingerbread in blanket-stalls exposed its glories to the [[Dust|dust]]; and
 often a four-[[Horse|horse]] carriage, dashing by, obscured all objects in the
 gritty cloud it raised, and left them, stunned and blinded, far behind.
-
-It was dark before they reached the town itself, and long indeed the
-few last miles had been.  Here all was tumult and confusion; the
-streets were filled with throngs of people--many strangers were there,
-it seemed, by the looks they cast about--the church-[[Bells|bells]] rang out
-their noisy peals, and flags streamed from windows and [[house]]-tops.  In
-the large inn-yards waiters flitted to and fro and ran against each
-other, horses clattered on the uneven stones, carriage steps fell
-rattling down, and sickening smells from many dinners came in a heavy
-lukewarm breath upon the sense.  In the smaller public-houses, fiddles
-with all their might and main were squeaking out the tune to staggering
-feet; drunken men, oblivious of the burden of their [[Song|song]], joined in a
-senseless howl, which drowned the tinkling of the feeble bell and made
-them savage for their drink; vagabond groups assembled round the doors
-to see the stroller woman [[Dance|dance]], and add their uproar to the shrill
-flageolet and deafening drum.

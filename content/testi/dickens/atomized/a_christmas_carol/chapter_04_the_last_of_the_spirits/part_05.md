@@ -1,5 +1,5 @@
 ---
-title: "A Christmas [[carol|Carol]] — Stave 4: THE LAST OF THE SPIRITS (part 5)"
+title: "A Christmas Carol — Stave 4: THE LAST OF THE SPIRITS (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-christmas-carol-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_christmas_carol/chapter_04_the_last_of_the_spirits/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/a_christmas_carol/chapter_05_the_end_of_it/part_01">part 01 ›</a></div>
 </nav>
 
+
+"I'm sure he's a good [[Soul|soul]]!" said Mrs. Cratchit.
+
+"You would be surer of it, my dear," returned Bob, "if
+you saw and spoke to him. I shouldn't be at all surprised--
+mark what I say!--if he got Peter a better situation."
 
 "Only hear that, Peter," said Mrs. Cratchit.
 

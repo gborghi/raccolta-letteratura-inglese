@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-defendant-(chesterton)">The Defendant</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_defendant/story_17_a_defence_of_detective_stories">‹ Story 17 A DEFENCE OF DETECTIVE STORIES</a><a class="ex-next" href="/testi/chesterton/atomized/the_defendant/story_18_a_defence_of_patriotism/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_defendant/story_17_a_defence_of_detective_detective_stories">‹ Story 17 A DEFENCE OF Detective DETECTIVE STORIES</a><a class="ex-next" href="/testi/chesterton/atomized/the_defendant/story_18_a_defence_of_patriotism/part_01">part 01 ›</a></div>
 </nav>
 
 

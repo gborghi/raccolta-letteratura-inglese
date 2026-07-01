@@ -197,7 +197,3 @@ CHAPTER 25
       of the smallest of the islands; that the black skins forming the
 
       dress of the warriors came from an animal of huge size to be
-
-      found only in a valley near the [[Court|court]] of the [[King|king]]—that the
-
-      inhabitants of the group fabricated no other boats than the

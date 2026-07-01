@@ -1,5 +1,5 @@
 ---
-title: "[[GKC-Autobiography]] — Chapter 10 (part 7)"
+title: "GKC-Autobiography — Chapter 10 (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/gkc-autobiography-(chesterton)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_10/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_11/part_01">part 01 ›</a></div>
 </nav>
 
+
+But the other half of the mystery was, if possible, more mysterious.
+It was all the more mysterious because it was public, not to say crowded.
+I went to the Savoy supper under the impression that Barrie and Barker
+would explain to a small party some small part of the scheme.
+Instead of that I found the stage of the Savoy Theatre thronged
+with nearly everybody in [[London]], as the Society papers say when they
+mean everybody in Society.  From the Prime Minister, Mr. Asquith to
+the yellowest and most cryptic Oriental attache, they were all there,
+dining at little tables and talking about everything but the matter
+in hand.  At least they were all there except Sir James Barrie;
+who on this occasion made himself almost completely invisible.
+Towards the end of the meal.  Sir Edward Elgar casually remarked
+to my wife, "I suppose you know you're being filmed all this [[Time|time]]."
 
 From what I know of the lady, it is unlikely that she was brandishing
 a champagne-bottle or otherwise attracting social attention;

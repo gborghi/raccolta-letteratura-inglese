@@ -1,5 +1,5 @@
 ---
-title: "whats wrong — Part 3 (part 11)"
+title: "whats wrong — Part 4 (part 11)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/whats-wrong-(chesterton)"
@@ -14,114 +14,125 @@ tags:
 </nav>
 
 
-The same, of course, is true of the colossal architecture which we
-call infant [[Education|education]]:  an architecture reared wholly by women.
-Nothing can ever overcome that one enormous sex superiority, that even
-the male [[Child|child]] is born closer to his mother than to his father.
-No one, staring at that frightful female privilege, can quite
-believe in the equality of the sexes.  Here and there we read
-of a girl brought up like a tom-boy; but every boy is brought up
-like a tame girl.  The flesh and spirit of femininity surround
-him from the first like the four walls of a [[house]]; and even
-the vaguest or most brutal man has been womanized by being born.
-Man that is born of a woman has short days and full of misery;
-but nobody can picture the obscenity and bestial [[Tragedy|tragedy]] that would
-belong to such a [[Monster|monster]] as man that was born of a man.
+There are other instances, of course, of this oily trick
+of turning the pleasures of a gentleman into the virtues of
+an Anglo-Saxon. Sport, like soap, is an admirable thing, but,
+like soap, it is an agreeable thing.  And it does not sum up
+all mortal merits to be a sportsman playing the game in a world
+where it is so often necessary to be a workman doing the work.
+By all means let a gentleman congratulate himself that he has
+not lost his natural [[Love|love]] of pleasure, as against the blase,
+and unchildlike.  But when one has the childlike joy it
+is best to have also the childlike unconsciousness; and I do
+not think we should have special affection for the little boy
+who ever lastingly explained that it was his duty to play Hide
+and Seek and one of his family virtues to be prominent in Puss
+in the Corner.
 
-* * *
-
-XI
-
-THE [[Queen|QUEEN]] AND THE SUFFRAGETTES
-
-But, indeed, with this educational matter I must of necessity embroil
-myself later.  The fourth section of discussion is supposed to be
-about the [[Child|child]], but I think it will be mostly about the mother.
-In this place I have systematically insisted on the large part
-of life that is governed, not by man with his vote, but by woman
-with her voice, or more often, with her horrible [[Silence|silence]].
-Only one thing remains to be added.  In a sprawling and explanatory style
-has been traced out the idea that [[government]] is ultimately coercion,
-that coercion must mean cold definitions as [[Well|well]] as cruel consequences,
-and that therefore there is something to be said for the old human habit
-of keeping one-half of humanity out of so harsh and dirty a business.
-But the case is stronger still.
-
-Voting is not only coercion, but collective coercion.
-I think [[Queen]] Victoria would have been yet more popular and satisfying
-if she had never signed a [[Death|death]] warrant.  I think [[Queen Elizabeth]]
-would have stood out as more solid and splendid in [[history]] if she
-had not earned (among those who happen to know her [[history]])
-the nickname of Bloody Bess.  I think, in short, that the great historic
-woman is more herself when she is persuasive rather than coercive.
-But I feel all mankind behind me when I say that if a woman has
-this power it should be despotic power--not democratic power.
-There is a much stronger historic argument for giving Miss Pankhurst
-a throne than for giving her a vote.  She might have a [[Crown|crown]],
-or at least a coronet, like so many of her supporters;
-for these old powers are purely personal and therefore female.
-Miss Pankhurst as a despot might be as virtuous as [[Queen]] Victoria,
-and she certainly would find it difficult to be as wicked as [[Queen]] Bess,
-but the point is that, good or bad, she would be irresponsible--
-she would not be governed by a rule and by a ruler.
-There are only two ways of governing:  by a rule and by a ruler.
-And it is seriously true to say of a woman, in [[Education|education]] and domesticity,
-that the [[Freedom|freedom]] of the autocrat appears to be necessary to her.
-She is never responsible until she is irresponsible.
-In case this sounds like an idle contradiction, I confidently
-appeal to the cold facts of [[history]].  Almost every despotic
-or oligarchic state has admitted women to its privileges.
-Scarcely one democratic state has ever admitted them to its rights
-The reason is very simple:  that something female is endangered
-much more by the violence of the crowd.  In short, one Pankhurst
-is an exception, but a thousand Pankhursts are a [[nightmare]],
-a Bacchic orgie, a Witches Sabbath.  For in all legends men have
-thought of women as [[Sublime|sublime]] separately but horrible in a herd.
+Another such irritating hypocrisy is the oligarchic attitude towards
+mendicity as against organized [[Charity|charity]].  Here again, as in the case
+of cleanliness and of athletics, the attitude would be perfectly
+human and intelligible if it were not maintained as a merit.
+Just as the obvious thing about soap is that it is a convenience,
+so the obvious thing about beggars is that they are an inconvenience.
+The rich would deserve very little blame if they simply said
+that they never dealt directly with beggars, because in modern
+urban civilization it is impossible to deal directly with beggars;
+or if not impossible, at least very difficult.  But these people do not
+refuse money to beggars on the ground that such [[Charity|charity]] is difficult.
+They refuse it on the grossly hypocritical ground that such
+[[Charity|charity]] is easy.  They say, with the most [[Grotesque|grotesque]] gravity,
+"Anyone can put his hand in his pocket and give a poor man a penny;
+but we, philanthropists, go [[Home|home]] and brood and travail over
+the poor man's troubles until we have discovered exactly
+what jail, reformatory, workhouse, or lunatic asylum it will
+really be best for him to go to."  This is all sheer lying.
+They do not brood about the man when they get [[Home|home]], and if they
+did it would not alter the original fact that their motive for
+discouraging beggars is the perfectly rational one that beggars
+are a bother.  A man may easily be forgiven for not doing this
+or that incidental act of [[Charity|charity]], especially when the question
+is as genuinely difficult as is the case of mendicity.
+But there is something quite pestilently Pecksniffian about
+shrinking from a hard task on the plea that it is not hard enough.
+If any man will really try talking to the ten beggars who come
+to his door he will soon find out whether it is really so much
+easier than the labor of writing a check for a hospital.
 
 * * *
 
 XII
 
-THE MODERN SLAVE
+THE STALENESS OF THE NEW SCHOOLS
 
-Now I have only taken the test case of Female Suffrage because it
-is topical and concrete; it is not of great moment for me as a
-political proposal.  I can quite imagine anyone substantially
-agreeing with my view of woman as universalist and autocrat
-in a limited area; and still thinking that she would be none
-the worse for a ballot paper.  The real question is whether this
-old ideal of woman as the great amateur is admitted or not.
-There are many modern things which threaten it much more
-than suffragism; notably the increase of [[Self|self]]-supporting women,
-even in the most severe or the most squalid employments.
-If there be something against [[Nature|nature]] in the idea of a horde
-of wild women governing, there is something truly intolerable
-in the idea of a herd of tame women being governed.
-And there are elements in human psychology that make
-this situation particularly poignant or ignominous.
-The ugly exactitudes of business, [[The Bells|the bells]] and clocks the fixed
-hours and rigid departments, were all meant for the male:
-who, as a rule, can only do one thing and can only with the greatest
-difficulty be induced to do that.  If clerks do not try to shirk
-their work, our whole great commercial system breaks down.
-It is breaking down, under the inroad of women who are adopting
-the unprecedented and impossible course of taking the system
-seriously and doing it [[Well|well]].  Their very efficiency is
-the definition of their [[Slavery|slavery]].  It is generally a very bad
-sign when one is trusted very much by one's employers.
-And if the evasive clerks have a look of being blackguards,
-the earnest ladies are often something very like blacklegs.
-But the more immediate point is that the modern working woman bears
-a [[Double|double]] burden, for she endures both the grinding officialism
-of the new office and the distracting scrupulosity of the old [[Home|home]].
-Few men understand what conscientiousness is.  They understand duty,
-which generally means one duty; but conscientiousness is
-the duty of the universalist.  It is limited by no work days
-or holidays; it is a lawless, limitless, devouring decorum.
-If women are to be subjected to the dull rule of commerce,
-we must find some way of emancipating them from the wild
-rule of [[Conscience|conscience]].  But I rather fancy you will find it
-easier to leave the [[Conscience|conscience]] and knock off the commerce.
-As it is, the modern clerk or secretary exhausts herself to put
-one thing straight in the ledger and then goes [[Home|home]] to put
-everything straight in the [[house]].
+For this deep and disabling reason therefore, its cynical
+and abandoned indifference to the [[Truth|truth]], the English public
+school does not provide us with the ideal that we require.
+We can only ask its modern critics to remember that right
+or wrong the thing can be done; the factory is working,
+the wheels are going around, the gentlemen are being produced,
+with their soap, cricket and organized [[Charity|charity]] all complete.
+And in this, as we have said before, the public school really has
+an advantage over all the other educational schemes of our [[Time|time]].
+You can pick out a public-school man in any of the many
+companies into which they stray, from a Chinese opium
+den to a German Jewish dinner-party. But I [[Doubt|doubt]] if you
+could tell which little match girl had been brought up
+by undenominational religion and which by secular [[Education|education]].
+The great English aristocracy which has ruled us since the
+[[Reformation]] is really, in this sense, a model to the moderns.
+It did have an ideal, and therefore it has produced a reality.
+
+We may repeat here that these pages propose mainly to show one thing:
+that progress ought to be based on principle, while our modern progress
+is mostly based on precedent.  We go, not by what may be affirmed
+in theory, but by what has been already admitted in practice.
+That is why the Jacobites are the last Tories in [[history]]
+with whom a high-spirited person can have much sympathy.
+They wanted a specific thing; they were ready to go forward
+for it, and so they were also ready to go back for it.
+But modern Tories have only the dullness of defending
+situations that they had not the excitement of creating.
+Revolutionists make a [[Reform|reform]], Conservatives only conserve the [[Reform|reform]].
+They never [[Reform|reform]] the [[Reform|reform]], which is often very much wanted.
+Just as the rivalry of armaments is only a sort of sulky plagiarism,
+so the rivalry of parties is only a sort of sulky inheritance.
+Men have votes, so women must soon have votes; poor children
+are taught by force, so they must soon be fed by force;
+the police shut public houses by twelve o'[[Clock|clock]], so soon they
+must shut them by eleven o'[[Clock|clock]]; children stop at school till
+they are fourteen, so soon they will stop till they are forty.
+No gleam of reason, no momentary return to first principles,
+no abstract asking of any obvious question, can interrupt this
+mad and monotonous gallop of mere progress by precedent.
+It is a good way to prevent real revolution.
+By this [[logic]] of events, the Radical gets as much into
+a rut as the Conservative.  We meet one hoary old lunatic
+who says his grandfather told him to stand by one stile.
+We meet another hoary old lunatic who says his grandfather told
+him only to walk along one lane.
+
+I say we may repeat here this primary part of the argument,
+because we have just now come to the place where it is most
+startlingly and strongly shown.  The final proof that our
+elementary schools have no definite ideal of their own is the fact
+that they so openly imitate the ideals of the public schools.
+In the elementary schools we have all the ethical prejudices
+and exaggerations of Eton and Harrow carefully copied
+for people to whom they do not even roughly apply.
+We have the same wildly disproportionate doctrine of
+the effect of physical cleanliness on moral character.
+Educators and educational politicians declare, amid warm cheers,
+that cleanliness is far more important than all the squabbles
+about moral and religious training.  It would really seem
+that so long as a little boy washes his hands it does not matter
+whether he is washing off his mother's jam or his brother's gore.
+We have the same grossly insincere pretense that sport always
+encourages a sense of honor, when we know that it often ruins it.
+Above all, we have the same great upperclass assumption
+that things are done best by large institutions handling
+large sums of money and ordering everybody about; and that
+trivial and impulsive [[Charity|charity]] is in some way contemptible.
+As Mr. Blatchford says, "The world does not want piety, but soap--
+and Socialism."  Piety is one of the popular virtues, whereas soap
+and Socialism are two hobbies of the upper middle class.

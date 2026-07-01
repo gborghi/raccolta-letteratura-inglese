@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The [[Ghost]] of Gideon Wise (part 6)"
+title: "incredulity Fr Brown — The Ghost of Gideon Wise (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -10,9 +10,38 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-fr-brown-(chesterton)">incredulity Fr Brown</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity_fr_brown/story_09_the_ghost_of_gideon_wise/part_05">‹ part 05</a><span></span></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity_fr_brown/story_09_the_ghost_of_gideon_wise/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity_fr_brown/story_09_the_ghost_of_gideon_wise/part_07">part 07 ›</a></div>
 </nav>
 
+
+'I have confessed,' they heard him crying. 'Why have you come to tell
+them I killed you?'
+
+'I have come to tell them you did not,' said the [[Ghost|ghost]], and stretched
+forth a hand to him. Then the kneeling man sprang up with quite a new
+kind of scream; and they knew it was the hand of flesh.
+
+It was the most remarkable escape from [[Death|death]] in recent records, said the
+experienced [[Detective|detective]] and the no less experienced journalist. Yet, in a
+sense, it had been very simple after all. Flakes and shards of the cliff
+were continually falling away, and some had caught in the gigantic
+crevice, so as to form what was really a ledge or pocket in what was
+supposed to be a sheer drop through darkness to the sea. The old man,
+who was a very tough and wiry old man, had fallen on this lower shoulder
+of rock and had passed a pretty terrible twenty - four hours in trying
+to climb back by crags that constantly collapsed under him, but at
+length formed by their very ruins a sort of stairway of escape. This
+might be the explanation of [[Home]]'s optical illusion about a white wave
+that appeared and disappeared, and finally came to stay. But anyhow
+there was Gideon Wise, solid in bone and sinew, with his white hair and
+white dusty country clothes and harsh country features, which were,
+however, a great deal less harsh than usual. Perhaps it is good for
+millionaires to spend twenty - four hours on a ledge of rock within a
+foot of [[Eternity|eternity]]. Anyhow, he not only disclaimed all malice against the
+criminal, but gave an account of the matter which considerably modified
+the crime. He declared that [[Home]] had not thrown him over at all; that
+the continually breaking ground had given way under him, and that [[Home]]
+had even made some movement as of attempted rescue.
 
 'On that providential bit of rock down there,' he said solemnly, 'I
 promised the Lord to forgive my enemies; and the Lord would think it
@@ -98,80 +127,3 @@ coat with unexpected and inexplicable excitement.
 
 'That's it,' he cried emphatically.' Freeze on to that! He's quite safe.
 He's out of it. That's why he's the key of the whole puzzle.'
-
-'Oh, help,' said Byrne feebly.
-
-'I mean,' persisted the little priest, 'he's in it because he's out of
-it. That's the whole explanation.'
-
-'And a very lucid explanation too,' said the journalist with feeling.
-
-They stood looking out to sea for a [[Time|time]] in [[Silence|silence]], and then Father
-Brown said cheerfully: 'And so we come back to the ice - box. Where you
-have all gone wrong from the first in this business is where a good many
-of the papers and the public men do go wrong. It's because you assumed
-that there is nothing whatever in the modern world to fight about except
-Bolshevism. This story has nothing whatever to do with Bolshevism;
-except perhaps as a blind.'
-
-'I don't see how that can be,' remonstrated Byrne. 'Here you have the
-three millionaires in that one business murdered - '
-
-'No!' said the priest in a sharp ringing voice. 'You do not. That is
-just the point. You do not have three millionaires murdered. You have
-two millionaires murdered; and you have the third millionaire very much
-alive and kicking and quite ready to kick. And you have that third
-millionaire freed for ever from the threat that was thrown at his head
-before your very face, in playfully polite terms, and in that
-conversation you described as taking place in the hotel. Gallup and
-Stein threatened the more old - fashioned and independent old huckster
-that if he would not come into their combine they would freeze him out.
-Hence the ice - box, of course.'
-
-After a pause he went on. 'There is undoubtedly a Bolshevist movement in
-the modern world, and it must undoubtedly be resisted, though I do not
-believe very much in your way of resisting it. But what nobody notices
-is that there is another movement equally modern and equally moving: the
-great movement towards monopoly or the turning of all trades into
-trusts. That also is a revolution. That also produces what all
-revolutions produce. Men will kill for that and against that, as they do
-for and against Bolshevism. It has its ultimatums and its invasions and
-its executions. These trust magnates have their courts like kings; they
-have their bodyguard and bravos; they have their spies in the enemy
-camp. [[Home]] was one of old Gideon's spies in one of the enemy camps; but
-he was used here against another enemy: the rivals who were ruining him
-for standing out.'
-
-'I still don't quite see how he was used,' said Byrne, 'or what was the
-good of it.'
-
-'Don't you see,' cried [[Father Brown]] sharply, 'that they gave each other
-an alibi?'
-
-Byrne still looked at him a little doubtfully, though understanding was
-dawning on his face.
-
-'That's what I mean,' continued the other, 'when I say they were in it
-because they were out of it. Most people would say they must be out of
-the other two crimes, because they were in this one. As a fact, they
-were in the other two because they were out of this one; because this
-one never happened at all. A very queer, improbable sort of alibi, of
-course; improbable and therefore impenetrable. Most people would say a
-man who confesses a murder must be sincere; a man who forgives his
-murderer must be sincere. Nobody would think of the notion that the
-thing never happened, so that one man had nothing to forgive and the
-other nothing to [[Fear|fear]]. They were fixed here for that [[Night|night]] by a story
-against themselves. But they were not here that [[Night|night]]; for [[Home]] was
-murdering old Gallup in the Wood, while Wise was strangling that little
-Jew in his Roman bath. That's why I ask whether Wise was really strong
-enough for the climbing adventure.'
-
-'It was quite a good adventure,' said Byrne regretfully. 'It fitted into
-the landscape, and was really very convincing.'
-
-'Too convincing to convince,' said [[Father Brown]], shaking his head. 'How
-very vivid was that moonlit foam flung up and turning to a [[Ghost|ghost]]. And
-how very literary! [[Home]] is a sneak and a skunk, but do not forget that,
-like many other sneaks and skunks in [[history]], he is also a poet.'
-
-THE END

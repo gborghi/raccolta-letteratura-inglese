@@ -10,9 +10,77 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/new-jerusalem-(chesterton)">New Jerusalem</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/new_jerusalem/chapter_03/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/new_jerusalem/chapter_04/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/new_jerusalem/chapter_03/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/new_jerusalem/chapter_03/part_06">part 06 ›</a></div>
 </nav>
 
+
+I have heard that there is a low doorway at the entrance to a famous
+shrine which is called the Gate of [[Humility]]; but indeed in this sense
+all gates are gates of [[Humility|humility]], and especially gates of this kind.
+Any one who has ever looked at a landscape under an archway
+will know what I mean, when I say that it sharpens a pleasure
+with a strange sentiment of privilege.  It adds to the grace
+of distance something that makes it not only a grace but a gift.
+Such are the visions of remote places that appear in the low gateways
+of a Gothic town; as if each gateway led into a separate world;
+and almost as if each dome of sky were a different chamber.
+But he who walks round the walls of this [[City|city]] in this spirit will come
+suddenly upon an exception which will surprise him like an earthquake.
+It looks indeed rather like something done by an earthquake;
+an earthquake with a half-witted sense of [[Humour|humour]].  Immediately at
+the side of one of these humble and human gateways there is a great gap
+in the wall, with a wide [[Road|road]] running through it.  There is something
+of unreason in the sight which affects the eye as [[Well|well]] as the reason.
+It recalls some crazy tale about the great works of the Wise Men
+of Gotham.  It suggests the old joke about the man who made
+a small hole for the kitten as [[Well|well]] as a large hole for the cat.
+Everybody has read about it by this [[Time|time]]; but the immediate impression
+of it is not merely an effect of reading or even of reasoning.
+It looks lop-sided; like something done by a one-eyed giant.
+But it was done by the last prince of the great Prussian imperial system,
+in what was probably the proudest moment in all his life of [[Pride|pride]].
+
+What is true has a way of sounding trite; and what is trite has
+a way of sounding false.  We shall now probably weary the world
+with calling the Germans barbaric, just as we very recently wearied
+the world with calling them cultured and progressive and scientific.
+But the thing is true though we say it a thousand times.  And any one who
+wishes to understand the sense in which it is true has only to contemplate
+that fantasy and fallacy in stone; a gate with an open [[Road|road]] beside it.
+The quality I mean, however, is not merely in that particular contrast;
+as of a front door standing by itself in an open field.
+It is also in the origin, the occasion and the whole story of the thing.
+There is above all this supreme stamp of the barbarian; the sacrifice
+of the permanent to the temporary.  When the walls of the Holy [[City]]
+were overthrown for the glory of the German Emperor, it was hardly
+even for that everlasting glory which has been the vision and
+the [[Temptation|temptation]] of great men.  It was for the glory of a single day.
+It was something rather in the [[Nature|nature]] of a holiday than anything
+that could be even in the most vainglorious sense a heritage.
+It did not in the ordinary sense make a monument, or even a trophy.
+It destroyed a monument to make a procession.  We might almost say
+that it destroyed a trophy to make a triumph.  There is the true
+barbaric touch in this oblivion of what Jerusalem would look like a
+century after, or a year after, or even the day after.  It is this
+which distinguishes the savage tribe on the march after a victory from
+the civilised army establishing a [[government]], even if it be a tyranny.
+Hence the very effect of it, like the effect of the whole Prussian
+adventure in [[history]], remains something negative and even nihilistic.
+The Christians made the Church of the Holy Sepulchre and the Moslems
+made the Mosque of Omar; but this is what the most scientific
+culture made at the end of the great century of science.
+It made an enormous hole.  The only positive contribution of
+the nineteenth century to the spot is an unnaturally ugly [[Clock|clock]],
+at the top of an ornamental tower, or a tower that was meant to
+be ornamental.  It was erected, I believe, to commemorate the reign
+of Abdul Hamid; and it seems perfectly adapted to its purpose,
+like one of Sir William Watson's sonnets on the same subject.
+But this object only adds a touch of triviality to the much more
+tremendous negative effect of the gap by the gate.  That remains a [[Parable|parable]]
+as [[Well|well]] as a puzzle, under all the changing skies of day and [[Night|night]];
+with the shadows that gather tinder the narrow Gate of [[Humility]];
+and beside it, blank as daybreak and abrupt as an abyss, the broad
+[[Road|road]] that has led already to destruction.
 
 The gap remains like a gash, a sort of wound in the walls; but it
 only strengthens by contrast the general sense of their continuity.
@@ -43,68 +111,3 @@ of it, as a place dedicated and even doomed by its mission.
 But I had never fancied that it would be possible to be fond of it;
 as one might be fond of a little walled town among the orchards
 of Normandy or the hop-fields of [[Kent]].
-
-And just then there happened a coincidence that was also something
-like a catastrophe.  I was idly watching, as it moved down
-the narrow street to one of the dark doorways, the head-dress,
-like a tower of white drapery, belonging to the Christian woman
-from the place where [[Christ]] was born.  After she had disappeared
-into the darkness of the porch I continued to look vaguely
-at the porch, and thought how easily it might have been a small
-Gothic gate in some old corner of Rouen, or even Canterbury.
-In twenty such places in the town one may see the details that
-appeal to the same associations, so different and so distant.
-One may see that angular dogtooth ornament that makes the round
-Norman gateways look like the gaping mouths of sharks.
-One may see the pointed niches in the walls, shaped like windows
-and serving somewhat the purpose of brackets, on which were
-to stand sacred images possibly removed by the Moslems.
-One may come upon a small [[Court|court]] planted with ornamental trees
-with some monument in the centre, which makes the precise impression
-of something in a small French town.  There are no Gothic spires,
-but there are numberless Gothic doors and windows; and he who
-first strikes the place at this angle, as it were, may [[Well|well]] feel
-the Northern element as native and the Eastern element as intrusive.
-While I was thinking all these things, something happened which in
-that place was almost a portent.
-
-It was very cold; and there were curious colours in the sky.
-There had been chilly rains from [[Time|time]] to [[Time|time]]; and the whole
-air seemed to have taken on something sharper than a chill.
-It was as if a door had been opened in the northern corner of the heavens;
-letting in something that changed all the face of the earth.
-Great grey clouds with haloes of lurid pearl and pale-green were coming
-up from the plains or the sea and spreading over the towers of the [[City|city]].
-In the middle of the moving mass of grey vapours was a splash
-of paler vapour; a wan white cloud whose white seemed somehow more
-ominous than gloom.  It went over the high citadel like a white
-wild goose flying; and a few white feathers fell.
-
-It was the [[Snow|snow]]; and it snowed day and [[Night|night]] until that Eastern
-[[City|city]] was sealed up like a village in Norway or Northern Scotland.
-It [[Rose|rose]] in the streets till men might almost have been drowned
-in it like a sea of solid foam.  And the people of the place told
-me there had been no such thing seen in it in all recent records,
-or perhaps in the records of all its four thousand years.
-
-All this came later; but for me at the moment, looking at the scene
-in so dreamy a fashion, it seemed merely like a dramatic conclusion
-to my dream.  It was but an accident confirming what was but an aspect.
-But it confirmed it with a strange and almost [[Supernatural|supernatural]] completeness.
-The white light out of the [[Window|window]] in the north lay on all the roofs
-and turrets of the mountain town; for there is an aspect in which
-[[Snow|snow]] looks less like frozen [[Water|water]] than like solidified light.
-As the [[Snow|snow]] accumulated there accumulated also everywhere
-those fantastic effects of [[Frost|frost]] which seem to fit in with
-the fantastic qualities of medieval architecture; and which
-make an icicle seem like the mere extension of a gargoyle.
-It was the atmosphere that has led so many romancers to make
-medieval [[Paris]] a mere black and white study of [[Night|night]] and [[Snow|snow]].
-Something had redrawn in silver all things from the rude ornament
-on the old gateways to the wrinkles on the ancient hills of Moab.
-Fields of white still spotted with green swept down into the valleys
-between us and the hills; and high above them the Holy [[City]] lifted
-her head into the thunder-clouded heavens, wearing a white head-dress
-like a daughter of the Crusaders.
-
-= = = = = = = = = = = = = = = =

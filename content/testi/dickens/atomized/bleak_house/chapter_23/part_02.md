@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 23 (part 2)"
+title: "Bleak House — Chapter 23 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -143,19 +143,3 @@ army!”
 
 “The army, of course. What I have to do is to get a commission;
 and—there I am, you know!” said [[Richard]].
-
-And then he showed me, proved by elaborate calculations in his
-pocket-book, that supposing he had contracted, say, two hundred
-pounds of debt in six months out of the army; and that he contracted
-no debt at all within a corresponding period in the army—as to which
-he had quite made up his mind; this step must involve a saving of
-four hundred pounds in a year, or two thousand pounds in five years,
-which was a considerable sum. And then he spoke so ingenuously and
-sincerely of the sacrifice he made in withdrawing himself for a [[Time|time]]
-from Ada, and of the earnestness with which he aspired—as in thought
-he always did, I know full [[Well|well]]—to repay her [[Love|love]], and to ensure her
-happiness, and to conquer what was amiss in himself, and to acquire
-the very [[Soul|soul]] of decision, that he made my heart ache keenly, sorely.
-For, I thought, how would this end, how could this end, when so soon
-and so surely all his manly qualities were touched by the fatal
-blight that ruined everything it rested on!

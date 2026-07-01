@@ -1,5 +1,5 @@
 ---
-title: "THE [[history|HISTORY]] OF [[King Lear|KING LEAR]] - THE QUARTO TEXT"
+title: "THE HISTORY OF KING LEAR - THE QUARTO TEXT"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-history-of-king-lear---the-quarto-text-(shakespeare)"

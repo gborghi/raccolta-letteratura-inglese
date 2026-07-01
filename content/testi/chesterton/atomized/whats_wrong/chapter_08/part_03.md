@@ -1,5 +1,5 @@
 ---
-title: "whats wrong — Part 3 (part 3)"
+title: "whats wrong — Part 4 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/whats-wrong-(chesterton)"
@@ -14,119 +14,110 @@ tags:
 </nav>
 
 
-But for women this ideal of comprehensive capacity (or common-sense)
-must long ago have been washed away.  It must have melted
-in the frightful furnaces of [[Ambition|ambition]] and eager technicality.
-A man must be partly a one-idead man, because he is a
-one-weaponed man--and he is flung naked into the fight.
-The world's demand comes to him direct; to his wife indirectly.
-In short, he must (as the books on [[success|Success]] say) give "his best";
-and what a small part of a man "his best" is!  His second
-and third best are often much better.  If he is the first violin
-he must fiddle for life; he must not remember that he is
-a fine fourth bagpipe, a fair fifteenth billiard-cue, a foil,
-a fountain pen, a hand at whist, a gun, and an image of God.
+Now having read numberless newspaper articles on [[Education|education]],
+and even written a good many of them, and having heard deafening
+and indeterminate discussion going on all around me almost ever
+since I was born, about whether religion was part of [[Education|education]],
+about whether hygiene was an essential of [[Education|education]],
+about whether militarism was inconsistent with true [[Education|education]],
+I naturally pondered much on this recurring substantive,
+and I am ashamed to say that it was comparatively late in life
+that I saw the main fact about it.
+
+Of course, the main fact about [[Education|education]] is that there is no
+such thing.  It does not exist, as theology or soldiering exist.
+Theology is a word like geology, soldiering is a word
+like soldering; these sciences may be healthy or no as hobbies;
+but they deal with stone and kettles, with definite things.
+But [[Education|education]] is not a word like geology or kettles.
+[[Education]] is a word like "transmission" or "inheritance"; it
+is not an object, but a method.  It must mean the conveying
+of certain facts, views or qualities, to the last baby born.
+They might be the most trivial facts or the most preposterous
+views or the most offensive qualities; but if they are handed
+on from one generation to another they are [[Education|education]].
+[[Education]] is not a thing like theology, it is not an inferior
+or superior thing; it is not a thing in the same category of terms.
+Theology and [[Education|education]] are to each other like a [[Love|love]]-letter
+to the General Post Office.  Mr. [[Fagin]] was quite as educational
+as Dr. Strong; in practice probably more educational.
+It is giving something--perhaps [[Poison|poison]].  [[Education]] is tradition,
+and tradition (as its name implies) can be treason.
+
+This first [[Truth|truth]] is frankly banal; but it is so perpetually
+ignored in our political prosing that it must be made plain.
+A little boy in a little [[house]], son of a little tradesman,
+is taught to eat his breakfast, to take his medicine, to [[Love|love]]
+his country, to say his prayers, and to wear his [[Sunday]] clothes.
+Obviously [[Fagin]], if he found such a boy, would teach him to drink gin,
+to lie, to betray his country, to blaspheme and to wear false whiskers.
+But so also Mr. Salt the [[vegetarian]] would abolish the boy's breakfast;
+Mrs. Eddy would throw away his medicine; Count Tolstoi would rebuke
+him for loving his country; Mr. Blatchford would stop his prayers,
+and Mr. Edward Carpenter would theoretically denounce [[Sunday]] clothes,
+and perhaps all clothes.  I do not defend any of these advanced views,
+not even [[Fagin]]'s. But I do ask what, between the lot of them, has become
+of the abstract entity called [[Education|education]].  It is not (as commonly supposed)
+that the tradesman teaches [[Education|education]] plus [[Christianity]]; Mr. Salt,
+[[Education|education]] plus vegetarianism; [[Fagin]], [[Education|education]] plus crime.  The [[Truth|truth]] is,
+that there is nothing in common at all between these teachers,
+except that they teach.  In short, the only thing they share is the one
+thing they profess to dislike:  the general idea of authority.
+It is quaint that people talk of separating dogma from [[Education|education]].
+Dogma is actually the only thing that cannot be separated from [[Education|education]].
+It is [[Education|education]].  A teacher who is not dogmatic is simply a teacher
+who is not teaching.
 
 * * *
 
-III
+V
 
-THE EMANCIPATION OF DOMESTICITY
+AN EVIL CRY
 
-And it should be remarked in passing that this force upon a man to develop
-one feature has nothing to do with what is commonly called our competitive
-system, but would equally exist under any rationally conceivable kind
-of Collectivism.  Unless the Socialists are frankly ready for a fall
-in the standard of violins, telescopes and electric lights, they must
-somehow create a moral demand on the individual that he shall keep up
-his present concentration on these things.  It was only by men being
-in some degree specialist that there ever were any telescopes; they must
-certainly be in some degree specialist in order to keep them going.
-It is not by making a man a State wage-earner that you can prevent him
-thinking principally about the very difficult way he earns his wages.
-There is only one way to preserve in the world that high levity and that
-more leisurely outlook which fulfils the old vision of universalism.
-That is, to permit the existence of a partly protected half of humanity;
-a half which the harassing industrial demand troubles indeed, but only
-troubles indirectly.  In other words, there must be in every center
-of humanity one human being upon a larger plan; one who does not "give
-her best," but gives her all.
+The fashionable fallacy is that by [[Education|education]] we can give people
+something that we have not got.  To hear people talk one would think
+it was some sort of [[Magic|magic]] chemistry, by which, out of a laborious
+hotchpotch of hygienic meals, baths, breathing exercises, fresh air
+and freehand drawing, we can produce something splendid by accident;
+we can create what we cannot conceive.  These pages have, of course,
+no other general purpose than to point out that we cannot create
+anything good until we have conceived it.  It is odd that these people,
+who in the matter of heredity are so sullenly attached to law,
+in the matter of environment seem almost to believe in miracle.
+They insist that nothing but what was in the bodies of the parents
+can go to make the bodies of the children.  But they seem somehow
+to think that things can get into the heads of the children which were
+not in the heads of the parents, or, indeed, anywhere else.
 
-Our old analogy of the [[Fire|fire]] remains the most workable one.
-The [[Fire|fire]] need not blaze like electricity nor boil like boiling [[Water|water]];
-its point is that it blazes more than [[Water|water]] and warms more than light.
-The wife is like the [[Fire|fire]], or to put things in their proper proportion,
-the [[Fire|fire]] is like the wife.  Like the [[Fire|fire]], the woman is expected
-to cook:  not to excel in cooking, but to cook; to cook better
-than her husband who is earning the coke by lecturing on botany
-or breaking stones.  Like the [[Fire|fire]], the woman is expected to tell
-tales to the children, not original and artistic tales, but tales--
-better tales than would probably be told by a first-class cook.
-Like the [[Fire|fire]], the woman is expected to illuminate and ventilate,
-not by the most startling revelations or the wildest winds of thought,
-but better than a man can do it after breaking stones or lecturing.
-But she cannot be expected to endure anything like this universal
-duty if she is also to endure the direct cruelty of competitive or
-bureaucratic toil.  Woman must be a cook, but not a competitive cook;
-a school mistress, but not a competitive schoolmistress;
-a [[house]]-decorator but not a competitive [[house]]-decorator; a dressmaker,
-but not a competitive dressmaker.  She should have not one trade but
-twenty hobbies; she, unlike the man, may develop all her second bests.
-This is what has been really aimed at from the first in what
-is called the seclusion, or even the oppression, of women.
-Women were not kept at [[Home|home]] in order to keep them narrow;
-on the contrary, they were kept at [[Home|home]] in order to keep them broad.
-The world outside the [[Home|home]] was one mass of narrowness,
-a maze of cramped paths, a madhouse of monomaniacs.
-It was only by partly limiting and protecting the woman that she
-was enabled to play at five or six professions and so come almost
-as near to God as the [[Child|child]] when he plays at a hundred trades.
-But the woman's professions, unlike the [[Child|child]]'s, were all truly
-and almost terribly fruitful; so tragically real that nothing but
-her universality and balance prevented them being merely morbid.
-This is the substance of the contention I offer about the historic
-female position.  I do not deny that women have been wronged
-and even tortured; but I [[Doubt|doubt]] if they were ever tortured so much
-as they are tortured now by the absurd modern attempt to make
-them domestic empresses and competitive clerks at the same [[Time|time]].
-I do not deny that even under the old tradition women had
-a harder [[Time|time]] than men; that is why we take off our hats.
-I do not deny that all these various female functions were exasperating;
-but I say that there was some aim and meaning in keeping them various.
-I do not pause even to deny that woman was a servant; but at least
-she was a general servant.
-
-The shortest way of summarizing the position is to say that woman
-stands for the idea of [[Sanity]]; that intellectual [[Home|home]] to which
-the mind must return after every excursion on extravagance.
-The mind that finds its way to wild places is the poet's;
-but the mind that never finds its way back is the lunatic's. There must
-in every [[Machine|machine]] be a part that moves and a part that stands still;
-there must be in everything that changes a part that is unchangeable.
-And many of the phenomena which moderns hastily condemn are really parts
-of this position of the woman as the center and pillar of health.
-Much of what is called her subservience, and even her pliability,
-is merely the subservience and pliability of a universal remedy;
-she varies as medicines vary, with the disease.  She has
-to be an optimist to the morbid husband, a salutary pessimist
-to the happy-go-lucky husband.  She has to prevent the Quixote
-from being put upon, and the bully from putting upon others.
-The French [[King]] wrote--
-
-"Toujours femme varie Bien fol qui s'y fie,"
-
-but the [[Truth|truth]] is that woman always varies, and that is exactly why
-we always trust her.  To correct every adventure and extravagance
-with its antidote in common-sense is not (as the moderns
-seem to think) to be in the position of a spy or a slave.
-It is to be in the position of Aristotle or (at the lowest)
-Herbert Spencer, to be a universal [[morality]], a complete system
-of thought.  The slave flatters; the complete moralist rebukes.
-It is, in short, to be a Trimmer in the true sense of that honorable term;
-which for some reason or other is always used in a sense exactly
-opposite to its own.  It seems really to be supposed that a Trimmer
-means a cowardly person who always goes over to the stronger side.
-It really means a highly chivalrous person who always goes over
-to the weaker side; like one who trims a boat by sitting where there
-are few people seated.  Woman is a trimmer; and it is a generous,
-dangerous and romantic trade.
+There has arisen in this connection a foolish and wicked cry
+typical of the confusion.  I mean the cry, "Save the children."
+It is, of course, part of that modern morbidity that
+insists on treating the State (which is the [[Home|home]] of man)
+as a sort of desperate expedient in [[Time|time]] of panic.
+This terrified opportunism is also the origin of the Socialist
+and other schemes.  Just as they would collect and share
+all the food as men do in a famine, so they would divide
+the children from their fathers, as men do in a shipwreck.
+That a human community might conceivably not be in a condition
+of famine or shipwreck never seems to [[Cross|cross]] their minds.
+This cry of "Save the children" has in it the hateful
+implication that it is impossible to save the fathers;
+in other words, that many millions of grown-up, sane,
+responsible and [[Self|self]]-supporting Europeans are to be treated
+as dirt or debris and swept away out of the discussion;
+called dipsomaniacs because they drink in public houses instead
+of private houses; called unemployables because nobody knows
+how to get them work; called dullards if they still adhere
+to conventions, and called loafers if they still [[Love|love]] liberty.
+Now I am concerned, first and last, to maintain that unless you
+can save the fathers, you cannot save the children; that at
+present we cannot save others, for we cannot save ourselves.
+We cannot teach citizenship if we are not citizens; we cannot
+free others if we have forgotten the appetite of [[Freedom|freedom]].
+[[Education]] is only [[Truth|truth]] in a state of transmission; and how can we
+pass on [[Truth|truth]] if it has never come into our hand?  Thus we find that
+[[Education|education]] is of all the cases the clearest for our general purpose.
+It is vain to save children; for they cannot remain children.
+By hypothesis we are teaching them to be men; and how can it
+be so simple to teach an ideal manhood to others if it is so vain
+and hopeless to find one for ourselves?

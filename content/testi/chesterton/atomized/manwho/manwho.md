@@ -1,5 +1,5 @@
 ---
-title: "[[manwho]]"
+title: "manwho"
 author: "Chesterton"
 unitType: work
 parentWork: "works/manwho-(chesterton)"
@@ -3145,7 +3145,7 @@ century," Symon was saying in his clear but colorless voice. "In the
 
 ninth century it is supposed to have been carried away by the
 
-barbarians, and it reappears, after the [[Conversion|conversion]] of the northern
+barbarians, and it reappears, after the [[conversion]] of the northern
 
 Goths, in the possession of the royal family of Gothland. His Royal
 
@@ -6681,7 +6681,7 @@ anyhow, in one flash he had drawn his own [[Sword|sword]] and parried; and
 
 then suddenly, to the surprise of everyone, Bulmer's weapon seemed
 
-to [[Spring|spring]] out of his hand into the air and rolled away on the
+to [[spring]] out of his hand into the air and rolled away on the
 
 ringing ice.
 

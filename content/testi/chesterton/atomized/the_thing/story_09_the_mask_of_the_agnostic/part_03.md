@@ -10,13 +10,13 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-thing-(chesterton)">The Thing</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_09_the_mask_of_the_agnostic/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_10_the_early_bird_in_history/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_09_the_mask_of_the_agnostic/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_10_the_early_bird_in_history_history/part_01">part 01 ›</a></div>
 </nav>
 
 
 It was in a Catholic paper that certain statements were made about
-Darwinism to-day; statements which Sir [[arthur|Arthur]] Keith himself went
-out of his way to contradict; and about which Sir [[arthur|Arthur]] Keith
+Darwinism to-day; statements which Sir [[Arthur]] Keith himself went
+out of his way to contradict; and about which Sir [[Arthur]] Keith
 himself was proved sensationally and disastrously wrong.
 Probably the story is now known to all readers of that paper; but it
 will possibly never come to the knowledge of most other journalists,
@@ -30,13 +30,13 @@ When Mr. Belloc stated that these Darwinians were out of date and ignorant
 of recent biology, he quoted among a great many other recent authorities
 the French biologist Vialleton as denying the possibility of natural
 selection in a particular case connected with reptiles and [[Birds|birds]].
-Sir [[arthur|Arthur]] Keith, coming to the rescue of Mr. H. G. Wells, and eager
+Sir [[Arthur]] Keith, coming to the rescue of Mr. H. G. Wells, and eager
 to prove that he and Mr. Wells were not out of date or ignorant
 of recent biology, proceeded to contradict Mr. Belloc flatly.
 He said that there was no such statement in Vialleton's book;
 in other words, he accused Mr. Belloc of having misquoted or
 misrepresented Vialleton's book.  It then appeared, to the amazement
-of everybody, and especially of Mr. Belloc, that Sir [[arthur|Arthur]] Keith did
+of everybody, and especially of Mr. Belloc, that Sir [[Arthur]] Keith did
 not even know of the existence of the book.  He was referring only
 to an early and elementary work by the same author published long ago.
 That was the last he had ever read of Vialleton.  The important book,

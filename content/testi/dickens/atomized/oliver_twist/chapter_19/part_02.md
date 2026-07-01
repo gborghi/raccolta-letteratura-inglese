@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 19 (part 2)"
+title: "Oliver Twist — Chapter 19 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,8 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_19/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_19/part_03">part 03 ›</a></div>
 </nav>
 
+
+“Not at all,” replied Sikes coldly.
 
 “Not to be done at all!” echoed the Jew, leaning back in his chair.
 
@@ -162,6 +164,3 @@ into sundry exclamations of “Keep the game a-going!” “Never say die!”
 and the like. These seemed to have the effect of re-assuring both
 gentlemen; for the Jew nodded his head with a satisfied air, and
 resumed his seat: as did Mr. Sikes likewise.
-
-“Now, [[Fagin]],” said [[Nancy]] with a laugh. “Tell Bill at once, about
-[[Oliver]]!”

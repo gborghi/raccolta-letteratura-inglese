@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 13 (part 2)"
+title: "Wuthering Heights — Chapter 13 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_13/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_13/part_03">part 03 ›</a></div>
 </nav>
 
+
+Now, you shall hear how I have been received in my new [[Home|home]], as I am
+led to imagine the Heights will be. It is to amuse myself that I dwell
+on such subjects as the lack of external comforts: they never occupy my
+thoughts, except at the moment when I miss them. I should laugh and
+[[Dance|dance]] for joy, if I found their absence was the total of my miseries,
+and the rest was an unnatural dream!
 
 The sun set behind the Grange as we turned on to the moors; by that, I
 judged it to be six o’[[Clock|clock]]; and my companion halted half an hour, to
@@ -128,5 +135,3 @@ his measured walk, and gave me a stare of newly-awakened surprise.
 Taking advantage of his recovered attention, I exclaimed—“I’m tired
 with my [[Journey|journey]], and I want to go to bed! Where is the maid-servant?
 Direct me to her, as she won’t come to me!”
-
-“We have none,” he answered; “you must wait on yourself!”

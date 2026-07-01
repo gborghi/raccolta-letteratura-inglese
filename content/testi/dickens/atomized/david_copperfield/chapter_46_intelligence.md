@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 46: INTELLIGENCE"
+title: "David Copperfield — Chapter 46: INTELLIGENCE"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/david-copperfield-(dickens)"

@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 32 (part 3)"
+title: "Mansfield Park — Chapter 32 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -109,15 +109,3 @@ her into, he thought there might be as much lost as gained by an
 immediate interview. With a few words, therefore, of no particular
 meaning, he walked off by himself, leaving his poor niece to sit and
 cry over what had passed, with very wretched feelings.
-
-Her mind was all disorder. The past, present, future, everything was
-terrible. But her uncle’s anger gave her the severest [[Pain|pain]] of all.
-Selfish and ungrateful! to have appeared so to him! She was miserable
-for ever. She had no one to take her part, to counsel, or speak for
-her. Her only friend was absent. He might have softened his father; but
-all, perhaps all, would think her selfish and ungrateful. She might
-have to endure the reproach again and again; she might hear it, or see
-it, or know it to exist for ever in every connexion about her. She
-could not but feel some resentment against Mr. Crawford; yet, if he
-really loved her, and were unhappy too! It was all wretchedness
-together.

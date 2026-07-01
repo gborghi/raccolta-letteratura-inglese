@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 26 (part 1)"
+title: "Bleak House — Chapter 26 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -144,10 +144,3 @@ boy, once. My good mother lived in the country.”
 “Aye! And not so old either, five and thirty years ago,” says Mr.
 George. “But I’ll wager that at ninety she would be near as upright
 as me, and near as broad across the shoulders.”
-
-“Did she die at ninety, guv’ner?” inquires Phil.
-
-“No. Bosh! Let her rest in peace, God bless her!” says the
-trooper. “What set me on about country boys, and runaways, and
-good-for-nothings? You, to be sure! So you never clapped your eyes
-upon the country—marshes and [[Dreams|dreams]] excepted. Eh?”

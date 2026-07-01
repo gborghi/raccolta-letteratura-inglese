@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 31 (part 3)"
+title: "Jane Eyre — Chapter 31 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,21 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_31/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_32/part_01">part 01 ›</a></div>
 </nav>
 
+
+What did St. John Rivers think of this earthly angel? I naturally asked
+myself that question as I saw him turn to her and look at her; and, as
+naturally, I sought the answer to the inquiry in his countenance. He
+had already withdrawn his eye from the Peri, and was looking at a
+humble tuft of daisies which grew by the wicket.
+
+“A lovely evening, but late for you to be out [[Alone|alone]],” he said, as he
+crushed the snowy heads of the closed [[Flowers|flowers]] with his foot.
+
+“Oh, I only came [[Home|home]] from S——” (she mentioned the name of a large town
+some twenty miles distant) “this afternoon. Papa told me you had opened
+your school, and that the new mistress was come; and so I put on my
+bonnet after tea, and ran up the valley to see her: this is she?”
+pointing to me.
 
 “It is,” said St. John.
 

@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 80 (part 2)"
+title: "Barnaby Rudge — Chapter 80 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -125,7 +125,3 @@ Miggs, hearing this, let her end of the box fall heavily to the floor,
 gave a very loud sniff, crossed her arms, screwed down the corners of
 her mouth, and cried, in an ascending scale, ‘Ho, good gracious!’ three
 distinct times.
-
-‘You hear what your mistress says, my [[Love|love]],’ remarked the locksmith.
-‘You had better go, I think. Stay; take this with you, for the sake of
-old service.’

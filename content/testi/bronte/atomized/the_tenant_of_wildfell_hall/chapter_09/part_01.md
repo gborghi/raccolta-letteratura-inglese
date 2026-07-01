@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 9 (part 1)"
+title: "The Tenant of Wildfell Hall — Chapter 9 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -261,13 +261,3 @@ shortly after we were summoned to the tea-table: in those parts it was
 customary to sit to the table at tea-[[Time|time]] on all occasions, and make a
 
 meal of it, for we dined early. On taking my seat, I had [[Rose]] on one
-
-side of me and an empty chair on the other.
-
-
-
-“May I sit by you?” said a soft voice at my elbow.
-
-
-
-“If you like,” was the reply; and Eliza slipped into the vacant chair;

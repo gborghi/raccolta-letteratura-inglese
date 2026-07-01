@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 52: I ASSIST AT AN EXPLOSION (part 6)"
+title: "David Copperfield — Chapter 52: I ASSIST AT AN EXPLOSION (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,28 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_52_i_assist_at_an_explosion/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_52_i_assist_at_an_explosion/part_07">part 07 ›</a></div>
 </nav>
 
+
+Mr. Micawber read on, almost smacking his lips:
+
+‘“To wit, in manner following, that is to say. Mr. W. being infirm, and
+it being within the bounds of probability that his decease might lead
+to some discoveries, and to the downfall of--HEEP’S--power over the W.
+family,--as I, [[Wilkins Micawber]], the undersigned, assume--unless the
+filial affection of his daughter could be secretly influenced from
+allowing any investigation of the partnership affairs to be ever made,
+the said--HEEP--deemed it expedient to have a bond ready by him, as from
+Mr. W., for the before-mentioned sum of twelve six fourteen, two and
+nine, with interest, stated therein to have been advanced by--HEEP--to
+Mr. W. to save Mr. W. from dishonour; though really the sum was never
+advanced by him, and has long been replaced. The signatures to this
+instrument purporting to be executed by Mr. W. and attested by Wilkins
+Micawber, are forgeries by--HEEP. I have, in my possession, in his hand
+and pocket-book, several similar imitations of Mr. W.’s signature, here
+and there defaced by [[Fire|fire]], but legible to anyone. I never attested any
+such document. And I have the document itself, in my possession.”’ Uriah
+Heep, with a start, took out of his pocket a bunch of keys, and opened
+a certain drawer; then, suddenly bethought himself of what he was about,
+and turned again towards us, without looking in it.
 
 ‘“And I have the document,”’ Mr. Micawber read again, looking about as
 if it were the text of a sermon, ‘“in my possession,--that is to say,
@@ -115,17 +137,3 @@ pyre. I ask no more. Let it be, in justice, merely said of me, as of a
 gallant and eminent naval [[Hero]], with whom I have no pretensions to
 cope, that what I have done, I did, in despite of mercenary and selfish
 objects,
-
-     For England, [[Home|home]], and [[Beauty]].
-
-     ‘“Remaining always, &c.  &c., [[Wilkins Micawber|WILKINS MICAWBER]].”’
-
-
-Much affected, but still intensely enjoying himself, Mr. Micawber folded
-up his letter, and handed it with a bow to my aunt, as something she
-might like to keep.
-
-There was, as I had noticed on my first visit long ago, an iron safe in
-the room. The key was in it. A hasty suspicion seemed to strike Uriah;
-and, with a glance at Mr. Micawber, he went to it, and threw the doors
-clanking open. It was empty.

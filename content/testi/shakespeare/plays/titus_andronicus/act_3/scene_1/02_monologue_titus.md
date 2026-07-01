@@ -1,5 +1,5 @@
 ---
-title: "[[Titus Andronicus]] — Act III, Scene 1 — monologue (TITUS) [2]"
+title: "Titus Andronicus — Act III, Scene 1 — monologue (TITUS) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/titus-andronicus-(shakespeare)"

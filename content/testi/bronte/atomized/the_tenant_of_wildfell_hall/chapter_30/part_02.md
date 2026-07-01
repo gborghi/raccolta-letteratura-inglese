@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 30 (part 2)"
+title: "The Tenant of Wildfell Hall — Chapter 30 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_30/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_30/part_03">part 03 ›</a></div>
 </nav>
 
+
+“[[Well]]! that passes everything! After all the wear and tear that I’ve
+
+had, when I come [[Home|home]] sick and weary, [[Longing|longing]] for comfort, and
+
+expecting to find attention and kindness, at least from my wife, she
+
+calmly asks what is the matter with me!”
+
+
+
+“There is _nothing_ the matter with you,” returned I, “except what you
 
 have wilfully brought upon yourself, against my earnest exhortation and
 
@@ -52,7 +64,7 @@ for I never looked at it. With an elbow on each side of it, and my
 
 hands clasped before my eyes, I delivered myself up to silent weeping.
 
-But [[arthur|Arthur]] was not asleep: at the first slight sob, he raised his head
+But [[Arthur]] was not asleep: at the first slight sob, he raised his head
 
 and looked round, impatiently exclaiming, “What are you crying for,
 
@@ -60,7 +72,7 @@ and looked round, impatiently exclaiming, “What are you crying for,
 
 
 
-“I’m crying for you, [[arthur|Arthur]],” I replied, speedily drying my [[Tears|tears]]; and
+“I’m crying for you, [[Arthur]],” I replied, speedily drying my [[Tears|tears]]; and
 
 starting up, I threw myself on my knees before him, and clasping his
 
@@ -102,7 +114,7 @@ character. There, there, do spare me a little.”
 
 
 
-“[[arthur|Arthur]], you _must_ repent!” cried I, in a frenzy of desperation,
+“[[Arthur]], you _must_ repent!” cried I, in a frenzy of desperation,
 
 throwing my arms around him and burying my face in his bosom. “You
 
@@ -241,25 +253,3 @@ She only alludes to his conduct in the most delicate terms, and makes
 every excuse for him that she can possibly think of; and as for her own
 
 misery, I rather _feel_ it than _see_ it expressed in her letters.”
-
-
-
-“But she abuses _me;_ and no [[Doubt|doubt]] you helped her.”
-
-
-
-“No; I told her she over-rated my influence with you, that I would
-
-gladly draw you away from the temptations of the town if I could, but
-
-had little [[Hope|hope]] of [[success]], and that I thought she was wrong in
-
-supposing that you enticed Mr. Hattersley or any one else into error. I
-
-had myself held the _contrary_ opinion at one [[Time|time]], but I now believed
-
-that you mutually corrupted each other; and, perhaps, if she used a
-
-little gentle but serious remonstrance with her husband, it might be of
-
-some service; as, though he was more rough-hewn than mine, I believed

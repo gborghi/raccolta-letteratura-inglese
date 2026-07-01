@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 28 (part 4)"
+title: "Jane Eyre — Chapter 28 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_28/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_28/part_05">part 05 ›</a></div>
 </nav>
 
+
+“My strength is quite failing me,” I said in a soliloquy. “I feel I
+cannot go much farther. Shall I be an outcast again this [[Night|night]]? While
+the rain descends so, must I lay my head on the cold, drenched ground?
+I [[Fear|fear]] I cannot do otherwise: for who will receive me? But it will be
+very dreadful, with this feeling of hunger, faintness, chill, and this
+sense of desolation—this total prostration of [[Hope|hope]]. In all likelihood,
+though, I should die before morning. And why cannot I reconcile myself
+to the prospect of [[Death|death]]? Why do I struggle to retain a valueless life?
+Because I know, or believe, Mr. Rochester is living: and then, to die
+of want and cold is a fate to which [[Nature|nature]] cannot submit passively. Oh,
+[[Providence]]! sustain me a little longer! Aid!—direct me!”
 
 My glazed eye wandered over the dim and misty landscape. I saw I had
 strayed far from the village: it was quite out of sight. The very
@@ -100,20 +112,3 @@ the other on a lower stool; both wore deep mourning of crape and
 bombazeen, which sombre garb singularly set off very fair necks and
 faces: a large old pointer dog rested its massive head on the knee of
 one girl—in the lap of the other was cushioned a black cat.
-
-A strange place was this humble kitchen for such occupants! Who were
-they? They could not be the daughters of the elderly person at the
-table; for she looked like a rustic, and they were all delicacy and
-cultivation. I had nowhere seen such faces as theirs: and yet, as I
-gazed on them, I seemed intimate with every lineament. I cannot call
-them handsome—they were too pale and [[Grave|grave]] for the word: as they each
-bent over a book, they looked thoughtful almost to severity. A stand
-between them supported a second candle and two great volumes, to which
-they frequently referred, comparing them, seemingly, with the smaller
-books they held in their hands, like people consulting a dictionary to
-aid them in the task of [[Translation|translation]]. This scene was as silent as if all
-the figures had been shadows and the firelit apartment a picture: so
-hushed was it, I could hear the cinders fall from the grate, the [[Clock|clock]]
-tick in its obscure corner; and I even fancied I could distinguish the
-click-click of the woman’s knitting-needles. When, therefore, a voice
-broke the strange stillness at last, it was audible enough to me.

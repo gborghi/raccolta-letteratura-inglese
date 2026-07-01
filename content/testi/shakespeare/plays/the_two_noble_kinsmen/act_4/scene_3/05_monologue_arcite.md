@@ -1,5 +1,5 @@
 ---
-title: "The Two Noble Kinsmen — Act IV, Scene 3 — monologue ([[Arcite|ARCITE]]) [5]"
+title: "The Two Noble Kinsmen — Act IV, Scene 3 — monologue (ARCITE) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-two-noble-kinsmen-(shakespeare)"

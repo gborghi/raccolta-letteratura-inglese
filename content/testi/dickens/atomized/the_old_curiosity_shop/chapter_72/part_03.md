@@ -14,6 +14,20 @@ tags:
 </nav>
 
 
+Whatever power of thought or [[Memory|memory]] he retained, was all bound up in
+her.  He never understood, or seemed to care to understand, about his
+brother.  To every endearment and attention he continued listless.  If
+they spoke to him on this, or any other theme--save one--he would hear
+them patiently for awhile, then turn away, and go on seeking as before.
+
+On that one theme, which was in his and all their minds, it was
+impossible to touch.  Dead!  He could not hear or bear the word.  The
+slightest hint of it would throw him into a paroxysm, like that he had
+had when it was first spoken.  In what [[Hope|hope]] he lived, no man could
+tell; but that he had some [[Hope|hope]] of finding her again--some faint and
+shadowy [[Hope|hope]], deferred from day to day, and making him from day to day
+more sick and sore at heart--was plain to all.
+
 They bethought them of a removal from the scene of this last sorrow; of
 trying whether change of place would rouse or cheer him.  His brother
 sought the advice of those who were accounted skilful in such matters,

@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 12 (part 1)"
+title: "Oliver Twist — Chapter 12 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -128,7 +128,7 @@ downstairs.
 [[Oliver]] dozed off again, soon after this; when he awoke, it was nearly
 twelve o’[[Clock|clock]]. The old lady tenderly bade him good-[[Night|night]] shortly
 afterwards, and left him in charge of a fat old woman who had just
-come: bringing with her, in a little bundle, a small [[Prayer]] Book and a
+come: bringing with her, in a little bundle, a small [[prayer|Prayer]] Book and a
 large nightcap. Putting the latter on her head and the former on the
 table, the old woman, after telling [[Oliver]] that she had come to sit up
 with him, drew her chair close to the [[Fire|fire]] and went off into a series

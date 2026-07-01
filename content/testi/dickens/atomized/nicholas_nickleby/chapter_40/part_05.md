@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 40 (part 5)"
+title: "Nicholas Nickleby — Chapter 40 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,26 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_40/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_40/part_06">part 06 ›</a></div>
 </nav>
 
+
+Beyond all measure proud of this commission, [[Newman Noggs]] took up his
+post, in the square, on the following evening, a full hour before the
+needful [[Time|time]], and planting himself behind the pump and pulling his hat
+over his eyes, began his watch with an elaborate appearance of mystery,
+admirably calculated to excite the suspicion of all beholders. Indeed,
+divers servant girls who came to draw [[Water|water]], and sundry little boys who
+stopped to drink at the ladle, were almost scared out of their senses,
+by the apparition of [[Newman Noggs]] looking stealthily round the
+pump, with nothing of him visible but his face, and that wearing the
+expression of a meditative Ogre.
+
+Punctual to her [[Time|time]], the messenger came again, and, after an interview
+of rather longer duration than usual, departed. Newman had made two
+appointments with Nicholas: one for the next evening, conditional on his
+[[success]]: and one the next [[Night|night]] following, which was to be kept under
+all circumstances. The first [[Night|night]] he was not at the place of meeting (a
+certain tavern about half-way between the [[City|city]] and Golden Square), but
+on the second [[Night|night]] he was there before Nicholas, and received him with
+open arms.
 
 ‘It’s all right,’ whispered Newman. ‘Sit down. Sit down, there’s a dear
 young man, and let me tell you all about it.’
@@ -138,12 +158,3 @@ all possible questions had been asked and answered twenty times over,
 they parted, undertaking to meet on the following [[Night|night]] at half-past
 ten, for the purpose of fulfilling the appointment; which was for eleven
 o’[[Clock|clock]].
-
-‘Things come about very strangely!’ thought Nicholas, as he walked
-[[Home|home]]. ‘I never contemplated anything of this kind; never dreamt of the
-possibility of it. To know something of the life of one in whom I felt
-such interest; to see her in the street, to pass the [[house]] in which she
-lived, to meet her sometimes in her walks, to [[Hope|hope]] that a day might
-come when I might be in a condition to tell her of my [[Love|love]], this was
-the utmost extent of my thoughts. Now, however--but I should be a [[Fool|fool]],
-indeed, to repine at my own good fortune!’

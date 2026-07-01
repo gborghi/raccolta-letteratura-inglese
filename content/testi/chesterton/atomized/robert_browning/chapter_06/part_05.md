@@ -122,8 +122,8 @@ it is physically impossible for any one to say:--
 This queer trait in Browning, his inability to keep a kind of demented
 ingenuity even out of [[Poems|poems]] in which it was quite inappropriate, is a
 thing which must be recognised, and recognised all the more because as
-a whole he was a very perfect [[Artist|artist]], and a particularly perfect
-[[Artist|artist]] in the use of the [[Grotesque|grotesque]]. But everywhere when we go a little
+a whole he was a very perfect [[artist]], and a particularly perfect
+[[artist]] in the use of the [[Grotesque|grotesque]]. But everywhere when we go a little
 below the surface in Browning we find that there was something in him
 perverse and unusual despite all his working normality and
 simplicity. His mind was perfectly wholesome, but it was not made

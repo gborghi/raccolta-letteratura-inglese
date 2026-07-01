@@ -1,5 +1,5 @@
 ---
-title: "[[Metzengerstein]]"
+title: "Metzengerstein"
 author: "Poe"
 unitType: work
 parentWork: "works/metzengerstein-(poe)"

@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 12: LIKING LIFE ON MY OWN ACCOUNT NO BETTER, I FORM A GREAT (part 4)"
+title: "David Copperfield — Chapter 12: LIKING LIFE ON MY OWN ACCOUNT NO BETTER, I FORM A GREAT (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_12_liking_life_on_my_own_account/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_13_the_sequel_of_my_resolution/part_01">part 01 ›</a></div>
 </nav>
 
+
+I told him mine, which was down that street there, and which I wanted
+him to take to the Dover coach office for sixpence.
+
+‘Done with you for a tanner!’ said the long-legged young man, and
+directly got upon his cart, which was nothing but a large wooden tray on
+wheels, and rattled away at such a rate, that it was as much as I could
+do to keep pace with the [[donkey]].
 
 There was a defiant manner about this young man, and particularly about
 the way in which he chewed straw as he spoke to me, that I did not much

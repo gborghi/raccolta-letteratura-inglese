@@ -14,6 +14,10 @@ tags:
 </nav>
 
 
+      once my grasp upon the peg, and, turning half round from the
+
+      precipice, remained tottering for an instant against its naked
+
       face. But now there came a spinning of the brain; a
 
       shrill-sounding and [[Phantom|phantom]] voice screamed within my ears; a
@@ -189,11 +193,3 @@ tags:
       distant. As we emerged into the open beach we saw, to our great
 
       dismay, an immense crowd of the natives pouring from the village,
-
-      and from all visible quarters of the island, making toward us
-
-      with gesticulations of extreme fury, and howling like wild
-
-      beasts. We were upon the point of turning upon our steps, and
-
-      trying to secure a retreat among the fastnesses of the rougher

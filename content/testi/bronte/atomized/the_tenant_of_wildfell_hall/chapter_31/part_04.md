@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 31 (part 4)"
+title: "The Tenant of Wildfell Hall — Chapter 31 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -14,9 +14,31 @@ tags:
 </nav>
 
 
+chair, “which of these three ‘bold, manly spirits’ would you have me to
+
+resemble?”
+
+
+
+“By heaven and earth, you shall resemble us all!” cried Hattersley,
+
+starting up and rudely seizing him by the arm. “Hallo, Huntingdon!” he
+
+shouted—“_I’ve_ got him! Come, man, and help me! And d—n me, if I don’t
+
+make him drunk before I let him go! He shall make up for all past
+
+delinquencies as sure as I’m a living [[Soul|soul]]!”
+
+
+
+There followed a disgraceful contest: [[Lord Lowborough]], in desperate
+
+earnest, and pale with anger, silently struggling to release himself
+
 from the powerful madman that was striving to drag him from the room. I
 
-attempted to urge [[arthur|Arthur]] to interfere in behalf of his outraged guest,
+attempted to urge [[Arthur]] to interfere in behalf of his outraged guest,
 
 but he could do nothing but laugh.
 
@@ -28,7 +50,7 @@ himself somewhat weakened by his excesses.
 
 
 
-“I’m wishing you God-[[Speed|speed]], Hattersley,” cried [[arthur|Arthur]], “and aiding you
+“I’m wishing you God-[[Speed|speed]], Hattersley,” cried [[Arthur]], “and aiding you
 
 with my prayers: I can’t do anything else if my life depended on it!
 
@@ -208,7 +230,7 @@ loss of [[Time|time]].
 
 
 
-The next object of assault was [[arthur|Arthur]], who sat opposite, and had, no
+The next object of assault was [[Arthur]], who sat opposite, and had, no
 
 [[Doubt|doubt]], richly enjoyed the whole scene.
 
@@ -246,7 +268,7 @@ Hattersley tried cursing and swearing, but it would not do: he then
 
 took a number of books from the table beside him, and threw them, one
 
-by one, at the object of his wrath; but [[arthur|Arthur]] only laughed the more;
+by one, at the object of his wrath; but [[Arthur]] only laughed the more;
 
 and, finally, Hattersley rushed upon him in a frenzy and seizing him by
 
@@ -280,7 +302,7 @@ now, but sick and stupid. I will write no more about _that_.
 
 Such disgraceful scenes (or nearly such) have been repeated more than
 
-once. I don’t say much to [[arthur|Arthur]] about it, for, if I did, it would do
+once. I don’t say much to [[Arthur]] about it, for, if I did, it would do
 
 more harm than good; but I let him know that I intensely dislike such
 
@@ -318,6 +340,6 @@ treating him with more uniform kindness and consideration than ever I
 
 have observed her to do before. I date the [[Time|time]] of this improvement
 
-from the period when she ceased to [[Hope|hope]] and strive for [[arthur|Arthur]]’s
+from the period when she ceased to [[Hope|hope]] and strive for [[Arthur]]’s
 
 admiration.

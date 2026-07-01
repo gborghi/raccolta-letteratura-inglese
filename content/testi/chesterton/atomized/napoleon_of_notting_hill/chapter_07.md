@@ -1,5 +1,5 @@
 ---
-title: "Napoleon of Notting [[Hill]] — Chapter 3"
+title: "Napoleon of Notting Hill — Chapter 1"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/napoleon-of-notting-hill-(chesterton)"
@@ -14,474 +14,474 @@ tags:
 </nav>
 
 
-CHAPTER III
-
-ENTER A LUNATIC
-
-THE [[King]] of the Fairies, who was, it is to be presumed, the godfather
-of [[King]] Auberon, must have been very favourable on this particular
-day to his fantastic godchild, for with the entrance of the guard
-of the Provost of Notting [[Hill]] there was a certain more or less
-inexplicable addition to his delight.  The wretched navvies and
-sandwich-men who carried the colours of Bayswater or South Kensington,
-engaged merely for the day to satisfy the Royal hobby, slouched into
-the room with a comparatively hang-dog air, and a great part of
-the [[King]]'s intellectual pleasure consisted in the contrast between
-the arrogance of their swords and feathers and the meek misery
-of their faces.  But these Notting [[Hill]] halberdiers in their red
-tunics belted with gold had the air rather of an absurd gravity.
-They seemed, so to speak, to be taking part in the joke.
-They marched and wheeled into position with an almost startling
-dignity, and discipline.
-
-They carried a yellow banner with a great red [[Lion|lion]], named by
-the [[King]] as the Notting [[Hill]] emblem, after a small public-[[house]]
-in the neighbourhood, which he once frequented.
-
-Between the two lines of his followers there advanced towards the [[King]]
-a tall, red-haired young man, with high features, and bold blue eyes.
-He would have been called handsome, but that a certain indefinable
-air of his nose being too big for his face, and his feet for
-his legs, gave him a look of awkwardness and extreme youth.
-His robes were red, according to the [[King]]'s heraldry,
-and [[Alone|alone]] among the Provosts, he was girt with a great [[Sword|sword]].
-This was [[Adam Wayne]], the intractable Provost of Notting [[Hill]].
-
-The [[King]] flung himself back in his chair, and rubbed his hands.
-
-"What a day, what a day!" he said to himself.  "Now there'll be a row.
-I'd no idea it would be such fun as it is.  These Provosts are
-so very indignant, so very reasonable, so very right.  This fellow,
-by the look in his eyes, is even more indignant than the rest.
-No sign in those large blue eyes, at any rate, of ever having
-heard of a joke.  He'll remonstrate with the others, and they'll
-remonstrate with him, and they'll all make themselves sumptuously
-happy remonstrating with me."
-
-"Welcome, my Lord," he said aloud.  "What news from the [[Hill]] of a
-Hundred Legends?  What have you for the ear of your [[King]]?  I know
-that troubles have arisen between you and these others,
-our cousins, but these troubles it shall be our [[Pride|pride]] to compose.
-And I [[Doubt|doubt]] not, and cannot [[Doubt|doubt]], that your [[Love|love]] for me is not
-less tender, no less ardent than theirs."
-
-Mr. Buck made a bitter face, and [[James Barker]]'s nostrils curled;
-Wilson began to giggle faintly, and the Provost of West Kensington
-followed in a smothered way.  But the big blue eyes of [[Adam Wayne]]
-never changed, and he called out in an odd, boyish voice down the hall:
-
-"I bring homage to my [[King]].  I bring him the only thing
-I have...my [[Sword|sword]]."
-
-And with a great gesture he flung it down on the ground, and knelt
-on one knee behind it.
-
-There was a dead [[Silence|silence]].
-
-"I beg your pardon," said the [[King]], blankly.
-
-"You speak [[Well|well]], sire," said [[Adam Wayne]], "as you ever speak,
-when you say that my [[Love|love]] is not less than the [[Love|love]] of these.
-Small would it be if it were not more.  For I am the heir of
-your scheme...the [[Child|child]] of the great Charter.  I stand here for
-the rights the Charter gave me, and I swear, by your sacred [[Crown|crown]],
-that where I stand, I stand fast."
-
-The eyes of all five men stood out of their heads.
-
-Then Buck said, in his jolly, jarring voice:  "Is the whole world mad?"
-
-The [[King]] sprang to his feet, and his eyes blazed.
-
-"Yes," he cried, in a voice of exultation, "the whole world is mad,
-but [[Adam Wayne]] and me.  It is true as [[Death|death]] what I told you long ago,
-[[James Barker]], seriousness sends men mad.  You are mad, because you
-care for politics, as mad as a man who collects tram tickets.
-Buck is mad, because he cares for money, as mad as a man who lives
-on opium.  Wilson is mad, because he thinks himself right,
-as mad as a man who thinks himself God Almighty.  The Provost
-of West Kensington is mad, because he thinks he is respectable,
-as mad as a man who thinks he is a chicken.  All men are mad,
-but the humourist, who cares for nothing and possesses everything.
-I thought that there was only one humourist in England.
-Fools!...dolts!...open your cows' eyes; there are two!
-In Notting [[Hill]]... in that unpromising elevation...there has been born
-an [[Artist|artist]]!  You thought to spoil my joke, and bully me out of it,
-by becoming more and more modern, more and more practical, more and
-more bustling and rational.  Oh, what a feast it was to answer you
-by becoming more and more august, more and more gracious, more and
-more ancient and mellow!  But this lad has seen how to bowl me out.
-He has answered me back, vaunt for vaunt, rhetoric for rhetoric.
-He has lifted the only shield I cannot break, the shield of an
-impenetrable pomposity.  Listen to him.  You have come, my Lord,
-about Pump Street?"
-
-"About the [[City|city]] of Notting [[Hill]]," answered Wayne, proudly.
-"Of which Pump Street is a living and rejoicing part."
-
-"Not a very large part," said Barker, contemptuously.
-
-"That which is large enough for the rich to covet," said Wayne,
-drawing up his head, "is large enough for the poor to defend."
-
-The [[King]] slapped both his legs, and waved his feet for a second
-in the air.
-
-"Every respectable person in Notting [[Hill]]," cut in Buck,
-with his cold, coarse voice, "is for us and against you.
-I have plenty of friends in Notting [[Hill]]."
-
-"Your friends are those who have taken your gold for other
-men's hearthstones, my Lord Buck," said Provost Wayne.
-"I can [[Well|well]] believe they are your friends."
-
-"They've never sold dirty toys, anyhow," said Buck, laughing shortly.
-
-"They've sold dirtier things," said Wayne, calmly; "they have
-sold themselves."
-
-"It's no good, my Buckling," said the [[King]], [[rolling]] about on
-his chair.  "You can't cope with this chivalrous eloquence.
-You can't cope with an [[Artist|artist]].  You can't cope with the humourist
-of Notting [[Hill]].  O, Nunc dimittis...that I have lived to see this day!
-Provost Wayne, you stand firm?"
-
-"Let them wait and see," said Wayne.  "If I stood firm before,
-do you think I shall weaken now that I have seen the face of
-the [[King]]?  For I fight for something greater, if greater there can be,
-than the hearthstones of my people and the Lordship of the [[Lion]].
-I fight for your royal vision, for the great dream you dreamt
-of the League of the Free Cities.  You have given me this liberty.
-If I had been a beggar and you had flung me a coin, if I had
-been a peasant in a [[Dance|dance]] and you had flung me a favour, do you
-think I would have let it be taken by any ruffians on the [[Road|road]]?
-This leadership and liberty of Notting [[Hill]] is a gift from your Majesty.
-And if it is taken from me, by God! it shall be taken in battle,
-and the noise of that battle shall be heard in the flats of Chelsea
-and in the studios of St. John's Wood."
-
-"It is too much...it is too much," said the [[King]].  "[[Nature]] is weak.
-I must speak to you, brother [[Artist|artist]], without further disguise.
-Let me ask you a solemn question.  [[Adam Wayne]], Lord High Provost
-of Notting [[Hill]], don't you think it splendid?"
-
-"Splendid!" cried [[Adam Wayne]].  "It has the splendour of God."
-
-"Bowled out again," said the [[King]].  "You will keep up the pose.
-Funnily, of course, it is serious.  But seriously, isn't it funny?"
-
-"What?" asked Wayne, with the eyes of a baby.
-
-"Hang it all, don't play any more.  The whole business...the Charter
-of the Cities.  Isn't it immense?"
-
-"Immense is no unworthy word for that glorious design."
-
-"Oh, hang you...but, of course, I see.  You want me to clear the room
-of these reasonable sows.  You want the two humourists [[Alone|alone]] together.
-Leave us, gentlemen."
-
-Buck threw a sour look at Barker, and at a sullen signal the whole
-pageant of blue and green, of red, gold and purple rolled out
-of the room, leaving only two in the great hall, the [[King]] sitting
-in his seat on the dais, and the red-clad figure still kneeling
-on the floor before his fallen [[Sword|sword]].
-
-The [[King]] bounded down the steps and smacked Provost Wayne on the back.
-
-"Before the [[Stars|stars]] were made," he cried, "we were made for each other.
-It is too beautiful.  Think of the valiant independence of Pump Street.
-That is the real thing.  It is the deification of the ludicrous."
-
-The kneeling figure sprang to his feet with a fierce stagger.
-
-"Ludicrous!" he cried, with a fiery face.
-
-"Oh, come, come," said the [[King]], impatiently.  "You needn't keep
-it up with me.  The augurs must wink sometimes from sheer fatigue
-of the eyelids.  Let us enjoy this for half an hour, not as actors,
-but as dramatic critics.  Isn't it a joke?"
-
-[[Adam Wayne]] looked down like a boy, and answered in a constrained voice:
-
-"I do not understand your Majesty.  I cannot believe that while I
-fight for your royal charter your Majesty deserts me for these [[dogs]]
-of the gold hunt."
-
-"Oh, damn your...But what's this?  What the devil's this?"
-
-The [[King]] stared into the young Provost's face, and in the twilight
-of the room began to see that his face was quite white,
-and his lip shaking.
-
-"What in God's name is the matter?" cried Auberon, holding his wrist.
-
-Wayne flung back his face, and the [[Tears|tears]] were shining on it.
-
-"I am only a boy," he said, "but it's true.  I would paint the Red [[Lion]]
-on my shield if I had only my [[Blood|blood]]."
-
-[[King]] Auberon dropped the hand and stood without stirring, thunderstruck.
-
-"My God in Heaven!" he said; "is it possible that there is within
-the four seas of Britain a man who takes Notting [[Hill]] seriously?"
-
-"And my God in Heaven!" said Wayne passionately; "is it possible
-that there is within the four seas of Britain a man who does not
-take it seriously?"
-
-The [[King]] said nothing, but merely went back up the steps of the dais
-like a man dazed.  He fell back in his chair again and kicked his heels.
-
-"If this sort of thing is to go on," he said weakly, "I shall
-begin to [[Doubt|doubt]] the superiority of art to life.  In Heaven's name,
-do not play with me.  Do you really mean that you are...God help
-me!...a Notting [[Hill]] patriot...that you are..."
-
-Wayne made a violent gesture, and the [[King]] soothed him wildly.
-
-"All right...all right...I see you are; but let me take it in.
-You do really propose to fight these modern improvers with their
-boards and inspectors and surveyors and all the rest of it..."
-
-"Are they so terrible?" asked Wayne, scornfully.
-
-The [[King]] continued to stare at him as if he were a human curiosity.
-
-"And I suppose," he said, "that you think that the dentists
-and small tradesmen and maiden ladies who inhabit Notting [[Hill]],
-will rally with war-hymns to your standard?"
-
-"If they have [[Blood|blood]] they will," said the Provost.
-
-"And I suppose," said the [[King]], with his head back among
-the cushions, "that it never crossed your mind that...his voice
-seemed to lose itself luxuriantly...never crossed your mind
-that any one ever thought that the idea of a Notting [[Hill]]
-idealism was...er...slightly...slightly ridiculous."
-
-"Of course they think so," said Wayne.  "What was the meaning
-of mocking the prophets?"
-
-"Where?" asked the [[King]], leaning forward.  "Where in Heaven's name
-did you get this miraculously inane idea?"
-
-"You have been my tutor, Sire," said the Provost, "in all that is
-high and honourable."
-
-"Eh?" said the [[King]].
-
-"It was your Majesty who first stirred my dim patriotism into flame.
-Ten years ago, when I was a boy (I am only nineteen), I was playing
-on the slope of Pump Street, with a wooden [[Sword|sword]] and a paper helmet,
-dreaming of great wars.  In an angry trance I struck out with my [[Sword|sword]]
-and stood petrified, for I saw that I had struck you, Sire, my [[King]],
-as you wandered in a noble secrecy, watching over your people's welfare.
-But I need have had no [[Fear|fear]].  Then was I taught to understand kingliness.
-You neither shrank nor frowned.  You summoned no guards.
-You invoked no punishments.  But in august and burning words,
-which are written in my [[Soul|soul]], never to be erased, you told me
-ever to turn my [[Sword|sword]] against the enemies of my inviolate [[City|city]].
-Like a priest pointing to the altar, you pointed to the [[Hill|hill]] of Notting.
-' So long,' you said, ' as you are ready to die for the sacred mountain,
-even if it were ringed with all the armies of Bayswater.'
-I have not forgotten the words, and I have reason now to
-remember them, for the hour is come and the [[Crown|crown]] of your prophecy.
-The sacred [[Hill|hill]] is ringed with the armies of Bayswater, and I am
-ready to die."
-
-The [[King]] was lying back in his chair, a kind of wreck.
-
-"O Lord, Lord, Lord," he murmured, "what a life! what a life!
-All my work!  I seem to have done it all.  So you're the red-haired boy
-that hit me in the waistcoat.  What have I done?  God, what have I done?
-I thought I would have a joke, and I have created a passion.
-I tried, to compose a burlesque, and it seems to be turning halfway
-through into an [[Epic|epic]].  What is to be done with such a world?
-In the Lord's name, wasn't the joke broad and bold enough?
-I abandoned my subtle [[Humour|humour]] to amuse you, and I seem to have brought
-[[Tears|tears]] to your eyes.  What's to be done with people when you write
-a pantomime for them...call the sausages classic festoons, and the
-policeman cut in two a [[Tragedy|tragedy]] of public duty?  But why am I talking?
-Why am I asking questions of a nice young gentleman who is totally mad?
-What is the good of it?  What is the good of anything?
-O Lord, O Lord!"
-
-Suddenly he pulled himself upright.
-
-"Don't you really think the sacred Notting [[Hill]] at all absurd?"
-
-"Absurd?" asked Wayne, blankly.  "Why should I?"
-
-The [[King]] stared back equally blankly.
-
-"I beg your pardon?" he said.
-
-"Notting [[Hill]]," said the Provost, simply, "is a rise or high ground
-of the common earth, on which men have built houses to live,
-in which they are born, fall in [[Love|love]], pray, marry, and die.
-Why should I think it absurd?"
-
-The [[King]] smiled.
-
-"Because, my Leonidas..." he began, then suddenly, he knew not how,
-found his mind was a total blank.  After all, why was it absurd?
-Why was it absurd?  He felt as if the floor of his mind had given way.
-He felt as all men feel when their first principles are hit hard
-with a question.  Barker always felt so when the [[King]] said,
-"Why trouble about politics?"
-
-The [[King]]'s thoughts were in a kind of rout; he could not collect them.
-
-"It is generally felt to be a little funny," he said, vaguely.
-
-"I suppose," said Adam, turning on him with a fierce suddenness,
-"I suppose you fancy crucifixion was a serious affair?"
-
-"[[Well]], I..." began Auberon, "I admit I have generally thought it
-had its graver side."
-
-"Then you are wrong," said Wayne, with incredible violence.
-"Crucifixion is comic.  It is exquisitely diverting.
-It was an absurd and obscene kind of impaling reserved for people
-who were made to be laughed at...for slaves and provincials...for
-dentists and small tradesmen, as you would say.  I have seen
-the [[Grotesque|grotesque]] gallows-shape, which the little Roman gutter-boys
-scribbled on walls as a vulgar joke, blazing on the pinnacles
-of the temples of the world.  And shall I turn back?"
-
-The [[King]] made no answer.
-
-Adam went on, his voice ringing in the roof.
-
-"This laughter with which men tyrannize is not the great power you
-think it.  Peter was crucified, and crucified head downwards.
-What could be funnier than the idea of a respectable old Apostle
-upside down?  What could be more in the style of your modern [[Humour|humour]]?
-But what was the good of it?  Upside down or right side up,
-Peter was Peter to mankind.  Upside down he still hangs over Europe,
-and millions move and breathe only in the life of his church."
-
-[[King]] Auberon got up absently.
-
-"There is something in what you say," he said.  "You seem to have
-been thinking, young man."
-
-"Only feeling, sire," answered the Provost.  "I was born,
-like other men, in a spot of the earth which I loved because I
-had played boys' games there, and fallen in [[Love|love]], and talked
-with my friends through nights that were nights of the gods.
-And I feel the [[Riddle|riddle]].  These little gardens where we told
-our loves.  These streets where we brought out our dead.
-Why should they be commonplace?  Why should they be absurd?
-Why should it be [[Grotesque|grotesque]] to say that a pillar-box is poetic
-when for a year I could not see a red pillar-box against the yellow
-evening in a certain street without being wracked with something of
-which God keeps the secret, but which is stronger than sorrow or joy?
-Why should any one be able to raise a laugh by saying 'the Cause
-of Notting [[Hill]]'?...Notting [[Hill]] where thousands of immortal spirits
-blaze with alternate [[Hope|hope]] and [[Fear|fear]]."
-
-Auberon was flicking [[Dust|dust]] off his sleeve with quite a new seriousness
-on his face, distinct from the owlish solemnity which was the pose
-of his [[Humour|humour]].
-
-"It is very difficult," he said at last.  "It is a damned
-difficult thing.  I see what you mean...I agree with you
-even up to a point...or I should like to agree with you,
-if I were young enough to be a [[Prophet|prophet]] and poet.  I feel a [[Truth|truth]]
-in everything you say until you come to the words ' Notting [[Hill]].'
-And then I regret to say that the old Adam awakes roaring with laughter
-and makes short work of the new Adam, whose name is Wayne."
-
-For the first [[Time|time]] Provost Wayne Was silent, and stood gazing
-dreamily at the floor.  Evening was closing in, and the room
-had grown darker.
-
-"I know," he said, in a strange, almost sleepy voice, "there is
-[[Truth|truth]] in what you say, too.  It is hard not to laugh at the common
-names...I only say we should not.  I have thought of a remedy;
-but such thoughts are rather terrible."
-
-"What thoughts?" asked Auberon.
-
-The Provost of Notting [[Hill]] seemed to have fallen into a kind of trance;
-in his eyes was an elvish light.
-
-"I know of a [[Magic|magic]] wand, but it is a wand that only one or two may
-rightly use, and only seldom.  It is a fairy wand of great [[Fear|fear]],
-stronger than those who use it...often frightful, often wicked to use.
-But whatever is touched with it is never again wholly common.
-Whatever is touched with it takes a [[Magic|magic]] from outside the world.
-If I touch, with this fairy wand, the railways and the roads of
-Notting [[Hill]], men will [[Love|love]] them, and be afraid of them for ever."
-
-"What the devil are you talking about?" asked the [[King]].
-
-"It has made mean landscapes magnificent, and hovels outlast cathedrals,"
-went on the madman.  "Why should it not make lampposts fairer
-than Greek lamps, and an omnibus ride like a painted [[Ship|ship]]?
-The touch of it is the finger of a strange perfection."
-
-"What is your wand?" cried the [[King]], impatiently.
-
-"There it is," said Wayne; and pointed to the floor, where his [[Sword|sword]]
-lay flat and shining.
-
-"The [[Sword|sword]]!" cried the [[King]]; and sprang up straight on the dais.
-
-"Yes, yes," cried Wayne, hoarsely.  "The things touched by that are
-not vulgar.  The things touched by that..."
-
-[[King]] Auberon made a gesture of horror.
-
-"You will shed [[Blood|blood]] for that!" he cried.  "For a cursed point of view..."
-
-"Oh, you kings, you kings," cried out Adam, in a burst of scorn.
-"How humane you are, how tender, how considerate.  You will make war
-for a frontier, or the imports of a foreign harbour; you will shed
-[[Blood|blood]] for the precise duty on lace, or the salute to an admiral.
-But for the things that make life itself worthy or miserable...how
-humane you are.  I say here, and I know [[Well|well]] what I speak of,
-there were never any necessary wars but the religious wars.
-There were never any just wars but the religious wars.
-There were never any humane wars but the religious wars.
-For these men were fighting for something that claimed, at least,
-to be the happiness of a man, the virtue of a man.  A Crusader thought,
-at least, that [[Islam]] hurt the [[Soul|soul]] of every man, [[King|king]] or tinker,
-that it could really capture.  I think Buck and Barker and these rich
-vultures hurt the [[Soul|soul]] of every man, hurt every inch of the ground,
-hurt every brick of the houses, that they can really capture.
-Do you think I have no right to fight for Notting [[Hill]],
-you whose English [[government|Government]] has so often fought for tomfooleries?
-If, as your rich friends say, there are no gods, and the skies
-are dark above us, what should a man fight for, but the place where
-he had the Eden of [[Childhood|childhood]] and the short heaven of first [[Love|love]]?
-If no temples and no scriptures are sacred, what is sacred if a man's
-own youth is not sacred?"
-
-The [[King]] walked a little restlessly up and down the dais.
-
-"It is hard," he said, biting his lips, "to assent to a view
-so desperate...so responsible..."
-
-As he spoke, the door of the audience chamber fell ajar,
-and through the aperture came, like the sudden chatter of a bird,
-the high, nasal, but [[Well|well]]-bred voice of Barker.
-
-"I said to him quite plainly...the public interests..."
-
-Auberon turned on Wayne with violence.
-
-"What the devil is all this?  What am I saying?  What are you saying?
-Have you hypnotized me?  Curse your [[Uncanny|uncanny]] blue eyes!
-Let me go.  Give me back my sense of [[Humour|humour]].  Give it me back.
-Give it me back, I say!"
-
-"I solemnly assure you," said Wayne, uneasily, with a gesture,
-as if feeling all over himself, "that I haven't got it."
-
-The [[King]] fell back in his chair, and went into a roar
-of Rabelaisian laughter.
-
-"I don't think you have," he cried.
+BOOK III
+CHAPTER I
+
+THE MENTAL CONDITION OF [[Adam Wayne|ADAM WAYNE]]
+
+A LITTLE while after the [[King]]'s accession a small book of [[Poems|poems]]
+appeared, called "Hymns of the [[Hill]]."  They were not good [[Poems|poems]],
+nor was the book successful, but it attracted a certain amount of
+attention from one particular school of critics.  The [[King]] himself,
+who was a member of the school, reviewed it in his capacity of
+literary critic to "Straight from the Stables," a sporting journal.
+They were known as the Hammock School, because it had been calculated
+malignantly by an enemy that no less than thirteen of their delicate
+criticisms had begun with the words, "I read this book in a hammock;
+half asleep in the sleepy sunlight, I..."; after that there were
+important differences.  Under these conditions they liked everything,
+but especially everything silly.  "Next to authentic goodness
+in a book," they said "next to authentic goodness in a book
+(and that, alas! we never find) we [[Desire|desire]] a rich badness."
+Thus it happened that their praise (as indicating the presence of a
+rich badness) was not universally sought after, and authors became
+a little disquieted when they found the eye of the Hammock School
+fixed upon them with peculiar favour.
+
+The peculiarity of "Hymns of the [[Hill]]" was the celebration of
+the poetry of [[London]] as distinct from the poetry of the country.
+This sentiment or affectation was, of course, not uncommon in
+the twentieth century, nor was it, although sometimes exaggerated,
+and sometimes artificial, by any means without a great [[Truth|truth]] at its root,
+for there is one respect in which a town must be more poetical than
+the country, since it is closer to the spirit of man; for [[London]],
+if it be not one of the masterpieces of man, is at least one of his sins.
+A street is really more poetical than a meadow, because a street
+has a secret.  A street is going somewhere, and a meadow nowhere.
+But, in the case of the book called "Hymns on the [[Hill]],"
+there was another peculiarity, which the [[King]] pointed out with great
+acumen in his review.  He was naturally interested in the matter,
+for he had himself published a volume of lyrics about [[London]] under
+his pseudonym of "Daisy Daydream."
+
+This difference, as the [[King]] pointed out, consisted in the fact that,
+while mere artificers like "Daisy Daydream" (on whose elaborate
+style the [[King]], over his signature of "Thunderbolt," was perhaps
+somewhat too severe) thought to praise [[London]] by comparing it to the
+country...using [[Nature|nature]], that is, as a background from which all poetical
+images had to be drawn...the more robust author of "Hymns of the [[Hill]]"
+praised the country, or [[Nature|nature]], by comparing it to the town,
+and used the town itself as a background.  "Take," said the critic,
+"the typically feminine lines, ' To the Inventor of the Hansom Cab'"
+
+' Poet, whose cunning carved this amorous shell, Where twain may dwell.'
+
+"Surely," wrote the [[King]], "no one but a woman could have written
+those lines.  A woman has always a weakness for [[Nature|nature]]; with her,
+art is only beautiful as an echo or [[Shadow|shadow]] of it.  She is praising
+the hansom cab by theme and theory, but her [[Soul|soul]] is still a [[Child|child]]
+by the sea, picking up shells.  She can never be utterly of the town,
+as a man can; indeed, do we not speak (with sacred propriety)
+of 'a man about town'?  Who ever spoke of a woman about town?
+However much, physically, 'about town' a woman may be, she still models
+herself on [[Nature|nature]]; she tries to carry [[Nature|nature]] with her; she bids grasses
+to grow on her head, and furry beasts to bite her about the throat.
+In the heart of a dim [[City|city]], she models her hat on a flaring
+cottage [[Garden|garden]] of [[Flowers|flowers]].  We, with our nobler civic sentiment,
+model ours on a chimney pot; the ensign of civilization.
+And rather than be without [[Birds|birds]], she will commit massacre, that she
+may turn her head into a tree, with dead [[Birds|birds]] to sing on it."
+
+This kind of thing went on for several pages, and then the critic
+remembered his subject, and returned to it.
+
+"Poet, whose cunning carved this amorous shell, Where twain may dwell."
+
+"The peculiarity of these fine though feminine lines,"
+continued "Thunderbolt," "is, as we have said, that they praise
+the hansom cab by comparing it to the shell, to a natural thing.
+Now, hear the author of ' Hymns of the [[Hill]],' and how he deals with
+the same subject.  In his fine nocturne, entitled ' The Last Omnibus,'
+he relieves the rich and poignant [[Melancholy|melancholy]] of the theme by a sudden
+sense of rushing at the end"
+
+' The [[Wind|wind]] round the old street corner Swung sudden and quick
+as a cab.'
+
+"Here the distinction is obvious.  ' Daisy Daydream' thinks it
+a great compliment to a hansom cab to be compared to one of the spiral
+chambers of the sea.  And the author of ' Hymns on the [[Hill]]'
+thinks it a great compliment to the immortal whirlwind to be compared
+to a hackney coach.  He surely is the real admirer of [[London]].
+We have no space to speak of all his perfect applications of the idea;
+of the poem in which, for instance, a lady's eyes are compared,
+not to [[Stars|stars]], but to two perfect street-lamps guiding the wanderer.
+We have no space to speak of the fine [[Lyric|lyric]], recalling the
+Elizabethan spirit, in which the poet, instead of saying
+that the [[Rose|rose]] and the lily contend in her complexion, says,
+with a purer modernism, that the red omnibus of Hammersmith
+and the white omnibus of Fulham fight there for the mastery.
+How perfect the image of two contending omnibuses!"
+
+Here, somewhat abruptly, the review concluded, probably because the [[King]]
+had to send off his copy at that moment, as he was in some want of money.
+But the [[King]] was a very good critic, whatever he may have been as [[King]],
+and he had, to a considerable extent, hit the right nail on the head.
+"Hymns on the [[Hill]]" was not at all like the [[Poems|poems]] originally
+published in praise of the poetry of [[London]].  And the reason
+was that it was really written by a man who had seen nothing else
+but [[London]], and who regarded it, therefore, as the universe.
+It was written by a raw, red-headed lad of seventeen, named [[Adam Wayne]],
+who had been born in Notting [[Hill]].  An accident in his seventh year
+prevented his being taken away to the seaside, and thus his whole life
+had been passed in his own Pump Street, and in its neighbourhood.
+And the consequence was, that he saw the street-lamps as things
+quite as eternal as the [[Stars|stars]]; the two fires were mingled.
+He saw the houses as things enduring, like the [[Mountains|mountains]],
+and so he wrote about them as one would write about [[Mountains|mountains]].
+[[Nature]] puts on a disguise when she speaks to every man; to this man
+she put on the disguise of Notting [[Hill]].  [[Nature]] would mean to a poet
+born in the Cumberland hills, a stormy skyline and sudden rocks.
+[[Nature]] would mean to a poet born in the Essex flats, a waste of splendid
+waters and splendid sunsets.  So [[Nature|nature]] meant to this man Wayne
+a line of violet roofs and lemon lamps, the chiaroscuro of the town.
+He did not think it clever or funny to praise the shadows and
+colours of the town; he had seen no other shadows or colours,
+and so he praised them...because they were shadows and colours.
+He saw all this because he was a poet, though in practice a bad poet.
+It is too often forgotten that just as a bad man is nevertheless a man,
+so a bad poet is nevertheless a poet.
+
+Mr. Wayne's little volume of verse was a complete failure;
+and he submitted to the decision of fate with a quite rational [[Humility|humility]],
+went back to his work, which was that of a draper's assistant,
+and wrote no more.  He still retained his feeling about the town
+of Notting [[Hill]], because he could not possibly have any
+other feeling, because it was the back and base of his brain.
+But he does not seem to have made any particular attempt to express
+it or insist upon it.
+
+He was a genuine natural mystic, one of those who live on
+the border of fairyland.  But he was perhaps the first to realize
+how often the boundary of fairyland runs through a crowded [[City|city]].
+Twenty feet from him (for he was very short-sighted) the red
+and white and yellow suns of the gas-lights thronged and melted
+into each other like an orchard of fiery trees, the beginning
+of the woods of elf-land.
+
+But, oddly enough, it was because he was a small poet that he came
+to his strange and isolated triumph.  It was because he was a
+failure in literature that he became a portent in English [[history]].
+He was one of those to whom [[Nature|nature]] has given the [[Desire|desire]] without the power
+of artistic expression.  He had been a dumb poet from his cradle.
+He might have been so to his [[Grave|grave]], and carried unuttered
+into the darkness a treasure of new and sensational [[Song|song]].
+But he was born under the lucky star of a single coincidence.
+He happened to be at the head of his dingy municipality at
+the [[Time|time]] of the [[King]]'s jest, at the [[Time|time]] when all municipalities
+were suddenly commanded to break out into banners and [[Flowers|flowers]].
+Out of the long procession of the silent poets who have been passing
+since the beginning of the world, this one man found himself
+in the midst of an heraldic vision, in which he could act and speak
+and live lyrically.  While the author and the victims alike treated
+the whole matter as a silly public charade, this one man, by taking
+it seriously, sprang suddenly into a throne of artistic omnipotence.
+Armour, music, standards, watch-fires, the noise of drums,
+all the theatrical properties were thrown before him.
+This one poor rhymster, having burnt his own rhymes, began to live
+that life of open air and acted poetry of which all the poets
+of the earth have dreamed in vain; the life for which the Iliad
+is only a cheap substitute.
+
+Upwards from his abstracted [[Childhood|childhood]], [[Adam Wayne]] had grown strongly
+and silently in a certain quality or capacity which is in modern cities
+almost entirely artificial, but which can be natural, and was primarily
+almost brutally natural in him, the quality or capacity of patriotism.
+It exists, like other virtues and vices, in a certain undiluted reality.
+It is not confused with all kinds of other things.  A [[Child|child]] speaking
+of his country or his village may make every mistake in Mandeville
+or tell every lie in Munchausen, but in his statement there will be
+no psychological lies any more than there can be in a good [[Song|song]].
+[[Adam Wayne]], as a boy, had for his dull streets in Notting [[Hill]]
+the ultimate and ancient sentiment that went out to Athens or Jerusalem.
+He knew the secret of the passion, those [[Secrets|secrets]] which make
+real old national [[songs]] sound so strange to our civilization.
+He knew that real patriotism tends to sing about sorrows and forlorn
+hopes much more than about victory.  He knew that in proper
+names themselves is half the poetry of all national [[Poems|poems]].
+Above all, he knew the supreme psychological fact about patriotism,
+as certain in connection with it as that a fine shame comes to all [[lovers]],
+the fact that the patriot never under any circumstances boasts
+of the largeness of his country, but always, and of necessity,
+boasts of the smallness of it.
+
+All this he knew, not because he was a philosopher or a genius,
+but because he was a [[Child|child]].  Any one who cares to walk up a side
+slum like Pump Street, can see a little Adam claiming to be [[King|king]]
+of a paving-stone. And he will always be proudest if the stone
+is almost too narrow for him to keep his feet inside it.
+
+It was while he was in such [[A Dream|a dream]] of defensive battle, marking out
+some strip of street or fortress of steps as the limit of his
+haughty claim, that the [[King]] had met him, and, with a few words flung
+in mockery, ratified for ever the strange boundaries of his [[Soul|soul]].
+Thenceforward the fanciful idea of the defence of Notting [[Hill]]
+in war became to him a thing as solid as eating or drinking
+or lighting a pipe.  He disposed his meals for it, altered his
+plans for it, lay awake in the [[Night|night]] and went over it again.
+Two or three shops were to him an arsenal; an area was to him a moat;
+corners of balconies and turns of stone steps were points for the location
+of a culverin or an archer.  It is almost impossible to convey
+to any ordinary [[Imagination|imagination]] the degree to which he had transmitted
+the leaden [[London]] landscape to a romantic gold.  The process began
+almost in babyhood, and became habitual like a literal [[Madness|madness]].
+It was felt most keenly at [[Night|night]], when [[London]] is really herself,
+when her lights shine in the dark like the eyes of innumerable cats,
+and the outline of the dark houses has the bold simplicity of
+blue hills.  But for him the [[Night|night]] revealed instead of concealing,
+and he read all the blank hours of morning and afternoon,
+by a contradictory phrase, in the light of that darkness.
+To this man, at any rate, the inconceivable had happened.
+The artificial [[City|city]] had become to him [[Nature|nature]], and he felt
+the curb-stones and gas-lamps as things as ancient as the sky.
+
+One instance may suffice.  Walking along Pump Street with a friend,
+he said, as he gazed dreamily at the iron fence of a little front [[Garden|garden]],
+"How those railings stir one's [[Blood|blood]]."
+
+His friend, who was also a great intellectual admirer,
+looked at them painfully, but without any particular emotion.
+He was so troubled about it that he went back quite a large
+number of times on quiet evenings and stared at the railings,
+waiting for something to happen to his [[Blood|blood]], but without [[success]].
+At last he took refuge in asking Wayne himself.  He discovered
+that the ecstacy lay in the one point he had never noticed about
+the railings even after his six visits, the fact that they were
+like the great majority of others in [[London]], shaped at the top after
+the manner of a spear.  As a [[Child|child]], Wayne had half unconsciously
+compared them with the spears in pictures of Lancelot and St. George,
+and had grown up under the [[Shadow|shadow]] of the graphic association.
+Now, whenever he looked at them, they were simply the serried weapons
+that made a hedge of steel round the sacred homes of Notting [[Hill]].
+He could not have cleansed his mind of that meaning even if he tried.
+It was not a fanciful comparison, or anything like it.
+It would not have been true to say that the familiar railings reminded
+him of spears; it would have been far truer to say that the familiar
+spears occasionally reminded him of railings.
+
+A couple of days after his interview with the [[King]], [[Adam Wayne]]
+was pacing like a caged [[Lion|lion]] in front of five shops that occupied
+the upper end of the disputed street.  They were a [[grocer]]'s,
+a chemist's, a barber's, an old curiosity shop, and a toy-shop
+that sold also newspapers.  It was these five shops which his
+childish fastidiousness had first selected as the essentials
+of the Notting [[Hill]] campaign, the citadel of the [[City|city]].
+If Notting [[Hill]] was the heart of the universe, and Pump Street
+was the heart of Notting [[Hill]], this was the heart of Pump Street.
+The fact that they were all small and side by side realized that feeling
+for a formidable comfort and compactness which, as we have said,
+was the heart of his patriotism and of all patriotism.  The [[grocer]]
+(who had a wine and spirit licence) was included because he could
+provision the garrison; the old curiosity shop because it contained
+enough swords, pistols, partisans, [[Cross|cross]]-bows, and blunderbusses to arm
+a whole irregular regiment; the toy and paper shop because Wayne
+thought a free press an essential centre for the [[Soul|soul]] of Pump Street;
+the chemist's to cope with outbreaks of disease among the besieged;
+and the barber's because it was in the middle of all the rest,
+and the barber's son was an intimate friend and spiritual affinity.
+
+It was a cloudless October evening settling down through purple
+into pure silver around the roofs and chimneys of the steep
+little street, which looked black and sharp and dramatic.
+In the deep shadows the gas-lit shop fronts gleamed like five fires
+in a row, and before them, darkly outlined like a [[Ghost|ghost]] against
+some purgatorial furnaces, passed to and fro the tall bird-like
+figure and eagle nose of [[Adam Wayne]].
+
+He swung his stick restlessly, and seemed fitfully talking to himself.
+
+"There are, after all, enigmas," he said, "even to the man who has [[Faith|faith]].
+There are doubts that remain even after the true [[philosophy]]
+is completed in every rung and rivet.  And here is one of them.
+Is the normal human need, the normal human condition, higher or
+lower than those special spates of the [[Soul|soul]] which call out a
+doubtful and dangerous glory? those special powers of knowledge
+or sacrifice which are made possible only by the existence of evil?
+Which should come first to our affections, the enduring sanities of peace
+or the half-maniacal virtues of battle?  Which should come first,
+the man great in the daily round or the man great in emergency?
+Which should come first, to return to the enigma before me, the [[grocer]]
+or the chemist?  Which is more certainly the stay of the [[City|city]],
+the swift chivalrous chemist or the benignant all-providing, [[grocer]]?
+In such ultimate spiritual doubts it is only possible to choose
+a side by the higher instincts and to abide the issue.  In any case,
+I have made my choice.  May I be pardoned if I choose wrongly,
+but I choose the [[grocer]]."
+
+"Good morning, sir," said the [[grocer]], who was a middle-aged man,
+partially bald, with harsh red whiskers and beard, and forehead
+lined with all the cares of the small tradesman.  "What can I
+do for you, sir?"
+
+Wayne removed his hat on entering the shop, with a ceremonious
+gesture, which, slight as it was, made the tradesman eye him
+with the beginnings of [[Wonder|wonder]].
+
+"I come, sir," he said soberly, "to appeal to your patriotism."
+
+"Why, sir," said the [[grocer]], "that sounds like the times when I
+was a boy and we used to have elections."
+
+"You will have them again," said Wayne, firmly, "and far greater things.
+Listen, Mr. Mead.  I know the temptations which a [[grocer]] has to a too
+cosmopolitan [[philosophy]].  I can imagine what it must be to sit all
+day as you do surrounded with wares from all the ends of the earth,
+from strange seas that we have never sailed and strange forests
+that we could not even picture.  No Eastern [[King|king]] ever had such
+argosies or such cargoes coming from the sunrise and the sunset,
+and Solomon in all his glory was not enriched like one of you.
+India is at your elbow," he cried, lifting his voice and pointing his
+stick at a drawer of rice, the [[grocer]] making a movement of some alarm,
+"China is before you, Demerara is behind you, [[America]] is above
+your head, and at this very moment, like some old Spanish admiral,
+you hold Tunis in your hands."
+
+Mr. Mead dropped the box of dates which he was just lifting,
+and then picked it up again vaguely.
+
+Wayne went on with a heightened colour, but in a lowered voice:
+
+"I know, I say, the temptations of so international, so universal
+a vision of wealth.  I know that it must be your danger not to fall
+like many tradesmen into too dusty and mechanical a narrowness,
+but rather to be too broad, to be too general, too liberal.
+If a narrow nationalism be the danger of the pastrycook who makes
+his own wares under his own heavens, no less is cosmopolitanism
+the danger of the [[grocer]].  But I come to you in the name of that
+patriotism which no wanderings or enlightenments should ever
+wholly extinguish, and I ask you to remember Notting [[Hill]].
+For, after all, in this cosmopolitan magnificence, she has
+played no small part.  Your dates may come from the tall palms
+of Barbary, your sugar from the strange islands of the tropics,
+your tea from the secret villages of the Empire of the Dragon.
+That this room might be furnished, forests may have been spoiled
+under the Southern [[Cross]], and leviathans speared under the Polar Star.
+But you yourself...surely no inconsiderable treasure...you yourself,
+the brain that wields these vast interests...you yourself,
+at least, have grown to strength and wisdom between these grey
+houses and under this rainy sky.  This [[City|city]] which made you,
+and thus made your fortunes, is threatened with war.
+Come forth and tell to the ends of the earth this lesson.
+Oil is from the North and fruits from the South; rices are from
+India and spices from Ceylon; sheep are from New Zealand and men
+from Notting [[Hill]]."
+
+The [[grocer]] sat for some little while, with dim eyes and his mouth open,
+looking rather like a fish.  Then he scratched the back of his head,
+and said nothing.  Then he said:
+
+"Anything out of the shop, sir?"
+
+Wayne looked round in a dazed way.  Seeing a pile of tins of
+pine-apple chunks, he waved his stick generally towards them.
+
+"Yes," he said, "I'll take those."
+
+"All those, sir?" said the [[grocer]], with greatly increased interest.
+
+"Yes, yes; all those," replied Wayne, still a little bewildered,
+like a man splashed with cold [[Water|water]].
+
+"Very good, sir; thank you, sir," said the [[grocer]] with animation.
+"You may count upon my patriotism, sir."
+
+"I count upon it already," said Wayne, and passed out into
+the gathering [[Night|night]].
+
+The [[grocer]] put the box of dates back in its place.
+
+"What a nice fellow he is," he said.  "It's odd how often they are nice.
+Much nicer than those as are all right."
+
+Meanwhile [[Adam Wayne]] stood outside the glowing chemist's shop,
+unmistakably wavering.
+
+"What a weakness it is," he muttered.  "I have never got
+rid of it from [[Childhood|childhood]].  The [[Fear|fear]] of this [[Magic|magic]] shop.
+The [[grocer]] is rich, he is romantic, he is poetical in the truest sense,
+but he is not...no, he is not [[Supernatural|supernatural]].  But the chemist!
+All the other shops stand in Notting [[Hill]], but this stands
+in Elf-land. Look at those great burning bowls of colour.
+It must be from them that God paints the sunsets.  It is superhuman,
+and the superhuman is all the more [[Uncanny|uncanny]] when it is beneficent.
+That is the root of the [[Fear|fear]] of God.  I am afraid.  But I must
+be a man and enter."
+
+He was a man, and entered.  A short, dark young man was behind
+the counter with spectacles, and greeted him with a bright but
+entirely business-like smile.
+
+"A fine evening, sir," he said.
+
+"Fine, indeed, strange Father," said Adam, stretching his hands
+somewhat forward.  "It is on such clear and mellow nights that your
+shop is most itself.  Then they appear most perfect, those moons
+of green and gold and crimson, which from afar, oft guide the [[Pilgrim|pilgrim]]
+of [[Pain|pain]] and sickness to this [[house]] of merciful witchcraft."
+
+"Can I get you anything?" asked the chemist.
+
+"Let me see," said Wayne, in a friendly but vague manner.
+"Let me have some sal-volatile."
+
+"Eightpence, tenpence, or one and sixpence a bottle?"
+said the young man genially.
+
+"One and six...one and six," replied Wayne, with a wild submissiveness.
+"I come to ask you, Mr. Bowles, a terrible question."
+
+He paused and collected himself.
+
+"It is necessary," he muttered "it is necessary to be tactful,
+and to suit the appeal to each profession in turn."
+
+"I come," he resumed aloud, "to ask you a question which goes to the roots
+of your miraculous toils.  Mr. Bowles, shall all this witchery cease?"
+And he waved his stick around the shop.
+
+Meeting with no answer, he continued with animation:
+
+"In Notting [[Hill]] we have felt to its core the elfish mystery
+of your profession.  And now Notting [[Hill]] itself is threatened."
+
+"Anything more, sir?" asked the chemist.
+
+"Oh," said Wayne, somewhat disturbed, "oh, what is it chemists sell?
+Quinine, I think.  Thank you.  Shall it be destroyed?
+I have met these men of Bayswater and North Kensington...Mr. Bowles,
+they are materialists.  They see no witchery in your work,
+even when it is brought within their own borders.  They think
+the chemist is commonplace.  They think him human."
+
+The chemist appeared to pause, only a moment, to take in the insult,
+and immediately said:
+
+"And the next article, please?"
+
+"Alum," said the Provost, wildly.  "I resume.  It is in this sacred town
+[[Alone|alone]] that your priesthood is reverenced.  Therefore, when you fight
+for us you fight not only for yourself, but for everything you typify.
+You fight not only for Notting [[Hill]], but for Fairyland, for as surely
+as Buck and Barker and such men hold sway, the sense of Fairyland
+in some strange manner diminishes."
+
+"Anything more, sir?" asked Mr. Bowles, with unbroken cheerfulness.
+
+"Oh yes, jujubes...Gregory powder...magnesia. The danger is imminent.
+In all this matter I have felt that I fought not merely for my own [[City|city]]
+(though to that I owe all my [[Blood|blood]]), but for all places in which
+these great ideas could prevail.  I am fighting not merely for
+Notting [[Hill]], but for Bayswater itself; for North Kensington itself.
+For if the gold-hunters prevail, these also will lose all their
+ancient sentiments and all the mystery of their national [[Soul|soul]].
+I know I can count upon you."
+
+"Oh yes, sir," said the chemist, with great animation, "we are always
+glad to oblige a good customer."
+
+[[Adam Wayne]] went out of the shop with a deep sense of fulfilment of [[Soul|soul]].
+
+"It is so fortunate," he said, "to have tact, to be able to play
+upon the peculiar talents and specialities, the cosmopolitanism
+of the [[grocer]] and the world-old necromancy of the chemist.
+Where should I be without tact?"

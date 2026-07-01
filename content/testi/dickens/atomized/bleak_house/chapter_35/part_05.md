@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 35 (part 5)"
+title: "Bleak House — Chapter 35 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_35/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_35/part_06">part 06 ›</a></div>
 </nav>
 
+
+She slightly showed me her arm, and it was fearfully thin indeed.
+
+“But, my dear,” she went on in her mysterious way, “there’s a
+dreadful attraction in the place. Hush! Don’t mention it to our
+diminutive friend when she comes in. Or it may frighten her. With
+good reason. There’s a cruel attraction in the place. You CAN’T leave
+it. And you MUST expect.”
+
+I tried to assure her that this was not so. She heard me patiently
+and smilingly, but was ready with her own answer.
 
 “Aye, aye, aye! You think so because I am a little rambling. Ve-ry
 absurd, to be a little rambling, is it not? Ve-ry confusing, too. To

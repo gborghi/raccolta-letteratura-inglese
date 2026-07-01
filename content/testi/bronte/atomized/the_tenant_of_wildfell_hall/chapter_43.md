@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 43"
+title: "The Tenant of Wildfell Hall — Chapter 43"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -28,7 +28,7 @@ to him, I shall not trouble myself to describe. The day after his
 
 arrival, however, he surprised me by the announcement of an intention
 
-to procure a governess for little [[arthur|Arthur]]: I told him it was quite
+to procure a governess for little [[Arthur]]: I told him it was quite
 
 unnecessary, not to say ridiculous, at the present season: I thought I
 
@@ -162,7 +162,7 @@ told me they were now on the Continent, and their present address was
 
 unknown to her. I never saw her speak much to Mr. Huntingdon; but he
 
-would frequently look into the school-room to see how little [[arthur|Arthur]] got
+would frequently look into the school-room to see how little [[Arthur]] got
 
 on with his new companion, when I was not there. In the evening, she
 
@@ -278,7 +278,7 @@ bless him!”
 
 
 
-“But I’m young, Rachel; I sha’n’t mind it; and [[arthur|Arthur]] is young too: it
+“But I’m young, Rachel; I sha’n’t mind it; and [[Arthur]] is young too: it
 
 will be nothing to him.”
 
@@ -406,7 +406,7 @@ I do not understand the art of stowing them into the boxes, so as to
 
 take up the smallest possible space; and there are her own things to
 
-do, as [[Well|well]] as mine and [[arthur|Arthur]]’s. I can ill afford to leave anything
+do, as [[Well|well]] as mine and [[Arthur]]’s. I can ill afford to leave anything
 
 behind, since I have no money, except a few guineas in my purse; and
 
@@ -420,7 +420,7 @@ But what trouble I have had throughout these two days, struggling to
 
 appear calm and collected, to meet him and her as usual, when I was
 
-obliged to meet them, and forcing myself to leave my little [[arthur|Arthur]] in
+obliged to meet them, and forcing myself to leave my little [[Arthur]] in
 
 her hands for hours together! But I trust these trials are over now: I
 
@@ -502,7 +502,7 @@ and gain an hour or two of [[Sleep|sleep]]; and _then!_—
 
 
 
-Little [[arthur|Arthur]] sleeps soundly. All the [[house]] is still: there can be no
+Little [[Arthur]] sleeps soundly. All the [[house]] is still: there can be no
 
 one watching. The boxes were all corded by Benson, and quietly conveyed
 

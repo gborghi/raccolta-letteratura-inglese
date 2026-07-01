@@ -14,6 +14,28 @@ tags:
 </nav>
 
 
+When the morning—_the_ morning—came, and we met at breakfast, it was
+curious to see how eager we all were to prevent a moment’s pause in the
+conversation, and how astoundingly gay everybody was: the forced spirits
+of each member of the little party having as much likeness to his natural
+mirth, as hot-[[house]] peas at five guineas the quart, resemble in flavour
+the growth of the dews, and air, and rain of Heaven.  But as one o’[[Clock|clock]],
+the hour for going aboard, drew near, this volubility dwindled away by
+little and little, despite the most persevering efforts to the contrary,
+until at last, the matter being now quite desperate, we threw off all
+disguise; openly speculated upon where we should be this [[Time|time]] to-morrow,
+this [[Time|time]] next day, and so forth; and entrusted a vast number of messages
+to those who intended returning to town that [[Night|night]], which were to be
+delivered at [[Home|home]] and elsewhere without fail, within the very shortest
+possible space of [[Time|time]] after the arrival of the railway train at Euston
+Square.  And commissions and remembrances do so crowd upon one at such a
+[[Time|time]], that we were still busied with this employment when we found
+ourselves fused, as it were, into a dense conglomeration of passengers
+and passengers’ friends and passengers’ luggage, all jumbled together on
+the deck of a small steamboat, and panting and snorting off to the
+packet, which had worked out of dock yesterday afternoon and was now
+lying at her moorings in the [[River|river]].
+
 And there she is! all eyes are turned to where she lies, dimly
 discernible through the gathering fog of the early [[Winter|winter]] afternoon;
 every finger is pointed in the same direction; and murmurs of interest

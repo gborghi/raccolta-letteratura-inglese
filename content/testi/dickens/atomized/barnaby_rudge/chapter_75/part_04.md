@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 75 (part 4)"
+title: "Barnaby Rudge — Chapter 75 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_75/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_77/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘Sir John, Sir John,’ returned the locksmith, ‘at twelve tomorrow, these
+men die. Hear the few words I have to add, and do not [[Hope|hope]] to deceive
+me; for though I am a plain man of humble station, and you are a
+gentleman of rank and learning, the [[Truth|truth]] raises me to your level, and
+I KNOW that you anticipate the disclosure with which I am about to end,
+and that you believe this doomed man, Hugh, to be your son.’
 
 ‘Nay,’ said Sir John, bantering him with a gay air; ‘the wild gentleman,
 who died so suddenly, scarcely went as far as that, I think?’

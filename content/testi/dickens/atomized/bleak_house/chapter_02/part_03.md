@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 2 (part 3)"
+title: "Bleak House — Chapter 2 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_02/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_03/part_01">part 01 ›</a></div>
 </nav>
 
+
+“My Lady’s cause has been again before the Chancellor, has it, Mr.
+Tulkinghorn?” says Sir Leicester, giving him his hand.
 
 “Yes. It has been on again to-day,” Mr. Tulkinghorn replies, making
 one of his quiet bows to my Lady, who is on a sofa near the [[Fire|fire]],

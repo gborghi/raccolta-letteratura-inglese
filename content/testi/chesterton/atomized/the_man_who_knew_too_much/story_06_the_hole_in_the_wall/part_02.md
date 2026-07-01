@@ -14,6 +14,12 @@ tags:
 </nav>
 
 
+acquainted with the facts knows that 'Hollinwall' simply means 'the
+
+hole in the wall,' and probably referred to some quite trivial
+
+accident. That's what I mean when I say that we don't so much find
+
 old things as we find new ones."
 Crane seemed to have grown somewhat inattentive to the little
 
@@ -182,13 +188,3 @@ the wintry trees standing round the frozen pond like a black forest,
 he felt he might [[Well|well]] have been far in the depths of the country.
 
 The old wall running round the park kept that inclosure itself still
-
-entirely rural and romantic, and one could easily imagine that the
-
-depths of that dark forest faded away indefinitely into distant
-
-vales and hills. The gray and black and silver of the wintry wood
-
-were all the more severe or somber as a contrast to the colored
-
-carnival groups that already stood on and around the frozen pool.

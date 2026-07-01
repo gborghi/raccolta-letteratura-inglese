@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 10 (part 4)"
+title: "The Mystery of Edwin Drood — Chapter 10 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_11/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_11/part_05">part 05 ›</a></div>
 </nav>
 
+
+Thus recalled to himself, he quickly became sensible of having lost the
+guard he had set upon his passionate tendency, and covered his face
+with his hand, as one repentant and wretched.
 
 Mr. Crisparkle, watching him attentively, and at the same [[Time|time]]
 meditating how to proceed, walked on for some paces in [[Silence|silence]]. Then he
@@ -127,18 +131,3 @@ door, Mr. Crisparkle gently turned the handle and looked in. Long
 afterwards he had cause to remember how Jasper sprang from the couch in
 a delirious state between sleeping and waking, and crying out: “What is
 the matter? Who did it?”
-
-“It is only I, Jasper. I am sorry to have disturbed you.”
-
-The glare of his eyes settled down into a look of recognition, and he
-moved a chair or two, to make a way to the fireside.
-
-“I was dreaming at a great rate, and am glad to be disturbed from an
-indigestive after-dinner [[Sleep|sleep]]. Not to mention that you are always
-welcome.”
-
-“Thank you. I am not confident,” returned Mr. Crisparkle, as he sat
-himself down in the easy-chair placed for him, “that my subject will at
-first sight be quite as welcome as myself; but I am a minister of
-peace, and I pursue my subject in the interests of peace. In a word,
-Jasper, I want to establish peace between these two young fellows.”

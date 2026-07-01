@@ -14,6 +14,17 @@ tags:
 </nav>
 
 
+The orphans and young children are in an adjoining building separate from
+this, but a part of the same Institution.  Some are such little
+creatures, that the stairs are of Lilliputian measurement, fitted to
+their tiny strides.  The same consideration for their years and weakness
+is expressed in their very seats, which are perfect curiosities, and look
+like articles of furniture for a pauper doll’s-[[house]].  I can imagine the
+glee of our Poor Law Commissioners at the notion of these seats having
+arms and backs; but small spines being of older date than their
+occupation of the Board-room at Somerset [[house|House]], I thought even this
+provision very merciful and kind.
+
 Here again, I was greatly pleased with the inscriptions on the wall,
 which were scraps of plain [[morality]], easily remembered and understood:
 such as ‘[[Love]] one another’—‘God remembers the smallest creature in his
@@ -82,7 +93,7 @@ other, and of working together.  This is the improved system of [[Prison]]
 Discipline which we have imported into England, and which has been in
 successful operation among us for some years past.
 
-[[America]], as a new and not over-populated country, has in all her prisons,
+[[america|America]], as a new and not over-populated country, has in all her prisons,
 the one great advantage, of being enabled to find useful and profitable
 work for the inmates; whereas, with us, the prejudice against [[Prison|prison]]
 labour is naturally very strong, and almost insurmountable, when honest
@@ -93,7 +104,7 @@ to the disadvantage of the latter, has already found many opponents,
 whose number is not likely to diminish with access of years.
 
 For this very reason though, our best prisons would seem at the first
-glance to be better conducted than those of [[America]].  The treadmill is
+glance to be better conducted than those of [[america|America]].  The treadmill is
 conducted with little or no noise; five hundred men may pick oakum in the
 same room, without a sound; and both kinds of labour admit of such keen
 and vigilant superintendence, as will render even a word of personal

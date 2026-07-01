@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 24"
+title: "The Tenant of Wildfell Hall — Chapter 24"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -20,7 +20,7 @@ tags:
 
 
 
-March 25th.—[[arthur|Arthur]] is getting tired—not of me, I trust, but of the
+March 25th.—[[Arthur]] is getting tired—not of me, I trust, but of the
 
 idle, quiet life he leads—and no [[Wonder|wonder]], for he has so few sources of
 
@@ -88,7 +88,7 @@ and I do not and will not regret that I have linked my fate with his.
 
 April 4th.—We have had a downright quarrel. The particulars are as
 
-follows: [[arthur|Arthur]] had told me, at different intervals, the whole story of
+follows: [[Arthur]] had told me, at different intervals, the whole story of
 
 his intrigue with Lady F——, which I would not believe before. It was
 
@@ -108,7 +108,7 @@ of her name.
 
 
 
-“Not because you loved her, [[arthur|Arthur]], mind, but because she injured you
+“Not because you loved her, [[Arthur]], mind, but because she injured you
 
 and deceived her husband, and was altogether a very abominable woman,
 
@@ -144,7 +144,7 @@ much as I do you, so you needn’t [[Fear|fear]] to be forsaken like them.”
 
 
 
-“If you had told me these things before, [[arthur|Arthur]], I never should have
+“If you had told me these things before, [[Arthur]], I never should have
 
 given you the chance.”
 
@@ -282,7 +282,7 @@ concerns, afforded me ample employment for the morning: after lunch I
 
 got my drawing, and from dinner till bed-[[Time|time]] I read. Meanwhile, poor
 
-[[arthur|Arthur]] was sadly at a loss for something to amuse him or to occupy his
+[[Arthur]] was sadly at a loss for something to amuse him or to occupy his
 
 [[Time|time]]. He wanted to appear as busy and as unconcerned as I did. Had the
 
@@ -366,7 +366,7 @@ out, and then quietly took up the book.
 
 
 
-“Give that book to me,” said [[arthur|Arthur]], in no very courteous tone. I gave
+“Give that book to me,” said [[Arthur]], in no very courteous tone. I gave
 
 it to him.
 
@@ -424,7 +424,7 @@ was much communication between my eyes and my brain; for, while the
 
 former ran over the pages, the latter was earnestly wondering when
 
-[[arthur|Arthur]] would speak next, and what he would say, and what I should
+[[Arthur]] would speak next, and what he would say, and what I should
 
 answer. But he did not speak again till I [[Rose|rose]] to make the tea, and
 
@@ -442,7 +442,7 @@ stood awaiting his commands.
 
 
 
-“What do you want, [[arthur|Arthur]]?” I said at length.
+“What do you want, [[Arthur]]?” I said at length.
 
 
 
@@ -458,7 +458,7 @@ willing it should be something else.
 
 
 
-“Were you speaking, [[arthur|Arthur]]?” I asked.
+“Were you speaking, [[Arthur]]?” I asked.
 
 
 
@@ -598,7 +598,7 @@ forehead sunk upon his arm.
 
 
 
-“Where do you want to go, [[arthur|Arthur]]?” said I.
+“Where do you want to go, [[Arthur]]?” said I.
 
 
 
@@ -684,7 +684,7 @@ never was happier in my life than at that moment.
 
 
 
-“Then you won’t go to [[London]], [[arthur|Arthur]]?” I said, when the first transport
+“Then you won’t go to [[London]], [[Arthur]]?” I said, when the first transport
 
 of [[Tears|tears]] and kisses had subsided.
 
@@ -720,7 +720,7 @@ So we are to go to [[London]] on Monday, the day after to-morrow. It is now
 
 four days since the termination of our quarrel, and I am sure it has
 
-done us both good: it has made me like [[arthur|Arthur]] a great deal better, and
+done us both good: it has made me like [[Arthur]] a great deal better, and
 
 made him behave a great deal better to me. He has never once attempted
 

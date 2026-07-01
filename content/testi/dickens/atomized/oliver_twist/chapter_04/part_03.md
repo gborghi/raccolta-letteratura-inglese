@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 4 (part 3)"
+title: "Oliver Twist — Chapter 4 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_04/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_05/part_01">part 01 ›</a></div>
 </nav>
 
+
+Mrs. Sowerberry emerged from a little room behind the shop, and
+presented the form of a short, thin, squeezed-up woman, with a vixenish
+countenance.
 
 “My dear,” said Mr. Sowerberry, deferentially, “this is the boy from
 the workhouse that I told you of.” [[Oliver]] bowed again.

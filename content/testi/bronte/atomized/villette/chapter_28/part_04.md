@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 27 (part 4)"
+title: "Villette — Chapter 27 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,23 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_28/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_28/part_05">part 05 ›</a></div>
 </nav>
 
+
+Several new guests, ladies as [[Well|well]] as gentlemen, had entered the room
+since dinner, dropping in for the evening conversation; and amongst the
+gentlemen, I may incidentally observe, I had already noticed by
+glimpses, a severe, dark, professorial outline, hovering aloof in an
+inner saloon, seen only in vista. M. Emanuel knew many of the gentlemen
+present, but I think was a stranger to most of the ladies, excepting
+myself; in looking towards the hearth, he could not but see me, and
+naturally made a movement to approach; seeing, however, Dr. Bretton
+also, he changed his mind and held back. If that had been all, there
+would have been no cause for quarrel; but not satisfied with holding
+back, he puckered up his eyebrows, protruded his lip, and looked so
+ugly that I averted my eyes from the displeasing spectacle. M. Joseph
+Emanuel had arrived, as [[Well|well]] as his austere brother, and at this very
+moment was relieving Ginevra at the piano. What a master-touch
+succeeded her school-girl jingle! In what grand, grateful tones the
+instrument acknowledged the hand of the true [[artist]]!
 
 “Lucy,” began Dr. Bretton, breaking [[Silence|silence]] and smiling, as Ginevra
 glided before him, casting a glance as she passed by, “Miss Fanshawe is
@@ -134,33 +151,3 @@ Bassompierre; and, of course, such a stately personage remembers
 nothing of Bretton. Look at her large eyes, Lucy; can they read a word
 in the page of [[Memory|memory]]? Are they the same which I used to direct to a
 horn-book? She does not know that I partly taught her to read.”
-
-“In the [[Bible]] on [[Sunday]] nights?”
-
-“She has a calm, delicate, rather fine profile now: once what a little
-restless, anxious countenance was hers! What a thing is a [[Child|child]]’s
-preference—what a bubble! Would you believe it? that lady was fond of
-me!”
-
-“I think she was in some measure fond of you,” said I, moderately.
-
-“You don’t remember then? _I_ had forgotten; but I remember _now_. She
-liked me the best of whatever there was at Bretton.”
-
-“You thought so.”
-
-“I quite [[Well|well]] recall it. I wish I could tell her all I recall; or
-rather, I wish some one, you for instance, would go behind and whisper
-it all in her ear, and I could have the delight—here, as I sit—of
-watching her look under the intelligence. Could you manage that, think
-you, Lucy, and make me ever grateful?”
-
-“Could I manage to make you ever grateful?” said I. “No, _I could
-not_.” And I felt my fingers work and my hands interlock: I felt, too,
-an inward [[Courage|courage]], warm and resistant. In this matter I was not
-disposed to gratify Dr. John: not at all. With now welcome force, I
-realized his entire misapprehension of my character and [[Nature|nature]]. He
-wanted always to give me a role not mine. [[Nature]] and I opposed him. He
-did not at all guess what I felt: he did not read my eyes, or face, or
-gestures; though, I [[Doubt|doubt]] not, all spoke. Leaning towards me coaxingly,
-he said, softly, “_Do_ content me, Lucy.”

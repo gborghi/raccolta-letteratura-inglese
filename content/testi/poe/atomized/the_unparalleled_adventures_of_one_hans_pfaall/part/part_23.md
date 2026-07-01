@@ -1,5 +1,5 @@
 ---
-title: "[[The Unparalleled Adventures of one Hans Pfaall]] (part 23)"
+title: "The Unparalleled Adventures of one Hans Pfaall (part 23)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-unparalleled-adventures-of-one-hans-pfaall-(poe)"
@@ -13,6 +13,118 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/part/part_22">‹ part 22</a><span></span></div>
 </nav>
 
+
+      being ill during a sea voyage, the crew abandoned him, together
+
+      with a negro servant, on the island of St. [[Helena]]. To increase
+
+      the chances of obtaining food, the two separate, and live as far
+
+      apart as possible. This brings about a training of [[Birds|birds]], to
+
+      serve the purpose of carrier-pigeons between them. By and by
+
+      these are taught to carry parcels of some weight—and this weight
+
+      is gradually increased. At length the idea is entertained of
+
+      uniting the force of a great number of the [[Birds|birds]], with a view to
+
+      raising the author himself. A [[Machine|machine]] is contrived for the
+
+      purpose, and we have a minute description of it, which is
+
+      materially helped out by a steel engraving. Here we perceive the
+
+      Signor Gonzales, with point ruffles and a huge periwig, seated
+
+      astride something which resembles very closely a broomstick, and
+
+      borne aloft by a multitude of wild swans _(ganzas)_ who had
+
+      strings reaching from their tails to the [[Machine|machine]].
+
+
+
+      The main event detailed in the Signor’s narrative depends upon a
+
+      very important fact, of which the reader is kept in ignorance
+
+      until near the end of the book. The _ganzas,_ with whom he had
+
+      become so familiar, were not really denizens of St. [[Helena]], but
+
+      of the [[Moon|moon]]. Thence it had been their custom, [[Time|time]] out of mind,
+
+      to migrate annually to some portion of the earth. In proper
+
+      season, of course, they would return [[Home|home]]; and the author,
+
+      happening, one day, to require their services for a short voyage,
+
+      is unexpectedly carried straight tip, and in a very brief period
+
+      arrives at the satellite. Here he finds, among other odd things,
+
+      that the people enjoy extreme happiness; that they have no _law;_
+
+      that they die without [[Pain|pain]]; that they are from ten to thirty feet
+
+      in height; that they live five thousand years; that they have an
+
+      emperor called Irdonozur; and that they can jump sixty feet high,
+
+      when, being out of the gravitating influence, they fly about with
+
+      fans.
+
+
+
+      I cannot forbear giving a specimen of the general _philosophy_ of
+
+      the volume.
+
+
+
+“I must not forget here, that the [[Stars|stars]] appeared only on that side of
+
+the globe turned toward the [[Moon|moon]], and that the closer they were to it
+
+the larger they seemed. I have also me and the earth. As to the [[Stars|stars]],
+
+_since there was no [[Night|night]] where I was, they always had the same
+
+appearance; not brilliant, as usual, but pale, and very nearly like the
+
+[[Moon|moon]] of a morning. _But few of them were visible, and these ten times
+
+larger (as [[Well|well]] as I could judge) than they seem to the inhabitants of
+
+the earth. The [[Moon|moon]], which wanted two days of being full, was of a
+
+terrible bigness.
+
+
+
+“I must not forget here, that the [[Stars|stars]] appeared only on that side of
+
+the globe turned toward the [[Moon|moon]], and that the closer they were to it
+
+the larger they seemed. I have also to inform you that, whether it was
+
+calm weather or stormy, I found myself _always immediately between the
+
+[[Moon|moon]] and the earth._ I_ _was convinced of this for two reasons-because
+
+my [[Birds|birds]] always flew in a straight line; and because whenever we
+
+attempted to rest, _we were carried insensibly around the globe of the
+
+earth. _For I admit the opinion of Copernicus, who maintains that it
+
+never ceases to revolve _from the east to the west, _not upon the poles
+
+of the Equinoctial, commonly called the poles of the world, but upon
 
 those of the Zodiac, a question of which I propose to speak more at
 

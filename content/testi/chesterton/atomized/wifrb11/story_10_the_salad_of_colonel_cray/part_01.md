@@ -1,5 +1,5 @@
 ---
-title: "[[wifrb11]] — The Salad of Colonel Cray (part 1)"
+title: "wifrb11 — The Salad of Colonel Cray (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
                        The Salad of Colonel Cray
-
 
 [[Father Brown|FATHER BROWN]] was walking [[Home|home]] from Mass on a white weird morning
 when the mists were slowly lifting--one of those mornings when
@@ -117,9 +116,3 @@ you've met Colonel Cray of the Royal Artillery."
 "Did you--did you hit anything?"
 
      "I thought so," answered Cray with gravity.
-
-     "Did he--" asked Major Putnam in a lowered voice, "did he fall
-or cry out, or anything?"
-
-     Colonel Cray was regarding his host with a strange and steady stare. 
-"I'll tell you exactly what he did," he said.  "He sneezed."

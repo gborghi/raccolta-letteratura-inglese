@@ -1,5 +1,5 @@
 ---
-title: "[[Pride and Prejudice]] — Chapter 34 (part 1)"
+title: "Pride and Prejudice — Chapter 34 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/pride-and-prejudice-(austen)"
@@ -117,7 +117,3 @@ against you, had they been indifferent, or had they even been
 favourable, do you think that any consideration would tempt me to accept
 the man who has been the means of ruining, perhaps for ever, the
 happiness of a most beloved sister?”
-
-As she pronounced these words, Mr. Darcy changed colour; but the emotion
-was short, and he listened without attempting to interrupt her while she
-continued,--

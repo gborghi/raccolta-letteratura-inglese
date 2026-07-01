@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 3 (part 1)"
+title: "Our Mutual Friend — Chapter 6 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,142 +10,142 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_43/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_44/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_43/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_44/part_02">part 02 ›</a></div>
 </nav>
 
 
-Chapter 3
+Chapter 6
 
-THE SAME RESPECTED FRIEND IN MORE ASPECTS THAN ONE
+THE GOLDEN DUSTMAN FALLS INTO WORSE COMPANY
 
 
-In sooth, it is Riderhood and no other, or it is the outer husk and
-shell of Riderhood and no other, that is borne into Miss Abbey’s
-first-floor bedroom. Supple to twist and turn as the Rogue has ever
-been, he is sufficiently rigid now; and not without much shuffling of
-attendant feet, and tilting of his bier this way and that way, and
-peril even of his sliding off it and being tumbled in a heap over the
-balustrades, can he be got up stairs.
+It had come to pass that Mr [[Silas Wegg]] now rarely attended the minion of
+fortune and the worm of the hour, at his (the worm’s and minion’s) own
+[[house]], but lay under general instructions to await him within a certain
+margin of hours at the Bower. Mr Wegg took this arrangement in great
+dudgeon, because the appointed hours were evening hours, and those he
+considered precious to the progress of the friendly move. But it was
+quite in character, he bitterly remarked to [[Mr Venus]], that the upstart
+who had trampled on those eminent creatures, Miss Elizabeth, Master
+George, Aunt Jane, and Uncle Parker, should oppress his literary man.
 
-‘Fetch a doctor,’ quoth Miss Abbey. And then, ‘Fetch his daughter.’ On
-both of which errands, quick messengers depart.
+The Roman Empire having worked out its destruction, Mr Boffin next
+appeared in a cab with Rollin’s Ancient [[history|History]], which valuable work
+being found to possess lethargic properties, broke down, at about the
+period when the whole of the army of Alexander the Macedonian (at that
+[[Time|time]] about forty thousand strong) burst into [[Tears|tears]] simultaneously, on
+his being taken with a shivering fit after bathing. The Wars of the
+Jews, likewise languishing under Mr Wegg’s generalship, Mr Boffin
+arrived in another cab with Plutarch: whose Lives he found in the sequel
+extremely entertaining, though he hoped Plutarch might not expect him to
+believe them all. What to believe, in the course of his reading, was Mr
+Boffin’s chief literary difficulty indeed; for some [[Time|time]] he was divided
+in his mind between half, all, or none; at length, when he decided, as a
+moderate man, to compound with half, the question still remained, which
+half? And that stumbling-block he never got over.
 
-The doctor-seeking messenger meets the doctor halfway, coming under
-convoy of police. Doctor examines the dank carcase, and pronounces, not
-hopefully, that it is worth while trying to reanimate the same. All the
-best means are at once in action, and everybody present lends a hand,
-and a heart and [[Soul|soul]]. No one has the least regard for the man; with them
-all, he has been an object of avoidance, suspicion, and aversion; but
-the spark of life within him is curiously separable from himself now,
-and they have a deep interest in it, probably because it IS life, and
-they are living and must die.
+One evening, when [[Silas Wegg]] had grown accustomed to the arrival of
+his patron in a cab, accompanied by some profane historian charged with
+unutterable names of incomprehensible peoples, of impossible descent,
+waging wars any number of years and syllables long, and carrying
+illimitable hosts and riches about, with the greatest ease, beyond the
+confines of geography—one evening the usual [[Time|time]] passed by, and no
+patron appeared. After half an hour’s grace, Mr Wegg proceeded to the
+outer gate, and there executed a whistle, conveying to [[Mr Venus]],
+if perchance within hearing, the tidings of his being at [[Home|home]] and
+disengaged. Forth from the shelter of a neighbouring wall, [[Mr Venus]] then
+emerged.
 
-In answer to the doctor’s inquiry how did it happen, and was anyone to
-blame, Tom Tootle gives in his verdict, unavoidable accident and no one
-to blame but the sufferer. ‘He was slinking about in his boat,’ says
-Tom, ‘which slinking were, not to speak ill of the dead, the manner of
-the man, when he come right athwart the steamer’s bows and she cut him
-in two.’ Mr Tootle is so far figurative, touching the dismemberment, as
-that he means the boat, and not the man. For, the man lies whole before
-them.
+‘Brother in arms,’ said Mr Wegg, in excellent spirits, ‘welcome!’
 
-Captain Joey, the bottle-nosed regular customer in the glazed hat, is a
-pupil of the much-respected old school, and (having insinuated himself
-into the chamber, in the execution of the important service of carrying
-the drowned man’s neck-kerchief) favours the doctor with a sagacious
-old-scholastic suggestion that the [[Body|body]] should be hung up by the heels,
-‘sim’lar’, says Captain Joey, ‘to mutton in a butcher’s shop,’ and
-should then, as a particularly choice manoeuvre for promoting easy
-respiration, be rolled upon casks. These scraps of the wisdom of the
-captain’s ancestors are received with such speechless indignation by
-Miss Abbey, that she instantly seizes the Captain by the collar, and
-without a single word ejects him, not presuming to remonstrate, from the
-scene.
+In return, [[Mr Venus]] gave him a rather dry good evening.
 
-There then remain, to assist the doctor and Tom, only those three other
-regular customers, Bob Glamour, William Williams, and Jonathan (family
-name of the latter, if any, unknown to man-kind), who are quite enough.
-Miss Abbey having looked in to make sure that nothing is wanted,
-descends to the bar, and there awaits the result, with the gentle Jew
-and Miss [[Jenny Wren]].
+‘Walk in, brother,’ said Silas, clapping him on the shoulder, ‘and take
+your seat in my chimley corner; for what says the ballad?
 
-If you are not gone for good, Mr Riderhood, it would be something to
-know where you are hiding at present. This flabby lump of [[Mortality|mortality]] that
-we work so hard at with such patient perseverance, yields no sign of
-you. If you are gone for good, Rogue, it is very solemn, and if you are
-coming back, it is hardly less so. Nay, in the suspense and mystery of
-the latter question, involving that of where you may be now, there is a
-solemnity even added to that of [[Death|death]], making us who are in attendance
-alike afraid to look on you and to look off you, and making those below
-start at the least sound of a creaking plank in the floor.
+     “No malice to dread, sir,
+     And no falsehood to [[Fear|fear]],
+     But [[Truth|truth]] to delight me, [[Mr Venus]],
+     And I forgot what to cheer.
+     Li toddle de om dee.
+     And something to guide,
+     My ain fireside, sir,
+     My ain fireside.”’
 
-Stay! Did that eyelid tremble? So the doctor, breathing low, and closely
-watching, asks himself.
+With this quotation (depending for its neatness rather on the spirit
+than the words), Mr Wegg conducted his guest to his hearth.
 
-No.
+‘And you come, brother,’ said Mr Wegg, in a hospitable glow, ‘you come
+like I don’t know what—exactly like it—I shouldn’t know you from
+it—shedding a halo all around you.’
 
-Did that nostril twitch?
+‘What kind of halo?’ asked [[Mr Venus]].
 
-No.
+‘’Ope sir,’ replied Silas. ‘That’s YOUR halo.’
 
-This artificial respiration ceasing, do I feel any faint flutter under
-my hand upon the chest?
+[[Mr Venus]] appeared doubtful on the point, and looked rather
+discontentedly at the [[Fire|fire]].
 
-No.
+‘We’ll devote the evening, brother,’ exclaimed Wegg, ‘to prosecute our
+friendly move. And arterwards, crushing a flowing wine-cup—which I
+allude to brewing rum and [[Water|water]]—we’ll pledge one another. For what says
+the Poet?
 
-Over and over again No. No. But try over and over again, nevertheless.
+     “And you needn’t, [[Mr Venus]], be your black bottle,
+     For surely I’ll be mine,
+     And we’ll take a glass with a slice of lemon in it to which
+     you’re partial,
+     For auld lang syne.”’
 
-See! A token of life! An indubitable token of life! The spark may
-smoulder and go out, or it may glow and expand, but see! The four
-rough fellows, seeing, shed [[Tears|tears]]. Neither Riderhood in this world, nor
-Riderhood in the other, could draw [[Tears|tears]] from them; but a striving human
-[[Soul|soul]] between the two can do it easily.
+This flow of quotation and hospitality in Wegg indicated his observation
+of some little querulousness on the part of [[Venus]].
 
-He is struggling to come back. Now, he is almost here, now he is far
-away again. Now he is struggling harder to get back. And yet—like us
-all, when we swoon—like us all, every day of our lives when we wake—he
-is instinctively unwilling to be restored to the consciousness of this
-existence, and would be left dormant, if he could.
+‘Why, as to the friendly move,’ observed the last-named gentleman,
+rubbing his knees peevishly, ‘one of my objections to it is, that it
+DON’T move.’
 
-Bob Gliddery returns with Pleasant Riderhood, who was out when sought
-for, and hard to find. She has a shawl over her head, and her first
-action, when she takes it off weeping, and curtseys to Miss Abbey, is to
-[[Wind|wind]] her hair up.
+‘Rome, brother,’ returned Wegg: ‘a [[City|city]] which (it may not be generally
+known) originated in twins and a wolf; and ended in Imperial marble:
+wasn’t built in a day.’
 
-‘Thank you, Miss Abbey, for having father here.’
+‘Did I say it was?’ asked [[Venus]].
 
-‘I am bound to say, girl, I didn’t know who it was,’ returns Miss Abbey;
-‘but I [[Hope|hope]] it would have been pretty much the same if I had known.’
+‘No, you did not, brother. [[Well]]-inquired.’
 
-Poor Pleasant, fortified with a sip of brandy, is ushered into the
-first-floor chamber. She could not express much sentiment about her
-father if she were called upon to pronounce his funeral oration, but she
-has a greater tenderness for him than he ever had for her, and crying
-bitterly when she sees him stretched unconscious, asks the doctor, with
-clasped hands: ‘Is there no [[Hope|hope]], sir? O poor father! Is poor father
-dead?’
+‘But I do say,’ proceeded [[Venus]], ‘that I am taken from among my trophies
+of anatomy, am called upon to exchange my human warious for mere
+coal-ashes warious, and nothing comes of it. I think I must give up.’
 
-To which the doctor, on one knee beside the [[Body|body]], busy and watchful,
-only rejoins without looking round: ‘Now, my girl, unless you have the
-[[Self|self]]-command to be perfectly quiet, I cannot allow you to remain in the
-room.’
+‘No, sir!’ remonstrated Wegg, enthusiastically. ‘No, Sir!
 
-Pleasant, consequently, wipes her eyes with her back-hair, which is in
-fresh need of being wound up, and having got it out of the way, watches
-with terrified interest all that goes on. Her natural woman’s aptitude
-soon renders her able to give a little help. Anticipating the doctor’s
-want of this or that, she quietly has it ready for him, and so by
-degrees is intrusted with the charge of supporting her father’s head
-upon her arm.
+     “Charge, Chester, charge,
+     On, [[Mr Venus]], on!”
 
-It is something so new to Pleasant to see her father an object of
-sympathy and interest, to find any one very willing to tolerate his
-society in this world, not to say pressingly and soothingly entreating
-him to belong to it, that it gives her a sensation she never experienced
-before. Some hazy idea that if affairs could remain thus for a long [[Time|time]]
-it would be a respectable change, floats in her mind. Also some vague
-idea that the old evil is drowned out of him, and that if he should
-happily come back to resume his occupation of the empty form that lies
-upon the bed, his spirit will be altered. In which state of mind she
-kisses the stony lips, and quite believes that the impassive hand she
-chafes will revive a tender hand, if it revive ever.
+Never say die, sir! A man of your mark!’
+
+‘It’s not so much saying it that I object to,’ returned [[Mr Venus]], ‘as
+doing it. And having got to do it whether or no, I can’t afford to waste
+my [[Time|time]] on groping for nothing in cinders.’
+
+‘But think how little [[Time|time]] you have given to the move, sir, after all,’
+urged Wegg. ‘Add the evenings so occupied together, and what do they
+come to? And you, sir, harmonizer with myself in opinions, views, and
+feelings, you with the patience to fit together on wires the whole
+framework of society—I allude to the human skelinton—you to give in so
+soon!’
+
+‘I don’t like it,’ returned [[Mr Venus]] moodily, as he put his head between
+his knees and stuck up his dusty hair. ‘And there’s no encouragement to
+go on.’
+
+‘Not them Mounds without,’ said Mr Wegg, extending his right hand with
+an air of solemn reasoning, ‘encouragement? Not them Mounds now looking
+down upon us?’
+
+‘They’re too big,’ grumbled [[Venus]]. ‘What’s a scratch here and a scrape
+there, a poke in this place and a dig in the other, to them. Besides;
+what have we found?’
+
+‘What HAVE we found?’ cried Wegg, delighted to be able to acquiesce.
+‘Ah! There I grant you, comrade. Nothing. But on the contrary, comrade,
+what MAY we find? There you’ll grant me. Anything.’

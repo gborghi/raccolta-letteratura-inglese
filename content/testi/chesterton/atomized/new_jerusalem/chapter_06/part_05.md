@@ -10,71 +10,100 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/new-jerusalem-(chesterton)">New Jerusalem</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/new_jerusalem/chapter_06/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/new_jerusalem/chapter_07/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/new_jerusalem/chapter_06/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/new_jerusalem/chapter_06/part_06">part 06 ›</a></div>
 </nav>
 
 
-The [[Storm|storm]] was certainly rising.  Outside the Jaffa Gate the [[Road|road]]
-runs up steeply and is split in two by the wedge of a high building,
-looking as narrow as a tower and projecting like the prow of a [[Ship|ship]].
-There is something almost theatrical about its position and stage
-properties, its one high-curtained [[Window|window]] and balcony, with a sort
-of pole or [[Flag|flag]]-staff; for the place is official or rather municipal.
-Round it swelled the crowd, with its [[songs]] and [[Poems|poems]] and
-passionate rhetoric in a kind of crescendo, and then suddenly
-the curtain of the [[Window|window]] [[Rose|rose]] like the curtain of the theatre,
-and we saw on that high balcony the red fez and the tall figure
-of the Mahometan Mayor of Jerusalem.
+This group of Arab Anti-Semites may be taken next,
+but very briefly; for the problem itself belongs to a later page;
+and the one thing to be said of it here is very simple.
+I never expected it, and even now I do not fully understand it.
+But it is the fact that the native Moslems are more Anti-Semitic
+than the native Christians.  Both are more or less so; and have formed
+a sort of alliance out of the fact.  The banner carried by the mob
+bore the Arabic [[Inscription|inscription]] "Moslems and Christians are brothers."
+It is as if the little wedge of Zionism had closed up the cracks
+of the [[Crusades]].
 
-I did not understand his Arabic observations; but I know
-when a man is calming a mob, and the mob did become calmer.
-It was as if a [[Storm|storm]] swelled in the [[Night|night]] and gradually died away
-in a grey morning; but there are perpetual mutterings of that [[Storm|storm]].
-My point for the moment is that the exasperations come chiefly from
-the two extremes of the two great Semitic traditions of monotheism;
-and certainly not primarily from those poor Eastern Christians
-of whose [[Fanaticism|fanaticism]] we have been taught to make fun.
-From [[Time|time]] to [[Time|time]] there are gleams of the extremities of Eastern
-[[Fanaticism|fanaticism]] which are almost ghastly to Western feeling.
-They seem to crack the polish of the dignified leaders of the Arab
-aristocracy and the Zionist school of culture, and reveal a
-volcanic substance of which only oriental creeds have been made.
-One day a wild Jewish proclamation is passed from hand to hand,
-denouncing disloyal Jews who refuse the teaching Hebrew; telling doctors
-to let them die and hospitals to let them rot, ringing with the old
-unmistakable and awful accent that bade men dash their children
-against the stones.  Another day the [[City|city]] would be placarded with
-posters printed in Damascus, telling the Jews who looked to Palestine
-for a national [[Home|home]] that they should find it a national cemetery.
-And when these cries clash it is like the clash of those two
-crooked Eastern swords, that crossed and recrossed and revolved
-like blazing wheels, in the vanguard of the marching mob.
+Of the Christian crowds in that partnership, and the Christian creeds
+they are proud to inherit, I have already suggested something;
+it is only as [[Well|well]] to note that I have put them out of their strict order
+in the stratification of [[history]].  It is too often forgotten that in
+these countries the Christian culture is older than the Moslem culture.
+I for one regret that the old Pax Romana was broken up by the Arabs;
+and hold that in the long run there was more life in that Byzantine
+decline than in that Semitic revival.  And I will add what I cannot
+here develop or defend; that in the long run it is best that the
+Pax Romana should return; and that the suzerainty of those lands
+at least will have to be Christian, and neither Moslem nor Jewish.
+To defend it is to defend a [[philosophy]]; but I do hold that there is
+in that [[philosophy]], for all the talk of its persecutions in the past,
+a possibility of comprehension and many-sided sympathy which is
+not in the narrow intensity either of the Moslem or the Jew.
+[[Christianity]] is really the right angle of that triangle,
+and the other two are very acute angles.
 
-I felt the fullest pressure of the problem when I first walked round
-the whole of the Haram enclosure, the courts of the old Temple,
-where the high muezzin towers now stand at every corner,
-and heard the clear voices of the call to [[Prayer|prayer]].  The sky was
-laden with a [[Storm|storm]] that became the snowstorm; and it was the [[Time|time]]
-at which the old Jews beat their hands and mourn over what are
-believed to be the last stones of the Temple.  There was a movement
-in my own mind that was attuned to these things, and impressed by
-the strait limits and steep sides of that platform of the [[Mountains|mountains]];
-for the sense of crisis is not only in the intensity of the ideals,
-but in the very conditions of the reality, the reality with which this
-chapter began.  And the burden of it is the burden of Palestine;
-the narrowness of the boundaries and the stratification of the rock.
-A voice not of my reason but rather sounding heavily in my heart,
-seemed to be repeating sentences like pessimistic proverbs.
-There is no place for the Temple of Solomon but on the ruins of
-the Mosque of Omar.  There is no place for the nation of the Jews
-but in the country of the Arabs.  And these whispers came to me
-first not as intellectual conclusions upon the conditions of the case,
-of which I should have much more to say and to [[Hope|hope]]; but rather
-as hints of something immediate and menacing and yet mysterious.
-I felt almost a momentary impulse to flee from the place, like one
-who has received an omen.  For two voices had met in my ears;
-and within the same narrow space and in the same dark hour,
-electric and yet eclipsed with cloud, I had heard [[Islam]] crying
-from the turret and Israel wailing at the wall.
+But in the meetings that led up to the riots it is the more Moslem
+part of the mixed crowds that I chiefly remember; which touches
+the same [[Truth|truth]] that the Christians are the more potentially tolerant.
+But many of the Moslem leaders are as dignified and human as many
+of the Zionist leaders; the Grand Mufti is a man I cannot imagine
+as either insulting anybody, or being conceivably the object of insult.
+The Moslem Mayor of Jerusalem was another such figure, belonging also I
+believe to one of the Arab aristocratic houses (the Grand Mufti is
+a descendant of Mahomet) and I shall not forget his first appearance
+at the first of the riotous meetings in which I found myself.
+I will give it as the first of two final impressions with which I
+will end this chapter, I [[Fear|fear]] on a note of almost anarchic noise,
+the unearthly beating and braying of the Eastern gongs and horns
+of two fierce [[Desert|desert]] faiths against each other.
 
-= = = = = = = = = = = = = = = =
+I first saw from the balcony of the hotel the crowd of riotors come
+[[rolling]] up the street.  In front of them went two fantastic figures
+turning like teetotums in an endless [[Dance|dance]] and twirling two crooked
+and naked scimitars, as the Irish were supposed to twirl shillelaghs.
+I thought it a delightful way of opening a political meeting;
+and I wished we could do it at [[Home|home]] at the General Election.
+I wish that instead of the wearisome business of Mr. Bonar Law
+taking the chair, and Mr. Lloyd George addressing the meeting,
+Mr. Law and Mr. Lloyd George would only hop and caper in front of
+a procession, spinning round and round till they were dizzy, and waving
+and crossing a pair of umbrellas in a thousand invisible patterns.
+But this political announcement or advertisement, though more intelligent
+than our own, had, as I could readily believe, another side to it.
+I was told that it was often a prelude to ordinary festivals,
+such as weddings; and no [[Doubt|doubt]] it remains from some ancient ritual [[Dance|dance]]
+of a religious character.  But I could imagine that it might sometimes
+seem to a more rational taste to have too religious a character.
+I could imagine that those dancing men might indeed be dancing dervishes,
+with their heads going round in a more irrational sense than
+their bodies.  I could imagine that at some moments it might suck
+the [[Soul|soul]] into what I have called in metaphor the whirlpool of Asia,
+or the whirlwind of a world whipped like a top with a raging monotony;
+the cyclone of [[Eternity|eternity]].  That is not the sort of rhythm nor
+the sort of religion by which I myself should [[Hope|hope]] to save the [[Soul|soul]];
+but it is intensely interesting to the mind and even the eye, and I
+went downstairs and wedged myself into the thick and thronging press.
+It surged through the gap by the gate, where men climbed
+lamp-posts and roared out speeches, and more especially recited
+national [[Poems|poems]] in rich resounding voices; a really moving effect,
+at least for one who could not understand a word that was said.
+Feeling had already gone as far as knocking Jews' hats off and other
+popular sports, but not as yet on any universal and systematic scale;
+I saw a few of the antiquated Jews with wrinkles and ringlets,
+peering about here and there; some said as spies or representatives
+of the Zionists, to take away the Anti-Semitic colour from the meeting.
+But I think this unlikely; especially as it would have been pretty hard
+to take it away.  It is more likely, I think, that the archaic Jews
+were really not unamused and perhaps not unsympathetic spectators;
+for the Zionist problem is complicated by a real quarrel
+in the Ghetto about Zionism.  The old religious Jews do not
+welcome the new nationalist Jews; it would sometimes be hardly
+an exaggeration to say that one party stands for the religion without
+the nation, and the other for the nation without the religion.
+Just as the old agricultural Arabs hate the Zionists as the
+instruments of new Western business grab and sharp practice;
+so the old peddling and pedantic but intensely pious Jews hate
+the Zionists as the instruments of new Western atheism of free thought.
+Only I [[Fear|fear]] that when the [[Storm|storm]] breaks, such distinctions
+are swept away.

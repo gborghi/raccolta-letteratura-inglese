@@ -38,53 +38,53 @@ tags:
 ## Chapters / scenes / sections
 
 - [Story 01 Introduction](/testi/chesterton/atomized/well_and_shallows/story_01_introduction)
-- [Story 02 An Apology For Buffoons](/testi/chesterton/atomized/well_and_shallows/story_02_an_apology_for_buffoons)
-- [Story 03 Introductory Note](/testi/chesterton/atomized/well_and_shallows/story_03_introductory_note)
-- [Story 04 An Apology For Buffoons](/testi/chesterton/atomized/well_and_shallows/story_04_an_apology_for_buffoons)
+- Story 02 An Apology For Buffoons
+- Story 03 Introductory Note
+- Story 04 An Apology For Buffoons
 - [Story 05 My Six Conversions](/testi/chesterton/atomized/well_and_shallows/story_05_my_six_conversions)
-- [Story 06 I The Religion Of Fossils](/testi/chesterton/atomized/well_and_shallows/story_06_i_the_religion_of_fossils)
+- Story 06 I The Religion Of Fossils
 - [Story 07 My Six Conversions](/testi/chesterton/atomized/well_and_shallows/story_07_my_six_conversions)
-- [Story 08 Ii When The World Turned Back](/testi/chesterton/atomized/well_and_shallows/story_08_ii_when_the_world_turned_back)
+- Story 08 Ii When The World Turned Back
 - [Story 09 My Six Conversions](/testi/chesterton/atomized/well_and_shallows/story_09_my_six_conversions)
-- [Story 10 Iii The Surrender Upon Sex](/testi/chesterton/atomized/well_and_shallows/story_10_iii_the_surrender_upon_sex)
-- [Story 11 My Six Conversions](/testi/chesterton/atomized/well_and_shallows/story_11_my_six_conversions)
-- [Story 12 Iv The Prayer Book Problem](/testi/chesterton/atomized/well_and_shallows/story_12_iv_the_prayer_book_problem)
-- [Story 13 My Six Conversions](/testi/chesterton/atomized/well_and_shallows/story_13_my_six_conversions)
-- [Story 14 V The Collapse Of Materialism](/testi/chesterton/atomized/well_and_shallows/story_14_v_the_collapse_of_materialism)
-- [Story 15 My Six Conversions](/testi/chesterton/atomized/well_and_shallows/story_15_my_six_conversions)
-- [Story 16 Vi The Case Of Spain](/testi/chesterton/atomized/well_and_shallows/story_16_vi_the_case_of_spain)
-- [Story 17 My Six Conversions](/testi/chesterton/atomized/well_and_shallows/story_17_my_six_conversions)
-- [Story 18 Vii The Well And The Shallows](/testi/chesterton/atomized/well_and_shallows/story_18_vii_the_well_and_the_shallows)
-- [Story 19 The Return To Religion](/testi/chesterton/atomized/well_and_shallows/story_19_the_return_to_religion)
-- [Story 20 The Reaction Of The Intellectuals](/testi/chesterton/atomized/well_and_shallows/story_20_the_reaction_of_the_intellectuals)
-- [Story 21 Levity Or Levitation](/testi/chesterton/atomized/well_and_shallows/story_21_levity_or_levitation)
-- [Story 22 The Case For Hermits](/testi/chesterton/atomized/well_and_shallows/story_22_the_case_for_hermits)
-- [Story 23 Killing The Nerve](/testi/chesterton/atomized/well_and_shallows/story_23_killing_the_nerve)
-- [Story 24 The Case Of Claudel](/testi/chesterton/atomized/well_and_shallows/story_24_the_case_of_claudel)
-- [Story 25 The Higher Nihilism](/testi/chesterton/atomized/well_and_shallows/story_25_the_higher_nihilism)
-- [Story 26 The Ascetic At Large](/testi/chesterton/atomized/well_and_shallows/story_26_the_ascetic_at_large)
-- [Story 27 The Backward Bolshie](/testi/chesterton/atomized/well_and_shallows/story_27_the_backward_bolshie)
-- [Story 28 The Last Turn](/testi/chesterton/atomized/well_and_shallows/story_28_the_last_turn)
-- [Story 29 The New Luther](/testi/chesterton/atomized/well_and_shallows/story_29_the_new_luther)
-- [Story 30 Babies And Distributism](/testi/chesterton/atomized/well_and_shallows/story_30_babies_and_distributism)
-- [Story 31 Three Foes Of The Family](/testi/chesterton/atomized/well_and_shallows/story_31_three_foes_of_the_family)
-- [Story 32 The Don And The Cavalier](/testi/chesterton/atomized/well_and_shallows/story_32_the_don_and_the_cavalier)
-- [Story 33 The Church And Agoraphobia](/testi/chesterton/atomized/well_and_shallows/story_33_the_church_and_agoraphobia)
-- [Story 34 Back In The Fog](/testi/chesterton/atomized/well_and_shallows/story_34_back_in_the_fog)
-- [Story 35 Mary And The Convert](/testi/chesterton/atomized/well_and_shallows/story_35_mary_and_the_convert)
-- [Story 36 A Century Of Emancipation](/testi/chesterton/atomized/well_and_shallows/story_36_a_century_of_emancipation)
-- [Story 37 Trade Terms](/testi/chesterton/atomized/well_and_shallows/story_37_trade_terms)
-- [Story 38 Frozen Free Thought](/testi/chesterton/atomized/well_and_shallows/story_38_frozen_free_thought)
-- [Story 39 Shocking The Modernists](/testi/chesterton/atomized/well_and_shallows/story_39_shocking_the_modernists)
-- [Story 40 A Grammar Of Knighthood](/testi/chesterton/atomized/well_and_shallows/story_40_a_grammar_of_knighthood)
-- [Story 41 Reflections On A Rotten Apple](/testi/chesterton/atomized/well_and_shallows/story_41_reflections_on_a_rotten_apple)
-- [Story 42 Sex And Property](/testi/chesterton/atomized/well_and_shallows/story_42_sex_and_property)
-- [Story 43 St Thomas More](/testi/chesterton/atomized/well_and_shallows/story_43_st_thomas_more)
-- [Story 44 The Return Of Caesar](/testi/chesterton/atomized/well_and_shallows/story_44_the_return_of_caesar)
-- [Story 45 Austria](/testi/chesterton/atomized/well_and_shallows/story_45_austria)
-- [Story 46 The Scripture Reader](/testi/chesterton/atomized/well_and_shallows/story_46_the_scripture_reader)
-- [Story 47 An Explanation](/testi/chesterton/atomized/well_and_shallows/story_47_an_explanation)
-- [Story 48 Where Is The Paradox](/testi/chesterton/atomized/well_and_shallows/story_48_where_is_the_paradox)
+- Story 10 Iii The Surrender Upon Sex
+- Story 11 My Six Conversions
+- Story 12 Iv The Prayer Book Problem
+- Story 13 My Six Conversions
+- Story 14 V The Collapse Of Materialism
+- Story 15 My Six Conversions
+- Story 16 Vi The Case Of Spain
+- Story 17 My Six Conversions
+- Story 18 Vii The Well And The Shallows
+- Story 19 The Return To Religion
+- Story 20 The Reaction Of The Intellectuals
+- Story 21 Levity Or Levitation
+- Story 22 The Case For Hermits
+- Story 23 Killing The Nerve
+- Story 24 The Case Of Claudel
+- Story 25 The Higher Nihilism
+- Story 26 The Ascetic At Large
+- Story 27 The Backward Bolshie
+- Story 28 The Last Turn
+- Story 29 The New Luther
+- Story 30 Babies And Distributism
+- Story 31 Three Foes Of The Family
+- Story 32 The Don And The Cavalier
+- Story 33 The Church And Agoraphobia
+- Story 34 Back In The Fog
+- Story 35 Mary And The Convert
+- Story 36 A Century Of Emancipation
+- Story 37 Trade Terms
+- Story 38 Frozen Free Thought
+- Story 39 Shocking The Modernists
+- Story 40 A Grammar Of Knighthood
+- Story 41 Reflections On A Rotten Apple
+- Story 42 Sex And Property
+- Story 43 St Thomas More
+- Story 44 The Return Of Caesar
+- Story 45 Austria
+- Story 46 The Scripture Reader
+- Story 47 An Explanation
+- Story 48 Where Is The Paradox
 
 ## Testo integrale / Full text
 

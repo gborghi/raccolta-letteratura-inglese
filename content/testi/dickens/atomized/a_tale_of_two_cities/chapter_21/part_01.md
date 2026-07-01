@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities — Chapter 14 (part 1)"
+title: "A Tale of Two Cities — Chapter 15 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-tale-of-two-cities-(dickens)"
@@ -10,128 +10,127 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/a-tale-of-two-cities-(dickens)">A Tale of Two Cities</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_19/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_21/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_20/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_21/part_02">part 02 ›</a></div>
 </nav>
 
 
-CHAPTER XIV.
-The Honest Tradesman
+CHAPTER XV.
+Knitting
 
 
-To the eyes of Mr. Jeremiah Cruncher, sitting on his stool in
-Fleet-street with his grisly urchin beside him, a vast number and
-variety of objects in movement were every day presented. Who could sit
-upon anything in Fleet-street during the busy hours of the day, and
-not be dazed and deafened by two immense processions, one ever tending
-westward with the sun, the other ever tending eastward from the sun,
-both ever tending to the plains beyond the range of red and purple where
-the sun goes down!
+There had been earlier drinking than usual in the wine-shop of Monsieur
+Defarge. As early as six o’[[Clock|clock]] in the morning, sallow faces peeping
+through its barred windows had descried other faces within, bending over
+measures of wine. Monsieur Defarge sold a very thin wine at the best
+of times, but it would seem to have been an unusually thin wine that
+he sold at this [[Time|time]]. A sour wine, moreover, or a souring, for its
+influence on the mood of those who drank it was to make them gloomy. No
+vivacious Bacchanalian flame leaped out of the pressed grape of Monsieur
+Defarge: but, a smouldering [[Fire|fire]] that burnt in the dark, lay hidden in
+the dregs of it.
 
-With his straw in his mouth, Mr. Cruncher sat watching the two streams,
-like the heathen rustic who has for several centuries been on duty
-watching one stream--saving that Jerry had no expectation of their ever
-running dry. Nor would it have been an expectation of a hopeful kind,
-since a small part of his income was derived from the pilotage of timid
-women (mostly of a full habit and past the middle term of life) from
-Tellson’s side of the tides to the opposite shore. Brief as such
-companionship was in every separate instance, Mr. Cruncher never failed
-to become so interested in the lady as to express a strong [[Desire|desire]] to
-have the [[Honour|honour]] of drinking her very good health. And it was from
-the gifts bestowed upon him towards the execution of this benevolent
-purpose, that he recruited his finances, as just now observed.
+This had been the third morning in succession, on which there had been
+early drinking at the wine-shop of Monsieur Defarge. It had begun
+on Monday, and here was Wednesday come. There had been more of early
+brooding than drinking; for, many men had listened and whispered and
+slunk about there from the [[Time|time]] of the opening of the door, who could
+not have laid a piece of money on the counter to save their souls. These
+were to the full as interested in the place, however, as if they could
+have commanded whole barrels of wine; and they glided from seat to seat,
+and from corner to corner, swallowing talk in lieu of drink, with greedy
+looks.
 
-[[Time]] was, when a poet sat upon a stool in a public place, and mused in
-the sight of men. Mr. Cruncher, sitting on a stool in a public place,
-but not being a poet, mused as little as possible, and looked about him.
+Notwithstanding an unusual flow of company, the master of the wine-shop
+was not visible. He was not missed; for, nobody who crossed the
+threshold looked for him, nobody asked for him, nobody wondered to see
+only [[Madame Defarge]] in her seat, presiding over the distribution of
+wine, with a bowl of battered small coins before her, as much defaced
+and beaten out of their original impress as the small coinage of
+humanity from whose ragged pockets they had come.
 
-It fell out that he was thus engaged in a season when crowds were
-few, and belated women few, and when his affairs in general were so
-unprosperous as to awaken a strong suspicion in his breast that Mrs.
-Cruncher must have been “flopping” in some pointed manner, when an
-unusual concourse pouring down Fleet-street westward, attracted his
-attention. Looking that way, Mr. Cruncher made out that some kind of
-funeral was coming along, and that there was popular objection to this
-funeral, which engendered uproar.
+A suspended interest and a prevalent absence of mind, were perhaps
+observed by the spies who looked in at the wine-shop, as they looked in
+at every place, high and low, from the [[King|king]]’s palace to the criminal’s
+gaol. Games at cards languished, players at dominoes musingly built
+towers with them, drinkers drew figures on the tables with spilt drops
+of wine, [[Madame Defarge]] herself picked out the pattern on her sleeve
+with her toothpick, and saw and heard something inaudible and invisible
+a long way off.
 
-“Young Jerry,” said Mr. Cruncher, turning to his offspring, “it’s a
-buryin’.”
+Thus, Saint Antoine in this vinous feature of his, until midday. It was
+high noontide, when two dusty men passed through his streets and under
+his swinging lamps: of whom, one was Monsieur Defarge: the other a
+mender of roads in a blue cap. All adust and athirst, the two entered
+the wine-shop. Their arrival had lighted a kind of [[Fire|fire]] in the breast
+of Saint Antoine, fast spreading as they came along, which stirred and
+flickered in flames of faces at most doors and windows. Yet, no one had
+followed them, and no man spoke when they entered the wine-shop, though
+the eyes of every man there were turned upon them.
 
-“Hooroar, father!” cried Young Jerry.
+“Good day, gentlemen!” said Monsieur Defarge.
 
-The young gentleman uttered this exultant sound with mysterious
-significance. The elder gentleman took the cry so ill, that he watched
-his opportunity, and smote the young gentleman on the ear.
+It may have been a signal for loosening the general tongue. It elicited
+an answering [[Chorus|chorus]] of “Good day!”
 
-“What d’ye mean? What are you hooroaring at? What do you want to conwey
-to your own father, you young Rip? This boy is a getting too many for
-_me_!” said Mr. Cruncher, surveying him. “Him and his hooroars! Don’t
-let me hear no more of you, or you shall feel some more of me. D’ye
-hear?”
+“It is bad weather, gentlemen,” said Defarge, shaking his head.
 
-“I warn’t doing no harm,” Young Jerry protested, rubbing his cheek.
+Upon which, every man looked at his neighbour, and then all cast down
+their eyes and sat silent. Except one man, who got up and went out.
 
-“Drop it then,” said Mr. Cruncher; “I won’t have none of _your_ no
-harms. Get a top of that there seat, and look at the crowd.”
+“My wife,” said Defarge aloud, addressing [[Madame Defarge]]: “I have
+travelled certain leagues with this good mender of roads, called
+Jacques. I met him--by accident--a day and half’s [[Journey|journey]] out of [[Paris]].
+He is a good [[Child|child]], this mender of roads, called Jacques. Give him to
+drink, my wife!”
 
-His son obeyed, and the crowd approached; they were bawling and hissing
-round a dingy hearse and dingy mourning coach, in which mourning coach
-there was only one mourner, dressed in the dingy trappings that were
-considered essential to the dignity of the position. The position
-appeared by no means to please him, however, with an increasing rabble
-surrounding the coach, deriding him, making grimaces at him, and
-incessantly groaning and calling out: “Yah! Spies! Tst! Yaha! Spies!”
- with many compliments too numerous and forcible to repeat.
+A second man got up and went out. [[Madame Defarge]] set wine before the
+mender of roads called Jacques, who doffed his blue cap to the company,
+and drank. In the breast of his blouse he carried some coarse dark
+bread; he ate of this between whiles, and sat munching and drinking near
+[[Madame Defarge]]’s counter. A third man got up and went out.
 
-Funerals had at all times a remarkable attraction for Mr. Cruncher; he
-always pricked up his senses, and became excited, when a funeral passed
-Tellson’s. Naturally, therefore, a funeral with this uncommon attendance
-excited him greatly, and he asked of the first man who ran against him:
+Defarge refreshed himself with a draught of wine--but, he took less
+than was given to the stranger, as being himself a man to whom it was no
+rarity--and stood waiting until the countryman had made his breakfast.
+He looked at no one present, and no one now looked at him; not even
+[[Madame Defarge]], who had taken up her knitting, and was at work.
 
-“What is it, brother? What’s it about?”
+“Have you finished your repast, friend?” he asked, in due season.
 
-“_I_ don’t know,” said the man. “Spies! Yaha! Tst! Spies!”
+“Yes, thank you.”
 
-He asked another man. “Who is it?”
+“Come, then! You shall see the apartment that I told you you could
+occupy. It will suit you to a marvel.”
 
-“_I_ don’t know,” returned the man, clapping his hands to his mouth
-nevertheless, and vociferating in a surprising heat and with the
-greatest ardour, “Spies! Yaha! Tst, tst! Spi--ies!”
+Out of the wine-shop into the street, out of the street into a
+courtyard, out of the courtyard up a steep staircase, out of the
+staircase into a garret--formerly the garret where a white-haired man
+sat on a low bench, stooping forward and very busy, making shoes.
 
-At length, a person better informed on the merits of the case, tumbled
-against him, and from this person he learned that the funeral was the
-funeral of one Roger Cly.
+No white-haired man was there now; but, the three men were there who had
+gone out of the wine-shop singly. And between them and the white-haired
+man afar off, was the one small link, that they had once looked in at
+him through the chinks in the wall.
 
-“Was he a spy?” asked Mr. Cruncher.
+Defarge closed the door carefully, and spoke in a subdued voice:
 
-“Old Bailey spy,” returned his informant. “Yaha! Tst! Yah! Old Bailey
-Spi--i--ies!”
+“Jacques One, Jacques Two, Jacques Three! This is the witness
+encountered by appointment, by me, Jacques Four. He will tell you all.
+Speak, Jacques Five!”
 
-“Why, to be sure!” exclaimed Jerry, recalling the Trial at which he had
-assisted. “I’ve seen him. Dead, is he?”
+The mender of roads, blue cap in hand, wiped his swarthy forehead with
+it, and said, “Where shall I commence, monsieur?”
 
-“Dead as mutton,” returned the other, “and can’t be too dead. Have ’em
-out, there! Spies! Pull ’em out, there! Spies!”
+“Commence,” was Monsieur Defarge’s not unreasonable reply, “at the
+commencement.”
 
-The idea was so acceptable in the prevalent absence of any idea,
-that the crowd caught it up with eagerness, and loudly repeating the
-suggestion to have ’em out, and to pull ’em out, mobbed the two vehicles
-so closely that they came to a stop. On the crowd’s opening the coach
-doors, the one mourner scuffled out by himself and was in their hands
-for a moment; but he was so alert, and made such good use of his [[Time|time]],
-that in another moment he was scouring away up a bye-street, after
-shedding his cloak, hat, long hatband, white pocket-handkerchief, and
-other symbolical [[Tears|tears]].
+“I saw him then, messieurs,” began the mender of roads, “a year ago this
+running [[Summer|summer]], underneath the carriage of the Marquis, hanging by the
+chain. Behold the manner of it. I leaving my work on the [[Road|road]], the sun
+going to bed, the carriage of the Marquis slowly ascending the [[Hill|hill]], he
+hanging by the chain--like this.”
 
-These, the people tore to pieces and scattered far and wide with great
-enjoyment, while the tradesmen hurriedly shut up their shops; for a
-crowd in those times stopped at nothing, and was a [[Monster|monster]] much dreaded.
-They had already got the length of opening the hearse to take the coffin
-out, when some brighter genius proposed instead, its being escorted to
-its destination amidst general rejoicing. Practical suggestions being
-much needed, this suggestion, too, was received with acclamation, and
-the coach was immediately filled with eight inside and a dozen out,
-while as many people got on the roof of the hearse as could by any
-exercise of ingenuity stick upon it. Among the first of these volunteers
-was [[Jerry Cruncher]] himself, who modestly concealed his spiky head from
-the observation of Tellson’s, in the further corner of the mourning
-coach.
+Again the mender of roads went through the whole performance; in which
+he ought to have been perfect by that [[Time|time]], seeing that it had been
+the infallible resource and indispensable entertainment of his village
+during a whole year.

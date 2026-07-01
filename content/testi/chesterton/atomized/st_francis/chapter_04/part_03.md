@@ -82,7 +82,6 @@ Given a critic of rather coarse common sense, with no feeling
 about the incident except annoyance, and how would the story
 seem to stand?
 
-
 A young [[Fool|fool]] or rascal is caught robbing his father and selling
 goods which he ought to guard; and the only explanation he will
 offer is that a loud voice from nowhere spoke in his ear and told

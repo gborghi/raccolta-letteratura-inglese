@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The Arrow of Heaven (part 4)"
+title: "incredulity Fr Brown — The Arrow of Heaven (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -13,6 +13,43 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity_fr_brown/story_02_the_arrow_of_heaven/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity_fr_brown/story_02_the_arrow_of_heaven/part_05">part 05 ›</a></div>
 </nav>
 
+
+'Indeed,' remarked Wilton, 'and what about me?'
+
+'I think you are a man of one idea,' said [[Father Brown]], 'and you will
+forgive me for saying that it seems to be even more the idea of catching
+Daniel Doom than of defending Brander Merton.'
+
+Wilton started a little and continued to stare at his companion; then
+very slowly his grim mouth took on a rather curious smile. 'How did you
+- what makes you think that?' he asked.
+
+'You said that if you heard a shot you could instantly electrocute the
+escaping enemy,' remarked the priest. 'I suppose it occurred to you that
+the shot might be fatal to your employer before the shock was fatal to
+his foe. I don't mean that you wouldn't protect Mr Merton if you could,
+but it seems to come rather second in your thoughts. The arrangements
+are very elaborate, as you say, and you seem to have elaborated them.
+But they seem even more designed to catch a murderer than to save a
+man.'
+
+'[[Father Brown]],' said the secretary, who had recovered his quiet tone,
+'you're very smart, but there's something more to you than smartness.
+Somehow you're the sort of man to whom one wants to tell the [[Truth|truth]]; and
+besides, you'll probably hear it, anyhow, for in one way it's a joke
+against me already. They all say I'm a monomaniac about running down
+this big crook, and perhaps I am. But I'll tell you one thing that none
+of them know. My full name is John Wilton Border.' [[Father Brown]] nodded
+as if he were completely enlightened, but the other went on.
+
+'This fellow who calls himself Doom killed my father and uncle and
+ruined my mother. When Merton wanted a secretary I took the job, because
+I thought that where the cup was the criminal might sooner or later be.
+But I didn't know who the criminal was and could only wait for him; and
+I meant to serve Merton faithfully.'
+
+'I understand,' said [[Father Brown]] gently; 'and, by the way, isn't it
+[[Time|time]] that we attended on him?'
 
 'Why, yes,' answered Wilton, again starting a little out of his brooding
 so that the priest concluded that his vindictive mania had again
@@ -97,41 +134,3 @@ man told. I said it had a moral.'
 'If it had a moral,' said Wilton warmly, 'it was only that a real 'Red
 Indian might shoot a thing farther than you'd fancy. It's nonsense your
 suggesting a parallel.'
-
-'I don't think you've got the moral quite right,' said [[Father Brown]].
-
-Although the little priest appeared to melt into the millions of New
-York next day, without any apparent attempt to be anything but a number
-in a numbered street, he was, in fact, unobtrusively busy for the next
-fortnight with the commission that had been given him, for he was filled
-with profound [[Fear|fear]] about a possible miscarriage of justice. Without
-having any particular air of singling them out from his other new
-acquaintances, he found it easy to fall into talk with the two or three
-men recently involved in the mystery; and with old Hickory Crake
-especially he had a curious and interesting conversation. It took place
-on a seat in Central Park, where the veteran sat with his bony hands and
-hatchet face resting on the oddly - shaped head of a walking - stick of
-dark red wood, possibly modelled on a tomahawk.
-
-'[[Well]], it may be a long shot,' he said, wagging his head, 'but I
-wouldn't advise you to be too positive about how far an Indian arrow
-could go. I've known some bow - shots that seemed to go straighter than
-any bullets, and hit the mark to amazement, considering how long they
-had been travelling. Of course, you practically never hear now of a Red
-Indian with a bow and arrows, still less of a Red Indian hanging about
-here. But if by any chance there were one of the old Indian marksmen,
-with one of the old Indian bows, hiding in those trees hundreds of yards
-beyond the Merton outer wall - why, then I wouldn't put it past the
-noble savage to be able to send an arrow over the wall and into the top
-[[Window|window]] of Merton's [[house]]; no, nor into Merton, either. I've seen things
-quite as wonderful as that done in the old days.'
-
-'No [[Doubt|doubt]],' said the priest, 'you have done things quite as wonderful,
-as [[Well|well]] as seen them.'
-
-Old Crake chuckled, and then said gruffly: 'Oh, that's all ancient
-[[history]].'
-
-'Some people have a way of studying ancient [[history]],' the priest said.
-'I suppose we may take it there is nothing in your old record In make
-people talk unpleasantly about this affair.'

@@ -1,5 +1,5 @@
 ---
-title: "Hard Times — Chapter 4"
+title: "Hard Times — Chapter 6"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/hard-times-(dickens)"
@@ -14,294 +14,508 @@ tags:
 </nav>
 
 
-CHAPTER IV
-MEN AND BROTHERS
+CHAPTER VI
+FADING AWAY
 
 
-‘OH, my friends, the down-trodden operatives of Coketown!  Oh, my friends
-and fellow-countrymen, the slaves of an iron-handed and a grinding
-despotism!  Oh, my friends and fellow-sufferers, and fellow-workmen, and
-fellow-men!  I tell you that the hour is come, when we must rally round
-one another as One united power, and crumble into [[Dust|dust]] the oppressors
-that too long have battened upon the plunder of our families, upon the
-sweat of our brows, upon the labour of our hands, upon the strength of
-our sinews, upon the God-created glorious rights of Humanity, and upon
-the holy and eternal privileges of Brotherhood!’
+IT was falling dark when Stephen came out of Mr. Bounderby’s [[house]].  The
+shadows of [[Night|night]] had gathered so fast, that he did not look about him
+when he closed the door, but plodded straight along the street.  Nothing
+was further from his thoughts than the curious old woman he had
+encountered on his previous visit to the same [[house]], when he heard a step
+behind him that he knew, and turning, saw her in Rachael’s company.
 
-‘Good!’  ‘Hear, hear, hear!’  ‘Hurrah!’ and other cries, arose in many
-voices from various parts of the densely crowded and suffocatingly close
-Hall, in which the orator, perched on a stage, delivered himself of this
-and what other froth and fume he had in him.  He had declaimed himself
-into a violent heat, and was as hoarse as he was hot.  By dint of roaring
-at the top of his voice under a flaring gaslight, clenching his fists,
-knitting his brows, setting his teeth, and pounding with his arms, he had
-taken so much out of himself by this [[Time|time]], that he was brought to a stop,
-and called for a glass of [[Water|water]].
+He saw Rachael first, as he had heard her only.
 
-As he stood there, trying to quench his fiery face with his drink of
-[[Water|water]], the comparison between the orator and the crowd of attentive faces
-turned towards him, was extremely to his disadvantage.  Judging him by
-[[Nature]]’s evidence, he was above the mass in very little but the stage on
-which he stood.  In many great respects he was essentially below them.
-He was not so honest, he was not so manly, he was not so good-humoured;
-he substituted cunning for their simplicity, and passion for their safe
-solid sense.  An ill-made, high-shouldered man, with lowering brows, and
-his features crushed into an habitually sour expression, he contrasted
-most unfavourably, even in his mongrel dress, with the great [[Body|body]] of his
-hearers in their plain working clothes.  Strange as it always is to
-consider any assembly in the act of submissively resigning itself to the
-dreariness of some complacent person, lord or commoner, whom
-three-fourths of it could, by no human means, raise out of the slough of
-inanity to their own intellectual level, it was particularly strange, and
-it was even particularly affecting, to see this crowd of earnest faces,
-whose honesty in the main no competent observer free from bias could
-[[Doubt|doubt]], so agitated by such a leader.
+‘Ah, Rachael, my dear!  Missus, thou wi’ her!’
 
-Good!  Hear, hear!  Hurrah!  The eagerness both of attention and
-intention, exhibited in all the countenances, made them a most impressive
-sight.  There was no carelessness, no languor, no idle curiosity; none of
-the many shades of indifference to be seen in all other assemblies,
-visible for one moment there.  That every man felt his condition to be,
-somehow or other, worse than it might be; that every man considered it
-incumbent on him to join the rest, towards the making of it better; that
-every man felt his only [[Hope|hope]] to be in his allying himself to the comrades
-by whom he was surrounded; and that in this belief, right or wrong
-(unhappily wrong then), the whole of that crowd were gravely, deeply,
-faithfully in earnest; must have been as plain to any one who chose to
-see what was there, as the bare beams of the roof and the whitened brick
-walls.  Nor could any such spectator fail to know in his own breast, that
-these men, through their very delusions, showed great qualities,
-susceptible of being turned to the happiest and best account; and that to
-pretend (on the strength of sweeping axioms, howsoever cut and dried)
-that they went astray wholly without cause, and of their own irrational
-wills, was to pretend that there could be smoke without [[Fire|fire]], [[Death|death]]
-without birth, harvest without seed, anything or everything produced from
+‘[[Well]], and now you are surprised to be sure, and with reason I must say,’
+the old woman returned.  ‘Here I am again, you see.’
+
+‘But how wi’ Rachael?’ said Stephen, falling into their step, walking
+between them, and looking from the one to the other.
+
+‘Why, I come to be with this good lass pretty much as I came to be with
+you,’ said the old woman, cheerfully, taking the reply upon herself.  ‘My
+visiting [[Time|time]] is later this year than usual, for I have been rather
+troubled with shortness of breath, and so put it off till the weather was
+fine and warm.  For the same reason I don’t make all my [[Journey|journey]] in one
+day, but divide it into two days, and get a bed to-[[Night|night]] at the
+Travellers’ Coffee [[house|House]] down by the railroad (a nice clean [[house]]), and
+go back Parliamentary, at six in the morning.  [[Well]], but what has this to
+do with this good lass, says you?  I’m going to tell you.  I have heard
+of Mr. Bounderby being married.  I read it in the paper, where it looked
+grand—oh, it looked fine!’ the old woman dwelt on it with strange
+enthusiasm: ‘and I want to see his wife.  I have never seen her yet.
+Now, if you’ll believe me, she hasn’t come out of that [[house]] since [[Noon|noon]]
+to-day.  So not to give her up too easily, I was waiting about, a little
+last bit more, when I passed close to this good lass two or three times;
+and her face being so friendly I spoke to her, and she spoke to me.
+There!’ said the old woman to Stephen, ‘you can make all the rest out for
+yourself now, a deal shorter than I can, I dare say!’
+
+Once again, Stephen had to conquer an instinctive propensity to dislike
+this old woman, though her manner was as honest and simple as a manner
+possibly could be.  With a gentleness that was as natural to him as he
+knew it to be to Rachael, he pursued the subject that interested her in
+her old age.
+
+‘[[Well]], missus,’ said he, ‘I ha seen the lady, and she were young and
+hansom.  Wi’ fine dark thinkin eyes, and a still way, Rachael, as I ha
+never seen the like on.’
+
+‘Young and handsome.  Yes!’ cried the old woman, quite delighted.  ‘As
+bonny as a [[Rose|rose]]!  And what a happy wife!’
+
+‘Aye, missus, I suppose she be,’ said Stephen.  But with a doubtful
+glance at Rachael.
+
+‘Suppose she be?  She must be.  She’s your master’s wife,’ returned the
+old woman.
+
+Stephen nodded assent.  ‘Though as to master,’ said he, glancing again at
+Rachael, ‘not master onny more.  That’s aw enden ’twixt him and me.’
+
+‘Have you left his work, Stephen?’ asked Rachael, anxiously and quickly.
+
+‘Why, Rachael,’ he replied, ‘whether I ha lef’n his work, or whether his
+work ha lef’n me, cooms t’ th’ same.  His work and me are parted.  ’Tis
+as weel so—better, I were thinkin when yo coom up wi’ me.  It would ha
+brought’n trouble upon trouble if I had stayed theer.  Haply ’tis a
+kindness to monny that I go; haply ’tis a kindness to myseln; anyways it
+mun be done.  I mun turn my face fro Coketown fur th’ [[Time|time]], and seek a
+fort’n, dear, by beginnin fresh.’
+
+‘Where will you go, Stephen?’
+
+‘I donno t’[[Night|night]],’ said he, lifting off his hat, and smoothing his thin
+hair with the flat of his hand.  ‘But I’m not goin t’[[Night|night]], Rachael, nor
+yet t’morrow.  ’Tan’t easy overmuch t’ know wheer t’ turn, but a good
+heart will coom to me.’
+
+Herein, too, the sense of even thinking unselfishly aided him.  Before he
+had so much as closed Mr. Bounderby’s door, he had reflected that at
+least his being obliged to go away was good for her, as it would save her
+from the chance of being brought into question for not withdrawing from
+him.  Though it would cost him a hard pang to leave her, and though he
+could think of no similar place in which his condemnation would not
+pursue him, perhaps it was almost a relief to be forced away from the
+[[Endurance|endurance]] of the last four days, even to unknown difficulties and
+distresses.
+
+So he said, with [[Truth|truth]], ‘I’m more leetsome, Rachael, under ’t, than I
+could’n ha believed.’  It was not her part to make his burden heavier.
+She answered with her comforting smile, and the three walked on together.
+
+Age, especially when it strives to be [[Self|self]]-reliant and cheerful, finds
+much consideration among the poor.  The old woman was so decent and
+contented, and made so light of her infirmities, though they had
+increased upon her since her former interview with Stephen, that they
+both took an interest in her.  She was too sprightly to allow of their
+walking at a slow pace on her account, but she was very grateful to be
+talked to, and very willing to talk to any extent: so, when they came to
+their part of the town, she was more brisk and vivacious than ever.
+
+‘Come to my poor place, missus,’ said Stephen, ‘and tak a coop o’ tea.
+Rachael will coom then; and arterwards I’ll see thee safe t’ thy
+Travellers’ lodgin.  ’T may be long, Rachael, ere ever I ha th’ chance o’
+thy coompany agen.’
+
+They complied, and the three went on to the [[house]] where he lodged.  When
+they turned into a narrow street, Stephen glanced at his [[Window|window]] with a
+dread that always haunted his desolate [[Home|home]]; but it was open, as he had
+left it, and no one was there.  The evil spirit of his life had flitted
+away again, months ago, and he had heard no more of her since.  The only
+evidence of her last return now, were the scantier moveables in his room,
+and the grayer hair upon his head.
+
+He lighted a candle, set out his little tea-board, got hot [[Water|water]] from
+below, and brought in small portions of tea and sugar, a loaf, and some
+butter from the nearest shop.  The bread was new and crusty, the butter
+fresh, and the sugar lump, of course—in fulfilment of the standard
+testimony of the Coketown magnates, that these people lived like princes,
+sir.  Rachael made the tea (so large a party necessitated the borrowing
+of a cup), and the visitor enjoyed it mightily.  It was the first glimpse
+of sociality the host had had for many days.  He too, with the world a
+wide heath before him, enjoyed the meal—again in corroboration of the
+magnates, as exemplifying the utter want of calculation on the part of
+these people, sir.
+
+‘I ha never thowt yet, missus,’ said Stephen, ‘o’ askin thy name.’
+
+The old lady announced herself as ‘Mrs. Pegler.’
+
+‘A widder, I think?’ said Stephen.
+
+‘Oh, many long years!’  Mrs. Pegler’s husband (one of the best on record)
+was already dead, by Mrs. Pegler’s calculation, when Stephen was born.
+
+‘’Twere a bad job, too, to lose so good a one,’ said Stephen.  ‘Onny
+children?’
+
+Mrs. Pegler’s cup, rattling against her saucer as she held it, denoted
+some nervousness on her part.  ‘No,’ she said.  ‘Not now, not now.’
+
+‘Dead, Stephen,’ Rachael softly hinted.
+
+‘I’m sooary I ha spok’n on ’t,’ said Stephen, ‘I ought t’ hadn in my mind
+as I might touch a sore place.  I—I blame myseln.’
+
+While he excused himself, the old lady’s cup rattled more and more.  ‘I
+had a son,’ she said, curiously distressed, and not by any of the usual
+appearances of sorrow; ‘and he did [[Well|well]], wonderfully [[Well|well]].  But he is not
+to be spoken of if you please.  He is—’  Putting down her cup, she moved
+her hands as if she would have added, by her action, ‘dead!’  Then she
+said aloud, ‘I have lost him.’
+
+Stephen had not yet got the better of his having given the old lady [[Pain|pain]],
+when his landlady came stumbling up the narrow stairs, and calling him to
+the door, whispered in his ear.  Mrs. Pegler was by no means deaf, for
+she caught a word as it was uttered.
+
+‘Bounderby!’ she cried, in a suppressed voice, starting up from the
+table.  ‘Oh hide me!  Don’t let me be seen for the world.  Don’t let him
+come up till I’ve got away.  Pray, pray!’  She trembled, and was
+excessively agitated; getting behind Rachael, when Rachael tried to
+reassure her; and not seeming to know what she was about.
+
+‘But hearken, missus, hearken,’ said Stephen, astonished.  ‘’Tisn’t Mr.
+Bounderby; ’tis his wife.  Yo’r not fearfo’ o’ her.  Yo was hey-go-mad
+about her, but an hour sin.’
+
+‘But are you sure it’s the lady, and not the gentleman?’ she asked, still
+trembling.
+
+‘Certain sure!’
+
+‘[[Well]] then, pray don’t speak to me, nor yet take any notice of me,’ said
+the old woman.  ‘Let me be quite to myself in this corner.’
+
+Stephen nodded; looking to Rachael for an explanation, which she was
+quite unable to give him; took the candle, went downstairs, and in a few
+moments returned, lighting Louisa into the room.  She was followed by the
+whelp.
+
+Rachael had risen, and stood apart with her shawl and bonnet in her hand,
+when Stephen, himself profoundly astonished by this visit, put the candle
+on the table.  Then he too stood, with his doubled hand upon the table
+near it, waiting to be addressed.
+
+For the first [[Time|time]] in her life Louisa had come into one of the dwellings
+of the Coketown Hands; for the first [[Time|time]] in her life she was face to
+face with anything like individuality in connection with them.  She knew
+of their existence by hundreds and by thousands.  She knew what results
+in work a given number of them would produce in a given space of [[Time|time]].
+She knew them in crowds passing to and from their nests, like ants or
+beetles.  But she knew from her reading infinitely more of the ways of
+toiling [[Insects|insects]] than of these toiling men and women.
+
+Something to be worked so much and paid so much, and there ended;
+something to be infallibly settled by laws of supply and demand;
+something that blundered against those laws, and floundered into
+difficulty; something that was a little pinched when wheat was dear, and
+over-ate itself when wheat was cheap; something that increased at such a
+rate of percentage, and yielded such another percentage of crime, and
+such another percentage of pauperism; something wholesale, of which vast
+fortunes were made; something that occasionally [[Rose|rose]] like a sea, and did
+some harm and waste (chiefly to itself), and fell again; this she knew
+the Coketown Hands to be.  But, she had scarcely thought more of
+separating them into units, than of separating the sea itself into its
+component drops.
+
+She stood for some moments looking round the room.  From the few chairs,
+the few books, the common prints, and the bed, she glanced to the two
+women, and to Stephen.
+
+‘I have come to speak to you, in consequence of what passed just now.  I
+should like to be serviceable to you, if you will let me.  Is this your
+wife?’
+
+Rachael raised her eyes, and they sufficiently answered no, and dropped
+again.
+
+‘I remember,’ said Louisa, reddening at her mistake; ‘I recollect, now,
+to have heard your domestic misfortunes spoken of, though I was not
+attending to the particulars at the [[Time|time]].  It was not my meaning to ask a
+question that would give [[Pain|pain]] to any one here.  If I should ask any other
+question that may happen to have that result, give me credit, if you
+please, for being in ignorance how to speak to you as I ought.’
+
+As Stephen had but a little while ago instinctively addressed himself to
+her, so she now instinctively addressed herself to Rachael.  Her manner
+was short and abrupt, yet faltering and timid.
+
+‘He has told you what has passed between himself and my husband?  You
+would be his first resource, I think.’
+
+‘I have heard the end of it, young lady,’ said Rachael.
+
+‘Did I understand, that, being rejected by one employer, he would
+probably be rejected by all?  I thought he said as much?’
+
+‘The chances are very small, young lady—next to nothing—for a man who
+gets a bad name among them.’
+
+‘What shall I understand that you mean by a bad name?’
+
+‘The name of being troublesome.’
+
+‘Then, by the prejudices of his own class, and by the prejudices of the
+other, he is sacrificed alike?  Are the two so deeply separated in this
+town, that there is no place whatever for an honest workman between
+them?’
+
+Rachael shook her head in [[Silence|silence]].
+
+‘He fell into suspicion,’ said Louisa, ‘with his fellow-weavers,
+because—he had made a promise not to be one of them.  I think it must
+have been to you that he made that promise.  Might I ask you why he made
+it?’
+
+Rachael burst into [[Tears|tears]].  ‘I didn’t seek it of him, poor lad.  I prayed
+him to avoid trouble for his own good, little thinking he’d come to it
+through me.  But I know he’d die a hundred deaths, ere ever he’d break
+his word.  I know that of him [[Well|well]].’
+
+Stephen had remained quietly attentive, in his usual thoughtful attitude,
+with his hand at his chin.  He now spoke in a voice rather less steady
+than usual.
+
+‘No one, excepting myseln, can ever know what [[Honour|honour]], an’ what [[Love|love]], an’
+respect, I bear to Rachael, or wi’ what cause.  When I passed that
+promess, I towd her true, she were th’ Angel o’ my life.  ’Twere a solemn
+promess.  ’Tis gone fro’ me, for ever.’
+
+Louisa turned her head to him, and bent it with a deference that was new
+in her.  She looked from him to Rachael, and her features softened.
+‘What will you do?’ she asked him.  And her voice had softened too.
+
+‘Weel, ma’am,’ said Stephen, making the best of it, with a smile; ‘when I
+ha finished off, I mun quit this part, and try another.  Fortnet or
+misfortnet, a man can but try; there’s nowt to be done wi’out tryin’—cept
+laying down and dying.’
+
+‘How will you travel?’
+
+‘Afoot, my kind ledy, afoot.’
+
+Louisa coloured, and a purse appeared in her hand.  The rustling of a
+bank-note was audible, as she unfolded one and laid it on the table.
+
+‘Rachael, will you tell him—for you know how, without offence—that this
+is freely his, to help him on his way?  Will you entreat him to take it?’
+
+‘I canna do that, young lady,’ she answered, turning her head aside.
+‘Bless you for thinking o’ the poor lad wi’ such tenderness.  But ’tis
+for him to know his heart, and what is right according to it.’
+
+Louisa looked, in part incredulous, in part frightened, in part overcome
+with quick sympathy, when this man of so much [[Self|self]]-command, who had been
+so plain and steady through the late interview, lost his composure in a
+moment, and now stood with his hand before his face.  She stretched out
+hers, as if she would have touched him; then checked herself, and
+remained still.
+
+‘Not e’en Rachael,’ said Stephen, when he stood again with his face
+uncovered, ‘could mak sitch a kind offerin, by onny words, kinder.  T’
+show that I’m not a man wi’out reason and gratitude, I’ll tak two pound.
+I’ll borrow ’t for t’ pay ’t back.  ’Twill be the sweetest work as ever I
+ha done, that puts it in my power t’ acknowledge once more my lastin
+thankfulness for this present action.’
+
+She was fain to take up the note again, and to substitute the much
+smaller sum he had named.  He was neither courtly, nor handsome, nor
+picturesque, in any respect; and yet his manner of accepting it, and of
+expressing his thanks without more words, had a grace in it that Lord
+Chesterfield could not have taught his son in a century.
+
+Tom had sat upon the bed, swinging one leg and sucking his walking-stick
+with sufficient unconcern, until the visit had attained this stage.
+Seeing his sister ready to depart, he got up, rather hurriedly, and put
+in a word.
+
+‘Just wait a moment, Loo!  Before we go, I should like to speak to him a
+moment.  Something comes into my head.  If you’ll step out on the stairs,
+Blackpool, I’ll mention it.  Never mind a light, man!’  Tom was
+remarkably impatient of his moving towards the cupboard, to get one.  ‘It
+don’t want a light.’
+
+Stephen followed him out, and Tom closed the room door, and held the lock
+in his hand.
+
+‘I say!’ he whispered.  ‘I think I can do you a good turn.  Don’t ask me
+what it is, because it may not come to anything.  But there’s no harm in
+my trying.’
+
+His breath fell like a flame of [[Fire|fire]] on Stephen’s ear, it was so hot.
+
+‘That was our light porter at the Bank,’ said Tom, ‘who brought you the
+message to-[[Night|night]].  I call him our light porter, because I belong to the
+Bank too.’
+
+Stephen thought, ‘What a hurry he is in!’  He spoke so confusedly.
+
+‘[[Well]]!’ said Tom.  ‘Now look here!  When are you off?’
+
+‘T’ day’s Monday,’ replied Stephen, considering.  ‘Why, sir, Friday or
+Saturday, nigh ’bout.’
+
+‘Friday or Saturday,’ said Tom.  ‘Now look here!  I am not sure that I
+can do you the good turn I want to do you—that’s my sister, you know, in
+your room—but I may be able to, and if I should not be able to, there’s
+no harm done.  So I tell you what.  You’ll know our light porter again?’
+
+‘Yes, sure,’ said Stephen.
+
+‘Very [[Well|well]],’ returned Tom.  ‘When you leave work of a [[Night|night]], between this
+and your going away, just hang about the Bank an hour or so, will you?
+Don’t take on, as if you meant anything, if he should see you hanging
+about there; because I shan’t put him up to speak to you, unless I find I
+can do you the service I want to do you.  In that case he’ll have a note
+or a message for you, but not else.  Now look here!  You are sure you
+understand.’
+
+He had wormed a finger, in the darkness, through a button-hole of
+Stephen’s coat, and was screwing that corner of the garment tight up
+round and round, in an extraordinary manner.
+
+‘I understand, sir,’ said Stephen.
+
+‘Now look here!’ repeated Tom.  ‘Be sure you don’t make any mistake then,
+and don’t forget.  I shall tell my sister as we go [[Home|home]], what I have in
+view, and she’ll approve, I know.  Now look here!  You’re all right, are
+you?  You understand all about it?  Very [[Well|well]] then.  Come along, Loo!’
+
+He pushed the door open as he called to her, but did not return into the
+room, or wait to be lighted down the narrow stairs.  He was at the [[Bottom|bottom]]
+when she began to descend, and was in the street before she could take
+his arm.
+
+Mrs. Pegler remained in her corner until the brother and sister were
+gone, and until Stephen came back with the candle in his hand.  She was
+in a state of inexpressible admiration of Mrs. Bounderby, and, like an
+unaccountable old woman, wept, ‘because she was such a pretty dear.’  Yet
+Mrs. Pegler was so flurried lest the object of her admiration should
+return by chance, or anybody else should come, that her cheerfulness was
+ended for that [[Night|night]].  It was late too, to people who [[Rose|rose]] early and
+worked hard; therefore the party broke up; and Stephen and Rachael
+escorted their mysterious acquaintance to the door of the Travellers’
+Coffee [[house|House]], where they parted from her.
+
+They walked back together to the corner of the street where Rachael
+lived, and as they drew nearer and nearer to it, [[Silence|silence]] crept upon them.
+When they came to the dark corner where their unfrequent meetings always
+ended, they stopped, still silent, as if both were afraid to speak.
+
+‘I shall strive t’ see thee agen, Rachael, afore I go, but if not—’
+
+‘Thou wilt not, Stephen, I know.  ’Tis better that we make up our minds
+to be open wi’ one another.’
+
+‘Thou’rt awlus right.  ’Tis bolder and better.  I ha been thinkin then,
+Rachael, that as ’tis but a day or two that remains, ’twere better for
+thee, my dear, not t’ be seen wi’ me.  ’T might bring thee into trouble,
+fur no good.’
+
+‘’Tis not for that, Stephen, that I mind.  But thou know’st our old
+agreement.  ’Tis for that.’
+
+‘[[Well]], [[Well|well]],’ said he.  ‘’Tis better, onnyways.’
+
+‘Thou’lt write to me, and tell me all that happens, Stephen?’
+
+‘Yes.  What can I say now, but Heaven be wi’ thee, Heaven bless thee,
+Heaven thank thee and reward thee!’
+
+‘May it bless thee, Stephen, too, in all thy wanderings, and send thee
+peace and rest at last!’
+
+‘I towd thee, my dear,’ said [[Stephen Blackpool]]—‘that [[Night|night]]—that I would
+never see or think o’ onnything that angered me, but thou, so much better
+than me, should’st be beside it.  Thou’rt beside it now.  Thou mak’st me
+see it wi’ a better eye.  Bless thee.  Good [[Night|night]].  Good-bye!’
+
+It was but a hurried parting in a common street, yet it was a sacred
+remembrance to these two common people.  Utilitarian economists,
+skeletons of schoolmasters, Commissioners of Fact, genteel and used-up
+infidels, gabblers of many little dog’s-eared creeds, the poor you will
+have always with you.  Cultivate in them, while there is yet [[Time|time]], the
+utmost graces of the fancies and affections, to adorn their lives so much
+in need of ornament; or, in the day of your triumph, when [[Romance|romance]] is
+utterly driven out of their souls, and they and a bare existence stand
+face to face, Reality will take a wolfish turn, and make an end of you.
+
+Stephen worked the next day, and the next, uncheered by a word from any
+one, and shunned in all his comings and goings as before.  At the end of
+the second day, he saw land; at the end of the third, his loom stood
+empty.
+
+He had overstayed his hour in the street outside the Bank, on each of the
+two first evenings; and nothing had happened there, good or bad.  That he
+might not be remiss in his part of the engagement, he resolved to wait
+full two hours, on this third and last [[Night|night]].
+
+There was the lady who had once kept Mr. Bounderby’s [[house]], sitting at
+the first-floor [[Window|window]] as he had seen her before; and there was the light
+porter, sometimes talking with her there, and sometimes looking over the
+blind below which had BANK upon it, and sometimes coming to the door and
+standing on the steps for a breath of air.  When he first came out,
+Stephen thought he might be looking for him, and passed near; but the
+light porter only cast his winking eyes upon him slightly, and said
 nothing.
 
-The orator having refreshed himself, wiped his corrugated forehead from
-left to right several times with his handkerchief folded into a pad, and
-concentrated all his revived forces, in a sneer of great disdain and
-bitterness.
+Two hours were a long stretch of lounging about, after a long day’s
+labour.  Stephen sat upon the step of a door, leaned against a wall under
+an archway, strolled up and down, listened for the church [[Clock|clock]], stopped
+and watched children playing in the street.  Some purpose or other is so
+natural to every one, that a mere loiterer always looks and feels
+remarkable.  When the first hour was out, Stephen even began to have an
+uncomfortable sensation upon him of being for the [[Time|time]] a disreputable
+character.
 
-‘But oh, my friends and brothers!  Oh, men and Englishmen, the
-down-trodden operatives of Coketown!  What shall we say of that man—that
-working-man, that I should find it necessary so to libel the glorious
-name—who, being practically and [[Well|well]] acquainted with the grievances and
-wrongs of you, the injured pith and marrow of this land, and having heard
-you, with a noble and majestic unanimity that will make Tyrants tremble,
-resolve for to subscribe to the funds of the United Aggregate Tribunal,
-and to abide by the injunctions issued by that [[Body|body]] for your benefit,
-whatever they may be—what, I ask you, will you say of that working-man,
-since such I must acknowledge him to be, who, at such a [[Time|time]], deserts his
-post, and sells his [[Flag|flag]]; who, at such a [[Time|time]], turns a traitor and a
-craven and a recreant, who, at such a [[Time|time]], is not ashamed to make to you
-the dastardly and humiliating avowal that he will hold himself aloof, and
-will _not_ be one of those associated in the gallant stand for [[Freedom]]
-and for Right?’
+Then came the lamplighter, and two lengthening lines of light all down
+the long perspective of the street, until they were blended and lost in
+the distance.  Mrs. Sparsit closed the first-floor [[Window|window]], drew down the
+blind, and went up-stairs.  Presently, a light went up-stairs after her,
+passing first the fanlight of the door, and afterwards the two staircase
+windows, on its way up.  By and by, one corner of the second-floor blind
+was disturbed, as if Mrs. Sparsit’s eye were there; also the other
+corner, as if the light porter’s eye were on that side.  Still, no
+communication was made to Stephen.  Much relieved when the two hours were
+at last accomplished, he went away at a quick pace, as a recompense for
+so much loitering.
 
-The assembly was divided at this point.  There were some groans and
-hisses, but the general sense of [[Honour|honour]] was much too strong for the
-condemnation of a man unheard.  ‘Be sure you’re right, Slackbridge!’
-‘Put him up!’  ‘Let’s hear him!’  Such things were said on many sides.
-Finally, one strong voice called out, ‘Is the man heer?  If the man’s
-heer, Slackbridge, let’s hear the man himseln, ’stead o’ yo.’  Which was
-received with a round of applause.
+He had only to take leave of his landlady, and lie down on his temporary
+bed upon the floor; for his bundle was made up for to-morrow, and all was
+arranged for his departure.  He meant to be clear of the town very early;
+before the Hands were in the streets.
 
-Slackbridge, the orator, looked about him with a withering smile; and,
-holding out his right hand at arm’s length (as the manner of all
-Slackbridges is), to still the thundering sea, waited until there was a
-profound [[Silence|silence]].
+It was barely daybreak, when, with a parting look round his room,
+mournfully wondering whether he should ever see it again, he went out.
+The town was as entirely deserted as if the inhabitants had abandoned it,
+rather than hold communication with him.  Everything looked wan at that
+hour.  Even the coming sun made but a pale waste in the sky, like a sad
+sea.
 
-‘Oh, my friends and fellow-men!’ said Slackbridge then, shaking his head
-with violent scorn, ‘I do not [[Wonder|wonder]] that you, the prostrate sons of
-labour, are incredulous of the existence of such a man.  But he who sold
-his birthright for a mess of pottage existed, and Judas Iscariot existed,
-and Castlereagh existed, and this man exists!’
+By the place where Rachael lived, though it was not in his way; by the
+red brick streets; by the great silent factories, not trembling yet; by
+the railway, where the danger-lights were waning in the strengthening
+day; by the railway’s crazy neighbourhood, half pulled down and half
+built up; by scattered red brick villas, where the besmoked evergreens
+were sprinkled with a dirty powder, like untidy snuff-takers; by
+coal-[[Dust|dust]] paths and many varieties of ugliness; Stephen got to the top of
+the [[Hill|hill]], and looked back.
 
-Here, a brief press and confusion near the stage, ended in the man
-himself standing at the orator’s side before the concourse.  He was pale
-and a little moved in the face—his lips especially showed it; but he
-stood quiet, with his left hand at his chin, waiting to be heard.  There
-was a chairman to regulate the proceedings, and this functionary now took
-the case into his own hands.
+Day was shining radiantly upon the town then, and [[The Bells|the bells]] were going
+for the morning work.  Domestic fires were not yet lighted, and the high
+chimneys had the sky to themselves.  Puffing out their poisonous volumes,
+they would not be long in hiding it; but, for half an hour, some of the
+many windows were golden, which showed the Coketown people a sun
+eternally in eclipse, through a medium of smoked glass.
 
-‘My friends,’ said he, ‘by virtue o’ my office as your president, I askes
-o’ our friend Slackbridge, who may be a little over hetter in this
-business, to take his seat, whiles this man [[Stephen Blackpool]] is heern.
-You all know this man [[Stephen Blackpool]].  You know him awlung o’ his
-misfort’ns, and his good name.’
-
-With that, the chairman shook him frankly by the hand, and sat down
-again.  Slackbridge likewise sat down, wiping his hot forehead—always
-from left to right, and never the reverse way.
-
-‘My friends,’ Stephen began, in the midst of a dead calm; ‘I ha’ hed
-what’s been spok’n o’ me, and ’tis lickly that I shan’t mend it.  But I’d
-liefer you’d hearn the [[Truth|truth]] concernin myseln, fro my lips than fro onny
-other man’s, though I never cud’n speak afore so monny, wi’out bein
-moydert and muddled.’
-
-Slackbridge shook his head as if he would shake it off, in his
-bitterness.
-
-‘I’m th’ one single Hand in Bounderby’s mill, o’ a’ the men theer, as
-don’t coom in wi’ th’ proposed reg’lations.  I canna coom in wi’ ’em.  My
-friends, I [[Doubt|doubt]] their doin’ yo onny good.  Licker they’ll do yo hurt.’
-
-Slackbridge laughed, folded his arms, and frowned sarcastically.
-
-‘But ’t an’t sommuch for that as I stands out.  If that were aw, I’d coom
-in wi’ th’ rest.  But I ha’ my reasons—mine, yo see—for being hindered;
-not on’y now, but awlus—awlus—life long!’
-
-Slackbridge jumped up and stood beside him, gnashing and tearing.  ‘Oh,
-my friends, what but this did I tell you?  Oh, my fellow-countrymen, what
-warning but this did I give you?  And how shows this recreant conduct in
-a man on whom unequal laws are known to have fallen heavy?  Oh, you
-Englishmen, I ask you how does this subornation show in one of
-yourselves, who is thus consenting to his own undoing and to yours, and
-to your children’s and your children’s children’s?’
-
-There was some applause, and some crying of Shame upon the man; but the
-greater part of the audience were quiet.  They looked at Stephen’s worn
-face, rendered more pathetic by the homely emotions it evinced; and, in
-the kindness of their [[Nature|nature]], they were more sorry than indignant.
-
-‘’Tis this Delegate’s trade for t’ speak,’ said Stephen, ‘an’ he’s paid
-for ’t, an’ he knows his work.  Let him keep to ’t.  Let him give no heed
-to what I ha had’n to bear.  That’s not for him.  That’s not for nobbody
-but me.’
-
-There was a propriety, not to say a dignity in these words, that made the
-hearers yet more quiet and attentive.  The same strong voice called out,
-‘Slackbridge, let the man be heern, and howd thee tongue!’  Then the
-place was wonderfully still.
-
-‘My brothers,’ said Stephen, whose low voice was distinctly heard, ‘and
-my fellow-workmen—for that yo are to me, though not, as I knows on, to
-this delegate here—I ha but a word to sen, and I could sen nommore if I
-was to speak till Strike o’ day.  I know weel, aw what’s afore me.  I
-know weel that yo aw resolve to ha nommore ado wi’ a man who is not wi’
-yo in this matther.  I know weel that if I was a lyin parisht i’ th’
-[[Road|road]], yo’d feel it right to pass me by, as a forrenner and stranger.
-What I ha getn, I mun mak th’ best on.’
-
-‘[[Stephen Blackpool]],’ said the chairman, rising, ‘think on ’t agen.  Think
-on ’t once agen, lad, afore thou’rt shunned by aw owd friends.’
-
-There was an universal murmur to the same effect, though no man
-articulated a word.  Every eye was fixed on Stephen’s face.  To repent of
-his determination, would be to take a load from all their minds.  He
-looked around him, and knew that it was so.  Not a grain of anger with
-them was in his heart; he knew them, far below their surface weaknesses
-and misconceptions, as no one but their fellow-labourer could.
-
-‘I ha thowt on ’t, above a bit, sir.  I simply canna coom in.  I mun go
-th’ way as lays afore me.  I mun tak my leave o’ aw heer.’
-
-He made a sort of reverence to them by holding up his arms, and stood for
-the moment in that attitude; not speaking until they slowly dropped at
-his sides.
-
-‘Monny’s the pleasant word as soom heer has spok’n wi’ me; monny’s the
-face I see heer, as I first seen when I were yoong and lighter heart’n
-than now.  I ha’ never had no fratch afore, sin ever I were born, wi’ any
-o’ my like; Gonnows I ha’ none now that’s o’ my makin’.  Yo’ll ca’ me
-traitor and that—yo I mean t’ say,’ addressing Slackbridge, ‘but ’tis
-easier to ca’ than mak’ out.  So let be.’
-
-He had moved away a pace or two to come down from the platform, when he
-remembered something he had not said, and returned again.
-
-‘Haply,’ he said, turning his furrowed face slowly about, that he might
-as it were individually address the whole audience, those both near and
-distant; ‘haply, when this question has been tak’n up and discoosed,
-there’ll be a threat to turn out if I’m let to work among yo.  I [[Hope|hope]] I
-shall die ere ever such a [[Time|time]] cooms, and I shall work solitary among yo
-unless it cooms—truly, I mun do ’t, my friends; not to brave yo, but to
-live.  I ha nobbut work to live by; and wheerever can I go, I who ha
-worked sin I were no heighth at aw, in Coketown heer?  I mak’ no
-complaints o’ bein turned to the wa’, o’ bein outcasten and overlooken
-fro this [[Time|time]] forrard, but [[Hope|hope]] I shall be let to work.  If there is any
-right for me at aw, my friends, I think ’tis that.’
-
-Not a word was spoken.  Not a sound was audible in the building, but the
-slight rustle of men moving a little apart, all along the centre of the
-room, to open a means of passing out, to the man with whom they had all
-bound themselves to renounce companionship.  Looking at no one, and going
-his way with a lowly steadiness upon him that asserted nothing and sought
-nothing, Old Stephen, with all his troubles on his head, left the scene.
-
-Then Slackbridge, who had kept his oratorical arm extended during the
-going out, as if he were repressing with infinite solicitude and by a
-wonderful moral power the vehement passions of the multitude, applied
-himself to raising their spirits.  Had not the Roman [[Brutus]], oh, my
-British countrymen, condemned his son to [[Death|death]]; and had not the Spartan
-mothers, oh my soon to be victorious friends, driven their flying
-children on the points of their enemies’ swords?  Then was it not the
-sacred duty of the men of Coketown, with forefathers before them, an
-admiring world in company with them, and a posterity to come after them,
-to hurl out traitors from the tents they had pitched in a sacred and a
-God-like cause?  The winds of heaven answered Yes; and bore Yes, east,
-west, north, and south.  And consequently three cheers for the United
-Aggregate Tribunal!
-
-Slackbridge acted as fugleman, and gave the [[Time|time]].  The multitude of
-doubtful faces (a little [[Conscience|conscience]]-stricken) brightened at the sound,
-and took it up.  Private feeling must yield to the common cause.  Hurrah!
-The roof yet vibrated with the cheering, when the assembly dispersed.
-
-Thus easily did [[Stephen Blackpool]] fall into the loneliest of lives, the
-life of [[Solitude|solitude]] among a familiar crowd.  The stranger in the land who
-looks into ten thousand faces for some answering look and never finds it,
-is in cheering society as compared with him who passes ten averted faces
-daily, that were once the countenances of friends.  Such experience was
-to be Stephen’s now, in every waking moment of his life; at his work, on
-his way to it and from it, at his door, at his [[Window|window]], everywhere.  By
-general consent, they even avoided that side of the street on which he
-habitually walked; and left it, of all the working men, to him only.
-
-He had been for many years, a quiet silent man, associating but little
-with other men, and used to companionship with his own thoughts.  He had
-never known before the strength of the want in his heart for the frequent
-recognition of a nod, a look, a word; or the immense amount of relief
-that had been poured into it by drops through such small means.  It was
-even harder than he could have believed possible, to separate in his own
-[[Conscience|conscience]] his abandonment by all his fellows from a baseless sense of
-shame and disgrace.
-
-The first four days of his [[Endurance|endurance]] were days so long and heavy, that he
-began to be appalled by the prospect before him.  Not only did he see no
-Rachael all the [[Time|time]], but he avoided every chance of seeing her; for,
-although he knew that the prohibition did not yet formally extend to the
-women working in the factories, he found that some of them with whom he
-was acquainted were changed to him, and he feared to try others, and
-dreaded that Rachael might be even singled out from the rest if she were
-seen in his company.  So, he had been quite [[Alone|alone]] during the four days,
-and had spoken to no one, when, as he was leaving his work at [[Night|night]], a
-young man of a very light complexion accosted him in the street.
-
-‘Your name’s Blackpool, ain’t it?’ said the young man.
-
-Stephen coloured to find himself with his hat in his hand, in his
-gratitude for being spoken to, or in the suddenness of it, or both.  He
-made a feint of adjusting the lining, and said, ‘Yes.’
-
-‘You are the Hand they have sent to Coventry, I mean?’ said Bitzer, the
-very light young man in question.
-
-Stephen answered ‘Yes,’ again.
-
-‘I supposed so, from their all appearing to keep away from you.  Mr.
-Bounderby wants to speak to you.  You know his [[house]], don’t you?’
-
-Stephen said ‘Yes,’ again.
-
-‘Then go straight up there, will you?’ said Bitzer.  ‘You’re expected,
-and have only to tell the servant it’s you.  I belong to the Bank; so, if
-you go straight up without me (I was sent to fetch you), you’ll save me a
-walk.’
-
-Stephen, whose way had been in the contrary direction, turned about, and
-betook himself as in duty bound, to the red brick [[Castle|castle]] of the giant
-Bounderby.
+So strange to turn from the chimneys to the [[Birds|birds]].  So strange, to have
+the [[Road|road]]-[[Dust|dust]] on his feet instead of the coal-grit.  So strange to have
+lived to his [[Time|time]] of life, and yet to be beginning like a boy this [[Summer|summer]]
+morning!  With these musings in his mind, and his bundle under his arm,
+Stephen took his attentive face along the high [[Road|road]].  And the trees
+arched over him, whispering that he left a true and loving heart behind.

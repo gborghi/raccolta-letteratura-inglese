@@ -110,7 +110,6 @@ perhaps the lady's pig, which weighs forty stone and seems to be
 something of a domestic problem, might begin to earn its living
 as an [[artist]]'s model.
 
-
 Again, we do not know what fascinating variations might happen
 in the pig if once the pig were a pet.  The dog has been
 domesticated--that is, destroyed.  Nobody now in [[London]] can form

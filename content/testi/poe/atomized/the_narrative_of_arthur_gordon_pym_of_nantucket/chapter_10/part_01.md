@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 11 (part 1)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 11 (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -205,7 +205,3 @@ The gnawing hunger which I now experienced was nearly insupportable,
 and I felt myself capable of going to any lengths in order to appease
 
 it. With my knife I cut off a small portion of the leather trunk, and
-
-endeavoured to eat it, but found it utterly impossible to [[Swallow|swallow]] a
-
-single morsel, although I fancied that some little alleviation of my

@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 2 (part 2)"
+title: "thursday — Chapter 2 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -126,15 +126,3 @@ vacancy in the Council.  The gentleman who has for some [[Time|time]] past playe
 with propriety and general applause, the difficult part of [[thursday|Thursday]],
 has died quite suddenly.  Consequently, we have called a meeting this
 very evening to elect a successor."
-
-He got to his feet and strolled across the room with a sort
-of smiling embarrassment.
-
-"I feel somehow as if you were my mother, Syme," he continued casually.
-"I feel that I can confide anything to you, as you have promised
-to tell nobody.  In fact, I will confide to you something that I
-would not say in so many words to the anarchists who will be coming
-to the room in about ten minutes.  We shall, of course, go through a form
-of election; but I don't mind telling you that it is practically certain
-what the result will be."  He looked down for a moment modestly.
-"It is almost a settled thing that I am to be [[thursday|Thursday]]."

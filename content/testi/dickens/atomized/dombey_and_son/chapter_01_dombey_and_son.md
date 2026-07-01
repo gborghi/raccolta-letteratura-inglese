@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/dombey-and-son-(dickens)">Dombey and Son</a></div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_02_pauls_progress_and_christening">Chapter 02 Pauls Progress and Christening ›</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_02_pauls_second_deprivation">Chapter 02 Pauls Second Deprivation ›</a></div>
 </nav>
 
 

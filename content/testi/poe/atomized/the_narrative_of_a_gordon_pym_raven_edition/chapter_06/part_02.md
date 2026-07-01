@@ -14,6 +14,10 @@ tags:
 </nav>
 
 
+      she is certain to fill in a few seconds and go down. It is not
+
+      too much to say that at least one-half of the instances in which
+
       vessels have foundered in heavy gales at sea may be attributed to
 
       a shifting of cargo or of ballast.
@@ -187,13 +191,3 @@ tags:
       had been carefully fastened to the bulkhead, so that the hole
 
       might not be seen by its swinging to one side. All this [[Time|time]]
-
-      Tiger was lying in the foot of the berth, and appeared to have
-
-      recovered in some measure his faculties, for I could see him
-
-      occasionally open his eyes and draw a long breath.
-
-
-
-      After a few minutes the mate and cook went above, leaving Dirk

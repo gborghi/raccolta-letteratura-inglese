@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 17 (part 3)"
+title: "Bleak House — Chapter 17 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_17/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_17/part_04">part 04 ›</a></div>
 </nav>
 
+
+“That may be,” I suggested, “because you don’t like what you have
+chosen.”
+
+“Poor fellow!” said Ada. “I am sure I don’t [[Wonder|wonder]] at it!”
+
+No. It was not of the least use my trying to look wise. I tried
+again, but how could I do it, or how could it have any effect if I
+could, while Ada rested her clasped hands upon his shoulder and while
+he looked at her tender blue eyes, and while they looked at him!
 
 “You see, my precious girl,” said [[Richard]], passing her golden curls
 through and through his hand, “I was a little hasty perhaps; or I
@@ -123,15 +133,3 @@ shining, and away into the shade; but his glance was changed, and
 even the silent look of confidence in me which now followed it once
 more was not quite so hopeful and untroubled as it had originally
 been.
-
-Ada praised [[Richard]] more to me that [[Night|night]] than ever she had praised
-him yet. She went to [[Sleep|sleep]] with a little bracelet he had given her
-clasped upon her arm. I fancied she was dreaming of him when I kissed
-her cheek after she had slept an hour and saw how tranquil and happy
-she looked.
-
-For I was so little inclined to [[Sleep|sleep]] myself that [[Night|night]] that I sat up
-working. It would not be worth mentioning for its own sake, but I was
-wakeful and rather low-spirited. I don’t know why. At least I don’t
-think I know why. At least, perhaps I do, but I don’t think it
-matters.

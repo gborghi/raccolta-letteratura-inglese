@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 41 (part 1)"
+title: "Barnaby Rudge — Chapter 41 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -128,7 +128,3 @@ houses be sacked by a foreign army, or to turn out like men and drive
 ‘em off? Shouldn’t I be a nice sort of a Christian, if I crept into
 a corner of my own chimney and looked on while a parcel of whiskered
 savages bore off Dolly--or you?’
-
-When he said ‘or you,’ Mrs Varden, despite herself, relaxed into a
-smile. There was something complimentary in the idea. ‘In such a state
-of things as that, indeed--’ she simpered.

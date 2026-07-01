@@ -71,7 +71,7 @@ difference remained in spite of her sophistries and
 ambitions; that her elemental communications were
 not cut, and his were.  For her the sunrise was still
 the rising of a sun, and not the turning on of a light
-by a convenient cosmic servant.  For her the [[Spring]]
+by a convenient cosmic servant.  For her the [[spring|Spring]]
 was really the Season in the country, and not merely
 the Season in town.  For her cocks and hens were
 natural appendages to an English [[house]]; and not (as

@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 11 (part 1)"
+title: "Persuasion — Chapter 11 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -205,9 +205,3 @@ for watching the flow of the tide, for sitting in unwearied
 contemplation; the woody varieties of the cheerful village of Up Lyme;
 
 and, above all, Pinny, with its green chasms between romantic rocks,
-
-where the scattered forest trees and orchards of luxuriant growth,
-
-declare that many a generation must have passed away since the first
-
-partial falling of the cliff prepared the ground for such a state,

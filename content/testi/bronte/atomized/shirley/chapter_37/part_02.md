@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 37 (part 2)"
+title: "Shirley — Chapter 37 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,8 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_37/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_37/part_03">part 03 ›</a></div>
 </nav>
 
+
+once decorous and exciting--a [[Dance|dance]] of law and gospel, of the dungeon,
 
 the dock, and the "dead-thraw." You might have liked it, reader, but _I_
 
@@ -56,7 +58,7 @@ Moore, and Robert gave his wretched widow a guinea to bury him.
 
 
 
-The [[Winter|winter]] is over and gone; [[spring]] has followed with beamy and shadowy,
+The [[Winter|winter]] is over and gone; [[Spring|spring]] has followed with beamy and shadowy,
 
 with flowery and showery flight. We are now in the heart of [[Summer|summer]]--in
 
@@ -205,17 +207,3 @@ trading triumph, and went, attired in her neatest muslin, to spend the
 afternoon at Fieldhead, there to superintend certain millinery
 
 preparations for a great event, the last appeal in these matters being
-
-reserved for her unimpeachable taste. She decided on the wreath, the
-
-veil, the dress to be worn at the altar. She chose various robes and
-
-fashions for more ordinary occasions, without much reference to the
-
-bride's opinion--that lady, indeed, being in a somewhat impracticable
-
-mood.
-
-
-
-Louis had presaged difficulties, and he had found them--in fact, his

@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 26: I FALL INTO CAPTIVITY"
+title: "David Copperfield — Chapter 26: I FALL INTO CAPTIVITY"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/david-copperfield-(dickens)"

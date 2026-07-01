@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 59: RETURN (part 2)"
+title: "David Copperfield — Chapter 59: RETURN (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_59_return/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_59_return/part_03">part 03 ›</a></div>
 </nav>
 
+
+Being very anxious to see the dear old fellow, nevertheless, I
+dispatched my dinner, in a manner not at all calculated to raise me in
+the opinion of the chief waiter, and hurried out by the back way. Number
+two in the [[Court]] was soon reached; and an [[Inscription|inscription]] on the door-post
+informing me that Mr. Traddles occupied a set of chambers on the top
+storey, I ascended the staircase. A crazy old staircase I found it to
+be, feebly lighted on each landing by a club-headed little oil wick,
+dying away in a little dungeon of dirty glass.
 
 In the course of my stumbling upstairs, I fancied I heard a pleasant
 sound of laughter; and not the laughter of an attorney or barrister, or
@@ -146,15 +155,3 @@ ever was, the dearest girl!--and it gratifies me beyond expression
 to find them in such good spirits. The society of girls is a very
 delightful thing, Copperfield. It’s not professional, but it’s very
 delightful.’
-
-Observing that he slightly faltered, and comprehending that in the
-goodness of his heart he was fearful of giving me some [[Pain|pain]] by what he
-had said, I expressed my concurrence with a heartiness that evidently
-relieved and pleased him greatly.
-
-‘But then,’ said Traddles, ‘our domestic arrangements are, to say
-the [[Truth|truth]], quite unprofessional altogether, my dear Copperfield. Even
-Sophy’s being here, is unprofessional. And we have no other place of
-abode. We have put to sea in a cockboat, but we are quite prepared to
-rough it. And Sophy’s an extraordinary manager! You’ll be surprised how
-those girls are stowed away. I am sure I hardly know how it’s done!’

@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 81 (part 1)"
+title: "Barnaby Rudge — Chapter 81 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -119,12 +119,3 @@ the point where the footway struck across the fields, and to await his
 return at a [[house]] of entertainment which was within a stone’s-throw of
 that place. Arriving there in due course, he alighted and pursued his
 way on foot.
-
-He passed so near the Maypole, that he could see its smoke rising from
-among the trees, while a flock of pigeons--some of its old inhabitants,
-doubtless--sailed gaily [[Home|home]] to roost, between him and the unclouded
-sky. ‘The old [[house]] will brighten up now,’ he said, as he looked towards
-it, ‘and there will be a merry fireside beneath its ivied roof. It is
-some comfort to know that everything will not be blighted hereabouts. I
-shall be glad to have one picture of life and cheerfulness to turn to,
-in my mind!’

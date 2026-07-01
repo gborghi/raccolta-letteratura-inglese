@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 34 (part 3)"
+title: "Shirley — Chapter 34 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_34/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_35/part_01">part 01 ›</a></div>
 </nav>
 
+
+"Mamma was very much concerned about me; but I am afraid I was
+
+obstinate. I _would_ go."
+
+
+
+"To see me?"
+
+
+
+"Exactly; I thought of nothing else. I greatly feared the [[Snow|snow]] would
+
+hinder you from coming. You don't know how pleased I was to see you all
 
 by yourself in the pew."
 

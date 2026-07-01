@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 5 (part 1)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 5 (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -193,5 +193,3 @@ circumstances, and there could be no certainty of his getting to me
 himself on the morrow as he intended. After events proved how fortunate
 
 it was that the idea occurred to him as it did: for, had it not been
-
-for the receipt of the note, I should undoubtedly have fallen upon some

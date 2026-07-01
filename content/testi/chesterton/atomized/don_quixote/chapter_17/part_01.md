@@ -1,5 +1,5 @@
 ---
-title: "[[Don Quixote]] — Chapter 16 (part 1)"
+title: "Don Quixote — Chapter 16 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/don-quixote-(chesterton)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_16/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_17/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_16/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_17/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -134,10 +134,3 @@ was a Strong Man in England."
 
 "I once saw a Strong Man at Olympia," said Murrel reminiscently.
 "I believe people often apologised to him."
-
-"You know what I mean," answered the other good-humouredly. "A statesman.
-A man who knows his own mind."
-
-"[[Well]], I suppose a madman knows his own mind," answered Murrel.
-"I rather fancy a statesman ought to know a little about
-other people's minds."

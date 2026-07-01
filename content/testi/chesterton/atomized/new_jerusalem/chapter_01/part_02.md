@@ -122,9 +122,9 @@ The ninth century, the [[Time|time]] of the Norse invasions, was not saintly
 in the sense of being filled with saints; it was filled with pirates
 and petty tyrants, and the first feudal anarchy.  But sanctity
 was the only ideal those barbarians had, when they had any at all.
-And [[Democracy|democracy]] is the only ideal the industrial millions have,
+And [[democracy]] is the only ideal the industrial millions have,
 when they have any at all.  Sanctity was the light of the Dark Ages,
-or if you will the dream of the Dark Ages.  And [[Democracy|democracy]] is the dream
+or if you will the dream of the Dark Ages.  And [[democracy]] is the dream
 of the dark age of industrialism; if it be very much of [[A Dream|a dream]].
 It is this which prophets promise to achieve, and politicians pretend
 to achieve, and poets sometimes [[Desire|desire]] to achieve, and sometimes

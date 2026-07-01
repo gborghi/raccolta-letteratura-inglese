@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 24: MY FIRST DISSIPATION (part 2)"
+title: "David Copperfield — Chapter 24: MY FIRST DISSIPATION (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -118,12 +118,3 @@ tomorrow, and the day after--each day at five o’[[Clock|clock]], that we might
 enjoy the pleasures of conversation and society through a long evening.
 I felt called upon to propose an individual. I would give them my aunt.
 Miss [[Betsey Trotwood]], the best of her sex!
-
-Somebody was leaning out of my bedroom [[Window|window]], refreshing his forehead
-against the cool stone of the parapet, and feeling the air upon his
-face. It was myself. I was addressing myself as ‘Copperfield’, and
-saying, ‘Why did you try to smoke? You might have known you couldn’t
-do it.’ Now, somebody was unsteadily contemplating his features in the
-looking-glass. That was I too. I was very pale in the looking-glass;
-my eyes had a vacant appearance; and my hair--only my hair, nothing
-else--looked drunk.

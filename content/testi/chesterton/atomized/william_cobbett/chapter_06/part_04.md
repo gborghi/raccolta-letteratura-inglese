@@ -59,15 +59,15 @@ servile may possibly have a fortune by favouritism.
 But by no possibility could he save enough out of common wages to buy
 a farm, still less a shop in the town where land is priceless;
 and those are the sort of things for which men save.
-But it is the paradox of the whole position that the Utilitarians
+But it is the [[Paradox|paradox]] of the whole position that the Utilitarians
 who were always preaching prudence committed this country
-to one of the most really reckless revolutions in history--
-the industrial revolution.  They destroyed agriculture and turned
+to one of the most really reckless revolutions in [[history]]--
+the [[Industrial Revolution|industrial revolution]].  They destroyed agriculture and turned
 England into a workshop; a workshop in which the workers were liable
 at any moment to be locked up and left to eat hammers and saws.
 The Radicals who did that were as picturesque as pirates, so far
 as pirates become specially picturesque when they burn their boats.
-In truth they were not so much metaphorically burning their boats:
+In [[Truth|truth]] they were not so much metaphorically burning their boats:
 they were almost literally burning their barns.  But there is
 something fitting in the accident by which the term Free Trader
 used to mean a smuggler.  If romantic recklessness be the test,
@@ -90,15 +90,15 @@ of the economist were balanced.  He saw that even when
 the economists were right in recommending economy, they were
 recommending it to people who could not possibly be economical.
 He saw that the economists were not even creating their own
-monster of an Economic Man; they were creating nothing
+[[Monster|monster]] of an Economic Man; they were creating nothing
 but the thriftless thousands of a wandering proletariat.
-As for the ordinary Whigs and champions of Reform, he did
+As for the ordinary Whigs and champions of [[Reform]], he did
 not believe they were even trying to create anything except
 salaries and sinecures for themselves.
 
 Then again, his coarseness is not only touched by shrewdness
 but by tenderness; of a sort much too shrewd to be sentimental.
-His charity was not cheap.  To say that he had a sense of human equality
+His [[Charity|charity]] was not cheap.  To say that he had a sense of human equality
 will convey little to those who can make no sense of that sense.
 Perhaps it would be more intelligible to say that there are some
 who sympathise with the poor from the outside and some who can
@@ -118,23 +118,23 @@ and therefore to his reader.  There is an excellent illustration
 of his quieter method in one passage in the Rural Rides.
 He describes, in that plain and almost naked narrative style that seems
 to lie like strong morning daylight upon every detail of the day,
-how he started out riding with his son at [[Dawn|dawn]]; how some hitch
+how he started out riding with his son at dawn; how some hitch
 occurred about the inn at which he had intended to breakfast,
-and he rode on hoping to reach another hostelry in reasonable [[Time|time]];
+and he rode on hoping to reach another hostelry in reasonable time;
 how other hitches occurred which annoyed him, making him scold
 the boy for some small blunders about the strapping of a bag;
-and how he awoke at last to a sort of [[Wonder|wonder]] as to why
-he should be so irritable with a [[Child|child]] whom he loved so much.
+and how he awoke at last to a sort of wonder as to why
+he should be so irritable with a child whom he loved so much.
 And then it dawned upon him that it was for the very simple
 reason that he had had no breakfast.  He, who had fed
-[[Well|well]] the [[Night|night]] before and intended to feed [[Well|well]] again,
-who was [[Well|well]] clothed and [[Well|well]] mounted, could not deny that
+well the night before and intended to feed well again,
+who was well clothed and well mounted, could not deny that
 a good appetite might gradually turn into a bad temper.
 And then, with one of his dramatic turns or gestures, he suddenly
-summons up before us all the army of Englishmen who had no [[Hope|hope]]
+summons up before us all the army of Englishmen who had no hope
 of having any breakfast until they could somehow beg work from
 hard or indifferent men; who wandered about the world in a normal
-state of hunger and anger and blank [[Despair|despair]] about the future;
+state of hunger and anger and blank despair about the future;
 who were exposed to every insult and impotent under every wrong;
 and who were expected by the politicians and the papers to be
 perfectly mild and moderate in their language, perfectly loyal

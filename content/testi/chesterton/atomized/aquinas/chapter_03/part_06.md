@@ -1,5 +1,5 @@
 ---
-title: "[[aquinas]] — Chapter 3 (part 6)"
+title: "aquinas — Chapter 3 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/aquinas-(chesterton)"
@@ -50,7 +50,7 @@ But it is probably true to say that the fact, that a man like [[aquinas|Aquinas]
 had managed even partially to satisfy a man like Tempier, was the end
 of the essential quarrel.  What was already familiar to the few
 became familiar to the many; that an Aristotelian could really
-be a Christian.  Another fact assisted in the common [[Conversion|conversion]].
+be a Christian.  Another fact assisted in the common [[conversion]].
 It rather curiously resembles the story of the [[Translation|translation]]
 of the [[Bible]]; and the alleged Catholic suppression of the [[Bible]].
 Behind the scenes, where the Pope was much more tolerant than the

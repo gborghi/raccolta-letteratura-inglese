@@ -1,5 +1,5 @@
 ---
-title: "The Haunted Man and the [[Ghost]]'s Bargain — Chapter 3 (part 3)"
+title: "The Haunted Man and the Ghost's Bargain — Chapter 3 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-haunted-man-and-the-ghost's-bargain-(dickens)"
@@ -144,7 +144,3 @@ never saw such a change in a man. Ah! dear me, dear me, dear me, it was
 a sacrifice!”
 
 “What was a sacrifice?” her husband sourly inquired.
-
-Mrs. Tetterby shook her head; and without replying in words, raised a
-complete sea-[[Storm|storm]] about the baby, by her violent agitation of the
-cradle.

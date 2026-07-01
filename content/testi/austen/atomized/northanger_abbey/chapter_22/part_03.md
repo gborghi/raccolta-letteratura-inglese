@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 21 (part 3)"
+title: "Northanger Abbey — Chapter 21 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_22/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_23/part_01">part 01 ›</a></div>
 </nav>
 
+
+breathless [[Wonder|wonder]]. The [[Wind|wind]] roared down the chimney, the rain beat in
+
+torrents against the windows, and everything seemed to speak the
+
+awfulness of her situation. To retire to bed, however, unsatisfied on
+
+such a point, would be vain, since [[Sleep|sleep]] must be impossible with the
 
 consciousness of a cabinet so mysteriously closed in her immediate
 

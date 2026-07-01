@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 20 (part 1)"
+title: "Shirley — Chapter 20 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -120,7 +120,7 @@ precedes the rise of day--that turn of the year when the icy January
 
 [[Wind|wind]] carries over the waste at once the [[Dirge|dirge]] of departing [[Winter|winter]] and
 
-the prophecy of coming [[spring]]. The perishing [[Birds|birds]], however, cannot thus
+the prophecy of coming [[Spring|spring]]. The perishing [[Birds|birds]], however, cannot thus
 
 understand the blast before which they shiver; and as little can the
 
@@ -207,17 +207,3 @@ bonnet there. If I spoke all I think on this point, if I gave my real
 opinion of some first-rate female characters in first-rate works, where
 
 should I be? Dead under a cairn of avenging stones in half an hour."
-
-
-
-"[[Shirley]], you chatter so, I can't fasten you. Be still. And, after all,
-
-authors' heroines are almost as good as authoresses' heroes."
-
-
-
-"Not at all. Women read men more truly than men read women. I'll prove
-
-that in a magazine paper some day when I've [[Time|time]]; only it will never be
-
-inserted. It will be 'declined with thanks,' and left for me at the

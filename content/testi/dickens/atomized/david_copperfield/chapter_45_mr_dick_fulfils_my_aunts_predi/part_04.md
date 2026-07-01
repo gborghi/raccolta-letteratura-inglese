@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 45: MR. DICK FULFILS MY AUNT’S PREDICTIONS (part 4)"
+title: "David Copperfield — Chapter 45: MR. DICK FULFILS MY AUNT’S PREDICTIONS (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_45_mr_dick_fulfils_my_aunts_predi/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_45_mr_dick_fulfils_my_aunts_predi/part_05">part 05 ›</a></div>
 </nav>
 
+
+Mrs. Markleham, by this [[Time|time]] recovering the power of speech, and seeming
+to swell with family [[Pride|pride]] and motherly indignation, here exclaimed,
+‘Annie, get up immediately, and don’t disgrace everybody belonging to
+you by humbling yourself like that, unless you wish to see me go out of
+my mind on the spot!’
 
 ‘Mama!’ returned Annie. ‘Waste no words on me, for my appeal is to my
 husband, and even you are nothing here.’
@@ -133,11 +139,3 @@ character in which I had so long looked up to him, I think I was sorry.
 But nothing could have made him what he used to be again; and I was
 proud that he should think me so worthy, and we were married.’ ‘--At
 Saint Alphage, Canterbury,’ observed Mrs. Markleham.
-
-(‘Confound the woman!’ said my aunt, ‘she WON’T be quiet!’)
-
-‘I never thought,’ proceeded Annie, with a heightened colour, ‘of any
-worldly gain that my husband would bring to me. My young heart had no
-room in its homage for any such poor reference. Mama, forgive me when
-I say that it was you who first presented to my mind the thought that
-anyone could wrong me, and wrong him, by such a cruel suspicion.’

@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 34 (part 1)"
+title: "Sense and Sensibility — Chapter 34 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -221,9 +221,3 @@ that they all followed the servant at the same [[Time|time]]:—“there is nobo
 here but you, that can feel for me. I declare I can hardly stand. Good
 
 gracious! In a moment I shall see the person that all my happiness
-
-depends on—that is to be my mother!”
-
-
-
-Elinor could have given her immediate relief by suggesting the

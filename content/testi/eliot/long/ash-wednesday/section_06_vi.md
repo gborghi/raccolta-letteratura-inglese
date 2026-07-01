@@ -1,5 +1,5 @@
 ---
-title: "VI Although I do not [[Hope|hope]] to turn again"
+title: "VI Although I do not hope to turn again"
 author: "Eliot"
 unitType: section
 tags:

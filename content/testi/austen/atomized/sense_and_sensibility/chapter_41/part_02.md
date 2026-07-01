@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 41 (part 2)"
+title: "Sense and Sensibility — Chapter 41 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_41/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_41/part_03">part 03 ›</a></div>
 </nav>
 
+
+supposed that Mrs. Ferrars can have the smallest satisfaction in
+
+knowing that her son has money enough to live upon, for _that_ must be
+
+quite out of the question; yet why, upon her late behaviour, is she
 
 supposed to feel at all? She has done with her son,—she cast him off
 
@@ -221,13 +227,3 @@ Edward! he is ruined for ever. I am extremely sorry for it; for I know
 him to be a very good-hearted creature; as [[Well|well]]-meaning a fellow
 
 perhaps, as any in the world. You must not judge of him, Miss Dashwood,
-
-from _your_ slight acquaintance. Poor Edward! His manners are certainly
-
-not the happiest in [[Nature|nature]]. But we are not all born, you know, with the
-
-same powers,—the same address. Poor fellow! to see him in a circle of
-
-strangers! To be sure it was pitiable enough; but upon my [[Soul|soul]], I
-
-believe he has as good a heart as any in the kingdom; and I declare and

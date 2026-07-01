@@ -16,10 +16,7 @@ tags:
 
 Chapter VIII
 
-
-
 THE [[Mirror|MIRROR]] OF [[Christ|CHRIST]]
-
 
 No man who has been given the [[Freedom|freedom]] of the [[Faith]] is likely
 to fall into those hole-and corner extravagances in which later

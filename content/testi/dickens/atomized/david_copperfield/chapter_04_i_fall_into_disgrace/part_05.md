@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 4: I FALL INTO DISGRACE (part 5)"
+title: "David Copperfield — Chapter 4: I FALL INTO DISGRACE (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,49 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_04_i_fall_into_disgrace/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_04_i_fall_into_disgrace/part_06">part 06 ›</a></div>
 </nav>
 
+
+There is a pile of these arrears very soon, and it swells like a [[rolling]]
+snowball. The bigger it gets, the more stupid I get. The case is so
+hopeless, and I feel that I am wallowing in such a bog of nonsense, that
+I give up all idea of getting out, and abandon myself to my fate. The
+despairing way in which my mother and I look at each other, as I blunder
+on, is truly [[Melancholy|melancholy]]. But the greatest effect in these miserable
+lessons is when my mother (thinking nobody is observing her) tries
+to give me the cue by the motion of her lips. At that instant, Miss
+Murdstone, who has been lying in wait for nothing else all along, says
+in a deep warning voice:
+
+‘Clara!’
+
+My mother starts, colours, and smiles faintly. Mr. Murdstone comes out
+of his chair, takes the book, throws it at me or boxes my ears with it,
+and turns me out of the room by the shoulders.
+
+Even when the lessons are done, the worst is yet to happen, in the shape
+of an appalling sum. This is invented for me, and delivered to me orally
+by Mr. Murdstone, and begins, ‘If I go into a cheesemonger’s shop, and
+buy five thousand [[Double|double]]-[[Gloucester]] cheeses at fourpence-halfpenny each,
+present payment’--at which I see Miss Murdstone secretly overjoyed.
+I pore over these cheeses without any result or enlightenment until
+dinner-[[Time|time]], when, having made a Mulatto of myself by getting the dirt
+of the slate into the pores of my skin, I have a slice of bread to help
+me out with the cheeses, and am considered in disgrace for the rest of
+the evening.
+
+It seems to me, at this distance of [[Time|time]], as if my unfortunate studies
+generally took this course. I could have done very [[Well|well]] if I had been
+without the Murdstones; but the influence of the Murdstones upon me was
+like the fascination of two snakes on a wretched young bird. Even when
+I did get through the morning with tolerable credit, there was not
+much gained but dinner; for Miss Murdstone never could endure to see me
+untasked, and if I rashly made any show of being unemployed, called her
+brother’s attention to me by saying, ‘Clara, my dear, there’s nothing
+like work--give your boy an exercise’; which caused me to be clapped
+down to some new labour, there and then. As to any recreation with other
+children of my age, I had very little of that; for the gloomy theology
+of the Murdstones made all children out to be a swarm of little vipers
+(though there WAS a [[Child|child]] once set in the midst of the Disciples), and
+held that they contaminated one another.
 
 The natural result of this treatment, continued, I suppose, for some six
 months or more, was to make me sullen, dull, and dogged. I was not
@@ -72,66 +115,3 @@ air.
 myself.’
 
 ‘To be sure; of course,’ said Miss Murdstone.
-
-‘Certainly, my dear Jane,’ faltered my mother, meekly. ‘But--but do you
-think it did Edward good?’
-
-‘Do you think it did Edward harm, Clara?’ asked Mr. Murdstone, gravely.
-
-‘That’s the point,’ said his sister.
-
-To this my mother returned, ‘Certainly, my dear Jane,’ and said no more.
-
-I felt apprehensive that I was personally interested in this dialogue,
-and sought Mr. Murdstone’s eye as it lighted on mine.
-
-‘Now, David,’ he said--and I saw that cast again as he said it--‘you
-must be far more careful today than usual.’ He gave the cane another
-poise, and another switch; and having finished his preparation of it,
-laid it down beside him, with an impressive look, and took up his book.
-
-This was a good freshener to my presence of mind, as a beginning. I felt
-the words of my lessons slipping off, not one by one, or line by line,
-but by the entire page; I tried to lay hold of them; but they seemed,
-if I may so express it, to have put skates on, and to skim away from me
-with a smoothness there was no checking.
-
-We began badly, and went on worse. I had come in with an idea of
-distinguishing myself rather, conceiving that I was very [[Well|well]] prepared;
-but it turned out to be quite a mistake. Book after book was added to
-the heap of failures, Miss Murdstone being firmly watchful of us all the
-[[Time|time]]. And when we came at last to the five thousand cheeses (canes he
-made it that day, I remember), my mother burst out crying.
-
-‘Clara!’ said Miss Murdstone, in her warning voice.
-
-‘I am not quite [[Well|well]], my dear Jane, I think,’ said my mother.
-
-I saw him wink, solemnly, at his sister, as he [[Rose|rose]] and said, taking up
-the cane:
-
-‘Why, Jane, we can hardly expect Clara to bear, with perfect firmness,
-the worry and torment that David has occasioned her today. That would be
-stoical. Clara is greatly strengthened and improved, but we can hardly
-expect so much from her. David, you and I will go upstairs, boy.’
-
-As he took me out at the door, my mother ran towards us. Miss Murdstone
-said, ‘Clara! are you a perfect [[Fool|fool]]?’ and interfered. I saw my mother
-stop her ears then, and I heard her crying.
-
-He walked me up to my room slowly and gravely--I am certain he had a
-delight in that formal parade of executing justice--and when we got
-there, suddenly twisted my head under his arm.
-
-‘Mr. Murdstone! Sir!’ I cried to him. ‘Don’t! Pray don’t beat me! I have
-tried to learn, sir, but I can’t learn while you and Miss Murdstone are
-by. I can’t indeed!’
-
-‘Can’t you, indeed, David?’ he said. ‘We’ll try that.’
-
-He had my head as in a vice, but I twined round him somehow, and stopped
-him for a moment, entreating him not to beat me. It was only a moment
-that I stopped him, for he cut me heavily an instant afterwards, and in
-the same instant I caught the hand with which he held me in my mouth,
-between my teeth, and bit it through. It sets my teeth on edge to think
-of it.

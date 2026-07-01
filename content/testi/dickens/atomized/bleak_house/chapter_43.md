@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 43"
+title: "Bleak House — Chapter 43"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/bleak-house-(dickens)"
@@ -526,7 +526,7 @@ objects for the admiration and pleasure of us poor men; and not to
 reap all the admiration and pleasure that they yield is to be
 ungrateful to our benefactors.”
 
-Sir Leicester seemed to approve of this sentiment highly. “An [[artist]],
+Sir Leicester seemed to approve of this sentiment highly. “An [[Artist|artist]],
 sir?”
 
 “No,” returned Mr. Skimpole. “A perfectly idle man. A mere amateur.”

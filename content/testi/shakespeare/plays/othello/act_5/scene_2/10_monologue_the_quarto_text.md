@@ -1,5 +1,5 @@
 ---
-title: "[[Othello]] — Act V, Scene 2 — monologue (THE QUARTO TEXT) [10]"
+title: "Othello — Act V, Scene 2 — monologue (THE QUARTO TEXT) [10]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/othello-(shakespeare)"

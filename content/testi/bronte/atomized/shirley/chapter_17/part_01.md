@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 17 (part 1)"
+title: "Shirley — Chapter 17 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -257,11 +257,3 @@ pressed back, and at last forced to turn tail and leave the outlet from
 Royd Lane free. Boultby suffered in the onslaught, but Helstone and
 
 Malone, between them, held him up, and brought him through the business,
-
-whole in limb, though sorely tried in [[Wind|wind]].
-
-
-
-The fat Dissenter who had given out the [[Hymn|hymn]] was left sitting in the
-
-ditch. He was a spirit merchant by trade, a leader of the

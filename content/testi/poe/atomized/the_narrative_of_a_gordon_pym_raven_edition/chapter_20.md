@@ -392,7 +392,7 @@ CHAPTER 20
 
 
 
-      We had passed the [[Spring|spring]] and rivulet of which I before spoke, and
+      We had passed the [[spring]] and rivulet of which I before spoke, and
 
       were now entering upon a narrow gorge leading through the chain
 

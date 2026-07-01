@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 36: ENTHUSIASM (part 4)"
+title: "David Copperfield — Chapter 36: ENTHUSIASM (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_36_enthusiasm/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_36_enthusiasm/part_05">part 05 ›</a></div>
 </nav>
 
+
+Traddles looked astonished, as he [[Well|well]] might; but he had no notion as
+yet of my rapturous condition.
+
+‘I’ll buy a book,’ said I, ‘with a good scheme of this art in it; I’ll
+work at it at the Commons, where I haven’t half enough to do; I’ll take
+down the speeches in our [[Court|court]] for practice--Traddles, my dear fellow,
+I’ll master it!’
+
+‘Dear me,’ said Traddles, opening his eyes, ‘I had no idea you were such
+a determined character, Copperfield!’
+
+I don’t know how he should have had, for it was new enough to me. I
+passed that off, and brought Mr. Dick on the carpet.
 
 ‘You see,’ said Mr. Dick, wistfully, ‘if I could exert myself, Mr.
 Traddles--if I could beat a drum--or blow anything!’
@@ -125,14 +139,3 @@ that the invitation referred to the evening then wearing away, I
 expressed my readiness to do [[Honour|honour]] to it; and we went off together to
 the lodging which Mr. Micawber occupied as Mr. Mortimer, and which was
 situated near the top of the Gray’s Inn [[Road]].
-
-The resources of this lodging were so limited, that we found the twins,
-now some eight or nine years old, reposing in a turn-up bedstead in
-the family sitting-room, where Mr. Micawber had prepared, in a
-wash-hand-stand jug, what he called ‘a Brew’ of the agreeable beverage
-for which he was famous. I had the pleasure, on this occasion, of
-renewing the acquaintance of Master Micawber, whom I found a promising
-boy of about twelve or thirteen, very subject to that restlessness of
-limb which is not an unfrequent phenomenon in youths of his age. I also
-became once more known to his sister, Miss Micawber, in whom, as Mr.
-Micawber told us, ‘her mother renewed her youth, like the Phoenix’.

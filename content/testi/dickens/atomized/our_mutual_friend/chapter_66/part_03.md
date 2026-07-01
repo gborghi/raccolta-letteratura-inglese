@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 7 (part 3)"
+title: "Our Mutual Friend — Chapter 11 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,130 +14,134 @@ tags:
 </nav>
 
 
-The miserable man whom he had released for the [[Time|time]], but not for long,
-went on towards [[London]]. Bradley was suspicious of every sound he heard,
-and of every face he saw, but was under a spell which very commonly
-falls upon the shedder of [[Blood|blood]], and had no suspicion of the real danger
-that lurked in his life, and would have it yet. Riderhood was much
-in his thoughts—had never been out of his thoughts since the
-[[Night|night]]-adventure of their first meeting; but Riderhood occupied a very
-different place there, from the place of pursuer; and Bradley had been
-at the pains of devising so many means of fitting that place to him, and
-of wedging him into it, that his mind could not compass the possibility
-of his occupying any other. And this is another spell against which
-the shedder of [[Blood|blood]] for ever strives in vain. There are fifty doors by
-which discovery may enter. With infinite pains and cunning, he [[Double|double]]
-locks and bars forty-nine of them, and cannot see the fiftieth standing
-wide open.
+‘Detained at the last moment by one who had a claim upon me,’ was the
+Reverend Frank’s apology to Lightwood, taking no thought of himself.
+To which Mrs Milvey added, taking thought for him, like the championing
+little wife she was; ‘Oh yes, detained at the last moment. But AS to
+the claim, Frank, I MUST say that I DO think you are OVER-considerate
+sometimes, and allow THAT to be a LITTLE abused.’
 
-Now, too, was he cursed with a state of mind more wearing and more
-wearisome than remorse. He had no remorse; but the evildoer who can hold
-that [[Avenger|avenger]] at bay, cannot escape the slower torture of incessantly
-doing the evil deed again and doing it more efficiently. In the
-defensive declarations and pretended confessions of murderers, the
-pursuing [[Shadow|shadow]] of this torture may be traced through every lie they
-tell. If I had done it as alleged, is it conceivable that I would have
-made this and this mistake? If I had done it as alleged, should I have
-left that unguarded place which that false and wicked witness against me
-so infamously deposed to? The state of that wretch who continually finds
-the weak spots in his own crime, and strives to strengthen them when
-it is unchangeable, is a state that aggravates the offence by doing
-the deed a thousand times instead of once; but it is a state, too, that
-tauntingly visits the offence upon a sullen unrepentant [[Nature|nature]] with its
-heaviest punishment every [[Time|time]].
+Bella felt conscious, in spite of her late pledge for herself, that her
+husband’s absence would give disagreeable occasion for surprise to the
+Milveys. Nor could she appear quite at her ease when Mrs Milvey asked:
 
-Bradley toiled on, chained heavily to the idea of his hatred and his
-vengeance, and thinking how he might have satiated both in many better
-ways than the way he had taken. The instrument might have been better,
-the spot and the hour might have been better chosen. To batter a man
-down from behind in the dark, on the brink of a [[River|river]], was [[Well|well]] enough,
-but he ought to have been instantly disabled, whereas he had turned and
-seized his assailant; and so, to end it before chance-help came, and
-to be rid of him, he had been hurriedly thrown backward into the [[River|river]]
-before the life was fully beaten out of him. Now if it could be done
-again, it must not be so done. Supposing his head had been held down
-under [[Water|water]] for a while. Supposing the first blow had been truer.
-Supposing he had been shot. Supposing he had been strangled. Suppose
-this way, that way, the other way. Suppose anything but getting
-unchained from the one idea, for that was inexorably impossible.
+‘HOW is Mr Rokesmith, and IS he gone before us, or DOES he follow us?’
 
-The school reopened next day. The scholars saw little or no change in
-their master’s face, for it always wore its slowly labouring expression.
-But, as he heard his classes, he was always doing the deed and doing it
-better. As he paused with his piece of [[chalk]] at the black board before
-writing on it, he was thinking of the spot, and whether the [[Water|water]] was
-not deeper and the fall straighter, a little higher up, or a little
-lower down. He had half a mind to draw a line or two upon the board, and
-show himself what he meant. He was doing it again and improving on
-the manner, at prayers, in his mental arithmetic, all through his
-questioning, all through the day.
+It becoming necessary, upon this, to send him to bed again and hold him
+in waiting to be lanced again, Bella did it. But not half as [[Well|well]] on
+the second occasion as on the first; for, a twice-told white one seems
+almost to become a black one, when you are not used to it.
 
-Charley Hexam was a master now, in another school, under another head.
-It was evening, and Bradley was walking in his [[Garden|garden]] observed from
-behind a blind by gentle little Miss Peecher, who contemplated offering
-him a loan of her smelling salts for headache, when Mary Anne, in
-faithful attendance, held up her arm.
+‘Oh DEAR!’ said Mrs Milvey, ‘I am SO sorry! Mr Rokesmith took SUCH an
+interest in [[Lizzie Hexam]], when we were there before. And if we had ONLY
+known of his face, we COULD have given him something that would have
+kept it down long enough for so SHORT a purpose.’
 
-‘Yes, Mary Anne?’
+By way of making the white one whiter, Bella hastened to stipulate that
+he was not in [[Pain|pain]]. Mrs Milvey was SO glad of it.
 
-‘Young Mr Hexam, if you please, ma’am, coming to see Mr Headstone.’
+‘I don’t know HOW it is,’ said Mrs Milvey, ‘and I am SURE you don’t,
+Frank, but the clergy and their wives seem to CAUSE swelled faces.
+Whenever I take notice of a [[Child|child]] in the school, it seems to me as if
+its face swelled INSTANTLY. Frank NEVER makes acquaintance with a new
+old woman, but she gets the face-ache. And another thing is, we DO make
+the poor children sniff so. I don’t know HOW we do it, and I should
+be so glad not to; but the MORE we take notice of them, the MORE they
+sniff. Just as they do when the text is given out.—Frank, that’s a
+schoolmaster. I have seen him somewhere.’
 
-‘Very good, Mary Anne.’
+The reference was to a young man of reserved appearance, in a coat and
+waistcoat of black, and pantaloons of pepper and salt. He had come
+into the office of the station, from its interior, in an unsettled way,
+immediately after Lightwood had gone out to the train; and he had been
+hurriedly reading the printed bills and notices on the wall. He had had
+a wandering interest in what was said among the people waiting there
+and passing to and fro. He had drawn nearer, at about the [[Time|time]] when
+Mrs Milvey mentioned [[Lizzie Hexam]], and had remained near, since: though
+always glancing towards the door by which Lightwood had gone out. He
+stood with his back towards them, and his gloved hands clasped behind
+him. There was now so evident a faltering upon him, expressive of
+indecision whether or no he should express his having heard himself
+referred to, that Mr Milvey spoke to him.
 
-Again Mary Anne held up her arm.
+‘I cannot recall your name,’ he said, ‘but I remember to have seen you
+in your school.’
 
-‘You may speak, Mary Anne?’
+‘My name is [[Bradley Headstone]], sir,’ he replied, backing into a more
+retired place.
 
-‘Mr Headstone has beckoned young Mr Hexam into his [[house]], ma’am, and he
-has gone in himself without waiting for young Mr Hexam to come up, and
-now HE has gone in too, ma’am, and has shut the door.’
+‘I ought to have remembered it,’ said Mr Milvey, giving him his hand. ‘I
+[[Hope|hope]] you are [[Well|well]]? A little overworked, I am afraid?’
 
-‘With all my heart, Mary Anne.’
+‘Yes, I am overworked just at present, sir.’
 
-Again Mary Anne’s telegraphic arm worked.
+‘Had no play in your last holiday [[Time|time]]?’
 
-‘What more, Mary Anne?’
+‘No, sir.’
 
-‘They must find it rather dull and dark, Miss Peecher, for the parlour
-blind’s down, and neither of them pulls it up.’
+‘All work and no play, Mr Headstone, will not make dulness, in your
+case, I dare say; but it will make dyspepsia, if you don’t take care.’
 
-‘There is no accounting,’ said good Miss Peecher with a little sad sigh
-which she repressed by laying her hand on her neat methodical boddice,
-‘there is no accounting for tastes, Mary Anne.’
+‘I will endeavour to take care, sir. Might I beg leave to speak to you,
+outside, a moment?’
 
-Charley, entering the dark room, stopped short when he saw his old
-friend in its yellow shade.
+‘By all means.’
 
-‘Come in, Hexam, come in.’
+It was evening, and the office was [[Well|well]] lighted. The schoolmaster, who
+had never remitted his watch on Lightwood’s door, now moved by another
+door to a corner without, where there was more [[Shadow|shadow]] than light; and
+said, plucking at his gloves:
 
-Charley advanced to take the hand that was held out to him; but stopped
-again, short of it. The heavy, bloodshot eyes of the schoolmaster,
-rising to his face with an effort, met his look of scrutiny.
+‘One of your ladies, sir, mentioned within my hearing a name that I am
+acquainted with; I may say, [[Well|well]] acquainted with. The name of the sister
+of an old pupil of mine. He was my pupil for a long [[Time|time]], and has got on
+and gone upward rapidly. The name of Hexam. The name of [[Lizzie Hexam]].’
+He seemed to be a shy man, struggling against nervousness, and spoke in
+a very constrained way. The break he set between his last two sentences
+was quite embarrassing to his hearer.
 
-‘Mr Headstone, what’s the matter?’
+‘Yes,’ replied Mr Milvey. ‘We are going down to see her.’
 
-‘Matter? Where?’
+‘I gathered as much, sir. I [[Hope|hope]] there is nothing amiss with the sister
+of my old pupil? I [[Hope|hope]] no bereavement has befallen her. I [[Hope|hope]] she is
+in no affliction? Has lost no—relation?’
 
-‘Mr Headstone, have you heard the news? This news about the fellow, Mr
-[[Eugene Wrayburn]]? That he is killed?’
+Mr Milvey thought this a man with a very odd manner, and a dark downward
+look; but he answered in his usual open way.
 
-‘He is dead, then!’ exclaimed Bradley.
+‘I am glad to tell you, Mr Headstone, that the sister of your old pupil
+has not sustained any such loss. You thought I might be going down to
+bury some one?’
 
-Young Hexam standing looking at him, he moistened his lips with his
-tongue, looked about the room, glanced at his former pupil, and looked
-down. ‘I heard of the outrage,’ said Bradley, trying to constrain his
-working mouth, ‘but I had not heard the end of it.’
+‘That may have been the connexion of ideas, sir, with your clerical
+character, but I was not conscious of it.—Then you are not, sir?’
 
-‘Where were you,’ said the boy, advancing a step as he lowered his
-voice, ‘when it was done? Stop! I don’t ask that. Don’t tell me. If you
-force your confidence upon me, Mr Headstone, I’ll give up every word of
-it. Mind! Take notice. I’ll give up it, and I’ll give up you. I will!’
+A man with a very odd manner indeed, and with a lurking look that was
+quite oppressive.
 
-The wretched creature seemed to suffer acutely under this [[Renunciation|renunciation]].
-A desolate air of utter and complete [[Loneliness|loneliness]] fell upon him, like a
-visible shade.
+‘No. In fact,’ said Mr Milvey, ‘since you are so interested in the
+sister of your old pupil, I may as [[Well|well]] tell you that I am going down to
+marry her.’
 
-‘It’s for me to speak, not you,’ said the boy. ‘If you do, you’ll do
-it at your peril. I am going to put your selfishness before you, Mr
-Headstone—your passionate, violent, and ungovernable selfishness—to
-show you why I can, and why I will, have nothing more to do with you.’
+The schoolmaster started back.
+
+‘Not to marry her, myself,’ said Mr Milvey, with a smile, ‘because I
+have a wife already. To perform the [[Marriage|marriage]] service at her wedding.’
+
+[[Bradley Headstone]] caught hold of a pillar behind him. If Mr Milvey knew
+an ashy face when he saw it, he saw it then.
+
+‘You are quite ill, Mr Headstone!’
+
+‘It is not much, sir. It will pass over very soon. I am accustomed to be
+seized with giddiness. Don’t let me detain you, sir; I stand in need
+of no assistance, I thank you. Much obliged by your sparing me these
+minutes of your [[Time|time]].’
+
+As Mr Milvey, who had no more minutes to spare, made a suitable reply
+and turned back into the office, he observed the schoolmaster to
+lean against the pillar with his hat in his hand, and to pull at his
+neckcloth as if he were trying to tear it off. The Reverend Frank
+accordingly directed the notice of one of the attendants to him, by
+saying: ‘There is a person outside who seems to be really ill, and to
+require some help, though he says he does not.’

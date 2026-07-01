@@ -14,6 +14,16 @@ tags:
 </nav>
 
 
+'Five men have now vanished in this impossible way,' he said. 'Every one
+is extraordinary; and yet the one case I simply can't get over is my
+clerk, Berridge. It's just because he was the quietest creature that
+he's the queerest case.'
+
+'Yes,' replied [[Father Brown]], 'it was a queer thing for Berridge to do,
+anyway. He was awfully conscientious. He was also so jolly careful to
+keep all the office business separate from any fun of his own. Why,
+hardly anybody knew he was quite a humorist at [[Home|home]] and - '
+
 'Berridge!' cried [[The Professor|the Professor]]. 'What on earth are you talking about?
 Did you know him?'
 

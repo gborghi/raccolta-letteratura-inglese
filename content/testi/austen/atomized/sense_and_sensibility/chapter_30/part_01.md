@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 30 (part 1)"
+title: "Sense and Sensibility — Chapter 30 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -221,7 +221,3 @@ never agree.”
 “Her guardians, my dear. But now she is of age and may choose for
 
 herself; and a pretty choice she has made!—What now,” after pausing a
-
-moment—“your poor sister is gone to her own room, I suppose, to moan by
-
-herself. Is there nothing one can get to comfort her? Poor dear, it

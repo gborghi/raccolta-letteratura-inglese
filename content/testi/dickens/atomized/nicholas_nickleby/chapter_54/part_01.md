@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 54 (part 1)"
+title: "Nicholas Nickleby — Chapter 54 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -132,12 +132,3 @@ keep her safe, that’s all. And that isn’t much, is it?’
 to understand and to control, women are. But come, it’s very nearly [[Time|time]]
 for you to be made happy. You’ll pay the bond now, I suppose, to save us
 trouble afterwards.’
-
-‘Oh what a man you are!’ croaked [[arthur|Arthur]].
-
-‘Why not?’ said Ralph. ‘Nobody will pay you interest for the money, I
-suppose, between this and twelve o’[[Clock|clock]]; will they?’
-
-‘But nobody would pay you interest for it either, you know,’ returned
-[[arthur|Arthur]], leering at Ralph with all the cunning and slyness he could throw
-into his face.

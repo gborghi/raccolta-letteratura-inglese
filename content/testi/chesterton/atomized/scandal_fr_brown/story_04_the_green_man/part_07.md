@@ -14,6 +14,23 @@ tags:
 </nav>
 
 
+'I did not tell the Admiral; but somebody did. Word came to him somehow,
+during the last grand parade on board, that his friend the family lawyer
+had betrayed him. He was in such a towering passion that he did what he
+could never have done in his sense; came straight on shore in his cocked
+hat and gold lace to catch the criminal; he wired to the police station,
+and that was why the Inspector was wandering round the Green Man.
+Lieutenant Rook followed him on shore because he suspected some family
+trouble and had half a [[Hope|hope]] he might help and put himself right. Hence
+his hesitating behaviour. As for his drawing his [[Sword|sword]] when he dropped
+behind and thought he was [[Alone|alone]], [[Well|well]] that's a matter of [[Imagination|imagination]]. He
+was a romantic person who had dreamed of swords and run away to sea; and
+found himself in a service where he wasn't even allowed to wear a [[Sword|sword]]
+except about once in three years. He thought he was quite [[Alone|alone]] on the
+sands where he played as a boy. If you don't understand what he did, I
+can only say, like Stevenson, âyou will never be a pirate.â Also you
+will never be a poet; and you have never been a boy.'
+
 'I never have,' answered Olive gravely, 'and yet I think I understand.'
 
 'Almost every man,' continued the priest musing, 'will play with

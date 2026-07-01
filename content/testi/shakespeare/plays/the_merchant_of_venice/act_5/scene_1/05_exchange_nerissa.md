@@ -1,5 +1,5 @@
 ---
-title: "The Merchant of [[Venice]] — Act V, Scene 1 — exchange ([[Nerissa|NERISSA]]) [5]"
+title: "The Merchant of Venice — Act V, Scene 1 — exchange (NERISSA) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-merchant-of-venice-(shakespeare)"

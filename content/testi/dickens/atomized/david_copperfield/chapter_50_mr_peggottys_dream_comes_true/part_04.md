@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 50: Mr. PEGGOTTY’S DREAM COMES TRUE (part 4)"
+title: "David Copperfield — Chapter 50: Mr. PEGGOTTY’S DREAM COMES TRUE (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_50_mr_peggottys_dream_comes_true/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_51_the_beginning_of_a_longer_jour/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘I came here, you pure fountain of [[Love|love]],’ she said, ‘to see--as I began
+by telling you--what such a thing as you was like. I was curious. I am
+satisfied. Also to tell you, that you had best seek that [[Home|home]] of yours,
+with all [[Speed|speed]], and hide your head among those excellent people who are
+expecting you, and whom your money will console. When it’s all gone, you
+can believe, and trust, and [[Love|love]] again, you know! I thought you a broken
+toy that had lasted its [[Time|time]]; a worthless spangle that was tarnished,
+and thrown away. But, finding you true gold, a very lady, and
+an ill-used [[Innocent|innocent]], with a fresh heart full of [[Love|love]] and
+trustfulness--which you look like, and is quite consistent with your
+story!--I have something more to say. Attend to it; for what I say I’ll
+do. Do you hear me, you fairy spirit? What I say, I mean to do!’
 
 Her rage got the better of her again, for a moment; but it passed over
 her face like a spasm, and left her smiling.

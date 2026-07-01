@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 26 (part 6)"
+title: "Shirley — Chapter 26 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -10,9 +10,63 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_26/part_05">‹ part 05</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_27/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_26/part_05">‹ part 05</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_26/part_07">part 07 ›</a></div>
 </nav>
 
+
+attention to effect than [[Truth|truth]].
+
+
+
+"Traitor and false witness!" cried both the girls. "We never laid hands
+
+on a thing, except in the spirit of laudable inquiry!"
+
+
+
+"Exactly so," said Moore, with his rare smile. "And what have you
+
+ferreted out, in your 'spirit of laudable inquiry'?"
+
+
+
+He perceived the inner drawer open.
+
+
+
+"This is empty," said he. "Who has taken----"
+
+
+
+"Here, here!" Caroline hastened to say, and she restored the little
+
+packet to its place. He shut it up; he locked it in with a small key
+
+attached to his watch-guard; he restored the other papers to order,
+
+closed the repository, and sat down without further remark.
+
+
+
+"I thought you would have scolded much more, sir," said Henry. "The
+
+girls deserve reprimand."
+
+
+
+"I leave them to their own consciences."
+
+
+
+"It accuses them of crimes intended as [[Well|well]] as perpetrated, sir. If I
+
+had not been here, they would have treated your portfolio as they have
+
+done your desk; but I told them it was padlocked."
+
+
+
+"And will you have lunch with us?" here interposed [[Shirley]], addressing
 
 Moore, and desirous, as it seemed, to turn the conversation.
 
@@ -120,7 +174,7 @@ sumptuous luncheon was discussed.--"Would not you, Mr. Hall?"
 
 "To please you, I should; but, for my own part, I have cut him as an
 
-[[Artist|artist]]. I had enough of him in that capacity in Cumberland and
+[[artist]]. I had enough of him in that capacity in Cumberland and
 
 Westmoreland. Many a wetting we got amongst the [[Mountains|mountains]] because he
 
@@ -209,131 +263,3 @@ around the [[Fire|fire]].
 
 
 "I thought you [[Alone|alone]], Miss Keeldar," he said. "I find quite a party."
-
-
-
-And evidently from his shocked, scandalized air, had he not recognized
-
-in one of the party a clergyman, he would have delivered an extempore
-
-philippic on the extraordinary habits of his niece: respect for the
-
-cloth arrested him.
-
-
-
-"I merely wished to announce," he proceeded coldly, "that the family
-
-from De Walden Hall, Mr., Mrs., the Misses, and Mr. Sam Wynne, are in
-
-the drawing-room." And he bowed and withdrew.
-
-
-
-"The family from De Walden Hall! Couldn't be a worse set," murmured
-
-[[Shirley]].
-
-
-
-She sat still, looking a little contumacious, and very much indisposed
-
-to stir. She was flushed with the [[Fire|fire]]. Her dark hair had been more than
-
-once dishevelled by the morning [[Wind|wind]] that day. Her attire was a light,
-
-neatly fitting, but amply flowing dress of muslin; the shawl she had
-
-worn in the [[Garden|garden]] was still draped in a careless fold round her.
-
-Indolent, wilful, picturesque, and singularly pretty was her
-
-aspect--prettier than usual, as if some soft inward emotion, stirred who
-
-knows how, had given new bloom and expression to her features.
-
-
-
-"[[Shirley]], [[Shirley]], you ought to go," whispered Caroline.
-
-
-
-"I [[Wonder|wonder]] why?"
-
-
-
-She lifted her eyes, and saw in the glass over the fireplace both Mr.
-
-Hall and [[Louis Moore]] gazing at her gravely.
-
-
-
-"If," she said, with a yielding smile--"if a majority of the present
-
-company maintain that the De Walden Hall people have claims on my
-
-civility, I will subdue my inclinations to my duty. Let those who think
-
-I ought to go hold up their hands."
-
-
-
-Again consulting the [[Mirror|mirror]], it reflected an unanimous vote against her.
-
-
-
-"You must go," said Mr. Hall, "and behave courteously too. You owe many
-
-duties to society. It is not permitted you to please only yourself."
-
-
-
-[[Louis Moore]] assented with a low "Hear, hear!"
-
-
-
-Caroline, approaching her, smoothed her wavy curls, gave to her attire a
-
-less artistic and more domestic grace, and [[Shirley]] was put out of the
-
-room, protesting still, by a pouting lip, against her dismissal.
-
-
-
-"There is a curious charm about her," observed Mr. Hall, when she was
-
-gone. "And now," he added, "I must away; for Sweeting is off to see his
-
-mother, and there are two funerals."
-
-
-
-"Henry, get your books; it is lesson-[[Time|time]]," said Moore, sitting down to
-
-his desk.
-
-
-
-"A curious charm!" repeated the pupil, when he and his master were left
-
-[[Alone|alone]]. "True. Is she not a kind of white [[Witch|witch]]?" he asked.
-
-
-
-"Of whom are you speaking, sir?"
-
-
-
-"Of my cousin [[Shirley]]."
-
-
-
-"No irrelevant questions; study in [[Silence|silence]]."
-
-
-
-Mr. Moore looked and spoke sternly--sourly. Henry knew this mood. It was
-
-a rare one with his tutor; but when it came he had an awe of it. He
-
-obeyed.

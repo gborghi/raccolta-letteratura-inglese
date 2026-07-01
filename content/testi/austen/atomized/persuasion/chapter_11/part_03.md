@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 11 (part 3)"
+title: "Persuasion — Chapter 11 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_11/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_12/part_01">part 01 ›</a></div>
 </nav>
 
+
+common indifferent plight, were contrasted with some few articles of a
+
+rare species of wood, excellently worked up, and with something curious
+
+and valuable from all the distant countries Captain Harville had
+
+visited, were more than amusing to Anne; connected as it all was with
+
+his profession, the fruit of its labours, the effect of its influence
+
+on his habits, the picture of repose and domestic happiness it
 
 presented, made it to her a something more, or less, than
 

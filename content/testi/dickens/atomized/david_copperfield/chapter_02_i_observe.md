@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 2: I OBSERVE"
+title: "David Copperfield — Chapter 2: I OBSERVE"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/david-copperfield-(dickens)"

@@ -1,5 +1,5 @@
 ---
-title: "[[misc]] — THE CONTENTED MAN"
+title: "misc — THE CONTENTED MAN"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 THE CONTENTED MAN
-
 
 The word content is not inspiring nowadays; rather it is irritating
 because it is dull.  It prepares the mind for a little sermon

@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Part 1: hear Neville moving too. Are you going back?” (part 1)"
+title: "The Mystery of Edwin Drood — Part 1: hear Neville moving too. Are you going back?” (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"

@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 23 (part 1)"
+title: "Northanger Abbey — Chapter 23 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -80,7 +80,7 @@ before—gathered all that she could from this storehouse of knowledge,
 
 by running over the titles of half a shelf, and was ready to proceed.
 
-But suites of apartments did not [[spring]] up with her wishes. Large as
+But suites of apartments did not [[Spring|spring]] up with her wishes. Large as
 
 was the building, she had already visited the greatest part; though, on
 
@@ -197,9 +197,3 @@ dirty work of the [[house]] was to be done by two pair of female hands at
 the utmost. How they could get through it all had often amazed Mrs.
 
 Allen; and, when Catherine saw what was necessary here, she began to be
-
-amazed herself.
-
-
-
-They returned to the hall, that the chief staircase might be ascended,

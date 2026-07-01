@@ -14,6 +14,25 @@ tags:
 </nav>
 
 
+I was now comfortably established by courtesy in the ladies’ cabin,
+where, besides ourselves, there were only four other passengers.  First,
+the little Scotch lady before mentioned, on her way to join her husband
+at [[New York]], who had settled there three years before.  Secondly and
+thirdly, an honest young Yorkshireman, connected with some American
+[[house]]; domiciled in that same [[City|city]], and carrying thither his beautiful
+young wife to whom he had been married but a fortnight, and who was the
+fairest specimen of a comely English country girl I have ever seen.
+Fourthly, fifthly, and lastly, another couple: newly married too, if one
+might judge from the endearments they frequently interchanged: of whom I
+know no more than that they were rather a mysterious, run-away kind of
+couple; that the lady had great personal attractions also; and that the
+gentleman carried more guns with him than Robinson Crusoe, wore a
+shooting-coat, and had two great [[dogs]] on board.  On further
+consideration, I remember that he tried hot roast pig and bottled ale as
+a cure for sea-sickness; and that he took these remedies (usually in bed)
+day after day, with astonishing perseverance.  I may add, for the
+information of the curious, that they decidedly failed.
+
 The weather continuing obstinately and almost unprecedentedly bad, we
 usually straggled into this cabin, more or less faint and miserable,
 about an hour before [[Noon|noon]], and lay down on the sofas to recover; during
@@ -90,26 +109,3 @@ heaving of the lead into a constantly decreasing depth of [[Water|water]], we
 dropped anchor in a strange outlandish-looking nook which nobody on board
 could recognise, although there was land all about us, and so close that
 we could plainly see the waving branches of the trees.
-
-It was strange enough, in the [[Silence|silence]] of midnight, and the dead stillness
-that seemed to be created by the sudden and unexpected stoppage of the
-engine which had been clanking and blasting in our ears incessantly for
-so many days, to watch the look of blank astonishment expressed in every
-face: beginning with the officers, tracing it through all the passengers,
-and descending to the very stokers and furnacemen, who emerged from
-below, one by one, and clustered together in a smoky group about the
-hatchway of the engine-room, comparing notes in whispers.  After throwing
-up a few rockets and firing signal guns in the [[Hope|hope]] of being hailed from
-the land, or at least of seeing a light—but without any other sight or
-sound presenting itself—it was determined to send a boat on shore.  It
-was amusing to observe how very kind some of the passengers were, in
-volunteering to go ashore in this same boat: for the general good, of
-course: not by any means because they thought the [[Ship|ship]] in an unsafe
-position, or contemplated the possibility of her heeling over in case the
-tide were running out.  Nor was it less amusing to remark how desperately
-unpopular the poor pilot became in one short minute.  He had had his
-passage out from Liverpool, and during the whole voyage had been quite a
-notorious character, as a teller of anecdotes and cracker of jokes.  Yet
-here were the very men who had laughed the loudest at his jests, now
-flourishing their fists in his face, loading him with imprecations, and
-defying him to his teeth as a [[Villain|villain]]!

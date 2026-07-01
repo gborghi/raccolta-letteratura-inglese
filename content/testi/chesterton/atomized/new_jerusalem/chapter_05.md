@@ -172,7 +172,7 @@ and justice in the distinction, even in the world of ideas.
 That most people with much more [[Education|education]] than the Arab, and therefore
 much less excuse than the Arab, entirely ignore that distinction,
 is merely a result of their ignoring ideas, and being satisfied
-with long words.  They like [[Democracy|democracy]] because it is a long word;
+with long words.  They like [[democracy]] because it is a long word;
 that is the only thing they do like about it.
 
 People are entitled to [[Self|self]]-[[government]]; that is, to such
@@ -393,7 +393,7 @@ at the back of Zionism is in the difference between the picture
 of a Jew by Rembrandt and a picture of a Jew by Sargent.
 For Rembrandt the Rabbi was, in a special and [[Double|double]] sense,
 a distinguished figure.  He was something distinct from the world
-of the [[artist]], who drew a Rabbi as he would a Brahmin.  But Sargent
+of the [[Artist|artist]], who drew a Rabbi as he would a Brahmin.  But Sargent
 had to treat his sitters as solid citizens of England or [[America]];
 and consequently his pictures are direct provocations to a pogrom.
 But the light that Rembrandt loved falls not irreverently on

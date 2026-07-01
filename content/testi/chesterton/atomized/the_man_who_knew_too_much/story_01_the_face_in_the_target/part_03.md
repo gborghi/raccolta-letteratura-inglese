@@ -14,6 +14,13 @@ tags:
 </nav>
 
 
+the social reformer? I mean the man who's fighting for the new
+
+cottage-estate scheme. It would be as interesting to meet him as any
+
+Cabinet Minister in the world, if you'll excuse my saying so."
+"Yes; Hoggs told him it would have to be cottages," said Fisher.
+
 "He said the breed of cattle had improved too often, and people were
 
 beginning to laugh. And, of course, you must hang a peerage on to
@@ -182,15 +189,3 @@ innkeeper, who was widely different from the genial innkeepers of
 [[Romance|romance]], a bony man, very silent behind a black mustache, but with
 
 black, restless eyes. Taciturn as he was, the investigator succeeded
-
-at last in extracting a scrap of information from him, by dint of
-
-ordering beer and talking to him persistently and minutely on the
-
-subject of motor cars. He evidently regarded the innkeeper as in
-
-some singular way an authority on motor cars; as being deep in the
-
-[[Secrets|secrets]] of the mechanism, management, and mismanagement of motor
-
-cars; holding the man all the [[Time|time]] with a glittering eye like the

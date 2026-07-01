@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 5 (part 3)"
+title: "Shirley — Chapter 5 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_05/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_05/part_04">part 04 ›</a></div>
 </nav>
 
+
+She seemed a little older than Mr. Moore--perhaps she was thirty-five,
+
+tall, and proportionately stout; she had very black hair, for the
+
+present twisted up in curl-papers, a high colour in her cheeks, a small
+
+nose, a pair of little black eyes. The lower part of her face was large
+
+in proportion to the upper; her forehead was small and rather
+
+corrugated; she had a fretful though not an ill-natured expression of
+
+countenance; there was something in her whole appearance one felt
+
+inclined to be half provoked with and half amused at. The strangest
 
 point was her dress--a stuff petticoat and a striped cotton camisole.
 
@@ -195,25 +211,3 @@ but poor."
 my neat black sabots, objects one would not indeed wear in a fashionable
 
 [[City|city]], but which in the country I have ever been accustomed to use for
-
-walking in dirty roads. Believe me, as I paced up the aisle, composed
-
-and tranquil, as I am always, four ladies, and as many gentlemen,
-
-laughed and hid their faces behind their [[prayer]]-books."
-
-
-
-"[[Well]], [[Well|well]]! don't put on the sabots again. I told you before I thought
-
-they were not quite the thing for this country."
-
-
-
-"But, brother, they are not common sabots, such as the peasantry wear. I
-
-tell you, they are sabots noirs, très propres, très convenables. At Mons
-
-and Leuze--cities not very far removed from the elegant capital of
-
-Brussels--it is very seldom that the respectable people wear anything

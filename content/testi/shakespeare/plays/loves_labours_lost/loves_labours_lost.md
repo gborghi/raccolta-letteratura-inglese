@@ -1,5 +1,5 @@
 ---
-title: "[[Love|LOVE]]’S LABOUR’S LOST"
+title: "LOVE’S LABOUR’S LOST"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/love’s-labour’s-lost-(shakespeare)"

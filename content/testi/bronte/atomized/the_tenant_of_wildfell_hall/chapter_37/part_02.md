@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 37 (part 2)"
+title: "The Tenant of Wildfell Hall — Chapter 37 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_37/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_37/part_03">part 03 ›</a></div>
 </nav>
 
+
+out of the [[Window|window]]: “he’s only in the [[Garden|garden]]—Walter!”
+
+
+
+“No, no, Esther! you will seriously displease me if you do; and I shall
+
+leave you immediately, and not come again for months—perhaps years.”
+
+
+
+“Did you call, Esther?” said her brother, approaching the [[Window|window]] from
 
 without.
 
@@ -72,7 +84,7 @@ towards her.
 
 “Give it her yourself, you blockhead!” cried she, recoiling with a
 
-[[spring]] from between us.
+[[Spring|spring]] from between us.
 
 
 
@@ -132,7 +144,7 @@ no remark upon it this [[Time|time]]: she had evidently been schooled into
 
 better manners. She talked to me, and laughed and romped with little
 
-[[arthur|Arthur]], her loved and loving playmate. He, somewhat to my discomfort,
+[[Arthur]], her loved and loving playmate. He, somewhat to my discomfort,
 
 enticed her from the room to have a run in the hall, and thence into
 
@@ -269,25 +281,3 @@ me.”
 
 
 “And so I should if I could do so without injuring myself or any
-
-other.”
-
-
-
-“And can you suppose that I should wish you to injure yourself? No: on
-
-the contrary, it is your own happiness I long for more than mine. You
-
-are miserable now, Mrs. Huntingdon,” continued he, looking me boldly in
-
-the face. “You do not complain, but I see—and feel—and know that you
-
-are miserable—and must remain so as long as you keep those walls of
-
-impenetrable ice about your still warm and palpitating heart; and I am
-
-miserable, too. Deign to smile on me and I am happy: trust me, and you
-
-shall be happy also, for if you _are_ a woman I can make you so—and I
-
-_will_ do it in spite of yourself!” he muttered between his teeth; “and

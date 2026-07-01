@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 38 (part 6)"
+title: "Nicholas Nickleby — Chapter 38 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_38/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_39/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘The very boy’, said Squeers, putting his fist close to [[Smike]]’s nose,
+and drawing it away again, and repeating the process several times, with
+a vicious aspect. ‘If there wasn’t a lady present, I’d fetch him such
+a--: never mind, I’ll owe it him.’
+
+And here Mr. Squeers related how, and in what manner, and when and where,
+he had picked up the runaway.
+
+‘It’s clear that there has been a [[Providence]] in it, sir,’ said Mr
+Snawley, casting down his eyes with an air of [[Humility|humility]], and elevating
+his fork, with a bit of lobster on the top of it, towards the ceiling.
 
 ‘[[Providence]] is against him, no [[Doubt|doubt]],’ replied Mr. Squeers, scratching
 his nose. ‘Of course; that was to be expected. Anybody might have known

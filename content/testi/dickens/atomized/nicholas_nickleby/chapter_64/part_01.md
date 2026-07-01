@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 64 (part 1)"
+title: "Nicholas Nickleby — Chapter 64 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -132,7 +132,3 @@ Mr. Mantalini, dropping the handle of the mangle, and folding his palms
 together; ‘it is all up with its handsome friend! He has gone to the
 demnition bow-wows. It will have pity? It will not scratch and claw, but
 pet and comfort? Oh, demmit!’
-
-Very little affected, to judge from her action, by this tender appeal,
-the lady was on the point of returning some angry reply, when Nicholas,
-raising his voice, asked his way to Piccadilly.

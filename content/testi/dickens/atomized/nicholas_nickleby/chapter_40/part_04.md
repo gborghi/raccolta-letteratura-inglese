@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 40 (part 4)"
+title: "Nicholas Nickleby — Chapter 40 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,37 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_40/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_40/part_05">part 05 ›</a></div>
 </nav>
 
+
+At length Tim Linkinwater came back--provokingly cool, and with papers
+in his hand, and a pen in his mouth, as if nothing had happened.
+
+‘Is she quite recovered?’ said Nicholas, impetuously.
+
+‘Who?’ returned Tim Linkinwater.
+
+‘Who!’ repeated Nicholas. ‘The young lady.’
+
+‘What do you make, Mr. Nickleby,’ said Tim, taking his pen out of his
+mouth, ‘what do you make of four hundred and twenty-seven times three
+thousand two hundred and thirty-eight?’
+
+‘Nay,’ returned Nicholas, ‘what do you make of my question first? I
+asked you--’
+
+‘About the young lady,’ said Tim Linkinwater, putting on his spectacles.
+‘To be sure. Yes. Oh! she’s very [[Well|well]].’
+
+‘Very [[Well|well]], is she?’ returned Nicholas.
+
+‘Very [[Well|well]],’ replied Mr. Linkinwater, gravely.
+
+‘Will she be able to go [[Home|home]] today?’ asked Nicholas.
+
+‘She’s gone,’ said Tim.
+
+‘Gone!’
+
+‘Yes.’
 
 ‘I [[Hope|hope]] she has not far to go?’ said Nicholas, looking earnestly at the
 other.
@@ -97,23 +128,3 @@ to follow the girl [[Home|home]]; to set on foot such inquiries relative to
 the name, condition, and [[history]] of her mistress, as he could, without
 exciting suspicion; and to report the result to him with the least
 possible delay.
-
-Beyond all measure proud of this commission, [[Newman Noggs]] took up his
-post, in the square, on the following evening, a full hour before the
-needful [[Time|time]], and planting himself behind the pump and pulling his hat
-over his eyes, began his watch with an elaborate appearance of mystery,
-admirably calculated to excite the suspicion of all beholders. Indeed,
-divers servant girls who came to draw [[Water|water]], and sundry little boys who
-stopped to drink at the ladle, were almost scared out of their senses,
-by the apparition of [[Newman Noggs]] looking stealthily round the
-pump, with nothing of him visible but his face, and that wearing the
-expression of a meditative Ogre.
-
-Punctual to her [[Time|time]], the messenger came again, and, after an interview
-of rather longer duration than usual, departed. Newman had made two
-appointments with Nicholas: one for the next evening, conditional on his
-[[success]]: and one the next [[Night|night]] following, which was to be kept under
-all circumstances. The first [[Night|night]] he was not at the place of meeting (a
-certain tavern about half-way between the [[City|city]] and Golden Square), but
-on the second [[Night|night]] he was there before Nicholas, and received him with
-open arms.

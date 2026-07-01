@@ -1,5 +1,5 @@
 ---
-title: "Hard Times — Chapter 11"
+title: "Hard Times — Chapter 12"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/hard-times-(dickens)"
@@ -14,311 +14,201 @@ tags:
 </nav>
 
 
-CHAPTER XI
-NO WAY OUT
-
-
-THE Fairy palaces burst into illumination, before pale morning showed the
-monstrous serpents of smoke trailing themselves over Coketown.  A
-clattering of clogs upon the pavement; a rapid ringing of [[Bells|bells]]; and all
-the [[Melancholy|melancholy]] mad elephants, polished and oiled up for the day’s
-monotony, were at their heavy exercise again.
-
-Stephen bent over his loom, quiet, watchful, and steady.  A special
-contrast, as every man was in the forest of looms where Stephen worked,
-to the crashing, smashing, tearing piece of mechanism at which he
-laboured.  Never [[Fear|fear]], good people of an anxious turn of mind, that Art
-will consign [[Nature]] to oblivion.  Set anywhere, side by side, the work of
-GOD and the work of man; and the former, even though it be a troop of
-Hands of very small account, will gain in dignity from the comparison.
-
-So many hundred Hands in this Mill; so many hundred [[Horse|horse]] Steam Power.
-It is known, to the force of a single pound weight, what the engine will
-do; but, not all the calculators of the National Debt can tell me the
-capacity for good or evil, for [[Love|love]] or hatred, for patriotism or
-discontent, for the decomposition of virtue into vice, or the reverse, at
-any single moment in the [[Soul|soul]] of one of these its quiet servants, with
-the composed faces and the regulated actions.  There is no mystery in it;
-there is an unfathomable mystery in the meanest of them, for
-ever.—Supposing we were to reverse our arithmetic for material objects,
-and to govern these awful unknown quantities by other means!
-
-The day grew strong, and showed itself outside, even against the flaming
-lights within.  The lights were turned out, and the work went on.  The
-rain fell, and the Smoke-serpents, submissive to the curse of all that
-tribe, trailed themselves upon the earth.  In the waste-yard outside, the
-steam from the escape pipe, the litter of barrels and old iron, the
-shining heaps of coals, the ashes everywhere, were shrouded in a veil of
-mist and rain.
-
-The work went on, until the [[Noon|noon]]-bell rang.  More clattering upon the
-pavements.  The looms, and wheels, and Hands all out of gear for an hour.
-
-Stephen came out of the hot mill into the damp [[Wind|wind]] and cold wet streets,
-haggard and worn.  He turned from his own class and his own quarter,
-taking nothing but a little bread as he walked along, towards the [[Hill|hill]] on
-which his principal employer lived, in a red [[house]] with black outside
-shutters, green inside blinds, a black street door, up two white steps,
-BOUNDERBY (in letters very like himself) upon a brazen plate, and a round
-brazen door-handle underneath it, like a brazen full-stop.
-
-Mr. Bounderby was at his lunch.  So Stephen had expected.  Would his
-servant say that one of the Hands begged leave to speak to him?  Message
-in return, requiring name of such Hand.  [[Stephen Blackpool]].  There was
-nothing troublesome against [[Stephen Blackpool]]; yes, he might come in.
-
-[[Stephen Blackpool]] in the parlour.  Mr. Bounderby (whom he just knew by
-sight), at lunch on chop and sherry.  Mrs. Sparsit netting at the
-fireside, in a side-saddle attitude, with one foot in a cotton stirrup.
-It was a part, at once of Mrs. Sparsit’s dignity and service, not to
-lunch.  She supervised the meal officially, but implied that in her own
-stately person she considered lunch a weakness.
-
-‘Now, Stephen,’ said Mr. Bounderby, ‘what’s the matter with _you_?’
-
-Stephen made a bow.  Not a servile one—these Hands will never do that!
-Lord bless you, sir, you’ll never catch them at that, if they have been
-with you twenty years!—and, as a complimentary toilet for Mrs. Sparsit,
-tucked his neckerchief ends into his waistcoat.
-
-‘Now, you know,’ said Mr. Bounderby, taking some sherry, ‘we have never
-had any difficulty with you, and you have never been one of the
-unreasonable ones.  You don’t expect to be set up in a coach and six, and
-to be fed on turtle soup and venison, with a gold spoon, as a good many
-of ’em do!’  Mr. Bounderby always represented this to be the sole,
-immediate, and direct object of any Hand who was not entirely satisfied;
-‘and therefore I know already that you have not come here to make a
-complaint.  Now, you know, I am certain of that, beforehand.’
-
-‘No, sir, sure I ha’ not coom for nowt o’ th’ kind.’
-
-Mr. Bounderby seemed agreeably surprised, notwithstanding his previous
-strong conviction.  ‘Very [[Well|well]],’ he returned.  ‘You’re a steady Hand, and
-I was not mistaken.  Now, let me hear what it’s all about.  As it’s not
-that, let me hear what it is.  What have you got to say?  Out with it,
-lad!’
-
-Stephen happened to glance towards Mrs. Sparsit.  ‘I can go, Mr.
-Bounderby, if you wish it,’ said that [[Self|self]]-sacrificing lady, making a
-feint of taking her foot out of the stirrup.
-
-Mr. Bounderby stayed her, by holding a mouthful of chop in suspension
-before swallowing it, and putting out his left hand.  Then, withdrawing
-his hand and swallowing his mouthful of chop, he said to Stephen:
-
-‘Now you know, this good lady is a born lady, a high lady.  You are not
-to suppose because she keeps my [[house]] for me, that she hasn’t been very
-high up the tree—ah, up at the top of the tree!  Now, if you have got
-anything to say that can’t be said before a born lady, this lady will
-leave the room.  If what you have got to say _can_ be said before a born
-lady, this lady will stay where she is.’
-
-‘Sir, I [[Hope|hope]] I never had nowt to say, not fitten for a born lady to year,
-sin’ I were born mysen’,’ was the reply, accompanied with a slight flush.
-
-‘Very [[Well|well]],’ said Mr. Bounderby, pushing away his plate, and leaning
-back.  ‘[[Fire]] away!’
-
-‘I ha’ coom,’ Stephen began, raising his eyes from the floor, after a
-moment’s consideration, ‘to ask yo yor advice.  I need ’t overmuch.  I
-were married on Eas’r Monday nineteen year sin, long and dree.  She were
-a young lass—pretty enow—wi’ good accounts of herseln.  [[Well]]!  She went
-bad—soon.  Not along of me.  Gonnows I were not a unkind husband to her.’
-
-‘I have heard all this before,’ said Mr. Bounderby.  ‘She took to
-drinking, left off working, sold the furniture, pawned the clothes, and
-played old Gooseberry.’
-
-‘I were patient wi’ her.’
-
-(‘The more [[Fool|fool]] you, I think,’ said Mr. Bounderby, in confidence to his
-wine-glass.)
-
-‘I were very patient wi’ her.  I tried to wean her fra ’t ower and ower
-agen.  I tried this, I tried that, I tried t’other.  I ha’ gone [[Home|home]],
-many’s the [[Time|time]], and found all vanished as I had in the world, and her
-without a sense left to bless herseln lying on bare ground.  I ha’ dun ’t
-not once, not twice—twenty [[Time|time]]!’
-
-Every line in his face deepened as he said it, and put in its affecting
-evidence of the [[Suffering|suffering]] he had undergone.
-
-‘From bad to worse, from worse to worsen.  She left me.  She disgraced
-herseln everyways, bitter and bad.  She coom back, she coom back, she
-coom back.  What could I do t’ hinder her?  I ha’ walked the streets
-nights long, ere ever I’d go [[Home|home]].  I ha’ gone t’ th’ brigg, minded to
-fling myseln ower, and ha’ no more on’t.  I ha’ bore that much, that I
-were owd when I were young.’
-
-Mrs. Sparsit, easily ambling along with her netting-needles, raised the
-Coriolanian eyebrows and shook her head, as much as to say, ‘The great
-know trouble as [[Well|well]] as the small.  Please to turn your humble eye in My
-direction.’
-
-‘I ha’ paid her to keep awa’ fra’ me.  These five year I ha’ paid her.  I
-ha’ gotten decent fewtrils about me agen.  I ha’ lived hard and sad, but
-not ashamed and fearfo’ a’ the minnits o’ my life.  Last [[Night|night]], I went
-[[Home|home]].  There she lay upon my har-stone!  There she is!’
-
-In the strength of his misfortune, and the energy of his distress, he
-fired for the moment like a proud man.  In another moment, he stood as he
-had stood all the [[Time|time]]—his usual stoop upon him; his pondering face
-addressed to Mr. Bounderby, with a curious expression on it, half shrewd,
-half perplexed, as if his mind were set upon unravelling something very
-difficult; his hat held tight in his left hand, which rested on his hip;
-his right arm, with a rugged propriety and force of action, very
-earnestly emphasizing what he said: not least so when it always paused, a
-little bent, but not withdrawn, as he paused.
-
-‘I was acquainted with all this, you know,’ said Mr. Bounderby, ‘except
-the last clause, long ago.  It’s a bad job; that’s what it is.  You had
-better have been satisfied as you were, and not have got married.
-However, it’s too late to say that.’
-
-‘Was it an unequal [[Marriage|marriage]], sir, in point of years?’ asked Mrs. Sparsit.
-
-‘You hear what this lady asks.  Was it an unequal [[Marriage|marriage]] in point of
-years, this unlucky job of yours?’ said Mr. Bounderby.
-
-‘Not e’en so.  I were one-and-twenty myseln; she were twenty nighbut.’
-
-‘Indeed, sir?’ said Mrs. Sparsit to her Chief, with great placidity.  ‘I
-inferred, from its being so miserable a [[Marriage|marriage]], that it was probably an
-unequal one in point of years.’
-
-Mr. Bounderby looked very hard at the good lady in a side-long way that
-had an odd sheepishness about it.  He fortified himself with a little
-more sherry.
-
-‘[[Well]]?  Why don’t you go on?’ he then asked, turning rather irritably on
-[[Stephen Blackpool]].
-
-‘I ha’ coom to ask yo, sir, how I am to be ridded o’ this woman.’
-Stephen infused a yet deeper gravity into the mixed expression of his
-attentive face.  Mrs. Sparsit uttered a gentle ejaculation, as having
-received a moral shock.
-
-‘What do you mean?’ said Bounderby, getting up to lean his back against
-the chimney-piece.  ‘What are you talking about?  You took her for better
-for worse.’
-
-‘I mun’ be ridden o’ her.  I cannot bear ’t nommore.  I ha’ lived under
-’t so long, for that I ha’ had’n the pity and comforting words o’ th’
-best lass living or dead.  Haply, but for her, I should ha’ gone
-battering mad.’
-
-‘He wishes to be free, to marry the female of whom he speaks, I [[Fear|fear]],
-sir,’ observed Mrs. Sparsit in an undertone, and much dejected by the
-immorality of the people.
-
-‘I do.  The lady says what’s right.  I do.  I were a coming to ’t.  I ha’
-read i’ th’ papers that great folk (fair faw ’em a’!  I wishes ’em no
-hurt!) are not bonded together for better for worst so fast, but that
-they can be set free fro’ _their_ misfortnet marriages, an’ marry ower
-agen.  When they dunnot agree, for that their tempers is ill-sorted, they
-has rooms o’ one kind an’ another in their houses, above a bit, and they
-can live asunders.  We fok ha’ only one room, and we can’t.  When that
-won’t do, they ha’ gowd an’ other cash, an’ they can say “This for yo’
-an’ that for me,” an’ they can go their separate ways.  We can’t.  Spite
-o’ all that, they can be set free for smaller wrongs than mine.  So, I
-mun be ridden o’ this woman, and I want t’ know how?’
-
-‘No how,’ returned Mr. Bounderby.
-
-‘If I do her any hurt, sir, there’s a law to punish me?’
-
-‘Of course there is.’
-
-‘If I flee from her, there’s a law to punish me?’
-
-‘Of course there is.’
-
-‘If I marry t’oother dear lass, there’s a law to punish me?’
-
-‘Of course there is.’
-
-‘If I was to live wi’ her an’ not marry her—saying such a thing could be,
-which it never could or would, an’ her so good—there’s a law to punish
-me, in every [[Innocent|innocent]] [[Child|child]] belonging to me?’
-
-‘Of course there is.’
-
-‘Now, a’ God’s name,’ said [[Stephen Blackpool]], ‘show me the law to help
-me!’
-
-‘Hem!  There’s a sanctity in this relation of life,’ said Mr. Bounderby,
-‘and—and—it must be kept up.’
-
-‘No no, dunnot say that, sir.  ’Tan’t kep’ up that way.  Not that way.
-’Tis kep’ down that way.  I’m a weaver, I were in a fact’ry when a chilt,
-but I ha’ gotten een to see wi’ and eern to year wi’.  I read in th’
-papers every ’Sizes, every Sessions—and you read too—I know it!—with
-dismay—how th’ supposed unpossibility o’ ever getting unchained from one
-another, at any price, on any terms, brings [[Blood|blood]] upon this land, and
-brings many common married fok to battle, murder, and sudden [[Death|death]].  Let
-us ha’ this, right understood.  Mine’s a grievous case, an’ I want—if yo
-will be so good—t’ know the law that helps me.’
-
-‘Now, I tell you what!’ said Mr. Bounderby, putting his hands in his
-pockets.  ‘There _is_ such a law.’
-
-Stephen, subsiding into his quiet manner, and never wandering in his
-attention, gave a nod.
-
-‘But it’s not for you at all.  It costs money.  It costs a mint of
-money.’
-
-‘How much might that be?’ Stephen calmly asked.
-
-‘Why, you’d have to go to Doctors’ Commons with a suit, and you’d have to
-go to a [[Court|court]] of Common Law with a suit, and you’d have to go to the
-[[house|House]] of Lords with a suit, and you’d have to get an Act of Parliament to
-enable you to marry again, and it would cost you (if it was a case of
-very plain sailing), I suppose from a thousand to fifteen hundred pound,’
-said Mr. Bounderby.  ‘Perhaps twice the money.’
-
-‘There’s no other law?’
-
-‘Certainly not.’
-
-‘Why then, sir,’ said Stephen, turning white, and motioning with that
-right hand of his, as if he gave everything to the four winds, ‘’_tis_ a
-muddle.  ’Tis just a muddle a’toogether, an’ the sooner I am dead, the
-better.’
-
-(Mrs. Sparsit again dejected by the impiety of the people.)
-
-‘Pooh, pooh!  Don’t you talk nonsense, my good fellow,’ said Mr.
-Bounderby, ‘about things you don’t understand; and don’t you call the
-Institutions of your country a muddle, or you’ll get yourself into a real
-muddle one of these fine mornings.  The institutions of your country are
-not your piece-work, and the only thing you have got to do, is, to mind
-your piece-work.  You didn’t take your wife for fast and for loose; but
-for better for worse.  If she has turned out worse—why, all we have got
-to say is, she might have turned out better.’
-
-‘’Tis a muddle,’ said Stephen, shaking his head as he moved to the door.
-‘’Tis a’ a muddle!’
-
-‘Now, I’ll tell you what!’ Mr. Bounderby resumed, as a valedictory
-address.  ‘With what I shall call your unhallowed opinions, you have been
-quite shocking this lady: who, as I have already told you, is a born
-lady, and who, as I have not already told you, has had her own [[Marriage|marriage]]
-misfortunes to the tune of tens of thousands of pounds—tens of Thousands
-of Pounds!’ (he repeated it with great relish).  ‘Now, you have always
-been a steady Hand hitherto; but my opinion is, and so I tell you
-plainly, that you are turning into the wrong [[Road|road]].  You have been
-listening to some mischievous stranger or other—they’re always about—and
-the best thing you can do is, to come out of that.  Now you know;’ here
-his countenance expressed marvellous acuteness; ‘I can see as far into a
-grindstone as another man; farther than a good many, perhaps, because I
-had my nose [[Well|well]] kept to it when I was young.  I see traces of the turtle
-soup, and venison, and gold spoon in this.  Yes, I do!’ cried Mr.
-Bounderby, shaking his head with obstinate cunning.  ‘By the Lord Harry,
-I do!’
-
-With a very different shake of the head and deep sigh, Stephen said,
-‘Thank you, sir, I wish you good day.’  So he left Mr. Bounderby swelling
-at his own portrait on the wall, as if he were going to explode himself
-into it; and Mrs. Sparsit still ambling on with her foot in her stirrup,
-looking quite cast down by the popular vices.
+CHAPTER XII
+THE OLD WOMAN
+
+
+OLD STEPHEN descended the two white steps, shutting the black door with
+the brazen door-plate, by the aid of the brazen full-stop, to which he
+gave a parting polish with the sleeve of his coat, observing that his hot
+hand clouded it.  He crossed the street with his eyes bent upon the
+ground, and thus was walking sorrowfully away, when he felt a touch upon
+his arm.
+
+It was not the touch he needed most at such a moment—the touch that could
+calm the wild waters of his [[Soul|soul]], as the uplifted hand of the sublimest
+[[Love|love]] and patience could abate the raging of the sea—yet it was a woman’s
+hand too.  It was an old woman, tall and shapely still, though withered
+by [[Time|time]], on whom his eyes fell when he stopped and turned.  She was very
+cleanly and plainly dressed, had country mud upon her shoes, and was
+newly come from a [[Journey|journey]].  The flutter of her manner, in the unwonted
+noise of the streets; the spare shawl, carried unfolded on her arm; the
+heavy umbrella, and little basket; the loose long-fingered gloves, to
+which her hands were unused; all bespoke an old woman from the country,
+in her plain holiday clothes, come into Coketown on an expedition of rare
+occurrence.  Remarking this at a glance, with the quick observation of
+his class, [[Stephen Blackpool]] bent his attentive face—his face, which,
+like the faces of many of his order, by dint of long working with eyes
+and hands in the midst of a prodigious noise, had acquired the
+concentrated look with which we are familiar in the countenances of the
+deaf—the better to hear what she asked him.
+
+‘Pray, sir,’ said the old woman, ‘didn’t I see you come out of that
+gentleman’s [[house]]?’ pointing back to Mr. Bounderby’s.  ‘I believe it was
+you, unless I have had the bad luck to mistake the person in following?’
+
+‘Yes, missus,’ returned Stephen, ‘it were me.’
+
+‘Have you—you’ll excuse an old woman’s curiosity—have you seen the
+gentleman?’
+
+‘Yes, missus.’
+
+‘And how did he look, sir?  Was he portly, bold, outspoken, and hearty?’
+As she straightened her own figure, and held up her head in adapting her
+action to her words, the idea crossed Stephen that he had seen this old
+woman before, and had not quite liked her.
+
+‘O yes,’ he returned, observing her more attentively, ‘he were all that.’
+
+‘And healthy,’ said the old woman, ‘as the fresh [[Wind|wind]]?’
+
+‘Yes,’ returned Stephen.  ‘He were ett’n and drinking—as large and as
+loud as a Hummobee.’
+
+‘Thank you!’ said the old woman, with infinite content.  ‘Thank you!’
+
+He certainly never had seen this old woman before.  Yet there was a vague
+remembrance in his mind, as if he had more than once dreamed of some old
+woman like her.
+
+She walked along at his side, and, gently accommodating himself to her
+[[Humour|humour]], he said Coketown was a busy place, was it not?  To which she
+answered ‘Eigh sure!  Dreadful busy!’  Then he said, she came from the
+country, he saw?  To which she answered in the affirmative.
+
+‘By Parliamentary, this morning.  I came forty mile by Parliamentary this
+morning, and I’m going back the same forty mile this afternoon.  I walked
+nine mile to the station this morning, and if I find nobody on the [[Road|road]]
+to give me a lift, I shall walk the nine mile back to-[[Night|night]].  That’s
+pretty [[Well|well]], sir, at my age!’ said the chatty old woman, her eye
+brightening with exultation.
+
+‘’Deed ’tis.  Don’t do’t too often, missus.’
+
+‘No, no.  Once a year,’ she answered, shaking her head.  ‘I spend my
+savings so, once every year.  I come regular, to tramp about the streets,
+and see the gentlemen.’
+
+‘Only to see ’em?’ returned Stephen.
+
+‘That’s enough for me,’ she replied, with great earnestness and interest
+of manner.  ‘I ask no more!  I have been standing about, on this side of
+the way, to see that gentleman,’ turning her head back towards Mr.
+Bounderby’s again, ‘come out.  But, he’s late this year, and I have not
+seen him.  You came out instead.  Now, if I am obliged to go back without
+a glimpse of him—I only want a glimpse—[[Well|well]]!  I have seen you, and you
+have seen him, and I must make that do.’  Saying this, she looked at
+Stephen as if to fix his features in her mind, and her eye was not so
+bright as it had been.
+
+With a large allowance for difference of tastes, and with all submission
+to the patricians of Coketown, this seemed so extraordinary a source of
+interest to take so much trouble about, that it perplexed him.  But they
+were passing the church now, and as his eye caught the [[Clock|clock]], he
+quickened his pace.
+
+He was going to his work? the old woman said, quickening hers, too, quite
+easily.  Yes, [[Time|time]] was nearly out.  On his telling her where he worked,
+the old woman became a more singular old woman than before.
+
+‘An’t you happy?’ she asked him.
+
+‘Why—there’s awmost nobbody but has their troubles, missus.’  He answered
+evasively, because the old woman appeared to take it for granted that he
+would be very happy indeed, and he had not the heart to disappoint her.
+He knew that there was trouble enough in the world; and if the old woman
+had lived so long, and could count upon his having so little, why so much
+the better for her, and none the worse for him.
+
+‘Ay, ay!  You have your troubles at [[Home|home]], you mean?’ she said.
+
+‘Times.  Just now and then,’ he answered, slightly.
+
+‘But, working under such a gentleman, they don’t follow you to the
+Factory?’
+
+No, no; they didn’t follow him there, said Stephen.  All correct there.
+Everything accordant there.  (He did not go so far as to say, for her
+pleasure, that there was a sort of Divine Right there; but, I have heard
+claims almost as magnificent of late years.)
+
+They were now in the black by-[[Road|road]] near the place, and the Hands were
+crowding in.  The bell was ringing, and the Serpent was a Serpent of many
+coils, and the Elephant was getting ready.  The strange old woman was
+delighted with the very bell.  It was the beautifullest bell she had ever
+heard, she said, and sounded grand!
+
+She asked him, when he stopped good-naturedly to shake hands with her
+before going in, how long he had worked there?
+
+‘A dozen year,’ he told her.
+
+‘I must kiss the hand,’ said she, ‘that has worked in this fine factory
+for a dozen year!’  And she lifted it, though he would have prevented
+her, and put it to her lips.  What harmony, besides her age and her
+simplicity, surrounded her, he did not know, but even in this fantastic
+action there was a something neither out of [[Time|time]] nor place: a something
+which it seemed as if nobody else could have made as serious, or done
+with such a natural and touching air.
+
+He had been at his loom full half an hour, thinking about this old woman,
+when, having occasion to move round the loom for its adjustment, he
+glanced through a [[Window|window]] which was in his corner, and saw her still
+looking up at the pile of building, lost in admiration.  Heedless of the
+smoke and mud and wet, and of her two long journeys, she was gazing at
+it, as if the heavy thrum that issued from its many stories were proud
+music to her.
+
+She was gone by and by, and the day went after her, and the lights sprung
+up again, and the Express whirled in full sight of the Fairy Palace over
+the arches near: little felt amid the jarring of the machinery, and
+scarcely heard above its crash and rattle.  Long before then his thoughts
+had gone back to the dreary room above the little shop, and to the
+shameful figure heavy on the bed, but heavier on his heart.
+
+Machinery slackened; throbbing feebly like a fainting pulse; stopped.
+The bell again; the glare of light and heat dispelled; the factories,
+looming heavy in the black wet [[Night|night]]—their tall chimneys rising up into
+the air like competing Towers of Babel.
+
+He had spoken to Rachael only last [[Night|night]], it was true, and had walked
+with her a little way; but he had his new misfortune on him, in which no
+one else could give him a moment’s relief, and, for the sake of it, and
+because he knew himself to want that softening of his anger which no
+voice but hers could effect, he felt he might so far disregard what she
+had said as to wait for her again.  He waited, but she had eluded him.
+She was gone.  On no other [[Night|night]] in the year could he so ill have spared
+her patient face.
+
+O!  Better to have no [[Home|home]] in which to lay his head, than to have a [[Home|home]]
+and dread to go to it, through such a cause.  He ate and drank, for he
+was exhausted—but he little knew or cared what; and he wandered about in
+the chill rain, thinking and thinking, and brooding and brooding.
+
+No word of a new [[Marriage|marriage]] had ever passed between them; but Rachael had
+taken great pity on him years ago, and to her [[Alone|alone]] he had opened his
+closed heart all this [[Time|time]], on the subject of his miseries; and he knew
+very [[Well|well]] that if he were free to ask her, she would take him.  He
+thought of the [[Home|home]] he might at that moment have been seeking with
+pleasure and [[Pride|pride]]; of the different man he might have been that [[Night|night]];
+of the lightness then in his now heavy-laden breast; of the then restored
+[[Honour|honour]], [[Self|self]]-respect, and tranquillity all torn to pieces.  He thought of
+the waste of the best part of his life, of the change it made in his
+character for the worse every day, of the dreadful [[Nature|nature]] of his
+existence, bound hand and foot, to a dead woman, and tormented by a demon
+in her shape.  He thought of Rachael, how young when they were first
+brought together in these circumstances, how mature now, how soon to grow
+old.  He thought of the number of girls and women she had seen marry, how
+many homes with children in them she had seen grow up around her, how she
+had contentedly pursued her own lone quiet path—for him—and how he had
+sometimes seen a shade of [[Melancholy|melancholy]] on her blessed face, that smote him
+with remorse and [[Despair|despair]].  He set the picture of her up, beside the
+infamous image of last [[Night|night]]; and thought, Could it be, that the whole
+earthly course of one so gentle, good, and [[Self|self]]-denying, was subjugate to
+such a wretch as that!
+
+Filled with these thoughts—so filled that he had an unwholesome sense of
+growing larger, of being placed in some new and diseased relation towards
+the objects among which he passed, of seeing the iris round every misty
+light turn red—he went [[Home|home]] for shelter.

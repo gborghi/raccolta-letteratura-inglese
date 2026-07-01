@@ -1,5 +1,5 @@
 ---
-title: "[[history]] — Chapter 16 (part 1)"
+title: "history — Chapter 16 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/history-(chesterton)"
@@ -47,7 +47,7 @@ were given the power to commemorate the large humanity of their own land;
 immortalizing a mood as broad and soft as their own brush-work. Come
 naturally, at the right emotional angle, upon a canvass of Gainsborough,
 who painted ladies like landscapes, as great and as unconscious
-with repose, and you will note how subtly the [[artist]] gives to a dress
+with repose, and you will note how subtly the [[Artist|artist]] gives to a dress
 flowing in the foreground something of the divine quality of distance.
 Then you will understand another faded phrase and words spoken far
 away upon the sea; there will rise up quite fresh before you and be

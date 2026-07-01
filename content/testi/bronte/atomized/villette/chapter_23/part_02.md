@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 23 (part 2)"
+title: "Villette — Chapter 23 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_23/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_23/part_03">part 03 ›</a></div>
 </nav>
 
+
+“Just now? I am not dressed,” cried I, glancing despairingly at my dark
+merino.
 
 “You have half an hour to dress. I should have given you notice, but I
 only determined on going since five o’[[Clock|clock]], when I heard there was to
@@ -119,13 +122,3 @@ the stir deepened, how wildly they shook her with their passions of the
 pit! They wrote HELL on her straight, haughty brow. They tuned her
 voice to the note of torment. They writhed her regal face to a demoniac
 mask. Hate and Murder and [[Madness]] incarnate she stood.
-
-It was a marvellous sight: a mighty revelation.
-
-It was a spectacle low, horrible, immoral.
-
-Swordsmen thrust through, and dying in their [[Blood|blood]] on the arena sand;
-bulls goring horses disembowelled, made a meeker vision for the
-public—a milder condiment for a people’s palate—than Vashti torn by
-seven devils: devils which cried sore and rent the tenement they
-haunted, but still refused to be exorcised.

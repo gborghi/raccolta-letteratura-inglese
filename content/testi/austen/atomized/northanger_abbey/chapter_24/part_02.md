@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 23 (part 2)"
+title: "Northanger Abbey — Chapter 23 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_24/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_24/part_03">part 03 ›</a></div>
 </nav>
 
+
+amazed herself.
+
+
+
+They returned to the hall, that the chief staircase might be ascended,
 
 and the [[Beauty|beauty]] of its wood, and ornaments of rich carving might be
 
@@ -209,11 +215,3 @@ for future mischief.”
 
 
 But neither the business alleged, nor the magnificent compliment, could
-
-win Catherine from thinking that some very different object must
-
-occasion so serious a delay of proper repose. To be kept up for hours,
-
-after the family were in bed, by stupid pamphlets was not very likely.
-
-There must be some deeper cause: something was to be done which could

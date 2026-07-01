@@ -14,6 +14,37 @@ tags:
 </nav>
 
 
+unconversational noise of those uncomfortable engines. But when they
+
+came out beyond Canterbury into the flats of eastern [[Kent]], Fisher
+
+stopped at a pleasant little public [[house]] beside a sleepy stream;
+
+and they sat down to eat and to drink and to speak almost for the
+
+first [[Time|time]]. It was a brilliant afternoon, [[Birds|birds]] were singing in the
+
+wood behind, and the sun shone full on their ale bench and table;
+
+but the face of Fisher in the strong sunlight had a gravity never
+
+seen on it before.
+"Before we go any farther," he said, "there is something you ought
+
+to know. You and I have seen some mysterious things and got to the
+
+[[Bottom|bottom]] of them before now; and it's only right that you should get
+
+to the [[Bottom|bottom]] of this one. But in dealing with the [[Death|death]] of my uncle
+
+I must begin at the other end from where our old [[Detective|detective]] yarns
+
+began. I will give you the steps of deduction presently, if you want
+
+to listen to them; but I did not reach the [[Truth|truth]] of this by steps of
+
+deduction. I will first of all tell you the [[Truth|truth]] itself, because I
+
 knew the [[Truth|truth]] from the first. The other cases I approached from the
 
 outside, but in this case I was inside. I myself was the very core
@@ -147,44 +178,3 @@ the statue, like Caesar against [[Pompey]]'s, hanging on to the iron
 rail; his [[Sword|sword]] was already broken. When I saw the [[Blood|blood]] from that
 
 deadly wound, everything else went from me; I dropped my [[Sword|sword]] and
-
-ran as if to lift him up. As I bent toward him something happened
-
-too quick for me to follow. I do not know whether the iron bar was
-
-rotted with rust and came away in his hand, or whether he rent it
-
-out of the rock with his apelike strength; but the thing was in his
-
-hand, and with his dying energies he swung it over my head, as I
-
-knelt there unarmed beside him. I looked up wildly to avoid the
-
-blow, and saw above us the great bulk of Britannia leaning outward
-
-like the figurehead of a [[Ship|ship]]. The next instant I saw it was leaning
-
-an inch or two more than usual, and all the skies with their
-
-outstanding [[Stars|stars]] seemed to be leaning with it. For the third second
-
-it was as if the skies fell; and in the fourth I was standing in the
-
-quiet [[Garden|garden]], looking down on that flat ruin of stone and bone at
-
-which you were looking to-day. He had plucked out the last prop that
-
-held up the British goddess, and she had fallen and crushed the
-
-traitor in her fall. I turned and darted for the coat which I knew
-
-to contain the package, ripped it up with my [[Sword|sword]], and raced away
-
-up the [[Garden|garden]] path to where my motor bike was waiting on the [[Road|road]]
-
-above. I had every reason for haste; but I fled without looking back
-
-at the statue and the [[Body|body]]; and I think the thing I fled from was
-
-the sight of that appalling [[Allegory|allegory]].
-"Then I did the rest of what I had to do. All through the [[Night|night]] and

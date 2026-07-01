@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 3 (part 4)"
+title: "thursday — Chapter 3 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_03/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_04/part_01">part 01 ›</a></div>
 </nav>
 
+
+"The question is that Comrade Syme be elected to the post of [[thursday|Thursday]]
+on the General Council."
 
 The roar [[Rose|rose]] like the sea, the hands [[Rose|rose]] like a forest, and three minutes
 afterwards Mr. [[Gabriel Syme]], of the Secret Police Service, was elected

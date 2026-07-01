@@ -1,5 +1,5 @@
 ---
-title: "[[Agnes Grey]] — Chapter 18 (part 3)"
+title: "Agnes Grey — Chapter 18 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/agnes-grey-(bronte)"
@@ -13,6 +13,23 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/agnes_grey/chapter_19/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/agnes_grey/chapter_22/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Was it your intention to kill that hare, or to save it, Miss Murray?”
+asked Mr. Weston, apparently puzzled at her gleeful countenance.
+
+“I pretended to want to save it,” she answered, honestly enough, “as it
+was so glaringly out of season; but I was better pleased to see it
+lolled. However, you can both witness that I couldn’t help it: Prince
+was determined to have her; and he clutched her by the back, and killed
+her in a minute! Wasn’t it a noble chase?”
+
+“Very! for a young lady after a leveret.”
+
+There was a quiet sarcasm in the tone of his reply which was not lost
+upon her; she shrugged her shoulders, and, turning away with a
+significant “Humph!” asked me how I had enjoyed the fun. I replied that
+I saw no fun in the matter; but admitted that I had not observed the
+transaction very narrowly.
 
 “Didn’t you see how it doubled—just like an old hare? and didn’t you
 hear it scream?”

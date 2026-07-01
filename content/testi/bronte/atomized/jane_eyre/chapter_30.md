@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 30"
+title: "Jane Eyre — Chapter 30"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/jane-eyre-(bronte)"

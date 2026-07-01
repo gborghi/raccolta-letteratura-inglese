@@ -14,6 +14,23 @@ tags:
 </nav>
 
 
+The [[Summer|summer]]-[[house]] of which Mr Quilp had spoken was a rugged wooden box,
+rotten and bare to see, which overhung the [[River|river]]’s mud, and threatened
+to slide down into it.  The tavern to which it belonged was a crazy
+building, sapped and undermined by the rats, and only upheld by great
+bars of wood which were reared against its walls, and had propped it up
+so long that even they were decaying and yielding with their load, and
+of a windy [[Night|night]] might be heard to creak and crack as if the whole
+fabric were about to come toppling down.  The [[house]] stood--if anything
+so old and feeble could be said to stand--on a piece of waste ground,
+blighted with the unwholesome smoke of factory chimneys, and echoing
+the clank of iron wheels and rush of troubled [[Water|water]].  Its internal
+accommodations amply fulfilled the promise of the outside.  The rooms
+were low and damp, the clammy walls were pierced with chinks and holes,
+the rotten floors had sunk from their level, the very beams started
+from their places and warned the timid stranger from their
+neighbourhood.
+
 To this inviting spot, entreating him to observe its beauties as they
 passed along, Mr Quilp led [[Richard]] Swiveller, and on the table of the
 [[Summer|summer]]-[[house]], scored deep with many a gallows and initial letter, there

@@ -1,5 +1,5 @@
 ---
-title: "Measure for Measure — Act IV, Scene 3 — monologue ([[Pompey|POMPEY]] I) [2]"
+title: "Measure for Measure — Act IV, Scene 3 — monologue (POMPEY I) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/measure-for-measure-(shakespeare)"

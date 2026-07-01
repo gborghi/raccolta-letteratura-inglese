@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 29 (part 3)"
+title: "Great Expectations — Chapter 29 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_29/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_29/part_04">part 04 ›</a></div>
 </nav>
 
+
+The [[Garden|garden]] was too overgrown and rank for walking in with ease, and
+after we had made the round of it twice or thrice, we came out again
+into the brewery yard. I showed her to a nicety where I had seen her
+walking on the casks, that first old day, and she said, with a cold and
+careless look in that direction, “Did I?” I reminded her where she had
+come out of the [[house]] and given me my meat and drink, and she said, “I
+don’t remember.” “Not remember that you made me cry?” said I. “No,”
+said she, and shook her head and looked about her. I verily believe
+that her not remembering and not minding in the least, made me cry
+again, inwardly,—and that is the sharpest crying of all.
 
 “You must know,” said [[Estella]], condescending to me as a brilliant and
 beautiful woman might, “that I have no heart,—if that has anything to
@@ -117,27 +128,3 @@ at all) she repeated, “[[Love]] her, [[Love|love]] her, [[Love|love]] her! If 
 you, [[Love|love]] her. If she wounds you, [[Love|love]] her. If she [[Tears|tears]] your heart to
 pieces,—and as it gets older and stronger it will tear deeper,—[[Love|love]]
 her, [[Love|love]] her, [[Love|love]] her!”
-
-Never had I seen such passionate eagerness as was joined to her
-utterance of these words. I could feel the muscles of the thin arm
-round my neck swell with the vehemence that possessed her.
-
-“Hear me, Pip! I adopted her, to be loved. I bred her and educated her,
-to be loved. I developed her into what she is, that she might be loved.
-[[Love]] her!”
-
-She said the word often enough, and there could be no [[Doubt|doubt]] that she
-meant to say it; but if the often repeated word had been hate instead
-of [[Love|love]]—[[Despair|despair]]—[[Revenge|revenge]]—dire [[Death|death]]—it could not have sounded from her
-lips more like a curse.
-
-“I’ll tell you,” said she, in the same hurried passionate whisper,
-“what real [[Love|love]] is. It is blind devotion, unquestioning
-[[Self|self]]-humiliation, utter submission, trust and belief against yourself
-and against the whole world, giving up your whole heart and [[Soul|soul]] to the
-smiter—as I did!”
-
-When she came to that, and to a wild cry that followed that, I caught
-her round the waist. For she [[Rose|rose]] up in the chair, in her shroud of a
-dress, and struck at the air as if she would as soon have struck
-herself against the wall and fallen dead.

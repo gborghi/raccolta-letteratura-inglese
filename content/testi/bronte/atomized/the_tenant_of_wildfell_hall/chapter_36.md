@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 36"
+title: "The Tenant of Wildfell Hall — Chapter 36"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -184,17 +184,17 @@ absence!
 
 
 
-Mr. Hargrave is still at the Grove. He and [[arthur|Arthur]] frequently meet to
+Mr. Hargrave is still at the Grove. He and [[Arthur]] frequently meet to
 
 pursue their rural sports together: he often calls upon us here, and
 
-[[arthur|Arthur]] not unfrequently rides over to him. I do not think either of
+[[Arthur]] not unfrequently rides over to him. I do not think either of
 
 these soi-disant friends is overflowing with [[Love|love]] for the other; but
 
 such intercourse serves to get the [[Time|time]] on, and I am very willing it
 
-should continue, as it saves me some hours of discomfort in [[arthur|Arthur]]’s
+should continue, as it saves me some hours of discomfort in [[Arthur]]’s
 
 society, and gives him some better employment than the sottish
 
@@ -286,7 +286,7 @@ remark, but—
 
 
 
-My little [[arthur|Arthur]] was standing between his knees, delightedly playing
+My little [[Arthur]] was standing between his knees, delightedly playing
 
 with the bright, ruby ring on his finger. Urged by a sudden, imperative
 

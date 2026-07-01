@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 62: A LIGHT SHINES ON MY WAY (part 2)"
+title: "David Copperfield — Chapter 62: A LIGHT SHINES ON MY WAY (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -140,14 +140,3 @@ much better than I, so necessary to me in every boyish [[Hope|hope]] and
 disappointment, that to have you to confide in, and rely upon in
 everything, became a second [[Nature|nature]], supplanting for the [[Time|time]] the first
 and greater one of loving you as I do!’
-
-Still weeping, but not sadly--joyfully! And clasped in my arms as she
-had never been, as I had thought she never was to be!
-
-‘When I loved Dora--fondly, Agnes, as you know--’
-
-‘Yes!’ she cried, earnestly. ‘I am glad to know it!’
-
-‘When I loved her--even then, my [[Love|love]] would have been incomplete,
-without your sympathy. I had it, and it was perfected. And when I lost
-her, Agnes, what should I have been without you, still!’

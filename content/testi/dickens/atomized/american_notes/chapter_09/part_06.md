@@ -14,6 +14,36 @@ tags:
 </nav>
 
 
+There were some fifteen or twenty persons in the room.  One, a tall,
+wiry, muscular old man, from the west; sunburnt and swarthy; with a brown
+white hat on his knees, and a giant umbrella resting between his legs;
+who sat bolt upright in his chair, frowning steadily at the carpet, and
+twitching the hard lines about his mouth, as if he had made up his mind
+‘to fix’ the President on what he had to say, and wouldn’t bate him a
+grain.  Another, a Kentucky farmer, six-feet-six in height, with his hat
+on, and his hands under his coat-tails, who leaned against the wall and
+kicked the floor with his heel, as though he had [[Time]]’s head under his
+shoe, and were literally ‘killing’ him.  A third, an oval-faced,
+bilious-looking man, with sleek black hair cropped close, and whiskers
+and beard shaved down to blue dots, who sucked the head of a thick stick,
+and from [[Time|time]] to [[Time|time]] took it out of his mouth, to see how it was getting
+on.  A fourth did nothing but whistle.  A fifth did nothing but spit.
+And indeed all these gentlemen were so very persevering and energetic in
+this latter particular, and bestowed their favours so abundantly upon the
+carpet, that I take it for granted the Presidential housemaids have high
+wages, or, to speak more genteelly, an ample amount of ‘compensation:’
+which is the American word for salary, in the case of all public
+servants.
+
+We had not waited in this room many minutes, before the black messenger
+returned, and conducted us into another of smaller dimensions, where, at
+a business-like table covered with papers, sat the President himself.  He
+looked somewhat worn and anxious, and [[Well|well]] he might; being at war with
+everybody—but the expression of his face was mild and pleasant, and his
+manner was remarkably unaffected, gentlemanly, and agreeable.  I thought
+that in his whole carriage and demeanour, he became his station
+singularly [[Well|well]].
+
 Being advised that the sensible etiquette of the republican [[Court|court]]
 admitted of a traveller, like myself, declining, without any impropriety,
 an invitation to dinner, which did not reach me until I had concluded my

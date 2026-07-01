@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 34 (part 1)"
+title: "Nicholas Nickleby — Chapter 34 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -159,6 +159,3 @@ husband.
 the demdest ardour! She, who coils her fascinations round me like a pure
 angelic rattlesnake! It will be all up with my feelings; she will throw
 me into a demd state.’
-
-‘Don’t talk of feelings, sir,’ rejoined Madame Mantalini, seating
-herself, and turning her back upon him. ‘You don’t consider mine.’

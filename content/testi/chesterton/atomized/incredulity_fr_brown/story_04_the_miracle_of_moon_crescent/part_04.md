@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The Miracle of [[Moon]] Crescent (part 4)"
+title: "incredulity Fr Brown — The Miracle of Moon Crescent (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity_fr_brown/story_04_the_miracle_of_moon_crescent/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity_fr_brown/story_04_the_miracle_of_moon_crescent/part_05">part 05 ›</a></div>
 </nav>
 
+
+'As for saints and angels - ' began the priest.
+
+'It's all nonsense,' repeated Fenner. 'I don't want to say anything
+offensive, but that sort of thing may be very [[Well|well]] for crypts and
+cloisters and all sorts of moonshiny places. But [[Ghosts|ghosts]] can't get
+through a closed door in an American hotel.'
 
 'But men can open a door, even in an American hotel,' replied Father
 Brown, patiently. 'And it seems to me the simplest thing would be to
@@ -126,10 +133,3 @@ door. And the recovery of [[Memory|memory]] went with a sharp reversal of mood; 
 came back to them with a rush that they had all dismissed him as a
 superstitious dreamer for even hinting at the very thing that had since
 happened before their eyes.
-
-'Snakes!' cried the impetuous Westerner, like one speaking before he
-could stop himself; 'suppose there were something in it, after all!'
-
-'I must confess,' said Fenner, frowning at the table, 'that his
-reverence's anticipations were apparently [[Well|well]] founded. I don't know
-whether he has anything else to tell us.'

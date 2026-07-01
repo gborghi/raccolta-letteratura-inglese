@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 40 (part 1)"
+title: "Bleak House — Chapter 40 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -116,19 +116,3 @@ as if they were each one profound tree. And now the [[Moon|moon]] rises to
 separate them, and to glimmer here and there in horizontal lines
 behind their stems, and to make the avenue a pavement of light among
 high [[Cathedral|cathedral]] arches fantastically broken.
-
-Now the [[Moon|moon]] is high; and the [[Great House|great house]], needing habitation more
-than ever, is like a [[Body|body]] without life. Now it is even awful,
-stealing through it, to think of the live people who have slept in
-the solitary bedrooms, to say nothing of the dead. Now is the [[Time|time]]
-for [[Shadow|shadow]], when every corner is a cavern and every downward step a
-pit, when the stained glass is reflected in pale and faded hues upon
-the floors, when anything and everything can be made of the heavy
-staircase beams excepting their own proper shapes, when the armour
-has dull lights upon it not easily to be distinguished from stealthy
-movement, and when barred helmets are frightfully suggestive of heads
-inside. But of all the shadows in Chesney Wold, the [[Shadow|shadow]] in the
-long drawing-room upon my Lady’s picture is the first to come, the
-last to be disturbed. At this hour and by this light it changes into
-threatening hands raised up and menacing the handsome face with every
-breath that stirs.

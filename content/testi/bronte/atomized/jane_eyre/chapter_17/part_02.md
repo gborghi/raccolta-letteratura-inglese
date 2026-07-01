@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 17 (part 2)"
+title: "Jane Eyre — Chapter 17 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -132,22 +132,3 @@ mangé.”
 
 “[[Well]] now, while the ladies are in their rooms, I will venture down and
 get you something to eat.”
-
-And issuing from my asylum with precaution, I sought a back-stairs
-which conducted directly to the kitchen. All in that region was [[Fire|fire]]
-and commotion; the soup and fish were in the last stage of projection,
-and the cook hung over her crucibles in a frame of mind and [[Body|body]]
-threatening spontaneous combustion. In the servants’ hall two coachmen
-and three gentlemen’s gentlemen stood or sat round the [[Fire|fire]]; the
-abigails, I suppose, were upstairs with their mistresses; the new
-servants, that had been hired from Millcote, were bustling about
-everywhere. Threading this chaos, I at last reached the larder; there I
-took possession of a cold chicken, a roll of bread, some tarts, a plate
-or two and a knife and fork: with this booty I made a hasty retreat. I
-had regained the gallery, and was just shutting the back-door behind
-me, when an accelerated hum warned me that the ladies were about to
-issue from their chambers. I could not proceed to the schoolroom
-without passing some of their doors, and running the risk of being
-surprised with my cargo of victualage; so I stood still at this end,
-which, being windowless, was dark: quite dark now, for the sun was set
-and twilight gathering.

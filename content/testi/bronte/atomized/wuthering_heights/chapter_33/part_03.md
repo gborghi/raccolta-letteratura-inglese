@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 33 (part 3)"
+title: "Wuthering Heights — Chapter 33 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_33/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_34/part_01">part 01 ›</a></div>
 </nav>
 
+
+“It is a poor conclusion, is it not?” he observed, having brooded
+a while on the scene he had just witnessed: “an absurd termination to
+my violent exertions? I get levers and mattocks to demolish the two
+houses, and train myself to be capable of working like Hercules, and
+when everything is ready and in my power, I find the will to lift a
+slate off either roof has vanished! My old enemies have not beaten me;
+now would be the precise [[Time|time]] to [[Revenge|revenge]] myself on their
+representatives: I could do it; and none could hinder me. But where is
+the use? I don’t care for striking: I can’t take the trouble to raise
+my hand! That sounds as if I had been labouring the whole [[Time|time]] only to
+exhibit a fine trait of magnanimity. It is far from being the case: I
+have lost the faculty of enjoying their destruction, and I am too idle
+to destroy for nothing.
 
 “Nelly, there is a strange change approaching; I’m in its [[Shadow|shadow]] at
 present. I take so little interest in my daily life that I hardly

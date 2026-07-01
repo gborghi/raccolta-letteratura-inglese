@@ -1,5 +1,5 @@
 ---
-title: "[[Eugenics]] — Part 1 (part 13)"
+title: "Eugenics — Part 1 (part 13)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/eugenics-(chesterton)"
@@ -13,6 +13,103 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/eugenics/chapter_02/part_12">‹ part 12</a><a class="ex-next" href="/testi/chesterton/atomized/eugenics/chapter_02/part_14">part 14 ›</a></div>
 </nav>
 
+
+Health is simply [[Nature]], and no naturalist ought to have
+the impudence to understand it.  Health, one may say, is God;
+and no agnostic has any right to claim His acquaintance.
+For God must mean, among other things, that mystical and multitudinous
+balance of all things, by which they are at least able to stand
+up straight and endure; and any scientist who pretends to have
+exhausted this subject of ultimate [[Sanity|sanity]], I will call the lowest
+of religious fanatics.  I will allow him to understand the madman,
+for the madman is an exception.  But if he says he understands
+the sane man, then he says he has the secret of the Creator.
+For whenever you and I feel fully sane, we are quite incapable
+of naming the elements that make up that mysterious simplicity.
+We can no more analyse such peace in the [[Soul|soul]] than we can conceive
+in our heads the whole enormous and dizzy equilibrium by which,
+out of suns roaring like infernos and heavens toppling like precipices,
+He has hanged the world upon nothing.
+
+We conclude, therefore, that unless Eugenic activity be restricted
+to monstrous things like mania, there is no constituted or
+constitutable authority that can really over-rule men in a matter
+in which they are so largely on a level.  In the matter of
+fundamental human rights, nothing can be above Man, except God.
+An institution claiming to come from God might have such authority;
+but this is the last claim the Eugenists are likely to make.
+One caste or one profession seeking to rule men in such matters
+is like a man's right eye claiming to rule him, or his left leg
+to run away with him.  It is [[Madness|madness]].  We now pass on to consider
+whether there is really anything in the way of [[Eugenics]] to be done,
+with such cheerfulness as we may possess after discovering that there
+is nobody to do it.
+
+---/---
+
+VI
+
+THE UNANSWERED CHALLENGE
+
+Dr. Saleeby did me the [[Honour|honour]] of referring to me in one of his
+addresses on this subject, and said that even I cannot produce
+any but a feeble-minded [[Child|child]] from a feeble-minded ancestry.
+To which I reply, first of all, that he cannot produce
+a feeble-minded [[Child|child]].  The whole point of our contention is
+that this phrase conveys nothing fixed and outside opinion.
+There is such a thing as mania, which has always been segregated;
+there is such a thing as idiocy, which has always been segregated;
+but feeble-mindedness is a new phrase under which you might
+segregate anybody.  It is essential that this fundamental fallacy
+in the use of statistics should be got somehow into the modern mind.
+Such people must be made to see the point, which is surely plain enough,
+that it is useless to have exact figures if they are exact figures
+about an inexact phrase.  If I say, "There are five fools in Action,"
+it is surely quite clear that, though no mathematician can make
+five the same as four or six, that will not stop you or anyone else
+from finding a few more fools in Action.  Now weak-mindedness,
+like folly, is a term divided from [[Madness|madness]] in this vital manner ---
+that in one sense it applies to all men, in another to most men,
+in another to very many men, and so on.  It is as if Dr. Saleeby
+were to say, "[[Vanity]], I find, is undoubtedly hereditary.  Here is
+Mrs. [[Jones]], who was very sensitive about her sonnets being criticized,
+and I found her little daughter in a new frock looking in the glass.
+The experiment is conclusive, the demonstration is complete;
+there in the first generation is the artistic temperament ---
+that is [[Vanity|vanity]]; and there in the second generation is dress ---
+and that is [[Vanity|vanity]]."  We should answer, "My friend, all is [[Vanity|vanity]],
+[[Vanity|vanity]] and vexation of spirit --- especially when one has to listen
+to [[logic]] of your favourite kind.  Obviously all human beings must
+value themselves; and obviously there is in all such evaluation an
+element of weakness, since it is not the valuation of eternal justice.
+What is the use of your finding by experiment in some people a thing
+we know by reason must be in all of them?"
+
+Here it will be as [[Well|well]] to pause a moment and avert one
+possible misunderstanding.  I do not mean that you and I cannot
+and do not practically see and personally remark on this or that
+eccentric or intermediate type, for which the word "feeble-minded"
+might be a very convenient word, and might correspond to a genuine
+though indefinable fact of experience.  In the same way we might speak,
+and do speak, of such and such a person being "mad with [[Vanity|vanity]]"
+without wanting two keepers to walk in and take the person off.
+But I ask the reader to remember always that I am talking of words,
+not as they are used in talk or novels, but as they will be used,
+and have been used, in warrants and certificates, and Acts of Parliament.
+The distinction between the two is perfectly clear and practical.
+The difference is that a novelist or a talker can be trusted
+to try and hit the mark; it is all to his glory that the cap
+should fit, that the type should be recognized; that he should,
+in a literary sense, hang the right man.  But it is by no means always
+to the interest of governments or officials to hang the right man.
+The fact that they often do stretch words in order to cover
+cases is the whole foundation of having any fixed laws or free
+institutions at all.  My point is not that I have never met anyone
+whom I should call feeble-minded, rather than mad or imbecile.
+My point is that if I want to dispossess a nephew, oust a rival,
+[[Silence|silence]] a blackmailer, or get rid of an importunate widow, there is
+nothing in [[logic]] to prevent my calling them feeble-minded too.
+And the vaguer the charge is the less they will be able to disprove it.
 
 One does not, as I have said, need to deny heredity in order to
 resist legislation, any more than one needs to deny the spiritual
@@ -70,53 +167,3 @@ I gravely [[Doubt|doubt]] whether the Astronomer-Royal would write the best
 I [[Doubt|doubt]] whether the President of the Geographical Society could
 give the best definition and the [[history]] of the words "geography"
 and "geology."
-
-Now the students of heredity, especially, understand all of their
-subject except their subject.  They were, I suppose, bred and
-born in that brier-patch, and have really explored it without
-coming to the end of it.  That is, they have studied everything
-but the question of what they are studying.  Now I do not propose
-to rely merely on myself to tell them what they are studying.
-I propose, as will be seen in a moment, to call the testimony
-of a great man who has himself studied it.  But to begin with,
-the domain of heredity (for those who see its frontiers)
-is a sort of triangle, enclosed on its three sides by three facts.
-The first is that heredity undoubtedly exists, or there would
-be no such thing as a family likeness, and every [[Marriage|marriage]] might
-suddenly produce a small negro.  The second is that even simple
-heredity can never be simple; its complexity must be literally,
-unfathomable, for in that field fight unthinkable millions.
-But yet again it never is simple heredity:  for the instant anyone is,
-he experiences.  The third is that these innumerable ancient influences,
-these instant inundations of experiences, come together according
-to a combination that is unlike anything else on this earth.
-It is a combination that does combine.  It cannot be sorted out again,
-even on the Day of Judgment.  Two totally different people have become
-in the sense most sacred, frightful, and unanswerable, one flesh.
-If a golden-haired Scandinavian girl has married a very swarthy Jew,
-the Scandinavian side of the family may say till they are blue in
-the face that the baby has his mother's nose or his mother's eyes.
-They can never be certain the black-haired Bedouin is not present
-in every feature, in every inch.  In the person of the baby he may
-have gently pulled his wife's nose.  In the person of the baby
-he may have partly blacked his wife's eyes.
-
-Those are the three first facts of heredity.  That it exists;
-that it is subtle and made of a million elements; that it is simple,
-and cannot be unmade into those elements.  To summarize:
-you know there is wine in the soup.  You do not know how many wines
-there are in the soup, because you do not know how many wines there
-are in the world.  And you never will know, because all chemists,
-all cooks, and all common-sense people tell you that the soup is
-of such a sort that it can never be chemically analysed.  That is a
-perfectly fair parallel to the hereditary element in the human [[Soul|soul]].
-There are many ways in which one can feel that there is wine
-in the soup, as in suddenly tasting a wine specially favoured;
-that corresponds to seeing suddenly flash on a young face the image
-of some ancestor you have known.  But even then the taster cannot be
-certain he is not tasting one familiar wine among many unfamiliar ones ---
-or seeing one known ancestor among a million unknown ancestors.
-Another way is to get drunk on the soup, which corresponds to the case
-of those who say they are driven to sin and [[Death|death]] by hereditary doom.
-But even then the drunkard cannot be certain it was the soup,
-any more than the traditional drunkard who is certain it was the salmon.

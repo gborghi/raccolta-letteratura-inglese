@@ -14,6 +14,54 @@ tags:
 </nav>
 
 
+æsthetes, apart from the purely poetical merits of men like Rossetti and
+
+Swinburne. Like Swinburne and others he first attempted to use mediæval
+
+tradition without trusting it. These people wanted to see Paganism
+
+_through_ [[Christianity]]: because it involved the incidental amusement of
+
+seeing through [[Christianity]] itself. They not only tried to be in all
+
+ages at once (which is a very reasonable [[Ambition|ambition]], though not often
+
+realised), but they wanted to be on all sides at once: which is
+
+nonsense. Swinburne tries to question the [[philosophy]] of [[Christianity]] in
+
+the metres of a Christmas [[carol]]: and [[Dante]] Rossetti tries to write as if
+
+he were Christina Rossetti. Certainly the almost successful summit of
+
+all this attempt is Pater's superb passage on the Mona Lisa; in which he
+
+seeks to make her at once a mystery of good and a mystery of evil. The
+
+[[philosophy]] is false; even evidently false, for it bears no fruit to-day.
+
+There never was a woman, not Eve herself in the instant of [[Temptation|temptation]],
+
+who could smile the same smile as the mother of [[Helen]] and the mother of
+
+Mary. But it is the high-[[Water|water]] mark of that vast attempt at an
+
+impartiality reached through art: and no other mere [[artist]] ever [[Rose|rose]] so
+
+high again.
+
+Apart from this Ruskinian offshoot through Pre-Raphaelitism into what
+
+was called Æstheticism, the remains of the inspiration of Carlyle fill a
+
+very large part in the Victorian life, but not strictly so large a part
+
+in the Victorian literature. Charles Kingsley was a great publicist; a
+
+popular preacher; a popular novelist; and (in two cases at least) a very
+
+good novelist. His _Water Babies_ is really a breezy and roaring freak;
+
 like a holiday at the seaside--a holiday where one talks natural [[history]]
 
 without taking it seriously. Some of the [[songs]] in this and other of his
@@ -43,8 +91,6 @@ things is not to be forgotten: but they leave the domain of letters. The
 voice of Carlyle is not heard again in letters till the coming of
 
 Kipling and Henley.
-
-
 
 One other name of great importance should appear here, because it cannot
 
@@ -122,8 +168,6 @@ illiberal life in Islington to a dismal and illiberal life in
 
 Camberwell?"
 
-
-
 His attitude to that great religious enigma round which all these great
 
 men were grouped as in a ring, was individual and decidedly curious. He
@@ -139,57 +183,3 @@ ideas of the age, whatever those ideas might happen to be. He clearly
 seems to have contemplated a melting away of the doctrines of the Church
 
 and even of the meaning of the words: but he thought a certain need in
-
-man would always be best satisfied by public worship and especially by
-
-the great religious literatures of the past. He would embalm the [[Body|body]]
-
-that it might often be revisited by the [[Soul|soul]]--or souls. Something of the
-
-sort has been suggested by Dr. Coit and others of the ethical societies
-
-in our own [[Time|time]]. But while Arnold would loosen the theological bonds of
-
-the Church, he would not loosen the official bonds of the State. You
-
-must not disestablish the Church: you must not even leave the Church:
-
-you must stop inside it and think what you choose. Enemies might say
-
-that he was simply trying to establish and endow Agnosticism. It is
-
-fairer and truer to say that unconsciously he was trying to restore
-
-Paganism: for this State Ritualism without theology, and without much
-
-belief, actually was the practice of the ancient world. Arnold may have
-
-thought that he was building an altar to the Unknown God; but he was
-
-really building it to Divus Cæsar.
-
-
-
-As a critic he was chiefly concerned to preserve criticism itself; to
-
-set a measure to praise and blame and support the classics against the
-
-fashions. It is here that it is specially true of him, if of no writer
-
-else, that the style was the man. The most vital thing he invented was a
-
-new style: founded on the patient unravelling of the tangled Victorian
-
-ideas, as if they were matted hair under a comb. He did not mind how
-
-elaborately long he made a sentence, so long as he made it clear. He
-
-would constantly repeat whole phrases word for word in the same
-
-sentence, rather than risk ambiguity by abbreviation. His genius showed
-
-itself in turning this method of a laborious lucidity into a peculiarly
-
-exasperating form of [[Satire|satire]] and controversy. Newman's strength was in a
-
-sort of stifled passion, a dangerous patience of polite [[logic]] and then:

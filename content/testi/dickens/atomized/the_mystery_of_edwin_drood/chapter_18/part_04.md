@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 17 (part 4)"
+title: "The Mystery of Edwin Drood — Chapter 17 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -156,9 +156,3 @@ out, and to go out to join him, and to go the way that you were going,
 and to take no notice of our local friend?” said Mr. Grewgious. “I
 entertain a sort of fancy for having _him_ under my eye to-[[Night|night]], do
 you know?”
-
-Mr. Crisparkle, with a significant nod complied; and rejoining Neville,
-went away with him. They dined together, and parted at the yet
-unfinished and undeveloped railway station: Mr. Crisparkle to get [[Home|home]];
-Neville to walk the streets, [[Cross|cross]] the bridges, make a wide round of
-the [[City|city]] in the friendly darkness, and tire himself out.

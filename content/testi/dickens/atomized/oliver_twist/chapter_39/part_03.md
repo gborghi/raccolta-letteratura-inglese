@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 39 (part 3)"
+title: "Oliver Twist — Chapter 39 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_39/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_39/part_04">part 04 ›</a></div>
 </nav>
 
+
+In due course, they arrived at [[Fagin]]’s abode, where they found Toby
+Crackit and Mr. Chitling intent upon their fifteenth game at cribbage,
+which it is scarcely necessary to say the latter gentleman lost, and
+with it, his fifteenth and last sixpence: much to the amusement of his
+young friends. Mr. Crackit, apparently somewhat ashamed at being found
+relaxing himself with a gentleman so much his inferior in station and
+mental endowments, yawned, and inquiring after Sikes, took up his hat
+to go.
 
 “Has nobody been, Toby?” asked [[Fagin]].
 
@@ -127,16 +136,3 @@ the room.
 as they went upstairs. [[Fagin]] laughed; and making some reply which did
 not reach her, seemed, by the creaking of the boards, to lead his
 companion to the second story.
-
-Before the sound of their footsteps had ceased to echo through the
-[[house]], the girl had slipped off her shoes; and drawing her gown loosely
-over her head, and muffling her arms in it, stood at the door,
-listening with breathless interest. The moment the noise ceased, she
-glided from the room; ascended the stairs with incredible softness and
-[[Silence|silence]]; and was lost in the gloom above.
-
-The room remained deserted for a quarter of an hour or more; the girl
-glided back with the same unearthly tread; and, immediately afterwards,
-the two men were heard descending. [[Monks]] went at once into the street;
-and the Jew crawled upstairs again for the money. When he returned, the
-girl was adjusting her shawl and bonnet, as if preparing to be gone.

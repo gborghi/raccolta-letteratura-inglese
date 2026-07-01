@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 16: I AM A NEW BOY IN MORE SENSES THAN ONE (part 3)"
+title: "David Copperfield — Chapter 16: I AM A NEW BOY IN MORE SENSES THAN ONE (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,53 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_16_i_am_a_new_boy_in_more_senses/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_16_i_am_a_new_boy_in_more_senses/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘There shall be as little lingering as possible, in your case, Mr.
+Maldon, you may depend upon it,’ said Mr. Wickfield.
+
+‘Thank’ee,’ said the other. ‘Much obliged. I don’t want to look a
+gift-[[Horse|horse]] in the mouth, which is not a gracious thing to do; otherwise,
+I dare say, my cousin Annie could easily arrange it in her own way. I
+suppose Annie would only have to say to the old Doctor--’
+
+‘Meaning that Mrs. Strong would only have to say to her husband--do I
+follow you?’ said Mr. Wickfield.
+
+‘Quite so,’ returned the other, ‘--would only have to say, that she
+wanted such and such a thing to be so and so; and it would be so and so,
+as a matter of course.’
+
+‘And why as a matter of course, Mr. Maldon?’ asked Mr. Wickfield,
+sedately eating his dinner.
+
+‘Why, because Annie’s a charming young girl, and the old Doctor--Doctor
+Strong, I mean--is not quite a charming young boy,’ said Mr. Jack
+Maldon, laughing. ‘No offence to anybody, Mr. Wickfield. I only mean
+that I suppose some compensation is fair and reasonable in that sort of
+[[Marriage|marriage]].’
+
+‘Compensation to the lady, sir?’ asked Mr. Wickfield gravely.
+
+‘To the lady, sir,’ Mr. Jack Maldon answered, laughing. But appearing
+to remark that Mr. Wickfield went on with his dinner in the same sedate,
+immovable manner, and that there was no [[Hope|hope]] of making him relax a
+muscle of his face, he added: ‘However, I have said what I came to say,
+and, with another apology for this intrusion, I may take myself off. Of
+course I shall observe your directions, in considering the matter as one
+to be arranged between you and me solely, and not to be referred to, up
+at the Doctor’s.’
+
+‘Have you dined?’ asked Mr. Wickfield, with a motion of his hand towards
+the table.
+
+‘Thank’ee. I am going to dine,’ said Mr. Maldon, ‘with my cousin Annie.
+Good-bye!’
+
+Mr. Wickfield, without rising, looked after him thoughtfully as he went
+out. He was rather a shallow sort of young gentleman, I thought, with
+a handsome face, a rapid utterance, and a confident, bold air. And this
+was the first I ever saw of Mr. Jack Maldon; whom I had not expected to
+see so soon, when I heard the Doctor speak of him that morning.
 
 When we had dined, we went upstairs again, where everything went on
 exactly as on the previous day. Agnes set the glasses and decanters in
@@ -93,56 +140,3 @@ I desired it for company’s sake, and to sit with him. I thanked him for
 his consideration; and, as he went down soon afterwards, and I was
 not tired, went down too, with a book in my hand, to avail myself, for
 half-an-hour, of his permission.
-
-But, seeing a light in the little round office, and immediately feeling
-myself attracted towards [[Uriah Heep]], who had a sort of fascination for
-me, I went in there instead. I found Uriah reading a great fat book,
-with such demonstrative attention, that his lank forefinger followed up
-every line as he read, and made clammy tracks along the page (or so I
-fully believed) like a snail.
-
-‘You are working late tonight, Uriah,’ says I.
-
-‘Yes, Master Copperfield,’ says Uriah.
-
-As I was getting on the stool opposite, to talk to him more
-conveniently, I observed that he had not such a thing as a smile about
-him, and that he could only widen his mouth and make two hard creases
-down his cheeks, one on each side, to stand for one.
-
-‘I am not doing office-work, Master Copperfield,’ said Uriah.
-
-‘What work, then?’ I asked.
-
-‘I am improving my legal knowledge, Master Copperfield,’ said Uriah. ‘I
-am going through Tidd’s Practice. Oh, what a writer Mr. Tidd is, Master
-Copperfield!’
-
-My stool was such a tower of observation, that as I watched him reading
-on again, after this rapturous exclamation, and following up the lines
-with his forefinger, I observed that his nostrils, which were thin and
-pointed, with sharp dints in them, had a singular and most uncomfortable
-way of expanding and contracting themselves--that they seemed to twinkle
-instead of his eyes, which hardly ever twinkled at all.
-
-‘I suppose you are quite a great lawyer?’ I said, after looking at him
-for some [[Time|time]].
-
-‘Me, Master Copperfield?’ said Uriah. ‘Oh, no! I’m a very umble person.’
-
-It was no fancy of mine about his hands, I observed; for he frequently
-ground the palms against each other as if to squeeze them dry and
-warm, besides often wiping them, in a stealthy way, on his
-pocket-handkerchief.
-
-‘I am [[Well|well]] aware that I am the umblest person going,’ said [[Uriah Heep]],
-modestly; ‘let the other be where he may. My mother is likewise a very
-umble person. We live in a numble abode, Master Copperfield, but have
-much to be thankful for. My father’s former calling was umble. He was a
-sexton.’
-
-‘What is he now?’ I asked.
-
-‘He is a partaker of glory at present, Master Copperfield,’ said Uriah
-Heep. ‘But we have much to be thankful for. How much have I to be
-thankful for in living with Mr. Wickfield!’

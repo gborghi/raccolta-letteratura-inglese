@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 12 (part 3)"
+title: "Wuthering Heights — Chapter 12 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -126,10 +126,3 @@ Dean,” he replied.
 I. “[[Heathcliff]] has your permission to come a-courting to Miss, and to
 drop in at every opportunity your absence offers, on purpose to [[Poison|poison]]
 the mistress against you?”
-
-Confused as Catherine was, her wits were alert at applying our
-conversation.
-
-“Ah! Nelly has played traitor,” she exclaimed, passionately. “Nelly is
-my hidden enemy. You [[Witch|witch]]! So you do seek elf-bolts to hurt us! Let me
-go, and I’ll make her rue! I’ll make her howl a recantation!”

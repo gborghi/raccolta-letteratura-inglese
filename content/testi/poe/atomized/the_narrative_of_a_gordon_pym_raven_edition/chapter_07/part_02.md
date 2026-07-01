@@ -14,6 +14,10 @@ tags:
 </nav>
 
 
+      when a vessel is lying-to in a gale of [[Wind|wind]]. As I address myself
+
+      principally, if not altogether, to persons who have never been to
+
       sea, it may be as [[Well|well]] to state the exact condition of a vessel
 
       under such circumstances. Lying-to, or, in sea-parlance,
@@ -185,15 +189,3 @@ tags:
       be remembered that one of the crew, Hartman Rogers, had died
 
       during the morning, having been attacked two days before with
-
-      spasms after drinking some spirits and [[Water|water]]. Peters had
-
-      expressed to us his opinion that this man had been poisoned by
-
-      the mate, and for this belief he had reasons, so he said, which
-
-      were incontrovertible, but which he could not be prevailed upon
-
-      to explain to us—this wayward refusal being only in keeping with
-
-      other points of his singular character. But whether or not he had

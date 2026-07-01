@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 30 (part 3)"
+title: "Villette — Chapter 30 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_32/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_32/part_04">part 04 ›</a></div>
 </nav>
 
+
+“Mais, sans doute.”
+
+The lesson to which we had that day to submit was such as to make us
+very glad when it terminated. At its close, the released pupils rushed
+out, half-trembling, half-exultant. I, too, was going. A mandate to
+remain arrested me. I muttered that I wanted some fresh air sadly—the
+stove was in a glow, the classe over-heated. An inexorable voice merely
+recommended [[Silence|silence]]; and this salamander—for whom no room ever seemed
+too hot—sitting down between my desk and the stove—a situation in which
+he ought to have felt broiled, but did not—proceeded to confront me
+with—a Greek quotation!
 
 In M. Emanuel’s [[Soul|soul]] rankled a chronic suspicion that I knew both Greek
 and Latin. As monkeys are said to have the power of speech if they
@@ -111,23 +123,3 @@ a glass or two of vin blanc—might I go?
 you were with the pâté â la crême I once gave you, and you know very
 [[Well|well]], at this moment, that to fetch the apples for me will be the same
 as getting them for yourself. Go, then, but come back quickly.”
-
-And at last he liberated me on parole. My own plan was to go and return
-with [[Speed|speed]] and good [[Faith|faith]], to put the plate in at the door, and then to
-vanish incontinent, leaving all consequences for future settlement.
-
-That intolerably keen instinct of his seemed to have anticipated my
-scheme: he met me at the threshold, hurried me into the room, and fixed
-me in a minute in my former seat. Taking the plate of fruit from my
-hand, he divided the portion intended only for himself, and ordered me
-to eat my share. I complied with no good grace, and vexed, I suppose,
-by my reluctance, he opened a masked and dangerous battery. All he had
-yet said, I could count as mere sound and fury, signifying nothing: not
-so of the present attack.
-
-It consisted in an unreasonable proposition with which he had before
-afflicted me: namely, that on the next public examination-day I should
-engage—foreigner as I was—to take my place on the first form of
-first-class pupils, and with them improvise a composition in French, on
-any subject any spectator might dictate, without benefit of grammar or
-lexicon.

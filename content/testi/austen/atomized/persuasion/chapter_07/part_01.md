@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 7 (part 1)"
+title: "Persuasion — Chapter 7 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -203,13 +203,3 @@ father, just now, that I would come, and he thought me quite right.
 Your sister being with you, my [[Love|love]], I have no scruple at all. You
 
 would not like to leave him yourself, but you see I can be of no use.
-
-Anne will send for me if anything is the matter.”
-
-
-
-Husbands and wives generally understand when opposition will be vain.
-
-Mary knew, from Charles’s manner of speaking, that he was quite
-
-determined on going, and that it would be of no use to teaze him. She

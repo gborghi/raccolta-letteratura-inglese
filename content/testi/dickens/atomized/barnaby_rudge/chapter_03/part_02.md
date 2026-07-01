@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 3 (part 2)"
+title: "Barnaby Rudge — Chapter 3 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_03/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_03/part_03">part 03 ›</a></div>
 </nav>
 
+
+Returning his cheery farewell with cordial goodwill, Joe Willet lingered
+until the sound of wheels ceased to vibrate in his ears, and then,
+shaking his head mournfully, re-entered the [[house]].
 
 [[Gabriel Varden]] went his way towards [[London]], thinking of a great
 many things, and most of all of flaming terms in which to relate his

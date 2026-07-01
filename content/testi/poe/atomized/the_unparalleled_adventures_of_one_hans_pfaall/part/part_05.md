@@ -1,5 +1,5 @@
 ---
-title: "[[The Unparalleled Adventures of one Hans Pfaall]] (part 5)"
+title: "The Unparalleled Adventures of one Hans Pfaall (part 5)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-unparalleled-adventures-of-one-hans-pfaall-(poe)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/part/part_04">‹ part 04</a><a class="ex-next" href="/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/part/part_06">part 06 ›</a></div>
 </nav>
 
+
+      thousand cubic feet of gas; would take me up easily, I
+
+      calculated, with all my implements, and, if I managed rightly,
+
+      with one hundred and seventy-five pounds of ballast into the
+
+      bargain. It had received three coats of varnish, and I found the
+
+      cambric muslin to answer all the purposes of silk itself, quite
+
+      as strong and a good deal less expensive.
+
+
+
+      “Everything being now ready, I exacted from my wife an oath of
+
+      secrecy in relation to all my actions from the day of my first
 
       visit to the bookseller’s stall; and promising, on my part, to
 
@@ -175,23 +193,3 @@ tags:
       velocity, and finally, reeling and staggering like a drunken man,
 
       hurled me with great force over the rim of the car, and left me
-
-      dangling, at a terrific height, with my head downward, and my
-
-      face outwards, by a piece of slender cord about three feet in
-
-      length, which hung accidentally through a crevice near the [[Bottom|bottom]]
-
-      of the wicker-work, and in which, as I fell, my left foot became
-
-      most providentially entangled. It is impossible—utterly
-
-      impossible—to form any adequate idea of the horror of my
-
-      situation. I gasped convulsively for breath—a shudder resembling
-
-      a fit of the ague agitated every nerve and muscle of my frame—I
-
-      felt my eyes starting from their sockets—a horrible nausea
-
-      overwhelmed me—and at length I fainted away.

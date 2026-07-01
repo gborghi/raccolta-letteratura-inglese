@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 27 (part 2)"
+title: "Bleak House — Chapter 27 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_27/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_27/part_03">part 03 ›</a></div>
 </nav>
 
+
+All three repetitions Mr. George pronounces in a mechanical manner,
+looking straight at Mr. Tulkinghorn; nor does he so much as glance at
+the affidavit in Jarndyce and Jarndyce, that has been given to him
+for his inspection (though he still holds it in his hand), but
+continues to look at the lawyer with an air of troubled meditation.
 
 “[[Well]]?” says Mr. Tulkinghorn. “What do you say?”
 
@@ -128,8 +134,3 @@ he won’t do it with a good grace, I’ll make him do it with a bad one,
 sir! Now, my dear Mr. George,” says Grandfather Smallweed, winking at
 the lawyer hideously as he releases him, “I am ready for your kind
 assistance, my excellent friend!”
-
-Mr. Tulkinghorn, with some shadowy sign of amusement manifesting
-itself through his [[Self|self]]-possession, stands on the hearth-rug with his
-back to the [[Fire|fire]], watching the disappearance of Mr. Smallweed and
-acknowledging the trooper’s parting salute with one slight nod.

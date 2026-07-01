@@ -1,5 +1,5 @@
 ---
-title: "ball and [[Cross|cross]] — Some Old Curiosities (part 2)"
+title: "ball and cross — Some Old Curiosities (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/ball-and-cross-(chesterton)"
@@ -127,11 +127,3 @@ And he saw the archway blocked and blackened with strange figures.
 
 "We must bolt, MacIan," he said abruptly.  "And there isn't a damned
 second to lose either.  Do as I do."
-
-With a bound he was beside the little cluster of his clothes and boots
-that lay on the lawn; he snatched them up, without waiting to put
-any of them on; and tucking his [[Sword|sword]] under his other arm, went wildly
-at the wall at the [[Bottom|bottom]] of the [[Garden|garden]] and swung himself over it.
-Three seconds after he had alighted in his socks on the other side,
-MacIan alighted beside him, also in his socks and also carrying
-clothes and [[Sword|sword]] in a desperate bundle.

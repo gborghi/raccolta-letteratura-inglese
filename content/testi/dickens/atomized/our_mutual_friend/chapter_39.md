@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 15"
+title: "Our Mutual Friend — Chapter 1"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,757 +14,612 @@ tags:
 </nav>
 
 
-Chapter 15
+BOOK THE THIRD — A LONG LANE
+Chapter 1
+
+LODGERS IN QUEER STREET
+
+
+It was a foggy day in [[London]], and the fog was heavy and dark. Animate
+[[London]], with smarting eyes and irritated lungs, was blinking, wheezing,
+and choking; inanimate [[London]] was a sooty spectre, divided in purpose
+between being visible and invisible, and so being wholly neither.
+Gaslights flared in the shops with a haggard and unblest air, as knowing
+themselves to be [[Night|night]]-creatures that had no business abroad under the
+sun; while the sun itself when it was for a few moments dimly indicated
+through circling eddies of fog, showed as if it had gone out and were
+collapsing flat and cold. Even in the surrounding country it was a foggy
+day, but there the fog was grey, whereas in [[London]] it was, at about
+the boundary line, dark yellow, and a little within it brown, and then
+browner, and then browner, until at the heart of the [[City]]—which call
+Saint Mary Axe—it was rusty-black. From any point of the high ridge of
+land northward, it might have been discerned that the loftiest buildings
+made an occasional struggle to get their heads above the foggy sea, and
+especially that the great dome of Saint Paul’s seemed to die hard; but
+this was not perceivable in the streets at their feet, where the whole
+metropolis was a heap of vapour charged with muffled sound of wheels,
+and enfolding a gigantic catarrh.
+
+At nine o’[[Clock|clock]] on such a morning, the place of business of Pubsey and
+Co. was not the liveliest object even in Saint Mary Axe—which is not a
+very lively spot—with a sobbing gaslight in the counting-[[house]] [[Window|window]],
+and a burglarious stream of fog creeping in to strangle it through the
+keyhole of the main door. But the light went out, and the main door
+opened, and Riah came forth with a bag under his arm.
+
+Almost in the act of coming out at the door, Riah went into the fog, and
+was lost to the eyes of Saint Mary Axe. But the eyes of this [[history]]
+can follow him westward, by Cornhill, Cheapside, Fleet Street, and the
+Strand, to Piccadilly and the Albany. Thither he went at his [[Grave|grave]] and
+measured pace, staff in hand, skirt at heel; and more than one head,
+turning to look back at his venerable figure already lost in the mist,
+supposed it to be some ordinary figure indistinctly seen, which fancy
+and the fog had worked into that passing likeness.
+
+Arrived at the [[house]] in which his master’s chambers were on the
+second floor, Riah proceeded up the stairs, and paused at Fascination
+Fledgeby’s door. Making free with neither bell nor knocker, he struck
+upon the door with the top of his staff, and, having listened, sat down
+on the threshold. It was characteristic of his habitual submission,
+that he sat down on the raw dark staircase, as many of his ancestors
+had probably sat down in dungeons, taking what befell him as it might
+befall.
+
+After a [[Time|time]], when he had grown so cold as to be fain to blow upon his
+fingers, he arose and knocked with his staff again, and listened again,
+and again sat down to wait. Thrice he repeated these actions before his
+listening ears were greeted by the voice of Fledgeby, calling from his
+bed, ‘Hold your row!—I’ll come and open the door directly!’ But, in
+lieu of coming directly, he fell into a sweet [[Sleep|sleep]] for some quarter of
+an hour more, during which added interval Riah sat upon the stairs and
+waited with perfect patience.
+
+At length the door stood open, and Mr Fledgeby’s retreating drapery
+plunged into bed again. Following it at a respectful distance, Riah
+passed into the bed-chamber, where a [[Fire|fire]] had been sometime lighted, and
+was burning briskly.
+
+‘Why, what [[Time|time]] of [[Night|night]] do you mean to call it?’ inquired Fledgeby,
+turning away beneath the clothes, and presenting a comfortable rampart
+of shoulder to the chilled figure of the old man.
+
+‘Sir, it is full half-past ten in the morning.’
+
+‘The deuce it is! Then it must be precious foggy?’
+
+‘Very foggy, sir.’
+
+‘And raw, then?’
+
+‘Chill and bitter,’ said Riah, drawing out a handkerchief, and wiping
+the moisture from his beard and long grey hair as he stood on the verge
+of the rug, with his eyes on the acceptable [[Fire|fire]].
+
+With a plunge of enjoyment, Fledgeby settled himself afresh.
+
+‘Any [[Snow|snow]], or sleet, or slush, or anything of that sort?’ he asked.
+
+‘No, sir, no. Not quite so bad as that. The streets are pretty clean.’
+
+‘You needn’t brag about it,’ returned Fledgeby, disappointed in his
+[[Desire|desire]] to heighten the contrast between his bed and the streets. ‘But
+you’re always bragging about something. Got the books there?’
+
+‘They are here, sir.’
+
+‘All right. I’ll turn the general subject over in my mind for a minute
+or two, and while I’m about it you can empty your bag and get ready for
+me.’
+
+With another comfortable plunge, Mr Fledgeby fell asleep again. The old
+man, having obeyed his directions, sat down on the edge of a chair, and,
+folding his hands before him, gradually yielded to the influence of the
+warmth, and dozed. He was roused by Mr Fledgeby’s appearing erect at
+the foot of the bed, in Turkish slippers, [[Rose|rose]]-coloured Turkish trousers
+(got cheap from somebody who had cheated some other somebody out of
+them), and a gown and cap to correspond. In that costume he would have
+left nothing to be desired, if he had been further fitted out with a
+bottomless chair, a lantern, and a bunch of matches.
+
+‘Now, old ’un!’ cried Fascination, in his light raillery, ‘what dodgery
+are you up to next, sitting there with your eyes shut? You ain’t asleep.
+Catch a weasel at it, and catch a Jew!’
+
+‘Truly, sir, I [[Fear|fear]] I nodded,’ said the old man.
+
+‘Not you!’ returned Fledgeby, with a cunning look. ‘A telling move with
+a good many, I dare say, but it won’t put ME off my guard. Not a bad
+notion though, if you want to look indifferent in driving a bargain. Oh,
+you are a dodger!’
+
+The old man shook his head, gently repudiating the imputation, and
+suppressed a sigh, and moved to the table at which Mr Fledgeby was now
+pouring out for himself a cup of steaming and fragrant coffee from a pot
+that had stood ready on the hob. It was an edifying spectacle, the young
+man in his easy chair taking his coffee, and the old man with his grey
+head bent, standing awaiting his pleasure.
+
+‘Now!’ said Fledgeby. ‘Fork out your balance in hand, and prove by
+figures how you make it out that it ain’t more. First of all, light that
+candle.’
+
+Riah obeyed, and then taking a bag from his breast, and referring to
+the sum in the accounts for which they made him responsible, told it out
+upon the table. Fledgeby told it again with great care, and rang every
+sovereign.
+
+‘I suppose,’ he said, taking one up to eye it closely, ‘you haven’t been
+lightening any of these; but it’s a trade of your people’s, you know.
+YOU understand what sweating a pound means, don’t you?’
+
+‘Much as you do, sir,’ returned the old man, with his hands under
+opposite cuffs of his loose sleeves, as he stood at the table,
+deferentially observant of the master’s face. ‘May I take the liberty to
+say something?’
+
+‘You may,’ Fledgeby graciously conceded.
+
+‘Do you not, sir—without intending it—of a surety without intending
+it—sometimes mingle the character I fairly earn in your employment,
+with the character which it is your policy that I should bear?’
+
+‘I don’t find it worth my while to cut things so fine as to go into the
+inquiry,’ Fascination coolly answered.
+
+‘Not in justice?’
+
+‘Bother justice!’ said Fledgeby.
+
+‘Not in generosity?’
+
+‘Jews and generosity!’ said Fledgeby. ‘That’s a good connexion! Bring
+out your vouchers, and don’t talk Jerusalem palaver.’
+
+The vouchers were produced, and for the next half-hour Mr Fledgeby
+concentrated his [[Sublime|sublime]] attention on them. They and the accounts were
+all found correct, and the books and the papers resumed their places in
+the bag.
+
+‘Next,’ said Fledgeby, ‘concerning that bill-broking branch of the
+business; the branch I like best. What queer bills are to be bought, and
+at what prices? You have got your list of what’s in the market?’
+
+‘Sir, a long list,’ replied Riah, taking out a pocket-book, and
+selecting from its contents a folded paper, which, being unfolded,
+became a sheet of foolscap covered with close writing.
+
+‘Whew!’ whistled Fledgeby, as he took it in his hand. ‘Queer Street is
+full of lodgers just at present! These are to be disposed of in parcels;
+are they?’
+
+‘In parcels as set forth,’ returned the old man, looking over his
+master’s shoulder; ‘or the lump.’
+
+‘Half the lump will be waste-paper, one knows beforehand,’ said
+Fledgeby. ‘Can you get it at waste-paper price? That’s the question.’
+
+Riah shook his head, and Fledgeby cast his small eyes down the list.
+They presently began to twinkle, and he no sooner became conscious of
+their twinkling, than he looked up over his shoulder at the [[Grave|grave]] face
+above him, and moved to the chimney-piece. Making a desk of it, he stood
+there with his back to the old man, warming his knees, perusing the list
+at his leisure, and often returning to some lines of it, as though
+they were particularly interesting. At those times he glanced in the
+chimney-glass to see what note the old man took of him. He took none
+that could be detected, but, aware of his employer’s suspicions, stood
+with his eyes on the ground.
+
+Mr Fledgeby was thus amiably engaged when a step was heard at the outer
+door, and the door was heard to open hastily. ‘Hark! That’s your doing,
+you Pump of Israel,’ said Fledgeby; ‘you can’t have shut it.’ Then the
+step was heard within, and the voice of Mr Alfred Lammle called aloud,
+‘Are you anywhere here, Fledgeby?’ To which Fledgeby, after cautioning
+Riah in a low voice to take his cue as it should be given him, replied,
+‘Here I am!’ and opened his bedroom door.
+
+‘Come in!’ said Fledgeby. ‘This gentleman is only Pubsey and Co. of
+Saint Mary Axe, that I am trying to make terms for an unfortunate friend
+with in a matter of some dishonoured bills. But really Pubsey and Co.
+are so strict with their debtors, and so hard to move, that I seem to be
+wasting my [[Time|time]]. Can’t I make ANY terms with you on my friend’s part, Mr
+Riah?’
+
+‘I am but the representative of another, sir,’ returned the Jew in a low
+voice. ‘I do as I am bidden by my principal. It is not my capital that
+is invested in the business. It is not my profit that arises therefrom.’
+
+‘Ha ha!’ laughed Fledgeby. ‘Lammle?’
 
-THE WHOLE CASE SO FAR
+‘Ha ha!’ laughed Lammle. ‘Yes. Of course. We know.’
+
+‘Devilish good, ain’t it, Lammle?’ said Fledgeby, unspeakably amused by
+his hidden joke.
 
+‘Always the same, always the same!’ said Lammle. ‘Mr—’
+
+‘Riah, Pubsey and Co. Saint Mary Axe,’ Fledgeby put in, as he wiped away
+the [[Tears|tears]] that trickled from his eyes, so rare was his enjoyment of his
+secret joke.
 
-[[Bradley Headstone]] held fast by that other interview he was to have with
-[[Lizzie Hexam]]. In stipulating for it, he had been impelled by a feeling
-little short of desperation, and the feeling abided by him. It was very
-soon after his interview with the Secretary, that he and Charley Hexam
-set out one leaden evening, not unnoticed by Miss Peecher, to have this
-desperate interview accomplished.
+‘Mr Riah is bound to observe the invariable forms for such cases made
+and provided,’ said Lammle.
 
-‘That dolls’ dressmaker,’ said Bradley, ‘is favourable neither to me nor
-to you, Hexam.’
+‘He is only the representative of another!’ cried Fledgeby. ‘Does as
+he is told by his principal! Not his capital that’s invested in the
+business. Oh, that’s good! Ha ha ha ha!’ Mr Lammle joined in the laugh
+and looked knowing; and the more he did both, the more exquisite the
+secret joke became for Mr Fledgeby.
 
-‘A pert crooked little chit, Mr Headstone! I knew she would put herself
-in the way, if she could, and would be sure to strike in with something
-impertinent. It was on that account that I proposed our going to the
-[[City]] to-[[Night|night]] and meeting my sister.’
-
-‘So I supposed,’ said Bradley, getting his gloves on his nervous hands
-as he walked. ‘So I supposed.’
-
-‘Nobody but my sister,’ pursued Charley, ‘would have found out such an
-extraordinary companion. She has done it in a ridiculous fancy of giving
-herself up to another. She told me so, that [[Night|night]] when we went there.’
-
-‘Why should she give herself up to the dressmaker?’ asked Bradley.
+‘However,’ said that fascinating gentleman, wiping his eyes again, ‘if
+we go on in this way, we shall seem to be almost making game of Mr Riah,
+or of Pubsey and Co. Saint Mary Axe, or of somebody: which is far from
+our intention. Mr Riah, if you would have the kindness to step into the
+next room for a few moments while I speak with Mr Lammle here, I should
+like to try to make terms with you once again before you go.’
+
+The old man, who had never raised his eyes during the whole transaction
+of Mr Fledgeby’s joke, silently bowed and passed out by the door which
+Fledgeby opened for him. Having closed it on him, Fledgeby returned to
+Lammle, standing with his back to the bedroom [[Fire|fire]], with one hand under
+his coat-skirts, and all his whiskers in the other.
 
-‘Oh!’ said the boy, colouring. ‘One of her romantic ideas! I tried to
-convince her so, but I didn’t succeed. However, what we have got to do,
-is, to succeed to-[[Night|night]], Mr Headstone, and then all the rest follows.’
+‘Halloa!’ said Fledgeby. ‘There’s something wrong!’
+
+‘How do you know it?’ demanded Lammle.
+
+‘Because you show it,’ replied Fledgeby in unintentional rhyme.
+
+‘[[Well]] then; there is,’ said Lammle; ‘there IS something wrong; the whole
+thing’s wrong.’
+
+‘I say!’ remonstrated Fascination very slowly, and sitting down with his
+hands on his knees to stare at his glowering friend with his back to the
+[[Fire|fire]].
+
+‘I tell you, Fledgeby,’ repeated Lammle, with a sweep of his right arm,
+‘the whole thing’s wrong. The game’s up.’
+
+‘What game’s up?’ demanded Fledgeby, as slowly as before, and more
+sternly.
+
+‘THE game. OUR game. Read that.’
+
+Fledgeby took a note from his extended hand and read it aloud. ‘Alfred
+Lammle, Esquire. Sir: Allow Mrs Podsnap and myself to express our united
+sense of the polite attentions of Mrs Alfred Lammle and yourself towards
+our daughter, Georgiana. Allow us also, wholly to reject them for the
+future, and to communicate our final [[Desire|desire]] that the two families
+may become entire strangers. I have the [[Honour|honour]] to be, Sir, your most
+obedient and very humble servant, JOHN PODSNAP.’ Fledgeby looked at the
+three blank sides of this note, quite as long and earnestly as at the
+first expressive side, and then looked at Lammle, who responded with
+another extensive sweep of his right arm.
 
-‘You are still sanguine, Hexam.’
+‘Whose doing is this?’ said Fledgeby.
 
-‘Certainly I am, sir. Why, we have everything on our side.’
+‘Impossible to imagine,’ said Lammle.
 
-‘Except your sister, perhaps,’ thought Bradley. But he only gloomily
-thought it, and said nothing.
+‘Perhaps,’ suggested Fledgeby, after reflecting with a very discontented
+brow, ‘somebody has been giving you a bad character.’
 
-‘Everything on our side,’ repeated the boy with boyish confidence.
-‘Respectability, an excellent connexion for me, common sense,
-everything!’
-
-‘To be sure, your sister has always shown herself a devoted sister,’
-said Bradley, willing to sustain himself on even that low ground of
-[[Hope|hope]].
-
-‘Naturally, Mr Headstone, I have a good deal of influence with her.
-And now that you have honoured me with your confidence and spoken to me
-first, I say again, we have everything on our side.’
-
-And Bradley thought again, ‘Except your sister, perhaps.’
-
-A grey dusty withered evening in [[London]] [[City|city]] has not a hopeful aspect.
-The closed warehouses and offices have an air of [[Death|death]] about them, and
-the national dread of colour has an air of mourning. The towers and
-steeples of the many [[house]]-encompassed churches, dark and dingy as the
-sky that seems descending on them, are no relief to the general gloom;
-a sun-dial on a church-wall has the look, in its useless black shade,
-of having failed in its business enterprise and stopped payment for
-ever; [[Melancholy|melancholy]] waifs and strays of housekeepers and porters sweep
-[[Melancholy|melancholy]] waifs and strays of papers and pins into the kennels, and
-other more [[Melancholy|melancholy]] waifs and strays explore them, searching and
-stooping and poking for anything to sell. The set of humanity outward
-from the [[City]] is as a set of prisoners departing from gaol, and dismal
-Newgate seems quite as fit a stronghold for the mighty [[Lord Mayor]] as
-his own state-dwelling.
-
-On such an evening, when the [[City|city]] grit gets into the hair and eyes and
-skin, and when the fallen [[Leaves|leaves]] of the few unhappy [[City|city]] trees grind
-down in corners under wheels of [[Wind|wind]], the schoolmaster and the pupil
-emerged upon the Leadenhall Street region, spying eastward for Lizzie.
-Being something too soon in their arrival, they lurked at a corner,
-waiting for her to appear. The best-looking among us will not look very
-[[Well|well]], lurking at a corner, and Bradley came out of that disadvantage
-very poorly indeed.
-
-‘Here she comes, Mr Headstone! Let us go forward and meet her.’
-
-As they advanced, she saw them coming, and seemed rather troubled. But
-she greeted her brother with the usual warmth, and touched the extended
-hand of Bradley.
-
-‘Why, where are you going, Charley, dear?’ she asked him then.
-
-‘Nowhere. We came on purpose to meet you.’
-
-‘To meet me, Charley?’
-
-‘Yes. We are going to walk with you. But don’t let us take the great
-leading streets where every one walks, and we can’t hear ourselves
-speak. Let us go by the quiet backways. Here’s a large paved [[Court|court]] by
-this church, and quiet, too. Let us go up here.’
-
-‘But it’s not in the way, Charley.’
-
-‘Yes it is,’ said the boy, petulantly. ‘It’s in my way, and my way is
-yours.’
-
-She had not released his hand, and, still holding it, looked at him with
-a kind of appeal. He avoided her eyes, under pretence of saying, ‘Come
-along, Mr Headstone.’ Bradley walked at his side—not at hers—and the
-brother and sister walked hand in hand. The [[Court|court]] brought them to a
-churchyard; a paved square [[Court|court]], with a raised bank of earth about
-breast high, in the middle, enclosed by iron rails. Here, conveniently
-and healthfully elevated above the level of the living, were the dead,
-and the tombstones; some of the latter droopingly inclined from the
-perpendicular, as if they were ashamed of the lies they told.
-
-They paced the whole of this place once, in a constrained and
-uncomfortable manner, when the boy stopped and said:
-
-‘Lizzie, Mr Headstone has something to say to you. I don’t wish to be an
-interruption either to him or to you, and so I’ll go and take a little
-stroll and come back. I know in a general way what Mr Headstone intends
-to say, and I very highly approve of it, as I [[Hope|hope]]—and indeed I do
-not [[Doubt|doubt]]—you will. I needn’t tell you, Lizzie, that I am under great
-obligations to Mr Headstone, and that I am very anxious for Mr Headstone
-to succeed in all he undertakes. As I [[Hope|hope]]—and as, indeed, I don’t
-[[Doubt|doubt]]—you must be.’
-
-‘Charley,’ returned his sister, detaining his hand as he withdrew it, ‘I
-think you had better stay. I think Mr Headstone had better not say what
-he thinks of saying.’
-
-‘Why, how do you know what it is?’ returned the boy.
-
-‘Perhaps I don’t, but—’
-
-‘Perhaps you don’t? No, Liz, I should think not. If you knew what
-it was, you would give me a very different answer. There; let go; be
-sensible. I [[Wonder|wonder]] you don’t remember that Mr Headstone is looking on.’
-
-She allowed him to separate himself from her, and he, after saying, ‘Now
-Liz, be a rational girl and a good sister,’ walked away. She remained
-standing [[Alone|alone]] with [[Bradley Headstone]], and it was not until she raised
-her eyes, that he spoke.
-
-‘I said,’ he began, ‘when I saw you last, that there was something
-unexplained, which might perhaps influence you. I have come this evening
-to explain it. I [[Hope|hope]] you will not judge of me by my hesitating manner
-when I speak to you. You see me at my greatest disadvantage. It is most
-unfortunate for me that I wish you to see me at my best, and that I know
-you see me at my worst.’
-
-She moved slowly on when he paused, and he moved slowly on beside her.
-
-‘It seems egotistical to begin by saying so much about myself,’ he
-resumed, ‘but whatever I say to you seems, even in my own ears, below
-what I want to say, and different from what I want to say. I can’t help
-it. So it is. You are the ruin of me.’
-
-She started at the passionate sound of the last words, and at the
-passionate action of his hands, with which they were accompanied.
-
-‘Yes! you are the ruin—the ruin—the ruin—of me. I have no resources
-in myself, I have no confidence in myself, I have no [[government]] of
-myself when you are near me or in my thoughts. And you are always in my
-thoughts now. I have never been quit of you since I first saw you. Oh,
-that was a wretched day for me! That was a wretched, miserable day!’
-
-A touch of pity for him mingled with her dislike of him, and she said:
-‘Mr Headstone, I am grieved to have done you any harm, but I have never
-meant it.’
-
-‘There!’ he cried, despairingly. ‘Now, I seem to have reproached you,
-instead of revealing to you the state of my own mind! Bear with me. I am
-always wrong when you are in question. It is my doom.’
-
-Struggling with himself, and by times looking up at the deserted windows
-of the houses as if there could be anything written in their grimy panes
-that would help him, he paced the whole pavement at her side, before he
-spoke again.
-
-‘I must try to give expression to what is in my mind; it shall and must
-be spoken. Though you see me so confounded—though you strike me so
-helpless—I ask you to believe that there are many people who think [[Well|well]]
-of me; that there are some people who highly esteem me; that I have in
-my way won a Station which is considered worth winning.’
-
-‘Surely, Mr Headstone, I do believe it. Surely I have always known it
-from Charley.’
-
-‘I ask you to believe that if I were to offer my [[Home|home]] such as it is, my
-station such as it is, my affections such as they are, to any one of the
-best considered, and best qualified, and most distinguished, among the
-young women engaged in my calling, they would probably be accepted. Even
-readily accepted.’
-
-‘I do not [[Doubt|doubt]] it,’ said Lizzie, with her eyes upon the ground.
-
-‘I have sometimes had it in my thoughts to make that offer and to settle
-down as many men of my class do: I on the one side of a school, my wife
-on the other, both of us interested in the same work.’
-
-‘Why have you not done so?’ asked [[Lizzie Hexam]]. ‘Why do you not do so?’
-
-‘Far better that I never did! The only one grain of comfort I have had
-these many weeks,’ he said, always speaking passionately, and, when
-most emphatic, repeating that former action of his hands, which was
-like flinging his heart’s [[Blood|blood]] down before her in drops upon the
-pavement-stones; ‘the only one grain of comfort I have had these many
-weeks is, that I never did. For if I had, and if the same spell had come
-upon me for my ruin, I know I should have broken that tie asunder as if
-it had been thread.’
-
-She glanced at him with a glance of [[Fear|fear]], and a shrinking gesture. He
-answered, as if she had spoken.
-
-‘No! It would not have been voluntary on my part, any more than it is
-voluntary in me to be here now. You draw me to you. If I were shut up in
-a strong [[Prison|prison]], you would draw me out. I should break through the wall
-to come to you. If I were lying on a sick bed, you would draw me up—to
-stagger to your feet and fall there.’
-
-The wild energy of the man, now quite let loose, was absolutely
-terrible. He stopped and laid his hand upon a piece of the coping of the
-burial-ground enclosure, as if he would have dislodged the stone.
-
-‘No man knows till the [[Time|time]] comes, what depths are within him. To some
-men it never comes; let them rest and be thankful! To me, you brought
-it; on me, you forced it; and the [[Bottom|bottom]] of this raging sea,’ striking
-himself upon the breast, ‘has been heaved up ever since.’
-
-‘Mr Headstone, I have heard enough. Let me stop you here. It will be
-better for you and better for me. Let us find my brother.’
-
-‘Not yet. It shall and must be spoken. I have been in torments ever
-since I stopped short of it before. You are alarmed. It is another of my
-miseries that I cannot speak to you or speak of you without stumbling at
-every syllable, unless I let the check go altogether and run mad. Here
-is a man lighting the lamps. He will be gone directly. I entreat of you
-let us walk round this place again. You have no reason to look alarmed;
-I can restrain myself, and I will.’
-
-She yielded to the entreaty—how could she do otherwise!—and they paced
-the stones in [[Silence|silence]]. One by one the lights leaped up making the cold
-grey church tower more remote, and they were [[Alone|alone]] again. He said no
-more until they had regained the spot where he had broken off; there, he
-again stood still, and again grasped the stone. In saying what he said
-then, he never looked at her; but looked at it and wrenched at it.
-
-‘You know what I am going to say. I [[Love|love]] you. What other men may mean
-when they use that expression, I cannot tell; what I mean is, that I am
-under the influence of some tremendous attraction which I have resisted
-in vain, and which overmasters me. You could draw me to [[Fire|fire]], you could
-draw me to [[Water|water]], you could draw me to the gallows, you could draw me to
-any [[Death|death]], you could draw me to anything I have most avoided, you could
-draw me to any exposure and disgrace. This and the confusion of my
-thoughts, so that I am fit for nothing, is what I mean by your being the
-ruin of me. But if you would return a favourable answer to my offer
-of myself in [[Marriage|marriage]], you could draw me to any good—every good—with
-equal force. My circumstances are quite easy, and you would want for
-nothing. My reputation stands quite high, and would be a shield for
-yours. If you saw me at my work, able to do it [[Well|well]] and respected in
-it, you might even come to take a sort of [[Pride|pride]] in me;—I would try hard
-that you should. Whatever considerations I may have thought of against
-this offer, I have conquered, and I make it with all my heart. Your
-brother favours me to the utmost, and it is likely that we might live
-and work together; anyhow, it is certain that he would have my best
-influence and support. I don’t know what I could say more if I tried. I
-might only weaken what is ill enough said as it is. I only add that
-if it is any claim on you to be in earnest, I am in thorough earnest,
-dreadful earnest.’
-
-The powdered mortar from under the stone at which he wrenched, rattled
-on the pavement to confirm his words.
-
-‘Mr Headstone—’
-
-‘Stop! I implore you, before you answer me, to walk round this place
-once more. It will give you a minute’s [[Time|time]] to think, and me a minute’s
-[[Time|time]] to get some fortitude together.’
-
-Again she yielded to the entreaty, and again they came back to the same
-place, and again he worked at the stone.
-
-‘Is it,’ he said, with his attention apparently engrossed by it, ‘yes,
-or no?’
-
-‘Mr Headstone, I thank you sincerely, I thank you gratefully, and [[Hope|hope]]
-you may find a worthy wife before long and be very happy. But it is no.’
-
-‘Is no short [[Time|time]] necessary for reflection; no weeks or days?’ he asked,
-in the same half-suffocated way.
-
-‘None whatever.’
-
-‘Are you quite decided, and is there no chance of any change in my
-favour?’
-
-‘I am quite decided, Mr Headstone, and I am bound to answer I am certain
-there is none.’
-
-‘Then,’ said he, suddenly changing his tone and turning to her, and
-bringing his clenched hand down upon the stone with a force that laid
-the knuckles raw and bleeding; ‘then I [[Hope|hope]] that I may never kill him!’
-
-The dark look of hatred and [[Revenge|revenge]] with which the words broke from his
-livid lips, and with which he stood holding out his smeared hand as
-if it held some weapon and had just struck a mortal blow, made her so
-afraid of him that she turned to run away. But he caught her by the arm.
-
-‘Mr Headstone, let me go. Mr Headstone, I must call for help!’
-
-‘It is I who should call for help,’ he said; ‘you don’t know yet how
-much I need it.’
-
-The working of his face as she shrank from it, glancing round for her
-brother and uncertain what to do, might have extorted a cry from her in
-another instant; but all at once he sternly stopped it and fixed it, as
-if [[Death]] itself had done so.
-
-‘There! You see I have recovered myself. Hear me out.’
-
-With much of the dignity of [[Courage|courage]], as she recalled her [[Self|self]]-reliant
-life and her right to be free from accountability to this man, she
-released her arm from his grasp and stood looking full at him. She had
-never been so handsome, in his eyes. A shade came over them while
-he looked back at her, as if she drew the very light out of them to
-herself.
-
-‘This [[Time|time]], at least, I will leave nothing unsaid,’ he went on, folding
-his hands before him, clearly to prevent his being betrayed into any
-impetuous gesture; ‘this last [[Time|time]] at least I will not be tortured with
-after-thoughts of a lost opportunity. Mr [[Eugene Wrayburn]].’
-
-‘Was it of him you spoke in your ungovernable rage and violence?’ Lizzie
-Hexam demanded with spirit.
-
-He bit his lip, and looked at her, and said never a word.
-
-‘Was it Mr Wrayburn that you threatened?’
-
-He bit his lip again, and looked at her, and said never a word.
-
-‘You asked me to hear you out, and you will not speak. Let me find my
-brother.’
-
-‘Stay! I threatened no one.’
-
-Her look dropped for an instant to his bleeding hand. He lifted it to
-his mouth, wiped it on his sleeve, and again folded it over the other.
-‘Mr [[Eugene Wrayburn]],’ he repeated.
-
-‘Why do you mention that name again and again, Mr Headstone?’
-
-‘Because it is the text of the little I have left to say. Observe! There
-are no threats in it. If I utter a threat, stop me, and fasten it upon
-me. Mr [[Eugene Wrayburn]].’
-
-A worse threat than was conveyed in his manner of uttering the name,
-could hardly have escaped him.
-
-‘He haunts you. You accept favours from him. You are willing enough to
-listen to HIM. I know it, as [[Well|well]] as he does.’
-
-‘Mr Wrayburn has been considerate and good to me, sir,’ said Lizzie,
-proudly, ‘in connexion with the [[Death|death]] and with the [[Memory|memory]] of my poor
-father.’
-
-‘No [[Doubt|doubt]]. He is of course a very considerate and a very good man, Mr
-[[Eugene Wrayburn]].’
-
-‘He is nothing to you, I think,’ said Lizzie, with an indignation she
-could not repress.
-
-‘Oh yes, he is. There you mistake. He is much to me.’
-
-‘What can he be to you?’
-
-‘He can be a rival to me among other things,’ said Bradley.
-
-‘Mr Headstone,’ returned Lizzie, with a burning face, ‘it is cowardly in
-you to speak to me in this way. But it makes me able to tell you that
-I do not like you, and that I never have liked you from the first, and
-that no other living creature has anything to do with the effect you
-have produced upon me for yourself.’
-
-His head bent for a moment, as if under a weight, and he then looked up
-again, moistening his lips. ‘I was going on with the little I had left
-to say. I knew all this about Mr [[Eugene Wrayburn]], all the while you were
-drawing me to you. I strove against the knowledge, but quite in vain. It
-made no difference in me. With Mr [[Eugene Wrayburn]] in my mind, I went
-on. With Mr [[Eugene Wrayburn]] in my mind, I spoke to you just now. With Mr
-[[Eugene Wrayburn]] in my mind, I have been set aside and I have been cast
-out.’
-
-‘If you give those names to my thanking you for your proposal
-and declining it, is it my fault, Mr Headstone?’ said Lizzie,
-compassionating the bitter struggle he could not conceal, almost as much
-as she was repelled and alarmed by it.
-
-‘I am not complaining,’ he returned, ‘I am only stating the case. I had
-to wrestle with my [[Self|self]]-respect when I submitted to be drawn to you in
-spite of Mr Wrayburn. You may imagine how low my [[Self|self]]-respect lies now.’
-
-She was hurt and angry; but repressed herself in consideration of his
-[[Suffering|suffering]], and of his being her brother’s friend.
-
-‘And it lies under his feet,’ said Bradley, unfolding his hands in spite
-of himself, and fiercely motioning with them both towards the stones of
-the pavement. ‘Remember that! It lies under that fellow’s feet, and he
-treads upon it and exults above it.’
-
-‘He does not!’ said Lizzie.
-
-‘He does!’ said Bradley. ‘I have stood before him face to face, and he
-crushed me down in the dirt of his contempt, and walked over me. Why?
-Because he knew with triumph what was in store for me to-[[Night|night]].’
-
-‘O, Mr Headstone, you talk quite wildly.’
-
-‘Quite collectedly. I know what I say too [[Well|well]]. Now I have said all. I
-have used no threat, remember; I have done no more than show you how the
-case stands;—how the case stands, so far.’
-
-At this moment her brother sauntered into view close by. She darted to
-him, and caught him by the hand. Bradley followed, and laid his heavy
-hand on the boy’s opposite shoulder.
-
-‘Charley Hexam, I am going [[Home|home]]. I must walk [[Home|home]] by myself to-[[Night|night]],
-and get shut up in my room without being spoken to. Give me half an
-hour’s start, and let me be, till you find me at my work in the morning.
-I shall be at my work in the morning just as usual.’
-
-Clasping his hands, he uttered a short unearthly broken cry, and went
-his way. The brother and sister were left looking at one another near
-a lamp in the solitary churchyard, and the boy’s face clouded and
-darkened, as he said in a rough tone: ‘What is the meaning of this? What
-have you done to my best friend? Out with the [[Truth|truth]]!’
-
-‘Charley!’ said his sister. ‘Speak a little more considerately!’
-
-‘I am not in the [[Humour|humour]] for consideration, or for nonsense of any sort,’
-replied the boy. ‘What have you been doing? Why has Mr Headstone gone
-from us in that way?’
-
-‘He asked me—you know he asked me—to be his wife, Charley.’
-
-‘[[Well]]?’ said the boy, impatiently.
-
-‘And I was obliged to tell him that I could not be his wife.’
-
-‘You were obliged to tell him,’ repeated the boy angrily, between his
-teeth, and rudely pushing her away. ‘You were obliged to tell him! Do
-you know that he is worth fifty of you?’
-
-‘It may easily be so, Charley, but I cannot marry him.’
-
-‘You mean that you are conscious that you can’t appreciate him, and
-don’t deserve him, I suppose?’
-
-‘I mean that I do not like him, Charley, and that I will never marry
-him.’
-
-‘Upon my [[Soul|soul]],’ exclaimed the boy, ‘you are a nice picture of a sister!
-Upon my [[Soul|soul]], you are a pretty piece of disinterestedness! And so all my
-endeavours to cancel the past and to raise myself in the world, and to
-raise you with me, are to be beaten down by YOUR low whims; are they?’
-
-‘I will not reproach you, Charley.’
-
-‘Hear her!’ exclaimed the boy, looking round at the darkness. ‘She won’t
-reproach me! She does her best to destroy my fortunes and her own,
-and she won’t reproach me! Why, you’ll tell me, next, that you won’t
-reproach Mr Headstone for coming out of the sphere to which he is an
-ornament, and putting himself at YOUR feet, to be rejected by YOU!’
-
-‘No, Charley; I will only tell you, as I told himself, that I thank him
-for doing so, that I am sorry he did so, and that I [[Hope|hope]] he will do much
-better, and be happy.’
-
-Some touch of compunction smote the boy’s hardening heart as he looked
-upon her, his patient little [[Nurse|nurse]] in infancy, his patient friend,
-adviser, and reclaimer in boyhood, the [[Self|self]]-forgetting sister who had
-done everything for him. His tone relented, and he drew her arm through
-his.
-
-‘Now, come, Liz; don’t let us quarrel: let us be reasonable and talk
-this over like brother and sister. Will you listen to me?’
-
-‘Oh, Charley!’ she replied through her starting [[Tears|tears]]; ‘do I not listen
-to you, and hear many hard things!’
-
-‘Then I am sorry. There, Liz! I am unfeignedly sorry. Only you do put me
-out so. Now see. Mr Headstone is perfectly devoted to you. He has told
-me in the strongest manner that he has never been his old [[Self|self]] for one
-single minute since I first brought him to see you. Miss Peecher, our
-schoolmistress—pretty and young, and all that—is known to be very much
-attached to him, and he won’t so much as look at her or hear of her.
-Now, his devotion to you must be a disinterested one; mustn’t it? If he
-married Miss Peecher, he would be a great deal better off in all worldly
-respects, than in marrying you. [[Well]] then; he has nothing to get by it,
-has he?’
-
-‘Nothing, Heaven knows!’
-
-‘Very [[Well|well]] then,’ said the boy; ‘that’s something in his favour, and a
-great thing. Then I come in. Mr Headstone has always got me on, and he
-has a good deal in his power, and of course if he was my brother-in-law
-he wouldn’t get me on less, but would get me on more. Mr Headstone
-comes and confides in me, in a very delicate way, and says, “I [[Hope|hope]] my
-marrying your sister would be agreeable to you, Hexam, and useful to
-you?” I say, “There’s nothing in the world, Mr Headstone, that I could
-be better pleased with.” Mr Headstone says, “Then I may rely upon your
-intimate knowledge of me for your good word with your sister, Hexam?”
- And I say, “Certainly, Mr Headstone, and naturally I have a good deal of
-influence with her.” So I have; haven’t I, Liz?’
-
-‘Yes, Charley.’
-
-‘[[Well]] said! Now, you see, we begin to get on, the moment we begin to
-be really talking it over, like brother and sister. Very [[Well|well]]. Then
-YOU come in. As Mr Headstone’s wife you would be occupying a most
-respectable station, and you would be holding a far better place in
-society than you hold now, and you would at length get quit of the
-[[River|river]]-side and the old disagreeables belonging to it, and you would be
-rid for good of dolls’ dressmakers and their drunken fathers, and the
-like of that. Not that I want to disparage Miss [[Jenny Wren]]: I dare
-say she is all very [[Well|well]] in her way; but her way is not your way as
-Mr Headstone’s wife. Now, you see, Liz, on all three accounts—on
-Mr Headstone’s, on mine, on yours—nothing could be better or more
-desirable.’
-
-They were walking slowly as the boy spoke, and here he stood still, to
-see what effect he had made. His sister’s eyes were fixed upon him; but
-as they showed no yielding, and as she remained silent, he walked her on
-again. There was some discomfiture in his tone as he resumed, though he
-tried to conceal it.
-
-‘Having so much influence with you, Liz, as I have, perhaps I should
-have done better to have had a little chat with you in the first
-instance, before Mr Headstone spoke for himself. But really all this in
-his favour seemed so plain and undeniable, and I knew you to have always
-been so reasonable and sensible, that I didn’t consider it worth while.
-Very likely that was a mistake of mine. However, it’s soon set right.
-All that need be done to set it right, is for you to tell me at once
-that I may go [[Home|home]] and tell Mr Headstone that what has taken place is
-not final, and that it will all come round by-and-by.’
-
-He stopped again. The pale face looked anxiously and lovingly at him,
-but she shook her head.
-
-‘Can’t you speak?’ said the boy sharply.
-
-‘I am very unwilling to speak, Charley. If I must, I must. I cannot
-authorize you to say any such thing to Mr Headstone: I cannot allow you
-to say any such thing to Mr Headstone. Nothing remains to be said to him
-from me, after what I have said for good and all, to-[[Night|night]].’
-
-‘And this girl,’ cried the boy, contemptuously throwing her off again,
-‘calls herself a sister!’
-
-‘Charley, dear, that is the second [[Time|time]] that you have almost struck
-me. Don’t be hurt by my words. I don’t mean—Heaven forbid!—that you
-intended it; but you hardly know with what a sudden swing you removed
-yourself from me.’
-
-‘However!’ said the boy, taking no heed of the remonstrance, and
-pursuing his own mortified disappointment, ‘I know what this means, and
-you shall not disgrace me.’
-
-‘It means what I have told you, Charley, and nothing more.’
-
-‘That’s not true,’ said the boy in a violent tone, ‘and you know it’s
-not. It means your precious Mr Wrayburn; that’s what it means.’
-
-‘Charley! If you remember any old days of ours together, forbear!’
-
-‘But you shall not disgrace me,’ doggedly pursued the boy. ‘I am
-determined that after I have climbed up out of the mire, you shall not
-pull me down. You can’t disgrace me if I have nothing to do with you,
-and I will have nothing to do with you for the future.’
-
-‘Charley! On many a [[Night|night]] like this, and many a worse [[Night|night]], I have sat
-on the stones of the street, hushing you in my arms. Unsay those words
-without even saying you are sorry for them, and my arms are open to you
-still, and so is my heart.’
-
-‘I’ll not unsay them. I’ll say them again. You are an inveterately bad
-girl, and a false sister, and I have done with you. For ever, I have
-done with you!’
-
-He threw up his ungrateful and ungracious hand as if it set up a barrier
-between them, and flung himself upon his heel and left her. She remained
-impassive on the same spot, silent and motionless, until the striking
-of the church [[Clock|clock]] roused her, and she turned away. But then, with the
-breaking up of her immobility came the breaking up of the waters that
-the cold heart of the selfish boy had frozen. And ‘O that I were lying
-here with the dead!’ and ‘O Charley, Charley, that this should be the
-end of our pictures in the [[Fire|fire]]!’ were all the words she said, as she
-laid her face in her hands on the stone coping.
-
-A figure passed by, and passed on, but stopped and looked round at
-her. It was the figure of an old man with a bowed head, wearing a large
-brimmed low-crowned hat, and a long-skirted coat. After hesitating a
-little, the figure turned back, and, advancing with an air of gentleness
-and compassion, said:
-
-‘Pardon me, young woman, for speaking to you, but you are under some
-distress of mind. I cannot pass upon my way and leave you weeping here
-[[Alone|alone]], as if there was nothing in the place. Can I help you? Can I do
-anything to give you comfort?’
-
-She raised her head at the sound of these kind words, and answered
-gladly, ‘O, Mr Riah, is it you?’
-
-‘My daughter,’ said the old man, ‘I stand amazed! I spoke as to a
-stranger. Take my arm, take my arm. What grieves you? Who has done this?
-Poor girl, poor girl!’
-
-‘My brother has quarrelled with me,’ sobbed Lizzie, ‘and renounced me.’
-
-‘He is a thankless dog,’ said the Jew, angrily. ‘Let him go. Shake the
-[[Dust|dust]] from thy feet and let him go. Come, daughter! Come [[Home|home]] with me—it
-is but across the [[Road|road]]—and take a little [[Time|time]] to recover your peace and
-to make your eyes seemly, and then I will bear you company through the
-streets. For it is past your usual [[Time|time]], and will soon be late, and the
-way is long, and there is much company out of doors to-[[Night|night]].’
-
-She accepted the support he offered her, and they slowly passed out
-of the churchyard. They were in the act of emerging into the main
-thoroughfare, when another figure loitering discontentedly by, and
-looking up the street and down it, and all about, started and exclaimed,
-‘Lizzie! why, where have you been? Why, what’s the matter?’
-
-As [[Eugene Wrayburn]] thus addressed her, she drew closer to the Jew, and
-bent her head. The Jew having taken in the whole of Eugene at one sharp
-glance, cast his eyes upon the ground, and stood mute.
-
-‘Lizzie, what is the matter?’
-
-‘Mr Wrayburn, I cannot tell you now. I cannot tell you to-[[Night|night]], if I
-ever can tell you. Pray leave me.’
-
-‘But, Lizzie, I came expressly to join you. I came to walk [[Home|home]] with
-you, having dined at a coffee-[[house]] in this neighbourhood and knowing
-your hour. And I have been lingering about,’ added Eugene, ‘like a
-bailiff; or,’ with a look at Riah, ‘an old clothesman.’
-
-The Jew lifted up his eyes, and took in Eugene once more, at another
-glance.
-
-‘Mr Wrayburn, pray, pray, leave me with this protector. And one thing
-more. Pray, pray be careful of yourself.’
-
-‘Mysteries of Udolpho!’ said Eugene, with a look of [[Wonder|wonder]]. ‘May I be
-excused for asking, in the elderly gentleman’s presence, who is this
-kind protector?’
-
-‘A trustworthy friend,’ said Lizzie.
-
-‘I will relieve him of his trust,’ returned Eugene. ‘But you must tell
-me, Lizzie, what is the matter?’
-
-‘Her brother is the matter,’ said the old man, lifting up his eyes
-again.
-
-‘Our brother the matter?’ returned Eugene, with airy contempt. ‘Our
-brother is not worth a thought, far less a tear. What has our brother
-done?’
-
-The old man lifted up his eyes again, with one [[Grave|grave]] look at Wrayburn,
-and one [[Grave|grave]] glance at Lizzie, as she stood looking down. Both were so
-full of meaning that even Eugene was checked in his light career, and
-subsided into a thoughtful ‘Humph!’
-
-With an air of perfect patience the old man, remaining mute and keeping
-his eyes cast down, stood, retaining Lizzie’s arm, as though in his
-habit of passive [[Endurance|endurance]], it would be all one to him if he had stood
-there motionless all [[Night|night]].
-
-‘If Mr [[Aaron]],’ said Eugene, who soon found this fatiguing, ‘will be good
-enough to relinquish his charge to me, he will be quite free for any
-engagement he may have at the Synagogue. Mr [[Aaron]], will you have the
-kindness?’
-
-But the old man stood stock still.
-
-‘Good evening, Mr [[Aaron]],’ said Eugene, politely; ‘we need not detain
-you.’ Then turning to Lizzie, ‘Is our friend Mr [[Aaron]] a little deaf?’
-
-‘My hearing is very good, Christian gentleman,’ replied the old man,
-calmly; ‘but I will hear only one voice to-[[Night|night]], desiring me to leave
-this [[Damsel|damsel]] before I have conveyed her to her [[Home|home]]. If she requests it,
-I will do it. I will do it for no one else.’
-
-‘May I ask why so, Mr [[Aaron]]?’ said Eugene, quite undisturbed in his
-ease.
-
-‘Excuse me. If she asks me, I will tell her,’ replied the old man. ‘I
-will tell no one else.’
-
-‘I do not ask you,’ said Lizzie, ‘and I beg you to take me [[Home|home]]. Mr
-Wrayburn, I have had a bitter trial to-[[Night|night]], and I [[Hope|hope]] you will not
-think me ungrateful, or mysterious, or changeable. I am neither; I am
-wretched. Pray remember what I said to you. Pray, pray, take care.’
-
-‘My dear Lizzie,’ he returned, in a low voice, bending over her on the
-other side; ‘of what? Of whom?’
-
-‘Of any one you have lately seen and made angry.’
-
-He snapped his fingers and laughed. ‘Come,’ said he, ‘since no better
-may be, Mr [[Aaron]] and I will divide this trust, and see you [[Home|home]]
-together. Mr [[Aaron]] on that side; I on this. If perfectly agreeable to Mr
-[[Aaron]], the escort will now proceed.’
-
-He knew his power over her. He knew that she would not insist upon his
-leaving her. He knew that, her fears for him being aroused, she would
-be uneasy if he were out of her sight. For all his seeming levity and
-carelessness, he knew whatever he chose to know of the thoughts of her
-heart.
-
-And going on at her side, so gaily, regardless of all that had been
-urged against him; so superior in his sallies and [[Self|self]]-possession to
-the gloomy constraint of her suitor and the selfish petulance of her
-brother; so faithful to her, as it seemed, when her own stock was
-faithless; what an immense advantage, what an overpowering influence,
-were his that [[Night|night]]! Add to the rest, poor girl, that she had heard him
-vilified for her sake, and that she had suffered for his, and where the
-[[Wonder|wonder]] that his occasional tones of serious interest (setting off his
-carelessness, as if it were assumed to calm her), that his lightest
-touch, his lightest look, his very presence beside her in the dark
-common street, were like glimpses of an enchanted world, which it was
-natural for [[Jealousy|jealousy]] and malice and all meanness to be unable to bear
-the brightness of, and to gird at as bad spirits might.
-
-Nothing more being said of repairing to Riah’s, they went direct to
-Lizzie’s lodging. A little short of the [[house]]-door she parted from them,
-and went in [[Alone|alone]].
-
-‘Mr [[Aaron]],’ said Eugene, when they were left together in the street,
-‘with many thanks for your company, it remains for me unwillingly to say
-Farewell.’
-
-‘Sir,’ returned the other, ‘I give you good [[Night|night]], and I wish that you
-were not so thoughtless.’
-
-‘Mr [[Aaron]],’ returned Eugene, ‘I give you good [[Night|night]], and I wish (for you
-are a little dull) that you were not so thoughtful.’
-
-But now, that his part was played out for the evening, and when in
-turning his back upon the Jew he came off the stage, he was thoughtful
-himself. ‘How did Lightwood’s catechism run?’ he murmured, as he stopped
-to light his cigar. ‘What is to come of it? What are you doing? Where
-are you going? We shall soon know now. Ah!’ with a heavy sigh.
-
-The heavy sigh was repeated as if by an echo, an hour afterwards, when
-Riah, who had been sitting on some dark steps in a corner over against
-the [[house]], arose and went his patient way; stealing through the streets
-in his ancient dress, like the [[Ghost|ghost]] of a departed [[Time]].
+‘Or you,’ said Lammle, with a deeper frown.
+
+Mr Fledgeby appeared to be on the verge of some mutinous expressions,
+when his hand happened to touch his nose. A certain remembrance
+connected with that feature operating as a timely warning, he took it
+thoughtfully between his thumb and forefinger, and pondered; Lammle
+meanwhile eyeing him with furtive eyes.
+
+‘[[Well]]!’ said Fledgeby. ‘This won’t improve with talking about. If we
+ever find out who did it, we’ll mark that person. There’s nothing more
+to be said, except that you undertook to do what circumstances prevent
+your doing.’
+
+‘And that you undertook to do what you might have done by this [[Time|time]], if
+you had made a prompter use of circumstances,’ snarled Lammle.
+
+‘Hah! That,’ remarked Fledgeby, with his hands in the Turkish trousers,
+‘is matter of opinion.’
+
+‘Mr Fledgeby,’ said Lammle, in a bullying tone, ‘am I to understand that
+you in any way reflect upon me, or hint dissatisfaction with me, in this
+affair?’
+
+‘No,’ said Fledgeby; ‘provided you have brought my promissory note in
+your pocket, and now hand it over.’
+
+Lammle produced it, not without reluctance. Fledgeby looked at it,
+identified it, twisted it up, and threw it into the [[Fire|fire]]. They both
+looked at it as it blazed, went out, and flew in feathery ash up the
+chimney.
+
+‘NOW, Mr Fledgeby,’ said Lammle, as before; ‘am I to understand that
+you in any way reflect upon me, or hint dissatisfaction with me, in this
+affair?’
+
+‘No,’ said Fledgeby.
+
+‘Finally and unreservedly no?’
+
+‘Yes.’
+
+‘Fledgeby, my hand.’
+
+Mr Fledgeby took it, saying, ‘And if we ever find out who did this,
+we’ll mark that person. And in the most friendly manner, let me mention
+one thing more. I don’t know what your circumstances are, and I don’t
+ask. You have sustained a loss here. Many men are liable to be involved
+at times, and you may be, or you may not be. But whatever you do,
+Lammle, don’t—don’t—don’t, I beg of you—ever fall into the hands of
+Pubsey and Co. in the next room, for they are grinders. Regular flayers
+and grinders, my dear Lammle,’ repeated Fledgeby with a peculiar relish,
+‘and they’ll skin you by the inch, from the nape of your neck to the
+sole of your foot, and grind every inch of your skin to tooth-powder.
+You have seen what Mr Riah is. Never fall into his hands, Lammle, I beg
+of you as a friend!’
+
+Mr Lammle, disclosing some alarm at the solemnity of this affectionate
+adjuration, demanded why the devil he ever should fall into the hands of
+Pubsey and Co.?
+
+‘To confess the fact, I was made a little uneasy,’ said the candid
+Fledgeby, ‘by the manner in which that Jew looked at you when he heard
+your name. I didn’t like his eye. But it may have been the heated
+fancy of a friend. Of course if you are sure that you have no personal
+security out, which you may not be quite equal to meeting, and which can
+have got into his hands, it must have been fancy. Still, I didn’t like
+his eye.’
+
+The brooding Lammle, with certain white dints coming and going in his
+palpitating nose, looked as if some tormenting imp were pinching it.
+Fledgeby, watching him with a twitch in his mean face which did duty
+there for a smile, looked very like the tormentor who was pinching.
+
+‘But I mustn’t keep him waiting too long,’ said Fledgeby, ‘or he’ll
+[[Revenge|revenge]] it on my unfortunate friend. How’s your very clever and
+agreeable wife? She knows we have broken down?’
+
+‘I showed her the letter.’
+
+‘Very much surprised?’ asked Fledgeby.
+
+‘I think she would have been more so,’ answered Lammle, ‘if there had
+been more go in YOU?’
+
+‘Oh!—She lays it upon me, then?’
+
+‘Mr Fledgeby, I will not have my words misconstrued.’
+
+‘Don’t break out, Lammle,’ urged Fledgeby, in a submissive tone,
+‘because there’s no occasion. I only asked a question. Then she don’t
+lay it upon me? To ask another question.’
+
+‘No, sir.’
+
+‘Very good,’ said Fledgeby, plainly seeing that she did. ‘My compliments
+to her. Good-bye!’
+
+They shook hands, and Lammle strode out pondering. Fledgeby saw him
+into the fog, and, returning to the [[Fire|fire]] and musing with his face to it,
+stretched the legs of the [[Rose|rose]]-coloured Turkish trousers wide apart, and
+meditatively bent his knees, as if he were going down upon them.
+
+‘You have a pair of whiskers, Lammle, which I never liked,’ murmured
+Fledgeby, ‘and which money can’t produce; you are boastful of your
+manners and your conversation; you wanted to pull my nose, and you have
+let me in for a failure, and your wife says I am the cause of it. I’ll
+bowl you down. I will, though I have no whiskers,’ here he rubbed the
+places where they were due, ‘and no manners, and no conversation!’
+
+Having thus relieved his noble mind, he collected the legs of the
+Turkish trousers, straightened himself on his knees, and called out
+to Riah in the next room, ‘Halloa, you sir!’ At sight of the old man
+re-entering with a gentleness monstrously in contrast with the character
+he had given him, Mr Fledgeby was so tickled again, that he exclaimed,
+laughing, ‘Good! Good! Upon my [[Soul|soul]] it is uncommon good!’
+
+‘Now, old ’un,’ proceeded Fledgeby, when he had had his laugh out,
+‘you’ll buy up these lots that I mark with my pencil—there’s a tick
+there, and a tick there, and a tick there—and I wager two-pence you’ll
+afterwards go on squeezing those Christians like the Jew you are. Now,
+next you’ll want a cheque—or you’ll say you want it, though you’ve
+capital enough somewhere, if one only knew where, but you’d be peppered
+and salted and grilled on a gridiron before you’d own to it—and that
+cheque I’ll write.’
+
+When he had unlocked a drawer and taken a key from it to open another
+drawer, in which was another key that opened another drawer, in which
+was another key that opened another drawer, in which was the cheque
+book; and when he had written the cheque; and when, reversing the key
+and drawer process, he had placed his cheque book in safety again; he
+beckoned the old man, with the folded cheque, to come and take it.
+
+‘Old ’un,’ said Fledgeby, when the Jew had put it in his pocketbook, and
+was putting that in the breast of his outer garment; ‘so much at present
+for my affairs. Now a word about affairs that are not exactly mine.
+Where is she?’
+
+With his hand not yet withdrawn from the breast of his garment, Riah
+started and paused.
+
+‘Oho!’ said Fledgeby. ‘Didn’t expect it! Where have you hidden her?’
+
+Showing that he was taken by surprise, the old man looked at his master
+with some passing confusion, which the master highly enjoyed.
+
+‘Is she in the [[house]] I pay rent and taxes for in Saint Mary Axe?’
+demanded Fledgeby.
+
+‘No, sir.’
+
+‘Is she in your [[Garden|garden]] up atop of that [[house]]—gone up to be dead, or
+whatever the game is?’ asked Fledgeby.
+
+‘No, sir.’
+
+‘Where is she then?’
+
+Riah bent his eyes upon the ground, as if considering whether he could
+answer the question without breach of [[Faith|faith]], and then silently raised
+them to Fledgeby’s face, as if he could not.
+
+‘Come!’ said Fledgeby. ‘I won’t press that just now. But I want to know
+this, and I will know this, mind you. What are you up to?’
+
+The old man, with an apologetic action of his head and hands, as not
+comprehending the master’s meaning, addressed to him a look of mute
+inquiry.
+
+‘You can’t be a gallivanting dodger,’ said Fledgeby. ‘For you’re a
+“regular pity the sorrows”, you know—if you DO know any Christian
+rhyme—“whose trembling limbs have borne him to”—et cetrer. You’re one
+of the Patriarchs; you’re a shaky old card; and you can’t be in [[Love|love]]
+with this Lizzie?’
+
+‘O, sir!’ expostulated Riah. ‘O, sir, sir, sir!’
+
+‘Then why,’ retorted Fledgeby, with some slight tinge of a blush, ‘don’t
+you out with your reason for having your spoon in the soup at all?’
+
+‘Sir, I will tell you the [[Truth|truth]]. But (your pardon for the stipulation)
+it is in sacred confidence; it is strictly upon [[Honour|honour]].’
+
+‘[[Honour]] too!’ cried Fledgeby, with a mocking lip. ‘[[Honour]] among Jews.
+[[Well]]. Cut away.’
+
+‘It is upon [[Honour|honour]], sir?’ the other still stipulated, with respectful
+firmness.
+
+‘Oh, certainly. [[Honour]] bright,’ said Fledgeby.
+
+The old man, never bidden to sit down, stood with an earnest hand laid
+on the back of the young man’s easy chair. The young man sat looking at
+the [[Fire|fire]] with a face of listening curiosity, ready to check him off and
+catch him tripping.
+
+‘Cut away,’ said Fledgeby. ‘Start with your motive.’
+
+‘Sir, I have no motive but to help the helpless.’
+
+Mr Fledgeby could only express the feelings to which this incredible
+statement gave rise in his breast, by a prodigiously long derisive
+sniff.
+
+‘How I came to know, and much to esteem and to respect, this [[Damsel|damsel]], I
+mentioned when you saw her in my poor [[Garden|garden]] on the [[house]]-top,’ said the
+Jew.
+
+‘Did you?’ said Fledgeby, distrustfully. ‘[[Well]]. Perhaps you did,
+though.’
+
+‘The better I knew her, the more interest I felt in her fortunes. They
+gathered to a crisis. I found her beset by a selfish and ungrateful
+brother, beset by an unacceptable wooer, beset by the snares of a more
+powerful [[Lover|lover]], beset by the wiles of her own heart.’
+
+‘She took to one of the chaps then?’
+
+‘Sir, it was only natural that she should incline towards him, for he
+had many and great advantages. But he was not of her station, and to
+marry her was not in his mind. Perils were closing round her, and the
+circle was fast darkening, when I—being as you have said, sir, too
+old and broken to be suspected of any feeling for her but a
+father’s—stepped in, and counselled flight. I said, “My daughter, there
+are times of moral danger when the hardest virtuous resolution to form
+is flight, and when the most heroic bravery is flight.” She answered,
+she had had this in her thoughts; but whither to fly without help she
+knew not, and there were none to help her. I showed her there was one to
+help her, and it was I. And she is gone.’
+
+‘What did you do with her?’ asked Fledgeby, feeling his cheek.
+
+‘I placed her,’ said the old man, ‘at a distance;’ with a [[Grave|grave]] smooth
+outward sweep from one another of his two open hands at arm’s length;
+‘at a distance—among certain of our people, where her industry would
+serve her, and where she could [[Hope|hope]] to exercise it, unassailed from any
+quarter.’
+
+Fledgeby’s eyes had come from the [[Fire|fire]] to notice the action of his hands
+when he said ‘at a distance.’ Fledgeby now tried (very unsuccessfully)
+to imitate that action, as he shook his head and said, ‘Placed her in
+that direction, did you? Oh you circular old dodger!’
+
+With one hand across his breast and the other on the easy chair, Riah,
+without justifying himself, waited for further questioning. But, that it
+was hopeless to question him on that one reserved point, Fledgeby, with
+his small eyes too near together, saw full [[Well|well]].
+
+‘Lizzie,’ said Fledgeby, looking at the [[Fire|fire]] again, and then looking up.
+‘Humph, Lizzie. You didn’t tell me the other name in your [[Garden|garden]] atop of
+the [[house]]. I’ll be more communicative with you. The other name’s Hexam.’
+
+Riah bent his head in assent.
+
+‘Look here, you sir,’ said Fledgeby. ‘I have a notion I know something
+of the inveigling chap, the powerful one. Has he anything to do with the
+law?’
+
+‘Nominally, I believe it his calling.’
+
+‘I thought so. Name anything like Lightwood?’
+
+‘Sir, not at all like.’
+
+‘Come, old ’un,’ said Fledgeby, meeting his eyes with a wink, ‘say the
+name.’
+
+‘Wrayburn.’
+
+‘By Jupiter!’ cried Fledgeby. ‘That one, is it? I thought it might be
+the other, but I never dreamt of that one! I shouldn’t object to your
+baulking either of the pair, dodger, for they are both conceited enough;
+but that one is as cool a customer as ever I met with. Got a beard
+besides, and presumes upon it. [[Well]] done, old ’un! Go on and prosper!’
+
+Brightened by this unexpected commendation, Riah asked were there more
+instructions for him?
+
+‘No,’ said Fledgeby, ‘you may toddle now, Judah, and grope about on the
+orders you have got.’ Dismissed with those pleasing words, the old man
+took his broad hat and staff, and left the great presence: more as if he
+were some superior creature benignantly blessing Mr Fledgeby, than the
+poor dependent on whom he set his foot. Left [[Alone|alone]], Mr Fledgeby locked
+his outer door, and came back to his [[Fire|fire]].
+
+‘[[Well]] done you!’ said Fascination to himself. ‘Slow, you may be; sure,
+you are!’ This he twice or thrice repeated with much complacency, as he
+again dispersed the legs of the Turkish trousers and bent the knees.
+
+‘A tidy shot that, I flatter myself,’ he then soliloquised. ‘And a Jew
+brought down with it! Now, when I heard the story told at Lammle’s, I
+didn’t make a jump at Riah. Not a hit of it; I got at him by degrees.’
+Herein he was quite accurate; it being his habit, not to jump, or
+leap, or make an upward [[spring]], at anything in life, but to crawl at
+everything.
+
+‘I got at him,’ pursued Fledgeby, feeling for his whisker, ‘by degrees.
+If your Lammles or your Lightwoods had got at him anyhow, they would
+have asked him the question whether he hadn’t something to do with that
+gal’s disappearance. I knew a better way of going to work. Having got
+behind the hedge, and put him in the light, I took a shot at him and
+brought him down plump. Oh! It don’t count for much, being a Jew, in a
+match against ME!’
+
+Another dry twist in place of a smile, made his face crooked here.
+
+‘As to Christians,’ proceeded Fledgeby, ‘look out, fellow-Christians,
+particularly you that lodge in Queer Street! I have got the run of Queer
+Street now, and you shall see some games there. To work a lot of power
+over you and you not know it, knowing as you think yourselves, would
+be almost worth laying out money upon. But when it comes to squeezing a
+profit out of you into the bargain, it’s something like!’
+
+With this apostrophe Mr Fledgeby appropriately proceeded to divest
+himself of his Turkish garments, and invest himself with Christian
+attire. Pending which operation, and his morning ablutions, and his
+anointing of himself with the last infallible preparation for the
+production of luxuriant and glossy hair upon the human countenance
+(quacks being the only sages he believed in besides usurers), the murky
+fog closed about him and shut him up in its sooty embrace. If it had
+never let him out any more, the world would have had no irreparable
+loss, but could have easily replaced him from its stock on hand.

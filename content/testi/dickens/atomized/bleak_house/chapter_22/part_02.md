@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 22 (part 2)"
+title: "Bleak House — Chapter 22 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_22/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_22/part_03">part 03 ›</a></div>
 </nav>
 
+
+“With pleasure, sir.”
+
+Then, with fidelity, though with some prolixity, the law-stationer
+repeats Jo’s statement made to the assembled guests at his [[house]]. On
+coming to the end of his narrative, he gives a great start and breaks
+off with, “Dear me, sir, I wasn’t aware there was any other gentleman
+present!”
 
 Mr. Snagsby is dismayed to see, standing with an attentive face
 between himself and the lawyer at a little distance from the table, a

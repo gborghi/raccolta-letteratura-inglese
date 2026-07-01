@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 9 (part 3)"
+title: "Bleak House — Chapter 9 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -123,14 +123,3 @@ him the gentlest. To hear him laugh and see the broad good [[Nature|nature]] of
 his face then, one might have supposed that he had not a care in the
 world, or a dispute, or a dislike, but that his whole existence was a
 [[Summer|summer]] joke.
-
-“No, no,” he said, “no closing up of my paths by any Dedlock! Though
-I willingly confess,” here he softened in a moment, “that Lady
-Dedlock is the most accomplished lady in the world, to whom I would
-do any homage that a plain gentleman, and no baronet with a head
-seven hundred years thick, may. A man who joined his regiment at
-twenty and within a week challenged the most imperious and
-presumptuous coxcomb of a commanding officer that ever drew the
-breath of life through a tight waist—and got broke for it—is not
-the man to be walked over by all the Sir Lucifers, dead or alive,
-locked or unlocked. Ha, ha, ha!”

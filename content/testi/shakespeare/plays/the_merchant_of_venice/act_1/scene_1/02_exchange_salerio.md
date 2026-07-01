@@ -1,5 +1,5 @@
 ---
-title: "The Merchant of [[Venice]] — Act I, Scene 1 — exchange (SALERIO) [2]"
+title: "The Merchant of Venice — Act I, Scene 1 — exchange (SALERIO) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-merchant-of-venice-(shakespeare)"

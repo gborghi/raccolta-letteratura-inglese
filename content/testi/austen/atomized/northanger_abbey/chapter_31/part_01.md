@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 30 (part 1)"
+title: "Northanger Abbey — Chapter 30 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -205,11 +205,3 @@ hour she had nothing to say. After a couple of minutes’ unbroken
 mother’s entrance, asked her, with sudden alacrity, if Mr. and Mrs.
 
 Allen were now at Fullerton? And on developing, from amidst all her
-
-perplexity of words in reply, the meaning, which one short syllable
-
-would have given, immediately expressed his intention of paying his
-
-respects to them, and, with a rising colour, asked her if she would
-
-have the goodness to show him the way. “You may see the [[house]] from this

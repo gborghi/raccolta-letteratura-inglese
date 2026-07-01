@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 23 (part 4)"
+title: "Nicholas Nickleby — Chapter 23 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_23/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_23/part_05">part 05 ›</a></div>
 </nav>
 
+
+Mr. Folair having obligingly confided these particulars to Nicholas, left
+him to mingle with his fellows; the work of personal introduction was
+completed by Mr. [[Vincent Crummles]], who publicly heralded the new actor as
+a prodigy of genius and learning.
 
 ‘I beg your pardon,’ said Miss Snevellicci, sidling towards Nicholas,
 ‘but did you ever play at Canterbury?’
@@ -150,14 +155,3 @@ in the same charnel-[[house]] voice; ‘but such as our dinner is, we beg you
 to partake of it.’
 
 ‘You are very good,’ replied Nicholas, ‘I shall do it ample justice.’
-
-‘Vincent,’ said Mrs. Crummles, ‘what is the hour?’
-
-‘Five minutes past dinner-[[Time|time]],’ said Mr. Crummles.
-
-Mrs. Crummles rang the bell. ‘Let the mutton and onion sauce appear.’
-
-The slave who attended upon Mr. Bulph’s lodgers, disappeared, and after
-a short interval reappeared with the festive banquet. Nicholas and the
-infant phenomenon opposed each other at the pembroke-table, and [[Smike]]
-and the master Crummleses dined on the sofa bedstead.

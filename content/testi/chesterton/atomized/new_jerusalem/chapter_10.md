@@ -148,7 +148,6 @@ it was the emblem of official ovations.
 When Heracleius rode homewards from the rout of Ispahan With
 the captives dragged behind him and the eagles in the van.
 
-
 That is the rigid reality that still underlay the light mastery
 of the Arab rider; that is what a man sees, in the patchwork pavilion,
 when he grows used to the coloured canvas and looks at the walls
@@ -400,7 +399,7 @@ of Mahomet.  For when the Persians who had destroyed Jerusalem rode
 out in triumph to the village of Bethlehem, they looked up and saw
 above the door a picture in coloured stone, a picture of themselves.
 They were following a strange star and worshipping an unknown [[Child|child]].
-For a Christian [[artist]], following some ancient Eastern tradition
+For a Christian [[Artist|artist]], following some ancient Eastern tradition
 containing an eternal [[Truth|truth]], had drawn the three wise men with
 the long robes and high head-dresses of Persia.  The worshippers
 of the sun had come westward for the worship of the star.

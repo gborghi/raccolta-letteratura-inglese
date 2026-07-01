@@ -1,5 +1,5 @@
 ---
-title: "[[longbow2]] — Chapter 7 (part 3)"
+title: "longbow2 — Chapter 7 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -93,7 +93,6 @@ about your intentions touching Welkin [[Castle]], my own estate,
 as it would enable me to make my own arrangements.--Yours very truly,
                                          "Welkyn of Welkin."
 
-
 "Who is Welkyn?" asked the puzzled politician; "he writes as if he knew me;
 but I can't recall him at the moment.  And where is Welkin [[Castle]]? 
 We must look at the maps again."
@@ -129,7 +128,6 @@ to make a protest of a more public kind; and when you next hear
 from me it will be in the form of a general appeal to the justice
 of the English people.--Yours truly,
                                           Welkyn of Welkin."
-
 
 The historic and even heroic traditions of Welkin [[Castle]] kept a
 dozen of the Prime Minister's private secretaries busy for a week,

@@ -14,6 +14,10 @@ tags:
 </nav>
 
 
+He began to wade through the waves of weed and
+thorn past the Chapel, but he found the soil much more
+uneven and obstructive than he had supposed.
+
 He slipped, and sought to save himself by throwing
 one arm round a broken stone angel at a corner of the
 heap of Gothic fragments; but it was loose and rocked
@@ -157,7 +161,6 @@ for a match.  And with that he rent up a young tree
 by its roots, as he had done in the Island of the Olives,
 and carried it on his shoulder, like the club of
 Hercules.
-
 
 Up in Ivywood [[house|House]] Lord Ivywood had telephoned
 twice to Pebblewick.  It was a delay he seldom

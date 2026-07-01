@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 32 (part 3)"
+title: "Jane Eyre — Chapter 32 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -32,7 +32,7 @@ I said first, “Take a chair, Mr. Rivers.” But he answered, as he always
 did, that he could not stay. “Very [[Well|well]],” I responded, mentally, “stand
 if you like; but you shall not go just yet, I am determined: [[Solitude|solitude]]
 is at least as bad for you as it is for me. I’ll try if I cannot
-discover the secret [[spring]] of your confidence, and find an aperture in
+discover the secret [[Spring|spring]] of your confidence, and find an aperture in
 that marble breast through which I can shed one drop of the balm of
 sympathy.”
 
@@ -134,7 +134,3 @@ copied so [[Well|well]]—smiling at me with these coral lips. She is mine—I a
 hers—this present life and passing world suffice to me. Hush! say
 nothing—my heart is full of delight—my senses are entranced—let the
 [[Time|time]] I marked pass in peace.”
-
-I humoured him: the watch ticked on: he breathed fast and low: I stood
-silent. Amidst this hush the quartet sped; he replaced the watch, laid
-the picture down, [[Rose|rose]], and stood on the hearth.

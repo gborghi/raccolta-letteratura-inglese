@@ -14,6 +14,16 @@ tags:
 </nav>
 
 
+end of five hundred fortnights. There was no arithmetical [[Autumn|autumn]], but
+
+there was a spiritual one. And it came from the fact suggested in the
+
+paragraphs above; the sense that man's two great inspirations had
+
+failed him together. The Christian religion was much more dead in the
+
+eighteenth century than it was in the nineteenth century. But the
+
 republican enthusiasm was also much more alive. If their scepticism was
 
 cold, and their [[Faith|faith]] even colder, their practical politics were wildly
@@ -29,8 +39,6 @@ feudal darkness of the eleventh or twelfth centuries, than it was even a
 century later; but if creative politics were at their lowest, creative
 
 theology was almost at its highest point of energy.
-
-
 
 The modern world, in fact, had fallen between two stools. It had fallen
 
@@ -58,8 +66,6 @@ would not have despised a vote. We hardly find them both despised till
 
 we come to the age of Oscar Wilde.
 
-
-
 These years that followed on that [[Double|double]] [[Disillusionment|disillusionment]] were like one
 
 long afternoon in a rich [[house]] on a rainy day. It was not merely that
@@ -79,8 +85,6 @@ through it. But this [[Time|time]] did produce an interregnum of art that had a
 [[Truth|truth]] of its own; though that [[Truth|truth]] was near to being only a consistent
 
 lie.
-
-
 
 The movement of those called Æsthetes (as satirised in _Patience_) and
 
@@ -175,23 +179,3 @@ remarking at intervals "I am not gay." Now there may really be an idea
 in this; the idea of human misfortune coming most cruelly upon the
 
 optimism of [[innocence]]; that the lonely human heart says, like a [[Child|child]] at
-
-a party, "I am not enjoying myself as I thought I should." But it is
-
-plain that unless one thinks of this idea (and of this idea only) the
-
-expression is not in the least unsuccessful pathos; it is very broad and
-
-highly successful farce. Maeterlinck and the decadents, in short, may
-
-fairly boast of being subtle; but they must not mind if they are called
-
-narrow.
-
-
-
-This is the spirit of Wilde's work and of most of the literary work done
-
-in that [[Time|time]] and fashion. It is, as Mr. [[Arthur]] Symons said, an attitude;
-
-but it is an attitude in the flat, not in the round; not a statue, but

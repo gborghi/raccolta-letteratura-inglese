@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 9 (part 8)"
+title: "Shirley — Chapter 9 (part 8)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -12,6 +12,72 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_09/part_07">‹ part 07</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_10/part_01">part 01 ›</a></div>
 </nav>
+
+
+"Yes."
+
+
+
+"Ah! you've arrested him? Good! Then out of a scoundrel you're going to
+
+make a martyr. You've done a wise thing."
+
+
+
+"I've done a right thing. [[Well]], the short and the long of it is, I'm
+
+determined to get Farren a place, and I reckon on you to give him one."
+
+
+
+"This is cool, however!" exclaimed Mr. Yorke. "What right have you to
+
+reckon on me to provide for your dismissed workmen? What do I know about
+
+your Farrens and your Williams? I've heard he's an honest man, but am I
+
+to support all the honest men in Yorkshire? You may say that would be no
+
+great charge to undertake; but great or little, I'll none of it."
+
+
+
+"Come, Mr. Yorke, what can you find for him to do?"
+
+
+
+"_I_ find! You'll make me use language I'm not accustomed to use. I wish
+
+you would go [[Home|home]]. Here is the door; set off."
+
+
+
+Moore sat down on one of the hall chairs.
+
+
+
+"You can't give him work in your mill--good; but you have land. Find him
+
+some occupation on your land, Mr. Yorke."
+
+
+
+"Bob, I thought you cared nothing about our _lourdauds de paysans_. I
+
+don't understand this change."
+
+
+
+"I do. The fellow spoke to me nothing but [[Truth|truth]] and sense. I answered
+
+him just as roughly as I did the rest, who jabbered mere gibberish. I
+
+couldn't make distinctions there and then. His appearance told what he
+
+had gone through lately clearer than his words; but where is the use of
+
+explaining? Let him have work."
+
 
 
 "Let him have it yourself. If you are so very much in earnest, strain a

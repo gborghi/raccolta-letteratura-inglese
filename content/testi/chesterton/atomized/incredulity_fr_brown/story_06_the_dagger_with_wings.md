@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The Dagger with Wings"
+title: "incredulity Fr Brown — The Dagger with Wings"
 author: "Chesterton"
 unitType: story
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -344,7 +344,7 @@ rousing him.
 
 [[Father Brown]] was blinking in his short - sighted way at the paper
 presented to him. It was a singular sort of paper, rough without being
-common, as from an [[artist]]'s [[Sketch|sketch]] - book; and on it was drawn boldly in
+common, as from an [[Artist|artist]]'s [[Sketch|sketch]] - book; and on it was drawn boldly in
 red ink a dagger decorated with wings like the rod of Hermes, with the
 written words, '[[Death]] comes the day after this, as it came to your
 brothers.'
@@ -837,8 +837,8 @@ mere mechanical hypocrite. Any sort of mask can be put on any sort of
 face. Anybody can learn certain phrases or state verbally that he holds
 certain views. I can go out into the street and state that I am a
 Wesleyan Methodist or a Sandemanian, though I [[Fear|fear]] in no very convincing
-accent. But we are talking about an [[artist]]; and for the enjoyment of the
-[[artist]] the mask must be to some extent moulded on the face. What he
+accent. But we are talking about an [[Artist|artist]]; and for the enjoyment of the
+[[Artist|artist]] the mask must be to some extent moulded on the face. What he
 makes outside him must correspond to something inside him; he can only
 make his effects out of some of the materials of his [[Soul|soul]]. I suppose he
 could have said he was a Wesleyan Methodist; but he could never be an
@@ -857,7 +857,7 @@ notion of [[Christianity]].'
 you're denouncing or defending him.'
 
 'It isn't defending a man to say he is a genius,' said [[Father Brown]].
-'Far from it. And it is simply a psychological fact that an [[artist]] will
+'Far from it. And it is simply a psychological fact that an [[Artist|artist]] will
 betray himself by some sort of sincerity. Leonardo da Vinci cannot draw
 as if he couldn't draw. Even if he tried, it will always be a strong
 [[Parody|parody]] of a weak thing. This man would have made something much too

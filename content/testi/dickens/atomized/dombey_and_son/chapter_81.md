@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 25"
+title: "Dombey and Son — Chapter 53"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,423 +14,735 @@ tags:
 </nav>
 
 
-CHAPTER XXV.
-Strange News of Uncle Sol
-
-
-[[Captain Cuttle]], though no sluggard, did not turn out so early on the
-morning after he had seen Sol Gills, through the shop-[[Window|window]], writing
-in the parlour, with the Midshipman upon the counter, and Rob the
-Grinder making up his bed below it, but that the clocks struck six as
-he raised himself on his elbow, and took a survey of his little
-chamber. The Captain’s eyes must have done severe duty, if he usually
-opened them as wide on awaking as he did that morning; and were but
-roughly rewarded for their vigilance, if he generally rubbed them half
-as hard. But the occasion was no common one, for Rob the Grinder had
-certainly never stood in the doorway of [[Captain Cuttle]]’s room before,
-and in it he stood then, panting at the Captain, with a flushed and
-touzled air of Bed about him, that greatly heightened both his colour
-and expression.
-
-“Holloa!” roared the Captain. “What’s the matter?”
-
-Before Rob could stammer a word in answer, [[Captain Cuttle]] turned out,
-all in a heap, and covered the boy’s mouth with his hand.
-
-“Steady, my lad,” said the Captain, “don’t ye speak a word to me as
-yet!”
-
-The Captain, looking at his visitor in great consternation, gently
-shouldered him into the next room, after laying this injunction upon
-him; and disappearing for a few moments, forthwith returned in the blue
-suit. Holding up his hand in token of the injunction not yet being
-taken off, [[Captain Cuttle]] walked up to the cupboard, and poured himself
-out a dram; a counterpart of which he handed to the messenger. The
-Captain then stood himself up in a corner, against the wall, as if to
-forestall the possibility of being knocked backwards by the
-communication that was to be made to him; and having swallowed his
-liquor, with his eyes fixed on the messenger, and his face as pale as
-his face could be, requested him to “heave ahead.”
-
-“Do you mean, tell you, Captain?” asked Rob, who had been greatly
-impressed by these precautions.
-
-“Ay!” said the Captain.
-
-“[[Well]], Sir,” said Rob, “I ain’t got much to tell. But look here!”
-
-Rob produced a bundle of keys. The Captain surveyed them, remained in
-his corner, and surveyed the messenger.
-
-“And look here!” pursued Rob.
-
-The boy produced a sealed packet, which [[Captain Cuttle]] stared at as he
-had stared at the keys.
-
-“When I woke this morning, Captain,” said Rob, “which was about a
-quarter after five, I found these on my pillow. The shop-door was
-unbolted and unlocked, and Mr Gills gone.”
-
-“Gone!” roared the Captain.
-
-“Flowed, Sir,” returned Rob.
-
-The Captain’s voice was so tremendous, and he came out of his corner
-with such way on him, that Rob retreated before him into another
-corner: holding out the keys and packet, to prevent himself from being
-run down.
-
-“‘For [[Captain Cuttle]],’ Sir,” cried Rob, “is on the keys, and on the
-packet too. Upon my word and [[Honour|honour]], [[Captain Cuttle]], I don’t know
-anything more about it. I wish I may die if I do! Here’s a sitiwation
-for a lad that’s just got a sitiwation,” cried the unfortunate Grinder,
-screwing his cuff into his face: “his master bolted with his place, and
-him blamed for it!”
-
-These lamentations had reference to [[Captain Cuttle]]’s gaze, or rather
-glare, which was full of vague suspicions, threatenings, and
-denunciations. Taking the proffered packet from his hand, the Captain
-opened it and read as follows:—
-
-“‘My dear Ned Cuttle. Enclosed is my will!’” The Captain turned it
-over, with a doubtful look—“"and Testament’—Where’s the Testament?”
-said the Captain, instantly impeaching the ill-fated Grinder. “What
-have you done with that, my lad?”
-
-“I never see it,” whimpered Rob. “Don’t keep on suspecting an [[Innocent|innocent]]
-lad, Captain. I never touched the Testament.”
-
-[[Captain Cuttle]] shook his head, implying that somebody must be made
-answerable for it; and gravely proceeded:
-
-“‘Which don’t break open for a year, or until you have decisive
-intelligence of my dear Walter, who is dear to you, Ned, too, I am
-sure.’” The Captain paused and shook his head in some emotion; then, as
-a re-establishment of his dignity in this trying position, looked with
-exceeding sternness at the Grinder. “‘If you should never hear of me,
-or see me more, Ned, remember an old friend as he will remember you to
-the last—kindly; and at least until the period I have mentioned has
-expired, keep a [[Home|home]] in the old place for Walter. There are no debts,
-the loan from Dombey’s [[house|House]] is paid off and all my keys I send with
-this. Keep this quiet, and make no inquiry for me; it is useless. So no
-more, dear Ned, from your true friend, [[Solomon Gills]].’” The Captain
-took a long breath, and then read these words written below: “‘The boy
-Rob, [[Well|well]] recommended, as I told you, from Dombey’s [[house|House]]. If all else
-should come to the hammer, take care, Ned, of the little Midshipman.’”
-
-To convey to posterity any idea of the manner in which the Captain,
-after turning this letter over and over, and reading it a score of
-times, sat down in his chair, and held a [[Court|court]]-martial on the subject
-in his own mind, would require the united genius of all the great men,
-who, discarding their own untoward days, have determined to go down to
-posterity, and have never got there. At first the Captain was too much
-confounded and distressed to think of anything but the letter itself;
-and even when his thoughts began to glance upon the various attendant
-facts, they might, perhaps, as [[Well|well]] have occupied themselves with their
-former theme, for any light they reflected on them. In this state of
-mind, [[Captain Cuttle]] having the Grinder before the [[Court|court]], and no one
-else, found it a great relief to decide, generally, that he was an
-object of suspicion: which the Captain so clearly expressed in his
-visage, that Rob remonstrated.
-
-“Oh, don’t, Captain!” cried the Grinder. “I [[Wonder|wonder]] how you can! what
-have I done to be looked at, like that?”
-
-“My lad,” said [[Captain Cuttle]], “don’t you sing out afore you’re hurt.
-And don’t you commit yourself, whatever you do.”
-
-“I haven’t been and committed nothing, Captain!” answered Rob.
-
-“Keep her free, then,” said the Captain, impressively, “and ride easy.”
-
-With a deep sense of the responsibility imposed upon him, and the
-necessity of thoroughly fathoming this mysterious affair as became a
-man in his relations with the parties, [[Captain Cuttle]] resolved to go
-down and examine the premises, and to keep the Grinder with him.
-Considering that youth as under arrest at present, the Captain was in
-some [[Doubt|doubt]] whether it might not be expedient to handcuff him, or tie
-his ankles together, or attach a weight to his legs; but not being
-clear as to the legality of such formalities, the Captain decided
-merely to hold him by the shoulder all the way, and knock him down if
-he made any objection.
-
-However, he made none, and consequently got to the Instrument-maker’s
-[[house]] without being placed under any more stringent restraint. As the
-shutters were not yet taken down, the Captain’s first care was to have
-the shop opened; and when the daylight was freely admitted, he
-proceeded, with its aid, to further investigation.
-
-The Captain’s first care was to establish himself in a chair in the
-shop, as President of the solemn tribunal that was sitting within him;
-and to require Rob to lie down in his bed under the counter, show
-exactly where he discovered the keys and packet when he awoke, how he
-found the door when he went to try it, how he started off to Brig
-Place—cautiously preventing the latter [[Imitation|imitation]] from being carried
-farther than the threshold—and so on to the end of the chapter. When
-all this had been done several times, the Captain shook his head and
-seemed to think the matter had a bad look.
-
-Next, the Captain, with some indistinct idea of finding a [[Body|body]],
-instituted a strict search over the whole [[house]]; groping in the cellars
-with a lighted candle, thrusting his hook behind doors, bringing his
-head into violent contact with beams, and covering himself with
-cobwebs. Mounting up to the old man’s bed-room, they found that he had
-not been in bed on the previous [[Night|night]], but had merely lain down on the
-coverlet, as was evident from the impression yet remaining there.
-
-“And I think, Captain,” said Rob, looking round the room, “that when Mr
-Gills was going in and out so often, these last few days, he was taking
-little things away, piecemeal, not to attract attention.”
-
-“Ay!” said the Captain, mysteriously. “Why so, my lad?”
-
-“Why,” returned Rob, looking about, “I don’t see his shaving tackle.
-Nor his brushes, Captain. Nor no shirts. Nor yet his shoes.”
-
-As each of these articles was mentioned, [[Captain Cuttle]] took particular
-notice of the corresponding department of the Grinder, lest he should
-appear to have been in recent use, or should prove to be in present
-possession thereof. But Rob had no occasion to shave, was not brushed,
-and wore the clothes he had on for a long [[Time|time]] past, beyond all
-possibility of a mistake.
-
-“And what should you say,” said the Captain—“not committing
-yourself—about his [[Time|time]] of sheering off? Hey?”
-
-“Why, I think, Captain,” returned Rob, “that he must have gone pretty
-soon after I began to snore.”
-
-“What o’[[Clock|clock]] was that?” said the Captain, prepared to be very
-particular about the exact [[Time|time]].
-
-“How can I tell, Captain!” answered Rob. “I only know that I’m a heavy
-sleeper at first, and a light one towards morning; and if Mr Gills had
-come through the shop near daybreak, though ever so much on tiptoe, I’m
-pretty sure I should have heard him shut the door at all events.”
-
-On mature consideration of this evidence, [[Captain Cuttle]] began to think
-that the Instrument-maker must have vanished of his own accord; to
-which logical conclusion he was assisted by the letter addressed to
-himself, which, as being undeniably in the old man’s handwriting, would
-seem, with no great forcing, to bear the construction, that he arranged
-of his own will to go, and so went. The Captain had next to consider
-where and why? and as there was no way whatsoever that he saw to the
-solution of the first difficulty, he confined his meditations to the
-second.
-
-Remembering the old man’s curious manner, and the farewell he had taken
-of him; unaccountably fervent at the [[Time|time]], but quite intelligible now:
-a terrible apprehension strengthened on the Captain, that, overpowered
-by his anxieties and regrets for Walter, he had been driven to commit
-[[suicide]]. Unequal to the wear and tear of daily life, as he had often
-professed himself to be, and shaken as he no [[Doubt|doubt]] was by the
-uncertainty and deferred [[Hope|hope]] he had undergone, it seemed no violently
-strained misgiving, but only too probable.
-
-Free from debt, and with no [[Fear|fear]] for his personal liberty, or the
-seizure of his goods, what else but such a state of [[Madness|madness]] could have
-hurried him away [[Alone|alone]] and secretly? As to his carrying some apparel
-with him, if he had really done so—and they were not even sure of
-that—he might have done so, the Captain argued, to prevent inquiry, to
-distract attention from his probable fate, or to ease the very mind
-that was now revolving all these possibilities. Such, reduced into
-plain language, and condensed within a small compass, was the final
-result and substance of [[Captain Cuttle]]’s deliberations: which took a
-long [[Time|time]] to arrive at this pass, and were, like some more public
-deliberations, very discursive and disorderly.
-
-Dejected and despondent in the extreme, [[Captain Cuttle]] felt it just to
-release Rob from the arrest in which he had placed him, and to enlarge
-him, subject to a kind of honourable inspection which he still resolved
-to exercise; and having hired a man, from Brogley the Broker, to sit in
-the shop during their absence, the Captain, taking Rob with him, issued
-forth upon a dismal [[Quest|quest]] after the mortal remains of [[Solomon Gills]].
-
-Not a station-[[house]], or bone-[[house]], or work-[[house]] in the metropolis
-escaped a visitation from the hard glazed hat. Along the wharves, among
-the shipping on the bank-side, up the [[River|river]], down the [[River|river]], here,
-there, everywhere, it went gleaming where men were thickest, like the
-[[Hero|hero]]’s helmet in an [[Epic|epic]] battle. For a whole week the Captain read of
-all the found and missing people in all the newspapers and handbills,
-and went forth on expeditions at all hours of the day to identify
-[[Solomon Gills]], in poor little [[Ship|ship]]-boys who had fallen overboard, and
-in tall foreigners with dark beards who had taken [[Poison|poison]]—“to make
-sure,” [[Captain Cuttle]] said, “that it wam’t him.” It is a sure thing
-that it never was, and that the good Captain had no other satisfaction.
-
-[[Captain Cuttle]] at last abandoned these attempts as hopeless, and set
-himself to consider what was to be done next. After several new
-perusals of his poor friend’s letter, he considered that the
-maintenance of “a [[Home|home]] in the old place for Walter” was the primary
-duty imposed upon him. Therefore, the Captain’s decision was, that he
-would keep [[house]] on the premises of [[Solomon Gills]] himself, and would go
-into the instrument-business, and see what came of it.
-
-But as this step involved the relinquishment of his apartments at Mrs
-MacStinger’s, and he knew that resolute woman would never hear of his
-deserting them, the Captain took the desperate determination of running
-away.
-
-“Now, look ye here, my lad,” said the Captain to Rob, when he had
-matured this notable scheme, “to-morrow, I shan’t be found in this here
-roadstead till [[Night|night]]—not till arter midnight p’rhaps. But you keep
-watch till you hear me knock, and the moment you do, turn-to, and open
-the door.”
-
-“Very good, Captain,” said Rob.
-
-“You’ll continue to be rated on these here books,” pursued the Captain
-condescendingly, “and I don’t say but what you may get promotion, if
-you and me should pull together with a will. But the moment you hear me
-knock to-morrow [[Night|night]], whatever [[Time|time]] it is, turn-to and show yourself
-smart with the door.”
-
-“I’ll be sure to do it, Captain,” replied Rob.
-
-“Because you understand,” resumed the Captain, coming back again to
-enforce this charge upon his mind, “there may be, for anything I can
-say, a chase; and I might be took while I was waiting, if you didn’t
-show yourself smart with the door.”
-
-Rob again assured the Captain that he would be prompt and wakeful; and
-the Captain having made this prudent arrangement, went [[Home|home]] to Mrs
-MacStinger’s for the last [[Time|time]].
-
-The sense the Captain had of its being the last [[Time|time]], and of the awful
-purpose hidden beneath his blue waistcoat, inspired him with such a
-mortal dread of Mrs MacStinger, that the sound of that lady’s foot
-downstairs at any [[Time|time]] of the day, was sufficient to throw him into a
-fit of trembling. It fell out, too, that Mrs MacStinger was in a
-charming temper—mild and placid as a [[house]]—[[Lamb|lamb]]; and [[Captain Cuttle]]’s
-[[Conscience|conscience]] suffered terrible twinges, when she came up to inquire if
-she could cook him nothing for his dinner.
-
-“A nice small kidney-pudding now, Cap’en Cuttle,” said his landlady:
-“or a sheep’s heart. Don’t mind my trouble.”
-
-“No thank’ee, Ma’am,” returned the Captain.
-
-“Have a roast fowl,” said Mrs MacStinger, “with a bit of weal stuffing
-and some egg sauce. Come, Cap’en Cuttle! Give yourself a little treat!”
-
-“No thank’ee, Ma’am,” returned the Captain very humbly.
-
-“I’m sure you’re out of sorts, and want to be stimulated,” said Mrs
-MacStinger. “Why not have, for once in a way, a bottle of sherry wine?”
-
-“[[Well]], Ma’am,” rejoined the Captain, “if you’d be so good as take a
-glass or two, I think I would try that. Would you do me the favour,
-Ma’am,” said the Captain, torn to pieces by his [[Conscience|conscience]], “to accept
-a quarter’s rent ahead?”
-
-“And why so, Cap’en Cuttle?” retorted Mrs MacStinger—sharply, as the
-Captain thought.
-
-The Captain was frightened to dead “If you would Ma’am,” he said with
-submission, “it would oblige me. I can’t keep my money very [[Well|well]]. It
-pays itself out. I should take it kind if you’d comply.”
-
-“[[Well]], Cap’en Cuttle,” said the unconscious MacStinger, rubbing her
-hands, “you can do as you please. It’s not for me, with my family, to
-refuse, no more than it is to ask.”
-
-“And would you, Ma’am,” said the Captain, taking down the tin canister
-in which he kept his cash, from the top shelf of the cupboard, “be so
-good as offer eighteen-pence a-piece to the little family all round? If
-you could make it convenient, Ma’am, to pass the word presently for
-them children to come for’ard, in a [[Body|body]], I should be glad to see ’em.”
-
-These [[Innocent|innocent]] MacStingers were so many daggers to the Captain’s
-breast, when they appeared in a swarm, and tore at him with the
-confiding trustfulness he so little deserved. The eye of Alexander
-MacStinger, who had been his favourite, was insupportable to the
-Captain; the voice of Juliana MacStinger, who was the picture of her
-mother, made a coward of him.
-
-[[Captain Cuttle]] kept up appearances, nevertheless, tolerably [[Well|well]], and
-for an hour or two was very hardly used and roughly handled by the
-young MacStingers: who in their childish frolics, did a little damage
-also to the glazed hat, by sitting in it, two at a [[Time|time]], as in a nest,
-and drumming on the inside of the [[Crown|crown]] with their shoes. At length the
-Captain sorrowfully dismissed them: taking leave of these cherubs with
-the poignant remorse and grief of a man who was going to execution.
-
-In the [[Silence|silence]] of [[Night|night]], the Captain packed up his heavier property in
-a chest, which he locked, intending to leave it there, in all
-probability for ever, but on the forlorn chance of one day finding a
-man sufficiently bold and desperate to come and ask for it. Of his
-lighter necessaries, the Captain made a bundle; and disposed his plate
-about his person, ready for flight. At the hour of midnight, when Brig
-Place was buried in slumber, and Mrs MacStinger was lulled in sweet
-oblivion, with her infants around her, the guilty Captain, stealing
-down on tiptoe, in the dark, opened the door, closed it softly after
-him, and took to his heels.
-
-Pursued by the image of Mrs MacStinger springing out of bed, and,
-regardless of costume, following and bringing him back; pursued also by
-a consciousness of his enormous crime; [[Captain Cuttle]] held on at a
-great pace, and allowed no grass to grow under his feet, between Brig
-Place and the Instrument-maker’s door. It opened when he knocked—for
-Rob was on the watch—and when it was bolted and locked behind him,
-[[Captain Cuttle]] felt comparatively safe.
-
-“Whew!” cried the Captain, looking round him. “It’s a breather!”
-
-“Nothing the matter, is there, Captain?” cried the gaping Rob.
-
-“No, no!” said [[Captain Cuttle]], after changing colour, and listening to
-a passing footstep in the street. “But mind ye, my lad; if any lady,
-except either of them two as you see t’other day, ever comes and asks
-for Cap’en Cuttle, be sure to report no person of that name known, nor
-never heard of here; observe them orders, will you?”
-
-“I’ll take care, Captain,” returned Rob.
-
-“You might say—if you liked,” hesitated the Captain, “that you’d read
-in the paper that a Cap’en of that name was gone to Australia,
-emigrating, along with a whole [[Ship|ship]]’s complement of people as had all
-swore never to come back no more.”
-
-Rob nodded his understanding of these instructions; and [[Captain Cuttle]]
-promising to make a man of him, if he obeyed orders, dismissed him,
-yawning, to his bed under the counter, and went aloft to the chamber of
-[[Solomon Gills]].
-
-What the Captain suffered next day, whenever a bonnet passed, or how
-often he darted out of the shop to elude imaginary MacStingers, and
-sought safety in the attic, cannot be told. But to avoid the fatigues
-attendant on this means of [[Self|self]]-preservation, the Captain curtained the
-glass door of communication between the shop and parlour, on the
-inside; fitted a key to it from the bunch that had been sent to him;
-and cut a small hole of espial in the wall. The advantage of this
-fortification is obvious. On a bonnet appearing, the Captain instantly
-slipped into his garrison, locked himself up, and took a secret
-observation of the enemy. Finding it a false alarm, the Captain
-instantly slipped out again. And the bonnets in the street were so very
-numerous, and alarms were so inseparable from their appearance, that
-the Captain was almost incessantly slipping in and out all day long.
-
-[[Captain Cuttle]] found [[Time|time]], however, in the midst of this fatiguing
-service to inspect the stock; in connexion with which he had the
-general idea (very laborious to Rob) that too much friction could not
-be bestowed upon it, and that it could not be made too bright. He also
-ticketed a few attractive-looking articles at a venture, at prices
-ranging from ten shillings to fifty pounds, and exposed them in the
-[[Window|window]] to the great astonishment of the public.
-
-After effecting these improvements, [[Captain Cuttle]], surrounded by the
-instruments, began to feel scientific: and looked up at the [[Stars|stars]] at
-[[Night|night]], through the skylight, when he was smoking his pipe in the little
-back parlour before going to bed, as if he had established a kind of
-property in them. As a tradesman in the [[City]], too, he began to have an
-interest in the [[Lord Mayor]], and the Sheriffs, and in Public Companies;
-and felt bound to read the quotations of the Funds every day, though he
-was unable to make out, on any principle of navigation, what the
-figures meant, and could have very [[Well|well]] dispensed with the fractions.
-Florence, the Captain waited on, with his strange news of Uncle Sol,
-immediately after taking possession of the Midshipman; but she was away
-from [[Home|home]]. So the Captain sat himself down in his altered station of
-life, with no company but Rob the Grinder; and losing count of [[Time|time]], as
-men do when great changes come upon them, thought musingly of Walter,
-and of [[Solomon Gills]], and even of Mrs MacStinger herself, as among the
-things that had been.
+CHAPTER LIII.
+More Intelligence
+
+
+There were two of the traitor’s own [[Blood|blood]]—his renounced brother and
+sister—on whom the weight of his [[Guilt|guilt]] rested almost more heavily, at
+this [[Time|time]], than on the man whom he had so deeply injured. Prying and
+tormenting as the world was, it did Mr Dombey the service of nerving
+him to pursuit and [[Revenge|revenge]]. It roused his passion, stung his [[Pride|pride]],
+twisted the one idea of his life into a new shape, and made some
+gratification of his wrath, the object into which his whole
+intellectual existence resolved itself. All the stubbornness and
+implacability of his [[Nature|nature]], all its hard impenetrable quality, all its
+gloom and moroseness, all its exaggerated sense of personal importance,
+all its jealous disposition to resent the least flaw in the ample
+recognition of his importance by others, set this way like many streams
+united into one, and bore him on upon their tide. The most impetuously
+passionate and violently impulsive of mankind would have been a milder
+enemy to encounter than the sullen Mr Dombey wrought to this. A wild
+beast would have been easier turned or soothed than the [[Grave|grave]] gentleman
+without a wrinkle in his starched cravat.
+
+But the very intensity of his purpose became almost a substitute for
+action in it. While he was yet uninformed of the traitor’s retreat, it
+served to divert his mind from his own calamity, and to entertain it
+with another prospect. The brother and sister of his false favourite
+had no such relief; everything in their [[history]], past and present, gave
+his delinquency a more afflicting meaning to them.
+
+The sister may have sometimes sadly thought that if she had remained
+with him, the companion and friend she had been once, he might have
+escaped the crime into which he had fallen. If she ever thought so, it
+was still without regret for what she had done, without the least [[Doubt|doubt]]
+of her duty, without any pricing or enhancing of her [[Self|self]]-devotion. But
+when this possibility presented itself to the erring and repentant
+brother, as it sometimes did, it smote upon his heart with such a keen,
+reproachful touch as he could hardly bear. No idea of retort upon his
+cruel brother came into his mind. New accusation of himself, fresh
+inward lamentings over his own unworthiness, and the ruin in which it
+was at once his consolation and his [[Self|self]]-reproach that he did not stand
+[[Alone|alone]], were the sole kind of reflections to which the discovery gave
+rise in him.
+
+It was on the very same day whose evening set upon the last chapter,
+and when Mr Dombey’s world was busiest with the elopement of his wife,
+that the [[Window|window]] of the room in which the brother and sister sat at
+their early breakfast, was darkened by the unexpected [[Shadow|shadow]] of a man
+coming to the little porch: which man was Perch the Messenger.
+
+“I’ve stepped over from Balls Pond at a early hour,” said Mr Perch,
+confidentially looking in at the room door, and stopping on the mat to
+wipe his shoes all round, which had no mud upon them, “agreeable to my
+instructions last [[Night|night]]. They was, to be sure and bring a note to you,
+Mr Carker, before you went out in the morning. I should have been here
+a good hour and a half ago,” said Mr Perch, meekly, “but for the state
+of health of Mrs P., who I thought I should have lost in the [[Night|night]], I
+do assure you, five distinct times.”
+
+“Is your wife so ill?” asked Harriet.
+
+“Why, you see,” said Mr Perch, first turning round to shut the door
+carefully, “she takes what has happened in our [[house|House]] so much to heart,
+Miss. Her nerves is so very delicate, you see, and soon unstrung. Not
+but what the strongest nerves had good need to be shook, I’m sure. You
+feel it very much yourself, no doubts.”
+
+Harriet repressed a sigh, and glanced at her brother.
+
+“I’m sure I feel it myself, in my humble way,” Mr Perch went on to say,
+with a shake of his head, “in a manner I couldn’t have believed if I
+hadn’t been called upon to undergo. It has almost the effect of drink
+upon me. I literally feels every morning as if I had been taking more
+than was good for me over-[[Night|night]].”
+
+Mr Perch’s appearance corroborated this recital of his symptoms. There
+was an air of feverish lassitude about it, that seemed referable to
+drams; and, which, in fact, might no [[Doubt|doubt]] have been traced to those
+numerous discoveries of himself in the bars of public-houses, being
+treated and questioned, which he was in the daily habit of making.
+
+“Therefore I can judge,” said Mr Perch, shaking his head and speaking
+in a silvery murmur, “of the feelings of such as is at all peculiarly
+sitiwated in this most painful rewelation.”
+
+Here Mr Perch waited to be confided in; and receiving no confidence,
+coughed behind his hand. This leading to nothing, he coughed behind his
+hat; and that leading to nothing, he put his hat on the ground and
+sought in his breast pocket for the letter.
+
+“If I rightly recollect, there was no answer,” said Mr Perch, with an
+affable smile; “but perhaps you’ll be so good as cast your eye over it,
+Sir.”
+
+John Carker broke the seal, which was Mr Dombey’s, and possessing
+himself of the contents, which were very brief, replied, “No. No answer
+is expected.”
+
+“Then I shall wish you good morning, Miss,” said Perch, taking a step
+toward the door, and hoping, I’m sure, that you’ll not permit yourself
+to be more reduced in mind than you can help, by the late painful
+rewelation. The Papers,” said Mr Perch, taking two steps back again,
+and comprehensively addressing both the brother and sister in a whisper
+of increased mystery, “is more eager for news of it than you’d suppose
+possible. One of the [[Sunday]] ones, in a blue cloak and a white hat, that
+had previously offered for to bribe me—need I say with what
+[[success]]?—was dodging about our [[Court|court]] last [[Night|night]] as late as twenty
+minutes after eight o’[[Clock|clock]]. I see him myself, with his eye at the
+counting-[[house]] keyhole, which being patent is impervious. Another one,”
+said Mr Perch, “with military frogs, is in the parlour of the [[King]]’s
+Arms all the blessed day. I happened, last week, to let a little
+obserwation fall there, and next morning, which was [[Sunday]], I see it
+worked up in print, in a most surprising manner.”
+
+Mr Perch resorted to his breast pocket, as if to produce the paragraph
+but receiving no encouragement, pulled out his beaver gloves, picked up
+his hat, and took his leave; and before it was high [[Noon|noon]], Mr Perch had
+related to several select audiences at the [[King]]’s Arms and elsewhere,
+how Miss Carker, bursting into [[Tears|tears]], had caught him by both hands, and
+said, “Oh! dear dear Perch, the sight of you is all the comfort I have
+left!” and how Mr John Carker had said, in an awful voice, “Perch, I
+disown him. Never let me hear him mentioned as a brother more!”
+
+“Dear John,” said Harriet, when they were left [[Alone|alone]], and had remained
+silent for some few moments. “There are bad tidings in that letter.”
+
+“Yes. But nothing unexpected,” he replied. “I saw the writer
+yesterday.”
+
+“The writer?”
+
+“Mr Dombey. He passed twice through the Counting [[house|House]] while I was
+there. I had been able to avoid him before, but of course could not
+[[Hope|hope]] to do that long. I know how natural it was that he should regard
+my presence as something offensive; I felt it must be so, myself.”
+
+“He did not say so?”
+
+“No; he said nothing: but I saw that his glance rested on me for a
+moment, and I was prepared for what would happen—for what has happened.
+I am dismissed!”
+
+She looked as little shocked and as hopeful as she could, but it was
+distressing news, for many reasons.
+
+“‘I need not tell you,’” said John Carker, reading the letter, “‘why
+your name would henceforth have an unnatural sound, in however remote a
+connexion with mine, or why the daily sight of anyone who bears it,
+would be unendurable to me. I have to notify the cessation of all
+engagements between us, from this date, and to request that no renewal
+of any communication with me, or my establishment, be ever attempted by
+you.’—Enclosed is an equivalent in money to a generously long notice,
+and this is my discharge. Heaven knows, Harriet, it is a lenient and
+considerate one, when we remember all!”
+
+“If it be lenient and considerate to punish you at all, John, for the
+misdeed of another,” she replied gently, “yes.”
+
+“We have been an ill-omened race to him,” said John Carker. “He has
+reason to shrink from the sound of our name, and to think that there is
+something cursed and wicked in our [[Blood|blood]]. I should almost think it too,
+Harriet, but for you.”
+
+“Brother, don’t speak like this. If you have any special reason, as you
+say you have, and think you have—though I say, No!—to [[Love|love]] me, spare me
+the hearing of such wild mad words!”
+
+He covered his face with both his hands; but soon permitted her, coming
+near him, to take one in her own.
+
+“After so many years, this parting is a [[Melancholy|melancholy]] thing, I know,” said
+his sister, “and the cause of it is dreadful to us both. We have to
+live, too, and must look about us for the means. [[Well]], [[Well|well]]! We can do
+so, undismayed. It is our [[Pride|pride]], not our trouble, to strive, John, and
+to strive together!”
+
+A smile played on her lips, as she kissed his cheek, and entreated him
+to be of good cheer.
+
+“Oh, dearest sister! Tied, of your own noble will, to a ruined man!
+whose reputation is blighted; who has no friend himself, and has driven
+every friend of yours away!”
+
+“John!” she laid her hand hastily upon his lips, “for my sake! In
+remembrance of our long companionship!” He was silent “Now, let me tell
+you, dear,” quietly sitting by his side, “I have, as you have, expected
+this; and when I have been thinking of it, and fearing that it would
+happen, and preparing myself for it, as [[Well|well]] as I could, I have
+resolved to tell you, if it should be so, that I have kept a secret
+from you, and that we have a friend.”
+
+“What’s our friend’s name, Harriet?” he answered with a sorrowful
+smile.
+
+“Indeed, I don’t know, but he once made a very earnest protestation to
+me of his [[Friendship|friendship]] and his wish to serve us: and to this day I
+believe him.”
+
+“Harriet!” exclaimed her wondering brother, “where does this friend
+live?”
+
+“Neither do I know that,” she returned. “But he knows us both, and our
+[[history]]—all our little [[history]], John. That is the reason why, at his
+own suggestion, I have kept the secret of his coming, here, from you,
+lest his acquaintance with it should distress you.”
+
+“Here! Has he been here, Harriet?”
+
+“Here, in this room. Once.”
+
+“What kind of man?”
+
+“Not young. ‘Grey-headed,’ as he said, ‘and fast growing greyer.’ But
+generous, and frank, and good, I am sure.”
+
+“And only seen once, Harriet?”
+
+“In this room only once,” said his sister, with the slightest and most
+transient glow upon her cheek; “but when here, he entreated me to
+suffer him to see me once a week as he passed by, in token of our being
+[[Well|well]], and continuing to need nothing at his hands. For I told him, when
+he proffered us any service he could render—which was the object of his
+visit—that we needed nothing.”
+
+“And once a week—”
+
+“Once every week since then, and always on the same day, and at the
+same hour, he his gone past; always on foot; always going in the same
+direction—towards [[London]]; and never pausing longer than to bow to me,
+and wave his hand cheerfully, as a kind guardian might. He made that
+promise when he proposed these curious interviews, and has kept it so
+faithfully and pleasantly, that if I ever felt any trifling uneasiness
+about them in the beginning (which I don’t think I did, John; his
+manner was so plain and true) it very soon vanished, and left me quite
+glad when the day was coming. Last Monday—the first since this terrible
+event—he did not go by; and I have wondered whether his absence can
+have been in any way connected with what has happened.”
+
+“How?” inquired her brother.
+
+“I don’t know how. I have only speculated on the coincidence; I have
+not tried to account for it. I feel sure he will return. When he does,
+dear John, let me tell him that I have at last spoken to you, and let
+me bring you together. He will certainly help us to a new livelihood.
+His entreaty was that he might do something to smooth my life and
+yours; and I gave him my promise that if we ever wanted a friend, I
+would remember him. Then his name was to be no secret.”
+
+“Harriet,” said her brother, who had listened with close attention,
+“describe this gentleman to me. I surely ought to know one who knows me
+so [[Well|well]].”
+
+His sister painted, as vividly as she could, the features, stature, and
+dress of her visitor; but John Carker, either from having no knowledge
+of the original, or from some fault in her description, or from some
+abstraction of his thoughts as he walked to and fro, pondering, could
+not recognise the portrait she presented to him.
+
+However, it was agreed between them that he should see the original
+when he next appeared. This concluded, the sister applied herself, with
+a less anxious breast, to her domestic occupations; and the grey-haired
+man, late Junior of Dombey’s, devoted the first day of his unwonted
+liberty to working in the [[Garden|garden]].
+
+It was quite late at [[Night|night]], and the brother was reading aloud while the
+sister plied her needle, when they were interrupted by a knocking at
+the door. In the atmosphere of vague anxiety and dread that lowered
+about them in connexion with their fugitive brother, this sound,
+unusual there, became almost alarming. The brother going to the door,
+the sister sat and listened timidly. Someone spoke to him, and he
+replied and seemed surprised; and after a few words, the two approached
+together.
+
+“Harriet,” said her brother, lighting in their late visitor, and
+speaking in a low voice, “Mr Morfin—the gentleman so long in Dombey’s
+[[house|House]] with James.”
+
+His sister started back, as if a [[Ghost|ghost]] had entered. In the doorway
+stood the unknown friend, with the dark hair sprinkled with grey, the
+ruddy face, the broad clear brow, and hazel eyes, whose secret she had
+kept so long!
+
+“John!” she said, half-breathless. “It is the gentleman I told you of,
+today!”
+
+“The gentleman, Miss Harriet,” said the visitor, coming in—for he had
+stopped a moment in the doorway—“is greatly relieved to hear you say
+that: he has been devising ways and means, all the way here, of
+explaining himself, and has been satisfied with none. Mr John, I am not
+quite a stranger here. You were stricken with astonishment when you saw
+me at your door just now. I observe you are more astonished at present.
+[[Well]]! That’s reasonable enough under existing circumstances. If we were
+not such creatures of habit as we are, we shouldn’t have reason to be
+astonished half so often.”
+
+By this [[Time|time]], he had greeted Harriet with that able mingling of
+cordiality and respect which she recollected so [[Well|well]], and had sat down
+near her, pulled off his gloves, and thrown them into his hat upon the
+table.
+
+“There’s nothing astonishing,” he said, “in my having conceived a
+[[Desire|desire]] to see your sister, Mr John, or in my having gratified it in my
+own way. As to the regularity of my visits since (which she may have
+mentioned to you), there is nothing extraordinary in that. They soon
+grew into a habit; and we are creatures of habit—creatures of habit!”
+
+Putting his hands into his pockets, and leaning back in his chair, he
+looked at the brother and sister as if it were interesting to him to
+see them together; and went on to say, with a kind of irritable
+thoughtfulness: “It’s this same habit that confirms some of us, who are
+capable of better things, in [[Lucifer]]’s own [[Pride|pride]] and stubbornness—that
+confirms and deepens others of us in villainy—more of us in
+indifference —that hardens us from day to day, according to the temper
+of our clay, like images, and [[Leaves|leaves]] us as susceptible as images to new
+impressions and convictions. You shall judge of its influence on me,
+John. For more years than I need name, I had my small, and exactly
+defined share, in the management of Dombey’s [[house|House]], and saw your
+brother (who has proved himself a scoundrel! Your sister will forgive
+my being obliged to mention it) extending and extending his influence,
+until the business and its owner were his football; and saw you toiling
+at your obscure desk every day; and was quite content to be as little
+troubled as I might be, out of my own strip of duty, and to let
+everything about me go on, day by day, unquestioned, like a great
+[[Machine|machine]]—that was its habit and mine—and to take it all for granted, and
+consider it all right. My Wednesday nights came regularly round, our
+quartette parties came regularly off, my violoncello was in good tune,
+and there was nothing wrong in my world—or if anything not much—or
+little or much, it was no affair of mine.”
+
+“I can answer for your being more respected and beloved during all that
+[[Time|time]] than anybody in the [[house|House]], Sir,” said John Carker.
+
+“Pooh! Good-natured and easy enough, I daresay,” returned the other, “a
+habit I had. It suited the Manager; it suited the man he managed: it
+suited me best of all. I did what was allotted to me to do, made no
+[[Court|court]] to either of them, and was glad to occupy a station in which none
+was required. So I should have gone on till now, but that my room had a
+thin wall. You can tell your sister that it was divided from the
+Manager’s room by a wainscot partition.”
+
+“They were adjoining rooms; had been one, Perhaps, originally; and were
+separated, as Mr Morfin says,” said her brother, looking back to him
+for the resumption of his explanation.
+
+“I have whistled, hummed tunes, gone accurately through the whole of
+Beethoven’s Sonata in B, to let him know that I was within hearing,”
+said Mr Morfin; “but he never heeded me. It happened seldom enough that
+I was within hearing of anything of a private [[Nature|nature]], certainly. But
+when I was, and couldn’t otherwise avoid knowing something of it, I
+walked out. I walked out once, John, during a conversation between two
+brothers, to which, in the beginning, young [[Walter Gay]] was a party. But
+I overheard some of it before I left the room. You remember it
+sufficiently, perhaps, to tell your sister what its [[Nature|nature]] was?”
+
+“It referred, Harriet,” said her brother in a low voice, “to the past,
+and to our relative positions in the [[house|House]].”
+
+“Its matter was not new to me, but was presented in a new aspect. It
+shook me in my habit—the habit of nine-tenths of the world—of believing
+that all was right about me, because I was used to it,” said their
+visitor; “and induced me to recall the [[history]] of the two brothers, and
+to ponder on it. I think it was almost the first [[Time|time]] in my life when I
+fell into this train of reflection—how will many things that are
+familiar, and quite matters of course to us now, look, when we come to
+see them from that new and distant point of view which we must all take
+up, one day or other? I was something less good-natured, as the phrase
+goes, after that morning, less easy and complacent altogether.”
+
+He sat for a minute or so, drumming with one hand on the table; and
+resumed in a hurry, as if he were anxious to get rid of his confession.
+
+“Before I knew what to do, or whether I could do anything, there was a
+second conversation between the same two brothers, in which their
+sister was mentioned. I had no scruples of [[Conscience|conscience]] in [[Suffering|suffering]] all
+the waifs and strays of that conversation to float to me as freely as
+they would. I considered them mine by right. After that, I came here to
+see the sister for myself. The first [[Time|time]] I stopped at the [[Garden|garden]] gate,
+I made a pretext of inquiring into the character of a poor neighbour;
+but I wandered out of that tract, and I think Miss Harriet mistrusted
+me. The second [[Time|time]] I asked leave to come in; came in; and said what I
+wished to say. Your sister showed me reasons which I dared not dispute,
+for receiving no assistance from me then; but I established a means of
+communication between us, which remained unbroken until within these
+few days, when I was prevented, by important matters that have lately
+devolved upon me, from maintaining them.”
+
+“How little I have suspected this,” said John Carker, “when I have seen
+you every day, Sir! If Harriet could have guessed your name—”
+
+“Why, to tell you the [[Truth|truth]], John,” interposed the visitor, “I kept it
+to myself for two reasons. I don’t know that the first might have been
+binding [[Alone|alone]]; but one has no business to take credit for good
+intentions, and I made up my mind, at all events, not to disclose
+myself until I should be able to do you some real service or other. My
+second reason was, that I always hoped there might be some lingering
+possibility of your brother’s relenting towards you both; and in that
+case, I felt that where there was the chance of a man of his
+suspicious, watchful character, discovering that you had been secretly
+befriended by me, there was the chance of a new and fatal cause of
+division. I resolved, to be sure, at the risk of turning his
+displeasure against myself—which would have been no matter—to watch my
+opportunity of serving you with the head of the [[house|House]]; but the
+distractions of [[Death|death]], courtship, [[Marriage|marriage]], and domestic unhappiness,
+have left us no head but your brother for this long, long [[Time|time]]. And it
+would have been better for us,” said the visitor, dropping his voice,
+“to have been a lifeless trunk.”
+
+He seemed conscious that these latter words had escaped him against his
+will, and stretching out a hand to the brother, and a hand to the
+sister, continued:
+
+“All I could [[Desire|desire]] to say, and more, I have now said. All I mean goes
+beyond words, as I [[Hope|hope]] you understand and believe. The [[Time|time]] has come,
+John—though most unfortunately and unhappily come—when I may help you
+without interfering with that redeeming struggle, which has lasted
+through so many years; since you were discharged from it today by no
+act of your own. It is late; I need say no more tonight. You will
+guard the treasure you have here, without advice or reminder from me.”
+
+With these words he [[Rose|rose]] to go.
+
+“But go you first, John,” he said goodhumouredly, “with a light,
+without saying what you want to say, whatever that may be;” John
+Carker’s heart was full, and he would have relieved it in speech, if he
+could; “and let me have a word with your sister. We have talked [[Alone|alone]]
+before, and in this room too; though it looks more natural with you
+here.”
+
+Following him out with his eyes, he turned kindly to Harriet, and said
+in a lower voice, and with an altered and graver manner:
+
+“You wish to ask me something of the man whose sister it is your
+misfortune to be.”
+
+“I dread to ask,” said Harriet.
+
+“You have looked so earnestly at me more than once,” rejoined the
+visitor, “that I think I can divine your question. Has he taken money?
+Is it that?”
+
+“Yes.”
+
+“He has not.”
+
+“I thank Heaven!” said Harriet. “For the sake of John.”
+
+“That he has abused his trust in many ways,” said Mr Morfin; “that he
+has oftener dealt and speculated to advantage for himself, than for the
+[[house|House]] he represented; that he has led the [[house|House]] on, to prodigious
+ventures, often resulting in enormous losses; that he has always
+pampered the [[Vanity|vanity]] and [[Ambition|ambition]] of his employer, when it was his duty
+to have held them in check, and shown, as it was in his power to do, to
+what they tended here or there; will not, perhaps, surprise you now.
+Undertakings have been entered on, to swell the reputation of the [[house|House]]
+for vast resources, and to exhibit it in magnificent contrast to other
+merchants’ Houses, of which it requires a steady head to contemplate
+the possibly—a few disastrous changes of affairs might render them the
+probably—ruinous consequences. In the midst of the many transactions of
+the [[house|House]], in most parts of the world: a great labyrinth of which only
+he has held the clue: he has had the opportunity, and he seems to have
+used it, of keeping the various results afloat, when ascertained, and
+substituting estimates and generalities for facts. But latterly—you
+follow me, Miss Harriet?”
+
+“Perfectly, perfectly,” she answered, with her frightened face fixed on
+his. “Pray tell me all the worst at once.”
+
+“Latterly, he appears to have devoted the greatest pains to making
+these results so plain and clear, that reference to the private books
+enables one to grasp them, numerous and varying as they are, with
+extraordinary ease. As if he had resolved to show his employer at one
+broad view what has been brought upon him by ministration to his ruling
+passion! That it has been his constant practice to minister to that
+passion basely, and to flatter it corruptly, is indubitable. In that,
+his criminality, as it is connected with the affairs of the [[house|House]],
+chiefly consists.”
+
+“One other word before you leave me, dear Sir,” said Harriet. “There is
+no danger in all this?”
+
+“How danger?” he returned, with a little hesitation.
+
+“To the credit of the [[house|House]]?”
+
+“I cannot help answering you plainly, and trusting you completely,”
+said Mr Morfin, after a moment’s survey of her face.
+
+“You may. Indeed you may!”
+
+“I am sure I may. Danger to the [[house|House]]’s credit? No; none There may be
+difficulty, greater or less difficulty, but no danger, unless—unless,
+indeed—the head of the [[house|House]], unable to bring his mind to the reduction
+of its enterprises, and positively refusing to believe that it is, or
+can be, in any position but the position in which he has always
+represented it to himself, should urge it beyond its strength. Then it
+would totter.”
+
+“But there is no apprehension of that?” said Harriet.
+
+“There shall be no half-confidence,” he replied, shaking her hand,
+“between us. Mr Dombey is unapproachable by anyone, and his state of
+mind is haughty, rash, unreasonable, and ungovernable, now. But he is
+disturbed and agitated now beyond all common bounds, and it may pass.
+You now know all, both worst and best. No more tonight, and
+good-[[Night|night]]!”
+
+With that he kissed her hand, and, passing out to the door where her
+brother stood awaiting his coming, put him cheerfully aside when he
+essayed to speak; told him that, as they would see each other soon and
+often, he might speak at another [[Time|time]], if he would, but there was no
+leisure for it then; and went away at a round pace, in order that no
+word of gratitude might follow him.
+
+The brother and sister sat conversing by the fireside, until it was
+almost day; made sleepless by this glimpse of the new world that opened
+before them, and feeling like two people shipwrecked long ago, upon a
+solitary coast, to whom a [[Ship|ship]] had come at last, when they were old in
+[[Resignation|resignation]], and had lost all thought of any other [[Home|home]]. But another
+and different kind of disquietude kept them waking too. The darkness
+out of which this light had broken on them gathered around; and the
+[[Shadow|shadow]] of their guilty brother was in the [[house]] where his foot had
+never trod.
+
+Nor was it to be driven out, nor did it fade before the sun. Next
+morning it was there; at [[Noon|noon]]; at [[Night|night]] Darkest and most distinct at
+[[Night|night]], as is now to be told.
+
+John Carker had gone out, in pursuance of a letter of appointment from
+their friend, and Harriet was left in the [[house]] [[Alone|alone]]. She had been
+[[Alone|alone]] some hours. A dull, [[Grave|grave]] evening, and a deepening twilight, were
+not favourable to the removal of the oppression on her spirits. The
+idea of this brother, long unseen and unknown, flitted about her in
+frightful shapes. He was dead, dying, calling to her, staring at her,
+frowning on her. The pictures in her mind were so obtrusive and exact
+that, as the twilight deepened, she dreaded to raise her head and look
+at the dark corners of the room, lest his wraith, the offspring of her
+excited [[Imagination|imagination]], should be waiting there, to startle her. Once she
+had such a fancy of his being in the next room, hiding—though she knew
+quite [[Well|well]] what a distempered fancy it was, and had no belief in
+it—that she forced herself to go there, for her own conviction. But in
+vain. The room resumed its shadowy terrors, the moment she left it; and
+she had no more power to divest herself of these vague impressions of
+dread, than if they had been stone giants, rooted in the solid earth.
+
+It was almost dark, and she was sitting near the [[Window|window]], with her head
+upon her hand, looking down, when, sensible of a sudden increase in the
+gloom of the apartment, she raised her eyes, and uttered an involuntary
+cry. Close to the glass, a pale scared face gazed in; vacantly, for an
+instant, as searching for an object; then the eyes rested on herself,
+and lighted up.
+
+“Let me in! Let me in! I want to speak to you!” and the hand rattled on
+the glass.
+
+She recognised immediately the woman with the long dark hair, to whom
+she had given warmth, food, and shelter, one wet [[Night|night]]. Naturally
+afraid of her, remembering her violent behaviour, Harriet, retreating a
+little from the [[Window|window]], stood undecided and alarmed.
+
+“Let me in! Let me speak to you! I am thankful—quiet—humble—anything
+you like. But let me speak to you.”
+
+The vehement manner of the entreaty, the earnest expression of the
+face, the trembling of the two hands that were raised imploringly, a
+certain dread and terror in the voice akin to her own condition at the
+moment, prevailed with Harriet. She hastened to the door and opened it.
+
+“May I come in, or shall I speak here?” said the woman, catching at her
+hand.
+
+“What is it that you want? What is it that you have to say?”
+
+“Not much, but let me say it out, or I shall never say it. I am tempted
+now to go away. There seem to be hands dragging me from the door. Let
+me come in, if you can trust me for this once!”
+
+Her energy again prevailed, and they passed into the firelight of the
+little kitchen, where she had before sat, and ate, and dried her
+clothes.
+
+“Sit there,” said Alice, kneeling down beside her, “and look at me. You
+remember me?”
+
+“I do.”
+
+“You remember what I told you I had been, and where I came from, ragged
+and lame, with the fierce [[Wind|wind]] and weather beating on my head?”
+
+“Yes.”
+
+“You know how I came back that [[Night|night]], and threw your money in the dirt,
+and you and your race. Now, see me here, upon my knees. Am I less
+earnest now, than I was then?”
+
+“If what you ask,” said Harriet, gently, “is [[Forgiveness|forgiveness]]—”
+
+“But it’s not!” returned the other, with a proud, fierce look “What I
+ask is to be believed. Now you shall judge if I am worthy of belief,
+both as I was, and as I am.”
+
+Still upon her knees, and with her eyes upon the [[Fire|fire]], and the [[Fire|fire]]
+shining on her ruined [[Beauty|beauty]] and her wild black hair, one long tress of
+which she pulled over her shoulder, and wound about her hand, and
+thoughtfully bit and tore while speaking, she went on:
+
+“When I was young and pretty, and this,” plucking contemptuously at the
+hair she held, “was only handled delicately, and couldn’t be admired
+enough, my mother, who had not been very mindful of me as a [[Child|child]],
+found out my merits, and was fond of me, and proud of me. She was
+covetous and poor, and thought to make a sort of property of me. No
+great lady ever thought that of a daughter yet, I’m sure, or acted as
+if she did—it’s never done, we all know—and that shows that the only
+instances of mothers bringing up their daughters wrong, and evil coming
+of it, are among such miserable folks as us.”
+
+Looking at the [[Fire|fire]], as if she were forgetful, for the moment, of
+having any auditor, she continued in a dreamy way, as she wound the
+long tress of hair tight round and round her hand.
+
+“What came of that, I needn’t say. Wretched marriages don’t come of
+such things, in our degree; only wretchedness and ruin. Wretchedness
+and ruin came on me—came on me.”
+
+Raising her eyes swiftly from their moody gaze upon the [[Fire|fire]], to
+Harriet’s face, she said:
+
+“I am wasting [[Time|time]], and there is none to spare; yet if I hadn’t thought
+of all, I shouldn’t be here now. Wretchedness and ruin came on me, I
+say. I was made a short-lived toy, and flung aside more cruelly and
+carelessly than even such things are. By whose hand do you think?”
+
+“Why do you ask me?” said Harriet.
+
+“Why do you tremble?” rejoined Alice, with an eager look. “His usage
+made a Devil of me. I sunk in wretchedness and ruin, lower and lower
+yet. I was concerned in a robbery—in every part of it but the gains—and
+was found out, and sent to be tried, without a friend, without a penny.
+Though I was but a girl, I would have gone to [[Death]], sooner than ask
+him for a word, if a word of his could have saved me. I would! To any
+[[Death|death]] that could have been invented. But my mother, covetous always,
+sent to him in my name, told the true story of my case, and humbly
+prayed and petitioned for a small last gift—for not so many pounds as I
+have fingers on this hand. Who was it, do you think, who snapped his
+fingers at me in my misery, lying, as he believed, at his feet, and
+left me without even this poor sign of remembrance; [[Well|well]] satisfied that
+I should be sent abroad, beyond the reach of farther trouble to him,
+and should die, and rot there? Who was this, do you think?”
+
+“Why do you ask me?” repeated Harriet.
+
+“Why do you tremble?” said Alice, laying her hand upon her arm, and
+looking in her face, “but that the answer is on your lips! It was your
+brother James.”
+
+Harriet trembled more and more, but did not avert her eyes from the
+eager look that rested on them.
+
+“When I knew you were his sister—which was on that [[Night|night]]—I came back,
+weary and lame, to spurn your gift. I felt that [[Night|night]] as if I could
+have travelled, weary and lame, over the whole world, to stab him, if I
+could have found him in a lonely place with no one near. Do you believe
+that I was earnest in all that?”
+
+“I do! Good Heaven, why are you come again?”
+
+“Since then,” said Alice, with the same grasp of her arm, and the same
+look in her face, “I have seen him! I have followed him with my eyes.
+In the broad day. If any spark of my resentment slumbered in my bosom,
+it sprung into a blaze when my eyes rested on him. You know he has
+wronged a proud man, and made him his deadly enemy. What if I had given
+information of him to that man?”
+
+“Information!” repeated Harriet.
+
+“What if I had found out one who knew your brother’s secret; who knew
+the manner of his flight, who knew where he and the companion of his
+flight were gone? What if I had made him utter all his knowledge, word
+by word, before his enemy, concealed to hear it? What if I had sat by
+at the [[Time|time]], looking into this enemy’s face, and seeing it change till
+it was scarcely human? What if I had seen him rush away, mad, in
+pursuit? What if I knew, now, that he was on his [[Road|road]], more fiend than
+man, and must, in so many hours, come up with him?”
+
+“Remove your hand!” said Harriet, recoiling. “Go away! Your touch is
+dreadful to me!”
+
+“I have done this,” pursued the other, with her eager look, regardless
+of the interruption. “Do I speak and look as if I really had? Do you
+believe what I am saying?”
+
+“I [[Fear|fear]] I must. Let my arm go!”
+
+“Not yet. A moment more. You can think what my revengeful purpose must
+have been, to last so long, and urge me to do this?”
+
+“Dreadful!” said Harriet.
+
+“Then when you see me now,” said Alice hoarsely, “here again, kneeling
+quietly on the ground, with my touch upon your arm, with my eyes upon
+your face, you may believe that there is no common earnestness in what
+I say, and that no common struggle has been battling in my breast. I am
+ashamed to speak the words, but I relent. I despise myself; I have
+fought with myself all day, and all last [[Night|night]]; but I relent towards
+him without reason, and wish to repair what I have done, if it is
+possible. I wouldn’t have them come together while his pursuer is so
+blind and headlong. If you had seen him as he went out last [[Night|night]], you
+would know the danger better.”
+
+“How can it be prevented? What can I do?” cried Harriet.
+
+“All [[Night|night]] long,” pursued the other, hurriedly, “I had [[Dreams|dreams]] of
+him—and yet I didn’t [[Sleep|sleep]]—in his [[Blood|blood]]. All day, I have had him near
+me.”
+
+“What can I do?” cried Harriet, shuddering at these words.
+
+“If there is anyone who’ll write, or send, or go to him, let them lose
+no [[Time|time]]. He is at Dijon. Do you know the name, and where it is?”
+
+“Yes.”
+
+“Warn him that the man he has made his enemy is in a frenzy, and that
+he doesn’t know him if he makes light of his approach. Tell him that he
+is on the [[Road|road]]—I know he is!—and hurrying on. Urge him to get away
+while there is [[Time|time]]—if there is [[Time|time]]—and not to meet him yet. A month
+or so will make years of difference. Let them not encounter, through
+me. Anywhere but there! Any [[Time|time]] but now! Let his foe follow him, and
+find him for himself, but not through me! There is enough upon my head
+without.”
+
+The [[Fire|fire]] ceased to be reflected in her jet black hair, uplifted face,
+and eager eyes; her hand was gone from Harriet’s arm; and the place
+where she had been was empty.

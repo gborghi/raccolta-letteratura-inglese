@@ -1,5 +1,5 @@
 ---
-title: "[[Mellonta Tauta]] (part 5)"
+title: "Mellonta Tauta (part 5)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/mellonta-tauta-(poe)"
@@ -13,6 +13,26 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/mellonta_tauta/part/part_04">‹ part 04</a><a class="ex-next" href="/testi/poe/atomized/mellonta_tauta/part/part_06">part 06 ›</a></div>
 </nav>
 
+
+      and taught mankind a lesson which to this day it is in no danger
+
+      of forgetting—never to run directly contrary to the natural
+
+      analogies. As for Republicanism, no analogy could be found for it
+
+      upon the face of the earth—unless we except the case of the
+
+      “prairie [[dogs]],” an exception which seems to demonstrate, if
+
+      anything, that [[democracy]] is a very admirable form of
+
+      [[government]]—for [[dogs]].
+
+
+
+      April 6.—Last [[Night|night]] had a fine view of Alpha Lyrae, whose disk,
+
+      through our captain’s spy-glass, subtends an angle of half a
 
       degree, looking very much as our sun does to the naked eye on a
 
@@ -173,23 +193,3 @@ tags:
       ground for a new fountain at Paradise, the Emperor’s principal
 
       pleasure [[Garden|garden]]. Paradise, it appears, has been, literally
-
-      speaking, an island [[Time|time]] out of mind—that is to say, its northern
-
-      boundary was always (as far back as any record extends) a
-
-      rivulet, or rather a very narrow arm of the sea. This arm was
-
-      gradually widened until it attained its present breadth—a mile.
-
-      The whole length of the island is nine miles; the breadth varies
-
-      materially. The entire area (so Pundit says) was, about eight
-
-      hundred years ago, densely packed with houses, some of them
-
-      twenty stories high; land (for some most unaccountable reason)
-
-      being considered as especially precious just in this vicinity.
-
-      The disastrous earthquake, however, of the year 2050, so totally

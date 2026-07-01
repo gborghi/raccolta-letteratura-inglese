@@ -1,5 +1,5 @@
 ---
-title: "[[The Devil in the Belfry]] (part 4)"
+title: "The Devil in the Belfry (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-devil-in-the-belfry-(poe)"
@@ -13,6 +13,34 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_devil_in_the_belfry/part/part_03">‹ part 03</a><span></span></div>
 </nav>
 
+
+      dropping their pipes, and putting down all their right legs from
+
+      over their left knees.
+
+
+
+      “Der Teufel!” groaned they, “Dirteen! Dirteen!!—Mein Gott, it is
+
+      Dirteen o’[[Clock|clock]]!!”
+
+
+
+      Why attempt to describe the terrible scene which ensued? All
+
+      Vondervotteimittiss flew at once into a lamentable state of
+
+      uproar.
+
+
+
+      “Vot is cum’d to mein pelly?” roared all the boys—“I’ve been
+
+      ongry for dis hour!”
+
+
+
+      “Vot is com’d to mein kraut?” screamed all the vrows, “It has
 
       been done to rags for this hour!”
 

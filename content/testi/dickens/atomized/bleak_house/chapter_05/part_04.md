@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 5 (part 4)"
+title: "Bleak House — Chapter 5 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_05/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_05/part_05">part 05 ›</a></div>
 </nav>
 
+
+The old man stopped, looked hard at us, looked down into the lantern,
+blew the light out, and shut the lantern up.
+
+“We were right, I needn’t tell the present hearers. Hi! To be sure,
+how the neighbourhood poured into [[Court|court]] that afternoon while the
+cause was on! How my noble and learned brother, and all the rest of
+’em, grubbed and muddled away as usual and tried to look as if they
+hadn’t heard a word of the last fact in the case or as if they
+had—Oh, dear me!—nothing at all to do with it if they had heard of
+it by any chance!”
 
 Ada’s colour had entirely left her, and [[Richard]] was scarcely less
 pale. Nor could I [[Wonder|wonder]], judging even from my emotions, and I was no
@@ -113,15 +124,3 @@ took up her little bag of documents, which she had laid upon the
 table on coming in, and asked if we were also going into [[Court|court]]. On
 our answering no, and that we would on no account detain her, she
 opened the door to attend us downstairs.
-
-“With such an omen, it is even more necessary than usual that I
-should be there before the Chancellor comes in,” said she, “for he
-might mention my case the first thing. I have a presentiment that he
-WILL mention it the first thing this morning.”
-
-She stopped to tell us in a whisper as we were going down that the
-whole [[house]] was filled with strange lumber which her landlord had
-bought piecemeal and had no wish to sell, in consequence of being a
-little M. This was on the first floor. But she had made a previous
-stoppage on the second floor and had silently pointed at a dark door
-there.

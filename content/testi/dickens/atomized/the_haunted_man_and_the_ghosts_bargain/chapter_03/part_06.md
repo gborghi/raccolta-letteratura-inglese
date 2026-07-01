@@ -1,5 +1,5 @@
 ---
-title: "The Haunted Man and the [[Ghost]]'s Bargain — Chapter 3 (part 6)"
+title: "The Haunted Man and the Ghost's Bargain — Chapter 3 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-haunted-man-and-the-ghost's-bargain-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_03/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_03/part_07">part 07 ›</a></div>
 </nav>
 
+
+“This morning! Where is she now?”
+
+“Why, she is now,” said Milly, advancing her lips to his ear, “in my
+little parlour in the Lodge, and waiting to see you.”
+
+He pressed her hand, and was darting off, but she detained him.
 
 “Mr. Redlaw is much altered, and has told me this morning that his [[Memory|memory]]
 is impaired. Be very considerate to him, Mr. [[Edmund]]; he needs that from
@@ -121,20 +128,3 @@ The Chemist answered yes.
 “Yes,” said the old man. “She was a dear creetur.—I recollect you come
 here one Christmas morning with a young lady—I ask your pardon, Mr.
 Redlaw, but I think it was a sister you was very much attached to?”
-
-The Chemist looked at him, and shook his head. “I had a sister,” he said
-vacantly. He knew no more.
-
-“One Christmas morning,” pursued the old man, “that you come here with
-her—and it began to [[Snow|snow]], and my wife invited the lady to walk in, and
-sit by the [[Fire|fire]] that is always a burning on Christmas Day in what used to
-be, before our ten poor gentlemen commuted, our great Dinner Hall. I was
-there; and I recollect, as I was stirring up the blaze for the young lady
-to warm her pretty feet by, she read the scroll out loud, that is
-underneath that pictur, ‘Lord, keep my [[Memory|memory]] green!’ She and my poor
-wife fell a talking about it; and it’s a strange thing to think of, now,
-that they both said (both being so unlike to die) that it was a good
-[[prayer]], and that it was one they would put up very earnestly, if they
-were called away young, with reference to those who were dearest to them.
-‘My brother,’ says the young lady—‘My husband,’ says my poor wife.—‘Lord,
-keep his [[Memory|memory]] of me, green, and do not let me be forgotten!’”

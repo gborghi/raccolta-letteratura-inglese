@@ -1,5 +1,5 @@
 ---
-title: "[[Othello]] — Act IV, Scene 2 — exchange ([[Desdemona|DESDEMONA]]) [3]"
+title: "Othello — Act IV, Scene 2 — exchange (DESDEMONA) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/othello-(shakespeare)"

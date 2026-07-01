@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 11 (part 3)"
+title: "Dombey and Son — Chapter 39 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,105 +14,122 @@ tags:
 </nav>
 
 
-Whenever a young gentleman was taken in hand by Doctor Blimber, he
-might consider himself sure of a pretty tight squeeze. The Doctor only
-undertook the charge of ten young gentlemen, but he had, always ready,
-a supply of learning for a hundred, on the lowest estimate; and it was
-at once the business and delight of his life to gorge the unhappy ten
-with it.
+“No, my lad,” replied the Captain.
 
-In fact, Doctor Blimber’s establishment was a great hot-[[house]], in which
-there was a forcing apparatus incessantly at work. All the boys blew
-before their [[Time|time]]. Mental green-peas were produced at Christmas, and
-intellectual [[asparagus]] all the year round. Mathematical gooseberries
-(very sour ones too) were common at untimely [[Seasons|seasons]], and from mere
-sprouts of bushes, under Doctor Blimber’s cultivation. Every
-description of Greek and Latin vegetable was got off the driest twigs
-of boys, under the frostiest circumstances. [[Nature]] was of no
-consequence at all. No matter what a young gentleman was intended to
-bear, Doctor Blimber made him bear to pattern, somehow or other.
+“Because I was wishing to dispose of mine, Captain,” said Rob.
 
-This was all very pleasant and ingenious, but the system of forcing was
-attended with its usual disadvantages. There was not the right taste
-about the premature productions, and they didn’t keep [[Well|well]]. Moreover,
-one young gentleman, with a swollen nose and an excessively large head
-(the oldest of the ten who had “gone through” everything), suddenly
-left off blowing one day, and remained in the establishment a mere
-stalk. And people did say that the Doctor had rather overdone it with
-young Toots, and that when he began to have whiskers he left off having
-brains.
+“Ay, ay?” cried the Captain, lifting up his bushy eyebrows a little.
 
-There young Toots was, at any rate; possessed of the gruffest of voices
-and the shrillest of minds; sticking ornamental pins into his shirt,
-and keeping a ring in his waistcoat pocket to put on his little finger
-by stealth, when the pupils went out walking; constantly falling in
-[[Love|love]] by sight with nurserymaids, who had no idea of his existence; and
-looking at the gas-lighted world over the little iron bars in the
-left-hand corner [[Window|window]] of the front three pairs of stairs, after
-bed-[[Time|time]], like a greatly overgrown cherub who had sat up aloft much too
-long.
+“Yes; I’m going, Captain, if you please,” said Rob.
 
-The Doctor was a portly gentleman in a suit of black, with strings at
-his knees, and stockings below them. He had a bald head, highly
-polished; a deep voice; and a chin so very [[Double|double]], that it was a [[Wonder|wonder]]
-how he ever managed to shave into the creases. He had likewise a pair
-of little eyes that were always half shut up, and a mouth that was
-always half expanded into a grin, as if he had, that moment, posed a
-boy, and were waiting to convict him from his own lips. Insomuch, that
-when the Doctor put his right hand into the breast of his coat, and
-with his other hand behind him, and a scarcely perceptible wag of his
-head, made the commonest observation to a nervous stranger, it was like
-a sentiment from the sphynx, and settled his business.
+“Going? Where are you going?” asked the Captain, looking round at him
+over the glasses.
 
-The Doctor’s was a mighty fine [[house]], fronting the sea. Not a joyful
-style of [[house]] within, but quite the contrary. Sad-coloured curtains,
-whose proportions were spare and lean, hid themselves despondently
-behind the windows. The tables and chairs were put away in rows, like
-figures in a sum; fires were so rarely lighted in the rooms of
-ceremony, that they felt like wells, and a visitor represented the
-bucket; the dining-room seemed the last place in the world where any
-eating or drinking was likely to occur; there was no sound through all
-the [[house]] but the ticking of a great [[Clock|clock]] in the hall, which made
-itself audible in the very garrets; and sometimes a dull cooing of
-young gentlemen at their lessons, like the murmurings of an assemblage
-of [[Melancholy|melancholy]] pigeons.
+“What? didn’t you know that I was going to leave you, Captain?” asked
+Rob, with a sneaking smile.
 
-Miss Blimber, too, although a slim and graceful maid, did no soft
-violence to the gravity of the [[house]]. There was no light nonsense about
-Miss Blimber. She kept her hair short and crisp, and wore spectacles.
-She was dry and sandy with working in the graves of deceased languages.
-None of your live languages for Miss Blimber. They must be dead—stone
-dead—and then Miss Blimber dug them up like a Ghoul.
+The Captain put down the paper, took off his spectacles, and brought
+his eyes to bear on the deserter.
 
-Mrs Blimber, her Mama, was not learned herself, but she pretended to
-be, and that did quite as [[Well|well]]. She said at evening parties, that if
-she could have known Cicero, she thought she could have died contented.
-It was the steady joy of her life to see the Doctor’s young gentlemen
-go out walking, unlike all other young gentlemen, in the largest
-possible shirt-collars, and the stiffest possible cravats. It was so
-classical, she said.
+“Oh yes, Captain, I am going to give you warning. I thought you’d have
+known that beforehand, perhaps,” said Rob, rubbing his hands, and
+getting up. “If you could be so good as provide yourself soon, Captain,
+it would be a great convenience to me. You couldn’t provide yourself by
+to-morrow morning, I am afraid, Captain: could you, do you think?”
 
-As to Mr Feeder, B.A., Doctor Blimber’s assistant, he was a kind of
-human barrel-organ, with a little list of tunes at which he was
-continually working, over and over again, without any variation. He
-might have been fitted up with a change of barrels, perhaps, in early
-life, if his destiny had been favourable; but it had not been; and he
-had only one, with which, in a monotonous round, it was his occupation
-to bewilder the young ideas of Doctor Blimber’s young gentlemen. The
-young gentlemen were prematurely full of carking anxieties. They knew
-no rest from the pursuit of stony-hearted verbs, savage
-noun-substantives, inflexible syntactic passages, and [[Ghosts|ghosts]] of
-exercises that appeared to them in their [[Dreams|dreams]]. Under the forcing
-system, a young gentleman usually took leave of his spirits in three
-weeks. He had all the cares of the world on his head in three months.
-He conceived bitter sentiments against his parents or guardians in
-four; he was an old misanthrope, in five; envied Curtius that blessed
-refuge in the earth, in six; and at the end of the first twelvemonth
-had arrived at the conclusion, from which he never afterwards departed,
-that all the fancies of the poets, and lessons of the sages, were a
-mere collection of words and grammar, and had no other meaning in the
-world.
+“And you’re a going to [[Desert|desert]] your colours, are you, my lad?” said the
+Captain, after a long examination of his face.
 
-But he went on blow, blow, blowing, in the Doctor’s hothouse, all the
-[[Time|time]]; and the Doctor’s glory and reputation were great, when he took
-his wintry growth [[Home|home]] to his relations and friends.
+“Oh, it’s very hard upon a cove, Captain,” cried the tender Rob,
+injured and indignant in a moment, “that he can’t give lawful warning,
+without being frowned at in that way, and called a deserter. You
+haven’t any right to call a poor cove names, Captain. It ain’t because
+I’m a servant and you’re a master, that you’re to go and libel me. What
+wrong have I done? Come, Captain, let me know what my crime is, will
+you?”
+
+The stricken Grinder wept, and put his coat-cuff in his eye.
+
+“Come, Captain,” cried the injured youth, “give my crime a name! What
+have I been and done? Have I stolen any of the property? have I set the
+[[house]] a-[[Fire|fire]]? If I have, why don’t you give me in charge, and try it?
+But to take away the character of a lad that’s been a good servant to
+you, because he can’t afford to stand in his own light for your good,
+what a injury it is, and what a bad return for faithful service! This
+is the way young coves is spiled and drove wrong. I [[Wonder|wonder]] at you,
+Captain, I do.”
+
+All of which the Grinder howled forth in a lachrymose whine, and
+backing carefully towards the door.
+
+“And so you’ve got another berth, have you, my lad?” said the Captain,
+eyeing him intently.
+
+“Yes, Captain, since you put it in that shape, I have got another
+berth,” cried Rob, backing more and more; “a better berth than I’ve got
+here, and one where I don’t so much as want your good word, Captain,
+which is fort’nate for me, after all the dirt you’ve throw’d at me,
+because I’m poor, and can’t afford to stand in my own light for your
+good. Yes, I have got another berth; and if it wasn’t for leaving you
+unprovided, Captain, I’d go to it now, sooner than I’d take them names
+from you, because I’m poor, and can’t afford to stand in my own light
+for your good. Why do you reproach me for being poor, and not standing
+in my own light for your good, Captain? How can you so demean
+yourself?”
+
+“Look ye here, my boy,” replied the peaceful Captain. “Don’t you pay
+out no more of them words.”
+
+“[[Well]], then, don’t you pay in no more of your words, Captain,” retorted
+the roused [[Innocent|innocent]], getting louder in his whine, and backing into the
+shop. “I’d sooner you took my [[Blood|blood]] than my character.”
+
+“Because,” pursued the Captain calmly, “you have heerd, may be, of such
+a thing as a rope’s end.”
+
+“Oh, have I though, Captain?” cried the taunting Grinder. “No I
+haven’t. I never heerd of any such a article!”
+
+“[[Well]],” said the Captain, “it’s my belief as you’ll know more about it
+pretty soon, if you don’t keep a bright look-out. I can read your
+signals, my lad. You may go.”
+
+“Oh! I may go at once, may I, Captain?” cried Rob, exulting in his
+[[success]]. “But mind! I never asked to go at once, Captain. You are not
+to take away my character again, because you send me off of your own
+accord. And you’re not to stop any of my wages, Captain!”
+
+His employer settled the last point by producing the tin canister and
+telling the Grinder’s money out in full upon the table. Rob, snivelling
+and sobbing, and grievously wounded in his feelings, took up the pieces
+one by one, with a sob and a snivel for each, and tied them up
+separately in knots in his pockethandkerchief; then he ascended to the
+roof of the [[house]] and filled his hat and pockets with pigeons; then,
+came down to his bed under the counter and made up his bundle,
+snivelling and sobbing louder, as if he were cut to the heart by old
+associations; then he whined, “Good-[[Night|night]], Captain. I leave you without
+malice!” and then, going out upon the door-step, pulled the little
+Midshipman’s nose as a parting indignity, and went away down the street
+grinning triumphantly.
+
+The Captain, left to himself, resumed his perusal of the news as if
+nothing unusual or unexpected had taken place, and went reading on with
+the greatest assiduity. But never a word did [[Captain Cuttle]] understand,
+though he read a vast number, for Rob the Grinder was scampering up one
+column and down another all through the newspaper.
+
+It is doubtful whether the worthy Captain had ever felt himself quite
+abandoned until now; but now, old Sol Gills, Walter, and Heart’s
+Delight were lost to him indeed, and now Mr Carker deceived and jeered
+him cruelly. They were all represented in the false Rob, to whom he had
+held forth many a [[Time|time]] on the recollections that were warm within him;
+he had believed in the false Rob, and had been glad to believe in him;
+he had made a companion of him as the last of the old [[Ship|ship]]’s company;
+he had taken the command of the little Midshipman with him at his right
+hand; he had meant to do his duty by him, and had felt almost as kindly
+towards the boy as if they had been shipwrecked and cast upon a [[Desert|desert]]
+place together. And now, that the false Rob had brought distrust,
+treachery, and meanness into the very parlour, which was a kind of
+sacred place, [[Captain Cuttle]] felt as if the parlour might have gone
+down next, and not surprised him much by its sinking, or given him any
+very great concern.

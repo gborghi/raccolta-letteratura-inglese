@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 23: TWENTY THREE (part 2)"
+title: "Martin Chuzzlewit — Chapter 23: TWENTY THREE (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_23_twenty_three/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_23_twenty_three/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘None at all, sir. Most of ‘em, as you know, have stopped short; and
+the few that are left are going further on. What matters that! More room
+there for us, sir.’
+
+‘Oh, to be sure!’ said Martin. ‘But I was thinking--’ and there he
+paused.
 
 ‘Yes, sir?’ observed Mark.
 
@@ -130,9 +137,3 @@ Martin off again to help bring up the chest. And all the way to the
 landing-place and back, Mark talked incessantly; as if he would infuse
 into his partner’s breast some faint belief that they had arrived under
 the most auspicious and cheerful of all imaginable circumstances.
-
-But many a man who would have stood within a [[Home|home]] dismantled, strong in
-his passion and design of vengeance, has had the firmness of his
-[[Nature|nature]] conquered by the razing of an air-built [[Castle|castle]]. When the log-hut
-received them for the second [[Time|time]], Martin laid down upon the ground, and
-wept aloud.

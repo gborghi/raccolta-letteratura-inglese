@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 4 (part 3)"
+title: "Our Mutual Friend — Chapter 6 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,117 +14,115 @@ tags:
 </nav>
 
 
-‘If I understand this girl, sir, your dangerous fascinations have
-produced some effect upon her. I mention the conquest in good [[Time|time]]
-because I apprehend your scheme to be more important to you than your
-[[Vanity|vanity]].’
+Very remarkably, neither [[Eugene Wrayburn]] nor [[Bradley Headstone]] looked at
+all at the boy. Through the ensuing dialogue, those two, no matter
+who spoke, or whom was addressed, looked at each other. There was some
+secret, sure perception between them, which set them against one another
+in all ways.
 
-There was a [[Mirror|mirror]] on the wall before them, and her eyes just caught
-him smirking in it. She gave the reflected image a look of the deepest
-disdain, and the image received it in the glass. Next moment they
-quietly eyed each other, as if they, the principals, had had no part in
-that expressive transaction.
+‘In some high respects, Mr [[Eugene Wrayburn]],’ said Bradley, answering
+him with pale and quivering lips, ‘the natural feelings of my pupils are
+stronger than my teaching.’
 
-It may have been that Mrs Lammle tried in some manner to excuse her
-conduct to herself by depreciating the poor little victim of whom she
-spoke with acrimonious contempt. It may have been too that in this she
-did not quite succeed, for it is very difficult to resist confidence,
-and she knew she had Georgiana’s.
+‘In most respects, I dare say,’ replied Eugene, enjoying his cigar,
+‘though whether high or low is of no importance. You have my name very
+correctly. Pray what is yours?’
 
-Nothing more was said between the happy pair. Perhaps conspirators
-who have once established an understanding, may not be over-fond of
-repeating the terms and objects of their conspiracy. Next day came; came
-Georgiana; and came Fledgeby.
+‘It cannot concern you much to know, but—’
 
-Georgiana had by this [[Time|time]] seen a good deal of the [[house]] and its
-frequenters. As there was a certain handsome room with a billiard table
-in it—on the ground floor, eating out a backyard—which might have
-been Mr Lammle’s office, or library, but was called by neither name, but
-simply Mr Lammle’s room, so it would have been hard for stronger female
-heads than Georgiana’s to determine whether its frequenters were men
-of pleasure or men of business. Between the room and the men there were
-strong points of general resemblance. Both were too gaudy, too slangey,
-too odorous of cigars, and too much given to horseflesh; the latter
-characteristic being exemplified in the room by its decorations, and in
-the men by their conversation. High-stepping horses seemed necessary to
-all Mr Lammle’s friends—as necessary as their transaction of business
-together in a gipsy way at untimely hours of the morning and evening,
-and in rushes and snatches. There were friends who seemed to be always
-coming and going across the Channel, on errands about the Bourse, and
-Greek and Spanish and India and Mexican and par and premium and discount
-and three quarters and seven eighths. There were other friends who
-seemed to be always lolling and lounging in and out of the [[City]], on
-questions of the Bourse, and Greek and Spanish and India and Mexican and
-par and premium and discount and three quarters and seven eighths. They
-were all feverish, boastful, and indefinably loose; and they all ate and
-drank a great deal; and made bets in eating and drinking. They all spoke
-of sums of money, and only mentioned the sums and left the money to
-be understood; as ‘five and forty thousand Tom,’ or ‘Two hundred and
-twenty-two on every individual share in the lot Joe.’ They seemed to
-divide the world into two classes of people; people who were making
-enormous fortunes, and people who were being enormously ruined. They
-were always in a hurry, and yet seemed to have nothing tangible to do;
-except a few of them (these, mostly asthmatic and thick-lipped) who were
-for ever demonstrating to the rest, with gold pencil-cases which they
-could hardly hold because of the big rings on their forefingers, how
-money was to be made. Lastly, they all swore at their grooms, and the
-grooms were not quite as respectful or complete as other men’s grooms;
-seeming somehow to fall short of the groom point as their masters fell
-short of the gentleman point.
+‘True,’ interposed Eugene, striking sharply and cutting him short at his
+mistake, ‘it does not concern me at all to know. I can say Schoolmaster,
+which is a most respectable title. You are right, Schoolmaster.’
 
-Young Fledgeby was none of these. Young Fledgeby had a peachy cheek,
-or a cheek compounded of the peach and the red red red wall on which
-it grows, and was an awkward, sandy-haired, small-eyed youth, exceeding
-slim (his enemies would have said lanky), and prone to [[Self|self]]-examination
-in the articles of whisker and moustache. While feeling for the whisker
-that he anxiously expected, Fledgeby underwent remarkable fluctuations
-of spirits, ranging along the whole scale from confidence to [[Despair|despair]].
-There were times when he started, as exclaiming ‘By Jupiter here it is
-at last!’ There were other times when, being equally depressed, he would
-be seen to shake his head, and give up [[Hope|hope]]. To see him at those periods
-leaning on a chimneypiece, like as on an urn containing the ashes of his
-[[Ambition|ambition]], with the cheek that would not sprout, upon the hand on which
-that cheek had forced conviction, was a distressing sight.
+It was not the dullest part of this goad in its galling of Bradley
+Headstone, that he had made it himself in a moment of incautious anger.
+He tried to set his lips so as to prevent their quivering, but they
+quivered fast.
 
-Not so was Fledgeby seen on this occasion. Arrayed in superb raiment,
-with his opera hat under his arm, he concluded his [[Self|self]]-examination
-hopefully, awaited the arrival of Miss Podsnap, and talked small-talk
-with Mrs Lammle. In facetious homage to the smallness of his talk, and
-the jerky [[Nature|nature]] of his manners, Fledgeby’s familiars had agreed to
-confer upon him (behind his back) the honorary title of Fascination
-Fledgeby.
+‘Mr [[Eugene Wrayburn]],’ said the boy, ‘I want a word with you. I have
+wanted it so much, that we have looked out your address in the book, and
+we have been to your office, and we have come from your office here.’
 
-‘Warm weather, Mrs Lammle,’ said Fascination Fledgeby. Mrs Lammle
-thought it scarcely as warm as it had been yesterday. ‘Perhaps not,’
-said Fascination Fledgeby, with great quickness of repartee; ‘but I
-expect it will be devilish warm to-morrow.’
+‘You have given yourself much trouble, Schoolmaster,’ observed
+Eugene, blowing the feathery ash from his cigar. ‘I [[Hope|hope]] it may prove
+remunerative.’
 
-He threw off another little scintillation. ‘Been out to-day, Mrs
-Lammle?’
+‘And I am glad to speak,’ pursued the boy, ‘in presence of Mr Lightwood,
+because it was through Mr Lightwood that you ever saw my sister.’
 
-Mrs Lammle answered, for a short drive.
+For a mere moment, Wrayburn turned his eyes aside from the schoolmaster
+to note the effect of the last word on Mortimer, who, standing on the
+opposite side of the [[Fire|fire]], as soon as the word was spoken, turned his
+face towards the [[Fire|fire]] and looked down into it.
 
-‘Some people,’ said Fascination Fledgeby, ‘are accustomed to take long
-drives; but it generally appears to me that if they make ’em too long,
-they overdo it.’
+‘Similarly, it was through Mr Lightwood that you ever saw her again, for
+you were with him on the [[Night|night]] when my father was found, and so I found
+you with her on the next day. Since then, you have seen my sister often.
+You have seen my sister oftener and oftener. And I want to know why?’
 
-Being in such feather, he might have surpassed himself in his next
-sally, had not Miss Podsnap been announced. Mrs Lammle flew to embrace
-her darling little Georgy, and when the first transports were over,
-presented Mr Fledgeby. Mr Lammle came on the scene last, for he was
-always late, and so were the frequenters always late; all hands being
-bound to be made late, by private information about the Bourse, and
-Greek and Spanish and India and Mexican and par and premium and discount
-and three quarters and seven eighths.
+‘Was this worth while, Schoolmaster?’ murmured Eugene, with the air of
+a disinterested adviser. ‘So much trouble for nothing? You should know
+best, but I think not.’
 
-A handsome little dinner was served immediately, and Mr Lammle sat
-sparkling at his end of the table, with his servant behind his chair,
-and HIS ever-lingering doubts upon the subject of his wages behind
-himself. Mr Lammle’s utmost powers of sparkling were in requisition
-to-day, for Fascination Fledgeby and Georgiana not only struck each
-other speechless, but struck each other into astonishing attitudes;
-Georgiana, as she sat facing Fledgeby, making such efforts to conceal
-her elbows as were totally incompatible with the use of a knife and
-fork; and Fledgeby, as he sat facing Georgiana, avoiding her countenance
-by every possible device, and betraying the discomposure of his mind in
-feeling for his whiskers with his spoon, his wine glass, and his bread.
+‘I don’t know, Mr Wrayburn,’ answered Bradley, with his passion rising,
+‘why you address me—’
+
+‘Don’t you? said Eugene. ‘Then I won’t.’
+
+He said it so tauntingly in his perfect placidity, that the respectable
+right-hand clutching the respectable hair-guard of the respectable watch
+could have wound it round his throat and strangled him with it. Not
+another word did Eugene deem it worth while to utter, but stood leaning
+his head upon his hand, smoking, and looking imperturbably at the
+chafing [[Bradley Headstone]] with his clutching right-hand, until Bradley
+was wellnigh mad.
+
+‘Mr Wrayburn,’ proceeded the boy, ‘we not only know this that I have
+charged upon you, but we know more. It has not yet come to my sister’s
+knowledge that we have found it out, but we have. We had a plan, Mr
+Headstone and I, for my sister’s [[Education|education]], and for its being advised
+and overlooked by Mr Headstone, who is a much more competent authority,
+whatever you may pretend to think, as you smoke, than you could produce,
+if you tried. Then, what do we find? What do we find, Mr Lightwood? Why,
+we find that my sister is already being taught, without our knowing
+it. We find that while my sister gives an unwilling and cold ear to our
+schemes for her advantage—I, her brother, and Mr Headstone, the most
+competent authority, as his certificates would easily prove, that could
+be produced—she is wilfully and willingly profiting by other schemes.
+Ay, and taking pains, too, for I know what such pains are. And so does
+Mr Headstone! [[Well]]! Somebody pays for this, is a thought that naturally
+occurs to us; who pays? We apply ourselves to find out, Mr Lightwood,
+and we find that your friend, this Mr [[Eugene Wrayburn]], here, pays. Then
+I ask him what right has he to do it, and what does he mean by it, and
+how comes he to be taking such a liberty without my consent, when I
+am raising myself in the scale of society by my own exertions and Mr
+Headstone’s aid, and have no right to have any darkness cast upon my
+prospects, or any imputation upon my respectability, through my sister?’
+
+The boyish weakness of this speech, combined with its great selfishness,
+made it a poor one indeed. And yet [[Bradley Headstone]], used to the little
+audience of a school, and unused to the larger ways of men, showed a
+kind of exultation in it.
+
+‘Now I tell Mr [[Eugene Wrayburn]],’ pursued the boy, forced into the use
+of the third person by the hopelessness of addressing him in the first,
+‘that I object to his having any acquaintance at all with my sister, and
+that I request him to drop it altogether. He is not to take it into his
+head that I am afraid of my sister’s caring for HIM—’
+
+(As the boy sneered, the Master sneered, and Eugene blew off the
+feathery ash again.)
+
+—‘But I object to it, and that’s enough. I am more important to my
+sister than he thinks. As I raise myself, I intend to raise her;
+she knows that, and she has to look to me for her prospects. Now I
+understand all this very [[Well|well]], and so does Mr Headstone. My sister is an
+excellent girl, but she has some romantic notions; not about such things
+as your Mr Eugene Wrayburns, but about the [[Death|death]] of my father and other
+matters of that sort. Mr Wrayburn encourages those notions to make
+himself of importance, and so she thinks she ought to be grateful to
+him, and perhaps even likes to be. Now I don’t choose her to be grateful
+to him, or to be grateful to anybody but me, except Mr Headstone. And
+I tell Mr Wrayburn that if he don’t take heed of what I say, it will be
+worse for her. Let him turn that over in his [[Memory|memory]], and make sure of
+it. Worse for her!’

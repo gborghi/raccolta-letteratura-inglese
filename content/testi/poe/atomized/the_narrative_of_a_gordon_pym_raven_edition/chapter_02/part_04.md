@@ -14,6 +14,16 @@ tags:
 </nav>
 
 
+      relieve them by standing between the crates. Presently feeling an
+
+      almost ravenous appetite, I bethought myself of the cold mutton,
+
+      some of which I had eaten just before going to [[Sleep|sleep]], and found
+
+      excellent. What was my astonishment in discovering it to be in a
+
+      state of absolute putrefaction! This circumstance occasioned me
+
       great disquietude; for, connecting it with the disorder of mind I
 
       experienced upon awakening, I began to suppose that I must have
@@ -173,19 +183,3 @@ tags:
       helpless, and, I fancied, a dying condition beneath him. I felt
 
       that my powers of [[Body|body]] and mind were fast leaving me—in a word,
-
-      that I was perishing, and perishing of sheer fright. My brain
-
-      swam—I grew deadly sick—my vision failed—even the glaring
-
-      eyeballs above me grew dim. Making a last strong effort, I at
-
-      length breathed a faint ejaculation to God, and resigned myself
-
-      to die. The sound of my voice seemed to arouse all the latent
-
-      fury of the animal. He precipitated himself at full length upon
-
-      my [[Body|body]]; but what was my astonishment, when, with a long and low
-
-      whine, he commenced licking my face and hands with the greatest

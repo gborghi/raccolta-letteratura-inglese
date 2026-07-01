@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 3 (part 7)"
+title: "Bleak House — Chapter 3 (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,46 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_03/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_04/part_01">part 01 ›</a></div>
 </nav>
 
+
+“But not a dreary place at present, my lord,” said Mr. Kenge.
+
+“And Bleak [[house|House]],” said his lordship, “is in—”
+
+“Hertfordshire, my lord.”
+
+“Mr. Jarndyce of Bleak [[house|House]] is not married?” said his lordship.
+
+“He is not, my lord,” said Mr. Kenge.
+
+A pause.
+
+“Young Mr. [[Richard Carstone]] is present?” said the Lord Chancellor,
+glancing towards him.
+
+[[Richard]] bowed and stepped forward.
+
+“Hum!” said the Lord Chancellor, turning over more [[Leaves|leaves]].
+
+“Mr. Jarndyce of Bleak [[house|House]], my lord,” Mr. Kenge observed in a low
+voice, “if I may venture to remind your lordship, provides a suitable
+companion for—”
+
+“For Mr. [[Richard Carstone]]?” I thought (but I am not quite sure) I
+heard his lordship say in an equally low voice and with a smile.
+
+“For Miss [[Ada Clare]]. This is the young lady. Miss Summerson.”
+
+His lordship gave me an indulgent look and acknowledged my curtsy
+very graciously.
+
+“Miss Summerson is not related to any party in the cause, I think?”
+
+“No, my lord.”
+
+Mr. Kenge leant over before it was quite said and whispered. His
+lordship, with his eyes upon his papers, listened, nodded twice or
+thrice, turned over more [[Leaves|leaves]], and did not look towards me again
+until we were going away.
 
 Mr. Kenge now retired, and [[Richard]] with him, to where I was, near the
 door, leaving my pet (it is so natural to me that again I can’t help

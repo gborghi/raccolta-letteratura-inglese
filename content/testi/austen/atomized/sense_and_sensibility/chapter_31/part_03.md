@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 31 (part 3)"
+title: "Sense and Sensibility — Chapter 31 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_31/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_31/part_04">part 04 ›</a></div>
 </nav>
 
+
+the room. Elinor, affected by his relation, and still more by his
+
+distress, could not speak. He saw her concern, and coming to her, took
+
+her hand, pressed it, and kissed it with grateful respect. A few
+
+minutes more of silent exertion enabled him to proceed with composure.
+
+
+
+“It was nearly three years after this unhappy period before I returned
+
+to England. My first care, when I _did_ arrive, was of course to seek
 
 for her; but the search was as fruitless as it was [[Melancholy|melancholy]]. I could
 
@@ -179,27 +193,3 @@ breaking up the party, that I was called away to the relief of one whom
 he had made poor and miserable; but _had_ he known it, what would it
 
 have availed? Would he have been less gay or less happy in the smiles
-
-of your sister? No, he had already done that, which no man who _can_
-
-feel for another would do. He had left the girl whose youth and
-
-[[innocence]] he had seduced, in a situation of the utmost distress, with
-
-no creditable [[Home|home]], no help, no friends, ignorant of his address! He
-
-had left her, promising to return; he neither returned, nor wrote, nor
-
-relieved her.”
-
-
-
-“This is beyond every thing!” exclaimed Elinor.
-
-
-
-“His character is now before you; expensive, dissipated, and worse than
-
-both. Knowing all this, as I have now known it many weeks, guess what I
-
-must have felt on seeing your sister as fond of him as ever, and on

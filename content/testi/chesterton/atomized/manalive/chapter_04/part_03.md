@@ -1,5 +1,5 @@
 ---
-title: "[[manalive]] — Chapter 4 (part 3)"
+title: "manalive — Chapter 4 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/manalive-(chesterton)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/manalive/chapter_04/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/manalive/chapter_04/part_04">part 04 ›</a></div>
 </nav>
 
+
+"And now," cried [[Moon]] quite suddenly, stretching out a hand on each side,
+"let's [[Dance|dance]] round that bush!"
+
+"Why, what bush do you mean?" asked Rosamund, looking round with a sort
+of radiant rudeness.
+
+"The bush that isn't there," said [[Michael]]--"the Mulberry Bush."
+
+They had taken each other's hands, half laughing and quite ritually;
+and before they could disconnect again [[Michael]] spun them all round,
+like a demon spinning the world for a top.  [[Diana]] felt, as the circle of
+the horizon flew instantaneously around her, a far aerial sense of the ring
+of heights beyond [[London]] and corners where she had climbed as a [[Child|child]];
+she seemed almost to hear the rooks cawing about the old pines on Highgate,
+or to see the glowworms gathering and kindling in the woods of Box [[Hill]].
 
 The circle broke--as all such perfect circles of levity must break--
 and sent its author, [[Michael]], flying, as by centrifugal force, far away
@@ -81,74 +97,54 @@ He spoke with a not inexcusable frigidity.
 
 "Really, Miss Hunt," he said, "you are not yet very reassuring.
 You sent me this wire only half an hour ago:  `Come at once,
-if possible, with another doctor.  Man--[[Innocent]] [[smith|Smith]]--gone mad
+if possible, with another doctor.  Man--Innocent Smith--gone mad
 on premises, and doing dreadful things.  Do you know anything of him?'
 I went round at once to a distinguished colleague of mine, a doctor
-who is also a private [[Detective|detective]] and an authority on criminal lunacy;
+who is also a private detective and an authority on criminal lunacy;
 he has come round with me, and is waiting in the cab.  Now you calmly
 tell me that this criminal madman is a highly sweet and sane old thing,
-with accompaniments that set me speculating on your own definition of [[Sanity|sanity]].
+with accompaniments that set me speculating on your own definition of sanity.
 I hardly comprehend the change."
 
-"Oh, how can one explain a change in sun and [[Moon|moon]] and everybody's [[Soul|soul]]?"
-cried Rosamund, in [[Despair|despair]].  "Must I confess we had got so morbid
+"Oh, how can one explain a change in sun and moon and everybody's soul?"
+cried Rosamund, in despair.  "Must I confess we had got so morbid
 as to think him mad merely because he wanted to get married; and that we
 didn't even know it was only because we wanted to get married ourselves?
 We'll humiliate ourselves, if you like, doctor; we're happy enough."
 
-"Where is Mr. [[smith|Smith]]?" asked Warner of Inglewood very sharply.
+"Where is Mr. Smith?" asked Warner of Inglewood very sharply.
 
-[[arthur|Arthur]] started; he had forgotten all about the central figure of their farce,
+Arthur started; he had forgotten all about the central figure of their farce,
 who had not been visible for an hour or more.
 
-"I--I think he's on the other side of the [[house]], by the dustbin," he said.
+"I--I think he's on the other side of the house, by the dustbin," he said.
 
-"He may be on the [[Road|road]] to [[Russia]]," said Warner, "but he must be found."
-And he strode away and disappeared round a corner of the [[house]]
+"He may be on the road to Russia," said Warner, "but he must be found."
+And he strode away and disappeared round a corner of the house
 by the sunflowers.
 
-"I [[Hope|hope]]," said Rosamund, "he won't really interfere with Mr. [[smith|Smith]]."
+"I hope," said Rosamund, "he won't really interfere with Mr. Smith."
 
-"Interfere with the daisies!" said [[Michael]] with a snort.
-"A man can't be locked up for falling in [[Love|love]]--at least
-I [[Hope|hope]] not."
+"Interfere with the daisies!" said Michael with a snort.
+"A man can't be locked up for falling in love--at least
+I hope not."
 
 "No; I think even a doctor couldn't make a disease out of him.
 He'd throw off the doctor like the disease, don't you know?
-I believe it's a case of a sort of holy [[Well|well]].  I believe [[Innocent]] [[smith|Smith]]
-is simply [[Innocent|innocent]], and that is why he is so extraordinary."
+I believe it's a case of a sort of holy well.  I believe Innocent Smith
+is simply innocent, and that is why he is so extraordinary."
 
 It was Rosamund who spoke, restlessly tracing circles in the grass
 with the point of her white shoe.
 
-"I think," said Inglewood, "that [[smith|Smith]] is not extraordinary at all.
+"I think," said Inglewood, "that Smith is not extraordinary at all.
 He's comic just because he's so startlingly commonplace.
 Don't you know what it is to be all one family circle, with aunts
-and uncles, when a schoolboy comes [[Home|home]] for the holidays?
+and uncles, when a schoolboy comes home for the holidays?
 That bag there on the cab is only a schoolboy's hamper.
-This tree here in the [[Garden|garden]] is only the sort of tree that any
+This tree here in the garden is only the sort of tree that any
 schoolboy would have climbed.  Yes, that's the thing that has
 haunted us all about him, the thing we could never fit a word to.
 Whether he is my old schoolfellow or no, at least he is all my
 old schoolfellows.  He is the endless bun-eating, ball-throwing
 animal that we have all been."
-
-"That is only you absurd boys," said [[Diana]].  "I don't believe
-any girl was ever so silly, and I'm sure no girl was ever
-so happy, except--" and she stopped.
-
-"I will tell you the [[Truth|truth]] about [[Innocent]] [[smith|Smith]]," said [[Michael]] [[Moon]] in a
-low voice.  "Dr. Warner has gone to look for him in vain.  He is not there.
-Haven't you noticed that we never saw him since we found ourselves?
-He was an astral baby born on all four of us; he was only our own
-youth returned.  Long before poor old Warner had clambered out of his cab,
-the thing we called [[smith|Smith]] had dissolved into dew and light on this lawn.
-Once or twice more, by the [[Mercy|mercy]] of God, we may feel the thing,
-but the man we shall never see.  In a [[Spring|spring]] [[Garden|garden]] before breakfast
-we shall smell the smell called [[smith|Smith]].  In the snapping of brisk twigs
-in tiny fires we shall hear a noise named [[smith|Smith]].  Everything insatiable
-and [[Innocent|innocent]] in the grasses that gobble up the earth like babies at a bun feast,
-in the white mornings that split the sky as a boy splits up white firwood,
-we may feel for one instant the presence of an impetuous purity;
-but his [[innocence]] was too close to the unconsciousness of inanimate things
-not to melt back at a mere touch into the mild hedges and heavens; he--"

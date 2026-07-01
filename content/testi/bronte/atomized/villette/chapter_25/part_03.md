@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 25 (part 3)"
+title: "Villette — Chapter 25 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,26 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_25/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_25/part_04">part 04 ›</a></div>
 </nav>
 
+
+“Miss Snowe is in a school?”
+
+“I am a teacher,” I said, and was rather glad of the opportunity of
+saying this. For a little while I had been feeling as if placed in a
+false position. Mrs. Bretton and son knew my circumstances; but the
+Count and his daughter did not. They might choose to vary by some
+shades their hitherto cordial manner towards me, when aware of my grade
+in society. I spoke then readily: but a swarm of thoughts I had not
+anticipated nor invoked, [[Rose|rose]] dim at the words, making me sigh
+involuntarily. Mr. [[Home]] did not lift his eyes from his breakfast-plate
+for about two minutes, nor did he speak; perhaps he had not caught the
+words—perhaps he thought that on a confession of that [[Nature|nature]],
+politeness would interdict comment: the Scotch are proverbially proud;
+and homely as was Mr. [[Home]] in look, simple in habits and tastes, I have
+all along intimated that he was not without his share of the national
+quality. Was his a pseudo [[Pride|pride]]? was it real dignity? I leave the
+question undecided in its wide sense. Where it concerned me
+individually I can only answer: then, and always, he showed himself a
+true-hearted gentleman.
 
 By [[Nature|nature]] he was a feeler and a thinker; over his emotions and his
 reflections spread a mellowing of [[Melancholy|melancholy]]; more than a mellowing: in
@@ -119,40 +139,3 @@ weather seems settling, and I have finished my breakfast—”
 “[[Well]]?”
 
 “I see an obstacle.”
-
-“I don’t at all.”
-
-“It is enormous, papa; it can never be got over; it is as large as you
-in your greatcoat, and the snowdrift on the top.”
-
-“And, like that snowdrift, capable of melting?”
-
-“No! it is of too—too solid flesh: it is just your own [[Self|self]]. Miss Lucy,
-warn [[Madame Beck]] not to listen to any overtures about taking me,
-because, in the end, it would turn out that she would have to take papa
-too: as he is so teasing, I will just tell tales about him. Mrs.
-Bretton and all of you listen: About five years ago, when I was twelve
-years old, he took it into his head that he was spoiling me; that I was
-growing unfitted for the world, and I don’t know what, and nothing
-would serve or satisfy him, but I must go to school. I cried, and so
-on; but M. de Bassompierre proved hard-hearted, quite firm and flinty,
-and to school I went. What was the result? In the most admirable
-manner, papa came to school likewise: every other day he called to see
-me. Madame Aigredoux grumbled, but it was of no use; and so, at last,
-papa and I were both, in a manner, expelled. Lucy can just tell Madame
-Beck this little trait: it is only fair to let her know what she has to
-expect.”
-
-Mrs. Bretton asked Mr. [[Home]] what he had to say in answer to this
-statement. As he made no defence, judgment was given against him, and
-[[Paulina]] triumphed.
-
-But she had other moods besides the arch and naïve. After breakfast;
-when the two elders withdrew—I suppose to talk over certain of Mrs.
-Bretton’s business matters—and the Countess, Dr. Bretton, and I, were
-for a short [[Time|time]] [[Alone|alone]] together—all the [[Child|child]] left her; with us, more
-nearly her companions in age, she [[Rose|rose]] at once to the little lady: her
-very face seemed to alter; that play of feature, and candour of look,
-which, when she spoke to her father, made it quite dimpled and round,
-yielded to an aspect more thoughtful, and lines distincter and less
-_mobile_.

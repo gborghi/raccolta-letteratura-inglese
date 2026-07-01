@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 16 (part 2)"
+title: "Shirley — Chapter 16 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_16/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_16/part_03">part 03 ›</a></div>
 </nav>
 
+
+At one o'[[Clock|clock]] the troops were to come in; at two they were to be
+
+marshalled; till four they were to parade the parish; then came the
+
+feast, and afterwards the meeting, with music and speechifying in the
 
 church.
 
@@ -195,15 +201,3 @@ tiresome quality.
 
 
 She presented quite a contrast to Caroline. There was style in every
-
-fold of her dress and every line of her figure. The rich silk suited her
-
-better than a simpler costume; the deep embroidered scarf became her.
-
-She wore it negligently but gracefully. The wreath on her bonnet
-
-crowned her [[Well|well]]. The attention to fashion, the tasteful appliance of
-
-ornament in each portion of her dress, were quite in place with her. All
-
-this suited her, like the frank light in her eyes, the rallying smile

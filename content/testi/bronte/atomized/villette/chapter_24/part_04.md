@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 24 (part 4)"
+title: "Villette — Chapter 24 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,36 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_24/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_24/part_05">part 05 ›</a></div>
 </nav>
 
+
+“LOUISA BRETTON.”
+
+
+Now, a letter like that sets one to rights! I might still be sad after
+reading that letter, but I was more composed; not exactly cheered,
+perhaps, but relieved. My friends, at least, were [[Well|well]] and happy: no
+accident had occurred to Graham; no illness had seized his
+mother—calamities that had so long been my dream and thought. Their
+feelings for me too were—as they had been. Yet, how strange it was to
+look on Mrs. Bretton’s seven weeks and contrast them with my seven
+weeks! Also, how very wise it is in people placed in an exceptional
+position to hold their tongues and not rashly declare how such position
+galls them! The world can understand [[Well|well]] enough the process of
+perishing for want of food: perhaps few persons can enter into or
+follow out that of going mad from solitary confinement. They see the
+long-buried prisoner disinterred, a maniac or an idiot!—how his senses
+left him—how his nerves, first inflamed, underwent nameless agony, and
+then sunk to palsy—is a subject too intricate for examination, too
+abstract for popular comprehension. Speak of it! you might almost as
+[[Well|well]] stand up in an European market-place, and propound dark sayings in
+that language and mood wherein Nebuchadnezzar, the imperial
+hypochondriac, communed with his baffled Chaldeans. And long, long may
+the minds to whom such themes are no mystery—by whom their bearings are
+sympathetically seized—be few in number, and rare of rencounter. Long
+may it be generally thought that physical privations [[Alone|alone]] merit
+compassion, and that the rest is a figment. When the world was younger
+and haler than now, moral trials were a deeper mystery still: perhaps
+in all the land of Israel there was but one Saul—certainly but one
+David to soothe or comprehend him.
 
 The keen, still cold of the morning was succeeded, later in the day, by
 a sharp breathing from Russian wastes: the cold zone sighed over the
@@ -108,39 +138,3 @@ exaggerate language; but, indeed, they seemed to me very real and
 engaging. What though all was on a small scale, it was the perfume
 which gave this white violet distinction, and made it superior to the
 broadest camelia—the fullest dahlia that ever bloomed.
-
-“Ah! and you remember the old [[Time|time]] at Bretton?”
-
-“Better,” said she, “better, perhaps, than you. I remember it with
-minute distinctness: not only the [[Time|time]], but the days of the [[Time|time]], and
-the hours of the days.”
-
-“You must have forgotten some things?”
-
-“Very little, I imagine.”
-
-“You were then a little creature of quick feelings: you must, long ere
-this, have outgrown the impressions with which joy and grief, affection
-and bereavement, stamped your mind ten years ago.”
-
-“You think I have forgotten whom I liked, and in what degree I liked
-them when a [[Child|child]]?”
-
-“The sharpness must be gone—the point, the poignancy—the deep imprint
-must be softened away and effaced?”
-
-“I have a good [[Memory|memory]] for those days.”
-
-She looked as if she had. Her eyes were the eyes of one who can
-remember; one whose [[Childhood|childhood]] does not fade like [[A Dream|a dream]], nor whose
-youth vanish like a sunbeam. She would not take life, loosely and
-incoherently, in parts, and let one season slip as she entered on
-another: she would retain and add; often review from the commencement,
-and so grow in harmony and consistency as she grew in years. Still I
-could not quite admit the conviction that _all_ the pictures which now
-crowded upon me were vivid and visible to her. Her fond attachments,
-her sports and contests with a [[Well|well]]-loved playmate, the patient, true
-devotion of her [[Child|child]]’s heart, her fears, her delicate reserves, her
-little trials, the last piercing [[Pain|pain]] of separation…. I retraced these
-things, and shook my head incredulous. She persisted. “The [[Child|child]] of
-seven years lives yet in the girl of seventeen,” said she.

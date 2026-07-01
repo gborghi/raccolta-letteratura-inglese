@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 10: I BECOME NEGLECTED, AND AM PROVIDED FOR (part 2)"
+title: "David Copperfield — Chapter 10: I BECOME NEGLECTED, AND AM PROVIDED FOR (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_10_i_become_neglected_and_am_prov/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_10_i_become_neglected_and_am_prov/part_03">part 03 ›</a></div>
 </nav>
 
+
+Peggotty had an angry answer ready, I could see; but she swallowed it
+for my sake, and remained silent.
+
+‘Humph!’ said Miss Murdstone, still keeping her eye on the pickles;
+‘it is of more importance than anything else--it is of paramount
+importance--that my brother should not be disturbed or made
+uncomfortable. I suppose I had better say yes.’
 
 I thanked her, without making any demonstration of joy, lest it should
 induce her to withdraw her assent. Nor could I help thinking this a
@@ -138,12 +146,3 @@ over, and we were walking on.
 ‘I should think it would be a very good thing. For then you know,
 Peggotty, you would always have the [[Horse|horse]] and cart to bring you over to
 see me, and could come for nothing, and be sure of coming.’
-
-‘The sense of the dear!’ cried Peggotty. ‘What I have been thinking
-of, this month back! Yes, my precious; and I think I should be more
-independent altogether, you see; let [[Alone|alone]] my working with a better
-heart in my own [[house]], than I could in anybody else’s now. I don’t know
-what I might be fit for, now, as a servant to a stranger. And I shall be
-always near my pretty’s resting-place,’ said Peggotty, musing, ‘and be
-able to see it when I like; and when I lie down to rest, I may be laid
-not far off from my darling girl!’

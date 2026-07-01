@@ -1,5 +1,5 @@
 ---
-title: "[[Shaw]] — THE PURITAN"
+title: "Shaw — THE PURITAN"
 author: "Chesterton"
 unitType: story
 parentWork: "works/shaw-(chesterton)"
@@ -375,9 +375,9 @@ by the divorces and the adulteries as he is by the "splits."
 And he has always been foremost among the fierce modern critics
 who ask indignantly, "Why do you object to a thing full of sincere
 [[philosophy]] like THE WILD DUCk while you tolerate a mere dirty joke
-like THE [[Spring|SPRING]] CHICKEN?"  I do not think he has ever understood
+like THE [[spring|SPRING]] CHICKEN?"  I do not think he has ever understood
 what seems to me the very sensible answer of the man in the street,
-"I laugh at the dirty joke of THE [[Spring|SPRING]] CHICKEN because it is a joke.
+"I laugh at the dirty joke of THE [[spring|SPRING]] CHICKEN because it is a joke.
 I criticise the [[philosophy]] of THE WILD DUCk because it
 is a [[philosophy]]."
 

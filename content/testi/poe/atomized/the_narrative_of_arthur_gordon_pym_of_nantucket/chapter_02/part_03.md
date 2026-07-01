@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 3 (part 3)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 3 (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_02/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_03/part_01">part 01 ›</a></div>
 </nav>
 
+
+eaten by Tiger. To add to my troubles, I found that my headache was
+
+increasing momentarily, and with it the species of delirium which had
+
+distressed me more or less since my first falling asleep. For some
+
+hours past it had been with the greatest difficulty I could breathe at
 
 all, and now each attempt at so doing was attended with the most
 

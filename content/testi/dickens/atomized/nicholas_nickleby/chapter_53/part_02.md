@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 53 (part 2)"
+title: "Nicholas Nickleby — Chapter 53 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -125,13 +125,3 @@ look of scorn which, for an instant, Nicholas could not have suppressed
 had he been upon the rack. ‘There,’ he continued, after a short
 [[Silence|silence]], ‘you have your message and can retire--unless you have any
 further--ha!--any further orders.’
-
-‘I have none,’ said Nicholas; ‘nor, in the consideration of the station
-you once held, have I used that or any other word which, however
-harmless in itself, could be supposed to imply authority on my part or
-dependence on yours. I have no orders, but I have fears--fears that I
-will express, chafe as you may--fears that you may be consigning that
-young lady to something worse than supporting you by the labour of her
-hands, had she worked herself dead. These are my fears, and these fears
-I found upon your own demeanour. Your [[Conscience|conscience]] will tell you, sir,
-whether I construe it [[Well|well]] or not.’

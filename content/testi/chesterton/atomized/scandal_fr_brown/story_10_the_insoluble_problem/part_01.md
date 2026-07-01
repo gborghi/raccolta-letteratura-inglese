@@ -110,14 +110,3 @@ their own. Under such a half - light they came to a break in the woods
 like a great rent in a grey wall, and saw beyond, standing above the
 gap, the tall and rather outlandish - looking inn that bore the name of
 the Green Dragon.
-
-The two old companions had often arrived together at inns and other
-human habitations, and found a somewhat singular state of things there;
-but the signs of singularity had seldom manifested themselves so early.
-For while their car was still some hundreds of yards from the dark green
-door, which matched the dark green shutters of the high and narrow
-building, the door was thrown open with violence and a woman with a wild
-mop of red hair rushed to meet them, as if she were ready to board the
-car in full career. [[Flambeau]] brought the car to a standstill but almost
-before he had done so, she thrust her white and tragic face into the
-[[Window|window]], crying:

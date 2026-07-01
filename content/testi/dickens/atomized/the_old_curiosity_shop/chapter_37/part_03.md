@@ -14,6 +14,10 @@ tags:
 </nav>
 
 
+‘You are the two men I want,’ he said, ‘the two men I have been looking
+for, and searching after!  Where are that old man and that [[Child|child]] you
+speak of?’
+
 ‘Sir?’ said Short, hesitating, and looking towards his friend.
 
 ‘The old man and his grandchild who travelled with you--where are they?

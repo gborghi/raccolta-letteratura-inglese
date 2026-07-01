@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 6 (part 6)"
+title: "Shirley — Chapter 6 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -12,6 +12,42 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_06/part_05">‹ part 05</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_06/part_07">part 07 ›</a></div>
 </nav>
+
+
+"An old English book?"
+
+
+
+"Yes, an old English book--one that you like; and I will choose a part
+
+of it that is toned quite in harmony with something in you. It shall
+
+waken your [[Nature|nature]], fill your mind with music; it shall pass like a
+
+skilful hand over your heart, and make its strings sound. Your heart is
+
+a lyre, Robert; but the lot of your life has not been a minstrel to
+
+sweep it, and it is often silent. Let glorious William come near and
+
+touch it. You will see how he will draw the English power and melody out
+
+of its chords."
+
+
+
+"I must read Shakespeare?"
+
+
+
+"You must have his spirit before you; you must hear his voice with your
+
+mind's ear; you must take some of his [[Soul|soul]] into yours."
+
+
+
+"With a view to making me better? Is it to operate like a sermon?"
+
 
 
 "It is to stir you, to give you new sensations. It is to make you feel
@@ -221,73 +257,3 @@ considered his ally's weakness, the [[Death|death]] of [[Coriolanus]], the final
 sorrow of his great enemy--all scenes made of condensed [[Truth|truth]] and
 
 strength--came on in succession and carried with them in their deep,
-
-fast flow the heart and mind of reader and listener.
-
-
-
-"Now, have you felt Shakespeare?" asked Caroline, some ten minutes after
-
-her cousin had closed the book.
-
-
-
-"I think so."
-
-
-
-"And have you felt anything in [[Coriolanus]] like you?"
-
-
-
-"Perhaps I have."
-
-
-
-"Was he not faulty as [[Well|well]] as great?"
-
-
-
-Moore nodded.
-
-
-
-"And what was his fault? What made him hated by the citizens? What
-
-caused him to be banished by his countrymen?"
-
-
-
-"What do you think it was?"
-
-
-
-"I ask again--
-
-
-
-                      'Whether was it [[Pride|pride]],
-
-    Which out of daily fortune ever taints
-
-    The happy man? whether defect of judgment,
-
-    To fail in the disposing of those chances
-
-    Which he was lord of? or whether [[Nature|nature]],
-
-    Not to be other than one thing, not moving
-
-    From the casque to the cushion, but commanding peace
-
-    Even with the same austerity and garb
-
-    As he controlled the war?'"
-
-
-
-"[[Well]], answer yourself, Sphinx."
-
-
-
-"It was a spice of all; and you must not be proud to your workpeople;

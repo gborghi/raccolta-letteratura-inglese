@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 38 (part 2)"
+title: "The Tenant of Wildfell Hall — Chapter 38 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_38/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_38/part_03">part 03 ›</a></div>
 </nav>
 
+
+“She is a wicked woman,” I said. “She has basely deceived and betrayed
+
+you. She is as little worthy of your regret as she was of your
 
 affection. Let her injure you no further; abstract yourself from her,
 
@@ -247,15 +251,3 @@ just the remedy my own heart, or the devil within it, suggested—to meet
 him, and _not to sever without blood_. Whether I or he should fall, or
 
 both, it would be an _inexpressible_ relief to me, if—”
-
-
-
-“Just so! [[Well]] then,—”
-
-
-
-“No!” exclaimed his lordship, with deep, determined emphasis. “Though I
-
-hate him from my heart, and should rejoice at any calamity that could
-
-befall him, I’ll leave him to God; and though I abhor my own life, I’ll

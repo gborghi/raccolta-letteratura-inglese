@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 51 (part 2)"
+title: "Barnaby Rudge — Chapter 51 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,25 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_51/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_51/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘Me!’ cried the [[Well|well]]-known voice of Mr Tappertit. Gabriel opened the
+door, and gave him admission.
+
+He did not cut a very insinuating figure, for a man of his stature
+suffers in a crowd; and having been active in yesterday morning’s work,
+his dress was literally crushed from head to foot: his hat being beaten
+out of all shape, and his shoes trodden down at heel like slippers. His
+coat fluttered in strips about him, the buckles were torn away both from
+his knees and feet, half his neckerchief was gone, and the bosom of
+his shirt was rent to tatters. Yet notwithstanding all these personal
+disadvantages; despite his being very weak from heat and fatigue; and
+so begrimed with mud and [[Dust|dust]] that he might have been in a case, for
+anything of the real texture (either of his skin or apparel) that the
+eye could discern; he stalked haughtily into the parlour, and throwing
+himself into a chair, and endeavouring to thrust his hands into the
+pockets of his small-clothes, which were turned inside out and displayed
+upon his legs, like tassels, surveyed the household with a gloomy
+dignity.
 
 ‘Simon,’ said the locksmith gravely, ‘how comes it that you return [[Home|home]]
 at this [[Time|time]] of [[Night|night]], and in this condition? Give me an assurance that
@@ -110,36 +129,3 @@ piece of paper. It’s a protection, ma’am. You may need it.’
 
 With these words he held out at arm’s length, a dirty, crumpled scrap of
 writing. The locksmith took it from him, opened it, and read as follows:
-
-
-‘All good friends to our cause, I [[Hope|hope]] will be particular, and do no
-injury to the property of any true Protestant. I am [[Well|well]] assured that
-the proprietor of this [[house]] is a staunch and worthy friend to the
-cause.
-
-GEORGE GORDON.’
-
-
-‘What’s this!’ said the locksmith, with an altered face.
-
-‘Something that’ll do you good service, young feller,’ replied his
-journeyman, ‘as you’ll find. Keep that safe, and where you can lay your
-hand upon it in an instant. And [[chalk]] “No Popery” on your door to-morrow
-[[Night|night]], and for a week to come--that’s all.’
-
-‘This is a genuine document,’ said the locksmith, ‘I know, for I have
-seen the hand before. What threat does it imply? What devil is abroad?’
-
-‘A fiery devil,’ retorted Sim; ‘a flaming, furious devil. Don’t you put
-yourself in its way, or you’re done for, my buck. Be warned in [[Time|time]], G.
-Varden. Farewell!’
-
-But here the two women threw themselves in his way--especially Miss
-Miggs, who fell upon him with such fervour that she pinned him against
-the wall--and conjured him in moving words not to go forth till he was
-sober; to listen to reason; to think of it; to take some rest, and then
-determine.
-
-‘I tell you,’ said Mr Tappertit, ‘that my mind is made up. My bleeding
-country calls me and I go! Miggs, if you don’t get out of the way, I’ll
-pinch you.’

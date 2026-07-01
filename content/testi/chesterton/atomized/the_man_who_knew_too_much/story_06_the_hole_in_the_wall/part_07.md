@@ -14,6 +14,44 @@ tags:
 </nav>
 
 
+and terrible turn, when they saw the prince stand in the gap of the
+
+gaunt trees, in his robes of angry crimson and with his lowering
+
+face of bronze, bearing in his hand a new shape of [[Death|death]]. They could
+
+not have named a reason, but the two swords seemed indeed to have
+
+become toy swords and the whole tale of them broken and tossed away
+
+like a toy. Borodino looked like the Old World headsman, clad in
+
+terrible red, and carrying the ax for the execution of the criminal.
+
+And the criminal was not Crane.
+Mr. Brain of the Indian police was glaring at the new object, and it
+
+was a moment or two before he spoke, harshly and almost hoarsely.
+"What are you doing with that?" he asked. "Seems to be a woodman's
+
+chopper."
+"A natural association of ideas," observed Horne Fisher. "If you
+
+meet a cat in a wood you think it's a wildcat, though it may have
+
+just strolled from the drawing-room sofa. As a matter of fact, I
+
+happen to know that is not the woodman's chopper. It's the kitchen
+
+chopper, or meat ax, or something like that, that somebody has
+
+thrown away in the wood. I saw it in the kitchen myself when I was
+
+getting the potato sacks with which I reconstructed a mediaeval
+
+hermit."
+"All the same, it is not without interest," remarked the prince,
+
 holding out the instrument to Fisher, who took it and examined it
 
 carefully. "A butcher's cleaver that has done butcher's work."
@@ -151,46 +189,3 @@ his surprise, he found another figure there beside the statue,
 sitting almost equally motionless; and the same silver pencil traced
 
 the wrinkled brow and patient face of Horne Fisher, still dressed as
-
-a hermit and apparently practicing something of the [[Solitude|solitude]] of a
-
-hermit. Nevertheless, he looked up at Leonard Crane and smiled,
-
-almost as if he had expected him.
-"Look here," said Crane, planting himself in front of him, "can you
-
-tell me anything about this business?"
-"I shall soon have to tell everybody everything about it," replied
-
-Fisher, "but I've no objection to telling you something first. But,
-
-to begin with, will you tell me something? What really happened when
-
-you met Bulmer this morning? You did throw away your [[Sword|sword]], but you
-
-didn't kill him."
-"I didn't kill him because I threw away my [[Sword|sword]]," said the other.
-
-"I did it on purpose—or I'm not sure what might have happened."
-After a pause he went on, quietly: "The late Lord Bulmer was a very
-
-breezy gentleman, extremely breezy. He was very genial with his
-
-inferiors, and would have his lawyer and his architect staying in
-
-his [[house]] for all sorts of holidays and amusements. But there was
-
-another side to him, which they found out when they tried to be his
-
-equals. When I told him that his sister and I were engaged,
-
-something happened which I simply can't and won't describe. It
-
-seemed to me like some monstrous upheaval of [[Madness|madness]]. But I suppose
-
-the [[Truth|truth]] is painfully simple. There is such a thing as the
-
-coarseness of a gentleman. And it is the most horrible thing in
-
-humanity."
-"I know," said Fisher. "The [[Renaissance]] nobles of the Tudor [[Time|time]]

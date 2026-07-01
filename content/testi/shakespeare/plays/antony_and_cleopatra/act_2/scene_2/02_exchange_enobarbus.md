@@ -1,5 +1,5 @@
 ---
-title: "Antony and [[Cleopatra]] — Act II, Scene 2 — exchange ([[Enobarbus|ENOBARBUS]]) [2]"
+title: "Antony and Cleopatra — Act II, Scene 2 — exchange (ENOBARBUS) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/antony-and-cleopatra-(shakespeare)"

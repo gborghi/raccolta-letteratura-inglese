@@ -1,5 +1,5 @@
 ---
-title: "The Uses of Diversity — The Evolution of [[Emma]]"
+title: "The Uses of Diversity — The Evolution of Emma"
 author: "Chesterton"
 unitType: story
 parentWork: "works/the-uses-of-diversity-(chesterton)"

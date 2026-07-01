@@ -1,5 +1,5 @@
 ---
-title: "[[Mellonta Tauta]] (part 6)"
+title: "Mellonta Tauta (part 6)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/mellonta-tauta-(poe)"
@@ -13,6 +13,26 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/mellonta_tauta/part/part_05">‹ part 05</a><span></span></div>
 </nav>
 
+
+      speaking, an island [[Time|time]] out of mind—that is to say, its northern
+
+      boundary was always (as far back as any record extends) a
+
+      rivulet, or rather a very narrow arm of the sea. This arm was
+
+      gradually widened until it attained its present breadth—a mile.
+
+      The whole length of the island is nine miles; the breadth varies
+
+      materially. The entire area (so Pundit says) was, about eight
+
+      hundred years ago, densely packed with houses, some of them
+
+      twenty stories high; land (for some most unaccountable reason)
+
+      being considered as especially precious just in this vicinity.
+
+      The disastrous earthquake, however, of the year 2050, so totally
 
       uprooted and overwhelmed the town (for it was almost too large to
 

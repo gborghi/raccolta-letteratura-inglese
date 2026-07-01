@@ -1,5 +1,5 @@
 ---
-title: "[[misc]]"
+title: "misc"
 author: "Chesterton"
 unitType: work
 parentWork: "works/misc-(chesterton)"
@@ -432,7 +432,7 @@ think that the savages in Prusso-Portuguese East Bunyipland
 are as happy and hygienic as the fortunate savages in
 Franco-British West Bunyipland?  IV.  Did the lost Latin Charter
 said to have been exacted from Henry III reserve the right of
-the [[Crown]] to create peers?  V. What do you think of what [[america|America]]
+the [[Crown]] to create peers?  V. What do you think of what [[America]]
 thinks of what Mr. Roosevelt thinks of what Sir Eldon Gorst
 thinks of the state of the Nile?  VI.  Detect some difference
 between the two persons in frock-coats placed before you
@@ -614,7 +614,7 @@ a [[government]]; England is an anarchy, because there are so many kings.
 But there is one real advantage (among many real disadvantages)
 in the method of abstract [[democracy]], and that is this:
 that under impersonal [[government]] politics are so much more personal.
-In France and [[america|America]], where the State is an abstraction,
+In France and [[America]], where the State is an abstraction,
 political argument is quite full of human details--some might even
 say of inhuman details.  But in England, precisely because we are
 ruled by personages, these personages do not permit personalities.
@@ -1653,7 +1653,7 @@ he makes a man.  And in the third case we talk of a man "making [[Love|love]],"
 as if he were (as, indeed, he is) creating new masses and
 colours of that flaming material an awful form of manufacture.
 In its primary spiritual sense, liberty is the god in man, or, if you
-like the word, the [[artist]].
+like the word, the [[Artist|artist]].
 
 In its secondary political sense liberty is the living influence of
 the citizen on the State in the direction of moulding or deflecting it.
@@ -2809,7 +2809,7 @@ but the miser.
 
 The modern miser has changed much from the miser of legend
 and anecdote; but only because he has grown yet more insane.
-The old miser had some touch of the human [[artist]] about him
+The old miser had some touch of the human [[Artist|artist]] about him
 in so far that he collected gold--a substance that can
 really be admired for itself, like ivory or old oak.
 An old man who picked up yellow pieces had something of
@@ -3188,7 +3188,7 @@ the highest or the purest religion.
 
 Thus, in turning over some excellent books recently written
 on the spirit of Indian or Chinese art and decoration,
-I found it quietly and curiously assumed that the [[artist]] must
+I found it quietly and curiously assumed that the [[Artist|artist]] must
 be at his best if he flows with the full stream of [[Nature]];
 and identifies himself with all things; so that the [[Stars|stars]]
 are his sleepless eyes and the forests his far-flung arms.
@@ -4092,7 +4092,7 @@ but they do not affect it in at all the same way as Westminster Abbey.
 Some again (going to another and almost equally foolish extreme)
 ignore the coarse and comic in mediaevalism; and praise the pointed
 arch only for its utter purity and simplicity, as of a saint with his
-hands joined in [[prayer]].  Here, again, the uniqueness is missed.
+hands joined in [[Prayer|prayer]].  Here, again, the uniqueness is missed.
 There are [[Renaissance]] things (such as the ethereal silvery
 drawings of Raphael), there are even pagan things (such as
 the Praying Boy) which express as fresh and austere a piety.
@@ -4251,7 +4251,7 @@ The ancient wig of the judge is often indistinguishable from the old
 wig of the flunkey.
 
 To judge about [[success]] or failure one must see things
-very simply; one must see them in masses, as the [[artist]],
+very simply; one must see them in masses, as the [[Artist|artist]],
 half closing his eyes against details, sees light and shade.
 That is the only way in which a just judgment can be formed
 as to whether any departure or development, such as [[Islam]]
@@ -4603,7 +4603,7 @@ the unrelenting sleuthhound who seeks to save and not slay.
 
 I can best illustrate what I mean by referring to two popular
 plays on somewhat parallel topics, which have been successful here
-and in [[america|America]].  The Passing of the Third Floor Back is a humane
+and in [[America]].  The Passing of the Third Floor Back is a humane
 and reverent experiment, dealing with the influence of one unknown
 but divine figure as he passes through a group of Squalid characters.
 I have no [[Desire|desire]] to make cheap fun of the extremely abrupt
@@ -4752,7 +4752,7 @@ paper which come from the remote East, he will observe many
 elements in them which a fanciful person might consider feline.
 There is, for instance, that odd enjoyment of the tops of trees;
 those airy traceries of forks and fading twigs, up to which certainly
-no [[artist]], but only a cat could climb.  There is that elvish
+no [[Artist|artist]], but only a cat could climb.  There is that elvish
 [[Love|love]] of the full [[Moon|moon]], as large and lucid as a Chinese lantern,
 hung in these tenuous branches.  That [[Moon|moon]] is so large and
 luminous that one can imagine a hundred cats howling under it.
@@ -5158,7 +5158,7 @@ If two madmen had ever agreed they might have conquered the world.
 because some men are tall and some short, some clever and some stupid.
 At the height of the [[French Revolution]] it was noticed that Danton
 was tall and Murat short.  In the wildest popular excitement
-of [[america|America]] it is known that Rockefeller is stupid and that Bryan
+of [[America]] it is known that Rockefeller is stupid and that Bryan
 is clever.  The doctrine of human equality reposes upon this:
 That there is no man really clever who has not found that
 he is stupid.  That there is no big man who has not felt small.

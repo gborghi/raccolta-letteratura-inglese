@@ -35,15 +35,15 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Story 01 Introduction in Defence of Everything El](/testi/chesterton/atomized/ortho14/story_01_introduction_in_defence_of_everything_el)
-- [Story 02 The Maniac](/testi/chesterton/atomized/ortho14/story_02_the_maniac)
-- [Story 03 The Suicide of Thought](/testi/chesterton/atomized/ortho14/story_03_the_suicide_of_thought)
-- [Story 04 The Ethics of Elfland](/testi/chesterton/atomized/ortho14/story_04_the_ethics_of_elfland)
-- [Story 05 The Flag of the World](/testi/chesterton/atomized/ortho14/story_05_the_flag_of_the_world)
-- [Story 06 The Paradoxes of Christianity](/testi/chesterton/atomized/ortho14/story_06_the_paradoxes_of_christianity)
-- [Story 07 The Eternal Revolution](/testi/chesterton/atomized/ortho14/story_07_the_eternal_revolution)
-- [Story 08 The Romance of Orthodoxy](/testi/chesterton/atomized/ortho14/story_08_the_romance_of_orthodoxy)
-- [Story 09 Authority and the Adventurer](/testi/chesterton/atomized/ortho14/story_09_authority_and_the_adventurer)
+- Story 01 Introduction in Defence of Everything El
+- Story 02 The Maniac
+- Story 03 The Suicide of Thought
+- Story 04 The Ethics of Elfland
+- Story 05 The Flag of the World
+- Story 06 The Paradoxes of Christianity
+- Story 07 The Eternal Revolution
+- Story 08 The Romance of Orthodoxy
+- Story 09 Authority and the Adventurer
 
 ## Testo integrale / Full text
 

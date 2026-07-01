@@ -1,5 +1,5 @@
 ---
-title: "[[Julius Caesar]] — Act IV, Scene 2 — exchange ([[Ghost|GHOST]]) [8]"
+title: "Julius Caesar — Act IV, Scene 2 — exchange (GHOST) [8]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/julius-caesar-(shakespeare)"

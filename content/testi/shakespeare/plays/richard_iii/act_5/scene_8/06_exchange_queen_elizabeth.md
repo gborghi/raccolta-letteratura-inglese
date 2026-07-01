@@ -1,5 +1,5 @@
 ---
-title: "[[Richard III]] — Act V, Scene 8 — exchange ([[Queen Elizabeth|QUEEN ELIZABETH]]) [6]"
+title: "Richard III — Act V, Scene 8 — exchange (QUEEN ELIZABETH) [6]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/richard-iii-(shakespeare)"

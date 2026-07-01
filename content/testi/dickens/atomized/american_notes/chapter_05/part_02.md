@@ -48,7 +48,7 @@ myself unconsciously wondering where it came from: never supposing for an
 instant that it could have been born in such a young town as that.
 
 There are several factories in Lowell, each of which belongs to what we
-should term a Company of Proprietors, but what they call in [[America]] a
+should term a Company of Proprietors, but what they call in [[america|America]] a
 Corporation.  I went over several of these; such as a woollen factory, a
 carpet factory, and a cotton factory: examined them in every part; and
 saw them in their ordinary working aspect, with no preparation of any

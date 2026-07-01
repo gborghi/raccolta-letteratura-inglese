@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 28 (part 2)"
+title: "Great Expectations — Chapter 28 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_28/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_29/part_01">part 01 ›</a></div>
 </nav>
 
+
+“And don’t blame _me_,” growled the convict I had recognised. “_I_
+don’t want to go. _I_ am quite ready to stay behind. As fur as I am
+concerned any one’s welcome to _my_ place.”
 
 “Or mine,” said the other, gruffly. “_I_ wouldn’t have incommoded none
 of you, if I’d had _my_ way.” Then they both laughed, and began

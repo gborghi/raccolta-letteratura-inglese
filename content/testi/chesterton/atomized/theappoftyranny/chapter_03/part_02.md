@@ -1,5 +1,5 @@
 ---
-title: "[[TheAppOfTyranny]] — Chapter 2 (part 2)"
+title: "TheAppOfTyranny — Chapter 2 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/theappoftyranny-(chesterton)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/theappoftyranny/chapter_03/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/theappoftyranny/chapter_03/part_03">part 03 ›</a></div>
 </nav>
 
+
+redeeming points of interest on an otherwise somewhat unenlightening
+
+countenance. The duel may be defended; the sham duel may be defended.
 
 What cannot be defended is something really peculiar to Prussia, of which
 
@@ -50,8 +54,6 @@ different in German. It seems to mean something more like what we should
 
 call "prestige."
 
-
-
 The fundamental fact, however, is the absence of the reciprocal idea. The
 
 Prussian is not sufficiently civilised for the duel. Even when he crosses
@@ -77,8 +79,6 @@ national boundaries, the view of military methods, the view of personal
 simplicity; something too simple for us to understand: the idea that glory
 
 consists in holding the steel, and not in facing it.
-
-
 
 If further examples were necessary, it would be easy to give hundreds of
 
@@ -134,8 +134,6 @@ the husband. In fact, it often is. The [[Sword|sword]] and the whip are the weap
 
 of a privileged caste.
 
-
-
 Pass from the closest of all differences, that between husband and wife, to
 
 the most distant of all differences, that of the remote and unrelated races
@@ -175,13 +173,3 @@ Tartars to the Far East, within such [[Time|time]] as it may take a bewildered
 Hanoverian to turn into a Tartar. Any one who has the painful habit of
 
 personal thought, will perceive here at once the non-reciprocal principle
-
-again. Boiled down to its bones of [[logic]], it means simply this: "I am a
-
-German and you are a Chinaman. Therefore I, being a German, have a right
-
-to be a Chinaman. But you have no right to be a Chinaman; because you are
-
-only a Chinaman." This is probably the highest point to which the German
-
-culture has risen.

@@ -1,5 +1,5 @@
 ---
-title: "The Man Who Knew Too Much — The Temple of [[Silence]] (part 6)"
+title: "The Man Who Knew Too Much — The Temple of Silence (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/the-man-who-knew-too-much-(chesterton)"
@@ -13,6 +13,33 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_07_the_temple_of_silence/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_07_the_temple_of_silence/part_07">part 07 ›</a></div>
 </nav>
 
+
+you will try to land me in jail."
+"There are preliminary difficulties," replied Fisher. "To begin
+
+with, the mistake is flattering, but I am not a gamekeeper. Still
+
+less am I three gamekeepers, who would be, I imagine, about your
+
+fighting weight. But I confess I have another reason for not wanting
+
+to jail you."
+"And what is that?" asked the other.
+"Only that I quite agree with you," answered Fisher. "I don't
+
+exactly say you have a right to poach, but I never could see that it
+
+was as wrong as being a thief. It seems to me against the whole
+
+normal notion of property that a man should own something because it
+
+flies across his [[Garden|garden]]. He might as [[Well|well]] own the [[Wind|wind]], or think he
+
+could write his name on a morning cloud. Besides, if we want poor
+
+people to respect property we must give them some property to
+
+respect. You ought to have land of your own; and I'm going to give
 
 you some if I can."
 "Going to give me some land!" repeated Long Adam.
@@ -164,29 +191,3 @@ his fair mustache and the lie of his flat hair—it suddenly revealed
 that his name was Franz Werner.
 "You are Mr. Horne Fisher," he said. "Won't you sit down?"
 "No, thank you," replied Fisher. "I [[Fear|fear]] this is not a friendly
-
-occasion, and I shall remain standing. Possibly you know that I am
-
-already standing—standing for Parliament, in fact—"
-"I am aware we are political opponents," replied Verner, raising his
-
-eyebrows. "But I think it would be better if we fought in a sporting
-
-spirit; in a spirit of English fair play."
-"Much better," assented Fisher. "It would be much better if you
-
-were English and very much better if you had ever played fair. But
-
-what I've come to say can be said very shortly. I don't quite know
-
-how we stand with the law about that old Hawker story, but my chief
-
-object is to prevent England being entirely ruled by people like
-
-you. So whatever the law would say, I will say no more if you will
-
-retire from the election at once."
-"You are evidently a lunatic," said Verner.
-"My psychology may be a little abnormal," replied Horne Fisher, in a
-
-rather hazy manner. "I am subject to [[Dreams|dreams]], especially day-[[Dreams|dreams]].

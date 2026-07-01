@@ -1,5 +1,5 @@
 ---
-title: "[[Some Words with a Mummy]] (part 1)"
+title: "Some Words with a Mummy (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/some-words-with-a-mummy-(poe)"
@@ -63,7 +63,7 @@ to-[[Night|night]].
       with much impatience; the Mummy was extended upon the dining-table; and
       the moment I entered its examination was commenced.
 
-      It was one of a pair brought, several years previously, by Captain [[arthur|Arthur]]
+      It was one of a pair brought, several years previously, by Captain [[Arthur]]
       Sabretash, a cousin of Ponnonner’s from a tomb near Eleithias, in
       the Lybian [[Mountains|mountains]], a considerable distance above Thebes on the Nile.
       The grottoes at this point, although less magnificent than the Theban

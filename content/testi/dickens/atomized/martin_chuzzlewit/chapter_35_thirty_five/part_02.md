@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 35: THIRTY FIVE (part 2)"
+title: "Martin Chuzzlewit — Chapter 35: THIRTY FIVE (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_35_thirty_five/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_35_thirty_five/part_03">part 03 ›</a></div>
 </nav>
 
+
+As Mr Pecksniff passed, a person coming in the opposite direction
+stopped to look after him with great interest and respect, almost with
+veneration; and the landlord bouncing out of the [[house]], as if he had
+seen him too, joined this person, and spoke to him, and shook his head
+gravely, and looked after Mr Pecksniff likewise.
 
 Martin and Mark sat staring at each other, as if they could not believe
 it; but there stood the landlord, and the other man still. In spite of
@@ -134,10 +140,3 @@ was in Latin; not in English; that would never do. It gave great
 satisfaction; especially every [[Time|time]] there was a good long substantive
 in the third declension, ablative case, with an adjective to match; at
 which periods the assembly became very tender, and were much affected.
-
-And now the stone was lowered down into its place, amidst the shouting
-of the concourse. When it was firmly fixed, the member for the
-Gentlemanly Interest struck upon it thrice with the handle of the
-trowel, as if inquiring, with a touch of [[Humour|humour]], whether anybody was at
-[[Home|home]]. Mr Pecksniff then unrolled his Plans (prodigious plans they were),
-and people gathered round to look at and admire them.

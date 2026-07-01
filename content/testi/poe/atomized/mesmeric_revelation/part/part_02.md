@@ -1,5 +1,5 @@
 ---
-title: "[[Mesmeric Revelation]] (part 2)"
+title: "Mesmeric Revelation (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/mesmeric-revelation-(poe)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/mesmeric_revelation/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/mesmeric_revelation/part/part_03">part 03 ›</a></div>
 </nav>
 
+
+      _P._ Are you asleep?
+
+      _V._ Yes—no; I would rather [[Sleep|sleep]] more soundly.
+
+      _P._ [_After a few more passes._] Do you [[Sleep|sleep]] now?
+
+      _V._ Yes.
+
+      _P._ How do you think your present illness will result?
+
+      _V._ [_After a long hesitation and speaking as if with effort_.]
+      I must die.
 
       _P._ Does the idea of [[Death|death]] afflict you?
 

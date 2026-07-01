@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 37 (part 5)"
+title: "Villette — Chapter 37 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,30 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_39/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_40/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Sir, I cannot repent.”
+
+“Repent! Not you! You triumph, no [[Doubt|doubt]]: John Graham, you descended
+partly from a Highlander and a chief, and there is a trace of the Celt
+in all you look, speak, and think. You have his cunning and his charm.
+The red—([[Well]] then, Polly, the _fair_) hair, the tongue of guile, and
+brain of wile, are all come down by inheritance.”
+
+“Sir, I _feel_ honest enough,” said Graham; and a genuine English blush
+covered his face with its warm witness of sincerity. “And yet,” he
+added, “I won’t deny that in some respects you accuse me justly. In
+your presence I have always had a thought which I dared not show you. I
+did truly regard you as the possessor of the most valuable thing the
+world owns for me. I wished for it: I tried for it. Sir, I ask for it
+now.”
+
+“John, you ask much.”
+
+“Very much, sir. It must come from your generosity, as a gift; from
+your justice, as a reward. I can never earn it.”
+
+“Ay! Listen to the Highland tongue!” said Mr. [[Home]]. “Look up, Polly!
+Answer this ‘braw wooer;’ send him away!”
 
 She looked up. She shyly glanced at her eager, handsome suitor. She
 gazed tenderly on her furrowed sire.

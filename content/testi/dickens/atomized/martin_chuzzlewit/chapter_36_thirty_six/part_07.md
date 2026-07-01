@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 36: THIRTY SIX (part 7)"
+title: "Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,46 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_36_thirty_six/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_36_thirty_six/part_08">part 08 ›</a></div>
 </nav>
 
+
+‘Sophia! Hold your tongue!’ observed the gentleman. ‘Sit down, if you
+please,’ addressing Tom.
+
+Tom sat down, looking from one face to another, in mute surprise.
+
+‘Remain here, if you please, Miss Pinch,’ pursued the gentleman, looking
+slightly over his shoulder.
+
+Tom interrupted him here, by rising to place a chair for his sister.
+Having done which he sat down again.
+
+‘I am glad you chance to have called to see your sister to-day, sir,’
+resumed the brass-and-copper founder. ‘For although I do not approve, as
+a principle, of any young person engaged in my family in the capacity
+of a governess, receiving visitors, it happens in this case to be [[Well|well]]
+timed. I am sorry to inform you that we are not at all satisfied with
+your sister.’
+
+‘We are very much DISsatisfied with her,’ observed the lady.
+
+‘I’d never say another lesson to Miss Pinch if I was to be beat to [[Death|death]]
+for it!’ sobbed the pupil.
+
+‘Sophia!’ cried her father. ‘Hold your tongue!’
+
+‘Will you allow me to inquire what your ground of dissatisfaction is?’
+asked Tom.
+
+‘Yes,’ said the gentleman, ‘I will. I don’t recognize it as a right;
+but I will. Your sister has not the slightest innate power of commanding
+respect. It has been a constant source of difference between us.
+Although she has been in this family for some [[Time|time]], and although the
+young lady who is now present has almost, as it were, grown up under
+her tuition, that young lady has no respect for her. Miss Pinch has
+been perfectly unable to command my daughter’s respect, or to win my
+daughter’s confidence. Now,’ said the gentleman, allowing the palm of
+his hand to fall gravely down upon the table: ‘I maintain that there is
+something radically wrong in that! You, as her brother, may be disposed
+to deny it--’
 
 ‘I beg your pardon, sir,’ said Tom. ‘I am not at all disposed to
 deny it. I am sure that there is something radically wrong; radically
@@ -97,40 +137,3 @@ to command respect, as any hirer of a governess you know. But when you
 place her at a disadvantage in reference to every servant in your [[house]],
 how can you suppose, if you have the gift of common sense, that she is
 not in a tenfold worse position in reference to your daughters?’
-
-‘Pretty [[Well|well]]! Upon my word,’ exclaimed the gentleman, ‘this is pretty
-[[Well|well]]!’
-
-‘It is very ill, sir,’ said Tom. ‘It is very bad and mean, and wrong and
-cruel. Respect! I believe young people are quick enough to observe and
-imitate; and why or how should they respect whom no one else respects,
-and everybody slights? And very partial they must grow--oh, very
-partial!--to their studies, when they see to what a pass proficiency in
-those same tasks has brought their governess! Respect! Put anything the
-most deserving of respect before your daughters in the light in which
-you place her, and you will bring it down as low, no matter what it is!’
-
-‘You speak with extreme impertinence, young man,’ observed the
-gentleman.
-
-‘I speak without passion, but with extreme indignation and contempt
-for such a course of treatment, and for all who practice it,’ said
-Tom. ‘Why, how can you, as an honest gentleman, profess displeasure or
-surprise at your daughter telling my sister she is something beggarly
-and humble, when you are for ever telling her the same thing yourself in
-fifty plain, outspeaking ways, though not in words; and when your very
-porter and footman make the same delicate announcement to all comers? As
-to your suspicion and distrust of her; even of her word; if she is not
-above their reach, you have no right to employ her.’
-
-‘No right!’ cried the brass-and-copper founder.
-
-‘Distinctly not,’ Tom answered. ‘If you imagine that the payment of an
-annual sum of money gives it to you, you immensely exaggerate its power
-and value. Your money is the least part of your bargain in such a case.
-You may be punctual in that to half a second on the [[Clock|clock]], and yet
-be Bankrupt. I have nothing more to say,’ said Tom, much flushed and
-flustered, now that it was over, ‘except to crave permission to stand in
-your [[Garden|garden]] until my sister is ready.’
-
-Not waiting to obtain it, Tom walked out.

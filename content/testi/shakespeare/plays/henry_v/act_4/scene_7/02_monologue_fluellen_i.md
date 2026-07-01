@@ -1,5 +1,5 @@
 ---
-title: "[[Henry V]] — Act IV, Scene 7 — monologue ([[Fluellen|FLUELLEN]] I) [2]"
+title: "Henry V — Act IV, Scene 7 — monologue (FLUELLEN I) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/henry-v-(shakespeare)"

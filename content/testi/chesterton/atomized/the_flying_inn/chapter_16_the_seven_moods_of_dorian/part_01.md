@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_15_the_songs_of_the_car_club/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_16_the_seven_moods_of_dorian/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_15_the_songs_songs_of_the_car_clu/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_16_the_seven_moods_of_dorian/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -63,8 +63,3 @@ The ass rubbed his nose against him with what seemed almost like a human caress.
 
 
 But the [[donkey]] had reconciled him to the landscape, and in his third mood he began to realise how beautiful it was. On a second study, he was not sure it was so inhuman. Rather he felt that its [[Beauty|beauty]] at least was half human; that the aureole of the sinking [[Moon|moon]] behind the woods was chiefly lovely because it was like the tender-coloured aureole of an early saint; and that the young trees were, after all, noble because they held up their heads like virgins. Cloudily there crowded into his mind ideas with which it was imperfectly familiar, especially an idea which he had heard called “The Image of God.” It seemed to him more and more that all these things, from the [[donkey]] to the very docks and ferns by the roadside, were dignified and sanctified by their partial resemblance to something else. It was as if they were baby drawings: the wild, crude sketches of [[Nature]] in her first [[Sketch|sketch]]-books of stone.
-
-
-
-
-He had flung himself on a pile of pine-needles to enjoy the gathering darkness of the pinewoods as the [[Moon|moon]] sank behind them. There is nothing more deep and wonderful than really impenetrable pinewoods where the nearer trees show against the more shadowy; a tracery of silver upon grey and of grey upon black.

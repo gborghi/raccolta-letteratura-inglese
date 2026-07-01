@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 57 (part 5)"
+title: "Bleak House — Chapter 57 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,8 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_57/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_57/part_06">part 06 ›</a></div>
 </nav>
 
+
+The other man repeated, “That’s all about it.”
 
 “Was the lady crying?” I inquired.
 
@@ -143,15 +145,3 @@ of the country neither.”
 
 “I know so little,” said I. “There may be some one else nearer here,
 of whom I never heard.”
-
-“That’s true. But whatever you do, don’t you fall a-crying, my dear;
-and don’t you worry yourself no more than you can help. Get on, my
-lad!”
-
-The sleet fell all that day unceasingly, a thick mist came on early,
-and it never [[Rose|rose]] or lightened for a moment. Such roads I had never
-seen. I sometimes feared we had missed the way and got into the
-ploughed grounds or the marshes. If I ever thought of the [[Time|time]] I had
-been out, it presented itself as an indefinite period of great
-duration, and I seemed, in a strange way, never to have been free
-from the anxiety under which I then laboured.

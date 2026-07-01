@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 20"
+title: "The Professor — Chapter 20"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-professor-(bronte)"
@@ -15,8 +15,6 @@ tags:
 
 
 CHAPTER XX.
-
-
 
 A COMPETENCY was what I wanted; a competency it was now my aim and
 
@@ -41,8 +39,6 @@ voluntarily cut off 20l. from my yearly income; I had diminished my 60l.
 per annum to 40l., and even that sum I now held by a very precarious
 
 tenure.
-
-
 
 It is some [[Time|time]] since I made any reference to M. Pelet. The moonlight
 
@@ -114,8 +110,6 @@ mistrust of the hand which I had detected attempting to stab in the
 
 dark.
 
-
-
 This state of things continued till about the middle of July, and then
 
 there was a little change; Pelet came [[Home|home]] one [[Night|night]], an hour after his
@@ -166,8 +160,6 @@ about, his eyes in a fine frenzy [[rolling]]--a pretty sight he was, a just
 
 medium between the [[Fool|fool]] and the lunatic.
 
-
-
 “Come, M. Pelet,” said I, “you had better go to bed,” and I took hold of
 
 his arm. His excitement, of course, increased greatly at sight and touch
@@ -203,8 +195,6 @@ I retired to my own room, assured of his safe custody till the morning,
 and free to draw undisturbed conclusions from the scene I had just
 
 witnessed.
-
-
 
 Now, it was precisely about this [[Time|time]] that the directress, stung by
 
@@ -298,13 +288,9 @@ rebuked it. My indifference or harshness served equally to increase the
 
 evil I desired to check.
 
-
-
 “Que le dedain lui sied bien!” I once overheard her say to her mother:
 
 “il est beau comme Apollon quand il sourit de son air hautain.”
-
-
 
 And the jolly old dame laughed, and said she thought her daughter was
 
@@ -314,8 +300,6 @@ straight and without deformity. “Pour moi,” she continued, “il me fait
 
 tout l’effet d’un chat-huant, avec ses besicles.”
 
-
-
 Worthy old girl! I could have gone and kissed her had she not been a
 
 little too old, too fat, and too red-faced; her sensible, truthful
@@ -323,8 +307,6 @@ little too old, too fat, and too red-faced; her sensible, truthful
 words seemed so wholesome, contrasted with the morbid illusions of her
 
 daughter.
-
-
 
 When Pelet awoke on the morning after his frenzy fit, he retained no
 
@@ -384,8 +366,6 @@ rover and the [[Rebel|rebel]] out of me, and had shown [[Endurance|endurance]] o
 
 in the light of a Spartan virtue.
 
-
-
 But Pelet’s fury subsided; a fortnight sufficed for its rise, progress,
 
 and extinction: in that space of [[Time|time]] the dismissal of the obnoxious
@@ -436,8 +416,6 @@ husbands of his acquaintance; I perceived it would not now be difficult
 
 to pay him back in his own coin.
 
-
-
 The crisis drew on. No sooner had the holidays commenced than note of
 
 preparation for some momentous event sounded all through the premises
@@ -457,8 +435,6 @@ use, I concluded, in common with the cook, the two housemaids, and the
 kitchen-scullion, that a new and more juvenile Madame was destined to be
 
 the tenant of these gay chambers.
-
-
 
 Presently official announcement of the coming event was put forth. In
 
@@ -500,8 +476,6 @@ Opportunity would be too strong for either of these--[[Temptation]] would
 
 shiver their restraints.
 
-
-
 I was no pope--I could not boast infallibility: in short, if I stayed,
 
 the probability was that, in three months’ [[Time|time]], a practical modern
@@ -537,8 +511,6 @@ unlawful pleasure, trenching on another’s rights, is delusive and
 envenomed pleasure--its hollowness disappoints at the [[Time|time]], its [[Poison|poison]]
 
 cruelly tortures afterwards, its effects deprave for ever.
-
-
 
 From all this resulted the conclusion that I must leave Pelet’s, and
 

@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/the-old-curiosity-shop-(dickens)">The Old Curiosity Shop</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_old_curiosity_shop/chapter_29/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/the_old_curiosity_shop/chapter_31/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_old_curiosity_shop/chapter_30/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/the_old_curiosity_shop/chapter_31/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -125,7 +125,3 @@ come of it.  And so they took it out of thy room, when thou wert
 asleep!’ he added in a compassionate tone, very different from the
 secret, cunning way in which he had spoken until now.  ‘Poor Nell, poor
 [[Little Nell|little Nell]]!’
-
-The [[Child|child]] hung down her head and wept.  The sympathising tone in which
-he spoke, was quite sincere; she was sure of that.  It was not the
-lightest part of her sorrow to know that this was done for her.

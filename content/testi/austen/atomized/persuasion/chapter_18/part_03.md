@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 18 (part 3)"
+title: "Persuasion — Chapter 18 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_18/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_18/part_04">part 04 ›</a></div>
 </nav>
 
+
+The Crofts had placed themselves in lodgings in Gay Street, perfectly
+
+to Sir Walter’s satisfaction. He was not at all ashamed of the
+
+acquaintance, and did, in fact, think and talk a great deal more about
+
+the Admiral, than the Admiral ever thought or talked about him.
+
+
+
+The Crofts knew quite as many people in Bath as they wished for, and
 
 considered their intercourse with the Elliots as a mere matter of form,
 
@@ -193,17 +205,3 @@ did; but now she could safely suggest the name of “Louisa.”
 
 
 “Ay, ay, Miss Louisa Musgrove, that is the name. I wish young ladies
-
-had not such a number of fine Christian names. I should never be out if
-
-they were all Sophys, or something of that sort. [[Well]], this Miss
-
-Louisa, we all thought, you know, was to marry Frederick. He was
-
-courting her week after week. The only [[Wonder|wonder]] was, what they could be
-
-waiting for, till the business at Lyme came; then, indeed, it was clear
-
-enough that they must wait till her brain was set to right. But even
-
-then there was something odd in their way of going on. Instead of

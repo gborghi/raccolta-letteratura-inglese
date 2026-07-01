@@ -1,5 +1,5 @@
 ---
-title: "ALL’S [[Well|WELL]] THAT ENDS [[Well|WELL]]"
+title: "ALL’S WELL THAT ENDS WELL"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/all’s-well-that-ends-well-(shakespeare)"

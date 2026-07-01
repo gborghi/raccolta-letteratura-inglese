@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 19 (part 1)"
+title: "The Professor — Chapter 19 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -15,8 +15,6 @@ tags:
 
 
 CHAPTER XIX.
-
-
 
 NOVELISTS should never allow themselves to weary of the study of real
 
@@ -40,7 +38,7 @@ for enjoyment; then, truly, we may find ourselves without support,
 
 robbed of [[Hope|hope]]. Our agony is great, and how can it end? We have broken
 
-the [[spring]] of our powers; life must be all [[Suffering|suffering]]--too feeble to
+the [[Spring|spring]] of our powers; life must be all [[Suffering|suffering]]--too feeble to
 
 conceive [[Faith|faith]]--[[Death|death]] must be darkness--God, spirits, religion can have
 
@@ -53,8 +51,6 @@ and dissolution flings us in--a rag eaten through and through with
 disease, wrung together with [[Pain|pain]], stamped into the churchyard sod by
 
 the inexorable heel of [[Despair|despair]].
-
-
 
 But the man of regular life and rational mind never despairs. He loses
 
@@ -98,8 +94,6 @@ duties of life; and, though sadness may never lift her burden from his
 
 mind, [[Hope]] will enable him to support it.
 
-
-
 [[Well]]--and what suggested all this? and what is the inference to be drawn
 
 therefrom? What suggested it, is the circumstance of my best pupil--my
@@ -128,8 +122,6 @@ nurslings, and allowed vent to their language of murmurs; then, in
 
 their long, midnight cry.
 
-
-
 A week passed. I had said nothing more to Mdlle. Reuter. I had been calm
 
 in my demeanour to her, though stony cold and hard. When I looked at
@@ -148,13 +140,9 @@ the same tranquil tone and manner that I should have used had I put the
 
 question for the first [[Time|time]]--
 
-
-
 “Mademoiselle, will you have the goodness to give me the address of
 
 Frances Evans Henri?”
-
-
 
 A little surprised, but not disconcerted, she smilingly disclaimed any
 
@@ -162,13 +150,9 @@ knowledge of that address, adding, “Monsieur has perhaps forgotten that
 
 I explained all about that circumstance before--a week ago?”
 
-
-
 “Mademoiselle,” I continued, “you would greatly oblige me by directing
 
 me to that young person’s abode.”
-
-
 
 She seemed somewhat puzzled; and, at last, looking up with an admirably
 
@@ -176,17 +160,11 @@ counterfeited air of naivete, she demanded, “Does Monsieur think I am
 
 telling an untruth?”
 
-
-
 Still avoiding to give her a direct answer, I said, “It is not then your
 
 intention, mademoiselle, to oblige me in this particular?”
 
-
-
 “But, monsieur, how can I tell you what I do not know?”
-
-
 
 “Very [[Well|well]]; I understand you perfectly, mademoiselle, and now I have
 
@@ -200,13 +178,9 @@ English master--at the close of August, I shall be under the necessity
 
 of resigning my post in your establishment.”
 
-
-
 I did not wait for her comments on this announcement, but bowed and
 
 immediately withdrew.
-
-
 
 That same evening, soon after dinner, a servant brought me a small
 
@@ -215,17 +189,3 @@ packet; it was directed in a hand I knew, but had not hoped so soon to
 see again; being in my own apartment and [[Alone|alone]], there was nothing to
 
 prevent my immediately opening it; it contained four five-franc pieces,
-
-and a note in English.
-
-
-
-“MONSIEUR,
-
-
-
-“I came to Mdlle. Reuter’s [[house]] yesterday, at the [[Time|time]] when I knew you
-
-would be just about finishing your lesson, and I asked if I might go
-
-into the schoolroom and speak to you. Mdlle. Reuter came out and said

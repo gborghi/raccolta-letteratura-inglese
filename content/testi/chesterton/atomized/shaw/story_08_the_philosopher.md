@@ -1,5 +1,5 @@
 ---
-title: "[[Shaw]] — THE PHILOSOPHER"
+title: "Shaw — THE PHILOSOPHER"
 author: "Chesterton"
 unitType: story
 parentWork: "works/shaw-(chesterton)"
@@ -479,7 +479,7 @@ of animation, to the thing which is common to him and the [[Birds|birds]]
 and plants.  Man should have the blind [[Faith|faith]] of a beast:
 he should be as mystically immutable as a cow, and as deaf
 to sophistries as a fish.  [[Shaw]] does not wish him to be a
-philosopher or an [[Artist|artist]]; he does not even wish him to be a man,
+philosopher or an [[artist]]; he does not even wish him to be a man,
 so much as he wishes him to be, in this holy sense, an animal.
 He must follow the [[Flag|flag]] of life as fiercely from conviction
 as all other creatures follow it from instinct.
@@ -967,7 +967,7 @@ serious quality is as full as any of his minor sort of [[success]].
 In a more solid sense two important facts stand out:  the first is
 the character of the young American; the other is the character
 of Straker, the chauffeur.  In these [[Shaw]] has realised and made vivid
-two most important facts.  First, that [[America]] is not intellectually
+two most important facts.  First, that [[america|America]] is not intellectually
 a go-ahead country, but both for good and evil an old-fashioned one.
 It is full of stale culture and ancestral simplicity, just as [[Shaw]]'s
 young millionaire quotes Macaulay and piously worships his wife.
@@ -1025,7 +1025,7 @@ and sometimes before.  Moreover, this particular problem
 (though [[Shaw]] is certainly, as we shall see, nearer to pure
 [[Doubt|doubt]] about it than about anything else) does not strike
 the critic as being such an exasperating problem after all.
-An [[Artist|artist]] of vast power and promise, who is also a scamp
+An [[artist]] of vast power and promise, who is also a scamp
 of vast profligacy and treachery, has a chance of life if
 specially treated for a special disease.  The modern doctors
 (and even the modern dramatist) are in [[Doubt|doubt]] whether he should
@@ -1063,7 +1063,7 @@ thing everywhere else, was quite unsalable in the theatrical world.
 In spite of this he had conquered by his wit and his good dialogue;
 and by the [[Time|time]] of which we now speak he was victorious and secure.
 All his plays were being produced as a matter of course in England
-and as a matter of the fiercest fashion and enthusiasm in [[America]]
+and as a matter of the fiercest fashion and enthusiasm in [[america|America]]
 and [[Germany]].  No one who knows the [[Nature|nature]] of the man will [[Doubt|doubt]]
 that under such circumstances his first act would be to produce
 his wit naked and unashamed.  He had been told that he could not
@@ -1329,7 +1329,7 @@ he has definitely done harm.  He has much influence among the young men;
 but it is not an influence in the direction of keeping them young.
 One cannot imagine him inspiring any of his followers to write
 a war-[[Song|song]] or a drinking-[[Song|song]] or a [[Love|love]]-[[Song|song]], the three forms
-of human utterance which come next in nobility to a [[Prayer|prayer]].
+of human utterance which come next in nobility to a [[prayer]].
 It may seem odd to say that the net effect of a man so apparently
 impudent will be to make men shy.  But it is certainly the [[Truth|truth]].
 Shyness is always the sign of a divided [[Soul|soul]]; a man is shy because
@@ -1361,7 +1361,7 @@ that most men are against a thing is thought to be in its favour;
 it is vaguely supposed to show that some day most men will be for it.
 If a man says that cows are reptiles, or that Bacon wrote Shakespeare,
 he can always quote the contempt of his contemporaries as in some
-mysterious way proving the complete [[Conversion|conversion]] of posterity.
+mysterious way proving the complete [[conversion]] of posterity.
 The objections to this theory scarcely need any elaborate indication.
 The final objection to it is that it amounts to this:
 say anything, however idiotic, and you are in advance of your age.
@@ -1627,7 +1627,7 @@ In this great sense [[Shaw]] has brought [[philosophy]] back into drama--
 This is not a [[Freedom|freedom]] to think what one likes (which is absurd,
 for one can only think what one thinks); it is a [[Freedom|freedom]]
 to think about what one likes, which is quite a different
-thing and the [[Spring|spring]] of all thought.  Shakespeare (in a
+thing and the [[spring]] of all thought.  Shakespeare (in a
 weak moment, I think) said that all the world is a stage.
 But Shakespeare acted on the much finer principle that a stage
 is all the world.  So there are in all Bernard [[Shaw]]'s plays
@@ -1715,7 +1715,7 @@ actually turned into a [[Shaw]] idealist.  This is no exaggeration.
 I meet men who, when I knew them in 1898, were just a little too
 lazy to destroy the universe.  They are now conscious of not being
 quite worthy to abolish some [[Prison|prison]] regulations.  This destruction
-and [[Conversion|conversion]] seem to me the mark of something actually great.
+and [[conversion]] seem to me the mark of something actually great.
 It is always great to destroy a type without destroying a man.
 The followers of [[Shaw]] are optimists; some of them are so simple
 as even to use the word.  They are sometimes rather pallid optimists,

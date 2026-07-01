@@ -1,5 +1,5 @@
 ---
-title: "[[wifrb11]] — The Man in the Passage (part 4)"
+title: "wifrb11 — The Man in the Passage (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_05">part 05 ›</a></div>
 </nav>
 
+
+     "Looks a cannibal sort of chap, don't he?" said the constable
+confidentially to Cutler.
 
      Cutler made no answer, but said sharply a moment after:
 "We must attend to the...the [[Death|death]]..." and his voice escaped

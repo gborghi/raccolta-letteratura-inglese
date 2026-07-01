@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 24 (part 2)"
+title: "Villette — Chapter 24 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_24/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_24/part_03">part 03 ›</a></div>
 </nav>
 
+
+Reading there somewhat late one evening, and feeling that the power to
+read was leaving me—for the letters from incessant perusal were losing
+all sap and significance: my gold was withering to [[Leaves|leaves]] before my
+eyes, and I was sorrowing over the disillusion—suddenly a quick
+tripping foot ran up the stairs. I knew [[Ginevra Fanshawe]]’s step: she
+had dined in town that afternoon; she was now returned, and would come
+here to replace her shawl, &c. in the wardrobe.
 
 Yes: in she came, dressed in bright silk, with her shawl falling from
 her shoulders, and her curls, half-uncurled in the damp of [[Night|night]],
@@ -141,23 +149,3 @@ owned a terrific influence, making all [[Pain|pain]] more poignant, all sorrow
 sadder. The south could calm, the west sometimes cheer: unless, indeed,
 they brought on their wings the burden of thunder-clouds, under the
 weight and warmth of which all energy died.
-
-Bitter and dark as was this January day, I remember leaving the classe,
-and running down without bonnet to the [[Bottom|bottom]] of the long [[Garden|garden]], and
-then lingering amongst the stripped shrubs, in the forlorn [[Hope|hope]] that
-the postman’s ring might occur while I was out of hearing, and I might
-thus be spared the thrill which some particular nerve or nerves, almost
-gnawed through with the unremitting tooth of a fixed idea, were
-becoming wholly unfit to support. I lingered as long as I dared without
-[[Fear|fear]] of attracting attention by my absence. I muffled my head in my
-apron, and stopped my ears in terror of the torturing clang, sure to be
-followed by such blank [[Silence|silence]], such barren vacuum for me. At last I
-ventured to re-enter the first classe, where, as it was not yet nine
-o’[[Clock|clock]], no pupils had been admitted. The first thing seen was a white
-object on my black desk, a white, flat object. The post had, indeed,
-arrived; by me unheard. Rosine had visited my cell, and, like some
-angel, had left behind her a bright token of her presence. That shining
-thing on the desk was indeed a letter, a real letter; I saw so much at
-the distance of three yards, and as I had but one correspondent on
-earth, from that one it must come. He remembered me yet. How deep a
-pulse of gratitude sent new life through my heart.

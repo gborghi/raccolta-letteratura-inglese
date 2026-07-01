@@ -42,7 +42,7 @@ As for the more vulgar and universal fashions that have followed
 after the Celtic movement, they have left such trifles far behind.
 And they have been directed not by imaginative artists
 like Mr. Yeats or even Mr. Moore, but by solid scientific
-students like Sir William Crookes and Sir [[Arthur]] Conan Doyle.
+students like Sir William Crookes and Sir [[arthur|Arthur]] Conan Doyle.
 I find it easier to imagine an evil spirit agitating the legs
 of a pig than a good spirit agitating the legs of a table.
 But I will not here enter into the argument, since I am only

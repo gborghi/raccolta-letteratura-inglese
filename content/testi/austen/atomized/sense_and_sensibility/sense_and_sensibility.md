@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]]"
+title: "Sense and Sensibility"
 author: "Austen"
 unitType: work
 parentWork: "works/sense-and-sensibility-(austen)"

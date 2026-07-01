@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/spice-of-life-(chesterton)">Spice Of Life</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/spice_of_life/chapter_02_literature_in_general/part_08">‹ part 08</a><a class="ex-next" href="/testi/chesterton/atomized/spice_of_life/chapter_03_particular_books_and_writers/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/spice_of_life/chapter_02_literature_in_general/part_09">‹ part 09</a><a class="ex-next" href="/testi/chesterton/atomized/spice_of_life/chapter_03_particular_books_and_writers/part_02">part 02 ›</a></div>
 </nav>
 
 

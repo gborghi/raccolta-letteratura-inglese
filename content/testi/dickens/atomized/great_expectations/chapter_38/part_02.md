@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 38 (part 2)"
+title: "Great Expectations — Chapter 38 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,23 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_38/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_38/part_03">part 03 ›</a></div>
 </nav>
 
+
+I saw in this, wretched though it made me, and bitter the sense of
+dependence and even of degradation that it awakened,—I saw in this that
+[[Estella]] was set to wreak [[Miss Havisham]]’s [[Revenge|revenge]] on men, and that she
+was not to be given to me until she had gratified it for a term. I saw
+in this, a reason for her being beforehand assigned to me. Sending her
+out to attract and torment and do mischief, [[Miss Havisham]] sent her with
+the malicious assurance that she was beyond the reach of all admirers,
+and that all who staked upon that cast were secured to lose. I saw in
+this that I, too, was tormented by a perversion of ingenuity, even
+while the prize was reserved for me. I saw in this the reason for my
+being staved off so long and the reason for my late guardian’s
+declining to commit himself to the formal knowledge of such a scheme.
+In a word, I saw in this [[Miss Havisham]] as I had her then and there
+before my eyes, and always had had her before my eyes; and I saw in
+this, the distinct [[Shadow|shadow]] of the darkened and unhealthy [[house]] in which
+her life was hidden from the sun.
 
 The candles that lighted that room of hers were placed in sconces on
 the wall. They were high from the ground, and they burnt with the
@@ -114,37 +131,3 @@ you excluded? Be just to me.”
 
 “So proud, so proud!” moaned [[Miss Havisham]], pushing away her grey hair
 with both her hands.
-
-“Who taught me to be proud?” returned [[Estella]]. “Who praised me when I
-learnt my lesson?”
-
-“So hard, so hard!” moaned [[Miss Havisham]], with her former action.
-
-“Who taught me to be hard?” returned [[Estella]]. “Who praised me when I
-learnt my lesson?”
-
-“But to be proud and hard to _me_!” [[Miss Havisham]] quite shrieked, as
-she stretched out her arms. “[[Estella]], [[Estella]], [[Estella]], to be proud and
-hard to _me_!”
-
-[[Estella]] looked at her for a moment with a kind of calm [[Wonder|wonder]], but was
-not otherwise disturbed; when the moment was past, she looked down at
-the [[Fire|fire]] again.
-
-“I cannot think,” said [[Estella]], raising her eyes after a [[Silence|silence]] “why
-you should be so unreasonable when I come to see you after a
-separation. I have never forgotten your wrongs and their causes. I have
-never been unfaithful to you or your schooling. I have never shown any
-weakness that I can charge myself with.”
-
-“Would it be weakness to return my [[Love|love]]?” exclaimed [[Miss Havisham]]. “But
-yes, yes, she would call it so!”
-
-“I begin to think,” said [[Estella]], in a musing way, after another moment
-of calm [[Wonder|wonder]], “that I almost understand how this comes about. If you
-had brought up your adopted daughter wholly in the dark confinement of
-these rooms, and had never let her know that there was such a thing as
-the daylight by which she had never once seen your face,—if you had
-done that, and then, for a purpose had wanted her to understand the
-daylight and know all about it, you would have been disappointed and
-angry?”

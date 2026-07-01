@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 6 (part 6)"
+title: "Bleak House — Chapter 6 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_06/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_06/part_07">part 07 ›</a></div>
 </nav>
 
+
+“Oh, yes!” returned Mr. Skimpole, smiling. “Though I forgot how much
+it was and when it was. Jarndyce would readily do it again, but I
+have the epicure-like feeling that I would prefer a novelty in help,
+that I would rather,” and he looked at [[Richard]] and me, “develop
+generosity in a new soil and in a new form of flower.”
 
 “What do you think will be best, Miss Summerson?” said [[Richard]],
 aside.
@@ -137,22 +143,3 @@ renouncing the idea was of that intense kind that he could only give
 adequate expression to it by putting a long interval between each
 word, and accompanying the last with a jerk that might have
 dislocated his neck.
-
-“Very odd and very curious, the mental process is, in you men of
-business!” said Mr. Skimpole thoughtfully. “Thank you, my friend.
-Good [[Night|night]].”
-
-As our absence had been long enough already to seem strange
-downstairs, I returned at once and found Ada sitting at work by the
-fireside talking to her cousin John. Mr. Skimpole presently appeared,
-and [[Richard]] shortly after him. I was sufficiently engaged during the
-remainder of the evening in taking my first lesson in backgammon from
-Mr. Jarndyce, who was very fond of the game and from whom I wished of
-course to learn it as quickly as I could in order that I might be of
-the very small use of being able to play when he had no better
-adversary. But I thought, occasionally, when Mr. Skimpole played some
-fragments of his own compositions or when, both at the piano and the
-violoncello, and at our table, he preserved with an absence of all
-effort his delightful spirits and his easy flow of conversation, that
-[[Richard]] and I seemed to retain the transferred impression of having
-been arrested since dinner and that it was very curious altogether.

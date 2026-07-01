@@ -10,9 +10,23 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/twelve-types-(chesterton)">Twelve Types</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/twelve_types/story_08_thomas_carlyle/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/twelve_types/story_09_tolstoy_and_the_cult_of_simplicity/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/twelve_types/story_08_thomas_carlyle/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/twelve_types/story_09_tolstoy_tolstoy_and_the_cult_of_simplici/part_01">part 01 ›</a></div>
 </nav>
 
+
+pessimist of to-day to prove that sunshine and a good supper convulse
+
+him with inconsolable anguish. Carlyle was strongly possessed with this
+
+mania for spiritual consistency. He wished to take the same view of the
+
+wars of the angels and of the paltriest riot at Donnybrook Fair. It was
+
+this species of insane [[logic]] which led him into his chief errors, never
+
+his natural enthusiasms. Let us take an example. Carlyle's defence of
+
+[[Slavery|slavery]] is a thoroughly ridiculous thing, weak alike in argument and in
 
 moral instinct. The [[Truth|truth]] is, that he only took it up from the passion
 
@@ -55,8 +69,6 @@ because we think that it is a curious example of the waste and unclean
 places into which that remarkable animal, 'the whole hog,' more than
 
 once led him.
-
-
 
 In this respect Carlyle has had unquestionably long and an
 

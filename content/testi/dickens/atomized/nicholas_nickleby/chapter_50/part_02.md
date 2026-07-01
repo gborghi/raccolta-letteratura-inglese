@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 50 (part 2)"
+title: "Nicholas Nickleby — Chapter 50 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -120,6 +120,3 @@ men to have forgotten that deuced unpleasant--by-the-bye--you know the
 rights of the affair, of course? Why did you never give those confounded
 papers the lie? I seldom read the papers, but I looked in the papers for
 that, and may I be--’
-
-‘Look in the papers,’ interrupted Sir Mulberry, turning suddenly round,
-‘tomorrow--no, next day, will you?’

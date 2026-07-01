@@ -14,6 +14,24 @@ tags:
 </nav>
 
 
+In her best novels there is real [[Humour|humour]], of a cool sparkling sort; there
+
+is a strong sense of substantial character that has not yet degenerated
+
+into psychology; there is a great deal of wisdom, chiefly about women;
+
+indeed there is almost every element of literature except a certain
+
+indescribable thing called _glamour_; which was the whole stock-in-trade
+
+of the Brontës, which we feel in Dickens when Quilp clambers amid rotten
+
+wood by the desolate [[River|river]]; and even in Thackeray when Esmond with his
+
+[[Melancholy|melancholy]] eyes wanders like some swarthy crow about the dismal avenues
+
+of Castlewood. Of this quality (which some have called, but hastily, the
+
 essential of literature) George Eliot had not little but nothing. Her
 
 air is bright and intellectually even exciting; but it is like the air
@@ -23,8 +41,6 @@ of a cloudless day on the parade at Brighton. She sees people clearly,
 but not through an atmosphere. And she can conjure up storms in the
 
 conscious, but not in the subconscious mind.
-
-
 
 It is true (though the idea should not be exaggerated) that this
 
@@ -74,8 +90,6 @@ later rivals; but I have always believed in the victory of small
 
 nationalities.
 
-
-
 The Brontës suggest themselves here; because their superficial
 
 qualities, the qualities that can be seized upon in [[Satire|satire]], were in this
@@ -113,8 +127,6 @@ not quite free from this air of studying something alien. The reply may
 be made that the women in men's novels are equally fallacious. The reply
 
 is probably just.
-
-
 
 What the Brontës really brought into fiction was exactly what Carlyle
 
@@ -169,29 +181,3 @@ really, in a narrow but intense way, a tradition of Emily Brontë: as
 there is a tradition of St. Peter or Dr. Johnson. People talk as if they
 
 had known her, apart from her works. She must have been something more
-
-than an original person; perhaps an origin. But so far as her written
-
-works go she enters English letters only as an original person--and
-
-rather a narrow one. Her [[Imagination|imagination]] was sometimes superhuman--always
-
-inhuman. _Wuthering Heights_ might have been written by an eagle. She is
-
-the strongest instance of these strong imaginations that made the other
-
-sex a [[Monster|monster]]: for Heathcliffe fails as a man as catastrophically as he
-
-succeeds as a demon. I think Emily Brontë was further narrowed by the
-
-broadness of her religious views; but never, of course, so much as
-
-George Eliot.
-
-
-
-In any case, it is Charlotte Brontë who enters Victorian literature. The
-
-shortest way of stating her strong contribution is, I think, this: that
-
-she reached the highest [[Romance|romance]] through the lowest realism. She did not

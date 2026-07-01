@@ -14,6 +14,16 @@ tags:
 </nav>
 
 
+For the purpose of the lecture was not wholly
+devoted to the great and awful Pig, and the purpose of
+the meeting even less.  Lord Ivywood, the white
+furnace of whose mind was always full of new fancies
+hardening into ambitions, wanted to have a [[debate]] on
+the diet of East and West, and felt that Misysra might
+very appropriately open with an account of the
+Moslem veto on pork or other coarse forms of flesh food.
+He reserved it to himself to speak second.
+
 The [[Prophet]] began, indeed, with some of his dizziest
 flights.  He informed the Company that they,
 the English, had always gone in hidden terror and
@@ -139,25 +149,3 @@ Joan perceived that the last phase of the picture,
 obscure and monstrous as it seemed, gave Ivywood exactly
 the opening he wanted.  Indeed, she felt, no [[Doubt|doubt]],
 that he had arranged for it beforehand.
-
-"It is within my [[Memory|memory]]," said Lord Ivywood,
-"though it need in no case have encumbered yours,
-that when it was my duty to precede the admired
-lecturer whom I now feel it a privilege even to follow, I
-submitted a suggestion which, however simple, would
-appear to many paradoxical.  I affirmed or implied the
-view that the religion of Mahomet was, in a peculiar
-sense, a religion of progress.  This is so contrary, not
-only to historical convention but to common platitude,
-that I shall find no ground either of surprise or censure
-if it takes a perceptible [[Time|time]] before it sinks into the
-mind of the English public.  But I think, ladies and
-gentlemen, that this period is notably abbreviated by
-the remarkable exposition which we have heard today.
-For this question of the attitude of [[Islam]] toward
-food affords as excellent an example of its special
-mode of progressive [[Purification|purification]] as the more popular
-example of its attitude toward drink.  For it illustrates
-that principle which I have ventured to call the
-principle of the Crescent: the principle of perpetual
-growth toward an implied and infinite perfection.

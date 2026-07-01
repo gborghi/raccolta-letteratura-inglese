@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 20 (part 5)"
+title: "Shirley — Chapter 20 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,52 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_20/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_21/part_01">part 01 ›</a></div>
 </nav>
 
+
+"There was not a single man hurt on our side," was the answer.
+
+
+
+"You were hurt yourself, on the temples," interposed a quick, low
+
+voice--that of Caroline, who, having withdrawn within the shade of the
+
+door, and behind the large person of Mrs. Gill, had till now escaped
+
+Moore's notice. When she spoke, his eye searched the obscurity of her
+
+retreat.
+
+
+
+"Are you much hurt?" she inquired.
+
+
+
+"As you might scratch your finger with a needle in sewing."
+
+
+
+"Lift your hair and let us see."
+
+
+
+He took his hat off, and did as he was bid, disclosing only a narrow
+
+slip of [[Court|court]]-plaster. Caroline indicated, by a slight movement of the
+
+head, that she was satisfied, and disappeared within the clear obscure
+
+of the interior.
+
+
+
+"How did she know I was hurt?" asked Moore.
+
+
+
+"By rumour, no [[Doubt|doubt]]. But it is too good in her to trouble herself about
+
+you. For my part, it was of your victims I was thinking when I inquired
 
 after the wounded. What damage have your opponents sustained?"
 

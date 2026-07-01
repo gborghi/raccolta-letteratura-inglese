@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 6 (part 1)"
+title: "Our Mutual Friend — Chapter 7 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,109 +14,120 @@ tags:
 </nav>
 
 
-Chapter 6
+Chapter 7
 
-CUT ADRIFT
+MR WEGG LOOKS AFTER HIMSELF
 
 
-The Six Jolly Fellowship Porters, already mentioned as a tavern of
-a dropsical appearance, had long settled down into a state of hale
-infirmity. In its whole constitution it had not a straight floor, and
-hardly a straight line; but it had outlasted, and clearly would yet
-outlast, many a better-trimmed building, many a sprucer public-[[house]].
-Externally, it was a narrow lopsided wooden jumble of corpulent windows
-heaped one upon another as you might heap as many toppling oranges,
-with a crazy wooden verandah impending over the [[Water|water]]; indeed the whole
-[[house]], inclusive of the complaining [[Flag|flag]]-staff on the roof, impended
-over the [[Water|water]], but seemed to have got into the condition of a
-faint-hearted diver who has paused so long on the brink that he will
-never go in at all.
+[[Silas Wegg]], being on his [[Road|road]] to the Roman Empire, approaches it by way
+of Clerkenwell. The [[Time|time]] is early in the evening; the weather moist and
+raw. Mr Wegg finds leisure to make a little circuit, by reason that he
+folds his screen early, now that he combines another source of income
+with it, and also that he feels it due to himself to be anxiously
+expected at the Bower. ‘Boffin will get all the eagerer for waiting a
+bit,’ says Silas, screwing up, as he stumps along, first his right eye,
+and then his left. Which is something superfluous in him, for [[Nature]] has
+already screwed both pretty tight.
 
-This description applies to the [[River|river]]-frontage of the Six Jolly
-Fellowship Porters. The back of the establishment, though the chief
-entrance was there, so contracted that it merely represented in its
-connexion with the front, the handle of a flat iron set upright on its
-broadest end. This handle stood at the [[Bottom|bottom]] of a wilderness of [[Court|court]]
-and alley: which wilderness pressed so hard and close upon the Six Jolly
-Fellowship Porters as to leave the hostelry not an inch of ground beyond
-its door. For this reason, in combination with the fact that the [[house]]
-was all but afloat at high [[Water|water]], when the Porters had a family wash the
-linen subjected to that operation might usually be seen drying on lines
-stretched across the reception-rooms and bed-chambers.
+‘If I get on with him as I expect to get on,’ Silas pursues, stumping
+and meditating, ‘it wouldn’t become me to leave it here. It wouldn’t be
+respectable.’ Animated by this reflection, he stumps faster, and looks
+a long way before him, as a man with an ambitious project in abeyance
+often will do.
 
-The wood forming the chimney-pieces, beams, partitions, floors and
-doors, of the Six Jolly Fellowship Porters, seemed in its old age
-fraught with confused memories of its youth. In many places it had
-become gnarled and riven, according to the manner of old trees; knots
-started out of it; and here and there it seemed to twist itself into
-some likeness of boughs. In this state of second [[Childhood|childhood]], it had an
-air of being in its own way garrulous about its early life. Not without
-reason was it often asserted by the regular frequenters of the Porters,
-that when the light shone full upon the grain of certain panels, and
-particularly upon an old corner cupboard of walnut-wood in the bar, you
-might trace little forests there, and tiny trees like the parent tree,
-in full umbrageous leaf.
+Aware of a working-jeweller population taking sanctuary about the church
+in Clerkenwell, Mr Wegg is conscious of an interest in, and a respect
+for, the neighbourhood. But, his sensations in this regard halt as to
+their strict [[morality]], as he halts in his gait; for, they suggest the
+delights of a coat of invisibility in which to walk off safely with the
+precious stones and watch-cases, but stop short of any compunction for
+the people who would lose the same.
 
-The bar of the Six Jolly Fellowship Porters was a bar to soften the
-human breast. The available space in it was not much larger than a
-hackney-coach; but no one could have wished the bar bigger, that space
-was so girt in by corpulent little casks, and by cordial-bottles
-radiant with fictitious grapes in bunches, and by lemons in nets, and
-by biscuits in baskets, and by the polite beer-pulls that made low
-bows when customers were served with beer, and by the [[cheese]] in a snug
-corner, and by the landlady’s own small table in a snugger corner near
-the [[Fire|fire]], with the cloth everlastingly laid. This haven was divided from
-the rough world by a glass partition and a half-door, with a leaden
-sill upon it for the convenience of resting your liquor; but, over this
-half-door the bar’s snugness so gushed forth that, albeit customers
-drank there standing, in a dark and draughty passage where they were
-shouldered by other customers passing in and out, they always appeared
-to drink under an enchanting delusion that they were in the bar itself.
+Not, however, towards the ‘shops’ where cunning artificers work in
+pearls and diamonds and gold and silver, making their hands so rich,
+that the enriched [[Water|water]] in which they wash them is bought for the
+refiners;—not towards these does Mr Wegg stump, but towards the poorer
+shops of small retail traders in commodities to eat and drink and keep
+folks warm, and of Italian frame-makers, and of barbers, and of brokers,
+and of dealers in [[dogs]] and singing-[[Birds|birds]]. From these, in a narrow and
+a dirty street devoted to such callings, Mr Wegg selects one dark
+shop-[[Window|window]] with a tallow candle dimly burning in it, surrounded by a
+muddle of objects vaguely resembling pieces of leather and dry stick,
+but among which nothing is resolvable into anything distinct, save
+the candle itself in its old tin candlestick, and two preserved frogs
+fighting a small-[[Sword|sword]] duel. Stumping with fresh vigour, he goes in at
+the dark greasy entry, pushes a little greasy dark reluctant side-door,
+and follows the door into the little dark greasy shop. It is so dark
+that nothing can be made out in it, over a little counter, but another
+tallow candle in another old tin candlestick, close to the face of a man
+stooping low in a chair.
 
-For the rest, both the tap and parlour of the Six Jolly Fellowship
-Porters gave upon the [[River|river]], and had red curtains matching the noses of
-the regular customers, and were provided with comfortable fireside tin
-utensils, like models of sugar-loaf hats, made in that shape that they
-might, with their pointed ends, seek out for themselves glowing nooks
-in the depths of the red coals, when they mulled your ale, or heated for
-you those delectable drinks, Purl, Flip, and Dog’s Nose. The first of
-these humming compounds was a speciality of the Porters, which, through
-an [[Inscription|inscription]] on its door-posts, gently appealed to your feelings as,
-‘The Early Purl [[house|House]]’. For, it would seem that Purl must always be
-taken early; though whether for any more distinctly stomachic reason
-than that, as the early bird catches the worm, so the early purl catches
-the customer, cannot here be resolved. It only remains to add that in
-the handle of the flat iron, and opposite the bar, was a very little
-room like a three-cornered hat, into which no direct ray of sun, [[Moon|moon]],
-or star, ever penetrated, but which was superstitiously regarded as a
-sanctuary replete with comfort and retirement by gaslight, and on the
-door of which was therefore painted its alluring name: Cosy.
+Mr Wegg nods to the face, ‘Good evening.’
 
-Miss Potterson, sole proprietor and manager of the Fellowship Porters,
-reigned supreme on her throne, the Bar, and a man must have drunk
-himself mad drunk indeed if he thought he could contest a point with
-her. Being known on her own authority as Miss Abbey Potterson, some
-[[Water|water]]-side heads, which (like the [[Water|water]]) were none of the clearest,
-harboured muddled notions that, because of her dignity and firmness, she
-was named after, or in some sort related to, the Abbey at Westminster.
-But, Abbey was only short for Abigail, by which name Miss Potterson had
-been christened at Limehouse Church, some sixty and odd years before.
+The face looking up is a sallow face with weak eyes, surmounted by a
+tangle of reddish-dusty hair. The owner of the face has no cravat on,
+and has opened his tumbled shirt-collar to work with the more ease.
+For the same reason he has no coat on: only a loose waistcoat over his
+yellow linen. His eyes are like the over-tried eyes of an engraver, but
+he is not that; his expression and stoop are like those of a shoemaker,
+but he is not that.
 
-‘Now, you mind, you Riderhood,’ said Miss Abbey Potterson, with emphatic
-forefinger over the half-door, ‘the Fellowship don’t want you at all,
-and would rather by far have your room than your company; but if you
-were as welcome here as you are not, you shouldn’t even then have
-another drop of drink here this [[Night|night]], after this present pint of beer.
-So make the most of it.’
+‘Good evening, [[Mr Venus]]. Don’t you remember?’
 
-‘But you know, Miss Potterson,’ this was suggested very meekly though,
-‘if I behave myself, you can’t help serving me, miss.’
+With slowly dawning remembrance, [[Mr Venus]] rises, and holds his candle
+over the little counter, and holds it down towards the legs, natural and
+artificial, of Mr Wegg.
 
-‘CAN’T I!’ said Abbey, with infinite expression.
+‘To be SURE!’ he says, then. ‘How do you do?’
 
-‘No, Miss Potterson; because, you see, the law—’
+‘Wegg, you know,’ that gentleman explains.
 
-‘I am the law here, my man,’ returned Miss Abbey, ‘and I’ll soon
-convince you of that, if you [[Doubt|doubt]] it at all.’
+‘Yes, yes,’ says the other. ‘Hospital amputation?’
 
-‘I never said I did [[Doubt|doubt]] it at all, Miss Abbey.’
+‘Just so,’ says Mr Wegg.
+
+‘Yes, yes,’ quoth [[Venus]]. ‘How do you do? Sit down by the [[Fire|fire]], and warm
+your—your other one.’
+
+The little counter being so short a counter that it [[Leaves|leaves]] the
+fireplace, which would have been behind it if it had been longer,
+accessible, Mr Wegg sits down on a box in front of the [[Fire|fire]], and inhales
+a warm and comfortable smell which is not the smell of the shop. ‘For
+that,’ Mr Wegg inwardly decides, as he takes a corrective sniff or two,
+‘is musty, leathery, feathery, cellary, gluey, gummy, and,’ with another
+sniff, ‘as it might be, strong of old pairs of bellows.’
+
+‘My tea is drawing, and my muffin is on the hob, Mr Wegg; will you
+partake?’
+
+It being one of Mr Wegg’s guiding rules in life always to partake, he
+says he will. But, the little shop is so excessively dark, is stuck so
+full of black shelves and brackets and nooks and corners, that he sees
+[[Mr Venus]]’s cup and saucer only because it is close under the candle, and
+does not see from what mysterious recess [[Mr Venus]] produces another
+for himself until it is under his nose. Concurrently, Wegg perceives a
+pretty little dead bird lying on the counter, with its head drooping
+on one side against the rim of [[Mr Venus]]’s saucer, and a long stiff wire
+piercing its breast. As if it were Cock Robin, the [[Hero|hero]] of the ballad,
+and [[Mr Venus]] were the sparrow with his bow and arrow, and Mr Wegg were
+the fly with his little eye.
+
+[[Mr Venus]] dives, and produces another muffin, yet untoasted; taking the
+arrow out of the breast of Cock Robin, he proceeds to toast it on the
+end of that cruel instrument. When it is brown, he dives again and
+produces butter, with which he completes his work.
+
+Mr Wegg, as an artful man who is sure of his supper by-and-bye, presses
+muffin on his host to soothe him into a compliant state of mind, or, as
+one might say, to grease his works. As the muffins disappear, little by
+little, the black shelves and nooks and corners begin to appear, and Mr
+Wegg gradually acquires an imperfect notion that over against him on the
+chimney-piece is a Hindoo baby in a bottle, curved up with his big
+head tucked under him, as he would instantly throw a summersault if the
+bottle were large enough.
+
+When he deems [[Mr Venus]]’s wheels sufficiently lubricated, Mr Wegg
+approaches his object by asking, as he lightly taps his hands together,
+to express an undesigning frame of mind:
+
+‘And how have I been going on, this long [[Time|time]], [[Mr Venus]]?’

@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 36 (part 1)"
+title: "Shirley — Chapter 36 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -215,9 +215,3 @@ her equal, I could find in this shyness coyness, and in that coyness
 
 
 "This morning I dared at least contrive an hour's communion for her and
-
-me; I dared not only _wish_ but _will_ an interview with her. I dared
-
-summon [[Solitude|solitude]] to guard us. Very decidedly I called Henry to the door.
-
-Without hesitation I said, 'Go where you will, my boy; but, till I call

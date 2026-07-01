@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 14 (part 3)"
+title: "Oliver Twist — Chapter 14 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_14/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_14/part_04">part 04 ›</a></div>
 </nav>
 
+
+“I’ll eat my head, sir,” repeated Mr. Grimwig, striking his stick upon
+the ground. “Hallo! what’s that!” looking at [[Oliver]], and retreating a
+pace or two.
+
+“This is young [[Oliver Twist]], whom we were speaking about,” said Mr.
+Brownlow.
+
+[[Oliver]] bowed.
+
+“You don’t mean to say that’s the boy who had the fever, I [[Hope|hope]]?” said
+Mr. Grimwig, recoiling a little more. “Wait a minute! Don’t speak!
+Stop—” continued Mr. Grimwig, abruptly, losing all dread of the fever
+in his triumph at the discovery; “that’s the boy who had the orange! If
+that’s not the boy, sir, who had the orange, and threw this bit of peel
+upon the staircase, I’ll eat my head, and his too.”
 
 “No, no, he has not had one,” said Mr. Brownlow, laughing. “Come! Put
 down your hat; and speak to my young friend.”
@@ -128,22 +144,3 @@ the table also.
 “We shall see,” said Mr. Brownlow, checking his rising anger.
 
 “We will,” replied Mr. Grimwig, with a provoking smile; “we will.”
-
-As fate would have it, Mrs. Bedwin chanced to bring in, at this moment,
-a small parcel of books, which Mr. Brownlow had that morning purchased
-of the identical bookstall-keeper, who has already figured in this
-[[history]]; having laid them on the table, she prepared to leave the room.
-
-“Stop the boy, Mrs. Bedwin!” said Mr. Brownlow; “there is something to
-go back.”
-
-“He has gone, sir,” replied Mrs. Bedwin.
-
-“Call after him,” said Mr. Brownlow; “it’s particular. He is a poor
-man, and they are not paid for. There are some books to be taken back,
-too.”
-
-The street-door was opened. [[Oliver]] ran one way; and the girl ran
-another; and Mrs. Bedwin stood on the step and screamed for the boy;
-but there was no boy in sight. [[Oliver]] and the girl returned, in a
-breathless state, to report that there were no tidings of him.

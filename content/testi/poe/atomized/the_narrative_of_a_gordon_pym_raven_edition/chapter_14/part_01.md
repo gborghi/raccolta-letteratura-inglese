@@ -199,5 +199,3 @@ CHAPTER 14
       during the greatest force of the gale. A perfect hurricane will
 
       be blowing at one moment from the northward or northeast, and in
-
-      the next not a breath of [[Wind|wind]] will be felt in that direction,

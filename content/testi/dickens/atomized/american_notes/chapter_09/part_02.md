@@ -92,7 +92,7 @@ even a legible [[Inscription|inscription]] to record its departed [[Greatness|gr
 Such as it is, it is likely to remain.  It was originally chosen for the
 seat of [[government|Government]], as a means of averting the conflicting jealousies and
 interests of the different States; and very probably, too, as being
-remote from mobs: a consideration not to be slighted, even in [[America]].
+remote from mobs: a consideration not to be slighted, even in [[america|America]].
 It has no trade or commerce of its own: having little or no population
 beyond the President and his establishment; the members of the
 legislature who reside there during the session; the [[government|Government]] clerks
@@ -102,16 +102,3 @@ It is very unhealthy.  Few people would live in Washington, I take it,
 who were not obliged to reside there; and the tides of emigration and
 speculation, those rapid and regardless currents, are little likely to
 flow at any [[Time|time]] towards such dull and sluggish [[Water|water]].
-
-The principal features of the Capitol, are, of course, the two houses of
-Assembly.  But there is, besides, in the centre of the building, a fine
-rotunda, ninety-six feet in diameter, and ninety-six high, whose circular
-wall is divided into compartments, ornamented by historical pictures.
-Four of these have for their subjects prominent events in the
-revolutionary struggle.  They were painted by Colonel Trumbull, himself a
-member of Washington’s staff at the [[Time|time]] of their occurrence; from which
-circumstance they derive a peculiar interest of their own.  In this same
-hall Mr. Greenough’s large statue of Washington has been lately placed.
-It has great merits of course, but it struck me as being rather strained
-and violent for its subject.  I could wish, however, to have seen it in a
-better light than it can ever be viewed in, where it stands.

@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 12 (part 4)"
+title: "The Mystery of Edwin Drood — Chapter 12 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_13/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_13/part_05">part 05 ›</a></div>
 </nav>
 
+
+“This is good stuff, Mister Jarsper!”
+
+“It is very good stuff, I [[Hope|hope]].—I bought it on purpose.”
+
+“They don’t show, you see, the old uns don’t, Mister Jarsper!”
+
+“It would be a more confused world than it is, if they could.”
+
+“[[Well]], it _would_ lead towards a mixing of things,” [[Durdles]] acquiesces:
+pausing on the remark, as if the idea of [[Ghosts|ghosts]] had not previously
+presented itself to him in a merely inconvenient light, domestically or
+chronologically. “But do you think there may be [[Ghosts]] of other things,
+though not of men and women?”
 
 “What things? Flower-beds and watering-pots? Horses and harness?”
 
@@ -116,22 +130,3 @@ among those lanes of light, [[Durdles]] becomes so very uncertain, both of
 foot and speech, that he half drops, half throws himself down, by one
 of the heavy pillars, scarcely less heavy than itself, and indistinctly
 appeals to his companion for forty winks of a second each.
-
-“If you will have it so, or must have it so,” replies Jasper, “I’ll not
-leave you here. Take them, while I walk to and fro.”
-
-[[Durdles]] is asleep at once; and in his [[Sleep|sleep]] he [[Dreams|dreams]] [[A Dream|a dream]].
-
-It is not much of [[A Dream|a dream]], considering the vast extent of the domains
-of dreamland, and their wonderful productions; it is only remarkable
-for being unusually restless and unusually real. He [[Dreams|dreams]] of lying
-there, asleep, and yet counting his companion’s footsteps as he walks
-to and fro. He [[Dreams|dreams]] that the footsteps die away into distance of [[Time|time]]
-and of space, and that something touches him, and that something falls
-from his hand. Then something clinks and gropes about, and he [[Dreams|dreams]]
-that he is [[Alone|alone]] for so long a [[Time|time]], that the lanes of light take new
-directions as the [[Moon|moon]] advances in her course. From succeeding
-unconsciousness he passes into [[A Dream|a dream]] of slow uneasiness from cold;
-and painfully awakes to a perception of the lanes of light—really
-changed, much as he had dreamed—and Jasper walking among them, beating
-his hands and feet.

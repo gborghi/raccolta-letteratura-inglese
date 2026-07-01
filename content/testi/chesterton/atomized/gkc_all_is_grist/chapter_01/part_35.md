@@ -14,128 +14,120 @@ tags:
 </nav>
 
 
-It would also be easy enough to attack the fallacy upon the facts.
-Everybody who has any real experience knows that good writing
-would not necessarily come from people with many experiences.
-Some of the art which is closest to life has been produced under
-marked limitations of living.  Its prestige has generally lasted
-longer than the splash made by sensational social figures.
-Jane Austen has already survived Georges Sand.  Even the most
-modern critic, if he is really a critic, will admit that Jane Austen
-is really realistic, in a sense in which Georges Sand is only romantic.
-She was, indeed, a flaming, fashionable figure created entirely by
-the Romantic Movement; but Jane Austen did not belong to any movement;
-she does not move, but she stays.  And, though I do not agree
-with the too common depreciation of Byron, it is true that all his
-somewhat excessive Experience, in the new or juvenile sense, has not
-prevented people feeling him to be the very reverse of realistic,
-and in some ways strangely unreal.
+For instance, it was sentimental gossip that Mary [[Queen]] of Scots
+was very badly treated; or that Charles the First was to be
+pitied or even admired.  I remember loving both the historical
+characters as legends, and then learning afterwards that
+the legends were entirely legendary.  The historical realists
+of that [[Time|time]] told me that the attraction of Mary [[Queen]] of Scots
+was merely that she was much prettier than [[Queen Elizabeth]].
+They told me that the charm of the Cavalier consisted only in his
+wearing more picturesque clothes than the Puritan.  Those who told me
+this were often learned, and those who had left me with the earlier
+impression were often ignorant; and I myself was unfathomably ignorant.
+I therefore believed what they told me; I proceeded to believe,
+to believe blindly, credulously, and in hopeless intellectual servitude;
+to believe in the much more fabulous [[Fable|fable]], in the legend of the learned.
+I believed much more seriously--that is, much more superstitiously--
+in the school text-book than I had believed in the old wives' tale.
+But the old wife was an old wife by the normal process of becoming
+a wife and growing old, and she employed the normal habit of talking
+to children about her [[Childhood|childhood]].  But the schoolmaster was a
+professional schoolmaster; the schoolmaster was tied to his school;
+the schoolmaster was as much under discipline as the schoolboy.
 
-But there is, of course, a much deeper objection to the whole of this
-new sort of Experience [[philosophy|Philosophy]], which is quite sufficiently
-exposed in the very examples I quoted from the magazine.
-There are certainly all sorts of experiences, some great and some small.
-But the small ones are those which the critic imagines to be great,
-and the great ones are those that he contemptuously dismisses as small.
-There are no more universal affairs than those which he imagines
-to be little and local.  There are no events more tremendous
-than those which he regards as trivial.  There are no experiences
-more exciting than those which he dully imagines to be dull.
-To take his own example, a literary man who cannot see that a baby
-is marvellous could not see that anything was marvellous.
-He has certainly no earthly logical reason for regarding a movie
-vamp as marvellous.  The movie vamp is only what happens to the baby
-when it goes wrong; but, from a really imaginative and intellectual
-standpoint, there is nothing marvellous about either of them,
-except what is already marvellous in the mere existence of the baby.
-But this sort of moralist or immoralist has a queer, half-baked prejudice
-to the effect that there is no good in anything until it has gone bad.
-It is supposed to be a part of Experience for the woman to be a vamp,
-but not for the woman to be a mother; although it stares us all
-in the face, as a stark fact of common sense, that [[Child|child]]-bearing
-really is an experience, and a highly realistic experience,
-while the other sort of experiment may not really be an experience
-at all.  It may be in the exact sense mere play-acting;
-and, as the game is now played, the main preoccupation is to
-prevent its ending with an addition to the cast of characters.
-Whatever happens, it must not be the means of bringing on the scene
-a new, breathing, thinking, conscious creature like a baby.
-That would not be Life.
+In the case of Mary [[Queen]] of Scots or Charles the First, which I
+have mentioned, it is, of course, perfectly true that there are two
+sides to the story.  What I complain of in the schoolmaster is that
+he always taught only one side of the story.  So, it may be said,
+did the nursery story-teller. But her story was a story in the literary
+sense of a legend.  His story was a story in the nursery sense of a lie.
+It was a lie in the very real sense that he was not merely reporting
+what he had heard, but very care fully selecting from what he had read.
+Of course, as I say, it is perfectly true that there is a case
+for the Calvinists who opposed Mary Stuart, or the later Calvinists
+who opposed Charles Stuart.  Of course, it is arguable that Mary Stuart
+killed her husband, or that Charles Stuart broke his word.
+Of course, it is arguable that it was better for England that the Whigs
+should turn it into an aristocracy than that the Stuarts should turn
+it into an autocracy.
 
-Now, if there is one thing of which I have been certain
-since my boyhood, and grow more certain as I advance in age,
-it is that nothing is poetical if plain daylight is not poetical;
-and no [[Monster|monster]] should amaze us if the normal man does not amaze.
-All this talk of waiting for experiences in order to write
-is simply a confession of incapacity to experience anything.
-It is a confession of never having felt the big facts in such
-experiences as babyhood and the baby.  A paralytic of this
-deaf-and-dumb description imagines he can be healed in strange
-waters or after strange wanderings; and announces himself ready
-to drink poisons, that they may stimulate him like drugs.
-But it is futile for him to suppose that this sort of quackery
-will teach him how to be a writer, for he has been from the first
-admittedly blind to everything that is worth writing about.
-He will find nothing in the wilderness but the broken shards or ruins
-of what should have been sacred in his own [[Home|home]]; and if he can really
-make nothing of the second he will certainly make nothing of the first.
-The whole theory rests on a ridiculous confusion by which it is
-supposed that certain primary principles or relations will become
-interesting when they are damaged, but are bound to be depressing
-when they are intact.  None of those who are perpetually suggesting
-this view ever states it thus plainly; for they are incapable of making
-plain statements, just as they are incapable of feeling plain things.
-But the point they have to prove, if they really want their
-Experience [[philosophy|Philosophy]] accepted by those who do not care for catchwords,
-is that the high perils, pleasures, and creative joys of life
-do not occur on the high [[Road|road]] of life, but only in certain crooked
-and rambling by-paths made entirely by people who have lost their way.
-As yet they have not even begun to prove it; and in any case,
-and in every sense, it could be disproved by a baby.
+But that is not the point.  The point is that the ignorant legend
+was much more true, as far as it went, than the learned legend
+as far as it went.  To paint a portrait of Mary [[Queen]] of Scots
+as a lovely, unhappy, charming, and cultured lady, brutally baited
+by barbarous Puritans and tragically martyred by a jealous
+Tudor [[Tyrant|tyrant]], is a process of portraiture very far from complete;
+but it is in its way true, even when it is not complete.
+To paint a portrait of [[Queen Elizabeth]] as a prophetic lioness
+of Protestantism, upholding the Huguenots out of mere [[Love|love]] of
+the Holy Scriptures, and brandishing a [[Bible]] to cow all the Papists
+of the world, is not a process of portraiture true but incomplete;
+it is simply completely untrue.  It is contradicted by every fact
+in Elizabeth's [[history]], from her continuous invalidism or ill-health
+to her continuous intrigues about marrying Catholic princes.
+And the first [[Truth|truth]], or half-[[Truth|truth]], was a [[Truth|truth]] of tradition.
+The second lie, and complete lie, was a lie of scholarship.
+Similarly, the popular legend was not lying about the kind of atmosphere,
+or even the kind of glamour, surrounding [[King]] Charles and the Cavaliers.
+It may have been little more than a [[Romance|romance]]; the legend really
+recorded little more than a [[Romance|romance]]; but it was the real [[Romance|romance]].
+It was not false when it represented the Cavalier with his
+goblet lifted and his [[Sword|sword]] drawn; ready to drink to the [[King]],
+ready to die for the [[King]].  For thousands of such men did actually
+drink to him and did actually die for him.  It was not romancing
+to say that the Royalist had a romantic loyalty.  It would not have
+been romancing to say that the Puritan had a religious loyalty.
+He had a loyalty to the letter of Scripture, to the [[logic]] of Calvin,
+to the awful duty of spreading true religion.
 
-XXXI.  On Sightseeing
+But my schoolmasters did not tell me that the Puritan stood
+for religious loyalty, which is true.  They told me that he stood
+for religious liberty, which is a lie of that mountainous and
+monstrous order which ignorant traditionalists call a Whopper.
+They were not concerned, like the traditionalists, with gathering up,
+however lazily, the loose fragments of a [[Truth|truth]].  They were concerned
+with covering up most carefully the most accidental glimpses of the [[Truth|truth]];
+with so picking their words and arranging their sentences that no
+suspicion of the main [[Truth|truth]] of the matter should really penetrate
+to the reader.  It is amazing to consider how carefully and how
+successfully they did cover up a [[Truth|truth]] so obvious and so enormous.
+There is, for instance, the perfectly simple fact, written in large
+letters across the [[history]] of two reigns and practically two revolutions,
+that the last Stuarts tried to establish religious toleration and
+the Puritans tried to prevent religious toleration.  It would seem
+as impossible to hide so huge and simple an historic fact as to hide
+the fact that Nelson fought for England and Napoleon for France.
+Yet men like Macaulay and Green really did manage to hide it
+from a whole rising generation, the generation with which I myself
+originally [[Rose|rose]].  But, fortunately, I had learned some truths
+in my [[Childhood|childhood]] before I began to learn lies in my boyhood.
+And all my subsequent knowledge has led me to prefer the pictures
+which honestly professed to be picturesque to the plans and diagrams
+which dishonestly pretended to be accurate.
 
-I HAVE often done my best to consider, in various aspects,
-what is really the matter with Sightseeing.  Or rather, I [[Hope|hope]],
-I have done my best to consider what is the matter with me,
-when I find myself faintly fatigued by Sightseeing.
-For it is always wiser to consider not so much why a thing is
-not enjoyable, as why we ourselves do not enjoy it.  In the case
-of Sightseeing, I have only got so far as to be quite certain
-that the fault is not in the Sights and is not in the Sightseers.
-This would seem to drive the speculative philosopher back upon
-the dreadful and shocking conclusion that the fault is entirely in me.
-But, before accepting so destructive a deduction, I think there are
-some further modifications to be made and some further distinctions
-to be drawn.
+XXX.  On Experience
 
-The mere fact that a mob is going to see a monument ought not
-in itself to depress any imaginative and sympathetic mind.
-On the contrary, such a mind ought to perceive that there is something
-of the same mystery or majesty in the mob as in the monument.
-It is a weakness to fail in feeling that a statue standing on a
-pedestal above a street, the statue of a [[Hero|hero]], carved by an [[Artist|artist]],
-for the [[Honour|honour]] and glory of a [[City|city]], is, so far as it goes,
-a marvellous and impressive work of man.  But it is far more
-of a weakness to fail in feeling that a hundred statues walking
-about the street, alive with the miracle of a mysterious vitality,
-are a marvellous and impressive work of God.  In so far as that
-ultimate argument affects the matter, the sightseer might almost
-as [[Well|well]] travel to see the sightseers as to see the sights.
-There are, of course, vulgar and repulsive sightseers.
-There are, for that matter, vulgar and repulsive statues.
-But this cannot be a complete excuse for my own lamentable coldness;
-for I have felt it creeping over me in the presence of the most
-earnest and refined sightseers, engaged in inspecting the most
-classical and correct statues.  Indeed (if I must make the
-disgraceful confession in the interests of intellectual discovery),
-I will own that I have felt this mysterious wave of weariness
-pass over me rather more often when the elegant and distinguished
-Archdeacon was explaining the tombs to the Guild of Golden Thoughts
-than when an ordinary shouting showman was showing them to a
-jolly rabble of trippers with beer bottles and concertinas.
-I am very much troubled with this unnatural insensibility of mind;
-and I have made many attempts, none of them quite successful, to trace
-my mental malady to its origin.  But I am not sure that some hint
-of the [[Truth|truth]] may not be found in the first popular example that I gave--
-the example of a statue standing in a street.
+IT will be remarked that Experience, which was once claimed
+by the aged, is now claimed exclusively by the young.
+There used to be a system of morals and metaphysics that was
+specially known as the Experience [[philosophy|Philosophy]]; but those who
+advanced it were grim rationalists and utilitarians who were
+already old in years, or, more commonly, old before their [[Time|time]].
+We all know that Experience now stands rather for the [[philosophy]]
+of those who claim to be young long after their [[Time|time]].  But they preach
+something that may, in a sense, be called an Experience [[philosophy|Philosophy]],
+though some of the experiences seem to me the reverse of philosophical.
+So far as I can make it out, it consists of two dogmas first,
+that there is no such thing as right or wrong; and secondly, that they
+themselves have a right to experience.  How they manage to have any
+rights if there is no such thing as right I do not know; nor do they.
+But perhaps the [[philosophy]] was best summed up in a phrase I saw
+recently in a very interesting and important American magazine,
+quoted from one of the more wild and fanciful of the American critics.
+I have not the text before me, but the substance of the remark was this.
+The critic demanded indignantly to know how many ordinary American
+novelists had any Experiences outside those of earning their bread,
+pottering about in a farm or a frame-[[house]], helping to mind the baby,
+and so on.  The question struck me as striking at the very root
+of all the rot and corruption and imbecility of the times.

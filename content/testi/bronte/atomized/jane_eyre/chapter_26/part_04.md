@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 26 (part 4)"
+title: "Jane Eyre — Chapter 26 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -76,7 +76,7 @@ in the dried-up bed of a great [[River|river]]; I heard a flood loosened in
 remote [[Mountains|mountains]], and felt the torrent come: to rise I had no will, to
 flee I had no strength. I lay faint, [[Longing|longing]] to be dead. One idea only
 still throbbed life-like within me—a remembrance of God: it begot an
-unuttered [[Prayer|prayer]]: these words went wandering up and down in my rayless
+unuttered [[prayer]]: these words went wandering up and down in my rayless
 mind, as something that should be whispered, but no energy was found to
 express them—
 

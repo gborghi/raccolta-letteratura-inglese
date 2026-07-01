@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 22 (part 1)"
+title: "Bleak House — Chapter 22 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -135,11 +135,3 @@ hand for drinking anything so precious.
 “Will you run over, once again, what the boy said?” asks Mr.
 Tulkinghorn, putting his hands into the pockets of his rusty
 smallclothes and leaning quietly back in his chair.
-
-“With pleasure, sir.”
-
-Then, with fidelity, though with some prolixity, the law-stationer
-repeats Jo’s statement made to the assembled guests at his [[house]]. On
-coming to the end of his narrative, he gives a great start and breaks
-off with, “Dear me, sir, I wasn’t aware there was any other gentleman
-present!”

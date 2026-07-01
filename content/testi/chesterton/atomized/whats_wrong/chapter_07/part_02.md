@@ -1,5 +1,5 @@
 ---
-title: "whats wrong — Part 2 (part 2)"
+title: "whats wrong — Part 3 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/whats-wrong-(chesterton)"
@@ -14,140 +14,150 @@ tags:
 </nav>
 
 
-* * *
+Now it is the great mark of our modernity that people are always
+proposing substitutes for these old things; and these substitutes
+always answer one purpose where the old thing answered ten.  The modern
+man will wave a cigarette instead of a stick; he will cut his pencil
+with a little screwing pencil-sharpener instead of a knife; and he will
+even boldly offer to be warmed by hot [[Water|water]] pipes instead of a [[Fire|fire]].
+I have my doubts about pencil-sharpeners even for sharpening pencils;
+and about hot [[Water|water]] pipes even for heat.  But when we think of all
+those other requirements that these institutions answered, there opens
+before us the whole horrible harlequinade of our civilization.
+We see as in a vision a world where a man tries to cut his throat with
+a pencil-sharpener; where a man must learn single-stick with a cigarette;
+where a man must try to toast muffins at electric lamps, and see red
+and golden castles in the surface of hot [[Water|water]] pipes.
 
-II
+The principle of which I speak can be seen everywhere in a
+comparison between the ancient and universal things and the modern
+and specialist things.  The object of a theodolite is to lie level;
+the object of a stick is to swing loose at any angle; to whirl
+like the very [[Wheel|wheel]] of liberty.  The object of a lancet is to lance;
+when used for slashing, gashing, ripping, lopping off heads and limbs,
+it is a disappointing instrument.  The object of an electric light is
+merely to light (a despicable modesty); and the object of an asbestos
+stove... I [[Wonder|wonder]] what is the object of an asbestos stove?
+If a man found a coil of rope in a [[Desert|desert]] he could at least
+think of all the things that can be done with a coil of rope;
+and some of them might even be practical.  He could tow a boat
+or lasso a [[Horse|horse]].  He could play cat's-cradle, or pick oakum.
+He could construct a rope-ladder for an eloping heiress, or cord
+her boxes for a travelling maiden aunt.  He could learn to tie a bow,
+or he could hang himself.  Far otherwise with the unfortunate
+traveller who should find a telephone in the [[Desert|desert]].  You can
+telephone with a telephone; you cannot do anything else with it.
+And though this is one of the wildest joys of life, it falls by one
+degree from its full delirium when there is nobody to answer you.
+The contention is, in brief, that you must pull up a hundred roots,
+and not one, before you uproot any of these hoary and simple expedients.
+It is only with great difficulty that a modern scientific sociologist
+can be got to see that any old method has a leg to stand on.
+But almost every old method has four or five legs to stand on.
+Almost all the old institutions are quadrupeds; and some of
+them are centipedes.
 
-WISDOM AND THE WEATHER
+Consider these cases, old and new, and you will observe
+the operation of a general tendency.  Everywhere there was
+one big thing that served six purposes; everywhere now there
+are six small things; or, rather (and there is the trouble),
+there are just five and a half.  Nevertheless, we will not
+say that this separation and specialism is entirely useless
+or inexcusable.  I have often thanked God for the telephone;
+I may any day thank God for the lancet; and there is none
+of these brilliant and narrow inventions (except, of course,
+the asbestos stove) which might not be at some moment
+necessary and lovely.  But I do not think the most austere
+upholder of specialism will deny that there is in these old,
+many-sided institutions an element of [[unity]] and universality
+which may [[Well|well]] be preserved in its due proportion and place.
+Spiritually, at least, it will be admitted that some all-round
+balance is needed to equalize the extravagance of experts.
+It would not be difficult to carry the [[Parable|parable]] of the knife
+and stick into higher regions.  Religion, the immortal maiden,
+has been a maid-of-all-work as [[Well|well]] as a servant of mankind.
+She provided men at once with the theoretic laws of an unalterable
+cosmos and also with the practical rules of the rapid and
+thrilling game of [[morality]].  She taught [[logic]] to the student
+and told fairy tales to the children; it was her business
+to confront the nameless gods whose fears are on all flesh,
+and also to see the streets were spotted with silver and scarlet,
+that there was a day for wearing ribbons or an hour for
+ringing [[Bells|bells]].  The large uses of religion have been broken
+up into lesser specialities, just as the uses of the hearth
+have been broken up into hot [[Water|water]] pipes and electric bulbs.
+The [[Romance|romance]] of ritual and colored emblem has been taken over
+by that narrowest of all trades, modern art (the sort called art
+for art's sake), and men are in modern practice informed that they
+may use all symbols so long as they mean nothing by them.
+The [[Romance|romance]] of [[Conscience|conscience]] has been dried up into the science
+of ethics; which may [[Well|well]] be called decency for decency's sake,
+decency [[unborn]] of cosmic energies and barren of artistic flower.
+The cry to the dim gods, cut off from ethics and cosmology,
+has become mere Psychical Research.  Everything has been
+sundered from everything else, and everything has grown cold.
+Soon we shall hear of specialists dividing the tune from
+the words of a [[Song|song]], on the ground that they spoil each other;
+and I did once meet a man who openly advocated the separation
+of almonds and raisins.  This world is all one wild [[divorce]] [[Court|court]];
+nevertheless, there are many who still hear in their souls
+the thunder of authority of human habit; those whom Man hath
+joined let no man sunder.
 
-It is admitted, one may [[Hope|hope]], that common things are never commonplace.
-Birth is covered with curtains precisely because it is a staggering
-and monstrous prodigy.  [[Death]] and first [[Love|love]], though they happen
-to everybody, can stop one's heart with the very thought of them.
-But while this is granted, something further may be claimed.
-It is not merely true that these universal things are strange;
-it is moreover true that they are subtle.  In the last analysis
-most common things will be found to be highly complicated.
-Some men of science do indeed get over the difficulty by dealing
-only with the easy part of it:  thus, they will call first
-[[Love|love]] the instinct of sex, and the awe of [[Death|death]] the instinct
-of [[Self|self]]-preservation. But this is only getting over the difficulty
-of describing peacock green by calling it blue.  There is blue in it.
-That there is a strong physical element in both [[Romance|romance]] and
-the [[Memento Mori]] makes them if possible more baffling than if they
-had been wholly intellectual.  No man could say exactly how much
-his [[Sexuality|sexuality]] was colored by a clean [[Love|love]] of [[Beauty|beauty]], or by the mere
-boyish itch for irrevocable adventures, like running away to sea.
-No man could say how far his animal dread of the end was mixed
-up with mystical traditions touching morals and religion.
-It is exactly because these things are animal, but not
-quite animal, that the [[Dance|dance]] of all the difficulties begins.
-The materialists analyze the easy part, deny the hard part and go
-[[Home|home]] to their tea.
-
-It is complete error to suppose that because a thing is vulgar
-therefore it is not refined; that is, subtle and hard to define.
-A drawing-room [[Song|song]] of my youth which began "In the gloaming,
-O, my darling," was vulgar enough as a [[Song|song]]; but the connection
-between human passion and the twilight is none the less an exquisite
-and even inscrutable thing.  Or to take another obvious instance:
-the jokes about a mother-in-law are scarcely delicate,
-but the problem of a mother-in-law is extremely delicate.
-A mother-in-law is subtle because she is a thing like the twilight.
-She is a mystical blend of two inconsistent things--
-law and a mother.  The caricatures misrepresent her;
-but they arise out of a real human enigma.  "Comic Cuts"
-deals with the difficulty wrongly, but it would need
-George Meredith at his best to deal with the difficulty rightly.
-The nearest statement of the problem perhaps is this:
-it is not that a mother-in-law must be nasty, but that she must
-be very nice.
-
-But it is best perhaps to take in illustration some daily
-custom we have all heard despised as vulgar or trite.
-Take, for the sake of argument, the custom of talking about
-the weather.  Stevenson calls it "the very nadir and scoff
-of good conversationalists."  Now there are very deep reasons
-for talking about the weather, reasons that are delicate as [[Well|well]]
-as deep; they lie in layer upon layer of stratified sagacity.
-First of all it is a gesture of primeval worship.
-The sky must be invoked; and to begin everything with the weather
-is a sort of pagan way of beginning everything with [[prayer]].
-[[Jones]] and Brown talk about the weather:  but so do [[Milton]]
-and Shelley.  Then it is an expression of that elementary
-idea in politeness--equality.  For the very word politeness
-is only the Greek for citizenship.  The word politeness is akin
-to the word policeman:  a charming thought.  Properly understood,
-the citizen should be more polite than the gentleman; perhaps the
-policeman should be the most courtly and elegant of the three.
-But all good manners must obviously begin with the sharing of
-something in a simple style.  Two men should share an umbrella;
-if they have not got an umbrella, they should at least share
-the rain, with all its rich potentialities of wit and [[philosophy]].
-"For He maketh His sun to shine...." This is the second element
-in the weather; its recognition of human equality in that we all have
-our hats under the dark blue spangled umbrella of the universe.
-Arising out of this is the third wholesome strain in the custom;
-I mean that it begins with the [[Body|body]] and with our inevitable
-bodily brotherhood.  All true friendliness begins with [[Fire|fire]]
-and food and drink and the recognition of rain or [[Frost|frost]].
-Those who will not begin at the bodily end of things are already
-prigs and may soon be Christian Scientists.  Each human [[Soul|soul]]
-has in a sense to enact for itself the gigantic [[Humility|humility]]
-of the Incarnation.  Every man must descend into the flesh
-to meet mankind.
-
-Briefly, in the mere observation "a fine day" there is the whole
-great human idea of [[Comradeship|comradeship]].  Now, pure [[Comradeship|comradeship]] is another
-of those broad and yet bewildering things.  We all enjoy it;
-yet when we come to talk about it we almost always talk nonsense,
-chiefly because we suppose it to be a simpler affair than it is.
-It is simple to conduct; but it is by no means simple to analyze.
-[[Comradeship]] is at the most only one half of human life;
-the other half is [[Love]], a thing so different that one might fancy
-it had been made for another universe.  And I do not mean mere
-sex [[Love|love]]; any kind of concentrated passion, maternal [[Love|love]],
-or even the fiercer kinds of [[Friendship|friendship]] are in their [[Nature|nature]] alien
-to pure [[Comradeship|comradeship]].  Both sides are essential to life; and both
-are known in differing degrees to everybody of every age or sex.
-But very broadly speaking it may still be said that women stand
-for the dignity of [[Love|love]] and men for the dignity of [[Comradeship|comradeship]].
-I mean that the institution would hardly be expected if the males
-of the tribe did not mount guard over it.  The affections
-in which women excel have so much more authority and intensity
-that pure [[Comradeship|comradeship]] would be washed away if it were not rallied
-and guarded in clubs, corps, colleges, banquets and regiments.
-Most of us have heard the voice in which the hostess tells her
-husband not to sit too long over the cigars.  It is the dreadful
-voice of [[Love]], seeking to destroy [[Comradeship]].
-
-All true [[Comradeship|comradeship]] has in it those three elements which I have
-remarked in the ordinary exclamation about the weather.  First, it has
-a sort of broad [[philosophy]] like the common sky, emphasizing that we
-are all under the same cosmic conditions.  We are all in the same boat,
-the "winged rock" of Mr. Herbert Trench.  Secondly, it recognizes
-this bond as the essential one; for [[Comradeship|comradeship]] is simply
-humanity seen in that one aspect in which men are really equal.
-The old writers were entirely wise when they talked of the equality
-of men; but they were also very wise in not mentioning women.
-Women are always authoritarian; they are always above or below;
-that is why [[Marriage|marriage]] is a sort of poetical see-saw. There are
-only three things in the world that women do not understand;
-and they are Liberty, Equality, and Fraternity.  But men (a class
-little understood in the modern world) find these things the breath
-of their nostrils; and our most learned ladies will not even begin
-to understand them until they make allowance for this kind of
-cool camaraderie.  Lastly, it contains the third quality of the weather,
-the insistence upon the [[Body|body]] and its indispensable satisfaction.
-No one has even begun to understand [[Comradeship|comradeship]] who does not accept
-with it a certain hearty eagerness in eating, drinking, or smoking,
-an uproarious materialism which to many women appears only hoggish.
-You may call the thing an orgy or a sacrament; it is certainly
-an essential.  It is at root a resistance to the superciliousness
-of the individual.  Nay, its very swaggering and howling are humble.
-In the heart of its rowdiness there is a sort of mad modesty; a [[Desire|desire]]
-to melt the separate [[Soul|soul]] into the mass of unpretentious masculinity.
-It is a clamorous confession of the weakness of all flesh.
-No man must be superior to the things that are common to men.
-This sort of equality must be bodily and gross and comic.
-Not only are we all in the same boat, but we are all seasick.
+This book must avoid religion, but there must (I say)
+be many, religious and irreligious, who will concede
+that this power of answering many purposes was a sort
+of strength which should not wholly die out of our lives.
+As a part of personal character, even the moderns will agree that
+many-sidedness is a merit and a merit that may easily be overlooked.
+This balance and universality has been the vision of many groups
+of men in many ages.  It was the Liberal [[Education]] of Aristotle;
+the jack-of-all-trades artistry of Leonardo da Vinci and his friends;
+the august amateurishness of the Cavalier Person of Quality like
+Sir William Temple or the great Earl of Dorset.  It has appeared
+in literature in our [[Time|time]] in the most erratic and opposite shapes,
+set to almost inaudible music by Walter Pater and enunciated
+through a foghorn by Walt Whitman.  But the great mass of men
+have always been unable to achieve this literal universality,
+because of the [[Nature|nature]] of their work in the world.
+Not, let it be noted, because of the existence of their work.
+Leonardo da Vinci must have worked pretty hard; on the other hand,
+many a [[government]] office clerk, village constable or elusive
+plumber may do (to all human appearance) no work at all,
+and yet show no signs of the Aristotelian universalism.
+What makes it difficult for the average man to be a
+universalist is that the average man has to be a specialist;
+he has not only to learn one trade, but to learn it so [[Well|well]]
+as to uphold him in a more or less ruthless society.
+This is generally true of males from the first hunter to the last
+electrical engineer; each has not merely to act, but to excel.
+Nimrod has not only to be a mighty hunter before the Lord,
+but also a mighty hunter before the other hunters.
+The electrical engineer has to be a very electrical engineer,
+or he is outstripped by engineers yet more electrical.
+Those very miracles of the human mind on which the modern
+world prides itself, and rightly in the main, would be
+impossible without a certain concentration which disturbs
+the pure balance of reason more than does religious bigotry.
+No creed can be so limiting as that awful adjuration that
+the cobbler must not go beyond his last.  So the largest and
+wildest shots of our world are but in one direction and with
+a defined trajectory:  the gunner cannot go beyond his shot,
+and his shot so often falls short; the astronomer cannot go
+beyond his telescope and his telescope goes such a little way.
+All these are like men who have stood on the high peak of a mountain
+and seen the horizon like a single ring and who then descend down
+different paths towards different towns, traveling slow or fast.
+It is right; there must be people traveling to different towns;
+there must be specialists; but shall no one behold the horizon?
+Shall all mankind be specialist surgeons or peculiar plumbers;
+shall all humanity be monomaniac?  Tradition has decided
+that only half of humanity shall be monomaniac.  It has decided
+that in every [[Home|home]] there shall be a tradesman and a Jack-of-
+all-trades.  But it has also decided, among other things, that 
+the Jack-of-all-trades shall be a Jill-of-all-trades. It
+has decided, rightly or wrongly, that this specialism
+and this universalism shall be divided between the sexes.
+Cleverness shall be left for men and wisdom for women.
+For cleverness kills wisdom; that is one of the few sad
+and certain things.

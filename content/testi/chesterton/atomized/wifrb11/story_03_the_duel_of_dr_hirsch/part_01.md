@@ -1,5 +1,5 @@
 ---
-title: "[[wifrb11]] — The Duel of Dr Hirsch (part 1)"
+title: "wifrb11 — The Duel of Dr Hirsch (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
                          The Duel of Dr Hirsch
-
 
 M. MAURICE BRUN and M. Armand Armagnac were crossing the sunlit
 Champs Elysee with a kind of vivacious respectability. 
@@ -92,8 +91,6 @@ I cannot: I will not.
      There is going to be another Dreyfus case.
 
                                              P. HIRSCH
-
-
 
      M. Armagnac looked at M. Brun.  M. Brun borrowed the letter,
 read it, and looked at M. Armagnac.  Then both betook themselves briskly

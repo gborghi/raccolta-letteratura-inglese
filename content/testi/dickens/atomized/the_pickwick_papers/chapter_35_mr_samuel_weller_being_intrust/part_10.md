@@ -1,0 +1,139 @@
+---
+title: "The Pickwick Papers — Chapter 39: MR. SAMUEL WELLER, BEING INTRUSTED WITH A MISSION OF (part 10)"
+author: "Dickens"
+unitType: excerpt
+parentWork: "works/the-pickwick-papers-(dickens)"
+tags:
+  - graph/excerpt
+  - author/Dickens
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_35_mr_samuel_weller_being_intrust/part_09">‹ part 09</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_35_mr_samuel_weller_being_intrust/part_11">part 11 ›</a></div>
+</nav>
+
+
+Nor were the conversations of these gentlemen the only sounds that broke
+upon the ear. Standing on a box behind a wooden bar at another end of
+the room was a clerk in spectacles who was ‘taking the affidavits’;
+large batches of which were, from [[Time|time]] to [[Time|time]], carried into the private
+room by another clerk for the judge’s signature. There were a large
+number of attorneys’ clerks to be sworn, and it being a moral
+impossibility to swear them all at once, the struggles of these
+gentlemen to reach the clerk in spectacles, were like those of a crowd
+to get in at the pit door of a theatre when Gracious Majesty honours it
+with its presence. Another functionary, from [[Time|time]] to [[Time|time]], exercised his
+lungs in calling over the names of those who had been sworn, for the
+purpose of restoring to them their affidavits after they had been signed
+by the judge, which gave rise to a few more scuffles; and all these
+things going on at the same [[Time|time]], occasioned as much bustle as the most
+active and excitable person could [[Desire|desire]] to behold. There were yet
+another class of persons--those who were waiting to attend summonses
+their employers had taken out, which it was optional to the attorney on
+the opposite side to attend or not--and whose business it was, from [[Time|time]]
+to [[Time|time]], to cry out the opposite attorney’s name; to make certain that
+he was not in attendance without their knowledge.
+
+For example. Leaning against the wall, close beside the seat Mr.
+[[Pickwick]] had taken, was an office-lad of fourteen, with a tenor voice;
+near him a common-law clerk with a bass one.
+
+A clerk hurried in with a bundle of papers, and stared about him.
+
+‘Sniggle and Blink,’ cried the tenor.
+
+‘Porkin and Snob,’ growled the bass.
+
+‘Stumpy and Deacon,’ said the new-comer.
+
+Nobody answered; the next man who came in, was bailed by the whole
+three; and he in his turn shouted for another firm; and then somebody
+else roared in a loud voice for another; and so forth.
+
+All this [[Time|time]], the man in the spectacles was hard at work, swearing the
+clerks; the oath being invariably administered, without any effort at
+punctuation, and usually in the following terms:--
+
+‘Take the book in your right hand this is your name and hand-writing you
+swear that the contents of this your affidavit are true so help you God
+a shilling you must get change I haven’t got it.’
+
+‘[[Well]], Sam,’ said Mr. [[Pickwick]], ‘I suppose they are getting the _Habeas-
+corpus_ ready?’
+
+‘Yes,’ said Sam, ‘and I vish they’d bring out the have-his-carcase. It’s
+wery unpleasant keepin’ us vaitin’ here. I’d ha’ got half a dozen have-
+his-carcases ready, pack’d up and all, by this [[Time|time]].’
+
+What sort of cumbrous and unmanageable [[Machine|machine]], [[Sam Weller]] imagined a
+habeas-corpus to be, does not appear; for Perker, at that moment, walked
+up and took Mr. [[Pickwick]] away.
+
+The usual forms having been gone through, the [[Body|body]] of [[Samuel Pickwick]]
+was soon afterwards confided to the custody of the tipstaff, to be by
+him taken to the warden of the Fleet [[Prison]], and there detained until
+the amount of the damages and costs in the action of Bardell against
+[[Pickwick]] was fully paid and satisfied.
+
+‘And that,’ said Mr. [[Pickwick]], laughing, ‘will be a very long [[Time|time]]. Sam,
+call another hackney-coach. Perker, my dear friend, good-bye.’
+
+‘I shall go with you, and see you safe there,’ said Perker.
+
+‘Indeed,’ replied Mr. [[Pickwick]], ‘I would rather go without any other
+attendant than Sam. As soon as I get settled, I will write and let you
+know, and I shall expect you immediately. Until then, good-bye.’
+
+As Mr. [[Pickwick]] said this, he got into the coach which had by this [[Time|time]]
+arrived, followed by the tipstaff. Sam having stationed himself on the
+box, it rolled away.
+
+‘A most extraordinary man that!’ said Perker, as he stopped to pull on
+his gloves.
+
+‘What a bankrupt he’d make, Sir,’ observed Mr. Lowten, who was standing
+near. ‘How he would bother the commissioners! He’d set ‘em at defiance
+if they talked of committing him, Sir.’
+
+The attorney did not appear very much delighted with his clerk’s
+professional estimate of Mr. [[Pickwick]]’s character, for he walked away
+without deigning any reply.
+
+The hackney-coach jolted along Fleet Street, as hackney-coaches usually
+do. The horses ‘went better’, the driver said, when they had anything
+before them (they must have gone at a most extraordinary pace when there
+was nothing), and so the vehicle kept behind a cart; when the cart
+stopped, it stopped; and when the cart went on again, it did the same.
+Mr. [[Pickwick]] sat opposite the tipstaff; and the tipstaff sat with his
+hat between his knees, whistling a tune, and looking out of the coach
+[[Window|window]].
+
+[[Time]] performs wonders. By the powerful old gentleman’s aid, even a
+hackney-coach gets over half a mile of ground. They stopped at length,
+and Mr. [[Pickwick]] alighted at the gate of the Fleet.
+
+The tipstaff, just looking over his shoulder to see that his charge was
+following close at his heels, preceded Mr. [[Pickwick]] into the [[Prison|prison]];
+turning to the left, after they had entered, they passed through an open
+door into a lobby, from which a heavy gate, opposite to that by which
+they had entered, and which was guarded by a stout turnkey with the key
+in his hand, led at once into the interior of the [[Prison|prison]].
+
+Here they stopped, while the tipstaff delivered his papers; and here Mr.
+[[Pickwick]] was apprised that he would remain, until he had undergone the
+ceremony, known to the initiated as ‘sitting for your portrait.’
+
+‘Sitting for my portrait?’ said Mr. [[Pickwick]].
+
+‘Having your likeness taken, sir,’ replied the stout turnkey.
+
+‘We’re capital hands at likenesses here. Take ‘em in no [[Time|time]], and always
+exact. Walk in, sir, and make yourself at [[Home|home]].’
+
+
+Mr. [[Pickwick]] complied with the invitation, and sat himself down; when
+Mr. Weller, who stationed himself at the back of the chair, whispered
+that the sitting was merely another term for undergoing an inspection by
+the different turnkeys, in order that they might know prisoners from
+visitors.

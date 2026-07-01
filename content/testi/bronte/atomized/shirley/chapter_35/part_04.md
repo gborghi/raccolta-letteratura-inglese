@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 35 (part 4)"
+title: "Shirley — Chapter 35 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,36 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_35/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_36/part_01">part 01 ›</a></div>
 </nav>
 
+
+would disdain. I suppose I was truly tempted by the mere gilding of the
+
+bait. Caroline, what a noble fellow your Robert is--great, good,
+
+disinterested, and then so pure!"
+
+
+
+"But not perfect. He made a great blunder once, and we will hear no more
+
+about it."
+
+
+
+"And shall we think no more about it, Cary? Shall we not despise him in
+
+our heart--gentle but just, compassionate but upright?"
+
+
+
+"Never! We will remember that with what measure we mete it shall be
+
+measured unto us, and so we will give no scorn, only affection."
+
+
+
+"Which won't satisfy, I warn you of that. Something besides
+
+affection--something far stronger, sweeter, warmer--will be demanded one
 
 day. Is it there to give?"
 

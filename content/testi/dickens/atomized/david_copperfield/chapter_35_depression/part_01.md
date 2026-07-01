@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 35: DEPRESSION (part 1)"
+title: "David Copperfield — Chapter 35: DEPRESSION (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -128,9 +128,3 @@ off.’
 ‘[[Well]], then, why DON’T you think so?’ said my aunt.
 
 ‘Because you and I are very different people,’ I returned.
-
-‘Stuff and nonsense, Trot!’ replied my aunt.
-
-My aunt went on with a quiet enjoyment, in which there was very little
-affectation, if any; drinking the warm ale with a tea-spoon, and soaking
-her strips of toast in it.

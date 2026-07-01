@@ -14,6 +14,10 @@ tags:
 </nav>
 
 
+"I must decline Captain Dalroy's invitation," said
+Ivywood at last, in a curious tone.  "Not so much
+because--"
+
 Before he could proceed, Leveson came racing across
 the copse, hallooing, "The police are here!"
 

@@ -17,8 +17,8 @@ tags:
 There is one small thing neglected in all our talk
 about [[Self|self]]-determination; and that is determination.
 There is a great deal more difference than there is between most
-motions and amendments between the things for which a [[Democracy|democracy]]
-will vote and the things on which a [[Democracy|democracy]] is determined.
+motions and amendments between the things for which a [[democracy]]
+will vote and the things on which a [[democracy]] is determined.
 You can take a vote among Jews and Christians and Moslems about whether
 lamp-posts should be painted green or portraits of politicians painted
 at all, and even their solid unanimity may be solid indifference.
@@ -35,7 +35,7 @@ parliamentary election, to vote on the other side for a change, to choose
 afresh between two middle-class gentlemen, who look exactly alike and
 only differ on a question about which nobody knows or cares anything.
 It is a question of contrasts that will almost certainly remain contrasts,
-except under the flood of some spiritual [[Conversion|conversion]] which cannot
+except under the flood of some spiritual [[conversion]] which cannot
 be foreseen and certainly cannot be enforced.  We cannot enrol
 these people under our religion, because we have not got one.
 We can enrol them under our [[government]], and if we are obliged to do that,

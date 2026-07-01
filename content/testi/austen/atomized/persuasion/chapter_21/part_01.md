@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 21 (part 1)"
+title: "Persuasion — Chapter 21 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -249,9 +249,3 @@ done.”
 
 
 “I should be extremely happy; I [[Hope|hope]] you cannot [[Doubt|doubt]] my willingness to
-
-be of even the slightest use to you,” replied Anne; “but I suspect that
-
-you are considering me as having a higher claim on Mr Elliot, a greater
-
-right to influence him, than is really the case. I am sure you have,

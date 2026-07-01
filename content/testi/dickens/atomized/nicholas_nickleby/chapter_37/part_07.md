@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 37 (part 7)"
+title: "Nicholas Nickleby — Chapter 37 (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,37 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_37/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_38/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘But this man, who is not a shoemaker--what has he done, mother, what
+has he said?’ inquired Nicholas, fretted almost beyond [[Endurance|endurance]], but
+looking nearly as resigned and patient as Mrs. Nickleby herself. ‘You
+know, there is no language of vegetables, which converts a cucumber into
+a formal declaration of attachment.’
+
+‘My dear,’ replied Mrs. Nickleby, tossing her head and looking at the
+ashes in the grate, ‘he has done and said all sorts of things.’
+
+‘Is there no mistake on your part?’ asked Nicholas.
+
+‘Mistake!’ cried Mrs. Nickleby. ‘Lord, Nicholas my dear, do you suppose I
+don’t know when a man’s in earnest?’
+
+‘[[Well]], [[Well|well]]!’ muttered Nicholas.
+
+‘Every [[Time|time]] I go to the [[Window|window]],’ said Mrs. Nickleby, ‘he kisses one hand,
+and lays the other upon his heart--of course it’s very foolish of him
+to do so, and I dare say you’ll say it’s very wrong, but he does it very
+respectfully--very respectfully indeed--and very tenderly, extremely
+tenderly. So far, he deserves the greatest credit; there can be no [[Doubt|doubt]]
+about that. Then, there are the presents which come pouring over the
+wall every day, and very fine they certainly are, very fine; we had one
+of the cucumbers at dinner yesterday, and think of pickling the rest
+for next [[Winter|winter]]. And last evening,’ added Mrs. Nickleby, with increased
+confusion, ‘he called gently over the wall, as I was walking in the
+[[Garden|garden]], and proposed [[Marriage|marriage]], and an elopement. His voice is as clear
+as a bell or a musical glass--very like a musical glass indeed--but of
+course I didn’t listen to it. Then, the question is, Nicholas my dear,
+what am I to do?’
 
 ‘Does Kate know of this?’ asked Nicholas.
 

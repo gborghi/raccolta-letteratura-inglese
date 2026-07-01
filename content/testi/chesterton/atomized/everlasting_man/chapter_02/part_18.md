@@ -14,6 +14,31 @@ tags:
 </nav>
 
 
+Now it is worth while to pause upon that story because, as has
+been suggested, it directly contradicts the impression still
+current that nomadism is merely a prehistoric thing and social
+settlement a comparatively recent thing.  There is nothing to show
+that the Babylonians had ever wandered; there is very little
+to show that the tribes of the [[Desert|desert]] ever settled down.
+Indeed it is probable that this notion of a nomadic stage followed
+by a static stage has already been abandoned by the sincere
+and genuine scholars to whose researches we all owe so much.
+But I am not at issue in this book with sincere and genuine scholars,
+but with a vast and vague public opinion which has been prematurely
+spread from certain imperfect investigations, and which has made
+fashionable a false notion of the whole [[history]] of humanity.
+It is the whole vague notion that a monkey evolved into a man and in the
+same way a barbarian evolved into a civilised man and therefore at every
+stage we have to look back to barbarism and forward to civilisation.
+Unfortunately this notion is in a [[Double|double]] sense entirely in the air.
+It is an atmosphere in which men live rather than a thesis
+which they defend.  Men in that mood are more easily answered
+by objects than by theories; and it will be [[Well|well]] if anyone tempted
+to make that assumption, in some trivial turn of talk or writing,
+can be checked for a moment by shutting his eyes and seeing for
+an instant, vast and vaguely crowded, like a populous precipice,
+the [[Wonder|wonder]] of the Babylonian wall.
+
 One fact does certainly fall across us like its [[Shadow|shadow]].
 Our glimpses of both these early empires show that the first domestic
 relation had been complicated by something which was less human,

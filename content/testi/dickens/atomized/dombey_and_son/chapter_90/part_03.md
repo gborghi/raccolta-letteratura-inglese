@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 34 (part 3)"
+title: "Dombey and Son — Chapter 62 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -10,151 +10,94 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/dombey-and-son-(dickens)">Dombey and Son</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_90/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_90/part_04">part 04 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_90/part_02">‹ part 02</a><span></span></div>
 </nav>
 
 
-Her mother, after watching her for some [[Time|time]] without speaking, ventured
-to steal her withered hand a little nearer to her across the table; and
-finding that she permitted this, to touch her face, and smooth her
-hair. With the feeling, as it seemed, that the old woman was at least
-sincere in this show of interest, Alice made no movement to check her;
-so, advancing by degrees, she bound up her daughter’s hair afresh, took
-off her wet shoes, if they deserved the name, spread something dry upon
-her shoulders, and hovered humbly about her, muttering to herself, as
-she recognised her old features and expression more and more.
+And so they range away again, busily, for the white-haired gentleman
+likes best to see the [[Child|child]] free and stirring; and as they go about
+together, the story of the bond between them goes about, and follows
+them.
 
-“You are very poor, mother, I see,” said Alice, looking round, when she
-had sat thus for some [[Time|time]].
+But no one, except Florence, knows the measure of the white-haired
+gentleman’s affection for the girl. That story never goes about. The
+[[Child|child]] herself almost wonders at a certain secrecy he keeps in it. He
+hoards her in his heart. He cannot bear to see a cloud upon her face.
+He cannot bear to see her sit apart. He fancies that she feels a
+slight, when there is none. He steals away to look at her, in her
+[[Sleep|sleep]]. It pleases him to have her come, and wake him in the morning. He
+is fondest of her and most loving to her, when there is no creature by.
+The [[Child|child]] says then, sometimes:
 
-“Bitter poor, my deary,” replied the old woman.
+“Dear grandpapa, why do you cry when you kiss me?”
 
-She admired her daughter, and was afraid of her. Perhaps her
-admiration, such as it was, had originated long ago, when she first
-found anything that was beautiful appearing in the midst of the squalid
-fight of her existence. Perhaps her [[Fear|fear]] was referable, in some sort,
-to the retrospect she had so lately heard. Be this as it might, she
-stood, submissively and deferentially, before her [[Child|child]], and inclined
-her head, as if in a pitiful entreaty to be spared any further
-reproach.
+He only answers, “Little Florence! little Florence!” and smooths away
+the curls that shade her earnest eyes.
 
-“How have you lived?”
+The voices in the waves speak low to him of Florence, day and
+[[Night|night]]—plainest when he, his blooming daughter, and her husband, beside
+them in the evening, or sit at an open [[Window|window]], listening to their roar.
+They speak to him of Florence and his altered heart; of Florence and
+their ceaseless murmuring to her of the [[Love|love]], eternal and illimitable,
+extending still, beyond the sea, beyond the sky, to the invisible
+country far away.
 
-“By begging, my deary.
+Never from the mighty sea may voices rise too late, to come between us
+and the unseen region on the other shore! Better, far better, that they
+whispered of that region in our childish ears, and the swift [[River|river]]
+hurried us away!
 
-“And pilfering, mother?”
 
-“Sometimes, Ally—in a very small way. I am old and timid. I have taken
-trifles from children now and then, my deary, but not often. I have
-tramped about the country, pet, and I know what I know. I have
-watched.”
 
-“Watched?” returned the daughter, looking at her.
 
-“I have hung about a family, my deary,” said the mother, even more
-humbly and submissively than before.
+PREFACE OF 1848
 
-“What family?”
 
-“Hush, darling. Don’t be angry with me. I did it for the [[Love|love]] of you.
-In [[Memory|memory]] of my poor gal beyond seas.” She put out her hand
-deprecatingly, and drawing it back again, laid it on her lips.
+I cannot forego my usual opportunity of saying farewell to my readers
+in this greeting-place, though I have only to acknowledge the unbounded
+warmth and earnestness of their sympathy in every stage of the [[Journey|journey]]
+we have just concluded.
 
-“Years ago, my deary,” she pursued, glancing timidly at the attentive
-and stern face opposed to her, “I came across his little [[Child|child]], by
-chance.”
+If any of them have felt a sorrow in one of the principal incidents on
+which this fiction turns, I [[Hope|hope]] it may be a sorrow of that sort which
+endears the sharers in it, one to another. This is not unselfish in me.
+I may claim to have felt it, at least as much as anybody else; and I
+would fain be remembered kindly for my part in the experience.
 
-“Whose [[Child|child]]?”
+DEVONSHIRE TERRACE, Twenty-Fourth March, 1848.
 
-“Not his, Alice deary; don’t look at me like that; not his. How could
-it be his? You know he has none.”
 
-“Whose then?” returned the daughter. “You said his.”
 
-“Hush, Ally; you frighten me, deary. Mr Dombey’s—only Mr Dombey’s.
-Since then, darling, I have seen them often. I have seen _him_.”
 
-In uttering this last word, the old woman shrunk and recoiled, as if
-with sudden [[Fear|fear]] that her daughter would strike her. But though the
-daughter’s face was fixed upon her, and expressed the most vehement
-passion, she remained still: except that she clenched her arms tighter
-and tighter within each other, on her bosom, as if to restrain them by
-that means from doing an injury to herself, or someone else, in the
-blind fury of the wrath that suddenly possessed her.
+PREFACE OF 1867
 
-“Little he thought who I was!” said the old woman, shaking her clenched
-hand.
 
-“And little he cared!” muttered her daughter, between her teeth.
+I make so bold as to believe that the faculty (or the habit) of
+correctly observing the characters of men, is a rare one. I have not
+even found, within my experience, that the faculty (or the habit) of
+correctly observing so much as the faces of men, is a general one by
+any means. The two commonest mistakes in judgement that I suppose to
+arise from the former default, are, the confounding of shyness with
+arrogance—a very common mistake indeed—and the not understanding that
+an obstinate [[Nature|nature]] exists in a perpetual struggle with itself.
 
-“But there we were, said the old woman, “face to face. I spoke to him,
-and he spoke to me. I sat and watched him as he went away down a long
-grove of trees: and at every step he took, I cursed him [[Soul|soul]] and [[Body|body]].”
+Mr Dombey undergoes no violent change, either in this book, or in real
+life. A sense of his injustice is within him, all along. The more he
+represses it, the more unjust he necessarily is. Internal shame and
+external circumstances may bring the contest to a close in a week, or a
+day; but, it has been a contest for years, and is only fought out after
+a long balance of victory.
 
-“He will thrive in spite of that,” returned the daughter disdainfully.
-
-“Ay, he is thriving,” said the mother.
-
-She held her peace; for the face and form before her were unshaped by
-rage. It seemed as if the bosom would burst with the emotions that
-strove within it. The effort that constrained and held it pent up, was
-no less formidable than the rage itself: no less bespeaking the violent
-and dangerous character of the woman who made it. But it succeeded, and
-she asked, after a [[Silence|silence]]:
-
-“Is he married?”
-
-“No, deary,” said the mother.
-
-“Going to be?”
-
-“Not that I know of, deary. But his master and friend is married. Oh,
-we may give him joy! We may give ’em all joy!” cried the old woman,
-hugging herself with her lean arms in her exultation. “Nothing but joy
-to us will come of that [[Marriage|marriage]]. Mind me!”
-
-The daughter looked at her for an explanation.
-
-“But you are wet and tired; hungry and thirsty,” said the old woman,
-hobbling to the cupboard; “and there’s little here, and little”—diving
-down into her pocket, and jingling a few half—pence on the
-table—“little here. Have you any money, Alice, deary?”
-
-The covetous, sharp, eager face, with which she asked the question and
-looked on, as her daughter took out of her bosom the little gift she
-had so lately received, told almost as much of the [[history]] of this
-parent and [[Child|child]] as the [[Child|child]] herself had told in words.
-
-“Is that all?” said the mother.
-
-“I have no more. I should not have this, but for [[Charity|charity]].”
-
-“But for [[Charity|charity]], eh, deary?” said the old woman, bending greedily over
-the table to look at the money, which she appeared distrustful of her
-daughter’s still retaining in her hand, and gazing on. “Humph! six and
-six is twelve, and six eighteen—so—we must make the most of it. I’ll go
-buy something to eat and drink.”
-
-With greater alacrity than might have been expected in one of her
-appearance—for age and misery seemed to have made her as decrepit as
-ugly—she began to occupy her trembling hands in tying an old bonnet on
-her head, and folding a torn shawl about herself: still eyeing the
-money in her daughter’s hand, with the same sharp [[Desire|desire]].
-
-“What joy is to come to us of this [[Marriage|marriage]], mother?” asked the
-daughter. “You have not told me that.”
-
-“The joy,” she replied, attiring herself, with fumbling fingers, “of no
-[[Love|love]] at all, and much [[Pride|pride]] and hate, my deary. The joy of confusion
-and strife among ’em, proud as they are, and of danger—danger, Alice!”
-
-“What danger?”
-
-“I have seen what I have seen. I know what I know!” chuckled the
-mother. “Let some look to it. Let some be upon their guard. My gal may
-keep good company yet!”
-
-Then, seeing that in the wondering earnestness with which her daughter
-regarded her, her hand involuntarily closed upon the money, the old
-woman made more [[Speed|speed]] to secure it, and hurriedly added, “but I’ll go
-buy something; I’ll go buy something.”
+I began this book by the Lake of Geneva, and went on with it for some
+months in France, before pursuing it in England. The association
+between the writing and the place of writing is so curiously strong in
+my mind, that at this day, although I know, in my fancy, every stair in
+the little midshipman’s [[house]], and could swear to every pew in the
+church in which Florence was married, or to every young gentleman’s
+bedstead in Doctor Blimber’s establishment, I yet confusedly imagine
+[[Captain Cuttle]] as secluding himself from Mrs MacStinger among the
+[[Mountains|mountains]] of Switzerland. Similarly, when I am reminded by any chance
+of what it was that the waves were always saying, my remembrance
+wanders for a whole [[Winter|winter]] [[Night|night]] about the streets of [[Paris]]—as I
+restlessly did with a heavy heart, on the [[Night|night]] when I had written the
+chapter in which my little friend and I parted company.

@@ -1,5 +1,5 @@
 ---
-title: "The Picture of [[Dorian Gray]] — Chapter 6"
+title: "The Picture of Dorian Gray — Chapter 6"
 author: "Wilde"
 unitType: chapter
 parentWork: "works/the-picture-of-dorian-gray-(wilde)"
@@ -25,7 +25,7 @@ Hallward started and then frowned. “Dorian engaged to be married!” he cried.
 “I can’t believe it. Dorian is far too sensible.”
 “Dorian is far too wise not to do foolish things now and then, my dear Basil.”
 “[[Marriage]] is hardly a thing that one can do now and then, Harry.”
-“Except in [[America]],” rejoined Lord Henry languidly. “But I didn’t say he was married. I said he was engaged to be married. There is a great difference. I have a distinct remembrance of being married, but I have no recollection at all of being engaged. I am inclined to think that I never was engaged.”
+“Except in [[america|America]],” rejoined Lord Henry languidly. “But I didn’t say he was married. I said he was engaged to be married. There is a great difference. I have a distinct remembrance of being married, but I have no recollection at all of being engaged. I am inclined to think that I never was engaged.”
 “But think of Dorian’s birth, and position, and wealth. It would be absurd for him to marry so much beneath him.”
 “If you want to make him marry this girl, tell him that, Basil. He is sure to do it, then. Whenever a man does a thoroughly stupid thing, it is always from the noblest motives.”
 “I [[Hope|hope]] the girl is good, Harry. I don’t want to see Dorian tied to some vile creature, who might degrade his [[Nature|nature]] and ruin his intellect.”

@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 13 (part 1)"
+title: "Nicholas Nickleby — Chapter 13 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -148,6 +148,3 @@ he best could.
 
 ‘There,’ said Squeers. ‘Now if any other boy thinks [[Smike]] has run away,
 I shall be glad to have a talk with him.’
-
-There was, of course, a profound [[Silence|silence]], during which Nicholas showed
-his disgust as plainly as looks could show it.

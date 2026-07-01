@@ -14,6 +14,9 @@ tags:
 </nav>
 
 
+I will quote but one more paragraph, which, by reason of its monstrous
+absurdity, may be a relief to these atrocious deeds.
+
                              ‘_Affair of Honour_.
 
     ‘We have just heard the particulars of a meeting which took place on
@@ -38,7 +41,7 @@ Now, I appeal to every human mind, imbued with the commonest of common
 sense, and the commonest of common humanity; to all dispassionate,
 reasoning creatures, of any shade of opinion; and ask, with these
 revolting evidences of the state of society which exists in and about the
-slave districts of [[America]] before them, can they have a [[Doubt|doubt]] of the real
+slave districts of [[america|America]] before them, can they have a [[Doubt|doubt]] of the real
 condition of the slave, or can they for a moment make a compromise
 between the institution or any of its flagrant, fearful features, and
 their own just consciences? Will they say of any tale of cruelty and
@@ -96,6 +99,6 @@ and let us not, like dastards, beat about the bush by hinting at the
 Spaniard and the fierce Italian.  When knives are drawn by Englishmen in
 conflict let it be said and known: ‘We owe this change to Republican
 [[Slavery]].  These are the weapons of [[Freedom]].  With sharp points and edges
-such as these, Liberty in [[America]] hews and hacks her slaves; or, failing
+such as these, Liberty in [[america|America]] hews and hacks her slaves; or, failing
 that pursuit, her sons devote them to a better use, and turn them on each
 other.’

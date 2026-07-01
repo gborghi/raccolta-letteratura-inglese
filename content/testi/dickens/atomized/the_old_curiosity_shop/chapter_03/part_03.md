@@ -14,6 +14,23 @@ tags:
 </nav>
 
 
+She [[Rose|rose]], and hurrying away, stopped, turned back, and put her arms
+about the old man’s neck, then left him and hurried away again--but
+faster this [[Time|time]], to hide her falling [[Tears|tears]].
+
+‘A word in your ear, sir,’ said the old man in a hurried whisper. ‘I
+have been rendered uneasy by what you said the other [[Night|night]], and can
+only plead that I have done all for the best--that it is too late to
+retract, if I could (though I cannot)--and that I [[Hope|hope]] to triumph yet.
+All is for her sake. I have borne great [[Poverty|poverty]] myself, and would spare
+her the sufferings that [[Poverty|poverty]] carries with it. I would spare her the
+miseries that brought her mother, my own dear [[Child|child]], to an early [[Grave|grave]].
+I would leave her--not with resources which could be easily spent or
+squandered away, but with what would place her beyond the reach of want
+for ever. You mark me sir? She shall have no pittance, but a
+fortune--Hush! I can say no more than that, now or at any other [[Time|time]],
+and she is here again!’
+
 The eagerness with which all this was poured into my ear, the trembling
 of the hand with which he clasped my arm, the strained and starting
 eyes he fixed upon me, the wild vehemence and agitation of his manner,

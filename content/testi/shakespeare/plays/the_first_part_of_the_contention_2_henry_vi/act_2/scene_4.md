@@ -1,5 +1,5 @@
 ---
-title: "The First Part of the Contention (2 [[Henry VI]]) — Act II, Scene 4"
+title: "The First Part of the Contention (2 Henry VI) — Act II, Scene 4"
 author: "Shakespeare"
 unitType: scene
 parentWork: "works/the-first-part-of-the-contention---(2-henry-vi)-(shakespeare)"

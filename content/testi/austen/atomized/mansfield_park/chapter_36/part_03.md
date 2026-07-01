@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 36 (part 3)"
+title: "Mansfield Park — Chapter 36 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/mansfield_park/chapter_36/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/mansfield_park/chapter_37/part_01">part 01 ›</a></div>
 </nav>
 
+
+There was, indeed, so deep a blush over Fanny’s face at that moment as
+might warrant strong suspicion in a predisposed mind.
 
 “Excellent creature! I will not tease you. Everything shall take its
 course. But, dear Fanny, you must allow that you were not so absolutely
@@ -103,7 +106,7 @@ these words.
 
 “I shall see your cousin in town soon: he talks of being there
 tolerably soon; and Sir Thomas, I dare say, in the course of the
-[[spring]]; and your eldest cousin, and the Rushworths, and [[Julia]], I am
+[[Spring|spring]]; and your eldest cousin, and the Rushworths, and [[Julia]], I am
 sure of meeting again and again, and all but you. I have two favours to
 ask, Fanny: one is your correspondence. You must write to me. And the
 other, that you will often call on Mrs. Grant, and make her amends for

@@ -104,6 +104,3 @@ certain unfathomable contempt for people who are so easily taken in.
 He professes to know how to lay the foundations for every species of
 personal acquaintanceship, and how to remedy the slight and trivial
 slips of making Plato write Greek in naughts and crosses.
-
-    "As I [[Fear|fear]], sir, he sometimes used to do
-    Before I found the useful book that knows."

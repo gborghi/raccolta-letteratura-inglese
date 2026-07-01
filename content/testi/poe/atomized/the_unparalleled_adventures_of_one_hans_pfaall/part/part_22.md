@@ -1,5 +1,5 @@
 ---
-title: "[[The Unparalleled Adventures of one Hans Pfaall]] (part 22)"
+title: "The Unparalleled Adventures of one Hans Pfaall (part 22)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-unparalleled-adventures-of-one-hans-pfaall-(poe)"
@@ -13,6 +13,116 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/part/part_21">‹ part 21</a><a class="ex-next" href="/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/part/part_23">part 23 ›</a></div>
 </nav>
 
+
+      the line of division is found to be rough and jagged; but, were
+
+      these dark places liquid, it would evidently be even.
+
+
+
+      The description of the wings of the man-bat, on page 21, is but a
+
+      literal copy of Peter Wilkins’ account of the wings of his flying
+
+      islanders. This simple fact should have induced suspicion, at
+
+      least, it might be thought.
+
+
+
+      On page 23, we have the following: “What a prodigious influence
+
+      must our thirteen times larger globe have exercised upon this
+
+      satellite when an embryo in the womb of [[Time|time]], the passive subject
+
+      of chemical affinity!” This is very fine; but it should be
+
+      observed that no astronomer would have made such remark,
+
+      especially to any journal of Science; for the earth, in the sense
+
+      intended, is not only thirteen, but forty-nine times larger than
+
+      the [[Moon|moon]]. A similar objection applies to the whole of the
+
+      concluding pages, where, by way of introduction to some
+
+      discoveries in [[Saturn]], the philosophical correspondent enters
+
+      into a minute schoolboy account of that planet—this to the
+
+      “Edinburgh Journal of Science!”
+
+
+
+      But there is one point, in particular, which should have betrayed
+
+      the fiction. Let us imagine the power actually possessed of
+
+      seeing [[Animals|animals]] upon the [[Moon|moon]]’s surface—what would first arrest
+
+      the attention of an observer from the earth? Certainly neither
+
+      their shape, size, nor any other such peculiarity, so soon as
+
+      their remarkable _situation_. They would appear to be walking,
+
+      with heels up and head down, in the manner of flies on a ceiling.
+
+      The _real_ observer would have uttered an instant ejaculation of
+
+      surprise (however prepared by previous knowledge) at the
+
+      singularity of their position; the _fictitious_ observer has not
+
+      even mentioned the subject, but speaks of seeing the entire
+
+      bodies of such creatures, when it is demonstrable that he could
+
+      have seen only the diameter of their heads!
+
+
+
+      It might as [[Well|well]] be remarked, in conclusion, that the size, and
+
+      particularly the powers of the man-bats (for example, their
+
+      ability to fly in so rare an atmosphere—if, indeed, the [[Moon|moon]] have
+
+      any), with most of the other fancies in regard to animal and
+
+      vegetable existence, are at variance, generally, with all
+
+      analogical reasoning on these themes; and that analogy here will
+
+      often amount to conclusive demonstration. It is, perhaps,
+
+      scarcely necessary to add, that all the suggestions attributed to
+
+      Brewster and Herschel, in the beginning of the article, about “a
+
+      transfusion of artificial light through the focal object of
+
+      vision,” etc., etc., belong to that species of figurative writing
+
+      which comes, most properly, under the denomination of rigmarole.
+
+
+
+      There is a real and very definite limit to optical discovery
+
+      among the [[Stars|stars]]—a limit whose [[Nature|nature]] need only be stated to be
+
+      understood. If, indeed, the casting of large lenses were all that
+
+      is required, man’s ingenuity would ultimately prove equal to the
+
+      task, and we might have them of any size demanded. But,
+
+      unhappily, in proportion to the increase of size in the lens, and
+
+      consequently of space-penetrating power, is the diminution of
 
       light from the object, by diffusion of its rays. And for this
 
@@ -97,115 +207,3 @@ tags:
       After some irrelevant adventures, much in the manner of Gil Blas,
 
       and which occupy the first thirty pages, the author relates that,
-
-      being ill during a sea voyage, the crew abandoned him, together
-
-      with a negro servant, on the island of St. [[Helena]]. To increase
-
-      the chances of obtaining food, the two separate, and live as far
-
-      apart as possible. This brings about a training of [[Birds|birds]], to
-
-      serve the purpose of carrier-pigeons between them. By and by
-
-      these are taught to carry parcels of some weight—and this weight
-
-      is gradually increased. At length the idea is entertained of
-
-      uniting the force of a great number of the [[Birds|birds]], with a view to
-
-      raising the author himself. A [[Machine|machine]] is contrived for the
-
-      purpose, and we have a minute description of it, which is
-
-      materially helped out by a steel engraving. Here we perceive the
-
-      Signor Gonzales, with point ruffles and a huge periwig, seated
-
-      astride something which resembles very closely a broomstick, and
-
-      borne aloft by a multitude of wild swans _(ganzas)_ who had
-
-      strings reaching from their tails to the [[Machine|machine]].
-
-
-
-      The main event detailed in the Signor’s narrative depends upon a
-
-      very important fact, of which the reader is kept in ignorance
-
-      until near the end of the book. The _ganzas,_ with whom he had
-
-      become so familiar, were not really denizens of St. [[Helena]], but
-
-      of the [[Moon|moon]]. Thence it had been their custom, [[Time|time]] out of mind,
-
-      to migrate annually to some portion of the earth. In proper
-
-      season, of course, they would return [[Home|home]]; and the author,
-
-      happening, one day, to require their services for a short voyage,
-
-      is unexpectedly carried straight tip, and in a very brief period
-
-      arrives at the satellite. Here he finds, among other odd things,
-
-      that the people enjoy extreme happiness; that they have no _law;_
-
-      that they die without [[Pain|pain]]; that they are from ten to thirty feet
-
-      in height; that they live five thousand years; that they have an
-
-      emperor called Irdonozur; and that they can jump sixty feet high,
-
-      when, being out of the gravitating influence, they fly about with
-
-      fans.
-
-
-
-      I cannot forbear giving a specimen of the general _philosophy_ of
-
-      the volume.
-
-
-
-“I must not forget here, that the [[Stars|stars]] appeared only on that side of
-
-the globe turned toward the [[Moon|moon]], and that the closer they were to it
-
-the larger they seemed. I have also me and the earth. As to the [[Stars|stars]],
-
-_since there was no [[Night|night]] where I was, they always had the same
-
-appearance; not brilliant, as usual, but pale, and very nearly like the
-
-[[Moon|moon]] of a morning. _But few of them were visible, and these ten times
-
-larger (as [[Well|well]] as I could judge) than they seem to the inhabitants of
-
-the earth. The [[Moon|moon]], which wanted two days of being full, was of a
-
-terrible bigness.
-
-
-
-“I must not forget here, that the [[Stars|stars]] appeared only on that side of
-
-the globe turned toward the [[Moon|moon]], and that the closer they were to it
-
-the larger they seemed. I have also to inform you that, whether it was
-
-calm weather or stormy, I found myself _always immediately between the
-
-[[Moon|moon]] and the earth._ I_ _was convinced of this for two reasons-because
-
-my [[Birds|birds]] always flew in a straight line; and because whenever we
-
-attempted to rest, _we were carried insensibly around the globe of the
-
-earth. _For I admit the opinion of Copernicus, who maintains that it
-
-never ceases to revolve _from the east to the west, _not upon the poles
-
-of the Equinoctial, commonly called the poles of the world, but upon

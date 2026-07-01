@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 19 (part 3)"
+title: "The Professor — Chapter 19 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_professor/chapter_20/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/the_professor/chapter_20/part_04">part 04 ›</a></div>
 </nav>
 
+
+issuing forth into the square, came into disadvantageous contrast with
+
+freshly and trimly attired foreign figures, hastening to attend salut
+
+at the church of Coburg.) I had passed these pairs of Britons, and
+
+the groups of pretty British children, and the British footmen and
+
+waiting-maids; I had crossed the Place Royale, and got into the Rue
 
 Royale, thence I had diverged into the Rue de Louvain--an old and quiet
 
@@ -94,8 +104,6 @@ everlastings announced, “The Protestant Cemetery, outside the gate of
 
 Louvain.”
 
-
-
 The place was large enough to afford half an hour’s strolling without
 
 the monotony of treading continually the same path; and, for those who
@@ -148,8 +156,6 @@ thunder-shower; where the tombs, and those they hid, lay impassible to
 
 sun or [[Shadow|shadow]], to rain or drought.
 
-
-
 Importuned by the sound of my own footsteps, I turned off upon the turf,
 
 and slowly advanced to a grove of yews; I saw something stir among the
@@ -173,19 +179,3 @@ which I fancy she had but just quitted, or I should have caught sight
 of her before. It was in a nook, screened by a clump of trees; there was
 
 the white wall before her, and a little stone set up against the wall,
-
-and, at the foot of the stone, was an allotment of turf freshly turned
-
-up, a new-made [[Grave|grave]]. I put on my spectacles, and passed softly close
-
-behind her; glancing at the [[Inscription|inscription]] on the stone, I read, “Julienne
-
-Henri, died at Brussels, aged sixty. August 10th, 18--.” Having perused
-
-the [[Inscription|inscription]], I looked down at the form sitting bent and thoughtful
-
-just under my eyes, unconscious of the vicinity of any living thing; it
-
-was a slim, youthful figure in mourning apparel of the plainest black
-
-stuff, with a little simple, black crape bonnet; I felt, as [[Well|well]] as

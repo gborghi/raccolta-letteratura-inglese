@@ -1,5 +1,5 @@
 ---
-title: "[[innocence]] — The Sins of Prince Saradine (part 2)"
+title: "innocence — The Sins of Prince Saradine (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -115,21 +115,3 @@ nose into a sneer.  Captain Stephen was a ne'er-do-weel, apparently,
 and had drained his benevolent brother of hundreds and thousands;
 forced him to fly from fashionable life and live quietly in this retreat.
 That was all Paul, the butler, would say, and Paul was obviously a partisan.
-
-The Italian housekeeper was somewhat more communicative, being,
-as Brown fancied, somewhat less content.  Her tone about her
-master was faintly acid; though not without a certain awe.
-[[Flambeau]] and his friend were standing in the room of the
-looking-glasses examining the red [[Sketch|sketch]] of the two boys,
-when the housekeeper swept in swiftly on some domestic errand.
-It was a peculiarity of this glittering, glass-panelled place
-that anyone entering was reflected in four or five mirrors at once;
-and [[Father Brown]], without turning round, stopped in the middle
-of a sentence of family criticism.  But [[Flambeau]], who had his face
-close up to the picture, was already saying in a loud voice,
-"The brothers Saradine, I suppose.  They both look [[Innocent|innocent]] enough.
-It would be hard to say which is the good brother and which the bad."
-Then, realising the lady's presence, he turned the conversation
-with some triviality, and strolled out into the [[Garden|garden]].
-But [[Father Brown]] still gazed steadily at the red crayon [[Sketch|sketch]];
-and Mrs. Anthony still gazed steadily at [[Father Brown]].

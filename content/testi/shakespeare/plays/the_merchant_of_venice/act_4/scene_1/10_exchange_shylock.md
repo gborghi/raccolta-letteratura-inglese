@@ -1,5 +1,5 @@
 ---
-title: "The Merchant of [[Venice]] — Act IV, Scene 1 — exchange ([[Shylock|SHYLOCK]]) [10]"
+title: "The Merchant of Venice — Act IV, Scene 1 — exchange (SHYLOCK) [10]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-merchant-of-venice-(shakespeare)"

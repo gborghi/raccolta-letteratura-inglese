@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 51 (part 3)"
+title: "Bleak House — Chapter 51 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_51/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_51/part_04">part 04 ›</a></div>
 </nav>
 
+
+“Is this a healthy place to live in, [[Richard]], do you think?” said I.
+
+“Why, my dear Minerva,” answered [[Richard]] with his old gay laugh, “it
+is neither a rural nor a cheerful place; and when the sun shines
+here, you may lay a pretty heavy wager that it is shining brightly in
+an open spot. But it’s [[Well|well]] enough for the [[Time|time]]. It’s near the
+offices and near Vholes.”
 
 “Perhaps,” I hinted, “a change from both—”
 
@@ -129,11 +137,3 @@ why, my dear. Then they began telling me how it was all over again,
 and I began to be sorry and glad again, and foolish again, and to
 hide my plain old face as much as I could lest I should put them out
 of heart.
-
-Thus the [[Time|time]] went on until it became necessary for me to think of
-returning. When that [[Time|time]] arrived it was the worst of all, for then
-my darling completely broke down. She clung round my neck, calling me
-by every dear name she could think of and saying what should she do
-without me! Nor was [[Richard]] much better; and as for me, I should have
-been the worst of the three if I had not severely said to myself,
-“Now Esther, if you do, I’ll never speak to you again!”

@@ -1,5 +1,5 @@
 ---
-title: "[[GKC-Autobiography]] — Chapter 3 (part 5)"
+title: "GKC-Autobiography — Chapter 3 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/gkc-autobiography-(chesterton)"
@@ -108,20 +108,3 @@ so low as to write stories, even crime stories, like myself;
 which some regard as almost tantamount to joining the criminal classes.
 But I do not believe any of his stories would be probable
 enough for fiction.
-
-Perhaps the same chapter of accidents, that threw me first in
-the way of these human curiosities, was responsible for another
-social accident, of which I am very glad; for it led to my seeing
-both sides of a very difficult social question; about which a great
-deal of nonsense is talked on both sides; and the worst nonsense
-of all by those who talk as if there were no question at all.
-It must be explained that St. Paul's School, in schoolboy language,
-was more than most others a school of "swots." I need hardly
-clear myself of the charge of swottishness; and, of course,
-there were many lazy boys, and some almost as lazy as I. But
-the diligent type was in a larger proportion than is usual;
-for the school was chiefly celebrated for winning scholarships at
-the Universities, rather than for athletics or other forms of fame.
-And there was another reason why this particular type was conspicuous.
-To put the point in popular language, there were a great many swots
-partly because there were a great many Jews.

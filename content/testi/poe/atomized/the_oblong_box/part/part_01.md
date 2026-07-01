@@ -1,5 +1,5 @@
 ---
-title: "[[The Oblong Box]] (part 1)"
+title: "The Oblong Box (part 1)"
 author: "Poe"
 unitType: excerpt
 tags:
@@ -202,11 +202,3 @@ Some years ago, I engaged passage from Charleston, S. C., to the
       exquisite taste—and then I had no [[Doubt|doubt]] that she had captivated
 
       my friend’s heart by the more enduring graces of the intellect
-
-      and [[Soul|soul]]. She said very few words, and passed at once into her
-
-      state-room with Mr. W.
-
-
-
-      My old inquisitiveness now returned. There was no servant—that

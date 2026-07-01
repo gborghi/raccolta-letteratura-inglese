@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 8 (part 4)"
+title: "Our Mutual Friend — Chapter 9 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,151 +14,131 @@ tags:
 </nav>
 
 
-‘At all events, they work,’ said Mr Boffin.
+Mr and Mrs Boffin complying, and pausing in the little hall until Miss
+[[Lavinia]] came up to show them where to go next, perceived three pairs of
+listening legs upon the stairs above. Mrs Wilfer’s legs, Miss Bella’s
+legs, Mr George Sampson’s legs.
 
-‘Ye-es,’ returned Eugene, disparagingly, ‘they work; but don’t you think
-they overdo it? They work so much more than they need—they make so much
-more than they can eat—they are so incessantly boring and buzzing at
-their one idea till [[Death]] comes upon them—that don’t you think they
-overdo it? And are human labourers to have no holidays, because of the
-[[Bees|bees]]? And am I never to have change of air, because the [[Bees|bees]] don’t? Mr
-Boffin, I think honey excellent at breakfast; but, regarded in the light
-of my conventional schoolmaster and moralist, I protest against the
-tyrannical humbug of your friend the bee. With the highest respect for
-you.’
+‘Mr and Mrs Boffin, I think?’ said [[Lavinia]], in a warning voice. Strained
+attention on the part of Mrs Wilfer’s legs, of Miss Bella’s legs, of Mr
+George Sampson’s legs.
 
-‘Thankee,’ said Mr Boffin. ‘Morning, morning!’
+‘Yes, Miss.’
 
-But, the worthy Mr Boffin jogged away with a comfortless impression he
-could have dispensed with, that there was a deal of unsatisfactoriness
-in the world, besides what he had recalled as appertaining to the Harmon
-property. And he was still jogging along Fleet Street in this condition
-of mind, when he became aware that he was closely tracked and observed
-by a man of genteel appearance.
+‘If you’ll step this way—down these stairs—I’ll let Ma know.’
+Excited flight of Mrs Wilfer’s legs, of Miss Bella’s legs, of Mr George
+Sampson’s legs.
 
-‘Now then?’ said Mr Boffin, stopping short, with his meditations brought
-to an abrupt check, ‘what’s the next article?’
+After waiting some quarter of an hour [[Alone|alone]] in the family sitting-room,
+which presented traces of having been so hastily arranged after a meal,
+that one might have doubted whether it was made tidy for visitors,
+or cleared for blindman’s buff, Mr and Mrs Boffin became aware of the
+entrance of Mrs Wilfer, majestically faint, and with a condescending
+stitch in her side: which was her company manner.
 
-‘I beg your pardon, Mr Boffin.’
+‘Pardon me,’ said Mrs Wilfer, after the first salutations, and as soon
+as she had adjusted the handkerchief under her chin, and waved her
+gloved hands, ‘to what am I indebted for this [[Honour|honour]]?’
 
-‘My name too, eh? How did you come by it? I don’t know you.’
+‘To make short of it, ma’am,’ returned Mr Boffin, ‘perhaps you may be
+acquainted with the names of me and Mrs Boffin, as having come into a
+certain property.’
 
-‘No, sir, you don’t know me.’
+‘I have heard, sir,’ returned Mrs Wilfer, with a dignified bend of her
+head, ‘of such being the case.’
 
-Mr Boffin looked full at the man, and the man looked full at him.
+‘And I dare say, ma’am,’ pursued Mr Boffin, while Mrs Boffin added
+confirmatory nods and smiles, ‘you are not very much inclined to take
+kindly to us?’
 
-‘No,’ said Mr Boffin, after a glance at the pavement, as if it were made
-of faces and he were trying to match the man’s, ‘I DON’T know you.’
+‘Pardon me,’ said Mrs Wilfer. ‘’Twere unjust to visit upon Mr and Mrs
+Boffin, a calamity which was doubtless a dispensation.’ These words
+were rendered the more effective by a serenely heroic expression of
+[[Suffering|suffering]].
 
-‘I am nobody,’ said the stranger, ‘and not likely to be known; but Mr
-Boffin’s wealth—’
+‘That’s fairly meant, I am sure,’ remarked the honest Mr Boffin; ‘Mrs
+Boffin and me, ma’am, are plain people, and we don’t want to pretend
+to anything, nor yet to go round and round at anything because there’s
+always a straight way to everything. Consequently, we make this call
+to say, that we shall be glad to have the [[Honour|honour]] and pleasure of your
+daughter’s acquaintance, and that we shall be rejoiced if your daughter
+will come to consider our [[house]] in the light of her [[Home|home]] equally with
+this. In short, we want to cheer your daughter, and to give her
+the opportunity of sharing such pleasures as we are a going to take
+ourselves. We want to brisk her up, and brisk her about, and give her a
+change.’
 
-‘Oh! that’s got about already, has it?’ muttered Mr Boffin.
+‘That’s it!’ said the open-hearted Mrs Boffin. ‘Lor! Let’s be
+comfortable.’
 
-‘—And his romantic manner of acquiring it, make him conspicuous. You
-were pointed out to me the other day.’
+Mrs Wilfer bent her head in a distant manner to her lady visitor, and
+with majestic monotony replied to the gentleman:
 
-‘[[Well]],’ said Mr Boffin, ‘I should say I was a disappintment to you when
-I WAS pinted out, if your politeness would allow you to confess it, for
-I am [[Well|well]] aware I am not much to look at. What might you want with me?
-Not in the law, are you?’
+‘Pardon me. I have several daughters. Which of my daughters am I to
+understand is thus favoured by the kind intentions of Mr Boffin and his
+lady?’
 
-‘No, sir.’
+‘Don’t you see?’ the ever-smiling Mrs Boffin put in. ‘Naturally, Miss
+Bella, you know.’
 
-‘No information to give, for a reward?’
+‘Oh-h!’ said Mrs Wilfer, with a severely unconvinced look. ‘My daughter
+Bella is accessible and shall speak for herself.’ Then opening the door
+a little way, simultaneously with a sound of scuttling outside it,
+the good lady made the proclamation, ‘Send Miss Bella to me!’ which
+proclamation, though grandly formal, and one might almost say heraldic,
+to hear, was in fact enunciated with her maternal eyes reproachfully
+glaring on that young lady in the flesh—and in so much of it that she
+was retiring with difficulty into the small closet under the stairs,
+apprehensive of the emergence of Mr and Mrs Boffin.
 
-‘No, sir.’
+‘The avocations of R. W., my husband,’ Mrs Wilfer explained, on resuming
+her seat, ‘keep him fully engaged in the [[City]] at this [[Time|time]] of the day,
+or he would have had the [[Honour|honour]] of participating in your reception
+beneath our humble roof.’
 
-There may have been a momentary mantling in the face of the man as he
-made the last answer, but it passed directly.
+‘Very pleasant premises!’ said Mr Boffin, cheerfully.
 
-‘If I don’t mistake, you have followed me from my lawyer’s and tried
-to fix my attention. Say out! Have you? Or haven’t you?’ demanded Mr
-Boffin, rather angry.
+‘Pardon me, sir,’ returned Mrs Wilfer, correcting him, ‘it is the abode
+of conscious though independent [[Poverty]].’
 
-‘Yes.’
+Finding it rather difficult to pursue the conversation down this [[Road|road]],
+Mr and Mrs Boffin sat staring at mid-air, and Mrs Wilfer sat silently
+giving them to understand that every breath she drew required to be
+drawn with a [[Self|self]]-denial rarely paralleled in [[history]], until Miss Bella
+appeared: whom Mrs Wilfer presented, and to whom she explained the
+purpose of the visitors.
 
-‘Why have you?’
+‘I am much obliged to you, I am sure,’ said Miss Bella, coldly shaking
+her curls, ‘but I [[Doubt|doubt]] if I have the inclination to go out at all.’
 
-‘If you will allow me to walk beside you, Mr Boffin, I will tell you.
-Would you object to turn aside into this place—I think it is called
-[[Clifford]]’s Inn—where we can hear one another better than in the roaring
-street?’
+‘Bella!’ Mrs Wilfer admonished her; ‘Bella, you must conquer this.’
 
-(‘Now,’ thought Mr Boffin, ‘if he proposes a game at skittles, or meets
-a country gentleman just come into property, or produces any article
-of jewellery he has found, I’ll knock him down!’ With this discreet
-reflection, and carrying his stick in his arms much as Punch carries
-his, Mr Boffin turned into [[Clifford]]’s Inn aforesaid.)
+‘Yes, do what your Ma says, and conquer it, my dear,’ urged Mrs Boffin,
+‘because we shall be so glad to have you, and because you are much too
+pretty to keep yourself shut up.’ With that, the pleasant creature gave
+her a kiss, and patted her on her dimpled shoulders; Mrs Wilfer sitting
+stiffly by, like a functionary presiding over an interview previous to
+an execution.
 
-‘Mr Boffin, I happened to be in Chancery Lane this morning, when I saw
-you going along before me. I took the liberty of following you, trying
-to make up my mind to speak to you, till you went into your lawyer’s.
-Then I waited outside till you came out.’
+‘We are going to move into a nice [[house]],’ said Mrs Boffin, who was woman
+enough to compromise Mr Boffin on that point, when he couldn’t very [[Well|well]]
+contest it; ‘and we are going to set up a nice carriage, and we’ll go
+everywhere and see everything. And you mustn’t,’ seating Bella beside
+her, and patting her hand, ‘you mustn’t feel a dislike to us to begin
+with, because we couldn’t help it, you know, my dear.’
 
-(‘Don’t quite sound like skittles, nor yet country gentleman, nor yet
-jewellery,’ thought Mr Boffin, ‘but there’s no knowing.’)
+With the natural tendency of youth to yield to candour and sweet temper,
+Miss Bella was so touched by the simplicity of this address that she
+frankly returned Mrs Boffin’s kiss. Not at all to the satisfaction
+of that good woman of the world, her mother, who sought to hold the
+advantageous ground of obliging the Boffins instead of being obliged.
 
-‘I am afraid my object is a bold one, I am afraid it has little of the
-usual practical world about it, but I venture it. If you ask me, or if
-you ask yourself—which is more likely—what emboldens me, I answer, I
-have been strongly assured, that you are a man of rectitude and plain
-dealing, with the soundest of sound hearts, and that you are blessed in
-a wife distinguished by the same qualities.’
+‘My youngest daughter, [[Lavinia]],’ said Mrs Wilfer, glad to make a
+diversion, as that young lady reappeared. ‘Mr George Sampson, a friend
+of the family.’
 
-‘Your information is true of Mrs Boffin, anyhow,’ was Mr Boffin’s
-answer, as he surveyed his new friend again. There was something
-repressed in the strange man’s manner, and he walked with his eyes
-on the ground—though conscious, for all that, of Mr Boffin’s
-observation—and he spoke in a subdued voice. But his words came easily,
-and his voice was agreeable in tone, albeit constrained.
-
-‘When I add, I can discern for myself what the general tongue says of
-you—that you are quite unspoiled by Fortune, and not uplifted—I trust
-you will not, as a man of an open [[Nature|nature]], suspect that I mean to flatter
-you, but will believe that all I mean is to excuse myself, these being
-my only excuses for my present intrusion.’
-
-(‘How much?’ thought Mr Boffin. ‘It must be coming to money. How much?’)
-
-‘You will probably change your manner of living, Mr Boffin, in your
-changed circumstances. You will probably keep a larger [[house]], have many
-matters to arrange, and be beset by numbers of correspondents. If you
-would try me as your Secretary—’
-
-‘As WHAT?’ cried Mr Boffin, with his eyes wide open.
-
-‘Your Secretary.’
-
-‘[[Well]],’ said Mr Boffin, under his breath, ‘that’s a queer thing!’
-
-‘Or,’ pursued the stranger, wondering at Mr Boffin’s [[Wonder|wonder]], ‘if you
-would try me as your man of business under any name, I know you would
-find me faithful and grateful, and I [[Hope|hope]] you would find me useful. You
-may naturally think that my immediate object is money. Not so, for
-I would willingly serve you a year—two years—any term you might
-appoint—before that should begin to be a consideration between us.’
-
-‘Where do you come from?’ asked Mr Boffin.
-
-‘I come,’ returned the other, meeting his eye, ‘from many countries.’
-
-Boffin’s acquaintances with the names and situations of foreign lands
-being limited in extent and somewhat confused in quality, he shaped his
-next question on an elastic model.
-
-‘From—any particular place?’
-
-‘I have been in many places.’
-
-‘What have you been?’ asked Mr Boffin.
-
-Here again he made no great advance, for the reply was, ‘I have been a
-student and a traveller.’
-
-‘But if it ain’t a liberty to plump it out,’ said Mr Boffin, ‘what do
-you do for your living?’
-
-‘I have mentioned,’ returned the other, with another look at him, and
-a smile, ‘what I aspire to do. I have been superseded as to some slight
-intentions I had, and I may say that I have now to begin life.’
+The friend of the family was in that stage of tender passion which bound
+him to regard everybody else as the foe of the family. He put the round
+head of his cane in his mouth, like a stopper, when he sat down. As if
+he felt himself full to the throat with affronting sentiments. And he
+eyed the Boffins with implacable eyes.

@@ -1,5 +1,5 @@
 ---
-title: "The [[Comedy]] of Errors — Act V, Scene 1"
+title: "The Comedy of Errors — Act V, Scene 1"
 author: "Shakespeare"
 unitType: scene
 parentWork: "works/the-comedy-of-errors-(shakespeare)"

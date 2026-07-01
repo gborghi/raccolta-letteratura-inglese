@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 36: ENTHUSIASM (part 5)"
+title: "David Copperfield — Chapter 36: ENTHUSIASM (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_36_enthusiasm/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_36_enthusiasm/part_06">part 06 ›</a></div>
 </nav>
 
+
+The resources of this lodging were so limited, that we found the twins,
+now some eight or nine years old, reposing in a turn-up bedstead in
+the family sitting-room, where Mr. Micawber had prepared, in a
+wash-hand-stand jug, what he called ‘a Brew’ of the agreeable beverage
+for which he was famous. I had the pleasure, on this occasion, of
+renewing the acquaintance of Master Micawber, whom I found a promising
+boy of about twelve or thirteen, very subject to that restlessness of
+limb which is not an unfrequent phenomenon in youths of his age. I also
+became once more known to his sister, Miss Micawber, in whom, as Mr.
+Micawber told us, ‘her mother renewed her youth, like the Phoenix’.
 
 ‘My dear Copperfield,’ said Mr. Micawber, ‘yourself and Mr. Traddles
 find us on the brink of migration, and will excuse any little
@@ -112,16 +123,3 @@ example, Mr. Traddles,’ said Mrs. Micawber, assuming a profound air, ‘a
 judge, or even say a Chancellor. Does an individual place himself beyond
 the pale of those preferments by entering on such an office as Mr.
 Micawber has accepted?’
-
-‘My dear,’ observed Mr. Micawber--but glancing inquisitively at
-Traddles, too; ‘we have [[Time|time]] enough before us, for the consideration of
-those questions.’
-
-‘Micawber,’ she returned, ‘no! Your mistake in life is, that you do not
-look forward far enough. You are bound, in justice to your family, if
-not to yourself, to take in at a comprehensive glance the extremest
-point in the horizon to which your abilities may lead you.’
-
-Mr. Micawber coughed, and drank his punch with an air of exceeding
-satisfaction--still glancing at Traddles, as if he desired to have his
-opinion.

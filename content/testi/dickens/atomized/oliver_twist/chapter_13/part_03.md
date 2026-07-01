@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 13 (part 3)"
+title: "Oliver Twist — Chapter 13 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_13/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_14/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Nolly, dear?” murmured [[Nancy]] in a gentle voice; “Nolly?”
+
+There was nobody inside but a miserable shoeless criminal, who had been
+taken up for playing the flute, and who, the offence against society
+having been clearly proved, had been very properly committed by Mr.
+Fang to the [[house|House]] of Correction for one month; with the appropriate and
+amusing remark that since he had so much breath to spare, it would be
+more wholesomely expended on the treadmill than in a musical
+instrument. He made no answer: being occupied mentally bewailing the
+loss of the flute, which had been confiscated for the use of the
+county: so [[Nancy]] passed on to the next cell, and knocked there.
 
 “[[Well]]!” cried a faint and feeble voice.
 

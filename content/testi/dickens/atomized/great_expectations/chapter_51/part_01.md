@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 51 (part 1)"
+title: "Great Expectations — Chapter 51 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -135,7 +135,3 @@ action of taking out his pocket-handkerchief. How Wemmick received the
 announcement I am unable to say; for I was afraid to look at him just
 then, lest Mr. Jaggers’s sharpness should detect that there had been
 some communication unknown to him between us.
-
-“And on what evidence, Pip,” asked Mr. Jaggers, very coolly, as he
-paused with his handkerchief half way to his nose, “does Provis make
-this claim?”

@@ -1,5 +1,5 @@
 ---
-title: "[[CharlesDickens]] — Chapter 2"
+title: "CharlesDickens — Chapter 2"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/charlesdickens-(chesterton)"
@@ -159,9 +159,9 @@ to make a name, nor did he merely aspire to these things;
 the great number of them he also expected.  He regarded
 himself as a [[Child|child]] of good position just about to enter
 on a life of good luck.  He thought his [[Home|home]] and family
-a very good [[Spring|spring]]-board or jumping-off place from which to
+a very good [[spring]]-board or jumping-off place from which to
 fling himself to the positions which he desired to reach.
-And almost as he was about to [[Spring|spring]] the whole structure broke
+And almost as he was about to [[spring]] the whole structure broke
 under him, and he and all that belonged to him disappeared
 into a darkness far below.
 

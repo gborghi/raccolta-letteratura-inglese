@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 32 (part 3)"
+title: "Wuthering Heights — Chapter 32 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -13,6 +13,27 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_32/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_32/part_04">part 04 ›</a></div>
 </nav>
 
+
+Then she looked at him; but he would neither open his mouth nor look
+again.
+
+“He’s, perhaps, dreaming now,” she continued. “He twitched his shoulder
+as Juno twitches hers. Ask him, Ellen.”
+
+“Mr. Hareton will ask the master to send you upstairs, if you don’t
+behave!” I said. He had not only twitched his shoulder but clenched his
+fist, as if tempted to use it.
+
+“I know why Hareton never speaks, when I am in the kitchen,” she
+exclaimed, on another occasion. “He is afraid I shall laugh at him.
+Ellen, what do you think? He began to teach himself to read once; and,
+because I laughed, he burned his books, and dropped it: was he not a
+[[Fool|fool]]?”
+
+“Were not you naughty?” I said; “answer me that.”
+
+“Perhaps I was,” she went on; “but I did not expect him to be so silly.
+Hareton, if I gave you a book, would you take it now? I’ll try!”
 
 She placed one she had been perusing on his hand; he flung it off, and
 muttered, if she did not give over, he would break her neck.
@@ -116,19 +137,3 @@ say you worried me out of the kitchen!”
 “I didn’t know you took my part,” she answered, drying her eyes; “and I
 was miserable and bitter at everybody; but now I thank you, and beg you
 to forgive me: what can I do besides?”
-
-She returned to the hearth, and frankly extended her hand. He blackened
-and scowled like a thunder-cloud, and kept his fists resolutely
-clenched, and his gaze fixed on the ground. Catherine, by instinct,
-must have divined it was obdurate perversity, and not dislike, that
-prompted this dogged conduct; for, after remaining an instant
-undecided, she stooped and impressed on his cheek a gentle kiss. The
-little rogue thought I had not seen her, and, drawing back, she took
-her former station by the [[Window|window]], quite demurely. I shook my head
-reprovingly, and then she blushed and whispered—“[[Well]]! what should I
-have done, Ellen? He wouldn’t shake hands, and he wouldn’t look: I must
-show him some way that I like him—that I want to be friends.”
-
-Whether the kiss convinced Hareton, I cannot tell: he was very careful,
-for some minutes, that his face should not be seen, and when he did
-raise it, he was sadly puzzled where to turn his eyes.

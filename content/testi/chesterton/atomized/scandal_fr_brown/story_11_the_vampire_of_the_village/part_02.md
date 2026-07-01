@@ -132,15 +132,3 @@ mysterious widow was brief but bright. He brought away from it at least
 two facts; one that Mrs Maltravers sometimes talked in a way which the
 Victorian village would call cynical; and, second, that like not a few
 actresses, she happened to belong to his own religious communion.
-
-He was not so illogical (nor so unorthodox) as to infer from this [[Alone|alone]]
-that she was [[Innocent|innocent]] of the alleged crime. He was [[Well|well]] aware that his
-old religious communion could boast of several distinguished poisoners.
-But he had no difficulty in understanding its connection, in this sort
-of case, with a certain intellectual liberty which these Puritans would
-call laxity; and which would certainly seem to this parochial patch of
-an older England to be almost cosmopolitan. Anyhow, he was sure she
-could count for a great deal, whether for good or evil. Her brown eyes
-were brave to the point of battle, and her enigmatic mouth, humorous and
-rather large, suggested that her purposes touching the parson's poetical
-son, whatever they might be, were planted pretty deep.

@@ -1,5 +1,5 @@
 ---
-title: "The Man Who Knew Too Much — The Bottomless [[Well]] (part 5)"
+title: "The Man Who Knew Too Much — The Bottomless Well (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/the-man-who-knew-too-much-(chesterton)"
@@ -13,6 +13,30 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_04_the_bottomless_well/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_04_the_bottomless_well/part_06">part 06 ›</a></div>
 </nav>
 
+
+letter?"
+"I found it on the general's [[Body|body]]," answered Grayne, "but I found
+
+worse things than that. The [[Body|body]] had stiffened in the way rather
+
+peculiar to poisons of a certain Asiatic sort. Then I examined the
+
+coffee cups, and I knew enough chemistry to find [[Poison|poison]] in the dregs
+
+of one of them. Now, the General went straight to the bookcase,
+
+leaving his cup of coffee on the bookstand in the middle of the
+
+room. While his back was turned, and Boyle was pretending to examine
+
+the bookstand, he was left [[Alone|alone]] with the coffee cup. The [[Poison|poison]]
+
+takes about ten minutes to act, and ten minutes' walk would bring
+
+them to the bottomless [[Well|well]]."
+"Yes," remarked Fisher, "and what about the bottomless [[Well|well]]?"
+"What has the bottomless [[Well|well]] got to do with it?" asked his friend.
+"It has nothing to do with it," replied Fisher. "That is what I
 
 find utterly confounding and incredible."
 "And why should that particular hole in the ground have anything to
@@ -154,37 +178,3 @@ about it the better. It was not the [[Lover|lover]] who tried to get rid of
 the husband, but—the other thing. And a tale like that about a man
 
 like that would ruin us here. Had you any guess of this at the
-
-start?"
-"The bottomless [[Well|well]], as I told you," answered Fisher, quietly;
-
-"that was what stumped me from the start. Not because it had
-
-anything to do with it, because it had nothing to do with it."
-He paused a moment, as if choosing an approach, and then went on:
-
-"When a man knows his enemy will be dead in ten minutes, and takes
-
-him to the edge of an unfathomable pit, he means to throw his [[Body|body]]
-
-into it. What else should he do? A born [[Fool|fool]] would have the sense to
-
-do it, and Boyle is not a born [[Fool|fool]]. [[Well]], why did not Boyle do it?
-
-The more I thought of it the more I suspected there was some mistake
-
-in the murder, so to speak. Somebody had taken somebody there to
-
-throw him in, and yet he was not thrown in. I had already an ugly,
-
-unformed idea of some substitution or reversal of parts; then I
-
-stooped to turn the bookstand myself, by accident, and I instantly
-
-knew everything, for I saw the two cups revolve once more, like
-
-moons in the sky."
-After a pause, Cuthbert Grayne said, "And what are we to say to the
-
-newspapers?"
-"My friend, Harold March, is coming along from Cairo to-day," said

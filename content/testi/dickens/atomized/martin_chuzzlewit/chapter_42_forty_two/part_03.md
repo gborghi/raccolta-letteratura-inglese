@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 42: FORTY TWO (part 3)"
+title: "Martin Chuzzlewit — Chapter 42: FORTY TWO (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_42_forty_two/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_42_forty_two/part_04">part 04 ›</a></div>
 </nav>
 
+
+As the [[Night|night]] wore on, the thunder died away, but still rolled
+gloomily and mournfully in the distance. The [[Lightning|lightning]] too, though now
+comparatively harmless, was yet bright and frequent. The rain was quite
+as violent as it had ever been.
 
 It was their ill-fortune, at about the [[Time|time]] of [[Dawn|dawn]] and in the last
 stage of their [[Journey|journey]], to have a restive pair of horses. These [[Animals|animals]]
@@ -133,24 +138,3 @@ meet us, if you went forward, post-boy,’ said Jonas. ‘Trot on!’
 
 ‘Why, what a chicken you are! You are not afraid of being robbed; are
 you?’ said Jonas.
-
-‘I am not afraid of anything,’ replied the other, whose looks and manner
-were in flat contradiction to his words. ‘But we’ll keep together.’
-
-‘You were mighty anxious about the boy, a minute ago,’ said Jonas. ‘I
-suppose you know that he may die in the meantime?’
-
-‘Aye, aye. I know. But we’ll keep together.’
-
-As it was clear that he was not to be moved from this determination,
-Jonas made no other rejoinder than such as his face expressed; and they
-proceeded in company. They had three or four good miles to travel; and
-the way was not made easier by the state of the [[Road|road]], the burden by
-which they were embarrassed, or their own stiff and sore condition.
-After a sufficiently long and painful walk, they arrived at the Inn; and
-having knocked the people up (it being yet very early in the morning),
-sent out messengers to see to the carriage and its contents, and roused
-a surgeon from his bed to tend the chief sufferer. All the service he
-could render, he rendered promptly and skillfully. But he gave it as
-his opinion that the boy was labouring under a severe concussion of the
-brain, and that Mr Bailey’s mortal course was run.

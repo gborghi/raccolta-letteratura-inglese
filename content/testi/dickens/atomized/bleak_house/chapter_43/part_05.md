@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 43 (part 5)"
+title: "Bleak House — Chapter 43 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -132,6 +132,3 @@ kind attentive face towards me. I could not help observing that it
 wore that curious expression I had observed in it once before—on
 that [[Night|night]] when he had said that he was in no trouble which I could
 readily understand.
-
-“What concerns you, my dear Esther,” said he, “concerns us all. You
-cannot be more ready to speak than I am to hear.”

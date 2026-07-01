@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 45 (part 1)"
+title: "Great Expectations — Chapter 45 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/great-expectations-(dickens)">Great Expectations</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_44/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_45/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_44/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_45/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -119,12 +119,3 @@ I said I should be delighted to do it.
 “Then you can go about your work, Mary Anne,” said Wemmick to the
 little servant; “which [[Leaves|leaves]] us to ourselves, don’t you see, Mr. Pip?”
 he added, winking, as she disappeared.
-
-I thanked him for his [[Friendship|friendship]] and caution, and our discourse
-proceeded in a low tone, while I toasted the Aged’s sausage and he
-buttered the crumb of the Aged’s roll.
-
-“Now, Mr. Pip, you know,” said Wemmick, “you and I understand one
-another. We are in our private and personal capacities, and we have
-been engaged in a confidential transaction before to-day. Official
-sentiments are one thing. We are extra official.”

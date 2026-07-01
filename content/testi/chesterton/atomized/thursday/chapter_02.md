@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 2"
+title: "thursday — Chapter 2"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/thursday-(chesterton)"
@@ -17,7 +17,6 @@ tags:
                           CHAPTER II
 
                  THE SECRET OF [[Gabriel Syme|GABRIEL SYME]]
-
 
 THE cab pulled up before a particularly dreary and greasy beershop,
 into which Gregory rapidly conducted his companion.  They seated

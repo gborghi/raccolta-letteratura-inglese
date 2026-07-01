@@ -1,5 +1,5 @@
 ---
-title: "[[Emma]] — Chapter 15 (part 2)"
+title: "Emma — Chapter 16 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/emma-(austen)"
@@ -14,116 +14,122 @@ tags:
 </nav>
 
 
-“Poor [[Jane Fairfax]]!”—thought [[Emma]].—“You have not deserved this. You may
-have done wrong with regard to Mr. Dixon, but this is a punishment
-beyond what you can have merited!—The kindness and protection of Mrs.
-Elton!—‘[[Jane Fairfax]] and [[Jane Fairfax]].’ Heavens! Let me not suppose
-that she dares go about, [[Emma Woodhouse]]-ing me!—But upon my [[Honour|honour]],
-there seems no limits to the licentiousness of that woman’s tongue!”
+“I [[Hope|hope]] you did not venture far, Miss Fairfax, this morning, or I am
+sure you must have been wet.—We scarcely got [[Home|home]] in [[Time|time]]. I [[Hope|hope]] you
+turned directly.”
 
-[[Emma]] had not to listen to such paradings again—to any so exclusively
-addressed to herself—so disgustingly decorated with a “dear Miss
-Woodhouse.” The change on Mrs. Elton’s side soon afterwards appeared,
-and she was left in peace—neither forced to be the very particular
-friend of Mrs. Elton, nor, under Mrs. Elton’s guidance, the very active
-patroness of [[Jane Fairfax]], and only sharing with others in a general
-way, in knowing what was felt, what was meditated, what was done.
+“I went only to the post-office,” said she, “and reached [[Home|home]] before
+the rain was much. It is my daily errand. I always fetch the letters
+when I am here. It saves trouble, and is a something to get me out. A
+walk before breakfast does me good.”
 
-She looked on with some amusement.—[[Miss Bates]]’s gratitude for Mrs.
-Elton’s attentions to Jane was in the first style of guileless
-simplicity and warmth. She was quite one of her worthies—the most
-amiable, affable, delightful woman—just as accomplished and
-condescending as Mrs. Elton meant to be considered. [[Emma]]’s only
-surprize was that [[Jane Fairfax]] should accept those attentions and
-tolerate Mrs. Elton as she seemed to do. She heard of her walking with
-the Eltons, sitting with the Eltons, spending a day with the Eltons!
-This was astonishing!—She could not have believed it possible that the
-taste or the [[Pride|pride]] of Miss Fairfax could endure such society and
-[[Friendship|friendship]] as the Vicarage had to offer.
+“Not a walk in the rain, I should imagine.”
 
-“She is a [[Riddle|riddle]], quite a [[Riddle|riddle]]!” said she.—“To chuse to remain here
-month after month, under privations of every sort! And now to chuse the
-mortification of Mrs. Elton’s notice and the penury of her
-conversation, rather than return to the superior companions who have
-always loved her with such real, generous affection.”
+“No, but it did not absolutely rain when I set out.”
 
-Jane had come to Highbury professedly for three months; the Campbells
-were gone to Ireland for three months; but now the Campbells had
-promised their daughter to stay at least till Midsummer, and fresh
-invitations had arrived for her to join them there. According to Miss
-Bates—it all came from her—Mrs. Dixon had written most pressingly.
-Would Jane but go, means were to be found, servants sent, friends
-contrived—no travelling difficulty allowed to exist; but still she had
-declined it!
+Mr. John Knightley smiled, and replied,
 
-“She must have some motive, more powerful than appears, for refusing
-this invitation,” was [[Emma]]’s conclusion. “She must be under some sort
-of penance, inflicted either by the Campbells or herself. There is
-great [[Fear|fear]], great caution, great resolution somewhere.—She is _not_ to
-be with the _Dixons_. The decree is issued by somebody. But why must
-she consent to be with the Eltons?—Here is quite a separate puzzle.”
+“That is to say, you chose to have your walk, for you were not six
+yards from your own door when I had the pleasure of meeting you; and
+Henry and John had seen more drops than they could count long before.
+The post-office has a great charm at one period of our lives. When you
+have lived to my age, you will begin to think letters are never worth
+going through the rain for.”
 
-Upon her speaking her [[Wonder|wonder]] aloud on that part of the subject, before
-the few who knew her opinion of Mrs. Elton, Mrs. Weston ventured this
-apology for Jane.
+There was a little blush, and then this answer,
 
-“We cannot suppose that she has any great enjoyment at the Vicarage, my
-dear [[Emma]]—but it is better than being always at [[Home|home]]. Her aunt is a
-good creature, but, as a constant companion, must be very tiresome. We
-must consider what Miss Fairfax quits, before we condemn her taste for
-what she goes to.”
+“I must not [[Hope|hope]] to be ever situated as you are, in the midst of every
+dearest connexion, and therefore I cannot expect that simply growing
+older should make me indifferent about letters.”
 
-“You are right, Mrs. Weston,” said Mr. Knightley warmly, “Miss Fairfax
-is as capable as any of us of forming a just opinion of Mrs. Elton.
-Could she have chosen with whom to associate, she would not have chosen
-her. But (with a reproachful smile at [[Emma]]) she receives attentions
-from Mrs. Elton, which nobody else pays her.”
+“Indifferent! Oh! no—I never conceived you could become indifferent.
+Letters are no matter of indifference; they are generally a very
+positive curse.”
 
-[[Emma]] felt that Mrs. Weston was giving her a momentary glance; and she
-was herself struck by his warmth. With a faint blush, she presently
-replied,
+“You are speaking of letters of business; mine are letters of
+[[Friendship|friendship]].”
 
-“Such attentions as Mrs. Elton’s, I should have imagined, would rather
-disgust than gratify Miss Fairfax. Mrs. Elton’s invitations I should
-have imagined any thing but inviting.”
+“I have often thought them the worst of the two,” replied he coolly.
+“Business, you know, may bring money, but [[Friendship|friendship]] hardly ever does.”
 
-“I should not [[Wonder|wonder]],” said Mrs. Weston, “if Miss Fairfax were to have
-been drawn on beyond her own inclination, by her aunt’s eagerness in
-accepting Mrs. Elton’s civilities for her. Poor [[Miss Bates]] may very
-likely have committed her niece and hurried her into a greater
-appearance of intimacy than her own good sense would have dictated, in
-spite of the very natural wish of a little change.”
+“Ah! you are not serious now. I know Mr. John Knightley too [[Well|well]]—I am
+very sure he understands the value of [[Friendship|friendship]] as [[Well|well]] as any [[Body|body]]. I
+can easily believe that letters are very little to you, much less than
+to me, but it is not your being ten years older than myself which makes
+the difference, it is not age, but situation. You have every [[Body|body]]
+dearest to you always at hand, I, probably, never shall again; and
+therefore till I have outlived all my affections, a post-office, I
+think, must always have power to draw me out, in worse weather than
+to-day.”
 
-Both felt rather anxious to hear him speak again; and after a few
-minutes [[Silence|silence]], he said,
+“When I talked of your being altered by [[Time|time]], by the progress of
+years,” said John Knightley, “I meant to imply the change of situation
+which [[Time|time]] usually brings. I consider one as including the other. [[Time]]
+will generally lessen the interest of every attachment not within the
+daily circle—but that is not the change I had in view for you. As an
+old friend, you will allow me to [[Hope|hope]], Miss Fairfax, that ten years
+hence you may have as many concentrated objects as I have.”
 
-“Another thing must be taken into consideration too—Mrs. Elton does not
-talk _to_ Miss Fairfax as she speaks _of_ her. We all know the
-difference between the pronouns he or she and thou, the plainest spoken
-amongst us; we all feel the influence of a something beyond common
-civility in our personal intercourse with each other—a something more
-early implanted. We cannot give any [[Body|body]] the disagreeable hints that we
-may have been very full of the hour before. We feel things differently.
-And besides the operation of this, as a general principle, you may be
-sure that Miss Fairfax awes Mrs. Elton by her superiority both of mind
-and manner; and that, face to face, Mrs. Elton treats her with all the
-respect which she has a claim to. Such a woman as [[Jane Fairfax]] probably
-never fell in Mrs. Elton’s way before—and no degree of [[Vanity|vanity]] can
-prevent her acknowledging her own comparative littleness in action, if
-not in consciousness.”
+It was kindly said, and very far from giving offence. A pleasant “thank
+you” seemed meant to laugh it off, but a blush, a quivering lip, a tear
+in the eye, shewed that it was felt beyond a laugh. Her attention was
+now claimed by Mr. Woodhouse, who being, according to his custom on
+such occasions, making the circle of his guests, and paying his
+particular compliments to the ladies, was ending with her—and with all
+his mildest urbanity, said,
 
-“I know how highly you think of [[Jane Fairfax]],” said [[Emma]]. Little Henry
-was in her thoughts, and a mixture of alarm and delicacy made her
-irresolute what else to say.
+“I am very sorry to hear, Miss Fairfax, of your being out this morning
+in the rain. Young ladies should take care of themselves.—Young ladies
+are delicate plants. They should take care of their health and their
+complexion. My dear, did you change your stockings?”
 
-“Yes,” he replied, “any [[Body|body]] may know how highly I think of her.”
+“Yes, sir, I did indeed; and I am very much obliged by your kind
+solicitude about me.”
 
-“And yet,” said [[Emma]], beginning hastily and with an arch look, but soon
-stopping—it was better, however, to know the worst at once—she hurried
-on—“And yet, perhaps, you may hardly be aware yourself how highly it
-is. The extent of your admiration may take you by surprize some day or
-other.”
+“My dear Miss Fairfax, young ladies are very sure to be cared for.—I
+[[Hope|hope]] your good grand-mama and aunt are [[Well|well]]. They are some of my very
+old friends. I wish my health allowed me to be a better neighbour. You
+do us a great deal of [[Honour|honour]] to-day, I am sure. My daughter and I are
+both highly sensible of your goodness, and have the greatest
+satisfaction in seeing you at Hartfield.”
 
-Mr. Knightley was hard at work upon the lower buttons of his thick
-leather gaiters, and either the exertion of getting them together, or
-some other cause, brought the colour into his face, as he answered,
+The kind-hearted, polite old man might then sit down and feel that he
+had done his duty, and made every fair lady welcome and easy.
+
+By this [[Time|time]], the walk in the rain had reached Mrs. Elton, and her
+remonstrances now opened upon Jane.
+
+“My dear Jane, what is this I hear?—Going to the post-office in the
+rain!—This must not be, I assure you.—You sad girl, how could you do
+such a thing?—It is a sign I was not there to take care of you.”
+
+Jane very patiently assured her that she had not caught any cold.
+
+“Oh! do not tell _me_. You really are a very sad girl, and do not know
+how to take care of yourself.—To the post-office indeed! Mrs. Weston,
+did you ever hear the like? You and I must positively exert our
+authority.”
+
+“My advice,” said Mrs. Weston kindly and persuasively, “I certainly do
+feel tempted to give. Miss Fairfax, you must not run such risks.—Liable
+as you have been to severe colds, indeed you ought to be particularly
+careful, especially at this [[Time|time]] of year. The [[Spring|spring]] I always think
+requires more than common care. Better wait an hour or two, or even
+half a day for your letters, than run the risk of bringing on your
+cough again. Now do not you feel that you had? Yes, I am sure you are
+much too reasonable. You look as if you would not do such a thing
+again.”
+
+“Oh! she _shall_ _not_ do such a thing again,” eagerly rejoined Mrs.
+Elton. “We will not allow her to do such a thing again:”—and nodding
+significantly—“there must be some arrangement made, there must indeed.
+I shall speak to Mr. E. The man who fetches our letters every morning
+(one of our men, I forget his name) shall inquire for yours too and
+bring them to you. That will obviate all difficulties you know; and
+from _us_ I really think, my dear Jane, you can have no scruple to
+accept such an accommodation.”
+
+“You are extremely kind,” said Jane; “but I cannot give up my early
+walk. I am advised to be out of doors as much as I can, I must walk
+somewhere, and the post-office is an object; and upon my word, I have
+scarcely ever had a bad morning before.”

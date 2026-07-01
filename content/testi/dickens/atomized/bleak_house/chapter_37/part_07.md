@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 37 (part 7)"
+title: "Bleak House — Chapter 37 (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,39 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_37/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_38/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Yes,” said [[Richard]], flushed, and looking triumphantly at Ada and me,
+“we don’t do these things in the old slow way now. We spin along now!
+Mr. Vholes, we must hire something to get over to the post town in,
+and catch the mail to-[[Night|night]], and go up by it!”
+
+“Anything you please, sir,” returned Mr. Vholes. “I am quite at your
+service.”
+
+“Let me see,” said [[Richard]], looking at his watch. “If I run down to
+the Dedlock, and get my portmanteau fastened up, and order a gig, or
+a chaise, or whatever’s to be got, we shall have an hour then before
+starting. I’ll come back to tea. Cousin Ada, will you and Esther take
+care of Mr. Vholes when I am gone?”
+
+He was away directly, in his heat and hurry, and was soon lost in the
+dusk of evening. We who were left walked on towards the [[house]].
+
+“Is Mr. Carstone’s presence necessary to-morrow, Sir?” said I. “Can
+it do any good?”
+
+“No, miss,” Mr. Vholes replied. “I am not aware that it can.”
+
+Both Ada and I expressed our regret that he should go, then, only to
+be disappointed.
+
+“Mr. Carstone has laid down the principle of watching his own
+interests,” said Mr. Vholes, “and when a client lays down his own
+principle, and it is not immoral, it devolves upon me to carry it
+out. I wish in business to be exact and open. I am a widower with
+three daughters—[[Emma]], Jane, and Caroline—and my [[Desire|desire]] is so to
+discharge the duties of life as to leave them a good name. This
+appears to be a pleasant spot, miss.”
 
 The remark being made to me in consequence of my being next him as we
 walked, I assented and enumerated its chief attractions.

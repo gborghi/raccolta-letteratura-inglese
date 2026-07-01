@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 23"
+title: "The Mystery of Edwin Drood — Chapter 23"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -85,7 +85,7 @@ His travelling baggage is easily carried in his hand, and he repairs
 with it on foot, to a hybrid hotel in a little square behind Aldersgate
 Street, near the General Post Office. It is hotel, boarding-[[house]], or
 lodging-[[house]], at its visitor’s option. It announces itself, in the new
-Railway Advertisers, as a [[Novel|novel]] enterprise, timidly beginning to [[Spring|spring]]
+Railway Advertisers, as a [[Novel|novel]] enterprise, timidly beginning to [[spring]]
 up. It bashfully, almost apologetically, gives the traveller to
 understand that it does not expect him, on the good old constitutional
 hotel plan, to order a pint of sweet blacking for his drinking, and
@@ -254,7 +254,7 @@ thousands of times in this room.”
 
 “It _was_ pleasant to do!”
 
-He says this with a savage air, and a [[Spring|spring]] or start at her. Quite
+He says this with a savage air, and a [[spring]] or start at her. Quite
 unmoved she retouches and replenishes the contents of the bowl with her
 little spatula. Seeing her intent upon the occupation, he sinks into
 his former attitude.

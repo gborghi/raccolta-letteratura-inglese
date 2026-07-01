@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 8 (part 1)"
+title: "The Mystery of Edwin Drood — Chapter 8 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -144,9 +144,3 @@ and freely, there is no anger in you, Mr. Neville?”
 
 “None at all, Mr. Jasper.” Still, not quite so frankly or so freely;
 or, be it said once again, not quite so carelessly perhaps.
-
-“All over then! Now, my bachelor gatehouse is a few yards from here,
-and the heater is on the [[Fire|fire]], and the wine and glasses are on the
-table, and it is not a stone’s throw from Minor Canon Corner. Ned, you
-are up and away to-morrow. We will carry Mr. Neville in with us, to
-take a stirrup-cup.”

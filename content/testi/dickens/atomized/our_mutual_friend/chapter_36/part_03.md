@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 12 (part 3)"
+title: "Our Mutual Friend — Chapter 14 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,134 +14,114 @@ tags:
 </nav>
 
 
-‘Were you drunk?’ asked Pleasant.
+‘And to be sure,’ added the Secretary, as a comfort for her, ‘Sloppy
+will be eagerly looking forward to his opportunity of being to you what
+you have been to him.’
 
-‘I was muddled, but not with fair drinking. I had not been drinking, you
-understand. A mouthful did it.’
+‘Trust him for that, sir!’ said Betty, cheerfully. ‘Though he had need
+to be something quick about it, for I’m a getting to be an old one. But
+I’m a strong one too, and travel and weather never hurt me yet! Now, be
+so kind as speak for me to your lady and gentleman, and tell ’em what I
+ask of their good friendliness to let me do, and why I ask it.’
 
-Pleasant with a [[Grave|grave]] look shook her head; importing that she understood
-the process, but decidedly disapproved.
+The Secretary felt that there was no gainsaying what was urged by
+this brave old heroine, and he presently repaired to Mrs Boffin and
+recommended her to let Betty Higden have her way, at all events for the
+[[Time|time]]. ‘It would be far more satisfactory to your kind heart, I know,’
+he said, ‘to provide for her, but it may be a duty to respect this
+independent spirit.’ Mrs Boffin was not proof against the consideration
+set before her. She and her husband had worked too, and had brought
+their simple [[Faith|faith]] and [[Honour|honour]] clean out of dustheaps. If they owed a
+duty to Betty Higden, of a surety that duty must be done.
 
-‘Fair trade is one thing,’ said she, ‘but that’s another. No one has a
-right to carry on with Jack in THAT way.’
+‘But, Betty,’ said Mrs Boffin, when she accompanied John Rokesmith back
+to his room, and shone upon her with the light of her radiant face,
+‘granted all else, I think I wouldn’t run away’.
 
-‘The sentiment does you credit,’ returned the man, with a grim smile;
-and added, in a mutter, ‘the more so, as I believe it’s not your
-father’s.—Yes, I had a bad [[Time|time]] of it, that [[Time|time]]. I lost everything,
-and had a sharp struggle for my life, weak as I was.’
+‘’Twould come easier to Sloppy,’ said Mrs Higden, shaking her head.
+‘’Twould come easier to me too. But ’tis as you please.’
 
-‘Did you get the parties punished?’ asked Pleasant.
+‘When would you go?’
 
-‘A tremendous punishment followed,’ said the man, more seriously; ‘but
-it was not of my bringing about.’
+‘Now,’ was the bright and ready answer. ‘To-day, my deary, to-morrow.
+Bless ye, I am used to it. I know many parts of the country [[Well|well]]. When
+nothing else was to be done, I have worked in many a market-[[Garden|garden]] afore
+now, and in many a hop-[[Garden|garden]] too.’
 
-‘Of whose, then?’ asked Pleasant.
+‘If I give my consent to your going, Betty—which Mr Rokesmith thinks I
+ought to do—’
 
-The man pointed upward with his forefinger, and, slowly recovering that
-hand, settled his chin in it again as he looked at the [[Fire|fire]]. Bringing
-her inherited eye to bear upon him, Pleasant Riderhood felt more
-and more uncomfortable, his manner was so mysterious, so stern, so
-[[Self|self]]-possessed.
+Betty thanked him with a grateful curtsey.
 
-‘Anyways,’ said the [[Damsel|damsel]], ‘I am glad punishment followed, and I say
-so. Fair trade with seafaring men gets a bad name through deeds of
-violence. I am as much against deeds of violence being done to seafaring
-men, as seafaring men can be themselves. I am of the same opinion as my
-mother was, when she was living. Fair trade, my mother used to say, but
-no robbery and no blows.’ In the way of trade Miss Pleasant would have
-taken—and indeed did take when she could—as much as thirty shillings
-a week for board that would be dear at five, and likewise conducted the
-Leaving business upon correspondingly equitable principles; yet she had
-that tenderness of [[Conscience|conscience]] and those feelings of humanity, that the
-moment her ideas of trade were overstepped, she became the seaman’s
-champion, even against her father whom she seldom otherwise resisted.
+‘—We must not lose sight of you. We must not let you pass out of our
+knowledge. We must know all about you.’
 
-But, she was here interrupted by her father’s voice exclaiming angrily,
-‘Now, Poll Parrot!’ and by her father’s hat being heavily flung from his
-hand and striking her face. Accustomed to such occasional manifestations
-of his sense of parental duty, Pleasant merely wiped her face on her
-hair (which of course had tumbled down) before she twisted it up. This
-was another common procedure on the part of the ladies of the Hole, when
-heated by verbal or fistic altercation.
+‘Yes, my deary, but not through letter-writing, because
+letter-writing—indeed, writing of most sorts hadn’t much come up for
+such as me when I was young. But I shall be to and fro. No [[Fear|fear]] of
+my missing a chance of giving myself a sight of your reviving face.
+Besides,’ said Betty, with logical good [[Faith|faith]], ‘I shall have a debt to
+pay off, by littles, and naturally that would bring me back, if nothing
+else would.’
 
-‘Blest if I believe such a Poll Parrot as you was ever learned to
-speak!’ growled Mr Riderhood, stooping to pick up his hat, and making
-a feint at her with his head and right elbow; for he took the delicate
-subject of robbing seamen in extraordinary dudgeon, and was out of
-[[Humour|humour]] too. ‘What are you Poll Parroting at now? Ain’t you got nothing
-to do but fold your arms and stand a Poll Parroting all [[Night|night]]?’
+‘MUST it be done?’ asked Mrs Boffin, still reluctant, of the Secretary.
 
-‘Let her [[Alone|alone]],’ urged the man. ‘She was only speaking to me.’
+‘I think it must.’
 
-‘Let her [[Alone|alone]] too!’ retorted Mr Riderhood, eyeing him all over. ‘Do you
-know she’s my daughter?’
+After more discussion it was agreed that it should be done, and Mrs
+Boffin summoned Bella to note down the little purchases that were
+necessary to set Betty up in trade. ‘Don’t ye be timorous for me, my
+dear,’ said the stanch old heart, observant of Bella’s face: ‘when I
+take my seat with my work, clean and busy and fresh, in a country
+market-place, I shall turn a sixpence as sure as ever a farmer’s wife
+there.’
 
-‘Yes.’
+The Secretary took that opportunity of touching on the practical
+question of Mr Sloppy’s capabilities. He would have made a wonderful
+cabinet-maker, said Mrs Higden, ‘if there had been the money to put him
+to it.’ She had seen him handle tools that he had borrowed to mend
+the mangle, or to knock a broken piece of furniture together, in a
+surprising manner. As to constructing toys for the Minders, out of
+nothing, he had done that daily. And once as many as a dozen people had
+got together in the lane to see the neatness with which he fitted the
+broken pieces of a foreign monkey’s musical instrument. ‘That’s [[Well|well]],’
+said the Secretary. ‘It will not be hard to find a trade for him.’
 
-‘And don’t you know that I won’t have no Poll Parroting on the part of
-my daughter? No, nor yet that I won’t take no Poll Parroting from no
-man? And who may YOU be, and what may YOU want?’
+[[John Harmon]] being buried under [[Mountains|mountains]] now, the Secretary that very
+same day set himself to finish his affairs and have done with him. He
+drew up an ample declaration, to be signed by Rogue Riderhood (knowing
+he could get his signature to it, by making him another and much shorter
+evening call), and then considered to whom should he give the document?
+To Hexam’s son, or daughter? Resolved speedily, to the daughter. But it
+would be safer to avoid seeing the daughter, because the son had seen
+Julius Handford, and—he could not be too careful—there might possibly
+be some comparison of notes between the son and daughter, which would
+awaken slumbering suspicion, and lead to consequences. ‘I might even,’
+he reflected, ‘be apprehended as having been concerned in my own
+murder!’ Therefore, best to send it to the daughter under cover by the
+post. Pleasant Riderhood had undertaken to find out where she lived,
+and it was not necessary that it should be attended by a single word of
+explanation. So far, straight.
 
-‘How can I tell you until you are silent?’ returned the other fiercely.
+But, all that he knew of the daughter he derived from Mrs Boffin’s
+accounts of what she heard from Mr Lightwood, who seemed to have a
+reputation for his manner of relating a story, and to have made this
+story quite his own. It interested him, and he would like to have
+the means of knowing more—as, for instance, that she received the
+exonerating paper, and that it satisfied her—by opening some channel
+altogether independent of Lightwood: who likewise had seen Julius
+Handford, who had publicly advertised for Julius Handford, and whom
+of all men he, the Secretary, most avoided. ‘But with whom the common
+course of things might bring me in a moment face to face, any day in the
+week or any hour in the day.’
 
-‘[[Well]],’ said Mr Riderhood, quailing a little, ‘I am willing to be silent
-for the purpose of hearing. But don’t Poll Parrot me.’
-
-‘Are you thirsty, you?’ the man asked, in the same fierce short way,
-after returning his look.
-
-‘Why nat’rally,’ said Mr Riderhood, ‘ain’t I always thirsty!’ (Indignant
-at the absurdity of the question.)
-
-‘What will you drink?’ demanded the man.
-
-‘Sherry wine,’ returned Mr Riderhood, in the same sharp tone, ‘if you’re
-capable of it.’
-
-The man put his hand in his pocket, took out half a sovereign, and
-begged the favour of Miss Pleasant that she would fetch a bottle. ‘With
-the cork undrawn,’ he added, emphatically, looking at her father.
-
-‘I’ll take my Alfred David,’ muttered Mr Riderhood, slowly relaxing into
-a dark smile, ‘that you know a move. Do I know YOU? N—n—no, I don’t
-know you.’
-
-The man replied, ‘No, you don’t know me.’ And so they stood looking at
-one another surlily enough, until Pleasant came back.
-
-‘There’s small glasses on the shelf,’ said Riderhood to his daughter.
-‘Give me the one without a foot. I gets my living by the sweat of my
-brow, and it’s good enough for ME.’ This had a modest [[Self|self]]-denying
-appearance; but it soon turned out that as, by reason of the
-impossibility of standing the glass upright while there was anything in
-it, it required to be emptied as soon as filled, Mr Riderhood managed to
-drink in the proportion of three to one.
-
-With his Fortunatus’s goblet ready in his hand, Mr Riderhood sat down on
-one side of the table before the [[Fire|fire]], and the strange man on the other:
-Pleasant occupying a stool between the latter and the fireside. The
-background, composed of handkerchiefs, coats, shirts, hats, and other
-old articles ‘On Leaving,’ had a general dim resemblance to human
-listeners; especially where a shiny black sou’wester suit and hat hung,
-looking very like a clumsy mariner with his back to the company, who
-was so curious to overhear, that he paused for the purpose with his
-coat half pulled on, and his shoulders up to his ears in the uncompleted
-action.
-
-The visitor first held the bottle against the light of the candle,
-and next examined the top of the cork. Satisfied that it had not been
-tampered with, he slowly took from his breastpocket a rusty clasp-knife,
-and, with a corkscrew in the handle, opened the wine. That done,
-he looked at the cork, unscrewed it from the corkscrew, laid each
-separately on the table, and, with the end of the sailor’s knot of his
-neckerchief, dusted the inside of the neck of the bottle. All this with
-great deliberation.
-
-At first Riderhood had sat with his footless glass extended at arm’s
-length for filling, while the very deliberate stranger seemed absorbed
-in his preparations. But, gradually his arm reverted [[Home|home]] to him, and
-his glass was lowered and lowered until he rested it upside down upon
-the table. By the same degrees his attention became concentrated on
-the knife. And now, as the man held out the bottle to fill all round,
-Riderhood stood up, leaned over the table to look closer at the knife,
-and stared from it to him.
+Now, to cast about for some likely means of opening such a channel. The
+boy, Hexam, was training for and with a schoolmaster. The Secretary knew
+it, because his sister’s share in that disposal of him seemed to be
+the best part of Lightwood’s account of the family. This young fellow,
+Sloppy, stood in need of some instruction. If he, the Secretary, engaged
+that schoolmaster to impart it to him, the channel might be opened. The
+next point was, did Mrs Boffin know the schoolmaster’s name? No, but she
+knew where the school was. Quite enough. Promptly the Secretary wrote
+to the master of that school, and that very evening [[Bradley Headstone]]
+answered in person.

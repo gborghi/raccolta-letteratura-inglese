@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 8: MY HOLIDAYS. ESPECIALLY ONE HAPPY AFTERNOON (part 1)"
+title: "David Copperfield — Chapter 8: MY HOLIDAYS. ESPECIALLY ONE HAPPY AFTERNOON (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_07_my_first_half_at_salem_house/part_07">‹ part 07</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_08_my_holidays_especially_one_hap/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_07_my_first_half_at_salem_house_h/part_07">‹ part 07</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_08_my_holidays_especially_one_hap/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -149,9 +149,3 @@ put its hand to my lips.
 I wish I had died. I wish I had died then, with that feeling in my
 heart! I should have been more fit for Heaven than I ever have been
 since.
-
-‘He is your brother,’ said my mother, fondling me. ‘Davy, my pretty boy!
-My poor [[Child|child]]!’ Then she kissed me more and more, and clasped me round
-the neck. This she was doing when Peggotty came running in, and bounced
-down on the ground beside us, and went mad about us both for a quarter
-of an hour.

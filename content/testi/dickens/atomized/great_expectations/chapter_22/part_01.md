@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 22 (part 1)"
+title: "Great Expectations — Chapter 22 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -151,6 +151,3 @@ and you have been a blacksmith,—would you mind it?”
 
 “I shouldn’t mind anything that you propose,” I answered, “but I don’t
 understand you.”
-
-“Would you mind Handel for a familiar name? There’s a charming piece of
-music by Handel, called the Harmonious Blacksmith.”

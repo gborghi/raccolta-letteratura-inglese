@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 10 (part 2)"
+title: "Persuasion — Chapter 10 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_10/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_10/part_03">part 03 ›</a></div>
 </nav>
 
+
+lieve be tossed out as not.”
+
+
+
+“Ah! You make the most of it, I know,” cried Louisa, “but if it were
+
+really so, I should do just the same in her place. If I loved a man, as
 
 she loves the Admiral, I would always be with him, nothing should ever
 
@@ -38,7 +46,7 @@ scenes of [[Autumn|autumn]] were for a while put by, unless some tender [[Sonnet
 
 fraught with the apt analogy of the declining year, with declining
 
-happiness, and the images of youth and [[Hope|hope]], and [[spring]], all gone
+happiness, and the images of youth and [[Hope|hope]], and [[Spring|spring]], all gone
 
 together, blessed her [[Memory|memory]]. She roused herself to say, as they struck
 
@@ -56,7 +64,7 @@ another half mile of gradual ascent through large enclosures, where the
 
 ploughs at work, and the fresh made path spoke the farmer counteracting
 
-the sweets of poetical despondence, and meaning to have [[spring]] again,
+the sweets of poetical despondence, and meaning to have [[Spring|spring]] again,
 
 they gained the summit of the most considerable [[Hill|hill]], which parted
 
@@ -223,13 +231,3 @@ you gave just now, which did but confirm my own observations, the last
 comprehension of what is going on. I see that more than a mere dutiful
 
 morning visit to your aunt was in question; and woe betide him, and her
-
-too, when it comes to things of consequence, when they are placed in
-
-circumstances requiring fortitude and strength of mind, if she have not
-
-resolution enough to resist idle interference in such a trifle as this.
-
-Your sister is an amiable creature; but _yours_ is the character of
-
-decision and firmness, I see. If you value her conduct or happiness,

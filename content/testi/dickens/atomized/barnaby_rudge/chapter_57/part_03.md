@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 57 (part 3)"
+title: "Barnaby Rudge — Chapter 57 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_57/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_58/part_01">part 01 ›</a></div>
 </nav>
 
+
+At these words, Barnaby furled his [[Flag|flag]], and tied it round the pole. His
+heart beat high while he did so, but he had no more [[Fear|fear]] or thought of
+retreating than the pole itself. The friendly stragglers hurried past
+him, after giving him notice of his danger, and quickly passed into the
+[[house]], where the utmost confusion immediately prevailed. As those within
+hastily closed the windows and the doors, they urged him by looks and
+signs to fly without loss of [[Time|time]], and called to him many times to do
+so; but he only shook his head indignantly in answer, and stood the
+firmer on his post. Finding that he was not to be persuaded, they took
+care of themselves; and leaving the place with only one old woman in it,
+speedily withdrew.
 
 As yet there had been no symptom of the news having any better
 foundation than in the fears of those who brought it, but The Boot had

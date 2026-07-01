@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 4 (part 1)"
+title: "Our Mutual Friend — Chapter 5 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,138 +10,111 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_08/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_09/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_08/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_09/part_02">part 02 ›</a></div>
 </nav>
 
 
-Chapter 4
+Chapter 5
 
-THE R. WILFER FAMILY
+BOFFIN’S BOWER
 
 
-Reginald Wilfer is a name with rather a grand sound, suggesting on
-first acquaintance brasses in country churches, scrolls in stained-glass
-windows, and generally the De Wilfers who came over with the Conqueror.
-For, it is a remarkable fact in genealogy that no De Any ones ever came
-over with Anybody else.
+Over against a [[London]] [[house]], a corner [[house]] not far from Cavendish
+Square, a man with a wooden leg had sat for some years, with his
+remaining foot in a basket in cold weather, picking up a living on
+this wise:—Every morning at eight o’[[Clock|clock]], he stumped to the corner,
+carrying a chair, a clothes-[[Horse|horse]], a pair of trestles, a board, a
+basket, and an umbrella, all strapped together. Separating these, the
+board and trestles became a counter, the basket supplied the few small
+lots of fruit and sweets that he offered for sale upon it and became a
+foot-warmer, the unfolded clothes-[[Horse|horse]] displayed a choice collection of
+halfpenny ballads and became a screen, and the stool planted within it
+became his post for the rest of the day. All weathers saw the man at the
+post. This is to be accepted in a [[Double|double]] sense, for he contrived a
+back to his wooden stool, by placing it against the lamp-post. When the
+weather was wet, he put up his umbrella over his stock in trade, not
+over himself; when the weather was dry, he furled that faded article,
+tied it round with a piece of yarn, and laid it [[Cross|cross]]-wise under the
+trestles: where it looked like an unwholesomely-forced lettuce that had
+lost in colour and crispness what it had gained in size.
 
-But, the Reginald Wilfer family were of such commonplace extraction and
-pursuits that their forefathers had for generations modestly subsisted
-on the Docks, the Excise Office, and the Custom [[house|House]], and the existing
-R. Wilfer was a poor clerk. So poor a clerk, through having a limited
-salary and an unlimited family, that he had never yet attained the
-modest object of his [[Ambition|ambition]]: which was, to wear a complete new suit
-of clothes, hat and boots included, at one [[Time|time]]. His black hat was brown
-before he could afford a coat, his pantaloons were white at the seams
-and knees before he could buy a pair of boots, his boots had worn out
-before he could treat himself to new pantaloons, and, by the [[Time|time]] he
-worked round to the hat again, that shining modern article roofed-in an
-ancient ruin of various periods.
+He had established his right to the corner, by imperceptible
+prescription. He had never varied his ground an inch, but had in the
+beginning diffidently taken the corner upon which the side of the [[house]]
+gave. A howling corner in the [[Winter|winter]] [[Time|time]], a dusty corner in the [[Summer|summer]]
+[[Time|time]], an undesirable corner at the best of times. Shelterless fragments
+of straw and paper got up revolving storms there, when the main street
+was at peace; and the [[Water|water]]-cart, as if it were drunk or short-sighted,
+came blundering and jolting round it, making it muddy when all else was
+clean.
 
-If the conventional Cherub could ever grow up and be clothed, he might
-be photographed as a portrait of Wilfer. His chubby, smooth, [[Innocent|innocent]]
-appearance was a reason for his being always treated with condescension
-when he was not put down. A stranger entering his own poor [[house]] at
-about ten o’[[Clock|clock]] P.M. might have been surprised to find him sitting up
-to supper. So boyish was he in his curves and proportions, that his
-old schoolmaster meeting him in Cheapside, might have been unable to
-withstand the [[Temptation|temptation]] of caning him on the spot. In short, he was
-the conventional cherub, after the supposititious shoot just mentioned,
-rather grey, with signs of care on his expression, and in decidedly
-insolvent circumstances.
+On the front of his sale-board hung a little placard, like a
+kettle-holder, bearing the [[Inscription|inscription]] in his own small text:
 
-He was shy, and unwilling to own to the name of Reginald, as being too
-aspiring and [[Self|self]]-assertive a name. In his signature he used only the
-initial R., and imparted what it really stood for, to none but chosen
-friends, under the seal of confidence. Out of this, the facetious habit
-had arisen in the neighbourhood surrounding Mincing Lane of making
-christian names for him of adjectives and participles beginning with R.
-Some of these were more or less appropriate: as Rusty, Retiring, Ruddy,
-Round, Ripe, Ridiculous, Ruminative; others, derived their point from
-their want of application: as Raging, Rattling, Roaring, Raffish. But,
-his popular name was Rumty, which in a moment of inspiration had been
-bestowed upon him by a gentleman of convivial habits connected with the
-drug-markets, as the beginning of a social [[Chorus|chorus]], his leading part in
-the execution of which had led this gentleman to the Temple of Fame, and
-of which the whole expressive burden ran:
+     Errands gone
+     On with fi
+     Delity By
+     Ladies and Gentlemen
+     I remain
+     Your humble Servt.
+     [[Silas Wegg]].
 
-     ‘Rumty iddity, row dow dow,
-     Sing toodlely, teedlely, bow wow wow.’
+He had not only settled it with himself in course of [[Time|time]], that he
+was errand-goer by appointment to the [[house]] at the corner (though he
+received such commissions not half a dozen times in a year, and then
+only as some servant’s deputy), but also that he was one of the [[house]]’s
+retainers and owed vassalage to it and was bound to leal and loyal
+interest in it. For this reason, he always spoke of it as ‘Our [[house|House]],’
+and, though his knowledge of its affairs was mostly speculative and
+all wrong, claimed to be in its confidence. On similar grounds he never
+beheld an inmate at any one of its windows but he touched his hat. Yet,
+he knew so little about the inmates that he gave them names of his own
+invention: as ‘Miss Elizabeth’, ‘Master George’, ‘Aunt Jane’, ‘Uncle
+Parker’—having no authority whatever for any such designations, but
+particularly the last—to which, as a natural consequence, he stuck with
+great obstinacy.
 
-Thus he was constantly addressed, even in minor notes on business, as
-‘Dear Rumty’; in answer to which, he sedately signed himself, ‘Yours
-truly, R. Wilfer.’
+Over the [[house]] itself, he exercised the same imaginary power as over its
+inhabitants and their affairs. He had never been in it, the length of
+a piece of fat black [[Water|water]]-pipe which trailed itself over the area-door
+into a damp stone passage, and had rather the air of a leech on the
+[[house]] that had ‘taken’ wonderfully; but this was no impediment to his
+arranging it according to a plan of his own. It was a great dingy [[house]]
+with a quantity of dim side [[Window|window]] and blank back premises, and it
+cost his mind a world of trouble so to lay it out as to account for
+everything in its external appearance. But, this once done, was quite
+satisfactory, and he rested persuaded, that he knew his way about the
+[[house]] blindfold: from the barred garrets in the high roof, to the two
+iron extinguishers before the main door—which seemed to request all
+lively visitors to have the kindness to put themselves out, before
+entering.
 
-He was clerk in the drug-[[house]] of Chicksey, Veneering, and Stobbles.
-Chicksey and Stobbles, his former masters, had both become absorbed in
-Veneering, once their traveller or commission agent: who had signalized
-his accession to supreme power by bringing into the business a quantity
-of plate-glass [[Window|window]] and French-polished mahogany partition, and a
-gleaming and enormous doorplate.
+Assuredly, this stall of [[Silas Wegg]]’s was the hardest little stall of
+all the sterile little stalls in [[London]]. It gave you the face-ache
+to look at his apples, the stomach-ache to look at his oranges, the
+tooth-ache to look at his nuts. Of the latter commodity he had always
+a grim little heap, on which lay a little wooden measure which had
+no discernible inside, and was considered to represent the penn’orth
+appointed by Magna Charta. Whether from too much east [[Wind|wind]] or no—it was
+an easterly corner—the stall, the stock, and the keeper, were all as
+dry as the [[Desert]]. Wegg was a knotty man, and a close-grained, with a
+face carved out of very hard material, that had just as much play
+of expression as a watchman’s rattle. When he laughed, certain jerks
+occurred in it, and the rattle sprung. Sooth to say, he was so wooden
+a man that he seemed to have taken his wooden leg naturally, and rather
+suggested to the fanciful observer, that he might be expected—if his
+development received no untimely check—to be completely set up with a
+pair of wooden legs in about six months.
 
-R. Wilfer locked up his desk one evening, and, putting his bunch of keys
-in his pocket much as if it were his peg-top, made for [[Home|home]]. His [[Home|home]]
-was in the Holloway region north of [[London]], and then divided from it by
-fields and trees. Between Battle Bridge and that part of the Holloway
-district in which he dwelt, was a tract of suburban Sahara, where tiles
-and bricks were burnt, bones were boiled, carpets were beat, rubbish was
-shot, [[dogs]] were fought, and [[Dust|dust]] was heaped by contractors. Skirting
-the border of this [[Desert|desert]], by the way he took, when the light of its
-kiln-fires made lurid smears on the fog, R. Wilfer sighed and shook his
-head.
-
-‘Ah me!’ said he, ‘what might have been is not what is!’
-
-With which commentary on human life, indicating an experience of it
-not exclusively his own, he made the best of his way to the end of his
-[[Journey|journey]].
-
-Mrs Wilfer was, of course, a tall woman and an angular. Her lord being
-cherubic, she was necessarily majestic, according to the principle which
-matrimonially unites contrasts. She was much given to tying up her head
-in a pocket-handkerchief, knotted under the chin. This head-gear, in
-conjunction with a pair of gloves worn within doors, she seemed to
-consider as at once a kind of armour against misfortune (invariably
-assuming it when in low spirits or difficulties), and as a species of
-full dress. It was therefore with some sinking of the spirit that her
-husband beheld her thus heroically attired, putting down her candle in
-the little hall, and coming down the doorsteps through the little front
-[[Court|court]] to open the gate for him.
-
-Something had gone wrong with the [[house]]-door, for R. Wilfer stopped on
-the steps, staring at it, and cried:
-
-‘Hal-loa?’
-
-‘Yes,’ said Mrs Wilfer, ‘the man came himself with a pair of pincers,
-and took it off, and took it away. He said that as he had no expectation
-of ever being paid for it, and as he had an order for another LADIES’
-SCHOOL door-plate, it was better (burnished up) for the interests of all
-parties.’
-
-‘Perhaps it was, my dear; what do you think?’
-
-‘You are master here, R. W.,’ returned his wife. ‘It is as you think;
-not as I do. Perhaps it might have been better if the man had taken the
-door too?’
-
-‘My dear, we couldn’t have done without the door.’
-
-‘Couldn’t we?’
-
-‘Why, my dear! Could we?’
-
-‘It is as you think, R. W.; not as I do.’ With those submissive words,
-the dutiful wife preceded him down a few stairs to a little basement
-front room, half kitchen, half parlour, where a girl of about nineteen,
-with an exceedingly pretty figure and face, but with an impatient and
-petulant expression both in her face and in her shoulders (which in
-her sex and at her age are very expressive of discontent), sat playing
-draughts with a younger girl, who was the youngest of the [[house|House]] of
-Wilfer. Not to encumber this page by telling off the Wilfers in detail
-and casting them up in the gross, it is enough for the present that the
-rest were what is called ‘out in the world,’ in various ways, and that
-they were Many. So many, that when one of his dutiful children called in
-to see him, R. Wilfer generally seemed to say to himself, after a little
-mental arithmetic, ‘Oh! here’s another of ’em!’ before adding aloud,
-‘How de do, John,’ or Susan, as the case might be.
+Mr Wegg was an observant person, or, as he himself said, ‘took a
+powerful sight of notice’. He saluted all his regular passers-by every
+day, as he sat on his stool backed up by the lamp-post; and on the
+adaptable character of these salutes he greatly plumed himself. Thus,
+to the rector, he addressed a bow, compounded of lay deference, and
+a slight touch of the shady preliminary meditation at church; to the
+doctor, a confidential bow, as to a gentleman whose acquaintance with
+his inside he begged respectfully to acknowledge; before the Quality he
+delighted to abase himself; and for Uncle Parker, who was in the army
+(at least, so he had settled it), he put his open hand to the side
+of his hat, in a military manner which that angry-eyed buttoned-up
+inflammatory-faced old gentleman appeared but imperfectly to appreciate.

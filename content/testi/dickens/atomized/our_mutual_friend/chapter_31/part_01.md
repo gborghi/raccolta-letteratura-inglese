@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 7 (part 1)"
+title: "Our Mutual Friend — Chapter 9 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,138 +10,144 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_30/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_31/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_30/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_31/part_02">part 02 ›</a></div>
 </nav>
 
 
-Chapter 7
+Chapter 9
 
-IN WHICH A FRIENDLY MOVE IS ORIGINATED
+IN WHICH THE [[Orphan|ORPHAN]] MAKES HIS WILL
 
 
-The arrangement between Mr Boffin and his literary man, Mr [[Silas Wegg]],
-so far altered with the altered habits of Mr Boffin’s life, as that
-the Roman Empire usually declined in the morning and in the eminently
-aristocratic family mansion, rather than in the evening, as of yore,
-and in Boffin’s Bower. There were occasions, however, when Mr Boffin,
-seeking a brief refuge from the blandishments of fashion, would present
-himself at the Bower after dark, to anticipate the next sallying
-forth of Wegg, and would there, on the old settle, pursue the downward
-fortunes of those enervated and corrupted masters of the world who were
-by this [[Time|time]] on their last legs. If Wegg had been worse paid for his
-office, or better qualified to discharge it, he would have considered
-these visits complimentary and agreeable; but, holding the position of
-a handsomely-remunerated humbug, he resented them. This was quite
-according to rule, for the incompetent servant, by whomsoever employed,
-is always against his employer. Even those born governors, noble and
-right honourable creatures, who have been the most imbecile in high
-places, have uniformly shown themselves the most opposed (sometimes in
-belying distrust, sometimes in vapid insolence) to THEIR employer. What
-is in such wise true of the public master and servant, is equally true
-of the private master and servant all the world over.
+The Secretary, working in the Dismal Swamp betimes next morning, was
+informed that a youth waited in the hall who gave the name of Sloppy.
+The footman who communicated this intelligence made a decent pause
+before uttering the name, to express that it was forced on his
+reluctance by the youth in question, and that if the youth had had
+the good sense and good taste to inherit some other name it would have
+spared the feelings of him the bearer.
 
-When Mr [[Silas Wegg]] did at last obtain free access to ‘Our [[house|House]]’, as he
-had been wont to call the mansion outside which he had sat shelterless
-so long, and when he did at last find it in all particulars as different
-from his mental plans of it as according to the [[Nature|nature]] of things it
-[[Well|well]] could be, that far-seeing and far-reaching character, by way of
-asserting himself and making out a case for compensation, affected to
-fall into a [[Melancholy|melancholy]] strain of musing over the mournful past; as if
-the [[house]] and he had had a fall in life together.
+‘Mrs Boffin will be very [[Well|well]] pleased,’ said the Secretary in a
+perfectly composed way. ‘Show him in.’
 
-‘And this, sir,’ Silas would say to his patron, sadly nodding his head
-and musing, ‘was once Our [[house|House]]! This, sir, is the building from which I
-have so often seen those great creatures, Miss Elizabeth, Master
-George, Aunt Jane, and Uncle Parker’—whose very names were of his own
-inventing—‘pass and repass! And has it come to this, indeed! Ah dear
-me, dear me!’
+Mr Sloppy being introduced, remained close to the door: revealing
+in various parts of his form many surprising, confounding, and
+incomprehensible buttons.
 
-So tender were his lamentations, that the kindly Mr Boffin was quite
-sorry for him, and almost felt mistrustful that in buying the [[house]] he
-had done him an irreparable injury.
+‘I am glad to see you,’ said John Rokesmith, in a cheerful tone of
+welcome. ‘I have been expecting you.’
 
-Two or three diplomatic interviews, the result of great subtlety on Mr
-Wegg’s part, but assuming the mask of careless yielding to a fortuitous
-combination of circumstances impelling him towards Clerkenwell, had
-enabled him to complete his bargain with [[Mr Venus]].
+Sloppy explained that he had meant to come before, but that the [[Orphan]]
+(of whom he made mention as Our Johnny) had been ailing, and he had
+waited to report him [[Well|well]].
 
-‘Bring me round to the Bower,’ said Silas, when the bargain was closed,
-‘next Saturday evening, and if a sociable glass of old Jamaikey warm
-should meet your views, I am not the man to begrudge it.’
+‘Then he is [[Well|well]] now?’ said the Secretary.
 
-‘You are aware of my being poor company, sir,’ replied [[Mr Venus]], ‘but be
-it so.’
+‘No he ain’t,’ said Sloppy.
 
-It being so, here is Saturday evening come, and here is [[Mr Venus]] come,
-and ringing at the Bower-gate.
+Mr Sloppy having shaken his head to a considerable extent, proceeded
+to remark that he thought Johnny ‘must have took ’em from the Minders.’
+Being asked what he meant, he answered, them that come out upon him and
+partickler his chest. Being requested to explain himself, he stated that
+there was some of ’em wot you couldn’t kiver with a sixpence. Pressed to
+fall back upon a nominative case, he opined that they wos about as
+red as ever red could be. ‘But as long as they strikes out’ards, sir,’
+continued Sloppy, ‘they ain’t so much. It’s their striking in’ards
+that’s to be kep off.’
 
-Mr Wegg opens the gate, descries a sort of brown paper truncheon under
-[[Mr Venus]]’s arm, and remarks, in a dry tone: ‘Oh! I thought perhaps you
-might have come in a cab.’
+John Rokesmith hoped the [[Child|child]] had had medical attendance? Oh yes, said
+Sloppy, he had been took to the doctor’s shop once. And what did the
+doctor call it? Rokesmith asked him. After some perplexed reflection,
+Sloppy answered, brightening, ‘He called it something as wos wery
+long for spots.’ Rokesmith suggested measles. ‘No,’ said Sloppy with
+confidence, ‘ever so much longer than THEM, sir!’ (Mr Sloppy was
+elevated by this fact, and seemed to consider that it reflected credit
+on the poor little patient.)
 
-‘No, Mr Wegg,’ replies [[Venus]]. ‘I am not above a parcel.’
+‘Mrs Boffin will be sorry to hear this,’ said Rokesmith.
 
-‘Above a parcel! No!’ says Wegg, with some dissatisfaction. But does not
-openly growl, ‘a certain sort of parcel might be above you.’
+‘Mrs Higden said so, sir, when she kep it from her, hoping as Our Johnny
+would work round.’
 
-‘Here is your purchase, Mr Wegg,’ says [[Venus]], politely handing it over,
-‘and I am glad to restore it to the source from whence it—flowed.’
+‘But I [[Hope|hope]] he will?’ said Rokesmith, with a quick turn upon the
+messenger.
 
-‘Thankee,’ says Wegg. ‘Now this affair is concluded, I may mention to
-you in a friendly way that I’ve my doubts whether, if I had consulted a
-lawyer, you could have kept this article back from me. I only throw it
-out as a legal point.’
+‘I [[Hope|hope]] so,’ answered Sloppy. ‘It all depends on their striking
+in’ards.’ He then went on to say that whether Johnny had ‘took ’em’
+from the Minders, or whether the Minders had ‘took ’em’ from Johnny,
+the Minders had been sent [[Home|home]] and had ‘got ’em.’ Furthermore, that Mrs
+Higden’s days and nights being devoted to Our Johnny, who was never out
+of her lap, the whole of the mangling arrangements had devolved upon
+himself, and he had had ‘rayther a tight [[Time|time]]’. The ungainly piece of
+honesty beamed and blushed as he said it, quite enraptured with the
+remembrance of having been serviceable.
 
-‘Do you think so, Mr Wegg? I bought you in open contract.’
+‘Last [[Night|night]],’ said Sloppy, ‘when I was a-turning at the [[Wheel|wheel]] pretty
+late, the mangle seemed to go like Our Johnny’s breathing. It begun
+beautiful, then as it went out it shook a little and got unsteady, then
+as it took the turn to come [[Home|home]] it had a rattle-like and lumbered a
+bit, then it come smooth, and so it went on till I scarce know’d which
+was mangle and which was Our Johnny. Nor Our Johnny, he scarce know’d
+either, for sometimes when the mangle lumbers he says, “Me choking,
+Granny!” and Mrs Higden holds him up in her lap and says to me “Bide a
+bit, Sloppy,” and we all stops together. And when Our Johnny gets his
+breathing again, I turns again, and we all goes on together.’
 
-‘You can’t buy human flesh and [[Blood|blood]] in this country, sir; not alive,
-you can’t,’ says Wegg, shaking his head. ‘Then query, bone?’
+Sloppy had gradually expanded with his description into a stare and a
+vacant grin. He now contracted, being silent, into a half-repressed gush
+of [[Tears|tears]], and, under pretence of being heated, drew the under part of
+his sleeve across his eyes with a singularly awkward, laborious, and
+roundabout smear.
 
-‘As a legal point?’ asks [[Venus]].
+‘This is unfortunate,’ said Rokesmith. ‘I must go and break it to Mrs
+Boffin. Stay you here, Sloppy.’
 
-‘As a legal point.’
+Sloppy stayed there, staring at the pattern of the paper on the wall,
+until the Secretary and Mrs Boffin came back together. And with Mrs
+Boffin was a young lady (Miss [[Bella Wilfer]] by name) who was better worth
+staring at, it occurred to Sloppy, than the best of wall-papering.
 
-‘I am not competent to speak upon that, Mr Wegg,’ says [[Venus]], reddening
-and growing something louder; ‘but upon a point of fact I think myself
-competent to speak; and as a point of fact I would have seen you—will
-you allow me to say, further?’
+‘Ah, my poor dear pretty little [[John Harmon]]!’ exclaimed Mrs Boffin.
 
-‘I wouldn’t say more than further, if I was you,’ Mr Wegg suggests,
-pacifically.
+‘Yes mum,’ said the sympathetic Sloppy.
 
-—‘Before I’d have given that packet into your hand without being paid
-my price for it. I don’t pretend to know how the point of law may stand,
-but I’m thoroughly confident upon the point of fact.’
+‘You don’t think he is in a very, very bad way, do you?’ asked the
+pleasant creature with her wholesome cordiality.
 
-As [[Mr Venus]] is irritable (no [[Doubt|doubt]] owing to his disappointment in [[Love|love]]),
-and as it is not the cue of Mr Wegg to have him out of temper, the
-latter gentleman soothingly remarks, ‘I only put it as a little case; I
-only put it ha’porthetically.’
+Put upon his good [[Faith|faith]], and finding it in collision with his
+inclinations, Sloppy threw back his head and uttered a mellifluous howl,
+rounded off with a sniff.
 
-‘Then I’d rather, Mr Wegg, you put it another [[Time|time]], penn’orth-etically,’
-is [[Mr Venus]]’s retort, ‘for I tell you candidly I don’t like your little
-cases.’
+‘So bad as that!’ cried Mrs Boffin. ‘And Betty Higden not to tell me of
+it sooner!’
 
-Arrived by this [[Time|time]] in Mr Wegg’s sitting-room, made bright on the
-chilly evening by gaslight and [[Fire|fire]], [[Mr Venus]] softens and compliments
-him on his abode; profiting by the occasion to remind Wegg that he
-([[Venus]]) told him he had got into a good thing.
+‘I think she might have been mistrustful, mum,’ answered Sloppy,
+hesitating.
 
-‘Tolerable,’ Wegg rejoins. ‘But bear in mind, [[Mr Venus]], that there’s
-no gold without its alloy. Mix for yourself and take a seat in the
-chimbley-corner. Will you perform upon a pipe, sir?’
+‘Of what, for Heaven’s sake?’
 
-‘I am but an indifferent performer, sir,’ returns the other; ‘but I’ll
-accompany you with a whiff or two at intervals.’
+‘I think she might have been mistrustful, mum,’ returned Sloppy with
+submission, ‘of standing in Our Johnny’s light. There’s so much trouble
+in illness, and so much expense, and she’s seen such a lot of its being
+objected to.’
 
-So, [[Mr Venus]] mixes, and Wegg mixes; and [[Mr Venus]] lights and puffs, and
-Wegg lights and puffs.
+‘But she never can have thought,’ said Mrs Boffin, ‘that I would grudge
+the dear [[Child|child]] anything?’
 
-‘And there’s alloy even in this metal of yours, Mr Wegg, you was
-remarking?’
+‘No mum, but she might have thought (as a habit-like) of its standing
+in Johnny’s light, and might have tried to bring him through it
+unbeknownst.’
 
-‘Mystery,’ returns Wegg. ‘I don’t like it, [[Mr Venus]]. I don’t like to
-have the life knocked out of former inhabitants of this [[house]], in the
-gloomy dark, and not know who did it.’
-
-‘Might you have any suspicions, Mr Wegg?’
+Sloppy knew his ground [[Well|well]]. To conceal herself in sickness, like a
+lower animal; to creep out of sight and coil herself away and die; had
+become this woman’s instinct. To catch up in her arms the sick [[Child|child]] who
+was dear to her, and hide it as if it were a criminal, and keep off all
+ministration but such as her own ignorant tenderness and patience could
+supply, had become this woman’s idea of maternal [[Love|love]], fidelity, and
+duty. The shameful accounts we read, every week in the Christian year,
+my lords and gentlemen and honourable boards, the infamous records of
+small official inhumanity, do not pass by the people as they pass by
+us. And hence these irrational, blind, and obstinate prejudices, so
+astonishing to our magnificence, and having no more reason in them—God
+save the [[Queen]] and Confound their politics—no, than smoke has in coming
+from [[Fire|fire]]!

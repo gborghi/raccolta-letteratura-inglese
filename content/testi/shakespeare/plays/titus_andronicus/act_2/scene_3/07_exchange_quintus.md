@@ -1,5 +1,5 @@
 ---
-title: "[[Titus Andronicus]] — Act II, Scene 3 — exchange (QUINTUS) [7]"
+title: "Titus Andronicus — Act II, Scene 3 — exchange (QUINTUS) [7]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/titus-andronicus-(shakespeare)"

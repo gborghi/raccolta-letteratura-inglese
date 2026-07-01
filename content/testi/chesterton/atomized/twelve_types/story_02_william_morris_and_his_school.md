@@ -16,10 +16,6 @@ tags:
 
 WILLIAM MORRIS AND HIS SCHOOL
 
-
-
-
-
 It is proper enough that the unveiling of the bust of William Morris
 
 should approximate to a public festival, for while there have been many
@@ -83,8 +79,6 @@ the blue forest a mile behind, he would be serenely happy. So he would
 be, no [[Doubt|doubt]], if he were really fitted for a decorative existence; if he
 
 were a piece of exquisitely coloured cardboard.
-
-
 
 But although Morris took little account of the terrible solidity of
 
@@ -164,8 +158,6 @@ have called down the [[Fire|fire]] of Heaven on us as a race of half-witted
 
 atheists. Probably they would have been quite right.
 
-
-
 This clear and fine perception of what may be called the anaesthetic
 
 element in the Victorian era was, undoubtedly, the work of a great
@@ -176,7 +168,7 @@ that surrounds us on every side. The manner in which Morris carried out
 
 his crusade may, considering the circumstances, be called triumphant.
 
-Our carpets began to bloom under our feet like the meadows in [[Spring|spring]],
+Our carpets began to bloom under our feet like the meadows in [[spring]],
 
 and our hitherto prosaic stools and sofas seemed growing legs and arms
 
@@ -197,8 +189,6 @@ decoration, has, nine times out of ten in [[history]], made things uglier
 than they were before, from the 'coiffure' of a Papuan savage to the
 
 wall-paper of a British merchant in 1830.
-
-
 
 But great and beneficent as was the aesthetic revolution of Morris, there
 
@@ -232,7 +222,7 @@ sprang honestly and naturally out of the life they led and preferred to
 
 lead. And it may surely be maintained that any real advance in the
 
-[[Beauty|beauty]] of modern dress must [[Spring|spring]] honestly and naturally out of the
+[[Beauty|beauty]] of modern dress must [[spring]] honestly and naturally out of the
 
 life we lead and prefer to lead. We are not altogether without hints and
 
@@ -327,8 +317,6 @@ this was because, with all his healthiness and energy, he had not the
 supreme [[Courage|courage]] to face the ugliness of things; [[Beauty]] shrank from the
 
 Beast and the fairy-tale had a different ending.
-
-
 
 But herein, indeed, lay Morris's deepest claim to the name of a great
 

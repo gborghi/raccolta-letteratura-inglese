@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 41 (part 4)"
+title: "Villette — Chapter 41 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -124,7 +124,3 @@ Demoiselles Miret? They are at your service.”
 become me indeed to object! I suppose I hardly expect at the outset to
 number aristocrats in my little day-school; I care not if they never
 come. I shall be proud to receive M. Miret’s daughters.”
-
-“Besides these,” pursued he, “another pupil offers, who will come daily
-to take lessons in English; and as she is rich, she will pay
-handsomely. I mean my god-daughter and ward, Justine Marie Sauveur.”

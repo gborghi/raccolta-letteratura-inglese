@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 37 (part 3)"
+title: "Villette — Chapter 37 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,23 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_39/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_39/part_04">part 04 ›</a></div>
 </nav>
 
+
+“Ah! I would have given him Ginevra with all my heart; but Polly!—I
+can’t let him have her. No—I can’t. He is not her equal,” he affirmed,
+rather gruffly. “In what particular is he her match? They talk of
+fortune! I am not an avaricious or interested man, but the world thinks
+of these things—and Polly will be rich.”
+
+“Yes, that is known,” said I: “all [[Villette]] knows her as an heiress.”
+
+“Do they talk of my little girl in that light?”
+
+“They do, sir.”
+
+He fell into deep thought. I ventured to say, “Would you, sir, think
+any one [[Paulina]]’s match? Would you prefer any other to Dr. Bretton? Do
+you think higher rank or more wealth would make much difference in your
+feelings towards a future son-in-law?”
 
 “You touch me there,” said he.
 
@@ -138,32 +155,3 @@ just to satisfy.”
 
 “Oh, papa!” she cried with earnestness, “I will—I _will_ tell you the
 [[Truth|truth]]—all the [[Truth|truth]]; I am glad to tell you—glad, though I tremble.”
-
-She _did_ tremble: growing excitement, kindling feeling, and also
-gathering [[Courage|courage]], shook her.
-
-“I hate to hide my actions from you, papa. I [[Fear|fear]] you and [[Love|love]] you
-above everything but God. Read the letter; look at the address.”
-
-She laid it on his knee. He took it up and read it through; his hand
-shaking, his eyes glistening meantime.
-
-He re-folded it, and viewed the writer with a strange, tender, mournful
-amaze.
-
-“Can _she_ write so—the little thing that stood at my knee but
-yesterday? Can she feel so?”
-
-“Papa, is it wrong? Does it [[Pain|pain]] you?”
-
-“There is nothing wrong in it, my [[Innocent|innocent]] little Mary; but it pains
-me.”
-
-“But, papa, listen! You shall not be pained by me. I would give up
-everything—almost” (correcting herself); “I would die rather than make
-you unhappy; that would be too wicked!”
-
-She shuddered.
-
-“Does the letter not please you? Must it not go? Must it be torn? It
-shall, for your sake, if you order it.”

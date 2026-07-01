@@ -1,5 +1,5 @@
 ---
-title: "[[The Balloon-Hoax]]"
+title: "The Balloon-Hoax"
 author: "Poe"
 unitType: work
 parentWork: "works/the-balloon-hoax-(poe)"
@@ -229,15 +229,15 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       end of the axis which is next the car, proceeds a shaft of steel,
 
-      connecting the screw with the pinion of a piece of [[Spring|spring]]
+      connecting the screw with the pinion of a piece of [[spring]]
 
-      machinery fixed in the car. By the operation of this [[Spring|spring]], the
+      machinery fixed in the car. By the operation of this [[spring]], the
 
       screw is made to revolve with great rapidity, communicating a
 
       progressive motion to the whole. By means of the rudder, the
 
-      [[Machine|machine]] was readily turned in any direction. The [[Spring|spring]] was of
+      [[Machine|machine]] was readily turned in any direction. The [[spring]] was of
 
       great power, compared with its dimensions, being capable of
 
@@ -649,7 +649,7 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       direction, and our course was brought nearly at right angles to
 
-      that of the [[Wind|wind]]; when we set in motion the [[Spring|spring]] of the screw,
+      that of the [[Wind|wind]]; when we set in motion the [[spring]] of the screw,
 
       and were rejoiced to find it propel us readily as desired. Upon
 
@@ -663,7 +663,7 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       discouraged us in no little degree. The steel rod connecting the
 
-      [[Spring|spring]] with the propeller was suddenly jerked out of place, at
+      [[spring]] with the propeller was suddenly jerked out of place, at
 
       the car end, (by a swaying of the car through some movement of
 
@@ -695,7 +695,7 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
       which bore us on, and in place of beating back to [[Paris]], make an
 
-      attempt to reach the coast of North [[America]]. After slight
+      attempt to reach the coast of North [[america|America]]. After slight
 
       reflection I gave a willing assent to this bold proposition,
 

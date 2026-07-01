@@ -1,5 +1,5 @@
 ---
-title: "[[The Unparalleled Adventures of one Hans Pfaall]] (part 16)"
+title: "The Unparalleled Adventures of one Hans Pfaall (part 16)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-unparalleled-adventures-of-one-hans-pfaall-(poe)"
@@ -13,6 +13,82 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/part/part_15">‹ part 15</a><a class="ex-next" href="/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/part/part_17">part 17 ›</a></div>
 </nav>
 
+
+      approaching it, and with great rapidity. Fancied I could again
+
+      distinguish a strip of land to the eastward, and one also to the
+
+      westward, but could not be certain. Weather moderate. Nothing of
+
+      any consequence happened during the day. Went early to bed.
+
+
+
+      “April 6th. Was surprised at finding the rim of ice at a very
+
+      moderate distance, and an immense field of the same material
+
+      stretching away off to the horizon in the north. It was evident
+
+      that if the balloon held its present course, it would soon arrive
+
+      above the Frozen Ocean, and I had now little [[Doubt|doubt]] of ultimately
+
+      seeing the Pole. During the whole of the day I continued to near
+
+      the ice. Toward [[Night|night]] the limits of my horizon very suddenly and
+
+      materially increased, owing undoubtedly to the earth’s form being
+
+      that of an oblate spheroid, and my arriving above the flattened
+
+      regions in the vicinity of the Arctic circle. When darkness at
+
+      length overtook me, I went to bed in great anxiety, fearing to
+
+      pass over the object of so much curiosity when I should have no
+
+      opportunity of observing it.
+
+
+
+      “April 7th. Arose early, and, to my great joy, at length beheld
+
+      what there could be no hesitation in supposing the northern Pole
+
+      itself. It was there, beyond a [[Doubt|doubt]], and immediately beneath my
+
+      feet; but, alas! I had now ascended to so vast a distance, that
+
+      nothing could with accuracy be discerned. Indeed, to judge from
+
+      the progression of the numbers indicating my various altitudes,
+
+      respectively, at different periods, between six A.M. on the
+
+      second of April, and twenty minutes before nine A.M. of the same
+
+      day (at which [[Time|time]] the barometer ran down), it might be fairly
+
+      inferred that the balloon had now, at four o’[[Clock|clock]] in the morning
+
+      of April the seventh, reached a height of not less, certainly,
+
+      than 7,254 miles above the surface of the sea. This elevation may
+
+      appear immense, but the estimate upon which it is calculated gave
+
+      a result in all probability far inferior to the [[Truth|truth]]. At all
+
+      events I undoubtedly beheld the whole of the earth’s major
+
+      diameter; the entire northern hemisphere lay beneath me like a
+
+      chart orthographically projected: and the great circle of the
+
+      equator itself formed the boundary line of my horizon. Your
+
+      Excellencies may, however, readily imagine that the confined
 
       regions hitherto unexplored within the limits of the Arctic
 
@@ -117,91 +193,3 @@ tags:
       yellow. The balloon kept steadily on her course to the southward,
 
       and arrived, at nine P.M., over the northern edge of the Mexican
-
-      Gulf.
-
-
-
-      “April 10th. I was suddenly aroused from slumber, about five
-
-      o’[[Clock|clock]] this morning, by a loud, crackling, and terrific sound,
-
-      for which I could in no manner account. It was of very brief
-
-      duration, but, while it lasted resembled nothing in the world of
-
-      which I had any previous experience. It is needless to say that I
-
-      became excessively alarmed, having, in the first instance,
-
-      attributed the noise to the bursting of the balloon. I examined
-
-      all my apparatus, however, with great attention, and could
-
-      discover nothing out of order. Spent a great part of the day in
-
-      meditating upon an occurrence so extraordinary, but could find no
-
-      means whatever of accounting for it. Went to bed dissatisfied,
-
-      and in a state of great anxiety and agitation.
-
-
-
-      “April 11th. Found a startling diminution in the apparent
-
-      diameter of the earth, and a considerable increase, now
-
-      observable for the first [[Time|time]], in that of the [[Moon|moon]] itself, which
-
-      wanted only a few days of being full. It now required long and
-
-      excessive labor to condense within the chamber sufficient
-
-      atmospheric air for the sustenance of life.
-
-
-
-      “April 12th. A singular alteration took place in regard to the
-
-      direction of the balloon, and although fully anticipated,
-
-      afforded me the most unequivocal delight. Having reached, in its
-
-      former course, about the twentieth parallel of southern latitude,
-
-      it turned off suddenly, at an acute angle, to the eastward, and
-
-      thus proceeded throughout the day, keeping nearly, if not
-
-      altogether, in the exact plane of the lunar ellipse. What was
-
-      worthy of remark, a very perceptible vacillation in the car was a
-
-      consequence of this change of route—a vacillation which
-
-      prevailed, in a more or less degree, for a period of many hours.
-
-
-
-      “April 13th. Was again very much alarmed by a repetition of the
-
-      loud, crackling noise which terrified me on the tenth. Thought
-
-      long upon the subject, but was unable to form any satisfactory
-
-      conclusion. Great decrease in the earth’s apparent diameter,
-
-      which now subtended from the balloon an angle of very little more
-
-      than twenty-five degrees. The [[Moon|moon]] could not be seen at all,
-
-      being nearly in my zenith. I still continued in the plane of the
-
-      ellipse, but made little progress to the eastward.
-
-
-
-      “April 14th. Extremely rapid decrease in the diameter of the
-
-      earth. To-day I became strongly impressed with the idea, that the

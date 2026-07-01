@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The Curse of the Golden [[Cross]] (part 5)"
+title: "incredulity Fr Brown — The Curse of the Golden Cross (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity_fr_brown/story_05_the_curse_of_the_golden_cross/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity_fr_brown/story_05_the_curse_of_the_golden_cross/part_06">part 06 ›</a></div>
 </nav>
 
+
+'You see, my dear Professor,' cried Lady [[Diana]] with trenchant
+cheerfulness, 'your Byzantine mummy was simply too exciting to be
+missed. I simply had to come along and see it; and I'm sure the
+gentlemen felt just the same. Now you must tell us all about it.'
 
 'I do not know all about it,' said [[The Professor|the Professor]] gravely, not to say
 grimly, 'In some respects I don't even know what it's all about. It

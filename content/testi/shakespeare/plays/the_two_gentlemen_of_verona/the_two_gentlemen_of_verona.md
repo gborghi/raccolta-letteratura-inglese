@@ -1,5 +1,5 @@
 ---
-title: "THE TWO GENTLEMEN OF [[Verona|VERONA]]"
+title: "THE TWO GENTLEMEN OF VERONA"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-two-gentlemen-of-verona-(shakespeare)"

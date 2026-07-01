@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)-(2)">The Flying Inn 2</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn_2/chapter_13/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn_2/chapter_14/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn_2/chapter_13/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn_2/chapter_14/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -152,7 +152,3 @@ carefully accurate articulation, "His lordship wishes
 my presence to appear quite accidental."  Then he
 tried to remember something else that Leveson had
 said.
-
-He began to wade through the waves of weed and
-thorn past the Chapel, but he found the soil much more
-uneven and obstructive than he had supposed.

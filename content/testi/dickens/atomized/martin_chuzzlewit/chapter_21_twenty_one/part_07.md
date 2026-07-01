@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 21: TWENTY ONE (part 7)"
+title: "Martin Chuzzlewit — Chapter 21: TWENTY ONE (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,25 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_21_twenty_one/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_21_twenty_one/part_08">part 08 ›</a></div>
 </nav>
 
+
+‘There!’ he said, leaving his knife quivering in the wall; ‘that’s where
+it is!’
+
+Martin glanced with sparkling eyes upon his Co., and his Co. saw that
+the thing was done.
+
+The bargain was not concluded as easily as might have been expected
+though, for Scadder was caustic and ill-humoured, and cast much
+unnecessary opposition in the way; at one [[Time|time]] requesting them to think
+of it, and call again in a week or a fortnight; at another, predicting
+that they wouldn’t like it; at another, offering to retract and let them
+off, and muttering strong imprecations upon the folly of the General.
+But the whole of the astoundingly small sum total of purchase-money--it
+was only one hundred and fifty dollars, or something more than thirty
+pounds of the capital brought by Co. into the architectural concern--was
+ultimately paid down; and Martin’s head was two inches nearer the roof
+of the little wooden office, with the consciousness of being a landed
+proprietor in the thriving [[City|city]] of Eden.
 
 ‘If it shouldn’t happen to fit,’ said Scadder, as he gave Martin the
 necessary credentials on recepit of his money, ‘don’t blame me.’
@@ -111,18 +130,3 @@ rendered Martin curious to see what grounds of sympathy the Watertoast
 Association put forth; nor was he long in suspense, for the General
 [[Rose|rose]] to read a letter to the Public Man, which with his own hands he had
 written.
-
-‘Thus,’ said the General, ‘thus, my friends and fellow-citizens, it
-runs:
-
-
-‘“SIR--I address you on behalf of the Watertoast Association of United
-Sympathisers. It is founded, sir, in the great republic of [[America]]! and
-now holds its breath, and swells the blue veins in its forehead nigh to
-bursting, as it watches, sir, with feverish intensity and sympathetic
-ardour, your noble efforts in the cause of [[Freedom]].”’
-
-
-At the name of [[Freedom]], and at every repetition of that name, all the
-Sympathisers roared aloud; cheering with nine times nine, and nine times
-over.

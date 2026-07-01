@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 15 (part 4)"
+title: "Our Mutual Friend — Chapter 1 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,134 +10,184 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_56/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_56/part_05">part 05 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_56/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_57/part_01">part 01 ›</a></div>
 </nav>
 
 
-‘I don’t understand you.’
+‘Oh!’ thought that worthy. ‘You’re a-taking notice, are you? Come! You
+shall have a good squint at it then.’ With which reflection he sat down
+on the other side of the table, threw open his vest, and made a pretence
+of re-tying the neckerchief with much deliberation.
 
-‘Don’t you? Or won’t you? What else could you have made this young lady
-out to be, if she had listened to such addresses as yours?’
+Bradley ate and drank. As he sat at his platter and mug, Riderhood saw
+him, again and yet again, steal a look at the neckerchief, as if he were
+correcting his slow observation and prompting his sluggish [[Memory|memory]].
+‘When you’re ready for your snooze,’ said that honest creature, ‘chuck
+yourself on my bed in the corner, T’otherest. It’ll be broad day afore
+three. I’ll call you early.’
 
-‘What else, if I had been so happy as to win her affections and possess
-her heart?’
+‘I shall require no calling,’ answered Bradley. And soon afterwards,
+divesting himself only of his shoes and coat, laid himself down.
 
-‘Win her affections,’ retorted Mr Boffin, with ineffable contempt,
-‘and possess her heart! Mew says the cat, Quack-quack says the duck,
-Bow-wow-wow says the dog! Win her affections and possess her heart! Mew,
-Quack-quack, Bow-wow!’
+Riderhood, leaning back in his wooden arm-chair with his arms folded
+on his breast, looked at him lying with his right hand clenched in his
+[[Sleep|sleep]] and his teeth set, until a film came over his own sight, and he
+slept too. He awoke to find that it was daylight, and that his
+visitor was already astir, and going out to the [[River|river]]-side to cool his
+head:—‘Though I’m blest,’ muttered Riderhood at the Lock-[[house]] door,
+looking after him, ‘if I think there’s [[Water|water]] enough in all the Thames
+to do THAT for you!’ Within five minutes he had taken his departure,
+and was passing on into the calm distance as he had passed yesterday.
+Riderhood knew when a fish leaped, by his starting and glancing round.
 
-John Rokesmith stared at him in his outburst, as if with some faint idea
-that he had gone mad.
+‘Lock ho! Lock!’ at intervals all day, and ‘Lock ho! Lock!’ thrice in
+the ensuing [[Night|night]], but no return of Bradley. The second day was sultry
+and oppressive. In the afternoon, a thunderstorm came up, and had but
+newly broken into a furious sweep of rain when he rushed in at the door,
+like the [[Storm|storm]] itself.
 
-‘What is due to this young lady,’ said Mr Boffin, ‘is Money, and this
-young lady right [[Well|well]] knows it.’
+‘You’ve seen him with her!’ exclaimed Riderhood, starting up.
 
-‘You slander the young lady.’
+‘I have.’
 
-‘YOU slander the young lady; you with your affections and hearts and
-trumpery,’ returned Mr Boffin. ‘It’s of a piece with the rest of your
-behaviour. I heard of these doings of yours only last [[Night|night]], or you
-should have heard of ’em from me, sooner, take your oath of it. I heard
-of ’em from a lady with as good a headpiece as the best, and she knows
-this young lady, and I know this young lady, and we all three know that
-it’s Money she makes a stand for—money, money, money—and that you and
-your affections and hearts are a Lie, sir!’
+‘Where?’
 
-‘Mrs Boffin,’ said Rokesmith, quietly turning to her, ‘for your delicate
-and unvarying kindness I thank you with the warmest gratitude. Good-bye!
-Miss Wilfer, good-bye!’
+‘At his [[Journey|journey]]’s end. His boat’s hauled up for three days. I heard
+him give the order. Then, I saw him wait for her and meet her. I saw
+them’—he stopped as though he were suffocating, and began again—‘I saw
+them walking side by side, last [[Night|night]].’
 
-‘And now, my dear,’ said Mr Boffin, laying his hand on Bella’s head
-again, ‘you may begin to make yourself quite comfortable, and I [[Hope|hope]] you
-feel that you’ve been righted.’
+‘What did you do?’
 
-But, Bella was so far from appearing to feel it, that she shrank from
-his hand and from the chair, and, starting up in an incoherent passion
-of [[Tears|tears]], and stretching out her arms, cried, ‘O Mr Rokesmith, before
-you go, if you could but make me poor again! O! Make me poor again,
-Somebody, I beg and pray, or my heart will break if this goes on! Pa,
-dear, make me poor again and take me [[Home|home]]! I was bad enough there, but
-I have been so much worse here. Don’t give me money, Mr Boffin, I won’t
-have money. Keep it away from me, and only let me speak to good little
-Pa, and lay my head upon his shoulder, and tell him all my griefs.
-Nobody else can understand me, nobody else can comfort me, nobody else
-knows how unworthy I am, and yet can [[Love|love]] me like a little [[Child|child]]. I am
-better with Pa than any one—more [[Innocent|innocent]], more sorry, more glad!’ So,
-crying out in a wild way that she could not bear this, Bella drooped her
-head on Mrs Boffin’s ready breast.
+‘Nothing.’
 
-John Rokesmith from his place in the room, and Mr Boffin from his,
-looked on at her in [[Silence|silence]] until she was silent herself. Then Mr Boffin
-observed in a soothing and comfortable tone, ‘There, my dear, there; you
-are righted now, and it’s ALL right. I don’t [[Wonder|wonder]], I’m sure, at your
-being a little flurried by having a scene with this fellow, but it’s all
-over, my dear, and you’re righted, and it’s—and it’s ALL right!’ Which
-Mr Boffin repeated with a highly satisfied air of completeness and
-finality.
+‘What are you going to do?’
 
-‘I hate you!’ cried Bella, turning suddenly upon him, with a stamp of
-her little foot—‘at least, I can’t hate you, but I don’t like you!’
+He dropped into a chair, and laughed. Immediately afterwards, a great
+spirt of [[Blood|blood]] burst from his nose.
 
-‘HUL—LO!’ exclaimed Mr Boffin in an amazed under-tone.
+‘How does that happen?’ asked Riderhood.
 
-‘You’re a scolding, unjust, abusive, aggravating, bad old creature!’
-cried Bella. ‘I am angry with my ungrateful [[Self|self]] for calling you names;
-but you are, you are; you know you are!’
+‘I don’t know. I can’t keep it back. It has happened twice—three
+times—four times—I don’t know how many times—since last [[Night|night]]. I
+taste it, smell it, see it, it chokes me, and then it breaks out like
+this.’
 
-Mr Boffin stared here, and stared there, as misdoubting that he must be
-in some sort of fit.
+He went into the pelting rain again with his head bare, and, bending low
+over the [[River|river]], and scooping up the [[Water|water]] with his two hands, washed the
+[[Blood|blood]] away. All beyond his figure, as Riderhood looked from the door,
+was a vast dark curtain in solemn movement towards one quarter of the
+heavens. He raised his head and came back, wet from head to foot, but
+with the lower parts of his sleeves, where he had dipped into the [[River|river]],
+streaming [[Water|water]].
 
-‘I have heard you with shame,’ said Bella. ‘With shame for myself, and
-with shame for you. You ought to be above the base tale-bearing of a
-[[Time|time]]-serving woman; but you are above nothing now.’
+‘Your face is like a [[Ghost|ghost]]’s,’ said Riderhood.
 
-Mr Boffin, seeming to become convinced that this was a fit, rolled his
-eyes and loosened his neckcloth.
+‘Did you ever see a [[Ghost|ghost]]?’ was the sullen retort.
 
-‘When I came here, I respected you and honoured you, and I soon loved
-you,’ cried Bella. ‘And now I can’t bear the sight of you. At least, I
-don’t know that I ought to go so far as that—only you’re a—you’re a
-[[Monster]]!’ Having shot this bolt out with a great expenditure of force,
-Bella hysterically laughed and cried together.
+‘I mean to say, you’re quite wore out.’
 
-‘The best wish I can wish you is,’ said Bella, returning to the charge,
-‘that you had not one single farthing in the world. If any true friend
-and [[Well|well]]-wisher could make you a bankrupt, you would be a Duck; but as a
-man of property you are a Demon!’
+‘That may [[Well|well]] be. I have had no rest since I left here. I don’t
+remember that I have so much as sat down since I left here.’
 
-After despatching this second bolt with a still greater expenditure of
-force, Bella laughed and cried still more.
+‘Lie down now, then,’ said Riderhood.
 
-‘Mr Rokesmith, pray stay one moment. Pray hear one word from me before
-you go! I am deeply sorry for the reproaches you have borne on my
-account. Out of the depths of my heart I earnestly and truly beg your
-pardon.’
+‘I will, if you’ll give me something to quench my thirst first.’
 
-As she stepped towards him, he met her. As she gave him her hand, he put
-it to his lips, and said, ‘God bless you!’ No laughing was mixed with
-Bella’s crying then; her [[Tears|tears]] were pure and fervent.
+The bottle and jug were again produced, and he mixed a weak draught, and
+another, and drank both in quick succession. ‘You asked me something,’
+he said then.
 
-‘There is not an ungenerous word that I have heard addressed to
-you—heard with scorn and indignation, Mr Rokesmith—but it has wounded
-me far more than you, for I have deserved it, and you never have. Mr
-Rokesmith, it is to me you owe this perverted account of what passed
-between us that [[Night|night]]. I parted with the secret, even while I was angry
-with myself for doing so. It was very bad in me, but indeed it was not
-wicked. I did it in a moment of conceit and folly—one of my many such
-moments—one of my many such hours—years. As I am punished for it
-severely, try to forgive it!’
+‘No, I didn’t,’ replied Riderhood.
 
-‘I do with all my [[Soul|soul]].’
+‘I tell you,’ retorted Bradley, turning upon him in a wild and desperate
+manner, ‘you asked me something, before I went out to wash my face in
+the [[River|river]].
 
-‘Thank you. O thank you! Don’t part from me till I have said one other
-word, to do you justice. The only fault you can be truly charged with,
-in having spoken to me as you did that [[Night|night]]—with how much delicacy
-and how much forbearance no one but I can know or be grateful to you
-for—is, that you laid yourself open to be slighted by a worldly shallow
-girl whose head was turned, and who was quite unable to rise to the
-worth of what you offered her. Mr Rokesmith, that girl has often seen
-herself in a pitiful and poor light since, but never in so pitiful
-and poor a light as now, when the mean tone in which she answered
-you—sordid and vain girl that she was—has been echoed in her ears by
-Mr Boffin.’
+‘Oh! Then?’ said Riderhood, backing a little. ‘I asked you wot you wos
+a-going to do.’
+
+‘How can a man in this state know?’ he answered, protesting with both
+his tremulous hands, with an action so vigorously angry that he shook
+the [[Water|water]] from his sleeves upon the floor, as if he had wrung them. ‘How
+can I plan anything, if I haven’t [[Sleep|sleep]]?’
+
+‘Why, that’s what I as good as said,’ returned the other. ‘Didn’t I say
+lie down?’
+
+‘[[Well]], perhaps you did.’
+
+‘[[Well]]! Anyways I says it again. [[Sleep]] where you slept last; the sounder
+and longer you can [[Sleep|sleep]], the better you’ll know arterwards what you’re
+up to.’
+
+His pointing to the truckle bed in the corner, seemed gradually to bring
+that poor couch to Bradley’s wandering remembrance. He slipped off his
+worn down-trodden shoes, and cast himself heavily, all wet as he was,
+upon the bed.
+
+Riderhood sat down in his wooden arm-chair, and looked through the
+[[Window|window]] at the [[Lightning|lightning]], and listened to the thunder. But, his thoughts
+were far from being absorbed by the thunder and the [[Lightning|lightning]], for again
+and again and again he looked very curiously at the exhausted man upon
+the bed. The man had turned up the collar of the rough coat he wore,
+to shelter himself from the [[Storm|storm]], and had buttoned it about his neck.
+Unconscious of that, and of most things, he had left the coat so, both
+when he had laved his face in the [[River|river]], and when he had cast himself
+upon the bed; though it would have been much easier to him if he had
+unloosened it.
+
+The thunder rolled heavily, and the forked [[Lightning|lightning]] seemed to make
+jagged rents in every part of the vast curtain without, as Riderhood sat
+by the [[Window|window]], glancing at the bed. Sometimes, he saw the man upon the
+bed, by a red light; sometimes, by a blue; sometimes, he scarcely saw
+him in the darkness of the [[Storm|storm]]; sometimes he saw nothing of him in
+the blinding glare of palpitating white [[Fire|fire]]. Anon, the rain would come
+again with a tremendous rush, and the [[River|river]] would seem to rise to meet
+it, and a blast of [[Wind|wind]], bursting upon the door, would flutter the hair
+and dress of the man, as if invisible messengers were come around the
+bed to carry him away. From all these phases of the [[Storm|storm]], Riderhood
+would turn, as if they were interruptions—rather striking interruptions
+possibly, but interruptions still—of his scrutiny of [[The Sleeper|the sleeper]].
+
+‘He sleeps sound,’ he said within himself; ‘yet he’s that up to me and
+that noticing of me that my getting out of my chair may wake him, when a
+rattling peal won’t; let [[Alone|alone]] my touching of him.’
+
+He very cautiously [[Rose|rose]] to his feet. ‘T’otherest,’ he said, in a low,
+calm voice, ‘are you a lying easy? There’s a chill in the air, governor.
+Shall I put a coat over you?’
+
+No answer.
+
+‘That’s about what it is a’ready, you see,’ muttered Riderhood in a
+lower and a different voice; ‘a coat over you, a coat over you!’
+
+[[The Sleeper|The sleeper]] moving an arm, he sat down again in his chair, and feigned
+to watch the [[Storm|storm]] from the [[Window|window]]. It was a grand spectacle, but not so
+grand as to keep his eyes, for half a minute together, from stealing a
+look at the man upon the bed.
+
+It was at the concealed throat of [[The Sleeper|the sleeper]] that Riderhood so often
+looked so curiously, until the [[Sleep|sleep]] seemed to deepen into the stupor
+of the dead-tired in mind and [[Body|body]]. Then, Riderhood came from the [[Window|window]]
+cautiously, and stood by the bed.
+
+‘Poor man!’ he murmured in a low tone, with a crafty face, and a very
+watchful eye and ready foot, lest he should start up; ‘this here coat
+of his must make him uneasy in his [[Sleep|sleep]]. Shall I loosen it for him,
+and make him more comfortable? Ah! I think I ought to do it, poor man. I
+think I will.’
+
+He touched the first button with a very cautious hand, and a step
+backward. But, [[The Sleeper|the sleeper]] remaining in profound unconsciousness, he
+touched the other buttons with a more assured hand, and perhaps the more
+lightly on that account. Softly and slowly, he opened the coat and drew
+it back.
+
+The draggling ends of a bright-red neckerchief were then disclosed, and
+he had even been at the pains of dipping parts of it in some liquid,
+to give it the appearance of having become stained by wear. With a
+much-perplexed face, Riderhood looked from it to [[The Sleeper|the sleeper]], and from
+[[The Sleeper|the sleeper]] to it, and finally crept back to his chair, and there, with
+his hand to his chin, sat long in a brown study, looking at both.

@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 2 (part 2)"
+title: "The Mystery of Edwin Drood — Chapter 2 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_02/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_02/part_03">part 03 ›</a></div>
 </nav>
 
+
+“Sorry to hear from Tope that you have not been [[Well|well]], Jasper.”
+
+“O, it was nothing, nothing!”
+
+“You look a little worn.”
+
+“Do I? O, I don’t think so. What is better, I don’t feel so. Tope has
+made too much of it, I suspect. It’s his trade to make the most of
+everything appertaining to the [[Cathedral]], you know.”
 
 “I may tell the Dean—I call expressly from the Dean—that you are all
 right again?”
@@ -143,12 +153,3 @@ their nephews. By George, I wish it was the case with us!”
 “Because if it was, I’d take the lead with you, Jack, and be as wise as
 Begone, dull Care! that turned a young man gray, and Begone, dull Care!
 that turned an old man to clay.—Halloa, Jack! Don’t drink.”
-
-“Why not?”
-
-“Asks why not, on Pussy’s birthday, and no Happy returns proposed!
-Pussy, Jack, and many of ’em! Happy returns, I mean.”
-
-Laying an affectionate and laughing touch on the boy’s extended hand,
-as if it were at once his giddy head and his light heart, Mr. Jasper
-drinks the toast in [[Silence|silence]].

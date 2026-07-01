@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 45 (part 5)"
+title: "Nicholas Nickleby — Chapter 45 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_45/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_46/part_01">part 01 ›</a></div>
 </nav>
 
+
+This accidental circumstance was the signal for some very decisive
+proceedings. In the midst of a great noise, occasioned by the prayers
+and entreaties of [[Smike]], the cries and exclamations of the women, and
+the vehemence of the men, demonstrations were made of carrying off the
+lost son by violence. Squeers had actually begun to haul him out, when
+Nicholas (who, until then, had been evidently undecided how to act)
+took him by the collar, and shaking him so that such teeth as he had,
+chattered in his head, politely escorted him to the room-door, and
+thrusting him into the passage, shut it upon him.
 
 ‘Now,’ said Nicholas to the other two, ‘have the goodness to follow your
 friend.’

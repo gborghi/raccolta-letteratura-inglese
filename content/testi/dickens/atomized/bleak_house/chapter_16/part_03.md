@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 16 (part 3)"
+title: "Bleak House — Chapter 16 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_16/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_17/part_01">part 01 ›</a></div>
 </nav>
 
+
+But they are not all like the woman who now [[Leaves|leaves]] him and his [[house]]
+behind, between whose plain dress and her refined manner there is
+something exceedingly inconsistent. She should be an upper servant by
+her attire, yet in her air and step, though both are hurried and
+assumed—as far as she can assume in the muddy streets, which she
+treads with an unaccustomed foot—she is a lady. Her face is veiled,
+and still she sufficiently betrays herself to make more than one of
+those who pass her look round sharply.
 
 She never turns her head. Lady or servant, she has a purpose in her
 and can follow it. She never turns her head until she comes to the

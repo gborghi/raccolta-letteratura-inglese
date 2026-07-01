@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 50 (part 2)"
+title: "The Tenant of Wildfell Hall — Chapter 50 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_50/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_50/part_03">part 03 ›</a></div>
 </nav>
 
+
+was [[Well|well]] it did, for, reviewing the matter in my sober judgment, I must
+
+say it would have been highly absurd and improper to have quarrelled
+
+with him on such an occasion. I must confess, too, that I wronged him
 
 in my heart: the [[Truth|truth]] was, he liked me very [[Well|well]], but he was fully
 
@@ -94,7 +100,7 @@ long, but which none could more truly be said to merit than
 
 herself—adding a few words of kind remembrance to my little friend
 
-[[arthur|Arthur]], with a [[Hope|hope]] that he had not forgotten me, and perhaps a few
+[[Arthur]], with a [[Hope|hope]] that he had not forgotten me, and perhaps a few
 
 more in reference to bygone times, to the delightful hours I had passed
 
@@ -187,29 +193,3 @@ Staningley.
 “In ——shire,” was the brief reply; and there was something so cold and
 
 dry in the manner of it, that I was effectually deterred from
-
-requesting a more definite account.
-
-
-
-“When will she return to Grassdale?” was my next question.
-
-
-
-“I don’t know.”
-
-
-
-“Confound it!” I muttered.
-
-
-
-“Why, Markham?” asked my companion, with an air of [[Innocent|innocent]] surprise.
-
-But I did not deign to answer him, save by a look of silent, sullen
-
-contempt, at which he turned away, and contemplated the carpet with a
-
-slight smile, half pensive, half amused; but quickly looking up, he
-
-began to talk of other subjects, trying to draw me into a cheerful and

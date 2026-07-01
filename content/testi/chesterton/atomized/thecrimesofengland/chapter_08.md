@@ -1,5 +1,5 @@
 ---
-title: "[[TheCrimesOfEngland]] — Chapter 8"
+title: "TheCrimesOfEngland — Chapter 8"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/thecrimesofengland-(chesterton)"
@@ -16,11 +16,7 @@ tags:
 
 CHAPTER VIII
 
-
-
 THE WRONG [[Horse|HORSE]]
-
-
 
 Lord Salisbury Again--The Influence of
 

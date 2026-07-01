@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 14 (part 3)"
+title: "The Tenant of Wildfell Hall — Chapter 14 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,26 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_14/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_15/part_01">part 01 ›</a></div>
 </nav>
 
+
+hear that he had frightfully fractured his skull and broken a leg; for,
+
+assured of the falsehood of this, I trusted the rest of the story was
+
+equally exaggerated; and when I heard my mother and sister so feelingly
+
+deploring his condition, I had considerable difficulty in preventing
+
+myself from telling them the real extent of the injuries, as far as I
+
+knew them.
+
+
+
+“You must go and see him to-morrow,” said my mother.
+
+
+
+“Or to-day,” suggested [[Rose]]: “there’s plenty of [[Time|time]]; and you can have
 
 the pony, as your [[Horse|horse]] is tired. Won’t you, Gilbert—as soon as you’ve
 

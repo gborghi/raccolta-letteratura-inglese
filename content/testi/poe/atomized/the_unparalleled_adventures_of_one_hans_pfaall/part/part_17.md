@@ -1,5 +1,5 @@
 ---
-title: "[[The Unparalleled Adventures of one Hans Pfaall]] (part 17)"
+title: "The Unparalleled Adventures of one Hans Pfaall (part 17)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-unparalleled-adventures-of-one-hans-pfaall-(poe)"
@@ -13,6 +13,94 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/part/part_16">‹ part 16</a><a class="ex-next" href="/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/part/part_18">part 18 ›</a></div>
 </nav>
 
+
+      Gulf.
+
+
+
+      “April 10th. I was suddenly aroused from slumber, about five
+
+      o’[[Clock|clock]] this morning, by a loud, crackling, and terrific sound,
+
+      for which I could in no manner account. It was of very brief
+
+      duration, but, while it lasted resembled nothing in the world of
+
+      which I had any previous experience. It is needless to say that I
+
+      became excessively alarmed, having, in the first instance,
+
+      attributed the noise to the bursting of the balloon. I examined
+
+      all my apparatus, however, with great attention, and could
+
+      discover nothing out of order. Spent a great part of the day in
+
+      meditating upon an occurrence so extraordinary, but could find no
+
+      means whatever of accounting for it. Went to bed dissatisfied,
+
+      and in a state of great anxiety and agitation.
+
+
+
+      “April 11th. Found a startling diminution in the apparent
+
+      diameter of the earth, and a considerable increase, now
+
+      observable for the first [[Time|time]], in that of the [[Moon|moon]] itself, which
+
+      wanted only a few days of being full. It now required long and
+
+      excessive labor to condense within the chamber sufficient
+
+      atmospheric air for the sustenance of life.
+
+
+
+      “April 12th. A singular alteration took place in regard to the
+
+      direction of the balloon, and although fully anticipated,
+
+      afforded me the most unequivocal delight. Having reached, in its
+
+      former course, about the twentieth parallel of southern latitude,
+
+      it turned off suddenly, at an acute angle, to the eastward, and
+
+      thus proceeded throughout the day, keeping nearly, if not
+
+      altogether, in the exact plane of the lunar ellipse. What was
+
+      worthy of remark, a very perceptible vacillation in the car was a
+
+      consequence of this change of route—a vacillation which
+
+      prevailed, in a more or less degree, for a period of many hours.
+
+
+
+      “April 13th. Was again very much alarmed by a repetition of the
+
+      loud, crackling noise which terrified me on the tenth. Thought
+
+      long upon the subject, but was unable to form any satisfactory
+
+      conclusion. Great decrease in the earth’s apparent diameter,
+
+      which now subtended from the balloon an angle of very little more
+
+      than twenty-five degrees. The [[Moon|moon]] could not be seen at all,
+
+      being nearly in my zenith. I still continued in the plane of the
+
+      ellipse, but made little progress to the eastward.
+
+
+
+      “April 14th. Extremely rapid decrease in the diameter of the
+
+      earth. To-day I became strongly impressed with the idea, that the
 
       balloon was now actually running up the line of apsides to the
 
@@ -115,83 +203,3 @@ tags:
       beneath me so suddenly and wonderfully augmented in volume, as to
 
       subtend no less than thirty-nine degrees in apparent angular
-
-      diameter! I was thunderstruck! No words can give any adequate
-
-      idea of the extreme, the absolute horror and astonishment, with
-
-      which I was seized possessed, and altogether overwhelmed. My
-
-      knees tottered beneath me—my teeth chattered—my hair started up
-
-      on end. ‘The balloon, then, had actually burst!’ These were the
-
-      first tumultuous ideas that hurried through my mind: ‘The balloon
-
-      had positively burst!—I was falling—falling with the most
-
-      impetuous, the most unparalleled velocity! To judge by the
-
-      immense distance already so quickly passed over, it could not be
-
-      more than ten minutes, at the farthest, before I should meet the
-
-      surface of the earth, and be hurled into annihilation!’ But at
-
-      length reflection came to my relief. I paused; I considered; and
-
-      I began to [[Doubt|doubt]]. The matter was impossible. I could not in any
-
-      reason have so rapidly come down. Besides, although I was
-
-      evidently approaching the surface below me, it was with a [[Speed|speed]]
-
-      by no means commensurate with the velocity I had at first so
-
-      horribly conceived. This consideration served to calm the
-
-      perturbation of my mind, and I finally succeeded in regarding the
-
-      phenomenon in its proper point of view. In fact, amazement must
-
-      have fairly deprived me of my senses, when I could not see the
-
-      vast difference, in appearance, between the surface below me, and
-
-      the surface of my mother earth. The latter was indeed over my
-
-      head, and completely hidden by the balloon, while the [[Moon|moon]]—the
-
-      [[Moon|moon]] itself in all its glory—lay beneath me, and at my feet.
-
-
-
-      “The stupor and surprise produced in my mind by this
-
-      extraordinary change in the posture of affairs was perhaps, after
-
-      all, that part of the adventure least susceptible of explanation.
-
-      For the bouleversement in itself was not only natural and
-
-      inevitable, but had been long actually anticipated as a
-
-      circumstance to be expected whenever I should arrive at that
-
-      exact point of my voyage where the attraction of the planet
-
-      should be superseded by the attraction of the satellite—or, more
-
-      precisely, where the gravitation of the balloon toward the earth
-
-      should be less powerful than its gravitation toward the [[Moon|moon]]. To
-
-      be sure I arose from a sound slumber, with all my senses in
-
-      confusion, to the contemplation of a very startling phenomenon,
-
-      and one which, although expected, was not expected at the moment.
-
-      The revolution itself must, of course, have taken place in an
-
-      easy and gradual manner, and it is by no means clear that, had I

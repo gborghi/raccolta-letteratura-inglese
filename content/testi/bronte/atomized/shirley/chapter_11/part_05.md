@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 11 (part 5)"
+title: "Shirley — Chapter 11 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,40 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_11/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_11/part_06">part 06 ›</a></div>
 </nav>
 
+
+himself somewhat deaf. Whatever she said he affected not to hear
+
+distinctly, and she was obliged to go over each elaborately-constructed
+
+nothing twice. The effort soon became too much for her. She was just
+
+rising in a perplexed flutter, nervously murmuring that she knew not
+
+what detained Miss Keeldar, that she would go and look for her, when
+
+Miss Keeldar saved her the trouble by appearing. It was to be presumed
+
+at least that she who now came in through a glass door from the [[Garden|garden]]
+
+owned that name.
+
+
+
+There is real grace in ease of manner, and so old Helstone felt when an
+
+erect, slight girl walked up to him, retaining with her left hand her
+
+little silk apron full of [[Flowers|flowers]], and, giving him her right hand, said
+
+pleasantly, "I knew you would come to see me, though you _do_ think Mr.
+
+Yorke has made me a Jacobin. Good-morning."
+
+
+
+"But we'll not have you a Jacobin," returned he. "No, Miss [[Shirley]]; they
+
+shall not steal the flower of my parish from me. Now that you are
 
 amongst us, you shall be my pupil in politics and religion; I'll teach
 
@@ -229,61 +263,3 @@ She had selected a little bouquet of one brilliant and two or three
 delicate [[Flowers|flowers]], relieved by a spray of dark verdure. She tied it with
 
 silk from her work-box, and placed it on Caroline's lap; and then she
-
-put her hands behind her, and stood bending slightly towards her guest,
-
-still regarding her, in the attitude and with something of the aspect of
-
-a [[Grave|grave]] but gallant little cavalier. This temporary expression of face
-
-was aided by the style in which she wore her hair, parted on one temple,
-
-and brushed in a glossy sweep above the forehead, whence it fell in
-
-curls that looked natural, so free were their wavy undulations.
-
-
-
-"Are you tired with your walk?" she inquired.
-
-
-
-"No--not in the least. It is but a short distance--but a mile."
-
-
-
-"You look pale.--Is she always so pale?" she asked, turning to the
-
-rector.
-
-
-
-"She used to be as rosy as the reddest of your [[Flowers|flowers]]."
-
-
-
-"Why is she altered? What has made her pale? Has she been ill?"
-
-
-
-"She tells me she wants a change."
-
-
-
-"She ought to have one. You ought to give her one. You should send her
-
-to the sea-coast."
-
-
-
-"I will, ere [[Summer|summer]] is over. Meantime, I intend her to make acquaintance
-
-with you, if you have no objection."
-
-
-
-"I am sure Miss Keeldar will have no objection," here observed Mrs.
-
-Pryor. "I think I may take it upon me to say that Miss Helstone's
-
-frequent presence at Fieldhead will be esteemed a favour."

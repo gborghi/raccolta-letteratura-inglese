@@ -1,5 +1,5 @@
 ---
-title: "[[longbow2]] — Chapter 8 (part 2)"
+title: "longbow2 — Chapter 8 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -14,26 +14,26 @@ tags:
 </nav>
 
 
-"The recent [[success]] of the agrarian protest," began Hood cheerfully
-as his wife [[Rose|rose]] swiftly to receive two more visitors.  These were
-Professor Green and Commander Bellew Blair; for a queer [[Friendship|friendship]]
+"The recent success of the agrarian protest," began Hood cheerfully
+as his wife rose swiftly to receive two more visitors.  These were
+Professor Green and Commander Bellew Blair; for a queer friendship
 had long linked together the most practical and the most unpractical
-of the brothers of the Long Bow.  The [[Friendship|friendship]], as Pierce remarked,
+of the brothers of the Long Bow.  The friendship, as Pierce remarked,
 was firmly rooted in the square root of minus infinity.
 
-"How beautiful your [[Garden|garden]] is looking," said Blair to his hostess. 
+"How beautiful your garden is looking," said Blair to his hostess. 
 "One so seldom sees flower-beds like that now; but I shall always
 think the old gardeners were right."
 
 "Most things are old-fashioned here, I'm afraid," replied Elizabeth,
 "but I always like them like that.  And how are the children?"
 
-"The recent [[success]] of the agrarian protest," remarked her husband
+"The recent success of the agrarian protest," remarked her husband
 in a clear voice, "is doubtless--"
 
 "Really," she said, laughing, "you are too ridiculous for anything. 
-Why in the world should you want to read out the [[history]] of the war
-to the people who were in it, and know quite [[Well|well]] already what
+Why in the world should you want to read out the history of the war
+to the people who were in it, and know quite well already what
 really happened?"
 
 "I beg your pardon," said Colonel Crane.  "Very improper to
@@ -44,7 +44,7 @@ of what never happened."
 
 "Why, then you'd better go on reading, Hood," said Hilary Pierce. 
 "The Colonel wants to know whether he was killed in battle;
-or whether there was any [[Truth|truth]] in that story that he was hanged
+or whether there was any truth in that story that he was hanged
 as a spy on the very tree he had climbed when running away as
 a deserter."
 
@@ -56,7 +56,7 @@ as a whole."
 
 "Perhaps," began Blair, "we had better--"
 
-"The recent [[success]] of the agrarian protest," remarked Hood
+"The recent success of the agrarian protest," remarked Hood
 in authoritative tones, "is doubtless to be attributed largely
 to the economic advantage belonging to an agrarian population. 
 It can feed the town or refuse to feed the town; and this question
@@ -66,7 +66,7 @@ Paddington Station in the first days of the rebellion.  Men who
 had grown used to seeing on innumerable mornings the innumerable
 ranks and rows of great milk-cans, looking leaden in a grey
 and greasy light, found themselves faced with a blank, in which
-those neglected things shone in the [[Memory|memory]] like stolen silver. 
+those neglected things shone in the memory like stolen silver. 
 It was true, as Sir Horace Hunter eagerly pointed out when he was
 put in command of the highly hygienic problem of the milk supply,
 that there would be no difficulty about manufacturing the metal cans,
@@ -76,7 +76,7 @@ been of the opinion, the learned doctor explained, that the shape
 of the cans, especially the small cans left outside poor houses,
 left much to be desired, and the whole process of standing these
 small objects about in the basements of private houses was open
-to [[Grave|grave]] objection in the matter of waste of space.  The public,
+to grave objection in the matter of waste of space.  The public,
 however, showed an indifference to this new issue and a disposition
 to go back on the old demand for milk; in which matter, they said,
 there was an unfair advantage for the man who possessed a cow over

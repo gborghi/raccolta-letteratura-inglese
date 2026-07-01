@@ -1,5 +1,5 @@
 ---
-title: "[[Henry VI]] Part One — Act III, Scene 7 — monologue ([[King|KING]] HENRY) [6]"
+title: "Henry VI Part One — Act III, Scene 7 — monologue (KING HENRY) [6]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/henry-vi-part-one-(shakespeare)"

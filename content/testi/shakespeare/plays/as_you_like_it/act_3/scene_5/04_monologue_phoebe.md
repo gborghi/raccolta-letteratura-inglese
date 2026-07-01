@@ -1,5 +1,5 @@
 ---
-title: "As You Like It — Act III, Scene 5 — monologue ([[Phoebe|PHOEBE]]) [4]"
+title: "As You Like It — Act III, Scene 5 — monologue (PHOEBE) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/as-you-like-it-(shakespeare)"

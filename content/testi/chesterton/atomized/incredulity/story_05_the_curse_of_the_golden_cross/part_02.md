@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity]] — The Curse of the Golden [[Cross]] (part 2)"
+title: "Incredulity — The Curse of the Golden Cross (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-(chesterton)"
@@ -102,7 +102,7 @@ but rather like a sort of rude or even savage zoology.
 
 `In order to explain very briefly why I thought this find important,
 I must tell you the point of the excavation.  For one thing, it had
-something of the [[Nature|nature]] of an excavation of an excavation.  We were on
+something of the nature of an excavation of an excavation.  We were on
 the track not only of antiquities, but of the antiquarians of antiquity.
 We had reason to believe, or some of us thought we had reason to believe,
 that these underground passages, mostly of the Minoan period,
@@ -121,10 +121,10 @@ or other rioting in the caverns in orgies that had to be hidden
 from the face of the sun.  I belong to the group which believed
 that these caverns had been used in the same way as the catacombs.
 That is, we believed that, during some of the persecutions
-which spread like a [[Fire|fire]] over the whole Empire, the Christians had
+which spread like a fire over the whole Empire, the Christians had
 concealed themselves in these ancient pagan labyrinths of stone.
 It was therefore with a thrill as sharp I as a thunderclap that I found
-and picked up the fallen golden [[Cross|cross]] and saw the design upon it;
+and picked up the fallen golden cross and saw the design upon it;
 and it was with still more of a shock of felicity that, on turning
 to make my way once more outwards and upwards into the light of day,
 I looked up at the walls of bare rock that extended endlessly

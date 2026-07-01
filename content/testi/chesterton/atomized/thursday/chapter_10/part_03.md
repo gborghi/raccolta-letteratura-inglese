@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 10 (part 3)"
+title: "thursday — Chapter 10 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_10/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_10/part_04">part 04 ›</a></div>
 </nav>
 
+
+Then the Colonel took out another pair of blades, and taking one himself
+and giving another to Dr. Bull, proceeded to place the men.
+
+Both combatants had thrown off their coats and waistcoats,
+and stood [[Sword|sword]] in hand.  The seconds stood on each side
+of the line of fight with drawn swords also, but still sombre
+in their dark frock-coats and hats.  The principals saluted.
+The Colonel said quietly, "Engage!" and the two blades
+touched and tingled.
 
 When the jar of the joined iron ran up Syme's arm,
 all the fantastic fears that have been the subject of this
@@ -113,11 +123,3 @@ and kindly things to [[Cross|cross]] swords with the enemy of all creation.
 I can do the one thing which [[Satan]] himself cannot do--I can die,"
 and as the word went through his head, he heard a faint and far-off hoot,
 which would soon be the roar of the [[Paris]] train.
-
-He fell to fighting again with a [[Supernatural|supernatural]] levity, like a Mohammedan
-panting for Paradise.  As the train came nearer and nearer he fancied he could
-see people putting up the floral arches in [[Paris]]; he joined in the growing
-noise and the glory of the great Republic whose gate he was guarding
-against Hell.  His thoughts [[Rose|rose]] higher and higher with the rising roar
-of the train, which ended, as if proudly, in a long and piercing whistle.
-The train stopped.

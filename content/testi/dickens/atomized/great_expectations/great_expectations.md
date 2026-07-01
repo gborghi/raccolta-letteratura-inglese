@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]]"
+title: "Great Expectations"
 author: "Dickens"
 unitType: work
 parentWork: "works/great-expectations-(dickens)"
@@ -1844,7 +1844,7 @@ a O, Pip, and a J-O, Joe.”
 
 I had never heard Joe read aloud to any greater extent than this
 monosyllable, and I had observed at church last [[Sunday]], when I
-accidentally held our [[Prayer]]-Book upside down, that it seemed to suit
+accidentally held our [[prayer|Prayer]]-Book upside down, that it seemed to suit
 his convenience quite as [[Well|well]] as if it had been all right. Wishing to
 embrace the present occasion of finding out whether in teaching Joe, I
 should have to begin quite at the beginning, I said, “Ah! But read the
@@ -2377,7 +2377,7 @@ She had not quite finished dressing, for she had but one shoe on,—the
 other was on the table near her hand,—her veil was but half arranged,
 her watch and chain were not put on, and some lace for her bosom lay
 with those trinkets, and with her handkerchief, and gloves, and some
-[[Flowers|flowers]], and a [[Prayer]]-Book all confusedly heaped about the
+[[Flowers|flowers]], and a [[prayer|Prayer]]-Book all confusedly heaped about the
 looking-glass.
 
 It was not in the first few moments that I saw all these things, though
@@ -5673,7 +5673,7 @@ advisers instructed him altogether to reserve his defence?”
 “I read that just now,” Mr. Wopsle pleaded.
 
 “Never mind what you read just now, sir; I don’t ask you what you read
-just now. You may read the Lord’s [[Prayer]] backwards, if you like,—and,
+just now. You may read the Lord’s [[prayer|Prayer]] backwards, if you like,—and,
 perhaps, have done it before to-day. Turn to the paper. No, no, no my
 friend; not to the top of the column; you know better than that; to the
 [[Bottom|bottom]], to the [[Bottom|bottom]].” (We all began to think Mr. Wopsle full of
@@ -11500,7 +11500,7 @@ dinner; that he seemed to descry Capital in the distance, rather
 clearly, after dinner; that he all but realised Capital towards
 midnight; and that at about two o’[[Clock|clock]] in the morning, he became so
 deeply despondent again as to talk of buying a rifle and going to
-[[America]], with a general purpose of compelling buffaloes to make his
+[[america|America]], with a general purpose of compelling buffaloes to make his
 fortune.
 
 I was usually at Hammersmith about half the week, and when I was at
@@ -18050,7 +18050,7 @@ Compeyson, Magwitch, and the gallows!”
 
 He flared the candle at me again, smoking my face and hair, and for an
 instant blinding me, and turned his powerful back as he replaced the
-light on the table. I had thought a [[Prayer|prayer]], and had been with Joe and
+light on the table. I had thought a [[prayer]], and had been with Joe and
 [[Biddy]] and Herbert, before he turned towards me again.
 
 There was a clear space of a few feet between the table and the
@@ -18135,7 +18135,7 @@ now—went before us with a lantern, which was the light I had seen come
 in at the door. But, the [[Moon|moon]] was a good two hours higher than when I
 had last seen the sky, and the [[Night|night]], though rainy, was much lighter.
 The white vapour of the kiln was passing from us as we went by, and as
-I had thought a [[Prayer|prayer]] before, I thought a thanksgiving now.
+I had thought a [[prayer]] before, I thought a thanksgiving now.
 
 Entreating Herbert to tell me how he had come to my rescue,—which at
 first he had flatly refused to do, but had insisted on my remaining

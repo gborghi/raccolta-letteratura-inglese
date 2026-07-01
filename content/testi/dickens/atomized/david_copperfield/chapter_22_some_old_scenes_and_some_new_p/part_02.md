@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE (part 2)"
+title: "David Copperfield — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_22_some_old_scenes_and_some_new_p/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_22_some_old_scenes_and_some_new_p/part_03">part 03 ›</a></div>
 </nav>
 
+
+He gave such a start when I put my hand upon his shoulder, that he made
+me start too.
 
 ‘You come upon me,’ he said, almost angrily, ‘like a reproachful [[Ghost|ghost]]!’
 
@@ -140,12 +143,3 @@ the art of binding myself to any of the wheels on which the Ixions of
 these days are turning round and round. I missed it somehow in a bad
 apprenticeship, and now don’t care about it.---You know I have bought a
 boat down here?’
-
-‘What an extraordinary fellow you are, Steerforth!’ I exclaimed,
-stopping--for this was the first I had heard of it. ‘When you may never
-care to come near the place again!’
-
-‘I don’t know that,’ he returned. ‘I have taken a fancy to the place. At
-all events,’ walking me briskly on, ‘I have bought a boat that was for
-sale--a clipper, Mr. Peggotty says; and so she is--and Mr. Peggotty will
-be master of her in my absence.’

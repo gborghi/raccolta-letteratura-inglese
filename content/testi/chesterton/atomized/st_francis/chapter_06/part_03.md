@@ -14,6 +14,49 @@ tags:
 </nav>
 
 
+The phrase about his brotherhood with the sun and [[Moon|moon]],
+and with the [[Water|water]] and the [[Fire|fire]], occurs of course in his famous poem
+called the Canticle of the Creatures or the Canticle of the Sun.
+He sang it wandering in the meadows in the sunnier season
+of his own career, when he was pouring upwards into the sky all
+the passions of a poet.  It is a supremely characteristic work,
+and much of St. Francis could be reconstructed from that work [[Alone|alone]].
+Though in some ways the thing is as simple and straightforward
+as a ballad, there is a delicate instinct of differentiation in it.
+Notice, for instance, the sense of sex in inanimate things,
+which goes far beyond the arbitrary genders of a grammar.
+It was not for nothing that he called [[Fire|fire]] his brother, fierce and gay
+and strong, and [[Water|water]] his sister, pure and clear and inviolate.
+Remember that St. Francis was neither encumbered nor assisted by all
+that Greek and Roman polytheism turned into [[Allegory|allegory]], which has been
+to European poetry often an inspiration, too often a convention.
+Whether he gained or lost by his contempt of learning, it never
+occurred to him to connect Neptune and the nymphs with the [[Water|water]]
+or Vulcan and the Cyclops with the flame.  This point exactly
+illustrates what has already been suggested; that, so far from being
+a revival of paganism, the Franciscan renascence was a sort of fresh
+start and first awakening after a forgetfulness of paganism.
+Certainly it is responsible for a certain freshness in the thing itself.
+Anyhow St. Francis was, as it were, the founder of a new folk-lore;
+but he could distinguish his mermaids from his mermen and his witches
+from his wizards.  In short, he had to make his own mythology;
+but he knew at a glance the goddesses from the gods.
+This fanciful instinct for the sexes is not the only example of an
+imaginative instinct of the kind.  There is just the same quaint
+felicity in the fact that he singles out the sun with a slightly
+more courtly title besides that of brother; a phrase that one [[King|king]]
+might use of another, corresponding to "Monsieur notre frere."
+It is like a faint half ironic [[Shadow|shadow]] of the shining primacy
+that it had held in the pagan heavens.  A bishop is said to have
+complained of a Nonconformist saying Paul instead of Saint Paul;
+and to have added, "He might at least have called him Mr. Paul."
+So St. Francis is free of all obligation to cry out in praise
+or terror on the Lord God [[Apollo]], but in his new nursery heavens,
+he salutes him as Mr. Sun.  Those are the things in which he has
+a sort of inspired infancy, only to be paralleled in nursery tales.
+Something of the same hazy but healthy awe makes the story of Br'er Fox
+and Br'er Rabbit refer respectfully to Mr. Man.
+
 This poem, full of the mirth of youth and the memories of [[Childhood|childhood]],
 runs through his whole life like a refrain, and scraps of it turn
 up continually in the ordinary habit of his talk.  Perhaps the last
@@ -83,35 +126,3 @@ of God; and when that shining thing returned to him in the shape
 of an instrument of torture, he hailed it from afar like an old friend,
 calling it by the nickname which might most truly be called
 its Christian name.
-
-That is only one incident out of a life of such incidents;
-and I have selected it partly because it shows what is meant
-here by that [[Shadow|shadow]] of gesture there is in all his words,
-the dramatic gesture of the south; and partly because its
-special reference to courtesy covers the next fact to be noted.
-The popular instinct of St. Francis, and his perpetual preoccupation
-with the idea of brotherhood, will be entirely misunderstood if it
-is understood in the sense of what is often called camaraderie;
-the backslapping sort of brotherhood.  Frequently from the enemies
-and too frequently from the friends of the democratic ideal,
-there has come a notion that this note is necessary to that ideal.
-It is assumed that equality means all men being equally uncivil,
-whereas it obviously ought to mean all men being equally civil.
-Such people have forgotten the very meaning and derivation of the
-word civility, if they do not see that to be uncivil is to be uncivic.
-But anyhow that was not the equality which Francis of Assisi encouraged;
-but an equality of the opposite kind; it was a camaraderie actually
-founded on courtesy.
-
-Even in that fairy borderland of his mere fancies about [[Flowers|flowers]]
-and [[Animals|animals]] and even inanimate things, he retained this
-permanent posture of a sort of deference.  A friend of mine said
-that somebody was the sort of man who apologises to the cat.
-St. Francis really would have apologised to the cat.
-When he was about to preach in a wood full of the chatter of [[Birds|birds]],
-he said, with a gentle gesture, "Little sisters, if you have
-now had your say, it is [[Time|time]] that I also should be heard."
-And all the [[Birds|birds]] were silent; as I for one can very easily believe.
-In deference to my special design of making matters intelligible
-to average modernity, I have treated separately the subject of
-the miraculous powers that St. Francis most certainly possessed.

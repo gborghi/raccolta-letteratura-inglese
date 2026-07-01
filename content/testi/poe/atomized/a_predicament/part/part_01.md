@@ -1,5 +1,5 @@
 ---
-title: "[[A Predicament]] (part 1)"
+title: "A Predicament (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/a-predicament-(poe)"
@@ -197,7 +197,3 @@ What chance, good lady, hath bereft you thus?—COMUS.
       designedly, removed. I paused for breath; and, in the meantime,
 
       an accident occurred of too momentous a [[Nature|nature]] in a moral, and
-
-      also in a metaphysical point of view, to be passed over without
-
-      notice. It appeared to me—indeed I was quite confident of the

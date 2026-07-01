@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 6 (part 2)"
+title: "Dombey and Son — Chapter 34 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,130 +14,125 @@ tags:
 </nav>
 
 
-To this unhallowed spot, the very name of which had hitherto been
-carefully concealed from Mr Dombey by his sister, was little Paul now
-borne by Fate and Richards
+“Why, mother!” said Alice, shaking her ragged skirts to detach the old
+woman from them: “there are two sides to that. There have been years
+for me as [[Well|well]] as you, and there has been wretchedness for me as [[Well|well]]
+as you. Get up, get up!”
 
-“That’s my [[house]], Susan,” said Polly, pointing it out.
+Her mother [[Rose|rose]], and cried, and wrung her hands, and stood at a little
+distance gazing on her. Then she took the candle again, and going round
+her, surveyed her from head to foot, making a low moaning all the [[Time|time]].
+Then she put the candle down, resumed her chair, and beating her hands
+together to a kind of weary tune, and [[rolling]] herself from side to
+side, continued moaning and wailing to herself.
 
-“Is it, indeed, Mrs Richards?” said Susan, condescendingly.
+Alice got up, took off her wet cloak, and laid it aside. That done, she
+sat down as before, and with her arms folded, and her eyes gazing at
+the [[Fire|fire]], remained silently listening with a contemptuous face to her
+old mother’s inarticulate complainings.
 
-“And there’s my sister Jemima at the door, I do declare” cried Polly,
-“with my own sweet precious baby in her arms!”
+“Did you expect to see me return as youthful as I went away, mother?”
+she said at length, turning her eyes upon the old woman. “Did you think
+a foreign life, like mine, was good for good looks? One would believe
+so, to hear you!”
 
-The sight added such an extensive pair of wings to Polly’s impatience,
-that she set off down the Gardens at a run, and bouncing on Jemima,
-changed babies with her in a twinkling; to the unutterable astonishment
-of that young [[Damsel|damsel]], on whom the heir of the Dombeys seemed to have
-fallen from the clouds.
+“It ain’t that!” cried the mother. “She knows it!”
 
-“Why, Polly!” cried Jemima. “You! what a turn you have given me! who’d
-have thought it! come along in Polly! How [[Well|well]] you do look to be sure!
-The children will go half wild to see you Polly, that they will.”
+“What is it then?” returned the daughter. “It had best be something
+that don’t last, mother, or my way out is easier than my way in.”
 
-That they did, if one might judge from the noise they made, and the way
-in which they dashed at Polly and dragged her to a low chair in the
-chimney corner, where her own honest apple face became immediately the
-centre of a bunch of smaller pippins, all laying their rosy cheeks
-close to it, and all evidently the growth of the same tree. As to
-Polly, she was full as noisy and vehement as the children; and it was
-not until she was quite out of breath, and her hair was hanging all
-about her flushed face, and her new christening attire was very much
-dishevelled, that any pause took place in the confusion. Even then, the
-smallest Toodle but one remained in her lap, holding on tight with both
-arms round her neck; while the smallest Toodle but two mounted on the
-back of the chair, and made desperate efforts, with one leg in the air,
-to kiss her round the corner.
+“Hear that!” exclaimed the mother. “After all these years she threatens
+to [[Desert|desert]] me in the moment of her coming back again!”
 
-“Look! there’s a pretty little lady come to see you,” said Polly; “and
-see how quiet she is! what a beautiful little lady, ain’t she?”
+“I tell you, mother, for the second [[Time|time]], there have been years for me
+as [[Well|well]] as you,” said Alice. “Come back harder? Of course I have come
+back harder. What else did you expect?”
 
-This reference to Florence, who had been standing by the door not
-unobservant of what passed, directed the attention of the younger
-branches towards her; and had likewise the happy effect of leading to
-the formal recognition of Miss Nipper, who was not quite free from a
-misgiving that she had been already slighted.
+“Harder to me! To her own dear mother!” cried the old woman
 
-“Oh do come in and sit down a minute, Susan, please,” said Polly. “This
-is my sister Jemima, this is. Jemima, I don’t know what I should ever
-do with myself, if it wasn’t for [[Susan Nipper]]; I shouldn’t be here now
-but for her.”
+“I don’t know who began to harden me, if my own dear mother didn’t,”
+she returned, sitting with her folded arms, and knitted brows, and
+compressed lips as if she were bent on excluding, by force, every
+softer feeling from her breast. “Listen, mother, to a word or two. If
+we understand each other now, we shall not fall out any more, perhaps.
+I went away a girl, and have come back a woman. I went away undutiful
+enough, and have come back no better, you may swear. But have you been
+very dutiful to me?”
 
-“Oh do sit down, Miss Nipper, if you please,” quoth Jemima.
+“I!” cried the old woman. “To my gal! A mother dutiful to her own
+[[Child|child]]!”
 
-Susan took the extreme corner of a chair, with a stately and
-ceremonious aspect.
+“It sounds unnatural, don’t it?” returned the daughter, looking coldly
+on her with her stern, regardless, hardy, beautiful face; “but I have
+thought of it sometimes, in the course of my lone years, till I have
+got used to it. I have heard some talk about duty first and last; but
+it has always been of my duty to other people. I have wondered now and
+then—to pass away the [[Time|time]]—whether no one ever owed any duty to me.”
 
-“I never was so glad to see anybody in all my life; now really I never
-was, Miss Nipper,” said Jemima.
+Her mother sat mowing, and mumbling, and shaking her head, but whether
+angrily or remorsefully, or in denial, or only in her physical
+infirmity, did not appear.
 
-Susan relaxing, took a little more of the chair, and smiled graciously.
+“There was a [[Child|child]] called Alice Marwood,” said the daughter, with a
+laugh, and looking down at herself in terrible derision of herself,
+“born, among [[Poverty|poverty]] and neglect, and nursed in it. Nobody taught her,
+nobody stepped forward to help her, nobody cared for her.”
 
-“Do untie your bonnet-strings, and make yourself at [[Home|home]], Miss Nipper,
-please,” entreated Jemima. “I am afraid it’s a poorer place than you’re
-used to; but you’ll make allowances, I’m sure.”
+“Nobody!” echoed the mother, pointing to herself, and striking her
+breast.
 
-The black-eyed was so softened by this deferential behaviour, that she
-caught up little Miss Toodle who was running past, and took her to
-Banbury [[Cross]] immediately.
+“The only care she knew,” returned the daughter, “was to be beaten, and
+stinted, and abused sometimes; and she might have done better without
+that. She lived in homes like this, and in the streets, with a crowd of
+little wretches like herself; and yet she brought good looks out of
+this [[Childhood|childhood]]. So much the worse for her. She had better have been
+hunted and worried to [[Death|death]] for ugliness.”
 
-“But where’s my pretty boy?” said Polly. “My poor fellow? I came all
-this way to see him in his new clothes.”
+“Go on! go on!” exclaimed the mother.
 
-“Ah what a pity!” cried Jemima. “He’ll break his heart, when he hears
-his mother has been here. He’s at school, Polly.”
+“I am going on,” returned the daughter. “There was a girl called Alice
+Marwood. She was handsome. She was taught too late, and taught all
+wrong. She was too [[Well|well]] cared for, too [[Well|well]] trained, too [[Well|well]] helped
+on, too much looked after. You were very fond of her—you were better
+off then. What came to that girl comes to thousands every year. It was
+only ruin, and she was born to it.”
 
-“Gone already!”
+“After all these years!” whined the old woman. “My gal begins with
+this.”
 
-“Yes. He went for the first [[Time|time]] yesterday, for [[Fear|fear]] he should lose any
-learning. But it’s half-holiday, Polly: if you could only stop till he
-comes [[Home|home]]—you and Miss Nipper, leastways,” said Jemima, mindful in
-good [[Time|time]] of the dignity of the black-eyed.
+“She’ll soon have ended,” said the daughter. “There was a criminal
+called Alice Marwood—a girl still, but deserted and an outcast. And she
+was tried, and she was sentenced. And lord, how the gentlemen in the
+[[Court]] talked about it! and how [[Grave|grave]] the judge was on her duty, and on
+her having perverted the gifts of [[Nature|nature]]—as if he didn’t know better
+than anybody there, that they had been made curses to her!—and how he
+preached about the strong arm of the Law—so very strong to save her,
+when she was an [[Innocent|innocent]] and helpless little wretch!—and how solemn and
+religious it all was! I have thought of that, many times since, to be
+sure!”
 
-“And how does he look, Jemima, bless him!” faltered Polly.
+She folded her arms tightly on her breast, and laughed in a tone that
+made the howl of the old woman musical.
 
-“[[Well]], really he don’t look so bad as you’d suppose,” returned Jemima.
+“So Alice Marwood was transported, mother,” she pursued, “and was sent
+to learn her duty, where there was twenty times less duty, and more
+wickedness, and wrong, and infamy, than here. And Alice Marwood is come
+back a woman. Such a woman as she ought to be, after all this. In good
+[[Time|time]], there will be more solemnity, and more fine talk, and more strong
+arm, most likely, and there will be an end of her; but the gentlemen
+needn’t be afraid of being thrown out of work. There’s crowds of little
+wretches, boy and girl, growing up in any of the streets they live in,
+that’ll keep them to it till they’ve made their fortunes.”
 
-“Ah!” said Polly, with emotion, “I knew his legs must be too short.”
+The old woman leaned her elbows on the table, and resting her face upon
+her two hands, made a show of being in great distress—or really was,
+perhaps.
 
-“His legs is short,” returned Jemima; “especially behind; but they’ll
-get longer, Polly, every day.”
-
-It was a slow, prospective kind of consolation; but the cheerfulness
-and good [[Nature|nature]] with which it was administered, gave it a value it did
-not intrinsically possess. After a moment’s [[Silence|silence]], Polly asked, in a
-more sprightly manner:
-
-“And where’s Father, Jemima dear?”—for by that patriarchal appellation,
-Mr Toodle was generally known in the family.
-
-“There again!” said Jemima. “What a pity! Father took his dinner with
-him this morning, and isn’t coming [[Home|home]] till [[Night|night]]. But he’s always
-talking of you, Polly, and telling the children about you; and is the
-peaceablest, patientest, best-temperedest [[Soul|soul]] in the world, as he
-always was and will be!”
-
-“Thankee, Jemima,” cried the simple Polly; delighted by the speech, and
-disappointed by the absence.
-
-“Oh you needn’t thank me, Polly,” said her sister, giving her a
-sounding kiss upon the cheek, and then dancing little Paul cheerfully.
-“I say the same of you sometimes, and think it too.”
-
-In spite of the [[Double|double]] disappointment, it was impossible to regard in
-the light of a failure a visit which was greeted with such a reception;
-so the sisters talked hopefully about family matters, and about Biler,
-and about all his brothers and sisters: while the black-eyed, having
-performed several journeys to Banbury [[Cross]] and back, took sharp note
-of the furniture, the Dutch [[Clock|clock]], the cupboard, the [[Castle|castle]] on the
-mantel-piece with red and green windows in it, susceptible of
-illumination by a candle-end within; and the pair of small black velvet
-kittens, each with a lady’s reticule in its mouth; regarded by the
-Staggs’s Gardeners as prodigies of imitative art. The conversation soon
-becoming general lest the black-eyed should go off at score and turn
-sarcastic, that young lady related to Jemima a summary of everything
-she knew concerning Mr Dombey, his prospects, family, pursuits, and
-character. Also an exact inventory of her personal wardrobe, and some
-account of her principal relations and friends. Having relieved her
-mind of these disclosures, she partook of shrimps and porter, and
-evinced a disposition to swear eternal [[Friendship|friendship]].
+“There! I have done, mother,” said the daughter, with a motion of her
+head, as if in dismissal of the subject. “I have said enough. Don’t let
+you and I talk of being dutiful, whatever we do. Your [[Childhood|childhood]] was
+like mine, I suppose. So much the worse for both of us. I don’t want to
+blame you, or to defend myself; why should I? That’s all over long ago.
+But I am a woman—not a girl, now—and you and I needn’t make a show of
+our [[history]], like the gentlemen in the [[Court]]. We know all about it,
+[[Well|well]] enough.”

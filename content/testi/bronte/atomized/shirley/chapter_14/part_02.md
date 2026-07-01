@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 14 (part 2)"
+title: "Shirley — Chapter 14 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_14/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_14/part_03">part 03 ›</a></div>
 </nav>
 
+
+"That is nothing. I am not a stranger, you know. I am an old
+
+acquaintance, and his cousin."
+
+
+
+"I feel indignant, and that is the long and short of the matter,"
+
+responded Miss Keeldar. "All my comfort," she added presently, "is
+
+broken up by his manœuvres. He keeps intruding between you and me.
 
 Without him we should be good friends; but that six feet of puppyhood
 
@@ -96,7 +108,7 @@ on me at this moment how sisters feel towards each other--affection
 
 twined with their life, which no shocks of feeling can uproot, which
 
-little quarrels only trample an instant, that it may [[spring]] more freshly
+little quarrels only trample an instant, that it may [[Spring|spring]] more freshly
 
 when the pressure is removed; affection that no passion can ultimately
 
@@ -205,17 +217,3 @@ never get up illuminations at Fieldhead, but I could not ask the meaning
 of sundry quite unaccountable pounds of candles. We do not wash for the
 
 parish, yet I viewed in [[Silence|silence]] items of soap and bleaching-powder
-
-calculated to satisfy the solicitude of the most anxious inquirer after
-
-our position in reference to those articles. Carnivorous I am not, nor
-
-is Mrs. Pryor, nor is Mrs. Gill herself, yet I only hemmed and opened my
-
-eyes a little wide when I saw butchers' bills whose figures seemed to
-
-prove that fact--falsehood, I mean. Caroline, you may laugh at me, but
-
-you can't change me. I am a poltroon on certain points; I feel it. There
-
-is a base alloy of moral cowardice in my composition. I blushed and hung

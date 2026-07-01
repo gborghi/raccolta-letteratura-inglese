@@ -1,5 +1,5 @@
 ---
-title: "[[Emma]] — Chapter 10 (part 3)"
+title: "Emma — Chapter 12 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/emma-(austen)"
@@ -14,91 +14,53 @@ tags:
 </nav>
 
 
-“Ah!” thought [[Emma]], “he would have done as much for Harriet.”
+The evening of this day was very long, and [[Melancholy|melancholy]], at Hartfield.
+The weather added what it could of gloom. A cold stormy rain set in,
+and nothing of July appeared but in the trees and shrubs, which the
+[[Wind|wind]] was despoiling, and the length of the day, which only made such
+cruel sights the longer visible.
 
-“This was settled last [[Night|night]], and Frank was off with the light this
-morning. He stopped at Highbury, at the Bates’s, I fancy, some [[Time|time]]—and
-then came on hither; but was in such a hurry to get back to his uncle,
-to whom he is just now more necessary than ever, that, as I tell you,
-he could stay with us but a quarter of an hour.—He was very much
-agitated—very much, indeed—to a degree that made him appear quite a
-different creature from any thing I had ever seen him before.—In
-addition to all the rest, there had been the shock of finding her so
-very unwell, which he had had no previous suspicion of—and there was
-every appearance of his having been feeling a great deal.”
+The weather affected Mr. Woodhouse, and he could only be kept tolerably
+comfortable by almost ceaseless attention on his daughter’s side, and
+by exertions which had never cost her half so much before. It reminded
+her of their first forlorn tête-à-tête, on the evening of Mrs. Weston’s
+wedding-day; but Mr. Knightley had walked in then, soon after tea, and
+dissipated every [[Melancholy|melancholy]] fancy. Alas! such delightful proofs of
+Hartfield’s attraction, as those sort of visits conveyed, might shortly
+be over. The picture which she had then drawn of the privations of the
+approaching [[Winter|winter]], had proved erroneous; no friends had deserted them,
+no pleasures had been lost.—But her present forebodings she feared
+would experience no similar contradiction. The prospect before her now,
+was threatening to a degree that could not be entirely dispelled—that
+might not be even partially brightened. If all took place that might
+take place among the circle of her friends, Hartfield must be
+comparatively deserted; and she left to cheer her father with the
+spirits only of ruined happiness.
 
-“And do you really believe the affair to have been carrying on with
-such perfect secresy?—The Campbells, the Dixons, did none of them know
-of the engagement?”
+The [[Child|child]] to be born at Randalls must be a tie there even dearer than
+herself; and Mrs. Weston’s heart and [[Time|time]] would be occupied by it. They
+should lose her; and, probably, in great measure, her husband
+also.—[[Frank Churchill]] would return among them no more; and Miss
+Fairfax, it was reasonable to suppose, would soon cease to belong to
+Highbury. They would be married, and settled either at or near
+Enscombe. All that were good would be withdrawn; and if to these
+losses, the loss of Donwell were to be added, what would remain of
+cheerful or of rational society within their reach? Mr. Knightley to be
+no longer coming there for his evening comfort!—No longer walking in at
+all hours, as if ever willing to change his own [[Home|home]] for their’s!—How
+was it to be endured? And if he were to be lost to them for Harriet’s
+sake; if he were to be thought of hereafter, as finding in Harriet’s
+society all that he wanted; if Harriet were to be the chosen, the
+first, the dearest, the friend, the wife to whom he looked for all the
+best blessings of existence; what could be increasing [[Emma]]’s
+wretchedness but the reflection never far distant from her mind, that
+it had been all her own work?
 
-[[Emma]] could not speak the name of Dixon without a little blush.
-
-“None; not one. He positively said that it had been known to no being
-in the world but their two selves.”
-
-“[[Well]],” said [[Emma]], “I suppose we shall gradually grow reconciled to the
-idea, and I wish them very happy. But I shall always think it a very
-abominable sort of proceeding. What has it been but a system of
-hypocrisy and deceit,—espionage, and treachery?—To come among us with
-professions of openness and simplicity; and such a league in secret to
-judge us all!—Here have we been, the whole [[Winter|winter]] and [[spring]],
-completely duped, fancying ourselves all on an equal footing of [[Truth|truth]]
-and [[Honour|honour]], with two people in the midst of us who may have been
-carrying round, comparing and sitting in judgment on sentiments and
-words that were never meant for both to hear.—They must take the
-consequence, if they have heard each other spoken of in a way not
-perfectly agreeable!”
-
-“I am quite easy on that head,” replied Mrs. Weston. “I am very sure
-that I never said any thing of either to the other, which both might
-not have heard.”
-
-“You are in luck.—Your only blunder was confined to my ear, when you
-imagined a certain friend of ours in [[Love|love]] with the lady.”
-
-“True. But as I have always had a thoroughly good opinion of Miss
-Fairfax, I never could, under any blunder, have spoken ill of her; and
-as to speaking ill of him, there I must have been safe.”
-
-At this moment Mr. Weston appeared at a little distance from the
-[[Window|window]], evidently on the watch. His wife gave him a look which invited
-him in; and, while he was coming round, added, “Now, dearest [[Emma]], let
-me intreat you to say and look every thing that may set his heart at
-ease, and incline him to be satisfied with the match. Let us make the
-best of it—and, indeed, almost every thing may be fairly said in her
-favour. It is not a connexion to gratify; but if Mr. Churchill does not
-feel that, why should we? and it may be a very fortunate circumstance
-for him, for Frank, I mean, that he should have attached himself to a
-girl of such steadiness of character and good judgment as I have always
-given her credit for—and still am disposed to give her credit for, in
-spite of this one great deviation from the strict rule of right. And
-how much may be said in her situation for even that error!”
-
-“Much, indeed!” cried [[Emma]] feelingly. “If a woman can ever be excused
-for thinking only of herself, it is in a situation like Jane
-Fairfax’s.—Of such, one may almost say, that ‘the world is not their’s,
-nor the world’s law.’”
-
-She met Mr. Weston on his entrance, with a smiling countenance,
-exclaiming,
-
-“A very pretty trick you have been playing me, upon my word! This was a
-device, I suppose, to sport with my curiosity, and exercise my talent
-of guessing. But you really frightened me. I thought you had lost half
-your property, at least. And here, instead of its being a matter of
-condolence, it turns out to be one of congratulation.—I congratulate
-you, Mr. Weston, with all my heart, on the prospect of having one of
-the most lovely and accomplished young women in England for your
-daughter.”
-
-A glance or two between him and his wife, convinced him that all was as
-right as this speech proclaimed; and its happy effect on his spirits
-was immediate. His air and voice recovered their usual briskness: he
-shook her heartily and gratefully by the hand, and entered on the
-subject in a manner to prove, that he now only wanted [[Time|time]] and
-[[Persuasion|persuasion]] to think the engagement no very bad thing. His companions
-suggested only what could palliate imprudence, or smooth objections;
-and by the [[Time|time]] they had talked it all over together, and he had talked
-it all over again with [[Emma]], in their walk back to Hartfield, he was
-become perfectly reconciled, and not far from thinking it the very best
-thing that Frank could possibly have done.
+When it came to such a pitch as this, she was not able to refrain from
+a start, or a heavy sigh, or even from walking about the room for a few
+seconds—and the only source whence any thing like consolation or
+composure could be drawn, was in the resolution of her own better
+conduct, and the [[Hope|hope]] that, however inferior in spirit and gaiety might
+be the following and every future [[Winter|winter]] of her life to the past, it
+would yet find her more rational, more acquainted with herself, and
+leave her less to regret when it were gone.

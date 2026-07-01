@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 5 (part 3)"
+title: "Mansfield Park — Chapter 5 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/mansfield_park/chapter_05/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/mansfield_park/chapter_06/part_01">part 01 ›</a></div>
 </nav>
 
+
+“And a very pretty story it is, and with more [[Truth|truth]] in it, I dare say,
+than does credit to Miss Anderson. It is too common a fault. Mothers
+certainly have not yet got quite the right way of managing their
+daughters. I do not know where the error lies. I do not pretend to set
+people right, but I do see that they are often wrong.”
 
 “Those who are showing the world what female manners _should_ be,” said
 Mr. [[Bertram]] gallantly, “are doing a great deal to set them right.”

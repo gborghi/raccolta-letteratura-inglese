@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 47 (part 3)"
+title: "Nicholas Nickleby — Chapter 47 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_47/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_47/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘Oh HIM!’ rejoined Ralph. ‘Ay, ay. Now you speak. Oh! It’s HIS daughter,
+is it?’
+
+Naturally as this was said, it was not said so naturally but that a
+kindred spirit like old [[arthur|Arthur]] Gride might have discerned a design upon
+the part of Ralph to lead him on to much more explicit statements and
+explanations than he would have volunteered, or that Ralph could in all
+likelihood have obtained by any other means. Old [[arthur|Arthur]], however, was so
+intent upon his own designs, that he suffered himself to be overreached,
+and had no suspicion but that his good friend was in earnest.
 
 ‘I knew you couldn’t forget him, when you came to think for a moment,’
 he said.
@@ -108,19 +119,3 @@ he could not resist ME, do you think his daughter could resist HIM?
 Shouldn’t I have her Mrs. [[arthur|Arthur]] Gride--pretty Mrs. [[arthur|Arthur]] Gride--a
 tit-bit--a dainty chick--shouldn’t I have her Mrs. [[arthur|Arthur]] Gride in a
 week, a month, a day--any [[Time|time]] I chose to name?’
-
-‘Go on,’ said Ralph, nodding his head deliberately, and speaking in
-a tone whose studied coldness presented a strange contrast to the
-rapturous squeak to which his friend had gradually mounted. ‘Go on. You
-didn’t come here to ask me that.’
-
-‘Oh dear, how you talk!’ cried old [[arthur|Arthur]], edging himself closer still
-to Ralph. ‘Of course I didn’t, I don’t pretend I did! I came to ask what
-you would take from me, if I prospered with the father, for this debt of
-yours. Five shillings in the pound, six and-eightpence, ten shillings? I
-WOULD go as far as ten for such a friend as you, we have always been on
-such good terms, but you won’t be so hard upon me as that, I know. Now,
-will you?’
-
-‘There’s something more to be told,’ said Ralph, as stony and immovable
-as ever.

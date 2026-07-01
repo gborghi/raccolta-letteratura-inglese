@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 21 (part 1)"
+title: "Villette — Chapter 21 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -108,7 +108,7 @@ dim chamber, whispered sedately—“He may write once. So kind is his
 _cannot_ be continued—it _may_ not be repeated. Great were that folly
 which should build on such a promise—insane that credulity which should
 mistake the transitory rain-pool, holding in its hollow one draught,
-for the perennial [[spring]] yielding the supply of [[Seasons|seasons]].”
+for the perennial [[Spring|spring]] yielding the supply of [[Seasons|seasons]].”
 
 I bent my head: I sat thinking an hour longer. Reason still whispered
 me, laying on my shoulder a withered hand, and frostily touching my ear

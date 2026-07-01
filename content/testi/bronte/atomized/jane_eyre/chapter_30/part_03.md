@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 30 (part 3)"
+title: "Jane Eyre — Chapter 30 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -141,12 +141,3 @@ some things he is inexorable as [[Death|death]]; and the worst of it is, my
 decision: certainly, I cannot for a moment blame him for it. It is
 right, noble, Christian: yet it breaks my heart!” And the [[Tears|tears]] gushed
 to her fine eyes. Mary bent her head low over her work.
-
-“We are now without father: we shall soon be without [[Home|home]] and brother,”
-she murmured.
-
-At that moment a little accident supervened, which seemed decreed by
-fate purposely to prove the [[Truth|truth]] of the adage, that “misfortunes never
-come singly,” and to add to their distresses the vexing one of the slip
-between the cup and the lip. St. John passed the [[Window|window]] reading a
-letter. He entered.

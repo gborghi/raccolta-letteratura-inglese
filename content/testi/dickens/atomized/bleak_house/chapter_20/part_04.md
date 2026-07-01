@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 20 (part 4)"
+title: "Bleak House — Chapter 20 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -138,7 +138,3 @@ of business.”
 The old man still sits, often smacking his dry lips without the least
 consciousness. After some minutes he makes an attempt to rise. They
 help him up, and he staggers against the wall and stares at them.
-
-“How do you do, Mr. Krook?” says Mr. Guppy in some discomfiture. “How
-do you do, sir? You are looking charming, Mr. Krook. I [[Hope|hope]] you are
-pretty [[Well|well]]?”

@@ -14,6 +14,98 @@ tags:
 </nav>
 
 
+      that the green sods and the gray rocks upon which I trod had been
+
+      trodden never before by the foot of a human being. So entirely
+
+      secluded, and in fact inaccessible, except through a series of
+
+      accidents, is the entrance of the ravine, that it is by no means
+
+      impossible that I was indeed the first adventurer—the very first
+
+      and sole adventurer who had ever penetrated its recesses.
+
+
+
+      “The thick and peculiar mist, or smoke, which distinguishes the
+
+      Indian [[Summer]], and which now hung heavily over all objects,
+
+      served, no [[Doubt|doubt]], to deepen the vague impressions which these
+
+      objects created. So dense was this pleasant fog that I could at
+
+      no [[Time|time]] see more than a dozen yards of the path before me. This
+
+      path was excessively sinuous, and as the sun could not be seen, I
+
+      soon lost all idea of the direction in which I journeyed. In the
+
+      meantime the morphine had its customary effect—that of enduing
+
+      all the external world with an intensity of interest. In the
+
+      quivering of a leaf—in the hue of a blade of grass—in the shape
+
+      of a trefoil—in the humming of a bee—in the gleaming of a
+
+      dew-drop—in the breathing of the [[Wind|wind]]—in the faint odors that
+
+      came from the forest—there came a whole universe of suggestion—a
+
+      gay and motley train of rhapsodical and immethodical thought.
+
+
+
+      “Busied in this, I walked on for several hours, during which the
+
+      mist deepened around me to so great an extent that at length I
+
+      was reduced to an absolute groping of the way. And now an
+
+      indescribable uneasiness possessed me—a species of nervous
+
+      hesitation and tremor. I feared to tread, lest I should be
+
+      precipitated into some abyss. I remembered, too, strange stories
+
+      told about these Ragged Hills, and of the uncouth and fierce
+
+      races of men who tenanted their groves and caverns. A thousand
+
+      vague fancies oppressed and disconcerted me—fancies the more
+
+      distressing because vague. Very suddenly my attention was
+
+      arrested by the loud beating of a drum.
+
+
+
+      “My amazement was, of course, extreme. A drum in these hills was
+
+      a thing unknown. I could not have been more surprised at the
+
+      sound of the trump of the Archangel. But a new and still more
+
+      astounding source of interest and perplexity arose. There came a
+
+      wild rattling or jingling sound, as if of a bunch of large keys,
+
+      and upon the instant a dusky-visaged and half-naked man rushed
+
+      past me with a shriek. He came so close to my person that I felt
+
+      his hot breath upon my face. He bore in one hand an instrument
+
+      composed of an assemblage of steel rings, and shook them
+
+      vigorously as he ran. Scarcely had he disappeared in the mist
+
+      before, panting after him, with open mouth and glaring eyes,
+
+      there darted a huge beast. I could not be mistaken in its
+
       character. It was a hyena.
 
 
@@ -109,99 +201,3 @@ tags:
       in infinite variety and profusion—silks, muslins, the most
 
       dazzling cutlery, the most magnificent jewels and gems. Besides
-
-      these things, were seen, on all sides, banners and palanquins,
-
-      litters with stately dames close-veiled, elephants gorgeously
-
-      caparisoned, idols grotesquely hewn, drums, banners, and gongs,
-
-      spears, silver and gilded maces. And amid the crowd, and the
-
-      clamor, and the general intricacy and confusion—amid the million
-
-      of black and yellow men, turbaned and robed, and of flowing
-
-      beard, there roamed a countless multitude of holy filleted bulls,
-
-      while vast legions of the filthy but sacred ape clambered,
-
-      chattering and shrieking, about the cornices of the mosques, or
-
-      clung to the minarets and oriels. From the swarming streets to
-
-      the banks of the [[River|river]], there descended innumerable flights of
-
-      steps leading to bathing places, while the [[River|river]] itself seemed to
-
-      force a passage with difficulty through the vast fleets of
-
-      deeply-burthened ships that far and wide encountered its surface.
-
-      Beyond the limits of the [[City|city]] arose, in frequent majestic groups,
-
-      the palm and the cocoa, with other gigantic and weird trees of
-
-      vast age; and here and there might be seen a field of rice, the
-
-      thatched hut of a peasant, a tank, a stray temple, a gypsy camp,
-
-      or a solitary graceful maiden taking her way, with a pitcher upon
-
-      her head, to the banks of the magnificent [[River|river]].
-
-
-
-      “You will say now, of course, that I dreamed; but not so. What I
-
-      saw—what I heard—what I felt—what I thought—had about it nothing
-
-      of the unmistakable idiosyncrasy of the dream. All was rigorously
-
-      [[Self|self]]-consistent. At first, doubting that I was really awake, I
-
-      entered into a series of tests, which soon convinced me that I
-
-      really was. Now, when one [[Dreams|dreams]], and, in the dream, suspects
-
-      that he [[Dreams|dreams]], the suspicion never fails to confirm itself, and
-
-      [[The Sleeper|the sleeper]] is almost immediately aroused. Thus Novalis errs not
-
-      in saying that ‘we are near waking when we dream that we dream.’
-
-      Had the vision occurred to me as I describe it, without my
-
-      suspecting it as [[A Dream|a dream]], then [[A Dream|a dream]] it might absolutely have
-
-      been, but, occurring as it did, and suspected and tested as it
-
-      was, I am forced to class it among other phenomena.”
-
-
-
-      “In this I am not sure that you are wrong,” observed Dr.
-
-      Templeton, “but proceed. You arose and descended into the [[City|city]].”
-
-
-
-      “I arose,” continued Bedloe, regarding the Doctor with an air of
-
-      profound astonishment “I arose, as you say, and descended into
-
-      the [[City|city]]. On my way I fell in with an immense populace, crowding
-
-      through every avenue, all in the same direction, and exhibiting
-
-      in every action the wildest excitement. Very suddenly, and by
-
-      some inconceivable impulse, I became intensely imbued with
-
-      personal interest in what was going on. I seemed to feel that I
-
-      had an important part to play, without exactly understanding what
-
-      it was. Against the crowd which environed me, however, I
-
-      experienced a deep sentiment of animosity. I shrank from amid

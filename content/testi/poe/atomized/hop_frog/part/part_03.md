@@ -1,5 +1,5 @@
 ---
-title: "[[Hop-Frog]] (part 3)"
+title: "Hop-Frog (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/hop-frog-(poe)"
@@ -12,6 +12,17 @@ tags:
 <div class="excerpt-crumb">Poe · <a href="/works/hop-frog-(poe)">Hop Frog</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/hop_frog/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/hop_frog/part/part_04">part 04 ›</a></div>
 </nav>
+
+
+      “We call it,” replied the cripple, “the Eight Chained Ourang-Outangs, and
+      it really is excellent sport if [[Well|well]] enacted.”
+
+
+      “We will enact it,” remarked the [[King|king]], drawing himself up, and lowering
+      his eyelids.
+
+      “The [[Beauty|beauty]] of the game,” continued [[Hop-Frog]], “lies in the fright it
+      occasions among the women.”
 
 
       “Capital!” roared in [[Chorus|chorus]] the monarch and his ministry.
@@ -106,16 +117,3 @@ tags:
       and which had been drawn up on its removal, might have been seen very
       gradually to descend, until its hooked extremity came within three feet of
       the floor.
-
-      Soon after this, the [[King|king]] and his seven friends having reeled about the
-      hall in all directions, found themselves, at length, in its centre, and,
-      of course, in immediate contact with the chain. While they were thus
-      situated, the [[Dwarf|dwarf]], who had followed noiselessly at their heels, inciting
-      them to keep up the commotion, took hold of their own chain at the
-      intersection of the two portions which crossed the circle diametrically
-      and at right angles. Here, with the rapidity of thought, he inserted the
-      hook from which the chandelier had been wont to depend; and, in an
-      instant, by some unseen agency, the chandelier-chain was drawn so far
-      upward as to take the hook out of reach, and, as an inevitable
-      consequence, to drag the ourang-outangs together in close connection, and
-      face to face.

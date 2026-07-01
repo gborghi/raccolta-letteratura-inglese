@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 15 (part 1)"
+title: "Great Expectations — Chapter 15 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -146,7 +146,3 @@ said Joe, steadfastly impressing it upon me, as if he were endeavouring
 to rouse me from a fixed delusion, “and you may haim at what you like,
 but a gridiron it will come out, either by your leave or again your
 leave, and you can’t help yourself—”
-
-“My dear Joe,” I cried, in desperation, taking hold of his coat, “don’t
-go on in that way. I never thought of making [[Miss Havisham]] any
-present.”

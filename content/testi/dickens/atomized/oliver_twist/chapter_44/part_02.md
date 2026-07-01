@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 44 (part 2)"
+title: "Oliver Twist — Chapter 44 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_44/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_46/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Let me go,” said the girl with great earnestness; then sitting herself
+down on the floor, before the door, she said, “Bill, let me go; you
+don’t know what you are doing. You don’t, indeed. For only one
+hour—do—do!”
 
 “Cut my limbs off one by one!” cried Sikes, seizing her roughly by the
 arm, “If I don’t think the gal’s stark raving mad. Get up.”

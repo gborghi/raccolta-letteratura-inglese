@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 34 (part 1)"
+title: "Shirley — Chapter 34 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -259,7 +259,3 @@ and another elderly parishioner came dropping in, and took a humble
 station in the free sittings. It is always the frailest, the oldest, and
 
 the poorest that brave the worst weather, to prove and maintain their
-
-constancy to dear old mother church. This wild morning not one affluent
-
-family attended, not one carriage party appeared--all the lined and

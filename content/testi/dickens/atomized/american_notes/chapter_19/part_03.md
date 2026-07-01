@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-The Republican Institutions of [[America]] undoubtedly lead the people to
+The Republican Institutions of [[america|America]] undoubtedly lead the people to
 assert their [[Self|self]]-respect and their equality; but a traveller is bound to
 bear those Institutions in his mind, and not hastily to resent the near
 approach of a class of strangers, who, at [[Home|home]], would keep aloof.  This
@@ -78,7 +78,7 @@ and on every rood of which, vegetable decomposition is annually taking
 place; where there are so many great rivers, and such opposite varieties
 of climate; there cannot fail to be a great amount of sickness at certain
 [[Seasons|seasons]].  But I may venture to say, after conversing with many members of
-the medical profession in [[America]], that I am not singular in the opinion
+the medical profession in [[america|America]], that I am not singular in the opinion
 that much of the disease which does prevail, might be avoided, if a few
 common precautions were observed.  Greater means of personal cleanliness,
 are indispensable to this end; the custom of hastily swallowing large
@@ -88,7 +88,7 @@ go more wisely clad, and take more healthful exercise; and in the latter
 clause, the males must be included also.  Above all, in public
 institutions, and throughout the whole of every town and [[City|city]], the system
 of ventilation, and drainage, and removal of impurities requires to be
-thoroughly revised.  There is no local Legislature in [[America]] which may
+thoroughly revised.  There is no local Legislature in [[america|America]] which may
 not study Mr. Chadwick’s excellent Report upon the Sanitary Condition of
 our Labouring Classes, with immense advantage.
 

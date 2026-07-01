@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 6 (part 4)"
+title: "Shirley — Chapter 6 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,30 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_06/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_06/part_05">part 05 ›</a></div>
 </nav>
 
+
+by the back-way, when I went to get some [[Water|water]] at the pump five minutes
+
+since. He was in the counting-[[house]] with Joe Scott, I believe."
+
+
+
+"You are mistaken."
+
+
+
+"What should I be mistaken for? I know his [[Horse|horse]] surely?"
+
+
+
+"But you did not see himself?"
+
+
+
+"I heard him speak, though. He was saying something to Joe Scott about
+
+having settled all concerning ways and means, and that there would be a
+
+new set of frames in the mill before another week passed, and that this
 
 [[Time|time]] he would get four soldiers from Stilbro' barracks to guard the
 
@@ -321,23 +345,3 @@ objected to it.
 The former occupants of the kitchen now withdrew into the parlour.
 
 Before Hortense followed them thither, Caroline had only [[Time|time]] again to
-
-question, "Not my enemy, Robert?" And Moore, Quaker-like, had replied
-
-with another query, "Could I be?" And then, seating himself at the
-
-table, had settled Caroline at his side.
-
-
-
-Caroline scarcely heard mademoiselle's explosion of wrath when she
-
-rejoined them; the long declamation about the "conduite indigne de cette
-
-méchante créature" sounded in her ear as confusedly as the agitated
-
-rattling of the china. Robert laughed a little at it, in very subdued
-
-sort, and then, politely and calmly entreating his sister to be
-
-tranquil, assured her that if it would yield her any satisfaction, she

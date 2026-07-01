@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 17"
+title: "Wuthering Heights — Chapter 17"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/wuthering-heights-(bronte)"
@@ -347,7 +347,7 @@ Lord—’
 
 “[[Heathcliff]] gave him a push on to his knees in the middle of the [[Blood|blood]],
 and flung a towel to him; but instead of proceeding to dry it up, he
-joined his hands and began a [[Prayer|prayer]], which excited my laughter from its
+joined his hands and began a [[prayer]], which excited my laughter from its
 odd phraseology. I was in the condition of mind to be shocked at
 nothing: in fact, I was as reckless as some malefactors show themselves
 at the foot of the gallows.

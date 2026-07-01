@@ -1,5 +1,5 @@
 ---
-title: "[[Don Quixote]] — Chapter 15 (part 1)"
+title: "Don Quixote — Chapter 15 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/don-quixote-(chesterton)"
@@ -116,30 +116,3 @@ Hatton, the man who had been caricatured so often in the papers
 as the [[Fire|fire]]-brand of Red Revolution, was a good deal blamed
 for his extreme caution and consideration for the employers.
 Some even said he was in the pay of the capitalists.
-
-For never in any newspaper or book or magazine of modern England had
-anything remotely resembling a [[history|History]] of the Trade [[Union]] Movement
-come the way of an intelligent and educated English lady
-like Olive Ashley.  The whole of that huge historical change
-had happened, so far as she was concerned behind a curtain;
-and the curtain was literally a sheet of paper; a sheet of newspaper.
-She knew nothing of the differences between Trade Unionists;
-nothing of the real faults of Trade Unions; not even the very names
-of men who were directing masses as large as the army of Napoleon.
-The street seemed full of strange faces or faces all the stranger
-for being familiar.  She caught a glimpse of the large lumbering form
-of the omnibus-driver that Monkey used to make such a friend of.
-He was talking, or rather listening, with the others; and his large,
-shiny, good-humoured face seemed to assent to all that was said.
-Had Miss Ashley accompanied Monkey on his disgraceful tour
-round the public-houses, she would even have recognised
-the celebrated Old George, who now received the challenge of
-political dispute as he had received the chaff of the tavern.
-Had she known more of popular life, she would have understood
-the menacing meaning of the presence of these very sleepy and
-amiable poor Englishmen amid those sullen groups in the streets.
-But the next moment she had forgotten all about them.
-She had only succeeded in penetrating into an outer [[Court|court]] of the temple
-of officialism (it was very like waiting in a [[government|Government]] office)
-when she heard Braintree's voice outside in the corridor and he came
-rapidly into the room.

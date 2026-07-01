@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 24 (part 5)"
+title: "Jane Eyre — Chapter 24 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,25 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_24/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_24/part_06">part 06 ›</a></div>
 </nav>
 
+
+“‘Oh,’ returned the fairy, ‘that does not signify! Here is a talisman
+will remove all difficulties;’ and she held out a pretty gold ring.
+‘Put it,’ she said, ‘on the fourth finger of my left hand, and I am
+yours, and you are mine; and we shall leave earth, and make our own
+heaven yonder.’ She nodded again at the [[Moon|moon]]. The ring, Adèle, is in my
+breeches-pocket, under the disguise of a sovereign: but I mean soon to
+change it to a ring again.”
+
+“But what has mademoiselle to do with it? I don’t care for the fairy:
+you said it was mademoiselle you would take to the [[Moon|moon]]?”
+
+“Mademoiselle is a fairy,” he said, whispering mysteriously. Whereupon
+I told her not to mind his badinage; and she, on her part, evinced a
+fund of genuine French scepticism: denominating Mr. Rochester “un vrai
+menteur,” and assuring him that she made no account whatever of his
+“contes de fée,” and that “du reste, il n’y avait pas de fées, et quand
+même il y en avait:” she was sure they would never appear to him, nor
+ever give him rings, or offer to live with him in the [[Moon|moon]].
 
 The hour spent at Millcote was a somewhat harassing one to me. Mr.
 Rochester obliged me to go to a certain silk warehouse: there I was
@@ -106,36 +125,3 @@ quit.”
 your equal,” said he. We were now approaching Thornfield. “Will it
 please you to dine with me to-day?” he asked, as we re-entered the
 gates.
-
-“No, thank you, sir.”
-
-“And what for, ‘no, thank you?’ if one may inquire.”
-
-“I never have dined with you, sir: and I see no reason why I should
-now: till—”
-
-“Till what? You delight in half-phrases.”
-
-“Till I can’t help it.”
-
-“Do you suppose I eat like an ogre or a ghoul, that you dread being the
-companion of my repast?”
-
-“I have formed no supposition on the subject, sir; but I want to go on
-as usual for another month.”
-
-“You will give up your governessing [[Slavery|slavery]] at once.”
-
-“Indeed, begging your pardon, sir, I shall not. I shall just go on with
-it as usual. I shall keep out of your way all day, as I have been
-accustomed to do: you may send for me in the evening, when you feel
-disposed to see me, and I’ll come then; but at no other [[Time|time]].”
-
-“I want a smoke, Jane, or a pinch of snuff, to comfort me under all
-this, ‘pour me donner une contenance,’ as Adèle would say; and
-unfortunately I have neither my cigar-case, nor my snuff-box. But
-listen—whisper. It is your [[Time|time]] now, little [[Tyrant|tyrant]], but it will be mine
-presently; and when once I have fairly seized you, to have and to hold,
-I’ll just—figuratively speaking—attach you to a chain like this”
-(touching his watch-guard). “Yes, bonny wee thing, I’ll wear you in my
-bosom, lest my [[Jewel|jewel]] I should tyne.”

@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 1: INTRODUCTORY"
+title: "The Professor — Chapter 1: INTRODUCTORY"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-professor-(bronte)"
@@ -16,19 +16,13 @@ tags:
 
 CHAPTER I. INTRODUCTORY.
 
-
-
 THE other day, in looking over my papers, I found in my desk the
 
 following copy of a letter, sent by me a year since to an old school
 
 acquaintance:--
 
-
-
 “DEAR CHARLES,
-
-
 
 “I think when you and I were at Eton together, we were neither of
 
@@ -58,8 +52,6 @@ inanimate [[Nature|nature]], your sardonic coldness did not move me. I felt myse
 
 superior to that check THEN as I do NOW.
 
-
-
 “It is a long [[Time|time]] since I wrote to you, and a still longer [[Time|time]] since
 
 I saw you. Chancing to take up a newspaper of your county the other day,
@@ -71,8 +63,6 @@ the events which have transpired since we separated; and I sat down
 and commenced this letter. What you have been doing I know not; but you
 
 shall hear, if you choose to listen, how the world has wagged with me.
-
-
 
 “First, after leaving Eton, I had an interview with my maternal uncles,
 
@@ -87,8 +77,6 @@ hinted that when I became rector of Seacombe-cum-Scaife, I might perhaps
 be allowed to take, as mistress of my [[house]] and head of my parish, one
 
 of my six cousins, his daughters, all of whom I greatly dislike.
-
-
 
 “I declined both the Church and matrimony. A good clergyman is a good
 
@@ -107,8 +95,6 @@ Seacombe Rectory [[Alone|alone]] with one of them--for instance, the large and
 [[Well|well]]-modelled statue, Sarah--no; I should be a bad husband, under such
 
 circumstances, as [[Well|well]] as a bad clergyman.
-
-
 
 “When I had declined my uncles’ offers they asked me ‘what I intended
 
@@ -146,8 +132,6 @@ reception of another burden--one which might be more intolerable, and
 
 which certainly was yet untried.
 
-
-
 “I wrote instantly to Edward--you know Edward--my only brother, ten
 
 years my senior, married to a rich mill-owner’s daughter, and now
@@ -169,8 +153,6 @@ she brought me into the world, and then herself left it without, I
 should think, much regret, as it contained little [[Hope|hope]] or comfort for
 
 her.
-
-
 
 “My father’s relations took charge of Edward, as they did of me, till I
 
@@ -232,8 +214,6 @@ these feelings I was influenced when I refused the Rectory of Seacombe,
 
 and the [[Union|union]] with one of my patrician cousins.
 
-
-
 “An irreparable breach thus being effected between my uncles and myself,
 
 I wrote to Edward; told him what had occurred, and informed him of my
@@ -250,8 +230,6 @@ I repressed all--even mental comment on his note--packed my trunk and
 
 carpet-bag, and started for the North directly.
 
-
-
 “After two days’ travelling (railroads were not then in existence) I
 
 arrived, one wet October afternoon, in the town of X----. I had always
@@ -263,8 +241,6 @@ it was only Mr. Crimsworth’s mill and warehouse which were situated in
 the smoky atmosphere of Bigben Close; his RESIDENCE lay four miles out,
 
 in the country.
-
-
 
 “It was late in the evening when I alighted at the gates of the
 
@@ -279,8 +255,6 @@ grounds surrounding it sufficiently spacious. I paused a moment on the
 lawn in front, and leaning my back against a tall tree which [[Rose|rose]] in the
 
 centre, I gazed with interest on the exterior of Crimsworth Hall.
-
-
 
 “Edward is rich,” thought I to myself. ‘I believed him to be doing
 
@@ -299,8 +273,6 @@ burning on the table; he informed me that his master was not yet
 returned from X----market, but that he would certainly be at [[Home|home]] in the
 
 course of half an hour.
-
-
 
 “Being left to myself, I took the stuffed easy chair, covered with red
 
@@ -330,8 +302,6 @@ clenched itself to repress the tremor with which impatience would fain
 
 have shaken it.
 
-
-
 “I thought of my uncles; and as I was engaged in wondering whether
 
 Edward’s indifference would equal the cold disdain I had always
@@ -345,8 +315,6 @@ minutes, and a brief dialogue between himself and his servant in the
 hall, his tread drew near the library door--that tread [[Alone|alone]] announced
 
 the master of the [[house]].
-
-
 
 “I still retained some confused recollection of Edward as he was ten
 
@@ -366,8 +334,6 @@ of shaking hands, scanned me from head to foot; he took his seat in the
 
 morocco covered arm-chair, and motioned me to another seat.
 
-
-
 “‘I expected you would have called at the counting-[[house]] in the Close,’
 
 said he; and his voice, I noticed, had an abrupt accent, probably
@@ -378,15 +344,11 @@ sounded harsh in my ears, accustomed to the silvery utterance of the
 
 South.
 
-
-
 “‘The landlord of the inn, where the coach stopped, directed me here,’
 
 said I. ‘I doubted at first the accuracy of his information, not being
 
 aware that you had such a residence as this.’
-
-
 
 “‘Oh, it is all right!’ he replied, ‘only I was kept half an hour behind
 
@@ -394,15 +356,11 @@ aware that you had such a residence as this.’
 
 eight o’[[Clock|clock]] coach.’
 
-
-
 “I expressed regret that he had had to wait; he made no answer, but
 
 stirred the [[Fire|fire]], as if to cover a movement of impatience; then he
 
 scanned me again.
-
-
 
 “I felt an inward satisfaction that I had not, in the first moment of
 
@@ -410,19 +368,13 @@ meeting, betrayed any warmth, any enthusiasm; that I had saluted this
 
 man with a quiet and steady phlegm.
 
-
-
 “‘Have you quite broken with Tynedale and Seacombe?’ he asked hastily.
-
-
 
 “‘I do not think I shall have any further communication with them; my
 
 refusal of their proposals will, I fancy, operate as a barrier against
 
 all future intercourse.’
-
-
 
 “‘Why,’ said he, ‘I may as [[Well|well]] remind you at the very outset of our
 
@@ -433,8 +385,6 @@ Tynedale will be incompatible with assistance from me.’ There was a kind
 of gratuitous menace in his eye as he looked at me in finishing this
 
 observation.
-
-
 
 “Feeling no disposition to reply to him, I contented myself with an
 
@@ -448,15 +398,11 @@ evidence of my being cowed by his peremptory manner. After a long and
 
 hard stare at me, he [[Rose|rose]] sharply from his seat.
 
-
-
 “‘To-morrow,’ said he, ‘I shall call your attention to some other
 
 points; but now it is supper [[Time|time]], and Mrs. Crimsworth is probably
 
 waiting; will you come?’
-
-
 
 “He strode from the room, and I followed. In crossing the hall, I
 
@@ -471,8 +417,6 @@ these? Shall I, in conversing with her, feel free to show something of
 my real [[Nature|nature]]; or--’ Further conjectures were arrested by my entrance
 
 into the dining-room.
-
-
 
 “A lamp, burning under a shade of ground-glass, showed a handsome
 
@@ -514,15 +458,11 @@ pretended to be vexed, that he had that day driven a vicious [[Horse|horse]] in
 
 the gig, and he made light of her fears. Sometimes she appealed to me.
 
-
-
 “‘Now, Mr. William, isn’t it absurd in Edward to talk so? He says he
 
 will drive Jack, and no other [[Horse|horse]], and the brute has thrown him twice
 
 already.
-
-
 
 “She spoke with a kind of lisp, not disagreeable, but childish. I
 
@@ -554,8 +494,6 @@ of disaster, when a man’s hearth and [[Home|home]] would be cold indeed, witho
 
 the clear, cheering gleam of intellect.
 
-
-
 “Having perused the fair page of Mrs. Crimsworth’s face, a deep,
 
 involuntary sigh announced my disappointment; she took it as a homage to
@@ -563,8 +501,6 @@ involuntary sigh announced my disappointment; she took it as a homage to
 her [[Beauty|beauty]], and Edward, who was evidently proud of his rich and handsome
 
 young wife, threw on me a glance--half ridicule, half ire.
-
-
 
 “I turned from them both, and gazing wearily round the room, I saw two
 
@@ -588,8 +524,6 @@ picture being the only heir-looms saved out of the sale of my father’s
 
 property.
 
-
-
 “The face, I remembered, had pleased me as a boy, but then I did not
 
 understand it; now I knew how rare that class of face is in the world,
@@ -602,23 +536,15 @@ in the features indicative of most true and tender feeling. I was sorry
 
 it was only a picture.
 
-
-
 “I soon left Mr. and Mrs. Crimsworth to themselves; a servant
 
 conducted me to my bed-room; in closing my chamber-door, I shut out all
 
 intruders--you, Charles, as [[Well|well]] as the rest.
 
-
-
 “Good-bye for the present,
 
-
-
 “[[William Crimsworth|WILLIAM CRIMSWORTH]].”
-
-
 
 To this letter I never got an answer; before my old friend received it,
 
@@ -627,8 +553,6 @@ he had accepted a [[government|Government]] appointment in one of the colonies, 
 already on his way to the scene of his official labours. What has become
 
 of him since, I know not.
-
-
 
 The leisure [[Time|time]] I have at command, and which I intended to employ
 

@@ -1,5 +1,5 @@
 ---
-title: "[[Twelfth Night]] — Act III, Scene 4 — monologue ([[Malvolio|MALVOLIO]] O) [2]"
+title: "Twelfth Night — Act III, Scene 4 — monologue (MALVOLIO O) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/twelfth-night-(shakespeare)"

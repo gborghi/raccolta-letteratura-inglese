@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 6 (part 2)"
+title: "The Tenant of Wildfell Hall — Chapter 6 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_06/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_06/part_03">part 03 ›</a></div>
 </nav>
 
+
+valley, I saw Mrs. Graham down by the brook, with a [[Sketch|sketch]]-book in her
+
+hand, absorbed in the exercise of her favourite art, while [[Arthur]] was
 
 putting on the [[Time|time]] with constructing dams and breakwaters in the
 
@@ -58,7 +62,7 @@ superintendence.
 
 
 
-“Then,” said I, “I’ll talk to [[arthur|Arthur]] till you’ve done.”
+“Then,” said I, “I’ll talk to [[Arthur]] till you’ve done.”
 
 
 
@@ -78,7 +82,7 @@ the strong black mare was pulling the roller.
 
 
 
-“No, no, [[arthur|Arthur]]; it’s too far,” objected his mother.
+“No, no, [[Arthur]]; it’s too far,” objected his mother.
 
 
 
@@ -150,7 +154,7 @@ moment of silent contemplation.
 
 
 
-“I do, sometimes,” replied she. “On [[Winter|winter]] evenings, when [[arthur|Arthur]] is in
+“I do, sometimes,” replied she. “On [[Winter|winter]] evenings, when [[Arthur]] is in
 
 bed, and I am sitting there [[Alone|alone]], hearing the bleak [[Wind|wind]] moaning round
 
@@ -245,23 +249,3 @@ with Mrs. Graham?”
 
 
 Instead of his being deeply offended at this, as I more than half
-
-expected he would, the first start of surprise, at the audacious
-
-question, was followed by a tittering laugh, as if he was highly amused
-
-at the idea.
-
-
-
-“_I_ in [[Love|love]] with her!” repeated he. “What makes you dream of such a
-
-thing?”
-
-
-
-“From the interest you take in the progress of my acquaintance with the
-
-lady, and the changes of my opinion concerning her, I thought you might
-
-be jealous.”

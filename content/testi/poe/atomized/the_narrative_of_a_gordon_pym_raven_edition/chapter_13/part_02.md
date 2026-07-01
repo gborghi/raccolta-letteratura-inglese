@@ -14,6 +14,14 @@ tags:
 </nav>
 
 
+      arm began to evince symptoms of mortification. He complained of
+
+      drowsiness and excessive thirst, but no acute [[Pain|pain]]. Nothing could
+
+      be done for his relief beyond rubbing his wounds with a little of
+
+      the vinegar from the olives, and from this no benefit seemed to
+
       be experienced. We did every thing in our power for his comfort,
 
       and trebled his allowance of [[Water|water]].
@@ -183,17 +191,3 @@ tags:
       intoxication. We afterward endeavoured to relieve our sufferings
 
       by mixing the wine with seawater; but this instantly brought
-
-      about the most violent retchings, so that we never again
-
-      attempted it. During the whole day we anxiously sought an
-
-      opportunity of bathing, but to no purpose; for the hulk was now
-
-      entirely besieged on all sides with sharks—no [[Doubt|doubt]] the identical
-
-      monsters who had devoured our poor companion on the evening
-
-      before, and who were in momentary expectation of another similar
-
-      feast. This circumstance occasioned us the most bitter regret and

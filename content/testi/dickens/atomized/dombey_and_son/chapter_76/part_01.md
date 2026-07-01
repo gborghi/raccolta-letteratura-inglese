@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 20 (part 1)"
+title: "Dombey and Son — Chapter 48 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -10,125 +10,121 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/dombey-and-son-(dickens)">Dombey and Son</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_75/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_76/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_75/part_08">‹ part 08</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_76/part_02">part 02 ›</a></div>
 </nav>
 
 
-CHAPTER XX.
-Mr Dombey goes upon a [[Journey]]
+CHAPTER XLVIII.
+The Flight of Florence
 
 
-Mr Dombey, Sir,” said [[Major Bagstock]], “Joey” B. is not in general a
-man of sentiment, for Joseph is tough. But Joe has his feelings, Sir,
-and when they are awakened—Damme, Mr Dombey,” cried the Major with
-sudden ferocity, “this is weakness, and I won’t submit to it!”
+In the wildness of her sorrow, shame, and terror, the forlorn girl
+hurried through the sunshine of a bright morning, as if it were the
+darkness of a [[Winter|winter]] [[Night|night]]. Wringing her hands and weeping bitterly,
+insensible to everything but the deep wound in her breast, stunned by
+the loss of all she loved, left like the sole survivor on a lonely
+shore from the wreck of a great vessel, she fled without a thought,
+without a [[Hope|hope]], without a purpose, but to fly somewhere anywhere.
 
-[[Major Bagstock]] delivered himself of these expressions on receiving Mr
-Dombey as his guest at the head of his own staircase in Princess’s
-Place. Mr Dombey had come to breakfast with the Major, previous to
-their setting forth on their trip; and the ill-starved Native had
-already undergone a world of misery arising out of the muffins, while,
-in connexion with the general question of boiled eggs, life was a
-burden to him.
+The cheerful vista of the long street, burnished by the morning light,
+the sight of the blue sky and airy clouds, the vigorous freshness of
+the day, so flushed and rosy in its conquest of the [[Night|night]], awakened no
+responsive feelings in her so hurt bosom. Somewhere, anywhere, to hide
+her head! somewhere, anywhere, for refuge, never more to look upon the
+place from which she fled!
 
-“It is not for an old soldier of the Bagstock breed,” observed the
-Major, relapsing into a mild state, “to deliver himself up, a prey to
-his own emotions; but—damme, Sir,” cried the Major, in another spasm of
-ferocity, “I condole with you!”
+But there were people going to and fro; there were opening shops, and
+servants at the doors of houses; there was the rising clash and roar of
+the day’s struggle. Florence saw surprise and curiosity in the faces
+flitting past her; saw long shadows coming back upon the pavement; and
+heard voices that were strange to her asking her where she went, and
+what the matter was; and though these frightened her the more at first,
+and made her hurry on the faster, they did her the good service of
+recalling her in some degree to herself, and reminding her of the
+necessity of greater composure.
 
-The Major’s purple visage deepened in its hue, and the Major’s lobster
-eyes stood out in bolder relief, as he shook Mr Dombey by the hand,
-imparting to that peaceful action as defiant a character as if it had
-been the prelude to his immediately boxing Mr Dombey for a thousand
-pounds a side and the championship of England. With a rotatory motion
-of his head, and a wheeze very like the cough of a [[Horse|horse]], the Major
-then conducted his visitor to the sitting-room, and there welcomed him
-(having now composed his feelings) with the [[Freedom|freedom]] and frankness of a
-travelling companion.
+Where to go? Still somewhere, anywhere! still going on; but where! She
+thought of the only other [[Time|time]] she had been lost in the wild wilderness
+of [[London]]—though not lost as now—and went that way. To the [[Home|home]] of
+Walter’s Uncle.
 
-“Dombey,” said the Major, “I’m glad to see you. I’m proud to see you.
-There are not many men in Europe to whom J. Bagstock would say that—for
-Josh is blunt. Sir: it’s his [[Nature|nature]]—but Joey B. is proud to see you,
-Dombey.”
+Checking her sobs, and drying her swollen eyes, and endeavouring to
+calm the agitation of her manner, so as to avoid attracting notice,
+Florence, resolving to keep to the more quiet streets as long as she
+could, was going on more quietly herself, when a familiar little [[Shadow|shadow]]
+darted past upon the sunny pavement, stopped short, wheeled about, came
+close to her, made off again, bounded round and round her, and
+Diogenes, panting for breath, and yet making the street ring with his
+glad bark, was at her feet.
 
-“Major,” returned Mr Dombey, “you are very obliging.”
+“Oh, Di! oh, dear, true, faithful Di, how did you come here? How could
+I ever leave you, Di, who would never leave me?”
 
-“No, Sir,” said the Major, “Devil a bit! That’s not my character. If
-that had been Joe’s character, Joe might have been, by this [[Time|time]],
-Lieutenant-General Sir Joseph Bagstock, K.C.B., and might have received
-you in very different quarters. You don’t know old Joe yet, I find. But
-this occasion, being special, is a source of [[Pride|pride]] to me. By the Lord,
-Sir,” said the Major resolutely, “it’s an [[Honour|honour]] to me!”
+Florence bent down on the pavement, and laid his rough, old, loving,
+foolish head against her breast, and they got up together, and went on
+together; Di more off the ground than on it, endeavouring to kiss his
+mistress flying, tumbling over and getting up again without the least
+concern, dashing at big [[dogs]] in a jocose defiance of his species,
+terrifying with touches of his nose young housemaids who were cleaning
+doorsteps, and continually stopping, in the midst of a thousand
+extravagances, to look back at Florence, and bark until all the [[dogs]]
+within hearing answered, and all the [[dogs]] who could come out, came out
+to stare at him.
 
-Mr Dombey, in his estimation of himself and his money, felt that this
-was very true, and therefore did not dispute the point. But the
-instinctive recognition of such a [[Truth|truth]] by the Major, and his plain
-avowal of it, were very able. It was a confirmation to Mr Dombey, if he
-had required any, of his not being mistaken in the Major. It was an
-assurance to him that his power extended beyond his own immediate
-sphere; and that the Major, as an officer and a gentleman, had a no
-less becoming sense of it, than the beadle of the Royal Exchange.
+With this last adherent, Florence hurried away in the advancing
+morning, and the strengthening sunshine, to the [[City]]. The roar soon
+grew more loud, the passengers more numerous, the shops more busy,
+until she was carried onward in a stream of life setting that way, and
+flowing, indifferently, past marts and mansions, prisons, churches,
+market-places, wealth, [[Poverty|poverty]], good, and evil, like the broad [[River|river]]
+side by side with it, awakened from its [[Dreams|dreams]] of rushes, willows, and
+green moss, and [[rolling]] on, turbid and troubled, among the works and
+cares of men, to the deep sea.
 
-And if it were ever consolatory to know this, or the like of this, it
-was consolatory then, when the impotence of his will, the instability
-of his hopes, the feebleness of wealth, had been so direfully impressed
-upon him. What could it do, his boy had asked him. Sometimes, thinking
-of the baby question, he could hardly forbear inquiring, himself, what
-could it do indeed: what had it done?
+At length the quarters of the little Midshipman arose in view. Nearer
+yet, and the little Midshipman himself was seen upon his post, intent
+as ever on his observations. Nearer yet, and the door stood open,
+inviting her to enter. Florence, who had again quickened her pace, as
+she approached the end of her [[Journey|journey]], ran across the [[Road|road]] (closely
+followed by Diogenes, whom the bustle had somewhat confused), ran in,
+and sank upon the threshold of the [[Well|well]]-remembered little parlour.
 
-But these were lonely thoughts, bred late at [[Night|night]] in the sullen
-despondency and gloom of his retirement, and [[Pride|pride]] easily found its
-reassurance in many testimonies to the [[Truth|truth]], as unimpeachable and
-precious as the Major’s. Mr Dombey, in his friendlessness, inclined to
-the Major. It cannot be said that he warmed towards him, but he thawed
-a little, The Major had had some part—and not too much—in the days by
-the seaside. He was a man of the world, and knew some great people. He
-talked much, and told stories; and Mr Dombey was disposed to regard him
-as a choice spirit who shone in society, and who had not that poisonous
-ingredient of [[Poverty|poverty]] with which choice spirits in general are too much
-adulterated. His station was undeniable. Altogether the Major was a
-creditable companion, [[Well|well]] accustomed to a life of leisure, and to such
-places as that they were about to visit, and having an air of
-gentlemanly ease about him that mixed [[Well|well]] enough with his own [[City]]
-character, and did not compete with it at all. If Mr Dombey had any
-lingering idea that the Major, as a man accustomed, in the way of his
-calling, to make light of the ruthless hand that had lately crushed his
-hopes, might unconsciously impart some useful [[philosophy]] to him, and
-scare away his weak regrets, he hid it from himself, and left it lying
-at the [[Bottom|bottom]] of his [[Pride|pride]], unexamined.
+The Captain, in his glazed hat, was standing over the [[Fire|fire]], making his
+morning’s cocoa, with that elegant trifle, his watch, upon the
+chimney-piece, for easy reference during the progress of the cookery.
+Hearing a footstep and the rustle of a dress, the Captain turned with a
+palpitating remembrance of the dreadful Mrs MacStinger, at the instant
+when Florence made a motion with her hand towards him, reeled, and fell
+upon the floor.
 
-“Where is my scoundrel?” said the Major, looking wrathfully round the
-room.
+The Captain, pale as Florence, pale in the very knobs upon his face,
+raised her like a baby, and laid her on the same old sofa upon which
+she had slumbered long ago.
 
-The Native, who had no particular name, but answered to any
-vituperative epithet, presented himself instantly at the door and
-ventured to come no nearer.
+“It’s Heart’s Delight!” said the Captain, looking intently in her face.
+“It’s the sweet creetur grow’d a woman!”
 
-“You [[Villain|villain]]!” said the choleric Major, “where’s the breakfast?”
+[[Captain Cuttle]] was so respectful of her, and had such a reverence for
+her, in this new character, that he would not have held her in his
+arms, while she was unconscious, for a thousand pounds.
 
-The dark servant disappeared in search of it, and was quickly heard
-reascending the stairs in such a tremulous state, that the plates and
-dishes on the tray he carried, trembling sympathetically as he came,
-rattled again, all the way up.
+“My Heart’s Delight!” said the Captain, withdrawing to a little
+distance, with the greatest alarm and sympathy depicted on his
+countenance. “If you can hail Ned Cuttle with a finger, do it!”
 
-“Dombey,” said the Major, glancing at the Native as he arranged the
-table, and encouraging him with an awful shake of his fist when he
-upset a spoon, “here is a devilled grill, a savoury pie, a dish of
-kidneys, and so forth. Pray sit down. Old Joe can give you nothing but
-camp fare, you see.”
+But Florence did not stir.
 
-“Very excellent fare, Major,” replied his guest; and not in mere
-politeness either; for the Major always took the best possible care of
-himself, and indeed ate rather more of rich meats than was good for
-him, insomuch that his Imperial complexion was mainly referred by the
-faculty to that circumstance.
+“My Heart’s Delight!” said the trembling Captain. “For the sake of
+Wal”r drownded in the briny deep, turn to, and histe up something or
+another, if able!”
 
-“You have been looking over the way, Sir,” observed the Major. “Have
-you seen our friend?”
-
-“You mean Miss Tox,” retorted Mr Dombey. “No.”
-
-“Charming woman, Sir,” said the Major, with a fat laugh rising in his
-short throat, and nearly suffocating him.
-
-“Miss Tox is a very good sort of person, I believe,” replied Mr Dombey.
+Finding her insensible to this impressive adjuration also, Captain
+Cuttle snatched from his breakfast-table a basin of cold [[Water|water]], and
+sprinkled some upon her face. Yielding to the urgency of the case, the
+Captain then, using his immense hand with extraordinary gentleness,
+relieved her of her bonnet, moistened her lips and forehead, put back
+her hair, covered her feet with his own coat which he pulled off for
+the purpose, patted her hand—so small in his, that he was struck with
+[[Wonder|wonder]] when he touched it—and seeing that her eyelids quivered, and
+that her lips began to move, continued these restorative applications
+with a better heart.

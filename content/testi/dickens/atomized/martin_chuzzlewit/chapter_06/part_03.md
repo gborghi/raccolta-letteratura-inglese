@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 6 (part 3)"
+title: "Martin Chuzzlewit — Chapter 6 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -124,11 +124,3 @@ contented face when, after wandering round the room, exulting in
 its uninvaded snugness, his glance encountered the dull brow of his
 companion; no cynic in the world, though in his hatred of its men a very
 griffin, could have withstood these things in Thomas Pinch.
-
-Some men would have slapped him on the back, and pledged him in a bumper
-of the currant wine, though it had been the sharpest vinegar--aye, and
-liked its flavour too; some would have seized him by his honest hand,
-and thanked him for the lesson that his simple [[Nature|nature]] taught them. Some
-would have laughed with, and others would have laughed at him; of which
-last class was [[Martin Chuzzlewit]], who, unable to restrain himself, at
-last laughed loud and long.

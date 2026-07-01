@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 3 (part 2)"
+title: "Persuasion — Chapter 3 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_03/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_03/part_03">part 03 ›</a></div>
 </nav>
 
+
+mahogany, rough and rugged to the last degree; all lines and wrinkles,
+
+nine grey hairs of a side, and nothing but a dab of powder at top. ‘In
 
 the name of heaven, who is that old fellow?’ said I to a friend of mine
 
@@ -203,11 +207,3 @@ taxes, than the Admiral himself, and seemed more conversant with
 business; and moreover, Sir Walter, I found she was not quite
 
 unconnected in this country, any more than her husband; that is to say,
-
-she is sister to a gentleman who did live amongst us once; she told me
-
-so herself: sister to the gentleman who lived a few years back at
-
-Monkford. Bless me! what was his name? At this moment I cannot
-
-recollect his name, though I have heard it so lately. Penelope, my

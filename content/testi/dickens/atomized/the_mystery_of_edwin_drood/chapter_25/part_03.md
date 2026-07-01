@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 23 (part 3)"
+title: "The Mystery of Edwin Drood — Chapter 23 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -13,6 +13,34 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_25/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_25/part_04">part 04 ›</a></div>
 </nav>
 
+
+“No, always in one way.”
+
+“Always in the same way?”
+
+“Ay.”
+
+“In the way in which it was really made at last?”
+
+“Ay.”
+
+“And always took the same pleasure in harping on it?”
+
+“Ay.”
+
+For the [[Time|time]] he appears unequal to any other reply than this lazy
+monosyllabic assent. Probably to assure herself that it is not the
+assent of a mere automaton, she reverses the form of her next sentence.
+
+“Did you never get tired of it, deary, and try to call up something
+else for a change?”
+
+He struggles into a sitting posture, and retorts upon her: “What do you
+mean? What did I want? What did I come for?”
+
+She gently lays him back again, and before returning him the instrument
+he has dropped, revives the [[Fire|fire]] in it with her own breath; then says
+to him, coaxingly:
 
 “Sure, sure, sure! Yes, yes, yes! Now I go along with you. You was too
 quick for me. I see now. You come o’ purpose to take the [[Journey|journey]]. Why,
@@ -126,27 +154,3 @@ peep from the doorway, she watches for his looking back. He does not
 look back before disappearing, with a wavering step. She follows him,
 peeps from the [[Court|court]], sees him still faltering on without looking back,
 and holds him in view.
-
-He repairs to the back of Aldersgate Street, where a door immediately
-opens to his knocking. She crouches in another doorway, watching that
-one, and easily comprehending that he puts up temporarily at that
-[[house]]. Her patience is unexhausted by hours. For sustenance she can,
-and does, buy bread within a hundred yards, and milk as it is carried
-past her.
-
-He comes forth again at [[Noon|noon]], having changed his dress, but carrying
-nothing in his hand, and having nothing carried for him. He is not
-going back into the country, therefore, just yet. She follows him a
-little way, hesitates, instantaneously turns confidently, and goes
-straight into the [[house]] he has quitted.
-
-“Is the gentleman from Cloisterham indoors?
-
-“Just gone out.”
-
-“Unlucky. When does the gentleman return to Cloisterham?”
-
-“At six this evening.”
-
-“Bless ye and thank ye. May the Lord prosper a business where a civil
-question, even from a poor [[Soul|soul]], is so civilly answered!”

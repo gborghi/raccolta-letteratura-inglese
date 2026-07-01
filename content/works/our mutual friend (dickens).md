@@ -62,10 +62,10 @@ tags:
 ## Chapters / scenes / sections
 
 - [Chapter 01 THE CUP AND THE LIP](/testi/dickens/atomized/our_mutual_friend/chapter_01_the_cup_and_the_lip)
-- [Chapter 02 BIRDS OF A FEATHER](/testi/dickens/atomized/our_mutual_friend/chapter_02_birds_of_a_feather)
+- Chapter 02 BIRDS OF A FEATHER
 - [Chapter 03 A LONG LANE](/testi/dickens/atomized/our_mutual_friend/chapter_03_a_long_lane)
 - [Chapter 04 A TURNING](/testi/dickens/atomized/our_mutual_friend/chapter_04_a_turning)
-- [Chapter 05 THE CUP AND THE LIP](/testi/dickens/atomized/our_mutual_friend/chapter_05_the_cup_and_the_lip)
+- Chapter 05 THE CUP AND THE LIP
 - [Chapter 06](/testi/dickens/atomized/our_mutual_friend/chapter_06)
 - [Chapter 07](/testi/dickens/atomized/our_mutual_friend/chapter_07)
 - [Chapter 08](/testi/dickens/atomized/our_mutual_friend/chapter_08)
@@ -83,9 +83,9 @@ tags:
 - [Chapter 20](/testi/dickens/atomized/our_mutual_friend/chapter_20)
 - [Chapter 21](/testi/dickens/atomized/our_mutual_friend/chapter_21)
 - [Chapter 22](/testi/dickens/atomized/our_mutual_friend/chapter_22)
-- [Chapter 23 BIRDS OF A FEATHER](/testi/dickens/atomized/our_mutual_friend/chapter_23_birds_of_a_feather)
+- Chapter 23 BIRDS OF A FEATHER
 - [Chapter 24](/testi/dickens/atomized/our_mutual_friend/chapter_24)
-- [Chapter 25 the streets being for pupils o](/testi/dickens/atomized/our_mutual_friend/chapter_25_the_streets_being_for_pupils_o)
+- Chapter 25 the streets being for pupils o
 - [Chapter 26](/testi/dickens/atomized/our_mutual_friend/chapter_26)
 - [Chapter 27](/testi/dickens/atomized/our_mutual_friend/chapter_27)
 - [Chapter 28](/testi/dickens/atomized/our_mutual_friend/chapter_28)
@@ -101,7 +101,7 @@ tags:
 - [Chapter 38](/testi/dickens/atomized/our_mutual_friend/chapter_38)
 - [Chapter 39](/testi/dickens/atomized/our_mutual_friend/chapter_39)
 - [Chapter 40](/testi/dickens/atomized/our_mutual_friend/chapter_40)
-- [Chapter 41 A LONG LANE](/testi/dickens/atomized/our_mutual_friend/chapter_41_a_long_lane)
+- Chapter 41 A LONG LANE
 - [Chapter 42](/testi/dickens/atomized/our_mutual_friend/chapter_42)
 - [Chapter 43](/testi/dickens/atomized/our_mutual_friend/chapter_43)
 - [Chapter 44](/testi/dickens/atomized/our_mutual_friend/chapter_44)
@@ -119,7 +119,7 @@ tags:
 - [Chapter 56](/testi/dickens/atomized/our_mutual_friend/chapter_56)
 - [Chapter 57](/testi/dickens/atomized/our_mutual_friend/chapter_57)
 - [Chapter 58](/testi/dickens/atomized/our_mutual_friend/chapter_58)
-- [Chapter 59 A TURNING](/testi/dickens/atomized/our_mutual_friend/chapter_59_a_turning)
+- Chapter 59 A TURNING
 - [Chapter 60](/testi/dickens/atomized/our_mutual_friend/chapter_60)
 - [Chapter 61](/testi/dickens/atomized/our_mutual_friend/chapter_61)
 - [Chapter 62](/testi/dickens/atomized/our_mutual_friend/chapter_62)
@@ -133,10 +133,10 @@ tags:
 - [Chapter 70](/testi/dickens/atomized/our_mutual_friend/chapter_70)
 - [Chapter 71](/testi/dickens/atomized/our_mutual_friend/chapter_71)
 - [Chapter 72](/testi/dickens/atomized/our_mutual_friend/chapter_72)
-- [Chapter 73](/testi/dickens/atomized/our_mutual_friend/chapter_73)
-- [Chapter 74](/testi/dickens/atomized/our_mutual_friend/chapter_74)
-- [Chapter 75](/testi/dickens/atomized/our_mutual_friend/chapter_75)
-- [Chapter 76](/testi/dickens/atomized/our_mutual_friend/chapter_76)
+- Chapter 73
+- Chapter 74
+- Chapter 75
+- Chapter 76
 
 
 ## Testo integrale / Full text

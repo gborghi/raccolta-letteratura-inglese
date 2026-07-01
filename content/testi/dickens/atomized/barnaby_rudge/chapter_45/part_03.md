@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 45 (part 3)"
+title: "Barnaby Rudge — Chapter 45 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_45/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_45/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘Maybe, maybe,’ returned the blind man with a sigh, and yet with
+something of a smile upon his face, ‘that’s likely. Handposts and
+milestones are dumb, indeed, to me. Thank you the more for this rest,
+and this refreshing drink!’
 
 As he spoke, he raised the mug of [[Water|water]] to his mouth. It was clear, and
 cold, and sparkling, but not to his taste nevertheless, or his thirst
@@ -118,20 +123,3 @@ off. But you know that, as [[Well|well]] as I, so where is the use of talking?�
 
 She still walked wildly to and fro. At length, stopping abruptly before
 him, she said:
-
-‘Is he near here?’
-
-‘He is. Close at hand.’
-
-‘Then I am lost!’
-
-‘Not lost, widow,’ said the blind man, calmly; ‘only found. Shall I call
-him?’
-
-‘Not for the world,’ she answered, with a shudder.
-
-‘Very good,’ he replied, crossing his legs again, for he had made as
-though he would rise and walk to the door. ‘As you please, widow. His
-presence is not necessary that I know of. But both he and I must live;
-to live, we must eat and drink; to eat and drink, we must have money:--I
-say no more.’

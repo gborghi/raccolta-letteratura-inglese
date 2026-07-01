@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 35 (part 1)"
+title: "Villette — Chapter 35 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -115,7 +115,7 @@ Having partially collected my scared wits, I found myself in the
 presence of two men, gentlemen, I suppose I should say—one dark, the
 other light—one having a stiff, half-military air, and wearing a
 braided surtout; the other partaking, in garb and bearing, more of the
-careless aspect of the student or [[Artist|artist]] class: both flourishing in
+careless aspect of the student or [[artist]] class: both flourishing in
 full magnificence of moustaches, whiskers, and imperial. M. Emanuel
 stood a little apart from these; his countenance and eyes expressed
 strong choler; he held forth his hand with his tribune gesture.

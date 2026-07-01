@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 7 (part 1)"
+title: "Great Expectations — Chapter 7 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -113,7 +113,7 @@ a O, Pip, and a J-O, Joe.”
 
 I had never heard Joe read aloud to any greater extent than this
 monosyllable, and I had observed at church last [[Sunday]], when I
-accidentally held our [[Prayer]]-Book upside down, that it seemed to suit
+accidentally held our [[prayer|Prayer]]-Book upside down, that it seemed to suit
 his convenience quite as [[Well|well]] as if it had been all right. Wishing to
 embrace the present occasion of finding out whether in teaching Joe, I
 should have to begin quite at the beginning, I said, “Ah! But read the
@@ -122,8 +122,3 @@ rest, Jo.”
 “The rest, eh, Pip?” said Joe, looking at it with a slow, searching
 eye, “One, two, three. Why, here’s three Js, and three Os, and three
 J-O, Joes in it, Pip!”
-
-I leaned over Joe, and, with the aid of my forefinger read him the
-whole letter.
-
-“Astonishing!” said Joe, when I had finished. “You ARE a scholar.”

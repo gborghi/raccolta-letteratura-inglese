@@ -14,6 +14,56 @@ tags:
 </nav>
 
 
+Now, too, the lively air that fanned it, grew less gentle as the music
+quickened and the [[Dance|dance]] proceeded with new spirit; and a breeze arose
+that made the [[Leaves|leaves]] and berries [[Dance|dance]] upon the wall, as they had often
+done upon the trees; and the breeze rustled in the room as if an
+invisible company of fairies, treading in the foot-steps of the good
+substantial revellers, were whirling after them.  Now, too, no feature of
+the Doctor’s face could be distinguished as he spun and spun; and now
+there seemed a dozen [[Birds]] of Paradise in fitful flight; and now there
+were a thousand little [[Bells|bells]] at work; and now a fleet of flying skirts
+was ruffled by a little tempest, when the music gave in, and the [[Dance|dance]]
+was over.
+
+Hot and breathless as the Doctor was, it only made him the more impatient
+for Alfred’s coming.
+
+‘Anything been seen, Britain?  Anything been heard?’
+
+‘Too dark to see far, sir.  Too much noise inside the [[house]] to hear.’
+
+‘That’s right!  The gayer welcome for him.  How goes the [[Time|time]]?’
+
+‘Just twelve, sir.  He can’t be long, sir.’
+
+‘Stir up the [[Fire|fire]], and throw another log upon it,’ said the Doctor.  ‘Let
+him see his welcome blazing out upon the [[Night|night]]—good boy!—as he comes
+along!’
+
+He saw it—Yes!  From the chaise he caught the light, as he turned the
+corner by the old church.  He knew the room from which it shone.  He saw
+the wintry branches of the old trees between the light and him.  He knew
+that one of those trees rustled musically in the [[Summer|summer]] [[Time|time]] at the
+[[Window|window]] of Marion’s chamber.
+
+The [[Tears|tears]] were in his eyes.  His heart throbbed so violently that he
+could hardly bear his happiness.  How often he had thought of this
+[[Time|time]]—pictured it under all circumstances—feared that it might never
+come—yearned, and wearied for it—far away!
+
+Again the light!  Distinct and ruddy; kindled, he knew, to give him
+welcome, and to [[Speed|speed]] him [[Home|home]].  He beckoned with his hand, and waved his
+hat, and cheered out, loud, as if the light were they, and they could see
+and hear him, as he dashed towards them through the mud and mire,
+triumphantly.
+
+Stop!  He knew the Doctor, and understood what he had done.  He would not
+let it be a surprise to them.  But he could make it one, yet, by going
+forward on foot.  If the orchard-gate were open, he could enter there; if
+not, the wall was easily climbed, as he knew of old; and he would be
+among them in an instant.
+
 He dismounted from the chaise, and telling the driver—even that was not
 easy in his agitation—to remain behind for a few minutes, and then to
 follow slowly, ran on with exceeding swiftness, tried the gate, scaled

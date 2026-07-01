@@ -10,9 +10,36 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/poet-and-lunatics-(chesterton)">Poet and Lunatics</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/poet_and_lunatics/story_02_the_yellow_bird/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/poet_and_lunatics/story_03_the_shadow_of_the_shark/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/poet_and_lunatics/story_02_the_yellow_bird/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/poet_and_lunatics/story_03_the_shadow_shadow_of_the_shark/part_01">part 01 ›</a></div>
 </nav>
 
+
+"Then I saw the man on the roof, with his hands spread like wings
+to the sky.  I knew nothing of him; but I knew on the instant
+that he was the man who had given a bird its [[Freedom|freedom]] at any risk.
+As we went down the [[Hill|hill]] I heard a little more about him;
+how he had escaped by blowing up his [[Prison|prison]]; and I felt that one fact
+had filled all his life with a [[philosophy]] of emancipation and escape.
+Always at the back of his mind, I was certain, was that one bursting
+moment when he saw white daylight shining through the shattered wall.
+I knew why he let [[Birds|birds]] out of cages and why he had written a book
+on the psychology of liberty.  Then I stopped outside a [[Window|window]]
+to stare at those gorgeous goldfish, merely because I had a fancy
+for such things; they coloured my thoughts, so to speak, with a sort
+of orange or scarlet, for long afterwards.  And long afterwards I
+was again passing that [[Window|window]]; and I found their colours were faded
+and their positions changed.  At that [[Time|time]] it was already dark,
+with a rising [[Moon|moon]]; and what forms I could see scattered in the [[Shadow|shadow]]
+seemed almost grey, and even outlined in lines of grey light,
+which might have been moonlight, but I think was the corpse-light
+of phosphorescence.  They lay scattered at random on the round table;
+and I saw by the faint glimmer that the glass bowl was broken.
+So I found my [[Romance|romance]] when I returned to it; for those fantastic
+fishes had been to me like the hieroglyphics of a message,
+which the fiery finger of God had thus written in red-hot gold.
+But when I looked again, the finger had written another lesson in letters
+of an awful and ashen silver.  And what the new message said was:
+'The man is mad.'
 
 "Perhaps you think I am as mad as he; and I have told you that I
 am at once like him and unlike him.  I am like him because I
@@ -77,6 +104,5 @@ and Gabriel Gale turned his face to something like a small crowd.
 
 "It was only the [[Prison|prison]] gun," he said, "the signal that a
 prisoner has escaped."
-
 
 III

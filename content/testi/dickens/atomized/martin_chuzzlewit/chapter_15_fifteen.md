@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 15: FIFTEEN"
+title: "Martin Chuzzlewit — Chapter 15: FIFTEEN"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -393,7 +393,7 @@ An English gentleman who was strongly suspected of having run away from
 a bank, with something in his possession belonging to its strong box
 besides the key, grew eloquent upon the subject of the rights of man,
 and hummed the Marseillaise [[Hymn]] constantly. In a word, one great
-sensation pervaded the whole [[Ship|ship]], and the soil of [[America]] lay close
+sensation pervaded the whole [[Ship|ship]], and the soil of [[america|America]] lay close
 before them; so close at last, that, upon a certain starlight [[Night|night]] they
 took a pilot on board, and within a few hours afterwards lay to until
 the morning, awaiting the arrival of a steamboat in which the passengers

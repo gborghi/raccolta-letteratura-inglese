@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 5 (part 1)"
+title: "Shirley — Chapter 5 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -245,9 +245,3 @@ Pale enough that ray was on this particular morning: no colour tinged
 the east, no flush warmed it. To see what a heavy lid day slowly lifted,
 
 what a wan glance she flung along the hills, you would have thought the
-
-sun's [[Fire|fire]] quenched in last [[Night|night]]'s floods. The breath of this morning
-
-was chill as its aspect; a raw [[Wind|wind]] stirred the mass of [[Night|night]]-cloud, and
-
-showed, as it slowly [[Rose|rose]], leaving a colourless, silver-gleaming ring

@@ -14,109 +14,130 @@ tags:
 </nav>
 
 
-For the shepherds were dying because their gods were dying.
-Paganism lived upon poetry; that poetry already considered under the name
-of mythology.  But everywhere, and especially in [[Italy]], it had been
-a mythology and a poetry rooted in the countryside; and that rustic
-religion had been largely responsible for the rustic happiness.
-Only as the whole society grew in age and experience, there began
-to appear that weakness in all mythology already noted in the chapter
-under that name.  This religion was not quite a religion.
-In other words, this religion was not quite a reality.
-It was the young world's riot with images and ideas like a young
-man's riot with wine or [[Love|love]]-making; it was not so much immoral
-as irresponsible; it had no foresight of the final test of [[Time|time]].
-Because it was creative to any extent it was credulous to any extent.
-It belonged to the artistic side of man, yet even considered
-artistically it had long become overloaded and entangled.
-The family trees sprung from the seed of Jupiter were a jungle
-rather than a forest; the claims of the gods and demi-gods seemed
-like things to be settled rather by a lawyer or a professional herald
-than by a poet.  But it is needless to say that it was not only
-in the artistic sense that these things had grown more anarchic.
-There had appeared in more and more flagrant fashion that flower
-of evil that is really implicit in the very seed of [[Nature|nature]]-worship,
-however natural it may seem.  I have said that I do not believe
-that natural worship necessarily begins with this particular passion;
-I am not of the De Rougemont school of scientific folk-lore.
-I do not believe that mythology must begin with eroticism.
-But I do believe that mythology must end in it.  I am quite certain
-that mythology did end in it.  Moreover, not only did the poetry
-grow more immoral, but the immorality grew more indefensible.
-Greek vices, oriental vices, hints of the old horrors of the Semitic
-demons began to fill the fancies of decaying Rome, swarming like flies
-on a dung heap.  The psychology of it is really human enough to anyone
-who will try that experiment of seeing [[history]] from the inside.
-There comes an hour in the afternoon when the [[Child|child]] is tired
-of 'pretending'; when he is weary of being a robber or a Red Indian.
-It is then that he torments the cat.  There comes a [[Time|time]] in the routine
-of an ordered civilisation when the man is tired at playing at mythology
-and pretending that a tree is a maiden or that the [[Moon|moon]] made [[Love|love]]
-to a man.  The effect of this staleness is the same everywhere;
-it is seen in all drug-taking and dram-drinking and every form
-of the tendency to increase the dose.  Men seek stranger sins
-or more startling obscenities as stimulants to their jaded sense.
-They seek after mad oriental religions for the same reason.
-They try to stab their nerves to life, if it were with the knives
-of the priests of Baal.  They are walking in their [[Sleep|sleep]] and try
-to wake themselves up with nightmares.
+Burdened like all mortal things with all mortal sin and weakness,
+the rise of Rome had really been the rise of normal and especially
+of popular things; and in nothing more than in the thoroughly
+normal and profoundly popular hatred of perversion.
+Now among the Greeks a perversion had become a convention.
+It is true that it had become so much of a convention, especially a
+literary convention, that it was sometimes conventionally copied
+by Roman literary men.  But this is one of those complications
+that always arise out of conventions.  It must not obscure our
+sense of the difference of tone in the two societies as a whole.
+It is true that Virgil would once in a way take over a theme
+of Theocritus; but nobody can get the impression that Virgil was
+particularly fond of that theme.  The themes of Virgil were specially
+and notably the normal themes and nowhere more than in morals;
+piety and patriotism and the [[Honour|honour]] of the countryside.
+And we may [[Well|well]] pause upon the name of the poet as we pass into
+the [[Autumn|autumn]] of antiquity; upon his name who was in so supreme a sense
+the very voice of [[Autumn|autumn]] of its maturity and its [[Melancholy|melancholy]];
+of its fruits of fulfilment and its prospect of [[Decay|decay]].
+Nobody who reads even a few lines of Virgil can [[Doubt|doubt]] that he understood
+what moral [[Sanity|sanity]] means to mankind.  Nobody can [[Doubt|doubt]] his feelings
+when the demons were driven in flight before the household gods.
+But there are two particular points about him and his work
+which are particularly important to the main thesis here.
+The first is that the whole of his great patriotic [[Epic|epic]]
+is in a very peculiar sense founded upon the fall of Troy;
+that is upon an avowed [[Pride|pride]] in Troy although she had fallen.
+In tracing to Trojans the foundation of his beloved race and republic,
+he began what may be called the great Trojan tradition which runs
+through medieval and modern [[history]].  We have already seen
+the first hint of it in the pathos of Homer about [[Hector]].
+But Virgil turned it not merely into a literature but into a legend.
+And it was a legend of the almost divine dignity that belongs
+to the defeated.  This was one of the traditions that did truly
+prepare the world for the coming of [[Christianity]] and especially
+of Christian chivalry.  This is what did help to sustain civilisation
+through the incessant defeats of the Dark Ages and the barbarian wars;
+out of which what we call chivalry was born.  It is the moral attitude
+of the man with his back to the wall; and it was the wall of Troy.
+All through medieval and modern times this version of the virtues
+in the Homeric conflict can be traced in a hundred ways
+co-operating with all that was akin to it in Christian sentiment.
+Our own countrymen, and the men of other countries, loved to
+claim like Virgil that their own nation was descended from
+the heroic Trojans.  All sorts of people thought it the most
+superb sort of heraldry to claim to be descended from [[Hector]].
+Nobody seems to have wanted to be descended from [[Achilles]].
+The very fact that the Trojan name has become a Christian name,
+and been scattered to the last limits of Christendom, to Ireland
+or the Gaelic Highlands, while the Greek name has remained relatively
+rare and pedantic, is a tribute to the same [[Truth|truth]].  Indeed it
+involves a curiosity of language almost in the [[Nature|nature]] of a joke.
+The name has been turned into a verb; and the very phrase about hectoring,
+in the sense of swaggering, suggests the myriads of soldiers
+who have taken the fallen Trojan for a model.  As a matter of fact,
+nobody in antiquity was less given to hectoring than [[Hector]].
+But even the bully pretending to be a conqueror took his title
+from the conquered.  That is why the popularisation of the Trojan
+origin by Virgil has a vital relation to all those elements
+that have made men say that Virgil was almost a Christian.
+It is almost as if two great tools or toys of the same timber,
+the divine and the human, had been in the hands of [[Providence]];
+and the only thing comparable to the Wooden [[Cross]] of Calvary was
+the Wooden [[Horse]] of Troy.  So, in some wild [[Allegory|allegory]], pious in
+purpose if almost profane in form, the Holy [[Child]] might have fought
+the dragon with a wooden [[Sword|sword]] and a wooden [[Horse|horse]].
 
-At that stage even of paganism therefore the peasant [[songs]] and dances
-sound fainter and fainter in the forest.  For one thing the peasant
-civilisation was fading, or had already faded from the whole countryside.
-The Empire at the end was organised more and more on that servile system
-which generally goes with the boast of organisation, indeed it was almost
-as senile as the modern schemes for the organisation of industry.
-It is proverbial that what would once have been a peasantry became
-a mere populace of the town dependent for bread and circuses;
-which may again suggest to some a mob dependent upon doles and cinemas.
-In this as in many other respects the modern return to heathenism has been
-a return not even to the heathen youth but rather to the heathen old age.
-But the causes of it were spiritual in both cases; and especially
-the spirit of paganism had departed with its familiar spirits.
-The heat had gone out of it with its household gods, who went
-along with the gods of the [[Garden|garden]] and the field and the forest.
-The Old Man of the Forest was too old; he was already dying.
-It is said truly in a sense that Pan died because [[Christ]] was born.
-It is almost as true in another sense that men knew that [[Christ]]
-was born because Pan was already dead.  A void was made by
-the vanishing of the whole mythology of mankind, which would have
-asphyxiated like a vacuum if it had not been filled with theology.
-But the point for the moment is that the mythology could not
-have lasted like a theology in any case.  Theology is thought,
-whether we agree with it or not.  Mythology was never thought,
-and nobody could really agree with it or disagree with it.
-It was a mere mood of glamour and when the mood went it could
-not be recovered.  Men not only ceased to believe in the gods,
-but they realised that they had never believed in them.
-They had sung their praises; they had danced round their altars.
-They had played the flute; they had played the [[Fool|fool]].
+The other element in Virgil which is essential to the argument
+is the particular [[Nature|nature]] of his relation to mythology;
+or what may here in a special sense be called folklore,
+the faiths and fancies of the populace.  Everybody knows that his
+poetry at its most perfect is less concerned with the pomposity
+of Olympus than with the numina of natural and agricultural life.
+Everyone knows where Virgil looked for the causes of things.
+He speaks of finding them not so much in cosmic allegories
+of Uranus and Chronos; but rather in Pan and the sisterhood of
+the nymphs and Sylvanus the old man of the forest.  He is perhaps
+most himself in some passages of the Eclogues, in which he has
+perpetuated for ever the great legend of Arcadia and the shepherds.
+Here again it is easy enough to miss the point with petty criticism
+about all the things that happen to separate his literary convention
+from ours.  There is nothing more artificial than the cry
+of artificiality as directed against the old [[Pastoral|pastoral]] poetry.
+We have entirely missed all that our fathers meant by looking
+at the externals of what they wrote.  People have been so much
+amused with the mere fact that the china shepherdess was made
+of china that they have not even asked why she was made at all.
+They have been so content to consider the Merry Peasant as a figure
+in an opera that they have not asked even how he came to go to the opera,
+or how he strayed on to the stage.
 
-So came the twilight upon Arcady and the last notes of the pipe sound
-sadly from the beechen grove.  In the great Virgilian [[Poems|poems]] there
-is already something of the sadness; but the loves and the household
-gods linger in lovely lines like that which Mr. Belloc took for a
-test of understanding; incipe parve puer risu cognoscere matrem.
-But with them as with us, the human family itself began to break
-down under servile organisation and the herding of the towns.
-The urban mob became enlightened; that is it lost the mental energy
-that could create myths.  All round the circle of the Mediterranean
-cities the people mourned for the loss of gods and were consoled
-with gladiators.  And meanwhile something similar was happening
-to that intellectual aristocracy of antiquity that had been walking
-about and talking at large ever since Socrates and Pythagoras.
-They began to betray to the world the fact that they were walking
-in a circle and saying the same thing over and over again.
-[[philosophy|Philosophy]] began to be a joke; it also began to be a bore.
-That unnatural simplification of everything into one system or another,
-which we have noted as the fault of the philosopher, revealed at once
-its finality and its futility.  Everything was virtue or everything was
-happiness or everything was fate or everything was good or everything
-was bad; anyhow, everything was everything and there was no more
-to be said; so they said it.  Everywhere the sages had degenerated
-into sophists; that is, into hired rhetoricians or askers of riddles.
-It is one of the symptoms of this that the sage begins to turn
-not only into a sophist but into a magician.  A touch of oriental
-occultism is very much appreciated in the best houses.
-As the philosopher is already a society entertainer, he may as [[Well|well]]
-also be a conjurer.
+In short, one have only to ask why there is a china shepherdess
+and not a china shopkeeper.  Why were not mantelpieces adorned
+with figures of [[City|city]] merchants in elegant attitudes; of ironmasters
+wrought in iron or gold speculators in gold?  Why did the opera
+exhibit a Merry Peasant and not a Merry Politician?  Why was
+there not a ballet of bankers, pirouetting upon pointed toes?
+Because the ancient instinct and [[Humour|humour]] of humanity have always
+told them, under whatever conventions, that the conventions of
+complex cities were less really healthy and happy than the customs
+of the countryside.  So it is with the [[Eternity|eternity]] of the Eclogues.
+A modern poet did indeed write things called Fleet Street Eclogues,
+in which poets took the place of the shepherds.  But nobody has yet
+written anything called Wall Street Eclogues, in which millionaires
+should take the place of the poets.  And the reason is that there
+is a real if only a recurrent yearning for that sort of simplicity;
+and there is never that sort of yearning for that sort of complexity.
+The key to the mystery of the Merry Peasant is that the peasant often
+is merry.  Those who do not believe it are simply those who do not
+know anything about him, and therefore do not know which are his
+times for merriment.  Those who do not believe in the shepherd's
+feast or [[Song|song]] are merely ignorant of the shepherd's calendar.
+The real shepherd is indeed very different from the ideal shepherd,
+but that is no reason for forgetting the reality at the root
+of the ideal.  It needs a [[Truth|truth]] to make a tradition.
+It needs a tradition to make a convention.  [[Pastoral]] poetry is
+certainly often a convention, especially in a social decline.
+It was in a social decline that Watteau shepherds and shepherdesses
+lounged about the gardens of Versailles.  It was also in a social
+decline that shepherds and shepherdesses continued to pipe and [[Dance|dance]]
+through the most faded imitations of Virgil.  But that is no reason
+for dismissing the dying paganism without ever understanding its life.
+It is no reason for forgetting that the very word Pagan is the same
+as the word Peasant.  We may say that this art is only artificiality;
+but it is not a [[Love|love]] of the artificial.  On the contrary,
+it is in its very [[Nature|nature]] only the failure of [[Nature|nature]]-worship,
+or the [[Love|love]] of the natural

@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 8 (part 1)"
+title: "Great Expectations — Chapter 8 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -124,10 +124,3 @@ all the strong beer that’s brewed there now, boy.”
 
 “Better not try to brew beer there now, or it would turn out sour, boy;
 don’t you think so?”
-
-“It looks like it, miss.”
-
-“Not that anybody means to try,” she added, “for that’s all done with,
-and the place will stand as idle as it is till it falls. As to strong
-beer, there’s enough of it in the cellars already, to drown the Manor
-[[house|House]].”

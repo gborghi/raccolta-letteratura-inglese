@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 64 (part 2)"
+title: "Barnaby Rudge — Chapter 64 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_64/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_64/part_03">part 03 ›</a></div>
 </nav>
 
+
+He was down again, and up, and down once more, and buffeting with a
+score of them, who bandied him from hand to hand, when one tall fellow,
+fresh from a slaughter-[[house]], whose dress and great thigh-boots smoked
+hot with grease and [[Blood|blood]], raised a pole-axe, and swearing a horrible
+oath, aimed it at the old man’s uncovered head. At that instant, and in
+the very act, he fell himself, as if struck by [[Lightning|lightning]], and over his
+[[Body|body]] a one-armed man came darting to the locksmith’s side. Another man
+was with him, and both caught the locksmith roughly in their grasp.
 
 ‘Leave him to us!’ they cried to Hugh--struggling, as they spoke, to
 force a passage backward through the crowd. ‘Leave him to us. Why do you
@@ -102,23 +111,3 @@ pump; of which buckets full were passed from man to man among the crowd;
 but such was the strong [[Desire|desire]] of all to drink, and such the fighting to
 be first, that, for the most part, the whole contents were spilled upon
 the ground, without the lips of one man being moistened.
-
-Meanwhile, and in the midst of all the roar and outcry, those who were
-nearest to the pile, heaped up again the burning fragments that came
-toppling down, and raked the [[Fire|fire]] about the door, which, although a
-sheet of flame, was still a door fast locked and barred, and kept
-them out. Great pieces of blazing wood were passed, besides, above the
-people’s heads to such as stood about the ladders, and some of these,
-climbing up to the topmost stave, and holding on with one hand by the
-[[Prison|prison]] wall, exerted all their skill and force to cast these [[Fire|fire]]-brands
-on the roof, or down into the yards within. In many instances their
-efforts were successful; which occasioned a new and appalling addition
-to the horrors of the scene: for the prisoners within, seeing from
-between their bars that the [[Fire|fire]] caught in many places and thrived
-fiercely, and being all locked up in strong cells for the [[Night|night]], began
-to know that they were in danger of being burnt alive. This terrible
-[[Fear|fear]], spreading from cell to cell and from yard to yard, vented itself
-in such dismal cries and wailings, and in such dreadful shrieks for
-help, that the whole jail resounded with the noise; which was loudly
-heard even above the shouting of the mob and roaring of the flames, and
-was so full of agony and [[Despair|despair]], that it made the boldest tremble.

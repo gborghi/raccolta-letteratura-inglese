@@ -35,7 +35,7 @@ than our life, and I have even read a literary theory according
 to which The Merry Month of May was a purely classical convention,
 taken wholesale by the English poets from the Provençal poets.
 So that Chaucer and Dunbar, huddled up in mackintoshes
-and cowering over stoves, wrote the praises of [[spring]]
+and cowering over stoves, wrote the praises of [[Spring|spring]]
 and [[Summer|summer]] with freezing fingers, and made purely ritual
 salutations to invisible [[Flowers|flowers]] and impassable fields.
 I do not believe in this bitter interpretation, but then,

@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 36 (part 2)"
+title: "Shirley — Chapter 36 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_36/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_36/part_03">part 03 ›</a></div>
 </nav>
 
+
+me; I dared not only _wish_ but _will_ an interview with her. I dared
+
+summon [[Solitude|solitude]] to guard us. Very decidedly I called Henry to the door.
+
+Without hesitation I said, 'Go where you will, my boy; but, till I call
 
 you, return not here.'
 
@@ -225,19 +231,3 @@ savage girl as a slave--she could not be a wife. I know no white woman
 whom I [[Love|love]] that would accompany me; but I am certain Liberty will await
 
 me, sitting under a pine. When I call her she will come to my loghouse,
-
-and she shall fill my arms.'
-
-
-
-"She could not hear me speak so unmoved, and she _was_ moved. It was
-
-right--I meant to move her. She could not answer me, nor could she look
-
-at me. I should have been sorry if she could have done either. Her cheek
-
-glowed as if a crimson flower through whose petals the sun shone had
-
-cast its light upon it. On the white lid and dark lashes of her downcast
-
-eye trembled all that is graceful in the sense of half-painful,

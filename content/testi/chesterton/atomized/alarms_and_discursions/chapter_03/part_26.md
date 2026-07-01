@@ -14,115 +14,119 @@ tags:
 </nav>
 
 
-For the robbers have not vanished from the old high forests
-to the west of the great [[City|city]].  The thieves have not vanished;
-they have grown so large that they are invisible.  You do not
-see the word "Asia" written across a map of that neighbourhood;
-nor do you see the word "Thief" written across the countrysides
-of England; though it is really written in equally large letters.
-I know men governing despotically great stretches of that country,
-whose every step in life has been such that a slip would have sent
-them to Dartmoor; but they trod along the high hard wall between right
-and wrong, the wall as sharp as a [[Sword|sword]]-edge, as softly and craftily
-and lightly as a cat.  The vastness of their silent violence itself
-obscured what they were at; if they seem to stand for the rights
-of property it is really because they have so often invaded them.
-And if they do not break the laws, it is only because they make them.
-
 * * * * *
 
-But after all we only need a Steward of the Chiltern Hundreds
-who really understands cats and thieves.  Men hunt one animal
-differently from another; and the rich could catch swindlers
-as dexterously as they catch otters or antlered deer if they
-were really at all keen upon doing it.  But then they never have
-an uncle with antlers; nor a personal friend who is an otter.
-When some of the great lords that lie in the churchyard behind me
-went out against their foes in those deep woods beneath I wager
-that they had bows against the bows of the outlaws, and spears against
-the spears of the robber knights.  They knew what they were about;
-they fought the evildoers of their age with the weapons of their age.
-If the same common sense were applied to commercial law,
-in forty-eight hours it would be all over with the American Trusts
-and the African forward finance.  But it will not be done:
-for the governing class either does not care, or cares very much,
-for the criminals, and as for me, I had a delusive opportunity
-of being Constable of Beaconsfield (with grossly inadequate powers),
-but I [[Fear|fear]] I shall never really be Steward of the Chiltern Hundreds.
+Let me take one example which may mark out the outline of the contention.
+Open the nearest comic paper and let your eye rest lovingly upon
+a joke about a mother-in-law. Now, the joke, as presented for
+the populace, will probably be a simple joke; the old lady will be
+tall and stout, the hen-pecked husband will be small and cowering.
+But for all that, a mother-in-law is not a simple idea.
+She is a very subtle idea.  The problem is not that she is big
+and arrogant; she is frequently little and quite extraordinarily nice.
+The problem of the mother-in-law is that she is like the twilight:
+half one thing and half another.  Now, this twilight [[Truth|truth]],
+this fine and even tender embarrassment, might be rendered,
+as it really is, by a poet, only here the poet would have to be
+some very penetrating and sincere novelist, like George Meredith,
+or Mr. H. G. Wells, whose "Ann Veronica" I have just been reading
+with delight.  I would trust the fine poets and novelists
+because they follow the fairy clue given them in _Comic Cuts_.
+But suppose [[The Professor|the Professor]] appears, and suppose he says (as he almost
+certainly will), "A mother-in-law is merely a fellow-citizen.
+Considerations of sex should not interfere with [[Comradeship|comradeship]].
+Regard for age should not influence the intellect.  A mother-in-law
+is merely Another Mind.  We should free ourselves from these tribal
+hierarchies and degrees."  Now, when [[The Professor|the Professor]] says this (as he
+always does), I say to him, "Sir, you are coarser than _Comic Cuts_.
+You are more vulgar and blundering than the most elephantine
+music-hall artiste.  You are blinder and grosser than the mob.
+These vulgar knockabouts have, at least, got hold of a social shade
+and real mental distinction, though they can only express it clumsily.
+You are so clumsy that you cannot get hold of it at all.
+If you really cannot see that the bridegroom's mother and the bride
+have any reason for constraint or diffidence, then you are neither
+polite nor humane:  you have no sympathy in you for the deep
+and doubtful hearts of human folk."  It is better even to put
+the difficulty as the vulgar put it than to be pertly unconscious
+of the difficulty altogether.
+
+The same question might be considered [[Well|well]] enough in the old
+proverb that two is company and three is none.  This proverb
+is the [[Truth|truth]] put popularly:  that is, it is the [[Truth|truth]] put wrong.
+Certainly it is untrue that three is no company.  Three is
+splendid company:  three is the ideal number for pure [[Comradeship|comradeship]]:
+as in the Three Musketeers.  But if you reject the proverb altogether;
+if you say that two and three are the same sort of company;
+if you cannot see that there is a wider abyss between two
+and three than between three and three million--then I regret
+to inform you that you belong to the Third Class of human beings;
+that you shall have no company either of two or three, but shall
+be [[Alone|alone]] in a howling [[Desert|desert]] till you die.
 
 -/-
 
-The Field of [[Blood]]
+The Steward of the Chiltern Hundreds
 
-IN my daily paper this morning I read the following interesting
-paragraphs, which take my mind back to an England which I do not
-remember and which, therefore (perhaps), I admire.
+THE other day on a stray spur of the Chiltern Hills I
+climbed up upon one of those high, abrupt, windy churchyards
+from which the dead seem to look down upon all the living.
+It was a mountain of [[Ghosts|ghosts]] as Olympus was a mountain of gods.
+In that church lay the bones of great Puritan lords, of a [[Time|time]] when most
+of the power of England was Puritan, even of the Established Church.
+And below these uplifted bones lay the huge and hollow valleys
+of the English countryside, where the motors went by every now
+and then like meteors, where stood out in white squares and oblongs
+in the chequered forest many of the country seats even of those
+same families now dulled with wealth or decayed with Toryism.
+And looking over that deep green prospect on that luminous
+yellow evening, a lovely and austere thought came into my mind,
+a thought as beautiful as the green wood and as [[Grave|grave]] as the tombs.
+The thought was this:  that I should like to go into Parliament,
+quarrel with my party, accept the Stewardship of the Chiltern Hundreds,
+and then refuse to give it up.
 
-"Nearly sixty years ago--on 4 September, 1850--the Austrian
-General Haynau, who had gained an unenviable fame throughout the world
-by his ferocious methods in suppressing the Hungarian revolution in 1849,
-while on a visit to this country, was belaboured in the streets
-of [[London]] by the draymen of Messrs.  Barclay, Perkins and Co.,
-whose brewery he had just inspected in company of an adjutant.
-Popular delight was so great that the [[government|Government]] of the [[Time|time]]
-did not dare to prosecute the assailants, and the General--
-the 'women-flogger,' as he was called by the people--had to leave
-these shores without remedy.
-
-"He returned to his own country and settled upon his estate at Szekeres,
-which is close to the commune above-mentioned. By his will the estate
-passed to his daughter, after whose [[Death|death]] it was to be presented
-to the commune.  This daughter has just died, but the Communal Council,
-after much deliberation, has declined to accept the gift,
-and ordered that the estate should be left to fall out of cultivation,
-and be called the 'Bloody Meadow.'"
-
-Now that is an example of how things happen under an honest democratical
-impulse.  I do not dwell specially on the earlier part of the story,
-though the earlier part of the story is astonishingly interesting.
-It recalls the days when Englishmen were potential lighters; that is,
-potential rebels.  It is not for lack of agonies of intellectual anger:
-the Sultan and the late [[King]] Leopold have been denounced as heartily
-as General Haynau.  But I [[Doubt|doubt]] if they would have been physically
-thrashed in the [[London]] streets.
-
-It is not the tyrants that are lacking, but the draymen.  Nevertheless, it
-is not upon the historic heroes of Barclay, Perkins and Co., that I build
-all my [[Hope|hope]].  Fine as it was, it was not a full and perfect revolution.
-A brewer's drayman beating an eminent European General with a stick,
-though a singularly bright and pleasing vision, is not a complete one.
-Only when the brewer's drayman beats the brewer with a stick
-shall we see the clear and radiant sunrise of British
-[[Self|self]]-[[government]]. The fun will really start when we begin to thump
-the oppressors of England as [[Well|well]] as the oppressors of Hungary.
-It is, however, a definite decline in the spiritual character
-of draymen that now they can thump neither one nor the other.
+We are so proud in England of our crazy constitutional anomalies
+that I fancy that very few readers indeed will need to be told
+about the Steward of the Chiltern Hundreds.  But in case there
+should be here or there one happy man who has never heard of such
+twisted tomfooleries, I will rapidly remind you what this legal
+fiction is.  As it is quite a voluntary, sometimes even an eager,
+affair to get into Parliament, you would naturally suppose
+that it would be also a voluntary matter to get out again.
+You would think your fellow-members would be indifferent,
+or even relieved to see you go; especially as (by another exercise
+of the shrewd, illogical old English common sense) they have carefully
+built the room too small for the people who have to sit in it.
+But not so, my pippins, as it says in the "Iliad." If you are
+merely a member of Parliament (Lord knows why) you can't resign.
+But if you are a Minister of the [[Crown]] (Lord knows why) you can.
+It is necessary to get into the Ministry in order to get out
+of the [[house|House]]; and they have to give you some office that doesn't
+exist or that nobody else wants and thus unlock the door.
+So you go to the Prime Minister, concealing your air of fatigue,
+and say, "It has been the [[Ambition|ambition]] of my life to be Steward of the
+Chiltern Hundreds."  The Prime Minister then replies, "I can imagine
+no man more fitted both morally and mentally for that high office."
+He then gives it you, and you hurriedly leave, reflecting how
+the republics of the Continent reel anarchically to and fro for lack
+of a little solid English directness and simplicity.
 
 * * * * *
 
-But, as I have already suggested, my real quarrel is not
-about the first part of the extract, but about the second.
-Whether or no the draymen of Barclay and Perkins have degenerated,
-the Commune which includes Szekeres has not degenerated.
-By the way, the Commune which includes Szekeres is called
-Kissekeres; I trust that this frank avowal will excuse me from
-the necessity of mentioning either of these places again by name.
-The Commune is still capable of performing direct democratic actions,
-if necessary, with a stick.
-
-I say with a stick, not with sticks, for that is the whole argument
-about [[democracy]].  A people is a [[Soul|soul]]; and if you want to know
-what a [[Soul|soul]] is, I can only answer that it is something that can
-sin and that can sacrifice itself.  A people can commit theft;
-a people can confess theft; a people can repent of theft.
-That is the idea of the republic.  Now, most modern people have got
-into their heads the idea that democracies are dull, drifting things,
-a mere black swarm or slide of clerks to their accustomed doom.
-In most modern novels and essays it is insisted (by way of contrast)
-that a walking gentleman may have adventures as he walks.
-It is insisted that an [[aristocrat]] can commit crimes, because an [[aristocrat]]
-always cultivates liberty.  But, in [[Truth|truth]], a people can have adventures,
-as Israel did crawling through the [[Desert|desert]] to the promised land.
-A people can do heroic deeds; a people can commit crimes;
-the French people did both in the Revolution; the Irish people
-have done both in their much purer and more honourable progress.
+Now, the thought that struck me like a thunderbolt as I sat on
+the Chiltern slope was that I would like to get the Prime Minister
+to give me the Chiltern Hundreds, and then startle and disturb him
+by showing the utmost interest in my work.  I should profess a general
+knowledge of my duties, but wish to be instructed in the details.
+I should ask to see the Under-Steward and the Under-Under-Steward,
+and all the fine staff of experienced permanent officials who are
+the glory of this department.  And, indeed, my enthusiasm would
+not be wholly unreal.  For as far as I can recollect the original
+duties of a Steward of the Chiltern Hundreds were to put down
+the outlaws and brigands in that part of the world.  [[Well]], there are
+a great many outlaws and brigands in that part of the world still,
+and though their methods have so largely altered as to require
+a corresponding alteration in the tactics of the Steward, I do
+not see why an energetic and public-spirited Steward should not
+nab them yet.

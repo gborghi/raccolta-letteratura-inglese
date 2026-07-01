@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 62: A LIGHT SHINES ON MY WAY (part 1)"
+title: "David Copperfield — Chapter 62: A LIGHT SHINES ON MY WAY (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"

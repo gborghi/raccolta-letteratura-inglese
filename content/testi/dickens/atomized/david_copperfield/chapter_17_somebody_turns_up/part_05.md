@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 17: SOMEBODY TURNS UP (part 5)"
+title: "David Copperfield — Chapter 17: SOMEBODY TURNS UP (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -132,10 +132,3 @@ was left. To borrow, of that branch of my family, the money to return to
 [[London]], and to return at any sacrifice.’
 
 ‘Then you all came back again, ma’am?’ I said.
-
-‘We all came back again,’ replied Mrs. Micawber. ‘Since then, I have
-consulted other branches of my family on the course which it is most
-expedient for Mr. Micawber to take--for I maintain that he must take
-some course, Master Copperfield,’ said Mrs. Micawber, argumentatively.
-‘It is clear that a family of six, not including a domestic, cannot live
-upon air.’

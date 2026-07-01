@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 19 (part 4)"
+title: "The Professor — Chapter 19 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_professor/chapter_20/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/the_professor/chapter_20/part_05">part 05 ›</a></div>
 </nav>
 
+
+and, at the foot of the stone, was an allotment of turf freshly turned
+
+up, a new-made [[Grave|grave]]. I put on my spectacles, and passed softly close
+
+behind her; glancing at the [[Inscription|inscription]] on the stone, I read, “Julienne
+
+Henri, died at Brussels, aged sixty. August 10th, 18--.” Having perused
+
+the [[Inscription|inscription]], I looked down at the form sitting bent and thoughtful
+
+just under my eyes, unconscious of the vicinity of any living thing; it
+
+was a slim, youthful figure in mourning apparel of the plainest black
+
+stuff, with a little simple, black crape bonnet; I felt, as [[Well|well]] as
 
 saw, who it was; and, moving neither hand nor foot, I stood some moments
 
@@ -35,8 +51,6 @@ following with my eyes the track of sorrow on the turf of a
 graveyard--here was my lost [[Jewel|jewel]] dropped on the tear-fed herbage,
 
 nestling in the messy and mouldy roots of yew-trees.
-
-
 
 Frances sat very quiet, her elbow on her knee, and her head on her hand.
 
@@ -90,8 +104,6 @@ out after the heavy [[Summer|summer]] shower; and what fertilizes more rapidly t
 
 that beam, burning almost like [[Fire|fire]] in its ardour?
 
-
-
 I hate boldness--that boldness which is of the brassy brow and insensate
 
 nerves; but I [[Love|love]] the [[Courage|courage]] of the strong heart, the fervour of the
@@ -102,11 +114,7 @@ hazel eye when it did not [[Fear|fear]] to look straight into mine; I loved the
 
 tones with which she uttered the words--
 
-
-
 “Mon maitre! mon maitre!”
-
-
 
 I loved the movement with which she confided her hand to my hand; I
 
@@ -150,8 +158,6 @@ cemetery, I felt I had another sentiment, as strong as confidence, as
 
 firm as respect, more fervid than either--that of [[Love|love]].
 
-
-
 “[[Well]], my pupil,” said I, as the ominous sounding gate swung to behind
 
 us--“[[Well]], I have found you again: a month’s search has seemed long,
@@ -159,8 +165,6 @@ us--“[[Well]], I have found you again: a month’s search has seemed long,
 and I little thought to have discovered my lost sheep straying amongst
 
 graves.”
-
-
 
 Never had I addressed her but as “Mademoiselle” before, and to speak
 
@@ -170,8 +174,6 @@ me that this language ruffled none of her feelings, woke no discord in
 
 her heart:
 
-
-
 “Mon maitre,” she said, “have you troubled yourself to seek me? I little
 
 imagined you would think much of my absence, but I grieved bitterly to
@@ -179,45 +181,3 @@ imagined you would think much of my absence, but I grieved bitterly to
 be taken away from you. I was sorry for that circumstance when heavier
 
 troubles ought to have made me forget it.”
-
-
-
-“Your aunt is dead?”
-
-
-
-“Yes, a fortnight since, and she died full of regret, which I could not
-
-chase from her mind; she kept repeating, even during the last [[Night|night]]
-
-of her existence, ‘Frances, you will be so lonely when I am gone,
-
-so friendless:’ she wished too that she could have been buried in
-
-Switzerland, and it was I who persuaded her in her old age to leave the
-
-banks of Lake Leman, and to come, only as it seems to die, in this flat
-
-region of Flanders. Willingly would I have observed her last wish, and
-
-taken her remains back to our own country, but that was impossible; I
-
-was forced to lay her here.”
-
-
-
-“She was ill but a short [[Time|time]], I presume?”
-
-
-
-“But three weeks. When she began to sink I asked Mdlle. Reuter’s leave
-
-to stay with her and wait on her; I readily got leave.”
-
-
-
-“Do you return to the pensionnat!” I demanded hastily.
-
-
-
-“Monsieur, when I had been at [[Home|home]] a week Mdlle. Reuter called one

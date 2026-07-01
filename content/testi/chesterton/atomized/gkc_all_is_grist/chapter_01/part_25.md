@@ -14,6 +14,67 @@ tags:
 </nav>
 
 
+Quackery is false science; it is everywhere apparent in cheap
+and popular science; and the chief mark of it is that men
+who begin by boasting that they have cast away all dogmas go on
+to be incessantly, impudently, and quite irrationally dogmatic.
+Let any one run his eye over any average newspaper or
+popular magazine, and note the number of positive assertions
+made in the name of popular science, without the least pretence
+of scientific proof, or even of any adequate scientific authority.
+It is all the worse because the dogmas are generally concerned
+with domes tic and very delicate human relations; with heredity
+and home environment; and everything that can be coloured by the
+pompous and pretentious polysyllables of Psychology and Education.
+At least many of the old dogmas, right or wrong, were concerned
+with cherubim and seraphim, with lost spirits and beatified souls;
+but these dogmas always directly attack fathers and wives
+and children, without offering either credentials or evidence.
+The general rule is that nothing must be accepted on any ancient
+or admitted authority, but everything must be accepted on any new or
+nameless authority, or accepted even more eagerly on no authority at all.
+It is quite satisfactory, of course, if any nobody says in any newspaper:
+`Dr. Binns, of Buffalo, has told us that, while aunts may be fond
+of nephews, great-aunts always have an instinctive hatred and aversion
+both for nephews and nieces.'  But it is even more convincing than
+that if the information is anonymous in every way, and the writer
+merely states:  `Recent science has shown that second cousins are
+naturally antagonistic, but that in second cousins once removed,
+the antagonism is sometimes introverted into suicidal mania.'
+Where all these statements come from nobody knows.  Where they
+all go to everybody ought to know, since they go to everybody.
+But it is in practice very difficult to discover what becomes of them,
+and whether they are really treated as wisdom or waste paper.
+On the whole, I fear it is more likely that everybody believes them
+than that anybody takes the trouble to check them.
+
+This evil is wilder in America, but I doubt if it is worse in America.
+It is scattered all over our own Press and public speech, and is all
+the more insidious because it is not so much associated with the
+conspicuous figures of picturesque charlatans and fantastic prophets,
+such as strut in strange plumage about the plains of the West.
+Anyhow, it is scattered so widely both here and there that the difficulty
+is to pick up any adequate example.  For the triviality of one specimen
+does not convey the tremendous and mountainous multitude of specimens.
+Here is one example, however, which I find in a periodical
+of considerable intellectual pretensions, to judge by its title.
+Like most of these professed organs of thought, it is marked
+by a complete incapacity for any precision in thinking.
+But I mention it, not because it is worse than the rest, but because
+it is representative of the rest and all the rest are no better.
+The instructor informs us that there can be between parent and child
+a negative transference (the intense italics arc his), which seems
+to mean, not merely that the child will hate the parent, but that
+the child will love somebody who is the opposite of the hated parent.
+`Thus a [[Child|child]] who is treated coldly by his mother will come
+to reject all people like his mother and seek for her opposite.
+We will say the mother is good, honest, moral, even pious.
+The boy will gravitate to some one crooked, immoral, or even wicked,
+in short, his mother's goodness may send him to the devil,
+though all the [[Time|time]] she may be wondering why her excellent precepts,
+her discipline, her goodness are failing to develop like traits
+in her son.'
+
 You will note the utter chaos of terminology and definition,
 even in these few lines.  Some of us, to begin with, might hesitate
 to insist on the goodness of a mother who treated a [[Child|child]] coldly.
@@ -65,77 +126,3 @@ that the people may learn Science from men who have never learnt [[logic|Logic]]
 Now that everybody is talking about the public being informed of this
 or that, is there any way of stopping the public being misinformed
 in this endless and exuberant fashion?
-
-XXII.  On a Generally Accepted Mistake
-
-THE current cant, which is a cant against cant, has produced
-a crop of modern proverbs, or phrases, which everybody repeats
-for the hundredth [[Time|time]] and nobody examines for the first [[Time|time]],
-or they would instantly be found to be false.  A typical case is that
-which we have all heard again and again in some such form as this:
-`In every age people have thought their own time prosaic
-and only the past poetical.  If you think the medieval or any
-other period picturesque, that is only the glamour of antiquity;
-men in those days felt about them as you do about these days.
-Their costumes and customs were as dull and trivial to them as yours
-are to you.'  The maxim appeals in many ways to the modern mind;
-it merges something with something else; it levels downwards;
-it contradicts the claims of chivalry and religious devotion;
-it is comforting and it is entirely untrue.
-
-Mr. Rudyard Kipling, always the poet of this popular modernity,
-has summarized the notion admirably in a poem about Romance being
-at all times actually in the present and apparently in the past--
-a poem beginning, I think:
-
-    `Farewell, [[Romance]],' the cavemen cried,
-    With bone and flint he went away.
-
-I need hardly say that there is not a grain of anything remotely
-resembling evidence that the cavemen ever cried anything of the sort.
-It is one of the thousand things which are said about them
-because there is no evidence either way.  But there are tons
-of evidence that the earliest men whose motives we can follow
-regarded their own rituals and traditions as reasonably dignified.
-There have been periods in which poets and satirists have
-said that society was degenerating through luxury or laxity,
-and many periods in which they were perfectly right in saying so.
-There have been some periods--not very many--in which men have
-been intensely interested in some special period of the past.
-So the men of the [[Renaissance]] vaguely regarded antiquity as a
-heroic age.  But they did not regard their own as a prosaic age.
-Shakespeare might be thrilled by Plutarch's tales of great men
-in togas and tunics; but that did not prevent him from conceiving
-[[Hamlet]] as an ordinary Elizabethan gentleman, fencing with rapier
-and dagger, wearing probably a ruff and almost certainly a beard.
-Every modern man, when he first heard of [[Hamlet]] in modern dress,
-felt a faint shiver of [[Doubt|doubt]]; even if he was sympathetic,
-he feared that it might be comic.  But Shakespeare probably
-did conceive [[Hamlet]] in modern dress--in his modern dress.
-And there is nothing to show that he thought it in the least comic.
-
-The [[Truth|truth]] is that no other age except the nineteenth century
-(and perhaps our little bit of the twentieth) ever did regard
-its own dress and habits as ugly and undignified.  The thing can
-be tested in a hundred ways, and one is even tolerably familiar.
-Sensational French artists, in the nineteenth century, deliberately
-and defiantly painted pictures from the Gospel in modern dress,
-with [[Christ]] standing among men in trousers and top-hats. It
-was purposely done to `shock' the Salon; needless to say,
-it would have been far too shocking for the Royal Academy.
-Yet it was not the first [[Time|time]] the thing had been done.
-It was only the first [[Time|time]] it had been thought shocking.
-There is not a single one of the previous epochs of Christian art,
-from the stiffest primitive Byzantine to the last realism of the Venetians
-or Dutch, when artists had not painted the Gospel scenes with the dress
-and habits of their own [[Time|time]].  It is not, in plain fact, a question of why
-men think the present fashion ugly and the past fashion beautiful.
-It is a question of why they think this of trousers and top-hats,
-when they did not think it of trunk-hose or togas or tunics.
-Many subtle explanations might be suggested; but I incline myself
-to suspect that the dark secret can, after all, be stated more simply.
-Might I tentatively suggest that top-hats and trousers give us
-this [[Uncanny|uncanny]] impression of ugliness because they are ugly?
-Might I suggest that the mercantile nineteenth century thought
-itself hideous because it was hideous?--and the perception did
-credit to its acumen and even to its [[Humility|humility]].

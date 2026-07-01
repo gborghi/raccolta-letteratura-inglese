@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 39 (part 1)"
+title: "The Tenant of Wildfell Hall — Chapter 39 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -110,7 +110,7 @@ a gleam of hard, keen, sombre satisfaction in his countenance at the
 
 look of impotent wrath and anguish he was too certain to behold in
 
-mine. But on one occasion, when [[arthur|Arthur]] had been behaving particularly
+mine. But on one occasion, when [[Arthur]] had been behaving particularly
 
 ill, and Mr. Huntingdon and his guests had been particularly provoking
 
@@ -195,11 +195,3 @@ others, or my own inexperience or inability to suit their tastes?
 What should I do then? Apply to my brother and explain my circumstances
 
 and my resolves to him? No, no: even if I told him _all_ my grievances,
-
-which I should be very reluctant to do, he would be certain to
-
-disapprove of the step: it would seem like [[Madness|madness]] to him, as it would
-
-to my uncle and aunt, or to Milicent. No; I must have patience and
-
-gather a hoard of my own. Rachel should be my only confidante—I thought

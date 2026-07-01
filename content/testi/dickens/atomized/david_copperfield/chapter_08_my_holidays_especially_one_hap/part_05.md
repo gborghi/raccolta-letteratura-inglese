@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 8: MY HOLIDAYS. ESPECIALLY ONE HAPPY AFTERNOON (part 5)"
+title: "David Copperfield — Chapter 8: MY HOLIDAYS. ESPECIALLY ONE HAPPY AFTERNOON (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_08_my_holidays_especially_one_hap/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_09_i_have_a_memorable_birthday/part_01">part 01 ›</a></div>
 </nav>
 
+
+In the evening, sometimes, I went and sat with Peggotty in the kitchen.
+There I was comfortable, and not afraid of being myself. But neither of
+these resources was approved of in the parlour. The tormenting [[Humour|humour]]
+which was dominant there stopped them both. I was still held to be
+necessary to my poor mother’s training, and, as one of her trials, could
+not be suffered to absent myself.
+
+‘David,’ said Mr. Murdstone, one day after dinner when I was going to
+leave the room as usual; ‘I am sorry to observe that you are of a sullen
+disposition.’
 
 ‘As sulky as a bear!’ said Miss Murdstone.
 

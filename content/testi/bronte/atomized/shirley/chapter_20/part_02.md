@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 20 (part 2)"
+title: "Shirley — Chapter 20 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_20/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_20/part_03">part 03 ›</a></div>
 </nav>
 
+
+"[[Shirley]], you chatter so, I can't fasten you. Be still. And, after all,
+
+authors' heroines are almost as good as authoresses' heroes."
+
+
+
+"Not at all. Women read men more truly than men read women. I'll prove
+
+that in a magazine paper some day when I've [[Time|time]]; only it will never be
+
+inserted. It will be 'declined with thanks,' and left for me at the
 
 publisher's."
 
@@ -211,23 +223,3 @@ talking do?"
 
 
 There is nothing the lower orders like better than a little downright
-
-good-humoured rating. Flattery they scorn very much; honest abuse they
-
-enjoy. They call it speaking plainly, and take a sincere delight in
-
-being the objects thereof. The homely harshness of Miss Keeldar's
-
-salutation won her the ear of the whole throng in a second.
-
-
-
-"We're no war nor some 'at is aboon us, are we?" asked a man, smiling.
-
-
-
-"Nor a whit better. You that should be models of industry are just as
-
-gossip-loving as the idle. Fine, rich people that have nothing to do may
-
-be partly excused for trifling their [[Time|time]] away; you who have to earn

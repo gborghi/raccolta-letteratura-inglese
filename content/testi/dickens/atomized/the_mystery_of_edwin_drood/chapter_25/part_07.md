@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 23 (part 7)"
+title: "The Mystery of Edwin Drood — Chapter 23 (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -13,6 +13,42 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_25/part_06">‹ part 06</a><span></span></div>
 </nav>
 
+
+As I entered the Club-room, Kimber was making the remark: ‘And he still
+half-believes him to be very high in the Church.’
+
+In the act of hanging up my hat on the eighth peg by the door, I caught
+Kimber’s visual ray. He lowered it, and passed a remark on the next
+change of the [[Moon|moon]]. I did not take particular notice of this at the
+moment, because the world was often pleased to be a little shy of
+ecclesiastical topics in my presence. For I felt that I was picked out
+(though perhaps only through a coincidence) to a certain extent to
+represent what I call our glorious constitution in Church and State.
+The phrase may be objected to by cautious minds; but I own to it as
+mine. I threw it off in argument some little [[Time|time]] back. I said: ‘OUR
+GLORIOUS CONSTITUTION in CHURCH and STATE.’
+
+Another member of the Eight Club was Peartree; also member of the Royal
+College of Surgeons. Mr. Peartree is not accountable to me for his
+opinions, and I say no more of them here than that he attends the poor
+gratis whenever they want him, and is not the parish doctor. Mr.
+Peartree may justify it to the grasp of _his_ mind thus to do his
+republican utmost to bring an appointed officer into contempt. Suffice
+it that Mr. Peartree can never justify it to the grasp of _mine_.
+
+Between Peartree and Kimber there was a sickly sort of feeble-minded
+alliance. It came under my particular notice when I sold off Kimber by
+auction. (Goods taken in execution.) He was a widower in a white
+under-waistcoat, and slight shoes with bows, and had two daughters not
+ill-looking. Indeed the reverse. Both daughters taught dancing in
+scholastic establishments for Young Ladies—had done so at Mrs.
+Sapsea’s; nay, Twinkleton’s—and both, in giving lessons, presented the
+unwomanly spectacle of having little fiddles tucked under their chins.
+In spite of which, the younger one might, if I am correctly informed—I
+will raise the veil so far as to say I KNOW she might—have soared for
+life from this degrading taint, but for having the class of mind
+allotted to what I call the common herd, and being so incredibly devoid
+of veneration as to become painfully ludicrous.
 
 When I sold off Kimber without reserve, Peartree (as poor as he can
 hold together) had several prime household lots knocked down to him. I

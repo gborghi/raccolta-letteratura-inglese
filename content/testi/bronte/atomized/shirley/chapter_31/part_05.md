@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 31 (part 5)"
+title: "Shirley — Chapter 31 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,30 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_31/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_32/part_01">part 01 ›</a></div>
 </nav>
 
+
+"An infidel to _your_ religion, an atheist to _your_ god."
+
+
+
+"_An--atheist!!!_"
+
+
+
+"Your god, sir, is the world. In my eyes you too, if not an infidel, are
+
+an idolater. I conceive that you ignorantly worship; in all things you
+
+appear to me too superstitious. Sir, your god, your great Bel, your
+
+fish-tailed Dagon, rises before me as a demon. You, and such as you,
+
+have raised him to a throne, put on him a [[Crown|crown]], given him a sceptre.
+
+Behold how hideously he governs! See him busied at the work he likes
+
+best--making marriages. He binds the young to the old, the strong to the
+
+imbecile. He stretches out the arm of Mezentius, and fetters the dead to
 
 the living. In his realm there is hatred--secret hatred; there is
 

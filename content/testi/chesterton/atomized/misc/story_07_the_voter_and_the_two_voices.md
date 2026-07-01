@@ -1,5 +1,5 @@
 ---
-title: "[[misc]] — THE VOTER AND THE TWO VOICES"
+title: "misc — THE VOTER AND THE TWO VOICES"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 THE VOTER AND THE TWO VOICES
-
 
 The real evil of our Party System is commonly stated wrong.
 It was stated wrong by Lord Rosebery, when he said that it

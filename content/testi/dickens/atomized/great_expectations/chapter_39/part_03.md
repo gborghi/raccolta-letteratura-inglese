@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 39 (part 3)"
+title: "Great Expectations — Chapter 39 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_39/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_39/part_04">part 04 ›</a></div>
 </nav>
 
+
+“May I make so bold,” he said then, with a smile that was like a frown,
+and with a frown that was like a smile, “as ask you _how_ you have done
+[[Well|well]], since you and me was out on them lone shivering marshes?”
 
 “How?”
 
@@ -131,18 +135,3 @@ my own [[Self|self]] and Mr. Jaggers.”
 And, dear boy, how good looking you have growed! There’s bright eyes
 somewheres—eh? Isn’t there bright eyes somewheres, wot you [[Love|love]] the
 thoughts on?”
-
-O [[Estella]], [[Estella]]!
-
-“They shall be yourn, dear boy, if money can buy ’em. Not that a
-gentleman like you, so [[Well|well]] set up as you, can’t win ’em off of his own
-game; but money shall back you! Let me finish wot I was a telling you,
-dear boy. From that there hut and that there hiring-out, I got money
-left me by my master (which died, and had been the same as me), and got
-my liberty and went for myself. In every single thing I went for, I
-went for you. ‘Lord strike a blight upon it,’ I says, wotever it was I
-went for, ‘if it ain’t for him!’ It all prospered wonderful. As I giv’
-you to understand just now, I’m famous for it. It was the money left
-me, and the gains of the first few year wot I sent [[Home|home]] to Mr.
-Jaggers—all for you—when he first come arter you, agreeable to my
-letter.”

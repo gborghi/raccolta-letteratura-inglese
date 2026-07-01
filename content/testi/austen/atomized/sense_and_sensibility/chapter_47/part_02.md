@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 47 (part 2)"
+title: "Sense and Sensibility — Chapter 47 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_47/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_49/part_01">part 01 ›</a></div>
 </nav>
 
+
+“I have not a [[Doubt|doubt]] of it,” said Marianne; “and I have nothing to
+
+regret—nothing but my own folly.”
+
+
+
+“Rather say your mother’s imprudence, my [[Child|child]],” said Mrs. Dashwood;
 
 “_she_ must be answerable.”
 

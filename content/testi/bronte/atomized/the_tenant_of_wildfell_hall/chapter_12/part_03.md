@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 12 (part 3)"
+title: "The Tenant of Wildfell Hall — Chapter 12 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_12/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_12/part_04">part 04 ›</a></div>
 </nav>
 
+
+I was half-way down, a sentiment of strong sympathy for her I had left
+
+behind me had displaced all other feelings, and seemed imperatively to
+
+draw me back: I began to think, “Why am I hurrying so fast in this
+
+direction? Can I find comfort or consolation—peace, certainty,
+
+contentment, all—or anything that I want at [[Home|home]]? and can I leave all
+
+perturbation, sorrow, and anxiety behind me there?”
+
+
+
+And I turned round to look at the old Hall. There was little besides
 
 the chimneys visible above my contracted horizon. I walked back to get
 
@@ -203,31 +219,3 @@ he looks. Oh, gracious! what is the matter?”
 
 
 “No; I want to go to bed,” said I, taking a candle and lighting it at
-
-the one she held in her hand.
-
-
-
-“Oh, Gilbert, how you tremble!” exclaimed my anxious parent. “How white
-
-you look! Do tell me what it is? Has anything happened?”
-
-
-
-“It’s nothing,” cried I, ready to stamp with vexation because the
-
-candle would not light. Then, suppressing my irritation, I added, “I’ve
-
-been walking too fast, that’s all. Good-[[Night|night]],” and marched off to bed,
-
-regardless of the “Walking too fast! where have you been?” that was
-
-called after me from below.
-
-
-
-My mother followed me to the very door of my room with her questionings
-
-and advice concerning my health and my conduct; but I implored her to
-
-let me [[Alone|alone]] till morning; and she withdrew, and at length I had the

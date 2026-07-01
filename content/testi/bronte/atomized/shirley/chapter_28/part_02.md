@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 28 (part 2)"
+title: "Shirley — Chapter 28 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_28/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_28/part_03">part 03 ›</a></div>
 </nav>
 
+
+everywhere, in the closet and on the [[Hill|hill]]-top--noticed that instead of
+
+turning on Rushedge, the top ridge of Stilbro' Moor, she rode forwards
+
+all the way to the town. Scouts were not wanting to mark her destination
 
 there. It was ascertained that she alighted at the door of one Mr.
 
@@ -279,13 +285,3 @@ told me I was a generous boy, and she was proud of me. 'And now,' she
 added, 'in case anything should happen, you will know what to say to
 
 Malice when she comes whispering hard things in your ear, insinuating
-
-that [[Shirley]] has wronged you, that she did not [[Love|love]] you. You will know
-
-that I _did_ [[Love|love]] you, Harry; that no sister could have loved you
-
-better--my own treasure.' Mr. Moore, sir, when I remember her voice, and
-
-recall her look, my heart beats as if it would break its strings. She
-
-_may_ go to heaven before me--if God commands it, she _must_; but the

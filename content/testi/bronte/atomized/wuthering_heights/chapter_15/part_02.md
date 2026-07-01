@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 15 (part 2)"
+title: "Wuthering Heights — Chapter 15 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -116,16 +116,3 @@ spoke to him; so I stood off, and held my tongue, in great perplexity.
 A movement of Catherine’s relieved me a little presently: she put up
 her hand to clasp his neck, and bring her cheek to his as he held her;
 while he, in return, covering her with frantic caresses, said wildly—
-
-“You teach me now how cruel you’ve been—cruel and false. _Why_ did you
-despise me? _Why_ did you betray your own heart, Cathy? I have not one
-word of comfort. You deserve this. You have killed yourself. Yes, you
-may kiss me, and cry; and wring out my kisses and [[Tears|tears]]: they’ll blight
-you—they’ll damn you. You loved me—then what _right_ had you to leave
-me? What right—answer me—for the poor fancy you felt for Linton?
-Because misery and degradation, and [[Death|death]], and nothing that God or
-[[Satan]] could inflict would have parted us, _you_, of your own will, did
-it. I have not broken your heart—_you_ have broken it; and in breaking
-it, you have broken mine. So much the worse for me that I am strong. Do
-I want to live? What kind of living will it be when you—oh, God! would
-_you_ like to live with your [[Soul|soul]] in the [[Grave|grave]]?”

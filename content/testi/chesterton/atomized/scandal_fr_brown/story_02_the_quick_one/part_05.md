@@ -14,6 +14,33 @@ tags:
 </nav>
 
 
+'An accident, I suppose,' said Greenwood doubtfully. 'The man could
+easily get another in the Commercial Room afterwards.'
+
+[[Father Brown]] shook his head. 'You've got to see people as they are. Now
+these sort of men - [[Well|well]], some call them vulgar and some common; but
+that's all likes and dislikes. I'd be content to say that they are
+mostly simple men. Lots of them very good men, very glad to go back to
+the missus and the kids; some of them might be blackguards; might have
+had several missuses; or even murdered several missuses. But most of
+them are simple men; and, mark you, just the least tiny bit drunk. Not
+much; there's many a duke or don at [[Oxford]] drunker; but when that sort
+of man is at that stage of conviviality, he simply can't help noticing
+things, and noticing them very loud. Don't you observe that the least
+little incident jerks them into speech; if the beer froths over, they
+froth over with it, and have to say, âWhoa, [[Emma]],â or âDoing me proud,
+aren't you?â Now I should say it's flatly impossible for five of these
+festive beings to sit round a table in the Commercial Room, and have
+only four glasses set before them, the fifth man being left out, without
+making a shout about it. Probably they would make a shout about it.
+Certainly he would make a shout about it. He wouldn't wait, like an
+Englishman of another class, till he could get a drink quietly later.
+The air would resound with things like, âAnd what about little me?â or,
+âHere, George, have I joined the Band of [[Hope]]?â or, âDo you see any
+green in my turban, George?â But the barman heard no such complaints. I
+take it as certain that the glass of whisky left behind had been nearly
+emptied by somebody else; somebody we haven't thought about yet.'
+
 'But can you think of any such person?' ask the other.
 
 'It's because the manager and the barman won't hear of any such person,
@@ -89,34 +116,3 @@ a man like that - then I do think it matters, matters so much that even
 the modern machinery of police will be a thing that any respectable
 person may make use of ... Oh, don't mention it. And so, for once in a
 way, I really do want to make use of you.'
-
-And so, for some stretch of those strange days and nights, we might
-almost say that the little figure of [[Father Brown]] drove before him into
-action all the armies and engines of the police forces of the [[Crown]], as
-the little figure of Napoleon drove the batteries and the battle - lines
-of the vast strategy that covered Europe. Police stations and post
-offices worked all [[Night|night]]; traffic was stopped, correspondence was
-intercepted, inquiries were made in a hundred places, in order to track
-the flying trail of that ghostly figure, without face or name, with an
-Inverness cape and an Edinburgh ticket.
-
-Meanwhile, of course, the other lines of investigation were not
-neglected. The full report of the post - mortem had not yet come in; but
-everybody seemed certain that it was a case of poisoning. This naturally
-threw the primary suspicion upon the cherry brandy; and this again
-naturally threw the primary suspicion on the hotel.
-
-'Most probably on the manager of the hotel,' said Greenwood gruffly. 'He
-looks a nasty little worm to me. Of course it might be something to do
-with some servant, like the barman; he seems rather a sulky specimen,
-and Raggley might have cursed him a bit, having a flaming temper, though
-he was generally generous enough afterwards. But, after all, as I say,
-the primary responsibility, and therefore the primary suspicion, rests
-on the manager.'
-
-'Oh, I knew the primary suspicion would rest on the manager,' said
-[[Father Brown]]. 'That was why I didn't suspect him. You see, I rather
-fancied somebody else must have known that the primary suspicion would
-rest on the manager; or the servants of the hotel. That is why I said it
-would be easy to kill anybody in the hotel . . . But you'd better go and
-have it out with him, I suppose.'

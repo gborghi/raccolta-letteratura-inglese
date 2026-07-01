@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 28 (part 2)"
+title: "Oliver Twist — Chapter 28 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -120,7 +120,3 @@ it mightn’t have been a little nearer three, when I woke up, and,
 turning round in my bed, as it might be so, (here Mr. Giles turned
 round in his chair, and pulled the corner of the table-cloth over him
 to imitate bed-clothes,) I fancied I heerd a noise.”
-
-At this point of the narrative the cook turned pale, and asked the
-housemaid to shut the door: who asked Brittles, who asked the tinker,
-who pretended not to hear.

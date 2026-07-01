@@ -14,10 +14,20 @@ tags:
 </nav>
 
 
+We arrived at Louisville on the fourth [[Night|night]], and gladly availed
+ourselves of its excellent hotel.  Next day we went on in the Ben
+Franklin, a beautiful mail steamboat, and reached Cincinnati shortly
+after midnight.  Being by this [[Time|time]] nearly tired of sleeping upon
+shelves, we had remained awake to go ashore straightway; and groping a
+passage across the dark decks of other boats, and among labyrinths of
+engine-machinery and leaking casks of molasses, we reached the streets,
+knocked up the porter at the hotel where we had stayed before, and were,
+to our great joy, safely housed soon afterwards.
+
 We rested but one day at Cincinnati, and then resumed our [[Journey|journey]] to
 Sandusky.  As it comprised two varieties of stage-coach travelling,
 which, with those I have already glanced at, comprehend the main
-characteristics of this mode of transit in [[America]], I will take the
+characteristics of this mode of transit in [[america|America]], I will take the
 reader as our fellow-passenger, and pledge myself to perform the distance
 with all possible despatch.
 
@@ -110,37 +120,3 @@ STRAW HAT.  Warm weather, Judge.
 BROWN HAT.  Yes, sir.
 
 STRAW HAT.  There was a snap of cold, last week.
-
-BROWN HAT.  Yes, sir.
-
-STRAW HAT.  Yes, sir.
-
-A pause.  They look at each other, very seriously.
-
-STRAW HAT.  I calculate you’ll have got through that case of the
-corporation, Judge, by this [[Time|time]], now?
-
-BROWN HAT.  Yes, sir.
-
-STRAW HAT.  How did the verdict go, sir?
-
-BROWN HAT.  For the defendant, sir.
-
-STRAW HAT.  (Interrogatively.)  Yes, sir?
-
-BROWN HAT. (Affirmatively.)  Yes, sir.
-
-BOTH.  (Musingly, as each gazes down the street.)  Yes, sir.
-
-Another pause.  They look at each other again, still more seriously than
-before.
-
-BROWN HAT.  This coach is rather behind its [[Time|time]] to-day, I guess.
-
-STRAW HAT.  (Doubtingly.)  Yes, sir.
-
-BROWN HAT.  (Looking at his watch.)  Yes, sir; nigh upon two hours.
-
-STRAW HAT.  (Raising his eyebrows in very great surprise.)  Yes, sir!
-
-BROWN HAT.  (Decisively, as he puts up his watch.)  Yes, sir.

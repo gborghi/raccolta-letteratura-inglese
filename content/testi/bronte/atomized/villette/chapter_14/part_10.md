@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 14 (part 10)"
+title: "Villette — Chapter 14 (part 10)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,45 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_14/part_09">‹ part 09</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_15/part_01">part 01 ›</a></div>
 </nav>
 
+
+I slackened my grasp, and she darted off. I did not care to pursue her.
+
+Somehow I could not avoid returning once more in the direction of the
+corridor to get another glimpse of Dr. John; but I met him on the
+[[Garden|garden]]-steps, standing where the light from a [[Window|window]] fell broad. His
+[[Well|well]]-proportioned figure was not to be mistaken, for I [[Doubt|doubt]] whether
+there was another in that assemblage his equal. He carried his hat in
+his hand; his uncovered head, his face and fine brow were most handsome
+and manly. _His_ features were not delicate, not slight like those of a
+woman, nor were they cold, frivolous, and feeble; though [[Well|well]] cut, they
+were not so chiselled, so frittered away, as to lose in expression or
+significance what they gained in unmeaning symmetry. Much feeling spoke
+in them at times, and more sat silent in his eye. Such at least were my
+thoughts of him: to me he seemed all this. An inexpressible sense of
+[[Wonder|wonder]] occupied me, as I looked at this man, and reflected that _he_
+could not be slighted.
+
+It was, not my intention to approach or address him in the [[Garden|garden]], our
+terms of acquaintance not warranting such a step; I had only meant to
+view him in the crowd—myself unseen: coming upon him thus [[Alone|alone]], I
+withdrew. But he was looking out for me, or rather for her who had been
+with me: therefore he descended the steps, and followed me down the
+alley.
+
+“You know Miss Fanshawe? I have often wished to ask whether you knew
+her,” said he.
+
+“Yes: I know her.”
+
+“Intimately?”
+
+“Quite as intimately as I wish.”
+
+“What have you done with her now?”
+
+“Am I her keeper?” I felt inclined to ask; but I simply answered, “I
+have shaken her [[Well|well]], and would have shaken her better, but she escaped
+out of my hands and ran away.”
 
 “Would you favour me,” he asked, “by watching over her this one
 evening, and observing that she does nothing imprudent—does not, for

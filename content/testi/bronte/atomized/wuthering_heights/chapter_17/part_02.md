@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 17 (part 2)"
+title: "Wuthering Heights — Chapter 17 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -117,12 +117,3 @@ endure to the last, and not once attempt a repayment?’
 retaliation that wouldn’t recoil on myself; but treachery and violence
 are spears pointed at both ends; they wound those who resort to them
 worse than their enemies.’
-
-“‘Treachery and violence are a just return for treachery and violence!’
-cried Hindley. ‘Mrs. [[Heathcliff]], I’ll ask you to do nothing; but sit
-still and be dumb. Tell me now, can you? I’m sure you would have as
-much pleasure as I in witnessing the conclusion of the fiend’s
-existence; he’ll be _your_ [[Death|death]] unless you overreach him; and he’ll be
-_my_ ruin. Damn the hellish [[Villain|villain]]! He knocks at the door as if he
-were master here already! Promise to hold your tongue, and before that
-[[Clock|clock]] strikes—it wants three minutes of one—you’re a free woman!’

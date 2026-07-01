@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 21 (part 1)"
+title: "Wuthering Heights — Chapter 21 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -116,7 +116,3 @@ was compelled to follow. Finally, she dived into a hollow; and before I
 came in sight of her again, she was two miles nearer [[Wuthering Heights]]
 than her own [[Home|home]]; and I beheld a couple of persons arrest her, one of
 whom I felt convinced was Mr. [[Heathcliff]] himself.
-
-Cathy had been caught in the fact of plundering, or, at least, hunting
-out the nests of the grouse. The Heights were [[Heathcliff]]’s land, and he
-was reproving the poacher.

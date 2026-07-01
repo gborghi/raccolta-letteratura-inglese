@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 17"
+title: "Nicholas Nickleby — Chapter 17"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -81,7 +81,7 @@ Having made this promise with much affability, he retired and left Kate
 
 There was not much to amuse in the room; of which the most attractive
 feature was, a half-length portrait in oil, of Mr. Mantalini, whom the
-[[artist]] had depicted scratching his head in an easy manner, and thus
+[[Artist|artist]] had depicted scratching his head in an easy manner, and thus
 displaying to advantage a diamond ring, the gift of Madame Mantalini
 before her [[Marriage|marriage]]. There was, however, the sound of voices in
 conversation in the next room; and as the conversation was loud and the

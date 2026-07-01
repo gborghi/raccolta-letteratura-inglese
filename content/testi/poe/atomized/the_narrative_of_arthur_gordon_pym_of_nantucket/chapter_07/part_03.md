@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 8 (part 3)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 8 (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_07/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_08/part_01">part 01 ›</a></div>
 </nav>
 
+
+This man, it will be remembered, I had knocked down with a blow from
+
+the pump-handle at the commencement of the attack. He now lay
+
+motionless by the door of the shattered stateroom; but, upon Peters
+
+touching him with his foot, he spoke, and entreated for [[Mercy|mercy]]. His head
+
+was only slightly cut, and otherwise he had received no injury, having
 
 been merely stunned by the blow. He now got up, and, for the present,
 

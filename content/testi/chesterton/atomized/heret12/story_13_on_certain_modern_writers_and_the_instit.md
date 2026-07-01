@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]] — On Certain Modern Writers and the Institution of the Family"
+title: "heret12 — On Certain Modern Writers and the Institution of the Family"
 author: "Chesterton"
 unitType: story
 parentWork: "works/heret12-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 XIV.  On Certain Modern Writers and the Institution of the Family
-
 
 The family may fairly be considered, one would think,
 an ultimate human institution.  Every one would admit

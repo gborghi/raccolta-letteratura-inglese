@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 17 (part 5)"
+title: "Jane Eyre — Chapter 17 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,35 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_17/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_17/part_06">part 06 ›</a></div>
 </nav>
 
+
+Blanche and Mary were of equal stature,—straight and tall as poplars.
+Mary was too slim for her height, but Blanche was moulded like a Dian.
+I regarded her, of course, with special interest. First, I wished to
+see whether her appearance accorded with Mrs. Fairfax’s description;
+secondly, whether it at all resembled the fancy miniature I had painted
+of her; and thirdly—it will out!—whether it were such as I should fancy
+likely to suit Mr. Rochester’s taste.
+
+As far as person went, she answered point for point, both to my picture
+and Mrs. Fairfax’s description. The noble bust, the sloping shoulders,
+the graceful neck, the dark eyes and black ringlets were all there;—but
+her face? Her face was like her mother’s; a youthful unfurrowed
+likeness: the same low brow, the same high features, the same [[Pride|pride]]. It
+was not, however, so saturnine a [[Pride|pride]]! she laughed continually; her
+laugh was satirical, and so was the habitual expression of her arched
+and haughty lip.
+
+Genius is said to be [[Self|self]]-conscious. I cannot tell whether Miss Ingram
+was a genius, but she was [[Self|self]]-conscious—remarkably [[Self|self]]-conscious
+indeed. She entered into a discourse on botany with the gentle Mrs.
+Dent. It seemed Mrs. Dent had not studied that science: though, as she
+said, she liked [[Flowers|flowers]], “especially wild ones;” Miss Ingram had, and
+she ran over its vocabulary with an air. I presently perceived she was
+(what is vernacularly termed) _trailing_ Mrs. Dent; that is, playing on
+her ignorance; her _trail_ might be clever, but it was decidedly not
+good-natured. She played: her execution was brilliant; she sang: her
+voice was fine; she talked French apart to her mamma; and she talked it
+[[Well|well]], with fluency and with a good accent.
 
 Mary had a milder and more open countenance than Blanche; softer
 features too, and a skin some shades fairer (Miss Ingram was dark as a
@@ -103,34 +132,3 @@ in his. I had not intended to [[Love|love]] him; the reader knows I had wrought
 hard to extirpate from my [[Soul|soul]] the germs of [[Love|love]] there detected; and
 now, at the first renewed view of him, they spontaneously arrived,
 green and strong! He made me [[Love|love]] him without looking at me.
-
-I compared him with his guests. What was the gallant grace of the
-Lynns, the languid elegance of Lord Ingram,—even the military
-distinction of Colonel Dent, contrasted with his look of native pith
-and genuine power? I had no sympathy in their appearance, their
-expression: yet I could imagine that most observers would call them
-attractive, handsome, imposing; while they would pronounce Mr.
-Rochester at once harsh-featured and [[Melancholy|melancholy]]-looking. I saw them
-smile, laugh—it was nothing; the light of the candles had as much [[Soul|soul]]
-in it as their smile; the tinkle of the bell as much significance as
-their laugh. I saw Mr. Rochester smile:—his stern features softened;
-his eye grew both brilliant and gentle, its ray both searching and
-sweet. He was talking, at the moment, to Louisa and Amy Eshton. I
-wondered to see them receive with calm that look which seemed to me so
-penetrating: I expected their eyes to fall, their colour to rise under
-it; yet I was glad when I found they were in no sense moved. “He is not
-to them what he is to me,” I thought: “he is not of their kind. I
-believe he is of mine;—I am sure he is—I feel akin to him—I understand
-the language of his countenance and movements: though rank and wealth
-sever us widely, I have something in my brain and heart, in my [[Blood|blood]]
-and nerves, that assimilates me mentally to him. Did I say, a few days
-since, that I had nothing to do with him but to receive my salary at
-his hands? Did I forbid myself to think of him in any other light than
-as a paymaster? Blasphemy against [[Nature|nature]]! Every good, true, vigorous
-feeling I have gathers impulsively round him. I know I must conceal my
-sentiments: I must smother [[Hope|hope]]; I must remember that he cannot care
-much for me. For when I say that I am of his kind, I do not mean that I
-have his force to influence, and his spell to attract; I mean only that
-I have certain tastes and feelings in common with him. I must, then,
-repeat continually that we are for ever sundered:—and yet, while I
-breathe and think, I must [[Love|love]] him.”

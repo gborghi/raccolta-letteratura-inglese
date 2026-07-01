@@ -14,6 +14,102 @@ tags:
 </nav>
 
 
+      these things, were seen, on all sides, banners and palanquins,
+
+      litters with stately dames close-veiled, elephants gorgeously
+
+      caparisoned, idols grotesquely hewn, drums, banners, and gongs,
+
+      spears, silver and gilded maces. And amid the crowd, and the
+
+      clamor, and the general intricacy and confusion—amid the million
+
+      of black and yellow men, turbaned and robed, and of flowing
+
+      beard, there roamed a countless multitude of holy filleted bulls,
+
+      while vast legions of the filthy but sacred ape clambered,
+
+      chattering and shrieking, about the cornices of the mosques, or
+
+      clung to the minarets and oriels. From the swarming streets to
+
+      the banks of the [[River|river]], there descended innumerable flights of
+
+      steps leading to bathing places, while the [[River|river]] itself seemed to
+
+      force a passage with difficulty through the vast fleets of
+
+      deeply-burthened ships that far and wide encountered its surface.
+
+      Beyond the limits of the [[City|city]] arose, in frequent majestic groups,
+
+      the palm and the cocoa, with other gigantic and weird trees of
+
+      vast age; and here and there might be seen a field of rice, the
+
+      thatched hut of a peasant, a tank, a stray temple, a gypsy camp,
+
+      or a solitary graceful maiden taking her way, with a pitcher upon
+
+      her head, to the banks of the magnificent [[River|river]].
+
+
+
+      “You will say now, of course, that I dreamed; but not so. What I
+
+      saw—what I heard—what I felt—what I thought—had about it nothing
+
+      of the unmistakable idiosyncrasy of the dream. All was rigorously
+
+      [[Self|self]]-consistent. At first, doubting that I was really awake, I
+
+      entered into a series of tests, which soon convinced me that I
+
+      really was. Now, when one [[Dreams|dreams]], and, in the dream, suspects
+
+      that he [[Dreams|dreams]], the suspicion never fails to confirm itself, and
+
+      [[The Sleeper|the sleeper]] is almost immediately aroused. Thus Novalis errs not
+
+      in saying that ‘we are near waking when we dream that we dream.’
+
+      Had the vision occurred to me as I describe it, without my
+
+      suspecting it as [[A Dream|a dream]], then [[A Dream|a dream]] it might absolutely have
+
+      been, but, occurring as it did, and suspected and tested as it
+
+      was, I am forced to class it among other phenomena.”
+
+
+
+      “In this I am not sure that you are wrong,” observed Dr.
+
+      Templeton, “but proceed. You arose and descended into the [[City|city]].”
+
+
+
+      “I arose,” continued Bedloe, regarding the Doctor with an air of
+
+      profound astonishment “I arose, as you say, and descended into
+
+      the [[City|city]]. On my way I fell in with an immense populace, crowding
+
+      through every avenue, all in the same direction, and exhibiting
+
+      in every action the wildest excitement. Very suddenly, and by
+
+      some inconceivable impulse, I became intensely imbued with
+
+      personal interest in what was going on. I seemed to feel that I
+
+      had an important part to play, without exactly understanding what
+
+      it was. Against the crowd which environed me, however, I
+
+      experienced a deep sentiment of animosity. I shrank from amid
+
       them, and, swiftly, by a circuitous path, reached and entered the
 
       [[City|city]]. Here all was the wildest tumult and contention. A small
@@ -99,107 +195,3 @@ tags:
       trembled, became fearfully pallid, and remained silent. I looked
 
       toward Templeton. He sat erect and rigid in his chair—his teeth
-
-      chattered, and his eyes were starting from their sockets.
-
-      “Proceed!” he at length said hoarsely to Bedloe.
-
-
-
-      “For many minutes,” continued the latter, “my sole sentiment—my
-
-      sole feeling—was that of darkness and nonentity, with the
-
-      consciousness of [[Death|death]]. At length there seemed to pass a violent
-
-      and sudden shock through my [[Soul|soul]], as if of electricity. With it
-
-      came the sense of elasticity and of light. This latter I felt—not
-
-      saw. In an instant I seemed to rise from the ground. But I had no
-
-      bodily, no visible, audible, or palpable presence. The crowd had
-
-      departed. The tumult had ceased. The [[City|city]] was in comparative
-
-      repose. Beneath me lay my corpse, with the arrow in my temple,
-
-      the whole head greatly swollen and disfigured. But all these
-
-      things I felt—not saw. I took interest in nothing. Even the
-
-      corpse seemed a matter in which I had no concern. Volition I had
-
-      none, but appeared to be impelled into motion, and flitted
-
-      buoyantly out of the [[City|city]], retracing the circuitous path by which
-
-      I had entered it. When I had attained that point of the ravine in
-
-      the [[Mountains|mountains]] at which I had encountered the hyena, I again
-
-      experienced a shock as of a galvanic battery; the sense of
-
-      weight, of volition, of substance, returned. I became my original
-
-      [[Self|self]], and bent my steps eagerly homeward—but the past had not
-
-      lost the vividness of the real—and not now, even for an instant,
-
-      can I compel my understanding to regard it as [[A Dream|a dream]].”
-
-
-
-      “Nor was it,” said Templeton, with an air of deep solemnity, “yet
-
-      it would be difficult to say how otherwise it should be termed.
-
-      Let us suppose only, that the [[Soul|soul]] of the man of to-day is upon
-
-      the verge of some stupendous psychal discoveries. Let us content
-
-      ourselves with this supposition. For the rest I have some
-
-      explanation to make. Here is a watercolor drawing, which I should
-
-      have shown you before, but which an unaccountable sentiment of
-
-      horror has hitherto prevented me from showing.”
-
-
-
-      We looked at the picture which he presented. I saw nothing in it
-
-      of an extraordinary character, but its effect upon Bedloe was
-
-      prodigious. He nearly fainted as he gazed. And yet it was but a
-
-      miniature portrait—a miraculously accurate one, to be sure—of his
-
-      own very remarkable features. At least this was my thought as I
-
-      regarded it.
-
-
-
-      “You will perceive,” said Templeton, “the date of this picture—it
-
-      is here, scarcely visible, in this corner—1780. In this year was
-
-      the portrait taken. It is the likeness of a dead friend—a Mr.
-
-      Oldeb—to whom I became much attached at Calcutta, during the
-
-      administration of Warren [[Hastings]]. I was then only twenty years
-
-      old. When I first saw you, Mr. Bedloe, at Saratoga, it was the
-
-      miraculous similarity which existed between yourself and the
-
-      painting which induced me to accost you, to seek your [[Friendship|friendship]],
-
-      and to bring about those arrangements which resulted in my
-
-      becoming your constant companion. In accomplishing this point, I
-
-      was urged partly, and perhaps principally, by a regretful [[Memory|memory]]

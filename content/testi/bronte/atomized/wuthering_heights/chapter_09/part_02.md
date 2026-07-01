@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 9 (part 2)"
+title: "Wuthering Heights — Chapter 9 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -169,11 +169,3 @@ lives. In my [[Soul|soul]] and in my heart, I’m convinced I’m wrong!”
 
 “It’s my secret. But if you will not mock at me, I’ll explain it: I
 can’t do it distinctly; but I’ll give you a feeling of how I feel.”
-
-She seated herself by me again: her countenance grew sadder and graver,
-and her clasped hands trembled.
-
-“Nelly, do you never dream queer [[Dreams|dreams]]?” she said, suddenly, after
-some minutes’ reflection.
-
-“Yes, now and then,” I answered.

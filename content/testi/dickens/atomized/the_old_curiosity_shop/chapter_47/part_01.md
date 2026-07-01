@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/the-old-curiosity-shop-(dickens)">The Old Curiosity Shop</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_old_curiosity_shop/chapter_46/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/the_old_curiosity_shop/chapter_47/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_old_curiosity_shop/chapter_46/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/the_old_curiosity_shop/chapter_47/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -135,8 +135,3 @@ the good folks wondering to their doors and windows, and drowned the
 sober voices of the town-clocks as they chimed out half-past eight.
 They drove up to a door round which a crowd of persons were collected,
 and there stopped.
-
-‘What’s this?’ said the single gentleman thrusting out his head.  ‘Is
-anything the matter here?’
-
-‘A wedding Sir, a wedding!’ cried several voices.  ‘Hurrah!’

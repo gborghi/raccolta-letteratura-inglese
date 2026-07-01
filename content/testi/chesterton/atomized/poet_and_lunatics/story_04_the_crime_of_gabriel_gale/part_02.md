@@ -14,6 +14,18 @@ tags:
 </nav>
 
 
+"There was another thing which made me sure he wasn't himself.
+The weather had been very trying for everybody for some [[Time|time]];
+hot and stormy and electric; but it was the first [[Time|time]] I've ever known
+him upset by such storms.  I've known him to do the silliest things;
+I've known him stand on his head in the [[Garden|garden]]; but that was only
+showing that he was _not_ affected by the [[Storm|storm]].  But this [[Time|time]] I'm
+sure these queer semi-tropical tempests have been too much for him;
+so that even the very subject of the [[Storm|storm]] upset him in some way.
+For this [[Tragedy|tragedy]] arose out of the most trivial sort of triviality.
+The whole terrible unnatural business began with talking
+about the weather.
+
 "Lady Flamborough said to a guest at her rather damp [[Garden|garden]]-party,
 'You brought bad weather with you.'  Anybody might say that to anybody;
 but she did say it to young Herbert Saunders, who is awfully awkward
@@ -103,20 +115,3 @@ if they had heard it, they certainly could not have understood it.
 I heard it; and I thought I understood it only too [[Well|well]].
 For what Gale shouted through the [[Storm|storm]] was, 'Why don't you call
 the chairs and they'll come to you.'
-
-"A second or so afterwards he added, as if it were an afterthought,
-'You might as [[Well|well]] tell the tree to come here as [[Well|well]].'
-Naturally there was no answer; and indeed Saunders, partly by his natural
-clumsiness and partly in the distraction of the driving elements,
-seemed for the moment to have lost his way and was staggering up
-the steeper path of the meadow some way to the left of the tree.
-I could just see his long figure and angular awkward elbows traced
-against the sky.  Then followed the sudden, violent and utterly
-unintelligible incident.  A rope happened to lie half round one
-of the swathes in the foreground; and Gale, leaping out of the door,
-caught it up and seemed to be knotting it in a sort of savage haste.
-The next moment there swept across the sky the great swirling
-curves of a noose thrown in the manner of a lasso.  And I could
-see the wavering figure on the dark ridge alter its attitude
-and rear up as against an invisible obstacle, as the rope tightened
-and tugged it back.

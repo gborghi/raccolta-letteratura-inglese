@@ -1,5 +1,5 @@
 ---
-title: "[[Othello]] — Act V, Scene 2 — exchange (LODOVICO) [8]"
+title: "Othello — Act V, Scene 2 — exchange (LODOVICO) [8]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/othello-(shakespeare)"

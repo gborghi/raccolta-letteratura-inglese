@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 13 (part 3)"
+title: "Nicholas Nickleby — Chapter 13 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_13/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_13/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘Isn’t it?’ said Squeers in a threatening manner. ‘We shall see!’
+
+‘We shall,’ rejoined Nicholas.
+
+‘Here’s the pony run right off his legs, and me obliged to come [[Home|home]]
+with a hack cob, that’ll cost fifteen shillings besides other expenses,’
+said Squeers; ‘who’s to pay for that, do you hear?’
+
+Nicholas shrugged his shoulders and remained silent.
 
 ‘I’ll have it out of somebody, I tell you,’ said Squeers, his usual
 harsh crafty manner changed to open bullying ‘None of your whining
@@ -118,16 +128,3 @@ desk.
 ‘Have you anything to say?’ demanded Squeers again: giving his right arm
 two or three flourishes to try its power and suppleness. ‘Stand a little
 out of the way, Mrs. Squeers, my dear; I’ve hardly got room enough.’
-
-‘Spare me, sir!’ cried [[Smike]].
-
-‘Oh! that’s all, is it?’ said Squeers. ‘Yes, I’ll flog you within an
-inch of your life, and spare you that.’
-
-‘Ha, ha, ha,’ laughed Mrs. Squeers, ‘that’s a good ‘un!’
-
-‘I was driven to do it,’ said [[Smike]] faintly; and casting another
-imploring look about him.
-
-‘Driven to do it, were you?’ said Squeers. ‘Oh! it wasn’t your fault; it
-was mine, I suppose--eh?’

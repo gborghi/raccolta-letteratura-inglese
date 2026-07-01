@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 48 (part 2)"
+title: "Mansfield Park — Chapter 48 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -40,7 +40,7 @@ could attract him into matrimony again, and he might set forward on a
 second, and, it is to be hoped, more prosperous trial of the state: if
 duped, to be duped at least with good [[Humour|humour]] and good luck; while she
 must withdraw with infinitely stronger feelings to a retirement and
-reproach which could allow no second [[spring]] of [[Hope|hope]] or character.
+reproach which could allow no second [[Spring|spring]] of [[Hope|hope]] or character.
 
 Where she could be placed became a subject of most [[Melancholy|melancholy]] and
 momentous consultation. Mrs. Norris, whose attachment seemed to augment

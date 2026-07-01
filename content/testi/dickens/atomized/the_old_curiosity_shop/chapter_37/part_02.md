@@ -135,7 +135,3 @@ reverting to that from which the discourse had strayed.  But, from the
 point where Mr Codlin was charged with sleepiness, he had shown an
 increasing interest in the discussion: which now attained a very high
 pitch.
-
-‘You are the two men I want,’ he said, ‘the two men I have been looking
-for, and searching after!  Where are that old man and that [[Child|child]] you
-speak of?’

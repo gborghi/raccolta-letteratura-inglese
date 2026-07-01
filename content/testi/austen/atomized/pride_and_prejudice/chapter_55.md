@@ -1,5 +1,5 @@
 ---
-title: "[[Pride and Prejudice]] — Chapter 55"
+title: "Pride and Prejudice — Chapter 55"
 author: "Austen"
 unitType: chapter
 parentWork: "works/pride-and-prejudice-(austen)"
@@ -235,7 +235,7 @@ attached himself to Elizabeth for the pleasure of talking of her; and
 when Bingley was gone, Jane constantly sought the same means of relief.
 
 “He has made me so happy,” said she, one evening, “by telling me that he
-was totally ignorant of my being in town last [[spring]]! I had not believed
+was totally ignorant of my being in town last [[Spring|spring]]! I had not believed
 it possible.”
 
 “I suspected as much,” replied Elizabeth. “But how did he account for

@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 32 (part 3)"
+title: "Nicholas Nickleby — Chapter 32 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_32/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_32/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘The jade!’ said the same voice which had spoken before. ‘She’s a true
+Nickleby--a worthy imitator of her old uncle Ralph--she hangs back to be
+more sought after--so does he; nothing to be got out of Ralph unless you
+follow him up, and then the money comes doubly welcome, and the bargain
+doubly hard, for you’re impatient and he isn’t. Oh! infernal cunning.’
 
 ‘Infernal cunning,’ echoed two voices.
 

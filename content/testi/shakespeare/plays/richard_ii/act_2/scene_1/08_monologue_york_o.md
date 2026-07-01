@@ -1,5 +1,5 @@
 ---
-title: "[[Richard II]] — Act II, Scene 1 — monologue (YORK O) [8]"
+title: "Richard II — Act II, Scene 1 — monologue (YORK O) [8]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/richard-ii-(shakespeare)"

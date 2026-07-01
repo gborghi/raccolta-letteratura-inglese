@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 20 (part 1)"
+title: "Northanger Abbey — Chapter 20 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -199,5 +199,3 @@ convinced her that a curricle was the prettiest equipage in the world;
 the chaise and four wheeled off with some grandeur, to be sure, but it
 
 was a heavy and troublesome business, and she could not easily forget
-
-its having stopped two hours at Petty France. Half the [[Time|time]] would have

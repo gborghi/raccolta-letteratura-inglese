@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 9 (part 3)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 9 (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_08/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_10/part_01">part 01 ›</a></div>
 </nav>
 
+
+us in no little degree. We helped Augustus off with his, and wrung them
+
+for him, when he experienced the same comfort.
+
+
+
+Our chief sufferings were now those of hunger and thirst, and, when we
+
+looked forward to the means of relief in this respect, our hearts sunk
+
+within us, and we were induced to regret that we had escaped the less
+
+dreadful perils of the sea. We endeavoured, however, to console
+
+ourselves with the [[Hope|hope]] of being speedily picked up by some vessel, and
 
 encouraged each other to bear with fortitude the evils that might
 

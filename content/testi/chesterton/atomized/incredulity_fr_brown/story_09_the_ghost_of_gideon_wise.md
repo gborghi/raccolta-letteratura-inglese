@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The [[Ghost]] of Gideon Wise"
+title: "incredulity Fr Brown — The Ghost of Gideon Wise"
 author: "Chesterton"
 unitType: story
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -117,7 +117,7 @@ shall try to drag you into it.'
 'You will try, boy,' said old Gallup with a hearty laugh.
 
 For so much still lingers of that great dream of Jefferson and, the
-thing that men have called [[Democracy]] that in his country, while the rich
+thing that men have called [[democracy|Democracy]] that in his country, while the rich
 rule like tyrants, the poor do not talk like slaves; but there is
 candour between the oppressor and the oppressed.
 
@@ -414,7 +414,7 @@ mildly. 'He curses priests for failing (in his opinion) to defy the
 whole world for justice. Why should he expect them to defy the whole
 world for justice, unless he had already begun to assume they were -
 what they are? But we haven't met here to discuss the psychology of
-[[Conversion|conversion]]. I only mention this because it may simplify your task -
+[[conversion]]. I only mention this because it may simplify your task -
 perhaps narrow your search.'
 
 'If it is true, it would jolly [[Well|well]] narrow it to that narrow - faced

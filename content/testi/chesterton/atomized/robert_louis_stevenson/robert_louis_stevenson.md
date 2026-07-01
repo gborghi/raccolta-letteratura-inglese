@@ -249,7 +249,7 @@ as a boy among the crags and castellations of the Painted [[Hill]],
 looking across the islets of the Forth, to the [[Time|time]] when tall
 brown barbarians, crowned with red [[Flowers|flowers]], bore him on their
 spears to the peak of their sacred mountain, the spirit of this
-[[Artist|artist]] had been permitted to inhabit, and as it were to haunt,
+[[artist]] had been permitted to inhabit, and as it were to haunt,
 the beautiful places of the earth.  To the last he had tasted that
 [[Beauty|beauty]] with a burning sensibility; and it is no joke, in his case,
 to say that he would have enjoyed coming to his own funeral.
@@ -313,11 +313,11 @@ When I come to describing it, I find it is perhaps even more
 difficult to describe it than to do it.  But something of this
 sort is what I propose to do.  Loudon Dodd, in whom there
 is much of Louis Stevenson, says very truly in _The Wrecker,_
-that for the [[Artist|artist]] the external result is always a fizzle:
+that for the [[artist]] the external result is always a fizzle:
 his eyes are turned inward:  "he lives for a state of mind."
 I mean to attempt the conjectural description of certain states
 of mind, with the books that were the "external expression"
-of them.  If for the [[Artist|artist]] his art is a fizzle, his life is
+of them.  If for the [[artist]] his art is a fizzle, his life is
 often far more of a fizzle:  it is even far more of a fiction.
 It is the one of his works in which he tells least of the [[Truth|truth]].
 Stevenson's was more real than most, because more romantic than most.
@@ -488,7 +488,7 @@ the carpet; and in fact there is a mind in every scheme of ornament.
 There is as emphatically a [[morality]] expressed in Babylonian architecture
 or Baroque architecture as if it were plastered all over with
 Biblical texts.  Now in the same manner there is at the back of every
-[[Artist|artist]]'s mind something like a pattern or a type of architecture.
+[[artist]]'s mind something like a pattern or a type of architecture.
 The original quality in any man of [[Imagination|imagination]] is imagery.
 It is a thing like the landscapes of his [[Dreams|dreams]]; the sort of world
 he would wish to make or in which he would wish to wander;
@@ -1153,7 +1153,7 @@ in the touching dedication that has the burden, "How far is it
 to Babylon?"  Unfortunately it is not very far to Babylon.
 That cosmopolitan market of the arts, which is in his story perhaps
 best represented by [[Paris]], called to him more and more to live
-the life of the complete [[Artist|artist]], which in those days had something
+the life of the complete [[artist]], which in those days had something
 like a touch of the complete anarchist.  He passed into it,
 ultimately in person and already in spirit; there was nothing
 to call him back but the thin and tiny cry of a tin trumpet;
@@ -1461,7 +1461,7 @@ But these ideas were not always associated in the way in which
 Stevenson associated them.  We may tear the combination to pieces,
 but it was he who wove it together; and--as many would have thought--
 of very incongruous threads.  It really did seem preposterous to many
-that a serious literary [[Artist|artist]] of the age of Pater should devote himself
+that a serious literary [[artist]] of the age of Pater should devote himself
 to rewriting Penny Dreadfuls.  It was just as if George Meredith
 had chosen to put all his fine feminine psychology into writing
 the sort of twopenny novelettes that were read by housemaids,
@@ -2045,7 +2045,7 @@ such words, is the thing I mean by the style of Stevenson.
 
 In the case of Stevenson, criticism has always tended
 to be hypercriticism.  It is as if the critic were strung up
-to be as strict with the [[Artist|artist]] as the [[Artist|artist]] was with himself.
+to be as strict with the [[artist]] as the [[artist]] was with himself.
 But they are not very consistent or considerate in the matter.  They blame
 him for being fastidious; and so become more fastidious themselves.
 They condemn him for wasting [[Time|time]] in trying to find the right word;
@@ -2118,13 +2118,13 @@ ten cities; set in the ends of the earth.  Indeed the last phrase
 I will take the case of one of his books; I deliberately refrain
 from taking one of his best books.  I will take _The Wrecker,_ a book
 which many would call a failure and which nobody would call a faultless
-artistic [[success]], least of all the [[Artist|artist]].  The picture breaks
+artistic [[success]], least of all the [[artist]].  The picture breaks
 out of the frame; indeed it is rather a panorama than a picture.
 The story sprawls over three continents; and the climax has too much
 the air of being only the last of a long string of disconnected passages.
 It has the look of a scrap-book; indeed it is very exactly
 a [[Sketch|sketch]]-book. It is merely the [[Sketch|sketch]]-book of Loudon Dodd,
-the wandering art student never allowed to be fully an [[Artist|artist]];
+the wandering art student never allowed to be fully an [[artist]];
 just as his story is never allowed to be fully a work of art.
 He sketches people with the pen as he does with the pencil,
 in four or five incongruous societies, in the commercial school
@@ -2192,7 +2192,7 @@ and his private correspondence is full of the same lively and
 animated neatness.  In this one neglected volume of _The Wrecker_ there
 are thousands of such things; and everything to show that he could
 have written twenty more volumes, equally full of these felicities.
-A man who does this is not only an [[Artist|artist]] doing what most men
+A man who does this is not only an [[artist]] doing what most men
 cannot do, but he is certainly doing what most novelists do not do.
 Even very good novelists have not this particular knack of putting
 a whole human figure together with a few unforgettable words.
@@ -2236,7 +2236,7 @@ with how a man did or said something than with what he was like.
 The sharp and shrewd Scottish style of Ephraim Mackellar
 or David Balfour seems by its very sound exactly fitted to
 describe a man snapping his fingers or rapping with his stick.
-Doubtless so careful an [[Artist|artist]] as Stevenson varied his style to suit
+Doubtless so careful an [[artist]] as Stevenson varied his style to suit
 the subject and the speaker; we should not look for these dry
 or abrupt brevities in the dilettante deliberations of Loudon Dodd;
 but I know very few of the writer's works in which there are not,
@@ -2425,7 +2425,7 @@ is that he is very careful to keep the different forms of art
 in [[Water|water]]-tight compartments.  It was, of course, a sentiment
 about technique and material which was very fashionable in the age
 of Whistler and the world where Stevenson had studied art.
-And the [[Artist|artist]] would as soon have stuck a lump of marble into
+And the [[artist]] would as soon have stuck a lump of marble into
 the middle of a bas-relief in terracotta, or applied a coat of paint
 to a tracery he was making out of ivory, as put a piece of [[Tragedy|tragedy]]
 into the middle of a tea-table [[Comedy|comedy]] or a burst of righteous
@@ -2639,7 +2639,7 @@ ancient Pictish or Celtic name of that [[Castle|castle]] of Edinburgh was "The
 painted [[Hill|hill]]," or, as I have seen it somewhere in another version,
 "The painted rock."  That might stand as a symbol of many things
 here less sufficiently suggested; of a Scotsman dressed,
-or almost disguised, as an [[Artist|artist]]; of a style that could be at
+or almost disguised, as an [[artist]]; of a style that could be at
 once abrupt and austere, and yet was always vivid with colour;
 but above all of that combination of colour with a solemn and childish
 caricature which we have seen in the background of his boyhood;
@@ -2649,7 +2649,7 @@ he had a strange [[Ambition|ambition]] to be a man of few words.  It seems
 to me that he was always seeking in words for a combination that
 should be also a compression; for two words that should instantly
 give birth to the third thing that he really wanted to say.
-It may be questioned, of him as of any other [[Artist|artist]], whether he ever
+It may be questioned, of him as of any other [[artist]], whether he ever
 really succeeded in saying it.  But we might amuse ourselves
 with the fancy that such a system of brilliant abbreviations might
 be more and more rapidly, like signals, uttered and understood;
@@ -2896,7 +2896,7 @@ the will of man, which is the act of creative choice essential to art.
 The tendency has been admirably treated in the work of M. Henri Massis
 in his book on the Defence of the West; and another French writer
 of the same school, M. Maritain, has remarked on the important
-part which the word _artifex,_ as the title of an [[Artist|artist]],
+part which the word _artifex,_ as the title of an [[artist]],
 played in mediaeval [[philosophy]] as [[Well|well]] as mediaeval craftsmanship.
 As we shall see later, it is the [[Paradox|paradox]] of Stevenson that he would
 have cared nothing for such mediaeval metaphysics; and yet he carried
@@ -2977,7 +2977,7 @@ common in his [[Time|time]].  He was responsible; he was deliberate;
 he was thrifty; he thoroughly deserved the dignified title of
 a working man.
 
-The point here is that even his chief fault as an [[Artist|artist]] was
+The point here is that even his chief fault as an [[artist]] was
 typically the fault of a craftsman.  He worked too narrowly, perhaps,
 producing only a thing perfect of its kind out of certain materials,
 by a certain method and under the limitations of a certain style.

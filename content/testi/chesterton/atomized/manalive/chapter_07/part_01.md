@@ -1,5 +1,5 @@
 ---
-title: "[[manalive]] — Chapter 1 (part 1)"
+title: "manalive — Chapter 1 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/manalive-(chesterton)"
@@ -18,7 +18,6 @@ tags:
 
 		      The Eye of [[Death]];
 		    or, the Murder Charge
-
 
 The dining-room of the Dukes had been set out for the [[Court]]
 of Beacon with a certain impromptu pomposity that seemed somehow
@@ -98,11 +97,11 @@ of Boston, and continued:  "There is but one result of this happier
 and humaner outlook which concerns the wretched man before us.
 It is that thoroughly elucidated by a Milwaukee doctor,
 our great secret-guessing Sonnenschein, in his great work,
-`The Destructive Type.'  We do not denounce [[smith|Smith]] as a murderer,
+`The Destructive Type.'  We do not denounce Smith as a murderer,
 but rather as a murderous man.  The type is such that its very life--
 I might say its very health--is in killing.  Some hold that it is
 not properly an aberration, but a newer and even a higher creature.
-My dear old friend Dr. Bulger, who kept ferrets--" (here [[Moon]]
+My dear old friend Dr. Bulger, who kept ferrets--" (here Moon
 suddenly ejaculated a loud "hurrah!" but so instantaneously
 resumed his tragic expression that Mrs. Duke looked everywhere
 else for the sound); Dr. Pym continued somewhat sternly--"who,
@@ -110,9 +109,9 @@ in the interests of knowledge, kept ferrets, felt that the creature's
 ferocity is not utilitarian, but absolutely an end in itself.
 However this may be with ferrets, it is certainly so with the prisoner.
 In his other iniquities you may find the cunning of the maniac;
-but his acts of [[Blood|blood]] have almost the simplicity of [[Sanity|sanity]].
-But it is the awful [[Sanity|sanity]] of the sun and the elements--a cruel,
-an evil [[Sanity|sanity]].  As soon stay the iris-leapt cataracts of our virgin
+but his acts of blood have almost the simplicity of sanity.
+But it is the awful sanity of the sun and the elements--a cruel,
+an evil sanity.  As soon stay the iris-leapt cataracts of our virgin
 West as stay the natural force that sends him forth to slay.
 No environment, however scientific, could have softened him.
 Place that man in the silver-silent purity of the palest cloister,
@@ -121,5 +120,5 @@ Rear him in a happy nursery, amid our brave-browed Anglo-Saxon infancy,
 and he will find some way to strangle with the skipping-rope
 or brain with the brick.  Circumstances may be favourable,
 training may be admirable, hopes may be high, but the huge elemental
-hunger of [[Innocent]] [[smith|Smith]] for [[Blood|blood]] will in its appointed season
-burst like a [[Well|well]]-timed bomb."
+hunger of Innocent Smith for blood will in its appointed season
+burst like a well-timed bomb."

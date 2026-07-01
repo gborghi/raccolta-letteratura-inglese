@@ -1,5 +1,5 @@
 ---
-title: "[[misc]] — THE FALSE PHOTOGRAPHER"
+title: "misc — THE FALSE PHOTOGRAPHER"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 THE FALSE PHOTOGRAPHER
-
 
 When, as lately, events have happened that seem (to the fancy,
 at least) to test if not stagger the force of official [[government]],

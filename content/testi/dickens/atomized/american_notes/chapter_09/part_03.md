@@ -14,6 +14,19 @@ tags:
 </nav>
 
 
+The principal features of the Capitol, are, of course, the two houses of
+Assembly.  But there is, besides, in the centre of the building, a fine
+rotunda, ninety-six feet in diameter, and ninety-six high, whose circular
+wall is divided into compartments, ornamented by historical pictures.
+Four of these have for their subjects prominent events in the
+revolutionary struggle.  They were painted by Colonel Trumbull, himself a
+member of Washington’s staff at the [[Time|time]] of their occurrence; from which
+circumstance they derive a peculiar interest of their own.  In this same
+hall Mr. Greenough’s large statue of Washington has been lately placed.
+It has great merits of course, but it struck me as being rather strained
+and violent for its subject.  I could wish, however, to have seen it in a
+better light than it can ever be viewed in, where it stands.
+
 There is a very pleasant and commodious library in the Capitol; and from
 a balcony in front, the bird’s-eye view, of which I have just spoken, may
 be had, together with a beautiful prospect of the adjacent country.  In
@@ -22,7 +35,7 @@ Justice; whereunto the Guide Book says, ‘the [[Artist|artist]] at first contem
 giving more of nudity, but he was warned that the public sentiment in
 this country would not admit of it, and in his caution he has gone,
 perhaps, into the opposite extreme.’  Poor Justice! she has been made to
-wear much stranger garments in [[America]] than those she pines in, in the
+wear much stranger garments in [[america|America]] than those she pines in, in the
 Capitol.  Let us [[Hope|hope]] that she has changed her dress-maker since they
 were fashioned, and that the public sentiment of the country did not cut
 out the clothes she hides her lovely figure in, just now.
@@ -85,7 +98,7 @@ women, and their [[unborn]] children.  Yes.  And publicly exhibited in the
 same [[City|city]] all the while; gilded, framed and glazed hung up for general
 admiration; shown to strangers not with shame, but [[Pride|pride]]; its face not
 turned towards the wall, itself not taken down and burned; is the
-Unanimous Declaration of the Thirteen United States of [[America]], which
+Unanimous Declaration of the Thirteen United States of [[america|America]], which
 solemnly declares that All Men are created Equal; and are endowed by
 their Creator with the Inalienable Rights of Life, Liberty, and the
 Pursuit of Happiness!
@@ -95,18 +108,3 @@ man, one of themselves, with oaths which beggars in their drink reject,
 threaten to cut another’s throat from ear to ear.  There he sat, among
 them; not crushed by the general feeling of the assembly, but as good a
 man as any.
-
-There was but a week to come, and another of that [[Body|body]], for doing his
-duty to those who sent him there; for claiming in a Republic the Liberty
-and [[Freedom]] of expressing their sentiments, and making known their
-[[prayer]]; would be tried, found guilty, and have strong censure passed upon
-him by the rest.  His was a [[Grave|grave]] offence indeed; for years before, he
-had risen up and said, ‘A gang of male and female slaves for sale,
-warranted to breed like cattle, linked to each other by iron fetters, are
-passing now along the open street beneath the windows of your Temple of
-Equality!  Look!’  But there are many kinds of hunters engaged in the
-Pursuit of Happiness, and they go variously armed.  It is the Inalienable
-Right of some among them, to take the field after _their_ Happiness
-equipped with cat and cartwhip, stocks, and iron collar, and to shout
-their view halloa! (always in praise of Liberty) to the music of clanking
-[[Chains|chains]] and bloody stripes.

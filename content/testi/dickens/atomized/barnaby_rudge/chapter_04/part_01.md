@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 4 (part 1)"
+title: "Barnaby Rudge — Chapter 4 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -108,11 +108,3 @@ espials to have distinguished anything but various tools of uncouth make
 and shape, great bunches of rusty keys, fragments of iron, half-finished
 locks, and such like things, which garnished the walls and hung in
 clusters from the ceiling.
-
-After a long and patient contemplation of the golden key, and many such
-backward glances, Gabriel stepped into the [[Road|road]], and stole a look at the
-upper windows. One of them chanced to be thrown open at the moment,
-and a roguish face met his; a face lighted up by the loveliest pair of
-sparkling eyes that ever locksmith looked upon; the face of a pretty,
-laughing, girl; dimpled and fresh, and healthful--the very impersonation
-of good-[[Humour|humour]] and blooming [[Beauty|beauty]].

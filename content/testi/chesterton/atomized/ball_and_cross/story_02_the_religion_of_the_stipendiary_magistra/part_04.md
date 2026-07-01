@@ -1,5 +1,5 @@
 ---
-title: "ball and [[Cross|cross]] — The Religion of the Stipendiary Magistrate (part 4)"
+title: "ball and cross — The Religion of the Stipendiary Magistrate (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/ball-and-cross-(chesterton)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ball_and_cross/story_02_the_religion_of_the_stipendiary_magistra/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/ball_and_cross/story_03_some_old_curiosities/part_01">part 01 ›</a></div>
 </nav>
 
+
+The magistrate recovered his voice and his presence of mind.
+The first part of the speech, the bombastic and brutally practical
+challenge, stunned him with surprise; but the rest of Evan's remarks,
+branching off as they did into theoretic phrases, gave his vague
+and very English mind (full of memories of the hedging and compromise
+in English public speaking) an indistinct sensation of relief,
+as if the man, though mad, were not so dangerous as he had thought.
+He went into a sort of weary laughter.
 
 "For Heaven's sake, man," he said, "don't talk so much.
 Let other people have a chance (laughter). I trust all that you said

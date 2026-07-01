@@ -1,5 +1,5 @@
 ---
-title: "[[Pride and Prejudice]] — Chapter 18 (part 5)"
+title: "Pride and Prejudice — Chapter 18 (part 5)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/pride-and-prejudice-(austen)"
@@ -13,6 +13,30 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/pride_and_prejudice/chapter_18/part_04">‹ part 04</a><a class="ex-next" href="/testi/austen/atomized/pride_and_prejudice/chapter_26/part_01">part 01 ›</a></div>
 </nav>
 
+
+To Elizabeth it appeared, that had her family made an agreement to
+expose themselves as much as they could during the evening, it would
+have been impossible for them to play their parts with more spirit, or
+finer [[success]]; and happy did she think it for Bingley and her sister
+that some of the exhibition had escaped his notice, and that his
+feelings were not of a sort to be much distressed by the folly which he
+must have witnessed. That his two sisters and Mr. Darcy, however, should
+have such an opportunity of ridiculing her relations was bad enough; and
+she could not determine whether the silent contempt of the gentleman, or
+the insolent smiles of the ladies, were more intolerable.
+
+The rest of the evening brought her little amusement. She was teased by
+Mr. Collins, who continued most perseveringly by her side; and though he
+could not prevail with her to [[Dance|dance]] with him again, put it out of her
+power to [[Dance|dance]] with others. In vain did she entreat him to stand up with
+somebody else, and offered to introduce him to any young lady in the
+room. He assured her that, as to dancing, he was perfectly indifferent
+to it; that his chief object was, by delicate attentions, to recommend
+himself to her; and that he should therefore make a point of remaining
+close to her the whole evening. There was no arguing upon such a
+project. She owed her greatest relief to her friend Miss Lucas, who
+often joined them, and good-naturedly engaged Mr. Collins’s conversation
+to herself.
 
 She was at least free from the offence of Mr. Darcy’s further notice:
 though often standing within a very short distance of her, quite

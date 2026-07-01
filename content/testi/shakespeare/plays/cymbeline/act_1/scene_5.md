@@ -1,5 +1,5 @@
 ---
-title: "[[Cymbeline]] — Act I, Scene 5"
+title: "Cymbeline — Act I, Scene 5"
 author: "Shakespeare"
 unitType: scene
 parentWork: "works/cymbeline-(shakespeare)"

@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 9 (part 8)"
+title: "Martin Chuzzlewit — Chapter 9 (part 8)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,35 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_09/part_07">‹ part 07</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_09/part_09">part 09 ›</a></div>
 </nav>
 
+
+‘The wittles is up!’
+
+On which notice they immediately descended to the banquet-hall; some of
+the more facetious spirits in the rear taking down gentlemen as if they
+were ladies, in [[Imitation|imitation]] of the fortunate possessors of the two Miss
+Pecksniffs.
+
+Mr Pecksniff said grace--a short and pious grace, involving a blessing
+on the appetites of those present, and committing all persons who had
+nothing to eat, to the care of [[Providence]]; whose business (so said the
+grace, in effect) it clearly was, to look after them. This done, they
+fell to with less ceremony than appetite; the table groaning beneath the
+weight, not only of the delicacies whereof the Miss Pecksniffs had been
+previously forewarned, but of boiled beef, roast veal, bacon, pies
+and abundance of such heavy vegetables as are favourably known to
+housekeepers for their satisfying qualities. Besides which, there were
+bottles of stout, bottles of wine, bottles of ale, and divers other
+strong drinks, native and foreign.
+
+All this was highly agreeable to the two Miss Pecksniffs, who were in
+immense request; sitting one on either hand of Mr Jinkins at the [[Bottom|bottom]]
+of the table; and who were called upon to take wine with some new
+admirer every minute. They had hardly ever felt so pleasant, and so full
+of conversation, in their lives; [[Mercy]], in particular, was uncommonly
+brilliant, and said so many good things in the way of lively repartee
+that she was looked upon as a prodigy. ‘In short,’ as that young lady
+observed, ‘they felt now, indeed, that they were in [[London]], and for the
+first [[Time|time]] too.’
 
 Their young friend Bailey sympathized in these feelings to the
 fullest extent, and, abating nothing of his patronage, gave them every
@@ -82,32 +111,3 @@ bless him!’ They all shake hands with Mr Pecksniff, as they drink the
 toast. The youngest gentleman in company does so with a thrill; for he
 feels that a mysterious influence pervades the man who claims that being
 in the pink scarf for his daughter.
-
-What saith Mr Pecksniff in reply? Or rather let the question be, What
-[[Leaves|leaves]] he unsaid? Nothing. More punch is called for, and produced, and
-drunk. Enthusiasm mounts still higher. Every man comes out freely in
-his own character. The gentleman of a theatrical turn recites. The vocal
-gentleman regales them with a [[Song|song]]. Gander [[Leaves|leaves]] the Gander of all
-former feasts whole leagues behind. HE rises to propose a toast. It is,
-The Father of Todgers’s. It is their common friend Jink--it is old
-Jink, if he may call him by that familiar and endearing appellation. The
-youngest gentleman in company utters a frantic negative. He won’t
-have it--he can’t bear it--it mustn’t be. But his depth of feeling is
-misunderstood. He is supposed to be a little elevated; and nobody heeds
-him.
-
-Mr Jinkins thanks them from his heart. It is, by many degrees, the
-proudest day in his humble career. When he looks around him on the
-present occasion, he feels that he wants words in which to express
-his gratitude. One thing he will say. He hopes it has been shown that
-Todgers’s can be true to itself; and that, an opportunity arising, it
-can come out quite as strong as its neighbours--perhaps stronger. He
-reminds them, amidst thunders of encouragement, that they have heard of
-a somewhat similar establishment in Cannon Street; and that they have
-heard it praised. He wishes to draw no invidious comparisons; he would
-be the last man to do it; but when that Cannon Street establishment
-shall be able to produce such a combination of wit and [[Beauty|beauty]] as has
-graced that board that day, and shall be able to serve up (all things
-considered) such a dinner as that of which they have just partaken, he
-will be happy to talk to it. Until then, gentlemen, he will stick to
-Todgers’s.

@@ -8236,7 +8236,7 @@ much in vogue. The other commodities were addressed to the general
 public; but they were never offered by the vendors to Mr Dombey. When
 he appeared, the dealers in those wares fell off respectfully. The
 principal slipper and [[dogs]]’ collar man—who considered himself a public
-character, and whose portrait was screwed on to an [[artist]]’s door in
+character, and whose portrait was screwed on to an [[Artist|artist]]’s door in
 Cheapside—threw up his forefinger to the brim of his hat as Mr Dombey
 went by. The ticket-porter, if he were not absent on a job, always ran
 officiously before, to open Mr Dombey’s office door as wide as
@@ -12317,7 +12317,7 @@ receiving the whole shock of his wooden ogling!
 More than this, they passed into the shop, and passed in at the parlour
 door before they were observed by anybody but the Midshipman. And
 Walter, having his back to the door, would have known nothing of their
-apparition even then, but for seeing his Uncle [[Spring|spring]] out of his own
+apparition even then, but for seeing his Uncle [[spring]] out of his own
 chair, and nearly tumble over another.
 
 [Illustration]
@@ -13496,7 +13496,7 @@ forlornly faded manner, was hardly less observable than that between
 her age, which was about seventy, and her dress, which would have been
 youthful for twenty-seven. Her attitude in the wheeled chair (which she
 never varied) was one in which she had been taken in a barouche, some
-fifty years before, by a then fashionable [[artist]] who had appended to
+fifty years before, by a then fashionable [[Artist|artist]] who had appended to
 his published [[Sketch|sketch]] the name of [[Cleopatra]]: in consequence of a
 discovery made by the critics of the [[Time|time]], that it bore an exact
 resemblance to that Princess as she reclined on board her galley. Mrs
@@ -14640,7 +14640,7 @@ could be, Mr Carker picked his way along the streets and hummed a soft
 tune as he went. He seemed to purr, he was so glad.
 
 And in some sort, Mr Carker, in his fancy, basked upon a hearth too.
-Coiled up snugly at certain feet, he was ready for a [[Spring|spring]], Or for a
+Coiled up snugly at certain feet, he was ready for a [[spring]], Or for a
 tear, or for a scratch, or for a velvet touch, as the [[Humour|humour]] took him
 and occasion served. Was there any bird in a cage, that came in for a
 share of his regards?
@@ -14843,7 +14843,7 @@ windows, and trying to make out the pensive face behind the curtain
 looking at the children opposite, the rough head of Diogenes came
 clambering up close by it, and the dog, regardless of all soothing,
 barks and growls, and makes at him from that height, as if he would
-[[Spring|spring]] down and tear him limb from limb.
+[[spring]] down and tear him limb from limb.
 
 [[Well]] spoken, Di, so near your Mistress! Another, and another with your
 head up, your eyes flashing, and your vexed mouth worrying itself, for
@@ -16161,7 +16161,7 @@ was played, among them. The occasions for such tenderness towards him
 were so many, that her mind misgave her often, it would indeed be
 better to go back to the old [[house]], and live again within the [[Shadow|shadow]] of
 its dull walls, undisturbed. How few who saw sweet Florence, in her
-[[Spring|spring]] of womanhood, the modest little [[Queen|queen]] of those small revels,
+[[spring]] of womanhood, the modest little [[Queen|queen]] of those small revels,
 imagined what a load of sacred care lay heavy in her breast! How few of
 those who stiffened in her father’s freezing atmosphere, suspected what
 a heap of fiery coals was piled upon his head!
@@ -17851,7 +17851,7 @@ dote upon pictures?”
 
 “I assure you, Mrs Skewton,” said Mr Dombey, with solemn encouragement
 of his Manager, “that Carker has a very good taste for pictures; quite
-a natural power of appreciating them. He is a very creditable [[artist]]
+a natural power of appreciating them. He is a very creditable [[Artist|artist]]
 himself. He will be delighted, I am sure, with Mrs Granger’s taste and
 skill.”
 
@@ -18080,7 +18080,7 @@ treasures.
 turning to him with the same enforced attention as before.
 
 Mr Dombey, with another bow, which cracked the starch in his cravat,
-would beg to leave that to the [[artist|Artist]].
+would beg to leave that to the [[Artist]].
 
 “I would rather you chose for yourself,” said Edith.
 
@@ -22008,7 +22008,7 @@ threshold; it was so very long since any voice of apathy had made sad
 music in her ears; that the stranger’s figure remained present to her,
 hours afterwards, when she sat at the [[Window|window]], plying her needle; and
 his words seemed newly spoken, again and again. He had touched the
-[[Spring|spring]] that opened her whole life; and if she lost him for a short
+[[spring]] that opened her whole life; and if she lost him for a short
 space, it was only among the many shapes of the one great recollection
 of which that life was made.
 
@@ -29413,7 +29413,7 @@ also we breed, by the same certain process, infancy that knows no
 [[innocence]], youth without modesty or shame, maturity that is mature in
 nothing but in [[Suffering|suffering]] and [[Guilt|guilt]], blasted old age that is a scandal
 on the form we bear, unnatural humanity! When we shall gather grapes
-from thorns, and figs from thistles; when fields of grain shall [[Spring|spring]]
+from thorns, and figs from thistles; when fields of grain shall [[spring]]
 up from the offal in the bye-ways of our wicked cities, and roses bloom
 in the fat churchyards that they cherish; then we may look for natural
 humanity, and find it growing from such seed.
@@ -29445,7 +29445,7 @@ course of each was taken.
 
 Through six months that ensued upon his accident, they held the same
 relations one towards the other. A marble rock could not have stood
-more obdurately in his way than she; and no chilled [[Spring|spring]], lying
+more obdurately in his way than she; and no chilled [[spring]], lying
 uncheered by any ray of light in the depths of a deep [[Cave|cave]], could be
 more sullen or more cold than he.
 
@@ -29633,7 +29633,7 @@ solitary life had made her, it had not embittered her sweet temper, or
 her earnest [[Nature|nature]]. A [[Child|child]] in [[Innocent|innocent]] simplicity; a woman in her
 modest [[Self-Reliance|self-reliance]], and her deep intensity of feeling; both [[Child|child]] and
 woman seemed at once expressed in her face and fragile delicacy of
-shape, and gracefully to mingle there;—as if the [[Spring|spring]] should be
+shape, and gracefully to mingle there;—as if the [[spring]] should be
 unwilling to depart when [[Summer|summer]] came, and sought to blend the earlier
 beauties of the [[Flowers|flowers]] with their bloom. But in her thrilling voice,
 in her calm eyes, sometimes in a sage ethereal light that seemed to
@@ -32481,7 +32481,7 @@ at him out of their eyes. That it is in the stare of the pictures. That
 Mr Pitt, upon the bookcase, represents it. That there are eyes in its
 own map, hanging on the wall.
 
-“An unusually cold [[Spring|spring]],” says Mr Dombey—to deceive the world.
+“An unusually cold [[spring]],” says Mr Dombey—to deceive the world.
 
 “Damme, Sir,” says the Major, in the warmth of [[Friendship|friendship]], “Joseph
 Bagstock is a bad hand at a counterfeit. If you want to hold your
@@ -32762,7 +32762,7 @@ Secret Intelligence
 
 Good Mrs Brown and her daughter Alice kept silent company together, in
 their own dwelling. It was early in the evening, and late in the
-[[Spring|spring]]. But a few days had elapsed since Mr Dombey had told Major
+[[spring]]. But a few days had elapsed since Mr Dombey had told Major
 Bagstock of his singular intelligence, singularly obtained, which might
 turn out to be valueless, and might turn out to be true; and the world
 was not satisfied yet.
@@ -36439,7 +36439,7 @@ bridal morning, walk through the streets together.
 Not even in that childish walk of long ago, were they so far removed
 from all the world about them as today. The childish feet of long ago,
 did not tread such enchanted ground as theirs do now. The confidence
-and [[Love|love]] of children may be given many times, and will [[Spring|spring]] up in
+and [[Love|love]] of children may be given many times, and will [[spring]] up in
 many places; but the woman’s heart of Florence, with its undivided
 treasure, can be yielded only once, and under slight or change, can
 only droop and die.
@@ -37462,7 +37462,7 @@ the case. Somebody wonders what he’ll do, and whether he’ll go out in
 any situation. Mr Towlinson thinks not, and hints at a refuge in one of
 them genteel almshouses of the better kind. “Ah, where he’ll have his
 little [[Garden|garden]], you know,” says Cook plaintively, “and bring up sweet
-peas in the [[Spring|spring]].” “Exactly so,” says Mr Towlinson, “and be one of
+peas in the [[spring]].” “Exactly so,” says Mr Towlinson, “and be one of
 the Brethren of something or another.” “We are all brethren,” says Mrs
 Perch, in a pause of her drink. “Except the sisters,” says Mr Perch.
 “How are the mighty fallen!” remarks Cook. “[[Pride]] shall have a fall,
@@ -37629,7 +37629,7 @@ is joking and a general roar. This lasts all day and three days
 following. The Capital Modern Household Furniture, &c., is on sale.
 
 Then the mouldy gigs and chaise-carts reappear; and with them come
-[[Spring|spring]]-vans and waggons, and an army of porters with knots. All day
+[[spring]]-vans and waggons, and an army of porters with knots. All day
 long, the men with carpet caps are screwing at screw-drivers and
 bed-winches, or staggering by the dozen together on the staircase under
 heavy burdens, or upheaving perfect rocks of Spanish mahogany, best
@@ -38726,7 +38726,7 @@ those wretched infants only set off and adorned the precocious woman in
 Juliana. Another year or two, the Captain thought, and to lodge where
 that [[Child|child]] was, would be destruction.
 
-The ceremony was concluded by a general [[Spring|spring]] of the young family on
+The ceremony was concluded by a general [[spring]] of the young family on
 Mr Bunsby, whom they hailed by the endearing name of father, and from
 whom they solicited half-pence. These gushes of affection over, the
 procession was about to issue forth again, when it was delayed for some

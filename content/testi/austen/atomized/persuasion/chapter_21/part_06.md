@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 21 (part 6)"
+title: "Persuasion — Chapter 21 (part 6)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -13,6 +13,38 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_21/part_05">‹ part 05</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_21/part_07">part 07 ›</a></div>
 </nav>
 
+
+circumventing the lady if he found it material. This was agreed upon
+
+between the two friends as the only thing to be done; and Colonel
+
+Wallis was to assist in every way that he could. He was to be
+
+introduced, and Mrs Wallis was to be introduced, and everybody was to
+
+be introduced. Mr Elliot came back accordingly; and on application was
+
+forgiven, as you know, and re-admitted into the family; and there it
+
+was his constant object, and his only object (till your arrival added
+
+another motive), to watch Sir Walter and Mrs Clay. He omitted no
+
+opportunity of being with them, threw himself in their way, called at
+
+all hours; but I need not be particular on this subject. You can
+
+imagine what an artful man would do; and with this guide, perhaps, may
+
+recollect what you have seen him do.”
+
+
+
+“Yes,” said Anne, “you tell me nothing which does not accord with what
+
+I have known, or could imagine. There is always something offensive in
+
+the details of cunning. The manœuvres of selfishness and duplicity must
 
 ever be revolting, but I have heard nothing which really surprises me.
 
@@ -169,41 +201,3 @@ civility, the same hard-hearted indifference to any of the evils it
 might bring on her. It was a dreadful picture of ingratitude and
 
 inhumanity; and Anne felt, at some moments, that no flagrant open crime
-
-could have been worse. She had a great deal to listen to; all the
-
-particulars of past sad scenes, all the minutiae of distress upon
-
-distress, which in former conversations had been merely hinted at, were
-
-dwelt on now with a natural indulgence. Anne could perfectly comprehend
-
-the exquisite relief, and was only the more inclined to [[Wonder|wonder]] at the
-
-composure of her friend’s usual state of mind.
-
-
-
-There was one circumstance in the [[history]] of her grievances of
-
-particular irritation. She had good reason to believe that some
-
-property of her husband in the West Indies, which had been for many
-
-years under a sort of sequestration for the payment of its own
-
-incumbrances, might be recoverable by proper measures; and this
-
-property, though not large, would be enough to make her comparatively
-
-rich. But there was nobody to stir in it. Mr Elliot would do nothing,
-
-and she could do nothing herself, equally disabled from personal
-
-exertion by her state of bodily weakness, and from employing others by
-
-her want of money. She had no natural connexions to assist her even
-
-with their counsel, and she could not afford to purchase the assistance
-
-of the law. This was a cruel aggravation of actually straitened means.

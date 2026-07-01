@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 15 (part 3)"
+title: "Shirley — Chapter 15 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -14,7 +14,29 @@ tags:
 </nav>
 
 
-I _sor_ him" (such was Mr. Donne's pronunciation) "about to [[spring]], I
+appropriate to the fair sex. Ladies generally like lap-[[dogs]]."
+
+
+
+"Perhaps I am an exception."
+
+
+
+"Oh, you can't be, you know. All ladies are alike in those matters. That
+
+is universally allowed."
+
+
+
+"Tartar frightened you terribly, Mr. Donne. I [[Hope|hope]] you won't take any
+
+harm."
+
+
+
+"That I shall, no [[Doubt|doubt]]. He gave me a turn I shall not soon forget. When
+
+I _sor_ him" (such was Mr. Donne's pronunciation) "about to [[Spring|spring]], I
 
 thought I should have fainted."
 
@@ -203,21 +225,3 @@ obliging little friend, like Sweeting, to run about her hand, cheerily
 receive and briskly execute her hospitable hints. David and she were on
 
 the best terms in the world; and his devotion to the heiress was quite
-
-disinterested, since it prejudiced in nothing his faithful allegiance to
-
-the magnificent Dora Sykes.
-
-
-
-The repast turned out a very merry one. Donne and Malone, indeed,
-
-contributed but little to its vivacity, the chief part they played in it
-
-being what concerned the knife, fork, and wine-glass; but where four
-
-such natures as Mr. Hall, David Sweeting, [[Shirley]], and Caroline were
-
-assembled in health and amity, on a green lawn, under a sunny sky,
-
-amidst a wilderness of [[Flowers|flowers]], there could not be ungenial dullness.

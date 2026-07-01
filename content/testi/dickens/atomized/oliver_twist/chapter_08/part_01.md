@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 8 (part 1)"
+title: "Oliver Twist — Chapter 8 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -114,9 +114,3 @@ closed; the street was empty; not a [[Soul|soul]] had awakened to the business
 of the day. The sun was rising in all its splendid [[Beauty|beauty]]; but the
 light only served to show the boy his own lonesomeness and desolation,
 as he sat, with bleeding feet and covered with [[Dust|dust]], upon a door-step.
-
-By degrees, the shutters were opened; the [[Window|window]]-blinds were drawn up;
-and people began passing to and fro. Some few stopped to gaze at [[Oliver]]
-for a moment or two, or turned round to stare at him as they hurried
-by; but none relieved him, or troubled themselves to inquire how he
-came there. He had no heart to beg. And there he sat.

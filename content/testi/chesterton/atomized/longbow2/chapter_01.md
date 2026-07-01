@@ -1,5 +1,5 @@
 ---
-title: "[[longbow2]] — Chapter 1"
+title: "longbow2 — Chapter 1"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/longbow2-(chesterton)"
@@ -17,7 +17,6 @@ tags:
                           Chapter I
 
         The Unpresentable Appearance of Colonel Crane
-
 
 These tales concern the doing of things recognized as
 impossible to do; impossible to believe; and, as the weary reader
@@ -831,19 +830,19 @@ Flemish galleries, and don't you know what great men painted cabbages?
 What they saw was certain lines and colours; very wonderful lines
 and colours."
 
-"It may be all very [[Well|well]] in a picture," he began doubtfully.
+"It may be all very well in a picture," he began doubtfully.
 
 She suddenly laughed aloud.
 
 "You idiot," she cried; "don't you know you looked perfectly splendid? 
-The curves were like a great turban of [[Leaves|leaves]] and the root [[Rose|rose]]
+The curves were like a great turban of leaves and the root rose
 like the spike of a helmet; it was rather like the turbaned
 helmets on some of Rembrandt's figures, with the face like bronze
 in the shadows of green and purple.  That's the sort of thing
 artists can see, who keep their eyes and heads clear of words! 
 And then you want to apologize for not wearing that stupid stove-pipe
 covered with blacking, when you went about wearing a coloured
-[[Crown|crown]] like a [[King|king]].  And you were like a [[King|king]] in this country;
+crown like a king.  And you were like a king in this country;
 for they were all afraid of you."
 
 As he continued a faint protest, her laughter took on a more
@@ -859,5 +858,5 @@ Then, after a pause, she said with a beautiful irrelevancy:
 But these are tales of topsy-turvydom even in the sense that they
 have to be told tail-foremost. And he who would know the answer
 to that question must deliver himself up to the intolerable tedium
-of reading the story of The Improbable [[success|Success]] of Mr. Owen Hood,
+of reading the story of The Improbable Success of Mr. Owen Hood,
 and an interval must be allowed him before such torments are renewed.

@@ -1,5 +1,5 @@
 ---
-title: "[[innocence]] — The Secret [[Garden]] (part 4)"
+title: "innocence — The Secret Garden (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_05">part 05 ›</a></div>
 </nav>
 
+
+The Irish officer stood up disordered and defiant on the threshold.
+"What do you want with me?" he cried.
+
+"Please sit down," said Valentin in pleasant, level tones.
+"Why, you aren't wearing your [[Sword|sword]].  Where is it?"
 
 "I left it on the library table," said O'Brien, his brogue deepening
 in his disturbed mood.  "It was a nuisance, it was getting--"
@@ -137,17 +143,3 @@ Meanwhile," he added, slapping the steel back in the ringing scabbard,
 
 At the military symbolism of the action the audience could hardly
 refrain from applause.
-
-For Neil O'Brien, indeed, that gesture was the turning-point of existence.
-By the [[Time|time]] he was wandering in the mysterious [[Garden|garden]] again in
-the colours of the morning the tragic futility of his ordinary mien
-had fallen from him; he was a man with many reasons for happiness.
-Lord Galloway was a gentleman, and had offered him an apology.
-Lady Margaret was something better than a lady, a woman at least,
-and had perhaps given him something better than an apology,
-as they drifted among the old flowerbeds before breakfast.
-The whole company was more lighthearted and humane, for though
-the [[Riddle|riddle]] of the [[Death|death]] remained, the load of suspicion was lifted off
-them all, and sent flying off to [[Paris]] with the strange millionaire--
-a man they hardly knew.  The devil was cast out of the [[house]]--
-he had cast himself out.

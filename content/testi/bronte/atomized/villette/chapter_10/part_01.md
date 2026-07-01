@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 10 (part 1)"
+title: "Villette — Chapter 10 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -117,14 +117,3 @@ English; “but he is busy at a place three leagues off, and I am come in
 his stead. So now, when we get a little calmer, we must commence
 business; and we will soon have that unlucky little arm bandaged and in
 right order.”
-
-Hereupon he called for a glass of _eau sucrée_, fed her with some
-teaspoonfuls of the sweet liquid (Fifine was a frank gourmande; anybody
-could win her heart through her palate), promised her more when the
-operation should be over, and promptly went to work. Some assistance
-being needed, he demanded it of the cook, a robust, strong-armed woman;
-but she, the portress, and the [[Nurse|nurse]] instantly fled. I did not like to
-touch that small, tortured limb, but thinking there was no alternative,
-my hand was already extended to do what was requisite. I was
-anticipated; [[Madame Beck]] had put out her own hand: hers was steady
-while mine trembled.

@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/the-old-curiosity-shop-(dickens)">The Old Curiosity Shop</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_old_curiosity_shop/chapter_12/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/the_old_curiosity_shop/chapter_13/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_old_curiosity_shop/chapter_12/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/the_old_curiosity_shop/chapter_13/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -127,8 +127,3 @@ somebody dead here.’
 
 ‘You came for some purpose, I suppose,’ said Quilp.  ‘What is it you
 want?’
-
-‘I want to know how the old gentleman is,’ rejoined Mr Swiveller, ‘and
-to hear from Nell herself, with whom I should like to have a little
-talk.  I’m a friend of the family, sir--at least I’m the friend of one
-of the family, and that’s the same thing.’

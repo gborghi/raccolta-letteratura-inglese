@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 12 (part 5)"
+title: "Persuasion — Chapter 12 (part 5)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -12,6 +12,24 @@ tags:
 <div class="excerpt-crumb">Austen · <a href="/works/persuasion-(austen)">Persuasion</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_12/part_04">‹ part 04</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_13/part_01">part 01 ›</a></div>
 </nav>
+
+
+as to leaving his sister in such a state, he neither ought, nor would.
+
+So far it was decided; and Henrietta at first declared the same. She,
+
+however, was soon persuaded to think differently. The usefulness of her
+
+staying! She who had not been able to remain in Louisa’s room, or to
+
+look at her, without sufferings which made her worse than helpless! She
+
+was forced to acknowledge that she could do no good, yet was still
+
+unwilling to be away, till, touched by the thought of her father and
+
+mother, she gave it up; she consented, she was anxious to be at [[Home|home]].
+
 
 
 The plan had reached this point, when Anne, coming quietly down from

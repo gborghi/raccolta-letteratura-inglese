@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 28 (part 4)"
+title: "Dombey and Son — Chapter 56 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -10,134 +10,148 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/dombey-and-son-(dickens)">Dombey and Son</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_84/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_85/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_84/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_84/part_05">part 05 ›</a></div>
 </nav>
 
 
-“There are great alterations going on.”
+Walter was busy and away all day, but came there every morning early to
+see Florence, and always passed the evening with her. Florence never
+left her high rooms but to steal downstairs to wait for him when it was
+his [[Time|time]] to come, or, sheltered by his proud, encircling arm, to bear
+him company to the door again, and sometimes peep into the street. In
+the twilight they were always together. Oh blessed [[Time|time]]! Oh wandering
+heart at rest! Oh deep, exhaustless, mighty [[Well|well]] of [[Love|love]], in which so
+much was sunk!
 
-“Yes, Miss, great alterations,” said Towlinson.
+The cruel mark was on her bosom yet. It [[Rose|rose]] against her father with
+the breath she drew, it lay between her and her [[Lover|lover]] when he pressed
+her to his heart. But she forgot it. In the beating of that heart for
+her, and in the beating of her own for him, all harsher music was
+unheard, all stern unloving hearts forgotten. Fragile and delicate she
+was, but with a might of [[Love|love]] within her that could, and did, create a
+world to fly to, and to rest in, out of his one image.
 
-Florence passed him as if she were in [[A Dream|a dream]], and hurried upstairs.
-The garish light was in the long-darkened drawing-room and there were
-steps and platforms, and men in paper caps, in the high places. Her
-mother’s picture was gone with the rest of the moveables, and on the
-mark where it had been, was scrawled in [[chalk]], “this room in panel.
-Green and gold.” The staircase was a labyrinth of posts and planks like
-the outside of the [[house]], and a whole Olympus of plumbers and glaziers
-was reclining in various attitudes, on the skylight. Her own room was
-not yet touched within, but there were beams and boards raised against
-it without, baulking the daylight. She went up swiftly to that other
-bedroom, where the little bed was; and a dark giant of a man with a
-pipe in his mouth, and his head tied up in a pocket-handkerchief, was
-staring in at the [[Window|window]].
+How often did the [[Great House|great house]], and the old days, come before her in the
+twilight [[Time|time]], when she was sheltered by the arm, so proud, so fond,
+and, creeping closer to him, shrunk within it at the recollection! How
+often, from remembering the [[Night|night]] when she went down to that room and
+met the never-to-be forgotten look, did she raise her eyes to those
+that watched her with such loving earnestness, and weep with happiness
+in such a refuge! The more she clung to it, the more the dear dead
+[[Child|child]] was in her thoughts: but as if the last [[Time|time]] she had seen her
+father, had been when he was sleeping and she kissed his face, she
+always left him so, and never, in her fancy, passed that hour.
 
-It was here that [[Susan Nipper]], who had been in [[Quest|quest]] of Florence, found
-her, and said, would she go downstairs to her Papa, who wished to speak
-to her.
+“Walter, dear,” said Florence, one evening, when it was almost dark.
+“Do you know what I have been thinking today?”
 
-“At [[Home|home]]! and wishing to speak to me!” cried Florence, trembling.
+“Thinking how the [[Time|time]] is flying on, and how soon we shall be upon the
+sea, sweet Florence?”
 
-Susan, who was infinitely more distraught than Florence herself,
-repeated her errand; and Florence, pale and agitated, hurried down
-again, without a moment’s hesitation. She thought upon the way down,
-would she dare to kiss him? The [[Longing|longing]] of her heart resolved her, and
-she thought she would.
+“I don’t mean that, Walter, though I think of that too. I have been
+thinking what a charge I am to you.”
 
-Her father might have heard that heart beat, when it came into his
-presence. One instant, and it would have beat against his breast.
+“A precious, sacred charge, dear heart! Why, I think that sometimes.”
 
-But he was not [[Alone|alone]]. There were two ladies there; and Florence
-stopped. Striving so hard with her emotion, that if her brute friend Di
-had not burst in and overwhelmed her with his caresses as a welcome
-[[Home|home]]—at which one of the ladies gave a little scream, and that diverted
-her attention from herself—she would have swooned upon the floor.
+“You are laughing, Walter. I know that’s much more in your thoughts
+than mine. But I mean a cost.
 
-“Florence,” said her father, putting out his hand: so stiffly that it
-held her off: “how do you do?”
+“A cost, my own?”
 
-[Illustration]
+“In money, dear. All these preparations that Susan and I are so busy
+with—I have been able to purchase very little for myself. You were poor
+before. But how much poorer I shall make you, Walter!”
 
-Florence took the hand between her own, and putting it timidly to her
-lips, yielded to its withdrawal. It touched the door in shutting it,
-with quite as much endearment as it had touched her.
+“And how much richer, Florence!”
 
-“What dog is that?” said Mr Dombey, displeased.
+Florence laughed, and shook her head.
 
-“It is a dog, Papa—from Brighton.”
+“Besides,” said Walter, “long ago—before I went to sea—I had a little
+purse presented to me, dearest, which had money in it.”
 
-“[[Well]]!” said Mr Dombey; and a cloud passed over his face, for he
-understood her.
+“Ah!” returned Florence, laughing sorrowfully, “very little! very
+little, Walter! But, you must not think,” and here she laid her light
+hand on his shoulder, and looked into his face, “that I regret to be
+this burden on you. No, dear [[Love|love]], I am glad of it. I am happy in it. I
+wouldn’t have it otherwise for all the world!”
 
-“He is very good-tempered,” said Florence, addressing herself with her
-natural grace and sweetness to the two lady strangers. “He is only glad
-to see me. Pray forgive him.”
+“Nor I, indeed, dear Florence.”
 
-She saw in the glance they interchanged, that the lady who had
-screamed, and who was seated, was old; and that the other lady, who
-stood near her Papa, was very beautiful, and of an elegant figure.
+“Ay! but, Walter, you can never feel it as I do. I am so proud of you!
+It makes my heart swell with such delight to know that those who speak
+of you must say you married a poor disowned girl, who had taken shelter
+here; who had no other [[Home|home]], no other friends; who had nothing—nothing!
+Oh, Walter, if I could have brought you millions, I never could have
+been so happy for your sake, as I am!”
 
-“Mrs Skewton,” said her father, turning to the first, and holding out
-his hand, “this is my daughter Florence.”
+“And you, dear Florence? are you nothing?” he returned.
 
-“Charming, I am sure,” observed the lady, putting up her glass. “So
-natural! My darling Florence, you must kiss me, if you please.”
+“No, nothing, Walter. Nothing but your wife.” The light hand stole
+about his neck, and the voice came nearer—nearer. “I am nothing any
+more, that is not you. I have no earthly [[Hope|hope]] any more, that is not
+you. I have nothing dear to me any more, that is not you.”
 
-Florence having done so, turned towards the other lady, by whom her
-father stood waiting.
+Oh! [[Well|well]] might Mr Toots leave the little company that evening, and
+twice go out to correct his watch by the Royal Exchange, and once to
+keep an appointment with a banker which he suddenly remembered, and
+once to take a little turn to Aldgate Pump and back!
 
-“Edith,” said Mr Dombey, “this is my daughter Florence. Florence, this
-lady will soon be your Mama.”
+But before he went upon these expeditions, or indeed before he came,
+and before lights were brought, Walter said:
 
-Florence started, and looked up at the beautiful face in a conflict of
-emotions, among which the [[Tears|tears]] that name awakened, struggled for a
-moment with surprise, interest, admiration, and an indefinable sort of
-[[Fear|fear]]. Then she cried out, “Oh, Papa, may you be happy! may you be very,
-very happy all your life!” and then fell weeping on the lady’s bosom.
+“Florence, [[Love|love]], the lading of our [[Ship|ship]] is nearly finished, and
+probably on the very day of our [[Marriage|marriage]] she will drop down the [[River|river]].
+Shall we go away that morning, and stay in [[Kent]] until we go on board at
+Gravesend within a week?”
 
-There was a short [[Silence|silence]]. The beautiful lady, who at first had seemed
-to hesitate whether or no she should advance to Florence, held her to
-her breast, and pressed the hand with which she clasped her, close
-about her waist, as if to reassure her and comfort her. Not one word
-passed the lady’s lips. She bent her head down over Florence, and she
-kissed her on the cheek, but she said no word.
+“If you please, Walter. I shall be happy anywhere. But—”
 
-“Shall we go on through the rooms,” said Mr Dombey, “and see how our
-workmen are doing? Pray allow me, my dear madam.”
+“Yes, my life?”
 
-He said this in offering his arm to Mrs Skewton, who had been looking
-at Florence through her glass, as though picturing to herself what she
-might be made, by the infusion—from her own copious storehouse, no
-[[Doubt|doubt]]—of a little more Heart and [[Nature]]. Florence was still sobbing on
-the lady’s breast, and holding to her, when Mr Dombey was heard to say
-from the Conservatory:
+“You know,” said Florence, “that we shall have no [[Marriage|marriage]] party, and
+that nobody will distinguish us by our dress from other people. As we
+leave the same day, will you—will you take me somewhere that morning,
+Walter—early—before we go to church?”
 
-“Let us ask Edith. Dear me, where is she?”
+Walter seemed to understand her, as so true a [[Lover|lover]] so truly loved
+should, and confirmed his ready promise with a kiss—with more than one
+perhaps, or two or three, or five or six; and in the [[Grave|grave]], peaceful
+evening, Florence was very happy.
 
-“Edith, my dear!” cried Mrs Skewton, “where are you? Looking for Mr
-Dombey somewhere, I know. We are here, my [[Love|love]].”
+Then into the quiet room came [[Susan Nipper]] and the candles; shortly
+afterwards, the tea, the Captain, and the excursive Mr Toots, who, as
+above mentioned, was frequently on the move afterwards, and passed but
+a restless evening. This, however, was not his habit: for he generally
+got on very [[Well|well]], by dint of playing at cribbage with the Captain under
+the advice and guidance of Miss Nipper, and distracting his mind with
+the calculations incidental to the game; which he found to be a very
+effectual means of utterly confounding himself.
 
-The beautiful lady released her hold of Florence, and pressing her lips
-once more upon her face, withdrew hurriedly, and joined them. Florence
-remained standing in the same place: happy, sorry, joyful, and in
-[[Tears|tears]], she knew not how, or how long, but all at once: when her new
-Mama came back, and took her in her arms again.
-
-“Florence,” said the lady, hurriedly, and looking into her face with
-great earnestness. “You will not begin by hating me?”
-
-“By hating you, Mama?” cried Florence, winding her arm round her neck,
-and returning the look.
-
-“Hush! Begin by thinking [[Well|well]] of me,” said the beautiful lady. “Begin
-by believing that I will try to make you happy, and that I am prepared
-to [[Love|love]] you, Florence. Good-bye. We shall meet again soon. Good-bye!
-Don’t stay here, now.”
-
-Again she pressed her to her breast she had spoken in a rapid manner,
-but firmly—and Florence saw her rejoin them in the other room.
-
-And now Florence began to [[Hope|hope]] that she would learn from her new and
-beautiful Mama, how to gain her father’s [[Love|love]]; and in her [[Sleep|sleep]] that
-[[Night|night]], in her lost old [[Home|home]], her own Mama smiled radiantly upon the
-[[Hope|hope]], and blessed it. Dreaming Florence!
+The Captain’s visage on these occasions presented one of the finest
+examples of combination and succession of expression ever observed. His
+instinctive delicacy and his chivalrous feeling towards Florence,
+taught him that it was not a [[Time|time]] for any boisterous jollity, or
+violent display of satisfaction; floating reminiscences of Lovely Peg,
+on the other hand, were constantly struggling for a vent, and urging
+the Captain to commit himself by some irreparable demonstration. Anon,
+his admiration of Florence and Walter—[[Well|well]]-matched, truly, and full of
+grace and interest in their youth, and [[Love|love]], and good looks, as they
+sat apart—would take such complete possession of him, that he would lay
+down his cards, and beam upon them, dabbing his head all over with his
+pocket-handkerchief; until warned, perhaps, by the sudden rushing forth
+of Mr Toots, that he had unconsciously been very instrumental, indeed,
+in making that gentleman miserable. This reflection would make the
+Captain profoundly [[Melancholy|melancholy]], until the return of Mr Toots; when he
+would fall to his cards again, with many side winks and nods, and
+polite waves of his hook at Miss Nipper, importing that he wasn’t going
+to do so any more. The state that ensued on this, was, perhaps, his
+best; for then, endeavouring to discharge all expression from his face,
+he would sit staring round the room, with all these expressions
+conveyed into it at once, and each wrestling with the other. Delighted
+admiration of Florence and Walter always overthrew the rest, and
+remained victorious and undisguised, unless Mr Toots made another rush
+into the air, and then the Captain would sit, like a remorseful
+culprit, until he came back again, occasionally calling upon himself,
+in a low reproachful voice, to “Stand by!” or growling some
+remonstrance to “Ed’ard Cuttle, my lad,” on the want of caution
+observable in his behaviour.

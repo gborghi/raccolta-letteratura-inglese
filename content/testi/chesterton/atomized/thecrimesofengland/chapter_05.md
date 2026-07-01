@@ -1,5 +1,5 @@
 ---
-title: "[[TheCrimesOfEngland]] — Chapter 5"
+title: "TheCrimesOfEngland — Chapter 5"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/thecrimesofengland-(chesterton)"
@@ -16,11 +16,7 @@ tags:
 
 CHAPTER V
 
-
-
 THE LOST ENGLAND
-
-
 
 [[Truth]] about England and Ireland--Murder
 

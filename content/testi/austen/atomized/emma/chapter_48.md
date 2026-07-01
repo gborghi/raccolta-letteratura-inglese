@@ -1,5 +1,5 @@
 ---
-title: "[[Emma]] — Chapter 10"
+title: "Emma — Chapter 12"
 author: "Austen"
 unitType: chapter
 parentWork: "works/emma-(austen)"
@@ -14,355 +14,278 @@ tags:
 </nav>
 
 
-CHAPTER X
-
-
-One morning, about ten days after Mrs. Churchill’s decease, [[Emma]] was
-called downstairs to Mr. Weston, who “could not stay five minutes, and
-wanted particularly to speak with her.”—He met her at the parlour-door,
-and hardly asking her how she did, in the natural key of his voice,
-sunk it immediately, to say, unheard by her father,
-
-“Can you come to Randalls at any [[Time|time]] this morning?—Do, if it be
-possible. Mrs. Weston wants to see you. She must see you.”
-
-“Is she unwell?”
-
-“No, no, not at all—only a little agitated. She would have ordered the
-carriage, and come to you, but she must see you _alone_, and that you
-know—(nodding towards her father)—Humph!—Can you come?”
-
-“Certainly. This moment, if you please. It is impossible to refuse what
-you ask in such a way. But what can be the matter?—Is she really not
-ill?”
-
-“Depend upon me—but ask no more questions. You will know it all in
-[[Time|time]]. The most unaccountable business! But hush, hush!”
-
-To guess what all this meant, was impossible even for [[Emma]]. Something
-really important seemed announced by his looks; but, as her friend was
-[[Well|well]], she endeavoured not to be uneasy, and settling it with her
-father, that she would take her walk now, she and Mr. Weston were soon
-out of the [[house]] together and on their way at a quick pace for
-Randalls.
-
-“Now,”—said [[Emma]], when they were fairly beyond the sweep gates,—“now
-Mr. Weston, do let me know what has happened.”
-
-“No, no,”—he gravely replied.—“Don’t ask me. I promised my wife to
-leave it all to her. She will break it to you better than I can. Do not
-be impatient, [[Emma]]; it will all come out too soon.”
-
-“Break it to me,” cried [[Emma]], standing still with terror.—“Good
-God!—Mr. Weston, tell me at once.—Something has happened in Brunswick
-Square. I know it has. Tell me, I charge you tell me this moment what
-it is.”
-
-“No, indeed you are mistaken.”—
-
-“Mr. Weston do not trifle with me.—Consider how many of my dearest
-friends are now in Brunswick Square. Which of them is it?—I charge you
-by all that is sacred, not to attempt concealment.”
-
-“Upon my word, [[Emma]].”—
-
-“Your word!—why not your [[Honour|honour]]!—why not say upon your [[Honour|honour]], that it
-has nothing to do with any of them? Good Heavens!—What can be to be
-_broke_ to me, that does not relate to one of that family?”
-
-“Upon my [[Honour|honour]],” said he very seriously, “it does not. It is not in
-the smallest degree connected with any human being of the name of
-Knightley.”
-
-[[Emma]]’s [[Courage|courage]] returned, and she walked on.
-
-“I was wrong,” he continued, “in talking of its being _broke_ to you. I
-should not have used the expression. In fact, it does not concern
-you—it concerns only myself,—that is, we [[Hope|hope]].—Humph!—In short, my dear
-[[Emma]], there is no occasion to be so uneasy about it. I don’t say that
-it is not a disagreeable business—but things might be much worse.—If we
-walk fast, we shall soon be at Randalls.”
-
-[[Emma]] found that she must wait; and now it required little effort. She
-asked no more questions therefore, merely employed her own fancy, and
-that soon pointed out to her the probability of its being some money
-concern—something just come to light, of a disagreeable [[Nature|nature]] in the
-circumstances of the family,—something which the late event at Richmond
-had brought forward. Her fancy was very active. Half a dozen natural
-children, perhaps—and poor Frank cut off!—This, though very
-undesirable, would be no matter of agony to her. It inspired little
-more than an animating curiosity.
-
-“Who is that gentleman on horseback?” said she, as they
-proceeded—speaking more to assist Mr. Weston in keeping his secret,
-than with any other view.
-
-“I do not know.—One of the Otways.—Not Frank;—it is not Frank, I assure
-you. You will not see him. He is half way to Windsor by this [[Time|time]].”
-
-“Has your son been with you, then?”
-
-“Oh! yes—did not you know?—[[Well]], [[Well|well]], never mind.”
-
-For a moment he was silent; and then added, in a tone much more guarded
-and demure,
-
-“Yes, Frank came over this morning, just to ask us how we did.”
-
-They hurried on, and were speedily at Randalls.—“[[Well]], my dear,” said
-he, as they entered the room—“I have brought her, and now I [[Hope|hope]] you
-will soon be better. I shall leave you together. There is no use in
-delay. I shall not be far off, if you want me.”—And [[Emma]] distinctly
-heard him add, in a lower tone, before he quitted the room,—“I have
-been as good as my word. She has not the least idea.”
-
-Mrs. Weston was looking so ill, and had an air of so much perturbation,
-that [[Emma]]’s uneasiness increased; and the moment they were [[Alone|alone]], she
-eagerly said,
-
-“What is it my dear friend? Something of a very unpleasant [[Nature|nature]], I
-find, has occurred;—do let me know directly what it is. I have been
-walking all this way in complete suspense. We both abhor suspense. Do
-not let mine continue longer. It will do you good to speak of your
-distress, whatever it may be.”
-
-“Have you indeed no idea?” said Mrs. Weston in a trembling voice.
-“Cannot you, my dear [[Emma]]—cannot you form a guess as to what you are to
-hear?”
-
-“So far as that it relates to Mr. [[Frank Churchill]], I do guess.”
-
-“You are right. It does relate to him, and I will tell you directly;”
-(resuming her work, and seeming resolved against looking up.) “He has
-been here this very morning, on a most extraordinary errand. It is
-impossible to express our surprize. He came to speak to his father on a
-subject,—to announce an attachment—”
-
-She stopped to breathe. [[Emma]] thought first of herself, and then of
-Harriet.
-
-“More than an attachment, indeed,” resumed Mrs. Weston; “an
-engagement—a positive engagement.—What will you say, [[Emma]]—what will any
-[[Body|body]] say, when it is known that [[Frank Churchill]] and Miss Fairfax are
-engaged;—nay, that they have been long engaged!”
-
-[[Emma]] even jumped with surprize;—and, horror-struck, exclaimed,
-
-“[[Jane Fairfax]]!—Good God! You are not serious? You do not mean it?”
-
-“You may [[Well|well]] be amazed,” returned Mrs. Weston, still averting her
-eyes, and talking on with eagerness, that [[Emma]] might have [[Time|time]] to
-recover— “You may [[Well|well]] be amazed. But it is even so. There has been a
-solemn engagement between them ever since October—formed at Weymouth,
-and kept a secret from every [[Body|body]]. Not a creature knowing it but
-themselves—neither the Campbells, nor her family, nor his.—It is so
-wonderful, that though perfectly convinced of the fact, it is yet
-almost incredible to myself. I can hardly believe it.—I thought I knew
-him.”
-
-[[Emma]] scarcely heard what was said.—Her mind was divided between two
-ideas—her own former conversations with him about Miss Fairfax; and
-poor Harriet;—and for some [[Time|time]] she could only exclaim, and require
-confirmation, repeated confirmation.
-
-“[[Well]],” said she at last, trying to recover herself; “this is a
-circumstance which I must think of at least half a day, before I can at
-all comprehend it. What!—engaged to her all the [[Winter|winter]]—before either of
-them came to Highbury?”
-
-“Engaged since October,—secretly engaged.—It has hurt me, [[Emma]], very
-much. It has hurt his father equally. _Some_ _part_ of his conduct we
-cannot excuse.”
-
-[[Emma]] pondered a moment, and then replied, “I will not pretend _not_ to
-understand you; and to give you all the relief in my power, be assured
-that no such effect has followed his attentions to me, as you are
-apprehensive of.”
-
-Mrs. Weston looked up, afraid to believe; but [[Emma]]’s countenance was as
-steady as her words.
-
-“That you may have less difficulty in believing this boast, of my
-present perfect indifference,” she continued, “I will farther tell you,
-that there was a period in the early part of our acquaintance, when I
-did like him, when I was very much disposed to be attached to him—nay,
-was attached—and how it came to cease, is perhaps the [[Wonder|wonder]].
-Fortunately, however, it did cease. I have really for some [[Time|time]] past,
-for at least these three months, cared nothing about him. You may
-believe me, Mrs. Weston. This is the simple [[Truth|truth]].”
-
-Mrs. Weston kissed her with [[Tears|tears]] of joy; and when she could find
-utterance, assured her, that this protestation had done her more good
-than any thing else in the world could do.
-
-“Mr. Weston will be almost as much relieved as myself,” said she. “On
-this point we have been wretched. It was our darling wish that you
-might be attached to each other—and we were persuaded that it was so.—
-Imagine what we have been feeling on your account.”
-
-“I have escaped; and that I should escape, may be a matter of grateful
-[[Wonder|wonder]] to you and myself. But this does not acquit _him_, Mrs. Weston;
-and I must say, that I think him greatly to blame. What right had he to
-come among us with affection and [[Faith|faith]] engaged, and with manners so
-_very_ disengaged? What right had he to endeavour to please, as he
-certainly did—to distinguish any one young woman with persevering
-attention, as he certainly did—while he really belonged to another?—How
-could he tell what mischief he might be doing?—How could he tell that
-he might not be making me in [[Love|love]] with him?—very wrong, very wrong
-indeed.”
-
-“From something that he said, my dear [[Emma]], I rather imagine—”
-
-“And how could _she_ bear such behaviour! Composure with a witness! to
-look on, while repeated attentions were offering to another woman,
-before her face, and not resent it.—That is a degree of placidity,
-which I can neither comprehend nor respect.”
-
-“There were misunderstandings between them, [[Emma]]; he said so expressly.
-He had not [[Time|time]] to enter into much explanation. He was here only a
-quarter of an hour, and in a state of agitation which did not allow the
-full use even of the [[Time|time]] he could stay—but that there had been
-misunderstandings he decidedly said. The present crisis, indeed, seemed
-to be brought on by them; and those misunderstandings might very
-possibly arise from the impropriety of his conduct.”
-
-“Impropriety! Oh! Mrs. Weston—it is too calm a censure. Much, much
-beyond impropriety!—It has sunk him, I cannot say how it has sunk him
-in my opinion. So unlike what a man should be!—None of that upright
-integrity, that strict adherence to [[Truth|truth]] and principle, that disdain
-of trick and littleness, which a man should display in every
-transaction of his life.”
-
-“Nay, dear [[Emma]], now I must take his part; for though he has been wrong
-in this instance, I have known him long enough to answer for his having
-many, very many, good qualities; and—”
-
-“Good God!” cried [[Emma]], not attending to her.—“Mrs. Smallridge, too!
-Jane actually on the point of going as governess! What could he mean by
-such horrible indelicacy? To suffer her to engage herself—to suffer her
-even to think of such a measure!”
-
-“He knew nothing about it, [[Emma]]. On this article I can fully acquit
-him. It was a private resolution of hers, not communicated to him—or at
-least not communicated in a way to carry conviction.—Till yesterday, I
-know he said he was in the dark as to her plans. They burst on him, I
-do not know how, but by some letter or message—and it was the discovery
-of what she was doing, of this very project of hers, which determined
-him to come forward at once, own it all to his uncle, throw himself on
-his kindness, and, in short, put an end to the miserable state of
-concealment that had been carrying on so long.”
-
-[[Emma]] began to listen better.
-
-“I am to hear from him soon,” continued Mrs. Weston. “He told me at
-parting, that he should soon write; and he spoke in a manner which
-seemed to promise me many particulars that could not be given now. Let
-us wait, therefore, for this letter. It may bring many extenuations. It
-may make many things intelligible and excusable which now are not to be
-understood. Don’t let us be severe, don’t let us be in a hurry to
-condemn him. Let us have patience. I must [[Love|love]] him; and now that I am
-satisfied on one point, the one material point, I am sincerely anxious
-for its all turning out [[Well|well]], and ready to [[Hope|hope]] that it may. They must
-both have suffered a great deal under such a system of secresy and
-concealment.”
-
-“_His_ sufferings,” replied [[Emma]] dryly, “do not appear to have done him
-much harm. [[Well]], and how did Mr. Churchill take it?”
-
-“Most favourably for his nephew—gave his consent with scarcely a
-difficulty. Conceive what the events of a week have done in that
-family! While poor Mrs. Churchill lived, I suppose there could not have
-been a [[Hope|hope]], a chance, a possibility;—but scarcely are her remains at
-rest in the family vault, than her husband is persuaded to act exactly
-opposite to what she would have required. What a blessing it is, when
-undue influence does not survive the [[Grave|grave]]!—He gave his consent with
-very little [[Persuasion|persuasion]].”
-
-“Ah!” thought [[Emma]], “he would have done as much for Harriet.”
-
-“This was settled last [[Night|night]], and Frank was off with the light this
-morning. He stopped at Highbury, at the Bates’s, I fancy, some [[Time|time]]—and
-then came on hither; but was in such a hurry to get back to his uncle,
-to whom he is just now more necessary than ever, that, as I tell you,
-he could stay with us but a quarter of an hour.—He was very much
-agitated—very much, indeed—to a degree that made him appear quite a
-different creature from any thing I had ever seen him before.—In
-addition to all the rest, there had been the shock of finding her so
-very unwell, which he had had no previous suspicion of—and there was
-every appearance of his having been feeling a great deal.”
-
-“And do you really believe the affair to have been carrying on with
-such perfect secresy?—The Campbells, the Dixons, did none of them know
-of the engagement?”
-
-[[Emma]] could not speak the name of Dixon without a little blush.
-
-“None; not one. He positively said that it had been known to no being
-in the world but their two selves.”
-
-“[[Well]],” said [[Emma]], “I suppose we shall gradually grow reconciled to the
-idea, and I wish them very happy. But I shall always think it a very
-abominable sort of proceeding. What has it been but a system of
-hypocrisy and deceit,—espionage, and treachery?—To come among us with
-professions of openness and simplicity; and such a league in secret to
-judge us all!—Here have we been, the whole [[Winter|winter]] and [[spring]],
-completely duped, fancying ourselves all on an equal footing of [[Truth|truth]]
-and [[Honour|honour]], with two people in the midst of us who may have been
-carrying round, comparing and sitting in judgment on sentiments and
-words that were never meant for both to hear.—They must take the
-consequence, if they have heard each other spoken of in a way not
-perfectly agreeable!”
-
-“I am quite easy on that head,” replied Mrs. Weston. “I am very sure
-that I never said any thing of either to the other, which both might
-not have heard.”
-
-“You are in luck.—Your only blunder was confined to my ear, when you
-imagined a certain friend of ours in [[Love|love]] with the lady.”
-
-“True. But as I have always had a thoroughly good opinion of Miss
-Fairfax, I never could, under any blunder, have spoken ill of her; and
-as to speaking ill of him, there I must have been safe.”
-
-At this moment Mr. Weston appeared at a little distance from the
-[[Window|window]], evidently on the watch. His wife gave him a look which invited
-him in; and, while he was coming round, added, “Now, dearest [[Emma]], let
-me intreat you to say and look every thing that may set his heart at
-ease, and incline him to be satisfied with the match. Let us make the
-best of it—and, indeed, almost every thing may be fairly said in her
-favour. It is not a connexion to gratify; but if Mr. Churchill does not
-feel that, why should we? and it may be a very fortunate circumstance
-for him, for Frank, I mean, that he should have attached himself to a
-girl of such steadiness of character and good judgment as I have always
-given her credit for—and still am disposed to give her credit for, in
-spite of this one great deviation from the strict rule of right. And
-how much may be said in her situation for even that error!”
-
-“Much, indeed!” cried [[Emma]] feelingly. “If a woman can ever be excused
-for thinking only of herself, it is in a situation like Jane
-Fairfax’s.—Of such, one may almost say, that ‘the world is not their’s,
-nor the world’s law.’”
-
-She met Mr. Weston on his entrance, with a smiling countenance,
-exclaiming,
-
-“A very pretty trick you have been playing me, upon my word! This was a
-device, I suppose, to sport with my curiosity, and exercise my talent
-of guessing. But you really frightened me. I thought you had lost half
-your property, at least. And here, instead of its being a matter of
-condolence, it turns out to be one of congratulation.—I congratulate
-you, Mr. Weston, with all my heart, on the prospect of having one of
-the most lovely and accomplished young women in England for your
-daughter.”
-
-A glance or two between him and his wife, convinced him that all was as
-right as this speech proclaimed; and its happy effect on his spirits
-was immediate. His air and voice recovered their usual briskness: he
-shook her heartily and gratefully by the hand, and entered on the
-subject in a manner to prove, that he now only wanted [[Time|time]] and
-[[Persuasion|persuasion]] to think the engagement no very bad thing. His companions
-suggested only what could palliate imprudence, or smooth objections;
-and by the [[Time|time]] they had talked it all over together, and he had talked
-it all over again with [[Emma]], in their walk back to Hartfield, he was
-become perfectly reconciled, and not far from thinking it the very best
-thing that Frank could possibly have done.
+CHAPTER XII
+
+
+Till now that she was threatened with its loss, [[Emma]] had never known
+how much of her happiness depended on being _first_ with Mr. Knightley,
+first in interest and affection.—Satisfied that it was so, and feeling
+it her due, she had enjoyed it without reflection; and only in the
+dread of being supplanted, found how inexpressibly important it had
+been.—Long, very long, she felt she had been first; for, having no
+female connexions of his own, there had been only [[Isabella]] whose claims
+could be compared with hers, and she had always known exactly how far
+he loved and esteemed [[Isabella]]. She had herself been first with him for
+many years past. She had not deserved it; she had often been negligent
+or perverse, slighting his advice, or even wilfully opposing him,
+insensible of half his merits, and quarrelling with him because he
+would not acknowledge her false and insolent estimate of her own—but
+still, from family attachment and habit, and thorough excellence of
+mind, he had loved her, and watched over her from a girl, with an
+endeavour to improve her, and an anxiety for her doing right, which no
+other creature had at all shared. In spite of all her faults, she knew
+she was dear to him; might she not say, very dear?—When the suggestions
+of [[Hope|hope]], however, which must follow here, presented themselves, she
+could not presume to indulge them. [[Harriet Smith]] might think herself
+not unworthy of being peculiarly, exclusively, passionately loved by
+Mr. Knightley. _She_ could not. She could not flatter herself with any
+idea of blindness in his attachment to _her_. She had received a very
+recent proof of its impartiality.—How shocked had he been by her
+behaviour to [[Miss Bates]]! How directly, how strongly had he expressed
+himself to her on the subject!—Not too strongly for the offence—but
+far, far too strongly to issue from any feeling softer than upright
+justice and clear-sighted goodwill.—She had no [[Hope|hope]], nothing to deserve
+the name of [[Hope|hope]], that he could have that sort of affection for herself
+which was now in question; but there was a [[Hope|hope]] (at times a slight one,
+at times much stronger,) that Harriet might have deceived herself, and
+be overrating his regard for _her_.—Wish it she must, for his sake—be
+the consequence nothing to herself, but his remaining single all his
+life. Could she be secure of that, indeed, of his never marrying at
+all, she believed she should be perfectly satisfied.—Let him but
+continue the same Mr. Knightley to her and her father, the same Mr.
+Knightley to all the world; let Donwell and Hartfield lose none of
+their precious intercourse of [[Friendship|friendship]] and confidence, and her peace
+would be fully secured.—[[Marriage]], in fact, would not do for her. It
+would be incompatible with what she owed to her father, and with what
+she felt for him. Nothing should separate her from her father. She
+would not marry, even if she were asked by Mr. Knightley.
+
+It must be her ardent wish that Harriet might be disappointed; and she
+hoped, that when able to see them together again, she might at least be
+able to ascertain what the chances for it were.—She should see them
+henceforward with the closest observance; and wretchedly as she had
+hitherto misunderstood even those she was watching, she did not know
+how to admit that she could be blinded here.—He was expected back every
+day. The power of observation would be soon given—frightfully soon it
+appeared when her thoughts were in one course. In the meanwhile, she
+resolved against seeing Harriet.—It would do neither of them good, it
+would do the subject no good, to be talking of it farther.—She was
+resolved not to be convinced, as long as she could [[Doubt|doubt]], and yet had
+no authority for opposing Harriet’s confidence. To talk would be only
+to irritate.—She wrote to her, therefore, kindly, but decisively, to
+beg that she would not, at present, come to Hartfield; acknowledging it
+to be her conviction, that all farther confidential discussion of _one_
+topic had better be avoided; and hoping, that if a few days were
+allowed to pass before they met again, except in the company of
+others—she objected only to a tête-à-tête—they might be able to act as
+if they had forgotten the conversation of yesterday.—Harriet submitted,
+and approved, and was grateful.
+
+This point was just arranged, when a visitor arrived to tear [[Emma]]’s
+thoughts a little from the one subject which had engrossed them,
+sleeping or waking, the last twenty-four hours—Mrs. Weston, who had
+been calling on her daughter-in-law elect, and took Hartfield in her
+way [[Home|home]], almost as much in duty to [[Emma]] as in pleasure to herself, to
+relate all the particulars of so interesting an interview.
+
+Mr. Weston had accompanied her to Mrs. Bates’s, and gone through his
+share of this essential attention most handsomely; but she having then
+induced Miss Fairfax to join her in an airing, was now returned with
+much more to say, and much more to say with satisfaction, than a
+quarter of an hour spent in Mrs. Bates’s parlour, with all the
+encumbrance of awkward feelings, could have afforded.
+
+A little curiosity [[Emma]] had; and she made the most of it while her
+friend related. Mrs. Weston had set off to pay the visit in a good deal
+of agitation herself; and in the first place had wished not to go at
+all at present, to be allowed merely to write to Miss Fairfax instead,
+and to defer this ceremonious call till a little [[Time|time]] had passed, and
+Mr. Churchill could be reconciled to the engagement’s becoming known;
+as, considering every thing, she thought such a visit could not be paid
+without leading to reports:—but Mr. Weston had thought differently; he
+was extremely anxious to shew his approbation to Miss Fairfax and her
+family, and did not conceive that any suspicion could be excited by it;
+or if it were, that it would be of any consequence; for “such things,”
+he observed, “always got about.” [[Emma]] smiled, and felt that Mr. Weston
+had very good reason for saying so. They had gone, in short—and very
+great had been the evident distress and confusion of the lady. She had
+hardly been able to speak a word, and every look and action had shewn
+how deeply she was [[Suffering|suffering]] from consciousness. The quiet, heart-felt
+satisfaction of the old lady, and the rapturous delight of her
+daughter—who proved even too joyous to talk as usual, had been a
+gratifying, yet almost an affecting, scene. They were both so truly
+respectable in their happiness, so disinterested in every sensation;
+thought so much of Jane; so much of every [[Body|body]], and so little of
+themselves, that every kindly feeling was at work for them. Miss
+Fairfax’s recent illness had offered a fair plea for Mrs. Weston to
+invite her to an airing; she had drawn back and declined at first, but,
+on being pressed had yielded; and, in the course of their drive, Mrs.
+Weston had, by gentle encouragement, overcome so much of her
+embarrassment, as to bring her to converse on the important subject.
+Apologies for her seemingly ungracious [[Silence|silence]] in their first
+reception, and the warmest expressions of the gratitude she was always
+feeling towards herself and Mr. Weston, must necessarily open the
+cause; but when these effusions were put by, they had talked a good
+deal of the present and of the future state of the engagement. Mrs.
+Weston was convinced that such conversation must be the greatest relief
+to her companion, pent up within her own mind as every thing had so
+long been, and was very much pleased with all that she had said on the
+subject.
+
+“On the misery of what she had suffered, during the concealment of so
+many months,” continued Mrs. Weston, “she was energetic. This was one
+of her expressions. ‘I will not say, that since I entered into the
+engagement I have not had some happy moments; but I can say, that I
+have never known the blessing of one tranquil hour:’—and the quivering
+lip, [[Emma]], which uttered it, was an attestation that I felt at my
+heart.”
+
+“Poor girl!” said [[Emma]]. “She thinks herself wrong, then, for having
+consented to a private engagement?”
+
+“Wrong! No one, I believe, can blame her more than she is disposed to
+blame herself. ‘The consequence,’ said she, ‘has been a state of
+perpetual [[Suffering|suffering]] to me; and so it ought. But after all the
+punishment that misconduct can bring, it is still not less misconduct.
+[[Pain]] is no expiation. I never can be blameless. I have been acting
+contrary to all my sense of right; and the fortunate turn that every
+thing has taken, and the kindness I am now receiving, is what my
+[[Conscience|conscience]] tells me ought not to be.’ ‘Do not imagine, madam,’ she
+continued, ‘that I was taught wrong. Do not let any reflection fall on
+the principles or the care of the friends who brought me up. The error
+has been all my own; and I do assure you that, with all the excuse that
+present circumstances may appear to give, I shall yet dread making the
+story known to Colonel Campbell.’”
+
+“Poor girl!” said [[Emma]] again. “She loves him then excessively, I
+suppose. It must have been from attachment only, that she could be led
+to form the engagement. Her affection must have overpowered her
+judgment.”
+
+“Yes, I have no [[Doubt|doubt]] of her being extremely attached to him.”
+
+“I am afraid,” returned [[Emma]], sighing, “that I must often have
+contributed to make her unhappy.”
+
+“On your side, my [[Love|love]], it was very innocently done. But she probably
+had something of that in her thoughts, when alluding to the
+misunderstandings which he had given us hints of before. One natural
+consequence of the evil she had involved herself in,” she said, “was
+that of making her _unreasonable_. The consciousness of having done
+amiss, had exposed her to a thousand inquietudes, and made her captious
+and irritable to a degree that must have been—that had been—hard for
+him to bear. ‘I did not make the allowances,’ said she, ‘which I ought
+to have done, for his temper and spirits—his delightful spirits, and
+that gaiety, that playfulness of disposition, which, under any other
+circumstances, would, I am sure, have been as constantly bewitching to
+me, as they were at first.’ She then began to speak of you, and of the
+great kindness you had shewn her during her illness; and with a blush
+which shewed me how it was all connected, desired me, whenever I had an
+opportunity, to thank you—I could not thank you too much—for every wish
+and every endeavour to do her good. She was sensible that you had never
+received any proper acknowledgment from herself.”
+
+“If I did not know her to be happy now,” said [[Emma]], seriously, “which,
+in spite of every little drawback from her scrupulous [[Conscience|conscience]], she
+must be, I could not bear these thanks;—for, oh! Mrs. Weston, if there
+were an account drawn up of the evil and the good I have done Miss
+Fairfax!—[[Well]] (checking herself, and trying to be more lively), this is
+all to be forgotten. You are very kind to bring me these interesting
+particulars. They shew her to the greatest advantage. I am sure she is
+very good—I [[Hope|hope]] she will be very happy. It is fit that the fortune
+should be on his side, for I think the merit will be all on hers.”
+
+Such a conclusion could not pass unanswered by Mrs. Weston. She thought
+[[Well|well]] of Frank in almost every respect; and, what was more, she loved
+him very much, and her defence was, therefore, earnest. She talked with
+a great deal of reason, and at least equal affection—but she had too
+much to urge for [[Emma]]’s attention; it was soon gone to Brunswick Square
+or to Donwell; she forgot to attempt to listen; and when Mrs. Weston
+ended with, “We have not yet had the letter we are so anxious for, you
+know, but I [[Hope|hope]] it will soon come,” she was obliged to pause before
+she answered, and at last obliged to answer at random, before she could
+at all recollect what letter it was which they were so anxious for.
+
+“Are you [[Well|well]], my [[Emma]]?” was Mrs. Weston’s parting question.
+
+“Oh! perfectly. I am always [[Well|well]], you know. Be sure to give me
+intelligence of the letter as soon as possible.”
+
+Mrs. Weston’s communications furnished [[Emma]] with more food for
+unpleasant reflection, by increasing her esteem and compassion, and her
+sense of past injustice towards Miss Fairfax. She bitterly regretted
+not having sought a closer acquaintance with her, and blushed for the
+envious feelings which had certainly been, in some measure, the cause.
+Had she followed Mr. Knightley’s known wishes, in paying that attention
+to Miss Fairfax, which was every way her due; had she tried to know her
+better; had she done her part towards intimacy; had she endeavoured to
+find a friend there instead of in [[Harriet Smith]]; she must, in all
+probability, have been spared from every [[Pain|pain]] which pressed on her
+now.—Birth, abilities, and [[Education|education]], had been equally marking one as
+an associate for her, to be received with gratitude; and the other—what
+was she?—Supposing even that they had never become intimate friends;
+that she had never been admitted into Miss Fairfax’s confidence on this
+important matter—which was most probable—still, in knowing her as she
+ought, and as she might, she must have been preserved from the
+abominable suspicions of an improper attachment to Mr. Dixon, which she
+had not only so foolishly fashioned and harboured herself, but had so
+unpardonably imparted; an idea which she greatly feared had been made a
+subject of material distress to the delicacy of Jane’s feelings, by the
+levity or carelessness of [[Frank Churchill]]’s. Of all the sources of evil
+surrounding the former, since her coming to Highbury, she was persuaded
+that she must herself have been the worst. She must have been a
+perpetual enemy. They never could have been all three together, without
+her having stabbed [[Jane Fairfax]]’s peace in a thousand instances; and on
+Box [[Hill]], perhaps, it had been the agony of a mind that would bear no
+more.
+
+The evening of this day was very long, and [[Melancholy|melancholy]], at Hartfield.
+The weather added what it could of gloom. A cold stormy rain set in,
+and nothing of July appeared but in the trees and shrubs, which the
+[[Wind|wind]] was despoiling, and the length of the day, which only made such
+cruel sights the longer visible.
+
+The weather affected Mr. Woodhouse, and he could only be kept tolerably
+comfortable by almost ceaseless attention on his daughter’s side, and
+by exertions which had never cost her half so much before. It reminded
+her of their first forlorn tête-à-tête, on the evening of Mrs. Weston’s
+wedding-day; but Mr. Knightley had walked in then, soon after tea, and
+dissipated every [[Melancholy|melancholy]] fancy. Alas! such delightful proofs of
+Hartfield’s attraction, as those sort of visits conveyed, might shortly
+be over. The picture which she had then drawn of the privations of the
+approaching [[Winter|winter]], had proved erroneous; no friends had deserted them,
+no pleasures had been lost.—But her present forebodings she feared
+would experience no similar contradiction. The prospect before her now,
+was threatening to a degree that could not be entirely dispelled—that
+might not be even partially brightened. If all took place that might
+take place among the circle of her friends, Hartfield must be
+comparatively deserted; and she left to cheer her father with the
+spirits only of ruined happiness.
+
+The [[Child|child]] to be born at Randalls must be a tie there even dearer than
+herself; and Mrs. Weston’s heart and [[Time|time]] would be occupied by it. They
+should lose her; and, probably, in great measure, her husband
+also.—[[Frank Churchill]] would return among them no more; and Miss
+Fairfax, it was reasonable to suppose, would soon cease to belong to
+Highbury. They would be married, and settled either at or near
+Enscombe. All that were good would be withdrawn; and if to these
+losses, the loss of Donwell were to be added, what would remain of
+cheerful or of rational society within their reach? Mr. Knightley to be
+no longer coming there for his evening comfort!—No longer walking in at
+all hours, as if ever willing to change his own [[Home|home]] for their’s!—How
+was it to be endured? And if he were to be lost to them for Harriet’s
+sake; if he were to be thought of hereafter, as finding in Harriet’s
+society all that he wanted; if Harriet were to be the chosen, the
+first, the dearest, the friend, the wife to whom he looked for all the
+best blessings of existence; what could be increasing [[Emma]]’s
+wretchedness but the reflection never far distant from her mind, that
+it had been all her own work?
+
+When it came to such a pitch as this, she was not able to refrain from
+a start, or a heavy sigh, or even from walking about the room for a few
+seconds—and the only source whence any thing like consolation or
+composure could be drawn, was in the resolution of her own better
+conduct, and the [[Hope|hope]] that, however inferior in spirit and gaiety might
+be the following and every future [[Winter|winter]] of her life to the past, it
+would yet find her more rational, more acquainted with herself, and
+leave her less to regret when it were gone.

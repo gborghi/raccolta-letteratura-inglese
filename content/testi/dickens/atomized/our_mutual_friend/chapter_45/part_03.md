@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 4 (part 3)"
+title: "Our Mutual Friend — Chapter 7 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,126 +14,106 @@ tags:
 </nav>
 
 
-Bella helped him with his supplemental cookery, and made him very happy,
-but put him in mortal terror too by asking him when they sat down at
-table again, how he supposed they cooked fowls at the Greenwich dinners,
-and whether he believed they really were such pleasant dinners as people
-said? His secret winks and nods of remonstrance, in reply, made the
-mischievous Bella laugh until she choked, and then [[Lavinia]] was obliged
-to slap her on the back, and then she laughed the more.
+‘You must be wandering in your mind, partner,’ Silas remonstrated.
 
-But her mother was a fine corrective at the other end of the table; to
-whom her father, in the [[innocence]] of his good-fellowship, at intervals
-appealed with: ‘My dear, I am afraid you are not enjoying yourself?’
+‘You’ll excuse me if I wander,’ returned [[Venus]]; ‘I am sometimes rather
+subject to it. I like my art, and I know how to exercise my art, and I
+mean to have the keeping of this document.’
 
-‘Why so, R. W.?’ she would sonorously reply.
+‘But what has that got to do with your art, partner?’ asked Wegg, in an
+insinuating tone.
 
-‘Because, my dear, you seem a little out of sorts.’
+[[Mr Venus]] winked his chronically-fatigued eyes both at once, and
+adjusting the kettle on the [[Fire|fire]], remarked to himself, in a hollow
+voice, ‘She’ll bile in a couple of minutes.’
 
-‘Not at all,’ would be the rejoinder, in exactly the same tone.
+[[Silas Wegg]] glanced at the kettle, glanced at the shelves, glanced at the
+French gentleman behind the door, and shrank a little as he glanced at
+[[Mr Venus]] winking his red eyes, and feeling in his waistcoat pocket—as
+for a lancet, say—with his unoccupied hand. He and [[Venus]] were
+necessarily seated close together, as each held a corner of the
+document, which was but a common sheet of paper.
 
-‘Would you take a merry-thought, my dear?’
+‘Partner,’ said Wegg, even more insinuatingly than before, ‘I propose
+that we cut it in half, and each keep a half.’
 
-‘Thank you. I will take whatever you please, R. W.’
+[[Venus]] shook his shock of hair, as he replied, ‘It wouldn’t do to
+mutilate it, partner. It might seem to be cancelled.’
 
-‘[[Well]], but my dear, do you like it?’
+‘Partner,’ said Wegg, after a [[Silence|silence]], during which they had
+contemplated one another, ‘don’t your speaking countenance say that
+you’re a-going to suggest a middle course?’
 
-‘I like it as [[Well|well]] as I like anything, R. W.’ The stately woman would
-then, with a meritorious appearance of devoting herself to the general
-good, pursue her dinner as if she were feeding somebody else on high
-public grounds.
+[[Venus]] shook his shock of hair as he replied, ‘Partner, you have kept
+this paper from me once. You shall never keep it from me again. I offer
+you the box and the label to take care of, but I’ll take care of the
+paper.’
 
-Bella had brought dessert and two bottles of wine, thus shedding
-unprecedented splendour on the occasion. Mrs Wilfer did the honours of
-the first glass by proclaiming: ‘R. W. I drink to you.
+Silas hesitated a little longer, and then suddenly releasing his corner,
+and resuming his buoyant and benignant tone, exclaimed, ‘What’s life
+without trustfulness! What’s a fellow-man without [[Honour|honour]]! You’re welcome
+to it, partner, in a spirit of trust and confidence.’
 
-‘Thank you, my dear. And I to you.’
+Continuing to wink his red eyes both together—but in a [[Self|self]]-communing
+way, and without any show of triumph—[[Mr Venus]] folded the paper now left
+in his hand, and locked it in a drawer behind him, and pocketed the key.
+He then proposed ‘A cup of tea, partner?’ To which Mr Wegg returned,
+‘Thank’ee, partner,’ and the tea was made and poured out.
 
-‘Pa and Ma!’ said Bella.
+‘Next,’ said [[Venus]], blowing at his tea in his saucer, and looking over
+it at his confidential friend, ‘comes the question, What’s the course to
+be pursued?’
 
-‘Permit me,’ Mrs Wilfer interposed, with outstretched glove. ‘No. I
-think not. I drank to your papa. If, however, you insist on including
-me, I can in gratitude offer no objection.’
+On this head, [[Silas Wegg]] had much to say. Silas had to say That, he
+would beg to remind his comrade, brother, and partner, of the impressive
+passages they had read that evening; of the evident parallel in Mr
+Boffin’s mind between them and the late owner of the Bower, and the
+present circumstances of the Bower; of the bottle; and of the box. That,
+the fortunes of his brother and comrade, and of himself were evidently
+made, inasmuch as they had but to put their price upon this document,
+and get that price from the minion of fortune and the worm of the hour:
+who now appeared to be less of a minion and more of a worm than had been
+previously supposed. That, he considered it plain that such price was
+stateable in a single expressive word, and that the word was, ‘Halves!’
+That, the question then arose when ‘Halves!’ should be called. That,
+here he had a plan of action to recommend, with a conditional clause.
+That, the plan of action was that they should lie by with patience;
+that, they should allow the Mounds to be gradually levelled and cleared
+away, while retaining to themselves their present opportunity of
+watching the process—which would be, he conceived, to put the trouble
+and cost of daily digging and delving upon somebody else, while they
+might nightly turn such complete disturbance of the [[Dust|dust]] to the account
+of their own private investigations—and that, when the Mounds were
+gone, and they had worked those chances for their own joint benefit
+solely, they should then, and not before, explode on the minion and
+worm. But here came the conditional clause, and to this he entreated the
+special attention of his comrade, brother, and partner. It was not to
+be borne that the minion and worm should carry off any of that property
+which was now to be regarded as their own property. When he, Mr Wegg,
+had seen the minion surreptitiously making off with that bottle, and its
+precious contents unknown, he had looked upon him in the light of a mere
+robber, and, as such, would have despoiled him of his ill-gotten gain,
+but for the judicious interference of his comrade, brother, and partner.
+Therefore, the conditional clause he proposed was, that, if the minion
+should return in his late sneaking manner, and if, being closely
+watched, he should be found to possess himself of anything, no matter
+what, the sharp [[Sword|sword]] impending over his head should be instantly shown
+him, he should be strictly examined as to what he knew or suspected,
+should be severely handled by them his masters, and should be kept in
+a state of abject moral bondage and [[Slavery|slavery]] until the [[Time|time]] when they
+should see fit to permit him to purchase his [[Freedom|freedom]] at the price of
+half his possessions. If, said Mr Wegg by way of peroration, he had
+erred in saying only ‘Halves!’ he trusted to his comrade, brother, and
+partner not to hesitate to set him right, and to reprove his weakness.
+It might be more according to the rights of things, to say
+Two-thirds; it might be more according to the rights of things, to say
+Three-fourths. On those points he was ever open to correction.
 
-‘Why, Lor, Ma,’ interposed Lavvy the bold, ‘isn’t it the day that made
-you and Pa one and the same? I have no patience!’
-
-‘By whatever other circumstance the day may be marked, it is not the
-day, [[Lavinia]], on which I will allow a [[Child|child]] of mine to pounce upon me.
-I beg—nay, command!—that you will not pounce. R. W., it is appropriate
-to recall that it is for you to command and for me to obey. It is your
-[[house]], and you are master at your own table. Both our healths!’ Drinking
-the toast with tremendous stiffness.
-
-‘I really am a little afraid, my dear,’ hinted the cherub meekly, ‘that
-you are not enjoying yourself?’
-
-‘On the contrary,’ returned Mrs Wilfer, ‘quite so. Why should I not?’
-
-‘I thought, my dear, that perhaps your face might—’
-
-‘My face might be a [[Martyrdom|martyrdom]], but what would that import, or who should
-know it, if I smiled?’
-
-And she did smile; manifestly freezing the [[Blood|blood]] of Mr George Sampson
-by so doing. For that young gentleman, catching her smiling eye, was so
-very much appalled by its expression as to cast about in his thoughts
-concerning what he had done to bring it down upon himself.
-
-‘The mind naturally falls,’ said Mrs Wilfer, ‘shall I say into a
-reverie, or shall I say into a retrospect? on a day like this.’
-
-Lavvy, sitting with defiantly folded arms, replied (but not audibly),
-‘For goodness’ sake say whichever of the two you like best, Ma, and get
-it over.’
-
-‘The mind,’ pursued Mrs Wilfer in an oratorical manner, ‘naturally
-reverts to Papa and Mamma—I here allude to my parents—at a period
-before the earliest [[Dawn|dawn]] of this day. I was considered tall; perhaps I
-was. Papa and Mamma were unquestionably tall. I have rarely seen a finer
-woman than my mother; never than my father.’
-
-The irrepressible Lavvy remarked aloud, ‘Whatever grandpapa was, he
-wasn’t a female.’
-
-‘Your grandpapa,’ retorted Mrs Wilfer, with an awful look, and in an
-awful tone, ‘was what I describe him to have been, and would have struck
-any of his grandchildren to the earth who presumed to question it. It
-was one of mamma’s cherished hopes that I should become united to a
-tall member of society. It may have been a weakness, but if so, it was
-equally the weakness, I believe, of [[King]] Frederick of Prussia.’ These
-remarks being offered to Mr George Sampson, who had not the [[Courage|courage]] to
-come out for single combat, but lurked with his chest under the table
-and his eyes cast down, Mrs Wilfer proceeded, in a voice of increasing
-sternness and impressiveness, until she should force that skulker
-to give himself up. ‘Mamma would appear to have had an indefinable
-foreboding of what afterwards happened, for she would frequently urge
-upon me, “Not a little man. Promise me, my [[Child|child]], not a little man.
-Never, never, never, marry a little man!” Papa also would remark to me
-(he possessed extraordinary [[Humour|humour]]), “that a family of whales must not
-ally themselves with sprats.” His company was eagerly sought, as may
-be supposed, by the wits of the day, and our [[house]] was their continual
-resort. I have known as many as three copper-plate engravers exchanging
-the most exquisite sallies and retorts there, at one [[Time|time]].’ (Here Mr
-Sampson delivered himself captive, and said, with an uneasy movement on
-his chair, that three was a large number, and it must have been highly
-entertaining.) ‘Among the most prominent members of that distinguished
-circle, was a gentleman measuring six feet four in height. HE was NOT
-an engraver.’ (Here Mr Sampson said, with no reason whatever, Of course
-not.) ‘This gentleman was so obliging as to [[Honour|honour]] me with attentions
-which I could not fail to understand.’ (Here Mr Sampson murmured that
-when it came to that, you could always tell.) ‘I immediately announced
-to both my parents that those attentions were misplaced, and that I
-could not favour his suit. They inquired was he too tall? I replied it
-was not the stature, but the intellect was too lofty. At our [[house]],
-I said, the tone was too brilliant, the pressure was too high, to be
-maintained by me, a mere woman, in every-day domestic life. I [[Well|well]]
-remember mamma’s clasping her hands, and exclaiming “This will end in
-a little man!”’ (Here Mr Sampson glanced at his host and shook his head
-with despondency.) ‘She afterwards went so far as to predict that it
-would end in a little man whose mind would be below the average, but
-that was in what I may denominate a paroxysm of maternal disappointment.
-Within a month,’ said Mrs Wilfer, deepening her voice, as if she were
-relating a terrible [[Ghost|ghost]] story, ‘within a-month, I first saw R. W. my
-husband. Within a year, I married him. It is natural for the mind to
-recall these dark coincidences on the present day.’
+[[Mr Venus]], having wafted his attention to this discourse over three
+successive saucers of tea, signified his concurrence in the views
+advanced. Inspirited hereby, Mr Wegg extended his right hand, and
+declared it to be a hand which never yet. Without entering into more
+minute particulars. [[Mr Venus]], sticking to his tea, briefly professed his
+belief as polite forms required of him, that it WAS a hand which never
+yet. But contented himself with looking at it, and did not take it to
+his bosom.

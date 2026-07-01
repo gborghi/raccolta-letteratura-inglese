@@ -14,6 +14,14 @@ tags:
 </nav>
 
 
+      eternal _Tekeli-li!_as they retreated from our vision. Hereupon
+
+      Nu-Nu stirred in the [[Bottom|bottom]] of the boat; but upon touching him we
+
+      found his spirit departed. And now we rushed into the embraces of
+
+      the cataract, where a chasm threw itself open to receive us. But
+
       there arose in our pathway a shrouded human figure, very far
 
       larger in its proportions than any dweller among men. And the hue
@@ -203,15 +211,3 @@ tags:
       _white_animal picked up at sea. This also was the shuddering
 
       exclamatives of Tsalal upon discovering the carcass of the
-
-      _white_materials in possession of Mr. Pym. This also was the
-
-      shriek of the swift-flying, _white, _and gigantic [[Birds|birds]] which
-
-      issued from the vapory _white_curtain of the South. Nothing
-
-      _white_was to be found at Tsalal, and nothing otherwise in the
-
-      subsequent voyage to the region beyond. It is not impossible that
-
-      “Tsalal,” the appellation of the island of the chasms, may be

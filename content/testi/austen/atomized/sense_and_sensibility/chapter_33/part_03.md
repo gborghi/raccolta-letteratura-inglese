@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 33 (part 3)"
+title: "Sense and Sensibility — Chapter 33 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_33/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_34/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Upon the knoll behind the [[house]]. The old walnut trees are all come
+
+down to make room for it. It will be a very fine object from many parts
+
+of the park, and the flower-[[Garden|garden]] will slope down just before it, and
 
 be exceedingly pretty. We have cleared away all the old thorns that
 

@@ -1,5 +1,5 @@
 ---
-title: "[[CharlesDickens]]"
+title: "CharlesDickens"
 author: "Chesterton"
 unitType: work
 parentWork: "works/charlesdickens-(chesterton)"
@@ -352,7 +352,7 @@ of a democratic optimism--a confidence in common men.
 Dickens depends upon such a comprehension in a rather unusual manner,
 a manner worth explanation, or at least remark.
 
-The disadvantage under which Dickens has fallen, both as an [[artist]]
+The disadvantage under which Dickens has fallen, both as an [[Artist|artist]]
 and a moralist, is very plain.  His misfortune is that neither of
 the two last movements in [[Literary Criticism|literary criticism]] has done him any good.
 He has suffered alike from his enemies, and from the enemies
@@ -490,7 +490,7 @@ laugh at him.
 
 I believe myself that this braver world of his will certainly return;
 for I believe that it is bound up with the realities,
-like morning and the [[Spring|spring]].  But for those who beyond
+like morning and the [[spring]].  But for those who beyond
 remedy regard it as an error, I put this appeal before any
 other observations on Dickens.  First let us sympathise,
 if only for an instant, with the hopes of the Dickens period,
@@ -659,9 +659,9 @@ to make a name, nor did he merely aspire to these things;
 the great number of them he also expected.  He regarded
 himself as a [[Child|child]] of good position just about to enter
 on a life of good luck.  He thought his [[Home|home]] and family
-a very good [[Spring|spring]]-board or jumping-off place from which to
+a very good [[spring]]-board or jumping-off place from which to
 fling himself to the positions which he desired to reach.
-And almost as he was about to [[Spring|spring]] the whole structure broke
+And almost as he was about to [[spring]] the whole structure broke
 under him, and he and all that belonged to him disappeared
 into a darkness far below.
 
@@ -1553,7 +1553,7 @@ more ridiculous even than it was unjust, that it seems strange that
 he should have remembered it for a month except for his amusement.
 The facts are simple and familiar to most people.  The publishers--
 Chapman & Hall--wished to produce some kind of serial with comic
-illustrations by a popular caricaturist named Seymour.  This [[artist]]
+illustrations by a popular caricaturist named Seymour.  This [[Artist|artist]]
 was chiefly famous for his rendering of the farcical side of sport,
 and to suit this speciality it was very vaguely suggested to Dickens
 by the publishers that he should write about a Nimrod Club,
@@ -1640,7 +1640,7 @@ Seymour's claim, then, viewed symbolically, was even a compliment.
 It was true in spirit that Dickens obtained (or might have obtained)
 the start of [[Pickwick]] from somebody else, from anybody else.
 For he had a more gigantic energy than the energy of the
-intense [[artist]], the energy which is prepared to write something.
+intense [[Artist|artist]], the energy which is prepared to write something.
 He had the energy which is prepared to write anything.
 He could have finished any man's tale.  He could have breathed a mad
 life into any man's characters.  If it had been true that Seymour
@@ -3115,7 +3115,7 @@ told him something sane and logical and unanswerable.
 But it is perhaps permissible to [[Doubt|doubt]] whether he told it
 to him quietly.
 
-He returned [[Home|home]] in the [[Spring|spring]] of 1842, and in the later part
+He returned [[Home|home]] in the [[spring]] of 1842, and in the later part
 of the year his "American Notes" appeared, and the cry against him
 that had begun over copyright swelled into a roar in his rear.
 Yet when we read the "Notes" we can find little offence
@@ -4198,7 +4198,7 @@ characters lit up with the colours of youth and passion.
 They are real people romantically felt; that is to say,
 they are real people felt as real people feel them.
 They are exaggerated, like all Dickens's figures:  but they are
-not exaggerated as personalities are exaggerated by an [[artist]];
+not exaggerated as personalities are exaggerated by an [[Artist|artist]];
 they are exaggerated as personalities are exaggerated by their
 own friends and enemies.  The strong souls are seen through
 the glorious haze of the emotions that strong souls really create.
@@ -4723,7 +4723,7 @@ of his [[Marriage|marriage]].  That incident [[Alone|alone]] is enough to sugges
 external offers and proposals were sometimes like screams heard
 from Bedlam.  Yet it remains true that he had in him a central part
 that was pleased only by the most decent and the most reposeful rites,
-by things of which the Anglican [[prayer|Prayer]]-book is very typical.
+by things of which the Anglican [[Prayer]]-book is very typical.
 It is certainly true that he was often extravagant.  It is most
 certainly equally true that he detested and despised extravagance.
 
@@ -4768,7 +4768,7 @@ whether Protestant or Catholic, moved him to an extravagance of [[Satire|satire]
 And he flung himself into the drunken energy of Stiggins,
 he piled up to the [[Stars|stars]] the "verbose flights of stairs"
 of Mr. Chadband, exactly because his own conception of religion
-was the quiet and impersonal Morning [[prayer|Prayer]].  It is typical of him
+was the quiet and impersonal Morning [[Prayer]].  It is typical of him
 that he had a peculiar hatred for speeches at the [[Grave|grave]]-side.
 
 An even clearer case of what I mean can be found in his
@@ -4941,7 +4941,7 @@ like the lamp-posts, manifestations of the human mind,
 and things to be judged by the human heart.
 
 Thenceforward until the end his books grow consistently graver,
-and as it were, more responsible; he improves as an [[artist]]
+and as it were, more responsible; he improves as an [[Artist|artist]]
 if not always as a creator.  "Little Dorrit" (published in 1857)
 is at once in some ways so much more subtle and in every way
 so much more sad than the rest of his work that it bores
@@ -5693,7 +5693,7 @@ if you will, a kind of coarse benevolence.  Food and [[Fire|fire]] and such
 things should always be the symbols of the man entertaining men;
 because they are things which all men beyond question have in common.
 But something more than this is needed from a man who is imagining
-and making men, the [[artist]], the man who is not receiving men,
+and making men, the [[Artist|artist]], the man who is not receiving men,
 but rather sending them forth.
 
 As I shall remark in a moment in the matter of the Dickens villains,

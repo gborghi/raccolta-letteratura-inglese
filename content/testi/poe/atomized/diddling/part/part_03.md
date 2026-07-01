@@ -1,5 +1,5 @@
 ---
-title: "[[Diddling]] (part 3)"
+title: "Diddling (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/diddling-(poe)"
@@ -14,7 +14,21 @@ tags:
 </nav>
 
 
-      [[America]]—throw the book.”
+      _you_ had better—”
+
+
+
+      “Cast off there!” says the captain.
+
+
+
+      “Never mind!” cries the gentleman on shore, who has been
+
+      examining his own pocket-book for the last minute or so—“never
+
+      mind! _I_ can fix it—here is a fifty on the Bank of North
+
+      [[america|America]]—throw the book.”
 
 
 
@@ -221,15 +235,3 @@ tags:
       that the finder will repair to the address given by the diddler,
 
       rather than to that pointed out by the rightful proprietor. The
-
-      former pays the reward, pockets the treasure and decamps.
-
-
-
-      Quite an analogous diddle is this. A lady of ton has dropped,
-
-      some where in the street, a diamond ring of very unusual value.
-
-      For its recovery, she offers some forty or fifty dollars
-
-      reward—giving, in her advertisement, a very minute description of

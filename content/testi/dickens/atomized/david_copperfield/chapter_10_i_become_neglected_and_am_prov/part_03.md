@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 10: I BECOME NEGLECTED, AND AM PROVIDED FOR (part 3)"
+title: "David Copperfield — Chapter 10: I BECOME NEGLECTED, AND AM PROVIDED FOR (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_10_i_become_neglected_and_am_prov/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_10_i_become_neglected_and_am_prov/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘The sense of the dear!’ cried Peggotty. ‘What I have been thinking
+of, this month back! Yes, my precious; and I think I should be more
+independent altogether, you see; let [[Alone|alone]] my working with a better
+heart in my own [[house]], than I could in anybody else’s now. I don’t know
+what I might be fit for, now, as a servant to a stranger. And I shall be
+always near my pretty’s resting-place,’ said Peggotty, musing, ‘and be
+able to see it when I like; and when I lie down to rest, I may be laid
+not far off from my darling girl!’
 
 We neither of us said anything for a little while.
 
@@ -123,21 +132,3 @@ kindly across the table, that I felt quite thankful to her.
 hand like [[Water|water]], ‘here’s another [[Orphan|orphan]], you see, sir. And here,’ said
 Mr. Peggotty, giving Ham a backhanded knock in the chest, ‘is another of
 ‘em, though he don’t look much like it.’
-
-‘If I had you for my guardian, Mr. Peggotty,’ said I, shaking my head,
-‘I don’t think I should FEEL much like it.’
-
-‘[[Well]] said, Mas’r Davy bor’!’ cried Ham, in an ecstasy. ‘Hoorah! [[Well]]
-said! Nor more you wouldn’t! Hor! Hor!’--Here he returned Mr. Peggotty’s
-back-hander, and little Em’ly got up and kissed Mr. Peggotty. ‘And how’s
-your friend, sir?’ said Mr. Peggotty to me.
-
-‘Steerforth?’ said I.
-
-‘That’s the name!’ cried Mr. Peggotty, turning to Ham. ‘I knowed it was
-something in our way.’
-
-‘You said it was Rudderford,’ observed Ham, laughing.
-
-‘[[Well]]!’ retorted Mr. Peggotty. ‘And ye steer with a rudder, don’t ye? It
-ain’t fur off. How is he, sir?’

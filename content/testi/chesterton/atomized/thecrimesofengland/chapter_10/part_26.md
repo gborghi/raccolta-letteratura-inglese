@@ -1,5 +1,5 @@
 ---
-title: "[[TheCrimesOfEngland]] — Chapter 10 (part 26)"
+title: "TheCrimesOfEngland — Chapter 10 (part 26)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thecrimesofengland-(chesterton)"
@@ -14,13 +14,157 @@ tags:
 </nav>
 
 
+many hundred years, had mocked at the predatory empire of the Turks. The
+
+Serbians in their turn were but one branch of the peasant Slavs,
+
+millions of whom are spread over [[Russia]] and subject on many sides to
+
+empires with which they have less sympathy; and the Slavs again, in the
+
+broad features which are important here, are not merely Slavonic but
+
+simply European. But a particular picture is generally more pointed and
+
+intelligible than tendencies which elsewhere are mingled with subtler
+
+tendencies; and of this unmixed European simplicity Montenegro is an
+
+excellent model.
+
+Moreover, the instance of one small Christian State will serve to
+
+emphasise that this is not a quarrel between England and [[Germany]], but
+
+between Europe and [[Germany]]. It is my whole purpose in these pages not to
+
+spare my own country where it is open to criticism; and I freely admit
+
+that Montenegro, morally and politically speaking, is almost as much in
+
+advance of England as it is of [[Germany]]. In Montenegro there are no
+
+millionaires--and therefore next to no Socialists. As to why there are
+
+no millionaires, it is a mystery, and best studied among the mysteries
+
+of the Middle Ages. By some of the dark ingenuities of that age of
+
+priestcraft a curious thing was discovered--that if you kill every
+
+usurer, every forestaller, every adulterater, every user of false
+
+weights, every fixer of false boundaries, every land-thief, every
+
+[[Water|water]]-thief, you afterwards discover by a strange indirect miracle, or
+
+disconnected [[Truth|truth]] from heaven, that you have no millionaires. Without
+
+dwelling further on this dark matter, we may say that this great gap in
+
+the Montenegrin experience explains the other great gap--the lack of
+
+Socialists. The Class-conscious Proletarian of All Lands is curiously
+
+absent from this land. The reason (I have sometimes fancied) is that the
+
+Proletarian is class-conscious, not because he is a Proletarian of All
+
+Lands, but because he is a Proletarian with no lands. The poor people in
+
+Montenegro have lands--not landlords. They have roots; for the peasant
+
+is the root of the priest, the poet, and the warrior. And _this_, and
+
+not a mere recrimination about acts of violence, is the ground of the
+
+age-long Balkan bitterness against the Turkish conqueror. Montenegrins
+
+are patriotic for Montenegro; but Turks are not patriotic for Turkey.
+
+They never heard of it, in fact. They are Bedouins, as homeless as the
+
+[[Desert|desert]]. The "wrong [[Horse|horse]]" of Lord Salisbury was an Arab steed, only
+
+stabled in Byzantium. It is hard enough to rule vagabond people, like
+
+the gypsies. To be ruled by them is impossible.
+
+Nevertheless what was called the nineteenth century, and named with a
+
+sort of transcendental [[Faith|faith]] (as in a Pythagorean worship of number),
+
+was wearing to its close with reaction everywhere, and the Turk, the
+
+great type of reaction, stronger than ever in the saddle. The most
+
+civilised of the Christian nations overshadowed by the Crescent dared to
+
+attack it and was overwhelmed in a catastrophe that seemed as
+
+unanswerable as Hittin. In England Gladstone and Gladstonism were dead;
+
+and Mr. Kipling, a less mystical Carlyle, was expending a type of praise
+
+upon the British Army which would have been even more appropriate to the
+
+Prussian Army. The Prussian Army ruled Prussia; Prussia ruled [[Germany]];
+
+[[Germany]] ruled the Concert of Europe. She was planting everywhere the
+
+appliances of that new servile machinery which was her secret; the
+
+absolute identification of national subordination with business
+
+employment; so that Krupp could count on Kaiser and Kaiser on Krupp.
+
+Every other commercial traveller was pathetically proud of being both a
+
+slave and a spy. The old and the new tyrants had taken hands. The "sack"
+
+of the boss was as silent and fatal as the sack of the Bosphorus. And
+
+the dream of the citizen was at an end.
+
+It was under a sky so leaden and on a [[Road|road]] so strewn with bones that the
+
+little mountain [[democracy]] with its patriarchal prince went out, first
+
+and before all its friends, on the last and seemingly the most hopeless
+
+of the rebellions against the Ottoman Empire. Only one of the omens
+
+seemed other than disastrous; and even that was doubtful. For the
+
+successful Mediterranean attack on Tripoli while proving the gallantry
+
+of the Italians (if that ever needed proving) could be taken in two
+
+ways, and was seen by many, and probably most, sincere liberals as a
+
+mere extension of the Imperialist reaction of Bosnia and Paardeberg, and
+
+not as the promise of newer things. [[Italy]], it must be remembered, was
+
+still supposed to be the partner of Prussia and the Hapsburgs. For days
+
+that seemed like months the microscopic state seemed to be attempting
+
+[[Alone|alone]] what the [[Crusades]] had failed to accomplish. And for days Europe
+
+and the great powers were thunderstruck, again and yet again, by the
+
+news of Turkish forts falling, Turkish cohorts collapsing, the
+
+unconquerable Crescent going down in [[Blood|blood]]. The Serbians, the
+
+Bulgarians, the Greeks had gathered and risen from their lairs; and men
+
 knew that these peasants had done what all the politicians had long
 
 despaired of doing, and that the spirit of the first Christian Emperor
 
 was already standing over the [[City|city]] that is named after his name.
-
-
 
 For [[Germany]] this quite unexpected rush was a reversal of the whole tide
 
@@ -39,157 +183,3 @@ Roosevelt, as the great prince of the age. One of the most famous and
 brilliant of our journalists called him "the [[Lord Chief Justice]] of
 
 Europe." He was the strongest man in Christendom; and he had confirmed
-
-and consecrated the Crescent. And when he had consecrated it a few [[Hill|hill]]
-
-tribes had risen and trampled it like mire. One or two other things
-
-about the same [[Time|time]], less important in themselves, struck in the
-
-Prussian's ear the same new note of warning and [[Doubt|doubt]]. He sought to
-
-obtain a small advantage on the north-west coast of Africa; and England
-
-seemed to show a certain strange stiffness in insisting on its
-
-abandonment. In the councils over Morocco, England agreed with France
-
-with what did not seem altogether an accidental agreement. But we shall
-
-not be wrong if we put the crucial point of the German surprise and
-
-anger at the attack from the Balkans and the fall of Adrianople. Not
-
-only did it menace the key of Asia and the whole Eastern dream of German
-
-commerce; not only did it offer the picture of one army trained by
-
-France and victorious, and another army trained by [[Germany]] and beaten.
-
-There was more than the material victory of the Creusot over the Krupp
-
-gun. It was also the victory of the peasant's field over the Krupp
-
-factory. By this [[Time|time]] there was in the North German brain an awful
-
-inversion of all the legends and heroic lives that the human race has
-
-loved. Prussia _hated_ [[Romance|romance]]. Chivalry was not a thing she neglected;
-
-it was a thing that tormented her as any bully is tormented by an
-
-unanswered challenge. That weird process was completed of which I have
-
-spoken on an earlier page, whereby the [[Soul|soul]] of this strange people was
-
-everywhere on the side of the dragon against the knight, of the giant
-
-against the [[Hero|hero]]. Anything unexpected--the forlorn hopes, the
-
-eleventh-hour inspirations, by which the weak can elude the strong, and
-
-which take the hearts of happier men like trumpets--filled the Prussian
-
-with a cold fury, as of a frustrated fate. The Prussian felt as a
-
-Chicago pork butcher would feel if the pigs not only refused to pass
-
-through his [[Machine|machine]], but turned into romantic wild boars, raging and
-
-rending, calling for the old hunting of princes and fit to be the crests
-
-of kings.
-
-
-
-The Prussian saw these things and his mind was made up. He was silent;
-
-but he laboured: laboured for three long years without intermission at
-
-the making of a military [[Machine|machine]] that should cut out of the world for
-
-ever such romantic accident or random adventure; a [[Machine|machine]] that should
-
-cure the human pigs for ever of any illusion that they had wings. That
-
-he did so plot and prepare for an attack that should come from him,
-
-anticipating and overwhelming any resistance, is now, even in the
-
-documents he has himself published, a fact of common sense. Suppose a
-
-man sells all his lands except a small yard containing a [[Well|well]]; suppose
-
-in the division of the effects of an old friend he particularly asks for
-
-his razors; suppose when a corded trunk is sent him he sends back the
-
-trunk, but keeps the cord. And then suppose we hear that a rival of his
-
-has been lassoed with a rope, his throat then cut, apparently with a
-
-razor, and his [[Body|body]] hidden in a [[Well|well]], we do not call in Sherlock Holmes
-
-to project a preliminary suspicion about the guilty party. In the
-
-discussions held by the Prussian [[government|Government]] with Lord Haldane and Sir
-
-Edward Grey we can now see quite as plainly the meaning of the things
-
-that were granted and the things that were withheld, the things that
-
-would have satisfied the Prussian plotter and the things that did not
-
-satisfy him. The German Chancellor refused an English promise not to be
-
-aggressive and asked instead for an English promise to be neutral. There
-
-is no meaning in the distinction, except in the mind of an aggressor.
-
-[[Germany]] proposed a pacific arrangement which forbade England to form a
-
-fighting alliance with France, but permitted [[Germany]] to retain her old
-
-fighting alliance with Austria. When the hour of war came she used
-
-Austria, used the old fighting alliance and tried to use the new idea of
-
-English neutrality. That is to say, she used the rope, the razor, and
-
-the [[Well|well]].
-
-
-
-But it was either by accident or by individual diplomatic skill that
-
-England at the end of the three years even had her own hands free to
-
-help in frustrating the German plot. The mass of the English people had
-
-no notion of such a plot; and indeed regarded the occasional suggestion
-
-of it as absurd. Nor did even the people who knew best know very much
-
-better. Thanks and even apologies are doubtless due to those who in the
-
-deepest lull of our sleeping partnership with Prussia saw her not as a
-
-partner but a potential enemy; such men as Mr. Blatchford, Mr. Bart
-
-Kennedy, or the late Emil Reich. But there is a distinction to be made.
-
-Few even of these, with the admirable and indeed almost magical
-
-exception of Dr. Sarolea, saw [[Germany]] as she was; occupied mainly with
-
-Europe and only incidentally with England; indeed, in the first stages,
-
-not occupied with England at all. Even the Anti-Germans were too
-
-insular. Even those who saw most of [[Germany]]'s plan saw too much of
-
-England's part in it. They saw it almost wholly as a commercial and
-
-colonial quarrel; and saw its issue under the image of an invasion of
-
-England, which is even now not very probable. This [[Fear|fear]] of [[Germany]] was

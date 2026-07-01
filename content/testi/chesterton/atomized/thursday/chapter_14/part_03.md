@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 14 (part 3)"
+title: "thursday — Chapter 14 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -13,6 +13,8 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_14/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_14/part_04">part 04 ›</a></div>
 </nav>
 
+
+"Look!" cried out Bull clamorously, "the balloon is coming down!"
 
 There was no need to cry out to Syme, who had never taken his eyes off it.
 He saw the great luminous globe suddenly stagger in the sky, right itself,
@@ -144,8 +146,3 @@ them of their boyhood.  It was either this elm-top or that crooked path,
 it was either this scrap of orchard or that shape of a [[Window|window]];
 but each man of them declared that he could remember this place
 before he could remember his mother.
-
-When the carriages eventually rolled up to a large, low, cavernous gateway,
-another man in the same uniform, but wearing a silver star on the grey
-breast of his coat, came out to meet them.  This impressive person said
-to the bewildered Syme--

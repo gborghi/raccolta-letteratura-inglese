@@ -16,13 +16,7 @@ tags:
 
 CHAPTER III
 
-
-
 THE GREAT VICTORIAN POETS
-
-
-
-
 
 What was really unsatisfactory in Victorian literature is something much
 
@@ -62,7 +56,7 @@ in Virgil or in Chaucer or in Shakespeare or in Dryden; such things as
 
 they knew they knew. It is no disgrace to Homer that he had not
 
-discovered Britain; or to Virgil that he had not discovered [[america|America]]; or
+discovered Britain; or to Virgil that he had not discovered [[America]]; or
 
 to Chaucer that he had not discovered the solar system; or to Dryden
 
@@ -145,8 +139,6 @@ and prided himself on escaping it, did not altogether escape it. There
 must be (to use an Irishism) something shallow in the depths of any man
 
 who talks about the _Zeitgeist_ as if it were a living thing.
-
-
 
 But this defect is very specially the key to the case of the two great
 
@@ -256,15 +248,11 @@ _were_ mighty and who _were_ vanquished. But when Tennyson wrote verses
 
 like--
 
-
-
     "Of [[Freedom|freedom]] in her regal seat,
 
     Of England; not the schoolboy heat,
 
     The blind hysterics of the Celt"
-
-
 
 he quite literally did not know one word of what he was talking about;
 
@@ -273,8 +261,6 @@ he did not know what Celts are, or what hysterics are, or what [[Freedom|freedom
 was, or what regal was or even of what England was--in the living Europe
 
 of that [[Time|time]].
-
-
 
 His religious range was very much wider and wiser than his political;
 
@@ -293,8 +279,6 @@ deal to say; but he had much more power of expression than was wanted
 for anything he had to express. He could not think up to the height of
 
 his own towering style.
-
-
 
 For whatever else Tennyson was, he was a great poet; no mind that feels
 
@@ -350,13 +334,9 @@ make the main poem mean exactly what he did not mean. Thus, these two
 
 lines which simply say that
 
-
-
     "Lancelot was the first in tournament,
 
     But [[arthur|Arthur]] mightiest in the battle-field"
-
-
 
 do really express what he meant to express about [[arthur|Arthur]] being after all
 
@@ -376,8 +356,6 @@ has always seemed to me splendid, and which does express what the whole
 
 poem should express--but hardly does.
 
-
-
     "That we may lift from out the [[Dust|dust]],
 
     A voice as unto him that hears
@@ -385,8 +363,6 @@ poem should express--but hardly does.
     A cry above the conquered years
 
     Of one that ever works, and trust."
-
-
 
 The poem should have been a cry above the conquered years. It might [[Well|well]]
 
@@ -412,8 +388,6 @@ be trusted with the trail of a very long literary process without
 
 entangling himself like a kitten playing cat's-cradle.
 
-
-
 Browning, as above suggested, got on much better with eccentric and
 
 secluded England because he treated it as eccentric and secluded; a
@@ -432,7 +406,7 @@ was no anarchist and no mystagogue; and even where he was defective, his
 
 defect has commonly been stated wrongly. The two chief charges against
 
-him were a contempt for form unworthy of an [[Artist|artist]], and a poor [[Pride|pride]] in
+him were a contempt for form unworthy of an [[artist]], and a poor [[Pride|pride]] in
 
 obscurity. The obscurity is true, though not, I think, the [[Pride|pride]] in it;
 
@@ -524,11 +498,9 @@ persecution, that "Tommy-make-room-for-your-uncle-us" does not rhyme to
 
 it.
 
-
-
 The obscurity, to which he must in a large degree plead guilty, was,
 
-curiously enough, the result rather of the gay [[Artist|artist]] in him than the
+curiously enough, the result rather of the gay [[artist]] in him than the
 
 deep thinker. It is patience in the Browning students; in Browning it
 
@@ -630,8 +602,6 @@ the world. He substituted the street with the green blind for the faded
 
 monotony of the [[Evening Star|evening star]].
 
-
-
 Before leaving him it should be added that he was fitted to deepen the
 
 Victorian mind, but not to broaden it. With all his Italian sympathies
@@ -694,13 +664,9 @@ any positive political fact, such as the final fall of Napoleon.
 
 Tennyson wrote these profoundly foolish lines--
 
-
-
     "He thought to quell the stubborn hearts of oak
 
     Madman!"
-
-
 
 as if the defeat of an English regiment were a violation of the laws of
 
@@ -710,11 +676,7 @@ Tennyson did; but she knew the [[Truth|truth]]. Her [[Epigram|epigram]] on Napol
 
 in one line
 
-
-
     "And kings crept out again to feel the sun."
-
-
 
 Talleyrand would have clapped his horrible old hands at that. Her
 
@@ -788,8 +750,6 @@ inferiority to him in literature is that he was consciously while she
 
 was unconsciously absurd.
 
-
-
 It is natural, in the matter of Victorian moral change, to take
 
 Swinburne as the next name here. He is the only poet who was also, in
@@ -846,8 +806,6 @@ Swinburne could have found round about Putney plenty of slaves who had
 
 no crucifixes: but only crucifixions.
 
-
-
 When we come to ethics and [[philosophy]], doubtless we find Swinburne in
 
 full revolt, not only against the temperate idealism of Tennyson, but
@@ -881,8 +839,6 @@ went forth, as it were, as the champion of pagan change and pleasure, he
 heard uplifted the grand choruses of his own _Atalanta_, in his rear,
 
 refusing [[Hope|hope]].
-
-
 
 The splendid diction that blazes through the whole of that drama, that
 
@@ -920,13 +876,9 @@ one small "e" gets outside the monosyllable. Through all his
 
 interminable tragedies, he was fondest of lines like--
 
-
-
     "If ever I leave off to [[Honour|honour]] you
 
     God give me shame; I were the worst churl born."
-
-
 
 The dramas were far from being short and dramatic; but the words really
 
@@ -946,8 +898,6 @@ is, not that he is smooth and without ridges, but that he always crests
 
 the ridge triumphantly and Browning often does not--
 
-
-
     "On thy bosom though many a kiss be,
 
     There are none such as knew it of old.
@@ -964,8 +914,6 @@ the ridge triumphantly and Browning often does not--
 
     Across the fig-[[Leaves|leaves]]."
 
-
-
 Look at the rhymes in that verse, and you will see they are as stiff a
 
 task as Browning's: only they are successful. That is the real strength
@@ -979,8 +927,6 @@ through his later years. He was, if ever there was one, an inspired
 poet. I do not think it the highest sort of poet. And you never discover
 
 who is an inspired poet until the inspiration goes.
-
-
 
 With Swinburne we step into the circle of that later Victorian influence
 
@@ -1040,8 +986,6 @@ and Pre-Raphaelite movements, which all agreed in two things at least:
 
 strictness in the line and strength, nay violence, in the colour.
 
-
-
 Rossetti was a remarkable man in more ways than one; he did not succeed
 
 in any art; if he had he would probably never have been heard of. It was
@@ -1056,15 +1000,13 @@ Burne-[[Jones]], he would have been a painter who wrote [[Poems|poems]]. It is o
 
 note on the very threshold of the extreme art movement that this great
 
-[[Artist|artist]] largely succeeded by not defining his art. His [[Poems|poems]] were too
+[[artist]] largely succeeded by not defining his art. His [[Poems|poems]] were too
 
 pictorial. His pictures were too poetical. That is why they really
 
 conquered the cold satisfaction of the Victorians, because they did mean
 
 something, even if it was a small artistic thing.
-
-
 
 Rossetti was one with Ruskin, on the one hand, and Swinburne on the
 
@@ -1101,8 +1043,6 @@ great mediæval civilisation; but Rossetti used the religious imagery (on
 the whole) irreligiously, Christina Rossetti used it religiously but (on
 
 the whole) so to make it seem a narrower religion.
-
-
 
 One poet, or, to speak more strictly, one poem, belongs to the same
 
@@ -1156,23 +1096,15 @@ are successful in the same sense as "Pinnacled dim in the intense inane"
 
 or "Through verdurous glooms and winding mossy ways." But--
 
-
-
     "Indeed, indeed, repentance oft before
 
     I swore; but was I sober when I swore?"
 
-
-
 is equally successful in the same sense as--
-
-
 
     "Damn with faint praise, assent with civil leer
 
     And without sneering teach the rest to sneer."
-
-
 
 It thus earned a right to be considered the complete expression of that
 
@@ -1234,8 +1166,6 @@ not only to think but to live, not only to live but to grow, and not
 
 only to grow but to build.
 
-
-
 And, indeed, we see the insufficiency of such sad extremes even in the
 
 next name among the major poets; we see the Swinburnian [[Parody|parody]] of
@@ -1260,33 +1190,23 @@ moments; which were (if they had only known it) much more mediæval than
 
 their mediæval moments. Swinburne could write--
 
-
-
     "We shall see Buonaparte the bastard
 
     Kick heels with his throat in a rope."
-
-
 
 One has an uneasy feeling that William Morris would have written
 
 something like--
 
-
-
     "And the kin of the ill [[King|king]] Bonaparte
 
     Hath a high gallows for all his part."
-
-
 
 Rossetti could, for once in a way, write poetry about a real woman and
 
 call her "Jenny." One has a disturbed suspicion that Morris would have
 
 called her "Jehanne."
-
-
 
 But all that seems at first more archaic and decorative about Morris
 
@@ -1317,8 +1237,6 @@ conventions of the mediævals, it was largely because they were (whatever
 else they were) the very finest fraternity of free workmen the world is
 
 ever likely to see.
-
-
 
 The very things that were urged against Morris are in this sense part of
 
@@ -1374,7 +1292,7 @@ happened to-morrow. They named their books by cold titles suggesting
 
 straight corridors of marble--titles like _Looking Backward_. But Morris
 
-was an [[Artist|artist]] as [[Well|well]] as an anarchist. _News from Nowhere_ is an
+was an [[artist]] as [[Well|well]] as an anarchist. _News from Nowhere_ is an
 
 irresponsible title; and it is an irresponsible book. It does not
 
@@ -1389,8 +1307,6 @@ he could even dream so is his true dignity as a poet. He was the first
 of the Æsthetes to smell mediævalism as a smell of the morning; and not
 
 as a mere scent of [[Decay|decay]].
-
-
 
 With him the poetry that had been peculiarly Victorian practically
 
@@ -1442,15 +1358,11 @@ he made a manly attempt to tread down the decadents and return to the
 
 right reason of Wordsworth--
 
-
-
         "I have not paid the world
 
     The evil and the insolent courtesy
 
     Of offering it my baseness as a gift."
-
-
 
 But none of them were able even to understand Francis Thompson; his
 

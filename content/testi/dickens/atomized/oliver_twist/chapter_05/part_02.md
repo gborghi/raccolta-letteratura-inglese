@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 5 (part 2)"
+title: "Oliver Twist — Chapter 5 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_05/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_05/part_03">part 03 ›</a></div>
 </nav>
 
+
+“Let him [[Alone|alone]]!” said Noah. “Why everybody lets him [[Alone|alone]] enough, for
+the matter of that. Neither his father nor his mother will ever
+interfere with him. All his relations let him have his own way pretty
+[[Well|well]]. Eh, Charlotte? He! he! he!”
 
 “Oh, you queer [[Soul|soul]]!” said Charlotte, bursting into a hearty laugh, in
 which she was joined by Noah; after which they both looked scornfully
@@ -139,7 +144,3 @@ wholesome medicine, as was given with great [[success]] to two Irish
 labourers and a coal-heaver, only a week before—sent ’em for nothing,
 with a blackin’-bottle in,—and he sends back word that she shan’t take
 it, sir!”
-
-As the atrocity presented itself to Mr. Bumble’s mind in full force, he
-struck the counter sharply with his cane, and became flushed with
-indignation.

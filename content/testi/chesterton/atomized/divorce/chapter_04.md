@@ -1,5 +1,5 @@
 ---
-title: "[[divorce]] — Chapter 4"
+title: "divorce — Chapter 4"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/divorce-(chesterton)"
@@ -80,17 +80,17 @@ in it like a rabbit and undermine a whole countryside.
 Next we have, as we always have touching such crude experiments,
 an argument from the example of other countries, and especially
 of new countries.  Thus the Eugenists tell me solemnly that there
-have been very successful Eugenic experiments in [[america|America]].
+have been very successful Eugenic experiments in [[America]].
 And they rigidly retain their solemnity (while refusing with many
 rebukes to believe in mine) when I tell them that one of the Eugenic
-experiments in [[america|America]] is a chemical experiment; which consists
+experiments in [[America]] is a chemical experiment; which consists
 of changing a black man into the allotropic form of white ashes.
 It is really an exceedingly Eugenic experiment; since its chief object
 is to discourage an inter-racial mixture of [[Blood|blood]] which is not desired.
 But I do not like this American experiment, however American;
 and I trust and believe that it is not typically American at all.
 It represents, I conceive, only one element in the complexity
-of the great [[Democracy|democracy]]; and goes along with other evil elements;
+of the great [[democracy]]; and goes along with other evil elements;
 so that I am not at all surprised that the same strange social sections,
 which permit a human being to be burned alive, also permit
 the exalted science of [[Eugenics]].  It is the same in the milder
@@ -99,7 +99,7 @@ colonials have established prohibition Laws, which they try to evade;
 just as we are told they have established [[divorce]] laws, which they
 are now trying to repeal.  For in this case of [[divorce]], at least,
 the argument from distant precedents has recoiled crushingly upon itself.
-There is already an agitation for less [[divorce]] in [[america|America]],
+There is already an agitation for less [[divorce]] in [[America]],
 even while there is an agitation for more [[divorce]] in England.
 
 Again, when an argument is based on a need of population, it will

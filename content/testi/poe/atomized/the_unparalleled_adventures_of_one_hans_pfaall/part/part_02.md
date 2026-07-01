@@ -1,5 +1,5 @@
 ---
-title: "[[The Unparalleled Adventures of one Hans Pfaall]] (part 2)"
+title: "The Unparalleled Adventures of one Hans Pfaall (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-unparalleled-adventures-of-one-hans-pfaall-(poe)"
@@ -13,6 +13,8 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/part/part_03">part 03 ›</a></div>
 </nav>
 
+
+      tilt him over the edge of his tiny car, but for the intervention
 
       of a circular rim reaching as high as the breast, and rigged on
 
@@ -189,9 +191,3 @@ tags:
       following the respectable and indeed lucrative profession of
 
       [[mending]] of bellows. For, to speak the [[Truth|truth]], until of late years,
-
-      that the heads of all the people have been set agog with
-
-      politics, no better business than my own could an honest citizen
-
-      of Rotterdam either [[Desire|desire]] or deserve. Credit was good,

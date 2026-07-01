@@ -1,5 +1,5 @@
 ---
-title: "[[AllThingsConsidered-8]] — THE BOY"
+title: "AllThingsConsidered-8 — THE BOY"
 author: "Chesterton"
 unitType: story
 parentWork: "works/allthingsconsidered-8-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 THE BOY
-
 
 I have no sympathy with international aggression when it is
 taken seriously, but I have a certain dark and wild sympathy with it

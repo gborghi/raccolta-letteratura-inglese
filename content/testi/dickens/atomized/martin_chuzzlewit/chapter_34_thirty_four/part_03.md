@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 34: THIRTY FOUR (part 3)"
+title: "Martin Chuzzlewit — Chapter 34: THIRTY FOUR (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_34_thirty_four/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_34_thirty_four/part_04">part 04 ›</a></div>
 </nav>
 
+
+The Honourable Elijah Pogram looked at Martin as if he thought ‘You
+don’t mean that, I know!’ and he was soon confirmed in this opinion.
+
+Sitting opposite to them was a gentleman in a high state of tobacco, who
+wore quite a little beard, composed of the overflowing of that weed, as
+they had dried about his mouth and chin; so common an ornament that it
+would scarcely have attracted Martin’s observation, but that this good
+citizen, burning to assert his equality against all comers, sucked his
+knife for some moments, and made a cut with it at the butter, just as
+Martin was in the act of taking some. There was a juiciness about the
+deed that might have sickened a scavenger.
 
 When Elijah Pogram (to whom this was an every-day incident) saw that
 Martin put the plate away, and took no butter, he was quite delighted,
@@ -139,23 +151,3 @@ little office, sir?’
 
 As there was nothing the shrill boy desired more, he immediately stepped
 forward.
-
-‘Mr Pogram! Sir! A handful of your fellow-citizens, sir, hearing of your
-arrival at the National Hotel, and feeling the patriotic character of
-your public services, wish, sir, to have the gratification of beholding
-you, and mixing with you, sir; and unbending with you, sir, in those
-moments which--’
-
-‘Air,’ suggested Buffum.
-
-‘Which air so peculiarly the lot, sir, of our great and happy country.’
-
-‘Hear!’ cried Colonel Grouper, in a loud voice. ‘Good! Hear him! Good!’
-
-‘And therefore, sir,’ pursued the Doctor, ‘they request; as A mark Of
-their respect; the [[Honour|honour]] of your company at a little le-Vee, sir, in
-the ladies’ ordinary, at eight o’[[Clock|clock]].’
-
-Mr Pogram bowed, and said:
-
-‘Fellow countrymen!’

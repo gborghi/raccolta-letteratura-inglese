@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 2 (part 1)"
+title: "Our Mutual Friend — Chapter 3 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,119 +10,150 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_76">‹ Chapter 76</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_07/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_06/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_07/part_02">part 02 ›</a></div>
 </nav>
 
 
-Chapter 2
+Chapter 3
 
-THE MAN FROM SOMEWHERE
+ANOTHER MAN
 
 
-Mr and Mrs Veneering were bran-new people in a bran-new [[house]] in a
-bran-new quarter of [[London]]. Everything about the Veneerings was spick
-and span new. All their furniture was new, all their friends were new,
-all their servants were new, their plate was new, their carriage was
-new, their harness was new, their horses were new, their pictures
-were new, they themselves were new, they were as newly married as was
-lawfully compatible with their having a bran-new baby, and if they had
-set up a great-grandfather, he would have come [[Home|home]] in matting from the
-Pantechnicon, without a scratch upon him, French polished to the [[Crown|crown]]
-of his head.
+As the disappearing skirts of the ladies ascended the Veneering
+staircase, Mortimer, following them forth from the dining-room, turned
+into a library of bran-new books, in bran-new bindings liberally gilded,
+and requested to see the messenger who had brought the paper. He was a
+boy of about fifteen. Mortimer looked at the boy, and the boy looked
+at the bran-new pilgrims on the wall, going to Canterbury in more gold
+frame than procession, and more carving than country.
 
-For, in the Veneering establishment, from the hall-chairs with the new
-coat of arms, to the grand pianoforte with the new action, and upstairs
-again to the new [[Fire|fire]]-escape, all things were in a state of high varnish
-and polish. And what was observable in the furniture, was observable in
-the Veneerings—the surface smelt a little too much of the workshop and
-was a trifle sticky.
+‘Whose writing is this?’
 
-There was an [[Innocent|innocent]] piece of dinner-furniture that went upon easy
-castors and was kept over a livery stable-yard in Duke Street, Saint
-James’s, when not in use, to whom the Veneerings were a source of blind
-confusion. The name of this article was Twemlow. Being first cousin
-to Lord Snigsworth, he was in frequent requisition, and at many houses
-might be said to represent the dining-table in its normal state. Mr and
-Mrs Veneering, for example, arranging a dinner, habitually started with
-Twemlow, and then put [[Leaves|leaves]] in him, or added guests to him. Sometimes,
-the table consisted of Twemlow and half a dozen [[Leaves|leaves]]; sometimes, of
-Twemlow and a dozen [[Leaves|leaves]]; sometimes, Twemlow was pulled out to his
-utmost extent of twenty [[Leaves|leaves]]. Mr and Mrs Veneering on occasions of
-ceremony faced each other in the centre of the board, and thus the
-parallel still held; for, it always happened that the more Twemlow was
-pulled out, the further he found himself from the center, and nearer
-to the sideboard at one end of the room, or the [[Window|window]]-curtains at the
-other.
+‘Mine, sir.’
 
-But, it was not this which steeped the feeble [[Soul|soul]] of Twemlow in
-confusion. This he was used to, and could take soundings of. The abyss
-to which he could find no [[Bottom|bottom]], and from which started forth the
-engrossing and ever-swelling difficulty of his life, was the insoluble
-question whether he was Veneering’s oldest friend, or newest friend.
-To the excogitation of this problem, the harmless gentleman had devoted
-many anxious hours, both in his lodgings over the livery stable-yard,
-and in the cold gloom, favourable to meditation, of Saint James’s
-Square. Thus. Twemlow had first known Veneering at his club, where
-Veneering then knew nobody but the man who made them known to one
-another, who seemed to be the most intimate friend he had in the world,
-and whom he had known two days—the bond of [[Union|union]] between their souls,
-the nefarious conduct of the committee respecting the cookery of
-a fillet of veal, having been accidentally cemented at that date.
-Immediately upon this, Twemlow received an invitation to dine with
-Veneering, and dined: the man being of the party. Immediately upon
-that, Twemlow received an invitation to dine with the man, and dined:
-Veneering being of the party. At the man’s were a Member, an Engineer, a
-Payer-off of the National Debt, a Poem on Shakespeare, a Grievance, and
-a Public Office, who all seem to be utter strangers to Veneering. And
-yet immediately after that, Twemlow received an invitation to dine at
-Veneerings, expressly to meet the Member, the Engineer, the Payer-off
-of the National Debt, the Poem on Shakespeare, the Grievance, and the
-Public Office, and, dining, discovered that all of them were the most
-intimate friends Veneering had in the world, and that the wives of all
-of them (who were all there) were the objects of Mrs Veneering’s most
-devoted affection and tender confidence.
+‘Who told you to write it?’
 
-Thus it had come about, that Mr Twemlow had said to himself in his
-lodgings, with his hand to his forehead: ‘I must not think of this. This
-is enough to soften any man’s brain,’—and yet was always thinking of
-it, and could never form a conclusion.
+‘My father, Jesse Hexam.’
 
-This evening the Veneerings give a banquet. Eleven [[Leaves|leaves]] in the
-Twemlow; fourteen in company all told. Four pigeon-breasted retainers in
-plain clothes stand in line in the hall. A fifth retainer, proceeding up
-the staircase with a mournful air—as who should say, ‘Here is another
-wretched creature come to dinner; such is life!’—announces, ‘Mis-ter
-Twemlow!’
+‘Is it he who found the [[Body|body]]?’
 
-Mrs Veneering welcomes her sweet Mr Twemlow. Mr Veneering welcomes
-his dear Twemlow. Mrs Veneering does not expect that Mr Twemlow can in
-[[Nature|nature]] care much for such insipid things as babies, but so old a friend
-must please to look at baby. ‘Ah! You will know the friend of your
-family better, Tootleums,’ says Mr Veneering, nodding emotionally at
-that new article, ‘when you begin to take notice.’ He then begs to make
-his dear Twemlow known to his two friends, Mr Boots and Mr Brewer—and
-clearly has no distinct idea which is which.
+‘Yes, sir.’
 
-But now a fearful circumstance occurs.
+‘What is your father?’
 
-‘Mis-ter and Mis-sus Podsnap!’
+The boy hesitated, looked reproachfully at the pilgrims as if they had
+involved him in a little difficulty, then said, folding a plait in the
+right leg of his trousers, ‘He gets his living along-shore.’
 
-‘My dear,’ says Mr Veneering to Mrs Veneering, with an air of much
-friendly interest, while the door stands open, ‘the Podsnaps.’
+‘Is it far?’
 
-A too, too smiling large man, with a fatal freshness on him, appearing
-with his wife, instantly deserts his wife and darts at Twemlow with:
+‘Is which far?’ asked the boy, upon his guard, and again upon the [[Road|road]]
+to Canterbury.
 
-‘How do you do? So glad to know you. Charming [[house]] you have here. I
-[[Hope|hope]] we are not late. So glad of the opportunity, I am sure!’
+‘To your father’s?’
 
-When the first shock fell upon him, Twemlow twice skipped back in
-his neat little shoes and his neat little silk stockings of a bygone
-fashion, as if impelled to leap over a sofa behind him; but the large
-man closed with him and proved too strong.
+‘It’s a goodish stretch, sir. I come up in a cab, and the cab’s waiting
+to be paid. We could go back in it before you paid it, if you liked.
+I went first to your office, according to the direction of the papers
+found in the pockets, and there I see nobody but a chap of about my age
+who sent me on here.’
 
-‘Let me,’ says the large man, trying to attract the attention of his
-wife in the distance, ‘have the pleasure of presenting Mrs Podsnap
-to her host. She will be,’ in his fatal freshness he seems to find
-perpetual verdure and eternal youth in the phrase, ‘she will be so glad
-of the opportunity, I am sure!’
+There was a curious mixture in the boy, of uncompleted savagery, and
+uncompleted civilization. His voice was hoarse and coarse, and his face
+was coarse, and his stunted figure was coarse; but he was cleaner than
+other boys of his type; and his writing, though large and round,
+was good; and he glanced at the backs of the books, with an awakened
+curiosity that went below the binding. No one who can read, ever looks
+at a book, even unopened on a shelf, like one who cannot.
+
+‘Were any means taken, do you know, boy, to ascertain if it was possible
+to restore life?’ Mortimer inquired, as he sought for his hat.
+
+‘You wouldn’t ask, sir, if you knew his state. Pharaoh’s multitude that
+were drowned in the Red Sea, ain’t more beyond restoring to life. If
+Lazarus was only half as far gone, that was the greatest of all the
+miracles.’
+
+‘Halloa!’ cried Mortimer, turning round with his hat upon his head, ‘you
+seem to be at [[Home|home]] in the Red Sea, my young friend?’
+
+‘Read of it with teacher at the school,’ said the boy.
+
+‘And Lazarus?’
+
+‘Yes, and him too. But don’t you tell my father! We should have no peace
+in our place, if that got touched upon. It’s my sister’s contriving.’
+
+‘You seem to have a good sister.’
+
+‘She ain’t half bad,’ said the boy; ‘but if she knows her letters it’s
+the most she does—and them I learned her.’
+
+The gloomy Eugene, with his hands in his pockets, had strolled in and
+assisted at the latter part of the dialogue; when the boy spoke these
+words slightingly of his sister, he took him roughly enough by the chin,
+and turned up his face to look at it.
+
+‘[[Well]], I’m sure, sir!’ said the boy, resisting; ‘I [[Hope|hope]] you’ll know me
+again.’
+
+Eugene vouchsafed no answer; but made the proposal to Mortimer, ‘I’ll
+go with you, if you like?’ So, they all three went away together in the
+vehicle that had brought the boy; the two friends (once boys together at
+a public school) inside, smoking cigars; the messenger on the box beside
+the driver.
+
+‘Let me see,’ said Mortimer, as they went along; ‘I have been, Eugene,
+upon the honourable roll of solicitors of the High [[Court]] of Chancery,
+and attorneys at Common Law, five years; and—except gratuitously taking
+instructions, on an average once a fortnight, for the will of Lady
+Tippins who has nothing to leave—I have had no scrap of business but
+this romantic business.’
+
+‘And I,’ said Eugene, ‘have been “called” seven years, and have had no
+business at all, and never shall have any. And if I had, I shouldn’t
+know how to do it.’
+
+‘I am far from being clear as to the last particular,’ returned
+Mortimer, with great composure, ‘that I have much advantage over you.’
+
+‘I hate,’ said Eugene, putting his legs up on the opposite seat, ‘I hate
+my profession.’
+
+‘Shall I incommode you, if I put mine up too?’ returned Mortimer. ‘Thank
+you. I hate mine.’
+
+‘It was forced upon me,’ said the gloomy Eugene, ‘because it was
+understood that we wanted a barrister in the family. We have got a
+precious one.’
+
+‘It was forced upon me,’ said Mortimer, ‘because it was understood that
+we wanted a solicitor in the family. And we have got a precious one.’
+
+‘There are four of us, with our names painted on a door-post in right of
+one black hole called a set of chambers,’ said Eugene; ‘and each of us
+has the fourth of a clerk—Cassim Baba, in the robber’s [[Cave|cave]]—and Cassim
+is the only respectable member of the party.’
+
+‘I am one by myself, one,’ said Mortimer, ‘high up an awful staircase
+commanding a burial-ground, and I have a whole clerk to myself, and he
+has nothing to do but look at the burial-ground, and what he will turn
+out when arrived at maturity, I cannot conceive. Whether, in that shabby
+rook’s nest, he is always plotting wisdom, or plotting murder; whether
+he will grow up, after so much solitary brooding, to enlighten his
+fellow-creatures, or to [[Poison|poison]] them; is the only speck of interest that
+presents itself to my professional view. Will you give me a light? Thank
+you.’
+
+‘Then idiots talk,’ said Eugene, leaning back, folding his arms, smoking
+with his eyes shut, and speaking slightly through his nose, ‘of Energy.
+If there is a word in the dictionary under any letter from A to Z that
+I abominate, it is energy. It is such a conventional superstition, such
+parrot gabble! What the deuce! Am I to rush out into the street, collar
+the first man of a wealthy appearance that I meet, shake him, and say,
+“Go to law upon the spot, you dog, and retain me, or I’ll be the [[Death|death]]
+of you”? Yet that would be energy.’
+
+‘Precisely my view of the case, Eugene. But show me a good opportunity,
+show me something really worth being energetic about, and I’ll show you
+energy.’

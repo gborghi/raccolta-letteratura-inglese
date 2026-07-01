@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 9 (part 6)"
+title: "Nicholas Nickleby — Chapter 9 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,49 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_09/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_10/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘[[Mercy]] on us, what’s all this?’ cried Miss Price, in affected
+astonishment.
+
+‘Cum whoam, tell ‘e, cum whoam,’ replied the Yorkshireman, sternly. And
+as he delivered the reply, Miss Squeers burst into a shower of [[Tears|tears]];
+arising in part from desperate vexation, and in part from an impotent
+[[Desire|desire]] to lacerate somebody’s countenance with her fair finger-nails.
+
+This state of things had been brought about by divers means and
+workings. Miss Squeers had brought it about, by aspiring to the high
+state and condition of being matrimonially engaged, without good grounds
+for so doing; Miss Price had brought it about, by indulging in three
+motives of action: first, a [[Desire|desire]] to punish her friend for laying
+claim to a rivalship in dignity, having no good title: secondly, the
+gratification of her own [[Vanity|vanity]], in receiving the compliments of a smart
+young man: and thirdly, a wish to convince the corn-factor of the great
+danger he ran, in deferring the celebration of their expected nuptials;
+while Nicholas had brought it about, by half an hour’s gaiety and
+thoughtlessness, and a very sincere [[Desire|desire]] to avoid the imputation of
+inclining at all to Miss Squeers. So the means employed, and the end
+produced, were alike the most natural in the world; for young ladies
+will look forward to being married, and will jostle each other in the
+race to the altar, and will avail themselves of all opportunities of
+displaying their own attractions to the best advantage, down to the very
+end of [[Time|time]], as they have done from its beginning.
+
+‘Why, and here’s Fanny in [[Tears|tears]] now!’ exclaimed Miss Price, as if in
+fresh amazement. ‘What can be the matter?’
+
+‘Oh! you don’t know, miss, of course you don’t know. Pray don’t trouble
+yourself to inquire,’ said Miss Squeers, producing that change of
+countenance which children call making a face.
+
+‘[[Well]], I’m sure!’ exclaimed Miss Price.
+
+‘And who cares whether you are sure or not, ma’am?’ retorted Miss
+Squeers, making another face.
+
+‘You are monstrous polite, ma’am,’ said Miss Price.
+
+‘I shall not come to you to take lessons in the art, ma’am!’ retorted
+Miss Squeers.
 
 ‘You needn’t take the trouble to make yourself plainer than you
 are, ma’am, however,’ rejoined Miss Price, ‘because that’s quite

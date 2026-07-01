@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 27"
+title: "The Tenant of Wildfell Hall — Chapter 27"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -22,7 +22,7 @@ tags:
 
 October 9th.—It was on the [[Night|night]] of the 4th, a little after tea, that
 
-Annabella had been singing and playing, with [[arthur|Arthur]] as usual at her
+Annabella had been singing and playing, with [[Arthur]] as usual at her
 
 side: she had ended her [[Song|song]], but still she sat at the instrument; and
 
@@ -88,13 +88,13 @@ Lowborough was beside her husband, bending over him as he sat, with her
 
 hand on his shoulder, softly talking and smiling in his face; and
 
-[[arthur|Arthur]] was at the table, turning over a book of engravings. I seated
+[[Arthur]] was at the table, turning over a book of engravings. I seated
 
 myself in the nearest chair; and Mr. Hargrave, finding his services
 
 were not desired, judiciously withdrew. Shortly after, the company
 
-broke up, and, as the guests were retiring to their rooms, [[arthur|Arthur]]
+broke up, and, as the guests were retiring to their rooms, [[Arthur]]
 
 approached me, smiling with the utmost assurance.
 
@@ -104,7 +104,7 @@ approached me, smiling with the utmost assurance.
 
 
 
-“This is no jest, [[arthur|Arthur]],” said I, seriously, but as calmly as I
+“This is no jest, [[Arthur]],” said I, seriously, but as calmly as I
 
 could—“unless you think it a jest to lose my affection for ever.”
 
@@ -180,7 +180,7 @@ the sun. You little exorbitant [[Tyrant|tyrant]], will not _that_—”
 
 
 
-“Be quiet a moment, will you, [[arthur|Arthur]]?” said I, “and listen to me—and
+“Be quiet a moment, will you, [[Arthur]]?” said I, “and listen to me—and
 
 don’t think I’m in a jealous fury: I am perfectly calm. Feel my hand.”
 
@@ -274,7 +274,7 @@ part to me, throughout, as you have to Annabella?”
 
 
 
-“[[Well]], then, [[arthur|Arthur]], how can you call it nothing—an offence for which
+“[[Well]], then, [[Arthur]], how can you call it nothing—an offence for which
 
 you would think yourself justified in blowing another man’s brains out?
 
@@ -422,7 +422,7 @@ only woman here besides myself, we are necessarily thrown so much
 
 together. Next [[Time|time]] Mrs. Hargrave calls I shall hail her advent as
 
-quite a relief. I have a good mind to ask [[arthur|Arthur]]’s leave to invite the
+quite a relief. I have a good mind to ask [[Arthur]]’s leave to invite the
 
 old lady to stay with us till our guests depart. I think I will. She
 

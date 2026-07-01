@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 11: ELEVEN (part 4)"
+title: "Martin Chuzzlewit — Chapter 11: ELEVEN (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -135,12 +135,3 @@ bread;’ which Anthony did.
 communicated to him in the same voice, ‘quite right, quite right. He’s
 your own son, Mr Chuzzlewit! Bless him for a sharp lad! Bless him, bless
 him!’
-
-Mr Jonas considered this so particularly childish (perhaps with some
-reason), that he only laughed the more, and told his cousins that he was
-afraid one of these fine days, Chuffey would be the [[Death|death]] of him. The
-cloth was then removed, and the bottle of wine set upon the table, from
-which Mr Jonas filled the young ladies’ glasses, calling on them not to
-spare it, as they might be certain there was plenty more where that came
-from. But he added with some haste after this sally that it was only his
-joke, and they wouldn’t suppose him to be in earnest, he was sure.

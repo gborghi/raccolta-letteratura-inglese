@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 27 (part 6)"
+title: "Nicholas Nickleby — Chapter 27 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_27/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_28/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘Upon my [[Soul|soul]]!’ exclaimed Sir Mulberry, as though quietly communing with
+himself; passing his arm round her waist as he spoke, ‘she looks more
+beautiful, and I like her better in this mood, than when her eyes are
+cast down, and she is in perfect repose!’
+
+How Kate reached the lobby where her friends were waiting she never
+knew, but she hurried across it without at all regarding them, and
+disengaged herself suddenly from her companion, sprang into the coach,
+and throwing herself into its darkest corner burst into [[Tears|tears]].
 
 Messrs Pyke and Pluck, knowing their cue, at once threw the party into
 great commotion by shouting for the carriages, and getting up a violent

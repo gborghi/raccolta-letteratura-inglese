@@ -1,5 +1,5 @@
 ---
-title: "[[King John]] — Act V, Scene 2 — monologue (LOUIS THE [[Dauphin|DAUPHIN]]) [3]"
+title: "King John — Act V, Scene 2 — monologue (LOUIS THE DAUPHIN) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/king-john-(shakespeare)"

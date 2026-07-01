@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity]] — The [[Ghost]] of Gideon Wise (part 1)"
+title: "Incredulity — The Ghost of Gideon Wise (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-(chesterton)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-EIGHT:  The [[Ghost]] of Gideon Wise
+EIGHT:  The Ghost of Gideon Wise
 
-[[Father Brown|FATHER BROWN]] always regarded the case as the queerest
+FATHER BROWN always regarded the case as the queerest
 example of the theory of an alibi:  the theory by which it
 is maintained, in defiance of the mythological Irish bird,
 that it is impossible for anybody to be in two places at once.
@@ -38,17 +38,17 @@ herald or the new ambassador.
 
 He found the three mining magnates hidden in a jungle of flowering
 plants and a forest of fluted and florid columns of gilded plaster;
-gilded birdcages hung high under the painted domes amid the highest [[Leaves|leaves]]
-of the palms; and in them were [[Birds|birds]] of motley colours and varied cries.
+gilded birdcages hung high under the painted domes amid the highest leaves
+of the palms; and in them were birds of motley colours and varied cries.
 No bird in the wilderness ever sang more unheeded, and no flower ever
-wasted its sweetness on the [[Desert|desert]] air more completely than the blossoms
+wasted its sweetness on the desert air more completely than the blossoms
 of those tall plants wasted theirs upon the brisk and breathless business
 men, mostly American, who talked and ran to and fro in that place.
 And there, amid a riot of rococo ornament that nobody ever looked at,
-and a chatter of expensive foreign [[Birds|birds]] that nobody ever heard, and a
+and a chatter of expensive foreign birds that nobody ever heard, and a
 mass of gorgeous upholstery and a labyrinth of luxurious architecture,
-the three men sat and talked of how [[success]] was founded on thought
-and thrift and a vigilance of economy and [[Self|self]]--control.
+the three men sat and talked of how success was founded on thought
+and thrift and a vigilance of economy and self--control.
 
 One of them indeed did not talk so much as the others; but he watched
 with very bright and motionless eyes, which seemed to be pinched
@@ -86,10 +86,10 @@ that all our most dangerous enemies are already combined.'
 of these queer places, Mr Byrne, and I want you to do something
 for us unofficially.  You know where these men meet; there are
 only two or three of them that count, John Elias and Jake Halket,
-who does all the spouting, and perhaps that poet fellow Home.'
+who does all the spouting, and perhaps that poet fellow [[Home]].'
 
-`Why [[Home]] used to be a friend of Gideon,' said the jeering Mr Gallup;
-`used to be in his Sunday School class or something.'
+`Why Home used to be a friend of Gideon,' said the jeering Mr Gallup;
+`used to be in his [[Sunday]] School class or something.'
 
 `He was a Christian, then,' said old Gideon solemnly; `but when a man
 takes up with atheists you never know.  I still meet him now and then.
@@ -97,22 +97,22 @@ I was quite ready to back him against war and conscription and all that,
 of course, but when it comes to all the goddam bolshies in creation--`
 
 `Excuse me,' interposed Stein, `the matter is rather urgent,
-so I [[Hope|hope]] you will excuse me putting it before Mr Byrne at once.
+so I hope you will excuse me putting it before Mr Byrne at once.
 Mr Byrne, I may tell you in confidence that I hold information,
-or rather evidence that would land at least two of those men in [[Prison|prison]]
+or rather evidence that would land at least two of those men in prison
 for long terms, in connexion with conspiracies during the late war.
 I don't want to use that evidence.  But I want you to go to them
 quietly and tell them that I shall use it, and use it tomorrow,
 unless they alter their attitude.'
 
-`Well,' replied Byrne, `what you propose would certainly
+`[[Well]],' replied Byrne, `what you propose would certainly
 be called compounding a felony and might be called blackmail,
 Don't you think it is rather dangerous?'
 
 `I think it is rather dangerous for them,' said Stein with a snap;
 `and I want you to go and tell them so.'
 
-`Oh, very well,' said Byrne standing up, with a half humorous sigh.
+`Oh, very [[Well|well]],' said Byrne standing up, with a half humorous sigh.
 `It's all in the day's work; but if I get into trouble, I warn you I
 shall try to drag you into it.'
 

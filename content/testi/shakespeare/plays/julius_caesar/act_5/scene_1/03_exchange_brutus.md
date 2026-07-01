@@ -1,5 +1,5 @@
 ---
-title: "[[Julius Caesar]] — Act V, Scene 1 — exchange ([[Brutus|BRUTUS]]) [3]"
+title: "Julius Caesar — Act V, Scene 1 — exchange (BRUTUS) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/julius-caesar-(shakespeare)"

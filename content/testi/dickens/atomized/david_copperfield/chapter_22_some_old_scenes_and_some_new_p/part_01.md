@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE (part 1)"
+title: "David Copperfield — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -75,7 +75,7 @@ that used to occupy mine, on the rosy mornings when I peeped out of
 that same little [[Window|window]] in my [[Night|night]]-clothes, and saw the sheep quietly
 feeding in the light of the rising sun.
 
-Our old neighbours, Mr. and Mrs. Grayper, were gone to South [[America]],
+Our old neighbours, Mr. and Mrs. Grayper, were gone to South [[america|America]],
 and the rain had made its way through the roof of their empty [[house]],
 and stained the outer walls. Mr. Chillip was married again to a tall,
 raw-boned, high-nosed wife; and they had a weazen little baby, with a
@@ -112,6 +112,3 @@ been if he had been less absorbed, for footsteps fell noiselessly on the
 sandy ground outside; but even my entrance failed to rouse him. I was
 standing close to him, looking at him; and still, with a heavy brow, he
 was lost in his meditations.
-
-He gave such a start when I put my hand upon his shoulder, that he made
-me start too.

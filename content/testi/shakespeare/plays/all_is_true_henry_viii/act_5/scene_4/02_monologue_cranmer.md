@@ -1,5 +1,5 @@
 ---
-title: "All Is True ([[Henry VIII]]) — Act V, Scene 4 — monologue ([[Cranmer|CRANMER]]) [2]"
+title: "All Is True (Henry VIII) — Act V, Scene 4 — monologue (CRANMER) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/all-is-true---(henry-viii)-(shakespeare)"

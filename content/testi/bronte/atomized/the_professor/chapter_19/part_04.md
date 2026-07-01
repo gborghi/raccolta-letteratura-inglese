@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 18 (part 4)"
+title: "The Professor — Chapter 18 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_professor/chapter_19/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/the_professor/chapter_20/part_01">part 01 ›</a></div>
 </nav>
 
+
+instructors is often beneficial to the interests of a school; it gives
+
+life and variety to the proceedings; it amuses the pupils, and suggests
+
+to the parents the idea of exertion and progress.”
+
+“Yet when you are tired of a professor or maitresse, you scruple to
+
+dismiss them?”
+
+“No need to have recourse to such extreme measures, I assure you.
 
 Allons, monsieur le professeur--asseyons-nous; je vais vous donner une
 
@@ -52,11 +64,7 @@ her blue eye glittered upon me--it did not flash--nothing of flame ever
 
 kindled in its temperate gleam.
 
-
-
 “Monsieur fears to sit by me?” she inquired playfully.
-
-
 
 “I have no wish to usurp Pelet’s place,” I answered, for I had got the
 
@@ -72,11 +80,7 @@ flutters in its cage, and would fain fly from its jail and jailer, and
 
 seek its natural mate and pleasant nest.
 
-
-
 “[[Well]]--and your lesson?” I demanded briefly.
-
-
 
 “Ah!” she exclaimed, recovering herself, “you are so young, so frank
 
@@ -90,8 +94,6 @@ that before, for there is delicacy as [[Well|well]] as power in your
 
 character--policy, as [[Well|well]] as [[Pride|pride]]?”
 
-
-
 “Go on,” said I; and I could hardly help smiling, the flattery was so
 
 piquant, so finely seasoned. She caught the prohibited smile, though I
@@ -101,8 +103,6 @@ passed my hand over my month to conceal it; and again she made room for
 me to sit beside her. I shook my head, though [[Temptation|temptation]] penetrated to
 
 my senses at the moment, and once more I told her to go on.
-
-
 
 “[[Well]], then, if ever you are at the head of a large establishment,
 
@@ -121,8 +121,6 @@ archness, more deference, a spicy dash of coquetry, an unveiled
 consciousness of capacity. I nodded; she treated me like the great
 
 Mogul; so I became the great Mogul as far as she was concerned.
-
-
 
 “I like, monsieur, to take my knitting in my hands, and to sit quietly
 
@@ -158,8 +156,6 @@ stumbling-block removed--and no one saw me: I have not made an enemy, I
 
 am rid of an incumbrance.”
 
-
-
 A moment since, and I thought her alluring; this speech concluded, I
 
 looked on her with distaste. “Just like you,” was my cold answer.
@@ -167,8 +163,6 @@ looked on her with distaste. “Just like you,” was my cold answer.
 “And in this way you have ousted Mdlle. Henri? You wanted her office,
 
 therefore you rendered it intolerable to her?”
-
-
 
 “Not at all, monsieur, I was merely anxious about Mdlle. Henri’s health;
 
@@ -186,13 +180,9 @@ than teach sewing. I reasoned with her; left the decision to herself;
 
 she saw the correctness of my views, and adopted them.”
 
-
-
 “Excellent! and now, mademoiselle, you will have the goodness to give me
 
 her address.”
-
-
 
 “Her address!” and a sombre and stony change came over the mien of
 
@@ -210,8 +200,6 @@ abode; her means were narrow, her origin obscure; she lives somewhere,
 
 doubtless, in the ‘basse ville.’”
 
-
-
 “I’ll not lose sight of my best pupil yet,” said I, “though she were
 
 born of beggars and lodged in a cellar; for the rest, it is absurd to
@@ -223,8 +211,6 @@ Swiss pastor’s daughter, neither more nor less; and, as to her narrow
 means, I care nothing for the [[Poverty|poverty]] of her purse so long as her heart
 
 overflows with affluence.”
-
-
 
 “Your sentiments are perfectly noble, monsieur,” said the directress,
 

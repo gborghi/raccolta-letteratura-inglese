@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 8"
+title: "Persuasion — Chapter 8"
 author: "Austen"
 unitType: chapter
 parentWork: "works/persuasion-(austen)"
@@ -420,7 +420,7 @@ be interrupting, thinking only of his own thoughts, began with—
 
 
 
-“If you had been a week later at Lisbon, last [[spring]], Frederick, you
+“If you had been a week later at Lisbon, last [[Spring|spring]], Frederick, you
 
 would have been asked to give a passage to Lady Mary Grierson and her
 

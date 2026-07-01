@@ -14,6 +14,14 @@ tags:
 </nav>
 
 
+      Still a great many of the savages retained their stations about
+
+      her, hammering with large stones, axes, and cannon balls at the
+
+      bolts and other iron and copper work. On the beach, and in canoes
+
+      and rafts, there were not less, altogether, in the immediate
+
       vicinity of the schooner, than ten thousand natives, besides the
 
       shoals of them who, laden with booty, were making their way

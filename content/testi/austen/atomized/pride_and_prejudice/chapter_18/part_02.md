@@ -1,5 +1,5 @@
 ---
-title: "[[Pride and Prejudice]] — Chapter 18 (part 2)"
+title: "Pride and Prejudice — Chapter 18 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/pride-and-prejudice-(austen)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/pride_and_prejudice/chapter_18/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/pride_and_prejudice/chapter_18/part_03">part 03 ›</a></div>
 </nav>
 
+
+The effect was immediate. A deeper shade of _hauteur_ overspread his
+features, but he said not a word; and Elizabeth, though blaming herself
+for her own weakness, could not go on. At length Darcy spoke, and in a
+constrained manner said,--
 
 “Mr. Wickham is blessed with such happy manners as may insure his
 _making_ friends; whether he may be equally capable of _retaining_ them,
@@ -139,17 +144,3 @@ descent, one could not expect much better.”
 said Elizabeth, angrily; “for I have heard you accuse him of nothing
 worse than of being the son of Mr. Darcy’s steward, and of _that_, I can
 assure you, he informed me himself.”
-
-“I beg your pardon,” replied Miss Bingley, turning away with a sneer.
-“Excuse my interference; it was kindly meant.”
-
-“Insolent girl!” said Elizabeth to herself. “You are much mistaken if
-you expect to influence me by such a paltry attack as this. I see
-nothing in it but your own wilful ignorance and the malice of Mr.
-Darcy.” She then sought her eldest sister, who had undertaken to make
-inquiries on the same subject of Bingley. Jane met her with a smile of
-such sweet complacency, a glow of such happy expression, as sufficiently
-marked how [[Well|well]] she was satisfied with the occurrences of the evening.
-Elizabeth instantly read her feelings; and, at that moment, solicitude
-for Wickham, resentment against his enemies, and everything else, gave
-way before the [[Hope|hope]] of Jane’s being in the fairest way for happiness.

@@ -14,6 +14,26 @@ tags:
 </nav>
 
 
+'His name is Dunn,' said the doctor, with a certain restraint of manner.
+'My sister - in - law gave him the job of managing the [[Garden|garden]], because
+he lost an eye in the War.'
+
+As they went through the mulberry bushes, the landscape of the [[Garden|garden]]
+presented that rich yet ominous effect which is found when the land is
+actually brighter than the sky. In the broken sunlight from behind, the
+tree - tops in front of them stood up like pale green flames against a
+sky steadily blackening with [[Storm|storm]], through every shade of purple and
+violet. The same light struck strips of the lawn and [[Garden|garden]] beds; and
+whatever it illuminated seemed more mysteriously sombre and secret for
+the light. The [[Garden|garden]] bed was dotted with tulips that looked like drops
+of dark [[Blood|blood]], and some of which one might have sworn were truly black;
+and the line ended appropriately with a tulip tree; which [[Father Brown]]
+was disposed, if partly by some confused [[Memory|memory]], to identify with what
+is commonly called the Judas tree. What assisted the association was the
+fact that there was hanging from one of the branches, like a dried
+fruit, the dry, thin [[Body|body]] of an old man, with a long beard that wagged
+grotesquely in the [[Wind|wind]].
+
 There lay on it something more than the horror of darkness, the horror
 of sunlight; for the fitful sun painted tree and man in gay colours like
 a stage property; the tree was in flower and the corpse was hung with a
@@ -102,34 +122,3 @@ it's tied so clumsily that a twist of rope holds it away from the neck,
 so that it couldn't throttle a man at all. He was dead before they put
 the rope on him; and he was dead before they put the [[Sword|sword]] in him. And
 how was he really killed?'
-
-'I think,' remarked the other, 'that we'd better go back to the [[house]]
-and have a look at his bedroom - and other things.'
-
-'So we will,' said [[Father Brown]]. 'But among other things perhaps we had
-better have a look at these footprints. Better begin at the other end, I
-think, by his [[Window|window]]. [[Well]], there are no footprints on the paved path,
-as there might be; but then again there mightn't be. [[Well]], here is the
-lawn just under his bedroom [[Window|window]]. And here are his footprints plain
-enough.'
-
-He blinked ominously at the footprints; and then began carefully
-retracing his path towards the tree, every now and then ducking in an
-undignified manner to look at something on the ground. Eventually he
-returned to [[Flambeau]] and said in a chatty manner:
-
-'[[Well]], do you know the story that is written there very plainly? Though
-it's not exactly a plain story.'
-
-'I wouldn't be content to call it plain,' said [[Flambeau]]. 'I should call
-it quite ugly - '
-
-'[[Well]],' said [[Father Brown]], 'the story that is stamped quite plainly on
-the earth, with exact moulds of the old man's slippers, is this. The
-aged paralytic leapt from the [[Window|window]] and ran down the beds parallel to
-the path, quite eager for all the fun of being strangled and stabbed; so
-eager that he hopped on one leg out of sheer lightheartedness; and even
-occasionally turned cartwheels - '
-
-'Stop!' cried [[Flambeau]], angrily. 'What the hell is all this hellish
-pantomime?'

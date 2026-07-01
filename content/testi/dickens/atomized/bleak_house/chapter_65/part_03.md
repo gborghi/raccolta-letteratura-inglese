@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 65 (part 3)"
+title: "Bleak House — Chapter 65 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_65/part_02">‹ part 02</a><span></span></div>
 </nav>
 
+
+“I am very weak, sir, but I [[Hope|hope]] I shall be stronger. I have to begin
+the world.”
+
+“Aye, truly; [[Well|well]] said!” cried my guardian.
+
+“I will not begin it in the old way now,” said [[Richard]] with a sad
+smile. “I have learned a lesson now, sir. It was a hard one, but you
+shall be assured, indeed, that I have learned it.”
 
 “[[Well]], [[Well|well]],” said my guardian, comforting him; “[[Well|well]], [[Well|well]], [[Well|well]],
 dear boy!”

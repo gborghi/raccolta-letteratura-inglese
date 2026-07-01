@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 18 (part 1)"
+title: "Jane Eyre — Chapter 18 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -27,7 +27,7 @@ tenantless, without encountering a smart lady’s-maid or a dandy valet.
 
 The kitchen, the butler’s pantry, the servants’ hall, the entrance
 hall, were equally alive; and the saloons were only left void and still
-when the blue sky and halcyon sunshine of the genial [[spring]] weather
+when the blue sky and halcyon sunshine of the genial [[Spring|spring]] weather
 called their occupants out into the grounds. Even when that weather was
 broken, and continuous rain set in for some days, no damp seemed cast
 over enjoyment: indoor amusements only became more lively and varied,

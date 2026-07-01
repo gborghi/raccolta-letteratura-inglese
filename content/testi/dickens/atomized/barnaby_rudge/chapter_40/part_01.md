@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 40 (part 1)"
+title: "Barnaby Rudge — Chapter 40 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -149,6 +149,3 @@ you to do something for me--something I wanted done--something for my
 own ends and purposes--you see? Now I am sure I needn’t enlarge upon the
 extreme absurdity of such an idea, however unintentional; so please--’
 and here he turned his eyes upon him--‘to be more guarded. Will you?’
-
-‘I meant to give you no offence,’ said Hugh. ‘I don’t know what to say.
-You catch me up so very short.’

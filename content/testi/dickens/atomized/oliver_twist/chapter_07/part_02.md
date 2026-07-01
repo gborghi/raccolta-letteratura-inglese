@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 7 (part 2)"
+title: "Oliver Twist — Chapter 7 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_07/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_08/part_01">part 01 ›</a></div>
 </nav>
 
+
+The liberality of Mrs. Sowerberry to [[Oliver]], had consisted of a profuse
+bestowal upon him of all the dirty odds and ends which nobody else
+would eat; so there was a great deal of meekness and [[Self|self]]-devotion in
+her voluntarily remaining under Mr. Bumble’s heavy accusation, of
+which, to do her justice, she was wholly [[Innocent|innocent]], in thought, word, or
+deed.
 
 “Ah!” said Mr. Bumble, when the lady brought her eyes down to earth
 again; “the only thing that can be done now, that I know of, is to

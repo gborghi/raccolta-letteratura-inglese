@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 27 (part 3)"
+title: "Villette — Chapter 27 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_28/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_28/part_04">part 04 ›</a></div>
 </nav>
 
+
+At dinner that day, Ginevra and [[Paulina]] each looked, in her own way,
+very beautiful; the former, perhaps, boasted the advantage in material
+charms, but the latter shone pre-eminent for attractions more subtle
+and spiritual: for light and eloquence of eye, for grace of mien, for
+winning variety of expression. Ginevra’s dress of deep crimson relieved
+[[Well|well]] her light curls, and harmonized with her [[Rose|rose]]-like bloom.
+[[Paulina]]’s attire—in fashion close, though faultlessly neat, but in
+texture clear and white—made the eye grateful for the delicate life of
+her complexion, for the soft animation of her countenance, for the
+tender depth of her eyes, for the brown [[Shadow|shadow]] and bounteous flow of
+her hair—darker than that of her Saxon cousin, as were also her
+eyebrows, her eyelashes, her full irids, and large mobile pupils.
+[[Nature]] having traced all these details slightly, and with a careless
+hand, in Miss Fanshawe’s case; and in Miss de Bassompierre’s, wrought
+them to a high and delicate finish.
 
 [[Paulina]] was awed by the savants, but not quite to mutism: she conversed
 modestly, diffidently; not without effort, but with so true a
@@ -93,20 +109,3 @@ me—a lapse of which he was not even conscious. He sat down, and became
 silent. His wish was rather to look than converse. Ginevra and [[Paulina]]
 were now opposite to him: he could gaze his fill: he surveyed both
 forms—studied both faces.
-
-Several new guests, ladies as [[Well|well]] as gentlemen, had entered the room
-since dinner, dropping in for the evening conversation; and amongst the
-gentlemen, I may incidentally observe, I had already noticed by
-glimpses, a severe, dark, professorial outline, hovering aloof in an
-inner saloon, seen only in vista. M. Emanuel knew many of the gentlemen
-present, but I think was a stranger to most of the ladies, excepting
-myself; in looking towards the hearth, he could not but see me, and
-naturally made a movement to approach; seeing, however, Dr. Bretton
-also, he changed his mind and held back. If that had been all, there
-would have been no cause for quarrel; but not satisfied with holding
-back, he puckered up his eyebrows, protruded his lip, and looked so
-ugly that I averted my eyes from the displeasing spectacle. M. Joseph
-Emanuel had arrived, as [[Well|well]] as his austere brother, and at this very
-moment was relieving Ginevra at the piano. What a master-touch
-succeeded her school-girl jingle! In what grand, grateful tones the
-instrument acknowledged the hand of the true [[Artist|artist]]!

@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]] — On Certain Modern Writers and the Institution of the Family (part 2)"
+title: "heret12 — On Certain Modern Writers and the Institution of the Family (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/heret12-(chesterton)"

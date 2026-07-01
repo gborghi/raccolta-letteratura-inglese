@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 30: A LOSS"
+title: "David Copperfield — Chapter 30: A LOSS"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/david-copperfield-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_29_i_visit_steerforth_at_his_home">‹ Chapter 29 I VISIT STEERFORTH AT HIS HOME</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_31_a_greater_loss">Chapter 31 A GREATER LOSS ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_29_i_visit_steerforth_at_his_home">‹ Chapter 29 I VISIT STEERFORTH AT HIS Home</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_31_a_greater_loss">Chapter 31 A GREATER LOSS ›</a></div>
 </nav>
 
 

@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 7 (part 2)"
+title: "The Professor — Chapter 7 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_professor/chapter_08/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/the_professor/chapter_08/part_03">part 03 ›</a></div>
 </nav>
 
+
+felt but once; treasure them, [[Memory]]; seal them in urns, and keep them
+
+in safe niches! [[Well]]--I [[Rose|rose]]. Travellers talk of the apartments in
+
+foreign dwellings being bare and uncomfortable; I thought my chamber
+
+looked stately and cheerful. It had such large windows--CROISEES that
 
 opened like doors, with such broad, clear panes of glass; such a great
 
@@ -37,8 +45,6 @@ her charming; if she was not pretty or polite, she was, I conceived,
 very picturesque; she reminded me of the female figures in certain Dutch
 
 paintings I had seen in other years at Seacombe Hall.
-
-
 
 I repaired to the public room; that, too, was very large and very lofty,
 
@@ -82,8 +88,6 @@ capital I was in; it was my first experience of that skill in living
 
 languages I afterwards found to be so general in Brussels.
 
-
-
 I lingered over my breakfast as long as I could; while it was there
 
 on the table, and while that stranger continued talking to me, I was a
@@ -116,8 +120,6 @@ and forced my reluctant [[Body|body]] out of the Hotel de ---- into the foreign
 
 street.
 
-
-
 It was a fine day, but I would not look at the blue sky or at the
 
 stately houses round me; my mind was bent on one thing, finding out “Mr.
@@ -127,8 +129,6 @@ Brown, Numero --, Rue Royale,” for so my letter was addressed. By dint
 of inquiry I succeeded; I stood at last at the desired door, knocked,
 
 asked for Mr. Brown, and was admitted.
-
-
 
 Being shown into a small breakfast-room, I found myself in the
 
@@ -152,8 +152,6 @@ that as a friend of Mr. Hunsden’s he would be willing to assist me as
 
 [[house]] at Liege, and another in a bookseller’s shop at Louvain.
 
-
-
 “Clerk and shopman!” murmured I to myself. “No.” I shook my head. I
 
 had tried the high stool; I hated it; I believed there were other
@@ -161,8 +159,6 @@ had tried the high stool; I hated it; I believed there were other
 occupations that would suit me better; besides I did not wish to leave
 
 Brussels.
-
-
 
 “I know of no place in Brussels,” answered Mr. Brown, “unless indeed you
 
@@ -172,21 +168,13 @@ the director of a large establishment who is in want of a professor of
 
 English and Latin.”
 
-
-
 I thought two minutes, then I seized the idea eagerly.
 
-
-
 “The very thing, sir!” said I.
-
-
 
 “But,” asked he, “do you understand French [[Well|well]] enough to teach Belgian
 
 boys English?”
-
-
 
 Fortunately I could answer this question in the affirmative;
 
@@ -196,8 +184,6 @@ intelligibly though not fluently. I could also read it [[Well|well]], and write
 
 it decently.
 
-
-
 “Then,” pursued Mr. Brown, “I think I can promise you the place, for
 
 [[Monsieur Pelet]] will not refuse a professor recommended by me; but come
@@ -206,22 +192,4 @@ here again at five o’[[Clock|clock]] this afternoon, and I will introduce you 
 
 him.”
 
-
-
 The word “professor” struck me. “I am not a professor,” said I.
-
-
-
-“Oh,” returned Mr. Brown, “professor, here in Belgium, means a teacher,
-
-that is all.”
-
-
-
-My [[Conscience|conscience]] thus quieted, I thanked Mr. Brown, and, for the present,
-
-withdrew. This [[Time|time]] I stepped out into the street with a relieved heart;
-
-the task I had imposed on myself for that day was executed. I might now
-
-take some hours of holiday. I felt free to look up. For the first [[Time|time]]

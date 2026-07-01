@@ -1,5 +1,5 @@
 ---
-title: "Robert Louis Stevenson — Chapter 8 (part 2)"
+title: "Robert Louis Stevenson — Chapter 7 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/robert-louis-stevenson-(chesterton)"
@@ -14,112 +14,103 @@ tags:
 </nav>
 
 
-The loftiest things of this world have their weakness or defect;
-and with that word "thin" we come to the limit of the glory of
-Skelt and discover that even the maker of toy theatres is human.
-Just as Stevenson gained in that school of boyish bravado his
-admirable sense of symbolic attitude and action, his deep joy in gay
-colour and gallant carriage, his fine feeling for life as a story
-and [[Honour|honour]] as a fight; his response to the challenge of the open
-door or the drag of the [[Road|road]] over the [[Hill|hill]]--as he gained all
-these great virtues and values under the symbol of A Penny Plain
-and Twopence Coloured, so he betrayed also even in his best work
-something of the technical limitation of such an instrument.
-And it cannot be more clearly stated than by saying that these flat
-figures could only be seen from one side.  They are aspects or
-attitudes of men rather than men; though the aspects and attitudes
-are of great importance considered as symbols, like the flat
-haloes of saints or the flat blazonry of shields.  In that sense
-only they are not deep enough; and lack another measurement.
-They are deep enough in the sense in which any beautiful picture
-is deep; in the sense that anything beautiful always means
-more than it says; possibly means more than it means to mean.
-In that sense there can be depth enough even in the shallow
-scenery of Skelt, when the [[Child|child]]'s eye plunges into it.
-But there is not depth in the sense of a great familiarity with
-the other side of the scenery or the implied life behind the scenes.
-When all is said and done, the splendid and inspiring figure
-of Three-Fingered Jack is a figure and not a statue.
-You cannot walk round him; and if he has no more than three fingers,
-he has much less than three dimensions.  But the important [[Paradox|paradox]]
-is that in this the imperfection of the work is actually due to the
-perfection of the art.  It is exactly because Balfour or Ballantrae
-only do what they are meant to do, and do it so swiftly and [[Well|well]],
-that we have a vague feeling that we do not know them as we know
-more loitering, more rambling or more sprawling characters.
-This is, if you will, a weakness in the author's work; but it is
-even more emphatically a weakness in the critics who call him weak.
-For they accuse him of the very opposite of his real fault;
-of a sort of [[Self|self]]-indulgent delicacy or a luxury of mere words.
-The evil arises from his very passion of economy and severity;
-from the fact that he pruned too much, so as almost to kill the plant;
-from the fact that he went too straight to the point, so that the movement
-was too quick to be clear, let [[Alone|alone]] familiar; above all, from the fact
-that such hardness of technique had about it something almost inhuman.
-He does sometimes simplify the puppet so much as to show the wire.
-But even in that relation between wire and wood there is a queer
-sort of realism.
+But this mixture of two types of tale in one is the very reverse
+of characteristic.  I know not where else in his works it can be found;
+unless perhaps we might take exception to the slight element of political
+irritation that makes itself felt, of all places in the world,
+in the amiable [[nightmare]] of _The Dynamiter._ It is really impossible
+to use a story in which everything is ridiculous to prove that
+certain particular Fenians or anarchist agitators are ridiculous.
+Nor indeed is it tenable that men who risk their lives to commit
+such crimes are quite so ridiculous as that.  But broadly speaking,
+the characteristic of this writer's conscientious artistry
+is that he is very careful to keep the different forms of art
+in [[Water|water]]-tight compartments.  It was, of course, a sentiment
+about technique and material which was very fashionable in the age
+of Whistler and the world where Stevenson had studied art.
+And the [[artist]] would as soon have stuck a lump of marble into
+the middle of a bas-relief in terracotta, or applied a coat of paint
+to a tracery he was making out of ivory, as put a piece of [[Tragedy|tragedy]]
+into the middle of a tea-table [[Comedy|comedy]] or a burst of righteous
+indignation into a farce.  In all this part of Stevenson's mind,
+especially as revealed in his letters, most of the critics have
+missed the very lasting effect of the chatter of craftsmanship,
+and all the jargon of tricks of the trade, which he heard among
+the French art students.  He had reversed almost the whole
+[[philosophy]] of everything that they wanted to do; but he still
+retained the dialect in which they talked about how it was done.
+But he talked it much better than they did; and he had his own knack
+of using the right word even for the search for the right word.
+It is typical that he said that a story must have one general tendency;
+and that in the whole book there must not be a single word "that looks
+the other way."  There is not a single word that looks the other way
+in the whole of _Prince Otto_ or in the whole of _The Wrong Box._
 
-Stevenson was a man who believed in craftsmanship; that is, in creation.
-He had not the smallest natural sympathy with all those hazy pagan
-and pantheistic notions often covered by the name of inspiration.
-He might not have expressed it in the phrase that man is an image
-of the Creator; but he did very definitely regard man as a maker
-of images.  There is, and has long been, pouring upon the world,
-mostly in an immediate sense from the Germans and the Slavs,
-probably in an ultimate sense from the dark philosophies of Asia,
-a sort of doctrine of mystical helplessness that takes a hundred forms;
-and that recognises everything in the world except will.  It denies
-the will of God and it does not believe even in the will of man.
-It does not believe in one of the most glorious manifestations of
-the will of man, which is the act of creative choice essential to art.
-The tendency has been admirably treated in the work of M. Henri Massis
-in his book on the Defence of the West; and another French writer
-of the same school, M. Maritain, has remarked on the important
-part which the word _artifex,_ as the title of an [[Artist|artist]],
-played in mediaeval [[philosophy]] as [[Well|well]] as mediaeval craftsmanship.
-As we shall see later, it is the [[Paradox|paradox]] of Stevenson that he would
-have cared nothing for such mediaeval metaphysics; and yet he carried
-out in practice precisely what these writers are now maintaining
-in principle.  He was, if ever there was one, an _artifex;_ not
-a mere mouthpiece of elemental powers or destinies, but a man
-making something by the force of will and in the light of reason.
-It was a sort of craftsmanship characteristic of mediaeval
-work in literature as [[Well|well]] as sculpture.  It was strikingly
-present in those mediaeval poets whom Stevenson himself admired;
-and perhaps admired more than he understood.  It is supremely
-typical of the close and finely carved ballades of Villon.
-Indeed the name of Stevenson will always, I suppose, be picturesquely
-associated with the name of Villon; if only because of the fine
-macabre nocturne of _A Lodging for the [[Night]]._ And yet if there
-was one thing in the world about which Stevenson was entirely wrong,
-it was about François Villon.  He was even, on that subject,
-guilty of a very unusual lapse of [[logic]] and error of fact.
-In his [[Essay|essay]] on Villon, while showing all the enthusiasm of a fine critic
-for a fine poet, he insists with almost rabid emphasis that the mind
-of the man was rotten with mere bestial cynicism and base materialism.
-"His eyes were sealed with their own filth"; and he could see
-nothing noble or beautiful in heaven or earth.  And to this he adds
-the rather curious remark that even in that France of the fifteenth
-century Villon might have learnt something better; since a few years
-before Joan of Arc had lived one of the noblest lives in [[history]].
-It seems rather hard on poor Villon to attribute to him a contented
-ignorance of all such people as Joan of Arc; since he actually goes
-out of his way to mention her in the most famous of his ballades;
-"The good lady of Lorraine whom the English burnt at Rouen."
-But the criticism is far more false according to the spirit
-than according to the letter.  It is founded on a sort of modern
-fashionable fallacy, compounded of sentimentalism and optimism,
-to the effect that a man who is rather bitter about this world
-cannot have any ideals; whereas the bitterness does sometimes come
-from the intensity of his ideals.  Anyhow, there is no [[Doubt|doubt]],
-to anybody who can read poetry without prejudice, that Villon had ideals
-and high ideals; only they happened to be highly Catholic ideals.
-The devotional poem that he wrote for his old mother, which describes
-her gazing at the glowing mediaeval [[Window|window]], itself glows with sincerity.
-And he wrote at least one line that would be sufficient to destroy
-the accusation; one of those lines that are too simple to be
-adequately translated, "Offrit à la mort sa très claire jeunesse";
-which is something like, "Offered his clear and shining youth to [[Death|death]]."
-He wrote it of Jesus [[Christ]]; but what better thing could be written
-of Joan of Arc?
+But now and then he did something more than this.  He created a form
+of art.  He invented a _genre_ which does not really exist outside
+his work.  It may seem a [[Paradox|paradox]] to say that his most original work
+was a [[Parody|parody]].  But certainly the notion of _The New Arabian Nights_
+is quite as unique in the world as the old _Arabian Nights;_ and it
+does not owe its real ingenuity to the model which it mocks.
+Stevenson here wove a singular sort of texture, or mixed
+a singular sort of atmosphere, which is not like anything else;
+a medium in which many incongruous things may find a comic congruity.
+It is partly like the atmosphere of [[A Dream|a dream]]; in which so many
+incongruous things cause no surprise.  It is partly the real atmosphere
+of [[London]] at [[Night|night]]; it is partly the unreal atmosphere of Baghdad.
+The broad and placid presence of Prince [[Florizel]] of Bohemia,
+that mysterious semi-reigning sovereign, is treated with a sort
+of vast and vague diplomatic reserve; which is like the confused
+[[nightmare]] of an old cosmopolitan courtier.  The Prince himself seems
+to have palaces in every country; and yet the humorous reader suspects,
+with half his mind, that the man is really only a pompous tobacconist,
+whom Stevenson happened to find in Rupert Street and chose to make
+the [[Hero|hero]] of a standing joke.  This [[Double|double]] mentality, like that of
+the true dreamer, is suggested with extraordinary skill without loading
+with a single question the inimitable lightness of the narrative.
+The [[Humour|humour]] of [[Florizel]]'s colossal condescension constitutes not only
+a new character, but a new sort of character.  He stands in a new
+relation to reality and unreality; he is a sort of solid impossibility.
+Since that [[Time|time]] many writers have written such fanciful extravagances
+about the lights of [[London]]; for Stevenson suffered much more than
+Tennyson from that of which the latter complained when "all had
+got the seed."  But few of them have really struck those ironical
+semitones or made the same thing so completely a cockney conspiracy
+and an Arabian fairy-tale. We have heard much of making the life
+of the modern town romantic; and many of the attempts in modern
+poetry seem only to make it more ugly than it really is.
+We have at the present moment a considerable cult of the fantastic;
+with the result that the fantastic has become rather a fixed type.
+It is picked out in crying colours of chrome yellow or magenta;
+with the result that it is perhaps too obviously a puppet.
+But Prince [[Florizel]] of Bohemia is not a puppet.  He is a presence;
+a person who seems to fill the room and yet to be such stuff
+as [[Dreams|dreams]] are made of; not simply a thing made of stuffing.
+The rigid and unreal dolls may fall into [[Dust|dust]] when the mood changes;
+but we do not easily imagine anybody kicking the stuffing
+out of [[Florizel]].  I will not say that the _New Arabian Nights_
+is the greatest of Stevenson's works; though a considerable case
+might be made for the challenge.  But I will say that it is probably
+the most unique; there was nothing like it before, and, I think,
+nothing equal to it since.
+
+But it is worth while to remark that even here, where the atmosphere
+might be expected to be more hazy, the generalisation stands about edges
+and the exact extravagance of Skelt.  However delicate is the air of
+mockery or mystery, there is very little change in the staccato style.
+The quarrel with the [[suicide|Suicide]] Club is "put to the touch of swords"
+and the phrase tingles like the twin blades of Durrisdeer.
+Nothing could be more angular than Mr. Malthus, the horrible
+paralysed man who plays on the brink of the precipice of [[suicide]];
+he is as hard as a huge beetle.  There is all the jerk of the old
+energetic puppets when he jumps from his seat, losing his disease
+for an instant at the sight of [[Death|death]].  There is more movement in
+that one paralytic than in crowds of softly moving society figures,
+in milder or more meditative fiction.  The very clatter of his broken
+bones down the stone steps of Trafalgar Square, of which we hear
+but an echo, has that almost metallic quality.  Jack Vandeleur's
+"brutalities of gesture," his pantomime of opening and shutting the hand,
+are surely somewhat piratical; he had been Dictator of Paraguay;
+but I think he had sailed there on the _Hispaniola._ In short we
+have here once more the continuity of a style within a style.
+And the inner thread within the silk is as thin and hard as wire.

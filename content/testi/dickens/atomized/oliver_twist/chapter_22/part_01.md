@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 22 (part 1)"
+title: "Oliver Twist — Chapter 22 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -140,10 +140,3 @@ engaged in busy preparation. Sikes and his companion enveloped their
 necks and chins in large dark shawls, and drew on their great-coats;
 Barney, opening a cupboard, brought forth several articles, which he
 hastily crammed into the pockets.
-
-“Barkers for me, Barney,” said Toby Crackit.
-
-“Here they are,” replied Barney, producing a pair of pistols. “You
-loaded them yourself.”
-
-“All right!” replied Toby, stowing them away. “The persuaders?”

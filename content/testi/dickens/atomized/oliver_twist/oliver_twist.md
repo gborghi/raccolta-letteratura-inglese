@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]]"
+title: "Oliver Twist"
 author: "Dickens"
 unitType: work
 parentWork: "works/oliver-twist-(dickens)"
@@ -727,7 +727,7 @@ applications of the cane. As for society, he was carried every other
 day into the hall where the boys dined, and there sociably flogged as a
 public warning and example. And so far from being denied the advantages
 of religious consolation, he was kicked into the same apartment every
-evening at [[Prayer|prayer]]-[[Time|time]], and there permitted to listen to, and console
+evening at [[prayer]]-[[Time|time]], and there permitted to listen to, and console
 his mind with, a general supplication of the boys, containing a special
 clause, therein inserted by authority of the board, in which they
 entreated to be made good, virtuous, contented, and obedient, and to be
@@ -3366,7 +3366,7 @@ receive [[Oliver]]’s answer.
 hazarding the usual reply.
 
 At this point of the inquiry, [[Oliver]] raised his head; and, looking
-round with imploring eyes, murmured a feeble [[Prayer|prayer]] for a draught of
+round with imploring eyes, murmured a feeble [[prayer]] for a draught of
 [[Water|water]].
 
 “Stuff and nonsense!” said Mr. Fang: “don’t try to make a [[Fool|fool]] of me.”
@@ -3602,7 +3602,7 @@ downstairs.
 [[Oliver]] dozed off again, soon after this; when he awoke, it was nearly
 twelve o’[[Clock|clock]]. The old lady tenderly bade him good-[[Night|night]] shortly
 afterwards, and left him in charge of a fat old woman who had just
-come: bringing with her, in a little bundle, a small [[Prayer]] Book and a
+come: bringing with her, in a little bundle, a small [[prayer|Prayer]] Book and a
 large nightcap. Putting the latter on her head and the former on the
 table, the old woman, after telling [[Oliver]] that she had come to sit up
 with him, drew her chair close to the [[Fire|fire]] and went off into a series
@@ -6739,7 +6739,7 @@ poor outcast boy who had never known the [[Love|love]] of friends or kindred, it
 might come to him now, when, desolate and deserted, he stood [[Alone|alone]] in
 the midst of wickedness and [[Guilt|guilt]].
 
-He had concluded his [[Prayer|prayer]], but still remained with his head buried in
+He had concluded his [[prayer]], but still remained with his head buried in
 his hands, when a rustling noise aroused him.
 
 “What’s that!” he cried, starting up, and catching sight of a figure
@@ -10874,7 +10874,7 @@ other days in that most happy [[Time|time]]! There was the little church, in the
 morning, with the green [[Leaves|leaves]] fluttering at the windows: the [[Birds|birds]]
 singing without: and the sweet-smelling air stealing in at the low
 porch, and filling the homely building with its fragrance. The poor
-people were so neat and clean, and knelt so reverently in [[Prayer|prayer]], that
+people were so neat and clean, and knelt so reverently in [[prayer]], that
 it seemed a pleasure, not a tedious duty, their assembling there
 together; and though the singing might be rude, it was real, and
 sounded more musical (to [[Oliver]]’s ears at least) than any he had ever
@@ -16489,7 +16489,7 @@ She staggered and fell: nearly blinded with the [[Blood|blood]] that rained down
 from a deep gash in her forehead; but raising herself, with difficulty,
 on her knees, drew from her bosom a white handkerchief—[[Rose Maylie]]’s
 own—and holding it up, in her folded hands, as high towards Heaven as
-her feeble strength would allow, breathed one [[Prayer|prayer]] for [[Mercy|mercy]] to her
+her feeble strength would allow, breathed one [[prayer]] for [[Mercy|mercy]] to her
 Maker.
 
 It was a ghastly figure to look upon. The murderer staggering backward
@@ -18358,7 +18358,7 @@ He looked up into the gallery again. Some of the people were eating,
 and some fanning themselves with handkerchiefs; for the crowded place
 was very hot. There was one young man sketching his face in a little
 note-book. He wondered whether it was like, and looked on when the
-[[artist]] broke his pencil-point, and made another with his knife, as any
+[[Artist|artist]] broke his pencil-point, and made another with his knife, as any
 idle spectator might have done.
 
 In the same way, when he turned his eyes towards the judge, his mind
@@ -18616,8 +18616,8 @@ Brownlow’s hand.
 bag, in a hole a little way up the chimney in the top front-room. I
 want to talk to you, my dear. I want to talk to you.”
 
-“Yes, yes,” returned [[Oliver]]. “Let me say a [[Prayer|prayer]]. Do! Let me say one
-[[Prayer|prayer]]. Say only one, upon your knees, with me, and we will talk till
+“Yes, yes,” returned [[Oliver]]. “Let me say a [[prayer]]. Do! Let me say one
+[[prayer]]. Say only one, upon your knees, with me, and we will talk till
 morning.”
 
 “Outside, outside,” replied [[Fagin]], pushing the boy before him towards

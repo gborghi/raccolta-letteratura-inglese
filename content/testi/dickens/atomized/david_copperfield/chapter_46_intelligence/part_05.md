@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 46: INTELLIGENCE (part 5)"
+title: "David Copperfield — Chapter 46: INTELLIGENCE (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_46_intelligence/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_47_martha/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘Now, my dear friend--‘I began.
+
+‘Thankee, thankee, kind sir,’ he said, grasping my hand in both of his.
+
+‘If she should make her way to [[London]], which is likely--for where could
+she lose herself so readily as in this vast [[City|city]]; and what would she
+wish to do, but lose and hide herself, if she does not go [[Home|home]]?--’
+
+‘And she won’t go [[Home|home]],’ he interposed, shaking his head mournfully. ‘If
+she had left of her own accord, she might; not as It was, sir.’
+
+‘If she should come here,’ said I, ‘I believe there is one person,
+here, more likely to discover her than any other in the world. Do
+you remember--hear what I say, with fortitude--think of your great
+object!--do you remember Martha?’
 
 ‘Of our town?’
 

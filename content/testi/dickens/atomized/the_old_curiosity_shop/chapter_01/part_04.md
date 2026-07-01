@@ -14,6 +14,32 @@ tags:
 </nav>
 
 
+‘Indeed, indeed you do,’ replied the [[Child|child]] with great earnestness, ‘Kit
+knows you do.’
+
+Kit, who in despatching his bread and meat had been swallowing
+two-thirds of his knife at every mouthful with the coolness of a
+juggler, stopped short in his operations on being thus appealed to, and
+bawled ‘Nobody isn’t such a [[Fool|fool]] as to say he doosn’t,’ after which he
+incapacitated himself for further conversation by taking a most
+prodigious sandwich at one bite.
+
+‘She is poor now’--said the old man, patting the [[Child|child]]’s cheek, ‘but I
+say again that the [[Time|time]] is coming when she shall be rich. It has been a
+long [[Time|time]] coming, but it must come at last; a very long [[Time|time]], but it
+surely must come. It has come to other men who do nothing but waste and
+riot. When WILL it come to me!’
+
+‘I am very happy as I am, grandfather,’ said the [[Child|child]].
+
+‘Tush, tush!’ returned the old man, ‘thou dost not know--how should’st
+thou!’ then he muttered again between his teeth, ‘The [[Time|time]] must come, I
+am very sure it must. It will be all the better for coming late’; and
+then he sighed and fell into his former musing state, and still holding
+the [[Child|child]] between his knees appeared to be insensible to everything
+around him. By this [[Time|time]] it wanted but a few minutes of midnight and I
+[[Rose|rose]] to go, which recalled him to himself.
+
 ‘One moment, sir,’ he said, ‘Now, Kit--near midnight, boy, and you
 still here! Get [[Home|home]], get [[Home|home]], and be true to your [[Time|time]] in the
 morning, for there’s work to do. Good [[Night|night]]! There, bid him good [[Night|night]],
@@ -120,35 +146,3 @@ happy!’
 
 ‘That’s [[Well|well]]; I know they do; they should,’ said the old man. ‘Bless
 thee a hundred times! Early in the morning I shall be [[Home|home]].’
-
-‘You’ll not ring twice,’ returned the [[Child|child]]. ‘The bell wakes me, even
-in the middle of [[A Dream|a dream]].’
-
-With this, they separated. The [[Child|child]] opened the door (now guarded by a
-shutter which I had heard the boy put up before he left the [[house]]) and
-with another farewell whose clear and tender note I have recalled a
-thousand times, held it until we had passed out. The old man paused a
-moment while it was gently closed and fastened on the inside, and
-satisfied that this was done, walked on at a slow pace. At the
-street-corner he stopped, and regarding me with a troubled countenance
-said that our ways were widely different and that he must take his
-leave. I would have spoken, but summoning up more alacrity than might
-have been expected in one of his appearance, he hurried away. I could
-see that twice or thrice he looked back as if to ascertain if I were
-still watching him, or perhaps to assure himself that I was not
-following at a distance. The obscurity of the [[Night|night]] favoured his
-disappearance, and his figure was soon beyond my sight.
-
-I remained standing on the spot where he had left me, unwilling to
-depart, and yet unknowing why I should loiter there. I looked wistfully
-into the street we had lately quitted, and after a [[Time|time]] directed my
-steps that way. I passed and repassed the [[house]], and stopped and
-listened at the door; all was dark, and silent as the [[Grave|grave]].
-
-Yet I lingered about, and could not tear myself away, thinking of all
-possible harm that might happen to the [[Child|child]]--of fires and robberies
-and even murder--and feeling as if some evil must ensue if I turned my
-back upon the place. The closing of a door or [[Window|window]] in the street
-brought me before the curiosity-dealer’s once more; I crossed the [[Road|road]]
-and looked up at the [[house]] to assure myself that the noise had not come
-from there. No, it was black, cold, and lifeless as before.

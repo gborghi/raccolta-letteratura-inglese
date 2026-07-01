@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 9 (part 3)"
+title: "Mansfield Park — Chapter 9 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -13,6 +13,43 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/mansfield_park/chapter_09/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/mansfield_park/chapter_09/part_04">part 04 ›</a></div>
 </nav>
 
+
+“Query,” said Mr. Crawford, looking round him, “whether we may not find
+something to employ us here before we go farther? I see walls of great
+promise. Mr. Rushworth, shall we summon a council on this lawn?”
+
+“James,” said Mrs. Rushworth to her son, “I believe the wilderness will
+be new to all the party. The Miss Bertrams have never seen the
+wilderness yet.”
+
+No objection was made, but for some [[Time|time]] there seemed no inclination to
+move in any plan, or to any distance. All were attracted at first by
+the plants or the pheasants, and all dispersed about in happy
+independence. Mr. Crawford was the first to move forward to examine the
+capabilities of that end of the [[house]]. The lawn, bounded on each side
+by a high wall, contained beyond the first planted area a
+bowling-green, and beyond the bowling-green a long terrace walk, backed
+by iron palisades, and commanding a view over them into the tops of the
+trees of the wilderness immediately adjoining. It was a good spot for
+fault-finding. Mr. Crawford was soon followed by Miss [[Bertram]] and Mr.
+Rushworth; and when, after a little [[Time|time]], the others began to form into
+parties, these three were found in busy consultation on the terrace by
+[[Edmund]], Miss Crawford, and Fanny, who seemed as naturally to unite, and
+who, after a short participation of their regrets and difficulties,
+left them and walked on. The remaining three, Mrs. Rushworth, Mrs.
+Norris, and [[Julia]], were still far behind; for [[Julia]], whose happy star
+no longer prevailed, was obliged to keep by the side of Mrs. Rushworth,
+and restrain her impatient feet to that lady’s slow pace, while her
+aunt, having fallen in with the housekeeper, who was come out to feed
+the pheasants, was lingering behind in gossip with her. Poor [[Julia]], the
+only one out of the nine not tolerably satisfied with their lot, was
+now in a state of complete penance, and as different from the [[Julia]] of
+the barouche-box as could [[Well|well]] be imagined. The politeness which she
+had been brought up to practise as a duty made it impossible for her to
+escape; while the want of that higher species of [[Self|self]]-command, that
+just consideration of others, that knowledge of her own heart, that
+principle of right, which had not formed any essential part of her
+[[Education|education]], made her miserable under it.
 
 “This is insufferably hot,” said Miss Crawford, when they had taken one
 turn on the terrace, and were drawing a second [[Time|time]] to the door in the
@@ -100,38 +137,3 @@ result of good principles; the effect, in short, of those doctrines
 which it is their duty to teach and recommend; and it will, I believe,
 be everywhere found, that as the clergy are, or are not what they ought
 to be, so are the rest of the nation.”
-
-“Certainly,” said Fanny, with gentle earnestness.
-
-“There,” cried Miss Crawford, “you have quite convinced Miss Price
-already.”
-
-“I wish I could convince Miss Crawford too.”
-
-“I do not think you ever will,” said she, with an arch smile; “I am
-just as much surprised now as I was at first that you should intend to
-take orders. You really are fit for something better. Come, do change
-your mind. It is not too late. Go into the law.”
-
-“Go into the law! With as much ease as I was told to go into this
-wilderness.”
-
-“Now you are going to say something about law being the worst
-wilderness of the two, but I forestall you; remember, I have
-forestalled you.”
-
-“You need not hurry when the object is only to prevent my saying a
-_bon_ _mot_, for there is not the least wit in my [[Nature|nature]]. I am a very
-matter-of-fact, plain-spoken being, and may blunder on the borders of a
-repartee for half an hour together without striking it out.”
-
-A general [[Silence|silence]] succeeded. Each was thoughtful. Fanny made the first
-interruption by saying, “I [[Wonder|wonder]] that I should be tired with only
-walking in this sweet wood; but the next [[Time|time]] we come to a seat, if it
-is not disagreeable to you, I should be glad to sit down for a little
-while.”
-
-“My dear Fanny,” cried [[Edmund]], immediately drawing her arm within his,
-“how thoughtless I have been! I [[Hope|hope]] you are not very tired. Perhaps,”
-turning to Miss Crawford, “my other companion may do me the [[Honour|honour]] of
-taking an arm.”

@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 1"
+title: "Persuasion — Chapter 1"
 author: "Austen"
 unitType: chapter
 parentWork: "works/persuasion-(austen)"
@@ -346,7 +346,7 @@ been met with any warmth, he had persevered in seeking it, making
 
 allowance for the modest drawing-back of youth; and, in one of their
 
-[[spring]] excursions to [[London]], when Elizabeth was in her first bloom, Mr
+[[Spring|spring]] excursions to [[London]], when Elizabeth was in her first bloom, Mr
 
 Elliot had been forced into the introduction.
 
@@ -360,7 +360,7 @@ favour was confirmed. He was invited to Kellynch Hall; he was talked of
 
 and expected all the rest of the year; but he never came. The following
 
-[[spring]] he was seen again in town, found equally agreeable, again
+[[Spring|spring]] he was seen again in town, found equally agreeable, again
 
 encouraged, invited, and expected, and again he did not come; and the
 
@@ -470,7 +470,7 @@ dreadfully in debt, but was hearing of it so often, that it became vain
 
 to attempt concealing it longer, even partially, from his daughter. He
 
-had given her some hints of it the last [[spring]] in town; he had gone so
+had given her some hints of it the last [[Spring|spring]] in town; he had gone so
 
 far even as to say, “Can we retrench? Does it occur to you that there
 

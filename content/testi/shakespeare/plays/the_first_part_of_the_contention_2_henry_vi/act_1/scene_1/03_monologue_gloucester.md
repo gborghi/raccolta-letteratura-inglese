@@ -1,5 +1,5 @@
 ---
-title: "The First Part of the Contention (2 [[Henry VI]]) — Act I, Scene 1 — monologue ([[Gloucester|GLOUCESTER]]) [3]"
+title: "The First Part of the Contention (2 Henry VI) — Act I, Scene 1 — monologue (GLOUCESTER) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-first-part-of-the-contention---(2-henry-vi)-(shakespeare)"

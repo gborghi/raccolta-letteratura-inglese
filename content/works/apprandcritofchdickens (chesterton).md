@@ -34,8 +34,8 @@ tags:
 ## Chapters / scenes / sections
 
 - [Chapter 01 PAGE](/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page)
-- [Chapter 02 desire to say as little as pos](/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_desire_to_say_as_little_as_pos)
-- [Chapter 03 celebrated characters who are](/testi/chesterton/atomized/apprandcritofchdickens/chapter_03_celebrated_characters_who_are)
+- Chapter 02 desire to say as little as pos
+- Chapter 03 celebrated characters who are
 
 ## Testo integrale / Full text
 

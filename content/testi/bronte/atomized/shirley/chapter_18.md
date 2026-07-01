@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 18"
+title: "Shirley — Chapter 18"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/shirley-(bronte)"
@@ -378,7 +378,7 @@ had known from her [[Childhood|childhood]]; unconsciously she was his ideal of a
 
 Her gentle mien, step, gestures, her grace of person and attire, moved
 
-some [[Artist|artist]]-fibres about his peasant heart. He had a pleasure in looking
+some [[artist]]-fibres about his peasant heart. He had a pleasure in looking
 
 at her, as he had in examining rare [[Flowers|flowers]] or in seeing pleasant
 

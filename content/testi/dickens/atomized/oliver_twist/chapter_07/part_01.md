@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 7 (part 1)"
+title: "Oliver Twist — Chapter 7 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -146,10 +146,3 @@ never have happened.”
 
 “Dear, dear!” ejaculated Mrs. Sowerberry, piously raising her eyes to
 the kitchen ceiling: “this comes of being liberal!”
-
-The liberality of Mrs. Sowerberry to [[Oliver]], had consisted of a profuse
-bestowal upon him of all the dirty odds and ends which nobody else
-would eat; so there was a great deal of meekness and [[Self|self]]-devotion in
-her voluntarily remaining under Mr. Bumble’s heavy accusation, of
-which, to do her justice, she was wholly [[Innocent|innocent]], in thought, word, or
-deed.

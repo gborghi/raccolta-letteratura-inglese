@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 53"
+title: "Great Expectations — Chapter 53"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/great-expectations-(dickens)"
@@ -334,7 +334,7 @@ Compeyson, Magwitch, and the gallows!”
 
 He flared the candle at me again, smoking my face and hair, and for an
 instant blinding me, and turned his powerful back as he replaced the
-light on the table. I had thought a [[Prayer|prayer]], and had been with Joe and
+light on the table. I had thought a [[prayer]], and had been with Joe and
 [[Biddy]] and Herbert, before he turned towards me again.
 
 There was a clear space of a few feet between the table and the
@@ -419,7 +419,7 @@ now—went before us with a lantern, which was the light I had seen come
 in at the door. But, the [[Moon|moon]] was a good two hours higher than when I
 had last seen the sky, and the [[Night|night]], though rainy, was much lighter.
 The white vapour of the kiln was passing from us as we went by, and as
-I had thought a [[Prayer|prayer]] before, I thought a thanksgiving now.
+I had thought a [[prayer]] before, I thought a thanksgiving now.
 
 Entreating Herbert to tell me how he had come to my rescue,—which at
 first he had flatly refused to do, but had insisted on my remaining

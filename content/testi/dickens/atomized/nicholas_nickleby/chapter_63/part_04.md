@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 63 (part 4)"
+title: "Nicholas Nickleby — Chapter 63 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_63/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_64/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘I can never look ‘em in the face again!’ exclaimed Miss La Creevy,
+faintly.
 
 ‘Come,’ said Tim, ‘let’s be a comfortable couple. We shall live in the
 old [[house]] here, where I have been for four-and-forty year; we shall go

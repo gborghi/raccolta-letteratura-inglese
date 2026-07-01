@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities — Chapter 12 (part 2)"
+title: "A Tale of Two Cities — Chapter 14 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-tale-of-two-cities-(dickens)"
@@ -14,132 +14,109 @@ tags:
 </nav>
 
 
-“It is so,” assented Defarge.
+“What an admirable woman; what an adorable woman!” exclaimed Jacques
+Three, rapturously. “Ah, my cherished!” cried The Vengeance; and
+embraced her.
 
-“That [[Night|night]], I tell him, when the paper is read through, and the lamp is
-burnt out, and the day is gleaming in above those shutters and between
-those iron bars, that I have now a secret to communicate. Ask him, is
-that so.”
+“Take you my knitting,” said [[Madame Defarge]], placing it in her
+lieutenant’s hands, “and have it ready for me in my usual seat. Keep
+me my usual chair. Go you there, straight, for there will probably be a
+greater concourse than usual, to-day.”
 
-“It is so,” assented Defarge again.
+“I willingly obey the orders of my Chief,” said The Vengeance with
+alacrity, and kissing her cheek. “You will not be late?”
 
-“I communicate to him that secret. I smite this bosom with these two
-hands as I smite it now, and I tell him, ‘Defarge, I was brought up
-among the fishermen of the sea-shore, and that peasant family so injured
-by the two Evrémonde brothers, as that Bastille paper describes, is my
-family. Defarge, that sister of the mortally wounded boy upon the ground
-was my sister, that husband was my sister’s husband, that [[unborn]] [[Child|child]]
-was their [[Child|child]], that brother was my brother, that father was my father,
-those dead are my dead, and that summons to answer for those things
-descends to me!’ Ask him, is that so.”
+“I shall be there before the commencement.”
 
-“It is so,” assented Defarge once more.
+“And before the tumbrils arrive. Be sure you are there, my [[Soul|soul]],” said
+The Vengeance, calling after her, for she had already turned into the
+street, “before the tumbrils arrive!”
 
-“Then tell [[Wind]] and [[Fire]] where to stop,” returned madame; “but don’t
-tell me.”
+[[Madame Defarge]] slightly waved her hand, to imply that she heard, and
+might be relied upon to arrive in good [[Time|time]], and so went through the
+mud, and round the corner of the [[Prison|prison]] wall. The Vengeance and the
+Juryman, looking after her as she walked away, were highly appreciative
+of her fine figure, and her superb moral endowments.
 
-Both her hearers derived a horrible enjoyment from the deadly [[Nature|nature]]
-of her wrath--the listener could feel how white she was, without seeing
-her--and both highly commended it. Defarge, a weak minority, interposed
-a few words for the [[Memory|memory]] of the compassionate wife of the Marquis; but
-only elicited from his own wife a repetition of her last reply. “Tell
-the [[Wind]] and the [[Fire]] where to stop; not me!”
+There were many women at that [[Time|time]], upon whom the [[Time|time]] laid a dreadfully
+disfiguring hand; but, there was not one among them more to be dreaded
+than this ruthless woman, now taking her way along the streets. Of a
+strong and fearless character, of shrewd sense and readiness, of great
+determination, of that kind of [[Beauty|beauty]] which not only seems to impart
+to its possessor firmness and animosity, but to strike into others an
+instinctive recognition of those qualities; the troubled [[Time|time]] would have
+heaved her up, under any circumstances. But, imbued from her [[Childhood|childhood]]
+with a brooding sense of wrong, and an inveterate hatred of a class,
+opportunity had developed her into a tigress. She was absolutely without
+pity. If she had ever had the virtue in her, it had quite gone out of
+her.
 
-Customers entered, and the group was broken up. The English customer
-paid for what he had had, perplexedly counted his change, and asked, as
-a stranger, to be directed towards the National Palace. [[Madame Defarge]]
-took him to the door, and put her arm on his, in pointing out the [[Road|road]].
-The English customer was not without his reflections then, that it might
-be a good deed to seize that arm, lift it, and strike under it sharp and
-deep.
+It was nothing to her, that an [[Innocent|innocent]] man was to die for the sins of
+his forefathers; she saw, not him, but them. It was nothing to her, that
+his wife was to be made a widow and his daughter an [[Orphan|orphan]]; that was
+insufficient punishment, because they were her natural enemies and
+her prey, and as such had no right to live. To appeal to her, was made
+hopeless by her having no sense of pity, even for herself. If she had
+been laid low in the streets, in any of the many encounters in which
+she had been engaged, she would not have pitied herself; nor, if she had
+been ordered to the axe to-morrow, would she have gone to it with any
+softer feeling than a fierce [[Desire|desire]] to change places with the man who
+sent her there.
 
-But, he went his way, and was soon swallowed up in the [[Shadow|shadow]] of the
-[[Prison|prison]] wall. At the appointed hour, he emerged from it to present
-himself in Mr. Lorry’s room again, where he found the old gentleman
-walking to and fro in restless anxiety. He said he had been with Lucie
-until just now, and had only left her for a few minutes, to come and
-keep his appointment. Her father had not been seen, since he quitted the
-banking-[[house]] towards four o’[[Clock|clock]]. She had some faint hopes that his
-mediation might save Charles, but they were very slight. He had been
-more than five hours gone: where could he be?
+Such a heart [[Madame Defarge]] carried under her rough robe. Carelessly
+worn, it was a becoming robe enough, in a certain weird way, and her
+dark hair looked rich under her coarse red cap. Lying hidden in her
+bosom, was a loaded [[Pistol|pistol]]. Lying hidden at her waist, was a sharpened
+dagger. Thus accoutred, and walking with the confident tread of such
+a character, and with the supple [[Freedom|freedom]] of a woman who had habitually
+walked in her girlhood, bare-foot and bare-legged, on the brown
+sea-sand, [[Madame Defarge]] took her way along the streets.
 
-Mr. Lorry waited until ten; but, [[Doctor Manette]] not returning, and
-he being unwilling to leave Lucie any longer, it was arranged that he
-should go back to her, and come to the banking-[[house]] again at midnight.
-In the meanwhile, Carton would wait [[Alone|alone]] by the [[Fire|fire]] for the Doctor.
+Now, when the [[Journey|journey]] of the travelling coach, at that very moment
+waiting for the completion of its load, had been planned out last [[Night|night]],
+the difficulty of taking [[Miss Pross]] in it had much engaged Mr. Lorry’s
+attention. It was not merely desirable to avoid overloading the coach,
+but it was of the highest importance that the [[Time|time]] occupied in examining
+it and its passengers, should be reduced to the utmost; since their
+escape might depend on the saving of only a few seconds here and there.
+Finally, he had proposed, after anxious consideration, that [[Miss Pross]]
+and Jerry, who were at liberty to leave the [[City|city]], should leave it at
+three o’[[Clock|clock]] in the lightest-wheeled conveyance known to that period.
+Unencumbered with luggage, they would soon overtake the coach, and,
+passing it and preceding it on the [[Road|road]], would order its horses in
+advance, and greatly facilitate its progress during the precious hours
+of the [[Night|night]], when delay was the most to be dreaded.
 
-He waited and waited, and the [[Clock|clock]] struck twelve; but [[Doctor Manette]]
-did not come back. Mr. Lorry returned, and found no tidings of him, and
-brought none. Where could he be?
+Seeing in this arrangement the [[Hope|hope]] of rendering real service in that
+pressing emergency, [[Miss Pross]] hailed it with joy. She and Jerry had
+beheld the coach start, had known who it was that Solomon brought, had
+passed some ten minutes in tortures of suspense, and were now concluding
+their arrangements to follow the coach, even as [[Madame Defarge]],
+taking her way through the streets, now drew nearer and nearer to the
+else-deserted lodging in which they held their consultation.
 
-They were discussing this question, and were almost building up some
-weak structure of [[Hope|hope]] on his prolonged absence, when they heard him on
-the stairs. The instant he entered the room, it was plain that all was
-lost.
+“Now what do you think, Mr. Cruncher,” said [[Miss Pross]], whose agitation
+was so great that she could hardly speak, or stand, or move, or live:
+“what do you think of our not starting from this courtyard? Another
+carriage having already gone from here to-day, it might awaken
+suspicion.”
 
-Whether he had really been to any one, or whether he had been all that
-[[Time|time]] traversing the streets, was never known. As he stood staring at
-them, they asked him no question, for his face told them everything.
+“My opinion, miss,” returned Mr. Cruncher, “is as you’re right. Likewise
+wot I’ll stand by you, right or wrong.”
 
-“I cannot find it,” said he, “and I must have it. Where is it?”
+“I am so distracted with [[Fear|fear]] and [[Hope|hope]] for our precious creatures,” said
+[[Miss Pross]], wildly crying, “that I am incapable of forming any plan. Are
+_you_ capable of forming any plan, my dear good Mr. Cruncher?”
 
-His head and throat were bare, and, as he spoke with a helpless look
-straying all around, he took his coat off, and let it drop on the floor.
+“Respectin’ a future spear o’ life, miss,” returned Mr. Cruncher, “I
+[[Hope|hope]] so. Respectin’ any present use o’ this here blessed old head o’
+mine, I think not. Would you do me the favour, miss, to take notice o’
+two promises and wows wot it is my wishes fur to record in this here
+crisis?”
 
-“Where is my bench? I have been looking everywhere for my bench, and I
-can’t find it. What have they done with my work? [[Time]] presses: I must
-finish those shoes.”
+“Oh, for gracious sake!” cried [[Miss Pross]], still wildly crying, “record
+them at once, and get them out of the way, like an excellent man.”
 
-They looked at one another, and their hearts died within them.
-
-“Come, come!” said he, in a whimpering miserable way; “let me get to
-work. Give me my work.”
-
-Receiving no answer, he tore his hair, and beat his feet upon the
-ground, like a distracted [[Child|child]].
-
-“Don’t torture a poor forlorn wretch,” he implored them, with a dreadful
-cry; “but give me my work! What is to become of us, if those shoes are
-not done to-[[Night|night]]?”
-
-Lost, utterly lost!
-
-It was so clearly beyond [[Hope|hope]] to reason with him, or try to restore him,
-that--as if by agreement--they each put a hand upon his shoulder, and
-soothed him to sit down before the [[Fire|fire]], with a promise that he should
-have his work presently. He sank into the chair, and brooded over the
-embers, and shed [[Tears|tears]]. As if all that had happened since the garret
-[[Time|time]] were a momentary fancy, or [[A Dream|a dream]], Mr. Lorry saw him shrink into
-the exact figure that Defarge had had in keeping.
-
-Affected, and impressed with terror as they both were, by this spectacle
-of ruin, it was not a [[Time|time]] to yield to such emotions. His lonely
-daughter, bereft of her final [[Hope|hope]] and reliance, appealed to them both
-too strongly. Again, as if by agreement, they looked at one another with
-one meaning in their faces. Carton was the first to speak:
-
-“The last chance is gone: it was not much. Yes; he had better be taken
-to her. But, before you go, will you, for a moment, steadily attend to
-me? Don’t ask me why I make the stipulations I am going to make, and
-exact the promise I am going to exact; I have a reason--a good one.”
-
-“I do not [[Doubt|doubt]] it,” answered Mr. Lorry. “Say on.”
-
-The figure in the chair between them, was all the [[Time|time]] monotonously
-rocking itself to and fro, and moaning. They spoke in such a tone as
-they would have used if they had been watching by a sick-bed in the
-[[Night|night]].
-
-Carton stooped to pick up the coat, which lay almost entangling his
-feet. As he did so, a small case in which the Doctor was accustomed to
-carry the lists of his day’s duties, fell lightly on the floor. Carton
-took it up, and there was a folded paper in it. “We should look
-at this!” he said. Mr. Lorry nodded his consent. He opened it, and
-exclaimed, “Thank _God!_”
-
-“What is it?” asked Mr. Lorry, eagerly.
-
-“A moment! Let me speak of it in its place. First,” he put his hand in
-his coat, and took another paper from it, “that is the certificate which
-enables me to pass out of this [[City|city]]. Look at it. You see--[[Sydney Carton]],
-an Englishman?”
+“First,” said Mr. Cruncher, who was all in a tremble, and who spoke with
+an ashy and solemn visage, “them poor things [[Well|well]] out o’ this, never no
+more will I do it, never no more!”

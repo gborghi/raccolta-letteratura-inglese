@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities — Chapter 13"
+title: "A Tale of Two Cities — Chapter 15"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/a-tale-of-two-cities-(dickens)"
@@ -10,561 +10,255 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/a-tale-of-two-cities-(dickens)">A Tale of Two Cities</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_44">‹ Chapter 44</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_46">Chapter 46 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_44">‹ Chapter 44</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_04/part_01">part 01 ›</a></div>
 </nav>
 
 
-CHAPTER XIII.
-Fifty-two
-
-
-In the black [[Prison|prison]] of the Conciergerie, the doomed of the day awaited
-their fate. They were in number as the weeks of the year. Fifty-two were
-to roll that afternoon on the life-tide of the [[City|city]] to the boundless
-everlasting sea. Before their cells were quit of them, new occupants
-were appointed; before their [[Blood|blood]] ran into the [[Blood|blood]] spilled yesterday,
-the [[Blood|blood]] that was to mingle with theirs to-morrow was already set
-apart.
-
-Two score and twelve were told off. From the farmer-general of seventy,
-whose riches could not buy his life, to the seamstress of twenty, whose
-[[Poverty|poverty]] and obscurity could not save her. Physical diseases, engendered
-in the vices and neglects of men, will seize on victims of all degrees;
-and the frightful moral disorder, born of unspeakable [[Suffering|suffering]],
-intolerable oppression, and heartless indifference, smote equally
-without distinction.
-
-[[Charles Darnay]], [[Alone|alone]] in a cell, had sustained himself with no
-flattering delusion since he came to it from the Tribunal. In every line
-of the narrative he had heard, he had heard his condemnation. He had
-fully comprehended that no personal influence could possibly save him,
-that he was virtually sentenced by the millions, and that units could
-avail him nothing.
-
-Nevertheless, it was not easy, with the face of his beloved wife fresh
-before him, to compose his mind to what it must bear. His hold on life
-was strong, and it was very, very hard, to loosen; by gradual efforts
-and degrees unclosed a little here, it clenched the tighter there; and
-when he brought his strength to bear on that hand and it yielded,
-this was closed again. There was a hurry, too, in all his thoughts,
-a turbulent and heated working of his heart, that contended against
-[[Resignation|resignation]]. If, for a moment, he did feel resigned, then his wife and
-[[Child|child]] who had to live after him, seemed to protest and to make it a
-selfish thing.
-
-But, all this was at first. Before long, the consideration that there
-was no disgrace in the fate he must meet, and that numbers went the same
-[[Road|road]] wrongfully, and trod it firmly every day, sprang up to stimulate
-him. Next followed the thought that much of the future peace of mind
-enjoyable by the dear ones, depended on his quiet fortitude. So,
-by degrees he calmed into the better state, when he could raise his
-thoughts much higher, and draw comfort down.
-
-Before it had set in dark on the [[Night|night]] of his condemnation, he had
-travelled thus far on his last way. Being allowed to purchase the means
-of writing, and a light, he sat down to write until such [[Time|time]] as the
-[[Prison|prison]] lamps should be extinguished.
-
-He wrote a long letter to Lucie, showing her that he had known nothing
-of her father’s [[Imprisonment|imprisonment]], until he had heard of it from herself,
-and that he had been as ignorant as she of his father’s and uncle’s
-responsibility for that misery, until the paper had been read. He had
-already explained to her that his concealment from herself of the name
-he had relinquished, was the one condition--fully intelligible now--that
-her father had attached to their betrothal, and was the one promise he
-had still exacted on the morning of their [[Marriage|marriage]]. He entreated her,
-for her father’s sake, never to seek to know whether her father had
-become oblivious of the existence of the paper, or had had it recalled
-to him (for the moment, or for good), by the story of the Tower, on
-that old [[Sunday]] under the dear old plane-tree in the [[Garden|garden]]. If he had
-preserved any definite remembrance of it, there could be no [[Doubt|doubt]] that
-he had supposed it destroyed with the Bastille, when he had found no
-mention of it among the relics of prisoners which the populace had
-discovered there, and which had been described to all the world. He
-besought her--though he added that he knew it was needless--to console
-her father, by impressing him through every tender means she could think
-of, with the [[Truth|truth]] that he had done nothing for which he could justly
-reproach himself, but had uniformly forgotten himself for their joint
-sakes. Next to her preservation of his own last grateful [[Love|love]] and
-blessing, and her overcoming of her sorrow, to devote herself to their
-dear [[Child|child]], he adjured her, as they would meet in Heaven, to comfort her
-father.
-
-To her father himself, he wrote in the same strain; but, he told her
-father that he expressly confided his wife and [[Child|child]] to his care. And
-he told him this, very strongly, with the [[Hope|hope]] of rousing him from any
-despondency or dangerous retrospect towards which he foresaw he might be
-tending.
-
-To Mr. Lorry, he commended them all, and explained his worldly affairs.
-That done, with many added sentences of grateful [[Friendship|friendship]] and warm
-attachment, all was done. He never thought of Carton. His mind was so
-full of the others, that he never once thought of him.
-
-He had [[Time|time]] to finish these letters before the lights were put out. When
-he lay down on his straw bed, he thought he had done with this world.
-
-But, it beckoned him back in his [[Sleep|sleep]], and showed itself in shining
-forms. Free and happy, back in the old [[house]] in Soho (though it had
-nothing in it like the real [[house]]), unaccountably released and light of
-heart, he was with Lucie again, and she told him it was all [[A Dream|a dream]], and
-he had never gone away. A pause of forgetfulness, and then he had even
-suffered, and had come back to her, dead and at peace, and yet there
-was no difference in him. Another pause of oblivion, and he awoke in the
-sombre morning, unconscious where he was or what had happened, until it
-flashed upon his mind, “this is the day of my [[Death|death]]!”
-
-Thus, had he come through the hours, to the day when the fifty-two heads
-were to fall. And now, while he was composed, and hoped that he could
-meet the end with quiet [[Heroism|heroism]], a new action began in his waking
-thoughts, which was very difficult to master.
-
-He had never seen the instrument that was to terminate his life. How
-high it was from the ground, how many steps it had, where he would be
-stood, how he would be touched, whether the touching hands would be dyed
-red, which way his face would be turned, whether he would be the first,
-or might be the last: these and many similar questions, in nowise
-directed by his will, obtruded themselves over and over again, countless
-times. Neither were they connected with [[Fear|fear]]: he was conscious of no
-[[Fear|fear]]. Rather, they originated in a strange besetting [[Desire|desire]] to know what
-to do when the [[Time|time]] came; a [[Desire|desire]] gigantically disproportionate to the
-few swift moments to which it referred; a wondering that was more like
-the wondering of some other spirit within his, than his own.
-
-The hours went on as he walked to and fro, and the clocks struck the
-numbers he would never hear again. Nine gone for ever, ten gone for
-ever, eleven gone for ever, twelve coming on to pass away. After a hard
-contest with that eccentric action of thought which had last perplexed
-him, he had got the better of it. He walked up and down, softly
-repeating their names to himself. The worst of the strife was over.
-He could walk up and down, free from distracting fancies, praying for
-himself and for them.
+CHAPTER XV.
+The Footsteps Die Out For Ever
+
+
+Along the [[Paris]] streets, the [[Death|death]]-carts rumble, hollow and harsh. Six
+tumbrils carry the day’s wine to La Guillotine. All the devouring and
+insatiate Monsters imagined since [[Imagination|imagination]] could record itself,
+are fused in the one realisation, Guillotine. And yet there is not in
+France, with its rich variety of soil and climate, a blade, a leaf,
+a root, a sprig, a peppercorn, which will grow to maturity under
+conditions more certain than those that have produced this horror. Crush
+humanity out of shape once more, under similar hammers, and it will
+twist itself into the same tortured forms. Sow the same seed of
+rapacious license and oppression over again, and it will surely yield
+the same fruit according to its kind.
+
+Six tumbrils roll along the streets. Change these back again to what
+they were, thou powerful enchanter, [[Time]], and they shall be seen to be
+the carriages of absolute monarchs, the equipages of feudal nobles, the
+toilettes of flaring Jezebels, the churches that are not my father’s
+[[house]] but dens of thieves, the huts of millions of starving peasants!
+No; the great magician who majestically works out the appointed order
+of the Creator, never reverses his transformations. “If thou be changed
+into this shape by the will of God,” say the seers to the enchanted, in
+the wise Arabian stories, “then remain so! But, if thou wear this
+form through mere passing conjuration, then resume thy former aspect!”
+ Changeless and hopeless, the tumbrils roll along.
+
+As the sombre wheels of the six carts go round, they seem to plough up
+a long crooked furrow among the populace in the streets. Ridges of faces
+are thrown to this side and to that, and the ploughs go steadily onward.
+So used are the regular inhabitants of the houses to the spectacle, that
+in many windows there are no people, and in some the occupation of the
+hands is not so much as suspended, while the eyes survey the faces in
+the tumbrils. Here and there, the inmate has visitors to see the sight;
+then he points his finger, with something of the complacency of a
+curator or authorised exponent, to this cart and to this, and seems to
+tell who sat here yesterday, and who there the day before.
+
+Of the riders in the tumbrils, some observe these things, and all
+things on their last roadside, with an impassive stare; others, with
+a lingering interest in the ways of life and men. Some, seated with
+drooping heads, are sunk in silent [[Despair|despair]]; again, there are some so
+heedful of their looks that they cast upon the multitude such glances as
+they have seen in theatres, and in pictures. Several close their eyes,
+and think, or try to get their straying thoughts together. Only one, and
+he a miserable creature, of a crazed aspect, is so shattered and made
+drunk by horror, that he sings, and tries to [[Dance|dance]]. Not one of the whole
+number appeals by look or gesture, to the pity of the people.
+
+There is a guard of sundry horsemen riding abreast of the tumbrils,
+and faces are often turned up to some of them, and they are asked some
+question. It would seem to be always the same question, for, it is
+always followed by a press of people towards the third cart. The
+horsemen abreast of that cart, frequently point out one man in it with
+their swords. The leading curiosity is, to know which is he; he stands
+at the back of the tumbril with his head bent down, to converse with a
+mere girl who sits on the side of the cart, and holds his hand. He has
+no curiosity or care for the scene about him, and always speaks to the
+girl. Here and there in the long street of St. Honore, cries are raised
+against him. If they move him at all, it is only to a quiet smile, as he
+shakes his hair a little more loosely about his face. He cannot easily
+touch his face, his arms being bound.
+
+On the steps of a church, awaiting the coming-up of the tumbrils, stands
+the Spy and [[Prison|prison]]-sheep. He looks into the first of them: not there.
+He looks into the second: not there. He already asks himself, “Has he
+sacrificed me?” when his face clears, as he looks into the third.
+
+“Which is Evrémonde?” says a man behind him.
+
+“That. At the back there.”
+
+“With his hand in the girl’s?”
+
+“Yes.”
+
+The man cries, “Down, Evrémonde! To the Guillotine all aristocrats!
+Down, Evrémonde!”
+
+“Hush, hush!” the Spy entreats him, timidly.
+
+“And why not, citizen?”
+
+“He is going to pay the forfeit: it will be paid in five minutes more.
+Let him be at peace.”
+
+But the man continuing to exclaim, “Down, Evrémonde!” the face of
+Evrémonde is for a moment turned towards him. Evrémonde then sees the
+Spy, and looks attentively at him, and goes his way.
+
+The clocks are on the stroke of three, and the furrow ploughed among the
+populace is turning round, to come on into the place of execution, and
+end. The ridges thrown to this side and to that, now crumble in and
+close behind the last plough as it passes on, for all are following
+to the Guillotine. In front of it, seated in chairs, as in a [[Garden|garden]] of
+public diversion, are a number of women, busily knitting. On one of the
+fore-most chairs, stands The Vengeance, looking about for her friend.
+
+“Thérèse!” she cries, in her shrill tones. “Who has seen her? Thérèse
+Defarge!”
 
-Twelve gone for ever.
+“She never missed before,” says a knitting-woman of the sisterhood.
 
-He had been apprised that the final hour was Three, and he knew he would
-be summoned some [[Time|time]] earlier, inasmuch as the tumbrils jolted heavily
-and slowly through the streets. Therefore, he resolved to keep Two
-before his mind, as the hour, and so to strengthen himself in the
-interval that he might be able, after that [[Time|time]], to strengthen others.
+“No; nor will she miss now,” cries The Vengeance, petulantly. “Thérèse.”
 
-Walking regularly to and fro with his arms folded on his breast, a very
-different man from the prisoner, who had walked to and fro at La Force,
-he heard One struck away from him, without surprise. The hour had
-measured like most other hours. Devoutly thankful to Heaven for his
-recovered [[Self|self]]-possession, he thought, “There is but another now,” and
-turned to walk again.
+“Louder,” the woman recommends.
 
-Footsteps in the stone passage outside the door. He stopped.
+Ay! Louder, Vengeance, much louder, and still she will scarcely hear
+thee. Louder yet, Vengeance, with a little oath or so added, and yet
+it will hardly bring her. Send other women up and down to seek her,
+lingering somewhere; and yet, although the messengers have done dread
+deeds, it is questionable whether of their own wills they will go far
+enough to find her!
 
-The key was put in the lock, and turned. Before the door was opened, or
-as it opened, a man said in a low voice, in English: “He has never seen
-me here; I have kept out of his way. Go you in [[Alone|alone]]; I wait near. Lose
-no [[Time|time]]!”
+“Bad Fortune!” cries The Vengeance, stamping her foot in the chair, “and
+here are the tumbrils! And Evrémonde will be despatched in a wink, and
+she not here! See her knitting in my hand, and her empty chair ready for
+her. I cry with vexation and disappointment!”
 
-The door was quickly opened and closed, and there stood before him
-face to face, quiet, intent upon him, with the light of a smile on his
-features, and a cautionary finger on his lip, [[Sydney Carton]].
+As The Vengeance descends from her elevation to do it, the tumbrils
+begin to discharge their loads. The ministers of Sainte Guillotine are
+robed and ready. Crash!--A head is held up, and the knitting-women who
+scarcely lifted their eyes to look at it a moment ago when it could
+think and speak, count One.
 
-There was something so bright and remarkable in his look, that, for the
-first moment, the prisoner misdoubted him to be an apparition of his own
-imagining. But, he spoke, and it was his voice; he took the prisoner’s
-hand, and it was his real grasp.
+The second tumbril empties and moves on; the third comes up. Crash!--And
+the knitting-women, never faltering or pausing in their Work, count Two.
 
-“Of all the people upon earth, you least expected to see me?” he said.
+The supposed Evrémonde descends, and the seamstress is lifted out next
+after him. He has not relinquished her patient hand in getting out, but
+still holds it as he promised. He gently places her with her back to the
+crashing engine that constantly whirrs up and falls, and she looks into
+his face and thanks him.
 
-“I could not believe it to be you. I can scarcely believe it now. You
-are not”--the apprehension came suddenly into his mind--“a prisoner?”
+“But for you, dear stranger, I should not be so composed, for I am
+naturally a poor little thing, faint of heart; nor should I have been
+able to raise my thoughts to Him who was put to [[Death|death]], that we might
+have [[Hope|hope]] and comfort here to-day. I think you were sent to me by
+Heaven.”
 
-“No. I am accidentally possessed of a power over one of the keepers
-here, and in virtue of it I stand before you. I come from her--your
-wife, dear Darnay.”
+“Or you to me,” says [[Sydney Carton]]. “Keep your eyes upon me, dear [[Child|child]],
+and mind no other object.”
 
-The prisoner wrung his hand.
+“I mind nothing while I hold your hand. I shall mind nothing when I let
+it go, if they are rapid.”
 
-“I bring you a request from her.”
+“They will be rapid. [[Fear]] not!”
 
-“What is it?”
+The two stand in the fast-thinning throng of victims, but they speak as
+if they were [[Alone|alone]]. Eye to eye, voice to voice, hand to hand, heart to
+heart, these two children of the Universal Mother, else so wide apart
+and differing, have come together on the dark highway, to repair [[Home|home]]
+together, and to rest in her bosom.
 
-“A most earnest, pressing, and emphatic entreaty, addressed to you
-in the most pathetic tones of the voice so dear to you, that you [[Well|well]]
-remember.”
+“Brave and generous friend, will you let me ask you one last question? I
+am very ignorant, and it troubles me--just a little.”
 
-The prisoner turned his face partly aside.
+“Tell me what it is.”
 
-“You have no [[Time|time]] to ask me why I bring it, or what it means; I have
-no [[Time|time]] to tell you. You must comply with it--take off those boots you
-wear, and draw on these of mine.”
+“I have a cousin, an only relative and an [[Orphan|orphan]], like myself, whom I
+[[Love|love]] very dearly. She is five years younger than I, and she lives in a
+farmer’s [[house]] in the south country. [[Poverty]] parted us, and she knows
+nothing of my fate--for I cannot write--and if I could, how should I
+tell her! It is better as it is.”
 
-There was a chair against the wall of the cell, behind the prisoner.
-Carton, pressing forward, had already, with the [[Speed|speed]] of [[Lightning|lightning]], got
-him down into it, and stood over him, barefoot.
+“Yes, yes: better as it is.”
 
-“Draw on these boots of mine. Put your hands to them; put your will to
-them. Quick!”
+“What I have been thinking as we came along, and what I am still
+thinking now, as I look into your kind strong face which gives me so
+much support, is this:--If the Republic really does good to the poor,
+and they come to be less hungry, and in all ways to suffer less, she may
+live a long [[Time|time]]: she may even live to be old.”
 
-“Carton, there is no escaping from this place; it never can be done. You
-will only die with me. It is [[Madness|madness]].”
+“What then, my gentle sister?”
 
-“It would be [[Madness|madness]] if I asked you to escape; but do I? When I ask you
-to pass out at that door, tell me it is [[Madness|madness]] and remain here. Change
-that cravat for this of mine, that coat for this of mine. While you do
-it, let me take this ribbon from your hair, and shake out your hair like
-this of mine!”
+“Do you think:” the uncomplaining eyes in which there is so much
+[[Endurance|endurance]], fill with [[Tears|tears]], and the lips part a little more and tremble:
+“that it will seem long to me, while I wait for her in the better land
+where I trust both you and I will be mercifully sheltered?”
 
-With wonderful quickness, and with a strength both of will and action,
-that appeared quite [[Supernatural|supernatural]], he forced all these changes upon him.
-The prisoner was like a young [[Child|child]] in his hands.
+“It cannot be, my [[Child|child]]; there is no [[Time]] there, and no trouble there.”
 
-“Carton! Dear Carton! It is [[Madness|madness]]. It cannot be accomplished, it never
-can be done, it has been attempted, and has always failed. I implore you
-not to add your [[Death|death]] to the bitterness of mine.”
+“You comfort me so much! I am so ignorant. Am I to kiss you now? Is the
+moment come?”
 
-“Do I ask you, my dear Darnay, to pass the door? When I ask that,
-refuse. There are pen and ink and paper on this table. Is your hand
-steady enough to write?”
+“Yes.”
 
-“It was when you came in.”
+She kisses his lips; he kisses hers; they solemnly bless each other.
+The spare hand does not tremble as he releases it; nothing worse than
+a sweet, bright constancy is in the patient face. She goes next before
+him--is gone; the knitting-women count Twenty-Two.
 
-“Steady it again, and write what I shall dictate. Quick, friend, quick!”
+“I am the [[Resurrection]] and the Life, saith the Lord: he that believeth
+in me, though he were dead, yet shall he live: and whosoever liveth and
+believeth in me shall never die.”
 
-Pressing his hand to his bewildered head, Darnay sat down at the table.
-Carton, with his right hand in his breast, stood close beside him.
-
-“Write exactly as I speak.”
-
-“To whom do I address it?”
-
-“To no one.” Carton still had his hand in his breast.
-
-“Do I date it?”
-
-“No.”
-
-The prisoner looked up, at each question. Carton, standing over him with
-his hand in his breast, looked down.
-
-“‘If you remember,’” said Carton, dictating, “‘the words that passed
-between us, long ago, you will readily comprehend this when you see it.
-You do remember them, I know. It is not in your [[Nature|nature]] to forget them.’”
-
-He was drawing his hand from his breast; the prisoner chancing to look
-up in his hurried [[Wonder|wonder]] as he wrote, the hand stopped, closing upon
-something.
-
-“Have you written ‘forget them’?” Carton asked.
-
-“I have. Is that a weapon in your hand?”
-
-“No; I am not armed.”
-
-“What is it in your hand?”
-
-“You shall know directly. Write on; there are but a few words more.” He
-dictated again. “‘I am thankful that the [[Time|time]] has come, when I can prove
-them. That I do so is no subject for regret or grief.’” As he said these
-words with his eyes fixed on the writer, his hand slowly and softly
-moved down close to the writer’s face.
-
-The pen dropped from Darnay’s fingers on the table, and he looked about
-him vacantly.
-
-“What vapour is that?” he asked.
-
-“Vapour?”
-
-“Something that crossed me?”
-
-“I am conscious of nothing; there can be nothing here. Take up the pen
-and finish. Hurry, hurry!”
-
-As if his [[Memory|memory]] were impaired, or his faculties disordered, the
-prisoner made an effort to rally his attention. As he looked at Carton
-with clouded eyes and with an altered manner of breathing, Carton--his
-hand again in his breast--looked steadily at him.
-
-“Hurry, hurry!”
-
-The prisoner bent over the paper, once more.
-
-“‘If it had been otherwise;’” Carton’s hand was again watchfully and
-softly stealing down; “‘I never should have used the longer opportunity.
-If it had been otherwise;’” the hand was at the prisoner’s face; “‘I
-should but have had so much the more to answer for. If it had been
-otherwise--’” Carton looked at the pen and saw it was trailing off into
-unintelligible signs.
-
-Carton’s hand moved back to his breast no more. The prisoner sprang up
-with a reproachful look, but Carton’s hand was close and firm at his
-nostrils, and Carton’s left arm caught him round the waist. For a few
-seconds he faintly struggled with the man who had come to lay down his
-life for him; but, within a minute or so, he was stretched insensible on
-the ground.
-
-Quickly, but with hands as true to the purpose as his heart was, Carton
-dressed himself in the clothes the prisoner had laid aside, combed back
-his hair, and tied it with the ribbon the prisoner had worn. Then, he
-softly called, “Enter there! Come in!” and the Spy presented himself.
-
-“You see?” said Carton, looking up, as he kneeled on one knee beside the
-insensible figure, putting the paper in the breast: “is your hazard very
-great?”
-
-“Mr. Carton,” the Spy answered, with a timid snap of his fingers, “my
-hazard is not _that_, in the thick of business here, if you are true to
-the whole of your bargain.”
-
-“Don’t [[Fear|fear]] me. I will be true to the [[Death|death]].”
-
-“You must be, Mr. Carton, if the tale of fifty-two is to be right. Being
-made right by you in that dress, I shall have no [[Fear|fear]].”
-
-“Have no [[Fear|fear]]! I shall soon be out of the way of harming you, and the
-rest will soon be far from here, please God! Now, get assistance and
-take me to the coach.”
-
-“You?” said the Spy nervously.
-
-“Him, man, with whom I have exchanged. You go out at the gate by which
-you brought me in?”
-
-“Of course.”
-
-“I was weak and faint when you brought me in, and I am fainter now you
-take me out. The parting interview has overpowered me. Such a thing has
-happened here, often, and too often. Your life is in your own hands.
-Quick! Call assistance!”
-
-“You swear not to betray me?” said the trembling Spy, as he paused for a
-last moment.
-
-“Man, man!” returned Carton, stamping his foot; “have I sworn by no
-solemn vow already, to go through with this, that you waste the precious
-moments now? Take him yourself to the courtyard you know of, place
-him yourself in the carriage, show him yourself to Mr. Lorry, tell him
-yourself to give him no restorative but air, and to remember my words of
-last [[Night|night]], and his promise of last [[Night|night]], and drive away!”
-
-The Spy withdrew, and Carton seated himself at the table, resting his
-forehead on his hands. The Spy returned immediately, with two men.
-
-“How, then?” said one of them, contemplating the fallen figure. “So
-afflicted to find that his friend has drawn a prize in the lottery of
-Sainte Guillotine?”
-
-“A good patriot,” said the other, “could hardly have been more afflicted
-if the [[aristocrat|Aristocrat]] had drawn a blank.”
-
-They raised the unconscious figure, placed it on a litter they had
-brought to the door, and bent to carry it away.
-
-“The [[Time|time]] is short, Evrémonde,” said the Spy, in a warning voice.
-
-“I know it [[Well|well]],” answered Carton. “Be careful of my friend, I entreat
-you, and leave me.”
-
-“Come, then, my children,” said Barsad. “Lift him, and come away!”
-
-The door closed, and Carton was left [[Alone|alone]]. Straining his powers of
-listening to the utmost, he listened for any sound that might denote
-suspicion or alarm. There was none. Keys turned, doors clashed,
-footsteps passed along distant passages: no cry was raised, or hurry
-made, that seemed unusual. Breathing more freely in a little while, he
-sat down at the table, and listened again until the [[Clock|clock]] struck Two.
-
-Sounds that he was not afraid of, for he divined their meaning, then
-began to be audible. Several doors were opened in succession, and
-finally his own. A gaoler, with a list in his hand, looked in, merely
-saying, “Follow me, Evrémonde!” and he followed into a large dark room,
-at a distance. It was a dark [[Winter|winter]] day, and what with the shadows
-within, and what with the shadows without, he could but dimly discern
-the others who were brought there to have their arms bound. Some were
-standing; some seated. Some were lamenting, and in restless motion;
-but, these were few. The great majority were silent and still, looking
-fixedly at the ground.
-
-As he stood by the wall in a dim corner, while some of the fifty-two
-were brought in after him, one man stopped in passing, to embrace him,
-as having a knowledge of him. It thrilled him with a great dread of
-discovery; but the man went on. A very few moments after that, a young
-woman, with a slight girlish form, a sweet spare face in which there was
-no vestige of colour, and large widely opened patient eyes, [[Rose|rose]] from
-the seat where he had observed her sitting, and came to speak to him.
-
-“Citizen Evrémonde,” she said, touching him with her cold hand. “I am a
-poor little seamstress, who was with you in La Force.”
-
-He murmured for answer: “True. I forget what you were accused of?”
-
-“Plots. Though the just Heaven knows that I am [[Innocent|innocent]] of any. Is it
-likely? Who would think of plotting with a poor little weak creature
-like me?”
-
-The forlorn smile with which she said it, so touched him, that [[Tears|tears]]
-started from his eyes.
-
-“I am not afraid to die, Citizen Evrémonde, but I have done nothing. I
-am not unwilling to die, if the Republic which is to do so much good
-to us poor, will profit by my [[Death|death]]; but I do not know how that can be,
-Citizen Evrémonde. Such a poor weak little creature!”
-
-As the last thing on earth that his heart was to warm and soften to, it
-warmed and softened to this pitiable girl.
-
-“I heard you were released, Citizen Evrémonde. I hoped it was true?”
-
-“It was. But, I was again taken and condemned.”
-
-“If I may ride with you, Citizen Evrémonde, will you let me hold your
-hand? I am not afraid, but I am little and weak, and it will give me
-more [[Courage|courage]].”
-
-As the patient eyes were lifted to his face, he saw a sudden [[Doubt|doubt]] in
-them, and then astonishment. He pressed the work-worn, hunger-worn young
-fingers, and touched his lips.
-
-“Are you dying for him?” she whispered.
-
-“And his wife and [[Child|child]]. Hush! Yes.”
-
-“O you will let me hold your brave hand, stranger?”
-
-“Hush! Yes, my poor sister; to the last.”
+The murmuring of many voices, the upturning of many faces, the pressing
+on of many footsteps in the outskirts of the crowd, so that it swells
+forward in a mass, like one great heave of [[Water|water]], all flashes away.
+Twenty-Three.
 
         *****
 
-The same shadows that are falling on the [[Prison|prison]], are falling, in that
-same hour of the early afternoon, on the Barrier with the crowd about
-it, when a coach going out of [[Paris]] drives up to be examined.
+They said of him, about the [[City|city]] that [[Night|night]], that it was the
+peacefullest man’s face ever beheld there. Many added that he looked
+[[Sublime|sublime]] and prophetic.
 
-“Who goes here? Whom have we within? Papers!”
+One of the most remarkable sufferers by the same axe--a woman--had asked
+at the foot of the same scaffold, not long before, to be allowed to
+write down the thoughts that were inspiring her. If he had given any
+utterance to his, and they were prophetic, they would have been these:
 
-The papers are handed out, and read.
+“I see Barsad, and Cly, Defarge, The Vengeance, the Juryman, the Judge,
+long ranks of the new oppressors who have risen on the destruction of
+the old, perishing by this retributive instrument, before it shall cease
+out of its present use. I see a beautiful [[City|city]] and a brilliant people
+rising from this abyss, and, in their struggles to be truly free, in
+their triumphs and defeats, through long years to come, I see the evil
+of this [[Time|time]] and of the previous [[Time|time]] of which this is the natural
+birth, gradually making expiation for itself and wearing out.
 
-“Alexandre Manette. Physician. French. Which is he?”
+“I see the lives for which I lay down my life, peaceful, useful,
+prosperous and happy, in that England which I shall see no more. I see
+Her with a [[Child|child]] upon her bosom, who bears my name. I see her father,
+aged and bent, but otherwise restored, and faithful to all men in his
+healing office, and at peace. I see the good old man, so long their
+friend, in ten years’ [[Time|time]] enriching them with all he has, and passing
+tranquilly to his reward.
 
-This is he; this helpless, inarticulately murmuring, wandering old man
-pointed out.
+“I see that I hold a sanctuary in their hearts, and in the hearts of
+their descendants, generations hence. I see her, an old woman, weeping
+for me on the anniversary of this day. I see her and her husband, their
+course done, lying side by side in their last earthly bed, and I know
+that each was not more honoured and held sacred in the other’s [[Soul|soul]],
+than I was in the souls of both.
 
-“Apparently the Citizen-Doctor is not in his right mind? The
-Revolution-fever will have been too much for him?”
+“I see that [[Child|child]] who lay upon her bosom and who bore my name, a man
+winning his way up in that path of life which once was mine. I see him
+winning it so [[Well|well]], that my name is made illustrious there by the
+light of his. I see the blots I threw upon it, faded away. I see him,
+fore-most of just judges and honoured men, bringing a boy of my name,
+with a forehead that I know and golden hair, to this place--then fair to
+look upon, with not a trace of this day’s disfigurement--and I hear him
+tell the [[Child|child]] my story, with a tender and a faltering voice.
 
-Greatly too much for him.
-
-“Hah! Many suffer with it. Lucie. His daughter. French. Which is she?”
-
-This is she.
-
-“Apparently it must be. Lucie, the wife of Evrémonde; is it not?”
-
-It is.
-
-“Hah! Evrémonde has an assignation elsewhere. Lucie, her [[Child|child]]. English.
-This is she?”
-
-She and no other.
-
-“Kiss me, [[Child|child]] of Evrémonde. Now, thou hast kissed a good Republican;
-something new in thy family; remember it! [[Sydney Carton]]. Advocate.
-English. Which is he?”
-
-He lies here, in this corner of the carriage. He, too, is pointed out.
-
-“Apparently the English advocate is in a swoon?”
-
-It is hoped he will recover in the fresher air. It is represented that
-he is not in strong health, and has separated sadly from a friend who is
-under the displeasure of the Republic.
-
-“Is that all? It is not a great deal, that! Many are under the
-displeasure of the Republic, and must look out at the little [[Window|window]].
-[[Jarvis Lorry]]. Banker. English. Which is he?”
-
-“I am he. Necessarily, being the last.”
-
-It is [[Jarvis Lorry]] who has replied to all the previous questions. It
-is [[Jarvis Lorry]] who has alighted and stands with his hand on the coach
-door, replying to a group of officials. They leisurely walk round the
-carriage and leisurely mount the box, to look at what little luggage it
-carries on the roof; the country-people hanging about, press nearer to
-the coach doors and greedily stare in; a little [[Child|child]], carried by its
-mother, has its short arm held out for it, that it may touch the wife of
-an [[aristocrat]] who has gone to the Guillotine.
-
-“Behold your papers, [[Jarvis Lorry]], countersigned.”
-
-“One can depart, citizen?”
-
-“One can depart. Forward, my postilions! A good [[Journey|journey]]!”
-
-“I salute you, citizens.--And the first danger passed!”
-
-These are again the words of [[Jarvis Lorry]], as he clasps his hands, and
-looks upward. There is terror in the carriage, there is weeping, there
-is the heavy breathing of the insensible traveller.
-
-“Are we not going too slowly? Can they not be induced to go faster?”
- asks Lucie, clinging to the old man.
-
-“It would seem like flight, my darling. I must not urge them too much;
-it would rouse suspicion.”
-
-“Look back, look back, and see if we are pursued!”
-
-“The [[Road|road]] is clear, my dearest. So far, we are not pursued.”
-
-Houses in twos and threes pass by us, solitary farms, ruinous buildings,
-dye-works, tanneries, and the like, open country, avenues of leafless
-trees. The hard uneven pavement is under us, the soft deep mud is on
-either side. Sometimes, we strike into the skirting mud, to avoid the
-stones that clatter us and shake us; sometimes, we stick in ruts and
-sloughs there. The agony of our impatience is then so great, that in our
-wild alarm and hurry we are for getting out and running--hiding--doing
-anything but stopping.
-
-Out of the open country, in again among ruinous buildings, solitary
-farms, dye-works, tanneries, and the like, cottages in twos and threes,
-avenues of leafless trees. Have these men deceived us, and taken us back
-by another [[Road|road]]? Is not this the same place twice over? Thank Heaven,
-no. A village. Look back, look back, and see if we are pursued! Hush!
-the posting-[[house]].
-
-Leisurely, our four horses are taken out; leisurely, the coach stands in
-the little street, bereft of horses, and with no likelihood upon it
-of ever moving again; leisurely, the new horses come into visible
-existence, one by one; leisurely, the new postilions follow, sucking and
-plaiting the lashes of their whips; leisurely, the old postilions count
-their money, make wrong additions, and arrive at dissatisfied results.
-All the [[Time|time]], our overfraught hearts are beating at a rate that would
-far outstrip the fastest gallop of the fastest horses ever foaled.
-
-At length the new postilions are in their saddles, and the old are left
-behind. We are through the village, up the [[Hill|hill]], and down the [[Hill|hill]], and
-on the low watery grounds. Suddenly, the postilions exchange speech with
-animated gesticulation, and the horses are pulled up, almost on their
-haunches. We are pursued?
-
-“Ho! Within the carriage there. Speak then!”
-
-“What is it?” asks Mr. Lorry, looking out at [[Window|window]].
-
-“How many did they say?”
-
-“I do not understand you.”
-
-“--At the last post. How many to the Guillotine to-day?”
-
-“Fifty-two.”
-
-“I said so! A brave number! My fellow-citizen here would have it
-forty-two; ten more heads are worth having. The Guillotine goes
-handsomely. I [[Love|love]] it. Hi forward. Whoop!”
-
-The [[Night|night]] comes on dark. He moves more; he is beginning to revive, and
-to speak intelligibly; he thinks they are still together; he asks him,
-by his name, what he has in his hand. O pity us, kind Heaven, and help
-us! Look out, look out, and see if we are pursued.
-
-The [[Wind|wind]] is rushing after us, and the clouds are flying after us, and
-the [[Moon|moon]] is plunging after us, and the whole wild [[Night|night]] is in pursuit of
-us; but, so far, we are pursued by nothing else.
+“It is a far, far better thing that I do, than I have ever done; it is a
+far, far better rest that I go to than I have ever known.”

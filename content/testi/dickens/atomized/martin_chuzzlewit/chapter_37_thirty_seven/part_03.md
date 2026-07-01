@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 37: THIRTY SEVEN (part 3)"
+title: "Martin Chuzzlewit — Chapter 37: THIRTY SEVEN (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,23 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_37_thirty_seven/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_37_thirty_seven/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘I seldom showed it--never--I know that. But I had that belief in you,
+that if I had been asked to name the person in the world least likely to
+retort upon me, I would have named you, confidently.’
+
+‘Would have named me!’ Tom repeated.
+
+‘Yes,’ she said with energy, ‘and I have often thought so.’
+
+After a moment’s reflection, Tom sat himself upon a chair beside her.
+
+‘Do you believe,’ said Tom, ‘oh, can you think, that what I said just
+now, I said with any but the true and plain intention which my words
+professed? I mean it, in the spirit and the letter. If I ever offended
+you, forgive me; I may have done so, many times. You never injured or
+offended me. How, then, could I possibly retort, if even I were stern
+and bad enough to wish to do it!’
 
 After a little while she thanked him, through her [[Tears|tears]] and sobs, and
 told him she had never been at once so sorry and so comforted, since she
@@ -109,7 +126,7 @@ very small one in her case, that she might have been excused for looking
 sharp after it, lest it should entirely vanish from her sight--had taken
 a firm hold on Mrs Todgers’s attention. But in some odd nook in Mrs
 Todgers’s breast, up a great many steps, and in a corner easy to be
-overlooked, there was a secret door, with ‘Woman’ written on the [[Spring|spring]],
+overlooked, there was a secret door, with ‘Woman’ written on the [[spring]],
 which, at a touch from [[Mercy]]’s hand, had flown wide open, and admitted
 her for shelter.
 
@@ -122,24 +139,3 @@ She was growing beautiful so rapidly in Tom’s eyes; for he saw that she
 was poor, and that this good had sprung up in her from among the sordid
 strivings of her life; that she might have been a very [[Venus]] in a minute
 more, if Miss Pecksniff had not entered with her friend.
-
-‘Mr Thomas Pinch!’ said [[Charity]], performing the ceremony of introduction
-with evident [[Pride|pride]]. ‘Mr Moddle. Where’s my sister?’
-
-‘Gone, Miss Pecksniff,’ Mrs Todgers answered. ‘She had appointed to be
-[[Home|home]].’
-
-‘Ah!’ said [[Charity]], looking at Tom. ‘Oh, dear me!’
-
-‘She’s greatly altered since she’s been Anoth--since she’s been married,
-Mrs Todgers!’ observed Moddle.
-
-‘My dear Augustus!’ said Miss Pecksniff, in a low voice. ‘I verily
-believe you have said that fifty thousand times, in my hearing. What a
-Prose you are!’
-
-This was succeeded by some trifling [[Love|love]] passages, which appeared to
-originate with, if not to be wholly carried on by Miss Pecksniff. At any
-rate, Mr Moddle was much slower in his responses than is customary
-with young [[lovers]], and exhibited a lowness of spirits which was quite
-oppressive.

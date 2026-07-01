@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 45: MR. DICK FULFILS MY AUNT’S PREDICTIONS (part 3)"
+title: "David Copperfield — Chapter 45: MR. DICK FULFILS MY AUNT’S PREDICTIONS (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -122,9 +122,3 @@ it.
 ‘Yes!’ she said. ‘I beg and pray that no one will leave the room! Oh, my
 husband and father, break this long [[Silence|silence]]. Let us both know what it is
 that has come between us!’
-
-Mrs. Markleham, by this [[Time|time]] recovering the power of speech, and seeming
-to swell with family [[Pride|pride]] and motherly indignation, here exclaimed,
-‘Annie, get up immediately, and don’t disgrace everybody belonging to
-you by humbling yourself like that, unless you wish to see me go out of
-my mind on the spot!’

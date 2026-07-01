@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 20 (part 2)"
+title: "Bleak House — Chapter 20 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_20/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_20/part_03">part 03 ›</a></div>
 </nav>
 
+
+“Any subject but that!” says Mr. Guppy with a gloomy enjoyment of his
+injury. “For there ARE chords, Jobling—”
 
 Mr. Jobling begs pardon again.
 

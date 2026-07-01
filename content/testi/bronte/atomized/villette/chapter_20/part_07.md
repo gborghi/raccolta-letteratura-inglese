@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 20 (part 7)"
+title: "Villette — Chapter 20 (part 7)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_20/part_06">‹ part 06</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_21/part_01">part 01 ›</a></div>
 </nav>
 
+
+Graham was quite cheerful all the evening, and his cheerfulness seemed
+natural and unforced. His demeanour, his look, is not easily described;
+there was something in it peculiar, and, in its way, original. I read
+in it no common mastery of the passions, and a fund of deep and healthy
+strength which, without any exhausting effort, bore down Disappointment
+and extracted her fang. His manner, now, reminded me of qualities I had
+noticed in him when professionally engaged amongst the poor, the
+guilty, and the [[Suffering|suffering]], in the Basse-Ville: he looked at once
+determined, enduring, and sweet-tempered. Who could help liking him?
+_He_ betrayed no weakness which harassed all your feelings with
+considerations as to how its faltering must be propped; from _him_
+broke no irritability which startled calm and quenched mirth; _his_
+lips let fall no caustic that burned to the bone; _his_ eye shot no
+morose shafts that went cold, and rusty, and venomed through your
+heart: beside him was rest and refuge—around him, fostering sunshine.
 
 And yet he had neither forgiven nor forgotten Miss Fanshawe. Once
 angered, I [[Doubt|doubt]] if Dr. Bretton were to be soon propitiated—once

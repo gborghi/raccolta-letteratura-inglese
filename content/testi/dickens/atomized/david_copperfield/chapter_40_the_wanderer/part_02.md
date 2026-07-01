@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 40: THE WANDERER (part 2)"
+title: "David Copperfield — Chapter 40: THE WANDERER (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_40_the_wanderer/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_40_the_wanderer/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘When she was a [[Child|child]],’ he said, lifting up his head soon after we were
+left [[Alone|alone]], ‘she used to talk to me a deal about the sea, and about
+them coasts where the sea got to be dark blue, and to lay a-shining and
+a-shining in the sun. I thowt, odd times, as her father being drownded
+made her think on it so much. I doen’t know, you see, but maybe she
+believed--or hoped--he had drifted out to them parts, where the [[Flowers|flowers]]
+is always a-blowing, and the country bright.’
 
 ‘It is likely to have been a childish fancy,’ I replied.
 
@@ -114,14 +122,3 @@ him. But, Mas’r Davy, it warn’t to be--not yet! I was too late, and they
 was gone. Wheer, I couldn’t learn. Some said heer, some said theer.
 I travelled heer, and I travelled theer, but I found no Em’ly, and I
 travelled [[Home|home]].’
-
-‘How long ago?’ I asked.
-
-‘A matter o’ fower days,’ said Mr. Peggotty. ‘I sighted the old boat
-arter dark, and the light a-shining in the winder. When I come nigh and
-looked in through the glass, I see the faithful creetur Missis Gummidge
-sittin’ by the [[Fire|fire]], as we had fixed upon, [[Alone|alone]]. I called out, “Doen’t
-be afeerd! It’s Dan’l!” and I went in. I never could have thowt the old
-boat would have been so strange!’ From some pocket in his breast, he
-took out, with a very careful hand a small paper bundle containing two
-or three letters or little packets, which he laid upon the table.

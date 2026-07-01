@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 3 (part 3)"
+title: "Shirley — Chapter 3 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_03/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_04/part_01">part 01 ›</a></div>
 </nav>
 
+
+Wellington--that would please ye, Mr. Helstone--and sich paragraphs as
+
+we could contrive for t' papers! Briarfield suld be famous. But we'se
+
+hev a column and a half i' th' _Stilbro' Courier_ ower this job, as it
 
 is, I dare say. I'se expect no less."
 

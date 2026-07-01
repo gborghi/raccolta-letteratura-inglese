@@ -1,5 +1,5 @@
 ---
-title: "[[Endymion]] — Book IV"
+title: "Endymion — Book IV"
 author: "Keats"
 unitType: section
 tags:

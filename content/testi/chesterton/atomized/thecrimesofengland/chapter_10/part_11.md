@@ -1,5 +1,5 @@
 ---
-title: "[[TheCrimesOfEngland]] — Chapter 10 (part 11)"
+title: "TheCrimesOfEngland — Chapter 10 (part 11)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thecrimesofengland-(chesterton)"
@@ -13,6 +13,58 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thecrimesofengland/chapter_10/part_10">‹ part 10</a><a class="ex-next" href="/testi/chesterton/atomized/thecrimesofengland/chapter_10/part_12">part 12 ›</a></div>
 </nav>
 
+
+the beginning of the business. It is [[Well|well]] represented in two facts; the
+
+barbaric refusal of the new astronomical calendar merely because it was
+
+invented by a Pope, and the singular decision to pronounce Latin as if
+
+it were something else, making it not a dead language but a new
+
+language. Later, the part played by particular royalties is complex and
+
+accidental; "the furious German" came and passed; the much less
+
+interesting Germans came and stayed. Their influence was negative but
+
+not negligible; they kept England out of that current of European life
+
+into which the Gallophil Stuarts might have carried her. Only one of the
+
+Hanoverians was actively German; so German that he actually gloried in
+
+the name of Briton, and spelt it wrong. Incidentally, he lost [[america|America]].
+
+It is notable that all those eminent among the real Britons, who spelt
+
+it right, respected and would parley with the American Revolution,
+
+however jingo or legitimist they were; the romantic conservative Burke,
+
+the earth-devouring Imperialist Chatham, even, in reality, the jog-trot
+
+Tory North. The intractability was in the Elector of Hanover more than
+
+in the [[King]] of England; in the narrow and petty German prince who was
+
+bored by Shakespeare and approximately inspired by Handel. What really
+
+clinched the unlucky companionship of England and [[Germany]] was the first
+
+and second alliance with Prussia; the first in which we prevented the
+
+hardening tradition of Frederick the Great being broken up by the Seven
+
+Years' War; the second in which we prevented it being broken up by the
+
+[[French Revolution]] and Napoleon. In the first we helped Prussia to escape
+
+like a young brigand; in the second we helped the brigand to adjudicate
+
+as a respectable magistrate. Having aided his lawlessness, we defended
+
+his legitimacy. We helped to give the Bourbon prince his [[Crown|crown]], though
 
 our allies the Prussians (in their cheery way) tried to pick a few
 
@@ -57,8 +109,6 @@ painfully and precisely what it was, we must open an old and sealed and
 very awful door, on a scene which was called Ireland, but which then
 
 might [[Well|well]] have been called hell.
-
-
 
 Having chosen our part and made war upon the new world, we were soon
 
@@ -129,63 +179,3 @@ metaphor called the [[Union]]. Here there is no possible see-saw of
 sympathies as there can be between [[Brutus]] and Caesar or between Cromwell
 
 and Charles I.: there is simply nobody who supposes that Emmet was out
-
-for worldly gain, or that Castlereagh was out for anything else. Even
-
-the incidental resemblances between the two sides only served to sharpen
-
-the contrast and the complete superiority of the nationalists. Thus,
-
-Castlereagh and Lord Edward Fitzgerald were both aristocrats. But
-
-Castlereagh was the corrupt gentleman at the [[Court]], Fitzgerald the
-
-generous gentleman upon the land; some portion of whose [[Blood|blood]], along
-
-with some portion of his spirit, descended to that great gentleman,
-
-who--in the midst of the emetic immoralism of our modern politics--gave
-
-back that land to the Irish peasantry. Thus again, all such
-
-eighteenth-century aristocrats (like aristocrats almost anywhere) stood
-
-apart from the popular mysticism and the shrines of the poor; they were
-
-theoretically Protestants, but practically pagans. But Tone was the type
-
-of pagan who refuses to persecute, like Gallio: Pitt was the type of
-
-pagan who consents to persecute; and his place is with Pilate. He was an
-
-intolerant indifferentist; ready to enfranchise the Papists, but more
-
-ready to massacre them. Thus, once more, the two pagans, Tone and
-
-Castlereagh, found a pagan end in [[suicide]]. But the circumstances were
-
-such that any man, of any party, felt that Tone had died like Cato and
-
-Castlereagh had died like Judas.
-
-
-
-The march of Pitt's policy went on; and the chasm between light and
-
-darkness deepened. Order was restored; and wherever order spread, there
-
-spread an anarchy more awful than the sun has ever looked on. Torture
-
-came out of the crypts of the [[Inquisition]] and walked in the sunlight of
-
-the streets and fields. A village vicar was slain with inconceivable
-
-stripes, and his corpse set on [[Fire|fire]] with frightful jests about a roasted
-
-priest. Rape became a mode of [[government]]. The violation of virgins
-
-became a standing order of police. Stamped still with the same terrible
-
-symbolism, the work of the English [[government|Government]] and the English settlers
-
-seemed to resolve itself into animal atrocities against the wives and

@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 40: FORTY (part 2)"
+title: "Martin Chuzzlewit — Chapter 40: FORTY (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,8 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_40_forty/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_40_forty/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘Oh! by the bye, Mr Pinch, you needn’t mention it, if you please!’
 
 Tom thought he was going to tell him a secret; so he said that he
 wouldn’t on any account, and that Mr Fips might entirely depend upon

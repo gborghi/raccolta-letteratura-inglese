@@ -1,5 +1,5 @@
 ---
-title: "[[Emma]] — Chapter 5 (part 1)"
+title: "Emma — Chapter 7 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/emma-(austen)"
@@ -10,138 +10,127 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/works/emma-(austen)">Emma</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/emma/chapter_40/part_04">‹ part 04</a><a class="ex-next" href="/testi/austen/atomized/emma/chapter_43/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/emma/chapter_42/part_04">‹ part 04</a><a class="ex-next" href="/testi/austen/atomized/emma/chapter_43/part_02">part 02 ›</a></div>
 </nav>
 
 
-CHAPTER V
+CHAPTER VII
 
 
-In this state of schemes, and hopes, and connivance, June opened upon
-Hartfield. To Highbury in general it brought no material change. The
-Eltons were still talking of a visit from the Sucklings, and of the use
-to be made of their barouche-landau; and [[Jane Fairfax]] was still at her
-grandmother’s; and as the return of the Campbells from Ireland was
-again delayed, and August, instead of Midsummer, fixed for it, she was
-likely to remain there full two months longer, provided at least she
-were able to defeat Mrs. Elton’s activity in her service, and save
-herself from being hurried into a delightful situation against her
-will.
+They had a very fine day for Box [[Hill]]; and all the other outward
+circumstances of arrangement, accommodation, and punctuality, were in
+favour of a pleasant party. Mr. Weston directed the whole, officiating
+safely between Hartfield and the Vicarage, and every [[Body|body]] was in good
+[[Time|time]]. [[Emma]] and Harriet went together; [[Miss Bates]] and her niece, with
+the Eltons; the gentlemen on horseback. Mrs. Weston remained with Mr.
+Woodhouse. Nothing was wanting but to be happy when they got there.
+Seven miles were travelled in expectation of enjoyment, and every [[Body|body]]
+had a burst of admiration on first arriving; but in the general amount
+of the day there was deficiency. There was a languor, a want of
+spirits, a want of [[Union|union]], which could not be got over. They separated
+too much into parties. The Eltons walked together; Mr. Knightley took
+charge of [[Miss Bates]] and Jane; and [[Emma]] and Harriet belonged to Frank
+Churchill. And Mr. Weston tried, in vain, to make them harmonise
+better. It seemed at first an accidental division, but it never
+materially varied. Mr. and Mrs. Elton, indeed, shewed no unwillingness
+to mix, and be as agreeable as they could; but during the two whole
+hours that were spent on the [[Hill|hill]], there seemed a principle of
+separation, between the other parties, too strong for any fine
+prospects, or any cold collation, or any cheerful Mr. Weston, to
+remove.
 
-Mr. Knightley, who, for some reason best known to himself, had
-certainly taken an early dislike to [[Frank Churchill]], was only growing
-to dislike him more. He began to suspect him of some [[Double|double]] dealing in
-his pursuit of [[Emma]]. That [[Emma]] was his object appeared indisputable.
-Every thing declared it; his own attentions, his father’s hints, his
-mother-in-law’s guarded [[Silence|silence]]; it was all in unison; words, conduct,
-discretion, and indiscretion, told the same story. But while so many
-were devoting him to [[Emma]], and [[Emma]] herself making him over to Harriet,
-Mr. Knightley began to suspect him of some inclination to trifle with
-[[Jane Fairfax]]. He could not understand it; but there were symptoms of
-intelligence between them—he thought so at least—symptoms of admiration
-on his side, which, having once observed, he could not persuade himself
-to think entirely void of meaning, however he might wish to escape any
-of [[Emma]]’s errors of [[Imagination|imagination]]. _She_ was not present when the
-suspicion first arose. He was dining with the Randalls family, and
-Jane, at the Eltons’; and he had seen a look, more than a single look,
-at Miss Fairfax, which, from the admirer of Miss Woodhouse, seemed
-somewhat out of place. When he was again in their company, he could not
-help remembering what he had seen; nor could he avoid observations
-which, unless it were like Cowper and his [[Fire|fire]] at twilight,
+At first it was downright dulness to [[Emma]]. She had never seen Frank
+Churchill so silent and stupid. He said nothing worth hearing—looked
+without seeing—admired without intelligence—listened without knowing
+what she said. While he was so dull, it was no [[Wonder|wonder]] that Harriet
+should be dull likewise; and they were both insufferable.
 
-“Myself creating what I saw,”
+When they all sat down it was better; to her taste a great deal better,
+for [[Frank Churchill]] grew talkative and gay, making her his first
+object. Every distinguishing attention that could be paid, was paid to
+her. To amuse her, and be agreeable in her eyes, seemed all that he
+cared for—and [[Emma]], glad to be enlivened, not sorry to be flattered,
+was gay and easy too, and gave him all the friendly encouragement, the
+admission to be gallant, which she had ever given in the first and most
+animating period of their acquaintance; but which now, in her own
+estimation, meant nothing, though in the judgment of most people
+looking on it must have had such an appearance as no English word but
+flirtation could very [[Well|well]] describe. “Mr. [[Frank Churchill]] and Miss
+Woodhouse flirted together excessively.” They were laying themselves
+open to that very phrase—and to having it sent off in a letter to Maple
+Grove by one lady, to Ireland by another. Not that [[Emma]] was gay and
+thoughtless from any real felicity; it was rather because she felt less
+happy than she had expected. She laughed because she was disappointed;
+and though she liked him for his attentions, and thought them all,
+whether in [[Friendship|friendship]], admiration, or playfulness, extremely judicious,
+they were not winning back her heart. She still intended him for her
+friend.
 
+“How much I am obliged to you,” said he, “for telling me to come
+to-day!—If it had not been for you, I should certainly have lost all
+the happiness of this party. I had quite determined to go away again.”
 
-brought him yet stronger suspicion of there being a something of
-private liking, of private understanding even, between [[Frank Churchill]]
-and Jane.
+“Yes, you were very [[Cross|cross]]; and I do not know what about, except that
+you were too late for the best strawberries. I was a kinder friend than
+you deserved. But you were humble. You begged hard to be commanded to
+come.”
 
-He had walked up one day after dinner, as he very often did, to spend
-his evening at Hartfield. [[Emma]] and Harriet were going to walk; he
-joined them; and, on returning, they fell in with a larger party, who,
-like themselves, judged it wisest to take their exercise early, as the
-weather threatened rain; Mr. and Mrs. Weston and their son, [[Miss Bates]]
-and her niece, who had accidentally met. They all united; and, on
-reaching Hartfield gates, [[Emma]], who knew it was exactly the sort of
-visiting that would be welcome to her father, pressed them all to go in
-and drink tea with him. The Randalls party agreed to it immediately;
-and after a pretty long speech from [[Miss Bates]], which few persons
-listened to, she also found it possible to accept dear Miss Woodhouse’s
-most obliging invitation.
+“Don’t say I was [[Cross|cross]]. I was fatigued. The heat overcame me.”
 
-As they were turning into the grounds, Mr. Perry passed by on
-horseback. The gentlemen spoke of his [[Horse|horse]].
+“It is hotter to-day.”
 
-“By the bye,” said [[Frank Churchill]] to Mrs. Weston presently, “what
-became of Mr. Perry’s plan of setting up his carriage?”
+“Not to my feelings. I am perfectly comfortable to-day.”
 
-Mrs. Weston looked surprized, and said, “I did not know that he ever
-had any such plan.”
+“You are comfortable because you are under command.”
 
-“Nay, I had it from you. You wrote me word of it three months ago.”
+“Your command?—Yes.”
 
-“Me! impossible!”
+“Perhaps I intended you to say so, but I meant [[Self|self]]-command. You had,
+somehow or other, broken bounds yesterday, and run away from your own
+management; but to-day you are got back again—and as I cannot be always
+with you, it is best to believe your temper under your own command
+rather than mine.”
 
-“Indeed you did. I remember it perfectly. You mentioned it as what was
-certainly to be very soon. Mrs. Perry had told somebody, and was
-extremely happy about it. It was owing to _her_ [[Persuasion|persuasion]], as she
-thought his being out in bad weather did him a great deal of harm. You
-must remember it now?”
+“It comes to the same thing. I can have no [[Self|self]]-command without a
+motive. You order me, whether you speak or not. And you can be always
+with me. You are always with me.”
 
-“Upon my word I never heard of it till this moment.”
+“Dating from three o’[[Clock|clock]] yesterday. My perpetual influence could not
+begin earlier, or you would not have been so much out of [[Humour|humour]]
+before.”
 
-“Never! really, never!—Bless me! how could it be?—Then I must have
-dreamt it—but I was completely persuaded—Miss [[smith|Smith]], you walk as if you
-were tired. You will not be sorry to find yourself at [[Home|home]].”
+“Three o’[[Clock|clock]] yesterday! That is your date. I thought I had seen you
+first in February.”
 
-“What is this?—What is this?” cried Mr. Weston, “about Perry and a
-carriage? Is Perry going to set up his carriage, Frank? I am glad he
-can afford it. You had it from himself, had you?”
+“Your gallantry is really unanswerable. But (lowering her voice)—nobody
+speaks except ourselves, and it is rather too much to be talking
+nonsense for the entertainment of seven silent people.”
 
-“No, sir,” replied his son, laughing, “I seem to have had it from
-nobody.—Very odd!—I really was persuaded of Mrs. Weston’s having
-mentioned it in one of her letters to Enscombe, many weeks ago, with
-all these particulars—but as she declares she never heard a syllable of
-it before, of course it must have been [[A Dream|a dream]]. I am a great dreamer. I
-dream of every [[Body|body]] at Highbury when I am away—and when I have gone
-through my particular friends, then I begin dreaming of Mr. and Mrs.
-Perry.”
+“I say nothing of which I am ashamed,” replied he, with lively
+impudence. “I saw you first in February. Let every [[Body|body]] on the [[Hill]]
+hear me if they can. Let my accents swell to Mickleham on one side, and
+Dorking on the other. I saw you first in February.” And then
+whispering—“Our companions are excessively stupid. What shall we do to
+rouse them? Any nonsense will serve. They _shall_ talk. Ladies and
+gentlemen, I am ordered by Miss Woodhouse (who, wherever she is,
+presides) to say, that she desires to know what you are all thinking
+of?”
 
-“It is odd though,” observed his father, “that you should have had such
-a regular connected dream about people whom it was not very likely you
-should be thinking of at Enscombe. Perry’s setting up his carriage! and
-his wife’s persuading him to it, out of care for his health—just what
-will happen, I have no [[Doubt|doubt]], some [[Time|time]] or other; only a little
-premature. What an air of probability sometimes runs through [[A Dream|a dream]]!
-And at others, what a heap of absurdities it is! [[Well]], Frank, your
-dream certainly shews that Highbury is in your thoughts when you are
-absent. [[Emma]], you are a great dreamer, I think?”
+Some laughed, and answered good-humouredly. [[Miss Bates]] said a great
+deal; Mrs. Elton swelled at the idea of Miss Woodhouse’s presiding; Mr.
+Knightley’s answer was the most distinct.
 
-[[Emma]] was out of hearing. She had hurried on before her guests to
-prepare her father for their appearance, and was beyond the reach of
-Mr. Weston’s hint.
+“Is Miss Woodhouse sure that she would like to hear what we are all
+thinking of?”
 
-“Why, to own the [[Truth|truth]],” cried [[Miss Bates]], who had been trying in vain
-to be heard the last two minutes, “if I must speak on this subject,
-there is no denying that Mr. [[Frank Churchill]] might have—I do not mean
-to say that he did not dream it—I am sure I have sometimes the oddest
-[[Dreams|dreams]] in the world—but if I am questioned about it, I must acknowledge
-that there was such an idea last [[spring]]; for Mrs. Perry herself
-mentioned it to my mother, and the Coles knew of it as [[Well|well]] as
-ourselves—but it was quite a secret, known to nobody else, and only
-thought of about three days. Mrs. Perry was very anxious that he should
-have a carriage, and came to my mother in great spirits one morning
-because she thought she had prevailed. Jane, don’t you remember
-grandmama’s telling us of it when we got [[Home|home]]? I forget where we had
-been walking to—very likely to Randalls; yes, I think it was to
-Randalls. Mrs. Perry was always particularly fond of my mother—indeed I
-do not know who is not—and she had mentioned it to her in confidence;
-she had no objection to her telling us, of course, but it was not to go
-beyond: and, from that day to this, I never mentioned it to a [[Soul|soul]] that
-I know of. At the same [[Time|time]], I will not positively answer for my having
-never dropt a hint, because I know I do sometimes pop out a thing
-before I am aware. I am a talker, you know; I am rather a talker; and
-now and then I have let a thing escape me which I should not. I am not
-like Jane; I wish I were. I will answer for it _she_ never betrayed the
-least thing in the world. Where is she?—Oh! just behind. Perfectly
-remember Mrs. Perry’s coming.—Extraordinary dream, indeed!”
+“Oh! no, no”—cried [[Emma]], laughing as carelessly as she could—“Upon no
+account in the world. It is the very last thing I would stand the brunt
+of just now. Let me hear any thing rather than what you are all
+thinking of. I will not say quite all. There are one or two, perhaps,
+(glancing at Mr. Weston and Harriet,) whose thoughts I might not be
+afraid of knowing.”
+
+“It is a sort of thing,” cried Mrs. Elton emphatically, “which _I_
+should not have thought myself privileged to inquire into. Though,
+perhaps, as the _Chaperon_ of the party—_I_ never was in any
+circle—exploring parties—young ladies—married women—”

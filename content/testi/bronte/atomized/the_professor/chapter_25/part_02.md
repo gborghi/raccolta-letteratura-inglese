@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 24 (part 2)"
+title: "The Professor — Chapter 24 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -14,23 +14,19 @@ tags:
 </nav>
 
 
+I had much ado to refrain from laughing as I beheld the magnanimous pity
+
+of his mien; maintaining, however, a [[Grave|grave]] air, I said:--
+
 “I thought you would have liked to have seen Mdlle. Henri?”
-
-
 
 “Oh, that is the name! Yes--if it would be convenient, I should like to
 
 see her--but----.” He hesitated.
 
-
-
 “[[Well]]?”
 
-
-
 “I should on no account wish to intrude.”
-
-
 
 “Come, then,” said I. We set out. Hunsden no [[Doubt|doubt]] regarded me as a
 
@@ -50,8 +46,6 @@ stair; on gaining the lobby, Hunsden turned to mount a narrower stair
 
 which led to a higher story; I saw his mind was bent on the attics.
 
-
-
 “Here, Mr. Hunsden,” said I quietly, tapping at Frances’ door. He
 
 turned; in his genuine politeness he was a little disconcerted at
@@ -59,8 +53,6 @@ turned; in his genuine politeness he was a little disconcerted at
 having made the mistake; his eye reverted to the green mat, but he said
 
 nothing.
-
-
 
 We walked in, and Frances [[Rose|rose]] from her seat near the table to receive
 
@@ -120,8 +112,6 @@ complexion grew warm and transparent; to me, she now looked pretty;
 
 before, she had only looked ladylike.
 
-
-
 She had many things to say to the Englishman just fresh from his
 
 island-country, and she urged him with an enthusiasm of curiosity, which
@@ -144,15 +134,9 @@ as Frances was herself, and in none but his own language would he now
 
 address her.
 
-
-
 “You understand English?” was the prefatory question.
 
-
-
 “A little.”
-
-
 
 “[[Well]], then, you shall have plenty of it; and first, I see you’ve not
 
@@ -172,19 +156,11 @@ minutes ago, and respected you accordingly; and now I see you are a sort
 
 of Swiss sibyl, with high Tory and high Church principles!”
 
-
-
 “England is your country?” asked Frances.
-
-
 
 “Yes.”
 
-
-
 “And you don’t like it?”
-
-
 
 “I’d be sorry to like it! A little corrupt, venal, lord-and-[[King|king]]-cursed
 
@@ -192,13 +168,9 @@ nation, full of mucky [[Pride|pride]] (as they say in ----shire), and helpless
 
 pauperism; rotten with abuses, worm-eaten with prejudices!”
 
-
-
 “You might say so of almost every state; there are abuses and prejudices
 
 everywhere, and I thought fewer in England than in other countries.”
-
-
 
 “Come to England and see. Come to Birmingham and Manchester; come to St.
 
@@ -218,22 +190,6 @@ favourite paramour, and princely halls are dearer to her than thatched
 
 hovels----”
 
-
-
 “I was not thinking of the wretchedness and vice in England; I was
 
 thinking of the good side--of what is elevated in your character as a
-
-nation.”
-
-
-
-“There is no good side--none at least of which you can have any
-
-knowledge; for you cannot appreciate the efforts of industry, the
-
-achievements of enterprise, or the discoveries of science: narrowness
-
-of [[Education|education]] and obscurity of position quite incapacitate you
-
-from understanding these points; and as to historical and poetical

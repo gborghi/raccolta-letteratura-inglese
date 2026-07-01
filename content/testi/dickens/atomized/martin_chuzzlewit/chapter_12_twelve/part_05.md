@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 12: TWELVE (part 5)"
+title: "Martin Chuzzlewit — Chapter 12: TWELVE (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,27 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_12_twelve/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_12_twelve/part_06">part 06 ›</a></div>
 </nav>
 
+
+‘No.’
+
+‘Oh, yes. I read it just before dinner in the old newspaper. I know it
+to be his; having some reason to remember the style. Hush! Here’s Pinch.
+Strange, is it not, that the more he likes Pecksniff (if he can like him
+better than he does), the greater reason one has to like HIM? Not a word
+more, or we shall spoil his whole enjoyment.’
+
+Tom entered as the words were spoken, with a radiant smile upon his
+face; and rubbing his hands, more from a sense of delight than because
+he was cold (for he had been running fast), sat down in his warm corner
+again, and was as happy as only [[Tom Pinch]] could be. There is no other
+simile that will express his state of mind.
+
+‘And so,’ he said, when he had gazed at his friend for some [[Time|time]] in
+silent pleasure, ‘so you really are a gentleman at last, John. [[Well]], to
+be sure!’
+
+‘Trying to be, Tom; trying to be,’ he rejoined good-humouredly. ‘There
+is no saying what I may turn out, in [[Time|time]].’
 
 ‘I suppose you wouldn’t carry your own box to the mail now?’ said Tom
 Pinch, smiling; ‘although you lost it altogether by not taking it.’
@@ -112,30 +133,3 @@ evening, they retired. Mr Pinch was sitting on the side of his bed with
 his cravat and shoes off, ruminating on the manifold good qualities of
 his old friend, when he was interrupted by a knock at his chamber door,
 and the voice of John himself.
-
-‘You’re not asleep yet, are you, Tom?’
-
-‘Bless you, no! not I. I was thinking of you,’ replied Tom, opening the
-door. ‘Come in.’
-
-‘I am not going to detail you,’ said John; ‘but I have forgotten all the
-evening a little commission I took upon myself; and I am afraid I may
-forget it again, if I fail to discharge it at once. You know a Mr Tigg,
-Tom, I believe?’
-
-‘Tigg!’ cried Tom. ‘Tigg! The gentleman who borrowed some money of me?’
-
-‘Exactly,’ said John Westlock. ‘He begged me to present his compliments,
-and to return it with many thanks. Here it is. I suppose it’s a good
-one, but he is rather a doubtful kind of customer, Tom.’
-
-Mr Pinch received the little piece of gold with a face whose brightness
-might have shamed the metal; and said he had no [[Fear|fear]] about that. He
-was glad, he added, to find Mr Tigg so prompt and honourable in his
-dealings; very glad.
-
-‘Why, to tell you the [[Truth|truth]], Tom,’ replied his friend, ‘he is not always
-so. If you’ll take my advice, you’ll avoid him as much as you can, in
-the event of your encountering him again. And by no means, Tom--pray
-bear this in mind, for I am very serious--by no means lend him money any
-more.’

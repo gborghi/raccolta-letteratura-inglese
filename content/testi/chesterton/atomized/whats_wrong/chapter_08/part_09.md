@@ -1,5 +1,5 @@
 ---
-title: "whats wrong — Part 3 (part 9)"
+title: "whats wrong — Part 4 (part 9)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/whats-wrong-(chesterton)"
@@ -14,146 +14,115 @@ tags:
 </nav>
 
 
-* * *
+Now if one may compare very small things with very great,
+one may say that the English aristocratic schools can claim
+something of the same sort of [[success]] and solid splendor
+as the French democratic politics.  At least they can claim
+the same sort of superiority over the distracted and fumbling
+attempts of modern England to establish democratic [[Education|education]].
+Such [[success]] as has attended the public schoolboy throughout
+the Empire, a [[success]] exaggerated indeed by himself, but still
+positive and a fact of a certain indisputable shape and size,
+has been due to the central and supreme circumstance that the managers
+of our public schools did know what sort of boy they liked.
+They wanted something and they got something; instead of going
+to work in the broad-minded manner and wanting everything
+and getting nothing.
 
-VIII
+The only thing in question is the quality of the thing they got.
+There is something highly maddening in the circumstance
+that when modern people attack an institution that really does
+demand [[Reform|reform]], they always attack it for the wrong reasons.
+Thus many opponents of our public schools, imagining themselves
+to be very democratic, have exhausted themselves in an unmeaning
+attack upon the study of Greek.  I can understand how Greek may be
+regarded as useless, especially by those thirsting to throw themselves
+into the cut throat commerce which is the negation of citizenship;
+but I do not understand how it can be considered undemocratic.
+I quite understand why Mr. Carnegie has a hatred of Greek.  It is
+obscurely founded on the firm and sound impression that in
+any [[Self|self]]-governing Greek [[City|city]] he would have been killed.
+But I cannot comprehend why any chance democrat, say Mr. Quelch,
+or Mr. Will Crooks, I or Mr. John M. Robertson, should be opposed to
+people learning the Greek alphabet, which was the alphabet of liberty.
+Why should Radicals dislike Greek?  In that language is written
+all the earliest and, Heaven knows, the most heroic [[history]]
+of the Radical party.  Why should Greek disgust a democrat,
+when the very word democrat is Greek?
 
-THE BRAND OF THE FLEUR-DE-LIS
+A similar mistake, though a less serious one, is merely
+attacking the athletics of public schools as something
+promoting animalism and brutality.  Now brutality, in the only
+immoral sense, is not a vice of the English public schools.
+There is much moral bullying, owing to the general lack
+of moral [[Courage|courage]] in the public-school atmosphere.
+These schools do, upon the whole, encourage physical [[Courage|courage]];
+but they do not merely discourage moral [[Courage|courage]], they forbid it.
+The ultimate result of the thing is seen in the egregious
+English officer who cannot even endure to wear a bright uniform
+except when it is blurred and hidden in the smoke of battle.
+This, like all the affectations of our present plutocracy,
+is an entirely modern thing.  It was unknown to the old aristocrats.
+The Black Prince would certainly have asked that any knight
+who had the [[Courage|courage]] to lift his crest among his enemies,
+should also have the [[Courage|courage]] to lift it among his friends.
+As regards moral [[Courage|courage]], then it is not so much that the public
+schools support it feebly, as that they suppress it firmly.
+But physical [[Courage|courage]] they do, on the whole, support; and physical
+[[Courage|courage]] is a magnificent fundamental.  The one great,
+wise Englishman of the eighteenth century said truly that if a man
+lost that virtue he could never be sure of keeping any other.
+Now it is one of the mean and morbid modern lies that physical
+[[Courage|courage]] is connected with cruelty.  The Tolstoian and Kiplingite
+are nowhere more at one than in maintaining this.  They have,
+I believe, some small sectarian quarrel with each other, the one
+saying that [[Courage|courage]] must be abandoned because it is connected
+with cruelty, and the other maintaining that cruelty is charming
+because it is a part of [[Courage|courage]].  But it is all, thank God, a lie.
+An energy and boldness of [[Body|body]] may make a man stupid or reckless
+or dull or drunk or hungry, but it does not make him spiteful.
+And we may admit heartily (without joining in that perpetual
+praise which public-school men are always pouring upon themselves)
+that this does operate to the removal of mere evil cruelty
+in the public schools.  English public school life is extremely
+like English public life, for which it is the preparatory school.
+It is like it specially in this, that things are either very open,
+common and conventional, or else are very secret indeed.
+Now there is cruelty in public schools, just as there is
+kleptomania and secret drinking and vices without a name.
+But these things do not flourish in the full daylight and common
+consciousness of the school, and no more does cruelty.
+A tiny trio of sullen-looking boys gather in corners and seem
+to have some ugly business always; it may be indecent literature,
+it may be the beginning of drink, it may occasionally be cruelty
+to little boys.  But on this stage the bully is not a braggart.
+The proverb says that bullies are always cowardly, but these
+bullies are more than cowardly; they are shy.
 
-Seemingly from the [[Dawn|dawn]] of man all nations have had governments;
-and all nations have been ashamed of them.  Nothing is more openly
-fallacious than to fancy that in ruder or simpler ages ruling,
-judging and punishing appeared perfectly [[Innocent|innocent]] and dignified.
-These things were always regarded as the penalties of the Fall;
-as part of the humiliation of mankind, as bad in themselves.
-That the [[King|king]] can do no wrong was never anything but a legal fiction;
-and it is a legal fiction still.  The doctrine of Divine Right was not
-a piece of idealism, but rather a piece of realism, a practical way
-of ruling amid the ruin of humanity; a very pragmatist piece of [[Faith|faith]].
-The religious basis of [[government]] was not so much that people
-put their trust in princes, as that they did not put their trust
-in any [[Child|child]] of man.  It was so with all the ugly institutions
-which disfigure human [[history]].  Torture and [[Slavery|slavery]] were never talked
-of as good things; they were always talked of as necessary evils.
-A pagan spoke of one man owning ten slaves just as a modern business
-man speaks of one merchant sacking ten clerks:  "It's very horrible;
-but how else can society be conducted?"  A mediaeval scholastic regarded
-the possibility of a man being burned to [[Death|death]] just as a modern
-business man regards the possibility of a man being starved to [[Death|death]]:
-"It is a shocking torture; but can you organize a painless world?"
-It is possible that a future society may find a way of doing without
-the question by hunger as we have done without the question by [[Fire|fire]].
-It is equally possible, for the matter of that, that a future society
-may reestablish legal torture with the whole apparatus of rack and fagot.
-The most modern of countries, [[america|America]], has introduced with a vague
-savor of science, a method which it calls "the third degree."
-This is simply the extortion of [[Secrets|secrets]] by nervous fatigue;
-which is surely uncommonly close to their extortion by bodily [[Pain|pain]].
-And this is legal and scientific in [[america|America]].  Amateur ordinary [[america|America]],
-of course, simply burns people alive in broad daylight, as they
-did in the [[Reformation]] Wars.  But though some punishments are more
-inhuman than others there is no such thing as humane punishment.
-As long as nineteen men claim the right in any sense or shape to take
-hold of the twentieth man and make him even mildly uncomfortable,
-so long the whole proceeding must be a humiliating one for all concerned.
-And the proof of how poignantly men have always felt this lies in the fact
-that the headsman and the hangman, the jailors and the torturers,
-were always regarded not merely with [[Fear|fear]] but with contempt;
-while all kinds of careless smiters, bankrupt knights and swashbucklers
-and outlaws, were regarded with indulgence or even admiration.  To kill
-a man lawlessly was pardoned.  To kill a man lawfully was unpardonable.
-The most bare-faced duelist might almost brandish his weapon.
-But the executioner was always masked.
-
-This is the first essential element in [[government]], coercion; a necessary
-but not a noble element.  I may remark in passing that when people
-say that [[government]] rests on force they give an admirable instance
-of the foggy and muddled cynicism of modernity.  [[government|Government]] does
-not rest on force.  [[government|Government]] is force; it rests on consent or a
-conception of justice.  A [[King|king]] or a community holding a certain thing
-to be abnormal, evil, uses the general strength to crush it out;
-the strength is his tool, but the belief is his only sanction.
-You might as [[Well|well]] say that glass is the real reason for telescopes.
-But arising from whatever reason the act of [[government]] is coercive
-and is burdened with all the coarse and painful qualities of coercion.
-And if anyone asks what is the use of insisting on the ugliness
-of this task of state violence since all mankind is condemned
-to employ it, I have a simple answer to that.  It would be
-useless to insist on it if all humanity were condemned to it.
-But it is not irrelevant to insist on its ugliness so long as half
-of humanity is kept out of it.
-
-All [[government]] then is coercive; we happen to have created
-a [[government]] which is not only coercive; but collective.
-There are only two kinds of [[government]], as I have already said,
-the despotic and the democratic.  Aristocracy is not a [[government]],
-it is a riot; that most effective kind of riot, a riot
-of the rich.  The most intelligent apologists of aristocracy,
-sophists like Burke and Nietzsche, have never claimed
-for aristocracy any virtues but the virtues of a riot,
-the accidental virtues, [[Courage|courage]], variety and adventure.
-There is no case anywhere of aristocracy having established a universal
-and applicable order, as despots and democracies have often done;
-as the last Caesars created the Roman law, as the last Jacobins
-created the Code Napoleon.  With the first of these elementary
-forms of [[government]], that of the [[King|king]] or chieftain, we are not
-in this matter of the sexes immediately concerned.  We shall return
-to it later when we remark how differently mankind has dealt with
-female claims in the despotic as against the democratic field.
-But for the moment the essential point is that in [[Self|self]]-governing
-countries this coercion of criminals is a collective coercion.
-The abnormal person is theoretically thumped by a million
-fists and kicked by a million feet.  If a man is flogged we
-all flogged him; if a man is hanged, we all hanged him.
-That is the only possible meaning of [[democracy]], which can give
-any meaning to the first two syllables and also to the last two.
-In this sense each citizen has the high responsibility of a rioter.
-Every statute is a declaration of war, to be backed by arms.
-Every tribunal is a revolutionary tribunal.  In a republic
-all punishment is as sacred and solemn as lynching.
-
-* * *
-
-IX
-
-SINCERITY AND THE GALLOWS
-
-When, therefore, it is said that the tradition against Female Suffrage
-keeps women out of activity, social influence and citizenship,
-let us a little more soberly and strictly ask ourselves what it
-actually does keep her out of.  It does definitely keep her out
-of the collective act of coercion; the act of punishment by a mob.
-The human tradition does say that, if twenty men hang a man from
-a tree or lamp-post, they shall be twenty men and not women.
-Now I do not think any reasonable Suffragist will deny
-that exclusion from this function, to say the least of it,
-might be maintained to be a protection as [[Well|well]] as a veto.
-No candid person will wholly dismiss the proposition that the idea
-of having a Lord Chancellor but not a Lady Chancellor may at least
-be connected with the idea of having a headsman but not a headswoman,
-a hangman but not a hangwoman.  Nor will it be adequate to answer
-(as is so often answered to this contention) that in modern
-civilization women would not really be required to capture,
-to sentence, or to slay; that all this is done indirectly,
-that specialists kill our criminals as they kill our cattle.
-To urge this is not to urge the reality of the vote, but to urge
-its unreality.  [[democracy|Democracy]] was meant to be a more direct way
-of ruling, not a more indirect way; and if we do not feel that we
-are all jailers, so much the worse for us, and for the prisoners.
-If it is really an unwomanly thing to lock up a robber
-or a [[Tyrant|tyrant]], it ought to be no softening of the situation
-that the woman does not feel as if she were doing the thing
-that she certainly is doing.  It is bad enough that men can
-only associate on paper who could once associate in the street;
-it is bad enough that men have made a vote very much of a fiction.
-It is much worse that a great class should claim the vote be cause
-it is a fiction, who would be sickened by it if it were a fact.
-If votes for women do not mean mobs for women they do not mean
-what they were meant to mean.  A woman can make a [[Cross|cross]] on a
-paper as [[Well|well]] as a man; a [[Child|child]] could do it as [[Well|well]] as a woman;
-and a chimpanzee after a few lessons could do it as [[Well|well]] as a [[Child|child]].
-But nobody ought to regard it merely as making a [[Cross|cross]] on paper;
-everyone ought to regard it as what it ultimately is, branding the
-fleur-de-lis, marking the broad arrow, signing the [[Death|death]] warrant.
-Both men and women ought to face more fully the things they
-do or cause to be done; face them or leave off doing them.
+As a third instance of the wrong form of revolt against
+the public schools, I may mention the habit of using the word
+aristocracy with a [[Double|double]] implication.  To put the plain [[Truth|truth]]
+as briefly as possible, if aristocracy means rule by a rich ring,
+England has aristocracy and the English public schools support it.
+If it means rule by ancient families or flawless [[Blood|blood]],
+England has not got aristocracy, and the public schools
+systematically destroy it.  In these circles real aristocracy,
+like real [[Democracy|democracy]], has become bad form.  A modern fashionable
+host dare not praise his ancestry; it would so often be an insult
+to half the other oligarchs at table, who have no ancestry.
+We have said he has not the moral [[Courage|courage]] to wear his uniform;
+still less has he the moral [[Courage|courage]] to wear his coat-of-arms.
+The whole thing now is only a vague hotch-potch of nice and
+nasty gentlemen.  The nice gentleman never refers to anyone
+else's father, the nasty gentleman never refers to his own.
+That is the only difference, the rest is the public-school manner.
+But Eton and Harrow have to be aristocratic because they consist
+so largely of parvenues.  The public school is not a sort
+of refuge for aristocrats, like an asylum, a place where they
+go in and never come out.  It is a factory for aristocrats;
+they come out without ever having perceptibly gone in.
+The poor little private schools, in their old-world, sentimental,
+feudal style, used to stick up a notice, "For the Sons of
+Gentlemen only."  If the public schools stuck up a notice it
+ought to be inscribed, "For the Fathers of Gentlemen only."
+In two generations they can do the trick.

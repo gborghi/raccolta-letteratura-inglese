@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 24: MY FIRST DISSIPATION (part 3)"
+title: "David Copperfield — Chapter 24: MY FIRST DISSIPATION (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_24_my_first_dissipation/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_25_good_and_bad_angels/part_01">part 01 ›</a></div>
 </nav>
 
+
+Somebody was leaning out of my bedroom [[Window|window]], refreshing his forehead
+against the cool stone of the parapet, and feeling the air upon his
+face. It was myself. I was addressing myself as ‘Copperfield’, and
+saying, ‘Why did you try to smoke? You might have known you couldn’t
+do it.’ Now, somebody was unsteadily contemplating his features in the
+looking-glass. That was I too. I was very pale in the looking-glass;
+my eyes had a vacant appearance; and my hair--only my hair, nothing
+else--looked drunk.
 
 Somebody said to me, ‘Let us go to the theatre, Copperfield!’ There was
 no bedroom before me, but again the jingling table covered with glasses;

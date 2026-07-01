@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 25: GOOD AND BAD ANGELS (part 3)"
+title: "David Copperfield — Chapter 25: GOOD AND BAD ANGELS (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -127,6 +127,3 @@ gentlemanly man, Mrs. Henry Spiker’s brother, Mr. Copperfield.’
 I murmured an assent, which was full of feeling, considering that I
 knew nothing at all about him; and I inquired what Mr. Traddles was by
 profession.
-
-‘Traddles,’ returned Mr. Waterbrook, ‘is a young man reading for the
-bar. Yes. He is quite a good fellow--nobody’s enemy but his own.’

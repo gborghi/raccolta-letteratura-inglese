@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 81 (part 2)"
+title: "Barnaby Rudge — Chapter 81 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_81/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_81/part_03">part 03 ›</a></div>
 </nav>
 
+
+He passed so near the Maypole, that he could see its smoke rising from
+among the trees, while a flock of pigeons--some of its old inhabitants,
+doubtless--sailed gaily [[Home|home]] to roost, between him and the unclouded
+sky. ‘The old [[house]] will brighten up now,’ he said, as he looked towards
+it, ‘and there will be a merry fireside beneath its ivied roof. It is
+some comfort to know that everything will not be blighted hereabouts. I
+shall be glad to have one picture of life and cheerfulness to turn to,
+in my mind!’
 
 He resumed his walk, and bent his steps towards the Warren. It was a
 clear, calm, silent evening, with hardly a breath of [[Wind|wind]] to stir the
@@ -120,19 +129,3 @@ enacted), rather than here to-[[Night|night]].’
 
 ‘Nay,’ returned the other--‘really--you do yourself injustice. You are a
 rough companion, but I would not go so far to avoid you.’
-
-‘Listen to me,’ said Mr Haredale. ‘Listen to me.’
-
-‘While you rail?’ inquired Sir John.
-
-‘While I deliver your infamy. You urged and stimulated to do your work
-a fit agent, but one who in his [[Nature|nature]]--in the very essence of his
-being--is a traitor, and who has been false to you (despite the sympathy
-you two should have together) as he has been to all others. With hints,
-and looks, and crafty words, which told again are nothing, you set on
-Gashford to this work--this work before us now. With these same hints,
-and looks, and crafty words, which told again are nothing, you urged
-him on to gratify the deadly hate he owes me--I have earned it, I thank
-Heaven--by the abduction and dishonour of my niece. You did. I see
-denial in your looks,’ he cried, abruptly pointing in his face, and
-stepping back, ‘and denial is a lie!’

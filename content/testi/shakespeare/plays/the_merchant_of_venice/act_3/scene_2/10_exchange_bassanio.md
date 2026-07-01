@@ -1,5 +1,5 @@
 ---
-title: "The Merchant of [[Venice]] — Act III, Scene 2 — exchange ([[Bassanio|BASSANIO]]) [10]"
+title: "The Merchant of Venice — Act III, Scene 2 — exchange (BASSANIO) [10]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-merchant-of-venice-(shakespeare)"

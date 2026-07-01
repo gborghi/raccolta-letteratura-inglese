@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 53 (part 2)"
+title: "The Tenant of Wildfell Hall — Chapter 53 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_53/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_53/part_03">part 03 ›</a></div>
 </nav>
 
+
+betokens high excitement.
+
+
+
+“Tell me,” said she, availing herself of the first pause in the
+
+attempted conversation between her aunt and me, and speaking fast and
 
 low, with her eyes bent on the gold chain—for I now ventured another
 
@@ -114,7 +122,7 @@ over a dozen [[Leaves|leaves]] at once.
 
 
 
-There was a pause, of which [[arthur|Arthur]] thought he might venture to avail
+There was a pause, of which [[Arthur]] thought he might venture to avail
 
 himself to introduce his handsome young setter, and show me how
 
@@ -245,21 +253,3 @@ writing; but this would not have deterred me for a moment, if I could
 have ventured to believe that you expected to hear from me, or even
 
 wasted a thought upon your unhappy friend; but your [[Silence|silence]] naturally
-
-led me to conclude myself forgotten.”
-
-
-
-“Did you expect me to write to _you_, then?”
-
-
-
-“No, [[Helen]]—Mrs. Huntingdon,” said I, blushing at the implied
-
-imputation, “certainly not; but if you had sent me a message through
-
-your brother, or even asked him about me now and then—”
-
-
-
-“I did ask about you frequently. I was not going to do more,” continued

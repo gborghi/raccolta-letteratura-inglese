@@ -1,5 +1,5 @@
 ---
-title: "[[Metzengerstein]] (part 2)"
+title: "Metzengerstein (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/metzengerstein-(poe)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/metzengerstein/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/metzengerstein/part/part_03">part 03 ›</a></div>
 </nav>
 
+
+      supremacy the rebellious sceptre of the Arch-enemy. _There_, the
+
+      dark, tall statures of the Princes [[Metzengerstein]]—their muscular
+
+      war-coursers plunging over the carcasses of fallen foes—startled
 
       the steadiest nerves with their vigorous expression; and _here_,
 
@@ -203,21 +209,3 @@ tags:
       communicated, nothing escaped to gratify the excited curiosity of
 
       the equerries.
-
-
-
-      The young Frederick, during the conference, seemed agitated by a
-
-      variety of emotions. He soon, however, recovered his composure,
-
-      and an expression of determined malignancy settled upon his
-
-      countenance, as he gave peremptory orders that a certain chamber
-
-      should be immediately locked up, and the key placed in his own
-
-      possession.
-
-
-
-      “Have you heard of the unhappy [[Death|death]] of the old hunter

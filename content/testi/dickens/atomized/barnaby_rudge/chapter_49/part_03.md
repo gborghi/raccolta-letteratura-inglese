@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 49 (part 3)"
+title: "Barnaby Rudge — Chapter 49 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_49/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_49/part_04">part 04 ›</a></div>
 </nav>
 
+
+Upon one of these little staircases--not that at the head of which Lord
+George appeared from [[Time|time]] to [[Time|time]], but the other--Gashford stood with
+his elbow on the bannister, and his cheek resting on his hand, with his
+usual crafty aspect. Whenever he varied this attitude in the slightest
+degree--so much as by the gentlest motion of his arm--the uproar was
+certain to increase, not merely there, but in the lobby below; from
+which place no [[Doubt|doubt]], some man who acted as fugleman to the rest, was
+constantly looking up and watching him.
+
+‘Order!’ cried Hugh, in a voice which made itself heard even above the
+roar and tumult, as Lord George appeared at the top of the staircase.
+‘News! News from my lord!’
 
 The noise continued, notwithstanding his appearance, until Gashford
 looked round. There was [[Silence|silence]] immediately--even among the people in
@@ -108,20 +121,3 @@ themselves, they and the whole mass floated by degrees into the open
 street, where a large detachment of the Guards, both [[Horse|horse]] and foot,
 came hurrying up; clearing the ground before them so rapidly that the
 people seemed to melt away as they advanced.
-
-The word of command to halt being given, the soldiers formed across the
-street; the rioters, breathless and exhausted with their late exertions,
-formed likewise, though in a very irregular and disorderly manner. The
-commanding officer rode hastily into the open space between the two
-bodies, accompanied by a magistrate and an officer of the [[house|House]] of
-Commons, for whose accommodation a couple of troopers had hastily
-dismounted. The Riot Act was read, but not a man stirred.
-
-In the first rank of the insurgents, Barnaby and Hugh stood side by
-side. Somebody had thrust into Barnaby’s hands when he came out into the
-street, his precious [[Flag|flag]]; which, being now rolled up and tied round
-the pole, looked like a giant quarter-staff as he grasped it firmly and
-stood upon his guard. If ever man believed with his whole heart and [[Soul|soul]]
-that he was engaged in a just cause, and that he was bound to stand by
-his leader to the last, poor Barnaby believed it of himself and Lord
-George Gordon.

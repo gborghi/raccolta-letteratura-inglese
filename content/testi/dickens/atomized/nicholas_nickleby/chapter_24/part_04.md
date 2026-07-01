@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 24 (part 4)"
+title: "Nicholas Nickleby — Chapter 24 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_24/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_24/part_05">part 05 ›</a></div>
 </nav>
 
+
+As there were not many objects of interest outside the [[Window|window]], Nicholas
+looked about the room with more curiosity than he might otherwise have
+bestowed upon it. On the sofa lay an old guitar, several thumbed
+pieces of music, and a scattered litter of curl-papers; together with a
+confused heap of play-bills, and a pair of soiled white satin shoes
+with large blue rosettes. Hanging over the back of a chair was a
+half-finished muslin apron with little pockets ornamented with red
+ribbons, such as waiting-women wear on the stage, and (by consequence)
+are never seen with anywhere else. In one corner stood the diminutive
+pair of top-boots in which Miss Snevellicci was accustomed to enact the
+little jockey, and, folded on a chair hard by, was a small parcel, which
+bore a very suspicious resemblance to the companion smalls.
 
 But the most interesting object of all was, perhaps, the open scrapbook,
 displayed in the midst of some theatrical duodecimos that were strewn
@@ -109,18 +122,3 @@ women-servants had repaired thither, under false pretences, to see the
 play-actors; and having compared notes with them in the passage, and
 joined in a vast quantity of whispering and giggling, he at length went
 upstairs with Miss Snevellicci’s name.
-
-Now, Mrs. Curdle was supposed, by those who were best informed on
-such points, to possess quite the [[London]] taste in matters relating to
-literature and the drama; and as to Mr. Curdle, he had written a pamphlet
-of sixty-four pages, post octavo, on the character of the [[Nurse]]’s
-deceased husband in [[Romeo]] and [[Juliet]], with an inquiry whether he really
-had been a ‘merry man’ in his lifetime, or whether it was merely his
-widow’s affectionate partiality that induced her so to report him. He
-had likewise proved, that by altering the received mode of punctuation,
-any one of Shakespeare’s plays could be made quite different, and the
-sense completely changed; it is needless to say, therefore, that he was
-a great critic, and a very profound and most original thinker.
-
-‘[[Well]], Miss Snevellicci,’ said Mrs. Curdle, entering the parlour, ‘and
-how do YOU do?’

@@ -1,5 +1,5 @@
 ---
-title: "[[The Unparalleled Adventures of one Hans Pfaall]] (part 21)"
+title: "The Unparalleled Adventures of one Hans Pfaall (part 21)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-unparalleled-adventures-of-one-hans-pfaall-(poe)"
@@ -13,6 +13,126 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/part/part_20">‹ part 20</a><a class="ex-next" href="/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/part/part_22">part 22 ›</a></div>
 </nav>
 
+
+      balloon were newspapers of Holland, and therefore could not have
+
+      been made in the [[Moon|moon]]. They were dirty papers—very dirty—and
+
+      Gluck, the printer, would take his [[Bible]] oath to their having
+
+      been printed in Rotterdam.
+
+
+
+      He was mistaken—undoubtedly—mistaken.
+
+
+
+      Fourthly, That Hans Pfaall himself, the drunken [[Villain|villain]], and the
+
+      three very idle gentlemen styled his creditors, were all seen, no
+
+      longer than two or three days ago, in a tippling [[house]] in the
+
+      suburbs, having just returned, with money in their pockets, from
+
+      a trip beyond the sea.
+
+
+
+      Don’t believe it—don’t believe a word of it.
+
+
+
+      Lastly. That it is an opinion very generally received, or which
+
+      ought to be generally received, that the College of Astronomers
+
+      in the [[City|city]] of Rotterdam, as [[Well|well]] as other colleges in all other
+
+      parts of the world,—not to mention colleges and astronomers in
+
+      general,—are, to say the least of the matter, not a whit better,
+
+      nor greater, nor wiser than they ought to be.
+
+
+
+      ~~~ End of Text ~~~
+
+
+
+Notes to Hans Pfaal
+
+
+
+      (*1) NOTE—Strictly speaking, there is but little similarity
+
+      between the above sketchy trifle and the celebrated “[[Moon]]-Story”
+
+      of Mr. Locke; but as both have the character of _hoaxes_
+
+      (although the one is in a tone of banter, the other of downright
+
+      earnest), and as both hoaxes are on the same subject, the
+
+      [[Moon|moon]]—moreover, as both attempt to give plausibility by scientific
+
+      detail—the author of “Hans Pfaall” thinks it necessary to say, in
+
+      _self-defence,_ that his own _jeu d’esprit_ was published in the
+
+      “Southern Literary Messenger” about three weeks before the
+
+      commencement of Mr. L’s in the “[[New York]] Sun.” Fancying a
+
+      likeness which, perhaps, does not exist, some of the [[New York]]
+
+      papers copied “Hans Pfaall,” and collated it with the
+
+      “[[Moon]]-Hoax,” by way of detecting the writer of the one in the
+
+      writer of the other.
+
+
+
+      As many more persons were actually gulled by the “[[Moon]]-Hoax” than
+
+      would be willing to acknowledge the fact, it may here afford some
+
+      little amusement to show why no one should have been deceived-to
+
+      point out those particulars of the story which should have been
+
+      sufficient to establish its real character. Indeed, however rich
+
+      the [[Imagination|imagination]] displayed in this ingenious fiction, it wanted
+
+      much of the force which might have been given it by a more
+
+      scrupulous attention to facts and to general analogy. That the
+
+      public were misled, even for an instant, merely proves the gross
+
+      ignorance which is so generally prevalent upon subjects of an
+
+      astronomical [[Nature|nature]].
+
+
+
+      The [[Moon|moon]]’s distance from the earth is, in round numbers, 240,000
+
+      miles. If we [[Desire|desire]] to ascertain how near, apparently, a lens
+
+      would bring the satellite (or any distant object), we, of course,
+
+      have but to divide the distance by the magnifying or, more
+
+      strictly, by the space-penetrating power of the glass. Mr. L.
+
+      makes his lens have a power of 42,000 times. By this divide
+
+      240,000 (the [[Moon|moon]]’s real distance), and we have five miles and
 
       five sevenths, as the apparent distance. No animal at all could
 
@@ -97,113 +217,3 @@ tags:
       the boundary between light and darkness (in the crescent or
 
       gibbous [[Moon|moon]]) where this boundary crosses any of the dark places,
-
-      the line of division is found to be rough and jagged; but, were
-
-      these dark places liquid, it would evidently be even.
-
-
-
-      The description of the wings of the man-bat, on page 21, is but a
-
-      literal copy of Peter Wilkins’ account of the wings of his flying
-
-      islanders. This simple fact should have induced suspicion, at
-
-      least, it might be thought.
-
-
-
-      On page 23, we have the following: “What a prodigious influence
-
-      must our thirteen times larger globe have exercised upon this
-
-      satellite when an embryo in the womb of [[Time|time]], the passive subject
-
-      of chemical affinity!” This is very fine; but it should be
-
-      observed that no astronomer would have made such remark,
-
-      especially to any journal of Science; for the earth, in the sense
-
-      intended, is not only thirteen, but forty-nine times larger than
-
-      the [[Moon|moon]]. A similar objection applies to the whole of the
-
-      concluding pages, where, by way of introduction to some
-
-      discoveries in [[Saturn]], the philosophical correspondent enters
-
-      into a minute schoolboy account of that planet—this to the
-
-      “Edinburgh Journal of Science!”
-
-
-
-      But there is one point, in particular, which should have betrayed
-
-      the fiction. Let us imagine the power actually possessed of
-
-      seeing [[Animals|animals]] upon the [[Moon|moon]]’s surface—what would first arrest
-
-      the attention of an observer from the earth? Certainly neither
-
-      their shape, size, nor any other such peculiarity, so soon as
-
-      their remarkable _situation_. They would appear to be walking,
-
-      with heels up and head down, in the manner of flies on a ceiling.
-
-      The _real_ observer would have uttered an instant ejaculation of
-
-      surprise (however prepared by previous knowledge) at the
-
-      singularity of their position; the _fictitious_ observer has not
-
-      even mentioned the subject, but speaks of seeing the entire
-
-      bodies of such creatures, when it is demonstrable that he could
-
-      have seen only the diameter of their heads!
-
-
-
-      It might as [[Well|well]] be remarked, in conclusion, that the size, and
-
-      particularly the powers of the man-bats (for example, their
-
-      ability to fly in so rare an atmosphere—if, indeed, the [[Moon|moon]] have
-
-      any), with most of the other fancies in regard to animal and
-
-      vegetable existence, are at variance, generally, with all
-
-      analogical reasoning on these themes; and that analogy here will
-
-      often amount to conclusive demonstration. It is, perhaps,
-
-      scarcely necessary to add, that all the suggestions attributed to
-
-      Brewster and Herschel, in the beginning of the article, about “a
-
-      transfusion of artificial light through the focal object of
-
-      vision,” etc., etc., belong to that species of figurative writing
-
-      which comes, most properly, under the denomination of rigmarole.
-
-
-
-      There is a real and very definite limit to optical discovery
-
-      among the [[Stars|stars]]—a limit whose [[Nature|nature]] need only be stated to be
-
-      understood. If, indeed, the casting of large lenses were all that
-
-      is required, man’s ingenuity would ultimately prove equal to the
-
-      task, and we might have them of any size demanded. But,
-
-      unhappily, in proportion to the increase of size in the lens, and
-
-      consequently of space-penetrating power, is the diminution of

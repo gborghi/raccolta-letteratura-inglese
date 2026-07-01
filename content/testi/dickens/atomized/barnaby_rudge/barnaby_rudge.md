@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]]"
+title: "Barnaby Rudge"
 author: "Dickens"
 unitType: work
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -5779,7 +5779,7 @@ dark, houseless [[Night|night]]. He knocks again. Let him come in!’
 ‘The dread of this hour,’ returned the widow, ‘has been upon me all my
 life, and I will not. Evil will fall upon him, if you stand eye to eye.
 My blighted boy! Oh! all good angels who know the [[Truth|truth]]--hear a poor
-mother’s [[Prayer|prayer]], and spare my boy from knowledge of this man!’
+mother’s [[prayer]], and spare my boy from knowledge of this man!’
 
 ‘He rattles at the shutters!’ cried the man. ‘He calls you. That voice
 and cry! It was he who grappled with me in the [[Road|road]]. Was it he?’
@@ -5970,7 +5970,7 @@ said. Grip, what was it we heard her say that [[Night|night]]?’
 
 ‘I’m a devil!’ rejoined [[The Raven|the raven]] promptly.
 
-‘No, no,’ said Barnaby. ‘But you said something in a [[Prayer|prayer]]; and when
+‘No, no,’ said Barnaby. ‘But you said something in a [[prayer]]; and when
 you [[Rose|rose]] and walked about, you looked (as you have done ever since,
 mother, towards [[Night|night]] on my birthday) just as you do now. I have found
 that out, you see, though I am silly. So I say you’re wrong; and this
@@ -10213,7 +10213,7 @@ of distinction, which, as a regular customer, and one within the
 freemasonry of the trade, he had a right to claim.
 
 This [[Lion]] or landlord,--for he was called both man and beast, by reason
-of his having instructed the [[artist]] who painted his sign, to convey
+of his having instructed the [[Artist|artist]] who painted his sign, to convey
 into the features of the lordly brute whose effigy it bore, as near a
 counterpart of his own face as his skill could compass and devise,--was
 a gentleman almost as quick of apprehension, and of almost as subtle a
@@ -13048,9 +13048,9 @@ his left ear, as if he were studying the anatomical development of that
 part of his frame, shook his head in a despondent manner and actually
 shed [[Tears|tears]].
 
-‘You’re a kind of [[artist]], I suppose--eh!’ said Mr Tappertit.
+‘You’re a kind of [[Artist|artist]], I suppose--eh!’ said Mr Tappertit.
 
-‘Yes,’ rejoined Dennis; ‘yes--I may call myself a [[artist]]--a fancy
+‘Yes,’ rejoined Dennis; ‘yes--I may call myself a [[Artist|artist]]--a fancy
 workman--art improves natur’--that’s my motto.’
 
 ‘And what do you call this?’ said Mr Tappertit taking his stick out of
@@ -15913,7 +15913,7 @@ mean by tempting, and by danger? Do you think his lordship is a roaring
 ‘No, no, my lord, forgive me,’ implored the widow, laying both her hands
 upon his breast, and scarcely knowing what she did, or said, in the
 earnestness of her supplication, ‘but there are reasons why you should
-hear my earnest, mother’s [[Prayer|prayer]], and leave my son with me. Oh do! He is
+hear my earnest, mother’s [[prayer]], and leave my son with me. Oh do! He is
 not in his right senses, he is not, indeed!’
 
 ‘It is a bad sign of the wickedness of these times,’ said Lord George,
@@ -23874,10 +23874,10 @@ took off.’
 ‘At the defence of the Salwanners,’ repeated Mr Willet, softly; again
 looking round the table.
 
-‘In [[America]], where the war is,’ said Joe.
+‘In [[america|America]], where the war is,’ said Joe.
 
-‘In [[America]], where the war is,’ repeated Mr Willet. ‘It was took off in
-the defence of the Salwanners in [[America]] where the war is.’ Continuing
+‘In [[america|America]], where the war is,’ repeated Mr Willet. ‘It was took off in
+the defence of the Salwanners in [[america|America]] where the war is.’ Continuing
 to repeat these words to himself in a low tone of voice (the same
 information had been conveyed to him in the same terms, at least fifty
 times before), Mr Willet arose from table, walked round to Joe, felt his
@@ -23886,7 +23886,7 @@ arm remained; shook his hand; lighted his pipe at the [[Fire|fire]], took a long
 whiff, walked to the door, turned round once when he had reached it,
 wiped his left eye with the back of his forefinger, and said, in
 a faltering voice: ‘My son’s arm--was took off--at the defence of
-the--Salwanners--in [[America]]--where the war is’--with which words he
+the--Salwanners--in [[america|America]]--where the war is’--with which words he
 withdrew, and returned no more that [[Night|night]].
 
 Indeed, on various pretences, they all withdrew one after another, save
@@ -24208,7 +24208,7 @@ sorrow on the sufferings and evil deeds of men; and felt its peace sink
 deep into his heart. He, a poor idiot, caged in his narrow cell, was as
 much lifted up to God, while gazing on the mild light, as the freest and
 most favoured man in all the spacious [[City|city]]; and in his ill-remembered
-[[Prayer|prayer]], and in the [[Fragment|fragment]] of the childish [[Hymn|hymn]], with which he sung and
+[[prayer]], and in the [[Fragment|fragment]] of the childish [[Hymn|hymn]], with which he sung and
 crooned himself asleep, there breathed as true a spirit as ever studied
 homily expressed, or old [[Cathedral|cathedral]] arches echoed.
 
@@ -25671,7 +25671,7 @@ approach of [[Death]] had filled with inspiration, ‘where are they! What
 else should teach me--me, born as I was born, and reared as I have
 been reared--to [[Hope|hope]] for any [[Mercy|mercy]] in this hardened, cruel, unrelenting
 place! Upon these human shambles, I, who never raised this hand in
-[[Prayer|prayer]] till now, call down the wrath of God! On that black tree, of
+[[prayer]] till now, call down the wrath of God! On that black tree, of
 which I am the ripened fruit, I do invoke the curse of all its victims,
 past, and present, and to come. On the head of that man, who, in his
 [[Conscience|conscience]], owns me for his son, I leave the wish that he may never
@@ -25811,7 +25811,7 @@ poorer than a church mouse? You know that. That I have come back, maimed
 and crippled? You know that.’
 
 ‘It was took off,’ muttered Mr Willet, with his eyes upon the [[Fire|fire]], ‘at
-the defence of the Salwanners, in [[America]], where the war is.’
+the defence of the Salwanners, in [[america|America]], where the war is.’
 
 ‘Quite right,’ returned Joe, smiling, and leaning with his remaining
 elbow on the back of his father’s chair; ‘the very subject I came to
@@ -26311,7 +26311,7 @@ The scene was a churchyard; the [[Time|time]], midnight; the persons, Edward
 Chester, a clergyman, a [[Grave|grave]]-digger, and the four bearers of a homely
 coffin. They stood about a [[Grave|grave]] which had been newly dug, and one of
 the bearers held up a dim lantern,--the only light there--which shed
-its feeble ray upon the book of [[Prayer|prayer]]. He placed it for a moment on the
+its feeble ray upon the book of [[prayer]]. He placed it for a moment on the
 coffin, when he and his companions were about to lower it down. There
 was no [[Inscription|inscription]] on the lid.
 

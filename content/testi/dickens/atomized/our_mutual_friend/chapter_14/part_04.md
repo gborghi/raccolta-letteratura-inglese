@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 9 (part 4)"
+title: "Our Mutual Friend — Chapter 10 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,129 +14,152 @@ tags:
 </nav>
 
 
-‘Yes, Miss.’
+In which state of affairs, the usual ceremonies rather droop and [[Flag|flag]],
+and the splendid cake when cut by the fair hand of the bride has but
+an indigestible appearance. However, all the things indispensable to
+be said are said, and all the things indispensable to be done are
+done (including Lady Tippins’s yawning, falling asleep, and waking
+insensible), and there is hurried preparation for the nuptial [[Journey|journey]]
+to the Isle of Wight, and the outer air teems with brass bands and
+spectators. In full sight of whom, the malignant star of the Analytical
+has pre-ordained that [[Pain|pain]] and ridicule shall befall him. For he,
+standing on the doorsteps to grace the departure, is suddenly caught a
+most prodigious thump on the side of his head with a heavy shoe, which
+a Buffer in the hall, champagne-flushed and wild of aim, has borrowed on
+the spur of the moment from the pastrycook’s porter, to cast after the
+departing pair as an auspicious omen.
 
-‘If you’ll step this way—down these stairs—I’ll let Ma know.’
-Excited flight of Mrs Wilfer’s legs, of Miss Bella’s legs, of Mr George
-Sampson’s legs.
+So they all go up again into the gorgeous drawing-rooms—all of them
+flushed with breakfast, as having taken scarlatina sociably—and there
+the combined unknowns do malignant things with their legs to ottomans,
+and take as much as possible out of the splendid furniture. And so, Lady
+Tippins, quite undetermined whether today is the day before yesterday,
+or the day after to-morrow, or the week after next, fades away; and
+Mortimer Lightwood and Eugene fade away, and Twemlow fades away, and
+the stoney aunt goes away—she declines to fade, proving rock to the
+last—and even the unknowns are slowly strained off, and it is all over.
 
-After waiting some quarter of an hour [[Alone|alone]] in the family sitting-room,
-which presented traces of having been so hastily arranged after a meal,
-that one might have doubted whether it was made tidy for visitors,
-or cleared for blindman’s buff, Mr and Mrs Boffin became aware of the
-entrance of Mrs Wilfer, majestically faint, and with a condescending
-stitch in her side: which was her company manner.
+All over, that is to say, for the [[Time|time]] being. But, there is another [[Time|time]]
+to come, and it comes in about a fortnight, and it comes to Mr and Mrs
+Lammle on the sands at Shanklin, in the Isle of Wight.
 
-‘Pardon me,’ said Mrs Wilfer, after the first salutations, and as soon
-as she had adjusted the handkerchief under her chin, and waved her
-gloved hands, ‘to what am I indebted for this [[Honour|honour]]?’
+Mr and Mrs Lammle have walked for some [[Time|time]] on the Shanklin sands, and
+one may see by their footprints that they have not walked arm in arm,
+and that they have not walked in a straight track, and that they have
+walked in a moody [[Humour|humour]]; for, the lady has prodded little spirting
+holes in the damp sand before her with her parasol, and the gentleman
+has trailed his stick after him. As if he were of the Mephistopheles
+family indeed, and had walked with a drooping tail.
 
-‘To make short of it, ma’am,’ returned Mr Boffin, ‘perhaps you may be
-acquainted with the names of me and Mrs Boffin, as having come into a
-certain property.’
+‘Do you mean to tell me, then, Sophronia—’
 
-‘I have heard, sir,’ returned Mrs Wilfer, with a dignified bend of her
-head, ‘of such being the case.’
+Thus he begins after a long [[Silence|silence]], when Sophronia flashes fiercely,
+and turns upon him.
 
-‘And I dare say, ma’am,’ pursued Mr Boffin, while Mrs Boffin added
-confirmatory nods and smiles, ‘you are not very much inclined to take
-kindly to us?’
+‘Don’t put it upon ME, sir. I ask you, do YOU mean to tell me?’
 
-‘Pardon me,’ said Mrs Wilfer. ‘’Twere unjust to visit upon Mr and Mrs
-Boffin, a calamity which was doubtless a dispensation.’ These words
-were rendered the more effective by a serenely heroic expression of
-[[Suffering|suffering]].
+Mr Lammle falls silent again, and they walk as before. Mrs Lammle opens
+her nostrils and bites her under-lip; Mr Lammle takes his gingerous
+whiskers in his left hand, and, bringing them together, frowns furtively
+at his beloved, out of a thick gingerous bush.
 
-‘That’s fairly meant, I am sure,’ remarked the honest Mr Boffin; ‘Mrs
-Boffin and me, ma’am, are plain people, and we don’t want to pretend
-to anything, nor yet to go round and round at anything because there’s
-always a straight way to everything. Consequently, we make this call
-to say, that we shall be glad to have the [[Honour|honour]] and pleasure of your
-daughter’s acquaintance, and that we shall be rejoiced if your daughter
-will come to consider our [[house]] in the light of her [[Home|home]] equally with
-this. In short, we want to cheer your daughter, and to give her
-the opportunity of sharing such pleasures as we are a going to take
-ourselves. We want to brisk her up, and brisk her about, and give her a
-change.’
+‘Do I mean to say!’ Mrs Lammle after a [[Time|time]] repeats, with indignation.
+‘Putting it on me! The unmanly disingenuousness!’
 
-‘That’s it!’ said the open-hearted Mrs Boffin. ‘Lor! Let’s be
-comfortable.’
+Mr Lammle stops, releases his whiskers, and looks at her. ‘The what?’
 
-Mrs Wilfer bent her head in a distant manner to her lady visitor, and
-with majestic monotony replied to the gentleman:
+Mrs Lammle haughtily replies, without stopping, and without looking
+back. ‘The meanness.’
 
-‘Pardon me. I have several daughters. Which of my daughters am I to
-understand is thus favoured by the kind intentions of Mr Boffin and his
-lady?’
+He is at her side again in a pace or two, and he retorts, ‘That is not
+what you said. You said disingenuousness.’
 
-‘Don’t you see?’ the ever-smiling Mrs Boffin put in. ‘Naturally, Miss
-Bella, you know.’
+‘What if I did?’
 
-‘Oh-h!’ said Mrs Wilfer, with a severely unconvinced look. ‘My daughter
-Bella is accessible and shall speak for herself.’ Then opening the door
-a little way, simultaneously with a sound of scuttling outside it,
-the good lady made the proclamation, ‘Send Miss Bella to me!’ which
-proclamation, though grandly formal, and one might almost say heraldic,
-to hear, was in fact enunciated with her maternal eyes reproachfully
-glaring on that young lady in the flesh—and in so much of it that she
-was retiring with difficulty into the small closet under the stairs,
-apprehensive of the emergence of Mr and Mrs Boffin.
+‘There is no “if” in the case. You did.’
 
-‘The avocations of R. W., my husband,’ Mrs Wilfer explained, on resuming
-her seat, ‘keep him fully engaged in the [[City]] at this [[Time|time]] of the day,
-or he would have had the [[Honour|honour]] of participating in your reception
-beneath our humble roof.’
+‘I did, then. And what of it?’
 
-‘Very pleasant premises!’ said Mr Boffin, cheerfully.
+‘What of it?’ says Mr Lammle. ‘Have you the face to utter the word to
+me?’
 
-‘Pardon me, sir,’ returned Mrs Wilfer, correcting him, ‘it is the abode
-of conscious though independent [[Poverty]].’
+‘The face, too!’ replied Mrs Lammle, staring at him with cold scorn.
+‘Pray, how dare you, sir, utter the word to me?’
 
-Finding it rather difficult to pursue the conversation down this [[Road|road]],
-Mr and Mrs Boffin sat staring at mid-air, and Mrs Wilfer sat silently
-giving them to understand that every breath she drew required to be
-drawn with a [[Self|self]]-denial rarely paralleled in [[history]], until Miss Bella
-appeared: whom Mrs Wilfer presented, and to whom she explained the
-purpose of the visitors.
+‘I never did.’
 
-‘I am much obliged to you, I am sure,’ said Miss Bella, coldly shaking
-her curls, ‘but I [[Doubt|doubt]] if I have the inclination to go out at all.’
+As this happens to be true, Mrs Lammle is thrown on the feminine
+resource of saying, ‘I don’t care what you uttered or did not utter.’
 
-‘Bella!’ Mrs Wilfer admonished her; ‘Bella, you must conquer this.’
+After a little more walking and a little more [[Silence|silence]], Mr Lammle breaks
+the latter.
 
-‘Yes, do what your Ma says, and conquer it, my dear,’ urged Mrs Boffin,
-‘because we shall be so glad to have you, and because you are much too
-pretty to keep yourself shut up.’ With that, the pleasant creature gave
-her a kiss, and patted her on her dimpled shoulders; Mrs Wilfer sitting
-stiffly by, like a functionary presiding over an interview previous to
-an execution.
+‘You shall proceed in your own way. You claim a right to ask me do I
+mean to tell you. Do I mean to tell you what?’
 
-‘We are going to move into a nice [[house]],’ said Mrs Boffin, who was woman
-enough to compromise Mr Boffin on that point, when he couldn’t very [[Well|well]]
-contest it; ‘and we are going to set up a nice carriage, and we’ll go
-everywhere and see everything. And you mustn’t,’ seating Bella beside
-her, and patting her hand, ‘you mustn’t feel a dislike to us to begin
-with, because we couldn’t help it, you know, my dear.’
+‘That you are a man of property?’
 
-With the natural tendency of youth to yield to candour and sweet temper,
-Miss Bella was so touched by the simplicity of this address that she
-frankly returned Mrs Boffin’s kiss. Not at all to the satisfaction
-of that good woman of the world, her mother, who sought to hold the
-advantageous ground of obliging the Boffins instead of being obliged.
+‘No.’
 
-‘My youngest daughter, [[Lavinia]],’ said Mrs Wilfer, glad to make a
-diversion, as that young lady reappeared. ‘Mr George Sampson, a friend
-of the family.’
+‘Then you married me on false pretences?’
 
-The friend of the family was in that stage of tender passion which bound
-him to regard everybody else as the foe of the family. He put the round
-head of his cane in his mouth, like a stopper, when he sat down. As if
-he felt himself full to the throat with affronting sentiments. And he
-eyed the Boffins with implacable eyes.
+‘So be it. Next comes what you mean to say. Do you mean to say you are a
+woman of property?’
 
-‘If you like to bring your sister with you when you come to stay with
-us,’ said Mrs Boffin, ‘of course we shall be glad. The better you please
-yourself, Miss Bella, the better you’ll please us.’
+‘No.’
 
-‘Oh, my consent is of no consequence at all, I suppose?’ cried Miss
-[[Lavinia]].
+‘Then you married me on false pretences.’
+
+‘If you were so dull a fortune-hunter that you deceived yourself, or
+if you were so greedy and grasping that you were over-willing to be
+deceived by appearances, is it my fault, you adventurer?’ the lady
+demands, with great asperity.
+
+‘I asked Veneering, and he told me you were rich.’
+
+‘Veneering!’ with great contempt. ‘And what does Veneering know about
+me!’
+
+‘Was he not your trustee?’
+
+‘No. I have no trustee, but the one you saw on the day when you
+fraudulently married me. And his trust is not a very difficult one, for
+it is only an annuity of a hundred and fifteen pounds. I think there are
+some odd shillings or pence, if you are very particular.’
+
+Mr Lammle bestows a by no means loving look upon the partner of his joys
+and sorrows, and he mutters something; but checks himself.
+
+‘Question for question. It is my turn again, Mrs Lammle. What made you
+suppose me a man of property?’
+
+‘You made me suppose you so. Perhaps you will deny that you always
+presented yourself to me in that character?’
+
+‘But you asked somebody, too. Come, Mrs Lammle, admission for admission.
+You asked somebody?’
+
+‘I asked Veneering.’
+
+‘And Veneering knew as much of me as he knew of you, or as anybody knows
+of him.’
+
+After more silent walking, the bride stops short, to say in a passionate
+manner:
+
+‘I never will forgive the Veneerings for this!’
+
+‘Neither will I,’ returns the bridegroom.
+
+With that, they walk again; she, making those angry spirts in the sand;
+he, dragging that dejected tail. The tide is low, and seems to have
+thrown them together high on the bare shore. A gull comes sweeping by
+their heads and flouts them. There was a golden surface on the brown
+cliffs but now, and behold they are only damp earth. A taunting roar
+comes from the sea, and the far-out rollers mount upon one another,
+to look at the entrapped impostors, and to join in impish and exultant
+gambols.
+
+‘Do you pretend to believe,’ Mrs Lammle resumes, sternly, ‘when you talk
+of my marrying you for worldly advantages, that it was within the bounds
+of reasonable probability that I would have married you for yourself?’

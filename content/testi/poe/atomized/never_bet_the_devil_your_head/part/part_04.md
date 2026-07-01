@@ -1,5 +1,5 @@
 ---
-title: "[[Never Bet the Devil your Head]] (part 4)"
+title: "Never Bet the Devil your Head (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/never-bet-the-devil-your-head-(poe)"

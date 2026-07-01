@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 10 (part 2)"
+title: "Wuthering Heights — Chapter 10 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_10/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_10/part_03">part 03 ›</a></div>
 </nav>
 
+
+“Yes, [[Heathcliff]],” he replied, glancing from me up to the windows,
+which reflected a score of glittering moons, but showed no lights from
+within. “Are they at [[Home|home]]? where is she? Nelly, you are not glad! you
+needn’t be so disturbed. Is she here? Speak! I want to have one word
+with her—your mistress. Go, and say some person from Gimmerton desires
+to see her.”
 
 “How will she take it?” I exclaimed. “What will she do? The surprise
 bewilders me—it will put her out of her head! And you _are_ [[Heathcliff]]!
@@ -128,13 +135,3 @@ gratified when anything occurs to please her.”
 
 “And I also,” answered [[Heathcliff]], “especially if it be anything in
 which I have a part. I shall stay an hour or two willingly.”
-
-He took a seat opposite Catherine, who kept her gaze fixed on him as if
-she feared he would vanish were she to remove it. He did not raise his
-to her often: a quick glance now and then sufficed; but it flashed
-back, each [[Time|time]] more confidently, the undisguised delight he drank from
-hers. They were too much absorbed in their mutual joy to suffer
-embarrassment. Not so Mr. [[Edgar]]: he grew pale with pure annoyance: a
-feeling that reached its climax when his lady [[Rose|rose]], and stepping across
-the rug, seized [[Heathcliff]]’s hands again, and laughed like one beside
-herself.

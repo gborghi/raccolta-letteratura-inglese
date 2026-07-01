@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 33: BLISSFUL (part 4)"
+title: "David Copperfield — Chapter 33: BLISSFUL (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -121,11 +121,3 @@ drunk. When I drank it, I affected to interrupt my conversation for that
 purpose, and to resume it immediately afterwards. I caught Dora’s eye as
 I bowed to her, and I thought it looked appealing. But it looked at me
 over the head of Red Whisker, and I was adamant.
-
-The young creature in pink had a mother in green; and I rather think the
-latter separated us from motives of policy. Howbeit, there was a general
-breaking up of the party, while the remnants of the dinner were being
-put away; and I strolled off by myself among the trees, in a raging and
-remorseful state. I was debating whether I should pretend that I was not
-[[Well|well]], and fly--I don’t know where--upon my gallant grey, when Dora and
-Miss Mills met me.

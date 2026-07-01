@@ -1,5 +1,5 @@
 ---
-title: "[[Metzengerstein]] (part 1)"
+title: "Metzengerstein (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/metzengerstein-(poe)"
@@ -205,9 +205,3 @@ Pestis eram vivus—moriens tua mors ero.
       seated with the autocrat and the sovereign, put a veto on the
 
       wishes of a temporal [[King|king]], or restrained with the fiat of papal
-
-      supremacy the rebellious sceptre of the Arch-enemy. _There_, the
-
-      dark, tall statures of the Princes [[Metzengerstein]]—their muscular
-
-      war-coursers plunging over the carcasses of fallen foes—startled

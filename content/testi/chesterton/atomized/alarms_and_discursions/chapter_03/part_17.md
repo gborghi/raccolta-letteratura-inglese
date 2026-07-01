@@ -14,6 +14,71 @@ tags:
 </nav>
 
 
+And then I remembered how the artistic critics have always praised
+the [[Grave|grave]] tints and the grim shadows of the crumbling cloisters and
+abbey towers, and how they themselves often dress up like Gothic ruins
+in the sombre tones of dim grey walls or dark green ivy.  I remembered
+how they hated almost all primary things, but especially primary colours.
+I knew they were appreciating much more delicately and truly than I
+the [[Sublime|sublime]] [[skeleton]] and the mighty fungoids of the dead Glastonbury.
+But I stood for an instant alive in the living Glastonbury,
+gay with gold and coloured like the toy-book of a [[Child|child]].
+
+-/-
+
+The Futurists
+
+IT was a warm golden evening, fit for October, and I was watching
+(with regret) a lot of little black pigs being turned out of my [[Garden|garden]],
+when the postman handed to me, with a perfunctory haste which doubtless
+masked his emotion, the Declaration of Futurism.  If you ask me what
+Futurism is, I cannot tell you; even the Futurists themselves seem
+a little doubtful; perhaps they are waiting for the future to find out.
+But if you ask me what its Declaration is, I answer eagerly;
+for I can tell you quite a lot about that.  It is written by an
+Italian named Marinetti, in a magazine which is called _Poesia_.
+It is headed "Declaration of Futurism" in enormous letters; it is
+divided off with little numbers; and it starts straight away like this:
+"1. We intend to glorify the [[Love|love]] of danger, the custom of energy,
+the strengt of daring.  2.  The essential elements of our poetry
+will be [[Courage|courage]], audacity, and revolt.  3.  Literature having up
+to now glorified thoughtful immobility, ecstasy, and slumber,
+we wish to exalt the aggressive movement, the feverish insomnia,
+running, the perilous leap, the cuff and the blow."  While I am
+quite willing to exalt the cuff within reason, it scarcely seems
+such an entirely new subject for literature as the Futurists imagine.
+It seems to me that even through the slumber which fills the Siege
+of Troy, the [[Song]] of Roland, and the [[Orlando]] Furioso, and in spite
+of the thoughtful immobility which marks "Pantagruel," "[[Henry V]],"
+and the Ballad of Chevy Chase, there are occasional gleams
+of an admiration for [[Courage|courage]], a readiness to glorify the [[Love|love]]
+of danger, and even the "strengt of daring," I seem to remember,
+slightly differently spelt, somewhere in literature.
+
+* * * * *
+
+The distinction, however, seems to be that the warriors of
+the past went in for tournaments, which were at least dangerous
+for themselves, while the Futurists go in for motor-cars,
+which are mainly alarming for other people.  It is the Futurist
+in his motor who does the "aggressive movement," but it is the
+pedestrians who go in for the "running" and the "perilous leap."
+Section No. 4 says, "We declare that the splendour of the world
+has been enriched with a new form of [[Beauty|beauty]], the [[Beauty|beauty]] of [[Speed|speed]].
+A race-automobile adorned with great pipes like serpents
+with explosive breath.  ... A race-automobile which seems
+to rush over exploding powder is more beautiful than the Victory
+of Samothrace."  It is also much easier, if you have the money.
+It is quite clear, however, that you cannot be a Futurist at
+all unless you are frightfully rich.  Then follows this lucid
+and [[Soul|soul]]-stirring sentence:  "5. We will sing the praises of man
+holding the flywheel of which the ideal steering-post traverses
+the earth impelled itself around the circuit of its own orbit."
+What a jolly [[Song|song]] it would be--so hearty, and with such a simple
+swing in it!  I can imagine the Futurists round the [[Fire|fire]] in a tavern
+trolling out in [[Chorus|chorus]] some ballad with that incomparable refrain;
+shouting over their swaying flagons some such words as these:
+
   A notion came into my head as new as it was bright
   That [[Poems|poems]] might be written on the subject of a fight;
   No praise was given to Lancelot, [[Achilles]], Nap or Corbett,
@@ -57,74 +122,3 @@ some day, to be replaced by some other tomfoolery.  And though
 I commonly refrain from clawing the air with crooked fingers,
 I can assure Mr. Marinetti that this omission does not disqualify me,
 and that I scent the good smell of his decaying mind all right.
-
-I think the only other point of Futurism is contained in
-this sentence:  "It is in [[Italy]] that we hurl this overthrowing
-and inflammatory Declaration, with which to-day we found Futurism,
-for we will free [[Italy]] from her numberless museums which cover
-her with countless cemeteries."  I think that rather sums it up.
-The best way, one would think, of freeing oneself from a museum
-would be not to go there.  Mr. Marinetti's fathers and grandfathers
-freed [[Italy]] from prisons and torture chambers, places where people
-were held by force.  They, being in the bondage of "moralism,"
-attacked Governments as unjust, real Governments, with real guns.
-Such was their utilitarian cowardice that they would die in hundreds
-upon the bayonets of Austria.  I can [[Well|well]] imagine why Mr. Marinetti
-in his motor-car does not wish to look back at the past.  If there
-was one thing that could make him look smaller even than before it
-is that roll of dead men's drums and that dream of Garibaldi going by.
-The old Radical [[Ghosts|ghosts]] go by, more real than the living men,
-to assault I know not what ramparted [[City|city]] in hell.  And meanwhile
-the Futurist stands outside a museum in a warlike attitude,
-and defiantly tells the official at the turnstile that he will never,
-never come in.
-
-There is a certain solid use in fools.  It is not so much that they
-rush in where angels [[Fear|fear]] to tread, but rather that they let out
-what devils intend to do.  Some perversion of folly will float
-about nameless and pervade a whole society; then some lunatic
-gives it a name, and henceforth it is harmless.  With all really
-evil things, when the danger has appeared the danger is over.
-Now it may be hoped that the [[Self|self]]-indulgent sprawlers of _Poesia_
-have put a name once and for all to their [[philosophy]].  In the case
-of their [[philosophy]], to put a name to it is to put an end to it.
-Yet their [[philosophy]] has been very widespread in our [[Time|time]]; it could
-hardly have been pointed and finished except by this perfect folly.
-The creed of which (please God) this is the flower and finish
-consists ultimately in this statement:  that it is bold and spirited
-to appeal to the future.  Now, it is entirely weak and half-witted
-to appeal to the future.  A brave man ought to ask for what he wants,
-not for what he expects to get.  A brave man who wants Atheism in
-the future calls himself an Atheist; a brave man who wants Socialism,
-a Socialist; a brave man who wants Catholicism, a Catholic.
-But a weak-minded man who does not know what he wants in the future
-calls himself a Futurist.
-
-* * * * *
-
-They have driven all the pigs away.  Oh that they had driven away
-the prigs, and left the pigs!  The sky begins to droop with darkness
-and all [[Birds|birds]] and blossoms to descend unfaltering into the healthy
-underworld where things slumber and grow.  There was just one true
-phrase of Mr. Marinetti's about himself:  "the feverish insomnia."
-The whole universe is pouring headlong to the happiness of the [[Night|night]].
-It is only the madman who has not the [[Courage|courage]] to [[Sleep|sleep]].
-
--/-
-
-Dukes
-
-THE Duc de Chambertin-Pommard was a small but lively relic of a really
-aristocratic family, the members of which were nearly all Atheists
-up to the [[Time|time]] of the [[French Revolution]], but since that event
-(beneficial in such various ways) had been very devout.
-He was a Royalist, a Nationalist, and a perfectly sincere patriot
-in that particular style which consists of ceaselessly asserting
-that one's country is not so much in danger as already destroyed.
-He wrote cheery little articles for the Royalist Press entitled
-"The End of France" or "The Last Cry," or what not, and he gave
-the final touches to a picture of the Kaiser riding across a pavement
-of prostrate Parisians with a glow of patriotic exultation.
-He was quite poor, and even his relations had no money.
-He walked briskly to all his meals at a little open café,
-and he looked just like everybody else.

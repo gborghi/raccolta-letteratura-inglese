@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 20 (part 1)"
+title: "The Tenant of Wildfell Hall — Chapter 20 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -150,7 +150,7 @@ for you.”
 
 “Oh, I forgot, you are a saint, too. I crave your pardon, dearest—but
 
-don’t call me Mr. Huntingdon; my name is [[arthur|Arthur]].”
+don’t call me Mr. Huntingdon; my name is [[Arthur]].”
 
 
 
@@ -245,9 +245,3 @@ slowly, and went on talking as we proceeded. I need not repeat all we
 said: let me rather refer to what passed between my aunt and me, after
 
 breakfast, when Mr. Huntingdon called my uncle aside, no [[Doubt|doubt]] to make
-
-his proposals, and she beckoned me into another room, where she once
-
-more commenced a solemn remonstrance, which, however, entirely failed
-
-to convince me that her view of the case was preferable to my own.

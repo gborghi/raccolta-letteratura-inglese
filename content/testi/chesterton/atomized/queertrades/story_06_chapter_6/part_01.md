@@ -1,5 +1,5 @@
 ---
-title: "[[queertrades]] — Chapter 6 (part 1)"
+title: "queertrades — Chapter 6 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/queertrades-(chesterton)"
@@ -17,7 +17,6 @@ tags:
 Chapter 6
 
 The Eccentric Seclusion of the Old Lady
-
 
 The conversation of Rupert Grant had two great elements
 of interest--first, the long fantasias of [[Detective|detective]] deduction
@@ -111,31 +110,31 @@ Why should he have made a secret sign any more than any one else?
 You own he said nothing and did nothing worth mentioning.
 You own that, don't you?"
 
-His face grew [[Grave|grave]].
+His face grew grave.
 
-"[[Well]], since you ask me, I must admit that I do.  It is possible
+"Well, since you ask me, I must admit that I do.  It is possible
 that the milkman did not betray himself.  It is even possible that I
 was wrong about him."
 
 "Then come along with you," I said, with a certain amicable anger,
-"and remember that you owe me half a [[Crown|crown]]."
+"and remember that you owe me half a crown."
 
 "As to that, I differ from you," said Rupert coolly.  "The milkman's
-remarks may have been quite [[Innocent|innocent]].  Even the milkman may have been.
-But I do not owe you half a [[Crown|crown]].  For the terms of the bet were,
+remarks may have been quite innocent.  Even the milkman may have been.
+But I do not owe you half a crown.  For the terms of the bet were,
 I think, as follows, as I propounded them, that wherever that milkman
 came to a real stop I should find out something curious."
 
-"[[Well]]?"  I said.
+"Well?"  I said.
 
-"[[Well]]," he answered, "I jolly [[Well|well]] have.  You just come with me,"
+"Well," he answered, "I jolly well have.  You just come with me,"
 and before I could speak he had turned tail once more and whisked
-through the blue dark into the moat or basement of the [[house]].
+through the blue dark into the moat or basement of the house.
 I followed almost before I made any decision.
 
 When we got down into the area I felt indescribably foolish literally,
 as the saying is, in a hole.  There was nothing but a closed door,
 shuttered windows, the steps down which we had come, the ridiculous
-[[Well|well]] in which I found myself, and the ridiculous man who had
+well in which I found myself, and the ridiculous man who had
 brought me there, and who stood there with dancing eyes.
 I was just about to turn back when Rupert caught me by the elbow.

@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 39: WICKFIELD AND HEEP"
+title: "David Copperfield — Chapter 39: WICKFIELD AND HEEP"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/david-copperfield-(dickens)"

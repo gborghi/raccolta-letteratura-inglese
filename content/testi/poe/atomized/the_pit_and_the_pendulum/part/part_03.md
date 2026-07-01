@@ -1,5 +1,5 @@
 ---
-title: "[[The Pit and the Pendulum]] (part 3)"
+title: "The Pit and the Pendulum (part 3)"
 author: "Poe"
 unitType: excerpt
 tags:

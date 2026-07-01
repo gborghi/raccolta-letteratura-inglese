@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 21: LITTLE EM’LY (part 7)"
+title: "David Copperfield — Chapter 21: LITTLE EM’LY (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,21 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_21_little_emly/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_22_some_old_scenes_and_some_new_p/part_01">part 01 ›</a></div>
 </nav>
 
+
+Ham staggered, as [[Well|well]] he might, under the blow Mr. Peggotty dealt
+him in his unbounded joy, as a mark of confidence and [[Friendship|friendship]]; but
+feeling called upon to say something to us, he said, with much faltering
+and great difficulty:
+
+‘She warn’t no higher than you was, Mas’r Davy--when you first
+come--when I thought what she’d grow up to be. I see her grown
+up--gent’lmen--like a flower. I’d lay down my life for
+her--Mas’r Davy--Oh! most content and cheerful! She’s more to
+me--gent’lmen--than--she’s all to me that ever I can want, and more
+than ever I--than ever I could say. I--I [[Love|love]] her true. There ain’t a
+gent’lman in all the land--nor yet sailing upon all the sea--that
+can [[Love|love]] his lady more than I [[Love|love]] her, though there’s many a common
+man--would say better--what he meant.’
 
 I thought it affecting to see such a sturdy fellow as Ham was now,
 trembling in the strength of what he felt for the pretty little creature

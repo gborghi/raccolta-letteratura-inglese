@@ -1,5 +1,5 @@
 ---
-title: "[[Troilus]] and [[Cressida]] — Act II, Scene 3"
+title: "Troilus and Cressida — Act II, Scene 3"
 author: "Shakespeare"
 unitType: scene
 parentWork: "works/troilus-and-cressida-(shakespeare)"

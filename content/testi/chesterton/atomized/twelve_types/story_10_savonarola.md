@@ -10,15 +10,11 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/twelve-types-(chesterton)">Twelve Types</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/twelve_types/story_09_tolstoy_and_the_cult_of_simplicity">‹ Story 09 TOLSTOY AND THE CULT OF SIMPLICITY</a><a class="ex-next" href="/testi/chesterton/atomized/twelve_types/story_11_the_position_of_sir_walter_scott">Story 11 THE POSITION OF SIR WALTER SCOTT ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/twelve_types/story_09_tolstoy_tolstoy_and_the_cult_of_simplici">‹ Story 09 tolstoy TOLSTOY AND THE CULT OF SIMPLICI</a><a class="ex-next" href="/testi/chesterton/atomized/twelve_types/story_11_the_position_of_sir_walter_scott">Story 11 THE POSITION OF SIR WALTER SCOTT ›</a></div>
 </nav>
 
 
 SAVONAROLA
-
-
-
-
 
 Savonarola is a man whom we shall probably never understand until we
 
@@ -27,8 +23,6 @@ know what horror may lie at the heart of civilisation. This we shall not
 know until we are civilised. It may be hoped, in one sense, that we may
 
 never understand Savonarola.
-
-
 
 The great deliverers of men have, for the most part, saved them from
 
@@ -55,8 +49,6 @@ psychological fact at the back of all our brains, but for which no name
 has ever been found, that ease is the worst enemy of happiness, and
 
 civilisation potentially the end of man.
-
-
 
 For I fancy that Savonarola's thrilling challenge to the luxury of his
 
@@ -98,8 +90,6 @@ of what no one but a narrow moralist would call harmless. Ascetics are
 
 sometimes more advanced than the average man, as [[Well|well]] as less.
 
-
-
 Such, at least, was the hatred in the heart of Savonarola. He was making
 
 war against no trivial human sins, but against godless and thankless
@@ -127,8 +117,6 @@ for anything else. To let no bird fly past unnoticed, to spell patiently
 the stones and weeds, to have the mind a storehouse of sunset, requires
 
 a discipline in pleasure, and an [[Education|education]] in gratitude.
-
-
 
 The civilisation which surrounded Savonarola on every side was a
 
@@ -167,8 +155,6 @@ nothing that so terrifies men as the decree that they are all kings.
 hardest of gospels; there is nothing that so strikes men with [[Fear|fear]] as
 
 the saying that they are all the sons of God.
-
-
 
 Savonarola and his republic fell. The drug of despotism was administered
 
@@ -226,7 +212,7 @@ whom even nations and empires only exist to satisfy the moment, men to
 
 whom the last hot hour of [[Summer|summer]] is better than a sharp and wintry
 
-[[Spring|spring]]. They have an art, a literature, a political [[philosophy]], which
+[[spring]]. They have an art, a literature, a political [[philosophy]], which
 
 are all alike valued for their immediate effect upon the taste, not for
 
@@ -246,8 +232,6 @@ into [[Madness|madness]] and the chamber of civilisation is no longer merely a
 
 cushioned apartment, but a padded cell.
 
-
-
 This last and worst of human miseries Savonarola saw afar off, and bent
 
 his whole gigantic energies to turning the chariot into another course.
@@ -265,8 +249,6 @@ sorrows alike. But there are those to-day who feel the same silent
 danger, and who bend themselves to the same silent resistance. They also
 
 are supposed to be contending for some trivial political scruple.
-
-
 
 Mr M'Hardy says, in defending Savonarola, that the number of fine works
 

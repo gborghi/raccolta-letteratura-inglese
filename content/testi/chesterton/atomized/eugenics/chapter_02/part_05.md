@@ -1,5 +1,5 @@
 ---
-title: "[[Eugenics]] — Part 1 (part 5)"
+title: "Eugenics — Part 1 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/eugenics-(chesterton)"
@@ -111,32 +111,3 @@ attached in the simplest tribes to parricide, could now be used
 against my son who had done any act that could colourably be
 supposed to have worried his father, and so affected his health.
 Few of us would be safe.
-
-Another case out of hundreds is the loose extension of the idea of libel.
-Libel cases bear no more trace of the old and just anger against
-the man who bore false witness against his neighbour than "cruelty"
-cases do of the old and just horror of the parents that hated their
-own flesh.  A libel case has become one of the sports of the less
-athletic rich --- a variation on baccarat, a game of chance.
-A music-hall actress got damages for a [[Song|song]] that was called "vulgar,"
-which is as if I could fine or imprison my neighbour for calling
-my handwriting "rococo." A politician got huge damages because he was
-said to have spoken to children about Tariff [[Reform]]; as if that
-seductive topic would corrupt their virtue, like an indecent story.
-Sometimes libel is defined as anything calculated to hurt a man
-in his business; in which case any new tradesman calling himself
-a [[grocer]] slanders the [[grocer]] opposite.  All this, I say, is Anarchy;
-for it is clear that its exponents possess no power of distinction,
-or sense of proportion, by which they can draw the line between
-calling a woman a popular singer and calling her a bad lot; or between
-charging a man with leading infants to Protection and leading them
-to sin and shame.  But the vital point to which to return is this.
-That it is not necessarily nor even specially, an anarchy
-in the populace.  It is an anarchy in the organ of [[government]].
-It is the magistrates --- voices of the governing class ---
-who cannot distinguish between cruelty and carelessness.
-It is the judges (and their very submissive special juries)
-who cannot see the difference between opinion and slander.
-And it is the highly placed and highly paid experts who have brought
-in the first Eugenic Law, the Feeble-Minded Bill --- thus showing
-that they can see no difference between a mad and a sane man.

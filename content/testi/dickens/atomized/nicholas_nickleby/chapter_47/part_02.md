@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 47 (part 2)"
+title: "Nicholas Nickleby — Chapter 47 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_47/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_47/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘Why, you have a sleek and slinking way with you that makes me seem so
+by contrast,’ returned Ralph. ‘I don’t know but that yours may answer
+better, but I want the patience for it.’
 
 ‘You were born a genius, Mr. Nickleby,’ said old [[arthur|Arthur]]. ‘Deep, deep,
 deep. Ah!’
@@ -140,14 +144,3 @@ confound him with nine-tenths of the dashing men I have ever known.’
 ‘Tut, tut. That Bray who is now in the Rules of the Bench,’ said old
 [[arthur|Arthur]]. ‘You can’t have forgotten Bray. Both of us did business with
 him. Why, he owes you money!’
-
-‘Oh HIM!’ rejoined Ralph. ‘Ay, ay. Now you speak. Oh! It’s HIS daughter,
-is it?’
-
-Naturally as this was said, it was not said so naturally but that a
-kindred spirit like old [[arthur|Arthur]] Gride might have discerned a design upon
-the part of Ralph to lead him on to much more explicit statements and
-explanations than he would have volunteered, or that Ralph could in all
-likelihood have obtained by any other means. Old [[arthur|Arthur]], however, was so
-intent upon his own designs, that he suffered himself to be overreached,
-and had no suspicion but that his good friend was in earnest.

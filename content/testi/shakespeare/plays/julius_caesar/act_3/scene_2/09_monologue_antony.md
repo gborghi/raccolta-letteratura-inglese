@@ -1,5 +1,5 @@
 ---
-title: "[[Julius Caesar]] — Act III, Scene 2 — monologue (ANTONY) [9]"
+title: "Julius Caesar — Act III, Scene 2 — monologue (ANTONY) [9]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/julius-caesar-(shakespeare)"

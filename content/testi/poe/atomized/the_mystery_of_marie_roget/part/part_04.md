@@ -1,5 +1,5 @@
 ---
-title: "[[The Mystery of Marie Roget]] (part 4)"
+title: "The Mystery of Marie Roget (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-mystery-of-marie-roget-(poe)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_mystery_of_marie_roget/part/part_03">‹ part 03</a><a class="ex-next" href="/testi/poe/atomized/the_mystery_of_marie_roget/part/part_05">part 05 ›</a></div>
 </nav>
 
+
+      strings of the bonnet were fastened, was not a lady’s, but a slip
+
+      or sailor’s knot.
+
+
+
+      After the recognition of the corpse, it was not, as usual, taken
+
+      to the Morgue, (this formality being superfluous,) but hastily
+
+      interred not far from the spot at which it was brought ashore.
+
+      Through the exertions of Beauvais, the matter was industriously
 
       hushed up, as far as possible; and several days had elapsed
 
@@ -175,25 +189,3 @@ tags:
       been some one who would have thought it worth while to go over
 
       and attend the investigation, if they thought the [[Body|body]] was that
-
-      of Marie. Nobody went over. There was nothing said or heard about
-
-      the matter in the Rue Pavée St. Andrée, that reached even the
-
-      occupants of the same building. M. St. Eustache, the [[Lover|lover]] and
-
-      intended husband of Marie, who boarded in her mother’s [[house]],
-
-      deposes that he did not hear of the discovery of the [[Body|body]] of his
-
-      intended until the next morning, when M. Beauvais came into his
-
-      chamber and told him of it. For an item of news like this, it
-
-      strikes us it was very coolly received.”
-
-
-
-      In this way the journal endeavored to create the impression of an
-
-      apathy on the part of the relatives of Marie, inconsistent with

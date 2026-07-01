@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 1 (part 4)"
+title: "Dombey and Son — Chapter 29 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,139 +14,121 @@ tags:
 </nav>
 
 
-“Miss Tox, Paul,” pursued Mrs Chick, still retaining her hand, “knowing
-how much I have been interested in the anticipation of the event of
-today, and how trembly and shaky I have been from head to foot in
-expectation of it, has been working at a little gift for Fanny, which I
-promised to present. Miss Tox is ingenuity itself.”
+For some moments, this afflicted foreigner remained clasping Miss Tox
+to his heart, with an energy of action in remarkable opposition to his
+disconcerted face, while that poor lady trickled slowly down upon him
+the very last sprinklings of the little watering-pot, as if he were a
+delicate exotic (which indeed he was), and might be almost expected to
+blow while the gentle rain descended. Mrs Chick, at length recovering
+sufficient presence of mind to interpose, commanded him to drop Miss
+Tox upon the sofa and withdraw; and the [[Exile|exile]] promptly obeying, she
+applied herself to promote Miss Tox’s recovery.
 
-“My dear Louisa,” said Miss Tox. “Don’t say so.”
+But none of that gentle concern which usually characterises the
+daughters of Eve in their tending of each other; none of that
+freemasonry in fainting, by which they are generally bound together in
+a mysterious bond of sisterhood; was visible in Mrs Chick’s demeanour.
+Rather like the executioner who restores the victim to sensation
+previous to proceeding with the torture (or was wont to do so, in the
+good old times for which all true men wear perpetual mourning), did Mrs
+Chick administer the smelling-bottle, the slapping on the hands, the
+dashing of cold [[Water|water]] on the face, and the other proved remedies. And
+when, at length, Miss Tox opened her eyes, and gradually became
+restored to animation and consciousness, Mrs Chick drew off as from a
+criminal, and reversing the precedent of the murdered [[King|king]] of [[Denmark]],
+regarded her more in anger than in sorrow.”
 
-“It is only a pincushion for the toilette table, Paul,” resumed his
-sister; “one of those trifles which are insignificant to your sex in
-general, as it’s very natural they should be—we have no business to
-expect they should be otherwise—but to which we attach some interest.”
+“Lucretia!” said Mrs Chick “I will not attempt to disguise what I feel.
+My eyes are opened, all at once. I wouldn’t have believed this, if a
+Saint had told it to me.”
 
-“Miss Tox is very good,” said Mr Dombey.
+[Illustration]
 
-“And I do say, and will say, and must say,” pursued his sister,
-pressing the foot of the wine-glass on Miss Tox’s hand, at each of the
-three clauses, “that Miss Tox has very prettily adapted the sentiment
-to the occasion. I call ‘Welcome little Dombey’ Poetry, myself!”
+“I am foolish to give way to faintness,” Miss Tox faltered. “I shall be
+better presently.”
 
-“Is that the device?” inquired her brother.
+“You will be better presently, Lucretia!” repeated Mrs Chick, with
+exceeding scorn. “Do you suppose I am blind? Do you imagine I am in my
+second [[Childhood|childhood]]? No, Lucretia! I am obliged to you!”
 
-“That is the device,” returned Louisa.
+Miss Tox directed an imploring, helpless kind of look towards her
+friend, and put her handkerchief before her face.
 
-“But do me the justice to remember, my dear Louisa,” said Miss Tox in a
-tone of low and earnest entreaty, “that nothing but the—I have some
-difficulty in expressing myself—the dubiousness of the result would
-have induced me to take so great a liberty: ‘Welcome, Master Dombey,’
-would have been much more congenial to my feelings, as I am sure you
-know. But the uncertainty attendant on angelic strangers, will, I [[Hope|hope]],
-excuse what must otherwise appear an unwarrantable familiarity.” Miss
-Tox made a graceful bend as she spoke, in favour of Mr Dombey, which
-that gentleman graciously acknowledged. Even the sort of recognition of
-Dombey and Son, conveyed in the foregoing conversation, was so
-palatable to him, that his sister, Mrs Chick—though he affected to
-consider her a weak good-natured person—had perhaps more influence over
-him than anybody else.
+“If anyone had told me this yesterday,” said Mrs Chick, with majesty,
+“or even half-an-hour ago, I should have been tempted, I almost
+believe, to strike them to the earth. Lucretia Tox, my eyes are opened
+to you all at once. The scales:” here Mrs Chick cast down an imaginary
+pair, such as are commonly used in grocers” shops: “have fallen from my
+sight. The blindness of my confidence is past, Lucretia. It has been
+abused and played, upon, and evasion is quite out of the question now,
+I assure you.”
 
-“My dear Paul,” that lady broke out afresh, after silently
-contemplating his features for a few moments, “I don’t know whether to
-laugh or cry when I look at you, I declare, you do so remind me of that
-dear baby upstairs.”
+“Oh! to what do you allude so cruelly, my [[Love|love]]?” asked Miss Tox,
+through her [[Tears|tears]].
 
-“[[Well]]!” said Mrs Chick, with a sweet smile, “after this, I forgive
-Fanny everything!”
+“Lucretia,” said Mrs Chick, “ask your own heart. I must entreat you not
+to address me by any such familiar term as you have just used, if you
+please. I have some [[Self|self]]-respect left, though you may think otherwise.”
 
-It was a declaration in a Christian spirit, and Mrs Chick felt that it
-did her good. Not that she had anything particular to forgive in her
-sister-in-law, nor indeed anything at all, except her having married
-her brother—in itself a species of audacity—and her having, in the
-course of events, given birth to a girl instead of a boy: which, as Mrs
-Chick had frequently observed, was not quite what she had expected of
-her, and was not a pleasant return for all the attention and
-distinction she had met with.
+“Oh, Louisa!” cried Miss Tox. “How can you speak to me like that?”
 
-Mr Dombey being hastily summoned out of the room at this moment, the
-two ladies were left [[Alone|alone]] together. Miss Tox immediately became
-spasmodic.
+“How can I speak to you like that?” retorted Mrs Chick, who, in default
+of having any particular argument to sustain herself upon, relied
+principally on such repetitions for her most withering effects. “Like
+that! You may [[Well|well]] say like that, indeed!”
 
-“I knew you would admire my brother. I told you so beforehand, my
-dear,” said Louisa. Miss Tox’s hands and eyes expressed how much. “And
-as to his property, my dear!”
+Miss Tox sobbed pitifully.
 
-“Ah!” said Miss Tox, with deep feeling.
+“The idea!” said Mrs Chick, “of your having basked at my brother’s
+fireside, like a serpent, and wound yourself, through me, almost into
+his confidence, Lucretia, that you might, in secret, entertain designs
+upon him, and dare to aspire to contemplate the possibility of his
+uniting himself to you! Why, it is an idea,” said Mrs Chick, with
+sarcastic dignity, “the absurdity of which almost relieves its
+treachery.”
 
-“Im-mense!”
+“Pray, Louisa,” urged Miss Tox, “do not say such dreadful things.”
 
-“But his deportment, my dear Louisa!” said Miss Tox. “His presence! His
-dignity! No portrait that I have ever seen of anyone has been half so
-replete with those qualities. Something so stately, you know: so
-uncompromising: so very wide across the chest: so upright! A pecuniary
-[[Duke of York]], my [[Love|love]], and nothing short of it!” said Miss Tox. “That’s
-what _I_ should designate him.”
+“Dreadful things!” repeated Mrs Chick. “Dreadful things! Is it not a
+fact, Lucretia, that you have just now been unable to command your
+feelings even before me, whose eyes you had so completely closed?”
 
-“Why, my dear Paul!” exclaimed his sister, as he returned, “you look
-quite pale! There’s nothing the matter?”
+“I have made no complaint,” sobbed Miss Tox. “I have said nothing. If I
+have been a little overpowered by your news, Louisa, and have ever had
+any lingering thought that Mr Dombey was inclined to be particular
+towards me, surely you will not condemn me.”
 
-“I am sorry to say, Louisa, that they tell me that Fanny—”
+“She is going to say,” said Mrs Chick, addressing herself to the whole
+of the furniture, in a comprehensive glance of [[Resignation|resignation]] and appeal,
+“She is going to say—I know it—that I have encouraged her!”
 
-“Now, my dear Paul,” returned his sister rising, “don’t believe it. Do
-not allow yourself to receive a turn unnecessarily. Remember of what
-importance you are to society, and do not allow yourself to be worried
-by what is so very inconsiderately told you by people who ought to know
-better. Really I’m surprised at them.”
+“I don’t wish to exchange reproaches, dear Louisa,” sobbed Miss Tox.
+“Nor do I wish to complain. But, in my own defence—”
 
-“I [[Hope|hope]] I know, Louisa,” said Mr Dombey, stiffly, “how to bear myself
-before the world.”
+“Yes,” cried Mrs Chick, looking round the room with a prophetic smile,
+“that’s what she’s going to say. I knew it. You had better say it. Say
+it openly! Be open, Lucretia Tox,” said Mrs Chick, with desperate
+sternness, “whatever you are.”
 
-“Nobody better, my dear Paul. Nobody half so [[Well|well]]. They would be
-ignorant and base indeed who doubted it.”
+“In my own defence,” faltered Miss Tox, “and only in my own defence
+against your unkind words, my dear Louisa, I would merely ask you if
+you haven’t often favoured such a fancy, and even said it might happen,
+for anything we could tell?”
 
-“Ignorant and base indeed!” echoed Miss Tox softly.
-
-“But,” pursued Louisa, “if you have any reliance on my experience,
-Paul, you may rest assured that there is nothing wanting but an effort
-on Fanny’s part. And that effort,” she continued, taking off her
-bonnet, and adjusting her cap and gloves, in a business-like manner,
-“she must be encouraged, and really, if necessary, urged to make. Now,
-my dear Paul, come upstairs with me.”
-
-Mr Dombey, who, besides being generally influenced by his sister for
-the reason already mentioned, had really [[Faith|faith]] in her as an experienced
-and bustling matron, acquiesced; and followed her, at once, to the sick
-chamber.
-
-The lady lay upon her bed as he had left her, clasping her little
-daughter to her breast. The [[Child|child]] clung close about her, with the same
-intensity as before, and never raised her head, or moved her soft cheek
-from her mother’s face, or looked on those who stood around, or spoke,
-or moved, or shed a tear.
-
-“Restless without the little girl,” the Doctor whispered Mr Dombey. “We
-found it best to have her in again.”
-
-“Can nothing be done?” asked Mr Dombey.
-
-The Doctor shook his head. “We can do no more.”
-
-The windows stood open, and the twilight was gathering without.
-
-The scent of the restoratives that had been tried was pungent in the
-room, but had no fragrance in the dull and languid air the lady
-breathed.
-
-There was such a solemn stillness round the bed; and the two medical
-attendants seemed to look on the impassive form with so much compassion
-and so little [[Hope|hope]], that Mrs Chick was for the moment diverted from her
-purpose. But presently summoning [[Courage|courage]], and what she called presence
-of mind, she sat down by the bedside, and said in the low precise tone
-of one who endeavours to awaken a sleeper:
-
-“Fanny! Fanny!”
-
-There was no sound in answer but the loud ticking of Mr Dombey’s watch
-and Doctor Parker Peps’s watch, which seemed in the [[Silence|silence]] to be
-running a race.
+“There is a point,” said Mrs Chick, rising, not as if she were going to
+stop at the floor, but as if she were about to soar up, high, into her
+native skies, “beyond which [[Endurance|endurance]] becomes ridiculous, if not
+culpable. I can bear much; but not too much. What spell was on me when
+I came into this [[house]] this day, I don’t know; but I had a
+presentiment—a dark presentiment,” said Mrs Chick, with a shiver, “that
+something was going to happen. [[Well]] may I have had that foreboding,
+Lucretia, when my confidence of many years is destroyed in an instant,
+when my eyes are opened all at once, and when I find you revealed in
+your true colours. Lucretia, I have been mistaken in you. It is better
+for us both that this subject should end here. I wish you [[Well|well]], and I
+shall ever wish you [[Well|well]]. But, as an individual who desires to be true
+to herself in her own poor position, whatever that position may be, or
+may not be—and as the sister of my brother—and as the sister-in-law of
+my brother’s wife—and as a connexion by [[Marriage|marriage]] of my brother’s wife’s
+mother—may I be permitted to add, as a Dombey?—I can wish you nothing
+else but good morning.”

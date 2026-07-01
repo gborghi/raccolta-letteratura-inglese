@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 33 (part 4)"
+title: "Dombey and Son — Chapter 61 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,116 +14,115 @@ tags:
 </nav>
 
 
-“What are they?” she inquired.
+Edith, as if she fell beneath her touch, sunk down on her knees, and
+caught her round the neck.
 
-“The first, that if you should see cause to change your resolution, you
-will suffer me to be as your right hand. My name shall then be at your
-service; it is useless now, and always insignificant.”
+“Florence!” she cried. “My better angel! Before I am mad again, before
+my stubbornness comes back and strikes me dumb, believe me, upon my
+[[Soul|soul]] I am [[Innocent|innocent]]!”
 
-“Our choice of friends,” she answered, smiling faintly, “is not so
-great, that I need any [[Time|time]] for consideration. I can promise that.”
+“Mama!”
 
-“The second, that you will allow me sometimes, say every Monday
-morning, at nine o’[[Clock|clock]]—habit again—I must be businesslike,” said the
-gentleman, with a whimsical inclination to quarrel with himself on that
-head, “in walking past, to see you at the door or [[Window|window]]. I don’t ask
-to come in, as your brother will be gone out at that hour. I don’t ask
-to speak to you. I merely ask to see, for the satisfaction of my own
-mind, that you are [[Well|well]], and without intrusion to remind you, by the
-sight of me, that you have a friend—an elderly friend, grey-haired
-already, and fast growing greyer—whom you may ever command.”
+“Guilty of much! Guilty of that which sets a waste between us evermore.
+Guilty of what must separate me, through the whole remainder of my
+life, from purity and [[innocence]]—from you, of all the earth. Guilty of a
+blind and passionate resentment, of which I do not, cannot, will not,
+even now, repent; but not guilty with that dead man. Before God!”
 
-The cordial face looked up in his; confided in it; and promised.
+Upon her knees upon the ground, she held up both her hands, and swore
+it.
 
-“I understand, as before,” said the gentleman, rising, “that you
-purpose not to mention my visit to John Carker, lest he should be at
-all distressed by my acquaintance with his [[history]]. I am glad of it,
-for it is out of the ordinary course of things, and—habit again!” said
-the gentleman, checking himself impatiently, “as if there were no
-better course than the ordinary course!”
+“Florence!” she said, “purest and best of natures,—whom I [[Love|love]]—who
+might have changed me long ago, and did for a [[Time|time]] work some change
+even in the woman that I am,—believe me, I am [[Innocent|innocent]] of that; and
+once more, on my desolate heart, let me lay this dear head, for the
+last [[Time|time]]!”
 
-With that he turned to go, and walking, bareheaded, to the outside of
-the little porch, took leave of her with such a happy mixture of
-unconstrained respect and unaffected interest, as no breeding could
-have taught, no [[Truth|truth]] mistrusted, and nothing but a pure and single
-heart expressed.
+She was moved and weeping. Had she been oftener thus in older days, she
+had been happier now.
 
-Many half-forgotten emotions were awakened in the sister’s mind by this
-visit. It was so very long since any other visitor had crossed their
-threshold; it was so very long since any voice of apathy had made sad
-music in her ears; that the stranger’s figure remained present to her,
-hours afterwards, when she sat at the [[Window|window]], plying her needle; and
-his words seemed newly spoken, again and again. He had touched the
-[[Spring|spring]] that opened her whole life; and if she lost him for a short
-space, it was only among the many shapes of the one great recollection
-of which that life was made.
+“There is nothing else in all the world,” she said, “that would have
+wrung denial from me. No [[Love|love]], no hatred, no [[Hope|hope]], no threat. I said
+that I would die, and make no sign. I could have done so, and I would,
+if we had never met, Florence.”
 
-Musing and working by turns; now constraining herself to be steady at
-her needle for a long [[Time|time]] together, and now letting her work fall,
-unregarded, on her lap, and straying wheresoever her busier thoughts
-led, Harriet Carker found the hours glide by her, and the day steal on.
-The morning, which had been bright and clear, gradually became
-overcast; a sharp [[Wind|wind]] set in; the rain fell heavily; and a dark mist
-drooping over the distant town, hid it from the view.
+“I trust,” said Cousin Feenix, ambling in at the door, and speaking,
+half in the room, and half out of it, “that my lovely and accomplished
+relative will excuse my having, by a little stratagem, effected this
+meeting. I cannot say that I was, at first, wholly incredulous as to
+the possibility of my lovely and accomplished relative having, very
+unfortunately, committed herself with the deceased person with white
+teeth; because in point of fact, one does see, in this world—which is
+remarkable for devilish strange arrangements, and for being decidedly
+the most unintelligible thing within a man’s experience—very odd
+conjunctions of that sort. But as I mentioned to my friend Dombey, I
+could not admit the criminality of my lovely and accomplished relative
+until it was perfectly established. And feeling, when the deceased
+person was, in point of fact, destroyed in a devilish horrible manner,
+that her position was a very painful one—and feeling besides that our
+family had been a little to blame in not paying more attention to her,
+and that we are a careless family—and also that my aunt, though a
+devilish lively woman, had perhaps not been the very best of mothers—I
+took the liberty of seeking her in France, and offering her such
+protection as a man very much out at elbows could offer. Upon which
+occasion, my lovely and accomplished relative did me the [[Honour|honour]] to
+express that she believed I was, in my way, a devilish good sort of
+fellow; and that therefore she put herself under my protection. Which
+in point of fact I understood to be a kind thing on the part of my
+lovely and accomplished relative, as I am getting extremely shaky, and
+have derived great comfort from her solicitude.”
 
-She often looked with compassion, at such a [[Time|time]], upon the stragglers
-who came wandering into [[London]], by the great highway hard by, and who,
-footsore and weary, and gazing fearfully at the huge town before them,
-as if foreboding that their misery there would be but as a drop of
-[[Water|water]] in the sea, or as a grain of sea-sand on the shore, went
-shrinking on, cowering before the angry weather, and looking as if the
-very elements rejected them. Day after day, such travellers crept past,
-but always, as she thought, in one direction—always towards the town.
-Swallowed up in one phase or other of its immensity, towards which they
-seemed impelled by a desperate fascination, they never returned. Food
-for the hospitals, the churchyards, the prisons, the [[River|river]], fever,
-[[Madness|madness]], vice, and [[Death|death]],—they passed on to the [[Monster|monster]], roaring in the
-distance, and were lost.
+Edith, who had taken Florence to a sofa, made a gesture with her hand
+as if she would have begged him to say no more.
 
-[Illustration]
+“My lovely and accomplished relative,” resumed Cousin Feenix, still
+ambling about at the door, “will excuse me, if, for her satisfaction,
+and my own, and that of my friend Dombey, whose lovely and accomplished
+daughter we so much admire, I complete the thread of my observations.
+She will remember that, from the first, she and I never alluded to the
+subject of her elopement. My impression, certainly, has always been,
+that there was a mystery in the affair which she could explain if so
+inclined. But my lovely and accomplished relative being a devilish
+resolute woman, I knew that she was not, in point of fact, to be
+trifled with, and therefore did not involve myself in any discussions.
+But, observing lately, that her accessible point did appear to be a
+very strong description of tenderness for the daughter of my friend
+Dombey, it occurred to me that if I could bring about a meeting,
+unexpected on both sides, it might lead to beneficial results.
+Therefore, we being in [[London]], in the present private way, before going
+to the South of [[Italy]], there to establish ourselves, in point of fact,
+until we go to our long homes, which is a devilish disagreeable
+reflection for a man, I applied myself to the discovery of the
+residence of my friend Gay—handsome man of an uncommonly frank
+disposition, who is probably known to my lovely and accomplished
+relative—and had the happiness of bringing his amiable wife to the
+present place. And now,” said Cousin Feenix, with a real and genuine
+earnestness shining through the levity of his manner and his slipshod
+speech, “I do conjure my relative, not to stop half way, but to set
+right, as far as she can, whatever she has done wrong—not for the
+[[Honour|honour]] of her family, not for her own fame, not for any of those
+considerations which unfortunate circumstances have induced her to
+regard as hollow, and in point of fact, as approaching to humbug—but
+because it is wrong, and not right.”
 
-The chill [[Wind|wind]] was howling, and the rain was falling, and the day was
-darkening moodily, when Harriet, raising her eyes from the work on
-which she had long since been engaged with unremitting constancy, saw
-one of these travellers approaching.
+Cousin Feenix’s legs consented to take him away after this; and leaving
+them [[Alone|alone]] together, he shut the door.
 
-A woman. A solitary woman of some thirty years of age; tall;
-[[Well|well]]-formed; handsome; miserably dressed; the soil of many country
-roads in varied weather—[[Dust|dust]], [[chalk]], clay, gravel—clotted on her grey
-cloak by the streaming wet; no bonnet on her head, nothing to defend
-her rich black hair from the rain, but a torn handkerchief; with the
-fluttering ends of which, and with her hair, the [[Wind|wind]] blinded her so
-that she often stopped to push them back, and look upon the way she was
-going.
+Edith remained silent for some minutes, with Florence sitting close
+beside her. Then she took from her bosom a sealed paper.
 
-She was in the act of doing so, when Harriet observed her. As her
-hands, parting on her sunburnt forehead, swept across her face, and
-threw aside the hindrances that encroached upon it, there was a
-reckless and regardless [[Beauty|beauty]] in it: a dauntless and depraved
-indifference to more than weather: a carelessness of what was cast upon
-her bare head from Heaven or earth: that, coupled with her misery and
-[[Loneliness|loneliness]], touched the heart of her fellow-woman. She thought of all
-that was perverted and debased within her, no less than without: of
-modest graces of the mind, hardened and steeled, like these attractions
-of the person; of the many gifts of the Creator flung to the winds like
-the wild hair; of all the beautiful ruin upon which the [[Storm|storm]] was
-beating and the [[Night|night]] was coming.
+“I debated with myself a long [[Time|time]],” she said in a low voice, “whether
+to write this at all, in case of dying suddenly or by accident, and
+feeling the want of it upon me. I have deliberated, ever since, when
+and how to destroy it. Take it, Florence. The [[Truth|truth]] is written in it.”
 
-Thinking of this, she did not turn away with a delicate indignation—too
-many of her own compassionate and tender sex too often do—but pitied
-her.
+“Is it for Papa?” asked Florence.
 
-Her fallen sister came on, looking far before her, trying with her
-eager eyes to pierce the mist in which the [[City|city]] was enshrouded, and
-glancing, now and then, from side to side, with the bewildered—and
-uncertain aspect of a stranger. Though her tread was bold and
-courageous, she was fatigued, and after a moment of irresolution,—sat
-down upon a heap of stones; seeking no shelter from the rain, but
-letting it rain on her as it would.
+“It is for whom you will,” she answered. “It is given to you, and is
+obtained by you. He never could have had it otherwise.”
 
-She was now opposite the [[house]]; raising her head after resting it for a
-moment on both hands, her eyes met those of Harriet.
+Again they sat silent, in the deepening darkness.
 
-In a moment, Harriet was at the door; and the other, rising from her
-seat at her beck, came slowly, and with no conciliatory look, towards
-her.
+“Mama,” said Florence, “he has lost his fortune; he has been at the
+point of [[Death|death]]; he may not recover, even now. Is there any word that I
+shall say to him from you?”

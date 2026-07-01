@@ -14,6 +14,22 @@ tags:
 </nav>
 
 
+But whatever may be thought of such supernaturalism in the comparatively
+material and popular sense of [[Supernatural|supernatural]] acts, we shall miss the whole
+point of St. Francis, especially of St. Francis after Alverno,
+if we do not realise that he was living a [[Supernatural|supernatural]] life.
+And there is more and more of such supernaturalism in his life
+as he approaches towards his [[Death|death]].  This element of the [[Supernatural|supernatural]]
+did not separate him from the natural; for it was the whole point
+of his position that it united him more perfectly to the natural.
+It did not make him dismal or dehumanised; for it was the whole meaning
+of his message that such mysticism makes a man cheerful and humane.
+But it was the whole point of his position, and it was the whole meaning
+of his message, that the power that did it was a [[Supernatural|supernatural]] power.
+If this simple distinction were not apparent from the whole of his life,
+it would be difficult for any one to miss it in reading the account
+of his [[Death|death]].
+
 In a sense he may be said to have wandered as a dying man, just as he had
 wandered as a living one.  As it became more and more apparent that his
 health was failing, he seems to have been carried from place to place

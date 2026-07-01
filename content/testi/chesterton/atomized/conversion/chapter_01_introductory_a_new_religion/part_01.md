@@ -1,5 +1,5 @@
 ---
-title: "[[conversion]] — Chapter 1: INTRODUCTORY:  A NEW RELIGION (part 1)"
+title: "conversion — Chapter 1: INTRODUCTORY:  A NEW RELIGION (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/conversion-(chesterton)"
@@ -30,7 +30,7 @@ They talk of the "advanced" party in the Church of England;
 they talk of the "aggression" of the Church of Rome.  When they
 talk of an Extremist they are as likely to mean a Ritualist
 as a Socialist.  Given any normal respectable Protestant family,
-Anglican or Puritan, in England or [[america|America]], we shall find
+Anglican or Puritan, in England or [[America]], we shall find
 that Catholicism is actually for practical purposes treated
 as a new religion, that is, a revolution.  It is not a [[Survival|survival]].
 It is not in that sense an antiquity.  It does not necessarily

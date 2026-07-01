@@ -1,5 +1,5 @@
 ---
-title: "[[CharlesDickens]] — Chapter 8 (part 4)"
+title: "CharlesDickens — Chapter 8 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/charlesdickens-(chesterton)"
@@ -13,6 +13,29 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/charlesdickens/chapter_11/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/charlesdickens/chapter_11/part_05">part 05 ›</a></div>
 </nav>
 
+
+For though there are many other aspects of "[[David Copperfield]],"
+this autobiographical aspect is, after all, the greatest.
+The point of the book is that, unlike all the other books
+of Dickens, it is concerned with quite common actualities, but it
+is concerned with them warmly and with the warlike sympathies.
+It is not only both realistic and romantic; it is realistic
+because it is romantic.  It is human [[Nature|nature]] described with the
+human exaggeration.  We all know the actual types in the book;
+they are not like the turgid and preternatural types elsewhere
+in Dickens.  They are not purely poetic creations like Mr. Kenwigs
+or Mr. Bunsby.  We all know that they exist.  We all know
+the stiff-necked and humorous old-fashioned [[Nurse|nurse]], so conventional
+and yet so original, so dependent and yet so independent.
+We all know the intrusive stepfather, the abstract strange male,
+coarse, handsome, sulky, successful, a breaker-up of homes.
+We all know the erect and sardonic spinster, the spinster
+who is so mad in small things and so sane in great ones.
+We all know the cock of the school; we all know Steerforth,
+the creature whom the gods [[Love|love]] and even the servants respect.
+We know his poor and aristocratic mother, so proud, so gratified,
+so desolate.  We know the Rosa Dartle type, the lonely woman
+in whom affection itself has stagnated into a sort of [[Poison|poison]].
 
 But while these are real characters they are real
 characters lit up with the colours of youth and passion.
@@ -103,24 +126,3 @@ fierce certainties and battles between good and ill--his own.  Oh yes,
 the life we do not care about may easily be a psychological [[Comedy|comedy]].
 Other people's lives may easily be human documents.
 But a man's own life is always a [[Melodrama|melodrama]]."
-
-There are other effective things in "[[David Copperfield]];" they are
-not all autobiographical, but they nearly all have this new note
-of quietude and reality.  Micawber is gigantic; an immense assertion
-of the [[Truth|truth]] that the way to live is to exaggerate everything.
-But of him I shall have to speak more fully in another connection.
-Mrs. Micawber, artistically speaking, is even better.  She is very
-nearly the best thing in Dickens.  Nothing could be more absurd,
-and at the same [[Time|time]] more true, than her clear argumentative manner
-of speech as she sits smiling and expounding in the midst of ruin.
-What could be more lucid and logical and unanswerable than her
-statement of the prolegomena of the Medway problem, of which
-the first step must be to "see the Medway," or of the coal-trade,
-which required talent and capital.  "Talent Mr. Micawber has.
-Capital Mr. Micawber has not."  It seems as if something should have come
-at last out of so clear and scientific an arrangement of the ideas.
-Indeed if (as has been suggested) we regard "[[David Copperfield]]"
-as an unconscious defence of the poetic view of life, we might regard
-Mrs. Micawber as an unconscious [[Satire|satire]] on the logical view of life.
-She sits as a monument of the hopelessness and helplessness of reason
-in the face of this romantic and unreasonable world.

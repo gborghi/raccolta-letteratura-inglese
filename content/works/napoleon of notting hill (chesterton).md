@@ -69,10 +69,10 @@ tags:
 - [Chapter 13](/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_13)
 - [Chapter 14](/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_14)
 - [Chapter 15](/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_15)
-- [Chapter 16](/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_16)
-- [Chapter 17](/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_17)
-- [Chapter 18](/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_18)
-- [Chapter 19](/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_19)
+- Chapter 16
+- Chapter 17
+- Chapter 18
+- Chapter 19
 
 ## Testo integrale / Full text
 

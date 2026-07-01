@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]] — Slum Novelists and the Slums (part 1)"
+title: "heret12 — Slum Novelists and the Slums (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/heret12-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 XIX.  Slum Novelists and the Slums
-
 
 Odd ideas are entertained in our [[Time|time]] about the real [[Nature|nature]] of the doctrine
 of human fraternity.  The real doctrine is something which we do not,
@@ -40,8 +39,8 @@ practice of not kicking the butler downstairs.
 It is only because such a vast section of the modern world is
 out of sympathy with the serious democratic sentiment that this
 statement will seem to many to be lacking in seriousness.
-[[Democracy]] is not philanthropy; it is not even altruism or social [[Reform|reform]].
-[[Democracy]] is not founded on pity for the [[Common Man|common man]]; [[Democracy|democracy]] is
+[[democracy|Democracy]] is not philanthropy; it is not even altruism or social [[Reform|reform]].
+[[democracy|Democracy]] is not founded on pity for the [[Common Man|common man]]; [[democracy]] is
 founded on reverence for the [[Common Man|common man]], or, if you will, even on
 [[Fear|fear]] of him.  It does not champion man because man is so miserable,
 but because man is so [[Sublime|sublime]].  It does not object so much
@@ -116,8 +115,8 @@ men who happened to be born paupers or middle-class gentlemen.
 That mob of peers did really represent the English people--
 that is to say, it was honest, ignorant, vaguely excited,
 almost unanimous, and obviously wrong.  Of course,
-rational [[Democracy|democracy]] is better as an expression of the public will
+rational [[democracy]] is better as an expression of the public will
 than the haphazard hereditary method.  While we are about having
-any kind of [[Democracy|democracy]], let it be rational [[Democracy|democracy]].  But if we
+any kind of [[democracy]], let it be rational [[democracy]].  But if we
 are to have any kind of oligarchy, let it be irrational oligarchy.
 Then at least we shall be ruled by men.

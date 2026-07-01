@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 37 (part 5)"
+title: "Nicholas Nickleby — Chapter 37 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,21 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_37/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_37/part_06">part 06 ›</a></div>
 </nav>
 
+
+At half-past ten--late hours for the square--there appeared a little
+tray of sandwiches and a bowl of bishop, which bishop coming on the top
+of the [[Double|double]]-diamond, and other excitements, had such an effect
+upon Tim Linkinwater, that he drew Nicholas aside, and gave him to
+understand, confidentially, that it was quite true about the uncommonly
+handsome spinster, and that she was to the full as good-looking as she
+had been described--more so, indeed--but that she was in too much of a
+hurry to change her condition, and consequently, while Tim was courting
+her and thinking of changing his, got married to somebody else. ‘After
+all, I dare say it was my fault,’ said Tim. ‘I’ll show you a print
+I have got upstairs, one of these days. It cost me five-and-twenty
+shillings. I bought it soon after we were cool to each other. Don’t
+mention it, but it’s the most extraordinary accidental likeness you ever
+saw--her very portrait, sir!’
 
 By this [[Time|time]] it was past eleven o’[[Clock|clock]]; and Tim Linkinwater’s sister
 declaring that she ought to have been at [[Home|home]] a full hour ago, a coach
@@ -58,7 +73,7 @@ very much so, and really I don’t know why it should not be, if it’s
 depends upon that.’
 
 With which preface, Mrs. Nickleby took her nightcap from between the
-[[Leaves|leaves]] of a very large [[Prayer|prayer]]-book where it had been folded up small,
+[[Leaves|leaves]] of a very large [[prayer]]-book where it had been folded up small,
 and proceeded to tie it on: talking away in her usual discursive manner,
 all the [[Time|time]].
 
@@ -100,24 +115,3 @@ naturally anxious about it, and of course it’s a very delightful and
 consoling thing to have a grown-up son that one can put confidence in,
 and advise with; indeed I don’t know any use there would be in having
 sons at all, unless people could put confidence in them.’
-
-Nicholas stopped in the middle of a sleepy yawn, as his mother began to
-speak: and looked at her with fixed attention.
-
-‘There was a lady in our neighbourhood,’ said Mrs. Nickleby, ‘speaking
-of sons puts me in mind of it--a lady in our neighbourhood when we lived
-near Dawlish, I think her name was Rogers; indeed I am sure it was if it
-wasn’t Murphy, which is the only [[Doubt|doubt]] I have--’
-
-‘Is it about her, mother, that you wished to speak to me?’ said Nicholas
-quietly.
-
-‘About HER!’ cried Mrs. Nickleby. ‘Good gracious, Nicholas, my dear, how
-CAN you be so ridiculous! But that was always the way with your poor
-dear papa,--just his way--always wandering, never able to fix his
-thoughts on any one subject for two minutes together. I think I see him
-now!’ said Mrs. Nickleby, wiping her eyes, ‘looking at me while I was
-talking to him about his affairs, just as if his ideas were in a state
-of perfect conglomeration! Anybody who had come in upon us suddenly,
-would have supposed I was confusing and distracting him instead of
-making things plainer; upon my word they would.’

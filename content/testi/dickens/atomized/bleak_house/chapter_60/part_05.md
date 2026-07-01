@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 60 (part 5)"
+title: "Bleak House — Chapter 60 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,29 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_60/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_61/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Esther, my dearest,” she said, breaking [[Silence|silence]], “[[Richard]] is never
+so [[Well|well]] and I am never so easy about him as when he is with Allan
+Woodcourt. We have to thank you for that.”
+
+I pointed out to my darling how this could scarcely be, because Mr.
+Woodcourt had come to her cousin John’s [[house]] and had known us all
+there, and because he had always liked [[Richard]], and [[Richard]] had
+always liked him, and—and so forth.
+
+“All true,” said Ada, “but that he is such a devoted friend to us we
+owe to you.”
+
+I thought it best to let my dear girl have her way and to say no more
+about it. So I said as much. I said it lightly, because I felt her
+trembling.
+
+“Esther, my dearest, I want to be a good wife, a very, very good wife
+indeed. You shall teach me.”
+
+I teach! I said no more, for I noticed the hand that was fluttering
+over the keys, and I knew that it was not I who ought to speak, that
+it was she who had something to say to me.
 
 “When I married [[Richard]] I was not insensible to what was before him.
 I had been perfectly happy for a long [[Time|time]] with you, and I had never

@@ -50,7 +50,7 @@ and narrows; not the part which is Parisian--and universal.
 You can find there (as commonly happens in modern centres)
 the worst things of all nations--the DAILY MAIL from England,
 the cheap philosophies from [[Germany]], the loose novels of France,
-and the drinks of [[America]].  But there is no English broad fun,
+and the drinks of [[america|America]].  But there is no English broad fun,
 no German kindly ceremony, no American exhilaration, and,
 above all, no French tradition of fighting for an idea.
 Though all the boulevards look like Parisian boulevards,

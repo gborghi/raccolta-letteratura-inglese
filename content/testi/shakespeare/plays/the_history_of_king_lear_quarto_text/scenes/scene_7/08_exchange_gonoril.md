@@ -1,5 +1,5 @@
 ---
-title: "The [[history|History]] of [[King Lear]] (Quarto Text) — Scene 7 — exchange (GONORIL) [8]"
+title: "The History of King Lear (Quarto Text) — Scene 7 — exchange (GONORIL) [8]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-history-of-king-lear---the-quarto-text-(shakespeare)"

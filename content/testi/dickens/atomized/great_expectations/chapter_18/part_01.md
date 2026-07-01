@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 18 (part 1)"
+title: "Great Expectations — Chapter 18 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -105,7 +105,7 @@ advisers instructed him altogether to reserve his defence?”
 “I read that just now,” Mr. Wopsle pleaded.
 
 “Never mind what you read just now, sir; I don’t ask you what you read
-just now. You may read the Lord’s [[Prayer]] backwards, if you like,—and,
+just now. You may read the Lord’s [[prayer|Prayer]] backwards, if you like,—and,
 perhaps, have done it before to-day. Turn to the paper. No, no, no my
 friend; not to the top of the column; you know better than that; to the
 [[Bottom|bottom]], to the [[Bottom|bottom]].” (We all began to think Mr. Wopsle full of

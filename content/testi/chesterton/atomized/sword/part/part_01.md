@@ -1,5 +1,5 @@
 ---
-title: "[[Sword]] (part 1)"
+title: "Sword (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/sword-(chesterton)"
@@ -120,6 +120,3 @@ because they were her own.  Nothing else was notable about her,
 except that she was pretty and seemed rather in a hurry;
 and that her delicate profile was pointed resolutely up the [[Road|road]].
 The face was a little pale.
-
-Tryon turned again to look back on his tracks; and this [[Time|time]] saw
-another figure more formidable than Jeremy with the wooden [[Sword|sword]].

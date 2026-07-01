@@ -73,7 +73,7 @@ erratic, and unrepresentative of any general dramatic activity.
 One or two insanely expensive works prove nothing about the general
 state of art in a country.  To take the parallel of a performance
 somewhat less dignified, perhaps, than Sir Herbert Tree's, there has
-lately been in [[America]] an exhibition not unanalogous to a conflict
+lately been in [[america|America]] an exhibition not unanalogous to a conflict
 in the arena, and one for which a real negro actually was procured
 by the management.  The negro happened to beat the white man, and both
 before and after this event people went about wildly talking of "the

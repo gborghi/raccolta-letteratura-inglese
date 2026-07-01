@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 16 (part 1)"
+title: "The Tenant of Wildfell Hall — Chapter 16 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -227,13 +227,3 @@ partners, while there are so many of the other sex to match them; but
 do _you_ follow my advice. And this is no subject for jesting, [[Helen]]—I
 
 am sorry to see you treat the matter in that light way. Believe me,
-
-_matrimony is a serious thing_.” And she spoke it _so_ seriously, that
-
-one might have fancied she had known it to her cost; but I asked no
-
-more impertinent questions, and merely answered,—
-
-
-
-“I know it is; and I know there is [[Truth|truth]] and sense in what you say; but

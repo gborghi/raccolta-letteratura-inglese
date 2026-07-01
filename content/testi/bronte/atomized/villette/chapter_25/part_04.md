@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 25 (part 4)"
+title: "Villette — Chapter 25 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,43 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_25/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_27/part_01">part 01 ›</a></div>
 </nav>
 
+
+“I don’t at all.”
+
+“It is enormous, papa; it can never be got over; it is as large as you
+in your greatcoat, and the snowdrift on the top.”
+
+“And, like that snowdrift, capable of melting?”
+
+“No! it is of too—too solid flesh: it is just your own [[Self|self]]. Miss Lucy,
+warn [[Madame Beck]] not to listen to any overtures about taking me,
+because, in the end, it would turn out that she would have to take papa
+too: as he is so teasing, I will just tell tales about him. Mrs.
+Bretton and all of you listen: About five years ago, when I was twelve
+years old, he took it into his head that he was spoiling me; that I was
+growing unfitted for the world, and I don’t know what, and nothing
+would serve or satisfy him, but I must go to school. I cried, and so
+on; but M. de Bassompierre proved hard-hearted, quite firm and flinty,
+and to school I went. What was the result? In the most admirable
+manner, papa came to school likewise: every other day he called to see
+me. Madame Aigredoux grumbled, but it was of no use; and so, at last,
+papa and I were both, in a manner, expelled. Lucy can just tell Madame
+Beck this little trait: it is only fair to let her know what she has to
+expect.”
+
+Mrs. Bretton asked Mr. [[Home]] what he had to say in answer to this
+statement. As he made no defence, judgment was given against him, and
+[[Paulina]] triumphed.
+
+But she had other moods besides the arch and naïve. After breakfast;
+when the two elders withdrew—I suppose to talk over certain of Mrs.
+Bretton’s business matters—and the Countess, Dr. Bretton, and I, were
+for a short [[Time|time]] [[Alone|alone]] together—all the [[Child|child]] left her; with us, more
+nearly her companions in age, she [[Rose|rose]] at once to the little lady: her
+very face seemed to alter; that play of feature, and candour of look,
+which, when she spoke to her father, made it quite dimpled and round,
+yielded to an aspect more thoughtful, and lines distincter and less
+_mobile_.
 
 No [[Doubt|doubt]] Graham noted the change as [[Well|well]] as I. He stood for some
 minutes near the [[Window|window]], looking out at the [[Snow|snow]]; presently he

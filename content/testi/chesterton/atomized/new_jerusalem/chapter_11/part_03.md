@@ -50,7 +50,7 @@ in fighting another nation than in fighting another [[Faith|faith]].
 The Crusader is in every sense more rational than the modern
 conscript or professional soldier.  He is more rational in
 his object, which is the intelligent and intelligible object
-of [[Conversion|conversion]]; where the modern militarist has an object much
+of [[conversion]]; where the modern militarist has an object much
 more confused by momentary [[Vanity|vanity]] and one-sided satisfaction.
 The Crusader wished to make Jerusalem a Christian town;
 but the Englishman does not wish to make Berlin an English town.
@@ -63,7 +63,7 @@ this purpose, but the purpose itself is looser and more irrational.
 The object of all war is peace; but the object of religious
 war is mental as [[Well|well]] as material peace; it is agreement.
 In short religious war aims ultimately at equality, where national
-war aims relatively at superiority.  [[Conversion]] is the one sort
+war aims relatively at superiority.  [[conversion|Conversion]] is the one sort
 of conquest in which the conquered must rejoice.
 
 In that sense [[Alone|alone]] it is foolish for us in the West to sneer

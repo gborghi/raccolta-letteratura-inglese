@@ -122,7 +122,7 @@ rushing by.
 I returned at [[Night|night]] by the same railroad and in the same kind of car.
 One of the passengers being exceedingly anxious to expound at great
 length to my companion (not to me, of course) the true principles on
-which books of travel in [[America]] should be written by Englishmen, I
+which books of travel in [[america|America]] should be written by Englishmen, I
 feigned to fall asleep.  But glancing all the way out at [[Window|window]] from the
 corners of my eyes, I found abundance of entertainment for the rest of
 the ride in watching the effects of the wood [[Fire|fire]], which had been

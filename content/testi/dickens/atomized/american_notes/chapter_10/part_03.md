@@ -73,7 +73,7 @@ I saw in this place the whole process of picking, [[rolling]], pressing,
 drying, packing in casks, and branding.  All the tobacco thus dealt with,
 was in course of manufacture for chewing; and one would have supposed
 there was enough in that one storehouse to have filled even the
-comprehensive jaws of [[America]].  In this form, the weed looks like the
+comprehensive jaws of [[america|America]].  In this form, the weed looks like the
 oil-cake on which we fatten cattle; and even without reference to its
 consequences, is sufficiently uninviting.
 

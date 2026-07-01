@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 8 (part 3)"
+title: "Wuthering Heights — Chapter 8 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -13,6 +13,21 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_08/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_09/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Order Ellen to say you are engaged, Cathy,” he persisted; “don’t turn
+me out for those pitiful, silly friends of yours! I’m on the point,
+sometimes, of complaining that they—but I’ll not—”
+
+“That they what?” cried Catherine, gazing at him with a troubled
+countenance. “Oh, Nelly!” she added petulantly, jerking her head away
+from my hands, “you’ve combed my hair quite out of curl! That’s enough;
+let me [[Alone|alone]]. What are you on the point of complaining about,
+[[Heathcliff]]?”
+
+“Nothing—only look at the almanack on that wall;” he pointed to a
+framed sheet hanging near the [[Window|window]], and continued, “The crosses are
+for the evenings you have spent with the Lintons, the dots for those
+spent with me. Do you see? I’ve marked every day.”
 
 “Yes—very foolish: as if I took notice!” replied Catherine, in a
 peevish tone. “And where is the sense of that?”

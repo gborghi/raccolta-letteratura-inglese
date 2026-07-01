@@ -1,5 +1,5 @@
 ---
-title: "[[TheCrimesOfEngland]] — Chapter 10 (part 30)"
+title: "TheCrimesOfEngland — Chapter 10 (part 30)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thecrimesofengland-(chesterton)"
@@ -14,226 +14,172 @@ tags:
 </nav>
 
 
+already surrendered to Krupp. Through every cogwheel in that
+
+incomparable machinery, through every link in that iron and unending
+
+chain, ran the mastery and the skill of a certain kind of [[artist]]; an
+
+[[artist]] whose hands are never idle through dreaming or drawn back in
+
+disgust or lifted in [[Wonder|wonder]] or in wrath; but sure and tireless in their
+
+touch upon the thousand little things that make the invisible machinery
+
+of life. That [[artist]] was there in triumph; but he had no name. The
+
+ancient world called him the Slave.
+
+From this advancing [[Machine|machine]] of millions, the slighter array of the
+
+Allies, and especially the British at their ultimate outpost, saved
+
+themselves by a succession of hair's-breadth escapes and what must have
+
+seemed to the soldiers the heartrending luck of a mouse before a cat.
+
+Again and again Von Kluck's cavalry, supported by artillery and
+
+infantry, clawed round the end of the British force, which eluded it as
+
+by leaping back again and again. Sometimes the pursuer was, so to speak,
+
+so much on top of his prey that it could not even give way to him; but
+
+had to hit such blows as it could in the [[Hope|hope]] of checking him for the
+
+instant needed for escape. Sometimes the oncoming wave was so close that
+
+a small individual accident, the capture of one man, would mean the
+
+washing out of a whole battalion. For day after day this living [[Death|death]]
+
+endured. And day after day a certain dark [[Truth|truth]] began to be revealed,
+
+bit by bit, certainly to the incredulous [[Wonder|wonder]] of the Prussians, quite
+
+possibly to the surprise of the French, and quite as possibly to the
+
+surprise of themselves; that there was something singular about the
+
+British soldiers. That singular thing may be expressed in a variety of
+
+ways; but it would be almost certainly expressed insufficiently by
+
+anyone who had not had the moral [[Courage|courage]] to face the facts about his
+
+country in the last decades before the war. It may perhaps be best
+
+expressed by saying that some thousands of Englishmen were dead: and
+
+that England was not.
+
+The fortress of Maubeuge had gaped, so to speak, offering a refuge for
+
+the unresting and tormented retreat; the British Generals had refused it
+
+and continued to fight a losing fight in the open for the sake of the
+
+common plan. At [[Night|night]] an enormous multitude of Germans had come
+
+unexpectedly through the forest and caught a smaller [[Body|body]] of the British
+
+in Landrecies; failed to dislodge them and lost a whole battalion in
+
+that battle of the darkness. At the extreme end of the line
+
+[[smith|Smith]]-Dorrien's division, who seemed to be nearly caught or cut off, had
+
+fought with one gun against four, and so hammered the Germans that they
+
+were forced to let go their hold; and the British were again free. When
+
+the blowing up of a bridge announced that they had crossed the last
+
+[[River|river]], something other than that battered remnant was saved; it was the
+
+[[Honour|honour]] of the thing by which we live.
+
+The driven and defeated line stood at last almost under the walls of
+
+[[Paris]]; and the world waited for the doom of the [[City|city]]. The gates seemed
+
+to stand open; and the Prussian was to ride into it for the third and
+
+the last [[Time|time]]: for the end of its long [[Epic|epic]] of liberty and equality was
+
+come. And still the very able and very French individual on whom rested
+
+the last [[Hope|hope]] of the seemingly hopeless Alliance stood unruffled as a
+
+rock, in every angle of his sky-blue jacket and his bulldog figure. He
+
+had called his bewildered soldiers back when they had broken the
+
+invasion at Guise; he had silently digested the responsibility of
+
+dragging on the retreat, as in [[Despair|despair]], to the last desperate leagues
+
+before the capital; and he stood and watched. And even as he watched the
+
+whole huge invasion swerved.
+
+Out through [[Paris]] and out and around beyond [[Paris]], other men in dim blue
+
+coats swung out in long lines upon the plain, slowly folding upon Von
+
+Kluck like blue wings. Von Kluck stood an instant; and then, flinging a
+
+few secondary forces to delay the wing that was swinging round on him,
+
+dashed across the Allies' line at a desperate angle, to smash it in the
+
+centre as with a hammer. It was less desperate than it seemed; for he
+
+counted, and might [[Well|well]] count, on the moral and physical bankruptcy of
+
+the British line and the end of the French line immediately in front of
+
+him, which for six days and nights he had chased before him like [[Autumn|autumn]]
+
+[[Leaves|leaves]] before a whirlwind. Not unlike [[Autumn|autumn]] [[Leaves|leaves]], red-stained,
+
+[[Dust|dust]]-hued, and tattered, they lay there as if swept into a corner. But
+
+even as their conquerors wheeled eastwards, their bugles blew the
+
+charge; and the English went forward through the wood that is called
+
+Creçy, and stamped it with their seal for the second [[Time|time]], in the
+
+highest moment of all the secular [[history]] of man.
+
+But it was not now the Creçy in which English and French knights had met
+
+in a more coloured age, in a battle that was rather a tournament. It was
+
+a league of all knights for the remains of all knighthood, of all
+
+brotherhood in arms or in arts, against that which is and has been
+
+radically unknightly and radically unbrotherly from the beginning. Much
+
+was to happen after--murder and flaming folly and [[Madness|madness]] in earth and
+
+sea and sky; but all men knew in their hearts that the third Prussian
+
+thrust had failed, and Christendom was delivered once more. The empire
+
+of [[Blood|blood]] and iron rolled slowly back towards the darkness of the
+
+northern forests; and the great nations of the West went forward; where
+
+side by side as after a long [[Lover|lover]]'s quarrel, went the ensigns of St.
+
+Denys and St. George.
+
+_NOTE ON THE WORD "ENGLISH"_
+
+_The words "England" and "English" as used here require a word of
+
 explanation, if only to anticipate the ire of the inevitable Scot. To
-
-begin with, the word "British" involves a similar awkwardness. I have
-
-tried to use it in the one or two cases that referred to such things as
-
-military glory and [[unity]]: though I am sure I have failed of full
-
-consistency in so complex a matter. The difficulty is that this sense of
-
-glory and [[unity]], which should certainly cover the Scotch, should also
-
-cover the Irish. And while it is fairly safe to call a Scotsman a North
-
-Briton (despite the just protest of Stevenson), it is very unsafe indeed
-
-to call an Irishman a West Briton. But there is a deeper difficulty. I
-
-can assure the Scot that I say "England," not because I deny Scottish
-
-nationality, but because I affirm it. And I can say, further, that I
-
-could not here include Scots in the thesis, simply because I could not
-
-include them in the condemnation. This book is a study, not of a disease
-
-but rather of a weakness, which has only been predominant in the
-
-predominant partner. It would not be true, for instance, to say either
-
-of Ireland or Scotland that the populace lacked a religion; but I do
-
-think that British policy as a whole has suffered from the English lack
-
-of one, with its inevitable result of plutocracy and class contempt_.
-
-
-
-
-
-
-
-
-
-
-
-
-
-End of Project Gutenberg's The Crimes of England, by G.K. Chesterton
-
-
-
-*** END OF THIS PROJECT GUTENBERG EBOOK THE CRIMES OF ENGLAND ***
-
-
-
-***** This file should be named 11554-8.txt or 11554-8.zip *****
-
-This and all associated files of various formats will be found in:
-
-        http://www.gutenberg.net/1/1/5/5/11554/
-
-
-
-Produced by Robert Shimmin, Caitlin and PG Distributed Proofreaders
-
-
-
-Updated editions will replace the previous one--the old editions
-
-will be renamed.
-
-
-
-Creating the works from public domain print editions means that no
-
-one owns a United States copyright in these works, so the Foundation
-
-(and you!) can copy and distribute it in the United States without
-
-permission and without paying copyright royalties.  Special rules,
-
-set forth in the General Terms of Use part of this license, apply to
-
-copying and distributing Project Gutenberg-tm electronic works to
-
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-
-Gutenberg is a registered trademark, and may not be used if you
-
-charge for the eBooks, unless you receive specific permission.  If you
-
-do not charge anything for copies of this eBook, complying with the
-
-rules is very easy.  You may use this eBook for nearly any purpose
-
-such as creation of derivative works, reports, performances and
-
-research.  They may be modified and printed and given away--you may do
-
-practically ANYTHING with public domain eBooks.  Redistribution is
-
-subject to the trademark license, especially commercial
-
-redistribution.
-
-
-
-
-
-
-
-*** START: FULL LICENSE ***
-
-
-
-THE FULL PROJECT GUTENBERG LICENSE
-
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-
-
-To protect the Project Gutenberg-tm mission of promoting the free
-
-distribution of electronic works, by using or distributing this work
-
-(or any other work associated in any way with the phrase "Project
-
-Gutenberg"), you agree to comply with all the terms of the Full Project
-
-Gutenberg-tm License (available with this file or online at
-
-http://gutenberg.net/license).
-
-
-
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-
-electronic works
-
-
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-
-electronic work, you indicate that you have read, understand, agree to
-
-and accept all the terms of this license and intellectual property
-
-(trademark/copyright) agreement.  If you do not agree to abide by all
-
-the terms of this agreement, you must cease using and return or destroy
-
-all copies of Project Gutenberg-tm electronic works in your possession.
-
-If you paid a fee for obtaining a copy of or access to a Project
-
-Gutenberg-tm electronic work and you do not agree to be bound by the
-
-terms of this agreement, you may obtain a refund from the person or
-
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-
-used on or associated in any way with an electronic work by people who
-
-agree to be bound by the terms of this agreement.  There are a few
-
-things that you can do with most Project Gutenberg-tm electronic works
-
-even without complying with the full terms of this agreement.  See
-
-paragraph 1.C below.  There are a lot of things you can do with Project
-
-Gutenberg-tm electronic works if you follow the terms of this agreement
-
-and help preserve free future access to Project Gutenberg-tm electronic
-
-works.  See paragraph 1.E below.
-
-
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-
-or PGLAF), owns a compilation copyright in the collection of Project
-
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-
-collection are in the public domain in the United States.  If an
-
-individual work is in the public domain in the United States and you are
-
-located in the United States, we do not claim a right to prevent you from
-
-copying, distributing, performing, displaying or creating derivative
-
-works based on the work as long as all references to Project Gutenberg
-
-are removed.  Of course, we [[Hope|hope]] that you will support the Project
-
-Gutenberg-tm mission of promoting free access to electronic works by
-
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-
-this agreement for keeping the Project Gutenberg-tm name associated with
-
-the work.  You can easily comply with the terms of this agreement by
-
-keeping this work in the same format with its attached full Project
-
-Gutenberg-tm License when you share it without charge with others.
-
-
-
-1.D.  The copyright laws of the place where you are located also govern
-
-what you can do with this work.  Copyright laws in most countries are in
-
-a constant state of change.  If you are outside the United States, check

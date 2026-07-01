@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 31 (part 2)"
+title: "The Tenant of Wildfell Hall — Chapter 31 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -14,6 +14,16 @@ tags:
 </nav>
 
 
+conquest upon hers.
+
+
+
+This is as it should be; but [[Arthur]] never will let me be satisfied with
+
+him. I have never, for a single hour since I married him, known what it
+
+is to realise that sweet idea, “In quietness and confidence shall be
+
 your rest.” Those two detestable men, Grimsby and Hattersley, have
 
 destroyed all my labour against his [[Love|love]] of wine. They encourage him
@@ -24,7 +34,7 @@ disgrace himself by positive excess. I shall not soon forget the second
 
 [[Night|night]] after their arrival. Just as I had retired from the dining-room
 
-with the ladies, before the door was closed upon us, [[arthur|Arthur]]
+with the ladies, before the door was closed upon us, [[Arthur]]
 
 exclaimed,—“Now then, my lads, what say you to a regular
 
@@ -247,15 +257,3 @@ raised his eyes to my face. “You are not used to these things: you
 suffer them to affect your delicate mind too sensibly. But I thought of
 
 you in the midst of those lawless roysterers; and I endeavoured to
-
-persuade Mr. Huntingdon to think of you too; but to no purpose: I [[Fear|fear]]
-
-he is fully determined to enjoy himself this [[Night|night]]; and it will be no
-
-use keeping the coffee waiting for him or his companions; it will be
-
-much if they join us at tea. Meantime, I earnestly wish I could banish
-
-the thoughts of them from your mind—and my own too, for I hate to think
-
-of them—yes—even of my dear friend Huntingdon, when I consider the

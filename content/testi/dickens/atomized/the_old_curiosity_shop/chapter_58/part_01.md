@@ -139,8 +139,3 @@ constant habit of airing your eye at keyholes, to know all this.’
 ‘I only wanted,’ replied the trembling [[Marchioness]], ‘to know where the
 key of the safe was hid; that was all; and I wouldn’t have taken much,
 if I had found it--only enough to squench my hunger.’
-
-‘You didn’t find it then?’ said Dick.  ‘But of course you didn’t, or
-you’d be plumper.  Good [[Night|night]], [[Marchioness]].  Fare thee [[Well|well]], and if for
-ever, then for ever fare thee [[Well|well]]--and put up the chain, [[Marchioness]],
-in case of accidents.’

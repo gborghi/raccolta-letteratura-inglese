@@ -119,9 +119,3 @@ the way, that I should have said it - yesterday afternoon.'
 is murder by somebody like a religious fanatic. That brown fellow
 probably thinks that if he's hanged, he'll go straight to Paradise for
 defending the [[Honour|honour]] of the [[Prophet]].'
-
-'There is that, of course,' said [[Father Brown]]. 'It would be very
-reasonable, so to speak, of our Moslem friend to have stabbed him. And
-you may say we don't know of anybody else yet, who could at all
-reasonably have stabbed him. But. . . but I was thinking . . . ' And his
-round face suddenly went blank again and all speech died on his lips.

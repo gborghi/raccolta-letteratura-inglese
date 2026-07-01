@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 11 (part 1)"
+title: "Mansfield Park — Chapter 11 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -134,13 +134,3 @@ you rank highly as [[Temptation|temptation]] and reward to the soldier and sailo
 their choice of a profession, as [[Heroism|heroism]], and noise, and fashion, are
 all against him, he ought to be less liable to the suspicion of wanting
 sincerity or good intentions in the choice of his.”
-
-“Oh! no [[Doubt|doubt]] he is very sincere in preferring an income ready made, to
-the trouble of working for one; and has the best intentions of doing
-nothing all the rest of his days but eat, drink, and grow fat. It is
-[[Indolence|indolence]], Mr. [[Bertram]], indeed. [[Indolence]] and [[Love|love]] of ease; a want of
-all laudable [[Ambition|ambition]], of taste for good company, or of inclination to
-take the trouble of being agreeable, which make men clergymen. A
-clergyman has nothing to do but be slovenly and selfish—read the
-newspaper, watch the weather, and quarrel with his wife. His curate
-does all the work, and the business of his own life is to dine.”

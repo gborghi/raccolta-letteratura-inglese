@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 3"
+title: "Wuthering Heights — Chapter 3"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/wuthering-heights-(bronte)"
@@ -81,7 +81,7 @@ Joseph must needs get up a congregation in the garret; and, while
 Hindley and his wife basked downstairs before a comfortable [[Fire|fire]]—doing
 anything but reading their Bibles, I’ll answer for it—[[Heathcliff]],
 myself, and the unhappy ploughboy were commanded to take our
-[[Prayer|prayer]]-books, and mount: we were ranged in a row, on a sack of corn,
+[[prayer]]-books, and mount: we were ranged in a row, on a sack of corn,
 groaning and shivering, and hoping that Joseph would shiver too, so
 that he might give us a short homily for his own sake. A vain idea! The
 service lasted precisely three hours; and yet my brother had the face
@@ -268,7 +268,7 @@ in!”
 
 The fingers relaxed, I snatched mine through the hole, hurriedly piled
 the books up in a pyramid against it, and stopped my ears to exclude
-the lamentable [[Prayer|prayer]].
+the lamentable [[prayer]].
 
 I seemed to keep them closed above a quarter of an hour; yet, the
 instant I listened again, there was the doleful cry moaning on!

@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 10 (part 1)"
+title: "thursday — Chapter 10 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -17,7 +17,6 @@ tags:
                           CHAPTER X 
 
                            THE DUEL
-
 
 SYME sat down at a cafe table with his companions, his blue eyes
 sparkling like the bright sea below, and ordered a bottle of Saumur
@@ -154,6 +153,3 @@ with black hair."
 
 "It seems to me," said the other, "that you are simply seeking
 a pretext to insult the Marquis."
-
-"By George!" said Syme, facing round and looking at him,
-"what a clever chap you are!"

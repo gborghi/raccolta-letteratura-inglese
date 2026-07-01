@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities — Chapter 3 (part 1)"
+title: "A Tale of Two Cities — Chapter 4 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-tale-of-two-cities-(dickens)"
@@ -10,110 +10,126 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/a-tale-of-two-cities-(dickens)">A Tale of Two Cities</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_09/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_10/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_09/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_10/part_02">part 02 ›</a></div>
 </nav>
 
 
-CHAPTER III.
-A Disappointment
+CHAPTER IV.
+Congratulatory
 
 
-Mr. Attorney-General had to inform the jury, that the prisoner before
-them, though young in years, was old in the treasonable practices which
-claimed the forfeit of his life. That this correspondence with the
-public enemy was not a correspondence of to-day, or of yesterday, or
-even of last year, or of the year before. That, it was certain the
-prisoner had, for longer than that, been in the habit of passing and
-repassing between France and England, on secret business of which
-he could give no honest account. That, if it were in the [[Nature|nature]] of
-traitorous ways to thrive (which happily it never was), the real
-wickedness and [[Guilt|guilt]] of his business might have remained undiscovered.
-That [[Providence]], however, had put it into the heart of a person who
-was beyond [[Fear|fear]] and beyond reproach, to ferret out the [[Nature|nature]] of the
-prisoner’s schemes, and, struck with horror, to disclose them to his
-Majesty’s Chief Secretary of State and most honourable Privy Council.
-That, this patriot would be produced before them. That, his position and
-attitude were, on the whole, [[Sublime|sublime]]. That, he had been the prisoner’s
-friend, but, at once in an auspicious and an evil hour detecting his
-infamy, had resolved to immolate the traitor he could no longer cherish
-in his bosom, on the sacred altar of his country. That, if statues
-were decreed in Britain, as in [[Ancient Greece|ancient Greece]] and Rome, to public
-benefactors, this shining citizen would assuredly have had one. That, as
-they were not so decreed, he probably would not have one. That, Virtue,
-as had been observed by the poets (in many passages which he [[Well|well]]
-knew the jury would have, word for word, at the tips of their tongues;
-whereat the jury’s countenances displayed a guilty consciousness that
-they knew nothing about the passages), was in a manner contagious; more
-especially the bright virtue known as patriotism, or [[Love|love]] of country.
-That, the lofty example of this immaculate and unimpeachable witness
-for the [[Crown]], to refer to whom however unworthily was an [[Honour|honour]], had
-communicated itself to the prisoner’s servant, and had engendered in him
-a holy determination to examine his master’s table-drawers and pockets,
-and secrete his papers. That, he (Mr. Attorney-General) was prepared to
-hear some disparagement attempted of this admirable servant; but that,
-in a general way, he preferred him to his (Mr. Attorney-General’s)
-brothers and sisters, and honoured him more than his (Mr.
-Attorney-General’s) father and mother. That, he called with confidence
-on the jury to come and do likewise. That, the evidence of these two
-witnesses, coupled with the documents of their discovering that would be
-produced, would show the prisoner to have been furnished with lists of
-his Majesty’s forces, and of their disposition and preparation, both by
-sea and land, and would leave no [[Doubt|doubt]] that he had habitually conveyed
-such information to a hostile power. That, these lists could not be
-proved to be in the prisoner’s handwriting; but that it was all the
-same; that, indeed, it was rather the better for the prosecution, as
-showing the prisoner to be artful in his precautions. That, the proof
-would go back five years, and would show the prisoner already engaged
-in these pernicious missions, within a few weeks before the date of the
-very first action fought between the British troops and the Americans.
-That, for these reasons, the jury, being a loyal jury (as he knew they
-were), and being a responsible jury (as _they_ knew they were), must
-positively find the prisoner Guilty, and make an end of him, whether
-they liked it or not. That, they never could lay their heads upon their
-pillows; that, they never could tolerate the idea of their wives laying
-their heads upon their pillows; that, they never could endure the notion
-of their children laying their heads upon their pillows; in short, that
-there never more could be, for them or theirs, any laying of heads upon
-pillows at all, unless the prisoner’s head was taken off. That head
-Mr. Attorney-General concluded by demanding of them, in the name of
-everything he could think of with a round turn in it, and on the [[Faith|faith]]
-of his solemn asseveration that he already considered the prisoner as
-good as dead and gone.
+From the dimly-lighted passages of the [[Court|court]], the last sediment of the
+human stew that had been boiling there all day, was straining off, when
+[[Doctor Manette]], [[Lucie Manette]], his daughter, Mr. Lorry, the solicitor
+for the defence, and its counsel, Mr. Stryver, stood gathered round Mr.
+[[Charles Darnay]]--just released--congratulating him on his escape from
+[[Death|death]].
 
-When the Attorney-General ceased, a buzz arose in the [[Court|court]] as if
-a cloud of great blue-flies were swarming about the prisoner, in
-anticipation of what he was soon to become. When toned down again, the
-unimpeachable patriot appeared in the witness-box.
+It would have been difficult by a far brighter light, to recognise
+in [[Doctor Manette]], intellectual of face and upright of bearing, the
+shoemaker of the garret in [[Paris]]. Yet, no one could have looked at him
+twice, without looking again: even though the opportunity of observation
+had not extended to the mournful cadence of his low [[Grave|grave]] voice, and
+to the abstraction that overclouded him fitfully, without any apparent
+reason. While one external cause, and that a reference to his long
+lingering agony, would always--as on the trial--evoke this condition
+from the depths of his [[Soul|soul]], it was also in its [[Nature|nature]] to arise of
+itself, and to draw a gloom over him, as incomprehensible to those
+unacquainted with his story as if they had seen the [[Shadow|shadow]] of the actual
+Bastille thrown upon him by a [[Summer|summer]] sun, when the substance was three
+hundred miles away.
 
-Mr. Solicitor-General then, following his leader’s lead, examined the
-patriot: John Barsad, gentleman, by name. The story of his pure [[Soul|soul]] was
-exactly what Mr. Attorney-General had described it to be--perhaps, if
-it had a fault, a little too exactly. Having released his noble bosom
-of its burden, he would have modestly withdrawn himself, but that the
-wigged gentleman with the papers before him, sitting not far from Mr.
-Lorry, begged to ask him a few questions. The wigged gentleman sitting
-opposite, still looking at the ceiling of the [[Court|court]].
+Only his daughter had the power of charming this black brooding from
+his mind. She was the golden thread that united him to a Past beyond his
+misery, and to a Present beyond his misery: and the sound of her voice,
+the light of her face, the touch of her hand, had a strong beneficial
+influence with him almost always. Not absolutely always, for she could
+recall some occasions on which her power had failed; but they were few
+and slight, and she believed them over.
 
-Had he ever been a spy himself? No, he scorned the base insinuation.
-What did he live upon? His property. Where was his property? He didn’t
-precisely remember where it was. What was it? No business of anybody’s.
-Had he inherited it? Yes, he had. From whom? Distant relation. Very
-distant? Rather. Ever been in [[Prison|prison]]? Certainly not. Never in a debtors’
-[[Prison|prison]]? Didn’t see what that had to do with it. Never in a debtors’
-[[Prison|prison]]?--Come, once again. Never? Yes. How many times? Two or three
-times. Not five or six? Perhaps. Of what profession? Gentleman. Ever
-been kicked? Might have been. Frequently? No. Ever kicked downstairs?
-Decidedly not; once received a kick on the top of a staircase, and fell
-downstairs of his own accord. Kicked on that occasion for cheating at
-dice? Something to that effect was said by the intoxicated liar who
-committed the assault, but it was not true. Swear it was not true?
-Positively. Ever live by cheating at play? Never. Ever live by play? Not
-more than other gentlemen do. Ever borrow money of the prisoner? Yes.
-Ever pay him? No. Was not this intimacy with the prisoner, in reality a
-very slight one, forced upon the prisoner in coaches, inns, and packets?
-No. Sure he saw the prisoner with these lists? Certain. Knew no more
-about the lists? No. Had not procured them himself, for instance? No.
-Expect to get anything by this evidence? No. Not in regular [[government]]
-pay and employment, to lay traps? Oh dear no. Or to do anything? Oh dear
-no. Swear that? Over and over again. No motives but motives of sheer
-patriotism? None whatever.
+Mr. Darnay had kissed her hand fervently and gratefully, and had turned
+to Mr. Stryver, whom he warmly thanked. Mr. Stryver, a man of little
+more than thirty, but looking twenty years older than he was, stout,
+loud, red, bluff, and free from any drawback of delicacy, had a pushing
+way of shouldering himself (morally and physically) into companies and
+conversations, that argued [[Well|well]] for his shouldering his way up in life.
+
+He still had his wig and gown on, and he said, squaring himself at his
+late client to that degree that he squeezed the [[Innocent|innocent]] Mr. Lorry clean
+out of the group: “I am glad to have brought you off with [[Honour|honour]], Mr.
+Darnay. It was an infamous prosecution, grossly infamous; but not the
+less likely to succeed on that account.”
+
+“You have laid me under an obligation to you for life--in two senses,”
+ said his late client, taking his hand.
+
+“I have done my best for you, Mr. Darnay; and my best is as good as
+another man’s, I believe.”
+
+It clearly being incumbent on some one to say, “Much better,” Mr. Lorry
+said it; perhaps not quite disinterestedly, but with the interested
+object of squeezing himself back again.
+
+“You think so?” said Mr. Stryver. “[[Well]]! you have been present all day,
+and you ought to know. You are a man of business, too.”
+
+“And as such,” quoth Mr. Lorry, whom the counsel learned in the law had
+now shouldered back into the group, just as he had previously shouldered
+him out of it--“as such I will appeal to [[Doctor Manette]], to break up
+this conference and order us all to our homes. Miss Lucie looks ill, Mr.
+Darnay has had a terrible day, we are worn out.”
+
+“Speak for yourself, Mr. Lorry,” said Stryver; “I have a [[Night|night]]’s work to
+do yet. Speak for yourself.”
+
+“I speak for myself,” answered Mr. Lorry, “and for Mr. Darnay, and for
+Miss Lucie, and--Miss Lucie, do you not think I may speak for us all?”
+ He asked her the question pointedly, and with a glance at her father.
+
+His face had become frozen, as it were, in a very curious look at
+Darnay: an intent look, deepening into a frown of dislike and distrust,
+not even unmixed with [[Fear|fear]]. With this strange expression on him his
+thoughts had wandered away.
+
+“My father,” said Lucie, softly laying her hand on his.
+
+He slowly shook the [[Shadow|shadow]] off, and turned to her.
+
+“Shall we go [[Home|home]], my father?”
+
+With a long breath, he answered “Yes.”
+
+The friends of the acquitted prisoner had dispersed, under the
+impression--which he himself had originated--that he would not be
+released that [[Night|night]]. The lights were nearly all extinguished in the
+passages, the iron gates were being closed with a jar and a rattle,
+and the dismal place was deserted until to-morrow morning’s interest of
+gallows, pillory, whipping-post, and branding-iron, should repeople it.
+Walking between her father and Mr. Darnay, [[Lucie Manette]] passed into
+the open air. A hackney-coach was called, and the father and daughter
+departed in it.
+
+Mr. Stryver had left them in the passages, to shoulder his way back
+to the robing-room. Another person, who had not joined the group, or
+interchanged a word with any one of them, but who had been leaning
+against the wall where its [[Shadow|shadow]] was darkest, had silently strolled
+out after the rest, and had looked on until the coach drove away. He now
+stepped up to where Mr. Lorry and Mr. Darnay stood upon the pavement.
+
+“So, Mr. Lorry! Men of business may speak to Mr. Darnay now?”
+
+Nobody had made any acknowledgment of Mr. Carton’s part in the day’s
+proceedings; nobody had known of it. He was unrobed, and was none the
+better for it in appearance.
+
+“If you knew what a conflict goes on in the business mind, when the
+business mind is divided between good-natured impulse and business
+appearances, you would be amused, Mr. Darnay.”
+
+Mr. Lorry reddened, and said, warmly, “You have mentioned that before,
+sir. We men of business, who serve a [[house|House]], are not our own masters. We
+have to think of the [[house|House]] more than ourselves.”
+
+“_I_ know, _I_ know,” rejoined Mr. Carton, carelessly. “Don’t be
+nettled, Mr. Lorry. You are as good as another, I have no [[Doubt|doubt]]: better,
+I dare say.”

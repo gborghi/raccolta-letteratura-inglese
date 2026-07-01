@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 18 (part 2)"
+title: "Nicholas Nickleby — Chapter 18 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_18/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_18/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘I take quite a lively interest in you, my dear [[Soul|soul]], upon my word,’
+said Miss Knag; ‘a sister’s interest, actually. It’s the most singular
+circumstance I ever knew.’
 
 Undoubtedly it was singular, that if Miss Knag did feel a strong
 interest in [[Kate Nickleby]], it should not rather have been the interest

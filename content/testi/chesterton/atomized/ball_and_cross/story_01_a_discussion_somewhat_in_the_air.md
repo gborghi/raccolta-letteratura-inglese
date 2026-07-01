@@ -1,5 +1,5 @@
 ---
-title: "ball and [[Cross|cross]] — A Discussion Somewhat in the Air"
+title: "ball and cross — A Discussion Somewhat in the Air"
 author: "Chesterton"
 unitType: story
 parentWork: "works/ball-and-cross-(chesterton)"

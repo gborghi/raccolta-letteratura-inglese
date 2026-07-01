@@ -1,5 +1,5 @@
 ---
-title: "The Man Who Knew Too Much — The Bottomless [[Well]] (part 3)"
+title: "The Man Who Knew Too Much — The Bottomless Well (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/the-man-who-knew-too-much-(chesterton)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_04_the_bottomless_well/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_04_the_bottomless_well/part_04">part 04 ›</a></div>
 </nav>
 
+
+direction," answered Fisher; "a pretty endless sort of direction, a
+
+bottomless pit as deep as the bottomless [[Well|well]]."
+Fisher did not see his friend until a fortnight later, when he found
+
+himself in the [[Garden|garden]] at the back of the clubhouse on the opposite
 
 side from the links, a [[Garden|garden]] heavily colored and scented with sweet
 
@@ -172,20 +179,3 @@ some sinister face.
 A run brought them in a few minutes to the other side of the ground
 
 in front of the bottomless [[Well|well]], and a few yards from it, in a
-
-moonlight almost as broad as daylight, they saw what they had come
-
-to see.
-The great Lord [[Hastings]] lay prone on his face, in a posture in which
-
-there was a touch of something strange and stiff, with one elbow
-
-erect above his [[Body|body]], the arm being doubled, and his big, bony hand
-
-clutching the rank and ragged grass. A few feet away was Boyle,
-
-almost as motionless, but supported on his hands and knees, and
-
-staring at the [[Body|body]]. It might have been no more than shock and
-
-accident; but there was something ungainly and unnatural about the

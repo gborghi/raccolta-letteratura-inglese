@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 18 (part 3)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 18 (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_17/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_19/part_01">part 01 ›</a></div>
 </nav>
 
+
+attend the chief. We took care to be [[Well|well]] armed, yet without evincing
+
+any distrust. The schooner had her guns run out, her boarding-nettings
+
+up, and every other proper precaution was taken to guard against
+
+surprise. Directions were left with the chief mate to admit no person
 
 on board during our absence, and, in the event of our not appearing in
 

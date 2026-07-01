@@ -1,5 +1,5 @@
 ---
-title: "Measure for Measure — Act II, Scene 1 — exchange ([[Pompey|POMPEY]]) [4]"
+title: "Measure for Measure — Act II, Scene 1 — exchange (POMPEY) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/measure-for-measure-(shakespeare)"

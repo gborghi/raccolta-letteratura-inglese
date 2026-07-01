@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]] — The Mildness of the Yellow Press (part 2)"
+title: "heret12 — The Mildness of the Yellow Press (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/heret12-(chesterton)"
@@ -94,7 +94,7 @@ I read yesterday a sentence which should be written in letters
 of gold and adamant; it is the very motto of the new [[philosophy]]
 of Empire.  I found it (as the reader has already eagerly guessed)
 in Pearson's Magazine, while I was communing ([[Soul|soul]] to [[Soul|soul]])
-with Mr. C. [[Arthur]] Pearson, whose first and suppressed name
+with Mr. C. [[arthur|Arthur]] Pearson, whose first and suppressed name
 I am afraid is Chilperic.  It occurred in an article on
 the American Presidential Election.  This is the sentence,
 and every one should read it carefully, and roll it on the tongue,
@@ -118,13 +118,3 @@ Presidential Election, by doing something of this kind.
 For I suppose the nails and the board are not essential
 to the exhibition of "common sense;" there may be variations.
 We may read--
-
-"A little common sense impresses American working-men more than
-high-flown argument.  A speaker who, as he made his points,
-pulled buttons off his waistcoat, won thousands of votes for his side."
-Or, "Sound common sense tells better in [[America]] than high-flown argument.
-Thus Senator Budge, who threw his false teeth in the air every [[Time|time]]
-he made an [[Epigram|epigram]], won the solid approval of American working-men."
-Or again, "The sound common sense of a gentleman from Earlswood,
-who stuck straws in his hair during the progress of his speech,
-assured the victory of Mr. Roosevelt."

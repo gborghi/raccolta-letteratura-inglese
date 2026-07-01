@@ -17,7 +17,6 @@ tags:
 When Heracleius rode homewards from the rout of Ispahan With
 the captives dragged behind him and the eagles in the van.
 
-
 That is the rigid reality that still underlay the light mastery
 of the Arab rider; that is what a man sees, in the patchwork pavilion,
 when he grows used to the coloured canvas and looks at the walls

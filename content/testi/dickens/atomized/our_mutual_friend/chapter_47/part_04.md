@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 6 (part 4)"
+title: "Our Mutual Friend — Chapter 9 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,142 +14,133 @@ tags:
 </nav>
 
 
-‘Do you like what Wegg’s been a-reading?’
+So, they walked, speaking of the newly filled-up [[Grave|grave]], and of Johnny,
+and of many things. So, on their return, they met brisk Mrs Milvey
+coming to seek them, with the agreeable intelligence that there was no
+[[Fear|fear]] for the village children, there being a Christian school in the
+village, and no worse Judaical interference with it than to plant its
+[[Garden|garden]]. So, they got back to the village as [[Lizzie Hexam]] was coming from
+the paper-mill, and Bella detached herself to speak with her in her own
+[[Home|home]].
 
-[[Mr Venus]] answered that he found it extremely interesting.
+‘I am afraid it is a poor room for you,’ said Lizzie, with a smile of
+welcome, as she offered the post of [[Honour|honour]] by the fireside.
 
-‘Then come again,’ said Mr Boffin, ‘and hear some more. Come when you
-like; come the day after to-morrow, half an hour sooner. There’s plenty
-more; there’s no end to it.’
+‘Not so poor as you think, my dear,’ returned Bella, ‘if you knew all.’
+Indeed, though attained by some wonderful winding narrow stairs, which
+seemed to have been erected in a pure white chimney, and though very low
+in the ceiling, and very rugged in the floor, and rather blinking as
+to the proportions of its lattice [[Window|window]], it was a pleasanter room than
+that despised chamber once at [[Home|home]], in which Bella had first bemoaned
+the miseries of taking lodgers.
 
-[[Mr Venus]] expressed his acknowledgments and accepted the invitation.
+The day was closing as the two girls looked at one another by the
+fireside. The dusky room was lighted by the [[Fire|fire]]. The grate might have
+been the old brazier, and the glow might have been the old hollow down
+by the flare.
 
-‘It’s wonderful what’s been hid, at one [[Time|time]] and another,’ said Mr
-Boffin, ruminating; ‘truly wonderful.’
+‘It’s quite new to me,’ said Lizzie, ‘to be visited by a lady so nearly
+of my own age, and so pretty, as you. It’s a pleasure to me to look at
+you.’
 
-‘Meaning sir,’ observed Wegg, with a propitiatory face to draw him out,
-and with another peg at his friend and brother, ‘in the way of money?’
+‘I have nothing left to begin with,’ returned Bella, blushing, ‘because
+I was going to say that it was a pleasure to me to look at you, Lizzie.
+But we can begin without a beginning, can’t we?’
 
-‘Money,’ said Mr Boffin. ‘Ah! And papers.’
+Lizzie took the pretty little hand that was held out in as pretty a
+little frankness.
 
-Mr Wegg, in a languid transport, again dropped over on [[Mr Venus]], and
-again recovering himself, masked his emotions with a sneeze.
+‘Now, dear,’ said Bella, drawing her chair a little nearer, and taking
+Lizzie’s arm as if they were going out for a walk, ‘I am commissioned
+with something to say, and I dare say I shall say it wrong, but I
+won’t if I can help it. It is in reference to your letter to Mr and Mrs
+Boffin, and this is what it is. Let me see. Oh yes! This is what it is.’
 
-’tish-ho! Did you say papers too, sir? Been hidden, sir?’
+With this exordium, Bella set forth that request of Lizzie’s touching
+secrecy, and delicately spoke of that false accusation and its
+retraction, and asked might she beg to be informed whether it had any
+bearing, near or remote, on such request. ‘I feel, my dear,’ said Bella,
+quite amazing herself by the business-like manner in which she was
+getting on, ‘that the subject must be a painful one to you, but I
+am mixed up in it also; for—I don’t know whether you may know it or
+suspect it—I am the willed-away girl who was to have been married to
+the unfortunate gentleman, if he had been pleased to approve of me. So
+I was dragged into the subject without my consent, and you were dragged
+into it without your consent, and there is very little to choose between
+us.’
 
-‘Hidden and forgot,’ said Mr Boffin. ‘Why the bookseller that sold me
-the Wonderful Museum—where’s the Wonderful Museum?’ He was on his knees
-on the floor in a moment, groping eagerly among the books.
+‘I had no [[Doubt|doubt]],’ said Lizzie, ‘that you were the Miss Wilfer I have
+often heard named. Can you tell me who my unknown friend is?’
 
-‘Can I assist you, sir?’ asked Wegg.
+‘Unknown friend, my dear?’ said Bella.
 
-‘No, I have got it; here it is,’ said Mr Boffin, dusting it with the
-sleeve of his coat. ‘Wollume four. I know it was the fourth wollume,
-that the bookseller read it to me out of. Look for it, Wegg.’
+‘Who caused the charge against poor father to be contradicted, and sent
+me the written paper.’
 
-Silas took the book and turned the [[Leaves|leaves]].
+Bella had never heard of him. Had no notion who he was.
 
-‘Remarkable petrefaction, sir?’
+‘I should have been glad to thank him,’ returned Lizzie. ‘He has done a
+great deal for me. I must [[Hope|hope]] that he will let me thank him some day.
+You asked me has it anything to do—’
 
-‘No, that’s not it,’ said Mr Boffin. ‘It can’t have been a
-petrefaction.’
+‘It or the accusation itself,’ Bella put in.
 
-‘Memoirs of General John Reid, commonly called The Walking Rushlight,
-sir? With portrait?’
+‘Yes. Has either anything to do with my wishing to live quite secret and
+retired here? No.’
 
-‘No, nor yet him,’ said Mr Boffin.
+As [[Lizzie Hexam]] shook her head in giving this reply and as her glance
+sought the [[Fire|fire]], there was a quiet resolution in her folded hands, not
+lost on Bella’s bright eyes.
 
-‘Remarkable case of a person who swallowed a [[Crown|crown]]-piece, sir?’
+‘Have you lived much [[Alone|alone]]?’ asked Bella.
 
-‘To hide it?’ asked Mr Boffin.
+‘Yes. It’s nothing new to me. I used to be always [[Alone|alone]] many hours
+together, in the day and in the [[Night|night]], when poor father was alive.’
 
-‘Why, no, sir,’ replied Wegg, consulting the text, ‘it appears to have
-been done by accident. Oh! This next must be it. “Singular discovery of
-a will, lost twenty-one years.”’
+‘You have a brother, I have been told?’
 
-‘That’s it!’ cried Mr Boffin. ‘Read that.’
+‘I have a brother, but he is not friendly with me. He is a very good
+boy though, and has raised himself by his industry. I don’t complain of
+him.’
 
-‘“A most extraordinary case,”’ read [[Silas Wegg]] aloud, ‘“was tried at
-the last Maryborough assizes in Ireland. It was briefly this. Robert
-Baldwin, in March 1782, made his will, in which he devised the lands now
-in question, to the children of his youngest son; soon after which his
-faculties failed him, and he became altogether childish and died, above
-eighty years old. The defendant, the eldest son, immediately afterwards
-gave out that his father had destroyed the will; and no will being
-found, he entered into possession of the lands in question, and so
-matters remained for twenty-one years, the whole family during all
-that [[Time|time]] believing that the father had died without a will. But after
-twenty-one years the defendant’s wife died, and he very soon afterwards,
-at the age of seventy-eight, married a very young woman: which caused
-some anxiety to his two sons, whose poignant expressions of this feeling
-so exasperated their father, that he in his resentment executed a will
-to disinherit his eldest son, and in his fit of anger showed it to his
-second son, who instantly determined to get at it, and destroy it, in
-order to preserve the property to his brother. With this view, he broke
-open his father’s desk, where he found—not his father’s will which he
-sought after, but the will of his grandfather, which was then altogether
-forgotten in the family.”’
+As she said it, with her eyes upon the [[Fire|fire]]-glow, there was an
+instantaneous escape of distress into her face. Bella seized the moment
+to touch her hand.
 
-‘There!’ said Mr Boffin. ‘See what men put away and forget, or mean to
-destroy, and don’t!’ He then added in a slow tone, ‘As—ton—ish—ing!’
-And as he rolled his eyes all round the room, Wegg and [[Venus]] likewise
-rolled their eyes all round the room. And then Wegg, singly, fixed his
-eyes on Mr Boffin looking at the [[Fire|fire]] again; as if he had a mind to
-[[Spring|spring]] upon him and demand his thoughts or his life.
+‘Lizzie, I wish you would tell me whether you have any friend of your
+own sex and age.’
 
-‘However, [[Time|time]]’s up for to-[[Night|night]],’ said Mr Boffin, waving his hand after
-a [[Silence|silence]]. ‘More, the day after to-morrow. Range the books upon the
-shelves, Wegg. I dare say [[Mr Venus]] will be so kind as help you.’
+‘I have lived that lonely kind of life, that I have never had one,’ was
+the answer.
 
-While speaking, he thrust his hand into the breast of his outer coat,
-and struggled with some object there that was too large to be got out
-easily. What was the stupefaction of the friendly movers when this
-object at last emerging, proved to be a much-dilapidated dark lantern!
+‘Nor I neither,’ said Bella. ‘Not that my life has been lonely, for I
+could have sometimes wished it lonelier, instead of having Ma going on
+like the Tragic Muse with a face-ache in majestic corners, and Lavvy
+being spiteful—though of course I am very fond of them both. I wish
+you could make a friend of me, Lizzie. Do you think you could? I have
+no more of what they call character, my dear, than a canary-bird, but I
+know I am trustworthy.’
 
-Without at all noticing the effect produced by this little instrument,
-Mr Boffin stood it on his knee, and, producing a box of matches,
-deliberately lighted the candle in the lantern, blew out the kindled
-match, and cast the end into the [[Fire|fire]]. ‘I’m going, Wegg,’ he then
-announced, ‘to take a turn about the place and round the yard. I don’t
-want you. Me and this same lantern have taken hundreds—thousands—of
-such turns in our [[Time|time]] together.’
+The wayward, playful, affectionate [[Nature|nature]], giddy for want of the
+weight of some sustaining purpose, and capricious because it was always
+fluttering among little things, was yet a captivating one. To Lizzie it
+was so new, so pretty, at once so womanly and so childish, that it won
+her completely. And when Bella said again, ‘Do you think you could,
+Lizzie?’ with her eyebrows raised, her head inquiringly on one side,
+and an odd [[Doubt|doubt]] about it in her own bosom, Lizzie showed beyond all
+question that she thought she could.
 
-‘But I couldn’t think, sir—not on any account, I couldn’t,’—Wegg was
-politely beginning, when Mr Boffin, who had risen and was going towards
-the door, stopped:
+‘Tell me, my dear,’ said Bella, ‘what is the matter, and why you live
+like this.’
 
-‘I have told you that I don’t want you, Wegg.’
+Lizzie presently began, by way of prelude, ‘You must have many [[lovers]]—’
+when Bella checked her with a little scream of astonishment.
 
-Wegg looked intelligently thoughtful, as if that had not occurred to his
-mind until he now brought it to bear on the circumstance. He had nothing
-for it but to let Mr Boffin go out and shut the door behind him. But,
-the instant he was on the other side of it, Wegg clutched [[Venus]]
-with both hands, and said in a choking whisper, as if he were being
-strangled:
+‘My dear, I haven’t one!’
 
-‘[[Mr Venus]], he must be followed, he must be watched, he mustn’t be lost
-sight of for a moment.’
+‘Not one?’
 
-‘Why mustn’t he?’ asked [[Venus]], also strangling.
-
-‘Comrade, you might have noticed I was a little elewated in spirits when
-you come in to-[[Night|night]]. I’ve found something.’
-
-‘What have you found?’ asked [[Venus]], clutching him with both hands, so
-that they stood interlocked like a couple of preposterous gladiators.
-
-‘There’s no [[Time|time]] to tell you now. I think he must have gone to look for
-it. We must have an eye upon him instantly.’
-
-Releasing each other, they crept to the door, opened it softly, and
-peeped out. It was a cloudy [[Night|night]], and the black [[Shadow|shadow]] of the Mounds
-made the dark yard darker. ‘If not a [[Double|double]] swindler,’ whispered Wegg,
-‘why a dark lantern? We could have seen what he was about, if he had
-carried a light one. Softly, this way.’
-
-Cautiously along the path that was bordered by fragments of crockery set
-in ashes, the two stole after him. They could hear him at his peculiar
-trot, crushing the loose cinders as he went. ‘He knows the place by
-heart,’ muttered Silas, ‘and don’t need to turn his lantern on, confound
-him!’ But he did turn it on, almost in that same instant, and flashed
-its light upon the first of the Mounds.
+‘[[Well]]! Perhaps one,’ said Bella. ‘I am sure I don’t know. I HAD one, but
+what he may think about it at the present [[Time|time]] I can’t say. Perhaps I
+have half a one (of course I don’t count that Idiot, George Sampson).
+However, never mind me. I want to hear about you.’

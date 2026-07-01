@@ -1,5 +1,5 @@
 ---
-title: "[[longbow2]] — Chapter 3 (part 5)"
+title: "longbow2 — Chapter 3 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -13,6 +13,29 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/longbow2/chapter_03/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/longbow2/chapter_03/part_06">part 06 ›</a></div>
 </nav>
 
+
+Hood looked at him under bended brows and his mouth began to work.
+
+"But what's all this about the old lady having a pug or a pet
+or something?"
+
+"[[Well]], it was very nearly a pug," said Pierce in a dispassionate manner. 
+"I pointed out to everybody that it was, as it were, an approximate pug. 
+I asked if it was just to punish me for a small mistake in spelling."
+
+"I begin to understand," said Hood.  "You were again smuggling
+swine down to your precious Blue Boar, and thought you could rush
+the frontier in very rapid cars."
+
+"Yes," replied the smuggler placidly.  "We were quite literally
+[[Road]]-Hogs. I thought at first of dressing the pigs up as millionaires
+and members of Parliament; but when you come to look close,
+there's more difference than you would imagine to be possible. 
+It was great fun when they forced me to take my pet out of
+the wrapping of shawls, and they found what a large pet it was."
+
+"And do I understand,' cut in the Colonel, "that it was something
+like that--with the other laws?"
 
 "The other laws," said Pierce, "are certainly arbitrary, but you
 do not altogether do them justice.  You do not quite appreciate
@@ -111,27 +134,3 @@ with hanging ears and legs, to complete that pantomimic resemblance.
 As the great aerial [[Monster|monster]] moved up the valley it paused over
 the inn of the Blue Boar, and something fell fluttering from it
 like a brightly coloured feather.
-
-"People are coming down in parachutes," said the Colonel shortly.
-
-"They're queer-looking people," remarked his companion, peering under
-frowning brows, for the level light was dazzling to the eyes. 
-"By George, they're not people at all!  They're pigs!"
-
-From that distance, the objects in question had something of
-the appearance of cherubs in some gaily coloured Gothic picture,
-with the yellow sky for their gold-leaf background.  The parachute
-apparatus from which they hung and hovered was designed and coloured
-with the appearance of a great [[Wheel|wheel]] of gorgeously painted plumage,
-looking more gaudy than ever in the strong evening light
-that lay over all.  The more the two men in the quarry stared
-at these strange objects, the more certain it seemed that they
-were indeed pigs; though whether the pigs were dead or alive it
-was impossible at that distance to say.  They looked down into
-the [[Garden|garden]] of the inn into which the feathered things were dropping,
-and they could see the figure of Joan Hardy standing in front
-of the old pig-sty, with her bird-like head lifted, looking up into the sky.
-
-"Singular present for a young lady," remarked Crane, "but I suppose
-when our mad young friend does start [[Love|love]]-making, he would be likely
-to give impossible presents."

@@ -14,6 +14,37 @@ tags:
 </nav>
 
 
+Between nine and ten o’[[Clock|clock]] at [[Night|night]], we arrived at Lebanon which is
+renowned for its warm baths, and for a great hotel, [[Well|well]] adapted, I have
+no [[Doubt|doubt]], to the gregarious taste of those seekers after health or
+pleasure who repair here, but inexpressibly comfortless to me.  We were
+shown into an immense apartment, lighted by two dim candles, called the
+drawing-room: from which there was a descent by a flight of steps, to
+another vast [[Desert|desert]], called the dining-room: our bed-chambers were among
+certain long rows of little white-washed cells, which opened from either
+side of a dreary passage; and were so like rooms in a [[Prison|prison]] that I half
+expected to be locked up when I went to bed, and listened involuntarily
+for the turning of the key on the outside.  There need be baths somewhere
+in the neighbourhood, for the other washing arrangements were on as
+limited a scale as I ever saw, even in [[america|America]]: indeed, these bedrooms
+were so very bare of even such common luxuries as chairs, that I should
+say they were not provided with enough of anything, but that I bethink
+myself of our having been most bountifully bitten all [[Night|night]].
+
+The [[house]] is very pleasantly situated, however, and we had a good
+breakfast.  That done, we went to visit our place of destination, which
+was some two miles off, and the way to which was soon indicated by a
+finger-post, whereon was painted, ‘To the Shaker Village.’
+
+As we rode along, we passed a party of Shakers, who were at work upon the
+[[Road|road]]; who wore the broadest of all broad-brimmed hats; and were in all
+visible respects such very wooden men, that I felt about as much sympathy
+for them, and as much interest in them, as if they had been so many
+figure-heads of ships.  Presently we came to the beginning of the
+village, and alighting at the door of a [[house]] where the Shaker
+manufactures are sold, and which is the headquarters of the elders,
+requested permission to see the Shaker worship.
+
 Pending the conveyance of this request to some person in authority, we
 walked into a grim room, where several grim hats were hanging on grim
 pegs, and the [[Time|time]] was grimly told by a grim [[Clock|clock]] which uttered every
@@ -83,45 +114,3 @@ waters,’ are commonly announced for sale in the shops of towns and
 cities.  They are good breeders of cattle, and are kind and merciful to
 the brute creation.  Consequently, Shaker beasts seldom fail to find a
 ready market.
-
-They eat and drink together, after the Spartan model, at a great public
-table.  There is no [[Union|union]] of the sexes, and every Shaker, male and
-female, is devoted to a life of celibacy.  Rumour has been busy upon this
-theme, but here again I must refer to the lady of the store, and say,
-that if many of the sister Shakers resemble her, I treat all such slander
-as bearing on its face the strongest marks of wild improbability.  But
-that they take as proselytes, persons so young that they cannot know
-their own minds, and cannot possess much strength of resolution in this
-or any other respect, I can assert from my own observation of the extreme
-juvenility of certain youthful Shakers whom I saw at work among the party
-on the [[Road|road]].
-
-They are said to be good drivers of bargains, but to be honest and just
-in their transactions, and even in [[Horse|horse]]-dealing to resist those thievish
-tendencies which would seem, for some undiscovered reason, to be almost
-inseparable from that branch of traffic.  In all matters they hold their
-own course quietly, live in their gloomy, silent commonwealth, and show
-little [[Desire|desire]] to interfere with other people.
-
-This is [[Well|well]] enough, but nevertheless I cannot, I confess, incline
-towards the Shakers; view them with much favour, or extend towards them
-any very lenient construction.  I so abhor, and from my [[Soul|soul]] detest that
-bad spirit, no matter by what class or sect it may be entertained, which
-would strip life of its healthful graces, rob youth of its [[Innocent|innocent]]
-pleasures, pluck from maturity and age their pleasant ornaments, and make
-existence but a narrow path towards the [[Grave|grave]]: that odious spirit which,
-if it could have had full scope and sway upon the earth, must have
-blasted and made barren the imaginations of the greatest men, and left
-them, in their power of raising up enduring images before their
-fellow-creatures yet [[unborn]], no better than the beasts: that, in these
-very broad-brimmed hats and very sombre coats—in stiff-necked,
-solemn-visaged piety, in short, no matter what its garb, whether it have
-cropped hair as in a Shaker village, or long nails as in a Hindoo
-temple—I recognise the worst among the enemies of Heaven and Earth, who
-turn the [[Water|water]] at the [[Marriage|marriage]] feasts of this poor world, not into wine,
-but gall.  And if there must be people vowed to crush the harmless
-fancies and the [[Love|love]] of [[Innocent|innocent]] delights and gaieties, which are a part
-of human [[Nature|nature]]: as much a part of it as any other [[Love|love]] or [[Hope|hope]] that is
-our common portion: let them, for me, stand openly revealed among the
-ribald and licentious; the very idiots know that _they_ are not on the
-Immortal [[Road|road]], and will despise them, and avoid them readily.

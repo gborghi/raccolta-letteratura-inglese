@@ -14,6 +14,24 @@ tags:
 </nav>
 
 
+‘That was right!’ said the [[Child|child]] eagerly.
+
+‘Miss Nell,’ cried the boy coming under the [[Window|window]], and speaking in a
+lower tone, ‘there are new masters down stairs.  It’s a change for you.’
+
+‘It is indeed,’ replied the [[Child|child]].
+
+‘And so it will be for him when he gets better,’ said the boy, pointing
+towards the sick room.
+
+‘--If he ever does,’ added the [[Child|child]], unable to restrain her [[Tears|tears]].
+
+‘Oh, he’ll do that, he’ll do that,’ said Kit.  ‘I’m sure he will.  You
+mustn’t be cast down, Miss Nell.  Now don’t be, pray!’
+
+These words of encouragement and consolation were few and roughly said,
+but they affected the [[Child|child]] and made her, for the moment, weep the more.
+
 ‘He’ll be sure to get better now,’ said the boy anxiously, ‘if you
 don’t give way to low spirits and turn ill yourself, which would make
 him worse and throw him back, just as he was recovering.  When he does,

@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 12: TWELVE (part 3)"
+title: "Martin Chuzzlewit — Chapter 12: TWELVE (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_12_twelve/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_12_twelve/part_04">part 04 ›</a></div>
 </nav>
 
+
+Better than the gig! When were travellers by wheels and hoofs seen with
+such red-hot cheeks as those? when were they so good-humouredly and
+merrily bloused? when did their laughter ring upon the air, as they
+turned them round, what [[Time|time]] the stronger gusts came sweeping up; and,
+facing round again as they passed by, dashed on, in such a glow of
+ruddy health as nothing could keep pace with, but the high spirits it
+engendered? Better than the gig! Why, here is a man in a gig coming
+the same way now. Look at him as he passes his whip into his left hand,
+chafes his numbed right fingers on his granite leg, and beats those
+marble toes of his upon the foot-board. Ha, ha, ha! Who would exchange
+this rapid hurry of the [[Blood|blood]] for yonder stagnant misery, though its
+pace were twenty miles for one?
 
 Better than the gig! No man in a gig could have such interest in the
 milestones. No man in a gig could see, or feel, or think, like merry
@@ -107,20 +120,3 @@ he had, which he esteemed, as one might say, a pretty tidy vintage;
 for which the waiter thanked him and withdrew. And then John told his
 friends, with a broad grin, that he supposed it was all right, but he
 didn’t know; and went off into a perfect shout.
-
-They were very merry and full of enjoyment the whole [[Time|time]], but not the
-least pleasant part of the festival was when they all three sat about
-the [[Fire|fire]], cracking nuts, drinking wine and talking cheerfully. It
-happened that [[Tom Pinch]] had a word to say to his friend the organist’s
-assistant, and so deserted his warm corner for a few minutes at this
-season, lest it should grow too late; leaving the other two young men
-together.
-
-They drank his health in his absence, of course; and John Westlock took
-that opportunity of saying, that he had never had even a peevish word
-with Tom during the whole term of their residence in Mr Pecksniff’s
-[[house]]. This naturally led him to dwell upon Tom’s character, and to hint
-that Mr Pecksniff understood it pretty [[Well|well]]. He only hinted this, and
-very distantly; knowing that it pained [[Tom Pinch]] to have that gentleman
-disparaged, and thinking it would be as [[Well|well]] to leave the new pupil to
-his own discoveries.

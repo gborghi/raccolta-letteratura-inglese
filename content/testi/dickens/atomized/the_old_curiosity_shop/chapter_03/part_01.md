@@ -151,11 +151,3 @@ his ear, said in a voice which was perfectly audible to all present,
 
 ‘Is fork, sir, fork,’ replied Mr Swiveller slapping his pocket. ‘You
 are awake, sir?’
-
-The [[Dwarf|dwarf]] nodded. Mr Swiveller drew back and nodded likewise, then drew
-a little further back and nodded again, and so on. By these means he in
-[[Time|time]] reached the door, where he gave a great cough to attract the
-[[Dwarf|dwarf]]’s attention and gain an opportunity of expressing in dumb show,
-the closest confidence and most inviolable secrecy.  Having performed
-the serious pantomime that was necessary for the due conveyance of
-these idea, he cast himself upon his friend’s track, and vanished.

@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 27 (part 8)"
+title: "Shirley — Chapter 27 (part 8)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,64 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_27/part_07">‹ part 07</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_28/part_01">part 01 ›</a></div>
 </nav>
 
+
+and then he spoke quietly to the ladies, and got them away; and
+
+afterwards he said to you, Miss [[Shirley]], that it was of no use talking
+
+or lecturing now, but that the tea-things were just brought into the
+
+schoolroom, and he was very thirsty, and he would be glad if you would
+
+leave your packing for the present and come and make a cup of tea for
+
+him and me. You came; you would not talk at first, but soon you softened
+
+and grew cheerful. Mr. Moore began to tell us about the Continent, the
+
+war, and Bonaparte--subjects we were both fond of listening to. After
+
+tea he said we should neither of us leave him that evening; he would not
+
+let us stray out of his sight, lest we should again get into mischief.
+
+We sat one on each side of him. We were so happy. I never passed so
+
+pleasant an evening. The next day he gave you, missy, a lecture of an
+
+hour, and wound it up by marking you a piece to learn in Bossuet as a
+
+punishment-lesson--'Le Cheval Dompté.' You learned it instead of packing
+
+up, [[Shirley]]. We heard no more of your running away. Mr. Moore used to
+
+tease you on the subject for a year afterwards."
+
+
+
+"She never said a lesson with greater spirit," subjoined Moore. "She
+
+then, for the first [[Time|time]], gave me the treat of hearing my native tongue
+
+spoken without accent by an English girl."
+
+
+
+"She was as sweet as [[Summer|summer]] cherries for a month afterwards," struck in
+
+Henry: "a good hearty quarrel always left [[Shirley]]'s temper better than
+
+it found it."
+
+
+
+"You talk of me as if I were not present," observed Miss Keeldar, who
+
+had not yet lifted her face.
+
+
+
+"Are you sure you _are_ present?" asked Moore. "There have been moments
 
 since my arrival here when I have been tempted to inquire of the lady of
 

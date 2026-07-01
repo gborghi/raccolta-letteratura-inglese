@@ -14,6 +14,8 @@ tags:
 </nav>
 
 
+“Hold then! True!” muttered her husband. “Gentlemen--my wife!”
+
 The three customers pulled off their hats to [[Madame Defarge]], with three
 flourishes. She acknowledged their homage by bending her head, and
 giving them a quick look. Then she glanced in a casual manner round the
@@ -138,9 +140,3 @@ of it had reached the young lady’s ears. But, by this [[Time|time]] she trembl
 under such strong emotion, and her face expressed such deep anxiety,
 and, above all, such dread and terror, that Mr. Lorry felt it incumbent
 on him to speak a word or two of reassurance.
-
-“[[Courage]], dear miss! [[Courage]]! Business! The worst will be over in a
-moment; it is but passing the room-door, and the worst is over. Then,
-all the good you bring to him, all the relief, all the happiness you
-bring to him, begin. Let our good friend here, assist you on that side.
-That’s [[Well|well]], friend Defarge. Come, now. Business, business!”

@@ -1,5 +1,5 @@
 ---
-title: "whats wrong — Part 2 (part 1)"
+title: "whats wrong — Part 3 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/whats-wrong-(chesterton)"
@@ -10,116 +10,129 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/whats-wrong-(chesterton)">whats wrong</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/whats_wrong/chapter_06/part_14">‹ part 14</a><a class="ex-next" href="/testi/chesterton/atomized/whats_wrong/chapter_07/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/whats_wrong/chapter_06/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/whats_wrong/chapter_07/part_02">part 02 ›</a></div>
 </nav>
 
 
-PART TWO
+PART THREE
 
-IMPERIALISM, OR THE MISTAKE ABOUT MAN
+FEMINISM, OR THE MISTAKE ABOUT WOMAN
 
 * * *
 
 I
 
-THE CHARM OF JINGOISM
+THE UNMILITARY SUFFRAGETTE
 
-I have cast about widely to find a title for this section; and I confess
-that the word "Imperialism" is a clumsy version of my meaning.  But no
-other word came nearer; "Militarism" would have been even more misleading,
-and "The Superman" makes nonsense of any discussion that he enters.
-Perhaps, upon the whole, the word "Caesarism" would have been better;
-but I [[Desire|desire]] a popular word; and Imperialism (as the reader will perceive)
-does cover for the most part the men and theories that I mean to discuss.
+It will be better to adopt in this chapter the same process
+that appeared a piece of mental justice in the last.
+My general opinions on the feminine question are such as many
+suffragists would warmly approve; and it would be easy to state
+them without any open reference to the current controversy.
+But just as it seemed more decent to say first that I was not
+in favor of Imperialism even in its practical and popular sense,
+so it seems more decent to say the same of Female Suffrage,
+in its practical and popular sense.  In other words,
+it is only fair to state, however hurriedly, the superficial
+objection to the Suffragettes before we go on to the really
+subtle questions behind the Suffrage.
 
-This small confusion is increased, however, by the fact that I
-do also disbelieve in Imperialism in its popular sense,
-as a mode or theory of the patriotic sentiment of this country.
-But popular Imperialism in England has very little to do
-with the sort of Caesarean Imperialism I wish to [[Sketch|sketch]].
-I differ from the Colonial idealism of Rhodes' and Kipling;
-but I do not think, as some of its opponents do, that it
-is an insolent creation of English harshness and rapacity.
-Imperialism, I think, is a fiction created, not by English hardness,
-but by English softness; nay, in a sense, even by English kindness.
+[[Well]], to get this honest but unpleasant business over, the objection
+to the Suffragettes is not that they are Militant Suffragettes.
+On the contrary, it is that they are not militant enough.
+A revolution is a military thing; it has all the military virtues;
+one of which is that it comes to an end.  Two parties fight
+with deadly weapons, but under certain rules of arbitrary honor;
+the party that wins becomes the [[government]] and proceeds to govern.
+The aim of civil war, like the aim of all war, is peace.
+Now the Suffragettes cannot raise civil war in this
+soldierly and decisive sense; first, because they are women;
+and, secondly, because they are very few women.  But they can
+raise something else; which is altogether another pair of shoes.
+They do not create revolution; what they do create is anarchy;
+and the difference between these is not a question of violence,
+but a question of fruitfulness and finality.  Revolution of its
+[[Nature|nature]] produces [[government]]; anarchy only produces more anarchy.
+Men may have what opinions they please about the beheading
+of [[King]] Charles or [[King]] Louis, but they cannot deny that Bradshaw
+and Cromwell ruled, that Carnot and Napoleon governed.
+Someone conquered; something occurred.  You can only knock off
+the [[King]]'s head once.  But you can knock off the [[King]]'s hat any
+number of times.  Destruction is finite, obstruction is infinite:
+so long as rebellion takes the form of mere disorder
+(instead of an attempt to enforce a new order) there is no logical
+end to it; it can feed on itself and renew itself forever.
+If Napoleon had not wanted to be a Consul, but only wanted to be
+a nuisance, he could, possibly, have prevented any [[government]]
+arising successfully out of the Revolution.  But such a proceeding
+would not have deserved the dignified name of rebellion.
 
-The reasons for believing in Australia are mostly as sentimental
-as the most sentimental reasons for believing in heaven.
-New South Wales is quite literally regarded as a place where the wicked
-cease from troubling and the weary are at rest; that is, a paradise
-for uncles who have turned dishonest and for nephews who are born tired.
-British Columbia is in strict sense a fairyland, it is a world where
-a [[Magic|magic]] and irrational luck is supposed to attend the youngest sons.
-This strange optimism about the ends of the earth is an English weakness;
-but to show that it is not a coldness or a harshness it is quite
-sufficient to say that no one shared it more than that gigantic
-English sentimentalist--the great Charles Dickens.  The end
-of "[[David Copperfield]]" is unreal not merely because it is an
-optimistic ending, but because it is an Imperialistic ending.
-The decorous British happiness planned out for [[David Copperfield]] and Agnes
-would be embarrassed by the perpetual presence of the hopeless [[Tragedy|tragedy]]
-of Emily, or the more hopeless farce of Micawber.  Therefore, both Emily
-and Micawber are shipped off to a vague colony where changes
-come over them with no conceivable cause, except the climate.
-The tragic woman becomes contented and the comic man becomes responsible,
-solely as the result of a sea voyage and the first sight of a kangaroo.
+It is exactly this unmilitant quality in the Suffragettes that makes
+their superficial problem.  The problem is that their action has none
+of the advantages of ultimate violence; it does not afford a test.
+War is a dreadful thing; but it does prove two points sharply
+and unanswerably--numbers, and an unnatural valor.  One does discover
+the two urgent matters; how many rebels there are alive, and how many
+are ready to be dead.  But a tiny minority, even an interested minority,
+may maintain mere disorder forever.  There is also, of course, in the case
+of these women, the further falsity that is introduced by their sex.
+It is false to state the matter as a mere brutal question of strength.
+If his muscles give a man a vote, then his [[Horse|horse]] ought to have two votes
+and his elephant five votes.  The [[Truth|truth]] is more subtle than that;
+it is that bodily outbreak is a man's instinctive weapon, like the hoofs
+to the [[Horse|horse]] or the tusks to the elephant.  All riot is a threat
+of war; but the woman is brandishing a weapon she can never use.
+There are many weapons that she could and does use.  If (for example)
+all the women nagged for a vote they would get it in a month.
+But there again, one must remember, it would be necessary to get all
+the women to nag.  And that brings us to the end of the political surface
+of the matter.  The working objection to the Suffragette [[philosophy]]
+is simply that overmastering millions of women do not agree with it.
+I am aware that some maintain that women ought to have votes whether the
+majority wants them or not; but this is surely a strange and childish case
+of setting up formal [[Democracy|democracy]] to the destruction of actual [[Democracy|democracy]].
+What should the mass of women decide if they do not decide their general
+place in the State?  These people practically say that females may vote
+about everything except about Female Suffrage.
 
-To Imperialism in the light political sense, therefore, my only
-objection is that it is an illusion of comfort; that an Empire whose
-heart is failing should be specially proud of the extremities,
-is to me no more [[Sublime|sublime]] a fact than that an old dandy whose
-brain is gone should still be proud of his legs.  It consoles men
-for the evident ugliness and apathy of England with legends of fair
-youth and heroic strenuousness in distant continents and islands.
-A man can sit amid the squalor of Seven Dials and feel that
-life is [[Innocent|innocent]] and godlike in the bush or on the veldt.
-Just so a man might sit in the squalor of Seven Dials and feel that
-life was [[Innocent|innocent]] and godlike in Brixton and Surbiton.  Brixton and
-Surbiton are "new"; they are expanding; they are "nearer to [[Nature|nature]],"
-in the sense that they have eaten up [[Nature|nature]] mile by mile.
-The only objection is the objection of fact.  The young men of Brixton
-are not young giants.  The [[lovers]] of Surbiton are not all pagan poets,
-singing with the sweet energy of the [[spring]].  Nor are the people
-of the Colonies when you meet them young giants or pagan poets.
-They are mostly [[cockneys|Cockneys]] who have lost their last music of real things
-by getting out of the sound of Bow [[Bells]].  Mr. Rudyard Kipling,
-a man of real though decadent genius, threw a theoretic glamour
-over them which is already fading.  Mr. Kipling is, in a precise
-and rather startling sense, the exception that proves the rule.
-For he has [[Imagination|imagination]], of an oriental and cruel kind, but he has it,
-not because he grew up in a new country, but precisely because he grew
-up in the oldest country upon earth.  He is rooted in a past--
-an Asiatic past.  He might never have written "Kabul [[River]]"
-if he had been born in Melbourne.
+But having again cleared my [[Conscience|conscience]] of my merely political
+and possibly unpopular opinion, I will again cast back and try
+to treat the matter in a slower and more sympathetic style;
+attempt to trace the real roots of woman's position in
+the western state, and the causes of our existing traditions
+or perhaps prejudices upon the point.  And for this purpose
+it is again necessary to travel far from the modern topic,
+the mere Suffragette of today, and to go back to subjects which,
+though much more old, are, I think, considerably more fresh.
 
-I say frankly, therefore (lest there should be any air of evasion),
-that Imperialism in its common patriotic pretensions appears to me both
-weak and perilous.  It is the attempt of a European country to create
-a kind of sham Europe which it can dominate, instead of the real Europe,
-which it can only share.  It is a [[Love|love]] of living with one's inferiors.
-The notion of restoring the Roman Empire by oneself and for oneself
-is [[A Dream|a dream]] that has haunted every Christian nation in a different shape
-and in almost every shape as a snare.  The Spanish are a consistent
-and conservative people; therefore they embodied that attempt at Empire
-in long and lingering dynasties.  The French are a violent people,
-and therefore they twice conquered that Empire by violence of arms.
-The English are above all a poetical and optimistic people;
-and therefore their Empire is something vague and yet sympathetic,
-something distant and yet dear.  But this dream of theirs of being
-powerful in the uttermost places, though a native weakness, is still
-a weakness in them; much more of a weakness than gold was to Spain
-or glory to Napoleon.  If ever we were in collision with our real
-brothers and rivals we should leave all this fancy out of account.
-We should no more dream of pitting Australian armies against German than
-of pitting Tasmanian sculpture against French.  I have thus explained,
-lest anyone should accuse me of concealing an unpopular attitude,
-why I do not believe in Imperialism as commonly understood.
-I think it not merely an occasional wrong to other peoples,
-but a continuous feebleness, a running sore, in my own.
-But it is also true that I have dwelt on this Imperialism that is
-an amiable delusion partly in order to show how different it is from
-the deeper, more sinister and yet more persuasive thing that I have
-been forced to call Imperialism for the convenience of this chapter.
-In order to get to the root of this evil and quite un-English Imperialism
-we must cast back and begin anew with a more general discussion
-of the first needs of human intercourse.
+* * *
+
+II
+
+THE UNIVERSAL STICK
+
+Cast your eye round the room in which you sit, and select some three
+or four things that have been with man almost since his beginning;
+which at least we hear of early in the centuries and often among
+the tribes.  Let me suppose that you see a knife on the table,
+a stick in the corner, or a [[Fire|fire]] on the hearth.  About each of these
+you will notice one speciality; that not one of them is special.
+Each of these ancestral things is a universal thing;
+made to supply many different needs; and while tottering pedants
+nose about to find the cause and origin of some old custom,
+the [[Truth|truth]] is that it had fifty causes or a hundred origins.
+The knife is meant to cut wood, to cut [[cheese]], to cut pencils,
+to cut throats; for a myriad ingenious or [[Innocent|innocent]] human objects.
+The stick is meant partly to hold a man up, partly to knock a man down;
+partly to point with like a finger-post, partly to balance with
+like a balancing pole, partly to trifle with like a cigarette,
+partly to kill with like a club of a giant; it is a crutch and a cudgel;
+an elongated finger and an extra leg.  The case is the same, of course,
+with the [[Fire|fire]]; about which the strangest modern views have arisen.
+A queer fancy seems to be current that a [[Fire|fire]] exists to warm people.
+It exists to warm people, to light their darkness, to raise
+their spirits, to toast their muffins, to air their rooms,
+to cook their chestnuts, to tell stories to their children, to make
+checkered shadows on their walls, to boil their hurried kettles,
+and to be the red heart of a man's [[house]] and that hearth for which,
+as the great heathens said, a man should die.

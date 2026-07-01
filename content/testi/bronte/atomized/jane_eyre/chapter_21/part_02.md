@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 21 (part 2)"
+title: "Jane Eyre — Chapter 21 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -201,16 +201,3 @@ I’m not quite up to it.”
 “Then say it.”
 
 “Farewell, Mr. Rochester, for the present.”
-
-“What must I say?”
-
-“The same, if you like, sir.”
-
-“Farewell, Miss Eyre, for the present; is that all?”
-
-“Yes.”
-
-“It seems stingy, to my notions, and dry, and unfriendly. I should like
-something else: a little addition to the rite. If one shook hands, for
-instance; but no—that would not content me either. So you’ll do no more
-than say Farewell, Jane?”

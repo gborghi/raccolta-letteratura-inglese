@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 14 (part 2)"
+title: "Our Mutual Friend — Chapter 17 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,141 +14,130 @@ tags:
 </nav>
 
 
-The Golden Dustman, with his hands folded on the top of his stout
-stick, with his chin resting upon them, and with something leering and
-whimsical in his eyes, gave a nod, and said, ‘Quite so, [[Venus]].’
+Mr Twemlow’s dry and hollow cheeks become more dry and hollow at the
+prospect of some new complication.
 
-‘That proposal, sir, was a conspiring breach of your confidence, to
-such an extent, that I ought at once to have made it known to you. But I
-didn’t, Mr Boffin, and I fell into it.’
+‘Really,’ says the uneasy little gentleman, ‘really, Mrs Lammle, I
+should take it as a favour if you could excuse me from any further
+confidence. It has ever been one of the objects of my life—which,
+unfortunately, has not had many objects—to be inoffensive, and to keep
+out of cabals and interferences.’
 
-Without moving eye or finger, Mr Boffin gave another nod, and placidly
-repeated, ‘Quite so, [[Venus]].’
+Mrs Lammle, by far the more observant of the two, scarcely finds it
+necessary to look at Twemlow while he speaks, so easily does she read
+him.
 
-‘Not that I was ever hearty in it, sir,’ the penitent anatomist went
-on, ‘or that I ever viewed myself with anything but reproach for having
-turned out of the paths of science into the paths of—’ he was going
-to say ‘villany,’ but, unwilling to press too hard upon himself,
-substituted with great emphasis—‘Weggery.’
+‘My postscript—to retain the term I have used’—says Mrs Lammle, fixing
+her eyes on his face, to enforce what she says herself—‘coincides
+exactly with what you say, Mr Twemlow. So far from troubling you with
+any new confidence, I merely wish to remind you what the old one was. So
+far from asking you for interference, I merely wish to claim your strict
+neutrality.’
 
-Placid and whimsical of look as ever, Mr Boffin answered:
+Twemlow going on to reply, she rests her eyes again, knowing her ears to
+be quite enough for the contents of so weak a vessel.
 
-‘Quite so, [[Venus]].’
+‘I can, I suppose,’ says Twemlow, nervously, ‘offer no reasonable
+objection to hearing anything that you do me the [[Honour|honour]] to wish to say
+to me under those heads. But if I may, with all possible delicacy and
+politeness, entreat you not to range beyond them, I—I beg to do so.’
 
-‘And now, sir,’ said [[Venus]], ‘having prepared your mind in the rough, I
-will articulate the details.’ With which brief professional exordium, he
-entered on the [[history]] of the friendly move, and truly recounted it. One
-might have thought that it would have extracted some show of surprise or
-anger, or other emotion, from Mr Boffin, but it extracted nothing beyond
-his former comment:
+‘Sir,’ says Mrs Lammle, raising her eyes to his face again, and quite
+daunting him with her hardened manner, ‘I imparted to you a certain
+piece of knowledge, to be imparted again, as you thought best, to a
+certain person.’
 
-‘Quite so, [[Venus]].’
+‘Which I did,’ says Twemlow.
 
-‘I have astonished you, sir, I believe?’ said [[Mr Venus]], pausing
-dubiously.
+‘And for doing which, I thank you; though, indeed, I scarcely know why
+I turned traitress to my husband in the matter, for the girl is a poor
+little [[Fool|fool]]. I was a poor little [[Fool|fool]] once myself; I can find no better
+reason.’ Seeing the effect she produces on him by her indifferent laugh
+and cold look, she keeps her eyes upon him as she proceeds. ‘Mr Twemlow,
+if you should chance to see my husband, or to see me, or to see both of
+us, in the favour or confidence of any one else—whether of our common
+acquaintance or not, is of no consequence—you have no right to use
+against us the knowledge I intrusted you with, for one special purpose
+which has been accomplished. This is what I came to say. It is not a
+stipulation; to a gentleman it is simply a reminder.’
 
-Mr Boffin simply answered as aforesaid: ‘Quite so, [[Venus]].’
+Twemlow sits murmuring to himself with his hand to his forehead.
 
-By this [[Time|time]] the astonishment was all on the other side. It did not,
-however, so continue. For, when [[Venus]] passed to Wegg’s discovery, and
-from that to their having both seen Mr Boffin dig up the Dutch bottle,
-that gentleman changed colour, changed his attitude, became extremely
-restless, and ended (when [[Venus]] ended) by being in a state of manifest
-anxiety, trepidation, and confusion.
+‘It is so plain a case,’ Mrs Lammle goes on, ‘as between me (from the
+first relying on your [[Honour|honour]]) and you, that I will not waste another
+word upon it.’ She looks steadily at Mr Twemlow, until, with a shrug,
+he makes her a little one-sided bow, as though saying ‘Yes, I think you
+have a right to rely upon me,’ and then she moistens her lips, and shows
+a sense of relief.
 
-‘Now, sir,’ said [[Venus]], finishing off; ‘you best know what was in that
-Dutch bottle, and why you dug it up, and took it away. I don’t pretend
-to know anything more about it than I saw. All I know is this: I am
-proud of my calling after all (though it has been attended by one
-dreadful drawback which has told upon my heart, and almost equally upon
-my [[skeleton]]), and I mean to live by my calling. Putting the same meaning
-into other words, I do not mean to turn a single dishonest penny by this
-affair. As the best amends I can make you for having ever gone into it,
-I make known to you, as a warning, what Wegg has found out. My opinion
-is, that Wegg is not to be silenced at a modest price, and I build that
-opinion on his beginning to dispose of your property the moment he knew
-his power. Whether it’s worth your while to [[Silence|silence]] him at any price,
-you will decide for yourself, and take your measures accordingly. As
-far as I am concerned, I have no price. If I am ever called upon for
-the [[Truth|truth]], I tell it, but I want to do no more than I have now done and
-ended.’
+‘I trust I have kept the promise I made through your servant, that I
+would detain you a very few minutes. I need trouble you no longer, Mr
+Twemlow.’
 
-‘Thank’ee, [[Venus]]!’ said Mr Boffin, with a hearty grip of his hand;
-‘thank’ee, [[Venus]], thank’ee, [[Venus]]!’ And then walked up and down the
-little shop in great agitation. ‘But look here, [[Venus]],’ he by-and-by
-resumed, nervously sitting down again; ‘if I have to buy Wegg up, I
-shan’t buy him any cheaper for your being out of it. Instead of his
-having half the money—it was to have been half, I suppose? Share and
-share alike?’
+‘Stay!’ says Twemlow, rising as she rises. ‘Pardon me a moment. I should
+never have sought you out, madam, to say what I am going to say, but
+since you have sought me out and are here, I will throw it off my mind.
+Was it quite consistent, in candour, with our taking that resolution
+against Mr Fledgeby, that you should afterwards address Mr Fledgeby as
+your dear and confidential friend, and entreat a favour of Mr Fledgeby?
+Always supposing that you did; I assert no knowledge of my own on the
+subject; it has been represented to me that you did.’
 
-‘It was to have been half, sir,’ answered [[Venus]].
+‘Then he told you?’ retorts Mrs Lammle, who again has saved her eyes
+while listening, and uses them with strong effect while speaking.
 
-‘Instead of that, he’ll now have all. I shall pay the same, if not more.
-For you tell me he’s an unconscionable dog, a ravenous rascal.’
+‘Yes.’
 
-‘He is,’ said [[Venus]].
+‘It is strange that he should have told you the [[Truth|truth]],’ says Mrs
+Lammle, seriously pondering. ‘Pray where did a circumstance so very
+extraordinary happen?’
 
-‘Don’t you think, [[Venus]],’ insinuated Mr Boffin, after looking at the
-[[Fire|fire]] for a while—‘don’t you feel as if—you might like to pretend to be
-in it till Wegg was bought up, and then ease your mind by handing over
-to me what you had made believe to pocket?’
+Twemlow hesitates. He is shorter than the lady as [[Well|well]] as weaker, and,
+as she stands above him with her hardened manner and her [[Well|well]]-used eyes,
+he finds himself at such a disadvantage that he would like to be of the
+opposite sex.
 
-‘No I don’t, sir,’ returned [[Venus]], very positively.
+‘May I ask where it happened, Mr Twemlow? In strict confidence?’
 
-‘Not to make amends?’ insinuated Mr Boffin.
+‘I must confess,’ says the mild little gentleman, coming to his answer
+by degrees, ‘that I felt some compunctions when Mr Fledgeby mentioned
+it. I must admit that I could not regard myself in an agreeable light.
+More particularly, as Mr Fledgeby did, with great civility, which I
+could not feel that I deserved from him, render me the same service that
+you had entreated him to render you.’
 
-‘No, sir. It seems to me, after maturely thinking it over, that the best
-amends for having got out of the square is to get back into the square.’
+It is a part of the true nobility of the poor gentleman’s [[Soul|soul]] to say
+this last sentence. ‘Otherwise,’ he has reflected, ‘I shall assume the
+superior position of having no difficulties of my own, while I know of
+hers. Which would be mean, very mean.’
 
-‘Humph!’ mused Mr Boffin. ‘When you say the square, you mean—’
+‘Was Mr Fledgeby’s advocacy as effectual in your case as in ours?’ Mrs
+Lammle demands.
 
-‘I mean,’ said [[Venus]], stoutly and shortly, ‘the right.’
+‘As ineffectual.’
 
-‘It appears to me,’ said Mr Boffin, grumbling over the [[Fire|fire]] in an
-injured manner, ‘that the right is with me, if it’s anywhere. I have
-much more right to the old man’s money than the [[Crown]] can ever have.
-What was the [[Crown]] to him except the [[King]]’s Taxes? Whereas, me and my
-wife, we was all in all to him.’
+‘Can you make up your mind to tell me where you saw Mr Fledgeby, Mr
+Twemlow?’
 
-[[Mr Venus]], with his head upon his hands, rendered [[Melancholy|melancholy]] by the
-contemplation of Mr Boffin’s avarice, only murmured to steep himself
-in the luxury of that frame of mind: ‘She did not wish so to regard
-herself, nor yet to be so regarded.’
+‘I beg your pardon. I fully intended to have done so. The reservation
+was not intentional. I encountered Mr Fledgeby, quite by accident, on
+the spot.—By the expression, on the spot, I mean at Mr Riah’s in Saint
+Mary Axe.’
 
-‘And how am I to live,’ asked Mr Boffin, piteously, ‘if I’m to be going
-buying fellows up out of the little that I’ve got? And how am I to set
-about it? When am I to get my money ready? When am I to make a bid? You
-haven’t told me when he threatens to drop down upon me.’
+‘Have you the misfortune to be in Mr Riah’s hands then?’
 
-[[Venus]] explained under what conditions, and with what views, the dropping
-down upon Mr Boffin was held over until the Mounds should be cleared
-away. Mr Boffin listened attentively. ‘I suppose,’ said he, with a
-gleam of [[Hope|hope]], ‘there’s no [[Doubt|doubt]] about the genuineness and date of this
-confounded will?’
+‘Unfortunately, madam,’ returns Twemlow, ‘the one money obligation to
+which I stand committed, the one debt of my life (but it is a just debt;
+pray observe that I don’t dispute it), has fallen into Mr Riah’s hands.’
 
-‘None whatever,’ said [[Mr Venus]].
+‘Mr Twemlow,’ says Mrs Lammle, fixing his eyes with hers: which he would
+prevent her doing if he could, but he can’t; ‘it has fallen into Mr
+Fledgeby’s hands. Mr Riah is his mask. It has fallen into Mr Fledgeby’s
+hands. Let me tell you that, for your guidance. The information may be
+of use to you, if only to prevent your credulity, in judging another
+man’s truthfulness by your own, from being imposed upon.’
 
-‘Where might it be deposited at present?’ asked Mr Boffin, in a
-wheedling tone.
+‘Impossible!’ cries Twemlow, standing aghast. ‘How do you know it?’
 
-‘It’s in my possession, sir.’
-
-‘Is it?’ he cried, with great eagerness. ‘Now, for any liberal sum of
-money that could be agreed upon, [[Venus]], would you put it in the [[Fire|fire]]?’
-
-‘No, sir, I wouldn’t,’ interrupted [[Mr Venus]].
-
-‘Nor pass it over to me?’
-
-‘That would be the same thing. No, sir,’ said [[Mr Venus]].
-
-The Golden Dustman seemed about to pursue these questions, when a
-stumping noise was heard outside, coming towards the door. ‘Hush! here’s
-Wegg!’ said [[Venus]]. ‘Get behind the young alligator in the corner, Mr
-Boffin, and judge him for yourself. I won’t light a candle till he’s
-gone; there’ll only be the glow of the [[Fire|fire]]; Wegg’s [[Well|well]] acquainted with
-the alligator, and he won’t take particular notice of him. Draw your
-legs in, Mr Boffin, at present I see a pair of shoes at the end of his
-tail. Get your head [[Well|well]] behind his smile, Mr Boffin, and you’ll lie
-comfortable there; you’ll find plenty of room behind his smile. He’s a
-little dusty, but he’s very like you in tone. Are you right, sir?’
+‘I scarcely know how I know it. The whole train of circumstances seemed
+to take [[Fire|fire]] at once, and show it to me.’

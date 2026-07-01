@@ -1,5 +1,5 @@
 ---
-title: "[[longbow2]] — Chapter 1 (part 4)"
+title: "longbow2 — Chapter 1 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -13,6 +13,26 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/longbow2/chapter_01/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/longbow2/chapter_01/part_05">part 05 ›</a></div>
 </nav>
 
+
+When Crane came out of his front gate that morning he found his
+neighbour Vernon-[[smith|Smith]] standing outside, between the spreading
+laburnum and the lamp-post, talking to a young lady, a distant
+cousin of his family.  This girl was an art student on her own--
+a little too much on her own for the standards of Heatherbrae, and,
+therefore (some would infer), yet further beyond those of White Lodge. 
+Her brown hair was bobbed, and the Colonel did not admire
+bobbed hair.  On the other hand, she had a rather attractive face,
+with honest brown eyes a little too wide apart, which diminished
+the impression of [[Beauty|beauty]] but increased the impression of honesty. 
+She also had a very fresh and unaffected voice, and the Colonel
+had often heard it calling out scores at tennis on the other side
+of the [[Garden|garden]] wall.  In some vague sort of way it made him feel old;
+at least, he was not sure whether he felt older than he was,
+or younger than he ought to be.  It was not until they met under
+the lamp-post that he knew her name was Audrey [[smith|Smith]]; and he was
+faintly thankful for the single monosyllable.  Mr. Vernon-[[smith|Smith]]
+presented her, and very nearly said:  "May I introduce my cabbage?"
+instead of "my cousin."
 
 The Colonel, with unaffected dullness, said it was a fine day;
 and his neighbour, rallying from his last narrow escape,
@@ -107,30 +127,3 @@ the real reason.  I might even say I promise you shall SEE the real reason."
 
 "Why, of course I will," said the unconventional one heartily. 
 "Thanks awfully."
-
-The Colonel took an intense interest in the appointments of the
-luncheon next day.  With subconscious surprise he found himself
-not only interested, but excited.  Like many of his type, he took
-a pleasure in doing such things [[Well|well]], and knew his way about in wine
-and cookery.  But that would not [[Alone|alone]] explain his pleasure. 
-For he knew that young women generally know very little about wine,
-and emancipated young women possibly least of all.  And though he
-meant the cookery to be good, he knew that in one feature it would
-appear rather fantastic.  Again, he was a good-natured gentleman
-who would always have liked young people to enjoy a luncheon party,
-as he would have liked a [[Child|child]] to enjoy a Christmas tree.  But there
-seemed no reason why he should have a sort of happy insomnia,
-like a [[Child|child]] on Christmas Eve.  There was really no excuse for his
-pacing up and down the [[Garden|garden]] with his cigar, smoking furiously far
-into the [[Night|night]].  For as he gazed at the purple irises and the grey pool
-in the faint moonshine, something in his feelings passed as if from
-the one tint to the other; he had a new and unexpected reaction. 
-For the first [[Time|time]] he really hated the masquerade he had made
-himself endure.  He wished he could smash the cabbage as he had
-smashed the top-hat. He was little more than forty years old;
-but he had never realized how much there was of what was dried
-and faded about his flippancy, till he felt unexpectedly swelling
-within him the monstrous and solemn [[Vanity|vanity]] of a young man. 
-Sometimes he looked up at the picturesque, the too picturesque,
-outline of the [[house]] next door, dark against the moonrise, and thought
-he heard faint voices in it, and something like a laugh.

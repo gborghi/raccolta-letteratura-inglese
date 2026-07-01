@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 12 (part 1)"
+title: "Jane Eyre — Chapter 12 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -112,19 +112,3 @@ asked her questions about her native country; but she was not of a
 descriptive or narrative turn, and generally gave such vapid and
 confused answers as were calculated rather to check than encourage
 inquiry.
-
-October, November, December passed away. One afternoon in January, Mrs.
-Fairfax had begged a holiday for Adèle, because she had a cold; and, as
-Adèle seconded the request with an ardour that reminded me how precious
-occasional holidays had been to me in my own [[Childhood|childhood]], I accorded it,
-deeming that I did [[Well|well]] in showing pliability on the point. It was a
-fine, calm day, though very cold; I was tired of sitting still in the
-library through a whole long morning: Mrs. Fairfax had just written a
-letter which was waiting to be posted, so I put on my bonnet and cloak
-and volunteered to carry it to Hay; the distance, two miles, would be a
-pleasant [[Winter|winter]] afternoon walk. Having seen Adèle comfortably seated in
-her little chair by Mrs. Fairfax’s parlour fireside, and given her her
-best wax doll (which I usually kept enveloped in silver paper in a
-drawer) to play with, and a story-book for change of amusement; and
-having replied to her “Revenez bientôt, ma bonne amie, ma chère Mdlle.
-Jeannette,” with a kiss, I set out.

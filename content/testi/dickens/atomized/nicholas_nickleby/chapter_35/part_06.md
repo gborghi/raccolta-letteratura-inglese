@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 35 (part 6)"
+title: "Nicholas Nickleby — Chapter 35 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -10,9 +10,29 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/nicholas-nickleby-(dickens)">Nicholas Nickleby</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_35/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_36/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_35/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_35/part_07">part 07 ›</a></div>
 </nav>
 
+
+At length brother Ned and Tim Linkinwater came back together, when Tim
+instantly walked up to Nicholas and whispered in his ear in a very brief
+sentence (for Tim was ordinarily a man of few words), that he had taken
+down the address in the Strand, and would call upon him that evening,
+at eight. Having done which, Tim wiped his spectacles and put them on,
+preparatory to hearing what more the brothers Cheeryble had got to say.
+
+‘Tim,’ said brother Charles, ‘you understand that we have an intention
+of taking this young gentleman into the counting-[[house]]?’
+
+Brother Ned remarked that Tim was aware of that intention, and quite
+approved of it; and Tim having nodded, and said he did, drew himself up
+and looked particularly fat, and very important. After which, there was
+a profound [[Silence|silence]].
+
+‘I’m not coming an hour later in the morning, you know,’ said Tim,
+breaking out all at once, and looking very resolute. ‘I’m not going to
+[[Sleep|sleep]] in the fresh air; no, nor I’m not going into the country either. A
+pretty thing at this [[Time|time]] of day, certainly. Pho!’
 
 ‘Damn your obstinacy, Tim Linkinwater,’ said brother Charles, looking at
 him without the faintest spark of anger, and with a countenance radiant
@@ -101,48 +121,3 @@ hundred and twenty pounds a year.
 ‘And I think, my dear brother,’ said Nicholas’s first friend, ‘that
 if we were to let them that little cottage at Bow which is empty, at
 something under the usual rent, now? Eh, brother Ned?’
-
-‘For nothing at all,’ said brother Ned. ‘We are rich, and should be
-ashamed to touch the rent under such circumstances as these. Where is
-Tim Linkinwater?--for nothing at all, my dear brother, for nothing at
-all.’
-
-‘Perhaps it would be better to say something, brother Ned,’ suggested
-the other, mildly; ‘it would help to preserve habits of frugality, you
-know, and remove any painful sense of overwhelming obligations. We might
-say fifteen pound, or twenty pound, and if it was punctually paid, make
-it up to them in some other way. And I might secretly advance a small
-loan towards a little furniture, and you might secretly advance another
-small loan, brother Ned; and if we find them doing [[Well|well]]--as we shall;
-there’s no [[Fear|fear]], no [[Fear|fear]]--we can change the loans into gifts. Carefully,
-brother Ned, and by degrees, and without pressing upon them too much;
-what do you say now, brother?’
-
-Brother Ned gave his hand upon it, and not only said it should be done,
-but had it done too; and, in one short week, Nicholas took possession of
-the stool, and Mrs. Nickleby and Kate took possession of the [[house]], and
-all was [[Hope|hope]], bustle, and light-heartedness.
-
-There surely never was such a week of discoveries and surprises as
-the first week of that cottage. Every [[Night|night]] when Nicholas came [[Home|home]],
-something new had been found out. One day it was a grapevine, and
-another day it was a boiler, and another day it was the key of the
-front-parlour closet at the [[Bottom|bottom]] of the [[Water|water]]-butt, and so on through
-a hundred items. Then, this room was embellished with a muslin curtain,
-and that room was rendered quite elegant by a [[Window|window]]-blind, and such
-improvements were made, as no one would have supposed possible. Then
-there was Miss La Creevy, who had come out in the omnibus to stop a day
-or two and help, and who was perpetually losing a very small brown-paper
-parcel of tin tacks and a very large hammer, and running about with
-her sleeves tucked up at the wrists, and falling off pairs of steps and
-hurting herself very much--and Mrs. Nickleby, who talked incessantly, and
-did something now and then, but not often--and Kate, who busied herself
-noiselessly everywhere, and was pleased with everything--and [[Smike]], who
-made the [[Garden|garden]] a perfect [[Wonder|wonder]] to look upon--and Nicholas, who helped
-and encouraged them every one--all the peace and cheerfulness of [[Home|home]]
-restored, with such new zest imparted to every frugal pleasure, and such
-delight to every hour of meeting, as misfortune and separation [[Alone|alone]]
-could give!
-
-In short, the poor Nicklebys were social and happy; while the rich
-Nickleby was [[Alone|alone]] and miserable.

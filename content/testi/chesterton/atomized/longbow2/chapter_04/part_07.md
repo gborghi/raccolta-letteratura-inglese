@@ -1,5 +1,5 @@
 ---
-title: "[[longbow2]] — Chapter 4 (part 7)"
+title: "longbow2 — Chapter 4 (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -13,6 +13,41 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/longbow2/chapter_04/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/longbow2/chapter_05/part_01">part 01 ›</a></div>
 </nav>
 
+
+"I think," said Crane, interposing mildly, "that it would be
+better if you resumed your duties as official interpreter. 
+What was it that you were going to say about the lady who brooded
+over misunderstandings?"
+
+"I was going to say," replied the lawyer, "that when I first
+came upon that crowd in the village, and saw that tall figure
+and dark strong face dominating it in the old way, my mind went
+back to a score of things I remembered about her in the past. 
+Though we have not met for ten years, I knew from the first glimpse
+of her face that she had been worrying, in a powerful secretive sort
+of way; worrying about something she didn't understand and would
+not inquire about.  I remember long ago, when she was an ordinary
+fox-hunting squire's daughter and White was one of Sydney [[smith|Smith]]'s
+wild curates, how she sulked for two months over a mistake about
+a post-card that could have been explained in two minutes. 
+At least it could have been explained by anybody except White. 
+But you will understand that if he tried to explain the post-card
+on another post-card, the results may not have been luminous,
+let [[Alone|alone]] radiant."
+
+"But what has all this to do with noses?" inquired Pierce.
+
+"Don't you understand yet?" asked Hood with a smile.  "Don't you
+know who was the rival with the long nose?"
+
+He paused for a moment and then continued, "It occurred to me as soon
+as I had guessed at the [[Nature|nature]] of the nose which may certainly
+be called the main feature of the story.  An elusive, flexible and
+insinuating nose, the serpent of their Eden.  [[Well]], they seem
+to have returned to their Eden now; and I have no [[Doubt|doubt]] it will
+be all right; for it is when people are separated that these sort
+of [[Secrets|secrets]] [[spring]] up between them.  After all, it was a mystery
+to us and we cannot be surprised if it was a mystery to her."
 
 "A good deal of this talk is still rather a mystery to me,"
 remarked Pierce, "though I admit it is getting a little clearer. 
@@ -60,8 +95,8 @@ without knowing it?"
 
 "Yes," replied Hood.  "You remember when you were smuggling pigs
 in defiance of the regulations, you indulged (I regret to say)
-in a [[Deception|deception]] of putting them in cages and pretending you were
-travelling with a menagerie of dangerous [[Animals|animals]].  The consequence was,
+in a deception of putting them in cages and pretending you were
+travelling with a menagerie of dangerous animals.  The consequence was,
 you remember, that the authorities forbade menageries altogether. 
 Our friend White took up the case of a travelling circus being
 stopped in his town as a case of gross oppression; and when they
@@ -73,7 +108,7 @@ had to break it up, he took over the elephant."
 "He might not have done it if he'd known what it involved," said Hood. 
 "As I say, he was a quarrelsome fellow, with all his good points."
 
-There was a [[Silence|silence]], and then Pierce said in a musing manner: 
+There was a silence, and then Pierce said in a musing manner: 
 "It's odd it should be the sequel of my little pig adventure. 
 A sort of reversal of the ~parturiunt montes~; I put in a little pig
 and it brought forth an elephant."

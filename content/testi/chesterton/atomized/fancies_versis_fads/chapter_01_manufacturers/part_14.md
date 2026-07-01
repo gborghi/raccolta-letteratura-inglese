@@ -42,7 +42,7 @@ The greatest of Roman satirists noted that in his day the more fast of
 the fashionable ladies liked to fight as gladiators in the amphitheatre.
 In that one statement he pinned and killed, like moths on a cork,
 a host of women prophets and women pioneers and large-minded liberators
-of their sex in modern England and [[america|America]].  But besides these more
+of their sex in modern England and [[America]].  But besides these more
 showy she-gladiators there are also multitudes of worthy and sincere
 women who take the new (or rather old) professions seriously.
 The only disadvantage is that in many of those professions they

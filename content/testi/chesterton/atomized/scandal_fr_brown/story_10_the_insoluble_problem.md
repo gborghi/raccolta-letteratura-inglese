@@ -703,7 +703,7 @@ the Tiger turned to escape by it. [[Flambeau]] and Tiger Tyrone looked at
 each other with steady eyes and exchanged something that was almost like
 a military salute.
 
-Meanwhile [[Father Brown]] had slipped into the chapel, to say a [[Prayer|prayer]] for
+Meanwhile [[Father Brown]] had slipped into the chapel, to say a [[prayer]] for
 several persons involved in these unseemly events. But he was rather
 smiling than otherwise, and, to tell the [[Truth|truth]], he was not by any means
 hopeless about Mr Tyrone and his deplorable family; but rather more

@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 14 (part 5)"
+title: "Shirley — Chapter 14 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,30 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_14/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_15/part_01">part 01 ›</a></div>
 </nav>
 
+
+and sexton delighted in him; the noble patron of his living esteemed him
+
+highly. It was only with young, handsome, fashionable, and stylish
+
+ladies he felt a little shy. Being himself a plain man--plain in aspect,
+
+plain in manners, plain in speech--he seemed to [[Fear|fear]] their dash,
+
+elegance, and airs. But Miss Helstone had neither dash nor airs, and her
+
+native elegance was of a very quiet order--quiet as the [[Beauty|beauty]] of a
+
+ground-loving hedge-flower. He was a fluent, cheerful, agreeable talker.
+
+Caroline could talk too in a _tête-à-tête_. She liked Mr. Hall to come
+
+and take the seat next her in a party, and thus secure her from Peter
+
+Augustus Malone, Joseph Donne, or John Sykes; and Mr. Hall never failed
+
+to avail himself of this privilege when he possibly could. Such
+
+preference shown by a single gentleman to a single lady would certainly,
 
 in ordinary cases, have set in motion the tongues of the gossips; but
 

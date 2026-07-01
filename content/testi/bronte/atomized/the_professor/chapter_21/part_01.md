@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 20 (part 1)"
+title: "The Professor — Chapter 20 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -10,13 +10,11 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/works/the-professor-(bronte)">The Professor</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_professor/chapter_20/part_07">‹ part 07</a><a class="ex-next" href="/testi/bronte/atomized/the_professor/chapter_21/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_professor/chapter_20/part_08">‹ part 08</a><a class="ex-next" href="/testi/bronte/atomized/the_professor/chapter_21/part_02">part 02 ›</a></div>
 </nav>
 
 
 CHAPTER XX.
-
-
 
 A COMPETENCY was what I wanted; a competency it was now my aim and
 
@@ -41,8 +39,6 @@ voluntarily cut off 20l. from my yearly income; I had diminished my 60l.
 per annum to 40l., and even that sum I now held by a very precarious
 
 tenure.
-
-
 
 It is some [[Time|time]] since I made any reference to M. Pelet. The moonlight
 
@@ -114,8 +110,6 @@ mistrust of the hand which I had detected attempting to stab in the
 
 dark.
 
-
-
 This state of things continued till about the middle of July, and then
 
 there was a little change; Pelet came [[Home|home]] one [[Night|night]], an hour after his
@@ -166,8 +160,6 @@ about, his eyes in a fine frenzy [[rolling]]--a pretty sight he was, a just
 
 medium between the [[Fool|fool]] and the lunatic.
 
-
-
 “Come, M. Pelet,” said I, “you had better go to bed,” and I took hold of
 
 his arm. His excitement, of course, increased greatly at sight and touch
@@ -191,9 +183,3 @@ in the same breath, anathematized [[Zoraide Reuter]]; he termed her “femme
 sotte et vicieuse,” who, in a fit of lewd caprice, had thrown herself
 
 away on an unprincipled adventurer; directing the point of the last
-
-appellation by a furious blow, obliquely aimed at me. I left him in the
-
-act of bounding elastically out of the bed into which I had tucked him;
-
-but, as I took the precaution of turning the key in the door behind me,

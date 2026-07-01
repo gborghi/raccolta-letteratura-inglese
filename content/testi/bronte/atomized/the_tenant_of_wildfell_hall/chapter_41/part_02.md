@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 41 (part 2)"
+title: "The Tenant of Wildfell Hall — Chapter 41 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_41/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_41/part_03">part 03 ›</a></div>
 </nav>
 
+
+cordiality between us than ever there was before, since our early
+
+[[Childhood|childhood]]. My heart clings to him more than ever; and my [[Soul|soul]] is sick
+
+of [[Solitude|solitude]].
+
+
+
+April 16th.—He is come and gone. He would not stay above a fortnight.
 
 The [[Time|time]] passed quickly, but very, very happily, and it has done me
 
@@ -32,7 +42,7 @@ was bad enough in his day. But what would Frederick have been, if he
 
 had lived in the world, and mingled from his [[Childhood|childhood]] with such men as
 
-these of my acquaintance? and what _will_ [[arthur|Arthur]] be, with all his
+these of my acquaintance? and what _will_ [[Arthur]] be, with all his
 
 natural sweetness of disposition, if I do not save him from that world
 
@@ -102,7 +112,7 @@ Frederick was exceedingly indignant against Mr. Huntingdon, and very
 
 much grieved for me; but still he looked upon my project as wild and
 
-impracticable. He deemed my fears for [[arthur|Arthur]] disproportioned to the
+impracticable. He deemed my fears for [[Arthur]] disproportioned to the
 
 circumstances, and opposed so many objections to my plan, and devised
 
@@ -219,13 +229,3 @@ her exertions; and as for Mr. Oldfield, she has given him to understand
 that I have refused his offer, not from any dislike of his person, but
 
 merely because I am giddy and young, and cannot at present reconcile
-
-myself to the thoughts of [[Marriage|marriage]] under any circumstances: but by next
-
-season, she has no [[Doubt|doubt]], I shall have more sense, and hopes my girlish
-
-fancies will be worn away. So she has brought me [[Home|home]], to school me
-
-into a proper sense of my duty, against the [[Time|time]] comes round again.
-
-Indeed, I believe she will not put herself to the expense of taking me

@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 14: MY AUNT MAKES UP HER MIND ABOUT ME (part 3)"
+title: "David Copperfield — Chapter 14: MY AUNT MAKES UP HER MIND ABOUT ME (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_14_my_aunt_makes_up_her_mind_abou/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_14_my_aunt_makes_up_her_mind_abou/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘Yes, [[Child|child]],’ said my aunt, rubbing her nose again. ‘He is memorializing
+the Lord Chancellor, or the Lord Somebody or other--one of those people,
+at all events, who are paid to be memorialized--about his affairs. I
+suppose it will go in, one of these days. He hasn’t been able to draw
+it up yet, without introducing that mode of expressing himself; but it
+don’t signify; it keeps him employed.’
 
 In fact, I found out afterwards that Mr. Dick had been for upwards
 of ten years endeavouring to keep [[King]] Charles the First out of the
@@ -110,11 +117,3 @@ steps, until my aunt should be at leisure to receive them. My aunt, a
 little ruffled by the combat, marched past them into the [[house]], with
 great dignity, and took no notice of their presence, until they were
 announced by Janet.
-
-‘Shall I go away, aunt?’ I asked, trembling.
-
-‘No, sir,’ said my aunt. ‘Certainly not!’ With which she pushed me into
-a corner near her, and fenced Me in with a chair, as if it were a [[Prison|prison]]
-or a bar of justice. This position I continued to occupy during the
-whole interview, and from it I now saw Mr. and Miss Murdstone enter the
-room.

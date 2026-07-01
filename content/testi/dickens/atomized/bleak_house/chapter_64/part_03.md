@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 64 (part 3)"
+title: "Bleak House — Chapter 64 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,28 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_64/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_64/part_04">part 04 ›</a></div>
 </nav>
 
+
+He stopped to kiss me on the forehead, and I sobbed and wept afresh.
+For I felt as if I could not bear the painful delight of his praise.
+
+“Hush, little woman! Don’t cry; this is to be a day of joy. I have
+looked forward to it,” he said exultingly, “for months on months! A
+few words more, Dame Trot, and I have said my say. Determined not to
+throw away one atom of my Esther’s worth, I took Mrs. Woodcourt into
+a separate confidence. ‘Now, madam,’ said I, ‘I clearly perceive—and
+indeed I know, to boot—that your son loves my ward. I am further
+very sure that my ward loves your son, but will sacrifice her [[Love|love]] to
+a sense of duty and affection, and will sacrifice it so completely,
+so entirely, so religiously, that you should never suspect it though
+you watched her [[Night|night]] and day.’ Then I told her all our
+story—ours—yours and mine. ‘Now, madam,’ said I, ‘come you, knowing
+this, and live with us. Come you, and see my [[Child|child]] from hour to hour;
+set what you see against her pedigree, which is this, and this’—for
+I scorned to mince it—‘and tell me what is the true legitimacy when
+you shall have quite made up your mind on that subject.’ Why, [[Honour|honour]]
+to her old Welsh [[Blood|blood]], my dear,” cried my guardian with enthusiasm,
+“I believe the heart it animates beats no less warmly, no less
+admiringly, no less lovingly, towards Dame Durden than my own!”
 
 He tenderly raised my head, and as I clung to him, kissed me in his
 old fatherly way again and again. What a light, now, on the
@@ -103,38 +125,3 @@ remarkable manner, “I had an idea that I should see Miss Summerson by
 herself and was not quite prepared for your esteemed presence. But
 Miss Summerson has mentioned to you, perhaps, that something has
 passed between us on former occasions?”
-
-“Miss Summerson,” returned my guardian, smiling, “has made a
-communication to that effect to me.”
-
-“That,” said Mr. Guppy, “makes matters easier. Sir, I have come out
-of my articles at Kenge and Carboy’s, and I believe with satisfaction
-to all parties. I am now admitted (after undergoing an examination
-that’s enough to badger a man blue, touching a pack of nonsense that
-he don’t want to know) on the roll of attorneys and have taken out my
-certificate, if it would be any satisfaction to you to see it.”
-
-“Thank you, Mr. Guppy,” returned my guardian. “I am quite willing—I
-believe I use a legal phrase—to admit the certificate.”
-
-Mr. Guppy therefore desisted from taking something out of his pocket
-and proceeded without it.
-
-“I have no capital myself, but my mother has a little property which
-takes the form of an annuity”—here Mr. Guppy’s mother rolled her
-head as if she never could sufficiently enjoy the observation, and
-put her handkerchief to her mouth, and again winked at me—“and a few
-pounds for expenses out of pocket in conducting business will never
-be wanting, free of interest, which is an advantage, you know,” said
-Mr. Guppy feelingly.
-
-“Certainly an advantage,” returned my guardian.
-
-“I HAVE some connexion,” pursued Mr. Guppy, “and it lays in the
-direction of Walcot Square, Lambeth. I have therefore taken a ’ouse
-in that locality, which, in the opinion of my friends, is a hollow
-bargain (taxes ridiculous, and use of fixtures included in the rent),
-and intend setting up professionally for myself there forthwith.”
-
-Here Mr. Guppy’s mother fell into an extraordinary passion of [[rolling]]
-her head and smiling waggishly at anybody who would look at her.

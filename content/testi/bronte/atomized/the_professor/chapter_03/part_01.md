@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 2 (part 1)"
+title: "The Professor — Chapter 2 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -183,9 +183,3 @@ Mr. Crimsworth, having removed his mackintosh, sat down by the [[Fire|fire]]. I
 remained standing near the hearth; he said presently--
 
 “Steighton, you may leave the room; I have some business to transact
-
-with this gentleman. Come back when you hear the bell.”
-
-The individual at the desk [[Rose|rose]] and departed, closing the door as he
-
-went out. Mr. Crimsworth stirred the [[Fire|fire]], then folded his arms, and sat

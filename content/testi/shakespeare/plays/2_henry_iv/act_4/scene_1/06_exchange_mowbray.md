@@ -1,5 +1,5 @@
 ---
-title: "2 [[Henry IV]] — Act IV, Scene 1 — exchange ([[Mowbray|MOWBRAY]]) [6]"
+title: "2 Henry IV — Act IV, Scene 1 — exchange (MOWBRAY) [6]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/2-henry-iv-(shakespeare)"

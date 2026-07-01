@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 34 (part 6)"
+title: "Bleak House — Chapter 34 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_34/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_35/part_01">part 01 ›</a></div>
 </nav>
 
+
+Nor has he anything more to say or do but to nod once in the same
+frigid and discourteous manner and to say briefly, “You can go. Show
+these men out, there!” Being shown out, they repair to Mr. Bagnet’s
+residence to dine.
 
 Boiled beef and greens constitute the day’s variety on the former
 repast of boiled pork and greens, and Mrs. Bagnet serves out the meal

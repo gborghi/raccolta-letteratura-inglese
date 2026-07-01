@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 46 (part 2)"
+title: "Great Expectations — Chapter 46 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -123,6 +123,3 @@ remarking to Herbert that he and I had better not go [[Home|home]] together, and
 that I would take half an hour’s start of him. “I don’t like to leave
 you here,” I said to Provis, “though I cannot [[Doubt|doubt]] your being safer
 here than near me. Good-bye!”
-
-“Dear boy,” he answered, clasping my hands, “I don’t know when we may
-meet again, and I don’t like good-bye. Say good-[[Night|night]]!”

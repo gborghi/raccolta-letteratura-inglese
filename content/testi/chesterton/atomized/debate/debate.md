@@ -1,5 +1,5 @@
 ---
-title: "[[debate]]"
+title: "debate"
 author: "Chesterton"
 unitType: work
 parentWork: "works/debate-(chesterton)"
@@ -317,9 +317,9 @@ have said in all sincerity that anything possessed by the State
 or the [[government|Government]] would be in fact possessed by the Commons:
 in other words, by the community.  I do not wish to challenge
 Mr. [[Shaw]] about later remarks of his, but I [[Doubt|doubt]] whether Mr. [[Shaw]],
-in his eternal youth, still believes in [[Democracy|democracy]] in that sense.
+in his eternal youth, still believes in [[democracy]] in that sense.
 I quite admit he has a more hopeful and hearty outlook in some respects,
-and he has even gone to the length of saying that if [[Democracy|democracy]]
+and he has even gone to the length of saying that if [[democracy]]
 will not do for mankind, perhaps it will do for some other
 creature different from mankind.  He has almost proposed to invent
 a new animal, which might be supposed to live for 300 years.
@@ -565,12 +565,12 @@ as a malefactor, than in treating a murderer as a malefactor?
 Having said that much about the property part of the business,
 1 think I have succeeded in establishing that Mr. Chesterton does
 not disagree with me.  I should like to say I do not believe
-in [[Democracy]].  I do believe in Catholicism; but I hold that the
+in [[democracy|Democracy]].  I do believe in Catholicism; but I hold that the
 Irish Episcopal Protestant Church, of which I was baptized a member,
 takes the name of Catholicism in vain; that the Roman Church has
 also taken it in vain; and so with the Greek Church and the rest.
 My Catholicism is really catholic Catholicism:  that is what I
-believe in, as apart from this voting business and [[Democracy|democracy]].
+believe in, as apart from this voting business and [[democracy]].
 Does Mr. Chesterton agree with me on that?
 
 MR. CHESTERTON:  Among the bewildering welter of fallacies which

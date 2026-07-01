@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 10 (part 6)"
+title: "Wuthering Heights — Chapter 10 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -13,6 +13,26 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_10/part_05">‹ part 05</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_11/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Catherine!” said [[Isabella]], calling up her dignity, and disdaining to
+struggle from the tight grasp that held her, “I’d thank you to adhere
+to the [[Truth|truth]] and not slander me, even in joke! Mr. [[Heathcliff]], be kind
+enough to bid this friend of yours release me: she forgets that you and
+I are not intimate acquaintances; and what amuses her is painful to me
+beyond expression.”
+
+As the guest answered nothing, but took his seat, and looked thoroughly
+indifferent what sentiments she cherished concerning him, she turned
+and whispered an earnest appeal for liberty to her tormentor.
+
+“By no means!” cried Mrs. Linton in answer. “I won’t be named a dog in
+the manger again. You _shall_ stay: now then! [[Heathcliff]], why don’t you
+evince satisfaction at my pleasant news? [[Isabella]] swears that the [[Love|love]]
+[[Edgar]] has for me is nothing to that she entertains for you. I’m sure
+she made some speech of the kind; did she not, Ellen? And she has
+fasted ever since the day before yesterday’s walk, from sorrow and rage
+that I despatched her out of your society under the idea of its being
+unacceptable.”
 
 “I think you belie her,” said [[Heathcliff]], twisting his chair to face
 them. “She wishes to be out of my society now, at any rate!”

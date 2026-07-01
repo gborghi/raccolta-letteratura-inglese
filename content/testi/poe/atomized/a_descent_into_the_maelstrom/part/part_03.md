@@ -1,5 +1,5 @@
 ---
-title: "[[A Descent Into the Maelstrom]] (part 3)"
+title: "A Descent Into the Maelstrom (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/a-descent-into-the-maelstrom-(poe)"
@@ -13,6 +13,31 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/a_descent_into_the_maelstrom/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/a_descent_into_the_maelstrom/part/part_04">part 04 ›</a></div>
 </nav>
 
+
+      The attempts to account for the phenomenon—some of which, I
+      remember, seemed to me sufficiently plausible in perusal—now wore
+      a very different and unsatisfactory aspect. The idea generally
+      received is that this, as [[Well|well]] as three smaller vortices among
+      the Ferroe islands, “have no other cause than the collision of
+      waves rising and falling, at flux and reflux, against a ridge of
+      rocks and shelves, which confines the [[Water|water]] so that it
+      precipitates itself like a cataract; and thus the higher the
+      flood rises, the deeper must the fall be, and the natural result
+      of all is a whirlpool or vortex, the prodigious suction of which
+      is sufficiently known by lesser experiments.”—These are the words
+      of the Encyclopædia Britannica. Kircher and others imagine that
+      in the centre of the channel of the Maelström is an abyss
+      penetrating the globe, and issuing in some very remote part—the
+      Gulf of Bothnia being somewhat decidedly named in one instance.
+      This opinion, idle in itself, was the one to which, as I gazed,
+      my [[Imagination|imagination]] most readily assented; and, mentioning it to the
+      guide, I was rather surprised to hear him say that, although it
+      was the view almost universally entertained of the subject by the
+      Norwegians, it nevertheless was not his own. As to the former
+      notion he confessed his inability to comprehend it; and here I
+      agreed with him—for, however conclusive on paper, it becomes
+      altogether unintelligible, and even absurd, amid the thunder of
+      the abyss.
 
       “You have had a good look at the whirl now,” said the old man,
       “and if you will creep round this crag, so as to get in its lee,
@@ -85,31 +110,3 @@ tags:
       from the south-west, while the sun shone brightly, so that the
       oldest seaman among us could not have foreseen what was to
       follow.
-
-      “The three of us—my two brothers and myself—had crossed over to
-      the islands about two o’[[Clock|clock]] P. M., and had soon nearly loaded
-      the smack with fine fish, which, we all remarked, were more
-      plenty that day than we had ever known them. It was just seven,
-      _by my watch_, when we weighed and started for [[Home|home]], so as to
-      make the worst of the Ström at slack [[Water|water]], which we knew would
-      be at eight.
-
-      “We set out with a fresh [[Wind|wind]] on our starboard quarter, and for
-      some [[Time|time]] spanked along at a great rate, never dreaming of
-      danger, for indeed we saw not the slightest reason to apprehend
-      it. All at once we were taken aback by a breeze from over
-      Helseggen. This was most unusual—something that had never
-      happened to us before—and I began to feel a little uneasy,
-      without exactly knowing why. We put the boat on the [[Wind|wind]], but
-      could make no headway at all for the eddies, and I was upon the
-      point of proposing to return to the anchorage, when, looking
-      astern, we saw the whole horizon covered with a singular
-      copper-colored cloud that [[Rose|rose]] with the most amazing velocity.
-
-      “In the meantime the breeze that had headed us off fell away, and
-      we were dead becalmed, drifting about in every direction. This
-      state of things, however, did not last long enough to give us
-      [[Time|time]] to think about it. In less than a minute the [[Storm|storm]] was upon
-      us—in less than two the sky was entirely overcast—and what with
-      this and the driving spray, it became suddenly so dark that we
-      could not see each other in the smack.

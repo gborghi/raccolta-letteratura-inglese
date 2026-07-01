@@ -1,5 +1,5 @@
 ---
-title: "[[The Gold-Bug]]"
+title: "The Gold-Bug"
 author: "Poe"
 unitType: work
 parentWork: "works/the-gold-bug-(poe)"
@@ -279,7 +279,7 @@ _—All in the Wrong._
 
 
 
-      “Perhaps so,” said I; “but, Legrand, I [[Fear|fear]] you are no [[Artist|artist]]. I
+      “Perhaps so,” said I; “but, Legrand, I [[Fear|fear]] you are no [[artist]]. I
 
       must wait until I see the beetle itself, if I am to form any idea
 
@@ -1921,7 +1921,7 @@ _—All in the Wrong._
 
       graphic powers irritated me—for I am considered a good
 
-      [[Artist|artist]]—and, therefore, when you handed me the scrap of parchment,
+      [[artist]]—and, therefore, when you handed me the scrap of parchment,
 
       I was about to crumple it up and throw it angrily into the [[Fire|fire]].”
 

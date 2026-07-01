@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 22: TWENTY TWO (part 1)"
+title: "Martin Chuzzlewit — Chapter 22: TWENTY TWO (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -104,7 +104,7 @@ Lord Byron?
 
 ‘PUTNAM SMIF
 
-‘P.S.--Address your answer to [[America]] Junior, Messrs. Hancock & Floby,
+‘P.S.--Address your answer to [[america|America]] Junior, Messrs. Hancock & Floby,
 Dry Goods Store, as above.’
 
 

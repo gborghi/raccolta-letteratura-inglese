@@ -1,5 +1,5 @@
 ---
-title: "[[Troilus]] and [[Cressida]] — Act IV, Scene 6 — exchange ([[Hector|HECTOR]]) [5]"
+title: "Troilus and Cressida — Act IV, Scene 6 — exchange (HECTOR) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/troilus-and-cressida-(shakespeare)"

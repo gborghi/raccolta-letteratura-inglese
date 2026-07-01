@@ -1,5 +1,5 @@
 ---
-title: "[[Macbeth]] — Act I, Scene 3 — exchange ([[Banquo|BANQUO]]) [2]"
+title: "Macbeth — Act I, Scene 3 — exchange (BANQUO) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/macbeth-(shakespeare)"

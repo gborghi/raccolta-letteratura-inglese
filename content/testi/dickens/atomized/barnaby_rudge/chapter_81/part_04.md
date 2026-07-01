@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 81 (part 4)"
+title: "Barnaby Rudge — Chapter 81 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -12,6 +12,33 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/barnaby-rudge-(dickens)">Barnaby Rudge</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_81/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_81/part_05">part 05 ›</a></div>
 </nav>
+
+
+‘That being the case,’ returned Sir John, without the least emotion, ‘it
+is very fortunate we have met to-[[Night|night]]. Haredale, I have always despised
+you, as you know, but I have given you credit for a species of brute
+[[Courage|courage]]. For the [[Honour|honour]] of my judgment, which I had thought a good one,
+I am sorry to find you a coward.’
+
+Not another word was spoken on either side. They crossed swords, though
+it was now quite dusk, and attacked each other fiercely. They were
+[[Well|well]] matched, and each was thoroughly skilled in the management of his
+weapon.
+
+After a few seconds they grew hotter and more furious, and pressing on
+each other inflicted and received several slight wounds. It was directly
+after receiving one of these in his arm, that Mr Haredale, making a
+keener thrust as he felt the warm [[Blood|blood]] spirting out, plunged his [[Sword|sword]]
+through his opponent’s [[Body|body]] to the hilt.
+
+Their eyes met, and were on each other as he drew it out. He put his
+arm about the dying man, who repulsed him, feebly, and dropped upon the
+turf. Raising himself upon his hands, he gazed at him for an instant,
+with scorn and hatred in his look; but, seeming to remember, even then,
+that this expression would distort his features after [[Death|death]], he tried
+to smile, and, faintly moving his right hand, as if to hide his bloody
+linen in his vest, fell back dead--the [[Phantom|phantom]] of last [[Night|night]].
+
 
 
 Chapter the Last
@@ -89,52 +116,3 @@ great, and in bestowing alms among them he considered the necessities of
 all alike, and knew no distinction of sect or creed. There are wise men
 in the highways of the world who may learn something, even from this
 poor crazy lord who died in Newgate.
-
-To the last, he was truly served by bluff John Grueby. John was at his
-side before he had been four-and-twenty hours in the Tower, and never
-left him until he died. He had one other constant attendant, in the
-person of a beautiful Jewish girl; who attached herself to him
-from feelings half religious, half romantic, but whose virtuous and
-disinterested character appears to have been beyond the censure even of
-the most censorious.
-
-Gashford deserted him, of course. He subsisted for a [[Time|time]] upon his
-traffic in his master’s [[Secrets|secrets]]; and, this trade failing when the stock
-was quite exhausted, procured an appointment in the honourable corps
-of spies and eavesdroppers employed by the [[government]]. As one of these
-wretched underlings, he did his drudgery, sometimes abroad, sometimes at
-[[Home|home]], and long endured the various miseries of such a station. Ten or a
-dozen years ago--not more--a meagre, wan old man, diseased and miserably
-poor, was found dead in his bed at an obscure inn in the Borough, where
-he was quite unknown. He had taken [[Poison|poison]]. There was no clue to his
-name; but it was discovered from certain entries in a pocket-book he
-carried, that he had been secretary to [[Lord George Gordon]] in the [[Time|time]] of
-the famous riots.
-
-Many months after the re-establishment of peace and order, and even when
-it had ceased to be the town-talk, that every military officer, kept at
-free quarters by the [[City]] during the late alarms, had cost for his board
-and lodging four pounds four per day, and every private soldier two and
-twopence halfpenny; many months after even this engrossing topic was
-forgotten, and the United Bulldogs were to a man all killed, imprisoned,
-or transported, Mr [[Simon Tappertit]], being removed from a hospital
-to [[Prison|prison]], and thence to his place of trial, was discharged by
-proclamation, on two wooden legs. Shorn of his graceful limbs, and
-brought down from his high estate to circumstances of utter destitution,
-and the deepest misery, he made shift to stump back to his old master,
-and beg for some relief. By the locksmith’s advice and aid, he was
-established in business as a shoeblack, and opened shop under an archway
-near the [[Horse]] Guards. This being a central quarter, he quickly made a
-very large connection; and on levee days, was sometimes known to have
-as many as twenty half-pay officers waiting their turn for polishing.
-Indeed his trade increased to that extent, that in course of [[Time|time]] he
-entertained no less than two apprentices, besides taking for his wife
-the widow of an eminent bone and rag collector, formerly of Millbank.
-With this lady (who assisted in the business) he lived in great domestic
-happiness, only chequered by those little storms which serve to clear
-the atmosphere of wedlock, and brighten its horizon. In some of these
-gusts of bad weather, Mr Tappertit would, in the assertion of his
-prerogative, so far forget himself, as to correct his lady with a brush,
-or boot, or shoe; while she (but only in extreme cases) would retaliate
-by taking off his legs, and leaving him exposed to the derision of those
-urchins who delight in mischief.

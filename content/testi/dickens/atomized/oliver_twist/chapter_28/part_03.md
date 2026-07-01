@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 28 (part 3)"
+title: "Oliver Twist — Chapter 28 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_28/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_30/part_01">part 01 ›</a></div>
 </nav>
 
+
+At this point of the narrative the cook turned pale, and asked the
+housemaid to shut the door: who asked Brittles, who asked the tinker,
+who pretended not to hear.
 
 “—Heerd a noise,” continued Mr. Giles. “I says, at first, ‘This is
 illusion’; and was composing myself off to [[Sleep|sleep]], when I heerd the

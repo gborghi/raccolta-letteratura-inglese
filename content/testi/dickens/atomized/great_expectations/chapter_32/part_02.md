@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 32 (part 2)"
+title: "Great Expectations — Chapter 32 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_32/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_33/part_01">part 01 ›</a></div>
 </nav>
 
+
+Almost as soon as he had spoken, a portly upright man (whom I can see
+now, as I write) in a [[Well|well]]-worn olive-coloured frock-coat, with a
+peculiar pallor overspreading the red in his complexion, and eyes that
+went wandering about when he tried to fix them, came up to a corner of
+the bars, and put his hand to his hat—which had a greasy and fatty
+surface like cold broth—with a half-serious and half-jocose military
+salute.
 
 “Colonel, to you!” said Wemmick; “how are you, Colonel?”
 

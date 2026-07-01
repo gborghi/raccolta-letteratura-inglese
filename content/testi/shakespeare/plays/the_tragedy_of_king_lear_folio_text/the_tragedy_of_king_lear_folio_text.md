@@ -1,5 +1,5 @@
 ---
-title: "THE [[Tragedy|TRAGEDY]] OF [[King Lear|KING LEAR]] - THE FOLIO TEXT"
+title: "THE TRAGEDY OF KING LEAR - THE FOLIO TEXT"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-tragedy-of-king-lear---the-folio-text-(shakespeare)"

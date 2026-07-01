@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown"
+title: "incredulity Fr Brown"
 author: "Chesterton"
 unitType: work
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -50,7 +50,7 @@ THERE was a brief period during which [[Father Brown]] enjoyed, or rather
 did not enjoy, something like fame. He was a nine days' [[Wonder|wonder]] in the
 newspapers; he was even a common topic of controversy in the weekly
 reviews; his exploits were narrated eagerly and inaccurately in any
-number of clubs and drawing - rooms, especially in [[america|America]]. Incongruous
+number of clubs and drawing - rooms, especially in [[America]]. Incongruous
 and indeed incredible as it may seem to any one who knew him, his
 adventures as a [[Detective|detective]] were even made the subject of short stories
 appearing in magazines.
@@ -59,7 +59,7 @@ Strangely enough, this wandering limelight struck him in the most
 obscure, or at least the most remote, of his many places of residence.
 He had been sent out to officiate, as something between a missionary and
 a parish priest, in one of those sections of the northern coast of South
-[[america|America]], where strips of country still cling insecurely to European
+[[America]], where strips of country still cling insecurely to European
 powers, or are continually threatening to become independent republics,
 under the gigantic [[Shadow|shadow]] of President Monroe. The population was red
 and brown with pink spots; that is, it was Spanish - American, and
@@ -219,7 +219,7 @@ Middle West. He took snapshots of the unfortunate cleric in the most
 commonplace occupations, and exhibited them in gigantic photographs in
 the gigantic [[Sunday]] papers of the United States. He turned his sayings
 into slogans, and was continually presenting the world with 'A message'
-from the reverend gentleman in South [[america|America]]. Any stock less strong and
+from the reverend gentleman in South [[America]]. Any stock less strong and
 strenuously receptive than the American race would have become very much
 bored with [[Father Brown]]. As it was, he received handsome and eager
 offers to go on a lecturing tour in the States; and when he declined,
@@ -309,7 +309,7 @@ American, particularly different from Mr Paul Snaith. His name was John
 Adams Race, and he was an electrical engineer, employed by Mendoza to
 fit out the old town with all the new conveniences. He was a figure far
 less familiar in [[Satire|satire]] and international gossip than that of the
-American journalist. Yet, as a matter of fact, [[america|America]] contains a
+American journalist. Yet, as a matter of fact, [[America]] contains a
 million men of the moral type of Race to one of the moral type of
 Snaith. He was exceptional in being exceptionally good at his job, but
 in every other way he was very simple. He had begun life as a druggist's
@@ -507,7 +507,7 @@ little, he went on in a tone still angry but more argumentative: 'I
 don't believe it, but you do. Isn't it better to have no God than one
 that robs you in this fashion? I, at least, am not afraid to say that
 there is none. There is no power in all this blind and brainless
-universe that can hear your [[prayer]] or return your friend. Though you beg
+universe that can hear your [[Prayer|prayer]] or return your friend. Though you beg
 Heaven to raise him, he will not rise. Though I dare Heaven to raise
 him, he will not rise. Here and now I will put it to the test - I defy
 the God who is not there to waken the man who sleeps for ever.'
@@ -759,10 +759,10 @@ much more important person than he had ever supposed. His short figure,
 his short - sighted and undistinguished countenance, his rather rusty -
 black clerical clothes, could pass through any crowd in his own country
 without being noticed as anything unusual, except perhaps unusually
-insignificant. But [[america|America]] has a genius for the encouragement of fame;
+insignificant. But [[America]] has a genius for the encouragement of fame;
 and his appearance in one or two curious criminal problems, together
 with his long association with [[Flambeau]], the ex - criminal and
-[[Detective|detective]], had consolidated a reputation in [[america|America]] out of what was
+[[Detective|detective]], had consolidated a reputation in [[America]] out of what was
 little more than a rumour in England. His round face was blank with
 surprise when he found himself held up on the quay by a group of
 journalists, as by a gang of brigands, who asked him questions about all
@@ -779,7 +779,7 @@ Wain.'
 
 Some apology may be made for [[Father Brown]]; for he himself would have
 been sincerely apologetic. It must be remembered that he had never seen
-[[america|America]] before, and more especially that he had never seen that sort of
+[[America]] before, and more especially that he had never seen that sort of
 tortoise - shell spectacles before; for the fashion at this [[Time|time]] had not
 spread to England. His first sensation was that of gazing at some
 goggling sea - [[Monster|monster]] with a faint suggestion of a diver's helmet.
@@ -964,7 +964,7 @@ respectively going and coming. And through all goings and comings
 another figure sat at the back of the room near the inner door, massive
 and motionless in the half - light from the inner [[Window|window]]; a man with a
 Negro face and enormous shoulders. This was what the humorous [[Self|self]] -
-criticism of [[america|America]] playfully calls the Bad Man; whom his friends might
+criticism of [[America]] playfully calls the Bad Man; whom his friends might
 call a bodyguard and his enemies a bravo.
 
 This man never moved or stirred to greet anybody; but the sight of him
@@ -2594,7 +2594,7 @@ FOUR: The Miracle of [[Moon]] Crescent
 the things that happened there were romantic enough in their way. At
 least it had been an expression of that genuine element of sentiment -
 historic and almost heroic - which manages to remain side by side with
-commercialism in the elder cities on the eastern coast of [[america|America]]. It
+commercialism in the elder cities on the eastern coast of [[America]]. It
 was originally a curve of classical architecture really recalling that
 eighteenth - century atmosphere in which men like Washington and
 Jefferson had seemed to be all the more republicans for being
@@ -2756,7 +2756,7 @@ movement out [[Home|home]]: we breathe. We don't pray; we breathe.'
 intelligent face which could hardly conceal the weariness; but he had
 listened to the two monologues with the admirable patience and
 politeness (so much in contrast with the legends of impatience and
-insolence) with which such monologues are listened to in [[america|America]].
+insolence) with which such monologues are listened to in [[America]].
 
 'Nothing [[Supernatural|supernatural]],' continued Alboin, 'just the great natural fact
 behind all the [[Supernatural|supernatural]] fancies. What did the Jews want with a God
@@ -3079,7 +3079,7 @@ and a comparatively short length of it hung from the fork of the branch
 to the [[Body|body]]. A long [[Garden|garden]] tub was rolled a yard or so from under the
 feet, like the stool kicked away from the feet of a [[suicide]].
 
-'Oh, my God!' said Alboin, so that it seemed as much a [[prayer]] as an
+'Oh, my God!' said Alboin, so that it seemed as much a [[Prayer|prayer]] as an
 oath.' What was it that man said about him? - 'If he knew, he would be
 ready to hang himself.' Wasn't that what he said, [[Father Brown]]?'
 
@@ -3294,7 +3294,7 @@ a miracle, as disbelieve in any man having any right to believe in a
 fact. The priest tells me that a man can appeal to a God I know nothing
 about to avenge him by the laws of some higher justice that I know
 nothing about. There's nothing for me to say except that I know nothing
-about it. But, at least, if the poor Paddy's [[prayer]] and [[Pistol|pistol]] could be
+about it. But, at least, if the poor Paddy's [[Prayer|prayer]] and [[Pistol|pistol]] could be
 heard in a higher world, that higher world might act in some way that
 seems odd to us. But you ask me to disbelieve the facts of this world as
 they appear to my own five wits. According to you, a whole procession of
@@ -3544,7 +3544,7 @@ Laputa. For the little table was one of many little tables dotted about
 in the dining saloon of that monstrous [[Ship|ship]] the Moravia, speeding
 through the [[Night|night]] and the everlasting emptiness of the Atlantic. The
 little company had nothing in common except that all were travelling
-from [[america|America]] to England. Two of them at least might be called
+from [[America]] to England. Two of them at least might be called
 celebrities; others might be called obscure, and in one or two cases
 even dubious.
 
@@ -4868,7 +4868,7 @@ rousing him.
 
 [[Father Brown]] was blinking in his short - sighted way at the paper
 presented to him. It was a singular sort of paper, rough without being
-common, as from an [[artist]]'s [[Sketch|sketch]] - book; and on it was drawn boldly in
+common, as from an [[Artist|artist]]'s [[Sketch|sketch]] - book; and on it was drawn boldly in
 red ink a dagger decorated with wings like the rod of Hermes, with the
 written words, '[[Death]] comes the day after this, as it came to your
 brothers.'
@@ -5361,8 +5361,8 @@ mere mechanical hypocrite. Any sort of mask can be put on any sort of
 face. Anybody can learn certain phrases or state verbally that he holds
 certain views. I can go out into the street and state that I am a
 Wesleyan Methodist or a Sandemanian, though I [[Fear|fear]] in no very convincing
-accent. But we are talking about an [[artist]]; and for the enjoyment of the
-[[artist]] the mask must be to some extent moulded on the face. What he
+accent. But we are talking about an [[Artist|artist]]; and for the enjoyment of the
+[[Artist|artist]] the mask must be to some extent moulded on the face. What he
 makes outside him must correspond to something inside him; he can only
 make his effects out of some of the materials of his [[Soul|soul]]. I suppose he
 could have said he was a Wesleyan Methodist; but he could never be an
@@ -5381,7 +5381,7 @@ notion of [[Christianity]].'
 you're denouncing or defending him.'
 
 'It isn't defending a man to say he is a genius,' said [[Father Brown]].
-'Far from it. And it is simply a psychological fact that an [[artist]] will
+'Far from it. And it is simply a psychological fact that an [[Artist|artist]] will
 betray himself by some sort of sincerity. Leonardo da Vinci cannot draw
 as if he couldn't draw. Even if he tried, it will always be a strong
 [[Parody|parody]] of a weak thing. This man would have made something much too
@@ -5415,8 +5415,8 @@ SEVEN: The Doom of the Darnaways
 Two landscape - painters stood looking at one landscape, which was also
 a seascape, and both were curiously impressed by it, though their
 impressions were not exactly the same. To one of them, who was a rising
-[[artist]] from [[London]], it was new as [[Well|well]] as strange. To the other, who was
-a local [[artist]] but with something more than a local celebrity, it was
+[[Artist|artist]] from [[London]], it was new as [[Well|well]] as strange. To the other, who was
+a local [[Artist|artist]] but with something more than a local celebrity, it was
 better known; but perhaps all the more strange for what he knew of it.
 
 In terms of tone and form, as these men saw it, it was a stretch of
@@ -5441,8 +5441,8 @@ that made him look older; Chelsea knew him familiarly as Harry Payne.
 '[[Ghosts]], you might suppose,' replied his friend Martin Wood. '[[Well]], the
 people who live there really are rather like [[Ghosts|ghosts]].'
 
-It was perhaps rather a [[Paradox|paradox]] that the [[London]] [[artist]] seemed almost
-bucolic in his boisterous freshness and [[Wonder|wonder]], while the local [[artist]]
+It was perhaps rather a [[Paradox|paradox]] that the [[London]] [[Artist|artist]] seemed almost
+bucolic in his boisterous freshness and [[Wonder|wonder]], while the local [[Artist|artist]]
 seemed a more shrewd and experienced person, regarding him with mature
 and amiable amusement; indeed, the latter was altogether a quieter and
 more conventional figure, wearing darker clothes and with his square and
@@ -5503,7 +5503,7 @@ and fitted in with the twilight scenery.'
 
 'You're not giving my friend from [[London]] a very lively picture of my
 friends in the country,' said Wood, laughing. 'I had intended taking him
-there to call; no [[artist]] ought to miss those Darnaway portraits if he
+there to call; no [[Artist|artist]] ought to miss those Darnaway portraits if he
 gets the chance. But perhaps I'd better postpone it if they're in the
 middle of the Australian invasion.'
 
@@ -5878,7 +5878,7 @@ black, and Wood and Darnaway habitually wore dark grey suits that looked
 almost like black. Perhaps this incongruity had been what the young man
 had meant by calling him a human being. At that moment the young man
 himself turned abruptly in his chair and began to talk. A moment after
-the dazed [[artist]] knew that he was talking about the most tremendous
+the dazed [[Artist|artist]] knew that he was talking about the most tremendous
 thing in the world.
 
 'Is there anything in it?' he was saying. 'That is what I've come to
@@ -6357,7 +6357,7 @@ The priest suddenly gave Payne a sad smile, as if in reassurance. 'For
 the moment I believe you thought I meant you,' he said,' but you were
 not the only person who haunted that [[house]] for sentimental reasons. You
 know the man, or rather you think you do. But there were depths in the
-man called Martin Wood, [[artist]] and antiquary, which none of his mere
+man called Martin Wood, [[Artist|artist]] and antiquary, which none of his mere
 artistic acquaintances were likely to guess. Remember that he was called
 in to criticize and catalogue the pictures; in an aristocratic dustbin
 of that sort that practically means simply to tell the Darnaways what

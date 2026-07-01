@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 42: MISCHIEF (part 4)"
+title: "David Copperfield — Chapter 42: MISCHIEF (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_42_mischief/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_42_mischief/part_05">part 05 ›</a></div>
 </nav>
 
+
+The first person whom I saw, to my surprise, by the sober light of the
+shaded lamp, was Uriah. He was standing close beside it, with one of
+his [[skeleton]] hands over his mouth, and the other resting on the Doctor’s
+table. The Doctor sat in his study chair, covering his face with his
+hands. Mr. Wickfield, sorely troubled and distressed, was leaning
+forward, irresolutely touching the Doctor’s arm.
+
+For an instant, I supposed that the Doctor was ill. I hastily advanced a
+step under that impression, when I met Uriah’s eye, and saw what was the
+matter. I would have withdrawn, but the Doctor made a gesture to detain
+me, and I remained.
 
 ‘At any rate,’ observed Uriah, with a writhe of his ungainly person, ‘we
 may keep the door shut. We needn’t make it known to ALL the town.’
@@ -127,11 +139,3 @@ this to anyone. I never meant it to be known to anyone. And though it
 is terrible to you to hear,’ said Mr. Wickfield, quite subdued, ‘if you
 knew how terrible it is for me to tell, you would feel compassion for
 me!’
-
-The Doctor, in the perfect goodness of his [[Nature|nature]], put out his hand. Mr.
-Wickfield held it for a little while in his, with his head bowed down.
-
-‘I am sure,’ said Uriah, writhing himself into the [[Silence|silence]] like a
-Conger-eel, ‘that this is a subject full of unpleasantness to everybody.
-But since we have got so far, I ought to take the liberty of mentioning
-that Copperfield has noticed it too.’

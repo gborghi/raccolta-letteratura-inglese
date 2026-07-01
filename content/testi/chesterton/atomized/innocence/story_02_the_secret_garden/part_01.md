@@ -1,5 +1,5 @@
 ---
-title: "[[innocence]] — The Secret [[Garden]] (part 1)"
+title: "innocence — The Secret Garden (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"

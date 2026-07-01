@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 23 (part 2)"
+title: "The Professor — Chapter 23 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_professor/chapter_24/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/the_professor/chapter_24/part_03">part 03 ›</a></div>
 </nav>
 
+
+seemed to say, “I must cultivate fortitude and cling to poetry; one is
+
+to be my support and the other my solace through life. Human affections
+
+do not bloom, nor do human passions glow for me.” Other women have such
 
 thoughts. Frances, had she been as desolate as she deemed, would not
 
@@ -37,8 +43,6 @@ withered old maid’s carcass--the same as in that of any cherished wife
 or proud mother in the land. Can this be so? I really don’t know; but
 
 feel inclined to [[Doubt|doubt]] it.
-
-
 
 I came forward, bade Frances “good evening,” and took my seat. The chair
 
@@ -90,10 +94,6 @@ satisfied. I translate as before, and my [[Translation|translation]] is nearly l
 
 it continued thus:--
 
-
-
-
-
      When sickness stay’d awhile my course,
 
       He seem’d impatient still,
@@ -101,8 +101,6 @@ it continued thus:--
      Because his pupil’s flagging force
 
       Could not obey his will.
-
-
 
      One day when summoned to the bed
 
@@ -112,8 +110,6 @@ it continued thus:--
 
       Say, “God, she must revive!”
 
-
-
      I felt his hand, with gentle stress,
 
       A moment laid on mine,
@@ -121,8 +117,6 @@ it continued thus:--
      And wished to mark my consciousness
 
       By some responsive sign.
-
-
 
      But pow’rless then to speak or move,
 
@@ -132,8 +126,6 @@ it continued thus:--
 
       Their healing work begin.
 
-
-
      And as he from the room withdrew,
 
       My heart his steps pursued;
@@ -141,8 +133,6 @@ it continued thus:--
      I long’d to prove, by efforts new;
 
       My speechless gratitude.
-
-
 
      When once again I took my place,
 
@@ -152,8 +142,6 @@ it continued thus:--
 
       Did for one moment pass.
 
-
-
      The lessons done; the signal made
 
       Of glad release and play,
@@ -161,8 +149,6 @@ it continued thus:--
      He, as he passed, an instant stay’d,
 
       One kindly word to say.
-
-
 
     “Jane, till to-morrow you are free
 
@@ -172,8 +158,6 @@ it continued thus:--
 
       That yet pale face in school.
 
-
-
     “Seek in the [[Garden|garden]]-shades a seat,
 
       Far from the play-ground din;
@@ -181,8 +165,6 @@ it continued thus:--
      The sun is warm, the air is sweet:
 
       Stay till I call you in.”
-
-
 
      A long and pleasant afternoon
 
@@ -192,8 +174,6 @@ it continued thus:--
 
       With [[Birds|birds]], and [[Bees|bees]], and [[Flowers|flowers]].
 
-
-
      Yet, when my master’s voice I heard
 
       Call, from the [[Window|window]], “Jane!”
@@ -201,8 +181,6 @@ it continued thus:--
       I entered, joyful, at the word,
 
       The busy [[house]] again.
-
-
 
      He, in the hall, paced up and down;
 
@@ -212,8 +190,6 @@ it continued thus:--
 
       He raised his deep-set eye.
 
-
-
     “Not quite so pale,” he murmured low.
 
       “Now Jane, go rest awhile.”
@@ -221,8 +197,6 @@ it continued thus:--
       And as I smiled, his smoothened brow
 
       Returned as glad a smile.
-
-
 
      My perfect health restored, he took
 
@@ -232,8 +206,6 @@ it continued thus:--
 
       The slightest fault from Jane.
 
-
-
      The longest task, the hardest theme
 
       Fell to my share as erst,
@@ -241,8 +213,6 @@ it continued thus:--
      And still I toiled to place my name
 
       In every study first.
-
-
 
      He yet begrudged and stinted praise,
 
@@ -252,8 +222,6 @@ it continued thus:--
 
       And that was my best meed.
 
-
-
      Even when his hasty temper spoke
 
       In tones that sorrow stirred,
@@ -261,8 +229,6 @@ it continued thus:--
      My grief was lulled as soon as woke
 
       By some relenting word.
-
-
 
      And when he lent some precious book,
 
@@ -272,8 +238,6 @@ it continued thus:--
 
       Upheld by Pleasure’s power.
 
-
-
      At last our school ranks took their ground,
 
       The hard-fought field I won;
@@ -281,8 +245,6 @@ it continued thus:--
      The prize, a laurel-wreath, was bound
 
       My throbbing forehead on.
-
-
 
      Low at my master’s knee I bent,
 
@@ -292,32 +254,4 @@ it continued thus:--
 
       A thrill as wild as sweet.
 
-
-
      The strong pulse of [[Ambition]] struck
-
-      In every vein I owned;
-
-     At the same instant, bleeding broke
-
-      A secret, inward wound.
-
-
-
-     The hour of triumph was to me
-
-      The hour of sorrow sore;
-
-     A day hence I must [[Cross|cross]] the sea,
-
-      Ne’er to recross it more.
-
-
-
-     An hour hence, in my master’s room
-
-      I with him sat [[Alone|alone]],
-
-     And told him what a dreary gloom
-
-      O’er joy had parting thrown.

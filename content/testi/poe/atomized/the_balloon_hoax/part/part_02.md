@@ -1,5 +1,5 @@
 ---
-title: "[[The Balloon-Hoax]] (part 2)"
+title: "The Balloon-Hoax (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-balloon-hoax-(poe)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_balloon_hoax/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/the_balloon_hoax/part/part_03">part 03 ›</a></div>
 </nav>
 
+
+      long, and rigged on to the balloon itself with a network in the
+
+      customary manner. From this framework was suspended a wicker
 
       basket or car.
 
@@ -42,15 +46,15 @@ tags:
 
       end of the axis which is next the car, proceeds a shaft of steel,
 
-      connecting the screw with the pinion of a piece of [[Spring|spring]]
+      connecting the screw with the pinion of a piece of [[spring]]
 
-      machinery fixed in the car. By the operation of this [[Spring|spring]], the
+      machinery fixed in the car. By the operation of this [[spring]], the
 
       screw is made to revolve with great rapidity, communicating a
 
       progressive motion to the whole. By means of the rudder, the
 
-      [[Machine|machine]] was readily turned in any direction. The [[Spring|spring]] was of
+      [[Machine|machine]] was readily turned in any direction. The [[spring]] was of
 
       great power, compared with its dimensions, being capable of
 
@@ -195,11 +199,3 @@ tags:
       was left a surplus of 1300, of which again 1200 was exhausted by
 
       ballast, arranged in bags of different sizes, with their
-
-      respective weights marked upon them—by cordage, barometers,
-
-      telescopes, barrels containing provision for a fortnight,
-
-      [[Water|water]]-casks, cloaks, carpet-bags, and various other indispensable
-
-      matters, including a coffee-warmer, contrived for warming coffee

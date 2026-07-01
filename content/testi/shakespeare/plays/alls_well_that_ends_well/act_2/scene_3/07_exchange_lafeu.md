@@ -1,5 +1,5 @@
 ---
-title: "Alls [[Well]] that Ends [[Well]] — Act II, Scene 3 — exchange (LAFEU) [7]"
+title: "Alls Well that Ends Well — Act II, Scene 3 — exchange (LAFEU) [7]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/all’s-well-that-ends-well-(shakespeare)"

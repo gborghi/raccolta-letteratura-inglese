@@ -14,6 +14,20 @@ tags:
 </nav>
 
 
+'So that we come,' said the secretary, lowering his voice with the
+thrill, 'I suppose we come to the third possibility.'
+
+'We won't be in too much of a hurry about that,' said the Inspector to
+the annoyance of Harker, who was in a hurry about everything. 'But
+naturally there are one or two things one would like to know. One would
+like to know - about his property, for instance. Do you know who's
+likely to come in for it? You're his private secretary; do you know
+anything about his will?'
+
+'I'm not so private a secretary as all that,' answered the young man.
+'His solicitors are Messrs Willis, Hardman and Dyke, over in Suttford
+High Street; and I believe the will is in their custody.'
+
 '[[Well]], I'd better get round and see them pretty soon,' said the
 Inspector.
 
@@ -136,10 +150,3 @@ mystery at all. Mr Dyke admitted, with a smile, that the Admiral's will
 was a very normal and ordinary document, leaving everything to his only
 [[Child|child]] Olive; and that there really was no particular reason for
 concealing the fact.
-
-The doctor and the priest walked slowly down the street that struck out
-of the town in the direction of Craven [[house|House]]. Harker had plunged on
-ahead of him with all his native eagerness to get somewhere; but the two
-behind seemed more interested in their discussion than their direction.
-It was in rather an enigmatic tone that the tall doctor said to the
-short cleric beside him:

@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 12: TWELVE (part 2)"
+title: "Martin Chuzzlewit — Chapter 12: TWELVE (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -126,16 +126,3 @@ and wintry [[Dust|dust]] if he hadn’t; stopping his breath as though he had be
 soused in a cold bath; tearing aside his wrappings-up, and whistling in
 the very marrow of his bones; but it would have done all this a hundred
 times more fiercely to a man in a gig, wouldn’t it? A fig for gigs!
-
-Better than the gig! When were travellers by wheels and hoofs seen with
-such red-hot cheeks as those? when were they so good-humouredly and
-merrily bloused? when did their laughter ring upon the air, as they
-turned them round, what [[Time|time]] the stronger gusts came sweeping up; and,
-facing round again as they passed by, dashed on, in such a glow of
-ruddy health as nothing could keep pace with, but the high spirits it
-engendered? Better than the gig! Why, here is a man in a gig coming
-the same way now. Look at him as he passes his whip into his left hand,
-chafes his numbed right fingers on his granite leg, and beats those
-marble toes of his upon the foot-board. Ha, ha, ha! Who would exchange
-this rapid hurry of the [[Blood|blood]] for yonder stagnant misery, though its
-pace were twenty miles for one?

@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 17 (part 3)"
+title: "Shirley — Chapter 17 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_17/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_17/part_04">part 04 ›</a></div>
 </nav>
 
+
+to the accompaniment of the music; and then tea began. She was kept too
+
+busy with her office for a while to have leisure for looking round, but
+
+the last cup being filled, she threw a restless glance over the room.
+
+There were some ladies and several gentlemen standing about yet
+
+unaccommodated with seats. Amidst a group she recognized her spinster
 
 friend, Miss Mann, whom the fine weather had tempted, or some urgent
 
@@ -187,21 +197,3 @@ Still no gracious glance was cast on Moore. On the contrary, he was
 accused of giving her a world of trouble, and roundly charged with being
 
 the cause of depriving her of the esteem of Mr. Ramsden and the
-
-invaluable [[Friendship|friendship]] of Mr. Samuel Wynne.
-
-
-
-"Wouldn't have offended either gentleman for the world," she averred. "I
-
-have always been accustomed to treat both with the most respectful
-
-consideration, and there, owing to you, how they have been used! I shall
-
-not be happy till I have made it up. I never am happy till I am friends
-
-with my neighbours. So to-morrow I must make a pilgrimage to Royd
-
-corn-mill, soothe the miller, and praise the grain; and next day I must
-
-call at De Walden--where I hate to go--and carry in my reticule half an

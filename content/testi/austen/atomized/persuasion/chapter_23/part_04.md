@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 23 (part 4)"
+title: "Persuasion — Chapter 23 (part 4)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_23/part_03">‹ part 03</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_23/part_05">part 05 ›</a></div>
 </nav>
 
+
+Such a letter was not to be soon recovered from. Half an hour’s
+
+[[Solitude|solitude]] and reflection might have tranquillized her; but the ten
+
+minutes only which now passed before she was interrupted, with all the
+
+restraints of her situation, could do nothing towards tranquillity.
+
+Every moment rather brought fresh agitation. It was overpowering
+
+happiness. And before she was beyond the first stage of full sensation,
+
+Charles, Mary, and Henrietta all came in.
+
+
+
+The absolute necessity of seeming like herself produced then an
 
 immediate struggle; but after a while she could do no more. She began
 
@@ -201,27 +219,3 @@ many years of division and estrangement. There they returned again into
 the past, more exquisitely happy, perhaps, in their re-[[Union|union]], than when
 
 it had been first projected; more tender, more tried, more fixed in a
-
-knowledge of each other’s character, [[Truth|truth]], and attachment; more equal
-
-to act, more justified in acting. And there, as they slowly paced the
-
-gradual ascent, heedless of every group around them, seeing neither
-
-sauntering politicians, bustling housekeepers, flirting girls, nor
-
-nursery-maids and children, they could indulge in those retrospections
-
-and acknowledgements, and especially in those explanations of what had
-
-directly preceded the present moment, which were so poignant and so
-
-ceaseless in interest. All the little variations of the last week were
-
-gone through; and of yesterday and to-day there could scarcely be an
-
-end.
-
-
-
-She had not mistaken him. [[Jealousy]] of Mr Elliot had been the retarding

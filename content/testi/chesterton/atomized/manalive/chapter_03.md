@@ -1,5 +1,5 @@
 ---
-title: "[[manalive]] — Chapter 3"
+title: "manalive — Chapter 3"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/manalive-(chesterton)"
@@ -18,119 +18,117 @@ tags:
 
 		    The Banner of Beacon
 
-
-All next day at Beacon [[house|House]] there was a crazy sense that it was
+All next day at Beacon House there was a crazy sense that it was
 everybody's birthday.  It is the fashion to talk of institutions
-as cold and cramping things.  The [[Truth|truth]] is that when people are in
-exceptionally high spirits, really wild with [[Freedom|freedom]] and invention,
+as cold and cramping things.  The truth is that when people are in
+exceptionally high spirits, really wild with freedom and invention,
 they always must, and they always do, create institutions.
 When men are weary they fall into anarchy; but while they are gay
 and vigorous they invariably make rules.  This, which is true of all
-the churches and republics of [[history]], is also true of the most
+the churches and republics of history, is also true of the most
 trivial parlour game or the most unsophisticated meadow romp.
 We are never free until some institution frees us; and liberty
 cannot exist till it is declared by authority.  Even the wild
-authority of the harlequin [[smith|Smith]] was still authority, because it
+authority of the harlequin Smith was still authority, because it
 produced everywhere a crop of crazy regulations and conditions.
 He filled every one with his own half-lunatic life; but it was not
 expressed in destruction, but rather in a dizzy and toppling construction.
 Each person with a hobby found it turning into an institution.
-Rosamund's [[songs]] seemed to coalesce into a kind of opera;
-[[Michael]]'s jests and paragraphs into a magazine.  His pipe and her
+Rosamund's songs seemed to coalesce into a kind of opera;
+Michael's jests and paragraphs into a magazine.  His pipe and her
 mandoline seemed between them to make a sort of smoking concert.
-The bashful and bewildered [[arthur|Arthur]] Inglewood almost struggled against his
+The bashful and bewildered Arthur Inglewood almost struggled against his
 own growing importance.  He felt as if, in spite of him, his photographs
 were turning into a picture gallery, and his bicycle into a gymkhana.
-But no one had any [[Time|time]] to criticize these impromptu estates and offices,
+But no one had any time to criticize these impromptu estates and offices,
 for they followed each other in wild succession like the topics
 of a rambling talker.
 
 Existence with such a man was an obstacle race made out of
 pleasant obstacles.  Out of any homely and trivial object he could drag
 reels of exaggeration, like a conjurer.  Nothing could be more shy
-and impersonal than poor [[arthur|Arthur]]'s photography.  Yet the preposterous
-[[smith|Smith]] was seen assisting him eagerly through sunny morning hours,
+and impersonal than poor Arthur's photography.  Yet the preposterous
+Smith was seen assisting him eagerly through sunny morning hours,
 and an indefensible sequence described as "Moral Photography"
-began to unroll about the boarding-[[house]]. It was only a version of the old
+began to unroll about the boarding-house. It was only a version of the old
 photographer's joke which produces the same figure twice on one plate,
 making a man play chess with himself, dine with himself, and so on.
 But these plates were more hysterical and ambitious--as, "Miss Hunt
 forgets Herself," showing that lady answering her own too
 rapturous recognition with a most appalling stare of ignorance;
-or "Mr. [[Moon]] questions Himself," in which Mr. [[Moon]] appeared as one
-driven to [[Madness|madness]] under his own legal [[Cross|cross]]-examination, which was
+or "Mr. Moon questions Himself," in which Mr. Moon appeared as one
+driven to madness under his own legal cross-examination, which was
 conducted with a long forefinger and an air of ferocious waggery.
 One highly successful trilogy--representing Inglewood recognizing
 Inglewood, Inglewood prostrating himself before Inglewood,
 and Inglewood severely beating Inglewood with an umbrella--
-[[Innocent]] [[smith|Smith]] wanted to have enlarged and put up in the hall,
-like a sort of fresco, with the [[Inscription|inscription]],--
+Innocent Smith wanted to have enlarged and put up in the hall,
+like a sort of fresco, with the inscription,--
 
-	"[[Self]]-reverence, [[Self-Knowledge|self-knowledge]], [[Self|self]]-control--
-	 These three [[Alone|alone]] will make a man a prig."
+	"Self-reverence, self-knowledge, self-control--
+	 These three alone will make a man a prig."
 
 						-- Tennyson.
 
-
 Nothing, again, could be more prosaic and impenetrable than
-the domestic energies of Miss [[Diana]] Duke.  But [[Innocent]] had somehow
+the domestic energies of Miss Diana Duke.  But Innocent had somehow
 blundered on the discovery that her thrifty dressmaking went
 with a considerable feminine care for dress--the one feminine thing
-that had never failed her solitary [[Self|self]]-respect. In consequence [[smith|Smith]]
+that had never failed her solitary self-respect. In consequence Smith
 pestered her with a theory (which he really seemed to take seriously)
 that ladies might combine economy with magnificence if they would draw
-light [[chalk]] patterns on a plain dress and then [[Dust|dust]] them off again.
-He set up "[[smith|Smith]]'s [[Lightning]] Dressmaking Company," with two screens,
-a cardboard placard, and box of bright soft crayons; and Miss [[Diana]]
+light chalk patterns on a plain dress and then dust them off again.
+He set up "Smith's Lightning Dressmaking Company," with two screens,
+a cardboard placard, and box of bright soft crayons; and Miss Diana
 actually threw him an abandoned black overall or working dress on
 which to exercise the talents of a modiste.  He promptly produced
 for her a garment aflame with red and gold sunflowers; she held
 it up an instant to her shoulders, and looked like an empress.
-And [[arthur|Arthur]] Inglewood, some hours afterwards cleaning his bicycle
+And Arthur Inglewood, some hours afterwards cleaning his bicycle
 (with his usual air of being inextricably hidden in it), glanced up;
-and his hot face grew hotter, for [[Diana]] stood laughing for one
+and his hot face grew hotter, for Diana stood laughing for one
 flash in the doorway, and her dark robe was rich with the green
-and purple of great decorative peacocks, like a secret [[Garden|garden]]
-in the "Arabian Nights."  A pang too swift to be named [[Pain|pain]]
+and purple of great decorative peacocks, like a secret garden
+in the "Arabian Nights."  A pang too swift to be named pain
 or pleasure went through his heart like an old-world rapier.
 He remembered how pretty he thought her years ago, when he was
-ready to fall in [[Love|love]] with anybody; but it was like remembering
+ready to fall in love with anybody; but it was like remembering
 a worship of some Babylonian princess in some previous existence.
 At his next glimpse of her (and he caught himself awaiting it)
-the purple and green [[chalk]] was dusted off, and she went by quickly
+the purple and green chalk was dusted off, and she went by quickly
 in her working clothes.
 
 As for Mrs. Duke, none who knew that matron could conceive her as
-actively resisting this invasion that had turned her [[house]] upside down.
+actively resisting this invasion that had turned her house upside down.
 But among the most exact observers it was seriously believed that she
-liked it.  For she was one of those women who at [[Bottom|bottom]] regard all
-men as equally mad, wild [[Animals|animals]] of some utterly separate species.
+liked it.  For she was one of those women who at bottom regard all
+men as equally mad, wild animals of some utterly separate species.
 And it is doubtful if she really saw anything more eccentric or
-inexplicable in [[smith|Smith]]'s chimney-pot picnics or crimson sunflowers
+inexplicable in Smith's chimney-pot picnics or crimson sunflowers
 than she had in the chemicals of Inglewood or the sardonic speeches
-of [[Moon]].  Courtesy, on the other hand, is a thing that anybody
-can understand, and [[smith|Smith]]'s manners were as courteous as they
+of Moon.  Courtesy, on the other hand, is a thing that anybody
+can understand, and Smith's manners were as courteous as they
 were unconventional.  She said he was "a real gentleman," by which she
 simply meant a kind-hearted man, which is a very different thing.
 She would sit at the head of the table with fat, folded hands and a fat,
 folded smile for hours and hours, while every one else was talking at once.
 At least, the only other exception was Rosamund's companion,
-Mary Gray, whose [[Silence|silence]] was of a much more eager sort.  Though she
+Mary Gray, whose silence was of a much more eager sort.  Though she
 never spoke she always looked as if she might speak any minute.
-Perhaps this is the very definition of a companion.  [[Innocent]] [[smith|Smith]]
+Perhaps this is the very definition of a companion.  Innocent Smith
 seemed to throw himself, as into other adventures, into the adventure
 of making her talk.  He never succeeded, yet he was never snubbed;
 if he achieved anything, it was only to draw attention to this quiet figure,
 and to turn her, by ever so little, from a modesty to a mystery.
-But if she was a [[Riddle|riddle]], every one recognized that she was a fresh
-and unspoilt [[Riddle|riddle]], like the [[Riddle|riddle]] of the sky and the woods in [[Spring|spring]].
+But if she was a riddle, every one recognized that she was a fresh
+and unspoilt riddle, like the riddle of the sky and the woods in spring.
 Indeed, though she was rather older than the other two girls,
 she had an early morning ardour, a fresh earnestness of youth,
 which Rosamund seemed to have lost in the mere spending of money,
-and [[Diana]] in the mere guarding of it.  [[smith|Smith]] looked at her again and again.
+and Diana in the mere guarding of it.  Smith looked at her again and again.
 Her eyes and mouth were set in her face the wrong way--which was really
 the right way.  She had the knack of saying everything with her face:
-her [[Silence|silence]] was a sort of steady applause.
+her silence was a sort of steady applause.
 
 But among the hilarious experiments of that holiday
 (which seemed more like a week's holiday than a day's)
@@ -139,31 +137,31 @@ or more successful than the others, but because out of this
 particular folly flowed all of the odd events that were to follow.
 All the other practical jokes exploded of themselves, and left vacancy;
 all the other fictions returned upon themselves, and were finished
-like a [[Song|song]].  But the string of solid and startling events--
-which were to include a hansom cab, a [[Detective|detective]], a [[Pistol|pistol]],
-and a [[Marriage|marriage]] licence--were all made primarily possible
-by the joke about the High [[Court]] of Beacon.
+like a song.  But the string of solid and startling events--
+which were to include a hansom cab, a detective, a pistol,
+and a marriage licence--were all made primarily possible
+by the joke about the High Court of Beacon.
 
-It had originated, not with [[Innocent]] [[smith|Smith]], but with [[Michael]] [[Moon]].  He was
+It had originated, not with Innocent Smith, but with Michael Moon.  He was
 in a strange glow and pressure of spirits, and talked incessantly;
 yet he had never been more sarcastic, and even inhuman.
 He used his old useless knowledge as a barrister to talk
-entertainingly of a tribunal that was a [[Parody|parody]] on the pompous
-anomalies of English law.  The High [[Court]] of Beacon, he declared,
+entertainingly of a tribunal that was a parody on the pompous
+anomalies of English law.  The High Court of Beacon, he declared,
 was a splendid example of our free and sensible constitution.
-It had been founded by [[King John]] in defiance of the Magna Carta,
+It had been founded by King John in defiance of the Magna Carta,
 and now held absolute power over windmills, wine and spirit licences,
 ladies traveling in Turkey, revision of sentences for dog-stealing
-and parricide, as [[Well|well]] as anything whatever that happened in the town of
-Market Bosworth.  The whole hundred and nine seneschals of the High [[Court]]
+and parricide, as well as anything whatever that happened in the town of
+Market Bosworth.  The whole hundred and nine seneschals of the High Court
 of Beacon met once in every four centuries; but in the intervals
-(as Mr. [[Moon]] explained) the whole powers of the institution were vested
+(as Mr. Moon explained) the whole powers of the institution were vested
 in Mrs. Duke.  Tossed about among the rest of the company, however,
-the High [[Court]] did not retain its historical and legal seriousness,
+the High Court did not retain its historical and legal seriousness,
 but was used somewhat unscrupulously in a riot of domestic detail.
 If somebody spilt the Worcester Sauce on the tablecloth, he was quite
-sure it was a rite without which the sittings and findings of the [[Court]]
-would be invalid; or if somebody wanted a [[Window|window]] to remain shut,
+sure it was a rite without which the sittings and findings of the Court
+would be invalid; or if somebody wanted a window to remain shut,
 he would suddenly remember that none but the third son of the lord
 of the manor of Penge had the right to open it.  They even went
 to the length of making arrests and conducting criminal inquiries.
@@ -171,54 +169,54 @@ The proposed trial of Moses Gould for patriotism was rather
 above the heads of the company, especially of the criminal;
 but the trial of Inglewood on a charge of photographic libel,
 and his triumphant acquittal upon a plea of insanity, were admitted
-to be in the best tradition of the [[Court]].
+to be in the best tradition of the Court.
 
-But when [[smith|Smith]] was in wild spirits he grew more and more serious, not more and
-more flippant like [[Michael]] [[Moon]].  This proposal of a private [[Court|court]] of justice,
-which [[Moon]] had thrown off with the detachment of a political humourist,
-[[smith|Smith]] really caught hold of with the eagerness of an abstract philosopher.
+But when Smith was in wild spirits he grew more and more serious, not more and
+more flippant like Michael Moon.  This proposal of a private court of justice,
+which Moon had thrown off with the detachment of a political humourist,
+Smith really caught hold of with the eagerness of an abstract philosopher.
 It was by far the best thing they could do, he declared, to claim sovereign
 powers even for the individual household.
 
-"You believe in [[Home]] Rule for Ireland; I believe in [[Home]] Rule
-for homes," he cried eagerly to [[Michael]].  "It would be better
+"You believe in Home Rule for Ireland; I believe in Home Rule
+for homes," he cried eagerly to Michael.  "It would be better
 if every father COULD kill his son, as with the old Romans;
 it would be better, because nobody would be killed.
-Let's issue a Declaration of Independence from Beacon [[house|House]].
-We could grow enough greens in that [[Garden|garden]] to support us,
-and when the tax-collector comes let's tell him we're [[Self|self]]-supporting,
-and play on him with the hose....  [[Well]], perhaps, as you say,
-we couldn't very [[Well|well]] have a hose, as that comes from the main;
-but we could sink a [[Well|well]] in this [[chalk]], and a lot could be
-done with [[Water|water]]-jugs....  Let this really be Beacon [[house|House]].
-Let's light a bonfire of independence on the roof, and see [[house]]
-after [[house]] answering it across the valley of the Thames!  Let us begin
-the League of the Free Families!  Away with Local [[government|Government]]!  A fig
-for Local Patriotism!  Let every [[house]] be a sovereign state as this is,
-and judge its own children by its own law, as we do by the [[Court]]
+Let's issue a Declaration of Independence from Beacon House.
+We could grow enough greens in that garden to support us,
+and when the tax-collector comes let's tell him we're self-supporting,
+and play on him with the hose....  Well, perhaps, as you say,
+we couldn't very well have a hose, as that comes from the main;
+but we could sink a well in this chalk, and a lot could be
+done with water-jugs....  Let this really be Beacon House.
+Let's light a bonfire of independence on the roof, and see house
+after house answering it across the valley of the Thames!  Let us begin
+the League of the Free Families!  Away with Local Government!  A fig
+for Local Patriotism!  Let every house be a sovereign state as this is,
+and judge its own children by its own law, as we do by the Court
 of Beacon.  Let us cut the painter, and begin to be happy together,
-as if we were on a [[Desert|desert]] island."
+as if we were on a desert island."
 
-"I know that [[Desert|desert]] island," said [[Michael]] [[Moon]]; "it only
+"I know that desert island," said Michael Moon; "it only
 exists in the `Swiss Family Robinson.'  A man feels a strange
-desire for some sort of vegetable milk, and crash comes down
+[[Desire|desire]] for some sort of vegetable milk, and crash comes down
 some unexpected cocoa-nut from some undiscovered monkey.
-A literary man feels inclined to pen a sonnet, and at once
+A literary man feels inclined to pen a [[Sonnet|sonnet]], and at once
 an officious porcupine rushes out of a thicket and shoots out
 one of his quills."
 
 "Don't you say a word against the `Swiss Family Robinson,'"
-cried [[Innocent]] with great warmth.  "It mayn't be
-exact science, but it's dead accurate [[philosophy]].
+cried Innocent with great warmth.  "It mayn't be
+exact science, but it's dead accurate philosophy.
 When you're really shipwrecked, you do really find what you want.
-When you're really on a [[Desert|desert]] island, you never find it a [[Desert|desert]].
-If we were really besieged in this [[Garden|garden]], we'd find a hundred
-English [[Birds|birds]] and English berries that we never knew were here.
+When you're really on a desert island, you never find it a desert.
+If we were really besieged in this garden, we'd find a hundred
+English birds and English berries that we never knew were here.
 If we were snowed up in this room, we'd be the better for reading
 scores of books in that bookcase that we don't even know are there;
 we'd have talks with each other, good, terrible talks, that we shall
-go to the [[Grave|grave]] without guessing; we'd find materials for everything--
-christening, [[Marriage|marriage]], or funeral; yes, even for a coronation--
+go to the grave without guessing; we'd find materials for everything--
+christening, marriage, or funeral; yes, even for a coronation--
 if we didn't decide to be a republic."
 
 "A coronation on `Swiss Family' lines, I suppose," said [[Michael]], laughing.
@@ -304,7 +302,6 @@ the New Jerusalem.
 	   How yellow mud is sold;
 	 All is gold that glitters,
 	   For the glitter is the gold."
-
 
 "And who wrote that?" asked Rosamund, amused.
 

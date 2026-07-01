@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 17 (part 7)"
+title: "Jane Eyre — Chapter 17 (part 7)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,41 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_17/part_06">‹ part 06</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_18/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Yaas, to be sure I do,” drawled Lord Ingram; “and the poor old stick
+used to cry out, ‘Oh you villains childs!’—and then we sermonised her on
+the presumption of attempting to teach such clever blades as we were,
+when she was herself so ignorant.”
+
+“We did; and, Tedo, you know, I helped you in prosecuting (or
+persecuting) your tutor, whey-faced Mr. Vining—the parson in the pip,
+as we used to call him. He and Miss Wilson took the liberty of falling
+in [[Love|love]] with each other—at least Tedo and I thought so; we surprised
+sundry tender glances and sighs which we interpreted as tokens of ‘la
+belle passion,’ and I promise you the public soon had the benefit of
+our discovery; we employed it as a sort of lever to hoist our
+dead-weights from the [[house]]. Dear mama, there, as soon as she got an
+inkling of the business, found out that it was of an immoral tendency.
+Did you not, my lady-mother?”
+
+“Certainly, my best. And I was quite right: depend on that: there are a
+thousand reasons why liaisons between governesses and tutors should
+never be tolerated a moment in any [[Well|well]]-regulated [[house]]; firstly—”
+
+“Oh, gracious, mama! Spare us the enumeration! _Au reste_, we all know
+them: danger of bad example to [[innocence]] of [[Childhood|childhood]]; distractions and
+consequent neglect of duty on the part of the attached—mutual alliance
+and reliance; confidence thence resulting—insolence accompanying—mutiny
+and general blow-up. Am I right, Baroness Ingram, of Ingram Park?”
+
+“My lily-flower, you are right now, as always.”
+
+“Then no more need be said: change the subject.”
+
+Amy Eshton, not hearing or not heeding this dictum, joined in with her
+soft, infantine tone: “Louisa and I used to quiz our governess too; but
+she was such a good creature, she would bear anything: nothing put her
+out. She was never [[Cross|cross]] with us; was she, Louisa?”
 
 “No, never: we might do what we pleased; ransack her desk and her
 workbox, and turn her drawers inside out; and she was so good-natured,

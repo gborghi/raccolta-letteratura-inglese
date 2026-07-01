@@ -1,5 +1,5 @@
 ---
-title: "Napoleon of Notting [[Hill]] — Chapter 3 (part 2)"
+title: "Napoleon of Notting Hill — Chapter 3 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/napoleon-of-notting-hill-(chesterton)"
@@ -10,9 +10,17 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_03/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_05/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_03/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_04/part_01">part 01 ›</a></div>
 </nav>
 
+
+"You ass," said Lambert; "why can't you be like other people?
+Why can't you say something really funny, or hold your tongue?
+The man who sits on his hat in a pantomime is a long sight funnier
+than you are."
+
+Quin regarded him steadily.  They had reached the top of the ridge
+and the [[Wind|wind]] struck their faces.
 
 "Lambert," said Auberon, "you are a great and good man, though I'm
 hanged if you look it.  You are more.  You are a great revolutionist

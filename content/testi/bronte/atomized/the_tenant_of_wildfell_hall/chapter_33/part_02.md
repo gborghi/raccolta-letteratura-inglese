@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 33 (part 2)"
+title: "The Tenant of Wildfell Hall — Chapter 33 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_33/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_33/part_03">part 03 ›</a></div>
 </nav>
 
+
+like master’s ways of going on.”
+
+
+
+“What do you mean, Rachel? He’s going on very properly at present.”
+
+
+
+“[[Well]], ma’am, if you think so, it’s right.”
+
+
+
+And she went on dressing my hair, in a hurried way, quite unlike her
+
+usual calm, collected manner, murmuring, half to herself, she was sure
 
 it was beautiful hair: she “could like to see ’em match it.” When it
 
@@ -64,7 +80,7 @@ month; or perhaps from something that had passed between their master
 
 and her during her former visit. At dinner I narrowly observed both her
 
-and [[arthur|Arthur]], and saw nothing extraordinary in the conduct of either,
+and [[Arthur]], and saw nothing extraordinary in the conduct of either,
 
 nothing calculated to excite suspicion, except in distrustful minds,
 
@@ -231,21 +247,3 @@ and as keen and cruel as if you would drain her heart’s [[Blood|blood]]! But i
 were you, I wouldn’t beat her, for very [[Fear|fear]]: she’ll hate you if you
 
 do—she will, by heaven! I see it in her eye.”
-
-
-
-“Hold your tongue, will you?” said I: his talk distracted me, for I was
-
-driven to extremities. A few more moves, and I was inextricably
-
-entangled in the snare of my antagonist.
-
-
-
-“Check,” cried he: I sought in agony some means of escape. “Mate!” he
-
-added, quietly, but with evident delight. He had suspended the
-
-utterance of that last fatal syllable the better to enjoy my dismay. I
-
-was foolishly disconcerted by the event. Hattersley laughed; Milicent

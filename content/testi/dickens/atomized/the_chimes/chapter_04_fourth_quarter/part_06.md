@@ -10,9 +10,22 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/the-chimes-(dickens)">The Chimes</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_chimes/chapter_04_fourth_quarter/part_05">‹ part 05</a><span></span></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_chimes/chapter_04_fourth_quarter/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/the_chimes/chapter_04_fourth_quarter/part_07">part 07 ›</a></div>
 </nav>
 
+
+She was in his arms.  He held her now.  His strength was like a giant’s.
+
+‘I see the Spirit of the Chimes among you!’ cried the old man, singling
+out the [[Child|child]], and speaking in some inspiration, which their looks
+conveyed to him.  ‘I know that our inheritance is held in store for us by
+[[Time]].  I know there is a sea of [[Time]] to rise one day, before which all
+who wrong us or oppress us will be swept away like [[Leaves|leaves]].  I see it, on
+the flow!  I know that we must trust and [[Hope|hope]], and neither [[Doubt|doubt]]
+ourselves, nor [[Doubt|doubt]] the good in one another.  I have learnt it from the
+creature dearest to my heart.  I clasp her in my arms again.  O Spirits,
+merciful and good, I take your lesson to my breast along with her!  O
+Spirits, merciful and good, I am grateful!’
 
 He might have said more; but, [[The Bells|the Bells]], the old familiar [[Bells]], his own
 dear, constant, steady friends, the Chimes, began to ring the joy-peals
@@ -123,57 +136,3 @@ good-humoured comely woman of some fifty years of age, or thereabouts,
 came running in, attended by a man bearing a stone pitcher of terrific
 size, and closely followed by the marrow-bones and cleavers, and the
 [[Bells|bells]]; not _the_ [[Bells]], but a portable collection on a frame.
-
-Trotty said, ‘It’s Mrs. Chickenstalker!’  And sat down and beat his knees
-again.
-
-‘Married, and not tell me, Meg!’ cried the good woman.  ‘Never!  I
-couldn’t rest on the last [[Night|night]] of the Old Year without coming to wish
-you joy.  I couldn’t have done it, Meg.  Not if I had been bed-ridden.
-So here I am; and as it’s New Year’s Eve, and the Eve of your wedding
-too, my dear, I had a little flip made, and brought it with me.’
-
-Mrs. Chickenstalker’s notion of a little flip did [[Honour|honour]] to her
-character.  The pitcher steamed and smoked and reeked like a volcano; and
-the man who had carried it, was faint.
-
-‘Mrs. Tugby!’ said Trotty, who had been going round and round her, in an
-ecstasy.—‘I _should_ say, Chickenstalker—Bless your heart and [[Soul|soul]]!  A
-Happy New Year, and many of ’em!  Mrs. Tugby,’ said Trotty when he had
-saluted her;—‘I _should_ say, Chickenstalker—This is William Fern and
-Lilian.’
-
-The worthy dame, to his surprise, turned very pale and very red.
-
-‘Not [[Lilian Fern]] whose mother died in Dorsetshire!’ said she.
-
-Her uncle answered ‘Yes,’ and meeting hastily, they exchanged some
-hurried words together; of which the upshot was, that Mrs. Chickenstalker
-shook him by both hands; saluted Trotty on his cheek again of her own
-free will; and took the [[Child|child]] to her capacious breast.
-
-‘[[Will Fern]]!’ said Trotty, pulling on his right-hand muffler.  ‘Not the
-friend you was hoping to find?’
-
-‘Ay!’ returned Will, putting a hand on each of Trotty’s shoulders.  ‘And
-like to prove a’most as good a friend, if that can be, as one I found.’
-
-‘O!’ said Trotty.  ‘Please to play up there.  Will you have the
-goodness!’
-
-To the music of the band, and, [[The Bells|the bells]], the marrow-bones and cleavers,
-all at once; and while the Chimes were yet in lusty operation out of
-doors; Trotty, making Meg and [[Richard]], second couple, led off Mrs.
-Chickenstalker down the [[Dance|dance]], and danced it in a step unknown before or
-since; founded on his own peculiar trot.
-
-Had Trotty dreamed?  Or, are his joys and sorrows, and the actors in
-them, but [[A Dream|a dream]]; himself [[A Dream|a dream]]; the teller of this tale a dreamer,
-waking but now?  If it be so, O listener, dear to him in all his visions,
-try to bear in mind the stern realities from which these shadows come;
-and in your sphere—none is too wide, and none too limited for such an
-end—endeavour to correct, improve, and soften them.  So may the New Year
-be a happy one to you, happy to many more whose happiness depends on you!
-So may each year be happier than the last, and not the meanest of our
-brethren or sisterhood debarred their rightful share, in what our Great
-Creator formed them to enjoy.

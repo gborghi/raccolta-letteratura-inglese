@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 3 (part 5)"
+title: "Bleak House — Chapter 3 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_03/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_03/part_06">part 06 ›</a></div>
 </nav>
 
+
+In those six years I had never been away except on visits at holiday
+[[Time|time]] in the neighbourhood. After the first six months or so I had
+taken Miss Donny’s advice in reference to the propriety of writing to
+Mr. Kenge to say that I was happy and grateful, and with her approval
+I had written such a letter. I had received a formal answer
+acknowledging its receipt and saying, “We note the contents thereof,
+which shall be duly communicated to our client.” After that I
+sometimes heard Miss Donny and her sister mention how regular my
+accounts were paid, and about twice a year I ventured to write a
+similar letter. I always received by return of post exactly the same
+answer in the same round hand, with the signature of Kenge and Carboy
+in another writing, which I supposed to be Mr. Kenge’s.
 
 It seems so curious to me to be obliged to write all this about
 myself! As if this narrative were the narrative of MY life! But my
@@ -133,21 +146,3 @@ a silent square until we came to an odd nook in a corner, where there
 was an entrance up a steep, broad flight of stairs, like an entrance
 to a church. And there really was a churchyard outside under some
 cloisters, for I saw the gravestones from the staircase [[Window|window]].
-
-This was Kenge and Carboy’s. The young gentleman showed me through an
-outer office into Mr. Kenge’s room—there was no one in it—and
-politely put an arm-chair for me by the [[Fire|fire]]. He then called my
-attention to a little looking-glass hanging from a nail on one side
-of the chimney-piece.
-
-“In case you should wish to look at yourself, miss, after the
-[[Journey|journey]], as you’re going before the Chancellor. Not that it’s
-requisite, I am sure,” said the young gentleman civilly.
-
-“Going before the Chancellor?” I said, startled for a moment.
-
-“Only a matter of form, miss,” returned the young gentleman. “Mr.
-Kenge is in [[Court|court]] now. He left his compliments, and would you partake
-of some refreshment”—there were biscuits and a decanter of wine on a
-small table—“and look over the paper,” which the young gentleman
-gave me as he spoke. He then stirred the [[Fire|fire]] and left me.

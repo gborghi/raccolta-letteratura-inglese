@@ -1,5 +1,5 @@
 ---
-title: "The [[Tragedy]] of [[King Lear]] (Folio Text) — Act II, Scene 1 — monologue ([[Edgar|EDGAR]]) [6]"
+title: "The Tragedy of King Lear (Folio Text) — Act II, Scene 1 — monologue (EDGAR) [6]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-tragedy-of-king-lear---the-folio-text-(shakespeare)"

@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 39: WICKFIELD AND HEEP (part 6)"
+title: "David Copperfield — Chapter 39: WICKFIELD AND HEEP (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_39_wickfield_and_heep/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_39_wickfield_and_heep/part_07">part 07 ›</a></div>
 </nav>
 
+
+It was the first [[Time|time]] it had ever occurred to me, that this detestable
+cant of false [[Humility|humility]] might have originated out of the Heep family. I
+had seen the harvest, but had never thought of the seed.
+
+‘When I was quite a young boy,’ said Uriah, ‘I got to know what
+umbleness did, and I took to it. I ate umble pie with an appetite. I
+stopped at the umble point of my learning, and says I, “Hold hard!” When
+you offered to teach me Latin, I knew better. “People like to be above
+you,” says father, “keep yourself down.” I am very umble to the present
+moment, Master Copperfield, but I’ve got a little power!’
 
 And he said all this--I knew, as I saw his face in the moonlight--that
 I might understand he was resolved to recompense himself by using his
@@ -115,21 +126,3 @@ at him!’
 
 He pointed to Uriah, pale and glowering in a corner, evidently very much
 out in his calculations, and taken by surprise.
-
-‘Look at my torturer,’ he replied. ‘Before him I have step by step
-abandoned name and reputation, peace and quiet, [[house]] and [[Home|home]].’
-
-‘I have kept your name and reputation for you, and your peace and
-quiet, and your [[house]] and [[Home|home]] too,’ said Uriah, with a sulky, hurried,
-defeated air of compromise. ‘Don’t be foolish, Mr. Wickfield. If I
-have gone a little beyond what you were prepared for, I can go back, I
-suppose? There’s no harm done.’
-
-‘I looked for single motives in everyone,’ said Mr. Wickfield, ‘and I was
-satisfied I had bound him to me by motives of interest. But see what he
-is--oh, see what he is!’
-
-‘You had better stop him, Copperfield, if you can,’ cried Uriah,
-with his long forefinger pointing towards me. ‘He’ll say something
-presently--mind you!--he’ll be sorry to have said afterwards, and you’ll
-be sorry to have heard!’

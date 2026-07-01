@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 25 (part 2)"
+title: "The Tenant of Wildfell Hall — Chapter 25 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_25/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_25/part_03">part 03 ›</a></div>
 </nav>
 
+
+Rachel to speak to, for we have no neighbours here, except the
+
+Hargraves, whose residence I can dimly descry from these upper windows
+
+embosomed among those low, woody hills beyond the Dale. I was glad when
+
+I learnt that Milicent was so near us; and her company would be a
 
 soothing solace to me now; but she is still in town with her mother;
 
@@ -28,9 +36,9 @@ agreeable than [[Lord Lowborough]], more candid and high-minded than Mr.
 
 Grimsby, and more polished and gentlemanly than Mr. Hattersley,
 
-[[arthur|Arthur]]’s only other friend whom he judged fit to introduce to me.—Oh,
+[[Arthur]]’s only other friend whom he judged fit to introduce to me.—Oh,
 
-[[arthur|Arthur]], why won’t you come? why won’t you write to me at least? You
+[[Arthur]], why won’t you come? why won’t you write to me at least? You
 
 talked about my health: how can you expect me to gather bloom and
 
@@ -187,17 +195,3 @@ cannot; they would think me mad. Besides, mamma is so delighted with
 the idea of the match; she thinks she has managed so [[Well|well]] for me; and I
 
 cannot bear to disappoint her. I do object sometimes, and tell her what
-
-I feel, but you don’t know _how_ she talks. Mr. Hattersley, you know,
-
-is the son of a rich banker, and as Esther and I have no fortunes, and
-
-Walter very little, our dear mamma is very anxious to see us all [[Well|well]]
-
-married, that is, united to rich partners. It is not _my_ idea of being
-
-[[Well|well]] married, but she means it all for the best. She says when I am
-
-safe off her hands it will be such a relief to her mind; and she
-
-assures me it will be a good thing for the family as [[Well|well]] as for me.

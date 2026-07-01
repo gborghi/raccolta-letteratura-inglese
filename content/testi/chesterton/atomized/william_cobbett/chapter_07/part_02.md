@@ -14,6 +14,23 @@ tags:
 </nav>
 
 
+Before this had happened, of course, and while it was happening,
+he had pursued his other controversial interests, and figured
+in several other fields.  He had taken a seed-farm in Kensington:
+where he conducted an experiment in bartering goods for labour,
+and sold all sorts of things.  His Register still sold like hot cakes;
+the cakes continued to be very hot indeed.  Some of them were more
+than most people could [[Swallow|swallow]], in the way of absolute assertions,
+positive prophecies, and personal threats.  He was by this [[Time|time]] a great
+public character; from some points of view a great comic character.
+It is possible that some people tried to take a rise out of him.
+Sometimes the laugh was on his side; sometimes on the other.
+But this could always be said of him, that he stood in the same
+swaggering attitude whether he stood [[Alone|alone]] or backed by a whole nation.
+Two examples will serve:  of the former, the joke about the gridiron;
+of the latter, an affair that had happened earlier-that of
+the Royal [[divorce|Divorce]].
+
 Certainly Cobbett had a way of brazening things out, whether we
 think him right or wrong; indeed, we cannot but feel a sort
 of breathless admiration especially when we think him wrong.
@@ -44,7 +61,7 @@ in his cap.  He seized the opportunity of solidifying
 into an emblem something that had been but an idle word.
 They taunted him by turning his metaphor against him;
 and he answered them by turning their taunt against them.
-He hung up a huge gridiron outside his [[house]]; he brandished
+He hung up a huge gridiron outside his house; he brandished
 his gridiron in controversy like a club in a street riot.
 It seemed impossible to believe that any man could
 be wrong on a point that he pressed so provocatively;
@@ -65,62 +82,34 @@ that he had the tricks of a demagogue.  Only, something more
 in the way of a definition of demagogy is needed before justice
 is done to him.  But he did shout down his hecklers; and it
 was he on the hustings, much more than Johnson at the tea table,
-who knocked men down with the butt-end when his [[Pistol|pistol]] missed [[Fire|fire]].
+who knocked men down with the butt-end when his pistol missed fire.
 And he did have the power of making his very digressions
 and irrelevancies more important than other men's questions;
-the great gridiron did brand itself on men's [[Memory|memory]] when its
-origin was forgotten, and glowed through the twilight of [[Time|time]]
+the great gridiron did brand itself on men's memory when its
+origin was forgotten, and glowed through the twilight of time
 almost like the sacred gridiron of St. Lawrence.
 
 It was characteristic of Cobbett's instinct for the national sentiment,
 for a sort of sporting variety of chivalry very deep in his people,
 that he had thrown himself with refreshing fury against the opponents
-of [[Queen]] Caroline.  It is also characteristic of his fighting spirit
+of Queen Caroline.  It is also characteristic of his fighting spirit
 that he must have been rather more of a nuisance to her supporters than
-to her enemies.  He bullied and browbeat the [[Queen]]'s lawyers and advisers,
-he came near to bullying and browbeating the [[Queen]]; but in the main
+to her enemies.  He bullied and browbeat the Queen's lawyers and advisers,
+he came near to bullying and browbeating the Queen; but in the main
 he respectfully confined himself to pestering and plaguing her.
 Yet his aim, as was often the case with him, was nonetheless sane because
 it was strenuous.  It was his whole purpose to pin her to her full claims,
-and especially to nail her to her post in [[London]], when there was any
+and especially to nail her to her post in London, when there was any
 danger of her leaving the country; which might look like a surrender.
 So Dundee, a man of the fighting sort, had tried to nail James the Second,
 and prevent him seeming to abandon his claim with his country.
 Perhaps the feeling was the fiercer because Cobbett's old enemy Brougham
 was the lady's chief legal adviser; and nothing pleased Cobbett so much as
-to suggest that he was too legal to be loyal.  Anyhow, there is no [[Doubt|doubt]]
+to suggest that he was too legal to be loyal.  Anyhow, there is no doubt
 that Cobbett was quite sincerely loyal.  He enjoyed, indeed, not without
-an [[Innocent|innocent]] [[Vanity|vanity]], his chivalric attitude as the champion of a woman;
+an innocent vanity, his chivalric attitude as the champion of a woman;
 he had all his life a very honourable simplicity in his view of women.
 There are some very delightful touches in the letters of his daughter,
 who adored him, but who does not conceal her amusement at papa's new
-grandeur and gratification in his powdered hair and new [[Court|court]]-suit
-and [[Sword|sword]].  There was no red waistcoat on these occasions.
-
-The affair of Caroline of Anspach need not be fully discussed here;
-though it is not without interest and certainly not without irony.
-The irony most relevant to her relations with the great demagogue
-is its suggestion of something not uncommon in democratic emotions.
-The mob has a curious way of being right by being wrong.  It often
-champions the wrong person to punish the right person.  It supports a true
-view by a false argument; or convicts a real criminal of an unreal crime.
-It may be doubted whether the official wife of George the Fourth
-deserved all the democratic devotion that was poured out for her;
-but there is little [[Doubt|doubt]] that George the Fourth by this [[Time|time]] deserved
-most of the democratic detestation that was hurled against him.
-Yet he had once been a far more generous and even a far more liberal man.
-And the sin that had rotted his [[Honour|honour]] was not his repudiation
-of his official wife Caroline, but his repudiation of his real
-wife Mrs. Fitzherbert.  And it is the supreme irony of that strange
-story that his old and real crime [[Rose|rose]] from the [[Grave|grave]] against him,
-at the very moment when he was committing what was regarded
-as a more indefensible crime, but was really far more defensible.
-Lord Liverpool and the [[King]]'s friends, goaded by the defiances of Cobbett
-and the mob, brought in a bill legally divorcing and degrading the [[Queen]].
-The [[Queen]]'s party retorted with a boldness that smacks very much of'
-Cobbett's controversial spirit; they threatened to bring up the [[King]]'s
-first and secret [[Marriage|marriage]] as an illegality forfeiting his whole position,
-because it was a [[Marriage|marriage]] to a Catholic.  At this point also,
-not for the first [[Time|time]], England and the great English agitator touched
-for a moment the hidden thing that had remained behind English [[history]];
-at first a martyr and always a witness, and perhaps at last a deliverer.
+grandeur and gratification in his powdered hair and new court-suit
+and sword.  There was no red waistcoat on these occasions.

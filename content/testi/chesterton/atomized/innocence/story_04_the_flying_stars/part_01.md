@@ -1,5 +1,5 @@
 ---
-title: "[[innocence]] — The Flying [[Stars]] (part 1)"
+title: "innocence — The Flying Stars (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">innocence</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_04_the_flying_stars/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_04_the_flying_stars/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -129,18 +129,3 @@ by one, till they revealed something resembling the human form;
 the form of a friendly, but foreign-looking old gentleman,
 with a grey goat-like beard and a beaming smile, who rubbed his
 big fur gloves together.
-
-Long before this revelation was complete the two big doors of the porch
-had opened in the middle, and Colonel Adams (father of the furry
-young lady) had come out himself to invite his eminent guest inside.
-He was a tall, sunburnt, and very silent man, who wore a red smoking-cap
-like a fez, making him look like one of the English Sirdars or Pashas
-in [[Egypt]].  With him was his brother-in-law, lately come from Canada,
-a big and rather boisterous young gentleman-farmer, with a yellow beard,
-by name James Blount.  With him also was the more insignificant figure
-of the priest from the neighbouring Roman Church; for the colonel's
-late wife had been a Catholic, and the children, as is common
-in such cases, had been trained to follow her.  Everything seemed
-undistinguished about the priest, even down to his name, which was Brown;
-yet the colonel had always found something companionable about him,
-and frequently asked him to such family gatherings.

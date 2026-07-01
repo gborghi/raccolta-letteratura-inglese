@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 53 (part 4)"
+title: "Great Expectations — Chapter 53 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -61,7 +61,7 @@ now—went before us with a lantern, which was the light I had seen come
 in at the door. But, the [[Moon|moon]] was a good two hours higher than when I
 had last seen the sky, and the [[Night|night]], though rainy, was much lighter.
 The white vapour of the kiln was passing from us as we went by, and as
-I had thought a [[Prayer|prayer]] before, I thought a thanksgiving now.
+I had thought a [[prayer]] before, I thought a thanksgiving now.
 
 Entreating Herbert to tell me how he had come to my rescue,—which at
 first he had flatly refused to do, but had insisted on my remaining
@@ -121,10 +121,3 @@ got a large bottle of stuff for my arm; and by dint of having this
 stuff dropped over it all the [[Night|night]] through, I was just able to bear
 its [[Pain|pain]] on the [[Journey|journey]]. It was daylight when we reached the Temple,
 and I went at once to bed, and lay in bed all day.
-
-My terror, as I lay there, of falling ill, and being unfitted for
-to-morrow, was so besetting, that I [[Wonder|wonder]] it did not disable me of
-itself. It would have done so, pretty surely, in conjunction with the
-mental wear and tear I had suffered, but for the unnatural strain upon
-me that to-morrow was. So anxiously looked forward to, charged with
-such consequences, its results so impenetrably hidden, though so near.

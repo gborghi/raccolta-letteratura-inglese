@@ -14,6 +14,37 @@ tags:
 </nav>
 
 
+'I think,' remarked the other, 'that we'd better go back to the [[house]]
+and have a look at his bedroom - and other things.'
+
+'So we will,' said [[Father Brown]]. 'But among other things perhaps we had
+better have a look at these footprints. Better begin at the other end, I
+think, by his [[Window|window]]. [[Well]], there are no footprints on the paved path,
+as there might be; but then again there mightn't be. [[Well]], here is the
+lawn just under his bedroom [[Window|window]]. And here are his footprints plain
+enough.'
+
+He blinked ominously at the footprints; and then began carefully
+retracing his path towards the tree, every now and then ducking in an
+undignified manner to look at something on the ground. Eventually he
+returned to [[Flambeau]] and said in a chatty manner:
+
+'[[Well]], do you know the story that is written there very plainly? Though
+it's not exactly a plain story.'
+
+'I wouldn't be content to call it plain,' said [[Flambeau]]. 'I should call
+it quite ugly - '
+
+'[[Well]],' said [[Father Brown]], 'the story that is stamped quite plainly on
+the earth, with exact moulds of the old man's slippers, is this. The
+aged paralytic leapt from the [[Window|window]] and ran down the beds parallel to
+the path, quite eager for all the fun of being strangled and stabbed; so
+eager that he hopped on one leg out of sheer lightheartedness; and even
+occasionally turned cartwheels - '
+
+'Stop!' cried [[Flambeau]], angrily. 'What the hell is all this hellish
+pantomime?'
+
 [[Father Brown]] merely raised his eyebrows and gestured mildly towards the
 hieroglyphs in the [[Dust|dust]]. 'About half the way there's only the mark of
 one slipper; and in some places the mark of a hand planted all by
@@ -110,24 +141,3 @@ by woman wailing for her demon [[Lover|lover]].' His muttering became more
 agitated. 'Holy Mary, Mother of God, pray for us sinners . . . that's
 what it is; that's terribly like what it is; woman wailing for her demon
 [[Lover|lover]].'
-
-He was hesitant and almost shaky as he approached the woman; but he
-spoke with his common composure. He was gazing at her very steadily, as
-he told her earnestly that she must not be morbid because of the mere
-accidental accessories of the [[Tragedy|tragedy]], with all their mad ugliness. 'The
-pictures in your grandfather's room were truer to him than that ugly
-picture that we saw,' he said gravely. 'Something tells me he was a good
-man; and it does not matter what his murderers did with his [[Body|body]].'
-
-'Oh, I am sick of his holy pictures and statues!' she said, turning her
-head away. 'Why don't they defend themselves, if they are what you say
-they are? But rioters can knock off the Blessed Virgin's head and
-nothing happens to them. Oh, what's the good? You can't blame us, you
-daren't blame us, if we've found out that Man is stronger than God.'
-
-'Surely,' said [[Father Brown]] very gently, 'it is not generous to make
-even God's patience with us a point against Him.'
-
-'God may be patient and Man impatient,' she answered, 'and suppose we
-like the impatience better. You call it sacrilege; but you can't stop
-it.'

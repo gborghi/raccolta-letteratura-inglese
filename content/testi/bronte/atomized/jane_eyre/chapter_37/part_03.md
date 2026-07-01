@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 37 (part 3)"
+title: "Jane Eyre — Chapter 37 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -141,11 +141,3 @@ them grow as broad and black as ever.
 at some fatal moment, you will again [[Desert|desert]] me—passing like a [[Shadow|shadow]],
 whither and how to me unknown, and for me remaining afterwards
 undiscoverable?”
-
-“Have you a pocket-comb about you, sir?”
-
-“What for, Jane?”
-
-“Just to comb out this shaggy black mane. I find you rather alarming,
-when I examine you close at hand: you talk of my being a fairy, but I
-am sure, you are more like a brownie.”

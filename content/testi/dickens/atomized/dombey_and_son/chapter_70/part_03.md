@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 14 (part 3)"
+title: "Dombey and Son — Chapter 42 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,105 +14,126 @@ tags:
 </nav>
 
 
-There were some immunities, however, attaching to the character enjoyed
-by no one else. They could have better spared a newer-fashioned [[Child|child]],
-and that [[Alone|alone]] was much. When the others only bowed to Doctor Blimber
-and family on retiring for the [[Night|night]], Paul would stretch out his morsel
-of a hand, and boldly shake the Doctor’s; also Mrs Blimber’s; also
-Cornelia’s. If anybody was to be begged off from impending punishment,
-Paul was always the delegate. The weak-eyed young man himself had once
-consulted him, in reference to a little breakage of glass and china.
-And it was darkly rumoured that the butler, regarding him with favour
-such as that stern man had never shown before to mortal boy, had
-sometimes mingled porter with his table-beer to make him strong.
+He stopped again, as if to discover whether he had led Mr Dombey far
+enough yet. And again, with his chin resting on his hand, he leered at
+the picture.
 
-Over and above these extensive privileges, Paul had free right of entry
-to Mr Feeder’s room, from which apartment he had twice led Mr Toots
-into the open air in a state of faintness, consequent on an
-unsuccessful attempt to smoke a very blunt cigar: one of a bundle which
-that young gentleman had covertly purchased on the shingle from a most
-desperate smuggler, who had acknowledged, in confidence, that two
-hundred pounds was the price set upon his head, dead or alive, by the
-Custom [[house|House]]. It was a snug room, Mr Feeder’s, with his bed in another
-little room inside of it; and a flute, which Mr Feeder couldn’t play
-yet, but was going to make a point of learning, he said, hanging up
-over the fireplace. There were some books in it, too, and a
-fishing-rod; for Mr Feeder said he should certainly make a point of
-learning to fish, when he could find [[Time|time]]. Mr Feeder had amassed, with
-similar intentions, a beautiful little curly secondhand key-bugle, a
-chess-board and men, a Spanish Grammar, a set of sketching materials,
-and a pair of boxing-gloves. The art of [[Self|self]]-defence Mr Feeder said he
-should undoubtedly make a point of learning, as he considered it the
-duty of every man to do; for it might lead to the protection of a
-female in distress.
+“Carker,” said Mr Dombey, “I am sensible that you do not limit your—”
 
-But Mr Feeder’s great possession was a large green jar of snuff, which
-Mr Toots had brought down as a present, at the close of the last
-vacation; and for which he had paid a high price, having been the
-genuine property of the Prince Regent. Neither Mr Toots nor Mr Feeder
-could partake of this or any other snuff, even in the most stinted and
-moderate degree, without being seized with convulsions of sneezing.
-Nevertheless it was their great delight to moisten a box-full with cold
-tea, stir it up on a piece of parchment with a paper-knife, and devote
-themselves to its consumption then and there. In the course of which
-cramming of their noses, they endured surprising torments with the
-constancy of martyrs: and, drinking table-beer at intervals, felt all
-the glories of dissipation.
+“Service,” suggested his smiling entertainer.
 
-To little Paul sitting silent in their company, and by the side of his
-chief patron, Mr Toots, there was a dread charm in these reckless
-occasions: and when Mr Feeder spoke of the dark mysteries of [[London]],
-and told Mr Toots that he was going to observe it himself closely in
-all its ramifications in the approaching holidays, and for that purpose
-had made arrangements to board with two old maiden ladies at Peckham,
-Paul regarded him as if he were the [[Hero|hero]] of some book of travels or
-wild adventure, and was almost afraid of such a slashing person.
+“No; I prefer to say your regard,” observed Mr Dombey; very sensible,
+as he said so, that he was paying him a handsome and flattering
+compliment, “to our mere business relations. Your consideration for my
+feelings, hopes, and disappointments, in the little instance you have
+just now mentioned, is an example in point. I am obliged to you,
+Carker.”
 
-Going into this room one evening, when the holidays were very near,
-Paul found Mr Feeder filling up the blanks in some printed letters,
-while some others, already filled up and strewn before him, were being
-folded and sealed by Mr Toots. Mr Feeder said, “Aha, Dombey, there you
-are, are you?”—for they were always kind to him, and glad to see
-him—and then said, tossing one of the letters towards him, “And there
-you are, too, Dombey. That’s yours.”
+Mr Carker bent his head slowly, and very softly rubbed his hands, as if
+he were afraid by any action to disturb the current of Mr Dombey’s
+confidence.
 
-“Mine, Sir?” said Paul.
+“Your allusion to it is opportune,” said Mr Dombey, after a little
+hesitation; “for it prepares the way to what I was beginning to say to
+you, and reminds me that that involves no absolutely new relations
+between us, although it may involve more personal confidence on my part
+than I have hitherto—”
 
-“Your invitation,” returned Mr Feeder.
+“Distinguished me with,” suggested Carker, bending his head again: “I
+will not say to you how honoured I am; for a man like you [[Well|well]] knows
+how much [[Honour|honour]] he has in his power to bestow at pleasure.”
 
-Paul, looking at it, found, in copper-plate print, with the exception
-of his own name and the date, which were in Mr Feeder’s penmanship,
-that Doctor and Mrs Blimber requested the pleasure of Mr P. Dombey’s
-company at an early party on Wednesday Evening the Seventeenth Instant;
-and that the hour was half-past seven o’[[Clock|clock]]; and that the object was
-Quadrilles. Mr Toots also showed him, by holding up a companion sheet
-of paper, that Doctor and Mrs Blimber requested the pleasure of Mr
-Toots’s company at an early party on Wednesday Evening the Seventeenth
-Instant, when the hour was half-past seven o’[[Clock|clock]], and when the object
-was Quadrilles. He also found, on glancing at the table where Mr Feeder
-sat, that the pleasure of Mr Briggs’s company, and of Mr Tozer’s
-company, and of every young gentleman’s company, was requested by
-Doctor and Mrs Blimber on the same genteel Occasion.
+“Mrs Dombey and myself,” said Mr Dombey, passing this compliment with
+august [[Self|self]]-denial, “are not quite agreed upon some points. We do not
+appear to understand each other yet. Mrs Dombey has something to
+learn.”
 
-Mr Feeder then told him, to his great joy, that his sister was invited,
-and that it was a half-yearly event, and that, as the holidays began
-that day, he could go away with his sister after the party, if he
-liked, which Paul interrupted him to say he would like, very much. Mr
-Feeder then gave him to understand that he would be expected to inform
-Doctor and Mrs Blimber, in superfine small-hand, that Mr P. Dombey
-would be happy to have the [[Honour|honour]] of waiting on them, in accordance
-with their polite invitation. Lastly, Mr Feeder said, he had better not
-refer to the festive occasion, in the hearing of Doctor and Mrs
-Blimber; as these preliminaries, and the whole of the arrangements,
-were conducted on principles of classicality and high breeding; and
-that Doctor and Mrs Blimber on the one hand, and the young gentlemen on
-the other, were supposed, in their scholastic capacities, not to have
-the least idea of what was in the [[Wind|wind]].
+“Mrs Dombey is distinguished by many rare attractions; and has been
+accustomed, no [[Doubt|doubt]], to receive much adulation,” said the smooth,
+sleek watcher of his slightest look and tone. “But where there is
+affection, duty, and respect, any little mistakes engendered by such
+causes are soon set right.”
 
-Paul thanked Mr Feeder for these hints, and pocketing his invitation,
-sat down on a stool by the side of Mr Toots, as usual. But Paul’s head,
-which had long been ailing more or less, and was sometimes very heavy
-and painful, felt so uneasy that [[Night|night]], that he was obliged to support
-it on his hand. And yet it dropped so, that by little and little it
-sunk on Mr Toots’s knee, and rested there, as if it had no care to be
-ever lifted up again.
+Mr Dombey’s thoughts instinctively flew back to the face that had
+looked at him in his wife’s dressing-room when an imperious hand was
+stretched towards the door; and remembering the affection, duty, and
+respect, expressed in it, he felt the [[Blood|blood]] rush to his own face quite
+as plainly as the watchful eyes upon him saw it there.
+
+“Mrs Dombey and myself,” he went on to say, “had some discussion,
+before Mrs Skewton’s [[Death|death]], upon the causes of my dissatisfaction; of
+which you will have formed a general understanding from having been a
+witness of what passed between Mrs Dombey and myself on the evening
+when you were at our—at my [[house]].”
+
+“When I so much regretted being present,” said the smiling Carker.
+“Proud as a man in my position necessarily must be of your familiar
+notice—though I give you no credit for it; you may do anything you
+please without losing caste—and honoured as I was by an early
+presentation to Mrs Dombey, before she was made eminent by bearing your
+name, I almost regretted that [[Night|night]], I assure you, that I had been the
+object of such especial good fortune.”
+
+That any man could, under any possible circumstances, regret the being
+distinguished by his condescension and patronage, was a moral
+phenomenon which Mr Dombey could not comprehend. He therefore
+responded, with a considerable accession of dignity. “Indeed! And why,
+Carker?”
+
+“I [[Fear|fear]],” returned the confidential agent, “that Mrs Dombey, never very
+much disposed to regard me with favourable interest—one in my position
+could not expect that, from a lady naturally proud, and whose [[Pride|pride]]
+becomes her so [[Well|well]]—may not easily forgive my [[Innocent|innocent]] part in that
+conversation. Your displeasure is no light matter, you must remember;
+and to be visited with it before a third party—”
+
+“Carker,” said Mr Dombey, arrogantly; “I presume that I am the first
+consideration?”
+
+“Oh! Can there be a [[Doubt|doubt]] about it?” replied the other, with the
+impatience of a man admitting a notorious and incontrovertible fact.
+
+“Mrs Dombey becomes a secondary consideration, when we are both in
+question, I imagine,” said Mr Dombey. “Is that so?”
+
+“Is it so?” returned Carker. “Do you know better than anyone, that you
+have no need to ask?”
+
+“Then I [[Hope|hope]], Carker,” said Mr Dombey, “that your regret in the
+acquisition of Mrs Dombey’s displeasure, may be almost counterbalanced
+by your satisfaction in retaining my confidence and good opinion.”
+
+“I have the misfortune, I find,” returned Carker, “to have incurred
+that displeasure. Mrs Dombey has expressed it to you?”
+
+“Mrs Dombey has expressed various opinions,” said Mr Dombey, with
+majestic coldness and indifference, “in which I do not participate, and
+which I am not inclined to discuss, or to recall. I made Mrs Dombey
+acquainted, some [[Time|time]] since, as I have already told you, with certain
+points of domestic deference and submission on which I felt it
+necessary to insist. I failed to convince Mrs Dombey of the expediency
+of her immediately altering her conduct in those respects, with a view
+to her own peace and welfare, and my dignity; and I informed Mrs Dombey
+that if I should find it necessary to object or remonstrate again, I
+should express my opinion to her through yourself, my confidential
+agent.”
+
+Blended with the look that Carker bent upon him, was a devilish look at
+the picture over his head, that struck upon it like a flash of
+[[Lightning|lightning]].
+
+“Now, Carker,” said Mr Dombey, “I do not hesitate to say to you that I
+will carry my point. I am not to be trifled with. Mrs Dombey must
+understand that my will is law, and that I cannot allow of one
+exception to the whole rule of my life. You will have the goodness to
+undertake this charge, which, coming from me, is not unacceptable to
+you, I [[Hope|hope]], whatever regret you may politely profess—for which I am
+obliged to you on behalf of Mrs Dombey; and you will have the goodness,
+I am persuaded, to discharge it as exactly as any other commission.”
+
+“You know,” said Mr Carker, “that you have only to command me.”
+
+“I know,” said Mr Dombey, with a majestic indication of assent, “that I
+have only to command you. It is necessary that I should proceed in
+this. Mrs Dombey is a lady undoubtedly highly qualified, in many
+respects, to—”

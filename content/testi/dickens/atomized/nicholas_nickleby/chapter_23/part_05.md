@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 23 (part 5)"
+title: "Nicholas Nickleby — Chapter 23 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_23/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_24/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘Vincent,’ said Mrs. Crummles, ‘what is the hour?’
+
+‘Five minutes past dinner-[[Time|time]],’ said Mr. Crummles.
+
+Mrs. Crummles rang the bell. ‘Let the mutton and onion sauce appear.’
+
+The slave who attended upon Mr. Bulph’s lodgers, disappeared, and after
+a short interval reappeared with the festive banquet. Nicholas and the
+infant phenomenon opposed each other at the pembroke-table, and [[Smike]]
+and the master Crummleses dined on the sofa bedstead.
 
 ‘Are they very theatrical people here?’ asked Nicholas.
 

@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 17 (part 4)"
+title: "Jane Eyre — Chapter 17 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,31 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_17/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_17/part_05">part 05 ›</a></div>
 </nav>
 
+
+“Will these people remain long, do you think?”
+
+“Perhaps two or three weeks, certainly not more. After the Easter
+recess, Sir George Lynn, who was lately elected member for Millcote,
+will have to go up to town and take his seat; I daresay Mr. Rochester
+will accompany him: it surprises me that he has already made so
+protracted a stay at Thornfield.”
+
+It was with some trepidation that I perceived the hour approach when I
+was to repair with my charge to the drawing-room. Adèle had been in a
+state of ecstasy all day, after hearing she was to be presented to the
+ladies in the evening; and it was not till Sophie commenced the
+operation of dressing her that she sobered down. Then the importance of
+the process quickly steadied her, and by the [[Time|time]] she had her curls
+arranged in [[Well|well]]-smoothed, drooping clusters, her pink satin frock put
+on, her long sash tied, and her lace mittens adjusted, she looked as
+[[Grave|grave]] as any judge. No need to warn her not to disarrange her attire:
+when she was dressed, she sat demurely down in her little chair, taking
+care previously to lift up the satin skirt for [[Fear|fear]] she should crease
+it, and assured me she would not stir thence till I was ready. This I
+quickly was: my best dress (the silver-grey one, purchased for Miss
+Temple’s wedding, and never worn since) was soon put on; my hair was
+soon smoothed; my sole ornament, the pearl brooch, soon assumed. We
+descended.
 
 Fortunately there was another entrance to the drawing-room than that
 through the saloon where they were all seated at dinner. We found the
@@ -98,32 +123,3 @@ voice was deep, its inflections very pompous, very dogmatical,—very
 intolerable, in short. A crimson velvet robe, and a shawl turban of
 some gold-wrought Indian fabric, invested her (I suppose she thought)
 with a truly imperial dignity.
-
-Blanche and Mary were of equal stature,—straight and tall as poplars.
-Mary was too slim for her height, but Blanche was moulded like a Dian.
-I regarded her, of course, with special interest. First, I wished to
-see whether her appearance accorded with Mrs. Fairfax’s description;
-secondly, whether it at all resembled the fancy miniature I had painted
-of her; and thirdly—it will out!—whether it were such as I should fancy
-likely to suit Mr. Rochester’s taste.
-
-As far as person went, she answered point for point, both to my picture
-and Mrs. Fairfax’s description. The noble bust, the sloping shoulders,
-the graceful neck, the dark eyes and black ringlets were all there;—but
-her face? Her face was like her mother’s; a youthful unfurrowed
-likeness: the same low brow, the same high features, the same [[Pride|pride]]. It
-was not, however, so saturnine a [[Pride|pride]]! she laughed continually; her
-laugh was satirical, and so was the habitual expression of her arched
-and haughty lip.
-
-Genius is said to be [[Self|self]]-conscious. I cannot tell whether Miss Ingram
-was a genius, but she was [[Self|self]]-conscious—remarkably [[Self|self]]-conscious
-indeed. She entered into a discourse on botany with the gentle Mrs.
-Dent. It seemed Mrs. Dent had not studied that science: though, as she
-said, she liked [[Flowers|flowers]], “especially wild ones;” Miss Ingram had, and
-she ran over its vocabulary with an air. I presently perceived she was
-(what is vernacularly termed) _trailing_ Mrs. Dent; that is, playing on
-her ignorance; her _trail_ might be clever, but it was decidedly not
-good-natured. She played: her execution was brilliant; she sang: her
-voice was fine; she talked French apart to her mamma; and she talked it
-[[Well|well]], with fluency and with a good accent.

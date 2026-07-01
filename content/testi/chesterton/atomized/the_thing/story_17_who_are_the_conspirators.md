@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-thing-(chesterton)">The Thing</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_16_the_feasts_and_the_ascetic">‹ Story 16 THE FEASTS AND THE ASCETIC</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_18_the_hat_and_the_halo">Story 18 THE HAT AND THE HALO ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_16_the_feasts_and_the_ascetic_ascetic">‹ Story 16 THE FEASTS AND THE ascetic ASCETIC</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_18_the_hat_and_the_halo">Story 18 THE HAT AND THE HALO ›</a></div>
 </nav>
 
 
@@ -75,7 +75,7 @@ that they are not plotted anywhere; but it is unreasonable to expect
 our fellow-countrymen to suggest anything so fanciful as that.
 
 Now this mysterious delusion, still far commoner than many suppose
-even in England, and covering whole interior spaces of [[America]],
+even in England, and covering whole interior spaces of [[america|America]],
 happens to be another illustration of what I have been suggesting
 in an earlier [[Essay|essay]]; the fact that those who are always
 digging and prying for secret things about us, have never even
@@ -83,7 +83,7 @@ glanced at the most [[Self|self]]-evident things about themselves.
 We have only to ask ourselves, with a sort of shudder, what would
 have been said if we really had confessed to conspiracy as
 shamelessly as half our accusers have confessed to it themselves.
-What in the world would be said, either in [[America]] or in Europe, if we
+What in the world would be said, either in [[america|America]] or in Europe, if we
 really had behaved like a secret society, in places where the groups
 of our enemies cannot even deny that they are secret societies?
 What in the world would happen if a Catholic Congress at Glasgow
@@ -92,7 +92,7 @@ delegates, all with their faces covered and their names unknown,
 looking out of slits in their ghastly masks of white?
 Yet this was, until just lately, the rigid routine of the great
 American organisation to destroy Catholicism; an organisation
-which recently threatened to seize all [[government]] in [[America]].
+which recently threatened to seize all [[government]] in [[america|America]].
 What would have been said, if there really was a definite, recognised,
 but entirely unknown thing, called the Secret of the Catholics;
 as there has been for long past a recognised but unknown reality
@@ -107,7 +107,7 @@ Suppose our veneration for the dignity of St. Peter were wholly
 and solely a veneration for the denial of St. Peter; and we used it
 as a sort of motto or password to swear that we knew not [[Christ]].
 Yet that was admittedly the policy of a whole political movement
-in [[America]], which aimed at destroying the citizenship of Catholics.
+in [[america|America]], which aimed at destroying the citizenship of Catholics.
 Suppose that the Mafia and all the murderous secret associations
 of the Continent had been notoriously working on the Catholic side,
 instead of the other side.  Should we ever have heard the last of it?
@@ -145,7 +145,7 @@ himself over the happy secret that he is a Kleagle or a Klemperor,
 long after everybody has ceased to klare a klam whether he is or not.
 On the political side the power of these conspiracies has been
 practically broken in both Continents; in [[Italy]] by the Fascists and in
-[[America]] by a rally of reasonable and public-spirited governors of both
+[[america|America]] by a rally of reasonable and public-spirited governors of both
 political parties.  But the point of historical interest remains:
 that it was the very people who accused us of mummery and mystery
 who surrounded all their secularising activities with far more fantastic

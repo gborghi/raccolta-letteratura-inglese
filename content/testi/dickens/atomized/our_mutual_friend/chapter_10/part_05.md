@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 5 (part 5)"
+title: "Our Mutual Friend — Chapter 6 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,114 +14,142 @@ tags:
 </nav>
 
 
-Presently, Edward stopped at a gateway, and Wegg discreetly lost no [[Time|time]]
-in slipping out at the back of the truck. The moment he was landed, his
-late driver with a wave of the carrot, said ‘Supper, Eddard!’ and he,
-the hind hoofs, the truck, and Edward, all seemed to fly into the air
-together, in a kind of apotheosis.
+‘Hal-loa!’ From her brother, sitting up in bed.
 
-Pushing the gate, which stood ajar, Wegg looked into an enclosed space
-where certain tall dark mounds [[Rose|rose]] high against the sky, and where the
-pathway to the Bower was indicated, as the moonlight showed, between two
-lines of broken crockery set in ashes. A white figure advancing along
-this path, proved to be nothing more ghostly than Mr Boffin, easily
-attired for the pursuit of knowledge, in an undress garment of short
-white smock-frock. Having received his literary friend with great
-cordiality, he conducted him to the interior of the Bower and there
-presented him to Mrs Boffin:—a stout lady of a rubicund and cheerful
-aspect, dressed (to Mr Wegg’s consternation) in a low evening-dress of
-sable satin, and a large black velvet hat and feathers.
+‘You made me jump, Charley.’
 
-‘Mrs Boffin, Wegg,’ said Boffin, ‘is a highflyer at Fashion. And her
-make is such, that she does it credit. As to myself I ain’t yet as
-Fash’nable as I may come to be. Henerietty, old lady, this is the
-gentleman that’s a going to decline and fall off the Rooshan Empire.’
+‘Jump! Didn’t you make ME jump, when I opened my eyes a moment ago, and
+saw you sitting there, like the [[Ghost|ghost]] of a girl miser, in the dead of
+the [[Night|night]].’
 
-‘And I am sure I [[Hope|hope]] it’ll do you both good,’ said Mrs Boffin.
+‘It’s not the dead of the [[Night|night]], Charley. It’s nigh six in the morning.’
 
-It was the queerest of rooms, fitted and furnished more like a luxurious
-amateur tap-room than anything else within the ken of [[Silas Wegg]]. There
-were two wooden settles by the [[Fire|fire]], one on either side of it, with
-a corresponding table before each. On one of these tables, the eight
-volumes were ranged flat, in a row, like a galvanic battery; on the
-other, certain squat case-bottles of inviting appearance seemed to stand
-on tiptoe to exchange glances with Mr Wegg over a front row of tumblers
-and a basin of white sugar. On the hob, a kettle steamed; on the hearth,
-a cat reposed. Facing the [[Fire|fire]] between the settles, a sofa, a footstool,
-and a little table, formed a centrepiece devoted to Mrs Boffin.
-They were garish in taste and colour, but were expensive articles of
-drawing-room furniture that had a very odd look beside the settles
-and the flaring gaslight pendent from the ceiling. There was a flowery
-carpet on the floor; but, instead of reaching to the fireside, its
-glowing vegetation stopped short at Mrs Boffin’s footstool, and gave
-place to a region of sand and sawdust. Mr Wegg also noticed, with
-admiring eyes, that, while the flowery land displayed such hollow
-ornamentation as stuffed [[Birds|birds]] and waxen fruits under glass-shades,
-there were, in the territory where vegetation ceased, compensatory
-shelves on which the best part of a large pie and likewise of a cold
-joint were plainly discernible among other solids. The room itself was
-large, though low; and the heavy frames of its old-fashioned windows,
-and the heavy beams in its crooked ceiling, seemed to indicate that it
-had once been a [[house]] of some mark standing [[Alone|alone]] in the country.
+‘Is it though? But what are you up to, Liz?’
 
-‘Do you like it, Wegg?’ asked Mr Boffin, in his pouncing manner.
+‘Still telling your fortune, Charley.’
 
-‘I admire it greatly, sir,’ said Wegg. ‘Peculiar comfort at this
-fireside, sir.’
+‘It seems to be a precious small one, if that’s it,’ said the boy. ‘What
+are you putting that little pile of money by itself for?’
 
-‘Do you understand it, Wegg?’
+‘For you, Charley.’
 
-‘Why, in a general way, sir,’ Mr Wegg was beginning slowly and
-knowingly, with his head stuck on one side, as evasive people do begin,
-when the other cut him short:
+‘What do you mean?’
 
-‘You DON’T understand it, Wegg, and I’ll explain it. These arrangements
-is made by mutual consent between Mrs Boffin and me. Mrs Boffin, as I’ve
-mentioned, is a highflyer at Fashion; at present I’m not. I don’t go
-higher than comfort, and comfort of the sort that I’m equal to the
-enjoyment of. [[Well]] then. Where would be the good of Mrs Boffin and me
-quarrelling over it? We never did quarrel, before we come into Boffin’s
-Bower as a property; why quarrel when we HAVE come into Boffin’s Bower
-as a property? So Mrs Boffin, she keeps up her part of the room, in her
-way; I keep up my part of the room in mine. In consequence of which
-we have at once, Sociability (I should go [[Melancholy|melancholy]] mad without Mrs
-Boffin), Fashion, and Comfort. If I get by degrees to be a higher-flyer
-at Fashion, then Mrs Boffin will by degrees come for’arder. If Mrs
-Boffin should ever be less of a dab at Fashion than she is at the
-present [[Time|time]], then Mrs Boffin’s carpet would go back’arder. If we should
-both continny as we are, why then HERE we are, and give us a kiss, old
-lady.’
+‘Get out of bed, Charley, and get washed and dressed, and then I’ll tell
+you.’
 
-Mrs Boffin who, perpetually smiling, had approached and drawn her plump
-arm through her lord’s, most willingly complied. Fashion, in the form
-of her black velvet hat and feathers, tried to prevent it; but got
-deservedly crushed in the endeavour.
+Her composed manner, and her low distinct voice, always had an influence
+over him. His head was soon in a basin of [[Water|water]], and out of it again,
+and staring at her through a [[Storm|storm]] of towelling.
 
-‘So now, Wegg,’ said Mr Boffin, wiping his mouth with an air of much
-refreshment, ‘you begin to know us as we are. This is a charming spot,
-is the Bower, but you must get to apprechiate it by degrees. It’s a spot
-to find out the merits of; little by little, and a new’un every day.
-There’s a serpentining walk up each of the mounds, that gives you the
-yard and neighbourhood changing every moment. When you get to the top,
-there’s a view of the neighbouring premises, not to be surpassed. The
-premises of Mrs Boffin’s late father (Canine Provision Trade), you look
-down into, as if they was your own. And the top of the High Mound is
-crowned with a lattice-work Arbour, in which, if you don’t read out loud
-many a book in the [[Summer|summer]], ay, and as a friend, drop many a [[Time|time]] into
-poetry too, it shan’t be my fault. Now, what’ll you read on?’
+‘I never,’ towelling at himself as if he were his bitterest enemy, ‘saw
+such a girl as you are. What IS the move, Liz?’
 
-‘Thank you, sir,’ returned Wegg, as if there were nothing new in his
-reading at all. ‘I generally do it on gin and [[Water|water]].’
+‘Are you almost ready for breakfast, Charley?’
 
-‘Keeps the organ moist, does it, Wegg?’ asked Mr Boffin, with [[Innocent|innocent]]
-eagerness.
+‘You can pour it out. Hal-loa! I say? And a bundle?’
 
-‘N-no, sir,’ replied Wegg, coolly, ‘I should hardly describe it so, sir.
-I should say, mellers it. Mellers it, is the word I should employ, Mr
-Boffin.’
+‘And a bundle, Charley.’
 
-His wooden conceit and craft kept exact pace with the delighted
-expectation of his victim. The visions rising before his mercenary mind,
-of the many ways in which this connexion was to be turned to account,
-never obscured the foremost idea natural to a dull overreaching man,
-that he must not make himself too cheap.
+‘You don’t mean it’s for me, too?’
+
+‘Yes, Charley; I do; indeed.’
+
+More serious of face, and more slow of action, than he had been, the
+boy completed his dressing, and came and sat down at the little
+breakfast-table, with his eyes amazedly directed to her face.
+
+‘You see, Charley dear, I have made up my mind that this is the right
+[[Time|time]] for your going away from us. Over and above all the blessed change
+of by-and-bye, you’ll be much happier, and do much better, even so soon
+as next month. Even so soon as next week.’
+
+‘How do you know I shall?’
+
+‘I don’t quite know how, Charley, but I do.’ In spite of her unchanged
+manner of speaking, and her unchanged appearance of composure, she
+scarcely trusted herself to look at him, but kept her eyes employed on
+the cutting and buttering of his bread, and on the mixing of his tea,
+and other such little preparations. ‘You must leave father to me,
+Charley—I will do what I can with him—but you must go.’
+
+‘You don’t stand upon ceremony, I think,’ grumbled the boy, throwing his
+bread and butter about, in an ill-[[Humour|humour]].
+
+She made him no answer.
+
+‘I tell you what,’ said the boy, then, bursting out into an angry
+whimpering, ‘you’re a selfish jade, and you think there’s not enough for
+three of us, and you want to get rid of me.’
+
+‘If you believe so, Charley,—yes, then I believe too, that I am a
+selfish jade, and that I think there’s not enough for three of us, and
+that I want to get rid of you.’
+
+It was only when the boy rushed at her, and threw his arms round her
+neck, that she lost her [[Self|self]]-restraint. But she lost it then, and wept
+over him.
+
+‘Don’t cry, don’t cry! I am satisfied to go, Liz; I am satisfied to go.
+I know you send me away for my good.’
+
+‘O, Charley, Charley, Heaven above us knows I do!’
+
+‘Yes yes. Don’t mind what I said. Don’t remember it. Kiss me.’
+
+After a [[Silence|silence]], she loosed him, to dry her eyes and regain her strong
+quiet influence.
+
+‘Now listen, Charley dear. We both know it must be done, and I [[Alone|alone]]
+know there is good reason for its being done at once. Go straight to the
+school, and say that you and I agreed upon it—that we can’t overcome
+father’s opposition—that father will never trouble them, but will never
+take you back. You are a credit to the school, and you will be a greater
+credit to it yet, and they will help you to get a living. Show what
+clothes you have brought, and what money, and say that I will send some
+more money. If I can get some in no other way, I will ask a little help
+of those two gentlemen who came here that [[Night|night]].’
+
+‘I say!’ cried her brother, quickly. ‘Don’t you have it of that chap
+that took hold of me by the chin! Don’t you have it of that Wrayburn
+one!’
+
+Perhaps a slight additional tinge of red flushed up into her face and
+brow, as with a nod she laid a hand upon his lips to keep him silently
+attentive.
+
+‘And above all things mind this, Charley! Be sure you always speak [[Well|well]]
+of father. Be sure you always give father his full due. You can’t deny
+that because father has no learning himself he is set against it in
+you; but favour nothing else against him, and be sure you say—as you
+know—that your sister is devoted to him. And if you should ever happen
+to hear anything said against father that is new to you, it will not be
+true. Remember, Charley! It will not be true.’
+
+The boy looked at her with some [[Doubt|doubt]] and surprise, but she went on
+again without heeding it.
+
+‘Above all things remember! It will not be true. I have nothing more to
+say, Charley dear, except, be good, and get learning, and only think of
+some things in the old life here, as if you had dreamed them in [[A Dream|a dream]]
+last [[Night|night]]. Good-bye, my Darling!’
+
+Though so young, she infused in these parting words a [[Love|love]] that was far
+more like a mother’s than a sister’s, and before which the boy was quite
+bowed down. After holding her to his breast with a passionate cry, he
+took up his bundle and darted out at the door, with an arm across his
+eyes.
+
+The white face of the [[Winter|winter]] day came sluggishly on, veiled in a
+frosty mist; and the shadowy ships in the [[River|river]] slowly changed to black
+substances; and the sun, [[Blood|blood]]-red on the eastern marshes behind dark
+masts and yards, seemed filled with the ruins of a forest it had set on
+[[Fire|fire]]. Lizzie, looking for her father, saw him coming, and stood upon the
+causeway that he might see her.
+
+He had nothing with him but his boat, and came on apace. A knot of those
+amphibious human-creatures who appear to have some mysterious power
+of extracting a subsistence out of tidal [[Water|water]] by looking at it, were
+gathered together about the causeway. As her father’s boat grounded,
+they became contemplative of the mud, and dispersed themselves. She saw
+that the mute avoidance had begun.

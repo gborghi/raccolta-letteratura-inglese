@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 54 (part 2)"
+title: "Bleak House — Chapter 54 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_54/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_54/part_03">part 03 ›</a></div>
 </nav>
 
+
+None at all. Mr. Bucket brings a chair and diminishes his [[Shadow|shadow]].
+“Now, [[Sir Leicester Dedlock]], Baronet, with this short preface I come
+to the point. [[Lady Dedlock]]—”
 
 Sir Leicester raises himself in his seat and stares at him fiercely.
 Mr. Bucket brings the finger into play as an emollient.

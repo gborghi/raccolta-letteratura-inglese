@@ -16,7 +16,6 @@ tags:
 
 Part Five:  The Spice of Life
 
-
 The Comic Constable
 
 Capone's Pal
@@ -29,16 +28,7 @@ On Fragments
 
 Sources
 
-
-
-
-
-
-
-
 THE [[Essay|ESSAY]] by G. K. Chesterton.
-
-
 
 THE [[Essay|ESSAY]] is the only literary form which confesses, in its very name,
 that the rash act known as writing is really a leap in the dark.

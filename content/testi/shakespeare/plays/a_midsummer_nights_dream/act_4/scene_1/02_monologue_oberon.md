@@ -1,5 +1,5 @@
 ---
-title: "A Midsummer Nights Dream — Act IV, Scene 1 — monologue ([[Oberon|OBERON]]) [2]"
+title: "A Midsummer Nights Dream — Act IV, Scene 1 — monologue (OBERON) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/a-midsummer-night’s-dream-(shakespeare)"

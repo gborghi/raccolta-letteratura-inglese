@@ -107,28 +107,3 @@ in which ladies who truly [[Love|love]] their lords [[Desire|desire]] to be.  Th
 born in her mother’s [[house]]; and she had not seen her husband (to whom she
 was now returning), for twelve months: having left him a month or two
 after their [[Marriage|marriage]].
-
-                        [Picture: The Little Wife]
-
-[[Well]], to be sure, there never was a little woman so full of [[Hope|hope]], and
-tenderness, and [[Love|love]], and anxiety, as this little woman was: and all day
-long she wondered whether ‘He’ would be at the wharf; and whether ‘He’
-had got her letter; and whether, if she sent the baby ashore by somebody
-else, ‘He’ would know it, meeting it in the street: which, seeing that he
-had never set eyes upon it in his life, was not very likely in the
-abstract, but was probable enough, to the young mother.  She was such an
-artless little creature; and was in such a sunny, beaming, hopeful state;
-and let out all this matter clinging close about her heart, so freely;
-that all the other lady passengers entered into the spirit of it as much
-as she; and the captain (who heard all about it from his wife) was
-wondrous sly, I promise you: inquiring, every [[Time|time]] we met at table, as in
-forgetfulness, whether she expected anybody to meet her at St. Louis, and
-whether she would want to go ashore the [[Night|night]] we reached it (but he
-supposed she wouldn’t), and cutting many other dry jokes of that [[Nature|nature]].
-There was one little weazen, dried-apple-faced old woman, who took
-occasion to [[Doubt|doubt]] the constancy of husbands in such circumstances of
-bereavement; and there was another lady (with a lap-dog) old enough to
-moralize on the lightness of human affections, and yet not so old that
-she could help nursing the baby, now and then, or laughing with the rest,
-when the little woman called it by its father’s name, and asked it all
-manner of fantastic questions concerning him in the joy of her heart.

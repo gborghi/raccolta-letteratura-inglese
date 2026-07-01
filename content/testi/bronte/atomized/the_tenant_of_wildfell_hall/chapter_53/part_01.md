@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 53 (part 1)"
+title: "The Tenant of Wildfell Hall — Chapter 53 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -42,7 +42,7 @@ I did not raise my eyes, but I suppose mamma looked, for a clear
 
 melodious voice, whose tones thrilled through my nerves, exclaimed,
 
-“Oh, aunt! here’s Mr. Markham, [[arthur|Arthur]]’s friend! Stop, [[Richard]]!”
+“Oh, aunt! here’s Mr. Markham, [[Arthur]]’s friend! Stop, [[Richard]]!”
 
 
 
@@ -56,7 +56,7 @@ I looked up and met the eye of a pale, [[Grave|grave]], elderly lady surveying m
 
 from the open [[Window|window]]. She bowed, and so did I, and then she withdrew
 
-her head, while [[arthur|Arthur]] screamed to the footman to let him out; but
+her head, while [[Arthur]] screamed to the footman to let him out; but
 
 before that functionary could descend from his box a hand was silently
 
@@ -104,7 +104,7 @@ or disappointment than surprise.
 
 
 
-“Yes, yes! he _must_ enter,” cried [[arthur|Arthur]], running round from the other
+“Yes, yes! he _must_ enter,” cried [[Arthur]], running round from the other
 
 door; and seizing my hand in both his, he shook it heartily.
 
@@ -140,7 +140,7 @@ more I shall be as tall as you nearly.”
 
 
 
-“[[arthur|Arthur]],” said his mother, “tell him to come in. Go on, [[Richard]].”
+“[[Arthur]],” said his mother, “tell him to come in. Go on, [[Richard]].”
 
 
 
@@ -156,7 +156,7 @@ and looked round me, waiting to recover my composure, if possible—or,
 
 at any rate, to remember my new-formed resolutions and the principles
 
-on which they were founded; and it was not till [[arthur|Arthur]] had been for
+on which they were founded; and it was not till [[Arthur]] had been for
 
 some [[Time|time]] gently pulling my coat, and repeating his invitations to
 
@@ -188,7 +188,7 @@ cold, but she supposed I had not travelled far that morning.
 
 
 
-“Here’s Rachel, sir,” said [[arthur|Arthur]], the only truly happy one amongst us,
+“Here’s Rachel, sir,” said [[Arthur]], the only truly happy one amongst us,
 
 directing my attention to that worthy individual, who had just entered
 
@@ -216,7 +216,7 @@ unstinted still, and unconcealed in its glossy luxuriance.
 
 “Mamma has left off her widow’s cap in [[Honour|honour]] of uncle’s [[Marriage|marriage]],”
 
-observed [[arthur|Arthur]], reading my looks with a [[Child|child]]’s mingled simplicity and
+observed [[Arthur]], reading my looks with a [[Child|child]]’s mingled simplicity and
 
 quickness of observation. Mamma looked [[Grave|grave]] and Mrs. Maxwell shook her
 
@@ -253,11 +253,3 @@ was upon me, and from one hasty, furtive glance, I thought her cheek
 was slightly flushed, and that her fingers, as she played with her
 
 watch-chain, were agitated with that restless, trembling motion which
-
-betokens high excitement.
-
-
-
-“Tell me,” said she, availing herself of the first pause in the
-
-attempted conversation between her aunt and me, and speaking fast and

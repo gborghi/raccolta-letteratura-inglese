@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 6"
+title: "Sense and Sensibility — Chapter 6"
 author: "Austen"
 unitType: chapter
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -108,7 +108,7 @@ all that was wanted of greater elegance to the apartments. “As for the
 
 but we will make ourselves tolerably comfortable for the present, as it
 
-is too late in the year for improvements. Perhaps in the [[spring]], if I
+is too late in the year for improvements. Perhaps in the [[Spring|spring]], if I
 
 have plenty of money, as I dare say I shall, we may think about
 
@@ -128,7 +128,7 @@ the stairs were handsome. But one must not expect every thing; though I
 
 suppose it would be no difficult matter to widen them. I shall see how
 
-much I am before-hand with the world in the [[spring]], and we will plan
+much I am before-hand with the world in the [[Spring|spring]], and we will plan
 
 our improvements accordingly.”
 

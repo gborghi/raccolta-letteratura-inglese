@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 33 (part 1)"
+title: "Wuthering Heights — Chapter 33 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -139,6 +139,3 @@ biting a piece of crust, the remnant of her breakfast.
 
 “And Hareton’s land, and his money,” pursued the reckless thing.
 “Hareton and I are friends now; and I shall tell him all about you!”
-
-The master seemed confounded a moment: he grew pale, and [[Rose|rose]] up,
-eyeing her all the while, with an expression of mortal hate.

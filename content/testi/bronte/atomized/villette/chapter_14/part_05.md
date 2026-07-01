@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 14 (part 5)"
+title: "Villette — Chapter 14 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,28 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_14/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_14/part_06">part 06 ›</a></div>
 </nav>
 
+
+In this exercise the afternoon passed: day began to glide into evening;
+and I, who had eaten nothing since breakfast, grew excessively hungry.
+Now I thought of the collation, which doubtless they were just then
+devouring in the [[Garden|garden]] far below. (I had seen in the vestibule a
+basketful of small _pâtés à la crême_, than which nothing in the whole
+range of cookery seemed to me better). A _pâté_, or a square of cake,
+it seemed to me would come very _àpropos;_ and as my relish for those
+dainties increased, it began to appear somewhat hard that I should pass
+my holiday, fasting and in [[Prison|prison]]. Remote as was the attic from the
+street-door and vestibule, yet the ever-tinkling bell was faintly
+audible here; and also the ceaseless roll of wheels, on the tormented
+pavement. I knew that the [[house]] and [[Garden|garden]] were thronged, and that all
+was gay and glad below; here it began to grow dusk: the beetles were
+fading from my sight; I trembled lest they should steal on me a march,
+mount my throne unseen, and, unsuspected, invade my skirts. Impatient
+and apprehensive, I recommenced the rehearsal of my part merely to kill
+[[Time|time]]. Just as I was concluding, the long-delayed rattle of the key in
+the lock came to my ear—no unwelcome sound. M. Paul (I could just see
+through the dusk that it _was_ M. Paul, for light enough still lingered
+to show the velvet blackness of his close-shorn head, and the sallow
+ivory of his brow) looked in.
 
 “Brava!” cried he, holding the door open and remaining at the
 threshold. “J’ai tout entendu. C’est assez bien. Encore!”
@@ -119,31 +141,3 @@ bashfulness, delighted indeed at the thought of shining off before
 hundreds—my entrance seemed to transfix her with amazement in the midst
 of her joy. She would have exclaimed, but M. Paul held her and all the
 rest in check.
-
-Having surveyed and criticized the whole troop, he turned to me.
-
-“You, too, must be dressed for your part.”
-
-“Dressed—dressed like a man!” exclaimed Zélie St. Pierre, darting
-forwards; adding with officiousness, “I will dress her myself.”
-
-To be dressed like a man did not please, and would not suit me. I had
-consented to take a man’s name and part; as to his dress—_halte là!_
-No. I would keep my own dress, come what might. M. Paul might [[Storm|storm]],
-might rage: I would keep my own dress. I said so, with a voice as
-resolute in intent, as it was low, and perhaps unsteady in utterance.
-
-He did not immediately [[Storm|storm]] or rage, as I fully thought he would he
-stood silent. But Zélie again interposed.
-
-“She will make a capital _petit-mâitre_. Here are the garments, all—all
-complete: somewhat too large, but—I will arrange all that. Come, chère
-amie—belle Anglaise!”
-
-And she sneered, for I was not “belle.” She seized my hand, she was
-drawing me away. M. Paul stood impassable—neutral.
-
-“You must not resist,” pursued St. Pierre—for resist I did. “You will
-spoil all, destroy the mirth of the piece, the enjoyment of the
-company, sacrifice everything to your _amour-propre_. This would be too
-bad—monsieur will never permit this?”

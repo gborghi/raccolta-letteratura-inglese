@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 62: A LIGHT SHINES ON MY WAY (part 3)"
+title: "David Copperfield — Chapter 62: A LIGHT SHINES ON MY WAY (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_62_a_light_shines_on_my_way/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_63_a_visitor/part_01">part 01 ›</a></div>
 </nav>
 
+
+Still weeping, but not sadly--joyfully! And clasped in my arms as she
+had never been, as I had thought she never was to be!
+
+‘When I loved Dora--fondly, Agnes, as you know--’
+
+‘Yes!’ she cried, earnestly. ‘I am glad to know it!’
+
+‘When I loved her--even then, my [[Love|love]] would have been incomplete,
+without your sympathy. I had it, and it was perfected. And when I lost
+her, Agnes, what should I have been without you, still!’
 
 Closer in my arms, nearer to my heart, her trembling hand upon my
 shoulder, her sweet eyes shining through her [[Tears|tears]], on mine!

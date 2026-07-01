@@ -16,9 +16,7 @@ tags:
 
 Chapter VII
 
-
 THE THREE ORDERS
-
 
 There is undoubtedly a sense in which two is company and three is none;
 there is also another sense in which three is company and four

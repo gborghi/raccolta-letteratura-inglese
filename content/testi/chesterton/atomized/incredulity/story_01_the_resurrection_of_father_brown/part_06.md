@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity]] — The [[Resurrection]] of [[Father Brown]] (part 6)"
+title: "Incredulity — The Resurrection of Father Brown (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-(chesterton)"

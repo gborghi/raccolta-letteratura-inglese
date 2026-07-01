@@ -253,14 +253,14 @@ The word "omnibus" is a very noble word with a very noble meaning
 and even tradition.  It is derived from an ancient and adamantine
 tongue which has rolled it with very authoritative thunders:
 quod ubique, quod semper, quod ab omnibus.  It is a word
-really more human and universal than republic or [[Democracy|democracy]].
+really more human and universal than republic or [[democracy]].
 A man might very consistently build a temple for all the tribes
 of men, a temple of the largest pattern and the loveliest design,
 and then call it an omnibus.  It is true that the dignity of this
 description has really been somewhat diminished by the illogical habit
 of clipping the word down to the last and least important part of it.
 But that is only one of many modern examples in which real vulgarity
-is not in [[Democracy|democracy]], but rather in the loss of [[Democracy|democracy]].
+is not in [[democracy]], but rather in the loss of [[democracy]].
 It is about as democratic to call an omnibus a bus as it would
 be to call a democrat a rat.
 
@@ -354,7 +354,7 @@ Those articles which expose and explode Spiritualism are
 certainly calculated to make converts to that [[Novel|novel]] creed;
 but fortunately the balance is redressed by the articles
 which defend and expound Spiritualism, which will probably
-make any thoughtful [[convert]] hastily recant his [[Conversion|conversion]].
+make any thoughtful [[convert]] hastily recant his [[conversion]].
 I believe myself that nothing but advantage can accrue
 to Spiritualism from all criticisms founded on Materialism.
 I think there is a mystical minimum in human [[history]] and experience,
@@ -586,7 +586,7 @@ three temporary, we might say desperate, compromises of his own day.
 He grasped at Evolution, not because it was definite, but because it
 was indefinite; not because it was daring, but because it was safe.
 It gave him the [[Hope|hope]] that man might one day be an angel, and England
-a free [[Democracy|democracy]]; but it soothed him with the assurance that neither
+a free [[democracy]]; but it soothed him with the assurance that neither
 of these alarming things would happen just yet.  Virgil used his verbal
 felicities to describe the eternal idea of the Roman Imperium.
 Tennyson used his verbal felicities for the accidental equilibrium
@@ -676,11 +676,11 @@ him methodical.  He was as incapable of the conspiracy which carried
 off General Monk in a box as Dumas was incapable of the curse
 of Meg Merrilies or the benediction of Di Vernon.  But there is
 eternally present in the Frenchman something which may truly be called
-presence of mind.  There to be an [[Artist|artist]] is not to be absent-minded,
+presence of mind.  There to be an [[artist]] is not to be absent-minded,
 however harmless or happy the holidays of the mind may be.
 Art is to have the intellect and all its instruments on the spot
 and ready to go to the point; as when, but a little while ago,
-a great [[Artist|artist]] stood by the banks of the Marne and saved the world
+a great [[artist]] stood by the banks of the Marne and saved the world
 with one gesture of living [[logic]]--the [[Sword|sword]]-thrust of the Latin.
 
 But though the strategy of the French story is allied to the strategy by
@@ -1203,7 +1203,7 @@ at the end of every street and ballot-boxes rattled over all Asia.
 But, alas! they heard of Spain.  They heard that in Spain the trials
 of rebels in arms had occasionally been conducted in secret;
 and this was enough to destroy the long and famous tradition of free
-[[Democracy|democracy]] in the Far East.
+[[democracy]] in the Far East.
 
 Now I do think that, compared with this amazing bosh, Gilbert'sMikado,
 with his punishment "lingering, with boiling oil in it,"
@@ -1212,7 +1212,7 @@ Eastern despotism has many advantages; and I do not [[Doubt|doubt]]
 that many of its decisions were not "lingering," but as rough
 and rapid as they were just.  But to what mental state
 have people come if they cannot see that Europe has been,
-upon the whole, the [[Home|home]] of [[Democracy|democracy]], and Asia, upon the whole,
+upon the whole, the [[Home|home]] of [[democracy]], and Asia, upon the whole,
 the [[Home|home]] of despotism?  Really, Japan is not so barren
 of resource as this writer supposes.  The Far East really has
 no need to go to [[Russia]] for autocracy, or to Spain for torture.
@@ -1745,7 +1745,7 @@ colossal Hampshire hogs to keep watch over so national a spot.
 Perhaps some of our sculptors will attack the conception;
 perhaps the lady's pig, which weighs forty stone and seems to be
 something of a domestic problem, might begin to earn its living
-as an [[Artist|artist]]'s model.
+as an [[artist]]'s model.
 
 Again, we do not know what fascinating variations might happen
 in the pig if once the pig were a pet.  The dog has been
@@ -2889,7 +2889,7 @@ that they are problematical.
 The writer asks the substantial question squarely enough:
 "Is indissoluble [[Marriage|marriage]] good for mankind?" and she answers
 it squarely enough:  "For the great mass of mankind, yes."
-To those like myself, who move in the old-world dream of [[Democracy]],
+To those like myself, who move in the old-world dream of [[democracy|Democracy]],
 that admission ends the whole question.  There may be exceptional
 people who would be happier without Civil [[government|Government]];
 sensitive souls who really feel unwell when they see a policeman.
@@ -2942,7 +2942,7 @@ sure she is George Eliot.  It is the small [[Soul|soul]] that is sure it
 is an exception; the large [[Soul|soul]] is only too proud to be the rule.
 To advertise for exceptional people is to collect all
 the sulks and sick fancies and futile ambitions of the earth.
-The good [[Artist|artist]] is he who can be understood; it is the bad [[Artist|artist]]
+The good [[artist]] is he who can be understood; it is the bad [[artist]]
 who is always "misunderstood." In short, the great man is a man;
 it is always the tenth-rate man who is the Superman.
 
@@ -3546,7 +3546,7 @@ but seen it, which is not always the same thing.  If he had seen
 what there is to be seen, he might possibly have done many things.
 He might, for instance, have revived the Trade Guilds of Glasgow,
 which failed to grasp his discovery; he might have taught them
-to take hold of the new energy and turn it towards [[Democracy|democracy]],
+to take hold of the new energy and turn it towards [[democracy]],
 instead of going off and handing over his invention to the Capitalists.
 For the defect which betrayed all Watt's school and generation,
 full as it was of a virile and thrifty Radicalism, was precisely that it
@@ -3569,7 +3569,7 @@ War Tyler would simply be automatically shot into [[Prison|prison]] for resistin
 a rational and necessary scientific inspection.  It was the growth
 of an unhuman and unhomelike [[philosophy]] that made all the difference
 between the War of the fourteenth century and the Watt of the nineteenth.
-And the spirit of real [[Democracy|democracy]] will not re-emerge until it rises
+And the spirit of real [[democracy]] will not re-emerge until it rises
 from the fireside and comes forth in the red reality of [[Fire|fire]];
 the giant of Christmas brandishing the Yule log tor a club.
 
@@ -3779,7 +3779,7 @@ the coach amid repeated applause and enthusiastic encores.
 as of Sam's hyperbolical old gentleman who was tipped into
 the hyperbolical canal, that "'is 'at was found, but I can't be
 certain 'is 'ead was in it."  It seems to me like a euthanasia:
-more beautiful than the passing of [[arthur|Arthur]].
+more beautiful than the passing of [[Arthur]].
 
 But though the failure of this particular festivity was merely accidental
 (like my own unfortunate fall off the coach), it is not without
@@ -3921,7 +3921,7 @@ and such papers we never see anything but pictures of a Welshwoman--
 as if there were no males in that peculiar country with the rocks.
 Even the woman is only marked as Welsh by wearing an extraordinary
 costume, rather like that of Cinderella's [[Supernatural|supernatural]] godmother.
-Without the [[Artist|artist]] suggesting any costume at all, one would recognize
+Without the [[artist]] suggesting any costume at all, one would recognize
 the very silly portraits of Irishmen with long upper lips, in the style
 of apes.  Without any plaid trousers to assist the mind, one could spot
 the stiff beards and rocky cheek-bones of the Scotchmen of Charles Keene.
@@ -4394,7 +4394,7 @@ if there were not laid upon us like a load of memories,
 and almost like a living chain, the [[Love|love]] of England.
 
 For England, alas! has made to-day the worst possible
-compromise between aristocracy and [[Democracy|democracy]].
+compromise between aristocracy and [[democracy]].
 It has kept the aristocracy and lost the aristocrats.
 The country is still as much ruled by squires, but not so much
 by country gentlemen; and the [[Reform|reform]] of the [[house|House]] of Lords seems

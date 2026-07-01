@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 11 (part 1)"
+title: "Northanger Abbey — Chapter 11 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -259,19 +259,3 @@ see.”
 
 
 “But now really—are there towers and long galleries?”
-
-
-
-“By dozens.”
-
-
-
-“Then I should like to see it; but I cannot—I cannot go.”
-
-
-
-“Not go! my beloved creature, what do you mean?”
-
-
-
-“I cannot go, because”—looking down as she spoke, fearful of [[Isabella]]’s

@@ -71,7 +71,7 @@ as to be rejected.  It is not easy to define this quality of
 something primitive, something not mature enough to be fruitful.
 Indeed there is a hard simplicity about many Eastern things that is
 as much crude as archaic.  A palm-tree is very like a tree drawn
-by a [[Child|child]]--or by a very futurist [[artist]].  Even a pyramid is like
+by a [[Child|child]]--or by a very futurist [[Artist|artist]].  Even a pyramid is like
 a mathematical figure drawn by a schoolmaster teaching children;
 and its very impressiveness is that of an ultimate Platonic abstraction.
 There is something curiously simple about the shape in which

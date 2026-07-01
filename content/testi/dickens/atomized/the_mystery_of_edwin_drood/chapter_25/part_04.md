@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 23 (part 4)"
+title: "The Mystery of Edwin Drood — Chapter 23 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -13,6 +13,30 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_25/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_25/part_05">part 05 ›</a></div>
 </nav>
 
+
+He repairs to the back of Aldersgate Street, where a door immediately
+opens to his knocking. She crouches in another doorway, watching that
+one, and easily comprehending that he puts up temporarily at that
+[[house]]. Her patience is unexhausted by hours. For sustenance she can,
+and does, buy bread within a hundred yards, and milk as it is carried
+past her.
+
+He comes forth again at [[Noon|noon]], having changed his dress, but carrying
+nothing in his hand, and having nothing carried for him. He is not
+going back into the country, therefore, just yet. She follows him a
+little way, hesitates, instantaneously turns confidently, and goes
+straight into the [[house]] he has quitted.
+
+“Is the gentleman from Cloisterham indoors?
+
+“Just gone out.”
+
+“Unlucky. When does the gentleman return to Cloisterham?”
+
+“At six this evening.”
+
+“Bless ye and thank ye. May the Lord prosper a business where a civil
+question, even from a poor [[Soul|soul]], is so civilly answered!”
 
 “I’ll not miss ye twice!” repeats the poor [[Soul|soul]] in the street, and not
 so civilly. “I lost ye last, where that omnibus you got into nigh your
@@ -139,28 +163,3 @@ and as I deal in. I told the young gentleman so, and he gave it me, and
 I laid it out honest to the last brass farden. I want to lay out the
 same sum in the same way now; and if you’ll give it me, I’ll lay it out
 honest to the last brass farden again, upon my [[Soul|soul]]!”
-
-“What’s the medicine?”
-
-“I’ll be honest with you beforehand, as [[Well|well]] as after. It’s opium.”
-
-Mr. Datchery, with a sudden change of countenance, gives her a sudden
-look.
-
-“It’s opium, deary. Neither more nor less. And it’s like a human
-creetur so far, that you always hear what can be said against it, but
-seldom what can be said in its praise.”
-
-Mr. Datchery begins very slowly to count out the sum demanded of him.
-Greedily watching his hands, she continues to hold forth on the great
-example set him.
-
-“It was last Christmas Eve, just arter dark, the once that I was here
-afore, when the young gentleman gave me the three-and-six.” Mr.
-Datchery stops in his counting, finds he has counted wrong, shakes his
-money together, and begins again.
-
-“And the young gentleman’s name,” she adds, “was Edwin.”
-
-Mr. Datchery drops some money, stoops to pick it up, and reddens with
-the exertion as he asks:

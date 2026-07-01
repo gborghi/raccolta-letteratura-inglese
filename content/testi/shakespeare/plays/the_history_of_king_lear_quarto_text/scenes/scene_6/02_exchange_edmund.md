@@ -1,5 +1,5 @@
 ---
-title: "The [[history|History]] of [[King Lear]] (Quarto Text) — Scene 6 — exchange ([[Edmund|EDMUND]]) [2]"
+title: "The History of King Lear (Quarto Text) — Scene 6 — exchange (EDMUND) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-history-of-king-lear---the-quarto-text-(shakespeare)"

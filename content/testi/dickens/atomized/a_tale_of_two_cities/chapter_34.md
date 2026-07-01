@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities — Chapter 2"
+title: "A Tale of Two Cities — Chapter 4"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/a-tale-of-two-cities-(dickens)"
@@ -14,260 +14,194 @@ tags:
 </nav>
 
 
-CHAPTER II.
-The Grindstone
+CHAPTER IV.
+Calm in [[Storm]]
 
 
-Tellson’s Bank, established in the Saint Germain Quarter of [[Paris]], was
-in a wing of a large [[house]], approached by a courtyard and shut off from
-the street by a high wall and a strong gate. The [[house]] belonged to
-a great nobleman who had lived in it until he made a flight from the
-troubles, in his own cook’s dress, and got across the borders. A
-mere beast of the chase flying from hunters, he was still in his
-metempsychosis no other than the same Monseigneur, the preparation
-of whose chocolate for whose lips had once occupied three strong men
-besides the cook in question.
+[[Doctor Manette]] did not return until the morning of the fourth day of his
+absence. So much of what had happened in that dreadful [[Time|time]] as could be
+kept from the knowledge of Lucie was so [[Well|well]] concealed from her, that
+not until long afterwards, when France and she were far apart, did she
+know that eleven hundred defenceless prisoners of both sexes and all
+ages had been killed by the populace; that four days and nights had been
+darkened by this deed of horror; and that the air around her had been
+tainted by the slain. She only knew that there had been an attack upon
+the prisons, that all political prisoners had been in danger, and that
+some had been dragged out by the crowd and murdered.
 
-Monseigneur gone, and the three strong men absolving themselves from the
-sin of having drawn his high wages, by being more than ready and
-willing to cut his throat on the altar of the dawning Republic one and
-indivisible of Liberty, Equality, Fraternity, or [[Death]], Monseigneur’s
-[[house]] had been first sequestrated, and then confiscated. For, all
-things moved so fast, and decree followed decree with that fierce
-precipitation, that now upon the third [[Night|night]] of the [[Autumn|autumn]] month
-of September, patriot emissaries of the law were in possession of
-Monseigneur’s [[house]], and had marked it with the tri-colour, and were
-drinking brandy in its state apartments.
+To Mr. Lorry, the Doctor communicated under an injunction of secrecy on
+which he had no need to dwell, that the crowd had taken him through a
+scene of carnage to the [[Prison|prison]] of La Force. That, in the [[Prison|prison]] he had
+found a [[Self|self]]-appointed Tribunal sitting, before which the prisoners were
+brought singly, and by which they were rapidly ordered to be put forth
+to be massacred, or to be released, or (in a few cases) to be sent back
+to their cells. That, presented by his conductors to this Tribunal, he
+had announced himself by name and profession as having been for eighteen
+years a secret and unaccused prisoner in the Bastille; that, one of the
+[[Body|body]] so sitting in judgment had risen and identified him, and that this
+man was Defarge.
 
-A place of business in [[London]] like Tellson’s place of business in [[Paris]],
-would soon have driven the [[house|House]] out of its mind and into the Gazette.
-For, what would staid British responsibility and respectability have
-said to orange-trees in boxes in a Bank courtyard, and even to a Cupid
-over the counter? Yet such things were. Tellson’s had whitewashed the
-Cupid, but he was still to be seen on the ceiling, in the coolest
-linen, aiming (as he very often does) at money from morning to
-[[Night|night]]. Bankruptcy must inevitably have come of this young Pagan, in
-Lombard-street, [[London]], and also of a curtained alcove in the rear of
-the immortal boy, and also of a looking-glass let into the wall, and
-also of clerks not at all old, who danced in public on the slightest
-provocation. Yet, a French Tellson’s could get on with these things
-exceedingly [[Well|well]], and, as long as the times held together, no man had
-taken fright at them, and drawn out his money.
+That, hereupon he had ascertained, through the registers on the table,
+that his son-in-law was among the living prisoners, and had pleaded hard
+to the Tribunal--of whom some members were asleep and some awake, some
+dirty with murder and some clean, some sober and some not--for his life
+and liberty. That, in the first frantic greetings lavished on himself as
+a notable sufferer under the overthrown system, it had been accorded
+to him to have [[Charles Darnay]] brought before the lawless [[Court]], and
+examined. That, he seemed on the point of being at once released, when
+the tide in his favour met with some unexplained check (not intelligible
+to the Doctor), which led to a few words of secret conference. That,
+the man sitting as President had then informed [[Doctor Manette]] that
+the prisoner must remain in custody, but should, for his sake, be held
+inviolate in safe custody. That, immediately, on a signal, the prisoner
+was removed to the interior of the [[Prison|prison]] again; but, that he, the
+Doctor, had then so strongly pleaded for permission to remain and
+assure himself that his son-in-law was, through no malice or mischance,
+delivered to the concourse whose murderous yells outside the gate had
+often drowned the proceedings, that he had obtained the permission, and
+had remained in that Hall of [[Blood]] until the danger was over.
 
-What money would be drawn out of Tellson’s henceforth, and what would
-lie there, lost and forgotten; what plate and jewels would tarnish in
-Tellson’s hiding-places, while the depositors rusted in prisons,
-and when they should have violently perished; how many accounts with
-Tellson’s never to be balanced in this world, must be carried over into
-the next; no man could have said, that [[Night|night]], any more than Mr. Jarvis
-Lorry could, though he thought heavily of these questions. He sat by
-a newly-lighted wood [[Fire|fire]] (the blighted and unfruitful year was
-prematurely cold), and on his honest and courageous face there was a
-deeper shade than the pendent lamp could throw, or any object in the
-room distortedly reflect--a shade of horror.
+The sights he had seen there, with brief snatches of food and [[Sleep|sleep]] by
+intervals, shall remain untold. The mad joy over the prisoners who were
+saved, had astounded him scarcely less than the mad ferocity against
+those who were cut to pieces. One prisoner there was, he said, who had
+been discharged into the street free, but at whom a mistaken savage had
+thrust a pike as he passed out. Being besought to go to him and dress
+the wound, the Doctor had passed out at the same gate, and had found him
+in the arms of a company of Samaritans, who were seated on the bodies
+of their victims. With an inconsistency as monstrous as anything in this
+awful [[nightmare]], they had helped the healer, and tended the wounded man
+with the gentlest solicitude--had made a litter for him and escorted him
+carefully from the spot--had then caught up their weapons and plunged
+anew into a butchery so dreadful, that the Doctor had covered his eyes
+with his hands, and swooned away in the midst of it.
 
-He occupied rooms in the Bank, in his fidelity to the [[house|House]] of which
-he had grown to be a part, like strong root-ivy. It chanced that they
-derived a kind of security from the patriotic occupation of the main
-building, but the true-hearted old gentleman never calculated about
-that. All such circumstances were indifferent to him, so that he did
-his duty. On the opposite side of the courtyard, under a colonnade,
-was extensive standing--for carriages--where, indeed, some carriages
-of Monseigneur yet stood. Against two of the pillars were fastened two
-great flaring flambeaux, and in the light of these, standing out in the
-open air, was a large grindstone: a roughly mounted thing which appeared
-to have hurriedly been brought there from some neighbouring smithy,
-or other workshop. Rising and looking out of [[Window|window]] at these harmless
-objects, Mr. Lorry shivered, and retired to his seat by the [[Fire|fire]]. He had
-opened, not only the glass [[Window|window]], but the lattice blind outside it, and
-he had closed both again, and he shivered through his frame.
+As Mr. Lorry received these confidences, and as he watched the face of
+his friend now sixty-two years of age, a misgiving arose within him that
+such dread experiences would revive the old danger.
 
-From the streets beyond the high wall and the strong gate, there came
-the usual [[Night|night]] hum of the [[City|city]], with now and then an indescribable ring
-in it, weird and unearthly, as if some unwonted sounds of a terrible
-[[Nature|nature]] were going up to Heaven.
+But, he had never seen his friend in his present aspect: he had never
+at all known him in his present character. For the first [[Time|time]] the Doctor
+felt, now, that his [[Suffering|suffering]] was strength and power. For the first [[Time|time]]
+he felt that in that sharp [[Fire|fire]], he had slowly forged the iron which
+could break the [[Prison|prison]] door of his daughter’s husband, and deliver him.
+“It all tended to a good end, my friend; it was not mere waste and ruin.
+As my beloved [[Child|child]] was helpful in restoring me to myself, I will be
+helpful now in restoring the dearest part of herself to her; by the aid
+of Heaven I will do it!” Thus, [[Doctor Manette]]. And when [[Jarvis Lorry]] saw
+the kindled eyes, the resolute face, the calm strong look and bearing
+of the man whose life always seemed to him to have been stopped, like a
+[[Clock|clock]], for so many years, and then set going again with an energy which
+had lain dormant during the cessation of its usefulness, he believed.
 
-“Thank God,” said Mr. Lorry, clasping his hands, “that no one near and
-dear to me is in this dreadful town to-[[Night|night]]. May He have [[Mercy|mercy]] on all
-who are in danger!”
+Greater things than the Doctor had at that [[Time|time]] to contend with, would
+have yielded before his persevering purpose. While he kept himself
+in his place, as a physician, whose business was with all degrees
+of mankind, bond and free, rich and poor, bad and good, he used his
+personal influence so wisely, that he was soon the inspecting physician
+of three prisons, and among them of La Force. He could now assure Lucie
+that her husband was no longer confined [[Alone|alone]], but was mixed with the
+general [[Body|body]] of prisoners; he saw her husband weekly, and brought sweet
+messages to her, straight from his lips; sometimes her husband himself
+sent a letter to her (though never by the Doctor’s hand), but she was
+not permitted to write to him: for, among the many wild suspicions of
+plots in the prisons, the wildest of all pointed at emigrants who were
+known to have made friends or permanent connections abroad.
 
-Soon afterwards, the bell at the great gate sounded, and he thought,
-“They have come back!” and sat listening. But, there was no loud
-irruption into the courtyard, as he had expected, and he heard the gate
-clash again, and all was quiet.
+This new life of the Doctor’s was an anxious life, no [[Doubt|doubt]]; still, the
+sagacious Mr. Lorry saw that there was a new sustaining [[Pride|pride]] in it.
+Nothing unbecoming tinged the [[Pride|pride]]; it was a natural and worthy one;
+but he observed it as a curiosity. The Doctor knew, that up to that
+[[Time|time]], his [[Imprisonment|imprisonment]] had been associated in the minds of his daughter
+and his friend, with his personal affliction, deprivation, and weakness.
+Now that this was changed, and he knew himself to be invested through
+that old trial with forces to which they both looked for Charles’s
+ultimate safety and deliverance, he became so far exalted by the change,
+that he took the lead and direction, and required them as the weak, to
+trust to him as the strong. The preceding relative positions of himself
+and Lucie were reversed, yet only as the liveliest gratitude and
+affection could reverse them, for he could have had no [[Pride|pride]] but in
+rendering some service to her who had rendered so much to him. “All
+curious to see,” thought Mr. Lorry, in his amiably shrewd way, “but all
+natural and right; so, take the lead, my dear friend, and keep it; it
+couldn’t be in better hands.”
 
-The nervousness and dread that were upon him inspired that vague
-uneasiness respecting the Bank, which a great change would naturally
-awaken, with such feelings roused. It was [[Well|well]] guarded, and he got up to
-go among the trusty people who were watching it, when his door suddenly
-opened, and two figures rushed in, at sight of which he fell back in
-amazement.
+But, though the Doctor tried hard, and never ceased trying, to get
+[[Charles Darnay]] set at liberty, or at least to get him brought to trial,
+the public current of the [[Time|time]] set too strong and fast for him. The new
+era began; the [[King|king]] was tried, doomed, and beheaded; the Republic of
+Liberty, Equality, Fraternity, or [[Death]], declared for victory or [[Death|death]]
+against the world in arms; the black [[Flag|flag]] waved [[Night|night]] and day from the
+great towers of Notre Dame; three hundred thousand men, summoned to rise
+against the tyrants of the earth, [[Rose|rose]] from all the varying soils
+of France, as if the dragon’s teeth had been sown broadcast, and
+had yielded fruit equally on [[Hill|hill]] and plain, on rock, in gravel, and
+alluvial mud, under the bright sky of the South and under the clouds of
+the North, in fell and forest, in the vineyards and the olive-grounds
+and among the cropped grass and the stubble of the corn, along the
+fruitful banks of the broad rivers, and in the sand of the sea-shore.
+What private solicitude could rear itself against the [[deluge]] of the Year
+One of Liberty--the [[deluge]] rising from below, not falling from above,
+and with the windows of Heaven shut, not opened!
 
-Lucie and her father! Lucie with her arms stretched out to him, and with
-that old look of earnestness so concentrated and intensified, that it
-seemed as though it had been stamped upon her face expressly to give
-force and power to it in this one passage of her life.
+There was no pause, no pity, no peace, no interval of relenting rest, no
+measurement of [[Time|time]]. Though days and nights circled as regularly as when
+[[Time|time]] was young, and the evening and morning were the first day, other
+count of [[Time|time]] there was none. Hold of it was lost in the raging fever
+of a nation, as it is in the fever of one patient. Now, breaking the
+unnatural [[Silence|silence]] of a whole [[City|city]], the executioner showed the people the
+head of the [[King|king]]--and now, it seemed almost in the same breath, the
+head of his fair wife which had had eight weary months of imprisoned
+widowhood and misery, to turn it grey.
 
-“What is this?” cried Mr. Lorry, breathless and confused. “What is the
-matter? Lucie! Manette! What has happened? What has brought you here?
-What is it?”
+And yet, observing the strange law of contradiction which obtains in
+all such cases, the [[Time|time]] was long, while it flamed by so fast. A
+revolutionary tribunal in the capital, and forty or fifty thousand
+revolutionary committees all over the land; a law of the Suspected,
+which struck away all security for liberty or life, and delivered over
+any good and [[Innocent|innocent]] person to any bad and guilty one; prisons gorged
+with people who had committed no offence, and could obtain no hearing;
+these things became the established order and [[Nature|nature]] of appointed
+things, and seemed to be ancient usage before they were many weeks old.
+Above all, one hideous figure grew as familiar as if it had been before
+the general gaze from the foundations of the world--the figure of the
+sharp female called La Guillotine.
 
-With the look fixed upon him, in her paleness and wildness, she panted
-out in his arms, imploringly, “O my dear friend! My husband!”
+It was the popular theme for jests; it was the best cure for headache,
+it infallibly prevented the hair from turning grey, it imparted a
+peculiar delicacy to the complexion, it was the National Razor which
+shaved close: who kissed La Guillotine, looked through the little [[Window|window]]
+and sneezed into the sack. It was the sign of the [[Regeneration|regeneration]] of the
+human race. It superseded the [[Cross]]. Models of it were worn on breasts
+from which the [[Cross]] was discarded, and it was bowed down to and
+believed in where the [[Cross]] was denied.
 
-“Your husband, Lucie?”
+It sheared off heads so many, that it, and the ground it most polluted,
+were a rotten red. It was taken to pieces, like a toy-puzzle for a young
+Devil, and was put together again when the occasion wanted it. It hushed
+the eloquent, struck down the powerful, abolished the beautiful and
+good. Twenty-two friends of high public mark, twenty-one living and one
+dead, it had lopped the heads off, in one morning, in as many minutes.
+The name of the strong man of Old Scripture had descended to the chief
+functionary who worked it; but, so armed, he was stronger than his
+namesake, and blinder, and tore away the gates of God’s own Temple every
+day.
 
-“Charles.”
-
-“What of Charles?”
-
-“Here.
-
-“Here, in [[Paris]]?”
-
-“Has been here some days--three or four--I don’t know how many--I can’t
-collect my thoughts. An errand of generosity brought him here unknown to
-us; he was stopped at the barrier, and sent to [[Prison|prison]].”
-
-The old man uttered an irrepressible cry. Almost at the same moment, the
-bell of the great gate rang again, and a loud noise of feet and voices
-came pouring into the courtyard.
-
-“What is that noise?” said the Doctor, turning towards the [[Window|window]].
-
-“Don’t look!” cried Mr. Lorry. “Don’t look out! Manette, for your life,
-don’t touch the blind!”
-
-The Doctor turned, with his hand upon the fastening of the [[Window|window]], and
-said, with a cool, bold smile:
-
-“My dear friend, I have a charmed life in this [[City|city]]. I have been
-a Bastille prisoner. There is no patriot in [[Paris]]--in [[Paris]]? In
-France--who, knowing me to have been a prisoner in the Bastille, would
-touch me, except to overwhelm me with embraces, or carry me in triumph.
-My old [[Pain|pain]] has given me a power that has brought us through the
-barrier, and gained us news of Charles there, and brought us here. I
-knew it would be so; I knew I could help Charles out of all danger; I
-told Lucie so.--What is that noise?” His hand was again upon the [[Window|window]].
-
-“Don’t look!” cried Mr. Lorry, absolutely desperate. “No, Lucie, my
-dear, nor you!” He got his arm round her, and held her. “Don’t be so
-terrified, my [[Love|love]]. I solemnly swear to you that I know of no harm
-having happened to Charles; that I had no suspicion even of his being in
-this fatal place. What [[Prison|prison]] is he in?”
-
-“La Force!”
-
-“La Force! Lucie, my [[Child|child]], if ever you were brave and serviceable in
-your life--and you were always both--you will compose yourself now, to
-do exactly as I bid you; for more depends upon it than you can think, or
-I can say. There is no help for you in any action on your part to-[[Night|night]];
-you cannot possibly stir out. I say this, because what I must bid you
-to do for Charles’s sake, is the hardest thing to do of all. You must
-instantly be obedient, still, and quiet. You must let me put you in a
-room at the back here. You must leave your father and me [[Alone|alone]] for
-two minutes, and as there are Life and [[Death]] in the world you must not
-delay.”
-
-“I will be submissive to you. I see in your face that you know I can do
-nothing else than this. I know you are true.”
-
-The old man kissed her, and hurried her into his room, and turned the
-key; then, came hurrying back to the Doctor, and opened the [[Window|window]] and
-partly opened the blind, and put his hand upon the Doctor’s arm, and
-looked out with him into the courtyard.
-
-Looked out upon a throng of men and women: not enough in number, or near
-enough, to fill the courtyard: not more than forty or fifty in all. The
-people in possession of the [[house]] had let them in at the gate, and they
-had rushed in to work at the grindstone; it had evidently been set up
-there for their purpose, as in a convenient and retired spot.
-
-But, such awful workers, and such awful work!
-
-The grindstone had a [[Double|double]] handle, and, turning at it madly were two
-men, whose faces, as their long hair flapped back when the whirlings of
-the grindstone brought their faces up, were more horrible and cruel than
-the visages of the wildest savages in their most barbarous disguise.
-False eyebrows and false moustaches were stuck upon them, and their
-hideous countenances were all bloody and sweaty, and all awry with
-howling, and all staring and glaring with beastly excitement and want of
-[[Sleep|sleep]]. As these ruffians turned and turned, their matted locks now flung
-forward over their eyes, now flung backward over their necks, some women
-held wine to their mouths that they might drink; and what with dropping
-[[Blood|blood]], and what with dropping wine, and what with the stream of sparks
-struck out of the stone, all their wicked atmosphere seemed gore and
-[[Fire|fire]]. The eye could not detect one creature in the group free from
-the smear of [[Blood|blood]]. Shouldering one another to get next at the
-sharpening-stone, were men stripped to the waist, with the stain all
-over their limbs and bodies; men in all sorts of rags, with the stain
-upon those rags; men devilishly set off with spoils of women’s lace
-and silk and ribbon, with the stain dyeing those trifles through
-and through. Hatchets, knives, bayonets, swords, all brought to be
-sharpened, were all red with it. Some of the hacked swords were tied to
-the wrists of those who carried them, with strips of linen and fragments
-of dress: ligatures various in kind, but all deep of the one colour. And
-as the frantic wielders of these weapons snatched them from the stream
-of sparks and tore away into the streets, the same red hue was red in
-their frenzied eyes;--eyes which any unbrutalised beholder would have
-given twenty years of life, to petrify with a [[Well|well]]-directed gun.
-
-All this was seen in a moment, as the vision of a drowning man, or of
-any human creature at any very great pass, could see a world if it
-were there. They drew back from the [[Window|window]], and the Doctor looked for
-explanation in his friend’s ashy face.
-
-“They are,” Mr. Lorry whispered the words, glancing fearfully round at
-the locked room, “murdering the prisoners. If you are sure of what you
-say; if you really have the power you think you have--as I believe you
-have--make yourself known to these devils, and get taken to La Force. It
-may be too late, I don’t know, but let it not be a minute later!”
-
-[[Doctor Manette]] pressed his hand, hastened bareheaded out of the room,
-and was in the courtyard when Mr. Lorry regained the blind.
-
-His streaming white hair, his remarkable face, and the impetuous
-confidence of his manner, as he put the weapons aside like [[Water|water]],
-carried him in an instant to the heart of the concourse at the stone.
-For a few moments there was a pause, and a hurry, and a murmur, and
-the unintelligible sound of his voice; and then Mr. Lorry saw him,
-surrounded by all, and in the midst of a line of twenty men long, all
-linked shoulder to shoulder, and hand to shoulder, hurried out with
-cries of--“Live the Bastille prisoner! Help for the Bastille prisoner’s
-kindred in La Force! Room for the Bastille prisoner in front there! Save
-the prisoner Evrémonde at La Force!” and a thousand answering shouts.
-
-He closed the lattice again with a fluttering heart, closed the [[Window|window]]
-and the curtain, hastened to Lucie, and told her that her father was
-assisted by the people, and gone in search of her husband. He found
-her [[Child|child]] and [[Miss Pross]] with her; but, it never occurred to him to be
-surprised by their appearance until a long [[Time|time]] afterwards, when he sat
-watching them in such quiet as the [[Night|night]] knew.
-
-Lucie had, by that [[Time|time]], fallen into a stupor on the floor at his feet,
-clinging to his hand. [[Miss Pross]] had laid the [[Child|child]] down on his own
-bed, and her head had gradually fallen on the pillow beside her pretty
-charge. O the long, long [[Night|night]], with the moans of the poor wife! And O
-the long, long [[Night|night]], with no return of her father and no tidings!
-
-Twice more in the darkness the bell at the great gate sounded, and the
-irruption was repeated, and the grindstone whirled and spluttered.
-“What is it?” cried Lucie, affrighted. “Hush! The soldiers’ swords are
-sharpened there,” said Mr. Lorry. “The place is national property now,
-and used as a kind of armoury, my [[Love|love]].”
-
-Twice more in all; but, the last spell of work was feeble and fitful.
-Soon afterwards the day began to [[Dawn|dawn]], and he softly detached himself
-from the clasping hand, and cautiously looked out again. A man, so
-besmeared that he might have been a sorely wounded soldier creeping back
-to consciousness on a field of slain, was rising from the pavement by
-the side of the grindstone, and looking about him with a vacant air.
-Shortly, this worn-out murderer descried in the imperfect light one of
-the carriages of Monseigneur, and, staggering to that gorgeous vehicle,
-climbed in at the door, and shut himself up to take his rest on its
-dainty cushions.
-
-The great grindstone, Earth, had turned when Mr. Lorry looked out again,
-and the sun was red on the courtyard. But, the lesser grindstone stood
-[[Alone|alone]] there in the calm morning air, with a red upon it that the sun had
-never given, and would never take away.
+Among these terrors, and the brood belonging to them, the Doctor walked
+with a steady head: confident in his power, cautiously persistent in his
+end, never doubting that he would save Lucie’s husband at last. Yet the
+current of the [[Time|time]] swept by, so strong and deep, and carried the [[Time|time]]
+away so fiercely, that Charles had lain in [[Prison|prison]] one year and three
+months when the Doctor was thus steady and confident. So much more
+wicked and distracted had the Revolution grown in that December month,
+that the rivers of the South were encumbered with the bodies of the
+violently drowned by [[Night|night]], and prisoners were shot in lines and squares
+under the southern wintry sun. Still, the Doctor walked among the
+terrors with a steady head. No man better known than he, in [[Paris]] at
+that day; no man in a stranger situation. Silent, humane, indispensable
+in hospital and [[Prison|prison]], using his art equally among assassins and
+victims, he was a man apart. In the exercise of his skill, the
+appearance and the story of the Bastille Captive removed him from all
+other men. He was not suspected or brought in question, any more than if
+he had indeed been recalled to life some eighteen years before, or were
+a Spirit moving among mortals.

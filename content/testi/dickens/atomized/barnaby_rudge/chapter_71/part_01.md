@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 71 (part 1)"
+title: "Barnaby Rudge — Chapter 71 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -107,7 +107,7 @@ and to entreat her to take example by herself, who, she said, was now
 receiving back, with interest, tenfold the amount of her subscriptions
 to the red-brick dwelling-[[house]], in the articles of peace of mind and a
 quiet [[Conscience|conscience]]. And, while on serious topics, Miss Miggs considered it
-her duty to try her hand at the [[conversion]] of Miss Haredale; for whose
+her duty to try her hand at the [[Conversion|conversion]] of Miss Haredale; for whose
 improvement she launched into a polemical address of some length, in the
 course whereof, she likened herself unto a chosen missionary, and that
 young lady to a cannibal in darkness. Indeed, she returned so often to

@@ -92,7 +92,6 @@ as I do the enormous argument from the scale of popular stories;
 the sense that a story we have all heard from [[Childhood|childhood]] is something
 solid and colossal, like a Gothic [[Cathedral|cathedral]] or a Roman camp.
 
-
 THE RELIGIOUS ASPECT OF WESTMINSTER ABBEY
 
 EVERY NOW and again in the long and weary [[history]] of literature and

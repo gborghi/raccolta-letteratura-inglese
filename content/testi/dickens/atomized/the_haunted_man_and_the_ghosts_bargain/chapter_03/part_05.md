@@ -1,5 +1,5 @@
 ---
-title: "The Haunted Man and the [[Ghost]]'s Bargain — Chapter 3 (part 5)"
+title: "The Haunted Man and the Ghost's Bargain — Chapter 3 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-haunted-man-and-the-ghost's-bargain-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_03/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_03/part_06">part 06 ›</a></div>
 </nav>
 
+
+“Hurrah! Here’s Mrs. William!” cried Johnny.
+
+So she was, and all the children with her; and so she came in, they
+kissed her, and kissed one another, and kissed the baby, and kissed their
+father and mother, and then ran back and flocked and danced about her,
+trooping on with her in triumph.
 
 Mr. and Mrs. Tetterby were not a bit behind-hand in the warmth of their
 reception. They were as much attracted to her as the children were; they
@@ -139,10 +146,3 @@ without satisfying her doubts, and came up, last [[Night|night]], with a little
 servant-maid. As you always dated your letters from the college, she
 came there; and before I saw Mr. Redlaw this morning, I saw her. _She_
 likes me too!” said Milly. “Oh dear, that’s another!”
-
-“This morning! Where is she now?”
-
-“Why, she is now,” said Milly, advancing her lips to his ear, “in my
-little parlour in the Lodge, and waiting to see you.”
-
-He pressed her hand, and was darting off, but she detained him.

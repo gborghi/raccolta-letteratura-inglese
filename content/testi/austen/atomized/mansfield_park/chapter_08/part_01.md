@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 8 (part 1)"
+title: "Mansfield Park — Chapter 8 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -121,10 +121,3 @@ going on the barouche box.”
 thought the favourite seat. There can be no comparison as to one’s view
 of the country. Probably Miss Crawford will choose the barouche-box
 herself.”
-
-“There can be no objection, then, to Fanny’s going with you; there can
-be no [[Doubt|doubt]] of your having room for her.”
-
-“Fanny!” repeated Mrs. Norris; “my dear [[Edmund]], there is no idea of her
-going with us. She stays with her aunt. I told Mrs. Rushworth so. She
-is not expected.”

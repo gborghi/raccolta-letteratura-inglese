@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 22 (part 3)"
+title: "Persuasion — Chapter 22 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -12,6 +12,16 @@ tags:
 <div class="excerpt-crumb">Austen · <a href="/works/persuasion-(austen)">Persuasion</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_22/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_22/part_04">part 04 ›</a></div>
 </nav>
+
+
+and who have always been such good friends, the pleasant prospect of
+
+one should not be dimming those of the other—that they should be so
+
+equal in their prosperity and comfort. I [[Hope|hope]] your father and mother
+
+are quite happy with regard to both.”
+
 
 
 “Oh! yes. My father would be [[Well|well]] pleased if the gentlemen were richer,
@@ -199,15 +209,3 @@ Anne had the kindest welcome from each. Henrietta was exactly in that
 state of recently-improved views, of fresh-formed happiness, which made
 
 her full of regard and interest for everybody she had ever liked before
-
-at all; and Mrs Musgrove’s real affection had been won by her
-
-usefulness when they were in distress. It was a heartiness, and a
-
-warmth, and a sincerity which Anne delighted in the more, from the sad
-
-want of such blessings at [[Home|home]]. She was entreated to give them as much
-
-of her [[Time|time]] as possible, invited for every day and all day long, or
-
-rather claimed as part of the family; and, in return, she naturally

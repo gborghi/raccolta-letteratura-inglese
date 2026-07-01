@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 52 (part 4)"
+title: "Nicholas Nickleby — Chapter 52 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,35 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_52/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_52/part_05">part 05 ›</a></div>
 </nav>
 
+
+‘I should be glad to have somebody like me, somehow,’ said Mr. Lillyvick,
+‘before I die.’
+
+‘You don’t mean to do that, yet awhile?’ said Newman.
+
+Unto which Mr. Lillyvick replied in a solemn voice, ‘Let me be shaved!’
+and again consigning himself to the hands of the journeyman, said no
+more.
+
+This was remarkable behaviour. So remarkable did it seem to Miss
+Morleena, that that young lady, at the imminent hazard of having her ear
+sliced off, had not been able to forbear looking round, some score of
+times, during the foregoing colloquy. Of her, however, Mr. Lillyvick took
+no notice: rather striving (so, at least, it seemed to [[Newman Noggs]]) to
+evade her observation, and to shrink into himself whenever he attracted
+her regards. Newman wondered very much what could have occasioned this
+altered behaviour on the part of the collector; but, philosophically
+reflecting that he would most likely know, sooner or later, and that
+he could perfectly afford to wait, he was very little disturbed by the
+singularity of the old gentleman’s deportment.
+
+The cutting and curling being at last concluded, the old gentleman, who
+had been some [[Time|time]] waiting, [[Rose|rose]] to go, and, walking out with Newman
+and his charge, took Newman’s arm, and proceeded for some [[Time|time]] without
+making any observation. Newman, who in power of taciturnity was excelled
+by few people, made no attempt to break [[Silence|silence]]; and so they went
+on, until they had very nearly reached Miss Morleena’s [[Home|home]], when Mr
+Lillyvick said:
 
 ‘Were the Kenwigses very much overpowered, Mr. Noggs, by that news?’
 
@@ -109,31 +138,3 @@ Morleena has pined herself away to nothing; all this I forget and
 forgive, and with you, uncle, I never can quarrel. But never ask me to
 receive HER, never do it, uncle. For I will not, I will not, I won’t, I
 won’t, I won’t!’
-
-‘Susan, my dear,’ said Mr. Kenwigs, ‘consider your [[Child|child]].’
-
-‘Yes,’ shrieked Mrs. Kenwigs, ‘I will consider my [[Child|child]]! I will consider
-my [[Child|child]]! My own [[Child|child]], that no uncles can deprive me of; my own hated,
-despised, deserted, cut-off little [[Child|child]].’ And, here, the emotions of
-Mrs. Kenwigs became so violent, that Mr. Kenwigs was fain to administer
-hartshorn internally, and vinegar externally, and to destroy a staylace,
-four petticoat strings, and several small buttons.
-
-Newman had been a silent spectator of this scene; for Mr. Lillyvick had
-signed to him not to withdraw, and Mr. Kenwigs had further solicited
-his presence by a nod of invitation. When Mrs. Kenwigs had been, in some
-degree, restored, and Newman, as a person possessed of some influence
-with her, had remonstrated and begged her to compose herself, Mr
-Lillyvick said in a faltering voice:
-
-‘I never shall ask anybody here to receive my--I needn’t mention the
-word; you know what I mean. Kenwigs and Susan, yesterday was a week she
-eloped with a half-pay captain!’
-
-Mr. and Mrs. Kenwigs started together.
-
-‘Eloped with a half-pay captain,’ repeated Mr. Lillyvick, ‘basely and
-falsely eloped with a half-pay captain. With a bottle-nosed captain that
-any man might have considered himself safe from. It was in this room,’
-said Mr. Lillyvick, looking sternly round, ‘that I first see Henrietta
-Petowker. It is in this room that I turn her off, for ever.’

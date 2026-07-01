@@ -34,31 +34,31 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Story 01 ORD KITCHENER](/testi/chesterton/atomized/lordkitchener/story_01_ord_kitchener)
-- [Story 02 ORD KITCHENER](/testi/chesterton/atomized/lordkitchener/story_02_ord_kitchener)
-- [Story 03 A By reading or using any part of this P](/testi/chesterton/atomized/lordkitchener/story_03_a_by_reading_or_using_any_part_of_this_p)
-- [Story 04 B Project Gutenberg is a registered trad](/testi/chesterton/atomized/lordkitchener/story_04_b_project_gutenberg_is_a_registered_trad)
-- [Story 05 C The Project Gutenberg Literary Archive](/testi/chesterton/atomized/lordkitchener/story_05_c_the_project_gutenberg_literary_archive)
-- [Story 06 D The copyright laws of the place where](/testi/chesterton/atomized/lordkitchener/story_06_d_the_copyright_laws_of_the_place_where)
-- [Story 07 E Unless you have removed all references](/testi/chesterton/atomized/lordkitchener/story_07_e_unless_you_have_removed_all_references)
-- [Story 08 E 1 The following sentence with active l](/testi/chesterton/atomized/lordkitchener/story_08_e_1_the_following_sentence_with_active_l)
-- [Story 09 E 2 If an individual Project Gutenberg t](/testi/chesterton/atomized/lordkitchener/story_09_e_2_if_an_individual_project_gutenberg_t)
-- [Story 10 E 3 If an individual Project Gutenberg t](/testi/chesterton/atomized/lordkitchener/story_10_e_3_if_an_individual_project_gutenberg_t)
-- [Story 11 E 4 Do not unlink or detach or remove th](/testi/chesterton/atomized/lordkitchener/story_11_e_4_do_not_unlink_or_detach_or_remove_th)
-- [Story 12 E 5 Do not copy display perform distribu](/testi/chesterton/atomized/lordkitchener/story_12_e_5_do_not_copy_display_perform_distribu)
-- [Story 13 E 6 You may convert to and distribute th](/testi/chesterton/atomized/lordkitchener/story_13_e_6_you_may_convert_to_and_distribute_th)
-- [Story 14 E 7 Do not charge a fee for access to vi](/testi/chesterton/atomized/lordkitchener/story_14_e_7_do_not_charge_a_fee_for_access_to_vi)
-- [Story 15 E 8 You may charge a reasonable fee for](/testi/chesterton/atomized/lordkitchener/story_15_e_8_you_may_charge_a_reasonable_fee_for)
-- [Story 16 E 9 If you wish to charge a fee or distr](/testi/chesterton/atomized/lordkitchener/story_16_e_9_if_you_wish_to_charge_a_fee_or_distr)
-- [Story 17 F 1 Project Gutenberg volunteers and emp](/testi/chesterton/atomized/lordkitchener/story_17_f_1_project_gutenberg_volunteers_and_emp)
-- [Story 18 F 2 LIMITED WARRANTY DISCLAIMER OF DAMAG](/testi/chesterton/atomized/lordkitchener/story_18_f_2_limited_warranty_disclaimer_of_damag)
-- [Story 19 ABILITY BREACH OF WARRANTY OR BREACH OF](/testi/chesterton/atomized/lordkitchener/story_19_ability_breach_of_warranty_or_breach_of)
-- [Story 20 ABLE TO YOU FOR ACTUAL DIRECT INDIRECT C](/testi/chesterton/atomized/lordkitchener/story_20_able_to_you_for_actual_direct_indirect_c)
-- [Story 21 NCIDENTAL DAMAGES EVEN IF YOU GIVE NOTIC](/testi/chesterton/atomized/lordkitchener/story_21_ncidental_damages_even_if_you_give_notic)
-- [Story 22 F 3 LIMITED RIGHT OF REPLACEMENT OR REFU](/testi/chesterton/atomized/lordkitchener/story_22_f_3_limited_right_of_replacement_or_refu)
-- [Story 23 F 4 Except for the limited right of repl](/testi/chesterton/atomized/lordkitchener/story_23_f_4_except_for_the_limited_right_of_repl)
-- [Story 24 F 5 Some states do not allow disclaimers](/testi/chesterton/atomized/lordkitchener/story_24_f_5_some_states_do_not_allow_disclaimers)
-- [Story 25 F 6 INDEMNITY You agree to indemnify and](/testi/chesterton/atomized/lordkitchener/story_25_f_6_indemnity_you_agree_to_indemnify_and)
+- Story 01 ORD KITCHENER
+- Story 02 ORD KITCHENER
+- Story 03 A By reading or using any part of this P
+- Story 04 B Project Gutenberg is a registered trad
+- Story 05 C The Project Gutenberg Literary Archive
+- Story 06 D The copyright laws of the place where
+- Story 07 E Unless you have removed all references
+- Story 08 E 1 The following sentence with active l
+- Story 09 E 2 If an individual Project Gutenberg t
+- Story 10 E 3 If an individual Project Gutenberg t
+- Story 11 E 4 Do not unlink or detach or remove th
+- Story 12 E 5 Do not copy display perform distribu
+- Story 13 E 6 You may convert to and distribute th
+- Story 14 E 7 Do not charge a fee for access to vi
+- Story 15 E 8 You may charge a reasonable fee for
+- Story 16 E 9 If you wish to charge a fee or distr
+- Story 17 F 1 Project Gutenberg volunteers and emp
+- Story 18 F 2 LIMITED WARRANTY DISCLAIMER OF DAMAG
+- Story 19 ABILITY BREACH OF WARRANTY OR BREACH OF
+- Story 20 ABLE TO YOU FOR ACTUAL DIRECT INDIRECT C
+- Story 21 NCIDENTAL DAMAGES EVEN IF YOU GIVE NOTIC
+- Story 22 F 3 LIMITED RIGHT OF REPLACEMENT OR REFU
+- Story 23 F 4 Except for the limited right of repl
+- Story 24 F 5 Some states do not allow disclaimers
+- Story 25 F 6 INDEMNITY You agree to indemnify and
 
 ## Testo integrale / Full text
 

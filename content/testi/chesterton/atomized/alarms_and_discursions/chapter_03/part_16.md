@@ -14,6 +14,54 @@ tags:
 </nav>
 
 
+-/-
+
+The Gold of Glastonbury
+
+ONE silver morning I walked into a small grey town of stone, like twenty
+other grey western towns, which happened to be called Glastonbury;
+and saw the [[Magic|magic]] thorn of near two thousand years growing in the open
+air as casually as any bush in my [[Garden|garden]].
+
+In Glastonbury, as in all noble and humane things, the myth is more
+important than the [[history]].  One cannot say anything stronger of
+the strange old tale of St. Joseph and the Thorn than that it dwarfs
+St. Dunstan.  Standing among the actual stones and shrubs one thinks
+of the first century and not of the tenth; one's mind goes back beyond
+the Saxons and beyond the greatest statesman of the Dark Ages.  The tale
+that Joseph of Arimathea came to Britain is presumably a mere legend.
+But it is not by any means so incredible or preposterous a legend
+as many modern people suppose.  The popular notion is that the thing
+is quite comic and inconceivable; as if one said that Wat Tyler
+went to Chicago, or that John Bunyan discovered the North Pole.
+We think of Palestine as little, localised and very private,
+of [[Christ]]'s followers as poor folk, _astricti glebis_, rooted to their
+towns or trades; and we think of vast routes of travel and constant
+world-communications as things of recent and scientific origin.
+But this is wrong; at least, the last part of it is.
+It is part of that large and placid lie that the rationalists tell
+when they say that [[Christianity]] arose in ignorance and barbarism.
+[[Christianity]] arose in the thick of a brilliant and bustling
+cosmopolitan civilisation.  Long sea-voyages were not so quick,
+but were quite as incessant as to-day; and though in the [[Nature|nature]]
+of things [[Christ]] had not many rich followers, it is not unnatural
+to suppose that He had some.  And a Joseph of Arimathea may easily
+have been a Roman citizen with a yacht that could visit Britain.
+The same fallacy is employed with the same partisan motive in the case
+of the Gospel of St. John; which critics say could not have been
+written by one of the first few Christians because of its Greek
+transcendentalism and its Platonic tone.  I am no judge of the philology,
+but every human being is a divinely appointed judge of the [[philosophy]]:
+and the Platonic tone seems to me to prove nothing at all.
+Palestine was not a secluded valley of barbarians; it was
+an open province of a polyglot empire, overrun with all sorts
+of people of all kinds of [[Education|education]].  To take a rough parallel:
+suppose some great [[Prophet|prophet]] arose among the Boers in South Africa.
+The [[Prophet|prophet]] himself might be a simple or unlettered man.
+But no one who knows the modern world would be surprised if one
+of his closest followers were a Professor from Heidelberg or an
+M.A. from [[Oxford]].
+
 All this is not urged here with any notion of proving that the tale
 of the thorn is not a myth; as I have said, it probably is a myth.
 It is urged with the much more important object of pointing
@@ -62,68 +110,3 @@ men like me; for the columns and arches were [[Grave|grave]], and told of
 the gravity of the builders; but here was one touch of their gaiety.
 I almost expected it to fade from the stone as I stared.
 It was as if men had been able to preserve a [[Fragment|fragment]] of a sunset.
-
-And then I remembered how the artistic critics have always praised
-the [[Grave|grave]] tints and the grim shadows of the crumbling cloisters and
-abbey towers, and how they themselves often dress up like Gothic ruins
-in the sombre tones of dim grey walls or dark green ivy.  I remembered
-how they hated almost all primary things, but especially primary colours.
-I knew they were appreciating much more delicately and truly than I
-the [[Sublime|sublime]] [[skeleton]] and the mighty fungoids of the dead Glastonbury.
-But I stood for an instant alive in the living Glastonbury,
-gay with gold and coloured like the toy-book of a [[Child|child]].
-
--/-
-
-The Futurists
-
-IT was a warm golden evening, fit for October, and I was watching
-(with regret) a lot of little black pigs being turned out of my [[Garden|garden]],
-when the postman handed to me, with a perfunctory haste which doubtless
-masked his emotion, the Declaration of Futurism.  If you ask me what
-Futurism is, I cannot tell you; even the Futurists themselves seem
-a little doubtful; perhaps they are waiting for the future to find out.
-But if you ask me what its Declaration is, I answer eagerly;
-for I can tell you quite a lot about that.  It is written by an
-Italian named Marinetti, in a magazine which is called _Poesia_.
-It is headed "Declaration of Futurism" in enormous letters; it is
-divided off with little numbers; and it starts straight away like this:
-"1. We intend to glorify the [[Love|love]] of danger, the custom of energy,
-the strengt of daring.  2.  The essential elements of our poetry
-will be [[Courage|courage]], audacity, and revolt.  3.  Literature having up
-to now glorified thoughtful immobility, ecstasy, and slumber,
-we wish to exalt the aggressive movement, the feverish insomnia,
-running, the perilous leap, the cuff and the blow."  While I am
-quite willing to exalt the cuff within reason, it scarcely seems
-such an entirely new subject for literature as the Futurists imagine.
-It seems to me that even through the slumber which fills the Siege
-of Troy, the [[Song]] of Roland, and the [[Orlando]] Furioso, and in spite
-of the thoughtful immobility which marks "Pantagruel," "[[Henry V]],"
-and the Ballad of Chevy Chase, there are occasional gleams
-of an admiration for [[Courage|courage]], a readiness to glorify the [[Love|love]]
-of danger, and even the "strengt of daring," I seem to remember,
-slightly differently spelt, somewhere in literature.
-
-* * * * *
-
-The distinction, however, seems to be that the warriors of
-the past went in for tournaments, which were at least dangerous
-for themselves, while the Futurists go in for motor-cars,
-which are mainly alarming for other people.  It is the Futurist
-in his motor who does the "aggressive movement," but it is the
-pedestrians who go in for the "running" and the "perilous leap."
-Section No. 4 says, "We declare that the splendour of the world
-has been enriched with a new form of [[Beauty|beauty]], the [[Beauty|beauty]] of [[Speed|speed]].
-A race-automobile adorned with great pipes like serpents
-with explosive breath.  ... A race-automobile which seems
-to rush over exploding powder is more beautiful than the Victory
-of Samothrace."  It is also much easier, if you have the money.
-It is quite clear, however, that you cannot be a Futurist at
-all unless you are frightfully rich.  Then follows this lucid
-and [[Soul|soul]]-stirring sentence:  "5. We will sing the praises of man
-holding the flywheel of which the ideal steering-post traverses
-the earth impelled itself around the circuit of its own orbit."
-What a jolly [[Song|song]] it would be--so hearty, and with such a simple
-swing in it!  I can imagine the Futurists round the [[Fire|fire]] in a tavern
-trolling out in [[Chorus|chorus]] some ballad with that incomparable refrain;
-shouting over their swaying flagons some such words as these:

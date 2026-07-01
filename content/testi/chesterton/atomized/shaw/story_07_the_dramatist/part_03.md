@@ -1,5 +1,5 @@
 ---
-title: "[[Shaw]] — THE DRAMATIST (part 3)"
+title: "Shaw — THE DRAMATIST (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/shaw-(chesterton)"
@@ -13,6 +13,40 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/shaw/story_07_the_dramatist/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/shaw/story_07_the_dramatist/part_04">part 04 ›</a></div>
 </nav>
 
+
+There are one or two errors in the play; and they are all due
+to the primary error of despising the mental attitude of [[Romance|romance]],
+which is the only key to real human conduct.  For instance, the [[Love|love]]
+making of the young poet is all wrong.  He is supposed to be a romantic
+and amorous boy; and therefore the dramatist tries to make him
+talk turgidly, about seeking for "an archangel with purple wings"
+who shall be worthy of his lady.  But a lad in [[Love|love]] would never talk
+in this mock heroic style; there is no period at which the young
+male is more sensitive and serious and afraid of looking a [[Fool|fool]].
+This is a blunder; but there is another much bigger and blacker.
+It is completely and disastrously false to the whole [[Nature|nature]] of
+falling in [[Love|love]] to make the young Eugene complain of the cruelty
+which makes Candida defile her fair hands with domestic duties.
+No boy in [[Love|love]] with a beautiful woman would ever feel disgusted when she
+peeled potatoes or trimmed lamps.  He would like her to be domestic.
+He would simply feel that the potatoes had become poetical and
+the lamps gained an extra light.  This may be irrational; but we
+are not talking of rationality, but of the psychology of first [[Love|love]].
+It may be very unfair to women that the toil and triviality
+of potato peeling should be seen through a glamour of [[Romance|romance]];
+but the glamour is quite as certain a fact as the potatoes.
+It may be a bad thing in sociology that men should deify domesticity
+in girls as something dainty and magical; but all men do.
+Personally I do not think it a bad thing at all; but that is
+another argument.  The argument here is that Bernard [[Shaw]],
+in aiming at mere realism, makes a big mistake in reality.
+Misled by his great heresy of looking at emotions from the outside,
+he makes Eugene a cold-blooded prig at the very moment when he is trying,
+for his own dramatic purposes, to make him a hot-blooded [[Lover|lover]].
+He makes the young [[Lover|lover]] an idealistic theoriser about the very things
+about which he really would have been a sort of mystical materialist.
+Here the romantic Irishman is much more right than the very rational one;
+and there is far more [[Truth|truth]] to life as it is in [[Lover]]'s couplet--
 
 "And envied the chicken That Peggy was pickin'."
 
@@ -94,38 +128,3 @@ become thus old and insipid which have ever tried to be "modern,"
 which have consented to smell of [[Time|time]] rather than of [[Eternity|eternity]].
 Only those who have stooped to be in advance of their [[Time|time]]
 will ever find themselves behind it.
-
-But it is irritating to think what diamonds, what dazzling silver
-of Shavian wit has been sunk in such an out-of-date warship.
-In THE PHILANDERER there are five hundred excellent and about five
-magnificent things.  The rattle of repartees between the doctor
-and the soldier about the humanity of their two trades is admirable.
-Or again, when the colonel tells Chartaris that "in his young days"
-he would have no more behaved like Chartaris than he would
-have cheated at cards.  After a pause Chartaris says,
-"You're getting old, Craven, and you make a virtue of it as usual."
-And there is an altitude of aerial [[Tragedy|tragedy]] in the words of Grace,
-who has refused the man she loves, to [[Julia]], who is marrying the man
-she doesn't, "This is what they call a happy ending--these men."
-
-There is an acrid taste in THE PHILANDERER; and certainly he might
-be considered a super-sensitive person who should find anything
-acrid in YOU NEVER CAN TELL.  This play is the nearest approach
-to frank and objectless exuberance in the whole of [[Shaw]]'s work.
-PUNCH, with wisdom as [[Well|well]] as wit, said that it might [[Well|well]] be
-called not "You Never Can Tell" but "You Never Can be [[Shaw]]."
-And yet if anyone will read this blazing farce and then
-after it any of the romantic farces, such as [[Pickwick|PICKWICK]]
-or even THE WRONG BOX, I do not think he will be disposed
-to erase or even to modify what I said at the beginning about
-the ingrained grimness and even inhumanity of [[Shaw]]'s art.
-To take but one test:  [[Love|love]], in an "extravaganza,"
-may be light [[Love|love]] or [[Love|love]] in idleness, but it should be hearty
-and happy [[Love|love]] if it is to add to the general hilarity.
-Such are the ludicrous but lucky [[Love|love]] affairs of the sportsman
-Winkle and the Maestro Jimson.  In Gloria's collapse before her
-bullying [[Lover|lover]] there is something at once cold and unclean;
-it calls up all the modern supermen with their cruel and fishy eyes.
-Such farces should begin in a friendly air, in a tavern.
-There is something very symbolic of [[Shaw]] in the fact that his
-farce begins in a dentist's.

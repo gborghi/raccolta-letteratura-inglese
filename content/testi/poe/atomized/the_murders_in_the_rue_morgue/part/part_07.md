@@ -1,5 +1,5 @@
 ---
-title: "[[The Murders in the Rue Morgue]] (part 7)"
+title: "The Murders in the Rue Morgue (part 7)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-murders-in-the-rue-morgue-(poe)"
@@ -13,6 +13,34 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_murders_in_the_rue_morgue/part/part_06">‹ part 06</a><a class="ex-next" href="/testi/poe/atomized/the_murders_in_the_rue_morgue/part/part_08">part 08 ›</a></div>
 </nav>
 
+
+      more or less shattered. The left _tibia_ much splintered, as [[Well|well]]
+
+      as all the ribs of the left side. Whole [[Body|body]] dreadfully bruised
+
+      and discolored. It was not possible to say how the injuries had
+
+      been inflicted. A heavy club of wood, or a broad bar of iron—a
+
+      chair—any large, heavy, and obtuse weapon would have produced
+
+      such results, if wielded by the hands of a very powerful man. No
+
+      woman could have inflicted the blows with any weapon. The head of
+
+      the deceased, when seen by witness, was entirely separated from
+
+      the [[Body|body]], and was also greatly shattered. The throat had
+
+      evidently been cut with some very sharp instrument—probably with
+
+      a razor.
+
+
+
+      “_Alexandre Etienne_, surgeon, was called with M. Dumas to view
+
+      the bodies. Corroborated the testimony, and the opinions of M.
 
       Dumas.
 
@@ -177,37 +205,3 @@ tags:
       and then, again turning, passed in the rear of the
 
       building—Dupin, meanwhile examining the whole neighborhood, as
-
-      [[Well|well]] as the [[house]], with a minuteness of attention for which I
-
-      could see no possible object.
-
-
-
-      Retracing our steps, we came again to the front of the dwelling,
-
-      rang, and, having shown our credentials, were admitted by the
-
-      agents in charge. We went up stairs—into the chamber where the
-
-      [[Body|body]] of Mademoiselle L’Espanaye had been found, and where both
-
-      the deceased still lay. The disorders of the room had, as usual,
-
-      been suffered to exist. I saw nothing beyond what had been stated
-
-      in the “Gazette des Tribunaux.” Dupin scrutinized every thing—not
-
-      excepting the bodies of the victims. We then went into the other
-
-      rooms, and into the yard; a _gendarme_ accompanying us
-
-      throughout. The examination occupied us until dark, when we took
-
-      our departure. On our way [[Home|home]] my companion stepped in for a
-
-      moment at the office of one of the daily papers.
-
-
-
-      I have said that the whims of my friend were manifold, and that

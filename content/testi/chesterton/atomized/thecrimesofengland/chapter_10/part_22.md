@@ -1,5 +1,5 @@
 ---
-title: "[[TheCrimesOfEngland]] — Chapter 10 (part 22)"
+title: "TheCrimesOfEngland — Chapter 10 (part 22)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thecrimesofengland-(chesterton)"
@@ -13,6 +13,124 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thecrimesofengland/chapter_10/part_21">‹ part 21</a><a class="ex-next" href="/testi/chesterton/atomized/thecrimesofengland/chapter_10/part_23">part 23 ›</a></div>
 </nav>
 
+
+Louis Napoleon as what he really was before the eclipse, a
+
+politician--perhaps an unscrupulous politician--but certainly a
+
+democratic politician. A power seldom falls being wholly faultless; and
+
+it is true that the Second Empire became contaminated with cosmopolitan
+
+spies and swindlers, justly reviled by such democrats as Rochefort as
+
+[[Well|well]] as Hugo. But there was no French inefficiency that weighed a hair
+
+in the balance compared with the huge and hostile efficiency of
+
+Prussia; the tall [[Machine|machine]] that had struck down [[Denmark]] and Austria, and
+
+now stood ready to strike again, extinguishing the lamp of the world.
+
+There was a hitch before the hammer stroke, and Bismarck adjusted it, as
+
+with his finger, by a forgery--for he had many minor accomplishments.
+
+France fell: and what fell with her was [[Freedom|freedom]], and what reigned in her
+
+stead only tyrants and the ancient terror. The crowning of the first
+
+modern Kaiser in the very palace of the old French kings was an
+
+[[Allegory|allegory]]; like an [[Allegory|allegory]] on those Versailles walls. For it was at once
+
+the lifting of the old despotic diadem and its descent on the low brow
+
+of a barbarian. Louis XI. had returned, and not Louis IX.; and Europe
+
+was to know that sceptre on which there is no dove.
+
+The instant evidence that Europe was in the grip of the savage was as
+
+simple as it was sinister. The invaders behaved with an [[Innocent|innocent]] impiety
+
+and bestiality that had never been known in those lands since Clovis was
+
+signed with the [[Cross|cross]]. To the naked [[Pride|pride]] of the new men nations simply
+
+were not. The struggling populations of two vast provinces were simply
+
+carried away like slaves into captivity, as after the sacking of some
+
+prehistoric town. France was fined for having pretended to be a nation;
+
+and the fine was planned to ruin her forever. Under the pressure of such
+
+impossible injustice France cried out to the Christian nations, one
+
+after another, and by name. Her last cry ended in a stillness like that
+
+which had encircled [[Denmark]].
+
+One man answered; one who had quarrelled with the French and their
+
+Emperor; but who knew it was not an emperor that had fallen. Garibaldi,
+
+not always wise but to his end a [[Hero|hero]], took his station, [[Sword|sword]] in hand,
+
+under the darkening sky of Christendom, and shared the last fate of
+
+France. A curious record remains, in which a German commander testifies
+
+to the energy and effect of the last strokes of the wounded [[Lion|lion]] of
+
+Aspromonte. But England went away sorrowful, for she had great
+
+possessions.
+
+VIII--_The Wrong Horse_
+
+In another chapter I mentioned some of the late Lord Salisbury's remarks
+
+with regret, but I trust with respect; for in certain matters he
+
+deserved all the respect that can be given to him. His critics said that
+
+he "thought aloud"; which is perhaps the noblest thing that can be said
+
+of a man. He was jeered at for it by journalists and politicians who had
+
+not the capacity to think or the [[Courage|courage]] to tell their thoughts. And he
+
+had one yet finer quality which redeems a hundred lapses of anarchic
+
+cynicism. He could change his mind upon the platform: he could repent in
+
+public. He could not only think aloud; he could "think better" aloud.
+
+And one of the turning-points of Europe had come in the hour when he
+
+avowed his [[conversion]] from the un-Christian and un-European policy into
+
+which his dexterous Oriental master, Disraeli, had dragged him; and
+
+declared that England had "put her money on the wrong [[Horse|horse]]." When he
+
+said it, he referred to the backing we gave to the Turk under a
+
+fallacious [[Fear|fear]] of [[Russia]]. But I cannot but think that if he had lived
+
+much longer, he would have come to feel the same disgust for his long
+
+diplomatic support of the Turk's great ally in the North. He did not
+
+live, as we have lived, to feel that [[Horse|horse]] run away with us, and rush on
+
+through wilder and wilder places, until we knew that we were riding on
+
+the [[nightmare]].
+
+What was this thing to which we trusted? And how may we most quickly
 
 explain its development from [[A Dream|a dream]] to a [[nightmare]], and the
 
@@ -31,8 +149,6 @@ the word Teutonism or Pan-Germanism; and with this (which was what
 appeared to win in 1870) we had better begin. The [[Nature|nature]] of
 
 Pan-Germanism may be allegorised and abbreviated somewhat thus:
-
-
 
 The [[Horse|horse]] asserts that all other creatures are morally bound to
 
@@ -65,135 +181,3 @@ _are_ horses, and wave on every tree-top the tail which is the equine
 banner. Nightingales are found to have legs, which explains their power
 
 of [[Song|song]]. Haddocks are vertebrates; and therefore are sea-horses. And
-
-though the oyster outwardly presents dissimilarities which seem to
-
-divide him from the [[Horse|horse]], he is by the all-filling [[Nature|nature]]-might of the
-
-same [[Horse|horse]]-moving energy sustained.
-
-
-
-Now this [[Horse|horse]] is intellectually the wrong [[Horse|horse]]. It is not perhaps
-
-going too far to say that this [[Horse|horse]] is a [[donkey]]. For it is obviously
-
-within even the intellectual resources of a haddock to answer, "But if a
-
-haddock is a [[Horse|horse]], why should I yield to you any more than you to me?
-
-Why should that singing [[Horse|horse]] commonly called the [[Nightingale|nightingale]], or that
-
-climbing [[Horse|horse]] hitherto known as the cat, fall down and worship you
-
-because of your horsehood? If all our native faculties are the
-
-accomplishments of a [[Horse|horse]]--why then you are only another [[Horse|horse]] without
-
-any accomplishments." When thus gently reasoned with, the [[Horse|horse]] flings
-
-up his heels, kicks the cat, crushes the oyster, eats the haddock and
-
-pursues the [[Nightingale|nightingale]], and that is how the war began.
-
-
-
-This apologue is not in the least more fantastic than the facts of the
-
-Teutonic claim. The Germans do really say that Englishmen are only
-
-Sea-Germans, as our haddocks were only sea-horses. They do really say
-
-that the nightingales of Tuscany or the pearls of Hellas must somehow be
-
-German [[Birds|birds]] or German jewels. They do maintain that the Italian
-
-[[Renaissance]] was really the German [[Renaissance]], pure Germans having
-
-Italian names when they were painters, as [[cockneys]] sometimes have when
-
-they are hair-dressers. They suggest that Jesus and the great Jews were
-
-Teutonic. One Teutonist I read actually explained the fresh energy of
-
-the [[French Revolution]] and the stale privileges of its German enemies by
-
-saying that the Germanic [[Soul|soul]] awoke in France and attacked the Latin
-
-influence in [[Germany]]. On the advantages of this method I need not dwell:
-
-if you are annoyed at Jack Johnson knocking out an English
-
-prize-fighter, you have only to say that it was the whiteness of the
-
-black man that won and the blackness of the white man that was beaten.
-
-But about the Italian [[Renaissance]] they are less general and will go into
-
-detail. They will discover (in their researches into 'istry, as Mr.
-
-Gandish said) that [[Michael]] [[Angelo]]'s surname was Buonarotti; and they
-
-will point out that the word "roth" is very like the word "rot." Which,
-
-in one sense, is true enough. Most Englishmen will be content to say it
-
-is all rot and pass on. It is all of a piece with the preposterous
-
-Prussian [[history]], which talks, for instance, about the "perfect
-
-religious tolerance of the Goths"; which is like talking about the legal
-
-impartiality of chicken-pox. He will decline to believe that the Jews
-
-were Germans; though he may perhaps have met some Germans who were Jews.
-
-But deeper than any such practical reply, lies the deep inconsistency of
-
-the [[Parable|parable]]. It is simply this; that if Teutonism be used for
-
-comprehension it cannot be used for conquest. If all intelligent peoples
-
-are Germans, then Prussians are only the least intelligent Germans. If
-
-the men of Flanders are as German as the men of Frankfort, we can only
-
-say that in saving Belgium we are helping the Germans who are in the
-
-right against the Germans who are in the wrong. Thus in Alsace the
-
-conquerors are forced into the comic posture of annexing the people for
-
-being German and then persecuting them for being French. The French
-
-Teutons who built Rheims must surrender it to the South German Teutons
-
-who have partly built Cologne; and these in turn surrender Cologne to
-
-the North German Teutons, who never built anything, except the wooden
-
-Aunt Sally of old Hindenburg. Every Teuton must fall on his face before
-
-an inferior Teuton; until they all find, in the foul marshes towards the
-
-Baltic, the very lowest of all possible Teutons, and worship him--and
-
-find he is a Slav. So much for Pan-Germanism.
-
-
-
-But though Teutonism is indefinable, or at least is by the Teutons
-
-undefined, it is not unreal. A vague but genuine [[Soul|soul]] does possess all
-
-peoples who boast of Teutonism; and has possessed ourselves, in so far
-
-as we have been touched by that folly. Not a race, but rather a
-
-religion, the thing exists; and in 1870 its sun was at [[Noon|noon]]. We can most
-
-briefly describe it under three heads.
-
-
-
-The victory of the German arms meant before Leipzic, and means now, the

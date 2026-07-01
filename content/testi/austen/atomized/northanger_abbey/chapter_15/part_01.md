@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 14 (part 1)"
+title: "Northanger Abbey — Chapter 14 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -247,7 +247,3 @@ invention is what delights me in other books.”
 flights of fancy. They display [[Imagination|imagination]] without raising interest. I
 
 am fond of [[history]]—and am very [[Well|well]] contented to take the false with
-
-the true. In the principal facts they have sources of intelligence in
-
-former histories and records, which may be as much depended on, I

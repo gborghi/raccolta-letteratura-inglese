@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 16 (part 4)"
+title: "Our Mutual Friend — Chapter 2 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,131 +10,88 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_57/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_57/part_05">part 05 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_57/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_58/part_01">part 01 ›</a></div>
 </nav>
 
 
-Miss Lavvy came out to open the gate, waited on by that attentive
-cavalier and friend of the family, Mr George Sampson. ‘Why, it’s never
-Bella!’ exclaimed Miss Lavvy starting back at the sight. And then
-bawled, ‘Ma! Here’s Bella!’
+Mrs Lammle had taken up her parasol from a side table, and stood
+sketching with it on the pattern of the damask cloth, as she had
+sketched on the pattern of Mr Twemlow’s papered wall.
 
-This produced, before they could get into the [[house]], Mrs Wilfer. Who,
-standing in the portal, received them with ghostly gloom, and all her
-other appliances of ceremony.
+‘You will not undeceive her I [[Hope|hope]], Mr Boffin?’ she said, turning her
+head towards him, but not her eyes.
 
-‘My [[Child|child]] is welcome, though unlooked for,’ said she, at the [[Time|time]]
-presenting her cheek as if it were a cool slate for visitors to enrol
-themselves upon. ‘You too, R. W., are welcome, though late. Does the
-male domestic of Mrs Boffin hear me there?’ This deep-toned inquiry was
-cast forth into the [[Night|night]], for response from the menial in question.
+‘No,’ said Mr Boffin.
 
-‘There is no one waiting, Ma, dear,’ said Bella.
+‘I mean, as to the worth and value of her friend,’ Mrs Lammle explained,
+in a measured voice, and with an emphasis on her last word.
 
-‘There is no one waiting?’ repeated Mrs Wilfer in majestic accents.
+‘No,’ he returned. ‘I may try to give a hint at her [[Home|home]] that she is in
+want of kind and careful protection, but I shall say no more than that
+to her parents, and I shall say nothing to the young lady herself.’
 
-‘No, Ma, dear.’
+‘Mr and Mrs Boffin,’ said Mrs Lammle, still sketching, and seeming to
+bestow great pains upon it, ‘there are not many people, I think, who,
+under the circumstances, would have been so considerate and sparing as
+you have been to me just now. Do you care to be thanked?’
 
-A dignified shiver pervaded Mrs Wilfer’s shoulders and gloves, as
-who should say, ‘[[An Enigma]]!’ and then she marched at the head of the
-procession to the family keeping-room, where she observed:
+‘Thanks are always worth having,’ said Mrs Boffin, in her ready good
+[[Nature|nature]].
 
-‘Unless, R. W.:’ who started on being solemnly turned upon: ‘you have
-taken the precaution of making some addition to our frugal supper on
-your way [[Home|home]], it will prove but a distasteful one to Bella. Cold neck
-of mutton and a lettuce can ill compete with the luxuries of Mr Boffin’s
-board.’
+‘Then thank you both.’
 
-‘Pray don’t talk like that, Ma dear,’ said Bella; ‘Mr Boffin’s board is
-nothing to me.’
+‘Sophronia,’ asked her husband, mockingly, ‘are you sentimental?’
 
-But, here Miss [[Lavinia]], who had been intently eyeing Bella’s bonnet,
-struck in with ‘Why, Bella!’
+‘[[Well]], [[Well|well]], my good sir,’ Mr Boffin interposed, ‘it’s a very good
+thing to think [[Well|well]] of another person, and it’s a very good thing to be
+thought [[Well|well]] of BY another person. Mrs Lammle will be none the worse for
+it, if she is.’
 
-‘Yes, Lavvy, I know.’
+‘Much obliged. But I asked Mrs Lammle if she was.’
 
-The Irrepressible lowered her eyes to Bella’s dress, and stooped to look
-at it, exclaiming again: ‘Why, Bella!’
+She stood sketching on the table-cloth, with her face clouded and set,
+and was silent.
 
-‘Yes, Lavvy, I know what I have got on. I was going to tell Ma when you
-interrupted. I have left Mr Boffin’s [[house]] for good, Ma, and I have come
-[[Home|home]] again.’
+‘Because,’ said Alfred, ‘I am disposed to be sentimental myself, on
+your appropriation of the jewels and the money, Mr Boffin. As our little
+Georgiana said, three five-pound notes are better than nothing, and if
+you sell a necklace you can buy things with the produce.’
 
-Mrs Wilfer spake no word, but, having glared at her offspring for a
-minute or two in an awful [[Silence|silence]], retired into her corner of state
-backward, and sat down: like a frozen article on sale in a Russian
-market.
+‘IF you sell it,’ was Mr Boffin’s comment, as he put it in his pocket.
 
-‘In short, dear Ma,’ said Bella, taking off the depreciated bonnet and
-shaking out her hair, ‘I have had a very serious difference with Mr
-Boffin on the subject of his treatment of a member of his household, and
-it’s a final difference, and there’s an end of all.’
+Alfred followed it with his looks, and also greedily pursued the notes
+until they vanished into Mr Boffin’s waistcoat pocket. Then he directed
+a look, half exasperated and half jeering, at his wife. She still stood
+sketching; but, as she sketched, there was a struggle within her, which
+found expression in the depth of the few last lines the parasol point
+indented into the table-cloth, and then some [[Tears|tears]] fell from her eyes.
 
-‘And I am bound to tell you, my dear,’ added R. W., submissively, ‘that
-Bella has acted in a truly brave spirit, and with a truly right feeling.
-And therefore I [[Hope|hope]], my dear, you’ll not allow yourself to be greatly
-disappointed.’
+‘Why, confound the woman,’ exclaimed Lammle, ‘she _is_ sentimental.’
 
-‘George!’ said Miss Lavvy, in a sepulchral, warning voice, founded on
-her mother’s; ‘George Sampson, speak! What did I tell you about those
-Boffins?’
+She walked to the [[Window|window]], flinching under his angry stare, looked out
+for a moment, and turned round quite coldly.
 
-Mr Sampson perceiving his frail bark to be labouring among shoals and
-breakers, thought it safest not to refer back to any particular thing
-that he had been told, lest he should refer back to the wrong thing.
-With admirable seamanship he got his bark into deep [[Water|water]] by murmuring
-‘Yes indeed.’
+‘You have had no former cause of complaint on the sentimental score,
+Alfred, and you will have none in future. It is not worth your noticing.
+We go abroad soon, with the money we have earned here?’
 
-‘Yes! I told George Sampson, as George Sampson tells you,’ said Miss
-Lavvy, ‘that those hateful Boffins would pick a quarrel with Bella, as
-soon as her novelty had worn off. Have they done it, or have they not?
-Was I right, or was I wrong? And what do you say to us, Bella, of your
-Boffins now?’
+‘You know we do; you know we must.’
 
-‘Lavvy and Ma,’ said Bella, ‘I say of Mr and Mrs Boffin what I always
-have said; and I always shall say of them what I always have said. But
-nothing will induce me to quarrel with any one to-[[Night|night]]. I [[Hope|hope]] you
-are not sorry to see me, Ma dear,’ kissing her; ‘and I [[Hope|hope]] you are not
-sorry to see me, Lavvy,’ kissing her too; ‘and as I notice the lettuce
-Ma mentioned, on the table, I’ll make the salad.’
+‘There is no [[Fear|fear]] of my taking any sentiment with me. I should soon be
+eased of it, if I did. But it will be all left behind. It IS all left
+behind. Are you ready, Alfred?’
 
-Bella playfully setting herself about the task, Mrs Wilfer’s impressive
-countenance followed her with glaring eyes, presenting a combination
-of the once popular sign of the Saracen’s Head, with a piece of
-Dutch [[Clock|clock]]-work, and suggesting to an imaginative mind that from the
-composition of the salad, her daughter might prudently omit the vinegar.
-But no word issued from the majestic matron’s lips. And this was more
-terrific to her husband (as perhaps she knew) than any flow of eloquence
-with which she could have edified the company.
+‘What the deuce have I been waiting for but you, Sophronia?’
 
-‘Now, Ma dear,’ said Bella in due course, ‘the salad’s ready, and it’s
-past supper-[[Time|time]].’
+‘Let us go then. I am sorry I have delayed our dignified departure.’
 
-Mrs Wilfer [[Rose|rose]], but remained speechless. ‘George!’ said Miss [[Lavinia]]
-in her voice of warning, ‘Ma’s chair!’ Mr Sampson flew to the excellent
-lady’s back, and followed her up close chair in hand, as she stalked
-to the banquet. Arrived at the table, she took her rigid seat, after
-favouring Mr Sampson with a glare for himself, which caused the young
-gentleman to retire to his place in much confusion.
-
-The cherub not presuming to address so tremendous an object, transacted
-her supper through the agency of a third person, as ‘Mutton to your Ma,
-Bella, my dear’; and ‘Lavvy, I dare say your Ma would take some lettuce
-if you were to put it on her plate.’ Mrs Wilfer’s manner of receiving
-those viands was marked by petrified absence of mind; in which state,
-likewise, she partook of them, occasionally laying down her knife and
-fork, as saying within her own spirit, ‘What is this I am doing?’ and
-glaring at one or other of the party, as if in indignant search of
-information. A magnetic result of such glaring was, that the person
-glared at could not by any means successfully pretend to be ignorant of
-the fact: so that a bystander, without beholding Mrs Wilfer at all, must
-have known at whom she was glaring, by seeing her refracted from the
-countenance of the beglared one.
-
-Miss [[Lavinia]] was extremely affable to Mr Sampson on this special
-occasion, and took the opportunity of informing her sister why.
-
-‘It was not worth troubling you about, Bella, when you were in a sphere
-so far removed from your family as to make it a matter in which you
-could be expected to take very little interest,’ said [[Lavinia]] with a
-toss of her chin; ‘but George Sampson is paying his addresses to me.’
+She passed out and he followed her. Mr and Mrs Boffin had the curiosity
+softly to raise a [[Window|window]] and look after them as they went down the long
+street. They walked arm-in-arm, showily enough, but without appearing
+to interchange a syllable. It might have been fanciful to suppose that
+under their outer bearing there was something of the shamed air of two
+cheats who were linked together by concealed handcuffs; but, not so, to
+suppose that they were haggardly weary of one another, of themselves,
+and of all this world. In turning the street corner they might have
+turned out of this world, for anything Mr and Mrs Boffin ever saw of
+them to the contrary; for, they set eyes on the Lammles never more.

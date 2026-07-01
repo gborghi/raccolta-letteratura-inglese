@@ -1,5 +1,5 @@
 ---
-title: "scandal Fr Brown — The Scandal of [[Father Brown]] (part 2)"
+title: "scandal Fr Brown — The Scandal of Father Brown (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/scandal-fr-brown-(chesterton)"

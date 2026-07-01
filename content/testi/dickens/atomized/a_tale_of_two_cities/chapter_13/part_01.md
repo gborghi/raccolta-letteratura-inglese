@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities — Chapter 6 (part 1)"
+title: "A Tale of Two Cities — Chapter 7 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-tale-of-two-cities-(dickens)"
@@ -10,122 +10,119 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/a-tale-of-two-cities-(dickens)">A Tale of Two Cities</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_11/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_13/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_12/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_13/part_02">part 02 ›</a></div>
 </nav>
 
 
-CHAPTER VI.
-Hundreds of People
+CHAPTER VII.
+Monseigneur in Town
 
 
-The quiet lodgings of [[Doctor Manette]] were in a quiet street-corner not
-far from Soho-square. On the afternoon of a certain fine [[Sunday]] when the
-waves of four months had rolled over the trial for treason, and carried
-it, as to the public interest and [[Memory|memory]], far out to sea, Mr. Jarvis
-Lorry walked along the sunny streets from Clerkenwell where he lived,
-on his way to dine with the Doctor. After several relapses into
-business-absorption, Mr. Lorry had become the Doctor’s friend, and the
-quiet street-corner was the sunny part of his life.
+Monseigneur, one of the great lords in power at the [[Court]], held his
+fortnightly reception in his grand hotel in [[Paris]]. Monseigneur was in
+his inner room, his sanctuary of sanctuaries, the Holiest of Holiests to
+the crowd of worshippers in the suite of rooms without. Monseigneur
+was about to take his chocolate. Monseigneur could [[Swallow|swallow]] a great many
+things with ease, and was by some few sullen minds supposed to be rather
+rapidly swallowing France; but, his morning’s chocolate could not so
+much as get into the throat of Monseigneur, without the aid of four
+strong men besides the Cook.
 
-On this certain fine [[Sunday]], Mr. Lorry walked towards Soho, early in
-the afternoon, for three reasons of habit. Firstly, because, on fine
-Sundays, he often walked out, before dinner, with the Doctor and Lucie;
-secondly, because, on unfavourable Sundays, he was accustomed to be with
-them as the family friend, talking, reading, looking out of [[Window|window]], and
-generally getting through the day; thirdly, because he happened to have
-his own little shrewd doubts to solve, and knew how the ways of the
-Doctor’s household pointed to that [[Time|time]] as a likely [[Time|time]] for solving
-them.
+Yes. It took four men, all four ablaze with gorgeous decoration, and the
+Chief of them unable to exist with fewer than two gold watches in his
+pocket, emulative of the noble and chaste fashion set by Monseigneur, to
+conduct the happy chocolate to Monseigneur’s lips. One lacquey carried
+the chocolate-pot into the sacred presence; a second, milled and frothed
+the chocolate with the little instrument he bore for that function;
+a third, presented the favoured napkin; a fourth (he of the two gold
+watches), poured the chocolate out. It was impossible for Monseigneur to
+dispense with one of these attendants on the chocolate and hold his high
+place under the admiring Heavens. Deep would have been the blot upon
+his escutcheon if his chocolate had been ignobly waited on by only three
+men; he must have died of two.
 
-A quainter corner than the corner where the Doctor lived, was not to be
-found in [[London]]. There was no way through it, and the front windows of
-the Doctor’s lodgings commanded a pleasant little vista of street that
-had a congenial air of retirement on it. There were few buildings then,
-north of the [[Oxford]]-[[Road|road]], and forest-trees flourished, and wild [[Flowers|flowers]]
-grew, and the hawthorn blossomed, in the now vanished fields. As a
-consequence, country airs circulated in Soho with vigorous [[Freedom|freedom]],
-instead of languishing into the parish like stray paupers without a
-settlement; and there was many a good south wall, not far off, on which
-the peaches ripened in their season.
+Monseigneur had been out at a little supper last [[Night|night]], where the [[Comedy]]
+and the Grand Opera were charmingly represented. Monseigneur was out at
+a little supper most nights, with fascinating company. So polite and so
+impressible was Monseigneur, that the [[Comedy]] and the Grand Opera had far
+more influence with him in the tiresome articles of state affairs and
+state [[Secrets|secrets]], than the needs of all France. A happy circumstance
+for France, as the like always is for all countries similarly
+favoured!--always was for England (by way of example), in the regretted
+days of the merry Stuart who sold it.
 
-The [[Summer|summer]] light struck into the corner brilliantly in the earlier part
-of the day; but, when the streets grew hot, the corner was in [[Shadow|shadow]],
-though not in [[Shadow|shadow]] so remote but that you could see beyond it into a
-glare of brightness. It was a cool spot, staid but cheerful, a wonderful
-place for echoes, and a very harbour from the raging streets.
+Monseigneur had one truly noble idea of general public business, which
+was, to let everything go on in its own way; of particular public
+business, Monseigneur had the other truly noble idea that it must all go
+his way--tend to his own power and pocket. Of his pleasures, general and
+particular, Monseigneur had the other truly noble idea, that the world
+was made for them. The text of his order (altered from the original
+by only a pronoun, which is not much) ran: “The earth and the fulness
+thereof are mine, saith Monseigneur.”
 
-There ought to have been a tranquil bark in such an anchorage, and
-there was. The Doctor occupied two floors of a large stiff [[house]], where
-several callings purported to be pursued by day, but whereof little was
-audible any day, and which was shunned by all of them at [[Night|night]]. In
-a building at the back, attainable by a courtyard where a plane-tree
-rustled its green [[Leaves|leaves]], church-organs claimed to be made, and silver
-to be chased, and likewise gold to be beaten by some mysterious giant
-who had a golden arm starting out of the wall of the front hall--as if
-he had beaten himself precious, and menaced a similar [[Conversion|conversion]] of all
-visitors. Very little of these trades, or of a lonely lodger rumoured
-to live up-stairs, or of a dim coach-trimming maker asserted to have
-a counting-[[house]] below, was ever heard or seen. Occasionally, a stray
-workman putting his coat on, traversed the hall, or a stranger peered
-about there, or a distant clink was heard across the courtyard, or a
-thump from the golden giant. These, however, were only the exceptions
-required to prove the rule that the sparrows in the plane-tree behind
-the [[house]], and the echoes in the corner before it, had their own way
-from [[Sunday]] morning unto Saturday [[Night|night]].
+Yet, Monseigneur had slowly found that vulgar embarrassments crept into
+his affairs, both private and public; and he had, as to both classes of
+affairs, allied himself perforce with a Farmer-General. As to finances
+public, because Monseigneur could not make anything at all of them, and
+must consequently let them out to somebody who could; as to finances
+private, because Farmer-Generals were rich, and Monseigneur, after
+generations of great luxury and expense, was growing poor. Hence
+Monseigneur had taken his sister from a convent, while there was yet
+[[Time|time]] to ward off the impending veil, the cheapest garment she could
+wear, and had bestowed her as a prize upon a very rich Farmer-General,
+poor in family. Which Farmer-General, carrying an appropriate cane with
+a golden apple on the top of it, was now among the company in the outer
+rooms, much prostrated before by mankind--always excepting superior
+mankind of the [[Blood|blood]] of Monseigneur, who, his own wife included, looked
+down upon him with the loftiest contempt.
 
-[[Doctor Manette]] received such patients here as his old reputation, and
-its revival in the floating whispers of his story, brought him.
-His scientific knowledge, and his vigilance and skill in conducting
-ingenious experiments, brought him otherwise into moderate request, and
-he earned as much as he wanted.
+A sumptuous man was the Farmer-General. Thirty horses stood in his
+stables, twenty-four male domestics sat in his halls, six [[Body|body]]-women
+waited on his wife. As one who pretended to do nothing but plunder and
+forage where he could, the Farmer-General--howsoever his matrimonial
+relations conduced to social [[morality]]--was at least the greatest reality
+among the personages who attended at the hotel of Monseigneur that day.
 
-These things were within Mr. [[Jarvis Lorry]]’s knowledge, thoughts, and
-notice, when he rang the door-bell of the tranquil [[house]] in the corner,
-on the fine [[Sunday]] afternoon.
-
-“[[Doctor Manette]] at [[Home|home]]?”
-
-Expected [[Home|home]].
-
-“Miss Lucie at [[Home|home]]?”
-
-Expected [[Home|home]].
-
-“[[Miss Pross]] at [[Home|home]]?”
-
-Possibly at [[Home|home]], but of a certainty impossible for handmaid to
-anticipate intentions of [[Miss Pross]], as to admission or denial of the
-fact.
-
-“As I am at [[Home|home]] myself,” said Mr. Lorry, “I’ll go upstairs.”
-
-Although the Doctor’s daughter had known nothing of the country of her
-birth, she appeared to have innately derived from it that ability to
-make much of little means, which is one of its most useful and most
-agreeable characteristics. Simple as the furniture was, it was set off
-by so many little adornments, of no value but for their taste and fancy,
-that its effect was delightful. The disposition of everything in the
-rooms, from the largest object to the least; the arrangement of colours,
-the elegant variety and contrast obtained by thrift in trifles, by
-delicate hands, clear eyes, and good sense; were at once so pleasant in
-themselves, and so expressive of their originator, that, as Mr. Lorry
-stood looking about him, the very chairs and tables seemed to ask him,
-with something of that peculiar expression which he knew so [[Well|well]] by this
-[[Time|time]], whether he approved?
-
-There were three rooms on a floor, and, the doors by which they
-communicated being put open that the air might pass freely through them
-all, Mr. Lorry, smilingly observant of that fanciful resemblance which
-he detected all around him, walked from one to another. The first was
-the best room, and in it were Lucie’s [[Birds|birds]], and [[Flowers|flowers]], and books,
-and desk, and work-table, and box of [[Water|water]]-colours; the second was
-the Doctor’s consulting-room, used also as the dining-room; the third,
-changingly speckled by the rustle of the plane-tree in the yard, was the
-Doctor’s bedroom, and there, in a corner, stood the disused shoemaker’s
-bench and tray of tools, much as it had stood on the fifth floor of the
-dismal [[house]] by the wine-shop, in the suburb of Saint Antoine in [[Paris]].
-
-“I [[Wonder|wonder]],” said Mr. Lorry, pausing in his looking about, “that he keeps
-that reminder of his sufferings about him!”
-
-“And why [[Wonder|wonder]] at that?” was the abrupt inquiry that made him start.
+For, the rooms, though a beautiful scene to look at, and adorned with
+every device of decoration that the taste and skill of the [[Time|time]] could
+achieve, were, in [[Truth|truth]], not a sound business; considered with any
+reference to the scarecrows in the rags and nightcaps elsewhere (and not
+so far off, either, but that the watching towers of Notre Dame, almost
+equidistant from the two extremes, could see them both), they would
+have been an exceedingly uncomfortable business--if that could have
+been anybody’s business, at the [[house]] of Monseigneur. Military officers
+destitute of military knowledge; naval officers with no idea of a [[Ship|ship]];
+civil officers without a notion of affairs; brazen ecclesiastics, of the
+worst world worldly, with sensual eyes, loose tongues, and looser lives;
+all totally unfit for their several callings, all lying horribly in
+pretending to belong to them, but all nearly or remotely of the order of
+Monseigneur, and therefore foisted on all public employments from which
+anything was to be got; these were to be told off by the score and the
+score. People not immediately connected with Monseigneur or the State,
+yet equally unconnected with anything that was real, or with lives
+passed in travelling by any straight [[Road|road]] to any true earthly end, were
+no less abundant. Doctors who made great fortunes out of dainty remedies
+for imaginary disorders that never existed, smiled upon their courtly
+patients in the ante-chambers of Monseigneur. Projectors who had
+discovered every kind of remedy for the little evils with which the
+State was touched, except the remedy of setting to work in earnest to
+root out a single sin, poured their distracting babble into any ears
+they could lay hold of, at the reception of Monseigneur. Unbelieving
+Philosophers who were remodelling the world with words, and making
+card-towers of Babel to scale the skies with, talked with Unbelieving
+Chemists who had an eye on the transmutation of metals, at this
+wonderful gathering accumulated by Monseigneur. Exquisite gentlemen of
+the finest breeding, which was at that remarkable [[Time|time]]--and has been
+since--to be known by its fruits of indifference to every natural
+subject of human interest, were in the most exemplary state of
+exhaustion, at the hotel of Monseigneur. Such homes had these various
+notabilities left behind them in the fine world of [[Paris]], that the spies
+among the assembled devotees of Monseigneur--forming a goodly half
+of the polite company--would have found it hard to discover among
+the angels of that sphere one solitary wife, who, in her manners and
+appearance, owned to being a Mother. Indeed, except for the mere act of
+bringing a troublesome creature into this world--which does not go far
+towards the realisation of the name of mother--there was no such thing
+known to the fashion. Peasant women kept the unfashionable babies close,
+and brought them up, and charming grandmammas of sixty dressed and
+supped as at twenty.

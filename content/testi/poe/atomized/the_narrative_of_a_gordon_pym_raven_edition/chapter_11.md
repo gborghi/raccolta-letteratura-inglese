@@ -208,7 +208,7 @@ CHAPTER 11
 
       [[Death|death]] by famine, or, at the best, by being overwhelmed in the
 
-      first gale which should [[Spring|spring]] up, for in our present exhausted
+      first gale which should [[spring]] up, for in our present exhausted
 
       condition we could have no [[Hope|hope]] of living through another.
 
@@ -380,7 +380,7 @@ CHAPTER 11
 
       at once with a consciousness of their condition, when they would
 
-      [[Spring|spring]] upon their feet in a momentary flash of vigour, and speak,
+      [[spring]] upon their feet in a momentary flash of vigour, and speak,
 
       for a short period, of their prospects, in a manner altogether
 

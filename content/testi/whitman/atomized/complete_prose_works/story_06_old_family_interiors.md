@@ -1,0 +1,172 @@
+---
+title: "Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Old Family Interiors"
+author: "Whitman"
+unitType: story
+parentWork: "works/complete-prose-works-specimen-days-and-collect,-november-boughs-and-goodbye-my-fancy-(whitman)"
+tags:
+  - graph/excerpt
+  - author/Whitman
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Whitman · <a href="/works/complete-prose-works-specimen-days-and-collect,-november-boughs-and-goodbye-my-fancy-(whitman)">Complete Prose Works</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/whitman/atomized/complete_prose_works/story_05_the_maternal_homestead">‹ Story 05 The Maternal Homestead</a><a class="ex-next" href="/testi/whitman/atomized/complete_prose_works/story_07_my_first_reading_lafayette">Story 07 My First Reading Lafayette ›</a></div>
+</nav>
+
+
+TWO OLD FAMILY INTERIORS
+
+Of the domestic and inside life of the middle of Long Island, at and
+just before that [[Time|time]], here are two samples:
+
+"The Whitmans, at the beginning of the present century, lived in a long
+story-and-a-half farm-[[house]], hugely timber'd, which is still standing.
+A great smoke-canopied kitchen, with vast hearth and chimney, form'd one
+end of the [[house]]. The existence of [[Slavery|slavery]] in [[New York]] at that [[Time|time]], and
+the possession by the family of some twelve or fifteen slaves, [[house]] and
+field servants, gave things quite a patriarchial look. The very young
+darkies could be seen, a swarm of them, toward sundown, in this kitchen,
+squatted in a circle on the floor, eating their supper of Indian pudding
+and milk. In the [[house]], and in food and furniture, all was rude, but
+substantial. No carpets or stoves were known, and no coffee, and tea or
+sugar only for the women. Rousing wood fires gave both warmth and light
+on [[Winter|winter]] nights. Pork, poultry, beef, and all the ordinary vegetables
+and grains were plentiful. Cider was the men's common drink, and used at
+meals. The clothes were mainly homespun. Journeys were made by both men
+and women on horseback. Both sexes labor'd with their own hands-the men
+on the farm--the women in the [[house]] and around it. Books were scarce.
+The annual copy of the almanac was a treat, and was pored over through
+the long [[Winter|winter]] evenings. I must not forget to mention that both these
+families were near enough to the sea to behold it from the high places,
+and to hear in still hours the roar of the surf; the latter, after
+a [[Storm|storm]], giving a peculiar sound at [[Night|night]]. Then all hands, male and
+female, went down frequently on beach and bathing parties, and the men
+on practical expeditions for cutting salt hay, and for clamming and
+fishing."--_John Burroughs's_ NOTES.
+
+"The ancestors of Walt Whitman, on both the paternal and maternal
+sides, kept a good table, sustained the hospitalities, decorums, and an
+excellent social reputation in the county, and they were often of mark'd
+individuality. If space permitted, I should consider some of the men
+worthy special description; and still more some of the women. His
+great-grandmother on the paternal side, for instance, was a large
+swarthy woman, who lived to a very old age. She smoked tobacco, rode on
+horseback like a man, managed the most vicious [[Horse|horse]], and, becoming
+a widow in later life, went forth every day over her farm-lands,
+frequently in the saddle, directing the labor of her slaves, in
+language in which, on exciting occasions, oaths were not spared. The
+two immediate grandmothers were, in the best sense, superior women. The
+maternal one (Amy Williams before [[Marriage|marriage]]) was a Friend, or Quakeress,
+of sweet, sensible character, [[house]]-wifely proclivities, and deeply
+intuitive and spiritual. The other (Hannah Brush,) was an equally noble,
+perhaps stronger character, lived to be very old, had quite a family of
+sons, was a natural lady, was in early life a school-mistress, and had
+great solidity of mind. W. W. himself makes much of the women of his
+ancestry."--_The Same_.
+
+Out from these arrieres of persons and scenes, I was born May 31,
+1819. And now to dwell awhile on the locality itself--as the successive
+growth-stages of my infancy, [[Childhood|childhood]], youth and manhood were all
+pass'd on Long Island, which I sometimes feel as if I had incorporated.
+I roam'd, as boy and man, and have lived in nearly all parts, from
+Brooklyn to Montauk point.
+
+PAUMANOK, AND MY LIFE ON IT AS [[Child|CHILD]] AND YOUNG MAN
+
+Worth fully and particularly investigating indeed this Paumanok, (to
+give the spot its aboriginal name[3],) stretching east through Kings,
+Queens and Suffolk counties, 120 miles altogether--on the north Long
+Island sound, a beautiful, varied and picturesque series of inlets,
+"necks" and sea-like expansions, for a hundred miles to [[Orient]] point.
+On the ocean side the great south bay dotted with countless hummocks,
+mostly small, some quite large, occasionally long bars of sand out two
+hundred rods to a mile-and-a-half from the shore. While now and then,
+as at Rockaway and far east along the Hamptons, the beach makes right
+on the island, the sea dashing up without intervention. Several
+light-houses on the shores east; a long [[history]] of wrecks tragedies,
+some even of late years. As a youngster, I was in the atmosphere and
+traditions of many of these wrecks--of one or two almost an observer.
+Off Hempstead beach for example, was the loss of the [[Ship|ship]] "Mexico" in
+1840, (alluded to in "the Sleepers" in L. of G.) And at Hampton, some
+years later, the destruction of the brig "Elizabeth," a fearful affair,
+in one of the worst [[Winter|winter]] gales, where Margaret Fuller went down, with
+her husband and [[Child|child]].
+
+Inside the outer bars or beach this south bay is everywhere
+comparatively shallow; of cold winters all thick ice on the surface.
+As a boy I often went forth with a chum or two, on those frozen fields,
+with hand-sled, axe and eel-spear, after messes of eels. We would cut
+holes in the ice, sometimes striking quite an eel-bonanza, and filling
+our baskets with great, fat, sweet, white-meated fellows. The scenes,
+the ice, drawing the hand-sled, cutting holes, spearing the eels, &c.,
+were of course just such fun as is dearest to boyhood. The shores of
+this bay, [[Winter|winter]] and [[Summer|summer]], and my doings there in early life, are
+woven all through L. of G. One sport I was very fond of was to go on
+a bay-party in [[Summer|summer]] to gather sea-gull's eggs. (The gulls lay two or
+three eggs, more than half the size of hen's eggs, right on the sand,
+and leave the sun's heat to hatch them.)
+
+The eastern end of Long Island, the Peconic bay region, I knew quite
+[[Well|well]] too--sail'd more than once around Shelter island, and down to
+Montauk--spent many an hour on Turtle [[Hill|hill]] by the old light-[[house]], on
+the extreme point, looking out over the ceaseless roll of the Atlantic.
+I used to like to go down there and fraternize with the blue-fishers,
+or the annual squads of sea-bass takers. Sometimes, along Montauk
+peninsula, (it is some 15 miles long, and good grazing,) met the
+strange, unkempt, half-barbarous herdsmen, at that [[Time|time]] living there
+entirely aloof from society or civilization, in charge, on those rich
+pasturages, of vast droves of horses, kine or sheep, own'd by farmers
+of the eastern towns. Sometimes, too, the few remaining Indians, or
+half-breeds, at that period left on Montauk peninsula, but now I believe
+altogether extinct.
+
+More in the middle of the island were the spreading Hempstead plains,
+then (1830-'40) quite prairie-like, open, uninhabited, rather sterile,
+cover'd with kill-calf and huckleberry bushes, yet plenty of fair
+pasture for the cattle, mostly milch-cows, who fed there by hundreds,
+even thousands, and at evening, (the plains too were own'd by the towns,
+and this was the use of them in common,) might be seen taking their way
+[[Home|home]], branching off regularly in the right places. I have often been out
+on the edges of these plains toward sundown, and can yet recall in
+fancy the interminable cow-processions, and hear the music of the tin or
+copper [[Bells|bells]] clanking far or near, and breathe the cool of the sweet and
+slightly aromatic evening air, and note the sunset.
+
+Through the same region of the island, but further east, extended wide
+central tracts of pine and scrub-oak, (charcoal was largely made here,)
+monotonous and sterile. But many a good day or half-day did I have,
+wandering through those solitary crossroads, inhaling the peculiar
+and wild aroma. Here, and all along the island and its shores, I spent
+intervals many years, all [[Seasons|seasons]], sometimes riding, sometimes boating,
+but generally afoot, (I was always then a good walker,) absorbing
+fields, shores, marine incidents, characters, the bay-men, farmers,
+pilots-always had a plentiful acquaintance with the latter, and with
+fishermen--went every [[Summer|summer]] on sailing trips--always liked the bare
+sea-beach, south side, and have some of my happiest hours on it to this
+day.
+
+As I write, the whole experience comes back to me after the lapse of
+forty and more years--the soothing rustle of the waves, and the saline
+smell--boyhood's times, the clam-digging, bare-foot, and with trowsers
+roll'd up--hauling down the creek--the perfume of the sedge-meadows--the
+hay-boat, and the chowder and fishing excursions;--or, of later years,
+little voyages down and out [[New York]] bay, in the pilot boats. Those same
+later years, also, while living in Brooklyn, (1836-'50) I went regularly
+every week in the mild [[Seasons|seasons]] down to Coney Island, at that [[Time|time]] a
+long, bare unfrequented shore, which I had all to myself, and where I
+loved, after bathing, to race up and down the hard sand, and declaim
+Homer or Shakspere to the surf and sea gulls by the hour. But I am
+getting ahead too rapidly, and must keep more in my traces.
+
+Note:
+
+[3] "Paumanok, (or Paumanake, or Paumanack, the Indian name of Long
+Island,) over a hundred miles long; shaped like a fish--plenty of sea
+shore, sandy, stormy, uninviting, the horizon boundless, the air too
+strong for invalids, the bays a wonderful resort for aquatic [[Birds|birds]],
+the south-side meadows cover'd with salt hay, the soil of the island
+generally tough, but good for the locust-tree, the apple orchard, and
+the blackberry, and with numberless springs of the sweetest [[Water|water]] in the
+world. Years ago, among the bay-men--a strong, wild race, now extinct,
+or rather entirely changed--a native of Long Island was called a
+_Paumanacker_, or _Creole-'Paumanacker_."--_John Burroughs_.

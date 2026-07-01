@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 15 (part 3)"
+title: "Persuasion — Chapter 15 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_15/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_16/part_01">part 01 ›</a></div>
 </nav>
 
+
+into the room.
+
+
+
+It was the same, the very same man, with no difference but of dress.
+
+Anne drew a little back, while the others received his compliments, and
+
+her sister his apologies for calling at so unusual an hour, but “he
+
+could not be so near without wishing to know that neither she nor her
 
 friend had taken cold the day before,” &c. &c.; which was all as
 

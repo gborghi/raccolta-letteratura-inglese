@@ -1,5 +1,5 @@
 ---
-title: "[[TheCrimesOfEngland]] — Chapter 10 (part 15)"
+title: "TheCrimesOfEngland — Chapter 10 (part 15)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thecrimesofengland-(chesterton)"
@@ -14,6 +14,78 @@ tags:
 </nav>
 
 
+was round him that the politicians like Pitt chopped and changed, like
+
+fakirs dancing round a sacred rock. His secret is buried with him; it is
+
+that he really cared about the English people. He was conservative
+
+because he cared for their past, and liberal because he cared for their
+
+future. But he was much more than this. He had two forms of moral
+
+manhood very rare in our [[Time|time]]: he was ready to uproot ancient successes,
+
+and he was ready to defy oncoming doom. Burke said that few are the
+
+partisans of a tyranny that has departed: he might have added that fewer
+
+still are the critics of a tyranny that has remained. Burke certainly
+
+was not one of them. While lashing himself into a lunacy against the
+
+[[French Revolution]], which only very incidentally destroyed the property
+
+of the rich, he never criticised (to do him justice, perhaps never saw)
+
+the English Revolution, which began with the sack of convents, and ended
+
+with the fencing in of enclosures; a revolution which sweepingly and
+
+systematically destroyed the property of the poor. While rhetorically
+
+putting the Englishman in a [[Castle|castle]], politically he would not allow him
+
+on a common. Cobbett, a much more historical thinker, saw the beginning
+
+of Capitalism in the Tudor pillage and deplored it; he saw the triumph
+
+of Capitalism in the industrial cities and defied it. The [[Paradox|paradox]] he was
+
+maintaining really amounted to the assertion that Westminster Abbey is
+
+rather more national than Welbeck Abbey. The same [[Paradox|paradox]] would have led
+
+him to maintain that a Warwickshire man had more reason to be proud of
+
+Stratford-on-Avon than of Birmingham. He would no more have thought of
+
+looking for England in Birmingham than of looking for Ireland in
+
+Belfast.
+
+The prestige of Cobbett's excellent literary style has survived the
+
+persecution of his equally excellent opinions. But that style also is
+
+underrated through the loss of the real English tradition. More cautious
+
+schools have missed the fact that the very genius of the English tongue
+
+tends not only to vigour, but specially to violence. The Englishman of
+
+the leading articles is calm, moderate, and restrained; but then the
+
+Englishman of the leading articles is a Prussian. The mere English
+
+consonants are full of Cobbett. Dr. Johnson was our great man of letters
+
+when he said "stinks," not when he said "putrefaction." Take some common
+
+phrase like "raining cats and [[dogs]]," and note not only the extravagance
+
+of imagery (though that is very Shakespearean), but a jagged energy in
+
 the very spelling. Say "chats" and "chiens" and it is not the same.
 
 Perhaps the old national genius has survived the urban enslavement most
@@ -24,15 +96,11 @@ continental culture, by Mr. George Moore as by Mr. Belloc. One (to
 
 which I am much attached) had a [[Chorus|chorus]]--
 
-
-
   "O [[Wind|wind]] from the South
 
   Blow mud in the mouth
 
   Of Jane, Jane, Jane."
-
-
 
 Note, again, not only the tremendous vision of clinging soils carried
 
@@ -43,8 +111,6 @@ Say "bone" and "bouche" for mud and mouth and it is not the same.
 Cobbett was a [[Wind|wind]] from the South; and if he occasionally seemed to stop
 
 his enemies' mouths with mud, it was the real soil of South England.
-
-
 
 And as his seemingly mad language is very literary, so his seemingly mad
 
@@ -98,8 +164,6 @@ and not very attractive even as a sinner. He was no more a martyr for
 
 being burned than Crippen for being hanged.
 
-
-
 Cobbett was defeated because the English people was defeated. After the
 
 frame-breaking riots, men, as men, were beaten: and machines, as
@@ -121,89 +185,3 @@ inherited the same instinct for abrupt diction, and probably enjoyed
 writing "gas and gaiters" more than any two other words in his works.
 
 But Dickens was narrower than Cobbett, not by any fault of his own, but
-
-because in the intervening epoch of the triumph of Scrooge and Gradgrind
-
-the link with our Christian past had been lost, save in the single
-
-matter of Christmas, which Dickens rescued romantically and by a
-
-hair's-breadth escape. Cobbett was a yeoman; that is, a man free and
-
-farming a small estate. By Dickens's [[Time|time]], yeomen seemed as antiquated
-
-as bowmen. Cobbett was mediaeval; that is, he was in almost every way
-
-the opposite of what that word means to-day. He was as egalitarian as
-
-St. Francis, and as independent as [[Robin Hood]]. Like that other yeoman in
-
-the ballad, he bore in hand a mighty bow; what some of his enemies would
-
-have called a long bow. But though he sometimes overshot the mark of
-
-[[Truth|truth]], he never shot away from it, like Froude. His account of that
-
-sixteenth century in which the mediaeval civilisation ended, is not more
-
-and not less picturesque than Froude's: the difference is in the dull
-
-detail of [[Truth|truth]]. That crisis was _not_ the foundling of a strong Tudor
-
-monarchy, for the monarchy almost immediately perished; it _was_ the
-
-founding of a strong class holding all the capital and land, for it
-
-holds them to this day. Cobbett would have asked nothing better than to
-
-bend his mediaeval bow to the cry of "St. George for Merry England," for
-
-though he pointed to the other and uglier side of the Waterloo medal,
-
-he was patriotic; and his premonitions were rather against Blucher than
-
-Wellington. But if we take that old war-cry as his final word (and he
-
-would have accepted it) we must note how every term in it points away
-
-from what the modern plutocrats call either progress or empire. It
-
-involves the invocation of saints, the most popular and the most
-
-forbidden form of mediævalism. The modern Imperialist no more thinks of
-
-St. George in England than he thinks of St. John in St. John's Wood. It
-
-is nationalist in the narrowest sense; and no one knows the [[Beauty|beauty]] and
-
-simplicity of the Middle Ages who has not seen St. George's [[Cross]]
-
-separate, as it was at Creçy or Flodden, and noticed how much finer a
-
-[[Flag|flag]] it is than the [[Union]] Jack. And the word "merry" bears witness to an
-
-England famous for its music and dancing before the coming of the
-
-Puritans, the last traces of which have been stamped out by a social
-
-discipline utterly un-English. Not for two years, but for ten decades
-
-Cobbett has been in [[Prison|prison]]; and his enemy, the "efficient" foreigner,
-
-has walked about in the sunlight, magnificent, and a model for men. I
-
-do not think that even the Prussians ever boasted about "Merry Prussia."
-
-
-
-
-
-
-
-VI--_Hamlet and the Danes_
-
-
-
-
-
-In the one classic and perfect literary product that ever came out of

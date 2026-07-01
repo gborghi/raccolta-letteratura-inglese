@@ -20,7 +20,7 @@ IN a sense so gigantic that it would have staggered the statesman
 who once used the phrase, we have called in the new world to redress
 the balance of the old.  The new world has found new worlds to conquer;
 it has new tasks not only drastic but delicate, not only political
-but psychological.  Among the things which [[America]] may yet
+but psychological.  Among the things which [[america|America]] may yet
 help us to achieve is one about which I feel strongly and even
 painfully--the [[Reconciliation|reconciliation]], a thousand times thwarted but now
 a thousand times more necessary, between the English and the Irish.
@@ -35,8 +35,8 @@ A famous Irishman said of the Irish that they were too poetical to
 be poets, but that they were the greatest talkers since the Greeks.
 My personal [[Memory|memory]] does not stretch back to the greatest period
 of Greece; and perhaps the best talker I ever knew was an Irishman,
-who is now living in [[America]] and (I will confidently affirm)
-talking in [[America]].  It may be true that he is too poetical to be
+who is now living in [[america|America]] and (I will confidently affirm)
+talking in [[america|America]].  It may be true that he is too poetical to be
 a poet; anyhow, he is not too poetical to be the father of a poet.
 He is Mr. J. B. Yeats, the father of Mr. W. B. Yeats; and he has lately
 been persuaded to write and print some of the good things he has said

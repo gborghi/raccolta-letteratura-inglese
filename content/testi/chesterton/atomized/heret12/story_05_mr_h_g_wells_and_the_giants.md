@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]] — Mr. H. G. Wells and the Giants"
+title: "heret12 — Mr. H. G. Wells and the Giants"
 author: "Chesterton"
 unitType: story
 parentWork: "works/heret12-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 V. Mr. H. G. Wells and the Giants
-
 
 We ought to see far enough into a hypocrite to see even his sincerity.
 We ought to be interested in that darkest and most real part
@@ -121,7 +120,7 @@ They are becoming conscious of their own strength--that is,
 they are growing weaker.  But one purely modern man has emerged
 in the strictly modern decades who does carry into our world
 the clear personal simplicity of the old world of science.
-One man of genius we have who is an [[artist]], but who was a man
+One man of genius we have who is an [[Artist|artist]], but who was a man
 of science, and who seems to be marked above all things with this
 great scientific [[Humility|humility]].  I mean Mr. H. G. Wells.  And in his case,
 as in the others above spoken of, there must be a great preliminary
@@ -502,10 +501,7 @@ old stories of the sturdy and fighting English.  And the thing
 that they find written across that fierce old literature everywhere,
 is "the policy of Majuba."
 
-
-
 VI.  Christmas and the Aesthetes
-
 
 The world is round, so round that the schools of optimism and pessimism
 have been arguing from the beginning whether it is the right way up.

@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 26 (part 3)"
+title: "Shirley — Chapter 26 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,36 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_26/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_26/part_04">part 04 ›</a></div>
 </nav>
 
+
+"I thought you must have been aware of the circumstance."
+
+
+
+"[[Well]]! what then?"
+
+
+
+"It puzzles me to guess how it chanced that you never mentioned it to
+
+me."
+
+
+
+"Why should it puzzle you?"
+
+
+
+"It seems odd. I cannot account for it. You talk a great deal--you talk
+
+freely. How was that circumstance never touched on?"
+
+
+
+"Because it never was," and [[Shirley]] laughed.
+
+
+
+"You are a singular being!" observed her friend. "I thought I knew you
 
 quite [[Well|well]]; I begin to find myself mistaken. You were silent as the
 
@@ -233,29 +263,3 @@ to herself, "and that renders [[Shirley]] so distant to him. Yet I [[Wonder|wond
 she cannot make allowance for character and circumstances. I [[Wonder|wonder]] the
 
 general modesty, manliness, sincerity of his [[Nature|nature]] do not plead with
-
-her in his behalf. She is not often so inconsiderate, so irritable."
-
-
-
-       *       *       *       *       *
-
-
-
-The verbal testimony of two friends of Caroline's to her cousin's
-
-character augmented her favourable opinion of him. William Farren, whose
-
-cottage he had visited in company with Mr. Hall, pronounced him a "real
-
-gentleman;" there was not such another in Briarfield.
-
-He--William--"could do aught for that man. And then to see how t' bairns
-
-liked him, and how t' wife took to him first minute she saw him. He
-
-never went into a [[house]] but t' childer wor about him directly. Them
-
-little things wor like as if they'd a keener sense nor grown-up folks i'
-
-finding our folk's natures."

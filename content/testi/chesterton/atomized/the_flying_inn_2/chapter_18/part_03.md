@@ -143,24 +143,3 @@ from the seats on which they sat; and to hear a senile
 voice with an Essex accent, saying, all on one note,
 and without beginning or end, in a manner which
 it is quite impossible to punctuate,
-
-". . . no wish at all that this proposal should be
-regarded except in the right way and have tried to put it
-in the right way and cannot think the honourable member
-was altogether adding to his reputation in putting it in
-what those who think with me must of course consider the
-wrong way and I for one am free to say that if in his [[Desire|desire]]
-to settle this great question he takes this hasty course and
-this revolutionary course about slate pencils he may not
-be able to prevent the extremists behind him from applying
-it to lead pencils and while I should be the last to increase
-the heat and the excitement and the personalities of this
-[[debate]] if I could possibly help it I must confess that in
-my opinion the honourable gentleman has himself encouraged
-that heat and personality in a manner that he now
-doubtless regrets I have no [[Desire|desire]] to use abusive terms indeed
-you Mr. Speaker would not allow me of course to use
-abusive terms but I must tell the honourable member face
-to face that the perambulators with which he has twitted
-me cannot be germane to this discussion I should be the
-last person. . . ."

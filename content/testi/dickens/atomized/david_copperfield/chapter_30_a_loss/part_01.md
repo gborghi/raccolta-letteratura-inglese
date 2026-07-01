@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 30: A LOSS (part 1)"
+title: "David Copperfield — Chapter 30: A LOSS (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -136,5 +136,3 @@ affectionate little thing. The proverb says, “You can’t make a silk
 purse out of a sow’s ear.” [[Well]], I don’t know about that. I rather think
 you may, if you begin early in life. She has made a [[Home|home]] out of that old
 boat, sir, that [[Stone and Marble|stone and marble]] couldn’t beat.’
-
-‘I am sure she has!’ said I.

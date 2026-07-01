@@ -118,7 +118,3 @@ ancient sun-dial on the belfry wall was nearly hidden by the
 [[Snow|snow]]-drift, and scarcely to be known for what it was.  [[Time]] itself
 seemed to have grown dull and old, as if no day were ever to displace
 the [[Melancholy|melancholy]] [[Night|night]].
-
-A wicket gate was close at hand, but there was more than one path
-across the churchyard to which it led, and, uncertain which to take,
-they came to a stand again.

@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 11 (part 2)"
+title: "Our Mutual Friend — Chapter 14 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,128 +14,129 @@ tags:
 </nav>
 
 
-‘I know quite as much of him,’ said Bradley, with a frown and a distant
-look before him, ‘as I want to know.’
+‘Mr Boffin, if I confess to you that I fell into a proposal of which you
+were the subject, and of which you oughtn’t to have been the subject,
+you will allow me to mention, and will please take into favourable
+consideration, that I was in a crushed state of mind at the [[Time|time]].’
 
-‘Hooroar!’ cried the man. ‘Hooroar T’other t’other Governor. Hooroar
-T’otherest Governor! I am of your way of thinkin’.’
+The Golden Dustman, with his hands folded on the top of his stout
+stick, with his chin resting upon them, and with something leering and
+whimsical in his eyes, gave a nod, and said, ‘Quite so, [[Venus]].’
 
-‘Don’t make such a noise at this dead hour of the [[Night|night]]. What are you
-talking about?’
+‘That proposal, sir, was a conspiring breach of your confidence, to
+such an extent, that I ought at once to have made it known to you. But I
+didn’t, Mr Boffin, and I fell into it.’
 
-‘Look here, T’otherest Governor,’ replied the man, becoming hoarsely
-confidential. ‘The T’other Governor he’s always joked his jokes agin me,
-owing, as I believe, to my being a honest man as gets my living by the
-sweat of my brow. Which he ain’t, and he don’t.’
+Without moving eye or finger, Mr Boffin gave another nod, and placidly
+repeated, ‘Quite so, [[Venus]].’
 
-‘What is that to me?’
+‘Not that I was ever hearty in it, sir,’ the penitent anatomist went
+on, ‘or that I ever viewed myself with anything but reproach for having
+turned out of the paths of science into the paths of—’ he was going
+to say ‘villany,’ but, unwilling to press too hard upon himself,
+substituted with great emphasis—‘Weggery.’
 
-‘T’otherest Governor,’ returned the man in a tone of injured [[innocence]],
-‘if you don’t care to hear no more, don’t hear no more. You begun it.
-You said, and likeways showed pretty plain, as you warn’t by no means
-friendly to him. But I don’t seek to force my company nor yet my
-opinions on no man. I am a honest man, that’s what I am. Put me in the
-dock anywhere—I don’t care where—and I says, “My Lord, I am a honest
-man.” Put me in the witness-box anywhere—I don’t care where—and I
-says the same to his lordship, and I kisses the book. I don’t kiss my
-coat-cuff; I kisses the book.’
+Placid and whimsical of look as ever, Mr Boffin answered:
 
-It was not so much in deference to these strong testimonials to
-character, as in his restless casting about for any way or help towards
-the discovery on which he was concentrated, that [[Bradley Headstone]]
-replied: ‘You needn’t take offence. I didn’t mean to stop you. You were
-too—loud in the open street; that was all.’
+‘Quite so, [[Venus]].’
 
-‘’Totherest Governor,’ replied Mr Riderhood, mollified and mysterious,
-‘I know wot it is to be loud, and I know wot it is to be soft. Nat’rally
-I do. It would be a [[Wonder|wonder]] if I did not, being by the Chris’en name of
-Roger, which took it arter my own father, which took it from his own
-father, though which of our fam’ly fust took it nat’ral I will not in
-any ways mislead you by undertakin’ to say. And wishing that your elth
-may be better than your looks, which your inside must be bad indeed if
-it’s on the footing of your out.’
+‘And now, sir,’ said [[Venus]], ‘having prepared your mind in the rough, I
+will articulate the details.’ With which brief professional exordium, he
+entered on the [[history]] of the friendly move, and truly recounted it. One
+might have thought that it would have extracted some show of surprise or
+anger, or other emotion, from Mr Boffin, but it extracted nothing beyond
+his former comment:
 
-Startled by the implication that his face revealed too much of his mind,
-Bradley made an effort to clear his brow. It might be worth knowing what
-this strange man’s business was with Lightwood, or Wrayburn, or both, at
-such an unseasonable hour. He set himself to find out, for the man might
-prove to be a messenger between those two.
+‘Quite so, [[Venus]].’
 
-‘You call at the Temple late,’ he remarked, with a lumbering show of
-ease.
+‘I have astonished you, sir, I believe?’ said [[Mr Venus]], pausing
+dubiously.
 
-‘Wish I may die,’ cried Mr Riderhood, with a hoarse laugh, ‘if I warn’t
-a goin’ to say the [[Self|self]]-same words to you, T’otherest Governor!’
+Mr Boffin simply answered as aforesaid: ‘Quite so, [[Venus]].’
 
-‘It chanced so with me,’ said Bradley, looking disconcertedly about him.
+By this [[Time|time]] the astonishment was all on the other side. It did not,
+however, so continue. For, when [[Venus]] passed to Wegg’s discovery, and
+from that to their having both seen Mr Boffin dig up the Dutch bottle,
+that gentleman changed colour, changed his attitude, became extremely
+restless, and ended (when [[Venus]] ended) by being in a state of manifest
+anxiety, trepidation, and confusion.
 
-‘And it chanced so with me,’ said Riderhood. ‘But I don’t mind telling
-you how. Why should I mind telling you? I’m a Deputy Lock-keeper up the
-[[River|river]], and I was off duty yes’day, and I shall be on to-morrow.’
+‘Now, sir,’ said [[Venus]], finishing off; ‘you best know what was in that
+Dutch bottle, and why you dug it up, and took it away. I don’t pretend
+to know anything more about it than I saw. All I know is this: I am
+proud of my calling after all (though it has been attended by one
+dreadful drawback which has told upon my heart, and almost equally upon
+my [[skeleton]]), and I mean to live by my calling. Putting the same meaning
+into other words, I do not mean to turn a single dishonest penny by this
+affair. As the best amends I can make you for having ever gone into it,
+I make known to you, as a warning, what Wegg has found out. My opinion
+is, that Wegg is not to be silenced at a modest price, and I build that
+opinion on his beginning to dispose of your property the moment he knew
+his power. Whether it’s worth your while to [[Silence|silence]] him at any price,
+you will decide for yourself, and take your measures accordingly. As
+far as I am concerned, I have no price. If I am ever called upon for
+the [[Truth|truth]], I tell it, but I want to do no more than I have now done and
+ended.’
 
-‘Yes?’
+‘Thank’ee, [[Venus]]!’ said Mr Boffin, with a hearty grip of his hand;
+‘thank’ee, [[Venus]], thank’ee, [[Venus]]!’ And then walked up and down the
+little shop in great agitation. ‘But look here, [[Venus]],’ he by-and-by
+resumed, nervously sitting down again; ‘if I have to buy Wegg up, I
+shan’t buy him any cheaper for your being out of it. Instead of his
+having half the money—it was to have been half, I suppose? Share and
+share alike?’
 
-‘Yes, and I come to [[London]] to look arter my private affairs. My private
-affairs is to get appinted to the Lock as reg’lar keeper at fust hand,
-and to have the law of a busted B’low-Bridge steamer which drownded of
-me. I ain’t a goin’ to be drownded and not paid for it!’
+‘It was to have been half, sir,’ answered [[Venus]].
 
-Bradley looked at him, as though he were claiming to be a [[Ghost]].
+‘Instead of that, he’ll now have all. I shall pay the same, if not more.
+For you tell me he’s an unconscionable dog, a ravenous rascal.’
 
-‘The steamer,’ said Mr Riderhood, obstinately, ‘run me down and drownded
-of me. Interference on the part of other parties brought me round; but
-I never asked ’em to bring me round, nor yet the steamer never asked ’em
-to it. I mean to be paid for the life as the steamer took.’
+‘He is,’ said [[Venus]].
 
-‘Was that your business at Mr Lightwood’s chambers in the middle of the
-[[Night|night]]?’ asked Bradley, eyeing him with distrust.
+‘Don’t you think, [[Venus]],’ insinuated Mr Boffin, after looking at the
+[[Fire|fire]] for a while—‘don’t you feel as if—you might like to pretend to be
+in it till Wegg was bought up, and then ease your mind by handing over
+to me what you had made believe to pocket?’
 
-‘That and to get a writing to be fust-hand Lock Keeper. A recommendation
-in writing being looked for, who else ought to give it to me? As I says
-in the letter in my daughter’s hand, with my mark put to it to make it
-good in law, Who but you, Lawyer Lightwood, ought to hand over this here
-stifficate, and who but you ought to go in for damages on my account
-agin the Steamer? For (as I says under my mark) I have had trouble
-enough along of you and your friend. If you, Lawyer Lightwood, had
-backed me good and true, and if the T’other Governor had took me down
-correct (I says under my mark), I should have been worth money at the
-present [[Time|time]], instead of having a barge-load of bad names chucked at me,
-and being forced to eat my words, which is a unsatisfying sort of food
-wotever a man’s appetite! And when you mention the middle of the [[Night|night]],
-T’otherest Governor,’ growled Mr Riderhood, winding up his monotonous
-summary of his wrongs, ‘throw your eye on this here bundle under my arm,
-and bear in mind that I’m a walking back to my Lock, and that the Temple
-laid upon my line of [[Road|road]].’
+‘No I don’t, sir,’ returned [[Venus]], very positively.
 
-[[Bradley Headstone]]’s face had changed during this latter recital, and he
-had observed the speaker with a more sustained attention.
+‘Not to make amends?’ insinuated Mr Boffin.
 
-‘Do you know,’ said he, after a pause, during which they walked on side
-by side, ‘that I believe I could tell you your name, if I tried?’
+‘No, sir. It seems to me, after maturely thinking it over, that the best
+amends for having got out of the square is to get back into the square.’
 
-‘Prove your opinion,’ was the answer, accompanied with a stop and a
-stare. ‘Try.’
+‘Humph!’ mused Mr Boffin. ‘When you say the square, you mean—’
 
-‘Your name is Riderhood.’
+‘I mean,’ said [[Venus]], stoutly and shortly, ‘the right.’
 
-‘I’m blest if it ain’t,’ returned that gentleman. ‘But I don’t know
-your’n.’
+‘It appears to me,’ said Mr Boffin, grumbling over the [[Fire|fire]] in an
+injured manner, ‘that the right is with me, if it’s anywhere. I have
+much more right to the old man’s money than the [[Crown]] can ever have.
+What was the [[Crown]] to him except the [[King]]’s Taxes? Whereas, me and my
+wife, we was all in all to him.’
 
-‘That’s quite another thing,’ said Bradley. ‘I never supposed you did.’
+[[Mr Venus]], with his head upon his hands, rendered [[Melancholy|melancholy]] by the
+contemplation of Mr Boffin’s avarice, only murmured to steep himself
+in the luxury of that frame of mind: ‘She did not wish so to regard
+herself, nor yet to be so regarded.’
 
-As Bradley walked on meditating, the Rogue walked on at his side
-muttering. The purport of the muttering was: ‘that Rogue Riderhood, by
-George! seemed to be made public property on, now, and that every man
-seemed to think himself free to handle his name as if it was a Street
-Pump.’ The purport of the meditating was: ‘Here is an instrument. Can I
-use it?’
+‘And how am I to live,’ asked Mr Boffin, piteously, ‘if I’m to be going
+buying fellows up out of the little that I’ve got? And how am I to set
+about it? When am I to get my money ready? When am I to make a bid? You
+haven’t told me when he threatens to drop down upon me.’
 
-They had walked along the Strand, and into Pall Mall, and had turned
-up-[[Hill|hill]] towards Hyde Park Corner; [[Bradley Headstone]] waiting on the pace
-and lead of Riderhood, and leaving him to indicate the course. So slow
-were the schoolmaster’s thoughts, and so indistinct his purposes when
-they were but tributary to the one absorbing purpose or rather when,
-like dark trees under a stormy sky, they only lined the long vista at
-the end of which he saw those two figures of Wrayburn and Lizzie on
-which his eyes were fixed—that at least a good half-mile was traversed
-before he spoke again. Even then, it was only to ask:
+[[Venus]] explained under what conditions, and with what views, the dropping
+down upon Mr Boffin was held over until the Mounds should be cleared
+away. Mr Boffin listened attentively. ‘I suppose,’ said he, with a
+gleam of [[Hope|hope]], ‘there’s no [[Doubt|doubt]] about the genuineness and date of this
+confounded will?’
+
+‘None whatever,’ said [[Mr Venus]].
+
+‘Where might it be deposited at present?’ asked Mr Boffin, in a
+wheedling tone.
+
+‘It’s in my possession, sir.’
+
+‘Is it?’ he cried, with great eagerness. ‘Now, for any liberal sum of
+money that could be agreed upon, [[Venus]], would you put it in the [[Fire|fire]]?’

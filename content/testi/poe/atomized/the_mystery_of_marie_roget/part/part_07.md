@@ -1,5 +1,5 @@
 ---
-title: "[[The Mystery of Marie Roget]] (part 7)"
+title: "The Mystery of Marie Roget (part 7)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-mystery-of-marie-roget-(poe)"
@@ -13,6 +13,38 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_mystery_of_marie_roget/part/part_06">‹ part 06</a><a class="ex-next" href="/testi/poe/atomized/the_mystery_of_marie_roget/part/part_08">part 08 ›</a></div>
 </nav>
 
+
+      confounded by that very unusualness which, to a properly
+
+      regulated intellect, would have afforded the surest omen of
+
+      [[success]]; while this same intellect might have been plunged in
+
+      [[Despair|despair]] at the ordinary character of all that met the eye in the
+
+      case of the perfumery-girl, and yet told of nothing but easy
+
+      triumph to the functionaries of the Prefecture.
+
+
+
+      “In the case of Madame L’Espanaye and her daughter there was,
+
+      even at the beginning of our investigation, no [[Doubt|doubt]] that murder
+
+      had been committed. The idea of [[suicide]] was excluded at once.
+
+      Here, too, we are freed, at the commencement, from all
+
+      supposition of [[Self|self]]-murder. The [[Body|body]] found at the Barrière du
+
+      Roule, was found under such circumstances as to leave us no room
+
+      for embarrassment upon this important point. But it has been
+
+      suggested that the corpse discovered, is not that of the Marie
+
+      Rogêt for the conviction of whose assassin, or assassins, the
 
       reward is offered, and respecting whom, solely, our agreement has
 
@@ -159,39 +191,3 @@ tags:
       case_ against this passage of L’Etoile’s argument, I might safely
 
       leave it where it is. It is not, however, with L’Etoile that we
-
-      have to do, but with the [[Truth|truth]]. The sentence in question has but
-
-      one meaning, as it stands; and this meaning I have fairly stated;
-
-      but it is material that we go behind the mere words, for an idea
-
-      which these words have obviously intended, and failed to convey.
-
-      It was the design of the journalist to say that, at whatever
-
-      period of the day or [[Night|night]] of [[Sunday]] this murder was committed,
-
-      it was improbable that the assassins would have ventured to bear
-
-      the corpse to the [[River|river]] before midnight. And herein lies, really,
-
-      the assumption of which I complain. It is assumed that the murder
-
-      was committed at such a position, and under such circumstances,
-
-      that the bearing it to the [[River|river]] became necessary. Now, the
-
-      assassination might have taken place upon the [[River|river]]’s brink, or
-
-      on the [[River|river]] itself; and, thus, the throwing the corpse in the
-
-      [[Water|water]] might have been resorted to, at any period of the day or
-
-      [[Night|night]], as the most obvious and most immediate mode of disposal.
-
-      You will understand that I suggest nothing here as probable, or
-
-      as cöincident with my own opinion. My design, so far, has no
-
-      reference to the facts of the case. I wish merely to caution you

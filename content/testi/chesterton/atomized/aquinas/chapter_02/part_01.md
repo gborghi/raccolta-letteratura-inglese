@@ -1,5 +1,5 @@
 ---
-title: "[[aquinas]] — Chapter 2 (part 1)"
+title: "aquinas — Chapter 2 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/aquinas-(chesterton)"
@@ -10,14 +10,13 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/aquinas-(chesterton)">aquinas</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/aquinas/chapter_01/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/aquinas/chapter_02/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/aquinas/chapter_01/part_08">‹ part 08</a><a class="ex-next" href="/testi/chesterton/atomized/aquinas/chapter_02/part_02">part 02 ›</a></div>
 </nav>
 
 
 II
 
 THE RUNAWAY ABBOT
-
 
 Thomas [[aquinas|Aquinas]], in a strange and rather symbolic manner,
 sprang out of the very centre of the civilised world of his [[Time|time]];

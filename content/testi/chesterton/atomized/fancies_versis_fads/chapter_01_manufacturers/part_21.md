@@ -56,7 +56,7 @@ kind to them.
 
 For after all, blame is itself a compliment.  It is a compliment
 because it is an appeal; and an appeal to a man as a creative
-[[artist]] making his [[Soul|soul]].  To say to a man, "rascal" or "[[Villain|villain]]"
+[[Artist|artist]] making his [[Soul|soul]].  To say to a man, "rascal" or "[[Villain|villain]]"
 in ordinary society may seem abrupt; but it is also elliptical.
 It is an abbreviation of a [[Sublime|sublime]] spiritual apostrophe for which
 there may be no [[Time|time]] in our busy social life.  When you meet

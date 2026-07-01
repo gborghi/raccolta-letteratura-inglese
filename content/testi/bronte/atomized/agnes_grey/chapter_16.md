@@ -1,5 +1,5 @@
 ---
-title: "[[Agnes Grey]] — Chapter 15"
+title: "Agnes Grey — Chapter 15"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/agnes-grey-(bronte)"

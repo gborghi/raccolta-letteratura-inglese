@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities — Chapter 4"
+title: "A Tale of Two Cities — Chapter 6"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/a-tale-of-two-cities-(dickens)"
@@ -14,194 +14,279 @@ tags:
 </nav>
 
 
-CHAPTER IV.
-Calm in [[Storm]]
+CHAPTER VI.
+Triumph
 
 
-[[Doctor Manette]] did not return until the morning of the fourth day of his
-absence. So much of what had happened in that dreadful [[Time|time]] as could be
-kept from the knowledge of Lucie was so [[Well|well]] concealed from her, that
-not until long afterwards, when France and she were far apart, did she
-know that eleven hundred defenceless prisoners of both sexes and all
-ages had been killed by the populace; that four days and nights had been
-darkened by this deed of horror; and that the air around her had been
-tainted by the slain. She only knew that there had been an attack upon
-the prisons, that all political prisoners had been in danger, and that
-some had been dragged out by the crowd and murdered.
+The dread tribunal of five Judges, Public Prosecutor, and determined
+Jury, sat every day. Their lists went forth every evening, and were
+read out by the gaolers of the various prisons to their prisoners. The
+standard gaoler-joke was, “Come out and listen to the Evening Paper, you
+inside there!”
 
-To Mr. Lorry, the Doctor communicated under an injunction of secrecy on
-which he had no need to dwell, that the crowd had taken him through a
-scene of carnage to the [[Prison|prison]] of La Force. That, in the [[Prison|prison]] he had
-found a [[Self|self]]-appointed Tribunal sitting, before which the prisoners were
-brought singly, and by which they were rapidly ordered to be put forth
-to be massacred, or to be released, or (in a few cases) to be sent back
-to their cells. That, presented by his conductors to this Tribunal, he
-had announced himself by name and profession as having been for eighteen
-years a secret and unaccused prisoner in the Bastille; that, one of the
-[[Body|body]] so sitting in judgment had risen and identified him, and that this
-man was Defarge.
+“Charles Evrémonde, called Darnay!”
 
-That, hereupon he had ascertained, through the registers on the table,
-that his son-in-law was among the living prisoners, and had pleaded hard
-to the Tribunal--of whom some members were asleep and some awake, some
-dirty with murder and some clean, some sober and some not--for his life
-and liberty. That, in the first frantic greetings lavished on himself as
-a notable sufferer under the overthrown system, it had been accorded
-to him to have [[Charles Darnay]] brought before the lawless [[Court]], and
-examined. That, he seemed on the point of being at once released, when
-the tide in his favour met with some unexplained check (not intelligible
-to the Doctor), which led to a few words of secret conference. That,
-the man sitting as President had then informed [[Doctor Manette]] that
-the prisoner must remain in custody, but should, for his sake, be held
-inviolate in safe custody. That, immediately, on a signal, the prisoner
-was removed to the interior of the [[Prison|prison]] again; but, that he, the
-Doctor, had then so strongly pleaded for permission to remain and
-assure himself that his son-in-law was, through no malice or mischance,
-delivered to the concourse whose murderous yells outside the gate had
-often drowned the proceedings, that he had obtained the permission, and
-had remained in that Hall of [[Blood]] until the danger was over.
+So at last began the Evening Paper at La Force.
 
-The sights he had seen there, with brief snatches of food and [[Sleep|sleep]] by
-intervals, shall remain untold. The mad joy over the prisoners who were
-saved, had astounded him scarcely less than the mad ferocity against
-those who were cut to pieces. One prisoner there was, he said, who had
-been discharged into the street free, but at whom a mistaken savage had
-thrust a pike as he passed out. Being besought to go to him and dress
-the wound, the Doctor had passed out at the same gate, and had found him
-in the arms of a company of Samaritans, who were seated on the bodies
-of their victims. With an inconsistency as monstrous as anything in this
-awful [[nightmare]], they had helped the healer, and tended the wounded man
-with the gentlest solicitude--had made a litter for him and escorted him
-carefully from the spot--had then caught up their weapons and plunged
-anew into a butchery so dreadful, that the Doctor had covered his eyes
-with his hands, and swooned away in the midst of it.
+When a name was called, its owner stepped apart into a spot reserved
+for those who were announced as being thus fatally recorded. Charles
+Evrémonde, called Darnay, had reason to know the usage; he had seen
+hundreds pass away so.
 
-As Mr. Lorry received these confidences, and as he watched the face of
-his friend now sixty-two years of age, a misgiving arose within him that
-such dread experiences would revive the old danger.
+His bloated gaoler, who wore spectacles to read with, glanced over them
+to assure himself that he had taken his place, and went through the
+list, making a similar short pause at each name. There were twenty-three
+names, but only twenty were responded to; for one of the prisoners so
+summoned had died in gaol and been forgotten, and two had already been
+guillotined and forgotten. The list was read, in the vaulted chamber
+where Darnay had seen the associated prisoners on the [[Night|night]] of his
+arrival. Every one of those had perished in the massacre; every human
+creature he had since cared for and parted with, had died on the
+scaffold.
 
-But, he had never seen his friend in his present aspect: he had never
-at all known him in his present character. For the first [[Time|time]] the Doctor
-felt, now, that his [[Suffering|suffering]] was strength and power. For the first [[Time|time]]
-he felt that in that sharp [[Fire|fire]], he had slowly forged the iron which
-could break the [[Prison|prison]] door of his daughter’s husband, and deliver him.
-“It all tended to a good end, my friend; it was not mere waste and ruin.
-As my beloved [[Child|child]] was helpful in restoring me to myself, I will be
-helpful now in restoring the dearest part of herself to her; by the aid
-of Heaven I will do it!” Thus, [[Doctor Manette]]. And when [[Jarvis Lorry]] saw
-the kindled eyes, the resolute face, the calm strong look and bearing
-of the man whose life always seemed to him to have been stopped, like a
-[[Clock|clock]], for so many years, and then set going again with an energy which
-had lain dormant during the cessation of its usefulness, he believed.
+There were hurried words of farewell and kindness, but the parting was
+soon over. It was the incident of every day, and the society of La Force
+were engaged in the preparation of some games of forfeits and a little
+concert, for that evening. They crowded to the grates and shed [[Tears|tears]]
+there; but, twenty places in the projected entertainments had to be
+refilled, and the [[Time|time]] was, at best, short to the lock-up hour, when the
+common rooms and corridors would be delivered over to the great [[dogs]]
+who kept watch there through the [[Night|night]]. The prisoners were far from
+insensible or unfeeling; their ways arose out of the condition of the
+[[Time|time]]. Similarly, though with a subtle difference, a species of fervour
+or intoxication, known, without [[Doubt|doubt]], to have led some persons to
+brave the guillotine unnecessarily, and to die by it, was not mere
+boastfulness, but a wild infection of the wildly shaken public mind. In
+[[Seasons|seasons]] of pestilence, some of us will have a secret attraction to the
+disease--a terrible passing inclination to die of it. And all of us have
+like wonders hidden in our breasts, only needing circumstances to evoke
+them.
 
-Greater things than the Doctor had at that [[Time|time]] to contend with, would
-have yielded before his persevering purpose. While he kept himself
-in his place, as a physician, whose business was with all degrees
-of mankind, bond and free, rich and poor, bad and good, he used his
-personal influence so wisely, that he was soon the inspecting physician
-of three prisons, and among them of La Force. He could now assure Lucie
-that her husband was no longer confined [[Alone|alone]], but was mixed with the
-general [[Body|body]] of prisoners; he saw her husband weekly, and brought sweet
-messages to her, straight from his lips; sometimes her husband himself
-sent a letter to her (though never by the Doctor’s hand), but she was
-not permitted to write to him: for, among the many wild suspicions of
-plots in the prisons, the wildest of all pointed at emigrants who were
-known to have made friends or permanent connections abroad.
+The passage to the Conciergerie was short and dark; the [[Night|night]] in its
+vermin-haunted cells was long and cold. Next day, fifteen prisoners were
+put to the bar before [[Charles Darnay]]’s name was called. All the fifteen
+were condemned, and the trials of the whole occupied an hour and a half.
 
-This new life of the Doctor’s was an anxious life, no [[Doubt|doubt]]; still, the
-sagacious Mr. Lorry saw that there was a new sustaining [[Pride|pride]] in it.
-Nothing unbecoming tinged the [[Pride|pride]]; it was a natural and worthy one;
-but he observed it as a curiosity. The Doctor knew, that up to that
-[[Time|time]], his [[Imprisonment|imprisonment]] had been associated in the minds of his daughter
-and his friend, with his personal affliction, deprivation, and weakness.
-Now that this was changed, and he knew himself to be invested through
-that old trial with forces to which they both looked for Charles’s
-ultimate safety and deliverance, he became so far exalted by the change,
-that he took the lead and direction, and required them as the weak, to
-trust to him as the strong. The preceding relative positions of himself
-and Lucie were reversed, yet only as the liveliest gratitude and
-affection could reverse them, for he could have had no [[Pride|pride]] but in
-rendering some service to her who had rendered so much to him. “All
-curious to see,” thought Mr. Lorry, in his amiably shrewd way, “but all
-natural and right; so, take the lead, my dear friend, and keep it; it
-couldn’t be in better hands.”
+“Charles Evrémonde, called Darnay,” was at length arraigned.
 
-But, though the Doctor tried hard, and never ceased trying, to get
-[[Charles Darnay]] set at liberty, or at least to get him brought to trial,
-the public current of the [[Time|time]] set too strong and fast for him. The new
-era began; the [[King|king]] was tried, doomed, and beheaded; the Republic of
-Liberty, Equality, Fraternity, or [[Death]], declared for victory or [[Death|death]]
-against the world in arms; the black [[Flag|flag]] waved [[Night|night]] and day from the
-great towers of Notre Dame; three hundred thousand men, summoned to rise
-against the tyrants of the earth, [[Rose|rose]] from all the varying soils
-of France, as if the dragon’s teeth had been sown broadcast, and
-had yielded fruit equally on [[Hill|hill]] and plain, on rock, in gravel, and
-alluvial mud, under the bright sky of the South and under the clouds of
-the North, in fell and forest, in the vineyards and the olive-grounds
-and among the cropped grass and the stubble of the corn, along the
-fruitful banks of the broad rivers, and in the sand of the sea-shore.
-What private solicitude could rear itself against the [[deluge]] of the Year
-One of Liberty--the [[deluge]] rising from below, not falling from above,
-and with the windows of Heaven shut, not opened!
+His judges sat upon the Bench in feathered hats; but the rough red cap
+and tricoloured cockade was the head-dress otherwise prevailing. Looking
+at the Jury and the turbulent audience, he might have thought that the
+usual order of things was reversed, and that the felons were trying the
+honest men. The lowest, cruelest, and worst populace of a [[City|city]], never
+without its quantity of low, cruel, and bad, were the directing
+spirits of the scene: noisily commenting, applauding, disapproving,
+anticipating, and precipitating the result, without a check. Of the men,
+the greater part were armed in various ways; of the women, some wore
+knives, some daggers, some ate and drank as they looked on, many
+knitted. Among these last, was one, with a spare piece of knitting under
+her arm as she worked. She was in a front row, by the side of a man whom
+he had never seen since his arrival at the Barrier, but whom he directly
+remembered as Defarge. He noticed that she once or twice whispered in
+his ear, and that she seemed to be his wife; but, what he most noticed
+in the two figures was, that although they were posted as close to
+himself as they could be, they never looked towards him. They seemed to
+be waiting for something with a dogged determination, and they looked at
+the Jury, but at nothing else. Under the President sat [[Doctor Manette]],
+in his usual quiet dress. As [[Well|well]] as the prisoner could see, he and Mr.
+Lorry were the only men there, unconnected with the Tribunal, who
+wore their usual clothes, and had not assumed the coarse garb of the
+Carmagnole.
 
-There was no pause, no pity, no peace, no interval of relenting rest, no
-measurement of [[Time|time]]. Though days and nights circled as regularly as when
-[[Time|time]] was young, and the evening and morning were the first day, other
-count of [[Time|time]] there was none. Hold of it was lost in the raging fever
-of a nation, as it is in the fever of one patient. Now, breaking the
-unnatural [[Silence|silence]] of a whole [[City|city]], the executioner showed the people the
-head of the [[King|king]]--and now, it seemed almost in the same breath, the
-head of his fair wife which had had eight weary months of imprisoned
-widowhood and misery, to turn it grey.
+Charles Evrémonde, called Darnay, was accused by the public prosecutor
+as an emigrant, whose life was forfeit to the Republic, under the decree
+which banished all emigrants on [[Pain|pain]] of [[Death]]. It was nothing that the
+decree bore date since his return to France. There he was, and there was
+the decree; he had been taken in France, and his head was demanded.
 
-And yet, observing the strange law of contradiction which obtains in
-all such cases, the [[Time|time]] was long, while it flamed by so fast. A
-revolutionary tribunal in the capital, and forty or fifty thousand
-revolutionary committees all over the land; a law of the Suspected,
-which struck away all security for liberty or life, and delivered over
-any good and [[Innocent|innocent]] person to any bad and guilty one; prisons gorged
-with people who had committed no offence, and could obtain no hearing;
-these things became the established order and [[Nature|nature]] of appointed
-things, and seemed to be ancient usage before they were many weeks old.
-Above all, one hideous figure grew as familiar as if it had been before
-the general gaze from the foundations of the world--the figure of the
-sharp female called La Guillotine.
+“Take off his head!” cried the audience. “An enemy to the Republic!”
 
-It was the popular theme for jests; it was the best cure for headache,
-it infallibly prevented the hair from turning grey, it imparted a
-peculiar delicacy to the complexion, it was the National Razor which
-shaved close: who kissed La Guillotine, looked through the little [[Window|window]]
-and sneezed into the sack. It was the sign of the [[Regeneration|regeneration]] of the
-human race. It superseded the [[Cross]]. Models of it were worn on breasts
-from which the [[Cross]] was discarded, and it was bowed down to and
-believed in where the [[Cross]] was denied.
+The President rang his bell to [[Silence|silence]] those cries, and asked the
+prisoner whether it was not true that he had lived many years in
+England?
 
-It sheared off heads so many, that it, and the ground it most polluted,
-were a rotten red. It was taken to pieces, like a toy-puzzle for a young
-Devil, and was put together again when the occasion wanted it. It hushed
-the eloquent, struck down the powerful, abolished the beautiful and
-good. Twenty-two friends of high public mark, twenty-one living and one
-dead, it had lopped the heads off, in one morning, in as many minutes.
-The name of the strong man of Old Scripture had descended to the chief
-functionary who worked it; but, so armed, he was stronger than his
-namesake, and blinder, and tore away the gates of God’s own Temple every
-day.
+Undoubtedly it was.
 
-Among these terrors, and the brood belonging to them, the Doctor walked
-with a steady head: confident in his power, cautiously persistent in his
-end, never doubting that he would save Lucie’s husband at last. Yet the
-current of the [[Time|time]] swept by, so strong and deep, and carried the [[Time|time]]
-away so fiercely, that Charles had lain in [[Prison|prison]] one year and three
-months when the Doctor was thus steady and confident. So much more
-wicked and distracted had the Revolution grown in that December month,
-that the rivers of the South were encumbered with the bodies of the
-violently drowned by [[Night|night]], and prisoners were shot in lines and squares
-under the southern wintry sun. Still, the Doctor walked among the
-terrors with a steady head. No man better known than he, in [[Paris]] at
-that day; no man in a stranger situation. Silent, humane, indispensable
-in hospital and [[Prison|prison]], using his art equally among assassins and
-victims, he was a man apart. In the exercise of his skill, the
-appearance and the story of the Bastille Captive removed him from all
-other men. He was not suspected or brought in question, any more than if
-he had indeed been recalled to life some eighteen years before, or were
-a Spirit moving among mortals.
+Was he not an emigrant then? What did he call himself?
+
+Not an emigrant, he hoped, within the sense and spirit of the law.
+
+Why not? the President desired to know.
+
+Because he had voluntarily relinquished a title that was distasteful
+to him, and a station that was distasteful to him, and had left
+his country--he submitted before the word emigrant in the present
+acceptation by the Tribunal was in use--to live by his own industry in
+England, rather than on the industry of the overladen people of France.
+
+What proof had he of this?
+
+He handed in the names of two witnesses; Theophile Gabelle, and
+Alexandre Manette.
+
+But he had married in England? the President reminded him.
+
+True, but not an English woman.
+
+A citizeness of France?
+
+Yes. By birth.
+
+Her name and family?
+
+“[[Lucie Manette]], only daughter of [[Doctor Manette]], the good physician who
+sits there.”
+
+This answer had a happy effect upon the audience. Cries in exaltation
+of the [[Well|well]]-known good physician rent the hall. So capriciously were
+the people moved, that [[Tears|tears]] immediately rolled down several ferocious
+countenances which had been glaring at the prisoner a moment before, as
+if with impatience to pluck him out into the streets and kill him.
+
+On these few steps of his dangerous way, [[Charles Darnay]] had set his foot
+according to [[Doctor Manette]]’s reiterated instructions. The same cautious
+counsel directed every step that lay before him, and had prepared every
+inch of his [[Road|road]].
+
+The President asked, why had he returned to France when he did, and not
+sooner?
+
+He had not returned sooner, he replied, simply because he had no means
+of living in France, save those he had resigned; whereas, in England,
+he lived by giving instruction in the French language and literature.
+He had returned when he did, on the pressing and written entreaty of
+a French citizen, who represented that his life was endangered by his
+absence. He had come back, to save a citizen’s life, and to bear his
+testimony, at whatever personal hazard, to the [[Truth|truth]]. Was that criminal
+in the eyes of the Republic?
+
+The populace cried enthusiastically, “No!” and the President rang his
+bell to quiet them. Which it did not, for they continued to cry “No!”
+ until they left off, of their own will.
+
+The President required the name of that citizen. The accused explained
+that the citizen was his first witness. He also referred with confidence
+to the citizen’s letter, which had been taken from him at the Barrier,
+but which he did not [[Doubt|doubt]] would be found among the papers then before
+the President.
+
+The Doctor had taken care that it should be there--had assured him that
+it would be there--and at this stage of the proceedings it was produced
+and read. Citizen Gabelle was called to confirm it, and did so. Citizen
+Gabelle hinted, with infinite delicacy and politeness, that in the
+pressure of business imposed on the Tribunal by the multitude of
+enemies of the Republic with which it had to deal, he had been slightly
+overlooked in his [[Prison|prison]] of the Abbaye--in fact, had rather passed out
+of the Tribunal’s patriotic remembrance--until three days ago; when he
+had been summoned before it, and had been set at liberty on the Jury’s
+declaring themselves satisfied that the accusation against him was
+answered, as to himself, by the surrender of the citizen Evrémonde,
+called Darnay.
+
+[[Doctor Manette]] was next questioned. His high personal popularity,
+and the clearness of his answers, made a great impression; but, as he
+proceeded, as he showed that the Accused was his first friend on his
+release from his long [[Imprisonment|imprisonment]]; that, the accused had remained in
+England, always faithful and devoted to his daughter and himself in
+their [[Exile|exile]]; that, so far from being in favour with the [[aristocrat|Aristocrat]]
+[[government]] there, he had actually been tried for his life by it, as
+the foe of England and friend of the United States--as he brought these
+circumstances into view, with the greatest discretion and with the
+straightforward force of [[Truth|truth]] and earnestness, the Jury and the
+populace became one. At last, when he appealed by name to Monsieur
+Lorry, an English gentleman then and there present, who, like himself,
+had been a witness on that English trial and could corroborate his
+account of it, the Jury declared that they had heard enough, and that
+they were ready with their votes if the President were content to
+receive them.
+
+At every vote (the Jurymen voted aloud and individually), the populace
+set up a shout of applause. All the voices were in the prisoner’s
+favour, and the President declared him free.
+
+Then, began one of those extraordinary scenes with which the populace
+sometimes gratified their fickleness, or their better impulses towards
+generosity and [[Mercy|mercy]], or which they regarded as some set-off against
+their swollen account of cruel rage. No man can decide now to which of
+these motives such extraordinary scenes were referable; it is probable,
+to a blending of all the three, with the second predominating. No sooner
+was the acquittal pronounced, than [[Tears|tears]] were shed as freely as [[Blood|blood]]
+at another [[Time|time]], and such fraternal embraces were bestowed upon the
+prisoner by as many of both sexes as could rush at him, that after
+his long and unwholesome confinement he was in danger of fainting from
+exhaustion; none the less because he knew very [[Well|well]], that the very same
+people, carried by another current, would have rushed at him with
+the very same intensity, to rend him to pieces and strew him over the
+streets.
+
+His removal, to make way for other accused persons who were to be tried,
+rescued him from these caresses for the moment. Five were to be tried
+together, next, as enemies of the Republic, forasmuch as they had not
+assisted it by word or deed. So quick was the Tribunal to compensate
+itself and the nation for a chance lost, that these five came down to
+him before he left the place, condemned to die within twenty-four
+hours. The first of them told him so, with the customary [[Prison|prison]] sign
+of [[Death]]--a raised finger--and they all added in words, “Long live the
+Republic!”
+
+The five had had, it is true, no audience to lengthen their proceedings,
+for when he and [[Doctor Manette]] emerged from the gate, there was a great
+crowd about it, in which there seemed to be every face he had seen in
+[[Court]]--except two, for which he looked in vain. On his coming out, the
+concourse made at him anew, weeping, embracing, and shouting, all by
+turns and all together, until the very tide of the [[River|river]] on the bank of
+which the mad scene was acted, seemed to run mad, like the people on the
+shore.
+
+They put him into a great chair they had among them, and which they had
+taken either out of the [[Court]] itself, or one of its rooms or passages.
+Over the chair they had thrown a red [[Flag|flag]], and to the back of it they
+had bound a pike with a red cap on its top. In this car of triumph, not
+even the Doctor’s entreaties could prevent his being carried to his [[Home|home]]
+on men’s shoulders, with a confused sea of red caps heaving about him,
+and casting up to sight from the stormy deep such wrecks of faces, that
+he more than once misdoubted his mind being in confusion, and that he
+was in the tumbril on his way to the Guillotine.
+
+In wild dreamlike procession, embracing whom they met and pointing
+him out, they carried him on. Reddening the snowy streets with the
+prevailing Republican colour, in winding and tramping through them, as
+they had reddened them below the [[Snow|snow]] with a deeper dye, they carried
+him thus into the courtyard of the building where he lived. Her father
+had gone on before, to prepare her, and when her husband stood upon his
+feet, she dropped insensible in his arms.
+
+As he held her to his heart and turned her beautiful head between his
+face and the brawling crowd, so that his [[Tears|tears]] and her lips might come
+together unseen, a few of the people fell to dancing. Instantly, all the
+rest fell to dancing, and the courtyard overflowed with the Carmagnole.
+Then, they elevated into the vacant chair a young woman from the
+crowd to be carried as the Goddess of Liberty, and then swelling and
+overflowing out into the adjacent streets, and along the [[River|river]]’s bank,
+and over the bridge, the Carmagnole absorbed them every one and whirled
+them away.
+
+After grasping the Doctor’s hand, as he stood victorious and proud
+before him; after grasping the hand of Mr. Lorry, who came panting in
+breathless from his struggle against the waterspout of the Carmagnole;
+after kissing little Lucie, who was lifted up to clasp her arms round
+his neck; and after embracing the ever zealous and faithful Pross who
+lifted her; he took his wife in his arms, and carried her up to their
+rooms.
+
+“Lucie! My own! I am safe.”
+
+“O dearest Charles, let me thank God for this on my knees as I have
+prayed to Him.”
+
+They all reverently bowed their heads and hearts. When she was again in
+his arms, he said to her:
+
+“And now speak to your father, dearest. No other man in all this France
+could have done what he has done for me.”
+
+She laid her head upon her father’s breast, as she had laid his poor
+head on her own breast, long, long ago. He was happy in the return he
+had made her, he was recompensed for his [[Suffering|suffering]], he was proud of his
+strength. “You must not be weak, my darling,” he remonstrated; “don’t
+tremble so. I have saved him.”

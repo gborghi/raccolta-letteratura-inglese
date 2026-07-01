@@ -1,5 +1,5 @@
 ---
-title: "ball and [[Cross|cross]] — Some Old Curiosities (part 3)"
+title: "ball and cross — Some Old Curiosities (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/ball-and-cross-(chesterton)"
@@ -10,9 +10,17 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/ball-and-cross-(chesterton)">ball and cross</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ball_and_cross/story_03_some_old_curiosities/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/ball_and_cross/story_04_a_discussion_at_dawn/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ball_and_cross/story_03_some_old_curiosities/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/ball_and_cross/story_03_some_old_curiosities/part_04">part 04 ›</a></div>
 </nav>
 
+
+With a bound he was beside the little cluster of his clothes and boots
+that lay on the lawn; he snatched them up, without waiting to put
+any of them on; and tucking his [[Sword|sword]] under his other arm, went wildly
+at the wall at the [[Bottom|bottom]] of the [[Garden|garden]] and swung himself over it.
+Three seconds after he had alighted in his socks on the other side,
+MacIan alighted beside him, also in his socks and also carrying
+clothes and [[Sword|sword]] in a desperate bundle.
 
 They were in a by-street, very lean and lonely itself, but so
 close to a crowded thoroughfare that they could see the vague
@@ -127,63 +135,3 @@ Now you _know_ that I am an honest man, and you are mad against me,
 as I am against you.  Yes, that's it.  You can't be angry with bad men.
 But a good man in the wrong--why one thirsts for his [[Blood|blood]].
 Yes, you open for me a vista of thought."
-
-"Don't run into anything," said Evan, immovably.
-
-"There's something in that view of yours, too," said Turnbull,
-and shut down the trap.
-
-They sped on through shining streets that shot by them like arrows.
-Mr. Turnbull had evidently a great deal of unused practical
-talent which was unrolling itself in this ridiculous adventure.
-They had got away with such stunning promptitude that the police
-chase had in all probability not even properly begun.  But in case
-it had, the amateur [[cabman]] chose his dizzy course through [[London]]
-with a strange dexterity.  He did not do what would have first
-occurred to any ordinary [[Outsider|outsider]] desiring to destroy his tracks.
-He did not cut into by-ways or twist his way through mean streets.
-His amateur common sense told him that it was precisely the poor street,
-the side street, that would be likely to remember and report
-the passing of a hansom cab, like the passing of a royal procession.
-He kept chiefly to the great roads, so full of hansoms that a
-wilder pair than they might easily have passed in the press.
-In one of the quieter streets Evan put on his boots.
-
-Towards the top of Albany Street the singular [[cabman]] again
-opened the trap.
-
-"Mr. MacIan," he said, "I understand that we have now definitely
-settled that in the conventional language [[Honour|honour]] is not satisfied.
-Our action must at least go further than it has gone under recent
-interrupted conditions.  That, I believe, is understood."
-
-"Perfectly," replied the other with his bootlace in his teeth.
-
-"Under those conditions," continued Turnbull, his voice coming through
-the hole with a slight note of trepidation very unusual with him,
-"I have a suggestion to make, if that can be called a suggestion,
-which has probably occurred to you as readily as to me.
-Until the actual event comes off we are practically in the
-position if not of comrades, at least of business partners.
-Until the event comes off, therefore I should suggest that quarrelling
-would be inconvenient and rather inartistic; while the ordinary
-exchange of politeness between man and man would be not only elegant
-but uncommonly practical."
-
-"You are perfectly right," answered MacIan, with his
-[[Melancholy|melancholy]] voice, "in saying that all this has occurred to me.
-All duellists should behave like gentlemen to each other.
-But we, by the queerness of our position, are something much
-more than either duellists or gentlemen.  We are, in the oddest
-and most exact sense of the term, brothers--in arms."
-
-"Mr. MacIan," replied Turnbull, calmly, "no more need be said."
-And he closed the trap once more.
-
-They had reached Finchley [[Road]] before he opened it again.
-
-Then he said, "Mr. MacIan, may I offer you a cigar.
-It will be a touch of realism."
-
-"Thank you," answered Evan.  "You are very kind."  And he began
-to smoke in the cab.

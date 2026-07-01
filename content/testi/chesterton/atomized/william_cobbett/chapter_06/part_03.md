@@ -64,7 +64,7 @@ in the red waistcoat that he wore so appropriately, like a
 defiance to a whole herd of bulls.  We can watch him peering
 over fences and hedges in his eager and shameless [[Vanity|vanity]],
 enquiring everywhere about Cobbett's Corn (the name he modestly
-gave to the maize he brought from [[america|America]]), and sternly admonishing
+gave to the maize he brought from [[America]]), and sternly admonishing
 those who were unconscious of their good luck in possessing it.
 We can behold him as he curses [[London]] from the hills;
 he always called it the Wen.  But here again his [[Humour|humour]] is
@@ -88,7 +88,7 @@ what most of his critics and some of his supporters would suppose.
 On the theory that he was a sort of retrospective rustic,
 merely regretting the good old times, it would be easy
 enough to make a picture of such a sentimental veteran
-recalling the [[Romance|romance]] of his youth at fair and market.
+recalling the romance of his youth at fair and market.
 But Cobbett is really concerned with the business of the market,
 and not merely with the fun of the fair.  He does not imagine that
 village maidens pass their whole lives dancing round the Maypole.
@@ -97,7 +97,7 @@ quite capable of making them set up a Maypole at Christmas,
 perhaps with a Christmas pudding on top of it.  He does not even
 cling to that yet nobler pillar of Christendom, the greasy-pole
 with a leg of mutton on top of it; more truly Christian
-because offering more opportunities for a cheerful [[Humility|humility]].
+because offering more opportunities for a cheerful humility.
 He does not see it as an old-world pageant, in the manner of Ruskin
 or William Morris.  He sees it as an economic question as strictly
 as Ricardo or John Stuart Mill.  Only, rightly or wrongly,
@@ -116,11 +116,11 @@ he would certainly have liked to see them dancing round a Maypole;
 though perhaps he would not have been sufficiently modern
 and advanced to enjoy seeing one of them asserting sex equality
 and making her own career by climbing the greasy pole.
-He would have entirely sympathised with the girl whose [[Lover|lover]]
+He would have entirely sympathised with the girl whose lover
 lingered at the fair, when he had promised to buy her a bunch
-of blue ribbons, as it says in the [[Song|song]], to tie up her bonny
+of blue ribbons, as it says in the song, to tie up her bonny
 brown hair.  Perhaps, again, he would have been so old-fashioned
-as to [[Doubt|doubt]] whether the girl would gain very much by never buying
+as to doubt whether the girl would gain very much by never buying
 ribbon for her hair, but only ribbon for her typewriter.
 But all this was a matter of light sentiment with him;
 and he was quite sane enough to take his sentiment lightly.
@@ -130,7 +130,7 @@ the young man would not have to pay so much for ribbons
 for the young woman, because the person selling the ribbons
 would not have to pay so much for building or renting a shop.
 Somebody somewhere else, he argued, living in an ordinary cottage
-and [[Garden|garden]], would make the ribbons at [[Home|home]], as the old country
+and garden, would make the ribbons at home, as the old country
 lace makers made lace, and would then walk into the nearest
 market-town and sell them to the young; man, who had also walked
 into the same market-town to buy them.  The young woman would get
@@ -153,9 +153,9 @@ I think on the whole the argument is quite sound as far as it goes;
 and it goes a good way, until we come into the world of such
 very large and very lifeless mass production that things can
 be produced cheaply, especially by huge and rich monopolies
-by which they can even be, for some [[Time|time]], produced at a loss.
+by which they can even be, for some time, produced at a loss.
 In other words, it probably is true that one big millionaire
-might own one big [[Machine|machine]] with wheels incessantly going round
+might own one big machine with wheels incessantly going round
 and reeling off interminable lengths of the same very ugly ribbon;
 and that he might even sell it below cost price for the pleasure
 of driving every other sort of better and more varied ribbon
@@ -163,7 +163,7 @@ out of the market.  But some (including the present writer)
 do not like monopolies of that kind or machines of that kind,
 or millionaires of that kind, or even ribbons of that kind;
 and some of us even decline under any circumstances to use them
-to tie up our bonny brown hair.  In any case, in this [[Sketch|sketch]]
+to tie up our bonny brown hair.  In any case, in this sketch
 we are concerned less with controversy than with character;
 and it is essential to the character of Cobbett that he believed
 that a market was better than a shop, not merely because it
@@ -173,6 +173,6 @@ off from the romantic reactionary, and even from the school
 of Ruskin when it denounced the economical tendency of economics.
 We can all sympathise with what Ruskin' meant by the Lamp
 of Sacrifice.  Even Cobbett could have sympathised,
-as his [[Love|love]] of the great Gothic churches had shown;
+as his love of the great Gothic churches had shown;
 but if he had been arranging such an allegorical illumination,
 he would probably have added a Lamp of Thrift.

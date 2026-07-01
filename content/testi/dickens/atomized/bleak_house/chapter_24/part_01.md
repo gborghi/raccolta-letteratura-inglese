@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 24 (part 1)"
+title: "Bleak House — Chapter 24 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/bleak-house-(dickens)">Bleak House</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_23/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_24/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_23/part_07">‹ part 07</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_24/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -134,7 +134,3 @@ expectation on the family curse! Whatever you do on this side the
 [[Grave|grave]], never give one lingering glance towards the horrible [[Phantom|phantom]]
 that has haunted us so many years. Better to borrow, better to beg,
 better to die!”
-
-We were all startled by the fervour of this warning. [[Richard]] bit his
-lip and held his breath, and glanced at me as if he felt, and knew
-that I felt too, how much he needed it.

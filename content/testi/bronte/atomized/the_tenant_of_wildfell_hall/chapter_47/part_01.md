@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 47 (part 1)"
+title: "The Tenant of Wildfell Hall — Chapter 47 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -255,9 +255,3 @@ instead of the usual inquiry after his health.
 “Yes, she’s gone,” was his answer, so calmly spoken that my terror was
 
 at once removed.
-
-
-
-“I suppose I mayn’t know where she is?” said I, as I dismounted, and
-
-relinquished my [[Horse|horse]] to the gardener, who, being the only servant

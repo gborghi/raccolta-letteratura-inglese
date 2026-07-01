@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 19 (part 1)"
+title: "Nicholas Nickleby — Chapter 19 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -136,6 +136,3 @@ as if it comprised no small quantity of ingenuity and research; and,
 in [[Truth|truth]], it was not unworthy of being classed among the extraordinary
 discoveries of the age. Kate looked up hastily, and as hastily looked
 down again.
-
-‘What has come over you, my dear, in the name of goodness?’ asked Mrs
-Nickleby, when they had walked on, for some [[Time|time]], in [[Silence|silence]].

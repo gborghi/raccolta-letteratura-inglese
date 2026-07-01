@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 59 (part 2)"
+title: "Bleak House — Chapter 59 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_59/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_59/part_03">part 03 ›</a></div>
 </nav>
 
+
+“It looks like Chancery Lane.”
+
+“And was christened so, my dear,” said Mr. Bucket.
+
+We turned down it, and as we went shuffling through the sleet, I
+heard the clocks strike half-past five. We passed on in [[Silence|silence]] and
+as quickly as we could with such a foot-hold, when some one coming
+towards us on the narrow pavement, wrapped in a cloak, stopped and
+stood aside to give me room. In the same moment I heard an
+exclamation of [[Wonder|wonder]] and my own name from Mr. Woodcourt. I knew his
+voice very [[Well|well]].
 
 It was so unexpected and so—I don’t know what to call it, whether
 pleasant or painful—to come upon it after my feverish wandering
@@ -137,19 +149,3 @@ to a frightful extent!”
 We went downstairs, followed by Mr. Snagsby, as I soon found the
 little man to be. In the front kitchen, sitting by the [[Fire|fire]], was Mrs.
 Snagsby, with very red eyes and a very severe expression of face.
-
-“My little woman,” said Mr. Snagsby, entering behind us, “to
-wave—not to put too fine a point upon it, my dear—hostilities for
-one single moment in the course of this prolonged [[Night|night]], here is
-[[Inspector Bucket]], Mr. Woodcourt, and a lady.”
-
-She looked very much astonished, as she had reason for doing, and
-looked particularly hard at me.
-
-“My little woman,” said Mr. Snagsby, sitting down in the remotest
-corner by the door, as if he were taking a liberty, “it is not
-unlikely that you may inquire of me why [[Inspector Bucket]], Mr.
-Woodcourt, and a lady call upon us in Cook’s [[Court]], Cursitor Street,
-at the present hour. I don’t know. I have not the least idea. If I
-was to be informed, I should [[Despair|despair]] of understanding, and I’d rather
-not be told.”

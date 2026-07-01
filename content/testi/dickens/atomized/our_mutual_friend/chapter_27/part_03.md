@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 3 (part 3)"
+title: "Our Mutual Friend — Chapter 5 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,111 +14,133 @@ tags:
 </nav>
 
 
-To whom Mrs Veneering incoherently communicates, how that Veneering
-has been offered Pocket-Breaches; how that it is the [[Time|time]] for rallying
-round; how that Veneering has said ‘We must work’; how that she is here,
-as a wife and mother, to entreat Lady Tippins to work; how that the
-carriage is at Lady Tippins’s disposal for purposes of work; how that
-she, proprietress of said bran new elegant equipage, will return [[Home|home]] on
-foot—on bleeding feet if need be—to work (not specifying how), until
-she drops by the side of baby’s crib.
+‘You are a very offensive fellow, sir,’ cried Mr Lammle, rising. ‘You
+are a highly offensive scoundrel. What do you mean by this behaviour?’
 
-‘My [[Love|love]],’ says Lady Tippins, ‘compose yourself; we’ll bring him in.’
-And Lady Tippins really does work, and work the Veneering horses too;
-for she clatters about town all day, calling upon everybody she knows,
-and showing her entertaining powers and green fan to immense advantage,
-by rattling on with, My dear [[Soul|soul]], what do you think? What do
-you suppose me to be? You’ll never guess. I’m pretending to be an
-electioneering agent. And for what place of all places? Pocket-Breaches.
-And why? Because the dearest friend I have in the world has bought it.
-And who is the dearest friend I have in the world? A man of the name of
-Veneering. Not omitting his wife, who is the other dearest friend I have
-in the world; and I positively declare I forgot their baby, who is the
-other. And we are carrying on this little farce to keep up appearances,
-and isn’t it refreshing! Then, my precious [[Child|child]], the fun of it is that
-nobody knows who these Veneerings are, and that they know nobody, and
-that they have a [[house]] out of the Tales of the Genii, and give dinners
-out of the Arabian Nights. Curious to see ’em, my dear? Say you’ll know
-’em. Come and dine with ’em. They shan’t bore you. Say who shall meet
-you. We’ll make up a party of our own, and I’ll engage that they shall
-not interfere with you for one single moment. You really ought to see
-their gold and silver camels. I call their dinner-table, the Caravan.
-Do come and dine with my Veneerings, my own Veneerings, my exclusive
-property, the dearest friends I have in the world! And above all, my
-dear, be sure you promise me your vote and interest and all sorts of
-plumpers for Pocket-Breaches; for we couldn’t think of spending sixpence
-on it, my [[Love|love]], and can only consent to be brought in by the spontaneous
-thingummies of the incorruptible whatdoyoucallums.
+‘I say!’ remonstrated Fledgeby. ‘Don’t break out.’
 
-Now, the point of view seized by the bewitching Tippins, that this same
-working and rallying round is to keep up appearances, may have something
-in it, but not all the [[Truth|truth]]. More is done, or considered to be
-done—which does as [[Well|well]]—by taking cabs, and ‘going about,’ than the
-fair Tippins knew of. Many vast vague reputations have been made,
-solely by taking cabs and going about. This particularly obtains in all
-Parliamentary affairs. Whether the business in hand be to get a man in,
-or get a man out, or get a man over, or promote a railway, or jockey
-a railway, or what else, nothing is understood to be so effectual as
-scouring nowhere in a violent hurry—in short, as taking cabs and going
-about.
+‘You are a very offensive fellow sir,’ repeated Mr Lammle. ‘You are a
+highly offensive scoundrel!’
 
-Probably because this reason is in the air, Twemlow, far from being
-singular in his [[Persuasion|persuasion]] that he works like a Trojan, is capped by
-Podsnap, who in his turn is capped by Boots and Brewer. At eight o’[[Clock|clock]]
-when all these hard workers assemble to dine at Veneering’s, it is
-understood that the cabs of Boots and Brewer mustn’t leave the door, but
-that pails of [[Water|water]] must be brought from the nearest baiting-place,
-and cast over the horses’ legs on the very spot, lest Boots and Brewer
-should have instant occasion to mount and away. Those fleet messengers
-require the Analytical to see that their hats are deposited where they
-can be laid hold of at an instant’s notice; and they dine (remarkably
-[[Well|well]] though) with the air of firemen in charge of an engine, expecting
-intelligence of some tremendous conflagration.
+‘I SAY, you know!’ urged Fledgeby, quailing.
 
-Mrs Veneering faintly remarks, as dinner opens, that many such days
-would be too much for her.
+‘Why, you coarse and vulgar vagabond!’ said Mr Lammle, looking fiercely
+about him, ‘if your servant was here to give me sixpence of your
+money to get my boots cleaned afterwards—for you are not worth the
+expenditure—I’d kick you.’
 
-‘Many such days would be too much for all of us,’ says Podsnap; ‘but
-we’ll bring him in!’
+‘No you wouldn’t,’ pleaded Fledgeby. ‘I am sure you’d think better of
+it.’
 
-‘We’ll bring him in,’ says Lady Tippins, sportively waving her green
-fan. ‘Veneering for ever!’
+‘I tell you what, Mr Fledgeby,’ said Lammle advancing on him. ‘Since
+you presume to contradict me, I’ll assert myself a little. Give me your
+nose!’
 
-‘We’ll bring him in!’ says Twemlow.
+Fledgeby covered it with his hand instead, and said, retreating, ‘I beg
+you won’t!’
 
-‘We’ll bring him in!’ say Boots and Brewer.
+‘Give me your nose, sir,’ repeated Lammle.
 
-Strictly speaking, it would be hard to show cause why they should not
-bring him in, Pocket-Breaches having closed its little bargain, and
-there being no opposition. However, it is agreed that they must ‘work’
-to the last, and that if they did not work, something indefinite would
-happen. It is likewise agreed that they are all so exhausted with the
-work behind them, and need to be so fortified for the work before them,
-as to require peculiar strengthening from Veneering’s cellar. Therefore,
-the Analytical has orders to produce the cream of the cream of his
-binns, and therefore it falls out that rallying becomes rather a trying
-word for the occasion; Lady Tippins being observed gamely to inculcate
-the necessity of rearing round their dear Veneering; Podsnap advocating
-roaring round him; Boots and Brewer declaring their intention of reeling
-round him; and Veneering thanking his devoted friends one and all, with
-great emotion, for rarullarulling round him.
+Still covering that feature and backing, Mr Fledgeby reiterated
+(apparently with a severe cold in his head), ‘I beg, I beg, you won’t.’
 
-In these inspiring moments, Brewer strikes out an idea which is the
-great hit of the day. He consults his watch, and says (like Guy Fawkes),
-he’ll now go down to the [[house|House]] of Commons and see how things look.
+‘And this fellow,’ exclaimed Lammle, stopping and making the most of his
+chest—‘This fellow presumes on my having selected him out of all the
+young fellows I know, for an advantageous opportunity! This fellow
+presumes on my having in my desk round the corner, his dirty note of
+hand for a wretched sum payable on the occurrence of a certain event,
+which event can only be of my and my wife’s bringing about! This fellow,
+Fledgeby, presumes to be impertinent to me, Lammle. Give me your nose
+sir!’
 
-‘I’ll keep about the lobby for an hour or so,’ says Brewer, with a
-deeply mysterious countenance, ‘and if things look [[Well|well]], I won’t come
-back, but will order my cab for nine in the morning.’
+‘No! Stop! I beg your pardon,’ said Fledgeby, with [[Humility|humility]].
 
-‘You couldn’t do better,’ says Podsnap.
+‘What do you say, sir?’ demanded Mr Lammle, seeming too furious to
+understand.
 
-Veneering expresses his inability ever to acknowledge this last service.
-[[Tears]] stand in Mrs Veneering’s affectionate eyes. Boots shows envy,
-loses ground, and is regarded as possessing a second-rate mind. They all
-crowd to the door, to see Brewer off. Brewer says to his driver, ‘Now,
-is your [[Horse|horse]] pretty fresh?’ eyeing the animal with critical scrutiny.
-Driver says he’s as fresh as butter. ‘Put him along then,’ says Brewer;
-‘[[house|House]] of Commons.’ Driver darts up, Brewer leaps in, they cheer him as
-he departs, and Mr Podsnap says, ‘Mark my words, sir. That’s a man of
-resource; that’s a man to make his way in life.’
+‘I beg your pardon,’ repeated Fledgeby.
+
+‘Repeat your words louder, sir. The just indignation of a gentleman has
+sent the [[Blood|blood]] boiling to my head. I don’t hear you.’
+
+‘I say,’ repeated Fledgeby, with laborious explanatory politeness, ‘I
+beg your pardon.’
+
+Mr Lammle paused. ‘As a man of [[Honour|honour]],’ said he, throwing himself into a
+chair, ‘I am disarmed.’
+
+Mr Fledgeby also took a chair, though less demonstratively, and by
+slow approaches removed his hand from his nose. Some natural diffidence
+assailed him as to blowing it, so shortly after its having assumed a
+personal and delicate, not to say public, character; but he overcame
+his scruples by degrees, and modestly took that liberty under an implied
+protest.
+
+‘Lammle,’ he said sneakingly, when that was done, ‘I [[Hope|hope]] we are friends
+again?’
+
+‘Mr Fledgeby,’ returned Lammle, ‘say no more.’
+
+‘I must have gone too far in making myself disagreeable,’ said Fledgeby,
+‘but I never intended it.’
+
+‘Say no more, say no more!’ Mr Lammle repeated in a magnificent tone.
+‘Give me your’—Fledgeby started—‘hand.’
+
+They shook hands, and on Mr Lammle’s part, in particular, there ensued
+great geniality. For, he was quite as much of a dastard as the other,
+and had been in equal danger of falling into the second place for good,
+when he took heart just in [[Time|time]], to act upon the information conveyed to
+him by Fledgeby’s eye.
+
+The breakfast ended in a perfect understanding. Incessant machinations
+were to be kept at work by Mr and Mrs Lammle; [[Love|love]] was to be made for
+Fledgeby, and conquest was to be insured to him; he on his part
+very humbly admitting his defects as to the softer social arts, and
+entreating to be backed to the utmost by his two able coadjutors.
+
+Little recked Mr Podsnap of the traps and toils besetting his Young
+Person. He regarded her as safe within the Temple of Podsnappery, hiding
+the fulness of [[Time|time]] when she, Georgiana, should take him, Fitz-Podsnap,
+who with all his worldly goods should her endow. It would call a blush
+into the cheek of his standard Young Person to have anything to do with
+such matters save to take as directed, and with worldly goods as per
+settlement to be endowed. Who giveth this woman to be married to this
+man? I, Podsnap. Perish the daring thought that any smaller creation
+should come between!
+
+It was a public holiday, and Fledgeby did not recover his spirits or his
+usual temperature of nose until the afternoon. Walking into the [[City]] in
+the holiday afternoon, he walked against a living stream setting out of
+it; and thus, when he turned into the precincts of St Mary Axe, he found
+a prevalent repose and quiet there. A yellow overhanging plaster-fronted
+[[house]] at which he stopped was quiet too. The blinds were all drawn down,
+and the [[Inscription|inscription]] Pubsey and Co. seemed to doze in the counting-[[house]]
+[[Window|window]] on the ground-floor giving on the sleepy street.
+
+Fledgeby knocked and rang, and Fledgeby rang and knocked, but no
+one came. Fledgeby crossed the narrow street and looked up at the
+[[house]]-windows, but nobody looked down at Fledgeby. He got out of temper,
+crossed the narrow street again, and pulled the housebell as if it were
+the [[house]]’s nose, and he were taking a hint from his late experience.
+His ear at the keyhole seemed then, at last, to give him assurance that
+something stirred within. His eye at the keyhole seemed to confirm his
+ear, for he angrily pulled the [[house]]’s nose again, and pulled and pulled
+and continued to pull, until a human nose appeared in the dark doorway.
+
+‘Now you sir!’ cried Fledgeby. ‘These are nice games!’
+
+He addressed an old Jewish man in an ancient coat, long of skirt, and
+wide of pocket. A venerable man, bald and shining at the top of his
+head, and with long grey hair flowing down at its sides and mingling
+with his beard. A man who with a graceful Eastern action of homage bent
+his head, and stretched out his hands with the palms downward, as if to
+deprecate the wrath of a superior.
+
+‘What have you been up to?’ said Fledgeby, storming at him.
+
+‘Generous Christian master,’ urged the Jewish man, ‘it being holiday, I
+looked for no one.’
+
+‘Holiday he blowed!’ said Fledgeby, entering. ‘What have YOU got to do
+with holidays? Shut the door.’

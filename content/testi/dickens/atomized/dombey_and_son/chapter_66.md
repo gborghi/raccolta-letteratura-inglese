@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 10"
+title: "Dombey and Son — Chapter 38"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,608 +14,422 @@ tags:
 </nav>
 
 
-CHAPTER X.
-Containing the Sequel of the Midshipman’s Disaster
-
-
-[[Major Bagstock]], after long and frequent observation of Paul, across
-Princess’s Place, through his [[Double|double]]-barrelled opera-glass; and after
-receiving many minute reports, daily, weekly, and monthly, on that
-subject, from the native who kept himself in constant communication
-with Miss Tox’s maid for that purpose; came to the conclusion that
-Dombey, Sir, was a man to be known, and that J. B. was the boy to make
-his acquaintance.
-
-Miss Tox, however, maintaining her reserved behaviour, and frigidly
-declining to understand the Major whenever he called (which he often
-did) on any little fishing excursion connected with this project, the
-Major, in spite of his constitutional toughness and slyness, was fain
-to leave the accomplishment of his [[Desire|desire]] in some measure to chance,
-“which,” as he was used to observe with chuckles at his club, “has been
-fifty to one in favour of Joey B., Sir, ever since his elder brother
-died of Yellow Jack in the West Indies.”
-
-It was some [[Time|time]] coming to his aid in the present instance, but it
-befriended him at last. When the dark servant, with full particulars,
-reported Miss Tox absent on Brighton service, the Major was suddenly
-touched with affectionate reminiscences of his friend Bill Bitherstone
-of Bengal, who had written to ask him, if he ever went that way, to
-bestow a call upon his only son. But when the same dark servant
-reported Paul at Mrs Pipchin’s, and the Major, referring to the letter
-favoured by Master Bitherstone on his arrival in England—to which he
-had never had the least idea of paying any attention—saw the opening
-that presented itself, he was made so rabid by the gout, with which he
-happened to be then laid up, that he threw a footstool at the dark
-servant in return for his intelligence, and swore he would be the [[Death|death]]
-of the rascal before he had done with him: which the dark servant was
-more than half disposed to believe.
-
-At length the Major being released from his fit, went one Saturday
-growling down to Brighton, with the native behind him; apostrophizing
-Miss Tox all the way, and gloating over the prospect of carrying by
-[[Storm|storm]] the distinguished friend to whom she attached so much mystery,
-and for whom she had deserted him.
-
-“Would you, Ma’am, would you!” said the Major, straining with
-vindictiveness, and swelling every already swollen vein in his head.
-“Would you give Joey B. the go-by, Ma’am? Not yet, Ma’am, not yet!
-Damme, not yet, Sir. Joe is awake, Ma’am. Bagstock is alive, Sir. J. B.
-knows a move or two, Ma’am. Josh has his weather-eye open, Sir. You’ll
-find him tough, Ma’am. Tough, Sir, tough is Joseph. Tough, and
-de-vilish sly!”
-
-And very tough indeed Master Bitherstone found him, when he took that
-young gentleman out for a walk. But the Major, with his complexion like
-a Stilton [[cheese]], and his eyes like a prawn’s, went roving about,
-perfectly indifferent to Master Bitherstone’s amusement, and dragging
-Master Bitherstone along, while he looked about him high and low, for
-Mr Dombey and his children.
-
-In good [[Time|time]] the Major, previously instructed by Mrs Pipchin, spied out
-Paul and Florence, and bore down upon them; there being a stately
-gentleman (Mr Dombey, doubtless) in their company. Charging with Master
-Bitherstone into the very heart of the little squadron, it fell out, of
-course, that Master Bitherstone spoke to his fellow-sufferers. Upon
-that the Major stopped to notice and admire them; remembered with
-amazement that he had seen and spoken to them at his friend Miss Tox’s
-in Princess’s Place; opined that Paul was a devilish fine fellow, and
-his own little friend; inquired if he remembered Joey B. the Major; and
-finally, with a sudden recollection of the conventionalities of life,
-turned and apologised to Mr Dombey.
-
-“But my little friend here, Sir,” said the Major, “makes a boy of me
-again: An old soldier, Sir—[[Major Bagstock]], at your service—is not
-ashamed to confess it.” Here the Major lifted his hat. “Damme, Sir,”
-cried the Major with sudden warmth, “I envy you.” Then he recollected
-himself, and added, “Excuse my [[Freedom|freedom]].”
-
-Mr Dombey begged he wouldn’t mention it.
-
-“An old campaigner, Sir,” said the Major, “a smoke-dried, sun-burnt,
-used-up, invalided old dog of a Major, Sir, was not afraid of being
-condemned for his whim by a man like Mr Dombey. I have the [[Honour|honour]] of
-addressing Mr Dombey, I believe?”
-
-“I am the present unworthy representative of that name, Major,”
-returned Mr Dombey.
-
-“By G—, Sir!” said the Major, “it’s a great name. It’s a name, Sir,”
-said the Major firmly, as if he defied Mr Dombey to contradict him, and
-would feel it his painful duty to bully him if he did, “that is known
-and honoured in the British possessions abroad. It is a name, Sir, that
-a man is proud to recognise. There is nothing adulatory in Joseph
-Bagstock, Sir. His Royal Highness the [[Duke of York]] observed on more
-than one occasion, ‘there is no adulation in Joey. He is a plain old
-soldier is Joe. He is tough to a fault is Joseph:’ but it’s a great
-name, Sir. By the Lord, it’s a great name!” said the Major, solemnly.
-
-“You are good enough to rate it higher than it deserves, perhaps,
-Major,” returned Mr Dombey.
-
-“No, Sir,” said the Major, in a severe tone. No, Mr Dombey, let us
-understand each other. That is not the Bagstock vein, Sir. You don’t
-know Joseph B. He is a blunt old blade is Josh. No flattery in him,
-Sir. Nothing like it.”
-
-Mr Dombey inclined his head, and said he believed him to be in earnest,
-and that his high opinion was gratifying.
-
-“My little friend here, Sir,” croaked the Major, looking as amiably as
-he could, on Paul, “will certify for Joseph Bagstock that he is a
-thorough-going, down-right, plain-spoken, old Trump, Sir, and nothing
-more. That boy, Sir,” said the Major in a lower tone, “will live in
-[[history]]. That boy, Sir, is not a common production. Take care of him,
-Mr Dombey.”
-
-Mr Dombey seemed to intimate that he would endeavour to do so.
-
-“Here is a boy here, Sir,” pursued the Major, confidentially, and
-giving him a thrust with his cane. “Son of Bitherstone of Bengal. Bill
-Bitherstone formerly of ours. That boy’s father and myself, Sir, were
-sworn friends. Wherever you went, Sir, you heard of nothing but Bill
-Bitherstone and Joe Bagstock. Am I blind to that boy’s defects? By no
-means. He’s a [[Fool|fool]], Sir.”
-
-Mr Dombey glanced at the libelled Master Bitherstone, of whom he knew
-at least as much as the Major did, and said, in quite a complacent
-manner, “Really?”
-
-“That is what he is, sir,” said the Major. “He’s a [[Fool|fool]]. Joe Bagstock
-never minces matters. The son of my old friend Bill Bitherstone, of
-Bengal, is a born [[Fool|fool]], Sir.” Here the Major laughed till he was almost
-black. “My little friend is destined for a public school, I presume, Mr
-Dombey?” said the Major when he had recovered.
-
-“I am not quite decided,” returned Mr Dombey. “I think not. He is
-delicate.”
-
-“If he’s delicate, Sir,” said the Major, “you are right. None but the
-tough fellows could live through it, Sir, at Sandhurst. We put each
-other to the torture there, Sir. We roasted the new fellows at a slow
-[[Fire|fire]], and hung ’em out of a three pair of stairs [[Window|window]], with their
-heads downwards. Joseph Bagstock, Sir, was held out of the [[Window|window]] by
-the heels of his boots, for thirteen minutes by the college [[Clock|clock]].”
-
-The Major might have appealed to his countenance in corroboration of
-this story. It certainly looked as if he had hung out a little too
-long.
-
-“But it made us what we were, Sir,” said the Major, settling his shirt
-frill. “We were iron, Sir, and it forged us. Are you remaining here, Mr
-Dombey?”
-
-“I generally come down once a week, Major,” returned that gentleman. “I
-stay at the Bedford.”
-
-“I shall have the [[Honour|honour]] of calling at the Bedford, Sir, if you’ll
-permit me,” said the Major. “Joey B., Sir, is not in general a calling
-man, but Mr Dombey’s is not a common name. I am much indebted to my
-little friend, Sir, for the [[Honour|honour]] of this introduction.”
-
-Mr Dombey made a very gracious reply; and [[Major Bagstock]], having patted
-Paul on the head, and said of Florence that her eyes would play the
-Devil with the youngsters before long—“and the oldsters too, Sir, if
-you come to that,” added the Major, chuckling very much—stirred up
-Master Bitherstone with his walking-stick, and departed with that young
-gentleman, at a kind of half-trot; [[rolling]] his head and coughing with
-great dignity, as he staggered away, with his legs very wide asunder.
-
-In fulfilment of his promise, the Major afterwards called on Mr Dombey;
-and Mr Dombey, having referred to the army list, afterwards called on
-the Major. Then the Major called at Mr Dombey’s [[house]] in town; and came
-down again, in the same coach as Mr Dombey. In short, Mr Dombey and the
-Major got on uncommonly [[Well|well]] together, and uncommonly fast: and Mr
-Dombey observed of the Major, to his sister, that besides being quite a
-military man he was really something more, as he had a very admirable
-idea of the importance of things unconnected with his own profession.
-
-At length Mr Dombey, bringing down Miss Tox and Mrs Chick to see the
-children, and finding the Major again at Brighton, invited him to
-dinner at the Bedford, and complimented Miss Tox highly, beforehand, on
-her neighbour and acquaintance.
-
-“My dearest Louisa,” said Miss Tox to Mrs Chick, when they were [[Alone|alone]]
-together, on the morning of the appointed day, “if I should seem at all
-reserved to [[Major Bagstock]], or under any constraint with him, promise
-me not to notice it.”
-
-“My dear Lucretia,” returned Mrs Chick, “what mystery is involved in
-this remarkable request? I must insist upon knowing.”
-
-“Since you are resolved to extort a confession from me, Louisa,” said
-Miss Tox instantly, “I have no alternative but to confide to you that
-the Major has been particular.”
-
-“Particular!” repeated Mrs Chick.
-
-“The Major has long been very particular indeed, my [[Love|love]], in his
-attentions,” said Miss Tox, “occasionally they have been so very
-marked, that my position has been one of no common difficulty.”
-
-“Is he in good circumstances?” inquired Mrs Chick.
-
-“I have every reason to believe, my dear—indeed I may say I know,”
-returned Miss Tox, “that he is wealthy. He is truly military, and full
-of anecdote. I have been informed that his valour, when he was in
-active service, knew no bounds. I am told that he did all sorts of
-things in the Peninsula, with every description of [[Fire|fire]]-arm; and in the
-East and West Indies, my [[Love|love]], I really couldn’t undertake to say what
-he did not do.”
-
-“Very creditable to him indeed,” said Mrs Chick, “extremely so; and you
-have given him no encouragement, my dear?”
-
-“If I were to say, Louisa,” replied Miss Tox, with every demonstration
-of making an effort that rent her [[Soul|soul]], “that I never encouraged Major
-Bagstock slightly, I should not do justice to the [[Friendship|friendship]] which
-exists between you and me. It is, perhaps, hardly in the [[Nature|nature]] of
-woman to receive such attentions as the Major once lavished upon myself
-without betraying some sense of obligation. But that is past—long past.
-Between the Major and me there is now a yawning chasm, and I will not
-feign to give encouragement, Louisa, where I cannot give my heart. My
-affections,” said Miss Tox—“but, Louisa, this is [[Madness|madness]]!” and departed
-from the room.
-
-All this Mrs Chick communicated to her brother before dinner: and it by
-no means indisposed Mr Dombey to receive the Major with unwonted
-cordiality. The Major, for his part, was in a state of plethoric
-satisfaction that knew no bounds: and he coughed, and choked, and
-chuckled, and gasped, and swelled, until the waiters seemed positively
-afraid of him.
-
-“Your family monopolises Joe’s light, Sir,” said the Major, when he had
-saluted Miss Tox. “Joe lives in darkness. Princess’s Place is changed
-into Kamschatka in the [[Winter|winter]] [[Time|time]]. There is no ray of sun, Sir, for
-Joey B., now.”
-
-“Miss Tox is good enough to take a great deal of interest in Paul,
-Major,” returned Mr Dombey on behalf of that blushing virgin.
-
-“Damme Sir,” said the Major, “I’m jealous of my little friend. I’m
-pining away Sir. The Bagstock breed is degenerating in the forsaken
-person of old Joe.” And the Major, becoming bluer and bluer and puffing
-his cheeks further and further over the stiff ridge of his tight
-cravat, stared at Miss Tox, until his eyes seemed as if he were at that
-moment being overdone before the slow [[Fire|fire]] at the military college.
-
-Notwithstanding the palpitation of the heart which these allusions
-occasioned her, they were anything but disagreeable to Miss Tox, as
-they enabled her to be extremely interesting, and to manifest an
-occasional incoherence and distraction which she was not at all
-unwilling to display. The Major gave her abundant opportunities of
-exhibiting this emotion: being profuse in his complaints, at dinner, of
-her desertion of him and Princess’s Place: and as he appeared to derive
-great enjoyment from making them, they all got on very [[Well|well]].
-
-None the worse on account of the Major taking charge of the whole
-conversation, and showing as great an appetite in that respect as in
-regard of the various dainties on the table, among which he may be
-almost said to have wallowed: greatly to the aggravation of his
-inflammatory tendencies. Mr Dombey’s habitual [[Silence|silence]] and reserve
-yielding readily to this usurpation, the Major felt that he was coming
-out and shining: and in the flow of spirits thus engendered, rang such
-an infinite number of new changes on his own name that he quite
-astonished himself. In a word, they were all very [[Well|well]] pleased. The
-Major was considered to possess an inexhaustible fund of conversation;
-and when he took a late farewell, after a long rubber, Mr Dombey again
-complimented the blushing Miss Tox on her neighbour and acquaintance.
-
-But all the way [[Home|home]] to his own hotel, the Major incessantly said to
-himself, and of himself, “Sly, Sir—sly, Sir—de-vil-ish sly!” And when
-he got there, sat down in a chair, and fell into a silent fit of
-laughter, with which he was sometimes seized, and which was always
-particularly awful. It held him so long on this occasion that the dark
-servant, who stood watching him at a distance, but dared not for his
-life approach, twice or thrice gave him over for lost. His whole form,
-but especially his face and head, dilated beyond all former experience;
-and presented to the dark man’s view, nothing but a heaving mass of
-indigo. At length he burst into a violent paroxysm of coughing, and
-when that was a little better burst into such ejaculations as the
-following:
-
-“Would you, Ma’am, would you? Mrs Dombey, eh, Ma’am? I think not,
-Ma’am. Not while Joe B. can put a spoke in your [[Wheel|wheel]], Ma’am. J. B.“s
-even with you now, Ma’am. He isn’t altogether bowled out, yet, Sir,
-isn’t Bagstock. She’s deep, Sir, deep, but Josh is deeper. Wide awake
-is old Joe—broad awake, and staring, Sir!” There was no [[Doubt|doubt]] of this
-last assertion being true, and to a very fearful extent; as it
-continued to be during the greater part of that [[Night|night]], which the Major
-chiefly passed in similar exclamations, diversified with fits of
-coughing and choking that startled the whole [[house]].
-
-It was on the day after this occasion (being [[Sunday]]) when, as Mr
-Dombey, Mrs Chick, and Miss Tox were sitting at breakfast, still
-eulogising the Major, Florence came running in: her face suffused with
-a bright colour, and her eyes sparkling joyfully: and cried,
-
-“Papa! Papa! Here’s Walter! and he won’t come in.”
-
-“Who?” cried Mr Dombey. “What does she mean? What is this?”
-
-“Walter, Papa!” said Florence timidly; sensible of having approached
-the presence with too much familiarity. “Who found me when I was lost.”
-
-“Does she mean young Gay, Louisa?” inquired Mr Dombey, knitting his
-brows. “Really, this [[Child|child]]’s manners have become very boisterous. She
-cannot mean young Gay, I think. See what it is, will you?”
-
-Mrs Chick hurried into the passage, and returned with the information
-that it was young Gay, accompanied by a very strange-looking person;
-and that young Gay said he would not take the liberty of coming in,
-hearing Mr Dombey was at breakfast, but would wait until Mr Dombey
-should signify that he might approach.
-
-“Tell the boy to come in now,” said Mr Dombey. “Now, Gay, what is the
-matter? Who sent you down here? Was there nobody else to come?”
-
-“I beg your pardon, Sir,” returned Walter. “I have not been sent. I
-have been so bold as to come on my own account, which I [[Hope|hope]] you’ll
-pardon when I mention the cause.
-
-But Mr Dombey, without attending to what he said, was looking
-impatiently on either side of him (as if he were a pillar in his way)
-at some object behind.
-
-“What’s that?” said Mr Dombey. “Who is that? I think you have made some
-mistake in the door, Sir.”
-
-“Oh, I’m very sorry to intrude with anyone, Sir,” cried Walter,
-hastily: “but this is—this is [[Captain Cuttle]], Sir.”
-
-“Wal”r, my lad,” observed the Captain in a deep voice: “stand by!”
-
-At the same [[Time|time]] the Captain, coming a little further in, brought out
-his wide suit of blue, his conspicuous shirt-collar, and his knobby
-nose in full relief, and stood bowing to Mr Dombey, and waving his hook
-politely to the ladies, with the hard glazed hat in his one hand, and a
-red equator round his head which it had newly imprinted there.
-
-Mr Dombey regarded this phenomenon with amazement and indignation, and
-seemed by his looks to appeal to Mrs Chick and Miss Tox against it.
-Little Paul, who had come in after Florence, backed towards Miss Tox as
-the Captain waved his hook, and stood on the defensive.
-
-“Now, Gay,” said Mr Dombey. “What have you got to say to me?”
-
-Again the Captain observed, as a general opening of the conversation
-that could not fail to propitiate all parties, “Wal”r, standby!”
-
-“I am afraid, Sir,” began Walter, trembling, and looking down at the
-ground, “that I take a very great liberty in coming—indeed, I am sure I
-do. I should hardly have had the [[Courage|courage]] to ask to see you, Sir, even
-after coming down, I am afraid, if I had not overtaken Miss Dombey,
-and—”
-
-“[[Well]]!” said Mr Dombey, following his eyes as he glanced at the
-attentive Florence, and frowning unconsciously as she encouraged him
-with a smile. “Go on, if you please.”
-
-“Ay, ay,” observed the Captain, considering it incumbent on him, as a
-point of good breeding, to support Mr Dombey. “[[Well]] said! Go on,
-Wal”r.”
-
-[[Captain Cuttle]] ought to have been withered by the look which Mr Dombey
-bestowed upon him in acknowledgment of his patronage. But quite
-[[Innocent|innocent]] of this, he closed one eye in reply, and gave Mr Dombey to
-understand, by certain significant motions of his hook, that Walter was
-a little bashful at first, and might be expected to come out shortly.
-
-“It is entirely a private and personal matter, that has brought me
-here, Sir,” continued Walter, faltering, “and [[Captain Cuttle]]—”
-
-“Here!” interposed the Captain, as an assurance that he was at hand,
-and might be relied upon.
-
-“Who is a very old friend of my poor Uncle’s, and a most excellent man,
-Sir,” pursued Walter, raising his eyes with a look of entreaty in the
-Captain’s behalf, “was so good as to offer to come with me, which I
-could hardly refuse.”
-
-“No, no, no;” observed the Captain complacently. “Of course not. No
-call for refusing. Go on, Wal”r.”
-
-“And therefore, Sir,” said Walter, venturing to meet Mr Dombey’s eye,
-and proceeding with better [[Courage|courage]] in the very desperation of the case,
-now that there was no avoiding it, “therefore I have come, with him,
-Sir, to say that my poor old Uncle is in very great affliction and
-distress. That, through the gradual loss of his business, and not being
-able to make a payment, the apprehension of which has weighed very
-heavily upon his mind, months and months, as indeed I know, Sir, he has
-an execution in his [[house]], and is in danger of losing all he has, and
-breaking his heart. And that if you would, in your kindness, and in
-your old knowledge of him as a respectable man, do anything to help him
-out of his difficulty, Sir, we never could thank you enough for it.”
-
-Walter’s eyes filled with [[Tears|tears]] as he spoke; and so did those of
-Florence. Her father saw them glistening, though he appeared to look at
-Walter only.
-
-“It is a very large sum, Sir,” said Walter. “More than three hundred
-pounds. My Uncle is quite beaten down by his misfortune, it lies so
-heavy on him; and is quite unable to do anything for his own relief. He
-doesn’t even know yet, that I have come to speak to you. You would wish
-me to say, Sir,” added Walter, after a moment’s hesitation, “exactly
-what it is I want. I really don’t know, Sir. There is my Uncle’s stock,
-on which I believe I may say, confidently, there are no other demands,
-and there is [[Captain Cuttle]], who would wish to be security too. I—I
-hardly like to mention,” said Walter, “such earnings as mine; but if
-you would allow them—accumulate—payment—advance—Uncle—frugal,
-honourable, old man.” Walter trailed off, through these broken
-sentences, into [[Silence|silence]]: and stood with downcast head, before his
-employer.
-
-Considering this a favourable moment for the display of the valuables,
-[[Captain Cuttle]] advanced to the table; and clearing a space among the
-breakfast-cups at Mr Dombey’s elbow, produced the silver watch, the
-ready money, the teaspoons, and the sugar-tongs; and piling them up
-into a heap that they might look as precious as possible, delivered
-himself of these words:
-
-“Half a loaf’s better than no bread, and the same remark holds good
-with crumbs. There’s a few. Annuity of one hundred pound premium also
-ready to be made over. If there is a man chock full of science in the
-world, it’s old Sol Gills. If there is a lad of promise—one flowing,”
-added the Captain, in one of his happy quotations, “with milk and
-honey—it’s his nevy!”
-
-The Captain then withdrew to his former place, where he stood arranging
-his scattered locks with the air of a man who had given the finishing
-touch to a difficult performance.
-
-When Walter ceased to speak, Mr Dombey’s eyes were attracted to little
-Paul, who, seeing his sister hanging down her head and silently weeping
-in her commiseration for the distress she had heard described, went
-over to her, and tried to comfort her: looking at Walter and his father
-as he did so, with a very expressive face. After the momentary
-distraction of [[Captain Cuttle]]’s address, which he regarded with lofty
-indifference, Mr Dombey again turned his eyes upon his son, and sat
-steadily regarding the [[Child|child]], for some moments, in [[Silence|silence]].
-
-“What was this debt contracted for?” asked Mr Dombey, at length. “Who
-is the creditor?”
-
-“He don’t know,” replied the Captain, putting his hand on Walter’s
-shoulder. “I do. It came of helping a man that’s dead now, and that’s
-cost my friend Gills many a hundred pound already. More particulars in
-private, if agreeable.”
-
-“People who have enough to do to hold their own way,” said Mr Dombey,
-unobservant of the Captain’s mysterious signs behind Walter, and still
-looking at his son, “had better be content with their own obligations
-and difficulties, and not increase them by engaging for other men. It
-is an act of dishonesty and presumption, too,” said Mr Dombey, sternly;
-“great presumption; for the wealthy could do no more. Paul, come here!”
-
-The [[Child|child]] obeyed: and Mr Dombey took him on his knee.
-
-“If you had money now—” said Mr Dombey. “Look at me!”
-
-Paul, whose eyes had wandered to his sister, and to Walter, looked his
-father in the face.
-
-“If you had money now,” said Mr Dombey; “as much money as young Gay has
-talked about; what would you do?”
-
-“Give it to his old Uncle,” returned Paul.
-
-“Lend it to his old Uncle, eh?” retorted Mr Dombey. “[[Well]]! When you are
-old enough, you know, you will share my money, and we shall use it
-together.”
-
-“Dombey and Son,” interrupted Paul, who had been tutored early in the
-phrase.
-
-“Dombey and Son,” repeated his father. “Would you like to begin to be
-Dombey and Son, now, and lend this money to young Gay’s Uncle?”
-
-“Oh! if you please, Papa!” said Paul: “and so would Florence.”
-
-“Girls,” said Mr Dombey, “have nothing to do with Dombey and Son. Would
-you like it?”
-
-“Yes, Papa, yes!”
-
-“Then you shall do it,” returned his father. “And you see, Paul,” he
-added, dropping his voice, “how powerful money is, and how anxious
-people are to get it. Young Gay comes all this way to beg for money,
-and you, who are so grand and great, having got it, are going to let
-him have it, as a great favour and obligation.”
-
-Paul turned up the old face for a moment, in which there was a sharp
-understanding of the reference conveyed in these words: but it was a
-young and childish face immediately afterwards, when he slipped down
-from his father’s knee, and ran to tell Florence not to cry any more,
-for he was going to let young Gay have the money.
-
-Mr Dombey then turned to a side-table, and wrote a note and sealed it.
-During the interval, Paul and Florence whispered to Walter, and Captain
-Cuttle beamed on the three, with such aspiring and ineffably
-presumptuous thoughts as Mr Dombey never could have believed in. The
-note being finished, Mr Dombey turned round to his former place, and
-held it out to Walter.
-
-“Give that,” he said, “the first thing to-morrow morning, to Mr Carker.
-He will immediately take care that one of my people releases your Uncle
-from his present position, by paying the amount at issue; and that such
-arrangements are made for its repayment as may be consistent with your
-Uncle’s circumstances. You will consider that this is done for you by
-Master Paul.”
-
-Walter, in the emotion of holding in his hand the means of releasing
-his good Uncle from his trouble, would have endeavoured to express
-something of his gratitude and joy. But Mr Dombey stopped him short.
-
-“You will consider that it is done,” he repeated, “by Master Paul. I
-have explained that to him, and he understands it. I wish no more to be
-said.”
-
-As he motioned towards the door, Walter could only bow his head and
-retire. Miss Tox, seeing that the Captain appeared about to do the
-same, interposed.
-
-“My dear Sir,” she said, addressing Mr Dombey, at whose munificence
-both she and Mrs Chick were shedding [[Tears|tears]] copiously; “I think you have
-overlooked something. Pardon me, Mr Dombey, I think, in the nobility of
-your character, and its exalted scope, you have omitted a matter of
-detail.”
-
-“Indeed, Miss Tox!” said Mr Dombey.
-
-“The gentleman with the—Instrument,” pursued Miss Tox, glancing at
-[[Captain Cuttle]], “has left upon the table, at your elbow—”
-
-“Good Heaven!” said Mr Dombey, sweeping the Captain’s property from
-him, as if it were so much crumb indeed. “Take these things away. I am
-obliged to you, Miss Tox; it is like your usual discretion. Have the
-goodness to take these things away, Sir!”
-
-[[Captain Cuttle]] felt he had no alternative but to comply. But he was so
-much struck by the magnanimity of Mr Dombey, in refusing treasures
-lying heaped up to his hand, that when he had deposited the teaspoons
-and sugar-tongs in one pocket, and the ready money in another, and had
-lowered the great watch down slowly into its proper vault, he could not
-refrain from seizing that gentleman’s right hand in his own solitary
-left, and while he held it open with his powerful fingers, bringing the
-hook down upon its palm in a transport of admiration. At this touch of
-warm feeling and cold iron, Mr Dombey shivered all over.
-
-[[Captain Cuttle]] then kissed his hook to the ladies several times, with
-great elegance and gallantry; and having taken a particular leave of
-Paul and Florence, accompanied Walter out of the room. Florence was
-running after them in the earnestness of her heart, to send some
-message to old Sol, when Mr Dombey called her back, and bade her stay
-where she was.
-
-“Will you never be a Dombey, my dear [[Child|child]]!” said Mrs Chick, with
-pathetic reproachfulness.
-
-“Dear aunt,” said Florence. “Don’t be angry with me. I am so thankful
-to Papa!”
-
-She would have run and thrown her arms about his neck if she had dared;
-but as she did not dare, she glanced with thankful eyes towards him, as
-he sat musing; sometimes bestowing an uneasy glance on her, but, for
-the most part, watching Paul, who walked about the room with the
-new-blown dignity of having let young Gay have the money.
-
-And young Gay—Walter—what of him?
-
-He was overjoyed to purge the old man’s hearth from bailiffs and
-brokers, and to hurry back to his Uncle with the good tidings. He was
-overjoyed to have it all arranged and settled next day before [[Noon|noon]]; and
-to sit down at evening in the little back parlour with old Sol and
-[[Captain Cuttle]]; and to see the Instrument-maker already reviving, and
-hopeful for the future, and feeling that the wooden Midshipman was his
-own again. But without the least impeachment of his gratitude to Mr
-Dombey, it must be confessed that Walter was humbled and cast down. It
-is when our budding hopes are nipped beyond recovery by some rough
-[[Wind|wind]], that we are the most disposed to picture to ourselves what
-[[Flowers|flowers]] they might have borne, if they had flourished; and now, when
-Walter found himself cut off from that great Dombey height, by the
-depth of a new and terrible tumble, and felt that all his old wild
-fancies had been scattered to the winds in the fall, he began to
-suspect that they might have led him on to harmless visions of aspiring
-to Florence in the remote distance of [[Time|time]].
-
-The Captain viewed the subject in quite a different light. He appeared
-to entertain a belief that the interview at which he had assisted was
-so very satisfactory and encouraging, as to be only a step or two
-removed from a regular betrothal of Florence to Walter; and that the
-late transaction had immensely forwarded, if not thoroughly
-established, the Whittingtonian hopes. Stimulated by this conviction,
-and by the improvement in the spirits of his old friend, and by his own
-consequent gaiety, he even attempted, in favouring them with the ballad
-of “Lovely Peg” for the third [[Time|time]] in one evening, to make an
-extemporaneous substitution of the name “Florence;” but finding this
-difficult, on account of the word Peg invariably rhyming to leg (in
-which personal [[Beauty|beauty]] the original was described as having excelled all
-competitors), he hit upon the happy thought of changing it to Fle-e-eg;
-which he accordingly did, with an archness almost [[Supernatural|supernatural]], and a
-voice quite vociferous, notwithstanding that the [[Time|time]] was close at hand
-when he must seek the abode of the dreadful Mrs MacStinger.
-
-That same evening the Major was diffuse at his club, on the subject of
-his friend Dombey in the [[City]]. “Damme, Sir,” said the Major, “he’s a
-prince, is my friend Dombey in the [[City]]. I tell you what, Sir. If you
-had a few more men among you like old Joe Bagstock and my friend Dombey
-in the [[City]], Sir, you’d do!”
+CHAPTER XXXVIII.
+Miss Tox improves an Old Acquaintance
+
+
+The forlorn Miss Tox, abandoned by her friend Louisa Chick, and bereft
+of Mr Dombey’s countenance—for no delicate pair of wedding cards,
+united by a silver thread, graced the chimney-glass in Princess’s
+Place, or the harpsichord, or any of those little posts of display
+which Lucretia reserved for holiday occupation—became depressed in her
+spirits, and suffered much from [[Melancholy|melancholy]]. For a [[Time|time]] the Bird Waltz
+was unheard in Princess’s Place, the plants were neglected, and [[Dust|dust]]
+collected on the miniature of Miss Tox’s ancestor with the powdered
+head and pigtail.
+
+Miss Tox, however, was not of an age or of a disposition long to
+abandon herself to unavailing regrets. Only two notes of the
+harpsichord were dumb from disuse when the Bird Waltz again warbled and
+trilled in the crooked drawing-room: only one slip of geranium fell a
+victim to imperfect nursing, before she was gardening at her green
+baskets again, regularly every morning; the powdered-headed ancestor
+had not been under a cloud for more than six weeks, when Miss Tox
+breathed on his benignant visage, and polished him up with a piece of
+wash-leather.
+
+Still, Miss Tox was lonely, and at a loss. Her attachments, however
+ludicrously shown, were real and strong; and she was, as she expressed
+it, “deeply hurt by the unmerited contumely she had met with from
+Louisa.” But there was no such thing as anger in Miss Tox’s
+composition. If she had ambled on through life, in her soft spoken way,
+without any opinions, she had, at least, got so far without any harsh
+passions. The mere sight of Louisa Chick in the street one day, at a
+considerable distance, so overpowered her milky [[Nature|nature]], that she was
+fain to seek immediate refuge in a pastrycook’s, and there, in a musty
+little back room usually devoted to the consumption of soups, and
+pervaded by an ox-tail atmosphere, relieve her feelings by weeping
+plentifully.
+
+Against Mr Dombey Miss Tox hardly felt that she had any reason of
+complaint. Her sense of that gentleman’s magnificence was such, that
+once removed from him, she felt as if her distance always had been
+immeasurable, and as if he had greatly condescended in tolerating her
+at all. No wife could be too handsome or too stately for him, according
+to Miss Tox’s sincere opinion. It was perfectly natural that in looking
+for one, he should look high. Miss Tox with [[Tears|tears]] laid down this
+proposition, and fully admitted it, twenty times a day. She never
+recalled the lofty manner in which Mr Dombey had made her subservient
+to his convenience and caprices, and had graciously permitted her to be
+one of the nurses of his little son. She only thought, in her own
+words, “that she had passed a great many happy hours in that [[house]],
+which she must ever remember with gratification, and that she could
+never cease to regard Mr Dombey as one of the most impressive and
+dignified of men.”
+
+Cut off, however, from the implacable Louisa, and being shy of the
+Major (whom she viewed with some distrust now), Miss Tox found it very
+irksome to know nothing of what was going on in Mr Dombey’s
+establishment. And as she really had got into the habit of considering
+Dombey and Son as the pivot on which the world in general turned, she
+resolved, rather than be ignorant of intelligence which so strongly
+interested her, to cultivate her old acquaintance, Mrs Richards, who
+she knew, since her last memorable appearance before Mr Dombey, was in
+the habit of sometimes holding communication with his servants. Perhaps
+Miss Tox, in seeking out the Toodle family, had the tender motive
+hidden in her breast of having somebody to whom she could talk about Mr
+Dombey, no matter how humble that somebody might be.
+
+At all events, towards the Toodle habitation Miss Tox directed her
+steps one evening, what [[Time|time]] Mr Toodle, cindery and swart, was
+refreshing himself with tea, in the bosom of his family. Mr Toodle had
+only three stages of existence. He was either taking refreshment in the
+bosom just mentioned, or he was tearing through the country at from
+twenty-five to fifty miles an hour, or he was sleeping after his
+fatigues. He was always in a whirlwind or a calm, and a peaceable,
+contented, easy-going man Mr Toodle was in either state, who seemed to
+have made over all his own inheritance of fuming and fretting to the
+engines with which he was connected, which panted, and gasped, and
+chafed, and wore themselves out, in a most unsparing manner, while Mr
+Toodle led a mild and equable life.
+
+“Polly, my gal,” said Mr Toodle, with a young Toodle on each knee, and
+two more making tea for him, and plenty more scattered about—Mr Toodle
+was never out of children, but always kept a good supply on hand—“you
+ain’t seen our Biler lately, have you?”
+
+“No,” replied Polly, “but he’s almost certain to look in tonight. It’s
+his right evening, and he’s very regular.”
+
+“I suppose,” said Mr Toodle, relishing his meal infinitely, “as our
+Biler is a doin’ now about as [[Well|well]] as a boy can do, eh, Polly?”
+
+“Oh! he’s a doing beautiful!” responded Polly.
+
+“He ain’t got to be at all secret-like—has he, Polly?” inquired Mr
+Toodle.
+
+“No!” said Mrs Toodle, plumply.
+
+“I’m glad he ain’t got to be at all secret-like, Polly,” observed Mr
+Toodle in his slow and measured way, and shovelling in his bread and
+butter with a clasp knife, as if he were stoking himself, “because that
+don’t look [[Well|well]]; do it, Polly?”
+
+“Why, of course it don’t, father. How can you ask!”
+
+“You see, my boys and gals,” said Mr Toodle, looking round upon his
+family, “wotever you’re up to in a honest way, it’s my opinion as you
+can’t do better than be open. If you find yourselves in cuttings or in
+tunnels, don’t you play no secret games. Keep your whistles going, and
+let’s know where you are.”
+
+The rising Toodles set up a shrill murmur, expressive of their
+resolution to profit by the paternal advice.
+
+“But what makes you say this along of Rob, father?” asked his wife,
+anxiously.
+
+“Polly, old “ooman,” said Mr Toodle, “I don’t know as I said it
+partickler along o’ Rob, I’m sure. I starts light with Rob only; I
+comes to a branch; I takes on what I finds there; and a whole train of
+ideas gets coupled on to him, afore I knows where I am, or where they
+comes from. What a Junction a man’s thoughts is,” said Mr Toodle,
+“to-be-sure!”
+
+This profound reflection Mr Toodle washed down with a pint mug of tea,
+and proceeded to solidify with a great weight of bread and butter;
+charging his young daughters meanwhile, to keep plenty of hot [[Water|water]] in
+the pot, as he was uncommon dry, and should take the indefinite
+quantity of “a sight of mugs,” before his thirst was appeased.
+
+In satisfying himself, however, Mr Toodle was not regardless of the
+younger branches about him, who, although they had made their own
+evening repast, were on the look-out for irregular morsels, as
+possessing a relish. These he distributed now and then to the expectant
+circle, by holding out great wedges of bread and butter, to be bitten
+at by the family in lawful succession, and by serving out small doses
+of tea in like manner with a spoon; which snacks had such a relish in
+the mouths of these young Toodles, that, after partaking of the same,
+they performed private dances of ecstasy among themselves, and stood on
+one leg apiece, and hopped, and indulged in other saltatory tokens of
+gladness. These vents for their excitement found, they gradually closed
+about Mr Toodle again, and eyed him hard as he got through more bread
+and butter and tea; affecting, however, to have no further expectations
+of their own in reference to those viands, but to be conversing on
+foreign subjects, and whispering confidentially.
+
+Mr Toodle, in the midst of this family group, and setting an awful
+example to his children in the way of appetite, was conveying the two
+young Toodles on his knees to Birmingham by special engine, and was
+contemplating the rest over a barrier of bread and butter, when Rob the
+Grinder, in his sou’wester hat and mourning slops, presented himself,
+and was received with a general rush of brothers and sisters.
+
+“[[Well]], mother!” said Rob, dutifully kissing her; “how are you, mother?”
+
+“There’s my boy!” cried Polly, giving him a hug and a pat on the back.
+“Secret! Bless you, father, not he!”
+
+This was intended for Mr Toodle’s private edification, but Rob the
+Grinder, whose withers were not unwrung, caught the words as they were
+spoken.
+
+“What! father’s been a saying something more again me, has he?” cried
+the injured [[Innocent|innocent]]. “Oh, what a hard thing it is that when a cove has
+once gone a little wrong, a cove’s own father should be always a
+throwing it in his face behind his back! It’s enough,” cried Rob,
+resorting to his coat-cuff in anguish of spirit, “to make a cove go and
+do something, out of spite!”
+
+“My poor boy!” cried Polly, “father didn’t mean anything.”
+
+“If father didn’t mean anything,” blubbered the injured Grinder, “why
+did he go and say anything, mother? Nobody thinks half so bad of me as
+my own father does. What a unnatural thing! I wish somebody’d take and
+chop my head off. Father wouldn’t mind doing it, I believe, and I’d
+much rather he did that than t’other.”
+
+At these desperate words all the young Toodles shrieked; a pathetic
+effect, which the Grinder improved by ironically adjuring them not to
+cry for him, for they ought to hate him, they ought, if they was good
+boys and girls; and this so touched the youngest Toodle but one, who
+was easily moved, that it touched him not only in his spirit but in his
+[[Wind|wind]] too; making him so purple that Mr Toodle in consternation carried
+him out to the [[Water|water]]-butt, and would have put him under the tap, but
+for his being recovered by the sight of that instrument.
+
+Matters having reached this point, Mr Toodle explained, and the
+virtuous feelings of his son being thereby calmed, they shook hands,
+and harmony reigned again.
+
+“Will you do as I do, Biler, my boy?” inquired his father, returning to
+his tea with new strength.
+
+“No, thank’ee, father. Master and I had tea together.”
+
+“And how _is_ master, Rob?” said Polly.
+
+“[[Well]], I don’t know, mother; not much to boast on. There ain’t no
+bis’ness done, you see. He don’t know anything about it—the Cap’en
+don’t. There was a man come into the shop this very day, and says, ‘I
+want a so-and-so,’ he says—some hard name or another. ‘A which?’ says
+the Cap’en. ‘A so-and-so,’ says the man. ‘Brother,’ says the Cap’en,
+‘will you take a observation round the shop.’ ‘[[Well]],’ says the man,
+‘I’ve done.’ ‘Do you see wot you want?’ says the Cap’en ‘No, I don’t,’
+says the man. ‘Do you know it wen you _do_ see it?’ says the Cap’en.
+‘No, I don’t,’ says the man. ‘Why, then I tell you wot, my lad,’ says
+the Cap’en, ‘you’d better go back and ask wot it’s like, outside, for
+no more don’t I!’”
+
+“That ain’t the way to make money, though, is it?” said Polly.
+
+“Money, mother! He’ll never make money. He has such ways as I never
+see. He ain’t a bad master though, I’ll say that for him. But that
+ain’t much to me, for I don’t think I shall stop with him long.”
+
+“Not stop in your place, Rob!” cried his mother; while Mr Toodle opened
+his eyes.
+
+“Not in that place, p’raps,” returned the Grinder, with a wink. “I
+shouldn’t [[Wonder|wonder]]—friends at [[Court|court]] you know—but never _you_ mind,
+mother, just now; I’m all right, that’s all.”
+
+The indisputable proof afforded in these hints, and in the Grinder’s
+mysterious manner, of his not being subject to that failing which Mr
+Toodle had, by implication, attributed to him, might have led to a
+renewal of his wrongs, and of the sensation in the family, but for the
+opportune arrival of another visitor, who, to Polly’s great surprise,
+appeared at the door, smiling patronage and [[Friendship|friendship]] on all there.
+
+“How do you do, Mrs Richards?” said Miss Tox. “I have come to see you.
+May I come in?”
+
+The cheery face of Mrs Richards shone with a hospitable reply, and Miss
+Tox, accepting the proffered chair, and gracefully recognising Mr
+Toodle on her way to it, untied her bonnet strings, and said that in
+the first place she must beg the dear children, one and all, to come
+and kiss her.
+
+[Illustration]
+
+The ill-starred youngest Toodle but one, who would appear, from the
+frequency of his domestic troubles, to have been born under an unlucky
+planet, was prevented from performing his part in this general
+salutation by having fixed the sou’wester hat (with which he had been
+previously trifling) deep on his head, hind side before, and being
+unable to get it off again; which accident presenting to his terrified
+[[Imagination|imagination]] a dismal picture of his passing the rest of his days in
+darkness, and in hopeless seclusion from his friends and family, caused
+him to struggle with great violence, and to utter suffocating cries.
+Being released, his face was discovered to be very hot, and red, and
+damp; and Miss Tox took him on her lap, much exhausted.
+
+“You have almost forgotten me, Sir, I daresay,” said Miss Tox to Mr
+Toodle.
+
+“No, Ma’am, no,” said Toodle. “But we’ve all on us got a little older
+since then.”
+
+“And how do you find yourself, Sir?” inquired Miss Tox, blandly.
+
+“Hearty, Ma’am, thank’ee,” replied Toodle. “How do _you_ find
+_your_self, Ma’am? Do the rheumaticks keep off pretty [[Well|well]], Ma’am? We
+must all expect to grow into ’em, as we gets on.”
+
+“Thank you,” said Miss Tox. “I have not felt any inconvenience from
+that disorder yet.”
+
+“You’re wery fortunate, Ma’am,” returned Mr Toodle. “Many people at
+your [[Time|time]] of life, Ma’am, is martyrs to it. There was my mother—” But
+catching his wife’s eye here, Mr Toodle judiciously buried the rest in
+another mug of tea.
+
+“You never mean to say, Mrs Richards,” cried Miss Tox, looking at Rob,
+“that that is your—”
+
+“Eldest, Ma’am,” said Polly. “Yes, indeed, it is. That’s the little
+fellow, Ma’am, that was the [[Innocent|innocent]] cause of so much.”
+
+“This here, Ma’am,” said Toodle, “is him with the short legs—and they
+was,” said Mr Toodle, with a touch of poetry in his tone, “unusual
+short for leathers—as Mr Dombey made a Grinder on.”
+
+The recollection almost overpowered Miss Tox. The subject of it had a
+peculiar interest for her directly. She asked him to shake hands, and
+congratulated his mother on his frank, ingenuous face. Rob, overhearing
+her, called up a look, to justify the eulogium, but it was hardly the
+right look.
+
+“And now, Mrs Richards,” said Miss Tox,—“and you too, Sir,” addressing
+Toodle—“I’ll tell you, plainly and truly, what I have come here for.
+You may be aware, Mrs Richards—and, possibly, you may be aware too,
+Sir—that a little distance has interposed itself between me and some of
+my friends, and that where I used to visit a good deal, I do not visit
+now.”
+
+Polly, who, with a woman’s tact, understood this at once, expressed as
+much in a little look. Mr Toodle, who had not the faintest idea of what
+Miss Tox was talking about, expressed that also, in a stare.
+
+“Of course,” said Miss Tox, “how our little coolness has arisen is of
+no moment, and does not require to be discussed. It is sufficient for
+me to say, that I have the greatest possible respect for, and interest
+in, Mr Dombey;” Miss Tox’s voice faltered; “and everything that relates
+to him.”
+
+Mr Toodle, enlightened, shook his head, and said he had heerd it said,
+and, for his own part, he did think, as Mr Dombey was a difficult
+subject.
+
+“Pray don’t say so, Sir, if you please,” returned Miss Tox. “Let me
+entreat you not to say so, Sir, either now, or at any future [[Time|time]]. Such
+observations cannot but be very painful to me; and to a gentleman,
+whose mind is constituted as, I am quite sure, yours is, can afford no
+permanent satisfaction.”
+
+Mr Toodle, who had not entertained the least [[Doubt|doubt]] of offering a remark
+that would be received with acquiescence, was greatly confounded.
+
+“All that I wish to say, Mrs Richards,” resumed Miss Tox,—“and I
+address myself to you too, Sir,—is this. That any intelligence of the
+proceedings of the family, of the welfare of the family, of the health
+of the family, that reaches you, will be always most acceptable to me.
+That I shall be always very glad to chat with Mrs Richards about the
+family, and about old [[Time|time]]. And as Mrs Richards and I never had the
+least difference (though I could wish now that we had been better
+acquainted, but I have no one but myself to blame for that), I [[Hope|hope]] she
+will not object to our being very good friends now, and to my coming
+backwards and forwards here, when I like, without being a stranger.
+Now, I really [[Hope|hope]], Mrs Richards,” said Miss Tox, earnestly, “that you
+will take this, as I mean it, like a good-humoured creature, as you
+always were.”
+
+Polly was gratified, and showed it. Mr Toodle didn’t know whether he
+was gratified or not, and preserved a stolid calmness.
+
+“You see, Mrs Richards,” said Miss Tox—“and I [[Hope|hope]] you see too,
+Sir—there are many little ways in which I can be slightly useful to
+you, if you will make no stranger of me; and in which I shall be
+delighted to be so. For instance, I can teach your children something.
+I shall bring a few little books, if you’ll allow me, and some work,
+and of an evening now and then, they’ll learn—dear me, they’ll learn a
+great deal, I trust, and be a credit to their teacher.”
+
+Mr Toodle, who had a great respect for learning, jerked his head
+approvingly at his wife, and moistened his hands with dawning
+satisfaction.
+
+“Then, not being a stranger, I shall be in nobody’s way,” said Miss
+Tox, “and everything will go on just as if I were not here. Mrs
+Richards will do her [[mending]], or her ironing, or her nursing, whatever
+it is, without minding me: and you’ll smoke your pipe, too, if you’re
+so disposed, Sir, won’t you?”
+
+“Thank’ee, Mum,” said Mr Toodle. “Yes; I’ll take my bit of backer.”
+
+“Very good of you to say so, Sir,” rejoined Miss Tox, “and I really do
+assure you now, unfeignedly, that it will be a great comfort to me, and
+that whatever good I may be fortunate enough to do the children, you
+will more than pay back to me, if you’ll enter into this little bargain
+comfortably, and easily, and good-naturedly, without another word about
+it.”
+
+The bargain was ratified on the spot; and Miss Tox found herself so
+much at [[Home|home]] already, that without delay she instituted a preliminary
+examination of the children all round—which Mr Toodle much admired—and
+booked their ages, names, and acquirements, on a piece of paper. This
+ceremony, and a little attendant gossip, prolonged the [[Time|time]] until after
+their usual hour of going to bed, and detained Miss Tox at the Toodle
+fireside until it was too late for her to walk [[Home|home]] [[Alone|alone]]. The gallant
+Grinder, however, being still there, politely offered to attend her to
+her own door; and as it was something to Miss Tox to be seen [[Home|home]] by a
+youth whom Mr Dombey had first inducted into those manly garments which
+are rarely mentioned by name, she very readily accepted the proposal.
+
+After shaking hands with Mr Toodle and Polly, and kissing all the
+children, Miss Tox left the [[house]], therefore, with unlimited
+popularity, and carrying away with her so light a heart that it might
+have given Mrs Chick offence if that good lady could have weighed it.
+
+Rob the Grinder, in his modesty, would have walked behind, but Miss Tox
+desired him to keep beside her, for conversational purposes; and, as
+she afterwards expressed it to his mother, “drew him out,” upon the
+[[Road|road]].
+
+He drew out so bright, and clear, and shining, that Miss Tox was
+charmed with him. The more Miss Tox drew him out, the finer he
+came—like wire. There never was a better or more promising youth—a more
+affectionate, steady, prudent, sober, honest, meek, candid young
+man—than Rob drew out, that [[Night|night]].
+
+“I am quite glad,” said Miss Tox, arrived at her own door, “to know
+you. I [[Hope|hope]] you’ll consider me your friend, and that you’ll come and
+see me as often as you like. Do you keep a money-box?”
+
+“Yes, Ma’am,” returned Rob; “I’m saving up, against I’ve got enough to
+put in the Bank, Ma’am.
+
+“Very laudable indeed,” said Miss Tox. “I’m glad to hear it. Put this
+half-[[Crown|crown]] into it, if you please.”
+
+“Oh thank you, Ma’am,” replied Rob, “but really I couldn’t think of
+depriving you.”
+
+“I commend your independent spirit,” said Miss Tox, “but it’s no
+deprivation, I assure you. I shall be offended if you don’t take it, as
+a mark of my good-will. Good-[[Night|night]], Robin.”
+
+“Good-[[Night|night]], Ma’am,” said Rob, “and thank you!”
+
+Who ran sniggering off to get change, and tossed it away with a pieman.
+But they never taught [[Honour|honour]] at the Grinders’ School, where the system
+that prevailed was particularly strong in the engendering of hypocrisy.
+Insomuch, that many of the friends and masters of past Grinders said,
+if this were what came of [[Education|education]] for the common people, let us have
+none. Some more rational said, let us have a better one. But the
+governing powers of the Grinders’ Company were always ready for them,
+by picking out a few boys who had turned out [[Well|well]] in spite of the
+system, and roundly asserting that they could have only turned out [[Well|well]]
+because of it. Which settled the business of those objectors out of
+hand, and established the glory of the Grinders’ Institution.

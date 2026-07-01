@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 20 (part 2)"
+title: "Mansfield Park — Chapter 20 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/mansfield_park/chapter_20/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/mansfield_park/chapter_20/part_03">part 03 ›</a></div>
 </nav>
 
+
+“I [[Hope|hope]] we shall always think the acquaintance worth any trouble that
+might be taken to establish it. There is nothing very striking in Mr.
+Rushworth’s manners, but I was pleased last [[Night|night]] with what appeared to
+be his opinion on one subject: his decided preference of a quiet family
+party to the bustle and confusion of acting. He seemed to feel exactly
+as one could wish.”
 
 “Yes, indeed, and the more you know of him the better you will like
 him. He is not a shining character, but he has a thousand good
@@ -101,14 +108,3 @@ renewal of [[lovers|Lovers]]’ Vows, he should hold himself positively engaged,
 should break through every other claim, he should absolutely condition
 with his uncle for attending them whenever he might be wanted. The play
 should not be lost by _his_ absence.
-
-“From Bath, Norfolk, [[London]], York, wherever I may be,” said he; “I will
-attend you from any place in England, at an hour’s notice.”
-
-It was [[Well|well]] at that moment that Tom had to speak, and not his sister.
-He could immediately say with easy fluency, “I am sorry you are going;
-but as to our play, _that_ is all over—entirely at an end” (looking
-significantly at his father). “The painter was sent off yesterday, and
-very little will remain of the theatre to-morrow. I knew how _that_
-would be from the first. It is early for Bath. You will find nobody
-there.”

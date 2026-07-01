@@ -14,6 +14,20 @@ tags:
 </nav>
 
 
+Almost as he spoke a noise like a sort of cry came through the inn
+from the [[Road|road]] beyond, and Dr. Garth sprang to his feet and stood peering
+in at the door.  The next moment Gale also seemed to rouse himself
+with a sort of sudden agitation; and the moment after that the others
+were all following the doctor, who had already started through the [[house]].
+But when he came to the front door Gale turned for a moment,
+barring the exit with his tall figure, and said:
+
+"Don't let the lady come out."
+
+The squire had already seen over the painter's shoulder a horrible
+instantaneous image.  It was the black figure of a man hanging
+from the signboard of the Rising Sun.
+
 It was only instantaneous; for the next moment Dr. Garth had cut
 him down, with the assistance of Hurrel, who had presumably uttered
 the first cry of alarm.  The man over whom the doctor was bending
@@ -123,12 +137,3 @@ and the lady was of the sort not disinclined to dream herself back
 in some distant period, about which she did not know too much.
 She felt herself back among the sacred arts and crafts of the
 medieval world; which were all she knew of the medieval world.
-
-Unfortunately, a [[Shadow|shadow]] came between her and the sun in a shape
-that did not remind her of the medieval world.  Mr. James Hurrel,
-the agent, his stiff hat a little on one side, jumped on to the same
-table on which the [[artist]] stood, and sat within two yards of him,
-with dangling legs, and somewhat aggressive cigar.  "Always have
-to keep an eye on him, your ladyship, or he'd be giving 'em away,"
-he called out, and somehow his voice and figure failed to fit
-in with the picture of pious and primitive craftsmanship.

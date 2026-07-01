@@ -54,7 +54,6 @@ both her wrists and cried in a thrilling whisper,
 "Oh, we must go to the car, dear!  They're using the
 most awful language!"
 
-
 Away on the wettest edge of the sands by the sea the
 prints of two wheels and four hoofs were being slowly
 washed away by a slowly rising tide; which was,
@@ -155,20 +154,3 @@ But it's the best place in the world, there's no
 [[Doubt|doubt]], for lying low and starting afresh.  Here we
 are.  You think you can't get behind that rock, but
 you can.  In fact, you have."
-
-Dalroy found himself, with some bewilderment,
-round the corner of a rock and in a long bore or
-barrel of blackness that ended in a very dim spot of
-green.  Hearing the hoofs of the ass and the feet of
-his friend behind him, he turned his head, but could
-see nothing but the pitch darkness of a closed coal
-cellar.  He turned again to the dim green speck, and
-marching forward was glad to see it grow larger and
-brighter, like a big emerald, till he came out on a
-throng of trees, mostly thin, but growing so thickly
-and so close to the cavernous entrance of the tunnel
-that it was quite clear the place was meant to be
-choked up by forests and forgotten.  The light that
-came glimmering through the trees was so broken
-and tremulous that it was hard to tell whether it was
-daybreak or moonrise.

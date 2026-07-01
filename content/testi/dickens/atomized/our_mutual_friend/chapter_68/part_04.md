@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 9 (part 4)"
+title: "Our Mutual Friend — Chapter 13 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,135 +14,82 @@ tags:
 </nav>
 
 
-The simple arrangements were of her own making, and were stated to Riah
-thus:
+Mrs Boffin laughed heartily again, and her eyes glistened again, and
+it then appeared, not only that in that burst of sarcastic eloquence
+Mr Boffin was considered by his two fellow-conspirators to have outdone
+himself, but that in his own opinion it was a remarkable achievement.
+‘Never thought of it afore the moment, my dear!’ he observed to Bella.
+‘When John said, if he had been so happy as to win your affections and
+possess your heart, it come into my head to turn round upon him with
+“Win her affections and possess her heart! Mew says the cat, Quack quack
+says the duck, and Bow-wow-wow says the dog.” I couldn’t tell you how
+it come into my head or where from, but it had so much the sound of a
+rasper that I own to you it astonished myself. I was awful nigh bursting
+out a laughing though, when it made John stare!’
 
-‘I mean to go [[Alone|alone]], godmother, in my usual carriage, and you’ll be so
-kind as keep [[house]] while I am gone. It’s not far off. And when I return,
-we’ll have a cup of tea, and a chat over future arrangements. It’s a
-very plain last [[house]] that I have been able to give my poor unfortunate
-boy; but he’ll accept the will for the deed if he knows anything about
-it; and if he doesn’t know anything about it,’ with a sob, and wiping
-her eyes, ‘why, it won’t matter to him. I see the service in the
-[[prayer|Prayer]]-book says, that we brought nothing into this world and it is
-certain we can take nothing out. It comforts me for not being able to
-hire a lot of stupid undertaker’s things for my poor [[Child|child]], and seeming
-as if I was trying to smuggle ’em out of this world with him, when of
-course I must break down in the attempt, and bring ’em all back again.
-As it is, there’ll be nothing to bring back but me, and that’s quite
-consistent, for I shan’t be brought back, some day!’
+‘You said, my pretty,’ Mrs Boffin reminded Bella, ‘that there was one
+other thing you couldn’t understand.’
 
-After that previous carrying of him in the streets, the wretched old
-fellow seemed to be twice buried. He was taken on the shoulders of half
-a dozen blossom-faced men, who shuffled with him to the churchyard,
-and who were preceded by another blossom-faced man, affecting a
-stately stalk, as if he were a Policeman of the D(eath) Division, and
-ceremoniously pretending not to know his intimate acquaintances, as he
-led the pageant. Yet, the spectacle of only one little mourner hobbling
-after, caused many people to turn their heads with a look of interest.
+‘O yes!’ cried Bella, covering her face with her hands; ‘but that I
+never shall be able to understand as long as I live. It is, how John
+could [[Love|love]] me so when I so little deserved it, and how you, Mr and Mrs
+Boffin, could be so forgetful of yourselves, and take such pains and
+trouble, to make me a little better, and after all to help him to so
+unworthy a wife. But I am very very grateful.’
 
-At last the troublesome deceased was got into the ground, to be buried
-no more, and the stately stalker stalked back before the solitary
-dressmaker, as if she were bound in [[Honour|honour]] to have no notion of the way
-[[Home|home]]. Those Furies, the conventionalities, being thus appeased, he left
-her.
+It was [[John Harmon]]’s turn then—[[John Harmon]] now for good, and John
+Rokesmith for nevermore—to plead with her (quite unnecessarily) in
+behalf of his [[Deception|deception]], and to tell her, over and over again, that it
+had been prolonged by her own winning graces in her supposed station of
+life. This led on to many interchanges of endearment and enjoyment
+on all sides, in the midst of which the Inexhaustible being observed
+staring, in a most imbecile manner, on Mrs Boffin’s breast, was
+pronounced to be supernaturally intelligent as to the whole transaction,
+and was made to declare to the ladies and gemplemorums, with a wave of
+the speckled fist (with difficulty detached from an exceedingly short
+waist), ‘I have already informed my venerable Ma that I know all about
+it!’
 
-‘I must have a very short cry, godmother, before I cheer up for good,’
-said the little creature, coming in. ‘Because after all a [[Child|child]] is a
-[[Child|child]], you know.’
+Then, said [[John Harmon]], would Mrs [[John Harmon]] come and see her [[house]]?
+And a dainty [[house]] it was, and a tastefully beautiful; and they went
+through it in procession; the Inexhaustible on Mrs Boffin’s bosom (still
+staring) occupying the middle station, and Mr Boffin bringing up the
+rear. And on Bella’s exquisite toilette table was an ivory casket, and
+in the casket were jewels the like of which she had never dreamed of,
+and aloft on an upper floor was a nursery garnished as with rainbows;
+‘though we were hard put to it,’ said [[John Harmon]], ‘to get it done in so
+short a [[Time|time]].’
 
-It was a longer cry than might have been expected. Howbeit, it wore
-itself out in a shadowy corner, and then the dressmaker came forth, and
-washed her face, and made the tea. ‘You wouldn’t mind my cutting out
-something while we are at tea, would you?’ she asked her Jewish friend,
-with a coaxing air.
+The [[house]] inspected, emissaries removed the Inexhaustible, who was
+shortly afterwards heard screaming among the rainbows; whereupon Bella
+withdrew herself from the presence and knowledge of gemplemorums, and
+the screaming ceased, and smiling Peace associated herself with that
+young olive branch.
 
-‘Cinderella, dear [[Child|child]],’ the old man expostulated, ‘will you never
-rest?’
+‘Come and look in, Noddy!’ said Mrs Boffin to Mr Boffin.
 
-‘Oh! It’s not work, cutting out a pattern isn’t,’ said Miss Jenny, with
-her busy little scissors already snipping at some paper. ‘The [[Truth|truth]] is,
-godmother, I want to fix it while I have it correct in my mind.’
+Mr Boffin, submitting to be led on tiptoe to the nursery door, looked in
+with immense satisfaction, although there was nothing to see but Bella
+in a musing state of happiness, seated in a little low chair upon the
+hearth, with her [[Child|child]] in her fair young arms, and her soft eyelashes
+shading her eyes from the [[Fire|fire]].
 
-‘Have you seen it to-day then?’ asked Riah.
+‘It looks as if the old man’s spirit had found rest at last; don’t it?’
+said Mrs Boffin.
 
-‘Yes, godmother. Saw it just now. It’s a surplice, that’s what it
-is. Thing our clergymen wear, you know,’ explained Miss Jenny, in
-consideration of his professing another [[Faith|faith]].
+‘Yes, old lady.’
 
-‘And what have you to do with that, Jenny?’
+‘And as if his money had turned bright again, after a long long rust in
+the dark, and was at last a beginning to sparkle in the sunlight?’
 
-‘Why, godmother,’ replied the dressmaker, ‘you must know that we
-Professors who live upon our taste and invention, are obliged to keep
-our eyes always open. And you know already that I have many extra
-expenses to meet just now. So, it came into my head while I was weeping
-at my poor boy’s [[Grave|grave]], that something in my way might be done with a
-clergyman.’
+‘Yes, old lady.’
 
-‘What can be done?’ asked the old man.
+‘And it makes a pretty and a promising picter; don’t it?’
 
-‘Not a funeral, never [[Fear|fear]]!’ returned Miss Jenny, anticipating his
-objection with a nod. ‘The public don’t like to be made [[Melancholy|melancholy]], I
-know very [[Well|well]]. I am seldom called upon to put my young friends into
-mourning; not into real mourning, that is; [[Court]] mourning they are
-rather proud of. But a doll clergyman, my dear,—glossy black curls
-and whiskers—uniting two of my young friends in matrimony,’ said Miss
-Jenny, shaking her forefinger, ‘is quite another affair. If you don’t
-see those three at the altar in Bond Street, in a jiffy, my name’s Jack
-Robinson!’
+‘Yes, old lady.’
 
-With her expert little ways in sharp action, she had got a doll into
-whitey-brown paper orders, before the meal was over, and was displaying
-it for the edification of the Jewish mind, when a knock was heard at the
-street-door. Riah went to open it, and presently came back, ushering in,
-with the [[Grave|grave]] and courteous air that sat so [[Well|well]] upon him, a gentleman.
-
-The gentleman was a stranger to the dressmaker; but even in the moment
-of his casting his eyes upon her, there was something in his manner
-which brought to her remembrance Mr [[Eugene Wrayburn]].
-
-‘Pardon me,’ said the gentleman. ‘You are the dolls’ dressmaker?’
-
-‘I am the dolls’ dressmaker, sir.’
-
-‘[[Lizzie Hexam]]’s friend?’
-
-‘Yes, sir,’ replied Miss Jenny, instantly on the defensive. ‘And Lizzie
-Hexam’s friend.’
-
-‘Here is a note from her, entreating you to accede to the request of
-Mr Mortimer Lightwood, the bearer. Mr Riah chances to know that I am Mr
-Mortimer Lightwood, and will tell you so.’
-
-Riah bent his head in corroboration.
-
-‘Will you read the note?’
-
-‘It’s very short,’ said Jenny, with a look of [[Wonder|wonder]], when she had read
-it.
-
-‘There was no [[Time|time]] to make it longer. [[Time]] was so very precious. My dear
-friend Mr [[Eugene Wrayburn]] is dying.’
-
-The dressmaker clasped her hands, and uttered a little piteous cry.
-
-‘Is dying,’ repeated Lightwood, with emotion, ‘at some distance from
-here. He is sinking under injuries received at the hands of a [[Villain|villain]]
-who attacked him in the dark. I come straight from his bedside. He is
-almost always insensible. In a short restless interval of sensibility,
-or partial sensibility, I made out that he asked for you to be brought
-to sit by him. Hardly relying on my own interpretation of the indistinct
-sounds he made, I caused Lizzie to hear them. We were both sure that he
-asked for you.’
-
-The dressmaker, with her hands still clasped, looked affrightedly from
-the one to the other of her two companions.
-
-‘If you delay, he may die with his request ungratified, with his
-last wish—intrusted to me—we have long been much more than
-brothers—unfulfilled. I shall break down, if I try to say more.’
-
-In a few moments the black bonnet and the crutch-stick were on duty, the
-good Jew was left in possession of the [[house]], and the dolls’ dressmaker,
-side by side in a chaise with Mortimer Lightwood, was posting out of
-town.
+But, aware at the instant of a fine opening for a point, Mr Boffin
+quenched that observation in this—delivered in the grisliest growling
+of the regular brown bear. ‘A pretty and a hopeful picter? Mew,
+Quack quack, Bow-wow!’ And then trotted silently downstairs, with his
+shoulders in a state of the liveliest commotion.

@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 10 (part 2)"
+title: "thursday — Chapter 10 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_10/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_10/part_03">part 03 ›</a></div>
 </nav>
 
+
+"By George!" said Syme, facing round and looking at him,
+"what a clever chap you are!"
 
 The Marquis started up with eyes flaming like a tiger's.
 
@@ -124,13 +127,3 @@ twin swords, which took the sunlight and turned to two streaks of white [[Fire|f
 He offered one to the Marquis, who snatched it without ceremony,
 and another to Syme, who took it, bent it, and poised it with as much
 delay as was consistent with dignity.
-
-Then the Colonel took out another pair of blades, and taking one himself
-and giving another to Dr. Bull, proceeded to place the men.
-
-Both combatants had thrown off their coats and waistcoats,
-and stood [[Sword|sword]] in hand.  The seconds stood on each side
-of the line of fight with drawn swords also, but still sombre
-in their dark frock-coats and hats.  The principals saluted.
-The Colonel said quietly, "Engage!" and the two blades
-touched and tingled.

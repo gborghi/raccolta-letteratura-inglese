@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 4"
+title: "thursday — Chapter 4"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/thursday-(chesterton)"
@@ -17,7 +17,6 @@ tags:
                          CHAPTER IV
 
                    THE TALE OF A [[Detective|DETECTIVE]]
-
 
 [[Gabriel Syme|GABRIEL SYME]] was not merely a [[Detective|detective]] who pretended to be
 a poet; he was really a poet who had become a [[Detective|detective]].

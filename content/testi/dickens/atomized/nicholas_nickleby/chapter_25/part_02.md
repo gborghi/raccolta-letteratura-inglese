@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 25 (part 2)"
+title: "Nicholas Nickleby — Chapter 25 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -152,11 +152,3 @@ Lillyvick?’ asked Nicholas.
 ‘Why, that’s what I came to explain to you,’ replied the collector of
 [[Water|water]]-rate. ‘The fact is, we have thought it best to keep it secret from
 the family.’
-
-‘Family!’ said Nicholas. ‘What family?’
-
-‘The Kenwigses of course,’ rejoined Mr. Lillyvick. ‘If my niece and the
-children had known a word about it before I came away, they’d have gone
-into fits at my feet, and never have come out of ‘em till I took an oath
-not to marry anybody--or they’d have got out a commission of lunacy, or
-some dreadful thing,’ said the collector, quite trembling as he spoke.

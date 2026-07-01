@@ -1,5 +1,5 @@
 ---
-title: "[[longbow2]] — Chapter 8 (part 5)"
+title: "longbow2 — Chapter 8 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -98,16 +98,16 @@ bows taller than houses; bows given to us by God Himself and big
 enough for His gigantic angels.'
 
 "The whole business of this battle, historic and decisive as
-it was, is covered with some obscurity, like that cloud of [[Storm|storm]]
+it was, is covered with some obscurity, like that cloud of storm
 that hung heavy upon the daybreak of that gloomy November day. 
-Had anyone been present with the [[government|Government]] forces who was [[Well|well]]
+Had anyone been present with the Government forces who was well
 acquainted with the western valley in which they were operating,
 such a person could not have failed to notice that the very landscape
 looked different; looked new and abnormal.  Dimly as it could be
 traced through the morning twilight, the very line of the woodland
 against the sky would have shown him a new shape; a deformity like
-a hump.  But the plans had all been laid out in [[London]] long before,
-in [[Imitation|imitation]] of that foresight, fixity of purpose, and final [[success]]
+a hump.  But the plans had all been laid out in London long before,
+in imitation of that foresight, fixity of purpose, and final success
 that will always be associated with the last German Emperor. 
 It was enough for them that there was a wood of some sort marked
 on the map, and they advanced toward it, low and crouching as its

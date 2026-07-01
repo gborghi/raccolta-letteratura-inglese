@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 3 (part 2)"
+title: "Shirley — Chapter 3 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,8 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_03/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_03/part_03">part 03 ›</a></div>
 </nav>
 
+
+for a duller-witted farmer; and against these are arrayed victorious
 
 supremacy and invincible genius."
 
@@ -231,9 +233,3 @@ stiffly indeed. That individual proceeded,--
 If we could only fall in wi' some of these starved ragamuffins of
 
 frame-breakers we could win a grand victory. We could iv'ry one be a
-
-Wellington--that would please ye, Mr. Helstone--and sich paragraphs as
-
-we could contrive for t' papers! Briarfield suld be famous. But we'se
-
-hev a column and a half i' th' _Stilbro' Courier_ ower this job, as it

@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 39"
+title: "The Tenant of Wildfell Hall — Chapter 39"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -110,7 +110,7 @@ a gleam of hard, keen, sombre satisfaction in his countenance at the
 
 look of impotent wrath and anguish he was too certain to behold in
 
-mine. But on one occasion, when [[arthur|Arthur]] had been behaving particularly
+mine. But on one occasion, when [[Arthur]] had been behaving particularly
 
 ill, and Mr. Huntingdon and his guests had been particularly provoking
 
@@ -262,7 +262,7 @@ wished. Here, then, I set up my easel, and here I worked at my canvas
 
 from daylight till dusk, with very little intermission, saving when
 
-pure necessity, or my duties to little [[arthur|Arthur]], called me away: for I
+pure necessity, or my duties to little [[Arthur]], called me away: for I
 
 still thought proper to devote some portion of every day exclusively to
 
@@ -754,7 +754,7 @@ that.”
 
 Walter did not answer, but walked to the [[Window|window]] to collect his
 
-faculties. [[arthur|Arthur]] uttered a low whistle, and followed him with his
+faculties. [[Arthur]] uttered a low whistle, and followed him with his
 
 eyes. A slight flush of anger [[Rose|rose]] to Hargrave’s cheek; but in a moment
 
@@ -1034,7 +1034,7 @@ all her might: on one condition only: that she might share my [[Exile|exile]]:
 
 otherwise, she was utterly inexorable, regarding it as perfect [[Madness|madness]]
 
-for me and [[arthur|Arthur]] to go [[Alone|alone]]. With touching generosity, she modestly
+for me and [[Arthur]] to go [[Alone|alone]]. With touching generosity, she modestly
 
 offered to aid me with her little hoard of savings, hoping I would
 
@@ -1088,7 +1088,7 @@ gravely asked,—“Mamma, why are you wicked?”
 
 
 
-“No, [[arthur|Arthur]], Rachel never said so, I am certain.”
+“No, [[Arthur]], Rachel never said so, I am certain.”
 
 
 
@@ -1114,7 +1114,7 @@ people be damned, nor show that they deserve it. God will judge us by
 
 our own thoughts and deeds, not by what others say about us. And when
 
-you hear such words spoken, [[arthur|Arthur]], remember never to repeat them: it
+you hear such words spoken, [[Arthur]], remember never to repeat them: it
 
 is wicked to say such things of others, not to have them said against
 

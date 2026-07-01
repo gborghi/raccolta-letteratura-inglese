@@ -319,7 +319,7 @@ in the red waistcoat that he wore so appropriately, like a
 defiance to a whole herd of bulls.  We can watch him peering
 over fences and hedges in his eager and shameless [[Vanity|vanity]],
 enquiring everywhere about Cobbett's Corn (the name he modestly
-gave to the maize he brought from [[america|America]]), and sternly admonishing
+gave to the maize he brought from [[America]]), and sternly admonishing
 those who were unconscious of their good luck in possessing it.
 We can behold him as he curses [[London]] from the hills;
 he always called it the Wen.  But here again his [[Humour|humour]] is

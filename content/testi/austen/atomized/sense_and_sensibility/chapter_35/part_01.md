@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 35 (part 1)"
+title: "Sense and Sensibility — Chapter 35 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -239,11 +239,3 @@ without the relief of any other person. The ladies recovered themselves
 first. It was not Lucy’s business to put herself forward, and the
 
 appearance of secrecy must still be kept up. She could therefore only
-
-_look_ her tenderness, and after slightly addressing him, said no more.
-
-
-
-But Elinor had more to do; and so anxious was she, for his sake and her
-
-own, to do it [[Well|well]], that she forced herself, after a moment’s

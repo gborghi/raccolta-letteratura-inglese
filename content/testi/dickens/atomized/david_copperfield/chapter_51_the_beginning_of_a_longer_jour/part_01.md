@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 51: THE BEGINNING OF A LONGER [[Journey|JOURNEY]] (part 1)"
+title: "David Copperfield — Chapter 51: THE BEGINNING OF A LONGER [[Journey|JOURNEY (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -127,7 +127,3 @@ Em’ly went that way, she always giv Em’ly [[Flowers|flowers]]. This was her 
 now asked what it was that had gone so much amiss. Em’ly told her,
 and she--took her [[Home|home]]. She did indeed. She took her [[Home|home]],’ said Mr.
 Peggotty, covering his face.
-
-He was more affected by this act of kindness, than I had ever seen him
-affected by anything since the [[Night|night]] she went away. My aunt and I did
-not attempt to disturb him.

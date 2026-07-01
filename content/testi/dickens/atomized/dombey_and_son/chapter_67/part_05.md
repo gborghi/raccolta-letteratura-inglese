@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 11 (part 5)"
+title: "Dombey and Son — Chapter 39 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,137 +14,122 @@ tags:
 </nav>
 
 
-“Now, Miss Dombey!” said the acid Pipchin.
+After a long pause, Mr Bunsby nodded his head.
 
-“Permit me,” said the Doctor, “one moment. Allow me to present Mrs
-Blimber and my daughter; who will be associated with the domestic life
-of our young [[Pilgrim]] to Parnassus Mrs Blimber,” for the lady, who had
-perhaps been in waiting, opportunely entered, followed by her daughter,
-that fair Sexton in spectacles, “Mr Dombey. My daughter Cornelia, Mr
-Dombey. Mr Dombey, my [[Love|love]],” pursued the Doctor, turning to his wife,
-“is so confiding as to—do you see our little friend?”
+“Open?” said the Captain.
 
-Mrs Blimber, in an excess of politeness, of which Mr Dombey was the
-object, apparently did not, for she was backing against the little
-friend, and very much endangering his position on the table. But, on
-this hint, she turned to admire his classical and intellectual
-lineaments, and turning again to Mr Dombey, said, with a sigh, that she
-envied his dear son.
+Bunsby nodded again.
 
-“Like a bee, Sir,” said Mrs Blimber, with uplifted eyes, “about to
-plunge into a [[Garden|garden]] of the choicest [[Flowers|flowers]], and sip the sweets for
-the first [[Time|time]] Virgil, Horace, Ovid, Terence, Plautus, Cicero. What a
-world of honey have we here. It may appear remarkable, Mr Dombey, in
-one who is a wife—the wife of such a husband—”
+The Captain accordingly broke the seal, and disclosed to view two
+folded papers, of which he severally read the endorsements, thus: “Last
+Will and Testament of [[Solomon Gills]].” “Letter for Ned Cuttle.”
 
-“Hush, hush,” said Doctor Blimber. “Fie for shame.”
+Bunsby, with his eye on the coast of Greenland, seemed to listen for
+the contents. The Captain therefore hemmed to clear his throat, and
+read the letter aloud.
 
-“Mr Dombey will forgive the partiality of a wife,” said Mrs Blimber,
-with an engaging smile.
+“‘My dear Ned Cuttle. When I left [[Home|home]] for the West Indies’—”
 
-Mr Dombey answered “Not at all:” applying those words, it is to be
-presumed, to the partiality, and not to the [[Forgiveness|forgiveness]].
+Here the Captain stopped, and looked hard at Bunsby, who looked fixedly
+at the coast of Greenland.
 
-“And it may seem remarkable in one who is a mother also,” resumed Mrs
-Blimber.
+“—‘in forlorn search of intelligence of my dear boy, I knew that if you
+were acquainted with my design, you would thwart it, or accompany me;
+and therefore I kept it secret. If you ever read this letter, Ned, I am
+likely to be dead. You will easily forgive an old friend’s folly then,
+and will feel for the restlessness and uncertainty in which he wandered
+away on such a wild voyage. So no more of that. I have little [[Hope|hope]] that
+my poor boy will ever read these words, or gladden your eyes with the
+sight of his frank face any more.’ No, no; no more,” said Captain
+Cuttle, sorrowfully meditating; “no more. There he lays, all his days—”
 
-“And such a mother,” observed Mr Dombey, bowing with some confused idea
-of being complimentary to Cornelia.
+Mr Bunsby, who had a musical ear, suddenly bellowed, “In the Bays of
+Biscay, O!” which so affected the good Captain, as an appropriate
+tribute to departed worth, that he shook him by the hand in
+acknowledgment, and was fain to wipe his eyes.
 
-“But really,” pursued Mrs Blimber, “I think if I could have known
-Cicero, and been his friend, and talked with him in his retirement at
-Tusculum (beau-ti-ful Tusculum!), I could have died contented.”
+“[[Well]], [[Well|well]]!” said the Captain with a sigh, as the Lament of Bunsby
+ceased to ring and vibrate in the skylight. “Affliction sore, long [[Time|time]]
+he bore, and let us overhaul the wollume, and there find it.”
 
-A learned enthusiasm is so very contagious, that Mr Dombey half
-believed this was exactly his case; and even Mrs Pipchin, who was not,
-as we have seen, of an accommodating disposition generally, gave
-utterance to a little sound between a groan and a sigh, as if she would
-have said that nobody but Cicero could have proved a lasting
-consolation under that failure of the Peruvian Mines, but that he
-indeed would have been a very Davy-lamp of refuge.
+“Physicians,” observed Bunsby, “was in vain.”
 
-Cornelia looked at Mr Dombey through her spectacles, as if she would
-have liked to crack a few quotations with him from the authority in
-question. But this design, if she entertained it, was frustrated by a
-knock at the room-door.
+“Ay, ay, to be sure,” said the Captain, “what’s the good o’ them in two
+or three hundred fathoms o’ [[Water|water]]!” Then, returning to the letter, he
+read on:—“"But if he should be by, when it is opened;’” the Captain
+involuntarily looked round, and shook his head; “‘or should know of it
+at any other [[Time|time]];’” the Captain shook his head again; “‘my blessing on
+him! In case the accompanying paper is not legally written, it matters
+very little, for there is no one interested but you and he, and my
+plain wish is, that if he is living he should have what little there
+may be, and if (as I [[Fear|fear]]) otherwise, that you should have it, Ned. You
+will respect my wish, I know. God bless you for it, and for all your
+friendliness besides, to [[Solomon Gills]].’ Bunsby!” said the Captain,
+appealing to him solemnly, “what do you make of this? There you sit, a
+man as has had his head broke from infancy up’ards, and has got a new
+opinion into it at every seam as has been opened. Now, what do you make
+o’ this?”
 
-“Who is that?” said the Doctor. “Oh! Come in, Toots; come in. Mr
-Dombey, Sir.” Toots bowed. “Quite a coincidence!” said Doctor Blimber.
-“Here we have the beginning and the end. Alpha and Omega. Our head boy,
-Mr Dombey.”
+“If so be,” returned Bunsby, with unusual promptitude, “as he’s dead,
+my opinion is he won’t come back no more. If so be as he’s alive, my
+opinion is he will. Do I say he will? No. Why not? Because the bearings
+of this obserwation lays in the application on it.”
 
-The Doctor might have called him their head and shoulders boy, for he
-was at least that much taller than any of the rest. He blushed very
-much at finding himself among strangers, and chuckled aloud.
+“Bunsby!” said [[Captain Cuttle]], who would seem to have estimated the
+value of his distinguished friend’s opinions in proportion to the
+immensity of the difficulty he experienced in making anything out of
+them; “Bunsby,” said the Captain, quite confounded by admiration, “you
+carry a weight of mind easy, as would swamp one of my tonnage soon. But
+in regard o’ this here will, I don’t mean to take no steps towards the
+property—Lord forbid!—except to keep it for a more rightful owner; and
+I [[Hope|hope]] yet as the rightful owner, Sol Gills, is living and’ll come
+back, strange as it is that he ain’t forwarded no dispatches. Now, what
+is your opinion, Bunsby, as to stowing of these here papers away again,
+and marking outside as they was opened, such a day, in the presence of
+John Bunsby and Ed’ard Cuttle?”
 
-“An addition to our little Portico, Toots,” said the Doctor; “Mr
-Dombey’s son.”
+Bunsby, descrying no objection, on the coast of Greenland or elsewhere,
+to this proposal, it was carried into execution; and that great man,
+bringing his eye into the present for a moment, affixed his sign-manual
+to the cover, totally abstaining, with characteristic modesty, from the
+use of capital letters. [[Captain Cuttle]], having attached his own
+left-handed signature, and locked up the packet in the iron safe,
+entreated his guest to mix another glass and smoke another pipe; and
+doing the like himself, fell a musing over the [[Fire|fire]] on the possible
+fortunes of the poor old Instrument-maker.
 
-Young Toots blushed again; and finding, from a solemn [[Silence|silence]] which
-prevailed, that he was expected to say something, said to Paul, “How
-are you?” in a voice so deep, and a manner so sheepish, that if a [[Lamb|lamb]]
-had roared it couldn’t have been more surprising.
+And now a surprise occurred, so overwhelming and terrific that Captain
+Cuttle, unsupported by the presence of Bunsby, must have sunk beneath
+it, and been a lost man from that fatal hour.
 
-“Ask Mr Feeder, if you please, Toots,” said the Doctor, “to prepare a
-few introductory volumes for Mr Dombey’s son, and to allot him a
-convenient seat for study. My dear, I believe Mr Dombey has not seen
-the dormitories.”
+How the Captain, even in the satisfaction of admitting such a guest,
+could have only shut the door, and not locked it, of which negligence
+he was undoubtedly guilty, is one of those questions that must for ever
+remain mere points of speculation, or vague charges against destiny.
+But by that unlocked door, at this quiet moment, did the fell
+MacStinger dash into the parlour, bringing Alexander MacStinger in her
+parental arms, and confusion and vengeance (not to mention Juliana
+MacStinger, and the sweet [[Child|child]]’s brother, Charles MacStinger,
+popularly known about the scenes of his youthful sports, as Chowley) in
+her train. She came so swiftly and so silently, like a rushing air from
+the neighbourhood of the East India Docks, that [[Captain Cuttle]] found
+himself in the very act of sitting looking at her, before the calm face
+with which he had been meditating, changed to one of horror and dismay.
 
-“If Mr Dombey will walk upstairs,” said Mrs Blimber, “I shall be more
-than proud to show him the dominions of the drowsy god.”
-
-With that, Mrs Blimber, who was a lady of great suavity, and a wiry
-figure, and who wore a cap composed of sky-blue materials, proceeded
-upstairs with Mr Dombey and Cornelia; Mrs Pipchin following, and
-looking out sharp for her enemy the footman.
-
-While they were gone, Paul sat upon the table, holding Florence by the
-hand, and glancing timidly from the Doctor round and round the room,
-while the Doctor, leaning back in his chair, with his hand in his
-breast as usual, held a book from him at arm’s length, and read. There
-was something very awful in this manner of reading. It was such a
-determined, unimpassioned, inflexible, cold-blooded way of going to
-work. It left the Doctor’s countenance exposed to view; and when the
-Doctor smiled suspiciously at his author, or knit his brows, or shook
-his head and made wry faces at him, as much as to say, “Don’t tell me,
-Sir; I know better,” it was terrific.
-
-Toots, too, had no business to be outside the door, ostentatiously
-examining the wheels in his watch, and counting his half-crowns. But
-that didn’t last long; for Doctor Blimber, happening to change the
-position of his tight plump legs, as if he were going to get up, Toots
-swiftly vanished, and appeared no more.
-
-Mr Dombey and his conductress were soon heard coming downstairs again,
-talking all the way; and presently they re-entered the Doctor’s study.
-
-“I [[Hope|hope]], Mr Dombey,” said the Doctor, laying down his book, “that the
-arrangements meet your approval.”
-
-“They are excellent, Sir,” said Mr Dombey.
-
-“Very fair, indeed,” said Mrs Pipchin, in a low voice; never disposed
-to give too much encouragement.
-
-“Mrs Pipchin,” said Mr Dombey, wheeling round, “will, with your
-permission, Doctor and Mrs Blimber, visit Paul now and then.”
-
-“Whenever Mrs Pipchin pleases,” observed the Doctor.
-
-“Always happy to see her,” said Mrs Blimber.
-
-“I think,” said Mr Dombey, “I have given all the trouble I need, and
-may take my leave. Paul, my [[Child|child]],” he went close to him, as he sat
-upon the table. “Good-bye.”
-
-“Good-bye, Papa.”
-
-The limp and careless little hand that Mr Dombey took in his, was
-singularly out of keeping with the wistful face. But he had no part in
-its sorrowful expression. It was not addressed to him. No, no. To
-Florence—all to Florence.
-
-If Mr Dombey in his insolence of wealth, had ever made an enemy, hard
-to appease and cruelly vindictive in his hate, even such an enemy might
-have received the pang that wrung his proud heart then, as compensation
-for his injury.
+But the moment [[Captain Cuttle]] understood the full extent of his
+misfortune, [[Self|self]]-preservation dictated an attempt at flight. Darting at
+the little door which opened from the parlour on the steep little range
+of cellar-steps, the Captain made a rush, head-foremost, at the latter,
+like a man indifferent to bruises and contusions, who only sought to
+hide himself in the bowels of the earth. In this gallant effort he
+would probably have succeeded, but for the affectionate dispositions of
+Juliana and Chowley, who pinning him by the legs—one of those dear
+children holding on to each—claimed him as their friend, with
+lamentable cries. In the meantime, Mrs MacStinger, who never entered
+upon any action of importance without previously inverting Alexander
+MacStinger, to bring him within the range of a brisk battery of slaps,
+and then sitting him down to cool as the reader first beheld him,
+performed that solemn rite, as if on this occasion it were a sacrifice
+to the Furies; and having deposited the victim on the floor, made at
+the Captain with a strength of purpose that appeared to threaten
+scratches to the interposing Bunsby.

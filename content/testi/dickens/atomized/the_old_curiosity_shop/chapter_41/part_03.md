@@ -14,6 +14,24 @@ tags:
 </nav>
 
 
+Talking on in this way, half in jest and half in earnest, and cheering
+up his mother, the children, and himself, by the one simple process of
+determining to be in a good [[Humour|humour]], Kit led them briskly forward; and
+on the [[Road|road]] [[Home|home]], he related what had passed at the Notary’s [[house]], and
+the purpose with which he had intruded on the solemnities of Little
+Bethel.
+
+His mother was not a little startled on learning what service was
+required of her, and presently fell into a confusion of ideas, of which
+the most prominent were that it was a great [[Honour|honour]] and dignity to ride
+in a post-chaise, and that it was a moral impossibility to leave the
+children behind.  But this objection, and a great many others, founded
+on certain articles of dress being at the wash, and certain other
+articles having no existence in the wardrobe of Mrs Nubbles, were
+overcome by Kit, who opposed to each and every of them, the pleasure of
+recovering Nell, and the delight it would be to bring her back in
+triumph.
+
 ‘There’s only ten minutes now, mother,’ said Kit when they reached
 [[Home|home]].  ‘There’s a bandbox.  Throw in what you want, and we’ll be off
 directly.’

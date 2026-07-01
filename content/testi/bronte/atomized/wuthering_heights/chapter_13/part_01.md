@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 13 (part 1)"
+title: "Wuthering Heights — Chapter 13 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -117,10 +117,3 @@ sha’n’t tell my reasons for making this inquiry; but I beseech you to
 explain, if you can, what I have married: that is, when you call to see
 me; and you must call, Ellen, very soon. Don’t write, but come, and
 bring me something from [[Edgar]].
-
-Now, you shall hear how I have been received in my new [[Home|home]], as I am
-led to imagine the Heights will be. It is to amuse myself that I dwell
-on such subjects as the lack of external comforts: they never occupy my
-thoughts, except at the moment when I miss them. I should laugh and
-[[Dance|dance]] for joy, if I found their absence was the total of my miseries,
-and the rest was an unnatural dream!

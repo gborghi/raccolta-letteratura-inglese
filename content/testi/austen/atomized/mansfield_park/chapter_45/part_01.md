@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 45 (part 1)"
+title: "Mansfield Park — Chapter 45 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -110,7 +110,7 @@ of displeasure, or even of hearing her. They were perfectly free from
 any [[Jealousy|jealousy]] of Mansfield. She was as welcome to wish herself there as
 to be there.
 
-It was sad to Fanny to lose all the pleasures of [[spring]]. She had not
+It was sad to Fanny to lose all the pleasures of [[Spring|spring]]. She had not
 known before what pleasures she _had_ to lose in passing March and
 April in a town. She had not known before how much the beginnings and
 progress of vegetation had delighted her. What animation, both of [[Body|body]]

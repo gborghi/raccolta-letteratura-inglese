@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 49 (part 2)"
+title: "The Tenant of Wildfell Hall — Chapter 49 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_49/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_49/part_03">part 03 ›</a></div>
 </nav>
 
+
+continue with her there, and to help her to [[Nurse|nurse]] his papa, and though
+
+she had no [[Doubt|doubt]] he would have been very good and quiet, she could not
+
+think of subjecting his young and tender feelings to the sight of so
 
 much [[Suffering|suffering]], or of allowing him to witness his father’s impatience,
 
@@ -74,7 +80,7 @@ and if I _could_ look complacently on in such a case, it would be only
 
 from the assurance that you were being purified from your sins, and
 
-fitted to enjoy the happiness I felt.—But are you _determined_, [[arthur|Arthur]],
+fitted to enjoy the happiness I felt.—But are you _determined_, [[Arthur]],
 
 that I shall not meet you in heaven?”
 
@@ -98,7 +104,7 @@ torment you picture to yourself?”
 
 
 
-“Are you sure, [[arthur|Arthur]]? are you _quite_ sure? Because, if there is any
+“Are you sure, [[Arthur]]? are you _quite_ sure? Because, if there is any
 
 [[Doubt|doubt]], and if you _should_ find yourself mistaken after all, when it is
 
@@ -148,7 +154,7 @@ pleased to behold her so happy and [[Well|well]]. She is now at the Grove,
 
 continued the letter, but she often calls to see me. Mr. Hattersley
 
-spends much of his [[Time|time]] at [[arthur|Arthur]]’s bed-side. With more good feeling
+spends much of his [[Time|time]] at [[Arthur]]’s bed-side. With more good feeling
 
 than I gave him credit for, he evinces considerable sympathy for his
 
@@ -166,7 +172,7 @@ than before; and then Hattersley is confounded, and knows not what to
 
 say, unless it be a timid suggestion that the clergyman might be sent
 
-for. But [[arthur|Arthur]] will never consent to that: he knows he has rejected
+for. But [[Arthur]] will never consent to that: he knows he has rejected
 
 the clergyman’s [[Well|well]]-meant admonitions with scoffing levity at other
 
@@ -176,7 +182,7 @@ times, and cannot dream of turning to him for consolation now.
 
 Mr. Hattersley sometimes offers his services instead of mine, but
 
-[[arthur|Arthur]] will not let me go: that strange whim still increases, as his
+[[Arthur]] will not let me go: that strange whim still increases, as his
 
 strength declines—the fancy to have me always by his side. I hardly
 
@@ -194,7 +200,7 @@ side. That gentleman came, as he said, to beg a holiday for me, that I
 
 might have a run in the park, this fine frosty morning, with Milicent
 
-and Esther and little [[arthur|Arthur]], whom he had driven over to see me. Our
+and Esther and little [[Arthur]], whom he had driven over to see me. Our
 
 poor invalid evidently felt it a heartless proposition, and would have
 
@@ -211,25 +217,3 @@ eloquent entreaties of all three to stay a little longer, and join them
 in a walk round the [[Garden|garden]], I tore myself away and returned to my
 
 patient. I had not been absent five minutes, but he reproached me
-
-bitterly for my levity and neglect. His friend espoused my cause.
-
-
-
-“Nay, nay, Huntingdon,” said he, “you’re too hard upon her; she must
-
-have food and [[Sleep|sleep]], and a mouthful of fresh air now and then, or she
-
-can’t stand it, I tell you. Look at her, man! she’s worn to a [[Shadow|shadow]]
-
-already.”
-
-
-
-“What are her sufferings to mine?” said the poor invalid. “You don’t
-
-grudge me these attentions, do you, [[Helen]]?”
-
-
-
-“No, [[arthur|Arthur]], if I could really serve you by them. I would give my life

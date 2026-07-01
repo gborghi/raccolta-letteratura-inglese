@@ -57,7 +57,7 @@ of Professor Freud.  He has to make him a champion of psycho-analysis,
 which is like making him a champion of vaccination.  He has to fit
 [[Hamlet]]'s [[Soul|soul]] somehow into the classifications of Freud and Jung;
 which is just as if he had to fit [[Hamlet]]'s father into the
-classifications of Sir [[Oliver]] Lodge and Sir [[Arthur]] Conan Doyle.
+classifications of Sir [[Oliver]] Lodge and Sir [[arthur|Arthur]] Conan Doyle.
 He has to interpret the whole thing by a new [[morality]] that Shakespeare
 had never heard of, because he has an intense internal dislike
 of the old [[morality]] that Shakespeare could not help hearing of.

@@ -1,5 +1,5 @@
 ---
-title: "A Christmas [[carol|Carol]] — Stave 2: THE FIRST OF THE THREE SPIRITS (part 2)"
+title: "A Christmas Carol — Stave 2: THE FIRST OF THE THREE SPIRITS (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-christmas-carol-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_christmas_carol/chapter_02_the_first_of_the_three_spirits/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/a_christmas_carol/chapter_02_the_first_of_the_three_spirits/part_03">part 03 ›</a></div>
 </nav>
 
+
+"What!" exclaimed the [[Ghost]], "would you so soon put out,
+with worldly hands, the light I give? Is it not enough
+that you are one of those whose passions made this cap, and
+force me through whole trains of years to wear it low upon
+my brow!"
 
 Scrooge reverently disclaimed all intention to offend
 or any knowledge of having wilfully "bonneted" the Spirit at
@@ -146,14 +152,3 @@ younger [[Self|self]], intent upon his reading. Suddenly a man, in
 foreign garments: wonderfully real and distinct to look at:
 stood outside the [[Window|window]], with an axe stuck in his belt, and
 leading by the bridle an ass laden with wood.
-
-"Why, it's Ali Baba!" Scrooge exclaimed in ecstasy. "It's
-dear old honest Ali Baba! Yes, yes, I know! One Christmas
-[[Time|time]], when yonder solitary [[Child|child]] was left here all [[Alone|alone]],
-he did come, for the first [[Time|time]], just like that. Poor boy! And
-[[Valentine]]," said Scrooge, "and his wild brother, Orson; there
-they go! And what's his name, who was put down in his
-drawers, asleep, at the Gate of Damascus; don't you see him!
-And the Sultan's Groom turned upside down by the Genii;
-there he is upon his head! Serve him right. I'm glad of it.
-What business had he to be married to the Princess!"

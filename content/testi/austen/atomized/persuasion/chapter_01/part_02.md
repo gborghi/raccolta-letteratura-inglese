@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 1 (part 2)"
+title: "Persuasion — Chapter 1 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_01/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_01/part_03">part 03 ›</a></div>
 </nav>
 
+
+bloom had vanished early; and as even in its height, her father had
+
+found little to admire in her, (so totally different were her delicate
 
 features and mild dark eyes from his own), there could be nothing in
 
@@ -132,7 +136,7 @@ been met with any warmth, he had persevered in seeking it, making
 
 allowance for the modest drawing-back of youth; and, in one of their
 
-[[spring]] excursions to [[London]], when Elizabeth was in her first bloom, Mr
+[[Spring|spring]] excursions to [[London]], when Elizabeth was in her first bloom, Mr
 
 Elliot had been forced into the introduction.
 
@@ -146,7 +150,7 @@ favour was confirmed. He was invited to Kellynch Hall; he was talked of
 
 and expected all the rest of the year; but he never came. The following
 
-[[spring]] he was seen again in town, found equally agreeable, again
+[[Spring|spring]] he was seen again in town, found equally agreeable, again
 
 encouraged, invited, and expected, and again he did not come; and the
 
@@ -199,13 +203,3 @@ miserably had he conducted himself, that though she was at this present
 not admit him to be worth thinking of again. The disgrace of his first
 
 [[Marriage|marriage]] might, perhaps, as there was no reason to suppose it
-
-perpetuated by offspring, have been got over, had he not done worse;
-
-but he had, as by the accustomary intervention of kind friends, they
-
-had been informed, spoken most disrespectfully of them all, most
-
-slightingly and contemptuously of the very [[Blood|blood]] he belonged to, and
-
-the honours which were hereafter to be his own. This could not be

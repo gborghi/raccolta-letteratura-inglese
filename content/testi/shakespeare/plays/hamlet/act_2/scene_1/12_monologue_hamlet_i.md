@@ -1,5 +1,5 @@
 ---
-title: "[[Hamlet]] — Act II, Scene 1 — monologue ([[Hamlet|HAMLET]] I) [12]"
+title: "Hamlet — Act II, Scene 1 — monologue (HAMLET I) [12]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/hamlet-(shakespeare)"

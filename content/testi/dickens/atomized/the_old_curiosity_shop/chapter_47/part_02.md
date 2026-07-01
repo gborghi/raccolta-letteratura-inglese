@@ -14,6 +14,11 @@ tags:
 </nav>
 
 
+‘What’s this?’ said the single gentleman thrusting out his head.  ‘Is
+anything the matter here?’
+
+‘A wedding Sir, a wedding!’ cried several voices.  ‘Hurrah!’
+
 The single gentleman, rather bewildered by finding himself the centre
 of this noisy throng, alighted with the assistance of one of the
 postilions, and handed out Kit’s mother, at sight of whom the populace

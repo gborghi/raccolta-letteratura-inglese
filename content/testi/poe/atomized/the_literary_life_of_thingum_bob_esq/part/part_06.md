@@ -1,5 +1,5 @@
 ---
-title: "[[The Literary Life of Thingum Bob, Esq]] (part 6)"
+title: "The Literary Life of Thingum Bob, Esq (part 6)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-literary-life-of-thingum-bob,-esq-(poe)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_literary_life_of_thingum_bob_esq/part/part_05">‹ part 05</a><a class="ex-next" href="/testi/poe/atomized/the_literary_life_of_thingum_bob_esq/part/part_07">part 07 ›</a></div>
 </nav>
 
+
+      after the inimitable compositions of the editor himself, we
+
+      prefer a diamond-like effusion from the pen of a rising poet who
+
+      writes over the signature ‘Snob’—a nom de guerre which we predict
+
+      will one day extinguish the radiance of ‘Boz.’ ‘Snob,’ we learn,
+
+      is a Mr. Thingum Bob, Esq., sole heir of a wealthy merchant of
+
+      this [[City|city]], Thomas Bob, Esq., and a near relative of the
+
+      distinguished Mr. Thingum. The title of Mr. B.‘s admirable poem
+
+      is the ‘Oil-of-Bob’—a somewhat unfortunate name, by-the-by, as
+
+      some contemptible vagabond connected with the penny press has
 
       already disgusted the town with a great deal of drivel upon the
 
@@ -189,23 +207,3 @@ tags:
 
 
       Full of this purpose, I looked about me to find a friend whom I
-
-      could entrust with a message to his Daddyship, and as the editor
-
-      of the “Lollipop” had given me marked tokens of regard, I at
-
-      length concluded to seek assistance upon the present occasion.
-
-
-
-      I have never yet been able to account, in a manner satisfactory
-
-      to my own understanding, for the _very_ peculiar countenance and
-
-      demeanor with which Mr. Crab listened to me, as I unfolded to him
-
-      my design. He again went through the scene of the bell-rope and
-
-      cudgel, and did not omit the duck. At one period I thought he
-
-      really intended to quack. His fit, nevertheless, finally subsided

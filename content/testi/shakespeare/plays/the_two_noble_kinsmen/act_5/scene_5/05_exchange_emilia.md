@@ -1,5 +1,5 @@
 ---
-title: "The Two Noble Kinsmen — Act V, Scene 5 — exchange ([[Emilia|EMILIA]]) [5]"
+title: "The Two Noble Kinsmen — Act V, Scene 5 — exchange (EMILIA) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-two-noble-kinsmen-(shakespeare)"

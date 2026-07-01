@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 30 (part 1)"
+title: "The Tenant of Wildfell Hall — Chapter 30 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -48,7 +48,7 @@ thought the [[Time|time]] was come.
 
 
 
-“It is the same cook as we had before you went, [[arthur|Arthur]],” said I. “You
+“It is the same cook as we had before you went, [[Arthur]],” said I. “You
 
 were generally pretty [[Well|well]] satisfied with her then.”
 
@@ -104,7 +104,7 @@ alarming concussion with the trayful of crockery in his hands, but no
 
 positive damage, save the fall and breaking of a sauce tureen; but, to
 
-my unspeakable shame and dismay, [[arthur|Arthur]] turned furiously around upon
+my unspeakable shame and dismay, [[Arthur]] turned furiously around upon
 
 him, and swore at him with savage coarseness. The poor man turned pale,
 
@@ -112,7 +112,7 @@ and visibly trembled as he stooped to pick up the fragments.
 
 
 
-“He couldn’t help it, [[arthur|Arthur]],” said I; “the carpet caught his foot, and
+“He couldn’t help it, [[Arthur]],” said I; “the carpet caught his foot, and
 
 there’s no great harm done. Never mind the pieces now, Benson; you can
 
@@ -128,13 +128,13 @@ withdrew.
 
 “What _could_ you mean, [[Helen]], by taking the servant’s part against
 
-me,” said [[arthur|Arthur]], as soon as the door was closed, “when you knew I was
+me,” said [[Arthur]], as soon as the door was closed, “when you knew I was
 
 distracted?”
 
 
 
-“I did not know you were distracted, [[arthur|Arthur]]: and the poor man was quite
+“I did not know you were distracted, [[Arthur]]: and the poor man was quite
 
 frightened and hurt at your sudden explosion.”
 
@@ -166,7 +166,7 @@ complain of mine.”
 
 
 
-“Then why do you try yours, [[arthur|Arthur]]?”
+“Then why do you try yours, [[Arthur]]?”
 
 
 
@@ -212,7 +212,7 @@ hand on his forehead. It was burning indeed.
 
 
 
-“Then come with me into the drawing-room, [[arthur|Arthur]]; and don’t take any
+“Then come with me into the drawing-room, [[Arthur]]; and don’t take any
 
 more wine: you have taken several glasses since dinner, and eaten next
 
@@ -224,7 +224,7 @@ With some coaxing and [[Persuasion|persuasion]], I got him to leave the table. W
 
 the baby was brought I tried to amuse him with that; but poor little
 
-[[arthur|Arthur]] was cutting his teeth, and his father could not bear his
+[[Arthur]] was cutting his teeth, and his father could not bear his
 
 complaints: sentence of immediate banishment was passed upon him on the
 
@@ -246,7 +246,7 @@ would please you to leave me [[Alone|alone]].”
 
 
 
-“I have not been very long, have I, [[arthur|Arthur]]? I have not been an hour,
+“I have not been very long, have I, [[Arthur]]? I have not been an hour,
 
 I’m sure.”
 
@@ -273,17 +273,3 @@ everything but me.”
 
 
 “And why should I pity _you?_ What is the matter with you?”
-
-
-
-“[[Well]]! that passes everything! After all the wear and tear that I’ve
-
-had, when I come [[Home|home]] sick and weary, [[Longing|longing]] for comfort, and
-
-expecting to find attention and kindness, at least from my wife, she
-
-calmly asks what is the matter with me!”
-
-
-
-“There is _nothing_ the matter with you,” returned I, “except what you

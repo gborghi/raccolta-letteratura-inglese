@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 16 (part 3)"
+title: "Our Mutual Friend — Chapter 2 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,108 +14,121 @@ tags:
 </nav>
 
 
-Although as easy as usual on the surface, Lightwood is not quite as easy
-as usual below it. With an air of not minding Eugene at all, he feels
-that the subject is not altogether a safe one in that connexion.
+Her set purpose of contradicting Miss Abbey point blank, was so far from
+offending that dread authority, as to elicit a gracious smile. ‘You do
+right, [[Child|child]],’ said Miss Abbey, ‘to speak [[Well|well]] of those who deserve [[Well|well]]
+of you.’
 
-‘The natural curiosity which forms the sole ornament of my professional
-museum,’ he resumes, ‘hereupon desires his Secretary—an individual
-of the hermit-crab or oyster species, and whose name, I think, is
-Chokesmith—but it doesn’t in the least matter—say Artichoke—to put
-himself in communication with [[Lizzie Hexam]]. Artichoke professes his
-readiness so to do, endeavours to do so, but fails.’
+‘Right or wrong,’ muttered Miss Wren, inaudibly, with a visible hitch of
+her chin, ‘I mean to do it, and you may make up your mind to THAT, old
+lady.’
 
-‘Why fails?’ asks Boots.
+‘Here is the paper, madam,’ said the Jew, delivering into Miss
+Potterson’s hands the original document drawn up by Rokesmith, and
+signed by Riderhood. ‘Will you please to read it?’
 
-‘How fails?’ asks Brewer.
+‘But first of all,’ said Miss Abbey, ‘—did you ever taste shrub,
+[[Child|child]]?’
 
-‘Pardon me,’ returns Lightwood, ‘I must postpone the reply for one
-moment, or we shall have an anti-climax. Artichoke failing signally, my
-client refers the task to me: his purpose being to advance the interests
-of the object of his search. I proceed to put myself in communication
-with her; I even happen to possess some special means,’ with a glance
-at Eugene, ‘of putting myself in communication with her; but I fail too,
-because she has vanished.’
+Miss Wren shook her head.
 
-‘Vanished!’ is the general echo.
+‘Should you like to?’
 
-‘Disappeared,’ says Mortimer. ‘Nobody knows how, nobody knows when,
-nobody knows where. And so ends the story to which my honourable and
-fair enslaver opposite referred.’
+‘Should if it’s good,’ returned Miss Wren.
 
-Tippins, with a bewitching little scream, opines that we shall every one
-of us be murdered in our beds. Eugene eyes her as if some of us would
-be enough for him. Mrs Veneering, W.M.P., remarks that these social
-mysteries make one afraid of leaving Baby. Veneering, M.P., wishes to
-be informed (with something of a second-hand air of seeing the Right
-Honourable Gentleman at the head of the [[Home]] Department in his place)
-whether it is intended to be conveyed that the vanished person has been
-spirited away or otherwise harmed? Instead of Lightwood’s answering,
-Eugene answers, and answers hastily and vexedly: ‘No, no, no; he doesn’t
-mean that; he means voluntarily vanished—but utterly—completely.’
+‘You shall try. And, if you find it good, I’ll mix some for you with hot
+[[Water|water]]. Put your poor little feet on the fender. It’s a cold, cold [[Night|night]],
+and the fog clings so.’ As Miss Abbey helped her to turn her chair, her
+loosened bonnet dropped on the floor. ‘Why, what lovely hair!’ cried
+Miss Abbey. ‘And enough to make wigs for all the dolls in the world.
+What a quantity!’
 
-However, the great subject of the happiness of Mr and Mrs Lammle must
-not be allowed to vanish with the other vanishments—with the vanishing
-of the murderer, the vanishing of Julius Handford, the vanishing of
-[[Lizzie Hexam]],—and therefore Veneering must recall the present sheep
-to the pen from which they have strayed. Who so fit to discourse of
-the happiness of Mr and Mrs Lammle, they being the dearest and oldest
-friends he has in the world; or what audience so fit for him to take
-into his confidence as that audience, a noun of multitude or signifying
-many, who are all the oldest and dearest friends he has in the world?
-So Veneering, without the formality of rising, launches into a familiar
-oration, gradually toning into the Parliamentary sing-[[Song|song]], in which he
-sees at that board his dear friend Twemlow who on that day twelvemonth
-bestowed on his dear friend Lammle the fair hand of his dear friend
-Sophronia, and in which he also sees at that board his dear friends
-Boots and Brewer whose rallying round him at a period when his dear
-friend Lady Tippins likewise rallied round him—ay, and in the foremost
-rank—he can never forget while [[Memory|memory]] holds her seat. But he is free
-to confess that he misses from that board his dear old friend Podsnap,
-though he is [[Well|well]] represented by his dear young friend Georgiana. And he
-further sees at that board (this he announces with pomp, as if exulting
-in the powers of an extraordinary telescope) his friend Mr Fledgeby, if
-he will permit him to call him so. For all of these reasons, and many
-more which he right [[Well|well]] knows will have occurred to persons of your
-exceptional acuteness, he is here to submit to you that the [[Time|time]] has
-arrived when, with our hearts in our glasses, with [[Tears|tears]] in our eyes,
-with blessings on our lips, and in a general way with a profusion of
-gammon and spinach in our emotional larders, we should one and all drink
-to our dear friends the Lammles, wishing them many years as happy as
-the last, and many many friends as congenially united as themselves. And
-this he will add; that Anastatia Veneering (who is instantly heard to
-weep) is formed on the same model as her old and chosen friend Sophronia
-Lammle, in respect that she is devoted to the man who wooed and won her,
-and nobly discharges the duties of a wife.
+‘Call THAT a quantity?’ returned Miss Wren. ‘Poof! What do you say to
+the rest of it?’ As she spoke, she untied a band, and the golden stream
+fell over herself and over the chair, and flowed down to the ground.
+Miss Abbey’s admiration seemed to increase her perplexity. She beckoned
+the Jew towards her, as she reached down the shrub-bottle from its
+niche, and whispered:
 
-Seeing no better way out of it, Veneering here pulls up his oratorical
-Pegasus extremely short, and plumps down, clean over his head, with:
-‘Lammle, God bless you!’
+‘[[Child]], or woman?’
 
-Then Lammle. Too much of him every way; pervadingly too much nose of a
-coarse wrong shape, and his nose in his mind and his manners; too much
-smile to be real; too much frown to be false; too many large teeth to be
-visible at once without suggesting a bite. He thanks you, dear friends,
-for your kindly greeting, and hopes to receive you—it may be on the
-next of these delightful occasions—in a residence better suited to
-your claims on the rites of hospitality. He will never forget that at
-Veneering’s he first saw Sophronia. Sophronia will never forget that at
-Veneering’s she first saw him. ‘They spoke of it soon after they
-were married, and agreed that they would never forget it. In fact, to
-Veneering they owe their [[Union|union]]. They [[Hope|hope]] to show their sense of this
-some day (‘No, no, from Veneering)—oh yes, yes, and let him rely
-upon it, they will if they can! His [[Marriage|marriage]] with Sophronia was not a
-[[Marriage|marriage]] of interest on either side: she had her little fortune, he had
-his little fortune: they joined their little fortunes: it was a [[Marriage|marriage]]
-of pure inclination and suitability. Thank you! Sophronia and he are
-fond of the society of young people; but he is not sure that their [[house]]
-would be a good [[house]] for young people proposing to remain single, since
-the contemplation of its domestic bliss might induce them to change
-their minds. He will not apply this to any one present; certainly not
-to their darling little Georgiana. Again thank you! Neither, by-the-by,
-will he apply it to his friend Fledgeby. He thanks Veneering for the
-feeling manner in which he referred to their common friend Fledgeby, for
-he holds that gentleman in the highest estimation. Thank you. In fact
-(returning unexpectedly to Fledgeby), the better you know him, the more
-you find in him that you [[Desire|desire]] to know. Again thank you! In his dear
-Sophronia’s name and in his own, thank you!
+‘[[Child]] in years,’ was the answer; ‘woman in [[Self-Reliance|self-reliance]] and trial.’
+
+‘You are talking about Me, good people,’ thought Miss Jenny, sitting in
+her golden bower, warming her feet. ‘I can’t hear what you say, but I
+know your tricks and your manners!’
+
+The shrub, when tasted from a spoon, perfectly harmonizing with Miss
+Jenny’s palate, a judicious amount was mixed by Miss Potterson’s skilful
+hands, whereof Riah too partook. After this preliminary, Miss Abbey read
+the document; and, as often as she raised her eyebrows in so doing,
+the watchful Miss Jenny accompanied the action with an expressive and
+emphatic sip of the shrub and [[Water|water]].
+
+‘As far as this goes,’ said Miss Abbey Potterson, when she had read it
+several times, and thought about it, ‘it proves (what didn’t much need
+proving) that Rogue Riderhood is a [[Villain|villain]]. I have my doubts whether he
+is not the [[Villain|villain]] who solely did the deed; but I have no expectation of
+those doubts ever being cleared up now. I believe I did Lizzie’s father
+wrong, but never Lizzie’s [[Self|self]]; because when things were at the worst I
+trusted her, had perfect confidence in her, and tried to persuade her
+to come to me for a refuge. I am very sorry to have done a man wrong,
+particularly when it can’t be undone. Be kind enough to let Lizzie know
+what I say; not forgetting that if she will come to the Porters, after
+all, bygones being bygones, she will find a [[Home|home]] at the Porters, and a
+friend at the Porters. She knows Miss Abbey of old, remind her, and she
+knows what-like the [[Home|home]], and what-like the friend, is likely to turn
+out. I am generally short and sweet—or short and sour, according as it
+may be and as opinions vary—’ remarked Miss Abbey, ‘and that’s about
+all I have got to say, and enough too.’
+
+But before the shrub and [[Water|water]] was sipped out, Miss Abbey bethought
+herself that she would like to keep a copy of the paper by her. ‘It’s
+not long, sir,’ said she to Riah, ‘and perhaps you wouldn’t mind just
+jotting it down.’ The old man willingly put on his spectacles, and,
+standing at the little desk in the corner where Miss Abbey filed her
+receipts and kept her sample phials (customers’ scores were interdicted
+by the strict administration of the Porters), wrote out the copy in
+a fair round character. As he stood there, doing his methodical
+penmanship, his ancient scribelike figure intent upon the work, and the
+little dolls’ dressmaker sitting in her golden bower before the [[Fire|fire]],
+Miss Abbey had her doubts whether she had not dreamed those two rare
+figures into the bar of the Six Jolly Fellowships, and might not wake
+with a nod next moment and find them gone.
+
+Miss Abbey had twice made the experiment of shutting her eyes and
+opening them again, still finding the figures there, when, dreamlike,
+a confused hubbub arose in the public room. As she started up, and they
+all three looked at one another, it became a noise of clamouring voices
+and of the stir of feet; then all the windows were heard to be hastily
+thrown up, and shouts and cries came floating into the [[house]] from
+the [[River|river]]. A moment more, and Bob Gliddery came clattering along the
+passage, with the noise of all the nails in his boots condensed into
+every separate nail.
+
+‘What is it?’ asked Miss Abbey.
+
+‘It’s summut run down in the fog, ma’am,’ answered Bob. ‘There’s ever so
+many people in the [[River|river]].’
+
+‘Tell ’em to put on all the kettles!’ cried Miss Abbey. ‘See that the
+boiler’s full. Get a bath out. Hang some blankets to the [[Fire|fire]]. Heat some
+stone bottles. Have your senses about you, you girls down stairs, and
+use ’em.’
+
+While Miss Abbey partly delivered these directions to Bob—whom she
+seized by the hair, and whose head she knocked against the wall, as a
+general injunction to vigilance and presence of mind—and partly hailed
+the kitchen with them—the company in the public room, jostling one
+another, rushed out to the causeway, and the outer noise increased.
+
+‘Come and look,’ said Miss Abbey to her visitors. They all three hurried
+to the vacated public room, and passed by one of the windows into the
+wooden verandah overhanging the [[River|river]].
+
+‘Does anybody down there know what has happened?’ demanded Miss Abbey,
+in her voice of authority.
+
+‘It’s a steamer, Miss Abbey,’ cried one blurred figure in the fog.
+
+‘It always IS a steamer, Miss Abbey,’ cried another.

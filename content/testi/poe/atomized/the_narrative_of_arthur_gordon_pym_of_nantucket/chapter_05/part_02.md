@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 6 (part 2)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 6 (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_05/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_05/part_03">part 03 ›</a></div>
 </nav>
 
+
+reaching to the timbers above, and thus securing everything in its
+
+place. In cargoes consisting of grain, or any similar matter,
 
 additional precautions are requisite. A hold filled entirely with grain
 
@@ -189,13 +193,3 @@ that he had no [[Doubt|doubt]] of his father's having been picked up, as there
 were no less than five sail in sight just before sundown on the day he
 
 was cut adrift; and used other language of a consolatory [[Nature|nature]], which
-
-occasioned me no less surprise than pleasure. Indeed, I began to
-
-entertain hopes, that through the instrumentality of Peters we might be
-
-finally enabled to regain possession of the brig, and this idea I
-
-mentioned to Augustus as soon as I found an opportunity. He thought the
-
-matter possible, but urged the necessity of the greatest caution in

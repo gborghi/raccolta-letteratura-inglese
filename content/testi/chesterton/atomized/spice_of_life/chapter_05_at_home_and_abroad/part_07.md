@@ -1,5 +1,5 @@
 ---
-title: "Spice Of Life — Part 4: AT [[Home|HOME]] AND ABROAD (part 7)"
+title: "Spice Of Life — Part 4: AT HOME AND ABROAD (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/spice-of-life-(chesterton)"
@@ -52,14 +52,14 @@ and every thing practical means providing the huge human cafe with
 such tables--but separate tables.  They understand that when this
 has been done as fully and fairly as possible, there will still
 always be somebody limping by; and that he must not be forgotten.
-Above all, they understand the impulse that makes the most [[Innocent|innocent]]
+Above all, they understand the impulse that makes the most innocent
 the intermediary and the almoner; they understand propitiation
 and the priest.
 
-There are also other kinds of people.  For the [[Well|well]]-dressed
-American [[Rose|rose]] from her table with a sort of snort and went on
-her way to see the sights of [[Paris]].  We must not be hard on her;
-in [[Truth|truth]] the poor lady suffered from delusions; for she laboured
+There are also other kinds of people.  For the well-dressed
+American rose from her table with a sort of snort and went on
+her way to see the sights of Paris.  We must not be hard on her;
+in truth the poor lady suffered from delusions; for she laboured
 under the extraordinary notion that she had seen ignorant people
-giving a [[Child|child]] Alcohol; and she was ridden with a sort of [[nightmare]],
+giving a child Alcohol; and she was ridden with a sort of nightmare,
 to the effect that a beggar is a horrible thing.

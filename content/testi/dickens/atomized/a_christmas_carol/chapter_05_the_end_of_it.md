@@ -1,5 +1,5 @@
 ---
-title: "A Christmas [[carol|Carol]] — Stave 5: THE END OF IT"
+title: "A Christmas Carol — Stave 5: THE END OF IT"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/a-christmas-carol-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/a-christmas-carol-(dickens)">A Christmas Carol</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_christmas_carol/chapter_04_the_last_of_the_spirits">‹ Chapter 04 THE LAST OF THE SPIRITS</a><a class="ex-next" href="/testi/dickens/atomized/a_christmas_carol/chapter_01_marley_s_ghost/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_christmas_carol/chapter_04_the_last_of_the_spirits">‹ Chapter 04 THE LAST OF THE SPIRITS</a><a class="ex-next" href="/testi/dickens/atomized/a_christmas_carol/chapter_01_marley_s_ghost_ghost/part_01">part 01 ›</a></div>
 </nav>
 
 

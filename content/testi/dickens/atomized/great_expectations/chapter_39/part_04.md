@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 39 (part 4)"
+title: "Great Expectations — Chapter 39 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,21 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_39/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_40/part_01">part 01 ›</a></div>
 </nav>
 
+
+O [[Estella]], [[Estella]]!
+
+“They shall be yourn, dear boy, if money can buy ’em. Not that a
+gentleman like you, so [[Well|well]] set up as you, can’t win ’em off of his own
+game; but money shall back you! Let me finish wot I was a telling you,
+dear boy. From that there hut and that there hiring-out, I got money
+left me by my master (which died, and had been the same as me), and got
+my liberty and went for myself. In every single thing I went for, I
+went for you. ‘Lord strike a blight upon it,’ I says, wotever it was I
+went for, ‘if it ain’t for him!’ It all prospered wonderful. As I giv’
+you to understand just now, I’m famous for it. It was the money left
+me, and the gains of the first few year wot I sent [[Home|home]] to Mr.
+Jaggers—all for you—when he first come arter you, agreeable to my
+letter.”
 
 O that he had never come! That he had left me at the forge,—far from
 contented, yet, by comparison happy!

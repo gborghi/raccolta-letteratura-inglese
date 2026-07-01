@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]] — Omar and the Sacred Vine"
+title: "heret12 — Omar and the Sacred Vine"
 author: "Chesterton"
 unitType: story
 parentWork: "works/heret12-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 VII.  Omar and the Sacred Vine
-
 
 A new [[morality]] has burst upon us with some violence in connection
 with the problem of strong drink; and enthusiasts in the matter

@@ -1,5 +1,5 @@
 ---
-title: "[[history]] — Chapter 13 (part 4)"
+title: "history — Chapter 13 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/history-(chesterton)"
@@ -41,7 +41,7 @@ victory always make, if it was but a negative difference.
 It was the final break in our [[history]]; it was a breaker
 of many things, and perhaps of popular rebellion in our land.
 It is something of a verbal symbol that these men founded
-[[New England]] in [[america|America]], for indeed they tried to found it here.
+[[New England]] in [[America]], for indeed they tried to found it here.
 By a [[Paradox|paradox]], there was something prehistoric in the very
 [[Nakedness|nakedness]] of their novelty.  Even the old and savage things
 they invoked became more savage in becoming more new.

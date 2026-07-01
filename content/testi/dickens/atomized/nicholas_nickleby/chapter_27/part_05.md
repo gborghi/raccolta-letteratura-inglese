@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 27 (part 5)"
+title: "Nicholas Nickleby — Chapter 27 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_27/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_27/part_06">part 06 ›</a></div>
 </nav>
 
+
+‘I take an interest, my lord,’ said Mrs. Wititterly, with a faint smile,
+‘such an interest in the drama.’
+
+‘Ye--es. It’s very interesting,’ replied Lord Verisopht.
+
+‘I’m always ill after Shakespeare,’ said Mrs. Wititterly. ‘I scarcely
+exist the next day; I find the reaction so very great after a [[Tragedy|tragedy]],
+my lord, and Shakespeare is such a delicious creature.’
 
 ‘Ye--es!’ replied Lord Verisopht. ‘He was a clayver man.’
 
@@ -118,13 +127,3 @@ arm, walked towards the door.
 from this coarse and unmanly persecution,’ said Kate, scarcely knowing,
 in the tumult of her passions, what she said,--‘I have a brother who
 will resent it dearly, one day.’
-
-‘Upon my [[Soul|soul]]!’ exclaimed Sir Mulberry, as though quietly communing with
-himself; passing his arm round her waist as he spoke, ‘she looks more
-beautiful, and I like her better in this mood, than when her eyes are
-cast down, and she is in perfect repose!’
-
-How Kate reached the lobby where her friends were waiting she never
-knew, but she hurried across it without at all regarding them, and
-disengaged herself suddenly from her companion, sprang into the coach,
-and throwing herself into its darkest corner burst into [[Tears|tears]].

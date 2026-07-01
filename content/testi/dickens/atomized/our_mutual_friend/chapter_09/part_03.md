@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 4 (part 3)"
+title: "Our Mutual Friend — Chapter 5 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,146 +14,141 @@ tags:
 </nav>
 
 
-The young lady’s lamentations were checked at this point by a knuckle,
-knocking at the half-open door of the room. The knuckle had knocked two
-or three times already, but had not been heard.
+‘It never happened that I did so yet, to the best of my remembrance,’
+said Mr Wegg, cautiously. ‘But I might do it. A man can’t say what he
+might wish to do some day or another.’ (This, not to release any little
+advantage he might derive from Mr Boffin’s avowal.)
 
-‘Who is it?’ said Mrs Wilfer, in her Act-of-Parliament manner. ‘Enter!’
+‘[[Well]],’ repeated Boffin, ‘I was a listening to you and to him. And what
+do you—you haven’t got another stool, have you? I’m rather thick in my
+breath.’
 
-A gentleman coming in, Miss Bella, with a short and sharp exclamation,
-scrambled off the hearth-rug and massed the bitten curls together in
-their right place on her neck.
+‘I haven’t got another, but you’re welcome to this,’ said Wegg,
+resigning it. ‘It’s a treat to me to stand.’
 
-‘The servant girl had her key in the door as I came up, and directed me
-to this room, telling me I was expected. I am afraid I should have asked
-her to announce me.’
+‘Lard!’ exclaimed Mr Boffin, in a tone of great enjoyment, as he settled
+himself down, still nursing his stick like a baby, ‘it’s a pleasant
+place, this! And then to be shut in on each side, with these ballads,
+like so many book-leaf blinkers! Why, its delightful!’
 
-‘Pardon me,’ returned Mrs Wilfer. ‘Not at all. Two of my daughters. R.
-W., this is the gentleman who has taken your first-floor. He was so good
-as to make an appointment for to-[[Night|night]], when you would be at [[Home|home]].’
+‘If I am not mistaken, sir,’ Mr Wegg delicately hinted, resting a hand
+on his stall, and bending over the discursive Boffin, ‘you alluded to
+some offer or another that was in your mind?’
 
-A dark gentleman. Thirty at the utmost. An expressive, one might say
-handsome, face. A very bad manner. In the last degree constrained,
-reserved, diffident, troubled. His eyes were on Miss Bella for an
-instant, and then looked at the ground as he addressed the master of the
-[[house]].
+‘I’m coming to it! All right. I’m coming to it! I was going to say that
+when I listened that morning, I listened with hadmiration amounting to
+haw. I thought to myself, “Here’s a man with a wooden leg—a literary
+man with—“’
 
-‘Seeing that I am quite satisfied, Mr Wilfer, with the rooms, and with
-their situation, and with their price, I suppose a memorandum between us
-of two or three lines, and a payment down, will bind the bargain? I wish
-to send in furniture without delay.’
+‘N—not exactly so, sir,’ said Mr Wegg.
 
-Two or three times during this short address, the cherub addressed had
-made chubby motions towards a chair. The gentleman now took it, laying
-a hesitating hand on a corner of the table, and with another hesitating
-hand lifting the [[Crown|crown]] of his hat to his lips, and drawing it before his
-mouth.
+‘Why, you know every one of these [[songs]] by name and by tune, and if you
+want to read or to sing any one on ’em off straight, you’ve only to whip
+on your spectacles and do it!’ cried Mr Boffin. ‘I see you at it!’
 
-‘The gentleman, R. W.,’ said Mrs Wilfer, ‘proposes to take your
-apartments by the quarter. A quarter’s notice on either side.’
+‘[[Well]], sir,’ returned Mr Wegg, with a conscious inclination of the head;
+‘we’ll say literary, then.’
 
-‘Shall I mention, sir,’ insinuated the landlord, expecting it to be
-received as a matter of course, ‘the form of a reference?’
+‘“A literary man—WITH a wooden leg—and all Print is open to him!”
+ That’s what I thought to myself, that morning,’ pursued Mr Boffin,
+leaning forward to describe, uncramped by the clotheshorse, as large an
+arc as his right arm could make; ‘“all Print is open to him!” And it is,
+ain’t it?’
 
-‘I think,’ returned the gentleman, after a pause, ‘that a reference is
-not necessary; neither, to say the [[Truth|truth]], is it convenient, for I am
-a stranger in [[London]]. I require no reference from you, and perhaps,
-therefore, you will require none from me. That will be fair on both
-sides. Indeed, I show the greater confidence of the two, for I will pay
-in advance whatever you please, and I am going to trust my furniture
-here. Whereas, if you were in embarrassed circumstances—this is merely
-supposititious—’
+‘Why, truly, sir,’ Mr Wegg admitted, with modesty; ‘I believe you
+couldn’t show me the piece of English print, that I wouldn’t be equal to
+collaring and throwing.’
 
-[[Conscience]] causing R. Wilfer to colour, Mrs Wilfer, from a corner (she
-always got into stately corners) came to the rescue with a deep-toned
-‘Per-fectly.’
+‘On the spot?’ said Mr Boffin.
 
-‘—Why then I—might lose it.’
+‘On the spot.’
 
-‘[[Well]]!’ observed R. Wilfer, cheerfully, ‘money and goods are certainly
-the best of references.’
+‘I know’d it! Then consider this. Here am I, a man without a wooden leg,
+and yet all print is shut to me.’
 
-‘Do you think they ARE the best, pa?’ asked Miss Bella, in a low voice,
-and without looking over her shoulder as she warmed her foot on the
-fender.
+‘Indeed, sir?’ Mr Wegg returned with increasing [[Self|self]]-complacency.
+‘[[Education]] neglected?’
 
-‘Among the best, my dear.’
+‘Neg—lected!’ repeated Boffin, with emphasis. ‘That ain’t no word for
+it. I don’t mean to say but what if you showed me a B, I could so far
+give you change for it, as to answer Boffin.’
 
-‘I should have thought, myself, it was so easy to add the usual kind of
-one,’ said Bella, with a toss of her curls.
+‘Come, come, sir,’ said Mr Wegg, throwing in a little encouragement,
+‘that’s something, too.’
 
-The gentleman listened to her, with a face of marked attention, though
-he neither looked up nor changed his attitude. He sat, still and silent,
-until his future landlord accepted his proposals, and brought writing
-materials to complete the business. He sat, still and silent, while the
-landlord wrote.
+‘It’s something,’ answered Mr Boffin, ‘but I’ll take my oath it ain’t
+much.’
 
-When the agreement was ready in duplicate (the landlord having worked
-at it like some cherubic scribe, in what is conventionally called a
-doubtful, which means a not at all doubtful, Old Master), it was signed
-by the contracting parties, Bella looking on as scornful witness. The
-contracting parties were R. Wilfer, and John Rokesmith Esquire.
+‘Perhaps it’s not as much as could be wished by an inquiring mind, sir,’
+Mr Wegg admitted.
 
-When it came to Bella’s turn to sign her name, Mr Rokesmith, who was
-standing, as he had sat, with a hesitating hand upon the table, looked
-at her stealthily, but narrowly. He looked at the pretty figure bending
-down over the paper and saying, ‘Where am I to go, pa? Here, in this
-corner?’ He looked at the beautiful brown hair, shading the coquettish
-face; he looked at the free dash of the signature, which was a bold one
-for a woman’s; and then they looked at one another.
+‘Now, look here. I’m retired from business. Me and Mrs
+Boffin—Henerietty Boffin—which her father’s name was Henery, and her
+mother’s name was Hetty, and so you get it—we live on a compittance,
+under the will of a diseased governor.’
 
-‘Much obliged to you, Miss Wilfer.’
+‘Gentleman dead, sir?’
 
-‘Obliged?’
+‘Man alive, don’t I tell you? A diseased governor? Now, it’s too late
+for me to begin shovelling and sifting at alphabeds and grammar-books.
+I’m getting to be a old bird, and I want to take it easy. But I want
+some reading—some fine bold reading, some splendid book in a gorging
+Lord-Mayor’s-Show of wollumes’ (probably meaning gorgeous, but misled
+by association of ideas); ‘as’ll reach right down your pint of view, and
+take [[Time|time]] to go by you. How can I get that reading, Wegg? By,’ tapping
+him on the breast with the head of his thick stick, ‘paying a man truly
+qualified to do it, so much an hour (say twopence) to come and do it.’
 
-‘I have given you so much trouble.’
+‘Hem! Flattered, sir, I am sure,’ said Wegg, beginning to regard himself
+in quite a new light. ‘Hew! This is the offer you mentioned, sir?’
 
-‘Signing my name? Yes, certainly. But I am your landlord’s daughter,
-sir.’
+‘Yes. Do you like it?’
 
-As there was nothing more to do but pay eight sovereigns in earnest of
-the bargain, pocket the agreement, appoint a [[Time|time]] for the arrival of his
-furniture and himself, and go, Mr Rokesmith did that as awkwardly as it
-might be done, and was escorted by his landlord to the outer air. When
-R. Wilfer returned, candlestick in hand, to the bosom of his family, he
-found the bosom agitated.
+‘I am considering of it, Mr Boffin.’
 
-‘Pa,’ said Bella, ‘we have got a Murderer for a tenant.’
+‘I don’t,’ said Boffin, in a free-handed manner, ‘want to tie a literary
+man—WITH a wooden leg—down too tight. A halfpenny an hour shan’t part
+us. The hours are your own to choose, after you’ve done for the day
+with your [[house]] here. I live over Maiden Lane way—out Holloway
+direction—and you’ve only got to go East-and-by-North when you’ve
+finished here, and you’re there. Twopence halfpenny an hour,’ said
+Boffin, taking a piece of [[chalk]] from his pocket and getting off the
+stool to work the sum on the top of it in his own way; ‘two long’uns and
+a short’un—twopence halfpenny; two short’uns is a long’un and two two
+long’uns is four long’uns—making five long’uns; six nights a week at
+five long’uns a [[Night|night]],’ scoring them all down separately, ‘and you mount
+up to thirty long’uns. A round’un! Half a [[Crown|crown]]!’
 
-‘Pa,’ said [[Lavinia]], ‘we have got a Robber.’
+Pointing to this result as a large and satisfactory one, Mr Boffin
+smeared it out with his moistened glove, and sat down on the remains.
 
-‘To see him unable for his life to look anybody in the face!’ said
-Bella. ‘There never was such an exhibition.’
+‘Half a [[Crown|crown]],’ said Wegg, meditating. ‘Yes. (It ain’t much, sir.) Half
+a [[Crown|crown]].’
 
-‘My dears,’ said their father, ‘he is a diffident gentleman, and I
-should say particularly so in the society of girls of your age.’
+‘Per week, you know.’
 
-‘Nonsense, our age!’ cried Bella, impatiently. ‘What’s that got to do
-with him?’
+‘Per week. Yes. As to the amount of strain upon the intellect now. Was
+you thinking at all of poetry?’ Mr Wegg inquired, musing.
 
-‘Besides, we are not of the same age:—which age?’ demanded [[Lavinia]].
+‘Would it come dearer?’ Mr Boffin asked.
 
-‘Never YOU mind, Lavvy,’ retorted Bella; ‘you wait till you are of an
-age to ask such questions. Pa, mark my words! Between Mr Rokesmith and
-me, there is a natural antipathy and a deep distrust; and something will
-come of it!’
+‘It would come dearer,’ Mr Wegg returned. ‘For when a person comes to
+grind off poetry [[Night|night]] after [[Night|night]], it is but right he should expect to
+be paid for its weakening effect on his mind.’
 
-‘My dear, and girls,’ said the cherub-patriarch, ‘between Mr Rokesmith
-and me, there is a matter of eight sovereigns, and something for supper
-shall come of it, if you’ll agree upon the article.’
+‘To tell you the [[Truth|truth]] Wegg,’ said Boffin, ‘I wasn’t thinking of poetry,
+except in so fur as this:—If you was to happen now and then to feel
+yourself in the mind to tip me and Mrs Boffin one of your ballads, why
+then we should drop into poetry.’
 
-This was a neat and happy turn to give the subject, treats being rare in
-the Wilfer household, where a monotonous appearance of Dutch-[[cheese]] at
-ten o’[[Clock|clock]] in the evening had been rather frequently commented on by
-the dimpled shoulders of Miss Bella. Indeed, the modest Dutchman himself
-seemed conscious of his want of variety, and generally came before the
-family in a state of apologetic perspiration. After some discussion on
-the relative merits of veal-cutlet, sweetbread, and lobster, a decision
-was pronounced in favour of veal-cutlet. Mrs Wilfer then solemnly
-divested herself of her handkerchief and gloves, as a preliminary
-sacrifice to preparing the frying-pan, and R. W. himself went out
-to purchase the viand. He soon returned, bearing the same in a fresh
-cabbage-leaf, where it coyly embraced a rasher of ham. Melodious sounds
-were not long in rising from the frying-pan on the [[Fire|fire]], or in seeming,
-as the firelight danced in the mellow halls of a couple of full bottles
-on the table, to play appropriate [[Dance|dance]]-music.
+‘I follow you, sir,’ said Wegg. ‘But not being a regular musical
+professional, I should be loath to engage myself for that; and therefore
+when I dropped into poetry, I should ask to be considered so fur, in the
+light of a friend.’
+
+At this, Mr Boffin’s eyes sparkled, and he shook Silas earnestly by the
+hand: protesting that it was more than he could have asked, and that he
+took it very kindly indeed.
+
+‘What do you think of the terms, Wegg?’ Mr Boffin then demanded, with
+unconcealed anxiety.

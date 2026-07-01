@@ -1,5 +1,5 @@
 ---
-title: "[[Maelzel's Chess-Player]] (part 1)"
+title: "Maelzel's Chess-Player (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/maelzel's-chess-player-(poe)"
@@ -182,7 +182,7 @@ Perhaps no exhibition of the kind has ever elicited so general
 
       sound of quacking in the most natural manner. In the anatomical
 
-      structure the [[Artist|artist]] exhibited the highest skill. Every bone in
+      structure the [[artist]] exhibited the highest skill. Every bone in
 
       the real duck had its representative In the automaton, and its
 
@@ -191,7 +191,3 @@ Perhaps no exhibition of the kind has ever elicited so general
       curvature was imitated, and each bone executed its proper
 
       movements. When corn was thrown down before it, the duck
-
-      stretched out its neck to pick it up, swallowed, and digested it.
-
-      {*1}

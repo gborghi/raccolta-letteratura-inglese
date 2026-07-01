@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 23 (part 1)"
+title: "Wuthering Heights — Chapter 23 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -140,10 +140,3 @@ irritated, asserted her relation was false.
 “Yours is a wicked man,” retorted Catherine; “and you are very naughty
 to dare to repeat what he says. He must be wicked to have made Aunt
 [[Isabella]] leave him as she did.”
-
-“She didn’t leave him,” said the boy; “you sha’n’t contradict me.”
-
-“She did,” cried my young lady.
-
-“[[Well]], I’ll tell _you_ something!” said Linton. “Your mother hated your
-father: now then.”

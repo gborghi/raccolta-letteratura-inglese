@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 32 (part 2)"
+title: "Bleak House — Chapter 32 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_32/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_32/part_03">part 03 ›</a></div>
 </nav>
 
+
+“Why, I have noticed myself that there is a queer kind of flavour in
+the place to-[[Night|night]],” Mr. Weevle rejoins. “I suppose it’s chops at the
+Sol’s Arms.”
+
+“Chops, do you think? Oh! Chops, eh?” Mr. Snagsby sniffs and tastes
+again. “[[Well]], sir, I suppose it is. But I should say their cook at
+the Sol wanted a little looking after. She has been burning ’em, sir!
+And I don’t think”—Mr. Snagsby sniffs and tastes again and then
+spits and wipes his mouth—“I don’t think—not to put too fine a
+point upon it—that they were quite fresh when they were shown the
+gridiron.”
 
 “That’s very likely. It’s a tainting sort of weather.”
 
@@ -137,28 +149,3 @@ his elbow, leans his head on his hand, puts his feet on the fender,
 and looks at the [[Fire|fire]]. Mr. Guppy, observing him, slightly tosses his
 head and sits down on the other side of the table in an easy
 attitude.
-
-“Wasn’t that Snagsby talking to you, Tony?”
-
-“Yes, and he—yes, it was Snagsby,” said Mr. Weevle, altering the
-construction of his sentence.
-
-“On business?”
-
-“No. No business. He was only sauntering by and stopped to prose.”
-
-“I thought it was Snagsby,” says Mr. Guppy, “and thought it as [[Well|well]]
-that he shouldn’t see me, so I waited till he was gone.”
-
-“There we go again, William G.!” cried Tony, looking up for an
-instant. “So mysterious and secret! By George, if we were going to
-commit a murder, we couldn’t have more mystery about it!”
-
-Mr. Guppy affects to smile, and with the view of changing the
-conversation, looks with an admiration, real or pretended, round the
-room at the Galaxy Gallery of British [[Beauty]], terminating his survey
-with the portrait of [[Lady Dedlock]] over the mantelshelf, in which she
-is represented on a terrace, with a pedestal upon the terrace, and a
-vase upon the pedestal, and her shawl upon the vase, and a prodigious
-piece of fur upon the shawl, and her arm on the prodigious piece of
-fur, and a bracelet on her arm.

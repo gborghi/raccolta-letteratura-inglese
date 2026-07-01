@@ -1,5 +1,5 @@
 ---
-title: "[[TheCrimesOfEngland]] — Chapter 10 (part 18)"
+title: "TheCrimesOfEngland — Chapter 10 (part 18)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thecrimesofengland-(chesterton)"
@@ -13,6 +13,94 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thecrimesofengland/chapter_10/part_17">‹ part 17</a><a class="ex-next" href="/testi/chesterton/atomized/thecrimesofengland/chapter_10/part_19">part 19 ›</a></div>
 </nav>
 
+
+fell upon him a sort of spell which is his [[Tragedy|tragedy]] and the English
+
+[[Tragedy|tragedy]], and, in no small degree, the German [[Tragedy|tragedy]] too. The real
+
+[[Romance|romance]] of the Teutons was largely a [[Romance|romance]] of the Southern Teutons,
+
+with their castles, which are almost literally castles in the air, and
+
+their [[River|river]] which is walled with vineyards and rhymes so naturally to
+
+wine. But as Carlyle's was rootedly a [[Romance|romance]] of conquest, he had to
+
+prove that the thing which conquered in [[Germany]] was really more poetical
+
+than anything else in [[Germany]]. Now the thing that conquered in [[Germany]]
+
+was about the most prosaic thing of which the world ever grew weary.
+
+There is a great deal more poetry in Brixton than in Berlin. Stella said
+
+that Swift could write charmingly about a broom-stick; and poor Carlyle
+
+had to write romantically about a ramrod. Compare him with Heine, who
+
+had also a detached taste in the mystical grotesques of [[Germany]], but who
+
+saw what was their enemy: and offered to nail up the Prussian eagle like
+
+an old crow as a target for the archers of the Rhine. Its prosaic
+
+essence is not proved by the fact that it did not produce poets: it is
+
+proved by the more deadly fact that it did. The actual written poetry of
+
+Frederick the Great, for instance, was not even German or barbaric, but
+
+simply feeble--and French. Thus Carlyle became continually gloomier as
+
+his fit of the blues deepened into Prussian blues; nor can there be any
+
+[[Wonder|wonder]]. His [[philosophy]] had brought out the result that the Prussian was
+
+the first of Germans, and, therefore, the first of men. No [[Wonder|wonder]] he
+
+looked at the rest of us with little [[Hope|hope]].
+
+But a stronger test was coming both for Carlyle and England. Prussia,
+
+plodding, policing, as materialist as mud, went on solidifying and
+
+strengthening after unconquered [[Russia]] and unconquered England had
+
+rescued her where she lay prostrate under Napoleon. In this interval the
+
+two most important events were the Polish national revival, with which
+
+[[Russia]] was half inclined to be sympathetic, but Prussia was implacably
+
+coercionist; and the positive refusal of the [[Crown|crown]] of a united [[Germany]]
+
+by the [[King]] of Prussia, simply because it was constitutionally offered
+
+by a free German Convention. Prussia did not want to lead the Germans:
+
+she wanted to conquer the Germans. And she wanted to conquer other
+
+people first. She had already found her brutal, if humorous, embodiment
+
+in Bismarck; and he began with a scheme full of brutality and not
+
+without [[Humour|humour]]. He took up, or rather pretended to take up, the claim of
+
+the Prince of Augustenberg to duchies which were a quite lawful part of
+
+the land of [[Denmark]]. In support of this small pretender he enlisted two
+
+large things, the Germanic [[Body|body]] called the Bund and the Austrian Empire.
+
+It is possibly needless to say that after he had seized the disputed
+
+provinces by pure Prussian violence, he kicked out the Prince of
+
+Augustenberg, kicked out the German Bund, and finally kicked out the
+
+Austrian Empire too, in the sudden campaign of Sadowa. He was a good
+
+husband and a good father; he did not paint in [[Water|water]] colours; and of
 
 such is the Kingdom of Heaven. But the symbolic intensity of the
 
@@ -87,103 +175,3 @@ His treatment of inanimate things as animate was not a cold and awkward
 Through him a [[Child|child]] did feel that the chair he sat on was something like
 
 a wooden [[Horse|horse]]. Through him children and the happier kind of men did
-
-feel themselves covered by a roof as by the folded wings of some vast
-
-domestic fowl; and feel common doors like great mouths that opened to
-
-utter welcome. In the story of "The Fir Tree" he transplanted to
-
-England a living bush that can still blossom into candles. And in his
-
-tale of "The Tin Soldier" he uttered the true defence of romantic
-
-militarism against the prigs who would forbid it even as a toy for the
-
-nursery. He suggested, in the true tradition of the folk-tales, that the
-
-dignity of the fighter is not in his largeness but rather in his
-
-smallness, in his stiff loyalty and heroic helplessness in the hands of
-
-larger and lower things. These things, alas, were an [[Allegory|allegory]]. When
-
-Prussia, finding her crimes unpunished, afterwards carried them into
-
-France as [[Well|well]] as [[Denmark]], Carlyle and his school made some effort to
-
-justify their Germanism, by pitting what they called the piety and
-
-simplicity of [[Germany]] against what they called the cynicism and ribaldry
-
-of France. But nobody could possibly pretend that Bismarck was more
-
-pious and simple than Hans Andersen; yet the Carlyleans looked on with
-
-[[Silence|silence]] or approval while the [[Innocent|innocent]] toy kingdom was broken like a
-
-toy. Here again, it is enormously probable that England would have
-
-struck upon the right side, if the English people had been the English
-
-[[government|Government]]. Among other coincidences, the Danish princess who had
-
-married the English heir was something very like a fairy princess to the
-
-English crowd. The national poet had hailed her as a daughter of the
-
-sea-kings; and she was, and indeed still is, the most popular royal
-
-figure in England. But whatever our people may have been like, our
-
-politicians were on the very tamest level of timidity and the [[Fear|fear]] of
-
-force to which they have ever sunk. The Tin Soldier of the Danish army
-
-and the paper boat of the Danish navy, as in the story, were swept away
-
-down the great gutter, down that colossal _cloaca_ that leads to the
-
-vast cesspool of Berlin.
-
-
-
-Why, as a fact, did not England interpose? There were a great many
-
-reasons given, but I think they were all various inferences from one
-
-reason; indirect results and sometimes quite illogical results, of what
-
-we have called the Germanisation of England. First, the very insularity
-
-on which we insisted was barbaric, in its refusal of a seat in the
-
-central senate of the nations. What we called our splendid isolation
-
-became a rather ignominious sleeping-partnership with Prussia. Next, we
-
-were largely trained in irresponsibility by our contemporary historians,
-
-Freeman and Green, teaching us to be proud of a possible descent from
-
-[[King Arthur]]'s nameless enemies and not from [[King Arthur]]. [[King Arthur]]
-
-might not be historical, but at least he was legendary. Hengist and
-
-Horsa were not even legendary, for they left no legend. Anybody could
-
-see what was obligatory on the representative of [[arthur|Arthur]]; he was bound to
-
-be chivalrous, that is, to be European. But nobody could imagine what
-
-was obligatory on the representative of Horsa, unless it were to be
-
-horsy. That was perhaps the only part of the Anglo-Saxon programme that
-
-the contemporary English really carried out. Then, in the very real
-
-decline from Cobbett to Cobden (that is, from a broad to a narrow
-
-manliness and good sense) there had grown up the cult of a very curious
-
-kind of peace, to be spread all over the world not by pilgrims, but by

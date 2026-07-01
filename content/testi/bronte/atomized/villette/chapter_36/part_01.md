@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 34 (part 1)"
+title: "Villette — Chapter 34 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -26,7 +26,7 @@ Being disengaged, and placing myself at her service, I was presently
 furnished with a list of the wools, silks, embroidering thread,
 etcetera, wanted in the pupils’ work, and having equipped myself in a
 manner suiting the threatening aspect of a cloudy and sultry day, I was
-just drawing the [[spring]]-bolt of the street-door, in act to issue forth,
+just drawing the [[Spring|spring]]-bolt of the street-door, in act to issue forth,
 when Madame’s voice again summoned me to the salle-à-manger.
 
 “Pardon, Meess Lucie!” cried she, in the seeming haste of an impromptu

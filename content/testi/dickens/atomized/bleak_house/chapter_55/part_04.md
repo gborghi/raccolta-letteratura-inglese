@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 55 (part 4)"
+title: "Bleak House — Chapter 55 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_55/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_55/part_05">part 05 ›</a></div>
 </nav>
 
+
+Matters being brought to this so far satisfactory pass, and [[Time|time]]
+being on the wane, Mrs. Bagnet proposes a departure. Again and again
+the old lady hangs upon her son’s neck, and again and again the
+trooper holds her to his broad chest.
+
+“Where are you going to take my mother, Mrs. Bagnet?”
+
+“I am going to the town [[house]], my dear, the family [[house]]. I have some
+business there that must be looked to directly,” Mrs. Rouncewell
+answers.
+
+“Will you see my mother safe there in a coach, Mrs. Bagnet? But of
+course I know you will. Why should I ask it!”
+
+Why indeed, Mrs. Bagnet expresses with the umbrella.
 
 “Take her, my old friend, and take my gratitude along with you.
 Kisses to Quebec and Malta, [[Love|love]] to my godson, a hearty shake of the
@@ -130,21 +146,3 @@ up the natural feelings of the heart like flies in amber and spreads
 one uniform and dreary gloss over the good and bad, the feeling and
 the unfeeling, the sensible and the senseless, she had subdued even
 her [[Wonder|wonder]] until now.
-
-She opens the letter. Spread out upon the paper is a printed account
-of the discovery of the [[Body|body]] as it lay face downward on the floor,
-shot through the heart; and underneath is written her own name, with
-the word “murderess” attached.
-
-It falls out of her hand. How long it may have lain upon the ground
-she knows not, but it lies where it fell when a servant stands before
-her announcing the young man of the name of Guppy. The words have
-probably been repeated several times, for they are ringing in her
-head before she begins to understand them.
-
-“Let him come in!”
-
-He comes in. Holding the letter in her hand, which she has taken from
-the floor, she tries to collect her thoughts. In the eyes of Mr.
-Guppy she is the same [[Lady Dedlock]], holding the same prepared, proud,
-chilling state.

@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 62 (part 1)"
+title: "Barnaby Rudge — Chapter 62 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/barnaby-rudge-(dickens)">Barnaby Rudge</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_61/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_62/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_61/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_62/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -139,13 +139,3 @@ died? Did he stagger back into the angle of the wall into which I had
 hemmed him, and, bleeding inwardly, stand, not fall, a corpse before
 me? Did I see him, for an instant, as I see you now, erect and on his
 feet--but dead!’
-
-The blind man, who knew that he had risen, motioned him to sit down
-again upon his bedstead; but he took no notice of the gesture.
-
-‘It was then I thought, for the first [[Time|time]], of fastening the murder upon
-him. It was then I dressed him in my clothes, and dragged him down
-the back-stairs to the piece of [[Water|water]]. Do I remember listening to the
-bubbles that came rising up when I had rolled him in? Do I remember
-wiping the [[Water|water]] from my face, and because the [[Body|body]] splashed it there,
-in its descent, feeling as if it MUST be [[Blood|blood]]?

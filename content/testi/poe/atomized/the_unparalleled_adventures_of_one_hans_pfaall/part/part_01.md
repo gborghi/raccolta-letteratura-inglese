@@ -1,5 +1,5 @@
 ---
-title: "[[The Unparalleled Adventures of one Hans Pfaall]] (part 1)"
+title: "The Unparalleled Adventures of one Hans Pfaall (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-unparalleled-adventures-of-one-hans-pfaall-(poe)"
@@ -193,5 +193,3 @@ By late accounts from Rotterdam, that [[City|city]] seems to be in a high
       more than two feet in height; but this altitude, little as it
 
       was, would have been sufficient to destroy his equilibrium, and
-
-      tilt him over the edge of his tiny car, but for the intervention

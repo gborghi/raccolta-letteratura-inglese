@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 19 (part 3)"
+title: "Shirley — Chapter 19 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,50 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_19/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_19/part_04">part 04 ›</a></div>
 </nav>
 
+
+I know his chamber."
+
+
+
+"How would you manage about the women folk?"
+
+
+
+"Let 'em [[Alone|alone]] except they shrieked, and then I'd soon quieten 'em. I
+
+could wish to find the old chap asleep. If he waked, he'd be dangerous."
+
+
+
+"Has he arms?"
+
+
+
+"Firearms, allus--and allus loadened."
+
+
+
+"Then you're a [[Fool|fool]] to stop us here. A shot would give the alarm. Moore
+
+would be on us before we could turn round. We should miss our main
+
+object."
+
+
+
+"You might go on, I tell you. I'd engage Helstone [[Alone|alone]]."
+
+
+
+A pause. One of the party dropped some weapon, which rang on the stone
+
+causeway. At this sound the rectory dog barked again
+
+furiously--fiercely.
+
+
+
+"That spoils all!" said the voice. "He'll awake. A noise like that might
 
 rouse the dead. You did not say there was a dog. Damn you! Forward!"
 
@@ -178,7 +222,7 @@ hand. Let us go straight across the fields."
 
 They started; they ran. Many a wall checked but did not baffle them.
 
-[[Shirley]] was surefooted and agile; she could [[spring]] like a deer when she
+[[Shirley]] was surefooted and agile; she could [[Spring|spring]] like a deer when she
 
 chose. Caroline, more timid and less dexterous, fell once or twice, and
 
@@ -231,43 +275,3 @@ Aire thundering in flood. Yet one sound made them pause. Scarce had
 they set foot on the solid opposite bank when a shot split the air from
 
 the north. One second elapsed. Further off burst a like note in the
-
-south. Within the space of three minutes similar signals boomed in the
-
-east and west.
-
-
-
-"I thought we were dead at the first explosion," observed [[Shirley]],
-
-drawing a long breath. "I felt myself hit in the temples, and I
-
-concluded your heart was pierced; but the reiterated voice was an
-
-explanation. Those are signals--it is their way--the attack must be
-
-near. We should have had wings. Our feet have not borne us swiftly
-
-enough."
-
-
-
-A portion of the copse was now to clear. When they emerged from it the
-
-mill lay just below them. They could look down upon the buildings, the
-
-yard; they could see the [[Road|road]] beyond. And the first glance in that
-
-direction told [[Shirley]] she was right in her conjecture. They were
-
-already too late to give warning. It had taken more [[Time|time]] than they
-
-calculated on to overcome the various obstacles which embarrassed the
-
-short cut across the fields.
-
-
-
-The [[Road|road]], which should have been white, was dark with a moving mass. The
-
-rioters were assembled in front of the closed yard gates, and a single

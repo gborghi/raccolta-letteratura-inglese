@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 27 (part 1)"
+title: "Bleak House — Chapter 27 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -161,9 +161,3 @@ says Mr. Tulkinghorn, suddenly handing him some sheets of written
 paper tied together.
 
 “Whether it is at all like that, sir. Just so,” repeats Mr. George.
-
-All three repetitions Mr. George pronounces in a mechanical manner,
-looking straight at Mr. Tulkinghorn; nor does he so much as glance at
-the affidavit in Jarndyce and Jarndyce, that has been given to him
-for his inspection (though he still holds it in his hand), but
-continues to look at the lawyer with an air of troubled meditation.

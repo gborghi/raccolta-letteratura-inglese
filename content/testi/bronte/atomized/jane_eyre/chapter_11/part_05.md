@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 11 (part 5)"
+title: "Jane Eyre — Chapter 11 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_11/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_11/part_06">part 06 ›</a></div>
 </nav>
 
+
+After breakfast, Adèle and I withdrew to the library, which room, it
+appears, Mr. Rochester had directed should be used as the schoolroom.
+Most of the books were locked up behind glass doors; but there was one
+bookcase left open containing everything that could be needed in the
+way of elementary works, and several volumes of light literature,
+poetry, [[Biography|biography]], travels, a few romances, &c. I suppose he had
+considered that these were all the governess would require for her
+private perusal; and, indeed, they contented me amply for the present;
+compared with the scanty pickings I had now and then been able to glean
+at Lowood, they seemed to offer an abundant harvest of entertainment
+and information. In this room, too, there was a cabinet piano, quite
+new and of superior tone; also an easel for painting and a pair of
+globes.
 
 I found my pupil sufficiently docile, though disinclined to apply: she
 had not been used to regular occupation of any kind. I felt it would be
@@ -123,11 +137,3 @@ old English hangings crusted with thick work, portraying effigies of
 strange [[Flowers|flowers]], and stranger [[Birds|birds]], and strangest human beings,—all
 which would have looked strange, indeed, by the pallid gleam of
 moonlight.
-
-“Do the servants [[Sleep|sleep]] in these rooms?” I asked.
-
-“No; they occupy a range of smaller apartments to the back; no one ever
-sleeps here: one would almost say that, if there were a [[Ghost|ghost]] at
-Thornfield Hall, this would be its haunt.”
-
-“So I think: you have no [[Ghost|ghost]], then?”

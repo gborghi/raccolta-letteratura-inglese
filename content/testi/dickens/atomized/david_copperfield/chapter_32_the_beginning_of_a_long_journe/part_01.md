@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 32: THE BEGINNING OF A LONG [[Journey|JOURNEY]] (part 1)"
+title: "David Copperfield — Chapter 32: THE BEGINNING OF A LONG [[Journey|JOURNEY (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -126,16 +126,3 @@ his thoughts were so bent, he replied:
 
 ‘On what’s afore me, Mas’r Davy; and over yon.’ ‘On the life before you,
 do you mean?’ He had pointed confusedly out to sea.
-
-‘Ay, Mas’r Davy. I doen’t rightly know how ‘tis, but from over yon there
-seemed to me to come--the end of it like,’ looking at me as if he were
-waking, but with the same determined face.
-
-‘What end?’ I asked, possessed by my former [[Fear|fear]].
-
-‘I doen’t know,’ he said, thoughtfully; ‘I was calling to mind that the
-beginning of it all did take place here--and then the end come. But it’s
-gone! Mas’r Davy,’ he added; answering, as I think, my look; ‘you han’t
-no call to be afeerd of me: but I’m kiender muddled; I don’t fare to
-feel no matters,’--which was as much as to say that he was not himself,
-and quite confounded.

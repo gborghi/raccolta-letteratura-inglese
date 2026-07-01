@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 36 (part 2)"
+title: "Sense and Sensibility — Chapter 36 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_36/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_36/part_03">part 03 ›</a></div>
 </nav>
 
+
+wrong, they feel injured by the expectation of any thing better from
+
+them.
+
+
+
+Marianne had now been brought by degrees, so much into the habit of
 
 going out every day, that it was become a matter of indifference to
 
@@ -207,9 +215,3 @@ myself, within a short distance of [[London]], where I might drive myself
 down at any [[Time|time]], and collect a few friends about me, and be happy. I
 
 advise every [[Body|body]] who is going to build, to build a cottage. My friend
-
-Lord Courtland came to me the other day on purpose to ask my advice,
-
-and laid before me three different plans of Bonomi’s. I was to decide
-
-on the best of them. ‘My dear Courtland,’ said I, immediately throwing

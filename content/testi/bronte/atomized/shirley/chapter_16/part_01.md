@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 16 (part 1)"
+title: "Shirley — Chapter 16 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -211,9 +211,3 @@ understood, were not spread for the twelve hundred scholars to be
 assembled from the three parishes, but only for the patrons and teachers
 
 of the schools. The children's feast was to be spread in the open air.
-
-At one o'[[Clock|clock]] the troops were to come in; at two they were to be
-
-marshalled; till four they were to parade the parish; then came the
-
-feast, and afterwards the meeting, with music and speechifying in the

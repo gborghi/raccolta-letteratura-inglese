@@ -1,5 +1,5 @@
 ---
-title: "As You Like It — Act III, Scene 2 — exchange ([[Touchstone|TOUCHSTONE]]) [2]"
+title: "As You Like It — Act III, Scene 2 — exchange (TOUCHSTONE) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/as-you-like-it-(shakespeare)"

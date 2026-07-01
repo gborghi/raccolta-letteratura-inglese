@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 36 (part 3)"
+title: "Shirley — Chapter 36 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_36/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_36/part_04">part 04 ›</a></div>
 </nav>
 
+
+and she shall fill my arms.'
+
+
+
+"She could not hear me speak so unmoved, and she _was_ moved. It was
+
+right--I meant to move her. She could not answer me, nor could she look
+
+at me. I should have been sorry if she could have done either. Her cheek
+
+glowed as if a crimson flower through whose petals the sun shone had
+
+cast its light upon it. On the white lid and dark lashes of her downcast
+
+eye trembled all that is graceful in the sense of half-painful,
 
 half-pleasing shame.
 
@@ -253,53 +269,3 @@ smile.
 
 
 "'Take a wife that has paid you [[Court|court]] to save your modesty, and thrust
-
-herself upon you to spare your scruples.'
-
-
-
-"'Only show me where.'
-
-
-
-"'Any stout widow that has had a few husbands already, and can manage
-
-these things.'
-
-
-
-"'She must not be rich, then. Oh these riches!'
-
-
-
-"'Never would you have gathered the produce of the gold-bearing [[Garden|garden]].
-
-You have not [[Courage|courage]] to confront the sleepless dragon; you have not
-
-craft to borrow the aid of Atlas.'
-
-
-
-"'You look hot and haughty.'
-
-
-
-"'And you far haughtier. Yours is the monstrous [[Pride|pride]] which counterfeits
-
-[[Humility|humility]].'
-
-
-
-"'I am a dependant; I know my place.'
-
-
-
-"'I am a woman; I know mine.'
-
-
-
-"'I am poor; I must be proud.'
-
-
-
-"'I have received ordinances, and own obligations stringent as yours.'

@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 44"
+title: "The Tenant of Wildfell Hall — Chapter 44"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -100,7 +100,7 @@ I had been constrained to borrow of Rachel, for want of such an article
 
 myself. It was not in the newest fashion, of course; but none the worse
 
-for that, under present circumstances. [[arthur|Arthur]] was clad in his plainest
+for that, under present circumstances. [[Arthur]] was clad in his plainest
 
 clothes, and wrapped in a coarse woollen shawl; and Rachel was muffled
 
@@ -150,7 +150,7 @@ was in bed. And a dreary ride we had of it, that last stage of the
 
 to cling to, nothing to lean against, slowly dragged and cruelly shaken
 
-over the rough, hilly roads. But [[arthur|Arthur]] was asleep in Rachel’s lap, and
+over the rough, hilly roads. But [[Arthur]] was asleep in Rachel’s lap, and
 
 between us we managed pretty [[Well|well]] to shield him from the cold [[Night|night]]
 
@@ -164,7 +164,7 @@ spite of the darkness, Rachel said she remembered [[Well|well]]: she had often
 
 walked there with me in her arms, and little thought to come again so
 
-many years after, under such circumstances as the present. [[arthur|Arthur]] being
+many years after, under such circumstances as the present. [[Arthur]] being
 
 now awakened by the jolting and the stoppages, we all got out and
 
@@ -220,7 +220,7 @@ now, in all haste, transported back again.
 
 
 
-The old woman brought my supper and [[arthur|Arthur]]’s into the parlour, and told
+The old woman brought my supper and [[Arthur]]’s into the parlour, and told
 
 me, with all due formality, that “the master desired his compliments to
 
@@ -234,7 +234,7 @@ her to-morrow, to receive her further commands.”
 
 I was glad to ascend the stern-looking stone staircase, and lie down in
 
-the gloomy, old-fashioned bed, beside my little [[arthur|Arthur]]. He was asleep
+the gloomy, old-fashioned bed, beside my little [[Arthur]]. He was asleep
 
 in a minute; but, weary as I was, my excited feelings and restless
 
@@ -242,7 +242,7 @@ cogitations kept me awake till [[Dawn|dawn]] began to struggle with the
 
 darkness; but [[Sleep|sleep]] was sweet and refreshing when it came, and the
 
-waking was delightful beyond expression. It was little [[arthur|Arthur]] that
+waking was delightful beyond expression. It was little [[Arthur]] that
 
 roused me, with his gentle kisses. He was here, then, safely clasped in
 
@@ -478,7 +478,7 @@ ears of some one who will carry it to the Lord of Grassdale Manor.
 
 I shall be expected to return their calls, but if, upon inquiry, I find
 
-that any of them live too far away for [[arthur|Arthur]] to accompany me, they
+that any of them live too far away for [[Arthur]] to accompany me, they
 
 must expect in vain for a while, for I cannot bear to leave him, unless
 

@@ -133,7 +133,7 @@ three temporary, we might say desperate, compromises of his own day.
 He grasped at Evolution, not because it was definite, but because it
 was indefinite; not because it was daring, but because it was safe.
 It gave him the [[Hope|hope]] that man might one day be an angel, and England
-a free [[Democracy|democracy]]; but it soothed him with the assurance that neither
+a free [[democracy]]; but it soothed him with the assurance that neither
 of these alarming things would happen just yet.  Virgil used his verbal
 felicities to describe the eternal idea of the Roman Imperium.
 Tennyson used his verbal felicities for the accidental equilibrium

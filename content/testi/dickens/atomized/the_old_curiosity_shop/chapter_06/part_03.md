@@ -14,6 +14,15 @@ tags:
 </nav>
 
 
+‘To be so thoughtful and dejected, and to forget our old way of
+spending the [[Time|time]] in the long evenings,’ said the [[Child|child]]. ‘I used to
+read to him by the fireside, and he sat listening, and when I stopped
+and we began to talk, he told me about my mother, and how she once
+looked and spoke just like me when she was a little [[Child|child]]. Then he used
+to take me on his knee, and try to make me understand that she was not
+lying in her [[Grave|grave]], but had flown to a beautiful country beyond the sky
+where nothing died or ever grew old--we were very happy once!’
+
 ‘Nelly, Nelly!’ said the poor woman, ‘I can’t bear to see one as young
 as you so sorrowful. Pray don’t cry.’
 

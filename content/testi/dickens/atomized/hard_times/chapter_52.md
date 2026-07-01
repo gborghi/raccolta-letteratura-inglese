@@ -1,5 +1,5 @@
 ---
-title: "Hard Times — Chapter 14"
+title: "Hard Times — Chapter 15"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/hard-times-(dickens)"
@@ -14,219 +14,317 @@ tags:
 </nav>
 
 
-CHAPTER XIV
-THE GREAT MANUFACTURER
+CHAPTER XV
+FATHER AND DAUGHTER
 
 
-[[Time|TIME]] went on in Coketown like its own machinery: so much material wrought
-up, so much fuel consumed, so many powers worn out, so much money made.
-But, less inexorable than iron, steel, and brass, it brought its varying
-[[Seasons|seasons]] even into that wilderness of smoke and brick, and made the only
-stand that ever _was_ made in the place against its direful uniformity.
+ALTHOUGH Mr. Gradgrind did not take after Blue Beard, his room was quite
+a blue chamber in its abundance of blue books.  Whatever they could prove
+(which is usually anything you like), they proved there, in an army
+constantly strengthening by the arrival of new recruits.  In that charmed
+apartment, the most complicated social questions were cast up, got into
+exact totals, and finally settled—if those concerned could only have been
+brought to know it.  As if an astronomical observatory should be made
+without any windows, and the astronomer within should arrange the starry
+universe solely by pen, ink, and paper, so Mr. Gradgrind, in _his_
+Observatory (and there are many like it), had no need to cast an eye upon
+the teeming myriads of human beings around him, but could settle all
+their destinies on a slate, and wipe out all their [[Tears|tears]] with one dirty
+little bit of sponge.
 
-‘Louisa is becoming,’ said Mr. Gradgrind, ‘almost a young woman.’
+To this Observatory, then: a stern room, with a deadly statistical [[Clock|clock]]
+in it, which measured every second with a beat like a rap upon a
+coffin-lid; Louisa repaired on the appointed morning.  A [[Window|window]] looked
+towards Coketown; and when she sat down near her father’s table, she saw
+the high chimneys and the long tracts of smoke looming in the heavy
+distance gloomily.
 
-[[Time]], with his innumerable [[Horse|horse]]-power, worked away, not minding what
-anybody said, and presently turned out young Thomas a foot taller than
-when his father had last taken particular notice of him.
+‘My dear Louisa,’ said her father, ‘I prepared you last [[Night|night]] to give me
+your serious attention in the conversation we are now going to have
+together.  You have been so [[Well|well]] trained, and you do, I am happy to say,
+so much justice to the [[Education|education]] you have received, that I have perfect
+confidence in your good sense.  You are not impulsive, you are not
+romantic, you are accustomed to view everything from the strong
+dispassionate ground of reason and calculation.  From that ground [[Alone|alone]],
+I know you will view and consider what I am going to communicate.’
 
-‘Thomas is becoming,’ said Mr. Gradgrind, ‘almost a young man.’
+He waited, as if he would have been glad that she said something.  But
+she said never a word.
 
-[[Time]] passed Thomas on in the mill, while his father was thinking about
-it, and there he stood in a long-tailed coat and a stiff shirt-collar.
+‘Louisa, my dear, you are the subject of a proposal of [[Marriage|marriage]] that has
+been made to me.’
 
-‘Really,’ said Mr. Gradgrind, ‘the period has arrived when Thomas ought
-to go to Bounderby.’
+Again he waited, and again she answered not one word.  This so far
+surprised him, as to induce him gently to repeat, ‘a proposal of
+[[Marriage|marriage]], my dear.’  To which she returned, without any visible emotion
+whatever:
 
-[[Time]], sticking to him, passed him on into Bounderby’s Bank, made him an
-inmate of Bounderby’s [[house]], necessitated the purchase of his first
-razor, and exercised him diligently in his calculations relative to
-number one.
+‘I hear you, father.  I am attending, I assure you.’
 
-The same great manufacturer, always with an immense variety of work on
-hand, in every stage of development, passed Sissy onward in his mill, and
-worked her up into a very pretty article indeed.
+‘[[Well]]!’ said Mr. Gradgrind, breaking into a smile, after being for the
+moment at a loss, ‘you are even more dispassionate than I expected,
+Louisa.  Or, perhaps, you are not unprepared for the announcement I have
+it in charge to make?’
 
-‘I [[Fear|fear]], Jupe,’ said Mr. Gradgrind, ‘that your continuance at the school
-any longer would be useless.’
+‘I cannot say that, father, until I hear it.  Prepared or unprepared, I
+wish to hear it all from you.  I wish to hear you state it to me,
+father.’
 
-‘I am afraid it would, sir,’ Sissy answered with a curtsey.
+Strange to relate, Mr. Gradgrind was not so collected at this moment as
+his daughter was.  He took a paper-knife in his hand, turned it over,
+laid it down, took it up again, and even then had to look along the blade
+of it, considering how to go on.
 
-‘I cannot disguise from you, Jupe,’ said Mr. Gradgrind, knitting his
-brow, ‘that the result of your probation there has disappointed me; has
-greatly disappointed me.  You have not acquired, under Mr. and Mrs.
-M’Choakumchild, anything like that amount of exact knowledge which I
-looked for.  You are extremely deficient in your facts.  Your
-acquaintance with figures is very limited.  You are altogether backward,
-and below the mark.’
+‘What you say, my dear Louisa, is perfectly reasonable.  I have
+undertaken then to let you know that—in short, that Mr. Bounderby has
+informed me that he has long watched your progress with particular
+interest and pleasure, and has long hoped that the [[Time|time]] might ultimately
+arrive when he should offer you his hand in [[Marriage|marriage]].  That [[Time|time]], to
+which he has so long, and certainly with great constancy, looked forward,
+is now come.  Mr. Bounderby has made his proposal of [[Marriage|marriage]] to me, and
+has entreated me to make it known to you, and to express his [[Hope|hope]] that
+you will take it into your favourable consideration.’
 
-‘I am sorry, sir,’ she returned; ‘but I know it is quite true.  Yet I
-have tried hard, sir.’
+[[Silence]] between them.  The deadly statistical [[Clock|clock]] very hollow.  The
+distant smoke very black and heavy.
 
-‘Yes,’ said Mr. Gradgrind, ‘yes, I believe you have tried hard; I have
-observed you, and I can find no fault in that respect.’
+‘Father,’ said Louisa, ‘do you think I [[Love|love]] Mr. Bounderby?’
 
-‘Thank you, sir.  I have thought sometimes;’ Sissy very timid here; ‘that
-perhaps I tried to learn too much, and that if I had asked to be allowed
-to try a little less, I might have—’
+Mr. Gradgrind was extremely discomfited by this unexpected question.
+‘[[Well]], my [[Child|child]],’ he returned, ‘I—really—cannot take upon myself to say.’
 
-‘No, Jupe, no,’ said Mr. Gradgrind, shaking his head in his profoundest
-and most eminently practical way.  ‘No.  The course you pursued, you
-pursued according to the system—the system—and there is no more to be
-said about it.  I can only suppose that the circumstances of your early
-life were too unfavourable to the development of your reasoning powers,
-and that we began too late.  Still, as I have said already, I am
-disappointed.’
+‘Father,’ pursued Louisa in exactly the same voice as before, ‘do you ask
+me to [[Love|love]] Mr. Bounderby?’
 
-‘I wish I could have made a better acknowledgment, sir, of your kindness
-to a poor forlorn girl who had no claim upon you, and of your protection
-of her.’
+‘My dear Louisa, no.  No.  I ask nothing.’
 
-‘Don’t shed [[Tears|tears]],’ said Mr. Gradgrind.  ‘Don’t shed [[Tears|tears]].  I don’t
-complain of you.  You are an affectionate, earnest, good young
-woman—and—and we must make that do.’
+‘Father,’ she still pursued, ‘does Mr. Bounderby ask me to [[Love|love]] him?’
 
-‘Thank you, sir, very much,’ said Sissy, with a grateful curtsey.
+‘Really, my dear,’ said Mr. Gradgrind, ‘it is difficult to answer your
+question—’
 
-‘You are useful to Mrs. Gradgrind, and (in a generally pervading way) you
-are serviceable in the family also; so I understand from Miss Louisa,
-and, indeed, so I have observed myself.  I therefore [[Hope|hope]],’ said Mr.
-Gradgrind, ‘that you can make yourself happy in those relations.’
+‘Difficult to answer it, Yes or No, father?
 
-‘I should have nothing to wish, sir, if—’
+‘Certainly, my dear.  Because;’ here was something to demonstrate, and it
+set him up again; ‘because the reply depends so materially, Louisa, on
+the sense in which we use the expression.  Now, Mr. Bounderby does not do
+you the injustice, and does not do himself the injustice, of pretending
+to anything fanciful, fantastic, or (I am using synonymous terms)
+sentimental.  Mr. Bounderby would have seen you grow up under his eyes,
+to very little purpose, if he could so far forget what is due to your
+good sense, not to say to his, as to address you from any such ground.
+Therefore, perhaps the expression itself—I merely suggest this to you, my
+dear—may be a little misplaced.’
 
-‘I understand you,’ said Mr. Gradgrind; ‘you still refer to your father.
-I have heard from Miss Louisa that you still preserve that bottle.  [[Well]]!
-If your training in the science of arriving at exact results had been
-more successful, you would have been wiser on these points.  I will say
-no more.’
+‘What would you advise me to use in its stead, father?’
 
-He really liked Sissy too [[Well|well]] to have a contempt for her; otherwise he
-held her calculating powers in such very slight estimation that he must
-have fallen upon that conclusion.  Somehow or other, he had become
-possessed by an idea that there was something in this girl which could
-hardly be set forth in a tabular form.  Her capacity of definition might
-be easily stated at a very low figure, her mathematical knowledge at
-nothing; yet he was not sure that if he had been required, for example,
-to tick her off into columns in a parliamentary return, he would have
-quite known how to divide her.
+‘Why, my dear Louisa,’ said Mr. Gradgrind, completely recovered by this
+[[Time|time]], ‘I would advise you (since you ask me) to consider this question,
+as you have been accustomed to consider every other question, simply as
+one of tangible Fact.  The ignorant and the giddy may embarrass such
+subjects with irrelevant fancies, and other absurdities that have no
+existence, properly viewed—really no existence—but it is no compliment to
+you to say, that you know better.  Now, what are the Facts of this case?
+You are, we will say in round numbers, twenty years of age; Mr. Bounderby
+is, we will say in round numbers, fifty.  There is some disparity in your
+respective years, but in your means and positions there is none; on the
+contrary, there is a great suitability.  Then the question arises, Is
+this one disparity sufficient to operate as a bar to such a [[Marriage|marriage]]?  In
+considering this question, it is not unimportant to take into account the
+statistics of [[Marriage|marriage]], so far as they have yet been obtained, in England
+and Wales.  I find, on reference to the figures, that a large proportion
+of these marriages are contracted between parties of very unequal ages,
+and that the elder of these contracting parties is, in rather more than
+three-fourths of these instances, the bridegroom.  It is remarkable as
+showing the wide prevalence of this law, that among the natives of the
+British possessions in India, also in a considerable part of China, and
+among the Calmucks of Tartary, the best means of computation yet
+furnished us by travellers, yield similar results.  The disparity I have
+mentioned, therefore, almost ceases to be disparity, and (virtually) all
+but disappears.’
 
-In some stages of his manufacture of the human fabric, the processes of
-[[Time]] are very rapid.  Young Thomas and Sissy being both at such a stage
-of their working up, these changes were effected in a year or two; while
-Mr. Gradgrind himself seemed stationary in his course, and underwent no
-alteration.
+‘What do you recommend, father,’ asked Louisa, her reserved composure not
+in the least affected by these gratifying results, ‘that I should
+substitute for the term I used just now?  For the misplaced expression?’
 
-Except one, which was apart from his necessary progress through the mill.
-[[Time]] hustled him into a little noisy and rather dirty machinery, in a
-by-comer, and made him Member of Parliament for Coketown: one of the
-respected members for ounce weights and measures, one of the
-representatives of the multiplication table, one of the deaf honourable
-gentlemen, dumb honourable gentlemen, blind honourable gentlemen, lame
-honourable gentlemen, dead honourable gentlemen, to every other
-consideration.  Else wherefore live we in a Christian land, eighteen
-hundred and odd years after our Master?
+‘Louisa,’ returned her father, ‘it appears to me that nothing can be
+plainer.  Confining yourself rigidly to Fact, the question of Fact you
+state to yourself is: Does Mr. Bounderby ask me to marry him?  Yes, he
+does.  The sole remaining question then is: Shall I marry him?  I think
+nothing can be plainer than that?’
 
-All this while, Louisa had been passing on, so quiet and reserved, and so
-much given to watching the bright ashes at twilight as they fell into the
-grate, and became extinct, that from the period when her father had said
-she was almost a young woman—which seemed but yesterday—she had scarcely
-attracted his notice again, when he found her quite a young woman.
+‘Shall I marry him?’ repeated Louisa, with great deliberation.
 
-‘Quite a young woman,’ said Mr. Gradgrind, musing.  ‘Dear me!’
+‘Precisely.  And it is satisfactory to me, as your father, my dear
+Louisa, to know that you do not come to the consideration of that
+question with the previous habits of mind, and habits of life, that
+belong to many young women.’
 
-Soon after this discovery, he became more thoughtful than usual for
-several days, and seemed much engrossed by one subject.  On a certain
-[[Night|night]], when he was going out, and Louisa came to bid him good-bye before
-his departure—as he was not to be [[Home|home]] until late and she would not see
-him again until the morning—he held her in his arms, looking at her in
-his kindest manner, and said:
+‘No, father,’ she returned, ‘I do not.’
 
-‘My dear Louisa, you are a woman!’
+‘I now leave you to judge for yourself,’ said Mr. Gradgrind.  ‘I have
+stated the case, as such cases are usually stated among practical minds;
+I have stated it, as the case of your mother and myself was stated in its
+[[Time|time]].  The rest, my dear Louisa, is for you to decide.’
 
-She answered with the old, quick, searching look of the [[Night|night]] when she
-was found at the Circus; then cast down her eyes.  ‘Yes, father.’
+From the beginning, she had sat looking at him fixedly.  As he now leaned
+back in his chair, and bent his deep-set eyes upon her in his turn,
+perhaps he might have seen one wavering moment in her, when she was
+impelled to throw herself upon his breast, and give him the pent-up
+confidences of her heart.  But, to see it, he must have overleaped at a
+bound the artificial barriers he had for many years been erecting,
+between himself and all those subtle essences of humanity which will
+elude the utmost cunning of algebra until the last trumpet ever to be
+sounded shall blow even algebra to wreck.  The barriers were too many and
+too high for such a leap.  With his unbending, utilitarian,
+matter-of-fact face, he hardened her again; and the moment shot away into
+the plumbless depths of the past, to mingle with all the lost
+opportunities that are drowned there.
 
-‘My dear,’ said Mr. Gradgrind, ‘I must speak with you [[Alone|alone]] and
-seriously.  Come to me in my room after breakfast to-morrow, will you?’
+Removing her eyes from him, she sat so long looking silently towards the
+town, that he said, at length: ‘Are you consulting the chimneys of the
+Coketown works, Louisa?’
 
-‘Yes, father.’
+‘There seems to be nothing there but languid and monotonous smoke.  Yet
+when the [[Night|night]] comes, [[Fire]] bursts out, father!’ she answered, turning
+quickly.
 
-‘Your hands are rather cold, Louisa.  Are you not [[Well|well]]?’
+‘Of course I know that, Louisa.  I do not see the application of the
+remark.’  To do him justice he did not, at all.
 
-‘Quite [[Well|well]], father.’
+She passed it away with a slight motion of her hand, and concentrating
+her attention upon him again, said, ‘Father, I have often thought that
+life is very short.’—This was so distinctly one of his subjects that he
+interposed.
 
-‘And cheerful?’
+‘It is short, no [[Doubt|doubt]], my dear.  Still, the average duration of human
+life is proved to have increased of late years.  The calculations of
+various life assurance and annuity offices, among other figures which
+cannot go wrong, have established the fact.’
 
-She looked at him again, and smiled in her peculiar manner.  ‘I am as
-cheerful, father, as I usually am, or usually have been.’
+‘I speak of my own life, father.’
 
-‘That’s [[Well|well]],’ said Mr. Gradgrind.  So, he kissed her and went away; and
-Louisa returned to the serene apartment of the hair-cutting character,
-and leaning her elbow on her hand, looked again at the short-lived sparks
-that so soon subsided into ashes.
+‘O indeed?  Still,’ said Mr. Gradgrind, ‘I need not point out to you,
+Louisa, that it is governed by the laws which govern lives in the
+aggregate.’
 
-‘Are you there, Loo?’ said her brother, looking in at the door.  He was
-quite a young gentleman of pleasure now, and not quite a prepossessing
-one.
+‘While it lasts, I would wish to do the little I can, and the little I am
+fit for.  What does it matter?’
 
-‘Dear Tom,’ she answered, rising and embracing him, ‘how long it is since
-you have been to see me!’
+Mr. Gradgrind seemed rather at a loss to understand the last four words;
+replying, ‘How, matter?  What matter, my dear?’
 
-‘Why, I have been otherwise engaged, Loo, in the evenings; and in the
-daytime old Bounderby has been keeping me at it rather.  But I touch him
-up with you when he comes it too strong, and so we preserve an
-understanding.  I say!  Has father said anything particular to you to-day
-or yesterday, Loo?’
+‘Mr. Bounderby,’ she went on in a steady, straight way, without regarding
+this, ‘asks me to marry him.  The question I have to ask myself is, shall
+I marry him?  That is so, father, is it not?  You have told me so,
+father.  Have you not?’
 
-‘No, Tom.  But he told me to-[[Night|night]] that he wished to do so in the
-morning.’
+‘Certainly, my dear.’
 
-‘Ah!  That’s what I mean,’ said Tom.  ‘Do you know where he is
-to-[[Night|night]]?’—with a very deep expression.
+‘Let it be so.  Since Mr. Bounderby likes to take me thus, I am satisfied
+to accept his proposal.  Tell him, father, as soon as you please, that
+this was my answer.  Repeat it, word for word, if you can, because I
+should wish him to know what I said.’
 
-‘No.’
+‘It is quite right, my dear,’ retorted her father approvingly, ‘to be
+exact.  I will observe your very proper request.  Have you any wish in
+reference to the period of your [[Marriage|marriage]], my [[Child|child]]?’
 
-‘Then I’ll tell you.  He’s with old Bounderby.  They are having a regular
-confab together up at the Bank.  Why at the Bank, do you think?  [[Well]],
-I’ll tell you again.  To keep Mrs. Sparsit’s ears as far off as possible,
-I expect.’
+‘None, father.  What does it matter!’
 
-With her hand upon her brother’s shoulder, Louisa still stood looking at
-the [[Fire|fire]].  Her brother glanced at her face with greater interest than
-usual, and, encircling her waist with his arm, drew her coaxingly to him.
+Mr. Gradgrind had drawn his chair a little nearer to her, and taken her
+hand.  But, her repetition of these words seemed to strike with some
+little discord on his ear.  He paused to look at her, and, still holding
+her hand, said:
 
-‘You are very fond of me, an’t you, Loo?’
+‘Louisa, I have not considered it essential to ask you one question,
+because the possibility implied in it appeared to me to be too remote.
+But perhaps I ought to do so.  You have never entertained in secret any
+other proposal?’
 
-‘Indeed I am, Tom, though you do let such long intervals go by without
-coming to see me.’
+‘Father,’ she returned, almost scornfully, ‘what other proposal can have
+been made to _me_?  Whom have I seen?  Where have I been?  What are my
+heart’s experiences?’
 
-‘[[Well]], sister of mine,’ said Tom, ‘when you say that, you are near my
-thoughts.  We might be so much oftener together—mightn’t we?  Always
-together, almost—mightn’t we?  It would do me a great deal of good if you
-were to make up your mind to I know what, Loo.  It would be a splendid
-thing for me.  It would be uncommonly jolly!’
+‘My dear Louisa,’ returned Mr. Gradgrind, reassured and satisfied.  ‘You
+correct me justly.  I merely wished to discharge my duty.’
 
-Her thoughtfulness baffled his cunning scrutiny.  He could make nothing
-of her face.  He pressed her in his arm, and kissed her cheek.  She
-returned the kiss, but still looked at the [[Fire|fire]].
+‘What do _I_ know, father,’ said Louisa in her quiet manner, ‘of tastes
+and fancies; of aspirations and affections; of all that part of my [[Nature|nature]]
+in which such light things might have been nourished?  What escape have I
+had from problems that could be demonstrated, and realities that could be
+grasped?’  As she said it, she unconsciously closed her hand, as if upon
+a solid object, and slowly opened it as though she were releasing [[Dust|dust]] or
+ash.
 
-‘I say, Loo!  I thought I’d come, and just hint to you what was going on:
-though I supposed you’d most likely guess, even if you didn’t know.  I
-can’t stay, because I’m engaged to some fellows to-[[Night|night]].  You won’t
-forget how fond you are of me?’
+‘My dear,’ assented her eminently practical parent, ‘quite true, quite
+true.’
 
-‘No, dear Tom, I won’t forget.’
+‘Why, father,’ she pursued, ‘what a strange question to ask _me_!  The
+baby-preference that even I have heard of as common among children, has
+never had its [[Innocent|innocent]] resting-place in my breast.  You have been so
+careful of me, that I never had a [[Child|child]]’s heart.  You have trained me so
+[[Well|well]], that I never dreamed a [[Child|child]]’s dream.  You have dealt so wisely
+with me, father, from my cradle to this hour, that I never had a [[Child|child]]’s
+belief or a [[Child|child]]’s [[Fear|fear]].’
 
-‘That’s a capital girl,’ said Tom.  ‘Good-bye, Loo.’
+Mr. Gradgrind was quite moved by his [[success]], and by this testimony to
+it.  ‘My dear Louisa,’ said he, ‘you abundantly repay my care.  Kiss me,
+my dear girl.’
 
-She gave him an affectionate good-[[Night|night]], and went out with him to the
-door, whence the fires of Coketown could be seen, making the distance
-lurid.  She stood there, looking steadfastly towards them, and listening
-to his departing steps.  They retreated quickly, as glad to get away from
-Stone Lodge; and she stood there yet, when he was gone and all was quiet.
-It seemed as if, first in her own [[Fire|fire]] within the [[house]], and then in the
-fiery haze without, she tried to discover what kind of woof Old [[Time]],
-that greatest and longest-established Spinner of all, would weave from
-the threads he had already spun into a woman.  But his factory is a
-secret place, his work is noiseless, and his Hands are mutes.
+So, his daughter kissed him.  Detaining her in his embrace, he said, ‘I
+may assure you now, my favourite [[Child|child]], that I am made happy by the sound
+decision at which you have arrived.  Mr. Bounderby is a very remarkable
+man; and what little disparity can be said to exist between you—if any—is
+more than counterbalanced by the tone your mind has acquired.  It has
+always been my object so to educate you, as that you might, while still
+in your early youth, be (if I may so express myself) almost any age.
+Kiss me once more, Louisa.  Now, let us go and find your mother.’
+
+Accordingly, they went down to the drawing-room, where the esteemed lady
+with no nonsense about her, was recumbent as usual, while Sissy worked
+beside her.  She gave some feeble signs of returning animation when they
+entered, and presently the faint transparency was presented in a sitting
+attitude.
+
+‘Mrs. Gradgrind,’ said her husband, who had waited for the achievement of
+this feat with some impatience, ‘allow me to present to you Mrs.
+Bounderby.’
+
+‘Oh!’ said Mrs. Gradgrind, ‘so you have settled it!  [[Well]], I’m sure I
+[[Hope|hope]] your health may be good, Louisa; for if your head begins to split as
+soon as you are married, which was the case with mine, I cannot consider
+that you are to be envied, though I have no [[Doubt|doubt]] you think you are, as
+all girls do.  However, I give you joy, my dear—and I [[Hope|hope]] you may now
+turn all your ological studies to good account, I am sure I do!  I must
+give you a kiss of congratulation, Louisa; but don’t touch my right
+shoulder, for there’s something running down it all day long.  And now
+you see,’ whimpered Mrs. Gradgrind, adjusting her shawls after the
+affectionate ceremony, ‘I shall be worrying myself, morning, [[Noon|noon]], and
+[[Night|night]], to know what I am to call him!’
+
+‘Mrs. Gradgrind,’ said her husband, solemnly, ‘what do you mean?’
+
+‘Whatever I am to call him, Mr. Gradgrind, when he is married to Louisa!
+I must call him something.  It’s impossible,’ said Mrs. Gradgrind, with a
+mingled sense of politeness and injury, ‘to be constantly addressing him
+and never giving him a name.  I cannot call him Josiah, for the name is
+insupportable to me.  You yourself wouldn’t hear of Joe, you very [[Well|well]]
+know.  Am I to call my own son-in-law, Mister!  Not, I believe, unless
+the [[Time|time]] has arrived when, as an invalid, I am to be trampled upon by my
+relations.  Then, what am I to call him!’
+
+Nobody present having any suggestion to offer in the remarkable
+emergency, Mrs. Gradgrind departed this life for the [[Time|time]] being, after
+delivering the following codicil to her remarks already executed:
+
+‘As to the wedding, all I ask, Louisa, is,—and I ask it with a fluttering
+in my chest, which actually extends to the soles of my feet,—that it may
+take place soon.  Otherwise, I know it is one of those subjects I shall
+never hear the last of.’
+
+When Mr. Gradgrind had presented Mrs. Bounderby, Sissy had suddenly
+turned her head, and looked, in [[Wonder|wonder]], in pity, in sorrow, in [[Doubt|doubt]], in
+a multitude of emotions, towards Louisa.  Louisa had known it, and seen
+it, without looking at her.  From that moment she was impassive, proud
+and cold—held Sissy at a distance—changed to her altogether.

@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 34 (part 4)"
+title: "Nicholas Nickleby — Chapter 34 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_34/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_34/part_05">part 05 ›</a></div>
 </nav>
 
+
+‘No,’ replied Ralph, with equal abruptness.
+
+Newman withdrew his head, but thrust it in again.
+
+‘You’re quite sure you’re not at [[Home|home]], are you?’ said Newman.
 
 ‘What does the idiot mean?’ cried Ralph, testily.
 
@@ -138,5 +144,3 @@ they’d got it, and he took it, and then we put the four others to [[Sleep|slee
 with him, and THEY took it, and then the doctor came and attended ‘em
 once all round, and we divided my total among ‘em, and added it on to
 their little bills, and the parents paid it. Ha! ha! ha!’
-
-‘And a good plan too,’ said Ralph, eyeing the schoolmaster stealthily.

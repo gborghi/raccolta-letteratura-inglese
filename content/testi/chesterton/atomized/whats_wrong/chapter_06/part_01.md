@@ -1,5 +1,5 @@
 ---
-title: "whats wrong — Part 1 (part 1)"
+title: "whats wrong — Part 2 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/whats-wrong-(chesterton)"
@@ -10,121 +10,116 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/whats-wrong-(chesterton)">whats wrong</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/whats_wrong/chapter_10">‹ Chapter 10</a><a class="ex-next" href="/testi/chesterton/atomized/whats_wrong/chapter_06/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/whats_wrong/chapter_05/part_15">‹ part 15</a><a class="ex-next" href="/testi/chesterton/atomized/whats_wrong/chapter_06/part_02">part 02 ›</a></div>
 </nav>
 
 
-PART ONE
+PART TWO
 
-THE HOMELESSNESS OF MAN
+IMPERIALISM, OR THE MISTAKE ABOUT MAN
 
 * * *
 
-THE MEDICAL MISTAKE
+I
 
-A book of modern social inquiry has a shape that is somewhat
-sharply defined.  It begins as a rule with an analysis, with statistics,
-tables of population, decrease of crime among Congregationalists,
-growth of hysteria among policemen, and similar ascertained facts;
-it ends with a chapter that is generally called "The Remedy."  It is
-almost wholly due to this careful, solid, and scientific method
-that "The Remedy" is never found.  For this scheme of medical question
-and answer is a blunder; the first great blunder of sociology.
-It is always called stating the disease before we find the cure.
-But it is the whole definition and dignity of man that in social
-matters we must actually find the cure before we find the disease.
+THE CHARM OF JINGOISM
 
-The fallacy is one of the fifty fallacies that come from the modern
-[[Madness|madness]] for biological or bodily metaphors.  It is convenient
-to speak of the Social Organism, just as it is convenient to
-speak of the British [[Lion]].  But Britain is no more an organism
-than Britain is a [[Lion|lion]].  The moment we begin to give a nation
-the [[unity]] and simplicity of an animal, we begin to think wildly.
-Because every man is a biped, fifty men are not a centipede.
-This has produced, for instance, the gaping absurdity of
-perpetually talking about "young nations" and "dying nations,"
-as if a nation had a fixed and physical span of life.
-Thus people will say that Spain has entered a final senility;
-they might as [[Well|well]] say that Spain is losing all her teeth.
-Or people will say that Canada should soon produce a literature;
-which is like saying that Canada must soon grow a new moustache.
-Nations consist of people; the first generation may
-be decrepit, or the ten thousandth may be vigorous.
-Similar applications of the fallacy are made by those who see
-in the increasing size of national possessions, a simple
-increase in wisdom and stature, and in favor with God and man.
-These people, indeed, even fall short in subtlety of the parallel
-of a human [[Body|body]].  They do not even ask whether an empire is growing
-taller in its youth, or only growing fatter in its old age.
-But of all the instances of error arising from this
-physical fancy, the worst is that we have before us:
-the habit of exhaustively describing a social sickness,
-and then propounding a social drug.
+I have cast about widely to find a title for this section; and I confess
+that the word "Imperialism" is a clumsy version of my meaning.  But no
+other word came nearer; "Militarism" would have been even more misleading,
+and "The Superman" makes nonsense of any discussion that he enters.
+Perhaps, upon the whole, the word "Caesarism" would have been better;
+but I [[Desire|desire]] a popular word; and Imperialism (as the reader will perceive)
+does cover for the most part the men and theories that I mean to discuss.
 
-Now we do talk first about the disease in cases of bodily breakdown;
-and that for an excellent reason.  Because, though there may be [[Doubt|doubt]]
-about the way in which the [[Body|body]] broke down, there is no [[Doubt|doubt]] at all
-about the shape in which it should be built up again.  No doctor proposes
-to produce a new kind of man, with a new arrangement of eyes or limbs.
-The hospital, by necessity, may send a man [[Home|home]] with one leg less:
-but it will not (in a creative rapture) send him [[Home|home]] with one leg extra.
-Medical science is content with the normal human [[Body|body]], and only seeks
-to restore it.
+This small confusion is increased, however, by the fact that I
+do also disbelieve in Imperialism in its popular sense,
+as a mode or theory of the patriotic sentiment of this country.
+But popular Imperialism in England has very little to do
+with the sort of Caesarean Imperialism I wish to [[Sketch|sketch]].
+I differ from the Colonial idealism of Rhodes' and Kipling;
+but I do not think, as some of its opponents do, that it
+is an insolent creation of English harshness and rapacity.
+Imperialism, I think, is a fiction created, not by English hardness,
+but by English softness; nay, in a sense, even by English kindness.
 
-But social science is by no means always content with the normal
-human [[Soul|soul]]; it has all sorts of fancy souls for sale.  Man as a
-social idealist will say "I am tired of being a Puritan; I want
-to be a Pagan," or "Beyond this dark probation of [[Individualism]] I
-see the shining paradise of Collectivism."  Now in bodily ills
-there is none of this difference about the ultimate ideal.
-The patient may or may not want quinine; but he certainly
-wants health.  No one says "I am tired of this headache;
-I want some toothache," or "The only thing for this Russian
-influenza is a few German measles," or "Through this dark
-probation of catarrh I see the shining paradise of rheumatism."
-But exactly the whole difficulty in our public problems
-is that some men are aiming at cures which other men would
-regard as worse maladies; are offering ultimate conditions
-as states of health which others would uncompromisingly
-call states of disease.  Mr. Belloc once said that he would
-no more part with the idea of property than with his teeth;
-yet to Mr. Bernard [[Shaw]] property is not a tooth, but a toothache.
-Lord Milner has sincerely attempted to introduce German efficiency;
-and many of us would as soon welcome German measles.
-Dr. Saleeby would honestly like to have [[Eugenics]]; but I would
-rather have rheumatics.
+The reasons for believing in Australia are mostly as sentimental
+as the most sentimental reasons for believing in heaven.
+New South Wales is quite literally regarded as a place where the wicked
+cease from troubling and the weary are at rest; that is, a paradise
+for uncles who have turned dishonest and for nephews who are born tired.
+British Columbia is in strict sense a fairyland, it is a world where
+a [[Magic|magic]] and irrational luck is supposed to attend the youngest sons.
+This strange optimism about the ends of the earth is an English weakness;
+but to show that it is not a coldness or a harshness it is quite
+sufficient to say that no one shared it more than that gigantic
+English sentimentalist--the great Charles Dickens.  The end
+of "[[David Copperfield]]" is unreal not merely because it is an
+optimistic ending, but because it is an Imperialistic ending.
+The decorous British happiness planned out for [[David Copperfield]] and Agnes
+would be embarrassed by the perpetual presence of the hopeless [[Tragedy|tragedy]]
+of Emily, or the more hopeless farce of Micawber.  Therefore, both Emily
+and Micawber are shipped off to a vague colony where changes
+come over them with no conceivable cause, except the climate.
+The tragic woman becomes contented and the comic man becomes responsible,
+solely as the result of a sea voyage and the first sight of a kangaroo.
 
-This is the arresting and dominant fact about modern
-social discussion; that the quarrel is not merely about
-the difficulties, but about the aim.  We agree about the evil;
-it is about the good that we should tear each other's eyes out.
-We all admit that a lazy aristocracy is a bad thing.
-We should not by any means all admit that an active aristocracy would
-be a good thing.  We all feel angry with an irreligious priesthood;
-but some of us would go mad with disgust at a really religious one.
-Everyone is indignant if our army is weak, including the people
-who would be even more indignant if it were strong.
-The social case is exactly the opposite of the medical case.
-We do not disagree, like doctors, about the precise [[Nature|nature]]
-of the illness, while agreeing about the [[Nature|nature]] of health.
-On the contrary, we all agree that England is unhealthy, but half
-of us would not look at her in what the other half would call blooming
-health.  Public abuses are so prominent and pestilent that they
-sweep all generous people into a sort of fictitious unanimity.
-We forget that, while we agree about the abuses of things,
-we should differ very much about the uses of them.
-Mr. Cadbury and I would agree about the bad public [[house]].
-It would be precisely in front of the good public-[[house]] that our
-painful personal fracas would occur.
+To Imperialism in the light political sense, therefore, my only
+objection is that it is an illusion of comfort; that an Empire whose
+heart is failing should be specially proud of the extremities,
+is to me no more [[Sublime|sublime]] a fact than that an old dandy whose
+brain is gone should still be proud of his legs.  It consoles men
+for the evident ugliness and apathy of England with legends of fair
+youth and heroic strenuousness in distant continents and islands.
+A man can sit amid the squalor of Seven Dials and feel that
+life is [[Innocent|innocent]] and godlike in the bush or on the veldt.
+Just so a man might sit in the squalor of Seven Dials and feel that
+life was [[Innocent|innocent]] and godlike in Brixton and Surbiton.  Brixton and
+Surbiton are "new"; they are expanding; they are "nearer to [[Nature|nature]],"
+in the sense that they have eaten up [[Nature|nature]] mile by mile.
+The only objection is the objection of fact.  The young men of Brixton
+are not young giants.  The [[lovers]] of Surbiton are not all pagan poets,
+singing with the sweet energy of the [[spring]].  Nor are the people
+of the Colonies when you meet them young giants or pagan poets.
+They are mostly [[cockneys|Cockneys]] who have lost their last music of real things
+by getting out of the sound of Bow [[Bells]].  Mr. Rudyard Kipling,
+a man of real though decadent genius, threw a theoretic glamour
+over them which is already fading.  Mr. Kipling is, in a precise
+and rather startling sense, the exception that proves the rule.
+For he has [[Imagination|imagination]], of an oriental and cruel kind, but he has it,
+not because he grew up in a new country, but precisely because he grew
+up in the oldest country upon earth.  He is rooted in a past--
+an Asiatic past.  He might never have written "Kabul [[River]]"
+if he had been born in Melbourne.
 
-I maintain, therefore, that the common sociological method
-is quite useless:  that of first dissecting abject [[Poverty|poverty]]
-or cataloguing prostitution.  We all dislike abject [[Poverty|poverty]];
-but it might be another business if we began to discuss independent
-and dignified [[Poverty|poverty]].  We all disapprove of prostitution;
-but we do not all approve of purity.  The only way to discuss
-the social evil is to get at once to the social ideal.
-We can all see the national [[Madness|madness]]; but what is national [[Sanity|sanity]]?
-I have called this book "What Is Wrong with the World?"
-and the upshot of the title can be easily and clearly stated.
-What is wrong is that we do not ask what is right.
+I say frankly, therefore (lest there should be any air of evasion),
+that Imperialism in its common patriotic pretensions appears to me both
+weak and perilous.  It is the attempt of a European country to create
+a kind of sham Europe which it can dominate, instead of the real Europe,
+which it can only share.  It is a [[Love|love]] of living with one's inferiors.
+The notion of restoring the Roman Empire by oneself and for oneself
+is [[A Dream|a dream]] that has haunted every Christian nation in a different shape
+and in almost every shape as a snare.  The Spanish are a consistent
+and conservative people; therefore they embodied that attempt at Empire
+in long and lingering dynasties.  The French are a violent people,
+and therefore they twice conquered that Empire by violence of arms.
+The English are above all a poetical and optimistic people;
+and therefore their Empire is something vague and yet sympathetic,
+something distant and yet dear.  But this dream of theirs of being
+powerful in the uttermost places, though a native weakness, is still
+a weakness in them; much more of a weakness than gold was to Spain
+or glory to Napoleon.  If ever we were in collision with our real
+brothers and rivals we should leave all this fancy out of account.
+We should no more dream of pitting Australian armies against German than
+of pitting Tasmanian sculpture against French.  I have thus explained,
+lest anyone should accuse me of concealing an unpopular attitude,
+why I do not believe in Imperialism as commonly understood.
+I think it not merely an occasional wrong to other peoples,
+but a continuous feebleness, a running sore, in my own.
+But it is also true that I have dwelt on this Imperialism that is
+an amiable delusion partly in order to show how different it is from
+the deeper, more sinister and yet more persuasive thing that I have
+been forced to call Imperialism for the convenience of this chapter.
+In order to get to the root of this evil and quite un-English Imperialism
+we must cast back and begin anew with a more general discussion
+of the first needs of human intercourse.

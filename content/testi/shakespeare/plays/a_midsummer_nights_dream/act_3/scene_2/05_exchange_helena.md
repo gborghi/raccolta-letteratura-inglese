@@ -1,5 +1,5 @@
 ---
-title: "A Midsummer Nights Dream — Act III, Scene 2 — exchange ([[Helena|HELENA]]) [5]"
+title: "A Midsummer Nights Dream — Act III, Scene 2 — exchange (HELENA) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/a-midsummer-night’s-dream-(shakespeare)"

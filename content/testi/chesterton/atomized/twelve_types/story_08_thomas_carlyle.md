@@ -10,15 +10,11 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/twelve-types-(chesterton)">Twelve Types</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/twelve_types/story_07_charles_ii">‹ Story 07 CHARLES II</a><a class="ex-next" href="/testi/chesterton/atomized/twelve_types/story_09_tolstoy_and_the_cult_of_simplicity">Story 09 TOLSTOY AND THE CULT OF SIMPLICITY ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/twelve_types/story_07_charles_ii">‹ Story 07 CHARLES II</a><a class="ex-next" href="/testi/chesterton/atomized/twelve_types/story_09_tolstoy_tolstoy_and_the_cult_of_simplici">Story 09 tolstoy TOLSTOY AND THE CULT OF SIMPLICI ›</a></div>
 </nav>
 
 
 THOMAS CARLYLE
-
-
-
-
 
 There are two main moral necessities for the work of a great man: the
 
@@ -27,8 +23,6 @@ first is that he should believe in the [[Truth|truth]] of his message; the secon
 is that he should believe in the acceptability of his message. It was
 
 the whole [[Tragedy|tragedy]] of Carlyle that he had the first and not the second.
-
-
 
 The ordinary capital, however, which is made out of Carlyle's alleged
 
@@ -84,8 +78,6 @@ and without condescension. It was this simplicity of confidence, not
 
 only in God, but in the image of God, that was lacking in Carlyle.
 
-
-
 But the attempts to discredit Carlyle's religious sentiment must
 
 absolutely fall to the ground. The profound security of Carlyle's sense
@@ -130,8 +122,6 @@ unending ages, insult the face of the sun any more ... and we go on, if
 
 not to better forms of beastliness, at least to fresher ones.'
 
-
-
 The supreme value of Carlyle to English literature was that he was the
 
 founder of modern irrationalism; a movement fully as important as modern
@@ -151,8 +141,6 @@ trowel, and argument is the [[Sword|sword]]. A wide experience of actual
 intellectual affairs will lead most people to the conclusion that [[logic]]
 
 is mainly valuable as a weapon wherewith to exterminate logicians.
-
-
 
 But though this may be true enough in practice, it scarcely clears up
 
@@ -179,8 +167,6 @@ mean the failure of liver and the absence of digestion. And in the same
 manner we speak of the dangers of [[logic]], when what we really mean is the
 
 danger of fallacy.
-
-
 
 But the real point about the limitation of [[logic]] and the partial
 
@@ -228,11 +214,7 @@ denies any such duty at the very start, and regards man as an animal
 
 who has preferences, as a bird has feathers.
 
-
-
        *       *       *       *       *
-
-
 
 Thus it was with Carlyle: he startled men by attacking not arguments but
 
@@ -260,8 +242,6 @@ according to him depended entirely upon whether we chose or deserved to
 
 be.
 
-
-
 He denied every type and species of prop or association or support which
 
 threw the responsibility upon civilisation or society, or anything but
@@ -273,8 +253,6 @@ ground of the [[Truth|truth]] of this phrase is often neglected. Since the last
 era of purely religious literature, the era of English [[Puritanism]], there
 
 has been no writer in whose eyes the [[Soul|soul]] stood so much [[Alone|alone]].
-
-
 
 Carlyle was, as we have suggested, a mystic, and mysticism was with him,
 
@@ -421,8 +399,6 @@ because we think that it is a curious example of the waste and unclean
 places into which that remarkable animal, 'the whole hog,' more than
 
 once led him.
-
-
 
 In this respect Carlyle has had unquestionably long and an
 

@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 12 (part 3)"
+title: "The Professor — Chapter 12 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_professor/chapter_13/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/the_professor/chapter_13/part_04">part 04 ›</a></div>
 </nav>
 
+
+subjection of her manner, one read that she had already prepared herself
+
+for her future course of life, by giving up her independence of thought
+
+and action into the hands of some despotic confessor. She permitted
 
 herself no original opinion, no preference of companion or employment;
 
@@ -31,8 +37,6 @@ her spiritual director. She was the model pupil of Mdlle. Reuter’s
 establishment; pale, blighted image, where life lingered feebly, but
 
 whence the [[Soul|soul]] had been conjured by Romish wizard-craft!
-
-
 
 A few English pupils there were in this school, and these might be
 
@@ -62,8 +66,6 @@ browbeating from their Popish fellow-pupils, who hated them as English,
 
 and scorned them as heretics.
 
-
-
 The second class were British English. Of these I did not encounter half
 
 a dozen during the whole [[Time|time]] of my attendance at the seminary; their
@@ -91,8 +93,6 @@ insult with austere civility, and met hate with mute disdain; they
 eschewed company-keeping, and in the midst of numbers seemed to dwell
 
 isolated.
-
-
 
 The teachers presiding over this mixed multitude were three in number,
 
@@ -129,8 +129,6 @@ should think she possessed but little, as her pupils seemed constantly
 “en revolte” against her authority. She did not reside in the [[house]]; her
 
 name, I think, was Mdlle. Henri.
-
-
 
 Amidst this assemblage of all that was insignificant and defective, much
 
@@ -185,13 +183,3 @@ timid man--she kept in awe by a sort of austere decision of mien; me,
 she still watched, still tried by the most ingenious tests--she roved
 
 round me, baffled, yet persevering; I believe she thought I was like
-
-a smooth and bare precipice, which offered neither jutting stone nor
-
-tree-root, nor tuft of grass to aid the climber. Now she flattered
-
-with exquisite tact, now she moralized, now she tried how far I was
-
-accessible to mercenary motives, then she disported on the brink of
-
-affection--knowing that some men are won by weakness--anon, she talked

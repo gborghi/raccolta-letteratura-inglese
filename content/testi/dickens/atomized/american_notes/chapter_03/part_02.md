@@ -14,6 +14,20 @@ tags:
 </nav>
 
 
+Before it is possible to make any arrangement at all compatible with this
+[[Novel|novel]] state of things, the [[Ship|ship]] rights.  Before one can say ‘Thank
+Heaven!’ she wrongs again.  Before one can cry she _is_ wrong, she seems
+to have started forward, and to be a creature actually running of its own
+accord, with broken knees and failing legs, through every variety of hole
+and pitfall, and stumbling constantly.  Before one can so much as [[Wonder|wonder]],
+she takes a high leap into the air.  Before she has [[Well|well]] done that, she
+takes a deep dive into the [[Water|water]].  Before she has gained the surface, she
+throws a summerset.  The instant she is on her legs, she rushes backward.
+And so she goes on staggering, heaving, wrestling, leaping, diving,
+jumping, pitching, throbbing, [[rolling]], and rocking: and going through all
+these movements, sometimes by turns, and sometimes altogether: until one
+feels disposed to roar for [[Mercy|mercy]].
+
 A steward passes.  ‘Steward!’  ‘Sir?’  ‘What _is_ the matter? what _do_
 you call this?’  ‘Rather a heavy sea on, sir, and a head-[[Wind|wind]].’
 
@@ -92,19 +106,3 @@ supposed my boots to be—and say in a plaintive voice, ‘Cork soles:’ at
 the same [[Time|time]] endeavouring, I am told, to sit down in the pool.  Finding
 that I was quite insensible, and for the [[Time|time]] a maniac, he humanely
 conducted me below.
-
-There I remained until I got better: [[Suffering|suffering]], whenever I was
-recommended to eat anything, an amount of anguish only second to that
-which is said to be endured by the apparently drowned, in the process of
-restoration to life.  One gentleman on board had a letter of introduction
-to me from a mutual friend in [[London]].  He sent it below with his card, on
-the morning of the head-[[Wind|wind]]; and I was long troubled with the idea that
-he might be up, and [[Well|well]], and a hundred times a day expecting me to call
-upon him in the saloon.  I imagined him one of those cast-iron images—I
-will not call them men—who ask, with red faces, and lusty voices, what
-sea-sickness means, and whether it really is as bad as it is represented
-to be.  This was very torturing indeed; and I don’t think I ever felt
-such perfect gratification and gratitude of heart, as I did when I heard
-from the [[Ship|ship]]’s doctor that he had been obliged to put a large mustard
-poultice on this very gentleman’s stomach.  I date my recovery from the
-receipt of that intelligence.

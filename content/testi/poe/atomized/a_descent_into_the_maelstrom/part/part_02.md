@@ -1,5 +1,5 @@
 ---
-title: "[[A Descent Into the Maelstrom]] (part 2)"
+title: "A Descent Into the Maelstrom (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/a-descent-into-the-maelstrom-(poe)"
@@ -107,28 +107,3 @@ tags:
       [[Ship|ship]] of the line in existence, coming within the influence of
       that deadly attraction, could resist it as little as a feather
       the hurricane, and must disappear bodily and at once.
-
-      The attempts to account for the phenomenon—some of which, I
-      remember, seemed to me sufficiently plausible in perusal—now wore
-      a very different and unsatisfactory aspect. The idea generally
-      received is that this, as [[Well|well]] as three smaller vortices among
-      the Ferroe islands, “have no other cause than the collision of
-      waves rising and falling, at flux and reflux, against a ridge of
-      rocks and shelves, which confines the [[Water|water]] so that it
-      precipitates itself like a cataract; and thus the higher the
-      flood rises, the deeper must the fall be, and the natural result
-      of all is a whirlpool or vortex, the prodigious suction of which
-      is sufficiently known by lesser experiments.”—These are the words
-      of the Encyclopædia Britannica. Kircher and others imagine that
-      in the centre of the channel of the Maelström is an abyss
-      penetrating the globe, and issuing in some very remote part—the
-      Gulf of Bothnia being somewhat decidedly named in one instance.
-      This opinion, idle in itself, was the one to which, as I gazed,
-      my [[Imagination|imagination]] most readily assented; and, mentioning it to the
-      guide, I was rather surprised to hear him say that, although it
-      was the view almost universally entertained of the subject by the
-      Norwegians, it nevertheless was not his own. As to the former
-      notion he confessed his inability to comprehend it; and here I
-      agreed with him—for, however conclusive on paper, it becomes
-      altogether unintelligible, and even absurd, amid the thunder of
-      the abyss.

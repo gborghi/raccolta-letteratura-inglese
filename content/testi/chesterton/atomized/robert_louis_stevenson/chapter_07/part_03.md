@@ -1,5 +1,5 @@
 ---
-title: "Robert Louis Stevenson — Chapter 7 (part 3)"
+title: "Robert Louis Stevenson — Chapter 6 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/robert-louis-stevenson-(chesterton)"
@@ -10,105 +10,66 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/robert-louis-stevenson-(chesterton)">Robert Louis Stevenson</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/robert_louis_stevenson/chapter_07/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/robert_louis_stevenson/chapter_07/part_04">part 04 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/robert_louis_stevenson/chapter_07/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/robert_louis_stevenson/chapter_08/part_01">part 01 ›</a></div>
 </nav>
 
 
-Again, it illustrates this variety of experiment that Stevenson
-also wrote a [[Detective|detective]] story; or as he characteristically called it
-(in a sort of pedantic plain English) a police [[Novel|novel]].  He wrote it
-in collaboration with Mr. Lloyd Osbourne; and I have considered
-another aspect of it already, in the local colour of _The Wrecker._
-But _The Wrecker_ is ultimately a police [[Novel|novel]]; and the best
-sort of police [[Novel|novel]], in which the police are never called in.
-Stevenson explained his reasons for leading up to the problem with studies
-of social life; and certainly it says much for the liveliness of that life
-that we do not grow so impatient as to offer the obvious comment.
-Otherwise we should certainly make one reasonable criticism.
-The writer may be pardoned if he is a long [[Time|time]] getting to the solution,
-but not when he is such a long [[Time|time]] getting to the mystery.
-It must be confessed that we have to wait for the question
-to be asked, as [[Well|well]] as for it to be answered.  Personally I am
-very glad to wait in the waiting-room of Pinkerton and Dodd.
-But anyhow when the question is asked, it is with great animation;
-and the excitement of beginning to piece together a puzzle,
-which is the essence of a [[Detective|detective]] story, has seldom been more
-lively and lifelike than in the [[Cross|cross]] questions and crooked answers
-of Captain Nares and his super-cargo. Here, however, the [[Detective|detective]]
-story merely illustrates the fact of his having almost as many irons
-in the [[Fire|fire]] as Jim Pinkerton.  It illustrates the general fact
-that he tried a great many different styles; and yet his style
-was not different.
+Of course there are many other vivid marks of Stevenson's style,
+besides this particular element of picked and pointed phrase,
+or rather especially the combination of picked and pointed phrases.
+I might make much more than I have made out of something in his
+rapidly stepping sentences, especially in narrative, which corresponds
+to his [[philosophy]] of the militant attitude and the active virtues.
+That word angular, which I have been driven to use too often,
+belongs to the sharpness of his verbal gestures as much
+as to the cutlasses and choppers of his paste-board pirates.
+Those early theatrical figures, from the [[Sketch|sketch]]-book of Skelt, were all
+of them in their [[Nature|nature]] like snapshots of people in swift action.
+Three-Fingered Jack could not have remained permanently with the cudgel
+or the sabre swung about his head nor [[Robin Hood]] with the arrow
+drawn to his ear; and the descriptions of Stevenson's characters
+are seldom static but rather dynamic descriptions; and deal rather
+with how a man did or said something than with what he was like.
+The sharp and shrewd Scottish style of Ephraim Mackellar
+or David Balfour seems by its very sound exactly fitted to
+describe a man snapping his fingers or rapping with his stick.
+Doubtless so careful an [[artist]] as Stevenson varied his style to suit
+the subject and the speaker; we should not look for these dry
+or abrupt brevities in the dilettante deliberations of Loudon Dodd;
+but I know very few of the writer's works in which there are not,
+at the crisis, phrases as short and sharp as the knife that Captain Wicks
+rammed through his own hand.  Something should also have been said,
+of course, of the passages in which Stevenson deliberately plays
+on a somewhat different musical instrument; as when he exercised upon
+Pan's Pipes in respectful [[Imitation|imitation]] of Meredith upon a penny whistle.
+Something should have been said of the style of his [[Poems|poems]]; which are
+perhaps more successful in their phraseology than their poetry.
+But these again teem with these taut and trenchant separate phrases;
+the description of the interlacing branches like crossed swords in battle;
+the men upholding the falling skies like unfrowning caryatids;
+the loud stairs of [[Honour|honour]] and the bright eyes of danger.
+But I have already explained that I profess no scientific thoroughness
+about these problems of execution; and can only speak of the style
+of Stevenson as it specially affects my own taste and fancy.
+And the thing that strikes me most is still this sense of somebody being
+pinked with a rapier in a particular button; of a sort of fastidiousness
+that has still something of the fighting spirit, that aims at a mark
+and makes a point, and is certainly not merely an idle trifling with
+words for the sake of their external elegance or intrinsic melody.
+As a part of the present criticism, such a statement is only another
+way of saying, in the old phrase, that the style is the man;
+and that the man was certainly a man and not only a man of letters.
+I find everywhere, even in his mere diction and syntax,
+that theme that is the whole [[philosophy]] of fairy-tales, of the old
+romances and even of the absurd libretto of the little theatre--
+the conception that man is born with [[Hope|hope]] and [[Courage|courage]] indeed,
+but born outside that which he was meant to attain; that there
+is a [[Quest|quest]], a test, a trial by combat or pilgrimage of discovery;
+or, in other words, that whatever else man is he is not
+sufficient to himself, either through peace or through [[Despair|despair]].
+The very movement of the sentence is the movement of a man going
+somewhere and generally fighting something; and that is where optimism
+and pessimism are alike opposed to that ultimate or potential peace,
+which the violent take by [[Storm|storm]].
 
-If there were experiments in which his touch was less happy they were,
-strangely enough perhaps, those connected with the simple
-or semi-savage world in which he found so much happiness.
-_The Island Nights' Entertainments_ are not quite so entertaining
-as the Arabian Nights' Entertainments, whether New or Old.
-The explanation may be found, perhaps, in that casual phrase with
-which he swept the South Seas and swept away a good many imperial
-or international illusions, probably without knowing it; when he said
-of all those regions, "It is a large ocean but a narrow world."
-He did not really find new types, at least among the white men;
-he rather found new countries full of old and battered types,
-white men who no longer looked very conspicuously white.
-One exception must be allowed; the story of _The Ebb-Tide_ has
-a very great deal of kick in it; even though we hardly have the full
-satisfaction of seeing all the characters kicked.  Anyhow, it is quite
-certain that whatever was the cause of the relative ineffectiveness
-of some of the work done at Vailima, it was not due to his having
-written himself out or experienced any weakening of power.
-For the very last days of all were spent in producing what was,
-or would have been, his most powerful piece of work.  I have said
-something elsewhere, in connection with the Scottish romances,
-of his last great story, which is unfortunately a great [[Fragment|fragment]].
-Actually (I am tempted to say fortunately) that story named
-after Weir of Hermiston is not mainly about Weir of Hermiston.
-At least it is not about the first and most famous person of that name;
-and the best chapters of the book now in existence are concerned with
-the most sensitive and passionate shades of the Scottish temperament;
-richer shades of passion than he had ever yet attempted to touch.
-If ever the grey moor turned purple, it did at the moment
-when the girl lifted her voice to sing the [[Song|song]] of the Elliots.
-He never forgets his abrupt gesture; and it was never so arresting
-as when her psalm-book page was rent across.
-
-When Stevenson drew the long bow for the last [[Time|time]], like [[Robin Hood]],
-he had two strings to his bow; and they both broke; but one was much
-stronger than the other.  In other words he had two stories in his head,
-both of which broke off short; and perhaps it is not surprising
-that the weaker was rather neglected in favour of the stronger.
-The story of _St.  Ives_ contains excellent things, as does everything
-that he ever wrote, down to the most casual private letter.
-But it may be called disappointing, with rather more exactitude
-than is usual in the use of that word.  _St.  Ives_ can hardly
-avoid being a sort of [[Historical Novel|historical novel]]; and yet it is a rather
-unhistorical [[Novel|novel]].  By which I do not mean that there may be
-mistakes about dates or details; which matter nothing in fiction
-and are made too much fuss of even in [[history]].  I mean it is
-unhistorical in showing a strange lack of historical [[Imagination|imagination]]
-and the sense of historical opportunity.  It is the story of a soldier
-of Napoleon imprisoned on Edinburgh Rock and escaping from it.
-But indeed we might fancy it was Stevenson and not St. Ives who was
-imprisoned on Edinburgh Rock.  And Stevenson does not escape from it.
-Such a subject demanded a sort of international interpreter;
-but it is in [[Truth|truth]] the most strangely insular of all his books.
-St. Ives is not a Frenchman; he is the less and not the more French
-because he is given all the foppery and swagger which spinsters
-in Edinburgh in 1813 doubtless did associate with a Frenchman.
-He is no more a French soldier than Bonaparte was Boney.
-He has neither the French realism nor the French idealism.
-He does not look at England as a Frenchman of the revolutionary
-wars would have looked at it.  This story is simply France seen
-from Britain; it is not, as it should be, Britain seen from France.
-Unless St. Ives were a very bitter Royalist (which he evidently was not,
-but a moderate Bonapartist) he would quite certainly have conceived
-himself as carrying not mere military glory but the light of reason and
-[[philosophy]] and social justice to the aristocratic and autocratic states.
-He would have been impatient with the illogical resistance to
-rational things; not merely annoyed at not being shaved or provided
-with a looking-glass. But St. Ives is not a French soldier.
-He is a man in a French uniform; but so was Alan Breck Stewart.
-And that blessed and beloved name may perhaps recall to us
-that [[Vanity|vanity]] and a [[Love|love]] of fine coats can occasionally be found,
-even in the British Isles.
+* * * *

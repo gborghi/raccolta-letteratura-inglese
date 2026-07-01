@@ -1,5 +1,5 @@
 ---
-title: "[[Henry V]] — Act I, Scene 2 — monologue (CANTERBURY) [3]"
+title: "Henry V — Act I, Scene 2 — monologue (CANTERBURY) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/henry-v-(shakespeare)"

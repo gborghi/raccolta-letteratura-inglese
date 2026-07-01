@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 11 (part 1)"
+title: "Wuthering Heights — Chapter 11 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -138,6 +138,3 @@ prevent it, he laid his hand on her arm. She averted her face: he
 apparently put some question which she had no mind to answer. There was
 another rapid glance at the [[house]], and supposing himself unseen, the
 scoundrel had the impudence to embrace her.
-
-“Judas! Traitor!” I ejaculated. “You are a hypocrite, too, are you? A
-deliberate deceiver.”

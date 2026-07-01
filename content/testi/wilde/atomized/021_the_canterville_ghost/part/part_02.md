@@ -1,5 +1,5 @@
 ---
-title: "The Canterville [[Ghost]] (part 2)"
+title: "The Canterville Ghost (part 2)"
 author: "Wilde"
 unitType: excerpt
 parentWork: "works/the-canterville-ghost-(wilde)"

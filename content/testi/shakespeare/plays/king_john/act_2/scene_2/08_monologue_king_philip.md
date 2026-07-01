@@ -1,5 +1,5 @@
 ---
-title: "[[King John]] — Act II, Scene 2 — monologue ([[King|KING]] PHILIP) [8]"
+title: "King John — Act II, Scene 2 — monologue (KING PHILIP) [8]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/king-john-(shakespeare)"

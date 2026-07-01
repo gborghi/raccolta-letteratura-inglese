@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 6 (part 2)"
+title: "Our Mutual Friend — Chapter 10 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,148 +14,138 @@ tags:
 </nav>
 
 
-She stopped again, and gave him an earnest supplicating look. ‘[[Well]],
-Lizzie, [[Well|well]]!’ said he, in an easy way though ill at ease with himself
-‘don’t be unhappy, don’t be reproachful.’
+‘Dear fellow, I am wandering away. Stay me for another moment, if you
+can.’
 
-‘I cannot help being unhappy, but I do not mean to be reproachful. Mr
-Wrayburn, I implore you to go away from this neighbourhood, to-morrow
-morning.’
+Lightwood lifted his head at the neck, and put a wine-glass to his lips.
+He rallied.
 
-‘Lizzie, Lizzie, Lizzie!’ he remonstrated. ‘As [[Well|well]] be reproachful as
-wholly unreasonable. I can’t go away.’
+‘I don’t know how long ago it was done, whether weeks, days, or hours.
+No matter. There is inquiry on foot, and pursuit. Say! Is there not?’
 
-‘Why not?’
+‘Yes.’
 
-‘[[Faith]]!’ said Eugene in his airily candid manner. ‘Because you won’t let
-me. Mind! I don’t mean to be reproachful either. I don’t complain that
-you design to keep me here. But you do it, you do it.’
+‘Check it; divert it! Don’t let her be brought in question. Shield
+her. The guilty man, brought to justice, would [[Poison|poison]] her name. Let the
+guilty man go unpunished. Lizzie and my reparation before all! Promise
+me!’
 
-‘Will you walk beside me, and not touch me;’ for, his arm was coming
-about her again; ‘while I speak to you very seriously, Mr Wrayburn?’
+‘Eugene, I do. I promise you!’
 
-‘I will do anything within the limits of possibility, for you, Lizzie,’
-he answered with pleasant gaiety as he folded his arms. ‘See here!
-Napoleon Buonaparte at St [[Helena]].’
+In the act of turning his eyes gratefully towards his friend, he
+wandered away. His eyes stood still, and settled into that former intent
+unmeaning stare.
 
-‘When you spoke to me as I came from the Mill the [[Night|night]] before last,’
-said Lizzie, fixing her eyes upon him with the look of supplication
-which troubled his better [[Nature|nature]], ‘you told me that you were much
-surprised to see me, and that you were on a solitary fishing excursion.
-Was it true?’
+Hours and hours, days and nights, he remained in this same condition.
+There were times when he would calmly speak to his friend after a long
+period of unconsciousness, and would say he was better, and would ask
+for something. Before it could be given him, he would be gone again.
 
-‘It was not,’ replied Eugene composedly, ‘in the least true. I came
-here, because I had information that I should find you here.’
+The dolls’ dressmaker, all softened compassion now, watched him with an
+earnestness that never relaxed. She would regularly change the ice, or
+the cooling spirit, on his head, and would keep her ear at the pillow
+betweenwhiles, listening for any faint words that fell from him in his
+wanderings. It was amazing through how many hours at a [[Time|time]] she would
+remain beside him, in a crouching attitude, attentive to his slightest
+moan. As he could not move a hand, he could make no sign of distress;
+but, through this close watching (if through no secret sympathy or
+power) the little creature attained an understanding of him that
+Lightwood did not possess. Mortimer would often turn to her, as if she
+were an interpreter between this sentient world and the insensible man;
+and she would change the dressing of a wound, or ease a ligature, or
+turn his face, or alter the pressure of the bedclothes on him, with an
+absolute certainty of doing right. The natural lightness and delicacy of
+touch which had become very refined by practice in her miniature work,
+no [[Doubt|doubt]] was involved in this; but her perception was at least as fine.
 
-‘Can you imagine why I left [[London]], Mr Wrayburn?’
+The one word, Lizzie, he muttered millions of times. In a certain phase
+of his distressful state, which was the worst to those who tended him,
+he would roll his head upon the pillow, incessantly repeating the name
+in a hurried and impatient manner, with the misery of a disturbed mind,
+and the monotony of a [[Machine|machine]]. Equally, when he lay still and staring,
+he would repeat it for hours without cessation, but then, always in a
+tone of subdued warning and horror. Her presence and her touch upon his
+breast or face would often stop this, and then they learned to expect
+that he would for some [[Time|time]] remain still, with his eyes closed, and that
+he would be conscious on opening them. But, the heavy disappointment of
+their [[Hope|hope]]—revived by the welcome [[Silence|silence]] of the room—was, that his
+spirit would glide away again and be lost, in the moment of their joy
+that it was there.
 
-‘I am afraid, Lizzie,’ he openly answered, ‘that you left [[London]] to get
-rid of me. It is not flattering to my [[Self|self]]-[[Love|love]], but I am afraid you
-did.’
+This frequent rising of a drowning man from the deep, to sink again, was
+dreadful to the beholders. But, gradually the change stole upon him that
+it became dreadful to himself. His [[Desire|desire]] to impart something that was
+on his mind, his unspeakable yearning to have speech with his friend
+and make a communication to him, so troubled him when he recovered
+consciousness, that its term was thereby shortened. As the man rising
+from the deep would disappear the sooner for fighting with the [[Water|water]], so
+he in his desperate struggle went down again.
 
-‘I did.’
+One afternoon when he had been lying still, and Lizzie, unrecognized,
+had just stolen out of the room to pursue her occupation, he uttered
+Lightwood’s name.
 
-‘How could you be so cruel?’
+‘My dear Eugene, I am here.’
 
-‘O Mr Wrayburn,’ she answered, suddenly breaking into [[Tears|tears]], ‘is the
-cruelty on my side! O Mr Wrayburn, Mr Wrayburn, is there no cruelty in
-your being here to-[[Night|night]]!’
+‘How long is this to last, Mortimer?’
 
-‘In the name of all that’s good—and that is not conjuring you in my
-own name, for Heaven knows I am not good’—said Eugene, ‘don’t be
-distressed!’
+Lightwood shook his head. ‘Still, Eugene, you are no worse than you
+were.’
 
-‘What else can I be, when I know the distance and the difference between
-us? What else can I be, when to tell me why you came here, is to put me
-to shame!’ said Lizzie, covering her face.
+‘But I know there’s no [[Hope|hope]]. Yet I pray it may last long enough for you
+to do me one last service, and for me to do one last action. Keep me
+here a few moments, Mortimer. Try, try!’
 
-He looked at her with a real sentiment of remorseful tenderness and
-pity. It was not strong enough to impell him to sacrifice himself and
-spare her, but it was a strong emotion.
+His friend gave him what aid he could, and encouraged him to believe
+that he was more composed, though even then his eyes were losing the
+expression they so rarely recovered.
 
-‘Lizzie! I never thought before, that there was a woman in the world who
-could affect me so much by saying so little. But don’t be hard in your
-construction of me. You don’t know what my state of mind towards you is.
-You don’t know how you haunt me and bewilder me. You don’t know how the
-cursed carelessness that is over-officious in helping me at every other
-turning of my life, WON’T help me here. You have struck it dead, I
-think, and I sometimes almost wish you had struck me dead along with
-it.’
+‘Hold me here, dear fellow, if you can. Stop my wandering away. I am
+going!’
 
-She had not been prepared for such passionate expressions, and they
-awakened some natural sparks of feminine [[Pride|pride]] and joy in her breast. To
-consider, wrong as he was, that he could care so much for her, and that
-she had the power to move him so!
+‘Not yet, not yet. Tell me, dear Eugene, what is it I shall do?’
 
-‘It grieves you to see me distressed, Mr Wrayburn; it grieves me to see
-you distressed. I don’t reproach you. Indeed I don’t reproach you.
-You have not felt this as I feel it, being so different from me, and
-beginning from another point of view. You have not thought. But I
-entreat you to think now, think now!’
+‘Keep me here for only a single minute. I am going away again. Don’t let
+me go. Hear me speak first. Stop me—stop me!’
 
-‘What am I to think of?’ asked Eugene, bitterly.
+‘My poor Eugene, try to be calm.’
 
-‘Think of me.’
+‘I do try. I try so hard. If you only knew how hard! Don’t let me wander
+till I have spoken. Give me a little more wine.’
 
-‘Tell me how NOT to think of you, Lizzie, and you’ll change me
-altogether.’
+Lightwood complied. Eugene, with a most pathetic struggle against the
+unconsciousness that was coming over him, and with a look of appeal that
+affected his friend profoundly, said:
 
-‘I don’t mean in that way. Think of me, as belonging to another station,
-and quite cut off from you in [[Honour|honour]]. Remember that I have no protector
-near me, unless I have one in your noble heart. Respect my good name.
-If you feel towards me, in one particular, as you might if I was a lady,
-give me the full claims of a lady upon your generous behaviour. I am
-removed from you and your family by being a working girl. How true a
-gentleman to be as considerate of me as if I was removed by being a
-[[Queen]]!’
+‘You can leave me with Jenny, while you speak to her and tell her what I
+beseech of her. You can leave me with Jenny, while you are gone. There’s
+not much for you to do. You won’t be long away.’
 
-He would have been base indeed to have stood untouched by her appeal.
-His face expressed contrition and indecision as he asked:
+‘No, no, no. But tell me what it is that I shall do, Eugene!’
 
-‘Have I injured you so much, Lizzie?’
+‘I am going! You can’t hold me.’
 
-‘No, no. You may set me quite right. I don’t speak of the past, Mr
-Wrayburn, but of the present and the future. Are we not here now,
-because through two days you have followed me so closely where there
-are so many eyes to see you, that I consented to this appointment as an
-escape?’
+‘Tell me in a word, Eugene!’
 
-‘Again, not very flattering to my [[Self|self]]-[[Love|love]],’ said Eugene, moodily; ‘but
-yes. Yes. Yes.’
+His eyes were fixed again, and the only word that came from his lips was
+the word millions of times repeated. Lizzie, Lizzie, Lizzie.
 
-‘Then I beseech you, Mr Wrayburn, I beg and pray you, leave this
-neighbourhood. If you do not, consider to what you will drive me.’
+But, the watchful little dressmaker had been vigilant as ever in her
+watch, and she now came up and touched Lightwood’s arm as he looked down
+at his friend, despairingly.
 
-He did consider within himself for a moment or two, and then retorted,
-‘Drive you? To what shall I drive you, Lizzie?’
+‘Hush!’ she said, with her finger on her lips. ‘His eyes are closing.
+He’ll be conscious when he next opens them. Shall I give you a leading
+word to say to him?’
 
-‘You will drive me away. I live here peacefully and respected, and I am
-[[Well|well]] employed here. You will force me to quit this place as I quitted
-[[London]], and—by following me again—will force me to quit the next place
-in which I may find refuge, as I quitted this.’
+‘O Jenny, if you could only give me the right word!’
 
-‘Are you so determined, Lizzie—forgive the word I am going to use, for
-its literal [[Truth|truth]]—to fly from a [[Lover|lover]]?’
+‘I can. Stoop down.’
 
-‘I am so determined,’ she answered resolutely, though trembling, ‘to fly
-from such a [[Lover|lover]]. There was a poor woman died here but a little while
-ago, scores of years older than I am, whom I found by chance, lying on
-the wet earth. You may have heard some account of her?’
+He stooped, and she whispered in his ear. She whispered in his ear one
+short word of a single syllable. Lightwood started, and looked at her.
 
-‘I think I have,’ he answered, ‘if her name was Higden.’
-
-‘Her name was Higden. Though she was so weak and old, she kept true to
-one purpose to the very last. Even at the very last, she made me promise
-that her purpose should be kept to, after she was dead, so settled
-was her determination. What she did, I can do. Mr Wrayburn, if I
-believed—but I do not believe—that you could be so cruel to me as
-to drive me from place to place to wear me out, you should drive me to
-[[Death|death]] and not do it.’
-
-He looked full at her handsome face, and in his own handsome face there
-was a light of blended admiration, anger, and reproach, which she—who
-loved him so in secret whose heart had long been so full, and he the
-cause of its overflowing—drooped before. She tried hard to retain her
-firmness, but he saw it melting away under his eyes. In the moment of
-its dissolution, and of his first full knowledge of his influence upon
-her, she dropped, and he caught her on his arm.
+‘Try it,’ said the little creature, with an excited and exultant face.
+She then bent over the unconscious man, and, for the first [[Time|time]], kissed
+him on the cheek, and kissed the poor maimed hand that was nearest to
+her. Then, she withdrew to the foot of the bed.

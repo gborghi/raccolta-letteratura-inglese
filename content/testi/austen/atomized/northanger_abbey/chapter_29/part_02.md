@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 28 (part 2)"
+title: "Northanger Abbey — Chapter 28 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_29/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_29/part_03">part 03 ›</a></div>
 </nav>
 
+
+touching the very doorway—and in another moment a slight motion of the
+
+lock proved that some hand must be on it. She trembled a little at the
+
+idea of anyone’s approaching so cautiously; but resolving not to be
 
 again overcome by trivial appearances of alarm, or misled by a raised
 
@@ -211,13 +217,3 @@ might have written [[Home|home]]. But it is of very little consequence.”
 
 
 “I [[Hope|hope]], I earnestly [[Hope|hope]], that to your real safety it will be of none;
-
-but to everything else it is of the greatest consequence: to comfort,
-
-appearance, propriety, to your family, to the world. Were your friends,
-
-the Allens, still in Bath, you might go to them with comparative ease;
-
-a few hours would take you there; but a [[Journey|journey]] of seventy miles, to be
-
-taken post by you, at your age, [[Alone|alone]], unattended!”

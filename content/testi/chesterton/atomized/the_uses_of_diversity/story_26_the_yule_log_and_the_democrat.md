@@ -90,7 +90,7 @@ but seen it, which is not always the same thing.  If he had seen
 what there is to be seen, he might possibly have done many things.
 He might, for instance, have revived the Trade Guilds of Glasgow,
 which failed to grasp his discovery; he might have taught them
-to take hold of the new energy and turn it towards [[Democracy|democracy]],
+to take hold of the new energy and turn it towards [[democracy]],
 instead of going off and handing over his invention to the Capitalists.
 For the defect which betrayed all Watt's school and generation,
 full as it was of a virile and thrifty Radicalism, was precisely that it
@@ -113,7 +113,7 @@ War Tyler would simply be automatically shot into [[Prison|prison]] for resistin
 a rational and necessary scientific inspection.  It was the growth
 of an unhuman and unhomelike [[philosophy]] that made all the difference
 between the War of the fourteenth century and the Watt of the nineteenth.
-And the spirit of real [[Democracy|democracy]] will not re-emerge until it rises
+And the spirit of real [[democracy]] will not re-emerge until it rises
 from the fireside and comes forth in the red reality of [[Fire|fire]];
 the giant of Christmas brandishing the Yule log tor a club.
 

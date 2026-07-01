@@ -1,5 +1,5 @@
 ---
-title: "[[queertrades]] — Chapter 1 (part 4)"
+title: "queertrades — Chapter 1 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/queertrades-(chesterton)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/queertrades/story_01_chapter_1/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/queertrades/story_01_chapter_1/part_05">part 05 ›</a></div>
 </nav>
 
+
+"Major Brown, Major Brown, how did the jackal die?"
+
+Brown dashed out of the door and down the steps, but again
+he was frustrated; there was no figure in sight, and the street
+was far too long and empty for the shouter to have run away.
+Even the rational Major was a little shaken as he returned in a
+certain [[Time|time]] to the drawing-room. Scarcely had he done so than
+the terrific voice came:
 
 "Major Brown, Major Brown, where did--"
 
@@ -141,27 +150,3 @@ the wrong thing.  Facts point in all directions, it seems to me,
 like the thousands of twigs on a tree.  It's only the life of the tree
 that has [[unity]] and goes up--only the green [[Blood|blood]] that springs,
 like a fountain, at the [[Stars|stars]]."
-
-"But what the deuce else can the letter be but criminal?"
-
-"We have [[Eternity|eternity]] to stretch our legs in," replied the mystic.
-"It can be an infinity of things.  I haven't seen any of them--
-I've only seen the letter.  I look at that, and say it's not criminal."
-
-"Then what's the origin of it?"
-
-"I haven't the vaguest idea."
-
-"Then why don't you accept the ordinary explanation?"
-
-Basil continued for a little to glare at the coals, and seemed
-collecting his thoughts in a humble and even painful way.
-Then he said:
-
-"Suppose you went out into the moonlight.  Suppose you passed
-through silent, silvery streets and squares until you came into
-an open and deserted space, set with a few monuments, and you
-beheld one dressed as a ballet girl dancing in the argent glimmer.
-And suppose you looked, and saw it was a man disguised.
-And suppose you looked again, and saw it was Lord Kitchener.
-What would you think?"

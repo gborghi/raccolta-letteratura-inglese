@@ -41,44 +41,44 @@ tags:
 
 - [Story 01 The Glass Walking Stick](/testi/chesterton/atomized/the_glass_walking_stick/story_01_the_glass_walking_stick)
 - [Story 02 History In Stone](/testi/chesterton/atomized/the_glass_walking_stick/story_02_history_in_stone)
-- [Story 03 The Old Nurse](/testi/chesterton/atomized/the_glass_walking_stick/story_03_the_old_nurse)
-- [Story 04 Playing With An Idea](/testi/chesterton/atomized/the_glass_walking_stick/story_04_playing_with_an_idea)
-- [Story 05 The Walking Paradox](/testi/chesterton/atomized/the_glass_walking_stick/story_05_the_walking_paradox)
-- [Story 06 The Colour Of Spain](/testi/chesterton/atomized/the_glass_walking_stick/story_06_the_colour_of_spain)
-- [Story 07 The Tradition Of Toledo](/testi/chesterton/atomized/the_glass_walking_stick/story_07_the_tradition_of_toledo)
-- [Story 08 Tom Jones And The Escorial](/testi/chesterton/atomized/the_glass_walking_stick/story_08_tom_jones_and_the_escorial)
-- [Story 09 Poetry In Action](/testi/chesterton/atomized/the_glass_walking_stick/story_09_poetry_in_action)
-- [Story 10 The Romance Of History](/testi/chesterton/atomized/the_glass_walking_stick/story_10_the_romance_of_history)
-- [Story 11 The Heraldic Lion](/testi/chesterton/atomized/the_glass_walking_stick/story_11_the_heraldic_lion)
-- [Story 12 The Court Of Camelot](/testi/chesterton/atomized/the_glass_walking_stick/story_12_the_court_of_camelot)
-- [Story 13 Wolfe And The Midshipman](/testi/chesterton/atomized/the_glass_walking_stick/story_13_wolfe_and_the_midshipman)
-- [Story 14 About Christianity](/testi/chesterton/atomized/the_glass_walking_stick/story_14_about_christianity)
-- [Story 15 St George For England](/testi/chesterton/atomized/the_glass_walking_stick/story_15_st_george_for_england)
-- [Story 16 The National Anthem](/testi/chesterton/atomized/the_glass_walking_stick/story_16_the_national_anthem)
-- [Story 17 King George Iv](/testi/chesterton/atomized/the_glass_walking_stick/story_17_king_george_iv)
-- [Story 18 King Edward Vii](/testi/chesterton/atomized/the_glass_walking_stick/story_18_king_edward_vii)
-- [Story 19 King George V](/testi/chesterton/atomized/the_glass_walking_stick/story_19_king_george_v)
-- [Story 20 On Lying In State](/testi/chesterton/atomized/the_glass_walking_stick/story_20_on_lying_in_state)
-- [Story 21 The Alphabet Of Giants](/testi/chesterton/atomized/the_glass_walking_stick/story_21_the_alphabet_of_giants)
-- [Story 22 Baroque And Gothic Architecture](/testi/chesterton/atomized/the_glass_walking_stick/story_22_baroque_and_gothic_architecture)
-- [Story 23 Robert Bruce And His Age](/testi/chesterton/atomized/the_glass_walking_stick/story_23_robert_bruce_and_his_age)
-- [Story 24 What Might Have Been](/testi/chesterton/atomized/the_glass_walking_stick/story_24_what_might_have_been)
-- [Story 25 The Age Of Reason](/testi/chesterton/atomized/the_glass_walking_stick/story_25_the_age_of_reason)
-- [Story 26 The Victorians](/testi/chesterton/atomized/the_glass_walking_stick/story_26_the_victorians)
-- [Story 27 The National Spirit](/testi/chesterton/atomized/the_glass_walking_stick/story_27_the_national_spirit)
-- [Story 28 The Rights Of Ritual](/testi/chesterton/atomized/the_glass_walking_stick/story_28_the_rights_of_ritual)
-- [Story 29 The Inside Of Life](/testi/chesterton/atomized/the_glass_walking_stick/story_29_the_inside_of_life)
-- [Story 30 Tricks Of Memory](/testi/chesterton/atomized/the_glass_walking_stick/story_30_tricks_of_memory)
-- [Story 31 The Code Napoleon](/testi/chesterton/atomized/the_glass_walking_stick/story_31_the_code_napoleon)
-- [Story 32 Cyrano And Chantecler](/testi/chesterton/atomized/the_glass_walking_stick/story_32_cyrano_and_chantecler)
-- [Story 33 Passing Through The Customs](/testi/chesterton/atomized/the_glass_walking_stick/story_33_passing_through_the_customs)
-- [Story 34 His Sigh Is A Hullaballoo](/testi/chesterton/atomized/the_glass_walking_stick/story_34_his_sigh_is_a_hullaballoo)
-- [Story 35 The Narrowness Of Novelty](/testi/chesterton/atomized/the_glass_walking_stick/story_35_the_narrowness_of_novelty)
-- [Story 36 The Merits Of Shakespeare S Plots](/testi/chesterton/atomized/the_glass_walking_stick/story_36_the_merits_of_shakespeare_s_plots)
-- [Story 37 A Plea For The Heroic Couplet](/testi/chesterton/atomized/the_glass_walking_stick/story_37_a_plea_for_the_heroic_couplet)
-- [Story 38 To Praise Exalt Establish And Defend](/testi/chesterton/atomized/the_glass_walking_stick/story_38_to_praise_exalt_establish_and_defend)
-- [Story 39 On The True Artist](/testi/chesterton/atomized/the_glass_walking_stick/story_39_on_the_true_artist)
-- [Story 40 On The Essay](/testi/chesterton/atomized/the_glass_walking_stick/story_40_on_the_essay)
+- Story 03 The Old Nurse
+- Story 04 Playing With An Idea
+- Story 05 The Walking Paradox
+- Story 06 The Colour Of Spain
+- Story 07 The Tradition Of Toledo
+- Story 08 Tom Jones And The Escorial
+- Story 09 Poetry In Action
+- Story 10 The Romance Of History
+- Story 11 The Heraldic Lion
+- Story 12 The Court Of Camelot
+- Story 13 Wolfe And The Midshipman
+- Story 14 About Christianity
+- Story 15 St George For England
+- Story 16 The National Anthem
+- Story 17 King George Iv
+- Story 18 King Edward Vii
+- Story 19 King George V
+- Story 20 On Lying In State
+- Story 21 The Alphabet Of Giants
+- Story 22 Baroque And Gothic Architecture
+- Story 23 Robert Bruce And His Age
+- Story 24 What Might Have Been
+- Story 25 The Age Of Reason
+- Story 26 The Victorians
+- Story 27 The National Spirit
+- Story 28 The Rights Of Ritual
+- Story 29 The Inside Of Life
+- Story 30 Tricks Of Memory
+- Story 31 The Code Napoleon
+- Story 32 Cyrano And Chantecler
+- Story 33 Passing Through The Customs
+- Story 34 His Sigh Is A Hullaballoo
+- Story 35 The Narrowness Of Novelty
+- Story 36 The Merits Of Shakespeare S Plots
+- Story 37 A Plea For The Heroic Couplet
+- Story 38 To Praise Exalt Establish And Defend
+- Story 39 On The True Artist
+- Story 40 On The Essay
 
 ## Testo integrale / Full text
 

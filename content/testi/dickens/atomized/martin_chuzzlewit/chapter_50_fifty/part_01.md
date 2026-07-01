@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 50: FIFTY (part 1)"
+title: "Martin Chuzzlewit — Chapter 50: FIFTY (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/martin-chuzzlewit-(dickens)">Martin Chuzzlewit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_49_forty_nine/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_50_fifty/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_49_forty_nine/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_50_fifty/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -131,8 +131,3 @@ done.’
 
 ‘I came here,’ said Martin; ‘and I appeal to your good sister to hear
 me--’
-
-‘Not to her,’ interrupted Tom. ‘Pray, do not appeal to her. She will
-never believe you.’
-
-He drew her arm through his own, as he said it.

@@ -193,5 +193,3 @@ calm, eternal, mathematical sort of truths; what somebody calls the
 
 'white radiance of'—"
 He stopped, and before the next word came something had happened
-
-almost too quickly and completely to be realized. From behind the

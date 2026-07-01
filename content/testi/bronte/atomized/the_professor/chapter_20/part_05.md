@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 19 (part 5)"
+title: "The Professor — Chapter 19 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -13,6 +13,36 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_professor/chapter_20/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/the_professor/chapter_20/part_06">part 06 ›</a></div>
 </nav>
 
+
+“Your aunt is dead?”
+
+“Yes, a fortnight since, and she died full of regret, which I could not
+
+chase from her mind; she kept repeating, even during the last [[Night|night]]
+
+of her existence, ‘Frances, you will be so lonely when I am gone,
+
+so friendless:’ she wished too that she could have been buried in
+
+Switzerland, and it was I who persuaded her in her old age to leave the
+
+banks of Lake Leman, and to come, only as it seems to die, in this flat
+
+region of Flanders. Willingly would I have observed her last wish, and
+
+taken her remains back to our own country, but that was impossible; I
+
+was forced to lay her here.”
+
+“She was ill but a short [[Time|time]], I presume?”
+
+“But three weeks. When she began to sink I asked Mdlle. Reuter’s leave
+
+to stay with her and wait on her; I readily got leave.”
+
+“Do you return to the pensionnat!” I demanded hastily.
+
+“Monsieur, when I had been at [[Home|home]] a week Mdlle. Reuter called one
 
 evening, just after I had got my aunt to bed; she went into her room
 
@@ -54,8 +84,6 @@ then she said something about the excellent condition of the streets,
 
 and the long continuance of fine weather, and went away quite cheerful.”
 
-
-
 I laughed inwardly; all this was so like the directress--so like what I
 
 had expected and guessed of her conduct; and then the exposure and proof
@@ -67,8 +95,6 @@ applied for Mdlle. Henri’s address,” forsooth; “Mdlle. Henri had always
 evaded giving it,” &c., &c., and here I found her a visitor at the very
 
 [[house]] of whose locality she had professed absolute ignorance!
-
-
 
 Any comments I might have intended to make on my pupil’s communication,
 
@@ -88,15 +114,9 @@ heavy rain came on; in the meantime we had passed through the Porte de
 
 Louvain, and were again in the [[City|city]].
 
-
-
 “Where do you live?” I asked; “I will see you safe [[Home|home]].”
 
-
-
 “Rue Notre Dame aux Neiges,” answered Frances.
-
-
 
 It was not far from the Rue de Louvain, and we stood on the doorsteps
 
@@ -105,8 +125,6 @@ of the [[house]] we sought ere the clouds, severing with loud peal and
 shattered cataract of [[Lightning|lightning]], emptied their livid folds in a torrent,
 
 heavy, prone, and broad.
-
-
 
 “Come in! come in!” said Frances, as, after putting her into the [[house]],
 
@@ -121,8 +139,6 @@ projection over the door had warded off the straight-descending flood;
 none but the first, large drops had touched our garments; one minute
 
 more and we should not have had a dry thread on us.
-
-
 
 Stepping over a little mat of green wool, I found myself in a small room
 
@@ -169,45 +185,3 @@ ring, nor ribbon; she did [[Well|well]] enough without them--perfection of fit,
 proportion of form, grace of carriage, agreeably supplied their place.
 
 Her eye, as she re-entered the small sitting-room, instantly sought
-
-mine, which was just then lingering on the hearth; I knew she read at
-
-once the sort of inward ruth and pitying [[Pain|pain]] which the chill vacancy of
-
-that hearth stirred in my [[Soul|soul]]: quick to penetrate, quick to determine,
-
-and quicker to put in practice, she had in a moment tied a holland apron
-
-round her waist; then she disappeared, and reappeared with a basket;
-
-it had a cover; she opened it, and produced wood and coal; deftly and
-
-compactly she arranged them in the grate.
-
-
-
-“It is her whole stock, and she will exhaust it out of hospitality,”
-
- thought I.
-
-
-
-“What are you going to do?” I asked: “not surely to light a [[Fire|fire]] this
-
-hot evening? I shall be smothered.”
-
-
-
-“Indeed, monsieur, I feel it very chilly since the rain began; besides,
-
-I must boil the [[Water|water]] for my tea, for I take tea on Sundays; you will be
-
-obliged to try and bear the heat.”
-
-
-
-She had struck a light; the wood was already in a blaze; and truly, when
-
-contrasted with the darkness, the wild tumult of the tempest without,
-
-that peaceful glow which began to beam on the now animated hearth,

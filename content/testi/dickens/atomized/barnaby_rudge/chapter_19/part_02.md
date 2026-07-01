@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 19 (part 2)"
+title: "Barnaby Rudge — Chapter 19 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -125,10 +125,3 @@ slowly repaired to Mrs Varden’s room; where that lady, lying all pale
 and languid on her couch, was refreshing herself with a sight of her
 last new bonnet, which Miggs, as a means of calming her scattered
 spirits, displayed to the best advantage at her bedside.
-
-‘Here’s master, mim,’ said Miggs. ‘Oh, what a happiness it is when man
-and wife come round again! Oh gracious, to think that him and her should
-ever have a word together!’ In the energy of these sentiments, which
-were uttered as an apostrophe to the Heavens in general, Miss Miggs
-perched the bonnet on the top of her own head, and folding her hands,
-turned on her [[Tears|tears]].

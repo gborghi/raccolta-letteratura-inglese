@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 21 (part 2)"
+title: "Villette — Chapter 21 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -122,13 +122,3 @@ my present mood, the effort of answering should overmaster
 
 “Come,” said he, more softly, “tell me the [[Truth|truth]]—you grieve at being
 parted from friends—is it not so?”
-
-The insinuating softness was not more acceptable than the inquisitorial
-curiosity. I was silent. He came into the room, sat down on the bench
-about two yards from me, and persevered long, and, for him, patiently,
-in attempts to draw me into conversation—attempts necessarily
-unavailing, because I _could_ not talk. At last I entreated to be let
-[[Alone|alone]]. In uttering the request, my voice faltered, my head sank on my
-arms and the table. I wept bitterly, though quietly. He sat a while
-longer. I did not look up nor speak, till the closing door and his
-retreating step told me that he was gone. These [[Tears|tears]] proved a relief.

@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 25 (part 3)"
+title: "Jane Eyre — Chapter 25 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,28 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_25/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_25/part_04">part 04 ›</a></div>
 </nav>
 
+
+“Give me your confidence, Jane,” he said: “relieve your mind of any
+weight that oppresses it, by imparting it to me. What do you [[Fear|fear]]?—that
+I shall not prove a good husband?”
+
+“It is the idea farthest from my thoughts.”
+
+“Are you apprehensive of the new sphere you are about to enter?—of the
+new life into which you are passing?”
+
+“No.”
+
+“You puzzle me, Jane: your look and tone of sorrowful audacity perplex
+and [[Pain|pain]] me. I want an explanation.”
+
+“Then, sir, listen. You were from [[Home|home]] last [[Night|night]]?”
+
+“I was: I know that; and you hinted a while ago at something which had
+happened in my absence:—nothing, probably, of consequence; but, in
+short, it has disturbed you. Let me hear it. Mrs. Fairfax has said
+something, perhaps? or you have overheard the servants talk?—your
+sensitive [[Self|self]]-respect has been wounded?”
 
 “No, sir.” It struck twelve—I waited till the [[Time|time]]-piece had concluded
 its silver chime, and the [[Clock|clock]] its hoarse, vibrating stroke, and then
@@ -97,36 +119,3 @@ too much as if some spirit were near me. Look wicked, Jane: as you know
 [[Well|well]] how to look: coin one of your wild, shy, provoking smiles; tell me
 you hate me—tease me, vex me; do anything but move me: I would rather
 be incensed than saddened.”
-
-“I will tease you and vex you to your heart’s content, when I have
-finished my tale: but hear me to the end.”
-
-“I thought, Jane, you had told me all. I thought I had found the source
-of your [[Melancholy|melancholy]] in [[A Dream|a dream]].”
-
-I shook my head. “What! is there more? But I will not believe it to be
-anything important. I warn you of [[Incredulity|incredulity]] beforehand. Go on.”
-
-The disquietude of his air, the somewhat apprehensive impatience of his
-manner, surprised me: but I proceeded.
-
-“I dreamt another dream, sir: that Thornfield Hall was a dreary ruin,
-the retreat of bats and owls. I thought that of all the stately front
-nothing remained but a shell-like wall, very high and very
-fragile-looking. I wandered, on a moonlight [[Night|night]], through the
-grass-grown enclosure within: here I stumbled over a marble hearth, and
-there over a fallen [[Fragment|fragment]] of cornice. Wrapped up in a shawl, I still
-carried the unknown little [[Child|child]]: I might not lay it down anywhere,
-however tired were my arms—however much its weight impeded my progress,
-I must retain it. I heard the gallop of a [[Horse|horse]] at a distance on the
-[[Road|road]]; I was sure it was you; and you were departing for many years and
-for a distant country. I climbed the thin wall with frantic perilous
-haste, eager to catch one glimpse of you from the top: the stones
-rolled from under my feet, the ivy branches I grasped gave way, the
-[[Child|child]] clung round my neck in terror, and almost strangled me; at last I
-gained the summit. I saw you like a speck on a white track, lessening
-every moment. The blast blew so strong I could not stand. I sat down on
-the narrow ledge; I hushed the scared infant in my lap: you turned an
-angle of the [[Road|road]]: I bent forward to take a last look; the wall
-crumbled; I was shaken; the [[Child|child]] rolled from my knee, I lost my
-balance, fell, and woke.”

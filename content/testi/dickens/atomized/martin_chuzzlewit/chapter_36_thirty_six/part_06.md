@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 36: THIRTY SIX (part 6)"
+title: "Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,30 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_36_thirty_six/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_36_thirty_six/part_07">part 07 ›</a></div>
 </nav>
 
+
+‘I don’t know, I’m sure,’ rejoined the porter.
+
+‘Do you think you could have the goodness to ascertain?’ said Tom. He
+had quite a delicacy in offering the suggestion, for the possibility
+of such a step did not appear to present itself to the porter’s mind at
+all.
+
+The fact was that the porter in answering the gate-bell had, according
+to usage, rung the [[house]]-bell (for it is as [[Well|well]] to do these things in
+the Baronial style while you are about it), and that there the functions
+of his office had ceased. Being hired to open and shut the gate, and
+not to explain himself to strangers, he left this little incident to be
+developed by the footman with the tags, who, at this juncture, called
+out from the door steps:
+
+‘Hollo, there! wot are you up to? This way, young man!’
+
+‘Oh!’ said Tom, hurrying towards him. ‘I didn’t observe that there was
+anybody else. Pray is Miss Pinch at [[Home|home]]?’
+
+‘She’s IN,’ replied the footman. As much as to say to Tom: ‘But if you
+think she has anything to do with the proprietorship of this place you
+had better abandon that idea.’
 
 ‘I wish to see her, if you please,’ said Tom.
 
@@ -118,43 +142,3 @@ observe any resemblance.’
 
 ‘Miss Pinch is always talking about her brother, when she ought to be
 engaged upon my [[Education|education]],’ sobbed the pupil.
-
-‘Sophia! Hold your tongue!’ observed the gentleman. ‘Sit down, if you
-please,’ addressing Tom.
-
-Tom sat down, looking from one face to another, in mute surprise.
-
-‘Remain here, if you please, Miss Pinch,’ pursued the gentleman, looking
-slightly over his shoulder.
-
-Tom interrupted him here, by rising to place a chair for his sister.
-Having done which he sat down again.
-
-‘I am glad you chance to have called to see your sister to-day, sir,’
-resumed the brass-and-copper founder. ‘For although I do not approve, as
-a principle, of any young person engaged in my family in the capacity
-of a governess, receiving visitors, it happens in this case to be [[Well|well]]
-timed. I am sorry to inform you that we are not at all satisfied with
-your sister.’
-
-‘We are very much DISsatisfied with her,’ observed the lady.
-
-‘I’d never say another lesson to Miss Pinch if I was to be beat to [[Death|death]]
-for it!’ sobbed the pupil.
-
-‘Sophia!’ cried her father. ‘Hold your tongue!’
-
-‘Will you allow me to inquire what your ground of dissatisfaction is?’
-asked Tom.
-
-‘Yes,’ said the gentleman, ‘I will. I don’t recognize it as a right;
-but I will. Your sister has not the slightest innate power of commanding
-respect. It has been a constant source of difference between us.
-Although she has been in this family for some [[Time|time]], and although the
-young lady who is now present has almost, as it were, grown up under
-her tuition, that young lady has no respect for her. Miss Pinch has
-been perfectly unable to command my daughter’s respect, or to win my
-daughter’s confidence. Now,’ said the gentleman, allowing the palm of
-his hand to fall gravely down upon the table: ‘I maintain that there is
-something radically wrong in that! You, as her brother, may be disposed
-to deny it--’

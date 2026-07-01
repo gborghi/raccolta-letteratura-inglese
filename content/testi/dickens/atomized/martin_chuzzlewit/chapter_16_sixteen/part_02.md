@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 16: SIXTEEN (part 2)"
+title: "Martin Chuzzlewit — Chapter 16: SIXTEEN (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,8 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_16_sixteen/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_16_sixteen/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘Really,’ said Martin, ‘I don’t know. Yes. I think I was.’
 
 The gentleman glanced at him with a knowing look, and said he liked his
 policy. It was natural, he said, and it pleased him as a philosopher to
@@ -153,10 +155,3 @@ Englishman, to show him the town and to introduce him, if such were his
 proceedings (he said), he would beseech the [[Honour|honour]] of his company at the
 office of the Rowdy Journal, to partake of a bottle of champagne of his
 own importation.
-
-All this was so extremely kind and hospitable, that Martin, though it
-was quite early in the morning, readily acquiesced. So, instructing
-Mark, who was deeply engaged with his friend and her three children,
-that when he had done assisting them, and had cleared the baggage,
-he was to wait for further orders at the Rowdy Journal Office, Martin
-accompanied his new friend on shore.

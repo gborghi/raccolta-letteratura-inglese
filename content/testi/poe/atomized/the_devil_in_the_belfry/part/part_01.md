@@ -1,5 +1,5 @@
 ---
-title: "[[The Devil in the Belfry]] (part 1)"
+title: "The Devil in the Belfry (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-devil-in-the-belfry-(poe)"
@@ -197,7 +197,3 @@ What o’[[Clock|clock]] is it?—_Old Saying_.
       [[Time|time]]-piece, which makes a prodigious ticking, on the top in the
 
       middle, with a flower-pot containing a cabbage standing on each
-
-      extremity by way of outrider. Between each cabbage and the
-
-      [[Time|time]]-piece, again, is a little China man having a large stomach

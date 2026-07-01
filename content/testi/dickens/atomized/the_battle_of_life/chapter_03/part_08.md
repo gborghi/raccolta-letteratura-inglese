@@ -14,6 +14,28 @@ tags:
 </nav>
 
 
+Her sister looked into her face, attentively.  She seemed in [[Doubt|doubt]].
+
+‘I saw Mr. Warden, and confided in his [[Honour|honour]]; charged him with my
+secret, on the eve of his and my departure.  He kept it.  Do you
+understand me, dear?’
+
+Grace looked confusedly upon her.  She scarcely seemed to hear.
+
+‘My [[Love|love]], my sister!’ said Marion, ‘recall your thoughts a moment; listen
+to me.  Do not look so strangely on me.  There are countries, dearest,
+where those who would abjure a misplaced passion, or would strive,
+against some cherished feeling of their hearts and conquer it, retire
+into a hopeless [[Solitude|solitude]], and close the world against themselves and
+worldly loves and hopes for ever.  When women do so, they assume that
+name which is so dear to you and me, and call each other Sisters.  But,
+there may be sisters, Grace, who, in the broad world out of doors, and
+underneath its free sky, and in its crowded places, and among its busy
+life, and trying to assist and cheer it and to do some good,—learn the
+same lesson; and who, with hearts still fresh and young, and open to all
+happiness and means of happiness, can say the battle is long past, the
+victory long won.  And such a one am I!  You understand me now?’
+
 Still she looked fixedly upon her, and made no reply.
 
 ‘Oh Grace, dear Grace,’ said Marion, clinging yet more tenderly and
@@ -110,39 +132,3 @@ but Mr. Craggs was a man who could endure to be convinced, sir.  He was
 always open to conviction.  If he were open to conviction, now, I—this is
 weakness.  Mrs. Snitchey, my dear,’—at his summons that lady appeared
 from behind the door, ‘you are among old friends.’
-
-Mrs. Snitchey having delivered her congratulations, took her husband
-aside.
-
-‘One moment, Mr. Snitchey,’ said that lady.  ‘It is not in my [[Nature|nature]] to
-rake up the ashes of the departed.’
-
-‘No, my dear,’ returned her husband.
-
-‘Mr. Craggs is—’
-
-‘Yes, my dear, he is deceased,’ said Snitchey.
-
-‘But I ask you if you recollect,’ pursued his wife, ‘that evening of the
-ball?  I only ask you that.  If you do; and if your [[Memory|memory]] has not
-entirely failed you, Mr. Snitchey; and if you are not absolutely in your
-dotage; I ask you to connect this [[Time|time]] with that—to remember how I begged
-and prayed you, on my knees—’
-
-‘Upon your knees, my dear?’ said Mr. Snitchey.
-
-‘Yes,’ said Mrs. Snitchey, confidently, ‘and you know it—to beware of
-that man—to observe his eye—and now to tell me whether I was right, and
-whether at that moment he knew [[Secrets|secrets]] which he didn’t choose to tell.’
-
-‘Mrs. Snitchey,’ returned her husband, in her ear, ‘Madam.  Did you ever
-observe anything in _my_ eye?’
-
-‘No,’ said Mrs. Snitchey, sharply.  ‘Don’t flatter yourself.’
-
-‘Because, Madam, that [[Night|night]],’ he continued, twitching her by the sleeve,
-‘it happens that we both knew [[Secrets|secrets]] which we didn’t choose to tell, and
-both knew just the same professionally.  And so the less you say about
-such things the better, Mrs. Snitchey; and take this as a warning to have
-wiser and more charitable eyes another [[Time|time]].  Miss Marion, I brought a
-friend of yours along with me.  Here!  Mistress!’

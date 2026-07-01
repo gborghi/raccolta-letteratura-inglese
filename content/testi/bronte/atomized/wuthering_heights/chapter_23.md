@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 23"
+title: "Wuthering Heights — Chapter 23"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/wuthering-heights-(bronte)"
@@ -306,7 +306,7 @@ after we were used to each other? Don’t you like him, Ellen?”
 
 “Like him!” I exclaimed. “The worst-tempered bit of a sickly slip that
 ever struggled into its teens. Happily, as Mr. [[Heathcliff]] conjectured,
-he’ll not win twenty. I [[Doubt|doubt]] whether he’ll see [[spring]], indeed. And
+he’ll not win twenty. I [[Doubt|doubt]] whether he’ll see [[Spring|spring]], indeed. And
 small loss to his family whenever he drops off. And lucky it is for us
 that his father took him: the kinder he was treated, the more tedious
 and selfish he’d be. I’m glad you have no chance of having him for a

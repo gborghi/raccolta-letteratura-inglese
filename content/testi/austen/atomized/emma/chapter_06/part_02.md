@@ -1,5 +1,5 @@
 ---
-title: "[[Emma]] — Chapter 6 (part 2)"
+title: "Emma — Chapter 6 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/emma-(austen)"
@@ -28,7 +28,7 @@ station over the mantelpiece.
 
 The sitting began; and Harriet, smiling and blushing, and afraid of not
 keeping her attitude and countenance, presented a very sweet mixture of
-youthful expression to the steady eyes of the [[artist]]. But there was no
+youthful expression to the steady eyes of the [[Artist|artist]]. But there was no
 doing any thing, with Mr. Elton fidgeting behind her and watching every
 touch. She gave him credit for stationing himself where he might gaze
 and gaze again without offence; but was really obliged to put an end to

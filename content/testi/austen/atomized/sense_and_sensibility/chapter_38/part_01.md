@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 38 (part 1)"
+title: "Sense and Sensibility — Chapter 38 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -231,7 +231,3 @@ afraid Mr. Ferrars would be off; and when Edward did not come near us
 for three days, I could not tell what to think myself; and I believe in
 
 my heart Lucy gave it up all for lost; for we came away from your
-
-brother’s Wednesday, and we saw nothing of him not all [[thursday|Thursday]],
-
-Friday, and Saturday, and did not know what was become of him. Once

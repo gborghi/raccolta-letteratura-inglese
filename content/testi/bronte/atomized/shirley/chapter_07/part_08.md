@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 7 (part 8)"
+title: "Shirley — Chapter 7 (part 8)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,54 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_07/part_07">‹ part 07</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_07/part_09">part 09 ›</a></div>
 </nav>
 
+
+Mary; though, as Mary was the most sensible, the least coquettish, of
+
+the three, to her the elderly widower was the least attentive. At heart
+
+he could not abide sense in women. He liked to see them as silly, as
+
+light-headed, as vain, as open to ridicule as possible, because they
+
+were then in reality what he held them to be, and wished them to
+
+be--inferior, toys to play with, to amuse a vacant hour, and to be
+
+thrown away.
+
+
+
+Hannah was his favourite. Harriet, though beautiful, egotistical, and
+
+[[Self|self]]-satisfied, was not quite weak enough for him. She had some genuine
+
+[[Self|self]]-respect amidst much false [[Pride|pride]], and if she did not talk like an
+
+oracle, neither would she babble like one crazy; she would not permit
+
+herself to be treated quite as a doll, a [[Child|child]], a plaything; she
+
+expected to be bent to like a [[Queen|queen]].
+
+
+
+Hannah, on the contrary, demanded no respect, only flattery. If her
+
+admirers only _told_ her that she was an angel, she would let them
+
+_treat_ her like an idiot. So very credulous and frivolous was she, so
+
+very silly did she become when besieged with attention, flattered and
+
+admired to the proper degree, that there were moments when Helstone
+
+actually felt tempted to commit matrimony a second [[Time|time]], and to try the
+
+experiment of taking her for his second helpmeet; but fortunately the
+
+salutary recollection of the _ennuis_ of his first [[Marriage|marriage]], the
+
+impression still left on him of the weight of the millstone he had once
 
 worn round his neck, the fixity of his feelings respecting the
 
@@ -161,51 +209,3 @@ _Con amore_ he went through the whole business of begging, praying,
 resisting excuses, explaining away difficulties, and at last succeeded
 
 in persuading Miss Harriet to allow herself to be led to the instrument.
-
-Then out came the pieces of his flute (he always carried them in his
-
-pocket, as unfailingly as he carried his handkerchief). They were
-
-screwed and arranged, Malone and Donne meanwhile herding together and
-
-sneering at him, which the little man, glancing over his shoulder, saw,
-
-but did not heed at all. He was persuaded their sarcasm all arose from
-
-envy. They could not accompany the ladies as he could; he was about to
-
-enjoy a triumph over them.
-
-
-
-The triumph began. Malone, much chagrined at hearing him pipe up in most
-
-superior style, determined to earn distinction too, if possible, and
-
-all at once assuming the character of a swain (which character he had
-
-endeavoured to enact once or twice before, but in which he had not
-
-hitherto met with the [[success]] he doubtless opined his merits deserved),
-
-approached a sofa on which Miss Helstone was seated, and depositing his
-
-great Irish frame near her, tried his hand (or rather tongue) at a fine
-
-speech or two, accompanied by grins the most extraordinary and
-
-incomprehensible. In the course of his efforts to render himself
-
-agreeable, he contrived to possess himself of the two long sofa cushions
-
-and a square one; with which, after [[rolling]] them about for some [[Time|time]]
-
-with strange gestures, he managed to erect a sort of barrier between
-
-himself and the object of his attentions. Caroline, quite willing that
-
-they should be sundered, soon devised an excuse for stepping over to the
-
-opposite side of the room, and taking up a position beside Mrs. Sykes,
-
-of which good lady she entreated some instruction in a new stitch in

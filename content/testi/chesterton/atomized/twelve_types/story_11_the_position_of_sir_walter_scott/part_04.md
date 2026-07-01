@@ -14,6 +14,32 @@ tags:
 </nav>
 
 
+think.
+
+Of the faults of Scott as an [[artist]] it is not very necessary to speak,
+
+for faults are generally and easily pointed out, while there is yet no
+
+adequate valuation of the varieties and contrasts of virtue. We have
+
+compiled a complete botanical classification of the weeds in the
+
+poetical [[Garden|garden]], but the [[Flowers|flowers]] still flourish neglected and nameless.
+
+It is true, for example, that Scott had an incomparably stiff and
+
+pedantic way of dealing with his heroines: he made a lively girl of
+
+eighteen refuse an offer in the language of Dr Johnson. To him, as to
+
+most men of his [[Time|time]], woman was not an individual, but an
+
+institution--a toast that was drunk some [[Time|time]] after that of Church and
+
+[[King]]. But it is far better to consider the difference rather as a
+
+special merit, in that he stood for all those clean and bracing shocks
+
 of incident which are untouched by passion or weakness, for a certain
 
 breezy bachelorhood, which is almost essential to the literature of
@@ -36,29 +62,9 @@ strange old world which is as confused and as indefensible and as
 
 inspiring and as healthy as he.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 End of the Project Gutenberg EBook of Twelve Types, by G.K. Chesterton
 
-
-
 *** END OF THIS PROJECT GUTENBERG EBOOK TWELVE TYPES ***
-
-
 
 ***** This file should be named 12491.txt or 12491.zip *****
 
@@ -66,21 +72,13 @@ This and all associated files of various formats will be found in:
 
         http://www.gutenberg.net/1/2/4/9/12491/
 
-
-
 Produced by Robert Shimmin, Stephen [[Hope]] and the Online Distributed
 
 Proofreading Team.
 
-
-
-
-
 Updated editions will replace the previous one--the old editions
 
 will be renamed.
-
-
 
 Creating the works from public domain print editions means that no
 
@@ -114,21 +112,11 @@ subject to the trademark license, especially commercial
 
 redistribution.
 
-
-
-
-
-
-
 *** START: FULL LICENSE ***
-
-
 
 THE FULL PROJECT GUTENBERG LICENSE
 
 PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-
 
 To protect the Project Gutenberg-tm mission of promoting the free
 
@@ -142,15 +130,9 @@ Gutenberg-tm License (available with this file or online at
 
 http://gutenberg.net/license).
 
-
-
-
-
 Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
 
 electronic works
-
-
 
 1.A.  By reading or using any part of this Project Gutenberg-tm
 
@@ -172,8 +154,6 @@ terms of this agreement, you may obtain a refund from the person or
 
 entity to whom you paid the fee as set forth in paragraph 1.E.8.
 
-
-
 1.B.  "Project Gutenberg" is a registered trademark.  It may only be
 
 used on or associated in any way with an electronic work by people who
@@ -191,8 +171,6 @@ Gutenberg-tm electronic works if you follow the terms of this agreement
 and help preserve free future access to Project Gutenberg-tm electronic
 
 works.  See paragraph 1.E below.
-
-
 
 1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
 
@@ -221,35 +199,3 @@ this agreement for keeping the Project Gutenberg-tm name associated with
 the work.  You can easily comply with the terms of this agreement by
 
 keeping this work in the same format with its attached full Project
-
-Gutenberg-tm License when you share it without charge with others.
-
-
-
-1.D.  The copyright laws of the place where you are located also govern
-
-what you can do with this work.  Copyright laws in most countries are in
-
-a constant state of change.  If you are outside the United States, check
-
-the laws of your country in addition to the terms of this agreement
-
-before downloading, copying, displaying, performing, distributing or
-
-creating derivative works based on this work or any other Project
-
-Gutenberg-tm work.  The Foundation makes no representations concerning
-
-the copyright status of any work in any country outside the United
-
-States.
-
-
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-
-
-1.E.1.  The following sentence, with active links to, or other immediate
-
-access to, the full Project Gutenberg-tm License must appear prominently

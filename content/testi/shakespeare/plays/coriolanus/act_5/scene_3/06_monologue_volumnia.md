@@ -1,5 +1,5 @@
 ---
-title: "[[Coriolanus]] — Act V, Scene 3 — monologue ([[Volumnia|VOLUMNIA]]) [6]"
+title: "Coriolanus — Act V, Scene 3 — monologue (VOLUMNIA) [6]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/coriolanus-(shakespeare)"

@@ -1,5 +1,5 @@
 ---
-title: "[[TheAppOfTyranny]] — Chapter 2 (part 1)"
+title: "TheAppOfTyranny — Chapter 2 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/theappoftyranny-(chesterton)"
@@ -16,13 +16,7 @@ tags:
 
 II
 
-
-
 THE REFUSAL OF RECIPROCITY
-
-
-
-
 
 In the last summary I suggested that Barbarism, as we mean it, is not mere
 
@@ -43,8 +37,6 @@ necessity" of not respecting it on Tuesday. In short, he is like a [[Child|child
 who at the end of all reasonable explanations and reminders of admitted
 
 arrangements, has no answer except "But I _want_ to."
-
-
 
 There is another idea in human arrangements so fundamental as to be
 
@@ -77,8 +69,6 @@ on Rhine; and what a shame it would be if any one took their own little
 [[River|river]] away from them. That is what I mean by not being reciprocal: and you
 
 will find it in all that they do: as in all that is done by savages.
-
-
 
 Here, again, it is very necessary to avoid confusing this [[Soul|soul]] of the
 
@@ -152,8 +142,6 @@ in [[Truth|truth]] they could not play at any game; for the essence of every gam
 
 that the rules are the same on both sides.
 
-
-
 But taking every German institution in turn, the case is the same; and it
 
 is not a case of mere bloodshed or military bravado. The duel, for
@@ -187,7 +175,3 @@ German officers, or even to the broadsword combats that are conventional
 among the German students. I do not see why a young Prussian should not
 
 have scars all over his face if he likes them; nay, they are often the
-
-redeeming points of interest on an otherwise somewhat unenlightening
-
-countenance. The duel may be defended; the sham duel may be defended.

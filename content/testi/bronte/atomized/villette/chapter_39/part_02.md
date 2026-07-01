@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 37 (part 2)"
+title: "Villette — Chapter 37 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_39/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_39/part_03">part 03 ›</a></div>
 </nav>
 
+
+“But ours, Lucy, is a beautiful life, or it will be; and you shall
+share it.”
+
+“I shall share no man’s or woman’s life in this world, as you
+understand sharing. I think I have one friend of my own, but am not
+sure; and till I _am_ sure, I live solitary.”
 
 “But [[Solitude|solitude]] is sadness.”
 
@@ -141,20 +148,3 @@ conduct, and connection. Would nothing serve him but my Polly?”
 
 “If he had never seen your ‘Polly,’ others might and would have pleased
 him—your niece, Miss Fanshawe, for instance.”
-
-“Ah! I would have given him Ginevra with all my heart; but Polly!—I
-can’t let him have her. No—I can’t. He is not her equal,” he affirmed,
-rather gruffly. “In what particular is he her match? They talk of
-fortune! I am not an avaricious or interested man, but the world thinks
-of these things—and Polly will be rich.”
-
-“Yes, that is known,” said I: “all [[Villette]] knows her as an heiress.”
-
-“Do they talk of my little girl in that light?”
-
-“They do, sir.”
-
-He fell into deep thought. I ventured to say, “Would you, sir, think
-any one [[Paulina]]’s match? Would you prefer any other to Dr. Bretton? Do
-you think higher rank or more wealth would make much difference in your
-feelings towards a future son-in-law?”

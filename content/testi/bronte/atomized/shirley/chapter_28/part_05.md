@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 28 (part 5)"
+title: "Shirley — Chapter 28 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,38 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_28/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_28/part_06">part 06 ›</a></div>
 </nav>
 
+
+[[Silence|silence]] would have been the result; but he looked calm, strong,
+
+trustworthy.
+
+
+
+"I had better tell _you_ than my aunt," she said, "or than my cousins,
+
+or my uncle. They would all make such a bustle, and it is that very
+
+bustle I dread--the alarm, the flurry, the _éclat_. In short, I never
+
+liked to be the centre of a small domestic whirlpool. You can bear a
+
+little shock--eh?"
+
+
+
+"A great one, if necessary."
+
+
+
+Not a muscle of the man's frame moved, and yet his large heart beat fast
+
+in his deep chest. What was she going to tell him? Was irremediable
+
+mischief done?
+
+
+
+"Had I thought it right to go to you, I would never have made a secret
 
 of the matter one moment," she continued. "I would have told you at
 
@@ -46,7 +78,7 @@ reassured her.
 
 
 
-"Great effects may [[spring]] from trivial causes," she remarked, as she
+"Great effects may [[Spring|spring]] from trivial causes," she remarked, as she
 
 loosened a bracelet from her wrist. Then, unfastening her sleeve, and
 
@@ -273,49 +305,3 @@ voice, "how is it, then?"
 
 
 "You do know, but you won't speak. All must be locked up in yourself."
-
-
-
-"Because it is not worth sharing."
-
-
-
-"Because nobody can give the high price you require for your confidence.
-
-Nobody is rich enough to purchase it. Nobody has the [[Honour|honour]], the
-
-intellect, the power you demand in your adviser. There is not a shoulder
-
-in England on which you would rest your hand for support, far less a
-
-bosom which you would permit to pillow your head. Of course you must
-
-live [[Alone|alone]]."
-
-
-
-"I _can_ live [[Alone|alone]], if need be. But the question is not how to live,
-
-but how to die [[Alone|alone]]. That strikes me in a more grisly light."
-
-
-
-"You apprehend the effects of the virus? You anticipate an indefinitely
-
-threatening, dreadful doom?"
-
-
-
-She bowed.
-
-
-
-"You are very nervous and womanish."
-
-
-
-"You complimented me two minutes since on my powerful mind."
-
-
-
-"You are very womanish. If the whole affair were coolly examined and

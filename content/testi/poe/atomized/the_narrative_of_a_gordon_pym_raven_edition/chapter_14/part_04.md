@@ -14,6 +14,16 @@ tags:
 </nav>
 
 
+      encampments, when seen from a distance, is exceedingly singular.
+
+      The whole atmosphere just above the settlement is darkened with
+
+      the immense number of the albatross (mingled with the smaller
+
+      tribes) which are continually hovering over it, either going to
+
+      the ocean or returning [[Home|home]]. At the same [[Time|time]] a crowd of penguins
+
       are to be observed, some passing to and fro in the narrow alleys,
 
       and some marching with the military strut so peculiar to them,

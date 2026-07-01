@@ -14,6 +14,35 @@ tags:
 </nav>
 
 
+The point is here, however, that the Egyptian [[government]],
+whether pontifical or royal, found it more and more necessary
+to establish communication; and there always went with communication
+a certain element of coercion.  It is not necessarily an indefensible
+thing that the state grew more despotic as it grew more civilised;
+it is arguable that it had to grow more despotic in order to grow
+more civilised.  That is the argument for autocracy in every age;
+and the interest lies in seeing it illustrated in the earliest age.
+But it is emphatically not true that it was most despotic
+in the earliest age and grew more liberal in a later age;
+the practical process of [[history]] is exactly the reverse.
+It is not true that the tribe began in the extreme of terror of
+the Old Man and his seat and spear; it is probable, at least in [[Egypt]],
+that the Old Man was rather a New Man armed to attack new conditions.
+His spear grew longer and longer and his throne [[Rose|rose]] higher
+and higher, as [[Egypt]] [[Rose|rose]] into a complex and complete civilisation.
+That is what I mean by saying that the [[history]] of the Egyptian
+territory is in this the [[history]] of the earth; and directly denies
+the vulgar assumption that terrorism can only come at the beginning
+and cannot come at the end.  We do not know what was the very first
+condition of the more or less feudal amalgam of land owners,
+peasants and slaves in the little commonwealths beside the Nile;
+but it may have been a peasantry of an even more popular sort.
+What we do know is that it was by experience and [[Education|education]] that
+little commonwealths lose their liberty; that absolute sovereignty
+is something not merely ancient but rather relatively modern;
+and it is at the end of the path called progress that men return
+to the [[King|king]].
+
 [[Egypt]] exhibits, in that brief record of its remotest beginnings,
 the primary problem of liberty and civilisation.
 It is the fact that men actually lose variety by complexity.
@@ -88,28 +117,3 @@ Presumably in prehistoric times, and certainly in historic times,
 those wanderers went westward to waste whatever they could find.
 The last [[Time|time]] they came they found Babylon vanished; but that was
 in historic times and the name of their leader was Mahomet.
-
-Now it is worth while to pause upon that story because, as has
-been suggested, it directly contradicts the impression still
-current that nomadism is merely a prehistoric thing and social
-settlement a comparatively recent thing.  There is nothing to show
-that the Babylonians had ever wandered; there is very little
-to show that the tribes of the [[Desert|desert]] ever settled down.
-Indeed it is probable that this notion of a nomadic stage followed
-by a static stage has already been abandoned by the sincere
-and genuine scholars to whose researches we all owe so much.
-But I am not at issue in this book with sincere and genuine scholars,
-but with a vast and vague public opinion which has been prematurely
-spread from certain imperfect investigations, and which has made
-fashionable a false notion of the whole [[history]] of humanity.
-It is the whole vague notion that a monkey evolved into a man and in the
-same way a barbarian evolved into a civilised man and therefore at every
-stage we have to look back to barbarism and forward to civilisation.
-Unfortunately this notion is in a [[Double|double]] sense entirely in the air.
-It is an atmosphere in which men live rather than a thesis
-which they defend.  Men in that mood are more easily answered
-by objects than by theories; and it will be [[Well|well]] if anyone tempted
-to make that assumption, in some trivial turn of talk or writing,
-can be checked for a moment by shutting his eyes and seeing for
-an instant, vast and vaguely crowded, like a populous precipice,
-the [[Wonder|wonder]] of the Babylonian wall.

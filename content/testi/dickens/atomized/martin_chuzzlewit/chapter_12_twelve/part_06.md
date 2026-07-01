@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 12: TWELVE (part 6)"
+title: "Martin Chuzzlewit — Chapter 12: TWELVE (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,33 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_12_twelve/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_12_twelve/part_07">part 07 ›</a></div>
 </nav>
 
+
+‘You’re not asleep yet, are you, Tom?’
+
+‘Bless you, no! not I. I was thinking of you,’ replied Tom, opening the
+door. ‘Come in.’
+
+‘I am not going to detail you,’ said John; ‘but I have forgotten all the
+evening a little commission I took upon myself; and I am afraid I may
+forget it again, if I fail to discharge it at once. You know a Mr Tigg,
+Tom, I believe?’
+
+‘Tigg!’ cried Tom. ‘Tigg! The gentleman who borrowed some money of me?’
+
+‘Exactly,’ said John Westlock. ‘He begged me to present his compliments,
+and to return it with many thanks. Here it is. I suppose it’s a good
+one, but he is rather a doubtful kind of customer, Tom.’
+
+Mr Pinch received the little piece of gold with a face whose brightness
+might have shamed the metal; and said he had no [[Fear|fear]] about that. He
+was glad, he added, to find Mr Tigg so prompt and honourable in his
+dealings; very glad.
+
+‘Why, to tell you the [[Truth|truth]], Tom,’ replied his friend, ‘he is not always
+so. If you’ll take my advice, you’ll avoid him as much as you can, in
+the event of your encountering him again. And by no means, Tom--pray
+bear this in mind, for I am very serious--by no means lend him money any
+more.’
 
 ‘Aye, aye!’ said Tom, with his eyes wide open.
 
@@ -109,24 +136,3 @@ much to his own disadvantage always. This mood of his depressed Tom; and
 neither that morning’s parting, nor yesterday’s dinner, helped to mend
 the matter. So the hours dragged on heavily enough; and they were glad
 to go to bed early.
-
-They were not quite so glad to get up again at half-past four o’[[Clock|clock]],
-in all the shivering discomfort of a dark [[Winter|winter]]’s morning; but they
-turned out punctually, and were at the finger-post full half-an-hour
-before the appointed [[Time|time]]. It was not by any means a lively morning, for
-the sky was black and cloudy, and it rained hard; but Martin said there
-was some satisfaction in seeing that brute of a [[Horse|horse]] (by this, he meant
-Mr Pecksniff’s Arab steed) getting very wet; and that he rejoiced, on
-his account, that it rained so fast. From this it may be inferred that
-Martin’s spirits had not improved, as indeed they had not; for while he
-and Mr Pinch stood waiting under a hedge, looking at the rain, the gig,
-the cart, and its reeking driver, he did nothing but grumble; and, but
-that it is indispensable to any dispute that there should be two parties
-to it, he would certainly have picked a quarrel with Tom.
-
-At length the noise of wheels was faintly audible in the distance and
-presently the coach came splashing through the mud and mire with one
-miserable outside passenger crouching down among wet straw, under a
-saturated umbrella; and the coachman, guard, and horses, in a fellowship
-of dripping wretchedness. Immediately on its stopping, Mr Pecksniff let
-down the [[Window|window]]-glass and hailed [[Tom Pinch]].

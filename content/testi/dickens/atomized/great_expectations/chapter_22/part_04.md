@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 22 (part 4)"
+title: "Great Expectations — Chapter 22 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_22/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_23/part_01">part 01 ›</a></div>
 </nav>
 
+
+It struck me as a singular implication that you couldn’t be out of a
+counting-[[house]], you know, and look about you; but I silently deferred
+to his experience.
 
 “Then the [[Time|time]] comes,” said Herbert, “when you see your opening. And
 you go in, and you swoop upon it and you make your capital, and then

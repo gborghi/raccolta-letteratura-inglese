@@ -14,6 +14,24 @@ tags:
 </nav>
 
 
+It would be impossible for any man, I care not what his form of speech
+might be, to express more affection than the dealer in curiosities did,
+in these four words. I waited for him to speak again, but he rested his
+chin upon his hand and shaking his head twice or thrice fixed his eyes
+upon the [[Fire|fire]].
+
+While we were sitting thus in [[Silence|silence]], the door of the closet opened,
+and the [[Child|child]] returned, her light brown hair hanging loose about her
+neck, and her face flushed with the haste she had made to rejoin us.
+She busied herself immediately in preparing supper, and while she was
+thus engaged I remarked that the old man took an opportunity of
+observing me more closely than he had done yet. I was surprised to see
+that all this [[Time|time]] everything was done by the [[Child|child]], and that there
+appeared to be no other persons but ourselves in the [[house]]. I took
+advantage of a moment when she was absent to venture a hint on this
+point, to which the old man replied that there were few grown persons
+as trustworthy or as careful as she.
+
 ‘It always grieves me,’ I observed, roused by what I took to be his
 selfishness, ‘it always grieves me to contemplate the initiation of
 children into the ways of life, when they are scarcely more than
@@ -115,29 +133,3 @@ breast.
 and glancing towards me. ‘Is it because thou know’st I [[Love|love]] thee, and
 dost not like that I should seem to [[Doubt|doubt]] it by my question? [[Well]],
 [[Well|well]]--then let us say I [[Love|love]] thee dearly.’
-
-‘Indeed, indeed you do,’ replied the [[Child|child]] with great earnestness, ‘Kit
-knows you do.’
-
-Kit, who in despatching his bread and meat had been swallowing
-two-thirds of his knife at every mouthful with the coolness of a
-juggler, stopped short in his operations on being thus appealed to, and
-bawled ‘Nobody isn’t such a [[Fool|fool]] as to say he doosn’t,’ after which he
-incapacitated himself for further conversation by taking a most
-prodigious sandwich at one bite.
-
-‘She is poor now’--said the old man, patting the [[Child|child]]’s cheek, ‘but I
-say again that the [[Time|time]] is coming when she shall be rich. It has been a
-long [[Time|time]] coming, but it must come at last; a very long [[Time|time]], but it
-surely must come. It has come to other men who do nothing but waste and
-riot. When WILL it come to me!’
-
-‘I am very happy as I am, grandfather,’ said the [[Child|child]].
-
-‘Tush, tush!’ returned the old man, ‘thou dost not know--how should’st
-thou!’ then he muttered again between his teeth, ‘The [[Time|time]] must come, I
-am very sure it must. It will be all the better for coming late’; and
-then he sighed and fell into his former musing state, and still holding
-the [[Child|child]] between his knees appeared to be insensible to everything
-around him. By this [[Time|time]] it wanted but a few minutes of midnight and I
-[[Rose|rose]] to go, which recalled him to himself.

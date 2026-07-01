@@ -1,5 +1,5 @@
 ---
-title: "The Winters Tale — Act I, Scene 2 — exchange ([[Polixenes|POLIXENES]]) [2]"
+title: "The Winters Tale — Act I, Scene 2 — exchange (POLIXENES) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-winter’s-tale-(shakespeare)"

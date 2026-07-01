@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 19 (part 1)"
+title: "Persuasion — Chapter 19 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -215,13 +215,3 @@ was offering his services to her.
 “I am much obliged to you,” was her answer, “but I am not going with
 
 them. The carriage would not accommodate so many. I walk: I prefer
-
-walking.”
-
-
-
-“But it rains.”
-
-
-
-“Oh! very little. Nothing that I regard.”

@@ -1,5 +1,5 @@
 ---
-title: "[[Agnes Grey]]"
+title: "Agnes Grey"
 author: "Bronte"
 unitType: work
 parentWork: "works/agnes-grey-(bronte)"
@@ -2897,7 +2897,7 @@ him and rustling against the pew doors, mount the pulpit like a
 conqueror ascending his triumphal car; then, sinking on the velvet
 cushion in an attitude of studied grace, remain in silent prostration
 for a certain [[Time|time]]; then mutter over a Collect, and gabble through the
-Lord’s [[Prayer]], rise, draw off one bright lavender glove, to give the
+Lord’s [[prayer|Prayer]], rise, draw off one bright lavender glove, to give the
 congregation the benefit of his sparkling rings, lightly pass his
 fingers through his [[Well|well]]-curled hair, flourish a cambric handkerchief,
 recite a very short passage, or, perhaps, a mere phrase of Scripture,
@@ -3209,7 +3209,7 @@ It’s your duty to go there as often as you can. If you want comfort,
 you must seek it in the path of duty,’—an’ a deal more he said, but I
 cannot remember all his fine words. However, it all came to this, that
 I was to come to church as oft as ever I could, and bring my
-[[Prayer|prayer]]-book with me, an’ read up all the sponsers after the clerk, an’
+[[prayer]]-book with me, an’ read up all the sponsers after the clerk, an’
 stand, an’ kneel, an’ sit, an’ do all as I should, and take the Lord’s
 Supper at every opportunity, an’ hearken his sermons, and Maister
 Bligh’s, an’ it ’ud be all right: if I went on doing my duty, I should
@@ -3245,9 +3245,9 @@ wasn’t going to tell you about my eyes, I was talking about my trouble
 o’ mind;—and to tell the [[Truth|truth]], Miss Grey, I don’t think it was anyways
 eased by coming to church—nought to speak on, at least: I like got my
 health better; but that didn’t mend my [[Soul|soul]]. I hearkened and hearkened
-the ministers, and read an’ read at my [[Prayer|prayer]]-book; but it was all like
+the ministers, and read an’ read at my [[prayer]]-book; but it was all like
 sounding brass and a tinkling cymbal: the sermons I couldn’t
-understand, an’ th’ [[Prayer|prayer]]-book only served to show me how wicked I
+understand, an’ th’ [[prayer]]-book only served to show me how wicked I
 was, that I could read such good words an’ never be no better for it,
 and oftens feel it a sore labour an’ a heavy task beside, instead of a
 blessing and a privilege as all good Christians does. It seemed like as
@@ -3430,7 +3430,7 @@ who, before the other’s arrival at Horton, had now and then paid him a
 visit; on which occasions he would always insist upon having the
 cottage-door kept open, to admit the fresh air for his own convenience,
 without considering how it might injure the sufferer; and having opened
-his [[Prayer|prayer]]-book and hastily read over a part of the Service for the
+his [[prayer]]-book and hastily read over a part of the Service for the
 Sick, would hurry away again: if he did not stay to administer some
 harsh rebuke to the afflicted wife, or to make some thoughtless, not to
 say heartless, observation, rather calculated to increase than diminish
@@ -3931,10 +3931,10 @@ pleasanter channel. Thus we proceeded up the park, and entered the
 hall; and as I ascended the stairs to my own chamber, I had but one
 thought within me: my heart was filled to overflowing with one single
 earnest wish. Having entered the room, and shut the door, I fell upon
-my knees and offered up a fervent but not impetuous [[Prayer|prayer]]: “Thy will
+my knees and offered up a fervent but not impetuous [[prayer]]: “Thy will
 be done,” I strove to say throughout; but, “Father, all things are
 possible with Thee, and may it be Thy will,” was sure to follow. That
-wish—that [[Prayer|prayer]]—both men and women would have scorned me for—“But,
+wish—that [[prayer]]—both men and women would have scorned me for—“But,
 Father, _Thou_ wilt _not_ despise!” I said, and felt that it was true.
 It seemed to me that another’s welfare was at least as ardently
 implored for as my own; nay, even _that_ was the principal object of my
@@ -6065,7 +6065,7 @@ however, if you will only come, I promise you shall be its governess as
 soon as it can speak; and you shall bring it up in the way it should
 go, and make a better woman of it than its mamma. And you shall see my
 poodle, too: a splendid little charmer imported from [[Paris]]: and two
-fine Italian paintings of great value—I forget the [[Artist|artist]]. Doubtless
+fine Italian paintings of great value—I forget the [[artist]]. Doubtless
 you will be able to discover prodigious beauties in them, which you
 must point out to me, as I only admire by hearsay; and many elegant
 curiosities besides, which I purchased at Rome and elsewhere; and,

@@ -1,5 +1,5 @@
 ---
-title: "[[Thou Art the Man]] (part 6)"
+title: "Thou Art the Man (part 6)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/thou-art-the-man-(poe)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/thou_art_the_man/part/part_05">‹ part 05</a><span></span></div>
 </nav>
 
+
+      What he recounted was in substance this:—He followed his victim to
+      the vicinity of the pool; there shot his [[Horse|horse]] with a [[Pistol|pistol]]; despatched
+      its rider with the butt end; possessed himself of the pocket-book; and,
+      supposing the [[Horse|horse]] dead, dragged it with great labour to the brambles by
+      the pond. Upon his own beast he slung the corpse of Mr. Shuttleworthy, and
+      thus bore it to a secure place of concealment a long distance off through
+      the woods.
+
+      The waistcoat, the knife, the pocket-book, and bullet, had been placed by
+      himself where found, with the view of avenging himself upon Mr.
+      Pennifeather. He had also contrived the discovery of the stained
+      handkerchief and shirt.
 
       Toward the end of the [[Blood|blood]]-chilling recital the words of the guilty
       wretch faltered and grew hollow. When the record was finally exhausted, he

@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 27 (part 1)"
+title: "Shirley — Chapter 27 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_26/part_06">‹ part 06</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_27/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_26/part_07">‹ part 07</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_27/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -246,7 +246,7 @@ feel indifferent whether I am comprehended or not."
 
 
 
-"Any literary scrub, or shabby, whining [[Artist|artist]]."
+"Any literary scrub, or shabby, whining [[artist]]."
 
 
 
@@ -325,7 +325,3 @@ Fieldhead had of late been fast growing too hot to hold them both. The
 suave aunt could not reconcile them; the daughters froze at the view of
 
 their quarrels. [[Gertrude]] and [[Isabella]] whispered by the hour together in
-
-their dressing-room, and became chilled with decorous dread if they
-
-chanced to be left [[Alone|alone]] with their audacious cousin. But, as I have

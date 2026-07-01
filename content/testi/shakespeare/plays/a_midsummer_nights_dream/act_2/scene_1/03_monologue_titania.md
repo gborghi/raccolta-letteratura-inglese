@@ -1,5 +1,5 @@
 ---
-title: "A Midsummer Nights Dream — Act II, Scene 1 — monologue ([[Titania|TITANIA]]) [3]"
+title: "A Midsummer Nights Dream — Act II, Scene 1 — monologue (TITANIA) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/a-midsummer-night’s-dream-(shakespeare)"

@@ -14,6 +14,136 @@ tags:
 </nav>
 
 
+      distinguished from the medicinal leech by its blackness, and
+
+      especially by its writhing or vermicular motions, which very
+
+      nearly resemble those of a snake.”
+
+
+
+      I was speaking with the editor of the paper in question, upon the
+
+      topic of this remarkable accident, when it occurred to me to ask
+
+      how it happened that the name of the deceased had been given as
+
+      Bedlo.
+
+
+
+      “I presume,” I said, “you have authority for this spelling, but I
+
+      have always supposed the name to be written with an e at the
+
+      end.”
+
+
+
+      “Authority?—no,” he replied. “It is a mere typographical error.
+
+      The name is Bedlo with an e, all the world over, and I never knew
+
+      it to be spelt otherwise in my life.”
+
+
+
+      “Then,” said I mutteringly, as I turned upon my heel, “then
+
+      indeed has it come to pass that one [[Truth|truth]] is stranger than any
+
+      fiction—for Bedloe, without the e, what is it but Oldeb
+
+      conversed! And this man tells me that it is a typographical
+
+      error.”
+
+
+
+
+
+
+
+
+
+THE SPECTACLES
+
+
+
+
+
+      Many years ago, it was the fashion to ridicule the idea of “[[Love|love]]
+
+      at first sight;” but those who think, not less than those who
+
+      feel deeply, have always advocated its existence. Modern
+
+      discoveries, indeed, in what may be termed ethical magnetism or
+
+      magnetoesthetics, render it probable that the most natural, and,
+
+      consequently, the truest and most intense of the human affections
+
+      are those which arise in the heart as if by electric sympathy—in
+
+      a word, that the brightest and most enduring of the psychal
+
+      fetters are those which are riveted by a glance. The confession I
+
+      am about to make will add another to the already almost
+
+      innumerable instances of the [[Truth|truth]] of the position.
+
+
+
+      My story requires that I should be somewhat minute. I am still a
+
+      very young man—not yet twenty-two years of age. My name, at
+
+      present, is a very usual and rather plebeian one—Simpson. I say
+
+      “at present;” for it is only lately that I have been so
+
+      called—having legislatively adopted this surname within the last
+
+      year in order to receive a large inheritance left me by a distant
+
+      male relative, Adolphus Simpson, Esq. The bequest was conditioned
+
+      upon my taking the name of the testator,—the family, not the
+
+      Christian name; my Christian name is Napoleon Bonaparte—or, more
+
+      properly, these are my first and middle appellations.
+
+
+
+      I assumed the name, Simpson, with some reluctance, as in my true
+
+      patronym, Froissart, I felt a very pardonable [[Pride|pride]]—believing
+
+      that I could trace a descent from the immortal author of the
+
+      “Chronicles.” While on the subject of names, by the bye, I may
+
+      mention a singular coincidence of sound attending the names of
+
+      some of my immediate predecessors. My father was a Monsieur
+
+      Froissart, of [[Paris]]. His wife—my mother, whom he married at
+
+      fifteen—was a Mademoiselle Croissart, eldest daughter of
+
+      Croissart the banker, whose wife, again, being only sixteen when
+
+      married, was the eldest daughter of one Victor Voissart. Monsieur
+
+      Voissart, very singularly, had married a lady of similar name—a
+
+      Mademoiselle Moissart. She, too, was quite a [[Child|child]] when married;
+
+      and her mother, also, Madame Moissart, was only fourteen when led
+
       to the altar. These early marriages are usual in France. Here,
 
       however, are Moissart, Voissart, Croissart, and Froissart, all in
@@ -91,111 +221,3 @@ tags:
       myself by observing the audience, which consisted, in chief part,
 
       of the very elite of the [[City|city]]. Having satisfied myself upon this
-
-      point, I was about turning my eyes to the prima donna, when they
-
-      were arrested and riveted by a figure in one of the private boxes
-
-      which had escaped my observation.
-
-
-
-      If I live a thousand years, I can never forget the intense
-
-      emotion with which I regarded this figure. It was that of a
-
-      female, the most exquisite I had ever beheld. The face was so far
-
-      turned toward the stage that, for some minutes, I could not
-
-      obtain a view of it—but the form was divine; no other word can
-
-      sufficiently express its magnificent proportion—and even the term
-
-      “divine” seems ridiculously feeble as I write it.
-
-
-
-      The [[Magic|magic]] of a lovely form in woman—the necromancy of female
-
-      gracefulness—was always a power which I had found it impossible
-
-      to resist, but here was grace personified, incarnate, the beau
-
-      ideal of my wildest and most enthusiastic visions. The figure,
-
-      almost all of which the construction of the box permitted to be
-
-      seen, was somewhat above the medium height, and nearly
-
-      approached, without positively reaching, the majestic. Its
-
-      perfect fullness and tournure were delicious. The head, of which
-
-      only the back was visible, rivalled in outline that of the Greek
-
-      Psyche, and was rather displayed than concealed by an elegant cap
-
-      of _gaze äérienne_, which put me in mind of the _ventum textilem_
-
-      of Apuleius. The right arm hung over the balustrade of the box,
-
-      and thrilled every nerve of my frame with its exquisite symmetry.
-
-      Its upper portion was draperied by one of the loose open sleeves
-
-      now in fashion. This extended but little below the elbow. Beneath
-
-      it was worn an under one of some frail material, close-fitting,
-
-      and terminated by a cuff of rich lace, which fell gracefully over
-
-      the top of the hand, revealing only the delicate fingers, upon
-
-      one of which sparkled a diamond ring, which I at once saw was of
-
-      extraordinary value. The admirable roundness of the wrist was
-
-      [[Well|well]] set off by a bracelet which encircled it, and which also was
-
-      ornamented and clasped by a magnificent aigrette of
-
-      jewels—telling, in words that could not be mistaken, at once of
-
-      the wealth and fastidious taste of the wearer.
-
-
-
-      I gazed at this queenly apparition for at least half an hour, as
-
-      if I had been suddenly converted to stone; and, during this
-
-      period, I felt the full force and [[Truth|truth]] of all that has been said
-
-      or sung concerning “[[Love|love]] at first sight.” My feelings were
-
-      totally different from any which I had hitherto experienced, in
-
-      the presence of even the most celebrated specimens of female
-
-      loveliness. An unaccountable, and what I am compelled to consider
-
-      a magnetic, sympathy of [[Soul|soul]] for [[Soul|soul]], seemed to rivet, not only
-
-      my vision, but my whole powers of thought and feeling, upon the
-
-      admirable object before me. I saw—I felt—I knew that I was
-
-      deeply, madly, irrevocably in [[Love|love]]—and this even before seeing
-
-      the face of the person beloved. So intense, indeed, was the
-
-      passion that consumed me, that I really believe it would have
-
-      received little if any abatement had the features, yet unseen,
-
-      proved of merely ordinary character; so anomalous is the [[Nature|nature]]
-
-      of the only true [[Love|love]]—of the [[Love|love]] at first sight—and so little
-
-      really dependent is it upon the external conditions which only

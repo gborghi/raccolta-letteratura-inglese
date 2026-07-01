@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 44 (part 2)"
+title: "Bleak House — Chapter 44 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -115,9 +115,3 @@ crying then.
 “And so Esther, my dear, you are happy for life. Happy with your best
 friends, happy in your old [[Home|home]], happy in the power of doing a great
 deal of good, and happy in the undeserved [[Love|love]] of the best of men.”
-
-I thought, all at once, if my guardian had married some one else, how
-should I have felt, and what should I have done! That would have been
-a change indeed. It presented my life in such a new and blank form
-that I rang my housekeeping keys and gave them a kiss before I laid
-them down in their basket again.

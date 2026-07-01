@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 36 (part 6)"
+title: "Shirley — Chapter 36 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -12,6 +12,60 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_36/part_05">‹ part 05</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_36/part_07">part 07 ›</a></div>
 </nav>
+
+
+"'Will you be good to me, and never tyrannize?'
+
+
+
+"'Will you let me breathe, and not bewilder me? You must not smile at
+
+present. The world swims and changes round me. The sun is a dizzying
+
+scarlet blaze, the sky a violet vortex whirling over me.'
+
+
+
+"I am a strong man, but I staggered as I spoke. All creation was
+
+exaggerated. Colour grew more vivid, motion more rapid, life itself more
+
+vital. I hardly saw her for a moment, but I heard her voice--pitilessly
+
+sweet. She would not subdue one of her charms in compassion. Perhaps she
+
+did not know what I felt.
+
+
+
+"'You name me leopardess. Remember, the leopardess is tameless,' said
+
+she.
+
+
+
+"'Tame or fierce, wild or subdued, you are _mine_.'
+
+
+
+"'I am glad I know my keeper and am used to him. Only his voice will I
+
+follow; only his hand shall manage me; only at his feet will I repose.'
+
+
+
+"I took her back to her seat, and sat down by her side. I wanted to hear
+
+her speak again. I could never have enough of her voice and her words.
+
+
+
+"'How much do you [[Love|love]] me?' I asked.
+
+
+
+"'Ah! you know. I will not gratify you--I will not flatter.'
+
 
 
 "'I don't know half enough; my heart craves to be fed. If you knew how
@@ -195,67 +249,3 @@ content of the moment.
 insensibly. Ere an hour elapsed I was at her side, watching her sew,
 
 gathering her sweet smiles and her merry words, which fell for me
-
-abundantly. We sat, as we had a right to sit, side by side; my arm
-
-rested on her chair; I was near enough to count the stitches of her
-
-work, and to discern the eye of her needle. The door suddenly opened.
-
-
-
-"I believe, if I had just then started from her, she would have
-
-despised me. Thanks to the phlegm of my [[Nature|nature]], I rarely start. When I
-
-am [[Well|well]]-off, _bien_, comfortable, I am not soon stirred. _Bien_ I
-
-was--_très bien_--consequently immutable. No muscle moved. I hardly
-
-looked to the door.
-
-
-
-"'Good-morning, uncle,' said she, addressing that personage, who paused
-
-on the threshold in a state of petrifaction.
-
-
-
-"'Have you been long downstairs, Miss Keeldar, and [[Alone|alone]] with Mr.
-
-Moore?'
-
-
-
-"'Yes, a very long [[Time|time]]. We both came down early; it was scarcely
-
-light.'
-
-
-
-"'The proceeding is improper----'
-
-
-
-"'It was at first, I was rather [[Cross|cross]], and not civil; but you will
-
-perceive that we are now friends.'
-
-
-
-"'I perceive more than you would wish me to perceive.'
-
-
-
-"'Hardly, sir,' said I; 'we have no disguises. Will you permit me to
-
-intimate that any further observations you have to make may as [[Well|well]] be
-
-addressed to me? Henceforward I stand between Miss Keeldar and all
-
-annoyance.'
-
-
-
-"'_You!_ What have _you_ to do with Miss Keeldar?'

@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]]"
+title: "Villette"
 author: "Bronte"
 unitType: work
 parentWork: "works/villette-(bronte)"
@@ -985,9 +985,9 @@ up my books.”
 “Not at all, Polly—it is positive fact. I’m as weak as a rush. Come
 down.”
 
-“Your eyes are quiet like the cat’s, but you’ll [[spring]].”
+“Your eyes are quiet like the cat’s, but you’ll [[Spring|spring]].”
 
-“[[spring|Spring]]? Nothing of the kind: it isn’t in me. Come down.”
+“[[Spring]]? Nothing of the kind: it isn’t in me. Come down.”
 
 “Perhaps I may—if you’ll promise not to touch—not to snatch me up, and
 not to whirl me round.”
@@ -1230,7 +1230,7 @@ seated, like a little Odalisque, on a couch, half shaded by the
 drooping draperies of the [[Window|window]] near. She seemed happy; all her
 appliances for occupation were about her; the white wood workbox, a
 shred or two of muslin, an end or two of ribbon collected for
-[[conversion]] into doll-millinery. The doll, duly [[Night|night]]-capped and
+[[Conversion|conversion]] into doll-millinery. The doll, duly [[Night|night]]-capped and
 [[Night|night]]-gowned, lay in its cradle; she was rocking it to [[Sleep|sleep]], with an
 air of the most perfect [[Faith|faith]] in its possession of sentient and
 somnolent faculties; her eyes, at the same [[Time|time]], being engaged with a
@@ -1615,7 +1615,7 @@ and cowardly [[Indolence|indolence]].
 
 One February [[Night|night]]—I remember it [[Well|well]]—there came a voice near Miss
 Marchmont’s [[house]], heard by every inmate, but translated, perhaps, only
-by one. After a calm [[Winter|winter]], storms were ushering in the [[spring]]. I had
+by one. After a calm [[Winter|winter]], storms were ushering in the [[Spring|spring]]. I had
 put Miss Marchmont to bed; I sat at the fireside sewing. The [[Wind|wind]] was
 wailing at the windows; it had wailed all day; but, as [[Night|night]] deepened,
 it took a new tone—an accent keen, piercing, almost articulate to the
@@ -1677,7 +1677,7 @@ feelings had their object; which, in its single [[Self|self]], was dear to me,
 as to the majority of men and women, are all the unnumbered points on
 which they dissipate their regard. While I loved, and while I was
 loved, what an existence I enjoyed! What a glorious year I can
-recall—how bright it comes back to me! What a living [[spring]]—what a
+recall—how bright it comes back to me! What a living [[Spring|spring]]—what a
 warm, glad [[Summer|summer]]—what soft moonlight, silvering the [[Autumn|autumn]]
 evenings—what strength of [[Hope|hope]] under the ice-bound waters and
 [[Frost|frost]]-hoar fields of that year’s [[Winter|winter]]! Through that year my heart
@@ -2029,7 +2029,7 @@ Prodigious was the amount of life I lived that morning. Finding myself
 before St. Paul’s, I went in; I mounted to the dome: I saw thence
 [[London]], with its [[River|river]], and its bridges, and its churches; I saw
 antique Westminster, and the green Temple Gardens, with sun upon them,
-and a glad, blue sky, of early [[spring]] above; and between them and it,
+and a glad, blue sky, of early [[Spring|spring]] above; and between them and it,
 not too dense, a cloud of haze.
 
 Descending, I went wandering whither chance might lead, in a still
@@ -4436,7 +4436,7 @@ ages ago, for there were houses all round now; but certain
 convent-relics, in the shape of old and huge fruit-trees, yet
 consecrated the spot; and, at the foot of one—a Methuselah of a
 pear-tree, dead, all but a few boughs which still faithfully renewed
-their perfumed [[Snow|snow]] in [[spring]], and their honey-sweet pendants in
+their perfumed [[Snow|snow]] in [[Spring|spring]], and their honey-sweet pendants in
 [[Autumn|autumn]]—you saw, in scraping away the mossy earth between the half-bared
 roots, a glimpse of slab, smooth, hard, and black. The legend went,
 unconfirmed and unaccredited, but still propagated, that this was the
@@ -5882,7 +5882,7 @@ true pitch, and found its natural tone, I thought of nothing but the
 personage I represented—and of M. Paul, who was listening, watching,
 prompting in the side-scenes.
 
-By-and-by, feeling the right power come—the [[spring]] demanded gush and
+By-and-by, feeling the right power come—the [[Spring|spring]] demanded gush and
 rise inwardly—I became sufficiently composed to notice my
 fellow-actors. Some of them played very [[Well|well]]; especially Ginevra
 Fanshawe, who had to coquette between two suitors, and managed
@@ -7293,7 +7293,7 @@ liked to watch every action of my godmother; all her movements were so
 young: she must have been now above fifty, yet neither her sinews nor
 her spirit seemed yet touched by the rust of age. Though portly, she
 was alert, and though serene, she was at times impetuous—good health
-and an excellent temperament kept her green as in her [[spring]].
+and an excellent temperament kept her green as in her [[Spring|spring]].
 
 While she read, I perceived she listened—listened for her son. She was
 not the woman ever to confess herself uneasy, but there was yet no lull
@@ -9695,7 +9695,7 @@ dim chamber, whispered sedately—“He may write once. So kind is his
 _cannot_ be continued—it _may_ not be repeated. Great were that folly
 which should build on such a promise—insane that credulity which should
 mistake the transitory rain-pool, holding in its hollow one draught,
-for the perennial [[spring]] yielding the supply of [[Seasons|seasons]].”
+for the perennial [[Spring|spring]] yielding the supply of [[Seasons|seasons]].”
 
 I bent my head: I sat thinking an hour longer. Reason still whispered
 me, laying on my shoulder a withered hand, and frostily touching my ear
@@ -11349,12 +11349,12 @@ which blows in and soon blocks him up, preserving him in ice for the
 season.
 
 Let him say, “It is quite right: it ought to be so, since so it is.”
-And, perhaps, one day his [[Snow|snow]]-sepulchre will open, [[spring]]’s softness
+And, perhaps, one day his [[Snow|snow]]-sepulchre will open, [[Spring|spring]]’s softness
 will return, the sun and south-[[Wind|wind]] will reach him; the budding of
 hedges, and carolling of [[Birds|birds]], and singing of liberated streams, will
 call him to kindly [[Resurrection|resurrection]]. _Perhaps_ this may be the case,
 perhaps not: the [[Frost|frost]] may get into his heart and never thaw more; when
-[[spring]] comes, a crow or a pie may pick out of the wall only his
+[[Spring|spring]] comes, a crow or a pie may pick out of the wall only his
 dormouse-bones. [[Well]], even in that case, all will be right: it is to be
 supposed he knew from the first he was mortal, and must one day go the
 way of all flesh, “As [[Well|well]] soon as syne.”
@@ -14288,7 +14288,7 @@ day, politely turned the conversation when it ran on the wild gifts of
 the actress Vashti, because, as he kindly said, ‘Miss Snowe looked
 uncomfortable.’ Dr. John Bretton knows you only as ‘quiet Lucy’—‘a
 creature inoffensive as a [[Shadow|shadow]];’ he has said, and you have heard him
-say it: ‘Lucy’s disadvantages [[spring]] from over-gravity in tastes and
+say it: ‘Lucy’s disadvantages [[Spring|spring]] from over-gravity in tastes and
 manner—want of colour in character and costume.’ Such are your own and
 your friends’ impressions; and behold! there starts up a little man,
 differing diametrically from all these, roundly charging you with being
@@ -14392,7 +14392,7 @@ him in his firm conviction that the work was righteous and needed.
 Breakfast being over and mass attended, the school-bell rang and the
 rooms filled: a very pretty spectacle was presented in classe. Pupils
 and teachers sat neatly arrayed, orderly and expectant, each bearing in
-her hand the bouquet of felicitation—the prettiest [[spring]]-[[Flowers|flowers]] all
+her hand the bouquet of felicitation—the prettiest [[Spring|spring]]-[[Flowers|flowers]] all
 fresh, and filling the air with their fragrance: I only had no bouquet.
 I like to see [[Flowers|flowers]] growing, but when they are gathered, they cease
 to please. I look on them as things rootless and perishable; their
@@ -14595,7 +14595,7 @@ etcetera; made Frenchified comparisons between the “jeunes filles” and
 the sweet blossoms before him; paid Mademoiselle St. Pierre a very
 full-blown compliment on the superiority of her bouquet; and ended by
 announcing that the first really fine, mild, and balmy morning in
-[[spring]], he intended to take the whole class out to breakfast in the
+[[Spring|spring]], he intended to take the whole class out to breakfast in the
 country. “Such of the class, at least,” he added, with emphasis, “as he
 could count amongst the number of his friends.”
 
@@ -15324,7 +15324,7 @@ CHAPTER XXXI.
 THE DRYAD.
 
 
-The [[spring]] was advancing, and the weather had turned suddenly warm.
+The [[Spring|spring]] was advancing, and the weather had turned suddenly warm.
 This change of temperature brought with it for me, as probably for many
 others, temporary decrease of strength. Slight exertion at this [[Time|time]]
 left me overcome with fatigue—sleepless nights entailed languid days.
@@ -15335,7 +15335,7 @@ refuge in my solitary sanctuary, the first classe, I was glad to sit
 down, and to make of my desk a pillow for my arms and head.
 
 Awhile I listened to the lullaby of [[Bees|bees]] humming in the berceau, and
-watched, through the glass door and the tender, lightly-strewn [[spring]]
+watched, through the glass door and the tender, lightly-strewn [[Spring|spring]]
 foliage, [[Madame Beck]] and a gay party of friends, whom she had
 entertained that day at dinner after morning mass, walking in the
 centre-alley under orchard boughs dressed at this season in blossom,
@@ -16509,7 +16509,7 @@ Being disengaged, and placing myself at her service, I was presently
 furnished with a list of the wools, silks, embroidering thread,
 etcetera, wanted in the pupils’ work, and having equipped myself in a
 manner suiting the threatening aspect of a cloudy and sultry day, I was
-just drawing the [[spring]]-bolt of the street-door, in act to issue forth,
+just drawing the [[Spring|spring]]-bolt of the street-door, in act to issue forth,
 when Madame’s voice again summoned me to the salle-à-manger.
 
 “Pardon, Meess Lucie!” cried she, in the seeming haste of an impromptu
@@ -16869,7 +16869,7 @@ inundated streets?”
 
 “He and none other.”
 
-A brief [[Silence|silence]] fell. The [[spring]] of junction seemed suddenly to have
+A brief [[Silence|silence]] fell. The [[Spring|spring]] of junction seemed suddenly to have
 become palpable; I felt it yield to pressure.
 
 “Was it of M. Paul you have been speaking?” I presently inquired. “Was
@@ -17167,7 +17167,7 @@ facts were found, selected, and properly jointed; nor could I rest from
 research and effort till I was satisfied of correct anatomy; the
 strength of my inward repugnance to the idea of flaw or falsity
 sometimes enabled me to shun egregious blunders; but the knowledge was
-not there in my head, ready and mellow; it had not been sown in [[spring|Spring]],
+not there in my head, ready and mellow; it had not been sown in [[Spring]],
 grown in [[Summer]], harvested in [[Autumn]], and garnered through [[Winter]];
 whatever I wanted I must go out and gather fresh; glean of wild herbs
 my lapful, and shred them green into the pot. Messieurs Boissec and
@@ -17707,7 +17707,7 @@ preached and it persuaded.
 
 I lent to it my ear very willingly, for, small as it was, it possessed
 its own spell, and bound my attention at once. It preached Romanism; it
-persuaded to [[conversion]]. The voice of that sly little book was a
+persuaded to [[Conversion|conversion]]. The voice of that sly little book was a
 honeyed voice; its accents were all unction and balm. Here roared no
 utterance of Rome’s thunders, no blasting of the breath of her
 displeasure. The Protestant was to turn Papist, not so much in [[Fear|fear]] of
@@ -19400,7 +19400,7 @@ does not aid [[Freedom|freedom]]?
 
 There, in the corridor, hangs my [[Garden|garden]]-costume, my large hat, my
 shawl. There is no lock on the huge, heavy, porte-cochère; there is no
-key to seek: it fastens with a sort of [[spring]]-bolt, not to be opened
+key to seek: it fastens with a sort of [[Spring|spring]]-bolt, not to be opened
 from the outside, but which, from within, may be noiselessly withdrawn.
 Can I manage it? It yields to my hand, yields with propitious facility.
 I [[Wonder|wonder]] as that portal seems almost spontaneously to unclose—I [[Wonder|wonder]]
@@ -19735,7 +19735,7 @@ could not mark unmoved. Amidst reserve and phlegm, amidst contrasts of
 character and of countenance, something there still was which recalled
 a face—mobile, fervent, feeling—a face changeable, now clouded, and now
 alight—a face from my world taken away, for my eyes lost, but where my
-best [[spring]]-hours of life had alternated in [[Shadow|shadow]] and in glow; that
+best [[Spring|spring]]-hours of life had alternated in [[Shadow|shadow]] and in glow; that
 face, where I had often seen movements so near the signs of genius—that
 why there did not shine fully out the undoubted [[Fire|fire]], the thing, the
 spirit, and the secret itself—I could never tell. Yes—this Josef
@@ -20132,7 +20132,7 @@ Gaining the Rue Fossette, reaching the pensionnat, all there was still;
 no fiacre had yet arrived with Madame and Désirée. I had left the great
 door ajar; should I find it thus? Perhaps the [[Wind|wind]] or some other
 accident may have thrown it to with sufficient force to start the
-[[spring]]-bolt? In that case, hopeless became admission; my adventure must
+[[Spring|spring]]-bolt? In that case, hopeless became admission; my adventure must
 issue in catastrophe. I lightly pushed the heavy leaf; would it yield?
 
 Yes. As soundless, as unresisting, as if some propitious genius had
@@ -20153,7 +20153,7 @@ usurping shape, supine, long, and strange? Is it a robber who has made
 his way through the open street-door, and lies there in wait? It looks
 very black, I think it looks—not human. Can it be a wandering dog that
 has come in from the street and crept and nestled hither? Will it
-[[spring]], will it leap out if I approach? Approach I must. [[Courage]]! One
+[[Spring|spring]], will it leap out if I approach? Approach I must. [[Courage]]! One
 step!—
 
 My head reeled, for by the faint [[Night|night]]-lamp, I saw stretched on my bed
@@ -21115,7 +21115,7 @@ pensionnat; that also prospered.
 
 The secret of my [[success]] did not lie so much in myself, in any
 endowment, any power of mine, as in a new state of circumstances, a
-wonderfully changed life, a relieved heart. The [[spring]] which moved my
+wonderfully changed life, a relieved heart. The [[Spring|spring]] which moved my
 energies lay far away beyond seas, in an Indian isle. At parting, I had
 been left a legacy; such a thought for the present, such a [[Hope|hope]] for the
 future, such a motive for a persevering, a laborious, an enterprising,

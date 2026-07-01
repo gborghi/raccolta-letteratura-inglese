@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 24"
+title: "The Professor — Chapter 24"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-professor-(bronte)"
@@ -16,8 +16,6 @@ tags:
 
 CHAPTER XXIV.
 
-
-
 ONE fine, frosty [[Sunday]] in November, Frances and I took a long walk; we
 
 made the tour of the [[City|city]] by the Boulevards; and, afterwards, Frances
@@ -32,11 +30,7 @@ and I was just thinking that her eyes spoke full as eloquently as her
 
 tongue, when she stopped and remarked--
 
-
-
 “Monsieur, there is a gentleman who knows you.”
-
-
 
 I looked up; three fashionably dressed men were just then
 
@@ -48,37 +42,21 @@ he was in the act of lifting his hat to Frances; afterwards, he made a
 
 grimace at me, and passed on.
 
-
-
 “Who is he?”
-
-
 
 “A person I knew in England.”
 
-
-
 “Why did he bow to me? He does not know me.”
 
-
-
 “Yes, he does know you, in his way.”
-
-
 
 “How, monsieur?” (She still called me “monsieur”; I could not persuade
 
 her to adopt any more familiar term.)
 
-
-
 “Did you not read the expression of his eyes?”
 
-
-
 “Of his eyes? No. What did they say?”
-
-
 
 “To you they said, ‘How do you do, Wilhelmina Crimsworth?’ To me, ‘So
 
@@ -86,13 +64,9 @@ you have found your counterpart at last; there she sits, the female of
 
 your kind!’”
 
-
-
 “Monsieur, you could not read all that in his eyes; he was so soon
 
 gone.”
-
-
 
 “I read that and more, Frances; I read that he will probably call on me
 
@@ -102,19 +76,13 @@ he will insist on being introduced to you; shall I bring him to your
 
 rooms?”
 
-
-
 “If you please, monsieur--I have no objection; I think, indeed, I should
 
 rather like to see him nearer; he looks so original.”
 
-
-
 As I had anticipated, Mr. Hunsden came that evening. The first thing he
 
 said was:--
-
-
 
 “You need not begin boasting, Monsieur le Professeur; I know about your
 
@@ -130,8 +98,6 @@ rather emphatic negative, but on second thoughts I checked myself, and,
 
 seeming to assent, asked what he thought of her?
 
-
-
 “As to her, I’ll come to that directly; but first I’ve a word for you. I
 
 see you are a scoundrel; you’ve no business to be promenading about with
@@ -140,11 +106,7 @@ another man’s wife. I thought you had sounder sense than to get mixed up
 
 in foreign hodge-podge of this sort.”
 
-
-
 “But the lady?”
-
-
 
 “She’s too good for you evidently; she is like you, but something better
 
@@ -156,11 +118,7 @@ foreigners understand grace. What the devil has she done with Pelet? She
 
 has not been married to him three months--he must be a spoon!”
 
-
-
 I would not let the mistake go too far; I did not like it much.
-
-
 
 “Pelet? How your head runs on Mons. and Madame Pelet! You are always
 
@@ -168,29 +126,17 @@ talking about them. I wish to the gods you had wed Mdlle. Zoraide
 
 yourself!”
 
-
-
 “Was that young gentlewoman not Mdlle. Zoraide?”
-
-
 
 “No; nor Madame Zoraide either.”
 
-
-
 “Why did you tell a lie, then?”
-
-
 
 “I told no lie; but you are is such a hurry. She is a pupil of mine--a
 
 Swiss girl.”
 
-
-
 “And of course you are going to be married to her? Don’t deny that.”
-
-
 
 “Married! I think I shall--if Fate spares us both ten weeks longer. That
 
@@ -198,13 +144,9 @@ is my little wild strawberry, Hunsden, whose sweetness made me careless
 
 of your hothouse grapes.”
 
-
-
 “Stop! No boasting--no heroics; I won’t hear them. What is she? To what
 
 caste does she belong?”
-
-
 
 I smiled. Hunsden unconsciously laid stress on the word caste, and, in
 
@@ -226,11 +168,7 @@ over the table, and uttering the words slowly but with repressed glee, I
 
 said concisely--
 
-
-
 “She is a lace-mender.”
-
-
 
 Hunsden examined me. He did not SAY he was surprised, but surprised he
 
@@ -239,8 +177,6 @@ was; he had his own notions of good breeding. I saw he suspected I
 was going to take some very rash step; but repressing declamation or
 
 remonstrance, he only answered--
-
-
 
 “[[Well]], you are the best judge of your own affairs. A lace-mender may
 
@@ -252,19 +188,13 @@ station, she is [[Well|well]] furnished with such natural qualities as you think
 
 most likely to conduce to your happiness. Has she many relations?”
 
-
-
 “None in Brussels.”
-
-
 
 “That is better. Relations are often the real evil in such cases. I
 
 cannot but think that a train of inferior connections would have been a
 
 bore to you to your life’s end.”
-
-
 
 After sitting in [[Silence|silence]] a little while longer, Hunsden [[Rose|rose]], and was
 
@@ -278,8 +208,6 @@ and thrown away as I was, it was no [[Time|time]] for sarcasm or cynicism, or
 
 indeed for anything but indulgence and forbearance.
 
-
-
 “Good [[Night|night]], William,” he said, in a really soft voice, while his face
 
 looked benevolently compassionate. “Good [[Night|night]], lad. I wish you and your
@@ -288,31 +216,19 @@ future wife much prosperity; and I [[Hope|hope]] she will satisfy your fastidiou
 
 [[Soul|soul]].”
 
-
-
 I had much ado to refrain from laughing as I beheld the magnanimous pity
 
 of his mien; maintaining, however, a [[Grave|grave]] air, I said:--
 
-
-
 “I thought you would have liked to have seen Mdlle. Henri?”
-
-
 
 “Oh, that is the name! Yes--if it would be convenient, I should like to
 
 see her--but----.” He hesitated.
 
-
-
 “[[Well]]?”
 
-
-
 “I should on no account wish to intrude.”
-
-
 
 “Come, then,” said I. We set out. Hunsden no [[Doubt|doubt]] regarded me as a
 
@@ -332,8 +248,6 @@ stair; on gaining the lobby, Hunsden turned to mount a narrower stair
 
 which led to a higher story; I saw his mind was bent on the attics.
 
-
-
 “Here, Mr. Hunsden,” said I quietly, tapping at Frances’ door. He
 
 turned; in his genuine politeness he was a little disconcerted at
@@ -341,8 +255,6 @@ turned; in his genuine politeness he was a little disconcerted at
 having made the mistake; his eye reverted to the green mat, but he said
 
 nothing.
-
-
 
 We walked in, and Frances [[Rose|rose]] from her seat near the table to receive
 
@@ -402,8 +314,6 @@ complexion grew warm and transparent; to me, she now looked pretty;
 
 before, she had only looked ladylike.
 
-
-
 She had many things to say to the Englishman just fresh from his
 
 island-country, and she urged him with an enthusiasm of curiosity, which
@@ -426,15 +336,9 @@ as Frances was herself, and in none but his own language would he now
 
 address her.
 
-
-
 “You understand English?” was the prefatory question.
 
-
-
 “A little.”
-
-
 
 “[[Well]], then, you shall have plenty of it; and first, I see you’ve not
 
@@ -454,19 +358,11 @@ minutes ago, and respected you accordingly; and now I see you are a sort
 
 of Swiss sibyl, with high Tory and high Church principles!”
 
-
-
 “England is your country?” asked Frances.
-
-
 
 “Yes.”
 
-
-
 “And you don’t like it?”
-
-
 
 “I’d be sorry to like it! A little corrupt, venal, lord-and-[[King|king]]-cursed
 
@@ -474,13 +370,9 @@ nation, full of mucky [[Pride|pride]] (as they say in ----shire), and helpless
 
 pauperism; rotten with abuses, worm-eaten with prejudices!”
 
-
-
 “You might say so of almost every state; there are abuses and prejudices
 
 everywhere, and I thought fewer in England than in other countries.”
-
-
 
 “Come to England and see. Come to Birmingham and Manchester; come to St.
 
@@ -500,15 +392,11 @@ favourite paramour, and princely halls are dearer to her than thatched
 
 hovels----”
 
-
-
 “I was not thinking of the wretchedness and vice in England; I was
 
 thinking of the good side--of what is elevated in your character as a
 
 nation.”
-
-
 
 “There is no good side--none at least of which you can have any
 
@@ -524,21 +412,13 @@ associations, I will not insult you, mademoiselle, by supposing that you
 
 alluded to such humbug.”
 
-
-
 “But I did partly.”
 
-
-
 Hunsden laughed--his laugh of unmitigated scorn.
-
-
 
 “I did, Mr. Hunsden. Are you of the number of those to whom such
 
 associations give no pleasure?”
-
-
 
 “Mademoiselle, what is an association? I never saw one. What is its
 
@@ -546,13 +426,9 @@ length, breadth, weight, value--ay, VALUE? What price will it bring in
 
 the market?”
 
-
-
 “Your portrait, to any one who loved you, would, for the sake of
 
 association, be without price.”
-
-
 
 That inscrutable Hunsden heard this remark and felt it rather acutely,
 
@@ -568,11 +444,7 @@ he would like to be loved--some one whose [[Love|love]] he could unreservedly
 
 return.
 
-
-
 The lady pursued her temporary advantage.
-
-
 
 “If your world is a world without associations, Mr. Hunsden, I no longer
 
@@ -589,8 +461,6 @@ stripped of the faculty of association, I think he would soon rush forth
 from ‘the ever-during gates,’ leave heaven, and seek what he had lost in
 
 hell. Yes, in the very hell from which he turned ‘with retorted scorn.’”
-
-
 
 Frances’ tone in saying this was as marked as her language, and it
 
@@ -624,13 +494,9 @@ itself departed. Hunsden’s excitations she put by soon with a smile, and
 
 recurring to the theme of disputation, said--
 
-
-
 “Since England is nothing, why do the continental nations respect her
 
 so?”
-
-
 
 “I should have thought no [[Child|child]] would have asked that question,” replied
 
@@ -647,8 +513,6 @@ confession of ignorance. Why, mademoiselle, can’t you see that it is
 our GOLD which buys us French politeness, German good-will, and Swiss
 
 servility?” And he sneered diabolically.
-
-
 
 “Swiss?” said Frances, catching the word “servility.” “Do you call my
 
@@ -668,8 +532,6 @@ quite out of my heart the social [[Greatness|greatness]] of my countrymen, and o
 
 mistaken--you’re mistaken.”
 
-
-
 “Social [[Greatness|greatness]]? Call it what you will, your countrymen are sensible
 
 fellows; they make a marketable article of what to you is an abstract
@@ -678,23 +540,13 @@ idea; they have, ere this, sold their social [[Greatness|greatness]] and also th
 
 [[Blood|blood]]-earned [[Freedom|freedom]] to be the servants of foreign kings.”
 
-
-
 “You never were in Switzerland?”
-
-
 
 “Yes--I have been there twice.”
 
-
-
 “You know nothing of it.”
 
-
-
 “I do.”
-
-
 
 “And you say the Swiss are mercenary, as a parrot says ‘Poor Poll,’ or
 
@@ -702,11 +554,7 @@ as the Belgians here say the English are not brave, or as the French
 
 accuse them of being perfidious: there is no justice in your dictums.”
 
-
-
 “There is [[Truth|truth]].”
-
-
 
 “I tell you, Mr. Hunsden, you are a more unpractical man than I am an
 
@@ -718,43 +566,27 @@ an atheist would annihilate God and his own [[Soul|soul]], by denying their
 
 existence.”
 
-
-
 “Where are you flying to? You are off at a tangent--I thought we were
 
 talking about the mercenary [[Nature|nature]] of the Swiss.”
-
-
 
 “We were--and if you proved to me that the Swiss are mercenary to-morrow
 
 (which you cannot do) I should [[Love|love]] Switzerland still.”
 
-
-
 “You would be mad, then--mad as a March hare--to indulge in a passion
 
 for millions of shiploads of soil, timber, [[Snow|snow]], and ice.”
 
-
-
 “Not so mad as you who [[Love|love]] nothing.”
 
-
-
 “There’s a method in my [[Madness|madness]]; there’s none in yours.”
-
-
 
 “Your method is to squeeze the sap out of creation and make manure of
 
 the refuse, by way of turning it to what you call use.”
 
-
-
 “You cannot reason at all,” said Hunsden; “there is no [[logic]] in you.”
-
-
 
 “Better to be without [[logic]] than without feeling,” retorted Frances, who
 
@@ -764,13 +596,9 @@ intent, if not on hospitable thoughts, at least on hospitable deeds, for
 
 she was laying the cloth, and putting plates, knives and forks thereon.
 
-
-
 “Is that a hit at me, mademoiselle? Do you suppose I am without
 
 feeling?”
-
-
 
 “I suppose you are always interfering with your own feelings, and those
 
@@ -780,17 +608,11 @@ and the other sentiment, and then ordering it to be suppressed because
 
 you imagine it to be inconsistent with [[logic]].”
 
-
-
 “I do right.”
-
-
 
 Frances had stepped out of sight into a sort of little pantry; she soon
 
 reappeared.
-
-
 
 “You do right? Indeed, no! You are much mistaken if you think so. Just
 
@@ -806,19 +628,11 @@ any sentiment that, like patriotism, spreads man’s selfishness in wider
 
 circles” ([[Fire|fire]] stirred, dish put down before it).
 
-
-
 “Were you born in Switzerland?”
-
-
 
 “I should think so, or else why should I call it my country?”
 
-
-
 “And where did you get your English features and figure?”
-
-
 
 “I am English, too; half the [[Blood|blood]] in my veins is English; thus I have
 
@@ -826,23 +640,15 @@ a right to a [[Double|double]] power of patriotism, possessing an interest in tw
 
 noble, free, and fortunate countries.”
 
-
-
 “You had an English mother?”
-
-
 
 “Yes, yes; and you, I suppose, had a mother from the [[Moon|moon]] or from
 
 Utopia, since not a nation in Europe has a claim on your interest?”
 
-
-
 “On the contrary, I’m a universal patriot, if you could understand me
 
 rightly: my country is the world.”
-
-
 
 “Sympathies so widely diffused must be very shallow: will you have
 
@@ -850,25 +656,17 @@ the goodness to come to table. Monsieur” (to me who appeared to be now
 
 absorbed in reading by moonlight)--“Monsieur, supper is served.”
 
-
-
 This was said in quite a different voice to that in which she had been
 
 bandying phrases with Mr. Hunsden--not so short, graver and softer.
-
-
 
 “Frances, what do you mean by preparing, supper? we had no intention of
 
 staying.”
 
-
-
 “Ah, monsieur, but you have stayed, and supper is prepared; you have
 
 only the alternative of eating it.”
-
-
 
 The meal was a foreign one, of course; it consisted in two small but
 
@@ -896,21 +694,13 @@ last she gave in, confessing that she thought as he thought, but bidding
 
 him take notice that she did not consider herself beaten.
 
-
-
 “No more did the French at Waterloo,” said Hunsden.
-
-
 
 “There is no comparison between the cases,” rejoined Frances; “mine was
 
 a sham fight.”
 
-
-
 “Sham or real, it’s up with you.”
-
-
 
 “No; though I have neither [[logic]] nor wealth of words, yet in a case
 
@@ -926,13 +716,9 @@ of the laws of war, and was victorious in defiance of military tactics.
 
 I would do as he did.”
 
-
-
 “I’ll be bound for it you would; probably you have some of the same sort
 
 of stubborn stuff in you.”
-
-
 
 “I should be sorry if I had not; he and Tell were brothers, and I’d
 
@@ -940,23 +726,15 @@ scorn the Swiss, man or woman, who had none of the much-enduring [[Nature|nature
 
 of our heroic William in his [[Soul|soul]].”
 
-
-
 “If Tell was like Wellington, he was an ass.”
 
-
-
 “Does not ASS mean BAUDET?” asked Frances, turning to me.
-
-
 
 “No, no,” replied I, “it means an ESPRIT-FORT; and now,” I continued, as
 
 I saw that fresh occasion of strife was brewing between these two, “it
 
 is high [[Time|time]] to go.”
-
-
 
 Hunsden [[Rose|rose]]. “Good bye,” said he to Frances; “I shall be off for this
 
@@ -974,17 +752,11 @@ Crimsworth, I suppose; poor young lady? but you have a spark of spirit;
 
 cherish it, and give [[The Professor|the Professor]] the full benefit thereof.”
 
-
-
 “Are you married. Mr. Hunsden?” asked Frances, suddenly.
-
-
 
 “No. I should have thought you might have guessed I was a Benedict by my
 
 look.”
-
-
 
 “[[Well]], whenever you marry don’t take a wife out of Switzerland; for if
 
@@ -1000,8 +772,6 @@ Breton-bretonnant, even as your own Shakspeare’s [[Othello]] smothered
 
 [[Desdemona]].”
 
-
-
 “I am warned,” said Hunsden; “and so are you, lad,” (nodding to me). “I
 
 [[Hope|hope]] yet to hear of a travesty of the Moor and his gentle lady, in which
@@ -1014,8 +784,6 @@ hand, absolutely like Sir Charles Grandison on that of Harriet Byron;
 
 adding--“[[Death]] from such fingers would not be without charms.”
 
-
-
 “Mon Dieu!” murmured Frances, opening her large eyes and lifting her
 
 distinctly arched brows; “c’est qu’il fait des compliments! je ne m’y
@@ -1024,11 +792,7 @@ suis pas attendu.” She smiled, half in ire, half in mirth, curtsied with
 
 foreign grace, and so they parted.
 
-
-
 No sooner had we got into the street than Hunsden collared me.
-
-
 
 “And that is your lace-mender?” said he; “and you reckon you have done
 
@@ -1040,11 +804,7 @@ with an ouvriere! And I pitied the fellow, thinking his feelings had
 
 misled him, and that he had hurt himself by contracting a low match!”
 
-
-
 “Just let go my collar, Hunsden.”
-
-
 
 On the contrary, he swayed me to and fro; so I grappled him round the
 
@@ -1054,13 +814,9 @@ tug for it; and after we had both rolled on the pavement, and with
 
 difficulty picked ourselves up, we agreed to walk on more soberly.
 
-
-
 “Yes, that’s my lace-mender,” said I; “and she is to be mine for
 
 life--God willing.”
-
-
 
 “God is not willing--you can’t suppose it; what business have you to
 
@@ -1074,15 +830,11 @@ more deference to such a one as I, were she favoured by fortune to the
 
 supreme extent of being my choice instead of yours.”
 
-
-
 “Hunsden, you’re a puppy. But you’ve only seen the title-page of my
 
 happiness; you don’t know the tale that follows; you cannot conceive the
 
 interest and sweet variety and thrilling excitement of the narrative.”
-
-
 
 Hunsden--speaking low and deep, for we had now entered a busier
 
@@ -1093,8 +845,6 @@ dreadful if I stimulated his wrath further by boasting. I laughed till
 my sides ached. We soon reached his hotel; before he entered it, he
 
 said--
-
-
 
 “Don’t be vainglorious. Your lace-mender is too good for you, but not
 
@@ -1116,8 +866,6 @@ and more harmonious features, to say nothing of a nobler and better
 
 developed shape than that perverse, ill-thriven [[Child|child]] can boast.”
 
-
-
 “Bribe a seraph to fetch you a coal of [[Fire|fire]] from heaven, if you will,”
 
  said I, “and with it kindle life in the tallest, fattest, most boneless,
@@ -1125,8 +873,6 @@ developed shape than that perverse, ill-thriven [[Child|child]] can boast.”
 fullest-blooded of Ruben’s painted women--leave me only my Alpine peri,
 
 and I’ll not envy you.”
-
-
 
 With a simultaneous movement, each turned his back on the other. Neither
 

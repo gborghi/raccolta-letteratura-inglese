@@ -142,10 +142,3 @@ very docks and ferns by the roadside, were dignified
 and sanctified by their partial resemblance to
 something else.  It was as if they were baby drawings:
 the wild, crude sketches of [[Nature]] in her first [[Sketch|sketch]]-books of stone.
-
-He had flung himself on a pile of pine-needles to
-enjoy the gathering darkness of the pinewoods as the
-[[Moon|moon]] sank behind them.  There is nothing more deep
-and wonderful than really impenetrable pinewoods
-where the nearer trees show against the more shadowy;
-a tracery of silver upon grey and of grey upon black.

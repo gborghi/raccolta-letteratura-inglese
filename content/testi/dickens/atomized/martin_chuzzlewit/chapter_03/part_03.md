@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 3 (part 3)"
+title: "Martin Chuzzlewit — Chapter 3 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,23 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_03/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_03/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘I have been very much alarmed to-[[Night|night]]. He--he is not my grandfather.’
+
+‘Father, I should have said,’ returned the hostess, sensible of having
+made an awkward mistake.
+
+‘Nor my father’ said the young lady. ‘Nor,’ she added, slightly smiling
+with a quick perception of what the landlady was going to add, ‘Nor my
+uncle. We are not related.’
+
+‘Oh dear me!’ returned the landlady, still more embarrassed than before;
+‘how could I be so very much mistaken; knowing, as anybody in their
+proper senses might that when a gentleman is ill, he looks so much older
+than he really is? That I should have called you “Miss,” too, ma’am!’
+But when she had proceeded thus far, she glanced involuntarily at the
+third finger of the young lady’s left hand, and faltered again; for
+there was no ring upon it.
 
 ‘When I told you we were not related,’ said the other mildly, but not
 without confusion on her own part, ‘I meant not in any way. Not even by
@@ -118,29 +135,3 @@ below stairs, sat down in her easy-chair with unnatural composure.
 At this very crisis, a step was heard in the entry, and Mr Pecksniff,
 looking sweetly over the half-door of the bar, and into the vista of
 snug privacy beyond, murmured:
-
-‘Good evening, Mrs Lupin!’
-
-‘Oh dear me, sir!’ she cried, advancing to receive him, ‘I am so very
-glad you have come.’
-
-‘And I am very glad I have come,’ said Mr Pecksniff, ‘if I can be of
-service. I am very glad I have come. What is the matter, Mrs Lupin?’
-
-‘A gentleman taken ill upon the [[Road|road]], has been so very bad upstairs,
-sir,’ said the tearful hostess.
-
-‘A gentleman taken ill upon the [[Road|road]], has been so very bad upstairs, has
-he?’ repeated Mr Pecksniff. ‘[[Well]], [[Well|well]]!’
-
-Now there was nothing that one may call decidedly original in this
-remark, nor can it be exactly said to have contained any wise precept
-theretofore unknown to mankind, or to have opened any hidden source of
-consolation; but Mr Pecksniff’s manner was so bland, and he nodded his
-head so soothingly, and showed in everything such an affable sense of
-his own excellence, that anybody would have been, as Mrs Lupin was,
-comforted by the mere voice and presence of such a man; and, though he
-had merely said ‘a verb must agree with its nominative case in number
-and person, my good friend,’ or ‘eight times eight are sixty-four, my
-worthy [[Soul|soul]],’ must have felt deeply grateful to him for his humanity and
-wisdom.

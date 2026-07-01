@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities — Chapter 3"
+title: "A Tale of Two Cities — Chapter 5"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/a-tale-of-two-cities-(dickens)"
@@ -14,223 +14,259 @@ tags:
 </nav>
 
 
-CHAPTER III.
-The [[Shadow]]
+CHAPTER V.
+The Wood-Sawyer
 
 
-One of the first considerations which arose in the business mind of Mr.
-Lorry when business hours came round, was this:--that he had no right to
-imperil Tellson’s by sheltering the wife of an emigrant prisoner under
-the Bank roof. His own possessions, safety, life, he would have hazarded
-for Lucie and her [[Child|child]], without a moment’s demur; but the great trust
-he held was not his own, and as to that business charge he was a strict
-man of business.
+One year and three months. During all that [[Time|time]] Lucie was never
+sure, from hour to hour, but that the Guillotine would strike off her
+husband’s head next day. Every day, through the stony streets, the
+tumbrils now jolted heavily, filled with Condemned. Lovely girls; bright
+women, brown-haired, black-haired, and grey; youths; stalwart men and
+old; gentle born and peasant born; all red wine for La Guillotine, all
+daily brought into light from the dark cellars of the loathsome prisons,
+and carried to her through the streets to slake her devouring thirst.
+Liberty, equality, fraternity, or [[Death|death]];--the last, much the easiest to
+bestow, O Guillotine!
 
-At first, his mind reverted to Defarge, and he thought of finding out
-the wine-shop again and taking counsel with its master in reference to
-the safest dwelling-place in the distracted state of the [[City|city]]. But, the
-same consideration that suggested him, repudiated him; he lived in the
-most violent Quarter, and doubtless was influential there, and deep in
-its dangerous workings.
+If the suddenness of her calamity, and the whirling wheels of the [[Time|time]],
+had stunned the Doctor’s daughter into awaiting the result in idle
+[[Despair|despair]], it would but have been with her as it was with many. But, from
+the hour when she had taken the white head to her fresh young bosom in
+the garret of Saint Antoine, she had been true to her duties. She was
+truest to them in the season of trial, as all the quietly loyal and good
+will always be.
 
-[[Noon]] coming, and the Doctor not returning, and every minute’s delay
-tending to compromise Tellson’s, Mr. Lorry advised with Lucie. She said
-that her father had spoken of hiring a lodging for a short term, in that
-Quarter, near the Banking-[[house]]. As there was no business objection to
-this, and as he foresaw that even if it were all [[Well|well]] with Charles, and
-he were to be released, he could not [[Hope|hope]] to leave the [[City|city]], Mr. Lorry
-went out in [[Quest|quest]] of such a lodging, and found a suitable one, high up
-in a removed by-street where the closed blinds in all the other windows
-of a high [[Melancholy|melancholy]] square of buildings marked deserted homes.
+As soon as they were established in their new residence, and her father
+had entered on the routine of his avocations, she arranged the little
+household as exactly as if her husband had been there. Everything had
+its appointed place and its appointed [[Time|time]]. Little Lucie she taught,
+as regularly, as if they had all been united in their English [[Home|home]]. The
+slight devices with which she cheated herself into the show of a belief
+that they would soon be reunited--the little preparations for his speedy
+return, the setting aside of his chair and his books--these, and the
+solemn [[prayer]] at [[Night|night]] for one dear prisoner especially, among the many
+unhappy souls in [[Prison|prison]] and the [[Shadow|shadow]] of [[Death|death]]--were almost the only
+outspoken reliefs of her heavy mind.
 
-To this lodging he at once removed Lucie and her [[Child|child]], and [[Miss Pross]]:
-giving them what comfort he could, and much more than he had himself.
-He left Jerry with them, as a figure to fill a doorway that would bear
-considerable knocking on the head, and returned to his own occupations.
-A disturbed and doleful mind he brought to bear upon them, and slowly
-and heavily the day lagged on with him.
+She did not greatly alter in appearance. The plain dark dresses, akin to
+mourning dresses, which she and her [[Child|child]] wore, were as neat and as [[Well|well]]
+attended to as the brighter clothes of happy days. She lost her colour,
+and the old and intent expression was a constant, not an occasional,
+thing; otherwise, she remained very pretty and comely. Sometimes, at
+[[Night|night]] on kissing her father, she would burst into the grief she had
+repressed all day, and would say that her sole reliance, under Heaven,
+was on him. He always resolutely answered: “Nothing can happen to him
+without my knowledge, and I know that I can save him, Lucie.”
 
-It wore itself out, and wore him out with it, until the Bank closed. He
-was again [[Alone|alone]] in his room of the previous [[Night|night]], considering what to
-do next, when he heard a foot upon the stair. In a few moments, a
-man stood in his presence, who, with a keenly observant look at him,
-addressed him by his name.
+They had not made the round of their changed life many weeks, when her
+father said to her, on coming [[Home|home]] one evening:
 
-“Your servant,” said Mr. Lorry. “Do you know me?”
+“My dear, there is an upper [[Window|window]] in the [[Prison|prison]], to which Charles can
+sometimes gain access at three in the afternoon. When he can get to
+it--which depends on many uncertainties and incidents--he might see you
+in the street, he thinks, if you stood in a certain place that I can
+show you. But you will not be able to see him, my poor [[Child|child]], and even
+if you could, it would be unsafe for you to make a sign of recognition.”
 
-He was a strongly made man with dark curling hair, from forty-five
-to fifty years of age. For answer he repeated, without any change of
-emphasis, the words:
+“O show me the place, my father, and I will go there every day.”
 
-“Do you know me?”
+From that [[Time|time]], in all weathers, she waited there two hours. As the
+[[Clock|clock]] struck two, she was there, and at four she turned resignedly away.
+When it was not too wet or inclement for her [[Child|child]] to be with her, they
+went together; at other times she was [[Alone|alone]]; but, she never missed a
+single day.
 
-“I have seen you somewhere.”
+It was the dark and dirty corner of a small winding street. The hovel
+of a cutter of wood into lengths for burning, was the only [[house]] at that
+end; all else was wall. On the third day of her being there, he noticed
+her.
 
-“Perhaps at my wine-shop?”
+“Good day, citizeness.”
 
-Much interested and agitated, Mr. Lorry said: “You come from Doctor
-Manette?”
+“Good day, citizen.”
 
-“Yes. I come from [[Doctor Manette]].”
+This mode of address was now prescribed by decree. It had been
+established voluntarily some [[Time|time]] ago, among the more thorough patriots;
+but, was now law for everybody.
 
-“And what says he? What does he send me?”
+“Walking here again, citizeness?”
 
-Defarge gave into his anxious hand, an open scrap of paper. It bore the
-words in the Doctor’s writing:
+“You see me, citizen!”
 
-    “Charles is safe, but I cannot safely leave this place yet.
-     I have obtained the favour that the bearer has a short note
-     from Charles to his wife.  Let the bearer see his wife.”
+The wood-sawyer, who was a little man with a redundancy of gesture (he
+had once been a mender of roads), cast a glance at the [[Prison|prison]], pointed
+at the [[Prison|prison]], and putting his ten fingers before his face to represent
+bars, peeped through them jocosely.
 
-It was dated from La Force, within an hour.
+“But it’s not my business,” said he. And went on sawing his wood.
 
-“Will you accompany me,” said Mr. Lorry, joyfully relieved after reading
-this note aloud, “to where his wife resides?”
+Next day he was looking out for her, and accosted her the moment she
+appeared.
 
-“Yes,” returned Defarge.
+“What? Walking here again, citizeness?”
 
-Scarcely noticing as yet, in what a curiously reserved and mechanical
-way Defarge spoke, Mr. Lorry put on his hat and they went down into the
-courtyard. There, they found two women; one, knitting.
+“Yes, citizen.”
 
-“[[Madame Defarge]], surely!” said Mr. Lorry, who had left her in exactly
-the same attitude some seventeen years ago.
+“Ah! A [[Child|child]] too! Your mother, is it not, my little citizeness?”
 
-“It is she,” observed her husband.
+“Do I say yes, mamma?” whispered little Lucie, drawing close to her.
 
-“Does Madame go with us?” inquired Mr. Lorry, seeing that she moved as
-they moved.
+“Yes, dearest.”
 
-“Yes. That she may be able to recognise the faces and know the persons.
-It is for their safety.”
+“Yes, citizen.”
 
-Beginning to be struck by Defarge’s manner, Mr. Lorry looked dubiously
-at him, and led the way. Both the women followed; the second woman being
-The Vengeance.
+“Ah! But it’s not my business. My work is my business. See my saw! I
+call it my Little Guillotine. La, la, la; La, la, la! And off his head
+comes!”
 
-They passed through the intervening streets as quickly as they might,
-ascended the staircase of the new domicile, were admitted by Jerry,
-and found Lucie weeping, [[Alone|alone]]. She was thrown into a transport by the
-tidings Mr. Lorry gave her of her husband, and clasped the hand that
-delivered his note--little thinking what it had been doing near him in
-the [[Night|night]], and might, but for a chance, have done to him.
+The billet fell as he spoke, and he threw it into a basket.
 
-     “DEAREST,--Take [[Courage|courage]].  I am [[Well|well]], and your father has
-      influence around me.  You cannot answer this.
-      Kiss our [[Child|child]] for me.”
+“I call myself the Samson of the firewood guillotine. See here again!
+Loo, loo, loo; Loo, loo, loo! And off _her_ head comes! Now, a [[Child|child]].
+Tickle, tickle; Pickle, pickle! And off _its_ head comes. All the
+family!”
 
-That was all the writing. It was so much, however, to her who received
-it, that she turned from Defarge to his wife, and kissed one of the
-hands that knitted. It was a passionate, loving, thankful, womanly
-action, but the hand made no response--dropped cold and heavy, and took
-to its knitting again.
+Lucie shuddered as he threw two more billets into his basket, but it was
+impossible to be there while the wood-sawyer was at work, and not be in
+his sight. Thenceforth, to secure his good will, she always spoke to him
+first, and often gave him drink-money, which he readily received.
 
-There was something in its touch that gave Lucie a check. She stopped in
-the act of putting the note in her bosom, and, with her hands yet at her
-neck, looked terrified at [[Madame Defarge]]. [[Madame Defarge]] met the lifted
-eyebrows and forehead with a cold, impassive stare.
+He was an inquisitive fellow, and sometimes when she had quite forgotten
+him in gazing at the [[Prison|prison]] roof and grates, and in lifting her heart
+up to her husband, she would come to herself to find him looking at her,
+with his knee on his bench and his saw stopped in its work. “But it’s
+not my business!” he would generally say at those times, and would
+briskly fall to his sawing again.
 
-“My dear,” said Mr. Lorry, striking in to explain; “there are frequent
-risings in the streets; and, although it is not likely they will ever
-trouble you, [[Madame Defarge]] wishes to see those whom she has the power
-to protect at such times, to the end that she may know them--that she
-may identify them. I believe,” said Mr. Lorry, rather halting in his
-reassuring words, as the stony manner of all the three impressed itself
-upon him more and more, “I state the case, Citizen Defarge?”
+In all weathers, in the [[Snow|snow]] and [[Frost|frost]] of [[Winter|winter]], in the bitter winds of
+[[spring]], in the hot sunshine of [[Summer|summer]], in the rains of [[Autumn|autumn]], and again
+in the [[Snow|snow]] and [[Frost|frost]] of [[Winter|winter]], Lucie passed two hours of every day at
+this place; and every day on leaving it, she kissed the [[Prison|prison]] wall.
+Her husband saw her (so she learned from her father) it might be once in
+five or six times: it might be twice or thrice running: it might be, not
+for a week or a fortnight together. It was enough that he could and did
+see her when the chances served, and on that possibility she would have
+waited out the day, seven days a week.
 
-Defarge looked gloomily at his wife, and gave no other answer than a
-gruff sound of acquiescence.
+These occupations brought her round to the December month, wherein her
+father walked among the terrors with a steady head. On a lightly-snowing
+afternoon she arrived at the usual corner. It was a day of some wild
+rejoicing, and a festival. She had seen the houses, as she came along,
+decorated with little pikes, and with little red caps stuck upon them;
+also, with tricoloured ribbons; also, with the standard [[Inscription|inscription]]
+(tricoloured letters were the favourite), Republic One and Indivisible.
+Liberty, Equality, Fraternity, or [[Death]]!
 
-“You had better, Lucie,” said Mr. Lorry, doing all he could to
-propitiate, by tone and manner, “have the dear [[Child|child]] here, and our
-good Pross. Our good Pross, Defarge, is an English lady, and knows no
-French.”
+The miserable shop of the wood-sawyer was so small, that its whole
+surface furnished very indifferent space for this legend. He had got
+somebody to scrawl it up for him, however, who had squeezed [[Death]] in
+with most inappropriate difficulty. On his [[house]]-top, he displayed pike
+and cap, as a good citizen must, and in a [[Window|window]] he had stationed his
+saw inscribed as his “Little Sainte Guillotine”--for the great sharp
+female was by that [[Time|time]] popularly canonised. His shop was shut and he
+was not there, which was a relief to Lucie, and left her quite [[Alone|alone]].
 
-The lady in question, whose rooted conviction that she was more than a
-match for any foreigner, was not to be shaken by distress and, danger,
-appeared with folded arms, and observed in English to The Vengeance,
-whom her eyes first encountered, “[[Well]], I am sure, Boldface! I [[Hope|hope]]
-_you_ are pretty [[Well|well]]!” She also bestowed a British cough on Madame
-Defarge; but, neither of the two took much heed of her.
+But, he was not far off, for presently she heard a troubled movement
+and a shouting coming along, which filled her with [[Fear|fear]]. A moment
+afterwards, and a throng of people came pouring round the corner by the
+[[Prison|prison]] wall, in the midst of whom was the wood-sawyer hand in hand with
+The Vengeance. There could not be fewer than five hundred people, and
+they were dancing like five thousand demons. There was no other music
+than their own singing. They danced to the popular Revolution [[Song|song]],
+keeping a ferocious [[Time|time]] that was like a gnashing of teeth in unison.
+Men and women danced together, women danced together, men danced
+together, as hazard had brought them together. At first, they were a
+mere [[Storm|storm]] of coarse red caps and coarse woollen rags; but, as they
+filled the place, and stopped to [[Dance|dance]] about Lucie, some ghastly
+apparition of a [[Dance|dance]]-figure gone raving mad arose among them. They
+advanced, retreated, struck at one another’s hands, clutched at one
+another’s heads, spun round [[Alone|alone]], caught one another and spun round
+in pairs, until many of them dropped. While those were down, the rest
+linked hand in hand, and all spun round together: then the ring broke,
+and in separate rings of two and four they turned and turned until they
+all stopped at once, began again, struck, clutched, and tore, and then
+reversed the spin, and all spun round another way. Suddenly they stopped
+again, paused, struck out the [[Time|time]] afresh, formed into lines the width
+of the public way, and, with their heads low down and their hands high
+up, swooped screaming off. No fight could have been half so terrible
+as this [[Dance|dance]]. It was so emphatically a fallen sport--a something, once
+[[Innocent|innocent]], delivered over to all devilry--a healthy pastime changed into
+a means of angering the [[Blood|blood]], bewildering the senses, and steeling the
+heart. Such grace as was visible in it, made it the uglier, showing how
+warped and perverted all things good by [[Nature|nature]] were become. The maidenly
+bosom bared to this, the pretty almost-[[Child|child]]’s head thus distracted, the
+delicate foot mincing in this slough of [[Blood|blood]] and dirt, were types of
+the disjointed [[Time|time]].
 
-“Is that his [[Child|child]]?” said [[Madame Defarge]], stopping in her work for the
-first [[Time|time]], and pointing her knitting-needle at little Lucie as if it
-were the finger of Fate.
+This was the Carmagnole. As it passed, leaving Lucie frightened and
+bewildered in the doorway of the wood-sawyer’s [[house]], the feathery [[Snow|snow]]
+fell as quietly and lay as white and soft, as if it had never been.
 
-“Yes, madame,” answered Mr. Lorry; “this is our poor prisoner’s darling
-daughter, and only [[Child|child]].”
+“O my father!” for he stood before her when she lifted up the eyes she
+had momentarily darkened with her hand; “such a cruel, bad sight.”
 
-The [[Shadow|shadow]] attendant on [[Madame Defarge]] and her party seemed to fall so
-threatening and dark on the [[Child|child]], that her mother instinctively
-kneeled on the ground beside her, and held her to her breast. The
-[[Shadow|shadow]] attendant on [[Madame Defarge]] and her party seemed then to fall,
-threatening and dark, on both the mother and the [[Child|child]].
+“I know, my dear, I know. I have seen it many times. Don’t be
+frightened! Not one of them would harm you.”
 
-“It is enough, my husband,” said [[Madame Defarge]]. “I have seen them. We
-may go.”
+“I am not frightened for myself, my father. But when I think of my
+husband, and the mercies of these people--”
 
-But, the suppressed manner had enough of menace in it--not visible and
-presented, but indistinct and withheld--to alarm Lucie into saying, as
-she laid her appealing hand on [[Madame Defarge]]’s dress:
+“We will set him above their mercies very soon. I left him climbing to
+the [[Window|window]], and I came to tell you. There is no one here to see. You may
+kiss your hand towards that highest shelving roof.”
 
-“You will be good to my poor husband. You will do him no harm. You will
-help me to see him if you can?”
+“I do so, father, and I send him my [[Soul]] with it!”
 
-“Your husband is not my business here,” returned [[Madame Defarge]], looking
-down at her with perfect composure. “It is the daughter of your father
-who is my business here.”
+“You cannot see him, my poor dear?”
 
-“For my sake, then, be merciful to my husband. For my [[Child|child]]’s sake! She
-will put her hands together and pray you to be merciful. We are more
-afraid of you than of these others.”
+“No, father,” said Lucie, yearning and weeping as she kissed her hand,
+“no.”
 
-[[Madame Defarge]] received it as a compliment, and looked at her husband.
-Defarge, who had been uneasily biting his thumb-nail and looking at her,
-collected his face into a sterner expression.
+A footstep in the [[Snow|snow]]. [[Madame Defarge]]. “I salute you, citizeness,”
+ from the Doctor. “I salute you, citizen.” This in passing. Nothing more.
+[[Madame Defarge]] gone, like a [[Shadow|shadow]] over the white [[Road|road]].
 
-“What is it that your husband says in that little letter?” asked Madame
-Defarge, with a lowering smile. “Influence; he says something touching
-influence?”
+“Give me your arm, my [[Love|love]]. Pass from here with an air of cheerfulness
+and [[Courage|courage]], for his sake. That was [[Well|well]] done;” they had left the spot;
+“it shall not be in vain. Charles is summoned for to-morrow.”
 
-“That my father,” said Lucie, hurriedly taking the paper from her
-breast, but with her alarmed eyes on her questioner and not on it, “has
-much influence around him.”
+“For to-morrow!”
 
-“Surely it will release him!” said [[Madame Defarge]]. “Let it do so.”
+“There is no [[Time|time]] to lose. I am [[Well|well]] prepared, but there are precautions
+to be taken, that could not be taken until he was actually summoned
+before the Tribunal. He has not received the notice yet, but I know
+that he will presently be summoned for to-morrow, and removed to the
+Conciergerie; I have timely information. You are not afraid?”
 
-“As a wife and mother,” cried Lucie, most earnestly, “I implore you to
-have pity on me and not to exercise any power that you possess, against
-my [[Innocent|innocent]] husband, but to use it in his behalf. O sister-woman, think
-of me. As a wife and mother!”
+She could scarcely answer, “I trust in you.”
 
-[[Madame Defarge]] looked, coldly as ever, at the suppliant, and said,
-turning to her friend The Vengeance:
+“Do so, implicitly. Your suspense is nearly ended, my darling; he shall
+be restored to you within a few hours; I have encompassed him with every
+protection. I must see Lorry.”
 
-“The wives and mothers we have been used to see, since we were as little
-as this [[Child|child]], and much less, have not been greatly considered? We have
-known _their_ husbands and fathers laid in [[Prison|prison]] and kept from them,
-often enough? All our lives, we have seen our sister-women suffer, in
-themselves and in their children, [[Poverty|poverty]], [[Nakedness|nakedness]], hunger, thirst,
-sickness, misery, oppression and neglect of all kinds?”
+He stopped. There was a heavy lumbering of wheels within hearing. They
+both knew too [[Well|well]] what it meant. One. Two. Three. Three tumbrils faring
+away with their dread loads over the hushing [[Snow|snow]].
 
-“We have seen nothing else,” returned The Vengeance.
+“I must see Lorry,” the Doctor repeated, turning her another way.
 
-“We have borne this a long [[Time|time]],” said [[Madame Defarge]], turning her eyes
-again upon Lucie. “Judge you! Is it likely that the trouble of one wife
-and mother would be much to us now?”
+The staunch old gentleman was still in his trust; had never left it. He
+and his books were in frequent requisition as to property confiscated
+and made national. What he could save for the owners, he saved. No
+better man living to hold fast by what Tellson’s had in keeping, and to
+hold his peace.
 
-She resumed her knitting and went out. The Vengeance followed. Defarge
-went last, and closed the door.
+A murky red and yellow sky, and a rising mist from the Seine, denoted
+the approach of darkness. It was almost dark when they arrived at the
+Bank. The stately residence of Monseigneur was altogether blighted and
+deserted. Above a heap of [[Dust|dust]] and ashes in the [[Court|court]], ran the letters:
+National Property. Republic One and Indivisible. Liberty, Equality,
+Fraternity, or [[Death]]!
 
-“[[Courage]], my dear Lucie,” said Mr. Lorry, as he raised her. “[[Courage]],
-[[Courage|courage]]! So far all goes [[Well|well]] with us--much, much better than it has of
-late gone with many poor souls. Cheer up, and have a thankful heart.”
-
-“I am not thankless, I [[Hope|hope]], but that dreadful woman seems to throw a
-[[Shadow|shadow]] on me and on all my hopes.”
-
-“Tut, tut!” said Mr. Lorry; “what is this despondency in the brave
-little breast? A [[Shadow|shadow]] indeed! No substance in it, Lucie.”
-
-But the [[Shadow|shadow]] of the manner of these Defarges was dark upon himself,
-for all that, and in his secret mind it troubled him greatly.
+Who could that be with Mr. Lorry--the owner of the riding-coat upon the
+chair--who must not be seen? From whom newly arrived, did he come out,
+agitated and surprised, to take his favourite in his arms? To whom did
+he appear to repeat her faltering words, when, raising his voice and
+turning his head towards the door of the room from which he had issued,
+he said: “Removed to the Conciergerie, and summoned for to-morrow?”

@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 45: MR. DICK FULFILS MY AUNT’S PREDICTIONS (part 1)"
+title: "David Copperfield — Chapter 45: MR. DICK FULFILS MY AUNT’S PREDICTIONS (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_44_our_housekeeping/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_45_mr_dick_fulfils_my_aunts_predi/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_44_our_housekeeping/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_45_mr_dick_fulfils_my_aunts_predi/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -128,6 +128,3 @@ But one [[Night|night]], when I had been married some months, Mr. Dick put his
 head into the parlour, where I was writing [[Alone|alone]] (Dora having gone out
 with my aunt to take tea with the two little [[Birds|birds]]), and said, with a
 significant cough:
-
-‘You couldn’t speak to me without inconveniencing yourself, Trotwood, I
-am afraid?’

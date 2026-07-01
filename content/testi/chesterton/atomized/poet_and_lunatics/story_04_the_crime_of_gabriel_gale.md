@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/poet-and-lunatics-(chesterton)">Poet and Lunatics</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/poet_and_lunatics/story_03_the_shadow_of_the_shark">‹ Story 03 THE SHADOW OF THE SHARK</a><a class="ex-next" href="/testi/chesterton/atomized/poet_and_lunatics/story_05_the_finger_of_stone">Story 05 THE FINGER OF STONE ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/poet_and_lunatics/story_03_the_shadow_shadow_of_the_shark">‹ Story 03 THE Shadow SHADOW OF THE SHARK</a><a class="ex-next" href="/testi/chesterton/atomized/poet_and_lunatics/story_05_the_finger_of_stone">Story 05 THE FINGER OF STONE ›</a></div>
 </nav>
 
 
@@ -290,7 +290,6 @@ I have him waiting outside in the car."
 "Very [[Well|well]]," said the [[London]] doctor, rising with abrupt composure
 and buttoning up his coat.  "We had better go along to see him
 now and get it over."
-
 
 The interview between Gale and the two doctors, at an adjacent hotel,
 was so short and so extraordinary that they went away with their
@@ -769,7 +768,6 @@ than thinking I am God Almighty."
 
 "I shall think I am the only sane man," said Gabriel Gale.
 
-
 There was a sort of sequel which came to Garth's ears long afterwards;
 an epilogue to the crazy [[Comedy|comedy]] of the pitchfork and the apple-tree.
 Garth differed from Gale in having a more obvious turn for the rational,
@@ -840,6 +838,5 @@ and at the same [[Time|time]] empty; something the other man could only figure
 to himself in vague thoughts of some flat stark building with blank
 windows in a blind alley; and peering out of one of the windows
 the pale face of an idiot.
-
 
 V

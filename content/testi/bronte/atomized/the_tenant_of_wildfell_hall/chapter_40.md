@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 40"
+title: "The Tenant of Wildfell Hall — Chapter 40"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -366,7 +366,7 @@ and if there be nothing but sorrow for me in this world, what is the
 
 longest life of misery to a whole [[Eternity|eternity]] of peace? And for my little
 
-[[arthur|Arthur]]—has he no friend but me? Who was it said, “It is not the will of
+[[Arthur]]—has he no friend but me? Who was it said, “It is not the will of
 
 your Father which is in heaven that one of these little ones should
 

@@ -1,5 +1,5 @@
 ---
-title: "The Merry Wives of Windsor — Act IV, Scene 5 — monologue ([[Fenton|FENTON]]) [4]"
+title: "The Merry Wives of Windsor — Act IV, Scene 5 — monologue (FENTON) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-merry-wives-of-windsor-(shakespeare)"

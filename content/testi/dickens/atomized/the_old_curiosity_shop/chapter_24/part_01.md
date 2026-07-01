@@ -119,13 +119,3 @@ simple-looking man, of a spare and meagre habit, and sat among his
 door.
 
 ‘Speak to him, dear,’ the old man whispered.
-
-‘I am almost afraid to disturb him,’ said the [[Child|child]] timidly.  ‘He does
-not seem to see us.  Perhaps if we wait a little, he may look this way.’
-
-They waited, but the schoolmaster cast no look towards them, and still
-sat, thoughtful and silent, in the little porch.  He had a kind face.
-In his plain old suit of black, he looked pale and meagre.  They
-fancied, too, a lonely air about him and his [[house]], but perhaps that
-was because the other people formed a merry company upon the green, and
-he seemed the only solitary man in all the place.

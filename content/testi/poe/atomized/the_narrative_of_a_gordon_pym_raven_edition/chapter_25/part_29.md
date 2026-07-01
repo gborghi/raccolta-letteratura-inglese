@@ -14,6 +14,164 @@ tags:
 </nav>
 
 
+      worthy couple in and about the different tap-houses of the
+
+      neighbourhood during the earlier hours of the [[Night|night]]. Funds even
+
+      the most ample, are not always everlasting: and it was with empty
+
+      pockets our friends had ventured upon the present hostelrie.
+
+
+
+      At the precise period, then, when this [[history]] properly
+
+      commences, Legs, and his fellow Hugh Tarpaulin, sat, each with
+
+      both elbows resting upon the large oaken table in the middle of
+
+      the floor, and with a hand upon either cheek. They were eyeing,
+
+      from behind a huge flagon of unpaid-for “humming-stuff,” the
+
+      portentous words, “No [[chalk|Chalk]],” which to their indignation and
+
+      astonishment were scored over the doorway by means of that very
+
+      mineral whose presence they purported to deny. Not that the gift
+
+      of decyphering written characters—a gift among the commonalty of
+
+      that day considered little less cabalistical than the art of
+
+      inditing—could, in strict justice, have been laid to the charge
+
+      of either disciple of the sea; but there was, to say the [[Truth|truth]], a
+
+      certain twist in the formation of the letters—an indescribable
+
+      lee-lurch about the whole—which foreboded, in the opinion of both
+
+      seamen, a long run of dirty weather; and determined them at once,
+
+      in the allegorical words of Legs himself, to “pump [[Ship|ship]], clew up
+
+      all sail, and scud before the [[Wind|wind]].”
+
+
+
+      Having accordingly disposed of what remained of the ale, and
+
+      looped up the points of their short doublets, they finally made a
+
+      bolt for the street. Although Tarpaulin rolled twice into the
+
+      [[Fire|fire]]-place, mistaking it for the door, yet their escape was at
+
+      length happily effected—and half after twelve o’[[Clock|clock]] found our
+
+      heroes ripe for mischief, and running for life down a dark alley
+
+      in the direction of St. Andrew’s Stair, hotly pursued by the
+
+      landlady of the “Jolly Tar.”
+
+
+
+      At the epoch of this eventful tale, and periodically, for many
+
+      years before and after, all England, but more especially the
+
+      metropolis, resounded with the fearful cry of “Plague!” The [[City|city]]
+
+      was in a great measure depopulated—and in those horrible regions,
+
+      in the vicinity of the Thames, where amid the dark, narrow, and
+
+      filthy lanes and alleys, the Demon of Disease was supposed to
+
+      have had his nativity, Awe, Terror, and Superstition were [[Alone|alone]]
+
+      to be found stalking abroad.
+
+
+
+      By authority of the [[King|king]] such districts were placed under ban,
+
+      and all persons forbidden, under [[Pain|pain]] of [[Death|death]], to intrude upon
+
+      their dismal [[Solitude|solitude]]. Yet neither the mandate of the monarch,
+
+      nor the huge barriers erected at the entrances of the streets,
+
+      nor the prospect of that loathsome [[Death|death]] which, with almost
+
+      absolute certainty, overwhelmed the wretch whom no peril could
+
+      deter from the adventure, prevented the unfurnished and
+
+      untenanted dwellings from being stripped, by the hand of nightly
+
+      rapine, of every article, such as iron, brass, or lead-work,
+
+      which could in any manner be turned to a profitable account.
+
+
+
+      Above all, it was usually found, upon the annual [[Winter|winter]] opening
+
+      of the barriers, that locks, bolts, and secret cellars, had
+
+      proved but slender protection to those rich stores of wines and
+
+      liquors which, in consideration of the risk and trouble of
+
+      removal, many of the numerous dealers having shops in the
+
+      neighbourhood had consented to trust, during the period of [[Exile|exile]],
+
+      to so insufficient a security.
+
+
+
+      But there were very few of the terror-stricken people who
+
+      attributed these doings to the agency of human hands.
+
+      Pest-spirits, plague-goblins, and fever-demons, were the popular
+
+      imps of mischief; and tales so [[Blood|blood]]-chilling were hourly told,
+
+      that the whole mass of forbidden buildings was, at length,
+
+      enveloped in terror as in a shroud, and the plunderer himself was
+
+      often scared away by the horrors his own depreciations had
+
+      created; leaving the entire vast circuit of prohibited district
+
+      to gloom, [[Silence|silence]], pestilence, and [[Death|death]].
+
+
+
+      It was by one of the terrific barriers already mentioned, and
+
+      which indicated the region beyond to be under the Pest-ban, that,
+
+      in scrambling down an alley, Legs and the worthy Hugh Tarpaulin
+
+      found their progress suddenly impeded. To return was out of the
+
+      question, and no [[Time|time]] was to be lost, as their pursuers were
+
+      close upon their heels. With thorough-bred seamen to clamber up
+
+      the roughly fashioned plank-work was a trifle; and, maddened with
+
+      the twofold excitement of exercise and liquor, they leaped
+
+      unhesitatingly down within the enclosure, and holding on their
+
       drunken course with shouts and yellings, were soon bewildered in
 
       its noisome and intricate recesses.
@@ -43,163 +201,3 @@ tags:
       of many a nocturnal plunderer arrested by the hand of the plague
 
       in the very perpetration of his robbery.
-
-
-
-      But it lay not in the power of images, or sensations, or
-
-      impediments such as these, to stay the course of men who,
-
-      naturally brave, and at that [[Time|time]] especially, brimful of [[Courage|courage]]
-
-      and of “humming-stuff,” would have reeled, as straight as their
-
-      condition might have permitted, undauntedly into the very jaws of
-
-      [[Death]]. Onward—still onward stalked the grim Legs, making the
-
-      desolate solemnity echo and re-echo with yells like the terrific
-
-      war-whoop of the Indian; and onward, still onward rolled the
-
-      dumpy Tarpaulin, hanging on to the doublet of his more active
-
-      companion, and far surpassing the latter’s most strenuous
-
-      exertions in the way of vocal music, by bull-roarings _in basso_,
-
-      from the profundity of his stentorian lungs.
-
-
-
-      They had now evidently reached the strong hold of the pestilence.
-
-      Their way at every step or plunge grew more noisome and more
-
-      horrible—the paths more narrow and more intricate. Huge stones
-
-      and beams falling momently from the decaying roofs above them,
-
-      gave evidence, by their sullen and heavy descent, of the vast
-
-      height of the surrounding houses; and while actual exertion
-
-      became necessary to force a passage through frequent heaps of
-
-      rubbish, it was by no means seldom that the hand fell upon a
-
-      [[skeleton]] or rested upon a more fleshly corpse.
-
-
-
-      Suddenly, as the seamen stumbled against the entrance of a tall
-
-      and ghastly-looking building, a yell more than usually shrill
-
-      from the throat of the excited Legs, was replied to from within,
-
-      in a rapid succession of wild, laughter-like, and fiendish
-
-      shrieks. Nothing daunted at sounds which, of such a [[Nature|nature]], at
-
-      such a [[Time|time]], and in such a place, might have curdled the very
-
-      [[Blood|blood]] in hearts less irrevocably on [[Fire|fire]], the drunken couple
-
-      rushed headlong against the door, burst it open, and staggered
-
-      into the midst of things with a volley of curses.
-
-
-
-      The room within which they found themselves proved to be the shop
-
-      of an undertaker; but an open trap-door, in a corner of the floor
-
-      near the entrance, looked down upon a long range of wine-cellars,
-
-      whose depths the occasional sound of bursting bottles proclaimed
-
-      to be [[Well|well]] stored with their appropriate contents. In the middle
-
-      of the room stood a table—in the centre of which again arose a
-
-      huge tub of what appeared to be punch. Bottles of various wines
-
-      and cordials, together with jugs, pitchers, and flagons of every
-
-      shape and quality, were scattered profusely upon the board.
-
-      Around it, upon coffin-tressels, was seated a company of six.
-
-      This company I will endeavor to delineate one by one.
-
-
-
-      Fronting the entrance, and elevated a little above his
-
-      companions, sat a personage who appeared to be the president of
-
-      the table. His stature was gaunt and tall, and Legs was
-
-      confounded to behold in him a figure more emaciated than himself.
-
-      His face was as yellow as saffron—but no feature excepting one
-
-      [[Alone|alone]], was sufficiently marked to merit a particular description.
-
-      This one consisted in a forehead so unusually and hideously
-
-      lofty, as to have the appearance of a bonnet or [[Crown|crown]] of flesh
-
-      superadded upon the natural head. His mouth was puckered and
-
-      dimpled into an expression of ghastly affability, and his eyes,
-
-      as indeed the eyes of all at table, were glazed over with the
-
-      fumes of intoxication. This gentleman was clothed from head to
-
-      foot in a richly-embroidered black silk-velvet pall, wrapped
-
-      negligently around his form after the fashion of a Spanish cloak.
-
-      His head was stuck full of sable hearse-plumes, which he nodded
-
-      to and fro with a jaunty and knowing air; and, in his right hand,
-
-      he held a huge human thigh-bone, with which he appeared to have
-
-      been just knocking down some member of the company for a [[Song|song]].
-
-
-
-      Opposite him, and with her back to the door, was a lady of no
-
-      whit the less extraordinary character. Although quite as tall as
-
-      the person just described, she had no right to complain of his
-
-      unnatural emaciation. She was evidently in the last stage of a
-
-      dropsy; and her figure resembled nearly that of the huge puncheon
-
-      of October beer which stood, with the head driven in, close by
-
-      her side, in a corner of the chamber. Her face was exceedingly
-
-      round, red, and full; and the same peculiarity, or rather want of
-
-      peculiarity, attached itself to her countenance, which I before
-
-      mentioned in the case of the president—that is to say, only one
-
-      feature of her face was sufficiently distinguished to need a
-
-      separate characterization: indeed the acute Tarpaulin immediately
-
-      observed that the same remark might have applied to each
-
-      individual person of the party; every one of whom seemed to
-
-      possess a monopoly of some particular portion of physiognomy.

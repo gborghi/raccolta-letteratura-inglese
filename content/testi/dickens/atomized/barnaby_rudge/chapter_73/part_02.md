@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 73 (part 2)"
+title: "Barnaby Rudge — Chapter 73 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -133,17 +133,3 @@ through the [[Night|night]], dear boy! God be with you!’
 She tore herself away, and in a few seconds Barnaby was [[Alone|alone]]. He stood
 for a long [[Time|time]] rooted to the spot, with his face hidden in his hands;
 then flung himself, sobbing, on his miserable bed.
-
-But the [[Moon|moon]] came slowly up in all her gentle glory, and the [[Stars|stars]]
-looked out, and through the small compass of the grated [[Window|window]], as
-through the narrow crevice of one good deed in a murky life of [[Guilt|guilt]],
-the face of Heaven shone bright and merciful. He raised his head;
-gazed upward at the quiet sky, which seemed to smile upon the earth in
-sadness, as if the [[Night|night]], more thoughtful than the day, looked down in
-sorrow on the sufferings and evil deeds of men; and felt its peace sink
-deep into his heart. He, a poor idiot, caged in his narrow cell, was as
-much lifted up to God, while gazing on the mild light, as the freest and
-most favoured man in all the spacious [[City|city]]; and in his ill-remembered
-[[prayer]], and in the [[Fragment|fragment]] of the childish [[Hymn|hymn]], with which he sung and
-crooned himself asleep, there breathed as true a spirit as ever studied
-homily expressed, or old [[Cathedral|cathedral]] arches echoed.

@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 24 (part 2)"
+title: "Northanger Abbey — Chapter 24 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_25/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_25/part_03">part 03 ›</a></div>
 </nav>
 
+
+office of a friend. The General’s utmost anger could not be to herself
+
+what it might be to a daughter; and, besides, she thought the
+
+examination itself would be more satisfactory if made without any
 
 companion. It would be impossible to explain to [[Eleanor]] the suspicions,
 
@@ -215,17 +221,3 @@ detained, though her dread of further questions made her, for the first
 [[Time|time]] in their acquaintance, wish to leave him. They walked slowly up
 
 the gallery. “Have you had any letter from Bath since I saw you?”
-
-
-
-“No, and I am very much surprised. [[Isabella]] promised so faithfully to
-
-write directly.”
-
-
-
-“Promised so faithfully! a faithful promise! that puzzles me. I have
-
-heard of a faithful performance. But a faithful promise—the fidelity of
-
-promising! it is a power little worth knowing, however, since it can

@@ -1,5 +1,5 @@
 ---
-title: "[[GKC-Autobiography]] — Chapter 4 (part 1)"
+title: "GKC-Autobiography — Chapter 4 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/gkc-autobiography-(chesterton)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_03/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_04/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_03/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_04/part_02">part 02 ›</a></div>
 </nav>
 
 

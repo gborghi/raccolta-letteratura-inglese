@@ -1,5 +1,5 @@
 ---
-title: "[[Pride and Prejudice]] — Chapter 29"
+title: "Pride and Prejudice — Chapter 29"
 author: "Austen"
 unitType: chapter
 parentWork: "works/pride-and-prejudice-(austen)"
@@ -184,7 +184,7 @@ you draw?”
 “Not one.”
 
 “That is very strange. But I suppose you had no opportunity. Your mother
-should have taken you to town every [[spring]] for the benefit of masters.”
+should have taken you to town every [[Spring|spring]] for the benefit of masters.”
 
 “My mother would have no objection, but my father hates [[London]].”
 

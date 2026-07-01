@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 9 (part 3)"
+title: "Nicholas Nickleby — Chapter 9 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,42 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_09/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_09/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘I never saw such legs in the whole course of my life!’ said Miss
+Squeers, as she walked away.
+
+In fact, Miss Squeers was in [[Love|love]] with [[Nicholas Nickleby]].
+
+To account for the rapidity with which this young lady had conceived a
+passion for Nicholas, it may be necessary to state, that the friend
+from whom she had so recently returned, was a miller’s daughter of
+only eighteen, who had contracted herself unto the son of a small
+corn-factor, resident in the nearest market town. Miss Squeers and the
+miller’s daughter, being fast friends, had covenanted together some two
+years before, according to a custom prevalent among young ladies, that
+whoever was first engaged to be married, should straightway confide the
+mighty secret to the bosom of the other, before communicating it to
+any living [[Soul|soul]], and bespeak her as bridesmaid without loss of [[Time|time]]; in
+fulfilment of which pledge the miller’s daughter, when her engagement
+was formed, came out express, at eleven o’[[Clock|clock]] at [[Night|night]] as the
+corn-factor’s son made an offer of his hand and heart at twenty-five
+minutes past ten by the Dutch [[Clock|clock]] in the kitchen, and rushed into Miss
+Squeers’s bedroom with the gratifying intelligence. Now, Miss Squeers
+being five years older, and out of her teens (which is also a great
+matter), had, since, been more than commonly anxious to return the
+compliment, and possess her friend with a similar secret; but, either
+in consequence of finding it hard to please herself, or harder still to
+please anybody else, had never had an opportunity so to do, inasmuch as
+she had no such secret to disclose. The little interview with Nicholas
+had no sooner passed, as above described, however, than Miss Squeers,
+putting on her bonnet, made her way, with great precipitation, to
+her friend’s [[house]], and, upon a solemn renewal of divers old vows of
+secrecy, revealed how that she was--not exactly engaged, but going to
+be--to a gentleman’s son--(none of your corn-factors, but a gentleman’s
+son of high descent)--who had come down as teacher to Dotheboys Hall,
+under most mysterious and remarkable circumstances--indeed, as Miss
+Squeers more than once hinted she had good reason to believe, induced,
+by the fame of her many charms, to seek her out, and woo and win her.
 
 ‘Isn’t it an extraordinary thing?’ said Miss Squeers, emphasising the
 adjective strongly.
@@ -88,53 +124,3 @@ incessantly. When Miss Squeers had ‘done’ the friend’s hair, the friend
 way of ringlets down the neck; and then, when they were both touched up
 to their entire satisfaction, they went downstairs in full state with
 the long gloves on, all ready for company.
-
-‘Where’s John, ‘Tilda?’ said Miss Squeers.
-
-‘Only gone [[Home|home]] to clean himself,’ replied the friend. ‘He will be here
-by the [[Time|time]] the tea’s drawn.’
-
-‘I do so palpitate,’ observed Miss Squeers.
-
-‘Ah! I know what it is,’ replied the friend.
-
-‘I have not been used to it, you know, ‘Tilda,’ said Miss Squeers,
-applying her hand to the left side of her sash.
-
-‘You’ll soon get the better of it, dear,’ rejoined the friend. While
-they were talking thus, the hungry servant brought in the tea-things,
-and, soon afterwards, somebody tapped at the room door.
-
-‘There he is!’ cried Miss Squeers. ‘Oh ‘Tilda!’
-
-‘Hush!’ said ‘Tilda. ‘Hem! Say, come in.’
-
-‘Come in,’ cried Miss Squeers faintly. And in walked Nicholas.
-
-‘Good-evening,’ said that young gentleman, all unconscious of his
-conquest. ‘I understood from Mr. Squeers that--’
-
-‘Oh yes; it’s all right,’ interposed Miss Squeers. ‘Father don’t tea
-with us, but you won’t mind that, I dare say.’ (This was said archly.)
-
-Nicholas opened his eyes at this, but he turned the matter off very
-coolly--not caring, particularly, about anything just then--and went
-through the ceremony of introduction to the miller’s daughter with so
-much grace, that that young lady was lost in admiration.
-
-‘We are only waiting for one more gentleman,’ said Miss Squeers, taking
-off the teapot lid, and looking in, to see how the tea was getting on.
-
-It was matter of equal moment to Nicholas whether they were waiting for
-one gentleman or twenty, so he received the intelligence with perfect
-unconcern; and, being out of spirits, and not seeing any especial reason
-why he should make himself agreeable, looked out of the [[Window|window]] and
-sighed involuntarily.
-
-As luck would have it, Miss Squeers’s friend was of a playful turn, and
-hearing Nicholas sigh, she took it into her head to rally the [[lovers]] on
-their lowness of spirits.
-
-‘But if it’s caused by my being here,’ said the young lady, ‘don’t mind
-me a bit, for I’m quite as bad. You may go on just as you would if you
-were [[Alone|alone]].’

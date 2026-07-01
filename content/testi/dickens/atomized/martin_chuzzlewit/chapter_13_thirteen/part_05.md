@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 13: THIRTEEN (part 5)"
+title: "Martin Chuzzlewit — Chapter 13: THIRTEEN (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,32 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_13_thirteen/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_13_thirteen/part_06">part 06 ›</a></div>
 </nav>
 
+
+Martin drew that piece of money from his pocket, and tossed it towards
+him. Mr Tigg caught it, looked at it to assure himself of its goodness,
+spun it in the air after the manner of a pieman, and buttoned it up.
+Finally, he raised his hat an inch or two from his head with a military
+air, and, after pausing a moment with deep gravity, as to decide in
+which direction he should go, and to what Earl or Marquis among his
+friends he should give the preference in his next call, stuck his hands
+in his skirt-pockets and swaggered round the corner. Martin took the
+directly opposite course; and so, to his great content, they parted
+company.
+
+It was with a bitter sense of humiliation that he cursed, again and
+again, the mischance of having encountered this man in the pawnbroker’s
+shop. The only comfort he had in the recollection was, Mr Tigg’s
+voluntary avowal of a separation between himself and Slyme, that would
+at least prevent his circumstances (so Martin argued) from being known
+to any member of his family, the bare possibility of which filled him
+with shame and wounded [[Pride|pride]]. Abstractedly there was greater reason,
+perhaps, for supposing any declaration of Mr Tigg’s to be false, than
+for attaching the least credence to it; but remembering the terms on
+which the intimacy between that gentleman and his bosom friend had
+subsisted, and the strong probability of Mr Tigg’s having established
+an independent business of his own on Mr Slyme’s connection, it had a
+reasonable appearance of probability; at all events, Martin hoped so;
+and that went a long way.
 
 His first step, now that he had a supply of ready money for his present
 necessities, was, to retain his bed at the public-[[house]] until further
@@ -31,7 +57,7 @@ advertisement, stating what he wanted, and inserted it in the leading
 newspapers. Pending the receipt of the twenty or thirty answers which
 he vaguely expected, he reduced his wardrobe to the narrowest limits
 consistent with decent respectability, and carried the overplus at
-different times to the pawnbroker’s shop, for [[conversion]] into money.
+different times to the pawnbroker’s shop, for [[Conversion|conversion]] into money.
 
 And it was strange, very strange, even to himself, to find how, by
 quick though almost imperceptible degrees, he lost his delicacy and
@@ -90,24 +116,3 @@ as the latter; and yet he was reduced to making it; for even if he could
 have contemplated the being set down in [[america|America]] totally without money,
 he had not enough left now for a steerage passage and the poorest
 provisions upon the voyage.
-
-It is an illustration of a very common tendency in the mind of man, that
-all this [[Time|time]] he never once doubted, one may almost say the certainty
-of doing great things in the New World, if he could only get there.
-In proportion as he became more and more dejected by his present
-circumstances, and the means of gaining [[america|America]] receded from his grasp,
-the more he fretted himself with the conviction that that was the only
-place in which he could [[Hope|hope]] to achieve any high end, and worried his
-brain with the thought that men going there in the meanwhile might
-anticipate him in the attainment of those objects which were dearest to
-his heart. He often thought of John Westlock, and besides looking out
-for him on all occasions, actually walked about [[London]] for three days
-together for the express purpose of meeting with him. But although he
-failed in this; and although he would not have scrupled to borrow money
-of him; and although he believed that John would have lent it; yet still
-he could not bring his mind to write to Pinch and inquire where he was
-to be found. For although, as we have seen, he was fond of Tom after
-his own fashion, he could not endure the thought (feeling so superior to
-Tom) of making him the stepping-stone to his fortune, or being anything
-to him but a patron; and his [[Pride|pride]] so revolted from the idea that it
-restrained him even now.

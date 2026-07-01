@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 18 (part 2)"
+title: "The Tenant of Wildfell Hall — Chapter 18 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -12,6 +12,12 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/the-tenant-of-wildfell-hall-(bronte)">The Tenant of Wildfell Hall</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_18/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_18/part_03">part 03 ›</a></div>
 </nav>
+
+
+is a tall, thin, gloomy-looking man, apparently between thirty and
+
+forty, and of a somewhat sickly, careworn aspect.
+
 
 
 At last, Mr. Huntingdon’s light phaeton came bowling merrily up the
@@ -215,23 +221,3 @@ will.
 
 
 “The candle will keep,” returned he.
-
-
-
-I made a desperate effort to free my hand from his grasp.
-
-
-
-“Why are you in such a hurry to leave me, [[Helen]]?” he said, with a smile
-
-of the most provoking [[Self-Sufficiency|self-sufficiency]]. “You don’t hate me, you
-
-_know_.”
-
-
-
-“Yes, I do—at this moment.”
-
-
-
-“Not you. It is Annabella Wilmot you hate, not me.”

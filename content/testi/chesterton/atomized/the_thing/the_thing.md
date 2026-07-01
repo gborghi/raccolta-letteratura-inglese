@@ -211,7 +211,7 @@ refuse from a foreigner.  I can only plead that I have endeavoured
 to carry out the excellent patriotic principle of "See England First"
 in the equally patriotic paraphrase of "Criticize England First."
 I have been engaged upon it long enough to be quite [[Well|well]] aware that there
-are evils present in England that are relatively absent from [[America]];
+are evils present in England that are relatively absent from [[america|America]];
 and none more conspicuously absent, as Mr. Belloc has pointed out
 to the surprise of many, than the real, servile, superstitious,
 and mystical adoration of Money.
@@ -304,7 +304,7 @@ he wrote DIE WALKURIE, and a hen achieves every [[Time|time]] she lays an egg."
 That is all consistent enough as far as it goes; but unfortunately
 Mr. Mencken appears to go on to something quite inconsistent with it.
 According to the quotation, he afterwards bursts into a [[Song|song]]
-of triumph because there is now in [[America]] not only criticism,
+of triumph because there is now in [[america|America]] not only criticism,
 but controversy.  "To-day for the first [[Time|time]] in years there is strife
 in American criticism... ears are bitten off, noses are bloodied.
 There are wallops both above and below the belt."
@@ -382,7 +382,7 @@ and while I believe we are both heavy men, I [[Doubt|doubt]] not that he is
 the more formidable.  The very possibility of our being reduced
 to this inarticulate explanation may possibly throw some light
 on Mr. Mencken's remarkable description of the new literary life
-in [[America]].  "Ears are bitten off," he says; and this curious
+in [[america|America]].  "Ears are bitten off," he says; and this curious
 form of cultural intercourse might really be the only solution,
 when ears are no longer organs of hearing and there are no organs
 except organs of [[Self|self]]-expression. He that hath ears to hear and will
@@ -605,18 +605,18 @@ What could they do against a race of gods and a republic of kings;
 not verbally but veritably the New World?
 
 [[Well]] ... here is what Mr. Foerster says about the present position
-of the founder of the new world of [[Democracy|democracy]]:  "Our present science lends
+of the founder of the new world of [[democracy]]:  "Our present science lends
 little support to an inherent 'dignity of man' or to his 'perfectibility.'
 It is wholly possible that the science of the future will lead
-us away from [[Democracy|democracy]] towards some form of aristocracy.
-The millennial expectations that Whitman built upon science and [[Democracy|democracy]],
+us away from [[democracy]] towards some form of aristocracy.
+The millennial expectations that Whitman built upon science and [[democracy]],
 we are now [[Well|well]] aware rested upon insecure foundations.... The
 perfection of [[Nature|nature]], the natural goodness of man, 'the great [[Pride|pride]]
 of man in himself' offset with an emotional [[Humanitarianism|humanitarianism]]--these are
 the materials of a structure only slightly coloured with modernity.
 His politics, his ethics, his religion belong to the past,
 even that facile 'religiousness' which he hoped would suffuse
-and complete the work of science and [[Democracy|democracy]].... In the essentials
+and complete the work of science and [[democracy]].... In the essentials
 of his prophecy, Whitman, we must conclude, has been falsified
 by the event."  This is a very moderate and fair statement;
 it would be easy to find the same thing in a much fiercer statement.
@@ -683,12 +683,12 @@ and plague-stricken about the unaccountable growth of hair.
 In short, the whole mood has changed, as a matter of poetry.
 But it has not changed as a matter of theology; and that is the argument
 for having an unchanging theology.  The Catholic theology has nothing
-to do with [[Democracy|democracy]], for or against, in the sense of a machinery
+to do with [[democracy]], for or against, in the sense of a machinery
 of voting or a criticism of particular political privileges.
-It is not committed to support what Whitman said for [[Democracy|democracy]],
-or even what Jefferson or [[Lincoln]] said for [[Democracy|democracy]].
+It is not committed to support what Whitman said for [[democracy]],
+or even what Jefferson or [[Lincoln]] said for [[democracy]].
 But it is absolutely committed to contradict what Mr. Mencken
-says against [[Democracy|democracy]].  There will be Diocletian persecutions,
+says against [[democracy]].  There will be Diocletian persecutions,
 there will be Dominican [[Crusades|crusades]], there will be rending of all religious
 peace and compromise, or even the end of civilization and the world,
 before the [[Catholic Church]] will admit that one single moron,
@@ -1904,7 +1904,7 @@ and feel a faint [[Hope|hope]] that I may be mentioning it for the last [[Time|t
 WHY I AM A CATHOLIC
 
 A LEADING article in a daily paper was recently devoted
-to the New [[Prayer]] Book; without having anything very new to
+to the New [[prayer|Prayer]] Book; without having anything very new to
 say about it.  For it mostly consisted in repeating for the
 nine-hundredth-and-ninety-nine-thousandth [[Time|time]] that what the ordinary
 Englishman wants is a religion without dogma (whatever that may be),
@@ -2202,7 +2202,7 @@ The Church is no stranger to heresies that involved human sacrifice,
 or the worship of demons, or the practice of perversions.
 We might [[Well|well]] suppose, therefore, that the Church says benevolently
 to these fortunate Slavs, "By all means worship Baphomet and Beelzebub;
-say the Lord's [[Prayer]] backwards; continue to drink the [[Blood|blood]]
+say the Lord's [[prayer|Prayer]] backwards; continue to drink the [[Blood|blood]]
 of infants--nay, even," and here her voice falters, till she
 rallies with an effort of generous resolution, "--yes, even, if you
 really must, grow a beard."  And then, I suppose, we must call
@@ -2216,7 +2216,7 @@ It is presumably a problem on which this intolerant spiritual
 tyranny will suffer no question to be asked.
 
 Does the reader realise the [[Despair|despair]] that falls upon the hapless Catholic
-journalist at such moments; or how wild a [[Prayer|prayer]] he may [[Well|well]] send up
+journalist at such moments; or how wild a [[prayer]] he may [[Well|well]] send up
 for the intercession of St. Francis of Sales?  What is he to say;
 or at what end of that sentence is he to begin?  What is the good of
 his laboriously beginning to explain that a married clergy is a matter
@@ -2326,7 +2326,7 @@ believe nor forget.
 
 THE MASK OF THE AGNOSTIC
 
-SIR [[arthur|ARTHUR]] KEITH, in his recent remarks on the [[Soul|soul]], let the cat out
+SIR [[Arthur|ARTHUR]] KEITH, in his recent remarks on the [[Soul|soul]], let the cat out
 of the bag.  He let it out of that very prim and proper professional
 bag which is carried by the "medical man" whom he described
 as conscientiously compelled to assert that the life of the [[Soul|soul]]
@@ -2342,7 +2342,7 @@ but simply their opinions; and a very shaky sort of opinions some
 of them are.
 
 Not long ago, in his famous address on Anthropoids to the Congress
-at Leeds, Sir [[arthur|Arthur]] Keith said that he spoke simply as the foreman
+at Leeds, Sir [[Arthur]] Keith said that he spoke simply as the foreman
 of a jury.  It is true that he had not apparently consulted the jury;
 and it was rapidly made clear that the jury violently disagreed;
 which is unusual in a jury after the foreman has delivered
@@ -2353,7 +2353,7 @@ without [[Fear|fear]] or favour.  And this effect would be a hundred times
 more effective if we were left free to imagine that the juryman's
 personal sympathies might be on the other side; or at least,
 if we did not know that they were very keenly on the one side.
-Sir [[arthur|Arthur]] should have been careful to preserve the impression that,
+Sir [[Arthur]] should have been careful to preserve the impression that,
 speaking strictly and solely as an anthropologist, he was forced
 to accept the natural selection of anthropoids.  He should then
 have left it to be inferred that, merely as a private person,
@@ -2368,7 +2368,7 @@ witness because a reluctant witness.  In the trial of Darwin the man
 might feel for the plaintiff, but the juryman would be forced
 to find for the defendant.
 
-And now Sir [[arthur|Arthur]] Keith has thrown the whole of that imperial
+And now Sir [[Arthur]] Keith has thrown the whole of that imperial
 impartiality away.  He has gone out of his way to dogmatise and lay
 down the law about the [[Soul|soul]]; which has nothing to do with his subject,
 except in so far as it is everybody's subject.  But while it does not
@@ -2384,7 +2384,7 @@ When THEY choose the side of natural selection, we can all agree
 that it is a very natural selection.
 
 As to the conclusion itself, it seems almost incredibly inconclusive.
-Unless Sir [[arthur|Arthur]] Keith is very badly misreported, he specially
+Unless Sir [[Arthur]] Keith is very badly misreported, he specially
 stated that spiritual existence ceases with the physical functions;
 and that no medical man could conscientiously say anything else.
 However [[Grave|grave]] be the injury called [[Death|death]] (which indeed is often fatal),
@@ -2408,7 +2408,7 @@ a medical man knows no more about that than any other man.
 And when medical men were clear-headed, some of them (like an ex-surgeon
 named Thomas Henry Huxley) said they did not believe that medical men or
 any men could know anything about it.  That is an intelligible position;
-but it does not seem to be Sir [[arthur|Arthur]] Keith's position.  He has been
+but it does not seem to be Sir [[Arthur]] Keith's position.  He has been
 put up publicly to DENY that the [[Soul|soul]] survives the [[Body|body]]; and to make
 the extraordinary remark that any medical man must say the same.
 It is as if we were to say that any competent builder or surveyor
@@ -2471,7 +2471,7 @@ So the Right Honourable Gentleman hopes it is not necessary for him
 to contradict what he feels sure the Honourable Member could
 not have intended to insinuate.  So a Cabinet Minister is put up
 to deny from a platform that there is any change in the [[government|Government]]'s
-policy about Damascus.  And so Sir [[arthur|Arthur]] Keith is put up to deny
+policy about Damascus.  And so Sir [[Arthur]] Keith is put up to deny
 that there is any change in the scientific attitude about Darwin.
 
 And when we hear that, we all give a sort of sigh of satisfaction;
@@ -2490,7 +2490,7 @@ repeated everywhere, exactly what is meant by the absolute agreement
 on everything which binds the Prime Minister and all his colleagues.
 The Prime Minister does not really expect us to believe that he is
 the holy and beloved [[King|king]] of a brotherhood of knights sworn to a
-[[Faith|faith]] and giving their hearts to him [[Alone|alone]].  But Sir [[arthur|Arthur]] Keith
+[[Faith|faith]] and giving their hearts to him [[Alone|alone]].  But Sir [[Arthur]] Keith
 does really expect us to believe that he is the foreman of a jury
 containing all the different men of science, all absolutely agreed
 that Darwin's particular opinion was "eternal." That is what I mean
@@ -2521,16 +2521,16 @@ which our grandfathers regarded as a very modern movement.
 Even considered a priori as a matter of probability it therefore
 seems rather unlikely that the science of that generation was any
 more infallible than its ethics and politics.  Even on the principles
-Sir [[arthur|Arthur]] professes, it seems very queer that there should now
+Sir [[Arthur]] professes, it seems very queer that there should now
 be no more to be said about Darwinism than he said about it.
 But we do not need to appeal to those principles or those probabilities.
 We can appeal to the facts.  As it happens, we do know something
-about the facts; and Sir [[arthur|Arthur]] Keith does not seem to know
+about the facts; and Sir [[Arthur]] Keith does not seem to know
 that we know.
 
 It was in a Catholic paper that certain statements were made about
-Darwinism to-day; statements which Sir [[arthur|Arthur]] Keith himself went
-out of his way to contradict; and about which Sir [[arthur|Arthur]] Keith
+Darwinism to-day; statements which Sir [[Arthur]] Keith himself went
+out of his way to contradict; and about which Sir [[Arthur]] Keith
 himself was proved sensationally and disastrously wrong.
 Probably the story is now known to all readers of that paper; but it
 will possibly never come to the knowledge of most other journalists,
@@ -2544,13 +2544,13 @@ When Mr. Belloc stated that these Darwinians were out of date and ignorant
 of recent biology, he quoted among a great many other recent authorities
 the French biologist Vialleton as denying the possibility of natural
 selection in a particular case connected with reptiles and [[Birds|birds]].
-Sir [[arthur|Arthur]] Keith, coming to the rescue of Mr. H. G. Wells, and eager
+Sir [[Arthur]] Keith, coming to the rescue of Mr. H. G. Wells, and eager
 to prove that he and Mr. Wells were not out of date or ignorant
 of recent biology, proceeded to contradict Mr. Belloc flatly.
 He said that there was no such statement in Vialleton's book;
 in other words, he accused Mr. Belloc of having misquoted or
 misrepresented Vialleton's book.  It then appeared, to the amazement
-of everybody, and especially of Mr. Belloc, that Sir [[arthur|Arthur]] Keith did
+of everybody, and especially of Mr. Belloc, that Sir [[Arthur]] Keith did
 not even know of the existence of the book.  He was referring only
 to an early and elementary work by the same author published long ago.
 That was the last he had ever read of Vialleton.  The important book,
@@ -2893,7 +2893,7 @@ for the Dark Ages."  "The Dark Ages," of course, is cant and claptrap;
 we need take no notice of that.  But we may perhaps notice,
 not without interest and amusement, that about twenty-five
 lines before, the Dean himself has described the popular Protestantism
-of [[America]] as if it were a barbarism and belated obscurantism.
+of [[america|America]] as if it were a barbarism and belated obscurantism.
 From which one may infer that the Dark Ages are still going on,
 exactly where there is Protestantism to preserve them.
 And considering that he says at least five times that the appeal
@@ -3013,7 +3013,7 @@ read of the modern criticisms of religion, especially of my
 own religion, the more I am struck by this narrow concentration
 and this imaginative incapacity to take in the problem as a whole.
 I have recently been reading a very moderate condemnation of current
-Catholic practices, coming from [[America]], where the condemnation is often
+Catholic practices, coming from [[america|America]], where the condemnation is often
 far from moderate.  It takes the form, generally speaking, of a swarm
 of questions, all of which I should be quite willing to answer.
 Only I am vividly conscious of the big questions that are not asked,
@@ -3656,7 +3656,7 @@ of practical politics and called an idealist and a failure.
 
 The same progress of Capitalism that made the squires has
 destroyed the squires.  The same commercial advance that exalted
-England before Europe has abased England before [[America]].
+England before Europe has abased England before [[america|America]].
 Exactly in so far as we have our affections healthily attached to this
 adventurous and patriotic England of the last few centuries, we shall
 see that our affections and attachments are bound to be betrayed.
@@ -3912,7 +3912,7 @@ that they are not plotted anywhere; but it is unreasonable to expect
 our fellow-countrymen to suggest anything so fanciful as that.
 
 Now this mysterious delusion, still far commoner than many suppose
-even in England, and covering whole interior spaces of [[America]],
+even in England, and covering whole interior spaces of [[america|America]],
 happens to be another illustration of what I have been suggesting
 in an earlier [[Essay|essay]]; the fact that those who are always
 digging and prying for secret things about us, have never even
@@ -3920,7 +3920,7 @@ glanced at the most [[Self|self]]-evident things about themselves.
 We have only to ask ourselves, with a sort of shudder, what would
 have been said if we really had confessed to conspiracy as
 shamelessly as half our accusers have confessed to it themselves.
-What in the world would be said, either in [[America]] or in Europe, if we
+What in the world would be said, either in [[america|America]] or in Europe, if we
 really had behaved like a secret society, in places where the groups
 of our enemies cannot even deny that they are secret societies?
 What in the world would happen if a Catholic Congress at Glasgow
@@ -3929,7 +3929,7 @@ delegates, all with their faces covered and their names unknown,
 looking out of slits in their ghastly masks of white?
 Yet this was, until just lately, the rigid routine of the great
 American organisation to destroy Catholicism; an organisation
-which recently threatened to seize all [[government]] in [[America]].
+which recently threatened to seize all [[government]] in [[america|America]].
 What would have been said, if there really was a definite, recognised,
 but entirely unknown thing, called the Secret of the Catholics;
 as there has been for long past a recognised but unknown reality
@@ -3944,7 +3944,7 @@ Suppose our veneration for the dignity of St. Peter were wholly
 and solely a veneration for the denial of St. Peter; and we used it
 as a sort of motto or password to swear that we knew not [[Christ]].
 Yet that was admittedly the policy of a whole political movement
-in [[America]], which aimed at destroying the citizenship of Catholics.
+in [[america|America]], which aimed at destroying the citizenship of Catholics.
 Suppose that the Mafia and all the murderous secret associations
 of the Continent had been notoriously working on the Catholic side,
 instead of the other side.  Should we ever have heard the last of it?
@@ -3982,7 +3982,7 @@ himself over the happy secret that he is a Kleagle or a Klemperor,
 long after everybody has ceased to klare a klam whether he is or not.
 On the political side the power of these conspiracies has been
 practically broken in both Continents; in [[Italy]] by the Fascists and in
-[[America]] by a rally of reasonable and public-spirited governors of both
+[[america|America]] by a rally of reasonable and public-spirited governors of both
 political parties.  But the point of historical interest remains:
 that it was the very people who accused us of mummery and mystery
 who surrounded all their secularising activities with far more fantastic
@@ -4540,7 +4540,7 @@ in a dead language, we are tempted to reply to our questioners
 by telling them that they are apparently not fit to be trusted
 with a living language.  When we consider what they have done
 with the noble English language, as compared with the English
-of the Anglican [[Prayer]]-Book, let [[Alone|alone]] the Latin of the Mass,
+of the Anglican [[prayer|Prayer]]-Book, let [[Alone|alone]] the Latin of the Mass,
 we feel that their development may [[Well|well]] be called degenerate.
 
 The language called dead can never be called degenerate.
@@ -4645,7 +4645,7 @@ than my own unimportant opinions.
 In any case, my own experience of the modern world tells me that Catholics
 are much more and not less individualistic than other men in their
 general opinions.  Mr. [[Michael]] Williams, the spirited propagandist
-of Catholicism in [[America]], gave this as a very cogent reason for
+of Catholicism in [[america|America]], gave this as a very cogent reason for
 refusing to found or join anything like a Catholic party in politics.
 He said that Catholics will combine for Catholicism, but it is quite
 abnormally difficult to get them to combine for anything else.
@@ -4731,7 +4731,7 @@ I might take, for instance, a book like the remarkable recent work
 of Mr. Christopher Hollis, "The American Heresy."  Now surely nobody
 in his senses will say that all Catholics are bound to believe
 that the Slave States ought to have won the [[American Civil War]],
-that [[America]] ought never to have extended westward of Tennessee,
+that [[america|America]] ought never to have extended westward of Tennessee,
 that Andrew Jackson was a savage, or that [[Abraham Lincoln]] was a failure,
 that Calhoun was like a heathen Roman or that Wilson was an arrogant
 and dishonest schoolmaster.  These opinions are not part of the
@@ -4935,7 +4935,7 @@ They always come back to boo and riot in our churches when they
 have got tired of trying to build their own.
 
 One who thus reveals all that he does not know, and certainly ought
-to know, is Sir [[arthur|Arthur]] Conan Doyle.  He broke out the other day
+to know, is Sir [[Arthur]] Conan Doyle.  He broke out the other day
 into a diatribe, which was supposed to begin with the relations
 of his new religion to others, but which turned with incalculable
 rapidity into mere abuse of his old original family religion,
@@ -4945,7 +4945,7 @@ Perhaps he is right; and there is not.  But you would think
 a man fresh from founding a new religion might have a few
 new things to say about that; instead of old and negative
 things to say about something else.  But the special strictures
-of Sir [[arthur|Arthur]] Conan Doyle on Catholic orthodoxy had a certain
+of Sir [[Arthur]] Conan Doyle on Catholic orthodoxy had a certain
 very curious character, which [[Alone|alone]] makes them worth noting at all.
 In themselves they are almost indescribably stale and thin and shabby;
 and have been thrashed threadbare in a hundred controversies.
@@ -4995,7 +4995,7 @@ the most abstract allusion to the things that she hears shouted
 and cat-called in all the theatrical art and social conversation
 of the day.
 
-Sir [[arthur|Arthur]] Conan Doyle must know as [[Well|well]] as I do that modesty
+Sir [[Arthur]] Conan Doyle must know as [[Well|well]] as I do that modesty
 of that sort is not being regarded at all by the modern world;
 and that nobody [[Dreams|dreams]] of attempting to safeguard it so strictly as it
 is safeguarded in Catholic conversation and Catholic confessions.
@@ -5012,7 +5012,7 @@ the only decent object in the landscape.
 
 I mean nothing flippant when I say that the only interesting thing
 about all this is its staleness.  I have no unfriendly feelings towards
-Sir [[arthur|Arthur]] Conan Doyle, to whom we all owe so much gratitude in the realm
+Sir [[Arthur]] Conan Doyle, to whom we all owe so much gratitude in the realm
 of literature and entertainment, and who often seems to me entirely
 right in his manner of defending Spiritualism against Materialism.
 But I do realize, even if he does not realize, that, at the back
@@ -5042,10 +5042,10 @@ a favourite word of Dr. Watson.  Indeed, we may [[Well|well]] question whether
 the institution of the Red-Headed League or the episode of the Yellow Face
 at the [[Window|window]], or any of the fantasies of Mr. Sherlock Holmes,
 were any more fantastic than some that have been submitted to us
-seriously enough by the school of Sir [[arthur|Arthur]] Conan Doyle.
+seriously enough by the school of Sir [[Arthur]] Conan Doyle.
 I do not say that this test of external extravagance ought
 to be final, or that no defence of such details could be made.
-But when Sir [[arthur|Arthur]] deliberately gibes at our ceremonies, we may
+But when Sir [[Arthur]] deliberately gibes at our ceremonies, we may
 at least be allowed to smile at his.  Suppose any Catholic rite
 before the altar consisted of binding a human being hand and foot
 with ropes; should we ever hear the last of the horrible [[Survival|survival]]
@@ -5118,9 +5118,9 @@ Considering that we have been abused for decades on the ground that we
 forced on the young the infamous suggestions of the Confessional,
 this is rather funny.
 
-Only the other day I noted that Sir [[arthur|Arthur]] Conan Doyle revived
+Only the other day I noted that Sir [[Arthur]] Conan Doyle revived
 this charge of an insult to [[innocence]]; and I will leave Dean Inge
-and Sir [[arthur|Arthur]] to fight it out.  And when he charges us with
+and Sir [[Arthur]] to fight it out.  And when he charges us with
 indifference to [[Eugenics]] and the breeding of criminals and lunatics,
 it is enough that he has himself to denounce the perversion of
 science manifested in the monkey business.  He might permit others
@@ -5581,7 +5581,7 @@ are generally the very people who do not believe there was any
 special [[Providence|providence]] to guide it.  The very rationalists who jeer
 at the trial by combat, in the old feudal ordeal, do in fact accept
 a trial by combat as deciding all human [[history]].  In the war of
-the North and South in [[America]], some of the Southern rebels wrote
+the North and South in [[america|America]], some of the Southern rebels wrote
 on their flags the rhyme, "Conquer we must for our cause is just."
 The [[philosophy]] was faulty; and in that sense it served them right that
 their opponents copied and continued it in the form "Conquer they didn't;
@@ -5591,7 +5591,7 @@ by Mr. Christopher Hollis.  It is a very brilliant and original book;
 but I know it will not be taken sufficiently seriously;
 because the reader will have to wrench his mind out of a rut even
 to imagine the South victorious; still more to imagine anybody
-saying that a small, limited and agricultural [[America]] would have
+saying that a small, limited and agricultural [[america|America]] would have
 been better for everybody--especially Americans.
 
 I could give many other examples of what I mean by this
@@ -5718,7 +5718,7 @@ Those who have not read the speculations and the doubts simply go
 on repeating the dogma.  While Dr. Barnes was preaching sermons
 carefully founded on the biology of fifty years ago, Mr. Belloc was
 proving conclusively before the whole world that Mr. H. G. Wells and
-Sir [[arthur|Arthur]] Keith were unacquainted with the biology of five years ago.
+Sir [[Arthur]] Keith were unacquainted with the biology of five years ago.
 In short, it is only just, as we have said, to insist on the difference
 between Dean Inge and Dr. Barnes; which is like the difference
 between Huxley and Haeckel.  Everybody would be better and happier
@@ -5780,7 +5780,7 @@ Science is the study of the admitted laws of existence; it cannot prove
 a universal negative about whether those laws could ever be suspended
 by something admittedly above them.  It is as if we were to say
 that a lawyer was so deeply learned in the American Constitution
-that he knew there could never be a revolution in [[America]].
+that he knew there could never be a revolution in [[america|America]].
 Or it is as if a man were to say he was so close a student of the text
 of [[Hamlet]] that he was authorised to deny that an actor had dropped
 the skull and bolted when the theatre caught [[Fire|fire]].  The constitution
@@ -5832,7 +5832,7 @@ to sympathise even with snobs.  But talking about the religious
 beliefs of Mr. Arnold Bennett seems to me exactly like talking
 about the foxhunting adventures of Mr. Bernard [[Shaw]] or the favourite
 vintages of Mr. Pussyfoot Johnson or the celestial visions of
-Sir [[arthur|Arthur]] Keith or the monastic vows of Mr. Bertrand Russell.
+Sir [[Arthur]] Keith or the monastic vows of Mr. Bertrand Russell.
 Mr. Arnold Bennett has never disguised, as it seems to me,
 the essential fact that he has not got any religious beliefs;
 as religious beliefs were understood in the English language
@@ -5860,7 +5860,7 @@ venture to enquire how the atheist could possibly form any notion
 of what General Booth thought, in such complete contradiction
 to everything he said.  Or I myself, on the other hand, might seem
 less than graceful, if I were to suggest that Mr. Arnold Bennett must
-be concealing his [[Conversion|conversion]] out of cowardice; and were to express
+be concealing his [[conversion]] out of cowardice; and were to express
 it in the form:  "Mr. Bennett will never tell us the [[Truth|truth]] about it;
 for all we know he is Papist enough in his own thoughts."
 I might even be [[Cross|cross]]-examined about how I had come to form
@@ -5900,7 +5900,7 @@ Now what we have really got to hammer into the heads of all
 these people, somehow, is that a thinking man can think himself
 deeper and deeper into Catholicism, and not deeper and deeper
 into difficulties about Catholicism.  We have got to make them
-see that [[Conversion|conversion]] is the beginning of an active, fruitful,
+see that [[conversion]] is the beginning of an active, fruitful,
 progressive and even adventurous life of the intellect.  For THAT is
 the thing that they cannot at present bring themselves to believe.
 They honestly say to themselves:  "What can he be thinking about,
@@ -6098,7 +6098,7 @@ to believe in a miracle.  He is forbidden, in exactly the same sense
 in which he would say that we are forbidden to believe in a heresy.
 Both are forbidden by first principles and not by force.
 The Rationalist Press Association will not actually kidnap,
-gag or strangle Sir [[arthur|Arthur]] Keith if he admits the evidence
+gag or strangle Sir [[Arthur]] Keith if he admits the evidence
 for a cure at Lourdes.  Neither will the Cardinal Archbishop
 of Westminster have me hanged, drawn and quartered if I announce
 that I am an agnostic tomorrow.  But of both cases it is true to say
@@ -6141,7 +6141,7 @@ the half-goddites go; and I am not sure it is not a good riddance.
 Anyhow, even the atheist can illustrate how important it is to keep
 the Catholic system altogether, even if he rejects it altogether.
 
-A curious and amusing instance comes from [[America]]; in connection
+A curious and amusing instance comes from [[america|America]]; in connection
 with Mr. [[Clarence]] Darrow, the somewhat simple-minded sceptic of that
 land of simplicity.  He seems to have been writing something about
 the impossibility of anybody having a [[Soul|soul]]; of which nothing need
@@ -6387,7 +6387,7 @@ of the ordinary sort of waxwork historical picture of the event.
 We should think he was rather unduly excited about a detail of
 mediaeval [[history]].  But with what a shock of astonishment should
 we realise at last that the man actually thought that all modern
-attempts at [[Democracy|democracy]] must be abandoned, that all representative
+attempts at [[democracy]] must be abandoned, that all representative
 [[government]] must be wrong, that all Parliaments would have
 to be dissolved and all political rights destroyed, if once it
 were admitted that [[King John]] did not sign that special document
@@ -6825,7 +6825,7 @@ shrink from the idea of the institution being an individual.
 But even that prejudice is weakening under the wear and tear of real
 political experience.  We may be attached, as many of us are,
 to the democratic ideal; but most of us have already realised
-that direct [[Democracy|democracy]], the only true [[Democracy|democracy]] which satisfies
+that direct [[democracy]], the only true [[democracy]] which satisfies
 a true democrat, is a thing applicable to some things and not others;
 and not applicable at all to a question such as this.  The actual
 speaking voice of a vast international civilisation, or of a vast
@@ -6833,7 +6833,7 @@ international religion, will not in any case be the actual articulate
 distinguishable voices or cries of all the millions of the faithful.
 It is not the people who would be the heirs of a dethroned Pope;
 it is some synod or bench of bishops.  It is not an alternative
-between monarchy and [[Democracy|democracy]], but an alternative between monarchy
+between monarchy and [[democracy]], but an alternative between monarchy
 and oligarchy.  And, being myself one of the democratic idealists,
 I have not the faintest hesitation in my choice between the two latter
 forms of privilege.  A monarch is a man; but an oligarchy is not men;

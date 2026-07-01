@@ -78,7 +78,7 @@ The banners were very [[Well|well]] painted, and flaunted down the street
 famously.  There was the smiting of the rock, and the gushing forth of
 the waters; and there was a temperate man with ‘considerable of a
 hatchet’ (as the standard-bearer would probably have said), aiming a
-deadly blow at a serpent which was apparently about to [[Spring|spring]] upon him
+deadly blow at a serpent which was apparently about to [[spring]] upon him
 from the top of a barrel of spirits.  But the chief feature of this part
 of the show was a huge allegorical device, borne among the
 [[Ship|ship]]-carpenters, on one side whereof the steamboat Alcohol was
@@ -131,7 +131,7 @@ and snug.
 
 The society with which I mingled, was intelligent, courteous, and
 agreeable.  The inhabitants of Cincinnati are proud of their [[City|city]] as one
-of the most interesting in [[America]]: and with good reason: for beautiful
+of the most interesting in [[america|America]]: and with good reason: for beautiful
 and thriving as it is now, and containing, as it does, a population of
 fifty thousand souls, but two-and-fifty years have passed away since the
 ground on which it stands (bought at that [[Time|time]] for a few dollars) was a

@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 5 (part 2)"
+title: "Great Expectations — Chapter 5 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -113,7 +113,3 @@ deer, and Joe too.
 The sergeant ran in first, when we had run the noise quite down, and
 two of his men ran in close upon him. Their pieces were cocked and
 levelled when we all ran in.
-
-“Here are both men!” panted the sergeant, struggling at the [[Bottom|bottom]] of a
-ditch. “Surrender, you two! and confound you for two wild beasts! Come
-asunder!”

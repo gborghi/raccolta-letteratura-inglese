@@ -1,5 +1,5 @@
 ---
-title: "[[innocence]] — The Secret [[Garden]] (part 7)"
+title: "innocence — The Secret Garden (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -13,6 +13,32 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet/part_01">part 01 ›</a></div>
 </nav>
 
+
+"[[Well]]," said the doctor slowly, "that seems plausible enough.
+But my next two questions will stump anyone."
+
+The priest still stood looking critically out of the [[Window|window]] and waited.
+
+"You know how all the [[Garden|garden]] was sealed up like an air-tight chamber,"
+went on the doctor.  "[[Well]], how did the strange man get into the [[Garden|garden]]?"
+
+Without turning round, the little priest answered:
+"There never was any strange man in the [[Garden|garden]]."
+
+There was a [[Silence|silence]], and then a sudden cackle of almost childish
+laughter relieved the strain.  The absurdity of Brown's remark
+moved Ivan to open taunts.
+
+"Oh!" he cried; "then we didn't lug a great fat corpse on to a sofa
+last [[Night|night]]?  He hadn't got into the [[Garden|garden]], I suppose?"
+
+"Got into the [[Garden|garden]]?" repeated Brown reflectively.
+"No, not entirely."
+
+"Hang it all," cried Simon, "a man gets into a [[Garden|garden]], or he doesn't."
+
+"Not necessarily," said the priest, with a faint smile.
+"What is the nest question, doctor?"
 
 "I fancy you're ill," exclaimed Dr. Simon sharply; "but I'll
 ask the next question if you like.  How did Brayne get out

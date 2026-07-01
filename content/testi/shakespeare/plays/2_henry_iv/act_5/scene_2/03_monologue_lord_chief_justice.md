@@ -1,5 +1,5 @@
 ---
-title: "2 [[Henry IV]] — Act V, Scene 2 — monologue ([[Lord Chief Justice|LORD CHIEF JUSTICE]]) [3]"
+title: "2 Henry IV — Act V, Scene 2 — monologue (LORD CHIEF JUSTICE) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/2-henry-iv-(shakespeare)"

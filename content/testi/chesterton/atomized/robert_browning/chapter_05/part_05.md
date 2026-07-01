@@ -107,22 +107,3 @@ This outburst of it is fierce and ironical, not in his best spirit. It
 says in effect, "You call this a country of [[Sleep|sleep]], I call it a country
 of [[Death|death]]. You call it 'White Cotton [[Night]]-Cap Country'; I call it 'Red
 Cotton [[Night]]-Cap Country.'"
-
-Shortly before this, in 1872, he had published _Fifine at the Fair_,
-which his principal biographer, and one of his most uncompromising
-admirers, calls a piece of perplexing cynicism. Perplexing it may be
-to some extent, for it was almost impossible to tell whether Browning
-would or would not be perplexing even in a [[Love|love]]-[[Song|song]] or a post-card.
-But cynicism is a word that cannot possibly be applied with any
-propriety to anything that Browning ever wrote. Cynicism denotes that
-condition of mind in which we hold that life is in its [[Nature|nature]] mean and
-arid; that no [[Soul|soul]] contains genuine goodness, and no state of things
-genuine reliability. _Fifine at the Fair_, like _Prince
-Hohenstiel-Schwangau_, is one of Browning's apologetic
-soliloquies--the soliloquy of an epicurean who seeks half-playfully
-to justify upon moral grounds an infidelity into which he afterwards
-actually falls. This casuist, like all Browning's casuists, is given
-many noble outbursts and sincere moments, and therefore apparently the
-poem is called cynical. It is difficult to understand what particular
-connection there is between seeing good in nobody and seeing good even
-in a sensual [[Fool|fool]].

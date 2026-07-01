@@ -1,5 +1,5 @@
 ---
-title: "[[Don Quixote]] — Chapter 1 (part 2)"
+title: "Don Quixote — Chapter 1 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/don-quixote-(chesterton)"
@@ -126,8 +126,3 @@ because he heard he was standing for Parliament as a Unionist.
 When he found it meant a Trade Unionist he was a bit put off,
 of course; but he couldn't make a scene.  I fancy it would puzzle
 him to say what either of the terms mean."
-
-"Don't you know what the term Unionist means?" asked Olive.
-
-"Nobody knows that," replied the scene-painter, "why,
-I've been one myself."

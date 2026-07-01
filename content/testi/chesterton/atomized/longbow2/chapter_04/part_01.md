@@ -1,5 +1,5 @@
 ---
-title: "[[longbow2]] — Chapter 4 (part 1)"
+title: "longbow2 — Chapter 4 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -10,14 +10,13 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/longbow2-(chesterton)">longbow2</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/longbow2/chapter_03/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/longbow2/chapter_04/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/longbow2/chapter_03/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/longbow2/chapter_04/part_02">part 02 ›</a></div>
 </nav>
 
 
 Chapter IV
 
 The Elusive Companion of Parson White
-
 
 In the scriptures and the chronicles of the League of the Long Bow,
 or fellowship of foolish persons doing impossible things,
@@ -106,7 +105,6 @@ It was written in what had once been a good hand-writing of the
 bolder sort, but which had degenerated through excessive energy
 and haste into an illegible scrawl.  It appeared to run as follows:
 
-
 "`My dear Owen,--My mind is quite made up; though I know the sort
 of legal long-winded things you will say against it; I know
 especially one thing a leathery old lawyer like you is bound to say;
@@ -121,7 +119,6 @@ the Game Laws.  You won't mind me talking like this; I know jolly
 [[Well|well]] you'd think you were acting as a friend; but I think the [[Time|time]]
 has come to speak plainly.'"
 
-
 "Quite right," said the Colonel.
 
 "Yes," said young Pierce, with a rather vague expression, "I'm glad
@@ -129,13 +126,9 @@ he feels that the [[Time|time]] has come to speak plainly."
 
 "Quite so," observed the lawyer dryly; "he continues as follows:"
 
-
 "`I've got a lot to tell you about the new arrangement, which works
 much better even than I hoped.  I was afraid at first it would
 really be an encumbrance, as you know it's always supposed to be. 
 But there are more things, and all the rest of it, and God
 fulfils himself, and so on and so on.  It gives one quite a weird
 Asiatic feeling sometimes.'"
-
-
-"Yes," said the Colonel, "it does."

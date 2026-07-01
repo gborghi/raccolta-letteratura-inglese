@@ -1,5 +1,5 @@
 ---
-title: "All Is True ([[Henry VIII]]) — Act II, Scene 4 — exchange ([[Cardinal Wolsey|CARDINAL WOLSEY]]) [2]"
+title: "All Is True (Henry VIII) — Act II, Scene 4 — exchange (CARDINAL WOLSEY) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/all-is-true---(henry-viii)-(shakespeare)"

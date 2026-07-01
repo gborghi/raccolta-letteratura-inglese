@@ -104,13 +104,13 @@ but adds that his critics might have had a better case had they
 known that his father `had paid large sums to have him brought up
 in a gambling-hell'.
 
-Anyhow, that is what is the matter with Business [[Education]];
-that it narrows the mind; whereas the whole object of [[Education|education]]
+Anyhow, that is what is the matter with Business Education;
+that it narrows the mind; whereas the whole object of education
 is to broaden the mind and especially to broaden it so as to enable
 it to criticize and condemn such narrowness.  Everybody ought
-to learn first a general view of the [[history]] of man, of the [[Nature|nature]]
-of man, and (as I, for one, should add) of the [[Nature|nature]] of God.
-This may enable him to consider the rights and wrongs of [[Slavery|slavery]]
+to learn first a general view of the history of man, of the nature
+of man, and (as I, for one, should add) of the nature of God.
+This may enable him to consider the rights and wrongs of slavery
 in a slave community, of cannibalism in a cannibal community,
 or of commerce in a commercial community.  If he is immediately
 initiated into the mysteries of these institutions themselves, if he is
@@ -118,6 +118,6 @@ sworn in infancy to take them as seriously as they take themselves,
 if he becomes a trader not only before he becomes a traveller,
 but even before he becomes a true citizen of his own town, he will
 never be able to denounce those institutions--or even to improve them.
-Such a state will never have the ideas or [[Imagination|imagination]] to [[Reform|reform]] itself;
+Such a state will never have the ideas or imagination to reform itself;
 and hustle and bustle and business activity will have resulted
 in the dead fixity of a fossil.

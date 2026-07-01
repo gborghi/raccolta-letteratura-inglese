@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 11 (part 2)"
+title: "Persuasion — Chapter 11 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_11/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_11/part_03">part 03 ›</a></div>
 </nav>
 
+
+where the scattered forest trees and orchards of luxuriant growth,
+
+declare that many a generation must have passed away since the first
+
+partial falling of the cliff prepared the ground for such a state,
 
 where a scene so wonderful and so lovely is exhibited, as may more than
 
@@ -197,15 +203,3 @@ lodging-[[house]] furniture, and defend the windows and doors against the
 [[Winter|winter]] storms to be expected. The varieties in the fitting-up of the
 
 rooms, where the common necessaries provided by the owner, in the
-
-common indifferent plight, were contrasted with some few articles of a
-
-rare species of wood, excellently worked up, and with something curious
-
-and valuable from all the distant countries Captain Harville had
-
-visited, were more than amusing to Anne; connected as it all was with
-
-his profession, the fruit of its labours, the effect of its influence
-
-on his habits, the picture of repose and domestic happiness it

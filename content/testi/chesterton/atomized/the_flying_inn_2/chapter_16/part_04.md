@@ -14,6 +14,11 @@ tags:
 </nav>
 
 
+"[[Well]], yer see," said the chauffeur, reasonably, "I
+was bloody keen to show 'im it was me drove the car
+and not 'im.  By a bit o' bad luck, I done damage to
+'is car.  [[Well]]--if _you_ can stick in 'is car--"
+
 Captain Patrick Dalroy sprang out of the car so
 rapidly that he almost reeled and slipped upon the
 [[Road|road]].  The dog sprang after him, barking furiously.

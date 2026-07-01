@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 52 (part 1)"
+title: "Barnaby Rudge — Chapter 52 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/barnaby-rudge-(dickens)">Barnaby Rudge</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_51/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_52/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_51/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_52/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -115,7 +115,3 @@ off by the stable’s blackness. The whole formed such a contrast to
 themselves, as they lay wallowing, like some obscene [[Animals|animals]], in their
 squalor and wickedness on the two heaps of straw, that for a few moments
 they looked on without speaking, and felt almost ashamed.
-
-‘Ah!’ said Hugh at length, carrying it off with a laugh: ‘He’s a rare
-fellow is Barnaby, and can do more, with less rest, or meat, or drink,
-than any of us. As to his soldiering, I put him on duty there.’

@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 33 (part 2)"
+title: "Wuthering Heights — Chapter 33 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_33/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_33/part_03">part 03 ›</a></div>
 </nav>
 
+
+The master seemed confounded a moment: he grew pale, and [[Rose|rose]] up,
+eyeing her all the while, with an expression of mortal hate.
 
 “If you strike me, Hareton will strike you,” she said; “so you may as
 [[Well|well]] sit down.”
@@ -120,17 +123,3 @@ took the book from his hand, and glanced at the open page, then
 returned it without any observation; merely signing Catherine away: her
 companion lingered very little behind her, and I was about to depart
 also, but he bid me sit still.
-
-“It is a poor conclusion, is it not?” he observed, having brooded
-a while on the scene he had just witnessed: “an absurd termination to
-my violent exertions? I get levers and mattocks to demolish the two
-houses, and train myself to be capable of working like Hercules, and
-when everything is ready and in my power, I find the will to lift a
-slate off either roof has vanished! My old enemies have not beaten me;
-now would be the precise [[Time|time]] to [[Revenge|revenge]] myself on their
-representatives: I could do it; and none could hinder me. But where is
-the use? I don’t care for striking: I can’t take the trouble to raise
-my hand! That sounds as if I had been labouring the whole [[Time|time]] only to
-exhibit a fine trait of magnanimity. It is far from being the case: I
-have lost the faculty of enjoying their destruction, and I am too idle
-to destroy for nothing.

@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 37 (part 4)"
+title: "Shirley — Chapter 37 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,42 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_37/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_37/part_05">part 05 ›</a></div>
 </nav>
 
+
+broad, firm foundation, on which, for the first [[Time|time]] in my life, I can
+
+securely build."
+
+
+
+Caroline devoured his words; she held his hand in hers; she drew a long
+
+breath.
+
+
+
+"You are saved? Your heavy difficulties are lifted?"
+
+
+
+"They are lifted. I breathe. I can act."
+
+
+
+"At last! Oh, [[Providence]] is kind! Thank Him, Robert."
+
+
+
+"I do thank [[Providence]]."
+
+
+
+"And I also, for your sake!" She looked up devoutly.
+
+
+
+"Now I can take more workmen, give better wages, lay wiser and more
+
+liberal plans, do some good, be less selfish. _Now_, Caroline, I can
 
 have a [[house]]--a [[Home|home]] which I can truly call mine--and _now_----"
 
@@ -279,25 +315,3 @@ my own, which you and I will talk about on our own hearth one day. I
 have seen the necessity of doing good; I have learned the downright
 
 folly of being selfish. Caroline, I foresee what I will now foretell.
-
-This war _must_ ere long draw to a close. Trade is likely to prosper for
-
-some years to come. There may be a brief misunderstanding between
-
-England and [[America]], but that will not last. What would you think if,
-
-one day--perhaps ere another ten years elapse--Louis and I divide
-
-Briarfield parish betwixt us? Louis, at any rate, is certain of power
-
-and property. He will not bury his talents. He is a benevolent fellow,
-
-and has, besides, an intellect of his own of no trifling calibre. His
-
-mind is slow but strong. It must work. It may work deliberately, but it
-
-will work [[Well|well]]. He will be made magistrate of the district--[[Shirley]] says
-
-he shall. She would proceed impetuously and prematurely to obtain for
-
-him this dignity, if he would let her, but he will not. As usual, he

@@ -1,5 +1,5 @@
 ---
-title: "Hard Times — Chapter 13"
+title: "Hard Times — Chapter 14"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/hard-times-(dickens)"
@@ -14,319 +14,219 @@ tags:
 </nav>
 
 
-CHAPTER XIII
-RACHAEL
-
-
-A CANDLE faintly burned in the [[Window|window]], to which the black ladder had
-often been raised for the sliding away of all that was most precious in
-this world to a striving wife and a brood of hungry babies; and Stephen
-added to his other thoughts the stern reflection, that of all the
-casualties of this existence upon earth, not one was dealt out with so
-unequal a hand as [[Death]].  The inequality of Birth was nothing to it.
-For, say that the [[Child|child]] of a [[King]] and the [[Child|child]] of a Weaver were born
-to-[[Night|night]] in the same moment, what was that disparity, to the [[Death|death]] of any
-human creature who was serviceable to, or beloved by, another, while this
-abandoned woman lived on!
-
-From the outside of his [[Home|home]] he gloomily passed to the inside, with
-suspended breath and with a slow footstep.  He went up to his door,
-opened it, and so into the room.
+CHAPTER XIV
+THE GREAT MANUFACTURER
+
+
+[[Time|TIME]] went on in Coketown like its own machinery: so much material wrought
+up, so much fuel consumed, so many powers worn out, so much money made.
+But, less inexorable than iron, steel, and brass, it brought its varying
+[[Seasons|seasons]] even into that wilderness of smoke and brick, and made the only
+stand that ever _was_ made in the place against its direful uniformity.
+
+‘Louisa is becoming,’ said Mr. Gradgrind, ‘almost a young woman.’
+
+[[Time]], with his innumerable [[Horse|horse]]-power, worked away, not minding what
+anybody said, and presently turned out young Thomas a foot taller than
+when his father had last taken particular notice of him.
+
+‘Thomas is becoming,’ said Mr. Gradgrind, ‘almost a young man.’
+
+[[Time]] passed Thomas on in the mill, while his father was thinking about
+it, and there he stood in a long-tailed coat and a stiff shirt-collar.
+
+‘Really,’ said Mr. Gradgrind, ‘the period has arrived when Thomas ought
+to go to Bounderby.’
+
+[[Time]], sticking to him, passed him on into Bounderby’s Bank, made him an
+inmate of Bounderby’s [[house]], necessitated the purchase of his first
+razor, and exercised him diligently in his calculations relative to
+number one.
+
+The same great manufacturer, always with an immense variety of work on
+hand, in every stage of development, passed Sissy onward in his mill, and
+worked her up into a very pretty article indeed.
+
+‘I [[Fear|fear]], Jupe,’ said Mr. Gradgrind, ‘that your continuance at the school
+any longer would be useless.’
+
+‘I am afraid it would, sir,’ Sissy answered with a curtsey.
+
+‘I cannot disguise from you, Jupe,’ said Mr. Gradgrind, knitting his
+brow, ‘that the result of your probation there has disappointed me; has
+greatly disappointed me.  You have not acquired, under Mr. and Mrs.
+M’Choakumchild, anything like that amount of exact knowledge which I
+looked for.  You are extremely deficient in your facts.  Your
+acquaintance with figures is very limited.  You are altogether backward,
+and below the mark.’
+
+‘I am sorry, sir,’ she returned; ‘but I know it is quite true.  Yet I
+have tried hard, sir.’
 
-Quiet and peace were there.  Rachael was there, sitting by the bed.
+‘Yes,’ said Mr. Gradgrind, ‘yes, I believe you have tried hard; I have
+observed you, and I can find no fault in that respect.’
+
+‘Thank you, sir.  I have thought sometimes;’ Sissy very timid here; ‘that
+perhaps I tried to learn too much, and that if I had asked to be allowed
+to try a little less, I might have—’
+
+‘No, Jupe, no,’ said Mr. Gradgrind, shaking his head in his profoundest
+and most eminently practical way.  ‘No.  The course you pursued, you
+pursued according to the system—the system—and there is no more to be
+said about it.  I can only suppose that the circumstances of your early
+life were too unfavourable to the development of your reasoning powers,
+and that we began too late.  Still, as I have said already, I am
+disappointed.’
+
+‘I wish I could have made a better acknowledgment, sir, of your kindness
+to a poor forlorn girl who had no claim upon you, and of your protection
+of her.’
+
+‘Don’t shed [[Tears|tears]],’ said Mr. Gradgrind.  ‘Don’t shed [[Tears|tears]].  I don’t
+complain of you.  You are an affectionate, earnest, good young
+woman—and—and we must make that do.’
 
-She turned her head, and the light of her face shone in upon the midnight
-of his mind.  She sat by the bed, watching and tending his wife.  That is
-to say, he saw that some one lay there, and he knew too [[Well|well]] it must be
-she; but Rachael’s hands had put a curtain up, so that she was screened
-from his eyes.  Her disgraceful garments were removed, and some of
-Rachael’s were in the room.  Everything was in its place and order as he
-had always kept it, the little [[Fire|fire]] was newly trimmed, and the hearth was
-freshly swept.  It appeared to him that he saw all this in Rachael’s
-face, and looked at nothing besides.  While looking at it, it was shut
-out from his view by the softened [[Tears|tears]] that filled his eyes; but not
-before he had seen how earnestly she looked at him, and how her own eyes
-were filled too.
+‘Thank you, sir, very much,’ said Sissy, with a grateful curtsey.
 
-She turned again towards the bed, and satisfying herself that all was
-quiet there, spoke in a low, calm, cheerful voice.
+‘You are useful to Mrs. Gradgrind, and (in a generally pervading way) you
+are serviceable in the family also; so I understand from Miss Louisa,
+and, indeed, so I have observed myself.  I therefore [[Hope|hope]],’ said Mr.
+Gradgrind, ‘that you can make yourself happy in those relations.’
 
-‘I am glad you have come at last, Stephen.  You are very late.’
-
-‘I ha’ been walking up an’ down.’
+‘I should have nothing to wish, sir, if—’
 
-‘I thought so.  But ’tis too bad a [[Night|night]] for that.  The rain falls very
-heavy, and the [[Wind|wind]] has risen.’
-
-The [[Wind|wind]]?  True.  It was blowing hard.  Hark to the thundering in the
-chimney, and the surging noise!  To have been out in such a [[Wind|wind]], and not
-to have known it was blowing!
-
-‘I have been here once before, to-day, Stephen.  Landlady came round for
-me at dinner-[[Time|time]].  There was some one here that needed looking to, she
-said.  And ‘deed she was right.  All wandering and lost, Stephen.
-Wounded too, and bruised.’
-
-He slowly moved to a chair and sat down, drooping his head before her.
-
-‘I came to do what little I could, Stephen; first, for that she worked
-with me when we were girls both, and for that you courted her and married
-her when I was her friend—’
-
-He laid his furrowed forehead on his hand, with a low groan.
-
-‘And next, for that I know your heart, and am right sure and certain that
-’tis far too merciful to let her die, or even so much as suffer, for want
-of aid.  Thou knowest who said, “Let him who is without sin among you
-cast the first stone at her!”  There have been plenty to do that.  Thou
-art not the man to cast the last stone, Stephen, when she is brought so
-low.’
-
-‘O Rachael, Rachael!’
-
-‘Thou hast been a cruel sufferer, Heaven reward thee!’ she said, in
-compassionate accents.  ‘I am thy poor friend, with all my heart and
-mind.’
-
-             [Picture: Stephen and Rachael in the sick room]
-
-The wounds of which she had spoken, seemed to be about the neck of the
-[[Self|self]]-made outcast.  She dressed them now, still without showing her.  She
-steeped a piece of linen in a basin, into which she poured some liquid
-from a bottle, and laid it with a gentle hand upon the sore.  The
-three-legged table had been drawn close to the bedside, and on it there
-were two bottles.  This was one.
-
-It was not so far off, but that Stephen, following her hands with his
-eyes, could read what was printed on it in large letters.  He turned of a
-deadly hue, and a sudden horror seemed to fall upon him.
-
-‘I will stay here, Stephen,’ said Rachael, quietly resuming her seat,
-‘till [[The Bells|the bells]] go Three.  ’Tis to be done again at three, and then she
-may be left till morning.’
-
-‘But thy rest agen to-morrow’s work, my dear.’
-
-‘I slept sound last [[Night|night]].  I can wake many nights, when I am put to it.
-’Tis thou who art in need of rest—so white and tired.  Try to [[Sleep|sleep]] in
-the chair there, while I watch.  Thou hadst no [[Sleep|sleep]] last [[Night|night]], I can
-[[Well|well]] believe.  To-morrow’s work is far harder for thee than for me.’
-
-He heard the thundering and surging out of doors, and it seemed to him as
-if his late angry mood were going about trying to get at him.  She had
-cast it out; she would keep it out; he trusted to her to defend him from
-himself.
-
-‘She don’t know me, Stephen; she just drowsily mutters and stares.  I
-have spoken to her times and again, but she don’t notice!  ’Tis as [[Well|well]]
-so.  When she comes to her right mind once more, I shall have done what I
-can, and she never the wiser.’
-
-‘How long, Rachael, is ’t looked for, that she’ll be so?’
-
-‘Doctor said she would haply come to her mind to-morrow.’
-
-His eyes fell again on the bottle, and a tremble passed over him, causing
-him to shiver in every limb.  She thought he was chilled with the wet.
-‘No,’ he said, ‘it was not that.  He had had a fright.’
-
-‘A fright?’
-
-‘Ay, ay! coming in.  When I were walking.  When I were thinking.  When
-I—’  It seized him again; and he stood up, holding by the mantel-shelf,
-as he pressed his dank cold hair down with a hand that shook as if it
-were palsied.
-
-‘Stephen!’
-
-She was coming to him, but he stretched out his arm to stop her.
-
-‘No!  Don’t, please; don’t.  Let me see thee setten by the bed.  Let me
-see thee, a’ so good, and so forgiving.  Let me see thee as I see thee
-when I coom in.  I can never see thee better than so.  Never, never,
-never!’
-
-He had a violent fit of trembling, and then sunk into his chair.  After a
-[[Time|time]] he controlled himself, and, resting with an elbow on one knee, and
-his head upon that hand, could look towards Rachael.  Seen across the dim
-candle with his moistened eyes, she looked as if she had a glory shining
-round her head.  He could have believed she had.  He did believe it, as
-the noise without shook the [[Window|window]], rattled at the door below, and went
-about the [[house]] clamouring and lamenting.
-
-‘When she gets better, Stephen, ’tis to be hoped she’ll leave thee to
-thyself again, and do thee no more hurt.  Anyways we will [[Hope|hope]] so now.
-And now I shall keep [[Silence|silence]], for I want thee to [[Sleep|sleep]].’
-
-He closed his eyes, more to please her than to rest his weary head; but,
-by slow degrees as he listened to the great noise of the [[Wind|wind]], he ceased
-to hear it, or it changed into the working of his loom, or even into the
-voices of the day (his own included) saying what had been really said.
-Even this imperfect consciousness faded away at last, and he dreamed a
-long, troubled dream.
-
-He thought that he, and some one on whom his heart had long been set—but
-she was not Rachael, and that surprised him, even in the midst of his
-imaginary happiness—stood in the church being married.  While the
-ceremony was performing, and while he recognized among the witnesses some
-whom he knew to be living, and many whom he knew to be dead, darkness
-came on, succeeded by the shining of a tremendous light.  It broke from
-one line in the table of commandments at the altar, and illuminated the
-building with the words.  They were sounded through the church, too, as
-if there were voices in the fiery letters.  Upon this, the whole
-appearance before him and around him changed, and nothing was left as it
-had been, but himself and the clergyman.  They stood in the daylight
-before a crowd so vast, that if all the people in the world could have
-been brought together into one space, they could not have looked, he
-thought, more numerous; and they all abhorred him, and there was not one
-pitying or friendly eye among the millions that were fastened on his
-face.  He stood on a raised stage, under his own loom; and, looking up at
-the shape the loom took, and hearing the burial service distinctly read,
-he knew that he was there to suffer [[Death|death]].  In an instant what he stood
-on fell below him, and he was gone.
-
-—Out of what mystery he came back to his usual life, and to places that
-he knew, he was unable to consider; but he was back in those places by
-some means, and with this condemnation upon him, that he was never, in
-this world or the next, through all the unimaginable ages of [[Eternity|eternity]], to
-look on Rachael’s face or hear her voice.  Wandering to and fro,
-unceasingly, without [[Hope|hope]], and in search of he knew not what (he only
-knew that he was doomed to seek it), he was the subject of a nameless,
-horrible dread, a mortal [[Fear|fear]] of one particular shape which everything
-took.  Whatsoever he looked at, grew into that form sooner or later.  The
-object of his miserable existence was to prevent its recognition by any
-one among the various people he encountered.  Hopeless labour!  If he led
-them out of rooms where it was, if he shut up drawers and closets where
-it stood, if he drew the curious from places where he knew it to be
-secreted, and got them out into the streets, the very chimneys of the
-mills assumed that shape, and round them was the printed word.
-
-The [[Wind|wind]] was blowing again, the rain was beating on the [[house]]-tops, and
-the larger spaces through which he had strayed contracted to the four
-walls of his room.  Saving that the [[Fire|fire]] had died out, it was as his eyes
-had closed upon it.  Rachael seemed to have fallen into a doze, in the
-chair by the bed.  She sat wrapped in her shawl, perfectly still.  The
-table stood in the same place, close by the bedside, and on it, in its
-real proportions and appearance, was the shape so often repeated.
-
-He thought he saw the curtain move.  He looked again, and he was sure it
-moved.  He saw a hand come forth and grope about a little.  Then the
-curtain moved more perceptibly, and the woman in the bed put it back, and
-sat up.
-
-With her woful eyes, so haggard and wild, so heavy and large, she looked
-all round the room, and passed the corner where he slept in his chair.
-Her eyes returned to that corner, and she put her hand over them as a
-shade, while she looked into it.  Again they went all round the room,
-scarcely heeding Rachael if at all, and returned to that corner.  He
-thought, as she once more shaded them—not so much looking at him, as
-looking for him with a brutish instinct that he was there—that no single
-trace was left in those debauched features, or in the mind that went
-along with them, of the woman he had married eighteen years before.  But
-that he had seen her come to this by inches, he never could have believed
-her to be the same.
-
-All this [[Time|time]], as if a spell were on him, he was motionless and
-powerless, except to watch her.
-
-Stupidly dozing, or communing with her incapable [[Self|self]] about nothing, she
-sat for a little while with her hands at her ears, and her head resting
-on them.  Presently, she resumed her staring round the room.  And now,
-for the first [[Time|time]], her eyes stopped at the table with the bottles on it.
-
-Straightway she turned her eyes back to his corner, with the defiance of
-last [[Night|night]], and moving very cautiously and softly, stretched out her
-greedy hand.  She drew a mug into the bed, and sat for a while
-considering which of the two bottles she should choose.  Finally, she
-laid her insensate grasp upon the bottle that had swift and certain [[Death|death]]
-in it, and, before his eyes, pulled out the cork with her teeth.
-
-Dream or reality, he had no voice, nor had he power to stir.  If this be
-real, and her allotted [[Time|time]] be not yet come, wake, Rachael, wake!
-
-She thought of that, too.  She looked at Rachael, and very slowly, very
-cautiously, poured out the contents.  The draught was at her lips.  A
-moment and she would be past all help, let the whole world wake and come
-about her with its utmost power.  But in that moment Rachael started up
-with a suppressed cry.  The creature struggled, struck her, seized her by
-the hair; but Rachael had the cup.
-
-Stephen broke out of his chair.  ‘Rachael, am I wakin’ or dreamin’ this
-dreadfo’ [[Night|night]]?’
-
-‘’Tis all [[Well|well]], Stephen.  I have been asleep, myself.  ’Tis near three.
-Hush!  I hear [[The Bells|the bells]].’
-
-The [[Wind|wind]] brought the sounds of the church [[Clock|clock]] to the [[Window|window]].  They
-listened, and it struck three.  Stephen looked at her, saw how pale she
-was, noted the disorder of her hair, and the red marks of fingers on her
-forehead, and felt assured that his senses of sight and hearing had been
-awake.  She held the cup in her hand even now.
-
-‘I thought it must be near three,’ she said, calmly pouring from the cup
-into the basin, and steeping the linen as before.  ‘I am thankful I
-stayed!  ’Tis done now, when I have put this on.  There!  And now she’s
-quiet again.  The few drops in the basin I’ll pour away, for ’tis bad
-stuff to leave about, though ever so little of it.’  As she spoke, she
-drained the basin into the ashes of the [[Fire|fire]], and broke the bottle on the
-hearth.
-
-She had nothing to do, then, but to cover herself with her shawl before
-going out into the [[Wind|wind]] and rain.
-
-‘Thou’lt let me walk wi’ thee at this hour, Rachael?’
-
-‘No, Stephen.  ’Tis but a minute, and I’m [[Home|home]].’
-
-‘Thou’rt not fearfo’;’ he said it in a low voice, as they went out at the
-door; ‘to leave me [[Alone|alone]] wi’ her!’
-
-As she looked at him, saying, ‘Stephen?’ he went down on his knee before
-her, on the poor mean stairs, and put an end of her shawl to his lips.
-
-‘Thou art an Angel.  Bless thee, bless thee!’
-
-‘I am, as I have told thee, Stephen, thy poor friend.  Angels are not
-like me.  Between them, and a working woman fu’ of faults, there is a
-deep gulf set.  My little sister is among them, but she is changed.’
-
-She raised her eyes for a moment as she said the words; and then they
-fell again, in all their gentleness and mildness, on his face.
-
-‘Thou changest me from bad to good.  Thou mak’st me humbly wishfo’ to be
-more like thee, and fearfo’ to lose thee when this life is ower, and a’
-the muddle cleared awa’.  Thou’rt an Angel; it may be, thou hast saved my
-[[Soul|soul]] alive!’
-
-She looked at him, on his knee at her feet, with her shawl still in his
-hand, and the reproof on her lips died away when she saw the working of
-his face.
-
-‘I coom [[Home|home]] desp’rate.  I coom [[Home|home]] wi’out a [[Hope|hope]], and mad wi’ thinking
-that when I said a word o’ complaint I was reckoned a unreasonable Hand.
-I told thee I had had a fright.  It were the [[Poison]]-bottle on table.  I
-never hurt a livin’ creetur; but happenin’ so suddenly upon ’t, I thowt,
-“How can _I_ say what I might ha’ done to myseln, or her, or both!”’
-
-She put her two hands on his mouth, with a face of terror, to stop him
-from saying more.  He caught them in his unoccupied hand, and holding
-them, and still clasping the border of her shawl, said hurriedly:
-
-‘But I see thee, Rachael, setten by the bed.  I ha’ seen thee, aw this
-[[Night|night]].  In my troublous [[Sleep|sleep]] I ha’ known thee still to be there.
-Evermore I will see thee there.  I nevermore will see her or think o’
-her, but thou shalt be beside her.  I nevermore will see or think o’
-anything that angers me, but thou, so much better than me, shalt be by
-th’ side on’t.  And so I will try t’ look t’ th’ [[Time|time]], and so I will try
-t’ trust t’ th’ [[Time|time]], when thou and me at last shall walk together far
-awa’, beyond the deep gulf, in th’ country where thy little sister is.’
-
-He kissed the border of her shawl again, and let her go.  She bade him
-good [[Night|night]] in a broken voice, and went out into the street.
-
-The [[Wind|wind]] blew from the quarter where the day would soon appear, and still
-blew strongly.  It had cleared the sky before it, and the rain had spent
-itself or travelled elsewhere, and the [[Stars|stars]] were bright.  He stood
-bare-headed in the [[Road|road]], watching her quick disappearance.  As the
-shining [[Stars|stars]] were to the heavy candle in the [[Window|window]], so was Rachael, in
-the rugged fancy of this man, to the common experiences of his life.
+‘I understand you,’ said Mr. Gradgrind; ‘you still refer to your father.
+I have heard from Miss Louisa that you still preserve that bottle.  [[Well]]!
+If your training in the science of arriving at exact results had been
+more successful, you would have been wiser on these points.  I will say
+no more.’
+
+He really liked Sissy too [[Well|well]] to have a contempt for her; otherwise he
+held her calculating powers in such very slight estimation that he must
+have fallen upon that conclusion.  Somehow or other, he had become
+possessed by an idea that there was something in this girl which could
+hardly be set forth in a tabular form.  Her capacity of definition might
+be easily stated at a very low figure, her mathematical knowledge at
+nothing; yet he was not sure that if he had been required, for example,
+to tick her off into columns in a parliamentary return, he would have
+quite known how to divide her.
+
+In some stages of his manufacture of the human fabric, the processes of
+[[Time]] are very rapid.  Young Thomas and Sissy being both at such a stage
+of their working up, these changes were effected in a year or two; while
+Mr. Gradgrind himself seemed stationary in his course, and underwent no
+alteration.
+
+Except one, which was apart from his necessary progress through the mill.
+[[Time]] hustled him into a little noisy and rather dirty machinery, in a
+by-comer, and made him Member of Parliament for Coketown: one of the
+respected members for ounce weights and measures, one of the
+representatives of the multiplication table, one of the deaf honourable
+gentlemen, dumb honourable gentlemen, blind honourable gentlemen, lame
+honourable gentlemen, dead honourable gentlemen, to every other
+consideration.  Else wherefore live we in a Christian land, eighteen
+hundred and odd years after our Master?
+
+All this while, Louisa had been passing on, so quiet and reserved, and so
+much given to watching the bright ashes at twilight as they fell into the
+grate, and became extinct, that from the period when her father had said
+she was almost a young woman—which seemed but yesterday—she had scarcely
+attracted his notice again, when he found her quite a young woman.
+
+‘Quite a young woman,’ said Mr. Gradgrind, musing.  ‘Dear me!’
+
+Soon after this discovery, he became more thoughtful than usual for
+several days, and seemed much engrossed by one subject.  On a certain
+[[Night|night]], when he was going out, and Louisa came to bid him good-bye before
+his departure—as he was not to be [[Home|home]] until late and she would not see
+him again until the morning—he held her in his arms, looking at her in
+his kindest manner, and said:
+
+‘My dear Louisa, you are a woman!’
+
+She answered with the old, quick, searching look of the [[Night|night]] when she
+was found at the Circus; then cast down her eyes.  ‘Yes, father.’
+
+‘My dear,’ said Mr. Gradgrind, ‘I must speak with you [[Alone|alone]] and
+seriously.  Come to me in my room after breakfast to-morrow, will you?’
+
+‘Yes, father.’
+
+‘Your hands are rather cold, Louisa.  Are you not [[Well|well]]?’
+
+‘Quite [[Well|well]], father.’
+
+‘And cheerful?’
+
+She looked at him again, and smiled in her peculiar manner.  ‘I am as
+cheerful, father, as I usually am, or usually have been.’
+
+‘That’s [[Well|well]],’ said Mr. Gradgrind.  So, he kissed her and went away; and
+Louisa returned to the serene apartment of the hair-cutting character,
+and leaning her elbow on her hand, looked again at the short-lived sparks
+that so soon subsided into ashes.
+
+‘Are you there, Loo?’ said her brother, looking in at the door.  He was
+quite a young gentleman of pleasure now, and not quite a prepossessing
+one.
+
+‘Dear Tom,’ she answered, rising and embracing him, ‘how long it is since
+you have been to see me!’
+
+‘Why, I have been otherwise engaged, Loo, in the evenings; and in the
+daytime old Bounderby has been keeping me at it rather.  But I touch him
+up with you when he comes it too strong, and so we preserve an
+understanding.  I say!  Has father said anything particular to you to-day
+or yesterday, Loo?’
+
+‘No, Tom.  But he told me to-[[Night|night]] that he wished to do so in the
+morning.’
+
+‘Ah!  That’s what I mean,’ said Tom.  ‘Do you know where he is
+to-[[Night|night]]?’—with a very deep expression.
+
+‘No.’
+
+‘Then I’ll tell you.  He’s with old Bounderby.  They are having a regular
+confab together up at the Bank.  Why at the Bank, do you think?  [[Well]],
+I’ll tell you again.  To keep Mrs. Sparsit’s ears as far off as possible,
+I expect.’
+
+With her hand upon her brother’s shoulder, Louisa still stood looking at
+the [[Fire|fire]].  Her brother glanced at her face with greater interest than
+usual, and, encircling her waist with his arm, drew her coaxingly to him.
+
+‘You are very fond of me, an’t you, Loo?’
+
+‘Indeed I am, Tom, though you do let such long intervals go by without
+coming to see me.’
+
+‘[[Well]], sister of mine,’ said Tom, ‘when you say that, you are near my
+thoughts.  We might be so much oftener together—mightn’t we?  Always
+together, almost—mightn’t we?  It would do me a great deal of good if you
+were to make up your mind to I know what, Loo.  It would be a splendid
+thing for me.  It would be uncommonly jolly!’
+
+Her thoughtfulness baffled his cunning scrutiny.  He could make nothing
+of her face.  He pressed her in his arm, and kissed her cheek.  She
+returned the kiss, but still looked at the [[Fire|fire]].
+
+‘I say, Loo!  I thought I’d come, and just hint to you what was going on:
+though I supposed you’d most likely guess, even if you didn’t know.  I
+can’t stay, because I’m engaged to some fellows to-[[Night|night]].  You won’t
+forget how fond you are of me?’
+
+‘No, dear Tom, I won’t forget.’
+
+‘That’s a capital girl,’ said Tom.  ‘Good-bye, Loo.’
+
+She gave him an affectionate good-[[Night|night]], and went out with him to the
+door, whence the fires of Coketown could be seen, making the distance
+lurid.  She stood there, looking steadfastly towards them, and listening
+to his departing steps.  They retreated quickly, as glad to get away from
+Stone Lodge; and she stood there yet, when he was gone and all was quiet.
+It seemed as if, first in her own [[Fire|fire]] within the [[house]], and then in the
+fiery haze without, she tried to discover what kind of woof Old [[Time]],
+that greatest and longest-established Spinner of all, would weave from
+the threads he had already spun into a woman.  But his factory is a
+secret place, his work is noiseless, and his Hands are mutes.

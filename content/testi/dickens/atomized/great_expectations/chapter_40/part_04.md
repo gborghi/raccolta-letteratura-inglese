@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 40 (part 4)"
+title: "Great Expectations — Chapter 40 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_40/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_40/part_05">part 05 ›</a></div>
 </nav>
 
+
+“I will say, informed, Mr. Jaggers.”
+
+“Good.”
 
 “I have been informed by a person named [[Abel Magwitch]], that he is the
 benefactor so long unknown to me.”

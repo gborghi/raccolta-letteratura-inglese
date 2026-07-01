@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 26"
+title: "Northanger Abbey — Chapter 26"
 author: "Austen"
 unitType: chapter
 parentWork: "works/northanger-abbey-(austen)"
@@ -298,7 +298,7 @@ more to her now than any other [[house]]. The painful remembrance of the
 
 folly it had helped to nourish and perfect was the only emotion which
 
-could [[spring]] from a consideration of the building. What a revolution in
+could [[Spring|spring]] from a consideration of the building. What a revolution in
 
 her ideas! she, who had so longed to be in an abbey! now, there was
 

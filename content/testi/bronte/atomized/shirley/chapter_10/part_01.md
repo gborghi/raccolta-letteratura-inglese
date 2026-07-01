@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 10 (part 1)"
+title: "Shirley — Chapter 10 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -197,9 +197,3 @@ rupture with his old Tory friend the rector. They quarrelled at a public
 meeting, and afterwards exchanged some pungent letters in the
 
 newspapers. Mr. Helstone denounced Moore as a Jacobin, ceased to see
-
-him, would not even speak to him when they met. He intimated also to his
-
-niece, very distinctly, that her communications with Hollow's Cottage
-
-must for the present cease; she must give up taking French lessons. The

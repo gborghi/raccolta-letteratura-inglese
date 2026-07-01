@@ -1,5 +1,5 @@
 ---
-title: "[[longbow2]] — Chapter 6 (part 1)"
+title: "longbow2 — Chapter 6 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -18,16 +18,15 @@ Chapter VI
 
 The Unthinkable Theory of Professor Green
 
-
 If the present passage in the chronicles of the Long Bow seem but
 a side issue, an interlude and an idyll, a mere romantic episode
 lacking that larger structural achievement which gives solidity
 and hard actuality to the other stories, the reader is requested
-not to be hasty in his condemnation; for in the little [[Love|love]]-story
-of Mr. [[Oliver]] Green is to be found, as in a [[Parable|parable]], the beginning
+not to be hasty in his condemnation; for in the little love-story
+of Mr. Oliver Green is to be found, as in a parable, the beginning
 of the final apotheosis and last judgement of all these things.
 
-It may [[Well|well]] begin on a morning when the sunlight came late
+It may well begin on a morning when the sunlight came late
 but brilliant, under the lifting of great clouds from a great grey
 sweep of wolds that grew purple as they dipped again into distance. 
 Much of that mighty shape was striped and scored with ploughed fields,
@@ -38,11 +37,11 @@ They were both tall; but beyond the fact that they had both once
 been professional soldiers, of rather different types and times,
 they had very little in common.  By their ages they might almost
 have been father and son; and this would not have been contradicted
-by the fact that the younger appeared to be talking all the [[Time|time]],
+by the fact that the younger appeared to be talking all the time,
 in a high, confident and almost crowing voice, while the elder
 only now and then put in a word.  But they were not father and son;
 strangely enough they were really talking and walking together
-because they were friends.  Those who know only too [[Well|well]] their
+because they were friends.  Those who know only too well their
 proceedings as narrated elsewhere would have recognized Colonel Crane,
 once of the Coldstream Guards, and Captain Pierce, late of the
 Flying Corps.
@@ -59,22 +58,22 @@ since I talked to him, Oates is another and a better man."
 
 "Sown his wild oats, in fact," remarked Crane.
 
-"[[Well]]," replied the other.  "In a sense they were very quiet oats. 
+"Well," replied the other.  "In a sense they were very quiet oats. 
 Almost what you might call Quaker Oats.  He was a Puritan and a
 Prohibitionist and a Pacifist and an Internationalist; in short,
-everything that is in darkness and the [[Shadow|shadow]] of [[Death|death]].  But what you
+everything that is in darkness and the shadow of death.  But what you
 said about him was quite right.  His heart's in the right place. 
 It's on his sleeve.  That's why I preached the gospel to the noble
-savage and made him a [[convert]]."
+savage and made him a convert."
 
-"But what did you [[convert]] him to?" inquired the other.
+"But what did you convert him to?" inquired the other.
 
 "Private property," replied Pierce promptly.  "Being a millionaire
 he had never heard of it.  But when I explained the first elementary
 idea of it in a simple form, he was quite taken with the notion. 
 I pointed out that he might abandon robbery on a large scale and
 create property on a small scale.  He felt it was very revolutionary,
-but he admitted it was right.  [[Well]], you know, he'd bought this big
+but he admitted it was right.  Well, you know, he'd bought this big
 English estate out here.  He was going to play the philanthropist,
 and have a model estate with all the regular trimmings; heads hygienically
 shaved by machinery every morning; and the cottagers admitted once
@@ -129,6 +128,3 @@ or is it an anti-aircraft gun?"
 
 "Anti-airman gun, no [[Doubt|doubt]]," said Crane; "they heard you were coming
 down and took precautions."
-
-"But what the devil can he want with a gun?" muttered Pierce,
-peering at the dark outline.

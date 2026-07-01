@@ -205,7 +205,3 @@ CHAPTER 8
       mutiny, and by degrees led the men to talk of the thousand
 
       superstitions which are so universally current among seamen. I
-
-      could not make out all that was said, but I could plainly see the
-
-      effects of the conversation in the countenances of those present.

@@ -1,5 +1,5 @@
 ---
-title: "[[misc]] — THE ENCHANTED MAN"
+title: "misc — THE ENCHANTED MAN"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 THE ENCHANTED MAN
-
 
 When I arrived to see the performance of the Buckinghamshire Players,
 who acted Miss [[Gertrude]] Robins's POT LUCK at Naphill a short [[Time|time]] ago,

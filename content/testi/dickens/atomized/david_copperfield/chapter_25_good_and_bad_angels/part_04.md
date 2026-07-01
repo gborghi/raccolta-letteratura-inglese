@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 25: GOOD AND BAD ANGELS (part 4)"
+title: "David Copperfield — Chapter 25: GOOD AND BAD ANGELS (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_25_good_and_bad_angels/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_25_good_and_bad_angels/part_05">part 05 ›</a></div>
 </nav>
 
+
+‘Traddles,’ returned Mr. Waterbrook, ‘is a young man reading for the
+bar. Yes. He is quite a good fellow--nobody’s enemy but his own.’
 
 ‘Is he his own enemy?’ said I, sorry to hear this.
 
@@ -132,27 +135,3 @@ Mr. Spiker was so interested, that he became quite stony.
 back in his chair. ‘Our friend Waterbrook will excuse me if I forbear to
 explain myself generally, on account of the magnitude of the interests
 involved.’
-
-Mr. Waterbrook was only too happy, as it appeared to me, to have such
-interests, and such names, even hinted at, across his table. He assumed
-an expression of gloomy intelligence (though I am persuaded he knew
-no more about the discussion than I did), and highly approved of the
-discretion that had been observed. Mr. Spiker, after the receipt of such
-a confidence, naturally desired to favour his friend with a confidence
-of his own; therefore the foregoing dialogue was succeeded by another,
-in which it was Mr. Gulpidge’s turn to be surprised, and that by another
-in which the surprise came round to Mr. Spiker’s turn again, and so on,
-turn and turn about. All this [[Time|time]] we, the outsiders, remained oppressed
-by the tremendous interests involved in the conversation; and our
-host regarded us with [[Pride|pride]], as the victims of a salutary awe and
-astonishment. I was very glad indeed to get upstairs to Agnes, and to
-talk with her in a corner, and to introduce Traddles to her, who was
-shy, but agreeable, and the same good-natured creature still. As he
-was obliged to leave early, on account of going away next morning for
-a month, I had not nearly so much conversation with him as I could have
-wished; but we exchanged addresses, and promised ourselves the pleasure
-of another meeting when he should come back to town. He was greatly
-interested to hear that I knew Steerforth, and spoke of him with such
-warmth that I made him tell Agnes what he thought of him. But Agnes only
-looked at me the while, and very slightly shook her head when only I
-observed her.

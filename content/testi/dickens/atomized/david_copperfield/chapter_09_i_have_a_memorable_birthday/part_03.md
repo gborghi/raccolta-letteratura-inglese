@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 9: I HAVE A MEMORABLE BIRTHDAY (part 3)"
+title: "David Copperfield — Chapter 9: I HAVE A MEMORABLE BIRTHDAY (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,29 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_09_i_have_a_memorable_birthday/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_09_i_have_a_memorable_birthday/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘Yes,’ said Joram. ‘As you said we could make a little trip of it, and
+go over together, if it was done, Minnie and me--and you.’
+
+‘Oh! I thought you were going to leave me out altogether,’ said Mr.
+Omer, laughing till he coughed.
+
+‘--As you was so good as to say that,’ resumed the young man, ‘why I
+turned to with a will, you see. Will you give me your opinion of it?’
+
+‘I will,’ said Mr. Omer, rising. ‘My dear’; and he stopped and turned to
+me: ‘would you like to see your--’
+
+‘No, father,’ Minnie interposed.
+
+‘I thought it might be agreeable, my dear,’ said Mr. Omer. ‘But perhaps
+you’re right.’
+
+I can’t say how I knew it was my dear, dear mother’s coffin that they
+went to look at. I had never heard one making; I had never seen one that
+I know of.--but it came into my mind what the noise was, while it was
+going on; and when the young man entered, I am sure I knew what he had
+been doing.
 
 The work being now finished, the two girls, whose names I had not heard,
 brushed the shreds and threads from their dresses, and went into the
@@ -108,14 +131,3 @@ and freshness all around it, there seemed to me to lie embodied the
 solemn stillness that was in the [[house]]; and that when she would have
 turned the cover gently back, I cried: ‘Oh no! oh no!’ and held her
 hand.
-
-If the funeral had been yesterday, I could not recollect it better. The
-very air of the best parlour, when I went in at the door, the bright
-condition of the [[Fire|fire]], the shining of the wine in the decanters, the
-patterns of the glasses and plates, the faint sweet smell of cake, the
-odour of Miss Murdstone’s dress, and our black clothes. Mr. Chillip is
-in the room, and comes to speak to me.
-
-‘And how is Master David?’ he says, kindly.
-
-I cannot tell him very [[Well|well]]. I give him my hand, which he holds in his.

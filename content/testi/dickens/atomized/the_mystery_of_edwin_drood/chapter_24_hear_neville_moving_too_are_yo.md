@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Part 1: hear Neville moving too. Are you going back?”"
+title: "The Mystery of Edwin Drood — Part 1: hear Neville moving too. Are you going back?”"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -56,7 +56,7 @@ a third hand (a brown one) appear among the [[Flowers|flowers]] and [[Leaves|lea
 help her friend out of sight.
 
 The refection that Mr. Tartar produced in the Admiral’s Cabin by merely
-touching the [[Spring|spring]] knob of a locker and the handle of a drawer, was a
+touching the [[spring]] knob of a locker and the handle of a drawer, was a
 dazzling enchanted repast. Wonderful macaroons, glittering liqueurs,
 magically-preserved tropical spices, and jellies of celestial tropical
 fruits, displayed themselves profusely at an instant’s notice. But Mr.

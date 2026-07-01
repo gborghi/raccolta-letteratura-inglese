@@ -14,6 +14,12 @@ tags:
 </nav>
 
 
+'There is that, of course,' said [[Father Brown]]. 'It would be very
+reasonable, so to speak, of our Moslem friend to have stabbed him. And
+you may say we don't know of anybody else yet, who could at all
+reasonably have stabbed him. But. . . but I was thinking . . . ' And his
+round face suddenly went blank again and all speech died on his lips.
+
 'What's the matter now?' asked the other.
 
 '[[Well]], I know it sounds funny,' said [[Father Brown]] in a forlorn voice.
@@ -119,30 +125,3 @@ without noticing it.'
 'Yes; and they generally see they get it too,' answered [[Father Brown]].
 'In this case, they had it all carefully carted after them to their own
 room. But this glass was left behind.'
-
-'An accident, I suppose,' said Greenwood doubtfully. 'The man could
-easily get another in the Commercial Room afterwards.'
-
-[[Father Brown]] shook his head. 'You've got to see people as they are. Now
-these sort of men - [[Well|well]], some call them vulgar and some common; but
-that's all likes and dislikes. I'd be content to say that they are
-mostly simple men. Lots of them very good men, very glad to go back to
-the missus and the kids; some of them might be blackguards; might have
-had several missuses; or even murdered several missuses. But most of
-them are simple men; and, mark you, just the least tiny bit drunk. Not
-much; there's many a duke or don at [[Oxford]] drunker; but when that sort
-of man is at that stage of conviviality, he simply can't help noticing
-things, and noticing them very loud. Don't you observe that the least
-little incident jerks them into speech; if the beer froths over, they
-froth over with it, and have to say, âWhoa, [[Emma]],â or âDoing me proud,
-aren't you?â Now I should say it's flatly impossible for five of these
-festive beings to sit round a table in the Commercial Room, and have
-only four glasses set before them, the fifth man being left out, without
-making a shout about it. Probably they would make a shout about it.
-Certainly he would make a shout about it. He wouldn't wait, like an
-Englishman of another class, till he could get a drink quietly later.
-The air would resound with things like, âAnd what about little me?â or,
-âHere, George, have I joined the Band of [[Hope]]?â or, âDo you see any
-green in my turban, George?â But the barman heard no such complaints. I
-take it as certain that the glass of whisky left behind had been nearly
-emptied by somebody else; somebody we haven't thought about yet.'

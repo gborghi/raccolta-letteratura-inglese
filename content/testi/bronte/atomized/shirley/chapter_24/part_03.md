@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 24 (part 3)"
+title: "Shirley — Chapter 24 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,26 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_24/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_24/part_04">part 04 ›</a></div>
 </nav>
 
+
+I never show it."
+
+
+
+Mrs. Pryor had already disappeared behind the curtain. Reclining far
+
+back in a deep arm-chair by the bedside, she was withdrawn from view.
+
+Caroline looked abroad into the chamber; she thought it empty. As her
+
+stray ideas returned slowly, each folding its weak wings on the mind's
+
+sad shore, like [[Birds|birds]] exhausted, beholding void, and perceiving [[Silence|silence]]
+
+round her, she believed herself [[Alone|alone]]. Collected she was not yet;
+
+perhaps healthy [[Self|self]]-possession and [[Self|self]]-control were to be hers no
+
+more; perhaps that world the strong and prosperous live in had already
 
 rolled from beneath her feet for ever. So, at least, it often seemed to
 
@@ -239,55 +259,3 @@ beats, ma'am! Do not be afraid."
 
 
 "It is not [[Fear|fear]], [[Child|child]]--only a little anxiety, which will pass. I have
-
-brought you some tea, Cary. Your uncle made it himself. You know he says
-
-he can make a better cup of tea than any housewife can. Taste it. He is
-
-concerned to hear that you eat so little; he would be glad if you had a
-
-better appetite."
-
-
-
-"I am thirsty. Let me drink."
-
-
-
-She drank eagerly.
-
-
-
-"What o'[[Clock|clock]] is it, ma'am?" she asked.
-
-
-
-"Past nine."
-
-
-
-"Not later? Oh! I have yet a long [[Night|night]] before me. But the tea has made
-
-me strong. I will sit up."
-
-
-
-Mrs. Pryor raised her, and arranged her pillows.
-
-
-
-"Thank Heaven! I am not always equally miserable, and ill, and hopeless.
-
-The afternoon has been bad since Hortense went; perhaps the evening may
-
-be better. It is a fine [[Night|night]], I think? The [[Moon|moon]] shines clear."
-
-
-
-"Very fine--a perfect [[Summer|summer]] [[Night|night]]. The old church-tower gleams white
-
-almost as silver."
-
-
-
-"And does the churchyard look peaceful?"

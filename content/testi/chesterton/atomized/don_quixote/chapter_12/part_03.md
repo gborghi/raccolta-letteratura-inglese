@@ -1,5 +1,5 @@
 ---
-title: "[[Don Quixote]] — Chapter 11 (part 3)"
+title: "Don Quixote — Chapter 11 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/don-quixote-(chesterton)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_12/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_13/part_01">part 01 ›</a></div>
 </nav>
 
+
+"I dare say," said the librarian thoughtfully, "that was why
+you wore a red tie.  But I want to know why you wore a tie.
+I want to know why anybody, of all the sacred race of man,
+ever wore a tie."
 
 Braintree, who was always sincere, was suddenly silent
 and the other man went on, still gazing at him earnestly,

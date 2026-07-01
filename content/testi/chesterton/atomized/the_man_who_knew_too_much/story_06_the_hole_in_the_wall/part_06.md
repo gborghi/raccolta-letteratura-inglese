@@ -14,6 +14,39 @@ tags:
 </nav>
 
 
+he could have hit my brother and didn't, you deduce that he did.
+
+That's the sort of way you argue. And as for his having disappeared,
+
+you're wrong in that as you are in everything else, for here he
+
+comes."
+And, indeed, the green figure of the fictitious [[Robin Hood]] slowly
+
+detached itself from the gray background of the trees, and came
+
+toward them as she spoke.
+He approached the group slowly, but with composure; but he was
+
+decidedly pale, and the eyes of Brain and Fisher had already taken
+
+in one detail of the green-clad figure more clearly than all the
+
+rest. The horn still swung from his baldrick, but the [[Sword|sword]] was
+
+gone.
+Rather to the surprise of the company, Brain did not follow up the
+
+question thus suggested; but, while retaining an air of leading the
+
+inquiry, had also an appearance of changing the subject.
+"Now we're all assembled," he observed, quietly, "there is a
+
+question I want to ask to begin with. Did anybody here actually see
+
+Lord Bulmer this morning?"
+Leonard Crane turned his pale face round the circle of faces till he
+
 came to [[Juliet]]'s; then he compressed his lips a little and said:
 "Yes, I saw him."
 "Was he alive and [[Well|well]]?" asked Brain, quickly. "How was he
@@ -156,41 +189,3 @@ were accepted as an [[Allegory|allegory]] even without the key; and they knew
 when a crisis had come, when they did not know what it was. And
 
 somehow they knew subconsciously that the whole tale had taken a new
-
-and terrible turn, when they saw the prince stand in the gap of the
-
-gaunt trees, in his robes of angry crimson and with his lowering
-
-face of bronze, bearing in his hand a new shape of [[Death|death]]. They could
-
-not have named a reason, but the two swords seemed indeed to have
-
-become toy swords and the whole tale of them broken and tossed away
-
-like a toy. Borodino looked like the Old World headsman, clad in
-
-terrible red, and carrying the ax for the execution of the criminal.
-
-And the criminal was not Crane.
-Mr. Brain of the Indian police was glaring at the new object, and it
-
-was a moment or two before he spoke, harshly and almost hoarsely.
-"What are you doing with that?" he asked. "Seems to be a woodman's
-
-chopper."
-"A natural association of ideas," observed Horne Fisher. "If you
-
-meet a cat in a wood you think it's a wildcat, though it may have
-
-just strolled from the drawing-room sofa. As a matter of fact, I
-
-happen to know that is not the woodman's chopper. It's the kitchen
-
-chopper, or meat ax, or something like that, that somebody has
-
-thrown away in the wood. I saw it in the kitchen myself when I was
-
-getting the potato sacks with which I reconstructed a mediaeval
-
-hermit."
-"All the same, it is not without interest," remarked the prince,

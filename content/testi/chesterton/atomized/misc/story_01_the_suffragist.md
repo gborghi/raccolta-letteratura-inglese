@@ -1,5 +1,5 @@
 ---
-title: "[[misc]] — THE SUFFRAGIST"
+title: "misc — THE SUFFRAGIST"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -10,12 +10,11 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">misc</a></div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/misc/story_02_the_poet_and_the_cheese">Story 02 THE POET AND THE CHEESE ›</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/misc/story_02_the_poet_and_the_cheese_cheese">Story 02 THE POET AND THE cheese CHEESE ›</a></div>
 </nav>
 
 
 THE SUFFRAGIST
-
 
 Rightly or wrongly, it is certain that a man both liberal and chivalric,
 can and very often does feel a dis-ease and distrust touching

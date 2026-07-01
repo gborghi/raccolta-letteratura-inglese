@@ -1,5 +1,5 @@
 ---
-title: "[[queertrades]] — Chapter 5 (part 4)"
+title: "queertrades — Chapter 5 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/queertrades-(chesterton)"
@@ -131,14 +131,3 @@ Professor Chadd was in the wildest posture of a pas-de-quatre,
 Basil Grant seemed about to turn a cart-[[Wheel|wheel]], when they were frozen
 in their follies by the steely voice of Adelaide Chadd saying,
 "Mr Bingham of the British Museum."
-
-Mr Bingham was a slim, [[Well|well]]-clad gentleman with a pointed and
-slightly effeminate grey beard, unimpeachable gloves, and formal
-but agreeable manners.  He was the type of the over-civilized,
-as Professor Chadd was of the uncivilized pedant.  His formality
-and agreeableness did him some credit under the circumstances.
-He had a vast experience of books and a considerable experience
-of the more dilettante fashionable salons.  But neither branch
-of knowledge had accustomed him to the spectacle of two grey-haired
-middle-class gentlemen in modern costume throwing themselves about
-like acrobats as a substitute for an after-dinner nap.

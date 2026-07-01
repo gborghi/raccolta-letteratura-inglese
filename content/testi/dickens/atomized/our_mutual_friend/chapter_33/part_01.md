@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 9 (part 1)"
+title: "Our Mutual Friend — Chapter 11 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,144 +10,127 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_32/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_33/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_32/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_33/part_02">part 02 ›</a></div>
 </nav>
 
 
-Chapter 9
+Chapter 11
 
-IN WHICH THE [[Orphan|ORPHAN]] MAKES HIS WILL
+SOME AFFAIRS OF THE HEART
 
 
-The Secretary, working in the Dismal Swamp betimes next morning, was
-informed that a youth waited in the hall who gave the name of Sloppy.
-The footman who communicated this intelligence made a decent pause
-before uttering the name, to express that it was forced on his
-reluctance by the youth in question, and that if the youth had had
-the good sense and good taste to inherit some other name it would have
-spared the feelings of him the bearer.
+Little Miss Peecher, from her little official dwelling-[[house]], with its
+little windows like the eyes in needles, and its little doors like the
+covers of school-books, was very observant indeed of the object of her
+quiet affections. [[Love]], though said to be afflicted with blindness, is
+a vigilant watchman, and Miss Peecher kept him on [[Double|double]] duty over Mr
+[[Bradley Headstone]]. It was not that she was naturally given to playing
+the spy—it was not that she was at all secret, plotting, or mean—it
+was simply that she loved the irresponsive Bradley with all the
+primitive and homely stock of [[Love|love]] that had never been examined or
+certificated out of her. If her faithful slate had had the latent
+qualities of sympathetic paper, and its pencil those of invisible ink,
+many a little treatise calculated to astonish the pupils would have come
+bursting through the dry sums in school-[[Time|time]] under the warming influence
+of Miss Peecher’s bosom. For, oftentimes when school was not, and her
+calm leisure and calm little [[house]] were her own, Miss Peecher would
+commit to the confidential slate an imaginary description of how, upon
+a balmy evening at dusk, two figures might have been observed in the
+market-[[Garden|garden]] ground round the corner, of whom one, being a manly form,
+bent over the other, being a womanly form of short stature and some
+compactness, and breathed in a low voice the words, ‘[[Emma]] Peecher, wilt
+thou be my own?’ after which the womanly form’s head reposed upon the
+manly form’s shoulder, and the nightingales tuned up. Though all unseen,
+and unsuspected by the pupils, [[Bradley Headstone]] even pervaded the
+school exercises. Was Geography in question? He would come triumphantly
+flying out of Vesuvius and Aetna ahead of the lava, and would boil
+unharmed in the hot springs of Iceland, and would float majestically
+down the Ganges and the Nile. Did [[history|History]] chronicle a [[King|king]] of men?
+Behold him in pepper-and-salt pantaloons, with his watch-guard round
+his neck. Were copies to be written? In capital B’s and H’s most of the
+girls under Miss Peecher’s tuition were half a year ahead of every other
+letter in the alphabet. And Mental Arithmetic, administered by Miss
+Peecher, often devoted itself to providing [[Bradley Headstone]] with a
+wardrobe of fabulous extent: fourscore and four neck-ties at two and
+ninepence-halfpenny, two gross of silver watches at four pounds fifteen
+and sixpence, seventy-four black hats at eighteen shillings; and many
+similar superfluities.
 
-‘Mrs Boffin will be very [[Well|well]] pleased,’ said the Secretary in a
-perfectly composed way. ‘Show him in.’
+The vigilant watchman, using his daily opportunities of turning his eyes
+in Bradley’s direction, soon apprized Miss Peecher that Bradley was more
+preoccupied than had been his wont, and more given to strolling about
+with a downcast and reserved face, turning something difficult in his
+mind that was not in the scholastic syllabus. Putting this and that
+together—combining under the head ‘this,’ present appearances and the
+intimacy with Charley Hexam, and ranging under the head ‘that’ the
+visit to his sister, the watchman reported to Miss Peecher his strong
+suspicions that the sister was at the [[Bottom|bottom]] of it.
 
-Mr Sloppy being introduced, remained close to the door: revealing
-in various parts of his form many surprising, confounding, and
-incomprehensible buttons.
+‘I [[Wonder|wonder]],’ said Miss Peecher, as she sat making up her weekly report on
+a half-holiday afternoon, ‘what they call Hexam’s sister?’
 
-‘I am glad to see you,’ said John Rokesmith, in a cheerful tone of
-welcome. ‘I have been expecting you.’
+Mary Anne, at her needlework, attendant and attentive, held her arm up.
 
-Sloppy explained that he had meant to come before, but that the [[Orphan]]
-(of whom he made mention as Our Johnny) had been ailing, and he had
-waited to report him [[Well|well]].
+‘[[Well]], Mary Anne?’
 
-‘Then he is [[Well|well]] now?’ said the Secretary.
+‘She is named Lizzie, ma’am.’
 
-‘No he ain’t,’ said Sloppy.
+‘She can hardly be named Lizzie, I think, Mary Anne,’ returned Miss
+Peecher, in a tunefully instructive voice. ‘Is Lizzie a Christian name,
+Mary Anne?’
 
-Mr Sloppy having shaken his head to a considerable extent, proceeded
-to remark that he thought Johnny ‘must have took ’em from the Minders.’
-Being asked what he meant, he answered, them that come out upon him and
-partickler his chest. Being requested to explain himself, he stated that
-there was some of ’em wot you couldn’t kiver with a sixpence. Pressed to
-fall back upon a nominative case, he opined that they wos about as
-red as ever red could be. ‘But as long as they strikes out’ards, sir,’
-continued Sloppy, ‘they ain’t so much. It’s their striking in’ards
-that’s to be kep off.’
+Mary Anne laid down her work, [[Rose|rose]], hooked herself behind, as being
+under catechization, and replied: ‘No, it is a corruption, Miss
+Peecher.’
 
-John Rokesmith hoped the [[Child|child]] had had medical attendance? Oh yes, said
-Sloppy, he had been took to the doctor’s shop once. And what did the
-doctor call it? Rokesmith asked him. After some perplexed reflection,
-Sloppy answered, brightening, ‘He called it something as wos wery
-long for spots.’ Rokesmith suggested measles. ‘No,’ said Sloppy with
-confidence, ‘ever so much longer than THEM, sir!’ (Mr Sloppy was
-elevated by this fact, and seemed to consider that it reflected credit
-on the poor little patient.)
+‘Who gave her that name?’ Miss Peecher was going on, from the mere force
+of habit, when she checked herself; on Mary Anne’s evincing theological
+impatience to strike in with her godfathers and her godmothers, and
+said: ‘I mean of what name is it a corruption?’
 
-‘Mrs Boffin will be sorry to hear this,’ said Rokesmith.
+‘Elizabeth, or Eliza, Miss Peecher.’
 
-‘Mrs Higden said so, sir, when she kep it from her, hoping as Our Johnny
-would work round.’
+‘Right, Mary Anne. Whether there were any Lizzies in the early Christian
+Church must be considered very doubtful, very doubtful.’ Miss Peecher
+was exceedingly sage here. ‘Speaking correctly, we say, then, that
+Hexam’s sister is called Lizzie; not that she is named so. Do we not,
+Mary Anne?’
 
-‘But I [[Hope|hope]] he will?’ said Rokesmith, with a quick turn upon the
-messenger.
+‘We do, Miss Peecher.’
 
-‘I [[Hope|hope]] so,’ answered Sloppy. ‘It all depends on their striking
-in’ards.’ He then went on to say that whether Johnny had ‘took ’em’
-from the Minders, or whether the Minders had ‘took ’em’ from Johnny,
-the Minders had been sent [[Home|home]] and had ‘got ’em.’ Furthermore, that Mrs
-Higden’s days and nights being devoted to Our Johnny, who was never out
-of her lap, the whole of the mangling arrangements had devolved upon
-himself, and he had had ‘rayther a tight [[Time|time]]’. The ungainly piece of
-honesty beamed and blushed as he said it, quite enraptured with the
-remembrance of having been serviceable.
+‘And where,’ pursued Miss Peecher, complacent in her little transparent
+fiction of conducting the examination in a semiofficial manner for Mary
+Anne’s benefit, not her own, ‘where does this young woman, who is called
+but not named Lizzie, live? Think, now, before answering.’
 
-‘Last [[Night|night]],’ said Sloppy, ‘when I was a-turning at the [[Wheel|wheel]] pretty
-late, the mangle seemed to go like Our Johnny’s breathing. It begun
-beautiful, then as it went out it shook a little and got unsteady, then
-as it took the turn to come [[Home|home]] it had a rattle-like and lumbered a
-bit, then it come smooth, and so it went on till I scarce know’d which
-was mangle and which was Our Johnny. Nor Our Johnny, he scarce know’d
-either, for sometimes when the mangle lumbers he says, “Me choking,
-Granny!” and Mrs Higden holds him up in her lap and says to me “Bide a
-bit, Sloppy,” and we all stops together. And when Our Johnny gets his
-breathing again, I turns again, and we all goes on together.’
+‘In Church Street, [[smith|Smith]] Square, by Mill Bank, ma’am.’
 
-Sloppy had gradually expanded with his description into a stare and a
-vacant grin. He now contracted, being silent, into a half-repressed gush
-of [[Tears|tears]], and, under pretence of being heated, drew the under part of
-his sleeve across his eyes with a singularly awkward, laborious, and
-roundabout smear.
+‘In Church Street, [[smith|Smith]] Square, by Mill Bank,’ repeated Miss Peecher,
+as if possessed beforehand of the book in which it was written. Exactly
+so. And what occupation does this young woman pursue, Mary Anne? Take
+[[Time|time]].’
 
-‘This is unfortunate,’ said Rokesmith. ‘I must go and break it to Mrs
-Boffin. Stay you here, Sloppy.’
+‘She has a place of trust at an outfitter’s in the [[City]], ma’am.’
 
-Sloppy stayed there, staring at the pattern of the paper on the wall,
-until the Secretary and Mrs Boffin came back together. And with Mrs
-Boffin was a young lady (Miss [[Bella Wilfer]] by name) who was better worth
-staring at, it occurred to Sloppy, than the best of wall-papering.
+‘Oh!’ said Miss Peecher, pondering on it; but smoothly added, in a
+confirmatory tone, ‘At an outfitter’s in the [[City]]. Ye-es?’
 
-‘Ah, my poor dear pretty little [[John Harmon]]!’ exclaimed Mrs Boffin.
+‘And Charley—’ Mary Anne was proceeding, when Miss Peecher stared.
 
-‘Yes mum,’ said the sympathetic Sloppy.
+‘I mean Hexam, Miss Peecher.’
 
-‘You don’t think he is in a very, very bad way, do you?’ asked the
-pleasant creature with her wholesome cordiality.
+‘I should think you did, Mary Anne. I am glad to hear you do. And
+Hexam—’
 
-Put upon his good [[Faith|faith]], and finding it in collision with his
-inclinations, Sloppy threw back his head and uttered a mellifluous howl,
-rounded off with a sniff.
+‘Says,’ Mary Anne went on, ‘that he is not pleased with his sister, and
+that his sister won’t be guided by his advice, and persists in being
+guided by somebody else’s; and that—’
 
-‘So bad as that!’ cried Mrs Boffin. ‘And Betty Higden not to tell me of
-it sooner!’
+‘Mr Headstone coming across the [[Garden|garden]]!’ exclaimed Miss Peecher, with a
+flushed glance at the looking-glass. ‘You have answered very [[Well|well]], Mary
+Anne. You are forming an excellent habit of arranging your thoughts
+clearly. That will do.’
 
-‘I think she might have been mistrustful, mum,’ answered Sloppy,
-hesitating.
-
-‘Of what, for Heaven’s sake?’
-
-‘I think she might have been mistrustful, mum,’ returned Sloppy with
-submission, ‘of standing in Our Johnny’s light. There’s so much trouble
-in illness, and so much expense, and she’s seen such a lot of its being
-objected to.’
-
-‘But she never can have thought,’ said Mrs Boffin, ‘that I would grudge
-the dear [[Child|child]] anything?’
-
-‘No mum, but she might have thought (as a habit-like) of its standing
-in Johnny’s light, and might have tried to bring him through it
-unbeknownst.’
-
-Sloppy knew his ground [[Well|well]]. To conceal herself in sickness, like a
-lower animal; to creep out of sight and coil herself away and die; had
-become this woman’s instinct. To catch up in her arms the sick [[Child|child]] who
-was dear to her, and hide it as if it were a criminal, and keep off all
-ministration but such as her own ignorant tenderness and patience could
-supply, had become this woman’s idea of maternal [[Love|love]], fidelity, and
-duty. The shameful accounts we read, every week in the Christian year,
-my lords and gentlemen and honourable boards, the infamous records of
-small official inhumanity, do not pass by the people as they pass by
-us. And hence these irrational, blind, and obstinate prejudices, so
-astonishing to our magnificence, and having no more reason in them—God
-save the [[Queen]] and Confound their politics—no, than smoke has in coming
-from [[Fire|fire]]!
+The discreet Mary Anne resumed her seat and her [[Silence|silence]], and stitched,
+and stitched, and was stitching when the schoolmaster’s [[Shadow|shadow]] came in
+before him, announcing that he might be instantly expected.

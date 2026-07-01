@@ -1,5 +1,5 @@
 ---
-title: "A Midsummer Nights Dream — Act I, Scene 1 — exchange ([[Theseus|THESEUS]]) [3]"
+title: "A Midsummer Nights Dream — Act I, Scene 1 — exchange (THESEUS) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/a-midsummer-night’s-dream-(shakespeare)"

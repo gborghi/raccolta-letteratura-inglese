@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 4 (part 3)"
+title: "Martin Chuzzlewit — Chapter 4 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,21 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_04/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_04/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘Chiv,’ said Mr Tigg aloud, in the high tone of one who was not to
+be tampered with. ‘I shall come to that presently. I act upon my own
+responsibility, or not at all. To the extent of such a trifling loan
+as a crownpiece to a man of your talents, I look upon Mr Pecksniff
+as certain;’ and seeing at this juncture that the expression of Mr
+Pecksniff’s face by no means betokened that he shared this certainty, Mr
+Tigg laid his finger on his nose again for that gentleman’s private
+and especial behoof; calling upon him thereby to take notice that the
+requisition of small loans was another instance of the peculiarities of
+genius as developed in his friend Slyme; that he, Tigg, winked at the
+same, because of the strong metaphysical interest which these weaknesses
+possessed; and that in reference to his own personal advocacy of such
+small advances, he merely consulted the [[Humour|humour]] of his friend, without
+the least regard to his own advantage or necessities.
 
 ‘Oh, Chiv, Chiv!’ added Mr Tigg, surveying his adopted brother with an
 air of profound contemplation after dismissing this piece of pantomime.
@@ -102,21 +117,3 @@ not five minutes ago, when I was waiting round the corner.’
 
 ‘So there,’ said Slyme, regardless of the interruption, ‘are his brother
 and another nephew for you, already.’
-
-‘This is the whole thing, sir,’ said Mr Tigg; ‘this is the point and
-purpose at which I was gradually arriving when my friend Slyme here,
-with six words, hit it full. Mr Pecksniff, now that your cousin (and
-Chiv’s uncle) has turned up, some steps must be taken to prevent his
-disappearing again; and, if possible, to counteract the influence which
-is exercised over him now, by this designing favourite. Everybody who
-is interested feels it, sir. The whole family is pouring down to this
-place. The [[Time|time]] has come when individual jealousies and interests must
-be forgotten for a [[Time|time]], sir, and [[Union|union]] must be made against the
-common enemy. When the common enemy is routed, you will all set up for
-yourselves again; every lady and gentleman who has a part in the game,
-will go in on their own account and bowl away, to the best of their
-ability, at the testator’s wicket, and nobody will be in a worse
-position than before. Think of it. Don’t commit yourself now. You’ll
-find us at the Half [[Moon]] and Seven [[Stars]] in this village, at any [[Time|time]],
-and open to any reasonable proposition. Hem! Chiv, my dear fellow, go
-out and see what sort of a [[Night|night]] it is.’

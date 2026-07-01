@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 3 (part 3)"
+title: "Our Mutual Friend — Chapter 4 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,152 +14,146 @@ tags:
 </nav>
 
 
-‘This gentleman, Mr Lightwood, is on that business.’
+The young lady’s lamentations were checked at this point by a knuckle,
+knocking at the half-open door of the room. The knuckle had knocked two
+or three times already, but had not been heard.
 
-‘Mr Lightwood?’
+‘Who is it?’ said Mrs Wilfer, in her Act-of-Parliament manner. ‘Enter!’
 
-During a pause, Mortimer and the stranger confronted each other. Neither
-knew the other.
+A gentleman coming in, Miss Bella, with a short and sharp exclamation,
+scrambled off the hearth-rug and massed the bitten curls together in
+their right place on her neck.
 
-‘I think, sir,’ said Mortimer, breaking the awkward [[Silence|silence]] with his
-airy [[Self|self]]-possession, ‘that you did me the [[Honour|honour]] to mention my name?’
+‘The servant girl had her key in the door as I came up, and directed me
+to this room, telling me I was expected. I am afraid I should have asked
+her to announce me.’
 
-‘I repeated it, after this man.’
+‘Pardon me,’ returned Mrs Wilfer. ‘Not at all. Two of my daughters. R.
+W., this is the gentleman who has taken your first-floor. He was so good
+as to make an appointment for to-[[Night|night]], when you would be at [[Home|home]].’
 
-‘You said you were a stranger in [[London]]?’
+A dark gentleman. Thirty at the utmost. An expressive, one might say
+handsome, face. A very bad manner. In the last degree constrained,
+reserved, diffident, troubled. His eyes were on Miss Bella for an
+instant, and then looked at the ground as he addressed the master of the
+[[house]].
 
-‘An utter stranger.’
+‘Seeing that I am quite satisfied, Mr Wilfer, with the rooms, and with
+their situation, and with their price, I suppose a memorandum between us
+of two or three lines, and a payment down, will bind the bargain? I wish
+to send in furniture without delay.’
 
-‘Are you seeking a Mr Harmon?’
+Two or three times during this short address, the cherub addressed had
+made chubby motions towards a chair. The gentleman now took it, laying
+a hesitating hand on a corner of the table, and with another hesitating
+hand lifting the [[Crown|crown]] of his hat to his lips, and drawing it before his
+mouth.
 
-‘No.’
+‘The gentleman, R. W.,’ said Mrs Wilfer, ‘proposes to take your
+apartments by the quarter. A quarter’s notice on either side.’
 
-‘Then I believe I can assure you that you are on a fruitless errand, and
-will not find what you [[Fear|fear]] to find. Will you come with us?’
+‘Shall I mention, sir,’ insinuated the landlord, expecting it to be
+received as a matter of course, ‘the form of a reference?’
 
-A little winding through some muddy alleys that might have been
-deposited by the last ill-savoured tide, brought them to the
-wicket-gate and bright lamp of a Police Station; where they found the
-[[Night]]-Inspector, with a pen and ink, and ruler, posting up his books in
-a whitewashed office, as studiously as if he were in a monastery on
-top of a mountain, and no howling fury of a drunken woman were banging
-herself against a cell-door in the back-yard at his elbow. With the
-same air of a recluse much given to study, he desisted from his books to
-bestow a distrustful nod of recognition upon Gaffer, plainly importing,
-‘Ah! we know all about YOU, and you’ll overdo it some day;’ and to
-inform Mr Mortimer Lightwood and friends, that he would attend them
-immediately. Then, he finished ruling the work he had in hand (it might
-have been illuminating a missal, he was so calm), in a very neat and
-methodical manner, showing not the slightest consciousness of the woman
-who was banging herself with increased violence, and shrieking most
-terrifically for some other woman’s liver.
+‘I think,’ returned the gentleman, after a pause, ‘that a reference is
+not necessary; neither, to say the [[Truth|truth]], is it convenient, for I am
+a stranger in [[London]]. I require no reference from you, and perhaps,
+therefore, you will require none from me. That will be fair on both
+sides. Indeed, I show the greater confidence of the two, for I will pay
+in advance whatever you please, and I am going to trust my furniture
+here. Whereas, if you were in embarrassed circumstances—this is merely
+supposititious—’
 
-‘A bull’s-eye,’ said the [[Night]]-Inspector, taking up his keys. Which a
-deferential satellite produced. ‘Now, gentlemen.’
+[[Conscience]] causing R. Wilfer to colour, Mrs Wilfer, from a corner (she
+always got into stately corners) came to the rescue with a deep-toned
+‘Per-fectly.’
 
-With one of his keys, he opened a cool grot at the end of the yard,
-and they all went in. They quickly came out again, no one speaking but
-Eugene: who remarked to Mortimer, in a whisper, ‘Not MUCH worse than
-Lady Tippins.’
+‘—Why then I—might lose it.’
 
-So, back to the whitewashed library of the monastery—with that liver
-still in shrieking requisition, as it had been loudly, while they looked
-at the silent sight they came to see—and there through the merits of
-the case as summed up by the Abbot. No clue to how [[Body|body]] came into [[River|river]].
-Very often was no clue. Too late to know for certain, whether injuries
-received before or after [[Death|death]]; one excellent surgical opinion said,
-before; other excellent surgical opinion said, after. Steward of [[Ship|ship]] in
-which gentleman came [[Home|home]] passenger, had been round to view, and could
-swear to [[Identity|identity]]. Likewise could swear to clothes. And then, you
-see, you had the papers, too. How was it he had totally disappeared on
-leaving [[Ship|ship]], till found in [[River|river]]? [[Well]]! Probably had been upon some
-little game. Probably thought it a harmless game, wasn’t up to things,
-and it turned out a fatal game. Inquest to-morrow, and no [[Doubt|doubt]] open
-verdict.
+‘[[Well]]!’ observed R. Wilfer, cheerfully, ‘money and goods are certainly
+the best of references.’
 
-‘It appears to have knocked your friend over—knocked him completely off
-his legs,’ Mr Inspector remarked, when he had finished his summing up.
-‘It has given him a bad turn to be sure!’ This was said in a very low
-voice, and with a searching look (not the first he had cast) at the
-stranger.
+‘Do you think they ARE the best, pa?’ asked Miss Bella, in a low voice,
+and without looking over her shoulder as she warmed her foot on the
+fender.
 
-Mr Lightwood explained that it was no friend of his.
+‘Among the best, my dear.’
 
-‘Indeed?’ said Mr Inspector, with an attentive ear; ‘where did you pick
-him up?’
+‘I should have thought, myself, it was so easy to add the usual kind of
+one,’ said Bella, with a toss of her curls.
 
-Mr Lightwood explained further.
+The gentleman listened to her, with a face of marked attention, though
+he neither looked up nor changed his attitude. He sat, still and silent,
+until his future landlord accepted his proposals, and brought writing
+materials to complete the business. He sat, still and silent, while the
+landlord wrote.
 
-Mr Inspector had delivered his summing up, and had added these words,
-with his elbows leaning on his desk, and the fingers and thumb of his
-right hand, fitting themselves to the fingers and thumb of his left.
-Mr Inspector moved nothing but his eyes, as he now added, raising his
-voice:
+When the agreement was ready in duplicate (the landlord having worked
+at it like some cherubic scribe, in what is conventionally called a
+doubtful, which means a not at all doubtful, Old Master), it was signed
+by the contracting parties, Bella looking on as scornful witness. The
+contracting parties were R. Wilfer, and John Rokesmith Esquire.
 
-‘Turned you faint, sir! Seems you’re not accustomed to this kind of
-work?’
+When it came to Bella’s turn to sign her name, Mr Rokesmith, who was
+standing, as he had sat, with a hesitating hand upon the table, looked
+at her stealthily, but narrowly. He looked at the pretty figure bending
+down over the paper and saying, ‘Where am I to go, pa? Here, in this
+corner?’ He looked at the beautiful brown hair, shading the coquettish
+face; he looked at the free dash of the signature, which was a bold one
+for a woman’s; and then they looked at one another.
 
-The stranger, who was leaning against the chimneypiece with drooping
-head, looked round and answered, ‘No. It’s a horrible sight!’
+‘Much obliged to you, Miss Wilfer.’
 
-‘You expected to identify, I am told, sir?’
+‘Obliged?’
 
-‘Yes.’
+‘I have given you so much trouble.’
 
-‘HAVE you identified?’
+‘Signing my name? Yes, certainly. But I am your landlord’s daughter,
+sir.’
 
-‘No. It’s a horrible sight. O! a horrible, horrible sight!’
+As there was nothing more to do but pay eight sovereigns in earnest of
+the bargain, pocket the agreement, appoint a [[Time|time]] for the arrival of his
+furniture and himself, and go, Mr Rokesmith did that as awkwardly as it
+might be done, and was escorted by his landlord to the outer air. When
+R. Wilfer returned, candlestick in hand, to the bosom of his family, he
+found the bosom agitated.
 
-‘Who did you think it might have been?’ asked Mr Inspector. ‘Give us a
-description, sir. Perhaps we can help you.’
+‘Pa,’ said Bella, ‘we have got a Murderer for a tenant.’
 
-‘No, no,’ said the stranger; ‘it would be quite useless. Good-[[Night|night]].’
+‘Pa,’ said [[Lavinia]], ‘we have got a Robber.’
 
-Mr Inspector had not moved, and had given no order; but, the satellite
-slipped his back against the wicket, and laid his left arm along the top
-of it, and with his right hand turned the bull’s-eye he had taken from
-his chief—in quite a casual manner—towards the stranger.
+‘To see him unable for his life to look anybody in the face!’ said
+Bella. ‘There never was such an exhibition.’
 
-‘You missed a friend, you know; or you missed a foe, you know; or you
-wouldn’t have come here, you know. [[Well]], then; ain’t it reasonable to
-ask, who was it?’ Thus, Mr Inspector.
+‘My dears,’ said their father, ‘he is a diffident gentleman, and I
+should say particularly so in the society of girls of your age.’
 
-‘You must excuse my telling you. No class of man can understand better
-than you, that families may not choose to publish their disagreements
-and misfortunes, except on the last necessity. I do not dispute that you
-discharge your duty in asking me the question; you will not dispute my
-right to withhold the answer. Good-[[Night|night]].’
+‘Nonsense, our age!’ cried Bella, impatiently. ‘What’s that got to do
+with him?’
 
-Again he turned towards the wicket, where the satellite, with his eye
-upon his chief, remained a dumb statue.
+‘Besides, we are not of the same age:—which age?’ demanded [[Lavinia]].
 
-‘At least,’ said Mr Inspector, ‘you will not object to leave me your
-card, sir?’
+‘Never YOU mind, Lavvy,’ retorted Bella; ‘you wait till you are of an
+age to ask such questions. Pa, mark my words! Between Mr Rokesmith and
+me, there is a natural antipathy and a deep distrust; and something will
+come of it!’
 
-‘I should not object, if I had one; but I have not.’ He reddened and was
-much confused as he gave the answer.
+‘My dear, and girls,’ said the cherub-patriarch, ‘between Mr Rokesmith
+and me, there is a matter of eight sovereigns, and something for supper
+shall come of it, if you’ll agree upon the article.’
 
-‘At least,’ said Mr Inspector, with no change of voice or manner, ‘you
-will not object to write down your name and address?’
-
-‘Not at all.’
-
-Mr Inspector dipped a pen in his inkstand, and deftly laid it on a
-piece of paper close beside him; then resumed his former attitude.
-The stranger stepped up to the desk, and wrote in a rather tremulous
-hand—Mr Inspector taking sidelong note of every hair of his head when
-it was bent down for the purpose—‘Mr Julius Handford, Exchequer Coffee
-[[house|House]], Palace Yard, Westminster.’
-
-‘Staying there, I presume, sir?’
-
-‘Staying there.’
-
-‘Consequently, from the country?’
-
-‘Eh? Yes—from the country.’
-
-‘Good-[[Night|night]], sir.’
-
-The satellite removed his arm and opened the wicket, and Mr Julius
-Handford went out.
+This was a neat and happy turn to give the subject, treats being rare in
+the Wilfer household, where a monotonous appearance of Dutch-[[cheese]] at
+ten o’[[Clock|clock]] in the evening had been rather frequently commented on by
+the dimpled shoulders of Miss Bella. Indeed, the modest Dutchman himself
+seemed conscious of his want of variety, and generally came before the
+family in a state of apologetic perspiration. After some discussion on
+the relative merits of veal-cutlet, sweetbread, and lobster, a decision
+was pronounced in favour of veal-cutlet. Mrs Wilfer then solemnly
+divested herself of her handkerchief and gloves, as a preliminary
+sacrifice to preparing the frying-pan, and R. W. himself went out
+to purchase the viand. He soon returned, bearing the same in a fresh
+cabbage-leaf, where it coyly embraced a rasher of ham. Melodious sounds
+were not long in rising from the frying-pan on the [[Fire|fire]], or in seeming,
+as the firelight danced in the mellow halls of a couple of full bottles
+on the table, to play appropriate [[Dance|dance]]-music.

@@ -1,5 +1,5 @@
 ---
-title: "[[Shaw]] — THE PHILOSOPHER (part 10)"
+title: "Shaw — THE PHILOSOPHER (part 10)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/shaw-(chesterton)"
@@ -13,6 +13,45 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/shaw/story_08_the_philosopher/part_09">‹ part 09</a><a class="ex-next" href="/testi/chesterton/atomized/shaw/story_08_the_philosopher/part_11">part 11 ›</a></div>
 </nav>
 
+
+The two important plays that he has since given
+us are THE DOCTOR'S DILEMMa and GETTING MARRIED.
+The first is as regards its most amusing and effective elements
+a throw-back to his old game of guying the men of science.
+It was a very good game, and he was an admirable player.
+The actual story of the DOCTOR'S DILEMMa itself seems to me
+less poignant and important than the things with which [[Shaw]] had
+lately been dealing.  First of all, as has been said, [[Shaw]] has
+neither the kind of justice nor the kind of weakness that goes
+to make a true problem.  We cannot feel the Doctor's Dilemma,
+because we cannot really fancy Bernard [[Shaw]] being in a dilemma.
+His mind is both fond of abruptness and fond of finality;
+he always makes up his mind when he knows the facts
+and sometimes before.  Moreover, this particular problem
+(though [[Shaw]] is certainly, as we shall see, nearer to pure
+[[Doubt|doubt]] about it than about anything else) does not strike
+the critic as being such an exasperating problem after all.
+An [[artist]] of vast power and promise, who is also a scamp
+of vast profligacy and treachery, has a chance of life if
+specially treated for a special disease.  The modern doctors
+(and even the modern dramatist) are in [[Doubt|doubt]] whether he should
+be specially favoured because he is aesthetically important
+or specially disregarded because he is ethically anti-social.
+They see-saw between the two despicable modern doctrines,
+one that geniuses should be worshipped like idols and the other
+that criminals should be merely wiped out like germs.
+That both clever men and bad men ought to be treated like men does
+not seem to occur to them.  As a matter of fact, in these affairs
+of life and [[Death|death]] one never does think of such distinctions.
+Nobody does shout out at sea, "Bad citizen over-board!"
+I should recommend the doctor in his dilemma to do exactly what I
+am sure any decent doctor would do without any dilemma at all:
+to treat the man simply as a man, and give him no more and
+no less favour than he would to anybody else.  In short,
+I am sure a practical physician would drop all these visionary,
+unworkable modern [[Dreams|dreams]] about type and criminology and go
+back to the plain business-like facts of the [[French Revolution]]
+and the Rights of Man.
 
 The other play, GETTING MARRIED, is a point in [[Shaw]]'s career,
 but only as a play, not, as usual, as a heresy.  It is nothing
@@ -104,52 +143,3 @@ There was another slight ruffling of the calm when Bernard [[Shaw]]
 said some quite sensible things about Sir Henry Irving.
 But on the whole we confront the composure of one who has come
 into his own.
-
-The method of his life has remained mostly unchanged.
-And there is a great deal of method in his life; I can hear
-some people murmuring something about method in his [[Madness|madness]].
-He is not only neat and business-like; but, unlike some literary
-men I know, does not conceal the fact.  Having all the talents
-proper to an author, he delights to prove that he has also all
-the talents proper to a publisher; or even to a publisher's clerk.
-Though many looking at his light brown clothes would call him a Bohemian,
-he really hates and despises Bohemianism; in the sense that he hates
-and despises disorder and uncleanness and irresponsibility.
-All that part of him is peculiarly normal and efficient.
-He gives good advice; he always answers letters, and answers
-them in a decisive and very legible hand.  He has said himself
-that the only educational art that he thinks important is
-that of being able to jump off tram-cars at the proper moment.
-Though a rigid [[vegetarian]], he is quite regular and rational in his meals;
-and though he detests sport, he takes quite sufficient exercise.
-While he has always made a mock of science in theory, he is
-by [[Nature|nature]] prone to meddle with it in practice.  He is fond
-of photographing, and even more fond of being photographed.
-He maintained (in one of his moments of mad modernity)
-that photography was a finer thing than portrait-painting,
-more exquisite and more imaginative; he urged the characteristic
-argument that none of his own photographs were like each other
-or like him.  But he would certainly wash the chemicals off
-his hands the instant after an experiment; just as he would wash
-the [[Blood|blood]] off his hands the instant after a Socialist massacre.
-He cannot endure stains or accretions; he is of that temperament
-which feels tradition itself to be a coat of [[Dust|dust]]; whose [[Temptation|temptation]] it
-is to feel nothing but a sort of foul accumulation or living disease
-even in the creeper upon the cottage or the moss upon the [[Grave|grave]].
-So thoroughly are his tastes those of the civilised modern man that if it
-had not been for the [[Fire|fire]] in him of justice and anger he might have
-been the most trim and modern among the millions whom he shocks:
-and his bicycle and brown hat have been no menace in Brixton.
-But God sent among those suburbans one who was a [[Prophet|prophet]] as [[Well|well]]
-as a sanitary inspector.  He had every qualification for living
-in a villa--except the necessary indifference to his brethren
-living in pigsties.  But for the small fact that he hates
-with a sickening hatred the hypocrisy and class cruelty,
-he would really accept and admire the bathroom and the bicycle
-and asbestos-stove, having no [[Memory|memory]] of rivers or of roaring fires.
-In these things, like Mr. Straker, he is the New Man.
-But for his great [[Soul|soul]] he might have accepted modern civilisation;
-it was a wonderful escape.  This man whom men so foolishly call crazy
-and anarchic has really a dangerous affinity to the fourth-rate
-perfections of our provincial and Protestant civilisation.
-He might even have been respectable if he had had less [[Self|self]]-respect.

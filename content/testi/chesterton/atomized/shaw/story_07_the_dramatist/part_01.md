@@ -1,5 +1,5 @@
 ---
-title: "[[Shaw]] — THE DRAMATIST (part 1)"
+title: "Shaw — THE DRAMATIST (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/shaw-(chesterton)"
@@ -111,13 +111,3 @@ The world does not encourage a quite rational [[Lover|lover]],
 simply because a perfectly rational [[Lover|lover]] would never get married.
 The world does not encourage a perfectly rational army,
 because a perfectly rational army would run away.
-
-The brain of Bernard [[Shaw]] was like a wedge in the literal sense.
-Its sharpest end was always in front; and it split our
-society from end to end the moment it had entrance at all.
-As I have said he was long unheard of; but he had not the
-[[Tragedy|tragedy]] of many authors, who were heard of long before they
-were heard.  When you had read any [[Shaw]] you read all [[Shaw]].
-When you had seen one of his plays you waited for more.
-And when he brought them out in volume form, you did what is
-repugnant to any literary man--you bought a book.

@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 6 (part 6)"
+title: "Nicholas Nickleby — Chapter 6 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -125,7 +125,3 @@ off.
 ‘“Those coarse, noisy men--”
 
 ‘“Which, ma’am?” said the baron, starting.
-
-‘The baroness pointed, from the [[Window|window]] at which they stood, to the
-courtyard beneath, where the unconscious [[Lincoln]] greens were taking a
-copious stirrup-cup, preparatory to issuing forth after a boar or two.

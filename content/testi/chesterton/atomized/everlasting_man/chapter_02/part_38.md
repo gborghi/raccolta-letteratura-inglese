@@ -14,137 +14,100 @@ tags:
 </nav>
 
 
-It cannot otherwise exist, or at least endure, because mere thought
-does not remain sane.  In a sense it becomes too simple to be sane.
-The [[Temptation|temptation]] of the philosophers is simplicity rather than subtlety.
-They are always attracted by insane simplifications, as men poised above
-abysses are fascinated by [[Death|death]] and nothingness and the empty air.
-It needed another kind of philosopher to stand poised upon the pinnacle
-of the Temple and keep his balance without casting himself down.
-One of these obvious, these too obvious explanations is that everything
-is [[A Dream|a dream]] and a delusion and there is nothing outside the ego.
-Another is that all things recur; another, which is said to be Buddhist
-and is certainly Oriental, is the idea that what is the matter
-with us is our creation, in the sense of our coloured differentiation
-and personality, and that nothing will be [[Well|well]] till we are again melted
-into one [[unity]].  By this theory, in short, the Creation was the Fall.
-It is important historically because it was stored up in the dark
-heart of Asia and went forth at various times in various forms
-over the dim borders of Europe.  Here we can place the mysterious
-figure of Manes or Manichaeus, the mystic of inversion, whom we
-should call a pessimist, parent of many sects and heresies;
-here, in a higher place, the figure of Zoroaster.  He has been
-popularly identified with another of these too simple explanations;
-the equality of evil and good, balanced and battling in every atom.
-He also is of the school of sages that may be called mystics;
-and from the same mysterious Persian [[Garden|garden]] came upon ponderous
-wings Mithras, the unknown god, to trouble the last twilight of Rome.
+But Reincarnation is not really a mystical idea.  It is not really
+a transcendental idea, or in that sense a religious idea.
+Mysticism conceives something transcending experience; religion seeks
+glimpses of a better good or a worse evil than experience can give.
+Reincarnation need only extend experiences in the sense of
+repeating them.  It is no more transcendental for a man to remember
+what he did in Babylon before he was born than to remember
+what he did in Brixton before he had a knock on the head.
+His successive lives need not be any more than human lives,
+under whatever limitations burden human life.  It has nothing
+to do with seeing God or even conjuring up the devil.
+In other words, reincarnation as such does not necessarily escape
+from the [[Wheel|wheel]] of destiny, in some sense it is the [[Wheel|wheel]] of destiny.
+And whether it was something that Buddha founded, or something
+that Buddha found, or something that Buddha entirely renounced
+when he found, it is certainly something having the general character
+of that Asiatic atmosphere in which he had to play his part.
+And the part he played was that of an intellectual philosopher,
+with a particular theory about the right intellectual attitude towards it.
 
-That circle or disc of the sun set up in the morning of the world by the
-remote Egyptian has been a [[Mirror|mirror]] and a model for all the philosophers.
-They have made many things out of it, and sometimes gone mad about it,
-especially when as in these eastern sages the circle became a [[Wheel|wheel]]
-going round and round in their heads.  But the point about them is
-that they all think that existence can be represented by a diagram
-instead of a drawing; and the rude drawings of the childish myth-makers
-are a sort of crude and spirited protest against that view.
-They cannot believe that religion is really not a pattern but a picture.
-Still less can they believe that it is a picture of something that
-really exists outside our minds.  Sometimes the [[philosophy]] paints
-the disc all black and calls himself a pessimist; sometimes he paints
-it all white and calls himself an optimist; sometimes he divides it
-exactly into halves of black and white and calls himself a dualist,
-like those Persian mystics to whom I wish there were space to do justice.
-None of them could understand a thing that began to draw the proportions
-just as if they were real proportions, disposed in the living fashion
-which the mathematical draughtsman would call disproportionate.
-Like the first [[artist]] in the [[Cave|cave]], it revealed to incredulous
-eyes the suggestion of a new purpose in what looked like a wildly
-crooked pattern; he seemed only to be distorting his diagram,
-when he began for the first [[Time|time]] in all the ages to trace the lines
-of a form--and of a Face.
+I can understand that Buddhists might resent the view that Buddhism
+is merely a [[philosophy]], if we understand by a [[philosophy]] merely
+an intellectual game such as Greek sophists played, tossing up
+worlds and catching them like balls.  Perhaps a more exact statement
+would be that Buddha was a man who made a metaphysical discipline;
+which might even be called a psychological discipline.
+He proposed a way of escaping from all this recurrent sorrow;
+and that was simply by getting rid of the delusion that is
+called [[Desire|desire]].  It was emphatically not that we should get
+what we want better by restraining our impatience for part of it,
+or that we should get it in a better way or in a better world.
+It was emphatically that we should leave off wanting it.
+If once a man realised that there is really no reality, that everything,
+including his [[Soul|soul]], is in dissolution at every instant, he would
+anticipate disappointment and be intangible to change, existing (in so far
+as he could be said to exist) in a sort of ecstasy of indifference.
+The Buddhists call this beatitude and we will not stop our story to argue
+the point; certainly to us it is indistinguishable from [[Despair|despair]].
+I do not see, for instance, why the disappointment of [[Desire|desire]] should not
+apply as much to the most benevolent desires as to the most selfish ones.
+Indeed the Lord of Compassion seems to pity people for living rather
+than for dying.  For the rest, an intelligent Buddhist wrote 'the
+explanation of popular Chinese and Japanese Buddhism is that it is
+not Buddhism.'  That has doubtless ceased to be a mere [[philosophy]],
+but only by becoming a mere mythology.  One thing is certain;
+it has never become anything remotely resembling what we call a Church.
 
+It will appear only a jest to say that all religious
+[[history]] has really been a pattern of noughts and crosses.
+But I do not by noughts mean nothings, but only things that are
+negative compared with the positive shape or pattern of the other.
+And though the symbol is of course only a coincidence, it is a coincidence
+that really does coincide.  The mind of Asia can really be represented
+by a round 0, if not in the sense of a cypher at least of a circle.
+The great Asiatic symbol of a serpent with its tail in its mouth is
+really a very perfect image of a certain idea of [[unity]] and recurrence
+that does indeed belong to the Eastern philosophies and religions.
+It really is a curve that in one sense includes everything,
+and in another sense comes to nothing.  In that sense it does confess,
+or rather boast, that all argument is an argument in a circle.
+And though the figure is but a symbol, we can see how sound is
+the symbolic sense that produces it, the parallel symbol of the [[Wheel]]
+of Buddha generally called the Swastika.  The [[Cross|cross]] is a thing at
+right angles pointing boldly in opposite directions; but the Swastika
+is the same thing in the very act of returning to the recurrent curve.
+That crooked [[Cross|cross]] is in fact a [[Cross|cross]] turning into a [[Wheel|wheel]].
+Before we dismiss even these symbols as if they were arbitrary symbols,
+we must remember how intense was the imaginative instinct that
+produced them or selected them both in the east and the west.
+The [[Cross|cross]] has become something more than a historical [[Memory|memory]];
+it does convey, almost as by a mathematical diagram, the [[Truth|truth]]
+about the real point at issue; the idea of a conflict stretching
+outwards into [[Eternity|eternity]].  It is true, and even tautological,
+to say that the [[Cross|cross]] is the crux of the whole matter.
 
-* * *
-
-VII
-
-THE WAR OF THE GODS AND DEMONS
-
-The materialist theory of [[history]], that all politics and ethics
-are the expression of economics, is a very simple fallacy indeed.
-It consists simply of confusing the necessary conditions of life with
-the normal preoccupations of life, that are quite a different thing.
-It is like saying that because a man can only walk about on two legs,
-therefore he never walks about except to buy shoes and stockings.
-Man cannot live without the two props of food and drink,
-which support him like two legs; but to suggest that they have
-been the motives of all his movements in [[history]] is like saying
-that the goal of all his military marches or religious pilgrimages
-must have been the Golden Leg of Miss Kilmansegg or the ideal and
-perfect leg of Sir Willoughby Patterne.  But it is such movements
-that make up the story of mankind and without them there would
-practically be no story at all.  Cows may be purely economic,
-in the sense that we cannot see that they do much beyond grazing
-and seeking better grazing grounds; and that is why a [[history]]
-of cows in twelve volumes would not be very lively reading.
-Sheep and goats may be pure economists in their external action
-at least; but that is why the sheep has hardly been a [[Hero|hero]]
-of [[Epic|epic]] wars and empires thought worthy of detailed narration;
-and even the more active quadruped has not inspired a book for boys
-called Golden Deeds of Gallant Goats or any similar title.
-But so far from the movements that make up the story of man
-being economic, we may say that the story only begins where the motive
-of the cows and sheep [[Leaves|leaves]] off.  It will be hard to maintain
-that the Crusaders went from their homes into a howling wilderness
-because cows go from a wilderness to a more comfortable grazing-grounds.
-It will be hard to maintain that the Arctic explorers went north
-with the same material motive that made the swallows go south.
-And if you leave things like all the religious wars and all
-the merely adventurous explorations out of the human story, it will
-not only cease to be human at all but cease to be a story at all.
-The outline of [[history]] is made of these decisive curves and angles
-determined by the will of man.  Economic [[history]] would not
-even be [[history]].
-
-But there is a deeper fallacy besides this obvious fact; that men
-need not live for food merely because they cannot live without food.
-The [[Truth|truth]] is that the thing most present to the mind of man is
-not the economic machinery necessary to his existence; but rather
-that existence itself; the world which he sees when he wakes every
-morning and the [[Nature|nature]] of his general position in it.  There is
-something that is nearer to him than livelihood, and that is life.
-For once that he remembers exactly what work produces his wages
-and exactly what wages produce his meals, he reflects ten times
-that it is a fine day or it is a queer world, or wonders whether
-life is worth living, or wonders whether [[Marriage|marriage]] is a failure,
-or is pleased and puzzled with his own children, or remembers his
-own youth, or in any such fashion vaguely reviews the mysterious
-lot of man.  This is true of the majority even of the wage-slaves
-of our morbid modern industrialism, which by its hideousness
-and in-humanity has really forced the economic issue to the front.
-It is immeasurably more true of the multitude of peasants
-or hunters or fishers who make up the real mass of mankind.
-Even those dry pedants who think that ethics depend on economics
-must admit that economics depend on existence.  And any number
-of normal doubts and day-[[Dreams|dreams]] are about existence; not about how we
-can live, but about why we do.  And the proof of it is simple;
-as simple as [[suicide]].  Turn the universe upside down in the mind
-and you turn all the political economists upside down with it.
-Suppose that a man wishes to die, and [[The Professor|the professor]] of political
-economy becomes rather a bore with his elaborate explanations
-of how he is to live.  And all the departures and decisions
-that make our human past into a story have this character of
-diverting the direct course of pure economics.  As the economist
-may be excused from calculating the future salary of a [[suicide]],
-so he may be excused from providing an old age pension for a martyr.
-As he need not provide for the future of a martyr so he need not provide
-for the family of a monk.  His plan is modified in lesser and varying
-degrees by a man being a soldier and dying for his own country,
-by a man being a peasant and specially loving his own land, by a man
-being more or less affected by any religion that forbids or allows
-him to do this or that.  But all these come back not to an economic
-calculation about livelihood but to an elemental outlook upon life.
-They all come back to what a man fundamentally feels, when he looks
-forth from those strange windows which we call the eyes, upon that
-strange vision that we call the world.
+In other words the [[Cross|cross]], in fact as [[Well|well]] as figure,
+does really stand for the idea of breaking out of the circle
+that is everything and nothing.  It does escape from the circular
+argument by which everything begins and ends in the mind.
+Since we are still dealing in symbols, it might be put in a [[Parable|parable]]
+in the form of that story about St. Francis, which says that the [[Birds|birds]]
+departing with his benediction could wing their way into the infinites
+of the four winds of heaven, their tracks making a vast [[Cross|cross]] upon
+the sky; for compared with the [[Freedom|freedom]] of that flight of [[Birds|birds]],
+the very shape of the Swastika is like a kitten chasing its tail.
+In a more popular [[Allegory|allegory]], we might say that when St. George
+thrust his spear into the [[Monster|monster]]'s jaws, he broke in upon
+the [[Solitude|solitude]] of the [[Self|self]]-devouring serpent and gave it something
+to bite besides its own tail.  But while many fancies might be used
+as figures of the [[Truth|truth]], the [[Truth|truth]] itself is abstract and absolute;
+though it is not very easy to sum up except by such figures.
+[[Christianity]] does appeal to a solid [[Truth|truth]] outside itself;
+to something which is in that sense external as [[Well|well]] as eternal.
+It does declare that things are really there; or in other words
+that things are really things--In this [[Christianity]] is at one
+with common sense; but all religious [[history]] shows that this common
+sense perishes except where there is [[Christianity]] to preserve it.

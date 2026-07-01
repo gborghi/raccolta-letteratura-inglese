@@ -14,6 +14,22 @@ tags:
 </nav>
 
 
+‘Who has sent you so far by yourself?’ said I.
+
+‘Someone who is very kind to me, sir.’
+
+‘And what have you been doing?’
+
+‘That, I must not tell,’ said the [[Child|child]] firmly.
+
+There was something in the manner of this reply which caused me to look
+at the little creature with an involuntary expression of surprise; for
+I wondered what kind of errand it might be that occasioned her to be
+prepared for questioning. Her quick eye seemed to read my thoughts, for
+as it met mine she added that there was no harm in what she had been
+doing, but it was a great secret--a secret which she did not even know
+herself.
+
 This was said with no appearance of cunning or deceit, but with an
 unsuspicious frankness that bore the impress of [[Truth|truth]]. She walked on as
 before, growing more familiar with me as we proceeded and talking
@@ -111,21 +127,3 @@ at first inclined to suppose, in a state of dotage or imbecility.
 ‘I don’t consider!’ cried the old man interrupting me, ‘I don’t
 consider her! Ah, how little you know of the [[Truth|truth]]! Little Nelly,
 little Nelly!’
-
-It would be impossible for any man, I care not what his form of speech
-might be, to express more affection than the dealer in curiosities did,
-in these four words. I waited for him to speak again, but he rested his
-chin upon his hand and shaking his head twice or thrice fixed his eyes
-upon the [[Fire|fire]].
-
-While we were sitting thus in [[Silence|silence]], the door of the closet opened,
-and the [[Child|child]] returned, her light brown hair hanging loose about her
-neck, and her face flushed with the haste she had made to rejoin us.
-She busied herself immediately in preparing supper, and while she was
-thus engaged I remarked that the old man took an opportunity of
-observing me more closely than he had done yet. I was surprised to see
-that all this [[Time|time]] everything was done by the [[Child|child]], and that there
-appeared to be no other persons but ourselves in the [[house]]. I took
-advantage of a moment when she was absent to venture a hint on this
-point, to which the old man replied that there were few grown persons
-as trustworthy or as careful as she.

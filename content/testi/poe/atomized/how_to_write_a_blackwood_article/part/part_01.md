@@ -1,5 +1,5 @@
 ---
-title: "[[How to Write a Blackwood Article]] (part 1)"
+title: "How to Write a Blackwood Article (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/how-to-write-a-blackwood-article-(poe)"
@@ -199,5 +199,3 @@ tags:
       society) that I have been made aware of the exact method of
 
       composition. This method is very simple, but not so much so as
-
-      the politics. Upon my calling at Mr. B.‘s, and making known to

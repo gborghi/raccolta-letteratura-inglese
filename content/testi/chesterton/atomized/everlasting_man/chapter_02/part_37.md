@@ -14,100 +14,98 @@ tags:
 </nav>
 
 
-But Reincarnation is not really a mystical idea.  It is not really
-a transcendental idea, or in that sense a religious idea.
-Mysticism conceives something transcending experience; religion seeks
-glimpses of a better good or a worse evil than experience can give.
-Reincarnation need only extend experiences in the sense of
-repeating them.  It is no more transcendental for a man to remember
-what he did in Babylon before he was born than to remember
-what he did in Brixton before he had a knock on the head.
-His successive lives need not be any more than human lives,
-under whatever limitations burden human life.  It has nothing
-to do with seeing God or even conjuring up the devil.
-In other words, reincarnation as such does not necessarily escape
-from the [[Wheel|wheel]] of destiny, in some sense it is the [[Wheel|wheel]] of destiny.
-And whether it was something that Buddha founded, or something
-that Buddha found, or something that Buddha entirely renounced
-when he found, it is certainly something having the general character
-of that Asiatic atmosphere in which he had to play his part.
-And the part he played was that of an intellectual philosopher,
-with a particular theory about the right intellectual attitude towards it.
+The next great example I shall take of the princely sage is Gautama,
+the great Lord Buddha.  I know he is not generally classed
+merely with the philosophers; but I am more and more convinced
+from all information that reaches me, that this is the real
+interpretation of his immense importance.  He was by far the
+greatest and the best of these intellectuals born in the purple.
+His reaction was perhaps the noblest and most sincere of all the
+resultant actions of that combination of thinkers and of thrones.
+For his reaction was [[Renunciation|renunciation]].  Marcus Aurelius was content to say,
+with a refined irony, that even in a palace life could be lived [[Well|well]].
+The fierier Egyptian [[King|king]] concluded that it could be lived even better
+after a palace revolution.  But the great Gautama was the only
+one of them who proved he could really do without his palace.
+One fell back on toleration and the other on revolution.
+But after all there is something more absolute about abdication.
+Abdication is perhaps the one really absolute action of an
+absolute monarch.  The Indian prince, reared in Oriental luxury
+and pomp, deliberately went out and lived the life of a beggar.
+That is magnificent, but it is not war; that is, it is not necessarily
+a Crusade in the Christian sense.  It does not decide the question
+of whether the life of a beggar was the life of a saint or the life
+of a philosopher.  It does not decide whether this great man is
+really to go into the tub of Diogenes or the [[Cave|cave]] of St. Jerome.
+Now those who seem to be nearest to the study of Buddha,
+and certainly those who write most clearly and intelligently
+about him, convince me for one that he was simply a philosopher
+who founded a successful school of [[philosophy]], and was turned
+into a sort of divus or sacred being merely by the more mysterious
+and unscientific atmosphere of all such traditions in Asia.
+So that it is necessary to say at this point a word about that invisible
+yet vivid border-line that we [[Cross|cross]] in passing from the Mediterranean
+into the mystery of the East.
 
-I can understand that Buddhists might resent the view that Buddhism
-is merely a [[philosophy]], if we understand by a [[philosophy]] merely
-an intellectual game such as Greek sophists played, tossing up
-worlds and catching them like balls.  Perhaps a more exact statement
-would be that Buddha was a man who made a metaphysical discipline;
-which might even be called a psychological discipline.
-He proposed a way of escaping from all this recurrent sorrow;
-and that was simply by getting rid of the delusion that is
-called [[Desire|desire]].  It was emphatically not that we should get
-what we want better by restraining our impatience for part of it,
-or that we should get it in a better way or in a better world.
-It was emphatically that we should leave off wanting it.
-If once a man realised that there is really no reality, that everything,
-including his [[Soul|soul]], is in dissolution at every instant, he would
-anticipate disappointment and be intangible to change, existing (in so far
-as he could be said to exist) in a sort of ecstasy of indifference.
-The Buddhists call this beatitude and we will not stop our story to argue
-the point; certainly to us it is indistinguishable from [[Despair|despair]].
-I do not see, for instance, why the disappointment of [[Desire|desire]] should not
-apply as much to the most benevolent desires as to the most selfish ones.
-Indeed the Lord of Compassion seems to pity people for living rather
-than for dying.  For the rest, an intelligent Buddhist wrote 'the
-explanation of popular Chinese and Japanese Buddhism is that it is
-not Buddhism.'  That has doubtless ceased to be a mere [[philosophy]],
-but only by becoming a mere mythology.  One thing is certain;
-it has never become anything remotely resembling what we call a Church.
+Perhaps there are no things out of which we get so little of the [[Truth|truth]]
+as the truisms; especially when they are really true.  We are all in
+the habit of saying certain things about Asia, which are true enough
+but which hardly help us because we do not understand their [[Truth|truth]];
+as that Asia is old or looks to the past or is not progressive.
+Now it is true that Christendom is more progressive, in a sense
+that has very little to do with the rather provincial notion of an
+endless fuss of political improvement.  Christendom does believe,
+for [[Christianity]] does believe, that man can eventually get somewhere,
+here or hereafter, or in various ways according to various doctrines.
+The world's [[Desire|desire]] can somehow be satisfied as desires are satisfied,
+whether by a new life or an old [[Love|love]] or some form of positive
+possession and fulfilment.  For the rest, we all know there is a
+rhythm and not a mere progress in things, that things rise and fall;
+only with us the rhythm is a fairly free and incalculable rhythm.
+For most of Asia the rhythm has hardened into a recurrence.
+It is no longer merely a rather topsy-turvy sort of world; it is a [[Wheel|wheel]].
+What has happened to all those highly intelligent and highly
+civilised peoples is that they have been caught up in a sort
+of cosmic rotation, of which the hollow hub is really nothing.
+In that sense the worst part of existence is that it may just
+as [[Well|well]] go on like that forever.  That is what we really mean
+when we say that Asia is old or unprogressive or looking backwards.
+That is why we see even her curved swords as arcs broken
+from that blinding [[Wheel|wheel]]; why we see her serpentine ornament
+as returning everywhere, like a snake that is never slain.
+It has very little to do with the political varnish of progress;
+all Asiatics might have top-hats on their heads but if they had this
+spirit still in their hearts, they would only think the hats would
+vanish and come round again like the planets; not that running
+after a hat could lead them to heaven or even to [[Home|home]].
 
-It will appear only a jest to say that all religious
-[[history]] has really been a pattern of noughts and crosses.
-But I do not by noughts mean nothings, but only things that are
-negative compared with the positive shape or pattern of the other.
-And though the symbol is of course only a coincidence, it is a coincidence
-that really does coincide.  The mind of Asia can really be represented
-by a round 0, if not in the sense of a cypher at least of a circle.
-The great Asiatic symbol of a serpent with its tail in its mouth is
-really a very perfect image of a certain idea of [[unity]] and recurrence
-that does indeed belong to the Eastern philosophies and religions.
-It really is a curve that in one sense includes everything,
-and in another sense comes to nothing.  In that sense it does confess,
-or rather boast, that all argument is an argument in a circle.
-And though the figure is but a symbol, we can see how sound is
-the symbolic sense that produces it, the parallel symbol of the [[Wheel]]
-of Buddha generally called the Swastika.  The [[Cross|cross]] is a thing at
-right angles pointing boldly in opposite directions; but the Swastika
-is the same thing in the very act of returning to the recurrent curve.
-That crooked [[Cross|cross]] is in fact a [[Cross|cross]] turning into a [[Wheel|wheel]].
-Before we dismiss even these symbols as if they were arbitrary symbols,
-we must remember how intense was the imaginative instinct that
-produced them or selected them both in the east and the west.
-The [[Cross|cross]] has become something more than a historical [[Memory|memory]];
-it does convey, almost as by a mathematical diagram, the [[Truth|truth]]
-about the real point at issue; the idea of a conflict stretching
-outwards into [[Eternity|eternity]].  It is true, and even tautological,
-to say that the [[Cross|cross]] is the crux of the whole matter.
-
-In other words the [[Cross|cross]], in fact as [[Well|well]] as figure,
-does really stand for the idea of breaking out of the circle
-that is everything and nothing.  It does escape from the circular
-argument by which everything begins and ends in the mind.
-Since we are still dealing in symbols, it might be put in a [[Parable|parable]]
-in the form of that story about St. Francis, which says that the [[Birds|birds]]
-departing with his benediction could wing their way into the infinites
-of the four winds of heaven, their tracks making a vast [[Cross|cross]] upon
-the sky; for compared with the [[Freedom|freedom]] of that flight of [[Birds|birds]],
-the very shape of the Swastika is like a kitten chasing its tail.
-In a more popular [[Allegory|allegory]], we might say that when St. George
-thrust his spear into the [[Monster|monster]]'s jaws, he broke in upon
-the [[Solitude|solitude]] of the [[Self|self]]-devouring serpent and gave it something
-to bite besides its own tail.  But while many fancies might be used
-as figures of the [[Truth|truth]], the [[Truth|truth]] itself is abstract and absolute;
-though it is not very easy to sum up except by such figures.
-[[Christianity]] does appeal to a solid [[Truth|truth]] outside itself;
-to something which is in that sense external as [[Well|well]] as eternal.
-It does declare that things are really there; or in other words
-that things are really things--In this [[Christianity]] is at one
-with common sense; but all religious [[history]] shows that this common
-sense perishes except where there is [[Christianity]] to preserve it.
+Now when the genius of Buddha arose to deal with the matter, this sort
+of cosmic sentiment was already common to almost everything in the east.
+There was indeed the jungle of an extraordinarily extravagant
+and almost asphyxiating mythology.  Nevertheless it is possible
+to have more sympathy with this popular fruitfulness in folk-lore
+than with some of the higher pessimism that might have withered it.
+It must always be remembered, however, when all fair allowances are made,
+that a great deal of spontaneous eastern imagery really is idolatry;
+the local and literal worship of an idol.  This is probably not true
+of the ancient Brahminical system, at least as seen by Brahmins.
+But that phrase [[Alone|alone]] will remind us of a reality of much greater moment.
+This great reality is the Caste System of ancient India.  It may have had
+some of the practical advantages of the Guild System of Medieval Europe.
+But it contrasts not only with that Christian [[democracy]], but with every
+extreme type of Christian aristocracy, in the fact that it does
+really conceive the social superiority as a spiritual superiority.
+This not only divides it fundamentally from the fraternity
+of Christendom, but [[Leaves|leaves]] it standing like a mighty and terraced
+mountain of [[Pride|pride]] between the relatively egalitarian levels
+both of [[Islam]] and of China.  But the fixity of this formation
+through thousands of years is another illustration of that spirit
+of repetition that has marked [[Time|time]] from [[Time|time]] immemorial.
+Now we may also presume the prevalence of another idea which we
+associate with the Buddhists as interpreted by the Theosophists.
+As a fact, some of the strictest Buddhists repudiate the idea
+and still more scornfully repudiate the Theosophists.
+But whether the idea is in Buddhism, or only in the birthplace
+of Buddhism, or only in a tradition or a travesty of Buddhism,
+it is an idea entirely proper to this principle of recurrence.
+I mean of course the idea of Reincarnation.

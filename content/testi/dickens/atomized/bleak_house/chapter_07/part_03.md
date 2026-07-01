@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 7 (part 3)"
+title: "Bleak House — Chapter 7 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -74,7 +74,7 @@ for seven hundred years.
 Even the long drawing-room of Chesney Wold cannot revive Mr. Guppy’s
 spirits. He is so low that he droops on the threshold and has hardly
 strength of mind to enter. But a portrait over the chimney-piece,
-painted by the fashionable [[artist]] of the day, acts upon him like a
+painted by the fashionable [[Artist|artist]] of the day, acts upon him like a
 charm. He recovers in a moment. He stares at it with uncommon
 interest; he seems to be fixed and fascinated by it.
 
@@ -135,11 +135,3 @@ anecdote.”
 picture, ma’am,” observes Mr. Guppy, “because I do assure you that
 the more I think of that picture the better I know it, without
 knowing how I know it!”
-
-The story has nothing to do with a picture; the housekeeper can
-guarantee that. Mr. Guppy is obliged to her for the information and
-is, moreover, generally obliged. He retires with his friend, guided
-down another staircase by the young gardener, and presently is heard
-to drive away. It is now dusk. Mrs. Rouncewell can trust to the
-discretion of her two young hearers and may tell THEM how the terrace
-came to have that ghostly name.

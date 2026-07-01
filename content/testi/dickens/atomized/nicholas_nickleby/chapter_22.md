@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 22"
+title: "Nicholas Nickleby — Chapter 22"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -703,7 +703,7 @@ of the theatres keep an author on purpose.’
 
 ‘Oh, yes,’ said the manager; ‘a common thing. It’ll look very [[Well|well]]
 in the bills in separate lines--Real pump!--Splendid tubs!--Great
-attraction! You don’t happen to be anything of an [[artist]], do you?’
+attraction! You don’t happen to be anything of an [[Artist|artist]], do you?’
 
 ‘That is not one of my accomplishments,’ rejoined Nicholas.
 

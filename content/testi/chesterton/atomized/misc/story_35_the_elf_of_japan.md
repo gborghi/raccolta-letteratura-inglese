@@ -1,5 +1,5 @@
 ---
-title: "[[misc]] — THE ELF OF JAPAN"
+title: "misc — THE ELF OF JAPAN"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -10,12 +10,11 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">misc</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_34_the_divine_detective">‹ Story 34 THE DIVINE DETECTIVE</a><a class="ex-next" href="/testi/chesterton/atomized/misc/story_36_the_chartered_libertine">Story 36 THE CHARTERED LIBERTINE ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_34_the_divine_detective_detective">‹ Story 34 THE DIVINE Detective DETECTIVE</a><a class="ex-next" href="/testi/chesterton/atomized/misc/story_36_the_chartered_libertine">Story 36 THE CHARTERED LIBERTINE ›</a></div>
 </nav>
 
 
 THE ELF OF JAPAN
-
 
 There are things in this world of which I can say seriously
 that I [[Love|love]] them but I do not like them.  The point is not
@@ -93,7 +92,7 @@ paper which come from the remote East, he will observe many
 elements in them which a fanciful person might consider feline.
 There is, for instance, that odd enjoyment of the tops of trees;
 those airy traceries of forks and fading twigs, up to which certainly
-no [[artist]], but only a cat could climb.  There is that elvish
+no [[Artist|artist]], but only a cat could climb.  There is that elvish
 [[Love|love]] of the full [[Moon|moon]], as large and lucid as a Chinese lantern,
 hung in these tenuous branches.  That [[Moon|moon]] is so large and
 luminous that one can imagine a hundred cats howling under it.

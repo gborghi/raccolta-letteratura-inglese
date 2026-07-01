@@ -1,5 +1,5 @@
 ---
-title: "[[Ms. Found in a Bottle]] (part 2)"
+title: "Ms. Found in a Bottle (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/ms.-found-in-a-bottle-(poe)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/ms_found_in_a_bottle/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/ms_found_in_a_bottle/part/part_03">part 03 ›</a></div>
 </nav>
 
+
+      mountainous and foaming ocean within which we were engulfed.
+
+      After a while, I heard the voice of an old Swede, who had shipped
+
+      with us at the moment of our leaving port. I hallooed to him with
+
+      all my strength, and presently he came reeling aft. We soon
 
       discovered that we were the sole survivors of the accident. All
 
@@ -175,19 +183,3 @@ tags:
       which streamed down the sides of the vast chasm where we lay, and
 
       threw a fitful brilliancy upon our deck. Casting my eyes upwards,
-
-      I beheld a spectacle which froze the current of my [[Blood|blood]]. At a
-
-      terrific height directly above us, and upon the very verge of the
-
-      precipitous descent, hovered a gigantic [[Ship|ship]] of, perhaps, four
-
-      thousand tons. Although upreared upon the summit of a wave more
-
-      than a hundred times her own altitude, her apparent size exceeded
-
-      that of any [[Ship|ship]] of the line or East Indiaman in existence. Her
-
-      huge hull was of a deep dingy black, unrelieved by any of the
-
-      customary carvings of a [[Ship|ship]]. A single row of brass cannon

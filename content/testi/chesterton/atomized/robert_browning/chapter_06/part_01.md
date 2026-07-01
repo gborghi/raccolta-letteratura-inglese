@@ -18,7 +18,6 @@ CHAPTER VI
 
 BROWNING AS A LITERARY [[artist|ARTIST]]
 
-
 Mr. William Sharp, in his _Life_ of Browning, quotes the remarks of
 another critic to the following effect: "The poet's processes of
 thought are scientific in their precision and analysis; the sudden
@@ -113,31 +112,3 @@ English poet who ever lived. He was always weaving and modelling and
 inventing new forms. Among all his two hundred to three hundred [[Poems|poems]]
 it would scarcely be an exaggeration to say that there are half as
 many different metres as there are different [[Poems|poems]].
-
-The great English poets who are supposed to have cared more for form
-than Browning did, cared less at least in this sense--that they were
-content to use old forms so long as they were certain that they had
-new ideas. Browning, on the other hand, no sooner had a new idea than
-he tried to make a new form to express it. Wordsworth and Shelley were
-really original poets; their attitude of thought and feeling marked
-without [[Doubt|doubt]] certain great changes in literature and [[philosophy]].
-Nevertheless, the "Ode on the Intimations of [[Immortality]]" is a
-perfectly normal and traditional ode, and "[[Prometheus]] Unbound" is a
-perfectly genuine and traditional Greek lyrical drama. But if we study
-Browning honestly, nothing will strike us more than that he really
-created a large number of quite [[Novel|novel]] and quite admirable artistic
-forms. It is too often forgotten what and how excellent these were.
-_The Ring and the Book_, for example, is an illuminating departure in
-literary method--the method of telling the same story several times
-and trusting to the variety of human character to turn it into several
-different and equally interesting stories. _Pippa Passes_, to take
-another example, is a new and most fruitful form, a series of detached
-dramas connected only by the presence of one fugitive and isolated
-figure. The invention of these things is not merely like the writing
-of a good poem--it is something like the invention of the [[Sonnet|sonnet]] or
-the Gothic arch. The poet who makes them does not merely create
-himself--he creates other poets. It is so in a degree long past
-enumeration with regard to Browning's smaller [[Poems|poems]]. Such a pious and
-horrible [[Lyric|lyric]] as "The Heretic's [[Tragedy]]," for instance, is absolutely
-original, with its weird and almost [[Blood|blood]]-curdling echo verses,
-mocking echoes indeed--

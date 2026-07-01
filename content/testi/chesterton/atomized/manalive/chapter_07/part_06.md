@@ -1,5 +1,5 @@
 ---
-title: "[[manalive]] — Chapter 1 (part 6)"
+title: "manalive — Chapter 1 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/manalive-(chesterton)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/manalive/chapter_07/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/manalive/chapter_07/part_07">part 07 ›</a></div>
 </nav>
 
+
+"[[smith|Smith]] looked up with relief from the glittering pools below
+to the glittering skies and the great black bulk of the college.
+The only light other than [[Stars|stars]] glowed through one peacock-green
+curtain in the upper part of the building, marking where
+Dr. Emerson Eames always worked till morning and received
+his friends and favourite pupils at any hour of the [[Night|night]].
+Indeed, it was to his rooms that the [[Melancholy|melancholy]] [[smith|Smith]] was bound.
+[[smith|Smith]] had been at Dr. Eames's lecture for the first half of the morning,
+and at [[Pistol|pistol]] practice and fencing in a saloon for the second half.
+He had been sculling madly for the first half of the afternoon
+and thinking idly (and still more madly) for the second half.
+He had gone to a supper where he was uproarious, and on to a debating
+club where he was perfectly insufferable, and the [[Melancholy|melancholy]]
+[[smith|Smith]] was [[Melancholy|melancholy]] still.  Then, as he was going [[Home|home]] to his
+diggings he remembered the eccentricity of his friend and master,
+the Warden of Brakespeare, and resolved desperately to turn
+in to that gentleman's private [[house]].
 
 "Emerson Eames was an eccentric in many ways, but his throne
 in [[philosophy]] and metaphysics was of international eminence;
@@ -120,10 +138,3 @@ lakes round Brakespeare.  Looking down and seeing the spires
 and chimneys pendent in the pools, they felt [[Alone|alone]] in space.
 They felt as if they were looking over the edge from the North Pole
 and seeing the South Pole below.
-
-"`Hang the world, we said,' observed Smith, `and the world is hanged.
-"He has hanged the world upon nothing," says the [[Bible]].  Do you like being
-hanged upon nothing?  I'm going to be hanged upon something myself.
-I'm going to swing for you... Dear, tender old phrase,' he murmured;
-`never true till this moment.  I am going to swing for you.
-For you, dear friend.  For your sake.  At your express [[Desire|desire]].'

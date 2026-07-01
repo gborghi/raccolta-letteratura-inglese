@@ -1,5 +1,5 @@
 ---
-title: "[[wifrb11]] — The Fairy Tale of [[Father Brown]] (part 5)"
+title: "wifrb11 — The Fairy Tale of Father Brown (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -13,6 +13,48 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_12_the_fairy_tale_of_father_brown/part_04">‹ part 04</a><span></span></div>
 </nav>
 
+
+     "Something in the very voice made the Prince turn suddenly
+and plunge down the mountain-path he had climbed.  He was half-way towards
+the gardens of the palace before he even tried to tear the strangling scarf
+from his neck and jaws.  He tried again and again, and it was impossible;
+the men who had knotted that gag knew the difference between
+what a man can do with his hands in front of him and what he can do
+with his hands behind his head.  His legs were free to leap like
+an antelope on the [[Mountains|mountains]], his arms were free to use any gesture
+or wave any signal, but he could not speak.  A dumb devil was in him.
+
+     "He had come close to the woods that walled in the [[Castle|castle]]
+before he had quite realized what his wordless state meant
+and was meant to mean.  Once more he looked down grimly at the bright,
+square labyrinths of the lamp-lit [[City|city]] below him, and he smiled no more. 
+He felt himself repeating the phrases of his former mood with
+a murderous irony.  Far as the eye could see ran the rifles
+of his friends, every one of whom would shoot him dead
+if he could not answer the challenge.  Rifles were so near that
+the wood and ridge could be patrolled at regular intervals;
+therefore it was useless to hide in the wood till morning. 
+Rifles were ranked so far away that an enemy could not slink
+into the town by any detour; therefore it was vain to return to the [[City|city]]
+by any remote course.  A cry from him would bring his soldiers
+rushing up the [[Hill|hill]].  But from him no cry would come.
+
+     "The [[Moon|moon]] had risen in strengthening silver, and the sky showed
+in stripes of bright, nocturnal blue between the black stripes
+of the pines about the [[Castle|castle]].  [[Flowers]] of some wide and feathery sort--
+for he had never noticed such things before--were at once luminous
+and discoloured by the moonshine, and seemed indescribably fantastic
+as they clustered, as if crawling about the roots of the trees. 
+Perhaps his reason had been suddenly unseated by the unnatural captivity
+he carried with him, but in that wood he felt something
+unfathomably German--the fairy tale.  He knew with half his mind
+that he was drawing near to the [[Castle|castle]] of an ogre--he had forgotten
+that he was the ogre.  He remembered asking his mother if bears lived
+in the old park at [[Home|home]].  He stooped to pick a flower, as if it were
+a charm against enchantment.  The stalk was stronger than he expected,
+and broke with a slight snap.  Carefully trying to place it in his scarf,
+he heard the halloo, `Who goes there?' Then he remembered the scarf
+was not in its usual place.
 
      "He tried to scream and was silent.  The second challenge came;
 and then a shot that shrieked as it came and then was stilled suddenly

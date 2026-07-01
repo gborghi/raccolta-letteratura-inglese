@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 34: MY AUNT ASTONISHES ME (part 2)"
+title: "David Copperfield — Chapter 34: MY AUNT ASTONISHES ME (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_34_my_aunt_astonishes_me/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_34_my_aunt_astonishes_me/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘Not, of course, but that my Sophy--pretty name, Copperfield, I always
+think?’
 
 ‘Very pretty!’ said I.
 
@@ -131,7 +134,3 @@ articles; or his agitation when she came slowly towards us after vainly
 offering a price, and was hailed by the relenting broker, and went back
 again. The end of the negotiation was, that she bought the property on
 tolerably easy terms, and Traddles was transported with pleasure.
-
-‘I am very much obliged to you, indeed,’ said Traddles, on hearing it
-was to be sent to where he lived, that [[Night|night]]. ‘If I might ask one other
-favour, I [[Hope|hope]] you would not think it absurd, Copperfield?’

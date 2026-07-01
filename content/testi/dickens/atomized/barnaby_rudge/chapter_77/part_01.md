@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 77 (part 1)"
+title: "Barnaby Rudge — Chapter 77 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -114,17 +114,3 @@ and the stir of morning: the centre of an eager crowd. It was better
 haunting the street like a spectre, when men were in their beds, and
 influencing perchance the [[City|city]]’s [[Dreams|dreams]], than braving the broad day, and
 thrusting its obscene presence upon their waking senses.
-
-Five o’[[Clock|clock]] had struck--six--seven--and eight. Along the two main
-streets at either end of the [[Cross|cross]]-way, a living stream had now set in,
-[[rolling]] towards the marts of gain and business. Carts, coaches, waggons,
-trucks, and barrows, forced a passage through the outskirts of the
-throng, and clattered onward in the same direction. Some of these
-which were public conveyances and had come from a short distance in the
-country, stopped; and the driver pointed to the gibbet with his whip,
-though he might have spared himself the pains, for the heads of all the
-passengers were turned that way without his help, and the coach-windows
-were stuck full of staring eyes. In some of the carts and waggons, women
-might be seen, glancing fearfully at the same unsightly thing; and even
-little children were held up above the people’s heads to see what kind
-of a toy a gallows was, and learn how men were hanged.

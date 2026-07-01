@@ -10,15 +10,11 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/twelve-types-(chesterton)">Twelve Types</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/twelve_types/story_04_pope_and_the_art_of_satire/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/twelve_types/story_05_francis/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/twelve_types/story_04_pope_and_the_art_of_satire_satire/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/twelve_types/story_05_francis/part_02">part 02 ›</a></div>
 </nav>
 
 
 FRANCIS
-
-
-
-
 
 Asceticism is a thing which in its very [[Nature|nature]], we tend in these days to
 
@@ -54,8 +50,6 @@ other things one may choose to tabulate are unnecessary. When Omar
 
 Khayyam says:
 
-
-
     'A book of verse beneath the bough
 
     A loaf of bread, a jug of wine and thou
@@ -63,8 +57,6 @@ Khayyam says:
     Sitting beside me in the wilderness
 
     O wilderness were Paradise enow.'
-
-
 
 It is clear that he speaks fully as much ascetically as he does
 
@@ -76,8 +68,6 @@ be multiplied a hundred-fold. One of the most genuinely poetical of our
 
 younger poets says, as the one thing certain, that
 
-
-
     'From quiet [[Home|home]] and first beginning
 
       Out to the undiscovered ends--
@@ -86,13 +76,9 @@ younger poets says, as the one thing certain, that
 
       But laughter and the [[Love|love]] of friends.'
 
-
-
 Here we have a perfect example of the main important fact, that all true
 
 joy expresses itself in terms of asceticism.
-
-
 
 But if in any case it should happen that a class or a generation lose
 
@@ -148,8 +134,6 @@ feel the [[Love|love]] of religious offices. We see only the price in the one
 
 case and only the purchase in the other.
 
-
-
 The only question that remains is what was the joy of the old Christian
 
 ascetics of which their ascetism was merely the purchasing price. The
@@ -196,20 +180,8 @@ of an [[Eternity|eternity]] of happiness is by its very [[Nature|nature]] ten th
 
 more optimistic than ten thousand pagan saturnalias.
 
-
-
 Mr Adderley's life of Francis of Assisi does not, of course, bring this
 
 out; nor does it fully bring out the character of Francis. It has rather
 
 the tone of a devotional book. A devotional book is an excellent thing,
-
-but we do not look in it for the portrait of a man, for the same reason
-
-that we do not look in a [[Love|love]]-[[Sonnet|sonnet]] for the portrait of a woman,
-
-because men in such conditions of mind not only apply all virtues to
-
-their idol, but all virtues in equal quantities. There is no outline,
-
-because the [[artist]] cannot bear to put in a black line. This blaze of

@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 41 (part 3)"
+title: "Bleak House — Chapter 41 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_41/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_42/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Not my flight?” she returned. “Think of it again.”
+
+“Your flight, [[Lady Dedlock]], would spread the whole [[Truth|truth]], and a
+hundred times the whole [[Truth|truth]], far and wide. It would be impossible
+to save the family credit for a day. It is not to be thought of.”
 
 There is a quiet decision in his reply which admits of no
 remonstrance.

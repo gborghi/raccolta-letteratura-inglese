@@ -14,123 +14,100 @@ tags:
 </nav>
 
 
-What I mean about the Nationalist Party, and what may be called its
-prophetic [[Shadow|shadow]] of the Sinn Fein mistake, may [[Well|well]] be symbolised in
-one of the noblest figures of that party or any party.  An Irish poet,
-talking to me about the pointed diction of the Irish peasant,
-said he had recently rejoiced in the society of a drunken Kerry farmer,
-whose conversation was a [[litany]] of questions about everything
-in heaven and earth, each ending with a sort of [[Chorus|chorus]] of "Will
-ye tell me that now?"  And at the end of all he said abruptly,
-"Did ye know Tom Kettle?" and on my friend the poet assenting,
-the farmer said, as if in triumph, "And why are so many people alive
-that ought to be dead, and so many people dead that ought to be alive?
-Will ye tell me that now?"  That is not unworthy of an old heroic poem,
-and therefore not unworthy of the [[Hero|hero]] and poet of whom it was spoken.
-"Patroclus died, who was a better man than you."  Thomas [[Michael]] Kettle
-was perhaps the greatest example of that [[Greatness|greatness]] of spirit which
-was so ill rewarded on both sides of the channel and of the quarrel,
-which marked Redmond's brother and so many of Redmond's followers.
-He was a wit, a scholar, an orator, a man ambitious in all the arts
-of peace; and he fell fighting the barbarians because he was too
-good a European to use the barbarians against England, as England
-a hundred years before had used the barbarians against Ireland.
-There is nothing to be said of such things except what the drunken
-farmer said, unless it be a verse from a familiar ballad on a
-very remote topic, which happens to express my own most immediate
-feelings about politics and reconstruction after the decimation
-of the great war.
+I can best explain what I mean by reaffirming the reality which an English
+visitor really found in Irish politics, towards the end of the war.
+It may seem odd to say that the most hopeful fact I found,
+for Anglo-Irish relations, was the fury with which the Irish
+were all accusing the English of perjury and treason.
+Yet this was my solid and sincere impression; the happiest omen
+was the hatred aroused by the disappointment over [[Home]] Rule.
+For men are not furious unless they are disappointed of something
+they really want; and men are not disappointed except about
+something they were really ready to accept.  If Ireland had been
+entirely in favour of entire separation, the loss of [[Home]] Rule
+would not be felt as a loss, but if anything as an escape.
+But it is felt bitterly and savagely as a loss; to that at least I can
+testify with entire certainty.  I may or may not be right in the belief
+I build on it; but I believe it would still be felt as a gain;
+that Dominion [[Home]] Rule would in the long run satisfy Ireland.
+But it would satisfy her if it were given to her, not if it were
+promised to her.  As it is, the Irish regard our [[government]] simply
+as a liar who has broken his word; I cannot express how big and black
+that simple idea bulks in the landscape and blocks up the [[Road|road]].
+And without professing to regard it as quite so simple,
+I regard it as substantially true.  It is, upon any argument,
+an astounding thing the [[King]], Lords, and Commons of a great nation
+should record on its statute-book that a law exists, and then
+illegally reverse it in answer to the pressure of private persons.
+It is, and must be, for the people benefited by the law,
+an act of treason.  The Irish were not wrong in thinking it
+an act of treason, even in the sense of treachery and trickery.
+Where they were wrong, I regret to say, was in talking of it
+as if it were the one supreme solitary example of such trickery;
+when the whole of our politics were full of such tricks.
+In short, the loss of justice for Ireland was simply a part
+of the loss of justice in England; the loss of all moral authority
+in [[government]], the loss of the popularity of Parliament, the secret
+plutocracy which makes it easy to take a bribe or break a pledge,
+the corruption that can pass unpopular laws or promote discredited men.
+The lawgiver cannot enforce his law because, whether or no the law
+be popular, the lawgiver is wholly unpopular, and is perpetually passing
+wholly unpopular laws.  Intrigue has been substituted for [[government]];
+and the public man cannot appeal to the public because all the most
+important part of his policy is conducted in private.  The modern
+politician conducts his public life in private.  He sometimes condescends
+to make up for it by affecting to conduct his private life in public.
+He will put his baby or his birthday book into the illustrated papers;
+it is his dealings with the colossal millions of the cosmopolitan
+millionaires that he puts in his pocket or his private safe.
+We are allowed to know all about his [[dogs]] and cats; but not about
+those larger and more dangerous [[Animals|animals]], his bulls and bears.
 
- "The many men so beautiful
-  And they all dead did lie
-  And a thousand thousand slimy things
-  Lived on, and so did I."
-
-It is not a reflection that adds any inordinate [[Self|self]]-satisfaction
-to the fact of one's own [[Survival|survival]].
-
-In turning over a collection of Kettle's extraordinary varied
-and vigorous writings, which contain some of the most pointed
-and piercing criticisms of materialism, of modern capitalism and
-mental and moral anarchism generally, I came on a very interesting
-criticism of myself and my friends in our Marconi agitation;
-a suggestion, on a note of genial cynicism, that we were asking
-for an impossible political purity; a suggestion which,
-knowing it to be patriotic, I will venture to call pathetic.
-I will not now return on such disagreements, a man with whom I
-so universally agree; but it will not be unfair to find here an exact
-illustration of what I mean by saying that the national leaders,
-so far from merely failing as wild Irishmen, only failed when
-they were not instinctive enough, that is, not Irish enough.
-Kettle was a patriot whose impulse was practical and whose
-policy was impolitic.  Here also the Nationalist underrated
-the importance of the intervention of his own nationality.
-Kettle left a fine and even terrible poem, asking if his sacrifices
-were in vain, and whether he and his people were again being betrayed.
-I think nobody can deny that he was betrayed; and it was not by the
-English soldiers with whom he marched to war, but by those very English
-politicians with whom he sacrificed so much to remain at peace.
-No man will ever dare to say his [[Death|death]] in battle was in vain,
-not only because in the highest sense it could never be, but because
-even in the lowest sense it was not.  He hated the icy insolence
-of Prussia; and that ice is broken, and already as weak as [[Water|water]].
-As Carlyle said of a far lesser thing, that at least will never
-through unending ages insult the face of the sun any more.
-The point is here that if any part of his fine work was in vain,
-it was certainly not the reckless romantic part; it was precisely
-the plodding parliamentary part.  None can say that the weary
-marching and counter-marching in France was a thing thrown away;
-not only in the sense which consecrates all footprints along such
-a _via crucis,_ or highway of the army of martyrs; but also in
-the perfectly practical sense, that the army was going somewhere,
-and that it got there.  But it might possibly be said that the weary
-marching and counter-marching at Westminster, in and out of a
-division lobby, belonged to what the French call the _salle des pas
-perdus._ If anything was practical it was the visionary adventure;
-if anything was unpractical it was the practical compromise.
-He and his friends were betrayed by the men whose corruptions they
-had contemptuously condoned, far more than by the men whose bigotries
-they had indignantly denounced.  There darkened about them treason
-and disappointment, and he that was the happiest died in battle; and one
-who knew and loved him spoke to me for a million others in saying:
-"And now we will not give you a dead dog until you keep your word."
-
-~||~
-
-_VIII--An Example and a Question_
-
-WE all had occasion to rejoice at the return of Sherlock Holmes
-when he was supposed to be dead; and I presume we may soon rejoice
-in his return even when he is really dead.  Sir [[arthur|Arthur]] Conan Doyle,
-in his widespread new campaign in favour of Spiritualism,
-ought at least to delight us with the [[Comedy|comedy]] of Holmes as a control
-and Watson as a medium.  But I have for the moment a use for the great
-[[Detective|detective]] not concerned with the psychical side of the question.
-Of that I will only say, in passing, that in this as in many other cases,
-I find myself in agreement with an authority about where the line
-is drawn between good and bad, but have the misfortune to think
-his good bad, and his bad good.  Sir [[arthur|Arthur]] explains that he would
-lift Spiritualism to a graver and more elevated plane of idealism;
-and that he quite agrees with his critics that the mere
-tricks with tables and chairs are [[Grotesque|grotesque]] and vulgar.
-I think this quite true if turned upside down, like the table.
-I do not mind the [[Grotesque|grotesque]] and vulgar part of Spiritualism;
-what I object to is the [[Grave|grave]] and elevating part.  After all,
-a miracle is a miracle and means something; it means that Materialism
-is nonsense.  But it is not true that a message is always a message;
-and it sometimes only means that Spiritualism is also nonsense.
-If the table at which I am now writing takes to itself wings and flies
-out of the [[Window|window]], perhaps carrying me along with it, the incident
-will arouse in me a real intelligent interest, verging on surprise.
-But if the pen with which I am writing begins to scrawl all by itself,
-the sort of things I have seen in spirit writing; if it begins
-to say that all things are aspects of universal purity and peace,
-and so on, why, then I shall not only be annoyed, but also bored.
-If a great man like the late Sir William Crookes says a table went
-walking upstairs, I am impressed by the news; but not by news from
-nowhere to the effect that all men are perpetually going upstairs,
-up a spiritual staircase which seems to be as mechanical and labour-saving
-as a moving staircase at Charing [[Cross]].  Moreover, even a benevolent
-spirit might conceivably throw the furniture about merely for fun;
-whereas I [[Doubt|doubt]] if anything but a devil from hell would say that all
-things are aspects of purity and peace.
+Now there was a moment when England had an opportunity of breaking
+down this Parliamentary evil, as Europe afterwards had an opportunity
+(which it fortunately took) of breaking down the Prussian evil.
+The corruption was common to both parties; but the chance of
+exposing it happened to occur under the rule of a [[Home]] Rule party;
+which the Nationalists supported solely for the sake of [[Home]] Rule.
+In the Marconi Case they consented to whitewash the tricks
+of Jew jobbers whom they must have despised; just as some of
+the Sinn Feiners afterwards consented to whitewash the wickedness
+of Prussian bullies whom they also must have despised.
+In both cases the motive was wholly disinterested and even idealistic.
+It was the practicality that was unpractical.  I was one of a small
+group which protested against the hushing up of the Marconi affair,
+but we always did justice to the patriotic intentions of the Irish
+who allowed it.  But we based our criticism of their strategy
+on the principle of _falsus in uno, falsus in omnibus._ The man
+who will cheat you about one thing will cheat you about another.
+The men who will lie to you about Marconi, will lie to you about
+[[Home]] Rule.  The political conventions that allow of dealing in
+Marconis at one price for the party, and another price for oneself,
+are conventions that also allow of telling one story to Mr. John Redmond
+and another to Sir Edward Carson.  The man who will imply one state
+of things when talking at large in Parliament, and another state
+of things when put into a witness-box in [[Court|court]], is the same sort
+of man who will promise an Irish settlement in the [[Hope|hope]] that it
+may fail; and then withdraw it for [[Fear|fear]] it should succeed.
+Among the many muddle-headed modern attempts to coerce the Christian poor
+to the Moslem dogma about wine and beer, one was concerned with abuse
+by loafers or tipplers of the privilege of the [[Sunday]] traveller.
+It was suggested that the travellers' claims were in every
+sense travellers' tales.  It was therefore proposed that the limit
+of three miles should be extended to six; as if it were any
+harder for a liar to say he had walked six miles than three.
+The politicians might be as ready to promise to walk the six miles
+to an Irish Republic as the three miles to an Irish Parliament.
+But Sinn Fein is mistaken in supposing that any change of theoretic
+claim meets the problem of corruption.  Those who would break
+their word to Redmond would certainly break it to De Valera.
+We urged all these things on the Nationalists whose national cause
+we supported; we asked them to follow their larger popular instincts,
+break down a corrupt oligarchy, and let a real popular parliament
+in England give a real popular parliament to Ireland.
+With entirely honourable motives, they adhered to the narrower
+conception of their national duty.  They sacrificed everything for
+[[Home]] Rule; even their own profoundly national emotion of contempt.
+For the sake of [[Home]] Rule, or the solemn promise of [[Home]] Rule,
+they kept such men in power; and for their reward they found
+that such men were still in power; and [[Home]] Rule was gone.

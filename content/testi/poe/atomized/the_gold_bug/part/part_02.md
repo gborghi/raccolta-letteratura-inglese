@@ -1,5 +1,5 @@
 ---
-title: "[[The Gold-Bug]] (part 2)"
+title: "The Gold-Bug (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-gold-bug-(poe)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_gold_bug/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/the_gold_bug/part/part_03">part 03 ›</a></div>
 </nav>
 
+
+      earnestly, it seemed to me, than the case demanded, “is that any
+
+      reason for your letting the [[Birds|birds]] burn? The color”—here he turned
 
       to me—“is really almost enough to warrant Jupiter’s idea. You
 
@@ -76,7 +80,7 @@ tags:
 
 
 
-      “Perhaps so,” said I; “but, Legrand, I [[Fear|fear]] you are no [[Artist|artist]]. I
+      “Perhaps so,” said I; “but, Legrand, I [[Fear|fear]] you are no [[artist]]. I
 
       must wait until I see the beetle itself, if I am to form any idea
 
@@ -217,21 +221,3 @@ tags:
 
 
       “Dar! dat’s it!—him neber ’plain of notin’—but him berry sick for
-
-      all dat.”
-
-
-
-      “_Very_ sick, Jupiter!—why didn’t you say so at once? Is he
-
-      confined to bed?”
-
-
-
-      “No, dat he aint!—he aint ’fin’d nowhar—dat’s just whar de shoe
-
-      pinch—my mind is got to be berry hebby ’bout poor Massa Will.”
-
-
-
-      “Jupiter, I should like to understand what it is you are talking

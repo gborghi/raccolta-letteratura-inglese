@@ -123,7 +123,3 @@ It appeared, however, that she had only clapped her hands for joy; for
 directly afterward she began to laugh, and then to cry; declaring, not
 in choice Arabic but in familiar English, that she was ‘so glad, she
 didn’t know what to do.’
-
-‘[[Marchioness]],’ said Mr Swiveller, thoughtfully, ‘be pleased to draw
-nearer.  First of all, will you have the goodness to inform me where I
-shall find my voice; and secondly, what has become of my flesh?’

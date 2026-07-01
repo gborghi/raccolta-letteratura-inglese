@@ -1,5 +1,5 @@
 ---
-title: "The Haunted Man and the [[Ghost]]'s Bargain — Chapter 1 (part 2)"
+title: "The Haunted Man and the Ghost's Bargain — Chapter 1 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-haunted-man-and-the-ghost's-bargain-(dickens)"
@@ -119,15 +119,3 @@ is, sir. That’s what I always say myself, sir. Such a many of us
 Swidgers!—Pepper. Why there’s my father, sir, superannuated keeper and
 custodian of this Institution, eighty-seven year old. He’s a
 Swidger!—Spoon.”
-
-“True, William,” was the patient and abstracted answer, when he stopped
-again.
-
-“Yes, sir,” said Mr. Swidger. “That’s what I always say, sir. You may
-call him the trunk of the tree!—Bread. Then you come to his successor,
-my unworthy [[Self|self]]—Salt—and Mrs. William, Swidgers both.—Knife and fork.
-Then you come to all my brothers and their families, Swidgers, man and
-woman, boy and girl. Why, what with cousins, uncles, aunts, and
-relationships of this, that, and t’other degree, and whatnot degree, and
-marriages, and lyings-in, the Swidgers—Tumbler—might take hold of hands,
-and make a ring round England!”

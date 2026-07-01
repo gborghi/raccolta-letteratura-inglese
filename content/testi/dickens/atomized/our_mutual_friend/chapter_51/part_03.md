@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 10 (part 3)"
+title: "Our Mutual Friend — Chapter 13 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,145 +14,129 @@ tags:
 </nav>
 
 
-‘This interesting gentleman,’ said Eugene, ‘is the son—the
-occasionally rather trying son, for he has his failings—of a lady of my
-acquaintance. My dear Mortimer—Mr Dolls.’ Eugene had no idea what his
-name was, knowing the little dressmaker’s to be assumed, but presented
-him with easy confidence under the first appellation that his
-associations suggested.
+Twemlow, much disturbed, and with his hand fluttering about his
+forehead, replied: ‘Quite true.’
 
-‘I gather, my dear Mortimer,’ pursued Eugene, as Lightwood stared at
-the obscene visitor, ‘from the manner of Mr Dolls—which is occasionally
-complicated—that he desires to make some communication to me. I have
-mentioned to Mr Dolls that you and I are on terms of confidence, and
-have requested Mr Dolls to develop his views here.’
+The confiding young man besought him to state his case. The [[Innocent|innocent]]
+Twemlow, expecting Fledgeby to be astounded by what he should unfold,
+and not for an instant conceiving the possibility of its happening every
+day, but treating of it as a terrible phenomenon occurring in the course
+of ages, related how that he had had a deceased friend, a married civil
+officer with a family, who had wanted money for change of place or
+change of post, and how he, Twemlow, had ‘given him his name,’ with the
+usual, but in the eyes of Twemlow almost incredible result that he had
+been left to repay what he had never had. How, in the course of years,
+he had reduced the principal by trifling sums, ‘having,’ said Twemlow,
+‘always to observe great economy, being in the enjoyment of a fixed
+income limited in extent, and that depending on the munificence of
+a certain nobleman,’ and had always pinched the full interest out of
+himself with punctual pinches. How he had come, in course of [[Time|time]],
+to look upon this one only debt of his life as a regular quarterly
+drawback, and no worse, when ‘his name’ had some way fallen into the
+possession of Mr Riah, who had sent him notice to redeem it by paying up
+in full, in one plump sum, or take tremendous consequences. This, with
+hazy remembrances of how he had been carried to some office to ‘confess
+judgment’ (as he recollected the phrase), and how he had been carried
+to another office where his life was assured for somebody not wholly
+unconnected with the sherry trade whom he remembered by the remarkable
+circumstance that he had a Straduarius violin to dispose of, and also a
+Madonna, formed the sum and substance of Mr Twemlow’s narrative. Through
+which stalked the [[Shadow|shadow]] of the awful Snigsworth, eyed afar off by
+money-lenders as Security in the Mist, and menacing Twemlow with his
+baronial truncheon.
 
-The wretched object being much embarrassed by holding what remained
-of his hat, Eugene airily tossed it to the door, and put him down in a
-chair.
+To all, Mr Fledgeby listened with the modest gravity becoming a
+confiding young man who knew it all beforehand, and, when it was
+finished, seriously shook his head. ‘I don’t like, Mr Twemlow,’ said
+Fledgeby, ‘I don’t like Riah’s calling in the principal. If he’s
+determined to call it in, it must come.’
 
-‘It will be necessary, I think,’ he observed, ‘to [[Wind|wind]] up Mr Dolls,
-before anything to any mortal purpose can be got out of him. Brandy, Mr
-Dolls, or—?’
+‘But supposing, sir,’ said Twemlow, downcast, ‘that it can’t come?’
 
-‘Threepenn’orth Rum,’ said Mr Dolls.
+‘Then,’ retorted Fledgeby, ‘you must go, you know.’
 
-A judiciously small quantity of the spirit was given him in a
-wine-glass, and he began to convey it to his mouth, with all kinds of
-falterings and gyrations on the [[Road|road]].
+‘Where?’ asked Twemlow, faintly.
 
-‘The nerves of Mr Dolls,’ remarked Eugene to Lightwood, ‘are
-considerably unstrung. And I deem it on the whole expedient to fumigate
-Mr Dolls.’
+‘To [[Prison|prison]],’ returned Fledgeby. Whereat Mr Twemlow leaned his [[Innocent|innocent]]
+head upon his hand, and moaned a little moan of distress and disgrace.
 
-He took the shovel from the grate, sprinkled a few live ashes on it, and
-from a box on the chimney-piece took a few pastiles, which he set upon
-them; then, with great composure began placidly waving the shovel in
-front of Mr Dolls, to cut him off from his company.
+‘However,’ said Fledgeby, appearing to pluck up his spirits, ‘we’ll [[Hope|hope]]
+it’s not so bad as that comes to. If you’ll allow me, I’ll mention to Mr
+Riah when he comes in, who you are, and I’ll tell him you’re my friend,
+and I’ll say my say for you, instead of your saying it for yourself; I
+may be able to do it in a more business-like way. You won’t consider it
+a liberty?’
 
-‘Lord bless my [[Soul|soul]], Eugene!’ cried Lightwood, laughing again, ‘what a
-mad fellow you are! Why does this creature come to see you?’
+‘I thank you again and again, sir,’ said Twemlow. ‘I am strong,
+strongly, disinclined to avail myself of your generosity, though my
+helplessness yields. For I cannot but feel that I—to put it in the
+mildest form of speech—that I have done nothing to deserve it.’
 
-‘We shall hear,’ said Wrayburn, very observant of his face withal. ‘Now
-then. Speak out. Don’t be afraid. State your business, Dolls.’
+‘Where CAN he be?’ muttered Fledgeby, referring to his watch again.
+‘What CAN he have gone out for? Did you ever see him, Mr Twemlow?’
 
-‘Mist Wrayburn!’ said the visitor, thickly and huskily. ‘—’tis Mist
-Wrayburn, ain’t?’ With a stupid stare.
+‘Never.’
 
-‘Of course it is. Look at me. What do you want?’
+‘He is a thorough Jew to look at, but he is a more thorough Jew to deal
+with. He’s worst when he’s quiet. If he’s quiet, I shall take it as a
+very bad sign. Keep your eye upon him when he comes in, and, if he’s
+quiet, don’t be hopeful. Here he is!—He looks quiet.’
 
-Mr Dolls collapsed in his chair, and faintly said ‘Threepenn’orth Rum.’
+With these words, which had the effect of causing the harmless Twemlow
+painful agitation, Mr Fledgeby withdrew to his former post, and the old
+man entered the counting-[[house]].
 
-‘Will you do me the favour, my dear Mortimer, to [[Wind|wind]] up Mr Dolls
-again?’ said Eugene. ‘I am occupied with the fumigation.’
+‘Why, Mr Riah,’ said Fledgeby, ‘I thought you were lost!’
 
-A similar quantity was poured into his glass, and he got it to his lips
-by similar circuitous ways. Having drunk it, Mr Dolls, with an evident
-[[Fear|fear]] of running down again unless he made haste, proceeded to business.
+The old man, glancing at the stranger, stood stock-still. He perceived
+that his master was leading up to the orders he was to take, and he
+waited to understand them.
 
-‘Mist Wrayburn. Tried to nudge you, but you wouldn’t. You want that
-drection. You want t’know where she lives. _Do_ you Mist Wrayburn?’
+‘I really thought,’ repeated Fledgeby slowly, ‘that you were lost, Mr
+Riah. Why, now I look at you—but no, you can’t have done it; no, you
+can’t have done it!’
 
-With a glance at his friend, Eugene replied to the question sternly, ‘I
-do.’
+Hat in hand, the old man lifted his head, and looked distressfully at
+Fledgeby as seeking to know what new moral burden he was to bear.
 
-‘I am er man,’ said Mr Dolls, trying to smite himself on the breast, but
-bringing his hand to bear upon the vicinity of his eye, ‘er do it. I am
-er man er do it.’
+‘You can’t have rushed out to get the start of everybody else, and put
+in that bill of sale at Lammle’s?’ said Fledgeby. ‘Say you haven’t, Mr
+Riah.’
 
-‘What are you the man to do?’ demanded Eugene, still sternly.
+‘Sir, I have,’ replied the old man in a low voice.
 
-‘Er give up that drection.’
+‘Oh my eye!’ cried Fledgeby. ‘Tut, tut, tut! Dear, dear, dear! [[Well]]! I
+knew you were a hard customer, Mr Riah, but I never thought you were as
+hard as that.’
 
-‘Have you got it?’
+‘Sir,’ said the old man, with great uneasiness, ‘I do as I am directed.
+I am not the principal here. I am but the agent of a superior, and I
+have no choice, no power.’
 
-With a most laborious attempt at [[Pride|pride]] and dignity, Mr Dolls rolled
-his head for some [[Time|time]], awakening the highest expectations, and then
-answered, as if it were the happiest point that could possibly be
-expected of him: ‘No.’
+‘Don’t say so,’ retorted Fledgeby, secretly exultant as the old man
+stretched out his hands, with a shrinking action of defending himself
+against the sharp construction of the two observers. ‘Don’t play the
+tune of the trade, Mr Riah. You’ve a right to get in your debts, if
+you’re determined to do it, but don’t pretend what every one in your
+line regularly pretends. At least, don’t do it to me. Why should you, Mr
+Riah? You know I know all about you.’
 
-‘What do you mean then?’
+The old man clasped the skirt of his long coat with his disengaged hand,
+and directed a wistful look at Fledgeby.
 
-Mr Dolls, collapsing in the drowsiest manner after his late intellectual
-triumph, replied: ‘Threepenn’orth Rum.’
+‘And don’t,’ said Fledgeby, ‘don’t, I entreat you as a favour, Mr Riah,
+be so devilish meek, for I know what’ll follow if you are. Look here, Mr
+Riah. This gentleman is Mr Twemlow.’
 
-‘[[Wind]] him up again, my dear Mortimer,’ said Wrayburn; ‘[[Wind|wind]] him up
-again.’
+The Jew turned to him and bowed. That poor [[Lamb|lamb]] bowed in return; polite,
+and terrified.
 
-‘Eugene, Eugene,’ urged Lightwood in a low voice, as he complied, ‘can
-you stoop to the use of such an instrument as this?’
-
-‘I said,’ was the reply, made with that former gleam of determination,
-‘that I would find her out by any means, fair or foul. These are foul,
-and I’ll take them—if I am not first tempted to break the head of Mr
-Dolls with the fumigator. Can you get the direction? Do you mean that?
-Speak! If that’s what you have come for, say how much you want.’
-
-‘Ten shillings—Threepenn’orths Rum,’ said Mr Dolls.
-
-‘You shall have it.’
-
-‘Fifteen shillings—Threepenn’orths Rum,’ said Mr Dolls, making an
-attempt to stiffen himself.
-
-‘You shall have it. Stop at that. How will you get the direction you
-talk of?’
-
-‘I am er man,’ said Mr Dolls, with majesty, ‘er get it, sir.’
-
-‘How will you get it, I ask you?’
-
-‘I am ill-used vidual,’ said Mr Dolls. ‘Blown up morning t’[[Night|night]]. Called
-names. She makes Mint money, sir, and never stands Threepenn’orth Rum.’
-
-‘Get on,’ rejoined Eugene, tapping his palsied head with the
-[[Fire|fire]]-shovel, as it sank on his breast. ‘What comes next?’
-
-Making a dignified attempt to gather himself together, but, as it were,
-dropping half a dozen pieces of himself while he tried in vain to pick
-up one, Mr Dolls, swaying his head from side to side, regarded his
-questioner with what he supposed to be a haughty smile and a scornful
-glance.
-
-‘She looks upon me as mere [[Child|child]], sir. I am NOT mere [[Child|child]], sir. Man.
-Man talent. Lerrers pass betwixt ’em. Postman lerrers. Easy for man
-talent er get drection, as get his own drection.’
-
-‘Get it then,’ said Eugene; adding very heartily under his breath,
-‘—You Brute! Get it, and bring it here to me, and earn the money for
-sixty threepenn’orths of rum, and drink them all, one a top of another,
-and drink yourself dead with all possible expedition.’ The latter
-clauses of these special instructions he addressed to the [[Fire|fire]], as he
-gave it back the ashes he had taken from it, and replaced the shovel.
-
-Mr Dolls now struck out the highly unexpected discovery that he had been
-insulted by Lightwood, and stated his [[Desire|desire]] to ‘have it out with him’
-on the spot, and defied him to come on, upon the liberal terms of
-a sovereign to a halfpenny. Mr Dolls then fell a crying, and then
-exhibited a tendency to fall asleep. This last manifestation as by far
-the most alarming, by reason of its threatening his prolonged stay
-on the premises, necessitated vigorous measures. Eugene picked up his
-worn-out hat with the tongs, clapped it on his head, and, taking him by
-the collar—all this at arm’s length—conducted him down stairs and out
-of the precincts into Fleet Street. There, he turned his face westward,
-and left him.
+‘I have made such a failure,’ proceeded Fledgeby, ‘in trying to do
+anything with you for my friend Lammle, that I’ve hardly a [[Hope|hope]] of doing
+anything with you for my friend (and connexion indeed) Mr Twemlow. But
+I do think that if you would do a favour for anybody, you would for me,
+and I won’t fail for want of trying, and I’ve passed my promise to Mr
+Twemlow besides. Now, Mr Riah, here is Mr Twemlow. Always good for his
+interest, always coming up to [[Time|time]], always paying his little way. Now,
+why should you press Mr Twemlow? You can’t have any spite against Mr
+Twemlow! Why not be easy with Mr Twemlow?’

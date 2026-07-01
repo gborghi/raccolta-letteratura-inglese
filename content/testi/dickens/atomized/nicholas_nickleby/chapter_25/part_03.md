@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 25 (part 3)"
+title: "Nicholas Nickleby — Chapter 25 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_25/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_25/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘Family!’ said Nicholas. ‘What family?’
+
+‘The Kenwigses of course,’ rejoined Mr. Lillyvick. ‘If my niece and the
+children had known a word about it before I came away, they’d have gone
+into fits at my feet, and never have come out of ‘em till I took an oath
+not to marry anybody--or they’d have got out a commission of lunacy, or
+some dreadful thing,’ said the collector, quite trembling as he spoke.
 
 ‘To be sure,’ said Nicholas. ‘Yes; they would have been jealous, no
 [[Doubt|doubt]].’
@@ -128,25 +136,3 @@ you!’
 
 ‘Of course he knows it, [[Love|love]], and will never forget it,’ said Miss
 Ledrook.
-
-‘Do you think he won’t?’ cried Miss Petowker, really showing great
-capability for the stage. ‘Oh, do you think he won’t? Do you think
-Lillyvick will always remember it--always, always, always?’
-
-There is no knowing in what this burst of feeling might have ended, if
-Miss Snevellicci had not at that moment proclaimed the arrival of the
-fly, which so astounded the bride that she shook off divers alarming
-symptoms which were coming on very strong, and running to the glass
-adjusted her dress, and calmly declared that she was ready for the
-sacrifice.
-
-She was accordingly supported into the coach, and there ‘kept up’ (as
-Miss Snevellicci said) with perpetual sniffs of SAL VOLATILE and sips
-of brandy and other gentle stimulants, until they reached the manager’s
-door, which was already opened by the two Master Crummleses, who
-wore white cockades, and were decorated with the choicest and most
-resplendent waistcoats in the theatrical wardrobe. By the combined
-exertions of these young gentlemen and the bridesmaids, assisted by the
-coachman, Miss Petowker was at length supported in a condition of much
-exhaustion to the first floor, where she no sooner encountered the
-youthful bridegroom than she fainted with great decorum.

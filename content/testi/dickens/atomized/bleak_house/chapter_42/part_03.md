@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 42 (part 3)"
+title: "Bleak House — Chapter 42 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_42/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_43/part_01">part 01 ›</a></div>
 </nav>
 
+
+“And again,” says mademoiselle with more tight and angry nods. “And
+yet again. And yet again. And many times again. In effect, for ever!”
+
+“And not only here, but you will go to Mr. Snagsby’s too, perhaps?
+That visit not succeeding either, you will go again perhaps?”
+
+“And again,” repeats mademoiselle, cataleptic with determination.
+“And yet again. And yet again. And many times again. In effect, for
+ever!”
+
+“Very [[Well|well]]. Now, Mademoiselle Hortense, let me recommend you to take
+the candle and pick up that money of yours. I think you will find it
+behind the clerk’s partition in the corner yonder.”
 
 She merely throws a laugh over her shoulder and stands her ground
 with folded arms.

@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 27 (part 1)"
+title: "Dombey and Son — Chapter 55 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -10,119 +10,122 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/dombey-and-son-(dickens)">Dombey and Son</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_82/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_83/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_82/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_83/part_02">part 02 ›</a></div>
 </nav>
 
 
-CHAPTER XXVII.
-Deeper Shadows
+CHAPTER LV.
+Rob the Grinder loses his Place
 
 
-Mr Carker the Manager [[Rose|rose]] with the lark, and went out, walking in the
-[[Summer|summer]] day. His meditations—and he meditated with contracted brows
-while he strolled along—hardly seemed to soar as high as the lark, or
-to mount in that direction; rather they kept close to their nest upon
-the earth, and looked about, among the [[Dust|dust]] and worms. But there was
-not a bird in the air, singing unseen, farther beyond the reach of
-human eye than Mr Carker’s thoughts. He had his face so perfectly under
-control, that few could say more, in distinct terms, of its expression,
-than that it smiled or that it pondered. It pondered now, intently. As
-the lark [[Rose|rose]] higher, he sank deeper in thought. As the lark poured out
-her melody clearer and stronger, he fell into a graver and profounder
-[[Silence|silence]]. At length, when the lark came headlong down, with an
-accumulating stream of [[Song|song]], and dropped among the green wheat near
-him, rippling in the breath of the morning like a [[River|river]], he sprang up
-from his reverie, and looked round with a sudden smile, as courteous
-and as soft as if he had had numerous observers to propitiate; nor did
-he relapse, after being thus awakened; but clearing his face, like one
-who bethought himself that it might otherwise wrinkle and tell tales,
-went smiling on, as if for practice.
+The Porter at the iron gate which shut the [[Court|court]]-yard from the street,
+had left the little wicket of his [[house]] open, and was gone away; no
+[[Doubt|doubt]] to mingle in the distant noise at the door of the great
+staircase. Lifting the latch softly, Carker crept out, and shutting the
+jangling gate after him with as little noise as possible, hurried off.
 
-Perhaps with an eye to first impressions, Mr Carker was very carefully
-and trimly dressed, that morning. Though always somewhat formal, in his
-dress, in [[Imitation|imitation]] of the great man whom he served, he stopped short
-of the extent of Mr Dombey’s stiffness: at once perhaps because he knew
-it to be ludicrous, and because in doing so he found another means of
-expressing his sense of the difference and distance between them. Some
-people quoted him indeed, in this respect, as a pointed commentary, and
-not a flattering one, on his icy patron—but the world is prone to
-misconstruction, and Mr Carker was not accountable for its bad
-propensity.
+In the fever of his mortification and unavailing rage, the panic that
+had seized upon him mastered him completely. It [[Rose|rose]] to such a height
+that he would have blindly encountered almost any risk, rather than
+meet the man of whom, two hours ago, he had been utterly regardless.
+His fierce arrival, which he had never expected; the sound of his
+voice; their having been so near a meeting, face to face; he would have
+braved out this, after the first momentary shock of alarm, and would
+have put as bold a front upon his [[Guilt|guilt]] as any [[Villain|villain]]. But the
+springing of his mine upon himself, seemed to have rent and shivered
+all his hardihood and [[Self-Reliance|self-reliance]]. Spurned like any reptile;
+entrapped and mocked; turned upon, and trodden down by the proud woman
+whose mind he had slowly poisoned, as he thought, until she had sunk
+into the mere creature of his pleasure; undeceived in his deceit, and
+with his fox’s hide stripped off, he sneaked away, abashed, degraded,
+and afraid.
 
-Clean and florid: with his light complexion, fading as it were, in the
-sun, and his dainty step enhancing the softness of the turf: Mr Carker
-the Manager strolled about meadows, and green lanes, and glided among
-avenues of trees, until it was [[Time|time]] to return to breakfast. Taking a
-nearer way back, Mr Carker pursued it, airing his teeth, and said aloud
-as he did so, “Now to see the second Mrs Dombey!”
+Some other terror came upon him quite removed from this of being
+pursued, suddenly, like an electric shock, as he was creeping through
+the streets Some visionary terror, unintelligible and inexplicable,
+associated with a trembling of the ground,—a rush and sweep of
+something through the air, like [[Death]] upon the wing. He shrunk, as if
+to let the thing go by. It was not gone, it never had been there, yet
+what a startling horror it had left behind.
 
-He had strolled beyond the town, and re-entered it by a pleasant walk,
-where there was a deep shade of leafy trees, and where there were a few
-benches here and there for those who chose to rest. It not being a
-place of general resort at any hour, and wearing at that [[Time|time]] of the
-still morning the air of being quite deserted and retired, Mr Carker
-had it, or thought he had it, all to himself. So, with the whim of an
-idle man, to whom there yet remained twenty minutes for reaching a
-destination easily able in ten, Mr Carker threaded the great boles of
-the trees, and went passing in and out, before this one and behind
-that, weaving a chain of footsteps on the dewy ground.
+He raised his wicked face so full of trouble, to the [[Night|night]] sky, where
+the [[Stars|stars]], so full of peace, were shining on him as they had been when
+he first stole out into the air; and stopped to think what he should
+do. The dread of being hunted in a strange remote place, where the laws
+might not protect him—the novelty of the feeling that it was strange
+and remote, originating in his being left [[Alone|alone]] so suddenly amid the
+ruins of his plans—his greater dread of seeking refuge now, in [[Italy]] or
+in Sicily, where men might be hired to assassinate him, he thought, at
+any dark street corner—the waywardness of [[Guilt|guilt]] and [[Fear|fear]]—perhaps some
+sympathy of action with the turning back of all his schemes—impelled
+him to turn back too, and go to England.
 
-But he found he was mistaken in supposing there was no one in the
-grove, for as he softly rounded the trunk of one large tree, on which
-the obdurate bark was knotted and overlapped like the hide of a
-rhinoceros or some kindred [[Monster|monster]] of the ancient days before the
-Flood, he saw an unexpected figure sitting on a bench near at hand,
-about which, in another moment, he would have wound the chain he was
-making.
+“I am safer there, in any case. If I should not decide,” he thought,
+“to give this [[Fool|fool]] a meeting, I am less likely to be traced there, than
+abroad here, now. And if I should (this cursed fit being over), at
+least I shall not be [[Alone|alone]], without a [[Soul|soul]] to speak to, or advise with,
+or stand by me. I shall not be run in upon and worried like a rat.”
 
-It was that of a lady, elegantly dressed and very handsome, whose dark
-proud eyes were fixed upon the ground, and in whom some passion or
-struggle was raging. For as she sat looking down, she held a corner of
-her under lip within her mouth, her bosom heaved, her nostril quivered,
-her head trembled, indignant [[Tears|tears]] were on her cheek, and her foot was
-set upon the moss as though she would have crushed it into nothing. And
-yet almost the [[Self|self]]-same glance that showed him this, showed him the
-[[Self|self]]-same lady rising with a scornful air of weariness and lassitude,
-and turning away with nothing expressed in face or figure but careless
-[[Beauty|beauty]] and imperious disdain.
+He muttered Edith’s name, and clenched his hand. As he crept along, in
+the [[Shadow|shadow]] of the massive buildings, he set his teeth, and muttered
+dreadful imprecations on her head, and looked from side to side, as if
+in search of her. Thus, he stole on to the gate of an inn-yard. The
+people were a-bed; but his ringing at the bell soon produced a man with
+a lantern, in company with whom he was presently in a dim coach-[[house]],
+bargaining for the hire of an old phaeton, to [[Paris]].
 
-A withered and very ugly old woman, dressed not so much like a gipsy as
-like any of that medley race of vagabonds who tramp about the country,
-begging, and stealing, and tinkering, and weaving rushes, by turns, or
-all together, had been observing the lady, too; for, as she [[Rose|rose]], this
-second figure strangely confronting the first, scrambled up from the
-ground—out of it, it almost appeared—and stood in the way.
+The bargain was a short one; and the horses were soon sent for. Leaving
+word that the carriage was to follow him when they came, he stole away
+again, beyond the town, past the old ramparts, out on the open [[Road|road]],
+which seemed to glide away along the dark plain, like a stream.
 
-“Let me tell your fortune, my pretty lady,” said the old woman,
-munching with her jaws, as if the [[Death]]’s Head beneath her yellow skin
-were impatient to get out.
+Whither did it flow? What was the end of it? As he paused, with some
+such suggestion within him, looking over the gloomy flat where the
+slender trees marked out the way, again that flight of [[Death]] came
+rushing up, again went on, impetuous and resistless, again was nothing
+but a horror in his mind, dark as the scene and undefined as its
+remotest verge.
 
-“I can tell it for myself,” was the reply.
+There was no [[Wind|wind]]; there was no passing [[Shadow|shadow]] on the deep shade of the
+[[Night|night]]; there was no noise. The [[City|city]] lay behind him, lighted here and
+there, and starry worlds were hidden by the masonry of spire and roof
+that hardly made out any shapes against the sky. Dark and lonely
+distance lay around him everywhere, and the clocks were faintly
+striking two.
 
-“Ay, ay, pretty lady; but not right. You didn’t tell it right when you
-were sitting there. I see you! Give me a piece of silver, pretty lady,
-and I’ll tell your fortune true. There’s riches, pretty lady, in your
-face.”
+He went forward for what appeared a long [[Time|time]], and a long way; often
+stopping to listen. At last the ringing of horses’ [[Bells|bells]] greeted his
+anxious ears. Now softer, and now louder, now inaudible, now ringing
+very slowly over bad ground, now brisk and merry, it came on; until
+with a loud shouting and lashing, a shadowy postillion muffled to the
+eyes, checked his four struggling horses at his side.
 
-“I know,” returned the lady, passing her with a dark smile, and a proud
-step. “I knew it before.
+“Who goes there! Monsieur?”
 
-“What! You won’t give me nothing?” cried the old woman. “You won’t give
-me nothing to tell your fortune, pretty lady? How much will you give me
-to tell it, then? Give me something, or I’ll call it after you!”
-croaked the old woman, passionately.
+“Yes.”
 
-Mr Carker, whom the lady was about to pass close, slinking against his
-tree as she crossed to gain the path, advanced so as to meet her, and
-pulling off his hat as she went by, bade the old woman hold her peace.
-The lady acknowledged his interference with an inclination of the head,
-and went her way.
+“Monsieur has walked a long way in the dark midnight.”
 
-“You give me something then, or I’ll call it after her!” screamed the
-old woman, throwing up her arms, and pressing forward against his
-outstretched hand. “Or come,” she added, dropping her voice suddenly,
-looking at him earnestly, and seeming in a moment to forget the object
-of her wrath, “give me something, or I’ll call it after you!”
+“No matter. Everyone to his task. Were there any other horses ordered
+at the Post-[[house]]?”
 
-“After me, old lady!” returned the Manager, putting his hand in his
-pocket.
+“A thousand devils!—and pardons! other horses? at this hour? No.”
+
+“Listen, my friend. I am much hurried. Let us see how fast we can
+travel! The faster, the more money there will be to drink. Off we go
+then! Quick!”
+
+“Halloa! whoop! Halloa! Hi!” Away, at a gallop, over the black
+landscape, scattering the [[Dust|dust]] and dirt like spray!
+
+The clatter and commotion echoed to the hurry and discordance of the
+fugitive’s ideas. Nothing clear without, and nothing clear within.
+Objects flitting past, merging into one another, dimly descried,
+confusedly lost sight of, gone! Beyond the changing scraps of fence and
+cottage immediately upon the [[Road|road]], a lowering waste. Beyond the
+shifting images that [[Rose|rose]] up in his mind and vanished as they showed
+themselves, a black expanse of dread and rage and baffled villainy.
+Occasionally, a sigh of mountain air came from the distant Jura, fading
+along the plain. Sometimes that rush which was so furious and horrible,
+again came sweeping through his fancy, passed away, and left a chill
+upon his [[Blood|blood]].

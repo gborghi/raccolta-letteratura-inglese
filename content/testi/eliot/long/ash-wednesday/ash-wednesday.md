@@ -1,5 +1,5 @@
 ---
-title: "[[Ash-Wednesday]]"
+title: "Ash-Wednesday"
 author: "Eliot"
 unitType: work
 tags:

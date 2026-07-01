@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 46 (part 3)"
+title: "Bleak House — Chapter 46 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_46/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_47/part_01">part 01 ›</a></div>
 </nav>
 
+
+Allan shrinks back from him with a sudden horror.
+
+“Yes, sir, yes. Took him [[Home|home]], and made him comfortable, and like a
+thankless [[Monster|monster]] he ran away in the [[Night|night]] and never has been seen or
+heard of since till I set eyes on him just now. And that young lady
+that was such a pretty dear caught his illness, lost her beautiful
+looks, and wouldn’t hardly be known for the same young lady now if it
+wasn’t for her angel temper, and her pretty shape, and her sweet
+voice. Do you know it? You ungrateful wretch, do you know that this
+is all along of you and of her goodness to you?” demands the woman,
+beginning to rage at him as she recalls it and breaking into
+passionate [[Tears|tears]].
 
 The boy, in rough sort stunned by what he hears, falls to smearing
 his dirty forehead with his dirty palm, and to staring at the ground,

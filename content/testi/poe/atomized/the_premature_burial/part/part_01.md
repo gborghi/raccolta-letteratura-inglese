@@ -1,5 +1,5 @@
 ---
-title: "[[The Premature Burial]] (part 1)"
+title: "The Premature Burial (part 1)"
 author: "Poe"
 unitType: excerpt
 tags:

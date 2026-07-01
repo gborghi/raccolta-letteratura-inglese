@@ -14,6 +14,47 @@ tags:
 </nav>
 
 
+ran as if to lift him up. As I bent toward him something happened
+
+too quick for me to follow. I do not know whether the iron bar was
+
+rotted with rust and came away in his hand, or whether he rent it
+
+out of the rock with his apelike strength; but the thing was in his
+
+hand, and with his dying energies he swung it over my head, as I
+
+knelt there unarmed beside him. I looked up wildly to avoid the
+
+blow, and saw above us the great bulk of Britannia leaning outward
+
+like the figurehead of a [[Ship|ship]]. The next instant I saw it was leaning
+
+an inch or two more than usual, and all the skies with their
+
+outstanding [[Stars|stars]] seemed to be leaning with it. For the third second
+
+it was as if the skies fell; and in the fourth I was standing in the
+
+quiet [[Garden|garden]], looking down on that flat ruin of stone and bone at
+
+which you were looking to-day. He had plucked out the last prop that
+
+held up the British goddess, and she had fallen and crushed the
+
+traitor in her fall. I turned and darted for the coat which I knew
+
+to contain the package, ripped it up with my [[Sword|sword]], and raced away
+
+up the [[Garden|garden]] path to where my motor bike was waiting on the [[Road|road]]
+
+above. I had every reason for haste; but I fled without looking back
+
+at the statue and the [[Body|body]]; and I think the thing I fled from was
+
+the sight of that appalling [[Allegory|allegory]].
+"Then I did the rest of what I had to do. All through the [[Night|night]] and
+
 into the daybreak and the daylight I went humming through the
 
 villages and markets of South England like a traveling bullet, till

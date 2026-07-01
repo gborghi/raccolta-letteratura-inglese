@@ -1,5 +1,5 @@
 ---
-title: "The Two Gentlemen of [[Verona]] — Act III, Scene 1 — monologue (DUKE) [4]"
+title: "The Two Gentlemen of Verona — Act III, Scene 1 — monologue (DUKE) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-two-gentlemen-of-verona-(shakespeare)"

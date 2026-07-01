@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 11 (part 1)"
+title: "Great Expectations — Chapter 11 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -127,15 +127,3 @@ add, with indignation, “Was there ever such a fancy! The i-d_e_-a!”
 As we were going with our candle along the dark passage, [[Estella]]
 stopped all of a sudden, and, facing round, said in her taunting
 manner, with her face quite close to mine,—
-
-“[[Well]]?”
-
-“[[Well]], miss?” I answered, almost falling over her and checking myself.
-
-She stood looking at me, and, of course, I stood looking at her.
-
-“Am I pretty?”
-
-“Yes; I think you are very pretty.”
-
-“Am I insulting?”

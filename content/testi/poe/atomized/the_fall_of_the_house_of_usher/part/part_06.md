@@ -1,5 +1,5 @@
 ---
-title: "[[The Fall of the House of Usher]] (part 6)"
+title: "The Fall of the House of Usher (part 6)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-fall-of-the-house-of-usher-(poe)"
@@ -109,12 +109,3 @@ tags:
       guard before a palace of gold, with a floor of silver; and upon
       the wall there hung a shield of shining brass with this legend
       enwritten—
-
-     Who entereth herein, a conqueror hath bin;
-     Who slayeth the dragon, the shield he shall win;
-
-      And Ethelred uplifted his mace, and struck upon the head of the
-      dragon, which fell before him, and gave up his pesty breath, with
-      a shriek so horrid and harsh, and withal so piercing, that
-      Ethelred had fain to close his ears with his hands against the
-      dreadful noise of it, the like whereof was never before heard.”

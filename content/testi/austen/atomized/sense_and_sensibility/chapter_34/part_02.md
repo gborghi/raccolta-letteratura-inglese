@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 34 (part 2)"
+title: "Sense and Sensibility — Chapter 34 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_34/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_34/part_03">part 03 ›</a></div>
 </nav>
 
+
+depends on—that is to be my mother!”
+
+
+
+Elinor could have given her immediate relief by suggesting the
 
 possibility of its being Miss Morton’s mother, rather than her own,
 
@@ -219,11 +225,3 @@ not aware of their being Elinor’s work, particularly requested to look
 at them; and after they had received gratifying testimony of Lady
 
 Middletons’s approbation, Fanny presented them to her mother,
-
-considerately informing her, at the same [[Time|time]], that they were done by
-
-Miss Dashwood.
-
-
-
-“Hum”—said Mrs. Ferrars—“very pretty,”—and without regarding them at

@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 77 (part 2)"
+title: "Barnaby Rudge — Chapter 77 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_77/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_77/part_03">part 03 ›</a></div>
 </nav>
 
+
+Five o’[[Clock|clock]] had struck--six--seven--and eight. Along the two main
+streets at either end of the [[Cross|cross]]-way, a living stream had now set in,
+[[rolling]] towards the marts of gain and business. Carts, coaches, waggons,
+trucks, and barrows, forced a passage through the outskirts of the
+throng, and clattered onward in the same direction. Some of these
+which were public conveyances and had come from a short distance in the
+country, stopped; and the driver pointed to the gibbet with his whip,
+though he might have spared himself the pains, for the heads of all the
+passengers were turned that way without his help, and the coach-windows
+were stuck full of staring eyes. In some of the carts and waggons, women
+might be seen, glancing fearfully at the same unsightly thing; and even
+little children were held up above the people’s heads to see what kind
+of a toy a gallows was, and learn how men were hanged.
 
 Two rioters were to die before the [[Prison|prison]], who had been concerned in
 the attack upon it; and one directly afterwards in Bloomsbury Square.
@@ -100,28 +114,3 @@ little enough of it! They say you’re the best maker of lobster salads in
 one, this morning--is your hand in? How does the breakfast look? I [[Hope|hope]]
 there’s enough, and to spare, for all this hungry company that’ll sit
 down to it, when the sight’s over.’
-
-‘I [[Fear|fear]],’ observed the clergyman, shaking his head, ‘that you are
-incorrigible.’
-
-‘You’re right. I am,’ rejoined Hugh sternly. ‘Be no hypocrite, master!
-You make a merry-making of this, every month; let me be merry, too. If
-you want a frightened fellow there’s one that’ll suit you. Try your hand
-upon him.’
-
-He pointed, as he spoke, to Dennis, who, with his legs trailing on the
-ground, was held between two men; and who trembled so, that all his
-joints and limbs seemed racked by spasms. Turning from this wretched
-spectacle, he called to Barnaby, who stood apart.
-
-‘What cheer, Barnaby? Don’t be downcast, lad. Leave that to HIM.’
-
-‘Bless you,’ cried Barnaby, stepping lightly towards him, ‘I’m not
-frightened, Hugh. I’m quite happy. I wouldn’t [[Desire|desire]] to live now,
-if they’d let me. Look at me! Am I afraid to die? Will they see ME
-tremble?’
-
-Hugh gazed for a moment at his face, on which there was a strange,
-unearthly smile; and at his eye, which sparkled brightly; and
-interposing between him and the Ordinary, gruffly whispered to the
-latter:

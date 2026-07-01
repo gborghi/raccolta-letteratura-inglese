@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 29 (part 4)"
+title: "Jane Eyre — Chapter 29 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_29/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_30/part_01">part 01 ›</a></div>
 </nav>
 
+
+“I am near nineteen: but I am not married. No.”
+
+I felt a burning glow mount to my face; for bitter and agitating
+recollections were awakened by the allusion to [[Marriage|marriage]]. They all saw
+the embarrassment and the emotion. [[Diana]] and Mary relieved me by
+turning their eyes elsewhere than to my crimsoned visage; but the
+colder and sterner brother continued to gaze, till the trouble he had
+excited forced out [[Tears|tears]] as [[Well|well]] as colour.
 
 “Where did you last reside?” he now asked.
 

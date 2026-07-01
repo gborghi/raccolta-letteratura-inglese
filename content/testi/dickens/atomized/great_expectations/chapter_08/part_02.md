@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 8 (part 2)"
+title: "Great Expectations — Chapter 8 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_08/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_08/part_03">part 03 ›</a></div>
 </nav>
 
+
+“It looks like it, miss.”
+
+“Not that anybody means to try,” she added, “for that’s all done with,
+and the place will stand as idle as it is till it falls. As to strong
+beer, there’s enough of it in the cellars already, to drown the Manor
+[[house|House]].”
 
 [Illustration]
 
@@ -77,7 +84,7 @@ She had not quite finished dressing, for she had but one shoe on,—the
 other was on the table near her hand,—her veil was but half arranged,
 her watch and chain were not put on, and some lace for her bosom lay
 with those trinkets, and with her handkerchief, and gloves, and some
-[[Flowers|flowers]], and a [[Prayer]]-Book all confusedly heaped about the
+[[Flowers|flowers]], and a [[prayer|Prayer]]-Book all confusedly heaped about the
 looking-glass.
 
 It was not in the first few moments that I saw all these things, though
@@ -150,11 +157,3 @@ character of Mr. Pumblechook’s chaise-cart. But I felt myself so
 unequal to the performance that I gave it up, and stood looking at Miss
 Havisham in what I suppose she took for a dogged manner, inasmuch as
 she said, when we had taken a good look at each other,—
-
-“Are you sullen and obstinate?”
-
-“No, ma’am, I am very sorry for you, and very sorry I can’t play just
-now. If you complain of me I shall get into trouble with my sister, so
-I would do it if I could; but it’s so new here, and so strange, and so
-fine,—and [[Melancholy|melancholy]]—.” I stopped, fearing I might say too much, or had
-already said it, and we took another look at each other.

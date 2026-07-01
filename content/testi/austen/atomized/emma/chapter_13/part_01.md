@@ -1,5 +1,5 @@
 ---
-title: "[[Emma]] — Chapter 13 (part 1)"
+title: "Emma — Chapter 13 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/emma-(austen)"
@@ -119,15 +119,3 @@ satisfaction. It was a done thing; Mr. Elton was to go, and never had
 his broad handsome face expressed more pleasure than at this moment;
 never had his smile been stronger, nor his eyes more exulting than when
 he next looked at her.
-
-“[[Well]],” said she to herself, “this is most strange!—After I had got him
-off so [[Well|well]], to chuse to go into company, and leave Harriet ill
-behind!—Most strange indeed!—But there is, I believe, in many men,
-especially single men, such an inclination—such a passion for dining
-out—a dinner engagement is so high in the class of their pleasures,
-their employments, their dignities, almost their duties, that any thing
-gives way to it—and this must be the case with Mr. Elton; a most
-valuable, amiable, pleasing young man undoubtedly, and very much in
-[[Love|love]] with Harriet; but still, he cannot refuse an invitation, he must
-dine out wherever he is asked. What a strange thing [[Love|love]] is! he can see
-ready wit in Harriet, but will not dine [[Alone|alone]] for her.”

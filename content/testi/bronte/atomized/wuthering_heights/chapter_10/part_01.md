@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 10 (part 1)"
+title: "Wuthering Heights — Chapter 10 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/works/wuthering-heights-(bronte)">Wuthering Heights</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_09/part_05">‹ part 05</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_10/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_09/part_06">‹ part 06</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_10/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -125,10 +125,3 @@ singular. I remembered the eyes.
 “What!” I cried, uncertain whether to regard him as a worldly visitor,
 and I raised my hands in amazement. “What! you come back? Is it really
 you? Is it?”
-
-“Yes, [[Heathcliff]],” he replied, glancing from me up to the windows,
-which reflected a score of glittering moons, but showed no lights from
-within. “Are they at [[Home|home]]? where is she? Nelly, you are not glad! you
-needn’t be so disturbed. Is she here? Speak! I want to have one word
-with her—your mistress. Go, and say some person from Gimmerton desires
-to see her.”

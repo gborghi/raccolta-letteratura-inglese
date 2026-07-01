@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 50 (part 2)"
+title: "Barnaby Rudge — Chapter 50 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_50/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_51/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘Sorry, Muster Gashford!’ echoed Dennis.
+
+‘In case there should be a proclamation out to-morrow, offering five
+hundred pounds, or some such trifle, for his apprehension; and in case
+it should include another man who dropped into the lobby from the stairs
+above,’ said Gashford, coldly; ‘still, do nothing.’
 
 ‘[[Fire]] and fury, master!’ cried Hugh, starting up. ‘What have we done,
 that you should talk to us like this!’

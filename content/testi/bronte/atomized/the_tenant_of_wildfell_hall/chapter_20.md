@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 20"
+title: "The Tenant of Wildfell Hall — Chapter 20"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -150,7 +150,7 @@ for you.”
 
 “Oh, I forgot, you are a saint, too. I crave your pardon, dearest—but
 
-don’t call me Mr. Huntingdon; my name is [[arthur|Arthur]].”
+don’t call me Mr. Huntingdon; my name is [[Arthur]].”
 
 
 
@@ -482,7 +482,7 @@ ingratiate himself with my aunt I cannot tell, but, if so, he certainly
 
 should have behaved better. I must confess, I did not like his conduct
 
-during service at all. Holding his [[Prayer|prayer]]-book upside down, or open at
+during service at all. Holding his [[prayer]]-book upside down, or open at
 
 any place but the right, he did nothing but stare about him, unless he
 

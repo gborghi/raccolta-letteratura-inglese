@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 24 (part 1)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 24 (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -195,9 +195,3 @@ plunged within its arms.
 
 
 I had swooned, and Peters had caught me as I fell. He had observed my
-
-proceedings from his station at the [[Bottom|bottom]] of the cliff; and,
-
-perceiving my imminent danger, had endeavoured to inspire me with
-
-[[Courage|courage]] by every suggestion he could devise; although my confusion of

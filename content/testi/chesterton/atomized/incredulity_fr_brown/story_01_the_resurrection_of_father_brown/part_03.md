@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The [[Resurrection]] of [[Father Brown]] (part 3)"
+title: "incredulity Fr Brown — The Resurrection of Father Brown (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -68,7 +68,7 @@ American, particularly different from Mr Paul Snaith. His name was John
 Adams Race, and he was an electrical engineer, employed by Mendoza to
 fit out the old town with all the new conveniences. He was a figure far
 less familiar in [[Satire|satire]] and international gossip than that of the
-American journalist. Yet, as a matter of fact, [[america|America]] contains a
+American journalist. Yet, as a matter of fact, [[America]] contains a
 million men of the moral type of Race to one of the moral type of
 Snaith. He was exceptional in being exceptionally good at his job, but
 in every other way he was very simple. He had begun life as a druggist's
@@ -103,10 +103,3 @@ only thing he had ever met in his travels that in the least reminded him
 of the old wood - pile and the provincial proprieties and the [[Bible]] on
 his mother's knee was (for some inscrutable reason) the round face and
 black clumsy umbrella of [[Father Brown]].
-
-He found himself insensibly watching that commonplace and even comic
-black figure as it went bustling about; watching it with an almost
-morbid fascination, as if it were a walking [[Riddle|riddle]] or contradiction. He
-had found something he could not help liking in the heart of everything
-he hated; it was as if he had been horribly tormented by lesser demons
-and then found that the Devil was quite an ordinary person.

@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 10: I BECOME NEGLECTED, AND AM PROVIDED FOR (part 1)"
+title: "David Copperfield — Chapter 10: I BECOME NEGLECTED, AND AM PROVIDED FOR (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -131,11 +131,3 @@ spot.
 ‘The boy will be idle there,’ said Miss Murdstone, looking into a
 pickle-jar, ‘and idleness is the root of all evil. But, to be sure, he
 would be idle here--or anywhere, in my opinion.’
-
-Peggotty had an angry answer ready, I could see; but she swallowed it
-for my sake, and remained silent.
-
-‘Humph!’ said Miss Murdstone, still keeping her eye on the pickles;
-‘it is of more importance than anything else--it is of paramount
-importance--that my brother should not be disturbed or made
-uncomfortable. I suppose I had better say yes.’

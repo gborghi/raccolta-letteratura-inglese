@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_10_the_character_of_quoodle">‹ Chapter 10 THE CHARACTER OF QUOODLE</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_12_vegetarianism_in_the_forest">Chapter 12 VEGETARIANISM IN THE FOREST ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_10_the_character_of_quoodle_quood">‹ Chapter 10 THE CHARACTER OF quoodle QUOOD</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_12_vegetarianism_in_the_forest">Chapter 12 VEGETARIANISM IN THE FOREST ›</a></div>
 </nav>
 
 

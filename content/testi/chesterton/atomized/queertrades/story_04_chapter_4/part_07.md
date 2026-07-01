@@ -1,5 +1,5 @@
 ---
-title: "[[queertrades]] — Chapter 4 (part 7)"
+title: "queertrades — Chapter 4 (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/queertrades-(chesterton)"
@@ -17,7 +17,7 @@ tags:
 "Can nothing be done to stop Basil?"  I called out.
 
 "No," answered my fellow climber.  "He's too far up.
-He must get to the top, and when he finds nothing but [[Wind|wind]] and [[Leaves|leaves]]
+He must get to the top, and when he finds nothing but wind and leaves
 he may go sane again.  Hark at him above there; you can just hear
 him talking to himself."
 
@@ -30,9 +30,9 @@ it's a known sign of the brain going."
 "Yes," I said sadly, and listened.  Basil's voice certainly was
 sounding above us, and not by any means in the rich and riotous
 tones in which he had hailed us before.  He was speaking quietly,
-and laughing every now and then, up there among the [[Leaves|leaves]] and [[Stars|stars]].
+and laughing every now and then, up there among the leaves and stars.
 
-After a [[Silence|silence]] mingled with this murmur, Rupert Grant suddenly said,
+After a silence mingled with this murmur, Rupert Grant suddenly said,
 "My God!" with a violent voice.
 
 "What's the matter--are you hurt?"  I cried, alarmed.
@@ -44,8 +44,8 @@ After a [[Silence|silence]] mingled with this murmur, Rupert Grant suddenly said
 
 "No," said Rupert simply, "he's talking to somebody else."
 
-Great branches of the elm loaded with [[Leaves|leaves]] swung about us in a
-sudden burst of [[Wind|wind]], but when it died down I could still hear
+Great branches of the elm loaded with leaves swung about us in a
+sudden burst of wind, but when it died down I could still hear
 the conversational voice above.  I could hear two voices.
 
 Suddenly from aloft came Basil's boisterous hailing voice as before:
@@ -70,15 +70,15 @@ had fallen into an attitude of marmoreal ease as if he had been
 there from boyhood; he was smoking a cigar with a slow pleasure.
 The second was Lieutenant Drummond Keith, who looked happy also,
 but feverish and doubtful compared with his granite guest.
-The third was the little bald-headed [[house]]-agent with the wild whiskers,
+The third was the little bald-headed house-agent with the wild whiskers,
 who called himself Montmorency.  The spears, the green umbrella,
-and the cavalry [[Sword|sword]] hung in parallels on the wall.  The sealed
+and the cavalry sword hung in parallels on the wall.  The sealed
 jar of strange wine was on the mantelpiece, the enormous rifle in
 the corner.  In the middle of the table was a magnum of champagne.
 Glasses were already set for us.
 
-The [[Wind|wind]] of the [[Night|night]] roared far below us, like an ocean at the foot
-of a light-[[house]]. The room stirred slightly, as a cabin might
+The wind of the night roared far below us, like an ocean at the foot
+of a light-house. The room stirred slightly, as a cabin might
 in a mild sea.
 
 Our glasses were filled, and we still sat there dazed and dumb.
@@ -98,22 +98,22 @@ is an agent for houses of this kind.  He has a special line
 in arboreal villas.  It's being kept rather quiet at present,
 because the people who want these houses don't want them to get
 too common.  But it's just the sort of thing a fellow like myself,
-racketing about in all sorts of queer corners of [[London]],
+racketing about in all sorts of queer corners of London,
 naturally knocks up against."
 
 "Are you really an agent for arboreal villas?" asked Rupert eagerly,
-recovering his ease with the [[Romance|romance]] of reality.
+recovering his ease with the romance of reality.
 
 Mr Montmorency, in his embarrassment, fingered one of his pockets
 and nervously pulled out a snake, which crawled about the table.
 
-"W-[[Well|well]], yes, sir," he said.  "The fact was--er--my people
-wanted me very much to go into the [[house]]-agency business.
-But I never cared myself for anything but natural [[history]]
+"W-well, yes, sir," he said.  "The fact was--er--my people
+wanted me very much to go into the house-agency business.
+But I never cared myself for anything but natural history
 and botany and things like that.  My poor parents have been dead
 some years now, but--naturally I like to respect their wishes.
 And I thought somehow that an arboreal villa agency was a sort of--
-of compromise between being a botanist and being a [[house]]-agent."
+of compromise between being a botanist and being a house-agent."
 
 Rupert could not help laughing.  "Do you have much custom?" he asked.
 
@@ -127,7 +127,7 @@ about any one who is sane, the sanest thing is the most likely;
 when you are guessing about any one who is, like our host,
 insane, the maddest thing is the most likely.  The second is
 to remember that very plain literal fact always seems fantastic.
-If Keith had taken a little brick box of a [[house]] in Clapham with nothing
+If Keith had taken a little brick box of a house in Clapham with nothing
 but railings in front of it and had written `The Elms' over it,
 you wouldn't have thought there was anything fantastic about that.
 Simply because it was a great blaring, swaggering lie you would

@@ -1,5 +1,5 @@
 ---
-title: "A Christmas [[carol|Carol]] — Stave 3: THE SECOND OF THE THREE SPIRITS"
+title: "A Christmas Carol — Stave 3: THE SECOND OF THE THREE SPIRITS"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/a-christmas-carol-(dickens)"

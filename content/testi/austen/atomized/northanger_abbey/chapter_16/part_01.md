@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 15 (part 1)"
+title: "Northanger Abbey — Chapter 15 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -213,13 +213,3 @@ suffer half what I have done! i am grown wretchedly thin, I know; but I
 will not [[Pain|pain]] you by describing my anxiety; you have seen enough of it.
 
 I feel that I have betrayed myself perpetually—so unguarded in speaking
-
-of my partiality for the church! but my secret I was always sure would
-
-be safe with _you_.”
-
-
-
-Catherine felt that nothing could have been safer; but ashamed of an
-
-ignorance little expected, she dared no longer contest the point, nor

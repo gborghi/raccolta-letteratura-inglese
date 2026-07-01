@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 31 (part 2)"
+title: "Jane Eyre — Chapter 31 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_31/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_31/part_03">part 03 ›</a></div>
 </nav>
 
+
+“But perhaps your accommodations—your cottage—your furniture—have
+disappointed your expectations? They are, in [[Truth|truth]], scanty enough;
+but—” I interrupted—
+
+“My cottage is clean and weather-proof; my furniture sufficient and
+commodious. All I see has made me thankful, not despondent. I am not
+absolutely such a [[Fool|fool]] and sensualist as to regret the absence of a
+carpet, a sofa, and silver plate; besides, five weeks ago I had
+nothing—I was an outcast, a beggar, a vagrant; now I have acquaintance,
+a [[Home|home]], a business. I [[Wonder|wonder]] at the goodness of God; the generosity of
+my friends; the bounty of my lot. I do not repine.”
 
 “But you feel [[Solitude|solitude]] an oppression? The little [[house]] there behind you
 is dark and empty.”
@@ -43,7 +55,7 @@ rougher than it.
 “A year ago I was myself intensely miserable, because I thought I had
 made a mistake in entering the ministry: its uniform duties wearied me
 to [[Death|death]]. I burnt for the more active life of the world—for the more
-exciting toils of a literary career—for the destiny of an [[Artist|artist]],
+exciting toils of a literary career—for the destiny of an [[artist]],
 author, orator; anything rather than that of a priest: yes, the heart
 of a politician, of a soldier, of a votary of glory, a [[Lover|lover]] of renown,
 a luster after power, beat under my curate’s surplice. I considered; my
@@ -107,18 +119,3 @@ I looked at this fair creature: I admired her with my whole heart.
 [[Nature]] had surely formed her in a partial mood; and, forgetting her
 usual stinted step-mother dole of gifts, had endowed this, her darling,
 with a grand-dame’s bounty.
-
-What did St. John Rivers think of this earthly angel? I naturally asked
-myself that question as I saw him turn to her and look at her; and, as
-naturally, I sought the answer to the inquiry in his countenance. He
-had already withdrawn his eye from the Peri, and was looking at a
-humble tuft of daisies which grew by the wicket.
-
-“A lovely evening, but late for you to be out [[Alone|alone]],” he said, as he
-crushed the snowy heads of the closed [[Flowers|flowers]] with his foot.
-
-“Oh, I only came [[Home|home]] from S——” (she mentioned the name of a large town
-some twenty miles distant) “this afternoon. Papa told me you had opened
-your school, and that the new mistress was come; and so I put on my
-bonnet after tea, and ran up the valley to see her: this is she?”
-pointing to me.

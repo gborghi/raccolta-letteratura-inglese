@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 9 (part 4)"
+title: "Martin Chuzzlewit — Chapter 9 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_09/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_09/part_05">part 05 ›</a></div>
 </nav>
 
+
+‘Visitors for Miss Pinch!’ said the footman. He must have been
+an ingenious young man, for he said it very cleverly; with a nice
+discrimination between the cold respect with which he would have
+announced visitors to the family, and the warm personal interest with
+which he would have announced visitors to the cook.
 
 ‘Visitors for Miss Pinch!’
 
@@ -121,19 +127,3 @@ might be supposed to lie) from the first. Mrs Todgers vowed that
 anything one quarter so angelic she had never seen. ‘She wanted but
 a pair of wings, a dear,’ said that good woman, ‘to be a young
 syrup’--meaning, possibly, young sylph, or seraph.
-
-‘If you will give that to your distinguished parents, my amiable little
-friend,’ said Mr Pecksniff, producing one of his professional cards,
-‘and will say that I and my daughters--’
-
-‘And Mrs Todgers, pa,’ said Merry.
-
-‘And Mrs Todgers, of [[London]],’ added Mr Pecksniff; ‘that I, and my
-daughters, and Mrs Todgers, of [[London]], did not intrude upon them, as our
-object simply was to take some notice of Miss Pinch, whose brother is a
-young man in my employment; but that I could not leave this very chaste
-mansion, without adding my humble tribute, as an Architect, to
-the correctness and elegance of the owner’s taste, and to his just
-appreciation of that beautiful art to the cultivation of which I have
-devoted a life, and to the promotion of whose glory and advancement I
-have sacrified a--a fortune--I shall be very much obliged to you.’

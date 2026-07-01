@@ -1,5 +1,5 @@
 ---
-title: "The [[history|History]] of [[King Lear]] (Quarto Text) — Scene 2 — monologue ([[Edmund|EDMUND]]) [2]"
+title: "The History of King Lear (Quarto Text) — Scene 2 — monologue (EDMUND) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-history-of-king-lear---the-quarto-text-(shakespeare)"

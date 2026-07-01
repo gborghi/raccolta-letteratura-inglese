@@ -1,5 +1,5 @@
 ---
-title: "[[TheAppOfTyranny]] — Chapter 1 (part 2)"
+title: "TheAppOfTyranny — Chapter 1 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/theappoftyranny-(chesterton)"
@@ -14,6 +14,12 @@ tags:
 </nav>
 
 
+ships without seamanship. This person, whom I may call the Positive
+
+Barbarian, must be rather more superficially up-to-date than what I may
+
+call the Negative Barbarian. Alaric was an officer in the Roman legions:
+
 but for all that he destroyed Rome. Nobody supposes that Eskimos could have
 
 done it at all neatly. But (in our meaning) barbarism is not a matter of
@@ -23,8 +29,6 @@ methods but of aims. We say that these veneered vandals have the perfectly
 serious aim of destroying certain ideas which, as they think, the world has
 
 outgrown; without which, as we think, the world will die.
-
-
 
 It is essential that this perilous peculiarity in the Pruss, or Positive
 
@@ -70,8 +74,6 @@ first is the idea of record and promise: the second is the idea of
 
 reciprocity.
 
-
-
 It is plain that the promise, or extension of responsibility through [[Time|time]],
 
 is what chiefly distinguishes us, I will not say from savages, but from
@@ -106,8 +108,6 @@ from a successful revolution to a return ticket. On that solitary string
 
 the Barbarian is hacking heavily, with a sabre which is fortunately blunt.
 
-
-
 Any one can see this [[Well|well]] enough, merely by reading the last negotiations
 
 between [[London]] and Berlin. The Prussians had made a new discovery in
@@ -131,8 +131,6 @@ of Prussia was quite sincere. That is what I mean when I say that the
 Barbarian is trying to cut away that cord of honesty and clear record, on
 
 which hangs all that men have made.
-
-
 
 The friends of the German cause have complained that Asiatics and Africans
 

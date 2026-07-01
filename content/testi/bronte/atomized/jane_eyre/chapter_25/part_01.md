@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 25 (part 1)"
+title: "Jane Eyre — Chapter 25 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/works/jane-eyre-(bronte)">Jane Eyre</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_24/part_06">‹ part 06</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_25/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_24/part_07">‹ part 07</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_25/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -107,13 +107,3 @@ brought in ready for lighting. More restless than ever, when I had
 completed these arrangements I could not sit still, nor even remain in
 the [[house]]: a little [[Time|time]]-piece in the room and the old [[Clock|clock]] in the
 hall simultaneously struck ten.
-
-“How late it grows!” I said. “I will run down to the gates: it is
-moonlight at intervals; I can see a good way on the [[Road|road]]. He may be
-coming now, and to meet him will save some minutes of suspense.”
-
-The [[Wind|wind]] roared high in the great trees which embowered the gates; but
-the [[Road|road]] as far as I could see, to the right hand and the left, was all
-still and solitary: save for the shadows of clouds crossing it at
-intervals as the [[Moon|moon]] looked out, it was but a long pale line, unvaried
-by one moving speck.

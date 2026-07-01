@@ -1,5 +1,5 @@
 ---
-title: "[[TheCrimesOfEngland]] — Chapter 10 (part 7)"
+title: "TheCrimesOfEngland — Chapter 10 (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thecrimesofengland-(chesterton)"
@@ -14,6 +14,40 @@ tags:
 </nav>
 
 
+limited in a domestic rather than a national sense, firm in the ancient
+
+[[Faith|faith]] at which all her own courtiers were sneering, and as brave as a
+
+young lioness. Frederick hated her as he hated everything German and
+
+everything good. He sets forth in his own memoirs, with that clearness
+
+which adds something almost superhuman to the mysterious vileness of his
+
+character, how he calculated on her youth, her inexperience and her lack
+
+of friends as proof that she could be despoiled with safety. He invaded
+
+Silesia in advance of his own declaration of war (as if he had run on
+
+ahead to say it was coming) and this new anarchic trick, combined with
+
+the corruptibility of nearly all the other courts, left him after the
+
+two Silesian wars in possession of the stolen goods. But [[Maria]] Theresa
+
+had refused to submit to the immorality of nine points of the law. By
+
+appeals and concessions to France, [[Russia]], and other powers, she
+
+contrived to create something which, against the atheist innovator even
+
+in that atheist age, stood up for an instant like a spectre of the
+
+[[Crusades]]. Had that Crusade been universal and whole-hearted, the great
+
+new precedent of mere force and fraud would have been broken; and the
+
 whole appalling judgment which is fallen upon Christendom would have
 
 passed us by. But the other Crusaders were only half in earnest for
@@ -27,8 +61,6 @@ his adamantine impudence endure for ever. The allies he found were the
 English. It is not pleasant for an Englishman to have to write the
 
 words.
-
-
 
 This was the first act of the [[Tragedy|tragedy]], and with it we may leave
 
@@ -56,17 +88,7 @@ and the trumpet of the [[Resurrection|resurrection]] of the peoples should be bl
 
 Warsaw to the western isles.
 
-
-
-
-
-
-
 III--_The Enigma of Waterloo_
-
-
-
-
 
 That great Englishman Charles Fox, who was as national as Nelson, went
 
@@ -159,45 +181,3 @@ trend of the French emancipation should be reversed. It is impossible to
 deny, therefore, that what the united Germanics were resolved to destroy
 
 was the [[Reform|reform]] and not even the Revolution. The part which Joseph of
-
-Austria played in the matter is symbolic. For he was what is called an
-
-enlightened despot, which is the worst kind of despot. He was as
-
-irreligious as Frederick the Great, but not so disgusting or amusing.
-
-The old and kindly Austrian family, of which [[Maria]] Theresa was the
-
-affectionate mother, and Marie Antoinette the rather uneducated
-
-daughter, was already superseded and summed up by a rather dried-up
-
-young man [[Self|self]]-schooled to a Prussian efficiency. The needle is already
-
-veering northward. Prussia is already beginning to be the captain of the
-
-Germanics "in shining armour." Austria is already becoming a loyal
-
-_sekundant_.
-
-
-
-But there still remains one great difference between Austria and Prussia
-
-which developed more and more as the energy of the young Napoleon was
-
-driven like a wedge between them. The difference can be most shortly
-
-stated by saying that Austria did, in some blundering and barbaric way,
-
-care for Europe; but Prussia cared for nothing but Prussia. Austria is
-
-not a nation; you cannot really find Austria on the map. But Austria is
-
-a kind of Empire; a Holy Roman Empire that never came, an expanding and
-
-contracting-dream. It does feel itself, in a vague patriarchal way, the
-
-leader, not of a nation, but of nations. It is like some dying Emperor
-
-of Rome in the decline; who should admit that the legions had been

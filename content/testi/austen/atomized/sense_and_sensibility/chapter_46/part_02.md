@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 46 (part 2)"
+title: "Sense and Sensibility — Chapter 46 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_46/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_46/part_03">part 03 ›</a></div>
 </nav>
 
+
+and spoke with more genuine spirit, anticipating the pleasure of
+
+Margaret’s return, and talking of the dear family party which would
 
 then be restored, of their mutual pursuits and cheerful society, as the
 
@@ -231,11 +235,3 @@ myself by such negligence of my own health, as I had felt even at the
 did not know my danger till the danger was removed; but with such
 
 feelings as these reflections gave me, I [[Wonder|wonder]] at my recovery,—[[Wonder|wonder]]
-
-that the very eagerness of my [[Desire|desire]] to live, to have [[Time|time]] for
-
-atonement to my God, and to you all, did not kill me at once. Had I
-
-died, in what peculiar misery should I have left you, my [[Nurse|nurse]], my
-
-friend, my sister! You, who had seen all the fretful selfishness of my

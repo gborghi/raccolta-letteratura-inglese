@@ -1,5 +1,5 @@
 ---
-title: "[[history]] — Chapter 17"
+title: "history — Chapter 17"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/history-(chesterton)"
@@ -93,8 +93,8 @@ very definite bodies of the working classes; and it so struck
 the balance between the conservative and the dangerous elements in the
 commonwealth that the governing class was rather stronger than before.
 The date, however, is important, not at all because it was the beginning
-of [[Democracy|democracy]], but because it was the beginning of the best way
-ever discovered of evading and postponing [[Democracy|democracy]].  Here enters
+of [[democracy]], but because it was the beginning of the best way
+ever discovered of evading and postponing [[democracy]].  Here enters
 the homeopathic treatment of revolution, since so often successful.
 [[Well]] into the next generation Disraeli, the brilliant Jewish adventurer
 who was the symbol of the English aristocracy being no longer genuine,

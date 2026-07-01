@@ -14,103 +14,122 @@ tags:
 </nav>
 
 
-XXVI.  On the Laureateship
+XXV.  On the [[Renaissance]]
 
-IT is often said that the office of Poet Laureate is not fitted
-to our times.  This is true; it is perhaps the most compact
-condemnation of our times.  If we want to know exactly
-what is really lacking in current culture, we had better ask
-why it cannot support the idea of a real Poet Laureate.
-It is enough merely to look at the words which make up the title.
-Whenever it is suggested that some little modern man of letters,
-in a tail-coat and trousers, should be solemnly presented
-with a [[Crown]] of Laurel, everybody laughs, as if it were a joke.
-But it is not the laurel, but the little man, that is a joke.
-It is not the wreath of [[Leaves|leaves]], the lines of which are still as free
-and rhythmic and adapted to decoration as when they decorated a hundred
-marble monuments or golden frescoes; it is not the wreath that
-is ridiculous.  It is the tail-coat and trousers it is the Modern Man;
-it is the Spirit of Our [[Time]], to which the Laureateship is,
-we have agreed, so unsuited.  As is the Laurel to modern dress,
-so is the Laureateship to modern manners.  Nobody sees anything silly
-in those [[Leaves|leaves]] when they cluster round the hood of some bust of [[Dante]].
-Nobody saw anything silly in them when, at the high moment of the
-medieval [[Renaissance|renaissance]], they were bound about the brows of Petrarch.
-It was partly that the same scheme of decoration, more or less
-unconsciously, ran through the whole world of costume and ornament.
-It was much more because, in those dim and barbarous ages,
-people did not think it undignified to be dignified.
-They were so strangely constituted that they laughed at ugly things,
-and not only at beautiful things.  A gentleman who wished to be stared
-at or admired dressed in purple and cloth of gold, trailing trappings
-that went in great curves like those of a comet or a cataract.
-With such fashions a [[Crown|crown]] was actually a [[Crown|crown]]; it crowned the edifice;
-it was a crest or culmination of lines rising to and demanding such
-a diadem.  Nowadays, by the tradition of the nineteenth century,
-a gentle man dresses like a comic waiter in a third-rate farce,
-and is surprised that the bay-wreath looks [[Grotesque|grotesque]] on his head.
-But it is not the bay-wreath that looks [[Grotesque|grotesque]].
+IN Rome a man feels suddenly the [[Paradox|paradox]] of the [[Renaissance]].
+It was a Christian miracle if it called up a Pagan god.  It was in
+itself a Christian notion that, if the dead could return, they would
+not be shadows from Hades, but human beings from Heaven or Hell.
+But as a fact, of course, the god who [[Rose|rose]] again was not pagan.
+He could not be, since he was carved by Christians, even by bad
+and blasphemous Christians.  Something that had not been in heathen
+antiquity had entered the very [[Blood|blood]] and bones of the human race;
+and it entered equally into the stone and clay of all that the human
+race could make.  Without it, even the worst of men would now have felt
+suddenly cold and strange, like fishes, or, rather, like fossils.
+To be a Greek god was as impossible as to be a fossil, though both
+might be beautiful mouldings or even beautiful models in stone.
+To be completely heathen was no longer to be completely human.
 
-That is a [[Parable|parable]] of the whole practical problem.
-And it always is a problem, whether it is worth while to keep
-the habit when it no longer makes the monk, or one small rag torn
-from the habit when the monk no longer knows how to make himself.
-The psychology of the Laureateship, dating as it does from
-the days when Petrarch was crowned with laurel, implies a number
-of things not now vivid to any very large number of people.
-It implies the notion of a crowd being excited but quite serious:
-like devotees before a sacrament or children before a fairy-play.
-There is still a certain kind of popular enthusiasm, but it is not
-an enthusiasm for enthusiasts.  It might almost be called an affection
-for anti-enthusiasts; an affection for mockers and cynics and artists
-in the antic view of life.  They might be as much thrilled by meeting
-Charlie Chaplin as any medieval Italians by meeting Petrarch.
-But though they might be cheering without jeering, they would
-be cheering somebody who jeers:  who jeers admirably at himself
-and this wicked world.  Nobody can expect that sort of popular
-[[Artist|artist]] to wear a laurel round his remarkable bowler hat.
-But it has been possible, and it will be possible again,
-for the public to rejoice seriously, and even solemnly.
-In those older days the very word `solemn' went with the word `joyous';
-and `a high solemnity' was almost always an affair of dancing
-and junketing.  A modern crowd would cheer the critical faculty,
-as in Mr. Chaplin; it would not cheer the creative faculty, as in Dante.
-And unless we keep the idea of a high solemnity, or public function
-of state, like the famous scene of the tribute to Petrarch,
-there is indeed little point in keeping merely an office and a name.
-As we do not preserve the coronation it may seem idle to preserve
-the crown.  Nevertheless, if there were a crown, I think I should
-preserve it--among the Crown Jewels.  I should not attach any man
-to it, but leave it there and wait for better times.
+The examples are obvious.  Many people must have pointed out that
+Michelangelo was really more like [[Michael]] the Angel than [[Apollo]]
+the Archer.  It was not for nothing that his very name is Hebrew
+and Greek as [[Well|well]] as Italian.  Every one must have noticed that
+there is, in some mysterious way, more colour in the monochrome
+marbles and bronzes of the [[Renaissance]] than in many of the cold,
+clay-like pigments that were called colours in the pagan houses
+of Pompeii.  Even where the work is materially a matter of light
+and shade, it is not something put down in black and white:
+the light is richer and the [[Shadow|shadow]] glows.  Of course, a great part
+of the problem here is connected with modern religious controversies.
+Because modern pagans wanted to go back to paganism, in the sense
+of destroying [[Christianity]], they said that the sixteenth-century
+artists wanted it too, though there was not one of them that would
+not have drawn a [[Sword|sword]] or dagger and destroyed the critic who told
+him that he wanted to destroy the [[Cross]].  Benvenuto Cellini would
+have been as prompt as Giotto; for the Christian Church is not made
+for good men, but for men.
 
-For my part, though I have indulged in any amount of buffoonery,
-I regret the new and solitary pre-eminence of the buffoon.
-I regret the fact that the new popular hero must not be heroic
-as well as popular.  He must not receive from the State a serious
-tribute for revealing a serious truth.  When, for the moment,
-the most intelligent art is the most flippant art, it will mean
-a certain abdication of the old claims of the artist.  But it may mean
-worse things than that.  When people begin to ignore human dignity,
-it will not be long before they begin to ignore human rights.
-The pagan state, in which the artist is only a buffoon, will soon
-resemble the ancient pagan state in which he was only a slave.
-I am all for playing the goat; I am charitably disposed even
-to those enacting the funny dog; I have myself appeared more
-than once in public in the character of a performing elephant.
-But if we allow the Image of Man to fade away altogether in these
-animal antics, if it vanishes amid mere mockery and scepticism, the human
-being will find himself something very much worse than fair game.
-He may ultimately be tethered like the goat, or chained up like the dog,
-or ridden and prodded like the elephant.
+The difficulty of [[history]] is that historians seldom see the simple things,
+or even the obvious things, because they are too simple and obvious.
+It is sometimes said of the pictures of the [[Renaissance]] artists,
+especially of the pictures of Rubens, that we ought to stand
+far back in order to take in the whole stupendous design,
+and not be annoyed because some detail is technically careless
+or emotionally coarse.  It is probably true of more than one
+[[Renaissance]] picture of the [[Resurrection]]; and it is certainly true
+of that general [[Resurrection]] that is called the [[Renaissance]].
+There has been too much bickering over bits of the astonishing business;
+too much casuistry about whether this or that painter in this
+or that point surrendered to heathenism, or merely to human [[Nature|nature]].
+The whole story consists of two staggering truths.  First, that these
+men did really raise the dead.  They did call up all heathenism,
+which might seem about as safe as calling up all hell.
+And, second, that they did really in a manner [[convert]] and christen
+the dead; that they did baptize all that bodily manifestation
+and materialization into the [[Body|body]] of [[Christ]].  Even when it had been
+and was no more, it did become something that it had not been.
+They paraded before the world a wild hypothetical pageant of what
+old Greece and Rome would have been if they had not been pagan.
+To do this with any dead society is an amazing achievement.
+To copy the old [[Body|body]] in any case is amazing; to copy the old [[Body|body]],
+and also put in a new [[Soul|soul]], is amazing beyond praise, beyond question,
+and certainly beyond quibbling.  The fact is so familiar that it
+has ceased to amaze; the only chance of conveying it would be
+to take some fantastic parallel in modern and ancient things.
+We should be mildly surprised to hear that the English in [[Egypt]]
+had reconstructed for themselves the ancient Egyptian civilization;
+that all the proclamations of Lord Lloyd had been carved on obelisks
+in Egyptian hieroglyphics; that Lord Cromer had been preserved on
+the premises in the form of a mummy; or that Lord Kitchener at Cairo
+had religiously gone the round of worshipping a series of stuffed cats.
+But we should be surprised, with something less of mildness, if we were
+told that all this was done in such a way as to cause no embarrassment,
+or even amusement, to the English gentlemen who were doing it;
+and who managed to do it without the least sense that their code
+of manners was altered, or that their religion, when they had any,
+was [[Suffering|suffering]] neglect.  Just as it would be a remarkable thing
+for men to become ancient Egyptians and yet remain modern Englishmen,
+so it was a remarkable thing when these men became ancient Greeks
+and yet remained medieval Christians.
 
-The man who has exhibited himself--as in so much of modern prose
-and verse--in every attitude of abject and dishonourable ignominy will
-find it very much harder to spring up straight of a sudden and defend
-his honour, if his real intellectual and spiritual honour is attacked.
-Among the old ways of preserving this sense of honour was the system
-of honours; and, though most of them are now pretty thoroughly
-dishonoured, nobody suggests that the Poet Laureateship has been sold.
-Anyhow, among the wider ways of doing it was what may be called
-the Pageant of Poetry; the public acknowledgment of the Poet,
-`to whom the high gods gave of right their thunders and their laurels
-and their light'.
+There are many morals to the story; but one must be manifest in
+the mere word I have used.  If the medieval religion had really been
+such a silly superstition as some of its simpler enemies represent,
+it quite certainly would have been swallowed up for ever in
+such an earthquake of enlightenment as the great [[Renaissance]].
+The fact that the vision of a superb and many-sided human culture
+did not disturb the fundamental ideas of these late medieval
+Christians has a simple explanation:  that the ideas are true.
+The application of these true ideas in medieval times had been
+very much hampered by local ignorance and feudal prejudice.
+But the truths were so true that they would have survived,
+in really thinking men, through ten Renaissances and twenty Revivals
+of Learning.  We see this vividly in the intensely intellectual
+character of the religious conviction in men like Michelangelo
+and even Leonardo da Vinci.  Nobody knew better than they that
+[[Christianity]] is really wiser, and even wider, than Paganism;
+that [[aquinas|Aquinas]] was not only better but broader than Aristotle.
+Not from such men came the clumsy denials of the deep dogmas of
+the [[Faith]].  Michelangelo was not the man to dispute that the truly
+divine humanity would be crucified; nor could Raphael be reckoned
+on for a breezy protest against the respect felt for the Madonna.
+But if the whole thing had been a dirty asceticism of the [[Desert|desert]],
+the mere monkey tricks of the Manichees, it would have fallen like
+filthy rags from men who had seen the grace of the Greek athletes.
+If it had been only a worship of dolls with tinsel crowns,
+it would have looked a paltry and pygmy affair in the presence
+of the great head of Jupiter.  But the real men of the [[Renaissance]]
+knew that, as a matter of fact, there was much more humanity
+in the rules for the brethren gathered by St. Francis than
+in the rules for the boys beaten before the altar of [[Diana]];
+and that, as a matter of fact, the Church had a much more logical
+idea about the exact position of Jesus in Heaven than the heathens
+had ever had about the exact position of Jupiter on Olympus.
+It was the intellectual value of the creed that preserved it through
+any revolution of aesthetic values, just as it preserves it still
+amid the wildest changes in aesthetic taste to-day. Michelangelo
+went on being a Christian then, just as Mr. Eric Gill goes on being
+a Christian now, because a man may be original without being
+separated from the origins; and because a man may be able to think,
+even if he can also draw.

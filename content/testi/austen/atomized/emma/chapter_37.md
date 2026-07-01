@@ -1,5 +1,5 @@
 ---
-title: "[[Emma]] — Chapter 18"
+title: "Emma — Chapter 1"
 author: "Austen"
 unitType: chapter
 parentWork: "works/emma-(austen)"
@@ -14,296 +14,124 @@ tags:
 </nav>
 
 
-CHAPTER XVIII
+VOLUME III
+CHAPTER I
 
 
-“I [[Hope|hope]] I shall soon have the pleasure of introducing my son to you,”
-said Mr. Weston.
+A very little quiet reflection was enough to satisfy [[Emma]] as to the
+[[Nature|nature]] of her agitation on hearing this news of [[Frank Churchill]]. She
+was soon convinced that it was not for herself she was feeling at all
+apprehensive or embarrassed; it was for him. Her own attachment had
+really subsided into a mere nothing; it was not worth thinking of;—but
+if he, who had undoubtedly been always so much the most in [[Love|love]] of the
+two, were to be returning with the same warmth of sentiment which he
+had taken away, it would be very distressing. If a separation of two
+months should not have cooled him, there were dangers and evils before
+her:—caution for him and for herself would be necessary. She did not
+mean to have her own affections entangled again, and it would be
+incumbent on her to avoid any encouragement of his.
 
-Mrs. Elton, very willing to suppose a particular compliment intended
-her by such a [[Hope|hope]], smiled most graciously.
+She wished she might be able to keep him from an absolute declaration.
+That would be so very painful a conclusion of their present
+acquaintance! and yet, she could not help rather anticipating something
+decisive. She felt as if the [[Spring|spring]] would not pass without bringing a
+crisis, an event, a something to alter her present composed and
+tranquil state.
 
-“You have heard of a certain [[Frank Churchill]], I presume,” he
-continued—“and know him to be my son, though he does not bear my name.”
+It was not very long, though rather longer than Mr. Weston had
+foreseen, before she had the power of forming some opinion of Frank
+Churchill’s feelings. The Enscombe family were not in town quite so
+soon as had been imagined, but he was at Highbury very soon afterwards.
+He rode down for a couple of hours; he could not yet do more; but as he
+came from Randalls immediately to Hartfield, she could then exercise
+all her quick observation, and speedily determine how he was
+influenced, and how she must act. They met with the utmost
+friendliness. There could be no [[Doubt|doubt]] of his great pleasure in seeing
+her. But she had an almost instant [[Doubt|doubt]] of his caring for her as he
+had done, of his feeling the same tenderness in the same degree. She
+watched him [[Well|well]]. It was a clear thing he was less in [[Love|love]] than he had
+been. Absence, with the conviction probably of her indifference, had
+produced this very natural and very desirable effect.
 
-“Oh! yes, and I shall be very happy in his acquaintance. I am sure Mr.
-Elton will lose no [[Time|time]] in calling on him; and we shall both have great
-pleasure in seeing him at the Vicarage.”
+He was in high spirits; as ready to talk and laugh as ever, and seemed
+delighted to speak of his former visit, and recur to old stories: and
+he was not without agitation. It was not in his calmness that she read
+his comparative indifference. He was not calm; his spirits were
+evidently fluttered; there was restlessness about him. Lively as he
+was, it seemed a liveliness that did not satisfy himself; but what
+decided her belief on the subject, was his staying only a quarter of an
+hour, and hurrying away to make other calls in Highbury. “He had seen a
+group of old acquaintance in the street as he passed—he had not
+stopped, he would not stop for more than a word—but he had the [[Vanity|vanity]]
+to think they would be disappointed if he did not call, and much as he
+wished to stay longer at Hartfield, he must hurry off.” She had no
+[[Doubt|doubt]] as to his being less in [[Love|love]]—but neither his agitated spirits,
+nor his hurrying away, seemed like a perfect cure; and she was rather
+inclined to think it implied a dread of her returning power, and a
+discreet resolution of not trusting himself with her long.
 
-“You are very obliging.—Frank will be extremely happy, I am sure.— He
-is to be in town next week, if not sooner. We have notice of it in a
-letter to-day. I met the letters in my way this morning, and seeing my
-son’s hand, presumed to open it—though it was not directed to me—it was
-to Mrs. Weston. She is his principal correspondent, I assure you. I
-hardly ever get a letter.”
+This was the only visit from [[Frank Churchill]] in the course of ten days.
+He was often hoping, intending to come—but was always prevented. His
+aunt could not bear to have him leave her. Such was his own account at
+Randall’s. If he were quite sincere, if he really tried to come, it was
+to be inferred that Mrs. Churchill’s removal to [[London]] had been of no
+service to the wilful or nervous part of her disorder. That she was
+really ill was very certain; he had declared himself convinced of it,
+at Randalls. Though much might be fancy, he could not [[Doubt|doubt]], when he
+looked back, that she was in a weaker state of health than she had been
+half a year ago. He did not believe it to proceed from any thing that
+care and medicine might not remove, or at least that she might not have
+many years of existence before her; but he could not be prevailed on,
+by all his father’s doubts, to say that her complaints were merely
+imaginary, or that she was as strong as ever.
 
-“And so you absolutely opened what was directed to her! Oh! Mr.
-Weston—(laughing affectedly) I must protest against that.—A most
-dangerous precedent indeed!—I beg you will not let your neighbours
-follow your example.—Upon my word, if this is what I am to expect, we
-married women must begin to exert ourselves!—Oh! Mr. Weston, I could
-not have believed it of you!”
+It soon appeared that [[London]] was not the place for her. She could not
+endure its noise. Her nerves were under continual irritation and
+[[Suffering|suffering]]; and by the ten days’ end, her nephew’s letter to Randalls
+communicated a change of plan. They were going to remove immediately to
+Richmond. Mrs. Churchill had been recommended to the medical skill of
+an eminent person there, and had otherwise a fancy for the place. A
+ready-furnished [[house]] in a favourite spot was engaged, and much benefit
+expected from the change.
 
-“Aye, we men are sad fellows. You must take care of yourself, Mrs.
-Elton.—This letter tells us—it is a short letter—written in a hurry,
-merely to give us notice—it tells us that they are all coming up to
-town directly, on Mrs. Churchill’s account—she has not been [[Well|well]] the
-whole [[Winter|winter]], and thinks Enscombe too cold for her—so they are all to
-move southward without loss of [[Time|time]].”
+[[Emma]] heard that Frank wrote in the highest spirits of this arrangement,
+and seemed most fully to appreciate the blessing of having two months
+before him of such near neighbourhood to many dear friends—for the
+[[house]] was taken for May and June. She was told that now he wrote with
+the greatest confidence of being often with them, almost as often as he
+could even wish.
 
-“Indeed!—from Yorkshire, I think. Enscombe is in Yorkshire?”
+[[Emma]] saw how Mr. Weston understood these joyous prospects. He was
+considering her as the source of all the happiness they offered. She
+hoped it was not so. Two months must bring it to the proof.
 
-“Yes, they are about one hundred and ninety miles from [[London]], a
-considerable [[Journey|journey]].”
+Mr. Weston’s own happiness was indisputable. He was quite delighted. It
+was the very circumstance he could have wished for. Now, it would be
+really having Frank in their neighbourhood. What were nine miles to a
+young man?—An hour’s ride. He would be always coming over. The
+difference in that respect of Richmond and [[London]] was enough to make
+the whole difference of seeing him always and seeing him never. Sixteen
+miles—nay, eighteen—it must be full eighteen to Manchester-street—was a
+serious obstacle. Were he ever able to get away, the day would be spent
+in coming and returning. There was no comfort in having him in [[London]];
+he might as [[Well|well]] be at Enscombe; but Richmond was the very distance for
+easy intercourse. Better than nearer!
 
-“Yes, upon my word, very considerable. Sixty-five miles farther than
-from Maple Grove to [[London]]. But what is distance, Mr. Weston, to people
-of large fortune?—You would be amazed to hear how my brother, Mr.
-Suckling, sometimes flies about. You will hardly believe me—but twice
-in one week he and Mr. Bragge went to [[London]] and back again with four
-horses.”
+One good thing was immediately brought to a certainty by this
+removal,—the ball at the [[Crown]]. It had not been forgotten before, but
+it had been soon acknowledged vain to attempt to fix a day. Now,
+however, it was absolutely to be; every preparation was resumed, and
+very soon after the Churchills had removed to Richmond, a few lines
+from Frank, to say that his aunt felt already much better for the
+change, and that he had no [[Doubt|doubt]] of being able to join them for
+twenty-four hours at any given [[Time|time]], induced them to name as early a
+day as possible.
 
-“The evil of the distance from Enscombe,” said Mr. Weston, “is, that
-Mrs. Churchill, _as_ _we_ _understand_, has not been able to leave the
-sofa for a week together. In Frank’s last letter she complained, he
-said, of being too weak to get into her conservatory without having
-both his arm and his uncle’s! This, you know, speaks a great degree of
-weakness—but now she is so impatient to be in town, that she means to
-[[Sleep|sleep]] only two nights on the [[Road|road]].—So Frank writes word. Certainly,
-delicate ladies have very extraordinary constitutions, Mrs. Elton. You
-must grant me that.”
+Mr. Weston’s ball was to be a real thing. A very few to-morrows stood
+between the young people of Highbury and happiness.
 
-“No, indeed, I shall grant you nothing. I always take the part of my
-own sex. I do indeed. I give you notice—You will find me a formidable
-antagonist on that point. I always stand up for women—and I assure you,
-if you knew how Selina feels with respect to sleeping at an inn, you
-would not [[Wonder|wonder]] at Mrs. Churchill’s making incredible exertions to
-avoid it. Selina says it is quite horror to her—and I believe I have
-caught a little of her nicety. She always travels with her own sheets;
-an excellent precaution. Does Mrs. Churchill do the same?”
-
-“Depend upon it, Mrs. Churchill does every thing that any other fine
-lady ever did. Mrs. Churchill will not be second to any lady in the
-land for”—
-
-Mrs. Elton eagerly interposed with,
-
-“Oh! Mr. Weston, do not mistake me. Selina is no fine lady, I assure
-you. Do not run away with such an idea.”
-
-“Is not she? Then she is no rule for Mrs. Churchill, who is as thorough
-a fine lady as any [[Body|body]] ever beheld.”
-
-Mrs. Elton began to think she had been wrong in disclaiming so warmly.
-It was by no means her object to have it believed that her sister was
-_not_ a fine lady; perhaps there was want of spirit in the pretence of
-it;—and she was considering in what way she had best retract, when Mr.
-Weston went on.
-
-“Mrs. Churchill is not much in my good graces, as you may suspect—but
-this is quite between ourselves. She is very fond of Frank, and
-therefore I would not speak ill of her. Besides, she is out of health
-now; but _that_ indeed, by her own account, she has always been. I
-would not say so to every [[Body|body]], Mrs. Elton, but I have not much [[Faith|faith]]
-in Mrs. Churchill’s illness.”
-
-“If she is really ill, why not go to Bath, Mr. Weston?—To Bath, or to
-Clifton?”
-
-“She has taken it into her head that Enscombe is too cold for her. The
-fact is, I suppose, that she is tired of Enscombe. She has now been a
-longer [[Time|time]] stationary there, than she ever was before, and she begins
-to want change. It is a retired place. A fine place, but very retired.”
-
-“Aye—like Maple Grove, I dare say. Nothing can stand more retired from
-the [[Road|road]] than Maple Grove. Such an immense plantation all round it! You
-seem shut out from every thing—in the most complete retirement.—And
-Mrs. Churchill probably has not health or spirits like Selina to enjoy
-that sort of seclusion. Or, perhaps she may not have resources enough
-in herself to be qualified for a country life. I always say a woman
-cannot have too many resources—and I feel very thankful that I have so
-many myself as to be quite independent of society.”
-
-“Frank was here in February for a fortnight.”
-
-“So I remember to have heard. He will find an _addition_ to the society
-of Highbury when he comes again; that is, if I may presume to call
-myself an addition. But perhaps he may never have heard of there being
-such a creature in the world.”
-
-This was too loud a call for a compliment to be passed by, and Mr.
-Weston, with a very good grace, immediately exclaimed,
-
-“My dear madam! Nobody but yourself could imagine such a thing
-possible. Not heard of you!—I believe Mrs. Weston’s letters lately have
-been full of very little else than Mrs. Elton.”
-
-He had done his duty and could return to his son.
-
-“When Frank left us,” continued he, “it was quite uncertain when we
-might see him again, which makes this day’s news doubly welcome. It has
-been completely unexpected. That is, _I_ always had a strong [[Persuasion|persuasion]]
-he would be here again soon, I was sure something favourable would turn
-up—but nobody believed me. He and Mrs. Weston were both dreadfully
-desponding. ‘How could he contrive to come? And how could it be
-supposed that his uncle and aunt would spare him again?’ and so forth—I
-always felt that something would happen in our favour; and so it has,
-you see. I have observed, Mrs. Elton, in the course of my life, that if
-things are going untowardly one month, they are sure to mend the next.”
-
-“Very true, Mr. Weston, perfectly true. It is just what I used to say
-to a certain gentleman in company in the days of courtship, when,
-because things did not go quite right, did not proceed with all the
-rapidity which suited his feelings, he was apt to be in [[Despair|despair]], and
-exclaim that he was sure at this rate it would be _May_ before Hymen’s
-saffron robe would be put on for us. Oh! the pains I have been at to
-dispel those gloomy ideas and give him cheerfuller views! The
-carriage—we had disappointments about the carriage;—one morning, I
-remember, he came to me quite in [[Despair|despair]].”
-
-She was stopped by a slight fit of coughing, and Mr. Weston instantly
-seized the opportunity of going on.
-
-“You were mentioning May. May is the very month which Mrs. Churchill is
-ordered, or has ordered herself, to spend in some warmer place than
-Enscombe—in short, to spend in [[London]]; so that we have the agreeable
-prospect of frequent visits from Frank the whole [[spring]]—precisely the
-season of the year which one should have chosen for it: days almost at
-the longest; weather genial and pleasant, always inviting one out, and
-never too hot for exercise. When he was here before, we made the best
-of it; but there was a good deal of wet, damp, cheerless weather; there
-always is in February, you know, and we could not do half that we
-intended. Now will be the [[Time|time]]. This will be complete enjoyment; and I
-do not know, Mrs. Elton, whether the uncertainty of our meetings, the
-sort of constant expectation there will be of his coming in to-day or
-to-morrow, and at any hour, may not be more friendly to happiness than
-having him actually in the [[house]]. I think it is so. I think it is the
-state of mind which gives most spirit and delight. I [[Hope|hope]] you will be
-pleased with my son; but you must not expect a prodigy. He is generally
-thought a fine young man, but do not expect a prodigy. Mrs. Weston’s
-partiality for him is very great, and, as you may suppose, most
-gratifying to me. She thinks nobody equal to him.”
-
-“And I assure you, Mr. Weston, I have very little [[Doubt|doubt]] that my opinion
-will be decidedly in his favour. I have heard so much in praise of Mr.
-[[Frank Churchill]].—At the same [[Time|time]] it is fair to observe, that I am one
-of those who always judge for themselves, and are by no means
-implicitly guided by others. I give you notice that as I find your son,
-so I shall judge of him.—I am no flatterer.”
-
-Mr. Weston was musing.
-
-“I [[Hope|hope]],” said he presently, “I have not been severe upon poor Mrs.
-Churchill. If she is ill I should be sorry to do her injustice; but
-there are some traits in her character which make it difficult for me
-to speak of her with the forbearance I could wish. You cannot be
-ignorant, Mrs. Elton, of my connexion with the family, nor of the
-treatment I have met with; and, between ourselves, the whole blame of
-it is to be laid to her. She was the instigator. Frank’s mother would
-never have been slighted as she was but for her. Mr. Churchill has
-[[Pride|pride]]; but his [[Pride|pride]] is nothing to his wife’s: his is a quiet,
-indolent, gentlemanlike sort of [[Pride|pride]] that would harm nobody, and only
-make himself a little helpless and tiresome; but her [[Pride|pride]] is arrogance
-and insolence! And what inclines one less to bear, she has no fair
-pretence of family or [[Blood|blood]]. She was nobody when he married her, barely
-the daughter of a gentleman; but ever since her being turned into a
-Churchill she has out-Churchill’d them all in high and mighty claims:
-but in herself, I assure you, she is an upstart.”
-
-“Only think! [[Well|well]], that must be infinitely provoking! I have quite a
-horror of upstarts. Maple Grove has given me a thorough disgust to
-people of that sort; for there is a family in that neighbourhood who
-are such an annoyance to my brother and sister from the airs they give
-themselves! Your description of Mrs. Churchill made me think of them
-directly. People of the name of Tupman, very lately settled there, and
-encumbered with many low connexions, but giving themselves immense
-airs, and expecting to be on a footing with the old established
-families. A year and a half is the very utmost that they can have lived
-at West Hall; and how they got their fortune nobody knows. They came
-from Birmingham, which is not a place to promise much, you know, Mr.
-Weston. One has not great hopes from Birmingham. I always say there is
-something direful in the sound: but nothing more is positively known of
-the Tupmans, though a good many things I assure you are suspected; and
-yet by their manners they evidently think themselves equal even to my
-brother, Mr. Suckling, who happens to be one of their nearest
-neighbours. It is infinitely too bad. Mr. Suckling, who has been eleven
-years a resident at Maple Grove, and whose father had it before him—I
-believe, at least—I am almost sure that old Mr. Suckling had completed
-the purchase before his [[Death|death]].”
-
-They were interrupted. Tea was carrying round, and Mr. Weston, having
-said all that he wanted, soon took the opportunity of walking away.
-
-After tea, Mr. and Mrs. Weston, and Mr. Elton sat down with Mr.
-Woodhouse to cards. The remaining five were left to their own powers,
-and [[Emma]] doubted their getting on very [[Well|well]]; for Mr. Knightley seemed
-little disposed for conversation; Mrs. Elton was wanting notice, which
-nobody had inclination to pay, and she was herself in a worry of
-spirits which would have made her prefer being silent.
-
-Mr. John Knightley proved more talkative than his brother. He was to
-leave them early the next day; and he soon began with—
-
-“[[Well]], [[Emma]], I do not believe I have any thing more to say about the
-boys; but you have your sister’s letter, and every thing is down at
-full length there we may be sure. My charge would be much more concise
-than her’s, and probably not much in the same spirit; all that I have
-to recommend being comprised in, do not spoil them, and do not physic
-them.”
-
-“I rather [[Hope|hope]] to satisfy you both,” said [[Emma]], “for I shall do all in
-my power to make them happy, which will be enough for [[Isabella]]; and
-happiness must preclude false indulgence and physic.”
-
-“And if you find them troublesome, you must send them [[Home|home]] again.”
-
-“That is very likely. You think so, do not you?”
-
-“I [[Hope|hope]] I am aware that they may be too noisy for your father—or even
-may be some encumbrance to you, if your visiting engagements continue
-to increase as much as they have done lately.”
-
-“Increase!”
-
-“Certainly; you must be sensible that the last half-year has made a
-great difference in your way of life.”
-
-“Difference! No indeed I am not.”
-
-“There can be no [[Doubt|doubt]] of your being much more engaged with company
-than you used to be. Witness this very [[Time|time]]. Here am I come down for
-only one day, and you are engaged with a dinner-party!—When did it
-happen before, or any thing like it? Your neighbourhood is increasing,
-and you mix more with it. A little while ago, every letter to [[Isabella]]
-brought an account of fresh gaieties; dinners at Mr. Cole’s, or balls
-at the [[Crown]]. The difference which Randalls, Randalls [[Alone|alone]] makes in
-your goings-on, is very great.”
-
-“Yes,” said his brother quickly, “it is Randalls that does it all.”
-
-“Very [[Well|well]]—and as Randalls, I suppose, is not likely to have less
-influence than heretofore, it strikes me as a possible thing, [[Emma]],
-that Henry and John may be sometimes in the way. And if they are, I
-only beg you to send them [[Home|home]].”
-
-“No,” cried Mr. Knightley, “that need not be the consequence. Let them
-be sent to Donwell. I shall certainly be at leisure.”
-
-“Upon my word,” exclaimed [[Emma]], “you amuse me! I should like to know
-how many of all my numerous engagements take place without your being
-of the party; and why I am to be supposed in danger of wanting leisure
-to attend to the little boys. These amazing engagements of mine—what
-have they been? Dining once with the Coles—and having a ball talked of,
-which never took place. I can understand you—(nodding at Mr. John
-Knightley)—your good fortune in meeting with so many of your friends at
-once here, delights you too much to pass unnoticed. But you, (turning
-to Mr. Knightley,) who know how very, very seldom I am ever two hours
-from Hartfield, why you should foresee such a series of dissipation for
-me, I cannot imagine. And as to my dear little boys, I must say, that
-if Aunt [[Emma]] has not [[Time|time]] for them, I do not think they would fare much
-better with Uncle Knightley, who is absent from [[Home|home]] about five hours
-where she is absent one—and who, when he is at [[Home|home]], is either reading
-to himself or settling his accounts.”
-
-Mr. Knightley seemed to be trying not to smile; and succeeded without
-difficulty, upon Mrs. Elton’s beginning to talk to him.
+Mr. Woodhouse was resigned. The [[Time|time]] of year lightened the evil to him.
+May was better for every thing than February. Mrs. Bates was engaged to
+spend the evening at Hartfield, James had due notice, and he sanguinely
+hoped that neither dear little Henry nor dear little John would have
+any thing the matter with them, while dear [[Emma]] were gone.

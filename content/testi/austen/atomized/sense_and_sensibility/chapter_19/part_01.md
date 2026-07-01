@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 19 (part 1)"
+title: "Sense and Sensibility — Chapter 19 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -211,7 +211,3 @@ good to me.”
 This desponding turn of mind, though it could not be communicated to
 
 Mrs. Dashwood, gave additional [[Pain|pain]] to them all in the parting, which
-
-shortly took place, and left an uncomfortable impression on Elinor’s
-
-feelings especially, which required some trouble and [[Time|time]] to subdue.

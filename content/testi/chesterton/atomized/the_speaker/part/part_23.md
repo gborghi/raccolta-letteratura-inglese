@@ -14,6 +14,38 @@ tags:
 </nav>
 
 
+The same profoundly unnatural rationalism marks the author's
+observations on the virtue of Obedience, of which she
+profoundly disapproves.  And yet the substitute that she offers
+for obedience is a hundred times more cowardly and fictitious.
+"The [[Child|child]] can be far better protected by removing all danger:
+which our present civilization is quite competent to do."  Let us take
+the case of [[Fire|fire]].  The [[Child|child]] is not to be told, what is an eternal
+and typical [[Truth|truth]], "This is the most beautiful thing in the world:
+but you must not touch it.  It is the thing which warms if you
+obey it, but bites if you disobey."  But the [[Child|child]] is to be told,
+in effect, what is a silly lie, "There is no such thing as [[Fire|fire]]:
+you have never seen it in your nursery."  Mrs. Gilman complains
+that obedience discourages will and personality and then proposes
+to encourage those qualities by removing all danger and difficulty!
+Mrs. Gilman does not really understand what is meant by obedience.
+She always uses the word as identical with [[Slavery|slavery]],
+whereas it is inconsistent with it.  A slave cannot be obedient;
+we might as [[Well|well]] speak of a tree being taciturn or an oyster being
+good-tempered. A thing which cannot disobey is not obedient:
+obedience is a choice:  and it is a choice involved in civilization.
+Mrs. Gilman is singularly out in her bearings in saying that the
+upholders of obedience have to fall back on the case of soldiers
+and sailors and that "they do not speak of it as particularly
+desirable among farmers and merchants."  Whether they do or not,
+it certainly is.  Without some compromise of obedience in the matter,
+the farmer and merchant would both be bankrupt in a month.
+Every train that Mrs. Gilman travels in would be smashed up,
+every bank in which she put her money would ruin her, every [[house]]
+she lived in would fall down, if there were no established principle
+of one man promptly acting on the signals of another man.
+And this is all obedience is.
+
 Obedience is simply a division of labour; and we do not know
 why it should be so impossible to let an intelligent [[Child|child]]
 see that you really do know something that he does not.
@@ -90,34 +122,3 @@ of the [[Cave]], we should hardly find seven [[Poems|poems]], we suspect,
 which did not contain some allusion to the subject of the mortal end.
 [[Death]] is involved in the discussion of any conceivable human subject.
 It is merely the full stop at the end of the word "life."
-
-In an unpretentious, but singularly able preface, the editors demur
-to the notion that the treatment of such a subject is necessarily
-very depressing; as they point out, the loftiest, and, we may add,
-the most lighthearted men of genius have faced it without a thought
-of it prostrating them.  But though we fully applaud the editors
-for including all the various points of view from which this
-tremendous subject has been considered, no one could expect
-the [[Poems|poems]] and passages which they print to be uniformly or even
-generally of a character to elevate either the spirits or the [[Soul|soul]].
-[[Death]] has called forth in literature not only much cheerfulness
-and dignity, much chivalrous [[Hope|hope]] and more chivalrous hopelessness,
-but also much panic, much paltry [[philosophy]], much of dismal
-asceticism and more dismal frivolity, much of the [[Self|self]]-indulgence
-of gloom and much of the gloom of [[Self|self]]-indulgence.
-
-On the one hand, the scheme of the work admits all the great [[Poems|poems]] which
-gather round the conception of eternal life, such as Wordsworth's "Ode
-on the Intimations of [[Immortality]]," which is, by the way,
-a magnificent example of the right way to sing about a common subject.
-Many realists, Wordsworth himself included, fell often into that futile
-realistic spirit which merely shows that a common thing is common.
-The higher realism shows that a common thing is uncommonly uncommon,
-and that all the trumpets of poetic style are not too [[Sublime|sublime]]
-for its celebration.  The case of idealism or [[Truth|truth]] to the [[Soul|soul]],
-against realism, or [[Truth|truth]] to the tongue, might be tried on the issue
-of Wordsworth [[Alone|alone]].  He wrote two [[Poems|poems]] upon the idea of a [[Child|child]]'s
-conviction of a life beyond [[Death|death]].  When he was writing what,
-in his view, the [[Child|child]] actually said, he wrote "We are Seven."
-When he was writing in his own language what the [[Child|child]] meant,
-he wrote the "Ode on the Intimations."

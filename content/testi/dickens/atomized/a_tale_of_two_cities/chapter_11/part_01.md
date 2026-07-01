@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities — Chapter 4 (part 1)"
+title: "A Tale of Two Cities — Chapter 5 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-tale-of-two-cities-(dickens)"
@@ -10,131 +10,135 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/a-tale-of-two-cities-(dickens)">A Tale of Two Cities</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_10/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_11/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_10/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_11/part_02">part 02 ›</a></div>
 </nav>
 
 
-CHAPTER IV.
-Congratulatory
+CHAPTER V.
+The Jackal
 
 
-From the dimly-lighted passages of the [[Court|court]], the last sediment of the
-human stew that had been boiling there all day, was straining off, when
-[[Doctor Manette]], [[Lucie Manette]], his daughter, Mr. Lorry, the solicitor
-for the defence, and its counsel, Mr. Stryver, stood gathered round Mr.
-[[Charles Darnay]]--just released--congratulating him on his escape from
-[[Death|death]].
+Those were drinking days, and most men drank hard. So very great is
+the improvement [[Time]] has brought about in such habits, that a moderate
+statement of the quantity of wine and punch which one man would [[Swallow|swallow]]
+in the course of a [[Night|night]], without any detriment to his reputation as a
+perfect gentleman, would seem, in these days, a ridiculous exaggeration.
+The learned profession of the law was certainly not behind any other
+learned profession in its Bacchanalian propensities; neither was Mr.
+Stryver, already fast shouldering his way to a large and lucrative
+practice, behind his compeers in this particular, any more than in the
+drier parts of the legal race.
 
-It would have been difficult by a far brighter light, to recognise
-in [[Doctor Manette]], intellectual of face and upright of bearing, the
-shoemaker of the garret in [[Paris]]. Yet, no one could have looked at him
-twice, without looking again: even though the opportunity of observation
-had not extended to the mournful cadence of his low [[Grave|grave]] voice, and
-to the abstraction that overclouded him fitfully, without any apparent
-reason. While one external cause, and that a reference to his long
-lingering agony, would always--as on the trial--evoke this condition
-from the depths of his [[Soul|soul]], it was also in its [[Nature|nature]] to arise of
-itself, and to draw a gloom over him, as incomprehensible to those
-unacquainted with his story as if they had seen the [[Shadow|shadow]] of the actual
-Bastille thrown upon him by a [[Summer|summer]] sun, when the substance was three
-hundred miles away.
+A favourite at the Old Bailey, and eke at the Sessions, Mr. Stryver had
+begun cautiously to hew away the lower staves of the ladder on which
+he mounted. Sessions and Old Bailey had now to summon their favourite,
+specially, to their [[Longing|longing]] arms; and shouldering itself towards the
+visage of the [[Lord Chief Justice]] in the [[Court]] of [[King]]’s Bench, the
+florid countenance of Mr. Stryver might be daily seen, bursting out of
+the bed of wigs, like a great sunflower pushing its way at the sun from
+among a rank [[Garden|garden]]-full of flaring companions.
 
-Only his daughter had the power of charming this black brooding from
-his mind. She was the golden thread that united him to a Past beyond his
-misery, and to a Present beyond his misery: and the sound of her voice,
-the light of her face, the touch of her hand, had a strong beneficial
-influence with him almost always. Not absolutely always, for she could
-recall some occasions on which her power had failed; but they were few
-and slight, and she believed them over.
+It had once been noted at the Bar, that while Mr. Stryver was a glib
+man, and an unscrupulous, and a ready, and a bold, he had not that
+faculty of extracting the essence from a heap of statements, which is
+among the most striking and necessary of the advocate’s accomplishments.
+But, a remarkable improvement came upon him as to this. The more
+business he got, the greater his power seemed to grow of getting at its
+pith and marrow; and however late at [[Night|night]] he sat carousing with Sydney
+Carton, he always had his points at his fingers’ ends in the morning.
 
-Mr. Darnay had kissed her hand fervently and gratefully, and had turned
-to Mr. Stryver, whom he warmly thanked. Mr. Stryver, a man of little
-more than thirty, but looking twenty years older than he was, stout,
-loud, red, bluff, and free from any drawback of delicacy, had a pushing
-way of shouldering himself (morally and physically) into companies and
-conversations, that argued [[Well|well]] for his shouldering his way up in life.
+[[Sydney Carton]], idlest and most unpromising of men, was Stryver’s great
+ally. What the two drank together, between Hilary Term and Michaelmas,
+might have floated a [[King|king]]’s [[Ship|ship]]. Stryver never had a case in hand,
+anywhere, but Carton was there, with his hands in his pockets, staring
+at the ceiling of the [[Court|court]]; they went the same Circuit, and even there
+they prolonged their usual orgies late into the [[Night|night]], and Carton was
+rumoured to be seen at broad day, going [[Home|home]] stealthily and unsteadily
+to his lodgings, like a dissipated cat. At last, it began to get about,
+among such as were interested in the matter, that although [[Sydney Carton]]
+would never be a [[Lion|lion]], he was an amazingly good jackal, and that he
+rendered suit and service to Stryver in that humble capacity.
 
-He still had his wig and gown on, and he said, squaring himself at his
-late client to that degree that he squeezed the [[Innocent|innocent]] Mr. Lorry clean
-out of the group: “I am glad to have brought you off with [[Honour|honour]], Mr.
-Darnay. It was an infamous prosecution, grossly infamous; but not the
-less likely to succeed on that account.”
+“Ten o’[[Clock|clock]], sir,” said the man at the tavern, whom he had charged to
+wake him--“ten o’[[Clock|clock]], sir.”
 
-“You have laid me under an obligation to you for life--in two senses,”
- said his late client, taking his hand.
+“_What’s_ the matter?”
 
-“I have done my best for you, Mr. Darnay; and my best is as good as
-another man’s, I believe.”
+“Ten o’[[Clock|clock]], sir.”
 
-It clearly being incumbent on some one to say, “Much better,” Mr. Lorry
-said it; perhaps not quite disinterestedly, but with the interested
-object of squeezing himself back again.
+“What do you mean? Ten o’[[Clock|clock]] at [[Night|night]]?”
 
-“You think so?” said Mr. Stryver. “[[Well]]! you have been present all day,
-and you ought to know. You are a man of business, too.”
+“Yes, sir. Your [[Honour|honour]] told me to call you.”
 
-“And as such,” quoth Mr. Lorry, whom the counsel learned in the law had
-now shouldered back into the group, just as he had previously shouldered
-him out of it--“as such I will appeal to [[Doctor Manette]], to break up
-this conference and order us all to our homes. Miss Lucie looks ill, Mr.
-Darnay has had a terrible day, we are worn out.”
+“Oh! I remember. Very [[Well|well]], very [[Well|well]].”
 
-“Speak for yourself, Mr. Lorry,” said Stryver; “I have a [[Night|night]]’s work to
-do yet. Speak for yourself.”
+After a few dull efforts to get to [[Sleep|sleep]] again, which the man
+dexterously combated by stirring the [[Fire|fire]] continuously for five minutes,
+he got up, tossed his hat on, and walked out. He turned into the Temple,
+and, having revived himself by twice pacing the pavements of [[King]]’s
+Bench-walk and Paper-buildings, turned into the Stryver chambers.
 
-“I speak for myself,” answered Mr. Lorry, “and for Mr. Darnay, and for
-Miss Lucie, and--Miss Lucie, do you not think I may speak for us all?”
- He asked her the question pointedly, and with a glance at her father.
+The Stryver clerk, who never assisted at these conferences, had gone
+[[Home|home]], and the Stryver principal opened the door. He had his slippers on,
+and a loose bed-gown, and his throat was bare for his greater ease. He
+had that rather wild, strained, seared marking about the eyes, which
+may be observed in all free livers of his class, from the portrait of
+Jeffries downward, and which can be traced, under various disguises of
+Art, through the portraits of every Drinking Age.
 
-His face had become frozen, as it were, in a very curious look at
-Darnay: an intent look, deepening into a frown of dislike and distrust,
-not even unmixed with [[Fear|fear]]. With this strange expression on him his
-thoughts had wandered away.
+“You are a little late, [[Memory]],” said Stryver.
 
-“My father,” said Lucie, softly laying her hand on his.
+“About the usual [[Time|time]]; it may be a quarter of an hour later.”
 
-He slowly shook the [[Shadow|shadow]] off, and turned to her.
+They went into a dingy room lined with books and littered with papers,
+where there was a blazing [[Fire|fire]]. A kettle steamed upon the hob, and in
+the midst of the wreck of papers a table shone, with plenty of wine upon
+it, and brandy, and rum, and sugar, and lemons.
 
-“Shall we go [[Home|home]], my father?”
+“You have had your bottle, I perceive, Sydney.”
 
-With a long breath, he answered “Yes.”
+“Two to-[[Night|night]], I think. I have been dining with the day’s client; or
+seeing him dine--it’s all one!”
 
-The friends of the acquitted prisoner had dispersed, under the
-impression--which he himself had originated--that he would not be
-released that [[Night|night]]. The lights were nearly all extinguished in the
-passages, the iron gates were being closed with a jar and a rattle,
-and the dismal place was deserted until to-morrow morning’s interest of
-gallows, pillory, whipping-post, and branding-iron, should repeople it.
-Walking between her father and Mr. Darnay, [[Lucie Manette]] passed into
-the open air. A hackney-coach was called, and the father and daughter
-departed in it.
+“That was a rare point, Sydney, that you brought to bear upon the
+identification. How did you come by it? When did it strike you?”
 
-Mr. Stryver had left them in the passages, to shoulder his way back
-to the robing-room. Another person, who had not joined the group, or
-interchanged a word with any one of them, but who had been leaning
-against the wall where its [[Shadow|shadow]] was darkest, had silently strolled
-out after the rest, and had looked on until the coach drove away. He now
-stepped up to where Mr. Lorry and Mr. Darnay stood upon the pavement.
+“I thought he was rather a handsome fellow, and I thought I should have
+been much the same sort of fellow, if I had had any luck.”
 
-“So, Mr. Lorry! Men of business may speak to Mr. Darnay now?”
+Mr. Stryver laughed till he shook his precocious paunch.
 
-Nobody had made any acknowledgment of Mr. Carton’s part in the day’s
-proceedings; nobody had known of it. He was unrobed, and was none the
-better for it in appearance.
+“You and your luck, Sydney! Get to work, get to work.”
 
-“If you knew what a conflict goes on in the business mind, when the
-business mind is divided between good-natured impulse and business
-appearances, you would be amused, Mr. Darnay.”
+Sullenly enough, the jackal loosened his dress, went into an adjoining
+room, and came back with a large jug of cold [[Water|water]], a basin, and a towel
+or two. Steeping the towels in the [[Water|water]], and partially wringing them
+out, he folded them on his head in a manner hideous to behold, sat down
+at the table, and said, “Now I am ready!”
 
-Mr. Lorry reddened, and said, warmly, “You have mentioned that before,
-sir. We men of business, who serve a [[house|House]], are not our own masters. We
-have to think of the [[house|House]] more than ourselves.”
+“Not much boiling down to be done to-[[Night|night]], [[Memory]],” said Mr. Stryver,
+gaily, as he looked among his papers.
 
-“_I_ know, _I_ know,” rejoined Mr. Carton, carelessly. “Don’t be
-nettled, Mr. Lorry. You are as good as another, I have no [[Doubt|doubt]]: better,
-I dare say.”
+“How much?”
 
-“And indeed, sir,” pursued Mr. Lorry, not minding him, “I really don’t
-know what you have to do with the matter. If you’ll excuse me, as very
-much your elder, for saying so, I really don’t know that it is your
-business.”
+“Only two sets of them.”
+
+“Give me the worst first.”
+
+“There they are, Sydney. [[Fire]] away!”
+
+The [[Lion|lion]] then composed himself on his back on a sofa on one side of the
+drinking-table, while the jackal sat at his own paper-bestrewn table
+proper, on the other side of it, with the bottles and glasses ready to
+his hand. Both resorted to the drinking-table without stint, but each in
+a different way; the [[Lion|lion]] for the most part reclining with his hands in
+his waistband, looking at the [[Fire|fire]], or occasionally flirting with some
+lighter document; the jackal, with knitted brows and intent face,
+so deep in his task, that his eyes did not even follow the hand he
+stretched out for his glass--which often groped about, for a minute or
+more, before it found the glass for his lips. Two or three times, the
+matter in hand became so knotty, that the jackal found it imperative on
+him to get up, and steep his towels anew. From these pilgrimages to the
+jug and basin, he returned with such eccentricities of damp headgear as
+no words can describe; which were made the more ludicrous by his anxious
+gravity.

@@ -1,5 +1,5 @@
 ---
-title: "[[CharlesDickens]] — Chapter 7 (part 3)"
+title: "CharlesDickens — Chapter 7 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/charlesdickens-(chesterton)"
@@ -13,6 +13,29 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/charlesdickens/chapter_10/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/charlesdickens/chapter_10/part_04">part 04 ›</a></div>
 </nav>
 
+
+And (as I have said) as were his unconscious relations
+to our European past, so were his unconscious relations
+to England.  He imagined himself to be, if anything, a sort
+of cosmopolitan; at any rate to be a champion of the charms and
+merits of continental lands against the arrogance of our island.
+But he was in [[Truth|truth]] very much more a champion of the old
+and genuine England against that comparatively cosmopolitan
+England which we have all lived to see.  And here again
+the supreme example is Christmas.  Christmas is, as I have said,
+one of numberless old European feasts of which the essence is
+the combination of religion with merry-making. But among those feasts
+it is also especially and distinctively English in the style
+of its merry-making and even in the style of its religion.
+For the character of Christmas (as distinct, for instance,
+from the continental Easter) lies chiefly in two things;
+first on the terrestrial side the note of comfort rather
+than the note of brightness; and on the spiritual side,
+Christian [[Charity|charity]] rather than Christian ecstasy.  And comfort is,
+like [[Charity|charity]], a very English instinct.  Nay, comfort is,
+like [[Charity|charity]], an English merit; though our comfort may and does
+degenerate into materialism, just as our [[Charity|charity]] may and does
+degenerate into laxity and make-believe.
 
 This ideal of comfort belongs peculiarly to England;
 it belongs peculiarly to Christmas; above all, it belongs
@@ -90,29 +113,3 @@ the phrase as suggesting that the fog was a colossal cake.
 He liked even more his own phrase of the [[titanic|Titanic]] brewery, and no
 dream would have given him a wilder pleasure than to grope his way
 to some such tremendous vats and drink the ale of the giants.
-
-There is a current prejudice against fogs, and Dickens, perhaps,
-is their only poet.  Considered hygienically, no [[Doubt|doubt]] this
-may be more or less excusable.  But, considered poetically,
-fog is not undeserving, it has a real significance.  We have in our
-great cities abolished the clean and sane darkness of the country.
-We have outlawed [[Night|night]] and sent her wandering in wild meadows;
-we have lit eternal watch-fires against her return.
-We have made a new cosmos, and as a consequence our own sun
-and [[Stars|stars]].  And as a consequence also, and most justly,
-we have made our own darkness.  Just as every lamp is a warm
-human [[Moon|moon]], so every fog is a rich human nightfall.
-If it were not for this mystic accident we should never see darkness,
-and he who has never seen darkness has never seen the sun.
-Fog for us is the chief form of that outward pressure
-which compresses mere luxury into real comfort.  It makes
-the world small, in the same spirit as in that common and happy
-cry that the world is small, meaning that it is full of friends.
-The first man that emerges out of the mist with a light,
-is for us [[Prometheus]], a saviour bringing [[Fire|fire]] to men.
-He is that greatest and best of all men, greater than the heroes,
-better than the saints, Man Friday.  Every rumble of a cart,
-every cry in the distance, marks the heart of humanity beating
-undaunted in the darkness.  It is wholly human; man toiling
-in his own cloud.  If real darkness is like the embrace of God,
-this is the dark embrace of man.

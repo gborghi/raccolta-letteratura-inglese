@@ -1,5 +1,5 @@
 ---
-title: "[[Agnes Grey]] — Chapter 4 (part 3)"
+title: "Agnes Grey — Chapter 4 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/agnes-grey-(bronte)"
@@ -13,6 +13,28 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/agnes_grey/chapter_04/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/agnes_grey/chapter_05/part_01">part 01 ›</a></div>
 </nav>
 
+
+I remember one afternoon in [[Spring|spring]], when, owing to the rain, they could
+not go out; but, by some amazing good fortune, they had all finished
+their lessons, and yet abstained from running down to tease their
+parents—a trick that annoyed me greatly, but which, on rainy days, I
+seldom could prevent their doing; because, below, they found novelty
+and amusement—especially when visitors were in the [[house]]; and their
+mother, though she bid me keep them in the schoolroom, would never
+chide them for leaving it, or trouble herself to send them back. But
+this day they appeared satisfied with their present abode, and what is
+more wonderful still, seemed disposed to play together without
+depending on me for amusement, and without quarrelling with each other.
+Their occupation was a somewhat puzzling one: they were all squatted
+together on the floor by the [[Window|window]], over a heap of broken toys and a
+quantity of [[Birds|birds]]’ eggs—or rather egg-shells, for the contents had
+luckily been abstracted. These shells they had broken up and were
+pounding into small fragments, to what end I could not imagine; but so
+long as they were quiet and not in positive mischief, I did not care;
+and, with a feeling of unusual repose, I sat by the [[Fire|fire]], putting the
+finishing stitches to a frock for Mary Ann’s doll; intending, when that
+was done, to begin a letter to my mother. Suddenly the door opened, and
+the dingy head of Mr. Bloomfield looked in.
 
 “All very quiet here! What are you doing?” said he. “No harm _to-day_,
 at least,” thought I. But he was of a different opinion. Advancing to

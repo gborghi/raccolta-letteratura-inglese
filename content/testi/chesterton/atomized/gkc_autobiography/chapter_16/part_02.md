@@ -1,5 +1,5 @@
 ---
-title: "[[GKC-Autobiography]] — Chapter 16 (part 2)"
+title: "GKC-Autobiography — Chapter 16 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/gkc-autobiography-(chesterton)"
@@ -116,7 +116,7 @@ quiet and pleasant celibate had plumbed those abysses far deeper
 than I. I had not imagined that the world could hold such horrors.
 If he had been a professional novelist throwing such filth
 broadcast on all the bookstalls for boys and babies to pick up,
-of course he would have been a great creative [[artist]] and a
+of course he would have been a great creative [[Artist|artist]] and a
 herald of the [[Dawn]].  As he was only stating them reluctantly,
 in strict privacy, as a practical necessity, he was, of course,
 a typical Jesuit whispering poisonous [[Secrets|secrets]] in my ear.

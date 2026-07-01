@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 52: I ASSIST AT AN EXPLOSION (part 7)"
+title: "David Copperfield — Chapter 52: I ASSIST AT AN EXPLOSION (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_52_i_assist_at_an_explosion/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_52_i_assist_at_an_explosion/part_08">part 08 ›</a></div>
 </nav>
 
+
+     For England, [[Home|home]], and [[Beauty]].
+
+     ‘“Remaining always, &c.  &c., [[Wilkins Micawber|WILKINS MICAWBER]].”’
+
+
+Much affected, but still intensely enjoying himself, Mr. Micawber folded
+up his letter, and handed it with a bow to my aunt, as something she
+might like to keep.
+
+There was, as I had noticed on my first visit long ago, an iron safe in
+the room. The key was in it. A hasty suspicion seemed to strike Uriah;
+and, with a glance at Mr. Micawber, he went to it, and threw the doors
+clanking open. It was empty.
 
 ‘Where are the books?’ he cried, with a frightful face. ‘Some thief has
 stolen the books!’
@@ -138,12 +152,3 @@ in your [[Greed|greed]] and cunning, against all the world. It may be profitable
 to you to reflect, in future, that there never were [[Greed|greed]] and cunning in
 the world yet, that did not do too much, and overreach themselves. It is
 as certain as [[Death|death]].’
-
-‘Or as certain as they used to teach at school (the same school where I
-picked up so much umbleness), from nine o’[[Clock|clock]] to eleven, that labour
-was a curse; and from eleven o’[[Clock|clock]] to one, that it was a blessing and
-a cheerfulness, and a dignity, and I don’t know what all, eh?’ said
-he with a sneer. ‘You preach, about as consistent as they did.
-Won’t umbleness go down? I shouldn’t have got round my gentleman
-fellow-partner without it, I think. --Micawber, you old bully, I’ll pay
-YOU!’

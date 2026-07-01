@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 17: SEVENTEEN (part 5)"
+title: "Martin Chuzzlewit — Chapter 17: SEVENTEEN (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,42 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_17_seventeen/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_17_seventeen/part_06">part 06 ›</a></div>
 </nav>
 
+
+Martin felt his reason going; and as a means of saving himself, besought
+the other sister (seeing a piano in the room) to sing. With this request
+she willingly complied; and a bravura concert, solely sustained by the
+Misses Noriss, presently began. They sang in all languages--except their
+own. German, French, Italian, Spanish, Portuguese, Swiss; but nothing
+native; nothing so low as native. For, in this respect, languages are
+like many other travellers--ordinary and commonplace enough at [[Home|home]], but
+‘specially genteel abroad.
+
+There is little [[Doubt|doubt]] that in course of [[Time|time]] the Misses Norris would
+have come to Hebrew, if they had not been interrupted by an announcement
+from the Irishman, who, flinging open the door, cried in a loud voice--
+
+‘Jiniral Fladdock!’
+
+‘My!’ cried the sisters, desisting suddenly. ‘The general come back!’
+
+As they made the exclamation, the general, attired in full uniform for a
+ball, came darting in with such precipitancy that, hitching his boot
+in the carpet, and getting his [[Sword|sword]] between his legs, he came down
+headlong, and presented a curious little bald place on the [[Crown|crown]] of his
+head to the eyes of the astonished company. Nor was this the worst of
+it; for being rather corpulent and very tight, the general being down,
+could not get up again, but lay there writhing and doing such things with
+his boots, as there is no other instance of in military [[history]].
+
+Of course there was an immediate rush to his assistance; and the general
+was promptly raised. But his uniform was so fearfully and wonderfully
+made, that he came up stiff and without a bend in him like a dead Clown,
+and had no command whatever of himself until he was put quite flat upon
+the soles of his feet, when he became animated as by a miracle, and
+moving edgewise that he might go in a narrower compass and be in less
+danger of fraying the gold lace on his epaulettes by brushing them
+against anything, advanced with a smiling visage to salute the lady of
+the [[house]].
 
 To be sure, it would have been impossible for the family to testify
 purer delight and joy than at this unlooked-for appearance of General
@@ -101,41 +137,3 @@ who had come over in the steerage of line-of-packet [[Ship|ship]], at the cost
 of four pound ten! And meeting that fellow in the very sanctuary of New
 York fashion, and nestling in the bosom of the [[New York]] aristocracy! He
 almost laid his hand upon his [[Sword|sword]].
-
-A [[Death|death]]-like stillness fell upon the Norisses. If this story should get
-[[Wind|wind]], their country relation had, by his imprudence, for ever disgraced
-them. They were the bright particular [[Stars|stars]] of an exalted [[New York]]
-sphere. There were other fashionable spheres above them, and other
-fashionable spheres below, and none of the [[Stars|stars]] in any one of these
-spheres had anything to say to the [[Stars|stars]] in any other of these spheres.
-But, through all the spheres it would go forth that the Norrises,
-deceived by gentlemanly manners and appearances, had, falling from their
-high estate, ‘received’ a dollarless and unknown man. O guardian eagle
-of the pure Republic, had they lived for this!
-
-‘You will allow me,’ said Martin, after a terrible [[Silence|silence]], ‘to take
-my leave. I feel that I am the cause of at least as much embarrassment
-here, as I have brought upon myself. But I am bound, before I go, to
-exonerate this gentleman, who, in introducing me to such society, was
-quite ignorant of my unworthiness, I assure you.’
-
-With that he made his bow to the Norrises, and walked out like a man of
-[[Snow|snow]]; very cool externally, but pretty hot within.
-
-‘Come, come,’ said Mr Norris the father, looking with a pale face on
-the assembled circle as Martin closed the door, ‘the young man has this
-[[Night|night]] beheld a refinement of social manner, and an easy magnificence of
-social decoration, to which he is a stranger in his own country. Let us
-[[Hope|hope]] it may awake a moral sense within him.’
-
-If that peculiarly transatlantic article, a moral sense--for, if native
-statesmen, orators, and pamphleteers, are to be believed, [[america|America]] quite
-monopolises the commodity--if that peculiarly transatlantic article be
-supposed to include a benevolent [[Love|love]] of all mankind, certainly Martin’s
-would have borne, just then, a deal of waking. As he strode along
-the street, with Mark at his heels, his immoral sense was in active
-operation; prompting him to the utterance of some rather sanguinary
-remarks, which it was [[Well|well]] for his own credit that nobody overheard.
-He had so far cooled down, however, that he had begun to laugh at the
-recollection of these incidents, when he heard another step behind him,
-and turning round encountered his friend Bevan, quite out of breath.

@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 71 (part 4)"
+title: "Barnaby Rudge — Chapter 71 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -10,9 +10,15 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/barnaby-rudge-(dickens)">Barnaby Rudge</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_71/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_73/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_71/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_72/part_01">part 01 ›</a></div>
 </nav>
 
+
+What fainting there was, what laughing, what crying, what sobbing, what
+smiling, how much questioning, no answering, all talking together, all
+beside themselves with joy; what kissing, congratulating, embracing,
+shaking of hands, and falling into all these raptures, over and over and
+over again; no language can describe.
 
 At length, and after a long [[Time|time]], the old locksmith went up and fairly
 hugged two strangers, who had stood apart and left them to themselves;

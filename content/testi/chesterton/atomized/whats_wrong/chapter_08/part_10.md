@@ -1,5 +1,5 @@
 ---
-title: "whats wrong — Part 3 (part 10)"
+title: "whats wrong — Part 4 (part 10)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/whats-wrong-(chesterton)"
@@ -14,148 +14,128 @@ tags:
 </nav>
 
 
-On that disastrous day when public executions were abolished,
-private executions were renewed and ratified, perhaps forever.
-Things grossly unsuited to the moral sentiment of a society cannot
-be safely done in broad daylight; but I see no reason why we
-should not still be roasting heretics alive, in a private room.
-It is very likely (to speak in the manner foolishly called Irish)
-that if there were public executions there would be no executions.
-The old open-air punishments, the pillory and the gibbet, at least
-fixed responsibility upon the law; and in actual practice they gave
-the mob an opportunity of throwing roses as [[Well|well]] as rotten eggs;
-of crying "Hosannah" as [[Well|well]] as "Crucify."  But I do not like
-the public executioner being turned into the private executioner.
-I think it is a crooked oriental, sinister sort of business,
-and smells of the harem and the divan rather than of the forum
-and the market place.  In modern times the official has lost
-all the social honor and dignity of the common hangman.
-He is only the bearer of the bowstring.
-
-Here, however, I suggest a plea for a brutal publicity
-only in order to emphasize the fact that it is this brutal
-publicity and nothing else from which women have been excluded.
-I also say it to emphasize the fact that the mere modern
-veiling of the brutality does not make the situation different,
-unless we openly say that we are giving the suffrage, not only
-because it is power but because it is not, or in other words,
-that women are not so much to vote as to play voting.
-No suffragist, I suppose, will take up that position; and a few
-suffragists will wholly deny that this human necessity of pains
-and penalties is an ugly, humiliating business, and that good
-motives as [[Well|well]] as bad may have helped to keep women out of it.
-More than once I have remarked in these pages that female
-limitations may be the limits of a temple as [[Well|well]] as of
-a [[Prison|prison]], the disabilities of a priest and not of a pariah.
-I noted it, I think, in the case of the pontifical feminine dress.
-In the same way it is not evidently irrational, if men decided
-that a woman, like a priest, must not be a shedder of [[Blood|blood]].
-
 * * *
 
-X
+XI
 
-THE HIGHER ANARCHY
+THE SCHOOL FOR HYPOCRITES
 
-But there is a further fact; forgotten also because we
-moderns forget that there is a female point of view.
-The woman's wisdom stands partly, not only for a wholesome
-hesitation about punishment, but even for a wholesome hesitation
-about absolute rules.  There was something feminine and
-perversely true in that phrase of Wilde's, that people should
-not be treated as the rule, but all of them as exceptions.
-Made by a man the remark was a little effeminate; for Wilde did
-lack the masculine power of dogma and of democratic cooperation.
-But if a woman had said it it would have been simply true;
-a woman does treat each person as a peculiar person.
-In other words, she stands for Anarchy; a very ancient
-and arguable [[philosophy]]; not anarchy in the sense of having
-no customs in one's life (which is inconceivable), but
-anarchy in the sense of having no rules for one's mind.
-To her, almost certainly, are due all those working traditions
-that cannot be found in books, especially those of [[Education|education]];
-it was she who first gave a [[Child|child]] a stuffed stocking for
-being good or stood him in the corner for being naughty.
-This unclassified knowledge is sometimes called rule of thumb
-and sometimes motherwit.  The last phrase suggests the whole [[Truth|truth]],
-for none ever called it fatherwit.
+These are the false accusations; the accusation of classicism,
+the accusation of cruelty, and the accusation of an exclusiveness based
+on perfection of pedigree.  English public-school boys are not pedants,
+they are not torturers; and they are not, in the vast majority of cases,
+people fiercely proud of their ancestry, or even people with any ancestry
+to be proud of.  They are taught to be courteous, to be good tempered,
+to be brave in a bodily sense, to be clean in a bodily sense;
+they are generally kind to [[Animals|animals]], generally civil to servants,
+and to anyone in any sense their equal, the jolliest companions on earth.
+Is there then anything wrong in the public-school ideal?
+I think we all feel there is something very wrong in it, but a blinding
+network of newspaper phraseology obscures and entangles us; so that it
+is hard to trace to its beginning, beyond all words and phrases,
+the faults in this great English achievement.
 
-Now anarchy is only tact when it works badly.  Tact is only anarchy
-when it works [[Well|well]].  And we ought to realize that in one half
-of the world--the private [[house]]--it does work [[Well|well]].  We modern men
-are perpetually forgetting that the case for clear rules and crude
-penalties is not [[Self|self]]-evident, that there is a great deal to be
-said for the benevolent lawlessness of the autocrat, especially on
-a small scale; in short, that [[government]] is only one side of life.
-The other half is called Society, in which women are admittedly dominant.
-And they have always been ready to maintain that their kingdom is
-better governed than ours, because (in the logical and legal sense)
-it is not governed at all.  "Whenever you have a real difficulty,"
-they say, "when a boy is bumptious or an aunt is stingy, when a silly
-girl will marry somebody, or a wicked man won't marry somebody, all your
-lumbering Roman Law and British Constitution come to a standstill.
-A snub from a duchess or a slanging from a fish-wife are much more
-likely to put things straight."  So, at least, rang the ancient
-female challenge down the ages until the recent female capitulation.
-So streamed the red standard of the higher anarchy until Miss Pankhurst
-hoisted the white [[Flag|flag]].
+Surely, when all is said, the ultimate objection to the English
+public school is its utterly blatant and indecent disregard
+of the duty of telling the [[Truth|truth]].  I know there does still
+linger among maiden ladies in remote country houses a notion
+that English schoolboys are taught to tell the [[Truth|truth]], but it
+cannot be maintained seriously for a moment.  Very occasionally,
+very vaguely, English schoolboys are told not to tell lies,
+which is a totally different thing.  I may silently support
+all the obscene fictions and forgeries in the universe,
+without once telling a lie.  I may wear another man's coat,
+steal another man's wit, apostatize to another man's creed,
+or [[Poison|poison]] another man's coffee, all without ever telling a lie.
+But no English school-boy is ever taught to tell the [[Truth|truth]], for the
+very simple reason that he is never taught to [[Desire|desire]] the [[Truth|truth]].
+From the very first he is taught to be totally careless about whether
+a fact is a fact; he is taught to care only whether the fact can
+be used on his "side" when he is engaged in "playing the game."
+He takes sides in his [[Union]] debating society to settle whether
+Charles I ought to have been killed, with the same solemn
+and pompous frivolity with which he takes sides in the cricket
+field to decide whether Rugby or Westminster shall win.
+He is never allowed to admit the abstract notion of the [[Truth|truth]],
+that the match is a matter of what may happen, but that Charles I
+is a matter of what did happen--or did not.  He is Liberal or Tory
+at the general election exactly as he is [[Oxford]] or Cambridge
+at the boat race.  He knows that sport deals with the unknown;
+he has not even a notion that politics should deal with the known.
+If anyone really doubts this [[Self|self]]-evident proposition,
+that the public schools definitely discourage the [[Love|love]] of [[Truth|truth]],
+there is one fact which I should think would settle him.
+England is the country of the Party System, and it has always
+been chiefly run by public-school men.  Is there anyone
+out of Hanwell who will maintain that the Party System,
+whatever its conveniences or inconveniences, could have been
+created by people particularly fond of [[Truth|truth]]?
 
-It must be remembered that the modern world has done deep treason
-to the eternal intellect by believing in the swing of the pendulum.
-A man must be dead before he swings.  It has substituted an idea
-of fatalistic alternation for the mediaeval [[Freedom|freedom]] of the [[Soul|soul]]
-seeking [[Truth|truth]].  All modern thinkers are reactionaries; for their
-thought is always a reaction from what went before.  When you meet
-a modern man he is always coming from a place, not going to it.
-Thus, mankind has in nearly all places and periods seen that there
-is a [[Soul|soul]] and a [[Body|body]] as plainly as that there is a sun and [[Moon|moon]].
-But because a narrow Protestant sect called Materialists declared
-for a short [[Time|time]] that there was no [[Soul|soul]], another narrow Protestant sect
-called Christian Science is now maintaining that there is no [[Body|body]].
-Now just in the same way the unreasonable neglect of [[government]]
-by the Manchester School has produced, not a reasonable regard
-for [[government]], but an unreasonable neglect of everything else.
-So that to hear people talk to-day one would fancy that every
-important human function must be organized and avenged by law;
-that all [[Education|education]] must be state [[Education|education]], and all employment
-state employment; that everybody and everything must be
-brought to the foot of the august and prehistoric gibbet.
-But a somewhat more liberal and sympathetic examination of mankind
-will convince us that the [[Cross|cross]] is even older than the gibbet,
-that voluntary [[Suffering|suffering]] was before and independent of compulsory;
-and in short that in most important matters a man has always been
-free to ruin himself if he chose.  The huge fundamental function
-upon which all anthropology turns, that of sex and childbirth,
-has never been inside the political state, but always outside of it.
-The state concerned itself with the trivial question of killing people,
-but wisely left [[Alone|alone]] the whole business of getting them born.
-A Eugenist might indeed plausibly say that the [[government]] is an
-absent-minded and inconsistent person who occupies himself with
-providing for the old age of people who have never been infants.
-I will not deal here in any detail with the fact that some Eugenists
-have in our [[Time|time]] made the maniacal answer that the police ought
-to control [[Marriage|marriage]] and birth as they control labor and [[Death|death]].
-Except for this inhuman handful (with whom I regret to say I shall
-have to deal with later) all the Eugenists I know divide themselves
-into two sections:  ingenious people who once meant this, and rather
-bewildered people who swear they never meant it--nor anything else.
-But if it be conceded (by a breezier estimate of men) that they
-do mostly [[Desire|desire]] [[Marriage|marriage]] to remain free from [[government]], it does
-not follow that they [[Desire|desire]] it to remain free from everything.  If man
-does not control the [[Marriage|marriage]] market by law, is it controlled at all?
-Surely the answer is broadly that man does not control the [[Marriage|marriage]]
-market by law, but the woman does control it by sympathy and prejudice.
-There was until lately a law forbidding a man to marry his deceased
-wife's sister; yet the thing happened constantly.  There was no law
-forbidding a man to marry his deceased wife's scullery-maid; yet it did
-not happen nearly so often.  It did not happen because the [[Marriage|marriage]]
-market is managed in the spirit and by the authority of women;
-and women are generally conservative where classes are concerned.
-It is the same with that system of exclusiveness by which ladies
-have so often contrived (as by a process of elimination)
-to prevent marriages that they did not want and even sometimes
-procure those they did.  There is no need of the broad arrow and
-the fleur-de lis, the turnkey's [[Chains|chains]] or the hangman's halter.
-You need not strangle a man if you can [[Silence|silence]] him.  The branded
-shoulder is less effective and final than the cold shoulder;
-and you need not trouble to lock a man in when you can lock him out.
+The very English happiness on this point is itself a hypocrisy.
+When a man really tells the [[Truth|truth]], the first [[Truth|truth]] he tells is that
+he himself is a liar.  David said in his haste, that is, in his honesty,
+that all men are liars.  It was afterwards, in some leisurely official
+explanation, that he said the Kings of Israel at least told the [[Truth|truth]].
+When Lord Curzon was Viceroy he delivered a moral lecture to
+the Indians on their reputed indifference to veracity, to actuality
+and intellectual honor.  A great many people indignantly discussed
+whether orientals deserved to receive this rebuke; whether Indians
+were indeed in a position to receive such severe admonition.
+No one seemed to ask, as I should venture to ask, whether Lord Curzon
+was in a position to give it.  He is an ordinary party politician; a party
+politician means a politician who might have belonged to either party.
+Being such a person, he must again and again, at every twist and turn of
+party strategy, either have deceived others or grossly deceived himself.
+I do not know the East; nor do I like what I know.  I am quite ready to
+believe that when Lord Curzon went out he found a very false atmosphere.
+I only say it must have been something startlingly and chokingly false
+if it was falser than that English atmosphere from which he came.
+The English Parliament actually cares for everything except veracity.
+The public-school man is kind, courageous, polite, clean, companionable;
+but, in the most awful sense of the words, the [[Truth|truth]] is not in him.
+
+This weakness of untruthfulness in the English public schools,
+in the English political system, and to some extent in the English
+character, is a weakness which necessarily produces a curious
+crop of superstitions, of lying legends, of evident delusions
+clung to through low spiritual [[Self|self]]-indulgence. There are so many
+of these public-school superstitions that I have here only space
+for one of them, which may be called the superstition of soap.
+It appears to have been shared by the ablutionary Pharisees,
+who resembled the English public-school aristocrats in so
+many respects:  in their care about club rules and traditions,
+in their offensive optimism at the expense of other people,
+and above all in their unimaginative plodding patriotism
+in the worst interests of their country.  Now the old human
+common sense about washing is that it is a great pleasure.
+[[Water]] (applied externally) is a splendid thing, like wine.
+Sybarites bathe in wine, and Nonconformists drink [[Water|water]];
+but we are not concerned with these frantic exceptions.
+Washing being a pleasure, it stands to reason that rich people can
+afford it more than poor people, and as long as this was recognized
+all was [[Well|well]]; and it was very right that rich people should offer
+baths to poor people, as they might offer any other agreeable thing--
+a drink or a [[donkey]] ride.  But one dreadful day, somewhere about
+the middle of the nineteenth century, somebody discovered
+(somebody pretty [[Well|well]] off) the two great modern truths,
+that washing is a virtue in the rich and therefore a duty
+in the poor.  For a duty is a virtue that one can't do.
+And a virtue is generally a duty that one can do quite easily;
+like the bodily cleanliness of the upper classes.
+But in the public-school tradition of public life, soap has become
+creditable simply because it is pleasant.  Baths are represented
+as a part of the [[Decay|decay]] of the Roman Empire; but the same baths
+are represented as part of the energy and rejuvenation of
+the British Empire.  There are distinguished public school men,
+bishops, dons, headmasters, and high politicians, who, in the course
+of the eulogies which from [[Time|time]] to [[Time|time]] they pass upon themselves,
+have actually identified physical cleanliness with moral purity.
+They say (if I remember rightly) that a public-school man is
+clean inside and out.  As if everyone did not know that while
+saints can afford to be dirty, seducers have to be clean.
+As if everyone did not know that the harlot must be clean,
+because it is her business to captivate, while the good
+wife may be dirty, because it is her business to clean.
+As if we did not all know that whenever God's thunder cracks
+above us, it is very likely indeed to find the simplest man
+in a muck cart and the most complex blackguard in a bath.

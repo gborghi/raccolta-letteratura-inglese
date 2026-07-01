@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 8 (part 6)"
+title: "Shirley — Chapter 8 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,32 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_08/part_05">‹ part 05</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_09/part_01">part 01 ›</a></div>
 </nav>
 
+
+stooped a little in walking. His countenance, as he came on, wore an
+
+abstracted and somewhat doleful air; but in approaching Farren he looked
+
+up, and then a hearty expression illuminated the preoccupied, serious
+
+face.
+
+
+
+"Is it you, William? How are you?" he asked.
+
+
+
+"Middling, Mr. Hall. How are _ye_? Will ye step in and rest ye?"
+
+
+
+Mr. Hall, whose name the reader has seen mentioned before (and who,
+
+indeed, was vicar of Nunnely, of which parish Farren was a native, and
+
+from whence he had removed but three years ago to reside in Briarfield,
+
+for the convenience of being near Hollow's Mill, where he had obtained
 
 work), entered the cottage, and having greeted the good-wife and the
 

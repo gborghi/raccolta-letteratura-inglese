@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 22 (part 3)"
+title: "The Tenant of Wildfell Hall — Chapter 22 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_22/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_22/part_04">part 04 ›</a></div>
 </nav>
 
+
+we let him be. But I left the glass by him; and, after awhile, Grimsby
+
+directed my attention towards it, by a significant wink; and, on
+
+turning my head, I saw it was drained to the [[Bottom|bottom]]. He made me a sign
+
+to replenish, and quietly pushed up the bottle. I willingly complied;
+
+but Lowborough detected the pantomime, and, nettled at the intelligent
+
+grins that were passing between us, snatched the glass from my hand,
 
 dashed the contents of it in Grimsby’s face, threw the empty tumbler at
 
@@ -201,25 +213,3 @@ I’m nothing at all of the kind, and never was, and never shall be. I
 value my comfort far too much. I see that a man cannot give himself up
 
 to drinking without being miserable one-half his days and mad the
-
-other; besides, I like to enjoy my life at all sides and ends, which
-
-cannot be done by one that suffers himself to be the slave of a single
-
-propensity—and, moreover, drinking spoils one’s good looks,” he
-
-concluded, with a most conceited smile that ought to have provoked me
-
-more than it did.
-
-
-
-“And did [[Lord Lowborough]] profit by your advice?” I asked.
-
-
-
-“Why, yes, in a manner. For a while he managed very [[Well|well]]; indeed, he
-
-was a model of moderation and prudence—something too much so for the
-
-tastes of our wild community; but, somehow, Lowborough had not the gift

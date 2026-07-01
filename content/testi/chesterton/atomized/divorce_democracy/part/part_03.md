@@ -1,5 +1,5 @@
 ---
-title: "[[divorce|Divorce]] [[Democracy]] (part 3)"
+title: "Divorce Democracy (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/divorce-democracy-(chesterton)"
@@ -14,6 +14,24 @@ tags:
 </nav>
 
 
+It is common to meet nowadays men who talk of what they call Free [[Love]]
+as if it were something like Free Silver--a new and ingenious
+political scheme.  They seem to forget that it is as easy to judge
+what it would be like as to judge of what legal [[Marriage|marriage]] would be like.
+"Free [[Love]]" has been going on in every town and village since
+the beginning of the world; and the first fact that every man of
+the world knows about it is plain enough.  It never does produce any
+of the wild purity and perfect [[Freedom|freedom]] its friends attribute to it.
+If any paper had the pluck to head a column "Is Concubinage a Failure?"
+instead of "Is [[Marriage]] a Failure?" the answer "Yes" would be given
+by the personal [[Memory|memory]] of all.  Modern people perpetually quote some
+wild expression of [[Monks|monks]] in the wilderness (when a whole civilisation
+was maddened by remorse) about the perilous quality of Woman,
+about how she was a spectre and a serpent and a destroying [[Fire|fire]].
+Probably the establishment of nuns, situated a few miles off,
+described Man also as a serpent and a spectre; but their works
+have not come down to us.
+
 Now all this old-world wit against [[Benedick]] the married man was
 sensible enough.  But so was the bachelorhood of the old [[Monks|monks]],
 who said it, sensible enough.  It is perfectly true that to entangle
@@ -26,7 +44,7 @@ It is not an argument for [[divorce]].  For that entanglement which
 celibacy avowedly avoids, [[divorce]] merely reduplicates and repeats.
 It may have been a sort of solemn comfort to a gentleman of Africa
 to reflect that he had no wife.  It cannot be anything but a discomfort
-to a gentleman of [[america|America]] to [[Wonder|wonder]] which wife he really has.
+to a gentleman of [[America]] to [[Wonder|wonder]] which wife he really has.
 If progress means, as in the ludicrous definition of Herbert Spencer,
 "an advance from the simple to the complex," then certainly [[divorce]]
 is a part of progress.  Nothing can be conceived more complex than

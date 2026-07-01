@@ -1,5 +1,5 @@
 ---
-title: "[[GKC-Autobiography]] — Chapter 15 (part 2)"
+title: "GKC-Autobiography — Chapter 15 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/gkc-autobiography-(chesterton)"
@@ -54,7 +54,7 @@ gave his reasons for having voted against the apotheosis;
 and wrote in one sentence all that I have tried to say here about
 the pessimists and the atheists and the realists and the rest.
 He said he did not object to obscenity; "I do not care how far down
-you force the mind of man; so long as you do not break the [[Spring|spring]]."
+you force the mind of man; so long as you do not break the [[spring]]."
 
 Most of us would not look at such rags as that, of course; but they
 are full of remarks like that, for anyone who, not content even with

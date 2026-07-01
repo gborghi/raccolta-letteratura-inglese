@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 1"
+title: "Our Mutual Friend — Chapter 4"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,615 +10,583 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_41_a_long_lane">‹ Chapter 41 A LONG LANE</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_43">Chapter 43 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_41">‹ Chapter 41</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_43">Chapter 43 ›</a></div>
 </nav>
 
 
-Chapter 1
-
-LODGERS IN QUEER STREET
-
-
-It was a foggy day in [[London]], and the fog was heavy and dark. Animate
-[[London]], with smarting eyes and irritated lungs, was blinking, wheezing,
-and choking; inanimate [[London]] was a sooty spectre, divided in purpose
-between being visible and invisible, and so being wholly neither.
-Gaslights flared in the shops with a haggard and unblest air, as knowing
-themselves to be [[Night|night]]-creatures that had no business abroad under the
-sun; while the sun itself when it was for a few moments dimly indicated
-through circling eddies of fog, showed as if it had gone out and were
-collapsing flat and cold. Even in the surrounding country it was a foggy
-day, but there the fog was grey, whereas in [[London]] it was, at about
-the boundary line, dark yellow, and a little within it brown, and then
-browner, and then browner, until at the heart of the [[City]]—which call
-Saint Mary Axe—it was rusty-black. From any point of the high ridge of
-land northward, it might have been discerned that the loftiest buildings
-made an occasional struggle to get their heads above the foggy sea, and
-especially that the great dome of Saint Paul’s seemed to die hard; but
-this was not perceivable in the streets at their feet, where the whole
-metropolis was a heap of vapour charged with muffled sound of wheels,
-and enfolding a gigantic catarrh.
-
-At nine o’[[Clock|clock]] on such a morning, the place of business of Pubsey and
-Co. was not the liveliest object even in Saint Mary Axe—which is not a
-very lively spot—with a sobbing gaslight in the counting-[[house]] [[Window|window]],
-and a burglarious stream of fog creeping in to strangle it through the
-keyhole of the main door. But the light went out, and the main door
-opened, and Riah came forth with a bag under his arm.
-
-Almost in the act of coming out at the door, Riah went into the fog, and
-was lost to the eyes of Saint Mary Axe. But the eyes of this [[history]]
-can follow him westward, by Cornhill, Cheapside, Fleet Street, and the
-Strand, to Piccadilly and the Albany. Thither he went at his [[Grave|grave]] and
-measured pace, staff in hand, skirt at heel; and more than one head,
-turning to look back at his venerable figure already lost in the mist,
-supposed it to be some ordinary figure indistinctly seen, which fancy
-and the fog had worked into that passing likeness.
-
-Arrived at the [[house]] in which his master’s chambers were on the
-second floor, Riah proceeded up the stairs, and paused at Fascination
-Fledgeby’s door. Making free with neither bell nor knocker, he struck
-upon the door with the top of his staff, and, having listened, sat down
-on the threshold. It was characteristic of his habitual submission,
-that he sat down on the raw dark staircase, as many of his ancestors
-had probably sat down in dungeons, taking what befell him as it might
-befall.
-
-After a [[Time|time]], when he had grown so cold as to be fain to blow upon his
-fingers, he arose and knocked with his staff again, and listened again,
-and again sat down to wait. Thrice he repeated these actions before his
-listening ears were greeted by the voice of Fledgeby, calling from his
-bed, ‘Hold your row!—I’ll come and open the door directly!’ But, in
-lieu of coming directly, he fell into a sweet [[Sleep|sleep]] for some quarter of
-an hour more, during which added interval Riah sat upon the stairs and
-waited with perfect patience.
-
-At length the door stood open, and Mr Fledgeby’s retreating drapery
-plunged into bed again. Following it at a respectful distance, Riah
-passed into the bed-chamber, where a [[Fire|fire]] had been sometime lighted, and
-was burning briskly.
-
-‘Why, what [[Time|time]] of [[Night|night]] do you mean to call it?’ inquired Fledgeby,
-turning away beneath the clothes, and presenting a comfortable rampart
-of shoulder to the chilled figure of the old man.
-
-‘Sir, it is full half-past ten in the morning.’
-
-‘The deuce it is! Then it must be precious foggy?’
-
-‘Very foggy, sir.’
-
-‘And raw, then?’
-
-‘Chill and bitter,’ said Riah, drawing out a handkerchief, and wiping
-the moisture from his beard and long grey hair as he stood on the verge
-of the rug, with his eyes on the acceptable [[Fire|fire]].
-
-With a plunge of enjoyment, Fledgeby settled himself afresh.
-
-‘Any [[Snow|snow]], or sleet, or slush, or anything of that sort?’ he asked.
-
-‘No, sir, no. Not quite so bad as that. The streets are pretty clean.’
-
-‘You needn’t brag about it,’ returned Fledgeby, disappointed in his
-[[Desire|desire]] to heighten the contrast between his bed and the streets. ‘But
-you’re always bragging about something. Got the books there?’
-
-‘They are here, sir.’
-
-‘All right. I’ll turn the general subject over in my mind for a minute
-or two, and while I’m about it you can empty your bag and get ready for
-me.’
-
-With another comfortable plunge, Mr Fledgeby fell asleep again. The old
-man, having obeyed his directions, sat down on the edge of a chair, and,
-folding his hands before him, gradually yielded to the influence of the
-warmth, and dozed. He was roused by Mr Fledgeby’s appearing erect at
-the foot of the bed, in Turkish slippers, [[Rose|rose]]-coloured Turkish trousers
-(got cheap from somebody who had cheated some other somebody out of
-them), and a gown and cap to correspond. In that costume he would have
-left nothing to be desired, if he had been further fitted out with a
-bottomless chair, a lantern, and a bunch of matches.
-
-‘Now, old ’un!’ cried Fascination, in his light raillery, ‘what dodgery
-are you up to next, sitting there with your eyes shut? You ain’t asleep.
-Catch a weasel at it, and catch a Jew!’
-
-‘Truly, sir, I [[Fear|fear]] I nodded,’ said the old man.
-
-‘Not you!’ returned Fledgeby, with a cunning look. ‘A telling move with
-a good many, I dare say, but it won’t put ME off my guard. Not a bad
-notion though, if you want to look indifferent in driving a bargain. Oh,
-you are a dodger!’
-
-The old man shook his head, gently repudiating the imputation, and
-suppressed a sigh, and moved to the table at which Mr Fledgeby was now
-pouring out for himself a cup of steaming and fragrant coffee from a pot
-that had stood ready on the hob. It was an edifying spectacle, the young
-man in his easy chair taking his coffee, and the old man with his grey
-head bent, standing awaiting his pleasure.
-
-‘Now!’ said Fledgeby. ‘Fork out your balance in hand, and prove by
-figures how you make it out that it ain’t more. First of all, light that
-candle.’
-
-Riah obeyed, and then taking a bag from his breast, and referring to
-the sum in the accounts for which they made him responsible, told it out
-upon the table. Fledgeby told it again with great care, and rang every
-sovereign.
-
-‘I suppose,’ he said, taking one up to eye it closely, ‘you haven’t been
-lightening any of these; but it’s a trade of your people’s, you know.
-YOU understand what sweating a pound means, don’t you?’
-
-‘Much as you do, sir,’ returned the old man, with his hands under
-opposite cuffs of his loose sleeves, as he stood at the table,
-deferentially observant of the master’s face. ‘May I take the liberty to
-say something?’
-
-‘You may,’ Fledgeby graciously conceded.
-
-‘Do you not, sir—without intending it—of a surety without intending
-it—sometimes mingle the character I fairly earn in your employment,
-with the character which it is your policy that I should bear?’
-
-‘I don’t find it worth my while to cut things so fine as to go into the
-inquiry,’ Fascination coolly answered.
-
-‘Not in justice?’
-
-‘Bother justice!’ said Fledgeby.
-
-‘Not in generosity?’
-
-‘Jews and generosity!’ said Fledgeby. ‘That’s a good connexion! Bring
-out your vouchers, and don’t talk Jerusalem palaver.’
-
-The vouchers were produced, and for the next half-hour Mr Fledgeby
-concentrated his [[Sublime|sublime]] attention on them. They and the accounts were
-all found correct, and the books and the papers resumed their places in
-the bag.
-
-‘Next,’ said Fledgeby, ‘concerning that bill-broking branch of the
-business; the branch I like best. What queer bills are to be bought, and
-at what prices? You have got your list of what’s in the market?’
-
-‘Sir, a long list,’ replied Riah, taking out a pocket-book, and
-selecting from its contents a folded paper, which, being unfolded,
-became a sheet of foolscap covered with close writing.
-
-‘Whew!’ whistled Fledgeby, as he took it in his hand. ‘Queer Street is
-full of lodgers just at present! These are to be disposed of in parcels;
-are they?’
-
-‘In parcels as set forth,’ returned the old man, looking over his
-master’s shoulder; ‘or the lump.’
-
-‘Half the lump will be waste-paper, one knows beforehand,’ said
-Fledgeby. ‘Can you get it at waste-paper price? That’s the question.’
-
-Riah shook his head, and Fledgeby cast his small eyes down the list.
-They presently began to twinkle, and he no sooner became conscious of
-their twinkling, than he looked up over his shoulder at the [[Grave|grave]] face
-above him, and moved to the chimney-piece. Making a desk of it, he stood
-there with his back to the old man, warming his knees, perusing the list
-at his leisure, and often returning to some lines of it, as though
-they were particularly interesting. At those times he glanced in the
-chimney-glass to see what note the old man took of him. He took none
-that could be detected, but, aware of his employer’s suspicions, stood
-with his eyes on the ground.
-
-Mr Fledgeby was thus amiably engaged when a step was heard at the outer
-door, and the door was heard to open hastily. ‘Hark! That’s your doing,
-you Pump of Israel,’ said Fledgeby; ‘you can’t have shut it.’ Then the
-step was heard within, and the voice of Mr Alfred Lammle called aloud,
-‘Are you anywhere here, Fledgeby?’ To which Fledgeby, after cautioning
-Riah in a low voice to take his cue as it should be given him, replied,
-‘Here I am!’ and opened his bedroom door.
-
-‘Come in!’ said Fledgeby. ‘This gentleman is only Pubsey and Co. of
-Saint Mary Axe, that I am trying to make terms for an unfortunate friend
-with in a matter of some dishonoured bills. But really Pubsey and Co.
-are so strict with their debtors, and so hard to move, that I seem to be
-wasting my [[Time|time]]. Can’t I make ANY terms with you on my friend’s part, Mr
-Riah?’
-
-‘I am but the representative of another, sir,’ returned the Jew in a low
-voice. ‘I do as I am bidden by my principal. It is not my capital that
-is invested in the business. It is not my profit that arises therefrom.’
-
-‘Ha ha!’ laughed Fledgeby. ‘Lammle?’
-
-‘Ha ha!’ laughed Lammle. ‘Yes. Of course. We know.’
-
-‘Devilish good, ain’t it, Lammle?’ said Fledgeby, unspeakably amused by
-his hidden joke.
-
-‘Always the same, always the same!’ said Lammle. ‘Mr—’
-
-‘Riah, Pubsey and Co. Saint Mary Axe,’ Fledgeby put in, as he wiped away
-the [[Tears|tears]] that trickled from his eyes, so rare was his enjoyment of his
-secret joke.
-
-‘Mr Riah is bound to observe the invariable forms for such cases made
-and provided,’ said Lammle.
-
-‘He is only the representative of another!’ cried Fledgeby. ‘Does as
-he is told by his principal! Not his capital that’s invested in the
-business. Oh, that’s good! Ha ha ha ha!’ Mr Lammle joined in the laugh
-and looked knowing; and the more he did both, the more exquisite the
-secret joke became for Mr Fledgeby.
-
-‘However,’ said that fascinating gentleman, wiping his eyes again, ‘if
-we go on in this way, we shall seem to be almost making game of Mr Riah,
-or of Pubsey and Co. Saint Mary Axe, or of somebody: which is far from
-our intention. Mr Riah, if you would have the kindness to step into the
-next room for a few moments while I speak with Mr Lammle here, I should
-like to try to make terms with you once again before you go.’
-
-The old man, who had never raised his eyes during the whole transaction
-of Mr Fledgeby’s joke, silently bowed and passed out by the door which
-Fledgeby opened for him. Having closed it on him, Fledgeby returned to
-Lammle, standing with his back to the bedroom [[Fire|fire]], with one hand under
-his coat-skirts, and all his whiskers in the other.
-
-‘Halloa!’ said Fledgeby. ‘There’s something wrong!’
-
-‘How do you know it?’ demanded Lammle.
-
-‘Because you show it,’ replied Fledgeby in unintentional rhyme.
-
-‘[[Well]] then; there is,’ said Lammle; ‘there IS something wrong; the whole
-thing’s wrong.’
-
-‘I say!’ remonstrated Fascination very slowly, and sitting down with his
-hands on his knees to stare at his glowering friend with his back to the
-[[Fire|fire]].
-
-‘I tell you, Fledgeby,’ repeated Lammle, with a sweep of his right arm,
-‘the whole thing’s wrong. The game’s up.’
-
-‘What game’s up?’ demanded Fledgeby, as slowly as before, and more
-sternly.
-
-‘THE game. OUR game. Read that.’
-
-Fledgeby took a note from his extended hand and read it aloud. ‘Alfred
-Lammle, Esquire. Sir: Allow Mrs Podsnap and myself to express our united
-sense of the polite attentions of Mrs Alfred Lammle and yourself towards
-our daughter, Georgiana. Allow us also, wholly to reject them for the
-future, and to communicate our final [[Desire|desire]] that the two families
-may become entire strangers. I have the [[Honour|honour]] to be, Sir, your most
-obedient and very humble servant, JOHN PODSNAP.’ Fledgeby looked at the
-three blank sides of this note, quite as long and earnestly as at the
-first expressive side, and then looked at Lammle, who responded with
-another extensive sweep of his right arm.
-
-‘Whose doing is this?’ said Fledgeby.
-
-‘Impossible to imagine,’ said Lammle.
-
-‘Perhaps,’ suggested Fledgeby, after reflecting with a very discontented
-brow, ‘somebody has been giving you a bad character.’
-
-‘Or you,’ said Lammle, with a deeper frown.
-
-Mr Fledgeby appeared to be on the verge of some mutinous expressions,
-when his hand happened to touch his nose. A certain remembrance
-connected with that feature operating as a timely warning, he took it
-thoughtfully between his thumb and forefinger, and pondered; Lammle
-meanwhile eyeing him with furtive eyes.
-
-‘[[Well]]!’ said Fledgeby. ‘This won’t improve with talking about. If we
-ever find out who did it, we’ll mark that person. There’s nothing more
-to be said, except that you undertook to do what circumstances prevent
-your doing.’
-
-‘And that you undertook to do what you might have done by this [[Time|time]], if
-you had made a prompter use of circumstances,’ snarled Lammle.
-
-‘Hah! That,’ remarked Fledgeby, with his hands in the Turkish trousers,
-‘is matter of opinion.’
-
-‘Mr Fledgeby,’ said Lammle, in a bullying tone, ‘am I to understand that
-you in any way reflect upon me, or hint dissatisfaction with me, in this
-affair?’
-
-‘No,’ said Fledgeby; ‘provided you have brought my promissory note in
-your pocket, and now hand it over.’
-
-Lammle produced it, not without reluctance. Fledgeby looked at it,
-identified it, twisted it up, and threw it into the [[Fire|fire]]. They both
-looked at it as it blazed, went out, and flew in feathery ash up the
-chimney.
-
-‘NOW, Mr Fledgeby,’ said Lammle, as before; ‘am I to understand that
-you in any way reflect upon me, or hint dissatisfaction with me, in this
-affair?’
-
-‘No,’ said Fledgeby.
-
-‘Finally and unreservedly no?’
-
-‘Yes.’
-
-‘Fledgeby, my hand.’
-
-Mr Fledgeby took it, saying, ‘And if we ever find out who did this,
-we’ll mark that person. And in the most friendly manner, let me mention
-one thing more. I don’t know what your circumstances are, and I don’t
-ask. You have sustained a loss here. Many men are liable to be involved
-at times, and you may be, or you may not be. But whatever you do,
-Lammle, don’t—don’t—don’t, I beg of you—ever fall into the hands of
-Pubsey and Co. in the next room, for they are grinders. Regular flayers
-and grinders, my dear Lammle,’ repeated Fledgeby with a peculiar relish,
-‘and they’ll skin you by the inch, from the nape of your neck to the
-sole of your foot, and grind every inch of your skin to tooth-powder.
-You have seen what Mr Riah is. Never fall into his hands, Lammle, I beg
-of you as a friend!’
-
-Mr Lammle, disclosing some alarm at the solemnity of this affectionate
-adjuration, demanded why the devil he ever should fall into the hands of
-Pubsey and Co.?
-
-‘To confess the fact, I was made a little uneasy,’ said the candid
-Fledgeby, ‘by the manner in which that Jew looked at you when he heard
-your name. I didn’t like his eye. But it may have been the heated
-fancy of a friend. Of course if you are sure that you have no personal
-security out, which you may not be quite equal to meeting, and which can
-have got into his hands, it must have been fancy. Still, I didn’t like
-his eye.’
-
-The brooding Lammle, with certain white dints coming and going in his
-palpitating nose, looked as if some tormenting imp were pinching it.
-Fledgeby, watching him with a twitch in his mean face which did duty
-there for a smile, looked very like the tormentor who was pinching.
-
-‘But I mustn’t keep him waiting too long,’ said Fledgeby, ‘or he’ll
-[[Revenge|revenge]] it on my unfortunate friend. How’s your very clever and
-agreeable wife? She knows we have broken down?’
-
-‘I showed her the letter.’
-
-‘Very much surprised?’ asked Fledgeby.
-
-‘I think she would have been more so,’ answered Lammle, ‘if there had
-been more go in YOU?’
-
-‘Oh!—She lays it upon me, then?’
-
-‘Mr Fledgeby, I will not have my words misconstrued.’
-
-‘Don’t break out, Lammle,’ urged Fledgeby, in a submissive tone,
-‘because there’s no occasion. I only asked a question. Then she don’t
-lay it upon me? To ask another question.’
-
-‘No, sir.’
-
-‘Very good,’ said Fledgeby, plainly seeing that she did. ‘My compliments
-to her. Good-bye!’
-
-They shook hands, and Lammle strode out pondering. Fledgeby saw him
-into the fog, and, returning to the [[Fire|fire]] and musing with his face to it,
-stretched the legs of the [[Rose|rose]]-coloured Turkish trousers wide apart, and
-meditatively bent his knees, as if he were going down upon them.
-
-‘You have a pair of whiskers, Lammle, which I never liked,’ murmured
-Fledgeby, ‘and which money can’t produce; you are boastful of your
-manners and your conversation; you wanted to pull my nose, and you have
-let me in for a failure, and your wife says I am the cause of it. I’ll
-bowl you down. I will, though I have no whiskers,’ here he rubbed the
-places where they were due, ‘and no manners, and no conversation!’
-
-Having thus relieved his noble mind, he collected the legs of the
-Turkish trousers, straightened himself on his knees, and called out
-to Riah in the next room, ‘Halloa, you sir!’ At sight of the old man
-re-entering with a gentleness monstrously in contrast with the character
-he had given him, Mr Fledgeby was so tickled again, that he exclaimed,
-laughing, ‘Good! Good! Upon my [[Soul|soul]] it is uncommon good!’
-
-‘Now, old ’un,’ proceeded Fledgeby, when he had had his laugh out,
-‘you’ll buy up these lots that I mark with my pencil—there’s a tick
-there, and a tick there, and a tick there—and I wager two-pence you’ll
-afterwards go on squeezing those Christians like the Jew you are. Now,
-next you’ll want a cheque—or you’ll say you want it, though you’ve
-capital enough somewhere, if one only knew where, but you’d be peppered
-and salted and grilled on a gridiron before you’d own to it—and that
-cheque I’ll write.’
-
-When he had unlocked a drawer and taken a key from it to open another
-drawer, in which was another key that opened another drawer, in which
-was another key that opened another drawer, in which was the cheque
-book; and when he had written the cheque; and when, reversing the key
-and drawer process, he had placed his cheque book in safety again; he
-beckoned the old man, with the folded cheque, to come and take it.
-
-‘Old ’un,’ said Fledgeby, when the Jew had put it in his pocketbook, and
-was putting that in the breast of his outer garment; ‘so much at present
-for my affairs. Now a word about affairs that are not exactly mine.
-Where is she?’
-
-With his hand not yet withdrawn from the breast of his garment, Riah
-started and paused.
-
-‘Oho!’ said Fledgeby. ‘Didn’t expect it! Where have you hidden her?’
-
-Showing that he was taken by surprise, the old man looked at his master
-with some passing confusion, which the master highly enjoyed.
-
-‘Is she in the [[house]] I pay rent and taxes for in Saint Mary Axe?’
-demanded Fledgeby.
-
-‘No, sir.’
-
-‘Is she in your [[Garden|garden]] up atop of that [[house]]—gone up to be dead, or
-whatever the game is?’ asked Fledgeby.
-
-‘No, sir.’
-
-‘Where is she then?’
-
-Riah bent his eyes upon the ground, as if considering whether he could
-answer the question without breach of [[Faith|faith]], and then silently raised
-them to Fledgeby’s face, as if he could not.
-
-‘Come!’ said Fledgeby. ‘I won’t press that just now. But I want to know
-this, and I will know this, mind you. What are you up to?’
-
-The old man, with an apologetic action of his head and hands, as not
-comprehending the master’s meaning, addressed to him a look of mute
-inquiry.
-
-‘You can’t be a gallivanting dodger,’ said Fledgeby. ‘For you’re a
-“regular pity the sorrows”, you know—if you DO know any Christian
-rhyme—“whose trembling limbs have borne him to”—et cetrer. You’re one
-of the Patriarchs; you’re a shaky old card; and you can’t be in [[Love|love]]
-with this Lizzie?’
-
-‘O, sir!’ expostulated Riah. ‘O, sir, sir, sir!’
-
-‘Then why,’ retorted Fledgeby, with some slight tinge of a blush, ‘don’t
-you out with your reason for having your spoon in the soup at all?’
-
-‘Sir, I will tell you the [[Truth|truth]]. But (your pardon for the stipulation)
-it is in sacred confidence; it is strictly upon [[Honour|honour]].’
-
-‘[[Honour]] too!’ cried Fledgeby, with a mocking lip. ‘[[Honour]] among Jews.
-[[Well]]. Cut away.’
-
-‘It is upon [[Honour|honour]], sir?’ the other still stipulated, with respectful
-firmness.
-
-‘Oh, certainly. [[Honour]] bright,’ said Fledgeby.
-
-The old man, never bidden to sit down, stood with an earnest hand laid
-on the back of the young man’s easy chair. The young man sat looking at
-the [[Fire|fire]] with a face of listening curiosity, ready to check him off and
-catch him tripping.
-
-‘Cut away,’ said Fledgeby. ‘Start with your motive.’
-
-‘Sir, I have no motive but to help the helpless.’
-
-Mr Fledgeby could only express the feelings to which this incredible
-statement gave rise in his breast, by a prodigiously long derisive
-sniff.
-
-‘How I came to know, and much to esteem and to respect, this [[Damsel|damsel]], I
-mentioned when you saw her in my poor [[Garden|garden]] on the [[house]]-top,’ said the
-Jew.
-
-‘Did you?’ said Fledgeby, distrustfully. ‘[[Well]]. Perhaps you did,
-though.’
-
-‘The better I knew her, the more interest I felt in her fortunes. They
-gathered to a crisis. I found her beset by a selfish and ungrateful
-brother, beset by an unacceptable wooer, beset by the snares of a more
-powerful [[Lover|lover]], beset by the wiles of her own heart.’
-
-‘She took to one of the chaps then?’
-
-‘Sir, it was only natural that she should incline towards him, for he
-had many and great advantages. But he was not of her station, and to
-marry her was not in his mind. Perils were closing round her, and the
-circle was fast darkening, when I—being as you have said, sir, too
-old and broken to be suspected of any feeling for her but a
-father’s—stepped in, and counselled flight. I said, “My daughter, there
-are times of moral danger when the hardest virtuous resolution to form
-is flight, and when the most heroic bravery is flight.” She answered,
-she had had this in her thoughts; but whither to fly without help she
-knew not, and there were none to help her. I showed her there was one to
-help her, and it was I. And she is gone.’
-
-‘What did you do with her?’ asked Fledgeby, feeling his cheek.
-
-‘I placed her,’ said the old man, ‘at a distance;’ with a [[Grave|grave]] smooth
-outward sweep from one another of his two open hands at arm’s length;
-‘at a distance—among certain of our people, where her industry would
-serve her, and where she could [[Hope|hope]] to exercise it, unassailed from any
-quarter.’
-
-Fledgeby’s eyes had come from the [[Fire|fire]] to notice the action of his hands
-when he said ‘at a distance.’ Fledgeby now tried (very unsuccessfully)
-to imitate that action, as he shook his head and said, ‘Placed her in
-that direction, did you? Oh you circular old dodger!’
-
-With one hand across his breast and the other on the easy chair, Riah,
-without justifying himself, waited for further questioning. But, that it
-was hopeless to question him on that one reserved point, Fledgeby, with
-his small eyes too near together, saw full [[Well|well]].
-
-‘Lizzie,’ said Fledgeby, looking at the [[Fire|fire]] again, and then looking up.
-‘Humph, Lizzie. You didn’t tell me the other name in your [[Garden|garden]] atop of
-the [[house]]. I’ll be more communicative with you. The other name’s Hexam.’
-
-Riah bent his head in assent.
-
-‘Look here, you sir,’ said Fledgeby. ‘I have a notion I know something
-of the inveigling chap, the powerful one. Has he anything to do with the
-law?’
-
-‘Nominally, I believe it his calling.’
-
-‘I thought so. Name anything like Lightwood?’
-
-‘Sir, not at all like.’
-
-‘Come, old ’un,’ said Fledgeby, meeting his eyes with a wink, ‘say the
-name.’
-
-‘Wrayburn.’
-
-‘By Jupiter!’ cried Fledgeby. ‘That one, is it? I thought it might be
-the other, but I never dreamt of that one! I shouldn’t object to your
-baulking either of the pair, dodger, for they are both conceited enough;
-but that one is as cool a customer as ever I met with. Got a beard
-besides, and presumes upon it. [[Well]] done, old ’un! Go on and prosper!’
-
-Brightened by this unexpected commendation, Riah asked were there more
-instructions for him?
-
-‘No,’ said Fledgeby, ‘you may toddle now, Judah, and grope about on the
-orders you have got.’ Dismissed with those pleasing words, the old man
-took his broad hat and staff, and left the great presence: more as if he
-were some superior creature benignantly blessing Mr Fledgeby, than the
-poor dependent on whom he set his foot. Left [[Alone|alone]], Mr Fledgeby locked
-his outer door, and came back to his [[Fire|fire]].
-
-‘[[Well]] done you!’ said Fascination to himself. ‘Slow, you may be; sure,
-you are!’ This he twice or thrice repeated with much complacency, as he
-again dispersed the legs of the Turkish trousers and bent the knees.
-
-‘A tidy shot that, I flatter myself,’ he then soliloquised. ‘And a Jew
-brought down with it! Now, when I heard the story told at Lammle’s, I
-didn’t make a jump at Riah. Not a hit of it; I got at him by degrees.’
-Herein he was quite accurate; it being his habit, not to jump, or
-leap, or make an upward [[Spring|spring]], at anything in life, but to crawl at
-everything.
-
-‘I got at him,’ pursued Fledgeby, feeling for his whisker, ‘by degrees.
-If your Lammles or your Lightwoods had got at him anyhow, they would
-have asked him the question whether he hadn’t something to do with that
-gal’s disappearance. I knew a better way of going to work. Having got
-behind the hedge, and put him in the light, I took a shot at him and
-brought him down plump. Oh! It don’t count for much, being a Jew, in a
-match against ME!’
-
-Another dry twist in place of a smile, made his face crooked here.
-
-‘As to Christians,’ proceeded Fledgeby, ‘look out, fellow-Christians,
-particularly you that lodge in Queer Street! I have got the run of Queer
-Street now, and you shall see some games there. To work a lot of power
-over you and you not know it, knowing as you think yourselves, would
-be almost worth laying out money upon. But when it comes to squeezing a
-profit out of you into the bargain, it’s something like!’
-
-With this apostrophe Mr Fledgeby appropriately proceeded to divest
-himself of his Turkish garments, and invest himself with Christian
-attire. Pending which operation, and his morning ablutions, and his
-anointing of himself with the last infallible preparation for the
-production of luxuriant and glossy hair upon the human countenance
-(quacks being the only sages he believed in besides usurers), the murky
-fog closed about him and shut him up in its sooty embrace. If it had
-never let him out any more, the world would have had no irreparable
-loss, but could have easily replaced him from its stock on hand.
+Chapter 4
+
+A HAPPY RETURN OF THE DAY
+
+
+Mr and Mrs Wilfer had seen a full quarter of a hundred more
+anniversaries of their wedding day than Mr and Mrs Lammle had seen of
+theirs, but they still celebrated the occasion in the bosom of
+their family. Not that these celebrations ever resulted in anything
+particularly agreeable, or that the family was ever disappointed by that
+circumstance on account of having looked forward to the return of the
+auspicious day with sanguine anticipations of enjoyment. It was kept
+morally, rather as a Fast than a Feast, enabling Mrs Wilfer to hold
+a sombre darkling state, which exhibited that impressive woman in her
+choicest colours.
+
+The noble lady’s condition on these delightful occasions was one
+compounded of heroic [[Endurance|endurance]] and heroic [[Forgiveness|forgiveness]]. Lurid indications
+of the better marriages she might have made, shone athwart the awful
+gloom of her composure, and fitfully revealed the cherub as a little
+[[Monster|monster]] unaccountably favoured by Heaven, who had possessed himself of a
+blessing for which many of his superiors had sued and contended in vain.
+So firmly had this his position towards his treasure become established,
+that when the anniversary arrived, it always found him in an apologetic
+state. It is not impossible that his modest penitence may have even gone
+the length of sometimes severely reproving him for that he ever took the
+liberty of making so exalted a character his wife.
+
+As for the children of the [[Union|union]], their experience of these festivals
+had been sufficiently uncomfortable to lead them annually to wish, when
+out of their tenderest years, either that Ma had married somebody else
+instead of much-teased Pa, or that Pa had married somebody else instead
+of Ma. When there came to be but two sisters left at [[Home|home]], the daring
+mind of Bella on the next of these occasions scaled the height of
+wondering with droll vexation ‘what on earth Pa ever could have seen in
+Ma, to induce him to make such a little [[Fool|fool]] of himself as to ask her to
+have him.’
+
+The revolving year now bringing the day round in its orderly sequence,
+Bella arrived in the Boffin chariot to assist at the celebration. It was
+the family custom when the day recurred, to sacrifice a pair of fowls
+on the altar of Hymen; and Bella had sent a note beforehand, to intimate
+that she would bring the votive offering with her. So, Bella and the
+fowls, by the united energies of two horses, two men, four wheels, and a
+plum-pudding carriage dog with as uncomfortable a collar on as if he
+had been George the Fourth, were deposited at the door of the parental
+dwelling. They were there received by Mrs Wilfer in person, whose
+dignity on this, as on most special occasions, was heightened by a
+mysterious toothache.
+
+‘I shall not require the carriage at [[Night|night]],’ said Bella. ‘I shall walk
+back.’
+
+The male domestic of Mrs Boffin touched his hat, and in the act of
+departure had an awful glare bestowed upon him by Mrs Wilfer, intended
+to carry deep into his audacious [[Soul|soul]] the assurance that, whatever his
+private suspicions might be, male domestics in livery were no rarity
+there.
+
+‘[[Well]], dear Ma,’ said Bella, ‘and how do you do?’
+
+‘I am as [[Well|well]], Bella,’ replied Mrs Wilfer, ‘as can be expected.’
+
+‘Dear me, Ma,’ said Bella; ‘you talk as if one was just born!’
+
+‘That’s exactly what Ma has been doing,’ interposed Lavvy, over the
+maternal shoulder, ‘ever since we got up this morning. It’s all very
+[[Well|well]] to laugh, Bella, but anything more exasperating it is impossible to
+conceive.’
+
+Mrs Wilfer, with a look too full of majesty to be accompanied by any
+words, attended both her daughters to the kitchen, where the sacrifice
+was to be prepared.
+
+‘Mr Rokesmith,’ said she, resignedly, ‘has been so polite as to place
+his sitting-room at our disposal to-day. You will therefore, Bella, be
+entertained in the humble abode of your parents, so far in accordance
+with your present style of living, that there will be a drawing-room for
+your reception as [[Well|well]] as a dining-room. Your papa invited Mr Rokesmith
+to partake of our lowly fare. In excusing himself on account of a
+particular engagement, he offered the use of his apartment.’
+
+Bella happened to know that he had no engagement out of his own room at
+Mr Boffin’s, but she approved of his staying away. ‘We should only have
+put one another out of countenance,’ she thought, ‘and we do that quite
+often enough as it is.’
+
+Yet she had sufficient curiosity about his room, to run up to it with
+the least possible delay, and make a close inspection of its contents.
+It was tastefully though economically furnished, and very neatly
+arranged. There were shelves and stands of books, English, French, and
+Italian; and in a portfolio on the writing-table there were sheets upon
+sheets of memoranda and calculations in figures, evidently referring to
+the Boffin property. On that table also, carefully backed with canvas,
+varnished, mounted, and rolled like a map, was the placard descriptive
+of the murdered man who had come from afar to be her husband. She shrank
+from this ghostly surprise, and felt quite frightened as she rolled and
+tied it up again. Peeping about here and there, she came upon a print, a
+graceful head of a pretty woman, elegantly framed, hanging in the corner
+by the easy chair. ‘Oh, indeed, sir!’ said Bella, after stopping to
+ruminate before it. ‘Oh, indeed, sir! I fancy I can guess whom you
+think THAT’S like. But I’ll tell you what it’s much more like—your
+impudence!’ Having said which she decamped: not solely because she was
+offended, but because there was nothing else to look at.
+
+‘Now, Ma,’ said Bella, reappearing in the kitchen with some remains of a
+blush, ‘you and Lavvy think magnificent me fit for nothing, but I intend
+to prove the contrary. I mean to be Cook today.’
+
+‘Hold!’ rejoined her majestic mother. ‘I cannot permit it. Cook, in that
+dress!’
+
+‘As for my dress, Ma,’ returned Bella, merrily searching in a
+dresser-drawer, ‘I mean to apron it and towel it all over the front; and
+as to permission, I mean to do without.’
+
+‘YOU cook?’ said Mrs Wilfer. ‘YOU, who never cooked when you were at
+[[Home|home]]?’
+
+‘Yes, Ma,’ returned Bella; ‘that is precisely the state of the case.’
+
+She girded herself with a white apron, and busily with knots and pins
+contrived a bib to it, coming close and tight under her chin, as if it
+had caught her round the neck to kiss her. Over this bib her dimples
+looked delightful, and under it her pretty figure not less so. ‘Now,
+Ma,’ said Bella, pushing back her hair from her temples with both hands,
+‘what’s first?’
+
+‘First,’ returned Mrs Wilfer solemnly, ‘if you persist in what I cannot
+but regard as conduct utterly incompatible with the equipage in which
+you arrived—’
+
+(‘Which I do, Ma.’)
+
+‘First, then, you put the fowls down to the [[Fire|fire]].’
+
+‘To—be—sure!’ cried Bella; ‘and flour them, and twirl them round, and
+there they go!’ sending them spinning at a great rate. ‘What’s next,
+Ma?’
+
+‘Next,’ said Mrs Wilfer with a wave of her gloves, expressive of
+abdication under protest from the culinary throne, ‘I would recommend
+examination of the bacon in the saucepan on the [[Fire|fire]], and also of the
+potatoes by the application of a fork. Preparation of the greens will
+further become necessary if you persist in this unseemly demeanour.’
+
+‘As of course I do, Ma.’
+
+Persisting, Bella gave her attention to one thing and forgot the
+other, and gave her attention to the other and forgot the third, and
+remembering the third was distracted by the fourth, and made amends
+whenever she went wrong by giving the unfortunate fowls an extra spin,
+which made their chance of ever getting cooked exceedingly doubtful. But
+it was pleasant cookery too. Meantime Miss [[Lavinia]], oscillating between
+the kitchen and the opposite room, prepared the dining-table in the
+latter chamber. This office she (always doing her household spiriting
+with unwillingness) performed in a startling series of whisks and bumps;
+laying the table-cloth as if she were raising the [[Wind|wind]], putting down
+the glasses and salt-cellars as if she were knocking at the door, and
+clashing the knives and forks in a skirmishing manner suggestive of
+hand-to-hand conflict.
+
+‘Look at Ma,’ whispered [[Lavinia]] to Bella when this was done, and they
+stood over the roasting fowls. ‘If one was the most dutiful [[Child|child]] in
+existence (of course on the whole one hopes one is), isn’t she enough
+to make one want to poke her with something wooden, sitting there bolt
+upright in a corner?’
+
+‘Only suppose,’ returned Bella, ‘that poor Pa was to sit bolt upright in
+another corner.’
+
+‘My dear, he couldn’t do it,’ said Lavvy. ‘Pa would loll directly. But
+indeed I do not believe there ever was any human creature who could keep
+so bolt upright as Ma, ‘or put such an amount of aggravation into one
+back! What’s the matter, Ma? Ain’t you [[Well|well]], Ma?’
+
+‘Doubtless I am very [[Well|well]],’ returned Mrs Wilfer, turning her eyes upon
+her youngest born, with scornful fortitude. ‘What should be the matter
+with Me?’
+
+‘You don’t seem very brisk, Ma,’ retorted Lavvy the bold.
+
+‘Brisk?’ repeated her parent, ‘Brisk? Whence the low expression,
+[[Lavinia]]? If I am uncomplaining, if I am silently contented with my lot,
+let that suffice for my family.’
+
+‘[[Well]], Ma,’ returned Lavvy, ‘since you will force it out of me, I must
+respectfully take leave to say that your family are no [[Doubt|doubt]] under
+the greatest obligations to you for having an annual toothache on your
+wedding day, and that it’s very disinterested in you, and an immense
+blessing to them. Still, on the whole, it is possible to be too boastful
+even of that boon.’
+
+‘You incarnation of sauciness,’ said Mrs Wilfer, ‘do you speak like that
+to me? On this day, of all days in the year? Pray do you know what
+would have become of you, if I had not bestowed my hand upon R. W., your
+father, on this day?’
+
+‘No, Ma,’ replied Lavvy, ‘I really do not; and, with the greatest
+respect for your abilities and information, I very much [[Doubt|doubt]] if you do
+either.’
+
+Whether or no the sharp vigour of this sally on a weak point of Mrs
+Wilfer’s entrenchments might have routed that heroine for the [[Time|time]], is
+rendered uncertain by the arrival of a [[Flag|flag]] of truce in the person of
+Mr George Sampson: bidden to the feast as a friend of the family, whose
+affections were now understood to be in course of transference from
+Bella to [[Lavinia]], and whom [[Lavinia]] kept—possibly in remembrance of his
+bad taste in having overlooked her in the first instance—under a course
+of stinging discipline.
+
+‘I congratulate you, Mrs Wilfer,’ said Mr George Sampson, who had
+meditated this neat address while coming along, ‘on the day.’ Mrs Wilfer
+thanked him with a magnanimous sigh, and again became an unresisting
+prey to that inscrutable toothache.
+
+‘I am surprised,’ said Mr Sampson feebly, ‘that Miss Bella condescends
+to cook.’
+
+Here Miss [[Lavinia]] descended on the ill-starred young gentleman with a
+crushing supposition that at all events it was no business of his. This
+disposed of Mr Sampson in a [[Melancholy|melancholy]] retirement of spirit, until the
+cherub arrived, whose amazement at the lovely woman’s occupation was
+great.
+
+However, she persisted in dishing the dinner as [[Well|well]] as cooking it, and
+then sat down, bibless and apronless, to partake of it as an illustrious
+guest: Mrs Wilfer first responding to her husband’s cheerful ‘For what
+we are about to receive—’ with a sepulchral Amen, calculated to cast a
+damp upon the stoutest appetite.
+
+‘But what,’ said Bella, as she watched the carving of the fowls, ‘makes
+them pink inside, I [[Wonder|wonder]], Pa! Is it the breed?’
+
+‘No, I don’t think it’s the breed, my dear,’ returned Pa. ‘I rather
+think it is because they are not done.’
+
+‘They ought to be,’ said Bella.
+
+‘Yes, I am aware they ought to be, my dear,’ rejoined her father, ‘but
+they—ain’t.’
+
+So, the gridiron was put in requisition, and the good-tempered cherub,
+who was often as un-cherubically employed in his own family as if he had
+been in the employment of some of the Old Masters, undertook to grill
+the fowls. Indeed, except in respect of staring about him (a branch of
+the public service to which the pictorial cherub is much addicted), this
+domestic cherub discharged as many odd functions as his prototype; with
+the difference, say, that he performed with a blacking-brush on the
+family’s boots, instead of performing on enormous [[Wind|wind]] instruments and
+[[Double|double]]-basses, and that he conducted himself with cheerful alacrity to
+much useful purpose, instead of foreshortening himself in the air with
+the vaguest intentions.
+
+Bella helped him with his supplemental cookery, and made him very happy,
+but put him in mortal terror too by asking him when they sat down at
+table again, how he supposed they cooked fowls at the Greenwich dinners,
+and whether he believed they really were such pleasant dinners as people
+said? His secret winks and nods of remonstrance, in reply, made the
+mischievous Bella laugh until she choked, and then [[Lavinia]] was obliged
+to slap her on the back, and then she laughed the more.
+
+But her mother was a fine corrective at the other end of the table; to
+whom her father, in the [[innocence]] of his good-fellowship, at intervals
+appealed with: ‘My dear, I am afraid you are not enjoying yourself?’
+
+‘Why so, R. W.?’ she would sonorously reply.
+
+‘Because, my dear, you seem a little out of sorts.’
+
+‘Not at all,’ would be the rejoinder, in exactly the same tone.
+
+‘Would you take a merry-thought, my dear?’
+
+‘Thank you. I will take whatever you please, R. W.’
+
+‘[[Well]], but my dear, do you like it?’
+
+‘I like it as [[Well|well]] as I like anything, R. W.’ The stately woman would
+then, with a meritorious appearance of devoting herself to the general
+good, pursue her dinner as if she were feeding somebody else on high
+public grounds.
+
+Bella had brought dessert and two bottles of wine, thus shedding
+unprecedented splendour on the occasion. Mrs Wilfer did the honours of
+the first glass by proclaiming: ‘R. W. I drink to you.
+
+‘Thank you, my dear. And I to you.’
+
+‘Pa and Ma!’ said Bella.
+
+‘Permit me,’ Mrs Wilfer interposed, with outstretched glove. ‘No. I
+think not. I drank to your papa. If, however, you insist on including
+me, I can in gratitude offer no objection.’
+
+‘Why, Lor, Ma,’ interposed Lavvy the bold, ‘isn’t it the day that made
+you and Pa one and the same? I have no patience!’
+
+‘By whatever other circumstance the day may be marked, it is not the
+day, [[Lavinia]], on which I will allow a [[Child|child]] of mine to pounce upon me.
+I beg—nay, command!—that you will not pounce. R. W., it is appropriate
+to recall that it is for you to command and for me to obey. It is your
+[[house]], and you are master at your own table. Both our healths!’ Drinking
+the toast with tremendous stiffness.
+
+‘I really am a little afraid, my dear,’ hinted the cherub meekly, ‘that
+you are not enjoying yourself?’
+
+‘On the contrary,’ returned Mrs Wilfer, ‘quite so. Why should I not?’
+
+‘I thought, my dear, that perhaps your face might—’
+
+‘My face might be a [[Martyrdom|martyrdom]], but what would that import, or who should
+know it, if I smiled?’
+
+And she did smile; manifestly freezing the [[Blood|blood]] of Mr George Sampson
+by so doing. For that young gentleman, catching her smiling eye, was so
+very much appalled by its expression as to cast about in his thoughts
+concerning what he had done to bring it down upon himself.
+
+‘The mind naturally falls,’ said Mrs Wilfer, ‘shall I say into a
+reverie, or shall I say into a retrospect? on a day like this.’
+
+Lavvy, sitting with defiantly folded arms, replied (but not audibly),
+‘For goodness’ sake say whichever of the two you like best, Ma, and get
+it over.’
+
+‘The mind,’ pursued Mrs Wilfer in an oratorical manner, ‘naturally
+reverts to Papa and Mamma—I here allude to my parents—at a period
+before the earliest [[Dawn|dawn]] of this day. I was considered tall; perhaps I
+was. Papa and Mamma were unquestionably tall. I have rarely seen a finer
+woman than my mother; never than my father.’
+
+The irrepressible Lavvy remarked aloud, ‘Whatever grandpapa was, he
+wasn’t a female.’
+
+‘Your grandpapa,’ retorted Mrs Wilfer, with an awful look, and in an
+awful tone, ‘was what I describe him to have been, and would have struck
+any of his grandchildren to the earth who presumed to question it. It
+was one of mamma’s cherished hopes that I should become united to a
+tall member of society. It may have been a weakness, but if so, it was
+equally the weakness, I believe, of [[King]] Frederick of Prussia.’ These
+remarks being offered to Mr George Sampson, who had not the [[Courage|courage]] to
+come out for single combat, but lurked with his chest under the table
+and his eyes cast down, Mrs Wilfer proceeded, in a voice of increasing
+sternness and impressiveness, until she should force that skulker
+to give himself up. ‘Mamma would appear to have had an indefinable
+foreboding of what afterwards happened, for she would frequently urge
+upon me, “Not a little man. Promise me, my [[Child|child]], not a little man.
+Never, never, never, marry a little man!” Papa also would remark to me
+(he possessed extraordinary [[Humour|humour]]), “that a family of whales must not
+ally themselves with sprats.” His company was eagerly sought, as may
+be supposed, by the wits of the day, and our [[house]] was their continual
+resort. I have known as many as three copper-plate engravers exchanging
+the most exquisite sallies and retorts there, at one [[Time|time]].’ (Here Mr
+Sampson delivered himself captive, and said, with an uneasy movement on
+his chair, that three was a large number, and it must have been highly
+entertaining.) ‘Among the most prominent members of that distinguished
+circle, was a gentleman measuring six feet four in height. HE was NOT
+an engraver.’ (Here Mr Sampson said, with no reason whatever, Of course
+not.) ‘This gentleman was so obliging as to [[Honour|honour]] me with attentions
+which I could not fail to understand.’ (Here Mr Sampson murmured that
+when it came to that, you could always tell.) ‘I immediately announced
+to both my parents that those attentions were misplaced, and that I
+could not favour his suit. They inquired was he too tall? I replied it
+was not the stature, but the intellect was too lofty. At our [[house]],
+I said, the tone was too brilliant, the pressure was too high, to be
+maintained by me, a mere woman, in every-day domestic life. I [[Well|well]]
+remember mamma’s clasping her hands, and exclaiming “This will end in
+a little man!”’ (Here Mr Sampson glanced at his host and shook his head
+with despondency.) ‘She afterwards went so far as to predict that it
+would end in a little man whose mind would be below the average, but
+that was in what I may denominate a paroxysm of maternal disappointment.
+Within a month,’ said Mrs Wilfer, deepening her voice, as if she were
+relating a terrible [[Ghost|ghost]] story, ‘within a-month, I first saw R. W. my
+husband. Within a year, I married him. It is natural for the mind to
+recall these dark coincidences on the present day.’
+
+Mr Sampson at length released from the custody of Mrs Wilfer’s eye, now
+drew a long breath, and made the original and striking remark that there
+was no accounting for these sort of presentiments. R. W. scratched his
+head and looked apologetically all round the table until he came to his
+wife, when observing her as it were shrouded in a more sombre veil than
+before, he once more hinted, ‘My dear, I am really afraid you are not
+altogether enjoying yourself?’ To which she once more replied, ‘On the
+contrary, R. W. Quite so.’
+
+The wretched Mr Sampson’s position at this agreeable entertainment
+was truly pitiable. For, not only was he exposed defenceless to the
+harangues of Mrs Wilfer, but he received the utmost contumely at the
+hands of [[Lavinia]]; who, partly to show Bella that she ([[Lavinia]]) could do
+what she liked with him, and partly to pay him off for still obviously
+admiring Bella’s [[Beauty|beauty]], led him the life of a dog. Illuminated on the
+one hand by the stately graces of Mrs Wilfer’s oratory, and shadowed
+on the other by the checks and frowns of the young lady to whom he
+had devoted himself in his destitution, the sufferings of this young
+gentleman were distressing to witness. If his mind for the moment reeled
+under them, it may be urged, in extenuation of its weakness, that it
+was constitutionally a knock-knee’d mind and never very strong upon its
+legs.
+
+The rosy hours were thus beguiled until it was [[Time|time]] for Bella to have
+Pa’s escort back. The dimples duly tied up in the bonnet-strings and the
+leave-taking done, they got out into the air, and the cherub drew a long
+breath as if he found it refreshing.
+
+‘[[Well]], dear Pa,’ said Bella, ‘the anniversary may be considered over.’
+
+‘Yes, my dear,’ returned the cherub, ‘there’s another of ’em gone.’
+
+Bella drew his arm closer through hers as they walked along, and gave it
+a number of consolatory pats. ‘Thank you, my dear,’ he said, as if
+she had spoken; ‘I am all right, my dear. [[Well]], and how do you get on,
+Bella?’
+
+‘I am not at all improved, Pa.’
+
+‘Ain’t you really though?’
+
+‘No, Pa. On the contrary, I am worse.’
+
+‘Lor!’ said the cherub.
+
+‘I am worse, Pa. I make so many calculations how much a year I must have
+when I marry, and what is the least I can manage to do with, that I am
+beginning to get wrinkles over my nose. Did you notice any wrinkles over
+my nose this evening, Pa?’
+
+Pa laughing at this, Bella gave him two or three shakes.
+
+‘You won’t laugh, sir, when you see your lovely woman turning haggard.
+You had better be prepared in [[Time|time]], I can tell you. I shall not be able
+to keep my greediness for money out of my eyes long, and when you see it
+there you’ll be sorry, and serve you right for not being warned in [[Time|time]].
+Now, sir, we entered into a bond of confidence. Have you anything to
+impart?’
+
+‘I thought it was you who was to impart, my [[Love|love]].’
+
+‘Oh! did you indeed, sir? Then why didn’t you ask me, the moment we came
+out? The confidences of lovely women are not to be slighted. However, I
+forgive you this once, and look here, Pa; that’s’—Bella laid the
+little forefinger of her right glove on her lip, and then laid it on her
+father’s lip—‘that’s a kiss for you. And now I am going seriously
+to tell you—let me see how many—four [[Secrets|secrets]]. Mind! Serious, [[Grave|grave]],
+weighty [[Secrets|secrets]]. Strictly between ourselves.’
+
+‘Number one, my dear?’ said her father, settling her arm comfortably and
+confidentially.
+
+‘Number one,’ said Bella, ‘will electrify you, Pa. Who do you think
+has’—she was confused here in spite of her merry way of beginning ‘has
+made an offer to me?’
+
+Pa looked in her face, and looked at the ground, and looked in her face
+again, and declared he could never guess.
+
+‘Mr Rokesmith.’
+
+‘You don’t tell me so, my dear!’
+
+‘Mis—ter Roke—[[smith]], Pa,’ said Bella separating the syllables for
+emphasis. ‘What do you say to THAT?’
+
+Pa answered quietly with the counter-question, ‘What did YOU say to
+that, my [[Love|love]]?’
+
+‘I said No,’ returned Bella sharply. ‘Of course.’
+
+‘Yes. Of course,’ said her father, meditating.
+
+‘And I told him why I thought it a betrayal of trust on his part, and an
+affront to me,’ said Bella.
+
+‘Yes. To be sure. I am astonished indeed. I [[Wonder|wonder]] he committed himself
+without seeing more of his way first. Now I think of it, I suspect he
+always has admired you though, my dear.’
+
+‘A hackney coachman may admire me,’ remarked Bella, with a touch of her
+mother’s loftiness.
+
+‘It’s highly probable, my [[Love|love]]. Number two, my dear?’
+
+‘Number two, Pa, is much to the same purpose, though not so
+preposterous. Mr Lightwood would propose to me, if I would let him.’
+
+‘Then I understand, my dear, that you don’t intend to let him?’
+
+Bella again saying, with her former emphasis, ‘Why, of course not!’ her
+father felt himself bound to echo, ‘Of course not.’
+
+‘I don’t care for him,’ said Bella.
+
+‘That’s enough,’ her father interposed.
+
+‘No, Pa, it’s NOT enough,’ rejoined Bella, giving him another shake or
+two. ‘Haven’t I told you what a mercenary little wretch I am? It
+only becomes enough when he has no money, and no clients, and no
+expectations, and no anything but debts.’
+
+‘Hah!’ said the cherub, a little depressed. ‘Number three, my dear?’
+
+‘Number three, Pa, is a better thing. A generous thing, a noble thing, a
+delightful thing. Mrs Boffin has herself told me, as a secret, with her
+own kind lips—and truer lips never opened or closed in this life, I am
+sure—that they wish to see me [[Well|well]] married; and that when I marry with
+their consent they will portion me most handsomely.’ Here the grateful
+girl burst out crying very heartily.
+
+‘Don’t cry, my darling,’ said her father, with his hand to his eyes;
+‘it’s excusable in me to be a little overcome when I find that my dear
+favourite [[Child|child]] is, after all disappointments, to be so provided for
+and so raised in the world; but don’t YOU cry, don’t YOU cry. I am very
+thankful. I congratulate you with all my heart, my dear.’ The good soft
+little fellow, drying his eyes, here, Bella put her arms round his neck
+and tenderly kissed him on the high [[Road|road]], passionately telling him
+he was the best of fathers and the best of friends, and that on her
+wedding-morning she would go down on her knees to him and beg his pardon
+for having ever teased him or seemed insensible to the worth of such
+a patient, sympathetic, genial, fresh young heart. At every one of her
+adjectives she redoubled her kisses, and finally kissed his hat off, and
+then laughed immoderately when the [[Wind|wind]] took it and he ran after it.
+
+When he had recovered his hat and his breath, and they were going on
+again once more, said her father then: ‘Number four, my dear?’
+
+Bella’s countenance fell in the midst of her mirth. ‘After all, perhaps
+I had better put off number four, Pa. Let me try once more, if for never
+so short a [[Time|time]], to [[Hope|hope]] that it may not really be so.’
+
+The change in her, strengthened the cherub’s interest in number four,
+and he said quietly: ‘May not be so, my dear? May not be how, my dear?’
+
+Bella looked at him pensively, and shook her head.
+
+‘And yet I know right [[Well|well]] it is so, Pa. I know it only too [[Well|well]].’
+
+‘My [[Love|love]],’ returned her father, ‘you make me quite uncomfortable. Have
+you said No to anybody else, my dear?’
+
+‘No, Pa.’
+
+‘Yes to anybody?’ he suggested, lifting up his eyebrows.
+
+‘No, Pa.’
+
+‘Is there anybody else who would take his chance between Yes and No, if
+you would let him, my dear?’
+
+‘Not that I know of, Pa.’
+
+‘There can’t be somebody who won’t take his chance when you want him
+to?’ said the cherub, as a last resource.
+
+‘Why, of course not, Pa,’ said Bella, giving him another shake or two.
+
+‘No, of course not,’ he assented. ‘Bella, my dear, I am afraid I must
+either have no [[Sleep|sleep]] to-[[Night|night]], or I must press for number four.’
+
+‘Oh, Pa, there is no good in number four! I am so sorry for it, I am so
+unwilling to believe it, I have tried so earnestly not to see it, that
+it is very hard to tell, even to you. But Mr Boffin is being spoilt by
+prosperity, and is changing every day.’
+
+‘My dear Bella, I [[Hope|hope]] and trust not.’
+
+‘I have hoped and trusted not too, Pa; but every day he changes for
+the worse, and for the worse. Not to me—he is always much the same
+to me—but to others about him. Before my eyes he grows suspicious,
+capricious, hard, tyrannical, unjust. If ever a good man were ruined by
+good fortune, it is my benefactor. And yet, Pa, think how terrible the
+fascination of money is! I see this, and hate this, and dread this, and
+don’t know but that money might make a much worse change in me. And yet
+I have money always in my thoughts and my desires; and the whole life I
+place before myself is money, money, money, and what money can make of
+life!’

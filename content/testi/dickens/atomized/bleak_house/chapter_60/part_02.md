@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 60 (part 2)"
+title: "Bleak House — Chapter 60 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_60/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_60/part_03">part 03 ›</a></div>
 </nav>
 
+
+“You see,” said my guardian, “our neighbourhood is in Woodcourt’s
+way, and he can come here to see her as often as he likes, which is
+agreeable to them both; and she is familiar to us and fond of you.”
 
 Yes. That was undeniable. I had nothing to say against it. I could
 not have suggested a better arrangement, but I was not quite easy in
@@ -134,10 +138,3 @@ was afraid of being a little late.”
 “No, he is not come in,” returned Miss Flite. “He has had a long day
 in [[Court|court]]. I left him there with Vholes. You don’t like Vholes, I
 [[Hope|hope]]? DON’T like Vholes. Dan-gerous man!”
-
-“I am afraid you see [[Richard]] oftener than ever now,” said I.
-
-“My dearest,” returned Miss Flite, “daily and hourly. You know what I
-told you of the attraction on the Chancellor’s table? My dear, next
-to myself he is the most constant suitor in [[Court|court]]. He begins quite to
-amuse our little party. Ve-ry friendly little party, are we not?”

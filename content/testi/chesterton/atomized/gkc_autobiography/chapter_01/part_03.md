@@ -1,5 +1,5 @@
 ---
-title: "[[GKC-Autobiography]] — Chapter 1 (part 3)"
+title: "GKC-Autobiography — Chapter 1 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/gkc-autobiography-(chesterton)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_01/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_01/part_04">part 04 ›</a></div>
 </nav>
 
+
+And this care about [[Education|education]] and diction, though I can see
+much to criticise in it now, did really have its good side.
+It meant that my father knew all his English literature backwards,
+and that I knew a great deal of it by heart, long before I could
+really get it into my head.  I knew pages of Shakespeare's
+[[Blank Verse|blank verse]] without a notion of the meaning of most of it;
+which is perhaps the right way to begin to appreciate verse.
+And it is also recorded of me that, at the age of six or seven,
+I tumbled down in the street in the act of excitedly reciting the words,
 
   Good [[Hamlet]], cast this nighted colour off,
   And let thine eye look like a friend on [[Denmark]],

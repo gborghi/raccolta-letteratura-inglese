@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities — Chapter 14 (part 2)"
+title: "A Tale of Two Cities — Chapter 15 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-tale-of-two-cities-(dickens)"
@@ -14,126 +14,114 @@ tags:
 </nav>
 
 
-The officiating undertakers made some protest against these changes in
-the ceremonies; but, the [[River|river]] being alarmingly near, and several voices
-remarking on the efficacy of cold immersion in bringing refractory
-members of the profession to reason, the protest was faint and brief.
-The remodelled procession started, with a chimney-sweep driving the
-hearse--advised by the regular driver, who was perched beside him, under
-close inspection, for the purpose--and with a pieman, also attended
-by his cabinet minister, driving the mourning coach. A bear-leader, a
-popular street character of the [[Time|time]], was impressed as an additional
-ornament, before the cavalcade had gone far down the Strand; and his
-bear, who was black and very mangy, gave quite an Undertaking air to
-that part of the procession in which he walked.
+Jacques One struck in, and asked if he had ever seen the man before?
 
-Thus, with beer-drinking, pipe-smoking, [[Song|song]]-roaring, and infinite
-caricaturing of woe, the disorderly procession went its way, recruiting
-at every step, and all the shops shutting up before it. Its destination
-was the old church of Saint Pancras, far off in the fields. It got there
-in course of [[Time|time]]; insisted on pouring into the burial-ground; finally,
-accomplished the interment of the deceased Roger Cly in its own way, and
-highly to its own satisfaction.
+“Never,” answered the mender of roads, recovering his perpendicular.
 
-The dead man disposed of, and the crowd being under the necessity of
-providing some other entertainment for itself, another brighter
-genius (or perhaps the same) conceived the [[Humour|humour]] of impeaching casual
-passers-by, as Old Bailey spies, and wreaking vengeance on them. Chase
-was given to some scores of inoffensive persons who had never been near
-the Old Bailey in their lives, in the realisation of this fancy, and
-they were roughly hustled and maltreated. The transition to the sport of
-[[Window|window]]-breaking, and thence to the plundering of public-houses, was easy
-and natural. At last, after several hours, when sundry [[Summer|summer]]-houses had
-been pulled down, and some area-railings had been torn up, to arm
-the more belligerent spirits, a rumour got about that the Guards were
-coming. Before this rumour, the crowd gradually melted away, and perhaps
-the Guards came, and perhaps they never came, and this was the usual
-progress of a mob.
+Jacques Three demanded how he afterwards recognised him then?
 
-Mr. Cruncher did not assist at the closing sports, but had remained
-behind in the churchyard, to confer and condole with the undertakers.
-The place had a soothing influence on him. He procured a pipe from a
-neighbouring public-[[house]], and smoked it, looking in at the railings and
-maturely considering the spot.
+“By his tall figure,” said the mender of roads, softly, and with his
+finger at his nose. “When Monsieur the Marquis demands that evening,
+‘Say, what is he like?’ I make response, ‘Tall as a spectre.’”
 
-“Jerry,” said Mr. Cruncher, apostrophising himself in his usual way,
-“you see that there Cly that day, and you see with your own eyes that he
-was a young ’un and a straight made ’un.”
+“You should have said, short as a [[Dwarf|dwarf]],” returned Jacques Two.
 
-Having smoked his pipe out, and ruminated a little longer, he turned
-himself about, that he might appear, before the hour of closing, on his
-station at Tellson’s. Whether his meditations on [[Mortality|mortality]] had touched
-his liver, or whether his general health had been previously at all
-amiss, or whether he desired to show a little attention to an eminent
-man, is not so much to the purpose, as that he made a short call upon
-his medical adviser--a distinguished surgeon--on his way back.
+“But what did I know? The deed was not then accomplished, neither did he
+confide in me. Observe! Under those circumstances even, I do not
+offer my testimony. Monsieur the Marquis indicates me with his finger,
+standing near our little fountain, and says, ‘To me! Bring that rascal!’
+My [[Faith|faith]], messieurs, I offer nothing.”
 
-Young Jerry relieved his father with dutiful interest, and reported No
-job in his absence. The bank closed, the ancient clerks came out, the
-usual watch was set, and Mr. Cruncher and his son went [[Home|home]] to tea.
+“He is right there, Jacques,” murmured Defarge, to him who had
+interrupted. “Go on!”
 
-“Now, I tell you where it is!” said Mr. Cruncher to his wife, on
-entering. “If, as a honest tradesman, my wenturs goes wrong to-[[Night|night]], I
-shall make sure that you’ve been praying again me, and I shall work you
-for it just the same as if I seen you do it.”
+“Good!” said the mender of roads, with an air of mystery. “The tall man
+is lost, and he is sought--how many months? Nine, ten, eleven?”
 
-The dejected Mrs. Cruncher shook her head.
+“No matter, the number,” said Defarge. “He is [[Well|well]] hidden, but at last
+he is unluckily found. Go on!”
 
-“Why, you’re at it afore my face!” said Mr. Cruncher, with signs of
-angry apprehension.
+“I am again at work upon the [[Hill|hill]]-side, and the sun is again about to
+go to bed. I am collecting my tools to descend to my cottage down in the
+village below, where it is already dark, when I raise my eyes, and see
+coming over the [[Hill|hill]] six soldiers. In the midst of them is a tall man
+with his arms bound--tied to his sides--like this!”
 
-“I am saying nothing.”
+With the aid of his indispensable cap, he represented a man with his
+elbows bound fast at his hips, with cords that were knotted behind him.
 
-“[[Well]], then; don’t meditate nothing. You might as [[Well|well]] flop as meditate.
-You may as [[Well|well]] go again me one way as another. Drop it altogether.”
+“I stand aside, messieurs, by my heap of stones, to see the soldiers
+and their prisoner pass (for it is a solitary [[Road|road]], that, where any
+spectacle is [[Well|well]] worth looking at), and at first, as they approach, I
+see no more than that they are six soldiers with a tall man bound, and
+that they are almost black to my sight--except on the side of the sun
+going to bed, where they have a red edge, messieurs. Also, I see that
+their long shadows are on the hollow ridge on the opposite side of the
+[[Road|road]], and are on the [[Hill|hill]] above it, and are like the shadows of giants.
+Also, I see that they are covered with [[Dust|dust]], and that the [[Dust|dust]] moves
+with them as they come, tramp, tramp! But when they advance quite near
+to me, I recognise the tall man, and he recognises me. Ah, but he would
+be [[Well|well]] content to precipitate himself over the [[Hill|hill]]-side once again, as
+on the evening when he and I first encountered, close to the same spot!”
 
-“Yes, Jerry.”
+He described it as if he were there, and it was evident that he saw it
+vividly; perhaps he had not seen much in his life.
 
-“Yes, Jerry,” repeated Mr. Cruncher sitting down to tea. “Ah! It _is_
-yes, Jerry. That’s about it. You may say yes, Jerry.”
+“I do not show the soldiers that I recognise the tall man; he does not
+show the soldiers that he recognises me; we do it, and we know it, with
+our eyes. ‘Come on!’ says the chief of that company, pointing to the
+village, ‘bring him fast to his tomb!’ and they bring him faster. I
+follow. His arms are swelled because of being bound so tight, his wooden
+shoes are large and clumsy, and he is lame. Because he is lame, and
+consequently slow, they drive him with their guns--like this!”
 
-Mr. Cruncher had no particular meaning in these sulky corroborations,
-but made use of them, as people not unfrequently do, to express general
-ironical dissatisfaction.
+He imitated the action of a man’s being impelled forward by the
+butt-ends of muskets.
 
-“You and your yes, Jerry,” said Mr. Cruncher, taking a bite out of his
-bread-and-butter, and seeming to help it down with a large invisible
-oyster out of his saucer. “Ah! I think so. I believe you.”
+“As they descend the [[Hill|hill]] like madmen running a race, he falls. They
+laugh and pick him up again. His face is bleeding and covered with [[Dust|dust]],
+but he cannot touch it; thereupon they laugh again. They bring him into
+the village; all the village runs to look; they take him past the mill,
+and up to the [[Prison|prison]]; all the village sees the [[Prison|prison]] gate open in the
+darkness of the [[Night|night]], and [[Swallow|swallow]] him--like this!”
 
-“You are going out to-[[Night|night]]?” asked his decent wife, when he took
-another bite.
+He opened his mouth as wide as he could, and shut it with a sounding
+snap of his teeth. Observant of his unwillingness to mar the effect by
+opening it again, Defarge said, “Go on, Jacques.”
 
-“Yes, I am.”
+“All the village,” pursued the mender of roads, on tiptoe and in a low
+voice, “withdraws; all the village whispers by the fountain; all the
+village sleeps; all the village [[Dreams|dreams]] of that unhappy one, within the
+locks and bars of the [[Prison|prison]] on the crag, and never to come out of it,
+except to perish. In the morning, with my tools upon my shoulder, eating
+my morsel of black bread as I go, I make a circuit by the [[Prison|prison]], on
+my way to my work. There I see him, high up, behind the bars of a lofty
+iron cage, bloody and dusty as last [[Night|night]], looking through. He has no
+hand free, to wave to me; I dare not call to him; he regards me like a
+dead man.”
 
-“May I go with you, father?” asked his son, briskly.
+Defarge and the three glanced darkly at one another. The looks of all
+of them were dark, repressed, and revengeful, as they listened to the
+countryman’s story; the manner of all of them, while it was secret, was
+authoritative too. They had the air of a rough tribunal; Jacques One
+and Two sitting on the old pallet-bed, each with his chin resting on
+his hand, and his eyes intent on the [[Road|road]]-mender; Jacques Three, equally
+intent, on one knee behind them, with his agitated hand always gliding
+over the network of fine nerves about his mouth and nose; Defarge
+standing between them and the narrator, whom he had stationed in the
+light of the [[Window|window]], by turns looking from him to them, and from them to
+him.
 
-“No, you mayn’t. I’m a going--as your mother knows--a fishing. That’s
-where I’m going to. Going a fishing.”
+“Go on, Jacques,” said Defarge.
 
-“Your fishing-rod gets rayther rusty; don’t it, father?”
-
-“Never you mind.”
-
-“Shall you bring any fish [[Home|home]], father?”
-
-“If I don’t, you’ll have short commons, to-morrow,” returned that
-gentleman, shaking his head; “that’s questions enough for you; I ain’t a
-going out, till you’ve been long abed.”
-
-He devoted himself during the remainder of the evening to keeping a
-most vigilant watch on Mrs. Cruncher, and sullenly holding her in
-conversation that she might be prevented from meditating any petitions
-to his disadvantage. With this view, he urged his son to hold her in
-conversation also, and led the unfortunate woman a hard life by dwelling
-on any causes of complaint he could bring against her, rather than
-he would leave her for a moment to her own reflections. The devoutest
-person could have rendered no greater homage to the efficacy of an
-honest [[Prayer|prayer]] than he did in this distrust of his wife. It was as if a
-professed unbeliever in [[Ghosts|ghosts]] should be frightened by a [[Ghost|ghost]] story.
-
-“And mind you!” said Mr. Cruncher. “No games to-morrow! If I, as a
-honest tradesman, succeed in providing a jinte of meat or two, none
-of your not touching of it, and sticking to bread. If I, as a honest
-tradesman, am able to provide a little beer, none of your declaring
-on [[Water|water]]. When you go to Rome, do as Rome does. Rome will be a ugly
-customer to you, if you don’t. _I_’m your Rome, you know.”
+“He remains up there in his iron cage some days. The village looks
+at him by stealth, for it is afraid. But it always looks up, from a
+distance, at the [[Prison|prison]] on the crag; and in the evening, when the work
+of the day is achieved and it assembles to gossip at the fountain, all
+faces are turned towards the [[Prison|prison]]. Formerly, they were turned towards
+the posting-[[house]]; now, they are turned towards the [[Prison|prison]]. They
+whisper at the fountain, that although condemned to [[Death|death]] he will not be
+executed; they say that petitions have been presented in [[Paris]], showing
+that he was enraged and made mad by the [[Death|death]] of his [[Child|child]]; they say
+that a petition has been presented to the [[King]] himself. What do I know?
+It is possible. Perhaps yes, perhaps no.”

@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 22 (part 2)"
+title: "Wuthering Heights — Chapter 22 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_22/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_23/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Good words,” I replied. “But deeds must prove it also; and after he is
+[[Well|well]], remember you don’t forget resolutions formed in the hour of
+[[Fear|fear]].”
 
 As we talked, we neared a door that opened on the [[Road|road]]; and my young
 lady, lightening into sunshine again, climbed up and seated herself on

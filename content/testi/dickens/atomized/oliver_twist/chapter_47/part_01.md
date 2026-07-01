@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 47 (part 1)"
+title: "Oliver Twist — Chapter 47 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -136,7 +136,3 @@ them in the open [[Court|court]], and beat your brains out afore the people. I
 should have such strength,” muttered the robber, poising his brawny
 arm, “that I could smash your head as if a loaded waggon had gone over
 it.”
-
-“You would?”
-
-“Would I!” said the housebreaker. “Try me.”

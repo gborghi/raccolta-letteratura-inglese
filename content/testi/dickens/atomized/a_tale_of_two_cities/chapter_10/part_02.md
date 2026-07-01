@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities — Chapter 3 (part 2)"
+title: "A Tale of Two Cities — Chapter 4 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-tale-of-two-cities-(dickens)"
@@ -10,176 +10,174 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/a-tale-of-two-cities-(dickens)">A Tale of Two Cities</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_10/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_10/part_03">part 03 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_10/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_11/part_01">part 01 ›</a></div>
 </nav>
 
 
-The virtuous servant, Roger Cly, swore his way through the case at a
-great rate. He had taken service with the prisoner, in good [[Faith|faith]] and
-simplicity, four years ago. He had asked the prisoner, aboard the Calais
-packet, if he wanted a handy fellow, and the prisoner had engaged him.
-He had not asked the prisoner to take the handy fellow as an act of
-[[Charity|charity]]--never thought of such a thing. He began to have suspicions of
-the prisoner, and to keep an eye upon him, soon afterwards. In arranging
-his clothes, while travelling, he had seen similar lists to these in the
-prisoner’s pockets, over and over again. He had taken these lists from
-the drawer of the prisoner’s desk. He had not put them there first. He
-had seen the prisoner show these identical lists to French gentlemen
-at Calais, and similar lists to French gentlemen, both at Calais and
-Boulogne. He loved his country, and couldn’t bear it, and had given
-information. He had never been suspected of stealing a silver tea-pot;
-he had been maligned respecting a mustard-pot, but it turned out to be
-only a plated one. He had known the last witness seven or eight years;
-that was merely a coincidence. He didn’t call it a particularly curious
-coincidence; most coincidences were curious. Neither did he call it a
-curious coincidence that true patriotism was _his_ only motive too. He
-was a true Briton, and hoped there were many like him.
+“And indeed, sir,” pursued Mr. Lorry, not minding him, “I really don’t
+know what you have to do with the matter. If you’ll excuse me, as very
+much your elder, for saying so, I really don’t know that it is your
+business.”
 
-The blue-flies buzzed again, and Mr. Attorney-General called Mr. Jarvis
-Lorry.
+“Business! Bless you, _I_ have no business,” said Mr. Carton.
 
-“Mr. [[Jarvis Lorry]], are you a clerk in Tellson’s bank?”
+“It is a pity you have not, sir.”
 
-“I am.”
+“I think so, too.”
 
-“On a certain Friday [[Night|night]] in November one thousand seven hundred and
-seventy-five, did business occasion you to travel between [[London]] and
-Dover by the mail?”
+“If you had,” pursued Mr. Lorry, “perhaps you would attend to it.”
 
-“It did.”
+“Lord [[Love|love]] you, no!--I shouldn’t,” said Mr. Carton.
 
-“Were there any other passengers in the mail?”
+“[[Well]], sir!” cried Mr. Lorry, thoroughly heated by his indifference,
+“business is a very good thing, and a very respectable thing. And, sir,
+if business imposes its restraints and its silences and impediments, Mr.
+Darnay as a young gentleman of generosity knows how to make allowance
+for that circumstance. Mr. Darnay, good [[Night|night]], God bless you, sir!
+I [[Hope|hope]] you have been this day preserved for a prosperous and happy
+life.--Chair there!”
 
-“Two.”
+Perhaps a little angry with himself, as [[Well|well]] as with the barrister, Mr.
+Lorry bustled into the chair, and was carried off to Tellson’s. Carton,
+who smelt of port wine, and did not appear to be quite sober, laughed
+then, and turned to Darnay:
 
-“Did they alight on the [[Road|road]] in the course of the [[Night|night]]?”
+“This is a strange chance that throws you and me together. This must
+be a strange [[Night|night]] to you, standing [[Alone|alone]] here with your counterpart on
+these street stones?”
 
-“They did.”
+“I hardly seem yet,” returned [[Charles Darnay]], “to belong to this world
+again.”
 
-“Mr. Lorry, look upon the prisoner. Was he one of those two passengers?”
+“I don’t [[Wonder|wonder]] at it; it’s not so long since you were pretty far
+advanced on your way to another. You speak faintly.”
 
-“I cannot undertake to say that he was.”
+“I begin to think I _am_ faint.”
 
-“Does he resemble either of these two passengers?”
+“Then why the devil don’t you dine? I dined, myself, while those
+numskulls were deliberating which world you should belong to--this, or
+some other. Let me show you the nearest tavern to dine [[Well|well]] at.”
 
-“Both were so wrapped up, and the [[Night|night]] was so dark, and we were all so
-reserved, that I cannot undertake to say even that.”
+Drawing his arm through his own, he took him down Ludgate-[[Hill|hill]] to
+Fleet-street, and so, up a covered way, into a tavern. Here, they were
+shown into a little room, where [[Charles Darnay]] was soon recruiting
+his strength with a good plain dinner and good wine: while Carton sat
+opposite to him at the same table, with his separate bottle of port
+before him, and his fully half-insolent manner upon him.
 
-“Mr. Lorry, look again upon the prisoner. Supposing him wrapped up as
-those two passengers were, is there anything in his bulk and stature to
-render it unlikely that he was one of them?”
+“Do you feel, yet, that you belong to this terrestrial scheme again, Mr.
+Darnay?”
 
-“No.”
+“I am frightfully confused regarding [[Time|time]] and place; but I am so far
+mended as to feel that.”
 
-“You will not swear, Mr. Lorry, that he was not one of them?”
+“It must be an immense satisfaction!”
 
-“No.”
+He said it bitterly, and filled up his glass again: which was a large
+one.
 
-“So at least you say he may have been one of them?”
+“As to me, the greatest [[Desire|desire]] I have, is to forget that I belong to it.
+It has no good in it for me--except wine like this--nor I for it. So we
+are not much alike in that particular. Indeed, I begin to think we are
+not much alike in any particular, you and I.”
 
-“Yes. Except that I remember them both to have been--like
-myself--timorous of highwaymen, and the prisoner has not a timorous
-air.”
+Confused by the emotion of the day, and feeling his being there with
+this [[Double]] of coarse deportment, to be like [[A Dream|a dream]], [[Charles Darnay]] was
+at a loss how to answer; finally, answered not at all.
 
-“Did you ever see a counterfeit of timidity, Mr. Lorry?”
+“Now your dinner is done,” Carton presently said, “why don’t you call a
+health, Mr. Darnay; why don’t you give your toast?”
 
-“I certainly have seen that.”
+“What health? What toast?”
 
-“Mr. Lorry, look once more upon the prisoner. Have you seen him, to your
-certain knowledge, before?”
+“Why, it’s on the tip of your tongue. It ought to be, it must be, I’ll
+swear it’s there.”
 
-“I have.”
+“Miss Manette, then!”
 
-“When?”
+“Miss Manette, then!”
 
-“I was returning from France a few days afterwards, and, at Calais, the
-prisoner came on board the packet-[[Ship|ship]] in which I returned, and made the
-voyage with me.”
+Looking his companion full in the face while he drank the toast, Carton
+flung his glass over his shoulder against the wall, where it shivered to
+pieces; then, rang the bell, and ordered in another.
 
-“At what hour did he come on board?”
+“That’s a fair young lady to hand to a coach in the dark, Mr. Darnay!”
+ he said, filling his new goblet.
 
-“At a little after midnight.”
+A slight frown and a laconic “Yes,” were the answer.
 
-“In the dead of the [[Night|night]]. Was he the only passenger who came on board
-at that untimely hour?”
+“That’s a fair young lady to be pitied by and wept for by! How does it
+feel? Is it worth being tried for one’s life, to be the object of such
+sympathy and compassion, Mr. Darnay?”
 
-“He happened to be the only one.”
+Again Darnay answered not a word.
 
-“Never mind about ‘happening,’ Mr. Lorry. He was the only passenger who
-came on board in the dead of the [[Night|night]]?”
+“She was mightily pleased to have your message, when I gave it her. Not
+that she showed she was pleased, but I suppose she was.”
 
-“He was.”
+The allusion served as a timely reminder to Darnay that this
+disagreeable companion had, of his own free will, assisted him in the
+strait of the day. He turned the dialogue to that point, and thanked him
+for it.
 
-“Were you travelling [[Alone|alone]], Mr. Lorry, or with any companion?”
+“I neither want any thanks, nor merit any,” was the careless rejoinder.
+“It was nothing to do, in the first place; and I don’t know why I did
+it, in the second. Mr. Darnay, let me ask you a question.”
 
-“With two companions. A gentleman and lady. They are here.”
+“Willingly, and a small return for your good offices.”
 
-“They are here. Had you any conversation with the prisoner?”
+“Do you think I particularly like you?”
 
-“Hardly any. The weather was stormy, and the passage long and rough, and
-I lay on a sofa, almost from shore to shore.”
+“Really, Mr. Carton,” returned the other, oddly disconcerted, “I have
+not asked myself the question.”
 
-“Miss Manette!”
+“But ask yourself the question now.”
 
-The young lady, to whom all eyes had been turned before, and were now
-turned again, stood up where she had sat. Her father [[Rose|rose]] with her, and
-kept her hand drawn through his arm.
+“You have acted as if you do; but I don’t think you do.”
 
-“Miss Manette, look upon the prisoner.”
+“_I_ don’t think I do,” said Carton. “I begin to have a very good
+opinion of your understanding.”
 
-To be confronted with such pity, and such earnest youth and [[Beauty|beauty]], was
-far more trying to the accused than to be confronted with all the crowd.
-Standing, as it were, apart with her on the edge of his [[Grave|grave]], not all
-the staring curiosity that looked on, could, for the moment, nerve him
-to remain quite still. His hurried right hand parcelled out the herbs
-before him into imaginary beds of [[Flowers|flowers]] in a [[Garden|garden]]; and his efforts
-to control and steady his breathing shook the lips from which the colour
-rushed to his heart. The buzz of the great flies was loud again.
+“Nevertheless,” pursued Darnay, rising to ring the bell, “there is
+nothing in that, I [[Hope|hope]], to prevent my calling the reckoning, and our
+parting without ill-[[Blood|blood]] on either side.”
 
-“Miss Manette, have you seen the prisoner before?”
+Carton rejoining, “Nothing in life!” Darnay rang. “Do you call the whole
+reckoning?” said Carton. On his answering in the affirmative, “Then
+bring me another pint of this same wine, drawer, and come and wake me at
+ten.”
 
-“Yes, sir.”
+The bill being paid, [[Charles Darnay]] [[Rose|rose]] and wished him good [[Night|night]].
+Without returning the wish, Carton [[Rose|rose]] too, with something of a threat
+of defiance in his manner, and said, “A last word, Mr. Darnay: you think
+I am drunk?”
 
-“Where?”
+“I think you have been drinking, Mr. Carton.”
 
-“On board of the packet-[[Ship|ship]] just now referred to, sir, and on the same
-occasion.”
+“Think? You know I have been drinking.”
 
-“You are the young lady just now referred to?”
+“Since I must say so, I know it.”
 
-“O! most unhappily, I am!”
+“Then you shall likewise know why. I am a disappointed drudge, sir. I
+care for no man on earth, and no man on earth cares for me.”
 
-The plaintive tone of her compassion merged into the less musical voice
-of the Judge, as he said something fiercely: “Answer the questions put
-to you, and make no remark upon them.”
+“Much to be regretted. You might have used your talents better.”
 
-“Miss Manette, had you any conversation with the prisoner on that
-passage across the Channel?”
+“May be so, Mr. Darnay; may be not. Don’t let your sober face elate you,
+however; you don’t know what it may come to. Good [[Night|night]]!”
 
-“Yes, sir.”
+When he was left [[Alone|alone]], this strange being took up a candle, went to a
+glass that hung against the wall, and surveyed himself minutely in it.
 
-“Recall it.”
+“Do you particularly like the man?” he muttered, at his own image; “why
+should you particularly like a man who resembles you? There is nothing
+in you to like; you know that. Ah, confound you! What a change you have
+made in yourself! A good reason for taking to a man, that he shows you
+what you have fallen away from, and what you might have been! Change
+places with him, and would you have been looked at by those blue eyes as
+he was, and commiserated by that agitated face as he was? Come on, and
+have it out in plain words! You hate the fellow.”
 
-In the midst of a profound stillness, she faintly began: “When the
-gentleman came on board--”
-
-“Do you mean the prisoner?” inquired the Judge, knitting his brows.
-
-“Yes, my Lord.”
-
-“Then say the prisoner.”
-
-“When the prisoner came on board, he noticed that my father,” turning
-her eyes lovingly to him as he stood beside her, “was much fatigued
-and in a very weak state of health. My father was so reduced that I was
-afraid to take him out of the air, and I had made a bed for him on the
-deck near the cabin steps, and I sat on the deck at his side to take
-care of him. There were no other passengers that [[Night|night]], but we four.
-The prisoner was so good as to beg permission to advise me how I could
-shelter my father from the [[Wind|wind]] and weather, better than I had done. I
-had not known how to do it [[Well|well]], not understanding how the [[Wind|wind]] would
-set when we were out of the harbour. He did it for me. He expressed
-great gentleness and kindness for my father’s state, and I am sure he
-felt it. That was the manner of our beginning to speak together.”
-
-“Let me interrupt you for a moment. Had he come on board [[Alone|alone]]?”
+He resorted to his pint of wine for consolation, drank it all in a few
+minutes, and fell asleep on his arms, with his hair straggling over the
+table, and a long winding-sheet in the candle dripping down upon him.

@@ -1,5 +1,5 @@
 ---
-title: "[[The Man of the Crowd]]"
+title: "The Man of the Crowd"
 author: "Poe"
 unitType: work
 parentWork: "works/the-man-of-the-crowd-(poe)"

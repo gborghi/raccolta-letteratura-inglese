@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 33 (part 4)"
+title: "Shirley — Chapter 33 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -14,7 +14,43 @@ tags:
 </nav>
 
 
-Such was his [[Prayer|prayer]].
+"You speak my experience."
+
+
+
+"I believed I should never see you again; and I grew so thin--as thin as
+
+you are now. I could do nothing for myself--neither rise nor lie down;
+
+and I could not eat. Yet you see I am better."
+
+
+
+"Comforter--sad as sweet. I am too feeble to say what I feel; but while
+
+you speak I _do_ feel."
+
+
+
+"Here I am at your side, where I thought never more to be. Here I speak
+
+to you. I see you listen to me willingly--look at me kindly. Did I count
+
+on that? I despaired."
+
+
+
+Moore sighed--a sigh so deep it was nearly a groan. He covered his eyes
+
+with his hand.
+
+
+
+"May I be spared to make some atonement."
+
+
+
+Such was his [[prayer]].
 
 
 

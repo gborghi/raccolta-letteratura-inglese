@@ -1,5 +1,5 @@
 ---
-title: "[[wifrb11]] — The Perishing of the Pendragons (part 6)"
+title: "wifrb11 — The Perishing of the Pendragons (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -133,17 +133,3 @@ sucking noise of empty buckets plunged into a full stream; and finally
 the sound of many feet around the [[Fire|fire]].  But all this was less to him
 than the fact that the red rent, which had lately once more increased,
 had once more slightly diminished.
-
-     Then came a cry that very nearly made him turn his head. 
-[[Flambeau]] and Fanshaw, now reinforced by some of the gipsies,
-had rushed after the mysterious man by the [[house]]; and he heard from
-the other end of the [[Garden|garden]] the Frenchman's cry of horror and astonishment. 
-It was echoed by a howl not to be called human, as the being broke
-from their hold and ran along the [[Garden|garden]].  Three times at least
-it raced round the whole island, in a way that was as horrible as
-the chase of a lunatic, both in the cries of the pursued and the ropes
-carried by the pursuers; but was more horrible still, because it somehow
-suggested one of the chasing games of children in a [[Garden|garden]]. 
-Then, finding them closing in on every side, the figure sprang upon
-one of the higher [[River|river]] banks and disappeared with a splash
-into the dark and driving [[River|river]].

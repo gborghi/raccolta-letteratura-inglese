@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 14 (part 1)"
+title: "Shirley — Chapter 14 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_13/part_09">‹ part 09</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_14/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_13/part_10">‹ part 10</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_14/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -245,17 +245,3 @@ was just civil to me last [[Night|night]]--that was all."
 "I never asked what he was. I can guess. I saw him from the [[Window|window]] take
 
 your hand in his long fingers, just as he went out at my gate."
-
-
-
-"That is nothing. I am not a stranger, you know. I am an old
-
-acquaintance, and his cousin."
-
-
-
-"I feel indignant, and that is the long and short of the matter,"
-
-responded Miss Keeldar. "All my comfort," she added presently, "is
-
-broken up by his manœuvres. He keeps intruding between you and me.

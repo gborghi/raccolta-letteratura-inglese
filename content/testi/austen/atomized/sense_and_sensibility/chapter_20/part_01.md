@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 20 (part 1)"
+title: "Sense and Sensibility — Chapter 20 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -275,9 +275,3 @@ cannot refuse to come.”
 
 
 They both eagerly and resolutely declined her invitation.
-
-
-
-“But indeed you must and shall come. I am sure you will like it of all
-
-things. The Westons will be with us, and it will be quite delightful.

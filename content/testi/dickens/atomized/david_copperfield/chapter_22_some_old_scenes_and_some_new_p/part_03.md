@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE (part 3)"
+title: "David Copperfield — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_22_some_old_scenes_and_some_new_p/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_22_some_old_scenes_and_some_new_p/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘What an extraordinary fellow you are, Steerforth!’ I exclaimed,
+stopping--for this was the first I had heard of it. ‘When you may never
+care to come near the place again!’
+
+‘I don’t know that,’ he returned. ‘I have taken a fancy to the place. At
+all events,’ walking me briskly on, ‘I have bought a boat that was for
+sale--a clipper, Mr. Peggotty says; and so she is--and Mr. Peggotty will
+be master of her in my absence.’
 
 ‘Now I understand you, Steerforth!’ said I, exultingly. ‘You pretend
 to have bought it for yourself, but you have really done so to confer
@@ -140,19 +149,3 @@ as I felt, he said to his master:
 ‘Who?’ cried Steerforth, much astonished.
 
 ‘Miss Mowcher, sir.’
-
-‘Why, what on earth does she do here?’ said Steerforth.
-
-‘It appears to be her native part of the country, sir. She informs me
-that she makes one of her professional visits here, every year, sir.
-I met her in the street this afternoon, and she wished to know if she
-might have the [[Honour|honour]] of waiting on you after dinner, sir.’
-
-‘Do you know the Giantess in question, Daisy?’ inquired Steerforth.
-
-I was obliged to confess--I felt ashamed, even of being at this
-disadvantage before Littimer--that Miss Mowcher and I were wholly
-unacquainted.
-
-‘Then you shall know her,’ said Steerforth, ‘for she is one of the seven
-wonders of the world. When Miss Mowcher comes, show her in.’

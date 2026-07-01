@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 8 (part 4)"
+title: "Nicholas Nickleby — Chapter 8 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_08/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_08/part_05">part 05 ›</a></div>
 </nav>
 
+
+According to half-yearly custom, the boys gave three feeble cheers at
+this refreshing intelligence. Such cheers! Sights of extra strength with
+the chill on.
+
+‘I have seen the parents of some boys,’ continued Squeers, turning over
+his papers, ‘and they’re so glad to hear how their sons are getting on,
+that there’s no prospect at all of their going away, which of course is
+a very pleasant thing to reflect upon, for all parties.’
+
+Two or three hands went to two or three eyes when Squeers said this, but
+the greater part of the young gentlemen having no particular parents to
+speak of, were wholly uninterested in the thing one way or other.
+
+‘I have had disappointments to contend against,’ said Squeers, looking
+very grim; ‘Bolder’s father was two pound ten short. Where is Bolder?’
 
 ‘Here he is, please sir,’ rejoined twenty officious voices. Boys are
 very like men to be sure.
@@ -124,23 +140,3 @@ for nobody but young Squeers, who would appear indeed to have had most
 accommodating limbs, since everything that came into the school fitted
 him to a nicety. His head, in particular, must have been singularly
 elastic, for hats and caps of all dimensions were alike to him.
-
-This business dispatched, a few slovenly lessons were performed, and
-Squeers retired to his fireside, leaving Nicholas to take care of the
-boys in the school-room, which was very cold, and where a meal of bread
-and [[cheese]] was served out shortly after dark.
-
-There was a small stove at that corner of the room which was nearest
-to the master’s desk, and by it Nicholas sat down, so depressed and
-[[Self|self]]-degraded by the consciousness of his position, that if [[Death|death]] could
-have come upon him at that [[Time|time]], he would have been almost happy to meet
-it. The cruelty of which he had been an unwilling witness, the coarse
-and ruffianly behaviour of Squeers even in his best moods, the filthy
-place, the sights and sounds about him, all contributed to this state of
-feeling; but when he recollected that, being there as an assistant,
-he actually seemed--no matter what unhappy train of circumstances had
-brought him to that pass--to be the aider and abettor of a system which
-filled him with honest disgust and indignation, he loathed himself, and
-felt, for the moment, as though the mere consciousness of his present
-situation must, through all [[Time|time]] to come, prevent his raising his head
-again.

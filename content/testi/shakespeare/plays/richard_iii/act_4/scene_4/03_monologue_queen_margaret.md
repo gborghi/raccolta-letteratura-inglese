@@ -1,5 +1,5 @@
 ---
-title: "[[Richard III]] — Act IV, Scene 4 — monologue ([[Queen Margaret|QUEEN MARGARET]]) [3]"
+title: "Richard III — Act IV, Scene 4 — monologue (QUEEN MARGARET) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/richard-iii-(shakespeare)"

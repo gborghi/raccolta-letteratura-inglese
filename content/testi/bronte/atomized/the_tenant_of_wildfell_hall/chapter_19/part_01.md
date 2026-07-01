@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 19 (part 1)"
+title: "The Tenant of Wildfell Hall — Chapter 19 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/works/the-tenant-of-wildfell-hall-(bronte)">The Tenant of Wildfell Hall</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_18/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_19/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_18/part_05">‹ part 05</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_19/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -245,11 +245,3 @@ When it ceased, I longed for nothing so much as to be out of the room.
 The sofa was not far from the door, but I did not dare to raise my
 
 head, for I knew Mr. Huntingdon was standing near me, and I knew by the
-
-sound of his voice, as he spoke in answer to some remark of Lord
-
-Lowborough’s, that his face was turned towards me. Perhaps a
-
-half-suppressed sob had caught his ear, and caused him to look
-
-round—heaven forbid! But with a violent effort, I checked all further

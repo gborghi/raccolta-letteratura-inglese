@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 21 (part 6)"
+title: "Wuthering Heights — Chapter 21 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -13,6 +13,27 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_21/part_05">‹ part 05</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_22/part_01">part 01 ›</a></div>
 </nav>
 
+
+Following her habit, my young lady descended early, and visited the
+kitchen: I watched her go to the door, on the arrival of a certain
+little boy; and, while the dairymaid filled his can, she tucked
+something into his jacket pocket, and plucked something out. I went
+round by the [[Garden|garden]], and laid wait for the messenger; who fought
+valorously to defend his trust, and we spilt the milk between us; but I
+succeeded in abstracting the epistle; and, threatening serious
+consequences if he did not look sharp [[Home|home]], I remained under the wall
+and perused Miss Cathy’s affectionate composition. It was more simple
+and more eloquent than her cousin’s: very pretty and very silly. I
+shook my head, and went meditating into the [[house]]. The day being wet,
+she could not divert herself with rambling about the park; so, at the
+conclusion of her morning studies, she resorted to the solace of the
+drawer. Her father sat reading at the table; and I, on purpose, had
+sought a bit of work in some unripped fringes of the [[Window|window]]-curtain,
+keeping my eye steadily fixed on her proceedings. Never did any bird
+flying back to a plundered nest, which it had left brimful of chirping
+young ones, express more complete [[Despair|despair]], in its anguished cries and
+flutterings, than she by her single “Oh!” and the change that
+transfigured her late happy countenance. Mr. Linton looked up.
 
 “What is the matter, [[Love|love]]? Have you hurt yourself?” he said.
 

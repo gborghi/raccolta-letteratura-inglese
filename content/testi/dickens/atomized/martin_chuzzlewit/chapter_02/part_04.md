@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 2 (part 4)"
+title: "Martin Chuzzlewit — Chapter 2 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -134,16 +134,3 @@ grateful in Mr Pinch.’
 strong and scornful an emphasis on the name as if it would have given
 her unspeakable pleasure to express it, in an acted charade, on the calf
 of that gentleman’s leg.
-
-‘Aye, aye,’ returned her father, raising his hand mildly: ‘it is
-very [[Well|well]] to say what can we expect from Mr Pinch, but Mr Pinch is
-a fellow-creature, my dear; Mr Pinch is an item in the vast total of
-humanity, my [[Love|love]]; and we have a right, it is our duty, to expect in
-Mr Pinch some development of those better qualities, the possession
-of which in our own persons inspires our humble [[Self|self]]-respect. No,’
-continued Mr Pecksniff. ‘No! Heaven forbid that I should say, nothing
-can be expected from Mr Pinch; or that I should say, nothing can be
-expected from any man alive (even the most degraded, which Mr Pinch is
-not, no, really); but Mr Pinch has disappointed me; he has hurt me;
-I think a little the worse of him on this account, but not if human
-[[Nature|nature]]. Oh, no, no!’

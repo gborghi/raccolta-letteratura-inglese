@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 37 (part 5)"
+title: "Jane Eyre — Chapter 37 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_37/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_37/part_06">part 06 ›</a></div>
 </nav>
 
+
+“This St. John, then, is your cousin?”
+
+“Yes.”
+
+“You have spoken of him often: do you like him?”
+
+“He was a very good man, sir; I could not help liking him.”
+
+“A good man. Does that mean a respectable [[Well|well]]-conducted man of fifty?
+Or what does it mean?”
 
 “St John was only twenty-nine, sir.”
 
@@ -215,16 +226,3 @@ cold as an iceberg. He is not like you, sir: I am not happy at his
 side, nor near him, nor with him. He has no indulgence for me—no
 fondness. He sees nothing attractive in me; not even youth—only a few
 useful mental points.—Then I must leave you, sir, to go to him?”
-
-I shuddered involuntarily, and clung instinctively closer to my blind
-but beloved master. He smiled.
-
-“What, Jane! Is this true? Is such really the state of matters between
-you and Rivers?”
-
-“Absolutely, sir! Oh, you need not be jealous! I wanted to tease you a
-little to make you less sad: I thought anger would be better than
-grief. But if you wish me to [[Love|love]] you, could you but see how much I
-_do_ [[Love|love]] you, you would be proud and content. All my heart is yours,
-sir: it belongs to you; and with you it would remain, were fate to
-[[Exile|exile]] the rest of me from your presence for ever.”

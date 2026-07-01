@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 50 (part 1)"
+title: "Barnaby Rudge — Chapter 50 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -134,10 +134,3 @@ in short. This is the young man who had so little prudence and so much
 boldness. Ah! I am sorry for him.’
 
 ‘Sorry, master!’ cried Hugh.
-
-‘Sorry, Muster Gashford!’ echoed Dennis.
-
-‘In case there should be a proclamation out to-morrow, offering five
-hundred pounds, or some such trifle, for his apprehension; and in case
-it should include another man who dropped into the lobby from the stairs
-above,’ said Gashford, coldly; ‘still, do nothing.’

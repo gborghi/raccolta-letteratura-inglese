@@ -1,5 +1,5 @@
 ---
-title: "The Merchant of [[Venice]] — Act I, Scene 3 — monologue ([[Shylock|SHYLOCK]]) [3]"
+title: "The Merchant of Venice — Act I, Scene 3 — monologue (SHYLOCK) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-merchant-of-venice-(shakespeare)"

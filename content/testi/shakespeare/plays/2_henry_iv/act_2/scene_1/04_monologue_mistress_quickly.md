@@ -1,5 +1,5 @@
 ---
-title: "2 [[Henry IV]] — Act II, Scene 1 — monologue ([[Mistress Quickly|MISTRESS QUICKLY]]) [4]"
+title: "2 Henry IV — Act II, Scene 1 — monologue (MISTRESS QUICKLY) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/2-henry-iv-(shakespeare)"

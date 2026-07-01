@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 13 (part 3)"
+title: "Dombey and Son — Chapter 41 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,151 +14,120 @@ tags:
 </nav>
 
 
-“You can leave the room, Sir!” said Mr Dombey, haughtily.
+Mr Feeder, however, as an intimate friend, is not excluded from the
+subject. Mr Toots merely requires that it should be mentioned
+mysteriously, and with feeling. After a few glasses of wine, he gives
+Miss Dombey’s health, observing, “Feeder, you have no idea of the
+sentiments with which I propose that toast.” Mr Feeder replies, “Oh,
+yes, I have, my dear Toots; and greatly they redound to your [[Honour|honour]],
+old boy.” Mr Feeder is then agitated by [[Friendship|friendship]], and shakes hands;
+and says, if ever Toots wants a brother, he knows where to find him,
+either by post or parcel. Mr Feeder like-wise says, that if he may
+advise, he would recommend Mr Toots to learn the guitar, or, at least
+the flute; for women like music, when you are paying your addresses to
+’em, and he has found the advantage of it himself.
 
-He crushed the letter in his hand; and having watched Walter out at the
-door, put it in his pocket without breaking the seal.
+This brings Mr Feeder, B.A., to the confession that he has his eye upon
+Cornelia Blimber. He informs Mr Toots that he don’t object to
+spectacles, and that if the Doctor were to do the handsome thing and
+give up the business, why, there they are—provided for. He says it’s
+his opinion that when a man has made a handsome sum by his business, he
+is bound to give it up; and that Cornelia would be an assistance in it
+which any man might be proud of. Mr Toots replies by launching wildly
+out into Miss Dombey’s praises, and by insinuations that sometimes he
+thinks he should like to blow his brains out. Mr Feeder strongly urges
+that it would be a rash attempt, and shows him, as a reconcilement to
+existence, Cornelia’s portrait, spectacles and all.
 
-“These continual references to Mr Carker the Junior,” Mr Carker the
-Manager began, as soon as they were [[Alone|alone]], “are, to a man in my
-position, uttered before one in yours, so unspeakably distressing—”
+Thus these quiet spirits pass the evening; and when it has yielded
+place to [[Night|night]], Mr Toots walks [[Home|home]] with Mr Feeder, and parts with him
+at Doctor Blimber’s door. But Mr Feeder only goes up the steps, and
+when Mr Toots is gone, comes down again, to stroll upon the beach
+[[Alone|alone]], and think about his prospects. Mr Feeder plainly hears the waves
+informing him, as he loiters along, that Doctor Blimber will give up
+the business; and he feels a soft romantic pleasure in looking at the
+outside of the [[house]], and thinking that the Doctor will first paint it,
+and put it into thorough repair.
 
-“Nonsense, Carker,” Mr Dombey interrupted. “You are too sensitive.”
+Mr Toots is likewise roaming up and down, outside the casket that
+contains his [[Jewel|jewel]]; and in a deplorable condition of mind, and not
+unsuspected by the police, gazes at a [[Window|window]] where he sees a light, and
+which he has no [[Doubt|doubt]] is Florence’s. But it is not, for that is Mrs
+Skewton’s room; and while Florence, sleeping in another chamber, [[Dreams|dreams]]
+lovingly, in the midst of the old scenes, and their old associations
+live again, the figure which in grim reality is substituted for the
+patient boy’s on the same theatre, once more to connect it—but how
+differently!—with [[Decay|decay]] and [[Death|death]], is stretched there, wakeful and
+complaining. Ugly and haggard it lies upon its bed of unrest; and by
+it, in the terror of her unimpassioned loveliness—for it has terror in
+the sufferer’s failing eyes—sits Edith. What do the waves say, in the
+stillness of the [[Night|night]], to them?
 
-“I am sensitive,” he returned. “If one in your position could by any
-possibility imagine yourself in my place: which you cannot: you would
-be so too.”
+“Edith, what is that stone arm raised to strike me? Don’t you see it?”
 
-As Mr Dombey’s thoughts were evidently pursuing some other subject, his
-discreet ally broke off here, and stood with his teeth ready to present
-to him, when he should look up.
+“There is nothing, mother, but your fancy.”
 
-“You want somebody to send to the West Indies, you were saying,”
-observed Mr Dombey, hurriedly.
+“But my fancy! Everything is my fancy. Look! Is it possible that you
+don’t see it?”
 
-“Yes,” replied Carker.
+“Indeed, mother, there is nothing. Should I sit unmoved, if there were
+any such thing there?”
 
-“Send young Gay.”
+“Unmoved?” looking wildly at her—“it’s gone now—and why are you so
+unmoved? That is not my fancy, Edith. It turns me cold to see you
+sitting at my side.”
 
-“Good, very good indeed. Nothing easier,” said Mr Carker, without any
-show of surprise, and taking up the pen to re-endorse the letter, as
-coolly as he had done before. “‘Send young Gay.’”
+“I am sorry, mother.”
 
-“Call him back,” said Mr Dombey.
+“Sorry! You seem always sorry. But it is not for me!”
 
-Mr Carker was quick to do so, and Walter was quick to return.
+With that, she cries; and tossing her restless head from side to side
+upon her pillow, runs on about neglect, and the mother she has been,
+and the mother the good old creature was, whom they met, and the cold
+return the daughters of such mothers make. In the midst of her
+incoherence, she stops, looks at her daughter, cries out that her wits
+are going, and hides her face upon the bed.
 
-“Gay,” said Mr Dombey, turning a little to look at him over his
-shoulder. “Here is a—”
+Edith, in compassion, bends over her and speaks to her. The sick old
+woman clutches her round the neck, and says, with a look of horror,
 
-“An opening,” said Mr Carker, with his mouth stretched to the utmost.
+“Edith! we are going [[Home|home]] soon; going back. You mean that I shall go
+[[Home|home]] again?”
 
-“In the West Indies. At Barbados. I am going to send you,” said Mr
-Dombey, scorning to embellish the bare [[Truth|truth]], “to fill a junior
-situation in the counting-[[house]] at Barbados. Let your Uncle know from
-me, that I have chosen you to go to the West Indies.”
+“Yes, mother, yes.”
 
-Walter’s breath was so completely taken away by his astonishment, that
-he could hardly find enough for the repetition of the words “West
-Indies.”
+“And what he said—what’s-his-name, I never could remember
+names—Major—that dreadful word, when we came away—it’s not true?
+Edith!” with a shriek and a stare, “it’s not that that is the matter
+with me.”
 
-“Somebody must go,” said Mr Dombey, “and you are young and healthy, and
-your Uncle’s circumstances are not good. Tell your Uncle that you are
-appointed. You will not go yet. There will be an interval of a month—or
-two perhaps.”
+[[Night]] after [[Night|night]], the lights burn in the [[Window|window]], and the figure lies
+upon the bed, and Edith sits beside it, and the restless waves are
+calling to them both the whole [[Night|night]] long. [[Night]] after [[Night|night]], the waves
+are hoarse with repetition of their mystery; the [[Dust|dust]] lies piled upon
+the shore; the sea-[[Birds|birds]] soar and hover; the winds and clouds are on
+their trackless flight; the white arms beckon, in the moonlight, to the
+invisible country far away.
 
-“Shall I remain there, Sir?” inquired Walter.
+And still the sick old woman looks into the corner, where the stone
+arm—part of a figure of some tomb, she says—is raised to strike her. At
+last it falls; and then a dumb old woman lies upon the bed, and she is
+crooked and shrunk up, and half of her is dead.
 
-“Will you remain there, Sir!” repeated Mr Dombey, turning a little more
-round towards him. “What do you mean? What does he mean, Carker?”
+Such is the figure, painted and patched for the sun to mock, that is
+drawn slowly through the crowd from day to day; looking, as it goes,
+for the good old creature who was such a mother, and making mouths as
+it peers among the crowd in vain. Such is the figure that is often
+wheeled down to the margin of the sea, and stationed there; but on
+which no [[Wind|wind]] can blow freshness, and for which the murmur of the ocean
+has no soothing word. She lies and listens to it by the hour; but its
+speech is dark and gloomy to her, and a dread is on her face, and when
+her eyes wander over the expanse, they see but a broad stretch of
+desolation between earth and heaven.
 
-“Live there, Sir,” faltered Walter.
-
-“Certainly,” returned Mr Dombey.
-
-Walter bowed.
-
-“That’s all,” said Mr Dombey, resuming his letters. “You will explain
-to him in good [[Time|time]] about the usual outfit and so forth, Carker, of
-course. He needn’t wait, Carker.”
-
-“You needn’t wait, Gay,” observed Mr Carker: bare to the gums.
-
-“Unless,” said Mr Dombey, stopping in his reading without looking off
-the letter, and seeming to listen. “Unless he has anything to say.”
-
-“No, Sir,” returned Walter, agitated and confused, and almost stunned,
-as an infinite variety of pictures presented themselves to his mind;
-among which [[Captain Cuttle]], in his glazed hat, transfixed with
-astonishment at Mrs MacStinger’s, and his uncle bemoaning his loss in
-the little back parlour, held prominent places. “I hardly know—I—I am
-much obliged, Sir.”
-
-“He needn’t wait, Carker,” said Mr Dombey.
-
-And as Mr Carker again echoed the words, and also collected his papers
-as if he were going away too, Walter felt that his lingering any longer
-would be an unpardonable intrusion—especially as he had nothing to
-say—and therefore walked out quite confounded.
-
-Going along the passage, with the mingled consciousness and
-helplessness of [[A Dream|a dream]], he heard Mr Dombey’s door shut again, as Mr
-Carker came out: and immediately afterwards that gentleman called to
-him.
-
-“Bring your friend Mr Carker the Junior to my room, Sir, if you
-please.”
-
-Walter went to the outer office and apprised Mr Carker the Junior of
-his errand, who accordingly came out from behind a partition where he
-sat [[Alone|alone]] in one corner, and returned with him to the room of Mr Carker
-the Manager.
-
-That gentleman was standing with his back to the [[Fire|fire]], and his hands
-under his coat-tails, looking over his white cravat, as unpromisingly
-as Mr Dombey himself could have looked. He received them without any
-change in his attitude or softening of his harsh and black expression:
-merely signing to Walter to close the door.
-
-“John Carker,” said the Manager, when this was done, turning suddenly
-upon his brother, with his two rows of teeth bristling as if he would
-have bitten him, “what is the league between you and this young man, in
-virtue of which I am haunted and hunted by the mention of your name? Is
-it not enough for you, John Carker, that I am your near relation, and
-can’t detach myself from that—”
-
-“Say disgrace, James,” interposed the other in a low voice, finding
-that he stammered for a word. “You mean it, and have reason, say
-disgrace.”
-
-“From that disgrace,” assented his brother with keen emphasis, “but is
-the fact to be blurted out and trumpeted, and proclaimed continually in
-the presence of the very [[house|House]]! In moments of confidence too? Do you
-think your name is calculated to harmonise in this place with trust and
-confidence, John Carker?”
-
-“No,” returned the other. “No, James. God knows I have no such
-thought.”
-
-“What is your thought, then?” said his brother, “and why do you thrust
-yourself in my way? Haven’t you injured me enough already?”
-
-“I have never injured you, James, wilfully.”
-
-“You are my brother,” said the Manager. “That’s injury enough.”
-
-“I wish I could undo it, James.”
-
-“I wish you could and would.”
-
-During this conversation, Walter had looked from one brother to the
-other, with [[Pain|pain]] and amazement. He who was the Senior in years, and
-Junior in the [[house|House]], stood, with his eyes cast upon the ground, and his
-head bowed, humbly listening to the reproaches of the other. Though
-these were rendered very bitter by the tone and look with which they
-were accompanied, and by the presence of Walter whom they so much
-surprised and shocked, he entered no other protest against them than by
-slightly raising his right hand in a deprecatory manner, as if he would
-have said, “Spare me!” So, had they been blows, and he a brave man,
-under strong constraint, and weakened by bodily [[Suffering|suffering]], he might
-have stood before the executioner.
+Florence she seldom sees, and when she does, is angry with and mows at.
+Edith is beside her always, and keeps Florence away; and Florence, in
+her bed at [[Night|night]], trembles at the thought of [[Death|death]] in such a shape, and
+often wakes and listens, thinking it has come. No one attends on her
+but Edith. It is better that few eyes should see her; and her daughter
+watches [[Alone|alone]] by the bedside.

@@ -1,5 +1,5 @@
 ---
-title: "[[misc]] — THE OTHER KIND OF MAN"
+title: "misc — THE OTHER KIND OF MAN"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -10,12 +10,11 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">misc</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_31_the_man_on_top">‹ Story 31 THE MAN ON TOP</a><a class="ex-next" href="/testi/chesterton/atomized/misc/story_33_the_mediaeval_villain">Story 33 THE MEDIAEVAL VILLAIN ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_31_the_man_on_top">‹ Story 31 THE MAN ON TOP</a><a class="ex-next" href="/testi/chesterton/atomized/misc/story_33_the_mediaeval_villain_villain">Story 33 THE MEDIAEVAL Villain VILLAIN ›</a></div>
 </nav>
 
 
 THE OTHER KIND OF MAN
-
 
 There are some who are conciliated by Conciliation Boards.  There are
 some who, when they hear of Royal Commissions, breathe again--

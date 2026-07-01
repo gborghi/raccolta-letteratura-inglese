@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 3 (part 3)"
+title: "Nicholas Nickleby — Chapter 3 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_03/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_03/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘And brothers also, sir,’ said Nicholas, with a glance of indignation.
+
+‘Yes, sir, and puppies, and pug-[[dogs]] likewise,’ replied his uncle,
+taking a chair. ‘You didn’t mention in your letter what my brother’s
+complaint was, ma’am.’
+
+‘The doctors could attribute it to no particular disease,’ said Mrs
+Nickleby; shedding [[Tears|tears]]. ‘We have too much reason to [[Fear|fear]] that he died
+of a broken heart.’
+
+‘Pooh!’ said Ralph, ‘there’s no such thing. I can understand a man’s
+dying of a broken neck, or [[Suffering|suffering]] from a broken arm, or a broken
+head, or a broken leg, or a broken nose; but a broken heart!--nonsense,
+it’s the cant of the day. If a man can’t pay his debts, he dies of a
+broken heart, and his widow’s a martyr.’
 
 ‘Some people, I believe, have no hearts to break,’ observed Nicholas,
 quietly.
@@ -132,18 +148,3 @@ Nickleby concluded by lamenting that the dear departed had never deigned
 to profit by her advice, save on one occasion; which was a strictly
 veracious statement, inasmuch as he had only acted upon it once, and had
 ruined himself in consequence.
-
-Mr. [[Ralph Nickleby]] heard all this with a half-smile; and when the widow
-had finished, quietly took up the subject where it had been left before
-the above outbreak.
-
-‘Are you willing to work, sir?’ he inquired, frowning on his nephew.
-
-‘Of course I am,’ replied Nicholas haughtily.
-
-‘Then see here, sir,’ said his uncle. ‘This caught my eye this morning,
-and you may thank your [[Stars|stars]] for it.’
-
-With this exordium, Mr. [[Ralph Nickleby]] took a newspaper from his
-pocket, and after unfolding it, and looking for a short [[Time|time]] among the
-advertisements, read as follows:

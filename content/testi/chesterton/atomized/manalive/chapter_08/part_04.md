@@ -1,5 +1,5 @@
 ---
-title: "[[manalive]] — Chapter 2 (part 4)"
+title: "manalive — Chapter 2 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/manalive-(chesterton)"
@@ -26,12 +26,12 @@ whatever he is.'
 
 "`I am a burglar,' explained the big creature quite calmly.
 `I am a member of the Fabian Society.  I take back the wealth stolen
-by the capitalist, not by sweeping civil war and revolution, but by [[Reform|reform]]
+by the capitalist, not by sweeping civil war and revolution, but by reform
 fitted to the special occasion--here a little and there a little.
-Do you see that fifth [[house]] along the terrace with the flat roof?
-I'm permeating that one to-[[Night|night]].'
+Do you see that fifth house along the terrace with the flat roof?
+I'm permeating that one to-night.'
 
-"`Whether this is a crime or a joke,' I cried, `I [[Desire|desire]] to be quit of it.'
+"`Whether this is a crime or a joke,' I cried, `I desire to be quit of it.'
 
 "`The ladder is just behind you,' answered the creature
 with horrible courtesy; `and, before you go, do let me give
@@ -49,26 +49,25 @@ the chimneys, and that Raymond Percy (a priest of God and,
 what was worse, a gentleman) was crawling up after him.
 I have never seen either of them since that day.
 
-"In consequence of this [[Soul|soul]]-searching experience I severed my
+"In consequence of this soul-searching experience I severed my
 connection with the wild set.  I am far from saying that every
-member of the Christian Social [[Union]] must necessarily be a burglar.
+member of the Christian Social Union must necessarily be a burglar.
 I have no right to bring any such charge.  But it gave me a hint
 of what such courses may lead to in many cases; and I saw them no more.
 
 "I have only to add that the photograph you enclose, taken by a
 Mr. Inglewood, is undoubtedly that of the burglar in question.
-When I got [[Home|home]] that [[Night|night]] I looked at his card, and he was inscribed
-there under the name of [[Innocent]] [[smith|Smith]].--Yours faithfully,
+When I got home that night I looked at his card, and he was inscribed
+there under the name of Innocent Smith.--Yours faithfully,
 				      John Clement Hawkins."
 
-
-[[Moon]] merely went through the form of glancing at the paper.  He knew that
+Moon merely went through the form of glancing at the paper.  He knew that
 the prosecutors could not have invented so heavy a document; that Moses Gould
 (for one) could no more write like a canon than he could read like one.
-After handing it back he [[Rose|rose]] to open the defence on the burglary charge.
+After handing it back he rose to open the defence on the burglary charge.
 
-"We wish," said [[Michael]], "to give all reasonable facilities to
-the prosecution; especially as it will save the [[Time|time]] of the whole [[Court|court]].
+"We wish," said Michael, "to give all reasonable facilities to
+the prosecution; especially as it will save the time of the whole court.
 The latter object I shall once again pursue by passing over all
 those points of theory which are so dear to Dr. Pym.  I know how they
 are made.  Perjury is a variety of aphasia, leading a man to say
@@ -76,37 +75,37 @@ one thing instead of another.  Forgery is a kind of writer's cramp,
 forcing a man to write his uncle's name instead of his own.
 Piracy on the high seas is probably a form of sea-sickness. But it is
 unnecessary for us to inquire into the causes of a fact which we deny.
-[[Innocent]] [[smith|Smith]] never did commit burglary at all.
+Innocent Smith never did commit burglary at all.
 
 "I should like to claim the power permitted by our previous arrangement,
 and ask the prosecution two or three questions."
 
 Dr. Cyrus Pym closed his eyes to indicate a courteous assent.
 
-"In the first place," continued [[Moon]], "have you the date of Canon Hawkins's
-last glimpse of [[smith|Smith]] and Percy climbing up the walls and roofs?"
+"In the first place," continued Moon, "have you the date of Canon Hawkins's
+last glimpse of Smith and Percy climbing up the walls and roofs?"
 
 "Ho, yus!" called out Gould smartly.  "November thirteen, eighteen ninety-one."
 
-"Have you," continued [[Moon]], "identified the houses in Hoxton up
+"Have you," continued Moon, "identified the houses in Hoxton up
 which they climbed?"
 
 "Must have been Ladysmith Terrace out of the highroad,"
 answered Gould with the same clockwork readiness.
 
-"[[Well]]," said [[Michael]], cocking an eyebrow at him, "was there any burglary
-in that terrace that [[Night|night]]?  Surely you could find that out."
+"Well," said Michael, cocking an eyebrow at him, "was there any burglary
+in that terrace that night?  Surely you could find that out."
 
-"There may [[Well|well]] have been," said the doctor primly, after a pause,
+"There may well have been," said the doctor primly, after a pause,
 "an unsuccessful one that led to no legalities."
 
-"Another question," proceeded [[Michael]].  "Canon Hawkins, in his
-[[Blood|blood]]-and-thunder boyish way, left off at the exciting moment.
+"Another question," proceeded Michael.  "Canon Hawkins, in his
+blood-and-thunder boyish way, left off at the exciting moment.
 Why don't you produce the evidence of the other clergyman,
 who actually followed the burglar and presumably was present
 at the crime?"
 
-Dr. Pym [[Rose|rose]] and planted the points of his fingers on the table,
+Dr. Pym rose and planted the points of his fingers on the table,
 as he did when he was specially confident of the clearness
 of his reply.
 
@@ -118,33 +117,33 @@ I think it will appear pretty natural to a bright thinker.
 This Mr. Raymond Percy is admittedly, by the canon's evidence,
 a minister of eccentric ways.  His con-nection with England's proudest
 and fairest does not seemingly prevent a taste for the society
-of the real low-down. On the other hand, the prisoner [[smith|Smith]] is,
+of the real low-down. On the other hand, the prisoner Smith is,
 by general agreement, a man of irr'sistible fascination.
-I entertain no [[Doubt|doubt]] that [[smith|Smith]] led the Revered Percy into the crime
+I entertain no doubt that Smith led the Revered Percy into the crime
 and forced him to hide his head in the real crim'nal class.
 That would fully account for his non-appearance, and the failure
 of all attempts to trace him."
 
-"It is impossible, then, to trace him?" asked [[Moon]].
+"It is impossible, then, to trace him?" asked Moon.
 
 "Impossible," repeated the specialist, shutting his eyes.
 
 "You are sure it's impossible?"
 
-"Oh dry up, [[Michael]]," cried Gould, irritably.  "We'd 'ave found
+"Oh dry up, Michael," cried Gould, irritably.  "We'd 'ave found
 'im if we could, for you bet 'e saw the burglary.  Don't YOU
 start looking for 'im. Look for your own 'ead in the dustbin.
 You'll find that--after a bit," and his voice died away in grumbling.
 
-"[[arthur|Arthur]]," directed [[Michael]] [[Moon]], sitting down, "kindly read
-Mr. Raymond Percy's letter to the [[Court|court]]."
+"Arthur," directed Michael Moon, sitting down, "kindly read
+Mr. Raymond Percy's letter to the court."
 
-"Wishing, as Mr. [[Moon]] has said, to shorten the proceedings as much
+"Wishing, as Mr. Moon has said, to shorten the proceedings as much
 as possible," began Inglewood, "I will not read the first part
 of the letter sent to us.  It is only fair to the prosecution
 to admit the account given by the second clergyman fully ratifies,
 as far as facts are concerned, that given by the first clergyman.
 We concede, then, the canon's story so far as it goes.
 This must necessarily be valuable to the prosecutor and also convenient
-to the [[Court|court]].  I begin Mr. Percy's letter, then, at the point
-when all three men were standing on the [[Garden|garden]] wall:--
+to the court.  I begin Mr. Percy's letter, then, at the point
+when all three men were standing on the garden wall:--

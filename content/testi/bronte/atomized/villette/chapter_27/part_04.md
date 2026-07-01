@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 26 (part 4)"
+title: "Villette — Chapter 26 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_27/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_27/part_05">part 05 ›</a></div>
 </nav>
 
+
+“_He_ does not talk much. Is he afraid of me, do you think, papa?”
+
+“Oh, to be sure, what man would not be afraid of such a little silent
+lady?”
+
+“Then tell him some day not to mind my being silent. Say that it is my
+way, and that I have no unfriendly intention.”
 
 “Your way, you little chatter-box? So far from being your way, it is
 only your whim!”
@@ -128,6 +136,3 @@ for the pomps and vanities of life. It seems I had no “dévouement,” no
 “récueillement” in my character; no spirit of grace, [[Faith|faith]], sacrifice,
 or [[Self|self]]-abasement. Feeling the inutility of answering these charges, I
 mutely continued the correction of a pile of English exercises.
-
-“He could see in me nothing Christian: like many other Protestants, I
-revelled in the [[Pride|pride]] and [[Self|self]]-will of paganism.”

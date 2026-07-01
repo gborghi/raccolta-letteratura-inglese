@@ -44,7 +44,7 @@ our imaginary [[Prophet|prophet]] was stoned in the morning of the world. If we
 weigh the matter in the faultless scales of [[Imagination|imagination]], if we see what
 is the real trend of humanity, we shall feel it most probable that he
 was stoned for saying that the grass was green and that the [[Birds|birds]] sang
-in [[Spring|spring]]; for the mission of all the prophets from the beginning has
+in [[spring]]; for the mission of all the prophets from the beginning has
 not been so much the pointing out of heavens or hells as primarily the
 pointing out of the earth.
 
@@ -127,6 +127,5 @@ have conceived that a defendant is chiefly required when worldlings
 despise the world--that a counsel for the defence would not have been
 out of place in that terrible day when the sun was darkened over Calvary
 and Man was rejected of men.
-
 
        *       *       *       *       *

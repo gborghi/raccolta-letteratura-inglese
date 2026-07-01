@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 25"
+title: "The Professor — Chapter 25"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-professor-(bronte)"
@@ -16,25 +16,7 @@ tags:
 
 CHAPTER XXV.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 PREFACE.
-
-
 
 This little book was written before either “[[Jane Eyre]]” or “[[Shirley]],”
 
@@ -60,8 +42,6 @@ result of which, when carried out into practice, often procures for an
 
 author more surprise than pleasure.
 
-
-
 I said to myself that my [[Hero|hero]] should work his way through life as I had
 
 seen real living men work theirs--that he should never get a shilling
@@ -79,8 +59,6 @@ ascent of “the [[Hill]] of Difficulty;” that he should not even marry a
 beautiful girl or a lady of rank. As Adam’s son he should share Adam’s
 
 doom, and drain throughout life a mixed and moderate cup of enjoyment.
-
-
 
 In the sequel, however, I find that publishers in general scarcely
 
@@ -104,8 +82,6 @@ for the wild, wonderful, and thrilling--the strange, startling, and
 
 harrowing--agitates divers souls that show a calm and sober surface.
 
-
-
 Such being the case, the reader will comprehend that to have reached
 
 him in the form of a printed book, this brief narrative must have gone
@@ -118,15 +94,9 @@ comfort--subdues [[Fear|fear]]--leans on the staff of a moderate expectation--an
 
 mutters under its breath, while lifting its eye to that of the public,
 
-
-
 “He that is low need [[Fear|fear]] no fall.”
 
-
-
 CURRER BELL.
-
-
 
 The foregoing preface was written by my wife with a view to the
 
@@ -142,28 +112,10 @@ to me that I ought not to withhold “[[The Professor]]” from the public. I
 
 have therefore consented to its publication.
 
-
-
 A. B. NICHOLLS
-
-
 
 Haworth Parsonage,
 
-
-
 September 22nd, 1856.
-
-
-
-
-
-
-
-
-
-
-
-
 
 T H E    P R O F E S S O R

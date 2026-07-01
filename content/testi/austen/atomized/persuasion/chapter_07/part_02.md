@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 7 (part 2)"
+title: "Persuasion — Chapter 7 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_07/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_07/part_03">part 03 ›</a></div>
 </nav>
 
+
+Anne will send for me if anything is the matter.”
+
+
+
+Husbands and wives generally understand when opposition will be vain.
+
+Mary knew, from Charles’s manner of speaking, that he was quite
+
+determined on going, and that it would be of no use to teaze him. She
 
 said nothing, therefore, till he was out of the room, but as soon as
 
@@ -205,21 +215,3 @@ must be either indifferent or unwilling. Had he wished ever to see her
 again, he need not have waited till this [[Time|time]]; he would have done what
 
 she could not but believe that in his place she should have done long
-
-ago, when events had been early giving him the independence which [[Alone|alone]]
-
-had been wanting.
-
-
-
-Her brother and sister came back delighted with their new acquaintance,
-
-and their visit in general. There had been music, singing, talking,
-
-laughing, all that was most agreeable; charming manners in Captain
-
-Wentworth, no shyness or reserve; they seemed all to know each other
-
-perfectly, and he was coming the very next morning to shoot with
-
-Charles. He was to come to breakfast, but not at the Cottage, though

@@ -1,5 +1,5 @@
 ---
-title: "[[TheCrimesOfEngland]] — Chapter 10 (part 20)"
+title: "TheCrimesOfEngland — Chapter 10 (part 20)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thecrimesofengland-(chesterton)"
@@ -13,6 +13,110 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thecrimesofengland/chapter_10/part_19">‹ part 19</a><a class="ex-next" href="/testi/chesterton/atomized/thecrimesofengland/chapter_10/part_21">part 21 ›</a></div>
 </nav>
 
+
+The Englishman would not see that if there was only a verbal difference
+
+between the French Emperor and the Emperor of the French, so, if it came
+
+to that, it was a verbal difference between the Emperor and the
+
+Republic, or even between a Parliament and no Parliament. For him an
+
+Emperor meant merely despotism; he had not yet learned that a Parliament
+
+may mean merely oligarchy. He did not know that the English people would
+
+soon be made impotent, not by the disfranchising of their constituents,
+
+but simply by the silencing of their members; and that the governing
+
+class of England did not now depend upon rotten boroughs, but upon
+
+rotten representatives. Therefore he did not understand Bonapartism. He
+
+did not understand that French [[democracy]] became more democratic, not
+
+less, when it turned all France into one constituency which elected one
+
+member. He did not understand that many dragged down the Republic
+
+because it was not republican, but purely senatorial. He was yet to
+
+learn how quite corruptly senatorial a great representative assembly can
+
+become. Yet in England to-day we hear "the decline of Parliament" talked
+
+about and taken for granted by the best Parliamentarians--Mr. Balfour,
+
+for instance--and we hear the one partly French and wholly Jacobin
+
+historian of the [[French Revolution]] recommending for the English evil a
+
+revival of the power of the [[Crown]]. It seems that so far from having left
+
+Louis Napoleon far behind in the grey [[Dust|dust]] of the dead despotisms, it is
+
+not at all improbable that our most extreme revolutionary developments
+
+may end where Louis Napoleon began.
+
+In other words, the Victorian Englishman did not understand the words
+
+"Emperor of the French." The type of title was deliberately chosen to
+
+express the idea of an elective and popular origin; as against such a
+
+phrase as "the German Emperor," which expresses an almost
+
+transcendental tribal patriarchate, or such a phrase as "[[King]] of
+
+Prussia," which suggests personal ownership of a whole territory. To
+
+treat the _Coup d'état_ as unpardonable is to justify riot against
+
+despotism, but forbid any riot against aristocracy. Yet the idea
+
+expressed in "The Emperor of the French" is not dead, but rather risen
+
+from the dead. It is the idea that while a [[government]] may pretend to be
+
+a popular [[government]], only a person can be really popular. Indeed, the
+
+idea is still the [[Crown|crown]] of American [[democracy]], as it was for a [[Time|time]] the
+
+[[Crown|crown]] of French [[democracy]]. The very powerful official who makes the
+
+choice of that great people for peace or war, might very [[Well|well]] be called,
+
+not the President of the United States, but the President of the
+
+Americans. In [[Italy]] we have seen the [[King]] and the mob prevail over the
+
+conservatism of the Parliament, and in [[Russia]] the new popular policy
+
+sacramentally symbolised by the Czar riding at the head of the new
+
+armies. But in one place, at least, the actual form of words exists; and
+
+the actual form of words has been splendidly justified. One man among
+
+the sons of men has been permitted to fulfil a courtly formula with
+
+awful and disastrous fidelity. Political and geographical ruin have
+
+written one last royal title across the sky; the loss of palace and
+
+capital and territory have but isolated and made evident the people that
+
+has not been lost; not laws but the [[Love|love]] of exiles, not soil but the
+
+souls of men, still make certain that five true words shall yet be
+
+written in the corrupt and fanciful chronicles of mankind: "The [[King]] of
+
+the Belgians."
+
+It is a common phrase, recurring constantly in the real if rabid
 
 eloquence of Victor Hugo, that Napoleon III. was a mere ape of Napoleon
 
@@ -54,8 +158,6 @@ and once when he made them think him a statesman. But he deceived them a
 
 third [[Time|time]]; when he made them think he was dead; and had done nothing.
 
-
-
 In spite of the unbridled verse of Hugo and the even more unbridled
 
 prose of Kinglake, Napoleon III. is really and solely discredited in
@@ -79,123 +181,3 @@ or [[Queen Elizabeth]], as much as about poor Louis Napoleon; they bear no
 trace of any comprehension of his quite interesting aims, and his quite
 
 comprehensible contempt for the fat-souled senatorial politicians. And
-
-if a real revolutionist like Hugo did not do justice to the
-
-revolutionary element in Cæsarism, it need hardly be said that a rather
-
-Primrose League Tory like Tennyson did not. Kinglake's curiously acrid
-
-insistence upon the _Coup d'état_ is, I [[Fear|fear]], only an indulgence in one
-
-of the least pleasing pleasures of our national pen and press, and one
-
-which afterwards altogether ran away with us over the Dreyfus case. It
-
-is an unfortunate habit of publicly repenting for other people's sins.
-
-If this came easy to an Englishman like Kinglake, it came, of course,
-
-still easier to a German like [[Queen]] Victoria's husband and even to
-
-[[Queen]] Victoria herself, who was naturally influenced by him. But in so
-
-far as the sensible masses of the English nation took any interest in
-
-the matter, it is probable that they sympathised with Palmerston, who
-
-was as popular as the Prince Consort was unpopular. The black mark
-
-against Louis Napoleon's name until now, has simply been Sedan; and it
-
-is our whole purpose to-day to turn Sedan into an interlude. If it is
-
-not an interlude, it will be the end of the world. But we have sworn to
-
-make an end of that ending: warring on until, if only by a purgatory of
-
-the nations and the mountainous annihilation of men, the story of the
-
-world ends [[Well|well]].
-
-
-
-There are, as it were, valleys of [[history]] quite close to us, but hidden
-
-by the closer hills. One, as we have seen, is that fold in the soft
-
-Surrey hills where Cobbett sleeps with his still-born English
-
-Revolution. Another is under that height called The Spy of [[Italy]], where
-
-a new Napoleon brought back the golden eagles against the black eagles
-
-of Austria. Yet that French adventure in support of the Italian
-
-insurrection was very important; we are only beginning to understand
-
-its importance. It was a defiance to the German Reaction and 1870 was a
-
-sort of [[Revenge|revenge]] for it, just as the Balkan victory was a defiance to the
-
-German Reaction and 1914 was the attempted [[Revenge|revenge]] for it. It is true
-
-that the French liberation of [[Italy]] was incomplete, the problem of the
-
-Papal States, for instance, being untouched by the Peace of Villafranca.
-
-The volcanic but fruitful spirit of [[Italy]] had already produced that
-
-wonderful, wandering, and almost omnipresent personality whose red shirt
-
-was to be a walking [[Flag|flag]]: Garibaldi. And many English Liberals
-
-sympathised with him and his extremists as against the peace. Palmerston
-
-called it "the peace that passeth all understanding": but the profanity
-
-of that hilarious old heathen was nearer the mark than he knew: there
-
-were really present some of those deep things which he did not
-
-understand. To quarrel with the Pope, but to compromise with him, was an
-
-instinct with the Bonapartes; an instinct no Anglo-Saxon could be
-
-expected to understand. They knew the [[Truth|truth]]; that Anti-Clericalism is
-
-not a Protestant movement, but a Catholic mood. And after all the
-
-English Liberals could not get their own [[government|Government]] to risk what the
-
-French [[government|Government]] had risked; and Napoleon III. might [[Well|well]] have retorted
-
-on Palmerston, his rival in international Liberalism, that half a war
-
-was better than no fighting. Swinburne called Villafranca "The Halt
-
-before Rome," and expressed a rhythmic impatience for the [[Time|time]] when the
-
-world
-
-
-
-  "Shall ring to the roar of the [[Lion|lion]]
-
-  Proclaiming Republican Rome."
-
-
-
-But he might have remembered, after all, that it was not the British
-
-[[Lion|lion]], that a British poet should have the right to say so imperiously,
-
-"Let him roar again. Let him roar again."
-
-
-
-It is true that there was no clear call to England from [[Italy]], as there
-
-certainly was from [[Denmark]]. The great powers were not bound to help
-
-[[Italy]] to become a nation, as they were bound to support the unquestioned

@@ -1,5 +1,5 @@
 ---
-title: "[[innocence]] — The Secret [[Garden]] (part 3)"
+title: "innocence — The Secret Garden (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -141,9 +141,3 @@ curdled everyone's [[Blood|blood]] like the knocking in [[Macbeth]].  Amid that 
 
 The confidential Ivan opened the door and ushered in Commandant Neil O'Brien,
 whom he had found at last pacing the [[Garden|garden]] again.
-
-The Irish officer stood up disordered and defiant on the threshold.
-"What do you want with me?" he cried.
-
-"Please sit down," said Valentin in pleasant, level tones.
-"Why, you aren't wearing your [[Sword|sword]].  Where is it?"

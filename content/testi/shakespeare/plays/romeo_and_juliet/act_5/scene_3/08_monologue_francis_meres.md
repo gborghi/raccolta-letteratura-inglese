@@ -1,5 +1,5 @@
 ---
-title: "[[Romeo]] and [[Juliet]] — Act V, Scene 3 — monologue (FRANCIS MERES) [8]"
+title: "Romeo and Juliet — Act V, Scene 3 — monologue (FRANCIS MERES) [8]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/romeo-and-juliet-(shakespeare)"

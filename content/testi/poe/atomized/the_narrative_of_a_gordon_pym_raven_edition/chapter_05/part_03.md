@@ -14,6 +14,12 @@ tags:
 </nav>
 
 
+      also came across a lantern, with a small piece of tallow candle
+
+      in it. This he could light at any moment, as he had in his
+
+      possession a box of phosphorus matches. When it was quite dark,
+
       he got through the hole in the bulkhead, having taken the
 
       precaution to arrange the bedclothes in the berth so as to convey

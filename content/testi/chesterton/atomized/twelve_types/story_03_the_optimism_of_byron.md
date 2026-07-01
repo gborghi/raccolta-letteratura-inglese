@@ -10,13 +10,11 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/twelve-types-(chesterton)">Twelve Types</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/twelve_types/story_02_william_morris_and_his_school">‹ Story 02 WILLIAM MORRIS AND HIS SCHOOL</a><a class="ex-next" href="/testi/chesterton/atomized/twelve_types/story_04_pope_and_the_art_of_satire">Story 04 POPE AND THE ART OF SATIRE ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/twelve_types/story_02_william_morris_and_his_school">‹ Story 02 WILLIAM MORRIS AND HIS SCHOOL</a><a class="ex-next" href="/testi/chesterton/atomized/twelve_types/story_04_pope_and_the_art_of_satire_satire">Story 04 POPE AND THE ART OF Satire SATIRE ›</a></div>
 </nav>
 
 
 THE OPTIMISM OF BYRON
-
-
 
 Everything is against our appreciating the spirit and the age of Byron.
 
@@ -36,8 +34,6 @@ wall-paper pattern. The whole is like a revel of dead men, a revel with
 
 splendid vesture and half-witted faces.
 
-
-
 But the more shrewdly and earnestly we study the histories of men, the
 
 less ready shall we be to make use of the word "artificial." Nothing in
@@ -55,8 +51,6 @@ darkling deserts, in the hermit and in the wild beasts that crawl around
 him. It may be good or evil, but assuredly it is not artificial: [[Vanity|vanity]]
 
 is a voice out of the abyss.
-
-
 
 The remarkable fact is, however, and it bears strongly on the present
 
@@ -90,8 +84,6 @@ extinct volcano now; it is the dead stick of a rocket. It is the remains
 
 not of a natural but of an artificial [[Fire|fire]].
 
-
-
 But Byron and Byronism were something immeasurably greater than anything
 
 that is represented by such a view as this: their real value and meaning
@@ -110,15 +102,11 @@ what is known as Byron's pessimism is better worth study than any real
 
 pessimism could ever be.
 
-
-
 It is the standing peculiarity of this curious world of ours that almost
 
 everything in it has been extolled enthusiastically and invariably
 
 extolled to the disadvantage of everything else.
-
-
 
 One after another almost every one of the phenomena of the universe has
 
@@ -137,8 +125,6 @@ indefensible world. Thus while the world is almost always condemned in
 summary, it is always justified, and indeed extolled, in detail after
 
 detail.
-
-
 
 Existence has been praised and absolved by a [[Chorus|chorus]] of pessimists. The
 
@@ -161,8 +147,6 @@ written some shameless and terrible indictment of Creation, his one pang
 of joy in the achievement joins the universal [[Chorus|chorus]] of gratitude, with
 
 the scent of the wild flower and the [[Song|song]] of the bird.
-
-
 
 Now Byron had a sensational popularity, and that popularity was, as far
 
@@ -214,8 +198,6 @@ that somebody else may be exalted. It was merely a recognition of the
 
 fact that one cannot write in white [[chalk]] except on a blackboard.
 
-
-
 Surely it is ridiculous to maintain seriously that Byron's [[Love|love]] of the
 
 desolate and inhuman in [[Nature|nature]] was the mark of vital scepticism and
@@ -245,8 +227,6 @@ only too dense a purple. They would prefer the sullen hostility of the
 earth because amid all the cold and darkness their own hearts were
 
 flaming like their own firesides.
-
-
 
 Matters are very different with the more modern school of [[Doubt|doubt]] and
 
@@ -294,8 +274,6 @@ shout of hilarious laughter announced to the world that Lord Byron had
 
 really become a pessimist.
 
-
-
 One of the best tests in the world of what a poet really means is his
 
 metre. He may be a hypocrite in his metaphysics, but he cannot be a
@@ -308,11 +286,9 @@ arraign existence on the most deadly charges, he may condemn it with the
 
 most desolating verdict, but he cannot alter the fact that on some walk
 
-in a [[Spring|spring]] morning when all the limbs are swinging and all the [[Blood|blood]]
+in a [[spring]] morning when all the limbs are swinging and all the [[Blood|blood]]
 
 alive in the [[Body|body]], the lips may be caught repeating:
-
-
 
     'Oh, there's not a joy the world can give like that it takes away,
 
@@ -322,11 +298,7 @@ alive in the [[Body|body]], the lips may be caught repeating:
 
     But the tender bloom of heart is gone ere youth itself be past.'
 
-
-
 That automatic recitation is the answer to the whole pessimism of Byron.
-
-
 
 The [[Truth|truth]] is that Byron was one of a class who may be called the
 

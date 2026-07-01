@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 38: A DISSOLUTION OF PARTNERSHIP"
+title: "David Copperfield — Chapter 38: A DISSOLUTION OF PARTNERSHIP"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/david-copperfield-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_37_a_little_cold_water">‹ Chapter 37 A LITTLE COLD WATER</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_39_wickfield_and_heep">Chapter 39 WICKFIELD AND HEEP ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_37_a_little_cold_water_water">‹ Chapter 37 A LITTLE COLD Water WATER</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_39_wickfield_and_heep">Chapter 39 WICKFIELD AND HEEP ›</a></div>
 </nav>
 
 

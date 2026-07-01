@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 54: Mr. MICAWBER’S TRANSACTIONS"
+title: "David Copperfield — Chapter 54: Mr. MICAWBER’S TRANSACTIONS"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/david-copperfield-(dickens)"

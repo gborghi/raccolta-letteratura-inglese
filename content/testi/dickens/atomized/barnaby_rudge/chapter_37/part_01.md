@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 37 (part 1)"
+title: "Barnaby Rudge — Chapter 37 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -126,15 +126,3 @@ no harm in thinking of such things.’
 ‘Not in [[Dreams|dreams]],’ returned the Secretary.
 
 ‘In [[Dreams|dreams]]! No, nor waking either.’
-
---‘“Called, and chosen, and faithful,”’ said Gashford, taking up
-Lord George’s watch which lay upon a chair, and seeming to read the
-[[Inscription|inscription]] on the seal, abstractedly.
-
-It was the slightest action possible, not obtruded on his notice, and
-apparently the result of a moment’s absence of mind, not worth remark.
-But as the words were uttered, Lord George, who had been going on
-impetuously, stopped short, reddened, and was silent. Apparently quite
-unconscious of this change in his demeanour, the wily Secretary stepped
-a little apart, under pretence of pulling up the [[Window|window]]-blind, and
-returning when the other had had [[Time|time]] to recover, said:

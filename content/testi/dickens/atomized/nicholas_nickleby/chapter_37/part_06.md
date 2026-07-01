@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 37 (part 6)"
+title: "Nicholas Nickleby — Chapter 37 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,27 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_37/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_37/part_07">part 07 ›</a></div>
 </nav>
 
+
+Nicholas stopped in the middle of a sleepy yawn, as his mother began to
+speak: and looked at her with fixed attention.
+
+‘There was a lady in our neighbourhood,’ said Mrs. Nickleby, ‘speaking
+of sons puts me in mind of it--a lady in our neighbourhood when we lived
+near Dawlish, I think her name was Rogers; indeed I am sure it was if it
+wasn’t Murphy, which is the only [[Doubt|doubt]] I have--’
+
+‘Is it about her, mother, that you wished to speak to me?’ said Nicholas
+quietly.
+
+‘About HER!’ cried Mrs. Nickleby. ‘Good gracious, Nicholas, my dear, how
+CAN you be so ridiculous! But that was always the way with your poor
+dear papa,--just his way--always wandering, never able to fix his
+thoughts on any one subject for two minutes together. I think I see him
+now!’ said Mrs. Nickleby, wiping her eyes, ‘looking at me while I was
+talking to him about his affairs, just as if his ideas were in a state
+of perfect conglomeration! Anybody who had come in upon us suddenly,
+would have supposed I was confusing and distracting him instead of
+making things plainer; upon my word they would.’
 
 ‘I am very sorry, mother, that I should inherit this unfortunate
 slowness of apprehension,’ said Nicholas, kindly; ‘but I’ll do my best
@@ -115,34 +136,3 @@ to think of. Somehow or other,’ added Mrs. Nickleby, after a momentary
 pause, ‘they always ARE journeyman shoemakers who do these things in
 France, according to the papers. I don’t know how it is--something in
 the leather, I suppose.’
-
-‘But this man, who is not a shoemaker--what has he done, mother, what
-has he said?’ inquired Nicholas, fretted almost beyond [[Endurance|endurance]], but
-looking nearly as resigned and patient as Mrs. Nickleby herself. ‘You
-know, there is no language of vegetables, which converts a cucumber into
-a formal declaration of attachment.’
-
-‘My dear,’ replied Mrs. Nickleby, tossing her head and looking at the
-ashes in the grate, ‘he has done and said all sorts of things.’
-
-‘Is there no mistake on your part?’ asked Nicholas.
-
-‘Mistake!’ cried Mrs. Nickleby. ‘Lord, Nicholas my dear, do you suppose I
-don’t know when a man’s in earnest?’
-
-‘[[Well]], [[Well|well]]!’ muttered Nicholas.
-
-‘Every [[Time|time]] I go to the [[Window|window]],’ said Mrs. Nickleby, ‘he kisses one hand,
-and lays the other upon his heart--of course it’s very foolish of him
-to do so, and I dare say you’ll say it’s very wrong, but he does it very
-respectfully--very respectfully indeed--and very tenderly, extremely
-tenderly. So far, he deserves the greatest credit; there can be no [[Doubt|doubt]]
-about that. Then, there are the presents which come pouring over the
-wall every day, and very fine they certainly are, very fine; we had one
-of the cucumbers at dinner yesterday, and think of pickling the rest
-for next [[Winter|winter]]. And last evening,’ added Mrs. Nickleby, with increased
-confusion, ‘he called gently over the wall, as I was walking in the
-[[Garden|garden]], and proposed [[Marriage|marriage]], and an elopement. His voice is as clear
-as a bell or a musical glass--very like a musical glass indeed--but of
-course I didn’t listen to it. Then, the question is, Nicholas my dear,
-what am I to do?’

@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 2 (part 3)"
+title: "The Mystery of Edwin Drood — Chapter 2 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_02/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_02/part_04">part 04 ›</a></div>
 </nav>
 
+
+“Why not?”
+
+“Asks why not, on Pussy’s birthday, and no Happy returns proposed!
+Pussy, Jack, and many of ’em! Happy returns, I mean.”
+
+Laying an affectionate and laughing touch on the boy’s extended hand,
+as if it were at once his giddy head and his light heart, Mr. Jasper
+drinks the toast in [[Silence|silence]].
 
 “Hip, hip, hip, and nine times nine, and one to finish with, and all
 that, understood. Hooray, hooray, hooray!—And now, Jack, let’s have a
@@ -152,10 +161,3 @@ round. No wretched monk who droned his life away in that gloomy place,
 before me, can have been more tired of it than I am. He could take for
 relief (and did take) to carving demons out of the stalls and seats and
 desks. What shall I do? Must I take to carving them out of my heart?”
-
-“I thought you had so exactly found your niche in life, Jack,” Edwin
-Drood returns, astonished, bending forward in his chair to lay a
-sympathetic hand on Jasper’s knee, and looking at him with an anxious
-face.
-
-“I know you thought so. They all think so.”

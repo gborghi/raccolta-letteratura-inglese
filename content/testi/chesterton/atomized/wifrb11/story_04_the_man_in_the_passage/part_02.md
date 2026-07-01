@@ -1,5 +1,5 @@
 ---
-title: "[[wifrb11]] — The Man in the Passage (part 2)"
+title: "wifrb11 — The Man in the Passage (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -112,7 +112,3 @@ as if at a word of command.  But perhaps there was something
 ostentatiously elegant about the languid figure of Seymour leaning against
 one of the looking-glasses that brought him up short at the entrance,
 turning his head this way and that like a bewildered bulldog.
-
-     "I must show this stupid man where to go," said Aurora
-in a whisper to Seymour, and ran out to the threshold to [[Speed|speed]]
-the parting guest.

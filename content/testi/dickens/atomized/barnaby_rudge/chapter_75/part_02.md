@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 75 (part 2)"
+title: "Barnaby Rudge — Chapter 75 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_75/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_75/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘I cannot say you are the more welcome for being independent, and having
+nothing to ask of me,’ returned Sir John, graciously, ‘for I should have
+been happy to render you a service; still, you are welcome on any terms.
+Oblige me with some more chocolate, Peak, and don’t wait.’
 
 The man retired, and left them [[Alone|alone]].
 
@@ -131,8 +136,3 @@ finding, when he joined the rioters, that the men he acted with had no
 suspicion of it (which I believe is true enough, for a poor [[Fool|fool]] of an
 old ‘prentice of mine was one of them), he had kept his own counsel, up
 to the [[Time|time]] of his being taken and put in jail.’
-
-‘Very discreet of Mr Dennis,’ observed Sir John with a slight yawn,
-though still with the utmost affability, ‘but--except for your admirable
-and lucid manner of telling it, which is perfect--not very interesting
-to me.’

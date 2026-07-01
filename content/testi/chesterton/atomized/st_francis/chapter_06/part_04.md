@@ -14,6 +14,38 @@ tags:
 </nav>
 
 
+That is only one incident out of a life of such incidents;
+and I have selected it partly because it shows what is meant
+here by that [[Shadow|shadow]] of gesture there is in all his words,
+the dramatic gesture of the south; and partly because its
+special reference to courtesy covers the next fact to be noted.
+The popular instinct of St. Francis, and his perpetual preoccupation
+with the idea of brotherhood, will be entirely misunderstood if it
+is understood in the sense of what is often called camaraderie;
+the backslapping sort of brotherhood.  Frequently from the enemies
+and too frequently from the friends of the democratic ideal,
+there has come a notion that this note is necessary to that ideal.
+It is assumed that equality means all men being equally uncivil,
+whereas it obviously ought to mean all men being equally civil.
+Such people have forgotten the very meaning and derivation of the
+word civility, if they do not see that to be uncivil is to be uncivic.
+But anyhow that was not the equality which Francis of Assisi encouraged;
+but an equality of the opposite kind; it was a camaraderie actually
+founded on courtesy.
+
+Even in that fairy borderland of his mere fancies about [[Flowers|flowers]]
+and [[Animals|animals]] and even inanimate things, he retained this
+permanent posture of a sort of deference.  A friend of mine said
+that somebody was the sort of man who apologises to the cat.
+St. Francis really would have apologised to the cat.
+When he was about to preach in a wood full of the chatter of [[Birds|birds]],
+he said, with a gentle gesture, "Little sisters, if you have
+now had your say, it is [[Time|time]] that I also should be heard."
+And all the [[Birds|birds]] were silent; as I for one can very easily believe.
+In deference to my special design of making matters intelligible
+to average modernity, I have treated separately the subject of
+the miraculous powers that St. Francis most certainly possessed.
+
 But even apart from any miraculous powers, men of that magnetic sort,
 with that intense interest in [[Animals|animals]], often have an extraordinary
 power over them.  St. Francis's power was always exercised with this

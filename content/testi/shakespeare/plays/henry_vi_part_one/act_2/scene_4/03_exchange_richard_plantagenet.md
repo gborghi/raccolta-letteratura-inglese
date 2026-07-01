@@ -1,5 +1,5 @@
 ---
-title: "[[Henry VI]] Part One — Act II, Scene 4 — exchange ([[Richard|RICHARD]] PLANTAGENET) [3]"
+title: "Henry VI Part One — Act II, Scene 4 — exchange (RICHARD PLANTAGENET) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/henry-vi-part-one-(shakespeare)"

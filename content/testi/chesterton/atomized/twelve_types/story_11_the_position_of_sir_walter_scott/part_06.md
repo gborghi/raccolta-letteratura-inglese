@@ -14,6 +14,34 @@ tags:
 </nav>
 
 
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+
+effort to identify, do copyright research on, transcribe and proofread
+
+public domain works in creating the Project Gutenberg-tm
+
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+
+works, and the medium on which they may be stored, may contain
+
+"Defects," such as, but not limited to, incomplete, inaccurate or
+
+corrupt data, transcription errors, a copyright or other intellectual
+
+property infringement, a defective or damaged disk or other medium, a
+
+computer virus, or computer codes that damage or cannot be read by
+
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+
+Gutenberg Literary Archive Foundation, the owner of the Project
+
 Gutenberg-tm trademark, and any other party distributing a Project
 
 Gutenberg-tm electronic work under this agreement, disclaim all
@@ -33,8 +61,6 @@ LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
 INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
 
 DAMAGE.
-
-
 
 1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
 
@@ -60,8 +86,6 @@ is also defective, you may demand a refund in writing without further
 
 opportunities to fix the problem.
 
-
-
 1.F.4.  Except for the limited right of replacement or refund set forth
 
 in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
@@ -69,8 +93,6 @@ in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
 
 WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-
 
 1.F.5.  Some states do not allow disclaimers of certain implied
 
@@ -85,8 +107,6 @@ interpreted to make the maximum disclaimer or limitation permitted by
 the applicable state law.  The invalidity or unenforceability of any
 
 provision of this agreement shall not void the remaining provisions.
-
-
 
 1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
 
@@ -108,13 +128,7 @@ work, (b) alteration, modification, or additions or deletions to any
 
 Project Gutenberg-tm work, and (c) any Defect you cause.
 
-
-
-
-
 Section  2.  Information about the Mission of Project Gutenberg-tm
-
-
 
 Project Gutenberg-tm is synonymous with the free distribution of
 
@@ -125,8 +139,6 @@ including obsolete, old, middle-aged and new computers.  It exists
 because of the efforts of hundreds of volunteers and donations from
 
 people in all walks of life.
-
-
 
 Volunteers and financial support to provide volunteers with the
 
@@ -146,15 +158,9 @@ and how your efforts and donations can help, see Sections 3 and 4
 
 and the Foundation web page at http://www.pglaf.org.
 
-
-
-
-
 Section 3.  Information about the Project Gutenberg Literary Archive
 
 Foundation
-
-
 
 The Project Gutenberg Literary Archive Foundation is a non profit
 
@@ -172,8 +178,6 @@ Literary Archive Foundation are tax deductible to the full extent
 
 permitted by U.S. federal laws and your state's laws.
 
-
-
 The Foundation's principal office is located at 4557 Melan Dr. S.
 
 Fairbanks, AK, 99712., but its volunteers and employees are scattered
@@ -188,8 +192,6 @@ information can be found at the Foundation's web site and official
 
 page at http://pglaf.org
 
-
-
 For additional contact information:
 
      Dr. Gregory B. Newby
@@ -198,38 +200,8 @@ For additional contact information:
 
      gbnewby@pglaf.org
 
-
-
 Section 4.  Information about Donations to the Project Gutenberg
 
 Literary Archive Foundation
 
-
-
 Project Gutenberg-tm depends upon and cannot survive without wide
-
-spread public support and donations to carry out its mission of
-
-increasing the number of public domain and licensed works that can be
-
-freely distributed in [[Machine|machine]] readable form accessible by the widest
-
-array of equipment including outdated equipment.  Many small donations
-
-($1 to $5,000) are particularly important to maintaining tax exempt
-
-status with the IRS.
-
-
-
-The Foundation is committed to complying with the laws regulating
-
-charities and charitable donations in all 50 states of the United
-
-States.  Compliance requirements are not uniform and it takes a
-
-considerable effort, much paperwork and many fees to meet and keep up
-
-with these requirements.  We do not solicit donations in locations
-
-where we have not received written confirmation of compliance.  To

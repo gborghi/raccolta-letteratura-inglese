@@ -18,7 +18,6 @@ CHAPTER VI
 
 BROWNING AS A LITERARY [[artist|ARTIST]]
 
-
 Mr. William Sharp, in his _Life_ of Browning, quotes the remarks of
 another critic to the following effect: "The poet's processes of
 thought are scientific in their precision and analysis; the sudden

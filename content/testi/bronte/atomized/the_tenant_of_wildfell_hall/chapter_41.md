@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 41"
+title: "The Tenant of Wildfell Hall — Chapter 41"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -30,7 +30,7 @@ with the [[Hope|hope]] of escape—he has taken care to leave me no visible chan
 
 of that—but with a determination to make the best of existing
 
-circumstances. Here was [[arthur|Arthur]] left to me at last; and rousing from my
+circumstances. Here was [[Arthur]] left to me at last; and rousing from my
 
 despondent apathy, I exerted all my powers to eradicate the weeds that
 
@@ -38,7 +38,7 @@ had been fostered in his infant mind, and sow again the good seed they
 
 had rendered unproductive. Thank heaven, it is not a barren or a stony
 
-soil; if weeds [[spring]] fast there, so do better plants. His
+soil; if weeds [[Spring|spring]] fast there, so do better plants. His
 
 apprehensions are more quick, his heart more overflowing with affection
 
@@ -100,9 +100,9 @@ sight of any one of them is sufficient to make him sick, I have given
 
 up teasing him about them, except now and then as objects of terror in
 
-cases of misbehaviour. “[[arthur|Arthur]], if you’re not a good boy I shall give
+cases of misbehaviour. “[[Arthur]], if you’re not a good boy I shall give
 
-you a glass of wine,” or “Now, [[arthur|Arthur]], if you say that again you shall
+you a glass of wine,” or “Now, [[Arthur]], if you say that again you shall
 
 have some brandy-and-[[Water|water]],” is as good as any other threat; and once
 
@@ -222,7 +222,7 @@ was bad enough in his day. But what would Frederick have been, if he
 
 had lived in the world, and mingled from his [[Childhood|childhood]] with such men as
 
-these of my acquaintance? and what _will_ [[arthur|Arthur]] be, with all his
+these of my acquaintance? and what _will_ [[Arthur]] be, with all his
 
 natural sweetness of disposition, if I do not save him from that world
 
@@ -292,7 +292,7 @@ Frederick was exceedingly indignant against Mr. Huntingdon, and very
 
 much grieved for me; but still he looked upon my project as wild and
 
-impracticable. He deemed my fears for [[arthur|Arthur]] disproportioned to the
+impracticable. He deemed my fears for [[Arthur]] disproportioned to the
 
 circumstances, and opposed so many objections to my plan, and devised
 

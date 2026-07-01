@@ -1,5 +1,5 @@
 ---
-title: "[[Emma]] — Chapter 12"
+title: "Emma — Chapter 12"
 author: "Austen"
 unitType: chapter
 parentWork: "works/emma-(austen)"
@@ -107,7 +107,7 @@ year, and to give all such local information as could not fail of being
 interesting to a brother whose [[Home|home]] it had equally been the longest
 part of his life, and whose attachments were strong. The plan of a
 drain, the change of a fence, the felling of a tree, and the
-destination of every acre for wheat, turnips, or [[spring]] corn, was
+destination of every acre for wheat, turnips, or [[Spring|spring]] corn, was
 entered into with as much equality of interest by John, as his cooler
 manners rendered possible; and if his willing brother ever left him any
 thing to inquire about, his inquiries even approached a tone of

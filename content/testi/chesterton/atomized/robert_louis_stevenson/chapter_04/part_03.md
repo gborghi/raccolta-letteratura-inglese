@@ -1,5 +1,5 @@
 ---
-title: "Robert Louis Stevenson — Chapter 4 (part 3)"
+title: "Robert Louis Stevenson — Chapter 3 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/robert-louis-stevenson-(chesterton)"
@@ -14,100 +14,111 @@ tags:
 </nav>
 
 
-This is the point that has been missed in all the talk about posing.
-Those who repeat for the hundredth [[Time|time]] that he posed have
-not got as far as the obvious question, "Posed as what?"
-All the other poets and artists posed; but they posed as the members
-of the [[suicide|Suicide]] Club.  He posed as Prince [[Florizel]] with a [[Sword|sword]],
-challenging the President of the [[suicide|Suicide]] Club.  He was, if you will,
-the foolish masker I have imagined, tricked out with a feather
-and a [[Sword|sword]] or dagger; but not tricked out more extravagantly
-than those who appeared as fantastic figures at their own funeral.
-If he had a feather, it was not a white feather; if he had a dagger,
-it was not a poisoned dagger or the pessimist dagger that is
-turned inwards; in short, if he had a posture it was a posture
-of defence and even of defiance.  And it was, after all,
-the fashionable posture of his [[Time|time]] which he set himself to defy.
-And it is here that it is really relevant to remember that he was
-not altogether posturing when he said he was defying [[Death|death]].
-[[Death]] was much nearer to him than it was to the pessimists;
-and he knew it whenever he coughed and found [[Blood|blood]] on his handkerchief.
-He was not pretending to defy it half so much as they were pretending
-to seek it.  It is no very unreasonable claim for him that he made
-a better use of his bad health than Oscar Wilde made of his good health;
-and nothing affected in the externals of either can alter the contrast.
-The dagger may have been theatrical; but the [[Blood|blood]] was real.
-As Cyrano said of his friend, "Le sang, c'est le sien."
-And it really was the absence of [[Courage|courage]] in the current culture
-that awoke his protest or pose.  In any case, the intellectual fine
-shades were morally more than a little shady.  But he hated chiefly
-the loss of what soldiers call morale rather than what parsons
-call [[morality]].  All that world cowered under the [[Shadow|shadow]] of [[Death|death]].
-All alike were travelling under the [[Flag|flag]] of the skull and crossbones.
-But he [[Alone|alone]] could call it the Jolly Roger.
+Nor do I necessarily admit the technical clumsiness which some
+have alleged against the tale, merely because I believe that many
+of its emotions were first experienced in the crude [[Pain|pain]] of youth.
+Some have gone into particular detail in order to pick it to pieces;
+and Mr. E. F. Benson has made the (to me) strange remark that
+the structure of the story breaks down when Jekyll discovers
+that his chemical combination was partly accidental and is
+therefore unrecoverable.  The critic says scornfully that it
+would have done just as [[Well|well]] if Jekyll had taken a blue pill.
+It seems to me odd that any one who seems to know so much about
+the devil as the author of _Colin_ should fail to recognise the cloven
+hoof in the cloven spirit called up by the Jekyll experiment.
+That moment in which Jekyll finds his own formula fail him,
+through an accident he had never foreseen, is simply the supreme
+moment in every story of a man buying power from hell; the moment
+when he finds the flaw in the deed.  Such a moment comes to [[Macbeth]]
+and Faustus and a hundred others; and the whole point of it is
+that nothing is really secure, least of all a Satanist security.
+The moral is that the devil is a liar, and more especially a traitor;
+that he is more dangerous to his friends than his foes; and, with all
+deference to Mr. Benson, it is not a shallow or unimportant moral.
+But although the story ultimately emerged as a gargoyle very carefully
+graven by a mature master-craftsman, and was moreover a gargoyle
+of the greatest spiritual edification, eminently suited to be stuck
+on to the most sacred edifice, my point for the moment is that the stone
+of which it was made was originally found, I think, by Stevenson
+as a boy, kicking about the street, not to mention the gutter.
+In other words, he did not need to leave the respectable metropolis
+of the north to find the weaknesses of Jekyll and the crimes of Hyde.
 
-What is really not appreciated about Stevenson is the abruptness of
-this breakaway.  We talk of looking back with gratitude to innovators
-or the introducers of new ideas; but in fact nothing is more difficult
-to do, since for us they are now necessarily old ideas.  There is only
-one moment, at most, of triumph for the original thinker; while his
-thought is an originality and before it becomes merely an origin.
-News spreads quickly; that is, it grows stale quickly; and though we
-may call a work wonderful, we cannot easily put ourselves in the position
-of those for whom it was a cause of [[Wonder|wonder]], in the sense of surprise.
-Between the first fashion of talking too much in praise of Stevenson,
-and the newer fashion of talking nonsense in disparagement of Stevenson,
-we have become quite familiar with the association of certain ideas;
-of extreme stylistic polish applied to rough schoolboy adventure,
-of the Penny Plain figure tinted as carefully as a miniature.
-But these ideas were not always associated in the way in which
-Stevenson associated them.  We may tear the combination to pieces,
-but it was he who wove it together; and--as many would have thought--
-of very incongruous threads.  It really did seem preposterous to many
-that a serious literary [[Artist|artist]] of the age of Pater should devote himself
-to rewriting Penny Dreadfuls.  It was just as if George Meredith
-had chosen to put all his fine feminine psychology into writing
-the sort of twopenny novelettes that were read by housemaids,
-and called "Pansy's Elopement" or "Winnie's Wedding [[Bells]]."
-It was as if Henry James had been heard to say or, so to speak,
-to suggest, that there was, after all, and in a way quite annoyingly
-overlooked, _something_--something that really should have been
-better evaluated and re-expressed, as it were, in all that really
-unquestionable productiveness of _Ally Sloper's Half-Holiday._ It was
-as if Paderewski had insisted on only going round with a barrel-organ;
-or Whistler had confined himself solely to painting public-[[house]] signs.
-A distinguished dramatist, who is old enough to remember
-in his youth the first successes of Stevenson's manhood,
-told me how absurd it seemed at the [[Time|time]] that any one should take
-seriously such gutter literature of the _gamin._ A book written
-only for boys generally meant a book written only for errand-boys.
-It seemed a strange association of ideas that it should be
-written carefully as a book for men, and even for literary men.
-It does not seem so strange now; because Stevenson has done it
-quite a long [[Time|time]] ago.  But it is important to realise that not
-everybody thought it natural to expend the style of _Pulvis et
-Umbra_ on the equivalent of "Dick Deadshot Among the Pirates."
-It was the very last sort of enthusiasm that would have easily
-carried any of his cultivated contemporaries off their feet.
-The typical literary man, with the outlook and [[philosophy]] of
-that generation, would have been about as likely to pass his life
-in throwing paper darts or chalking caricatures of his publisher
-on a blackboard.
+I deal with these things in general terms, not merely out of delicacy,
+but partly out of something that I might almost call impatience
+or contempt.  For the quarrels between the Victorian whitewashers
+and the Post-Victorian mudslingers seem to me deficient in the
+ordinary decent comprehension of the difficulties of human [[Nature|nature]].
+Both the scandalised and the scandalmonger seem to me to look very
+silly beside the sensible person in the [[Bible]], who confined himself
+to saying that there are things that no man knows, such as the way
+of a bird in the air and the way of a man in his youth.  That Stevenson
+was in the mature and sane sense a good man is certain, without any
+Victorian [[Apologetics|apologetics]]; that he never did anything that he thought
+wrong is improbable, even without any elaborate cloacan researches;
+and the whole thing is further falsified by the fact that, outside a
+certain religious tradition, very few either of the whitewashers
+or the mudslingers really believe in the [[morality]] involved.
+The former seek to save nothing better than respectability;
+the latter even when they slander can hardly condemn.  Stevenson was
+not a Catholic:  he did not pretend to have remained a Puritan;
+but he was a highly honourable, responsible and chivalrous Pagan,
+in a world of Pagans who were most of them considerably less
+conspicuous for chivalry and [[Honour|honour]].  I for one, if I may say so,
+am ready to defend my own standards or to judge other men by theirs.
+But the Victorian pretence that every [[Well|well]]-dressed [[Hero|hero]] of [[Romance|romance]]
+with over five hundred a year is born immune from the temptations
+which the mightiest saints have rolled themselves in brambles to control--
+that does not concern me and I shall not discuss it again.
 
-Thus, there is one of those phrases quoted too much, as against
-so many quoted too little, that he and his artistic friends
-bore with them bulky yellow volumes "quite impudently French."
-But, by the tests of that artistic world, _Treasure Island_ is quite
-impudently English.  By the conventions of that world, there was
-nothing unconventional about studying Balzac or being Bohemian.
-It was much more unconventional to study Captain Marryat and to write
-about the good captain who flew the [[Union]] Jack over the stockade,
-in defiance of the bad buccaneers.  From the standpoint of Art
-in those days, even that [[Flag|flag]] was a much too Moral Emblem.
-It is only when we understand what there was that seemed quaint
-and even undignified in his adventurous antic, that we can clearly
-understand the unconscious truths that lay behind it.  For, as against
-the black [[Flag|flag]] of pessimism, his [[Flag|flag]] really was a Moral Emblem.
-There was a [[morality]] in his reaction into adventure; his appeal
-to the spirit of the highway--though it were sometimes the spirit
-of the highwayman.
+But what does concern me, at this particular stage of the story,
+is not the question of what Stevenson thought right or wrong when he had
+become consciously and consistently a Pagan, but the particular way
+in which right and wrong appeared to him at this crude and groping
+age when he was still by tradition a Puritan.  And I do think there
+was something tail-foremost, to use one of his own favourite words,
+in the way in which evil crept into his existence, as it does into
+everybody else's. He saw the tail of the devil before he saw his horns.
+[[Puritanism]] gave him the key rather to the cellars than the halls
+of Babylon; and something thus subterranean, suffocating and
+debased rolls like a smoke over the story of Jekyll and Hyde.
+But I only mention these matters as part of a general unfolding
+of his mind and moral [[Nature|nature]], which seems to me to have had
+a great deal to do with the latter development of his destiny.
+The normal, or at least the ideal, development of a man's
+destiny is from the coloured chamber of [[Childhood|childhood]] to an even
+more romantic [[Garden|garden]] of the [[Faith|faith]] and tryst of youth.
+It is from the [[Child|child]]'s [[Garden|garden]] of verses to the man's [[Garden|garden]]
+of vows.  I do not think that [[Time|time]] of transition went right
+with Stevenson; I think that something thwarted or misled him;
+I think it was then that the east [[Wind|wind]] of Edinburgh [[Puritanism]]
+blew him out of his course, so that he returned only long after
+to anything like a secure loyalty and a right human relation.
+In a word, I think that in his [[Childhood|childhood]] he had the best luck
+in the world, and in his youth the worst luck in the world;
+and that this explains most of his story.
+
+Anyhow, he found no foothold on those steep streets of his beautiful
+and precipitous [[City|city]]; and as he looked forth over the litter
+of little islands in the large and shining estuary, he may have
+had some foreshadowing of that almost vagabond destiny which ended
+in the ends of the earth.  There seemed in one sense no social reason
+why it should not end in Edinburgh as it had begun in Edinburgh.
+There seemed nothing against a normal successful career for one
+so brilliant, so graceful and essentially so humane; his story
+might have been as comfortable as a Victorian three-volume [[Novel|novel]].
+He might have had the luck to marry an Edinburgh lady as delightful
+and satisfactory as Barbara Grant.  He might have presided over
+the revels of a new bunch of Stevensons, coming [[Home|home]] from Leith Walk
+laden with the gay portfolios of Skelt.  They also might have bought
+Penny Pickwicks or gone about girt with lanterns; and his own view
+of these things might have altered, though not necessarily weakened,
+with the responsibility of one who sees them reproduced in others.
+But among these early Edinburgh pranks, which he has left on record,
+was one which is something of a symbol.  He speaks somewhere
+of a special sort of apples which he gathered by the seashore,
+which were such as might [[Well|well]] be gathered from the salted and
+crooked trees that grow by the sea.  I do not know what it was;
+or what form it took; or whether it ever took any definable form at all.
+But somehow or other, in thought or word or deed, in that bleak
+place he ate the apple of knowledge; and it was a crab apple.

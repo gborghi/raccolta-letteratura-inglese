@@ -14,6 +14,15 @@ tags:
 </nav>
 
 
+Toby replied in the negative.
+
+‘You have no bill or demand upon me—my name is Bowley, Sir Joseph
+Bowley—of any kind from anybody, have you?’ said Sir Joseph.  ‘If you
+have, present it.  There is a cheque-book by the side of Mr. Fish.  I
+allow nothing to be carried into the New Year.  Every description of
+account is settled in this [[house]] at the close of the old one.  So that if
+[[Death|death]] was to—to—’
+
 ‘To cut,’ suggested Mr. Fish.
 
 ‘To sever, sir,’ returned Sir Joseph, with great asperity, ‘the cord of
@@ -125,12 +134,3 @@ the case; I am their Friend and Father still.  It is so Ordained.  It is
 in the [[Nature|nature]] of things.’
 
 With that great sentiment, he opened the Alderman’s letter; and read it.
-
-‘Very polite and attentive, I am sure!’ exclaimed Sir Joseph.  ‘My lady,
-the Alderman is so obliging as to remind me that he has had “the
-distinguished [[Honour|honour]]”—he is very good—of meeting me at the [[house]] of our
-mutual friend Deedles, the banker; and he does me the favour to inquire
-whether it will be agreeable to me to have [[Will Fern]] put down.’
-
-‘_Most_ agreeable!’ replied my Lady Bowley.  ‘The worst man among them!
-He has been committing a robbery, I [[Hope|hope]]?’

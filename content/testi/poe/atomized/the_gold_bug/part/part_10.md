@@ -1,5 +1,5 @@
 ---
-title: "[[The Gold-Bug]] (part 10)"
+title: "The Gold-Bug (part 10)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-gold-bug-(poe)"
@@ -13,6 +13,40 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_gold_bug/part/part_09">‹ part 09</a><a class="ex-next" href="/testi/poe/atomized/the_gold_bug/part/part_11">part 11 ›</a></div>
 </nav>
 
+
+      course I could not have failed to notice it. Here was indeed a
+
+      mystery which I felt it impossible to explain; but, even at that
+
+      early moment, there seemed to glimmer, faintly, within the most
+
+      remote and secret chambers of my intellect, a glow-worm-like
+
+      conception of that [[Truth|truth]] which last [[Night|night]]’s adventure brought to
+
+      so magnificent a demonstration. I arose at once, and putting the
+
+      parchment securely away, dismissed all farther reflection until I
+
+      should be [[Alone|alone]].
+
+
+
+      “When you had gone, and when Jupiter was fast asleep, I betook
+
+      myself to a more methodical investigation of the affair. In the
+
+      first place I considered the manner in which the parchment had
+
+      come into my possession. The spot where we discovered the
+
+      _scarabæus_ was on the coast of the main land, about a mile
+
+      eastward of the island, and but a short distance above high [[Water|water]]
+
+      mark. Upon my taking hold of it, it gave me a sharp bite, which
+
+      caused me to let it drop. Jupiter, with his accustomed caution,
 
       before seizing the insect, which had flown towards him, looked
 
@@ -167,43 +201,3 @@ tags:
       inspecting it, Wolf, the Newfoundland, entered, and leaped upon
 
       your shoulders. With your left hand you caressed him and kept him
-
-      off, while your right, holding the parchment, was permitted to
-
-      fall listlessly between your knees, and in close proximity to the
-
-      [[Fire|fire]]. At one moment I thought the blaze had caught it, and was
-
-      about to caution you, but, before I could speak, you had
-
-      withdrawn it, and were engaged in its examination. When I
-
-      considered all these particulars, I doubted not for a moment that
-
-      heat had been the agent in bringing to light, upon the parchment,
-
-      the skull which I saw designed upon it. You are [[Well|well]] aware that
-
-      chemical preparations exist, and have existed [[Time|time]] out of mind,
-
-      by means of which it is possible to write upon either paper or
-
-      vellum, so that the characters shall become visible only when
-
-      subjected to the action of [[Fire|fire]]. Zaffre, digested in aqua regia,
-
-      and diluted with four times its weight of [[Water|water]], is sometimes
-
-      employed; a green tint results. The regulus of cobalt, dissolved
-
-      in spirit of nitre, gives a red. These colors disappear at longer
-
-      or shorter intervals after the material written upon cools, but
-
-      again become apparent upon the re-application of heat.
-
-
-
-      “I now scrutinized the [[Death|death]]’s-head with care. Its outer
-
-      edges—the edges of the drawing nearest the edge of the

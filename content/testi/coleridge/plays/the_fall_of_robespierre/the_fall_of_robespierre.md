@@ -1,5 +1,5 @@
 ---
-title: "[[THE FALL OF ROBESPIERRE|THE FALL OF ROBESPIERRE]]"
+title: "THE FALL OF ROBESPIERRE"
 author: "Coleridge"
 unitType: work
 parentWork: "works/the-fall-of-robespierre-(coleridge)"

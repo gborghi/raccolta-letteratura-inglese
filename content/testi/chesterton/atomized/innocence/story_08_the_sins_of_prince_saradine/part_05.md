@@ -1,5 +1,5 @@
 ---
-title: "[[innocence]] — The Sins of Prince Saradine (part 5)"
+title: "innocence — The Sins of Prince Saradine (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -13,6 +13,32 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_08_the_sins_of_prince_saradine/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_08_the_sins_of_prince_saradine/part_06">part 06 ›</a></div>
 </nav>
 
+
+"That is all right," he said, panting and in halting English.
+"I have insulted.  I will give satisfaction.  Marco, open the case."
+
+The man beside him with the earrings and the big black case proceeded
+to unlock it.  He took out of it two long Italian rapiers, with splendid
+steel hilts and blades, which he planted point downwards in the lawn.
+The strange young man standing facing the entrance with his yellow
+and vindictive face, the two swords standing up in the turf like two
+crosses in a cemetery, and the line of the ranked towers behind,
+gave it all an odd appearance of being some barbaric [[Court|court]] of justice.
+But everything else was unchanged, so sudden had been the interruption.
+The sunset gold still glowed on the lawn, and the bittern still boomed
+as announcing some small but dreadful destiny.
+
+"Prince Saradine," said the man called Antonelli,
+"when I was an infant in the cradle you killed my father
+and stole my mother; my father was the more fortunate.
+You did not kill him fairly, as I am going to kill you.
+You and my wicked mother took him driving to a lonely pass
+in Sicily, flung him down a cliff, and went on your way.
+I could imitate you if I chose, but imitating you is too vile.
+I have followed you all over the world, and you have always
+fled from me.  But this is the end of the world--and of you.
+I have you now, and I give you the chance you never gave my father.
+Choose one of those swords."
 
 Prince Saradine, with contracted brows, seemed to hesitate
 a moment, but his ears were still singing with the blow,
@@ -99,34 +125,3 @@ But there was no sign of [[Flambeau]], and, what was much queerer,
 no sign of Paul or the police.  No other raft or stick was left
 to float on; in that lost island in that vast nameless pool,
 they were cut off as on a rock in the Pacific.
-
-Almost as he had the thought the ringing of the rapiers quickened
-to a rattle, the prince's arms flew up, and the point shot out behind
-between his shoulder-blades. He went over with a great whirling movement,
-almost like one throwing the half of a boy's cart-[[Wheel|wheel]]. The [[Sword|sword]] flew
-from his hand like a shooting star, and dived into the distant [[River|river]].
-And he himself sank with so earth-shaking a subsidence that he broke a big
-[[Rose|rose]]-tree with his [[Body|body]] and shook up into the sky a cloud of red earth--
-like the smoke of some heathen sacrifice.  The Sicilian had made
-[[Blood|blood]]-offering to the [[Ghost|ghost]] of his father.
-
-The priest was instantly on his knees by the corpse; but only to make
-too sure that it was a corpse.  As he was still trying some last hopeless
-tests he heard for the first [[Time|time]] voices from farther up the [[River|river]],
-and saw a police boat shoot up to the landing-stage, with constables
-and other important people, including the excited Paul.  The little
-priest [[Rose|rose]] with a distinctly dubious grimace.
-
-"Now, why on earth," he muttered, "why on earth couldn't he have come before?"
-
-Some seven minutes later the island was occupied by an invasion of townsfolk
-and police, and the latter had put their hands on the victorious duellist,
-ritually reminding him that anything he said might be used against him.
-
-"I shall not say anything," said the monomaniac, with a wonderful
-and peaceful face.  "I shall never say anything more.
-I am very happy, and I only want to be hanged."
-
-Then he shut his mouth as they led him away, and it is the strange
-but certain [[Truth|truth]] that he never opened it again in this world,
-except to say "Guilty" at his trial.

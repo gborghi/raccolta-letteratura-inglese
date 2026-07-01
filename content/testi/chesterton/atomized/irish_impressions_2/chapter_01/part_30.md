@@ -14,99 +14,117 @@ tags:
 </nav>
 
 
-In [[logic]] a wise man will always put the cart before the [[Horse|horse]].
-That is to say, he will always put the end before the means;
-when he is considering the question as a whole.
-He does not construct a cart in order to exercise a [[Horse|horse]].
-He employs a [[Horse|horse]] to draw a cart, and whatever is in the cart.
-In all modern reasoning there is a tendency to make the mere political
-beast of burden more important than the chariot of man it is meant
-to draw.  This had led to a dismissal of all such spiritual questions
-in favour of what are called social questions; and this to a too facile
-treatment of things like the religious question in Belfast.  There is
-a religious question; and it will not have an irreligious answer.
-It will not be met by the limitation of Christian [[Faith|faith]], but rather
-by the extension of Christian [[Charity|charity]].  But if a man says that there
-is no difference between a Protestant and a Catholic, and that both
-can act in an identical fashion everywhere but in a church or chapel,
-he is madly driving the cart-[[Horse|horse]] when he has forgotten the cart.
-A religion is not the church a man goes to but the cosmos he lives in;
-and if any sceptic forgets it, the maddest fanatic beating an Orange
-drum about the Battle of the Boyne is a better philosopher than he.
+Belfast is an antiquated novelty.  Such a thing is still being
+excused for seeming _parvenu_ when it is discovered to be _passe._
+For instance, it is only by coming in touch with some of the
+controversies surrounding the Convention, that an Englishman could
+realise how much the mentality of the Belfast leader is not so much
+that of a remote seventeenth century Whig, as that of a recent
+nineteenth century Radical.  His conventionality seemed to be that
+of a Victorian rather than a Williamite; and to be less limited
+by the Orange Brotherhood than by the Cobden Club.  This is a fact
+most successfully painted and pasted over by the big brushes of our
+own Party System, which has the art of hiding so many glaring facts.
+This Unionist Party in Ireland is very largely concerned to resist
+the main [[Reform|reform]] advocated by the Unionist Party in England.
+A political humorist, who understood the Cobden tradition of Belfast
+and the Chamberlain tradition of Birmingham, could have a huge amount
+of fun appealing from one to the other; congratulating Belfast
+on the bold Protectionist doctrines prevalent in Ireland;
+adjuring Mr. Bonar Law and the Tariff Reformers never to forget
+the fight made by Belfast for the sacred principles of Free Trade.
+But the fact that the Belfast school is merely the Manchester
+school is only one aspect of this general [[Truth|truth]] about the abrupt
+collapse into antiquity; a sudden superannuation.  The whole march
+of that Manchester industrialism is not only halted but turned;
+the whole position is outflanked by new forces coming from
+new directions; the wealth of the peasantries blocks the [[Road|road]]
+in front of it; the general strike has risen menacing its rear.
+That strange cloud of [[Self|self]]-protecting [[Vanity|vanity]] may still permit Belfast
+to believe in Belfast, but Britain does not really believe in Belfast.
+Philosophical forces far wider and deeper than politics have
+undermined the conception of progressive Protestantism in Ireland.
+I should say myself that mere English ascendancy in that island
+became intellectually impossible on the day when Shaftesbury
+introduced the first Factory Act, and on the day when Newman published
+the first pages of the _Apologia._ Both men were certainly Tories
+and probably Unionists.
 
-Many uneducated and some educated people in Belfast, quite sincerely
-believe that Roman priests are fiends, only waiting to rekindle the fires
-of the [[Inquisition]].  For two simple reasons, however, I declined
-to take this fact as evidence of anything except their sincerity.
-First, because the stories, when reduced to their rudiment of [[Truth|truth]],
-generally resolved themselves into the [[Riddle|riddle]] of poor Roman Catholics
-giving money to their own religion; and seemed to deplore not
-so much a dependence on priests as an independence of employers.
-And second for a reason drawn from my own experience,
-as [[Well|well]] as common knowledge, concerning the Protestant gentry
-in the south of Ireland.  The southern Unionists spoke quite
-without this special horror of Catholic priests or peasants.
-They grumbled at them or laughed at them as a man grumbles
-or laughs at his neighbours; but obviously they no more dreamed
-that the priest would burn them than that he would eat them.
-If the priests were as black as the black Protestants painted them,
-they would be at their worst where they are with the majority; and would
-be known at their worst by the minority.  It was clear that Belfast
-held the more bigoted tradition, not because it knew more of priests,
-but because it knew less of them; not because it was on the spot,
-but because the spot was barred.  An even more general delusion
-was the idea that all the southern Irish dreamed and did no work.
-I pointed out that this also was inconsistent with concrete experience;
-since all over the world a man who makes a small farm pay has to work
-very hard indeed.  In historic fact, the old notion that the Irish
-peasant did no work, but only dreamed, had a simple explanation.
-It merely meant that he did no work for a capitalist's profit;
-but dreamed of some day doing work for his own profit.
-But there may also have been this distorted [[Truth|truth]] in the tradition;
-that a free peasant, while he extends his own work, creates his
-own holidays.  He is not idle all day, but he may be idle at any
-[[Time|time]] of the day; he does not dream whenever he feels inclined,
-but he does dream whenever he chooses.  A famous Belfast manufacturer,
-a man of capacity, but one who shook his head over the unaccountable
-prevalence of priests, assured me that he had seen peasants
-in the south doing nothing, at all sorts of odd times; and this
-is doubtless the difference between the farm and the factory.
-The same gentleman showed me over the colossal shipping of the
-great harbour, with all machinery and transport leading up to it.
-No man of any [[Imagination|imagination]] would be insensible to such [[titanic]]
-experiments of his race; or deny the dark poetry of those
-furnaces fit for Vulcan or those hammers worthy of Thor.
-But as I stood on the dock I said to my guide:  "Have you ever asked
-what all this is for?"  He was an intelligent man, an [[Exile|exile]] from
-metaphysical Scotland, and he knew what I meant.  "I don't know,"
-he said, "perhaps we are only [[Insects|insects]] building a coral reef.
-I don't know what is the good of the coral reef."  "Perhaps," I said,
-"that is what the peasant [[Dreams|dreams]] about, and, why he listens
-to the priest."
+Neither were connected with the subject or with each other;
+the one hated the Pope and the other the Liberator.  But industrialism
+was never again [[Self|self]]-evidently superior after the first event,
+or Protestantism [[Self|self]]-evidently superior after the other.
+And it needed a towering and [[Self|self]]-evident superiority to excuse
+the English rule in Ireland.  It is only on the ground of unquestionably
+doing good that men can do so much evil as that.
 
-For there seems to be a fashionable fallacy to the effect
-that religious equality is something to be done and done with,
-that we may go on to the real matter of political equality.
-In [[philosophy]] it is the flat contrary that is true.
-Political equality is something to be done and done with,
-that we may go on to the much more real matter of religion.
-At the Abbey Theatre I saw a forcible play by Mr. St. John Ervine,
-called _The Mixed [[Marriage]];_ which I should remember if it were only
-for the beautiful acting of Miss Maire O'Neill. But the play moved
-me very much as a play; yet I felt that the presence of this fallacy
-falsified it in some measure.  The dramatist seemed to resent a schism
-merely because it interfered with a strike.  But the only object
-of striking is liberty; and the only object of liberty is life:
-a thing wholly spiritual.  It is economic liberty that should be dismissed
-as these people dismiss theology.  We only get it, to forget it.
-It is right that men should have houses, right that they should have land,
-right that they should have laws to protect the land; but all these
-things are only machinery to make leisure for the labouring [[Soul|soul]].
-The [[house]] is only a stage set up by stage carpenters for the acting
-of what Mr. J. B. Yeats has called "the drama of the [[Home|home]]."  All the
-most dramatic things happen at [[Home|home]], from being born to being dead.
-What a man thinks about these things is his life; and to substitute
-for them a bustle of electioneering and legislation is to wander about
-among screens and pulleys on the wrong side of pasteboard scenery;
-and never to act the play.  And that play is always a miracle play;
-and the name of its [[Hero|hero]] is Everyman.
+Some Orangemen before the war indulged in a fine rhetorical
+comparison between William of Prussia and William of Orange;
+and openly suggested that the new Protestant Deliverer from the north
+would come from North [[Germany]].  I was assured by my more moderate
+hosts in Belfast that such Orangemen could not be regarded as
+representative or even responsible.  On that I cannot pronounce.
+The Orangemen may not have been representative; they may not
+have been responsible; but I am quite sure they were right.
+I am quite sure those poor fanatics were far nearer the nerve of
+historical [[Truth|truth]] than professional politicians like Sir Edward Carson
+or industrial capitalists like Sir George Clark.  If ever there
+was a natural alliance in the world, it would have been the alliance
+between Belfast and Berlin.  The fanatics may be fools, but they have
+here the light by which the foolish things can confound the wise.
+It is the brightest spot in Belfast, bigotry, for if the light
+in its [[Body|body]] be darkness, it is still brighter than the darkness.
+By the vision that goes everywhere with the virility
+and [[Greatness|greatness]] of religion, these men have indeed pierced to
+the Protestant secret and the meaning of four hundred years.
+Their Protestantism is Prussianism, not as a term of abuse,
+but as a term of abstract and impartial ethical science.
+Belfast and Berlin are on the same side in the deepest of all
+the spiritual issues involved in the war.  And that is the simple
+issue of whether [[Pride|pride]] is a sin, and therefore a weakness.
+Modern mentality, or great masses of it, has seriously advanced
+the view that it is a weakness to disarm criticism by [[Self|self]]-criticism,
+and a strength to disdain criticism through [[Self|self]]-confidence. That
+is the thesis for which Berlin gave battle to the older civilisation
+in Europe; and that for which Belfast gave battle to the older
+civilisation in Ireland.  It may be, as I suggested, that such Protestant
+[[Pride|pride]] is the old Calvinism, with its fixed election of the few.
+It may be that the Protestantism is merely Paganism, with its brutish
+gods and giants lingering in corners of the more savage north.
+It may be that the Calvinism was itself a recurrence of the Paganism.
+But in any case, I am sure that this superiority, which can
+master men like a [[nightmare]], can also vanish like a [[nightmare]].
+And I strongly suspect that in this matter also, as in the matter
+of property as viewed by a peasantry, the older civilisation will
+prove to be the real civilisation; and that a healthier society
+will return to regarding [[Pride|pride]] as a pestilence, as the Socialists
+have already returned to regarding avarice as a pestilence.
+The old tradition of Christendom was that the highest form
+of [[Faith|faith]] was a [[Doubt|doubt]].  It was the [[Doubt|doubt]] of a man about his [[Soul|soul]].
+It was admirably expressed to me by Mr. Yeats, who is now champion
+of Catholic orthodoxy, in stating his preference for mediaeval
+Catholicism as compared with modern [[Humanitarianism|humanitarianism]]; "Men were
+thinking then about their own sins, and now they are always
+thinking about other people's." And even by the Protestant test
+of progress, [[Pride|pride]] is seen to be arrested by a premature paralysis.
+Progress is superiority to oneself; and it is stopped dead
+by superiority to others.  The case is even clearer by the test
+of poetry, which is much more solid and permanent than progress.
+The Superman may have been a sort of poem; but he could never
+be any sort of poet.  The more we attempt to analyse that
+strange element of [[Wonder|wonder]], which is the [[Soul|soul]] of all the arts,
+the more we shall see that it must depend on some subordination
+of the [[Self|self]] to a glory existing beyond it, and even in spite of it.
+Man always feels as a creature when he acts as a creator.
+When he carves a [[Cathedral|cathedral]] it is to make a [[Monster|monster]] that can [[Swallow|swallow]] him.
+But the Nietzschean [[nightmare]] of swallowing the world is only a sort
+of yawning.  When the evolutionary anarch has broken all links and
+laws and is at last free to speak, he finds he has nothing to say.
+So German [[songs]] under the imperial eagle fell silent like songbirds
+under a hawk; and it is but rarely, and here and there, that a
+Belfast merchant liberates his [[Soul|soul]] in a [[Lyric|lyric]].  He has to get
+Mr. Kipling to write a Belfast poem, in a style technically attuned
+to the Belfast pictures.  There is the true Tara of the silent harp,
+and the throne and habitation of the dream; and it is there that
+the Celtic pessimists should weep in [[Silence|silence]] for the end of [[Song|song]].
+Blowing one's own trumpet has not proved a good musical [[Education|education]].

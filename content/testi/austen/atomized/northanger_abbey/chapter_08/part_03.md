@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 7 (part 3)"
+title: "Northanger Abbey — Chapter 7 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_08/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_09/part_01">part 01 ›</a></div>
 </nav>
 
+
+they both looked very ugly.
+
+
+
+These manners did not please Catherine; but he was James’s friend and
+
+[[Isabella]]’s brother; and her judgment was further bought off by
+
+[[Isabella]]’s assuring her, when they withdrew to see the new hat, that
+
+John thought her the most charming girl in the world, and by John’s
+
+engaging her before they parted to [[Dance|dance]] with him that evening. Had she
 
 been older or vainer, such attacks might have done little; but, where
 

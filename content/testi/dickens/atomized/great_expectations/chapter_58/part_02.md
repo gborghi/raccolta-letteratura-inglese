@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 58 (part 2)"
+title: "Great Expectations — Chapter 58 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,8 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_58/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_58/part_03">part 03 ›</a></div>
 </nav>
 
+
+“You do not, sir,” said William.
 
 “In their presence,” pursued Pumblechook, “I will tell you, young man,
 what to say to Joseph. Says you, “Joseph, I have this day seen my
@@ -135,8 +137,3 @@ thought of it, dear Joe, but I was too happy.” They were both so
 overjoyed to see me, so proud to see me, so touched by my coming to
 them, so delighted that I should have come by accident to make their
 day complete!
-
-My first thought was one of great thankfulness that I had never
-breathed this last baffled [[Hope|hope]] to Joe. How often, while he was with me
-in my illness, had it risen to my lips! How irrevocable would have been
-his knowledge of it, if he had remained with me but another hour!

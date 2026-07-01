@@ -1,5 +1,5 @@
 ---
-title: "[[AllThingsConsidered-8]] — ANONYMITY AND FURTHER COUNSELS"
+title: "AllThingsConsidered-8 — ANONYMITY AND FURTHER COUNSELS"
 author: "Chesterton"
 unitType: story
 parentWork: "works/allthingsconsidered-8-(chesterton)"

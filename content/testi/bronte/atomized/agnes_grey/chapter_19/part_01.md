@@ -1,5 +1,5 @@
 ---
-title: "[[Agnes Grey]] — Chapter 18 (part 1)"
+title: "Agnes Grey — Chapter 18 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/agnes-grey-(bronte)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/works/agnes-grey-(bronte)">Agnes Grey</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/agnes_grey/chapter_18/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/agnes_grey/chapter_19/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/agnes_grey/chapter_18/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/agnes_grey/chapter_19/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -115,13 +115,3 @@ made a fine lad, was not quite what a young lady ought to be”—Matilda
 at length found that her easiest plan was to keep clear of the
 forbidden regions; unless she could now and then steal a visit without
 her watchful mother’s knowledge.
-
-Amid all this, let it not be imagined that I escaped without many a
-reprimand, and many an implied reproach, that lost none of its sting
-from not being openly worded; but rather wounded the more deeply,
-because, from that very reason, it seemed to preclude [[Self|self]]-defence.
-Frequently, I was told to amuse Miss Matilda with other things, and to
-remind her of her mother’s precepts and prohibitions. I did so to the
-best of my power: but she would not be amused against her will, and
-could not against her taste; and though I went beyond mere reminding,
-such gentle remonstrances as I could use were utterly ineffectual.

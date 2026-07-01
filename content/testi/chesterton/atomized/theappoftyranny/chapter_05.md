@@ -1,5 +1,5 @@
 ---
-title: "[[TheAppOfTyranny]] — Chapter 4"
+title: "TheAppOfTyranny — Chapter 4"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/theappoftyranny-(chesterton)"

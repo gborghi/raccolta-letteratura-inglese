@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 14 (part 3)"
+title: "Jane Eyre — Chapter 14 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -126,13 +126,3 @@ comforting and encouraging because it is very unobtrusive in its
 manifestations.”
 
 “How do you know?—how can you guess all this, sir?”
-
-“I know it [[Well|well]]; therefore I proceed almost as freely as if I were
-writing my thoughts in a diary. You would say, I should have been
-superior to circumstances; so I should—so I should; but you see I was
-not. When fate wronged me, I had not the wisdom to remain cool: I
-turned desperate; then I degenerated. Now, when any vicious simpleton
-excites my disgust by his paltry ribaldry, I cannot flatter myself that
-I am better than he: I am forced to confess that he and I are on a
-level. I wish I had stood firm—God knows I do! Dread remorse when you
-are tempted to err, Miss Eyre; remorse is the [[Poison|poison]] of life.”

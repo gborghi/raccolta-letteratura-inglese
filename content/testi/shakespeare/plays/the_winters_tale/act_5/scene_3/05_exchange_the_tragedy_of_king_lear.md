@@ -1,5 +1,5 @@
 ---
-title: "The Winters Tale — Act V, Scene 3 — exchange (THE [[Tragedy|TRAGEDY]] OF [[King Lear|KING LEAR]]) [5]"
+title: "The Winters Tale — Act V, Scene 3 — exchange (THE TRAGEDY OF KING LEAR) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-winter’s-tale-(shakespeare)"

@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 5 (part 3)"
+title: "thursday — Chapter 5 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_05/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_06/part_01">part 01 ›</a></div>
 </nav>
 
+
+"Right, my boy, right," said the President with a ponderous heartiness,
+"you aren't good at anything."
 
 While this stream of conversation continued, Syme was looking
 more steadily at the men around him.  As he did so, he gradually

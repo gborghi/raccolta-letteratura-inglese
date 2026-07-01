@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 27 (part 2)"
+title: "Villette — Chapter 27 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -113,19 +113,3 @@ independence in the stringing of his sinews—not obtrusive, but pleasant
 enough to discover as one advanced in knowledge of his character; he
 promised, however, to step in with his friend, M. A——, a French
 Academician, in the course of the evening.
-
-At dinner that day, Ginevra and [[Paulina]] each looked, in her own way,
-very beautiful; the former, perhaps, boasted the advantage in material
-charms, but the latter shone pre-eminent for attractions more subtle
-and spiritual: for light and eloquence of eye, for grace of mien, for
-winning variety of expression. Ginevra’s dress of deep crimson relieved
-[[Well|well]] her light curls, and harmonized with her [[Rose|rose]]-like bloom.
-[[Paulina]]’s attire—in fashion close, though faultlessly neat, but in
-texture clear and white—made the eye grateful for the delicate life of
-her complexion, for the soft animation of her countenance, for the
-tender depth of her eyes, for the brown [[Shadow|shadow]] and bounteous flow of
-her hair—darker than that of her Saxon cousin, as were also her
-eyebrows, her eyelashes, her full irids, and large mobile pupils.
-[[Nature]] having traced all these details slightly, and with a careless
-hand, in Miss Fanshawe’s case; and in Miss de Bassompierre’s, wrought
-them to a high and delicate finish.

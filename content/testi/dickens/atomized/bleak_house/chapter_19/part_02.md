@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 19 (part 2)"
+title: "Bleak House — Chapter 19 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -141,10 +141,3 @@ O let us be joyful, joyful! O let us be joyful!”
 With which remark, which appears from its sound to be an extract in
 verse, Mr. Chadband stalks to the table, and before taking a chair,
 lifts up his admonitory hand.
-
-“My friends,” says he, “what is this which we now behold as being
-spread before us? Refreshment. Do we need refreshment then, my
-friends? We do. And why do we need refreshment, my friends? Because
-we are but mortal, because we are but sinful, because we are but of
-the earth, because we are not of the air. Can we fly, my friends? We
-cannot. Why can we not fly, my friends?”

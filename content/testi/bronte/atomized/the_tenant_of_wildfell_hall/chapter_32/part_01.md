@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 32 (part 1)"
+title: "The Tenant of Wildfell Hall — Chapter 32 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -78,7 +78,7 @@ recover breath and rectify our hair, disordered by the rough play and
 
 the frolicsome breeze, while they toddled together along the broad,
 
-sunny walk; my [[arthur|Arthur]] supporting the feebler steps of her little [[Helen]],
+sunny walk; my [[Arthur]] supporting the feebler steps of her little [[Helen]],
 
 and sagaciously pointing out to her the brightest beauties of the
 
@@ -245,9 +245,3 @@ certainly in Hattersley’s favour.”
 
 
 Milicent’s own heart told her how much it cost me to make this
-
-acknowledgment; and, with a childlike impulse, she expressed her
-
-sympathy by suddenly kissing my cheek, without a word of reply, and
-
-then turning quickly away, caught up her baby, and hid her face in its

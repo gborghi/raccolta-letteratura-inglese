@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 46: FORTY SIX (part 1)"
+title: "Martin Chuzzlewit — Chapter 46: FORTY SIX (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -144,12 +144,3 @@ Here Miss Pecksniff whispered in his ear. The [[Suffering|suffering]] Moddle rep
 
 ‘Oh, you silly man! I don’t mean them,’ said Miss Pecksniff. ‘I am
 speaking of the--’
-
-Here she whispered him again.
-
-‘If it’s the same patterned chintz as that in the [[Window|window]]; thirty-two,
-twelve, six,’ said Moddle, with a sigh. ‘And very dear.’
-
-Miss Pecksniff stopped him from giving any further explanation by laying
-her hand upon his lips, and betraying a soft embarrassment. She then
-asked [[Tom Pinch]] which way he was going.

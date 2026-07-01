@@ -1,5 +1,5 @@
 ---
-title: "[[The Angel of the Odd]] (part 2)"
+title: "The Angel of the Odd (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-angel-of-the-odd-(poe)"
@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Poe · <a href="/works/the-angel-of-the-odd-(poe)">The Angel of the Odd</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_angel_of_the_odd/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/the_angel_of_the_odd/part/part_03">part 03 ›</a></div>
 </nav>
+
+
+      and order my footman to kick you into the street.”
+
 
 
       “He! he! he!” said the fellow, “hu! hu! hu! dat you can’t do.”
@@ -221,9 +225,3 @@ tags:
       ordinary fifteen or twenty minutes, I had been dozing only three;
 
       for it still wanted seven and twenty of the appointed hour. I
-
-      betook myself again to my nap, and at length a second [[Time|time]] awoke,
-
-      when, to my utter amazement, it _still_ wanted twenty-seven
-
-      minutes of six. I jumped up to examine the [[Clock|clock]], and found that

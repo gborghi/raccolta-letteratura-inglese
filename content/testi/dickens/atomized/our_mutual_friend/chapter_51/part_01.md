@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 10 (part 1)"
+title: "Our Mutual Friend — Chapter 13 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,149 +10,130 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_50/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_51/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_50/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_51/part_02">part 02 ›</a></div>
 </nav>
 
 
-Chapter 10
+Chapter 13
 
-SCOUTS OUT
+GIVE A DOG A BAD NAME, AND HANG HIM
 
 
-‘And so, Miss Wren,’ said Mr [[Eugene Wrayburn]], ‘I cannot persuade you to
-dress me a doll?’
+Fascination Fledgeby, left [[Alone|alone]] in the counting-[[house]], strolled about
+with his hat on one side, whistling, and investigating the drawers, and
+prying here and there for any small evidences of his being cheated,
+but could find none. ‘Not his merit that he don’t cheat me,’ was Mr
+Fledgeby’s commentary delivered with a wink, ‘but my precaution.’ He
+then with a lazy grandeur asserted his rights as lord of Pubsey and
+Co. by poking his cane at the stools and boxes, and spitting in the
+fireplace, and so loitered royally to the [[Window|window]] and looked out into the
+narrow street, with his small eyes just peering over the top of Pubsey
+and Co.’s blind. As a blind in more senses than one, it reminded him
+that he was [[Alone|alone]] in the counting-[[house]] with the front door open. He was
+moving away to shut it, lest he should be injudiciously identified with
+the establishment, when he was stopped by some one coming to the door.
 
-‘No,’ replied Miss Wren snappishly; ‘if you want one, go and buy one at
-the shop.’
+This some one was the dolls’ dressmaker, with a little basket on her
+arm, and her crutch stick in her hand. Her keen eyes had espied Mr
+Fledgeby before Mr Fledgeby had espied her, and he was paralysed in his
+purpose of shutting her out, not so much by her approaching the door, as
+by her favouring him with a shower of nods, the instant he saw her. This
+advantage she improved by hobbling up the steps with such despatch that
+before Mr Fledgeby could take measures for her finding nobody at [[Home|home]],
+she was face to face with him in the counting-[[house]].
 
-‘And my charming young goddaughter,’ said Mr Wrayburn plaintively, ‘down
-in Hertfordshire—’
+‘[[Hope]] I see you [[Well|well]], sir,’ said Miss Wren. ‘Mr Riah in?’
 
-(‘Humbugshire you mean, I think,’ interposed Miss Wren.)
+Fledgeby had dropped into a chair, in the attitude of one waiting
+wearily. ‘I suppose he will be back soon,’ he replied; ‘he has cut
+out and left me expecting him back, in an odd way. Haven’t I seen you
+before?’
 
-‘—is to be put upon the cold footing of the general public, and is
-to derive no advantage from my private acquaintance with the [[Court]]
-Dressmaker?’
+‘Once before—if you had your eyesight,’ replied Miss Wren; the
+conditional clause in an under-tone.
 
-‘If it’s any advantage to your charming godchild—and oh, a precious
-godfather she has got!’—replied Miss Wren, pricking at him in the air
-with her needle, ‘to be informed that the [[Court]] Dressmaker knows
-your tricks and your manners, you may tell her so by post, with my
-compliments.’
+‘When you were carrying on some games up at the top of the [[house]]. I
+remember. How’s your friend?’
 
-Miss Wren was busy at her work by candle-light, and Mr Wrayburn, half
-amused and half vexed, and all idle and shiftless, stood by her bench
-looking on. Miss Wren’s troublesome [[Child|child]] was in the corner in deep
-disgrace, and exhibiting great wretchedness in the shivering stage of
-prostration from drink.
+‘I have more friends than one, sir, I [[Hope|hope]],’ replied Miss Wren. ‘Which
+friend?’
 
-‘Ugh, you disgraceful boy!’ exclaimed Miss Wren, attracted by the sound
-of his chattering teeth, ‘I wish they’d all drop down your throat and
-play at dice in your stomach! Boh, wicked [[Child|child]]! Bee-baa, black sheep!’
+‘Never mind,’ said Mr Fledgeby, shutting up one eye, ‘any of your
+friends, all your friends. Are they pretty tolerable?’
 
-On her accompanying each of these reproaches with a threatening stamp of
-the foot, the wretched creature protested with a whine.
+Somewhat confounded, Miss Wren parried the pleasantry, and sat down in a
+corner behind the door, with her basket in her lap. By-and-by, she said,
+breaking a long and patient [[Silence|silence]]:
 
-‘Pay five shillings for you indeed!’ Miss Wren proceeded; ‘how many
-hours do you suppose it costs me to earn five shillings, you infamous
-boy?—Don’t cry like that, or I’ll throw a doll at you. Pay five
-shillings fine for you indeed. Fine in more ways than one, I think! I’d
-give the dustman five shillings, to carry you off in the [[Dust|dust]] cart.’
+‘I beg your pardon, sir, but I am used to find Mr Riah at this [[Time|time]], and
+so I generally come at this [[Time|time]]. I only want to buy my poor little two
+shillings’ worth of waste. Perhaps you’ll kindly let me have it, and
+I’ll trot off to my work.’
 
-‘No, no,’ pleaded the absurd creature. ‘Please!’
+‘I let you have it?’ said Fledgeby, turning his head towards her; for he
+had been sitting blinking at the light, and feeling his cheek. ‘Why, you
+don’t really suppose that I have anything to do with the place, or the
+business; do you?’
 
-‘He’s enough to break his mother’s heart, is this boy,’ said Miss Wren,
-half appealing to Eugene. ‘I wish I had never brought him up. He’d be
-sharper than a serpent’s tooth, if he wasn’t as dull as ditch [[Water|water]].
-Look at him. There’s a pretty object for a parent’s eyes!’
+‘Suppose?’ exclaimed Miss Wren. ‘He said, that day, you were the
+master!’
 
-Assuredly, in his worse than swinish state (for swine at least fatten on
-their guzzling, and make themselves good to eat), he was a pretty object
-for any eyes.
+‘The old cock in black said? Riah said? Why, he’d say anything.’
 
-‘A muddling and a swipey old [[Child|child]],’ said Miss Wren, rating him with
-great severity, ‘fit for nothing but to be preserved in the liquor
-that destroys him, and put in a great glass bottle as a sight for other
-swipey children of his own pattern,—if he has no consideration for his
-liver, has he none for his mother?’
+‘[[Well]]; but you said so too,’ returned Miss Wren. ‘Or at least you took
+on like the master, and didn’t contradict him.’
 
-‘Yes. Deration, oh don’t!’ cried the subject of these angry remarks.
+‘One of his dodges,’ said Mr Fledgeby, with a cool and contemptuous
+shrug. ‘He’s made of dodges. He said to me, “Come up to the top of the
+[[house]], sir, and I’ll show you a handsome girl. But I shall call you
+the master.” So I went up to the top of the [[house]] and he showed me the
+handsome girl (very [[Well|well]] worth looking at she was), and I was called the
+master. I don’t know why. I dare say he don’t. He loves a dodge for
+its own sake; being,’ added Mr Fledgeby, after casting about for an
+expressive phrase, ‘the dodgerest of all the dodgers.’
 
-‘Oh don’t and oh don’t,’ pursued Miss Wren. ‘It’s oh do and oh do. And
-why do you?’
+‘Oh my head!’ cried the dolls’ dressmaker, holding it with both her
+hands, as if it were cracking. ‘You can’t mean what you say.’
 
-‘Won’t do so any more. Won’t indeed. Pray!’
+‘I can, my little woman, retorted Fledgeby, ‘and I do, I assure you.’
 
-‘There!’ said Miss Wren, covering her eyes with her hand. ‘I can’t
-bear to look at you. Go up stairs and get me my bonnet and shawl. Make
-yourself useful in some way, bad boy, and let me have your room instead
-of your company, for one half minute.’
+This repudiation was not only an act of deliberate policy on Fledgeby’s
+part, in case of his being surprised by any other caller, but was also a
+retort upon Miss Wren for her over-sharpness, and a pleasant instance
+of his [[Humour|humour]] as regarded the old Jew. ‘He has got a bad name as an old
+Jew, and he is paid for the use of it, and I’ll have my money’s worth
+out of him.’ This was Fledgeby’s habitual reflection in the way of
+business, and it was sharpened just now by the old man’s presuming
+to have a secret from him: though of the secret itself, as annoying
+somebody else whom he disliked, he by no means disapproved.
 
-Obeying her, he shambled out, and [[Eugene Wrayburn]] saw the [[Tears|tears]] exude
-from between the little creature’s fingers as she kept her hand before
-her eyes. He was sorry, but his sympathy did not move his carelessness
-to do anything but feel sorry.
+Miss Wren with a fallen countenance sat behind the door looking
+thoughtfully at the ground, and the long and patient [[Silence|silence]] had
+again set in for some [[Time|time]], when the expression of Mr Fledgeby’s face
+betokened that through the upper portion of the door, which was of
+glass, he saw some one faltering on the brink of the counting-[[house]].
+Presently there was a rustle and a tap, and then some more rustling and
+another tap. Fledgeby taking no notice, the door was at length softly
+opened, and the dried face of a mild little elderly gentleman looked in.
 
-‘I’m going to the Italian Opera to try on,’ said Miss Wren, taking away
-her hand after a little while, and laughing satirically to hide that she
-had been crying; ‘I must see your back before I go, Mr Wrayburn. Let me
-first tell you, once for all, that it’s of no use your paying visits
-to me. You wouldn’t get what you want, of me, no, not if you brought
-pincers with you to tear it out.’
+‘Mr Riah?’ said this visitor, very politely.
 
-‘Are you so obstinate on the subject of a doll’s dress for my godchild?’
+‘I am waiting for him, sir,’ returned Mr Fledgeby. ‘He went out and left
+me here. I expect him back every minute. Perhaps you had better take a
+chair.’
 
-‘Ah!’ returned Miss Wren with a hitch of her chin, ‘I am so
-obstinate. And of course it’s on the subject of a doll’s dress—or
-ADdress—whichever you like. Get along and give it up!’
+The gentleman took a chair, and put his hand to his forehead, as if
+he were in a [[Melancholy|melancholy]] frame of mind. Mr Fledgeby eyed him aside, and
+seemed to relish his attitude.
 
-Her degraded charge had come back, and was standing behind her with the
-bonnet and shawl.
+‘A fine day, sir,’ remarked Fledgeby.
 
-‘Give ’em to me and get back into your corner, you naughty old thing!’
-said Miss Wren, as she turned and espied him. ‘No, no, I won’t have your
-help. Go into your corner, this minute!’
+The little dried gentleman was so occupied with his own depressed
+reflections that he did not notice the remark until the sound of Mr
+Fledgeby’s voice had died out of the counting-[[house]]. Then he started,
+and said: ‘I beg your pardon, sir. I [[Fear|fear]] you spoke to me?’
 
-The miserable man, feebly rubbing the back of his faltering hands
-downward from the wrists, shuffled on to his post of disgrace; but not
-without a curious glance at Eugene in passing him, accompanied with what
-seemed as if it might have been an action of his elbow, if any action of
-any limb or joint he had, would have answered truly to his will. Taking
-no more particular notice of him than instinctively falling away from
-the disagreeable contact, Eugene, with a lazy compliment or so to Miss
-Wren, begged leave to light his cigar, and departed.
+‘I said,’ remarked Fledgeby, a little louder than before, ‘it was a fine
+day.’
 
-‘Now you prodigal old son,’ said Jenny, shaking her head and her
-emphatic little forefinger at her burden, ‘you sit there till I come
-back. You dare to move out of your corner for a single instant while I’m
-gone, and I’ll know the reason why.’
-
-With this admonition, she blew her work candles out, leaving him to the
-light of the [[Fire|fire]], and, taking her big door-key in her pocket and her
-crutch-stick in her hand, marched off.
-
-Eugene lounged slowly towards the Temple, smoking his cigar, but saw
-no more of the dolls’ dressmaker, through the accident of their taking
-opposite sides of the street. He lounged along moodily, and stopped at
-Charing [[Cross]] to look about him, with as little interest in the crowd
-as any man might take, and was lounging on again, when a most unexpected
-object caught his eyes. No less an object than [[Jenny Wren]]’s bad boy
-trying to make up his mind to [[Cross|cross]] the [[Road|road]].
-
-A more ridiculous and feeble spectacle than this tottering wretch making
-unsteady sallies into the roadway, and as often staggering back again,
-oppressed by terrors of vehicles that were a long way off or were
-nowhere, the streets could not have shown. Over and over again, when the
-course was perfectly clear, he set out, got half way, described a loop,
-turned, and went back again; when he might have crossed and re-crossed
-half a dozen times. Then, he would stand shivering on the edge of the
-pavement, looking up the street and looking down, while scores of people
-jostled him, and crossed, and went on. Stimulated in course of [[Time|time]]
-by the sight of so many successes, he would make another sally, make
-another loop, would all but have his foot on the opposite pavement,
-would see or imagine something coming, and would stagger back again.
-There, he would stand making spasmodic preparations as if for a great
-leap, and at last would decide on a start at precisely the wrong moment,
-and would be roared at by drivers, and would shrink back once more, and
-stand in the old spot shivering, with the whole of the proceedings to go
-through again.
+‘I beg your pardon. I beg your pardon. Yes.’

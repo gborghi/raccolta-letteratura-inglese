@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 10 (part 3)"
+title: "Jane Eyre — Chapter 10 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -125,8 +125,3 @@ a little girl besides Bobby there, that I’ve christened Jane.”
 “[[Well]], and how do they all get on? Tell me everything about them,
 Bessie: but sit down first; and, Bobby, come and sit on my knee, will
 you?” but Bobby preferred sidling over to his mother.
-
-“You’re not grown so very tall, Miss Jane, nor so very stout,”
-continued Mrs. Leaven. “I dare say they’ve not kept you too [[Well|well]] at
-school: Miss Reed is the head and shoulders taller than you are; and
-Miss Georgiana would make two of you in breadth.”

@@ -1,5 +1,5 @@
 ---
-title: "The Merchant of [[Venice]] — Act III, Scene 2 — monologue ([[Bassanio|BASSANIO]]) [8]"
+title: "The Merchant of Venice — Act III, Scene 2 — monologue (BASSANIO) [8]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-merchant-of-venice-(shakespeare)"

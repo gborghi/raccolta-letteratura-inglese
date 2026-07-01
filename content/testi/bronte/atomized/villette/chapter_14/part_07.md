@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 14 (part 7)"
+title: "Villette — Chapter 14 (part 7)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,21 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_14/part_06">‹ part 06</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_14/part_08">part 08 ›</a></div>
 </nav>
 
+
+What I felt that [[Night|night]], and what I did, I no more expected to feel and
+do, than to be lifted in a trance to the seventh heaven. Cold,
+reluctant, apprehensive, I had accepted a part to please another: ere
+long, warming, becoming interested, taking [[Courage|courage]], I acted to please
+myself. Yet the next day, when I thought it over, I quite disapproved
+of these amateur performances; and though glad that I had obliged M.
+Paul, and tried my own strength for once, I took a firm resolution,
+never to be drawn into a similar affair. A keen relish for dramatic
+expression had revealed itself as part of my [[Nature|nature]]; to cherish and
+exercise this new-found faculty might gift me with a world of delight,
+but it would not do for a mere looker-on at life: the strength and
+[[Longing|longing]] must be put by; and I put them by, and fastened them in with
+the lock of a resolution which neither [[Time]] nor [[Temptation]] has since
+picked.
 
 No sooner was the play over, and _well_ over, than the choleric and
 arbitrary M. Paul underwent a metamorphosis. His hour of managerial
@@ -97,22 +112,3 @@ don’t think that another directress in [[Villette]] would have dared to
 admit a “jeune homme” within her walls; but Madame knew that by
 granting such admission, on an occasion like the present, a bold stroke
 might be struck, and a great point gained.
-
-In the first place, the parents were made accomplices to the deed, for
-it was only through their mediation it was brought about. Secondly: the
-admission of these rattlesnakes, so fascinating and so dangerous,
-served to draw out Madame precisely in her strongest character—that of
-a first-rate _surveillante_. Thirdly: their presence furnished a most
-piquant ingredient to the entertainment: the pupils knew it, and saw
-it, and the view of such golden apples shining afar off, animated them
-with a spirit no other circumstance could have kindled. The children’s
-pleasure spread to the parents; life and mirth circulated quickly round
-the ball-room; the “jeunes gens” themselves, though restrained, were
-amused: for Madame never permitted them to feel dull—and thus Madame
-Beck’s fête annually ensured a [[success]] unknown to the fête of any other
-directress in the land.
-
-I observed that Dr. John was at first permitted to walk at large
-through the classes: there was about him a manly, responsible look,
-that redeemed his youth, and half-expiated his [[Beauty|beauty]]; but as soon as
-the ball began, Madame ran up to him.

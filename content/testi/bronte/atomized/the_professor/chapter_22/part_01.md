@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 21 (part 1)"
+title: "The Professor — Chapter 21 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -15,8 +15,6 @@ tags:
 
 
 CHAPTER XXI.
-
-
 
 DIRECTLY as I closed the door, I saw laid on the table two letters; my
 
@@ -40,11 +38,7 @@ a blank page: on one cover was an English postmark; on the other, a
 
 lady’s clear, fine autograph; the last I opened first:--
 
-
-
 “MONSIEUR,
-
-
 
 “I FOUND out what you had done the very morning after your visit to me;
 
@@ -79,8 +73,6 @@ circumstance is, indeed, the reason of my writing to you, for it is
 pleasant to communicate good news; and, in these days, I have only my
 
 master to whom I can tell anything.
-
-
 
 “A week ago, monsieur, I was sent for by a Mrs. Wharton, an English
 
@@ -138,8 +130,6 @@ lodgings), and, for this, Mrs. D. will give me twelve hundred francs per
 
 annum.
 
-
-
 “You see, therefore, monsieur, that I am now rich; richer almost than
 
 I ever hoped to be: I feel thankful for it, especially as my sight was
@@ -168,15 +158,9 @@ read. Do not be too angry with my circumlocution and inelegancies of
 
 expression, and, believe me
 
-
-
 “Your attached pupil,
 
-
-
 “F. E. HENRI.”
-
-
 
 Having read this letter, I mused on its contents for a few
 
@@ -196,8 +180,6 @@ forgetting patrician relations. From whom, then, was it? I removed the
 
 envelope; the note folded within ran as follows:
 
-
-
 “I have no [[Doubt|doubt]] in the world that you are doing [[Well|well]] in that greasy
 
 Flanders; living probably on the fat of the unctuous land; sitting like
@@ -207,9 +189,3 @@ a black-haired, tawny-skinned, long-nosed Israelite by the flesh-pots
 of [[Egypt]]; or like a rascally son of Levi near the brass cauldrons of the
 
 sanctuary, and every now and then plunging in a consecrated hook, and
-
-drawing out of the sea of broth the fattest of heave-shoulders and the
-
-fleshiest of wave-breasts. I know this, because you never write to any
-
-one in England. Thankless dog that you are! I, by the sovereign efficacy

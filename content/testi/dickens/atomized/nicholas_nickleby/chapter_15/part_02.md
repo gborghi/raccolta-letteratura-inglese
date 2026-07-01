@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 15 (part 2)"
+title: "Nicholas Nickleby — Chapter 15 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -140,10 +140,3 @@ of spirits and [[Water|water]] for Nicholas, and a cracked mug-full for the join
 accommodation of himself and [[Smike]], of which the two partook in great
 harmony, while Nicholas, leaning his head upon his hand, remained buried
 in [[Melancholy|melancholy]] meditation.
-
-Meanwhile, the company below stairs, after listening attentively and
-not hearing any noise which would justify them in interfering for
-the gratification of their curiosity, returned to the chamber of the
-Kenwigses, and employed themselves in hazarding a great variety of
-conjectures relative to the cause of Mr. Noggs’ sudden disappearance and
-detention.

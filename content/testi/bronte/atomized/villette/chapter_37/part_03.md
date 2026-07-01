@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 35 (part 3)"
+title: "Villette — Chapter 35 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_37/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_37/part_04">part 04 ›</a></div>
 </nav>
 
+
+An idea once seized, I fell to work. “Human Justice” rushed before me
+in [[Novel|novel]] guise, a red, random beldame, with arms akimbo. I saw her in
+her [[house]], the den of confusion: servants called to her for orders or
+help which she did not give; beggars stood at her door waiting and
+starving unnoticed; a swarm of children, sick and quarrelsome, crawled
+round her feet, and yelled in her ears appeals for notice, sympathy,
+cure, redress. The honest woman cared for none of these things. She had
+a warm seat of her own by the [[Fire|fire]], she had her own solace in a short
+black pipe, and a bottle of Mrs. Sweeny’s soothing syrup; she smoked
+and she sipped, and she enjoyed her paradise; and whenever a cry of the
+[[Suffering|suffering]] souls about her pierced her ears too keenly—my jolly dame
+seized the poker or the hearth-brush: if the offender was weak,
+wronged, and sickly, she effectually settled him: if he was strong,
+lively, and violent, she only menaced, then plunged her hand in her
+deep pouch, and flung a liberal shower of sugar-plums.
 
 Such was the [[Sketch|sketch]] of “Human Justice,” scratched hurriedly on paper,
 and placed at the service of Messrs. Boissec and Rochemorte. M. Emanuel
@@ -116,26 +132,3 @@ grey flags in front, the nodding trees behind—real trees, not
 shrubs—trees dark, high, and of old growth. And the
 boudoir-oratoire—you should make that room your study; it is so quiet
 and solemn.”
-
-He eyed me closely; he half-smiled, half-coloured. “Where did you pick
-up all that? Who told you?” he asked.
-
-“Nobody told me. Did I dream it, Monsieur, do you think?”
-
-“Can I enter into your visions? Can I guess a woman’s waking thoughts,
-much less her sleeping fantasies?”
-
-“If I dreamt it, I saw in my dream human beings as [[Well|well]] as a [[house]]. I
-saw a priest, old, bent, and grey, and a domestic—old, too, and
-picturesque; and a lady, splendid but strange; her head would scarce
-reach to my elbow—her magnificence might ransom a duke. She wore a gown
-bright as lapis-lazuli—a shawl worth a thousand francs: she was decked
-with ornaments so brilliant, I never saw any with such a beautiful
-sparkle; but her figure looked as if it had been broken in two and bent
-[[Double|double]]; she seemed also to have outlived the common years of humanity,
-and to have attained those which are only labour and sorrow. She was
-become morose—almost malevolent; yet _somebody_, it appears, cared for
-her in her infirmities—somebody forgave her trespasses, hoping to have
-his trespasses forgiven. They lived together, these three people—the
-mistress, the chaplain, the servant—all old, all feeble, all sheltered
-under one kind wing.”

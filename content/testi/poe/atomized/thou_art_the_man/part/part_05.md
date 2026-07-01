@@ -1,5 +1,5 @@
 ---
-title: "[[Thou Art the Man]] (part 5)"
+title: "Thou Art the Man (part 5)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/thou-art-the-man-(poe)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/thou_art_the_man/part/part_04">‹ part 04</a><a class="ex-next" href="/testi/poe/atomized/thou_art_the_man/part/part_06">part 06 ›</a></div>
 </nav>
 
+
+      In the meantime, the noble behavior of “Old Charley Goodfellow,” had
+      doubly endeared him to the honest citizens of the borough. He became ten
+      times a greater favorite than ever, and, as a natural result of the
+      hospitality with which he was treated, he relaxed, as it were, perforce,
+      the extremely parsimonious habits which his [[Poverty|poverty]] had hitherto impelled
+      him to observe, and very frequently had little reunions at his own [[house]],
+      when wit and jollity reigned supreme—dampened a little, of course, by the
+      occasional remembrance of the untoward and [[Melancholy|melancholy]] fate which impended
+      over the nephew of the late lamented bosom friend of the generous host.
 
       One fine day, this magnanimous old gentleman was agreeably surprised at
       the receipt of the following letter:
@@ -110,16 +120,3 @@ receipt of this letter. Our respects to Mr. Shuttleworthy.
       in contact with the corpse, poured out rapidly and vehemently a detailed
       confession of the hideous crime for which Mr. Pennifeather was then
       imprisoned and doomed to die.
-
-      What he recounted was in substance this:—He followed his victim to
-      the vicinity of the pool; there shot his [[Horse|horse]] with a [[Pistol|pistol]]; despatched
-      its rider with the butt end; possessed himself of the pocket-book; and,
-      supposing the [[Horse|horse]] dead, dragged it with great labour to the brambles by
-      the pond. Upon his own beast he slung the corpse of Mr. Shuttleworthy, and
-      thus bore it to a secure place of concealment a long distance off through
-      the woods.
-
-      The waistcoat, the knife, the pocket-book, and bullet, had been placed by
-      himself where found, with the view of avenging himself upon Mr.
-      Pennifeather. He had also contrived the discovery of the stained
-      handkerchief and shirt.

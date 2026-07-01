@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 22 (part 4)"
+title: "Mansfield Park — Chapter 22 (part 4)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/mansfield_park/chapter_22/part_03">‹ part 03</a><a class="ex-next" href="/testi/austen/atomized/mansfield_park/chapter_23/part_01">part 01 ›</a></div>
 </nav>
 
+
+A look of consciousness as he spoke, and what seemed a consciousness of
+manner on Miss Crawford’s side as she made some laughing answer, was
+sorrowfull food for Fanny’s observation; and finding herself quite
+unable to attend as she ought to Mrs. Grant, by whose side she was now
+following the others, she had nearly resolved on going [[Home|home]]
+immediately, and only waited for [[Courage|courage]] to say so, when the sound of
+the great [[Clock|clock]] at [[Mansfield Park]], striking three, made her feel that
+she had really been much longer absent than usual, and brought the
+previous [[Self|self]]-inquiry of whether she should take leave or not just
+then, and how, to a very speedy issue. With undoubting decision she
+directly began her adieus; and [[Edmund]] began at the same [[Time|time]] to
+recollect that his mother had been inquiring for her, and that he had
+walked down to the Parsonage on purpose to bring her back.
 
 Fanny’s hurry increased; and without in the least expecting [[Edmund]]’s
 attendance, she would have hastened away [[Alone|alone]]; but the general pace

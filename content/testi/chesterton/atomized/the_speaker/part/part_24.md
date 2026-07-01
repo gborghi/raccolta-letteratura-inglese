@@ -14,6 +14,37 @@ tags:
 </nav>
 
 
+In an unpretentious, but singularly able preface, the editors demur
+to the notion that the treatment of such a subject is necessarily
+very depressing; as they point out, the loftiest, and, we may add,
+the most lighthearted men of genius have faced it without a thought
+of it prostrating them.  But though we fully applaud the editors
+for including all the various points of view from which this
+tremendous subject has been considered, no one could expect
+the [[Poems|poems]] and passages which they print to be uniformly or even
+generally of a character to elevate either the spirits or the [[Soul|soul]].
+[[Death]] has called forth in literature not only much cheerfulness
+and dignity, much chivalrous [[Hope|hope]] and more chivalrous hopelessness,
+but also much panic, much paltry [[philosophy]], much of dismal
+asceticism and more dismal frivolity, much of the [[Self|self]]-indulgence
+of gloom and much of the gloom of [[Self|self]]-indulgence.
+
+On the one hand, the scheme of the work admits all the great [[Poems|poems]] which
+gather round the conception of eternal life, such as Wordsworth's "Ode
+on the Intimations of [[Immortality]]," which is, by the way,
+a magnificent example of the right way to sing about a common subject.
+Many realists, Wordsworth himself included, fell often into that futile
+realistic spirit which merely shows that a common thing is common.
+The higher realism shows that a common thing is uncommonly uncommon,
+and that all the trumpets of poetic style are not too [[Sublime|sublime]]
+for its celebration.  The case of idealism or [[Truth|truth]] to the [[Soul|soul]],
+against realism, or [[Truth|truth]] to the tongue, might be tried on the issue
+of Wordsworth [[Alone|alone]].  He wrote two [[Poems|poems]] upon the idea of a [[Child|child]]'s
+conviction of a life beyond [[Death|death]].  When he was writing what,
+in his view, the [[Child|child]] actually said, he wrote "We are Seven."
+When he was writing in his own language what the [[Child|child]] meant,
+he wrote the "Ode on the Intimations."
+
 But just as there is the white side of the [[philosophy]] of [[Death|death]],
 as shown in Wordsworth's Ode, so there is the dark side also.
 There are [[Poems|poems]] rightly included in this volume, and adorning
@@ -83,7 +114,6 @@ once more in darkness, before we can see the sun once more.
 
 G. K. C.
 
-
 How Not To Do It
 
 March 23, 1901, The Speaker
@@ -107,31 +137,3 @@ But the "Art is Unmoral" school has arisen in our own [[Time|time]]
 to define the indefinable once more.  Such is the strange enmity
 of men towards the mysterious element in man-as if it were not,
 in [[Truth|truth]], what makes life worth living.
-
-Another school has also arisen to-day with the same idea
-in a much grosser form.  It is the school which believes
-that everything can be learnt:  that [[success]] in art and
-commerce is equally an ingenious trick.  A series is issued
-entitled the "How To" series.  It teaches in one volume "How
-to Choose Your Banker," in another "How to Dine in [[Paris]],"
-and in a third, which now lies before us, "How to Write a [[Novel]]."
-It never seems to strike the writers of this school that there
-is some difference between the psychological profundity and
-delicacy of choosing your banker and that of choosing your idea.
-An idea is a nameless thing; it melts into all other ideas,
-whereas a banker is detachable and does not melt into any one.
-The same is true, though in a lesser degree, of the comparison
-which the author makes in his first chapter.  He says,
-with some apparent reason, that as painting and sculpture require
-training on fixed lines there is no reason why such training
-should not be given in fiction.  Surely the answer is distinct.
-Fiction is more dark and chaotic than painting because,
-though both arts symbolise spiritual conditions, painting employs
-as its symbol the bodily form, which has been measured,
-while fiction employs as its symbol the thoughts and actions
-which have never been measured.  Painting deals with what
-a man looks like, which we can all know; fiction deals
-with what he means, which he generally does not know himself.
-It is not possible to know how many thoughts a man has;
-it is possible to know, with reasonable industry, how many
-legs he has.

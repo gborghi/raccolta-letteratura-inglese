@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 5"
+title: "Martin Chuzzlewit — Chapter 5"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -71,7 +71,7 @@ any means, than a fresh, frosty morning, when [[Hope|hope]] runs cheerily throug
 the veins with the brisk [[Blood|blood]], and tingles in the frame from head to
 foot! This was the glad commencement of a bracing day in early [[Winter|winter]],
 such as may put the languid [[Summer|summer]] season (speaking of it when it can’t
-be had) to the blush, and shame the [[Spring|spring]] for being sometimes cold by
+be had) to the blush, and shame the [[spring]] for being sometimes cold by
 halves. The sheep-[[Bells|bells]] rang as clearly in the vigorous air, as if they
 felt its wholesome influence like living creatures; the trees, in lieu
 of [[Leaves|leaves]] or blossoms, shed upon the ground a frosty rime that sparkled

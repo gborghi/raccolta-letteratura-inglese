@@ -1,5 +1,5 @@
 ---
-title: "ball and [[Cross|cross]] — The Religion of the Stipendiary Magistrate"
+title: "ball and cross — The Religion of the Stipendiary Magistrate"
 author: "Chesterton"
 unitType: story
 parentWork: "works/ball-and-cross-(chesterton)"

@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 8 (part 2)"
+title: "Nicholas Nickleby — Chapter 8 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -112,12 +112,3 @@ same reason which induces some savages to [[Swallow|swallow]] earth--lest they
 should be inconveniently hungry when there is nothing to eat. Having
 further disposed of a slice of bread and butter, allotted to him in
 virtue of his office, he sat himself down, to wait for school-[[Time|time]].
-
-He could not but observe how silent and sad the boys all seemed to be.
-There was none of the noise and clamour of a schoolroom; none of
-its boisterous play, or hearty mirth. The children sat crouching and
-shivering together, and seemed to lack the spirit to move about. The
-only pupil who evinced the slightest tendency towards locomotion or
-playfulness was Master Squeers, and as his chief amusement was to tread
-upon the other boys’ toes in his new boots, his flow of spirits was
-rather disagreeable than otherwise.

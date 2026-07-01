@@ -1,5 +1,5 @@
 ---
-title: "[[Don Quixote]] — Chapter 10 (part 1)"
+title: "Don Quixote — Chapter 10 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/don-quixote-(chesterton)"
@@ -126,14 +126,3 @@ the wilder aspects of our fallen [[Nature|nature]] . . . the [[Body|body]] of ou
 I think it is in the Greek Testament . . . the [[Body|body]] of our humiliation.
 It sounds only too like the struggle of some unfortunate whom society
 finds it a sad necessity to restrain."
-
-At this moment the [[Body|body]] of our humiliation was again
-thrown crashing against the door; and it seemed to be
-a [[Body|body]] of some weight and momentum and even nobility.
-The magistrate was not altogether satisfied.  Patients or prisoners
-(or whatever the new social victims ought to be called) were indeed
-frequently taken into the adjoining room to await examination;
-but generally under the guardianship of attendants who would
-prevent them indicating their impatience in so lively a style.
-The only other hypothesis was that the lunatic next door was
-so exceedingly lively as to have killed his keeper.

@@ -1,5 +1,5 @@
 ---
-title: "[[Loss of Breath]] (part 3)"
+title: "Loss of Breath (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/loss-of-breath-(poe)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/loss_of_breath/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/loss_of_breath/part/part_04">part 04 ›</a></div>
 </nav>
 
+
+      me the largest of my trunks, which, unfortunately falling on my
+
+      head, fractured my skull in a manner at once interesting and
+
+      extraordinary.
+
+
+
+      The landlord of the “Crow,” who is a hospitable man, finding that
+
+      my trunk contained sufficient to indemnify him for any little
 
       trouble he might take in my behalf, sent forthwith for a surgeon
 
@@ -197,17 +209,3 @@ tags:
       such a theme it is necessary to have been hanged. Every author
 
       should confine himself to matters of experience. Thus [[Mark Antony]]
-
-      composed a treatise upon getting drunk.
-
-
-
-      I may just mention, however, that die I did not. My [[Body|body]] was, but
-
-      I had no breath to be, suspended; and but for the knot under my
-
-      left ear (which had the feel of a military stock) I dare say that
-
-      I should have experienced very little inconvenience. As for the
-
-      jerk given to my neck upon the falling of the drop, it merely

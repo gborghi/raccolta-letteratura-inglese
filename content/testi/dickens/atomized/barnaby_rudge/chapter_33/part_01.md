@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 33 (part 1)"
+title: "Barnaby Rudge — Chapter 33 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -109,12 +109,3 @@ difficulty in respiration (such as a carpenter meets with when he is
 planing and comes to a knot), neither of his companions was aware of the
 circumstance, until he met with one of these impediments and was obliged
 to try again.
-
-‘Johnny’s dropped off,’ said Mr Parkes in a whisper.
-
-‘Fast as a top,’ said Mr Cobb.
-
-Neither of them said any more until Mr Willet came to another knot--one
-of surpassing obduracy--which bade fair to throw him into convulsions,
-but which he got over at last without waking, by an effort quite
-superhuman.

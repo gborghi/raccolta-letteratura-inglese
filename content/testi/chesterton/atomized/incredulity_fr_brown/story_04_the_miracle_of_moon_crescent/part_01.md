@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The Miracle of [[Moon]] Crescent (part 1)"
+title: "incredulity Fr Brown — The Miracle of Moon Crescent (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -20,7 +20,7 @@ FOUR: The Miracle of [[Moon]] Crescent
 the things that happened there were romantic enough in their way. At
 least it had been an expression of that genuine element of sentiment -
 historic and almost heroic - which manages to remain side by side with
-commercialism in the elder cities on the eastern coast of [[america|America]]. It
+commercialism in the elder cities on the eastern coast of [[America]]. It
 was originally a curve of classical architecture really recalling that
 eighteenth - century atmosphere in which men like Washington and
 Jefferson had seemed to be all the more republicans for being
@@ -107,11 +107,3 @@ just now.'
 Mr Vandam seemed to feel that this was something like a polite
 dismissal; and his sallow, saturnine face suggested that he found a
 certain irony in the fact.
-
-'[[Well]], I suppose I must be going,' he said.
-
-'Very good of you to call, Mr Vandam,' said Wynd, politely; 'you will
-excuse my not coming out, as I've something here I must fix at once.
-Fenner,' he added to the secretary,' show Mr Vandam to his car, and
-don't come back again for half an hour. I've something here I want to
-work out by myself; after that I shall want you.'

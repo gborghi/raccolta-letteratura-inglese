@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 31"
+title: "Barnaby Rudge — Chapter 31"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -95,7 +95,7 @@ of distinction, which, as a regular customer, and one within the
 freemasonry of the trade, he had a right to claim.
 
 This [[Lion]] or landlord,--for he was called both man and beast, by reason
-of his having instructed the [[artist]] who painted his sign, to convey
+of his having instructed the [[Artist|artist]] who painted his sign, to convey
 into the features of the lordly brute whose effigy it bore, as near a
 counterpart of his own face as his skill could compass and devise,--was
 a gentleman almost as quick of apprehension, and of almost as subtle a

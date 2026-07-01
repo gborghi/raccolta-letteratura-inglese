@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 33 (part 2)"
+title: "Shirley — Chapter 33 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_33/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_33/part_03">part 03 ›</a></div>
 </nav>
 
+
+inspecting the state of matters in person. Mrs. Horsfall remained.
+
+
+
+Martin, master of the field now, extracted from his mother's work-basket
 
 a bunch of keys; with these he opened the sideboard cupboard, produced
 
@@ -345,33 +351,3 @@ The boy entered briskly.
 about. It is washing-day, and the maids are over the [[Crown|crown]] of the head
 
 in soap-suds in the back kitchen, so I asked her to step up."
-
-
-
-"Up here, sir?"
-
-
-
-"Up here, sir; but if you object, she shall go down again."
-
-
-
-"Is this a place or am I a person to bring a lady to, you absurd lad?"
-
-
-
-"No; so I'll take her off."
-
-
-
-"Martin, you will stay here. Who is she?"
-
-
-
-"Your grandmother from that château on the Scheldt Miss Moore talks
-
-about."
-
-
-
-"Martin," said the softest whisper at the door, "don't be foolish."

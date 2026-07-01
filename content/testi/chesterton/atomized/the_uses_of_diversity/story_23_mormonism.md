@@ -1,5 +1,5 @@
 ---
-title: "The Uses of Diversity — [[Mormonism]]"
+title: "The Uses of Diversity — Mormonism"
 author: "Chesterton"
 unitType: story
 parentWork: "works/the-uses-of-diversity-(chesterton)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-uses-of-diversity-(chesterton)">The Uses of Diversity</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_uses_of_diversity/story_22_questions_of_divorce">‹ Story 22 Questions of Divorce</a><a class="ex-next" href="/testi/chesterton/atomized/the_uses_of_diversity/story_24_pageants_and_dress">Story 24 Pageants and Dress ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_uses_of_diversity/story_22_questions_of_divorce_divorce">‹ Story 22 Questions of divorce Divorce</a><a class="ex-next" href="/testi/chesterton/atomized/the_uses_of_diversity/story_24_pageants_and_dress">Story 24 Pageants and Dress ›</a></div>
 </nav>
 
 

@@ -1,5 +1,5 @@
 ---
-title: "[[Sword]] (part 2)"
+title: "Sword (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/sword-(chesterton)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/sword/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/sword/part/part_03">part 03 ›</a></div>
 </nav>
 
+
+Tryon turned again to look back on his tracks; and this [[Time|time]] saw
+another figure more formidable than Jeremy with the wooden [[Sword|sword]].
 
 A tall, swaggering figure, almost black against the sunlight,
 was coming down the [[Road|road]] with a rapidity that almost amounted to a run.
@@ -117,17 +120,3 @@ Either the man thought he was fighting someone with a [[Sword|sword]]:
 in which case he was a very bad fencer.  Or else he knew he was
 fighting someone with a stick, in which case he was a very bad man:
 or (as the more timid modern phrase goes) a very bad sportsman.
-
-He acted suddenly in a way adapted to either case.  He introduced
-into his swordplay a stroke of single-stick, also learned at College,
-jerking his stick up so as to strike and jar the man's elbow; and then,
-before the arm could recover its nerve, smote the [[Sword|sword]] clean out of
-the hand.  A look at the man's black, bewildered expression was enough.
-Tryon was now quite certain the man's advantage had only been
-in his [[Sword|sword]].  He was also quite certain the man knew it.
-With all the rush of his released romanticism, which roared
-like the [[Wind|wind]], and rolled like the clouds, and blazed like the sun
-which he had thought to see no more, he sprang forward and pinned
-the man by the throat, with a shout of laughter.  Then he said,
-with more restrained [[Humour|humour]], what he had said to the little boy
-up the [[Road|road]].

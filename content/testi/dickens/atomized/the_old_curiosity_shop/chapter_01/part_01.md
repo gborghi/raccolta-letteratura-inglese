@@ -122,19 +122,3 @@ from what I could make out, that her very small and delicate frame
 imparted a peculiar youthfulness to her appearance. Though more
 scantily attired than she might have been she was dressed with perfect
 neatness, and betrayed no marks of [[Poverty|poverty]] or neglect.
-
-‘Who has sent you so far by yourself?’ said I.
-
-‘Someone who is very kind to me, sir.’
-
-‘And what have you been doing?’
-
-‘That, I must not tell,’ said the [[Child|child]] firmly.
-
-There was something in the manner of this reply which caused me to look
-at the little creature with an involuntary expression of surprise; for
-I wondered what kind of errand it might be that occasioned her to be
-prepared for questioning. Her quick eye seemed to read my thoughts, for
-as it met mine she added that there was no harm in what she had been
-doing, but it was a great secret--a secret which she did not even know
-herself.

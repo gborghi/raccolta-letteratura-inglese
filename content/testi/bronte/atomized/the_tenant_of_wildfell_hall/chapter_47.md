@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 47"
+title: "The Tenant of Wildfell Hall — Chapter 47"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -464,7 +464,7 @@ for?”
 
 
 
-“It is I, [[arthur|Arthur]]—it is [[Helen]], your wife,” I replied.
+“It is I, [[Arthur]]—it is [[Helen]], your wife,” I replied.
 
 
 
@@ -620,7 +620,7 @@ to unravel the mystery.
 
 
 
-“No, [[arthur|Arthur]], it was not [[A Dream|a dream]], that your conduct was such as to
+“No, [[Arthur]], it was not [[A Dream|a dream]], that your conduct was such as to
 
 oblige me to leave you; but I heard that you were ill and [[Alone|alone]], and I
 
@@ -744,7 +744,7 @@ All this may strike you as harsh, but I felt I must not lose my present
 
 advantage, and my son’s future welfare should not be sacrificed to any
 
-mistaken tenderness for this man’s feelings. Little [[arthur|Arthur]] had not
+mistaken tenderness for this man’s feelings. Little [[Arthur]] had not
 
 forgotten his father, but thirteen months of absence, during which he
 
@@ -762,7 +762,7 @@ countenance expressive of far more awe than pleasure.
 
 
 
-“Come here, [[arthur|Arthur]],” said the latter, extending his hand towards him.
+“Come here, [[Arthur]],” said the latter, extending his hand towards him.
 
 The [[Child|child]] went, and timidly touched that burning hand, but almost
 
@@ -802,7 +802,7 @@ darting a vindictive glance at me.
 
 
 
-[[arthur|Arthur]], thus released, crept back to me and put his hand in mine. His
+[[Arthur]], thus released, crept back to me and put his hand in mine. His
 
 father swore I had made the [[Child|child]] hate him, and abused and cursed me
 
@@ -1000,7 +1000,7 @@ get better if I stuck to his regimen and prescriptions.”
 
 
 
-“I [[Hope|hope]] you may, [[arthur|Arthur]]; but neither the doctor nor I can speak with
+“I [[Hope|hope]] you may, [[Arthur]]; but neither the doctor nor I can speak with
 
 certainty in such a case; there is internal injury, and it is difficult
 

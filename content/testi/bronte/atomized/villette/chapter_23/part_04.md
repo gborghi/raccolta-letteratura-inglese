@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 23 (part 4)"
+title: "Villette — Chapter 23 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,25 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_23/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_23/part_05">part 05 ›</a></div>
 </nav>
 
+
+That [[Night|night]] was already marked in my book of life, not with white, but
+with a deep-red [[Cross|cross]]. But I had not done with it yet; and other
+memoranda were destined to be set down in characters of tint indelible.
+
+Towards midnight, when the deepening [[Tragedy|tragedy]] blackened to the
+[[Death|death]]-scene, and all held their breath, and even Graham bit his
+under-lip, and knit his brow, and sat still and struck—when the whole
+theatre was hushed, when the vision of all eyes centred in one point,
+when all ears listened towards one quarter—nothing being seen but the
+white form sunk on a seat, quivering in conflict with her last, her
+worst-hated, her visibly-conquering foe—nothing heard but her throes,
+her gaspings, breathing yet of mutiny, panting still defiance; when, as
+it seemed, an inordinate will, convulsing a perishing mortal frame,
+bent it to battle with doom and [[Death|death]], fought every inch of ground,
+sold every drop of [[Blood|blood]], resisted to the latest the rape of every
+faculty, _would_ see, _would_ hear, _would_ breathe, _would_ live, up
+to, within, [[Well|well]]-nigh _beyond_ the moment when [[Death|death]] says to all sense
+and all being—“Thus far and no farther!”—
 
 Just then a stir, pregnant with omen, rustled behind the scenes—feet
 ran, voices spoke. What was it? demanded the whole [[house]]. A flame, a
@@ -130,30 +149,3 @@ drawing-room whose hearth glowed with an English [[Fire|fire]], and whose walls
 gleamed with foreign mirrors. Near the hearth appeared a little group:
 a slight form sunk in a deep arm-chair, one or two women busy about it,
 the iron-grey gentleman anxiously looking on.
-
-“Where is Harriet? I wish Harriet would come to me,” said the girlish
-voice, faintly.
-
-“Where is Mrs. Hurst?” demanded the gentleman impatiently and somewhat
-sternly of the man-servant who had admitted us.
-
-“I am sorry to say she is gone out of town, sir; my young lady gave her
-leave till to-morrow.”
-
-“Yes—I did—I did. She is gone to see her sister; I said she might go: I
-remember now,” interposed the young lady; “but I am so sorry, for Manon
-and Louison cannot understand a word I say, and they hurt me without
-meaning to do so.”
-
-Dr. John and the gentleman now interchanged greetings; and while they
-passed a few minutes in consultation, I approached the easy-chair, and
-seeing what the faint and sinking girl wished to have done, I did it
-for her.
-
-I was still occupied in the arrangement, when Graham drew near; he was
-no less skilled in surgery than medicine, and, on examination, found
-that no further advice than his own was necessary to the treatment of
-the present case. He ordered her to be carried to her chamber, and
-whispered to me:—“Go with the women, Lucy; they seem but dull; you can
-at least direct their movements, and thus spare her some [[Pain|pain]]. She must
-be touched very tenderly.”

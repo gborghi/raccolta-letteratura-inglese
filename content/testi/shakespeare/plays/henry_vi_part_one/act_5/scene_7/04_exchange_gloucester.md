@@ -1,5 +1,5 @@
 ---
-title: "[[Henry VI]] Part One — Act V, Scene 7 — exchange ([[Gloucester|GLOUCESTER]]) [4]"
+title: "Henry VI Part One — Act V, Scene 7 — exchange (GLOUCESTER) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/henry-vi-part-one-(shakespeare)"

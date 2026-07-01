@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 14: MY AUNT MAKES UP HER MIND ABOUT ME"
+title: "David Copperfield — Chapter 14: MY AUNT MAKES UP HER MIND ABOUT ME"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/david-copperfield-(dickens)"

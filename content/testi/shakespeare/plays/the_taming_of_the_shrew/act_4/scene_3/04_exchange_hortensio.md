@@ -1,5 +1,5 @@
 ---
-title: "The Taming of the Shrew — Act IV, Scene 3 — exchange ([[Hortensio|HORTENSIO]]) [4]"
+title: "The Taming of the Shrew — Act IV, Scene 3 — exchange (HORTENSIO) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-taming-of-the-shrew-(shakespeare)"

@@ -115,8 +115,3 @@ But, though the diplomatist’s debauch was barely over, his strange, soft [[Fea
 
 
 “And the other man?” inquired the officer, with knitted brow. “Do you suppose he has escaped?”
-
-
-
-
-“Theother man,” repeated Hibbs However, regarding the distant windmill through half-closed lids, as if this were a new fine shade introduced into an already delicate question.

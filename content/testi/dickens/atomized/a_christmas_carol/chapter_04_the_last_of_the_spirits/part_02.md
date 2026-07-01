@@ -1,5 +1,5 @@
 ---
-title: "A Christmas [[carol|Carol]] — Stave 4: THE LAST OF THE SPIRITS (part 2)"
+title: "A Christmas Carol — Stave 4: THE LAST OF THE SPIRITS (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-christmas-carol-(dickens)"

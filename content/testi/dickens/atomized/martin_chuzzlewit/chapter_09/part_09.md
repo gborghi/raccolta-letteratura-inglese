@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 9 (part 9)"
+title: "Martin Chuzzlewit — Chapter 9 (part 9)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,35 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_09/part_08">‹ part 08</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_09/part_10">part 10 ›</a></div>
 </nav>
 
+
+What saith Mr Pecksniff in reply? Or rather let the question be, What
+[[Leaves|leaves]] he unsaid? Nothing. More punch is called for, and produced, and
+drunk. Enthusiasm mounts still higher. Every man comes out freely in
+his own character. The gentleman of a theatrical turn recites. The vocal
+gentleman regales them with a [[Song|song]]. Gander [[Leaves|leaves]] the Gander of all
+former feasts whole leagues behind. HE rises to propose a toast. It is,
+The Father of Todgers’s. It is their common friend Jink--it is old
+Jink, if he may call him by that familiar and endearing appellation. The
+youngest gentleman in company utters a frantic negative. He won’t
+have it--he can’t bear it--it mustn’t be. But his depth of feeling is
+misunderstood. He is supposed to be a little elevated; and nobody heeds
+him.
+
+Mr Jinkins thanks them from his heart. It is, by many degrees, the
+proudest day in his humble career. When he looks around him on the
+present occasion, he feels that he wants words in which to express
+his gratitude. One thing he will say. He hopes it has been shown that
+Todgers’s can be true to itself; and that, an opportunity arising, it
+can come out quite as strong as its neighbours--perhaps stronger. He
+reminds them, amidst thunders of encouragement, that they have heard of
+a somewhat similar establishment in Cannon Street; and that they have
+heard it praised. He wishes to draw no invidious comparisons; he would
+be the last man to do it; but when that Cannon Street establishment
+shall be able to produce such a combination of wit and [[Beauty|beauty]] as has
+graced that board that day, and shall be able to serve up (all things
+considered) such a dinner as that of which they have just partaken, he
+will be happy to talk to it. Until then, gentlemen, he will stick to
+Todgers’s.
 
 More punch, more enthusiasm, more speeches. Everybody’s health is drunk,
 saving the youngest gentleman’s in company. He sits apart, with his
@@ -105,50 +134,3 @@ should notice us.’
 ‘For her sake,’ said Mr Pecksniff. ‘Permit me--in [[Honour|honour]] of her [[Memory|memory]].
 For the sake of a voice from the tomb. You are VERY like her Mrs
 Todgers! What a world this is!’
-
-‘Ah! Indeed you may say that!’ cried Mrs Todgers.
-
-‘I’m afraid it is a vain and thoughtless world,’ said Mr Pecksniff,
-overflowing with despondency. ‘These young people about us. Oh! what
-sense have they of their responsibilities? None. Give me your other
-hand, Mrs Todgers.’
-
-The lady hesitated, and said ‘she didn’t like.’
-
-‘Has a voice from the [[Grave|grave]] no influence?’ said Mr Pecksniff, with,
-dismal tenderness. ‘This is irreligious! My dear creature.’
-
-‘Hush!’ urged Mrs Todgers. ‘Really you mustn’t.’
-
-‘It’s not me,’ said Mr Pecksniff. ‘Don’t suppose it’s me; it’s the
-voice; it’s her voice.’
-
-Mrs Pecksniff deceased, must have had an unusually thick and husky voice
-for a lady, and rather a stuttering voice, and to say the [[Truth|truth]] somewhat
-of a drunken voice, if it had ever borne much resemblance to that in
-which Mr Pecksniff spoke just then. But perhaps this was delusion on his
-part.
-
-‘It has been a day of enjoyment, Mrs Todgers, but still it has been a
-day of torture. It has reminded me of my [[Loneliness|loneliness]]. What am I in the
-world?’
-
-‘An excellent gentleman, Mr Pecksniff,’ said Mrs Todgers.
-
-‘There is consolation in that too,’ cried Mr Pecksniff. ‘Am I?’
-
-‘There is no better man living,’ said Mrs Todgers, ‘I am sure.’
-
-Mr Pecksniff smiled through his [[Tears|tears]], and slightly shook his head. ‘You
-are very good,’ he said, ‘thank you. It is a great happiness to me, Mrs
-Todgers, to make young people happy. The happiness of my pupils is my
-chief object. I dote upon ‘em. They dote upon me too--sometimes.’
-
-‘Always,’ said Mrs Todgers.
-
-‘When they say they haven’t improved, ma’am,’ whispered Mr Pecksniff,
-looking at her with profound mystery, and motioning to her to advance
-her ear a little closer to his mouth. ‘When they say they haven’t
-improved, ma’am, and the premium was too high, they lie! I shouldn’t
-wish it to be mentioned; you will understand me; but I say to you as to
-an old friend, they lie.’

@@ -1,5 +1,5 @@
 ---
-title: "[[Romeo]] and [[Juliet]] — Act IV, Scene 4 — exchange ([[Nurse|NURSE]]) [2]"
+title: "Romeo and Juliet — Act IV, Scene 4 — exchange (NURSE) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/romeo-and-juliet-(shakespeare)"

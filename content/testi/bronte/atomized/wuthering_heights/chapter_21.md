@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 21"
+title: "Wuthering Heights — Chapter 21"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/wuthering-heights-(bronte)"
@@ -77,7 +77,7 @@ mistress’s [[Death|death]]. Her father invariably spent that day [[Alone|alone
 library; and walked, at dusk, as far as Gimmerton kirkyard, where he
 would frequently prolong his stay beyond midnight. Therefore Catherine
 was thrown on her own resources for amusement. This twentieth of March
-was a beautiful [[spring]] day, and when her father had retired, my young
+was a beautiful [[Spring|spring]] day, and when her father had retired, my young
 lady came down dressed for going out, and said she asked to have a
 ramble on the edge of the moor with me: Mr. Linton had given her leave,
 if we went only a short distance and were back within the hour.
@@ -329,7 +329,7 @@ nicely as you can.”
 
 He watched the couple walking past the [[Window|window]]. Earnshaw had his
 countenance completely averted from his companion. He seemed studying
-the familiar landscape with a stranger’s and an [[Artist|artist]]’s interest.
+the familiar landscape with a stranger’s and an [[artist]]’s interest.
 Catherine took a sly look at him, expressing small admiration. She then
 turned her attention to seeking out objects of amusement for herself,
 and tripped merrily on, lilting a tune to supply the lack of

@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 30 (part 4)"
+title: "Bleak House — Chapter 30 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -133,9 +133,3 @@ manner.
 Caddy, coaxing him, with her arms round his neck.
 
 “Never have a mission, my dear [[Child|child]].”
-
-Mr. Jellyby groaned and laid his head against the wall again, and
-this was the only [[Time|time]] I ever heard him make any approach to
-expressing his sentiments on the Borrioboolan question. I suppose he
-had been more talkative and lively once, but he seemed to have been
-completely exhausted long before I knew him.

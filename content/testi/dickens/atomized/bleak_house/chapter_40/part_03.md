@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 40 (part 3)"
+title: "Bleak House — Chapter 40 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,31 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_40/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_40/part_04">part 04 ›</a></div>
 </nav>
 
+
+“I regret to say, [[Volumnia]], that in many places the people have shown
+a bad spirit, and that this opposition to the [[government]] has been of
+a most determined and most implacable description.”
+
+“W-r-retches!” says [[Volumnia]].
+
+“Even,” proceeds Sir Leicester, glancing at the circumjacent cousins
+on sofas and ottomans, “even in many—in fact, in most—of those
+places in which the [[government]] has carried it against a faction—”
+
+(Note, by the way, that the Coodleites are always a faction with the
+Doodleites, and that the Doodleites occupy exactly the same position
+towards the Coodleites.)
+
+“—Even in them I am shocked, for the credit of Englishmen, to be
+constrained to inform you that the party has not triumphed without
+being put to an enormous expense. Hundreds,” says Sir Leicester,
+eyeing the cousins with increasing dignity and swelling indignation,
+“hundreds of thousands of pounds!”
+
+If [[Volumnia]] have a fault, it is the fault of being a trifle too
+[[Innocent|innocent]], seeing that the [[innocence]] which would go extremely [[Well|well]]
+with a sash and tucker is a little out of keeping with the rouge and
+pearl necklace. Howbeit, impelled by [[innocence]], she asks, “What for?”
 
 “[[Volumnia]],” remonstrates Sir Leicester with his utmost severity.
 “[[Volumnia]]!”
@@ -128,27 +153,3 @@ take cold at that open [[Window|window]]. My Lady is obliged to him, but would
 rather sit there for the air. Sir Leicester rises, adjusts her scarf
 about her, and returns to his seat. Mr. Tulkinghorn in the meanwhile
 takes a pinch of snuff.
-
-“Now,” says Sir Leicester. “How has that contest gone?”
-
-“Oh, hollow from the beginning. Not a chance. They have brought in
-both their people. You are beaten out of all reason. Three to one.”
-
-It is a part of Mr. Tulkinghorn’s policy and mastery to have no
-political opinions; indeed, NO opinions. Therefore he says “you” are
-beaten, and not “we.”
-
-Sir Leicester is majestically wroth. [[Volumnia]] never heard of such a
-thing. ‘The debilitated cousin holds that it’s sort of thing that’s
-sure tapn slongs votes—giv’n—Mob.
-
-“It’s the place, you know,” Mr. Tulkinghorn goes on to say in the
-fast-increasing darkness when there is [[Silence|silence]] again, “where they
-wanted to put up Mrs. Rouncewell’s son.”
-
-“A proposal which, as you correctly informed me at the [[Time|time]], he had
-the becoming taste and perception,” observes Sir Leicester, “to
-decline. I cannot say that I by any means approve of the sentiments
-expressed by Mr. Rouncewell when he was here for some half-hour in
-this room, but there was a sense of propriety in his decision which I
-am glad to acknowledge.”

@@ -1,5 +1,5 @@
 ---
-title: "[[AllThingsConsidered-8]] — CHRISTMAS (part 4)"
+title: "AllThingsConsidered-8 — CHRISTMAS (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/allthingsconsidered-8-(chesterton)"

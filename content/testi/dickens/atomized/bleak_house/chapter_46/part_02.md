@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 46 (part 2)"
+title: "Bleak House — Chapter 46 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_46/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_46/part_03">part 03 ›</a></div>
 </nav>
 
+
+“Why, I suppose so from the colour of the clay upon your bag and on
+your dress. And I know brickmakers go about working at piecework in
+different places. And I am sorry to say I have known them cruel to
+their wives too.”
 
 The woman hastily lifts up her eyes as if she would deny that her
 injury is referable to such a cause. But feeling the hand upon her
@@ -135,16 +140,3 @@ for one of them to unravel the [[Riddle|riddle]].
 along with me, sir, down at Saint Albans, ill, and a young lady, Lord
 bless her for a good friend to me, took pity on him when I durstn’t,
 and took him [[Home|home]]—”
-
-Allan shrinks back from him with a sudden horror.
-
-“Yes, sir, yes. Took him [[Home|home]], and made him comfortable, and like a
-thankless [[Monster|monster]] he ran away in the [[Night|night]] and never has been seen or
-heard of since till I set eyes on him just now. And that young lady
-that was such a pretty dear caught his illness, lost her beautiful
-looks, and wouldn’t hardly be known for the same young lady now if it
-wasn’t for her angel temper, and her pretty shape, and her sweet
-voice. Do you know it? You ungrateful wretch, do you know that this
-is all along of you and of her goodness to you?” demands the woman,
-beginning to rage at him as she recalls it and breaking into
-passionate [[Tears|tears]].

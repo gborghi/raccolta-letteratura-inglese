@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 5 (part 1)"
+title: "Jane Eyre — Chapter 5 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -137,7 +137,3 @@ drawing-room at Gateshead, but comfortable enough. I was puzzling to
 make out the subject of a picture on the wall, when the door opened,
 and an individual carrying a light entered; another followed close
 behind.
-
-The first was a tall lady with dark hair, dark eyes, and a pale and
-large forehead; her figure was partly enveloped in a shawl, her
-countenance was [[Grave|grave]], her bearing erect.

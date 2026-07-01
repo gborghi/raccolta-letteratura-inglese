@@ -609,7 +609,7 @@ In artistic sensibilities, and even in social sympathies (at least,
 of a certain kind), I think there has been a quickening and a response.
 I think it probable that the number of people who can rapidly get
 used to a foreign fashion or style of ornament, who can guess what
-an eccentric [[artist]] is driving at, who can feel the emotions evoked
+an eccentric [[Artist|artist]] is driving at, who can feel the emotions evoked
 by unusual music, is larger than it was in mid-Victorian times.
 But these things do not appeal to the intellect.  And I think they
 appeal to the modern mood because they do not appeal to the intellect.
@@ -1498,7 +1498,7 @@ That is the [[Truth|truth]]; and that is Trollope's unconscious
 witness to what the Whigs really did in English [[history]];
 why they were able to overthrow the Stuarts; why they were able
 to dominate the common traditional Tories like Dr. Thorne.
-What the Revolution did was obviously not to establish a [[Democracy|democracy]];
+What the Revolution did was obviously not to establish a [[democracy]];
 not even to establish a normal and national gentry; not even to
 establish a mere rustic squirearchy.  It was to establish certain
 great magnates, whose wealth and power was far out of proportion
@@ -2952,7 +2952,7 @@ or gambolling [[dogs]].  But he would be out of the picture called
 `The Derby Day', by Frith.  That picture contains considerable variety;
 but it does not contain the Knight of The Canterbury Tales.
 For `The Derby Day' was painted at that midnight moment of art when
-even the [[artist]] did not think that the world he saw was artistic.
+even the [[Artist|artist]] did not think that the world he saw was artistic.
 This unnatural sense of ugliness is so much our immediate inheritance
 that there are ordinary words that have never recovered from it.
 The very word `hat' has a hazy air of farce about it;
@@ -3431,7 +3431,7 @@ Charlie Chaplin as any medieval Italians by meeting Petrarch.
 But though they might be cheering without jeering, they would
 be cheering somebody who jeers:  who jeers admirably at himself
 and this wicked world.  Nobody can expect that sort of popular
-[[artist]] to wear a laurel round his remarkable bowler hat.
+[[Artist|artist]] to wear a laurel round his remarkable bowler hat.
 But it has been possible, and it will be possible again,
 for the public to rejoice seriously, and even solemnly.
 In those older days the very word `solemn' went with the word `joyous';
@@ -4048,7 +4048,7 @@ in itself to depress any imaginative and sympathetic mind.
 On the contrary, such a mind ought to perceive that there is something
 of the same mystery or majesty in the mob as in the monument.
 It is a weakness to fail in feeling that a statue standing on a
-pedestal above a street, the statue of a [[Hero|hero]], carved by an [[artist]],
+pedestal above a street, the statue of a [[Hero|hero]], carved by an [[Artist|artist]],
 for the [[Honour|honour]] and glory of a [[City|city]], is, so far as it goes,
 a marvellous and impressive work of man.  But it is far more
 of a weakness to fail in feeling that a hundred statues walking

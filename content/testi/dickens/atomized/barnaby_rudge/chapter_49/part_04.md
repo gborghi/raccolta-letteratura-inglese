@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 49 (part 4)"
+title: "Barnaby Rudge — Chapter 49 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,23 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_49/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_50/part_01">part 01 ›</a></div>
 </nav>
 
+
+The word of command to halt being given, the soldiers formed across the
+street; the rioters, breathless and exhausted with their late exertions,
+formed likewise, though in a very irregular and disorderly manner. The
+commanding officer rode hastily into the open space between the two
+bodies, accompanied by a magistrate and an officer of the [[house|House]] of
+Commons, for whose accommodation a couple of troopers had hastily
+dismounted. The Riot Act was read, but not a man stirred.
+
+In the first rank of the insurgents, Barnaby and Hugh stood side by
+side. Somebody had thrust into Barnaby’s hands when he came out into the
+street, his precious [[Flag|flag]]; which, being now rolled up and tied round
+the pole, looked like a giant quarter-staff as he grasped it firmly and
+stood upon his guard. If ever man believed with his whole heart and [[Soul|soul]]
+that he was engaged in a just cause, and that he was bound to stand by
+his leader to the last, poor Barnaby believed it of himself and Lord
+George Gordon.
 
 After an ineffectual attempt to make himself heard, the magistrate gave
 the word and the [[Horse]] Guards came riding in among the crowd. But, even

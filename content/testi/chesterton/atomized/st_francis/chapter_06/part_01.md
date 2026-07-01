@@ -16,9 +16,7 @@ tags:
 
 CHAPTER VI
 
-
 THE LITTLE POOR MAN
-
 
 From that cavern, that was a furnace of glowing gratitude
 and [[Humility|humility]], there came forth one of the strongest and strangest

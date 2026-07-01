@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities — Chapter 1 (part 1)"
+title: "A Tale of Two Cities — Chapter 2 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-tale-of-two-cities-(dickens)"
@@ -10,112 +10,147 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/a-tale-of-two-cities-(dickens)">A Tale of Two Cities</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_06/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_08/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_07/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_08/part_02">part 02 ›</a></div>
 </nav>
 
 
-CHAPTER I.
-Five Years Later
+CHAPTER II.
+A Sight
 
 
-Tellson’s Bank by Temple Bar was an old-fashioned place, even in the
-year one thousand seven hundred and eighty. It was very small, very
-dark, very ugly, very incommodious. It was an old-fashioned place,
-moreover, in the moral attribute that the partners in the [[house|House]] were
-proud of its smallness, proud of its darkness, proud of its ugliness,
-proud of its incommodiousness. They were even boastful of its eminence
-in those particulars, and were fired by an express conviction that, if
-it were less objectionable, it would be less respectable. This was
-no passive belief, but an active weapon which they flashed at more
-convenient places of business. Tellson’s (they said) wanted
-no elbow-room, Tellson’s wanted no light, Tellson’s wanted no
-embellishment. Noakes and Co.’s might, or Snooks Brothers’ might; but
-Tellson’s, thank Heaven--!
+“You know the Old Bailey [[Well|well]], no [[Doubt|doubt]]?” said one of the oldest of
+clerks to Jerry the messenger.
 
-Any one of these partners would have disinherited his son on the
-question of rebuilding Tellson’s. In this respect the [[house|House]] was much
-on a par with the Country; which did very often disinherit its sons for
-suggesting improvements in laws and customs that had long been highly
-objectionable, but were only the more respectable.
+“Ye-es, sir,” returned Jerry, in something of a dogged manner. “I _do_
+know the Bailey.”
 
-Thus it had come to pass, that Tellson’s was the triumphant perfection
-of inconvenience. After bursting open a door of idiotic obstinacy with
-a weak rattle in its throat, you fell into Tellson’s down two steps,
-and came to your senses in a miserable little shop, with two little
-counters, where the oldest of men made your cheque shake as if the
-[[Wind|wind]] rustled it, while they examined the signature by the dingiest of
-windows, which were always under a shower-bath of mud from Fleet-street,
-and which were made the dingier by their own iron bars proper, and the
-heavy [[Shadow|shadow]] of Temple Bar. If your business necessitated your seeing
-“the [[house|House]],” you were put into a species of Condemned Hold at the back,
-where you meditated on a misspent life, until the [[house|House]] came with its
-hands in its pockets, and you could hardly blink at it in the dismal
-twilight. Your money came out of, or went into, wormy old wooden
-drawers, particles of which flew up your nose and down your throat when
-they were opened and shut. Your bank-notes had a musty odour, as if they
-were fast decomposing into rags again. Your plate was stowed away among
-the neighbouring cesspools, and evil communications corrupted its good
-polish in a day or two. Your deeds got into extemporised strong-rooms
-made of kitchens and sculleries, and fretted all the fat out of their
-parchments into the banking-[[house]] air. Your lighter boxes of family
-papers went up-stairs into a Barmecide room, that always had a great
-dining-table in it and never had a dinner, and where, even in the year
-one thousand seven hundred and eighty, the first letters written to you
-by your old [[Love|love]], or by your little children, were but newly released
-from the horror of being ogled through the windows, by the heads
-exposed on Temple Bar with an insensate brutality and ferocity worthy of
-Abyssinia or Ashantee.
+“Just so. And you know Mr. Lorry.”
 
-But indeed, at that [[Time|time]], putting to [[Death|death]] was a recipe much in vogue
-with all trades and professions, and not least of all with Tellson’s.
-[[Death]] is [[Nature]]’s remedy for all things, and why not Legislation’s?
-Accordingly, the forger was put to [[Death]]; the utterer of a bad note
-was put to [[Death]]; the unlawful opener of a letter was put to [[Death]]; the
-purloiner of forty shillings and sixpence was put to [[Death]]; the holder
-of a [[Horse|horse]] at Tellson’s door, who made off with it, was put to
-[[Death]]; the coiner of a bad shilling was put to [[Death]]; the sounders of
-three-fourths of the notes in the whole gamut of Crime, were put to
-[[Death]]. Not that it did the least good in the way of prevention--it
-might almost have been worth remarking that the fact was exactly the
-reverse--but, it cleared off (as to this world) the trouble of each
-particular case, and left nothing else connected with it to be looked
-after. Thus, Tellson’s, in its day, like greater places of business,
-its contemporaries, had taken so many lives, that, if the heads laid
-low before it had been ranged on Temple Bar instead of being privately
-disposed of, they would probably have excluded what little light the
-ground floor had, in a rather significant manner.
+“I know Mr. Lorry, sir, much better than I know the Bailey. Much
+better,” said Jerry, not unlike a reluctant witness at the establishment
+in question, “than I, as a honest tradesman, wish to know the Bailey.”
 
-Cramped in all kinds of dim cupboards and hutches at Tellson’s, the
-oldest of men carried on the business gravely. When they took a young
-man into Tellson’s [[London]] [[house]], they hid him somewhere till he was
-old. They kept him in a dark place, like a [[cheese]], until he had the full
-Tellson flavour and blue-mould upon him. Then only was he permitted to
-be seen, spectacularly poring over large books, and casting his breeches
-and gaiters into the general weight of the establishment.
+“Very [[Well|well]]. Find the door where the witnesses go in, and show the
+door-keeper this note for Mr. Lorry. He will then let you in.”
 
-Outside Tellson’s--never by any means in it, unless called in--was an
-odd-job-man, an occasional porter and messenger, who served as the live
-sign of the [[house]]. He was never absent during business hours, unless
-upon an errand, and then he was represented by his son: a grisly urchin
-of twelve, who was his express image. People understood that Tellson’s,
-in a stately way, tolerated the odd-job-man. The [[house]] had always
-tolerated some person in that capacity, and [[Time|time]] and tide had drifted
-this person to the post. His surname was Cruncher, and on the youthful
-occasion of his renouncing by proxy the works of darkness, in the
-easterly parish church of Hounsditch, he had received the added
-appellation of Jerry.
+“Into the [[Court|court]], sir?”
 
-The scene was Mr. Cruncher’s private lodging in Hanging-[[Sword|sword]]-alley,
-Whitefriars: the [[Time|time]], half-past seven of the [[Clock|clock]] on a windy March
-morning, Anno Domini seventeen hundred and eighty. (Mr. Cruncher himself
-always spoke of the year of our Lord as Anna Dominoes: apparently under
-the impression that the Christian era dated from the invention of a
-popular game, by a lady who had bestowed her name upon it.)
+“Into the [[Court|court]].”
 
-Mr. Cruncher’s apartments were not in a savoury neighbourhood, and were
-but two in number, even if a closet with a single pane of glass in it
-might be counted as one. But they were very decently kept. Early as
-it was, on the windy March morning, the room in which he lay abed was
-already scrubbed throughout; and between the cups and saucers arranged
-for breakfast, and the lumbering deal table, a very clean white cloth
-was spread.
+Mr. Cruncher’s eyes seemed to get a little closer to one another, and to
+interchange the inquiry, “What do you think of this?”
+
+“Am I to wait in the [[Court|court]], sir?” he asked, as the result of that
+conference.
+
+“I am going to tell you. The door-keeper will pass the note to Mr.
+Lorry, and do you make any gesture that will attract Mr. Lorry’s
+attention, and show him where you stand. Then what you have to do, is,
+to remain there until he wants you.”
+
+“Is that all, sir?”
+
+“That’s all. He wishes to have a messenger at hand. This is to tell him
+you are there.”
+
+As the ancient clerk deliberately folded and superscribed the note,
+Mr. Cruncher, after surveying him in [[Silence|silence]] until he came to the
+blotting-paper stage, remarked:
+
+“I suppose they’ll be trying Forgeries this morning?”
+
+“Treason!”
+
+“That’s quartering,” said Jerry. “Barbarous!”
+
+“It is the law,” remarked the ancient clerk, turning his surprised
+spectacles upon him. “It is the law.”
+
+“It’s hard in the law to spile a man, I think. It’s hard enough to kill
+him, but it’s wery hard to spile him, sir.”
+
+“Not at all,” retained the ancient clerk. “Speak [[Well|well]] of the law. Take
+care of your chest and voice, my good friend, and leave the law to take
+care of itself. I give you that advice.”
+
+“It’s the damp, sir, what settles on my chest and voice,” said Jerry. “I
+leave you to judge what a damp way of earning a living mine is.”
+
+“[[Well]], [[Well|well]],” said the old clerk; “we all have our various ways of
+gaining a livelihood. Some of us have damp ways, and some of us have dry
+ways. Here is the letter. Go along.”
+
+Jerry took the letter, and, remarking to himself with less internal
+deference than he made an outward show of, “You are a lean old one,
+too,” made his bow, informed his son, in passing, of his destination,
+and went his way.
+
+They hanged at Tyburn, in those days, so the street outside Newgate had
+not obtained one infamous notoriety that has since attached to it.
+But, the gaol was a vile place, in which most kinds of debauchery and
+villainy were practised, and where dire diseases were bred, that came
+into [[Court|court]] with the prisoners, and sometimes rushed straight from the
+dock at my [[Lord Chief Justice]] himself, and pulled him off the bench. It
+had more than once happened, that the Judge in the black cap pronounced
+his own doom as certainly as the prisoner’s, and even died before him.
+For the rest, the Old Bailey was famous as a kind of deadly inn-yard,
+from which pale travellers set out continually, in carts and coaches, on
+a violent passage into the other world: traversing some two miles and a
+half of public street and [[Road|road]], and shaming few good citizens, if any.
+So powerful is use, and so desirable to be good use in the beginning. It
+was famous, too, for the pillory, a wise old institution, that inflicted
+a punishment of which no one could foresee the extent; also, for
+the whipping-post, another dear old institution, very humanising and
+softening to behold in action; also, for extensive transactions in
+[[Blood|blood]]-money, another [[Fragment|fragment]] of ancestral wisdom, systematically
+leading to the most frightful mercenary crimes that could be committed
+under Heaven. Altogether, the Old Bailey, at that date, was a choice
+illustration of the precept, that “Whatever is is right;” an [[Aphorism|aphorism]]
+that would be as final as it is lazy, did it not include the troublesome
+consequence, that nothing that ever was, was wrong.
+
+Making his way through the tainted crowd, dispersed up and down this
+hideous scene of action, with the skill of a man accustomed to make his
+way quietly, the messenger found out the door he sought, and handed in
+his letter through a trap in it. For, people then paid to see the play
+at the Old Bailey, just as they paid to see the play in Bedlam--only the
+former entertainment was much the dearer. Therefore, all the Old Bailey
+doors were [[Well|well]] guarded--except, indeed, the social doors by which the
+criminals got there, and those were always left wide open.
+
+After some delay and demur, the door grudgingly turned on its hinges a
+very little way, and allowed Mr. [[Jerry Cruncher]] to squeeze himself into
+[[Court|court]].
+
+“What’s on?” he asked, in a whisper, of the man he found himself next
+to.
+
+“Nothing yet.”
+
+“What’s coming on?”
+
+“The Treason case.”
+
+“The quartering one, eh?”
+
+“Ah!” returned the man, with a relish; “he’ll be drawn on a hurdle to
+be half hanged, and then he’ll be taken down and sliced before his own
+face, and then his inside will be taken out and burnt while he looks on,
+and then his head will be chopped off, and he’ll be cut into quarters.
+That’s the sentence.”
+
+“If he’s found Guilty, you mean to say?” Jerry added, by way of proviso.
+
+“Oh! they’ll find him guilty,” said the other. “Don’t you be afraid of
+that.”
+
+Mr. Cruncher’s attention was here diverted to the door-keeper, whom he
+saw making his way to Mr. Lorry, with the note in his hand. Mr. Lorry
+sat at a table, among the gentlemen in wigs: not far from a wigged
+gentleman, the prisoner’s counsel, who had a great bundle of papers
+before him: and nearly opposite another wigged gentleman with his hands
+in his pockets, whose whole attention, when Mr. Cruncher looked at him
+then or afterwards, seemed to be concentrated on the ceiling of the
+[[Court|court]]. After some gruff coughing and rubbing of his chin and signing
+with his hand, Jerry attracted the notice of Mr. Lorry, who had stood up
+to look for him, and who quietly nodded and sat down again.

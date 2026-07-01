@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 26 (part 3)"
+title: "Dombey and Son — Chapter 54 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,141 +14,121 @@ tags:
 </nav>
 
 
-The Major, under cover of the dimness, swelled, and swelled, and rolled
-his purple face about, and winked his lobster eye, until he fell into a
-fit of wheezing, which obliged him to rise and take a turn or two about
-the room, before his fair friend could proceed.
+“I have no [[Doubt|doubt]], Ma’am,” he replied, “that you have kept a good
+account, and that it’s pretty accurate. Come, Edith. To your husband,
+poor wretch, this was [[Well|well]] enough—”
 
-“Mr Dombey,” said Mrs Skewton, when she at length resumed, “was
-obliging enough, now many weeks ago, to do us the [[Honour|honour]] of visiting us
-here; in company, my dear Major, with yourself. I acknowledge—let me be
-open—that it is my failing to be the creature of impulse, and to wear
-my heart as it were, outside. I know my failing full [[Well|well]]. My enemy
-cannot know it better. But I am not penitent; I would rather not be
-frozen by the heartless world, and am content to bear this imputation
-justly.”
+“Why, if,” she said, surveying him with a haughty contempt and disgust,
+that he shrunk under, let him brave it as he would, “if all my other
+reasons for despising him could have been blown away like feathers, his
+having you for his counsellor and favourite, would have almost been
+enough to hold their place.”
 
-Mrs Skewton arranged her tucker, pinched her wiry throat to give it a
-soft surface, and went on, with great complacency.
+“Is that a reason why you have run away with me?” he asked her,
+tauntingly.
 
-“It gave me (my dearest Edith too, I am sure) infinite pleasure to
-receive Mr Dombey. As a friend of yours, my dear Major, we were
-naturally disposed to be prepossessed in his favour; and I fancied that
-I observed an amount of Heart in Mr Dombey, that was excessively
-refreshing.”
+“Yes, and why we are face to face for the last [[Time|time]]. Wretch! We meet
+tonight, and part tonight. For not one moment after I have ceased to
+speak, will I stay here!”
 
-“There is devilish little heart in Dombey now, Ma’am,” said the Major.
+He turned upon her with his ugliest look, and gripped the table with
+his hand; but neither [[Rose|rose]], nor otherwise answered or threatened her.
 
-“Wretched man!” cried Mrs Skewton, looking at him languidly, “pray be
-silent.”
+“I am a woman,” she said, confronting him steadfastly, “who from her
+[[Childhood|childhood]] has been shamed and steeled. I have been offered and
+rejected, put up and appraised, until my very [[Soul|soul]] has sickened. I have
+not had an accomplishment or grace that might have been a resource to
+me, but it has been paraded and vended to enhance my value, as if the
+common crier had called it through the streets. My poor, proud friends,
+have looked on and approved; and every tie between us has been deadened
+in my breast. There is not one of them for whom I care, as I could care
+for a pet dog. I stand [[Alone|alone]] in the world, remembering [[Well|well]] what a
+hollow world it has been to me, and what a hollow part of it I have
+been myself. You know this, and you know that my fame with it is
+worthless to me.”
 
-“J. B. is dumb, Ma’am,” said the Major.
+“Yes; I imagined that,” he said.
 
-“Mr Dombey,” pursued [[Cleopatra]], smoothing the rosy hue upon her cheeks,
-“accordingly repeated his visit; and possibly finding some attraction
-in the simplicity and primitiveness of our tastes—for there is always a
-charm in [[Nature|nature]]—it is so very sweet—became one of our little circle
-every evening. Little did I think of the awful responsibility into
-which I plunged when I encouraged Mr Dombey—to”—
+“And calculated on it,” she rejoined, “and so pursued me. Grown too
+indifferent for any opposition but indifference, to the daily working
+of the hands that had moulded me to this; and knowing that my [[Marriage|marriage]]
+would at least prevent their hawking of me up and down; I suffered
+myself to be sold, as infamously as any woman with a halter round her
+neck is sold in any market-place. You know that.”
 
-“To beat up these quarters, Ma’am,” suggested [[Major Bagstock]].
+“Yes,” he said, showing all his teeth “I know that.”
 
-“Coarse person!” said Mrs Skewton, “you anticipate my meaning, though
-in odious language.”
+“And calculated on it,” she rejoined once more, “and so pursued me.
+From my [[Marriage|marriage]] day, I found myself exposed to such new shame—to such
+solicitation and pursuit (expressed as clearly as if it had been
+written in the coarsest words, and thrust into my hand at every turn)
+from one mean [[Villain|villain]], that I felt as if I had never known humiliation
+till that [[Time|time]]. This shame my husband fixed upon me; hemmed me round
+with, himself; steeped me in, with his own hands, and of his own act,
+repeated hundreds of times. And thus—forced by the two from every point
+of rest I had—forced by the two to yield up the last retreat of [[Love|love]]
+and gentleness within me, or to be a new misfortune on its [[Innocent|innocent]]
+object—driven from each to each, and beset by one when I escaped the
+other—my anger [[Rose|rose]] almost to distraction against both. I do not know
+against which it [[Rose|rose]] higher—the master or the man!”
 
-Here Mrs Skewton rested her elbow on the little table at her side, and
-[[Suffering|suffering]] her wrist to droop in what she considered a graceful and
-becoming manner, dangled her fan to and fro, and lazily admired her
-hand while speaking.
+He watched her closely, as she stood before him in the very triumph of
+her indignant [[Beauty|beauty]]. She was resolute, he saw; undauntable; with no
+more [[Fear|fear]] of him than of a worm.
 
-“The agony I have endured,” she said mincingly, “as the [[Truth|truth]] has by
-degrees dawned upon me, has been too exceedingly terrific to dilate
-upon. My whole existence is bound up in my sweetest Edith; and to see
-her change from day to day—my beautiful pet, who has positively
-garnered up her heart since the [[Death|death]] of that most delightful creature,
-Granger—is the most affecting thing in the world.”
+“What should I say of [[Honour|honour]] or of chastity to you!” she went on. “What
+meaning would it have to you; what meaning would it have from me! But
+if I tell you that the lightest touch of your hand makes my [[Blood|blood]] cold
+with antipathy; that from the hour when I first saw and hated you, to
+now, when my instinctive repugnance is enhanced by every minute’s
+knowledge of you I have since had, you have been a loathsome creature
+to me which has not its like on earth; how then?”
 
-Mrs Skewton’s world was not a very trying one, if one might judge of it
-by the influence of its most affecting circumstance upon her; but this
-by the way.
+He answered with a faint laugh, “Ay! How then, my [[Queen|queen]]?”
 
-“Edith,” simpered Mrs Skewton, “who is the perfect pearl of my life, is
-said to resemble me. I believe we are alike.”
+“On that [[Night|night]], when, emboldened by the scene you had assisted at, you
+dared come to my room and speak to me,” she said, “what passed?”
 
-“There is one man in the world who never will admit that anyone
-resembles you, Ma’am,” said the Major; “and that man’s name is Old Joe
-Bagstock.”
+He shrugged his shoulders, and laughed
 
-[[Cleopatra]] made as if she would brain the flatterer with her fan, but
-relenting, smiled upon him and proceeded:
+“What passed?” she said.
 
-“If my charming girl inherits any advantages from me, wicked one!”: the
-Major was the wicked one: “she inherits also my foolish [[Nature|nature]]. She has
-great force of character—mine has been said to be immense, though I
-don’t believe it—but once moved, she is susceptible and sensitive to
-the last extent. What are my feelings when I see her pining! They
-destroy me.
+“Your [[Memory|memory]] is so distinct,” he said, “that I have no [[Doubt|doubt]] you can
+recall it.”
 
-The Major advancing his [[Double|double]] chin, and pursing up his blue lips into
-a soothing expression, affected the profoundest sympathy.
+“I can,” she said. “Hear it! Proposing then, this flight—not this
+flight, but the flight you thought it—you told me that in the having
+given you that meeting, and leaving you to be discovered there, if you
+so thought fit; and in the having suffered you to be [[Alone|alone]] with me many
+times before,—and having made the opportunities, you said,—and in the
+having openly avowed to you that I had no feeling for my husband but
+aversion, and no care for myself—I was lost; I had given you the power
+to traduce my name; and I lived, in virtuous reputation, at the
+pleasure of your breath.”
 
-“The confidence,” said Mrs Skewton, “that has subsisted between us—the
-free development of [[Soul|soul]], and openness of sentiment—is touching to
-think of. We have been more like sisters than Mama and [[Child|child]].”
+“All stratagems in [[Love|love]]—-” he interrupted, smiling. “The old adage—”
 
-“J. B.“s own sentiment,” observed the Major, “expressed by J. B. fifty
-thousand times!”
+“On that [[Night|night]],” said Edith, “and then, the struggle that I long had
+had with something that was not respect for my good fame—that was I
+know not what—perhaps the clinging to that last retreat—was ended. On
+that [[Night|night]], and then, I turned from everything but passion and
+resentment. I struck a blow that laid your lofty master in the [[Dust|dust]],
+and set you there, before me, looking at me now, and knowing what I
+mean.”
 
-“Do not interrupt, rude man!” said [[Cleopatra]]. “What are my feelings,
-then, when I find that there is one subject avoided by us! That there
-is a what’s-his-name—a gulf—opened between us. That my own artless
-Edith is changed to me! They are of the most poignant description, of
-course.”
+He sprung up from his chair with a great oath. She put her hand into
+her bosom, and not a finger trembled, not a hair upon her head was
+stirred. He stood still: she too: the table and chair between them.
 
-The Major left his chair, and took one nearer to the little table.
-
-“From day to day I see this, my dear Major,” proceeded Mrs Skewton.
-“From day to day I feel this. From hour to hour I reproach myself for
-that excess of [[Faith|faith]] and trustfulness which has led to such distressing
-consequences; and almost from minute to minute, I [[Hope|hope]] that Mr Dombey
-may explain himself, and relieve the torture I undergo, which is
-extremely wearing. But nothing happens, my dear Major; I am the slave
-of remorse—take care of the coffee-cup: you are so very awkward—my
-darling Edith is an altered being; and I really don’t see what is to be
-done, or what good creature I can advise with.”
-
-[[Major Bagstock]], encouraged perhaps by the softened and confidential
-tone into which Mrs Skewton, after several times lapsing into it for a
-moment, seemed now to have subsided for good, stretched out his hand
-across the little table, and said with a leer,
-
-“Advise with Joe, Ma’am.”
-
-“Then, you aggravating [[Monster|monster]],” said [[Cleopatra]], giving one hand to the
-Major, and tapping his knuckles with her fan, which she held in the
-other: “why don’t you talk to me? you know what I mean. Why don’t you
-tell me something to the purpose?”
-
-The Major laughed, and kissed the hand she had bestowed upon him, and
-laughed again immensely.
-
-“Is there as much Heart in Mr Dombey as I gave him credit for?”
-languished [[Cleopatra]] tenderly. “Do you think he is in earnest, my dear
-Major? Would you recommend his being spoken to, or his being left
-[[Alone|alone]]? Now tell me, like a dear man, what would you advise.”
-
-“Shall we marry him to [[Edith Granger]], Ma’am?” chuckled the Major,
-hoarsely.
-
-“Mysterious creature!” returned [[Cleopatra]], bringing her fan to bear
-upon the Major’s nose. “How can we marry him?”
-
-“Shall we marry him to [[Edith Granger]], Ma’am, I say?” chuckled the Major
-again.
-
-Mrs Skewton returned no answer in words, but smiled upon the Major with
-so much archness and vivacity, that that gallant officer considering
-himself challenged, would have imprinted a kiss on her exceedingly red
-lips, but for her interposing the fan with a very winning and juvenile
-dexterity. It might have been in modesty; it might have been in
-apprehension of some danger to their bloom.
+“When I forget that this man put his lips to mine that [[Night|night]], and held
+me in his arms as he has done again tonight,” said Edith, pointing at
+him; “when I forget the taint of his kiss upon my cheek—the cheek that
+Florence would have laid her guiltless face against—when I forget my
+meeting with her, while that taint was hot upon me, and in what a flood
+the knowledge rushed upon me when I saw her, that in releasing her from
+the persecution I had caused by my [[Love|love]], I brought a shame and
+degradation on her name through mine, and in all [[Time|time]] to come should be
+the solitary figure representing in her mind her first avoidance of a
+guilty creature—then, Husband, from whom I stand divorced henceforth, I
+will forget these last two years, and undo what I have done, and
+undeceive you!”

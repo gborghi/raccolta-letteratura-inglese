@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 18 (part 3)"
+title: "Nicholas Nickleby — Chapter 18 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -135,18 +135,3 @@ greatly disturbed by the sound.
 
 ‘Hush!’ replied Miss Knag; ‘a most [[Melancholy|melancholy]] [[history]]. He was once most
 devotedly attached to--hem--to Madame Mantalini.’
-
-‘Bless me!’ exclaimed Mrs. Nickleby.
-
-‘Yes,’ continued Miss Knag, ‘and received great encouragement too,
-and confidently hoped to marry her. He has a most romantic heart,
-Mrs. Nickleby, as indeed--hem--as indeed all our family have, and the
-disappointment was a dreadful blow. He is a wonderfully accomplished
-man--most extraordinarily accomplished--reads--hem--reads every [[Novel|novel]]
-that comes out; I mean every [[Novel|novel]] that--hem--that has any fashion in
-it, of course. The fact is, that he did find so much in the books he
-read, applicable to his own misfortunes, and did find himself in every
-respect so much like the heroes--because of course he is conscious of
-his own superiority, as we all are, and very naturally--that he took to
-scorning everything, and became a genius; and I am quite sure that he
-is, at this very present moment, writing another book.’

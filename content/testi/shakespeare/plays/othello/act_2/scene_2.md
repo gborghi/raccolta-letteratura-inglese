@@ -1,5 +1,5 @@
 ---
-title: "[[Othello]] — Act II, Scene 2"
+title: "Othello — Act II, Scene 2"
 author: "Shakespeare"
 unitType: scene
 parentWork: "works/othello-(shakespeare)"

@@ -137,23 +137,3 @@ speech that, after the meeting, he walked out with a
 wild eye to the motor car, which had been long awaiting
 him, the chauffeur giving some faint signs of
 relief.
-
-"Toward [[Home|home]], for the present," said the poet, and
-stared at the [[Moon|moon]] with an inspired face.
-
-He was very fond of motoring, finding it fed him
-with inspirations; and he had been doing it from an
-early hour that morning, having enjoyed a slightly
-lessened [[Sleep|sleep]].  He had scarcely spoken to anybody
-until he spoke to the cultured crowd at Ivywood.  He
-did not wish to speak to anyone for many hours yet.
-His ideas were racing.  He had thrown on a fur
-coat over his velvet jacket, but he let it fly open, having
-long forgotten the coldness in the splendour of the
-moonstruck [[Night|night]].  He realised only two things: the
-swiftness of his car and the swiftness of his thoughts.
-He felt, as it were, a fury of omniscience; he seemed
-flying with every bird that sped or spun above the
-woods, with every squirrel that had leapt and tumbled
-within them, with every tree that had swung under
-and sustained the blast.

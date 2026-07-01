@@ -1,5 +1,5 @@
 ---
-title: "[[Agnes Grey]] — Chapter 3 (part 1)"
+title: "Agnes Grey — Chapter 3 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/agnes-grey-(bronte)"
@@ -135,12 +135,3 @@ doesn’t specify what!”
 Nothing more was said; and I was very glad to get out of the room with
 my pupils; for I never felt so ashamed and uncomfortable in my life for
 anything that was not my own fault.
-
-In the afternoon we applied to lessons again: then went out again; then
-had tea in the schoolroom; then I dressed Mary Ann for dessert; and
-when she and her brother had gone down to the dining-room, I took the
-opportunity of beginning a letter to my dear friends at [[Home|home]]: but the
-children came up before I had half completed it. At seven I had to put
-Mary Ann to bed; then I played with Tom till eight, when he, too, went;
-and I finished my letter and unpacked my clothes, which I had hitherto
-found no opportunity for doing, and, finally, went to bed myself.

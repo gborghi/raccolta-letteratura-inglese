@@ -1,5 +1,5 @@
 ---
-title: "[[divorce|Divorce]] [[Democracy]] (part 1)"
+title: "Divorce Democracy (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/divorce-democracy-(chesterton)"
@@ -77,18 +77,17 @@ and their plot has failed.
 
 + + +
 
-[[divorce|DIVORCE]] VERSUS [[Democracy|DEMOCRACY]]
-
+[[divorce|DIVORCE]] VERSUS [[democracy|DEMOCRACY]]
 
 On this question of [[divorce]] I do not profess to be impartial,
 for I have never perceived any intelligent meaning in the word.
 I merely (and most modestly) profess to be right.  I also profess
 to be representative:  that is, democratic.  Now, one may believe
-in [[Democracy|democracy]] or disbelieve in it.  It would be grossly unfair
+in [[democracy]] or disbelieve in it.  It would be grossly unfair
 to conceal the fact that there are difficulties on both sides.
-The difficulty of believing in [[Democracy|democracy]] is that it is so hard to believe--
+The difficulty of believing in [[democracy]] is that it is so hard to believe--
 like God and most other good things.  The difficulty of disbelieving
-in [[Democracy|democracy]] is that there is nothing else to believe in.
+in [[democracy]] is that there is nothing else to believe in.
 I mean there is nothing else on earth or in earthly politics.
 Unless an aristocracy is selected by gods, it must be selected by men.
 It may be negatively and passively permitted, but either heaven
@@ -98,11 +97,11 @@ or "[[Nature]]'s Aristocracy" or "The Wise Few."  "The Wise Few"
 must be either those whom others think wise--who are often fools;
 or those who think themselves wise--who are always fools.
 
-[[Well]], if one happens to believe in [[Democracy|democracy]] as I do, as a large
+[[Well]], if one happens to believe in [[democracy]] as I do, as a large
 trust in the active and passive judgment of the human [[Conscience|conscience]],
 one can have no hesitation, no "impartiality," about one's view
 of [[divorce]]; and especially about one's view of the extension
-of [[divorce]] among the [[Democracy|democracy]].  A democrat in any sense must
+of [[divorce]] among the [[democracy]].  A democrat in any sense must
 regard that extension as the last and vilest of the insults offered
 by the modern rich to the modern poor.  The rich do largely
 believe in [[divorce]]; the poor do mainly believe in fidelity.
@@ -114,10 +113,10 @@ I think it is [[Time|time]] to kick.
 There is one enormous and elementary objection to the popularising of
 [[divorce]], which comes before any consideration of the [[Nature|nature]] of [[Marriage|marriage]].
 It is like an alphabet in letters too large to be seen.  It is this:
-That even if the [[Democracy|democracy]] approved of [[divorce]] as strongly and deeply
-as the [[Democracy|democracy]] does (in fact--disapprove of it--any man of common
+That even if the [[democracy]] approved of [[divorce]] as strongly and deeply
+as the [[democracy]] does (in fact--disapprove of it--any man of common
 sense must know that nowadays the thing will be worked probably
-against the [[Democracy|democracy]], but quite certainly by the plutocracy.
+against the [[democracy]], but quite certainly by the plutocracy.
 People seem to forget that in a society where power goes with
 wealth and where wealth is in an extreme state of inequality,
 extending the powers of the law means something entirely different

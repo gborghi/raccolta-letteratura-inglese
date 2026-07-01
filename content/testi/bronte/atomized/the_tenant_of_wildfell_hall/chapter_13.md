@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 13"
+title: "The Tenant of Wildfell Hall — Chapter 13"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -326,7 +326,7 @@ day; for, as I approached, I beheld, at no great distance, Mrs. Graham
 
 and her son coming down in the opposite direction. They saw me; and
 
-[[arthur|Arthur]] already was running to meet me; but I immediately turned back
+[[Arthur]] already was running to meet me; but I immediately turned back
 
 and walked steadily homeward; for I had fully determined never to
 

@@ -14,6 +14,15 @@ tags:
 </nav>
 
 
+‘Very polite and attentive, I am sure!’ exclaimed Sir Joseph.  ‘My lady,
+the Alderman is so obliging as to remind me that he has had “the
+distinguished [[Honour|honour]]”—he is very good—of meeting me at the [[house]] of our
+mutual friend Deedles, the banker; and he does me the favour to inquire
+whether it will be agreeable to me to have [[Will Fern]] put down.’
+
+‘_Most_ agreeable!’ replied my Lady Bowley.  ‘The worst man among them!
+He has been committing a robbery, I [[Hope|hope]]?’
+
 ‘Why no,’ said Sir Joseph’, referring to the letter.  ‘Not quite.  Very
 near.  Not quite.  He came up to [[London]], it seems, to look for employment
 (trying to better himself—that’s his story), and being found at [[Night|night]]
@@ -128,9 +137,3 @@ would ring immediately; and that they sounded to his fancy, at such a
 deliver the Alderman’s letter, and get out of the way before they began;
 for he dreaded to hear them tagging ‘Friends and Fathers, Friends and
 Fathers,’ to the burden they had rung out last.
-
-Toby discharged himself of his commission, therefore, with all possible
-[[Speed|speed]], and set off trotting homeward.  But what with his pace, which was
-at best an awkward one in the street; and what with his hat, which didn’t
-improve it; he trotted against somebody in less than no [[Time|time]], and was
-sent staggering out into the [[Road|road]].

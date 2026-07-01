@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 49 (part 3)"
+title: "Sense and Sensibility — Chapter 49 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_49/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_49/part_04">part 04 ›</a></div>
 </nav>
 
+
+_did_, and he said it very prettily. What he might say on the subject a
+
+twelvemonth after, must be referred to the [[Imagination|imagination]] of husbands and
+
+wives.
+
+
+
+That Lucy had certainly meant to deceive, to go off with a flourish of
+
+malice against him in her message by Thomas, was perfectly clear to
+
+Elinor; and Edward himself, now thoroughly enlightened on her
+
+character, had no scruple in believing her capable of the utmost
 
 meanness of wanton ill-[[Nature|nature]]. Though his eyes had been long opened,
 
@@ -203,23 +219,3 @@ About four days after Edward’s arrival [[Colonel Brandon]] appeared, to
 complete Mrs. Dashwood’s satisfaction, and to give her the dignity of
 
 having, for the first [[Time|time]] since her living at Barton, more company
-
-with her than her [[house]] would hold. Edward was allowed to retain the
-
-privilege of first comer, and [[Colonel Brandon]] therefore walked every
-
-[[Night|night]] to his old quarters at the Park; from whence he usually returned
-
-in the morning, early enough to interrupt the [[lovers]]’ first tête-à-tête
-
-before breakfast.
-
-
-
-A three weeks’ residence at Delaford, where, in his evening hours at
-
-least, he had little to do but to calculate the disproportion between
-
-thirty-six and seventeen, brought him to Barton in a temper of mind
-
-which needed all the improvement in Marianne’s looks, all the kindness

@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 35 (part 3)"
+title: "Oliver Twist — Chapter 35 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_35/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_37/part_01">part 01 ›</a></div>
 </nav>
 
+
+“I could,” said [[Rose]]. “Stay!” she added, disengaging her hand, “why
+should we prolong this painful interview? Most painful to me, and yet
+productive of lasting happiness, notwithstanding; for it _will_ be
+happiness to know that I once held the high place in your regard which
+I now occupy, and every triumph you achieve in life will animate me
+with new fortitude and firmness. Farewell, Harry! As we have met
+today, we meet no more; but in other relations than those in which
+this conversation have placed us, we may be long and happily entwined;
+and may every blessing that the prayers of a true and earnest heart can
+call down from the source of all [[Truth|truth]] and sincerity, cheer and prosper
+you!”
 
 “Another word, [[Rose]],” said Harry. “Your reason in your own words. From
 your own lips, let me hear it!”

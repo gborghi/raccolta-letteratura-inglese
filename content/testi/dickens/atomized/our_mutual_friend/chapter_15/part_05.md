@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 10 (part 5)"
+title: "Our Mutual Friend — Chapter 11 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,142 +10,134 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_15/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_16/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_15/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_15/part_06">part 06 ›</a></div>
 </nav>
 
 
-‘Again there are two sides to the question, Mrs Lammle. What do you
-pretend to believe?’
+At length the procession was dissolved by the violent arrival of a
+nutmeg, before which the drawing-room door bounced open as if it were a
+cannon-ball; and while that fragrant article, dispersed through several
+glasses of coloured warm [[Water|water]], was going the round of society, Miss
+Podsnap returned to her seat by her new friend.
 
-‘So you first deceive me and then insult me!’ cries the lady, with a
-heaving bosom.
+‘Oh my goodness,’ said Miss Podsnap. ‘THAT’S over! I [[Hope|hope]] you didn’t
+look at me.’
 
-‘Not at all. I have originated nothing. The [[Double|double]]-edged question was
-yours.’
+‘My dear, why not?’
 
-‘Was mine!’ the bride repeats, and her parasol breaks in her angry hand.
+‘Oh I know all about myself,’ said Miss Podsnap.
 
-His colour has turned to a livid white, and ominous marks have come to
-light about his nose, as if the finger of the very devil himself had,
-within the last few moments, touched it here and there. But he has
-repressive power, and she has none.
+‘I’ll tell you something I know about you, my dear,’ returned Mrs Lammle
+in her winning way, ‘and that is, you are most unnecessarily shy.’
 
-‘Throw it away,’ he coolly recommends as to the parasol; ‘you have made
-it useless; you look ridiculous with it.’
+‘Ma ain’t,’ said Miss Podsnap. ‘—I detest you! Go along!’ This shot
+was levelled under her breath at the gallant Grompus for bestowing an
+insinuating smile upon her in passing.
 
-Whereupon she calls him in her rage, ‘A deliberate [[Villain|villain]],’ and so
-casts the broken thing from her as that it strikes him in falling. The
-finger-marks are something whiter for the instant, but he walks on at
-her side.
+‘Pardon me if I scarcely see, my dear Miss Podsnap,’ Mrs Lammle was
+beginning when the young lady interposed.
 
-She bursts into [[Tears|tears]], declaring herself the wretchedest, the most
-deceived, the worst-used, of women. Then she says that if she had
-the [[Courage|courage]] to kill herself, she would do it. Then she calls him vile
-impostor. Then she asks him, why, in the disappointment of his base
-speculation, he does not take her life with his own hand, under the
-present favourable circumstances. Then she cries again. Then she is
-enraged again, and makes some mention of swindlers. Finally, she sits
-down crying on a block of stone, and is in all the known and unknown
-humours of her sex at once. Pending her changes, those aforesaid marks
-in his face have come and gone, now here now there, like white steps
-of a pipe on which the diabolical performer has played a tune. Also his
-livid lips are parted at last, as if he were breathless with running.
-Yet he is not.
+‘If we are going to be real friends (and I suppose we are, for you are
+the only person who ever proposed it) don’t let us be awful. It’s awful
+enough to BE Miss Podsnap, without being called so. Call me Georgiana.’
 
-‘Now, get up, Mrs Lammle, and let us speak reasonably.’
+‘Dearest Georgiana,’ Mrs Lammle began again.
 
-She sits upon her stone, and takes no heed of him.
+‘Thank you,’ said Miss Podsnap.
 
-‘Get up, I tell you.’
+‘Dearest Georgiana, pardon me if I scarcely see, my [[Love|love]], why your
+mamma’s not being shy, is a reason why you should be.’
 
-Raising her head, she looks contemptuously in his face, and repeats,
-‘You tell me! Tell me, forsooth!’
+‘Don’t you really see that?’ asked Miss Podsnap, plucking at her fingers
+in a troubled manner, and furtively casting her eyes now on Mrs Lammle,
+now on the ground. ‘Then perhaps it isn’t?’
 
-She affects not to know that his eyes are fastened on her as she droops
-her head again; but her whole figure reveals that she knows it uneasily.
+‘My dearest Georgiana, you defer much too readily to my poor opinion.
+Indeed it is not even an opinion, darling, for it is only a confession
+of my dullness.’
 
-‘Enough of this. Come! Do you hear? Get up.’
+‘Oh YOU are not dull,’ returned Miss Podsnap. ‘I am dull, but you
+couldn’t have made me talk if you were.’
 
-Yielding to his hand, she rises, and they walk again; but this [[Time|time]] with
-their faces turned towards their place of residence.
+Some little touch of [[Conscience|conscience]] answering this perception of her having
+gained a purpose, called bloom enough into Mrs Lammle’s face to make it
+look brighter as she sat smiling her best smile on her dear Georgiana,
+and shaking her head with an affectionate playfulness. Not that it meant
+anything, but that Georgiana seemed to like it.
 
-‘Mrs Lammle, we have both been deceiving, and we have both been
-deceived. We have both been biting, and we have both been bitten. In a
-nut-shell, there’s the state of the case.’
+‘What I mean is,’ pursued Georgiana, ‘that Ma being so endowed with
+awfulness, and Pa being so endowed with awfulness, and there being
+so much awfulness everywhere—I mean, at least, everywhere where I
+am—perhaps it makes me who am so deficient in awfulness, and frightened
+at it—I say it very badly—I don’t know whether you can understand what
+I mean?’
 
-‘You sought me out—’
+‘Perfectly, dearest Georgiana!’ Mrs Lammle was proceeding with every
+reassuring wile, when the head of that young lady suddenly went back
+against the wall again and her eyes closed.
 
-‘Tut! Let us have done with that. WE know very [[Well|well]] how it was. Why
-should you and I talk about it, when you and I can’t disguise it? To
-proceed. I am disappointed and cut a poor figure.’
+‘Oh there’s Ma being awful with somebody with a glass in his eye! Oh I
+know she’s going to bring him here! Oh don’t bring him, don’t bring him!
+Oh he’ll be my partner with his glass in his eye! Oh what shall I do!’
+This [[Time|time]] Georgiana accompanied her ejaculations with taps of her feet
+upon the floor, and was altogether in quite a desperate condition. But,
+there was no escape from the majestic Mrs Podsnap’s production of an
+ambling stranger, with one eye screwed up into extinction and the other
+framed and glazed, who, having looked down out of that organ, as if he
+descried Miss Podsnap at the [[Bottom|bottom]] of some perpendicular shaft, brought
+her to the surface, and ambled off with her. And then the captive at the
+piano played another ‘set,’ expressive of his mournful aspirations after
+[[Freedom|freedom]], and other sixteen went through the former [[Melancholy|melancholy]] motions,
+and the ambler took Miss Podsnap for a furniture walk, as if he had
+struck out an entirely original conception.
 
-‘Am I no one?’
+In the mean [[Time|time]] a stray personage of a meek demeanour, who had wandered
+to the hearthrug and got among the heads of tribes assembled there in
+conference with Mr Podsnap, eliminated Mr Podsnap’s flush and
+flourish by a highly unpolite remark; no less than a reference to the
+circumstance that some half-dozen people had lately died in the streets,
+of starvation. It was clearly ill-timed after dinner. It was not adapted
+to the cheek of the young person. It was not in good taste.
 
-‘Some one—and I was coming to you, if you had waited a moment. You,
-too, are disappointed and cut a poor figure.’
+‘I don’t believe it,’ said Mr Podsnap, putting it behind him.
 
-‘An injured figure!’
+The meek man was afraid we must take it as proved, because there were
+the Inquests and the Registrar’s returns.
 
-‘You are now cool enough, Sophronia, to see that you can’t be injured
-without my being equally injured; and that therefore the mere word is
-not to the purpose. When I look back, I [[Wonder|wonder]] how I can have been such
-a [[Fool|fool]] as to take you to so great an extent upon trust.’
+‘Then it was their own fault,’ said Mr Podsnap.
 
-‘And when I look back—’ the bride cries, interrupting.
+Veneering and other elders of tribes commended this way out of it. At
+once a short cut and a broad [[Road|road]].
 
-‘And when you look back, you [[Wonder|wonder]] how you can have been—you’ll excuse
-the word?’
+The man of meek demeanour intimated that truly it would seem from
+the facts, as if starvation had been forced upon the culprits in
+question—as if, in their wretched manner, they had made their weak
+protests against it—as if they would have taken the liberty of staving
+it off if they could—as if they would rather not have been starved upon
+the whole, if perfectly agreeable to all parties.
 
-‘Most certainly, with so much reason.’
+‘There is not,’ said Mr Podsnap, flushing angrily, ‘there is not a
+country in the world, sir, where so noble a provision is made for the
+poor as in this country.’
 
-‘—Such a [[Fool|fool]] as to take ME to so great an extent upon trust. But the
-folly is committed on both sides. I cannot get rid of you; you cannot
-get rid of me. What follows?’
+The meek man was quite willing to concede that, but perhaps it
+rendered the matter even worse, as showing that there must be something
+appallingly wrong somewhere.
 
-‘Shame and misery,’ the bride bitterly replies.
+‘Where?’ said Mr Podsnap.
 
-‘I don’t know. A mutual understanding follows, and I think it may carry
-us through. Here I split my discourse (give me your arm, Sophronia),
-into three heads, to make it shorter and plainer. Firstly, it’s enough
-to have been done, without the mortification of being known to have been
-done. So we agree to keep the fact to ourselves. You agree?’
+The meek man hinted Wouldn’t it be [[Well|well]] to try, very seriously, to find
+out where?
 
-‘If it is possible, I do.’
+‘Ah!’ said Mr Podsnap. ‘Easy to say somewhere; not so easy to say
+where! But I see what you are driving at. I knew it from the first.
+Centralization. No. Never with my consent. Not English.’
 
-‘Possible! We have pretended [[Well|well]] enough to one another. Can’t we,
-united, pretend to the world? Agreed. Secondly, we owe the Veneerings
-a grudge, and we owe all other people the grudge of wishing them to be
-taken in, as we ourselves have been taken in. Agreed?’
+An approving murmur arose from the heads of tribes; as saying, ‘There
+you have him! Hold him!’
 
-‘Yes. Agreed.’
-
-‘We come smoothly to thirdly. You have called me an adventurer,
-Sophronia. So I am. In plain uncomplimentary English, so I am. So are
-you, my dear. So are many people. We agree to keep our own secret, and
-to work together in furtherance of our own schemes.’
-
-‘What schemes?’
-
-‘Any scheme that will bring us money. By our own schemes, I mean our
-joint interest. Agreed?’
-
-She answers, after a little hesitation, ‘I suppose so. Agreed.’
-
-‘Carried at once, you see! Now, Sophronia, only half a dozen words more.
-We know one another perfectly. Don’t be tempted into twitting me with
-the past knowledge that you have of me, because it is identical with
-the past knowledge that I have of you, and in twitting me, you
-twit yourself, and I don’t want to hear you do it. With this good
-understanding established between us, it is better never done. To [[Wind|wind]]
-up all:—You have shown temper today, Sophronia. Don’t be betrayed into
-doing so again, because I have a Devil of a temper myself.’
-
-So, the happy pair, with this hopeful [[Marriage|marriage]] contract thus signed,
-sealed, and delivered, repair homeward. If, when those infernal
-finger-marks were on the white and breathless countenance of Alfred
-Lammle, Esquire, they denoted that he conceived the purpose of subduing
-his dear wife Mrs Alfred Lammle, by at once divesting her of any
-lingering reality or pretence of [[Self|self]]-respect, the purpose would seem
-to have been presently executed. The mature young lady has mighty little
-need of powder, now, for her downcast face, as he escorts her in the
-light of the setting sun to their abode of bliss.
+He was not aware (the meek man submitted of himself) that he was driving
+at any ization. He had no favourite ization that he knew of. But he
+certainly was more staggered by these terrible occurrences than he was
+by names, of howsoever so many syllables. Might he ask, was dying of
+destitution and neglect necessarily English?

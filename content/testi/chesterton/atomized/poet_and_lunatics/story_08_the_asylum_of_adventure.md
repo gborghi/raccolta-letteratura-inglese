@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/poet-and-lunatics-(chesterton)">Poet and Lunatics</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/poet_and_lunatics/story_07_the_purple_jewel">‹ Story 07 THE PURPLE JEWEL</a><a class="ex-next" href="/testi/chesterton/atomized/poet_and_lunatics/story_01_the_fantastic_friends/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/poet_and_lunatics/story_07_the_purple_jewel_jewel">‹ Story 07 THE PURPLE Jewel JEWEL</a><a class="ex-next" href="/testi/chesterton/atomized/poet_and_lunatics/story_01_the_fantastic_friends/part_01">part 01 ›</a></div>
 </nav>
 
 

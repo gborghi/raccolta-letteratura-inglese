@@ -1,5 +1,5 @@
 ---
-title: "[[The Purloined Letter]] (part 4)"
+title: "The Purloined Letter (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-purloined-letter-(poe)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_purloined_letter/part/part_03">‹ part 03</a><a class="ex-next" href="/testi/poe/atomized/the_purloined_letter/part/part_05">part 05 ›</a></div>
 </nav>
 
+
+      I was astounded. The Prefect appeared absolutely
+      thunder-stricken. For some minutes he remained speechless and
+      motionless, looking incredulously at my friend with open mouth,
+      and eyes that seemed starting from their sockets; then,
+      apparently recovering himself in some measure, he seized a pen,
+      and after several pauses and vacant stares, finally filled up and
+      signed a check for fifty thousand francs, and handed it across
+      the table to Dupin. The latter examined it carefully and
+      deposited it in his pocket-book; then, unlocking an escritoire,
+      took thence a letter and gave it to the Prefect. This functionary
+      grasped it in a perfect agony of joy, opened it with a trembling
+      hand, cast a rapid glance at its contents, and then, scrambling
+      and struggling to the door, rushed at length unceremoniously from
+      the room and from the [[house]], without having uttered a syllable
+      since Dupin had requested him to fill up the check.
 
       When he had gone, my friend entered into some explanations.
 

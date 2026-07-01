@@ -27,7 +27,7 @@ for this is akin to what has already been said about Jerusalem as a
 knot of realities.  It is especially a knot of popular realities.
 Although it is so small a place, or rather because it is so
 small a place, it is a domain and a dominion for the masses.
-[[Democracy]] is never quite democratic except when it is quite direct;
+[[democracy|Democracy]] is never quite democratic except when it is quite direct;
 and it is never quite direct except when it is quite small.
 So soon as a mob has grown large enough to have delegates it has
 grown large enough to have despots; indeed the despots are often
@@ -113,7 +113,7 @@ It is these masses whom we ought to consider everywhere; but it
 is especially these masses whom we must consider in Jerusalem.
 And the reason is in the reality I have described; that the place
 is like a Greek [[City|city]] or a medieval parish; it is sufficiently
-small and simple to be a [[Democracy|democracy]].  This is not a university town
+small and simple to be a [[democracy]].  This is not a university town
 full of philosophies; it is a Zion of the hundred sieges raging
 with religions; not a place where resolutions can be voted and amended,
 but a place where men can be crowned and crucified.

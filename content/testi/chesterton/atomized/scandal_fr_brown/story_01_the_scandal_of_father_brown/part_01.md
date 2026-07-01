@@ -1,5 +1,5 @@
 ---
-title: "scandal Fr Brown — The Scandal of [[Father Brown]] (part 1)"
+title: "scandal Fr Brown — The Scandal of Father Brown (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/scandal-fr-brown-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 ONE: The Scandal of [[Father Brown]]
-
 
 It would not be fair to record the adventures of [[Father Brown]], without
 admitting that he was once involved in a [[Grave|grave]] scandal. There still are

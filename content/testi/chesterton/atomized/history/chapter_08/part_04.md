@@ -1,5 +1,5 @@
 ---
-title: "[[history]] — Chapter 8 (part 4)"
+title: "history — Chapter 8 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/history-(chesterton)"
@@ -39,7 +39,7 @@ became the sceptre.  Blake, in one of his symbolic fantasies,
 suggests that in the [[Golden Age]] the gold and gems should be taken
 from the hilt of the [[Sword|sword]] and put upon the handle of the plough.
 But something very like this did happen in the interlude of this
-mediaeval [[Democracy|democracy]], fermenting under the crust of mediaeval
+mediaeval [[democracy]], fermenting under the crust of mediaeval
 monarchy and aristocracy; where productive implements often
 took on the pomp of heraldry.  The Guilds often exhibited
 emblems and pageantry so compact of their most prosaic uses,

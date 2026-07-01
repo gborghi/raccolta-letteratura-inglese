@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]] — Celts and Celtophiles"
+title: "heret12 — Celts and Celtophiles"
 author: "Chesterton"
 unitType: story
 parentWork: "works/heret12-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 XIII.  Celts and Celtophiles
-
 
 Science in the modern world has many uses; its chief use, however,
 is to provide long words to cover the errors of the rich.

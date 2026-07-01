@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 47: FORTY SEVEN (part 3)"
+title: "Martin Chuzzlewit — Chapter 47: FORTY SEVEN (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,25 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_47_forty_seven/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_47_forty_seven/part_04">part 04 ›</a></div>
 </nav>
 
+
+What had he left within the wood, that he sprang out of it as if it were
+a hell!
+
+The [[Body|body]] of a murdered man. In one thick solitary spot, it lay among
+the last year’s [[Leaves|leaves]] of oak and beech, just as it had fallen headlong
+down. Sopping and soaking in among the [[Leaves|leaves]] that formed its pillow;
+oozing down into the boggy ground, as if to cover itself from human
+sight; forcing its way between and through the curling [[Leaves|leaves]], as if
+those senseless things rejected and forswore it and were coiled up in
+abhorrence; went a dark, dark stain that dyed the whole [[Summer|summer]] [[Night|night]]
+from earth to heaven.
+
+The doer of this deed came leaping from the wood so fiercely, that he
+cast into the air a shower of fragments of young boughs, torn away
+in his passage, and fell with violence upon the grass. But he quickly
+gained his feet again, and keeping underneath a hedge with his [[Body|body]]
+bent, went running on towards the [[Road|road]]. The [[Road|road]] once reached, he fell
+into a rapid walk, and set on toward [[London]].
 
 And he was not sorry for what he had done. He was frightened when he
 thought of it--when did he not think of it!--but he was not sorry. He
@@ -105,23 +124,3 @@ comparatively safe because it had not been discovered yet. Yet! When the
 sun which looked into the wood, and gilded with its rising light a dead
 man’s lace, had seen that man alive, and sought to win him to a thought
 of Heaven, on its going down last [[Night|night]]!
-
-But here were [[London]] streets again. Hush!
-
-It was but five o’[[Clock|clock]]. He had [[Time|time]] enough to reach his own [[house]]
-unobserved, and before there were many people in the streets, if nothing
-had happened so far, tending to his discovery. He slipped down from
-the coach without troubling the driver to stop his horses; and hurrying
-across the [[Road|road]], and in and out of every by-way that lay near his
-course, at length approached his own dwelling. He used additional
-caution in his immediate neighbourhood; halting first to look all
-down the street before him; then gliding swiftly through that one, and
-stopping to survey the next, and so on.
-
-The passage-way was empty when his murderer’s face looked into it. He
-stole on, to the door on tiptoe, as if he dreaded to disturb his own
-imaginary rest.
-
-He listened. Not a sound. As he turned the key with a trembling hand,
-and pushed the door softly open with his knee, a monstrous [[Fear|fear]] beset
-his mind.

@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 43 (part 1)"
+title: "Bleak House — Chapter 43 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -135,6 +135,3 @@ simplicity. But you shall see him in his own [[Home|home]], and then you’ll
 understand him better. We must pay a visit to [[Harold Skimpole]] and
 caution him on these points. Lord bless you, my dears, an infant, an
 infant!”
-
-In pursuance of this plan, we went into [[London]] on an early day and
-presented ourselves at Mr. Skimpole’s door.

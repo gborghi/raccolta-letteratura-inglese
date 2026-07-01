@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 18 (part 3)"
+title: "The Tenant of Wildfell Hall — Chapter 18 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -12,6 +12,26 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/the-tenant-of-wildfell-hall-(bronte)">The Tenant of Wildfell Hall</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_18/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_18/part_04">part 04 ›</a></div>
 </nav>
+
+
+I made a desperate effort to free my hand from his grasp.
+
+
+
+“Why are you in such a hurry to leave me, [[Helen]]?” he said, with a smile
+
+of the most provoking [[Self-Sufficiency|self-sufficiency]]. “You don’t hate me, you
+
+_know_.”
+
+
+
+“Yes, I do—at this moment.”
+
+
+
+“Not you. It is Annabella Wilmot you hate, not me.”
+
 
 
 “I have nothing to do with Annabella Wilmot,” said I, burning with
@@ -152,7 +172,7 @@ By the bright azure of the sky, and by the warm and brilliant lights
 
 and deep long shadows, I had endeavoured to convey the idea of a sunny
 
-morning. I had ventured to give more of the bright verdure of [[spring]] or
+morning. I had ventured to give more of the bright verdure of [[Spring|spring]] or
 
 early [[Summer|summer]] to the grass and foliage than is commonly attempted in
 
@@ -202,24 +222,4 @@ set himself before my picture.
 
 “Very pretty, i’[[Faith|faith]],” said he, after attentively regarding it for a
 
-few seconds; “and a very fitting study for a young lady. [[spring|Spring]] just
-
-opening into [[Summer|summer]]—morning just approaching [[Noon|noon]]—girlhood just
-
-ripening into womanhood, and [[Hope|hope]] just verging on fruition. She’s a
-
-sweet creature! but why didn’t you make her black hair?”
-
-
-
-“I thought light hair would suit her better. You see I have made her
-
-blue-eyed and plump, and fair and rosy.”
-
-
-
-“Upon my word—a very Hebe! I should fall in [[Love|love]] with her if I hadn’t
-
-the [[Artist|artist]] before me. Sweet [[Innocent|innocent]]! she’s thinking there will come a
-
-[[Time|time]] when she will be wooed and won like that pretty hen-dove by as
+few seconds; “and a very fitting study for a young lady. [[Spring]] just

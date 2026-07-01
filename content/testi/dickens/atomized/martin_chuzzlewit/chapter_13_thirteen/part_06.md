@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 13: THIRTEEN (part 6)"
+title: "Martin Chuzzlewit — Chapter 13: THIRTEEN (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,27 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_13_thirteen/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_13_thirteen/part_07">part 07 ›</a></div>
 </nav>
 
+
+It is an illustration of a very common tendency in the mind of man, that
+all this [[Time|time]] he never once doubted, one may almost say the certainty
+of doing great things in the New World, if he could only get there.
+In proportion as he became more and more dejected by his present
+circumstances, and the means of gaining [[america|America]] receded from his grasp,
+the more he fretted himself with the conviction that that was the only
+place in which he could [[Hope|hope]] to achieve any high end, and worried his
+brain with the thought that men going there in the meanwhile might
+anticipate him in the attainment of those objects which were dearest to
+his heart. He often thought of John Westlock, and besides looking out
+for him on all occasions, actually walked about [[London]] for three days
+together for the express purpose of meeting with him. But although he
+failed in this; and although he would not have scrupled to borrow money
+of him; and although he believed that John would have lent it; yet still
+he could not bring his mind to write to Pinch and inquire where he was
+to be found. For although, as we have seen, he was fond of Tom after
+his own fashion, he could not endure the thought (feeling so superior to
+Tom) of making him the stepping-stone to his fortune, or being anything
+to him but a patron; and his [[Pride|pride]] so revolted from the idea that it
+restrained him even now.
 
 It might have yielded, however; and no [[Doubt|doubt]] must have yielded soon, but
 for a very strange and unlooked-for occurrence.
@@ -101,44 +122,3 @@ sir, and was forced to leave in consequence of a want of jollity, sir.’
 I’m not mistaken; and when I was a-looking in at the beef-and-ham shop
 just now, along with a hungry sweep, as was very much calculated to make
 a man jolly, sir--I see you a-buying that.’
-
-Martin reddened as he pointed to the table, and said, somewhat hastily:
-
-‘[[Well]]! What then?’
-
-‘Why, then, sir,’ said Mark, ‘I made bold to foller; and as I told ‘em
-downstairs that you expected me, I was let up.’
-
-‘Are you charged with any message, that you told them you were
-expected?’ inquired Martin.
-
-‘No, sir, I an’t,’ said Mark. ‘That was what you may call a pious fraud,
-sir, that was.’
-
-Martin cast an angry look at him; but there was something in the
-fellow’s merry face, and in his manner--which with all its cheerfulness
-was far from being obtrusive or familiar--that quite disarmed him.
-He had lived a solitary life too, for many weeks, and the voice was
-pleasant in his ear.
-
-‘Tapley,’ he said, ‘I’ll deal openly with you. From all I can judge and
-from all I have heard of you through Pinch, you are not a likely kind of
-fellow to have been brought here by impertinent curiosity or any other
-offensive motive. Sit down. I’m glad to see you.’
-
-‘Thankee, sir,’ said Mark. ‘I’d as lieve stand.’
-
-‘If you don’t sit down,’ retorted Martin, ‘I’ll not talk to you.’
-
-‘Very good, sir,’ observed Mark. ‘Your will’s a law, sir. Down it is;’
-and he sat down accordingly upon the bedstead.
-
-‘Help yourself,’ said Martin, handing him the only knife.
-
-‘Thankee, sir,’ rejoined Mark. ‘After you’ve done.’
-
-‘If you don’t take it now, you’ll not have any,’ said Martin.
-
-‘Very good, sir,’ rejoined Mark. ‘That being your [[Desire|desire]]--now it is.’
-With which reply he gravely helped himself and went on eating. Martin
-having done the like for a short [[Time|time]] in [[Silence|silence]], said abruptly:

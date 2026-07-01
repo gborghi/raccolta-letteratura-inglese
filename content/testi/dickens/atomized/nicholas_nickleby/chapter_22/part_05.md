@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 22 (part 5)"
+title: "Nicholas Nickleby — Chapter 22 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_22/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_22/part_06">part 06 ›</a></div>
 </nav>
 
+
+‘You are going that way?’ asked the manager.
+
+‘Ye-yes,’ said Nicholas. ‘Yes, I am.’
+
+‘Do you know the town at all?’ inquired the manager, who seemed to
+consider himself entitled to the same degree of confidence as he had
+himself exhibited.
+
+‘No,’ replied Nicholas.
+
+‘Never there?’
 
 ‘Never.’
 
@@ -132,13 +144,3 @@ you won’t.’
 ‘Because there’s not a skipper or mate that would think you worth your
 salt, when he could get a practised hand,’ replied the manager; ‘and
 they as plentiful there, as the oysters in the streets.’
-
-‘What do you mean?’ asked Nicholas, alarmed by this prediction, and
-the confident tone in which it had been uttered. ‘Men are not born able
-seamen. They must be reared, I suppose?’
-
-Mr. [[Vincent Crummles]] nodded his head. ‘They must; but not at your age, or
-from young gentlemen like you.’
-
-There was a pause. The countenance of Nicholas fell, and he gazed
-ruefully at the [[Fire|fire]].

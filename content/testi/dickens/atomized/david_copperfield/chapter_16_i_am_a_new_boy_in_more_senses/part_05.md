@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 16: I AM A NEW BOY IN MORE SENSES THAN ONE (part 5)"
+title: "David Copperfield — Chapter 16: I AM A NEW BOY IN MORE SENSES THAN ONE (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,50 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_16_i_am_a_new_boy_in_more_senses/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_16_i_am_a_new_boy_in_more_senses/part_06">part 06 ›</a></div>
 </nav>
 
+
+I got a little the better of my uneasiness when I went to school
+next day, and a good deal the better next day, and so shook it off by
+degrees, that in less than a fortnight I was quite at [[Home|home]], and happy,
+among my new companions. I was awkward enough in their games, and
+backward enough in their studies; but custom would improve me in the
+first respect, I hoped, and hard work in the second. Accordingly, I
+went to work very hard, both in play and in earnest, and gained great
+commendation. And, in a very little while, the Murdstone and Grinby life
+became so strange to me that I hardly believed in it, while my present
+life grew so familiar, that I seemed to have been leading it a long
+[[Time|time]].
+
+Doctor Strong’s was an excellent school; as different from Mr. Creakle’s
+as good is from evil. It was very gravely and decorously ordered, and
+on a sound system; with an appeal, in everything, to the [[Honour|honour]] and good
+[[Faith|faith]] of the boys, and an avowed intention to rely on their possession
+of those qualities unless they proved themselves unworthy of it, which
+worked wonders. We all felt that we had a part in the management of
+the place, and in sustaining its character and dignity. Hence, we soon
+became warmly attached to it--I am sure I did for one, and I never knew,
+in all my [[Time|time]], of any other boy being otherwise--and learnt with a good
+will, desiring to do it credit. We had noble games out of hours, and
+plenty of liberty; but even then, as I remember, we were [[Well|well]] spoken of
+in the town, and rarely did any disgrace, by our appearance or manner,
+to the reputation of Doctor Strong and Doctor Strong’s boys.
+
+Some of the higher scholars boarded in the Doctor’s [[house]], and through
+them I learned, at second hand, some particulars of the Doctor’s
+[[history]]--as, how he had not yet been married twelve months to the
+beautiful young lady I had seen in the study, whom he had married for
+[[Love|love]]; for she had not a sixpence, and had a world of poor relations (so
+our fellows said) ready to swarm the Doctor out of [[house]] and [[Home|home]]. Also,
+how the Doctor’s cogitating manner was attributable to his being always
+engaged in looking out for Greek roots; which, in my [[innocence]] and
+ignorance, I supposed to be a botanical furor on the Doctor’s part,
+especially as he always looked at the ground when he walked about,
+until I understood that they were roots of words, with a view to a new
+Dictionary which he had in contemplation. Adams, our head-boy, who had
+a turn for mathematics, had made a calculation, I was informed, of the
+[[Time|time]] this Dictionary would take in completing, on the Doctor’s plan, and
+at the Doctor’s rate of going. He considered that it might be done
+in one thousand six hundred and forty-nine years, counting from the
+Doctor’s last, or sixty-second, birthday.
 
 But the Doctor himself was the idol of the whole school: and it must
 have been a badly composed school if he had been anything else, for
@@ -66,50 +110,3 @@ of an evening, she always shrunk from accepting his escort [[Home|home]], and ra
 away with me instead. And sometimes, as we were running gaily across
 the [[Cathedral]] yard together, expecting to meet nobody, we would meet Mr.
 Jack Maldon, who was always surprised to see us.
-
-Mrs. Strong’s mama was a lady I took great delight in. Her name was Mrs.
-Markleham; but our boys used to call her the Old Soldier, on account of
-her generalship, and the skill with which she marshalled great forces
-of relations against the Doctor. She was a little, sharp-eyed woman,
-who used to wear, when she was dressed, one unchangeable cap, ornamented
-with some artificial [[Flowers|flowers]], and two artificial butterflies supposed
-to be hovering above the [[Flowers|flowers]]. There was a superstition among us
-that this cap had come from France, and could only originate in the
-workmanship of that ingenious nation: but all I certainly know about it,
-is, that it always made its appearance of an evening, wheresoever Mrs.
-Markleham made HER appearance; that it was carried about to friendly
-meetings in a Hindoo basket; that the butterflies had the gift of
-trembling constantly; and that they improved the shining hours at Doctor
-Strong’s expense, like busy [[Bees|bees]].
-
-I observed the Old Soldier--not to adopt the name disrespectfully--to
-pretty good advantage, on a [[Night|night]] which is made memorable to me by
-something else I shall relate. It was the [[Night|night]] of a little party at the
-Doctor’s, which was given on the occasion of Mr. Jack Maldon’s departure
-for India, whither he was going as a cadet, or something of that kind:
-Mr. Wickfield having at length arranged the business. It happened to be
-the Doctor’s birthday, too. We had had a holiday, had made presents to
-him in the morning, had made a speech to him through the head-boy, and
-had cheered him until we were hoarse, and until he had shed [[Tears|tears]]. And
-now, in the evening, Mr. Wickfield, Agnes, and I, went to have tea with
-him in his private capacity.
-
-Mr. Jack Maldon was there, before us. Mrs. Strong, dressed in white,
-with cherry-coloured ribbons, was playing the piano, when we went in;
-and he was leaning over her to turn the [[Leaves|leaves]]. The clear red and
-white of her complexion was not so blooming and flower-like as usual, I
-thought, when she turned round; but she looked very pretty, Wonderfully
-pretty.
-
-‘I have forgotten, Doctor,’ said Mrs. Strong’s mama, when we were
-seated, ‘to pay you the compliments of the day--though they are, as you
-may suppose, very far from being mere compliments in my case. Allow me
-to wish you many happy returns.’
-
-‘I thank you, ma’am,’ replied the Doctor.
-
-‘Many, many, many, happy returns,’ said the Old Soldier. ‘Not only
-for your own sake, but [[For Annie|for Annie]]’s, and John Maldon’s, and many other
-people’s. It seems but yesterday to me, John, when you were a little
-creature, a head shorter than Master Copperfield, making baby [[Love|love]] to
-Annie behind the gooseberry bushes in the back-[[Garden|garden]].’

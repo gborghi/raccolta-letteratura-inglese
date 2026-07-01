@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 13: THE SEQUEL OF MY RESOLUTION (part 2)"
+title: "David Copperfield — Chapter 13: THE SEQUEL OF MY RESOLUTION (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -120,13 +120,3 @@ can find for it.
 
 ‘[[Well]],’ said I, glad to have closed the bargain, ‘I’ll take
 eighteenpence.’
-
-‘Oh, my liver!’ cried the old man, throwing the jacket on a shelf. ‘Get
-out of the shop! Oh, my lungs, get out of the shop! Oh, my eyes and
-limbs--goroo!--don’t ask for money; make it an exchange.’ I never was
-so frightened in my life, before or since; but I told him humbly that
-I wanted money, and that nothing else was of any use to me, but that I
-would wait for it, as he desired, outside, and had no wish to hurry
-him. So I went outside, and sat down in the shade in a corner. And I sat
-there so many hours, that the shade became sunlight, and the sunlight
-became shade again, and still I sat there waiting for the money.

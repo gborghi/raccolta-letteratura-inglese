@@ -1,5 +1,5 @@
 ---
-title: "[[Mellonta Tauta]]"
+title: "Mellonta Tauta"
 author: "Poe"
 unitType: work
 parentWork: "works/mellonta-tauta-(poe)"

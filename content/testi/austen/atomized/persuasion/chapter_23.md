@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 23"
+title: "Persuasion — Chapter 23"
 author: "Austen"
 unitType: chapter
 parentWork: "works/persuasion-(austen)"
@@ -242,7 +242,7 @@ not done for her. Miss Elliot, do you remember our walking together at
 
 Lyme, and grieving for him? I little thought then—but no matter. This
 
-was drawn at the Cape. He met with a clever young German [[artist]] at the
+was drawn at the Cape. He met with a clever young German [[Artist|artist]] at the
 
 Cape, and in compliance with a promise to my poor sister, sat to him,
 

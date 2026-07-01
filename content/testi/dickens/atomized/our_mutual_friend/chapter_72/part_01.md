@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 13 (part 1)"
+title: "Our Mutual Friend — Chapter 17 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,132 +10,128 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_71/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_72/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_71/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_72/part_02">part 02 ›</a></div>
 </nav>
 
 
-Chapter 13
+Chapter 17
 
-SHOWING HOW THE GOLDEN DUSTMAN HELPED TO SCATTER [[Dust|DUST]]
+THE VOICE OF SOCIETY
 
 
-In all the first bewilderment of her [[Wonder|wonder]], the most bewilderingly
-wonderful thing to Bella was the shining countenance of Mr Boffin. That
-his wife should be joyous, open-hearted, and genial, or that her face
-should express every quality that was large and trusting, and no quality
-that was little or mean, was accordant with Bella’s experience. But,
-that he, with a perfectly beneficent air and a plump rosy face, should
-be standing there, looking at her and John, like some jovial good
-spirit, was marvellous. For, how had he looked when she last saw him in
-that very room (it was the room in which she had given him that piece of
-her mind at parting), and what had become of all those crooked lines of
-suspicion, avarice, and distrust, that twisted his visage then?
+Behoves Mortimer Lightwood, therefore, to answer a dinner card from Mr
+and Mrs Veneering requesting the [[Honour|honour]], and to signify that Mr Mortimer
+Lightwood will be happy to have the other [[Honour|honour]]. The Veneerings have
+been, as usual, indefatigably dealing dinner cards to Society, and
+whoever desires to take a hand had best be quick about it, for it is
+written in the Books of the Insolvent Fates that Veneering shall make a
+resounding smash next week. Yes. Having found out the clue to that great
+mystery how people can contrive to live beyond their means, and having
+over-jobbed his jobberies as legislator deputed to the Universe by the
+pure electors of Pocket-Breaches, it shall come to pass next week that
+Veneering will accept the Chiltern Hundreds, that the legal gentleman in
+Britannia’s confidence will again accept the Pocket-Breaches Thousands,
+and that the Veneerings will retire to Calais, there to live on Mrs
+Veneering’s diamonds (in which Mr Veneering, as a good husband, has from
+[[Time|time]] to [[Time|time]] invested considerable sums), and to relate to Neptune and
+others, how that, before Veneering retired from Parliament, the [[house|House]]
+of Commons was composed of himself and the six hundred and fifty-seven
+dearest and oldest friends he had in the world. It shall likewise come
+to pass, at as nearly as possible the same period, that Society will
+discover that it always did despise Veneering, and distrust Veneering,
+and that when it went to Veneering’s to dinner it always had
+misgivings—though very secretly at the [[Time|time]], it would seem, and in a
+perfectly private and confidential manner.
 
-Mrs Boffin seated Bella on the large ottoman, and seated herself beside
-her, and John her husband seated himself on the other side of her, and
-Mr Boffin stood beaming at every one and everything he could see, with
-surpassing jollity and enjoyment. Mrs Boffin was then taken with a
-laughing fit of clapping her hands, and clapping her knees, and rocking
-herself to and fro, and then with another laughing fit of embracing
-Bella, and rocking her to and fro—both fits, of considerable duration.
+The next week’s books of the Insolvent Fates, however, being not yet
+opened, there is the usual rush to the Veneerings, of the people who go
+to their [[house]] to dine with one another and not with them. There is Lady
+Tippins. There are Podsnap the Great, and Mrs Podsnap. There is Twemlow.
+There are Buffer, Boots, and Brewer. There is the Contractor, who
+is [[Providence]] to five hundred thousand men. There is the Chairman,
+travelling three thousand miles per week. There is the brilliant genius
+who turned the shares into that remarkably exact sum of three hundred
+and seventy five thousand pounds, no shillings, and nopence.
 
-‘Old lady, old lady,’ said Mr Boffin, at length; ‘if you don’t begin
-somebody else must.’
+To whom, add Mortimer Lightwood, coming in among them with a
+reassumption of his old languid air, founded on Eugene, and belonging to
+the days when he told the story of the man from Somewhere.
 
-‘I’m a going to begin, Noddy, my dear,’ returned Mrs Boffin. ‘Only it
-isn’t easy for a person to know where to begin, when a person is in this
-state of delight and happiness. Bella, my dear. Tell me, who’s this?’
+That fresh fairy, Tippins, all but screams at sight of her false
+swain. She summons the deserter to her with her fan; but the deserter,
+predetermined not to come, talks Britain with Podsnap. Podsnap always
+talks Britain, and talks as if he were a sort of Private Watchman
+employed, in the British interests, against the rest of the world. ‘We
+know what [[Russia]] means, sir,’ says Podsnap; ‘we know what France wants;
+we see what [[america|America]] is up to; but we know what England is. That’s enough
+for us.’
 
-‘Who is this?’ repeated Bella. ‘My husband.’
+However, when dinner is served, and Lightwood drops into his old place
+over against Lady Tippins, she can be fended off no longer. ‘Long
+banished Robinson Crusoe,’ says the charmer, exchanging salutations,
+‘how did you leave the Island?’
 
-‘Ah! But tell me his name, deary!’ cried Mrs Boffin.
+‘Thank you,’ says Lightwood. ‘It made no complaint of being in [[Pain|pain]]
+anywhere.’
 
-‘Rokesmith.’
+‘Say, how did you leave the savages?’ asks Lady Tippins.
 
-‘No, it ain’t!’ cried Mrs Boffin, clapping her hands, and shaking her
-head. ‘Not a bit of it.’
+‘They were becoming civilized when I left Juan Fernandez,’ says
+Lightwood. ‘At least they were eating one another, which looked like
+it.’
 
-‘Handford then,’ suggested Bella.
+‘Tormentor!’ returns the dear young creature. ‘You know what I mean, and
+you trifle with my impatience. Tell me something, immediately, about the
+married pair. You were at the wedding.’
 
-‘No, it ain’t!’ cried Mrs Boffin, again clapping her hands and shaking
-her head. ‘Not a bit of it.’
+‘Was I, by-the-by?’ Mortimer pretends, at great leisure, to consider.
+‘So I was!’
 
-‘At least, his name is John, I suppose?’ said Bella.
+‘How was the bride dressed? In rowing costume?’
 
-‘Ah! I should think so, deary!’ cried Mrs Boffin. ‘I should [[Hope|hope]] so!
-Many and many is the [[Time|time]] I have called him by his name of John. But
-what’s his other name, his true other name? Give a guess, my pretty!’
+Mortimer looks gloomy, and declines to answer.
 
-‘I can’t guess,’ said Bella, turning her pale face from one to another.
+‘I [[Hope|hope]] she steered herself, skiffed herself, paddled herself,
+larboarded and starboarded herself, or whatever the technical term may
+be, to the ceremony?’ proceeds the playful Tippins.
 
-‘I could,’ cried Mrs Boffin, ‘and what’s more, I did! I found him out,
-all in a flash as I may say, one [[Night|night]]. Didn’t I, Noddy?’
+‘However she got to it, she graced it,’ says Mortimer.
 
-‘Ay! That the old lady did!’ said Mr Boffin, with stout [[Pride|pride]] in the
-circumstance.
+Lady Tippins with a skittish little scream, attracts the general
+attention. ‘Graced it! Take care of me if I faint, Veneering. He means
+to tell us, that a horrid female waterman is graceful!’
 
-‘Harkee to me, deary,’ pursued Mrs Boffin, taking Bella’s hands between
-her own, and gently beating on them from [[Time|time]] to [[Time|time]]. ‘It was after a
-particular [[Night|night]] when John had been disappointed—as he thought—in
-his affections. It was after a [[Night|night]] when John had made an offer to a
-certain young lady, and the certain young lady had refused it. It was
-after a particular [[Night|night]], when he felt himself cast-away-like, and had
-made up his mind to go seek his fortune. It was the very next [[Night|night]]. My
-Noddy wanted a paper out of his Secretary’s room, and I says to Noddy,
-“I am going by the door, and I’ll ask him for it.” I tapped at his door,
-and he didn’t hear me. I looked in, and saw him a sitting lonely by his
-[[Fire|fire]], brooding over it. He chanced to look up with a pleased kind of
-smile in my company when he saw me, and then in a single moment every
-grain of the gunpowder that had been lying sprinkled thick about him
-ever since I first set eyes upon him as a man at the Bower, took [[Fire|fire]]!
-Too many a [[Time|time]] had I seen him sitting lonely, when he was a poor [[Child|child]],
-to be pitied, heart and hand! Too many a [[Time|time]] had I seen him in need of
-being brightened up with a comforting word! Too many and too many a [[Time|time]]
-to be mistaken, when that glimpse of him come at last! No, no! I just
-makes out to cry, “I know you now! You’re John!” And he catches me as
-I drops.—So what,’ says Mrs Boffin, breaking off in the rush of her
-speech to smile most radiantly, ‘might you think by this [[Time|time]] that your
-husband’s name was, dear?’
+‘Pardon me. I mean to tell you nothing, Lady Tippins,’ replies
+Lightwood. And keeps his word by eating his dinner with a show of the
+utmost indifference.
 
-‘Not,’ returned Bella, with quivering lips; ‘not Harmon? That’s not
-possible?’
+‘You shall not escape me in this way, you morose backwoodsman,’ retorts
+Lady Tippins. ‘You shall not evade the question, to screen your friend
+Eugene, who has made this exhibition of himself. The knowledge shall be
+brought [[Home|home]] to you that such a ridiculous affair is condemned by the
+voice of Society. My dear Mrs Veneering, do let us resolve ourselves
+into a Committee of the whole [[house|House]] on the subject.’
 
-‘Don’t tremble. Why not possible, deary, when so many things are
-possible?’ demanded Mrs Boffin, in a soothing tone.
+Mrs Veneering, always charmed by this rattling sylph, cries. ‘Oh yes!
+Do let us resolve ourselves into a Committee of the whole [[house|House]]!
+So delicious!’ Veneering says, ‘As many as are of that opinion, say
+Aye,—contrary, No—the Ayes have it.’ But nobody takes the slightest
+notice of his joke.
 
-‘He was killed,’ gasped Bella.
+‘Now, I am Chairwoman of Committees!’ cries Lady Tippins.
 
-‘Thought to be,’ said Mrs Boffin. ‘But if ever [[John Harmon]] drew the
-breath of life on earth, that is certainly [[John Harmon]]’s arm round your
-waist now, my pretty. If ever [[John Harmon]] had a wife on earth, that wife
-is certainly you. If ever [[John Harmon]] and his wife had a [[Child|child]] on earth,
-that [[Child|child]] is certainly this.’
+(‘What spirits she has!’ exclaims Mrs Veneering; to whom likewise nobody
+attends.)
 
-By a master-stroke of secret arrangement, the inexhaustible baby here
-appeared at the door, suspended in mid-air by invisible agency. Mrs
-Boffin, plunging at it, brought it to Bella’s lap, where both Mrs and Mr
-Boffin (as the saying is) ‘took it out of’ the Inexhaustible in a shower
-of caresses. It was only this timely appearance that kept Bella from
-swooning. This, and her husband’s earnestness in explaining further to
-her how it had come to pass that he had been supposed to be slain, and
-had even been suspected of his own murder; also, how he had put a pious
-fraud upon her which had preyed upon his mind, as the [[Time|time]] for its
-disclosure approached, lest she might not make full allowance for
-the object with which it had originated, and in which it had fully
-developed.
+‘And this,’ pursues the sprightly one, ‘is a Committee of the whole
+[[house|House]] to what-you-may-call-it—elicit, I suppose—the voice of Society.
+The question before the Committee is, whether a young man of very fair
+family, good appearance, and some talent, makes a [[Fool|fool]] or a wise man of
+himself in marrying a female waterman, turned factory girl.’
 
-‘But bless ye, my [[Beauty|beauty]]!’ cried Mrs Boffin, taking him up short at this
-point, with another hearty clap of her hands. ‘It wasn’t John only that
-was in it. We was all of us in it.’
-
-‘I don’t,’ said Bella, looking vacantly from one to another, ‘yet
-understand—’
-
-‘Of course you don’t, my deary,’ exclaimed Mrs Boffin. ‘How can you till
-you’re told! So now I am a going to tell you. So you put your two hands
-between my two hands again,’ cried the comfortable creature, embracing
-her, ‘with that blessed little picter lying on your lap, and you shall
-be told all the story. Now, I’m a going to tell the story. Once, twice,
-three times, and the horses is off. Here they go! When I cries out that
-[[Night|night]], “I know you now, you’re John!”—which was my exact words; wasn’t
-they, John?’
+‘Hardly so, I think,’ the stubborn Mortimer strikes in. ‘I take the
+question to be, whether such a man as you describe, Lady Tippins, does
+right or wrong in marrying a brave woman (I say nothing of her [[Beauty|beauty]]),
+who has saved his life, with a wonderful energy and address; whom he
+knows to be virtuous, and possessed of remarkable qualities; whom he has
+long admired, and who is deeply attached to him.’

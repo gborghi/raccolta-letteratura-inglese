@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 3 (part 2)"
+title: "thursday — Chapter 3 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_03/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_03/part_03">part 03 ›</a></div>
 </nav>
 
+
+"I move that Comrade Gregory be elected [[thursday|Thursday]]," and sat
+lumberingly down again.
 
 "Does anyone second?" asked the chairman.
 

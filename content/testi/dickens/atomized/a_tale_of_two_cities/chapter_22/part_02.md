@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities — Chapter 15 (part 2)"
+title: "A Tale of Two Cities — Chapter 16 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-tale-of-two-cities-(dickens)"
@@ -14,119 +14,143 @@ tags:
 </nav>
 
 
-“Never,” answered the mender of roads, recovering his perpendicular.
+“It is a long [[Time|time]],” repeated his wife; “and when is it not a long [[Time|time]]?
+Vengeance and retribution require a long [[Time|time]]; it is the rule.”
 
-Jacques Three demanded how he afterwards recognised him then?
+“It does not take a long [[Time|time]] to strike a man with [[Lightning]],” said
+Defarge.
 
-“By his tall figure,” said the mender of roads, softly, and with his
-finger at his nose. “When Monsieur the Marquis demands that evening,
-‘Say, what is he like?’ I make response, ‘Tall as a spectre.’”
+“How long,” demanded madame, composedly, “does it take to make and store
+the [[Lightning|lightning]]? Tell me.”
 
-“You should have said, short as a [[Dwarf|dwarf]],” returned Jacques Two.
+Defarge raised his head thoughtfully, as if there were something in that
+too.
 
-“But what did I know? The deed was not then accomplished, neither did he
-confide in me. Observe! Under those circumstances even, I do not
-offer my testimony. Monsieur the Marquis indicates me with his finger,
-standing near our little fountain, and says, ‘To me! Bring that rascal!’
-My [[Faith|faith]], messieurs, I offer nothing.”
+“It does not take a long [[Time|time]],” said madame, “for an earthquake to
+[[Swallow|swallow]] a town. Eh [[Well|well]]! Tell me how long it takes to prepare the
+earthquake?”
 
-“He is right there, Jacques,” murmured Defarge, to him who had
-interrupted. “Go on!”
+“A long [[Time|time]], I suppose,” said Defarge.
 
-“Good!” said the mender of roads, with an air of mystery. “The tall man
-is lost, and he is sought--how many months? Nine, ten, eleven?”
+“But when it is ready, it takes place, and grinds to pieces everything
+before it. In the meantime, it is always preparing, though it is not
+seen or heard. That is your consolation. Keep it.”
 
-“No matter, the number,” said Defarge. “He is [[Well|well]] hidden, but at last
-he is unluckily found. Go on!”
+She tied a knot with flashing eyes, as if it throttled a foe.
 
-“I am again at work upon the [[Hill|hill]]-side, and the sun is again about to
-go to bed. I am collecting my tools to descend to my cottage down in the
-village below, where it is already dark, when I raise my eyes, and see
-coming over the [[Hill|hill]] six soldiers. In the midst of them is a tall man
-with his arms bound--tied to his sides--like this!”
+“I tell thee,” said madame, extending her right hand, for emphasis,
+“that although it is a long [[Time|time]] on the [[Road|road]], it is on the [[Road|road]] and
+coming. I tell thee it never retreats, and never stops. I tell thee it
+is always advancing. Look around and consider the lives of all the world
+that we know, consider the faces of all the world that we know, consider
+the rage and discontent to which the Jacquerie addresses itself with
+more and more of certainty every hour. Can such things last? Bah! I mock
+you.”
 
-With the aid of his indispensable cap, he represented a man with his
-elbows bound fast at his hips, with cords that were knotted behind him.
+“My brave wife,” returned Defarge, standing before her with his head
+a little bent, and his hands clasped at his back, like a docile and
+attentive pupil before his catechist, “I do not question all this. But
+it has lasted a long [[Time|time]], and it is possible--you know [[Well|well]], my wife,
+it is possible--that it may not come, during our lives.”
 
-“I stand aside, messieurs, by my heap of stones, to see the soldiers
-and their prisoner pass (for it is a solitary [[Road|road]], that, where any
-spectacle is [[Well|well]] worth looking at), and at first, as they approach, I
-see no more than that they are six soldiers with a tall man bound, and
-that they are almost black to my sight--except on the side of the sun
-going to bed, where they have a red edge, messieurs. Also, I see that
-their long shadows are on the hollow ridge on the opposite side of the
-[[Road|road]], and are on the [[Hill|hill]] above it, and are like the shadows of giants.
-Also, I see that they are covered with [[Dust|dust]], and that the [[Dust|dust]] moves
-with them as they come, tramp, tramp! But when they advance quite near
-to me, I recognise the tall man, and he recognises me. Ah, but he would
-be [[Well|well]] content to precipitate himself over the [[Hill|hill]]-side once again, as
-on the evening when he and I first encountered, close to the same spot!”
+“Eh [[Well|well]]! How then?” demanded madame, tying another knot, as if there
+were another enemy strangled.
 
-He described it as if he were there, and it was evident that he saw it
-vividly; perhaps he had not seen much in his life.
+“[[Well]]!” said Defarge, with a half complaining and half apologetic shrug.
+“We shall not see the triumph.”
 
-“I do not show the soldiers that I recognise the tall man; he does not
-show the soldiers that he recognises me; we do it, and we know it, with
-our eyes. ‘Come on!’ says the chief of that company, pointing to the
-village, ‘bring him fast to his tomb!’ and they bring him faster. I
-follow. His arms are swelled because of being bound so tight, his wooden
-shoes are large and clumsy, and he is lame. Because he is lame, and
-consequently slow, they drive him with their guns--like this!”
+“We shall have helped it,” returned madame, with her extended hand in
+strong action. “Nothing that we do, is done in vain. I believe, with all
+my [[Soul|soul]], that we shall see the triumph. But even if not, even if I knew
+certainly not, show me the neck of an [[aristocrat]] and [[Tyrant|tyrant]], and still I
+would--”
 
-He imitated the action of a man’s being impelled forward by the
-butt-ends of muskets.
+Then madame, with her teeth set, tied a very terrible knot indeed.
 
-“As they descend the [[Hill|hill]] like madmen running a race, he falls. They
-laugh and pick him up again. His face is bleeding and covered with [[Dust|dust]],
-but he cannot touch it; thereupon they laugh again. They bring him into
-the village; all the village runs to look; they take him past the mill,
-and up to the [[Prison|prison]]; all the village sees the [[Prison|prison]] gate open in the
-darkness of the [[Night|night]], and [[Swallow|swallow]] him--like this!”
+“Hold!” cried Defarge, reddening a little as if he felt charged with
+cowardice; “I too, my dear, will stop at nothing.”
 
-He opened his mouth as wide as he could, and shut it with a sounding
-snap of his teeth. Observant of his unwillingness to mar the effect by
-opening it again, Defarge said, “Go on, Jacques.”
+“Yes! But it is your weakness that you sometimes need to see your victim
+and your opportunity, to sustain you. Sustain yourself without that.
+When the [[Time|time]] comes, let loose a tiger and a devil; but wait for the
+[[Time|time]] with the tiger and the devil chained--not shown--yet always ready.”
 
-“All the village,” pursued the mender of roads, on tiptoe and in a low
-voice, “withdraws; all the village whispers by the fountain; all the
-village sleeps; all the village [[Dreams|dreams]] of that unhappy one, within the
-locks and bars of the [[Prison|prison]] on the crag, and never to come out of it,
-except to perish. In the morning, with my tools upon my shoulder, eating
-my morsel of black bread as I go, I make a circuit by the [[Prison|prison]], on
-my way to my work. There I see him, high up, behind the bars of a lofty
-iron cage, bloody and dusty as last [[Night|night]], looking through. He has no
-hand free, to wave to me; I dare not call to him; he regards me like a
-dead man.”
+Madame enforced the conclusion of this piece of advice by striking her
+little counter with her chain of money as if she knocked its brains
+out, and then gathering the heavy handkerchief under her arm in a serene
+manner, and observing that it was [[Time|time]] to go to bed.
 
-Defarge and the three glanced darkly at one another. The looks of all
-of them were dark, repressed, and revengeful, as they listened to the
-countryman’s story; the manner of all of them, while it was secret, was
-authoritative too. They had the air of a rough tribunal; Jacques One
-and Two sitting on the old pallet-bed, each with his chin resting on
-his hand, and his eyes intent on the [[Road|road]]-mender; Jacques Three, equally
-intent, on one knee behind them, with his agitated hand always gliding
-over the network of fine nerves about his mouth and nose; Defarge
-standing between them and the narrator, whom he had stationed in the
-light of the [[Window|window]], by turns looking from him to them, and from them to
-him.
+Next noontide saw the admirable woman in her usual place in the
+wine-shop, knitting away assiduously. A [[Rose|rose]] lay beside her, and if she
+now and then glanced at the flower, it was with no infraction of her
+usual preoccupied air. There were a few customers, drinking or not
+drinking, standing or seated, sprinkled about. The day was very hot,
+and heaps of flies, who were extending their inquisitive and adventurous
+perquisitions into all the glutinous little glasses near madame, fell
+dead at the [[Bottom|bottom]]. Their decease made no impression on the other flies
+out promenading, who looked at them in the coolest manner (as if they
+themselves were elephants, or something as far removed), until they met
+the same fate. Curious to consider how heedless flies are!--perhaps they
+thought as much at [[Court]] that sunny [[Summer|summer]] day.
 
-“Go on, Jacques,” said Defarge.
+A figure entering at the door threw a [[Shadow|shadow]] on [[Madame Defarge]] which she
+felt to be a new one. She laid down her knitting, and began to pin her
+[[Rose|rose]] in her head-dress, before she looked at the figure.
 
-“He remains up there in his iron cage some days. The village looks
-at him by stealth, for it is afraid. But it always looks up, from a
-distance, at the [[Prison|prison]] on the crag; and in the evening, when the work
-of the day is achieved and it assembles to gossip at the fountain, all
-faces are turned towards the [[Prison|prison]]. Formerly, they were turned towards
-the posting-[[house]]; now, they are turned towards the [[Prison|prison]]. They
-whisper at the fountain, that although condemned to [[Death|death]] he will not be
-executed; they say that petitions have been presented in [[Paris]], showing
-that he was enraged and made mad by the [[Death|death]] of his [[Child|child]]; they say
-that a petition has been presented to the [[King]] himself. What do I know?
-It is possible. Perhaps yes, perhaps no.”
+It was curious. The moment [[Madame Defarge]] took up the [[Rose|rose]], the
+customers ceased talking, and began gradually to drop out of the
+wine-shop.
 
-“Listen then, Jacques,” Number One of that name sternly interposed.
-“Know that a petition was presented to the [[King]] and [[Queen]]. All here,
-yourself excepted, saw the [[King]] take it, in his carriage in the street,
-sitting beside the [[Queen]]. It is Defarge whom you see here, who, at the
-hazard of his life, darted out before the horses, with the petition in
-his hand.”
+“Good day, madame,” said the new-comer.
+
+“Good day, monsieur.”
+
+She said it aloud, but added to herself, as she resumed her knitting:
+“Hah! Good day, age about forty, height about five feet nine, black
+hair, generally rather handsome visage, complexion dark, eyes dark,
+thin, long and sallow face, aquiline nose but not straight, having a
+peculiar inclination towards the left cheek which imparts a sinister
+expression! Good day, one and all!”
+
+“Have the goodness to give me a little glass of old cognac, and a
+mouthful of cool fresh [[Water|water]], madame.”
+
+Madame complied with a polite air.
+
+“Marvellous cognac this, madame!”
+
+It was the first [[Time|time]] it had ever been so complimented, and Madame
+Defarge knew enough of its antecedents to know better. She said,
+however, that the cognac was flattered, and took up her knitting. The
+visitor watched her fingers for a few moments, and took the opportunity
+of observing the place in general.
+
+“You knit with great skill, madame.”
+
+“I am accustomed to it.”
+
+“A pretty pattern too!”
+
+“_You_ think so?” said madame, looking at him with a smile.
+
+“Decidedly. May one ask what it is for?”
+
+“Pastime,” said madame, still looking at him with a smile while her
+fingers moved nimbly.
+
+“Not for use?”
+
+“That depends. I may find a use for it one day. If I do--[[Well]],” said
+madame, drawing a breath and nodding her head with a stern kind of
+coquetry, “I’ll use it!”
+
+It was remarkable; but, the taste of Saint Antoine seemed to be
+decidedly opposed to a [[Rose|rose]] on the head-dress of [[Madame Defarge]]. Two
+men had entered separately, and had been about to order drink, when,
+catching sight of that novelty, they faltered, made a pretence of
+looking about as if for some friend who was not there, and went away.
+Nor, of those who had been there when this visitor entered, was there
+one left. They had all dropped off. The spy had kept his eyes open,
+but had been able to detect no sign. They had lounged away in a
+[[Poverty|poverty]]-stricken, purposeless, accidental manner, quite natural and
+unimpeachable.

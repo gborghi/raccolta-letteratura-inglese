@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 29 (part 3)"
+title: "Dombey and Son — Chapter 57 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -10,110 +10,123 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/dombey-and-son-(dickens)">Dombey and Son</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_85/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_85/part_04">part 04 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_85/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_86/part_01">part 01 ›</a></div>
 </nav>
 
 
-“Whether she will be fully sensible of the distinction conferred upon
-her,” said Mrs Chick, in a lofty tone, “is quite another question. I
-[[Hope|hope]] she may be. We are bound to think [[Well|well]] of one another in this
-world, and I [[Hope|hope]] she may be. I have not been advised with myself. If I
-had been advised with, I have no [[Doubt|doubt]] my advice would have been
-cavalierly received, and therefore it is infinitely better as it is. I
-much prefer it as it is.”
+Uncle Sol and Mr Toots wait patiently in the churchyard, sitting on the
+coping-stone of the railings, until [[Captain Cuttle]] and Susan come back.
+Neither being at all desirous to speak, or to be spoken to, they are
+excellent company, and quite satisfied. When they all arrive again at
+the little Midshipman, and sit down to breakfast, nobody can touch a
+morsel. [[Captain Cuttle]] makes a feint of being voracious about toast,
+but gives it up as a swindle. Mr Toots says, after breakfast, he will
+come back in the evening; and goes wandering about the town all day,
+with a vague sensation upon him as if he hadn’t been to bed for a
+fortnight.
 
-Miss Tox, with head bent down, still clipped among the plants. Mrs
-Chick, with energetic shakings of her own head from [[Time|time]] to [[Time|time]],
-continued to hold forth, as if in defiance of somebody.
+There is a strange charm in the [[house]], and in the room, in which they
+have been used to be together, and out of which so much is gone. It
+aggravates, and yet it soothes, the sorrow of the separation. Mr Toots
+tells [[Susan Nipper]] when he comes at [[Night|night]], that he hasn’t been so
+wretched all day long, and yet he likes it. He confides in Susan
+Nipper, being [[Alone|alone]] with her, and tells her what his feelings were when
+she gave him that candid opinion as to the probability of Miss Dombey’s
+ever loving him. In the vein of confidence engendered by these common
+recollections, and their [[Tears|tears]], Mr Toots proposes that they shall go
+out together, and buy something for supper. Miss Nipper assenting, they
+buy a good many little things; and, with the aid of Mrs Richards, set
+the supper out quite showily before the Captain and old Sol came [[Home|home]].
 
-“If my brother Paul had consulted with me, which he sometimes does—or
-rather, sometimes used to do; for he will naturally do that no more
-now, and this is a circumstance which I regard as a relief from
-responsibility,” said Mrs Chick, hysterically, “for I thank Heaven I am
-not jealous—” here Mrs Chick again shed [[Tears|tears]]: “if my brother Paul had
-come to me, and had said, ‘Louisa, what kind of qualities would you
-advise me to look out for, in a wife?’ I should certainly have
-answered, ‘Paul, you must have family, you must have [[Beauty|beauty]], you must
-have dignity, you must have connexion.’ Those are the words I should
-have used. You might have led me to the block immediately afterwards,”
-said Mrs Chick, as if that consequence were highly probable, “but I
-should have used them. I should have said, ‘Paul! You to marry a second
-[[Time|time]] without family! You to marry without [[Beauty|beauty]]! You to marry without
-dignity! You to marry without connexion! There is nobody in the world,
-not mad, who could dream of daring to entertain such a preposterous
-idea!’”
+The Captain and old Sol have been on board the [[Ship|ship]], and have
+established Di there, and have seen the chests put aboard. They have
+much to tell about the popularity of Walter, and the comforts he will
+have about him, and the quiet way in which it seems he has been working
+early and late, to make his cabin what the Captain calls “a picter,” to
+surprise his little wife. “A admiral’s cabin, mind you,” says the
+Captain, “ain’t more trim.”
 
-Miss Tox stopped clipping; and with her head among the plants, listened
-attentively. Perhaps Miss Tox thought there was [[Hope|hope]] in this exordium,
-and the warmth of Mrs Chick.
+But one of the Captain’s chief delights is, that he knows the big
+watch, and the sugar-tongs, and tea-spoons, are on board: and again and
+again he murmurs to himself, “Ed’ard Cuttle, my lad, you never shaped a
+better course in your life than when you made that there little
+property over jintly. You see how the land bore, Ed’ard,” says the
+Captain, “and it does you credit, my lad.”
 
-“I should have adopted this course of argument,” pursued the discreet
-lady, “because I trust I am not a [[Fool|fool]]. I make no claim to be
-considered a person of superior intellect—though I believe some people
-have been extraordinary enough to consider me so; one so little
-humoured as I am, would very soon be disabused of any such notion; but
-I trust I am not a downright [[Fool|fool]]. And to tell ME,” said Mrs Chick with
-ineffable disdain, “that my brother [[Paul Dombey]] could ever contemplate
-the possibility of uniting himself to anybody—I don’t care who”—she was
-more sharp and emphatic in that short clause than in any other part of
-her discourse—“not possessing these requisites, would be to insult what
-understanding I have got, as much as if I was to be told that I was
-born and bred an elephant, which I may be told next,” said Mrs Chick,
-with [[Resignation|resignation]]. “It wouldn’t surprise me at all. I expect it.”
+The old Instrument-maker is more distraught and misty than he used to
+be, and takes the [[Marriage|marriage]] and the parting very much to heart. But he
+is greatly comforted by having his old ally, Ned Cuttle, at his side;
+and he sits down to supper with a grateful and contented face.
 
-In the moment’s [[Silence|silence]] that ensued, Miss Tox’s scissors gave a feeble
-clip or two; but Miss Tox’s face was still invisible, and Miss Tox’s
-morning gown was agitated. Mrs Chick looked sideways at her, through
-the intervening plants, and went on to say, in a tone of bland
-conviction, and as one dwelling on a point of fact that hardly required
-to be stated:
+“My boy has been preserved and thrives,” says old Sol Gills, rubbing
+his hands. “What right have I to be otherwise than thankful and happy!”
 
-“Therefore, of course my brother Paul has done what was to be expected
-of him, and what anybody might have foreseen he would do, if he entered
-the [[Marriage|marriage]] state again. I confess it takes me rather by surprise,
-however gratifying; because when Paul went out of town I had no idea at
-all that he would form any attachment out of town, and he certainly had
-no attachment when he left here. However, it seems to be extremely
-desirable in every point of view. I have no [[Doubt|doubt]] the mother is a most
-genteel and elegant creature, and I have no right whatever to dispute
-the policy of her living with them: which is Paul’s affair, not
-mine—and as to Paul’s choice, herself, I have only seen her picture
-yet, but that is beautiful indeed. Her name is beautiful too,” said Mrs
-Chick, shaking her head with energy, and arranging herself in her
-chair; “Edith is at once uncommon, as it strikes me, and distinguished.
-Consequently, Lucretia, I have no [[Doubt|doubt]] you will be happy to hear that
-the [[Marriage|marriage]] is to take place immediately—of course, you will:” great
-emphasis again: “and that you are delighted with this change in the
-condition of my brother, who has shown you a great deal of pleasant
-attention at various times.”
+The Captain, who has not yet taken his seat at the table, but who has
+been fidgeting about for some [[Time|time]], and now stands hesitating in his
+place, looks doubtfully at Mr Gills, and says:
 
-Miss Tox made no verbal answer, but took up the little watering-pot
-with a trembling hand, and looked vacantly round as if considering what
-article of furniture would be improved by the contents. The room door
-opening at this crisis of Miss Tox’s feelings, she started, laughed
-aloud, and fell into the arms of the person entering; happily
-insensible alike of Mrs Chick’s indignant countenance and of the Major
-at his [[Window|window]] over the way, who had his [[Double|double]]-barrelled eye-glass in
-full action, and whose face and figure were dilated with
-Mephistophelean joy.
+“Sol! There’s the last bottle of the old Madeira down below. Would you
+wish to have it up tonight, my boy, and drink to Wal”r and his wife?”
 
-Not so the expatriated Native, amazed supporter of Miss Tox’s swooning
-form, who, coming straight upstairs, with a polite inquiry touching
-Miss Tox’s health (in exact pursuance of the Major’s malicious
-instructions), had accidentally arrived in the very nick of [[Time|time]] to
-catch the delicate burden in his arms, and to receive the contents of
-the little watering-pot in his shoe; both of which circumstances,
-coupled with his consciousness of being closely watched by the wrathful
-Major, who had threatened the usual penalty in regard of every bone in
-his skin in case of any failure, combined to render him a moving
-spectacle of mental and bodily distress.
+The Instrument-maker, looking wistfully at the Captain, puts his hand
+into the breast-pocket of his coffee-coloured coat, brings forth his
+pocket-book, and takes a letter out.
 
-For some moments, this afflicted foreigner remained clasping Miss Tox
-to his heart, with an energy of action in remarkable opposition to his
-disconcerted face, while that poor lady trickled slowly down upon him
-the very last sprinklings of the little watering-pot, as if he were a
-delicate exotic (which indeed he was), and might be almost expected to
-blow while the gentle rain descended. Mrs Chick, at length recovering
-sufficient presence of mind to interpose, commanded him to drop Miss
-Tox upon the sofa and withdraw; and the [[Exile|exile]] promptly obeying, she
-applied herself to promote Miss Tox’s recovery.
+“To Mr Dombey,” says the old man. “From Walter. To be sent in three
+weeks’ [[Time|time]]. I’ll read it.”
+
+“‘Sir. I am married to your daughter. She is gone with me upon a
+distant voyage. To be devoted to her is to have no claim on her or you,
+but God knows that I am.
+
+“‘Why, loving her beyond all earthly things, I have yet, without
+remorse, united her to the uncertainties and dangers of my life, I will
+not say to you. You know why, and you are her father.
+
+“‘Do not reproach her. She has never reproached you.
+
+“‘I do not think or [[Hope|hope]] that you will ever forgive me. There is
+nothing I expect less. But if an hour should come when it will comfort
+you to believe that Florence has someone ever near her, the great
+charge of whose life is to cancel her remembrance of past sorrow, I
+solemnly assure you, you may, in that hour, rest in that belief.’”
+
+Solomon puts back the letter carefully in his pocket-book, and puts
+back his pocket-book in his coat.
+
+“We won’t drink the last bottle of the old Madeira yet, Ned,” says the
+old man thoughtfully. “Not yet.
+
+“Not yet,” assents the Captain. “No. Not yet.”
+
+Susan and Mr Toots are of the same opinion. After a [[Silence|silence]] they all
+sit down to supper, and drink to the young husband and wife in
+something else; and the last bottle of the old Madeira still remains
+among its [[Dust|dust]] and cobwebs, undisturbed.
+
+A few days have elapsed, and a stately [[Ship|ship]] is out at sea, spreading
+its white wings to the favouring [[Wind|wind]].
+
+Upon the deck, image to the roughest man on board of something that is
+graceful, beautiful, and harmless—something that it is good and
+pleasant to have there, and that should make the voyage prosperous—is
+Florence. It is [[Night|night]], and she and Walter sit [[Alone|alone]], watching the
+solemn path of light upon the sea between them and the [[Moon|moon]].
+
+At length she cannot see it plainly, for the [[Tears|tears]] that fill her eyes;
+and then she lays her head down on his breast, and puts her arms around
+his neck, saying, “Oh Walter, dearest [[Love|love]], I am so happy!”
+
+Her husband holds her to his heart, and they are very quiet, and the
+stately [[Ship|ship]] goes on serenely.
+
+“As I hear the sea,” says Florence, “and sit watching it, it brings so
+many days into my mind. It makes me think so much—”
+
+“Of Paul, my [[Love|love]]. I know it does.”
+
+Of Paul and Walter. And the voices in the waves are always whispering
+to Florence, in their ceaseless murmuring, of [[Love|love]]—of [[Love|love]], eternal and
+illimitable, not bounded by the confines of this world, or by the end
+of [[Time|time]], but ranging still, beyond the sea, beyond the sky, to the
+invisible country far away!

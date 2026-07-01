@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 1 (part 4)"
+title: "Barnaby Rudge — Chapter 1 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_01/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_01/part_05">part 05 ›</a></div>
 </nav>
 
+
+‘Why that’s the proper [[Time|time]] for me to talk, isn’t it?’ said Joe
+rebelliously.
+
+‘The proper [[Time|time]], sir!’ retorted his father, ‘the proper [[Time|time]]’s no
+[[Time|time]].’
+
+‘Ah to be sure!’ muttered Parkes, nodding gravely to the other two who
+nodded likewise, observing under their breaths that that was the point.
 
 ‘The proper [[Time|time]]’s no [[Time|time]], sir,’ repeated John Willet; ‘when I was
 your age I never talked, I never wanted to talk. I listened and improved
@@ -126,14 +135,3 @@ by the stranger’s surliness, ‘is a Maypole story, and has been any [[Time|ti
 these four-and-twenty years. That story is Solomon Daisy’s story. It
 belongs to the [[house]]; and nobody but Solomon Daisy has ever told it
 under this roof, or ever shall--that’s more.’
-
-The man glanced at the parish-clerk, whose air of consciousness and
-importance plainly betokened him to be the person referred to, and,
-observing that he had taken his pipe from his lips, after a very long
-whiff to keep it alight, and was evidently about to tell his story
-without further solicitation, gathered his large coat about him, and
-shrinking further back was almost lost in the gloom of the spacious
-chimney-corner, except when the flame, struggling from under a great
-faggot, whose weight almost crushed it for the [[Time|time]], shot upward with a
-strong and sudden glare, and illumining his figure for a moment, seemed
-afterwards to cast it into deeper obscurity than before.

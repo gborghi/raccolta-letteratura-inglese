@@ -14,6 +14,12 @@ tags:
 </nav>
 
 
+‘What!’ cried Miss Sally, starting up, clapping her hands, and
+scattering the papers on the floor.  ‘Gone!  Now who’s right?  Now
+who’s got it?  Never mind five pounds--what’s five pounds?  He’s
+honest, you know, quite honest.  It would be mean to suspect him.
+Don’t run after him.  No, no, not for the world!’
+
 ‘Is it really gone though?’ said Dick, looking at Brass with a face as
 pale as his own.
 

@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 33 (part 2)"
+title: "Oliver Twist — Chapter 33 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_33/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_33/part_03">part 03 ›</a></div>
 </nav>
 
+
+“Hush!” said Mrs. Maylie, laying her hand on [[Oliver]]’s head. “You think
+like a [[Child|child]], poor boy. But you teach me my duty, notwithstanding. I
+had forgotten it for a moment, [[Oliver]], but I [[Hope|hope]] I may be pardoned,
+for I am old, and have seen enough of illness and [[Death|death]] to know the
+agony of separation from the objects of our [[Love|love]]. I have seen enough,
+too, to know that it is not always the youngest and best who are spared
+to those that [[Love|love]] them; but this should give us comfort in our sorrow;
+for Heaven is just; and such things teach us, impressively, that there
+is a brighter world than this; and that the passage to it is speedy.
+God’s will be done! I [[Love|love]] her; and He knows how [[Well|well]]!”
 
 [[Oliver]] was surprised to see that as Mrs. Maylie said these words, she
 checked her lamentations as though by one effort; and drawing herself
@@ -114,25 +125,3 @@ look. “I [[Hope|hope]] I have not hurt you!”
 clenched teeth; “if I had only had the [[Courage|courage]] to say the word, I might
 have been free of you in a [[Night|night]]. Curses on your head, and black [[Death|death]]
 on your heart, you imp! What are you doing here?”
-
-The man shook his fist, as he uttered these words incoherently. He
-advanced towards [[Oliver]], as if with the intention of aiming a blow at
-him, but fell violently on the ground: writhing and foaming, in a fit.
-
-[[Oliver]] gazed, for a moment, at the struggles of the madman (for such he
-supposed him to be); and then darted into the [[house]] for help. Having
-seen him safely carried into the hotel, he turned his face homewards,
-running as fast as he could, to make up for lost [[Time|time]]: and recalling
-with a great deal of astonishment and some [[Fear|fear]], the extraordinary
-behaviour of the person from whom he had just parted.
-
-The circumstance did not dwell in his recollection long, however: for
-when he reached the cottage, there was enough to occupy his mind, and
-to drive all considerations of [[Self|self]] completely from his [[Memory|memory]].
-
-[[Rose Maylie]] had rapidly grown worse; before mid-[[Night|night]] she was
-delirious. A medical practitioner, who resided on the spot, was in
-constant attendance upon her; and after first seeing the patient, he
-had taken Mrs. Maylie aside, and pronounced her disorder to be one of a
-most alarming [[Nature|nature]]. “In fact,” he said, “it would be little short of
-a miracle, if she recovered.”

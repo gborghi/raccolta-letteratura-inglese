@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 16 (part 4)"
+title: "The Tenant of Wildfell Hall — Chapter 16 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,36 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_16/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_17/part_01">part 01 ›</a></div>
 </nav>
 
+
+and I want to speak with you. Tell me, my dear, what are your
+
+objections to him? Do you deny that he is an upright, honourable man?”
+
+
+
+“No.”
+
+
+
+“Do you deny that he is sensible, sober, respectable?”
+
+
+
+“No; he may be all this, but—”
+
+
+
+“_But_ [[Helen]]! How many such men do you expect to meet with in the
+
+world? Upright, honourable, sensible, sober, respectable! Is _this_
+
+such an every-day character that you should reject the possessor of
+
+such noble qualities without a moment’s hesitation? Yes, _noble_ I may
+
+call them; for think of the full meaning of each, and how many
+
+inestimable virtues they include (and I might add many more to the
 
 list), and consider that all this is laid at your feet. It is in your
 

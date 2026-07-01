@@ -122,8 +122,3 @@ up long enough, there isn't any more up or down, but a sort
 of green, dizzy dream; with [[Birds|birds]] that might as [[Well|well]] be fishes.
 They're just odd shapes of different colours against the green,
 brown and grey, and one of them looks quite yellow."
-
-"A yellow-hammer, I suppose," remarked Garth.
-
-"It doesn't look like a hammer," said Gale, sleepily; "not such
-an odd shape as all that."

@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 53 (part 6)"
+title: "Nicholas Nickleby — Chapter 53 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_53/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_54/part_01">part 01 ›</a></div>
 </nav>
 
+
+He paused again, and still [[arthur|Arthur]] Gride glared upon him in [[Silence|silence]].
+
+‘If you were a man to whom I could appeal with any [[Hope|hope]] of touching
+his compassion or humanity,’ said Nicholas, ‘I would urge upon you to
+remember the helplessness, the [[innocence]], the youth, of this lady; her
+worth and [[Beauty|beauty]], her filial excellence, and last, and more than all,
+as concerning you more nearly, the appeal she has made to your [[Mercy|mercy]] and
+your manly feeling. But, I take the only ground that can be taken with
+men like you, and ask what money will buy you off. Remember the danger
+to which you are exposed. You see I know enough to know much more with
+very little help. Bate some expected gain for the risk you save, and say
+what is your price.’
 
 Old [[arthur|Arthur]] Gride moved his lips, but they only formed an ugly smile and
 were motionless again.

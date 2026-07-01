@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 29 (part 2)"
+title: "Shirley — Chapter 29 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_29/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_29/part_03">part 03 ›</a></div>
 </nav>
 
+
+mate of [[Death]]!
+
+
+
+"It is pleasant to write about what is near and dear as the core of my
+
+heart. None can deprive me of this little book, and through this pencil
+
+I can say to it what I will--say what I dare utter to nothing
+
+living--say what I dare not _think_ aloud.
+
+
+
+"We have scarcely encountered each other since that evening. Once, when
 
 I was [[Alone|alone]] in the drawing-room, seeking a book of Henry's, she entered,
 
@@ -181,19 +197,3 @@ know--my heart knows it, for it has felt it--that she resigns herself to
 me unreluctantly. Is she conscious how my strength rejoices to serve
 
 her? I myself am not her slave--I declare it--but my faculties gather
-
-to her [[Beauty|beauty]], like the genii to the glisten of the lamp. All my
-
-knowledge, all my prudence, all my calm, and all my power stand in her
-
-presence humbly waiting a task. How glad they are when a mandate comes!
-
-What joy they take in the toils she assigns! Does she know it?
-
-
-
-"I have called her careless. It is remarkable that her carelessness
-
-never compromises her refinement. Indeed, through this very loophole of
-
-character, the reality, depth, genuineness of that refinement may be

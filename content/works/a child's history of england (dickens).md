@@ -48,14 +48,14 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Story 01 UDFOG is a pleasant towna remarkably ple](/testi/dickens/atomized/a_childs_history_of_england/story_01_udfog_is_a_pleasant_towna_remarkably_ple)
-- [Story 02 OACH HOUSE PIG AND TINDER BOX](/testi/dickens/atomized/a_childs_history_of_england/story_02_oach_house_pig_and_tinder_box)
-- [Story 03 OACH HOUSE ORIGINAL PIG](/testi/dickens/atomized/a_childs_history_of_england/story_03_oach_house_original_pig)
-- [Story 04 N October last we did ourselves the immo](/testi/dickens/atomized/a_childs_history_of_england/story_04_n_october_last_we_did_ourselves_the_immo)
-- [Story 05 ARGE ROOM BOOT JACK AND COUNTENANCE](/testi/dickens/atomized/a_childs_history_of_england/story_05_arge_room_boot_jack_and_countenance)
-- [Story 06 R ROBERT BOLTON](/testi/dickens/atomized/a_childs_history_of_england/story_06_r_robert_bolton)
-- [Story 07 N the parlour of the Green Dragon a publ](/testi/dickens/atomized/a_childs_history_of_england/story_07_n_the_parlour_of_the_green_dragon_a_publ)
-- [Story 08 Y CHILD](/testi/dickens/atomized/a_childs_history_of_england/story_08_y_child)
+- Story 01 UDFOG is a pleasant towna remarkably ple
+- Story 02 OACH HOUSE PIG AND TINDER BOX
+- Story 03 OACH HOUSE ORIGINAL PIG
+- Story 04 N October last we did ourselves the immo
+- Story 05 ARGE ROOM BOOT JACK AND COUNTENANCE
+- Story 06 R ROBERT BOLTON
+- Story 07 N the parlour of the Green Dragon a publ
+- Story 08 Y CHILD
 
 
 ## Testo integrale / Full text

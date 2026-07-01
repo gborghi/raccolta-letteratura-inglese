@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 37 (part 4)"
+title: "Villette — Chapter 37 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,35 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_39/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_39/part_05">part 05 ›</a></div>
 </nav>
 
+
+She _did_ tremble: growing excitement, kindling feeling, and also
+gathering [[Courage|courage]], shook her.
+
+“I hate to hide my actions from you, papa. I [[Fear|fear]] you and [[Love|love]] you
+above everything but God. Read the letter; look at the address.”
+
+She laid it on his knee. He took it up and read it through; his hand
+shaking, his eyes glistening meantime.
+
+He re-folded it, and viewed the writer with a strange, tender, mournful
+amaze.
+
+“Can _she_ write so—the little thing that stood at my knee but
+yesterday? Can she feel so?”
+
+“Papa, is it wrong? Does it [[Pain|pain]] you?”
+
+“There is nothing wrong in it, my [[Innocent|innocent]] little Mary; but it pains
+me.”
+
+“But, papa, listen! You shall not be pained by me. I would give up
+everything—almost” (correcting herself); “I would die rather than make
+you unhappy; that would be too wicked!”
+
+She shuddered.
+
+“Does the letter not please you? Must it not go? Must it be torn? It
+shall, for your sake, if you order it.”
 
 “I order nothing.”
 
@@ -137,27 +166,3 @@ hospitality. I entertained you; you have taken my best. I was always
 glad to see you; you were glad to see the one precious thing I had. You
 spoke me fair; and, meantime, I will not say you _robbed_ me, but I am
 bereaved, and what I have lost, _you_, it seems, have won.”
-
-“Sir, I cannot repent.”
-
-“Repent! Not you! You triumph, no [[Doubt|doubt]]: John Graham, you descended
-partly from a Highlander and a chief, and there is a trace of the Celt
-in all you look, speak, and think. You have his cunning and his charm.
-The red—([[Well]] then, Polly, the _fair_) hair, the tongue of guile, and
-brain of wile, are all come down by inheritance.”
-
-“Sir, I _feel_ honest enough,” said Graham; and a genuine English blush
-covered his face with its warm witness of sincerity. “And yet,” he
-added, “I won’t deny that in some respects you accuse me justly. In
-your presence I have always had a thought which I dared not show you. I
-did truly regard you as the possessor of the most valuable thing the
-world owns for me. I wished for it: I tried for it. Sir, I ask for it
-now.”
-
-“John, you ask much.”
-
-“Very much, sir. It must come from your generosity, as a gift; from
-your justice, as a reward. I can never earn it.”
-
-“Ay! Listen to the Highland tongue!” said Mr. [[Home]]. “Look up, Polly!
-Answer this ‘braw wooer;’ send him away!”

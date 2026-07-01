@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The Miracle of [[Moon]] Crescent (part 5)"
+title: "incredulity Fr Brown — The Miracle of Moon Crescent (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity_fr_brown/story_04_the_miracle_of_moon_crescent/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity_fr_brown/story_04_the_miracle_of_moon_crescent/part_06">part 06 ›</a></div>
 </nav>
 
+
+'Snakes!' cried the impetuous Westerner, like one speaking before he
+could stop himself; 'suppose there were something in it, after all!'
+
+'I must confess,' said Fenner, frowning at the table, 'that his
+reverence's anticipations were apparently [[Well|well]] founded. I don't know
+whether he has anything else to tell us.'
 
 'He might possibly tell us,' said Vandam, sardonically, 'what the devil
 we are to do now.'
@@ -69,7 +76,7 @@ and a comparatively short length of it hung from the fork of the branch
 to the [[Body|body]]. A long [[Garden|garden]] tub was rolled a yard or so from under the
 feet, like the stool kicked away from the feet of a [[suicide]].
 
-'Oh, my God!' said Alboin, so that it seemed as much a [[prayer]] as an
+'Oh, my God!' said Alboin, so that it seemed as much a [[Prayer|prayer]] as an
 oath.' What was it that man said about him? - 'If he knew, he would be
 ready to hang himself.' Wasn't that what he said, [[Father Brown]]?'
 
@@ -123,12 +130,3 @@ spreading of the Breath of Life religion or the Great Spirit, had
 nothing to draw him away at the moment from the immediate affair. So
 they stood in a row in the inspector's office, prepared to corroborate
 each other.
-
-'Now I'd better tell you to start with,' said the inspector cheerfully,
-'that it's no good for anybody to come to me with any miraculous stuff.
-I'm a practical man and a policeman, and that sort of thing is all very
-[[Well|well]] for priests and parsons. This priest of yours seems to have got you
-all worked up about some story of a dreadful [[Death|death]] and judgement; but
-I'm going to leave him and his religion out of it altogether. If Wynd
-came out of that room, somebody let him out. And if Wynd was found
-hanging on that tree, somebody hung him there.'

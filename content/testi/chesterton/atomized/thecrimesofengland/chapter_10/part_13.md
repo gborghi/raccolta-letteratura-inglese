@@ -1,5 +1,5 @@
 ---
-title: "[[TheCrimesOfEngland]] — Chapter 10 (part 13)"
+title: "TheCrimesOfEngland — Chapter 10 (part 13)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thecrimesofengland-(chesterton)"
@@ -14,6 +14,70 @@ tags:
 </nav>
 
 
+the ideal Englishman was too much of a squire; but it is just to add
+
+that the ideal squire was a good squire. The best squire I know in
+
+fiction is Duke [[Theseus]] in "The Midsummer [[Night]]'s Dream," who is kind to
+
+his people and proud of his [[dogs]]; and would be a perfect human being if
+
+he were not just a little bit prone to be kind to both of them in the
+
+same way. But such natural and even pagan good-[[Nature|nature]] is consonant with
+
+the warm wet woods and comfortable clouds of South England; it never had
+
+any place among the harsh and thrifty squires in the plains of East
+
+Prussia, the land of the East [[Wind]]. They were peevish as [[Well|well]] as proud,
+
+and everything they created, but especially their army, was made
+
+coherent by sheer brutality. Discipline was cruel enough in all the
+
+eighteenth-century armies, created long after the [[Decay|decay]] of any [[Faith|faith]] or
+
+[[Hope|hope]] that could hold men together. But the state that was first in
+
+[[Germany]] was first in ferocity. Frederick the Great had to forbid his
+
+English admirers to follow his regiments during the campaign, lest they
+
+should discover that the most enlightened of kings had only excluded
+
+torture from law to impose it without law. This influence, as we have
+
+seen, left on Ireland a fearful mark which will never be effaced.
+
+English rule in Ireland had been bad before; but in the broadening light
+
+of the revolutionary century I [[Doubt|doubt]] whether it could have continued as
+
+bad, if we had not taken a side that forced us to flatter barbarian
+
+tyranny in Europe. We should hardly have seen such a [[nightmare]] as the
+
+Anglicising of Ireland if we had not already seen the Germanising of
+
+England. But even in England it was not without its effects; and one of
+
+its effects was to rouse a man who is, perhaps, the best English witness
+
+to the effect on the England of that [[Time|time]] of the Alliance with [[Germany]].
+
+With that man I shall deal in the chapter that follows.
+
+V--_The Lost England_
+
+Telling the [[Truth|truth]] about Ireland is not very pleasant to a patriotic
+
+Englishman; but it is very patriotic. It is the [[Truth|truth]] and nothing but
+
+the [[Truth|truth]] which I have but touched on in the last chapter. Several
+
+times, and especially at the beginning of this war, we narrowly escaped
+
 ruin because we neglected that [[Truth|truth]], and would insist on treating our
 
 crimes of the '98 and after as very distant; while in Irish feeling, and
@@ -25,8 +89,6 @@ all appropriate to the case, and will not do. It may be a good thing to
 forget and forgive; but it is altogether too easy a trick to forget and
 
 be forgiven.
-
-
 
 The [[Truth|truth]] about Ireland is simply this: that the relations between
 
@@ -119,75 +181,3 @@ Presidents in and out; if half the best troops of the country were
 trained with the tomahawk and half the best journalism of the capital
 
 written in picture-writing, if later, by general consent, the Chief
-
-known as Pine in the Twilight, was the best living poet, or the Chief
-
-Thin Red Fox, the ablest living dramatist. If that were realised, the
-
-English critic probably would not say anything scornful of red men;
-
-or certainly would be sorry he said it. But the extraordinary avowal
-
-does mark what was most peculiar in the position. This has not been the
-
-common case of misgovernment. It is not merely that the institutions we
-
-set up were indefensible; though the curious mark of them is that they
-
-were literally indefensible; from Wood's Halfpence to the Irish Church
-
-Establishment. There can be no more excuse for the method used by Pitt
-
-than for the method used by Pigott. But it differs further from
-
-ordinary misrule in the vital matter of its object. The coercion was not
-
-imposed that the people might live quietly, but that the people might
-
-die quietly. And then we sit in an owlish [[innocence]] of our sin, and
-
-[[debate]] whether the Irish might conceivably succeed in saving Ireland.
-
-We, as a matter of fact, have not even failed to save Ireland. We have
-
-simply failed to destroy her.
-
-
-
-It is not possible to reverse this judgment or to take away a single
-
-count from it. Is there, then, anything whatever to be said for the
-
-English in the matter? There is: though the English never by any chance
-
-say it. Nor do the Irish say it; though it is in a sense a weakness as
-
-[[Well|well]] as a defence. One would think the Irish had reason to say anything
-
-that can be said against the English ruling class, but they have not
-
-said, indeed they have hardly discovered, one quite simple fact--that it
-
-rules England. They are right in asking that the Irish should have a say
-
-in the Irish [[government]], but they are quite wrong in supposing that the
-
-English have any particular say in English [[government]]. And I seriously
-
-believe I am not deceived by any national bias, when I say that the
-
-common Englishman would be quite incapable of the cruelties that were
-
-committed in his name. But, most important of all, it is the historical
-
-fact that there was another England, an England consisting of common
-
-Englishmen, which not only certainly would have done better, but
-
-actually did make some considerable attempt to do better. If anyone asks
-
-for the evidence, the answer is that the evidence has been destroyed, or
-
-at least deliberately boycotted: but can be found in the unfashionable
-
-corners of literature; and, when found, is final. If anyone asks for the

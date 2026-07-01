@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 14 (part 2)"
+title: "The Professor — Chapter 14 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -14,11 +14,15 @@ tags:
 </nav>
 
 
+some ruthless hand had snatched from him his only ewe-[[Lamb|lamb]]. Such being
+
+the case, and the case it is, my readers will agree with me that there
+
+was nothing either very meritorious or very marvellous in the
+
 integrity and moderation of my conduct at Mdlle. Reuter’s pensionnat de
 
 demoiselles.
-
-
 
 My first business this afternoon consisted in reading the list of
 
@@ -90,8 +94,6 @@ brand of mental inferiority was considered by them as no disgrace, their
 
 hopes for the future being based solely on their personal attractions.
 
-
-
 This affair arranged, the regular lesson followed. During a brief
 
 interval, employed by the pupils in ruling their books, my eye, ranging
@@ -154,8 +156,6 @@ but these traits would probably have passed unnoticed by any less
 
 crotchety observer.
 
-
-
 Now, reader, though I have spent more than a page in describing Mdlle.
 
 Henri, I know [[Well|well]] enough that I have left on your mind’s eye no
@@ -171,8 +171,6 @@ long or short, her face square or oval; nor could I the first day,
 and it is not my intention to communicate to you at once a knowledge I
 
 myself gained by little and little.
-
-
 
 I gave a short exercise: which they all wrote down. I saw the new pupil
 

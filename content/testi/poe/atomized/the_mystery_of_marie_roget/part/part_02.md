@@ -1,5 +1,5 @@
 ---
-title: "[[The Mystery of Marie Roget]] (part 2)"
+title: "The Mystery of Marie Roget (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-mystery-of-marie-roget-(poe)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_mystery_of_marie_roget/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/the_mystery_of_marie_roget/part/part_03">part 03 ›</a></div>
 </nav>
 
+
+      soon became notorious through the charms of the sprightly
+
+      grisette. She had been in his employ about a year, when her
 
       admirers were thrown info confusion by her sudden disappearance
 
@@ -189,13 +193,3 @@ tags:
       Dupin, and made him a direct, and certainly a liberal
 
       proposition, the precise [[Nature|nature]] of which I do not feel myself at
-
-      liberty to disclose, but which has no bearing upon the proper
-
-      subject of my narrative.
-
-
-
-      The compliment my friend rebutted as best he could, but the
-
-      proposition he accepted at once, although its advantages were

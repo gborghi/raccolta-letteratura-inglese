@@ -1,5 +1,5 @@
 ---
-title: "[[conversion]] — Chapter 4: THE WORLD INSIDE OUT"
+title: "conversion — Chapter 4: THE WORLD INSIDE OUT"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/conversion-(chesterton)"
@@ -384,7 +384,7 @@ understand is that of the pagan and not the Puritan; and upon
 that antique [[conversion]] is founded the whole world that we know.
 It is a transformation far more vast and tremendous
 than anything that has been meant for many years past,
-at least in England and [[america|America]], by a sectarian controversy
+at least in England and [[America]], by a sectarian controversy
 or a doctrinal division.  On the height of that ancient empire
 and that international experience, humanity had a vision.
 It has not had another; but only quarrels about that one.

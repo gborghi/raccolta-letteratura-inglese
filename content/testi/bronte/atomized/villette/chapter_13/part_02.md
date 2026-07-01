@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 13 (part 2)"
+title: "Villette — Chapter 13 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -113,9 +113,3 @@ first [[Time|time]] she had chosen to absent herself on the occasion of a visit
 from Dr. John. The whole arrangement indicated some plan; this I saw,
 but without the least anxiety. “Ha! ha! Madame,” laughed Light-heart
 the Beggar, “your crafty wits are on the wrong tack.”
-
-She departed, attired very smartly, in a shawl of price, and a certain
-_chapeau vert tendre_—hazardous, as to its tint, for any complexion
-less fresh than her own, but, to her, not unbecoming. I wondered what
-she intended: whether she really would send Dr. John or not; or whether
-indeed he would come: he might be engaged.

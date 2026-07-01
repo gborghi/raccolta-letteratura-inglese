@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 48"
+title: "The Tenant of Wildfell Hall — Chapter 48"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -100,7 +100,7 @@ complete slave of me; and I know it would be unpardonable weakness to
 
 give up all other interests for him. I have the servants to overlook,
 
-and my little [[arthur|Arthur]] to attend to,—and my own health too, all of which
+and my little [[Arthur]] to attend to,—and my own health too, all of which
 
 would be entirely neglected were I to satisfy his exorbitant demands. I
 
@@ -154,7 +154,7 @@ from him and from the future.
 
 
 
-“But if I find it necessary to leave you, [[arthur|Arthur]], I shall not ‘run
+“But if I find it necessary to leave you, [[Arthur]], I shall not ‘run
 
 away’: you know I have your own promise that I may go whenever I
 

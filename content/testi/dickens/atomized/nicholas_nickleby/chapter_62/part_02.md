@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 62 (part 2)"
+title: "Nicholas Nickleby — Chapter 62 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,27 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_62/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_63/part_01">part 01 ›</a></div>
 </nav>
 
+
+But one tender thought, or one of natural regret, in his whirlwind of
+passion and remorse, was as a drop of calm [[Water|water]] in a stormy maddened
+sea. His hatred of Nicholas had been fed upon his own defeat, nourished
+on his interference with his schemes, fattened upon his old defiance
+and [[success]]. There were reasons for its increase; it had grown and
+strengthened gradually. Now it attained a height which was sheer wild
+lunacy. That his, of all others, should have been the hands to rescue
+his miserable [[Child|child]]; that he should have been his protector and faithful
+friend; that he should have shown him that [[Love|love]] and tenderness which,
+from the wretched moment of his birth, he had never known; that he
+should have taught him to hate his own parent and execrate his very
+name; that he should now know and feel all this, and triumph in the
+recollection; was gall and [[Madness|madness]] to the usurer’s heart. The dead
+boy’s [[Love|love]] for Nicholas, and the attachment of Nicholas to him, was
+insupportable agony. The picture of his deathbed, with Nicholas at his
+side, tending and supporting him, and he breathing out his thanks, and
+expiring in his arms, when he would have had them mortal enemies and
+hating each other to the last, drove him frantic. He gnashed his teeth
+and smote the air, and looking wildly round, with eyes which gleamed
+through the darkness, cried aloud:
 
 ‘I am trampled down and ruined. The wretch told me true. The [[Night|night]] has
 come! Is there no way to rob them of further triumph, and spurn their

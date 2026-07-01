@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 9"
+title: "Our Mutual Friend — Chapter 11"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,377 +14,606 @@ tags:
 </nav>
 
 
-Chapter 9
-
-IN WHICH THE [[Orphan|ORPHAN]] MAKES HIS WILL
-
-
-The Secretary, working in the Dismal Swamp betimes next morning, was
-informed that a youth waited in the hall who gave the name of Sloppy.
-The footman who communicated this intelligence made a decent pause
-before uttering the name, to express that it was forced on his
-reluctance by the youth in question, and that if the youth had had
-the good sense and good taste to inherit some other name it would have
-spared the feelings of him the bearer.
-
-‘Mrs Boffin will be very [[Well|well]] pleased,’ said the Secretary in a
-perfectly composed way. ‘Show him in.’
-
-Mr Sloppy being introduced, remained close to the door: revealing
-in various parts of his form many surprising, confounding, and
-incomprehensible buttons.
-
-‘I am glad to see you,’ said John Rokesmith, in a cheerful tone of
-welcome. ‘I have been expecting you.’
-
-Sloppy explained that he had meant to come before, but that the [[Orphan]]
-(of whom he made mention as Our Johnny) had been ailing, and he had
-waited to report him [[Well|well]].
-
-‘Then he is [[Well|well]] now?’ said the Secretary.
-
-‘No he ain’t,’ said Sloppy.
-
-Mr Sloppy having shaken his head to a considerable extent, proceeded
-to remark that he thought Johnny ‘must have took ’em from the Minders.’
-Being asked what he meant, he answered, them that come out upon him and
-partickler his chest. Being requested to explain himself, he stated that
-there was some of ’em wot you couldn’t kiver with a sixpence. Pressed to
-fall back upon a nominative case, he opined that they wos about as
-red as ever red could be. ‘But as long as they strikes out’ards, sir,’
-continued Sloppy, ‘they ain’t so much. It’s their striking in’ards
-that’s to be kep off.’
-
-John Rokesmith hoped the [[Child|child]] had had medical attendance? Oh yes, said
-Sloppy, he had been took to the doctor’s shop once. And what did the
-doctor call it? Rokesmith asked him. After some perplexed reflection,
-Sloppy answered, brightening, ‘He called it something as wos wery
-long for spots.’ Rokesmith suggested measles. ‘No,’ said Sloppy with
-confidence, ‘ever so much longer than THEM, sir!’ (Mr Sloppy was
-elevated by this fact, and seemed to consider that it reflected credit
-on the poor little patient.)
-
-‘Mrs Boffin will be sorry to hear this,’ said Rokesmith.
-
-‘Mrs Higden said so, sir, when she kep it from her, hoping as Our Johnny
-would work round.’
-
-‘But I [[Hope|hope]] he will?’ said Rokesmith, with a quick turn upon the
-messenger.
-
-‘I [[Hope|hope]] so,’ answered Sloppy. ‘It all depends on their striking
-in’ards.’ He then went on to say that whether Johnny had ‘took ’em’
-from the Minders, or whether the Minders had ‘took ’em’ from Johnny,
-the Minders had been sent [[Home|home]] and had ‘got ’em.’ Furthermore, that Mrs
-Higden’s days and nights being devoted to Our Johnny, who was never out
-of her lap, the whole of the mangling arrangements had devolved upon
-himself, and he had had ‘rayther a tight [[Time|time]]’. The ungainly piece of
-honesty beamed and blushed as he said it, quite enraptured with the
-remembrance of having been serviceable.
-
-‘Last [[Night|night]],’ said Sloppy, ‘when I was a-turning at the [[Wheel|wheel]] pretty
-late, the mangle seemed to go like Our Johnny’s breathing. It begun
-beautiful, then as it went out it shook a little and got unsteady, then
-as it took the turn to come [[Home|home]] it had a rattle-like and lumbered a
-bit, then it come smooth, and so it went on till I scarce know’d which
-was mangle and which was Our Johnny. Nor Our Johnny, he scarce know’d
-either, for sometimes when the mangle lumbers he says, “Me choking,
-Granny!” and Mrs Higden holds him up in her lap and says to me “Bide a
-bit, Sloppy,” and we all stops together. And when Our Johnny gets his
-breathing again, I turns again, and we all goes on together.’
-
-Sloppy had gradually expanded with his description into a stare and a
-vacant grin. He now contracted, being silent, into a half-repressed gush
-of [[Tears|tears]], and, under pretence of being heated, drew the under part of
-his sleeve across his eyes with a singularly awkward, laborious, and
-roundabout smear.
-
-‘This is unfortunate,’ said Rokesmith. ‘I must go and break it to Mrs
-Boffin. Stay you here, Sloppy.’
-
-Sloppy stayed there, staring at the pattern of the paper on the wall,
-until the Secretary and Mrs Boffin came back together. And with Mrs
-Boffin was a young lady (Miss [[Bella Wilfer]] by name) who was better worth
-staring at, it occurred to Sloppy, than the best of wall-papering.
-
-‘Ah, my poor dear pretty little [[John Harmon]]!’ exclaimed Mrs Boffin.
-
-‘Yes mum,’ said the sympathetic Sloppy.
-
-‘You don’t think he is in a very, very bad way, do you?’ asked the
-pleasant creature with her wholesome cordiality.
-
-Put upon his good [[Faith|faith]], and finding it in collision with his
-inclinations, Sloppy threw back his head and uttered a mellifluous howl,
-rounded off with a sniff.
-
-‘So bad as that!’ cried Mrs Boffin. ‘And Betty Higden not to tell me of
-it sooner!’
-
-‘I think she might have been mistrustful, mum,’ answered Sloppy,
-hesitating.
-
-‘Of what, for Heaven’s sake?’
-
-‘I think she might have been mistrustful, mum,’ returned Sloppy with
-submission, ‘of standing in Our Johnny’s light. There’s so much trouble
-in illness, and so much expense, and she’s seen such a lot of its being
-objected to.’
-
-‘But she never can have thought,’ said Mrs Boffin, ‘that I would grudge
-the dear [[Child|child]] anything?’
-
-‘No mum, but she might have thought (as a habit-like) of its standing
-in Johnny’s light, and might have tried to bring him through it
-unbeknownst.’
-
-Sloppy knew his ground [[Well|well]]. To conceal herself in sickness, like a
-lower animal; to creep out of sight and coil herself away and die; had
-become this woman’s instinct. To catch up in her arms the sick [[Child|child]] who
-was dear to her, and hide it as if it were a criminal, and keep off all
-ministration but such as her own ignorant tenderness and patience could
-supply, had become this woman’s idea of maternal [[Love|love]], fidelity, and
-duty. The shameful accounts we read, every week in the Christian year,
-my lords and gentlemen and honourable boards, the infamous records of
-small official inhumanity, do not pass by the people as they pass by
-us. And hence these irrational, blind, and obstinate prejudices, so
-astonishing to our magnificence, and having no more reason in them—God
-save the [[Queen]] and Confound their politics—no, than smoke has in coming
-from [[Fire|fire]]!
-
-‘It’s not a right place for the poor [[Child|child]] to stay in,’ said Mrs Boffin.
-‘Tell us, dear Mr Rokesmith, what to do for the best.’
-
-He had already thought what to do, and the consultation was very short.
-He could pave the way, he said, in half an hour, and then they would go
-down to Brentford. ‘Pray take me,’ said Bella. Therefore a carriage was
-ordered, of capacity to take them all, and in the meantime Sloppy
-was regaled, feasting [[Alone|alone]] in the Secretary’s room, with a complete
-realization of that fairy vision—meat, beer, vegetables, and pudding.
-In consequence of which his buttons became more importunate of public
-notice than before, with the exception of two or three about the region
-of the waistband, which modestly withdrew into a creasy retirement.
-
-Punctual to the [[Time|time]], appeared the carriage and the Secretary. He sat
-on the box, and Mr Sloppy graced the rumble. So, to the Three Magpies as
-before: where Mrs Boffin and Miss Bella were handed out, and whence they
-all went on foot to Mrs Betty Higden’s.
-
-But, on the way down, they had stopped at a toy-shop, and had bought
-that noble charger, a description of whose points and trappings had on
-the last occasion conciliated the then worldly-minded [[Orphan|orphan]], and also a
-Noah’s ark, and also a yellow bird with an artificial voice in him,
-and also a military doll so [[Well|well]] dressed that if he had only been of
-life-size his brother-officers in the Guards might never have found him
-out. Bearing these gifts, they raised the latch of Betty Higden’s door,
-and saw her sitting in the dimmest and furthest corner with poor Johnny
-in her lap.
-
-‘And how’s my boy, Betty?’ asked Mrs Boffin, sitting down beside her.
-
-‘He’s bad! He’s bad!’ said Betty. ‘I begin to be afeerd he’ll not be
-yours any more than mine. All others belonging to him have gone to
-the Power and the Glory, and I have a mind that they’re drawing him to
-them—leading him away.’
-
-‘No, no, no,’ said Mrs Boffin.
-
-‘I don’t know why else he clenches his little hand as if it had hold of
-a finger that I can’t see. Look at it,’ said Betty, opening the wrappers
-in which the flushed [[Child|child]] lay, and showing his small right hand lying
-closed upon his breast. ‘It’s always so. It don’t mind me.’
-
-‘Is he asleep?’
-
-‘No, I think not. You’re not asleep, my Johnny?’
-
-‘No,’ said Johnny, with a quiet air of pity for himself; and without
-opening his eyes.
-
-‘Here’s the lady, Johnny. And the [[Horse|horse]].’
-
-Johnny could bear the lady, with complete indifference, but not the
-[[Horse|horse]]. Opening his heavy eyes, he slowly broke into a smile on beholding
-that splendid phenomenon, and wanted to take it in his arms. As it was
-much too big, it was put upon a chair where he could hold it by the mane
-and contemplate it. Which he soon forgot to do.
-
-But, Johnny murmuring something with his eyes closed, and Mrs Boffin
-not knowing what, old Betty bent her ear to listen and took pains to
-understand. Being asked by her to repeat what he had said, he did so two
-or three times, and then it came out that he must have seen more than
-they supposed when he looked up to see the [[Horse|horse]], for the murmur was,
-‘Who is the boofer lady?’ Now, the boofer, or beautiful, lady was Bella;
-and whereas this notice from the poor baby would have touched her of
-itself; it was rendered more pathetic by the late melting of her heart
-to her poor little father, and their joke about the lovely woman. So,
-Bella’s behaviour was very tender and very natural when she kneeled on
-the brick floor to clasp the [[Child|child]], and when the [[Child|child]], with a [[Child|child]]’s
-admiration of what is young and pretty, fondled the boofer lady.
-
-‘Now, my good dear Betty,’ said Mrs Boffin, hoping that she saw her
-opportunity, and laying her hand persuasively on her arm; ‘we have come
-to remove Johnny from this cottage to where he can be taken better care
-of.’
-
-Instantly, and before another word could be spoken, the old woman
-started up with blazing eyes, and rushed at the door with the sick
-[[Child|child]].
-
-‘Stand away from me every one of ye!’ she cried out wildly. ‘I see what
-ye mean now. Let me go my way, all of ye. I’d sooner kill the Pretty,
-and kill myself!’
-
-‘Stay, stay!’ said Rokesmith, soothing her. ‘You don’t understand.’
-
-‘I understand too [[Well|well]]. I know too much about it, sir. I’ve run from
-it too many a year. No! Never for me, nor for the [[Child|child]], while there’s
-[[Water|water]] enough in England to cover us!’
-
-The terror, the shame, the passion of horror and repugnance, firing the
-worn face and perfectly maddening it, would have been a quite terrible
-sight, if embodied in one old fellow-creature [[Alone|alone]]. Yet it ‘crops
-up’—as our slang goes—my lords and gentlemen and honourable boards, in
-other fellow-creatures, rather frequently!
-
-‘It’s been chasing me all my life, but it shall never take me nor mine
-alive!’ cried old Betty. ‘I’ve done with ye. I’d have fastened door and
-[[Window|window]] and starved out, afore I’d ever have let ye in, if I had known
-what ye came for!’
-
-But, catching sight of Mrs Boffin’s wholesome face, she relented, and
-crouching down by the door and bending over her burden to hush it, said
-humbly: ‘Maybe my fears has put me wrong. If they have so, tell me, and
-the good Lord forgive me! I’m quick to take this fright, I know, and my
-head is summ’at light with wearying and watching.’
-
-‘There, there, there!’ returned Mrs Boffin. ‘Come, come! Say no more of
-it, Betty. It was a mistake, a mistake. Any one of us might have made it
-in your place, and felt just as you do.’
-
-‘The Lord bless ye!’ said the old woman, stretching out her hand.
-
-‘Now, see, Betty,’ pursued the sweet compassionate [[Soul|soul]], holding the
-hand kindly, ‘what I really did mean, and what I should have begun by
-saying out, if I had only been a little wiser and handier. We want to
-move Johnny to a place where there are none but children; a place set
-up on purpose for sick children; where the good doctors and nurses pass
-their lives with children, talk to none but children, touch none but
-children, comfort and cure none but children.’
-
-‘Is there really such a place?’ asked the old woman, with a gaze of
-[[Wonder|wonder]].
-
-‘Yes, Betty, on my word, and you shall see it. If my [[Home|home]] was a better
-place for the dear boy, I’d take him to it; but indeed indeed it’s not.’
-
-‘You shall take him,’ returned Betty, fervently kissing the comforting
-hand, ‘where you will, my deary. I am not so hard, but that I believe
-your face and voice, and I will, as long as I can see and hear.’
-
-This victory gained, Rokesmith made haste to profit by it, for he saw
-how woefully [[Time|time]] had been lost. He despatched Sloppy to bring the
-carriage to the door; caused the [[Child|child]] to be carefully wrapped up; bade
-old Betty get her bonnet on; collected the toys, enabling the little
-fellow to comprehend that his treasures were to be transported with
-him; and had all things prepared so easily that they were ready for
-the carriage as soon as it appeared, and in a minute afterwards were
-on their way. Sloppy they left behind, relieving his overcharged breast
-with a paroxysm of mangling.
-
-At the Children’s Hospital, the gallant steed, the Noah’s ark, yellow
-bird, and the officer in the Guards, were made as welcome as their
-[[Child|child]]-owner. But the doctor said aside to Rokesmith, ‘This should have
-been days ago. Too late!’
-
-However, they were all carried up into a fresh airy room, and there
-Johnny came to himself, out of a [[Sleep|sleep]] or a swoon or whatever it was,
-to find himself lying in a little quiet bed, with a little platform over
-his breast, on which were already arranged, to give him heart and urge
-him to cheer up, the Noah’s ark, the noble steed, and the yellow bird;
-with the officer in the Guards doing duty over the whole, quite as much
-to the satisfaction of his country as if he had been upon Parade. And at
-the bed’s head was a coloured picture beautiful to see, representing as
-it were another Johnny seated on the knee of some Angel surely who loved
-little children. And, marvellous fact, to lie and stare at: Johnny had
-become one of a little family, all in little quiet beds (except two
-playing dominoes in little arm-chairs at a little table on the hearth):
-and on all the little beds were little platforms whereon were to be
-seen dolls’ houses, woolly [[dogs]] with mechanical barks in them not very
-dissimilar from the artificial voice pervading the bowels of the yellow
-bird, tin armies, Moorish tumblers, wooden tea things, and the riches of
-the earth.
-
-As Johnny murmured something in his placid admiration, the ministering
-women at his bed’s head asked him what he said. It seemed that he wanted
-to know whether all these were brothers and sisters of his? So they told
-him yes. It seemed then, that he wanted to know whether God had brought
-them all together there? So they told him yes again. They made out then,
-that he wanted to know whether they would all get out of [[Pain|pain]]? So they
-answered yes to that question likewise, and made him understand that the
-reply included himself.
-
-Johnny’s powers of sustaining conversation were as yet so very
-imperfectly developed, even in a state of health, that in sickness they
-were little more than monosyllabic. But, he had to be washed and tended,
-and remedies were applied, and though those offices were far, far more
-skilfully and lightly done than ever anything had been done for him in
-his little life, so rough and short, they would have hurt and tired him
-but for an amazing circumstance which laid hold of his attention. This
-was no less than the appearance on his own little platform in pairs,
-of All Creation, on its way into his own particular ark: the elephant
-leading, and the fly, with a diffident sense of his size, politely
-bringing up the rear. A very little brother lying in the next bed with a
-broken leg, was so enchanted by this spectacle that his delight exalted
-its enthralling interest; and so came rest and [[Sleep|sleep]].
-
-‘I see you are not afraid to leave the dear [[Child|child]] here, Betty,’
-whispered Mrs Boffin.
-
-‘No, ma’am. Most willingly, most thankfully, with all my heart and
-[[Soul|soul]].’
-
-So, they kissed him, and left him there, and old Betty was to come back
-early in the morning, and nobody but Rokesmith knew for certain how that
-the doctor had said, ‘This should have been days ago. Too late!’
-
-But, Rokesmith knowing it, and knowing that his bearing it in mind would
-be acceptable thereafter to that good woman who had been the only light
-in the [[Childhood|childhood]] of desolate [[John Harmon]] dead and gone, resolved that
-late at [[Night|night]] he would go back to the bedside of [[John Harmon]]’s namesake,
-and see how it fared with him.
-
-The family whom God had brought together were not all asleep, but were
-all quiet. From bed to bed, a light womanly tread and a pleasant fresh
-face passed in the [[Silence|silence]] of the [[Night|night]]. A little head would lift itself
-up into the softened light here and there, to be kissed as the face went
-by—for these little patients are very loving—and would then submit
-itself to be composed to rest again. The mite with the broken leg was
-restless, and moaned; but after a while turned his face towards Johnny’s
-bed, to fortify himself with a view of the ark, and fell asleep. Over
-most of the beds, the toys were yet grouped as the children had left
-them when they last laid themselves down, and, in their [[Innocent|innocent]]
-grotesqueness and incongruity, they might have stood for the children’s
-[[Dreams|dreams]].
-
-The doctor came in too, to see how it fared with Johnny. And he and
-Rokesmith stood together, looking down with compassion on him.
-
-‘What is it, Johnny?’ Rokesmith was the questioner, and put an arm round
-the poor baby as he made a struggle.
-
-‘Him!’ said the little fellow. ‘Those!’
-
-The doctor was quick to understand children, and, taking the [[Horse|horse]],
-the ark, the yellow bird, and the man in the Guards, from Johnny’s bed,
-softly placed them on that of his next neighbour, the mite with the
-broken leg.
-
-With a weary and yet a pleased smile, and with an action as if he
-stretched his little figure out to rest, the [[Child|child]] heaved his [[Body|body]] on
-the sustaining arm, and seeking Rokesmith’s face with his lips, said:
-
-‘A kiss for the boofer lady.’
-
-Having now bequeathed all he had to dispose of, and arranged his affairs
-in this world, Johnny, thus speaking, left it.
+Chapter 11
+
+SOME AFFAIRS OF THE HEART
+
+
+Little Miss Peecher, from her little official dwelling-[[house]], with its
+little windows like the eyes in needles, and its little doors like the
+covers of school-books, was very observant indeed of the object of her
+quiet affections. [[Love]], though said to be afflicted with blindness, is
+a vigilant watchman, and Miss Peecher kept him on [[Double|double]] duty over Mr
+[[Bradley Headstone]]. It was not that she was naturally given to playing
+the spy—it was not that she was at all secret, plotting, or mean—it
+was simply that she loved the irresponsive Bradley with all the
+primitive and homely stock of [[Love|love]] that had never been examined or
+certificated out of her. If her faithful slate had had the latent
+qualities of sympathetic paper, and its pencil those of invisible ink,
+many a little treatise calculated to astonish the pupils would have come
+bursting through the dry sums in school-[[Time|time]] under the warming influence
+of Miss Peecher’s bosom. For, oftentimes when school was not, and her
+calm leisure and calm little [[house]] were her own, Miss Peecher would
+commit to the confidential slate an imaginary description of how, upon
+a balmy evening at dusk, two figures might have been observed in the
+market-[[Garden|garden]] ground round the corner, of whom one, being a manly form,
+bent over the other, being a womanly form of short stature and some
+compactness, and breathed in a low voice the words, ‘[[Emma]] Peecher, wilt
+thou be my own?’ after which the womanly form’s head reposed upon the
+manly form’s shoulder, and the nightingales tuned up. Though all unseen,
+and unsuspected by the pupils, [[Bradley Headstone]] even pervaded the
+school exercises. Was Geography in question? He would come triumphantly
+flying out of Vesuvius and Aetna ahead of the lava, and would boil
+unharmed in the hot springs of Iceland, and would float majestically
+down the Ganges and the Nile. Did [[history|History]] chronicle a [[King|king]] of men?
+Behold him in pepper-and-salt pantaloons, with his watch-guard round
+his neck. Were copies to be written? In capital B’s and H’s most of the
+girls under Miss Peecher’s tuition were half a year ahead of every other
+letter in the alphabet. And Mental Arithmetic, administered by Miss
+Peecher, often devoted itself to providing [[Bradley Headstone]] with a
+wardrobe of fabulous extent: fourscore and four neck-ties at two and
+ninepence-halfpenny, two gross of silver watches at four pounds fifteen
+and sixpence, seventy-four black hats at eighteen shillings; and many
+similar superfluities.
+
+The vigilant watchman, using his daily opportunities of turning his eyes
+in Bradley’s direction, soon apprized Miss Peecher that Bradley was more
+preoccupied than had been his wont, and more given to strolling about
+with a downcast and reserved face, turning something difficult in his
+mind that was not in the scholastic syllabus. Putting this and that
+together—combining under the head ‘this,’ present appearances and the
+intimacy with Charley Hexam, and ranging under the head ‘that’ the
+visit to his sister, the watchman reported to Miss Peecher his strong
+suspicions that the sister was at the [[Bottom|bottom]] of it.
+
+‘I [[Wonder|wonder]],’ said Miss Peecher, as she sat making up her weekly report on
+a half-holiday afternoon, ‘what they call Hexam’s sister?’
+
+Mary Anne, at her needlework, attendant and attentive, held her arm up.
+
+‘[[Well]], Mary Anne?’
+
+‘She is named Lizzie, ma’am.’
+
+‘She can hardly be named Lizzie, I think, Mary Anne,’ returned Miss
+Peecher, in a tunefully instructive voice. ‘Is Lizzie a Christian name,
+Mary Anne?’
+
+Mary Anne laid down her work, [[Rose|rose]], hooked herself behind, as being
+under catechization, and replied: ‘No, it is a corruption, Miss
+Peecher.’
+
+‘Who gave her that name?’ Miss Peecher was going on, from the mere force
+of habit, when she checked herself; on Mary Anne’s evincing theological
+impatience to strike in with her godfathers and her godmothers, and
+said: ‘I mean of what name is it a corruption?’
+
+‘Elizabeth, or Eliza, Miss Peecher.’
+
+‘Right, Mary Anne. Whether there were any Lizzies in the early Christian
+Church must be considered very doubtful, very doubtful.’ Miss Peecher
+was exceedingly sage here. ‘Speaking correctly, we say, then, that
+Hexam’s sister is called Lizzie; not that she is named so. Do we not,
+Mary Anne?’
+
+‘We do, Miss Peecher.’
+
+‘And where,’ pursued Miss Peecher, complacent in her little transparent
+fiction of conducting the examination in a semiofficial manner for Mary
+Anne’s benefit, not her own, ‘where does this young woman, who is called
+but not named Lizzie, live? Think, now, before answering.’
+
+‘In Church Street, [[smith|Smith]] Square, by Mill Bank, ma’am.’
+
+‘In Church Street, [[smith|Smith]] Square, by Mill Bank,’ repeated Miss Peecher,
+as if possessed beforehand of the book in which it was written. Exactly
+so. And what occupation does this young woman pursue, Mary Anne? Take
+[[Time|time]].’
+
+‘She has a place of trust at an outfitter’s in the [[City]], ma’am.’
+
+‘Oh!’ said Miss Peecher, pondering on it; but smoothly added, in a
+confirmatory tone, ‘At an outfitter’s in the [[City]]. Ye-es?’
+
+‘And Charley—’ Mary Anne was proceeding, when Miss Peecher stared.
+
+‘I mean Hexam, Miss Peecher.’
+
+‘I should think you did, Mary Anne. I am glad to hear you do. And
+Hexam—’
+
+‘Says,’ Mary Anne went on, ‘that he is not pleased with his sister, and
+that his sister won’t be guided by his advice, and persists in being
+guided by somebody else’s; and that—’
+
+‘Mr Headstone coming across the [[Garden|garden]]!’ exclaimed Miss Peecher, with a
+flushed glance at the looking-glass. ‘You have answered very [[Well|well]], Mary
+Anne. You are forming an excellent habit of arranging your thoughts
+clearly. That will do.’
+
+The discreet Mary Anne resumed her seat and her [[Silence|silence]], and stitched,
+and stitched, and was stitching when the schoolmaster’s [[Shadow|shadow]] came in
+before him, announcing that he might be instantly expected.
+
+‘Good evening, Miss Peecher,’ he said, pursuing the [[Shadow|shadow]], and taking
+its place.
+
+‘Good evening, Mr Headstone. Mary Anne, a chair.’
+
+‘Thank you,’ said Bradley, seating himself in his constrained manner.
+‘This is but a flying visit. I have looked in, on my way, to ask a
+kindness of you as a neighbour.’
+
+‘Did you say on your way, Mr Headstone?’ asked Miss Peecher.
+
+‘On my way to—where I am going.’
+
+‘Church Street, [[smith|Smith]] Square, by Mill Bank,’ repeated Miss Peecher, in
+her own thoughts.
+
+‘Charley Hexam has gone to get a book or two he wants, and will probably
+be back before me. As we leave my [[house]] empty, I took the liberty of
+telling him I would leave the key here. Would you kindly allow me to do
+so?’
+
+‘Certainly, Mr Headstone. Going for an evening walk, sir?’
+
+‘Partly for a walk, and partly for—on business.’
+
+‘Business in Church Street, [[smith|Smith]] Square, by Mill Bank,’ repeated Miss
+Peecher to herself.
+
+‘Having said which,’ pursued Bradley, laying his door-key on the table,
+‘I must be already going. There is nothing I can do for you, Miss
+Peecher?’
+
+‘Thank you, Mr Headstone. In which direction?’
+
+‘In the direction of Westminster.’
+
+‘Mill Bank,’ Miss Peecher repeated in her own thoughts once again. ‘No,
+thank you, Mr Headstone; I’ll not trouble you.’
+
+‘You couldn’t trouble me,’ said the schoolmaster.
+
+‘Ah!’ returned Miss Peecher, though not aloud; ‘but you can trouble
+ME!’ And for all her quiet manner, and her quiet smile, she was full of
+trouble as he went his way.
+
+She was right touching his destination. He held as straight a course
+for the [[house]] of the dolls’ dressmaker as the wisdom of his ancestors,
+exemplified in the construction of the intervening streets, would let
+him, and walked with a bent head hammering at one fixed idea. It had
+been an immoveable idea since he first set eyes upon her. It seemed to
+him as if all that he could suppress in himself he had suppressed, as
+if all that he could restrain in himself he had restrained, and the [[Time|time]]
+had come—in a rush, in a moment—when the power of [[Self|self]]-command had
+departed from him. [[Love]] at first sight is a trite expression quite
+sufficiently discussed; enough that in certain smouldering natures like
+this man’s, that passion leaps into a blaze, and makes such head as [[Fire|fire]]
+does in a rage of [[Wind|wind]], when other passions, but for its mastery, could
+be held in [[Chains|chains]]. As a multitude of weak, imitative natures are
+always lying by, ready to go mad upon the next wrong idea that may be
+broached—in these times, generally some form of tribute to Somebody
+for something that never was done, or, if ever done, that was done by
+Somebody Else—so these less ordinary natures may lie by for years,
+ready on the touch of an instant to burst into flame.
+
+The schoolmaster went his way, brooding and brooding, and a sense of
+being vanquished in a struggle might have been pieced out of his worried
+face. Truly, in his breast there lingered a resentful shame to find
+himself defeated by this passion for Charley Hexam’s sister, though in
+the very [[Self|self]]-same moments he was concentrating himself upon the object
+of bringing the passion to a successful issue.
+
+He appeared before the dolls’ dressmaker, sitting [[Alone|alone]] at her work.
+‘Oho!’ thought that sharp young personage, ‘it’s you, is it? I know your
+tricks and your manners, my friend!’
+
+‘Hexam’s sister,’ said [[Bradley Headstone]], ‘is not come [[Home|home]] yet?’
+
+‘You are quite a conjuror,’ returned Miss Wren.
+
+‘I will wait, if you please, for I want to speak to her.’
+
+‘Do you?’ returned Miss Wren. ‘Sit down. I [[Hope|hope]] it’s mutual.’ Bradley
+glanced distrustfully at the shrewd face again bending over the work,
+and said, trying to conquer [[Doubt|doubt]] and hesitation:
+
+‘I [[Hope|hope]] you don’t imply that my visit will be unacceptable to Hexam’s
+sister?’
+
+‘There! Don’t call her that. I can’t bear you to call her that,’
+returned Miss Wren, snapping her fingers in a volley of impatient snaps,
+‘for I don’t like Hexam.’
+
+‘Indeed?’
+
+‘No.’ Miss Wren wrinkled her nose, to express dislike. ‘Selfish. Thinks
+only of himself. The way with all of you.’
+
+‘The way with all of us? Then you don’t like ME?’
+
+‘So-so,’ replied Miss Wren, with a shrug and a laugh. ‘Don’t know much
+about you.’
+
+‘But I was not aware it was the way with all of us,’ said Bradley,
+returning to the accusation, a little injured. ‘Won’t you say, some of
+us?’
+
+‘Meaning,’ returned the little creature, ‘every one of you, but you.
+Hah! Now look this lady in the face. This is Mrs [[Truth]]. The Honourable.
+Full-dressed.’
+
+Bradley glanced at the doll she held up for his observation—which had
+been lying on its face on her bench, while with a needle and thread she
+fastened the dress on at the back—and looked from it to her.
+
+‘I stand the Honourable Mrs T. on my bench in this corner against the
+wall, where her blue eyes can shine upon you,’ pursued Miss Wren, doing
+so, and making two little dabs at him in the air with her needle, as
+if she pricked him with it in his own eyes; ‘and I defy you to tell me,
+with Mrs T. for a witness, what you have come here for.’
+
+‘To see Hexam’s sister.’
+
+‘You don’t say so!’ retorted Miss Wren, hitching her chin. ‘But on whose
+account?’
+
+‘Her own.’
+
+‘O Mrs T.!’ exclaimed Miss Wren. ‘You hear him!’
+
+‘To reason with her,’ pursued Bradley, half humouring what was present,
+and half angry with what was not present; ‘for her own sake.’
+
+‘Oh Mrs T.!’ exclaimed the dressmaker.
+
+‘For her own sake,’ repeated Bradley, warming, ‘and for her brother’s,
+and as a perfectly disinterested person.’
+
+‘Really, Mrs T.,’ remarked the dressmaker, ‘since it comes to this, we
+must positively turn you with your face to the wall.’ She had hardly
+done so, when [[Lizzie Hexam]] arrived, and showed some surprise on seeing
+[[Bradley Headstone]] there, and Jenny shaking her little fist at him close
+before her eyes, and the Honourable Mrs T. with her face to the wall.
+
+‘Here’s a perfectly disinterested person, Lizzie dear,’ said the knowing
+Miss Wren, ‘come to talk with you, for your own sake and your brother’s.
+Think of that. I am sure there ought to be no third party present at
+anything so very kind and so very serious; and so, if you’ll remove the
+third party upstairs, my dear, the third party will retire.’
+
+Lizzie took the hand which the dolls’ dressmaker held out to her for
+the purpose of being supported away, but only looked at her with an
+inquiring smile, and made no other movement.
+
+‘The third party hobbles awfully, you know, when she’s left to herself;’
+said Miss Wren, ‘her back being so bad, and her legs so queer; so she
+can’t retire gracefully unless you help her, Lizzie.’
+
+‘She can do no better than stay where she is,’ returned Lizzie,
+releasing the hand, and laying her own lightly on Miss Jenny’s curls.
+And then to Bradley: ‘From Charley, sir?’
+
+In an irresolute way, and stealing a clumsy look at her, Bradley [[Rose|rose]] to
+place a chair for her, and then returned to his own.
+
+‘Strictly speaking,’ said he, ‘I come from Charley, because I left him
+only a little while ago; but I am not commissioned by Charley. I come of
+my own spontaneous act.’
+
+With her elbows on her bench, and her chin upon her hands, Miss Jenny
+Wren sat looking at him with a watchful sidelong look. Lizzie, in her
+different way, sat looking at him too.
+
+‘The fact is,’ began Bradley, with a mouth so dry that he had some
+difficulty in articulating his words: the consciousness of which
+rendered his manner still more ungainly and undecided; ‘the [[Truth|truth]] is,
+that Charley, having no [[Secrets|secrets]] from me (to the best of my belief), has
+confided the whole of this matter to me.’
+
+He came to a stop, and Lizzie asked: ‘what matter, sir?’
+
+‘I thought,’ returned the schoolmaster, stealing another look at her,
+and seeming to try in vain to sustain it; for the look dropped as it
+lighted on her eyes, ‘that it might be so superfluous as to be almost
+impertinent, to enter upon a definition of it. My allusion was to this
+matter of your having put aside your brother’s plans for you, and
+given the preference to those of Mr—I believe the name is Mr Eugene
+Wrayburn.’
+
+He made this point of not being certain of the name, with another uneasy
+look at her, which dropped like the last.
+
+Nothing being said on the other side, he had to begin again, and began
+with new embarrassment.
+
+‘Your brother’s plans were communicated to me when he first had them in
+his thoughts. In point of fact he spoke to me about them when I was
+last here—when we were walking back together, and when I—when the
+impression was fresh upon me of having seen his sister.’
+
+There might have been no meaning in it, but the little dressmaker here
+removed one of her supporting hands from her chin, and musingly turned
+the Honourable Mrs T. with her face to the company. That done, she fell
+into her former attitude.
+
+‘I approved of his idea,’ said Bradley, with his uneasy look wandering
+to the doll, and unconsciously resting there longer than it had
+rested on Lizzie, ‘both because your brother ought naturally to be the
+originator of any such scheme, and because I hoped to be able to promote
+it. I should have had inexpressible pleasure, I should have taken
+inexpressible interest, in promoting it. Therefore I must acknowledge
+that when your brother was disappointed, I too was disappointed. I wish
+to avoid reservation or concealment, and I fully acknowledge that.’
+
+He appeared to have encouraged himself by having got so far. At all
+events he went on with much greater firmness and force of emphasis:
+though with a curious disposition to set his teeth, and with a curious
+tight-screwing movement of his right hand in the clenching palm of his
+left, like the action of one who was being physically hurt, and was
+unwilling to cry out.
+
+‘I am a man of strong feelings, and I have strongly felt this
+disappointment. I do strongly feel it. I don’t show what I feel; some
+of us are obliged habitually to keep it down. To keep it down. But to
+return to your brother. He has taken the matter so much to heart that
+he has remonstrated (in my presence he remonstrated) with Mr Eugene
+Wrayburn, if that be the name. He did so, quite ineffectually. As any
+one not blinded to the real character of Mr—Mr [[Eugene Wrayburn]]—would
+readily suppose.’
+
+He looked at Lizzie again, and held the look. And his face turned from
+burning red to white, and from white back to burning red, and so for the
+[[Time|time]] to lasting deadly white.
+
+‘Finally, I resolved to come here [[Alone|alone]], and appeal to you. I resolved
+to come here [[Alone|alone]], and entreat you to retract the course you have
+chosen, and instead of confiding in a mere stranger—a person of most
+insolent behaviour to your brother and others—to prefer your brother
+and your brother’s friend.’
+
+[[Lizzie Hexam]] had changed colour when those changes came over him, and
+her face now expressed some anger, more dislike, and even a touch of
+[[Fear|fear]]. But she answered him very steadily.
+
+‘I cannot [[Doubt|doubt]], Mr Headstone, that your visit is [[Well|well]] meant. You have
+been so good a friend to Charley that I have no right to [[Doubt|doubt]] it. I
+have nothing to tell Charley, but that I accepted the help to which he
+so much objects before he made any plans for me; or certainly before I
+knew of any. It was considerately and delicately offered, and there were
+reasons that had weight with me which should be as dear to Charley as to
+me. I have no more to say to Charley on this subject.’
+
+His lips trembled and stood apart, as he followed this repudiation of
+himself; and limitation of her words to her brother.
+
+‘I should have told Charley, if he had come to me,’ she resumed, as
+though it were an after-thought, ‘that Jenny and I find our teacher very
+able and very patient, and that she takes great pains with us. So much
+so, that we have said to her we [[Hope|hope]] in a very little while to be able
+to go on by ourselves. Charley knows about teachers, and I should also
+have told him, for his satisfaction, that ours comes from an institution
+where teachers are regularly brought up.’
+
+‘I should like to ask you,’ said [[Bradley Headstone]], grinding his words
+slowly out, as though they came from a rusty mill; ‘I should like to
+ask you, if I may without offence, whether you would have objected—no;
+rather, I should like to say, if I may without offence, that I wish I
+had had the opportunity of coming here with your brother and devoting my
+poor abilities and experience to your service.’
+
+‘Thank you, Mr Headstone.’
+
+‘But I [[Fear|fear]],’ he pursued, after a pause, furtively wrenching at the seat
+of his chair with one hand, as if he would have wrenched the chair to
+pieces, and gloomily observing her while her eyes were cast down, ‘that
+my humble services would not have found much favour with you?’
+
+She made no reply, and the poor stricken wretch sat contending with
+himself in a heat of passion and torment. After a while he took out his
+handkerchief and wiped his forehead and hands.
+
+‘There is only one thing more I had to say, but it is the most
+important. There is a reason against this matter, there is a personal
+relation concerned in this matter, not yet explained to you. It might—I
+don’t say it would—it might—induce you to think differently. To
+proceed under the present circumstances is out of the question. Will you
+please come to the understanding that there shall be another interview
+on the subject?’
+
+‘With Charley, Mr Headstone?’
+
+‘With—[[Well|well]],’ he answered, breaking off, ‘yes! Say with him too.
+Will you please come to the understanding that there must be another
+interview under more favourable circumstances, before the whole case can
+be submitted?’
+
+‘I don’t,’ said Lizzie, shaking her head, ‘Understand your meaning, Mr
+Headstone.’
+
+‘Limit my meaning for the present,’ he interrupted, ‘to the whole case
+being submitted to you in another interview.’
+
+‘What case, Mr Headstone? What is wanting to it?’
+
+‘You—you shall be informed in the other interview.’ Then he said, as
+if in a burst of irrepressible [[Despair|despair]], ‘I—I leave it all incomplete!
+There is a spell upon me, I think!’ And then added, almost as if he
+asked for pity, ‘Good-[[Night|night]]!’
+
+He held out his hand. As she, with manifest hesitation, not to say
+reluctance, touched it, a strange tremble passed over him, and his face,
+so deadly white, was moved as by a stroke of [[Pain|pain]]. Then he was gone.
+
+The dolls’ dressmaker sat with her attitude unchanged, eyeing the door
+by which he had departed, until Lizzie pushed her bench aside and sat
+down near her. Then, eyeing Lizzie as she had previously eyed Bradley
+and the door, Miss Wren chopped that very sudden and keen chop in which
+her jaws sometimes indulged, leaned back in her chair with folded arms,
+and thus expressed herself:
+
+‘Humph! If he—I mean, of course, my dear, the party who is coming to
+[[Court|court]] me when the [[Time|time]] comes—should be THAT sort of man, he may spare
+himself the trouble. _He_ wouldn’t do to be trotted about and made
+useful. He’d take [[Fire|fire]] and blow up while he was about it.’
+
+‘And so you would be rid of him,’ said Lizzie, humouring her.
+
+‘Not so easily,’ returned Miss Wren. ‘He wouldn’t blow up [[Alone|alone]]. He’d
+carry me up with him. I know his tricks and his manners.’
+
+‘Would he want to hurt you, do you mean?’ asked Lizzie.
+
+‘Mightn’t exactly want to do it, my dear,’ returned Miss Wren; ‘but a
+lot of gunpowder among lighted [[Lucifer|lucifer]]-matches in the next room might
+almost as [[Well|well]] be here.’
+
+‘He is a very strange man,’ said Lizzie, thoughtfully.
+
+‘I wish he was so very strange a man as to be a total stranger,’
+answered the sharp little thing.
+
+It being Lizzie’s regular occupation when they were [[Alone|alone]] of an evening
+to brush out and smooth the long fair hair of the dolls’ dressmaker, she
+unfastened a ribbon that kept it back while the little creature was at
+her work, and it fell in a beautiful shower over the poor shoulders that
+were much in need of such adorning rain. ‘Not now, Lizzie, dear,’ said
+Jenny; ‘let us have a talk by the [[Fire|fire]].’ With those words, she in her
+turn loosened her friend’s dark hair, and it dropped of its own weight
+over her bosom, in two rich masses. Pretending to compare the colours
+and admire the contrast, Jenny so managed a mere touch or two of her
+nimble hands, as that she herself laying a cheek on one of the dark
+folds, seemed blinded by her own clustering curls to all but the [[Fire|fire]],
+while the fine handsome face and brow of Lizzie were revealed without
+obstruction in the sombre light.
+
+‘Let us have a talk,’ said Jenny, ‘about Mr [[Eugene Wrayburn]].’
+
+Something sparkled down among the fair hair resting on the dark hair;
+and if it were not a star—which it couldn’t be—it was an eye; and
+if it were an eye, it was [[Jenny Wren]]’s eye, bright and watchful as the
+bird’s whose name she had taken.
+
+‘Why about Mr Wrayburn?’ Lizzie asked.
+
+‘For no better reason than because I’m in the [[Humour|humour]]. I [[Wonder|wonder]] whether
+he’s rich!’
+
+‘No, not rich.’
+
+‘Poor?’
+
+‘I think so, for a gentleman.’
+
+‘Ah! To be sure! Yes, he’s a gentleman. Not of our sort; is he?’ A shake
+of the head, a thoughtful shake of the head, and the answer, softly
+spoken, ‘Oh no, oh no!’
+
+The dolls’ dressmaker had an arm round her friend’s waist. Adjusting the
+arm, she slyly took the opportunity of blowing at her own hair where
+it fell over her face; then the eye down there, under lighter shadows
+sparkled more brightly and appeared more watchful.
+
+‘When He turns up, he shan’t be a gentleman; I’ll very soon send him
+packing, if he is. However, he’s not Mr Wrayburn; I haven’t captivated
+HIM. I [[Wonder|wonder]] whether anybody has, Lizzie!’
+
+‘It is very likely.’
+
+‘Is it very likely? I [[Wonder|wonder]] who!’
+
+‘Is it not very likely that some lady has been taken by him, and that he
+may [[Love|love]] her dearly?’
+
+‘Perhaps. I don’t know. What would you think of him, Lizzie, if you were
+a lady?’
+
+‘I a lady!’ she repeated, laughing. ‘Such a fancy!’
+
+‘Yes. But say: just as a fancy, and for instance.’
+
+‘I a lady! I, a poor girl who used to row poor father on the [[River|river]]. I,
+who had rowed poor father out and [[Home|home]] on the very [[Night|night]] when I saw him
+for the first [[Time|time]]. I, who was made so timid by his looking at me, that
+I got up and went out!’
+
+(‘He did look at you, even that [[Night|night]], though you were not a lady!’
+thought Miss Wren.)
+
+‘I a lady!’ Lizzie went on in a low voice, with her eyes upon the [[Fire|fire]].
+‘I, with poor father’s [[Grave|grave]] not even cleared of undeserved stain and
+shame, and he trying to clear it for me! I a lady!’
+
+‘Only as a fancy, and for instance,’ urged Miss Wren.
+
+‘Too much, Jenny, dear, too much! My fancy is not able to get that far.’
+As the low [[Fire|fire]] gleamed upon her, it showed her smiling, mournfully and
+abstractedly.
+
+‘But I am in the [[Humour|humour]], and I must be humoured, Lizzie, because after
+all I am a poor little thing, and have had a hard day with my bad [[Child|child]].
+Look in the [[Fire|fire]], as I like to hear you tell how you used to do when you
+lived in that dreary old [[house]] that had once been a windmill. Look in
+the—what was its name when you told fortunes with your brother that I
+DON’T like?’
+
+‘The hollow down by the flare?’
+
+‘Ah! That’s the name! You can find a lady there, I know.’
+
+‘More easily than I can make one of such material as myself, Jenny.’
+
+The sparkling eye looked steadfastly up, as the musing face looked
+thoughtfully down. ‘[[Well]]?’ said the dolls’ dressmaker, ‘We have found
+our lady?’
+
+Lizzie nodded, and asked, ‘Shall she be rich?’
+
+‘She had better be, as he’s poor.’
+
+‘She is very rich. Shall she be handsome?’
+
+‘Even you can be that, Lizzie, so she ought to be.’
+
+‘She is very handsome.’
+
+‘What does she say about him?’ asked Miss Jenny, in a low voice:
+watchful, through an intervening [[Silence|silence]], of the face looking down at
+the [[Fire|fire]].
+
+‘She is glad, glad, to be rich, that he may have the money. She is glad,
+glad, to be beautiful, that he may be proud of her. Her poor heart—’
+
+‘Eh? Her poor heart?’ said Miss Wren.
+
+‘Her heart—is given him, with all its [[Love|love]] and [[Truth|truth]]. She would
+joyfully die with him, or, better than that, die for him. She knows he
+has failings, but she thinks they have grown up through his being like
+one cast away, for the want of something to trust in, and care for, and
+think [[Well|well]] of. And she says, that lady rich and beautiful that I can
+never come near, “Only put me in that empty place, only try how little
+I mind myself, only prove what a world of things I will do and bear for
+you, and I [[Hope|hope]] that you might even come to be much better than you are,
+through me who am so much worse, and hardly worth the thinking of beside
+you.”’
+
+As the face looking at the [[Fire|fire]] had become exalted and forgetful in the
+rapture of these words, the little creature, openly clearing away
+her fair hair with her disengaged hand, had gazed at it with earnest
+attention and something like alarm. Now that the speaker ceased, the
+little creature laid down her head again, and moaned, ‘O me, O me, O
+me!’
+
+‘In [[Pain|pain]], dear Jenny?’ asked Lizzie, as if awakened.
+
+‘Yes, but not the old [[Pain|pain]]. Lay me down, lay me down. Don’t go out of
+my sight to-[[Night|night]]. Lock the door and keep close to me.’ Then turning away
+her face, she said in a whisper to herself, ‘My Lizzie, my poor Lizzie!
+O my blessed children, come back in the long bright slanting rows, and
+come for her, not me. She wants help more than I, my blessed children!’
+
+She had stretched her hands up with that higher and better look, and
+now she turned again, and folded them round Lizzie’s neck, and rocked
+herself on Lizzie’s breast.

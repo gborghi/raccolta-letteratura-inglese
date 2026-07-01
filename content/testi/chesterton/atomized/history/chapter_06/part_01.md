@@ -1,5 +1,5 @@
 ---
-title: "[[history]] — Chapter 6 (part 1)"
+title: "history — Chapter 6 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/history-(chesterton)"
@@ -113,9 +113,9 @@ It highest motive was a hatred of idols, and in its view Incarnation
 was itself an idolatry.  The two things it persecuted were the idea
 of God being made flesh and of His being afterwards made wood or stone.
 A study of the questions smouldering in the track of the prairie [[Fire|fire]]
-of the Christian [[Conversion|conversion]] favours the suggestion that this [[Fanaticism|fanaticism]]
+of the Christian [[conversion]] favours the suggestion that this [[Fanaticism|fanaticism]]
 against art or mythology was at once a development and a reaction
-from that [[Conversion|conversion]], a sort of minority report of the Hebraists.
+from that [[conversion]], a sort of minority report of the Hebraists.
 In this sense [[Islam]] was something like a Christian heresy.
 The early heresies had been full of mad reversals and evasions
 of the Incarnation, rescuing their Jesus from the reality

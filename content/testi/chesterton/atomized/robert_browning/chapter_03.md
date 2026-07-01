@@ -18,7 +18,6 @@ CHAPTER III
 
 BROWNING AND HIS [[Marriage|MARRIAGE]]
 
-
 Robert Browning had his faults, and the general direction of those
 faults has been previously suggested. The chief of his faults, a
 certain uncontrollable brutality of speech and gesture when he was
@@ -64,10 +63,10 @@ of envy in his [[Nature|nature]] would be true, but unfair; for there is no
 justification for attributing any of these great men's opinions to
 envy. But Browning was really unique, in that he had a certain
 spontaneous and unthinking tendency to the admiration of others. He
-admired another poet as he admired a fading sunset or a chance [[Spring|spring]]
+admired another poet as he admired a fading sunset or a chance [[spring]]
 leaf. He no more thought whether he could be as good as that man in
 that department than whether he could be redder than the sunset or
-greener than the leaf of [[Spring|spring]]. He was naturally magnanimous in the
+greener than the leaf of [[spring]]. He was naturally magnanimous in the
 literal sense of that [[Sublime|sublime]] word; his mind was so great that it
 rejoiced in the triumphs of strangers. In this spirit Browning had
 already cast his eyes round in the literary world of his [[Time|time]], and had

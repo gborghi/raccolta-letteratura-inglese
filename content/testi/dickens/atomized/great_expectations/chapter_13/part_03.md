@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 13 (part 3)"
+title: "Great Expectations — Chapter 13 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_13/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_15/part_01">part 01 ›</a></div>
 </nav>
 
+
+The Hall was a queer place, I thought, with higher pews in it than a
+church,—and with people hanging over the pews looking on,—and with
+mighty Justices (one with a powdered head) leaning back in chairs, with
+folded arms, or taking snuff, or going to [[Sleep|sleep]], or writing, or reading
+the newspapers,—and with some shining black portraits on the walls,
+which my unartistic eye regarded as a composition of hardbake and
+sticking-plaster. Here, in a corner my indentures were duly signed and
+attested, and I was “bound”; Mr. Pumblechook holding me all the while
+as if we had looked in on our way to the scaffold, to have those little
+preliminaries disposed of.
 
 When we had come out again, and had got rid of the boys who had been
 put into great spirits by the expectation of seeing me publicly

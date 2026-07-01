@@ -1,5 +1,5 @@
 ---
-title: "[[Coriolanus]] — Act I, Scene 6"
+title: "Coriolanus — Act I, Scene 6"
 author: "Shakespeare"
 unitType: scene
 parentWork: "works/coriolanus-(shakespeare)"

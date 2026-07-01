@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 57"
+title: "Nicholas Nickleby — Chapter 57"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -289,7 +289,7 @@ the very first, you know, when he went to the [[house]] that morning!’
 Mr. Squeers, plying Mrs. Sliderskew freely with the liquor, and sustaining
 himself under the exertion of speaking so loud by frequent applications
 to it himself, complied with this request by describing the discomfiture
-of [[Arthur]] Gride, with such improvements on the [[Truth|truth]] as happened to
+of [[arthur|Arthur]] Gride, with such improvements on the [[Truth|truth]] as happened to
 occur to him, and the ingenious invention and application of which
 had been very instrumental in recommending him to her notice in the
 beginning of their acquaintance. Mrs. Sliderskew was in an ecstasy of
@@ -371,7 +371,7 @@ wants to make me break a wessel, so that she may have the pleasure of
 nursing me. Some money, Slider, money!’
 
 ‘Why, what a man you are to ask!’ cried Peg, with some contempt. ‘If I
-had taken money from [[Arthur]] Gride, he’d have scoured the whole earth to
+had taken money from [[arthur|Arthur]] Gride, he’d have scoured the whole earth to
 find me--aye, and he’d have smelt it out, and raked it up, somehow, if
 I had buried it at the [[Bottom|bottom]] of the deepest [[Well|well]] in England. No, no!
 I knew better than that. I took what I thought his [[Secrets|secrets]] were hid in:

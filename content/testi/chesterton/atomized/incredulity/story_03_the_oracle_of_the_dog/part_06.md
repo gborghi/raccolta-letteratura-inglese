@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity]] — The Oracle of the Dog (part 6)"
+title: "Incredulity — The Oracle of the Dog (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-(chesterton)"
@@ -110,18 +110,18 @@ is nervy and jumpy, too; those Yankee hustlers often are.
 Otherwise he wouldn't have cut his fingers on the shears
 and dropped them when he heard Janet Druce scream.
 
-`Now [[dogs]] hate nervous people.  I don't know whether they make
+`Now dogs hate nervous people.  I don't know whether they make
 the dog nervous, too; or whether, being after all a brute,
-he is a bit of a bully; or whether his canine [[Vanity|vanity]]
+he is a bit of a bully; or whether his canine vanity
 (which is colossal) is simply offended at not being liked.
 But anyhow there was nothing in poor Nox protesting against
 those people, except that he disliked them for being afraid
 of him.  Now I know you're awfully clever, and nobody
 of sense sneers at cleverness.  But I sometimes fancy,
-for instance, that you are too clever to understand [[Animals|animals]].
+for instance, that you are too clever to understand animals.
 Sometimes you are too clever to understand men,
-especially when they act almost as simply as [[Animals|animals]].
-[[Animals]] are very literal; they live in a world of truisms.
+especially when they act almost as simply as animals.
+Animals are very literal; they live in a world of truisms.
 Take this case:  a dog barks at a man and a man runs away from a dog.
 Now you do not seem to be quite simple enough to see the fact:
 that the dog barked because he disliked the man and
@@ -141,8 +141,8 @@ walk about smiling at the old friend's family, under the eyes
 of his old friend's daughter and post--mortem doctor--
 do you think a man like that would be doubled up by mere remorse
 because a dog barked?  He might feel the tragic irony of it;
-it might shake his [[Soul|soul]], like any other tragic trifle.
-But he wouldn't rush madly the length of a [[Garden|garden]] to escape
+it might shake his soul, like any other tragic trifle.
+But he wouldn't rush madly the length of a garden to escape
 from the only witness whom he knew to be unable to talk.
 People have a panic like that when they are frightened,
 not of tragic ironies, but of teeth.  The whole thing is simpler

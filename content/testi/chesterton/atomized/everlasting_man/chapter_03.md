@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">everlasting man</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_02">‹ Chapter 02</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_01_on_the_man_called_christ/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_02">‹ Chapter 02</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_01_on_the_man_called_christ_chris/part_01">part 01 ›</a></div>
 </nav>
 
 
@@ -1766,7 +1766,7 @@ that Mrs. Eddy was a Red Indian.  And if I allowed my constitutional
 impatience with Mrs. Eddy to impel me to call her a Red Indian, I should
 incidentally be telling a lie.  We may like or dislike the imperial
 civilisation of Rome in the fourth century; we may like or dislike
-the industrial civilisation of [[america|America]] in the nineteenth century;
+the industrial civilisation of [[America]] in the nineteenth century;
 but that they both were what we commonly mean by a civilisation
 no person of commonsense could deny if he wanted to.  This is a very
 obvious fact but it is also a very fundamental one; and we must
@@ -1803,7 +1803,7 @@ totally different.  It is certainly a Christmas tree in the sense
 that it keeps the kindliness and moral [[Beauty|beauty]] of the story of Bethlehem;
 but it was as ritualistic as the seven-branched candlestick,
 and the candles it carried were considerably more than were
-probably permitted by the first [[prayer]]-book of Edward the Sixth.
+probably permitted by the first [[Prayer|prayer]]-book of Edward the Sixth.
 It might [[Well|well]] be asked, indeed, why any one accepting the Bethlehem
 tradition should object to golden or gilded ornament since
 the Magi themselves brought gold, why he should dislike incense

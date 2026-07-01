@@ -1,5 +1,5 @@
 ---
-title: "The [[Comedy]] of Errors — Act V, Scene 1 — exchange ([[Angelo|ANGELO]]) [3]"
+title: "The Comedy of Errors — Act V, Scene 1 — exchange (ANGELO) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-comedy-of-errors-(shakespeare)"

@@ -1,5 +1,5 @@
 ---
-title: "[[Mystification]]"
+title: "Mystification"
 author: "Poe"
 unitType: work
 parentWork: "works/mystification-(poe)"

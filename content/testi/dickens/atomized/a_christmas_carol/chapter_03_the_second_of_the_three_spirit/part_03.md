@@ -1,5 +1,5 @@
 ---
-title: "A Christmas [[carol|Carol]] — Stave 3: THE SECOND OF THE THREE SPIRITS (part 3)"
+title: "A Christmas Carol — Stave 3: THE SECOND OF THE THREE SPIRITS (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-christmas-carol-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_christmas_carol/chapter_03_the_second_of_the_three_spirit/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/a_christmas_carol/chapter_03_the_second_of_the_three_spirit/part_04">part 04 ›</a></div>
 </nav>
 
+
+"I!" cried the Spirit.
+
+"You would deprive them of their means of dining every
+seventh day, often the only day on which they can be said
+to dine at all," said Scrooge. "Wouldn't you?"
 
 "I!" cried the Spirit.
 
@@ -145,24 +151,3 @@ mixture in a jug with gin and lemons, and stirred it round
 and round and put it on the hob to simmer; Master Peter,
 and the two ubiquitous young Cratchits went to fetch the
 goose, with which they soon returned in high procession.
-
-Such a bustle ensued that you might have thought a goose
-the rarest of all [[Birds|birds]]; a feathered phenomenon, to which a
-black swan was a matter of course--and in [[Truth|truth]] it was
-something very like it in that [[house]]. Mrs. Cratchit made
-the gravy (ready beforehand in a little saucepan) hissing hot;
-Master Peter mashed the potatoes with incredible vigour;
-Miss Belinda sweetened up the apple-sauce; Martha dusted
-the hot plates; Bob took [[Tiny Tim]] beside him in a tiny
-corner at the table; the two young Cratchits set chairs for
-everybody, not forgetting themselves, and mounting guard
-upon their posts, crammed spoons into their mouths, lest
-they should shriek for goose before their turn came to be
-helped. At last the dishes were set on, and grace was
-said. It was succeeded by a breathless pause, as Mrs.
-Cratchit, looking slowly all along the carving-knife, prepared
-to plunge it in the breast; but when she did, and when the
-long expected gush of stuffing issued forth, one murmur of
-delight arose all round the board, and even [[Tiny Tim]],
-excited by the two young Cratchits, beat on the table with
-the handle of his knife, and feebly cried Hurrah!

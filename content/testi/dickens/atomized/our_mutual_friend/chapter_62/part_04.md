@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 3 (part 4)"
+title: "Our Mutual Friend — Chapter 7 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,109 +14,124 @@ tags:
 </nav>
 
 
-[[Mr Venus]], reminded of the duties of hospitality, produced some rum.
-In answer to the inquiry, ‘Will you mix it, Mr Wegg?’ that gentleman
-pleasantly rejoined, ‘I think not, sir. On so auspicious an occasion, I
-prefer to take it in the form of a Gum-Tickler.’
+‘It’s for me to speak, not you,’ said the boy. ‘If you do, you’ll do
+it at your peril. I am going to put your selfishness before you, Mr
+Headstone—your passionate, violent, and ungovernable selfishness—to
+show you why I can, and why I will, have nothing more to do with you.’
 
-Mr Boffin, declining rum, being still elevated on his pedestal, was in
-a convenient position to be addressed. Wegg having eyed him with an
-impudent air at leisure, addressed him, therefore, while refreshing
-himself with his dram.
+He looked at young Hexam as if he were waiting for a scholar to go on
+with a lesson that he knew by heart and was deadly tired of. But he had
+said his last word to him.
 
-‘Bof—fin!’
+‘If you had any part—I don’t say what—in this attack,’ pursued the
+boy; ‘or if you know anything about it—I don’t say how much—or if you
+know who did it—I go no closer—you did an injury to me that’s never
+to be forgiven. You know that I took you with me to his chambers in the
+Temple when I told him my opinion of him, and made myself responsible
+for my opinion of you. You know that I took you with me when I was
+watching him with a view to recovering my sister and bringing her to her
+senses; you know that I have allowed myself to be mixed up with you, all
+through this business, in favouring your [[Desire|desire]] to marry my sister. And
+how do you know that, pursuing the ends of your own violent temper, you
+have not laid me open to suspicion? Is that your gratitude to me, Mr
+Headstone?’
 
-‘Yes, Wegg,’ he answered, coming out of a fit of abstraction, with a
-sigh.
+Bradley sat looking steadily before him at the vacant air. As often
+as young Hexam stopped, he turned his eyes towards him, as if he were
+waiting for him to go on with the lesson, and get it done. As often as
+the boy resumed, Bradley resumed his fixed face.
 
-‘I haven’t mentioned one thing, because it’s a detail that comes of
-course. You must be followed up, you know. You must be kept under
-inspection.’
+‘I am going to be plain with you, Mr Headstone,’ said young Hexam,
+shaking his head in a half-threatening manner, ‘because this is no [[Time|time]]
+for affecting not to know things that I do know—except certain things
+at which it might not be very safe for you, to hint again. What I mean
+is this: if you were a good master, I was a good pupil. I have done you
+plenty of credit, and in improving my own reputation I have improved
+yours quite as much. Very [[Well|well]] then. Starting on equal terms, I want to
+put before you how you have shown your gratitude to me, for doing all
+I could to further your wishes with reference to my sister. You have
+compromised me by being seen about with me, endeavouring to counteract
+this Mr [[Eugene Wrayburn]]. That’s the first thing you have done. If my
+character, and my now dropping you, help me out of that, Mr Headstone,
+the deliverance is to be attributed to me, and not to you. No thanks to
+you for it!’
 
-‘I don’t quite understand,’ said Mr Boffin.
+The boy stopping again, he moved his eyes again.
 
-‘Don’t you?’ sneered Wegg. ‘Where’s your wits, Boffin? Till the Mounds
-is down and this business completed, you’re accountable for all the
-property, recollect. Consider yourself accountable to me. [[Mr Venus]] here
-being too milk and watery with you, I am the boy for you.’
+‘I am going on, Mr Headstone, don’t you be afraid. I am going on to the
+end, and I have told you beforehand what the end is. Now, you know my
+story. You are as [[Well|well]] aware as I am, that I have had many disadvantages
+to leave behind me in life. You have heard me mention my father, and you
+are sufficiently acquainted with the fact that the [[Home|home]] from which I, as
+I may say, escaped, might have been a more creditable one than it was.
+My father died, and then it might have been supposed that my way to
+respectability was pretty clear. No. For then my sister begins.’
 
-‘I’ve been a-thinking,’ said Mr Boffin, in a tone of despondency, ‘that
-I must keep the knowledge from my old lady.’
+He spoke as confidently, and with as entire an absence of any tell-tale
+colour in his cheek, as if there were no softening old [[Time|time]] behind him.
+Not wonderful, for there WAS none in his hollow empty heart. What is
+there but [[Self|self]], for selfishness to see behind it?
 
-‘The knowledge of the diwision, d’ye mean?’ inquired Wegg, helping
-himself to a third Gum-Tickler—for he had already taken a second.
+‘When I speak of my sister, I devoutly wish that you had never seen
+her, Mr Headstone. However, you did see her, and that’s useless now. I
+confided in you about her. I explained her character to you, and how she
+interposed some ridiculous fanciful notions in the way of our being as
+respectable as I tried for. You fell in [[Love|love]] with her, and I favoured
+you with all my might. She could not be induced to favour you, and so
+we came into collision with this Mr [[Eugene Wrayburn]]. Now, what have you
+done? Why, you have justified my sister in being firmly set against you
+from first to last, and you have put me in the wrong again! And why
+have you done it? Because, Mr Headstone, you are in all your passions
+so selfish, and so concentrated upon yourself that you have not bestowed
+one proper thought on me.’
 
-‘Yes. If she was to die first of us two she might then think all her
-life, poor thing, that I had got the rest of the fortune still, and was
-saving it.’
+The cool conviction with which the boy took up and held his position,
+could have been derived from no other vice in human [[Nature|nature]].
 
-‘I suspect, Boffin,’ returned Wegg, shaking his head sagaciously, and
-bestowing a wooden wink upon him, ‘that you’ve found out some account
-of some old chap, supposed to be a Miser, who got himself the credit of
-having much more money than he had. However, I don’t mind.’
+‘It is,’ he went on, actually with [[Tears|tears]], ‘an extraordinary circumstance
+attendant on my life, that every effort I make towards perfect
+respectability, is impeded by somebody else through no fault of mine!
+Not content with doing what I have put before you, you will drag my name
+into notoriety through dragging my sister’s—which you are pretty sure
+to do, if my suspicions have any foundation at all—and the worse you
+prove to be, the harder it will be for me to detach myself from being
+associated with you in people’s minds.’
 
-‘Don’t you see, Wegg?’ Mr Boffin feelingly represented to him: ‘don’t
-you see? My old lady has got so used to the property. It would be such a
-hard surprise.’
+When he had dried his eyes and heaved a sob over his injuries, he began
+moving towards the door.
 
-‘I don’t see it at all,’ blustered Wegg. ‘You’ll have as much as I
-shall. And who are you?’
+‘However, I have made up my mind that I will become respectable in the
+scale of society, and that I will not be dragged down by others. I have
+done with my sister as [[Well|well]] as with you. Since she cares so little for
+me as to care nothing for undermining my respectability, she shall go
+her way and I will go mine. My prospects are very good, and I mean to
+follow them [[Alone|alone]]. Mr Headstone, I don’t say what you have got upon your
+[[Conscience|conscience]], for I don’t know. Whatever lies upon it, I [[Hope|hope]] you will see
+the justice of keeping wide and clear of me, and will find a consolation
+in completely exonerating all but yourself. I [[Hope|hope]], before many years
+are out, to succeed the master in my present school, and the mistress
+being a single woman, though some years older than I am, I might even
+marry her. If it is any comfort to you to know what plans I may work out
+by keeping myself strictly respectable in the scale of society, these
+are the plans at present occurring to me. In conclusion, if you feel a
+sense of having injured me, and a [[Desire|desire]] to make some small reparation,
+I [[Hope|hope]] you will think how respectable you might have been yourself and
+will contemplate your blighted existence.’
 
-‘But then, again,’ Mr Boffin gently represented; ‘my old lady has very
-upright principles.’
+Was it strange that the wretched man should take this heavily to
+heart? Perhaps he had taken the boy to heart, first, through some
+long laborious years; perhaps through the same years he had found
+his drudgery lightened by communication with a brighter and more
+apprehensive spirit than his own; perhaps a family resemblance of face
+and voice between the boy and his sister, smote him hard in the gloom
+of his fallen state. For whichsoever reason, or for all, he drooped his
+devoted head when the boy was gone, and shrank together on the floor,
+and grovelled there, with the palms of his hands tight-clasping his hot
+temples, in unutterable misery, and unrelieved by a single tear.
 
-‘Who’s your old lady,’ returned Wegg, ‘to set herself up for having
-uprighter principles than mine?’
 
-Mr Boffin seemed a little less patient at this point than at any other
-of the negotiations. But he commanded himself, and said tamely enough:
-‘I think it must be kept from my old lady, Wegg.’
-
-‘[[Well]],’ said Wegg, contemptuously, though, perhaps, perceiving some hint
-of danger otherwise, ‘keep it from your old lady. I ain’t going to tell
-her. I can have you under close inspection without that. I’m as good a
-man as you, and better. Ask me to dinner. Give me the run of your ’ouse.
-I was good enough for you and your old lady once, when I helped you out
-with your weal and hammers. Was there no Miss Elizabeth, Master George,
-Aunt Jane, and Uncle Parker, before YOU two?’
-
-‘Gently, Mr Wegg, gently,’ [[Venus]] urged.
-
-‘Milk and [[Water|water]]-erily you mean, sir,’ he returned, with some little
-thickness of speech, in consequence of the Gum-Ticklers having tickled
-it. ‘I’ve got him under inspection, and I’ll inspect him.
-
-     “Along the line the signal ran,
-     England expects as this present man
-     Will keep Boffin to his duty.”
-
-—Boffin, I’ll see you [[Home|home]].’
-
-Mr Boffin descended with an air of [[Resignation|resignation]], and gave himself up,
-after taking friendly leave of [[Mr Venus]]. Once more, Inspector and
-Inspected went through the streets together, and so arrived at Mr
-Boffin’s door.
-
-But even there, when Mr Boffin had given his keeper good-[[Night|night]], and had
-let himself in with his key, and had softly closed the door, even there
-and then, the all-powerful Silas must needs claim another assertion of
-his newly-asserted power.
-
-‘Bof—fin!’ he called through the keyhole.
-
-‘Yes, Wegg,’ was the reply through the same channel.
-
-‘Come out. Show yourself again. Let’s have another look at you!’
-Mr Boffin—ah, how fallen from the high estate of his honest
-simplicity!—opened the door and obeyed.
-
-‘Go in. You may get to bed now,’ said Wegg, with a grin.
-
-The door was hardly closed, when he again called through the keyhole:
-‘Bof—fin!’
-
-‘Yes, Wegg.’
-
-This [[Time|time]] Silas made no reply, but laboured with a will at turning an
-imaginary grindstone outside the keyhole, while Mr Boffin stooped at it
-within; he then laughed silently, and stumped [[Home|home]].
+Rogue Riderhood had been busy with the [[River|river]] that day. He had fished
+with assiduity on the previous evening, but the light was short, and
+he had fished unsuccessfully. He had fished again that day with better
+luck, and had carried his fish [[Home|home]] to Plashwater Weir Mill Lock-[[house]],
+in a bundle.

@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 20 (part 3)"
+title: "Persuasion — Chapter 20 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_20/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_21/part_01">part 01 ›</a></div>
 </nav>
 
+
+comprehensible, elegant English. You need not say anything more of your
+
+ignorance. Here is complete proof.”
+
+
+
+“I will not oppose such kind politeness; but I should be sorry to be
+
+examined by a real proficient.”
+
+
+
+“I have not had the pleasure of visiting in Camden Place so long,”
+
+replied he, “without knowing something of Miss [[Anne Elliot]]; and I do
+
+regard her as one who is too modest for the world in general to be
 
 aware of half her accomplishments, and too highly accomplished for
 

@@ -14,6 +14,11 @@ tags:
 </nav>
 
 
+He stuck his umbrella upright in the sand and struck one finger against another, like a man getting to business at last.
+
+
+
+
 “It iss as clear as the sun at [[Noon|noon]],” he said solemnly. “It iss as clear as the sun at [[Noon|noon]] that this word Bull, which is devoid of restful and pleasurable associations, is but the corruption of another word, which possesses restful and pleasurable associations. The word is not Bull; it is the Bul-Bul!” His voice [[Rose|rose]] suddenly like a trumpet and he spread abroad his hands like the fans of a tropic palm-tree.
 
 
@@ -65,13 +70,3 @@ The eyes of the girl remained on the ring of the horizon as rigid as the ring it
 
 
 The girl’s lip trembled.
-
-
-
-
-“Poor old Hump!” she said. “Why, I’d forgotten about him. He must be very nearly as worried as I am! I [[Hope|hope]] this man won’t be too silly about this! I’d rather it weren’t about this!”
-
-
-
-
-“And Mr. Pumph to-old me the inn was named by a vary intimate friend of his, an Irishman who had been a Captain in the Britannic Royal Navy, but had resigned his po-ost in anger at the treatment of Ireland. Though quitting the service, he retained joost enough of the superstition of your western sailors, to wish his friend’s inn to be named after his old [[Ship|ship]]. But as the name of the [[Ship|ship]] was ‘The United Kingdom–’”

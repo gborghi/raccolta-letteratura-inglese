@@ -144,9 +144,3 @@ my confidence, and he shall continue to have it; he--why, where’s the--’
 looking into his desk, and under it, and upon it, and wildly tossing
 the papers about, ‘the note, Mr [[Richard]], sir, the five-pound note--what
 can have become of it?  I laid it down here--God bless me!’
-
-‘What!’ cried Miss Sally, starting up, clapping her hands, and
-scattering the papers on the floor.  ‘Gone!  Now who’s right?  Now
-who’s got it?  Never mind five pounds--what’s five pounds?  He’s
-honest, you know, quite honest.  It would be mean to suspect him.
-Don’t run after him.  No, no, not for the world!’

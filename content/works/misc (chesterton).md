@@ -31,7 +31,7 @@ tags:
 ## Chapters / scenes / sections
 
 - [Story 01 THE SUFFRAGIST](/testi/chesterton/atomized/misc/story_01_the_suffragist)
-- [Story 02 THE POET AND THE CHEESE](/testi/chesterton/atomized/misc/story_02_the_poet_and_the_cheese)
+- Story 02 THE POET AND THE CHEESE
 - [Story 03 THE THING](/testi/chesterton/atomized/misc/story_03_the_thing)
 - [Story 04 THE MAN WHO THINKS BACKWARDS](/testi/chesterton/atomized/misc/story_04_the_man_who_thinks_backwards)
 - [Story 05 THE NAMELESS MAN](/testi/chesterton/atomized/misc/story_05_the_nameless_man)
@@ -43,11 +43,11 @@ tags:
 - [Story 11 THE WRONG INCENDIARY](/testi/chesterton/atomized/misc/story_11_the_wrong_incendiary)
 - [Story 12 THE FREE MAN](/testi/chesterton/atomized/misc/story_12_the_free_man)
 - [Story 13 THE HYPOTHETICAL HOUSEHOLDER](/testi/chesterton/atomized/misc/story_13_the_hypothetical_householder)
-- [Story 14 THE PRIEST OF SPRING](/testi/chesterton/atomized/misc/story_14_the_priest_of_spring)
+- Story 14 THE PRIEST OF SPRING
 - [Story 15 THE REAL JOURNALIST](/testi/chesterton/atomized/misc/story_15_the_real_journalist)
 - [Story 16 THE SENTIMENTAL SCOT](/testi/chesterton/atomized/misc/story_16_the_sentimental_scot)
 - [Story 17 THE SECTARIAN OF SOCIETY](/testi/chesterton/atomized/misc/story_17_the_sectarian_of_society)
-- [Story 18 THE FOOL](/testi/chesterton/atomized/misc/story_18_the_fool)
+- Story 18 THE FOOL
 - [Story 19 THE CONSCRIPT AND THE CRISIS](/testi/chesterton/atomized/misc/story_19_the_conscript_and_the_crisis)
 - [Story 20 THE MISER AND HIS FRIENDS](/testi/chesterton/atomized/misc/story_20_the_miser_and_his_friends)
 - [Story 21 THE MYSTAGOGUE](/testi/chesterton/atomized/misc/story_21_the_mystagogue)
@@ -62,8 +62,8 @@ tags:
 - [Story 30 THE ARCHITECT OF SPEARS](/testi/chesterton/atomized/misc/story_30_the_architect_of_spears)
 - [Story 31 THE MAN ON TOP](/testi/chesterton/atomized/misc/story_31_the_man_on_top)
 - [Story 32 THE OTHER KIND OF MAN](/testi/chesterton/atomized/misc/story_32_the_other_kind_of_man)
-- [Story 33 THE MEDIAEVAL VILLAIN](/testi/chesterton/atomized/misc/story_33_the_mediaeval_villain)
-- [Story 34 THE DIVINE DETECTIVE](/testi/chesterton/atomized/misc/story_34_the_divine_detective)
+- Story 33 THE MEDIAEVAL VILLAIN
+- Story 34 THE DIVINE DETECTIVE
 - [Story 35 THE ELF OF JAPAN](/testi/chesterton/atomized/misc/story_35_the_elf_of_japan)
 - [Story 36 THE CHARTERED LIBERTINE](/testi/chesterton/atomized/misc/story_36_the_chartered_libertine)
 - [Story 37 THE CONTENTED MAN](/testi/chesterton/atomized/misc/story_37_the_contented_man)

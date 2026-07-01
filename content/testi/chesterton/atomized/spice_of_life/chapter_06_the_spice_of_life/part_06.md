@@ -56,7 +56,7 @@ The Everlasting Nights Daily News, November 7, 1901
 
 Aesop's Fables Introduction to a limited edition of Aesop's Fables
 published by William Heinemann, [[London]] and Doubleday Page & Co.,
-[[New York]], 1912.  Illustrated by [[arthur|Arthur]] Rackham
+[[New York]], 1912.  Illustrated by [[Arthur]] Rackham
 
 Both Sides of the Looking--The Listener, November 29.  1933
 

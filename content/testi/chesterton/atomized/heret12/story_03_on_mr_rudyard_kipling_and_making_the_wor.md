@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]] — On Mr. Rudyard Kipling and Making the World Small"
+title: "heret12 — On Mr. Rudyard Kipling and Making the World Small"
 author: "Chesterton"
 unitType: story
 parentWork: "works/heret12-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 III.  On Mr. Rudyard Kipling and Making the World Small
-
 
 There is no such thing on earth as an uninteresting subject;
 the only thing that can exist is an uninterested person.

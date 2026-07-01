@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 41 (part 4)"
+title: "Barnaby Rudge — Chapter 41 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,47 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_41/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_43/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘What are you crying for, girl?’ he said. ‘What’s the matter with you?
+What are you talking about hatred for? I don’t hate you; I don’t hate
+anybody. Dry your eyes and make yourself agreeable, in Heaven’s name,
+and let us all be happy while we can.’
+
+The allied powers deeming it good generalship to consider this a
+sufficient apology on the part of the enemy, and confession of having
+been in the wrong, did dry their eyes and take it in good part. Miss
+Miggs observed that she bore no malice, no not to her greatest foe, whom
+she rather loved the more indeed, the greater persecution she sustained.
+Mrs Varden approved of this meek and forgiving spirit in high terms,
+and incidentally declared as a closing article of agreement, that Dolly
+should accompany her to the Clerkenwell branch of the association, that
+very [[Night|night]]. This was an extraordinary instance of her great prudence and
+policy; having had this end in view from the first, and entertaining
+a secret misgiving that the locksmith (who was bold when Dolly was in
+question) would object, she had backed Miss Miggs up to this point, in
+order that she might have him at a disadvantage. The manoeuvre succeeded
+so [[Well|well]] that Gabriel only made a wry face, and with the warning he had
+just had, fresh in his mind, did not dare to say one word.
+
+The difference ended, therefore, in Miggs being presented with a gown
+by Mrs Varden and half-a-[[Crown|crown]] by Dolly, as if she had eminently
+distinguished herself in the paths of [[morality]] and goodness. Mrs V.,
+according to custom, expressed her [[Hope|hope]] that Varden would take a lesson
+from what had passed and learn more generous conduct for the [[Time|time]] to
+come; and the dinner being now cold and nobody’s appetite very much
+improved by what had passed, they went on with it, as Mrs Varden said,
+‘like Christians.’
+
+As there was to be a grand parade of the Royal East [[London]] Volunteers
+that afternoon, the locksmith did no more work; but sat down comfortably
+with his pipe in his mouth, and his arm round his pretty daughter’s
+waist, looking lovingly on Mrs V., from [[Time|time]] to [[Time|time]], and exhibiting
+from the [[Crown|crown]] of his head to the sole of his foot, one smiling surface
+of good [[Humour|humour]]. And to be sure, when it was [[Time|time]] to dress him in his
+regimentals, and Dolly, hanging about him in all kinds of graceful
+winning ways, helped to button and buckle and brush him up and get him
+into one of the tightest coats that ever was made by mortal tailor, he
+was the proudest father in all England.
 
 ‘What a handy jade it is!’ said the locksmith to Mrs Varden, who stood
 by with folded hands--rather proud of her husband too--while Miggs held

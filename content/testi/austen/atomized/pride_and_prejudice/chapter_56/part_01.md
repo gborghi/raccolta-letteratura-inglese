@@ -1,5 +1,5 @@
 ---
-title: "[[Pride and Prejudice]] — Chapter 56 (part 1)"
+title: "Pride and Prejudice — Chapter 56 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/pride-and-prejudice-(austen)"
@@ -152,7 +152,3 @@ is in existence.”
 “If! do you then pretend to be ignorant of it? Has it not been
 industriously circulated by yourselves? Do you not know that such a
 report is spread abroad?”
-
-“I never heard that it was.”
-
-“And can you likewise declare, that there is no _foundation_ for it?”

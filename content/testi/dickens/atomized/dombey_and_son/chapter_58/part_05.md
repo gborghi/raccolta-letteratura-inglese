@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 2 (part 5)"
+title: "Dombey and Son — Chapter 30 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -10,58 +10,120 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/dombey-and-son-(dickens)">Dombey and Son</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_58/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_59/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_58/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_58/part_06">part 06 ›</a></div>
 </nav>
 
 
-“With such exceptions,” said Louisa, “she’ll consult her choice
-entirely, and be under no restraint at all, my [[Love|love]].”
+The week fled fast. There were drives to milliners, dressmakers,
+jewellers, lawyers, florists, pastry-cooks; and Florence was always of
+the party. Florence was to go to the wedding. Florence was to cast off
+her mourning, and to wear a brilliant dress on the occasion. The
+milliner’s intentions on the subject of this dress—the milliner was a
+Frenchwoman, and greatly resembled Mrs Skewton—were so chaste and
+elegant, that Mrs Skewton bespoke one like it for herself. The milliner
+said it would become her to admiration, and that all the world would
+take her for the young lady’s sister.
 
-“And then, of course, you know,” said Miss Tox, “however fond she is of
-her own dear little [[Child|child]]—and I’m sure, Louisa, you don’t blame her for
-being fond of it?”
+The week fled faster. Edith looked at nothing and cared for nothing.
+Her rich dresses came [[Home|home]], and were tried on, and were loudly
+commended by Mrs Skewton and the milliners, and were put away without a
+word from her. Mrs Skewton made their plans for every day, and executed
+them. Sometimes Edith sat in the carriage when they went to make
+purchases; sometimes, when it was absolutely necessary, she went into
+the shops. But Mrs Skewton conducted the whole business, whatever it
+happened to be; and Edith looked on as uninterested and with as much
+apparent indifference as if she had no concern in it. Florence might
+perhaps have thought she was haughty and listless, but that she was
+never so to her. So Florence quenched her [[Wonder|wonder]] in her gratitude
+whenever it broke out, and soon subdued it.
 
-“Oh no!” cried Mrs Chick, benignantly.
+The week fled faster. It had nearly winged its flight away. The last
+[[Night|night]] of the week, the [[Night|night]] before the [[Marriage|marriage]], was come. In the dark
+room—for Mrs Skewton’s head was no better yet, though she expected to
+recover permanently to-morrow—were that lady, Edith, and Mr Dombey.
+Edith was at her open [[Window|window]] looking out into the street; Mr Dombey and
+[[Cleopatra]] were talking softly on the sofa. It was growing late; and
+Florence, being fatigued, had gone to bed.
 
-“Still,” resumed Miss Tox, “she naturally must be interested in her
-young charge, and must consider it a privilege to see a little cherub
-connected with the superior classes, gradually unfolding itself from
-day to day at one common fountain—is it not so, Louisa?”
+“My dear Dombey,” said [[Cleopatra]], “you will leave me Florence
+to-morrow, when you deprive me of my sweetest Edith.”
 
-“Most undoubtedly!” said Mrs Chick. “You see, my [[Love|love]], she’s already
-quite contented and comfortable, and means to say goodbye to her sister
-Jemima and her little pets, and her good honest husband, with a light
-heart and a smile; don’t she, my dear?”
+Mr Dombey said he would, with pleasure.
 
-“Oh yes!” cried Miss Tox. “To be sure she does!”
+“To have her about me, here, while you are both at [[Paris]], and to think
+at her age, I am assisting in the formation of her mind, my dear
+Dombey,” said [[Cleopatra]], “will be a perfect balm to me in the extremely
+shattered state to which I shall be reduced.”
 
-Notwithstanding which, however, poor Polly embraced them all round in
-great distress, and coming to her spouse at last, could not make up her
-mind to part from him, until he gently disengaged himself, at the close
-of the following allegorical piece of consolation:
+Edith turned her head suddenly. Her listless manner was exchanged, in a
+moment, to one of burning interest, and, unseen in the darkness, she
+attended closely to their conversation.
 
-“Polly, old “ooman, whatever you do, my darling, hold up your head and
-fight low. That’s the only rule as I know on, that’ll carry anyone
-through life. You always have held up your head and fought low, Polly.
-Do it now, or Bricks is no longer so. God bless you, Polly! Me and
-J’mima will do your duty by you; and with relating to your’n, hold up
-your head and fight low, Polly, and you can’t go wrong!”
+Mr Dombey would be delighted to leave Florence in such admirable
+guardianship.
 
-Fortified by this golden secret, Polly finally ran away to avoid any
-more particular leave-taking between herself and the children. But the
-stratagem hardly succeeded as [[Well|well]] as it deserved; for the smallest boy
-but one divining her intent, immediately began swarming upstairs after
-her—if that word of doubtful etymology be admissible—on his arms and
-legs; while the eldest (known in the family by the name of Biler, in
-remembrance of the steam engine) beat a demoniacal tattoo with his
-boots, expressive of grief; in which he was joined by the rest of the
-family.
+“My dear Dombey,” returned [[Cleopatra]], “a thousand thanks for your good
+opinion. I feared you were going, with malice aforethought, as the
+dreadful lawyers say—those horrid prosers!—to condemn me to utter
+[[Solitude|solitude]].”
 
-A quantity of oranges and halfpence thrust indiscriminately on each
-young Toodle, checked the first violence of their regret, and the
-family were speedily transported to their own [[Home|home]], by means of the
-hackney-coach kept in waiting for that purpose. The children, under the
-guardianship of Jemima, blocked up the [[Window|window]], and dropped out oranges
-and halfpence all the way along. Mr Toodle himself preferred to ride
-behind among the spikes, as being the mode of conveyance to which he
-was best accustomed.
+“Why do me so great an injustice, my dear madam?” said Mr Dombey.
+
+“Because my charming Florence tells me so positively she must go [[Home|home]]
+tomorrow, returned [[Cleopatra]], that I began to be afraid, my dearest
+Dombey, you were quite a Bashaw.”
+
+“I assure you, madam!” said Mr Dombey, “I have laid no commands on
+Florence; and if I had, there are no commands like your wish.”
+
+“My dear Dombey,” replied [[Cleopatra]], what a courtier you are! Though
+I’ll not say so, either; for courtiers have no heart, and yours
+pervades your farming life and character. And are you really going so
+early, my dear Dombey!”
+
+Oh, indeed! it was late, and Mr Dombey feared he must.
+
+“Is this a fact, or is it all [[A Dream|a dream]]!” lisped [[Cleopatra]]. “Can I
+believe, my dearest Dombey, that you are coming back tomorrow morning
+to deprive me of my sweet companion; my own Edith!”
+
+Mr Dombey, who was accustomed to take things literally, reminded Mrs
+Skewton that they were to meet first at the church.
+
+“The pang,” said Mrs Skewton, “of consigning a [[Child|child]], even to you, my
+dear Dombey, is one of the most excruciating imaginable, and combined
+with a naturally delicate constitution, and the extreme stupidity of
+the pastry-cook who has undertaken the breakfast, is almost too much
+for my poor strength. But I shall rally, my dear Dombey, in the
+morning; do not [[Fear|fear]] for me, or be uneasy on my account. Heaven bless
+you! My dearest Edith!” she cried archly. “Somebody is going, pet.”
+
+Edith, who had turned her head again towards the [[Window|window]], and whose
+interest in their conversation had ceased, [[Rose|rose]] up in her place, but
+made no advance towards him, and said nothing. Mr Dombey, with a lofty
+gallantry adapted to his dignity and the occasion, betook his creaking
+boots towards her, put her hand to his lips, said, “Tomorrow morning I
+shall have the happiness of claiming this hand as Mrs Dombey’s,” and
+bowed himself solemnly out.
+
+Mrs Skewton rang for candles as soon as the [[house]]-door had closed upon
+him. With the candles appeared her maid, with the juvenile dress that
+was to delude the world to-morrow. The dress had savage retribution in
+it, as such dresses ever have, and made her infinitely older and more
+hideous than her greasy flannel gown. But Mrs Skewton tried it on with
+mincing satisfaction; smirked at her cadaverous [[Self|self]] in the glass, as
+she thought of its killing effect upon the Major; and [[Suffering|suffering]] her
+maid to take it off again, and to prepare her for repose, tumbled into
+ruins like a [[house]] of painted cards.
+
+All this [[Time|time]], Edith remained at the dark [[Window|window]] looking out into the
+street. When she and her mother were at last left [[Alone|alone]], she moved from
+it for the first [[Time|time]] that evening, and came opposite to her. The
+yawning, shaking, peevish figure of the mother, with her eyes raised to
+confront the proud erect form of the daughter, whose glance of [[Fire|fire]] was
+bent downward upon her, had a conscious air upon it, that no levity or
+temper could conceal.
+
+“I am tired to [[Death|death]],” said she. “You can’t be trusted for a moment.
+You are worse than a [[Child|child]]. [[Child]]! No [[Child|child]] would be half so obstinate
+and undutiful.”

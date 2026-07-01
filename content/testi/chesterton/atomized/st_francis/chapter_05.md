@@ -296,7 +296,7 @@ flower might seem to say the same thing; but indeed though they would
 both be telling the [[Truth|truth]], they would be telling different truths.
 For one the joy of life is a cause of [[Faith|faith]], for the other rather
 a result of [[Faith|faith]].  But one effect of the difference is that
-the sense of a divine dependence, which for the [[Artist|artist]] is like
+the sense of a divine dependence, which for the [[artist]] is like
 the brilliant levin-blaze, for the saint is like the broad daylight.
 Being in some mystical sense on the other side of things,
 he sees things go forth from the divine as children going forth

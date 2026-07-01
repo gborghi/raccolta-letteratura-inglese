@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 12 (part 2)"
+title: "thursday — Chapter 12 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_12/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_12/part_03">part 03 ›</a></div>
 </nav>
 
+
+"No," corrected [[The Professor|the Professor]], "a [[Horse|horse]]."
+
+And as they listened, it was evident that the noise, rapidly coming
+nearer on the rattling stones, was not the noise of the whole
+cavalcade but that of the one horseman, who had left it far behind--
+the insane Secretary.
 
 Syme's family, like most of those who end in the simple life,
 had once owned a motor, and he knew all about them.
@@ -138,18 +145,3 @@ to his eyes.  As the car sped on it left a floating patch of white
 smoke behind it, and Syme had heard a shot shriek past his ear.
 
 "My God!" said the Colonel, "someone has shot at us."
-
-"It need not interrupt conversation," said the gloomy Ratcliffe.  "Pray resume
-your remarks, Colonel.  You were talking, I think, about the plain people
-of a peaceable French town."
-
-The staring Colonel was long past minding [[Satire|satire]].
-He rolled his eyes all round the street.
-
-"It is extraordinary," he said, "most extraordinary."
-
-"A fastidious person," said Syme, "might even call it unpleasant.
-However, I suppose those lights out in the field beyond this street
-are the Gendarmerie.  We shall soon get there."
-
-"No," said Inspector Ratcliffe, "we shall never get there."

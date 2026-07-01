@@ -14,6 +14,12 @@ tags:
 </nav>
 
 
+Toby discharged himself of his commission, therefore, with all possible
+[[Speed|speed]], and set off trotting homeward.  But what with his pace, which was
+at best an awkward one in the street; and what with his hat, which didn’t
+improve it; he trotted against somebody in less than no [[Time|time]], and was
+sent staggering out into the [[Road|road]].
+
 ‘I beg your pardon, I’m sure!’ said Trotty, pulling up his hat in great
 confusion, and between the hat and the torn lining, fixing his head into
 a kind of bee-hive.  ‘I [[Hope|hope]] I haven’t hurt you.’
@@ -125,13 +131,3 @@ sure.  I bear no ill-will against none of ’em.  I only want to live like
 one of the Almighty’s creeturs.  I can’t—I don’t—and so there’s a pit dug
 between me, and them that can and do.  There’s others like me.  You might
 tell ’em off by hundreds and by thousands, sooner than by ones.’
-
-Trotty knew he spoke the [[Truth]] in this, and shook his head to signify as
-much.
-
-‘I’ve got a bad name this way,’ said Fern; ‘and I’m not likely, I’m
-afeared, to get a better.  ’Tan’t lawful to be out of sorts, and I AM out
-of sorts, though God knows I’d sooner bear a cheerful spirit if I could.
-[[Well]]!  I don’t know as this Alderman could hurt _me_ much by sending me
-to jail; but without a friend to speak a word for me, he might do it; and
-you see—!’ pointing downward with his finger, at the [[Child|child]].

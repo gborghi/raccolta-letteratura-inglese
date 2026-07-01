@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The Dagger with Wings (part 4)"
+title: "incredulity Fr Brown — The Dagger with Wings (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity_fr_brown/story_06_the_dagger_with_wings/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity_fr_brown/story_06_the_dagger_with_wings/part_05">part 05 ›</a></div>
 </nav>
 
+
+[[Father Brown]] was blinking in his short - sighted way at the paper
+presented to him. It was a singular sort of paper, rough without being
+common, as from an [[Artist|artist]]'s [[Sketch|sketch]] - book; and on it was drawn boldly in
+red ink a dagger decorated with wings like the rod of Hermes, with the
+written words, '[[Death]] comes the day after this, as it came to your
+brothers.'
 
 [[Father Brown]] tossed the paper on the floor and sat bolt upright in his
 chair.
@@ -117,12 +124,3 @@ the man who made the Massacre of Glencoe. He was a very learned man and
 lucid lawyer, a statesman with very serious and enlarged ideas of
 statesmanship, a quiet man with a very refined and intellectual face.
 That's the sort of man who sells himself to the Devil.'
-
-Aylmer half started from his chair with an enthusiasm of eager assent.
-
-'By God! you are right,' he cried. 'A refined intellectual face! That is
-the face of John Strake.'
-
-Then he raised himself and stood looking at the priest with a curious
-concentration. 'If you will wait here a little while,' he said, 'I will
-show you something.'

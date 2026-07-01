@@ -16,7 +16,7 @@ tags:
 
 THE MASK OF THE AGNOSTIC
 
-SIR [[arthur|ARTHUR]] KEITH, in his recent remarks on the [[Soul|soul]], let the cat out
+SIR [[Arthur|ARTHUR]] KEITH, in his recent remarks on the [[Soul|soul]], let the cat out
 of the bag.  He let it out of that very prim and proper professional
 bag which is carried by the "medical man" whom he described
 as conscientiously compelled to assert that the life of the [[Soul|soul]]
@@ -32,7 +32,7 @@ but simply their opinions; and a very shaky sort of opinions some
 of them are.
 
 Not long ago, in his famous address on Anthropoids to the Congress
-at Leeds, Sir [[arthur|Arthur]] Keith said that he spoke simply as the foreman
+at Leeds, Sir [[Arthur]] Keith said that he spoke simply as the foreman
 of a jury.  It is true that he had not apparently consulted the jury;
 and it was rapidly made clear that the jury violently disagreed;
 which is unusual in a jury after the foreman has delivered
@@ -43,7 +43,7 @@ without [[Fear|fear]] or favour.  And this effect would be a hundred times
 more effective if we were left free to imagine that the juryman's
 personal sympathies might be on the other side; or at least,
 if we did not know that they were very keenly on the one side.
-Sir [[arthur|Arthur]] should have been careful to preserve the impression that,
+Sir [[Arthur]] should have been careful to preserve the impression that,
 speaking strictly and solely as an anthropologist, he was forced
 to accept the natural selection of anthropoids.  He should then
 have left it to be inferred that, merely as a private person,
@@ -58,7 +58,7 @@ witness because a reluctant witness.  In the trial of Darwin the man
 might feel for the plaintiff, but the juryman would be forced
 to find for the defendant.
 
-And now Sir [[arthur|Arthur]] Keith has thrown the whole of that imperial
+And now Sir [[Arthur]] Keith has thrown the whole of that imperial
 impartiality away.  He has gone out of his way to dogmatise and lay
 down the law about the [[Soul|soul]]; which has nothing to do with his subject,
 except in so far as it is everybody's subject.  But while it does not
@@ -74,7 +74,7 @@ When THEY choose the side of natural selection, we can all agree
 that it is a very natural selection.
 
 As to the conclusion itself, it seems almost incredibly inconclusive.
-Unless Sir [[arthur|Arthur]] Keith is very badly misreported, he specially
+Unless Sir [[Arthur]] Keith is very badly misreported, he specially
 stated that spiritual existence ceases with the physical functions;
 and that no medical man could conscientiously say anything else.
 However [[Grave|grave]] be the injury called [[Death|death]] (which indeed is often fatal),
@@ -98,7 +98,7 @@ a medical man knows no more about that than any other man.
 And when medical men were clear-headed, some of them (like an ex-surgeon
 named Thomas Henry Huxley) said they did not believe that medical men or
 any men could know anything about it.  That is an intelligible position;
-but it does not seem to be Sir [[arthur|Arthur]] Keith's position.  He has been
+but it does not seem to be Sir [[Arthur]] Keith's position.  He has been
 put up publicly to DENY that the [[Soul|soul]] survives the [[Body|body]]; and to make
 the extraordinary remark that any medical man must say the same.
 It is as if we were to say that any competent builder or surveyor

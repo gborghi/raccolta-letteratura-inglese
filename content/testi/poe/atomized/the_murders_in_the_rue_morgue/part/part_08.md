@@ -1,5 +1,5 @@
 ---
-title: "[[The Murders in the Rue Morgue]] (part 8)"
+title: "The Murders in the Rue Morgue (part 8)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-murders-in-the-rue-morgue-(poe)"
@@ -13,6 +13,40 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_murders_in_the_rue_morgue/part/part_07">‹ part 07</a><a class="ex-next" href="/testi/poe/atomized/the_murders_in_the_rue_morgue/part/part_09">part 09 ›</a></div>
 </nav>
 
+
+      [[Well|well]] as the [[house]], with a minuteness of attention for which I
+
+      could see no possible object.
+
+
+
+      Retracing our steps, we came again to the front of the dwelling,
+
+      rang, and, having shown our credentials, were admitted by the
+
+      agents in charge. We went up stairs—into the chamber where the
+
+      [[Body|body]] of Mademoiselle L’Espanaye had been found, and where both
+
+      the deceased still lay. The disorders of the room had, as usual,
+
+      been suffered to exist. I saw nothing beyond what had been stated
+
+      in the “Gazette des Tribunaux.” Dupin scrutinized every thing—not
+
+      excepting the bodies of the victims. We then went into the other
+
+      rooms, and into the yard; a _gendarme_ accompanying us
+
+      throughout. The examination occupied us until dark, when we took
+
+      our departure. On our way [[Home|home]] my companion stepped in for a
+
+      moment at the office of one of the daily papers.
+
+
+
+      I have said that the whims of my friend were manifold, and that
 
       _Je les ménageais_:—for this phrase there is no English
 
@@ -175,41 +209,3 @@ tags:
       gruff voice to be that of a Frenchman, there was much
 
       disagreement in regard to the shrill, or, as one individual
-
-      termed it, the harsh voice.
-
-
-
-      “That was the evidence itself,” said Dupin, “but it was not the
-
-      peculiarity of the evidence. You have observed nothing
-
-      distinctive. Yet there _was_ something to be observed. The
-
-      witnesses, as you remark, agreed about the gruff voice; they were
-
-      here unanimous. But in regard to the shrill voice, the
-
-      peculiarity is—not that they disagreed—but that, while an
-
-      Italian, an Englishman, a Spaniard, a Hollander, and a Frenchman
-
-      attempted to describe it, each one spoke of it as that _of a
-
-      foreigner_. Each is sure that it was not the voice of one of his
-
-      own countrymen. Each likens it—not to the voice of an individual
-
-      of any nation with whose language he is conversant—but the
-
-      converse. The Frenchman supposes it the voice of a Spaniard, and
-
-      ‘might have distinguished some words _had he been acquainted with
-
-      the Spanish._’ The Dutchman maintains it to have been that of a
-
-      Frenchman; but we find it stated that ‘_not understanding French
-
-      this witness was examined through an interpreter._’ The
-
-      Englishman thinks it the voice of a German, and ‘_does not

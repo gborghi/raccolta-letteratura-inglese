@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 6"
+title: "Bleak House — Chapter 6"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/bleak-house-(dickens)"
@@ -283,7 +283,7 @@ henceforth to belong to Ada and me. Out of this you went up three
 steps into Ada’s bedroom, which had a fine broad [[Window|window]] commanding a
 beautiful view (we saw a great expanse of darkness lying underneath
 the [[Stars|stars]]), to which there was a hollow [[Window|window]]-seat, in which, with a
-[[Spring|spring]]-lock, three dear Adas might have been lost at once. Out of
+[[spring]]-lock, three dear Adas might have been lost at once. Out of
 this room you passed into a little gallery, with which the other best
 rooms (only two) communicated, and so, by a little staircase of
 shallow steps with a number of corner stairs in it, considering its
@@ -360,7 +360,7 @@ inaptitude for all worldly affairs, he is a perfect [[Child|child]].”
 We felt that he must be very interesting.
 
 “He knows Mrs. Jellyby,” said Mr. Jarndyce. “He is a musical man, an
-amateur, but might have been a professional. He is an [[artist]] too, an
+amateur, but might have been a professional. He is an [[Artist|artist]] too, an
 amateur, but might have been a professional. He is a man of
 attainments and of captivating manners. He has been unfortunate in
 his affairs, and unfortunate in his pursuits, and unfortunate in his
@@ -571,7 +571,7 @@ is the universe), and I know nothing of it, so you shall have your
 way. But if I had mine,” glancing at the cousins, “there should be no
 brambles of sordid realities in such a path as that. It should be
 strewn with roses; it should lie through bowers, where there was no
-[[Spring|spring]], [[Autumn|autumn]], nor [[Winter|winter]], but perpetual [[Summer|summer]]. Age or change
+[[spring]], [[Autumn|autumn]], nor [[Winter|winter]], but perpetual [[Summer|summer]]. Age or change
 should never wither it. The base word money should never be breathed
 near it!”
 

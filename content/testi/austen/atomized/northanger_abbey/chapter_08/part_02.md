@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 7 (part 2)"
+title: "Northanger Abbey — Chapter 7 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -12,6 +12,20 @@ tags:
 <div class="excerpt-crumb">Austen · <a href="/works/northanger-abbey-(austen)">Northanger Abbey</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_08/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_08/part_03">part 03 ›</a></div>
 </nav>
+
+
+I hate haggling, and poor Freeman wanted cash.”
+
+
+
+“That was very good-natured of you,” said Catherine, quite pleased.
+
+
+
+“Oh! d—— it, when one has the means of doing a kind thing by a friend,
+
+I hate to be pitiful.”
+
 
 
 An inquiry now took place into the intended movements of the young
@@ -249,17 +263,3 @@ received him with the most delighted and exulting affection. On his two
 younger sisters he then bestowed an equal portion of his fraternal
 
 tenderness, for he asked each of them how they did, and observed that
-
-they both looked very ugly.
-
-
-
-These manners did not please Catherine; but he was James’s friend and
-
-[[Isabella]]’s brother; and her judgment was further bought off by
-
-[[Isabella]]’s assuring her, when they withdrew to see the new hat, that
-
-John thought her the most charming girl in the world, and by John’s
-
-engaging her before they parted to [[Dance|dance]] with him that evening. Had she

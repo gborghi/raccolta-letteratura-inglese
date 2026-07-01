@@ -1,5 +1,5 @@
 ---
-title: "[[The System of Doctor Tarr and Professor Fether]]"
+title: "The System of Doctor Tarr and Professor Fether"
 author: "Poe"
 unitType: work
 parentWork: "works/the-system-of-doctor-tarr-and-professor-fether-(poe)"

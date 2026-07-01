@@ -1,5 +1,5 @@
 ---
-title: "[[misc]] — THE THING"
+title: "misc — THE THING"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -10,12 +10,11 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">misc</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_02_the_poet_and_the_cheese">‹ Story 02 THE POET AND THE CHEESE</a><a class="ex-next" href="/testi/chesterton/atomized/misc/story_04_the_man_who_thinks_backwards">Story 04 THE MAN WHO THINKS BACKWARDS ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_02_the_poet_and_the_cheese_cheese">‹ Story 02 THE POET AND THE cheese CHEESE</a><a class="ex-next" href="/testi/chesterton/atomized/misc/story_04_the_man_who_thinks_backwards">Story 04 THE MAN WHO THINKS BACKWARDS ›</a></div>
 </nav>
 
 
 THE THING
-
 
 The [[Wind|wind]] awoke last [[Night|night]] with so noble a violence that it
 was like the war in heaven; and I thought for a moment that
@@ -106,7 +105,7 @@ think that the savages in Prusso-Portuguese East Bunyipland
 are as happy and hygienic as the fortunate savages in
 Franco-British West Bunyipland?  IV.  Did the lost Latin Charter
 said to have been exacted from Henry III reserve the right of
-the [[Crown]] to create peers?  V. What do you think of what [[america|America]]
+the [[Crown]] to create peers?  V. What do you think of what [[America]]
 thinks of what Mr. Roosevelt thinks of what Sir Eldon Gorst
 thinks of the state of the Nile?  VI.  Detect some difference
 between the two persons in frock-coats placed before you

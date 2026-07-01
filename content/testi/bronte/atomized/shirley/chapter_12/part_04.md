@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 12 (part 4)"
+title: "Shirley — Chapter 12 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -12,6 +12,40 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_12/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_12/part_05">part 05 ›</a></div>
 </nav>
+
+
+"Let me hear."
+
+
+
+"Neither man nor woman, elderly nor young: the little Irish beggar that
+
+comes barefoot to my door; the mouse that steals out of the cranny in
+
+the wainscot; the bird that in [[Frost|frost]] and [[Snow|snow]] pecks at my [[Window|window]] for a
+
+crumb; the dog that licks my hand and sits beside my knee."
+
+
+
+"Did you ever see any one who was kind to such things?"
+
+
+
+"Did you ever see any one whom such things seemed instinctively to
+
+follow, like, rely on?"
+
+
+
+"We have a black cat and an old dog at the rectory. I know somebody to
+
+whose knee that black cat loves to climb, against whose shoulder and
+
+cheek it likes to purr. The old dog always comes out of his kennel and
+
+wags his tail, and whines affectionately when somebody passes."
+
 
 
 "And what does that somebody do?"
@@ -245,47 +279,3 @@ portrait from the life, I presume?"
 
 
 "Of Mrs. Matthewson Helstone? Of your uncle's wife?"
-
-
-
-"It is, and is said to be a good likeness. Before her [[Marriage|marriage]] she was
-
-accounted the [[Beauty|beauty]] of the district."
-
-
-
-"I should say she merited the distinction. What accuracy in all the
-
-lineaments! It is, however, a passive face. The original could not have
-
-been what is generally termed 'a woman of spirit.'"
-
-
-
-"I believe she was a remarkably still, silent person."
-
-
-
-"One would scarcely have expected, my dear, that your uncle's choice
-
-should have fallen on a partner of that description. Is he not fond of
-
-being amused by lively chat?"
-
-
-
-"In company he is. But he always says he could never do with a talking
-
-wife. He must have quiet at [[Home|home]]. You go out to gossip, he affirms; you
-
-come [[Home|home]] to read and reflect."
-
-
-
-"Mrs. Matthewson lived but a few years after her [[Marriage|marriage]], I think I
-
-have heard?"
-
-
-
-"About five years."

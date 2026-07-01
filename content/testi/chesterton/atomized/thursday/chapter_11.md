@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 11"
+title: "thursday — Chapter 11"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/thursday-(chesterton)"
@@ -17,7 +17,6 @@ tags:
                          CHAPTER XI
 
                 THE CRIMINALS CHASE THE POLICE
-
 
 SYME put the field-glasses from his eyes with an almost ghastly relief.
 

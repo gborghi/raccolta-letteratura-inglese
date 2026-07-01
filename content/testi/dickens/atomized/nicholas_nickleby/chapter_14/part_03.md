@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 14 (part 3)"
+title: "Nicholas Nickleby — Chapter 14 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -125,14 +125,3 @@ dissolved in [[Tears|tears]].
 
 ‘Oh, dear,’ said all the ladies, ‘so they are! it’s very natural you
 should feel proud of that; but don’t give way, don’t.’
-
-‘I can--not help it, and it don’t signify,’ sobbed Mrs. Kenwigs; ‘oh!
-they’re too beautiful to live, much too beautiful!’
-
-On hearing this alarming presentiment of their being doomed to an early
-[[Death|death]] in the flower of their infancy, all four little girls raised
-a hideous cry, and burying their heads in their mother’s lap
-simultaneously, screamed until the eight flaxen tails vibrated again;
-Mrs. Kenwigs meanwhile clasping them alternately to her bosom, with
-attitudes expressive of distraction, which Miss Petowker herself might
-have copied.

@@ -1,5 +1,5 @@
 ---
-title: "[[The Business Man]] (part 2)"
+title: "The Business Man (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-business-man-(poe)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_business_man/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/the_business_man/part/part_03">part 03 ›</a></div>
 </nav>
 
+
+      individual for the clothes of the day. Ten o’[[Clock|clock]] found me in
+
+      some fashionable promenade or other place of public amusement.
+
+      The precise regularity with which I turned my handsome person
 
       about, so as to bring successively into view every portion of the
 
@@ -193,13 +199,3 @@ Aug. 19.   To do do (small man and bad pay)                        6
       me by that delightful old [[Nurse|nurse]]—I would indeed be the basest of
 
       men not to remember her [[Well|well]] in my will. By observing, as I say,
-
-      the strictest system in all my dealings, and keeping a
-
-      [[Well|well]]-regulated set of books, I was enabled to get over many
-
-      serious difficulties, and, in the end, to establish myself very
-
-      decently in the profession. The [[Truth|truth]] is, that few individuals,
-
-      in any line, did a snugger little business than I. I will just

@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 35 (part 4)"
+title: "Villette — Chapter 35 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,29 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_37/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_38/part_01">part 01 ›</a></div>
 </nav>
 
+
+He eyed me closely; he half-smiled, half-coloured. “Where did you pick
+up all that? Who told you?” he asked.
+
+“Nobody told me. Did I dream it, Monsieur, do you think?”
+
+“Can I enter into your visions? Can I guess a woman’s waking thoughts,
+much less her sleeping fantasies?”
+
+“If I dreamt it, I saw in my dream human beings as [[Well|well]] as a [[house]]. I
+saw a priest, old, bent, and grey, and a domestic—old, too, and
+picturesque; and a lady, splendid but strange; her head would scarce
+reach to my elbow—her magnificence might ransom a duke. She wore a gown
+bright as lapis-lazuli—a shawl worth a thousand francs: she was decked
+with ornaments so brilliant, I never saw any with such a beautiful
+sparkle; but her figure looked as if it had been broken in two and bent
+[[Double|double]]; she seemed also to have outlived the common years of humanity,
+and to have attained those which are only labour and sorrow. She was
+become morose—almost malevolent; yet _somebody_, it appears, cared for
+her in her infirmities—somebody forgave her trespasses, hoping to have
+his trespasses forgiven. They lived together, these three people—the
+mistress, the chaplain, the servant—all old, all feeble, all sheltered
+under one kind wing.”
 
 He covered with his hand the upper part of his face, but did not
 conceal his mouth, where I saw hovering an expression I liked.

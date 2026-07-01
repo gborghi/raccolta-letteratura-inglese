@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 8 (part 5)"
+title: "Our Mutual Friend — Chapter 9 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,95 +10,143 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_13/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_14/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_13/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_13/part_06">part 06 ›</a></div>
 </nav>
 
 
-Not very [[Well|well]] knowing how to get rid of this applicant, and feeling the
-more embarrassed because his manner and appearance claimed a delicacy
-in which the worthy Mr Boffin feared he himself might be deficient, that
-gentleman glanced into the mouldy little plantation or cat-preserve, of
-[[Clifford]]’s Inn, as it was that day, in search of a suggestion. Sparrows
-were there, cats were there, dry-rot and wet-rot were there, but it was
-not otherwise a suggestive spot.
+‘If you like to bring your sister with you when you come to stay with
+us,’ said Mrs Boffin, ‘of course we shall be glad. The better you please
+yourself, Miss Bella, the better you’ll please us.’
 
-‘All this [[Time|time]],’ said the stranger, producing a little pocket-book and
-taking out a card, ‘I have not mentioned my name. My name is Rokesmith.
-I lodge at one Mr Wilfer’s, at Holloway.’
+‘Oh, my consent is of no consequence at all, I suppose?’ cried Miss
+[[Lavinia]].
 
-Mr Boffin stared again.
+‘Lavvy,’ said her sister, in a low voice, ‘have the goodness to be seen
+and not heard.’
 
-‘Father of Miss [[Bella Wilfer]]?’ said he.
+‘No, I won’t,’ replied the sharp [[Lavinia]]. ‘I’m not a [[Child|child]], to be taken
+notice of by strangers.’
 
-‘My landlord has a daughter named Bella. Yes; no [[Doubt|doubt]].’
+‘You ARE a [[Child|child]].’
 
-Now, this name had been more or less in Mr Boffin’s thoughts all the
-morning, and for days before; therefore he said:
+‘I’m not a [[Child|child]], and I won’t be taken notice of. “Bring your sister,”
+ indeed!’
 
-‘That’s singular, too!’ unconsciously staring again, past all bounds of
-good manners, with the card in his hand. ‘Though, by-the-bye, I suppose
-it was one of that family that pinted me out?’
+‘[[Lavinia]]!’ said Mrs Wilfer. ‘Hold! I will not allow you to utter in my
+presence the absurd suspicion that any strangers—I care not what their
+names—can patronize my [[Child|child]]. Do you dare to suppose, you ridiculous
+girl, that Mr and Mrs Boffin would enter these doors upon a patronizing
+errand; or, if they did, would remain within them, only for one single
+instant, while your mother had the strength yet remaining in her vital
+frame to request them to depart? You little know your mother if you
+presume to think so.’
 
-‘No. I have never been in the streets with one of them.’
+‘It’s all very fine,’ [[Lavinia]] began to grumble, when Mrs Wilfer
+repeated:
 
-‘Heard me talked of among ’em, though?’
+‘Hold! I will not allow this. Do you not know what is due to guests?
+Do you not comprehend that in presuming to hint that this lady and
+gentleman could have any idea of patronizing any member of your
+family—I care not which—you accuse them of an impertinence little less
+than insane?’
 
-‘No. I occupy my own rooms, and have held scarcely any communication
-with them.’
+‘Never mind me and Mrs Boffin, ma’am,’ said Mr Boffin, smilingly: ‘we
+don’t care.’
 
-‘Odder and odder!’ said Mr Boffin. ‘[[Well]], sir, to tell you the [[Truth|truth]], I
-don’t know what to say to you.’
+‘Pardon me, but I do,’ returned Mrs Wilfer.
 
-‘Say nothing,’ returned Mr Rokesmith; ‘allow me to call on you in a few
-days. I am not so unconscionable as to think it likely that you would
-accept me on trust at first sight, and take me out of the very street.
-Let me come to you for your further opinion, at your leisure.’
+Miss [[Lavinia]] laughed a short laugh as she muttered, ‘Yes, to be sure.’
 
-‘That’s fair, and I don’t object,’ said Mr Boffin; ‘but it must be on
-condition that it’s fully understood that I no more know that I shall
-ever be in want of any gentleman as Secretary—it WAS Secretary you
-said; wasn’t it?’
+‘And I require my audacious [[Child|child]],’ proceeded Mrs Wilfer, with a
+withering look at her youngest, on whom it had not the slightest effect,
+‘to please to be just to her sister Bella; to remember that her sister
+Bella is much sought after; and that when her sister Bella accepts an
+attention, she considers herself to be conferring qui-i-ite as much
+[[Honour|honour]],’—this with an indignant shiver,—‘as she receives.’
 
-‘Yes.’
+But, here Miss Bella repudiated, and said quietly, ‘I can speak for
+myself; you know, ma. You needn’t bring ME in, please.’
 
-Again Mr Boffin’s eyes opened wide, and he stared at the applicant from
-head to foot, repeating ‘Queer!—You’re sure it was Secretary? Are you?’
+‘And it’s all very [[Well|well]] aiming at others through convenient me,’ said
+the irrepressible [[Lavinia]], spitefully; ‘but I should like to ask George
+Sampson what he says to it.’
 
-‘I am sure I said so.’
+‘Mr Sampson,’ proclaimed Mrs Wilfer, seeing that young gentleman take
+his stopper out, and so darkly fixing him with her eyes as that he put
+it in again: ‘Mr Sampson, as a friend of this family and a frequenter of
+this [[house]], is, I am persuaded, far too [[Well|well]]-bred to interpose on such
+an invitation.’
 
-—‘As Secretary,’ repeated Mr Boffin, meditating upon the word; ‘I no
-more know that I may ever want a Secretary, or what not, than I do that
-I shall ever be in want of the man in the [[Moon|moon]]. Me and Mrs Boffin have
-not even settled that we shall make any change in our way of life. Mrs
-Boffin’s inclinations certainly do tend towards Fashion; but, being
-already set up in a fashionable way at the Bower, she may not make
-further alterations. However, sir, as you don’t press yourself, I wish
-to meet you so far as saying, by all means call at the Bower if you
-like. Call in the course of a week or two. At the same [[Time|time]], I consider
-that I ought to name, in addition to what I have already named, that I
-have in my employment a literary man—WITH a wooden leg—as I have no
-thoughts of parting from.’
+This exaltation of the young gentleman moved the conscientious Mrs
+Boffin to repentance for having done him an injustice in her mind, and
+consequently to saying that she and Mr Boffin would at any [[Time|time]] be glad
+to see him; an attention which he handsomely acknowledged by replying,
+with his stopper unremoved, ‘Much obliged to you, but I’m always
+engaged, day and [[Night|night]].’
 
-‘I regret to hear I am in some sort anticipated,’ Mr Rokesmith answered,
-evidently having heard it with surprise; ‘but perhaps other duties might
-arise?’
+However, Bella compensating for all drawbacks by responding to the
+advances of the Boffins in an engaging way, that easy pair were on the
+whole [[Well|well]] satisfied, and proposed to the said Bella that as soon as
+they should be in a condition to receive her in a manner suitable to
+their desires, Mrs Boffin should return with notice of the fact. This
+arrangement Mrs Wilfer sanctioned with a stately inclination of her
+head and wave of her gloves, as who should say, ‘Your demerits shall be
+overlooked, and you shall be mercifully gratified, poor people.’
 
-‘You see,’ returned Mr Boffin, with a confidential sense of dignity, ‘as
-to my literary man’s duties, they’re clear. Professionally he declines
-and he falls, and as a friend he drops into poetry.’
+‘By-the-bye, ma’am,’ said Mr Boffin, turning back as he was going, ‘you
+have a lodger?’
 
-Without observing that these duties seemed by no means clear to Mr
-Rokesmith’s astonished comprehension, Mr Boffin went on:
+‘A gentleman,’ Mrs Wilfer answered, qualifying the low expression,
+‘undoubtedly occupies our first floor.’
 
-‘And now, sir, I’ll wish you good-day. You can call at the Bower any
-[[Time|time]] in a week or two. It’s not above a mile or so from you, and your
-landlord can direct you to it. But as he may not know it by its new
-name of Boffin’s Bower, say, when you inquire of him, it’s Harmon’s;
-will you?’
+‘I may call him Our Mutual Friend,’ said Mr Boffin. ‘What sort of a
+fellow IS Our Mutual Friend, now? Do you like him?’
 
-‘Harmoon’s,’ repeated Mr Rokesmith, seeming to have caught the sound
-imperfectly, ‘Harmarn’s. How do you spell it?’
+‘Mr Rokesmith is very punctual, very quiet, a very eligible inmate.’
 
-‘Why, as to the spelling of it,’ returned Mr Boffin, with great presence
-of mind, ‘that’s YOUR look out. Harmon’s is all you’ve got to say to
-HIM. Morning, morning, morning!’ And so departed, without looking back.
+‘Because,’ Mr Boffin explained, ‘you must know that I’m not particularly
+[[Well|well]] acquainted with Our Mutual Friend, for I have only seen him once.
+You give a good account of him. Is he at [[Home|home]]?’
+
+‘Mr Rokesmith is at [[Home|home]],’ said Mrs Wilfer; ‘indeed,’ pointing through
+the [[Window|window]], ‘there he stands at the [[Garden|garden]] gate. Waiting for you,
+perhaps?’
+
+‘Perhaps so,’ replied Mr Boffin. ‘Saw me come in, maybe.’
+
+Bella had closely attended to this short dialogue. Accompanying Mrs
+Boffin to the gate, she as closely watched what followed.
+
+‘How are you, sir, how are you?’ said Mr Boffin. ‘This is Mrs Boffin. Mr
+Rokesmith, that I told you of; my dear.’
+
+She gave him good day, and he bestirred himself and helped her to her
+seat, and the like, with a ready hand.
+
+‘Good-bye for the present, Miss Bella,’ said Mrs Boffin, calling out a
+hearty parting. ‘We shall meet again soon! And then I [[Hope|hope]] I shall have
+my little [[John Harmon]] to show you.’
+
+Mr Rokesmith, who was at the [[Wheel|wheel]] adjusting the skirts of her dress,
+suddenly looked behind him, and around him, and then looked up at her,
+with a face so pale that Mrs Boffin cried:
+
+‘Gracious!’ And after a moment, ‘What’s the matter, sir?’
+
+‘How can you show her the Dead?’ returned Mr Rokesmith.
+
+‘It’s only an adopted [[Child|child]]. One I have told her of. One I’m going to
+give the name to!’
+
+‘You took me by surprise,’ said Mr Rokesmith, ‘and it sounded like an
+omen, that you should speak of showing the Dead to one so young and
+blooming.’
+
+Now, Bella suspected by this [[Time|time]] that Mr Rokesmith admired her. Whether
+the knowledge (for it was rather that than suspicion) caused her to
+incline to him a little more, or a little less, than she had done at
+first; whether it rendered her eager to find out more about him, because
+she sought to establish reason for her distrust, or because she sought
+to free him from it; was as yet dark to her own heart. But at most
+times he occupied a great amount of her attention, and she had set her
+attention closely on this incident.

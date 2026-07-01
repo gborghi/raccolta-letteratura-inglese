@@ -1,5 +1,5 @@
 ---
-title: "[[innocence]] — The Wrong Shape (part 5)"
+title: "innocence — The Wrong Shape (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_07_the_wrong_shape/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_07_the_wrong_shape/part_06">part 06 ›</a></div>
 </nav>
 
+
+"That's all right," he said, with an apologetic smile.
+"Twenty-three sheets cut and twenty-two corners cut off them.
+And as I see you are impatient we will rejoin the others."
 
 "Who is to tell his wife?" asked Dr. Harris.  "Will you go and tell her now,
 while I send a servant for the police?"
@@ -139,8 +143,3 @@ the sky shut up again, and the priest went on:
 of paper.  It was crookeder than the dagger that killed him."
 
 "You mean the paper on which Quinton confessed his suicide," said Flambeau.
-
-"I mean the paper on which Quinton wrote, `I die by my own hand,'"
-answered [[Father Brown]].  "The shape of that paper, my friend,
-was the wrong shape; the wrong shape, if ever I have seen it
-in this wicked world."

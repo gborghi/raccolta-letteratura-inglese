@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 13 (part 4)"
+title: "Barnaby Rudge — Chapter 13 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_13/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_15/part_01">part 01 ›</a></div>
 </nav>
 
+
+This pronoun was understood in the plural sense, and included both
+gentlemen, upon both of whom it was rather hard and undeserved, for
+Gabriel had applied himself to the meal with a very promising appetite,
+until it was spoilt by Mrs Varden herself, and Joe had as great a liking
+for the female society of the locksmith’s [[house]]--or for a part of it at
+all events--as man could [[Well|well]] entertain.
 
 But he had no opportunity to say anything in his own defence, for at
 that moment Dolly herself appeared, and struck him quite dumb with her

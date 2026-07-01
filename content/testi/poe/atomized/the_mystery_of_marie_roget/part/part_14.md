@@ -1,5 +1,5 @@
 ---
-title: "[[The Mystery of Marie Roget]] (part 14)"
+title: "The Mystery of Marie Roget (part 14)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-mystery-of-marie-roget-(poe)"
@@ -13,6 +13,90 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_mystery_of_marie_roget/part/part_13">‹ part 13</a><a class="ex-next" href="/testi/poe/atomized/the_mystery_of_marie_roget/part/part_15">part 15 ›</a></div>
 </nav>
 
+
+      far from that at which she had originally entered the boat with
+
+      her parents. The villains have escaped for the [[Time|time]], but the
+
+      police are upon their trail, and some of them will soon be
+
+      taken.”—Morning Paper—June 25. (*19)
+
+
+
+      “We have received one or two communications, the object of which
+
+      is to fasten the crime of the late atrocity upon Mennais; (*20)
+
+      but as this gentleman has been fully exonerated by a loyal
+
+      inquiry, and as the arguments of our several correspondents
+
+      appear to be more zealous than profound, we do not think it
+
+      advisable to make them public.”—Morning Paper—June 28. (*21)
+
+
+
+      “We have received several forcibly written communications,
+
+      apparently from various sources, and which go far to render it a
+
+      matter of certainty that the unfortunate Marie Rogêt has become a
+
+      victim of one of the numerous bands of blackguards which infest
+
+      the vicinity of the [[City|city]] upon [[Sunday]]. Our own opinion is
+
+      decidedly in favor of this supposition. We shall endeavor to make
+
+      room for some of these arguments hereafter.”—Evening
+
+      Paper—Tuesday, June 31. (*22)
+
+
+
+      “On Monday, one of the bargemen connected with the revenue
+
+      service, saw an empty boat floating down the Seine. Sails were
+
+      lying in the [[Bottom|bottom]] of the boat. The bargeman towed it under the
+
+      barge office. The next morning it was taken from thence, without
+
+      the knowledge of any of the officers. The rudder is now at the
+
+      barge office.”—Le Diligence—[[thursday|Thursday]], June 26.
+
+
+
+      Upon reading these various extracts, they not only seemed to me
+
+      irrelevant, but I could perceive no mode in which any one of them
+
+      could be brought to bear upon the matter in hand. I waited for
+
+      some explanation from Dupin.
+
+
+
+      “It is not my present design,” he said, “to dwell upon the first
+
+      and second of those extracts. I have copied them chiefly to show
+
+      you the extreme remissness of the police, who, as far as I can
+
+      understand from the Prefect, have not troubled themselves, in any
+
+      respect, with an examination of the naval officer alluded to. Yet
+
+      it is mere folly to say that between the first and second
+
+      disappearance of Marie there is no _supposable_ connection. Let
+
+      us admit the first elopement to have resulted in a quarrel
+
+      between the [[lovers]], and the return [[Home|home]] of the betrayed. We are
 
       now prepared to view a second elopement (if we know that an
 
@@ -115,83 +199,3 @@ tags:
       intelligence, he should become aware of her continued absence
 
       from [[Home|home]]. She must have thought of these things, I say. She must
-
-      have foreseen the chagrin of St. Eustache, the suspicion of all.
-
-      She could not have thought of returning to brave this suspicion;
-
-      but the suspicion becomes a point of trivial importance to her,
-
-      if we suppose her not intending to return.
-
-
-
-      “We may imagine her thinking thus—‘I am to meet a certain person
-
-      for the purpose of elopement, or for certain other purposes known
-
-      only to myself. It is necessary that there be no chance of
-
-      interruption—there must be sufficient [[Time|time]] given us to elude
-
-      pursuit—I will give it to be understood that I shall visit and
-
-      spend the day with my aunt at the Rue des Drômes—I will tell St.
-
-      Eustache not to call for me until dark—in this way, my absence
-
-      from [[Home|home]] for the longest possible period, without causing
-
-      suspicion or anxiety, will be accounted for, and I shall gain
-
-      more [[Time|time]] than in any other manner. If I bid St. Eustache call
-
-      for me at dark, he will be sure not to call before; but, if I
-
-      wholly neglect to bid him call, my [[Time|time]] for escape will be
-
-      diminished, since it will be expected that I return the earlier,
-
-      and my absence will the sooner excite anxiety. Now, if it were my
-
-      design to return at all—if I had in contemplation merely a stroll
-
-      with the individual in question—it would not be my policy to bid
-
-      St. Eustache call; for, calling, he will be sure to ascertain
-
-      that I have played him false—a fact of which I might keep him for
-
-      ever in ignorance, by leaving [[Home|home]] without notifying him of my
-
-      intention, by returning before dark, and by then stating that I
-
-      had been to visit my aunt in the Rue des Drômes. But, as it is my
-
-      design never to return—or not for some weeks—or not until certain
-
-      concealments are effected—the gaining of [[Time|time]] is the only point
-
-      about which I need give myself any concern.’
-
-
-
-      “You have observed, in your notes, that the most general opinion
-
-      in relation to this sad affair is, and was from the first, that
-
-      the girl had been the victim of a gang of blackguards. Now, the
-
-      popular opinion, under certain conditions, is not to be
-
-      disregarded. When arising of itself—when manifesting itself in a
-
-      strictly spontaneous manner—we should look upon it as analogous
-
-      with that _intuition_ which is the idiosyncrasy of the individual
-
-      man of genius. In ninety-nine cases from the hundred I would
-
-      abide by its decision. But it is important that we find no
-
-      palpable traces of _suggestion_. The opinion must be rigorously

@@ -14,6 +14,26 @@ tags:
 </nav>
 
 
+A little cottage at Hampstead being to let, which had in its [[Garden|garden]] a
+smoking-box, the envy of the civilised world, they agreed to become its
+tenants, and, when the honey-[[Moon|moon]] was over, entered upon its
+occupation.  To this retreat Mr Chuckster repaired regularly every
+[[Sunday]] to spend the day--usually beginning with breakfast--and here he
+was the great purveyor of general news and fashionable intelligence.
+For some years he continued a deadly foe to Kit, protesting that he had
+a better opinion of him when he was supposed to have stolen the
+five-pound note, than when he was shown to be perfectly free of the
+crime; inasmuch as his [[Guilt|guilt]] would have had in it something daring and
+bold, whereas his [[innocence]] was but another proof of a sneaking and
+crafty disposition.  By slow degrees, however, he was reconciled to him
+in the end; and even went so far as to [[Honour|honour]] him with his patronage,
+as one who had in some measure reformed, and was therefore to be
+forgiven.  But he never forgot or pardoned that circumstance of the
+shilling; holding that if he had come back to get another he would have
+done [[Well|well]] enough, but that his returning to work out the former gift
+was a stain upon his moral character which no penitence or contrition
+could ever wash away.
+
 Mr Swiveller, having always been in some measure of a philosophic and
 reflective turn, grew immensely contemplative, at times, in the
 smoking-box, and was accustomed at such periods to [[debate]] in his own

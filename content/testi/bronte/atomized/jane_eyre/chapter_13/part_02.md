@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 13 (part 2)"
+title: "Jane Eyre — Chapter 13 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -182,6 +182,3 @@ sounds blasphemous.”
 a harsh man; at once pompous and meddling; he cut off our hair; and for
 economy’s sake bought us bad needles and thread, with which we could
 hardly sew.”
-
-“That was very false economy,” remarked Mrs. Fairfax, who now again
-caught the drift of the dialogue.

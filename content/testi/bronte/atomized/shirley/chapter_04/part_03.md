@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 4 (part 3)"
+title: "Shirley — Chapter 4 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_04/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_04/part_04">part 04 ›</a></div>
 </nav>
 
+
+fact is they recalled old, perhaps pleasurable, associations--they
+
+brought back his travelling, his youthful days. He had seen, amidst
+
+Italian cities and scenes, faces like Moore's; he had heard, in Parisian
+
+cafés and theatres, voices like his. He was young then, and when he
 
 looked at and listened to the alien, he seemed young again.
 
@@ -193,17 +201,3 @@ that what would have been so precious to him had been neglected, perhaps
 abused, by another, he conceived for that other a rooted and bitter
 
 animosity.
-
-
-
-Of the [[Nature|nature]] and strength of this animosity Mr. Helstone was but half
-
-aware. He neither knew how much Yorke had loved Mary [[Cave]], what he had
-
-felt on losing her, nor was he conscious of the calumnies concerning his
-
-treatment of her, familiar to every ear in the neighbourhood but his
-
-own. He believed political and religious differences [[Alone|alone]] separated him
-
-and Mr. Yorke. Had he known how the case really stood, he would hardly

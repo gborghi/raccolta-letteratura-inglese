@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 31 (part 3)"
+title: "Bleak House — Chapter 31 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_31/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_31/part_04">part 04 ›</a></div>
 </nav>
 
+
+I was afraid of staying then to speak to either woman, lest I should
+bring her into trouble. But I said to Charley that we must not leave
+the boy to die. Charley, who knew what to do much better than I did,
+and whose quickness equalled her presence of mind, glided on before
+me, and presently we came up with Jo, just short of the brick-kiln.
+
+I think he must have begun his [[Journey|journey]] with some small bundle under
+his arm and must have had it stolen or lost it. For he still carried
+his wretched [[Fragment|fragment]] of fur cap like a bundle, though he went
+bare-headed through the rain, which now fell fast. He stopped when we
+called to him and again showed a dread of me when I came up, standing
+with his lustrous eyes fixed upon me, and even arrested in his
+shivering fit.
 
 I asked him to come with us, and we would take care that he had some
 shelter for the [[Night|night]].
@@ -125,20 +139,3 @@ energy, which has a certain amount of reason in it and a certain
 amount of [[Romance|romance]]; and I don’t know but what I should be more
 interested in our young friend, as an illustration of such a case,
 than merely as a poor vagabond—which any one can be.”
-
-“In the meantime,” I ventured to observe, “he is getting worse.”
-
-“In the meantime,” said Mr. Skimpole cheerfully, “as Miss Summerson,
-with her practical good sense, observes, he is getting worse.
-Therefore I recommend your turning him out before he gets still
-worse.”
-
-The amiable face with which he said it, I think I shall never forget.
-
-“Of course, little woman,” observed my guardian, turning to me, “I
-can ensure his admission into the proper place by merely going there
-to enforce it, though it’s a bad state of things when, in his
-condition, that is necessary. But it’s growing late, and is a very
-bad [[Night|night]], and the boy is worn out already. There is a bed in the
-wholesome loft-room by the stable; we had better keep him there till
-morning, when he can be wrapped up and removed. We’ll do that.”

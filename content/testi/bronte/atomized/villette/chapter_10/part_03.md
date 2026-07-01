@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 10 (part 3)"
+title: "Villette — Chapter 10 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_10/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_11/part_01">part 01 ›</a></div>
 </nav>
 
+
+Every day, on this mere pretext of a motive, he gave punctual
+attendance; Madame always received him with the same empressement, the
+same sunshine for himself, the same admirably counterfeited air of
+concern for her [[Child|child]]. Dr. John wrote harmless prescriptions for the
+patient, and viewed her mother with a shrewdly sparkling eye. Madame
+caught his rallying looks without resenting them—she had too much good
+sense for that. Supple as the young doctor seemed, one could not
+despise him—this pliant part was evidently not adopted in the design to
+curry favour with his employer: while he liked his office at the
+pensionnat, and lingered strangely about the Rue Fossette, he was
+independent, almost careless in his carriage there; and yet, too, he
+was often thoughtful and preoccupied.
 
 It was not perhaps my business to observe the mystery of his bearing,
 or search out its origin or aim; but, placed as I was, I could hardly

@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 5 (part 3)"
+title: "Jane Eyre — Chapter 5 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_05/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_05/part_04">part 04 ›</a></div>
 </nav>
 
+
+The refectory was a great, low-ceiled, gloomy room; on two long tables
+smoked basins of something hot, which, however, to my dismay, sent
+forth an odour far from inviting. I saw a universal manifestation of
+discontent when the fumes of the repast met the nostrils of those
+destined to [[Swallow|swallow]] it; from the van of the procession, the tall girls
+of the first class, [[Rose|rose]] the whispered words—
 
 “Disgusting! The porridge is burnt again!”
 
@@ -118,8 +125,3 @@ grammar, &c., went on for an hour; writing and arithmetic succeeded,
 and music lessons were given by Miss Temple to some of the elder girls.
 The duration of each lesson was measured by the [[Clock|clock]], which at last
 struck twelve. The superintendent [[Rose|rose]]—
-
-“I have a word to address to the pupils,” said she.
-
-The tumult of cessation from lessons was already breaking forth, but it
-sank at her voice. She went on—

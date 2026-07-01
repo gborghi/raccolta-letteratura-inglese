@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 8: MY HOLIDAYS. ESPECIALLY ONE HAPPY AFTERNOON (part 2)"
+title: "David Copperfield — Chapter 8: MY HOLIDAYS. ESPECIALLY ONE HAPPY AFTERNOON (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_08_my_holidays_especially_one_hap/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_08_my_holidays_especially_one_hap/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘He is your brother,’ said my mother, fondling me. ‘Davy, my pretty boy!
+My poor [[Child|child]]!’ Then she kissed me more and more, and clasped me round
+the neck. This she was doing when Peggotty came running in, and bounced
+down on the ground beside us, and went mad about us both for a quarter
+of an hour.
 
 It seemed that I had not been expected so soon, the carrier being much
 before his usual [[Time|time]]. It seemed, too, that Mr. and Miss Murdstone had
@@ -134,8 +140,3 @@ darning, or where such an unfailing supply of stockings in want of
 darning can have come from. From my earliest infancy she seems to have
 been always employed in that class of needlework, and never by any
 chance in any other.
-
-‘I [[Wonder|wonder]],’ said Peggotty, who was sometimes seized with a fit of
-wondering on some most unexpected topic, ‘what’s become of Davy’s
-great-aunt?’ ‘Lor, Peggotty!’ observed my mother, rousing herself from a
-reverie, ‘what nonsense you talk!’

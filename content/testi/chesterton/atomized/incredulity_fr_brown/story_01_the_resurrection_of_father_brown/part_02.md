@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The [[Resurrection]] of [[Father Brown]] (part 2)"
+title: "incredulity Fr Brown — The Resurrection of Father Brown (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -83,7 +83,7 @@ Middle West. He took snapshots of the unfortunate cleric in the most
 commonplace occupations, and exhibited them in gigantic photographs in
 the gigantic [[Sunday]] papers of the United States. He turned his sayings
 into slogans, and was continually presenting the world with 'A message'
-from the reverend gentleman in South [[america|America]]. Any stock less strong and
+from the reverend gentleman in South [[America]]. Any stock less strong and
 strenuously receptive than the American race would have become very much
 bored with [[Father Brown]]. As it was, he received handsome and eager
 offers to go on a lecturing tour in the States; and when he declined,

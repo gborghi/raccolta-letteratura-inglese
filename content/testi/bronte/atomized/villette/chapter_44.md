@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 42"
+title: "Villette — Chapter 42"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/villette-(bronte)"
@@ -56,7 +56,7 @@ pensionnat; that also prospered.
 
 The secret of my [[success]] did not lie so much in myself, in any
 endowment, any power of mine, as in a new state of circumstances, a
-wonderfully changed life, a relieved heart. The [[spring]] which moved my
+wonderfully changed life, a relieved heart. The [[Spring|spring]] which moved my
 energies lay far away beyond seas, in an Indian isle. At parting, I had
 been left a legacy; such a thought for the present, such a [[Hope|hope]] for the
 future, such a motive for a persevering, a laborious, an enterprising,

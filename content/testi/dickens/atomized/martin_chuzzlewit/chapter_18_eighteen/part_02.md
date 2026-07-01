@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 18: EIGHTEEN (part 2)"
+title: "Martin Chuzzlewit — Chapter 18: EIGHTEEN (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_18_eighteen/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_18_eighteen/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘That’s a good sign!’ cried Chuffey. ‘Ha! ha! The best sign in the
+world! You saw too [[Well|well]] before.’
+
+He patted Anthony upon the hand as one might comfort a [[Child|child]], and
+drawing the old man’s arm still further through his own, shook his
+trembling fingers towards the spot where Jonas sat, as though he would
+wave him off. But, Anthony remaining quite still and silent, he relaxed
+his hold by slow degrees and lapsed into his usual niche in the corner;
+merely putting forth his hand at intervals and touching his old employer
+gently on the coat, as with the design of assuring himself that he was
+yet beside him.
 
 Mr Jonas was so very much amazed by these proceedings that he could do
 nothing but stare at the two old men, until Chuffey had fallen into his
@@ -121,19 +133,3 @@ my dear sir--?’
 old man.
 
 ‘I was,’ said Mr Pecksniff, mildly.
-
-‘Oh! YOU were? What was it?’
-
-‘That I never,’ said Mr Pecksniff, previously rising to see that the
-door was shut, and arranging his chair when he came back, so that it
-could not be opened in the least without his immediately becoming aware
-of the circumstance; ‘that I never in my life was so astonished as by
-the receipt of your letter yesterday. That you should do me the [[Honour|honour]]
-to wish to take counsel with me on any matter, amazed me; but that you
-should [[Desire|desire]] to do so, to the exclusion even of Mr Jonas, showed an
-amount of confidence in one to whom you had done a verbal injury--merely
-a verbal injury, you were anxious to repair--which gratified, which
-moved, which overcame me.’
-
-He was always a glib speaker, but he delivered this short address very
-glibly; having been at some pains to compose it outside the coach.

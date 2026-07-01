@@ -1,5 +1,5 @@
 ---
-title: "[[ApprAndCritOfChDickens]] — Chapter 1: PAGE (part 1)"
+title: "ApprAndCritOfChDickens — Chapter 1: PAGE (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/apprandcritofchdickens-(chesterton)"
@@ -10,13 +10,11 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_03_celebrated_characters_who_are">‹ Chapter 03 celebrated characters who are</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are">‹ Chapter 02 celebrated characters who are</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_02">part 02 ›</a></div>
 </nav>
 
 
   CHAPTER                             PAGE
-
-
 
      I. INTRODUCTION                   vii
 
@@ -66,29 +64,13 @@ tags:
 
    XXIV. REPRINTED PIECES              239
 
-
-
-
-
-
-
-
-
 ILLUSTRATIONS
 
-
-
-
-
                                                                     PAGE
-
-
 
   CHARLES DICKENS, CIRCA 1840                             _Frontispiece_
 
     From an oil painting by R. J. Lane.
-
-
 
   CHARLES DICKENS, 1842                                               76
 
@@ -96,55 +78,31 @@ ILLUSTRATIONS
 
     first visit to [[america|America]].
 
-
-
   CHARLES DICKENS, 1844                                               90
 
     From a miniature by Margaret Gillies.
-
-
 
   CHARLES DICKENS, 1849                                              130
 
     From a daguerreotype by Mayall.
 
-
-
   CHARLES DICKENS, 1858                                              184
 
     From a black and white drawing by Baughiet.
-
-
 
   CHARLES DICKENS, 1859                                              188
 
     From an oil painting by W. P. Frith, R.A.
 
-
-
   CHARLES DICKENS, CIRCA 1860                                        198
 
     Photograph by J. & C. Watkins.
-
-
 
   CHARLES DICKENS, 1868                                              218
 
     From a photograph by Gurney.
 
-
-
-
-
-
-
-
-
 INTRODUCTION
-
-
-
-
 
 These papers were originally published as prefaces to the separate books
 
@@ -168,8 +126,6 @@ say it. I will make another attempt to do so in this prologue, and,
 
 possibly fail again.
 
-
-
 There was a painful moment (somewhere about the eighties) when we
 
 watched anxiously to see whether Dickens was fading from the modern
@@ -192,13 +148,9 @@ of the poetic. Again and again when the man of visions was pinned by the
 
 sly dog who knows the world,
 
-
-
     "The man recovered of the bite,
 
     The dog it was that died."
-
-
 
 To call Thackeray a cynic, which means a sly dog, was indeed absurd; but
 
@@ -250,8 +202,6 @@ gentleman. A gentleman in our [[Time|time]] has become something quite
 
 indescribable.
 
-
-
 Now the interesting fact is this: That Dickens, whom so many considered
 
 to be at the best a vulgar enthusiast, saw the coming change in our
@@ -261,9 +211,3 @@ society much more soberly and scientifically than did his better
 educated and more pretentious contemporaries. I give but one example out
 
 of many. Thackeray was a good Victorian radical, who seems to have gone
-
-to his [[Grave|grave]] quite contented with the early Victorian radical
-
-theory--the theory which Macaulay preached with unparalleled luminosity
-
-and completeness; the theory that true progress goes on so steadily

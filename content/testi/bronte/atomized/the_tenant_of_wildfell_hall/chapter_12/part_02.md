@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 12 (part 2)"
+title: "The Tenant of Wildfell Hall — Chapter 12 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_12/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_12/part_03">part 03 ›</a></div>
 </nav>
 
+
+with what the vicar would doubtless have called a savage sort of smile
+
+that she said this.
+
+
+
+“Let them turn it as they will,” said I. “What are their thoughts to
+
+you or me, so long as we are satisfied with ourselves—and each other.
+
+Let them go to the deuce with their vile constructions and their lying
 
 inventions!”
 
@@ -261,19 +273,3 @@ To tell you all the questionings and conjectures—the fears, and hopes,
 and wild emotions that jostled and chased each other through my mind as
 
 I descended the [[Hill|hill]], would almost fill a volume in itself. But before
-
-I was half-way down, a sentiment of strong sympathy for her I had left
-
-behind me had displaced all other feelings, and seemed imperatively to
-
-draw me back: I began to think, “Why am I hurrying so fast in this
-
-direction? Can I find comfort or consolation—peace, certainty,
-
-contentment, all—or anything that I want at [[Home|home]]? and can I leave all
-
-perturbation, sorrow, and anxiety behind me there?”
-
-
-
-And I turned round to look at the old Hall. There was little besides

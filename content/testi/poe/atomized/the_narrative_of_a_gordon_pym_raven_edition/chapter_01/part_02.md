@@ -14,6 +14,12 @@ tags:
 </nav>
 
 
+      suddenly increased, as we were fast getting out of the lee of the
+
+      land—still I was ashamed to betray any trepidation, and for
+
+      almost half an hour maintained a resolute [[Silence|silence]]. I could stand
+
       it no longer, however, and spoke to Augustus about the propriety
 
       of turning back. As before, it was nearly a minute before he made
@@ -179,19 +185,3 @@ tags:
       I found myself, upon reviving, in the cabin of a large
 
       whaling-[[Ship|ship]] (the Penguin) bound to Nantucket. Several persons
-
-      were standing over me, and Augustus, paler than [[Death|death]], was busily
-
-      occupied in chafing my hands. Upon seeing me open my eyes, his
-
-      exclamations of gratitude and joy excited alternate laughter and
-
-      [[Tears|tears]] from the rough-looking personages who were present. The
-
-      mystery of our being in existence was now soon explained. We had
-
-      been run down by the whaling-[[Ship|ship]], which was close-hauled,
-
-      beating up to Nantucket with every sail she could venture to set,
-
-      and consequently running almost at right angles to our own

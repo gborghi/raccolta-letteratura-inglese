@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 20: TWENTY (part 5)"
+title: "Martin Chuzzlewit — Chapter 20: TWENTY (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -10,9 +10,35 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/martin-chuzzlewit-(dickens)">Martin Chuzzlewit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_20_twenty/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_21_twenty_one/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_20_twenty/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_20_twenty/part_06">part 06 ›</a></div>
 </nav>
 
+
+‘There’s no accounting for tastes,’ said Merry; ‘at least I didn’t mean
+to say that. I don’t know what I mean. Let me go to her.’
+
+‘Say “Yes,” and then I will.’
+
+‘If I ever brought myself to say so, it should only be that I might hate
+and tease you all my life.’
+
+‘That’s as good,’ cried Jonas, ‘as saying it right out. It’s a bargain,
+cousin. We’re a pair, if ever there was one.’
+
+This gallant speech was succeeded by a confused noise of kissing and
+slapping; and then the fair but much dishevelled Merry broke away, and
+followed in the footsteps of her sister.
+
+Now whether Mr Pecksniff had been listening--which in one of his
+character appears impossible; or divined almost by inspiration what the
+matter was--which, in a man of his sagacity is far more probable; or
+happened by sheer good fortune to find himself in exactly the
+right place, at precisely the right [[Time|time]]--which, under the special
+guardianship in which he lived might very reasonably happen; it is quite
+certain that at the moment when the sisters came together in their own
+room, he appeared at the chamber door. And a marvellous contrast it
+was--they so heated, noisy, and vehement; he so calm, so [[Self|self]]-possessed,
+so cool and full of peace, that not a hair upon his head was stirred.
 
 ‘Children!’ said Mr Pecksniff, spreading out his hands in [[Wonder|wonder]], but
 not before he had shut the door, and set his back against it. ‘Girls!
@@ -113,50 +139,3 @@ said I had that [[Honour|honour]], and I took the liberty, sir,’ added Tom, ra
 his eyes to his benefactor’s face, ‘of saying, as I always will and
 must, with your permission, that I was under great obligations to you,
 and never could express my sense of them sufficiently.’
-
-‘That,’ said Mr Pecksniff, ‘was very, very wrong. Take your [[Time|time]], Mr
-Pinch.’
-
-‘Thank you, sir,’ cried Tom. ‘On that they asked me--she asked, I
-mean--“Wasn’t there a bridle [[Road|road]] to Mr Pecksniff’s [[house]]?”’
-
-Mr Pecksniff suddenly became full of interest.
-
-‘“Without going by the Dragon?” When I said there was, and said how
-happy I should be to show it ‘em, they sent the carriage on by the [[Road|road]],
-and came with me across the meadows. I left ‘em at the turnstile to run
-forward and tell you they were coming, and they’ll be here, sir, in--in
-less than a minute’s [[Time|time]], I should say,’ added Tom, fetching his breath
-with difficulty.
-
-‘Now, who,’ said Mr Pecksniff, pondering, ‘who may these people be?’
-
-‘Bless my [[Soul|soul]], sir!’ cried Tom, ‘I meant to mention that at first, I
-thought I had. I knew them--her, I mean--directly. The gentleman who
-was ill at the Dragon, sir, last [[Winter|winter]]; and the young lady who attended
-him.’
-
-Tom’s teeth chattered in his head, and he positively staggered with
-amazement, at witnessing the extraordinary effect produced on Mr
-Pecksniff by these simple words. The dread of losing the old man’s
-favour almost as soon as they were reconciled, through the mere fact
-of having Jonas in the [[house]]; the impossibility of dismissing Jonas,
-or shutting him up, or tying him hand and foot and putting him in
-the coal-cellar, without offending him beyond recall; the horrible
-discordance prevailing in the establishment, and the impossibility of
-reducing it to decent harmony with [[Charity]] in loud hysterics, [[Mercy]] in
-the utmost disorder, Jonas in the parlour, and [[Martin Chuzzlewit]] and his
-young charge upon the very doorsteps; the total hopelessness of being
-able to disguise or feasibly explain this state of rampant confusion;
-the sudden accumulation over his devoted head of every complicated
-perplexity and entanglement for his extrication from which he had
-trusted to [[Time|time]], good fortune, chance, and his own plotting, so filled
-the entrapped architect with dismay, that if Tom could have been a
-Gorgon staring at Mr Pecksniff, and Mr Pecksniff could have been a
-Gorgon staring at Tom, they could not have horrified each other half so
-much as in their own bewildered persons.
-
-‘Dear, dear!’ cried Tom, ‘what have I done? I hoped it would be a
-pleasant surprise, sir. I thought you would like to know.’
-
-But at that moment a loud knocking was heard at the hall door.

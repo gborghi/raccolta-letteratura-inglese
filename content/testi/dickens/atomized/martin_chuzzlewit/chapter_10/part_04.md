@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 10 (part 4)"
+title: "Martin Chuzzlewit — Chapter 10 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_10/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_10/part_05">part 05 ›</a></div>
 </nav>
 
+
+Where was the [[Orphan|orphan]] whom the two Miss Pecksniffs would not have
+cherished in their sisterly bosom! But when that [[Orphan|orphan]] was commended to
+their care by one on whom the dammed-up [[Love|love]] of years was gushing forth,
+what exhaustless stores of pure affection yearned to expend themselves
+upon her!
+
+An interval ensued, during which Mr Chuzzlewit, in an absent frame of
+mind, sat gazing at the ground, without uttering a word; and as it was
+plain that he had no [[Desire|desire]] to be interrupted in his meditations, Mr
+Pecksniff and his daughters were profoundly silent also. During the
+whole of the foregoing dialogue, he had borne his part with a cold,
+passionless promptitude, as though he had learned and painfully
+rehearsed it all a hundred times. Even when his expressions were warmest
+and his language most encouraging, he had retained the same manner,
+without the least abatement. But now there was a keener brightness in
+his eye, and more expression in his voice, as he said, awakening from
+his thoughtful mood:
 
 ‘You know what will be said of this? Have you reflected?’
 
@@ -109,37 +127,3 @@ correct. I am naturally,’ said Mr Pecksniff, drying his hands upon his
 handkerchief, and looking anxiously in his cousin’s face at almost every
 word, ‘proud, if I may use the expression, to have a daughter who is
 constructed on the best models.’
-
-‘She seems to have a lively disposition,’ observed Martin.
-
-‘Dear me!’ said Mr Pecksniff. ‘That is quite remarkable. You have
-defined her character, my dear sir, as correctly as if you had known her
-from her birth. She HAS a lively disposition. I assure you, my dear sir,
-that in our unpretending [[Home|home]] her gaiety is delightful.’
-
-‘No [[Doubt|doubt]],’ returned the old man.
-
-‘[[Charity]], upon the other hand,’ said Mr Pecksniff, ‘is remarkable for
-strong sense, and for rather a deep tone of sentiment, if the partiality
-of a father may be excused in saying so. A wonderful affection between
-them, my dear sir! Allow me to drink your health. Bless you!’
-
-‘I little thought,’ retorted Martin, ‘but a month ago, that I should be
-breaking bread and pouring wine with you. I drink to you.’
-
-Not at all abashed by the extraordinary abruptness with which these
-latter words were spoken, Mr Pecksniff thanked him devoutly.
-
-‘Now let me go,’ said Martin, putting down the wine when he had merely
-touched it with his lips. ‘My dears, good morning!’
-
-But this distant form of farewell was by no means tender enough for the
-yearnings of the young ladies, who again embraced him with all their
-hearts--with all their arms at any rate--to which parting caresses their
-new-found friend submitted with a better grace than might have been
-expected from one who, not a moment before, had pledged their parent in
-such a very uncomfortable manner. These endearments terminated, he took
-a hasty leave of Mr Pecksniff and withdrew, followed to the door by both
-father and daughters, who stood there kissing their hands and beaming
-with affection until he disappeared; though, by the way, he never once
-looked back, after he had crossed the threshold.

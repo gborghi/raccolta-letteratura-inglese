@@ -1,5 +1,5 @@
 ---
-title: "[[The Unparalleled Adventures of one Hans Pfaall]] (part 18)"
+title: "The Unparalleled Adventures of one Hans Pfaall (part 18)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-unparalleled-adventures-of-one-hans-pfaall-(poe)"
@@ -13,6 +13,86 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/part/part_17">‹ part 17</a><a class="ex-next" href="/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/part/part_19">part 19 ›</a></div>
 </nav>
 
+
+      diameter! I was thunderstruck! No words can give any adequate
+
+      idea of the extreme, the absolute horror and astonishment, with
+
+      which I was seized possessed, and altogether overwhelmed. My
+
+      knees tottered beneath me—my teeth chattered—my hair started up
+
+      on end. ‘The balloon, then, had actually burst!’ These were the
+
+      first tumultuous ideas that hurried through my mind: ‘The balloon
+
+      had positively burst!—I was falling—falling with the most
+
+      impetuous, the most unparalleled velocity! To judge by the
+
+      immense distance already so quickly passed over, it could not be
+
+      more than ten minutes, at the farthest, before I should meet the
+
+      surface of the earth, and be hurled into annihilation!’ But at
+
+      length reflection came to my relief. I paused; I considered; and
+
+      I began to [[Doubt|doubt]]. The matter was impossible. I could not in any
+
+      reason have so rapidly come down. Besides, although I was
+
+      evidently approaching the surface below me, it was with a [[Speed|speed]]
+
+      by no means commensurate with the velocity I had at first so
+
+      horribly conceived. This consideration served to calm the
+
+      perturbation of my mind, and I finally succeeded in regarding the
+
+      phenomenon in its proper point of view. In fact, amazement must
+
+      have fairly deprived me of my senses, when I could not see the
+
+      vast difference, in appearance, between the surface below me, and
+
+      the surface of my mother earth. The latter was indeed over my
+
+      head, and completely hidden by the balloon, while the [[Moon|moon]]—the
+
+      [[Moon|moon]] itself in all its glory—lay beneath me, and at my feet.
+
+
+
+      “The stupor and surprise produced in my mind by this
+
+      extraordinary change in the posture of affairs was perhaps, after
+
+      all, that part of the adventure least susceptible of explanation.
+
+      For the bouleversement in itself was not only natural and
+
+      inevitable, but had been long actually anticipated as a
+
+      circumstance to be expected whenever I should arrive at that
+
+      exact point of my voyage where the attraction of the planet
+
+      should be superseded by the attraction of the satellite—or, more
+
+      precisely, where the gravitation of the balloon toward the earth
+
+      should be less powerful than its gravitation toward the [[Moon|moon]]. To
+
+      be sure I arose from a sound slumber, with all my senses in
+
+      confusion, to the contemplation of a very startling phenomenon,
+
+      and one which, although expected, was not expected at the moment.
+
+      The revolution itself must, of course, have taken place in an
+
+      easy and gradual manner, and it is by no means clear that, had I
 
       even been awake at the [[Time|time]] of the occurrence, I should have been
 
@@ -109,93 +189,3 @@ tags:
       appeared tapering in a very sharp faint prolongation, each
 
       exhibiting its farthest extremity faintly illuminated by the
-
-      solar rays, before any part of the dark hemisphere was visible.
-
-      Soon afterward, the whole dark limb became illuminated. This
-
-      prolongation of the cusps beyond the semicircle, I thought, must
-
-      have arisen from the refraction of the sun’s rays by the [[Moon|moon]]’s
-
-      atmosphere. I computed, also, the height of the atmosphere (which
-
-      could refract light enough into its dark hemisphere to produce a
-
-      twilight more luminous than the light reflected from the earth
-
-      when the [[Moon|moon]] is about 32° from the new) to be 1,356 [[Paris]] feet;
-
-      in this view, I supposed the greatest height capable of
-
-      refracting the solar ray, to be 5,376 feet. My ideas on this
-
-      topic had also received confirmation by a passage in the
-
-      eighty-second volume of the Philosophical Transactions, in which
-
-      it is stated that at an occultation of Jupiter’s satellites, the
-
-      third disappeared after having been about 1″ or 2″ of [[Time|time]]
-
-      indistinct, and the fourth became indiscernible near the
-
-      limb.(*4)
-
-
-
-      “Upon the resistance or, more properly, upon the support of an
-
-      atmosphere, existing in the state of density imagined, I had, of
-
-      course, entirely depended for the safety of my ultimate descent.
-
-      Should I then, after all, prove to have been mistaken, I had in
-
-      consequence nothing better to expect, as a finale to my
-
-      adventure, than being dashed into atoms against the rugged
-
-      surface of the satellite. And, indeed, I had now every reason to
-
-      be terrified. My distance from the [[Moon|moon]] was comparatively
-
-      trifling, while the labor required by the condenser was
-
-      diminished not at all, and I could discover no indication
-
-      whatever of a decreasing rarity in the air.
-
-
-
-      “April 19th. This morning, to my great joy, about nine o’[[Clock|clock]],
-
-      the surface of the [[Moon|moon]] being frightfully near, and my
-
-      apprehensions excited to the utmost, the pump of my condenser at
-
-      length gave evident tokens of an alteration in the atmosphere. By
-
-      ten, I had reason to believe its density considerably increased.
-
-      By eleven, very little labor was necessary at the apparatus; and
-
-      at twelve o’[[Clock|clock]], with some hesitation, I ventured to unscrew
-
-      the tourniquet, when, finding no inconvenience from having done
-
-      so, I finally threw open the gum-elastic chamber, and unrigged it
-
-      from around the car. As might have been expected, spasms and
-
-      violent headache were the immediate consequences of an experiment
-
-      so precipitate and full of danger. But these and other
-
-      difficulties attending respiration, as they were by no means so
-
-      great as to put me in peril of my life, I determined to endure as
-
-      I best could, in consideration of my leaving them behind me
-
-      momently in my approach to the denser strata near the [[Moon|moon]]. This

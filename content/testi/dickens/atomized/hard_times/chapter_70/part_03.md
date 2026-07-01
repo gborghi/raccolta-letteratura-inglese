@@ -1,5 +1,5 @@
 ---
-title: "Hard Times — Chapter 2 (part 3)"
+title: "Hard Times — Chapter 5 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/hard-times-(dickens)"
@@ -14,136 +14,104 @@ tags:
 </nav>
 
 
-Sissy’s face sufficiently showed that her appeal to him was not finished.
+She was so very earnest and injured, that Mr. Gradgrind, shocked by the
+possibility which dawned upon him, said in a gentler tone:
 
-‘You spoke,’ he resumed, as she raised her eyes to him again, ‘of your
-first object.  I may assume that there is a second to be mentioned?’
+‘Do you deny, then, madam, that you left your son to—to be brought up in
+the gutter?’
 
-‘Yes.’
+‘Josiah in the gutter!’ exclaimed Mrs. Pegler.  ‘No such a thing, sir.
+Never!  For shame on you!  My dear boy knows, and will give _you_ to
+know, that though he come of humble parents, he come of parents that
+loved him as dear as the best could, and never thought it hardship on
+themselves to pinch a bit that he might write and cipher beautiful, and
+I’ve his books at [[Home|home]] to show it!  Aye, have I!’ said Mrs. Pegler, with
+indignant [[Pride|pride]].  ‘And my dear boy knows, and will give _you_ to know,
+sir, that after his beloved father died, when he was eight years old, his
+mother, too, could pinch a bit, as it was her duty and her pleasure and
+her [[Pride|pride]] to do it, to help him out in life, and put him ’prentice.  And
+a steady lad he was, and a kind master he had to lend him a hand, and
+[[Well|well]] he worked his own way forward to be rich and thriving.  And _I_’ll
+give you to know, sir—for this my dear boy won’t—that though his mother
+kept but a little village shop, he never forgot her, but pensioned me on
+thirty pound a year—more than I want, for I put by out of it—only making
+the condition that I was to keep down in my own part, and make no boasts
+about him, and not trouble him.  And I never have, except with looking at
+him once a year, when he has never knowed it.  And it’s right,’ said poor
+old Mrs. Pegler, in affectionate championship, ‘that I _should_ keep down
+in my own part, and I have no doubts that if I was here I should do a
+many unbefitting things, and I am [[Well|well]] contented, and I can keep my [[Pride|pride]]
+in my Josiah to myself, and I can [[Love|love]] for [[Love|love]]’s own sake!  And I am
+ashamed of you, sir,’ said Mrs. Pegler, lastly, ‘for your slanders and
+suspicions.  And I never stood here before, nor never wanted to stand
+here when my dear son said no.  And I shouldn’t be here now, if it hadn’t
+been for being brought here.  And for shame upon you, Oh, for shame, to
+accuse me of being a bad mother to my son, with my son standing here to
+tell you so different!’
 
-‘Will you oblige me by confiding it?’
+The bystanders, on and off the dining-room chairs, raised a murmur of
+sympathy with Mrs. Pegler, and Mr. Gradgrind felt himself innocently
+placed in a very distressing predicament, when Mr. Bounderby, who had
+never ceased walking up and down, and had every moment swelled larger and
+larger, and grown redder and redder, stopped short.
 
-‘Mr. Harthouse,’ returned Sissy, with a blending of gentleness and
-steadiness that quite defeated him, and with a simple confidence in his
-being bound to do what she required, that held him at a singular
-disadvantage, ‘the only reparation that remains with you, is to leave
-here immediately and finally.  I am quite sure that you can mitigate in
-no other way the wrong and harm you have done.  I am quite sure that it
-is the only compensation you have left it in your power to make.  I do
-not say that it is much, or that it is enough; but it is something, and
-it is necessary.  Therefore, though without any other authority than I
-have given you, and even without the knowledge of any other person than
-yourself and myself, I ask you to depart from this place to-[[Night|night]], under
-an obligation never to return to it.’
+‘I don’t exactly know,’ said Mr. Bounderby, ‘how I come to be favoured
+with the attendance of the present company, but I don’t inquire.  When
+they’re quite satisfied, perhaps they’ll be so good as to disperse;
+whether they’re satisfied or not, perhaps they’ll be so good as to
+disperse.  I’m not bound to deliver a lecture on my family affairs, I
+have not undertaken to do it, and I’m not a going to do it.  Therefore
+those who expect any explanation whatever upon that branch of the
+subject, will be disappointed—particularly [[Tom Gradgrind]], and he can’t
+know it too soon.  In reference to the Bank robbery, there has been a
+mistake made, concerning my mother.  If there hadn’t been
+over-officiousness it wouldn’t have been made, and I hate
+over-officiousness at all times, whether or no. Good evening!’
 
-If she had asserted any influence over him beyond her plain [[Faith|faith]] in the
-[[Truth|truth]] and right of what she said; if she had concealed the least [[Doubt|doubt]] or
-irresolution, or had harboured for the best purpose any reserve or
-pretence; if she had shown, or felt, the lightest trace of any
-sensitiveness to his ridicule or his astonishment, or any remonstrance he
-might offer; he would have carried it against her at this point.  But he
-could as easily have changed a clear sky by looking at it in surprise, as
-affect her.
+Although Mr. Bounderby carried it off in these terms, holding the door
+open for the company to depart, there was a blustering sheepishness upon
+him, at once extremely crestfallen and superlatively absurd.  Detected as
+the Bully of [[Humility|humility]], who had built his windy reputation upon lies, and
+in his boastfulness had put the honest [[Truth|truth]] as far away from him as if
+he had advanced the mean claim (there is no meaner) to tack himself on to
+a pedigree, he cut a most ridiculous figure.  With the people filing off
+at the door he held, who he knew would carry what had passed to the whole
+town, to be given to the four winds, he could not have looked a Bully
+more shorn and forlorn, if he had had his ears cropped.  Even that
+unlucky female, Mrs. Sparsit, fallen from her pinnacle of exultation into
+the Slough of Despond, was not in so bad a plight as that remarkable man
+and [[Self|self]]-made Humbug, [[Josiah Bounderby]] of Coketown.
 
-‘But do you know,’ he asked, quite at a loss, ‘the extent of what you
-ask?  You probably are not aware that I am here on a public kind of
-business, preposterous enough in itself, but which I have gone in for,
-and sworn by, and am supposed to be devoted to in quite a desperate
-manner?  You probably are not aware of that, but I assure you it’s the
-fact.’
+Rachael and Sissy, leaving Mrs. Pegler to occupy a bed at her son’s for
+that [[Night|night]], walked together to the gate of Stone Lodge and there parted.
+Mr. Gradgrind joined them before they had gone very far, and spoke with
+much interest of [[Stephen Blackpool]]; for whom he thought this signal
+failure of the suspicions against Mrs. Pegler was likely to work [[Well|well]].
 
-It had no effect on Sissy, fact or no fact.
+As to the whelp; throughout this scene as on all other late occasions, he
+had stuck close to Bounderby.  He seemed to feel that as long as
+Bounderby could make no discovery without his knowledge, he was so far
+safe.  He never visited his sister, and had only seen her once since she
+went [[Home|home]]: that is to say on the [[Night|night]] when he still stuck close to
+Bounderby, as already related.
 
-‘Besides which,’ said Mr. Harthouse, taking a turn or two across the
-room, dubiously, ‘it’s so alarmingly absurd.  It would make a man so
-ridiculous, after going in for these fellows, to back out in such an
-incomprehensible way.’
+There was one dim unformed [[Fear|fear]] lingering about his sister’s mind, to
+which she never gave utterance, which surrounded the graceless and
+ungrateful boy with a dreadful mystery.  The same dark possibility had
+presented itself in the same shapeless guise, this very day, to Sissy,
+when Rachael spoke of some one who would be confounded by Stephen’s
+return, having put him out of the way.  Louisa had never spoken of
+harbouring any suspicion of her brother in connexion with the robbery,
+she and Sissy had held no confidence on the subject, save in that one
+interchange of looks when the unconscious father rested his gray head on
+his hand; but it was understood between them, and they both knew it.
+This other [[Fear|fear]] was so awful, that it hovered about each of them like a
+ghostly [[Shadow|shadow]]; neither daring to think of its being near herself, far
+less of its being near the other.
 
-‘I am quite sure,’ repeated Sissy, ‘that it is the only reparation in
-your power, sir.  I am quite sure, or I would not have come here.’
+And still the forced spirit which the whelp had plucked up, throve with
+him.  If [[Stephen Blackpool]] was not the thief, let him show himself.  Why
+didn’t he?
 
-He glanced at her face, and walked about again.  ‘Upon my [[Soul|soul]], I don’t
-know what to say.  So immensely absurd!’
-
-It fell to his lot, now, to stipulate for secrecy.
-
-‘If I were to do such a very ridiculous thing,’ he said, stopping again
-presently, and leaning against the chimney-piece, ‘it could only be in
-the most inviolable confidence.’
-
-‘I will trust to you, sir,’ returned Sissy, ‘and you will trust to me.’
-
-His leaning against the chimney-piece reminded him of the [[Night|night]] with the
-whelp.  It was the [[Self|self]]-same chimney-piece, and somehow he felt as if
-_he_ were the whelp to-[[Night|night]].  He could make no way at all.
-
-‘I suppose a man never was placed in a more ridiculous position,’ he
-said, after looking down, and looking up, and laughing, and frowning, and
-walking off, and walking back again.  ‘But I see no way out of it.  What
-will be, will be.  _This_ will be, I suppose.  I must take off myself, I
-imagine—in short, I engage to do it.’
-
-Sissy [[Rose|rose]].  She was not surprised by the result, but she was happy in
-it, and her face beamed brightly.
-
-‘You will permit me to say,’ continued Mr. [[James Harthouse]], ‘that I [[Doubt|doubt]]
-if any other ambassador, or ambassadress, could have addressed me with
-the same [[success]].  I must not only regard myself as being in a very
-ridiculous position, but as being vanquished at all points.  Will you
-allow me the privilege of remembering my enemy’s name?’
-
-‘_My_ name?’ said the ambassadress.
-
-‘The only name I could possibly care to know, to-[[Night|night]].’
-
-‘[[Sissy Jupe]].’
-
-‘Pardon my curiosity at parting.  Related to the family?’
-
-‘I am only a poor girl,’ returned Sissy.  ‘I was separated from my
-father—he was only a stroller—and taken pity on by Mr. Gradgrind.  I have
-lived in the [[house]] ever since.’
-
-She was gone.
-
-‘It wanted this to complete the defeat,’ said Mr. [[James Harthouse]],
-sinking, with a resigned air, on the sofa, after standing transfixed a
-little while.  ‘The defeat may now be considered perfectly accomplished.
-Only a poor girl—only a stroller—only [[James Harthouse]] made nothing
-of—only [[James Harthouse]] a Great Pyramid of failure.’
-
-The Great Pyramid put it into his head to go up the Nile.  He took a pen
-upon the instant, and wrote the following note (in appropriate
-hieroglyphics) to his brother:
-
-    Dear Jack,—All up at Coketown.  Bored out of the place, and going in
-    for camels.
-
-                                                           Affectionately,
-                                                                      JEM.
-
-He rang the bell.
-
-‘Send my fellow here.’
-
-‘Gone to bed, sir.’
-
-‘Tell him to get up, and pack up.’
-
-He wrote two more notes.  One, to Mr. Bounderby, announcing his
-retirement from that part of the country, and showing where he would be
-found for the next fortnight.  The other, similar in effect, to Mr.
-Gradgrind.  Almost as soon as the ink was dry upon their superscriptions,
-he had left the tall chimneys of Coketown behind, and was in a railway
-carriage, tearing and glaring over the dark landscape.
-
-The moral sort of fellows might suppose that Mr. [[James Harthouse]] derived
-some comfortable reflections afterwards, from this prompt retreat, as one
-of his few actions that made any amends for anything, and as a token to
-himself that he had escaped the climax of a very bad business.  But it
-was not so, at all.  A secret sense of having failed and been
-ridiculous—a dread of what other fellows who went in for similar sorts of
-things, would say at his expense if they knew it—so oppressed him, that
-what was about the very best passage in his life was the one of all
-others he would not have owned to on any account, and the only one that
-made him ashamed of himself.
+Another [[Night|night]].  Another day and [[Night|night]].  No [[Stephen Blackpool]].  Where was
+the man, and why did he not come back?

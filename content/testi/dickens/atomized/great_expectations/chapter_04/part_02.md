@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 4 (part 2)"
+title: "Great Expectations — Chapter 4 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -128,5 +128,3 @@ Joe gave me some more gravy.
 
 “[[Well]], but I mean a four-footed Squeaker,” said Mr. Pumblechook. “If
 you had been born such, would you have been here now? Not you—”
-
-“Unless in that form,” said Mr. Wopsle, nodding towards the dish.

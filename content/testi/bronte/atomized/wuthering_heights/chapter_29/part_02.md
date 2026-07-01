@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 29 (part 2)"
+title: "Wuthering Heights — Chapter 29 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_29/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_30/part_01">part 01 ›</a></div>
 </nav>
 
+
+“You were very wicked, Mr. [[Heathcliff]]!” I exclaimed; “were you not
+ashamed to disturb the dead?”
 
 “I disturbed nobody, Nelly,” he replied; “and I gave some ease to
 myself. I shall be a great deal more comfortable now; and you’ll have a

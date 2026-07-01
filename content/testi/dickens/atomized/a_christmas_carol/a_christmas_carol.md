@@ -1,5 +1,5 @@
 ---
-title: "A Christmas [[carol|Carol]]"
+title: "A Christmas Carol"
 author: "Dickens"
 unitType: work
 parentWork: "works/a-christmas-carol-(dickens)"
@@ -1008,7 +1008,7 @@ twelve; then stopped. Twelve! It was past two when he
 went to bed. The [[Clock|clock]] was wrong. An icicle must have
 got into the works. Twelve!
 
-He touched the [[Spring|spring]] of his repeater, to correct this most
+He touched the [[spring]] of his repeater, to correct this most
 preposterous [[Clock|clock]]. Its rapid little pulse beat twelve:
 and stopped.
 
@@ -1037,7 +1037,7 @@ not to think, the more he thought.
 
 Marley's [[Ghost]] bothered him exceedingly. Every [[Time|time]] he resolved
 within himself, after mature inquiry, that it was all [[A Dream|a dream]], his
-mind flew back again, like a strong [[Spring|spring]] released, to its first
+mind flew back again, like a strong [[spring]] released, to its first
 position, and presented the same problem to be worked all through,
 "Was it [[A Dream|a dream]] or not?"
 
@@ -1739,7 +1739,7 @@ when the master of the [[house]], having his daughter leaning
 fondly on him, sat down with her and her mother at his
 own fireside; and when he thought that such another
 creature, quite as graceful and as full of promise, might
-have called him father, and been a [[Spring|spring]]-[[Time|time]] in the
+have called him father, and been a [[spring]]-[[Time|time]] in the
 haggard [[Winter|winter]] of his life, his sight grew very dim indeed.
 
 "Belle," said the husband, turning to his wife with a
@@ -2858,7 +2858,7 @@ Scrooge followed in the [[Shadow|shadow]] of its dress, which bore him
 up, he thought, and carried him along.
 
 They scarcely seemed to enter the [[City|city]]; for the [[City|city]] rather
-seemed to [[Spring|spring]] up about them, and encompass them of its
+seemed to [[spring]] up about them, and encompass them of its
 own act. But there they were, in the heart of it; on
 'Change, amongst the merchants; who hurried up and down,
 and chinked the money in their pockets, and conversed in

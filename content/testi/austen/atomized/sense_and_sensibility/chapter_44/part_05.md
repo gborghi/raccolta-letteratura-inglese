@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 44 (part 5)"
+title: "Sense and Sensibility — Chapter 44 (part 5)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -13,6 +13,28 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_44/part_04">‹ part 04</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_45/part_01">part 01 ›</a></div>
 </nav>
 
+
+sort of desperate carelessness, I copied my wife’s words, and parted
+
+with the last relics of Marianne. Her three notes,—unluckily they were
+
+all in my pocketbook, or I should have denied their existence, and
+
+hoarded them for ever,—I was forced to put them up, and could not even
+
+kiss them. And the lock of hair—that too I had always carried about me
+
+in the same pocket-book, which was now searched by Madam with the most
+
+ingratiating virulence,—the dear lock,—all, every memento was torn from
+
+me.”
+
+
+
+“You are very wrong, Mr. Willoughby, very blamable,” said Elinor, while
+
+her voice, in spite of herself, betrayed her compassionate emotion;
 
 “you ought not to speak in this way, either of Mrs. Willoughby or my
 

@@ -86,7 +86,7 @@ than that they permit any particular poetic interference with reason.
 says Mr. Yeats, and any one who has been in the atmosphere
 will know what he means. In so far as such things stray
 from reason, they tend rather to ritual than to riot.
-Poetry is in Ireland what [[Humour|humour]] is in [[america|America]]; it is an institution.
+Poetry is in Ireland what [[Humour|humour]] is in [[America]]; it is an institution.
 The Englishman, who is always for good and evil the amateur,
 takes both in a more occasional and even accidental fashion.
 It must always be remembered here that the ancient Irish civilisation

@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 3 (part 1)"
+title: "Martin Chuzzlewit — Chapter 3 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -115,11 +115,3 @@ hours, he gradually became so far better that there were much longer
 intervals than at first between his terms of [[Suffering|suffering]]. By degrees, he
 ceased to suffer at all; though his exhaustion was occasionally so great
 that it suggested hardly less alarm than his actual [[Endurance|endurance]] had done.
-
-It was in one of his intervals of repose, when, looking round with
-great caution, and reaching uneasily out of his nest of pillows, he
-endeavoured, with a strange air of secrecy and distrust, to make use
-of the writing materials which he had ordered to be placed on a table
-beside him, that the young lady and the mistress of the Blue Dragon
-found themselves sitting side by side before the [[Fire|fire]] in the sick
-chamber.

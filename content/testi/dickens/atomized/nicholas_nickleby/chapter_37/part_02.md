@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 37 (part 2)"
+title: "Nicholas Nickleby — Chapter 37 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_37/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_37/part_03">part 03 ›</a></div>
 </nav>
 
+
+Nor was this all. Everything gave back, besides, some reflection of the
+kindly spirit of the brothers. The warehousemen and porters were such
+sturdy, jolly fellows, that it was a treat to see them. Among the
+shipping announcements and steam-packet lists which decorated the
+counting-[[house]] wall, were designs for almshouses, statements of
+charities, and plans for new hospitals. A blunderbuss and two swords
+hung above the chimney-piece, for the terror of evil-doers, but the
+blunderbuss was rusty and shattered, and the swords were broken and
+edgeless. Elsewhere, their open display in such a condition would have
+realised a smile; but, there, it seemed as though even violent and
+offensive weapons partook of the reigning influence, and became emblems
+of [[Mercy|mercy]] and forbearance.
 
 Such thoughts as these occurred to Nicholas very strongly, on the
 morning when he first took possession of the vacant stool, and looked
@@ -109,21 +122,3 @@ I’m satisfied. The business will go on, when I’m dead, as [[Well|well]] as i
 when I was alive--just the same--and I shall have the satisfaction of
 knowing that there never were such books--never were such books! No, nor
 never will be such books--as the books of [[Cheeryble Brothers]].’
-
-Having thus expressed his sentiments, Mr. Linkinwater gave vent to
-a short laugh, indicative of defiance to the cities of [[London]] and
-Westminster, and, turning again to his desk, quietly carried seventy-six
-from the last column he had added up, and went on with his work.
-
-‘Tim Linkinwater, sir,’ said brother Charles; ‘give me your hand, sir.
-This is your birthday. How dare you talk about anything else till you
-have been wished many happy returns of the day, Tim Linkinwater? God
-bless you, Tim! God bless you!’
-
-‘My dear brother,’ said the other, seizing Tim’s disengaged fist, ‘Tim
-Linkinwater looks ten years younger than he did on his last birthday.’
-
-‘Brother Ned, my dear boy,’ returned the other old fellow, ‘I believe
-that Tim Linkinwater was born a hundred and fifty years old, and
-is gradually coming down to five-and-twenty; for he’s younger every
-birthday than he was the year before.’

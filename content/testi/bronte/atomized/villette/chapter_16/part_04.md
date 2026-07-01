@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 16 (part 4)"
+title: "Villette — Chapter 16 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -14,6 +14,37 @@ tags:
 </nav>
 
 
+“Dressed!” she exclaimed, smiling with that smile I so [[Well|well]] knew—a
+pleasant smile, though not soft. “You are quite better then? Quite
+strong—eh?”
+
+She spoke to me so much as of old she used to speak that I almost
+fancied she was beginning to know me. There was the same sort of
+patronage in her voice and manner that, as a girl, I had always
+experienced from her—a patronage I yielded to and even liked; it was
+not founded on conventional grounds of superior wealth or station (in
+the last particular there had never been any inequality; her degree was
+mine); but on natural reasons of physical advantage: it was the shelter
+the tree gives the herb. I put a request without further ceremony.
+
+“Do let me go down-stairs, madam; I am so cold and dull here.”
+
+“I [[Desire|desire]] nothing better, if you are strong enough to bear the change,”
+was her reply. “Come then; here is an arm.” And she offered me hers: I
+took it, and we descended one flight of carpeted steps to a landing
+where a tall door, standing open, gave admission into the blue-damask
+room. How pleasant it was in its air of perfect domestic comfort! How
+warm in its amber lamp-light and vermilion [[Fire|fire]]-flush! To render the
+picture perfect, tea stood ready on the table—an English tea, whereof
+the whole shining service glanced at me familiarly; from the solid
+silver urn, of antique pattern, and the massive pot of the same metal,
+to the thin porcelain cups, dark with purple and gilding. I knew the
+very seed-cake of peculiar form, baked in a peculiar mould, which
+always had a place on the tea-table at Bretton. Graham liked it, and
+there it was as of yore—set before Graham’s plate with the silver knife
+and fork beside it. Graham was then expected to tea: Graham was now,
+perhaps, in the [[house]]; ere many minutes I might see him.
+
 “Sit down—sit down,” said my conductress, as my step faltered a little
 in passing to the hearth. She seated me on the sofa, but I soon passed
 behind it, saying the [[Fire|fire]] was too hot; in its shade I found another
@@ -24,7 +55,7 @@ liked to watch every action of my godmother; all her movements were so
 young: she must have been now above fifty, yet neither her sinews nor
 her spirit seemed yet touched by the rust of age. Though portly, she
 was alert, and though serene, she was at times impetuous—good health
-and an excellent temperament kept her green as in her [[spring]].
+and an excellent temperament kept her green as in her [[Spring|spring]].
 
 While she read, I perceived she listened—listened for her son. She was
 not the woman ever to confess herself uneasy, but there was yet no lull
@@ -98,29 +129,3 @@ the accent of former days. Certain turns of phrase, peculiar to him of
 old, were peculiar to him still; and so was many a trick of eye and
 lip, many a smile, many a sudden ray levelled from the irid, under his
 [[Well|well]]-charactered brow.
-
-To _say_ anything on the subject, to _hint_ at my discovery, had not
-suited my habits of thought, or assimilated with my system of feeling.
-On the contrary, I had preferred to keep the matter to myself. I liked
-entering his presence covered with a cloud he had not seen through,
-while he stood before me under a ray of special illumination which
-shone all partial over his head, trembled about his feet, and cast
-light no farther.
-
-[[Well]] I knew that to him it could make little difference, were I to come
-forward and announce, “This is [[Lucy Snowe]]!” So I kept back in my
-teacher’s place; and as he never asked my name, so I never gave it. He
-heard me called “Miss,” and “Miss Lucy;” he never heard the surname,
-“Snowe.” As to spontaneous recognition—though I, perhaps, was still
-less changed than he—the idea never approached his mind, and why should
-I suggest it?
-
-During tea, Dr. John was kind, as it was his [[Nature|nature]] to be; that meal
-over, and the tray carried out, he made a cosy arrangement of the
-cushions in a corner of the sofa, and obliged me to settle amongst
-them. He and his mother also drew to the [[Fire|fire]], and ere we had sat ten
-minutes, I caught the eye of the latter fastened steadily upon me.
-Women are certainly quicker in some things than men.
-
-“[[Well]],” she exclaimed, presently, “I have seldom seen a stronger
-likeness! Graham, have you observed it?”

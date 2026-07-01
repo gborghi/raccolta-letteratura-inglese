@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 18 (part 3)"
+title: "Oliver Twist — Chapter 18 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_18/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_19/part_01">part 01 ›</a></div>
 </nav>
 
+
+Master Bates backed this advice with sundry moral admonitions of his
+own: which, being exhausted, he and his friend Mr. Dawkins launched
+into a glowing description of the numerous pleasures incidental to the
+life they led, interspersed with a variety of hints to [[Oliver]] that the
+best thing he could do, would be to secure [[Fagin]]’s favour without more
+delay, by the means which they themselves had employed to gain it.
 
 “And always put this in your pipe, Nolly,” said the Dodger, as the Jew
 was heard unlocking the door above, “if you don’t take fogels and

@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 4: I FALL INTO DISGRACE (part 3)"
+title: "David Copperfield — Chapter 4: I FALL INTO DISGRACE (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_04_i_fall_into_disgrace/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_04_i_fall_into_disgrace/part_04">part 04 ›</a></div>
 </nav>
 
+
+My mother did not suffer her authority to pass from her without a [[Shadow|shadow]]
+of protest. One [[Night|night]] when Miss Murdstone had been developing certain
+household plans to her brother, of which he signified his approbation,
+my mother suddenly began to cry, and said she thought she might have
+been consulted.
+
+‘Clara!’ said Mr. Murdstone sternly. ‘Clara! I [[Wonder|wonder]] at you.’
 
 ‘Oh, it’s very [[Well|well]] to say you [[Wonder|wonder]], Edward!’ cried my mother, ‘and
 it’s very [[Well|well]] for you to talk about firmness, but you wouldn’t like it
@@ -125,26 +133,3 @@ Miss Murdstone’s opinion was; and I never saw Miss Murdstone, when out
 of temper (she was infirm that way), move her hand towards her bag as
 if she were going to take out the keys and offer to resign them to my
 mother, without seeing that my mother was in a terrible fright.
-
-The gloomy taint that was in the Murdstone [[Blood|blood]], darkened the Murdstone
-religion, which was austere and wrathful. I have thought, since,
-that its assuming that character was a necessary consequence of Mr.
-Murdstone’s firmness, which wouldn’t allow him to let anybody off from
-the utmost weight of the severest penalties he could find any excuse
-for. Be this as it may, I [[Well|well]] remember the tremendous visages with
-which we used to go to church, and the changed air of the place. Again,
-the dreaded [[Sunday]] comes round, and I file into the old pew first, like
-a guarded captive brought to a condemned service. Again, Miss Murdstone,
-in a black velvet gown, that looks as if it had been made out of a pall,
-follows close upon me; then my mother; then her husband. There is no
-Peggotty now, as in the old [[Time|time]]. Again, I listen to Miss Murdstone
-mumbling the responses, and emphasizing all the dread words with a cruel
-relish. Again, I see her dark eyes roll round the church when she says
-‘miserable sinners’, as if she were calling all the congregation names.
-Again, I catch rare glimpses of my mother, moving her lips timidly
-between the two, with one of them muttering at each ear like low
-thunder. Again, I [[Wonder|wonder]] with a sudden [[Fear|fear]] whether it is likely that
-our good old clergyman can be wrong, and Mr. and Miss Murdstone right,
-and that all the angels in Heaven can be destroying angels. Again, if I
-move a finger or relax a muscle of my face, Miss Murdstone pokes me with
-her [[prayer]]-book, and makes my side ache.

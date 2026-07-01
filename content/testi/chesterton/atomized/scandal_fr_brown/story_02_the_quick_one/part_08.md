@@ -14,6 +14,39 @@ tags:
 </nav>
 
 
+'I don't know,' said the priest blankly. 'I don't know for certain even
+about the manager. I don't know anything about the barman. I fancy the
+manager might be a bit of a conspirator, even if he wasn't a murderer.
+But I do know there's one solitary witness on earth who may have seem
+something; and that's why I set all your police [[dogs]] on his trail to the
+ends of the earth.'
+
+The mysterious Scotchman, when he finally appeared before the company
+thus assembled, was certainly a formidable figure; tall, with a hulking
+stride and a long sardonic hatchet face, with tufts of red hair; and
+wearing not only an Inverness cape but a Glengarry bonnet, he might [[Well|well]]
+be excused for a somewhat acrid attitude; but anybody could see he was
+of the sort to resist arrest, even with violence. It was not surprising
+that he had come to blows with a fighting fellow like Raggley. It was
+not even surprising that the police had been convinced, by the mere
+details of capture, that he was a tough and a, typical killer. But he
+claimed to be a perfectly respectable farmer, in Aberdeenshire, his name
+being James Grant; and somehow not only [[Father Brown]], but Inspector
+Greenwood, a shrewd man with a great deal of experience, was pretty soon
+convinced that the Scot's ferocity was the fury of [[innocence]] rather than
+[[Guilt|guilt]].
+
+'Now what we want from you, Mr Grant,' said the Inspector gravely,
+dropping without further parley into tones of courtesy, 'is simply your
+evidence on one very important fact. I am greatly grieved at the
+misunderstanding by which you have suffered, but I am sure you wish to
+serve the ends of justice. I believe you came into this bar just after
+it opened, at half - past five, and were served with a glass of whisky.
+We are not certain what servant of the hotel, whether the barman or the
+manager or some subordinate, was in the bar at the [[Time|time]]. Will you look
+round the room, and tell me whether the bar - attendant who served you
+is present here.'
+
 'Aye, he's present,' said Mr Grant, grimly smiling, having swept the
 group with a shrewd glance. 'I'd know him anywhere; and ye'll agree he's
 big enough to be seen. Do ye have all your inn - servants as grand as

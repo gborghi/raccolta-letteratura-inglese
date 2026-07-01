@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 6"
+title: "Dombey and Son — Chapter 34"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,981 +14,596 @@ tags:
 </nav>
 
 
-CHAPTER VI.
-Paul’s Second Deprivation
+CHAPTER XXXIV.
+Another Mother and Daughter
 
 
-Polly was beset by so many misgivings in the morning, that but for the
-incessant promptings of her black-eyed companion, she would have
-abandoned all thoughts of the expedition, and formally petitioned for
-leave to see number one hundred and forty-seven, under the awful [[Shadow|shadow]]
-of Mr Dombey’s roof. But Susan who was personally disposed in favour of
-the excursion, and who (like Tony Lumpkin), if she could bear the
-disappointments of other people with tolerable fortitude, could not
-abide to disappoint herself, threw so many ingenious doubts in the way
-of this second thought, and stimulated the original intention with so
-many ingenious arguments, that almost as soon as Mr Dombey’s stately
-back was turned, and that gentleman was pursuing his daily [[Road|road]] towards
-the [[City]], his unconscious son was on his way to Staggs’s Gardens.
+In an ugly and dark room, an old woman, ugly and dark too, sat
+listening to the [[Wind|wind]] and rain, and crouching over a meagre [[Fire|fire]]. More
+constant to the last-named occupation than the first, she never changed
+her attitude, unless, when any stray drops of rain fell hissing on the
+smouldering embers, to raise her head with an awakened attention to the
+whistling and pattering outside, and gradually to let it fall again
+lower and lower and lower as she sunk into a brooding state of thought,
+in which the noises of the [[Night|night]] were as indistinctly regarded as is
+the monotonous [[rolling]] of a sea by one who sits in contemplation on its
+shore.
 
-This euphonious locality was situated in a suburb, known by the
-inhabitants of Staggs’s Gardens by the name of Camberling Town; a
-designation which the Strangers’ Map of [[London]], as printed (with a view
-to pleasant and commodious reference) on pocket handkerchiefs,
-condenses, with some show of reason, into Camden Town. Hither the two
-nurses bent their steps, accompanied by their charges; Richards
-carrying Paul, of course, and Susan leading little Florence by the
-hand, and giving her such jerks and pokes from [[Time|time]] to [[Time|time]], as she
-considered it wholesome to administer.
+There was no light in the room save that which the [[Fire|fire]] afforded.
+Glaring sullenly from [[Time|time]] to [[Time|time]] like the eye of a fierce beast half
+asleep, it revealed no objects that needed to be jealous of a better
+display. A heap of rags, a heap of bones, a wretched bed, two or three
+mutilated chairs or stools, the black walls and blacker ceiling, were
+all its winking brightness shone upon. As the old woman, with a
+gigantic and distorted image of herself thrown half upon the wall
+behind her, half upon the roof above, sat bending over the few loose
+bricks within which it was pent, on the damp hearth of the chimney—for
+there was no stove—she looked as if she were watching at some [[Witch|witch]]’s
+altar for a favourable token; and but that the movement of her
+chattering jaws and trembling chin was too frequent and too fast for
+the slow flickering of the [[Fire|fire]], it would have seemed an illusion
+wrought by the light, as it came and went, upon a face as motionless as
+the form to which it belonged.
 
-The first shock of a great earthquake had, just at that period, rent
-the whole neighbourhood to its centre. Traces of its course were
-visible on every side. Houses were knocked down; streets broken through
-and stopped; deep pits and trenches dug in the ground; enormous heaps
-of earth and clay thrown up; buildings that were undermined and
-shaking, propped by great beams of wood. Here, a chaos of carts,
-overthrown and jumbled together, lay topsy-turvy at the [[Bottom|bottom]] of a
-steep unnatural [[Hill|hill]]; there, confused treasures of iron soaked and
-rusted in something that had accidentally become a pond. Everywhere
-were bridges that led nowhere; thoroughfares that were wholly
-impassable; Babel towers of chimneys, wanting half their height;
-temporary wooden houses and enclosures, in the most unlikely
-situations; carcases of ragged tenements, and fragments of unfinished
-walls and arches, and piles of scaffolding, and wildernesses of bricks,
-and giant forms of cranes, and tripods straddling above nothing. There
-were a hundred thousand shapes and substances of incompleteness, wildly
-mingled out of their places, upside down, burrowing in the earth,
-aspiring in the air, mouldering in the [[Water|water]], and unintelligible as any
-dream. Hot springs and fiery eruptions, the usual attendants upon
-earthquakes, lent their contributions of confusion to the scene.
-Boiling [[Water|water]] hissed and heaved within dilapidated walls; whence, also,
-the glare and roar of flames came issuing forth; and mounds of ashes
-blocked up rights of way, and wholly changed the law and custom of the
-neighbourhood.
+If Florence could have stood within the room and looked upon the
+original of the [[Shadow|shadow]] thrown upon the wall and roof as it cowered thus
+over the [[Fire|fire]], a glance might have sufficed to recall the figure of
+Good Mrs Brown; notwithstanding that her childish recollection of that
+terrible old woman was as [[Grotesque|grotesque]] and exaggerated a presentment of
+the [[Truth|truth]], perhaps, as the [[Shadow|shadow]] on the wall. But Florence was not
+there to look on; and Good Mrs Brown remained unrecognised, and sat
+staring at her [[Fire|fire]], unobserved.
 
-In short, the yet unfinished and unopened Railroad was in progress;
-and, from the very core of all this dire disorder, trailed smoothly
-away, upon its mighty course of civilisation and improvement.
+Attracted by a louder sputtering than usual, as the rain came hissing
+down the chimney in a little stream, the old woman raised her head,
+impatiently, to listen afresh. And this [[Time|time]] she did not drop it again;
+for there was a hand upon the door, and a footstep in the room.
 
-But as yet, the neighbourhood was shy to own the Railroad. One or two
-bold speculators had projected streets; and one had built a little, but
-had stopped among the mud and ashes to consider farther of it. A
-bran-new Tavern, redolent of fresh mortar and size, and fronting
-nothing at all, had taken for its sign The Railway Arms; but that might
-be rash enterprise—and then it hoped to sell drink to the workmen. So,
-the Excavators’ [[house|House]] of Call had sprung up from a beer-shop; and the
-old-established Ham and Beef Shop had become the Railway Eating [[house|House]],
-with a roast leg of pork daily, through interested motives of a similar
-immediate and popular description. Lodging-[[house]] keepers were
-favourable in like manner; and for the like reasons were not to be
-trusted. The general belief was very slow. There were frowzy fields,
-and cow-houses, and dunghills, and dustheaps, and ditches, and gardens,
-and [[Summer|summer]]-houses, and carpet-beating grounds, at the very door of the
-Railway. Little tumuli of oyster shells in the oyster season, and of
-lobster shells in the lobster season, and of broken crockery and faded
-cabbage [[Leaves|leaves]] in all [[Seasons|seasons]], encroached upon its high places. Posts,
-and rails, and old cautions to trespassers, and backs of mean houses,
-and patches of wretched vegetation, stared it out of countenance.
-Nothing was the better for it, or thought of being so. If the miserable
-waste ground lying near it could have laughed, it would have laughed it
-to scorn, like many of the miserable neighbours.
+“Who’s that?” she said, looking over her shoulder.
 
-Staggs’s Gardens was uncommonly incredulous. It was a little row of
-houses, with little squalid patches of ground before them, fenced off
-with old doors, barrel staves, scraps of tarpaulin, and dead bushes;
-with bottomless tin kettles and exhausted iron fenders, thrust into the
-gaps. Here, the Staggs’s Gardeners trained scarlet beans, kept fowls
-and rabbits, erected rotten [[Summer|summer]]-houses (one was an old boat), dried
-clothes, and smoked pipes. Some were of opinion that Staggs’s Gardens
-derived its name from a deceased capitalist, one Mr Staggs, who had
-built it for his delectation. Others, who had a natural taste for the
-country, held that it dated from those rural times when the antlered
-herd, under the familiar denomination of Staggses, had resorted to its
-shady precincts. Be this as it may, Staggs’s Gardens was regarded by
-its population as a sacred grove not to be withered by Railroads; and
-so confident were they generally of its long outliving any such
-ridiculous inventions, that the master chimney-sweeper at the corner,
-who was understood to take the lead in the local politics of the
-Gardens, had publicly declared that on the occasion of the Railroad
-opening, if ever it did open, two of his boys should ascend the flues
-of his dwelling, with instructions to hail the failure with derisive
-cheers from the chimney-pots.
+“One who brings you news, was the answer, in a woman’s voice.
 
-To this unhallowed spot, the very name of which had hitherto been
-carefully concealed from Mr Dombey by his sister, was little Paul now
-borne by Fate and Richards
+“News? Where from?”
 
-“That’s my [[house]], Susan,” said Polly, pointing it out.
+“From abroad.”
 
-“Is it, indeed, Mrs Richards?” said Susan, condescendingly.
+“From beyond seas?” cried the old woman, starting up.
 
-“And there’s my sister Jemima at the door, I do declare” cried Polly,
-“with my own sweet precious baby in her arms!”
+“Ay, from beyond seas.”
 
-The sight added such an extensive pair of wings to Polly’s impatience,
-that she set off down the Gardens at a run, and bouncing on Jemima,
-changed babies with her in a twinkling; to the unutterable astonishment
-of that young [[Damsel|damsel]], on whom the heir of the Dombeys seemed to have
-fallen from the clouds.
+The old woman raked the [[Fire|fire]] together, hurriedly, and going close to
+her visitor who had entered, and shut the door, and who now stood in
+the middle of the room, put her hand upon the drenched cloak, and
+turned the unresisting figure, so as to have it in the full light of
+the [[Fire|fire]]. She did not find what she had expected, whatever that might
+be; for she let the cloak go again, and uttered a querulous cry of
+disappointment and misery.
 
-“Why, Polly!” cried Jemima. “You! what a turn you have given me! who’d
-have thought it! come along in Polly! How [[Well|well]] you do look to be sure!
-The children will go half wild to see you Polly, that they will.”
+“What is the matter?” asked her visitor.
 
-That they did, if one might judge from the noise they made, and the way
-in which they dashed at Polly and dragged her to a low chair in the
-chimney corner, where her own honest apple face became immediately the
-centre of a bunch of smaller pippins, all laying their rosy cheeks
-close to it, and all evidently the growth of the same tree. As to
-Polly, she was full as noisy and vehement as the children; and it was
-not until she was quite out of breath, and her hair was hanging all
-about her flushed face, and her new christening attire was very much
-dishevelled, that any pause took place in the confusion. Even then, the
-smallest Toodle but one remained in her lap, holding on tight with both
-arms round her neck; while the smallest Toodle but two mounted on the
-back of the chair, and made desperate efforts, with one leg in the air,
-to kiss her round the corner.
+“Oho! Oho!” cried the old woman, turning her face upward, with a
+terrible howl.
 
-“Look! there’s a pretty little lady come to see you,” said Polly; “and
-see how quiet she is! what a beautiful little lady, ain’t she?”
+“What is the matter?” asked the visitor again.
 
-This reference to Florence, who had been standing by the door not
-unobservant of what passed, directed the attention of the younger
-branches towards her; and had likewise the happy effect of leading to
-the formal recognition of Miss Nipper, who was not quite free from a
-misgiving that she had been already slighted.
+“It’s not my gal!” cried the old woman, tossing up her arms, and
+clasping her hands above her head. “Where’s my Alice? Where’s my
+handsome daughter? They’ve been the [[Death|death]] of her!”
 
-“Oh do come in and sit down a minute, Susan, please,” said Polly. “This
-is my sister Jemima, this is. Jemima, I don’t know what I should ever
-do with myself, if it wasn’t for [[Susan Nipper]]; I shouldn’t be here now
-but for her.”
+“They’ve not been the [[Death|death]] of her yet, if your name’s Marwood,” said
+the visitor.
 
-“Oh do sit down, Miss Nipper, if you please,” quoth Jemima.
+“Have you seen my gal, then?” cried the old woman. “Has she wrote to
+me?”
 
-Susan took the extreme corner of a chair, with a stately and
-ceremonious aspect.
+“She said you couldn’t read,” returned the other.
 
-“I never was so glad to see anybody in all my life; now really I never
-was, Miss Nipper,” said Jemima.
+“No more I can!” exclaimed the old woman, wringing her hands.
 
-Susan relaxing, took a little more of the chair, and smiled graciously.
+“Have you no light here?” said the other, looking round the room.
 
-“Do untie your bonnet-strings, and make yourself at [[Home|home]], Miss Nipper,
-please,” entreated Jemima. “I am afraid it’s a poorer place than you’re
-used to; but you’ll make allowances, I’m sure.”
+The old woman, mumbling and shaking her head, and muttering to herself
+about her handsome daughter, brought a candle from a cupboard in the
+corner, and thrusting it into the [[Fire|fire]] with a trembling hand, lighted
+it with some difficulty and set it on the table. Its dirty wick burnt
+dimly at first, being choked in its own grease; and when the bleared
+eyes and failing sight of the old woman could distinguish anything by
+its light, her visitor was sitting with her arms folded, her eyes
+turned downwards, and a handkerchief she had worn upon her head lying
+on the table by her side.
 
-The black-eyed was so softened by this deferential behaviour, that she
-caught up little Miss Toodle who was running past, and took her to
-Banbury [[Cross]] immediately.
+“She sent to me by word of mouth then, my gal, Alice?” mumbled the old
+woman, after waiting for some moments. “What did she say?”
 
-“But where’s my pretty boy?” said Polly. “My poor fellow? I came all
-this way to see him in his new clothes.”
+“Look,” returned the visitor.
 
-“Ah what a pity!” cried Jemima. “He’ll break his heart, when he hears
-his mother has been here. He’s at school, Polly.”
+The old woman repeated the word in a scared uncertain way; and, shading
+her eyes, looked at the speaker, round the room, and at the speaker
+once again.
 
-“Gone already!”
-
-“Yes. He went for the first [[Time|time]] yesterday, for [[Fear|fear]] he should lose any
-learning. But it’s half-holiday, Polly: if you could only stop till he
-comes [[Home|home]]—you and Miss Nipper, leastways,” said Jemima, mindful in
-good [[Time|time]] of the dignity of the black-eyed.
-
-“And how does he look, Jemima, bless him!” faltered Polly.
-
-“[[Well]], really he don’t look so bad as you’d suppose,” returned Jemima.
-
-“Ah!” said Polly, with emotion, “I knew his legs must be too short.”
-
-“His legs is short,” returned Jemima; “especially behind; but they’ll
-get longer, Polly, every day.”
-
-It was a slow, prospective kind of consolation; but the cheerfulness
-and good [[Nature|nature]] with which it was administered, gave it a value it did
-not intrinsically possess. After a moment’s [[Silence|silence]], Polly asked, in a
-more sprightly manner:
-
-“And where’s Father, Jemima dear?”—for by that patriarchal appellation,
-Mr Toodle was generally known in the family.
-
-“There again!” said Jemima. “What a pity! Father took his dinner with
-him this morning, and isn’t coming [[Home|home]] till [[Night|night]]. But he’s always
-talking of you, Polly, and telling the children about you; and is the
-peaceablest, patientest, best-temperedest [[Soul|soul]] in the world, as he
-always was and will be!”
-
-“Thankee, Jemima,” cried the simple Polly; delighted by the speech, and
-disappointed by the absence.
-
-“Oh you needn’t thank me, Polly,” said her sister, giving her a
-sounding kiss upon the cheek, and then dancing little Paul cheerfully.
-“I say the same of you sometimes, and think it too.”
-
-In spite of the [[Double|double]] disappointment, it was impossible to regard in
-the light of a failure a visit which was greeted with such a reception;
-so the sisters talked hopefully about family matters, and about Biler,
-and about all his brothers and sisters: while the black-eyed, having
-performed several journeys to Banbury [[Cross]] and back, took sharp note
-of the furniture, the Dutch [[Clock|clock]], the cupboard, the [[Castle|castle]] on the
-mantel-piece with red and green windows in it, susceptible of
-illumination by a candle-end within; and the pair of small black velvet
-kittens, each with a lady’s reticule in its mouth; regarded by the
-Staggs’s Gardeners as prodigies of imitative art. The conversation soon
-becoming general lest the black-eyed should go off at score and turn
-sarcastic, that young lady related to Jemima a summary of everything
-she knew concerning Mr Dombey, his prospects, family, pursuits, and
-character. Also an exact inventory of her personal wardrobe, and some
-account of her principal relations and friends. Having relieved her
-mind of these disclosures, she partook of shrimps and porter, and
-evinced a disposition to swear eternal [[Friendship|friendship]].
-
-Little Florence herself was not behind-hand in improving the occasion;
-for, being conducted forth by the young Toodles to inspect some
-toad-stools and other curiosities of the Gardens, she entered with
-them, heart and [[Soul|soul]], on the formation of a temporary breakwater across
-a small green pool that had collected in a corner. She was still busily
-engaged in that labour, when sought and found by Susan; who, such was
-her sense of duty, even under the humanizing influence of shrimps,
-delivered a moral address to her (punctuated with thumps) on her
-degenerate [[Nature|nature]], while washing her face and hands; and predicted that
-she would bring the grey hairs of her family in general, with sorrow to
-the [[Grave|grave]]. After some delay, occasioned by a pretty long confidential
-interview above stairs on pecuniary subjects, between Polly and Jemima,
-an interchange of babies was again effected—for Polly had all this [[Time|time]]
-retained her own [[Child|child]], and Jemima little Paul—and the visitors took
-leave.
-
-But first the young Toodles, victims of a pious fraud, were deluded
-into repairing in a [[Body|body]] to a chandler’s shop in the neighbourhood, for
-the ostensible purpose of spending a penny; and when the coast was
-quite clear, Polly fled: Jemima calling after her that if they could
-only go round towards the [[City]] [[Road]] on their way back, they would be
-sure to meet little Biler coming from school.
-
-“Do you think that we might make [[Time|time]] to go a little round in that
-direction, Susan?” inquired Polly, when they halted to take breath.
-
-“Why not, Mrs Richards?” returned Susan.
-
-“It’s getting on towards our dinner [[Time|time]] you know,” said Polly.
-
-But lunch had rendered her companion more than indifferent to this
-[[Grave|grave]] consideration, so she allowed no weight to it, and they resolved
-to go “a little round.”
-
-Now, it happened that poor Biler’s life had been, since yesterday
-morning, rendered weary by the costume of the Charitable Grinders. The
-youth of the streets could not endure it. No young vagabond could be
-brought to bear its contemplation for a moment, without throwing
-himself upon the unoffending wearer, and doing him a mischief. His
-social existence had been more like that of an early Christian, than an
-[[Innocent|innocent]] [[Child|child]] of the nineteenth century. He had been stoned in the
-streets. He had been overthrown into gutters; bespattered with mud;
-violently flattened against posts. Entire strangers to his person had
-lifted his yellow cap off his head, and cast it to the winds. His legs
-had not only undergone verbal criticisms and revilings, but had been
-handled and pinched. That very morning, he had received a perfectly
-unsolicited black eye on his way to the Grinders’ establishment, and
-had been punished for it by the master: a superannuated old Grinder of
-savage disposition, who had been appointed schoolmaster because he
-didn’t know anything, and wasn’t fit for anything, and for whose cruel
-cane all chubby little boys had a perfect fascination.
-
-Thus it fell out that Biler, on his way [[Home|home]], sought unfrequented
-paths; and slunk along by narrow passages and back streets, to avoid
-his tormentors. Being compelled to emerge into the main [[Road|road]], his ill
-fortune brought him at last where a small party of boys, headed by a
-ferocious young butcher, were lying in wait for any means of
-pleasurable excitement that might happen. These, finding a Charitable
-Grinder in the midst of them—unaccountably delivered over, as it were,
-into their hands—set up a general yell and rushed upon him.
-
-But it so fell out likewise, that, at the same [[Time|time]], Polly, looking
-hopelessly along the [[Road|road]] before her, after a good hour’s walk, had
-said it was no use going any further, when suddenly she saw this sight.
-She no sooner saw it than, uttering a hasty exclamation, and giving
-Master Dombey to the black-eyed, she started to the rescue of her
-unhappy little son.
-
-Surprises, like misfortunes, rarely come [[Alone|alone]]. The astonished Susan
-Nipper and her two young charges were rescued by the bystanders from
-under the very wheels of a passing carriage before they knew what had
-happened; and at that moment (it was market day) a thundering alarm of
-“Mad Bull!” was raised.
-
-With a wild confusion before her, of people running up and down, and
-shouting, and wheels running over them, and boys fighting, and mad
-bulls coming up, and the [[Nurse|nurse]] in the midst of all these dangers being
-torn to pieces, Florence screamed and ran. She ran till she was
-exhausted, urging Susan to do the same; and then, stopping and wringing
-her hands as she remembered they had left the other [[Nurse|nurse]] behind,
-found, with a sensation of terror not to be described, that she was
-quite [[Alone|alone]].
-
-[Illustration]
-
-“Susan! Susan!” cried Florence, clapping her hands in the very ecstasy
-of her alarm. “Oh, where are they? where are they?”
-
-“Where are they?” said an old woman, coming hobbling across as fast as
-she could from the opposite side of the way. “Why did you run away from
-’em?”
-
-“I was frightened,” answered Florence. “I didn’t know what I did. I
-thought they were with me. Where are they?”
-
-The old woman took her by the wrist, and said, “I’ll show you.”
-
-She was a very ugly old woman, with red rims round her eyes, and a
-mouth that mumbled and chattered of itself when she was not speaking.
-She was miserably dressed, and carried some skins over her arm. She
-seemed to have followed Florence some little way at all events, for she
-had lost her breath; and this made her uglier still, as she stood
-trying to regain it: working her shrivelled yellow face and throat into
-all sorts of contortions.
-
-Florence was afraid of her, and looked, hesitating, up the street, of
-which she had almost reached the [[Bottom|bottom]]. It was a solitary place—more a
-back [[Road|road]] than a street—and there was no one in it but her-[[Self|self]] and the
-old woman.
-
-“You needn’t be frightened now,” said the old woman, still holding her
-tight. “Come along with me.”
-
-“I—I don’t know you. What’s your name?” asked Florence.
-
-“Mrs Brown,” said the old woman. “Good Mrs Brown.”
-
-“Are they near here?” asked Florence, beginning to be led away.
-
-“Susan ain’t far off,” said Good Mrs Brown; “and the others are close
-to her.”
-
-“Is anybody hurt?” cried Florence.
-
-“Not a bit of it,” said Good Mrs Brown.
-
-The [[Child|child]] shed [[Tears|tears]] of delight on hearing this, and accompanied the
-old woman willingly; though she could not help glancing at her face as
-they went along—particularly at that industrious mouth—and wondering
-whether Bad Mrs Brown, if there were such a person, was at all like
+“Alice said look again, mother;” and the speaker fixed her eyes upon
 her.
 
-They had not gone far, but had gone by some very uncomfortable places,
-such as brick-fields and tile-yards, when the old woman turned down a
-dirty lane, where the mud lay in deep black ruts in the middle of the
-[[Road|road]]. She stopped before a shabby little [[house]], as closely shut up as a
-[[house]] that was full of cracks and crevices could be. Opening the door
-with a key she took out of her bonnet, she pushed the [[Child|child]] before her
-into a back room, where there was a great heap of rags of different
-colours lying on the floor; a heap of bones, and a heap of sifted [[Dust|dust]]
-or cinders; but there was no furniture at all, and the walls and
-ceiling were quite black.
-
-The [[Child|child]] became so terrified the she was stricken speechless, and
-looked as though about to swoon.
-
-“Now don’t be a young mule,” said Good Mrs Brown, reviving her with a
-shake. “I’m not a going to hurt you. Sit upon the rags.”
-
-Florence obeyed her, holding out her folded hands, in mute
-supplication.
-
-“I’m not a going to keep you, even, above an hour,” said Mrs Brown.
-“D’ye understand what I say?”
-
-The [[Child|child]] answered with great difficulty, “Yes.”
-
-“Then,” said Good Mrs Brown, taking her own seat on the bones, “don’t
-vex me. If you don’t, I tell you I won’t hurt you. But if you do, I’ll
-kill you. I could have you killed at any [[Time|time]]—even if you was in your
-own bed at [[Home|home]]. Now let’s know who you are, and what you are, and all
-about it.”
-
-The old woman’s threats and promises; the dread of giving her offence;
-and the habit, unusual to a [[Child|child]], but almost natural to Florence now,
-of being quiet, and repressing what she felt, and feared, and hoped;
-enabled her to do this bidding, and to tell her little [[history]], or what
-she knew of it. Mrs Brown listened attentively, until she had finished.
-
-“So your name’s Dombey, eh?” said Mrs Brown.
-
-“I want that pretty frock, Miss Dombey,” said Good Mrs Brown, “and that
-little bonnet, and a petticoat or two, and anything else you can spare.
-Come! Take ’em off.”
-
-Florence obeyed, as fast as her trembling hands would allow; keeping,
-all the while, a frightened eye on Mrs Brown. When she had divested
-herself of all the articles of apparel mentioned by that lady, Mrs B.
-examined them at leisure, and seemed tolerably [[Well|well]] satisfied with
-their quality and value.
-
-“Humph!” she said, running her eyes over the [[Child|child]]’s slight figure, “I
-don’t see anything else—except the shoes. I must have the shoes, Miss
-Dombey.”
-
-Poor little Florence took them off with equal alacrity, only too glad
-to have any more means of conciliation about her. The old woman then
-produced some wretched substitutes from the [[Bottom|bottom]] of the heap of rags,
-which she turned up for that purpose; together with a girl’s cloak,
-quite worn out and very old; and the crushed remains of a bonnet that
-had probably been picked up from some ditch or dunghill. In this dainty
-raiment, she instructed Florence to dress herself; and as such
-preparation seemed a prelude to her release, the [[Child|child]] complied with
-increased readiness, if possible.
-
-In hurriedly putting on the bonnet, if that may be called a bonnet
-which was more like a pad to carry loads on, she caught it in her hair
-which grew luxuriantly, and could not immediately disentangle it. Good
-Mrs Brown whipped out a large pair of scissors, and fell into an
-unaccountable state of excitement.
-
-“Why couldn’t you let me be!” said Mrs Brown, “when I was contented?
-You little [[Fool|fool]]!”
-
-“I beg your pardon. I don’t know what I have done,” panted Florence. “I
-couldn’t help it.”
-
-“Couldn’t help it!” cried Mrs Brown. “How do you expect I can help it?
-Why, Lord!” said the old woman, ruffling her curls with a furious
-pleasure, “anybody but me would have had ’em off, first of all.”
-
-Florence was so relieved to find that it was only her hair and not her
-head which Mrs Brown coveted, that she offered no resistance or
-entreaty, and merely raised her mild eyes towards the face of that good
-[[Soul|soul]].
-
-“If I hadn’t once had a gal of my own—beyond seas now—that was proud of
-her hair,” said Mrs Brown, “I’d have had every lock of it. She’s far
-away, she’s far away! Oho! Oho!”
-
-Mrs Brown’s was not a melodious cry, but, accompanied with a wild
-tossing up of her lean arms, it was full of passionate grief, and
-thrilled to the heart of Florence, whom it frightened more than ever.
-It had its part, perhaps, in saving her curls; for Mrs Brown, after
-hovering about her with the scissors for some moments, like a new kind
-of butterfly, bade her hide them under the bonnet and let no trace of
-them escape to tempt her. Having accomplished this victory over
-herself, Mrs Brown resumed her seat on the bones, and smoked a very
-short black pipe, mowing and mumbling all the [[Time|time]], as if she were
-eating the stem.
-
-When the pipe was smoked out, she gave the [[Child|child]] a rabbit-skin to
-carry, that she might appear the more like her ordinary companion, and
-told her that she was now going to lead her to a public street whence
-she could inquire her way to her friends. But she cautioned her, with
-threats of summary and deadly vengeance in case of disobedience, not to
-talk to strangers, nor to repair to her own [[Home|home]] (which may have been
-too near for Mrs Brown’s convenience), but to her father’s office in
-the [[City]]; also to wait at the street corner where she would be left,
-until the [[Clock|clock]] struck three. These directions Mrs Brown enforced with
-assurances that there would be potent eyes and ears in her employment
-cognizant of all she did; and these directions Florence promised
-faithfully and earnestly to observe.
-
-At length, Mrs Brown, issuing forth, conducted her changed and ragged
-little friend through a labyrinth of narrow streets and lanes and
-alleys, which emerged, after a long [[Time|time]], upon a stable yard, with a
-gateway at the end, whence the roar of a great thoroughfare made itself
-audible. Pointing out this gateway, and informing Florence that when
-the clocks struck three she was to go to the left, Mrs Brown, after
-making a parting grasp at her hair which seemed involuntary and quite
-beyond her own control, told her she knew what to do, and bade her go
-and do it: remembering that she was watched.
-
-With a lighter heart, but still sore afraid, Florence felt herself
-released, and tripped off to the corner. When she reached it, she
-looked back and saw the head of Good Mrs Brown peeping out of the low
-wooden passage, where she had issued her parting injunctions; likewise
-the fist of Good Mrs Brown shaking towards her. But though she often
-looked back afterwards—every minute, at least, in her nervous
-recollection of the old woman—she could not see her again.
-
-Florence remained there, looking at the bustle in the street, and more
-and more bewildered by it; and in the meanwhile the clocks appeared to
-have made up their minds never to strike three any more. At last the
-steeples rang out three o’[[Clock|clock]]; there was one close by, so she
-couldn’t be mistaken; and—after often looking over her shoulder, and
-often going a little way, and as often coming back again, lest the
-all-powerful spies of Mrs Brown should take offence—she hurried off, as
-fast as she could in her slipshod shoes, holding the rabbit-skin tight
-in her hand.
-
-All she knew of her father’s offices was that they belonged to Dombey
-and Son, and that that was a great power belonging to the [[City]]. So she
-could only ask the way to Dombey and Son’s in the [[City]]; and as she
-generally made inquiry of children—being afraid to ask grown people—she
-got very little satisfaction indeed. But by dint of asking her way to
-the [[City]] after a while, and dropping the rest of her inquiry for the
-present, she really did advance, by slow degrees, towards the heart of
-that great region which is governed by the terrible [[Lord Mayor]].
-
-Tired of walking, repulsed and pushed about, stunned by the noise and
-confusion, anxious for her brother and the nurses, terrified by what
-she had undergone, and the prospect of encountering her angry father in
-such an altered state; perplexed and frightened alike by what had
-passed, and what was passing, and what was yet before her; Florence
-went upon her weary way with tearful eyes, and once or twice could not
-help stopping to ease her bursting heart by crying bitterly. But few
-people noticed her at those times, in the garb she wore: or if they
-did, believed that she was tutored to excite compassion, and passed on.
-Florence, too, called to her aid all the firmness and [[Self-Reliance|self-reliance]] of
-a character that her sad experience had prematurely formed and tried:
-and keeping the end she had in view steadily before her, steadily
-pursued it.
-
-It was full two hours later in the afternoon than when she had started
-on this strange adventure, when, escaping from the clash and clangour
-of a narrow street full of carts and waggons, she peeped into a kind of
-wharf or landing-place upon the [[River|river]]-side, where there were a great
-many packages, casks, and boxes, strewn about; a large pair of wooden
-scales; and a little wooden [[house]] on wheels, outside of which, looking
-at the neighbouring masts and boats, a stout man stood whistling, with
-his pen behind his ear, and his hands in his pockets, as if his day’s
-work were nearly done.
-
-“Now then!” said this man, happening to turn round. “We haven’t got
-anything for you, little girl. Be off!”
-
-“If you please, is this the [[City]]?” asked the trembling daughter of the
-Dombeys.
-
-“Ah! It’s the [[City]]. You know that [[Well|well]] enough, I daresay. Be off! We
-haven’t got anything for you.”
-
-“I don’t want anything, thank you,” was the timid answer. “Except to
-know the way to Dombey and Son’s.”
-
-The man who had been strolling carelessly towards her, seemed surprised
-by this reply, and looking attentively in her face, rejoined:
-
-“Why, what can you want with Dombey and Son’s?”
-
-“To know the way there, if you please.”
-
-The man looked at her yet more curiously, and rubbed the back of his
-head so hard in his wonderment that he knocked his own hat off.
-
-“Joe!” he called to another man—a labourer—as he picked it up and put
-it on again.
-
-“Joe it is!” said Joe.
-
-“Where’s that young spark of Dombey’s who’s been watching the shipment
-of them goods?”
-
-“Just gone, by tt’other gate,” said Joe.
-
-“Call him back a minute.”
-
-Joe ran up an archway, bawling as he went, and very soon returned with
-a blithe-looking boy.
-
-“You’re Dombey’s jockey, ain’t you?” said the first man.
-
-“I’m in Dombey’s [[house|House]], Mr Clark,” returned the boy.
-
-“Look’ye here, then,” said Mr Clark.
-
-Obedient to the indication of Mr Clark’s hand, the boy approached
-towards Florence, wondering, as [[Well|well]] he might, what he had to do with
-her. But she, who had heard what passed, and who, besides the relief of
-so suddenly considering herself safe at her [[Journey|journey]]’s end, felt
-reassured beyond all measure by his lively youthful face and manner,
-ran eagerly up to him, leaving one of the slipshod shoes upon the
-ground and caught his hand in both of hers.
-
-“I am lost, if you please!” said Florence.
-
-“Lost!” cried the boy.
-
-“Yes, I was lost this morning, a long way from here—and I have had my
-clothes taken away, since—and I am not dressed in my own now—and my
-name is [[Florence Dombey]], my little brother’s only sister—and, oh dear,
-dear, take care of me, if you please!” sobbed Florence, giving full
-vent to the childish feelings she had so long suppressed, and bursting
-into [[Tears|tears]]. At the same [[Time|time]] her miserable bonnet falling off, her hair
-came tumbling down about her face: moving to speechless admiration and
-commiseration, young Walter, nephew of [[Solomon Gills]], Ships’
-Instrument-maker in general.
-
-Mr Clark stood rapt in amazement: observing under his breath, I never
-saw such a start on this wharf before. Walter picked up the shoe, and
-put it on the little foot as the Prince in the story might have fitted
-Cinderella’s slipper on. He hung the rabbit-skin over his left arm;
-gave the right to Florence; and felt, not to say like [[Richard]]
-Whittington—that is a tame comparison—but like Saint George of England,
-with the dragon lying dead before him.
-
-“Don’t cry, Miss Dombey,” said Walter, in a transport of enthusiasm.
-“What a wonderful thing for me that I am here! You are as safe now as
-if you were guarded by a whole boat’s crew of picked men from a
-man-of-war. Oh, don’t cry.”
-
-“I won’t cry any more,” said Florence. “I am only crying for joy.”
-
-“Crying for joy!” thought Walter, “and I’m the cause of it! Come along,
-Miss Dombey. There’s the other shoe off now! Take mine, Miss Dombey.”
-
-“No, no, no,” said Florence, checking him in the act of impetuously
-pulling off his own. “These do better. These do very [[Well|well]].”
-
-“Why, to be sure,” said Walter, glancing at her foot, “mine are a mile
-too large. What am I thinking about! You never could walk in mine! Come
-along, Miss Dombey. Let me see the [[Villain|villain]] who will dare molest you
-now.”
-
-So Walter, looking immensely fierce, led off Florence, looking very
-happy; and they went arm-in-arm along the streets, perfectly
-indifferent to any astonishment that their appearance might or did
-excite by the way.
-
-It was growing dark and foggy, and beginning to rain too; but they
-cared nothing for this: being both wholly absorbed in the late
-adventures of Florence, which she related with the [[Innocent|innocent]] good [[Faith|faith]]
-and confidence of her years, while Walter listened as if, far from the
-mud and grease of Thames Street, they were rambling [[Alone|alone]] among the
-broad [[Leaves|leaves]] and tall trees of some [[Desert|desert]] island in the tropics—as he
-very likely fancied, for the [[Time|time]], they were.
-
-“Have we far to go?” asked Florence at last, lilting up her eyes to her
-companion’s face.
-
-“Ah! By-the-bye,” said Walter, stopping, “let me see; where are we? Oh!
-I know. But the offices are shut up now, Miss Dombey. There’s nobody
-there. Mr Dombey has gone [[Home|home]] long ago. I suppose we must go [[Home|home]] too?
-or, stay. Suppose I take you to my Uncle’s, where I live—it’s very near
-here—and go to your [[house]] in a coach to tell them you are safe, and
-bring you back some clothes. Won’t that be best?”
-
-“I think so,” answered Florence. “Don’t you? What do you think?”
-
-As they stood deliberating in the street, a man passed them, who
-glanced quickly at Walter as he went by, as if he recognised him; but
-seeming to correct that first impression, he passed on without
-stopping.
-
-“Why, I think it’s Mr Carker,” said Walter. “Carker in our [[house|House]]. Not
-Carker our Manager, Miss Dombey—the other Carker; the Junior—Halloa! Mr
-Carker!”
-
-“Is that [[Walter Gay]]?” said the other, stopping and returning. “I
-couldn’t believe it, with such a strange companion.”
-
-As he stood near a lamp, listening with surprise to Walter’s hurried
-explanation, he presented a remarkable contrast to the two youthful
-figures arm-in-arm before him. He was not old, but his hair was white;
-his [[Body|body]] was bent, or bowed as if by the weight of some great trouble:
-and there were deep lines in his worn and [[Melancholy|melancholy]] face. The [[Fire|fire]] of
-his eyes, the expression of his features, the very voice in which he
-spoke, were all subdued and quenched, as if the spirit within him lay
-in ashes. He was respectably, though very plainly dressed, in black;
-but his clothes, moulded to the general character of his figure, seemed
-to shrink and abase themselves upon him, and to join in the sorrowful
-solicitation which the whole man from head to foot expressed, to be
-left unnoticed, and [[Alone|alone]] in his [[Humility|humility]].
-
-And yet his interest in youth and hopefulness was not extinguished with
-the other embers of his [[Soul|soul]], for he watched the boy’s earnest
-countenance as he spoke with unusual sympathy, though with an
-inexplicable show of trouble and compassion, which escaped into his
-looks, however hard he strove to hold it prisoner. When Walter, in
-conclusion, put to him the question he had put to Florence, he still
-stood glancing at him with the same expression, as if he had read some
-fate upon his face, mournfully at variance with its present brightness.
-
-“What do you advise, Mr Carker?” said Walter, smiling. “You always give
-me good advice, you know, when you do speak to me. That’s not often,
-though.”
-
-“I think your own idea is the best,” he answered: looking from Florence
-to Walter, and back again.
-
-“Mr Carker,” said Walter, brightening with a generous thought, “Come!
-Here’s a chance for you. Go you to Mr Dombey’s, and be the messenger of
-good news. It may do you some good, Sir. I’ll remain at [[Home|home]]. You shall
-go.”
-
-“I!” returned the other.
-
-“Yes. Why not, Mr Carker?” said the boy.
-
-He merely shook him by the hand in answer; he seemed in a manner
-ashamed and afraid even to do that; and bidding him good-[[Night|night]], and
-advising him to make haste, turned away.
-
-“Come, Miss Dombey,” said Walter, looking after him as they turned away
-also, “we’ll go to my Uncle’s as quick as we can. Did you ever hear Mr
-Dombey speak of Mr Carker the Junior, Miss Florence?”
-
-“No,” returned the [[Child|child]], mildly, “I don’t often hear Papa speak.”
-
-“Ah! true! more shame for him,” thought Walter. After a minute’s pause,
-during which he had been looking down upon the gentle patient little
-face moving on at his side, he said, “The strangest man, Mr Carker the
-Junior is, Miss Florence, that ever you heard of. If you could
-understand what an extraordinary interest he takes in me, and yet how
-he shuns me and avoids me; and what a low place he holds in our office,
-and how he is never advanced, and never complains, though year after
-year he sees young men passed over his head, and though his brother
-(younger than he is), is our head Manager, you would be as much puzzled
-about him as I am.”
-
-As Florence could hardly be expected to understand much about it,
-Walter bestirred himself with his accustomed boyish animation and
-restlessness to change the subject; and one of the unfortunate shoes
-coming off again opportunely, proposed to carry Florence to his uncle’s
-in his arms. Florence, though very tired, laughingly declined the
-proposal, lest he should let her fall; and as they were already near
-the wooden Midshipman, and as Walter went on to cite various
-precedents, from shipwrecks and other moving accidents, where younger
-boys than he had triumphantly rescued and carried off older girls than
-Florence, they were still in full conversation about it when they
-arrived at the Instrument-maker’s door.
-
-“Holloa, Uncle Sol!” cried Walter, bursting into the shop, and speaking
-incoherently and out of breath, from that [[Time|time]] forth, for the rest of
-the evening. “Here’s a wonderful adventure! Here’s Mr Dombey’s daughter
-lost in the streets, and robbed of her clothes by an old [[Witch|witch]] of a
-woman—found by me—brought [[Home|home]] to our parlour to rest—look here!”
-
-“Good Heaven!” said Uncle Sol, starting back against his favourite
-compass-case. “It can’t be! [[Well]], I—”
-
-“No, nor anybody else,” said Walter, anticipating the rest. “Nobody
-would, nobody could, you know. Here! just help me lift the little sofa
-near the [[Fire|fire]], will you, Uncle Sol—take care of the plates—cut some
-dinner for her, will you, Uncle—throw those shoes under the grate. Miss
-Florence—put your feet on the fender to dry—how damp they are—here’s an
-adventure, Uncle, eh?—God bless my [[Soul|soul]], how hot I am!”
-
-[[Solomon Gills]] was quite as hot, by sympathy, and in excessive
-bewilderment. He patted Florence’s head, pressed her to eat, pressed
-her to drink, rubbed the soles of her feet with his pocket-handkerchief
-heated at the [[Fire|fire]], followed his locomotive nephew with his eyes, and
-ears, and had no clear perception of anything except that he was being
-constantly knocked against and tumbled over by that excited young
-gentleman, as he darted about the room attempting to accomplish twenty
-things at once, and doing nothing at all.
-
-“Here, wait a minute, Uncle,” he continued, catching up a candle, “till
-I run upstairs, and get another jacket on, and then I’ll be off. I say,
-Uncle, isn’t this an adventure?”
-
-“My dear boy,” said Solomon, who, with his spectacles on his forehead
-and the great chronometer in his pocket, was incessantly oscillating
-between Florence on the sofa, and his nephew in all parts of the
-parlour, “it’s the most extraordinary—”
-
-“No, but do, Uncle, please—do, Miss Florence—dinner, you know, Uncle.”
-
-“Yes, yes, yes,” cried Solomon, cutting instantly into a leg of mutton,
-as if he were catering for a giant. “I’ll take care of her, Wally! I
-understand. Pretty dear! Famished, of course. You go and get ready.
-Lord bless me! Sir [[Richard]] Whittington thrice [[Lord Mayor]] of [[London]].”
-
-Walter was not very long in mounting to his lofty garret and descending
-from it, but in the meantime Florence, overcome by fatigue, had sunk
-into a doze before the [[Fire|fire]]. The short interval of quiet, though only a
-few minutes in duration, enabled [[Solomon Gills]] so far to collect his
-wits as to make some little arrangements for her comfort, and to darken
-the room, and to screen her from the blaze. Thus, when the boy
-returned, she was sleeping peacefully.
-
-“That’s capital!” he whispered, giving Solomon such a hug that it
-squeezed a new expression into his face. “Now I’m off. I’ll just take a
-crust of bread with me, for I’m very hungry—and don’t wake her, Uncle
-Sol.”
-
-“No, no,” said Solomon. “Pretty [[Child|child]].”
-
-“Pretty, indeed!” cried Walter. “I never saw such a face, Uncle Sol.
-Now I’m off.”
-
-“That’s right,” said Solomon, greatly relieved.
-
-“I say, Uncle Sol,” cried Walter, putting his face in at the door.
-
-“Here he is again,” said Solomon.
-
-“How does she look now?”
-
-“Quite happy,” said Solomon.
-
-“That’s famous! now I’m off.”
-
-“I [[Hope|hope]] you are,” said Solomon to himself.
-
-“I say, Uncle Sol,” cried Walter, reappearing at the door.
-
-“Here he is again!” said Solomon.
-
-“We met Mr Carker the Junior in the street, queerer than ever. He bade
-me good-bye, but came behind us here—there’s an odd thing!—for when we
-reached the shop door, I looked round, and saw him going quietly away,
-like a servant who had seen me [[Home|home]], or a faithful dog. How does she
-look now, Uncle?”
-
-“Pretty much the same as before, Wally,” replied Uncle Sol.
-
-“That’s right. Now I am off!”
-
-And this [[Time|time]] he really was: and [[Solomon Gills]], with no appetite for
-dinner, sat on the opposite side of the [[Fire|fire]], watching Florence in her
-slumber, building a great many airy castles of the most fantastic
-architecture; and looking, in the dim shade, and in the close vicinity
-of all the instruments, like a magician disguised in a Welsh wig and a
-suit of coffee colour, who held the [[Child|child]] in an enchanted [[Sleep|sleep]].
-
-In the meantime, Walter proceeded towards Mr Dombey’s [[house]] at a pace
-seldom achieved by a hack [[Horse|horse]] from the stand; and yet with his head
-out of [[Window|window]] every two or three minutes, in impatient remonstrance
-with the driver. Arriving at his [[Journey|journey]]’s end, he leaped out, and
-breathlessly announcing his errand to the servant, followed him
-straight into the library, we there was a great confusion of tongues,
-and where Mr Dombey, his sister, and Miss Tox, Richards, and Nipper,
-were all congregated together.
-
-“Oh! I beg your pardon, Sir,” said Walter, rushing up to him, “but I’m
-happy to say it’s all right, Sir. Miss Dombey’s found!”
-
-The boy with his open face, and flowing hair, and sparkling eyes,
-panting with pleasure and excitement, was wonderfully opposed to Mr
-Dombey, as he sat confronting him in his library chair.
-
-“I told you, Louisa, that she would certainly be found,” said Mr
-Dombey, looking slightly over his shoulder at that lady, who wept in
-company with Miss Tox. “Let the servants know that no further steps are
-necessary. This boy who brings the information, is young Gay, from the
-office. How was my daughter found, Sir? I know how she was lost.” Here
-he looked majestically at Richards. “But how was she found? Who found
-her?”
-
-“Why, I believe I found Miss Dombey, Sir,” said Walter modestly, “at
-least I don’t know that I can claim the merit of having exactly found
-her, Sir, but I was the fortunate instrument of—”
-
-“What do you mean, Sir,” interrupted Mr Dombey, regarding the boy’s
-evident [[Pride|pride]] and pleasure in his share of the transaction with an
-instinctive dislike, “by not having exactly found my daughter, and by
-being a fortunate instrument? Be plain and coherent, if you please.”
-
-It was quite out of Walter’s power to be coherent; but he rendered
-himself as explanatory as he could, in his breathless state, and stated
-why he had come [[Alone|alone]].
-
-“You hear this, girl?” said Mr Dombey sternly to the black-eyed. “Take
-what is necessary, and return immediately with this young man to fetch
-Miss Florence [[Home|home]]. Gay, you will be rewarded to-morrow.”
-
-“Oh! thank you, Sir,” said Walter. “You are very kind. I’m sure I was
-not thinking of any reward, Sir.”
-
-“You are a boy,” said Mr Dombey, suddenly and almost fiercely; “and
-what you think of, or affect to think of, is of little consequence. You
-have done [[Well|well]], Sir. Don’t undo it. Louisa, please to give the lad some
-wine.”
-
-Mr Dombey’s glance followed [[Walter Gay]] with sharp disfavour, as he left
-the room under the pilotage of Mrs Chick; and it may be that his mind’s
-eye followed him with no greater relish, as he rode back to his Uncle’s
-with Miss [[Susan Nipper]].
-
-There they found that Florence, much refreshed by [[Sleep|sleep]], had dined, and
-greatly improved the acquaintance of [[Solomon Gills]], with whom she was
-on terms of perfect confidence and ease. The black-eyed (who had cried
-so much that she might now be called the red-eyed, and who was very
-silent and depressed) caught her in her arms without a word of
-contradiction or reproach, and made a very hysterical meeting of it.
-Then converting the parlour, for the nonce, into a private tiring room,
-she dressed her, with great care, in proper clothes; and presently led
-her forth, as like a Dombey as her natural disqualifications admitted
-of her being made.
-
-“Good-[[Night|night]]!” said Florence, running up to Solomon. “You have been very
-good to me.”
-
-Old Sol was quite delighted, and kissed her like her grand-father.
-
-“Good-[[Night|night]], Walter! Good-bye!” said Florence.
-
-“Good-bye!” said Walter, giving both his hands.
-
-“I’ll never forget you,” pursued Florence. “No! indeed I never will.
-Good-bye, Walter!”
-
-In the [[innocence]] of her grateful heart, the [[Child|child]] lifted up her face to
-his. Walter, bending down his own, raised it again, all red and
-burning; and looked at Uncle Sol, quite sheepishly.
-
-“Where’s Walter?” “Good-[[Night|night]], Walter!” “Good-bye, Walter!” “Shake
-hands once more, Walter!” This was still Florence’s cry, after she was
-shut up with her little maid, in the coach. And when the coach at
-length moved off, Walter on the door-step gaily returned the waving of
-her handkerchief, while the wooden Midshipman behind him seemed, like
-himself, intent upon that coach [[Alone|alone]], excluding all the other passing
-coaches from his observation.
-
-In good [[Time|time]] Mr Dombey’s mansion was gained again, and again there was
-a noise of tongues in the library. Again, too, the coach was ordered to
-wait—“for Mrs Richards,” one of Susan’s fellow-servants ominously
-whispered, as she passed with Florence.
-
-The entrance of the lost [[Child|child]] made a slight sensation, but not much.
-Mr Dombey, who had never found her, kissed her once upon the forehead,
-and cautioned her not to run away again, or wander anywhere with
-treacherous attendants. Mrs Chick stopped in her lamentations on the
-corruption of human [[Nature|nature]], even when beckoned to the paths of virtue
-by a Charitable Grinder; and received her with a welcome something
-short of the reception due to none but perfect Dombeys. Miss Tox
-regulated her feelings by the models before her. Richards, the culprit
-Richards, [[Alone|alone]] poured out her heart in broken words of welcome, and
-bowed herself over the little wandering head as if she really loved it.
-
-“Ah, Richards!” said Mrs Chick, with a sigh. “It would have been much
-more satisfactory to those who wish to think [[Well|well]] of their fellow
-creatures, and much more becoming in you, if you had shown some proper
-feeling, in [[Time|time]], for the little [[Child|child]] that is now going to be
-prematurely deprived of its natural nourishment.
-
-“Cut off,” said Miss Tox, in a plaintive whisper, “from one common
-fountain!”
-
-“If it was my ungrateful case,” said Mrs Chick, solemnly, “and I had
-your reflections, Richards, I should feel as if the Charitable
-Grinders’ dress would blight my [[Child|child]], and the [[Education|education]] choke him.”
-
-For the matter of that—but Mrs Chick didn’t know it—he had been pretty
-[[Well|well]] blighted by the dress already; and as to the [[Education|education]], even its
-retributive effect might be produced in [[Time|time]], for it was a [[Storm|storm]] of
-sobs and blows.
-
-“Louisa!” said Mr Dombey. “It is not necessary to prolong these
-observations. The woman is discharged and paid. You leave this [[house]],
-Richards, for taking my son—my son,” said Mr Dombey, emphatically
-repeating these two words, “into haunts and into society which are not
-to be thought of without a shudder. As to the accident which befel Miss
-Florence this morning, I regard that as, in one great sense, a happy
-and fortunate circumstance; inasmuch as, but for that occurrence, I
-never could have known—and from your own lips too—of what you had been
-guilty. I think, Louisa, the other [[Nurse|nurse]], the young person,” here Miss
-Nipper sobbed aloud, “being so much younger, and necessarily influenced
-by Paul’s [[Nurse|nurse]], may remain. Have the goodness to direct that this
-woman’s coach is paid to”—Mr Dombey stopped and winced—“to Staggs’s
-Gardens.”
-
-Polly moved towards the door, with Florence holding to her dress, and
-crying to her in the most pathetic manner not to go away. It was a
-dagger in the haughty father’s heart, an arrow in his brain, to see how
-the flesh and [[Blood|blood]] he could not disown clung to this obscure stranger,
-and he sitting by. Not that he cared to whom his daughter turned, or
-from whom turned away. The swift sharp agony struck through him, as he
-thought of what his son might do.
-
-His son cried lustily that [[Night|night]], at all events. Sooth to say, poor
-Paul had better reason for his [[Tears|tears]] than sons of that age often have,
-for he had lost his second mother—his first, so far as he knew—by a
-stroke as sudden as that natural affliction which had darkened the
-beginning of his life. At the same blow, his sister too, who cried
-herself to [[Sleep|sleep]] so mournfully, had lost as good and true a friend. But
-that is quite beside the question. Let us waste no words about it.
+Again the old woman looked round the room, and at her visitor, and
+round the room once more. Hastily seizing the candle, and rising from
+her seat, she held it to the visitor’s face, uttered a loud cry, set
+down the light, and fell upon her neck!
+
+“It’s my gal! It’s my Alice! It’s my handsome daughter, living and come
+back!” screamed the old woman, rocking herself to and fro upon the
+breast that coldly suffered her embrace. “It’s my gal! It’s my Alice!
+It’s my handsome daughter, living and come back!” she screamed again,
+dropping on the floor before her, clasping her knees, laying her head
+against them, and still rocking herself to and fro with every frantic
+demonstration of which her vitality was capable.
+
+“Yes, mother,” returned Alice, stooping forward for a moment and
+kissing her, but endeavouring, even in the act, to disengage herself
+from her embrace. “I am here, at last. Let go, mother; let go. Get up,
+and sit in your chair. What good does this do?”
+
+“She’s come back harder than she went!” cried the mother, looking up in
+her face, and still holding to her knees. “She don’t care for me! after
+all these years, and all the wretched life I’ve led!”
+
+“Why, mother!” said Alice, shaking her ragged skirts to detach the old
+woman from them: “there are two sides to that. There have been years
+for me as [[Well|well]] as you, and there has been wretchedness for me as [[Well|well]]
+as you. Get up, get up!”
+
+Her mother [[Rose|rose]], and cried, and wrung her hands, and stood at a little
+distance gazing on her. Then she took the candle again, and going round
+her, surveyed her from head to foot, making a low moaning all the [[Time|time]].
+Then she put the candle down, resumed her chair, and beating her hands
+together to a kind of weary tune, and [[rolling]] herself from side to
+side, continued moaning and wailing to herself.
+
+Alice got up, took off her wet cloak, and laid it aside. That done, she
+sat down as before, and with her arms folded, and her eyes gazing at
+the [[Fire|fire]], remained silently listening with a contemptuous face to her
+old mother’s inarticulate complainings.
+
+“Did you expect to see me return as youthful as I went away, mother?”
+she said at length, turning her eyes upon the old woman. “Did you think
+a foreign life, like mine, was good for good looks? One would believe
+so, to hear you!”
+
+“It ain’t that!” cried the mother. “She knows it!”
+
+“What is it then?” returned the daughter. “It had best be something
+that don’t last, mother, or my way out is easier than my way in.”
+
+“Hear that!” exclaimed the mother. “After all these years she threatens
+to [[Desert|desert]] me in the moment of her coming back again!”
+
+“I tell you, mother, for the second [[Time|time]], there have been years for me
+as [[Well|well]] as you,” said Alice. “Come back harder? Of course I have come
+back harder. What else did you expect?”
+
+“Harder to me! To her own dear mother!” cried the old woman
+
+“I don’t know who began to harden me, if my own dear mother didn’t,”
+she returned, sitting with her folded arms, and knitted brows, and
+compressed lips as if she were bent on excluding, by force, every
+softer feeling from her breast. “Listen, mother, to a word or two. If
+we understand each other now, we shall not fall out any more, perhaps.
+I went away a girl, and have come back a woman. I went away undutiful
+enough, and have come back no better, you may swear. But have you been
+very dutiful to me?”
+
+“I!” cried the old woman. “To my gal! A mother dutiful to her own
+[[Child|child]]!”
+
+“It sounds unnatural, don’t it?” returned the daughter, looking coldly
+on her with her stern, regardless, hardy, beautiful face; “but I have
+thought of it sometimes, in the course of my lone years, till I have
+got used to it. I have heard some talk about duty first and last; but
+it has always been of my duty to other people. I have wondered now and
+then—to pass away the [[Time|time]]—whether no one ever owed any duty to me.”
+
+Her mother sat mowing, and mumbling, and shaking her head, but whether
+angrily or remorsefully, or in denial, or only in her physical
+infirmity, did not appear.
+
+“There was a [[Child|child]] called Alice Marwood,” said the daughter, with a
+laugh, and looking down at herself in terrible derision of herself,
+“born, among [[Poverty|poverty]] and neglect, and nursed in it. Nobody taught her,
+nobody stepped forward to help her, nobody cared for her.”
+
+“Nobody!” echoed the mother, pointing to herself, and striking her
+breast.
+
+“The only care she knew,” returned the daughter, “was to be beaten, and
+stinted, and abused sometimes; and she might have done better without
+that. She lived in homes like this, and in the streets, with a crowd of
+little wretches like herself; and yet she brought good looks out of
+this [[Childhood|childhood]]. So much the worse for her. She had better have been
+hunted and worried to [[Death|death]] for ugliness.”
+
+“Go on! go on!” exclaimed the mother.
+
+“I am going on,” returned the daughter. “There was a girl called Alice
+Marwood. She was handsome. She was taught too late, and taught all
+wrong. She was too [[Well|well]] cared for, too [[Well|well]] trained, too [[Well|well]] helped
+on, too much looked after. You were very fond of her—you were better
+off then. What came to that girl comes to thousands every year. It was
+only ruin, and she was born to it.”
+
+“After all these years!” whined the old woman. “My gal begins with
+this.”
+
+“She’ll soon have ended,” said the daughter. “There was a criminal
+called Alice Marwood—a girl still, but deserted and an outcast. And she
+was tried, and she was sentenced. And lord, how the gentlemen in the
+[[Court]] talked about it! and how [[Grave|grave]] the judge was on her duty, and on
+her having perverted the gifts of [[Nature|nature]]—as if he didn’t know better
+than anybody there, that they had been made curses to her!—and how he
+preached about the strong arm of the Law—so very strong to save her,
+when she was an [[Innocent|innocent]] and helpless little wretch!—and how solemn and
+religious it all was! I have thought of that, many times since, to be
+sure!”
+
+She folded her arms tightly on her breast, and laughed in a tone that
+made the howl of the old woman musical.
+
+“So Alice Marwood was transported, mother,” she pursued, “and was sent
+to learn her duty, where there was twenty times less duty, and more
+wickedness, and wrong, and infamy, than here. And Alice Marwood is come
+back a woman. Such a woman as she ought to be, after all this. In good
+[[Time|time]], there will be more solemnity, and more fine talk, and more strong
+arm, most likely, and there will be an end of her; but the gentlemen
+needn’t be afraid of being thrown out of work. There’s crowds of little
+wretches, boy and girl, growing up in any of the streets they live in,
+that’ll keep them to it till they’ve made their fortunes.”
+
+The old woman leaned her elbows on the table, and resting her face upon
+her two hands, made a show of being in great distress—or really was,
+perhaps.
+
+“There! I have done, mother,” said the daughter, with a motion of her
+head, as if in dismissal of the subject. “I have said enough. Don’t let
+you and I talk of being dutiful, whatever we do. Your [[Childhood|childhood]] was
+like mine, I suppose. So much the worse for both of us. I don’t want to
+blame you, or to defend myself; why should I? That’s all over long ago.
+But I am a woman—not a girl, now—and you and I needn’t make a show of
+our [[history]], like the gentlemen in the [[Court]]. We know all about it,
+[[Well|well]] enough.”
+
+Lost and degraded as she was, there was a [[Beauty|beauty]] in her, both of face
+and form, which, even in its worst expression, could not but be
+recognised as such by anyone regarding her with the least attention. As
+she subsided into [[Silence|silence]], and her face which had been harshly
+agitated, quieted down; while her dark eyes, fixed upon the [[Fire|fire]],
+exchanged the reckless light that had animated them, for one that was
+softened by something like sorrow; there shone through all her wayworn
+misery and fatigue, a ray of the departed radiance of the fallen angel.
+
+Her mother, after watching her for some [[Time|time]] without speaking, ventured
+to steal her withered hand a little nearer to her across the table; and
+finding that she permitted this, to touch her face, and smooth her
+hair. With the feeling, as it seemed, that the old woman was at least
+sincere in this show of interest, Alice made no movement to check her;
+so, advancing by degrees, she bound up her daughter’s hair afresh, took
+off her wet shoes, if they deserved the name, spread something dry upon
+her shoulders, and hovered humbly about her, muttering to herself, as
+she recognised her old features and expression more and more.
+
+“You are very poor, mother, I see,” said Alice, looking round, when she
+had sat thus for some [[Time|time]].
+
+“Bitter poor, my deary,” replied the old woman.
+
+She admired her daughter, and was afraid of her. Perhaps her
+admiration, such as it was, had originated long ago, when she first
+found anything that was beautiful appearing in the midst of the squalid
+fight of her existence. Perhaps her [[Fear|fear]] was referable, in some sort,
+to the retrospect she had so lately heard. Be this as it might, she
+stood, submissively and deferentially, before her [[Child|child]], and inclined
+her head, as if in a pitiful entreaty to be spared any further
+reproach.
+
+“How have you lived?”
+
+“By begging, my deary.
+
+“And pilfering, mother?”
+
+“Sometimes, Ally—in a very small way. I am old and timid. I have taken
+trifles from children now and then, my deary, but not often. I have
+tramped about the country, pet, and I know what I know. I have
+watched.”
+
+“Watched?” returned the daughter, looking at her.
+
+“I have hung about a family, my deary,” said the mother, even more
+humbly and submissively than before.
+
+“What family?”
+
+“Hush, darling. Don’t be angry with me. I did it for the [[Love|love]] of you.
+In [[Memory|memory]] of my poor gal beyond seas.” She put out her hand
+deprecatingly, and drawing it back again, laid it on her lips.
+
+“Years ago, my deary,” she pursued, glancing timidly at the attentive
+and stern face opposed to her, “I came across his little [[Child|child]], by
+chance.”
+
+“Whose [[Child|child]]?”
+
+“Not his, Alice deary; don’t look at me like that; not his. How could
+it be his? You know he has none.”
+
+“Whose then?” returned the daughter. “You said his.”
+
+“Hush, Ally; you frighten me, deary. Mr Dombey’s—only Mr Dombey’s.
+Since then, darling, I have seen them often. I have seen _him_.”
+
+In uttering this last word, the old woman shrunk and recoiled, as if
+with sudden [[Fear|fear]] that her daughter would strike her. But though the
+daughter’s face was fixed upon her, and expressed the most vehement
+passion, she remained still: except that she clenched her arms tighter
+and tighter within each other, on her bosom, as if to restrain them by
+that means from doing an injury to herself, or someone else, in the
+blind fury of the wrath that suddenly possessed her.
+
+“Little he thought who I was!” said the old woman, shaking her clenched
+hand.
+
+“And little he cared!” muttered her daughter, between her teeth.
+
+“But there we were, said the old woman, “face to face. I spoke to him,
+and he spoke to me. I sat and watched him as he went away down a long
+grove of trees: and at every step he took, I cursed him [[Soul|soul]] and [[Body|body]].”
+
+“He will thrive in spite of that,” returned the daughter disdainfully.
+
+“Ay, he is thriving,” said the mother.
+
+She held her peace; for the face and form before her were unshaped by
+rage. It seemed as if the bosom would burst with the emotions that
+strove within it. The effort that constrained and held it pent up, was
+no less formidable than the rage itself: no less bespeaking the violent
+and dangerous character of the woman who made it. But it succeeded, and
+she asked, after a [[Silence|silence]]:
+
+“Is he married?”
+
+“No, deary,” said the mother.
+
+“Going to be?”
+
+“Not that I know of, deary. But his master and friend is married. Oh,
+we may give him joy! We may give ’em all joy!” cried the old woman,
+hugging herself with her lean arms in her exultation. “Nothing but joy
+to us will come of that [[Marriage|marriage]]. Mind me!”
+
+The daughter looked at her for an explanation.
+
+“But you are wet and tired; hungry and thirsty,” said the old woman,
+hobbling to the cupboard; “and there’s little here, and little”—diving
+down into her pocket, and jingling a few half—pence on the
+table—“little here. Have you any money, Alice, deary?”
+
+The covetous, sharp, eager face, with which she asked the question and
+looked on, as her daughter took out of her bosom the little gift she
+had so lately received, told almost as much of the [[history]] of this
+parent and [[Child|child]] as the [[Child|child]] herself had told in words.
+
+“Is that all?” said the mother.
+
+“I have no more. I should not have this, but for [[Charity|charity]].”
+
+“But for [[Charity|charity]], eh, deary?” said the old woman, bending greedily over
+the table to look at the money, which she appeared distrustful of her
+daughter’s still retaining in her hand, and gazing on. “Humph! six and
+six is twelve, and six eighteen—so—we must make the most of it. I’ll go
+buy something to eat and drink.”
+
+With greater alacrity than might have been expected in one of her
+appearance—for age and misery seemed to have made her as decrepit as
+ugly—she began to occupy her trembling hands in tying an old bonnet on
+her head, and folding a torn shawl about herself: still eyeing the
+money in her daughter’s hand, with the same sharp [[Desire|desire]].
+
+“What joy is to come to us of this [[Marriage|marriage]], mother?” asked the
+daughter. “You have not told me that.”
+
+“The joy,” she replied, attiring herself, with fumbling fingers, “of no
+[[Love|love]] at all, and much [[Pride|pride]] and hate, my deary. The joy of confusion
+and strife among ’em, proud as they are, and of danger—danger, Alice!”
+
+“What danger?”
+
+“I have seen what I have seen. I know what I know!” chuckled the
+mother. “Let some look to it. Let some be upon their guard. My gal may
+keep good company yet!”
+
+Then, seeing that in the wondering earnestness with which her daughter
+regarded her, her hand involuntarily closed upon the money, the old
+woman made more [[Speed|speed]] to secure it, and hurriedly added, “but I’ll go
+buy something; I’ll go buy something.”
+
+As she stood with her hand stretched out before her daughter, her
+daughter, glancing again at the money, put it to her lips before
+parting with it.
+
+“What, Ally! Do you kiss it?” chuckled the old woman. “That’s like me—I
+often do. Oh, it’s so good to us!” squeezing her own tarnished
+halfpence up to her bag of a throat, “so good to us in everything but
+not coming in heaps!”
+
+“I kiss it, mother,” said the daughter, “or I did then—I don’t know
+that I ever did before—for the giver’s sake.”
+
+“The giver, eh, deary?” retorted the old woman, whose dimmed eyes
+glistened as she took it. “Ay! I’ll kiss it for the giver’s sake, too,
+when the giver can make it go farther. But I’ll go spend it, deary.
+I’ll be back directly.”
+
+“You seem to say you know a great deal, mother,” said the daughter,
+following her to the door with her eyes. “You have grown very wise
+since we parted.”
+
+“Know!” croaked the old woman, coming back a step or two, “I know more
+than you think I know more than he thinks, deary, as I’ll tell you by
+and bye. I know all.”
+
+The daughter smiled incredulously.
+
+“I know of his brother, Alice,” said the old woman, stretching out her
+neck with a leer of malice absolutely frightful, “who might have been
+where you have been—for stealing money—and who lives with his sister,
+over yonder, by the north [[Road|road]] out of [[London]].”
+
+“Where?”
+
+“By the north [[Road|road]] out of [[London]], deary. You shall see the [[house]] if you
+like. It ain’t much to boast of, genteel as his own is. No, no, no,”
+cried the old woman, shaking her head and laughing; for her daughter
+had started up, “not now; it’s too far off; it’s by the milestone,
+where the stones are heaped;—to-morrow, deary, if it’s fine, and you
+are in the [[Humour|humour]]. But I’ll go spend—”
+
+“Stop!” and the daughter flung herself upon her, with her former
+passion raging like a [[Fire|fire]]. “The sister is a fair-faced Devil, with
+brown hair?”
+
+The old woman, amazed and terrified, nodded her head.
+
+“I see the [[Shadow|shadow]] of him in her face! It’s a red [[house]] standing by
+itself. Before the door there is a small green porch.”
+
+Again the old woman nodded.
+
+“In which I sat today! Give me back the money.”
+
+“Alice! Deary!”
+
+“Give me back the money, or you’ll be hurt.”
+
+She forced it from the old woman’s hand as she spoke, and utterly
+indifferent to her complainings and entreaties, threw on the garments
+she had taken off, and hurried out, with headlong [[Speed|speed]].
+
+The mother followed, limping after her as she could, and expostulating
+with no more effect upon her than upon the [[Wind|wind]] and rain and darkness
+that encompassed them. Obdurate and fierce in her own purpose, and
+indifferent to all besides, the daughter defied the weather and the
+distance, as if she had known no travel or fatigue, and made for the
+[[house]] where she had been relieved. After some quarter of an hour’s
+walking, the old woman, spent and out of breath, ventured to hold by
+her skirts; but she ventured no more, and they travelled on in [[Silence|silence]]
+through the wet and gloom. If the mother now and then uttered a word of
+complaint, she stifled it lest her daughter should break away from her
+and leave her behind; and the daughter was dumb.
+
+It was within an hour or so of midnight, when they left the regular
+streets behind them, and entered on the deeper gloom of that neutral
+ground where the [[house]] was situated. The town lay in the distance,
+lurid and lowering; the bleak [[Wind|wind]] howled over the open space; all
+around was black, wild, desolate.
+
+“This is a fit place for me!” said the daughter, stopping to look back.
+“I thought so, when I was here before, today.”
+
+“Alice, my deary,” cried the mother, pulling her gently by the skirt.
+“Alice!”
+
+“What now, mother?”
+
+“Don’t give the money back, my darling; please don’t. We can’t afford
+it. We want supper, deary. Money is money, whoever gives it. Say what
+you will, but keep the money.”
+
+“See there!” was all the daughter’s answer. “That is the [[house]] I mean.
+Is that it?”
+
+The old woman nodded in the affirmative; and a few more paces brought
+them to the threshold. There was the light of [[Fire|fire]] and candle in the
+room where Alice had sat to dry her clothes; and on her knocking at the
+door, John Carker appeared from that room.
+
+He was surprised to see such visitors at such an hour, and asked Alice
+what she wanted.
+
+“I want your sister,” she said. “The woman who gave me money today.”
+
+At the sound of her raised voice, Harriet came out.
+
+“Oh!” said Alice. “You are here! Do you remember me?”
+
+“Yes,” she answered, wondering.
+
+The face that had humbled itself before her, looked on her now with
+such invincible hatred and defiance; and the hand that had gently
+touched her arm, was clenched with such a show of evil purpose, as if
+it would gladly strangle her; that she drew close to her brother for
+protection.
+
+“That I could speak with you, and not know you! That I could come near
+you, and not feel what [[Blood|blood]] was running in your veins, by the tingling
+of my own!” said Alice, with a menacing gesture.
+
+“What do you mean? What have I done?”
+
+“Done!” returned the other. “You have sat me by your [[Fire|fire]]; you have
+given me food and money; you have bestowed your compassion on me! You!
+whose name I spit upon!”
+
+The old woman, with a malevolence that made her ugliness quite awful,
+shook her withered hand at the brother and sister in confirmation of
+her daughter, but plucked her by the skirts again, nevertheless,
+imploring her to keep the money.
+
+“If I dropped a tear upon your hand, may it wither it up! If I spoke a
+gentle word in your hearing, may it deafen you! If I touched you with
+my lips, may the touch be [[Poison|poison]] to you! A curse upon this roof that
+gave me shelter! Sorrow and shame upon your head! Ruin upon all
+belonging to you!”
+
+As she said the words, she threw the money down upon the ground, and
+spurned it with her foot.
+
+“I tread it in the [[Dust|dust]]: I wouldn’t take it if it paved my way to
+Heaven! I would the bleeding foot that brought me here today, had
+rotted off, before it led me to your [[house]]!”
+
+Harriet, pale and trembling, restrained her brother, and suffered her
+to go on uninterrupted.
+
+“It was [[Well|well]] that I should be pitied and forgiven by you, or anyone of
+your name, in the first hour of my return! It was [[Well|well]] that you should
+act the kind good lady to me! I’ll thank you when I die; I’ll pray for
+you, and all your race, you may be sure!”
+
+With a fierce action of her hand, as if she sprinkled hatred on the
+ground, and with it devoted those who were standing there to
+destruction, she looked up once at the black sky, and strode out into
+the wild [[Night|night]].
+
+The mother, who had plucked at her skirts again and again in vain, and
+had eyed the money lying on the threshold with an absorbing [[Greed|greed]] that
+seemed to concentrate her faculties upon it, would have prowled about,
+until the [[house]] was dark, and then groped in the mire on the chance of
+repossessing herself of it. But the daughter drew her away, and they
+set forth, straight, on their return to their dwelling; the old woman
+whimpering and bemoaning their loss upon the [[Road|road]], and fretfully
+bewailing, as openly as she dared, the undutiful conduct of her
+handsome girl in depriving her of a supper, on the very first [[Night|night]] of
+their reunion.
+
+Supperless to bed she went, saving for a few coarse fragments; and
+those she sat mumbling and munching over a scrap of [[Fire|fire]], long after
+her undutiful daughter lay asleep.
+
+Were this miserable mother, and this miserable daughter, only the
+reduction to their lowest grade, of certain social vices sometimes
+prevailing higher up? In this round world of many circles within
+circles, do we make a weary [[Journey|journey]] from the high grade to the low, to
+find at last that they lie close together, that the two extremes touch,
+and that our [[Journey|journey]]’s end is but our starting-place? Allowing for
+great difference of stuff and texture, was the pattern of this woof
+repeated among gentle [[Blood|blood]] at all?
+
+Say, Edith Dombey! And [[Cleopatra]], best of mothers, let us have your
+testimony!

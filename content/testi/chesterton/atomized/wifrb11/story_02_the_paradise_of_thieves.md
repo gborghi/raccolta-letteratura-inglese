@@ -1,5 +1,5 @@
 ---
-title: "[[wifrb11]] — The Paradise of Thieves"
+title: "wifrb11 — The Paradise of Thieves"
 author: "Chesterton"
 unitType: story
 parentWork: "works/wifrb11-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
                         The Paradise of Thieves
-
 
 THE great Muscari, most original of the young Tuscan poets,
 walked swiftly into his favourite restaurant, which overlooked
@@ -731,7 +730,5 @@ I am going to Manchester, Liverpool, Leeds, Hull, Huddersfield,
 Glasgow, Chicago--in short, to enlightened, energetic, civilized society!"
 
      "In short," said Muscari, "to the real Paradise of Thieves."
-
-
 
                                  THREE

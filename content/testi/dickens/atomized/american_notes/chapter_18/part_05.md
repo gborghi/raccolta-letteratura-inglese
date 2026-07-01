@@ -129,6 +129,3 @@ tags:
     ‘_This unfortunate affray_ caused considerable excitement in the
     neighbourhood, as both the parties were men with large families
     depending upon them and stood [[Well|well]] in the community.’
-
-I will quote but one more paragraph, which, by reason of its monstrous
-absurdity, may be a relief to these atrocious deeds.

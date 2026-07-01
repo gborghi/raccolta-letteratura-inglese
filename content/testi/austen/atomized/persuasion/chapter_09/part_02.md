@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 9 (part 2)"
+title: "Persuasion — Chapter 9 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_09/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_09/part_03">part 03 ›</a></div>
 </nav>
 
+
+has a right to make a choice that may be disagreeable and inconvenient
+
+to the _principal_ part of her family, and be giving bad connections to
 
 those who have not been used to them. And, pray, who is Charles Hayter?
 
@@ -201,15 +205,3 @@ who was lying on the sofa.
 
 
 The surprise of finding himself almost [[Alone|alone]] with [[Anne Elliot]], deprived
-
-his manners of their usual composure: he started, and could only say,
-
-“I thought the Miss Musgroves had been here: Mrs Musgrove told me I
-
-should find them here,” before he walked to the [[Window|window]] to recollect
-
-himself, and feel how he ought to behave.
-
-
-
-“They are up stairs with my sister: they will be down in a few moments,

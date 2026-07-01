@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 12: LIKING LIFE ON MY OWN ACCOUNT NO BETTER, I FORM A GREAT (part 3)"
+title: "David Copperfield — Chapter 12: LIKING LIFE ON MY OWN ACCOUNT NO BETTER, I FORM A GREAT (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -117,11 +117,3 @@ like a job.
 ‘To move a box,’ I answered.
 
 ‘Wot box?’ said the long-legged young man.
-
-I told him mine, which was down that street there, and which I wanted
-him to take to the Dover coach office for sixpence.
-
-‘Done with you for a tanner!’ said the long-legged young man, and
-directly got upon his cart, which was nothing but a large wooden tray on
-wheels, and rattled away at such a rate, that it was as much as I could
-do to keep pace with the [[donkey]].

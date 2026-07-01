@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 32 (part 2)"
+title: "Oliver Twist — Chapter 32 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -135,31 +135,3 @@ Sending the plate, which had so excited [[Fagin]]’s cupidity, to the
 banker’s; and leaving Giles and another servant in care of the [[house]],
 they departed to a cottage at some distance in the country, and took
 [[Oliver]] with them.
-
-Who can describe the pleasure and delight, the peace of mind and soft
-tranquillity, the sickly boy felt in the balmy air, and among the green
-hills and rich woods, of an inland village! Who can tell how scenes of
-peace and quietude sink into the minds of [[Pain|pain]]-worn dwellers in close
-and noisy places, and carry their own freshness, deep into their jaded
-hearts! Men who have lived in crowded, pent-up streets, through lives
-of toil, and who have never wished for change; men, to whom custom has
-indeed been second [[Nature|nature]], and who have come almost to [[Love|love]] each brick
-and stone that formed the narrow boundaries of their daily walks; even
-they, with the hand of [[Death|death]] upon them, have been known to yearn at
-last for one short glimpse of [[Nature]]’s face; and, carried far from the
-scenes of their old pains and pleasures, have seemed to pass at once
-into a new state of being. Crawling forth, from day to day, to some
-green sunny spot, they have had such memories wakened up within them by
-the sight of the sky, and [[Hill|hill]] and plain, and glistening [[Water|water]], that a
-foretaste of heaven itself has soothed their quick decline, and they
-have sunk into their tombs, as peacefully as the sun whose setting they
-watched from their lonely chamber [[Window|window]] but a few hours before, faded
-from their dim and feeble sight! The memories which peaceful country
-scenes call up, are not of this world, nor of its thoughts and hopes.
-Their gentle influence may teach us how to weave fresh garlands for the
-graves of those we loved: may purify our thoughts, and bear down before
-it old enmity and hatred; but beneath all this, there lingers, in the
-least reflective mind, a vague and half-formed consciousness of having
-held such feelings long before, in some remote and distant [[Time|time]], which
-calls up solemn thoughts of distant times to come, and bends down [[Pride|pride]]
-and worldliness beneath it.

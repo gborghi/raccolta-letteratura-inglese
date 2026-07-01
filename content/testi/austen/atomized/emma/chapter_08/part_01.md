@@ -1,5 +1,5 @@
 ---
-title: "[[Emma]] — Chapter 8 (part 1)"
+title: "Emma — Chapter 8 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/emma-(austen)"
@@ -139,7 +139,3 @@ allow much [[Time|time]] to pass before he spoke to the lady, and as he does not
 appear to have spoken yesterday, it is not unlikely that he should be
 at Mrs. Goddard’s to-day; and she may be detained by a visitor, without
 thinking him at all a tiresome wretch.”
-
-“Pray, Mr. Knightley,” said [[Emma]], who had been smiling to herself
-through a great part of this speech, “how do you know that Mr. Martin
-did not speak yesterday?”

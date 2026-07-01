@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity]] — The Curse of the Golden [[Cross]] (part 9)"
+title: "Incredulity — The Curse of the Golden Cross (part 9)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-(chesterton)"
@@ -17,28 +17,28 @@ tags:
 `By George!' said Tarrant; `I'm beginning to think there's something
 in what you say.  This is a queer story if it's true.'
 
-`When I realized that,' went on Father Brown, `I could manage
+`When I realized that,' went on [[Father Brown]], `I could manage
 more or less to guess the rest.  Remember, first of all,
 that there never was any responsible archaeological authority
 for anything more than investigation.  Poor old Walters was
 an honest antiquary, who was engaged in opening the tomb to find
-out if there was any [[Truth|truth]] in the legend about embalmed bodies.
+out if there was any truth in the legend about embalmed bodies.
 The rest was all rumour, of the sort that often anticipates
-or exaggerates such finds.  As a fact, he found the [[Body|body]]
-had not been embalmed, but had fallen into [[Dust|dust]] long ago.
+or exaggerates such finds.  As a fact, he found the body
+had not been embalmed, but had fallen into dust long ago.
 Only while he was working there by the light of his lonely
 candle in that sunken chapel, the candlelight threw another
-[[Shadow|shadow]] that was not his own.'
+shadow that was not his own.'
 
-`Ah!' cried Lady Diana with a catch in her breath; 'and I know
+`Ah!' cried Lady [[Diana]] with a catch in her breath; 'and I know
 what you mean now.  You mean to tell us we have met the murderer,
 talked and joked with the murderer, let him tell us a romantic tale,
 and let him depart untouched.'
 
 `Leaving his clerical disguise on a rock,' assented Brown.
-`It is all dreadfully simple.  This man got ahead of the Professor
+`It is all dreadfully simple.  This man got ahead of [[The Professor|the Professor]]
 in the race to the churchyard and chapel, possibly while
-the Professor was talking to that lugubrious journalist.
+[[The Professor|the Professor]] was talking to that lugubrious journalist.
 He came on the old clergyman beside the empty coffin and killed him.
 Then he dressed himself in the black clothes from the corpse,
 wrapped it in an old cope which had been among the real
@@ -51,14 +51,14 @@ politeness of a country clergyman.'
 `He ran a considerable risk,' objected Tarrant, `of somebody
 knowing Walters by sight.'
 
-`I admit he was half--mad,' agreed [[Father Brown]]; `and I think
+`I admit he was half--mad,' agreed Father Brown; `and I think
 you will admit that the risk was worth taking, for he has
 got off, after all.'
 
 `I'll admit he was very lucky,' growled Tarrant.
 `And who the devil was he?'
 
-`As you say, he was very lucky,' answered [[Father Brown]], `and not least
+`As you say, he was very lucky,' answered Father Brown, `and not least
 in that respect.  For that is the one thing we may never know.'
 He frowned at the table for a moment and then went on:
 `This fellow has been hovering round and threatening for years,
@@ -67,36 +67,36 @@ he was; and he has kept it still.  But if poor Smaill recovers,
 as I think he will, it is pretty safe to say that you will hear
 more of it.'
 
-`Why, what will Professor Smaill do, do you think?' asked Lady Diana.
+`Why, what will Professor Smaill do, do you think?' asked Lady [[Diana]].
 
 `I should think the first thing he would do,' said Tarrant, `would be
-to put the detectives on like dogs after this murdering devil.
+to put the detectives on like [[dogs]] after this murdering devil.
 I should like to have a go at him myself.'
 
-`[[Well]],' said [[Father Brown]], smiling suddenly after his long fit
+`Well,' said Father Brown, smiling suddenly after his long fit
 of frowning perplexity, `I think I know the very first thing
 he ought to do.'
 
-`And what is that?' asked Lady [[Diana]] with graceful eagerness.
+`And what is that?' asked Lady Diana with graceful eagerness.
 
-`He ought to apologize to all of you,' said Father Brown.
+`He ought to apologize to all of you,' said [[Father Brown]].
 
-It was not upon this point, however, that Father Brown found
+It was not upon this point, however, that [[Father Brown]] found
 himself talking to Professor Smaill as he sat by the bedside
 during the slow convalescence of that eminent archaeologist.
-Nor, indeed, was it chiefly Father Brown who did the talking;
-for though the Professor was limited to small doses
+Nor, indeed, was it chiefly [[Father Brown]] who did the talking;
+for though [[The Professor|the Professor]] was limited to small doses
 of the stimulant of conversation, he concentrated most
 of it upon these interviews with his clerical friend.
-Father Brown had a talent for being silent in an encouraging
+[[Father Brown]] had a talent for being silent in an encouraging
 way and Smaill was encouraged by it to talk about many strange
 things not always easy to talk about; such as the morbid phases
-of recovery and the monstrous dreams that often accompany delirium.
+of recovery and the monstrous [[Dreams|dreams]] that often accompany delirium.
 It is often rather an unbalancing business to recover slowly
 from a bad knock on the head; and when the head is as interesting
 a head as that of Professor Smaill even its disturbances
 and distortions are apt to be original and curious.
-His dreams were like bold and big designs rather out
+His [[Dreams|dreams]] were like bold and big designs rather out
 of drawing, as they can be seen in the strong but stiff
 archaic arts that he had studied; they were full of strange
 saints with square and triangular haloes, of golden out--
@@ -104,9 +104,9 @@ standing crowns and glories round dark and flattened faces,
 of eagles out of the east and the high headdresses of bearded
 men with their hair bound like women.  Only, as he told
 his friend, there was one much simpler and less entangled type,
-that continually recurred to his imaginative memory.
+that continually recurred to his imaginative [[Memory|memory]].
 Again and again all these Byzantine patterns would fade away
-like the fading gold on which they were traced as upon fire;
+like the fading gold on which they were traced as upon [[Fire|fire]];
 and nothing remained but the dark bare wall of rock
 on which the shining shape of the fish was traced as
 with a finger dipped in the phosphorescence of fishes.
@@ -118,9 +118,9 @@ passage the voice of his enemy.
 picture and the voice; and one that I never understood before.
 Why should I worry because one madman among a million
 of sane men, leagued in a great society against him,
-chooses to brag of persecuting me or pursuing me to death?
+chooses to brag of persecuting me or pursuing me to [[Death|death]]?
 The man who drew in the dark catacomb the secret symbol
-of Christ was persecuted in a very different fashion.
+of [[Christ]] was persecuted in a very different fashion.
 He was the solitary madman; the whole sane society
 was leagued together not to save but to slay him.
 I have sometimes fussed and fidgeted and wondered whether
@@ -140,7 +140,7 @@ What was it like to deal with murder on that scale?
 The world has forgotten these things, as until a little
 while ago it had forgotten war.'
 
-`Yes,' said [[Father Brown]], `but the war came.  The fish may be driven
+`Yes,' said Father Brown, `but the war came.  The fish may be driven
 underground again, but it will come up into the daylight once more.
 As St Antony of Padua humorously remarked, `It is only fishes
-who survive the [[deluge|Deluge]].'`
+who survive the Deluge.'`

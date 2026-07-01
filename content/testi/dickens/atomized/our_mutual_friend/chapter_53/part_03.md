@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 12 (part 3)"
+title: "Our Mutual Friend — Chapter 15 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,158 +10,131 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_53/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_54/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_53/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_53/part_04">part 04 ›</a></div>
 </nav>
 
 
-Dear Mr Fledgeby did sit down, and satisfied himself (or, judging from
-the expression of his countenance, DISsatisfied himself) that nothing
-new had occurred in the way of whisker-sprout since he came round the
-corner from the Albany.
+‘Noddy! My dear, dear Noddy! You sound so hard!’ cried poor Mrs Boffin,
+not to be quite repressed.
 
-‘Dear Mr Fledgeby, it was needless to mention to you that my poor dear
-Alfred is much worried about his affairs at present, for he has told me
-what a comfort you are to him in his temporary difficulties, and what a
-great service you have rendered him.’
+‘Old lady,’ said her husband, but without harshness, ‘if you cut in when
+requested not, I’ll get a pillow and carry you out of the room upon it.
+What do you want to say, you Rokesmith?’
 
-‘Oh!’ said Mr Fledgeby.
+‘To you, Mr Boffin, nothing. But to Miss Wilfer and to your good kind
+wife, a word.’
 
-‘Yes,’ said Mrs Lammle.
+‘Out with it then,’ replied Mr Boffin, ‘and cut it short, for we’ve had
+enough of you.’
 
-‘I didn’t know,’ remarked Mr Fledgeby, trying a new part of his chair,
-‘but that Lammle might be reserved about his affairs.’
+‘I have borne,’ said the Secretary, in a low voice, ‘with my false
+position here, that I might not be separated from Miss Wilfer. To be
+near her, has been a recompense to me from day to day, even for the
+undeserved treatment I have had here, and for the degraded aspect in
+which she has often seen me. Since Miss Wilfer rejected me, I have never
+again urged my suit, to the best of my belief, with a spoken syllable or
+a look. But I have never changed in my devotion to her, except—if she
+will forgive my saying so—that it is deeper than it was, and better
+founded.’
 
-‘Not to me,’ said Mrs Lammle, with deep feeling.
+‘Now, mark this chap’s saying Miss Wilfer, when he means L.s.d.!’ cried
+Mr Boffin, with a cunning wink. ‘Now, mark this chap’s making Miss
+Wilfer stand for Pounds, Shillings, and Pence!’
 
-‘Oh, indeed?’ said Fledgeby.
+‘My feeling for Miss Wilfer,’ pursued the Secretary, without deigning to
+notice him, ‘is not one to be ashamed of. I avow it. I [[Love|love]] her. Let
+me go where I may when I presently leave this [[house]], I shall go into a
+blank life, leaving her.’
 
-‘Not to me, dear Mr Fledgeby. I am his wife.’
+‘Leaving L.s.d. behind me,’ said Mr Boffin, by way of commentary, with
+another wink.
 
-‘Yes. I—I always understood so,’ said Mr Fledgeby.
+‘That I am incapable,’ the Secretary went on, still without heeding him,
+‘of a mercenary project, or a mercenary thought, in connexion with Miss
+Wilfer, is nothing meritorious in me, because any prize that I could
+put before my fancy would sink into insignificance beside her. If
+the greatest wealth or the highest rank were hers, it would only be
+important in my sight as removing her still farther from me, and making
+me more hopeless, if that could be. Say,’ remarked the Secretary,
+looking full at his late master, ‘say that with a word she could strip
+Mr Boffin of his fortune and take possession of it, she would be of no
+greater worth in my eyes than she is.’
 
-‘And as the wife of Alfred, may I, dear Mr Fledgeby, wholly without his
-authority or knowledge, as I am sure your discernment will perceive,
-entreat you to continue that great service, and once more use your
-[[Well|well]]-earned influence with Mr Riah for a little more indulgence? The
-name I have heard Alfred mention, tossing in his [[Dreams|dreams]], IS Riah; is it
-not?’
+‘What do you think by this [[Time|time]], old lady,’ asked Mr Boffin, turning to
+his wife in a bantering tone, ‘about this Rokesmith here, and his caring
+for the [[Truth|truth]]? You needn’t say what you think, my dear, because I don’t
+want you to cut in, but you can think it all the same. As to taking
+possession of my property, I warrant you he wouldn’t do that himself if
+he could.’
 
-‘The name of the Creditor is Riah,’ said Mr Fledgeby, with a rather
-uncompromising accent on his noun-substantive. ‘Saint Mary Axe. Pubsey
-and Co.’
+‘No,’ returned the Secretary, with another full look.
 
-‘Oh yes!’ exclaimed Mrs Lammle, clasping her hands with a certain
-gushing wildness. ‘Pubsey and Co.!’
+‘Ha, ha, ha!’ laughed Mr Boffin. ‘There’s nothing like a good ’un while
+you ARE about it.’
 
-‘The pleading of the feminine—’ Mr Fledgeby began, and there stuck so
-long for a word to get on with, that Mrs Lammle offered him sweetly,
-‘Heart?’
+‘I have been for a moment,’ said the Secretary, turning from him and
+falling into his former manner, ‘diverted from the little I have to say.
+My interest in Miss Wilfer began when I first saw her; even began when I
+had only heard of her. It was, in fact, the cause of my throwing myself
+in Mr Boffin’s way, and entering his service. Miss Wilfer has never
+known this until now. I mention it now, only as a corroboration (though
+I [[Hope|hope]] it may be needless) of my being free from the sordid design
+attributed to me.’
 
-‘No,’ said Mr Fledgeby, ‘Gender—is ever what a man is bound to listen
-to, and I wish it rested with myself. But this Riah is a nasty one, Mrs
-Lammle; he really is.’
+‘Now, this is a very artful dog,’ said Mr Boffin, with a deep look.
+‘This is a longer-headed schemer than I thought him. See how patiently
+and methodically he goes to work. He gets to know about me and my
+property, and about this young lady, and her share in poor young John’s
+story, and he puts this and that together, and he says to himself, “I’ll
+get in with Boffin, and I’ll get in with this young lady, and I’ll work
+’em both at the same [[Time|time]], and I’ll bring my pigs to market somewhere.”
+ I hear him say it, bless you! I look at him, now, and I see him say it!’
 
-‘Not if YOU speak to him, dear Mr Fledgeby.’
+Mr Boffin pointed at the culprit, as it were in the act, and hugged
+himself in his great penetration.
 
-‘Upon my [[Soul|soul]] and [[Body|body]] he is!’ said Fledgeby.
+‘But luckily he hadn’t to deal with the people he supposed, Bella, my
+dear!’ said Mr Boffin. ‘No! Luckily he had to deal with you, and with
+me, and with Daniel and Miss Dancer, and with Elwes, and with Vulture
+Hopkins, and with Blewbury [[Jones]] and all the rest of us, one down
+t’other come on. And he’s beat; that’s what he is; regularly beat. He
+thought to squeeze money out of us, and he has done for himself instead,
+Bella my dear!’
 
-‘Try. Try once more, dearest Mr Fledgeby. What is there you cannot do,
-if you will!’
+Bella my dear made no response, gave no sign of acquiescence. When she
+had first covered her face she had sunk upon a chair with her hands
+resting on the back of it, and had never moved since. There was a short
+[[Silence|silence]] at this point, and Mrs Boffin softly [[Rose|rose]] as if to go to her.
+But, Mr Boffin stopped her with a gesture, and she obediently sat down
+again and stayed where she was.
 
-‘Thank you,’ said Fledgeby, ‘you’re very complimentary to say so. I
-don’t mind trying him again, at your request. But of course I can’t
-answer for the consequences. Riah is a tough subject, and when he says
-he’ll do a thing, he’ll do it.’
+‘There’s your pay, Mister Rokesmith,’ said the Golden Dustman,
+jerking the folded scrap of paper he had in his hand, towards his late
+Secretary. ‘I dare say you can stoop to pick it up, after what you have
+stooped to here.’
 
-‘Exactly so,’ cried Mrs Lammle, ‘and when he says to you he’ll wait,
-he’ll wait.’
+‘I have stooped to nothing but this,’ Rokesmith answered as he took it
+from the ground; ‘and this is mine, for I have earned it by the hardest
+of hard labour.’
 
-(‘She is a devilish clever woman,’ thought Fledgeby. ‘I didn’t see that
-opening, but she spies it out and cuts into it as soon as it’s made.’)
+‘You’re a pretty quick packer, I [[Hope|hope]],’ said Mr Boffin; ‘because the
+sooner you are gone, bag and baggage, the better for all parties.’
 
-‘In point of fact, dear Mr Fledgeby,’ Mrs Lammle went on in a very
-interesting manner, ‘not to affect concealment of Alfred’s hopes, to you
-who are so much his friend, there is a distant break in his horizon.’
+‘You need have no [[Fear|fear]] of my lingering.’
 
-This figure of speech seemed rather mysterious to Fascination Fledgeby,
-who said, ‘There’s a what in his—eh?’
+‘There’s just one thing though,’ said Mr Boffin, ‘that I should like to
+ask you before we come to a good riddance, if it was only to show this
+young lady how conceited you schemers are, in thinking that nobody finds
+out how you contradict yourselves.’
 
-‘Alfred, dear Mr Fledgeby, discussed with me this very morning before he
-went out, some prospects he has, which might entirely change the aspect
-of his present troubles.’
+‘Ask me anything you wish to ask,’ returned Rokesmith, ‘but use the
+expedition that you recommend.’
 
-‘Really?’ said Fledgeby.
+‘You pretend to have a mighty admiration for this young lady?’ said Mr
+Boffin, laying his hand protectingly on Bella’s head without looking
+down at her.
 
-‘O yes!’ Here Mrs Lammle brought her handkerchief into play. ‘And you
-know, dear Mr Fledgeby—you who study the human heart, and study the
-world—what an affliction it would be to lose position and to lose
-credit, when ability to tide over a very short [[Time|time]] might save all
-appearances.’
+‘I do not pretend.’
 
-‘Oh!’ said Fledgeby. ‘Then you think, Mrs Lammle, that if Lammle
-got [[Time|time]], he wouldn’t burst up?—To use an expression,’ Mr Fledgeby
-apologetically explained, ‘which is adopted in the Money Market.’
-
-‘Indeed yes. Truly, truly, yes!’
-
-‘That makes all the difference,’ said Fledgeby. ‘I’ll make a point of
-seeing Riah at once.’
-
-‘Blessings on you, dearest Mr Fledgeby!’
-
-‘Not at all,’ said Fledgeby. She gave him her hand. ‘The hand,’ said Mr
-Fledgeby, ‘of a lovely and superior-minded female is ever the repayment
-of a—’
-
-‘Noble action!’ said Mrs Lammle, extremely anxious to get rid of him.
-
-‘It wasn’t what I was going to say,’ returned Fledgeby, who never would,
-under any circumstances, accept a suggested expression, ‘but you’re very
-complimentary. May I imprint a—a one—upon it? Good morning!’
-
-‘I may depend upon your promptitude, dearest Mr Fledgeby?’
-
-Said Fledgeby, looking back at the door and respectfully kissing his
-hand, ‘You may depend upon it.’
-
-In fact, Mr Fledgeby sped on his errand of [[Mercy|mercy]] through the streets,
-at so brisk a rate that his feet might have been winged by all the good
-spirits that wait on Generosity. They might have taken up their station
-in his breast, too, for he was blithe and merry. There was quite a fresh
-trill in his voice, when, arriving at the counting-[[house]] in St Mary Axe,
-and finding it for the moment empty, he trolled forth at the foot of the
-staircase: ‘Now, Judah, what are you up to there?’
-
-The old man appeared, with his accustomed deference.
-
-‘Halloa!’ said Fledgeby, falling back, with a wink. ‘You mean mischief,
-Jerusalem!’
-
-The old man raised his eyes inquiringly.
-
-‘Yes you do,’ said Fledgeby. ‘Oh, you sinner! Oh, you dodger! What!
-You’re going to act upon that bill of sale at Lammle’s, are you? Nothing
-will turn you, won’t it? You won’t be put off for another single minute,
-won’t you?’
-
-Ordered to immediate action by the master’s tone and look, the old man
-took up his hat from the little counter where it lay.
-
-‘You have been told that he might pull through it, if you didn’t go in
-to win, Wide-Awake; have you?’ said Fledgeby. ‘And it’s not your game
-that he should pull through it; ain’t it? You having got security, and
-there being enough to pay you? Oh, you Jew!’
-
-The old man stood irresolute and uncertain for a moment, as if there
-might be further instructions for him in reserve.
-
-‘Do I go, sir?’ he at length asked in a low voice.
-
-‘Asks me if he is going!’ exclaimed Fledgeby. ‘Asks me, as if he didn’t
-know his own purpose! Asks me, as if he hadn’t got his hat on ready!
-Asks me, as if his sharp old eye—why, it cuts like a knife—wasn’t
-looking at his walking-stick by the door!’
-
-‘Do I go, sir?’
-
-‘Do you go?’ sneered Fledgeby. ‘Yes, you do go. Toddle, Judah!’
+‘Oh! [[Well]]. You HAVE a mighty admiration for this young lady—since you
+are so particular?’

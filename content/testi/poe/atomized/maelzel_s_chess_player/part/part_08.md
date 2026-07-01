@@ -1,5 +1,5 @@
 ---
-title: "[[Maelzel's Chess-Player]] (part 8)"
+title: "Maelzel's Chess-Player (part 8)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/maelzel's-chess-player-(poe)"
@@ -13,6 +13,30 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/maelzel_s_chess_player/part/part_07">‹ part 07</a><a class="ex-next" href="/testi/poe/atomized/maelzel_s_chess_player/part/part_09">part 09 ›</a></div>
 </nav>
 
+
+      that is to say while the whole [[Machine|machine]] was moving on the castors,
+
+      it appeared to us that certain portions of the mechanism changed
+
+      their shape and position in a degree too great to be accounted
+
+      for by the simple laws of perspective; and subsequent
+
+      examinations convinced us that these undue alterations were
+
+      attributable to mirrors in the interior of the trunk. The
+
+      introduction of mirrors among the machinery could not have been
+
+      intended to influence, in any degree, the machinery itself. Their
+
+      operation, whatever that operation should prove to be, must
+
+      necessarily have reference to the eye of the spectator. We at
+
+      once concluded that these mirrors were so placed to multiply to
+
+      the vision some few pieces of machinery within the trunk so as to
 
       give it the appearance of being crowded with mechanism. Now the
 
@@ -165,35 +189,3 @@ tags:
       more direct testimony of words—the inference is, that a
 
       consciousness of its not being a pure [[Machine|machine]], is the reason of
-
-      his [[Silence|silence]]—his actions cannot implicate him in a falsehood—his
-
-      words may.
-
-
-
-      9. When, in exhibiting the interior of the box, Maelzel has
-
-      thrown open the door No. I, and also the door immediately behind
-
-      it, he holds a lighted candle at the back door (as mentioned
-
-      above) and moves the entire [[Machine|machine]] to and fro with a view of
-
-      convincing the company that the cupboard No. 1 is entirely filled
-
-      with machinery. When the [[Machine|machine]] is thus moved about, it will be
-
-      apparent to any careful observer, that whereas that portion of
-
-      the machinery near the front door No. 1, is perfectly steady and
-
-      unwavering, the portion farther within fluctuates, in a very
-
-      slight degree, with the movements of the [[Machine|machine]]. This
-
-      circumstance first aroused in us the suspicion that the more
-
-      remote portion of the machinery was so arranged as to be easily
-
-      slipped, _en masse, _from its position when occasion should

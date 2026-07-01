@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 19 (part 2)"
+title: "The Professor — Chapter 19 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_professor/chapter_20/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/the_professor/chapter_20/part_03">part 03 ›</a></div>
 </nav>
 
+
+and a note in English.
+
+“MONSIEUR,
+
+“I came to Mdlle. Reuter’s [[house]] yesterday, at the [[Time|time]] when I knew you
+
+would be just about finishing your lesson, and I asked if I might go
+
+into the schoolroom and speak to you. Mdlle. Reuter came out and said
 
 you were already gone; it had not yet struck four, so I thought she must
 
@@ -54,21 +64,13 @@ distresses. What claim have I on your sympathy? None; I will then say no
 
 more.
 
-
-
 “Farewell, Monsieur.
 
-
-
 “F. E. HENRI.”
-
-
 
 I put up the note in my pocket-book. I slipped the five-franc pieces
 
 into my purse--then I took a turn through my narrow chamber.
-
-
 
 “Mdlle. Reuter talked about her [[Poverty|poverty]],” said I, “and she is poor;
 
@@ -118,41 +120,25 @@ up the small, taper fingers over them--so--and compelled her shame, her
 
 where is she? How can I get at her?”
 
-
-
 Opening my chamber door I walked down into the kitchen.
-
-
 
 “Who brought the packet?” I asked of the servant who had delivered it to
 
 me.
 
-
-
 “Un petit commissionaire, monsieur.”
-
-
 
 “Did he say anything?”
 
-
-
 “Rien.”
-
-
 
 And I wended my way up the back-stairs, wondrously the wiser for my
 
 inquiries.
 
-
-
 “No matter,” said I to myself, as I again closed the door. “No
 
 matter--I’ll seek her through Brussels.”
-
-
 
 And I did. I sought her day by day whenever I had a moment’s leisure,
 
@@ -192,8 +178,6 @@ of brow and a large, dark, and serious eye, with a fine but decided line
 
 of eyebrow traced above.
 
-
-
 “She has probably left Brussels--perhaps is gone to England, as she
 
 said she would,” muttered I inwardly, as on the afternoon of the fourth
@@ -215,13 +199,3 @@ satin, of the large unbecoming collars in expensive lace; of the ill-cut
 coats and strangely fashioned pantaloons which every [[Sunday]], at the
 
 English service, filled the choirs of the chapel-royal, and after it,
-
-issuing forth into the square, came into disadvantageous contrast with
-
-freshly and trimly attired foreign figures, hastening to attend salut
-
-at the church of Coburg.) I had passed these pairs of Britons, and
-
-the groups of pretty British children, and the British footmen and
-
-waiting-maids; I had crossed the Place Royale, and got into the Rue

@@ -14,6 +14,22 @@ tags:
 </nav>
 
 
+But this is a parenthesis; and one perhaps slightly lacking in
+prosaic actuality.  Whatever may be the value of the above speculations,
+the phrase about the [[Moon|moon]] and green [[cheese]] remains a good example
+of this imagery of eating and drinking on a large scale.
+The same huge fancy is in the phrase "if all the trees were bread
+and [[cheese]]," which I have cited elsewhere in this connection;
+and in that noble [[nightmare]] of a Scandinavian legend,
+in which Thor drinks the deep sea nearly dry out of a horn.
+In an [[Essay|essay]] like the present (first intended as a paper to be read
+before the Royal Society) one cannot be too exact; and I will concede
+that my theory of the gradual vire-scence of our satellite is to be
+regarded rather as an alternative theory than as a law finally
+demonstrated and universally accepted by the scientific world.
+It is a hypothesis that holds the field, as the scientists say
+of a theory when there is no evidence for it so far.
+
 But the reader need be under no apprehension that I have suddenly
 gone mad, and shall start biting large pieces out of the trunks
 of trees; or seriously altering (by large semicircular mouthfuls)
@@ -106,22 +122,3 @@ He was the incarnation and the exaggeration of a certain spirit
 which is the common spirit of boys, but which nowhere else became
 so obvious and outrageous.  And because he was an incarnation he was,
 in his way, a [[Tragedy|tragedy]].
-
-* * * * *
-
-I will call him Simmons.  He was a tall, healthy figure, strong, but a
-little slouching, and there was in his walk something between a slight
-swagger and a seaman's roll; he commonly had his hands in his pockets.
-His hair was dark, straight, and undistinguished; and his face,
-if one saw it after his figure, was something of a surprise.
-For while the form might be called big and braggart, the face
-might have been called weak, and was certainly worried.  It was a
-hesitating face, which seemed to blink doubtfully in the daylight.
-He had even the look of one who has received a buffet that
-he cannot return.  In all occupations he was the average boy;
-just sufficiently good at sports, just sufficiently bad at work
-to be universally satisfactory.  But he was prominent in nothing,
-for prominence was to him a thing like bodily [[Pain|pain]].  He could not endure,
-without discomfort amounting to desperation, that any boy should
-be noticed or sensationally separated from the long line of boys;
-for him, to be distinguished was to be disgraced.

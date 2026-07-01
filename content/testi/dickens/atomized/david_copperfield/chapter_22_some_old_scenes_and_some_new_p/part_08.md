@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE (part 8)"
+title: "David Copperfield — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE (part 8)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,27 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_22_some_old_scenes_and_some_new_p/part_07">‹ part 07</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_23_i_corroborate_mr_dick_and_choo/part_01">part 01 ›</a></div>
 </nav>
 
+
+I shook him warmly by the hand when he had put it away again--for that
+was more satisfactory to me than saying anything--and we walked up
+and down, for a minute or two, in [[Silence|silence]]. The door opened then, and
+Peggotty appeared, beckoning to Ham to come in. I would have kept away,
+but she came after me, entreating me to come in too. Even then, I
+would have avoided the room where they all were, but for its being the
+neat-tiled kitchen I have mentioned more than once. The door opening
+immediately into it, I found myself among them before I considered
+whither I was going.
+
+The girl--the same I had seen upon the sands--was near the [[Fire|fire]]. She
+was sitting on the ground, with her head and one arm lying on a chair.
+I fancied, from the disposition of her figure, that Em’ly had but newly
+risen from the chair, and that the forlorn head might perhaps have been
+lying on her lap. I saw but little of the girl’s face, over which her
+hair fell loose and scattered, as if she had been disordering it with
+her own hands; but I saw that she was young, and of a fair complexion.
+Peggotty had been crying. So had little Em’ly. Not a word was spoken
+when we first went in; and the Dutch [[Clock|clock]] by the dresser seemed, in the
+[[Silence|silence]], to tick twice as loud as usual. Em’ly spoke first.
 
 ‘Martha wants,’ she said to Ham, ‘to go to [[London]].’
 

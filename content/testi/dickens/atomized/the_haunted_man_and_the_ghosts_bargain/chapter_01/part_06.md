@@ -1,5 +1,5 @@
 ---
-title: "The Haunted Man and the [[Ghost]]'s Bargain — Chapter 1 (part 6)"
+title: "The Haunted Man and the Ghost's Bargain — Chapter 1 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-haunted-man-and-the-ghost's-bargain-(dickens)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_01/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_01/part_07">part 07 ›</a></div>
 </nav>
 
+
+The room turned darker and colder, and the gloom and [[Shadow|shadow]] gathering
+behind the chair was heavier.
+
+“Not content with this, sir, Mrs. William goes and finds, this very
+[[Night|night]], when she was coming [[Home|home]] (why it’s not above a couple of hours
+ago), a creature more like a young wild beast than a young [[Child|child]],
+shivering upon a door-step. What does Mrs. William do, but brings it
+[[Home|home]] to dry it, and feed it, and keep it till our old Bounty of food and
+flannel is given away, on Christmas morning! If it ever felt a [[Fire|fire]]
+before, it’s as much as ever it did; for it’s sitting in the old Lodge
+chimney, staring at ours as if its ravenous eyes would never shut again.
+It’s sitting there, at least,” said Mr. William, correcting himself, on
+reflection, “unless it’s bolted!”
 
 “Heaven keep her happy!” said the Chemist aloud, “and you too, Philip!
 and you, William! I must consider what to do in this. I may [[Desire|desire]] to
@@ -121,36 +135,3 @@ The [[Phantom]], with an evil smile, drew closer to the chair, and resting
 its chin upon its folded hands, its folded hands upon the back, and
 looking down into his face with searching eyes, that seemed instinct with
 [[Fire|fire]], went on:
-
-“Such glimpses of the light of [[Home|home]] as I had ever known, had streamed
-from her. How young she was, how fair, how loving! I took her to the
-first poor roof that I was master of, and made it rich. She came into
-the darkness of my life, and made it bright.—She is before me!”
-
-“I saw her, in the [[Fire|fire]], but now. I hear her in music, in the [[Wind|wind]], in
-the dead stillness of the [[Night|night]],” returned the haunted man.
-
-“_Did_ he [[Love|love]] her?” said the [[Phantom]], echoing his contemplative tone.
-“I think he did, once. I am sure he did. Better had she loved him
-less—less secretly, less dearly, from the shallower depths of a more
-divided heart!”
-
-“Let me forget it!” said the Chemist, with an angry motion of his hand.
-“Let me blot it from my [[Memory|memory]]!”
-
-The Spectre, without stirring, and with its unwinking, cruel eyes still
-fixed upon his face, went on:
-
-“[[A Dream|A dream]], like hers, stole upon my own life.”
-
-“It did,” said Redlaw.
-
-“A [[Love|love]], as like hers,” pursued the [[Phantom]], “as my inferior [[Nature|nature]] might
-cherish, arose in my own heart. I was too poor to bind its object to my
-fortune then, by any thread of promise or entreaty. I loved her far too
-[[Well|well]], to seek to do it. But, more than ever I had striven in my life, I
-strove to climb! Only an inch gained, brought me something nearer to the
-height. I toiled up! In the late pauses of my labour at that [[Time|time]],—my
-sister (sweet companion!) still sharing with me the expiring embers and
-the cooling hearth,—when day was breaking, what pictures of the future
-did I see!”

@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 9"
+title: "Wuthering Heights — Chapter 9"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/wuthering-heights-(bronte)"
@@ -67,7 +67,7 @@ forgetting what he had in his hands. “Who is that?” he asked, hearing
 some one approaching the stairs’-foot. I leant forward also, for the
 purpose of signing to [[Heathcliff]], whose step I recognised, not to come
 further; and, at the instant when my eye quitted Hareton, he gave a
-sudden [[spring]], delivered himself from the careless grasp that held him,
+sudden [[Spring|spring]], delivered himself from the careless grasp that held him,
 and fell.
 
 There was scarcely [[Time|time]] to experience a thrill of horror before we saw
@@ -448,7 +448,7 @@ would have affected him. She was absent such a while that Joseph
 proposed we should wait no longer. He cunningly conjectured they were
 staying away in order to avoid hearing his protracted blessing. They
 were “ill eneugh for ony fahl manners,” he affirmed. And on their
-behalf he added that [[Night|night]] a special [[Prayer|prayer]] to the usual
+behalf he added that [[Night|night]] a special [[prayer]] to the usual
 quarter-of-an-hour’s supplication before meat, and would have tacked
 another to the end of the grace, had not his young mistress broken in
 upon him with a hurried command that he must run down the [[Road|road]], and,

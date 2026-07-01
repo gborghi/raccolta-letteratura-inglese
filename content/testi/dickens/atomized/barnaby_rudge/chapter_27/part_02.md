@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 27 (part 2)"
+title: "Barnaby Rudge — Chapter 27 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_27/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_27/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘Ah, Mrs Varden!’ cried the visitor. ‘Ah, ma’am--humanity is indeed a
+happy lot, when we can repeat ourselves in others, and still be young
+as they. You must allow me to salute you--the custom of the country, my
+dear madam--your daughter too.’
 
 Dolly showed some reluctance to perform this ceremony, but was sharply
 reproved by Mrs Varden, who insisted on her undergoing it that minute.

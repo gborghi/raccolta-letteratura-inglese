@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 35 (part 3)"
+title: "Nicholas Nickleby — Chapter 35 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_35/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_35/part_04">part 04 ›</a></div>
 </nav>
 
+
+Mr. Crummles occurred to him more than once; but although Kate was
+acquainted with the whole [[history]] of his connection with that gentleman,
+his mother was not; and he foresaw a thousand fretful objections, on
+her part, to his seeking a livelihood upon the stage. There were graver
+reasons, too, against his returning to that mode of life. Independently
+of those arising out of its spare and precarious earnings, and his own
+internal conviction that he could never [[Hope|hope]] to aspire to any great
+distinction, even as a provincial actor, how could he carry his sister
+from town to town, and place to place, and debar her from any other
+associates than those with whom he would be compelled, almost without
+distinction, to mingle? ‘It won’t do,’ said Nicholas, shaking his head;
+‘I must try something else.’
 
 It was much easier to make this resolution than to carry it into effect.
 With no greater experience of the world than he had acquired for himself
@@ -102,25 +115,3 @@ in the manner, that Nicholas was emboldened to speak again.
 
 ‘A great many opportunities here, sir,’ he said, half smiling as he
 motioned towards the [[Window|window]].
-
-‘A great many people willing and anxious to be employed have seriously
-thought so very often, I dare say,’ replied the old man. ‘Poor fellows,
-poor fellows!’
-
-He moved away as he said this; but seeing that Nicholas was about to
-speak, good-naturedly slackened his pace, as if he were unwilling to
-cut him short. After a little of that hesitation which may be sometimes
-observed between two people in the street who have exchanged a nod,
-and are both uncertain whether they shall turn back and speak, or not,
-Nicholas found himself at the old man’s side.
-
-‘You were about to speak, young gentleman; what were you going to say?’
-
-‘Merely that I almost hoped--I mean to say, thought--you had some object
-in consulting those advertisements,’ said Nicholas.
-
-‘Ay, ay? what object now--what object?’ returned the old man, looking
-slyly at Nicholas. ‘Did you think I wanted a situation now--eh? Did you
-think I did?’
-
-Nicholas shook his head.

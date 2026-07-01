@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 11 (part 3)"
+title: "Our Mutual Friend — Chapter 12 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,111 +14,149 @@ tags:
 </nav>
 
 
-‘And ozer countries?—’ the foreign gentleman was beginning, when Mr
-Podsnap put him right again.
+‘Will you have another?’
 
-‘We do not say Ozer; we say Other: the letters are “T” and “H;” You say
-Tay and Aish, You Know; (still with clemency). The sound is “th”—“th!”’
+‘Yes, I will,’ he repeated, ‘and I don’t deceive you, Governors.’ And
+also repeated the other proceedings.
 
-‘And OTHER countries,’ said the foreign gentleman. ‘They do how?’
+‘Now,’ began Lightwood, ‘what’s your name?’
 
-‘They do, Sir,’ returned Mr Podsnap, gravely shaking his head; ‘they
-do—I am sorry to be obliged to say it—AS they do.’
+‘Why, there you’re rather fast, Lawyer Lightwood,’ he replied, in a
+remonstrant manner. ‘Don’t you see, Lawyer Lightwood? There you’re a
+little bit fast. I’m going to earn from five to ten thousand pound by
+the sweat of my brow; and as a poor man doing justice to the sweat of my
+brow, is it likely I can afford to part with so much as my name without
+its being took down?’
 
-‘It was a little particular of [[Providence]],’ said the foreign gentleman,
-laughing; ‘for the frontier is not large.’
+Deferring to the man’s sense of the binding powers of pen and ink and
+paper, Lightwood nodded acceptance of Eugene’s nodded proposal to take
+those spells in hand. Eugene, bringing them to the table, sat down as
+clerk or notary.
 
-‘Undoubtedly,’ assented Mr Podsnap; ‘But So it is. It was the Charter
-of the Land. This Island was Blest, Sir, to the Direct Exclusion of
-such Other Countries as—as there may happen to be. And if we were all
-Englishmen present, I would say,’ added Mr Podsnap, looking round upon
-his compatriots, and sounding solemnly with his theme, ‘that there is in
-the Englishman a combination of qualities, a modesty, an independence,
-a responsibility, a repose, combined with an absence of everything
-calculated to call a blush into the cheek of a young person, which one
-would seek in vain among the Nations of the Earth.’
+‘Now,’ said Lightwood, ‘what’s your name?’
 
-Having delivered this little summary, Mr Podsnap’s face flushed, as he
-thought of the remote possibility of its being at all qualified by
-any prejudiced citizen of any other country; and, with his favourite
-right-arm flourish, he put the rest of Europe and the whole of Asia,
-Africa, and [[america|America]] nowhere.
+But further precaution was still due to the sweat of this honest
+fellow’s brow.
 
-The audience were much edified by this passage of words; and Mr Podsnap,
-feeling that he was in rather remarkable force to-day, became smiling
-and conversational.
+‘I should wish, Lawyer Lightwood,’ he stipulated, ‘to have that T’other
+Governor as my witness that what I said I said. Consequent, will the
+T’other Governor be so good as chuck me his name and where he lives?’
 
-‘Has anything more been heard, Veneering,’ he inquired, ‘of the lucky
-legatee?’
+Eugene, cigar in mouth and pen in hand, tossed him his card. After
+spelling it out slowly, the man made it into a little roll, and tied it
+up in an end of his neckerchief still more slowly.
 
-‘Nothing more,’ returned Veneering, ‘than that he has come into
-possession of the property. I am told people now call him The Golden
-Dustman. I mentioned to you some [[Time|time]] ago, I think, that the young lady
-whose intended husband was murdered is daughter to a clerk of mine?’
+‘Now,’ said Lightwood, for the third [[Time|time]], ‘if you have quite completed
+your various preparations, my friend, and have fully ascertained that
+your spirits are cool and not in any way hurried, what’s your name?’
 
-‘Yes, you told me that,’ said Podsnap; ‘and by-the-bye, I wish you would
-tell it again here, for it’s a curious coincidence—curious that the
-first news of the discovery should have been brought straight to your
-table (when I was there), and curious that one of your people should
-have been so nearly interested in it. Just relate that, will you?’
+‘Roger Riderhood.’
 
-Veneering was more than ready to do it, for he had prospered exceedingly
-upon the Harmon Murder, and had turned the social distinction it
-conferred upon him to the account of making several dozen of bran-new
-bosom-friends. Indeed, such another lucky hit would almost have set him
-up in that way to his satisfaction. So, addressing himself to the most
-desirable of his neighbours, while Mrs Veneering secured the next most
-desirable, he plunged into the case, and emerged from it twenty minutes
-afterwards with a Bank Director in his arms. In the mean [[Time|time]], Mrs
-Veneering had dived into the same waters for a wealthy [[Ship]]-Broker, and
-had brought him up, safe and sound, by the hair. Then Mrs Veneering had
-to relate, to a larger circle, how she had been to see the girl, and how
-she was really pretty, and (considering her station) presentable.
-And this she did with such a successful display of her eight aquiline
-fingers and their encircling jewels, that she happily laid hold of a
-drifting General Officer, his wife and daughter, and not only restored
-their animation which had become suspended, but made them lively friends
-within an hour.
+‘Dwelling-place?’
 
-Although Mr Podsnap would in a general way have highly disapproved of
-Bodies in rivers as ineligible topics with reference to the cheek of the
-young person, he had, as one may say, a share in this affair which made
-him a part proprietor. As its returns were immediate, too, in the way
-of restraining the company from speechless contemplation of the
-wine-coolers, it paid, and he was satisfied.
+‘Lime’us Hole.’
 
-And now the haunch of mutton vapour-bath having received a gamey
-infusion, and a few last touches of sweets and coffee, was quite ready,
-and the bathers came; but not before the discreet automaton had got
-behind the bars of the piano music-desk, and there presented the
-appearance of a captive languishing in a [[Rose|rose]]-wood jail. And who now
-so pleasant or so [[Well|well]] assorted as Mr and Mrs Alfred Lammle, he all
-sparkle, she all gracious contentment, both at occasional intervals
-exchanging looks like partners at cards who played a game against All
-England.
+‘Calling or occupation?’
 
-There was not much youth among the bathers, but there was no youth
-(the young person always excepted) in the articles of Podsnappery. Bald
-bathers folded their arms and talked to Mr Podsnap on the hearthrug;
-sleek-whiskered bathers, with hats in their hands, lunged at Mrs Podsnap
-and retreated; prowling bathers, went about looking into ornamental
-boxes and bowls as if they had suspicions of larceny on the part of the
-Podsnaps, and expected to find something they had lost at the [[Bottom|bottom]];
-bathers of the gentler sex sat silently comparing ivory shoulders. All
-this [[Time|time]] and always, poor little Miss Podsnap, whose tiny efforts (if
-she had made any) were swallowed up in the magnificence of her mother’s
-rocking, kept herself as much out of sight and mind as she could,
-and appeared to be counting on many dismal returns of the day. It was
-somehow understood, as a secret article in the state proprieties of
-Podsnappery that nothing must be said about the day. Consequently this
-young [[Damsel|damsel]]’s nativity was hushed up and looked over, as if it were
-agreed on all hands that it would have been better that she had never
-been born.
+Not quite so glib with this answer as with the previous two, Mr
+Riderhood gave in the definition, ‘Waterside character.’
 
-The Lammles were so fond of the dear Veneerings that they could not for
-some [[Time|time]] detach themselves from those excellent friends; but at length,
-either a very open smile on Mr Lammle’s part, or a very secret elevation
-of one of his gingerous eyebrows—certainly the one or the other—seemed
-to say to Mrs Lammle, ‘Why don’t you play?’ And so, looking about her,
-she saw Miss Podsnap, and seeming to say responsively, ‘That card?’ and
-to be answered, ‘Yes,’ went and sat beside Miss Podsnap.
+‘Anything against you?’ Eugene quietly put in, as he wrote.
+
+Rather baulked, Mr Riderhood evasively remarked, with an [[Innocent|innocent]] air,
+that he believed the T’other Governor had asked him summa’t.
+
+‘Ever in trouble?’ said Eugene.
+
+‘Once.’ (Might happen to any man, Mr Riderhood added incidentally.)
+
+‘On suspicion of—’
+
+‘Of seaman’s pocket,’ said Mr Riderhood. ‘Whereby I was in reality the
+man’s best friend, and tried to take care of him.’
+
+‘With the sweat of your brow?’ asked Eugene.
+
+‘Till it poured down like rain,’ said Roger Riderhood.
+
+Eugene leaned back in his chair, and smoked with his eyes negligently
+turned on the informer, and his pen ready to reduce him to more writing.
+Lightwood also smoked, with his eyes negligently turned on the informer.
+
+‘Now let me be took down again,’ said Riderhood, when he had turned the
+drowned cap over and under, and had brushed it the wrong way (if it had
+a right way) with his sleeve. ‘I give information that the man that done
+the Harmon Murder is Gaffer Hexam, the man that found the [[Body|body]]. The hand
+of Jesse Hexam, commonly called Gaffer on the [[River|river]] and along shore, is
+the hand that done that deed. His hand and no other.’
+
+The two friends glanced at one another with more serious faces than they
+had shown yet.
+
+‘Tell us on what grounds you make this accusation,’ said Mortimer
+Lightwood.
+
+‘On the grounds,’ answered Riderhood, wiping his face with his sleeve,
+‘that I was Gaffer’s pardner, and suspected of him many a long day and
+many a dark [[Night|night]]. On the grounds that I knowed his ways. On the grounds
+that I broke the pardnership because I see the danger; which I warn you
+his daughter may tell you another story about that, for anythink I can
+say, but you know what it’ll be worth, for she’d tell you lies, the
+world round and the heavens broad, to save her father. On the grounds
+that it’s [[Well|well]] understood along the cause’ays and the stairs that he
+done it. On the grounds that he’s fell off from, because he done it. On
+the grounds that I will swear he done it. On the grounds that you may
+take me where you will, and get me sworn to it. I don’t want to back out
+of the consequences. I have made up MY mind. Take me anywheres.’
+
+‘All this is nothing,’ said Lightwood.
+
+‘Nothing?’ repeated Riderhood, indignantly and amazedly.
+
+‘Merely nothing. It goes to no more than that you suspect this man of
+the crime. You may do so with some reason, or you may do so with no
+reason, but he cannot be convicted on your suspicion.’
+
+‘Haven’t I said—I appeal to the T’other Governor as my witness—haven’t
+I said from the first minute that I opened my mouth in this here
+world-without-end-everlasting chair’ (he evidently used that form of
+words as next in force to an affidavit), ‘that I was willing to swear
+that he done it? Haven’t I said, Take me and get me sworn to it? Don’t I
+say so now? You won’t deny it, Lawyer Lightwood?’
+
+‘Surely not; but you only offer to swear to your suspicion, and I tell
+you it is not enough to swear to your suspicion.’
+
+‘Not enough, ain’t it, Lawyer Lightwood?’ he cautiously demanded.
+
+‘Positively not.’
+
+‘And did I say it WAS enough? Now, I appeal to the T’other Governor.
+Now, fair! Did I say so?’
+
+‘He certainly has not said that he had no more to tell,’ Eugene observed
+in a low voice without looking at him, ‘whatever he seemed to imply.’
+
+‘Hah!’ cried the informer, triumphantly perceiving that the remark was
+generally in his favour, though apparently not closely understanding it.
+‘Fort’nate for me I had a witness!’
+
+‘Go on, then,’ said Lightwood. ‘Say out what you have to say. No
+after-thought.’
+
+‘Let me be took down then!’ cried the informer, eagerly and anxiously.
+‘Let me be took down, for by George and the Draggin I’m a coming to it
+now! Don’t do nothing to keep back from a honest man the fruits of the
+sweat of his brow! I give information, then, that he told me that he
+done it. Is THAT enough?’
+
+‘Take care what you say, my friend,’ returned Mortimer.
+
+‘Lawyer Lightwood, take care, you, what I say; for I judge you’ll be
+answerable for follering it up!’ Then, slowly and emphatically beating
+it all out with his open right hand on the palm of his left; ‘I,
+Roger Riderhood, Lime’us Hole, Waterside character, tell you, Lawyer
+Lightwood, that the man Jesse Hexam, commonly called upon the [[River|river]] and
+along-shore Gaffer, told me that he done the deed. What’s more, he told
+me with his own lips that he done the deed. What’s more, he said that he
+done the deed. And I’ll swear it!’

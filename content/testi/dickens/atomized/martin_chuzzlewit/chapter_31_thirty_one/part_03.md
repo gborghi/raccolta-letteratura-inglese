@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 31: THIRTY ONE (part 3)"
+title: "Martin Chuzzlewit — Chapter 31: THIRTY ONE (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -116,9 +116,3 @@ that; and though you might have hurt me, could have still gone on
 respecting you. But why did you ever fall so low as this in my esteem!
 Oh Pecksniff, Pecksniff, there is nothing I would not have given, to
 have had you deserve my old opinion of you; nothing!’
-
-Mr Pecksniff sat upon the hassock pulling up his shirt-collar, while
-Tom, touched to the quick, delivered this apostrophe. After a pause he
-heard Tom coming down the stairs, jingling the church keys; and bringing
-his eye to the top of the pew again, saw him go slowly out and lock the
-door.

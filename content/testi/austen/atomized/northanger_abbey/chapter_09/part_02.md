@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 8 (part 2)"
+title: "Northanger Abbey — Chapter 8 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_09/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_09/part_03">part 03 ›</a></div>
 </nav>
 
+
+him. This compliment, delightful as it was, produced severe
+
+mortification to the lady; and in giving her denial, she expressed her
 
 sorrow on the occasion so very much as if she really felt it, that had
 
@@ -211,13 +215,3 @@ partners.”
 
 
 “Upon my [[Honour|honour]],” said James, “in these public assemblies, it is as
-
-often done as not.”
-
-
-
-“Nonsense, how can you say so? But when you men have a point to carry,
-
-you never stick at anything. My sweet Catherine, do support me;
-
-persuade your brother how impossible it is. Tell him that it would

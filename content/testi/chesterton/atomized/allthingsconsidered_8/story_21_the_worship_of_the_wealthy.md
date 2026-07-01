@@ -1,5 +1,5 @@
 ---
-title: "[[AllThingsConsidered-8]] — THE WORSHIP OF THE WEALTHY"
+title: "AllThingsConsidered-8 — THE WORSHIP OF THE WEALTHY"
 author: "Chesterton"
 unitType: story
 parentWork: "works/allthingsconsidered-8-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 THE WORSHIP OF THE WEALTHY
-
 
 There has crept, I notice, into our literature and journalism
 a new way of flattering the wealthy and the great.  In more

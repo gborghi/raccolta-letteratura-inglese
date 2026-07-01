@@ -62,14 +62,14 @@ The word "omnibus" is a very noble word with a very noble meaning
 and even tradition.  It is derived from an ancient and adamantine
 tongue which has rolled it with very authoritative thunders:
 quod ubique, quod semper, quod ab omnibus.  It is a word
-really more human and universal than republic or [[Democracy|democracy]].
+really more human and universal than republic or [[democracy]].
 A man might very consistently build a temple for all the tribes
 of men, a temple of the largest pattern and the loveliest design,
 and then call it an omnibus.  It is true that the dignity of this
 description has really been somewhat diminished by the illogical habit
 of clipping the word down to the last and least important part of it.
 But that is only one of many modern examples in which real vulgarity
-is not in [[Democracy|democracy]], but rather in the loss of [[Democracy|democracy]].
+is not in [[democracy]], but rather in the loss of [[democracy]].
 It is about as democratic to call an omnibus a bus as it would
 be to call a democrat a rat.
 

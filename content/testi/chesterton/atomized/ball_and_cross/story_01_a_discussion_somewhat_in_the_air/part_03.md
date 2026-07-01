@@ -1,5 +1,5 @@
 ---
-title: "ball and [[Cross|cross]] — A Discussion Somewhat in the Air (part 3)"
+title: "ball and cross — A Discussion Somewhat in the Air (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/ball-and-cross-(chesterton)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ball_and_cross/story_01_a_discussion_somewhat_in_the_air/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/ball_and_cross/story_01_a_discussion_somewhat_in_the_air/part_04">part 04 ›</a></div>
 </nav>
 
+
+"What you say is perfectly true," said [[Michael]], with serenity.
+"But we like contradictions in terms.  Man is a contradiction
+in terms; he is a beast whose superiority to other beasts
+consists in having fallen.  That [[Cross|cross]] is, as you say,
+an eternal collision; so am I. That is a struggle in stone.
+Every form of life is a struggle in flesh.  The shape of the [[Cross|cross]]
+is irrational, just as the shape of the human animal is irrational.
+You say the [[Cross|cross]] is a quadruped with one limb longer than the rest.
+I say man is a quadruped who only uses two of his legs."
+
+[[The Professor]] frowned thoughtfully for an instant, and said:
+"Of course everything is relative, and I would not deny that
+the element of struggle and [[Self|self]]-contradiction, represented by
+that [[Cross|cross]], has a necessary place at a certain evolutionary stage.
+But surely the [[Cross|cross]] is the lower development and the sphere the higher.
+After all it is easy enough to see what is really wrong with
+Wren's architectural arrangement."
 
 "And what is that, pray?" inquired [[Michael]], meekly.
 
@@ -107,36 +125,3 @@ of the reeling car on to the upper part of the stone ball.
 [[Michael]], with as abrupt an agility, caught one of the beams of the [[Cross|cross]]
 and saved himself from falling.  At the same instant [[Lucifer]] drove
 down a lever and the [[Ship|ship]] shot up with him in it [[Alone|alone]].
-
-"Ha! ha!" he yelled, "what sort of a support do you find it, old fellow?"
-
-"For practical purposes of support," replied [[Michael]] grimly,
-"it is at any rate a great deal better than the ball.
-May I ask if you are going to leave me here?"
-
-"Yes, yes.  I mount!  I mount!" cried [[The Professor|the professor]] in
-ungovernable excitement.  "_Altiora peto_.  My path is upward."
-
-"How often have you told me, Professor, that there is really no
-up or down in space?" said the monk.  "I shall mount up as much
-as you will."
-
-"Indeed," said [[Lucifer]], leering over the side of the flying [[Ship|ship]].
-"May I ask what you are going to do?"
-
-The monk pointed downward at Ludgate [[Hill]].  "I am going," he said,
-"to climb up into a star."
-
-Those who look at the matter most superficially regard [[Paradox|paradox]]
-as something which belongs to jesting and light journalism.
-[[Paradox]] of this kind is to be found in the saying of the dandy, in the
-decadent [[Comedy|comedy]], "Life is much too important to be taken seriously."
-Those who look at the matter a little more deeply or delicately see
-that [[Paradox|paradox]] is a thing which especially belongs to all religions.
-[[Paradox]] of this kind is to be found in such a saying as "The meek
-shall inherit the earth."  But those who see and feel the fundamental
-fact of the matter know that [[Paradox|paradox]] is a thing which belongs not
-to religion only, but to all vivid and violent practical crises
-of human living.  This kind of [[Paradox|paradox]] may be clearly perceived
-by anybody who happens to be hanging in mid-space, clinging to one
-arm of the [[Cross]] of St. Paul's.

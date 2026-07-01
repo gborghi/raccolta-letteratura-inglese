@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 57 (part 3)"
+title: "Bleak House — Chapter 57 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_57/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_57/part_04">part 04 ›</a></div>
 </nav>
 
+
+I wondered how he knew that.
+
+“When you passed a man upon the [[Road|road]], just yonder, you know,” said
+Mr. Bucket.
 
 Yes, I remembered that too, very [[Well|well]].
 

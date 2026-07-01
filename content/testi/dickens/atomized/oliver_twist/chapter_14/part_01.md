@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 14 (part 1)"
+title: "Oliver Twist — Chapter 14 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -122,8 +122,3 @@ backs and covers are by far the best parts.”
 
 “I suppose they are those heavy ones, sir,” said [[Oliver]], pointing to
 some large quartos, with a good deal of gilding about the binding.
-
-“Not always those,” said the old gentleman, patting [[Oliver]] on the head,
-and smiling as he did so; “there are other equally heavy ones, though
-of a much smaller size. How should you like to grow up a clever man,
-and write books, eh?”

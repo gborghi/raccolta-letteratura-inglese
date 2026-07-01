@@ -14,6 +14,18 @@ tags:
 </nav>
 
 
+Mr Swiveller involuntarily clapped his hands to the jacket to be quite
+sure that it WAS a jacket and not a skirted coat; and having satisfied
+himself of the safety of this, his only moveable in Bevis Marks, made
+answer in the negative.
+
+‘It’s a very unpleasant thing, Dick,’ said Miss Brass, pulling out the
+tin box and refreshing herself with a pinch of snuff; ‘but between you
+and me--between friends you know, for if Sammy knew it, I should never
+hear the last of it--some of the office-money, too, that has been left
+about, has gone in the same way.  In particular, I have missed three
+half-crowns at three different times.’
+
 ‘You don’t mean that?’ cried Dick.  ‘Be careful what you say, old boy,
 for this is a serious matter.  Are you quite sure?  Is there no
 mistake?’

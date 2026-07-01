@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 20 (part 3)"
+title: "Jane Eyre — Chapter 20 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -148,11 +148,3 @@ away to my room again. What a [[Mercy|mercy]] you are shod with velvet, Jane!—
 clod-hopping messenger would never do at this juncture. You must open
 the middle drawer of my toilet-table and take out a little phial and a
 little glass you will find there,—quick!”
-
-I flew thither and back, bringing the desired vessels.
-
-“That’s [[Well|well]]! Now, doctor, I shall take the liberty of administering a
-dose myself, on my own responsibility. I got this cordial at Rome, of
-an Italian charlatan—a fellow you would have kicked, Carter. It is not
-a thing to be used indiscriminately, but it is good upon occasion: as
-now, for instance. Jane, a little [[Water|water]].”

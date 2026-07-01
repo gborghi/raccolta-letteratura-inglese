@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 21 (part 2)"
+title: "Northanger Abbey — Chapter 21 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -13,6 +13,8 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_22/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_22/part_03">part 03 ›</a></div>
 </nav>
 
+
+dimensions to a much larger drawing-room than the one in common use,
 
 and fitted up in a style of luxury and expense which was almost lost on
 
@@ -187,11 +189,3 @@ strength. Alarmed, but not discouraged, she tried it another way; a
 bolt flew, and she believed herself successful; but how strangely
 
 mysterious! the door was still immovable. She paused a moment in
-
-breathless [[Wonder|wonder]]. The [[Wind|wind]] roared down the chimney, the rain beat in
-
-torrents against the windows, and everything seemed to speak the
-
-awfulness of her situation. To retire to bed, however, unsatisfied on
-
-such a point, would be vain, since [[Sleep|sleep]] must be impossible with the

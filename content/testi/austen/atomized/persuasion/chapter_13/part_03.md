@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 13 (part 3)"
+title: "Persuasion — Chapter 13 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_13/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_14/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Ay, a very bad business indeed. A new sort of way this, for a young
+
+fellow to be making [[Love|love]], by breaking his mistress’s head, is not it,
+
+Miss Elliot? This is breaking a head and giving a plaster, truly!”
+
+
+
+[[Admiral Croft]]’s manners were not quite of the tone to suit Lady
+
+Russell, but they delighted Anne. His goodness of heart and simplicity
 
 of character were irresistible.
 

@@ -1,5 +1,5 @@
 ---
-title: "[[Coriolanus]] — Act II, Scene 3 — exchange ([[Menenius|MENENIUS]]) [2]"
+title: "Coriolanus — Act II, Scene 3 — exchange (MENENIUS) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/coriolanus-(shakespeare)"

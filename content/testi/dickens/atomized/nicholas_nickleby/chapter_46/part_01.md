@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 46 (part 1)"
+title: "Nicholas Nickleby — Chapter 46 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -128,7 +128,3 @@ mission.’
 ‘You might employ many a more able messenger, sir,’ said Nicholas, ‘but
 a more trustworthy or zealous one, I may be bold to say, you could not
 find.’
-
-‘Of that I am [[Well|well]] assured,’ returned brother Charles, ‘[[Well|well]] assured.
-You will give me credit for thinking so, when I tell you that the object
-of this mission is a young lady.’

@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 18: A RETROSPECT"
+title: "David Copperfield — Chapter 18: A RETROSPECT"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/david-copperfield-(dickens)"

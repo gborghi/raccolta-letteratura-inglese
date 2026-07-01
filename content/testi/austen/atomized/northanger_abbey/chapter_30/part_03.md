@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 29 (part 3)"
+title: "Northanger Abbey — Chapter 29 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_30/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_31/part_01">part 01 ›</a></div>
 </nav>
 
+
+[[Eleanor Tilney]]. To compose a letter which might at once do justice to
+
+her sentiments and her situation, convey gratitude without servile
+
+regret, be guarded without coldness, and honest without resentment—a
+
+letter which [[Eleanor]] might not be pained by the perusal of—and, above
+
+all, which she might not blush herself, if Henry should chance to see,
+
+was an undertaking to frighten away all her powers of performance; and,
 
 after long thought and much perplexity, to be very brief was all that
 

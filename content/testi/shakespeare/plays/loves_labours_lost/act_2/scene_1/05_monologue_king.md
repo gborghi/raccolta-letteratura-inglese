@@ -1,5 +1,5 @@
 ---
-title: "Loves Labours Lost — Act II, Scene 1 — monologue ([[King|KING]]) [5]"
+title: "Loves Labours Lost — Act II, Scene 1 — monologue (KING) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/love’s-labour’s-lost-(shakespeare)"

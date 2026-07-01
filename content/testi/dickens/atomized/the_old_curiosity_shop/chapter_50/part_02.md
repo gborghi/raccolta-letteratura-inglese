@@ -134,15 +134,3 @@ Mr Swiveller explained that his respectable friend had recently
 accepted a responsible situation in a locomotive gaming-[[house]], and was
 at that [[Time|time]] absent on a professional tour among the adventurous
 spirits of Great Britain.
-
-‘That’s unfortunate,’ said the [[Dwarf|dwarf]], ‘for I came, in fact, to ask you
-about him.  A thought has occurred to me, Dick; your friend over the
-way--’
-
-‘Which friend?’
-
-‘In the first floor.’
-
-‘Yes?’
-
-‘Your friend in the first floor, Dick, may know him.’

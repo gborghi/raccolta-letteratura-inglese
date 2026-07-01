@@ -1,5 +1,5 @@
 ---
-title: "[[Eugenics]] — Part 1 (part 8)"
+title: "Eugenics — Part 1 (part 8)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/eugenics-(chesterton)"
@@ -13,6 +13,27 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/eugenics/chapter_02/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/eugenics/chapter_02/part_09">part 09 ›</a></div>
 </nav>
 
+
+The second thing to be noted is this:  that it is only by the unanimity
+of sane men that we can condemn this man as utterly separate.
+If he says a tree is a lamp-post he is mad; but only because all
+other men say it is a tree.  If some men thought it was a tree
+with a lamp on it, and others thought it was a lamp-post wreathed
+with branches and vegetation, then it would be a matter of opinion
+and degree; and he would not be mad, but merely extreme.
+Certainly he would not be mad if nobody but a botanist could see
+it was a tree.  Certainly his enemies might be madder than he,
+if nobody but a lamplighter could see it was not a lamp-post. And
+similarly a man is not an imbecile if only a Eugenist thinks so.
+The question then raised would not be his [[Sanity|sanity]], but the [[Sanity|sanity]]
+of one botanist or one lamplighter or one Eugenist.  That which can
+condemn the abnormally foolish is not the abnormally clever,
+which is obviously a matter in dispute.  That which can condemn
+the abnormally foolish is the normally foolish.  It is when he begins
+to say and do things that even stupid people do not say or do,
+that we have a right to treat him as the exception and not the rule.
+It is only because we none of us profess to be anything more than
+man that we have authority to treat him as something less.
 
 Now the first principle behind [[Eugenics]] becomes plain enough.
 It is the proposal that somebody or something should criticize
@@ -97,20 +118,3 @@ in the eyes as such; we object to consequences which, once come,
 we should all call insane if there were no doctors in the world.
 We should say, "Let him look how he likes; as long as he does not
 look for the hatchet."
-
-Now, that specialists are valuable for this particular
-and practical purpose, of predicting the approach of enormous
-and admitted human calamities, nobody but a [[Fool|fool]] would deny.
-But that does not bring us one inch nearer to allowing them
-the right to define what is a calamity; or to call things calamities
-which common-sense does not call calamities.  We call in the doctor
-to save us from [[Death|death]]; and, [[Death|death]] being admittedly an evil,
-he has the right to administer the queerest and most recondite
-pill which he may think is a cure for all such menaces of [[Death|death]].
-He has not the right to administer [[Death|death]] as the cure for all human ills.
-And as he has no moral authority to enforce a new conception of happiness,
-so he has no moral authority to enforce a new conception of [[Sanity|sanity]].
-He may know I am going mad; for [[Madness|madness]] is an isolated thing
-like leprosy; and I know nothing about leprosy.  But if he merely
-thinks my mind is weak, I may happen to think the same of his.
-I often do.

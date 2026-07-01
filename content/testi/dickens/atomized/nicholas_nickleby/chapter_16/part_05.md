@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 16 (part 5)"
+title: "Nicholas Nickleby — Chapter 16 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,61 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_16/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_16/part_06">part 06 ›</a></div>
 </nav>
 
+
+‘Will you do me the favour to present my compliments to the constituent
+[[Body|body]], and acquaint them with this circumstance?
+
+‘With great esteem, ‘My dear Mr. Pugstyles, ‘&c.&c.’
+
+‘Then you will not resign, under any circumstances?’ asked the
+spokesman.
+
+Mr. Gregsbury smiled, and shook his head.
+
+‘Then, good-morning, sir,’ said Pugstyles, angrily.
+
+‘Heaven bless you!’ said Mr. Gregsbury. And the deputation, with many
+growls and scowls, filed off as quickly as the narrowness of the
+staircase would allow of their getting down.
+
+The last man being gone, Mr. Gregsbury rubbed his hands and chuckled, as
+merry fellows will, when they think they have said or done a more than
+commonly good thing; he was so engrossed in this [[Self|self]]-congratulation,
+that he did not observe that Nicholas had been left behind in the [[Shadow|shadow]]
+of the [[Window|window]]-curtains, until that young gentleman, fearing he might
+otherwise overhear some soliloquy intended to have no listeners, coughed
+twice or thrice, to attract the member’s notice.
+
+‘What’s that?’ said Mr. Gregsbury, in sharp accents.
+
+Nicholas stepped forward, and bowed.
+
+‘What do you do here, sir?’ asked Mr. Gregsbury; ‘a spy upon my privacy!
+A concealed voter! You have heard my answer, sir. Pray follow the
+deputation.’
+
+‘I should have done so, if I had belonged to it, but I do not,’ said
+Nicholas.
+
+‘Then how came you here, sir?’ was the natural inquiry of Mr. Gregsbury,
+MP. ‘And where the devil have you come from, sir?’ was the question
+which followed it.
+
+‘I brought this card from the General Agency Office, sir,’ said
+Nicholas, ‘wishing to offer myself as your secretary, and understanding
+that you stood in need of one.’
+
+‘That’s all you have come for, is it?’ said Mr. Gregsbury, eyeing him in
+some [[Doubt|doubt]].
+
+Nicholas replied in the affirmative.
+
+‘You have no connection with any of those rascally papers have you?’
+said Mr. Gregsbury. ‘You didn’t get into the room, to hear what was going
+forward, and put it in print, eh?’
+
+‘I have no connection, I am sorry to say, with anything at present,’
+rejoined Nicholas,--politely enough, but quite at his ease.
 
 ‘Oh!’ said Mr. Gregsbury. ‘How did you find your way up here, then?’
 
@@ -117,42 +172,3 @@ to cash payments and a metallic currency, with a touch now and then
 about the exportation of bullion, and the Emperor of [[Russia]], and bank
 notes, and all that kind of thing, which it’s only necessary to talk
 fluently about, because nobody understands it. Do you take me?’
-
-‘I think I understand,’ said Nicholas.
-
-‘With regard to such questions as are not political,’ continued Mr
-Gregsbury, warming; ‘and which one can’t be expected to care a curse
-about, beyond the natural care of not allowing inferior people to be as
-[[Well|well]] off as ourselves--else where are our privileges?--I should wish
-my secretary to get together a few little flourishing speeches, of a
-patriotic cast. For instance, if any preposterous bill were brought
-forward, for giving poor grubbing devils of authors a right to their own
-property, I should like to say, that I for one would never consent to
-opposing an insurmountable bar to the diffusion of literature among THE
-PEOPLE,--you understand?--that the creations of the pocket, being man’s,
-might belong to one man, or one family; but that the creations of the
-brain, being God’s, ought as a matter of course to belong to the people
-at large--and if I was pleasantly disposed, I should like to make a joke
-about posterity, and say that those who wrote for posterity should be
-content to be rewarded by the approbation OF posterity; it might take
-with the [[house]], and could never do me any harm, because posterity can’t
-be expected to know anything about me or my jokes either--do you see?’
-
-‘I see that, sir,’ replied Nicholas.
-
-‘You must always bear in mind, in such cases as this, where our
-interests are not affected,’ said Mr. Gregsbury, ‘to put it very strong
-about the people, because it comes out very [[Well|well]] at election-[[Time|time]]; and
-you could be as funny as you liked about the authors; because I believe
-the greater part of them live in lodgings, and are not voters. This is
-a hasty outline of the chief things you’d have to do, except waiting in
-the lobby every [[Night|night]], in case I forgot anything, and should want fresh
-cramming; and, now and then, during great debates, sitting in the
-front row of the gallery, and saying to the people about--‘You see that
-gentleman, with his hand to his face, and his arm twisted round the
-pillar--that’s Mr. Gregsbury--the celebrated Mr. Gregsbury,’--with any
-other little eulogium that might strike you at the moment. And for
-salary,’ said Mr. Gregsbury, winding up with great rapidity; for he was
-out of breath--‘and for salary, I don’t mind saying at once in round
-numbers, to prevent any dissatisfaction--though it’s more than I’ve been
-accustomed to give--fifteen shillings a week, and find yourself. There!’

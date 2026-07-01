@@ -14,6 +14,11 @@ tags:
 </nav>
 
 
+"A yellow-hammer, I suppose," remarked Garth.
+
+"It doesn't look like a hammer," said Gale, sleepily; "not such
+an odd shape as all that."
+
 "Ass!" said Garth briefly.  "Did you expect it to look like an
 auctioneer's hammer?  You poets who are so strong about [[Nature]]
 are generally weak in natural [[history]].  [[Well]], Mallow," he added,
@@ -125,13 +130,3 @@ Mallow had already resumed his monologue:
 writing another great book in his country retreat; I believe she
 is acting as his secretary.  It is to embody some mathematical
 theory about the elimination of limits and..."
-
-"Hullo!" cried Garth.  "This moated grange of yours is actually
-coming to life.  Somebody is actually beginning to open a [[Window|window]]."
-
-"You haven't been looking at it as I have," answered Mallow quietly.
-"Just round the angle on the left there's a little [[Window|window]] that's
-been open all the [[Time|time]].  That belongs to the little sitting-room
-out of the spare bedroom.  It used to be Laura's room, and still
-has a lot of her things in it; but I think they give it now
-to their guests."

@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 24 (part 7)"
+title: "Shirley — Chapter 24 (part 7)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -12,6 +12,82 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_24/part_06">‹ part 06</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_25/part_01">part 01 ›</a></div>
 </nav>
+
+
+daughter is at this day. My complexion, my very features are changed; my
+
+hair, my style of dress--everything is altered. You cannot fancy me a
+
+slim young person, attired in scanty drapery of white muslin, with bare
+
+arms, bracelets and necklace of beads, and hair disposed in round
+
+Grecian curls above my forehead?"
+
+
+
+"You must, indeed, have been different. Mamma, I heard the front door
+
+open. If it is my uncle coming in, just ask him to step upstairs, and
+
+let me hear his assurance that I am truly awake and collected, and not
+
+dreaming or delirious."
+
+
+
+The rector, of his own accord, was mounting the stairs, and Mrs. Pryor
+
+summoned him to his niece's apartment.
+
+
+
+"She's not worse, I [[Hope|hope]]?" he inquired hastily.
+
+
+
+"I think her better. She is disposed to converse; she seems stronger."
+
+
+
+"Good!" said he, brushing quickly into the room.--"Ha, Cary! how do? Did
+
+you drink my cup of tea? I made it for you just as I like it myself."
+
+
+
+"I drank it every drop, uncle. It did me good; it has made me quite
+
+alive. I have a wish for company, so I begged Mrs. Pryor to call you
+
+in."
+
+
+
+The respected ecclesiastic looked pleased, and yet embarrassed. He was
+
+willing enough to bestow his company on his sick niece for ten minutes,
+
+since it was her whim to wish it; but what means to employ for her
+
+entertainment he knew not. He hemmed--he fidgeted.
+
+
+
+"You'll be up in a trice," he observed, by way of saying something. "The
+
+little weakness will soon pass off; and then you must drink port wine--a
+
+pipe, if you can--and eat game and oysters. I'll get them for you, if
+
+they are to be had anywhere. Bless me! we'll make you as strong as
+
+Samson before we're done with you."
+
+
+
+"Who is that lady, uncle, standing beside you at the bed-foot?"
+
 
 
 "Good God!" he ejaculated. "She's not wandering, is she, ma'am?"

@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 3 (part 2)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 3 (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -13,6 +13,8 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_02/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_02/part_03">part 03 ›</a></div>
 </nav>
 
+
+Tiger. Having got, after a long search, a small piece of the note, I
 
 put it to the dog's nose, and endeavoured to make him understand that
 
@@ -185,11 +187,3 @@ strong peach liqueur at which my stomach revolted. The sausages were
 entirely consumed; of the ham nothing remained but a small piece of the
 
 skin; and all the biscuit, except a few fragments of one, had been
-
-eaten by Tiger. To add to my troubles, I found that my headache was
-
-increasing momentarily, and with it the species of delirium which had
-
-distressed me more or less since my first falling asleep. For some
-
-hours past it had been with the greatest difficulty I could breathe at

@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 45 (part 2)"
+title: "Bleak House — Chapter 45 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_45/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_45/part_03">part 03 ›</a></div>
 </nav>
 
+
+“I thank you, Mr. Jarndyce,” said Mr. Vholes, putting out his long
+black sleeve to check the ringing of the bell, “not any. I thank you,
+no, not a morsel. My digestion is much impaired, and I am but a poor
+knife and fork at any [[Time|time]]. If I was to partake of solid food at this
+period of the day, I don’t know what the consequences might be.
+Everything having been openly carried on, sir, I will now with your
+permission take my leave.”
 
 “And I would that you could take your leave, and we could all take
 our leave, Mr. Vholes,” returned my guardian bitterly, “of a cause
@@ -111,17 +119,3 @@ knocked with his knuckles at a door, and left us.
 “Now then!” cried [[Richard]] from within. So I left Charley in the
 little passage, and going on to the half-open door, said, “Can I come
 in, [[Richard]]? It’s only Dame Durden.”
-
-He was writing at a table, with a great confusion of clothes, tin
-cases, books, boots, brushes, and portmanteaus strewn all about the
-floor. He was only half dressed—in plain clothes, I observed, not in
-uniform—and his hair was unbrushed, and he looked as wild as his
-room. All this I saw after he had heartily welcomed me and I was
-seated near him, for he started upon hearing my voice and caught me
-in his arms in a moment. Dear [[Richard]]! He was ever the same to me.
-Down to—ah, poor poor fellow!—to the end, he never received me but
-with something of his old merry boyish manner.
-
-“Good heaven, my dear little woman,” said he, “how do you come here?
-Who could have thought of seeing you! Nothing the matter? Ada is
-[[Well|well]]?”

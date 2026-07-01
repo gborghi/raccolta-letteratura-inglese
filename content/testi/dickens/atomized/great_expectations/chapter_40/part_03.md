@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 40 (part 3)"
+title: "Great Expectations — Chapter 40 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_40/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_40/part_04">part 04 ›</a></div>
 </nav>
 
+
+“Yes, but look’ee here,” he persisted. “Dear boy, I ain’t come so fur,
+not fur to be low. Now, go on, dear boy. You was a saying—”
+
+“How are you to be guarded from the danger you have incurred?”
 
 “[[Well]], dear boy, the danger ain’t so great. Without I was informed
 agen, the danger ain’t so much to signify. There’s Jaggers, and there’s
@@ -131,7 +136,3 @@ me, with his head on one side, and not looking at me, but looking in a
 listening way at the floor. “Told would seem to imply verbal
 communication. You can’t have verbal communication with a man in New
 South Wales, you know.”
-
-“I will say, informed, Mr. Jaggers.”
-
-“Good.”

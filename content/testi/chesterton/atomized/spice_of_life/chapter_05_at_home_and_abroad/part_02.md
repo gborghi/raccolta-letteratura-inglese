@@ -1,5 +1,5 @@
 ---
-title: "Spice Of Life — Part 4: AT [[Home|HOME]] AND ABROAD (part 2)"
+title: "Spice Of Life — Part 4: AT HOME AND ABROAD (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/spice-of-life-(chesterton)"
@@ -53,11 +53,11 @@ carriage with an excellent [[Horse|horse]], with which he could drive me anywher
 and he was, as far as appearance goes, rather like a very rude beggar.
 His clothes were coarse and threadbare, his face was rugged, but sharp;
 he was always in a sweat from drudgeries.  A man who looked like
-that would be `moved on' in [[London]] if he tried to open the door
-of a cab.  [[Well]], I got him to drive me away over the hills, and,
-finding that the [[Mountains|mountains]] grew taller, grander, and (one might say)
-more incredible at every turn of the [[Road|road]], I persuaded him to make
-a day's [[Journey|journey]] of it, and to rest the [[Horse|horse]] in a high village where
+that would be `moved on' in London if he tried to open the door
+of a cab.  Well, I got him to drive me away over the hills, and,
+finding that the mountains grew taller, grander, and (one might say)
+more incredible at every turn of the road, I persuaded him to make
+a day's journey of it, and to rest the horse in a high village where
 (as everywhere in that country) one could get good wine and bread
 and an omelette at least.
 
@@ -69,47 +69,46 @@ like to have some lunch too, offering him a few francs for the purpose.
 He did not understand what it meant.  He said I had better pay
 for the carriage at the end.  I said it again, and still it was
 a puzzle to him.  I said it again, in French which, however bad,
-was at least unmistakable; and this [[Time|time]] I made myself clear.
+was at least unmistakable; and this time I made myself clear.
 Whereupon this amazing scarecrow burst into an ungovernable fit
 of laughter, and slapped his trouser pocket about six times
 with his squat spread hand, exclaiming, "Money!  I have much!
-I have [[Mountains|mountains]]!  I am rich!  I am very rich!"  And after the
-conversation I had with him on the [[Road|road]] [[Home|home]], I think it perfectly
+I have mountains!  I am rich!  I am very rich!"  And after the
+conversation I had with him on the road home, I think it perfectly
 possible that he was considerably richer than I am.
 
 He talked about his dog, which was the best dog in the world;
 his son, who was the most promising cook in the world;
-his [[Horse|horse]], which was the most astonishing [[Horse|horse]] in the world;
+his horse, which was the most astonishing horse in the world;
 he seemed to find inexhaustible glories in his patch of property.
-At the end of the [[Journey|journey]], warned by that prodigy of the [[Noon|noon]],
+At the end of the journey, warned by that prodigy of the noon,
 I offered him no extra tip, but only two good cigars that somebody
 had given me.  He at once replied by giving me a bottle of the wine
 he manufactured himself.  It was, he assured me, the best wine
 in the world.
 
 That is all that happened; only as we drove into the town the papers
-were flaring with the dreadful [[Death|death]] of the French Minister of War
+were flaring with the dreadful death of the French Minister of War
 and the narrow escape of the French Premier.  My friend had
 never heard of either of them; he took no interest in politics.
 I think he thought politics a sort of mutiny among slaves.
 He was a free man.  I think my sociological friends really ought
 to remember that there are many millions of him in Europe.
 
-
 THE LOST RAILWAY STATION
 
 I AM writing this as best I may in a Scottish railway station;
 and my thoughts go back, with all the pathos of the patriot,
 to an English railway station.  Trucks and rails may seem to lack
-the fine shades of variety to be felt in the trees and hills of [[Home|home]];
+the fine shades of variety to be felt in the trees and hills of home;
 but my fancy really flies to an English railway station where I
-once dreamed [[A Dream|a dream]].
+once dreamed a dream.
 
-There is in the north of [[London]] an important station, which is by
+There is in the north of London an important station, which is by
 comparison as quiet and comfortable as the courtyard of an old inn.
 I do not know why this repose rests upon it, for a considerable
 train service is connected with it.  It has the usual bookstall,
-at which I have bought all the bloodiest [[Detective|detective]] stories I could find;
+at which I have bought all the bloodiest detective stories I could find;
 various refreshment bars at which I have bought various other things;
 and all the usual fittings of such a place.  But in the centre there
 stands a fountain, and not far from it a large model of an ocean liner.
@@ -121,7 +120,7 @@ with a jar or jug or bucket; though I hasten to admit that I
 have never seen her do so.  I can even conceive that the little
 boy who ran away to sea (that picturesque figure, whose presence,
 or rather absence, is so essential to the health of the happy village)
-drank in all his [[Desire|desire]] of seafaring adventure at the ends of
+drank in all his desire of seafaring adventure at the ends of
 the earth by looking at the toy liner.  His white-haired mother
 would still be waiting for him--presumably in the waiting room.
 In short, I have always felt that I could fill this place with

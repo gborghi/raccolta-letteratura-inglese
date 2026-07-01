@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 12 (part 3)"
+title: "Dombey and Son — Chapter 40 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,147 +14,125 @@ tags:
 </nav>
 
 
-Only once during dinner was there any conversation that included the
-young gentlemen. It happened at the epoch of the [[cheese]], when the
-Doctor, having taken a glass of port wine, and hemmed twice or thrice,
-said:
+No word from her. No change in her. Her eyes upon him.
 
-“It is remarkable, Mr Feeder, that the Romans—”
+“I have learnt from your mother, Mrs Dombey,” said Mr Dombey, with
+magisterial importance, “what no [[Doubt|doubt]] you know, namely, that Brighton
+is recommended for her health. Mr Carker has been so good.”
 
-At the mention of this terrible people, their implacable enemies, every
-young gentleman fastened his gaze upon the Doctor, with an assumption
-of the deepest interest. One of the number who happened to be drinking,
-and who caught the Doctor’s eye glaring at him through the side of his
-tumbler, left off so hastily that he was convulsed for some moments,
-and in the sequel ruined Doctor Blimber’s point.
+She changed suddenly. Her face and bosom glowed as if the red light of
+an angry sunset had been flung upon them. Not unobservant of the
+change, and putting his own interpretation upon it, Mr Dombey resumed:
 
-“It is remarkable, Mr Feeder,” said the Doctor, beginning again slowly,
-“that the Romans, in those gorgeous and profuse entertainments of which
-we read in the days of the Emperors, when luxury had attained a height
-unknown before or since, and when whole provinces were ravaged to
-supply the splendid means of one Imperial Banquet—”
+“Mr Carker has been so good as to go down and secure a [[house]] there, for
+a [[Time|time]]. On the return of the establishment to [[London]], I shall take such
+steps for its better management as I consider necessary. One of these,
+will be the engagement at Brighton (if it is to be effected), of a very
+respectable reduced person there, a Mrs Pipchin, formerly employed in a
+situation of trust in my family, to act as housekeeper. An
+establishment like this, presided over but nominally, Mrs Dombey,
+requires a competent head.”
 
-Here the offender, who had been swelling and straining, and waiting in
-vain for a full stop, broke out violently.
+She had changed her attitude before he arrived at these words, and now
+sat—still looking at him fixedly—turning a bracelet round and round
+upon her arm; not winding it about with a light, womanly touch, but
+pressing and dragging it over the smooth skin, until the white limb
+showed a bar of red.
 
-“Johnson,” said Mr Feeder, in a low reproachful voice, “take some
-[[Water|water]].”
+“I observed,” said Mr Dombey—“and this concludes what I deem it
+necessary to say to you at present, Mrs Dombey—I observed a moment ago,
+Madam, that my allusion to Mr Carker was received in a peculiar manner.
+On the occasion of my happening to point out to you, before that
+confidential agent, the objection I had to your mode of receiving my
+visitors, you were pleased to object to his presence. You will have to
+get the better of that objection, Madam, and to accustom yourself to it
+very probably on many similar occasions; unless you adopt the remedy
+which is in your own hands, of giving me no cause of complaint. Mr
+Carker,” said Mr Dombey, who, after the emotion he had just seen, set
+great store by this means of reducing his proud wife, and who was
+perhaps sufficiently willing to exhibit his power to that gentleman in
+a new and triumphant aspect, “Mr Carker being in my confidence, Mrs
+Dombey, may very [[Well|well]] be in yours to such an extent. I [[Hope|hope]], Mrs
+Dombey,” he continued, after a few moments, during which, in his
+increasing haughtiness, he had improved on his idea, “I may not find it
+necessary ever to entrust Mr Carker with any message of objection or
+remonstrance to you; but as it would be derogatory to my position and
+reputation to be frequently holding trivial disputes with a lady upon
+whom I have conferred the highest distinction that it is in my power to
+bestow, I shall not scruple to avail myself of his services if I see
+occasion.”
 
-The Doctor, looking very stern, made a pause until the [[Water|water]] was
-brought, and then resumed:
+“And now,” he thought, rising in his moral magnificence, and rising a
+stiffer and more impenetrable man than ever, “she knows me and my
+resolution.”
 
-“And when, Mr Feeder—”
+The hand that had so pressed the bracelet was laid heavily upon her
+breast, but she looked at him still, with an unaltered face, and said
+in a low voice:
 
-But Mr Feeder, who saw that Johnson must break out again, and who knew
-that the Doctor would never come to a period before the young gentlemen
-until he had finished all he meant to say, couldn’t keep his eye off
-Johnson; and thus was caught in the fact of not looking at the Doctor,
-who consequently stopped.
+“Wait! For God’s sake! I must speak to you.”
 
-“I beg your pardon, Sir,” said Mr Feeder, reddening. “I beg your
-pardon, Doctor Blimber.”
+Why did she not, and what was the inward struggle that rendered her
+incapable of doing so, for minutes, while, in the strong constraint she
+put upon her face, it was as fixed as any statue’s—looking upon him
+with neither yielding nor unyielding, liking nor hatred, [[Pride|pride]] not
+[[Humility|humility]]: nothing but a searching gaze?
 
-“And when,” said the Doctor, raising his voice, “when, Sir, as we read,
-and have no reason to [[Doubt|doubt]]—incredible as it may appear to the
-vulgar—of our [[Time|time]]—the brother of Vitellius prepared for him a feast,
-in which were served, of fish, two thousand dishes—”
+“Did I ever tempt you to seek my hand? Did I ever use any art to win
+you? Was I ever more conciliating to you when you pursued me, than I
+have been since our [[Marriage|marriage]]? Was I ever other to you than I am?”
 
-“Take some [[Water|water]], Johnson—dishes, Sir,” said Mr Feeder.
+“It is wholly unnecessary, Madam,” said Mr Dombey, “to enter upon such
+discussions.”
 
-“Of various sorts of fowl, five thousand dishes.”
+“Did you think I loved you? Did you know I did not? Did you ever care,
+Man! for my heart, or propose to yourself to win the worthless thing?
+Was there any poor pretence of any in our bargain? Upon your side, or
+on mine?”
 
-“Or try a crust of bread,” said Mr Feeder.
+“These questions,” said Mr Dombey, “are all wide of the purpose,
+Madam.”
 
-“And one dish,” pursued Doctor Blimber, raising his voice still higher
-as he looked all round the table, “called, from its enormous
-dimensions, the Shield of Minerva, and made, among other costly
-ingredients, of the brains of pheasants—”
+She moved between him and the door to prevent his going away, and
+drawing her majestic figure to its height, looked steadily upon him
+still.
 
-“Ow, ow, ow!” (from Johnson.)
+“You answer each of them. You answer me before I speak, I see. How can
+you help it; you who know the miserable [[Truth|truth]] as [[Well|well]] as I? Now, tell
+me. If I loved you to devotion, could I do more than render up my whole
+will and being to you, as you have just demanded? If my heart were pure
+and all untried, and you its idol, could you ask more; could you have
+more?”
 
-“Woodcocks—”
+“Possibly not, Madam,” he returned coolly.
 
-“Ow, ow, ow!”
+“You know how different I am. You see me looking on you now, and you
+can read the warmth of passion for you that is breathing in my face.”
+Not a curl of the proud lip, not a flash of the dark eye, nothing but
+the same intent and searching look, accompanied these words. “You know
+my general [[history]]. You have spoken of my mother. Do you think you can
+degrade, or bend or break, me to submission and obedience?”
 
-“The sounds of the fish called scari—”
+Mr Dombey smiled, as he might have smiled at an inquiry whether he
+thought he could raise ten thousand pounds.
 
-“You’ll burst some vessel in your head,” said Mr Feeder. “You had
-better let it come.”
+“If there is anything unusual here,” she said, with a slight motion of
+her hand before her brow, which did not for a moment flinch from its
+immovable and otherwise expressionless gaze, “as I know there are
+unusual feelings here,” raising the hand she pressed upon her bosom,
+and heavily returning it, “consider that there is no common meaning in
+the appeal I am going to make you. Yes, for I am going;” she said it as
+in prompt reply to something in his face; “to appeal to you.”
 
-“And the spawn of the lamprey, brought from the Carpathian Sea,”
-pursued the Doctor, in his severest voice; “when we read of costly
-entertainments such as these, and still remember, that we have a
-Titus—”
+Mr Dombey, with a slightly condescending bend of his chin that rustled
+and crackled his stiff cravat, sat down on a sofa that was near him, to
+hear the appeal.
 
-“What would be your mother’s feelings if you died of apoplexy!” said Mr
-Feeder.
-
-“A Domitian—”
-
-“And you’re blue, you know,” said Mr Feeder.
-
-“A Nero, a Tiberius, a Caligula, a Heliogabalus, and many more, pursued
-the Doctor; “it is, Mr Feeder—if you are doing me the [[Honour|honour]] to
-attend—remarkable; VERY remarkable, Sir—”
-
-But Johnson, unable to suppress it any longer, burst at that moment
-into such an overwhelming fit of coughing, that although both his
-immediate neighbours thumped him on the back, and Mr Feeder himself
-held a glass of [[Water|water]] to his lips, and the butler walked him up and
-down several times between his own chair and the sideboard, like a
-sentry, it was a full five minutes before he was moderately composed.
-Then there was a profound [[Silence|silence]].
-
-“Gentlemen,” said Doctor Blimber, “rise for Grace! Cornelia, lift
-Dombey down”—nothing of whom but his scalp was accordingly seen above
-the tablecloth. “Johnson will repeat to me tomorrow morning before
-breakfast, without book, and from the Greek Testament, the first
-chapter of the Epistle of Saint Paul to the Ephesians. We will resume
-our studies, Mr Feeder, in half-an-hour.”
-
-[Illustration]
-
-The young gentlemen bowed and withdrew. Mr Feeder did likewise. During
-the half-hour, the young gentlemen, broken into pairs, loitered
-arm-in-arm up and down a small piece of ground behind the [[house]], or
-endeavoured to kindle a spark of animation in the breast of Briggs. But
-nothing happened so vulgar as play. Punctually at the appointed [[Time|time]],
-the gong was sounded, and the studies, under the joint auspices of
-Doctor Blimber and Mr Feeder, were resumed.
-
-As the Olympic game of lounging up and down had been cut shorter than
-usual that day, on Johnson’s account, they all went out for a walk
-before tea. Even Briggs (though he hadn’t begun yet) partook of this
-dissipation; in the enjoyment of which he looked over the cliff two or
-three times darkly. Doctor Blimber accompanied them; and Paul had the
-[[Honour|honour]] of being taken in tow by the Doctor himself: a distinguished
-state of things, in which he looked very little and feeble.
-
-Tea was served in a style no less polite than the dinner; and after
-tea, the young gentlemen rising and bowing as before, withdrew to fetch
-up the unfinished tasks of that day, or to get up the already looming
-tasks of to-morrow. In the meantime Mr Feeder withdrew to his own room;
-and Paul sat in a corner wondering whether Florence was thinking of
-him, and what they were all about at Mrs Pipchin’s.
-
-Mr Toots, who had been detained by an important letter from the Duke of
-Wellington, found Paul out after a [[Time|time]]; and having looked at him for a
-long while, as before, inquired if he was fond of waistcoats.
-
-Paul said “Yes, Sir.”
-
-“So am I,” said Toots.
-
-No word more spoke Toots that [[Night|night]]; but he stood looking at Paul as if
-he liked him; and as there was company in that, and Paul was not
-inclined to talk, it answered his purpose better than conversation.
-
-At eight o’[[Clock|clock]] or so, the gong sounded again for prayers in the
-dining-room, where the butler afterwards presided over a side-table, on
-which bread and [[cheese]] and beer were spread for such young gentlemen as
-desired to partake of those refreshments. The ceremonies concluded by
-the Doctor’s saying, “Gentlemen, we will resume our studies at seven
-to-morrow;” and then, for the first [[Time|time]], Paul saw Cornelia Blimber’s
-eye, and saw that it was upon him. When the Doctor had said these
-words, “Gentlemen, we will resume our studies at seven tomorrow,” the
-pupils bowed again, and went to bed.
+“If you can believe that I am of such a [[Nature|nature]] now,”—he fancied he saw
+[[Tears|tears]] glistening in her eyes, and he thought, complacently, that he had
+forced them from her, though none fell on her cheek, and she regarded
+him as steadily as ever,—“as would make what I now say almost
+incredible to myself, said to any man who had become my husband, but,
+above all, said to you, you may, perhaps, attach the greater weight to
+it. In the dark end to which we are tending, and may come, we shall not
+involve ourselves [[Alone|alone]] (that might not be much) but others.”

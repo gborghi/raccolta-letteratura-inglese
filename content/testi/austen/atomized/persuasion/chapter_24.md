@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 24"
+title: "Persuasion — Chapter 24"
 author: "Austen"
 unitType: chapter
 parentWork: "works/persuasion-(austen)"
@@ -296,7 +296,7 @@ bid defiance even to greater accessions of worldly prosperity. She
 
 might have been absolutely rich and perfectly healthy, and yet be
 
-happy. Her [[spring]] of felicity was in the glow of her spirits, as her
+happy. Her [[Spring|spring]] of felicity was in the glow of her spirits, as her
 
 friend Anne’s was in the warmth of her heart. Anne was tenderness
 

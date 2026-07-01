@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 32 (part 2)"
+title: "Nicholas Nickleby — Chapter 32 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -123,9 +123,3 @@ down empty.
 Keenly alive to the tone and manner of this slight and careless mention
 of his sister’s name in a public place, Nicholas fired at once; but he
 kept himself quiet by a great effort, and did not even turn his head.
-
-‘The jade!’ said the same voice which had spoken before. ‘She’s a true
-Nickleby--a worthy imitator of her old uncle Ralph--she hangs back to be
-more sought after--so does he; nothing to be got out of Ralph unless you
-follow him up, and then the money comes doubly welcome, and the bargain
-doubly hard, for you’re impatient and he isn’t. Oh! infernal cunning.’

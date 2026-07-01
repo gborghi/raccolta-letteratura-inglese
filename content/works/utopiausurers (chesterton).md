@@ -30,17 +30,17 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Story 01 A Song of Swords](/testi/chesterton/atomized/utopiausurers/story_01_a_song_of_swords)
-- [Story 02 Utopia of Usurers](/testi/chesterton/atomized/utopiausurers/story_02_utopia_of_usurers)
-- [Story 03 Art and Advertisement](/testi/chesterton/atomized/utopiausurers/story_03_art_and_advertisement)
-- [Story 04 Letters and the New Laureates](/testi/chesterton/atomized/utopiausurers/story_04_letters_and_the_new_laureates)
-- [Story 05 Unbusinesslike Business](/testi/chesterton/atomized/utopiausurers/story_05_unbusinesslike_business)
-- [Story 06 The War on Holidays](/testi/chesterton/atomized/utopiausurers/story_06_the_war_on_holidays)
-- [Story 07 The Church of the Servile State](/testi/chesterton/atomized/utopiausurers/story_07_the_church_of_the_servile_state)
-- [Story 08 Science and the Eugenists](/testi/chesterton/atomized/utopiausurers/story_08_science_and_the_eugenists)
-- [Story 09 The Evolution of the Prison](/testi/chesterton/atomized/utopiausurers/story_09_the_evolution_of_the_prison)
-- [Story 10 The Lash for Labour](/testi/chesterton/atomized/utopiausurers/story_10_the_lash_for_labour)
-- [Story 11 The Mask of Socialism](/testi/chesterton/atomized/utopiausurers/story_11_the_mask_of_socialism)
+- Story 01 A Song of Swords
+- Story 02 Utopia of Usurers
+- Story 03 Art and Advertisement
+- Story 04 Letters and the New Laureates
+- Story 05 Unbusinesslike Business
+- Story 06 The War on Holidays
+- Story 07 The Church of the Servile State
+- Story 08 Science and the Eugenists
+- Story 09 The Evolution of the Prison
+- Story 10 The Lash for Labour
+- Story 11 The Mask of Socialism
 
 ## Testo integrale / Full text
 

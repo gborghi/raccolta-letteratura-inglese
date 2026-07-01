@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 27: TWENTY SEVEN (part 7)"
+title: "Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_27_twenty_seven/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_27_twenty_seven/part_08">part 08 ›</a></div>
 </nav>
 
+
+‘[[Well]],’ said Jonas, ‘on that account, you know, and because offence
+has been given me in other quarters, I wouldn’t mind patronizing this
+Company. But I want to know what sort of security there is for the
+Company’s going on. That’s the--’
 
 ‘Not the [[Truth|truth]]?’ cried Tigg, holding up his jewelled hand. ‘Don’t use
 that [[Sunday]] School expression, please!’
@@ -162,13 +167,3 @@ short, my good fellow, we stick it into B, up [[Hill|hill]] and down dale, and
 make a devilish comfortable little property out of him. Ha, ha, ha! I
 drive B, in point of fact,’ said Tigg, pointing to the cabriolet, ‘and a
 thoroughbred [[Horse|horse]] he is. Ha, ha, ha!’
-
-Jonas enjoyed this joke very much indeed. It was quite in his peculiar
-vein of [[Humour|humour]].
-
-‘Then,’ said Tigg Montague, ‘we grant annuities on the very lowest and
-most advantageous terms known in the money market; and the old ladies
-and gentlemen down in the country buy ‘em. Ha, ha, ha! And we pay ‘em
-too--perhaps. Ha, ha, ha!’
-
-‘But there’s responsibility in that,’ said Jonas, looking doubtful.

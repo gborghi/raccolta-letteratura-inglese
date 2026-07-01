@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 23 (part 2)"
+title: "Dombey and Son — Chapter 51 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,103 +14,128 @@ tags:
 </nav>
 
 
-So Florence lived in her wilderness of a [[Home|home]], within the circle of her
-[[Innocent|innocent]] pursuits and thoughts, and nothing harmed her. She could go
-down to her father’s rooms now, and think of him, and suffer her loving
-heart humbly to approach him, without [[Fear|fear]] of repulse. She could look
-upon the objects that had surrounded him in his sorrow, and could
-nestle near his chair, and not dread the glance that she so [[Well|well]]
-remembered. She could render him such little tokens of her duty and
-service, as putting everything in order for him with her own hands,
-binding little nosegays for table, changing them as one by one they
-withered and he did not come back, preparing something for him every
-day, and leaving some timid mark of her presence near his usual seat.
-Today, it was a little painted stand for his watch; tomorrow she would
-be afraid to leave it, and would substitute some other trifle of her
-making not so likely to attract his eye. Waking in the [[Night|night]], perhaps,
-she would tremble at the thought of his coming [[Home|home]] and angrily
-rejecting it, and would hurry down with slippered feet and quickly
-beating heart, and bring it away. At another [[Time|time]], she would only lay
-her face upon his desk, and leave a kiss there, and a tear.
+“Undoubtedly,” says Cousin Feenix. “In point of fact, it’s quite a
+[[Self|self]]-evident sort of thing. I am extremely anxious, Major, that my
+friend Dombey should hear me express my very great astonishment and
+regret, that my lovely and accomplished relative, who was possessed of
+every qualification to make a man happy, should have so far forgotten
+what was due to—in point of fact, to the world—as to commit herself in
+such a very extraordinary manner. I have been in a devilish state of
+depression ever since; and said indeed to Long Saxby last [[Night|night]]—man of
+six foot ten, with whom my friend Dombey is probably acquainted—that it
+had upset me in a confounded way, and made me bilious. It induces a man
+to reflect, this kind of fatal catastrophe,” says Cousin Feenix, “that
+events do occur in quite a providential manner; for if my Aunt had been
+living at the [[Time|time]], I think the effect upon a devilish lively woman
+like herself, would have been prostration, and that she would have
+fallen, in point of fact, a victim.”
 
-Still no one knew of this. Unless the household found it out when she
-was not there—and they all held Mr Dombey’s rooms in awe—it was as deep
-a secret in her breast as what had gone before it. Florence stole into
-those rooms at twilight, early in the morning, and at times when meals
-were served downstairs. And although they were in every nook the better
-and the brighter for her care, she entered and passed out as quietly as
-any sunbeam, opting that she left her light behind.
+“Now, Dombey!—” says the Major, resuming his discourse with great
+energy.
 
-Shadowy company attended Florence up and down the echoing [[house]], and
-sat with her in the dismantled rooms. As if her life were an enchanted
-vision, there arose out of her [[Solitude|solitude]] ministering thoughts, that made
-it fanciful and unreal. She imagined so often what her life would have
-been if her father could have loved her and she had been a favourite
-[[Child|child]], that sometimes, for the moment, she almost believed it was so,
-and, borne on by the current of that pensive fiction, seemed to
-remember how they had watched her brother in his [[Grave|grave]] together; how
-they had freely shared his heart between them; how they were united in
-the dear remembrance of him; how they often spoke about him yet; and
-her kind father, looking at her gently, told her of their common [[Hope|hope]]
-and trust in God. At other times she pictured to herself her mother yet
-alive. And oh the happiness of falling on her neck, and clinging to her
-with the [[Love|love]] and confidence of all her [[Soul|soul]]! And oh the desolation of
-the solitary [[house]] again, with evening coming on, and no one there!
+“I beg your pardon,” interposes Cousin Feenix. “Allow me another word.
+My friend Dombey will permit me to say, that if any circumstance could
+have added to the most infernal state of [[Pain|pain]] in which I find myself on
+this occasion, it would be the natural amazement of the world at my
+lovely and accomplished relative (as I must still beg leave to call
+her) being supposed to have so committed herself with a person—man with
+white teeth, in point of fact—of very inferior station to her husband.
+But while I must, rather peremptorily, request my friend Dombey not to
+criminate my lovely and accomplished relative until her criminality is
+perfectly established, I beg to assure my friend Dombey that the family
+I represent, and which is now almost extinct (devilish sad reflection
+for a man), will interpose no obstacle in his way, and will be happy to
+assent to any honourable course of proceeding, with a view to the
+future, that he may point out. I trust my friend Dombey will give me
+credit for the intentions by which I am animated in this very
+[[Melancholy|melancholy]] affair, and—a—in point of fact, I am not aware that I need
+trouble my friend Dombey with any further observations.”
 
-But there was one thought, scarcely shaped out to herself, yet fervent
-and strong within her, that upheld Florence when she strove and filled
-her true young heart, so sorely tried, with constancy of purpose. Into
-her mind, as into all others contending with the great affliction of
-our mortal [[Nature|nature]], there had stolen solemn wonderings and hopes,
-arising in the dim world beyond the present life, and murmuring, like
-faint music, of recognition in the far-off land between her brother and
-her mother: of some present consciousness in both of her: some [[Love|love]] and
-commiseration for her: and some knowledge of her as she went her way
-upon the earth. It was a soothing consolation to Florence to give
-shelter to these thoughts, until one day—it was soon after she had last
-seen her father in his own room, late at [[Night|night]]—the fancy came upon her,
-that, in weeping for his alienated heart, she might stir the spirits of
-the dead against him. Wild, weak, childish, as it may have been to
-think so, and to tremble at the half-formed thought, it was the impulse
-of her loving [[Nature|nature]]; and from that hour Florence strove against the
-cruel wound in her breast, and tried to think of him whose hand had
-made it, only with [[Hope|hope]].
+Mr Dombey bows, without raising his eyes, and is silent.
 
-Her father did not know—she held to it from that [[Time|time]]—how much she
-loved him. She was very young, and had no mother, and had never
-learned, by some fault or misfortune, how to express to him that she
-loved him. She would be patient, and would try to gain that art in
-[[Time|time]], and win him to a better knowledge of his only [[Child|child]].
+“Now, Dombey,” says the Major, “our friend Feenix having, with an
+amount of eloquence that Old Joe B. has never heard surpassed—no, by
+the Lord, Sir! never!”—says the Major, very blue, indeed, and grasping
+his cane in the middle—“stated the case as regards the lady, I shall
+presume upon our [[Friendship|friendship]], Dombey, to offer a word on another aspect
+of it. Sir,” says the Major, with the [[Horse|horse]]’s cough, “the world in
+these things has opinions, which must be satisfied.”
 
-This became the purpose of her life. The morning sun shone down upon
-the faded [[house]], and found the resolution bright and fresh within the
-bosom of its solitary mistress, Through all the duties of the day, it
-animated her; for Florence hoped that the more she knew, and the more
-accomplished she became, the more glad he would be when he came to know
-and like her. Sometimes she wondered, with a swelling heart and rising
-tear, whether she was proficient enough in anything to surprise him
-when they should become companions. Sometimes she tried to think if
-there were any kind of knowledge that would bespeak his interest more
-readily than another. Always: at her books, her music, and her work: in
-her morning walks, and in her nightly prayers: she had her engrossing
-aim in view. Strange study for a [[Child|child]], to learn the [[Road|road]] to a hard
-parent’s heart!
+“I know it,” rejoins Mr Dombey.
 
-There were many careless loungers through the street, as the [[Summer|summer]]
-evening deepened into [[Night|night]], who glanced across the [[Road|road]] at the sombre
-[[house]], and saw the youthful figure at the [[Window|window]], such a contrast to
-it, looking upward at the [[Stars|stars]] as they began to shine, who would have
-slept the worse if they had known on what design she mused so
-steadfastly. The reputation of the mansion as a haunted [[house]], would
-not have been the gayer with some humble dwellers elsewhere, who were
-struck by its external gloom in passing and repassing on their daily
-avocations, and so named it, if they could have read its story in the
-darkening face. But Florence held her sacred purpose, unsuspected and
-unaided: and studied only how to bring her father to the understanding
-that she loved him, and made no appeal against him in any wandering
-thought.
+“Of course you know it, Dombey,” says the Major, “Damme, Sir, I know
+you know it. A man of your calibre is not likely to be ignorant of it.”
 
-Thus Florence lived [[Alone|alone]] in the deserted [[house]], and day succeeded day,
-and still she lived [[Alone|alone]], and the monotonous walls looked down upon
-her with a stare, as if they had a Gorgon-like intent to stare her
-youth and [[Beauty|beauty]] into stone.
+“I [[Hope|hope]] not,” replies Mr Dombey.
+
+“Dombey!” says the Major, “you will guess the rest. I speak
+out—prematurely, perhaps—because the Bagstock breed have always spoke
+out. Little, Sir, have they ever got by doing it; but it’s in the
+Bagstock [[Blood|blood]]. A shot is to be taken at this man. You have J. B. at
+your elbow. He claims the name of friend. God bless you!”
+
+“Major,” returns Mr Dombey, “I am obliged. I shall put myself in your
+hands when the [[Time|time]] comes. The [[Time|time]] not being come, I have forborne to
+speak to you.”
+
+“Where is the fellow, Dombey?” inquires the Major, after gasping and
+looking at him, for a minute.
+
+“I don’t know.”
+
+“Any intelligence of him?” asks the Major.
+
+“Yes.”
+
+“Dombey, I am rejoiced to hear it,” says the Major. “I congratulate
+you.”
+
+“You will excuse—even you, Major,” replies Mr Dombey, “my entering into
+any further detail at present. The intelligence is of a singular kind,
+and singularly obtained. It may turn out to be valueless; it may turn
+out to be true; I cannot say at present. My explanation must stop
+here.”
+
+Although this is but a dry reply to the Major’s purple enthusiasm, the
+Major receives it graciously, and is delighted to think that the world
+has such a fair prospect of soon receiving its due. Cousin Feenix is
+then presented with his meed of acknowledgment by the husband of his
+lovely and accomplished relative, and Cousin Feenix and [[Major Bagstock]]
+retire, leaving that husband to the world again, and to ponder at
+leisure on their representation of its state of mind concerning his
+affairs, and on its just and reasonable expectations.
+
+But who sits in the housekeeper’s room, shedding [[Tears|tears]], and talking to
+Mrs Pipchin in a low tone, with uplifted hands? It is a lady with her
+face concealed in a very close black bonnet, which appears not to
+belong to her. It is Miss Tox, who has borrowed this disguise from her
+servant, and comes from Princess’s Place, thus secretly, to revive her
+old acquaintance with Mrs Pipchin, in order to get certain information
+of the state of Mr Dombey.
+
+“How does he bear it, my dear creature?” asks Miss Tox.
+
+“[[Well]],” says Mrs Pipchin, in her snappish way, “he’s pretty much as
+usual.”
+
+“Externally,” suggests Miss Tox “But what he feels within!”
+
+Mrs Pipchin’s hard grey eye looks doubtful as she answers, in three
+distinct jerks, “Ah! Perhaps. I suppose so.”
+
+“To tell you my mind, Lucretia,” says Mrs Pipchin; she still calls Miss
+Tox Lucretia, on account of having made her first experiments in the
+[[Child|child]]-quelling line of business on that lady, when an unfortunate and
+weazen little girl of tender years; “to tell you my mind, Lucretia, I
+think it’s a good riddance. I don’t want any of your brazen faces here,
+myself!”
+
+“Brazen indeed! [[Well]] may you say brazen, Mrs Pipchin!” returned Miss
+Tox. “To leave him! Such a noble figure of a man!” And here Miss Tox is
+overcome.
+
+“I don’t know about noble, I’m sure,” observes Mrs Pipchin; irascibly
+rubbing her nose. “But I know this—that when people meet with trials,
+they must bear ’em. Hoity, toity! I have had enough to bear myself, in
+my [[Time|time]]! What a fuss there is! She’s gone, and [[Well|well]] got rid of. Nobody
+wants her back, I should think!”

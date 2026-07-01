@@ -1,5 +1,5 @@
 ---
-title: "[[Romeo]] and [[Juliet]] — Act V, Scene 3 — exchange ([[Romeo|ROMEO]]) [2]"
+title: "Romeo and Juliet — Act V, Scene 3 — exchange (ROMEO) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/romeo-and-juliet-(shakespeare)"

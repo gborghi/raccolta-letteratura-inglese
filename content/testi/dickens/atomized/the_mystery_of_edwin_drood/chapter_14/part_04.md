@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 13 (part 4)"
+title: "The Mystery of Edwin Drood — Chapter 13 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_14/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_15/part_01">part 01 ›</a></div>
 </nav>
 
+
+Let them be. Let them lie unspoken of, in his breast. However
+distinctly or indistinctly he entertained these thoughts, he arrived at
+the conclusion, Let them be. Among the mighty store of wonderful [[Chains|chains]]
+that are for ever forging, day and [[Night|night]], in the vast iron-works of
+[[Time|time]] and circumstance, there was one chain forged in the moment of that
+small conclusion, riveted to the foundations of heaven and earth, and
+gifted with invincible force to hold and drag.
 
 They walked on by the [[River|river]]. They began to speak of their separate
 plans. He would quicken his departure from England, and she would

@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 59 (part 4)"
+title: "Bleak House — Chapter 59 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -12,6 +12,36 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/bleak-house-(dickens)">Bleak House</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_59/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_59/part_05">part 05 ›</a></div>
 </nav>
+
+
+It had been written in portions, at different times. I read what
+follows:
+
+
+   I came to the cottage with two objects. First, to see the
+   dear one, if I could, once more—but only to see her—not
+   to speak to her or let her know that I was near. The other
+   object, to elude pursuit and to be lost. Do not blame the
+   mother for her share. The assistance that she rendered me,
+   she rendered on my strongest assurance that it was for the
+   dear one’s good. You remember her dead [[Child|child]]. The men’s
+   consent I bought, but her help was freely given.
+
+
+“‘I came.’ That was written,” said my companion, “when she rested
+there. It bears out what I made of it. I was right.”
+
+The next was written at another [[Time|time]]:
+
+
+   I have wandered a long distance, and for many hours, and
+   I know that I must soon die. These streets! I have no
+   purpose but to die. When I left, I had a worse, but I am
+   saved from adding that [[Guilt|guilt]] to the rest. Cold, wet, and
+   fatigue are sufficient causes for my being found dead, but
+   I shall die of others, though I suffer from these. It was
+   right that all that had sustained me should give way at
+   once and that I should die of terror and my [[Conscience|conscience]].
 
 
 “Take [[Courage|courage]],” said Mr. Bucket. “There’s only a few words more.”
@@ -126,28 +156,3 @@ harm, and she said no—no harm. And so I took it from her, and she
 said she had nothing to give me, and I said I was poor myself and
 consequently wanted nothing. And so she said God bless you, and
 went.”
-
-“And did she go—”
-
-“Yes,” cried the girl, anticipating the inquiry. “Yes! She went the
-way I had shown her. Then I came in, and Mrs. Snagsby came behind me
-from somewhere and laid hold of me, and I was frightened.”
-
-Mr. Woodcourt took her kindly from me. Mr. Bucket wrapped me up, and
-immediately we were in the street. Mr. Woodcourt hesitated, but I
-said, “Don’t leave me now!” and Mr. Bucket added, “You’ll be better
-with us, we may want you; don’t lose [[Time|time]]!”
-
-I have the most confused impressions of that walk. I recollect that
-it was neither [[Night|night]] nor day, that morning was dawning but the
-street-lamps were not yet put out, that the sleet was still falling
-and that all the ways were deep with it. I recollect a few chilled
-people passing in the streets. I recollect the wet [[house]]-tops, the
-clogged and bursting gutters and [[Water|water]]-spouts, the mounds of
-blackened ice and [[Snow|snow]] over which we passed, the narrowness of the
-courts by which we went. At the same [[Time|time]] I remember that the poor
-girl seemed to be yet telling her story audibly and plainly in my
-hearing, that I could feel her resting on my arm, that the stained
-[[house]]-fronts put on human shapes and looked at me, that great
-[[Water|water]]-gates seemed to be opening and closing in my head or in the
-air, and that the unreal things were more substantial than the real.

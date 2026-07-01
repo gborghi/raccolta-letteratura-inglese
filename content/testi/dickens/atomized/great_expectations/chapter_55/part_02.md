@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 55 (part 2)"
+title: "Great Expectations — Chapter 55 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_55/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_55/part_03">part 03 ›</a></div>
 </nav>
 
+
+“And Clara?” said I.
+
+“The dear little thing,” returned Herbert, “holds dutifully to her
+father as long as he lasts; but he won’t last long. Mrs. Whimple
+confides to me that he is certainly going.”
+
+“Not to say an unfeeling thing,” said I, “he cannot do better than go.”
 
 “I am afraid that must be admitted,” said Herbert; “and then I shall
 come back for the dear little thing, and the dear little thing and I
@@ -128,14 +136,3 @@ were strengthened into certainty when I beheld the Aged enter at a side
 door, escorting a lady.
 
 “Halloa!” said Wemmick. “Here’s Miss Skiffins! Let’s have a wedding.”
-
-That discreet [[Damsel|damsel]] was attired as usual, except that she was now
-engaged in substituting for her green kid gloves a pair of white. The
-Aged was likewise occupied in preparing a similar sacrifice for the
-altar of Hymen. The old gentleman, however, experienced so much
-difficulty in getting his gloves on, that Wemmick found it necessary to
-put him with his back against a pillar, and then to get behind the
-pillar himself and pull away at them, while I for my part held the old
-gentleman round the waist, that he might present an equal and safe
-resistance. By dint of this ingenious scheme, his gloves were got on to
-perfection.

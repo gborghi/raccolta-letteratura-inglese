@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 6 (part 4)"
+title: "Persuasion — Chapter 6 (part 4)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_06/part_03">‹ part 03</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_07/part_01">part 01 ›</a></div>
 </nav>
 
+
+she may not be dwelling upon such gloomy things.”
+
+
+
+The real circumstances of this pathetic piece of family [[history]] were,
+
+that the Musgroves had had the ill fortune of a very troublesome,
+
+hopeless son; and the good fortune to lose him before he reached his
+
+twentieth year; that he had been sent to sea because he was stupid and
+
+unmanageable on shore; that he had been very little cared for at any
 
 [[Time|time]] by his family, though quite as much as he deserved; seldom heard
 

@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 7 (part 3)"
+title: "Persuasion — Chapter 7 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_07/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_08/part_01">part 01 ›</a></div>
 </nav>
 
+
+ago, when events had been early giving him the independence which [[Alone|alone]]
+
+had been wanting.
+
+
+
+Her brother and sister came back delighted with their new acquaintance,
+
+and their visit in general. There had been music, singing, talking,
+
+laughing, all that was most agreeable; charming manners in Captain
+
+Wentworth, no shyness or reserve; they seemed all to know each other
+
+perfectly, and he was coming the very next morning to shoot with
+
+Charles. He was to come to breakfast, but not at the Cottage, though
 
 that had been proposed at first; but then he had been pressed to come
 

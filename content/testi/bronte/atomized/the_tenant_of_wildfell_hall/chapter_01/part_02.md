@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 1 (part 2)"
+title: "The Tenant of Wildfell Hall — Chapter 1 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_01/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_01/part_03">part 03 ›</a></div>
 </nav>
 
+
+mother earnestly, holding up her finger.
+
+
+
+“[[Well]],” resumed [[Rose]]; “I was going to tell you an important piece of
+
+news I heard there—I have been bursting with it ever since. You know it
 
 was reported a month ago, that somebody was going to take Wildfell
 
@@ -225,23 +233,3 @@ and Eliza Millward.”
 more charming. I allow she has small claims to perfection; but then, I
 
 maintain that, if she were more perfect, she would be less
-
-interesting.”
-
-
-
-“And so you prefer her faults to other people’s perfections?”
-
-
-
-“Just so—saving my mother’s presence.”
-
-
-
-“Oh, my dear Gilbert, what nonsense you talk!—I know you don’t mean it;
-
-it’s quite out of the question,” said my mother, getting up, and
-
-bustling out of the room, under pretence of household business, in
-
-order to escape the contradiction that was trembling on my tongue.

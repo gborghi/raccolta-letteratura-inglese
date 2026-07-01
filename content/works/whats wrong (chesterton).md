@@ -45,13 +45,13 @@ tags:
 - [Chapter 01 THE HOMELESSNESS OF MAN](/testi/chesterton/atomized/whats_wrong/chapter_01_the_homelessness_of_man)
 - [Chapter 02 IMPERIALISM OR THE MISTAKE ABO](/testi/chesterton/atomized/whats_wrong/chapter_02_imperialism_or_the_mistake_abo)
 - [Chapter 03 FEMINISM OR THE MISTAKE ABOUT](/testi/chesterton/atomized/whats_wrong/chapter_03_feminism_or_the_mistake_about)
-- [Chapter 04 EDUCATION OR THE MISTAKE ABOUT](/testi/chesterton/atomized/whats_wrong/chapter_04_education_or_the_mistake_about)
-- [Chapter 05 THE HOME OF MAN](/testi/chesterton/atomized/whats_wrong/chapter_05_the_home_of_man)
+- Chapter 04 EDUCATION OR THE MISTAKE ABOUT
+- Chapter 05 THE HOME OF MAN
 - [Chapter 06](/testi/chesterton/atomized/whats_wrong/chapter_06)
 - [Chapter 07](/testi/chesterton/atomized/whats_wrong/chapter_07)
 - [Chapter 08](/testi/chesterton/atomized/whats_wrong/chapter_08)
 - [Chapter 09](/testi/chesterton/atomized/whats_wrong/chapter_09)
-- [Chapter 10](/testi/chesterton/atomized/whats_wrong/chapter_10)
+- Chapter 10
 
 ## Testo integrale / Full text
 

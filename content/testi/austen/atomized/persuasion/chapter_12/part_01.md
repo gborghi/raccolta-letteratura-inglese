@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 12 (part 1)"
+title: "Persuasion — Chapter 12 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -40,7 +40,7 @@ till Henrietta suddenly began again with—
 
 sea-air always does good. There can be no [[Doubt|doubt]] of its having been of
 
-the greatest service to Dr [[Shirley]], after his illness, last [[spring]]
+the greatest service to Dr [[Shirley]], after his illness, last [[Spring|spring]]
 
 twelvemonth. He declares himself, that coming to Lyme for a month, did
 
@@ -203,7 +203,3 @@ second meeting, short as it was, also proved again by the gentleman’s
 looks, that he thought hers very lovely, and by the readiness and
 
 propriety of his apologies, that he was a man of exceedingly good
-
-manners. He seemed about thirty, and though not handsome, had an
-
-agreeable person. Anne felt that she should like to know who he was.

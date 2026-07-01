@@ -14,6 +14,41 @@ tags:
 </nav>
 
 
+Here too are lanes and alleys, paved with mud knee-deep, underground
+chambers, where they [[Dance|dance]] and game; the walls bedecked with rough
+designs of ships, and forts, and flags, and American eagles out of
+number: ruined houses, open to the street, whence, through wide gaps in
+the walls, other ruins loom upon the eye, as though the world of vice and
+misery had nothing else to show: hideous tenements which take their name
+from robbery and murder: all that is loathsome, drooping, and decayed is
+here.
+
+Our leader has his hand upon the latch of ‘Almack’s,’ and calls to us
+from the [[Bottom|bottom]] of the steps; for the assembly-room of the Five Point
+fashionables is approached by a descent.  Shall we go in?  It is but a
+moment.
+
+Heyday! the landlady of Almack’s thrives!  A buxom fat mulatto woman,
+with sparkling eyes, whose head is daintily ornamented with a
+handkerchief of many colours.  Nor is the landlord much behind her in his
+finery, being attired in a smart blue jacket, like a [[Ship|ship]]’s steward, with
+a thick gold ring upon his little finger, and round his neck a gleaming
+golden watch-guard.  How glad he is to see us!  What will we please to
+call for?  A [[Dance|dance]]?  It shall be done directly, sir: ‘a regular
+break-down.’
+
+The corpulent black fiddler, and his friend who plays the tambourine,
+stamp upon the boarding of the small raised orchestra in which they sit,
+and play a lively measure.  Five or six couple come upon the floor,
+marshalled by a lively young negro, who is the wit of the assembly, and
+the greatest dancer known.  He never [[Leaves|leaves]] off making queer faces, and
+is the delight of all the rest, who grin from ear to ear incessantly.
+Among the dancers are two young mulatto girls, with large, black,
+drooping eyes, and head-gear after the fashion of the hostess, who are as
+shy, or feign to be, as though they never danced before, and so look down
+before the visitors, that their partners can see nothing but the long
+fringed lashes.
+
 But the [[Dance|dance]] commences.  Every gentleman sets as long as he likes to the
 opposite lady, and the opposite lady to him, and all are so long about it
 that the sport begins to languish, when suddenly the lively [[Hero|hero]] dashes
@@ -26,7 +61,7 @@ Single shuffle, [[Double|double]] shuffle, cut and [[Cross|cross]]-cut; snapping
 [[rolling]] his eyes, turning in his knees, presenting the backs of his legs
 in front, spinning about on his toes and heels like nothing but the man’s
 fingers on the tambourine; dancing with two left legs, two right legs,
-two wooden legs, two wire legs, two [[Spring|spring]] legs—all sorts of legs and no
+two wooden legs, two wire legs, two [[spring]] legs—all sorts of legs and no
 legs—what is this to him? And in what walk of life, or [[Dance|dance]] of life,
 does man ever get such stimulating applause as thunders about him, when,
 having danced his partner off her feet, and himself too, he finishes by
@@ -79,48 +114,3 @@ may, there was a [[Fire|fire]] last [[Night|night]], there are two to-[[Night|ni
 an even wager there will be at least one, to-morrow.  So, carrying that
 with us for our comfort, let us say, Good [[Night|night]], and climb up-stairs to
 bed.
-
-                                * * * * *
-
-One day, during my stay in [[New York]], I paid a visit to the different
-public institutions on Long Island, or Rhode Island: I forget which.  One
-of them is a Lunatic Asylum.  The building is handsome; and is remarkable
-for a spacious and elegant staircase.  The whole structure is not yet
-finished, but it is already one of considerable size and extent, and is
-capable of accommodating a very large number of patients.
-
-I cannot say that I derived much comfort from the inspection of this
-[[Charity|charity]].  The different wards might have been cleaner and better ordered;
-I saw nothing of that salutary system which had impressed me so
-favourably elsewhere; and everything had a lounging, listless, madhouse
-air, which was very painful.  The moping idiot, cowering down with long
-dishevelled hair; the gibbering maniac, with his hideous laugh and
-pointed finger; the vacant eye, the fierce wild face, the gloomy picking
-of the hands and lips, and munching of the nails: there they were all,
-without disguise, in naked ugliness and horror.  In the dining-room, a
-bare, dull, dreary place, with nothing for the eye to rest on but the
-empty walls, a woman was locked up [[Alone|alone]].  She was bent, they told me, on
-committing [[suicide]].  If anything could have strengthened her in her
-resolution, it would certainly have been the insupportable monotony of
-such an existence.
-
-The terrible crowd with which these halls and galleries were filled, so
-shocked me, that I abridged my stay within the shortest limits, and
-declined to see that portion of the building in which the refractory and
-violent were under closer restraint.  I have no [[Doubt|doubt]] that the gentleman
-who presided over this establishment at the [[Time|time]] I write of, was
-competent to manage it, and had done all in his power to promote its
-usefulness: but will it be believed that the miserable strife of Party
-feeling is carried even into this sad refuge of afflicted and degraded
-humanity?  Will it be believed that the eyes which are to watch over and
-control the wanderings of minds on which the most dreadful visitation to
-which our [[Nature|nature]] is exposed has fallen, must wear the glasses of some
-wretched side in Politics?  Will it be believed that the governor of such
-a [[house]] as this, is appointed, and deposed, and changed perpetually, as
-Parties fluctuate and vary, and as their despicable weathercocks are
-blown this way or that?  A hundred times in every week, some new most
-paltry exhibition of that narrow-minded and injurious Party Spirit, which
-is the Simoom of [[America]], sickening and blighting everything of wholesome
-life within its reach, was forced upon my notice; but I never turned my
-back upon it with feelings of such deep disgust and measureless contempt,
-as when I crossed the threshold of this madhouse.

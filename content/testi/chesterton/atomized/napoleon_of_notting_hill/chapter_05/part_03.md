@@ -1,5 +1,5 @@
 ---
-title: "Napoleon of Notting [[Hill]] — Chapter 1 (part 3)"
+title: "Napoleon of Notting Hill — Chapter 2 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/napoleon-of-notting-hill-(chesterton)"
@@ -10,110 +10,137 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_05/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_06/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_05/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_05/part_04">part 04 ›</a></div>
 </nav>
 
 
-There was a short [[Silence|silence]], and then a voice said "Shame."
+"I don't understand your Majesty," said the Provost stolidly.
 
-The [[King]] continued:  "Being called, however unworthily,
-to this high estate, I have resolved that, so far as possible,
-this neglect shall cease.  I [[Desire|desire]] no military glory.
-I lay claim to no constitutional equality with Justinian or Alfred.
-If I can go down to [[history]] as the man who saved from extinction a few
-old English customs, if our descendants can say it was through this man,
-humble as he was, that the Ten Turnips are still eaten in Fulham,
-and the Putney parish councillor still shaves one half of his head I
-shall look my great fathers reverently but not fearfully in the face
-when I go down to the last [[house]] of Kings."
+"Never mind, never mind," said the [[King]], gaily.  "A knowledge of Courts
+is by no means an unmixed merit; you will do it next [[Time|time]], no [[Doubt|doubt]]."
 
-The [[King]] paused, visibly affected, but collecting himself,
-resumed once more.
+The man of business looked at him sulkily from under his black
+brows and said again without show of civility:
 
-"I trust that to very few of you, at least, I need dwell on the [[Sublime|sublime]]
-origins of these legends.  The very names of your boroughs bear
-witness to them.  So long as Hammersmith is called Hammersmith,
-its people will live in the [[Shadow|shadow]] of that primal [[Hero|hero]], the Blacksmith,
-who led the [[democracy]] of the Broadway into battle till he drove
-the chivalry of Kensington before him and overthrew them at that place
-which in [[Honour|honour]] of the best [[Blood|blood]] of the defeated aristocracy is still
-called Kensington Gore.  Men of Hammersmith will not fail to remember
-that the very name of Kensington originated from the lips of their [[Hero|hero]].
-For at the great banquet of [[Reconciliation|reconciliation]] held after the war,
-when the disdainful oligarchs declined to join in the [[songs]] of the men
-of the Broadway (which are to this day of a rude and popular character),
-the great Republican leader, with his rough [[Humour|humour]], said the words
-which are written in gold upon his monument, 'Little [[Birds|birds]]
-that can sing and won't sing, must be made to sing.'  So that the
-Eastern Knights were called Cansings or Kensings ever afterwards.
-But you also have great memories, O men of Kensington!  You showed
-that you could sing, and sing great war-[[songs]]. Even after the dark
-day of Kensington Gore, [[history]] will not forget those three Knights
-who guarded your disordered retreat from Hyde Park (so called from your
-hiding there), those three Knights after whom Knightsbridge is named.
-Nor will it forget the day of your re-emergence, purged in the [[Fire|fire]]
-of calamity, cleansed of your oligarchic corruptions, when, [[Sword|sword]] in hand,
-you drove the Empire of Hammersmith back mile by mile, swept it
-past its own Broadway, and broke it at last in a battle so long
-and bloody that the [[Birds|birds]] of prey have left their name upon it.
-Men have called it, with austere irony, the Ravenscourt.
-I shall not, I trust, wound the patriotism of Bayswater,
-or the lonelier [[Pride|pride]] of Brompton, or that of any other
-historic township, by taking these two special examples.
-I select them, not because they are more glorious than the rest,
-but partly from personal association (I am myself descended
-from one of the three heroes of Knightsbridge), and partly from
-the consciousness that I am an amateur antiquarian and cannot presume
-to deal with times and places more remote and more mysterious.
-It is not for me to settle the question between two such men
-as Professor Hugg and Sir William Whisky as to whether Notting [[Hill]]
-means Nutting [[Hill]] (in allusion to the rich woods which no
-longer cover it), or whether it is a corruption of Nothing-ill,
-referring to its reputation among the ancients as an Earthly Paradise.
-When a Podkins and a Jossy confess themselves doubtful about the
-boundaries of West Kensington (said to have been traced in the [[Blood|blood]]
-of Oxen), I need not be ashamed to confess a similar [[Doubt|doubt]].
-I will ask you to excuse me from further [[history]], and to assist me
-with your encouragement in dealing with the problem which faces us
-to-day. Is this ancient spirit of the [[London]] townships to die out?
-Are our omnibus conductors and policemen to lose altogether that light
-which we see so often in their eyes, the dreamy light of
+"I don't follow you."
 
-"'Old unhappy far-off things And battles long ago'
+"[[Well]], [[Well|well]]," replied the [[King]], good-naturedly, "if you ask
+me I don't mind telling you, not because I myself attach any
+importance to these forms in comparison with the Honest Heart.
+But it is usual...it is usual...that is all, for a man when entering
+the presence of Royalty to lie down on his back on the floor and
+elevating his feet towards heaven (as the source of Royal power)
+to say three times 'Monarchical institutions improve the manners.'
+But there, there-such pomp is far less truly dignified than
+your simple kindliness."
 
-"to quote the words of a little-known poet who was a friend of my youth?
-I have resolved, as I have said, so far as possible, to preserve the eyes
-of policemen and omnibus conductors in their present dreamy state.
-For what is a state without [[Dreams|dreams]]?  And the remedy I propose
-is as follows:
+The Provost's face was red with anger and he maintained [[Silence|silence]].
 
-"To-morrow morning at twenty-five minutes past ten,
-if Heaven spares my life, I purpose to issue a Proclamation.
-It has been the work of my life and is about half finished.
-With the assistance of a whisky and soda, I shall conclude
-the other half to-[[Night|night]], and my people will receive it to-morrow.
-All these boroughs where you were born, and [[Hope|hope]] to lay your bones,
-shall be reinstated in their ancient magnificence...Hammersmith,
-Kensington, Bayswater, Chelsea, Battersea, Clapham, Balham, and a
-hundred others.  Each shall immediately build a [[City|city]] wall with gates to be
-closed at sunset.  Each shall have a [[City|city]] guard, armed to the teeth.
-Each shall have a banner, a coat-of-arms, and, if convenient,
-a gathering cry.  I will not enter into the details now, my heart
-is too full.  They will be found in the proclamation itself.
-You will all, however, be subject to enrolment in the local
-[[City|city]] guards, to be summoned together by a thing called the Tocsin,
-the meaning of which I am studying in my researches into [[history]].
-Personally, I believe a tocsin to be some kind of highly paid official.
-If, therefore, any of you happen to have such a thing as a halberd
-in the [[house]], I should advise you to practise with it in the [[Garden|garden]]."
+"And now," said the [[King]], lightly, and with the exasperating air
+of a man softening a snub; "what delightful weather we are having!
+You must find your official robes warm, my Lord.  I designed them
+for your own [[Snow|snow]]-bound land."
 
-Here the [[King]] buried his face in his handkerchief and hurriedly
-left the platform, overcome by emotions.
+"They're as hot as hell," said Buck, briefly.  "I came here on business."
 
-The members of the Society for the Recovery of [[London]] Antiquities
-[[Rose|rose]] in an indescribable state of vagueness.  Some were purple
-with indignation; an intellectual few were purple with laughter;
-the great majority found their minds a blank.  There remains
-a tradition that one pale face with burning blue eyes remained
-fixed upon the lecturer, and after the lecture a red-haired boy
-ran out of the room.
+"Right," said the [[King]], nodding a great number of times with quite
+unmeaning solemnity; "right, right, right.  Business, as the sad
+glad old Persian said, is business.  Be punctual.  Rise early.
+Point the pen to the shoulder.  Point the pen to the shoulder, for you
+know not whence you come nor why.  Point the pen to the shoulder,
+for you know not when you go nor where."
+
+The Provost pulled a number of papers from his pocket and savagely
+flapped them open.
+
+"Your Majesty may have heard," he began, sarcastically, "of Hammersmith
+and a thing called a [[Road|road]].  We have been at work ten years buying
+property and getting compulsory powers and fixing compensation
+and squaring vested interests, and now at the very end, the thing
+is stopped by a [[Fool|fool]].  Old Prout, who was Provost of Notting [[Hill]],
+was a business man, and we dealt with him quite satisfactorily.
+But he's dead, and the cursed lot has fallen to a young man named Wayne,
+who's up to some game that's perfectly incomprehensible to me.
+We offer him a better price than any one ever dreamt of, but he won't
+let the [[Road|road]] go through.  And his Council seem to be backing him up.
+It's midsummer [[Madness|madness]]."
+
+The [[King]], who was rather inattentively engaged in drawing the Provost's
+nose with his finger on the [[Window|window]]-pane, heard the last two words.
+
+"What a perfect phrase that is," he said.  "'Midsummer [[Madness|madness]]!'"
+
+"The chief point is," continued Buck, doggedly, "that the only part
+that is really in question is one dirty little street...Pump Street...a
+street with nothing in it but a public [[house]] and a penny toy-shop,
+and that sort of thing.  All the respectable people of Notting [[Hill]]
+have accepted our compensation.  But the ineffable Wayne sticks
+out over Pump Street.  Says he's Provost of Notting [[Hill]].
+He's only Provost of Pump Street."
+
+"A good thought," replied Auberon.  "I like the idea of a Provost
+of Pump Street.  Why not let him [[Alone|alone]]?"
+
+"And drop the whole scheme!" cried out Buck, with a burst of
+brutal spirit.  "I'll be damned if we do.  No. I'm for sending
+in workmen to pull down without more ado."
+
+"Strike for the purple Eagle," cried the [[King]], hot with
+historical associations.
+
+"I'll tell you what it is," said Buck, losing his temper altogether.
+"If your Majesty would spend less [[Time|time]] in insulting respectable
+people with your silly coats-of-arms, and more [[Time|time]] over the business
+of the nation..."
+
+The [[King]]'s brow wrinkled thoughtfully.
+
+"The situation is not bad," he said; "the haughty burgher defying
+the [[King]] in his own Palace.  The burgher's head should be thrown back
+and the right arm extended; the left may be lifted towards Heaven,
+but that I leave to your private religious sentiment.
+I have sunk back in this chair, stricken with baffled fury.
+Now again, please."
+
+Buck's mouth opened like a dog's, but before he could speak another
+herald appeared at the door.
+
+"The Lord High Provost of Bayswater," he said, "desires an audience."
+
+"Admit him," said Auberon.  "This is a jolly day."
+
+The halberdiers of Bayswater wore a prevailing uniform of green,
+and the banner which was borne after them was emblazoned with a
+green bay-wreath on a silver ground, which the [[King]], in the course
+of his researches into a bottle of champagne, had discovered to be
+the quaint old punning cognisance of the [[City|city]] of Bayswater.
+
+"It is a fit symbol," said the [[King]], "your immortal bay-wreath.
+Fulham may seek for wealth, and Kensington for art, but when did
+the men of Bayswater care for anything but glory?"
+
+Immediately behind the banner, and almost completely hidden
+by it, came the Provost of the [[City|city]], clad in splendid robes
+of green and silver with white fur and crowned with bay.
+He was an anxious little man with red whiskers, originally the owner
+of a small sweet-stuff shop.
+
+"Our cousin of Bayswater," said the [[King]], with delight; "what can
+we get for you?"  The [[King]] was heard also distinctly to mutter,
+"Cold beef, cold 'am, cold chicken," his voice dying into [[Silence|silence]].
+
+"I came to see your Majesty," said the Provost of Bayswater,
+whose name was Wilson, "about that Pump Street affair."
+
+"I have just been explaining the situation to his Majesty,"
+said Buck, curtly, but recovering his civility.  "I am not sure, however,
+whether his Majesty knows how much the matter affects you also."
+
+"It affects both of us, yer see, yer Majesty, as this scheme
+was started for the benefit of the 'ole neighbourhood.
+So Mr. Buck and me we put our 'eads together..."
+
+The [[King]] clasped his hands.
+
+"Perfect," he cried in ecstacy.  "Your heads together!  I can see it!
+Can't you do it now?  Oh, do do it now."

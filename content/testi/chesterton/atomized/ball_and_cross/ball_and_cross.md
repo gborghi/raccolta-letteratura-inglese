@@ -1,5 +1,5 @@
 ---
-title: "ball and [[Cross|cross]]"
+title: "ball and cross"
 author: "Chesterton"
 unitType: work
 parentWork: "works/ball-and-cross-(chesterton)"
@@ -1585,9 +1585,9 @@ and heart-moving futility, which is never evoked by deserts or dead
 men or men neglected and barbarous, which can only be invoked
 by the sight of the enormous genius of man applied to anything other
 than the best.  Turnbull, the old idealistic democrat, had so often
-reviled the [[Democracy|democracy]] and reviled them justly for their supineness,
+reviled the [[democracy]] and reviled them justly for their supineness,
 their snobbishness, their evil reverence for idle things.
-He was right enough; for our [[Democracy|democracy]] has only one great fault;
+He was right enough; for our [[democracy]] has only one great fault;
 it is not democratic.  And after denouncing so justly average
 modern men for so many years as sophists and as slaves, he looked
 down from an empty slope in Hampstead and saw what gods they are.
@@ -6497,7 +6497,7 @@ It is your own forefather, MacIan with the broken [[Sword|sword]], bleeding with
 of the [[Rebel|rebel]] [[Court|court]].  It is Mary of the [[Magic|magic]] face confronting
 the gloomy and grasping peers and the boorish moralities of Knox.
 It is [[Richard]], the last Plantagenet, giving his [[Crown|crown]] to Bolingbroke
-as to a common brigand.  It is [[Arthur]], overwhelmed in Lyonesse by heathen
+as to a common brigand.  It is [[arthur|Arthur]], overwhelmed in Lyonesse by heathen
 armies and dying in the mist, doubtful if ever he shall return."
 
 "But now----" said Evan, in a low voice.
@@ -7040,7 +7040,7 @@ but his face seemed oddly pale.  The other went on with enthusiasm.
 
 "Life, yes, Life is indeed sacred!" he cried; "but new lives for old!
 Good lives for bad!  On that very place where now there sprawls one
-drunken wastrel of a pavement [[artist]] more or less wishing he were dead--
+drunken wastrel of a pavement [[Artist|artist]] more or less wishing he were dead--
 on that very spot there shall in the future be living pictures;
 there shall be golden girls and boys leaping in the sun."
 
@@ -8521,7 +8521,7 @@ MacIan had already gone across to [[Beatrice]] with an air of fright.
 Then all these bewildered but partly amicable recognitions were cloven
 by a cruel voice which always made all human [[Blood|blood]] turn bitter.
 The Master was standing in the middle of the room surveying
-the scene like a great [[artist]] looking at a completed picture.
+the scene like a great [[Artist|artist]] looking at a completed picture.
 Handsome as he looked, they had never seen so clearly what was
 really hateful in his face; and even then they could only express
 it by saying that the arched brows and the long emphatic chin

@@ -1,5 +1,5 @@
 ---
-title: "III. The [[Fire]] Sermon"
+title: "III. The Fire Sermon"
 author: "Eliot"
 unitType: section
 tags:

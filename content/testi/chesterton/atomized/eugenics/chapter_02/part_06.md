@@ -1,5 +1,5 @@
 ---
-title: "[[Eugenics]] — Part 1 (part 6)"
+title: "Eugenics — Part 1 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/eugenics-(chesterton)"
@@ -13,6 +13,35 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/eugenics/chapter_02/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/eugenics/chapter_02/part_07">part 07 ›</a></div>
 </nav>
 
+
+Another case out of hundreds is the loose extension of the idea of libel.
+Libel cases bear no more trace of the old and just anger against
+the man who bore false witness against his neighbour than "cruelty"
+cases do of the old and just horror of the parents that hated their
+own flesh.  A libel case has become one of the sports of the less
+athletic rich --- a variation on baccarat, a game of chance.
+A music-hall actress got damages for a [[Song|song]] that was called "vulgar,"
+which is as if I could fine or imprison my neighbour for calling
+my handwriting "rococo." A politician got huge damages because he was
+said to have spoken to children about Tariff [[Reform]]; as if that
+seductive topic would corrupt their virtue, like an indecent story.
+Sometimes libel is defined as anything calculated to hurt a man
+in his business; in which case any new tradesman calling himself
+a [[grocer]] slanders the [[grocer]] opposite.  All this, I say, is Anarchy;
+for it is clear that its exponents possess no power of distinction,
+or sense of proportion, by which they can draw the line between
+calling a woman a popular singer and calling her a bad lot; or between
+charging a man with leading infants to Protection and leading them
+to sin and shame.  But the vital point to which to return is this.
+That it is not necessarily nor even specially, an anarchy
+in the populace.  It is an anarchy in the organ of [[government]].
+It is the magistrates --- voices of the governing class ---
+who cannot distinguish between cruelty and carelessness.
+It is the judges (and their very submissive special juries)
+who cannot see the difference between opinion and slander.
+And it is the highly placed and highly paid experts who have brought
+in the first Eugenic Law, the Feeble-Minded Bill --- thus showing
+that they can see no difference between a mad and a sane man.
 
 That, to begin with, is the historic atmosphere in which this thing
 was born.  It is a peculiar atmosphere, and luckily not likely to last.
@@ -94,33 +123,3 @@ and majorities in kind.  The madman who thinks he is a knife cannot
 go into partnership with the other who thinks he is a fork.
 There is no trysting place outside reason; there is no inn on
 those wild roads that are beyond the world.
-
-The madman is not he that defies the world.  The saint, the criminal,
-the martyr, the cynic, the nihilist may all defy the world quite sanely.
-And even if such fanatics would destroy the world the world owes
-them a strictly fair trial according to proof and public law.
-But the madman is not the man who defies the world; he is the man
-who denies it.  Suppose we are all standing round a field and looking
-at a tree in the middle of it.  It is perfectly true that we all
-see it (as the decadents say) in infinitely different aspects:
-that is not the point; the point is that we all say it is a tree.
-Suppose, if you will, that we are all poets? which seems improbable;
-so that each of us could turn his aspect into a vivid image
-distinct from a tree.  Suppose one says it looks like a green
-cloud and another like a green fountain, and a third like a green
-dragon and the fourth like a green [[cheese]].  The fact remains:
-that they all say it looks like these things.  It is a tree.
-Nor are any of the poets in the least mad because of any opinions
-they may form, however frenzied, about the functions or future
-of the tree.  A conservative poet may wish to clip the tree;
-a revolutionary poet may wish to burn it.  An optimist poet
-may want to make it a Christmas tree and hang candles on it.
-A pessimist poet may want to hang himself on it.  None of these
-are mad, because they are all talking about the same thing.
-But there is another man who is talking horribly about something else.
-There is a monstrous exception to mankind.  Why he is so we know not;
-a new theory says it is heredity; an older theory says it is devils.
-But in any case, the spirit of it is the spirit that denies,
-the spirit that really denies realities.  This is the man who looks
-at the tree and does not say it looks like a [[Lion|lion]], but says that it
-is a lamp-post.

@@ -1,5 +1,5 @@
 ---
-title: "Napoleon of Notting [[Hill]] — Chapter 1 (part 2)"
+title: "Napoleon of Notting Hill — Chapter 1 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/napoleon-of-notting-hill-(chesterton)"
@@ -14,141 +14,120 @@ tags:
 </nav>
 
 
-Buck set down his glass with a bang, and spat out curses through
-his thick moustache.
+The [[King]] turned also, and stared out into the dark, where the great
+lamps that commemorated the battle were already flaming.
 
-"What is the matter?" asked Barker, stopping, for the man had
-been calm up to now, and now his agitation was far more violent
-than his own.
+"And is this the end of poor old Wayne?" he said, half to himself.
+"To inflame every one so much that he is lost himself in the blaze;
+Is this his victory, that he, my incomparable Wayne, is now
+only one in a world of Waynes?  Has he conquered and become by
+conquest commonplace?  Must Mr. Mead, the [[grocer]], talk as high as he?
+Lord! what a strange world in which a man cannot remain unique
+even by taking the trouble to go mad."
 
-"The matter?" said Buck, bitterly; "don't you see how these maniacs
-have got us?  Why should two idiots, one a clown and the other
-a screaming lunatic, make sane men so different from themselves?
-Look here, Barker; I will give you a picture.  A very [[Well|well]]-bred
-young man of this century is dancing about in a frock-coat. He
-has in his hands a nonsensical seventeenth century halberd,
-with which he is trying to kill men in the street in Notting [[Hill]].
-Damn it! don't you see how they've got us?  Never mind how you
-felt...that is how you looked.  The [[King]] would put his cursed head
-on one side and call it exquisite.  The Provost of Notting [[Hill]]
-would put his cursed nose in the air and call it heroic.
-But in Heaven's name what would you have called it...two days before?"
+And he went dreamily out of the shop.
 
-Barker bit his lip.
+He paused outside the next one almost precisely as the Provost
+had done two decades before.
 
-"You haven't been through it, Buck," he said.  "You don't
-understand fighting...the atmosphere."
+"How uncommonly creepy this shop looks," he said.  "But yet somehow
+encouragingly creepy, invitingly creepy.  It looks like something in a
+jolly old nursery story in which you are frightened out of your skin,
+and yet know that things always end [[Well|well]].  The way those low
+sharp gables are carved like great black bat's wings folded down,
+and the way those queer-coloured bowls underneath are made to shine
+like giant's eyeballs.  It looks like a benevolent warlock's hut.
+It is apparently a chemist's."
 
-"I don't deny the atmosphere," said Buck, striking the table.
-"I only say it's their atmosphere.  It's [[Adam Wayne]]'s atmosphere.
-It's the atmosphere which you and I thought had vanished from
-an educated world for ever."
+Almost as he spoke, Mr. Bowles, the chemist, came to his shop
+door in a long black velvet gown and hood, monastic as it were,
+but yet with a touch of the diabolic.  His hair was still quite black,
+and his face even paler than of old.  The only spot of colour
+he carried was a red star cut in some precious stone of strong tint,
+hung on his breast.  He belonged to the Society of the Red Star
+of [[Charity]], founded on the lamps displayed by doctors and chemists.
 
-"[[Well]], it hasn't," said Barker; "and if you have any lingering doubts,
-lend me a poleaxe and I'll show you."
+"A fine evening, sir," said the chemist.  "Why, I can scarcely be
+mistaken in supposing it to be your Majesty.  Pray step inside and
+share a bottle of sal-volatile, or anything that my take your fancy.
+As it happens there is an old acquaintance of your Majesty's in my
+shop carousing (if I may be permitted the term) upon that beverage
+at this moment."
 
-There was a long [[Silence|silence]], and then Buck turned to his neighbour
-and spoke in that good-tempered tone that comes of a power of looking
-facts in the face; the tone in which he concluded great bargains.
+The [[King]] entered the shop, which was an Aladdin's [[Garden|garden]] of shades
+and hues, for as the chemist's scheme of colour was more brilliant
+than the [[grocer]]'s scheme, so it was arranged with even more delicacy
+and fancy.  Never, if the phrase may be employed, had such a nosegay
+of medicines been presented to the artistic eye.
 
-"Barker," he said, "you are right.  This old thing...this fighting,
-has come back.  It has come back suddenly and taken us by surprise.
-So it is first [[Blood|blood]] to [[Adam Wayne]].  But, unless reason and arithmetic
-and everything else have gone crazy, it must be next and last
-[[Blood|blood]] to us.  But when an issue has really arisen, there is only
-one thing to do...to study that issue as such and win in it.
-Barker, since it is fighting, we must understand fighting.
-I must understand fighting as coolly and completely as I
-understand drapery; you must understand fighting as coolly and
-completely as you understand politics.  Now, look at the facts.
-I stick without hesitation to my original formula.  Fighting, when we
-have the stronger force, is only a matter of arithmetic.  It must be.
-You asked me just now how two hundred men could defeat six hundred.
-I can tell you.  Two hundred men can defeat six hundred when the six
-hundred behave like fools.  When they forget the very conditions they
-are fighting in; when they fight in a swamp as if it were a mountain;
-when they fight in a forest as if it were a plain; when they fight
-in streets without remembering the object of streets."
+But even the solemn rainbow of that evening interior was rivalled
+or even eclipsed by the figure standing in the centre of the shop.
+His form, which was a large and stately one, was clad in a brilliant
+blue velvet, cut in the richest [[Renaissance]] fashion, and slashed
+so as to show gleams and gaps of a wonderful lemon or pale yellow.
+He had several [[Chains|chains]] round his neck and his plumes, which were
+of several tints, of bronze and gold, hung down to the great gold
+hilt of his long [[Sword|sword]].  He was drinking a dose of sal-volatile,
+and admiring its opal tint.  The [[King]] advanced with a slight
+[[Mystification|mystification]] towards the tall figure, whose face was in [[Shadow|shadow]],
+then he said:
 
-"What is the object of streets?" asked Barker.
+"By the Great Lord of Luck, Barker!"
 
-"What is the object of supper?" cried Buck, furiously.
-"Isn't it obvious?  This military science is mere common sense.
-The object of a street is to lead from one place to another;
-therefore all streets join; therefore street fighting is quite
-a peculiar thing.  You advanced into that hive of streets as if you
-were advancing into an open plain where you could see everything.
-Instead of that you were advancing into the bowels of a fortress,
-with streets pointing at you, streets turning on you,
-streets jumping out at you, and all in the hands of the enemy.
-Do you know what Portobello [[Road]] is?  It is the only point on
-your [[Journey|journey]] where two side streets run up opposite each other.
-Wayne massed his men on the two sides, and when he had let
-enough of your line go past, cut it in two like a worm.
-Don't you see what would have saved you?"
+The figure, removed his plumed cap, showing the same dark head
+and long, almost equine, face which the [[King]] had so often seen
+rising out of the high collar of Bond Street.  Except for a grey
+patch on each temple, it was totally unchanged.
 
-Barker shook his head.
+"Your Majesty," said Barker, "this is a meeting nobly retrospective,
+a meeting that has about it a certain October gold.  I drink to old days;"
+and he finished his sal-volatile with simple feeling.
 
-"Can't your 'atmosphere' help you?" asked Buck, bitterly.
-"Must I attempt explanations in the romantic manner?  Suppose that,
-as you were fighting blindly with the red Notting Hillers who
-imprisoned you on both sides, you had heard a shout from behind them.
-Suppose, oh, romantic Barker! that behind the red tunics you had
-seen the blue and gold of South Kensington taking them in the rear,
-surrounding them in their turn and hurling them on to your halberds."
+"I am delighted to see you again, Barker," said the [[King]].
+"It is, indeed, long since we met.  What with my travels in Asia Minor,
+and my book having to be written (you have read my 'Life of
+Prince Albert for Children,' of course), we have scarcely met twice
+since the Great War.  That is twenty years ago."
 
-"If the thing had been possible," began Barker, cursing.
+"I [[Wonder|wonder]]," said Barker, thoughtfully, "if I might speak freely
+to your Majesty."
 
-"The thing would have been as possible," said Buck, simply; "as simple
-as arithmetic.  There are a certain number of street entries that lead
-to Pump Street.  There are not nine hundred; there are not nine million.
-They do not grow in the [[Night|night]].  They do not increase like mushrooms.
-It must be possible with such an overwhelming force as we have
-to advance by all of them at once.  In every one of the arteries,
-or approaches, we can put almost as many men as Wayne can put into
-the field altogether.  Once do that and we have him to demonstration.
-It is like a proposition in Euclid."
+"[[Well]]," said Auberon, "it's rather late in the day to start
+speaking respectfully.  Flap away, my bird of [[Freedom|freedom]]."
 
-"You think that is certain," said Barker, anxious but
-dominated delightfully.
+"[[Well]], your Majesty," replied Barker, lowering his voice, "I don't
+think it will be so long to the next war."
 
-"I'll tell you what I think," said Buck, getting up jovially.
-"I think [[Adam Wayne]] made an uncommonly spirited little fight.
-And I think I am confoundedly sorry for him."
+"What do you mean?" asked Auberon.
 
-"Buck, you are a great man," cried Barker, rising also.
-"You've knocked me sensible again.  I am ashamed to say it,
-but I was getting romantic.  Of course, what you say is
-adamantine sense.  Fighting, being physical, must be mathematical.
-We were beaten because we were neither mathematical nor
-physical nor anything else...because we deserved to be beaten.
-Hold all the approaches, and with our force we must have him.
-When shall we open the next campaign?"
+"We will stand this insolence no longer," burst out Barker, fiercely.
+"We are not slaves because [[Adam Wayne]] twenty years ago cheated us
+with a [[Water|water]]-pipe. Notting [[Hill]] is Notting [[Hill]]; it is not the world.
+We in South Kensington, we also have memories...aye, and hopes.
+If they fought for these trumpery shops and a few lamp-posts,
+shall we not fight for the great High Street and the sacred
+Natural [[history|History]] Museum?"
 
-"Now," said Buck, and walked out of the bar.
+"Great Heavens!" said the astounded Auberon.  "Will wonders
+never cease?  Have the two greatest marvels been achieved?
+Have you turned altruistic, and has Wayne turned selfish?
+Are you the patriot, and he the [[Tyrant|tyrant]]?"
 
-"Now!" cried Barker, following him eagerly.  "Do you mean now?
-It is so late."
-
-Buck turned on him, stamping.
-
-"Do you think fighting is under the Factory Acts?" he said.
-And he called a cab.  "Notting [[Hill]] Gate Station," he said,
-and the two drove off.
-
-. . . . .
-
-A genuine reputation can sometimes be made in an hour.  Buck, in the next
-sixty or eighty minutes showed himself a really great man of action.
-His cab carried him like a thunderbolt from the [[King]] to Wilson,
-from Wilson to Swindon, from Swindon to Barker again;
-if his course was jagged, it had the jaggedness of the [[Lightning|lightning]].
-Only two things he carried with him, his inevitable cigar
-and the map of North Kensington and Notting [[Hill]].  There were,
-as he again and again pointed out, with every variety of [[Persuasion|persuasion]]
-and violence, only nine possible ways of approaching Pump Street
-within a quarter of a mile around it; three out of Westbourne Grove,
-two out of Ladbroke Grove, and four out of Notting [[Hill]] High Street.
-And he had detachments of two hundred each, stationed at every
-one of the entrances before the last green of that strange sunset
-had sunk out of the black sky.
+"It is not from Wayne himself altogether that the evil comes,"
+answered Barker.  "He, indeed, is now mostly wrapped in [[Dreams|dreams]], and sits
+with his old [[Sword|sword]] beside the [[Fire|fire]].  But Notting [[Hill]] is the [[Tyrant|tyrant]],
+your Majesty.  Its Council and its crowds have been so intoxicated
+by the spreading over the whole [[City|city]] of Wayne's old ways and visions,
+that they try to meddle with every one, and rule every one,
+and civilize every one, and tell every one what is good for him.
+I do not deny the great impulse which his old war, wild as it seemed,
+gave to the civic life of our [[Time|time]].  It came when I was still
+a young man, and I admit it enlarged my career.  But we are not going
+to see our own cities flouted and thwarted from day to day because of
+something Wayne did for us all nearly a quarter of a century ago.
+I am just waiting here for news upon this very matter.
+It is rumoured that Notting [[Hill]] has vetoed the statue of
+General Wilson they are putting up opposite Chepstow Place.
+If that is so, it is a black and white shameless breach of the terms
+of which we surrendered to Turnbull after the battle of the Tower.
+We were to keep our own customs and [[Self|self]]-[[government]]. If that is so..."

@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 24 (part 2)"
+title: "Bleak House — Chapter 24 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_24/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_24/part_03">part 03 ›</a></div>
 </nav>
 
+
+We were all startled by the fervour of this warning. [[Richard]] bit his
+lip and held his breath, and glanced at me as if he felt, and knew
+that I felt too, how much he needed it.
 
 “Ada, my dear,” said Mr. Jarndyce, recovering his cheerfulness,
 “these are strong words of advice, but I live in Bleak [[house|House]] and have
@@ -127,7 +131,3 @@ with whom [[Richard]] had practised for some months. I heard so much
 about him, not only from [[Richard]], but from my guardian too, that I
 was purposely in the room with my work one morning after breakfast
 when he came.
-
-“Good morning, Mr. George,” said my guardian, who happened to be
-[[Alone|alone]] with me. “Mr. Carstone will be here directly. Meanwhile, Miss
-Summerson is very happy to see you, I know. Sit down.”

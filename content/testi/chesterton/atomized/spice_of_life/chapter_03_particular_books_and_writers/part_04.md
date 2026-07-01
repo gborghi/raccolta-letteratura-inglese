@@ -106,7 +106,6 @@ and that [[Goneril]] and [[Regan]] are not only daughters but traitors.
 Treason, or what is felt as treason, does break the heart of the world;
 and it has seldom been so nearly broken as here.
 
-
 THE EVERLASTING NIGHTS
 
 No one has any business with the Arabian Nights who objects

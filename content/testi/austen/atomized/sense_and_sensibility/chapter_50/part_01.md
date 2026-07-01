@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 50 (part 1)"
+title: "Sense and Sensibility — Chapter 50 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -211,9 +211,3 @@ his deliverance from it; for her respectful [[Humility|humility]], assiduous
 attentions, and endless flatteries, as soon as the smallest opening was
 
 given for their exercise, reconciled Mrs. Ferrars to his choice, and
-
-re-established him completely in her favour.
-
-
-
-The whole of Lucy’s behaviour in the affair, and the prosperity which

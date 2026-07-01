@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 41 (part 2)"
+title: "Barnaby Rudge — Chapter 41 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_41/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_41/part_03">part 03 ›</a></div>
 </nav>
 
+
+When he said ‘or you,’ Mrs Varden, despite herself, relaxed into a
+smile. There was something complimentary in the idea. ‘In such a state
+of things as that, indeed--’ she simpered.
 
 ‘As that!’ repeated the locksmith. ‘[[Well]], that would be the state of
 things directly. Even Miggs would go. Some black tambourine-player,
@@ -121,32 +125,3 @@ suppose. As to Mr Haredale’s [[Journey|journey]], he goes, as I believe--’
 Doll. What it may be, is quite another matter. Read Blue Beard, and
 don’t be too curious, pet; it’s no business of yours or mine, depend
 upon that; and here’s dinner, which is much more to the purpose.’
-
-Dolly might have remonstrated against this summary dismissal of the
-subject, notwithstanding the appearance of dinner, but at the mention
-of Blue Beard Mrs Varden interposed, protesting she could not find it
-in her [[Conscience|conscience]] to sit tamely by, and hear her [[Child|child]] recommended to
-peruse the adventures of a Turk and Mussulman--far less of a fabulous
-Turk, which she considered that potentate to be. She held that, in such
-stirring and tremendous times as those in which they lived, it would
-be much more to the purpose if Dolly became a regular subscriber to the
-Thunderer, where she would have an opportunity of reading Lord George
-Gordon’s speeches word for word, which would be a greater comfort and
-solace to her, than a hundred and fifty Blue Beards ever could impart.
-She appealed in support of this proposition to Miss Miggs, then in
-waiting, who said that indeed the peace of mind she had derived from the
-perusal of that paper generally, but especially of one article of the
-very last week as ever was, entitled ‘Great Britain drenched in gore,’
-exceeded all belief; the same composition, she added, had also wrought
-such a comforting effect on the mind of a married sister of hers, then
-resident at Golden [[Lion]] [[Court]], number twenty-sivin, second bell-handle
-on the right-hand door-post, that, being in a delicate state of health,
-and in fact expecting an addition to her family, she had been seized
-with fits directly after its perusal, and had raved of the [[Inquisition]]
-ever since; to the great improvement of her husband and friends. Miss
-Miggs went on to say that she would recommend all those whose hearts
-were hardened to hear Lord George themselves, whom she commended first,
-in respect of his steady Protestantism, then of his oratory, then of
-his eyes, then of his nose, then of his legs, and lastly of his figure
-generally, which she looked upon as fit for any statue, prince, or
-angel, to which sentiment Mrs Varden fully subscribed.

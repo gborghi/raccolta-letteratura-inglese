@@ -1,5 +1,5 @@
 ---
-title: "[[CharlesDickens]] — Chapter 9 (part 6)"
+title: "CharlesDickens — Chapter 9 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/charlesdickens-(chesterton)"
@@ -66,7 +66,7 @@ anyone would guess that [[Lady Dedlock]] and Nemo had sinned in the past.
 "[[Edwin Drood]]" is not finished; for in the very middle of it Dickens died.
 
 He had altogether overstrained himself in a last lecturing
-tour in [[america|America]].  He was a man in whom any serious malady
+tour in [[America]].  He was a man in whom any serious malady
 would naturally make very rapid strides; for he had the temper
 of an irrational invalid.  I have said before that there
 was in his curious character something that was feminine.

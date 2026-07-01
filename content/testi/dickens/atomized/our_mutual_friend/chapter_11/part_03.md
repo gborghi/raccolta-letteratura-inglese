@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 6 (part 3)"
+title: "Our Mutual Friend — Chapter 7 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,149 +10,182 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_11/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_11/part_04">part 04 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_11/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_12/part_01">part 01 ›</a></div>
 </nav>
 
 
-In such an establishment, the white-aproned pot-boy with his
-shirt-sleeves arranged in a tight roll on each bare shoulder, was a mere
-hint of the possibility of physical force, thrown out as a matter of
-state and form. Exactly at the closing hour, all the guests who were
-left, filed out in the best order: Miss Abbey standing at the half door
-of the bar, to hold a ceremony of review and dismissal. All wished
-Miss Abbey good-[[Night|night]] and Miss Abbey wished good-[[Night|night]] to all, except
-Riderhood. The sapient pot-boy, looking on officially, then had the
-conviction borne in upon his [[Soul|soul]], that the man was evermore outcast and
-excommunicate from the Six Jolly Fellowship Porters.
+‘Now, look here, what did you give for me?’
 
-‘You Bob Gliddery,’ said Miss Abbey to this pot-boy, ‘run round to
-Hexam’s and tell his daughter Lizzie that I want to speak to her.’
+‘[[Well]],’ replies [[Venus]], blowing his tea: his head and face peering out
+of the darkness, over the smoke of it, as if he were modernizing the old
+original rise in his family: ‘you were one of a warious lot, and I don’t
+know.’
 
-With exemplary swiftness Bob Gliddery departed, and returned. Lizzie,
-following him, arrived as one of the two female domestics of the
-Fellowship Porters arranged on the snug little table by the bar [[Fire|fire]],
-Miss Potterson’s supper of hot sausages and mashed potatoes.
+Silas puts his point in the improved form of ‘What will you take for
+me?’
 
-‘Come in and sit ye down, girl,’ said Miss Abbey. ‘Can you eat a bit?’
+‘[[Well]],’ replies [[Venus]], still blowing his tea, ‘I’m not prepared, at a
+moment’s notice, to tell you, Mr Wegg.’
 
-‘No thank you, Miss. I have had my supper.’
+‘Come! According to your own account I’m not worth much,’ Wegg reasons
+persuasively.
 
-‘I have had mine too, I think,’ said Miss Abbey, pushing away the
-untasted dish, ‘and more than enough of it. I am put out, Lizzie.’
+‘Not for miscellaneous working in, I grant you, Mr Wegg; but you might
+turn out valuable yet, as a—’ here [[Mr Venus]] takes a gulp of tea, so
+hot that it makes him choke, and sets his weak eyes watering; ‘as a
+Monstrosity, if you’ll excuse me.’
 
-‘I am very sorry for it, Miss.’
+Repressing an indignant look, indicative of anything but a disposition
+to excuse him, Silas pursues his point.
 
-‘Then why, in the name of Goodness,’ quoth Miss Abbey, sharply, ‘do you
-do it?’
+‘I think you know me, [[Mr Venus]], and I think you know I never bargain.’
 
-‘I do it, Miss!’
+[[Mr Venus]] takes gulps of hot tea, shutting his eyes at every gulp, and
+opening them again in a spasmodic manner; but does not commit himself to
+assent.
 
-‘There, there. Don’t look astonished. I ought to have begun with a word
-of explanation, but it’s my way to make short cuts at things. I always
-was a pepperer. You Bob Gliddery there, put the chain upon the door and
-get ye down to your supper.’
+‘I have a prospect of getting on in life and elevating myself by my own
+independent exertions,’ says Wegg, feelingly, ‘and I shouldn’t like—I
+tell you openly I should NOT like—under such circumstances, to be what
+I may call dispersed, a part of me here, and a part of me there, but
+should wish to collect myself like a genteel person.’
 
-With an alacrity that seemed no less referable to the pepperer fact
-than to the supper fact, Bob obeyed, and his boots were heard descending
-towards the bed of the [[River|river]].
+‘It’s a prospect at present, is it, Mr Wegg? Then you haven’t got the
+money for a deal about you? Then I’ll tell you what I’ll do with you;
+I’ll hold you over. I am a man of my word, and you needn’t be afraid of
+my disposing of you. I’ll hold you over. That’s a promise. Oh dear me,
+dear me!’
 
-‘[[Lizzie Hexam]], [[Lizzie Hexam]],’ then began Miss Potterson, ‘how often have
-I held out to you the opportunity of getting clear of your father, and
-doing [[Well|well]]?’
+Fain to accept his promise, and wishing to propitiate him, Mr Wegg looks
+on as he sighs and pours himself out more tea, and then says, trying to
+get a sympathetic tone into his voice:
 
-‘Very often, Miss.’
+‘You seem very low, [[Mr Venus]]. Is business bad?’
 
-‘Very often? Yes! And I might as [[Well|well]] have spoken to the iron funnel of
-the strongest sea-going steamer that passes the Fellowship Porters.’
+‘Never was so good.’
 
-‘No, Miss,’ Lizzie pleaded; ‘because that would not be thankful, and I
-am.’
+‘Is your hand out at all?’
 
-‘I vow and declare I am half ashamed of myself for taking such an
-interest in you,’ said Miss Abbey, pettishly, ‘for I don’t believe I
-should do it if you were not good-looking. Why ain’t you ugly?’
+‘Never was so [[Well|well]] in. Mr Wegg, I’m not only first in the trade, but I’m
+THE trade. You may go and buy a [[skeleton]] at the West End if you like,
+and pay the West End price, but it’ll be my putting together. I’ve as
+much to do as I can possibly do, with the assistance of my young man,
+and I take a [[Pride|pride]] and a pleasure in it.’
 
-Lizzie merely answered this difficult question with an apologetic
-glance.
+[[Mr Venus]] thus delivers himself, his right hand extended, his smoking
+saucer in his left hand, protesting as though he were going to burst
+into a flood of [[Tears|tears]].
 
-‘However, you ain’t,’ resumed Miss Potterson, ‘so it’s no use going into
-that. I must take you as I find you. Which indeed is what I’ve done. And
-you mean to say you are still obstinate?’
+‘That ain’t a state of things to make you low, [[Mr Venus]].’
 
-‘Not obstinate, Miss, I [[Hope|hope]].’
+‘Mr Wegg, I know it ain’t. Mr Wegg, not to name myself as a workman
+without an equal, I’ve gone on improving myself in my knowledge of
+Anatomy, till both by sight and by name I’m perfect. Mr Wegg, if you was
+brought here loose in a bag to be articulated, I’d name your smallest
+bones blindfold equally with your largest, as fast as I could pick ’em
+out, and I’d sort ’em all, and sort your wertebrae, in a manner that
+would equally surprise and charm you.’
 
-‘Firm (I suppose you call it) then?’
+‘[[Well]],’ remarks Silas (though not quite so readily as last [[Time|time]]), ‘THAT
+ain’t a state of things to be low about.—Not for YOU to be low about,
+leastways.’
 
-‘Yes, Miss. Fixed like.’
+‘Mr Wegg, I know it ain’t; Mr Wegg, I know it ain’t. But it’s the heart
+that lowers me, it is the heart! Be so good as take and read that card
+out loud.’
 
-‘Never was an obstinate person yet, who would own to the word!’ remarked
-Miss Potterson, rubbing her vexed nose; ‘I’m sure I would, if I was
-obstinate; but I am a pepperer, which is different. [[Lizzie Hexam]], Lizzie
-Hexam, think again. Do you know the worst of your father?’
+Silas receives one from his hand, which [[Venus]] takes from a wonderful
+litter in a drawer, and putting on his spectacles, reads:
 
-‘Do I know the worst of father!’ she repeated, opening her eyes.
+‘“[[Mr Venus]],”’
 
-‘Do you know the suspicions to which your father makes himself liable?
-Do you know the suspicions that are actually about, against him?’
+‘Yes. Go on.’
 
-The consciousness of what he habitually did, oppressed the girl heavily,
-and she slowly cast down her eyes.
+‘“Preserver of [[Animals]] and [[Birds]],”’
 
-‘Say, Lizzie. Do you know?’ urged Miss Abbey.
+‘Yes. Go on.’
 
-‘Please to tell me what the suspicions are, Miss,’ she asked after a
-[[Silence|silence]], with her eyes upon the ground.
+‘“Articulator of human bones.”’
 
-‘It’s not an easy thing to tell a daughter, but it must be told. It is
-thought by some, then, that your father helps to their [[Death|death]] a few of
-those that he finds dead.’
+‘That’s it,’ with a groan. ‘That’s it! Mr Wegg, I’m thirty-two, and a
+bachelor. Mr Wegg, I [[Love|love]] her. Mr Wegg, she is worthy of being loved by
+a Potentate!’ Here Silas is rather alarmed by [[Mr Venus]]’s springing to
+his feet in the hurry of his spirits, and haggardly confronting him with
+his hand on his coat collar; but [[Mr Venus]], begging pardon, sits down
+again, saying, with the calmness of [[Despair|despair]], ‘She objects to the
+business.’
 
-The relief of hearing what she felt sure was a false suspicion, in place
-of the expected real and true one, so lightened Lizzie’s breast for the
-moment, that Miss Abbey was amazed at her demeanour. She raised her eyes
-quickly, shook her head, and, in a kind of triumph, almost laughed.
+‘Does she know the profits of it?’
 
-‘They little know father who talk like that!’
+‘She knows the profits of it, but she don’t appreciate the art of
+it, and she objects to it. “I do not wish,” she writes in her own
+handwriting, “to regard myself, nor yet to be regarded, in that boney
+light”.’
 
-(‘She takes it,’ thought Miss Abbey, ‘very quietly. She takes it with
-extraordinary quietness!’)
+[[Mr Venus]] pours himself out more tea, with a look and in an attitude of
+the deepest desolation.
 
-‘And perhaps,’ said Lizzie, as a recollection flashed upon her, ‘it is
-some one who has a grudge against father; some one who has threatened
-father! Is it Riderhood, Miss?’
+‘And so a man climbs to the top of the tree, Mr Wegg, only to see that
+there’s no look-out when he’s up there! I sit here of a [[Night|night]] surrounded
+by the lovely trophies of my art, and what have they done for me? Ruined
+me. Brought me to the pass of being informed that “she does not wish to
+regard herself, nor yet to be regarded, in that boney light”!’ Having
+repeated the fatal expressions, [[Mr Venus]] drinks more tea by gulps, and
+offers an explanation of his doing so.
 
-‘[[Well]]; yes it is.’
+‘It lowers me. When I’m equally lowered all over, lethargy sets in. By
+sticking to it till one or two in the morning, I get oblivion. Don’t let
+me detain you, Mr Wegg. I’m not company for any one.’
 
-‘Yes! He was father’s partner, and father broke with him, and now he
-revenges himself. Father broke with him when I was by, and he was very
-angry at it. And besides, Miss Abbey!—Will you never, without strong
-reason, let pass your lips what I am going to say?’
+‘It is not on that account,’ says Silas, rising, ‘but because I’ve got
+an appointment. It’s [[Time|time]] I was at Harmon’s.’
 
-She bent forward to say it in a whisper.
+‘Eh?’ said [[Mr Venus]]. ‘Harmon’s, up Battle Bridge way?’
 
-‘I promise,’ said Miss Abbey.
+Mr Wegg admits that he is bound for that port.
 
-‘It was on the [[Night|night]] when the Harmon murder was found out, through
-father, just above bridge. And just below bridge, as we were sculling
-[[Home|home]], Riderhood crept out of the dark in his boat. And many and many
-times afterwards, when such great pains were taken to come to the [[Bottom|bottom]]
-of the crime, and it never could be come near, I thought in my own
-thoughts, could Riderhood himself have done the murder, and did he
-purposely let father find the [[Body|body]]? It seemed a’most wicked and cruel
-to so much as think such a thing; but now that he tries to throw it upon
-father, I go back to it as if it was a [[Truth|truth]]. Can it be a [[Truth|truth]]? That
-was put into my mind by the dead?’
+‘You ought to be in a good thing, if you’ve worked yourself in there.
+There’s lots of money going, there.’
 
-She asked this question, rather of the [[Fire|fire]] than of the hostess of the
-Fellowship Porters, and looked round the little bar with troubled eyes.
+‘To think,’ says Silas, ‘that you should catch it up so quick, and know
+about it. Wonderful!’
 
-But, Miss Potterson, as a ready schoolmistress accustomed to bring her
-pupils to book, set the matter in a light that was essentially of this
-world.
+‘Not at all, Mr Wegg. The old gentleman wanted to know the [[Nature|nature]] and
+worth of everything that was found in the [[Dust|dust]]; and many’s the bone, and
+feather, and what not, that he’s brought to me.’
 
-‘You poor deluded girl,’ she said, ‘don’t you see that you can’t open
-your mind to particular suspicions of one of the two, without opening
-your mind to general suspicions of the other? They had worked together.
-Their goings-on had been going on for some [[Time|time]]. Even granting that it
-was as you have had in your thoughts, what the two had done together
-would come familiar to the mind of one.’
+‘Really, now!’
+
+‘Yes. (Oh dear me, dear me!) And he’s buried quite in this
+neighbourhood, you know. Over yonder.’
+
+Mr Wegg does not know, but he makes as if he did, by responsively
+nodding his head. He also follows with his eyes, the toss of [[Venus]]’s
+head: as if to seek a direction to over yonder.
+
+‘I took an interest in that discovery in the [[River|river]],’ says [[Venus]].
+‘(She hadn’t written her cutting refusal at that [[Time|time]].) I’ve got up
+there—never mind, though.’
+
+He had raised the candle at arm’s length towards one of the dark
+shelves, and Mr Wegg had turned to look, when he broke off.
+
+‘The old gentleman was [[Well|well]] known all round here. There used to be
+stories about his having hidden all kinds of property in those [[Dust|dust]]
+mounds. I suppose there was nothing in ’em. Probably you know, Mr Wegg?’
+
+‘Nothing in ’em,’ says Wegg, who has never heard a word of this before.
+
+‘Don’t let me detain you. Good [[Night|night]]!’
+
+The unfortunate [[Mr Venus]] gives him a shake of the hand with a shake of
+his own head, and drooping down in his chair, proceeds to pour himself
+out more tea. Mr Wegg, looking back over his shoulder as he pulls the
+door open by the strap, notices that the movement so shakes the crazy
+shop, and so shakes a momentary flare out of the candle, as that the
+babies—Hindoo, African, and British—the ‘human warious’, the French
+gentleman, the green glass-eyed cats, the [[dogs]], the ducks, and all
+the rest of the collection, show for an instant as if paralytically
+animated; while even poor little Cock Robin at [[Mr Venus]]’s elbow turns
+over on his [[Innocent|innocent]] side. Next moment, Mr Wegg is stumping under the
+gaslights and through the mud.

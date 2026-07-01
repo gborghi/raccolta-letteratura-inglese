@@ -1,5 +1,5 @@
 ---
-title: "[[innocence]] — The Blue [[Cross]] (part 4)"
+title: "innocence — The Blue Cross (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_01_the_blue_cross/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_01_the_blue_cross/part_05">part 05 ›</a></div>
 </nav>
 
+
+"[[Well]], sir," began the former, with smiling importance,
+"and what may--?"
+
+Valentin pointed suddenly with his cane.  "I'll tell you on
+the top of that omnibus," he said, and was darting and dodging
+across the tangle of the traffic.  When all three sank panting
+on the top seats of the yellow vehicle, the inspector said:
+"We could go four times as quick in a taxi."
 
 "Quite true," replied their leader placidly, "if we only had an idea
 of where we were going."
@@ -121,17 +130,17 @@ The man marched out of the place and joined his friend just round the corner.
 Then they went so quick up Bullock Street that I couldn't catch them,
 though I ran round the bars to do it."
 
-"Bullock Street," said the [[Detective|detective]], and shot up that thoroughfare
+"Bullock Street," said the detective, and shot up that thoroughfare
 as quickly as the strange couple he pursued.
 
-Their [[Journey|journey]] now took them through bare brick ways like tunnels;
+Their journey now took them through bare brick ways like tunnels;
 streets with few lights and even with few windows; streets that
 seemed built out of the blank backs of everything and everywhere.
-Dusk was deepening, and it was not easy even for the [[London]]
+Dusk was deepening, and it was not easy even for the London
 policemen to guess in what exact direction they were treading.
 The inspector, however, was pretty certain that they would eventually
 strike some part of Hampstead Heath.  Abruptly one bulging
-gas-lit [[Window|window]] broke the blue twilight like a bull's-eye lantern;
+gas-lit window broke the blue twilight like a bull's-eye lantern;
 and Valentin stopped an instant before a little garish
 sweetstuff shop.  After an instant's hesitation he went in;
 he stood amid the gaudy colours of the confectionery with entire

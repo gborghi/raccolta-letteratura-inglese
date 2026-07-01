@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 11 (part 1)"
+title: "Our Mutual Friend — Chapter 13 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,136 +10,125 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_34/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_35/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_34/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_35/part_02">part 02 ›</a></div>
 </nav>
 
 
-Chapter 11
+Chapter 13
 
-SOME AFFAIRS OF THE HEART
+A SOLO AND A DUETT
 
 
-Little Miss Peecher, from her little official dwelling-[[house]], with its
-little windows like the eyes in needles, and its little doors like the
-covers of school-books, was very observant indeed of the object of her
-quiet affections. [[Love]], though said to be afflicted with blindness, is
-a vigilant watchman, and Miss Peecher kept him on [[Double|double]] duty over Mr
-[[Bradley Headstone]]. It was not that she was naturally given to playing
-the spy—it was not that she was at all secret, plotting, or mean—it
-was simply that she loved the irresponsive Bradley with all the
-primitive and homely stock of [[Love|love]] that had never been examined or
-certificated out of her. If her faithful slate had had the latent
-qualities of sympathetic paper, and its pencil those of invisible ink,
-many a little treatise calculated to astonish the pupils would have come
-bursting through the dry sums in school-[[Time|time]] under the warming influence
-of Miss Peecher’s bosom. For, oftentimes when school was not, and her
-calm leisure and calm little [[house]] were her own, Miss Peecher would
-commit to the confidential slate an imaginary description of how, upon
-a balmy evening at dusk, two figures might have been observed in the
-market-[[Garden|garden]] ground round the corner, of whom one, being a manly form,
-bent over the other, being a womanly form of short stature and some
-compactness, and breathed in a low voice the words, ‘[[Emma]] Peecher, wilt
-thou be my own?’ after which the womanly form’s head reposed upon the
-manly form’s shoulder, and the nightingales tuned up. Though all unseen,
-and unsuspected by the pupils, [[Bradley Headstone]] even pervaded the
-school exercises. Was Geography in question? He would come triumphantly
-flying out of Vesuvius and Aetna ahead of the lava, and would boil
-unharmed in the hot springs of Iceland, and would float majestically
-down the Ganges and the Nile. Did [[history|History]] chronicle a [[King|king]] of men?
-Behold him in pepper-and-salt pantaloons, with his watch-guard round
-his neck. Were copies to be written? In capital B’s and H’s most of the
-girls under Miss Peecher’s tuition were half a year ahead of every other
-letter in the alphabet. And Mental Arithmetic, administered by Miss
-Peecher, often devoted itself to providing [[Bradley Headstone]] with a
-wardrobe of fabulous extent: fourscore and four neck-ties at two and
-ninepence-halfpenny, two gross of silver watches at four pounds fifteen
-and sixpence, seventy-four black hats at eighteen shillings; and many
-similar superfluities.
+The [[Wind|wind]] was blowing so hard when the visitor came out at the shop-door
+into the darkness and dirt of Limehouse Hole, that it almost blew him
+in again. Doors were slamming violently, lamps were flickering or blown
+out, signs were rocking in their frames, the [[Water|water]] of the kennels,
+[[Wind|wind]]-dispersed, flew about in drops like rain. Indifferent to the
+weather, and even preferring it to better weather for its clearance of
+the streets, the man looked about him with a scrutinizing glance. ‘Thus
+much I know,’ he murmured. ‘I have never been here since that [[Night|night]], and
+never was here before that [[Night|night]], but thus much I recognize. I [[Wonder|wonder]]
+which way did we take when we came out of that shop. We turned to the
+right as I have turned, but I can recall no more. Did we go by this
+alley? Or down that little lane?’
 
-The vigilant watchman, using his daily opportunities of turning his eyes
-in Bradley’s direction, soon apprized Miss Peecher that Bradley was more
-preoccupied than had been his wont, and more given to strolling about
-with a downcast and reserved face, turning something difficult in his
-mind that was not in the scholastic syllabus. Putting this and that
-together—combining under the head ‘this,’ present appearances and the
-intimacy with Charley Hexam, and ranging under the head ‘that’ the
-visit to his sister, the watchman reported to Miss Peecher his strong
-suspicions that the sister was at the [[Bottom|bottom]] of it.
+He tried both, but both confused him equally, and he came straying
+back to the same spot. ‘I remember there were poles pushed out of upper
+windows on which clothes were drying, and I remember a low public-[[house]],
+and the sound flowing down a narrow passage belonging to it of the
+scraping of a fiddle and the shuffling of feet. But here are all these
+things in the lane, and here are all these things in the alley. And I
+have nothing else in my mind but a wall, a dark doorway, a flight of
+stairs, and a room.’
 
-‘I [[Wonder|wonder]],’ said Miss Peecher, as she sat making up her weekly report on
-a half-holiday afternoon, ‘what they call Hexam’s sister?’
+He tried a new direction, but made nothing of it; walls, dark doorways,
+flights of stairs and rooms, were too abundant. And, like most people so
+puzzled, he again and again described a circle, and found himself at
+the point from which he had begun. ‘This is like what I have read in
+narratives of escape from [[Prison|prison]],’ said he, ‘where the little track of
+the fugitives in the [[Night|night]] always seems to take the shape of the great
+round world, on which they wander; as if it were a secret law.’
 
-Mary Anne, at her needlework, attendant and attentive, held her arm up.
+Here he ceased to be the oakum-headed, oakum-whiskered man on whom Miss
+Pleasant Riderhood had looked, and, allowing for his being still wrapped
+in a nautical overcoat, became as like that same lost wanted Mr Julius
+Handford, as never man was like another in this world. In the breast of
+the coat he stowed the bristling hair and whisker, in a moment, as the
+favouring [[Wind|wind]] went with him down a solitary place that it had swept
+clear of passengers. Yet in that same moment he was the Secretary also,
+Mr Boffin’s Secretary. For John Rokesmith, too, was as like that same
+lost wanted Mr Julius Handford as never man was like another in this
+world.
 
-‘[[Well]], Mary Anne?’
+‘I have no clue to the scene of my [[Death|death]],’ said he. ‘Not that it matters
+now. But having risked discovery by venturing here at all, I should have
+been glad to track some part of the way.’ With which singular words he
+abandoned his search, came up out of Limehouse Hole, and took the way
+past Limehouse Church. At the great iron gate of the churchyard he
+stopped and looked in. He looked up at the high tower spectrally
+resisting the [[Wind|wind]], and he looked round at the white tombstones, like
+enough to the dead in their winding-sheets, and he counted the nine
+tolls of the [[Clock|clock]]-bell.
 
-‘She is named Lizzie, ma’am.’
+‘It is a sensation not experienced by many mortals,’ said he, ‘to be
+looking into a churchyard on a wild windy [[Night|night]], and to feel that I no
+more hold a place among the living than these dead do, and even to know
+that I lie buried somewhere else, as they lie buried here. Nothing uses
+me to it. A spirit that was once a man could hardly feel stranger or
+lonelier, going unrecognized among mankind, than I feel.
 
-‘She can hardly be named Lizzie, I think, Mary Anne,’ returned Miss
-Peecher, in a tunefully instructive voice. ‘Is Lizzie a Christian name,
-Mary Anne?’
+‘But this is the fanciful side of the situation. It has a real side, so
+difficult that, though I think of it every day, I never thoroughly think
+it out. Now, let me determine to think it out as I walk [[Home|home]]. I know
+I evade it, as many men—perhaps most men—do evade thinking their way
+through their greatest perplexity. I will try to pin myself to mine.
+Don’t evade it, [[John Harmon]]; don’t evade it; think it out!
 
-Mary Anne laid down her work, [[Rose|rose]], hooked herself behind, as being
-under catechization, and replied: ‘No, it is a corruption, Miss
-Peecher.’
 
-‘Who gave her that name?’ Miss Peecher was going on, from the mere force
-of habit, when she checked herself; on Mary Anne’s evincing theological
-impatience to strike in with her godfathers and her godmothers, and
-said: ‘I mean of what name is it a corruption?’
+‘When I came to England, attracted to the country with which I had none
+but most miserable associations, by the accounts of my fine inheritance
+that found me abroad, I came back, shrinking from my father’s money,
+shrinking from my father’s [[Memory|memory]], mistrustful of being forced on a
+mercenary wife, mistrustful of my father’s intention in thrusting that
+[[Marriage|marriage]] on me, mistrustful that I was already growing avaricious,
+mistrustful that I was slackening in gratitude to the two dear noble
+honest friends who had made the only sunlight in my childish life or
+that of my heartbroken sister. I came back, timid, divided in my mind,
+afraid of myself and everybody here, knowing of nothing but wretchedness
+that my father’s wealth had ever brought about. Now, stop, and so far
+think it out, [[John Harmon]]. Is that so? That is exactly so.
 
-‘Elizabeth, or Eliza, Miss Peecher.’
+‘On board serving as third mate was George Radfoot. I knew nothing of
+him. His name first became known to me about a week before we sailed,
+through my being accosted by one of the [[Ship|ship]]-agent’s clerks as
+“Mr Radfoot.” It was one day when I had gone aboard to look to my
+preparations, and the clerk, coming behind me as I stood on deck, tapped
+me on the shoulder, and said, “Mr Rad-foot, look here,” referring to
+some papers that he had in his hand. And my name first became known to
+Radfoot, through another clerk within a day or two, and while the [[Ship|ship]]
+was yet in port, coming up behind him, tapping him on the shoulder and
+beginning, “I beg your pardon, Mr Harmon—.” I believe we were alike
+in bulk and stature but not otherwise, and that we were not strikingly
+alike, even in those respects, when we were together and could be
+compared.
 
-‘Right, Mary Anne. Whether there were any Lizzies in the early Christian
-Church must be considered very doubtful, very doubtful.’ Miss Peecher
-was exceedingly sage here. ‘Speaking correctly, we say, then, that
-Hexam’s sister is called Lizzie; not that she is named so. Do we not,
-Mary Anne?’
-
-‘We do, Miss Peecher.’
-
-‘And where,’ pursued Miss Peecher, complacent in her little transparent
-fiction of conducting the examination in a semiofficial manner for Mary
-Anne’s benefit, not her own, ‘where does this young woman, who is called
-but not named Lizzie, live? Think, now, before answering.’
-
-‘In Church Street, [[smith|Smith]] Square, by Mill Bank, ma’am.’
-
-‘In Church Street, [[smith|Smith]] Square, by Mill Bank,’ repeated Miss Peecher,
-as if possessed beforehand of the book in which it was written. Exactly
-so. And what occupation does this young woman pursue, Mary Anne? Take
-[[Time|time]].’
-
-‘She has a place of trust at an outfitter’s in the [[City]], ma’am.’
-
-‘Oh!’ said Miss Peecher, pondering on it; but smoothly added, in a
-confirmatory tone, ‘At an outfitter’s in the [[City]]. Ye-es?’
-
-‘And Charley—’ Mary Anne was proceeding, when Miss Peecher stared.
-
-‘I mean Hexam, Miss Peecher.’
-
-‘I should think you did, Mary Anne. I am glad to hear you do. And
-Hexam—’
-
-‘Says,’ Mary Anne went on, ‘that he is not pleased with his sister, and
-that his sister won’t be guided by his advice, and persists in being
-guided by somebody else’s; and that—’
-
-‘Mr Headstone coming across the [[Garden|garden]]!’ exclaimed Miss Peecher, with a
-flushed glance at the looking-glass. ‘You have answered very [[Well|well]], Mary
-Anne. You are forming an excellent habit of arranging your thoughts
-clearly. That will do.’
-
-The discreet Mary Anne resumed her seat and her [[Silence|silence]], and stitched,
-and stitched, and was stitching when the schoolmaster’s [[Shadow|shadow]] came in
-before him, announcing that he might be instantly expected.
-
-‘Good evening, Miss Peecher,’ he said, pursuing the [[Shadow|shadow]], and taking
-its place.
-
-‘Good evening, Mr Headstone. Mary Anne, a chair.’
-
-‘Thank you,’ said Bradley, seating himself in his constrained manner.
-‘This is but a flying visit. I have looked in, on my way, to ask a
-kindness of you as a neighbour.’
+‘However, a sociable word or two on these mistakes became an easy
+introduction between us, and the weather was hot, and he helped me to a
+cool cabin on deck alongside his own, and his first school had been at
+Brussels as mine had been, and he had learnt French as I had learnt it,
+and he had a little [[history]] of himself to relate—God only knows how
+much of it true, and how much of it false—that had its likeness to
+mine. I had been a seaman too. So we got to be confidential together,
+and the more easily yet, because he and every one on board had known
+by general rumour what I was making the voyage to England for. By such
+degrees and means, he came to the knowledge of my uneasiness of mind,
+and of its setting at that [[Time|time]] in the direction of desiring to see and
+form some judgment of my allotted wife, before she could possibly know
+me for myself; also to try Mrs Boffin and give her a glad surprise. So
+the plot was made out of our getting common sailors’ dresses (as he was
+able to guide me about [[London]]), and throwing ourselves in [[Bella Wilfer]]’s
+neighbourhood, and trying to put ourselves in her way, and doing
+whatever chance might favour on the spot, and seeing what came of it. If
+nothing came of it, I should be no worse off, and there would merely
+be a short delay in my presenting myself to Lightwood. I have all these
+facts right? Yes. They are all accurately right.

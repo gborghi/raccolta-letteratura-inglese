@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 48 (part 1)"
+title: "Nicholas Nickleby — Chapter 48 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -120,8 +120,3 @@ over his left eye, and the fellow eyebrow and the calf of one of his
 legs in his hand, embraced him cordially; at the same [[Time|time]] observing,
 that it would do Mrs. Crummles’s heart good to bid him goodbye before
 they went.
-
-‘You were always a favourite of hers, Johnson,’ said Crummles, ‘always
-were from the first. I was quite easy in my mind about you from that
-first day you dined with us. One that Mrs. Crummles took a fancy to, was
-sure to turn out right. Ah! Johnson, what a woman that is!’

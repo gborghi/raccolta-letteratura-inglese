@@ -1,5 +1,5 @@
 ---
-title: "The Merchant of [[Venice]] — Act I, Scene 3 — exchange ([[Portia|PORTIA]]) [5]"
+title: "The Merchant of Venice — Act I, Scene 3 — exchange (PORTIA) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-merchant-of-venice-(shakespeare)"

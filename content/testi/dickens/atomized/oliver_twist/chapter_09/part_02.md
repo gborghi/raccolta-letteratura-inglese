@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 9 (part 2)"
+title: "Oliver Twist — Chapter 9 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_09/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_11/part_01">part 01 ›</a></div>
 </nav>
 
+
+[[Oliver]] got up; walked across the room; and stooped for an instant to
+raise the pitcher. When he turned his head, the box was gone.
 
 He had scarcely washed himself, and made everything tidy, by emptying
 the basin out of the [[Window|window]], agreeably to the Jew’s directions, when

@@ -1,5 +1,5 @@
 ---
-title: "[[Richard III]] — Act I, Scene 4 — monologue ([[Clarence|CLARENCE]]) [2]"
+title: "Richard III — Act I, Scene 4 — monologue (CLARENCE) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/richard-iii-(shakespeare)"

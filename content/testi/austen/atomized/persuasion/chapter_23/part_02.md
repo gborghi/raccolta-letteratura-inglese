@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 23 (part 2)"
+title: "Persuasion — Chapter 23 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -12,6 +12,12 @@ tags:
 <div class="excerpt-crumb">Austen · <a href="/works/persuasion-(austen)">Persuasion</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_23/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_23/part_03">part 03 ›</a></div>
 </nav>
+
+
+countenance re-assumed the serious, thoughtful expression which seemed
+
+its natural character.
+
 
 
 “Look here,” said he, unfolding a parcel in his hand, and displaying a
@@ -30,7 +36,7 @@ not done for her. Miss Elliot, do you remember our walking together at
 
 Lyme, and grieving for him? I little thought then—but no matter. This
 
-was drawn at the Cape. He met with a clever young German [[artist]] at the
+was drawn at the Cape. He met with a clever young German [[Artist|artist]] at the
 
 Cape, and in compliance with a promise to my poor sister, sat to him,
 
@@ -225,11 +231,3 @@ saying what should not be said.”
 “Ah!” cried Captain Harville, in a tone of strong feeling, “if I could
 
 but make you comprehend what a man suffers when he takes a last look at
-
-his wife and children, and watches the boat that he has sent them off
-
-in, as long as it is in sight, and then turns away and says, ‘God knows
-
-whether we ever meet again!’ And then, if I could convey to you the
-
-glow of his [[Soul|soul]] when he does see them again; when, coming back after a

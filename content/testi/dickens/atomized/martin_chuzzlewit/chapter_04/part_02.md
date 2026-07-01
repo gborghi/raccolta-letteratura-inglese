@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 4 (part 2)"
+title: "Martin Chuzzlewit — Chapter 4 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -129,18 +129,3 @@ deep-thoughted fellows, who may be reasoned with to any extent.’
 Here Mr Chevy Slyme, whose great abilities seemed one and all to point
 towards the sneaking quarter of the moral compass, nudged his friend
 stealthily with his elbow, and whispered in his ear.
-
-‘Chiv,’ said Mr Tigg aloud, in the high tone of one who was not to
-be tampered with. ‘I shall come to that presently. I act upon my own
-responsibility, or not at all. To the extent of such a trifling loan
-as a crownpiece to a man of your talents, I look upon Mr Pecksniff
-as certain;’ and seeing at this juncture that the expression of Mr
-Pecksniff’s face by no means betokened that he shared this certainty, Mr
-Tigg laid his finger on his nose again for that gentleman’s private
-and especial behoof; calling upon him thereby to take notice that the
-requisition of small loans was another instance of the peculiarities of
-genius as developed in his friend Slyme; that he, Tigg, winked at the
-same, because of the strong metaphysical interest which these weaknesses
-possessed; and that in reference to his own personal advocacy of such
-small advances, he merely consulted the [[Humour|humour]] of his friend, without
-the least regard to his own advantage or necessities.

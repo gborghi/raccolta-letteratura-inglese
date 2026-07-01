@@ -126,16 +126,3 @@ Here and there, however, it was possible to trace the outline
 of something just too erect and rigid to be a pine tree.
 By these we finally felt our way [[Home|home]], arriving in a cold green
 twilight before [[Dawn|dawn]].
-
--/-
-
-A Drama of Dolls
-
-IN a small grey town of stone in one of the great Yorkshire dales,
-which is full of [[history]], I entered a hall and saw an old
-puppet-play exactly as our fathers saw it five hundred years ago.
-It was admirably translated from the old German, and was the original
-tale of [[Faust]].  The dolls were at once comic and convincing;
-but if you cannot at once laugh at a thing and believe in it,
-you have no business in the Middle Ages.  Or in the world,
-for that matter.

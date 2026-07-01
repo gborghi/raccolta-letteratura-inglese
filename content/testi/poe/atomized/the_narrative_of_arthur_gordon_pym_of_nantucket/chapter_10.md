@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 11"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 11"
 author: "Poe"
 unitType: chapter
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"

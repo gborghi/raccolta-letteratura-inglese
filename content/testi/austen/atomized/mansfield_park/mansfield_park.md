@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]]"
+title: "Mansfield Park"
 author: "Austen"
 unitType: work
 parentWork: "works/mansfield-park-(austen)"
@@ -647,7 +647,7 @@ lowly of her own claims to feel injured by it.
 
 From about the [[Time|time]] of her entering the family, Lady [[Bertram]], in
 consequence of a little ill-health, and a great deal of [[Indolence|indolence]], gave
-up the [[house]] in town, which she had been used to occupy every [[spring]],
+up the [[house]] in town, which she had been used to occupy every [[Spring|spring]],
 and remained wholly in the country, leaving Sir Thomas to attend his
 duty in Parliament, with whatever increase or diminution of comfort
 might arise from her absence. In the country, therefore, the Miss
@@ -1157,7 +1157,7 @@ concern in them. Upon the whole, it was a comfortable [[Winter|winter]] to her;
 for though it brought no William to England, the never-failing [[Hope|hope]] of
 his arrival was worth much.
 
-The ensuing [[spring]] deprived her of her valued friend, the old grey
+The ensuing [[Spring|spring]] deprived her of her valued friend, the old grey
 pony; and for some [[Time|time]] she was in danger of feeling the loss in her
 health as [[Well|well]] as in her affections; for in spite of the acknowledged
 importance of her riding on [[Horse|horse]]-back, no measures were taken for
@@ -1792,7 +1792,7 @@ to enjoy anything, and _that_ disheartened me from doing several things
 that Sir Thomas and I used to talk of. If it had not been for _that_,
 we should have carried on the [[Garden|garden]] wall, and made the plantation to
 shut out the churchyard, just as Dr. Grant has done. We were always
-doing something as it was. It was only the [[spring]] twelvemonth before
+doing something as it was. It was only the [[Spring|spring]] twelvemonth before
 Mr. Norris’s [[Death|death]] that we put in the apricot against the stable wall,
 which is now grown such a noble tree, and getting to such perfection,
 sir,” addressing herself then to Dr. Grant.
@@ -5145,7 +5145,7 @@ else wanted, though the terms in which she sometimes spoke of the
 indulgence seemed to imply that it was the best room in the [[house]].
 
 The aspect was so favourable that even without a [[Fire|fire]] it was habitable
-in many an early [[spring]] and late [[Autumn|autumn]] morning to such a willing mind
+in many an early [[Spring|spring]] and late [[Autumn|autumn]] morning to such a willing mind
 as Fanny’s; and while there was a gleam of sunshine she hoped not to be
 driven from it entirely, even when [[Winter|winter]] came. The comfort of it in
 her hours of leisure was extreme. She could go there after anything
@@ -5220,7 +5220,7 @@ play as they could, and now, to complete the business, are going to ask
 the help of a young man very slightly known to any of us. This is the
 end of all the privacy and propriety which was talked about at first. I
 know no harm of Charles Maddox; but the excessive intimacy which must
-[[spring]] from his being admitted among us in this manner is highly
+[[Spring|spring]] from his being admitted among us in this manner is highly
 objectionable, the _more_ than intimacy—the familiarity. I cannot think
 of it with any patience; and it does appear to me an evil of such
 magnitude as must, _if_ _possible_, be prevented. Do not you see it in
@@ -6743,7 +6743,7 @@ she was complete: being prepared for matrimony by an hatred of [[Home|home]],
 restraint, and tranquillity; by the misery of disappointed affection,
 and contempt of the man she was to marry. The rest might wait. The
 preparations of new carriages and furniture might wait for [[London]] and
-[[spring]], when her own taste could have fairer play.
+[[Spring|spring]], when her own taste could have fairer play.
 
 The principals being all agreed in this respect, it soon appeared that
 a very few weeks would be sufficient for such arrangements as must
@@ -8255,7 +8255,7 @@ understanding the question, was at no loss for an answer.
 I refuse you as a tenant, come to me as a friend. Consider the [[house]] as
 half your own every [[Winter|winter]], and we will add to the stables on your own
 improved plan, and with all the improvements of your improved plan that
-may occur to you this [[spring]].”
+may occur to you this [[Spring|spring]].”
 
 “We shall be the losers,” continued Sir Thomas. “His going, though only
 eight miles, will be an unwelcome contraction of our family circle; but
@@ -11350,7 +11350,7 @@ such a man.”
 life without a sort of envy. But then, I must have a [[London]] audience. I
 could not preach but to the educated; to those who were capable of
 estimating my composition. And I do not know that I should be fond of
-preaching often; now and then, perhaps once or twice in the [[spring]],
+preaching often; now and then, perhaps once or twice in the [[Spring|spring]],
 after being anxiously expected for half a dozen Sundays together; but
 not for a constancy; it would not do for a constancy.”
 
@@ -12138,7 +12138,7 @@ these words.
 
 “I shall see your cousin in town soon: he talks of being there
 tolerably soon; and Sir Thomas, I dare say, in the course of the
-[[spring]]; and your eldest cousin, and the Rushworths, and [[Julia]], I am
+[[Spring|spring]]; and your eldest cousin, and the Rushworths, and [[Julia]], I am
 sure of meeting again and again, and all but you. I have two favours to
 ask, Fanny: one is your correspondence. You must write to me. And the
 other, that you will often call on Mrs. Grant, and make her amends for
@@ -14332,7 +14332,7 @@ of displeasure, or even of hearing her. They were perfectly free from
 any [[Jealousy|jealousy]] of Mansfield. She was as welcome to wish herself there as
 to be there.
 
-It was sad to Fanny to lose all the pleasures of [[spring]]. She had not
+It was sad to Fanny to lose all the pleasures of [[Spring|spring]]. She had not
 known before what pleasures she _had_ to lose in passing March and
 April in a town. She had not known before how much the beginnings and
 progress of vegetation had delighted her. What animation, both of [[Body|body]]
@@ -14384,7 +14384,7 @@ been so dwelt on. It was weeks since she had heard anything of Miss
 Crawford or of her other connexions in town, except through Mansfield,
 and she was beginning to suppose that she might never know whether Mr.
 Crawford had gone into Norfolk again or not till they met, and might
-never hear from his sister any more this [[spring]], when the following
+never hear from his sister any more this [[Spring|spring]], when the following
 letter was received to revive old and create some new sensations—
 
 “Forgive me, my dear Fanny, as soon as you can, for my long [[Silence|silence]],
@@ -14444,7 +14444,7 @@ brings no intelligence to prevent my sending it. Mrs. R. knows a
 decline is apprehended; he saw her this morning: she returns to Wimpole
 Street to-day; the old lady is come. Now do not make yourself uneasy
 with any queer fancies because he has been spending a few days at
-Richmond. He does it every [[spring]]. Be assured he cares for nobody but
+Richmond. He does it every [[Spring|spring]]. Be assured he cares for nobody but
 you. At this very moment he is wild to see you, and occupied only in
 contriving the means for doing so, and for making his pleasure conduce
 to yours. In proof, he repeats, and more eagerly, what he said at
@@ -15395,7 +15395,7 @@ could attract him into matrimony again, and he might set forward on a
 second, and, it is to be hoped, more prosperous trial of the state: if
 duped, to be duped at least with good [[Humour|humour]] and good luck; while she
 must withdraw with infinitely stronger feelings to a retirement and
-reproach which could allow no second [[spring]] of [[Hope|hope]] or character.
+reproach which could allow no second [[Spring|spring]] of [[Hope|hope]] or character.
 
 Where she could be placed became a subject of most [[Melancholy|melancholy]] and
 momentous consultation. Mrs. Norris, whose attachment seemed to augment

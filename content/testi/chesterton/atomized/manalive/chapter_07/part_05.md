@@ -1,5 +1,5 @@
 ---
-title: "[[manalive]] — Chapter 1 (part 5)"
+title: "manalive — Chapter 1 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/manalive-(chesterton)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/manalive/chapter_07/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/manalive/chapter_07/part_06">part 06 ›</a></div>
 </nav>
 
+
+Dr. Cyrus Pym [[Rose|rose]] in protest.  The documents he had put
+in evidence had been confined to cold affirmation of fact.
+The defence, in a general way, had an indubitable right to put
+their case in their own way, but all this landscape gardening
+seemed to him (Dr. Cyrus Pym) to be not up to the business.
+"Will the leader of the defence tell me," he asked, "how it can
+possibly affect this case, that a cloud was cor'l-coloured,
+or that a bird could have winged itself anywhere?"
 
 "Oh, I don't know," said [[Michael]], lifting himself lazily;
 "you see, you don't know yet what our defence is.
@@ -41,7 +50,6 @@ your client was a bird of some sort--say, a flamingo?"
 No one quite knowing what to make of this, Mr. [[Moon]] resumed his seat
 and Inglewood resumed the reading of his document:--
 
-
 "There is something pleasing to a mystic in such a land of mirrors.
 For a mystic is one who holds that two worlds are better than one.
 In the highest sense, indeed, all thought is reflection.
@@ -54,7 +62,6 @@ This duplication of mentality, as in a [[Mirror|mirror]], is (we repeat)
 the inmost thing of human [[philosophy]].  There is a mystical, even a
 monstrous [[Truth|truth]], in the statement that two heads are better than one.
 But they ought both to grow on the same [[Body|body]]."
-
 
 "I know it's a little transcendental at first," interposed Inglewood,
 beaming round with a broad apology, "but you see this document was written
@@ -69,7 +76,6 @@ bears here and there the trace of coming from two authors."
 
 "In that case," said Dr. Pym, leaning back and sniffing,
 "I cannot agree with them that two heads are better than one."
-
 
 "The undersigned persons think it needless to touch on a kindred
 problem so often discussed at committees for University [[Reform]]:
@@ -86,10 +92,8 @@ other hand, they are puddles--puddles, puddles, puddles, puddles.
 The undersigned persons ask you to excuse an emphasis inseparable
 from strong conviction."
 
-
 Inglewood ignored a somewhat wild expression on the faces of some present,
 and continued with eminent cheerfulness:--
-
 
 "Such were the thoughts that failed to [[Cross|cross]] the mind of
 the undergraduate [[smith|Smith]] as he picked his way among the stripes
@@ -116,21 +120,3 @@ of that sad [[Time|time]] thought that the god always comes from the [[Machine|m
 They did not know that in reality the [[Machine|machine]] only comes from the god.
 In short, they were all pessimists, and starlight was atrocious to them--
 atrocious because it was true.  All their universe was black with white spots.
-
-"[[smith|Smith]] looked up with relief from the glittering pools below
-to the glittering skies and the great black bulk of the college.
-The only light other than [[Stars|stars]] glowed through one peacock-green
-curtain in the upper part of the building, marking where
-Dr. Emerson Eames always worked till morning and received
-his friends and favourite pupils at any hour of the [[Night|night]].
-Indeed, it was to his rooms that the [[Melancholy|melancholy]] [[smith|Smith]] was bound.
-[[smith|Smith]] had been at Dr. Eames's lecture for the first half of the morning,
-and at [[Pistol|pistol]] practice and fencing in a saloon for the second half.
-He had been sculling madly for the first half of the afternoon
-and thinking idly (and still more madly) for the second half.
-He had gone to a supper where he was uproarious, and on to a debating
-club where he was perfectly insufferable, and the [[Melancholy|melancholy]]
-[[smith|Smith]] was [[Melancholy|melancholy]] still.  Then, as he was going [[Home|home]] to his
-diggings he remembered the eccentricity of his friend and master,
-the Warden of Brakespeare, and resolved desperately to turn
-in to that gentleman's private [[house]].

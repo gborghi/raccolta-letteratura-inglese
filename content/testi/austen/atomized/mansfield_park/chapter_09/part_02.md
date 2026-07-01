@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 9 (part 2)"
+title: "Mansfield Park — Chapter 9 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/mansfield_park/chapter_09/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/mansfield_park/chapter_09/part_03">part 03 ›</a></div>
 </nav>
 
+
+“At any rate, it is safer to leave people to their own devices on such
+subjects. Everybody likes to go their own way—to chuse their own [[Time|time]]
+and manner of devotion. The obligation of attendance, the formality,
+the restraint, the length of [[Time|time]]—altogether it is a formidable thing,
+and what nobody likes; and if the good people who used to kneel and
+gape in that gallery could have foreseen that the [[Time|time]] would ever come
+when men and women might lie another ten minutes in bed, when they woke
+with a headache, without danger of reprobation, because chapel was
+missed, they would have jumped with joy and envy. Cannot you imagine
+with what unwilling feelings the former belles of the [[house]] of
+Rushworth did many a [[Time|time]] repair to this chapel? The young Mrs.
+Eleanors and Mrs. Bridgets—starched up into seeming piety, but with
+heads full of something very different—especially if the poor chaplain
+were not worth looking at—and, in those days, I fancy parsons were very
+inferior even to what they are now.”
 
 For a few moments she was unanswered. Fanny coloured and looked at
 [[Edmund]], but felt too angry for speech; and he needed a little
@@ -110,40 +126,3 @@ as by one impulse, one wish for air and liberty, all walked out.
 “Suppose we turn down here for the present,” said Mrs. Rushworth,
 civilly taking the hint and following them. “Here are the greatest
 number of our plants, and here are the curious pheasants.”
-
-“Query,” said Mr. Crawford, looking round him, “whether we may not find
-something to employ us here before we go farther? I see walls of great
-promise. Mr. Rushworth, shall we summon a council on this lawn?”
-
-“James,” said Mrs. Rushworth to her son, “I believe the wilderness will
-be new to all the party. The Miss Bertrams have never seen the
-wilderness yet.”
-
-No objection was made, but for some [[Time|time]] there seemed no inclination to
-move in any plan, or to any distance. All were attracted at first by
-the plants or the pheasants, and all dispersed about in happy
-independence. Mr. Crawford was the first to move forward to examine the
-capabilities of that end of the [[house]]. The lawn, bounded on each side
-by a high wall, contained beyond the first planted area a
-bowling-green, and beyond the bowling-green a long terrace walk, backed
-by iron palisades, and commanding a view over them into the tops of the
-trees of the wilderness immediately adjoining. It was a good spot for
-fault-finding. Mr. Crawford was soon followed by Miss [[Bertram]] and Mr.
-Rushworth; and when, after a little [[Time|time]], the others began to form into
-parties, these three were found in busy consultation on the terrace by
-[[Edmund]], Miss Crawford, and Fanny, who seemed as naturally to unite, and
-who, after a short participation of their regrets and difficulties,
-left them and walked on. The remaining three, Mrs. Rushworth, Mrs.
-Norris, and [[Julia]], were still far behind; for [[Julia]], whose happy star
-no longer prevailed, was obliged to keep by the side of Mrs. Rushworth,
-and restrain her impatient feet to that lady’s slow pace, while her
-aunt, having fallen in with the housekeeper, who was come out to feed
-the pheasants, was lingering behind in gossip with her. Poor [[Julia]], the
-only one out of the nine not tolerably satisfied with their lot, was
-now in a state of complete penance, and as different from the [[Julia]] of
-the barouche-box as could [[Well|well]] be imagined. The politeness which she
-had been brought up to practise as a duty made it impossible for her to
-escape; while the want of that higher species of [[Self|self]]-command, that
-just consideration of others, that knowledge of her own heart, that
-principle of right, which had not formed any essential part of her
-[[Education|education]], made her miserable under it.

@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 25 (part 1)"
+title: "Barnaby Rudge — Chapter 25 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -116,8 +116,3 @@ striking into the fields, were soon [[Alone|alone]] again.
 The Warren was the end of their [[Journey|journey]]. Mr Haredale was walking in the
 [[Garden|garden]], and seeing them as they passed the iron gate, unlocked it, and
 bade them enter that way.
-
-‘At length you have mustered heart to visit the old place,’ he said to
-the widow. ‘I am glad you have.’
-
-‘For the first [[Time|time]], and the last, sir,’ she replied.

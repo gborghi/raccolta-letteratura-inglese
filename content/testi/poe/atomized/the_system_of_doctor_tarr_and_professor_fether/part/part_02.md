@@ -1,5 +1,5 @@
 ---
-title: "[[The System of Doctor Tarr and Professor Fether]] (part 2)"
+title: "The System of Doctor Tarr and Professor Fether (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-system-of-doctor-tarr-and-professor-fether-(poe)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_system_of_doctor_tarr_and_professor_fether/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/the_system_of_doctor_tarr_and_professor_fether/part/part_03">part 03 ›</a></div>
 </nav>
 
+
+      so much of forethought in young men; and, more than once, some
+
+      unhappy contre-temps has occurred in consequence of
 
       thoughtlessness on the part of our visitors. While my former
 
@@ -237,7 +241,3 @@ tags:
       somewhat too much of the ostentatious finery of the _vielle
 
       cour_. I noticed that at least two-thirds of these guests were
-
-      ladies; and some of the latter were by no means accoutred in what
-
-      a Parisian would consider good taste at the present day. Many

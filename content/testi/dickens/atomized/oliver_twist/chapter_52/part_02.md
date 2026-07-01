@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 52 (part 2)"
+title: "Oliver Twist — Chapter 52 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -116,12 +116,3 @@ pressure of the expected crowd, when Mr. Brownlow and [[Oliver]] appeared
 at the wicket, and presented an order of admission to the prisoner,
 signed by one of the sheriffs. They were immediately admitted into the
 lodge.
-
-“Is the young gentleman to come too, sir?” said the man whose duty it
-was to conduct them. “It’s not a sight for children, sir.”
-
-“It is not indeed, my friend,” rejoined Mr. Brownlow; “but my business
-with this man is intimately connected with him; and as this [[Child|child]] has
-seen him in the full career of his [[success]] and villainy, I think it as
-[[Well|well]]—even at the cost of some [[Pain|pain]] and [[Fear|fear]]—that he should see him
-now.”

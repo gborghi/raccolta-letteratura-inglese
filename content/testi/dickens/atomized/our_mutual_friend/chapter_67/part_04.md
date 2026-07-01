@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 8 (part 4)"
+title: "Our Mutual Friend — Chapter 12 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,126 +10,130 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_67/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_68/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_67/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_67/part_05">part 05 ›</a></div>
 </nav>
 
 
-However, he gradually ceased to choke and crow, saving at intervals,
-and Miss Jenny got him into an easy-chair: where, with his eyes red and
-watery, with his features swollen, and with some half-dozen livid bars
-across his face, he presented a most rueful sight.
+‘We are not going in here, John?’ said Bella, clinging to him.
 
-‘What ever possessed you to take salt and snuff, young man?’ inquired
-Miss Jenny.
+‘Yes, my dear; but of our own accord. We shall come out again as easily,
+never [[Fear|fear]].’
 
-‘I didn’t take it,’ the dismal youth replied. ‘It was crammed into my
-mouth.’
+The whitewashed room was pure white as of old, the methodical
+book-keeping was in peaceful progress as of old, and some distant howler
+was banging against a cell door as of old. The sanctuary was not a
+permanent abiding-place, but a kind of criminal Pickford’s. The lower
+passions and vices were regularly ticked off in the books, warehoused in
+the cells, carted away as per accompanying invoice, and left little mark
+upon it.
 
-‘Who crammed it?’ asked Miss Jenny.
+Mr Inspector placed two chairs for his visitors, before the [[Fire|fire]], and
+communed in a low voice with a brother of his order (also of a half-pay,
+and Royal Arms aspect), who, judged only by his occupation at the
+moment, might have been a writing-master, setting copies. Their
+conference done, Mr Inspector returned to the fireplace, and, having
+observed that he would step round to the Fellowships and see how matters
+stood, went out. He soon came back again, saying, ‘Nothing could be
+better, for they’re at supper with Miss Abbey in the bar;’ and then they
+all three went out together.
 
-‘He did,’ answered Fledgeby. ‘The assassin. Lammle. He rubbed it into
-my mouth and up my nose and down my throat—Ow! Ow! Ow! Ah—h—h—h!
-Ugh!—to prevent my crying out, and then cruelly assaulted me.’
+Still, as in [[A Dream|a dream]], Bella found herself entering a snug old-fashioned
+public-[[house]], and found herself smuggled into a little three-cornered
+room nearly opposite the bar of that establishment. Mr Inspector
+achieved the smuggling of herself and John into this queer room, called
+Cosy in an [[Inscription|inscription]] on the door, by entering in the narrow passage
+first in order, and suddenly turning round upon them with extended arms,
+as if they had been two sheep. The room was lighted for their reception.
 
-‘With this?’ asked Miss Jenny, showing the pieces of cane.
+‘Now,’ said Mr Inspector to John, turning the gas lower; ‘I’ll mix with
+’em in a casual way, and when I say Identification, perhaps you’ll show
+yourself.’
 
-‘That’s the weapon,’ said Fledgeby, eyeing it with the air of an
-acquaintance. ‘He broke it over me. Oh I smart so! How did you come by
-it?’
+John nodded, and Mr Inspector went [[Alone|alone]] to the half-door of the bar.
+From the dim doorway of Cosy, within which Bella and her husband stood,
+they could see a comfortable little party of three persons sitting at
+supper in the bar, and could hear everything that was said.
 
-‘When he ran down stairs and joined the lady he had left in the hall
-with his hat’—Miss Jenny began.
+The three persons were Miss Abbey and two male guests. To whom
+collectively, Mr Inspector remarked that the weather was getting sharp
+for the [[Time|time]] of year.
 
-‘Oh!’ groaned Mr Fledgeby, writhing, ‘she was holding his hat, was she?
-I might have known she was in it.’
+‘It need be sharp to suit your wits, sir,’ said Miss Abbey. ‘What have
+you got in hand now?’
 
-‘When he came down stairs and joined the lady who wouldn’t let me come
-up, he gave me the pieces for you, and I was to say, “With Mr Alfred
-Lammle’s compliments on his leaving England.”’ Miss Jenny said it with
-such spiteful satisfaction, and such a hitch of her chin and eyes as
-might have added to Mr Fledgeby’s miseries, if he could have noticed
-either, in his bodily [[Pain|pain]] with his hand to his head.
+‘Thanking you for your compliment: not much, Miss Abbey,’ was Mr
+Inspector’s rejoinder.
 
-‘Shall I go for the police?’ inquired Miss Jenny, with a nimble start
-towards the door.
+‘Who have you got in Cosy?’ asked Miss Abbey.
 
-‘Stop! No, don’t!’ cried Fledgeby. ‘Don’t, please. We had better keep it
-quiet. Will you be so good as shut the door? Oh I do smart so!’
+‘Only a gentleman and his wife, Miss.’
 
-In testimony of the extent to which he smarted, Mr Fledgeby came
-wallowing out of the easy-chair, and took another roll on the carpet.
+‘And who are they? If one may ask it without detriment to your deep
+plans in the interests of the honest public?’ said Miss Abbey, proud of
+Mr Inspector as an administrative genius.
 
-‘Now the door’s shut,’ said Mr Fledgeby, sitting up in anguish, with
-his Turkish cap half on and half off, and the bars on his face getting
-bluer, ‘do me the kindness to look at my back and shoulders. They must
-be in an awful state, for I hadn’t got my dressing-gown on, when the
-brute came rushing in. Cut my shirt away from the collar; there’s a pair
-of scissors on that table. Oh!’ groaned Mr Fledgeby, with his hand to
-his head again. ‘How I do smart, to be sure!’
+‘They are strangers in this part of the town, Miss Abbey. They are
+waiting till I shall want the gentleman to show himself somewhere, for
+half a moment.’
 
-‘There?’ inquired Miss Jenny, alluding to the back and shoulders.
+‘While they’re waiting,’ said Miss Abbey, ‘couldn’t you join us?’
 
-‘Oh Lord, yes!’ moaned Fledgeby, rocking himself. ‘And all over!
-Everywhere!’
+Mr Inspector immediately slipped into the bar, and sat down at the side
+of the half-door, with his back towards the passage, and directly facing
+the two guests. ‘I don’t take my supper till later in the [[Night|night]],’ said
+he, ‘and therefore I won’t disturb the compactness of the table. But
+I’ll take a glass of flip, if that’s flip in the jug in the fender.’
 
-The busy little dressmaker quickly snipped the shirt away, and laid
-bare the results of as furious and sound a thrashing as even Mr Fledgeby
-merited. ‘You may [[Well|well]] smart, young man!’ exclaimed Miss Jenny. And
-stealthily rubbed her little hands behind him, and poked a few exultant
-pokes with her two forefingers over the [[Crown|crown]] of his head.
+‘That’s flip,’ replied Miss Abbey, ‘and it’s my making, and if even you
+can find out better, I shall be glad to know where.’ Filling him, with
+hospitable hands, a steaming tumbler, Miss Abbey replaced the jug by
+the [[Fire|fire]]; the company not having yet arrived at the flip-stage of their
+supper, but being as yet skirmishing with strong ale.
 
-‘What do you think of vinegar and brown paper?’ inquired the [[Suffering|suffering]]
-Fledgeby, still rocking and moaning. ‘Does it look as if vinegar and
-brown paper was the sort of application?’
+‘Ah—h!’ cried Mr Inspector. ‘That’s the smack! There’s not a [[Detective]]
+in the Force, Miss Abbey, that could find out better stuff than that.’
 
-‘Yes,’ said Miss Jenny, with a silent chuckle. ‘It looks as if it ought
-to be Pickled.’
+‘Glad to hear you say so,’ rejoined Miss Abbey. ‘You ought to know, if
+anybody does.’
 
-Mr Fledgeby collapsed under the word ‘Pickled,’ and groaned again.
-‘My kitchen is on this floor,’ he said; ‘you’ll find brown paper in a
-dresser-drawer there, and a bottle of vinegar on a shelf. Would you have
-the kindness to make a few plasters and put ’em on? It can’t be kept too
-quiet.’
+‘Mr Job Potterson,’ Mr Inspector continued, ‘I drink your health. Mr
+Jacob Kibble, I drink yours. [[Hope]] you have made a prosperous voyage
+[[Home|home]], gentlemen both.’
 
-‘One, two—hum—five, six. You’ll want six,’ said the dress-maker.
+Mr Kibble, an unctuous broad man of few words and many mouthfuls, said,
+more briefly than pointedly, raising his ale to his lips: ‘Same to you.’
+Mr Job Potterson, a semi-seafaring man of obliging demeanour, said,
+‘Thank you, sir.’
 
-‘There’s smart enough,’ whimpered Mr Fledgeby, groaning and writhing
-again, ‘for sixty.’
+‘Lord bless my [[Soul|soul]] and [[Body|body]]!’ cried Mr Inspector. ‘Talk of trades, Miss
+Abbey, and the way they set their marks on men’ (a subject which nobody
+had approached); ‘who wouldn’t know your brother to be a Steward!
+There’s a bright and ready twinkle in his eye, there’s a neatness in his
+action, there’s a smartness in his figure, there’s an air of reliability
+about him in case you wanted a basin, which points out the steward! And
+Mr Kibble; ain’t he Passenger, all over? While there’s that mercantile
+cut upon him which would make you happy to give him credit for five
+hundred pound, don’t you see the salt sea shining on him too?’
 
-Miss Jenny repaired to the kitchen, scissors in hand, found the brown
-paper and found the vinegar, and skilfully cut out and steeped six
-large plasters. When they were all lying ready on the dresser, an idea
-occurred to her as she was about to gather them up.
+‘YOU do, I dare say,’ returned Miss Abbey, ‘but I don’t. And as for
+stewarding, I think it’s [[Time|time]] my brother gave that up, and took his
+[[house|House]] in hand on his sister’s retiring. The [[house|House]] will go to pieces if
+he don’t. I wouldn’t sell it for any money that could be told out, to a
+person that I couldn’t depend upon to be a Law to the Porters, as I have
+been.’
 
-‘I think,’ said Miss Jenny with a silent laugh, ‘he ought to have a
-little pepper? Just a few grains? I think the young man’s tricks and
-manners make a claim upon his friends for a little pepper?’
+‘There you’re right, Miss,’ said Mr Inspector. ‘A better kept [[house]] is
+not known to our men. What do I say? Half so [[Well|well]] a kept [[house]] is not
+known to our men. Show the Force the Six Jolly Fellowship Porters,
+and the Force—to a constable—will show you a piece of perfection, Mr
+Kibble.’
 
-Mr Fledgeby’s evil star showing her the pepper-box on the chimneypiece,
-she climbed upon a chair, and got it down, and sprinkled all the
-plasters with a judicious hand. She then went back to Mr Fledgeby, and
-stuck them all on him: Mr Fledgeby uttering a sharp howl as each was put
-in its place.
+That gentleman, with a very serious shake of his head, subscribed the
+article.
 
-‘There, young man!’ said the dolls’ dressmaker. ‘Now I [[Hope|hope]] you feel
-pretty comfortable?’
-
-Apparently, Mr Fledgeby did not, for he cried by way of answer, ‘Oh—h
-how I do smart!’
-
-Miss Jenny got his Persian gown upon him, extinguished his eyes
-crookedly with his Persian cap, and helped him to his bed: upon which he
-climbed groaning. ‘Business between you and me being out of the question
-to-day, young man, and my [[Time|time]] being precious,’ said Miss Jenny then,
-‘I’ll make myself scarce. Are you comfortable now?’
-
-‘Oh my eye!’ cried Mr Fledgeby. ‘No, I ain’t. Oh—h—h! how I do smart!’
-
-The last thing Miss Jenny saw, as she looked back before closing the
-room door, was Mr Fledgeby in the act of plunging and gambolling all
-over his bed, like a porpoise or dolphin in its native element. She then
-shut the bedroom door, and all the other doors, and going down stairs
-and emerging from the Albany into the busy streets, took omnibus for
-Saint Mary Axe: pressing on the [[Road|road]] all the gaily-dressed ladies whom
-she could see from the [[Window|window]], and making them unconscious lay-figures
-for dolls, while she mentally cut them out and basted them.
+‘And talk of [[Time]] slipping by you, as if it was an animal at rustic
+sports with its tail soaped,’ said Mr Inspector (again, a subject which
+nobody had approached); ‘why, [[Well|well]] you may. [[Well]] you may. How has it
+slipped by us, since the [[Time|time]] when Mr Job Potterson here present, Mr
+Jacob Kibble here present, and an Officer of the Force here present,
+first came together on a matter of Identification!’

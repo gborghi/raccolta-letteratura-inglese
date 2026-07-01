@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 29 (part 2)"
+title: "Villette — Chapter 29 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -130,9 +130,3 @@ the Parisienne might choose to insinuate and besides, M. Paul was so
 tragic, and took my defection so seriously, he deserved to be vexed. I
 kept, then, both my box and my countenance, and sat insensate as any
 stone.
-
-“It is [[Well|well]]!” dropped at length from the lips of M. Paul; and having
-uttered this phrase, the [[Shadow|shadow]] of some great paroxysm—the swell of
-wrath, scorn, resolve—passed over his brow, rippled his lips, and lined
-his cheeks. Gulping down all further comment, he launched into his
-customary “discours.”

@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 36 (part 2)"
+title: "Jane Eyre — Chapter 36 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -100,7 +100,7 @@ In wandering round the shattered walls and through the devastated
 interior, I gathered evidence that the calamity was not of late
 occurrence. [[Winter]] snows, I thought, had drifted through that void
 arch, [[Winter|winter]] rains beaten in at those hollow casements; for, amidst the
-drenched piles of rubbish, [[spring]] had cherished vegetation: grass and
+drenched piles of rubbish, [[Spring|spring]] had cherished vegetation: grass and
 weed grew here and there between the stones and fallen rafters. And oh!
 where meantime was the hapless owner of this wreck? In what land? Under
 what auspices? My eye involuntarily wandered to the grey church tower
@@ -115,9 +115,3 @@ knew how to begin; such horror had I of the possible answers. And yet
 the spectacle of desolation I had just left prepared me in a measure
 for a tale of misery. The host was a respectable-looking, middle-aged
 man.
-
-“You know Thornfield Hall, of course?” I managed to say at last.
-
-“Yes, ma’am; I lived there once.”
-
-“Did you?” Not in my [[Time|time]], I thought: you are a stranger to me.

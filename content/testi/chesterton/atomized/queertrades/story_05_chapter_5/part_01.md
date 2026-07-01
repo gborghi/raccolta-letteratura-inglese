@@ -1,5 +1,5 @@
 ---
-title: "[[queertrades]] — Chapter 5 (part 1)"
+title: "queertrades — Chapter 5 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/queertrades-(chesterton)"
@@ -17,7 +17,6 @@ tags:
 Chapter 5
 
 The Noticeable Conduct of Professor Chadd
-
 
 Basil Grant had comparatively few friends besides myself; yet he was
 the reverse of an unsociable man.  He would talk to any one anywhere,

@@ -14,6 +14,13 @@ tags:
 </nav>
 
 
+The doctor and the priest walked slowly down the street that struck out
+of the town in the direction of Craven [[house|House]]. Harker had plunged on
+ahead of him with all his native eagerness to get somewhere; but the two
+behind seemed more interested in their discussion than their direction.
+It was in rather an enigmatic tone that the tall doctor said to the
+short cleric beside him:
+
 '[[Well]], [[Father Brown]], what do you think of a thing like this?'
 
 [[Father Brown]] looked at. him rather intently for an instant, and then
@@ -136,14 +143,3 @@ stood staring down at him stricken white. [[Father Brown]] made a wry face
 as he went on: 'I made a [[Fool|fool]] of myself when I first realized it; when
 they'd just been asking where he was found, and went on talking about
 green scum and the Green Man.'
-
-Then he also [[Rose|rose]]; clutching his clumsy umbrella with a new resolution,
-he addressed the girl with a new gravity.
-
-'There is something else that I know, which is the key to all these
-riddles of yours; but I won't tell you yet. I suppose it's bad news; but
-it's nothing like so bad as the things you have been fancying.' He
-buttoned up his coat and turned towards the gate. 'I'm going to see this
-Mr Rook of yours. In a shed by the shore, near where Mr Harker saw him
-walking. I rather think he lives there.' And he went bustling off in the
-direction of the beach.

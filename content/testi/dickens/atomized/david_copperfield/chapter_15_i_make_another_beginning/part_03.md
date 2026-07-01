@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 15: I MAKE ANOTHER BEGINNING (part 3)"
+title: "David Copperfield — Chapter 15: I MAKE ANOTHER BEGINNING (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -10,9 +10,26 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_15_i_make_another_beginning/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_16_i_am_a_new_boy_in_more_senses/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_15_i_make_another_beginning/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_15_i_make_another_beginning/part_04">part 04 ›</a></div>
 </nav>
 
+
+It so happened that this chair was opposite a narrow passage, which
+ended in the little circular room where I had seen [[Uriah Heep]]’s pale
+face looking out of the [[Window|window]]. Uriah, having taken the pony to a
+neighbouring stable, was at work at a desk in this room, which had a
+brass frame on the top to hang paper upon, and on which the writing he
+was making a copy of was then hanging. Though his face was towards me, I
+thought, for some [[Time|time]], the writing being between us, that he could not
+see me; but looking that way more attentively, it made me uncomfortable
+to observe that, every now and then, his sleepless eyes would come below
+the writing, like two red suns, and stealthily stare at me for I dare
+say a whole minute at a [[Time|time]], during which his pen went, or pretended
+to go, as cleverly as ever. I made several attempts to get out of their
+way--such as standing on a chair to look at a map on the other side of
+the room, and poring over the columns of a Kentish newspaper--but they
+always attracted me back again; and whenever I looked towards those two
+red suns, I was sure to find them, either just rising or just setting.
 
 At length, much to my relief, my aunt and Mr. Wickfield came back,
 after a pretty long absence. They were not so successful as I could have
@@ -103,63 +120,3 @@ without any restraint.
 She told me that everything would be arranged for me by Mr. Wickfield,
 and that I should want for nothing, and gave me the kindest words and
 the best advice.
-
-‘Trot,’ said my aunt in conclusion, ‘be a credit to yourself, to me, and
-Mr. Dick, and Heaven be with you!’
-
-I was greatly overcome, and could only thank her, again and again, and
-send my [[Love|love]] to Mr. Dick.
-
-‘Never,’ said my aunt, ‘be mean in anything; never be false; never be
-cruel. Avoid those three vices, Trot, and I can always be hopeful of
-you.’
-
-I promised, as [[Well|well]] as I could, that I would not abuse her kindness or
-forget her admonition.
-
-‘The pony’s at the door,’ said my aunt, ‘and I am off! Stay here.’ With
-these words she embraced me hastily, and went out of the room, shutting
-the door after her. At first I was startled by so abrupt a departure,
-and almost feared I had displeased her; but when I looked into the
-street, and saw how dejectedly she got into the chaise, and drove away
-without looking up, I understood her better and did not do her that
-injustice.
-
-By five o’[[Clock|clock]], which was Mr. Wickfield’s dinner-hour, I had mustered
-up my spirits again, and was ready for my knife and fork. The cloth was
-only laid for us two; but Agnes was waiting in the drawing-room before
-dinner, went down with her father, and sat opposite to him at table. I
-doubted whether he could have dined without her.
-
-We did not stay there, after dinner, but came upstairs into the
-drawing-room again: in one snug corner of which, Agnes set glasses for
-her father, and a decanter of port wine. I thought he would have missed
-its usual flavour, if it had been put there for him by any other hands.
-
-There he sat, taking his wine, and taking a good deal of it, for two
-hours; while Agnes played on the piano, worked, and talked to him and
-me. He was, for the most part, gay and cheerful with us; but sometimes
-his eyes rested on her, and he fell into a brooding state, and was
-silent. She always observed this quickly, I thought, and always roused
-him with a question or caress. Then he came out of his meditation, and
-drank more wine.
-
-Agnes made the tea, and presided over it; and the [[Time|time]] passed away after
-it, as after dinner, until she went to bed; when her father took her
-in his arms and kissed her, and, she being gone, ordered candles in his
-office. Then I went to bed too.
-
-But in the course of the evening I had rambled down to the door, and a
-little way along the street, that I might have another peep at the old
-houses, and the grey [[Cathedral]]; and might think of my coming through
-that old [[City|city]] on my [[Journey|journey]], and of my passing the very [[house]] I lived
-in, without knowing it. As I came back, I saw [[Uriah Heep]] shutting up
-the office; and feeling friendly towards everybody, went in and spoke
-to him, and at parting, gave him my hand. But oh, what a clammy hand his
-was! as ghostly to the touch as to the sight! I rubbed mine afterwards,
-to warm it, AND TO RUB HIS OFF.
-
-It was such an uncomfortable hand, that, when I went to my room, it was
-still cold and wet upon my [[Memory|memory]]. Leaning out of the [[Window|window]], and seeing
-one of the faces on the beam-ends looking at me sideways, I fancied it
-was [[Uriah Heep]] got up there somehow, and shut him out in a hurry.

@@ -14,6 +14,56 @@ tags:
 </nav>
 
 
+swagger as poet and politician, that made him in some ways a real
+
+[[Touchstone|touchstone]] of the [[Time|time]]. It is noticeable about him that he is always
+
+turning up everywhere and that he brings other people out, generally in
+
+a hostile spirit. His Byronic and almost Oriental ostentation was used
+
+by the young Thackeray as something on which to sharpen his new razor of
+
+Victorian common sense. His pose as a dilettante satirist inflamed the
+
+execrable temper of Tennyson, and led to those lively comparisons to a
+
+bandbox and a [[Lion|lion]] in curlpapers. He interposed the glove of warning and
+
+the tear of sensibility between us and the proper ending of _Great
+
+Expectations_. Of his own books, by far the best are the really charming
+
+comedies about _The Caxtons_ and _Kenelm Chillingly_; none of his other
+
+works have a high literary importance now, with the possible exception
+
+of _A Strange Story_; but his _Coming Race_ is historically interesting
+
+as foreshadowing those novels of the future which were afterwards such a
+
+weapon of the Socialists. Lastly, there was an element indefinable about
+
+Lytton, which often is in adventurers; which amounts to a suspicion that
+
+there was something in him after all. It rang out of him when he said to
+
+the hesitating Crimean Parliament: "Destroy your [[government|Government]] and save
+
+your army."
+
+With the next phase of Victorian fiction we enter a new world; the
+
+later, more revolutionary, more continental, freer but in some ways
+
+weaker world in which we live to-day. The subtle and sad change that
+
+was passing like twilight across the English brain at this [[Time|time]] is very
+
+[[Well|well]] expressed in the fact that men have come to mention the great name
+
+of Meredith in the same breath as Mr. Thomas Hardy. Both writers,
+
 doubtless, disagreed with the orthodox religion of the ordinary English
 
 village. Most of us have disagreed with that religion until we made the
@@ -31,8 +81,6 @@ was to Kingsley; or than Abelard was to St. Bernard. But then they
 collided in a sceptical age, which is like colliding in a [[London]] fog.
 
 There can never be any clear controversy in a sceptical age.
-
-
 
 Nevertheless both Hardy and Meredith did mean something; and they did
 
@@ -59,8 +107,6 @@ This division between the two points of view is vital; because the turn
 of the nineteenth century was a very sharp one; by it we have reached
 
 the rapids in which we find ourselves to-day.
-
-
 
 Meredith really is a Pantheist. You can express it by saying that God is
 
@@ -91,8 +137,6 @@ those who can see Dickens' mind in [[Little Nell]]. Both were chivalrous
 pronouncements on behalf of oppressed females: neither has any earthly
 
 meaning as ideas.
-
-
 
 But what Meredith did do for women was not to emancipate them (which
 
@@ -139,61 +183,3 @@ would seem? I think it is for this simple reason: that there is
 something about Meredith making us feel that it is not woman he
 
 disbelieves in, but civilisation. It is a dark undemonstrated feeling
-
-that Meredith would really be rather sorry if woman were civilised by
-
-man--or by anything else. When we have got that, we have got the real
-
-Pagan--the man that does believe in Pan.
-
-
-
-It is proper to put this philosophic matter first, before the æsthetic
-
-appreciation of Meredith, because with Meredith a sort of passing bell
-
-has rung and the Victorian orthodoxy is certainly no longer safe.
-
-Dickens and Carlyle, as we have said, rebelled against the orthodox
-
-compromise: but Meredith has escaped from it. Cosmopolitanism,
-
-Socialism, Feminism are already in the air; and [[Queen]] Victoria has
-
-begun to look like Mrs. Grundy. But to escape from a [[City|city]] is one thing:
-
-to choose a [[Road|road]] is another. The free-thinker who found himself outside
-
-the Victorian [[City|city]], found himself also in the fork of two very different
-
-naturalistic paths. One of them went upwards through a tangled but
-
-living forest to lonely but healthy hills: the other went down to a
-
-swamp. Hardy went down to botanise in the swamp, while Meredith climbed
-
-towards the sun. Meredith became, at his best, a sort of daintily
-
-dressed Walt Whitman: Hardy became a sort of village atheist brooding
-
-and blaspheming over the village idiot. It is largely because the
-
-free-thinkers, as a school, have hardly made up their minds whether they
-
-want to be more optimist or more pessimist than [[Christianity]] that their
-
-small but sincere movement has failed.
-
-
-
-For the duel is deadly; and any agnostic who wishes to be anything more
-
-than a Nihilist must sympathise with one version of [[Nature|nature]] or the
-
-other. The God of Meredith is impersonal; but he is often more healthy
-
-and kindly than any of the persons. That of Thomas Hardy is almost made
-
-personal by the intense feeling that he is poisonous. [[Nature]] is always
-
-coming in to save Meredith's women; [[Nature]] is always coming in to betray

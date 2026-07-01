@@ -1,5 +1,5 @@
 ---
-title: "[[longbow2]] — Chapter 8 (part 7)"
+title: "longbow2 — Chapter 8 (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/longbow2/chapter_08/part_06">‹ part 06</a><span></span></div>
 </nav>
 
+
+"Queer thing," he said, "how true it is what Hilary once said about
+acting an [[Allegory|allegory]] without knowing it.  Never had a notion of what I
+was doing when I picked up a cabbage and wore it for a wager. 
+Damned awkward position, but I never dreamed I was being martyred
+for a symbol.  And the right symbol, too, for I've lived to see
+Britannia crowned with cabbage.  All very [[Well|well]] to say Britannia
+ruled the waves; it was the land she couldn't rule, her own land,
+and it was heaving like earthquakes.  But while there's cabbage
+there's [[Hope|hope]].  Archer, my friend, this is the moral:  any country
+that tries to do without cabbages is done for.  And even in war you
+often fight as much with cabbages as cannon-balls."
 
 "Yes, sir," said Archer respectfully; "would you be wanting another
 cabbage now, sir?"

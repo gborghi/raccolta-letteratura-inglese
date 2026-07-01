@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 4 (part 3)"
+title: "Great Expectations — Chapter 4 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,8 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_04/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_05/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Unless in that form,” said Mr. Wopsle, nodding towards the dish.
 
 “But I don’t mean in that form, sir,” returned Mr. Pumblechook, who had
 an objection to being interrupted; “I mean, enjoying himself with his

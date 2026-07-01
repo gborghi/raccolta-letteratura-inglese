@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities — Chapter 8 (part 2)"
+title: "A Tale of Two Cities — Chapter 10 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-tale-of-two-cities-(dickens)"
@@ -14,143 +14,132 @@ tags:
 </nav>
 
 
-Good [[Miss Pross]]! As if the estrangement between them had come of any
-culpability of hers. As if Mr. Lorry had not known it for a fact, years
-ago, in the quiet corner in Soho, that this precious brother had spent
-her money and left her!
+“I turned her gently over, placed my hands upon her breast to calm her
+and keep her down, and looked into her face. Her eyes were dilated and
+wild, and she constantly uttered piercing shrieks, and repeated the
+words, ‘My husband, my father, and my brother!’ and then counted up to
+twelve, and said, ‘Hush!’ For an instant, and no more, she would pause
+to listen, and then the piercing shrieks would begin again, and she
+would repeat the cry, ‘My husband, my father, and my brother!’ and
+would count up to twelve, and say, ‘Hush!’ There was no variation in the
+order, or the manner. There was no cessation, but the regular moment’s
+pause, in the utterance of these sounds.
 
-He was saying the affectionate word, however, with a far more grudging
-condescension and patronage than he could have shown if their relative
-merits and positions had been reversed (which is invariably the case,
-all the world over), when Mr. Cruncher, touching him on the shoulder,
-hoarsely and unexpectedly interposed with the following singular
-question:
+“‘How long,’ I asked, ‘has this lasted?’
 
-“I say! Might I ask the favour? As to whether your name is John Solomon,
-or Solomon John?”
+“To distinguish the brothers, I will call them the elder and the
+younger; by the elder, I mean him who exercised the most authority. It
+was the elder who replied, ‘Since about this hour last [[Night|night]].’
 
-The official turned towards him with sudden distrust. He had not
-previously uttered a word.
+“‘She has a husband, a father, and a brother?’
 
-“Come!” said Mr. Cruncher. “Speak out, you know.” (Which, by the way,
-was more than he could do himself.) “John Solomon, or Solomon John? She
-calls you Solomon, and she must know, being your sister. And _I_ know
-you’re John, you know. Which of the two goes first? And regarding that
-name of Pross, likewise. That warn’t your name over the [[Water|water]].”
+“‘A brother.’
 
-“What do you mean?”
+“‘I do not address her brother?’
 
-“[[Well]], I don’t know all I mean, for I can’t call to mind what your name
-was, over the [[Water|water]].”
+“He answered with great contempt, ‘No.’
 
-“No?”
+“‘She has some recent association with the number twelve?’
 
-“No. But I’ll swear it was a name of two syllables.”
+“The younger brother impatiently rejoined, ‘With twelve o’[[Clock|clock]]?’
 
-“Indeed?”
+“‘See, gentlemen,’ said I, still keeping my hands upon her breast, ‘how
+useless I am, as you have brought me! If I had known what I was coming
+to see, I could have come provided. As it is, [[Time|time]] must be lost. There
+are no medicines to be obtained in this lonely place.’
 
-“Yes. T’other one’s was one syllable. I know you. You was a spy--witness
-at the Bailey. What, in the name of the Father of Lies, own father to
-yourself, was you called at that [[Time|time]]?”
+“The elder brother looked to the younger, who said haughtily, ‘There is
+a case of medicines here;’ and brought it from a closet, and put it on
+the table.
 
-“Barsad,” said another voice, striking in.
+        *****
 
-“That’s the name for a thousand pound!” cried Jerry.
+“I opened some of the bottles, smelt them, and put the stoppers to my
+lips. If I had wanted to use anything save narcotic medicines that were
+poisons in themselves, I would not have administered any of those.
 
-The speaker who struck in, was [[Sydney Carton]]. He had his hands behind
-him under the skirts of his riding-coat, and he stood at Mr. Cruncher’s
-elbow as negligently as he might have stood at the Old Bailey itself.
+“‘Do you [[Doubt|doubt]] them?’ asked the younger brother.
 
-“Don’t be alarmed, my dear [[Miss Pross]]. I arrived at Mr. Lorry’s, to his
-surprise, yesterday evening; we agreed that I would not present myself
-elsewhere until all was [[Well|well]], or unless I could be useful; I present
-myself here, to beg a little talk with your brother. I wish you had a
-better employed brother than Mr. Barsad. I wish for your sake Mr. Barsad
-was not a Sheep of the Prisons.”
+“‘You see, monsieur, I am going to use them,’ I replied, and said no
+more.
 
-Sheep was a cant word of the [[Time|time]] for a spy, under the gaolers. The spy,
-who was pale, turned paler, and asked him how he dared--
+“I made the patient [[Swallow|swallow]], with great difficulty, and after many
+efforts, the dose that I desired to give. As I intended to repeat it
+after a while, and as it was necessary to watch its influence, I then
+sat down by the side of the bed. There was a timid and suppressed woman
+in attendance (wife of the man down-stairs), who had retreated into
+a corner. The [[house]] was damp and decayed, indifferently
+furnished--evidently, recently occupied and temporarily used. Some thick
+old hangings had been nailed up before the windows, to deaden the
+sound of the shrieks. They continued to be uttered in their regular
+succession, with the cry, ‘My husband, my father, and my brother!’ the
+counting up to twelve, and ‘Hush!’ The frenzy was so violent, that I had
+not unfastened the bandages restraining the arms; but, I had looked to
+them, to see that they were not painful. The only spark of encouragement
+in the case, was, that my hand upon the sufferer’s breast had this much
+soothing influence, that for minutes at a [[Time|time]] it tranquillised the
+figure. It had no effect upon the cries; no pendulum could be more
+regular.
 
-“I’ll tell you,” said Sydney. “I lighted on you, Mr. Barsad, coming out
-of the [[Prison|prison]] of the Conciergerie while I was contemplating the walls,
-an hour or more ago. You have a face to be remembered, and I remember
-faces [[Well|well]]. Made curious by seeing you in that connection, and having
-a reason, to which you are no stranger, for associating you with
-the misfortunes of a friend now very unfortunate, I walked in your
-direction. I walked into the wine-shop here, close after you, and
-sat near you. I had no difficulty in deducing from your unreserved
-conversation, and the rumour openly going about among your admirers, the
-[[Nature|nature]] of your calling. And gradually, what I had done at random, seemed
-to shape itself into a purpose, Mr. Barsad.”
+“For the reason that my hand had this effect (I assume), I had sat by
+the side of the bed for half an hour, with the two brothers looking on,
+before the elder said:
 
-“What purpose?” the spy asked.
+“‘There is another patient.’
 
-“It would be troublesome, and might be dangerous, to explain in the
-street. Could you favour me, in confidence, with some minutes of your
-company--at the office of Tellson’s Bank, for instance?”
+“I was startled, and asked, ‘Is it a pressing case?’
 
-“Under a threat?”
+“‘You had better see,’ he carelessly answered; and took up a light.
 
-“Oh! Did I say that?”
+        *****
 
-“Then, why should I go there?”
+“The other patient lay in a back room across a second staircase, which
+was a species of loft over a stable. There was a low plastered ceiling
+to a part of it; the rest was open, to the ridge of the tiled roof, and
+there were beams across. Hay and straw were stored in that portion of
+the place, fagots for firing, and a heap of apples in sand. I had to
+pass through that part, to get at the other. My [[Memory|memory]] is circumstantial
+and unshaken. I try it with these details, and I see them all, in
+this my cell in the Bastille, near the close of the tenth year of my
+captivity, as I saw them all that [[Night|night]].
 
-“Really, Mr. Barsad, I can’t say, if you can’t.”
+“On some hay on the ground, with a cushion thrown under his head, lay a
+handsome peasant boy--a boy of not more than seventeen at the most.
+He lay on his back, with his teeth set, his right hand clenched on his
+breast, and his glaring eyes looking straight upward. I could not see
+where his wound was, as I kneeled on one knee over him; but, I could see
+that he was dying of a wound from a sharp point.
 
-“Do you mean that you won’t say, sir?” the spy irresolutely asked.
+“‘I am a doctor, my poor fellow,’ said I. ‘Let me examine it.’
 
-“You apprehend me very clearly, Mr. Barsad. I won’t.”
+“‘I do not want it examined,’ he answered; ‘let it be.’
 
-Carton’s negligent recklessness of manner came powerfully in aid of his
-quickness and skill, in such a business as he had in his secret mind,
-and with such a man as he had to do with. His practised eye saw it, and
-made the most of it.
+“It was under his hand, and I soothed him to let me move his hand away.
+The wound was a [[Sword|sword]]-thrust, received from twenty to twenty-four hours
+before, but no skill could have saved him if it had been looked to
+without delay. He was then dying fast. As I turned my eyes to the elder
+brother, I saw him looking down at this handsome boy whose life was
+ebbing out, as if he were a wounded bird, or hare, or rabbit; not at all
+as if he were a fellow-creature.
 
-“Now, I told you so,” said the spy, casting a reproachful look at his
-sister; “if any trouble comes of this, it’s your doing.”
+“‘How has this been done, monsieur?’ said I.
 
-“Come, come, Mr. Barsad!” exclaimed Sydney. “Don’t be ungrateful.
-But for my great respect for your sister, I might not have led up so
-pleasantly to a little proposal that I wish to make for our mutual
-satisfaction. Do you go with me to the Bank?”
+“‘A crazed young common dog! A serf! Forced my brother to draw upon him,
+and has fallen by my brother’s [[Sword|sword]]--like a gentleman.’
 
-“I’ll hear what you have got to say. Yes, I’ll go with you.”
+“There was no touch of pity, sorrow, or kindred humanity, in this
+answer. The speaker seemed to acknowledge that it was inconvenient to
+have that different order of creature dying there, and that it would
+have been better if he had died in the usual obscure routine of his
+vermin kind. He was quite incapable of any compassionate feeling about
+the boy, or about his fate.
 
-“I propose that we first conduct your sister safely to the corner of her
-own street. Let me take your arm, [[Miss Pross]]. This is not a good [[City|city]],
-at this [[Time|time]], for you to be out in, unprotected; and as your escort
-knows Mr. Barsad, I will invite him to Mr. Lorry’s with us. Are we
-ready? Come then!”
+“The boy’s eyes had slowly moved to him as he had spoken, and they now
+slowly moved to me.
 
-[[Miss Pross]] recalled soon afterwards, and to the end of her life
-remembered, that as she pressed her hands on Sydney’s arm and looked up
-in his face, imploring him to do no hurt to Solomon, there was a braced
-purpose in the arm and a kind of inspiration in the eyes, which not only
-contradicted his light manner, but changed and raised the man. She was
-too much occupied then with fears for the brother who so little deserved
-her affection, and with Sydney’s friendly reassurances, adequately to
-heed what she observed.
+“‘Doctor, they are very proud, these Nobles; but we common [[dogs]] are
+proud too, sometimes. They plunder us, outrage us, beat us, kill us; but
+we have a little [[Pride|pride]] left, sometimes. She--have you seen her, Doctor?’
 
-They left her at the corner of the street, and Carton led the way to Mr.
-Lorry’s, which was within a few minutes’ walk. John Barsad, or Solomon
-Pross, walked at his side.
-
-Mr. Lorry had just finished his dinner, and was sitting before a cheery
-little log or two of [[Fire|fire]]--perhaps looking into their blaze for the
-picture of that younger elderly gentleman from Tellson’s, who had looked
-into the red coals at the Royal George at Dover, now a good many years
-ago. He turned his head as they entered, and showed the surprise with
-which he saw a stranger.
-
-“[[Miss Pross]]’s brother, sir,” said Sydney. “Mr. Barsad.”
-
-“Barsad?” repeated the old gentleman, “Barsad? I have an association
-with the name--and with the face.”
-
-“I told you you had a remarkable face, Mr. Barsad,” observed Carton,
-coolly. “Pray sit down.”
-
-As he took a chair himself, he supplied the link that Mr. Lorry wanted,
-by saying to him with a frown, “Witness at that trial.” Mr. Lorry
-immediately remembered, and regarded his new visitor with an undisguised
-look of abhorrence.
+“The shrieks and the cries were audible there, though subdued by the
+distance. He referred to them, as if she were lying in our presence.

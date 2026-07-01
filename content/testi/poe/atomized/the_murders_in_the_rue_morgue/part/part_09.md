@@ -1,5 +1,5 @@
 ---
-title: "[[The Murders in the Rue Morgue]] (part 9)"
+title: "The Murders in the Rue Morgue (part 9)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-murders-in-the-rue-morgue-(poe)"
@@ -13,6 +13,44 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_murders_in_the_rue_morgue/part/part_08">‹ part 08</a><a class="ex-next" href="/testi/poe/atomized/the_murders_in_the_rue_morgue/part/part_10">part 10 ›</a></div>
 </nav>
 
+
+      termed it, the harsh voice.
+
+
+
+      “That was the evidence itself,” said Dupin, “but it was not the
+
+      peculiarity of the evidence. You have observed nothing
+
+      distinctive. Yet there _was_ something to be observed. The
+
+      witnesses, as you remark, agreed about the gruff voice; they were
+
+      here unanimous. But in regard to the shrill voice, the
+
+      peculiarity is—not that they disagreed—but that, while an
+
+      Italian, an Englishman, a Spaniard, a Hollander, and a Frenchman
+
+      attempted to describe it, each one spoke of it as that _of a
+
+      foreigner_. Each is sure that it was not the voice of one of his
+
+      own countrymen. Each likens it—not to the voice of an individual
+
+      of any nation with whose language he is conversant—but the
+
+      converse. The Frenchman supposes it the voice of a Spaniard, and
+
+      ‘might have distinguished some words _had he been acquainted with
+
+      the Spanish._’ The Dutchman maintains it to have been that of a
+
+      Frenchman; but we find it stated that ‘_not understanding French
+
+      this witness was examined through an interpreter._’ The
+
+      Englishman thinks it the voice of a German, and ‘_does not
 
       understand German._’ The Spaniard ‘is sure’ that it was that of
 
@@ -159,43 +197,3 @@ tags:
       was found fitted therein, nearly to the head. Upon examining the
 
       other [[Window|window]], a similar nail was seen similarly fitted in it; and
-
-      a vigorous attempt to raise this sash, failed also. The police
-
-      were now entirely satisfied that egress had not been in these
-
-      directions. And, _therefore_, it was thought a matter of
-
-      supererogation to withdraw the nails and open the windows.
-
-
-
-      “My own examination was somewhat more particular, and was so for
-
-      the reason I have just given—because here it was, I knew, that
-
-      all apparent impossibilities _must_ be proved to be not such in
-
-      reality.
-
-
-
-      “I proceeded to think thus—_a posteriori_. The murderers did
-
-      escape from one of these windows. This being so, they could not
-
-      have refastened the sashes from the inside, as they were found
-
-      fastened;—the consideration which put a stop, through its
-
-      obviousness, to the scrutiny of the police in this quarter. Yet
-
-      the sashes _were_ fastened. They _must_, then, have the power of
-
-      fastening themselves. There was no escape from this conclusion. I
-
-      stepped to the unobstructed casement, withdrew the nail with some
-
-      difficulty and attempted to raise the sash. It resisted all my
-
-      efforts, as I had anticipated. A concealed [[Spring|spring]] must, I now

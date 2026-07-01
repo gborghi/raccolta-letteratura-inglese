@@ -1,5 +1,5 @@
 ---
-title: "[[Macbeth]] — Act I, Scene 7"
+title: "Macbeth — Act I, Scene 7"
 author: "Shakespeare"
 unitType: scene
 parentWork: "works/macbeth-(shakespeare)"

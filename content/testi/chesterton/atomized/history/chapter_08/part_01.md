@@ -1,5 +1,5 @@
 ---
-title: "[[history]] — Chapter 8 (part 1)"
+title: "history — Chapter 8 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/history-(chesterton)"
@@ -92,7 +92,7 @@ The reactions of recent centuries have left most educated men
 bankrupt of the corporate [[Imagination|imagination]] required even to imagine this.
 They only think of a mob as a thing that breaks things--even if they
 admit it is right to break them.  But the mob made these things.
-An [[artist]] mocked as many-headed, an [[artist]] with many eyes and hands,
+An [[Artist|artist]] mocked as many-headed, an [[Artist|artist]] with many eyes and hands,
 created these masterpieces.  And if the modern sceptic in his
 detestation of the democratic ideal, complains of my calling
 them masterpieces, a simple answer will for the moment serve.

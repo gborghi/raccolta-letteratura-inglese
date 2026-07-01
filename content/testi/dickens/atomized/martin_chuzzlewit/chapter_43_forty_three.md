@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 43: FORTY THREE"
+title: "Martin Chuzzlewit — Chapter 43: FORTY THREE"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -107,11 +107,11 @@ too, for the light required a deal of trimming.
 
 ‘Where did he go, ma’am?’ asked the traveller, in a gentler voice.
 
-‘He went,’ said Mrs Lupin, with increased distress, ‘to [[America]]. He was
+‘He went,’ said Mrs Lupin, with increased distress, ‘to [[america|America]]. He was
 always tender-hearted and kind, and perhaps at this moment may be lying
 in [[Prison|prison]] under sentence of [[Death|death]], for taking pity on some miserable
 black, and helping the poor runaway creetur to escape. How could he ever
-go to [[America]]! Why didn’t he go to some of those countries where the
+go to [[america|America]]! Why didn’t he go to some of those countries where the
 savages eat each other fairly, and give an equal chance to every one!’
 
 Quite subdued by this [[Time|time]], Mrs Lupin sobbed, and was retiring to a
@@ -238,7 +238,7 @@ Pecksniff’s young gentlemen were the life and [[Soul|soul]] of the Dragon, and
 that without them it would be too dull to live in--little did I ever
 think I am sure, that any one of them would ever make so free as you, Mr
 Martin! And still less that I shouldn’t be angry with him, but should be
-glad with all my heart to be the first to welcome him [[Home|home]] from [[America]],
+glad with all my heart to be the first to welcome him [[Home|home]] from [[america|America]],
 with [[Mark Tapley]] for his--’
 
 ‘For his friend, Mrs Lupin,’ interposed Martin.

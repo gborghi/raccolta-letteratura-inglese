@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 38 (part 4)"
+title: "Nicholas Nickleby — Chapter 38 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -128,9 +128,3 @@ box and drove slowly off, leaving the two bricklayers, and an old
 apple-woman, and a town-made little boy returning from an evening
 school, who had been the only witnesses of the scene, to meditate upon
 it at their leisure.
-
-Mr. Squeers sat himself down on the opposite seat to the unfortunate
-[[Smike]], and, planting his hands firmly on his knees, looked at him for
-some five minutes, when, seeming to recover from his trance, he uttered
-a loud laugh, and slapped his old pupil’s face several times--taking the
-right and left sides alternately.

@@ -1,5 +1,5 @@
 ---
-title: "[[The System of Doctor Tarr and Professor Fether]] (part 1)"
+title: "The System of Doctor Tarr and Professor Fether (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-system-of-doctor-tarr-and-professor-fether-(poe)"
@@ -209,7 +209,3 @@ During the [[Autumn|autumn]] of 18—, while on a tour through the extreme
       “Yes, yes—say no more—or rather it is myself who should thank you
 
       for the commendable prudence you have displayed. We seldom find
-
-      so much of forethought in young men; and, more than once, some
-
-      unhappy contre-temps has occurred in consequence of

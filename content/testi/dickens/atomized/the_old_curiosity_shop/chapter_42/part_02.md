@@ -14,6 +14,14 @@ tags:
 </nav>
 
 
+‘Don’t vex him,’ returned Isaac List, who was squatting like a frog on
+the other side of the [[Fire|fire]], and had so screwed himself up that he
+seemed to be squinting all over; ‘he didn’t mean any offence.’
+
+‘You keep me poor, and plunder me, and make a sport and jest of me
+besides,’ said the old man, turning from one to the other.  ‘Ye’ll
+drive me mad among ye.’
+
 The utter irresolution and feebleness of the grey-haired [[Child|child]],
 contrasted with the keen and cunning looks of those in whose hands he
 was, smote upon the little listener’s heart.  But she constrained
@@ -120,19 +128,3 @@ a man to the means perhaps of winning all I have, unless I considered
 him my friend?  It’s foolish, I dare say, to be so thoughtful of the
 welfare of other people, but that’s my constitution, and I can’t help
 it; so don’t blame me, Isaac List.’
-
-‘I blame you!’ returned the person addressed; ‘not for the world, Mr
-Jowl.  I wish I could afford to be as liberal as you; and, as you say,
-he might pay it back if he won--and if he lost--’
-
-‘You’re not to take that into consideration at all,’ said Jowl.
-
-‘But suppose he did (and nothing’s less likely, from all I know of
-chances), why, it’s better to lose other people’s money than one’s own,
-I [[Hope|hope]]?’
-
-‘Ah!’ cried Isaac List rapturously, ‘the pleasures of winning!  The
-delight of picking up the money--the bright, shining yellow-boys--and
-sweeping ‘em into one’s pocket!  The deliciousness of having a triumph
-at last, and thinking that one didn’t stop short and turn back, but
-went half-way to meet it!  The--but you’re not going, old gentleman?’

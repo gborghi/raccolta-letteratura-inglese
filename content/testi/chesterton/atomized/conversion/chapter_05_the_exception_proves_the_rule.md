@@ -1,5 +1,5 @@
 ---
-title: "[[conversion]] — Chapter 5: THE EXCEPTION PROVES THE RULE"
+title: "conversion — Chapter 5: THE EXCEPTION PROVES THE RULE"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/conversion-(chesterton)"

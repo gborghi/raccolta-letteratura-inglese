@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 10 (part 2)"
+title: "Bleak House — Chapter 10 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -112,10 +112,3 @@ Mr. Tulkinghorn goes, as the crow came—not quite so straight, but
 nearly—to Cook’s [[Court]], Cursitor Street. To Snagsby’s,
 Law-Stationer’s, Deeds engrossed and copied, Law-Writing executed in
 all its branches, &c., &c., &c.
-
-It is somewhere about five or six o’[[Clock|clock]] in the afternoon, and a
-balmy fragrance of warm tea hovers in Cook’s [[Court]]. It hovers about
-Snagsby’s door. The hours are early there: dinner at half-past one
-and supper at half-past nine. Mr. Snagsby was about to descend into
-the subterranean regions to take tea when he looked out of his door
-just now and saw the crow who was out late.

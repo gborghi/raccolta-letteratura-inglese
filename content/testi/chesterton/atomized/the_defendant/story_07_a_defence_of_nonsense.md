@@ -16,7 +16,6 @@ tags:
 
 A DEFENCE OF NONSENSE
 
-
 There are two equal and eternal ways of looking at this twilight world
 of ours: we may see it as the twilight of evening or the twilight of
 morning; we may think of anything, down to a fallen acorn, as a
@@ -173,6 +172,5 @@ The [[Well|well]]-meaning person who, by merely studying the logical side of
 things, has decided that '[[Faith|faith]] is nonsense,' does not know how truly he
 speaks; later it may come back to him in the form that nonsense is
 [[Faith|faith]].
-
 
        *       *       *       *       *

@@ -1,5 +1,5 @@
 ---
-title: "[[The Pit and the Pendulum]]"
+title: "The Pit and the Pendulum"
 author: "Poe"
 unitType: work
 tags:

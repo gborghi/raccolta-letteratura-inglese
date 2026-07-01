@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 57 (part 2)"
+title: "Nicholas Nickleby — Chapter 57 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,21 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_57/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_57/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘It’s a long [[Time|time]] to have been a-lingering in [[London]],’ he said; ‘and
+this is a precious hole to come and live in, even if it has been only
+for a week or so. Still, one hundred pound is five boys, and five boys
+takes a whole year to pay one hundred pounds, and there’s their keep to
+be substracted, besides. There’s nothing lost, neither, by one’s being
+here; because the boys’ money comes in just the same as if I was at
+[[Home|home]], and Mrs. Squeers she keeps them in order. There’ll be some lost
+[[Time|time]] to make up, of course. There’ll be an arrear of flogging as’ll have
+to be gone through: still, a couple of days makes that all right, and
+one don’t mind a little extra work for one hundred pound. It’s pretty
+nigh the [[Time|time]] to wait upon the old woman. From what she said last [[Night|night]],
+I suspect that if I’m to succeed at all, I shall succeed tonight; so
+I’ll have half a glass more, to wish myself [[success]], and put myself in
+spirits. Mrs. Squeers, my dear, your health!’
 
 Leering with his one eye as if the lady to whom he drank had been
 actually present, Mr. Squeers--in his enthusiasm, no [[Doubt|doubt]]--poured out
@@ -119,33 +134,3 @@ Saying this, and a great deal more, with tipsy profundity and a
 serio-comic air, and keeping his eye all the [[Time|time]] on Mrs. Sliderskew, who
 was unable to hear one word, Mr. Squeers concluded by helping himself and
 passing the bottle: to which Peg did becoming reverence.
-
-‘That’s the [[Time|time]] of day!’ said Mr. Squeers. ‘You look twenty pound ten
-better than you did.’
-
-Again Mrs. Sliderskew chuckled, but modesty forbade her assenting
-verbally to the compliment.
-
-‘Twenty pound ten better,’ repeated Mr. Squeers, ‘than you did that day
-when I first introduced myself. Don’t you know?’
-
-‘Ah!’ said Peg, shaking her head, ‘but you frightened me that day.’
-
-‘Did I?’ said Squeers; ‘[[Well|well]], it was rather a startling thing for a
-stranger to come and recommend himself by saying that he knew all about
-you, and what your name was, and why you were living so quiet here, and
-what you had boned, and who you boned it from, wasn’t it?’
-
-Peg nodded her head in strong assent.
-
-‘But I know everything that happens in that way, you see,’ continued
-Squeers. ‘Nothing takes place, of that kind, that I an’t up to
-entirely. I’m a sort of a lawyer, Slider, of first-rate standing, and
-understanding too; I’m the intimate friend and confidential adwiser
-of pretty nigh every man, woman, and [[Child|child]] that gets themselves into
-difficulties by being too nimble with their fingers, I’m--’
-
-Mr. Squeers’s catalogue of his own merits and accomplishments, which
-was partly the result of a concerted plan between himself and Ralph
-Nickleby, and flowed, in part, from the black bottle, was here
-interrupted by Mrs. Sliderskew.

@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 49 (part 4)"
+title: "The Tenant of Wildfell Hall — Chapter 49 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,48 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_49/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_50/part_01">part 01 ›</a></div>
 </nav>
 
+
+contrary to God’s decrees, and then go to heaven with the best—if the
+
+vilest sinner may win the reward of the holiest saint, by merely
+
+saying, ‘I repent!’”
+
+
+
+“‘But if you _sincerely_ repent—’
+
+
+
+“‘I _can’t_ repent; I only [[Fear|fear]].’
+
+
+
+“‘You only regret the past for its consequences to yourself?’
+
+
+
+“‘Just so—except that I’m sorry to have wronged you, Nell, because
+
+you’re so good to me.’
+
+
+
+“‘Think of the goodness of God, and you cannot but be grieved to have
+
+offended Him.’
+
+
+
+“‘What _is_ God?—I cannot see Him or hear Him.—God is only an idea.’
+
+
+
+“‘God is Infinite Wisdom, and Power, and Goodness—and [[Love|LOVE]]; but if this
+
+idea is too vast for your human faculties—if your mind loses itself in
+
+its overwhelming infinitude, fix it on Him who condescended to take our
 
 [[Nature|nature]] upon Him, who was raised to heaven even in His glorified human
 
@@ -122,7 +164,7 @@ distinctly,—“Pray for me, [[Helen]]!”
 
 
 
-“I do pray for you, every hour and every minute, [[arthur|Arthur]]; but you must
+“I do pray for you, every hour and every minute, [[Arthur]]; but you must
 
 pray for yourself.”
 

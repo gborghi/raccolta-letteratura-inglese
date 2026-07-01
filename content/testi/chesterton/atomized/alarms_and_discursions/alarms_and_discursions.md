@@ -733,7 +733,7 @@ Now lift up your eyes and look at equality and ugliness.
 See how regularly the white buttons are arranged on that black stick,
 and defend your dogmas if you dare."
 
-"Is that telegraph post so much a symbol of [[Democracy|democracy]]?"  I asked.
+"Is that telegraph post so much a symbol of [[democracy]]?"  I asked.
 "I fancy that while three men have made the telegraph to get dividends,
 about a thousand men have preserved the forest to cut wood.
 But if the telegraph pole is hideous (as I admit) it is not due to
@@ -747,7 +747,7 @@ and sprawling sunset, "there is something intrinsically deadening
 about the very idea of a doctrine.  A straight line is always ugly.
 [[Beauty]] is always crooked.  These rigid posts at regular intervals
 are ugly because they are carrying across the world the real
-message of [[Democracy|democracy]]."
+message of [[democracy]]."
 
 "At this moment," I answered, "they are probably carrying across the world
 the message, 'Buy Bulgarian Rails.'  They are probably the prompt
@@ -1449,7 +1449,7 @@ but against Modern Society, for this huge and unparalleled modern wrong.
 
 The Red Town
 
-WHEN a man says that [[Democracy|democracy]] is false because most people are stupid,
+WHEN a man says that [[democracy]] is false because most people are stupid,
 there are several courses which the philosopher may pursue.
 The most obvious is to hit him smartly and with precision on the exact
 tip of the nose.  But if you have scruples (moral or physical)
@@ -1503,9 +1503,9 @@ It expresses everything about the run away:  his eccentric occupation,
 his improbable explanations, his furtive air as of a hunter,
 his constant glances at the blank [[Clock|clock]] in the sky.
 
-No; the English [[Democracy|democracy]] is weak enough about a number of things;
+No; the English [[democracy]] is weak enough about a number of things;
 for instance, it is weak in politics.  But there is no [[Doubt|doubt]]
-that [[Democracy|democracy]] is wonderfully strong in literature.  Very few books
+that [[democracy]] is wonderfully strong in literature.  Very few books
 that the cultured class has produced of late have been such good
 literature as the expression "painting the town red."
 
@@ -1654,7 +1654,7 @@ And for geometry, the mere word proves my case.
 
 But when I looked at those torrents of ploughed parallels,
 that great rush of rigid lines, I seemed to see the whole
-huge achievement of [[Democracy|democracy]].  Here was mere equality:
+huge achievement of [[democracy]].  Here was mere equality:
 but equality seen in bulk is more superb than any supremacy.
 Equality free and flying, equality rushing over [[Hill|hill]] and dale,
 equality charging the world--that was the meaning of those military
@@ -1721,7 +1721,7 @@ A char-à-banc is lovely (it may be said) if placed upon a pedestal
 and worshipped for its own sweet sake; but it does not harmonise with
 the curve and outline of the old three-decker on which Nelson died;
 its [[Beauty|beauty]] is quite of another sort.  Therefore (we will suppose
-our sage to argue) antiquity and [[Democracy|democracy]] should be kept separate,
+our sage to argue) antiquity and [[democracy]] should be kept separate,
 as inconsistent things.  Things may be inconsistent in [[Time|time]] and space
 which are by no means inconsistent in essential value and idea.
 Thus the [[Catholic Church]] has [[Water|water]] for the new-born and oil for
@@ -1759,7 +1759,7 @@ The idea must be abandoned, then, that this feeling of faint
 dislike towards popular sight-seeing is due to any inherent
 incompatibility between the idea of special shrines and
 trophies and the idea of large masses of ordinary men.
-On the contrary, these two elements of sanctity and [[Democracy|democracy]]
+On the contrary, these two elements of sanctity and [[democracy]]
 have been specially connected and allied throughout [[history]].
 The shrines and trophies were often put up by ordinary men.
 They were always put up for ordinary men.  To whatever things
@@ -2793,7 +2793,7 @@ during a short mental illness that she married Dr. Hagg.
 Of Dr. Hagg himself I [[Hope|hope]] there is no need to speak.
 Any one even slightly acquainted with those daring experiments
 in Neo-Individualist [[Eugenics]], which are now the one absorbing
-interest of the English [[Democracy|democracy]], must know his name and often
+interest of the English [[democracy]], must know his name and often
 commend it to the personal protection of an impersonal power.
 Early in life he brought to bear that ruthless insight into the [[history]]
 of religions which he had gained in boyhood as an electrical engineer.
@@ -3383,7 +3383,7 @@ The Commune is still capable of performing direct democratic actions,
 if necessary, with a stick.
 
 I say with a stick, not with sticks, for that is the whole argument
-about [[Democracy|democracy]].  A people is a [[Soul|soul]]; and if you want to know
+about [[democracy]].  A people is a [[Soul|soul]]; and if you want to know
 what a [[Soul|soul]] is, I can only answer that it is something that can
 sin and that can sacrifice itself.  A people can commit theft;
 a people can confess theft; a people can repent of theft.
@@ -3400,7 +3400,7 @@ the French people did both in the Revolution; the Irish people
 have done both in their much purer and more honourable progress.
 
 But the real answer to this aristocratic argument which seeks to
-identify [[Democracy|democracy]] with a drab utilitarianism may be found in action
+identify [[democracy]] with a drab utilitarianism may be found in action
 such as that of the Hungarian Commune--whose name I decline to repeat.
 This Commune did just one of those acts that prove that a separate
 people has a separate personality; it threw something away.
@@ -4379,7 +4379,7 @@ railways exist only to carry the Citizen; forts only to defend him;
 electricity only to light him, medicine only to heal him.
 Popularism, the idea of the people alive and patiently feeding [[history]],
 that we cannot give; for it exists everywhere, East and West.
-But [[Democracy|democracy]], the idea of the people fighting and governing--
+But [[democracy]], the idea of the people fighting and governing--
 that is the only thing we have to give.
 
 Those are the two roads.  But between them weakly wavers
@@ -4860,7 +4860,7 @@ he loves solid whiteness as a little boy loves a ball of [[Snow|snow]].
 
 He sank and sank and sank ... and then, as usually happens in such cases,
 woke up, with a start--in the street.  True, he was taken up
-for a common drunk, but (if you properly appreciate his [[Conversion|conversion]])
+for a common drunk, but (if you properly appreciate his [[conversion]])
 you will realise that he did not mind; since the crime of drunkenness
 is infinitely less than that of spiritual [[Pride|pride]], of which he had
 really been guilty.
@@ -4985,7 +4985,7 @@ in [[Chorus|chorus]].  Even when it is done nowadays it is done tentatively
 and sometimes inaudibly; apparently upon some preposterous principle
 (which I have never clearly grasped) that singing is an art.
 In the new aristocracy of the drawing-room a lady is actually
-asked whether she sings.  In the old [[Democracy|democracy]] of the dinner
+asked whether she sings.  In the old [[democracy]] of the dinner
 table a man was simply told to sing, and he had to do it.
 I like the atmosphere of those old banquets.  I like to think
 of my ancestors, middle-aged or venerable gentlemen, all sitting

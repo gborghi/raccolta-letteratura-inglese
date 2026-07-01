@@ -16,10 +16,7 @@ tags:
 
 CHAPTER II
 
-
-
 THE WORLD ST.  FRANCIS FOUND
-
 
 The modern innovation which has substituted journalism for [[history]],
 or for that tradition that is the gossip of [[history]], has had at least
@@ -368,7 +365,7 @@ to whom [[Nature|nature]] had grown as unnatural as any religion.
 They knew much better than we do what was the matter with them
 and what sort of demons at once tempted and tormented them;
 and they wrote across that great space of [[history]] the text;
-"This sort goeth not out but by [[Prayer|prayer]] and fasting."
+"This sort goeth not out but by [[prayer]] and fasting."
 
 Now the historical importance of St. Francis and the transition from
 the twelfth to the thirteenth centuries, lies in the fact that they

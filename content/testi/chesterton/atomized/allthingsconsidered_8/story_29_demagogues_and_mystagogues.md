@@ -1,5 +1,5 @@
 ---
-title: "[[AllThingsConsidered-8]] — DEMAGOGUES AND MYSTAGOGUES"
+title: "AllThingsConsidered-8 — DEMAGOGUES AND MYSTAGOGUES"
 author: "Chesterton"
 unitType: story
 parentWork: "works/allthingsconsidered-8-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 DEMAGOGUES AND MYSTAGOGUES
-
 
 I once heard a man call this age the age of demagogues.
 Of this I can only say, in the admirably sensible words of

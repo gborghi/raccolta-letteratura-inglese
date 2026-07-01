@@ -1,5 +1,5 @@
 ---
-title: "The Man Who Knew Too Much — The [[Soul]] of the Schoolboy (part 5)"
+title: "The Man Who Knew Too Much — The Soul of the Schoolboy (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/the-man-who-knew-too-much-(chesterton)"
@@ -13,6 +13,21 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_03_the_soul_of_the_schoolboy/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_04_the_bottomless_well/part_01">part 01 ›</a></div>
 </nav>
 
+
+for the sake of silver, but a thing like that might [[Well|well]] be stolen
+
+out of some religious mania. A runaway monk turned mystic might [[Well|well]]
+
+want it for some mystical purpose."
+"No," replied Fisher, "the runaway monk is not a thief. At any rate
+
+he is not the thief. And he's not altogether a liar, either. He said
+
+one true thing at least that [[Night|night]]."
+"And what was that?" inquired March.
+"He said it was all magnetism. As a matter of fact, it was done by
+
+means of a magnet." Then, seeing they still looked puzzled, he
 
 added, "It was that toy magnet belonging to your nephew, Mr.
 

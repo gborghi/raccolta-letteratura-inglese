@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]]"
+title: "Northanger Abbey"
 author: "Austen"
 unitType: work
 parentWork: "works/northanger-abbey-(austen)"
@@ -10067,7 +10067,7 @@ without discovering anything of importance—perhaps nothing but a
 
 considerable hoard of diamonds. At last, however, by touching a secret
 
-[[spring]], an inner compartment will open—a roll of paper appears—you
+[[Spring|spring]], an inner compartment will open—a roll of paper appears—you
 
 seize it—it contains many sheets of manuscript—you hasten with the
 
@@ -11517,7 +11517,7 @@ before—gathered all that she could from this storehouse of knowledge,
 
 by running over the titles of half a shelf, and was ready to proceed.
 
-But suites of apartments did not [[spring]] up with her wishes. Large as
+But suites of apartments did not [[Spring|spring]] up with her wishes. Large as
 
 was the building, she had already visited the greatest part; though, on
 
@@ -12429,7 +12429,7 @@ disorder, Frederick and I (_we_ were both at [[Home|home]]) saw her repeatedly;
 
 and from our own observation can bear witness to her having received
 
-every possible attention which could [[spring]] from the affection of those
+every possible attention which could [[Spring|spring]] from the affection of those
 
 about her, or which her situation in life could command. Poor [[Eleanor]]
 
@@ -13409,7 +13409,7 @@ more to her now than any other [[house]]. The painful remembrance of the
 
 folly it had helped to nourish and perfect was the only emotion which
 
-could [[spring]] from a consideration of the building. What a revolution in
+could [[Spring|spring]] from a consideration of the building. What a revolution in
 
 her ideas! she, who had so longed to be in an abbey! now, there was
 
@@ -13673,7 +13673,7 @@ My dearest Catherine,
 
     Your kind offices will set all right: he is the only man I ever did
 
-    or could [[Love|love]], and I trust you will convince him of it. The [[spring]]
+    or could [[Love|love]], and I trust you will convince him of it. The [[Spring|spring]]
 
     fashions are partly down; and the hats the most frightful you can
 

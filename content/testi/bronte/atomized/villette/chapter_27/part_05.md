@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 26 (part 5)"
+title: "Villette — Chapter 26 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_27/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_28/part_01">part 01 ›</a></div>
 </nav>
 
+
+“He could see in me nothing Christian: like many other Protestants, I
+revelled in the [[Pride|pride]] and [[Self|self]]-will of paganism.”
 
 I slightly turned from him, nestling still closer under the wing of
 [[Silence|silence]].

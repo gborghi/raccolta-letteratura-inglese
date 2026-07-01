@@ -1,5 +1,5 @@
 ---
-title: "[[Eugenics]] — Part 2 (part 19)"
+title: "Eugenics — Part 2 (part 19)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/eugenics-(chesterton)"
@@ -13,6 +13,23 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/eugenics/chapter_03/part_18">‹ part 18</a><a class="ex-next" href="/testi/chesterton/atomized/eugenics/chapter_03/part_20">part 20 ›</a></div>
 </nav>
 
+
+5.--- Of his old Cherry-briar. Here we have the intermediate
+and anomalous position of the institution of Property.
+The sentiment still exists, even among the poor, or perhaps especially
+among the poor.  But it is attached to toys rather than tools;
+to the minor products rather than to the means of production.
+But something of the [[Sanity|sanity]] of ownership is still to be observed;
+for instance, the element of custom and continuity.
+It was an old cherry-briar; systematically smoked by Father
+in spite of all wiles and temptations to Woodbines and gaspers;
+an old companion possibly connected with various romantic or diverting
+events in Father's life.  It is perhaps a relic as [[Well|well]] as a trinket.
+But because it is not a true tool, because it gives the man no grip
+on the creative energies of society, it is, with all the rest
+of his [[Self|self]]-respect, at the [[Mercy|mercy]] of the thing called the sack.
+When he gets the sack from the [[Water|water]]-works, it is only too probable
+that he will have to pawn his old cherry-briar.
 
 6.--- 'Cos he might set the [[Water|water]]-works on [[Fire|fire]].  And that single line,
 like the lovely single lines of the great poets, is so full,

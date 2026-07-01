@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 19 (part 2)"
+title: "The Tenant of Wildfell Hall — Chapter 19 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_19/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_20/part_01">part 01 ›</a></div>
 </nav>
 
+
+sound of his voice, as he spoke in answer to some remark of Lord
+
+Lowborough’s, that his face was turned towards me. Perhaps a
+
+half-suppressed sob had caught his ear, and caused him to look
+
+round—heaven forbid! But with a violent effort, I checked all further
 
 signs of weakness, dried my [[Tears|tears]], and, when I thought he had turned
 

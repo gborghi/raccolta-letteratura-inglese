@@ -1,5 +1,5 @@
 ---
-title: "[[Henry VI]] Part One — Act V, Scene 7"
+title: "Henry VI Part One — Act V, Scene 7"
 author: "Shakespeare"
 unitType: scene
 parentWork: "works/henry-vi-part-one-(shakespeare)"

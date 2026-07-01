@@ -1,5 +1,5 @@
 ---
-title: "[[Don Quixote]] — Chapter 7 (part 3)"
+title: "Don Quixote — Chapter 7 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/don-quixote-(chesterton)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_08/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_08/part_04">part 04 ›</a></div>
 </nav>
 
+
+"I think he's a long [[Time|time]] coming to the point," replied Archer.
+"Gives a romantic actor no scope at all."
 
 "I'm afraid I don't know anything about any sort of acting,"
 said the librarian, sadly.  "It's lucky you've only given me
@@ -125,8 +128,3 @@ which had remained something of a mystery.
 
 "Why, I've sometimes got up at six three days running," said Mr. Archer,
 merely in illustration of the industry of the company.
-
-"But how can we go on with it?" asked Rosamund in exasperation.
-"Who else is there who could take the [[King]]?  We had trouble enough
-in getting hold of an assistant Troubadour, till Mr. Herne was kind
-enough to help us."

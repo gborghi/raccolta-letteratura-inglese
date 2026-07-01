@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 14 (part 7)"
+title: "Bleak House — Chapter 14 (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,29 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_14/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_14/part_08">part 08 ›</a></div>
 </nav>
 
+
+“Oh, decidedly unwell! Oh, very unwell indeed,” she said
+confidentially. “Not [[Pain|pain]], you know—trouble. Not bodily so much as
+nervous, nervous! The [[Truth|truth]] is,” in a subdued voice and trembling,
+“we have had [[Death|death]] here. There was [[Poison|poison]] in the [[house]]. I am very
+susceptible to such horrid things. It frightened me. Only Mr.
+Woodcourt knows how much. My physician, Mr. Woodcourt!” with
+great stateliness. “The wards in Jarndyce—Jarndyce of Bleak
+[[house|House]]—Fitz-Jarndyce!”
+
+“Miss Flite,” said Mr. Woodcourt in a [[Grave|grave]] kind of voice, as if he
+were appealing to her while speaking to us, and laying his hand
+gently on her arm, “Miss Flite describes her illness with her usual
+accuracy. She was alarmed by an occurrence in the [[house]] which might
+have alarmed a stronger person, and was made ill by the distress and
+agitation. She brought me here in the first hurry of the discovery,
+though too late for me to be of any use to the unfortunate man. I
+have compensated myself for that disappointment by coming here since
+and being of some small use to her.”
+
+“The kindest physician in the college,” whispered Miss Flite to me.
+“I expect a judgment. On the day of judgment. And shall then confer
+estates.”
 
 “She will be as [[Well|well]] in a day or two,” said Mr. Woodcourt, looking at
 her with an observant smile, “as she ever will be. In other words,
@@ -111,34 +134,3 @@ the whole collection,” said the old man, “all cooped up together, by
 my noble and learned brother.”
 
 “This is a bitter [[Wind|wind]]!” muttered my guardian.
-
-“When my noble and learned brother gives his judgment, they’re to be
-let go free,” said Krook, winking at us again. “And then,” he added,
-whispering and grinning, “if that ever was to happen—which it
-won’t—the [[Birds|birds]] that have never been caged would kill ’em.”
-
-“If ever the [[Wind|wind]] was in the east,” said my guardian, pretending to
-look out of the [[Window|window]] for a weathercock, “I think it’s there
-to-day!”
-
-We found it very difficult to get away from the [[house]]. It was not
-Miss Flite who detained us; she was as reasonable a little creature
-in consulting the convenience of others as there possibly could be.
-It was Mr. Krook. He seemed unable to detach himself from Mr.
-Jarndyce. If he had been linked to him, he could hardly have attended
-him more closely. He proposed to show us his [[Court]] of Chancery and
-all the strange medley it contained; during the whole of our
-inspection (prolonged by himself) he kept close to Mr. Jarndyce and
-sometimes detained him under one pretence or other until we had
-passed on, as if he were tormented by an inclination to enter upon
-some secret subject which he could not make up his mind to approach.
-I cannot imagine a countenance and manner more singularly expressive
-of caution and indecision, and a perpetual impulse to do something he
-could not resolve to venture on, than Mr. Krook’s was that day. His
-watchfulness of my guardian was incessant. He rarely removed his eyes
-from his face. If he went on beside him, he observed him with the
-slyness of an old white fox. If he went before, he looked back. When
-we stood still, he got opposite to him, and drawing his hand across
-and across his open mouth with a curious expression of a sense of
-power, and turning up his eyes, and lowering his grey eyebrows until
-they appeared to be shut, seemed to scan every lineament of his face.

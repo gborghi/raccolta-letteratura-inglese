@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 14 (part 5)"
+title: "The Mystery of Edwin Drood — Chapter 14 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_15/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_16/part_01">part 01 ›</a></div>
 </nav>
 
+
+“This is better,” says Mr. Crisparkle, stopping at the steps of his own
+door to shake hands, “than I could have hoped.”
+
+“Why, naturally,” returns Jasper. “You had but little reason to [[Hope|hope]]
+that I should become more like yourself. You are always training
+yourself to be, mind and [[Body|body]], as clear as crystal, and you always are,
+and never change; whereas I am a muddy, solitary, moping weed. However,
+I have got over that mope. Shall I wait, while you ask if Mr. Neville
+has left for my place? If not, he and I may walk round together.”
+
+“I think,” says Mr. Crisparkle, opening the entrance-door with his key,
+“that he left some [[Time|time]] ago; at least I know he left, and I think he
+has not come back. But I’ll inquire. You won’t come in?”
 
 “My company wait,” said Jasper, with a smile.
 

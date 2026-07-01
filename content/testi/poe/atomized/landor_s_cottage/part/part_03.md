@@ -1,5 +1,5 @@
 ---
-title: "[[Landor's Cottage]] (part 3)"
+title: "Landor's Cottage (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/landor's-cottage-(poe)"
@@ -13,6 +13,49 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/landor_s_cottage/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/landor_s_cottage/part/part_04">part 04 ›</a></div>
 </nav>
 
+
+      I have spoken of two openings into the vale. From the one to the
+      northwest issued a rivulet, which came, gently murmuring and
+      slightly foaming, down the ravine, until it dashed against the
+      group of rocks out of which sprang the insulated hickory. Here,
+      after encircling the tree, it passed on a little to the north of
+      east, leaving the tulip tree some twenty feet to the south, and
+      making no decided alteration in its course until it came near the
+      midway between the eastern and western boundaries of the valley.
+      At this point, after a series of sweeps, it turned off at right
+      angles and pursued a generally southern direction meandering as
+      it went—until it became lost in a small lake of irregular figure
+      (although roughly oval), that lay gleaming near the lower
+      extremity of the vale. This lakelet was, perhaps, a hundred yards
+      in diameter at its widest part. No crystal could be clearer than
+      its waters. Its [[Bottom|bottom]], which could be distinctly seen, consisted
+      altogether, of pebbles brilliantly white. Its banks, of the
+      emerald grass already described, rounded, rather than sloped, off
+      into the clear heaven below; and so clear was this heaven, so
+      perfectly, at times, did it reflect all objects above it, that
+      where the true bank ended and where the mimic one commenced, it
+      was a point of no little difficulty to determine. The trout, and
+      some other varieties of fish, with which this pond seemed to be
+      almost inconveniently crowded, had all the appearance of
+      veritable flying-fish. It was almost impossible to believe that
+      they were not absolutely suspended in the air. A light birch
+      canoe that lay placidly on the [[Water|water]], was reflected in its
+      minutest fibres with a fidelity unsurpassed by the most
+      exquisitely polished [[Mirror|mirror]]. A small island, fairly laughing with
+      [[Flowers|flowers]] in full bloom, and affording little more space than just
+      enough for a picturesque little building, seemingly a
+      fowl-[[house]]—arose from the lake not far from its northern shore—to
+      which it was connected by means of an inconceivably light-looking
+      and yet very primitive bridge. It was formed of a single, broad
+      and thick plank of the tulip wood. This was forty feet long, and
+      spanned the interval between shore and shore with a slight but
+      very perceptible arch, preventing all oscillation. From the
+      southern extreme of the lake issued a continuation of the
+      rivulet, which, after meandering for, perhaps, thirty yards,
+      finally passed through the “depression” (already described) in
+      the middle of the southern declivity, and tumbling down a sheer
+      precipice of a hundred feet, made its devious and unnoticed way
+      to the Hudson.
 
       The lake was deep—at some points thirty feet—but the rivulet
       seldom exceeded three, while its greatest width was about eight.
@@ -67,49 +110,3 @@ tags:
       in the words just employed, I could scarcely give, of poetry in
       the abstract, a more rigorous definition)—and I do not mean that
       merely outre was perceptible in any respect.
-
-      In fact nothing could [[Well|well]] be more simple—more utterly
-      unpretending than this cottage. Its marvellous effect lay
-      altogether in its artistic arrangement as a picture. I could have
-      fancied, while I looked at it, that some eminent
-      landscape-painter had built it with his brush.
-
-      The point of view from which I first saw the valley, was not
-      altogether, although it was nearly, the best point from which to
-      survey the [[house]]. I will therefore describe it as I afterwards
-      saw it—from a position on the stone wall at the southern extreme
-      of the amphitheatre.
-
-      The main building was about twenty-four feet long and sixteen
-      broad—certainly not more. Its total height, from the ground to
-      the apex of the roof, could not have exceeded eighteen feet. To
-      the west end of this structure was attached one about a third
-      smaller in all its proportions:—the line of its front standing
-      back about two yards from that of the larger [[house]], and the line
-      of its roof, of course, being considerably depressed below that
-      of the roof adjoining. At right angles to these buildings, and
-      from the rear of the main one—not exactly in the middle—extended
-      a third compartment, very small—being, in general, one-third less
-      than the western wing. The roofs of the two larger were very
-      steep—sweeping down from the ridge-beam with a long concave
-      curve, and extending at least four feet beyond the walls in
-      front, so as to form the roofs of two piazzas. These latter
-      roofs, of course, needed no support; but as they had the air of
-      needing it, slight and perfectly plain pillars were inserted at
-      the corners [[Alone|alone]]. The roof of the northern wing was merely an
-      extension of a portion of the main roof. Between the chief
-      building and western wing arose a very tall and rather slender
-      square chimney of hard Dutch bricks, alternately black and red:—a
-      slight cornice of projecting bricks at the top. Over the gables
-      the roofs also projected very much:—in the main building about
-      four feet to the east and two to the west. The principal door was
-      not exactly in the main division, being a little to the
-      east—while the two windows were to the west. These latter did not
-      extend to the floor, but were much longer and narrower than
-      usual—they had single shutters like doors—the panes were of
-      lozenge form, but quite large. The door itself had its upper half
-      of glass, also in lozenge panes—a movable shutter secured it at
-      [[Night|night]]. The door to the west wing was in its gable, and quite
-      simple—a single [[Window|window]] looked out to the south. There was no
-      external door to the north wing, and it also had only one [[Window|window]]
-      to the east.

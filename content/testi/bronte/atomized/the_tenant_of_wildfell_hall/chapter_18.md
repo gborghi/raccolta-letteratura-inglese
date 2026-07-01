@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 18"
+title: "The Tenant of Wildfell Hall — Chapter 18"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -24,7 +24,7 @@ August 25th.—I am now quite settled down to my usual routine of steady
 
 occupations and quiet amusements—tolerably contented and cheerful, but
 
-still looking forward to [[spring]] with the [[Hope|hope]] of returning to town, not
+still looking forward to [[Spring|spring]] with the [[Hope|hope]] of returning to town, not
 
 for its gaieties and dissipations, but for the chance of meeting Mr.
 
@@ -576,7 +576,7 @@ By the bright azure of the sky, and by the warm and brilliant lights
 
 and deep long shadows, I had endeavoured to convey the idea of a sunny
 
-morning. I had ventured to give more of the bright verdure of [[spring]] or
+morning. I had ventured to give more of the bright verdure of [[Spring|spring]] or
 
 early [[Summer|summer]] to the grass and foliage than is commonly attempted in
 
@@ -626,7 +626,7 @@ set himself before my picture.
 
 “Very pretty, i’[[Faith|faith]],” said he, after attentively regarding it for a
 
-few seconds; “and a very fitting study for a young lady. [[spring|Spring]] just
+few seconds; “and a very fitting study for a young lady. [[Spring]] just
 
 opening into [[Summer|summer]]—morning just approaching [[Noon|noon]]—girlhood just
 

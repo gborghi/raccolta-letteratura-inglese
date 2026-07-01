@@ -1,5 +1,5 @@
 ---
-title: "[[Pride and Prejudice]] — Chapter 46 (part 1)"
+title: "Pride and Prejudice — Chapter 46 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/pride-and-prejudice-(austen)"

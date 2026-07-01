@@ -119,9 +119,3 @@ chimney-corner, soon forgot their late troubles or only remembered them
 as enhancing the delights of the present [[Time|time]].  Overpowered by the
 warmth and comfort and the fatigue they had undergone, Nelly and the
 old man had not long taken their seats here, when they fell asleep.
-
-‘Who are they?’ whispered the landlord.
-
-Short shook his head, and wished he knew himself.
-
-‘Don’t you know?’ asked the host, turning to Mr Codlin.

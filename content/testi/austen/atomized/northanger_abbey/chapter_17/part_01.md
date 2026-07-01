@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 16 (part 1)"
+title: "Northanger Abbey — Chapter 16 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -225,9 +225,3 @@ and, much to Catherine’s dissatisfaction, pulled his brother away. They
 retired whispering together; and, though her delicate sensibility did
 
 not take immediate alarm, and lay it down as fact, that Captain Tilney
-
-must have heard some malevolent misrepresentation of her, which he now
-
-hastened to communicate to his brother, in the [[Hope|hope]] of separating them
-
-forever, she could not have her partner conveyed from her sight without

@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 37: THIRTY SEVEN (part 2)"
+title: "Martin Chuzzlewit — Chapter 37: THIRTY SEVEN (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_37_thirty_seven/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_37_thirty_seven/part_03">part 03 ›</a></div>
 </nav>
 
+
+Tom mentioned, to excuse himself, that he had an appointment in
+Furnival’s Inn, and that coming from Islington he had taken a few wrong
+turnings, and arrived at the Monument instead. Miss Pecksniff simpered
+very much when he asked her if she knew the way to Furnival’s Inn, and
+at length found [[Courage|courage]] to reply.
 
 ‘A gentleman who is a friend of mine, or at least who is not exactly a
 friend so much as a sort of acquaintance--Oh upon my word, I hardly
@@ -123,20 +129,3 @@ your [[Nature|nature]] was forgiving. I did not think you could be cruel.’
 She spoke as little like her old [[Self|self]] now, for certain, as Tom
 could possibly have wished. But she seemed to be appealing to him
 reproachfully, and he did not understand her.
-
-‘I seldom showed it--never--I know that. But I had that belief in you,
-that if I had been asked to name the person in the world least likely to
-retort upon me, I would have named you, confidently.’
-
-‘Would have named me!’ Tom repeated.
-
-‘Yes,’ she said with energy, ‘and I have often thought so.’
-
-After a moment’s reflection, Tom sat himself upon a chair beside her.
-
-‘Do you believe,’ said Tom, ‘oh, can you think, that what I said just
-now, I said with any but the true and plain intention which my words
-professed? I mean it, in the spirit and the letter. If I ever offended
-you, forgive me; I may have done so, many times. You never injured or
-offended me. How, then, could I possibly retort, if even I were stern
-and bad enough to wish to do it!’

@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 46 (part 2)"
+title: "The Tenant of Wildfell Hall — Chapter 46 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_46/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_46/part_03">part 03 ›</a></div>
 </nav>
 
+
+brief answers, wherein she showed herself wiser than her friend; and I
+
+may tell you, too, that she seemed to be far more anxious lest you
 
 should think too much of her, than lest you should forget her.”
 
@@ -251,27 +255,3 @@ indignation.
 it is so to the best of my belief; but as you would not willingly marry
 
 Miss Wilson if it _were_ so, you will do [[Well|well]] to be cautious, till you
-
-have proved it to be otherwise.”
-
-
-
-“I never told you, Markham, that I _intended_ to marry Miss Wilson,”
-
-said he, proudly.
-
-
-
-“No, but whether you do or not, she intends to marry you.”
-
-
-
-“Did she tell you so?”
-
-
-
-“No, but—”
-
-
-
-“Then you have no right to make such an assertion respecting her.” He

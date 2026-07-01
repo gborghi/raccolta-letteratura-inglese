@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 33 (part 3)"
+title: "The Tenant of Wildfell Hall — Chapter 33 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_33/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_33/part_04">part 04 ›</a></div>
 </nav>
 
+
+“Hold your tongue, will you?” said I: his talk distracted me, for I was
+
+driven to extremities. A few more moves, and I was inextricably
+
+entangled in the snare of my antagonist.
+
+
+
+“Check,” cried he: I sought in agony some means of escape. “Mate!” he
+
+added, quietly, but with evident delight. He had suspended the
+
+utterance of that last fatal syllable the better to enjoy my dismay. I
+
+was foolishly disconcerted by the event. Hattersley laughed; Milicent
 
 was troubled to see me so disturbed. Hargrave placed his hand on mine
 
@@ -271,19 +287,3 @@ me as he walked away.
 “God help me now!” I murmured, sinking on my knees among the damp weeds
 
 and brushwood that surrounded me, and looking up at the moonlit sky,
-
-through the scant foliage above. It seemed all dim and quivering now to
-
-my darkened sight. My burning, bursting heart strove to pour forth its
-
-agony to God, but could not frame its anguish into [[Prayer|prayer]]; until a gust
-
-of [[Wind|wind]] swept over me, which, while it scattered the dead [[Leaves|leaves]], like
-
-blighted hopes, around, cooled my forehead, and seemed a little to
-
-revive my sinking frame. Then, while I lifted up my [[Soul|soul]] in speechless,
-
-earnest supplication, some heavenly influence seemed to strengthen me
-
-within: I breathed more freely; my vision cleared; I saw distinctly the

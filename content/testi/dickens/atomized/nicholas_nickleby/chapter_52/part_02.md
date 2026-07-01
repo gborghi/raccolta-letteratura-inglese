@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 52 (part 2)"
+title: "Nicholas Nickleby — Chapter 52 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_52/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_52/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘Bravely spoken!’ said Newman. ‘[[Well]] done, [[Well|well]] done! Yes. Very good.’
+
+‘And I do declare,’ cried Nicholas, with honest enthusiasm, ‘that in
+this effort I am influenced by no selfish or personal considerations,
+but by pity for her, and detestation and abhorrence of this scheme; and
+that I would do the same, were there twenty rivals in the field, and I
+the last and least favoured of them all.’
 
 ‘You would, I believe,’ said Newman. ‘But where are you hurrying now?’
 
@@ -120,22 +128,3 @@ Newman was too good-natured not to have consented, even without this
 avowal of confidence on the part of Mrs. Kenwigs. Accordingly, a very few
 minutes had elapsed, when he and Miss Morleena were on their way to the
 hairdresser’s.
-
-It was not exactly a hairdresser’s; that is to say, people of a coarse
-and vulgar turn of mind might have called it a barber’s; for they not
-only cut and curled ladies elegantly, and children carefully, but shaved
-gentlemen easily. Still, it was a highly genteel establishment--quite
-first-rate in fact--and there were displayed in the [[Window|window]], besides
-other elegancies, waxen busts of a light lady and a dark gentleman which
-were the admiration of the whole neighbourhood. Indeed, some ladies
-had gone so far as to assert, that the dark gentleman was actually
-a portrait of the spirted young proprietor; and the great similarity
-between their head-dresses--both wore very glossy hair, with a narrow
-walk straight down the middle, and a profusion of flat circular curls
-on both sides--encouraged the idea. The better informed among the sex,
-however, made light of this assertion, for however willing they were
-(and they were very willing) to do full justice to the handsome face
-and figure of the proprietor, they held the countenance of the dark
-gentleman in the [[Window|window]] to be an exquisite and abstract idea of
-masculine [[Beauty|beauty]], realised sometimes, perhaps, among angels and military
-men, but very rarely embodied to gladden the eyes of mortals.

@@ -1,5 +1,5 @@
 ---
-title: "[[Pride and Prejudice]] — Chapter 53 (part 1)"
+title: "Pride and Prejudice — Chapter 53 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/pride-and-prejudice-(austen)"
@@ -140,9 +140,3 @@ Consoled by this resolution, she was the better able to bear her
 husband’s incivility; though it was very mortifying to know that her
 neighbours might all see Mr. Bingley, in consequence of it, before
 _they_ did. As the day of his arrival drew near,--
-
-“I begin to be sorry that he comes at all,” said Jane to her sister. “It
-would be nothing; I could see him with perfect indifference; but I can
-hardly bear to hear it thus perpetually talked of. My mother means [[Well|well]];
-but she does not know, no one can know, how much I suffer from what she
-says. Happy shall I be when his stay at Netherfield is over!”

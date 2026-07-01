@@ -1,5 +1,5 @@
 ---
-title: "[[wifrb11]] — The Mistake of the [[Machine]] (part 1)"
+title: "wifrb11 — The Mistake of the Machine (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -16,16 +16,15 @@ tags:
 
                       The Mistake of the [[Machine]]
 
-
 [[Flambeau|FLAMBEAU]] and his friend the priest were sitting in the Temple Gardens
 about sunset; and their neighbourhood or some such accidental influence
 had turned their talk to matters of legal process.  From the problem
 of the licence in [[Cross|cross]]-examination, their talk strayed to Roman and
 mediaeval torture, to the examining magistrate in France and
-the Third Degree in [[america|America]].
+the Third Degree in [[America]].
 
      "I've been reading," said [[Flambeau]], "of this new psychometric method
-they talk about so much, especially in [[america|America]].  You know what I mean;
+they talk about so much, especially in [[America]].  You know what I mean;
 they put a pulsometer on a man's wrist and judge by how his heart goes
 at the pronunciation of certain words.  What do you think of it?"
 
@@ -129,8 +128,8 @@ for some comparatively trivial assault; but he gave everyone the impression
 of a man with a black past and a dangerous future.  Finally,
 when daylight had fully revealed the scene of murder, it was found
 that he had written on the wall above the [[Body|body]] a fragmentary sentence,
-apparently with a finger dipped in [[Blood|blood]]:  `This was [[Self|self]]-defence and
+apparently with a finger dipped in [[Blood|blood]]:  `This was self-defence and
 he had the gun.  I meant no harm to him or any man but one. 
-I am keeping the bullet for [[Pilgrim]]'s Pond--O.R.'  A man must have used
+I am keeping the bullet for Pilgrim's Pond--O.R.'  A man must have used
 most fiendish treachery or most savage and amazing bodily daring
 to have stormed such a wall in spite of an armed man."

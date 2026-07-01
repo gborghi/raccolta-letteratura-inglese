@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The Oracle of the Dog (part 3)"
+title: "incredulity Fr Brown — The Oracle of the Dog (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity_fr_brown/story_03_the_oracle_of_the_dog/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity_fr_brown/story_03_the_oracle_of_the_dog/part_04">part 04 ›</a></div>
 </nav>
 
+
+'You went back, I suppose,' said [[Father Brown]] patiently. 'What happened
+then?'
 
 'I'll tell you what happened then,' said Fiennes with a grim emphasis.
 'When we got back into that [[Garden|garden]] the first thing we saw was Traill,
@@ -113,11 +116,3 @@ ladder was still standing by the hedge, and just under the hedge my
 guide stopped and disentangled something from the deep grass. It was the
 sheers used for clipping the hedge, and on the point of one of them was
 a smear of [[Blood|blood]].'
-
-There was a short [[Silence|silence]], and then [[Father Brown]] said suddenly; 'What
-was the lawyer there for?'
-
-'He fold us the Colonel sent for him to alter his will,' answered
-Fiennes. 'And, by the way, there was another thing about the business of
-the will that I ought to mention. You see, the will wasn't actually
-signed in the [[Summer|summer]] - [[house]] that afternoon.'

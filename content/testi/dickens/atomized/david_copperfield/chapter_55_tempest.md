@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 55: TEMPEST"
+title: "David Copperfield — Chapter 55: TEMPEST"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/david-copperfield-(dickens)"

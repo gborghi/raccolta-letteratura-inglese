@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The Curse of the Golden [[Cross]] (part 3)"
+title: "incredulity Fr Brown — The Curse of the Golden Cross (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -108,12 +108,3 @@ wait on me at table. He may be any of the passengers who sit with me at
 table.'
 
 'He may be me,' said [[Father Brown]], with cheerful contempt for grammar.
-
-'He may be anybody else,' answered Smaill seriously. 'That is what I
-meant by what I said just now. You are the only man I feel sure is not
-the enemy.'
-
-[[Father Brown]] again looked embarrassed; then he smiled and said: '[[Well]],
-oddly enough, I'm not. What we have to consider is any chance of finding
-out if he really is here before he - before he makes himself
-unpleasant.'

@@ -14,6 +14,33 @@ tags:
 </nav>
 
 
+'It is here,' said [[Father Brown]], and stamped on the hearthrug. 'Here,
+under the elegant Persian rug in this cosy and comfortable room.'
+
+'Where in the world did you find that?'
+
+'I've just remembered,' said [[Father Brown]], 'that I found it in my
+[[Sleep|sleep]].'
+
+He closed his eyes as if trying to picture [[A Dream|a dream]], and went on
+dreamily:
+
+'This is a murder story turning on the problem of How to Hide the [[Body]];
+and I found it in my [[Sleep|sleep]]. I was always woken up every morning by
+hammering from this building. On that morning I half - woke up, went to
+[[Sleep|sleep]] again and woke once more, expecting to find it late; but it
+wasn't. Why? Because there had been hammering that morning, though all
+the usual work had stopped; short, hurried hammering in the small hours
+before [[Dawn|dawn]]. Automatically a man sleeping stirs at such a familiar
+sound. But he goes to [[Sleep|sleep]] again, because the usual sound is not at the
+usual hour. Now why did a certain secret criminal want all the work to
+cease suddenly; and only new workers come in? Because, if the old
+workers had come in next day, they would have found a new piece of work
+done in the [[Night|night]]. The old workers would have known where they left off;
+and they would have found the whole flooring of this room already nailed
+down. Nailed down by a man who knew how to do it; haying mixed a good
+deal with the workmen and learned their ways.'
+
 As he spoke, the door was pushed open and a head poked in with a
 thrusting motion; a small head at the end of a thick neck and a face
 that blinked at them through glasses.

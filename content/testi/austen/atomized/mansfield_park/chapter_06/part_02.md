@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 6 (part 2)"
+title: "Mansfield Park — Chapter 6 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -129,6 +129,3 @@ there will be no further delay.”
 “I am to have it to-morrow; but how do you think it is to be conveyed?
 Not by a wagon or cart: oh no! nothing of that kind could be hired in
 the village. I might as [[Well|well]] have asked for porters and a handbarrow.”
-
-“You would find it difficult, I dare say, just now, in the middle of a
-very late hay harvest, to hire a [[Horse|horse]] and cart?”

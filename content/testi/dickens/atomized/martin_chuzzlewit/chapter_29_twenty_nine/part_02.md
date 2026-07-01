@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 29: TWENTY NINE (part 2)"
+title: "Martin Chuzzlewit — Chapter 29: TWENTY NINE (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -143,8 +143,3 @@ been washed, if he’d had his own way.’
 to wash one feater, and miss another, and wear one’s eyes out with all
 manner of fine work of that description, for half-a-[[Crown|crown]] a day! If you
 wants to be tittivated, you must pay accordin’.’
-
-‘Oh dear me!’ cried the patient, ‘oh dear, dear!’
-
-‘There!’ said Mrs Prig, ‘that’s the way he’s been a-conductin of
-himself, Sarah, ever since I got him out of bed, if you’ll believe it.’

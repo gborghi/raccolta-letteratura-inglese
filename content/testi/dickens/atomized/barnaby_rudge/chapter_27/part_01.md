@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 27 (part 1)"
+title: "Barnaby Rudge — Chapter 27 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -142,8 +142,3 @@ Your sister.’
 
 ‘My daughter, indeed, sir,’ returned Mrs V., blushing with great
 juvenility.
-
-‘Ah, Mrs Varden!’ cried the visitor. ‘Ah, ma’am--humanity is indeed a
-happy lot, when we can repeat ourselves in others, and still be young
-as they. You must allow me to salute you--the custom of the country, my
-dear madam--your daughter too.’

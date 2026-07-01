@@ -1,5 +1,5 @@
 ---
-title: "[[UtopiaUsurers]]"
+title: "UtopiaUsurers"
 author: "Chesterton"
 unitType: work
 parentWork: "works/utopiausurers-(chesterton)"
@@ -313,7 +313,7 @@ was supposed to mean inferior art. The head of a black man, painted
 
 to advertise somebody's blacking, could be a rough symbol, like an inn
 
-sign. The black man had only to be black enough. An [[Artist|artist]] exhibiting
+sign. The black man had only to be black enough. An [[artist]] exhibiting
 
 the picture of a negro was expected to know that a black man is not so
 
@@ -351,7 +351,7 @@ painters would have wasted on the negro [[King|king]] who brought gifts to
 
 artists. It is their degradation for this clear and vital reason: that
 
-the [[Artist|artist]] will work, not only to please the rich, but only to increase
+the [[artist]] will work, not only to please the rich, but only to increase
 
 their riches; which is a considerable step lower. After all, it was as
 
@@ -367,7 +367,7 @@ which the Pope ordered of Raphael. And no one who knows the small-minded
 
 cynicism of our plutocracy, its secrecy, its gambling spirit, its
 
-contempt of [[Conscience|conscience]], can [[Doubt|doubt]] that the [[Artist|artist]]-advertiser will often
+contempt of [[Conscience|conscience]], can [[Doubt|doubt]] that the [[artist]]-advertiser will often
 
 be assisting enterprises over which he will have no moral control, and
 
@@ -2169,7 +2169,7 @@ confess any unreality when I confess the namelessness. The [[morality]]
 
 called [[Puritanism]], the tendency called Liberalism, the reaction called
 
-Tory [[Democracy]], had not only long been powerful, but had practically
+Tory [[democracy|Democracy]], had not only long been powerful, but had practically
 
 done most of their work, before these actual names were attached to
 
@@ -2377,7 +2377,7 @@ sense of the word. And it is useless for us to march under colours which
 
 they can carry as [[Well|well]] as we.
 
-Do you believe in [[Democracy]]? The devils also believe and tremble. Do you
+Do you believe in [[democracy|Democracy]]? The devils also believe and tremble. Do you
 
 believe in Trades Unionism? The Labour Members also believe; and tremble
 
@@ -2389,7 +2389,7 @@ did Beit. Do you believe in the decentralisation of Empire? So does
 
 Albu. Do you believe in the brotherhood of men: and do you, dear
 
-brethren, believe that Brother [[arthur|Arthur]] Henderson does not? Do you cry,
+brethren, believe that Brother [[Arthur]] Henderson does not? Do you cry,
 
 "The world for the workers!" and do you imagine Philip Snowden would
 
@@ -2423,7 +2423,7 @@ in one man and tell the story.
 
 It is impossible to ignore altogether any comment coming from so eminent
 
-a literary [[Artist|artist]] as Mr. Laurence Housman, but I do not deal here so
+a literary [[artist]] as Mr. Laurence Housman, but I do not deal here so
 
 specially with his [[Well|well]] known conviction about Votes for Women, as with
 
@@ -2467,7 +2467,7 @@ consequence of such menacing popular action, the franchise was granted
 
 to one class after another and used more and more to improve the social
 
-conditions of those classes, until we practically became a [[Democracy|democracy]],
+conditions of those classes, until we practically became a [[democracy]],
 
 save for such exceptions as that of the women. I do not think anyone
 
@@ -2493,7 +2493,7 @@ liberally granted in England; half the males have no vote and are not
 
 likely to get one. It was _never_ granted in reply to pressure from
 
-awakened sections of the [[Democracy|democracy]]; in every case there was a perfectly
+awakened sections of the [[democracy]]; in every case there was a perfectly
 
 clear motive for granting it solely for the convenience of the
 
@@ -2829,7 +2829,7 @@ cure of physical [[Suffering|suffering]], as Marat went on caring most for it. I
 
 out of these real differences that real things can be made, such as the
 
-modern French [[Democracy|democracy]]. For by such tenacity everyone sees at last that
+modern French [[democracy]]. For by such tenacity everyone sees at last that
 
 there is something in the other person's position. And those drilled in
 
@@ -3015,7 +3015,7 @@ degradation of the two words in modern language. Now the word "common"
 
 in "Common Informer" means exactly what it means in "common sense" or
 
-"Book of Common [[Prayer]]," or (above all) in "[[house|House]] of Commons." It
+"Book of Common [[prayer|Prayer]]," or (above all) in "[[house|House]] of Commons." It
 
 does not mean anything low or vulgar; any more than they do. The only
 
@@ -3239,7 +3239,7 @@ is done weakly because of the [[Truth|truth]] we have told so many times in this
 
 book: that it is not done for monarchy, for which men will die; or for
 
-[[Democracy|democracy]], for which men will die; or even for aristocracy, for which
+[[democracy]], for which men will die; or even for aristocracy, for which
 
 many men have died. It is done for a thing called Capitalism: which
 
@@ -4617,7 +4617,7 @@ conventional countrymen because they share it; and they share it because
 
 there is (though perhaps only at certain great moments) such a thing as
 
-pure [[Democracy|democracy]].
+pure [[democracy]].
 
 Timour the Tartar, I think, celebrated some victory with a tower built
 
@@ -4685,7 +4685,7 @@ Now, this is the answer to the questions of some kind critics, whose
 
 actual words I have not within reach at the moment, about whether my
 
-[[Democracy|democracy]] meant the rule of the majority over the minority. It means the
+[[democracy]] meant the rule of the majority over the minority. It means the
 
 rule of the rule--the rule of the rule over the exception. When a nation
 
@@ -4695,7 +4695,7 @@ living thing. There is nothing to be said about those who are out of it,
 
 except that they are out of it. After talking about it in the abstract
 
-for decades, this is [[Democracy]], and it is marvellous in our eyes. It is
+for decades, this is [[democracy|Democracy]], and it is marvellous in our eyes. It is
 
 not the difference between ninety-nine persons and a hundred persons; it
 
@@ -4731,7 +4731,7 @@ up his horny hand for peace. What further need have we of witnesses?
 
 I, for my part, am quite satisfied, and do not [[Doubt|doubt]] that Mr. MacDonald
 
-will be as industrious in damping down [[Democracy|democracy]] in this form as in
+will be as industrious in damping down [[democracy]] in this form as in
 
 every other.
 
@@ -5229,11 +5229,11 @@ legends that have passed into common speech. There is the notion that
 
 the Press is flashy or trivial _because_ it is popular. In other words,
 
-an attempt is made to discredit [[Democracy|democracy]] by representing journalism
+an attempt is made to discredit [[democracy]] by representing journalism
 
-as the natural literature of [[Democracy|democracy]]. All this is cold rubbish.
+as the natural literature of [[democracy]]. All this is cold rubbish.
 
-The [[Democracy|democracy]] has no more to do with the papers than it has with the
+The [[democracy]] has no more to do with the papers than it has with the
 
 peerages. The millionaire newspapers are vulgar and silly because the
 
@@ -5241,7 +5241,7 @@ millionaires are vulgar and silly. It is the proprietor, not the editor,
 
 not the sub-editor, least of all the reader, who is pleased with this
 
-monotonous prairie of printed words. The same slander on [[Democracy|democracy]] can
+monotonous prairie of printed words. The same slander on [[democracy]] can
 
 be noticed in the case of advertisements. There is many a tender old
 
@@ -5515,7 +5515,7 @@ that is childish enough, to make a revolution. They had all the audacity
 
 needed for speaking to the despot; but not the simplicity needed for
 
-speaking to the [[Democracy|democracy]]. They were always accused of being too bitter
+speaking to the [[democracy]]. They were always accused of being too bitter
 
 against the capitalist. But it always seemed to me that they were (quite
 

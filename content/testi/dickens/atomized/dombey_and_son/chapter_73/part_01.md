@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 17 (part 1)"
+title: "Dombey and Son — Chapter 45 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -10,108 +10,136 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/dombey-and-son-(dickens)">Dombey and Son</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_71/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_73/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_72/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_73/part_02">part 02 ›</a></div>
 </nav>
 
 
-CHAPTER XVII.
-[[Captain Cuttle]] does a little Business for the Young People
+CHAPTER XLV.
+The Trusty Agent
 
 
-[[Captain Cuttle]], in the exercise of that surprising talent for deep-laid
-and unfathomable scheming, with which (as is not unusual in men of
-transparent simplicity) he sincerely believed himself to be endowed by
-[[Nature|nature]], had gone to Mr Dombey’s [[house]] on the eventful [[Sunday]], winking
-all the way as a vent for his superfluous sagacity, and had presented
-himself in the full lustre of the ankle-jacks before the eyes of
-Towlinson. Hearing from that individual, to his great concern, of the
-impending calamity, [[Captain Cuttle]], in his delicacy, sheered off again
-confounded; merely handing in the nosegay as a small mark of his
-solicitude, and leaving his respectful compliments for the family in
-general, which he accompanied with an expression of his [[Hope|hope]] that they
-would lay their heads [[Well|well]] to the [[Wind|wind]] under existing circumstances,
-and a friendly intimation that he would “look up again” to-morrow.
+Edith went out [[Alone|alone]] that day, and returned [[Home|home]] early. It was but a
+few minutes after ten o’[[Clock|clock]], when her carriage rolled along the
+street in which she lived.
 
-The Captain’s compliments were never heard of any more. The Captain’s
-nosegay, after lying in the hall all [[Night|night]], was swept into the [[Dust|dust]]-bin
-next morning; and the Captain’s sly arrangement, involved in one
-catastrophe with greater hopes and loftier designs, was crushed to
-pieces. So, when an avalanche bears down a mountain-forest, twigs and
-bushes suffer with the trees, and all perish together.
+There was the same enforced composure on her face, that there had been
+when she was dressing; and the wreath upon her head encircled the same
+cold and steady brow. But it would have been better to have seen its
+[[Leaves|leaves]] and [[Flowers|flowers]] reft into fragments by her passionate hand, or
+rendered shapeless by the fitful searches of a throbbing and bewildered
+brain for any resting-place, than adorning such tranquillity. So
+obdurate, so unapproachable, so unrelenting, one would have thought
+that nothing could soften such a woman’s [[Nature|nature]], and that everything in
+life had hardened it.
 
-When Walter returned [[Home|home]] on the [[Sunday]] evening from his long walk, and
-its memorable close, he was too much occupied at first by the tidings
-he had to give them, and by the emotions naturally awakened in his
-breast by the scene through which he had passed, to observe either that
-his Uncle was evidently unacquainted with the intelligence the Captain
-had undertaken to impart, or that the Captain made signals with his
-hook, warning him to avoid the subject. Not that the Captain’s signals
-were calculated to have proved very comprehensible, however attentively
-observed; for, like those Chinese sages who are said in their
-conferences to write certain learned words in the air that are wholly
-impossible of pronunciation, the Captain made such waves and flourishes
-as nobody without a previous knowledge of his mystery, would have been
-at all likely to understand.
+Arrived at her own door, she was alighting, when some one coming
+quietly from the hall, and standing bareheaded, offered her his arm.
+The servant being thrust aside, she had no choice but to touch it; and
+she then knew whose arm it was.
 
-[[Captain Cuttle]], however, becoming cognisant of what had happened,
-relinquished these attempts, as he perceived the slender chance that
-now existed of his being able to obtain a little easy chat with Mr
-Dombey before the period of Walter’s departure. But in admitting to
-himself, with a disappointed and crestfallen countenance, that Sol
-Gills must be told, and that Walter must go—taking the case for the
-present as he found it, and not having it enlightened or improved
-beforehand by the knowing management of a friend—the Captain still felt
-an unabated confidence that he, Ned Cuttle, was the man for Mr Dombey;
-and that, to set Walter’s fortunes quite square, nothing was wanted but
-that they two should come together. For the Captain never could forget
-how [[Well|well]] he and Mr Dombey had got on at Brighton; with what nicety each
-of them had put in a word when it was wanted; how exactly they had
-taken one another’s measure; nor how Ned Cuttle had pointed out that
-resources in the first extremity, and had brought the interview to the
-desired termination. On all these grounds the Captain soothed himself
-with thinking that though Ned Cuttle was forced by the pressure of
-events to “stand by” almost useless for the present, Ned would fetch up
-with a wet sail in good [[Time|time]], and carry all before him.
+“How is your patient, Sir?” she asked, with a curled lip.
 
-Under the influence of this good-natured delusion, [[Captain Cuttle]] even
-went so far as to revolve in his own bosom, while he sat looking at
-Walter and listening with a tear on his shirt-collar to what he
-related, whether it might not be at once genteel and politic to give Mr
-Dombey a verbal invitation, whenever they should meet, to come and cut
-his mutton in Brig Place on some day of his own naming, and enter on
-the question of his young friend’s prospects over a social glass. But
-the uncertain temper of Mrs MacStinger, and the possibility of her
-setting up her rest in the passage during such an entertainment, and
-there delivering some homily of an uncomplimentary [[Nature|nature]], operated as
-a check on the Captain’s hospitable thoughts, and rendered him timid of
-giving them encouragement.
+“He is better,” returned Carker. “He is doing very [[Well|well]]. I have left
+him for the [[Night|night]].”
 
-One fact was quite clear to the Captain, as Walter, sitting
-thoughtfully over his untasted dinner, dwelt on all that had happened;
-namely, that however Walter’s modesty might stand in the way of his
-perceiving it himself, he was, as one might say, a member of Mr
-Dombey’s family. He had been, in his own person, connected with the
-incident he so pathetically described; he had been by name remembered
-and commended in close association with it; and his fortunes must have
-a particular interest in his employer’s eyes. If the Captain had any
-lurking [[Doubt|doubt]] whatever of his own conclusions, he had not the least
-[[Doubt|doubt]] that they were good conclusions for the peace of mind of the
-Instrument-maker. Therefore he availed himself of so favourable a
-moment for breaking the West Indian intelligence to his friend, as a
-piece of extraordinary preferment; declaring that for his part he would
-freely give a hundred thousand pounds (if he had it) for Walter’s gain
-in the long-run, and that he had no [[Doubt|doubt]] such an investment would
-yield a handsome premium.
+She bent her head, and was passing up the staircase, when he followed
+and said, speaking at the [[Bottom|bottom]]:
 
-[[Solomon Gills]] was at first stunned by the communication, which fell
-upon the little back-parlour like a thunderbolt, and tore up the hearth
-savagely. But the Captain flashed such golden prospects before his dim
-sight: hinted so mysteriously at Whittingtonian consequences; laid such
-emphasis on what Walter had just now told them: and appealed to it so
-confidently as a corroboration of his predictions, and a great advance
-towards the realisation of the romantic legend of Lovely Peg: that he
-bewildered the old man. Walter, for his part, feigned to be so full of
-[[Hope|hope]] and ardour, and so sure of coming [[Home|home]] again soon, and backed up
-the Captain with such expressive shakings of his head and rubbings of
-his hands, that Solomon, looking first at him then at [[Captain Cuttle]],
-began to think he ought to be transported with joy.
+“Madam! May I beg the favour of a minute’s audience?”
+
+She stopped and turned her eyes back “It is an unseasonable [[Time|time]], Sir,
+and I am fatigued. Is your business urgent?”
+
+“It is very urgent, returned Carker. “As I am so fortunate as to have
+met you, let me press my petition.”
+
+She looked down for a moment at his glistening mouth; and he looked up
+at her, standing above him in her stately dress, and thought, again,
+how beautiful she was.
+
+“Where is Miss Dombey?” she asked the servant, aloud.
+
+“In the morning room, Ma’am.”
+
+“Show the way there!” Turning her eyes again on the attentive gentleman
+at the [[Bottom|bottom]] of the stairs, and informing him with a slight motion of
+her head, that he was at liberty to follow, she passed on.
+
+“I beg your pardon! Madam! Mrs Dombey!” cried the soft and nimble
+Carker, at her side in a moment. “May I be permitted to entreat that
+Miss Dombey is not present?”
+
+She confronted him, with a quick look, but with the same
+[[Self|self]]-possession and steadiness.
+
+“I would spare Miss Dombey,” said Carker, in a low voice, “the
+knowledge of what I have to say. At least, Madam, I would leave it to
+you to decide whether she shall know of it or not. I owe that to you.
+It is my bounden duty to you. After our former interview, it would be
+monstrous in me if I did otherwise.”
+
+She slowly withdrew her eyes from his face, and turning to the servant,
+said, “Some other room.” He led the way to a drawing-room, which he
+speedily lighted up and then left them. While he remained, not a word
+was spoken. Edith enthroned herself upon a couch by the [[Fire|fire]]; and Mr
+Carker, with his hat in his hand and his eyes bent upon the carpet,
+stood before her, at some little distance.
+
+“Before I hear you, Sir,” said Edith, when the door was closed, “I wish
+you to hear me.”
+
+“To be addressed by Mrs Dombey,” he returned, “even in accents of
+unmerited reproach, is an [[Honour|honour]] I so greatly esteem, that although I
+were not her servant in all things, I should defer to such a wish, most
+readily.”
+
+“If you are charged by the man whom you have just now left, Sir;” Mr
+Carker raised his eyes, as if he were going to counterfeit surprise,
+but she met them, and stopped him, if such were his intention; “with
+any message to me, do not attempt to deliver it, for I will not receive
+it. I need scarcely ask you if you are come on such an errand. I have
+expected you some [[Time|time]].”
+
+“It is my misfortune,” he replied, “to be here, wholly against my will,
+for such a purpose. Allow me to say that I am here for two purposes.
+That is one.”
+
+“That one, Sir,” she returned, “is ended. Or, if you return to it—”
+
+“Can Mrs Dombey believe,” said Carker, coming nearer, “that I would
+return to it in the face of her prohibition? Is it possible that Mrs
+Dombey, having no regard to my unfortunate position, is so determined
+to consider me inseparable from my instructor as to do me great and
+wilful injustice?”
+
+“Sir,” returned Edith, bending her dark gaze full upon him, and
+speaking with a rising passion that inflated her proud nostril and her
+swelling neck, and stirred the delicate white down upon a robe she
+wore, thrown loosely over shoulders that could bear its snowy
+neighbourhood, “Why do you present yourself to me, as you have done,
+and speak to me of [[Love|love]] and duty to my husband, and pretend to think
+that I am happily married, and that I [[Honour|honour]] him? How dare you venture
+so to affront me, when you know—_I_ do not know better, Sir: I have
+seen it in your every glance, and heard it in your every word—that in
+place of affection between us there is aversion and contempt, and that
+I despise him hardly less than I despise myself for being his!
+Injustice! If I had done justice to the torment you have made me feel,
+and to my sense of the insult you have put upon me, I should have slain
+you!”
+
+She had asked him why he did this. Had she not been blinded by her
+[[Pride|pride]] and wrath, and [[Self|self]]-humiliation,—which she was, fiercely as she
+bent her gaze upon him,—she would have seen the answer in his face. To
+bring her to this declaration.
+
+She saw it not, and cared not whether it was there or no. She saw only
+the indignities and struggles she had undergone and had to undergo, and
+was writhing under them. As she sat looking fixedly at them, rather
+than at him, she plucked the feathers from a pinion of some rare and
+beautiful bird, which hung from her wrist by a golden thread, to serve
+her as a fan, and rained them on the ground.
+
+He did not shrink beneath her gaze, but stood, until such outward signs
+of her anger as had escaped her control subsided, with the air of a man
+who had his sufficient reply in reserve and would presently deliver it.
+And he then spoke, looking straight into her kindling eyes.

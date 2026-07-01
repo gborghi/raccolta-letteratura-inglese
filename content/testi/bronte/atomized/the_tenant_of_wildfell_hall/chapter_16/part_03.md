@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 16 (part 3)"
+title: "The Tenant of Wildfell Hall — Chapter 16 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_16/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_16/part_04">part 04 ›</a></div>
 </nav>
 
+
+the remainder of my stay, which was not long, for my aunt, as usual,
+
+insisted upon an early departure.
+
+
+
+I was sorry to go, for I had found my new acquaintance a very lively
+
+and entertaining companion. There was a certain graceful ease and
+
+[[Freedom|freedom]] about all he said and did, that gave a sense of repose and
+
+expansion to the mind, after so much constraint and formality as I had
+
+been doomed to suffer. There might be, it is true, a little too much
+
+careless boldness in his manner and address, but I was in so good a
 
 [[Humour|humour]], and so grateful for my late deliverance from Mr. Boarham, that
 
@@ -275,33 +293,3 @@ my reasons afterwards.”
 “But stay, [[Helen]]; sit down a little and compose yourself. Mr. Boarham
 
 is in no particular hurry, for he has little [[Doubt|doubt]] of your acceptance;
-
-and I want to speak with you. Tell me, my dear, what are your
-
-objections to him? Do you deny that he is an upright, honourable man?”
-
-
-
-“No.”
-
-
-
-“Do you deny that he is sensible, sober, respectable?”
-
-
-
-“No; he may be all this, but—”
-
-
-
-“_But_ [[Helen]]! How many such men do you expect to meet with in the
-
-world? Upright, honourable, sensible, sober, respectable! Is _this_
-
-such an every-day character that you should reject the possessor of
-
-such noble qualities without a moment’s hesitation? Yes, _noble_ I may
-
-call them; for think of the full meaning of each, and how many
-
-inestimable virtues they include (and I might add many more to the

@@ -1,5 +1,5 @@
 ---
-title: "[[manalive]] — Chapter 3 (part 4)"
+title: "manalive — Chapter 3 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/manalive-(chesterton)"
@@ -75,13 +75,11 @@ like to find out if he has produced any literary works.--Yours, etc.,
 
 				       "Paul Nickolaiovitch."
 
-
 There was something in this odd set of glimpses into foreign lives which kept
 the absurd tribunal quieter than it had hitherto been, and it was again
 without interruption that Inglewood opened another paper upon his pile.
 "The [[Court]] will be indulgent," he said, "if the next note lacks the special
 ceremonies of our letter-writing. It is ceremonious enough in its own way:--
-
 
 "The Celestial Principles are permanent:  Greeting.--I am Wong-Hi,
 and I tend the temple of all the ancestors of my family in the forest
@@ -137,6 +135,3 @@ For these things are not to appease gods, but to appease men.'
 yet his look was very gentle.
 
 "`Break your temple,' he said, `and your gods will be freed.'
-
-"And I, smiling at his simplicity, answered:  `And so, if there be no gods,
-I shall have nothing but a broken temple.'

@@ -1,5 +1,5 @@
 ---
-title: "[[Agnes Grey]] — Chapter 21 (part 1)"
+title: "Agnes Grey — Chapter 21 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/agnes-grey-(bronte)"
@@ -110,32 +110,3 @@ things easy, and to be more active and cheerful; you must take exercise
 whenever you can get it, and leave the most tiresome duties to me: they
 will only serve to exercise my patience, and, perhaps, try my temper a
 little.”
-
-So said my mother, as we sat at work one morning during the Easter
-holidays. I assured her that my employments were not at all oppressive;
-that I was [[Well|well]]; or, if there was anything amiss, it would be gone as
-soon as the trying months of [[Spring|spring]] were over: when [[Summer|summer]] came I
-should be as strong and hearty as she could wish to see me: but
-inwardly her observation startled me. I knew my strength was declining,
-my appetite had failed, and I was grown listless and desponding;—and
-if, indeed, he could never care for me, and I could never see him
-more—if I was forbidden to minister to his happiness—forbidden, for
-ever, to taste the joys of [[Love|love]], to bless, and to be blessed—then, life
-must be a burden, and if my heavenly Father would call me away, I
-should be glad to rest. But it would not do to die and leave my mother.
-Selfish, unworthy daughter, to forget her for a moment! Was not her
-happiness committed in a great measure to my charge?—and the welfare of
-our young pupils too? Should I shrink from the work that God had set
-before me, because it was not fitted to my taste? Did not He know best
-what I should do, and where I ought to labour?—and should I long to
-quit His service before I had finished my task, and expect to enter
-into His rest without having laboured to earn it? “No; by His help I
-will arise and address myself diligently to my appointed duty. If
-happiness in this world is not for me, I will endeavour to promote the
-welfare of those around me, and my reward shall be hereafter.” So said
-I in my heart; and from that hour I only permitted my thoughts to
-wander to [[Edward Weston]]—or at least to dwell upon him now and then—as a
-treat for rare occasions: and, whether it was really the approach of
-[[Summer|summer]] or the effect of these good resolutions, or the lapse of [[Time|time]],
-or all together, tranquillity of mind was soon restored; and bodily
-health and vigour began likewise, slowly, but surely, to return.

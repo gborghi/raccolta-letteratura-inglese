@@ -1,5 +1,5 @@
 ---
-title: "[[misc]] — THE SULTAN"
+title: "misc — THE SULTAN"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 THE SULTAN
-
 
 There is one deep defect in our extension of cosmopolitan and
 Imperial cultures.  That is, that in most human things if you spread

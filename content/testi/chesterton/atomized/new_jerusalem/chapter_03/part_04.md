@@ -14,6 +14,35 @@ tags:
 </nav>
 
 
+Scholars, I may say here, object to calling it the Mosque of Omar;
+on the petty and pedantic ground that it is not a mosque and was
+not built by Omar.  But it is my fixed intention to call it
+the Mosque of Omar, and with ever renewed pertinacity to continue
+calling it the Mosque of Omar.  I possess a special permit from
+the Grand Mufti to call it the Mosque of Omar.  He is the head
+of the whole Moslem religion, and if he does not know, who does?
+He told me, in the beautiful French which matches his beautiful manners,
+that it really is not so ridiculous after all to call the place
+the Mosque of Omar, since the great Caliph desired and even designed
+such a building, though he did not build it.  I suppose it is
+rather as if Solomon's Temple had been called David's Temple.
+Omar was a great man and the Mosque was a great work, and the two were
+telescoped together by the excellent common sense of vulgar tradition.
+There could not be a better example of that great [[Truth|truth]] for
+all travellers; that popular tradition is never so right as when it
+is wrong; and that pedantry is never so wrong as when it is right.
+And as for the other objection, that the Dome of the Rock
+(to give it its other name) is not actually used as a Mosque, I
+answer that Westminster Abbey is not used as an Abbey.
+But modern Englishmen would be much surprised if I were to refer to it
+as Westminster Church; to say nothing of the many modern Englishmen
+for whom it would be more suitable to call it Westminster Museum.
+And for whatever purposes the Moslems may actually use their
+great and glorious sanctuary, at least they have not allowed
+it to become the private [[house]] of a particular rich man.
+And that is what we have suffered to happen, if not to Westminster Abbey,
+at least to Welbeck Abbey.
+
 The Mosque of Omar (I repeat firmly) stands on the great eastern
 plateau in place of the Temple; and the wall that runs round
 to it on the south side of the [[City|city]] contains only the Dung Gate,
@@ -69,7 +98,7 @@ the cloud concealing the sunburst that broods upon the [[Road|road]] to Damascus
 But I am here only confessing the facts or fancies of my first impression;
 and again the fancy that came to me first was not of any such
 alien or awful things.  I did not think of damask or damascene
-or the great Arabian [[City|city]] or even the [[Conversion|conversion]] of St. Paul.
+or the great Arabian [[City|city]] or even the [[conversion]] of St. Paul.
 I thought of my own little [[house]] in Buckinghamshire, and how the edge
 of the country town where it stands is called Aylesbury End,
 merely because it is the corner nearest to Aylesbury.
@@ -83,71 +112,3 @@ going out at the Damascus Gate did know it would lead him to Damascus.
 And the same is true of the next and last of the old entrances,
 the Jaffa Gate in the east; but when I saw that I saw something
 else as [[Well|well]].
-
-I have heard that there is a low doorway at the entrance to a famous
-shrine which is called the Gate of [[Humility]]; but indeed in this sense
-all gates are gates of [[Humility|humility]], and especially gates of this kind.
-Any one who has ever looked at a landscape under an archway
-will know what I mean, when I say that it sharpens a pleasure
-with a strange sentiment of privilege.  It adds to the grace
-of distance something that makes it not only a grace but a gift.
-Such are the visions of remote places that appear in the low gateways
-of a Gothic town; as if each gateway led into a separate world;
-and almost as if each dome of sky were a different chamber.
-But he who walks round the walls of this [[City|city]] in this spirit will come
-suddenly upon an exception which will surprise him like an earthquake.
-It looks indeed rather like something done by an earthquake;
-an earthquake with a half-witted sense of [[Humour|humour]].  Immediately at
-the side of one of these humble and human gateways there is a great gap
-in the wall, with a wide [[Road|road]] running through it.  There is something
-of unreason in the sight which affects the eye as [[Well|well]] as the reason.
-It recalls some crazy tale about the great works of the Wise Men
-of Gotham.  It suggests the old joke about the man who made
-a small hole for the kitten as [[Well|well]] as a large hole for the cat.
-Everybody has read about it by this [[Time|time]]; but the immediate impression
-of it is not merely an effect of reading or even of reasoning.
-It looks lop-sided; like something done by a one-eyed giant.
-But it was done by the last prince of the great Prussian imperial system,
-in what was probably the proudest moment in all his life of [[Pride|pride]].
-
-What is true has a way of sounding trite; and what is trite has
-a way of sounding false.  We shall now probably weary the world
-with calling the Germans barbaric, just as we very recently wearied
-the world with calling them cultured and progressive and scientific.
-But the thing is true though we say it a thousand times.  And any one who
-wishes to understand the sense in which it is true has only to contemplate
-that fantasy and fallacy in stone; a gate with an open [[Road|road]] beside it.
-The quality I mean, however, is not merely in that particular contrast;
-as of a front door standing by itself in an open field.
-It is also in the origin, the occasion and the whole story of the thing.
-There is above all this supreme stamp of the barbarian; the sacrifice
-of the permanent to the temporary.  When the walls of the Holy [[City]]
-were overthrown for the glory of the German Emperor, it was hardly
-even for that everlasting glory which has been the vision and
-the [[Temptation|temptation]] of great men.  It was for the glory of a single day.
-It was something rather in the [[Nature|nature]] of a holiday than anything
-that could be even in the most vainglorious sense a heritage.
-It did not in the ordinary sense make a monument, or even a trophy.
-It destroyed a monument to make a procession.  We might almost say
-that it destroyed a trophy to make a triumph.  There is the true
-barbaric touch in this oblivion of what Jerusalem would look like a
-century after, or a year after, or even the day after.  It is this
-which distinguishes the savage tribe on the march after a victory from
-the civilised army establishing a [[government]], even if it be a tyranny.
-Hence the very effect of it, like the effect of the whole Prussian
-adventure in [[history]], remains something negative and even nihilistic.
-The Christians made the Church of the Holy Sepulchre and the Moslems
-made the Mosque of Omar; but this is what the most scientific
-culture made at the end of the great century of science.
-It made an enormous hole.  The only positive contribution of
-the nineteenth century to the spot is an unnaturally ugly [[Clock|clock]],
-at the top of an ornamental tower, or a tower that was meant to
-be ornamental.  It was erected, I believe, to commemorate the reign
-of Abdul Hamid; and it seems perfectly adapted to its purpose,
-like one of Sir William Watson's sonnets on the same subject.
-But this object only adds a touch of triviality to the much more
-tremendous negative effect of the gap by the gate.  That remains a [[Parable|parable]]
-as [[Well|well]] as a puzzle, under all the changing skies of day and [[Night|night]];
-with the shadows that gather tinder the narrow Gate of [[Humility]];
-and beside it, blank as daybreak and abrupt as an abyss, the broad
-[[Road|road]] that has led already to destruction.

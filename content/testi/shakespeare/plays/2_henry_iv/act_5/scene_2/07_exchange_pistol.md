@@ -1,5 +1,5 @@
 ---
-title: "2 [[Henry IV]] — Act V, Scene 2 — exchange ([[Pistol|PISTOL]]) [7]"
+title: "2 Henry IV — Act V, Scene 2 — exchange (PISTOL) [7]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/2-henry-iv-(shakespeare)"

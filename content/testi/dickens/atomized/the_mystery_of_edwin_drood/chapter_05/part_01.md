@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 4 (part 1)"
+title: "The Mystery of Edwin Drood — Chapter 4 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -133,10 +133,3 @@ Nankin, and Canton.’ It is the same with Japan, with [[Egypt]], and with
 bamboo and sandalwood from the East Indies; I put my finger on them
 all. I have put my finger on the North Pole before now, and said ‘Spear
 of Esquimaux make, for half a pint of pale sherry!’”
-
-“Really? A very remarkable way, Mr. Sapsea, of acquiring a knowledge of
-men and things.”
-
-“I mention it, sir,” Mr. Sapsea rejoins, with unspeakable complacency,
-“because, as I say, it don’t do to boast of what you are; but show how
-you came to be it, and then you prove it.”

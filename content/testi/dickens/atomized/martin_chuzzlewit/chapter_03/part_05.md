@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 3 (part 5)"
+title: "Martin Chuzzlewit — Chapter 3 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,30 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_03/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_03/part_06">part 06 ›</a></div>
 </nav>
 
+
+Full half an hour elapsed before the old man stirred, but at length he
+turned himself in bed, and, though not yet awake, gave tokens that
+his [[Sleep|sleep]] was drawing to an end. By little and little he removed the
+bed-clothes from about his head, and turned still more towards the side
+where Mr Pecksniff sat. In course of [[Time|time]] his eyes opened; and he
+lay for a few moments as people newly roused sometimes will, gazing
+indolently at his visitor, without any distinct consciousness of his
+presence.
+
+There was nothing remarkable in these proceedings, except the influence
+they worked on Mr Pecksniff, which could hardly have been surpassed by
+the most marvellous of natural phenomena. Gradually his hands became
+tightly clasped upon the elbows of the chair, his eyes dilated with
+surprise, his mouth opened, his hair stood more erect upon his forehead
+than its custom was, until, at length, when the old man [[Rose|rose]] in bed,
+and stared at him with scarcely less emotion than he showed himself, the
+Pecksniff doubts were all resolved, and he exclaimed aloud:
+
+‘You ARE [[Martin Chuzzlewit]]!’
+
+His consternation of surprise was so genuine, that the old man, with all
+the disposition that he clearly entertained to believe it assumed, was
+convinced of its reality.
 
 ‘I am [[Martin Chuzzlewit]],’ he said, bitterly: ‘and [[Martin Chuzzlewit]]
 wishes you had been hanged, before you had come here to disturb him in
@@ -106,30 +130,3 @@ Pecksniff again closing his eyes on all outward objects, took an inward
 survey of his own breast. That it amply repaid him for his trouble,
 and afforded a delicious and enchanting prospect, was clear from the
 expression of his face.
-
-‘You wish me to speak to you as to a total stranger,’ said the old man,
-‘do you?’
-
-Mr Pecksniff replied, by a shrug of his shoulders and an apparent
-turning round of his eyes in their sockets before he opened them, that
-he was still reduced to the necessity of entertaining that [[Desire|desire]].
-
-‘You shall be gratified,’ said Martin. ‘Sir, I am a rich man. Not so
-rich as some suppose, perhaps, but yet wealthy. I am not a miser sir,
-though even that charge is made against me, as I hear, and currently
-believed. I have no pleasure in hoarding. I have no pleasure in the
-possession of money, The devil that we call by that name can give me
-nothing but unhappiness.’
-
-It would be no description of Mr Pecksniff’s gentleness of manner to
-adopt the common parlance, and say that he looked at this moment as if
-butter wouldn’t melt in his mouth. He rather looked as if any quantity
-of butter might have been made out of him, by churning the milk of human
-kindness, as it spouted upwards from his heart.
-
-‘For the same reason that I am not a hoarder of money,’ said the old
-man, ‘I am not lavish of it. Some people find their gratification in
-storing it up; and others theirs in parting with it; but I have no
-gratification connected with the thing. [[Pain]] and bitterness are the only
-goods it ever could procure for me. I hate it. It is a spectre walking
-before me through the world, and making every social pleasure hideous.’

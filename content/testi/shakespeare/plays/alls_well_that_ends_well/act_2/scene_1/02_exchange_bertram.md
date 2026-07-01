@@ -1,5 +1,5 @@
 ---
-title: "Alls [[Well]] that Ends [[Well]] — Act II, Scene 1 — exchange ([[Bertram|BERTRAM]]) [2]"
+title: "Alls Well that Ends Well — Act II, Scene 1 — exchange (BERTRAM) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/all’s-well-that-ends-well-(shakespeare)"

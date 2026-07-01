@@ -1,5 +1,5 @@
 ---
-title: "[[misc]] — THE SEPARATIST AND SACRED THINGS"
+title: "misc — THE SEPARATIST AND SACRED THINGS"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 THE SEPARATIST AND SACRED THINGS
-
 
 In the very laudable and fascinating extensions of our interest
 in Asiatic arts or faiths, there are two incidental injustices
@@ -40,7 +39,7 @@ the highest or the purest religion.
 
 Thus, in turning over some excellent books recently written
 on the spirit of Indian or Chinese art and decoration,
-I found it quietly and curiously assumed that the [[artist]] must
+I found it quietly and curiously assumed that the [[Artist|artist]] must
 be at his best if he flows with the full stream of [[Nature]];
 and identifies himself with all things; so that the [[Stars|stars]]
 are his sleepless eyes and the forests his far-flung arms.

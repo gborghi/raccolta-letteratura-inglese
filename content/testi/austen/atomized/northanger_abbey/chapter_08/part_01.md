@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 7 (part 1)"
+title: "Northanger Abbey — Chapter 7 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -225,15 +225,3 @@ I cannot judge whether it was cheap or dear.”
 
 
 “Neither one nor t’other; I might have got it for less, I dare say; but
-
-I hate haggling, and poor Freeman wanted cash.”
-
-
-
-“That was very good-natured of you,” said Catherine, quite pleased.
-
-
-
-“Oh! d—— it, when one has the means of doing a kind thing by a friend,
-
-I hate to be pitiful.”

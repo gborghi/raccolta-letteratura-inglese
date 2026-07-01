@@ -1,5 +1,5 @@
 ---
-title: "[[The Landscape Garden]]"
+title: "The Landscape Garden"
 author: "Poe"
 unitType: work
 parentWork: "works/the-landscape-garden-(poe)"
@@ -383,7 +383,7 @@ The [[Garden|garden]] like a lady fair was cut
 
       component parts may exceed, individually, the highest skill of
 
-      the [[Artist|artist]], the arrangement of the parts will always be
+      the [[artist]], the arrangement of the parts will always be
 
       susceptible of improvement. In short, no position can be
 
@@ -427,7 +427,7 @@ The [[Garden|garden]] like a lady fair was cut
 
       demonstrations, than the sentiment of his Art yields to the
 
-      [[Artist|artist]]. He not only believes, but positively knows, that such and
+      [[artist]]. He not only believes, but positively knows, that such and
 
       such apparently arbitrary arrangements of matter, or form,
 
@@ -445,7 +445,7 @@ The [[Garden|garden]] like a lady fair was cut
 
       mere arrangement of form; let this emendation be submitted to
 
-      every [[Artist|artist]] in the world; by each will its necessity be
+      every [[artist]] in the world; by each will its necessity be
 
       admitted. And even far more than this, in remedy of the defective
 

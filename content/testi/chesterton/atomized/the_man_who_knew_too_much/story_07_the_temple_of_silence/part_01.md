@@ -1,5 +1,5 @@
 ---
-title: "The Man Who Knew Too Much — The Temple of [[Silence]] (part 1)"
+title: "The Man Who Knew Too Much — The Temple of Silence (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/the-man-who-knew-too-much-(chesterton)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-man-who-knew-too-much-(chesterton)">The Man Who Knew Too Much</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_06_the_hole_in_the_wall/part_08">‹ part 08</a><a class="ex-next" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_07_the_temple_of_silence/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_06_the_hole_in_the_wall/part_09">‹ part 09</a><a class="ex-next" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_07_the_temple_of_silence/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -189,9 +189,3 @@ Save for Lord Saltoun, it was a family party of Fishers, for the
 only other distinguished stranger had just departed after dinner,
 
 leaving the rest to their coffee and cigars. This had been a figure
-
-of some interest—a young Cambridge man named Eric Hughes who was
-
-the rising [[Hope|hope]] of the party of [[Reform]], to which the Fisher family,
-
-along with their friend Saltoun, had long been at least formally

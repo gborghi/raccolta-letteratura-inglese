@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 17 (part 5)"
+title: "Wuthering Heights — Chapter 17 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -13,6 +13,43 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_17/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_17/part_06">part 06 ›</a></div>
 </nav>
 
+
+“‘Get up, and begone out of my sight,’ said the mourner.
+
+“I guessed he uttered those words, at least, though his voice was
+hardly intelligible.
+
+“‘I beg your pardon,’ I replied. ‘But I loved Catherine too; and her
+brother requires attendance, which, for her sake, I shall supply. Now
+that she’s dead, I see her in Hindley: Hindley has exactly her eyes, if
+you had not tried to gouge them out, and made them black and red; and
+her—’
+
+“‘Get up, wretched idiot, before I stamp you to [[Death|death]]!’ he cried,
+making a movement that caused me to make one also.
+
+“‘But then,’ I continued, holding myself ready to flee, ‘if poor
+Catherine had trusted you, and assumed the ridiculous, contemptible,
+degrading title of Mrs. [[Heathcliff]], she would soon have presented a
+similar picture! _She_ wouldn’t have borne your abominable behaviour
+quietly: her detestation and disgust must have found voice.’
+
+“The back of the settle and Earnshaw’s person interposed between me and
+him; so instead of endeavouring to reach me, he snatched a dinner-knife
+from the table and flung it at my head. It struck beneath my ear, and
+stopped the sentence I was uttering; but, pulling it out, I sprang to
+the door and delivered another; which I [[Hope|hope]] went a little deeper than
+his missile. The last glimpse I caught of him was a furious rush on his
+part, checked by the embrace of his host; and both fell locked together
+on the hearth. In my flight through the kitchen I bid Joseph [[Speed|speed]] to
+his master; I knocked over Hareton, who was hanging a litter of puppies
+from a chair-back in the doorway; and, blessed as a [[Soul|soul]] escaped from
+purgatory, I bounded, leaped, and flew down the steep [[Road|road]]; then,
+quitting its windings, shot direct across the moor, [[rolling]] over banks,
+and wading through marshes: precipitating myself, in fact, towards the
+beacon-light of the Grange. And far rather would I be condemned to a
+perpetual dwelling in the infernal regions than, even for one [[Night|night]],
+abide beneath the roof of [[Wuthering Heights]] again.”
 
 [[Isabella]] ceased speaking, and took a drink of tea; then she [[Rose|rose]], and
 bidding me put on her bonnet, and a great shawl I had brought, and
@@ -96,31 +133,3 @@ Grange, never got a very succinct account of his state preceding it;
 all that I did learn was on occasion of going to aid in the
 preparations for the funeral. Mr. Kenneth came to announce the event to
 my master.
-
-“[[Well]], Nelly,” said he, riding into the yard one morning, too early not
-to alarm me with an instant presentiment of bad news, “it’s yours and
-my turn to go into mourning at present. Who’s given us the slip now, do
-you think?”
-
-“Who?” I asked in a flurry.
-
-“Why, guess!” he returned, dismounting, and slinging his bridle on a
-hook by the door. “And nip up the corner of your apron: I’m certain
-you’ll need it.”
-
-“Not Mr. [[Heathcliff]], surely?” I exclaimed.
-
-“What! would you have [[Tears|tears]] for him?” said the doctor. “No,
-[[Heathcliff]]’s a tough young fellow: he looks blooming to-day. I’ve just
-seen him. He’s rapidly regaining flesh since he lost his better half.”
-
-“Who is it, then, Mr. Kenneth?” I repeated impatiently.
-
-“[[Hindley Earnshaw]]! Your old friend Hindley,” he replied, “and my wicked
-gossip: though he’s been too wild for me this long while. There! I said
-we should draw [[Water|water]]. But cheer up! He died true to his character:
-drunk as a lord. Poor lad! I’m sorry, too. One can’t help missing an
-old companion: though he had the worst tricks with him that ever man
-imagined, and has done me many a rascally turn. He’s barely
-twenty-seven, it seems; that’s your own age: who would have thought you
-were born in one year?”

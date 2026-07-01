@@ -14,6 +14,55 @@ tags:
 </nav>
 
 
+"Can never be sufficiently grateful to Gale for his great kindness
+which more than saved my life."
+
+The two doctors looked at each other in [[Silence|silence]]; and in almost
+as complete a [[Silence|silence]] got into a car and drove across the hills
+once more to the Blakeney's [[house]], where Gale was still staying.
+
+They drove across the hilly country and descended into
+the wide and shallow valley where stood the [[house]] which
+sheltered that dangerous character, Mr. Gabriel Gale.
+Garth could recall, and Butterworth could imagine, all the irony
+suggested to the [[Imagination|imagination]] by such a story about such a scene.
+The [[house]] of the Blakeneys stood high and plain just beyond the [[River|river]];
+it was one of those houses that strike the eye as old-fashioned
+and yet not old.  Certainly it was not old enough to be beautiful;
+but it had everything that recalls, to those that faintly
+remember them, the last traditions of Early Victorian lingering
+into Mid-Victorian times.  The tall pillars looked so very pallid;
+the long plain windows looked in dismally upon high-ceilinged rooms;
+the curtains that hung parallel with the pillars were strips of dull red;
+and even from that distance the humorous Butterworth was certain
+that they had heavy and quite useless tassels.  It was a strange
+[[house]] to have been the scene of an incredible crime or lunacy.
+It was an even stranger [[house]] to have been, as was alleged,
+the scene of a yet more incredible or mysterious [[Mercy|mercy]].
+All about it lay its ordered gardens and its mown or unmown meadows;
+its plantations of trees and deep alleys and shrubberies;
+all the things which on that wild [[Night|night]] had been given over
+to the withering splendour of the [[Lightning|lightning]] and the [[Wind|wind]].
+Now the whole landscape was laid bare in a golden calm of [[Summer|summer]];
+and the blue heavens above it were so deep and still that the sound
+of a humming fly hung there and was heard as far away as the skylark.
+Thus glittered in the sun, all solid and objective, the stage
+properties of that hideous farce.  Garth saw all the blank and staring
+windows which he had last beheld streaming with rain and swept
+by the [[Wind|wind]] and the wild [[Dance|dance]] of the lunatic and his victim.
+He saw the forked tree to which the victim had been bound,
+still with the two black holes in it where the fork had pierced it,
+looking like the hollow eyes of a skull, and making the whole
+seem like some horned goblin.  There was the heaped up hay,
+still to some extent disordered and scattered as by the dizzy [[Dance|dance]]
+of a small cyclone; and beyond it [[Rose|rose]] the high green wall of the
+unmown and standing grass of the next meadow.  From the very thick
+of this mild jungle or miniature forest, a long thin line of smoke
+was drawn up into the sky; as if from a very small [[Fire|fire]] of weeds.
+Nothing else human or alive was visible in the sultry [[Summer|summer]] landscape;
+but Garth seemed to know and recognize the significance of the smoke.
+He sent a far halloo across the fields, calling out, "Is that you, Gale?"
+
 Two feet pointed skyward and two long legs upside down [[Rose|rose]] vertically
 out of the tall grass, just beyond the smoke; and waved to them
 like arms, as if according to a preconcerted science of signalling.
@@ -70,69 +119,3 @@ when his whole sense of proportions and possibilities had gone wild.
 I think the first thing that made me suspect he was.... By the way,"
 added Gale abruptly, "what was it that made you first suspect _me_
 of being mad?"
-
-"I think," said Garth slowly, "it was when you were staring out
-of the [[Window|window]] at the [[Storm|storm]]."
-
-"The [[Storm|storm]]?  Was there a [[Storm|storm]]?" asked Gale vaguely.  "Oh yes,
-now I come to think of it, there was."
-
-"But, hang it all," replied the doctor, "what else could you have
-been staring out of the [[Window|window]] at, except the [[Storm|storm]]?"
-
-"I wasn't staring out of the [[Window|window]]," answered Gale.
-
-"Really, my dear fellow," remonstrated Dr. Garth.
-
-"I was staring at the [[Window|window]]," said the poet.  "I often stare
-at windows.  So few people ever look at windows, unless they
-are stained glass-windows. But glass is a very beautiful thing,
-like diamonds; and transparency is a sort of transcendental colour.
-Besides, in this case there was something else; and something far
-more awful and thrilling than a thunderstorm."
-
-"[[Well]], what _were_ you looking at, that was more awful
-than a thunderstorm?"
-
-"I was looking at two raindrops running down the pane," said Gale.
-"And so was Saunders."
-
-Seeing the others staring at him he continued:  "Oh yes, it's quite true;
-as the poet says," and he recited with great and unusual gravity:
-
-    "'Little drops of [[Water|water]],
-      Little grains of sand,
-      Make the [[Soul|soul]] to stagger
-      Till the [[Stars|stars]] can hardly stand.'
-
-"Haven't I told you a thousand times," he continued with increasing
-earnestness and animation, "that I always find myself looking at some
-little thing, a stone or a starfish or what not, and that's the only
-way I can ever learn anything?  But when I looked at Saunders, I saw
-his eyes were fixed on the same spot on the [[Window|window]]-pane;
-and I shuddered from head to foot, for I knew I had guessed right.
-He was wearing a certain kind of unobtrusive smile.
-
-"You know that incurable gamblers sometimes bet on a race between
-two raindrops.  But there is this specially about the sport;
-that it is abstract and equal and gives one a sense of impartiality.
-If you bet on a dog-fight, you may find you really sympathize
-with a Scotch terrier against an Irish terrier, or vice versa;
-you may like the look of a billiard player or even the colours
-of a jockey.  Therefore the event may go _against_ your sympathies;
-and you will realize your limitations.  But in the case of those two
-crystal spheres hung in a void of transparency, there is something
-like the equal scales of an abstract justice; you feel that whichever
-wins might be the one you had chosen.  You may easily, in a certain
-secret megalomania, persuade yourself it is the one you have chosen.
-It is easy to imagine oneself controlling things hung so evenly.
-That was when I said to him, to test whether I was following his
-train of thought, 'It makes you feel like God.'  Did you think I
-was talking about the [[Storm|storm]]?  [[Storm]]!  Pooh!  Why should a [[Storm|storm]] make
-a man think he's God?  If he'd got any sense it might make him feel
-he wasn't. But I knew that Saunders was just at the delicate crisis,
-where he was half trying to believe he was.  He was half trying to think
-he had really changed the weather and might change everything; and a
-game like that of the raindrops was just the thing to encourage him.
-He really felt as if he were Omnipotence looking at two falling [[Stars|stars]]:
-and he was the special [[Providence|providence]] in them.

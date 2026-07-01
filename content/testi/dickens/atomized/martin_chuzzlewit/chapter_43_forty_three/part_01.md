@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 43: FORTY THREE (part 1)"
+title: "Martin Chuzzlewit — Chapter 43: FORTY THREE (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -135,12 +135,3 @@ credit in it!’
 When Mr Tapley stopped in these calculations in simple addition, he did
 it, not because he was at all tired of the exercise, but because he was
 out of breath. The pause reminded him of other duties.
-
-‘Mr [[Martin Chuzzlewit]]’s outside,’ he said. ‘I left him under the
-cartshed, while I came on to see if there was anybody here. We want to
-keep quiet to-[[Night|night]], till we know the news from you, and what it’s best
-for us to do.’
-
-‘There’s not a [[Soul|soul]] in the [[house]], except the kitchen company,’ returned
-the hostess. ‘If they were to know you had come back, Mark, they’d have
-a bonfire in the street, late as it is.’

@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 8 (part 3)"
+title: "Bleak House — Chapter 8 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_08/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_08/part_04">part 04 ›</a></div>
 </nav>
 
+
+“How changed it is!” I said again.
+
+“Why, so it is,” he answered much more cheerfully; “and it is wisdom
+in you to keep me to the bright side of the picture.” (The idea of my
+wisdom!) “These are things I never talk about or even think about,
+excepting in the growlery here. If you consider it right to mention
+them to Rick and Ada,” looking seriously at me, “you can. I leave it
+to your discretion, Esther.”
 
 “I [[Hope|hope]], sir—” said I.
 

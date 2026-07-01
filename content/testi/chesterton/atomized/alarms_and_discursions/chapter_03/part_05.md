@@ -14,6 +14,19 @@ tags:
 </nav>
 
 
+-/-
+
+A Drama of Dolls
+
+IN a small grey town of stone in one of the great Yorkshire dales,
+which is full of [[history]], I entered a hall and saw an old
+puppet-play exactly as our fathers saw it five hundred years ago.
+It was admirably translated from the old German, and was the original
+tale of [[Faust]].  The dolls were at once comic and convincing;
+but if you cannot at once laugh at a thing and believe in it,
+you have no business in the Middle Ages.  Or in the world,
+for that matter.
+
 The puppet-play in question belongs, I believe, to the fifteenth century;
 and indeed the whole legend of Dr. Faustus has the colour of
 that [[Grotesque|grotesque]] but somewhat gloomy [[Time|time]].  It is very unfortunate
@@ -121,18 +134,3 @@ and reflecting (which had been his mistake all along) until the [[Clock|clock]]
 strikes twelve, and dreadful voices talk Latin in heaven.
 So Faustus, in his fur coat, is carried away by little black imps;
 and serve him right for being an Intellectual.
-
--/-
-
-The Man and His Newspaper
-
-AT a little station, which I decline to specify, somewhere between
-[[Oxford]] and Guildford, I missed a connection or miscalculated a route
-in such manner that I was left stranded for rather more than an hour.
-I adore waiting at railway stations, but this was not a very
-sumptuous specimen.  There was nothing on the platform except a chocolate
-automatic [[Machine|machine]], which eagerly absorbed pennies but produced no
-corresponding chocolate, and a small paper-stall with a few remaining
-copies of a cheap imperial organ which we will call the _Daily Wire_.
-It does not matter which imperial organ it was, as they all say
-the same thing.

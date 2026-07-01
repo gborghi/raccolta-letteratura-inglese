@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/poet-and-lunatics-(chesterton)">Poet and Lunatics</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/poet_and_lunatics/story_04_the_crime_of_gabriel_gale">‹ Story 04 THE CRIME OF GABRIEL GALE</a><a class="ex-next" href="/testi/chesterton/atomized/poet_and_lunatics/story_06_the_house_of_the_peacock">Story 06 THE HOUSE OF THE PEACOCK ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/poet_and_lunatics/story_04_the_crime_of_gabriel_gale">‹ Story 04 THE CRIME OF GABRIEL GALE</a><a class="ex-next" href="/testi/chesterton/atomized/poet_and_lunatics/story_06_the_house_house_of_the_peacock">Story 06 THE house HOUSE OF THE PEACOCK ›</a></div>
 </nav>
 
 
@@ -488,7 +488,6 @@ in his dazed fashion:
 "Why, yes, in a way," he said; "in fact, I'm pretty sure I can find
 the [[Body|body]].  In fact, in a manner of speaking, I've found it."
 
-
 Those with any intimations of the personality of Mr. [[Arthur]] Armitage
 will not need to be told that he kept a diary; and endeavoured
 to note down his impressions of foreign travel with atmospheric
@@ -848,6 +847,5 @@ heaven may look down with more [[Wonder|wonder]] at the man than at the [[Monste
 And we of all schools and of all philosophies can pass it like
 a funeral procession taking leave of an illustrious [[Grave|grave]] and,
 like soldiers, salute it as we pass."
-
 
 VI

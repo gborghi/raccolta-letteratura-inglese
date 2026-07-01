@@ -130,10 +130,3 @@ least happiest of our existence!’
 sufficient for them--we may be good and happy without riches, [[Fred]].
 Say not another syllable. I know my cue; smart is the word. Only one
 little whisper, [[Fred]]--is the old min friendly?’
-
-‘Never you mind,’ replied his friend.
-
-‘Right again, quite right,’ said Mr Swiveller, ‘caution is the word,
-and caution is the act.’ with that, he winked as if in preservation of
-some deep secret, and folding his arms and leaning back in his chair,
-looked up at the ceiling with profound gravity.

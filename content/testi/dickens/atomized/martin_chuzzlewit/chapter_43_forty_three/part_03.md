@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 43: FORTY THREE (part 3)"
+title: "Martin Chuzzlewit — Chapter 43: FORTY THREE (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,30 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_43_forty_three/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_43_forty_three/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘My good creature,’ returned Martin, ‘you are exactly the person who
+ought to know all about it. I am delighted to think you DO know about
+that! But what changes do you hint at? Has any [[Death|death]] occurred?’
+
+‘No, no!’ said the hostess. ‘Not as bad as that. But I declare now that
+I will not be drawn into saying another word till you have had your
+supper. If you ask me fifty questions in the meantime, I won’t answer
+one.’
+
+She was so positive, that there was nothing for it but to get the supper
+over as quickly as possible; and as they had been walking a great many
+miles, and had fasted since the middle of the day, they did no great
+violence to their own inclinations in falling on it tooth and nail. It
+took rather longer to get through than might have been expected; for,
+half-a-dozen times, when they thought they had finished, Mrs Lupin
+exposed the fallacy of that impression triumphantly. But at last, in
+the course of [[Time|time]] and [[Nature|nature]], they gave in. Then, sitting with
+their slippered feet stretched out upon the kitchen hearth (which was
+wonderfully comforting, for the [[Night|night]] had grown by this [[Time|time]] raw and
+chilly), and looking with involuntary admiration at their dimpled,
+buxom, blooming hostess, as the firelight sparkled in her eyes and
+glimmered in her raven hair, they composed themselves to listen to her
+news.
 
 Many were the exclamations of surprise which interrupted her, when she
 told them of the separation between Mr Pecksniff and his daughters, and
@@ -101,35 +125,3 @@ you was hasty too. Give way, sir, give way.’
 
 The eloquence of Mr Tapley was not without its effect on Martin but he
 still hesitated, and expressed his reason thus:
-
-‘That’s all very true, and perfectly correct, Mark; and if it were a
-mere question of humbling myself before HIM, I would not consider it
-twice. But don’t you see, that being wholly under this hypocrite’s
-[[government]], and having (if what we hear be true) no mind or will of his
-own, I throw myself, in fact, not at his feet, but at the feet of
-Mr Pecksniff? And when I am rejected and spurned away,’ said Martin,
-turning crimson at the thought, ‘it is not by him; my own [[Blood|blood]] stirred
-against me; but by Pecksniff--Pecksniff, Mark!’
-
-‘[[Well]], but we know beforehand,’ returned the politic Mr Tapley, ‘that
-Pecksniff is a wagabond, a scoundrel, and a willain.’
-
-‘A most pernicious [[Villain|villain]]!’ said Martin.
-
-‘A most pernicious willain. We know that beforehand, sir; and,
-consequently, it’s no shame to be defeated by Pecksniff. Blow
-Pecksniff!’ cried Mr Tapley, in the fervour of his eloquence. ‘Who’s he!
-It’s not in the natur of Pecksniff to shame US, unless he agreed with
-us, or done us a service; and, in case he offered any audacity of that
-description, we could express our sentiments in the English language,
-I [[Hope|hope]]. Pecksniff!’ repeated Mr Tapley, with ineffable disdain. ‘What’s
-Pecksniff, who’s Pecksniff, where’s Pecksniff, that he’s to be so much
-considered? We’re not a-calculating for ourselves;’ he laid uncommon
-emphasis on the last syllable of that word, and looked full in Martin’s
-face; ‘we’re making a effort for a young lady likewise as has undergone
-her share; and whatever little [[Hope|hope]] we have, this here Pecksniff is not
-to stand in its way, I expect. I never heard of any act of Parliament,
-as was made by Pecksniff. Pecksniff! Why, I wouldn’t see the man myself;
-I wouldn’t hear him; I wouldn’t choose to know he was in company. I’d
-scrape my shoes on the scraper of the door, and call that Pecksniff, if
-you liked; but I wouldn’t condescend no further.’

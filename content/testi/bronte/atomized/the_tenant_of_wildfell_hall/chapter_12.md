@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 12"
+title: "The Tenant of Wildfell Hall — Chapter 12"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -84,7 +84,7 @@ you especially require one in this cold [[house]] and dreary room.”
 
 for you: but it is not worth while now—you won’t stay many minutes, you
 
-say, and [[arthur|Arthur]] is gone to bed.”
+say, and [[Arthur]] is gone to bed.”
 
 
 
@@ -184,7 +184,7 @@ own sad thoughts, and I reflecting how delightful it would be to be
 
 seated thus beside her with no other presence to restrain our
 
-intercourse—not even that of [[arthur|Arthur]], our mutual friend, without whom we
+intercourse—not even that of [[Arthur]], our mutual friend, without whom we
 
 had never met before—if only I could venture to speak my mind, and
 

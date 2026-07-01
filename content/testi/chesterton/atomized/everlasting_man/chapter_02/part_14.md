@@ -14,6 +14,41 @@ tags:
 </nav>
 
 
+It is far more probable that a primitive society was something like
+a pure [[democracy]].  To this day the comparatively simple agricultural
+communities are by far the purest democracies.  [[democracy|Democracy]] is a thing
+which is always breaking down through the complexity of civilisation.
+Anyone who likes may state it by saying that [[democracy]] is the foe
+of civilisation.  But he must remember that some of us really
+prefer [[democracy]] to civilisation, in the sense of preferring
+[[democracy]] to complexity.  Anyhow, peasants tilling patches of
+their own land in a rough equality, and meeting to vote directly
+under a village tree, are the most truly [[Self|self]]-governing of men.
+It is surely as likely as not that such a simple idea was found
+in the first condition of even simpler men.  Indeed the despotic
+vision is exaggerated, even if we do not regard the men as men.
+Even on an evolutionary assumption of the most materialistic sort,
+there is really no reason why men should not have had at least
+as much camaraderie as rats or rooks.  Leadership of some
+sort they doubtless had, as have the gregarious [[Animals|animals]];
+but leadership implies no such irrational servility as that
+attributed to the superstitious subjects of the Old Man.
+There was doubtless some [[Body|body]] corresponding, to use Tennyson's expression,
+to the many-wintered crow that leads the clanging rookery [[Home|home]].
+But I fancy that if that venerable fowl began to act after
+the fashion of some Sultans in ancient and decayed Asia, it would
+become a very clanging rookery and the many-wintered crow would
+not see many more winters.  It may be remarked, in this connection,
+but even among [[Animals|animals]] it would seem that something else is respected
+more than bestial violence, if it be only the familiarity which in men
+is called tradition or the experience which in men is called wisdom.
+I do not know if crows really follow the oldest crow, but if
+they do they are certainly not following the strongest crow.
+And I do know, in the human case, that if some ritual of seniority
+keeps savages reverencing somebody called Old Man, then at least
+they have not our own servile sentimental weakness for worshipping
+the Strong Man.
+
 It may be said then that primitive [[government]], like primitive
 art and religion and everything else, is very imperfectly known
 or rather guessed at; but that it is at least as good a guess
@@ -82,46 +117,3 @@ and marching out once more into liberty; all that procession of humanity
 which may or may not be a progress but most assuredly a [[Romance|romance]].
 But the first chapters of the [[Romance|romance]] have been torn out of the book;
 and we shall never read them.
-
-It is so also with the more special fancy about evolution and
-social stability.  According to the real records available, barbarism and
-civilisation were not successive states in the progress of the world.
-They were conditions that existed side by side, as they still
-exist side by side.  There were civilisations then as there are
-civilisations now; there are savages now as there were savages then.
-It is suggested that all men passed through a nomadic stage;
-but it is certain that there are some who have never passed out of it,
-and it seems not unlikely that there were some who never passed into it.
-It is probable that from very primitive times the static tiller
-of the soil and the wandering shepherd were two distinct types of men;
-and the chronological rearrangement of them is but a mark of that mania
-for progressive stages that has largely falsified [[history]].  It is
-suggested that there was a communist stage, in which private property was
-everywhere unknown, a whole humanity living on the negation of property;
-but the evidences of this negation are themselves rather negative.
-Redistributions of property, jubilees, and agrarian laws,
-occur at various intervals and in various forms; but that humanity
-inevitably passed through a communist stage seems as doubtful as
-the parallel proposition that humanity will inevitably return to it.
-It is chiefly interesting as evidence that the boldest plans for the
-future invoke the authority of the past; and that even a revolutionary
-seeks to satisfy himself that he is also a reactionary.  There is
-an amusing parallel example in the case of what is called feminism.
-In spite of all the pseudo-scientific gossip about [[Marriage|marriage]]
-by capture and the [[Cave|cave]]-man beating the [[Cave|cave]]-woman with a club,
-it may be noted that as soon as feminism became a fashionable cry,
-it was insisted that human civilisation in its first stage had been
-a matriarchy.  Apparently it was the [[Cave|cave]]-woman who carried the club.
-Anyhow all these ideas are little better than guesses; they have
-a curious way of following the fortune of modern theories and fads.
-In any case they are not [[history]] in the sense of record; and we may
-repeat that when it comes to record, the broad [[Truth|truth]] is that barbarism
-and civilisation have always dwelt side by side in the world,
-the civilisation sometimes spreading to absorb the barbarians,
-sometimes decaying into relative barbarism, and in almost all cases
-possessing in a more finished form certain ideas and institutions
-which the barbarians possess in a ruder form; such as [[government]]
-or social authority, the arts and especially the decorative arts,
-mysteries and taboos of various kinds especially surrounding the matter
-of sex, and some form of that fundamental thing which is the chief
-concern of this enquiry; the thing that we call religion.

@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 20: TWENTY (part 2)"
+title: "Martin Chuzzlewit — Chapter 20: TWENTY (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -98,7 +98,7 @@ on tiptoe as if, without this precaution, his fond children, being then
 at a distance of a couple of miles or so, would have some filial sense
 of his approach.
 
-It was a lovely evening in the [[Spring|spring]]-[[Time|time]] of the year; and in the soft
+It was a lovely evening in the [[spring]]-[[Time|time]] of the year; and in the soft
 stillness of the twilight, all [[Nature|nature]] was very calm and beautiful. The
 day had been fine and warm; but at the coming on of [[Night|night]], the air grew
 cool, and in the mellowing distance smoke was rising gently from the
@@ -115,10 +115,3 @@ all, and that to-morrow which has none beyond.
 man go [[Melancholy|melancholy]] mad.’
 
 ‘We shall have lights and a [[Fire|fire]] soon,’ observed Mr Pecksniff.
-
-‘We shall need ‘em by the [[Time|time]] we get there,’ said Jonas. ‘Why the devil
-don’t you talk? What are you thinking of?’
-
-‘To tell you the [[Truth|truth]], Mr Jonas,’ said Pecksniff with great solemnity,
-‘my mind was running at that moment on our late dear friend, your
-departed father.’

@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 28: TWENTY EIGHT (part 2)"
+title: "Martin Chuzzlewit — Chapter 28: TWENTY EIGHT (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_28_twenty_eight/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_28_twenty_eight/part_03">part 03 ›</a></div>
 </nav>
 
+
+It was a good a one as money (or credit, no matter which) could produce.
+The dishes, wines, and fruits were of the choicest kind. Everything was
+elegantly served. The plate was gorgeous. Mr Jonas was in the midst of
+a calculation of the value of this item [[Alone|alone]], when his host disturbed
+him.
 
 ‘A glass of wine?’
 
@@ -141,12 +147,3 @@ Mr Pip, that gentleman was extremely gratified. Indeed, both himself and
 Wolf had so much in common with Jonas, that they became very amicable;
 and between their increasing [[Friendship|friendship]] and the fumes of wine, Jonas
 grew talkative.
-
-It does not follow in the case of such a person that the more talkative
-he becomes, the more agreeable he is; on the contrary, his merits show
-to most advantage, perhaps, in [[Silence|silence]]. Having no means, as he thought,
-of putting himself on an equality with the rest, but by the assertion
-of that depth and sharpness on which he had been complimented, Jonas
-exhibited that faculty to the utmost; and was so deep and sharp that
-he lost himself in his own profundity, and cut his fingers with his own
-edge-tools.

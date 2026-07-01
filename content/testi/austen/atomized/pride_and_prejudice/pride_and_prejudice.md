@@ -1,5 +1,5 @@
 ---
-title: "[[Pride and Prejudice]]"
+title: "Pride and Prejudice"
 author: "Austen"
 unitType: work
 parentWork: "works/pride-and-prejudice-(austen)"
@@ -223,7 +223,7 @@ have been one in the further sense that, like her own Mr. Bennet, she
 took an epicurean delight in dissecting, in displaying, in setting at
 work her fools and her mean persons. I think she did take this delight,
 and I do not think at all the worse of her for it as a woman, while she
-was immensely the better for it as an [[artist]]._
+was immensely the better for it as an [[Artist|artist]]._
 
 _In respect of her art generally, Mr. Goldwin [[smith|Smith]] has truly observed
 that “metaphor has been exhausted in depicting the perfection of it,
@@ -2079,7 +2079,7 @@ attention for her book; and, soon laying it wholly aside, she drew near
 the card-table, and stationed herself between Mr. Bingley and his eldest
 sister, to observe the game.
 
-“Is Miss Darcy much grown since the [[spring]]?” said Miss Bingley: “will
+“Is Miss Darcy much grown since the [[Spring|spring]]?” said Miss Bingley: “will
 she be as tall as I am?”
 
 “I think she will. She is now about Miss [[Elizabeth Bennet]]’s height, or
@@ -6644,7 +6644,7 @@ you draw?”
 “Not one.”
 
 “That is very strange. But I suppose you had no opportunity. Your mother
-should have taken you to town every [[spring]] for the benefit of masters.”
+should have taken you to town every [[Spring|spring]] for the benefit of masters.”
 
 “My mother would have no objection, but my father hates [[London]].”
 
@@ -13071,7 +13071,7 @@ attached himself to Elizabeth for the pleasure of talking of her; and
 when Bingley was gone, Jane constantly sought the same means of relief.
 
 “He has made me so happy,” said she, one evening, “by telling me that he
-was totally ignorant of my being in town last [[spring]]! I had not believed
+was totally ignorant of my being in town last [[Spring|spring]]! I had not believed
 it possible.”
 
 “I suspected as much,” replied Elizabeth. “But how did he account for
@@ -13336,7 +13336,7 @@ attached to her situation, that she could, upon the whole, have no cause
 to repine.”
 
 “Obstinate, headstrong girl! I am ashamed of you! Is this your gratitude
-for my attentions to you last [[spring]]? Is nothing due to me on that
+for my attentions to you last [[Spring|spring]]? Is nothing due to me on that
 score? Let us sit down. You are to understand, Miss Bennet, that I came
 here with the determined resolution of carrying my purpose; nor will I
 be dissuaded from it. I have not been used to submit to any person’s
@@ -13902,7 +13902,7 @@ Elizabeth could not help smiling at his easy manner of directing his
 friend.
 
 “Did you speak from your own observation,” said she, “when you told him
-that my sister loved him, or merely from my information last [[spring]]?”
+that my sister loved him, or merely from my information last [[Spring|spring]]?”
 
 “From the former. I had narrowly observed her, during the two visits
 which I had lately made her here; and I was convinced of her affection.”

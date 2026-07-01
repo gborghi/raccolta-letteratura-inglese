@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 25: TWENTY FIVE (part 3)"
+title: "Martin Chuzzlewit — Chapter 25: TWENTY FIVE (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -126,11 +126,3 @@ bed, she sallied forth upon her new engagement. First, she went to
 her private lodgings in Kingsgate Street, for a bundle of robes and
 wrappings comfortable in the [[Night|night]] season; and then repaired to the Bull
 in Holborn, which she reached as the clocks were striking eight.
-
-As she turned into the yard, she stopped; for the landlord, landlady,
-and head chambermaid, were all on the threshold together talking
-earnestly with a young gentleman who seemed to have just come or to
-be just going away. The first words that struck upon Mrs Gamp’s ear
-obviously bore reference to the patient; and it being expedient that all
-good attendants should know as much as possible about the case on which
-their skill is brought to bear, Mrs Gamp listened as a matter of duty.

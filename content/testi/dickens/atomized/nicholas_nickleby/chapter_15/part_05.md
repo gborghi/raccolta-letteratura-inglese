@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 15 (part 5)"
+title: "Nicholas Nickleby — Chapter 15 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_15/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_16/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘And whatever we are to say to you, sir,’ exclaimed Mrs. Kenwigs,
+addressing young Lillyvick’s deliverer, ‘I am sure I don’t know.’
+
+‘You need say nothing at all,’ replied Nicholas. ‘I have done nothing to
+found any very strong claim upon your eloquence, I am sure.’
+
+‘He might have been burnt to [[Death|death]], if it hadn’t been for you, sir,’
+simpered Miss Petowker.
+
+‘Not very likely, I think,’ replied Nicholas; ‘for there was abundance
+of assistance here, which must have reached him before he had been in
+any danger.’
+
+‘You will let us drink your health, anyvays, sir!’ said Mr. Kenwigs
+motioning towards the table.
 
 ‘--In my absence, by all means,’ rejoined Nicholas, with a smile.
 ‘I have had a very fatiguing [[Journey|journey]], and should be most indifferent

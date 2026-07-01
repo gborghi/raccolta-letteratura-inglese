@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 16 (part 1)"
+title: "Nicholas Nickleby — Chapter 16 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -40,7 +40,7 @@ at any [[Time|time]] be tempted to run away himself.
 Of this chamber, Nicholas became the tenant; and having hired a few
 common articles of furniture from a neighbouring broker, and paid
 the first week’s hire in advance, out of a small fund raised by the
-[[conversion]] of some spare clothes into ready money, he sat himself down
+[[Conversion|conversion]] of some spare clothes into ready money, he sat himself down
 to ruminate upon his prospects, which, like the prospect outside his
 [[Window|window]], were sufficiently confined and dingy. As they by no means
 improved on better acquaintance, and as familiarity breeds contempt, he
@@ -131,6 +131,3 @@ three times every [[Sunday]]--with a serious footman. If the cook is more
 serious than the footman, she will be expected to improve the footman;
 if the footman is more serious than the cook, he will be expected to
 improve the cook.”’
-
-‘I’ll take the address of that place,’ said the client; ‘I don’t know
-but what it mightn’t suit me pretty [[Well|well]].’

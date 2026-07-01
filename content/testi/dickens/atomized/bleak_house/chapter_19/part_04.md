@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 19 (part 4)"
+title: "Bleak House — Chapter 19 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_19/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_19/part_05">part 05 ›</a></div>
 </nav>
 
+
+Enter Mr. Guppy, who nods to Mr. Snagsby and touches his hat with the
+chivalry of clerkship to the ladies on the stairs.
+
+“I was strolling away from the office just now when I found this row
+going on,” says Mr. Guppy to the law-stationer, “and as your name was
+mentioned, I thought it was right the thing should be looked into.”
 
 “It was very good-natured of you, sir,” says Mr. Snagsby, “and I am
 obliged to you.” And Mr. Snagsby again relates his experience, again
@@ -137,16 +144,3 @@ ma’am, was it a lady of your acquaintance who had some transactions
 (we will not at present say what transactions) with Kenge and
 Carboy’s office, or was it a gentleman of your acquaintance? Take
 [[Time|time]], ma’am. We shall come to it presently. Man or woman, ma’am?”
-
-“Neither,” says Mrs. Chadband as before.
-
-“Oh! A [[Child|child]]!” says Mr. Guppy, throwing on the admiring Mrs. Snagsby
-the regular acute professional eye which is thrown on British
-jurymen. “Now, ma’am, perhaps you’ll have the kindness to tell us
-WHAT [[Child|child]].”
-
-“You have got it at last, sir,” says Mrs. Chadband with another
-hard-favoured smile. “[[Well]], sir, it was before your [[Time|time]], most
-likely, judging from your appearance. I was left in charge of a [[Child|child]]
-named [[Esther Summerson]], who was put out in life by Messrs. Kenge and
-Carboy.”

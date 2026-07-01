@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 8 (part 1)"
+title: "Persuasion — Chapter 8 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -229,7 +229,3 @@ making of me; and I never had two days of foul weather all the [[Time|time]] I
 was at sea in her; and after taking privateers enough to be very
 
 entertaining, I had the good luck in my passage [[Home|home]] the next [[Autumn|autumn]],
-
-to fall in with the very French frigate I wanted. I brought her into
-
-Plymouth; and here another instance of luck. We had not been six hours

@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 31 (part 6)"
+title: "Bleak House — Chapter 31 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,25 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_31/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_32/part_01">part 01 ›</a></div>
 </nav>
 
+
+It was a great morning when I could tell Ada all this as she stood
+out in the [[Garden|garden]]; and it was a great evening when Charley and I at
+last took tea together in the next room. But on that same evening, I
+felt that I was stricken cold.
+
+Happily for both of us, it was not until Charley was safe in bed
+again and placidly asleep that I began to think the contagion of her
+illness was upon me. I had been able easily to hide what I felt at
+tea-[[Time|time]], but I was past that already now, and I knew that I was
+rapidly following in Charley’s steps.
+
+I was [[Well|well]] enough, however, to be up early in the morning, and to
+return my darling’s cheerful blessing from the [[Garden|garden]], and to talk
+with her as long as usual. But I was not free from an impression that
+I had been walking about the two rooms in the [[Night|night]], a little beside
+myself, though knowing where I was; and I felt confused at
+times—with a curious sense of fullness, as if I were becoming too
+large altogether.
 
 In the evening I was so much worse that I resolved to prepare
 Charley, with which view I said, “You’re getting quite strong,

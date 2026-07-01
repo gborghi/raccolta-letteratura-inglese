@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 63 (part 3)"
+title: "Bleak House — Chapter 63 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_63/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_64/part_01">part 01 ›</a></div>
 </nav>
 
+
+“My dear George,” returns the elder, concentrating his strong steady
+brow upon him and smiling confidently, “leave that to me, and let me
+try.”
+
+George shakes his head. “You could do it, I have not a [[Doubt|doubt]], if
+anybody could; but it’s not to be done. Not to be done, sir! Whereas
+it so falls out, on the other hand, that I am able to be of some
+trifle of use to [[Sir Leicester Dedlock]] since his illness—brought on
+by family sorrows—and that he would rather have that help from our
+mother’s son than from anybody else.”
 
 “[[Well]], my dear George,” returns the other with a very slight shade
 upon his open face, “if you prefer to serve in Sir Leicester

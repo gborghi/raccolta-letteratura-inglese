@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities — Chapter 1"
+title: "A Tale of Two Cities — Chapter 3"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/a-tale-of-two-cities-(dickens)"
@@ -10,513 +10,227 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/a-tale-of-two-cities-(dickens)">A Tale of Two Cities</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_32_the_track_of_a_storm">‹ Chapter 32 the Track of a Storm</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_34">Chapter 34 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_32">‹ Chapter 32</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_34">Chapter 34 ›</a></div>
 </nav>
 
 
-CHAPTER I.
-In Secret
-
-
-The traveller fared slowly on his way, who fared towards [[Paris]] from
-England in the [[Autumn|autumn]] of the year one thousand seven hundred and
-ninety-two. More than enough of bad roads, bad equipages, and bad
-horses, he would have encountered to delay him, though the fallen and
-unfortunate [[King of France]] had been upon his throne in all his glory;
-but, the changed times were fraught with other obstacles than
-these. Every town-gate and village taxing-[[house]] had its band of
-citizen-patriots, with their national muskets in a most explosive state
-of readiness, who stopped all comers and goers, [[Cross|cross]]-questioned them,
-inspected their papers, looked for their names in lists of their own,
-turned them back, or sent them on, or stopped them and laid them in
-hold, as their capricious judgment or fancy deemed best for the dawning
-Republic One and Indivisible, of Liberty, Equality, Fraternity, or
-[[Death]].
-
-A very few French leagues of his [[Journey|journey]] were accomplished, when Charles
-Darnay began to perceive that for him along these country roads there
-was no [[Hope|hope]] of return until he should have been declared a good citizen
-at [[Paris]]. Whatever might befall now, he must on to his [[Journey|journey]]’s end.
-Not a mean village closed upon him, not a common barrier dropped across
-the [[Road|road]] behind him, but he knew it to be another iron door in
-the series that was barred between him and England. The universal
-watchfulness so encompassed him, that if he had been taken in a net,
-or were being forwarded to his destination in a cage, he could not have
-felt his [[Freedom|freedom]] more completely gone.
-
-This universal watchfulness not only stopped him on the highway twenty
-times in a stage, but retarded his progress twenty times in a day, by
-riding after him and taking him back, riding before him and stopping him
-by anticipation, riding with him and keeping him in charge. He had been
-days upon his [[Journey|journey]] in France [[Alone|alone]], when he went to bed tired out, in
-a little town on the high [[Road|road]], still a long way from [[Paris]].
-
-Nothing but the production of the afflicted Gabelle’s letter from his
-[[Prison|prison]] of the Abbaye would have got him on so far. His difficulty at the
-guard-[[house]] in this small place had been such, that he felt his [[Journey|journey]]
-to have come to a crisis. And he was, therefore, as little surprised as
-a man could be, to find himself awakened at the small inn to which he
-had been remitted until morning, in the middle of the [[Night|night]].
-
-Awakened by a timid local functionary and three armed patriots in rough
-red caps and with pipes in their mouths, who sat down on the bed.
-
-“Emigrant,” said the functionary, “I am going to send you on to [[Paris]],
-under an escort.”
-
-“Citizen, I [[Desire|desire]] nothing more than to get to [[Paris]], though I could
-dispense with the escort.”
-
-“[[Silence]]!” growled a red-cap, striking at the coverlet with the butt-end
-of his musket. “Peace, [[aristocrat]]!”
-
-“It is as the good patriot says,” observed the timid functionary. “You
-are an [[aristocrat]], and must have an escort--and must pay for it.”
-
-“I have no choice,” said [[Charles Darnay]].
-
-“Choice! Listen to him!” cried the same scowling red-cap. “As if it was
-not a favour to be protected from the lamp-iron!”
-
-“It is always as the good patriot says,” observed the functionary. “Rise
-and dress yourself, emigrant.”
-
-Darnay complied, and was taken back to the guard-[[house]], where other
-patriots in rough red caps were smoking, drinking, and sleeping, by
-a watch-[[Fire|fire]]. Here he paid a heavy price for his escort, and hence he
-started with it on the wet, wet roads at three o’[[Clock|clock]] in the morning.
-
-The escort were two mounted patriots in red caps and tri-coloured
-cockades, armed with national muskets and sabres, who rode one on either
-side of him.
-
-The escorted governed his own [[Horse|horse]], but a loose line was attached to
-his bridle, the end of which one of the patriots kept girded round his
-wrist. In this state they set forth with the sharp rain driving in their
-faces: clattering at a heavy dragoon trot over the uneven town pavement,
-and out upon the mire-deep roads. In this state they traversed without
-change, except of horses and pace, all the mire-deep leagues that lay
-between them and the capital.
-
-They travelled in the [[Night|night]], halting an hour or two after daybreak, and
-lying by until the twilight fell. The escort were so wretchedly clothed,
-that they twisted straw round their bare legs, and thatched their ragged
-shoulders to keep the wet off. Apart from the personal discomfort of
-being so attended, and apart from such considerations of present danger
-as arose from one of the patriots being chronically drunk, and carrying
-his musket very recklessly, [[Charles Darnay]] did not allow the restraint
-that was laid upon him to awaken any serious fears in his breast; for,
-he reasoned with himself that it could have no reference to the merits
-of an individual case that was not yet stated, and of representations,
-confirmable by the prisoner in the Abbaye, that were not yet made.
-
-But when they came to the town of Beauvais--which they did at eventide,
-when the streets were filled with people--he could not conceal from
-himself that the aspect of affairs was very alarming. An ominous crowd
-gathered to see him dismount of the posting-yard, and many voices called
-out loudly, “Down with the emigrant!”
-
-He stopped in the act of swinging himself out of his saddle, and,
-resuming it as his safest place, said:
-
-“Emigrant, my friends! Do you not see me here, in France, of my own
-will?”
-
-“You are a cursed emigrant,” cried a farrier, making at him in a
-furious manner through the press, hammer in hand; “and you are a cursed
-[[aristocrat]]!”
-
-The postmaster interposed himself between this man and the rider’s
-bridle (at which he was evidently making), and soothingly said, “Let him
-be; let him be! He will be judged at [[Paris]].”
-
-“Judged!” repeated the farrier, swinging his hammer. “Ay! and condemned
-as a traitor.” At this the crowd roared approval.
-
-Checking the postmaster, who was for turning his [[Horse|horse]]’s head to the
-yard (the drunken patriot sat composedly in his saddle looking on, with
-the line round his wrist), Darnay said, as soon as he could make his
-voice heard:
-
-“Friends, you deceive yourselves, or you are deceived. I am not a
-traitor.”
-
-“He lies!” cried the [[smith]]. “He is a traitor since the decree. His life
-is forfeit to the people. His cursed life is not his own!”
-
-At the instant when Darnay saw a rush in the eyes of the crowd, which
-another instant would have brought upon him, the postmaster turned his
-[[Horse|horse]] into the yard, the escort rode in close upon his [[Horse|horse]]’s flanks,
-and the postmaster shut and barred the crazy [[Double|double]] gates. The farrier
-struck a blow upon them with his hammer, and the crowd groaned; but, no
-more was done.
-
-“What is this decree that the [[smith]] spoke of?” Darnay asked the
-postmaster, when he had thanked him, and stood beside him in the yard.
-
-“Truly, a decree for selling the property of emigrants.”
-
-“When passed?”
+CHAPTER III.
+The [[Shadow]]
 
-“On the fourteenth.”
 
-“The day I left England!”
+One of the first considerations which arose in the business mind of Mr.
+Lorry when business hours came round, was this:--that he had no right to
+imperil Tellson’s by sheltering the wife of an emigrant prisoner under
+the Bank roof. His own possessions, safety, life, he would have hazarded
+for Lucie and her [[Child|child]], without a moment’s demur; but the great trust
+he held was not his own, and as to that business charge he was a strict
+man of business.
 
-“Everybody says it is but one of several, and that there will be
-others--if there are not already--banishing all emigrants, and
-condemning all to [[Death|death]] who return. That is what he meant when he said
-your life was not your own.”
+At first, his mind reverted to Defarge, and he thought of finding out
+the wine-shop again and taking counsel with its master in reference to
+the safest dwelling-place in the distracted state of the [[City|city]]. But, the
+same consideration that suggested him, repudiated him; he lived in the
+most violent Quarter, and doubtless was influential there, and deep in
+its dangerous workings.
 
-“But there are no such decrees yet?”
+[[Noon]] coming, and the Doctor not returning, and every minute’s delay
+tending to compromise Tellson’s, Mr. Lorry advised with Lucie. She said
+that her father had spoken of hiring a lodging for a short term, in that
+Quarter, near the Banking-[[house]]. As there was no business objection to
+this, and as he foresaw that even if it were all [[Well|well]] with Charles, and
+he were to be released, he could not [[Hope|hope]] to leave the [[City|city]], Mr. Lorry
+went out in [[Quest|quest]] of such a lodging, and found a suitable one, high up
+in a removed by-street where the closed blinds in all the other windows
+of a high [[Melancholy|melancholy]] square of buildings marked deserted homes.
 
-“What do I know!” said the postmaster, shrugging his shoulders; “there
-may be, or there will be. It is all the same. What would you have?”
-
-They rested on some straw in a loft until the middle of the [[Night|night]], and
-then rode forward again when all the town was asleep. Among the many
-wild changes observable on familiar things which made this wild ride
-unreal, not the least was the seeming rarity of [[Sleep|sleep]]. After long and
-lonely spurring over dreary roads, they would come to a cluster of poor
-cottages, not steeped in darkness, but all glittering with lights, and
-would find the people, in a ghostly manner in the dead of the [[Night|night]],
-circling hand in hand round a shrivelled tree of Liberty, or all drawn
-up together singing a Liberty [[Song|song]]. Happily, however, there was [[Sleep|sleep]] in
-Beauvais that [[Night|night]] to help them out of it and they passed on once more
-into [[Solitude|solitude]] and [[Loneliness|loneliness]]: jingling through the untimely cold and
-wet, among impoverished fields that had yielded no fruits of the earth
-that year, diversified by the blackened remains of burnt houses, and by
-the sudden emergence from ambuscade, and sharp reining up across their
-way, of patriot patrols on the watch on all the roads.
-
-Daylight at last found them before the wall of [[Paris]]. The barrier was
-closed and strongly guarded when they rode up to it.
-
-“Where are the papers of this prisoner?” demanded a resolute-looking man
-in authority, who was summoned out by the guard.
-
-Naturally struck by the disagreeable word, [[Charles Darnay]] requested the
-speaker to take notice that he was a free traveller and French citizen,
-in charge of an escort which the disturbed state of the country had
-imposed upon him, and which he had paid for.
-
-“Where,” repeated the same personage, without taking any heed of him
-whatever, “are the papers of this prisoner?”
-
-The drunken patriot had them in his cap, and produced them. Casting his
-eyes over Gabelle’s letter, the same personage in authority showed some
-disorder and surprise, and looked at Darnay with a close attention.
-
-He left escort and escorted without saying a word, however, and went
-into the guard-room; meanwhile, they sat upon their horses outside the
-gate. Looking about him while in this state of suspense, Charles
-Darnay observed that the gate was held by a mixed guard of soldiers and
-patriots, the latter far outnumbering the former; and that while ingress
-into the [[City|city]] for peasants’ carts bringing in supplies, and for similar
-traffic and traffickers, was easy enough, egress, even for the homeliest
-people, was very difficult. A numerous medley of men and women, not
-to mention beasts and vehicles of various sorts, was waiting to issue
-forth; but, the previous identification was so strict, that they
-filtered through the barrier very slowly. Some of these people knew
-their turn for examination to be so far off, that they lay down on the
-ground to [[Sleep|sleep]] or smoke, while others talked together, or loitered
-about. The red cap and tri-colour cockade were universal, both among men
-and women.
-
-When he had sat in his saddle some half-hour, taking note of these
-things, Darnay found himself confronted by the same man in authority,
-who directed the guard to open the barrier. Then he delivered to the
-escort, drunk and sober, a receipt for the escorted, and requested him
-to dismount. He did so, and the two patriots, leading his tired [[Horse|horse]],
-turned and rode away without entering the [[City|city]].
-
-He accompanied his conductor into a guard-room, smelling of common wine
-and tobacco, where certain soldiers and patriots, asleep and awake,
-drunk and sober, and in various neutral states between sleeping and
-waking, drunkenness and sobriety, were standing and lying about. The
-light in the guard-[[house]], half derived from the waning oil-lamps of
-the [[Night|night]], and half from the overcast day, was in a correspondingly
-uncertain condition. Some registers were lying open on a desk, and an
-officer of a coarse, dark aspect, presided over these.
-
-“Citizen Defarge,” said he to Darnay’s conductor, as he took a slip of
-paper to write on. “Is this the emigrant Evrémonde?”
-
-“This is the man.”
-
-“Your age, Evrémonde?”
-
-“Thirty-seven.”
-
-“Married, Evrémonde?”
-
-“Yes.”
-
-“Where married?”
-
-“In England.”
-
-“Without [[Doubt|doubt]]. Where is your wife, Evrémonde?”
-
-“In England.”
-
-“Without [[Doubt|doubt]]. You are consigned, Evrémonde, to the [[Prison|prison]] of La
-Force.”
-
-“Just Heaven!” exclaimed Darnay. “Under what law, and for what offence?”
-
-The officer looked up from his slip of paper for a moment.
-
-“We have new laws, Evrémonde, and new offences, since you were here.” He
-said it with a hard smile, and went on writing.
-
-“I entreat you to observe that I have come here voluntarily, in response
-to that written appeal of a fellow-countryman which lies before you. I
-demand no more than the opportunity to do so without delay. Is not that
-my right?”
-
-“Emigrants have no rights, Evrémonde,” was the stolid reply. The officer
-wrote until he had finished, read over to himself what he had written,
-sanded it, and handed it to Defarge, with the words “In secret.”
-
-Defarge motioned with the paper to the prisoner that he must accompany
-him. The prisoner obeyed, and a guard of two armed patriots attended
-them.
-
-“Is it you,” said Defarge, in a low voice, as they went down the
-guardhouse steps and turned into [[Paris]], “who married the daughter of
-[[Doctor Manette]], once a prisoner in the Bastille that is no more?”
-
-“Yes,” replied Darnay, looking at him with surprise.
-
-“My name is Defarge, and I keep a wine-shop in the Quarter Saint
-Antoine. Possibly you have heard of me.”
-
-“My wife came to your [[house]] to reclaim her father? Yes!”
-
-The word “wife” seemed to serve as a gloomy reminder to Defarge, to say
-with sudden impatience, “In the name of that sharp female newly-born,
-and called La Guillotine, why did you come to France?”
-
-“You heard me say why, a minute ago. Do you not believe it is the
-[[Truth|truth]]?”
-
-“A bad [[Truth|truth]] for you,” said Defarge, speaking with knitted brows, and
-looking straight before him.
-
-“Indeed I am lost here. All here is so unprecedented, so changed, so
-sudden and unfair, that I am absolutely lost. Will you render me a
-little help?”
-
-“None.” Defarge spoke, always looking straight before him.
-
-“Will you answer me a single question?”
-
-“Perhaps. According to its [[Nature|nature]]. You can say what it is.”
-
-“In this [[Prison|prison]] that I am going to so unjustly, shall I have some free
-communication with the world outside?”
-
-“You will see.”
-
-“I am not to be buried there, prejudged, and without any means of
-presenting my case?”
-
-“You will see. But, what then? Other people have been similarly buried
-in worse prisons, before now.”
-
-“But never by me, Citizen Defarge.”
-
-Defarge glanced darkly at him for answer, and walked on in a steady
-and set [[Silence|silence]]. The deeper he sank into this [[Silence|silence]], the fainter [[Hope|hope]]
-there was--or so Darnay thought--of his softening in any slight degree.
-He, therefore, made haste to say:
-
-“It is of the utmost importance to me (you know, Citizen, even better
-than I, of how much importance), that I should be able to communicate to
-Mr. Lorry of Tellson’s Bank, an English gentleman who is now in [[Paris]],
-the simple fact, without comment, that I have been thrown into the
-[[Prison|prison]] of La Force. Will you cause that to be done for me?”
-
-“I will do,” Defarge doggedly rejoined, “nothing for you. My duty is to
-my country and the People. I am the sworn servant of both, against you.
-I will do nothing for you.”
-
-[[Charles Darnay]] felt it hopeless to entreat him further, and his [[Pride|pride]]
-was touched besides. As they walked on in [[Silence|silence]], he could not but see
-how used the people were to the spectacle of prisoners passing along the
-streets. The very children scarcely noticed him. A few passers turned
-their heads, and a few shook their fingers at him as an [[aristocrat]];
-otherwise, that a man in good clothes should be going to [[Prison|prison]], was no
-more remarkable than that a labourer in working clothes should be
-going to work. In one narrow, dark, and dirty street through which they
-passed, an excited orator, mounted on a stool, was addressing an excited
-audience on the crimes against the people, of the [[King|king]] and the royal
-family. The few words that he caught from this man’s lips, first made
-it known to [[Charles Darnay]] that the [[King|king]] was in [[Prison|prison]], and that the
-foreign ambassadors had one and all left [[Paris]]. On the [[Road|road]] (except at
-Beauvais) he had heard absolutely nothing. The escort and the universal
-watchfulness had completely isolated him.
-
-That he had fallen among far greater dangers than those which had
-developed themselves when he left England, he of course knew now. That
-perils had thickened about him fast, and might thicken faster and faster
-yet, he of course knew now. He could not but admit to himself that he
-might not have made this [[Journey|journey]], if he could have foreseen the events
-of a few days. And yet his misgivings were not so dark as, imagined by
-the light of this later [[Time|time]], they would appear. Troubled as the future
-was, it was the unknown future, and in its obscurity there was ignorant
-[[Hope|hope]]. The horrible massacre, days and nights long, which, within a few
-rounds of the [[Clock|clock]], was to set a great mark of [[Blood|blood]] upon the blessed
-garnering [[Time|time]] of harvest, was as far out of his knowledge as if it had
-been a hundred thousand years away. The “sharp female newly-born, and
-called La Guillotine,” was hardly known to him, or to the generality
-of people, by name. The frightful deeds that were to be soon done, were
-probably unimagined at that [[Time|time]] in the brains of the doers. How could
-they have a place in the shadowy conceptions of a gentle mind?
-
-Of unjust treatment in detention and hardship, and in cruel separation
-from his wife and [[Child|child]], he foreshadowed the likelihood, or the
-certainty; but, beyond this, he dreaded nothing distinctly. With this on
-his mind, which was enough to carry into a dreary [[Prison|prison]] courtyard, he
-arrived at the [[Prison|prison]] of La Force.
-
-A man with a bloated face opened the strong wicket, to whom Defarge
-presented “The Emigrant Evrémonde.”
-
-“What the Devil! How many more of them!” exclaimed the man with the
-bloated face.
-
-Defarge took his receipt without noticing the exclamation, and withdrew,
-with his two fellow-patriots.
-
-“What the Devil, I say again!” exclaimed the gaoler, left with his wife.
-“How many more!”
-
-The gaoler’s wife, being provided with no answer to the question, merely
-replied, “One must have patience, my dear!” Three turnkeys who entered
-responsive to a bell she rang, echoed the sentiment, and one added, “For
-the [[Love|love]] of Liberty;” which sounded in that place like an inappropriate
-conclusion.
-
-The [[Prison|prison]] of La Force was a gloomy [[Prison|prison]], dark and filthy, and with a
-horrible smell of foul [[Sleep|sleep]] in it. Extraordinary how soon the noisome
-flavour of imprisoned [[Sleep|sleep]], becomes manifest in all such places that
-are ill cared for!
-
-“In secret, too,” grumbled the gaoler, looking at the written paper. “As
-if I was not already full to bursting!”
-
-He stuck the paper on a file, in an ill-[[Humour|humour]], and [[Charles Darnay]]
-awaited his further pleasure for half an hour: sometimes, pacing to and
-fro in the strong arched room: sometimes, resting on a stone seat: in
-either case detained to be imprinted on the [[Memory|memory]] of the chief and his
-subordinates.
-
-“Come!” said the chief, at length taking up his keys, “come with me,
-emigrant.”
-
-Through the dismal [[Prison|prison]] twilight, his new charge accompanied him by
-corridor and staircase, many doors clanging and locking behind them,
-until they came into a large, low, vaulted chamber, crowded with
-prisoners of both sexes. The women were seated at a long table, reading
-and writing, knitting, sewing, and embroidering; the men were for the
-most part standing behind their chairs, or lingering up and down the
-room.
-
-In the instinctive association of prisoners with shameful crime and
-disgrace, the new-comer recoiled from this company. But the crowning
-unreality of his long unreal ride, was, their all at once rising to
-receive him, with every refinement of manner known to the [[Time|time]], and with
-all the engaging graces and courtesies of life.
-
-So strangely clouded were these refinements by the [[Prison|prison]] manners and
-gloom, so spectral did they become in the inappropriate squalor and
-misery through which they were seen, that [[Charles Darnay]] seemed to stand
-in a company of the dead. [[Ghosts]] all! The [[Ghost|ghost]] of [[Beauty|beauty]], the [[Ghost|ghost]]
-of stateliness, the [[Ghost|ghost]] of elegance, the [[Ghost|ghost]] of [[Pride|pride]], the [[Ghost|ghost]] of
-frivolity, the [[Ghost|ghost]] of wit, the [[Ghost|ghost]] of youth, the [[Ghost|ghost]] of age, all
-waiting their dismissal from the desolate shore, all turning on him eyes
-that were changed by the [[Death|death]] they had died in coming there.
-
-It struck him motionless. The gaoler standing at his side, and the other
-gaolers moving about, who would have been [[Well|well]] enough as to appearance
-in the ordinary exercise of their functions, looked so extravagantly
-coarse contrasted with sorrowing mothers and blooming daughters who were
-there--with the apparitions of the coquette, the young [[Beauty|beauty]], and the
-mature woman delicately bred--that the inversion of all experience and
-likelihood which the scene of shadows presented, was heightened to its
-utmost. Surely, [[Ghosts|ghosts]] all. Surely, the long unreal ride some progress
-of disease that had brought him to these gloomy shades!
-
-“In the name of the assembled companions in misfortune,” said a
-gentleman of courtly appearance and address, coming forward, “I have the
-[[Honour|honour]] of giving you welcome to La Force, and of condoling with you
-on the calamity that has brought you among us. May it soon terminate
-happily! It would be an impertinence elsewhere, but it is not so here,
-to ask your name and condition?”
-
-[[Charles Darnay]] roused himself, and gave the required information, in
-words as suitable as he could find.
-
-“But I [[Hope|hope]],” said the gentleman, following the chief gaoler with his
-eyes, who moved across the room, “that you are not in secret?”
-
-“I do not understand the meaning of the term, but I have heard them say
-so.”
-
-“Ah, what a pity! We so much regret it! But take [[Courage|courage]]; several
-members of our society have been in secret, at first, and it has lasted
-but a short [[Time|time]].” Then he added, raising his voice, “I grieve to inform
-the society--in secret.”
-
-There was a murmur of commiseration as [[Charles Darnay]] crossed the room
-to a grated door where the gaoler awaited him, and many voices--among
-which, the soft and compassionate voices of women were conspicuous--gave
-him good wishes and encouragement. He turned at the grated door, to
-render the thanks of his heart; it closed under the gaoler’s hand; and
-the apparitions vanished from his sight forever.
-
-The wicket opened on a stone staircase, leading upward. When they had
-ascended forty steps (the prisoner of half an hour already counted
-them), the gaoler opened a low black door, and they passed into a
-solitary cell. It struck cold and damp, but was not dark.
-
-“Yours,” said the gaoler.
-
-“Why am I confined [[Alone|alone]]?”
-
-“How do I know!”
-
-“I can buy pen, ink, and paper?”
-
-“Such are not my orders. You will be visited, and can ask then. At
-present, you may buy your food, and nothing more.”
-
-There were in the cell, a chair, a table, and a straw mattress. As
-the gaoler made a general inspection of these objects, and of the four
-walls, before going out, a wandering fancy wandered through the mind of
-the prisoner leaning against the wall opposite to him, that this gaoler
-was so unwholesomely bloated, both in face and person, as to look like
-a man who had been drowned and filled with [[Water|water]]. When the gaoler was
-gone, he thought in the same wandering way, “Now am I left, as if I were
-dead.” Stopping then, to look down at the mattress, he turned from it
-with a sick feeling, and thought, “And here in these crawling creatures
-is the first condition of the [[Body|body]] after [[Death|death]].”
-
-“Five paces by four and a half, five paces by four and a half, five
-paces by four and a half.” The prisoner walked to and fro in his cell,
-counting its measurement, and the roar of the [[City|city]] arose like muffled
-drums with a wild swell of voices added to them. “He made shoes, he made
-shoes, he made shoes.” The prisoner counted the measurement again, and
-paced faster, to draw his mind with him from that latter repetition.
-“The [[Ghosts|ghosts]] that vanished when the wicket closed. There was one among
-them, the appearance of a lady dressed in black, who was leaning in the
-embrasure of a [[Window|window]], and she had a light shining upon her golden
-hair, and she looked like * * * * Let us ride on again, for God’s sake,
-through the illuminated villages with the people all awake! * * * * He
-made shoes, he made shoes, he made shoes. * * * * Five paces by four and
-a half.” With such scraps tossing and [[rolling]] upward from the depths of
-his mind, the prisoner walked faster and faster, obstinately counting
-and counting; and the roar of the [[City|city]] changed to this extent--that it
-still rolled in like muffled drums, but with the wail of voices that he
-knew, in the swell that [[Rose|rose]] above them.
+To this lodging he at once removed Lucie and her [[Child|child]], and [[Miss Pross]]:
+giving them what comfort he could, and much more than he had himself.
+He left Jerry with them, as a figure to fill a doorway that would bear
+considerable knocking on the head, and returned to his own occupations.
+A disturbed and doleful mind he brought to bear upon them, and slowly
+and heavily the day lagged on with him.
+
+It wore itself out, and wore him out with it, until the Bank closed. He
+was again [[Alone|alone]] in his room of the previous [[Night|night]], considering what to
+do next, when he heard a foot upon the stair. In a few moments, a
+man stood in his presence, who, with a keenly observant look at him,
+addressed him by his name.
+
+“Your servant,” said Mr. Lorry. “Do you know me?”
+
+He was a strongly made man with dark curling hair, from forty-five
+to fifty years of age. For answer he repeated, without any change of
+emphasis, the words:
+
+“Do you know me?”
+
+“I have seen you somewhere.”
+
+“Perhaps at my wine-shop?”
+
+Much interested and agitated, Mr. Lorry said: “You come from Doctor
+Manette?”
+
+“Yes. I come from [[Doctor Manette]].”
+
+“And what says he? What does he send me?”
+
+Defarge gave into his anxious hand, an open scrap of paper. It bore the
+words in the Doctor’s writing:
+
+    “Charles is safe, but I cannot safely leave this place yet.
+     I have obtained the favour that the bearer has a short note
+     from Charles to his wife.  Let the bearer see his wife.”
+
+It was dated from La Force, within an hour.
+
+“Will you accompany me,” said Mr. Lorry, joyfully relieved after reading
+this note aloud, “to where his wife resides?”
+
+“Yes,” returned Defarge.
+
+Scarcely noticing as yet, in what a curiously reserved and mechanical
+way Defarge spoke, Mr. Lorry put on his hat and they went down into the
+courtyard. There, they found two women; one, knitting.
+
+“[[Madame Defarge]], surely!” said Mr. Lorry, who had left her in exactly
+the same attitude some seventeen years ago.
+
+“It is she,” observed her husband.
+
+“Does Madame go with us?” inquired Mr. Lorry, seeing that she moved as
+they moved.
+
+“Yes. That she may be able to recognise the faces and know the persons.
+It is for their safety.”
+
+Beginning to be struck by Defarge’s manner, Mr. Lorry looked dubiously
+at him, and led the way. Both the women followed; the second woman being
+The Vengeance.
+
+They passed through the intervening streets as quickly as they might,
+ascended the staircase of the new domicile, were admitted by Jerry,
+and found Lucie weeping, [[Alone|alone]]. She was thrown into a transport by the
+tidings Mr. Lorry gave her of her husband, and clasped the hand that
+delivered his note--little thinking what it had been doing near him in
+the [[Night|night]], and might, but for a chance, have done to him.
+
+     “DEAREST,--Take [[Courage|courage]].  I am [[Well|well]], and your father has
+      influence around me.  You cannot answer this.
+      Kiss our [[Child|child]] for me.”
+
+That was all the writing. It was so much, however, to her who received
+it, that she turned from Defarge to his wife, and kissed one of the
+hands that knitted. It was a passionate, loving, thankful, womanly
+action, but the hand made no response--dropped cold and heavy, and took
+to its knitting again.
+
+There was something in its touch that gave Lucie a check. She stopped in
+the act of putting the note in her bosom, and, with her hands yet at her
+neck, looked terrified at [[Madame Defarge]]. [[Madame Defarge]] met the lifted
+eyebrows and forehead with a cold, impassive stare.
+
+“My dear,” said Mr. Lorry, striking in to explain; “there are frequent
+risings in the streets; and, although it is not likely they will ever
+trouble you, [[Madame Defarge]] wishes to see those whom she has the power
+to protect at such times, to the end that she may know them--that she
+may identify them. I believe,” said Mr. Lorry, rather halting in his
+reassuring words, as the stony manner of all the three impressed itself
+upon him more and more, “I state the case, Citizen Defarge?”
+
+Defarge looked gloomily at his wife, and gave no other answer than a
+gruff sound of acquiescence.
+
+“You had better, Lucie,” said Mr. Lorry, doing all he could to
+propitiate, by tone and manner, “have the dear [[Child|child]] here, and our
+good Pross. Our good Pross, Defarge, is an English lady, and knows no
+French.”
+
+The lady in question, whose rooted conviction that she was more than a
+match for any foreigner, was not to be shaken by distress and, danger,
+appeared with folded arms, and observed in English to The Vengeance,
+whom her eyes first encountered, “[[Well]], I am sure, Boldface! I [[Hope|hope]]
+_you_ are pretty [[Well|well]]!” She also bestowed a British cough on Madame
+Defarge; but, neither of the two took much heed of her.
+
+“Is that his [[Child|child]]?” said [[Madame Defarge]], stopping in her work for the
+first [[Time|time]], and pointing her knitting-needle at little Lucie as if it
+were the finger of Fate.
+
+“Yes, madame,” answered Mr. Lorry; “this is our poor prisoner’s darling
+daughter, and only [[Child|child]].”
+
+The [[Shadow|shadow]] attendant on [[Madame Defarge]] and her party seemed to fall so
+threatening and dark on the [[Child|child]], that her mother instinctively
+kneeled on the ground beside her, and held her to her breast. The
+[[Shadow|shadow]] attendant on [[Madame Defarge]] and her party seemed then to fall,
+threatening and dark, on both the mother and the [[Child|child]].
+
+“It is enough, my husband,” said [[Madame Defarge]]. “I have seen them. We
+may go.”
+
+But, the suppressed manner had enough of menace in it--not visible and
+presented, but indistinct and withheld--to alarm Lucie into saying, as
+she laid her appealing hand on [[Madame Defarge]]’s dress:
+
+“You will be good to my poor husband. You will do him no harm. You will
+help me to see him if you can?”
+
+“Your husband is not my business here,” returned [[Madame Defarge]], looking
+down at her with perfect composure. “It is the daughter of your father
+who is my business here.”
+
+“For my sake, then, be merciful to my husband. For my [[Child|child]]’s sake! She
+will put her hands together and pray you to be merciful. We are more
+afraid of you than of these others.”
+
+[[Madame Defarge]] received it as a compliment, and looked at her husband.
+Defarge, who had been uneasily biting his thumb-nail and looking at her,
+collected his face into a sterner expression.
+
+“What is it that your husband says in that little letter?” asked Madame
+Defarge, with a lowering smile. “Influence; he says something touching
+influence?”
+
+“That my father,” said Lucie, hurriedly taking the paper from her
+breast, but with her alarmed eyes on her questioner and not on it, “has
+much influence around him.”
+
+“Surely it will release him!” said [[Madame Defarge]]. “Let it do so.”
+
+“As a wife and mother,” cried Lucie, most earnestly, “I implore you to
+have pity on me and not to exercise any power that you possess, against
+my [[Innocent|innocent]] husband, but to use it in his behalf. O sister-woman, think
+of me. As a wife and mother!”
+
+[[Madame Defarge]] looked, coldly as ever, at the suppliant, and said,
+turning to her friend The Vengeance:
+
+“The wives and mothers we have been used to see, since we were as little
+as this [[Child|child]], and much less, have not been greatly considered? We have
+known _their_ husbands and fathers laid in [[Prison|prison]] and kept from them,
+often enough? All our lives, we have seen our sister-women suffer, in
+themselves and in their children, [[Poverty|poverty]], [[Nakedness|nakedness]], hunger, thirst,
+sickness, misery, oppression and neglect of all kinds?”
+
+“We have seen nothing else,” returned The Vengeance.
+
+“We have borne this a long [[Time|time]],” said [[Madame Defarge]], turning her eyes
+again upon Lucie. “Judge you! Is it likely that the trouble of one wife
+and mother would be much to us now?”
+
+She resumed her knitting and went out. The Vengeance followed. Defarge
+went last, and closed the door.
+
+“[[Courage]], my dear Lucie,” said Mr. Lorry, as he raised her. “[[Courage]],
+[[Courage|courage]]! So far all goes [[Well|well]] with us--much, much better than it has of
+late gone with many poor souls. Cheer up, and have a thankful heart.”
+
+“I am not thankless, I [[Hope|hope]], but that dreadful woman seems to throw a
+[[Shadow|shadow]] on me and on all my hopes.”
+
+“Tut, tut!” said Mr. Lorry; “what is this despondency in the brave
+little breast? A [[Shadow|shadow]] indeed! No substance in it, Lucie.”
+
+But the [[Shadow|shadow]] of the manner of these Defarges was dark upon himself,
+for all that, and in his secret mind it troubled him greatly.

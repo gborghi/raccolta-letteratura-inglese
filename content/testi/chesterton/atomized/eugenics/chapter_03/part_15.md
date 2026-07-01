@@ -1,5 +1,5 @@
 ---
-title: "[[Eugenics]] — Part 2 (part 15)"
+title: "Eugenics — Part 2 (part 15)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/eugenics-(chesterton)"
@@ -114,21 +114,3 @@ the immovable post against which the irresistible force of Capitalist
 [[Individualism|individualism]] was arrested.  Business men who said that nothing
 could be managed by the State were forced to admit that they trusted
 all their business letters and business telegrams to the State.
-
-After all, it was not found necessary to have an office competing
-with another office, trying to send out pinker postage-stamps
-or more picturesque postmen.  It was not necessary to efficiency
-that the postmistress should buy a penny stamp for a halfpenny and
-sell it for two pence; or that she should haggle and beat customers
-down about the price of a postal order; or that she should always
-take tenders for telegrams.  There was obviously nothing actually
-impossible about the State management of national needs; and the
-Post Office was at least tolerably managed.  Though it was not always
-a model employer, by any means, it might be made so by similar methods.
-It was not impossible that equitable pay, and even equal pay,
-could be given to the Post-Master-General and the postman.
-We had only to extend this rule of public responsibility,
-and we should escape from all the terror of insecurity and torture
-of compassion, which hag-rides humanity in the insane extremes
-of economic inequality and injustice.  As Mr. [[Shaw]] put it, "A man
-must save Society's [[Honour|honour]] before he can save his own."

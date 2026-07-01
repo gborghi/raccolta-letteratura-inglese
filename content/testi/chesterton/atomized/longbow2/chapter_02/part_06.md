@@ -1,5 +1,5 @@
 ---
-title: "[[longbow2]] — Chapter 2 (part 6)"
+title: "longbow2 — Chapter 2 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -17,7 +17,7 @@ tags:
 Hood spoke.  "And when you shall see the abomination of desolation
 sitting in the Holy of Holies--isn't that when the world is supposed
 to end?  I wish the world would end now; with you and me standing
-on a [[Hill|hill]]."
+on a hill."
 
 She was staring at the place with parted lips and more than her
 ordinary pallor; he knew she understood something monstrous and
@@ -31,26 +31,26 @@ of the election.  But the girl had already found her voice.
 "Is that Dr. Hunter?" she asked with commonplace curiosity;
 "is he standing for parliament?"
 
-A load that lay on Hood's mind like a rock suddenly [[Rose|rose]] like an eagle;
-and he felt as if the [[Hill|hill]] he stood on were higher than Everest. 
-By the insight of his own insanity, he knew [[Well|well]] enough that SHE
-would have known [[Well|well]] enough whether Hunter was standing, if--
+A load that lay on Hood's mind like a rock suddenly rose like an eagle;
+and he felt as if the hill he stood on were higher than Everest. 
+By the insight of his own insanity, he knew well enough that SHE
+would have known well enough whether Hunter was standing, if--
 if there had been anything like what he supposed.  The removal
 of the steadying weight staggered him, and he had said something
 quite indefensible.
 
 "I thought you would know.  I thought you and he were probably--
-[[Well|well]], the [[Truth|truth]] is I thought you were engaged, though I really
+well, the truth is I thought you were engaged, though I really
 don't know why."
 
 "I can't imagine why," said Elizabeth Seymour.  "I heard he was engaged
 to Lord Normantower's daughter.  They've got our old place now,
 you know."
 
-There was a [[Silence|silence]] and then Hood spoke suddenly in a loud
+There was a silence and then Hood spoke suddenly in a loud
 and cheerful voice.
 
-"[[Well]], what I say is, `Vote for Hunter,'" he said heartily. 
+"Well, what I say is, `Vote for Hunter,'" he said heartily. 
 "After all, why not vote for Hunter?  Good old Hunter!  I [[Hope|hope]]
 he'll be a member of Parliament.  I [[Hope|hope]] he'll be Prime Minister. 
 I [[Hope|hope]] he'll be President of the World State that Wells talks about. 

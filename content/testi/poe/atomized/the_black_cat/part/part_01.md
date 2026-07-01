@@ -1,5 +1,5 @@
 ---
-title: "[[The Black Cat]] (part 1)"
+title: "The Black Cat (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-black-cat-(poe)"

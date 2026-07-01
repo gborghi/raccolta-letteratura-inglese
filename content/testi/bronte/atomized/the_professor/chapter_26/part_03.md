@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 25 (part 3)"
+title: "The Professor — Chapter 25 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_professor/chapter_26/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/the_professor/chapter_26/part_04">part 04 ›</a></div>
 </nav>
 
+
+formulas--she made her own phrases as she went on, and very nervous
+
+and impressive phrases they frequently were; often, when elucidating
+
+favourite points of [[history]], or geography, she would wax genuinely
+
+eloquent in her earnestness. Her pupils, or at least the elder and more
+
+intelligent amongst them, recognized [[Well|well]] the language of a superior
 
 mind; they felt too, and some of them received the impression of
 
@@ -78,8 +88,6 @@ enthusiastic heart and clever head, for her generosity and her genius,
 
 the title and rank went for nothing.
 
-
-
 My afternoons were spent also in college, with the exception of an hour
 
 that my wife daily exacted of me for her establishment, and with which
@@ -106,8 +114,6 @@ she did it was with an air of marked deference; it was her pleasure, her
 
 joy to make me still the master in all things.
 
-
-
 At six o’[[Clock|clock]] P.M. my daily labours ceased. I then came [[Home|home]], for
 
 my [[Home|home]] was my heaven; ever at that hour, as I entered our private
@@ -121,8 +127,6 @@ arms; much disappointed she would have been if her master had not been
 as constant to the tryst as herself, and if his truthfull kiss had not
 
 been prompt to answer her soft, “Bon soir, monsieur.”
-
-
 
 Talk French to me she would, and many a punishment she has had for
 
@@ -175,19 +179,3 @@ place. I had seized a mere vexing fairy, and found a submissive and
 supplicating little mortal woman in my arms. Then I made her get a book,
 
 and read English to me for an hour by way of penance. I frequently dosed
-
-her with Wordsworth in this way, and Wordsworth steadied her soon; she
-
-had a difficulty in comprehending his deep, serene, and sober mind; his
-
-language, too, was not facile to her; she had to ask questions, to sue
-
-for explanations, to be like a [[Child|child]] and a novice, and to acknowledge
-
-me as her senior and director. Her instinct instantly penetrated and
-
-possessed the meaning of more ardent and imaginative writers. Byron
-
-excited her; Scott she loved; Wordsworth only she puzzled at, wondered
-
-over, and hesitated to pronounce an opinion upon.

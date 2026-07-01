@@ -1,5 +1,5 @@
 ---
-title: "[[Pericles]] — Scene 1 — exchange ([[Antiochus|ANTIOCHUS]]) [7]"
+title: "Pericles — Scene 1 — exchange (ANTIOCHUS) [7]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/pericles-(shakespeare)"

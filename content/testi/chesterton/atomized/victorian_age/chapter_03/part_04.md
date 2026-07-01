@@ -14,6 +14,22 @@ tags:
 </nav>
 
 
+and Browning really had something to say about them. But he said it in
+
+some of the plainest and most unmistakable words in all literature; as
+
+lucid as a flash of [[Lightning|lightning]]. "Pompilia, will you let them murder me?"
+
+Or again, he did really want to say that [[Death|death]] and such moral terrors
+
+were best taken in a military spirit; he could not have said it more
+
+simply than: "I was ever a fighter; one fight more, the best and the
+
+last." He did really wish to say that human life was unworkable unless
+
+[[Immortality|immortality]] were implied in it every other moment; he could not have
+
 said it more simply: "leave now to [[dogs]] and apes; Man has for ever." The
 
 obscurities were not merely superficial, but often covered quite
@@ -73,8 +89,6 @@ the world. He substituted the street with the green blind for the faded
 [[Garden|garden]] of Watteau, and the "blue spirt of a lighted match" for the
 
 monotony of the [[Evening Star|evening star]].
-
-
 
 Before leaving him it should be added that he was fitted to deepen the
 
@@ -138,13 +152,9 @@ any positive political fact, such as the final fall of Napoleon.
 
 Tennyson wrote these profoundly foolish lines--
 
-
-
     "He thought to quell the stubborn hearts of oak
 
     Madman!"
-
-
 
 as if the defeat of an English regiment were a violation of the laws of
 
@@ -154,11 +164,7 @@ Tennyson did; but she knew the [[Truth|truth]]. Her [[Epigram|epigram]] on Napol
 
 in one line
 
-
-
     "And kings crept out again to feel the sun."
-
-
 
 Talleyrand would have clapped his horrible old hands at that. Her
 
@@ -177,25 +183,3 @@ Mrs. Browning was like all the other Victorians in going a little lame,
 as I have roughly called it, having one leg shorter than the other. But
 
 her case was, in one sense, extreme. She exaggerated both ways. She was
-
-too strong and too weak, or (as a false sex [[philosophy]] would express it)
-
-too masculine and too feminine. I mean that she hit the centre of
-
-weakness with almost the same emphatic precision with which she hit the
-
-centre of strength. She could write finally of the factory wheels
-
-"grinding life down from its mark," a strong and strictly true
-
-observation. Unfortunately she could also write of Euripides "with his
-
-droppings of warm [[Tears|tears]]." She could write in _A Drama of Exile_, a
-
-really fine exposition, touching the later relation of Adam and the
-
-[[Animals|animals]]: unfortunately the [[Tears|tears]] were again turned on at the wrong
-
-moment at the main; and the stage direction commands a [[Silence|silence]], only
-
-broken by the dropping of angel's [[Tears|tears]]. How much noise is made by

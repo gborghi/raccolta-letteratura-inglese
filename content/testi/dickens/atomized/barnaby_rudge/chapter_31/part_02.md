@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 31 (part 2)"
+title: "Barnaby Rudge — Chapter 31 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_31/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_31/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘What noisy fellow is that in the next room?’ said Joe, when he had
+disposed of his breakfast, and had washed and brushed himself.
+
+‘A recruiting serjeant,’ replied the [[Lion]].
 
 Joe started involuntarily. Here was the very thing he had been dreaming
 of, all the way along.
@@ -141,7 +146,3 @@ in his, in the excess of his admiration. ‘You’re the boy to push your
 fortune. I don’t say it because I bear you any envy, or would take away
 from the credit of the rise you’ll make, but if I had been bred and
 taught like you, I’d have been a colonel by this [[Time|time]].’
-
-‘Tush, man!’ said Joe, ‘I’m not so young as that. Needs must when the
-devil drives; and the devil that drives me is an empty pocket and an
-unhappy [[Home|home]]. For the present, good-bye.’

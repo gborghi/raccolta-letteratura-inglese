@@ -157,7 +157,3 @@ again, until the [[Silence|silence]] was again broken.
 
 “You are not a shoemaker by trade?” said Mr. Lorry, looking steadfastly
 at him.
-
-His haggard eyes turned to Defarge as if he would have transferred the
-question to him: but as no help came from that quarter, they turned back
-on the questioner when they had sought the ground.

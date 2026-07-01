@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 15 (part 1)"
+title: "Our Mutual Friend — Chapter 1 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,145 +10,131 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_38/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_39/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_38/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_39/part_02">part 02 ›</a></div>
 </nav>
 
 
-Chapter 15
+BOOK THE THIRD — A LONG LANE
+Chapter 1
 
-THE WHOLE CASE SO FAR
+LODGERS IN QUEER STREET
 
 
-[[Bradley Headstone]] held fast by that other interview he was to have with
-[[Lizzie Hexam]]. In stipulating for it, he had been impelled by a feeling
-little short of desperation, and the feeling abided by him. It was very
-soon after his interview with the Secretary, that he and Charley Hexam
-set out one leaden evening, not unnoticed by Miss Peecher, to have this
-desperate interview accomplished.
+It was a foggy day in [[London]], and the fog was heavy and dark. Animate
+[[London]], with smarting eyes and irritated lungs, was blinking, wheezing,
+and choking; inanimate [[London]] was a sooty spectre, divided in purpose
+between being visible and invisible, and so being wholly neither.
+Gaslights flared in the shops with a haggard and unblest air, as knowing
+themselves to be [[Night|night]]-creatures that had no business abroad under the
+sun; while the sun itself when it was for a few moments dimly indicated
+through circling eddies of fog, showed as if it had gone out and were
+collapsing flat and cold. Even in the surrounding country it was a foggy
+day, but there the fog was grey, whereas in [[London]] it was, at about
+the boundary line, dark yellow, and a little within it brown, and then
+browner, and then browner, until at the heart of the [[City]]—which call
+Saint Mary Axe—it was rusty-black. From any point of the high ridge of
+land northward, it might have been discerned that the loftiest buildings
+made an occasional struggle to get their heads above the foggy sea, and
+especially that the great dome of Saint Paul’s seemed to die hard; but
+this was not perceivable in the streets at their feet, where the whole
+metropolis was a heap of vapour charged with muffled sound of wheels,
+and enfolding a gigantic catarrh.
 
-‘That dolls’ dressmaker,’ said Bradley, ‘is favourable neither to me nor
-to you, Hexam.’
+At nine o’[[Clock|clock]] on such a morning, the place of business of Pubsey and
+Co. was not the liveliest object even in Saint Mary Axe—which is not a
+very lively spot—with a sobbing gaslight in the counting-[[house]] [[Window|window]],
+and a burglarious stream of fog creeping in to strangle it through the
+keyhole of the main door. But the light went out, and the main door
+opened, and Riah came forth with a bag under his arm.
 
-‘A pert crooked little chit, Mr Headstone! I knew she would put herself
-in the way, if she could, and would be sure to strike in with something
-impertinent. It was on that account that I proposed our going to the
-[[City]] to-[[Night|night]] and meeting my sister.’
+Almost in the act of coming out at the door, Riah went into the fog, and
+was lost to the eyes of Saint Mary Axe. But the eyes of this [[history]]
+can follow him westward, by Cornhill, Cheapside, Fleet Street, and the
+Strand, to Piccadilly and the Albany. Thither he went at his [[Grave|grave]] and
+measured pace, staff in hand, skirt at heel; and more than one head,
+turning to look back at his venerable figure already lost in the mist,
+supposed it to be some ordinary figure indistinctly seen, which fancy
+and the fog had worked into that passing likeness.
 
-‘So I supposed,’ said Bradley, getting his gloves on his nervous hands
-as he walked. ‘So I supposed.’
+Arrived at the [[house]] in which his master’s chambers were on the
+second floor, Riah proceeded up the stairs, and paused at Fascination
+Fledgeby’s door. Making free with neither bell nor knocker, he struck
+upon the door with the top of his staff, and, having listened, sat down
+on the threshold. It was characteristic of his habitual submission,
+that he sat down on the raw dark staircase, as many of his ancestors
+had probably sat down in dungeons, taking what befell him as it might
+befall.
 
-‘Nobody but my sister,’ pursued Charley, ‘would have found out such an
-extraordinary companion. She has done it in a ridiculous fancy of giving
-herself up to another. She told me so, that [[Night|night]] when we went there.’
+After a [[Time|time]], when he had grown so cold as to be fain to blow upon his
+fingers, he arose and knocked with his staff again, and listened again,
+and again sat down to wait. Thrice he repeated these actions before his
+listening ears were greeted by the voice of Fledgeby, calling from his
+bed, ‘Hold your row!—I’ll come and open the door directly!’ But, in
+lieu of coming directly, he fell into a sweet [[Sleep|sleep]] for some quarter of
+an hour more, during which added interval Riah sat upon the stairs and
+waited with perfect patience.
 
-‘Why should she give herself up to the dressmaker?’ asked Bradley.
+At length the door stood open, and Mr Fledgeby’s retreating drapery
+plunged into bed again. Following it at a respectful distance, Riah
+passed into the bed-chamber, where a [[Fire|fire]] had been sometime lighted, and
+was burning briskly.
 
-‘Oh!’ said the boy, colouring. ‘One of her romantic ideas! I tried to
-convince her so, but I didn’t succeed. However, what we have got to do,
-is, to succeed to-[[Night|night]], Mr Headstone, and then all the rest follows.’
+‘Why, what [[Time|time]] of [[Night|night]] do you mean to call it?’ inquired Fledgeby,
+turning away beneath the clothes, and presenting a comfortable rampart
+of shoulder to the chilled figure of the old man.
 
-‘You are still sanguine, Hexam.’
+‘Sir, it is full half-past ten in the morning.’
 
-‘Certainly I am, sir. Why, we have everything on our side.’
+‘The deuce it is! Then it must be precious foggy?’
 
-‘Except your sister, perhaps,’ thought Bradley. But he only gloomily
-thought it, and said nothing.
+‘Very foggy, sir.’
 
-‘Everything on our side,’ repeated the boy with boyish confidence.
-‘Respectability, an excellent connexion for me, common sense,
-everything!’
+‘And raw, then?’
 
-‘To be sure, your sister has always shown herself a devoted sister,’
-said Bradley, willing to sustain himself on even that low ground of
-[[Hope|hope]].
+‘Chill and bitter,’ said Riah, drawing out a handkerchief, and wiping
+the moisture from his beard and long grey hair as he stood on the verge
+of the rug, with his eyes on the acceptable [[Fire|fire]].
 
-‘Naturally, Mr Headstone, I have a good deal of influence with her.
-And now that you have honoured me with your confidence and spoken to me
-first, I say again, we have everything on our side.’
+With a plunge of enjoyment, Fledgeby settled himself afresh.
 
-And Bradley thought again, ‘Except your sister, perhaps.’
+‘Any [[Snow|snow]], or sleet, or slush, or anything of that sort?’ he asked.
 
-A grey dusty withered evening in [[London]] [[City|city]] has not a hopeful aspect.
-The closed warehouses and offices have an air of [[Death|death]] about them, and
-the national dread of colour has an air of mourning. The towers and
-steeples of the many [[house]]-encompassed churches, dark and dingy as the
-sky that seems descending on them, are no relief to the general gloom;
-a sun-dial on a church-wall has the look, in its useless black shade,
-of having failed in its business enterprise and stopped payment for
-ever; [[Melancholy|melancholy]] waifs and strays of housekeepers and porters sweep
-[[Melancholy|melancholy]] waifs and strays of papers and pins into the kennels, and
-other more [[Melancholy|melancholy]] waifs and strays explore them, searching and
-stooping and poking for anything to sell. The set of humanity outward
-from the [[City]] is as a set of prisoners departing from gaol, and dismal
-Newgate seems quite as fit a stronghold for the mighty [[Lord Mayor]] as
-his own state-dwelling.
+‘No, sir, no. Not quite so bad as that. The streets are pretty clean.’
 
-On such an evening, when the [[City|city]] grit gets into the hair and eyes and
-skin, and when the fallen [[Leaves|leaves]] of the few unhappy [[City|city]] trees grind
-down in corners under wheels of [[Wind|wind]], the schoolmaster and the pupil
-emerged upon the Leadenhall Street region, spying eastward for Lizzie.
-Being something too soon in their arrival, they lurked at a corner,
-waiting for her to appear. The best-looking among us will not look very
-[[Well|well]], lurking at a corner, and Bradley came out of that disadvantage
-very poorly indeed.
+‘You needn’t brag about it,’ returned Fledgeby, disappointed in his
+[[Desire|desire]] to heighten the contrast between his bed and the streets. ‘But
+you’re always bragging about something. Got the books there?’
 
-‘Here she comes, Mr Headstone! Let us go forward and meet her.’
+‘They are here, sir.’
 
-As they advanced, she saw them coming, and seemed rather troubled. But
-she greeted her brother with the usual warmth, and touched the extended
-hand of Bradley.
+‘All right. I’ll turn the general subject over in my mind for a minute
+or two, and while I’m about it you can empty your bag and get ready for
+me.’
 
-‘Why, where are you going, Charley, dear?’ she asked him then.
+With another comfortable plunge, Mr Fledgeby fell asleep again. The old
+man, having obeyed his directions, sat down on the edge of a chair, and,
+folding his hands before him, gradually yielded to the influence of the
+warmth, and dozed. He was roused by Mr Fledgeby’s appearing erect at
+the foot of the bed, in Turkish slippers, [[Rose|rose]]-coloured Turkish trousers
+(got cheap from somebody who had cheated some other somebody out of
+them), and a gown and cap to correspond. In that costume he would have
+left nothing to be desired, if he had been further fitted out with a
+bottomless chair, a lantern, and a bunch of matches.
 
-‘Nowhere. We came on purpose to meet you.’
+‘Now, old ’un!’ cried Fascination, in his light raillery, ‘what dodgery
+are you up to next, sitting there with your eyes shut? You ain’t asleep.
+Catch a weasel at it, and catch a Jew!’
 
-‘To meet me, Charley?’
+‘Truly, sir, I [[Fear|fear]] I nodded,’ said the old man.
 
-‘Yes. We are going to walk with you. But don’t let us take the great
-leading streets where every one walks, and we can’t hear ourselves
-speak. Let us go by the quiet backways. Here’s a large paved [[Court|court]] by
-this church, and quiet, too. Let us go up here.’
+‘Not you!’ returned Fledgeby, with a cunning look. ‘A telling move with
+a good many, I dare say, but it won’t put ME off my guard. Not a bad
+notion though, if you want to look indifferent in driving a bargain. Oh,
+you are a dodger!’
 
-‘But it’s not in the way, Charley.’
-
-‘Yes it is,’ said the boy, petulantly. ‘It’s in my way, and my way is
-yours.’
-
-She had not released his hand, and, still holding it, looked at him with
-a kind of appeal. He avoided her eyes, under pretence of saying, ‘Come
-along, Mr Headstone.’ Bradley walked at his side—not at hers—and the
-brother and sister walked hand in hand. The [[Court|court]] brought them to a
-churchyard; a paved square [[Court|court]], with a raised bank of earth about
-breast high, in the middle, enclosed by iron rails. Here, conveniently
-and healthfully elevated above the level of the living, were the dead,
-and the tombstones; some of the latter droopingly inclined from the
-perpendicular, as if they were ashamed of the lies they told.
-
-They paced the whole of this place once, in a constrained and
-uncomfortable manner, when the boy stopped and said:
-
-‘Lizzie, Mr Headstone has something to say to you. I don’t wish to be an
-interruption either to him or to you, and so I’ll go and take a little
-stroll and come back. I know in a general way what Mr Headstone intends
-to say, and I very highly approve of it, as I [[Hope|hope]]—and indeed I do
-not [[Doubt|doubt]]—you will. I needn’t tell you, Lizzie, that I am under great
-obligations to Mr Headstone, and that I am very anxious for Mr Headstone
-to succeed in all he undertakes. As I [[Hope|hope]]—and as, indeed, I don’t
-[[Doubt|doubt]]—you must be.’
-
-‘Charley,’ returned his sister, detaining his hand as he withdrew it, ‘I
-think you had better stay. I think Mr Headstone had better not say what
-he thinks of saying.’
-
-‘Why, how do you know what it is?’ returned the boy.
-
-‘Perhaps I don’t, but—’
-
-‘Perhaps you don’t? No, Liz, I should think not. If you knew what
-it was, you would give me a very different answer. There; let go; be
-sensible. I [[Wonder|wonder]] you don’t remember that Mr Headstone is looking on.’
-
-She allowed him to separate himself from her, and he, after saying, ‘Now
-Liz, be a rational girl and a good sister,’ walked away. She remained
-standing [[Alone|alone]] with [[Bradley Headstone]], and it was not until she raised
-her eyes, that he spoke.
+The old man shook his head, gently repudiating the imputation, and
+suppressed a sigh, and moved to the table at which Mr Fledgeby was now
+pouring out for himself a cup of steaming and fragrant coffee from a pot
+that had stood ready on the hob. It was an edifying spectacle, the young
+man in his easy chair taking his coffee, and the old man with his grey
+head bent, standing awaiting his pleasure.

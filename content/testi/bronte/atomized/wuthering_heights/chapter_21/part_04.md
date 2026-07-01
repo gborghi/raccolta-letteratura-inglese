@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 21 (part 4)"
+title: "Wuthering Heights — Chapter 21 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_21/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_21/part_05">part 05 ›</a></div>
 </nav>
 
+
+[[Heathcliff]] chuckled a fiendish laugh at the idea. I made no reply,
+because I saw that he expected none. Meantime, our young companion, who
+sat too removed from us to hear what was said, began to evince symptoms
+of uneasiness, probably repenting that he had denied himself the treat
+of Catherine’s society for [[Fear|fear]] of a little fatigue. His father
+remarked the restless glances wandering to the [[Window|window]], and the hand
+irresolutely extended towards his cap.
 
 “Get up, you idle boy!” he exclaimed, with assumed heartiness. “Away
 after them! they are just at the corner, by the stand of hives.”
@@ -124,23 +132,3 @@ you, because you had quarrelled with him, and would not forgive him for
 marrying aunt [[Isabella]]. And you won’t. _You_ are the one to be blamed:
 he is willing to let _us_ be friends, at least; Linton and I; and you
 are not.”
-
-My master, perceiving that she would not take his word for her
-uncle-in-law’s evil disposition, gave a hasty [[Sketch|sketch]] of his conduct to
-[[Isabella]], and the manner in which [[Wuthering Heights]] became his
-property. He could not bear to discourse long upon the topic; for
-though he spoke little of it, he still felt the same horror and
-detestation of his ancient enemy that had occupied his heart ever since
-Mrs. Linton’s [[Death|death]]. “She might have been living yet, if it had not
-been for him!” was his constant bitter reflection; and, in his eyes,
-[[Heathcliff]] seemed a murderer. Miss Cathy—conversant with no bad deeds
-except her own slight acts of disobedience, injustice, and passion,
-arising from hot temper and thoughtlessness, and repented of on the day
-they were committed—was amazed at the blackness of spirit that could
-brood on and cover [[Revenge|revenge]] for years, and deliberately prosecute its
-plans without a visitation of remorse. She appeared so deeply impressed
-and shocked at this new view of human [[Nature|nature]]—excluded from all her
-studies and all her ideas till now—that Mr. [[Edgar]] deemed it unnecessary
-to pursue the subject. He merely added: “You will know hereafter,
-darling, why I wish you to avoid his [[house]] and family; now return to
-your old employments and amusements, and think no more about them.”

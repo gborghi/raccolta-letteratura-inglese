@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 9 (part 2)"
+title: "Dombey and Son — Chapter 37 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,131 +14,119 @@ tags:
 </nav>
 
 
-“What is it, Uncle? Customers?”
+Edith could not look at him, but she said after a few moments.
 
-“Ay,” returned Solomon, with a sigh. “Customers would do.”
+“And your business, Sir—”
 
-“Confound it, Uncle!” said Walter, putting down his breakfast cup with
-a clatter, and striking his hand on the table: “when I see the people
-going up and down the street in shoals all day, and passing and
-re-passing the shop every minute, by scores, I feel half tempted to
-rush out, collar somebody, bring him in, and make him buy fifty pounds’
-worth of instruments for ready money. What are you looking in at the
-door for?—” continued Walter, apostrophizing an old gentleman with a
-powdered head (inaudibly to him of course), who was staring at a [[Ship|ship]]’s
-telescope with all his might and main. “That’s no use. I could do that.
-Come in and buy it!”
+“Edith, my pet,” said Mrs Skewton, “all this [[Time|time]] Mr Carker is
+standing! My dear Mr Carker, take a seat, I beg.”
 
-The old gentleman, however, having satiated his curiosity, walked
-calmly away.
+He offered no reply to the mother, but fixed his eyes on the proud
+daughter, as though he would only be bidden by her, and was resolved to
+be bidden by her. Edith, in spite of herself, sat down, and slightly
+motioned with her hand to him to be seated too. No action could be
+colder, haughtier, more insolent in its air of supremacy and
+disrespect, but she had struggled against even that concession
+ineffectually, and it was wrested from her. That was enough! Mr Carker
+sat down.
 
-“There he goes!” said Walter. “That’s the way with ’em all. But,
-Uncle—I say, Uncle Sol”—for the old man was meditating and had not
-responded to his first appeal. “Don’t be cast down. Don’t be out of
-spirits, Uncle. When orders do come, they’ll come in such a crowd, you
-won’t be able to execute ’em.”
+“May I be allowed, Madam,” said Carker, turning his white teeth on Mrs
+Skewton like a light—“a lady of your excellent sense and quick feeling
+will give me credit, for good reason, I am sure—to address what I have
+to say, to Mrs Dombey, and to leave her to impart it to you who are her
+best and dearest friend—next to Mr Dombey?”
 
-“I shall be past executing ’em, whenever they come, my boy,” returned
-[[Solomon Gills]]. “They’ll never come to this shop again, till I am out of
-t.”
+Mrs Skewton would have retired, but Edith stopped her. Edith would have
+stopped him too, and indignantly ordered him to speak openly or not at
+all, but that he said, in a low Voice—“Miss Florence—the young lady who
+has just left the room—”
 
-“I say, Uncle! You musn’t really, you know!” urged Walter. “Don’t!”
+Edith suffered him to proceed. She looked at him now. As he bent
+forward, to be nearer, with the utmost show of delicacy and respect,
+and with his teeth persuasively arrayed, in a [[Self|self]]-depreciating smile,
+she felt as if she could have struck him dead.
 
-Old Sol endeavoured to assume a cheery look, and smiled across the
-little table at him as pleasantly as he could.
+“Miss Florence’s position,” he began, “has been an unfortunate one. I
+have a difficulty in alluding to it to you, whose attachment to her
+father is naturally watchful and jealous of every word that applies to
+him.” Always distinct and soft in speech, no language could describe
+the extent of his distinctness and softness, when he said these words,
+or came to any others of a similar import. “But, as one who is devoted
+to Mr Dombey in his different way, and whose life is passed in
+admiration of Mr Dombey’s character, may I say, without offence to your
+tenderness as a wife, that Miss Florence has unhappily been
+neglected—by her father. May I say by her father?”
 
-“There’s nothing more than usual the matter; is there, Uncle?” said
-Walter, leaning his elbows on the tea tray, and bending over, to speak
-the more confidentially and kindly. “Be open with me, Uncle, if there
-is, and tell me all about it.”
+Edith replied, “I know it.”
 
-“No, no, no,” returned Old Sol. “More than usual? No, no. What should
-there be the matter more than usual?”
+“You know it!” said Mr Carker, with a great appearance of relief. “It
+removes a mountain from my breast. May I [[Hope|hope]] you know how the neglect
+originated; in what an amiable phase of Mr Dombey’s [[Pride|pride]]—character I
+mean?”
 
-Walter answered with an incredulous shake of his head. “That’s what I
-want to know,” he said, “and you ask me! I’ll tell you what, Uncle,
-when I see you like this, I am quite sorry that I live with you.”
+“You may pass that by, Sir,” she returned, “and come the sooner to the
+end of what you have to say.”
 
-Old Sol opened his eyes involuntarily.
+“Indeed, I am sensible, Madam,” replied Carker,—“trust me, I am deeply
+sensible, that Mr Dombey can require no justification in anything to
+you. But, kindly judge of my breast by your own, and you will forgive
+my interest in him, if in its excess, it goes at all astray.”
 
-“Yes. Though nobody ever was happier than I am and always have been
-with you, I am quite sorry that I live with you, when I see you with
-anything in your mind.”
+What a stab to her proud heart, to sit there, face to face with him,
+and have him tendering her false oath at the altar again and again for
+her acceptance, and pressing it upon her like the dregs of a sickening
+cup she could not own her loathing of, or turn away from! How shame,
+remorse, and passion raged within her, when, upright and majestic in
+her [[Beauty|beauty]] before him, she knew that in her spirit she was down at his
+feet!
 
-“I am a little dull at such times, I know,” observed Solomon, meekly
-rubbing his hands.
+“Miss Florence,” said Carker, “left to the care—if one may call it
+care—of servants and mercenary people, in every way her inferiors,
+necessarily wanted some guide and compass in her younger days, and,
+naturally, for want of them, has been indiscreet, and has in some
+degree forgotten her station. There was some folly about one Walter, a
+common lad, who is fortunately dead now: and some very undesirable
+association, I regret to say, with certain coasting sailors, of
+anything but good repute, and a runaway old bankrupt.”
 
-“What I mean, Uncle Sol,” pursued Walter, bending over a little more to
-pat him on the shoulder, “is, that then I feel you ought to have,
-sitting here and pouring out the tea instead of me, a nice little
-dumpling of a wife, you know,—a comfortable, capital, cosy old lady,
-who was just a match for you, and knew how to manage you, and keep you
-in good heart. Here am I, as loving a nephew as ever was (I am sure I
-ought to be!) but I am only a nephew, and I can’t be such a companion
-to you when you’re low and out of sorts as she would have made herself,
-years ago, though I’m sure I’d give any money if I could cheer you up.
-And so I say, when I see you with anything on your mind, that I feel
-quite sorry you haven’t got somebody better about you than a blundering
-young rough-and-tough boy like me, who has got the will to console you,
-Uncle, but hasn’t got the way—hasn’t got the way,” repeated Walter,
-reaching over further yet, to shake his Uncle by the hand.
+“I have heard the circumstances, Sir,” said Edith, flashing her
+disdainful glance upon him, “and I know that you pervert them. You may
+not know it. I [[Hope|hope]] so.”
 
-“Wally, my dear boy,” said Solomon, “if the cosy little old lady had
-taken her place in this parlour five and forty years ago, I never could
-have been fonder of her than I am of you.”
+“Pardon me,” said Mr Carker, “I believe that nobody knows them so [[Well|well]]
+as I. Your generous and ardent [[Nature|nature]], Madam—the same [[Nature|nature]] which is
+so nobly imperative in vindication of your beloved and honoured
+husband, and which has blessed him as even his merits deserve—I must
+respect, defer to, bow before. But, as regards the circumstances, which
+is indeed the business I presumed to solicit your attention to, I can
+have no [[Doubt|doubt]], since, in the execution of my trust as Mr Dombey’s
+confidential—I presume to say—friend, I have fully ascertained them. In
+my execution of that trust; in my deep concern, which you can so [[Well|well]]
+understand, for everything relating to him, intensified, if you will
+(for I [[Fear|fear]] I labour under your displeasure), by the lower motive of
+[[Desire|desire]] to prove my diligence, and make myself the more acceptable; I
+have long pursued these circumstances by myself and trustworthy
+instruments, and have innumerable and most minute proofs.”
 
-“I know that, Uncle Sol,” returned Walter. “Lord bless you, I know
-that. But you wouldn’t have had the whole weight of any uncomfortable
-[[Secrets|secrets]] if she had been with you, because she would have known how to
-relieve you of ’em, and I don’t.”
+She raised her eyes no higher than his mouth, but she saw the means of
+mischief vaunted in every tooth it contained.
 
-“Yes, yes, you do,” returned the Instrument-maker.
+“Pardon me, Madam,” he continued, “if in my perplexity, I presume to
+take counsel with you, and to consult your pleasure. I think I have
+observed that you are greatly interested in Miss Florence?”
 
-“[[Well]] then, what’s the matter, Uncle Sol?” said Walter, coaxingly.
-“Come! What’s the matter?”
+What was there in her he had not observed, and did not know? Humbled
+and yet maddened by the thought, in every new presentment of it,
+however faint, she pressed her teeth upon her quivering lip to force
+composure on it, and distantly inclined her head in reply.
 
-[[Solomon Gills]] persisted that there was nothing the matter; and
-maintained it so resolutely, that his nephew had no resource but to
-make a very indifferent [[Imitation|imitation]] of believing him.
+“This interest, Madam—so touching an evidence of everything associated
+with Mr Dombey being dear to you—induces me to pause before I make him
+acquainted with these circumstances, which, as yet, he does not know.
+It so shakes me, if I may make the confession, in my allegiance, that
+on the intimation of the least [[Desire|desire]] to that effect from you, I would
+suppress them.”
 
-“All I can say is, Uncle Sol, that if there is—”
-
-“But there isn’t,” said Solomon.
-
-“Very [[Well|well]],” said Walter. “Then I’ve no more to say; and that’s lucky,
-for my [[Time|time]]’s up for going to business. I shall look in by-and-by when
-I’m out, to see how you get on, Uncle. And mind, Uncle! I’ll never
-believe you again, and never tell you anything more about Mr Carker the
-Junior, if I find out that you have been deceiving me!”
-
-[[Solomon Gills]] laughingly defied him to find out anything of the kind;
-and Walter, revolving in his thoughts all sorts of impracticable ways
-of making fortunes and placing the wooden Midshipman in a position of
-independence, betook himself to the offices of Dombey and Son with a
-heavier countenance than he usually carried there.
-
-There lived in those days, round the corner—in Bishopsgate Street
-Without—one Brogley, sworn broker and appraiser, who kept a shop where
-every description of second-hand furniture was exhibited in the most
-uncomfortable aspect, and under circumstances and in combinations the
-most completely foreign to its purpose. Dozens of chairs hooked on to
-washing-stands, which with difficulty poised themselves on the
-shoulders of sideboards, which in their turn stood upon the wrong side
-of dining-tables, gymnastic with their legs upward on the tops of other
-dining-tables, were among its most reasonable arrangements. A banquet
-array of dish-covers, wine-glasses, and decanters was generally to be
-seen, spread forth upon the bosom of a four-post bedstead, for the
-entertainment of such genial company as half-a-dozen pokers, and a hall
-lamp. A set of [[Window|window]] curtains with no windows belonging to them, would
-be seen gracefully draping a barricade of chests of drawers, loaded
-with little jars from chemists’ shops; while a homeless hearthrug
-severed from its natural companion the fireside, braved the shrewd east
-[[Wind|wind]] in its adversity, and trembled in [[Melancholy|melancholy]] accord with the
-shrill complainings of a cabinet piano, wasting away, a string a day,
-and faintly resounding to the noises of the street in its jangling and
-distracted brain. Of motionless clocks that never stirred a finger, and
-seemed as incapable of being successfully wound up, as the pecuniary
-affairs of their former owners, there was always great choice in Mr
-Brogley’s shop; and various looking-glasses, accidentally placed at
-compound interest of reflection and refraction, presented to the eye an
-eternal perspective of bankruptcy and ruin.
+Edith raised her head quickly, and starting back, bent her dark glance
+upon him. He met it with his blandest and most deferential smile, and
+went on.

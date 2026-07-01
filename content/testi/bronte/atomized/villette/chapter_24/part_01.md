@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 24 (part 1)"
+title: "Villette — Chapter 24 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -48,12 +48,12 @@ which blows in and soon blocks him up, preserving him in ice for the
 season.
 
 Let him say, “It is quite right: it ought to be so, since so it is.”
-And, perhaps, one day his [[Snow|snow]]-sepulchre will open, [[spring]]’s softness
+And, perhaps, one day his [[Snow|snow]]-sepulchre will open, [[Spring|spring]]’s softness
 will return, the sun and south-[[Wind|wind]] will reach him; the budding of
 hedges, and carolling of [[Birds|birds]], and singing of liberated streams, will
 call him to kindly [[Resurrection|resurrection]]. _Perhaps_ this may be the case,
 perhaps not: the [[Frost|frost]] may get into his heart and never thaw more; when
-[[spring]] comes, a crow or a pie may pick out of the wall only his
+[[Spring|spring]] comes, a crow or a pie may pick out of the wall only his
 dormouse-bones. [[Well]], even in that case, all will be right: it is to be
 supposed he knew from the first he was mortal, and must one day go the
 way of all flesh, “As [[Well|well]] soon as syne.”
@@ -119,11 +119,3 @@ a candle in the kitchen, I bought a wax taper and matches to light it,
 and at the study-hour stole up to the dormitory and feasted on my crust
 from the Barmecide’s loaf. It did not nourish me: I pined on it, and
 got as thin as a [[Shadow|shadow]]: otherwise I was not ill.
-
-Reading there somewhat late one evening, and feeling that the power to
-read was leaving me—for the letters from incessant perusal were losing
-all sap and significance: my gold was withering to [[Leaves|leaves]] before my
-eyes, and I was sorrowing over the disillusion—suddenly a quick
-tripping foot ran up the stairs. I knew [[Ginevra Fanshawe]]’s step: she
-had dined in town that afternoon; she was now returned, and would come
-here to replace her shawl, &c. in the wardrobe.

@@ -14,6 +14,26 @@ tags:
 </nav>
 
 
+He anxiously signed, therefore, to the young [[smith]], to take her away.
+But he was so busy, talking to her softly at a little distance, that he
+only became conscious of this [[Desire|desire]], simultaneously with [[Alderman Cute]].
+Now, the Alderman had not yet had his say, but _he_ was a philosopher,
+too—practical, though!  Oh, very practical—and, as he had no idea of
+losing any portion of his audience, he cried ‘Stop!’
+
+‘Now, you know,’ said the Alderman, addressing his two friends, with a
+[[Self|self]]-complacent smile upon his face which was habitual to him, ‘I am a
+plain man, and a practical man; and I go to work in a plain practical
+way.  That’s my way.  There is not the least mystery or difficulty in
+dealing with this sort of people if you only understand ’em, and can talk
+to ’em in their own manner.  Now, you Porter!  Don’t you ever tell me, or
+anybody else, my friend, that you haven’t always enough to eat, and of
+the best; because I know better.  I have tasted your tripe, you know, and
+you can’t “chaff” me.  You understand what “chaff” means, eh?  That’s the
+right word, isn’t it?  Ha, ha, ha! Lord bless you,’ said the Alderman,
+turning to his friends again, ‘it’s the easiest thing on earth to deal
+with this sort of people, if you understand ’em.’
+
 Famous man for the common people, [[Alderman Cute]]!  Never out of temper
 with them!  Easy, affable, joking, knowing gentleman!
 
@@ -118,17 +138,3 @@ there is one thing,’ said the Alderman, with his [[Self|self]]-satisfied smile
 ‘on which I can be said to have made up my mind more than on another, it
 is to Put [[suicide]] Down.  So don’t try it on.  That’s the phrase, isn’t
 it?  Ha, ha! now we understand each other.’
-
-Toby knew not whether to be agonised or glad, to see that Meg had turned
-a deadly white, and dropped her [[Lover|lover]]’s hand.
-
-‘And as for you, you dull dog,’ said the Alderman, turning with even
-increased cheerfulness and urbanity to the young [[smith]], ‘what are you
-thinking of being married for?  What do you want to be married for, you
-silly fellow?  If I was a fine, young, strapping chap like you, I should
-be ashamed of being milksop enough to pin myself to a woman’s
-apron-strings!  Why, she’ll be an old woman before you’re a middle-aged
-man!  And a pretty figure you’ll cut then, with a draggle-tailed wife and
-a crowd of squalling children crying after you wherever you go!’
-
-O, he knew how to banter the common people, [[Alderman Cute]]!

@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 43: FORTY THREE (part 5)"
+title: "Martin Chuzzlewit — Chapter 43: FORTY THREE (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,43 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_43_forty_three/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_43_forty_three/part_06">part 06 ›</a></div>
 </nav>
 
+
+Mr Pecksniff also was in the room; and Mary. In the swift instant of
+their mutual recognition, Martin saw the old man droop his grey head,
+and hide his face in his hands.
+
+It smote him to the heart. In his most selfish and most careless day,
+this lingering remnant of the old man’s ancient [[Love|love]], this buttress of a
+ruined tower he had built up in the [[Time|time]] gone by, with so much [[Pride|pride]] and
+[[Hope|hope]], would have caused a pang in Martin’s heart. But now, changed for
+the better in his worst respect; looking through an altered medium on
+his former friend, the guardian of his [[Childhood|childhood]], so broken and bowed
+down; resentment, sullenness, [[Self|self]]-confidence, and [[Pride|pride]], were all swept
+away, before the starting [[Tears|tears]] upon the withered cheeks. He could not
+bear to see them. He could not bear to think they fell at sight of
+him. He could not bear to view reflected in them, the reproachful and
+irrevocable Past.
+
+He hurriedly advanced to seize the old man’s hand in his, when Mr
+Pecksniff interposed himself between them.
+
+‘No, young man!’ said Mr Pecksniff, striking himself upon the breast,
+and stretching out his other arm towards his guest as if it were a wing
+to shelter him. ‘No, sir. None of that. Strike here, sir, here! Launch
+your arrows at me, sir, if you’ll have the goodness; not at Him!’
+
+‘Grandfather!’ cried Martin. ‘Hear me! I implore you, let me speak!’
+
+‘Would you, sir? Would you?’ said Mr Pecksniff, dodging about, so as to
+keep himself always between them. ‘Is it not enough, sir, that you come
+into my [[house]] like a thief in the [[Night|night]], or I should rather say, for we
+can never be too particular on the subject of [[Truth]], like a thief in
+the day-[[Time|time]]; bringing your dissolute companions with you, to plant
+themselves with their backs against the insides of parlour doors, and
+prevent the entrance or issuing forth of any of my household’--Mark had
+taken up this position, and held it quite unmoved--‘but would you also
+strike at venerable Virtue? Would you? Know that it is not defenceless.
+I will be its shield, young man. Assail me. Come on, sir. [[Fire]] away!’
 
 ‘Pecksniff,’ said the old man, in a feeble voice. ‘Calm yourself. Be
 quiet.’
@@ -90,44 +127,3 @@ now. I do not now.’
 The [[Chorus]] put its hand in its waistcoat, and smiled. ‘Let him go on,
 my worthy sir,’ it said. ‘I know what you are thinking of, but don’t
 express it prematurely.’
-
-Old Martin raised his eyes to Mr Pecksniff’s face, and appearing to
-derive renewed instruction from his looks and words, said, once again:
-
-‘Go on!’
-
-‘I have little more to say,’ returned Martin. ‘And as I say it now, with
-little or no [[Hope|hope]], Grandfather; whatever [[Dawn|dawn]] of [[Hope|hope]] I had on entering
-the room; believe it to be true. At least, believe it to be true.’
-
-‘Beautiful [[Truth]]!’ exclaimed the [[Chorus]], looking upward. ‘How is your
-name profaned by vicious persons! You don’t live in a [[Well|well]], my holy
-principle, but on the lips of false mankind. It is hard to bear with
-mankind, dear sir’--addressing the elder Mr Chuzzlewit; ‘but let us do
-so meekly. It is our duty so to do. Let us be among the Few who do their
-duty. If,’ pursued the [[Chorus]], soaring up into a lofty flight, ‘as the
-poet informs us, England expects Every man to do his duty, England is
-the most sanguine country on the face of the earth, and will find itself
-continually disappointed.’
-
-‘Upon that subject,’ said Martin, looking calmly at the old man as
-he spoke, but glancing once at Mary, whose face was now buried in her
-hands, upon the back of his easy-chair; ‘upon that subject which first
-occasioned a division between us, my mind and heart are incapable of
-change. Whatever influence they have undergone, since that unhappy [[Time|time]],
-has not been one to weaken but to strengthen me. I cannot profess sorrow
-for that, nor irresolution in that, nor shame in that. Nor would you
-wish me, I know. But that I might have trusted to your [[Love|love]], if I had
-thrown myself manfully upon it; that I might have won you over with
-ease, if I had been more yielding and more considerate; that I should
-have best remembered myself in forgetting myself, and recollecting you;
-reflection, [[Solitude|solitude]], and misery, have taught me. I came resolved to say
-this, and to ask your [[Forgiveness|forgiveness]]; not so much in [[Hope|hope]] for the future,
-as in regret for the past; for all that I would ask of you is, that you
-would aid me to live. Help me to get honest work to do, and I would do
-it. My condition places me at the disadvantage of seeming to have only
-my selfish ends to serve, but try if that be so or not. Try if I be
-[[Self|self]]-willed, obdurate, and haughty, as I was; or have been disciplined
-in a rough school. Let the voice of [[Nature|nature]] and association plead between
-us, Grandfather; and do not, for one fault, however thankless, quite
-reject me!’

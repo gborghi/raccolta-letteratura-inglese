@@ -14,6 +14,15 @@ tags:
 </nav>
 
 
+‘And so,’ suggested the stranger.
+
+‘And so,’ said Clemency, taking him up mechanically, and without any
+change in her attitude or manner, ‘they at last were married.  They were
+married on her birth-day—it comes round again to-morrow—very quiet, very
+humble like, but very happy.  Mr. Alfred said, one [[Night|night]] when they were
+walking in the orchard, “Grace, shall our wedding-day be Marion’s
+birth-day?”  And it was.’
+
 ‘And they have lived happily together?’ said the stranger.
 
 ‘Ay,’ said Clemency.  ‘No two people ever more so.  They have had no
@@ -126,19 +135,3 @@ impossibilities—what confusion and affliction I carry with me!’
 
 ‘I can guess it all.  But why did you ever come here, my good sir?’
 retorted Snitchey.
-
-‘Come!  How should I know who kept the [[house]]?  When I sent my servant on
-to you, I strolled in here because the place was new to me; and I had a
-natural curiosity in everything new and old, in these old scenes; and it
-was outside the town.  I wanted to communicate with you, first, before
-appearing there.  I wanted to know what people would say to me.  I see by
-your manner that you can tell me.  If it were not for your confounded
-caution, I should have been possessed of everything long ago.’
-
-‘Our caution!’ returned the lawyer, ‘speaking for [[Self]] and
-Craggs—deceased,’ here Mr. Snitchey, glancing at his hat-band, shook his
-head, ‘how can you reasonably blame us, Mr. Warden?  It was understood
-between us that the subject was never to be renewed, and that it wasn’t a
-subject on which [[Grave|grave]] and sober men like us (I made a note of your
-observations at the [[Time|time]]) could interfere.  Our caution too!  When Mr.
-Craggs, sir, went down to his respected [[Grave|grave]] in the full belief—’

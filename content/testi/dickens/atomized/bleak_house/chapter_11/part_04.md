@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 11 (part 4)"
+title: "Bleak House — Chapter 11 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -126,6 +126,3 @@ attentive juryman.
 “Out of the question,” says the coroner. “You have heard the boy.
 ‘Can’t exactly say’ won’t do, you know. We can’t take THAT in a [[Court|court]]
 of justice, gentlemen. It’s terrible depravity. Put the boy aside.”
-
-Boy put aside, to the great edification of the audience, especially
-of Little Swills, the comic vocalist.

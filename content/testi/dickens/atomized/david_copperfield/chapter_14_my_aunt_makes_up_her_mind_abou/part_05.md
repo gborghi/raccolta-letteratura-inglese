@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 14: MY AUNT MAKES UP HER MIND ABOUT ME (part 5)"
+title: "David Copperfield — Chapter 14: MY AUNT MAKES UP HER MIND ABOUT ME (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_14_my_aunt_makes_up_her_mind_abou/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_14_my_aunt_makes_up_her_mind_abou/part_06">part 06 ›</a></div>
 </nav>
 
+
+‘Good Lord, man, there’s no occasion to say that. Left to her
+unconditionally! I think I see [[David Copperfield]] looking forward to any
+condition of any sort or kind, though it stared him point-blank in the
+face! Of course it was left to her unconditionally. But when she married
+again--when she took that most disastrous step of marrying you, in
+short,’ said my aunt, ‘to be plain--did no one put in a word for the boy
+at that [[Time|time]]?’
 
 ‘My late wife loved her second husband, ma’am,’ said Mr. Murdstone, ‘and
 trusted implicitly in him.’
@@ -126,18 +134,3 @@ know that; I knew it, years before you ever saw her--and through the
 best part of her weakness you gave her the wounds she died of. There
 is the [[Truth|truth]] for your comfort, however you like it. And you and your
 instruments may make the most of it.’
-
-‘Allow me to inquire, Miss Trotwood,’ interposed Miss Murdstone,
-‘whom you are pleased to call, in a choice of words in which I am not
-experienced, my brother’s instruments?’
-
-‘It was clear enough, as I have told you, years before YOU ever saw
-her--and why, in the mysterious dispensations of [[Providence]], you ever
-did see her, is more than humanity can comprehend--it was clear enough
-that the poor soft little thing would marry somebody, at some [[Time|time]] or
-other; but I did [[Hope|hope]] it wouldn’t have been as bad as it has turned out.
-That was the [[Time|time]], Mr. Murdstone, when she gave birth to her boy here,’
-said my aunt; ‘to the poor [[Child|child]] you sometimes tormented her through
-afterwards, which is a disagreeable remembrance and makes the sight of
-him odious now. Aye, aye! you needn’t wince!’ said my aunt. ‘I know it’s
-true without that.’

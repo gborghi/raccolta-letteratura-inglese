@@ -14,6 +14,30 @@ tags:
 </nav>
 
 
+boldest pages of Bernard [[Shaw]].
+
+Before we pass on to the two expansive movements in which the Victorian
+
+Age really ended, the accident of a distinguished [[artist]] is available
+
+for estimating this somewhat cool and sad afternoon of the epoch at its
+
+purest; not in lounging pessimism or luxurious aberrations, but in
+
+earnest skill and a high devotion to letters. This change that had come,
+
+like the change from a golden sunset to a grey twilight, can be very
+
+adequately measured if we compare the insight and intricacy of Meredith
+
+with the insight and intricacy of Mr. Henry James. The characters of
+
+both are delicate and indisputable; but we must all have had a feeling
+
+that the characters in Meredith are gods, but that the characters in
+
+Henry James are [[Ghosts|ghosts]]. I do not mean that they are unreal: I believe in
+
 [[Ghosts|ghosts]]. So does Mr. Henry James; he has written some of his very finest
 
 literature about the little habits of these creatures. He is in the deep
@@ -53,8 +77,6 @@ prey. But the thing is a deficiency as [[Well|well]] as a talent: we cannot but
 admire the figures that walk about in his afternoon drawing-rooms; but
 
 we have a certain sense that they are figures that have no faces.
-
-
 
 For the rest, he is most widely known, or perhaps only most widely
 
@@ -106,8 +128,6 @@ Beerbohm has been able to imagine Mr. Henry James writing about
 
 Christmas.
 
-
-
 Now upon this interregnum, this cold and brilliant waiting-room which
 
 was Henry James at its highest and Wilde at its worst, there broke in
@@ -123,8 +143,6 @@ Rudyard Kipling and the Imperialists. I take the Socialists first not
 because they necessarily came so in order of [[Time|time]], but because they were
 
 less the note upon which the epoch actually ended.
-
-
 
 William Morris, of whom we have already spoken, may be said to
 
@@ -163,33 +181,3 @@ beliefs of Victorianism. The Industrial System, so run, had become
 another name for hell. By Morris's [[Time|time]] and ever since, England has been
 
 divided into three classes: Knaves, Fools, and Revolutionists.
-
-
-
-[[history|History]] is full of forgotten controversies; and those who speak of
-
-Socialism now have nearly all forgotten that for some [[Time|time]] it was an
-
-almost equal fight between Socialism and Anarchism for the leadership of
-
-the exodus from Capitalism. It is here that Herbert Spencer comes in
-
-logically, though not chronologically; also that much more interesting
-
-man, Auberon Herbert. Spencer has no special place as a man of letters;
-
-and a vastly exaggerated place as a philosopher. His real importance was
-
-that he was very nearly an Anarchist. The indefinable [[Greatness|greatness]] there is
-
-about him after all, in spite of the silliest and smuggest limitations,
-
-is in a certain consistency and completeness from his own point of
-
-view. There is something mediæval, and therefore manful, about writing a
-
-book about everything in the world. Now this simplicity expressed itself
-
-in politics in carrying the Victorian worship of liberty to the most
-
-ridiculous lengths; almost to the length of voluntary taxes and

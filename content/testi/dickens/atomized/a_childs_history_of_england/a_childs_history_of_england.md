@@ -1,5 +1,5 @@
 ---
-title: "A [[Child]]'s [[history|History]] of England"
+title: "A Child's History of England"
 author: "Dickens"
 unitType: work
 parentWork: "works/a-child's-history-of-england-(dickens)"
@@ -2292,7 +2292,7 @@ possibly be obtained.
 the magistrates ought to talk.
 
 ‘MR. COPPERNOSE no sooner heard this suggestion than he touched a small
-[[Spring|spring]] in each of the two models of magistrates which were placed upon
+[[spring]] in each of the two models of magistrates which were placed upon
 the table; one of the figures immediately began to exclaim with great
 volubility that he was sorry to see gentlemen in such a situation, and
 the other to express a [[Fear|fear]] that the policeman was intoxicated.

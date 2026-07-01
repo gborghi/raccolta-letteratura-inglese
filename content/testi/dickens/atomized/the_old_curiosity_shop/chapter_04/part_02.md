@@ -14,6 +14,25 @@ tags:
 </nav>
 
 
+Poor Mrs Quilp, who had looked in a state of helplessness from one face
+of condolence to another, coloured, smiled, and shook her head
+doubtfully. This was the signal for a general clamour, which beginning
+in a low murmur gradually swelled into a great noise in which everybody
+spoke at once, and all said that she being a young woman had no right
+to set up her opinions against the experiences of those who knew so
+much better; that it was very wrong of her not to take the advice of
+people who had nothing at heart but her good; that it was next door to
+being downright ungrateful to conduct herself in that manner; that if
+she had no respect for herself she ought to have some for other women,
+all of whom she compromised by her meekness; and that if she had no
+respect for other women, the [[Time|time]] would come when other women would
+have no respect for her; and she would be very sorry for that, they
+could tell her. Having dealt out these admonitions, the ladies fell to
+a more powerful assault than they had yet made upon the  mixed tea, new
+bread, fresh butter, shrimps, and watercresses, and said that their
+vexation was so great to see her going on like that, that they could
+hardly bring themselves to eat a single morsel.
+
 It’s all very fine to talk,’ said Mrs Quilp with much simplicity, ‘but
 I know that if I was to die to-morrow, Quilp could marry anybody he
 pleased--now that he could, I know!’
@@ -111,16 +130,3 @@ stealthily, as if exhorting them to [[Silence|silence]]. Then, and not until the
 [[Daniel Quilp]] himself, the cause and occasion of all this clamour, was
 observed to be in the room, looking on and listening with profound
 attention.
-
-‘Go on, ladies, go on,’ said Daniel. ‘Mrs Quilp, pray ask the ladies to
-stop to supper, and have a couple of lobsters and something light and
-palatable.’
-
-‘I--I--didn’t ask them to tea, Quilp,’ stammered his wife. ‘It’s quite
-an accident.’
-
-‘So much the better, Mrs Quilp; these accidental parties are always the
-pleasantest,’ said the [[Dwarf|dwarf]], rubbing his hands so hard that he seemed
-to be engaged in manufacturing, of the dirt with which they were
-encrusted, little charges for popguns. ‘What! Not going, ladies, you
-are not going, surely!’

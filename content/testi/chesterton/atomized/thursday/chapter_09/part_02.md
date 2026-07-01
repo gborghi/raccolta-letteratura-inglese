@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 9 (part 2)"
+title: "thursday — Chapter 9 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_09/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_09/part_03">part 03 ›</a></div>
 </nav>
 
+
+[[The Professor]] made no answer, but gazed in front of him with eyes
+the colour of a wintry sea; so Syme repeated his question.
+
+"I say, did it take you long to invent all this?  I'm considered
+good at these things, and it was a good hour's grind.
+Did you learn it all on the spot?"
 
 [[The Professor]] was silent; his eyes were wide open, and he wore
 a fixed but very small smile.
@@ -118,34 +125,3 @@ renders intolerable anything in the [[Nature|nature]] of a moment's delay."
 
 Dr. Bull smiled again, but continued to gaze on them without speaking.
 [[The Professor]] resumed, a pause before each weary word--
-
-"Please do not think me excessively abrupt; but I advise
-you to alter those plans, or if it is too late for that,
-to follow your agent with all the support you can get for him.
-Comrade Syme and I have had an experience which it would take
-more [[Time|time]] to recount than we can afford, if we are to act on it.
-I will, however, relate the occurrence in detail, even at
-the risk of losing [[Time|time]], if you really feel that it is essential
-to the understanding of the problem we have to discuss."
-
-He was spinning out his sentences, making them intolerably long
-and lingering, in the [[Hope|hope]] of maddening the practical little
-Doctor into an explosion of impatience which might show his hand.
-But the little Doctor continued only to stare and smile,
-and the monologue was uphill work.  Syme began to feel
-a new sickness and [[Despair|despair]].  The Doctor's smile and [[Silence|silence]]
-were not at all like the cataleptic stare and horrible [[Silence|silence]]
-which he had confronted in [[The Professor|the Professor]] half an hour before.
-About [[The Professor|the Professor]]'s makeup and all his antics there
-was always something merely [[Grotesque|grotesque]], like a gollywog.
-Syme remembered those wild woes of yesterday as one remembers
-being afraid of Bogy in [[Childhood|childhood]].  But here was daylight;
-here was a healthy, square-shouldered man in tweeds, not odd
-save for the accident of his ugly spectacles, not glaring
-or grinning at all, but smiling steadily and not saying a word.
-The whole had a sense of unbearable reality.  Under the
-increasing sunlight the colours of the Doctor's complexion,
-the pattern of his tweeds, grew and expanded outrageously,
-as such things grow too important in a realistic [[Novel|novel]].
-But his smile was quite slight, the pose of his head polite;
-the only [[Uncanny|uncanny]] thing was his [[Silence|silence]].

@@ -1,5 +1,5 @@
 ---
-title: "[[innocence]] — The Queer Feet (part 3)"
+title: "innocence — The Queer Feet (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet/part_04">part 04 ›</a></div>
 </nav>
 
+
+The rational part of him (whether the wiser or not) regained its supremacy.
+He remembered that the proprietor had told him that he should lock the door,
+and would come later to release him.  He told himself that twenty things
+he had not thought of might explain the eccentric sounds outside; he reminded
+himself that there was just enough light left to finish his own proper work.
+Bringing his paper to the [[Window|window]] so as to catch the last stormy evening light,
+he resolutely plunged once more into the almost completed record.
+He had written for about twenty minutes, bending closer and closer
+to his paper in the lessening light; then suddenly he sat upright.
+He had heard the strange feet once more.
 
 This [[Time|time]] they had a third oddity.  Previously the unknown man had walked,
 with levity indeed and [[Lightning|lightning]] quickness, but he had walked.

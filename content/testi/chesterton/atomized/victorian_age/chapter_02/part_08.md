@@ -14,6 +14,50 @@ tags:
 </nav>
 
 
+[[Time|time]] in this respect: that while his moral and religious conceptions
+
+were as mechanical as his carefully constructed fictitious conspiracies,
+
+he nevertheless informed the latter with a sort of involuntary mysticism
+
+which dealt wholly with the darker side of the [[Soul|soul]]. For this was one
+
+of the most peculiar of the problems of the Victorian mind. The idea of
+
+the [[Supernatural|supernatural]] was perhaps at as low an ebb as it had ever
+
+been--certainly much lower than it is now. But in spite of this, and in
+
+spite of a certain ethical cheeriness that was almost _de rigueur_--the
+
+strange fact remains that the only sort of supernaturalism the
+
+Victorians allowed to their imaginations was a sad supernaturalism. They
+
+might have [[Ghost|ghost]] stories, but not saints' stories. They could trifle
+
+with the curse or unpardoning prophecy of a [[Witch|witch]], but not with the
+
+pardon of a priest. They seem to have held (I believe erroneously) that
+
+the [[Supernatural|supernatural]] was safest when it came from below. When we think (for
+
+example) of the uncountable riches of religious art, imagery, ritual and
+
+popular legend that has clustered round Christmas through all the
+
+Christian ages, it is a truly extraordinary thing to reflect that
+
+Dickens (wishing to have in _The Christmas Carol_ a little happy
+
+supernaturalism by way of a change) actually had to make up a mythology
+
+for himself. Here was one of the rare cases where Dickens, in a real and
+
+human sense, did suffer from the lack of culture. For the rest, Wilkie
+
+Collins is these two elements: the mechanical and the mystical; both
+
 very good of their kind. He is one of the few novelists in whose case it
 
 is proper and literal to speak of his "plots." He was a plotter; he went
@@ -31,8 +75,6 @@ walk. They are alive; and walk as softly as Count Fosco, but as solidly.
 Finally, _The Moonstone_ is probably the best [[Detective|detective]] tale in the
 
 world.
-
-
 
 Anthony Trollope, a clear and very capable realist, represents rather
 
@@ -71,8 +113,6 @@ notable in the Victorian spirit once more that though his clergymen are
 all of them real men and many of them good men, it never really occurs
 
 to us to think of them as the priests of a religion.
-
-
 
 Charles Reade may be said to go along with these; and Disraeli and even
 
@@ -122,8 +162,6 @@ dishonesty of our politics--even if he had done a good deal towards
 
 bringing it about.
 
-
-
 Between this group and the next there hovers a figure very hard to
 
 place; not higher in letters than these, yet not easy to class with
@@ -143,55 +181,3 @@ dandyism, his dark, sinister good looks and a great deal of the mere
 polished [[Melodrama|melodrama]] that he wrote. There was something in his all-round
 
 interests; in the variety of things he tried; in his half-aristocratic
-
-swagger as poet and politician, that made him in some ways a real
-
-[[Touchstone|touchstone]] of the [[Time|time]]. It is noticeable about him that he is always
-
-turning up everywhere and that he brings other people out, generally in
-
-a hostile spirit. His Byronic and almost Oriental ostentation was used
-
-by the young Thackeray as something on which to sharpen his new razor of
-
-Victorian common sense. His pose as a dilettante satirist inflamed the
-
-execrable temper of Tennyson, and led to those lively comparisons to a
-
-bandbox and a [[Lion|lion]] in curlpapers. He interposed the glove of warning and
-
-the tear of sensibility between us and the proper ending of _Great
-
-Expectations_. Of his own books, by far the best are the really charming
-
-comedies about _The Caxtons_ and _Kenelm Chillingly_; none of his other
-
-works have a high literary importance now, with the possible exception
-
-of _A Strange Story_; but his _Coming Race_ is historically interesting
-
-as foreshadowing those novels of the future which were afterwards such a
-
-weapon of the Socialists. Lastly, there was an element indefinable about
-
-Lytton, which often is in adventurers; which amounts to a suspicion that
-
-there was something in him after all. It rang out of him when he said to
-
-the hesitating Crimean Parliament: "Destroy your [[government|Government]] and save
-
-your army."
-
-
-
-With the next phase of Victorian fiction we enter a new world; the
-
-later, more revolutionary, more continental, freer but in some ways
-
-weaker world in which we live to-day. The subtle and sad change that
-
-was passing like twilight across the English brain at this [[Time|time]] is very
-
-[[Well|well]] expressed in the fact that men have come to mention the great name
-
-of Meredith in the same breath as Mr. Thomas Hardy. Both writers,

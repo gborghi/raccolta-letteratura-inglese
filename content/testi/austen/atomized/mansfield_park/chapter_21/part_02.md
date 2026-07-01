@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 21 (part 2)"
+title: "Mansfield Park — Chapter 21 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -114,16 +114,3 @@ different; but after another three or four days, when there was no
 return, no letter, no message, no symptom of a softened heart, no [[Hope|hope]]
 of advantage from separation, her mind became cool enough to seek all
 the comfort that [[Pride|pride]] and [[Self|self]] [[Revenge|revenge]] could give.
-
-[[Henry Crawford]] had destroyed her happiness, but he should not know that
-he had done it; he should not destroy her credit, her appearance, her
-prosperity, too. He should not have to think of her as pining in the
-retirement of Mansfield for _him_, rejecting Sotherton and [[London]],
-independence and splendour, for _his_ sake. Independence was more
-needful than ever; the want of it at Mansfield more sensibly felt. She
-was less and less able to endure the restraint which her father
-imposed. The liberty which his absence had given was now become
-absolutely necessary. She must escape from him and Mansfield as soon as
-possible, and find consolation in fortune and consequence, bustle and
-the world, for a wounded spirit. Her mind was quite determined, and
-varied not.

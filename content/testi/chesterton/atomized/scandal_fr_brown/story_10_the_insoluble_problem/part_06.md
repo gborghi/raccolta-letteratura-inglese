@@ -14,6 +14,35 @@ tags:
 </nav>
 
 
+'I'm sure you do,' said [[Flambeau]], 'but I don't yet know much about my
+problem of the murder.'
+
+'The murder cannot be solved,' said [[Father Brown]].
+
+'And why not?' demanded his friend.
+
+'Because there is no murder to solve,' said [[Father Brown]].
+
+[[Flambeau]] was silent with sheer surprise; and it was his friend who
+resumed in a quiet tone:
+
+'I'll tell you a curious thing. I talked with that woman when she was
+wild with grief; but she never said anything about the murder. She never
+mentioned murder, or even alluded to murder. What she did mention
+repeatedly was sacrilege.' Then, with another jerk of verbal
+disconnection, he added: 'Have you ever heard of Tiger Tyrone?'
+
+'Haven't I!' cried [[Flambeau]]. 'Why, that's the very man who's supposed to
+be after the reliquary, and whom I've been commissioned specially to
+circumvent. He's the most violent and daring gangster who ever visited
+this country; Irish, of course, but the sort that goes quite crazily
+anti - clerical. Perhaps he's dabbled in a little diabolism in these
+secret societies; anyhow, he has a macabre taste for playing all sorts
+of wild tricks that look wickeder than they are. Otherwise he's not the
+wickedest; he seldom kills, and never for cruelty; but he loves doing
+anything to shock people, especially his own people; robbing churches or
+digging up skeletons or what not.'
+
 'Yes,' said [[Father Brown]], 'it all fits in. I ought to have seen it all
 long before.'
 
@@ -110,7 +139,7 @@ the Tiger turned to escape by it. [[Flambeau]] and Tiger Tyrone looked at
 each other with steady eyes and exchanged something that was almost like
 a military salute.
 
-Meanwhile [[Father Brown]] had slipped into the chapel, to say a [[Prayer|prayer]] for
+Meanwhile [[Father Brown]] had slipped into the chapel, to say a [[prayer]] for
 several persons involved in these unseemly events. But he was rather
 smiling than otherwise, and, to tell the [[Truth|truth]], he was not by any means
 hopeless about Mr Tyrone and his deplorable family; but rather more

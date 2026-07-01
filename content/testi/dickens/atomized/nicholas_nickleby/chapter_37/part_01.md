@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 37 (part 1)"
+title: "Nicholas Nickleby — Chapter 37 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -105,16 +105,3 @@ in three small jumps, and, thrusting his bill between the bars, turn his
 sightless head towards his old master--and at that moment it would be
 very difficult to determine which of the two was the happier, the bird
 or Tim Linkinwater.
-
-Nor was this all. Everything gave back, besides, some reflection of the
-kindly spirit of the brothers. The warehousemen and porters were such
-sturdy, jolly fellows, that it was a treat to see them. Among the
-shipping announcements and steam-packet lists which decorated the
-counting-[[house]] wall, were designs for almshouses, statements of
-charities, and plans for new hospitals. A blunderbuss and two swords
-hung above the chimney-piece, for the terror of evil-doers, but the
-blunderbuss was rusty and shattered, and the swords were broken and
-edgeless. Elsewhere, their open display in such a condition would have
-realised a smile; but, there, it seemed as though even violent and
-offensive weapons partook of the reigning influence, and became emblems
-of [[Mercy|mercy]] and forbearance.

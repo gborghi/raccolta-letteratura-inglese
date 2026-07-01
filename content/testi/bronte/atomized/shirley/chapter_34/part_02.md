@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 34 (part 2)"
+title: "Shirley — Chapter 34 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_34/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_34/part_03">part 03 ›</a></div>
 </nav>
 
+
+constancy to dear old mother church. This wild morning not one affluent
+
+family attended, not one carriage party appeared--all the lined and
 
 cushioned pews were empty; only on the bare oaken seats sat ranged the
 
@@ -247,19 +251,3 @@ most unnatural mamma in existence, coolly to let her daughter come out
 in this weather. Mine was in such a rage because I would go to church;
 
 she was fit to fling the kitchen brush after me."
-
-
-
-"Mamma was very much concerned about me; but I am afraid I was
-
-obstinate. I _would_ go."
-
-
-
-"To see me?"
-
-
-
-"Exactly; I thought of nothing else. I greatly feared the [[Snow|snow]] would
-
-hinder you from coming. You don't know how pleased I was to see you all

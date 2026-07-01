@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 33 (part 1)"
+title: "Oliver Twist — Chapter 33 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -132,14 +132,3 @@ young and good she is, and what pleasure and comfort she gives to all
 about her. I am sure—certain—quite certain—that, for your sake, who are
 so good yourself; and for her own; and for the sake of all she makes so
 happy; she will not die. Heaven will never let her die so young.”
-
-“Hush!” said Mrs. Maylie, laying her hand on [[Oliver]]’s head. “You think
-like a [[Child|child]], poor boy. But you teach me my duty, notwithstanding. I
-had forgotten it for a moment, [[Oliver]], but I [[Hope|hope]] I may be pardoned,
-for I am old, and have seen enough of illness and [[Death|death]] to know the
-agony of separation from the objects of our [[Love|love]]. I have seen enough,
-too, to know that it is not always the youngest and best who are spared
-to those that [[Love|love]] them; but this should give us comfort in our sorrow;
-for Heaven is just; and such things teach us, impressively, that there
-is a brighter world than this; and that the passage to it is speedy.
-God’s will be done! I [[Love|love]] her; and He knows how [[Well|well]]!”

@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 6 (part 2)"
+title: "Villette — Chapter 6 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_06/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_06/part_03">part 03 ›</a></div>
 </nav>
 
+
+This was an uncomfortable crisis. It was a dark [[Night|night]]. The coachman
+instantly drove off as soon as he had got his fare: the watermen
+commenced a struggle for me and my trunk. Their oaths I hear at this
+moment: they shook my [[philosophy]] more than did the [[Night|night]], or the
+isolation, or the strangeness of the scene. One laid hands on my trunk.
+I looked on and waited quietly; but when another laid hands on me, I
+spoke up, shook off his touch, stepped at once into a boat, desired
+austerely that the trunk should be placed beside me—“Just there,”—which
+was instantly done; for the owner of the boat I had chosen became now
+an ally: I was rowed off.
 
 Black was the [[River|river]] as a torrent of ink; lights glanced on it from the
 piles of building round, ships rocked on its bosom. They rowed me up to
@@ -114,17 +125,3 @@ all the courtesy I could put into my manner; she danced off heedless
 and lightsome. She must have been good-natured; but what had made her
 marry that individual, who was at least as much like an oil-barrel as a
 man?
-
-The other lady passenger, with the gentleman-companion, was quite a
-girl, pretty and fair: her simple print dress, untrimmed straw-bonnet
-and large shawl, gracefully worn, formed a costume plain to quakerism:
-yet, for her, becoming enough. Before the gentleman quitted her, I
-observed him throwing a glance of scrutiny over all the passengers, as
-if to ascertain in what company his charge would be left. With a most
-dissatisfied air did his eye turn from the ladies with the gay [[Flowers|flowers]];
-he looked at me, and then he spoke to his daughter, niece, or whatever
-she was: she also glanced in my direction, and slightly curled her
-short, pretty lip. It might be myself, or it might be my homely
-mourning habit, that elicited this mark of contempt; more likely, both.
-A bell rang; her father (I afterwards knew that it was her father)
-kissed her, and returned to land. The packet sailed.

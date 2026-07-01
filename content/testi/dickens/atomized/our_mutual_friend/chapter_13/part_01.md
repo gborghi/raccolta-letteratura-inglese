@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 8 (part 1)"
+title: "Our Mutual Friend — Chapter 9 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,149 +10,138 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_12/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_13/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_12/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_13/part_02">part 02 ›</a></div>
 </nav>
 
 
-Chapter 8
+Chapter 9
 
-MR BOFFIN IN CONSULTATION
+MR AND MRS BOFFIN IN CONSULTATION
 
 
-Whosoever had gone out of Fleet Street into the Temple at the date of
-this [[history]], and had wandered disconsolate about the Temple until he
-stumbled on a dismal churchyard, and had looked up at the dismal windows
-commanding that churchyard until at the most dismal [[Window|window]] of them
-all he saw a dismal boy, would in him have beheld, at one grand
-comprehensive swoop of the eye, the managing clerk, junior clerk,
-common-law clerk, conveyancing clerk, chancery clerk, every refinement
-and department of clerk, of Mr Mortimer Lightwood, erewhile called in
-the newspapers eminent solicitor.
+Betaking himself straight homeward, Mr Boffin, without further let or
+hindrance, arrived at the Bower, and gave Mrs Boffin (in a walking dress
+of black velvet and feathers, like a mourning coach-[[Horse|horse]]) an account of
+all he had said and done since breakfast.
 
-Mr Boffin having been several times in communication with this clerkly
-essence, both on its own ground and at the Bower, had no difficulty in
-identifying it when he saw it up in its dusty eyrie. To the second floor
-on which the [[Window|window]] was situated, he ascended, much pre-occupied in mind
-by the uncertainties besetting the Roman Empire, and much regretting the
-[[Death|death]] of the amiable Pertinax: who only last [[Night|night]] had left the Imperial
-affairs in a state of great confusion, by falling a victim to the fury
-of the praetorian guards.
+‘This brings us round, my dear,’ he then pursued, ‘to the question
+we left unfinished: namely, whether there’s to be any new go-in for
+Fashion.’
 
-‘Morning, morning, morning!’ said Mr Boffin, with a wave of his hand, as
-the office door was opened by the dismal boy, whose appropriate name was
-Blight. ‘Governor in?’
+‘Now, I’ll tell you what I want, Noddy,’ said Mrs Boffin, smoothing her
+dress with an air of immense enjoyment, ‘I want Society.’
 
-‘Mr Lightwood gave you an appointment, sir, I think?’
+‘Fashionable Society, my dear?’
 
-‘I don’t want him to give it, you know,’ returned Mr Boffin; ‘I’ll pay
-my way, my boy.’
+‘Yes!’ cried Mrs Boffin, laughing with the glee of a [[Child|child]]. ‘Yes! It’s
+no good my being kept here like Wax-Work; is it now?’
 
-‘No [[Doubt|doubt]], sir. Would you walk in? Mr Lightwood ain’t in at the present
-moment, but I expect him back very shortly. Would you take a seat in Mr
-Lightwood’s room, sir, while I look over our Appointment Book?’
-Young Blight made a great show of fetching from his desk a long thin
-manuscript volume with a brown paper cover, and running his finger down
-the day’s appointments, murmuring, ‘Mr Aggs, Mr Baggs, Mr Caggs, Mr
-Daggs, Mr Faggs, Mr Gaggs, Mr Boffin. Yes, sir; quite right. You are a
-little before your [[Time|time]], sir. Mr Lightwood will be in directly.’
+‘People have to pay to see Wax-Work, my dear,’ returned her husband,
+‘whereas (though you’d be cheap at the same money) the neighbours is
+welcome to see YOU for nothing.’
 
-‘I’m not in a hurry,’ said Mr Boffin
+‘But it don’t answer,’ said the cheerful Mrs Boffin. ‘When we worked
+like the neighbours, we suited one another. Now we have left work off;
+we have left off suiting one another.’
 
-‘Thank you, sir. I’ll take the opportunity, if you please, of entering
-your name in our Callers’ Book for the day.’ Young Blight made another
-great show of changing the volume, taking up a pen, sucking it, dipping
-it, and running over previous entries before he wrote. As, ‘Mr Alley,
-Mr Balley, Mr Calley, Mr Dalley, Mr Falley, Mr Galley, Mr Halley, Mr
-Lalley, Mr Malley. And Mr Boffin.’
+‘What, do you think of beginning work again?’ Mr Boffin hinted.
 
-‘Strict system here; eh, my lad?’ said Mr Boffin, as he was booked.
+‘Out of the question! We have come into a great fortune, and we must do
+what’s right by our fortune; we must act up to it.’
 
-‘Yes, sir,’ returned the boy. ‘I couldn’t get on without it.’
+Mr Boffin, who had a deep respect for his wife’s intuitive wisdom,
+replied, though rather pensively: ‘I suppose we must.’
 
-By which he probably meant that his mind would have been shattered to
-pieces without this fiction of an occupation. Wearing in his solitary
-confinement no fetters that he could polish, and being provided with no
-drinking-cup that he could carve, he had fallen on the device of ringing
-alphabetical changes into the two volumes in question, or of entering
-vast numbers of persons out of the Directory as transacting business
-with Mr Lightwood. It was the more necessary for his spirits, because,
-being of a sensitive temperament, he was apt to consider it personally
-disgraceful to himself that his master had no clients.
+‘It’s never been acted up to yet, and, consequently, no good has come of
+it,’ said Mrs Boffin.
 
-‘How long have you been in the law, now?’ asked Mr Boffin, with a
-pounce, in his usual inquisitive way.
+‘True, to the present [[Time|time]],’ Mr Boffin assented, with his former
+pensiveness, as he took his seat upon his settle. ‘I [[Hope|hope]] good may be
+coming of it in the future [[Time|time]]. Towards which, what’s your views, old
+lady?’
 
-‘I’ve been in the law, now, sir, about three years.’
+Mrs Boffin, a smiling creature, broad of figure and simple of [[Nature|nature]],
+with her hands folded in her lap, and with buxom creases in her throat,
+proceeded to expound her views.
 
-‘Must have been as good as born in it!’ said Mr Boffin, with admiration.
-‘Do you like it?’
+‘I say, a good [[house]] in a good neighbourhood, good things about us,
+good living, and good society. I say, live like our means, without
+extravagance, and be happy.’
 
-‘I don’t mind it much,’ returned Young Blight, heaving a sigh, as if its
-bitterness were past.
+‘Yes. I say be happy, too,’ assented the still pensive Mr Boffin.
+‘Lor-a-mussy!’ exclaimed Mrs Boffin, laughing and clapping her hands,
+and gaily rocking herself to and fro, ‘when I think of me in a light
+yellow chariot and pair, with silver boxes to the wheels—’
 
-‘What wages do you get?’
+‘Oh! you was thinking of that, was you, my dear?’
 
-‘Half what I could wish,’ replied young Blight.
+‘Yes!’ cried the delighted creature. ‘And with a footman up behind, with
+a bar across, to keep his legs from being poled! And with a coachman
+up in front, sinking down into a seat big enough for three of him, all
+covered with upholstery in green and white! And with two bay horses
+tossing their heads and stepping higher than they trot long-ways! And
+with you and me leaning back inside, as grand as ninepence! Oh-h-h-h My!
+Ha ha ha ha ha!’
 
-‘What’s the whole that you could wish?’
+Mrs Boffin clapped her hands again, rocked herself again, beat her feet
+upon the floor, and wiped the [[Tears|tears]] of laughter from her eyes.
 
-‘Fifteen shillings a week,’ said the boy.
+‘And what, my old lady,’ inquired Mr Boffin, when he also had
+sympathetically laughed: ‘what’s your views on the subject of the
+Bower?’
 
-‘About how long might it take you now, at a average rate of going, to be
-a Judge?’ asked Mr Boffin, after surveying his small stature in [[Silence|silence]].
+‘Shut it up. Don’t part with it, but put somebody in it, to keep it.’
 
-The boy answered that he had not yet quite worked out that little
-calculation.
+‘Any other views?’
 
-‘I suppose there’s nothing to prevent your going in for it?’ said Mr
-Boffin.
+‘Noddy,’ said Mrs Boffin, coming from her fashionable sofa to his side
+on the plain settle, and hooking her comfortable arm through his,
+‘Next I think—and I really have been thinking early and late—of the
+disappointed girl; her that was so cruelly disappointed, you know, both
+of her husband and his riches. Don’t you think we might do something for
+her? Have her to live with us? Or something of that sort?’
 
-The boy virtually replied that as he had the [[Honour|honour]] to be a Briton who
-never never never, there was nothing to prevent his going in for it. Yet
-he seemed inclined to suspect that there might be something to prevent
-his coming out with it.
+‘Ne-ver once thought of the way of doing it!’ cried Mr Boffin, smiting
+the table in his admiration. ‘What a thinking steam-ingein this old lady
+is. And she don’t know how she does it. Neither does the ingein!’
 
-‘Would a couple of pound help you up at all?’ asked Mr Boffin.
+Mrs Boffin pulled his nearest ear, in acknowledgment of this piece of
+[[philosophy]], and then said, gradually toning down to a motherly strain:
+‘Last, and not least, I have taken a fancy. You remember dear little
+[[John Harmon]], before he went to school? Over yonder across the yard, at
+our [[Fire|fire]]? Now that he is past all benefit of the money, and it’s come to
+us, I should like to find some [[Orphan|orphan]] [[Child|child]], and take the boy and adopt
+him and give him John’s name, and provide for him. Somehow, it would
+make me easier, I fancy. Say it’s only a whim—’
 
-On this head, young Blight had no [[Doubt|doubt]] whatever, so Mr Boffin made him
-a present of that sum of money, and thanked him for his attention to his
-(Mr Boffin’s) affairs; which, he added, were now, he believed, as good
-as settled.
+‘But I don’t say so,’ interposed her husband.
 
-Then Mr Boffin, with his stick at his ear, like a Familiar Spirit
-explaining the office to him, sat staring at a little bookcase of Law
-Practice and Law Reports, and at a [[Window|window]], and at an empty blue bag, and
-at a stick of sealing-wax, and a pen, and a box of wafers, and an apple,
-and a writing-pad—all very dusty—and at a number of inky smears
-and blots, and at an imperfectly-disguised gun-case pretending to be
-something legal, and at an iron box labelled HARMON ESTATE, until Mr
-Lightwood appeared.
+‘No, but deary, if you did—’
 
-Mr Lightwood explained that he came from the proctor’s, with whom he had
-been engaged in transacting Mr Boffin’s affairs.
+‘I should be a Beast if I did,’ her husband interposed again.
 
-‘And they seem to have taken a deal out of you!’ said Mr Boffin, with
-commiseration.
+‘That’s as much as to say you agree? Good and kind of you, and like you,
+deary! And don’t you begin to find it pleasant now,’ said Mrs Boffin,
+once more radiant in her comely way from head to foot, and once more
+smoothing her dress with immense enjoyment, ‘don’t you begin to find
+it pleasant already, to think that a [[Child|child]] will be made brighter, and
+better, and happier, because of that poor sad [[Child|child]] that day? And isn’t
+it pleasant to know that the good will be done with the poor sad [[Child|child]]’s
+own money?’
 
-Mr Lightwood, without explaining that his weariness was chronic,
-proceeded with his exposition that, all forms of law having been at
-length complied with, will of Harmon deceased having been proved, [[Death|death]]
-of Harmon next inheriting having been proved, &c., and so forth, [[Court]]
-of Chancery having been moved, &c. and so forth, he, Mr Lightwood, had
-now the gratification, [[Honour|honour]], and happiness, again &c. and so forth, of
-congratulating Mr Boffin on coming into possession as residuary legatee,
-of upwards of one hundred thousand pounds, standing in the books of the
-Governor and Company of the Bank of England, again &c. and so forth.
+‘Yes; and it’s pleasant to know that you are Mrs Boffin,’ said her
+husband, ‘and it’s been a pleasant thing to know this many and many a
+year!’ It was ruin to Mrs Boffin’s aspirations, but, having so spoken,
+they sat side by side, a hopelessly Unfashionable pair.
 
-‘And what is particularly eligible in the property Mr Boffin, is, that
-it involves no trouble. There are no estates to manage, no rents to
-return so much per cent upon in bad times (which is an extremely dear
-way of getting your name into the newspapers), no voters to become
-parboiled in hot [[Water|water]] with, no agents to take the cream off the
-milk before it comes to table. You could put the whole in a cash-box
-to-morrow morning, and take it with you to—say, to the Rocky [[Mountains]].
-Inasmuch as every man,’ concluded Mr Lightwood, with an indolent smile,
-‘appears to be under a fatal spell which obliges him, sooner or later,
-to mention the Rocky [[Mountains]] in a tone of extreme familiarity to some
-other man, I [[Hope|hope]] you’ll excuse my pressing you into the service of that
-gigantic range of geographical bores.’
+These two ignorant and unpolished people had guided themselves so far on
+in their [[Journey of Life|journey of life]], by a religious sense of duty and [[Desire|desire]] to do
+right. Ten thousand weaknesses and absurdities might have been detected
+in the breasts of both; ten thousand vanities additional, possibly, in
+the breast of the woman. But the hard wrathful and sordid [[Nature|nature]] that
+had wrung as much work out of them as could be got in their best days,
+for as little money as could be paid to hurry on their worst, had never
+been so warped but that it knew their moral straightness and respected
+it. In its own despite, in a constant conflict with itself and them, it
+had done so. And this is the eternal law. For, Evil often stops short at
+itself and dies with the doer of it; but Good, never.

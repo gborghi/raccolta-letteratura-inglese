@@ -1,0 +1,117 @@
+---
+title: "The Pickwick Papers — Chapter 14: COMPRISING A BRIEF DESCRIPTION OF THE COMPANY AT THE (part 3)"
+author: "Dickens"
+unitType: excerpt
+parentWork: "works/the-pickwick-papers-(dickens)"
+tags:
+  - graph/excerpt
+  - author/Dickens
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_12_comprising_a_brief_description/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_12_comprising_a_brief_description/part_04">part 04 ›</a></div>
+</nav>
+
+
+‘Whether the vixenish mare was sufficiently [[Well|well]] acquainted with the
+tones of Tom’s voice to comprehend his meaning, or whether she found it
+colder standing still than moving on, of course I can’t say. But I can
+say that Tom had no sooner finished speaking, than she pricked up her
+ears, and started forward at a [[Speed|speed]] which made the clay-coloured gig
+rattle until you would have supposed every one of the red spokes were
+going to fly out on the turf of Marlborough Downs; and even Tom, whip as
+he was, couldn’t stop or check her pace, until she drew up of her own
+accord, before a roadside inn on the right-hand side of the way, about
+half a quarter of a mile from the end of the Downs.
+
+‘Tom cast a hasty glance at the upper part of the [[house]] as he threw the
+reins to the hostler, and stuck the whip in the box. It was a strange
+old place, built of a kind of shingle, inlaid, as it were, with [[Cross|cross]]-
+beams, with gabled-topped windows projecting completely over the
+pathway, and a low door with a dark porch, and a couple of steep steps
+leading down into the [[house]], instead of the modern fashion of half a
+dozen shallow ones leading up to it. It was a comfortable-looking place
+though, for there was a strong, cheerful light in the bar [[Window|window]], which
+shed a bright ray across the [[Road|road]], and even lighted up the hedge on the
+other side; and there was a red flickering light in the opposite [[Window|window]],
+one moment but faintly discernible, and the next gleaming strongly
+through the drawn curtains, which intimated that a rousing [[Fire|fire]] was
+blazing within. Marking these little evidences with the eye of an
+experienced traveller, Tom dismounted with as much agility as his half-
+frozen limbs would permit, and entered the [[house]].
+
+‘In less than five minutes’ [[Time|time]], Tom was ensconced in the room opposite
+the bar--the very room where he had imagined the [[Fire|fire]] blazing--before a
+substantial, matter-of-fact, roaring [[Fire|fire]], composed of something short
+of a bushel of coals, and wood enough to make half a dozen decent
+gooseberry bushes, piled half-way up the chimney, and roaring and
+crackling with a sound that of itself would have warmed the heart of any
+reasonable man. This was comfortable, but this was not all; for a
+smartly-dressed girl, with a bright eye and a neat ankle, was laying a
+very clean white cloth on the table; and as Tom sat with his slippered
+feet on the fender, and his back to the open door, he saw a charming
+prospect of the bar reflected in the glass over the chimney-piece, with
+delightful rows of green bottles and gold labels, together with jars of
+pickles and preserves, and cheeses and boiled hams, and rounds of beef,
+arranged on shelves in the most tempting and delicious array. [[Well]], this
+was comfortable too; but even this was not all--for in the bar, seated
+at tea at the nicest possible little table, drawn close up before the
+brightest possible little [[Fire|fire]], was a buxom widow of somewhere about
+eight-and-forty or thereabouts, with a face as comfortable as the bar,
+who was evidently the landlady of the [[house]], and the supreme ruler over
+all these agreeable possessions. There was only one drawback to the
+[[Beauty|beauty]] of the whole picture, and that was a tall man--a very tall man--
+in a brown coat and bright basket buttons, and black whiskers and wavy
+black hair, who was seated at tea with the widow, and who it required no
+great penetration to discover was in a fair way of persuading her to be
+a widow no longer, but to confer upon him the privilege of sitting down
+in that bar, for and during the whole remainder of the term of his
+natural life.
+
+‘Tom Smart was by no means of an irritable or envious disposition, but
+somehow or other the tall man with the brown coat and the bright basket
+buttons did rouse what little gall he had in his composition, and did
+make him feel extremely indignant, the more especially as he could now
+and then observe, from his seat before the glass, certain little
+affectionate familiarities passing between the tall man and the widow,
+which sufficiently denoted that the tall man was as high in favour as he
+was in size. Tom was fond of hot punch--I may venture to say he was
+_very_ fond of hot punch--and after he had seen the vixenish mare [[Well|well]]
+fed and [[Well|well]] littered down, and had eaten every bit of the nice little
+hot dinner which the widow tossed up for him with her own hands, he just
+ordered a tumbler of it by way of experiment. Now, if there was one
+thing in the whole range of domestic art, which the widow could
+manufacture better than another, it was this identical article; and the
+first tumbler was adapted to Tom Smart’s taste with such peculiar
+nicety, that he ordered a second with the least possible delay. Hot
+punch is a pleasant thing, gentlemen--an extremely pleasant thing under
+any circumstances--but in that snug old parlour, before the roaring
+[[Fire|fire]], with the [[Wind|wind]] blowing outside till every timber in the old [[house]]
+creaked again, Tom Smart found it perfectly delightful. He ordered
+another tumbler, and then another--I am not quite certain whether he
+didn’t order another after that--but the more he drank of the hot punch,
+the more he thought of the tall man.
+
+‘“Confound his impudence!” said Tom to himself, “what business has he in
+that snug bar? Such an ugly [[Villain|villain]] too!” said Tom. “If the widow had
+any taste, she might surely pick up some better fellow than that.” Here
+Tom’s eye wandered from the glass on the chimney-piece to the glass on
+the table; and as he felt himself becoming gradually sentimental, he
+emptied the fourth tumbler of punch and ordered a fifth.
+
+‘Tom Smart, gentlemen, had always been very much attached to the public
+line. It had been long his [[Ambition|ambition]] to stand in a bar of his own, in a
+green coat, knee-cords, and tops. He had a great notion of taking the
+chair at convivial dinners, and he had often thought how [[Well|well]] he could
+preside in a room of his own in the talking way, and what a capital
+example he could set to his customers in the drinking department. All
+these things passed rapidly through Tom’s mind as he sat drinking the
+hot punch by the roaring [[Fire|fire]], and he felt very justly and properly
+indignant that the tall man should be in a fair way of keeping such an
+excellent [[house]], while he, Tom Smart, was as far off from it as ever.
+So, after deliberating over the two last tumblers, whether he hadn’t a
+perfect right to pick a quarrel with the tall man for having contrived
+to get into the good graces of the buxom widow, Tom Smart at last
+arrived at the satisfactory conclusion that he was a very ill-used and
+persecuted individual, and had better go to bed.

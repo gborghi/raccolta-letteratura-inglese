@@ -145,17 +145,3 @@ has tea; so let us have it, and don’t bother.’
 
 ‘Sweet Sally!’ cried Quilp, extending his arms as if about to embrace
 her.  ‘Gentle, charming, overwhelming Sally.’
-
-‘He’s a very remarkable man indeed!’ soliloquised Mr Brass.  ‘He’s
-quite a Troubadour, you know; quite a Troubadour!’
-
-These complimentary expressions were uttered in a somewhat absent and
-distracted manner; for the unfortunate lawyer, besides having a bad
-cold in his head, had got wet in coming, and would have willingly borne
-some pecuniary sacrifice if he could have shifted his present raw
-quarters to a warm room, and dried himself at a [[Fire|fire]].  Quilp,
-however--who, beyond the gratification of his demon whims, owed Sampson
-some acknowledgment of the part he had played in the mourning scene of
-which he had been a hidden witness, marked these symptoms of uneasiness
-with a delight past all expression, and derived from them a secret joy
-which the costliest banquet could never have afforded him.

@@ -1,5 +1,5 @@
 ---
-title: "[[CharlesDickens]] — Chapter 7 (part 5)"
+title: "CharlesDickens — Chapter 7 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/charlesdickens-(chesterton)"
@@ -10,9 +10,59 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/charlesdickens-(chesterton)">CharlesDickens</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/charlesdickens/chapter_10/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/charlesdickens/chapter_11/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/charlesdickens/chapter_10/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/charlesdickens/chapter_10/part_06">part 06 ›</a></div>
 </nav>
 
+
+Dickens, as has been said, went to [[Italy]] with this kindly
+cloud still about him, still meditating on Yule mysteries.
+Among the olives and the orange-trees he wrote his second
+great Christmas tale, "The Chimes," at Genoa in 1844,
+a Christmas tale only differing from "The Christmas [[carol|Carol]]"
+in being fuller of the grey rains of [[Winter|winter]] and the north.
+"The Chimes" is, like the "[[carol|Carol]]," an appeal for [[Charity|charity]] and mirth,
+but it is a stern and fighting appeal:  if the other is a
+Christmas [[carol]], this is a Christmas war-[[Song|song]]. In it Dickens hurled
+himself with even more than his usual militant joy and scorn
+into an attack upon a cant, which he said made his [[Blood|blood]] boil.
+This cant was nothing more nor less than the whole tone taken by
+three-quarters of the political and economic world towards the poor.
+It was a vague and vulgar Benthamism with a rollicking Tory
+touch in it.  It explained to the poor their duties with a
+cold and coarse philanthropy unendurable by any free man.
+It had also at its command a kind of brutal banter,
+a loud good [[Humour|humour]] which Dickens sketches savagely
+in [[Alderman Cute]].  He fell furiously on all their ideas:
+the cheap advice to live cheaply, the base advice to live basely,
+above all, the preposterous primary assumption that the rich
+are to advise the poor and not the poor the rich.
+There were and are hundreds of these benevolent bullies.
+Some say that the poor should give up having children, which means
+that they should give up their great virtue of sexual [[Sanity|sanity]].
+Some say that they should give up "treating" each other,
+which means that they should give up all that remains to them
+of the virtue of hospitality.  Against all of this Dickens
+thundered very thoroughly in "The Chimes."  It may be remarked
+in passing that this affords another instance of a confusion
+already referred to, the confusion whereby Dickens supposed himself
+to be exalting the present over the past, whereas he was really
+dealing deadly blows at things strictly peculiar to the present.
+Embedded in this very book is a somewhat useless interview
+between [[Trotty Veck]] and the church [[Bells|bells]], in which the latter
+lecture the former for having supposed (why, I don't know)
+that they were expressing regret for the disappearance of the
+Middle Ages.  There is no reason why [[Trotty Veck]] or anyone else
+should idealise the Middle Ages, but certainly he was the last
+man in the world to be asked to idealise the nineteenth century,
+seeing that the smug and stingy [[philosophy]], which poisons his life
+through the book, was an exclusive creation of that century.
+But, as I have said before, the fieriest mediævalist may
+forgive Dickens for disliking the good things the Middle Ages
+took away, considering how he loved whatever good things
+the Middle Ages left behind.  It matters very little that
+he hated old feudal castles when they were already old.
+It matters very much that he hated the New Poor Law while it
+was still new.
 
 The moral of this matter in "The Chimes" is essential.
 Dickens had sympathy with the poor in the Greek and literal sense;
@@ -60,47 +110,3 @@ the luxuries of life and we will dispense with the necessities."
 But it is the whole human race that says it, from the first savage
 wearing feathers instead of clothes to the last costermonger
 having a treat instead of three meals.
-
-The third of his Christmas stories, "The Cricket on the Hearth,"
-calls for no extensive comment, though it is very characteristic.
-It has all the qualities which we have called dominant qualities
-in his Christmas sentiment.  It has cosiness, that is the comfort
-that depends upon a discomfort surrounding it.  It has a sympathy
-with the poor, and especially with the extravagance of the poor;
-with what may be called the temporary wealth of the poor.
-It has the sentiment of the hearth, that is, the sentiment
-of the open [[Fire|fire]] being the red heart of the room.
-That open [[Fire|fire]] is the veritable flame of England, still kept
-burning in the midst of a mean civilisation of stoves.
-But everything that is valuable in "The Cricket on the Hearth"
-is perhaps as [[Well|well]] expressed in the title as it is in the story.
-The tale itself, in spite of some of those inimitable
-things that Dickens never failed to say, is a little too
-comfortable to be quite convincing.  "The Christmas [[carol|Carol]]"
-is the [[Conversion|conversion]] of an anti-Christmas character.
-"The Chimes" is a slaughter of anti-Christmas characters.
-"The Cricket," perhaps, fails for lack of this crusading note.
-For everything has its weak side, and when full justice
-has been done to this neglected note of poetic comfort,
-we must remember that it has its very real weak side.
-The defect of it in the work of Dickens was that he tended sometimes
-to pile up the cushions until none of the characters could move.
-He is so much interested in effecting his state of static
-happiness that he forgets to make a story at all.  His princes
-at the start of the story begin to live happily ever afterwards.
-We feel this strongly in "Master Humphrey's [[Clock]]" and we feel it
-sometimes in these Christmas stories.  He makes his characters
-so comfortable that his characters begin to dream and drivel.
-And he makes his reader so comfortable that his reader
-goes to [[Sleep|sleep]].
-
-The actual tale of the carrier and his wife sounds somewhat
-sleepily in our ears; we cannot keep our attention fixed on it,
-though we are conscious of a kind of warmth from it as from
-a great wood [[Fire|fire]].  We know so [[Well|well]] that everything will soon
-be all right that we do not suspect when the carrier suspects,
-and are not frightened when the gruff [[Tackleton]] growls.
-The sound of the festivities at the end come fainter on
-our ears than did the shout of the Cratchits or [[The Bells|the bells]]
-of [[Trotty Veck]].  All the good figures that followed Scrooge
-when he came growling out of the fog fade into the fog again.

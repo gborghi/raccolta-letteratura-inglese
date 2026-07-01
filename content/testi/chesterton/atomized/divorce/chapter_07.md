@@ -1,5 +1,5 @@
 ---
-title: "[[divorce]] — Chapter 7"
+title: "divorce — Chapter 7"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/divorce-(chesterton)"

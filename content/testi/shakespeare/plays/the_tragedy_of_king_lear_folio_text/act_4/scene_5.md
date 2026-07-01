@@ -1,5 +1,5 @@
 ---
-title: "The [[Tragedy]] of [[King Lear]] (Folio Text) — Act IV, Scene 5"
+title: "The Tragedy of King Lear (Folio Text) — Act IV, Scene 5"
 author: "Shakespeare"
 unitType: scene
 parentWork: "works/the-tragedy-of-king-lear---the-folio-text-(shakespeare)"

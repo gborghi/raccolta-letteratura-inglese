@@ -1,5 +1,5 @@
 ---
-title: "[[Ms. Found in a Bottle]] (part 1)"
+title: "Ms. Found in a Bottle (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/ms.-found-in-a-bottle-(poe)"
@@ -203,11 +203,3 @@ N’a plus rien a dissimuler.
       first, struck with the idea of our being among breakers; so
 
       terrific, beyond the wildest [[Imagination|imagination]], was the whirlpool of
-
-      mountainous and foaming ocean within which we were engulfed.
-
-      After a while, I heard the voice of an old Swede, who had shipped
-
-      with us at the moment of our leaving port. I hallooed to him with
-
-      all my strength, and presently he came reeling aft. We soon

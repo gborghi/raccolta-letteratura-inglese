@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 16 (part 2)"
+title: "Persuasion — Chapter 16 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_16/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_17/part_01">part 01 ›</a></div>
 </nav>
 
+
+in attributing to him such imaginations; for though his [[Marriage|marriage]] had
+
+not been very happy, still it had existed so many years that she could
+
+not comprehend a very rapid recovery from the awful impression of its
 
 being dissolved.
 

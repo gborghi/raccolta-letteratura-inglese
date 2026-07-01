@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 59 (part 4)"
+title: "Barnaby Rudge — Chapter 59 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,34 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_59/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_61/part_01">part 01 ›</a></div>
 </nav>
 
+
+[[Simon Tappertit]], who had at first implicitly believed that the
+locksmith’s daughter, unable any longer to suppress her secret passion
+for himself, was about to give it full vent in its intensity, and to
+declare that she was his for ever, looked extremely foolish when she
+said these words;--the more so, as they were received by Hugh and Dennis
+with a loud laugh, which made her draw back, and regard him with a fixed
+and earnest look.
+
+‘Miss Haredale,’ said Sim, after a very awkward [[Silence|silence]], ‘I [[Hope|hope]]
+you’re as comfortable as circumstances will permit of. [[Dolly Varden]],
+my darling--my own, my lovely one--I [[Hope|hope]] YOU’RE pretty comfortable
+likewise.’
+
+Poor little Dolly! She saw how it was; hid her face in her hands; and
+sobbed more bitterly than ever.
+
+‘You meet in me, Miss V.,’ said Simon, laying his hand upon his breast,
+‘not a ‘prentice, not a workman, not a slave, not the wictim of your
+father’s tyrannical behaviour, but the leader of a great people, the
+captain of a noble band, in which these gentlemen are, as I may say,
+corporals and serjeants. You behold in me, not a private individual, but
+a public character; not a mender of locks, but a healer of the wounds of
+his unhappy country. Dolly V., sweet Dolly V., for how many years have
+I looked forward to this present meeting! For how many years has it been
+my intention to exalt and ennoble you! I redeem it. Behold in me, your
+husband. Yes, beautiful Dolly--charmer--enslaver--S. Tappertit is all
+your own!’
 
 As he said these words he advanced towards her. Dolly retreated till she
 could go no farther, and then sank down upon the floor. Thinking it very

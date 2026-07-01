@@ -1,5 +1,5 @@
 ---
-title: "[[The Man That Was Used Up]] (part 2)"
+title: "The Man That Was Used Up (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-man-that-was-used-up-(poe)"
@@ -12,6 +12,12 @@ tags:
 <div class="excerpt-crumb">Poe · <a href="/works/the-man-that-was-used-up-(poe)">The Man That Was Used Up</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_man_that_was_used_up/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/the_man_that_was_used_up/part/part_03">part 03 ›</a></div>
 </nav>
+
+
+      thunder, and all that!—_prodigies_ of valor!—heard of him of
+
+      course?—you know he’s the man—”
+
 
 
       “Man alive, how _do_ you do? why, how _are_ ye? _very_ glad to
@@ -70,7 +76,7 @@ tags:
 
       wonderful people, and live in a wonderful age. Parachutes and
 
-      rail-roads—man-traps and [[Spring|spring]]-guns! Our steam-boats are upon
+      rail-roads—man-traps and [[spring]]-guns! Our steam-boats are upon
 
       every sea, and the Nassau balloon packet is about to run regular
 
@@ -197,15 +203,3 @@ tags:
       very crowded [[house]], and I experienced some little difficulty in
 
       making my wishes understood; especially, as our box was next the
-
-      slips, and completely overlooked the stage.
-
-
-
-      “[[smith|Smith]]!” said Miss Arabella, as she at length comprehended the
-
-      purport of my query; “[[smith|Smith]]!—why, not General John A. B. C.?”
-
-
-
-      “[[smith|Smith]]!” inquired [[Miranda]], musingly. “God bless me, did you ever

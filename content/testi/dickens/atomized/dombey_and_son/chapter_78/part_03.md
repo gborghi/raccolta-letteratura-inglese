@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 22 (part 3)"
+title: "Dombey and Son — Chapter 50 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,139 +14,123 @@ tags:
 </nav>
 
 
-“Let me see this fellow, Perch,” said Mr Carker. “Bring him in!”
+“Oh!” returned Walter, “would you have me die in her esteem—in such
+esteem as hers—and put a veil between myself and her angel’s face for
+ever, by taking advantage of her being here for refuge, so trusting and
+so unprotected, to endeavour to exalt myself into her [[Lover|lover]]? What do I
+say? There is no one in the world who would be more opposed to me if I
+could do so, than you.”
 
-“Yes, Sir. Begging your pardon, Sir,” said Mr Perch, hesitating at the
-door, “he’s rough, Sir, in appearance.”
+“Wal”r, my lad,” said the Captain, drooping more and more, “prowiding
+as there is any just cause or impediment why two persons should not be
+jined together in the [[house]] of bondage, for which you’ll overhaul the
+place and make a note, I [[Hope|hope]] I should declare it as promised and wowed
+in the banns. So there ain’t no other character; ain’t there, my lad?”
 
-“Never mind. If he’s there, bring him in. I’ll see Mr Gills directly.
-Ask him to wait.”
+Walter briskly waved his hand in the negative.
 
-Mr Perch bowed; and shutting the door, as precisely and carefully as if
-he were not coming back for a week, went on his [[Quest|quest]] among the
-sparrows in the [[Court|court]]. While he was gone, Mr Carker assumed his
-favourite attitude before the [[Fire|fire]]-place, and stood looking at the
-door; presenting, with his under lip tucked into the smile that showed
-his whole row of upper teeth, a singularly crouching apace.
+“[[Well]], my lad,” growled the Captain slowly, “I won’t deny but what I
+find myself wery much down by the head, along o’ this here, or but what
+I’ve gone clean about. But as to Lady lass, Wal”r, mind you, wot’s
+respect and duty to her, is respect and duty in my articles, howsumever
+disapinting; and therefore I follows in your wake, my lad, and feel as
+you are, no [[Doubt|doubt]], acting up to yourself. And there ain’t no other
+character, ain’t there?” said the Captain, musing over the ruins of his
+fallen [[Castle|castle]], with a very despondent face.
 
-The messenger was not long in returning, followed by a pair of heavy
-boots that came bumping along the passage like boxes. With the
-unceremonious words “Come along with you!”—a very unusual form of
-introduction from his lips—Mr Perch then ushered into the presence a
-strong-built lad of fifteen, with a round red face, a round sleek head,
-round black eyes, round limbs, and round [[Body|body]], who, to carry out the
-general rotundity of his appearance, had a round hat in his hand,
-without a particle of brim to it.
+“Now, [[Captain Cuttle]],” said Walter, starting a fresh point with a gayer
+air, to cheer the Captain up—but nothing could do that; he was too much
+concerned—“I think we should exert ourselves to find someone who would
+be a proper attendant for Miss Dombey while she remains here, and who
+may be trusted. None of her relations may. It’s clear Miss Dombey feels
+that they are all subservient to her father. What has become of Susan?”
 
-Obedient to a nod from Mr Carker, Perch had no sooner confronted the
-visitor with that gentleman than he withdrew. The moment they were face
-to face [[Alone|alone]], Mr Carker, without a word of preparation, took him by
-the throat, and shook him until his head seemed loose upon his
-shoulders.
+“The young woman?” returned the Captain. “It’s my belief as she was
+sent away again the will of Heart’s Delight. I made a signal for her
+when Lady lass first come, and she rated of her wery high, and said she
+had been gone a long [[Time|time]].”
 
-The boy, who in the midst of his astonishment could not help staring
-wildly at the gentleman with so many white teeth who was choking him,
-and at the office walls, as though determined, if he were choked, that
-his last look should be at the mysteries for his intrusion into which
-he was paying such a severe penalty, at last contrived to utter—
+“Then,” said Walter, “do you ask Miss Dombey where she’s gone, and
+we’ll try to find her. The morning’s getting on, and Miss Dombey will
+soon be rising. You are her best friend. Wait for her upstairs, and
+leave me to take care of all down here.”
 
-“Come, Sir! You let me [[Alone|alone]], will you!”
+The Captain, very crest-fallen indeed, echoed the sigh with which
+Walter said this, and complied. Florence was delighted with her new
+room, anxious to see Walter, and overjoyed at the prospect of greeting
+her old friend Susan. But Florence could not say where Susan was gone,
+except that it was in Essex, and no one could say, she remembered,
+unless it were Mr Toots.
 
-“Let you [[Alone|alone]]!” said Mr Carker. “What! I have got you, have I?” There
-was no [[Doubt|doubt]] of that, and tightly too. “You dog,” said Mr Carker,
-through his set jaws, “I’ll strangle you!”
+With this information the [[Melancholy|melancholy]] Captain returned to Walter, and
+gave him to understand that Mr Toots was the young gentleman whom he
+had encountered on the door-step, and that he was a friend of his, and
+that he was a young gentleman of property, and that he hopelessly
+adored Miss Dombey. The Captain also related how the intelligence of
+Walter’s supposed fate had first made him acquainted with Mr Toots, and
+how there was solemn treaty and compact between them, that Mr Toots
+should be mute upon the subject of his [[Love|love]].
 
-Biler whimpered, would he though? oh no he wouldn’t—and what was he
-doing of—and why didn’t he strangle some—[[Body|body]] of his own size and not
-him: but Biler was quelled by the extraordinary [[Nature|nature]] of his
-reception, and, as his head became stationary, and he looked the
-gentleman in the face, or rather in the teeth, and saw him snarling at
-him, he so far forgot his manhood as to cry.
+The question then was, whether Florence could trust Mr Toots; and
+Florence saying, with a smile, “Oh, yes, with her whole heart!” it
+became important to find out where Mr Toots lived. This, Florence
+didn’t know, and the Captain had forgotten; and the Captain was telling
+Walter, in the little parlour, that Mr Toots was sure to be there soon,
+when in came Mr Toots himself.
 
-“I haven’t done nothing to you, Sir,” said Biler, otherwise Rob,
-otherwise Grinder, and always Toodle.
+“Captain Gills,” said Mr Toots, rushing into the parlour without any
+ceremony, “I’m in a state of mind bordering on distraction!”
 
-“You young scoundrel!” replied Mr Carker, slowly releasing him, and
-moving back a step into his favourite position. “What do you mean by
-daring to come here?”
+Mr Toots had discharged those words, as from a mortar, before he
+observed Walter, whom he recognised with what may be described as a
+chuckle of misery.
 
-“I didn’t mean no harm, Sir,” whimpered Rob, putting one hand to his
-throat, and the knuckles of the other to his eyes. “I’ll never come
-again, Sir. I only wanted work.”
+“You’ll excuse me, Sir,” said Mr Toots, holding his forehead, “but I’m
+at present in that state that my brain is going, if not gone, and
+anything approaching to politeness in an individual so situated would
+be a hollow mockery. Captain Gills, I beg to request the favour of a
+private interview.”
 
-“Work, young [[Cain]] that you are!” repeated Mr Carker, eyeing him
-narrowly. “Ain’t you the idlest vagabond in [[London]]?”
+“Why, Brother,” returned the Captain, taking him by the hand, “you are
+the man as we was on the look-out for.”
 
-The impeachment, while it much affected Mr Toodle Junior, attached to
-his character so justly, that he could not say a word in denial. He
-stood looking at the gentleman, therefore, with a frightened,
-[[Self|self]]-convicted, and remorseful air. As to his looking at him, it may be
-observed that he was fascinated by Mr Carker, and never took his round
-eyes off him for an instant.
+“Oh, Captain Gills,” said Mr Toots, “what a look-out that must be, of
+which I am the object! I haven’t dared to shave, I’m in that rash
+state. I haven’t had my clothes brushed. My hair is matted together. I
+told the Chicken that if he offered to clean my boots, I’d stretch him
+a Corpse before me!”
 
-“Ain’t you a thief?” said Mr Carker, with his hands behind him in his
-pockets.
+All these indications of a disordered mind were verified in Mr Toots’s
+appearance, which was wild and savage.
 
-“No, sir,” pleaded Rob.
+“See here, Brother,” said the Captain. “This here’s old Sol Gills’s
+nevy Wal”r. Him as was supposed to have perished at sea.”
 
-“You are!” said Mr Carker.
+Mr Toots took his hand from his forehead, and stared at Walter.
 
-“I ain’t indeed, Sir,” whimpered Rob. “I never did such a thing as
-thieve, Sir, if you’ll believe me. I know I’ve been a going wrong, Sir,
-ever since I took to bird-catching and walking-matching. I’m sure a
-cove might think,” said Mr Toodle Junior, with a burst of penitence,
-“that singing [[Birds|birds]] was [[Innocent|innocent]] company, but nobody knows what harm is
-in them little creeturs and what they brings you down to.”
+“Good gracious me!” stammered Mr Toots. “What a complication of misery!
+How-de-do? I—I—I’m afraid you must have got very wet. Captain Gills,
+will you allow me a word in the shop?”
 
-They seemed to have brought him down to a velveteen jacket and trousers
-very much the worse for wear, a particularly small red waistcoat like a
-gorget, an interval of blue check, and the hat before mentioned.
+He took the Captain by the coat, and going out with him whispered:
 
-“I ain’t been [[Home|home]] twenty times since them [[Birds|birds]] got their will of me,”
-said Rob, “and that’s ten months. How can I go [[Home|home]] when everybody’s
-miserable to see me! I [[Wonder|wonder]],” said Biler, blubbering outright, and
-smearing his eyes with his coat-cuff, “that I haven’t been and drownded
-myself over and over again.”
+“That then, Captain Gills, is the party you spoke of, when you said
+that he and Miss Dombey were made for one another?”
 
-All of which, including his expression of surprise at not having
-achieved this last scarce performance, the boy said, just as if the
-teeth of Mr Carker drew it out of him, and he had no power of
-concealing anything with that battery of attraction in full play.
+“Why, ay, my lad,” replied the disconsolate Captain; “I was of that
+mind once.”
 
-“You’re a nice young gentleman!” said Mr Carker, shaking his head at
-him. “There’s hemp-seed sown for you, my fine fellow!”
+“And at this [[Time|time]]!” exclaimed Mr Toots, with his hand to his forehead
+again. “Of all others!—a hated rival! At least, he ain’t a hated
+rival,” said Mr Toots, stopping short, on second thoughts, and taking
+away his hand; “what should I hate him for? No. If my affection has
+been truly disinterested, Captain Gills, let me prove it now!”
 
-“I’m sure, Sir,” returned the wretched Biler, blubbering again, and
-again having recourse to his coat-cuff: “I shouldn’t care, sometimes,
-if it was growed too. My misfortunes all began in wagging, Sir; but
-what could I do, exceptin’ wag?”
+Mr Toots shot back abruptly into the parlour, and said, wringing Walter
+by the hand:
 
-“Excepting what?” said Mr Carker.
-
-“Wag, Sir. Wagging from school.”
-
-“Do you mean pretending to go there, and not going?” said Mr Carker.
-
-“Yes, Sir, that’s wagging, Sir,” returned the quondam Grinder, much
-affected. “I was chivied through the streets, Sir, when I went there,
-and pounded when I got there. So I wagged, and hid myself, and that
-began it.”
-
-“And you mean to tell me,” said Mr Carker, taking him by the throat
-again, holding him out at arm’s-length, and surveying him in [[Silence|silence]]
-for some moments, “that you want a place, do you?”
-
-“I should be thankful to be tried, Sir,” returned Toodle Junior,
-faintly.
-
-Mr Carker the Manager pushed him backward into a corner—the boy
-submitting quietly, hardly venturing to breathe, and never once
-removing his eyes from his face—and rang the bell.
-
-“Tell Mr Gills to come here.”
-
-Mr Perch was too deferential to express surprise or recognition of the
-figure in the corner: and Uncle Sol appeared immediately.
-
-“Mr Gills!” said Carker, with a smile, “sit down. How do you do? You
-continue to enjoy your health, I [[Hope|hope]]?”
+“How-de-do? I [[Hope|hope]] you didn’t take any cold. I—I shall be very glad if
+you’ll give me the pleasure of your acquaintance. I wish you many happy
+returns of the day. Upon my word and [[Honour|honour]],” said Mr Toots, warming as
+he became better acquainted with Walter’s face and figure, “I’m very
+glad to see you!”

@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 29 (part 2)"
+title: "Nicholas Nickleby — Chapter 29 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -133,11 +133,3 @@ He had no [[Doubt|doubt]] reported that Nicholas was in a state of extreme bodil
 to the theatre next morning at the usual hour, he found all the company
 assembled in evident expectation, and Mr. Lenville, with his severest
 stage face, sitting majestically on a table, whistling defiance.
-
-Now the ladies were on the side of Nicholas, and the gentlemen (being
-jealous) were on the side of the disappointed tragedian; so that the
-latter formed a little group about the redoubtable Mr. Lenville, and the
-former looked on at a little distance in some trepidation and anxiety.
-On Nicholas stopping to salute them, Mr. Lenville laughed a scornful
-laugh, and made some general remark touching the natural [[history]] of
-puppies.

@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 18 (part 4)"
+title: "Jane Eyre — Chapter 18 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -122,14 +122,3 @@ shone hot and red. The footman who brought the coal, in going out,
 stopped near Mr. Eshton’s chair, and said something to him in a low
 voice, of which I heard only the words, “old woman,”—“quite
 troublesome.”
-
-“Tell her she shall be put in the stocks if she does not take herself
-off,” replied the magistrate.
-
-“No—stop!” interrupted Colonel Dent. “Don’t send her away, Eshton; we
-might turn the thing to account; better consult the ladies.” And
-speaking aloud, he continued—“Ladies, you talked of going to Hay Common
-to visit the gipsy camp; Sam here says that one of the old Mother
-Bunches is in the servants’ hall at this moment, and insists upon being
-brought in before ‘the quality,’ to tell them their fortunes. Would you
-like to see her?”

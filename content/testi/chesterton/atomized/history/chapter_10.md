@@ -1,5 +1,5 @@
 ---
-title: "[[history]] — Chapter 10"
+title: "history — Chapter 10"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/history-(chesterton)"

@@ -1,5 +1,5 @@
 ---
-title: "[[The Devil in the Belfry]] (part 3)"
+title: "The Devil in the Belfry (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-devil-in-the-belfry-(poe)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_devil_in_the_belfry/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/the_devil_in_the_belfry/part/part_04">part 04 ›</a></div>
 </nav>
 
+
+      [[Double|double]], but triple.
+
+
+
+      I have thus painted the happy estate of Vondervotteimittiss:
+
+      alas, that so fair a picture should ever experience a reverse!
+
+
+
+      There has been long a saying among the wisest inhabitants, that
+
+      “no good can come from over the hills”; and it really seemed that
 
       the words had in them something of the spirit of prophecy. It
 
@@ -221,31 +235,3 @@ tags:
 
 
       “Der Teufel!” gasped the little old gentlemen, turning pale,
-
-      dropping their pipes, and putting down all their right legs from
-
-      over their left knees.
-
-
-
-      “Der Teufel!” groaned they, “Dirteen! Dirteen!!—Mein Gott, it is
-
-      Dirteen o’[[Clock|clock]]!!”
-
-
-
-      Why attempt to describe the terrible scene which ensued? All
-
-      Vondervotteimittiss flew at once into a lamentable state of
-
-      uproar.
-
-
-
-      “Vot is cum’d to mein pelly?” roared all the boys—“I’ve been
-
-      ongry for dis hour!”
-
-
-
-      “Vot is com’d to mein kraut?” screamed all the vrows, “It has

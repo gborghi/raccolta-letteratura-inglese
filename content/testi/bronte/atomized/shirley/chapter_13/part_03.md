@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 13 (part 3)"
+title: "Shirley — Chapter 13 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_13/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_13/part_04">part 04 ›</a></div>
 </nav>
 
+
+"I have already had the luck to meet him. We held a long argument
+
+together one [[Night|night]]. A strange little incident it was; I liked it."
+
+
+
+"Liked it? I admire your taste! [[Michael]] is not sane. Where did you meet
+
+him?"
+
+
+
+"In the deepest, shadiest spot in the glen, where the [[Water|water]] runs low,
+
+under brushwood. We sat down near that plank bridge. It was moonlight,
 
 but clouded, and very windy. We had a talk."
 
@@ -261,25 +277,3 @@ are graves under them. I rather long to leave the rectory."
 
 
 "No, Mrs. Pryor; but I think I grow what is called nervous. I see things
-
-under a darker aspect than I used to do. I have fears I never used to
-
-have--not of [[Ghosts|ghosts]], but of omens and disastrous events; and I have an
-
-inexpressible weight on my mind which I would give the world to shake
-
-off, and I cannot do it."
-
-
-
-"Strange!" cried [[Shirley]]. "I never feel so." Mrs. Pryor said nothing.
-
-
-
-"Fine weather, pleasant days, pleasant scenes, are powerless to give me
-
-pleasure," continued Caroline. "Calm evenings are not calm to me.
-
-Moonlight, which I used to think mild, now only looks mournful. Is this
-
-weakness of mind, Mrs. Pryor, or what is it? I cannot help it. I often

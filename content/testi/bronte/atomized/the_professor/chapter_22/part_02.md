@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 21 (part 2)"
+title: "The Professor — Chapter 21 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -14,6 +14,12 @@ tags:
 </nav>
 
 
+drawing out of the sea of broth the fattest of heave-shoulders and the
+
+fleshiest of wave-breasts. I know this, because you never write to any
+
+one in England. Thankless dog that you are! I, by the sovereign efficacy
+
 of my recommendation, got you the place where you are now living in
 
 clover, and yet not a word of gratitude, or even acknowledgment, have
@@ -25,8 +31,6 @@ conception can you, with your addled aristocratic brains, form of the
 sort of moral kicking I have, ready packed in my carpet-bag, destined to
 
 be presented to you immediately on my arrival.
-
-
 
 “Meantime I know all about your affairs, and have just got information,
 
@@ -50,15 +54,9 @@ for you know neither the day nor hour when your ----” (I don’t wish to
 
 blaspheme, so I’ll leave a blank)--cometh.
 
-
-
 “Yours truly,
 
-
-
 “HUNSDEN [[Yorke Hunsden|YORKE HUNSDEN]].”
-
-
 
 “Humph!” said I; and ere I laid the letter down, I again glanced at the
 
@@ -74,8 +72,6 @@ rather than knew, to appertain to his [[Nature|nature]], and I answered, “A gr
 
 deal.”
 
-
-
 Hunsden, then, was coming to Brussels, and coming I knew not when;
 
 coming charged with the expectation of finding me on the summit of
@@ -83,8 +79,6 @@ coming charged with the expectation of finding me on the summit of
 prosperity, about to be married, to step into a warm nest, to lie
 
 comfortably down by the side of a snug, [[Well|well]]-fed little mate.
-
-
 
 “I wish him joy of the fidelity of the picture he has painted,” thought
 
@@ -102,8 +96,6 @@ merely very like him, I’d not condescend to get out of his way, or to
 
 forge a smile or a cheerful word wherewith to avert his sarcasm.”
 
-
-
 Then I recurred to the other letter: that struck a chord whose sound I
 
 could not deaden by thrusting my fingers into my ears, for it vibrated
@@ -111,8 +103,6 @@ could not deaden by thrusting my fingers into my ears, for it vibrated
 within; and though its swell might be exquisite music, its cadence was a
 
 groan.
-
-
 
 That Frances was relieved from the pressure of want, that the curse of
 
@@ -127,8 +117,6 @@ letter were then pleasant, sweet as two draughts of nectar; but applying
 my lips for the third [[Time|time]] to the cup, and they were excoriated as with
 
 vinegar and gall.
-
-
 
 Two persons whose desires are moderate may live [[Well|well]] enough in Brussels
 
@@ -198,20 +186,6 @@ the [[Window|window]]; and at the [[Window|window]], [[Self|self]]-reproach seem
 
 wall, [[Self|self]]-disdain: all at once out spoke [[Conscience]]:--
 
-
-
 “Down, stupid tormenters!” cried she; “the man has done his duty;
 
 you shall not bait him thus by thoughts of what might have been; he
-
-relinquished a temporary and contingent good to avoid a permanent and
-
-certain evil he did [[Well|well]]. Let him reflect now, and when your blinding
-
-[[Dust|dust]] and deafening hum subside, he will discover a path.”
-
-
-
-I sat down; I propped my forehead on both my hands; I thought and
-
-thought an hour--two hours; vainly. I seemed like one sealed in a

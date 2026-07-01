@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 31 (part 1)"
+title: "The Tenant of Wildfell Hall — Chapter 31 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -20,7 +20,7 @@ tags:
 
 
 
-March 20th, 1824. The dreaded [[Time|time]] is come, and [[arthur|Arthur]] is gone, as I
+March 20th, 1824. The dreaded [[Time|time]] is come, and [[Arthur]] is gone, as I
 
 expected. This [[Time|time]] he announced it his intention to make but a short
 
@@ -44,7 +44,7 @@ with his injustice, his selfishness and hopeless _depravity_. I wish a
 
 milder word would do; I am no angel, and my corruption rises against
 
-it. My poor father died last week: [[arthur|Arthur]] was vexed to hear of it,
+it. My poor father died last week: [[Arthur]] was vexed to hear of it,
 
 because he saw that I was shocked and grieved, and he feared the
 
@@ -136,7 +136,7 @@ know how bitter I find it!
 
 August 20th.—We are shaken down again to about our usual position.
 
-[[arthur|Arthur]] has returned to nearly his former condition and habits; and I
+[[Arthur]] has returned to nearly his former condition and habits; and I
 
 have found it my wisest plan to shut my eyes against the past and
 
@@ -168,7 +168,7 @@ request, his wife and [[Child|child]]. I long to see Milicent, and her little
 
 girl too. The latter is now above a year old; she will be a charming
 
-playmate for my little [[arthur|Arthur]].
+playmate for my little [[Arthur]].
 
 
 
@@ -200,7 +200,7 @@ detriment of your own fingers.
 
 
 
-Of late, however, I have seen nothing in her conduct towards [[arthur|Arthur]] to
+Of late, however, I have seen nothing in her conduct towards [[Arthur]] to
 
 anger or alarm me. During the first few days I thought she seemed very
 
@@ -219,13 +219,3 @@ indeed impenetrable, she suddenly remitted her efforts, and became, to
 all appearance, as perfectly indifferent as himself. Nor have I since
 
 witnessed any symptom of pique on his part, or renewed attempts at
-
-conquest upon hers.
-
-
-
-This is as it should be; but [[arthur|Arthur]] never will let me be satisfied with
-
-him. I have never, for a single hour since I married him, known what it
-
-is to realise that sweet idea, “In quietness and confidence shall be

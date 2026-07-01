@@ -14,6 +14,22 @@ tags:
 </nav>
 
 
+But this is only the first half of the claim of _The Ring and the
+Book_ to be the typical [[Epic|epic]] of modern times. The second half of that
+claim, the second respect in which the work is representative of all
+modern development, requires somewhat more careful statement. _The
+Ring and the Book_ is of course, essentially speaking, a [[Detective|detective]]
+story. Its difference from the ordinary [[Detective|detective]] story is that it
+seeks to establish, not the centre of criminal [[Guilt|guilt]], but the centre
+of spiritual [[Guilt|guilt]]. But it has exactly the same kind of exciting
+quality that a [[Detective|detective]] story has, and a very excellent quality it
+is. But the element which is important, and which now requires
+pointing out, is the method by which that centre of spiritual [[Guilt|guilt]]
+and the corresponding centre of spiritual rectitude is discovered. In
+order to make clear the peculiar character of this method, it is
+necessary to begin rather nearer the beginning, and to go back some
+little way in literary [[history]].
+
 I do not know whether anybody, including the editor himself, has ever
 noticed a peculiar coincidence which may be found in the arrangement
 of the lyrics in Sir Francis Palgrave's _Golden Treasury_. However
@@ -101,46 +117,3 @@ men halters and haloes; Browning gives men neither halter nor halo, he
 gives them voices. This is indeed the most bountiful of all the
 functions of the poet, that he gives men words, for which men from the
 beginning of the world have starved more than for bread.
-
-Here then we have the second great respect in which _The Ring and the
-Book_ is the great [[Epic|epic]] of the age. It is the great [[Epic|epic]] of the age,
-because it is the expression of the belief, it might almost be said,
-of the discovery, that no man ever lived upon this earth without
-possessing a point of view. No one ever lived who had not a little
-more to say for himself than any formal system of justice was likely
-to say for him. It is scarcely necessary to point out how entirely the
-application of this principle would revolutionise the old heroic
-[[Epic|epic]], in which the poet decided absolutely the moral relations and
-moral value of the characters. Suppose, for example, that Homer had
-written the _Odyssey_ on the principle of _The Ring and the Book_, how
-disturbing, how weird an experience it would be to read the story from
-the point of view of Antinous! Without contradicting a single material
-fact, without telling a single deliberate lie, the narrative would so
-change the whole world around us, that we should scarcely know we were
-dealing with the same place and people. The calm face of Penelope
-would, it may be, begin to grow meaner before our eyes, like a face
-changing in [[A Dream|a dream]]. She would begin to appear as a fickle and selfish
-woman, passing falsely as a widow, and playing a [[Double|double]] game between
-the attentions of foolish but honourable young men, and the fitful
-appearances of a wandering and good-for-nothing sailor-husband; a man
-prepared to act that most [[Well|well]]-worn of melodramatic rôles, the
-conjugal bully and blackmailer, the man who uses marital rights as an
-instrument for the worse kind of wrongs. Or, again, if we had the
-story of the fall of [[King Arthur]] told from the stand-point of Mordred,
-it would only be a matter of a word or two; in a turn, in the
-twinkling of an eye, we should find ourselves sympathising with the
-efforts of an earnest young man to frustrate the profligacies of
-high-placed paladins like Lancelot and Tristram, and ultimately
-discovering, with deep regret but unshaken moral [[Courage|courage]], that there
-was no way to frustrate them, except by overthrowing the cold and
-priggish and incapable egotist who ruled the country, and the whole
-artificial and bombastic schemes which bred these moral evils. It
-might be that in spite of this new view of the case, it would
-ultimately appear that [[Ulysses]] was really right and [[arthur|Arthur]] was really
-right, just as Browning makes it ultimately appear that Pompilia was
-really right. But any one can see the enormous difference in scope and
-difficulty between the old [[Epic|epic]] which told the whole story from one
-man's point of view, and the new [[Epic|epic]] which cannot come to its
-conclusion, until it has digested and assimilated views as paradoxical
-and disturbing as our imaginary defence of Antinous and apologia of
-Mordred.

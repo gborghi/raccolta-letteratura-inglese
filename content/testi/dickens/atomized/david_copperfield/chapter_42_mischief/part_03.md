@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 42: MISCHIEF (part 3)"
+title: "David Copperfield — Chapter 42: MISCHIEF (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_42_mischief/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_42_mischief/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘But please let me have it,’ said Dora, in her coaxing way, ‘if you
+can!’
+
+We made merry about Dora’s wanting to be liked, and Dora said I was a
+goose, and she didn’t like me at any rate, and the short evening flew
+away on gossamer-wings. The [[Time|time]] was at hand when the coach was to call
+for us. I was standing [[Alone|alone]] before the [[Fire|fire]], when Dora came stealing
+softly in, to give me that usual precious little kiss before I went.
+
+‘Don’t you think, if I had had her for a friend a long [[Time|time]] ago, Doady,’
+said Dora, her bright eyes shining very brightly, and her little right
+hand idly busying itself with one of the buttons of my coat, ‘I might
+have been more clever perhaps?’
 
 ‘My [[Love|love]]!’ said I, ‘what nonsense!’
 
@@ -132,15 +146,3 @@ working at the Dictionary without my help. With the view of seeing if
 this were so, and, in any case, of bidding him good [[Night|night]], if he were
 yet sitting among his books, I turned back, and going softly across the
 hall, and gently opening the door, looked in.
-
-The first person whom I saw, to my surprise, by the sober light of the
-shaded lamp, was Uriah. He was standing close beside it, with one of
-his [[skeleton]] hands over his mouth, and the other resting on the Doctor’s
-table. The Doctor sat in his study chair, covering his face with his
-hands. Mr. Wickfield, sorely troubled and distressed, was leaning
-forward, irresolutely touching the Doctor’s arm.
-
-For an instant, I supposed that the Doctor was ill. I hastily advanced a
-step under that impression, when I met Uriah’s eye, and saw what was the
-matter. I would have withdrawn, but the Doctor made a gesture to detain
-me, and I remained.

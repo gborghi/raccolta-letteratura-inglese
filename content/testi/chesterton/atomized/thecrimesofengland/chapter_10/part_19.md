@@ -1,5 +1,5 @@
 ---
-title: "[[TheCrimesOfEngland]] — Chapter 10 (part 19)"
+title: "TheCrimesOfEngland — Chapter 10 (part 19)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thecrimesofengland-(chesterton)"
@@ -13,6 +13,104 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thecrimesofengland/chapter_10/part_18">‹ part 18</a><a class="ex-next" href="/testi/chesterton/atomized/thecrimesofengland/chapter_10/part_20">part 20 ›</a></div>
 </nav>
 
+
+feel themselves covered by a roof as by the folded wings of some vast
+
+domestic fowl; and feel common doors like great mouths that opened to
+
+utter welcome. In the story of "The Fir Tree" he transplanted to
+
+England a living bush that can still blossom into candles. And in his
+
+tale of "The Tin Soldier" he uttered the true defence of romantic
+
+militarism against the prigs who would forbid it even as a toy for the
+
+nursery. He suggested, in the true tradition of the folk-tales, that the
+
+dignity of the fighter is not in his largeness but rather in his
+
+smallness, in his stiff loyalty and heroic helplessness in the hands of
+
+larger and lower things. These things, alas, were an [[Allegory|allegory]]. When
+
+Prussia, finding her crimes unpunished, afterwards carried them into
+
+France as [[Well|well]] as [[Denmark]], Carlyle and his school made some effort to
+
+justify their Germanism, by pitting what they called the piety and
+
+simplicity of [[Germany]] against what they called the cynicism and ribaldry
+
+of France. But nobody could possibly pretend that Bismarck was more
+
+pious and simple than Hans Andersen; yet the Carlyleans looked on with
+
+[[Silence|silence]] or approval while the [[Innocent|innocent]] toy kingdom was broken like a
+
+toy. Here again, it is enormously probable that England would have
+
+struck upon the right side, if the English people had been the English
+
+[[government|Government]]. Among other coincidences, the Danish princess who had
+
+married the English heir was something very like a fairy princess to the
+
+English crowd. The national poet had hailed her as a daughter of the
+
+sea-kings; and she was, and indeed still is, the most popular royal
+
+figure in England. But whatever our people may have been like, our
+
+politicians were on the very tamest level of timidity and the [[Fear|fear]] of
+
+force to which they have ever sunk. The Tin Soldier of the Danish army
+
+and the paper boat of the Danish navy, as in the story, were swept away
+
+down the great gutter, down that colossal _cloaca_ that leads to the
+
+vast cesspool of Berlin.
+
+Why, as a fact, did not England interpose? There were a great many
+
+reasons given, but I think they were all various inferences from one
+
+reason; indirect results and sometimes quite illogical results, of what
+
+we have called the Germanisation of England. First, the very insularity
+
+on which we insisted was barbaric, in its refusal of a seat in the
+
+central senate of the nations. What we called our splendid isolation
+
+became a rather ignominious sleeping-partnership with Prussia. Next, we
+
+were largely trained in irresponsibility by our contemporary historians,
+
+Freeman and Green, teaching us to be proud of a possible descent from
+
+[[King Arthur]]'s nameless enemies and not from [[King Arthur]]. [[King Arthur]]
+
+might not be historical, but at least he was legendary. Hengist and
+
+Horsa were not even legendary, for they left no legend. Anybody could
+
+see what was obligatory on the representative of [[Arthur]]; he was bound to
+
+be chivalrous, that is, to be European. But nobody could imagine what
+
+was obligatory on the representative of Horsa, unless it were to be
+
+horsy. That was perhaps the only part of the Anglo-Saxon programme that
+
+the contemporary English really carried out. Then, in the very real
+
+decline from Cobbett to Cobden (that is, from a broad to a narrow
+
+manliness and good sense) there had grown up the cult of a very curious
+
+kind of peace, to be spread all over the world not by pilgrims, but by
 
 pedlars. Mystics from the beginning had made vows of peace--but they
 
@@ -38,8 +136,6 @@ the upstart despotism, must have looked on at its cold brutality not
 
 without that ugly question which [[Hamlet]] asked himself--am I a coward?
 
-
-
                       It cannot be
 
   But I am pigeon-livered and lack gall
@@ -50,21 +146,9 @@ without that ugly question which [[Hamlet]] asked himself--am I a coward?
 
   With this slave's offal.
 
-
-
 We made dumb our anger and our [[Honour|honour]]; but it has not brought us peace.
 
-
-
-
-
-
-
 VII--_The Midnight of Europe_
-
-
-
-
 
 Among the minor crimes of England may be classed the shallow criticism
 
@@ -101,113 +185,3 @@ him a sea-piece and had brought him a piece of the sea; or if, during
 the decoration of his [[house]], the same aesthetic humourist had undertaken
 
 to procure some Indian Red and had produced a Red Indian.
-
-
-
-The Englishman would not see that if there was only a verbal difference
-
-between the French Emperor and the Emperor of the French, so, if it came
-
-to that, it was a verbal difference between the Emperor and the
-
-Republic, or even between a Parliament and no Parliament. For him an
-
-Emperor meant merely despotism; he had not yet learned that a Parliament
-
-may mean merely oligarchy. He did not know that the English people would
-
-soon be made impotent, not by the disfranchising of their constituents,
-
-but simply by the silencing of their members; and that the governing
-
-class of England did not now depend upon rotten boroughs, but upon
-
-rotten representatives. Therefore he did not understand Bonapartism. He
-
-did not understand that French [[democracy]] became more democratic, not
-
-less, when it turned all France into one constituency which elected one
-
-member. He did not understand that many dragged down the Republic
-
-because it was not republican, but purely senatorial. He was yet to
-
-learn how quite corruptly senatorial a great representative assembly can
-
-become. Yet in England to-day we hear "the decline of Parliament" talked
-
-about and taken for granted by the best Parliamentarians--Mr. Balfour,
-
-for instance--and we hear the one partly French and wholly Jacobin
-
-historian of the [[French Revolution]] recommending for the English evil a
-
-revival of the power of the [[Crown]]. It seems that so far from having left
-
-Louis Napoleon far behind in the grey [[Dust|dust]] of the dead despotisms, it is
-
-not at all improbable that our most extreme revolutionary developments
-
-may end where Louis Napoleon began.
-
-
-
-In other words, the Victorian Englishman did not understand the words
-
-"Emperor of the French." The type of title was deliberately chosen to
-
-express the idea of an elective and popular origin; as against such a
-
-phrase as "the German Emperor," which expresses an almost
-
-transcendental tribal patriarchate, or such a phrase as "[[King]] of
-
-Prussia," which suggests personal ownership of a whole territory. To
-
-treat the _Coup d'état_ as unpardonable is to justify riot against
-
-despotism, but forbid any riot against aristocracy. Yet the idea
-
-expressed in "The Emperor of the French" is not dead, but rather risen
-
-from the dead. It is the idea that while a [[government]] may pretend to be
-
-a popular [[government]], only a person can be really popular. Indeed, the
-
-idea is still the [[Crown|crown]] of American [[democracy]], as it was for a [[Time|time]] the
-
-[[Crown|crown]] of French [[democracy]]. The very powerful official who makes the
-
-choice of that great people for peace or war, might very [[Well|well]] be called,
-
-not the President of the United States, but the President of the
-
-Americans. In [[Italy]] we have seen the [[King]] and the mob prevail over the
-
-conservatism of the Parliament, and in [[Russia]] the new popular policy
-
-sacramentally symbolised by the Czar riding at the head of the new
-
-armies. But in one place, at least, the actual form of words exists; and
-
-the actual form of words has been splendidly justified. One man among
-
-the sons of men has been permitted to fulfil a courtly formula with
-
-awful and disastrous fidelity. Political and geographical ruin have
-
-written one last royal title across the sky; the loss of palace and
-
-capital and territory have but isolated and made evident the people that
-
-has not been lost; not laws but the [[Love|love]] of exiles, not soil but the
-
-souls of men, still make certain that five true words shall yet be
-
-written in the corrupt and fanciful chronicles of mankind: "The [[King]] of
-
-the Belgians."
-
-
-
-It is a common phrase, recurring constantly in the real if rabid

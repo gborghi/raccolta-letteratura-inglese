@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 50 (part 1)"
+title: "Oliver Twist — Chapter 50 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -121,11 +121,3 @@ swagger, turned to Chitling and said,
 lucky up the wash-us chimney, and Bolter got into the empty [[Water|water]]-butt,
 head downwards; but his legs were so precious long that they stuck out
 at the top, and so they took him too.”
-
-“And Bet?”
-
-“Poor Bet! She went to see the [[Body]], to speak to who it was,” replied
-Chitling, his countenance falling more and more, “and went off mad,
-screaming and raving, and beating her head against the boards; so they
-put a strait-weskut on her and took her to the hospital—and there she
-is.”

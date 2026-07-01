@@ -14,6 +14,18 @@ tags:
 </nav>
 
 
+at last in extracting a scrap of information from him, by dint of
+
+ordering beer and talking to him persistently and minutely on the
+
+subject of motor cars. He evidently regarded the innkeeper as in
+
+some singular way an authority on motor cars; as being deep in the
+
+[[Secrets|secrets]] of the mechanism, management, and mismanagement of motor
+
+cars; holding the man all the [[Time|time]] with a glittering eye like the
+
 [[Ancient Mariner]]. Out of all this rather mysterious conversation
 
 there did emerge at last a sort of admission that one particular
@@ -175,18 +187,3 @@ than a cart track, which lay opposite the inn and marked the end of
 the great estate and the beginning of the open moors. March plodded
 
 after him with the same idle perseverance, and found him staring
-
-through a gap in giant weeds and thorns at the flat face of a
-
-painted paling. From behind the paling [[Rose|rose]] the great gray columns
-
-of a row of poplars, which filled the heavens above them with
-
-dark-green [[Shadow|shadow]] and shook faintly in a [[Wind|wind]] which had sunk slowly
-
-into a breeze. The afternoon was already deepening into evening, and
-
-the [[titanic]] shadows of the poplars lengthened over a third of the
-
-landscape.
-"Are you a first-class criminal?" asked Fisher, in a friendly tone.

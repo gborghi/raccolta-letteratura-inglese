@@ -1,5 +1,5 @@
 ---
-title: "[[wifrb11]] — The Absence of Mr Glass (part 2)"
+title: "wifrb11 — The Absence of Mr Glass (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -71,7 +71,7 @@ big box in the corner, which is kept locked all day.  You see,
 therefore, how this sealed door of Todhunter's is treated as the gate
 of all the fancies and monstrosities of the `Thousand and One Nights'. 
 And yet there is the little fellow in his respectable black jacket,
-as punctual and [[Innocent|innocent]] as a parlour [[Clock|clock]].  He pays his rent to the tick;
+as punctual and innocent as a parlour clock.  He pays his rent to the tick;
 he is practically a teetotaller; he is tirelessly kind with
 the younger children, and can keep them amused for a day on end; and,
 last and most urgent of all, he has made himself equally popular with
@@ -84,17 +84,17 @@ He settled himself with comfort in his arm-chair and began to talk in
 the tone of a somewhat absent-minded lecturer:
 
      "Even in a minute instance, it is best to look first to
-the main tendencies of [[Nature]].  A particular flower may not be dead
-in early [[Winter|winter]], but the [[Flowers|flowers]] are dying; a particular pebble
+the main tendencies of Nature.  A particular flower may not be dead
+in early winter, but the flowers are dying; a particular pebble
 may never be wetted with the tide, but the tide is coming in. 
-To the scientific eye all human [[history]] is a series of collective movements,
-destructions or migrations, like the massacre of flies in [[Winter|winter]]
-or the return of [[Birds|birds]] in [[Spring|spring]].  Now the root fact in all [[history]] is Race. 
+To the scientific eye all human history is a series of collective movements,
+destructions or migrations, like the massacre of flies in winter
+or the return of birds in spring.  Now the root fact in all history is Race. 
 Race produces religion; Race produces legal and ethical wars. 
 There is no stronger case than that of the wild, unworldly and
 perishing stock which we commonly call the Celts, of whom your friends
 the MacNabs are specimens.  Small, swarthy, and of this dreamy and
-drifting [[Blood|blood]], they accept easily the superstitious explanation of
+drifting blood, they accept easily the superstitious explanation of
 any incidents, just as they still accept (you will excuse me for saying)
 that superstitious explanation of all incidents which you
 and your Church represent.  It is not remarkable that such people,
@@ -103,9 +103,9 @@ droning in front of them, should put fantastic features into what are
 probably plain events.  You, with your small parochial responsibilities,
 see only this particular Mrs MacNab, terrified with this particular tale
 of two voices and a tall man out of the sea.  But the man with
-the scientific [[Imagination|imagination]] sees, as it were, the whole clans of MacNab
+the scientific imagination sees, as it were, the whole clans of MacNab
 scattered over the whole world, in its ultimate average as uniform
-as a tribe of [[Birds|birds]].  He sees thousands of Mrs MacNabs,
+as a tribe of birds.  He sees thousands of Mrs MacNabs,
 in thousands of houses, dropping their little drop of morbidity
 in the tea-cups of their friends; he sees--"
 
@@ -115,5 +115,5 @@ was marshalled hurriedly down the corridor, and the door opened on
 a young girl, decently dressed but disordered and red-hot with haste. 
 She had sea-blown blonde hair, and would have been entirely beautiful
 if her cheek-bones had not been, in the Scotch manner, a little
-high in relief as [[Well|well]] as in colour.  Her apology was almost as abrupt
+high in relief as well as in colour.  Her apology was almost as abrupt
 as a command.

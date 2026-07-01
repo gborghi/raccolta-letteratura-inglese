@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 18: EIGHTEEN (part 4)"
+title: "Martin Chuzzlewit — Chapter 18: EIGHTEEN (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,21 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_18_eighteen/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_19_nineteen/part_01">part 01 ›</a></div>
 </nav>
 
+
+Uncouth and unsatisfactory as this short interview had been, it had
+furnished Mr Pecksniff with a hint which, supposing nothing further
+were imparted to him, repaid the [[Journey|journey]] up and [[Home|home]] again. For the good
+gentleman had never (for want of an opportunity) dived into the depths
+of Mr Jonas’s [[Nature|nature]]; and any recipe for catching such a son-in-law
+(much more one written on a leaf out of his own father’s book) was worth
+the having. In order that he might lose no chance of improving so fair
+an opportunity by allowing Anthony to fall asleep before he had finished
+all he had to say, Mr Pecksniff, in the disposal of the refreshments on
+the table, a work to which he now applied himself in earnest, resorted
+to many ingenious contrivances for attracting his attention; such as
+coughing, sneezing, clattering the teacups, sharpening the knives,
+dropping the loaf, and so forth. But all in vain, for Mr Jonas returned,
+and Anthony had said no more.
 
 ‘What! My father asleep again?’ he cried, as he hung up his hat, and
 cast a look at him. ‘Ah! and snoring. Only hear!’

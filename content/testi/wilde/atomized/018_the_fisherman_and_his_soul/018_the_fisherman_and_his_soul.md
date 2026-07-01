@@ -1,5 +1,5 @@
 ---
-title: "The Fisherman and his [[Soul]]"
+title: "The Fisherman and his Soul"
 author: "Wilde"
 unitType: work
 parentWork: "works/the-fisherman-and-his-soul-(wilde)"

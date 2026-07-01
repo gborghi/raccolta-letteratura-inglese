@@ -1,5 +1,5 @@
 ---
-title: "[[Sanity]]"
+title: "Sanity"
 author: "Chesterton"
 unitType: work
 parentWork: "works/sanity-(chesterton)"
@@ -2669,7 +2669,7 @@ have already taken to achieve degradation, if they toiled half
 as laboriously to make anything beautiful as they toiled to make
 everything ugly, if they had served their God as they have served
 their Pork [[King]] and their Petrol [[King]], the [[success]] of our whole
-Distributive [[Democracy|democracy]] would stare at the world like one of their
+Distributive [[democracy]] would stare at the world like one of their
 flaming sky-signs and scrape the sky like one of their crazy towers.
 
 = = = = = = = = = = = = = = = =
@@ -2869,7 +2869,7 @@ the curves and lurches and majestic hesitations that would express,
 in darkly outlined forms, the composite mind of the community.
 Peasants have produced art because they were communal but not communist.
 Custom and a corporate tradition gave [[unity]] to their art; but each
-man was a separate [[Artist|artist]].  It is that satisfaction of the creative
+man was a separate [[artist]].  It is that satisfaction of the creative
 instinct in the individual that makes the peasantry as a whole
 content and therefore conservative.  A multitude of men are standing
 on their own feet, because they are standing on their own land.
@@ -3710,7 +3710,7 @@ The real difficulty of starting it in the right way is that it has so
 often been started in the wrong way; and especially in the wrong spirit.
 There is a certain amount of prejudice against profit-sharing,
 just as there is a certain amount of prejudice against emigration,
-in the industrial [[Democracy|democracy]] of to-day. It is due in both cases
+in the industrial [[democracy]] of to-day. It is due in both cases
 to the type and especially the tone of the proposals.  I entirely
 sympathize with the Trade Unionist who dislikes a certain sort of
 condescending capitalist concession; and the spirit which gives every
@@ -5707,7 +5707,7 @@ the soaring visions that accompany the sinking wages.
 I observe that the social prophets are still offering the homeless
 something much higher and purer than a [[Home|home]], and promising a
 supernormal superiority to people who are not allowed to be normal.
-I am quite content to dream of the old drudgery of [[Democracy|democracy]], by which as
+I am quite content to dream of the old drudgery of [[democracy]], by which as
 much as possible of a human life should be given to every human being;
 while the brilliant author of The First Men in the [[Moon]] will doubtless
 be soon deriding us in a [[Romance|romance]] called The Last Men on the Earth.

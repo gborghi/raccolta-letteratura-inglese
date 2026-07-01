@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 43 (part 1)"
+title: "The Tenant of Wildfell Hall — Chapter 43 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -28,7 +28,7 @@ to him, I shall not trouble myself to describe. The day after his
 
 arrival, however, he surprised me by the announcement of an intention
 
-to procure a governess for little [[arthur|Arthur]]: I told him it was quite
+to procure a governess for little [[Arthur]]: I told him it was quite
 
 unnecessary, not to say ridiculous, at the present season: I thought I
 
@@ -162,7 +162,7 @@ told me they were now on the Continent, and their present address was
 
 unknown to her. I never saw her speak much to Mr. Huntingdon; but he
 
-would frequently look into the school-room to see how little [[arthur|Arthur]] got
+would frequently look into the school-room to see how little [[Arthur]] got
 
 on with his new companion, when I was not there. In the evening, she
 
@@ -209,7 +209,3 @@ should require from her, and told her which of my things she was to
 pack up, and what she was to leave behind for herself, as I had no
 
 other means of recompensing her for this sudden dismissal after her
-
-long and faithful service: a circumstance I most deeply regretted, but
-
-could not avoid.

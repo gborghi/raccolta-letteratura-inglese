@@ -1,5 +1,5 @@
 ---
-title: "ALL IS TRUE - ([[Henry VIII|HENRY VIII]])"
+title: "ALL IS TRUE - (HENRY VIII)"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/all-is-true---(henry-viii)-(shakespeare)"

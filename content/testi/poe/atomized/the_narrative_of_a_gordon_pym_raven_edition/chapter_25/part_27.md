@@ -14,6 +14,158 @@ tags:
 </nav>
 
 
+      dat, I mean Croissart and Froissart, too, if I only tink proper
+
+      to mean it. My daughter’s daughter, Mademoiselle Voissart, she
+
+      marry von Monsieur Croissart, and den again, my daughter’s grande
+
+      daughter, Mademoiselle Croissart, she marry von Monsieur
+
+      Froissart; and I suppose you say dat _dat_ is not von _ver_
+
+      respectaable name.”
+
+
+
+      “Froissart!” said I, beginning to faint, “why, surely you don’t
+
+      say Moissart, and Voissart, and Croissart, and Froissart?”
+
+
+
+      “Yes,” she replied, leaning fully back in her chair, and
+
+      stretching out her lower limbs at great length; “yes, Moissart,
+
+      and Voissart, and Croissart, and Froissart. But Monsieur
+
+      Froissart, he vas von _ver_ big vat you call [[Fool|fool]]—he vas von ver
+
+      great big donce like yourself—for he lef _la belle France_ for
+
+      come to dis stupide Amérique—and ven he get here he went and ave
+
+      von _ver_ stupid, von _ver, ver_ stupide sonn, so I hear, dough I
+
+      not yet av ad de plaisir to meet vid him—neither me nor my
+
+      companion, de Madame Stéphanie Lalande. He is name de Napoleon
+
+      Bonaparte Froissart, and I suppose you say dat _dat_, too, is not
+
+      von ver respectable name.”
+
+
+
+      Either the length or the [[Nature|nature]] of this speech, had the effect of
+
+      working up Mrs. Simpson into a very extraordinary passion indeed;
+
+      and as she made an end of it, with great labor, she jumped up
+
+      from her chair like somebody bewitched, dropping upon the floor
+
+      an entire universe of bustle as she jumped. Once upon her feet,
+
+      she gnashed her gums, brandished her arms, rolled up her sleeves,
+
+      shook her fist in my face, and concluded the performance by
+
+      tearing the cap from her head, and with it an immense wig of the
+
+      most valuable and beautiful black hair, the whole of which she
+
+      dashed upon the ground with a yell, and there trammpled and
+
+      danced a fandango upon it, in an absolute ecstasy and agony of
+
+      rage.
+
+
+
+      Meantime I sank aghast into the chair which she had vacated.
+
+      “Moissart and Voissart!” I repeated, thoughtfully, as she cut one
+
+      of her pigeon-wings, and “Croissart and Froissart!” as she
+
+      completed another—“Moissart and Voissart and Croissart and
+
+      Napoleon Bonaparte Froissart!—why, you ineffable old serpent,
+
+      that’s me—that’s me—d’ye hear? that’s me”—here I screamed at the
+
+      top of my voice—“that’s me-e-e! I am Napoleon Bonaparte
+
+      Froissart! and if I havn’t married my great, great, grandmother,
+
+      I wish I may be everlastingly confounded!”
+
+
+
+      Madame Eugénie Lalande, _quasi_ Simpson—formerly Moissart—was, in
+
+      sober fact, my great, great, grandmother. In her youth she had
+
+      been beautiful, and even at eighty-two, retained the majestic
+
+      height, the sculptural contour of head, the fine eyes and the
+
+      Grecian nose of her girlhood. By the aid of these, of
+
+      pearl-powder, of rouge, of false hair, false teeth, and false
+
+      tournure, as [[Well|well]] as of the most skilful modistes of [[Paris]], she
+
+      contrived to hold a respectable footing among the beauties _en
+
+      peu passées_ of the French metropolis. In this respect, indeed,
+
+      she might have been regarded as little less than the equal of the
+
+      celebrated Ninon De L’Enclos.
+
+
+
+      She was immensely wealthy, and being left, for the second [[Time|time]], a
+
+      widow without children, she bethought herself of my existence in
+
+      [[america|America]], and for the purpose of making me her heir, paid a visit
+
+      to the United States, in company with a distant and exceedingly
+
+      lovely relative of her second husband’s—a Madame Stéphanie
+
+      Lalande.
+
+
+
+      At the opera, my great, great, grandmother’s attention was
+
+      arrested by my notice; and, upon surveying me through her
+
+      eye-glass, she was struck with a certain family resemblance to
+
+      herself. Thus interested, and knowing that the heir she sought
+
+      was actually in the [[City|city]], she made inquiries of her party
+
+      respecting me. The gentleman who attended her knew my person, and
+
+      told her who I was. The information thus obtained induced her to
+
+      renew her scrutiny; and this scrutiny it was which so emboldened
+
+      me that I behaved in the absurd manner already detailed. She
+
+      returned my bow, however, under the impression that, by some odd
+
+      accident, I had discovered her [[Identity|identity]]. When, deceived by my
+
+      weakness of vision, and the arts of the toilet, in respect to the
+
       age and charms of the strange lady, I demanded so
 
       enthusiastically of Talbot who she was, he concluded that I meant
@@ -55,173 +207,3 @@ tags:
       conversation with the three gentlemen whom I encountered shortly
 
       after leaving Talbot’s hotel will be easily explained, as also
-
-      their allusion to Ninon De L’Enclos. I had no opportunity of
-
-      seeing Madame Lalande closely during daylight; and, at her
-
-      musical _soirée_, my silly weakness in refusing the aid of
-
-      glasses effectually prevented me from making a discovery of her
-
-      age. When “Madame Lalande” was called upon to sing, the younger
-
-      lady was intended; and it was she who arose to obey the call; my
-
-      great, great, grandmother, to further the [[Deception|deception]], arising at
-
-      the same moment and accompanying her to the piano in the main
-
-      drawing-room. Had I decided upon escorting her thither, it had
-
-      been her design to suggest the propriety of my remaining where I
-
-      was; but my own prudential views rendered this unnecessary. The
-
-      [[songs]] which I so much admired, and which so confirmed my
-
-      impression of the youth of my mistress, were executed by Madame
-
-      Stéphanie Lalande. The eyeglass was presented by way of adding a
-
-      reproof to the hoax—a sting to the [[Epigram|epigram]] of the [[Deception|deception]]. Its
-
-      presentation afforded an opportunity for the lecture upon
-
-      affectation with which I was so especially edified. It is almost
-
-      superfluous to add that the glasses of the instrument, as worn by
-
-      the old lady, had been exchanged by her for a pair better adapted
-
-      to my years. They suited me, in fact, to a T.
-
-
-
-      The clergyman, who merely pretended to tie the fatal knot, was a
-
-      boon companion of Talbot’s, and no priest. He was an excellent
-
-      “whip,” however; and having doffed his cassock to put on a
-
-      great-coat, he drove the hack which conveyed the “happy couple”
-
-      out of town. Talbot took a seat at his side. The two scoundrels
-
-      were thus “in at the [[Death|death]],” and through a half-open [[Window|window]] of
-
-      the back parlor of the inn, amused themselves in grinning at the
-
-      _dénouement_ of the drama. I believe I shall be forced to call
-
-      them both out.
-
-
-
-      Nevertheless, I am _not_ the husband of my great, great,
-
-      grandmother; and this is a reflection which affords me infinite
-
-      relief;—but I _am_ the husband of Madame Lalande—of Madame
-
-      Stéphanie Lalande—with whom my good old relative, besides making
-
-      me her sole heir when she dies—if she ever does—has been at the
-
-      trouble of concocting me a match. In conclusion: I am done
-
-      forever with _billets doux_, and am never to be met without
-
-      SPECTACLES.
-
-
-
-
-
-
-
-
-
-[[King|KING]] PEST
-
-
-
-
-
-      A Tale Containing an [[Allegory]].
-
-
-
-     The gods do bear and will allow in kings
-
-     The things which they abhor in rascal routes.
-
-                    —_Buckhurst’s [[Tragedy]] of Ferrex and Porrex._
-
-
-
-      About twelve o’[[Clock|clock]], one [[Night|night]] in the month of October, and
-
-      during the chivalrous reign of the third Edward, two seamen
-
-      belonging to the crew of the _>Free and Easy_, a trading schooner
-
-      plying between Sluys and the Thames, and then at anchor in that
-
-      [[River|river]], were much astonished to find themselves seated in the
-
-      tap-room of an ale-[[house]] in the parish of St. Andrews,
-
-      [[London]]—which ale-[[house]] bore for sign the portraiture of a “Jolly
-
-      Tar.”
-
-
-
-      The room, although ill-contrived, smoke-blackened, low-pitched,
-
-      and in every other respect agreeing with the general character of
-
-      such places at the period—was, nevertheless, in the opinion of
-
-      the [[Grotesque|grotesque]] groups scattered here and there within it,
-
-      sufficiently [[Well|well]] adapted to its purpose.
-
-
-
-      Of these groups our two seamen formed, I think, the most
-
-      interesting, if not the most conspicuous.
-
-
-
-      The one who appeared to be the elder, and whom his companion
-
-      addressed by the characteristic appellation of “Legs,” was at the
-
-      same [[Time|time]] much the taller of the two. He might have measured six
-
-      feet and a half, and an habitual stoop in the shoulders seemed to
-
-      have been the necessary consequence of an altitude so enormous.
-
-      Superfluities in height were, however, more than accounted for by
-
-      deficiencies in other respects. He was exceedingly thin; and
-
-      might, as his associates asserted, have answered, when drunk, for
-
-      a pennant at the mast-head, or, when sober, have served for a
-
-      jib-boom. But these jests, and others of a similar [[Nature|nature]], had
-
-      evidently produced, at no [[Time|time]], any effect upon the cachinnatory
-
-      muscles of the tar. With high cheek-bones, a large hawk-nose,
-
-      retreating chin, fallen under-jaw, and huge protruding white
-
-      eyes, the expression of his countenance, although tinged with a
-
-      species of dogged indifference to matters and things in general,

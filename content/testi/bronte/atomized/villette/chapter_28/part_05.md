@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 27 (part 5)"
+title: "Villette — Chapter 27 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,36 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_28/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_28/part_06">part 06 ›</a></div>
 </nav>
 
+
+“In the [[Bible]] on [[Sunday]] nights?”
+
+“She has a calm, delicate, rather fine profile now: once what a little
+restless, anxious countenance was hers! What a thing is a [[Child|child]]’s
+preference—what a bubble! Would you believe it? that lady was fond of
+me!”
+
+“I think she was in some measure fond of you,” said I, moderately.
+
+“You don’t remember then? _I_ had forgotten; but I remember _now_. She
+liked me the best of whatever there was at Bretton.”
+
+“You thought so.”
+
+“I quite [[Well|well]] recall it. I wish I could tell her all I recall; or
+rather, I wish some one, you for instance, would go behind and whisper
+it all in her ear, and I could have the delight—here, as I sit—of
+watching her look under the intelligence. Could you manage that, think
+you, Lucy, and make me ever grateful?”
+
+“Could I manage to make you ever grateful?” said I. “No, _I could
+not_.” And I felt my fingers work and my hands interlock: I felt, too,
+an inward [[Courage|courage]], warm and resistant. In this matter I was not
+disposed to gratify Dr. John: not at all. With now welcome force, I
+realized his entire misapprehension of my character and [[Nature|nature]]. He
+wanted always to give me a role not mine. [[Nature]] and I opposed him. He
+did not at all guess what I felt: he did not read my eyes, or face, or
+gestures; though, I [[Doubt|doubt]] not, all spoke. Leaning towards me coaxingly,
+he said, softly, “_Do_ content me, Lucy.”
 
 And I would have contented, or, at least, I would clearly have
 enlightened him, and taught him [[Well|well]] never again to expect of me the
@@ -99,27 +129,3 @@ lightness. I decidedly told him it was as heavy as I wished. Receding
 aloof, and standing apart, I leaned on the banister of the stairs,
 folded my shawl about me, and fixed my eyes on a dreary religious
 painting darkening the wall.
-
-Ginevra was long in coming: tedious seemed her loitering. M. Paul was
-still there; my ear expected from his lips an angry tone. He came
-nearer. “Now for another hiss!” thought I: had not the action been too
-uncivil I could have stopped my ears with my fingers in terror of the
-thrill. Nothing happens as we expect: listen for a coo or a murmur; it
-is then you will hear a cry of prey or [[Pain|pain]]. Await a piercing shriek,
-an angry threat, and welcome an amicable greeting, a low kind whisper.
-M. Paul spoke gently:—“Friends,” said he, “do not quarrel for a word.
-Tell me, was it I or ce grand fat d’Anglais” (so he profanely
-denominated Dr. Bretton), “who made your eyes so humid, and your cheeks
-so hot as they are even now?”
-
-“I am not conscious of you, monsieur, or of any other having excited
-such emotion as you indicate,” was my answer; and in giving it, I again
-surpassed my usual [[Self|self]], and achieved a neat, frosty falsehood.
-
-“But what did I say?” he pursued; “tell me: I was angry: I have
-forgotten my words; what were they?”
-
-“Such as it is best to forget!” said I, still quite calm and chill.
-
-“Then it was _my_ words which wounded you? Consider them unsaid: permit
-my retractation; accord my pardon.”

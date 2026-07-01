@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 2 (part 3)"
+title: "Our Mutual Friend — Chapter 3 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,144 +14,141 @@ tags:
 </nav>
 
 
-The Veneering dinners are excellent dinners—or new people wouldn’t
-come—and all goes [[Well|well]]. Notably, Lady Tippins has made a series of
-experiments on her digestive functions, so extremely complicated and
-daring, that if they could be published with their results it might
-benefit the human race. Having taken in provisions from all parts of the
-world, this hardy old cruiser has last touched at the North Pole, when,
-as the ice-plates are being removed, the following words fall from her:
+‘A [[Body|body]] missing?’ asked Gaffer Hexam, stopping short; ‘or a [[Body|body]] found?
+Which?’
 
-‘I assure you, my dear Veneering—’
+‘I am lost!’ replied the man, in a hurried and an eager manner.
 
-(Poor Twemlow’s hand approaches his forehead, for it would seem now,
-that Lady Tippins is going to be the oldest friend.)
+‘Lost?’
 
-‘I assure you, my dear Veneering, that it is the oddest affair! Like
-the advertising people, I don’t ask you to trust me, without offering
-a respectable reference. Mortimer there, is my reference, and knows all
-about it.’
+‘I—I—am a stranger, and don’t know the way. I—I—want to find the
+place where I can see what is described here. It is possible I may know
+it.’ He was panting, and could hardly speak; but, he showed a copy of
+the newly-printed bill that was still wet upon the wall. Perhaps its
+newness, or perhaps the accuracy of his observation of its general look,
+guided Gaffer to a ready conclusion.
 
-Mortimer raises his drooping eyelids, and slightly opens his mouth. But
-a faint smile, expressive of ‘What’s the use!’ passes over his face, and
-he drops his eyelids and shuts his mouth.
+‘This gentleman, Mr Lightwood, is on that business.’
 
-‘Now, Mortimer,’ says Lady Tippins, rapping the sticks of her closed
-green fan upon the knuckles of her left hand—which is particularly rich
-in knuckles, ‘I insist upon your telling all that is to be told about
-the man from Jamaica.’
+‘Mr Lightwood?’
 
-‘Give you my [[Honour|honour]] I never heard of any man from Jamaica, except the
-man who was a brother,’ replies Mortimer.
+During a pause, Mortimer and the stranger confronted each other. Neither
+knew the other.
 
-‘Tobago, then.’
+‘I think, sir,’ said Mortimer, breaking the awkward [[Silence|silence]] with his
+airy [[Self|self]]-possession, ‘that you did me the [[Honour|honour]] to mention my name?’
 
-‘Nor yet from Tobago.’
+‘I repeated it, after this man.’
 
-‘Except,’ Eugene strikes in: so unexpectedly that the mature young lady,
-who has forgotten all about him, with a start takes the epaulette out
-of his way: ‘except our friend who long lived on rice-pudding and
-isinglass, till at length to his something or other, his physician said
-something else, and a leg of mutton somehow ended in daygo.’
+‘You said you were a stranger in [[London]]?’
 
-A reviving impression goes round the table that Eugene is coming out. An
-unfulfilled impression, for he goes in again.
+‘An utter stranger.’
 
-‘Now, my dear Mrs Veneering,’ quoth Lady Tippins, I appeal to you
-whether this is not the basest conduct ever known in this world? I carry
-my [[lovers]] about, two or three at a [[Time|time]], on condition that they are very
-obedient and devoted; and here is my oldest [[Lover|lover]]-in-chief, the head of
-all my slaves, throwing off his allegiance before company! And here is
-another of my [[lovers]], a rough Cymon at present certainly, but of whom
-I had most hopeful expectations as to his turning out [[Well|well]] in course of
-[[Time|time]], pretending that he can’t remember his nursery rhymes! On purpose
-to annoy me, for he knows how I doat upon them!’
+‘Are you seeking a Mr Harmon?’
 
-A grisly little fiction concerning her [[lovers]] is Lady Tippins’s point.
-She is always attended by a [[Lover|lover]] or two, and she keeps a little list
-of her [[lovers]], and she is always booking a new [[Lover|lover]], or striking out an
-old [[Lover|lover]], or putting a [[Lover|lover]] in her black list, or promoting a [[Lover|lover]] to
-her blue list, or adding up her [[lovers]], or otherwise posting her book.
-Mrs Veneering is charmed by the [[Humour|humour]], and so is Veneering. Perhaps it
-is enhanced by a certain yellow play in Lady Tippins’s throat, like the
-legs of scratching poultry.
+‘No.’
 
-‘I banish the false wretch from this moment, and I strike him out of
-my Cupidon (my name for my Ledger, my dear,) this very [[Night|night]]. But I am
-resolved to have the account of the man from Somewhere, and I beg you
-to elicit it for me, my [[Love|love]],’ to Mrs Veneering, ‘as I have lost my own
-influence. Oh, you perjured man!’ This to Mortimer, with a rattle of her
-fan.
+‘Then I believe I can assure you that you are on a fruitless errand, and
+will not find what you [[Fear|fear]] to find. Will you come with us?’
 
-‘We are all very much interested in the man from Somewhere,’ Veneering
-observes.
+A little winding through some muddy alleys that might have been
+deposited by the last ill-savoured tide, brought them to the
+wicket-gate and bright lamp of a Police Station; where they found the
+[[Night]]-Inspector, with a pen and ink, and ruler, posting up his books in
+a whitewashed office, as studiously as if he were in a monastery on
+top of a mountain, and no howling fury of a drunken woman were banging
+herself against a cell-door in the back-yard at his elbow. With the
+same air of a recluse much given to study, he desisted from his books to
+bestow a distrustful nod of recognition upon Gaffer, plainly importing,
+‘Ah! we know all about YOU, and you’ll overdo it some day;’ and to
+inform Mr Mortimer Lightwood and friends, that he would attend them
+immediately. Then, he finished ruling the work he had in hand (it might
+have been illuminating a missal, he was so calm), in a very neat and
+methodical manner, showing not the slightest consciousness of the woman
+who was banging herself with increased violence, and shrieking most
+terrifically for some other woman’s liver.
 
-Then the four Buffers, taking heart of grace all four at once, say:
+‘A bull’s-eye,’ said the [[Night]]-Inspector, taking up his keys. Which a
+deferential satellite produced. ‘Now, gentlemen.’
 
-‘Deeply interested!’
+With one of his keys, he opened a cool grot at the end of the yard,
+and they all went in. They quickly came out again, no one speaking but
+Eugene: who remarked to Mortimer, in a whisper, ‘Not MUCH worse than
+Lady Tippins.’
 
-‘Quite excited!’
+So, back to the whitewashed library of the monastery—with that liver
+still in shrieking requisition, as it had been loudly, while they looked
+at the silent sight they came to see—and there through the merits of
+the case as summed up by the Abbot. No clue to how [[Body|body]] came into [[River|river]].
+Very often was no clue. Too late to know for certain, whether injuries
+received before or after [[Death|death]]; one excellent surgical opinion said,
+before; other excellent surgical opinion said, after. Steward of [[Ship|ship]] in
+which gentleman came [[Home|home]] passenger, had been round to view, and could
+swear to [[Identity|identity]]. Likewise could swear to clothes. And then, you
+see, you had the papers, too. How was it he had totally disappeared on
+leaving [[Ship|ship]], till found in [[River|river]]? [[Well]]! Probably had been upon some
+little game. Probably thought it a harmless game, wasn’t up to things,
+and it turned out a fatal game. Inquest to-morrow, and no [[Doubt|doubt]] open
+verdict.
 
-‘Dramatic!’
+‘It appears to have knocked your friend over—knocked him completely off
+his legs,’ Mr Inspector remarked, when he had finished his summing up.
+‘It has given him a bad turn to be sure!’ This was said in a very low
+voice, and with a searching look (not the first he had cast) at the
+stranger.
 
-‘Man from Nowhere, perhaps!’
+Mr Lightwood explained that it was no friend of his.
 
-And then Mrs Veneering—for the Lady Tippins’s winning wiles are
-contagious—folds her hands in the manner of a supplicating [[Child|child]], turns
-to her left neighbour, and says, ‘Tease! Pay! Man from Tumwhere!’ At
-which the four Buffers, again mysteriously moved all four at once,
-explain, ‘You can’t resist!’
+‘Indeed?’ said Mr Inspector, with an attentive ear; ‘where did you pick
+him up?’
 
-‘Upon my life,’ says Mortimer languidly, ‘I find it immensely
-embarrassing to have the eyes of Europe upon me to this extent, and my
-only consolation is that you will all of you execrate Lady Tippins in
-your secret hearts when you find, as you inevitably will, the man from
-Somewhere a bore. Sorry to destroy [[Romance|romance]] by fixing him with a local
-habitation, but he comes from the place, the name of which escapes me,
-but will suggest itself to everybody else here, where they make the
-wine.’
+Mr Lightwood explained further.
 
-Eugene suggests ‘Day and Martin’s.’
+Mr Inspector had delivered his summing up, and had added these words,
+with his elbows leaning on his desk, and the fingers and thumb of his
+right hand, fitting themselves to the fingers and thumb of his left.
+Mr Inspector moved nothing but his eyes, as he now added, raising his
+voice:
 
-‘No, not that place,’ returns the unmoved Mortimer, ‘that’s where they
-make the Port. My man comes from the country where they make the Cape
-Wine. But look here, old fellow; it’s not at all statistical and it’s
-rather odd.’
+‘Turned you faint, sir! Seems you’re not accustomed to this kind of
+work?’
 
-It is always noticeable at the table of the Veneerings, that no man
-troubles himself much about the Veneerings themselves, and that any
-one who has anything to tell, generally tells it to anybody else in
-preference.
+The stranger, who was leaning against the chimneypiece with drooping
+head, looked round and answered, ‘No. It’s a horrible sight!’
 
-‘The man,’ Mortimer goes on, addressing Eugene, ‘whose name is Harmon,
-was only son of a tremendous old rascal who made his money by [[Dust]].’
+‘You expected to identify, I am told, sir?’
 
-‘Red velveteens and a bell?’ the gloomy Eugene inquires.
+‘Yes.’
 
-‘And a ladder and basket if you like. By which means, or by others, he
-grew rich as a [[Dust]] Contractor, and lived in a hollow in a hilly country
-entirely composed of [[Dust]]. On his own small estate the growling old
-vagabond threw up his own mountain range, like an old volcano, and its
-geological formation was [[Dust]]. Coal-[[Dust|dust]], vegetable-[[Dust|dust]], bone-[[Dust|dust]],
-crockery [[Dust|dust]], rough [[Dust|dust]] and sifted [[Dust|dust]],—all manner of [[Dust]].’
+‘HAVE you identified?’
 
-A passing remembrance of Mrs Veneering, here induces Mortimer to address
-his next half-dozen words to her; after which he wanders away again,
-tries Twemlow and finds he doesn’t answer, ultimately takes up with the
-Buffers who receive him enthusiastically.
+‘No. It’s a horrible sight. O! a horrible, horrible sight!’
 
-‘The moral being—I believe that’s the right expression—of this
-exemplary person, derived its highest gratification from anathematizing
-his nearest relations and turning them out of doors. Having begun (as
-was natural) by rendering these attentions to the wife of his bosom,
-he next found himself at leisure to bestow a similar recognition on the
-claims of his daughter. He chose a husband for her, entirely to his own
-satisfaction and not in the least to hers, and proceeded to settle upon
-her, as her [[Marriage|marriage]] portion, I don’t know how much [[Dust]], but something
-immense. At this stage of the affair the poor girl respectfully
-intimated that she was secretly engaged to that popular character whom
-the novelists and versifiers call Another, and that such a [[Marriage|marriage]]
-would make [[Dust]] of her heart and [[Dust]] of her life—in short, would
-set her up, on a very extensive scale, in her father’s business.
-Immediately, the venerable parent—on a cold [[Winter|winter]]’s [[Night|night]], it is
-said—anathematized and turned her out.’
+‘Who did you think it might have been?’ asked Mr Inspector. ‘Give us a
+description, sir. Perhaps we can help you.’
+
+‘No, no,’ said the stranger; ‘it would be quite useless. Good-[[Night|night]].’
+
+Mr Inspector had not moved, and had given no order; but, the satellite
+slipped his back against the wicket, and laid his left arm along the top
+of it, and with his right hand turned the bull’s-eye he had taken from
+his chief—in quite a casual manner—towards the stranger.
+
+‘You missed a friend, you know; or you missed a foe, you know; or you
+wouldn’t have come here, you know. [[Well]], then; ain’t it reasonable to
+ask, who was it?’ Thus, Mr Inspector.
+
+‘You must excuse my telling you. No class of man can understand better
+than you, that families may not choose to publish their disagreements
+and misfortunes, except on the last necessity. I do not dispute that you
+discharge your duty in asking me the question; you will not dispute my
+right to withhold the answer. Good-[[Night|night]].’
+
+Again he turned towards the wicket, where the satellite, with his eye
+upon his chief, remained a dumb statue.
+
+‘At least,’ said Mr Inspector, ‘you will not object to leave me your
+card, sir?’
+
+‘I should not object, if I had one; but I have not.’ He reddened and was
+much confused as he gave the answer.

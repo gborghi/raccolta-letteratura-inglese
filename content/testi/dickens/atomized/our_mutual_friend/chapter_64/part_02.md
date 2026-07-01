@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 5 (part 2)"
+title: "Our Mutual Friend — Chapter 9 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,107 +14,124 @@ tags:
 </nav>
 
 
-The cherub stood helplessly rubbing his chin and looking on, but on the
-whole was inclined to welcome this diversion as one in which, by reason
-of the absorbent properties of hysterics, the previous question would
-become absorbed. And so, indeed, it proved, for the Irrepressible
-gradually coming to herself; and asking with wild emotion, ‘George dear,
-are you safe?’ and further, ‘George [[Love|love]], what has happened? Where is
-Ma?’ Mr Sampson, with words of comfort, raised her prostrate form, and
-handed her to Mrs Wilfer as if the young lady were something in the
-[[Nature|nature]] of refreshments. Mrs Wilfer with dignity partaking of the
-refreshments, by kissing her once on the brow (as if accepting an
-oyster), Miss Lavvy, tottering, returned to the protection of Mr
-Sampson; to whom she said, ‘George dear, I am afraid I have been
-foolish; but I am still a little weak and giddy; don’t let go my hand,
-George!’ And whom she afterwards greatly agitated at intervals, by
-giving utterance, when least expected, to a sound between a sob and a
-bottle of soda [[Water|water]], that seemed to rend the bosom of her frock.
+This expression of regret being but partially intelligible to Mr Riah,
+the old man reverted to the injuries Fledgeby had received, and hinted
+at the necessity of his at once going to tend that beaten cur.
 
-Among the most remarkable effects of this crisis may be mentioned its
-having, when peace was restored, an inexplicable moral influence, of an
-elevating kind, on Miss [[Lavinia]], Mrs Wilfer, and Mr George Sampson, from
-which R. W. was altogether excluded, as an [[Outsider|outsider]] and non-sympathizer.
-Miss [[Lavinia]] assumed a modest air of having distinguished herself; Mrs
-Wilfer, a serene air of [[Forgiveness|forgiveness]] and [[Resignation|resignation]]; Mr Sampson, an air
-of having been improved and chastened. The influence pervaded the spirit
-in which they returned to the previous question.
+‘Godmother, godmother, godmother!’ cried Miss Wren irritably, ‘I really
+lose all patience with you. One would think you believed in the Good
+Samaritan. How can you be so inconsistent?’
 
-‘George dear,’ said Lavvy, with a [[Melancholy|melancholy]] smile, ‘after what has
-passed, I am sure Ma will tell Pa that he may tell Bella we shall all be
-glad to see her and her husband.’
+‘Jenny dear,’ began the old man gently, ‘it is the custom of our people
+to help—’
 
-Mr Sampson said he was sure of it too; murmuring how eminently he
-respected Mrs Wilfer, and ever must, and ever would. Never more
-eminently, he added, than after what had passed.
+‘Oh! Bother your people!’ interposed Miss Wren, with a toss of her head.
+‘If your people don’t know better than to go and help Little Eyes, it’s
+a pity they ever got out of [[Egypt]]. Over and above that,’ she added, ‘he
+wouldn’t take your help if you offered it. Too much ashamed. Wants to
+keep it close and quiet, and to keep you out of the way.’
 
-‘Far be it from me,’ said Mrs Wilfer, making deep proclamation from her
-corner, ‘to run counter to the feelings of a [[Child|child]] of mine, and of a
-Youth,’ Mr Sampson hardly seemed to like that word, ‘who is the object
-of her maiden preference. I may feel—nay, know—that I have been
-deluded and deceived. I may feel—nay, know—that I have been set
-aside and passed over. I may feel—nay, know—that after having so far
-overcome my repugnance towards Mr and Mrs Boffin as to receive them
-under this roof, and to consent to your daughter Bella’s,’ here turning
-to her husband, ‘residing under theirs, it were [[Well|well]] if your daughter
-Bella,’ again turning to her husband, ‘had profited in a worldly
-point of view by a connection so distasteful, so disreputable. I may
-feel—nay, know—that in uniting herself to Mr Rokesmith she has united
-herself to one who is, in spite of shallow sophistry, a Mendicant. And
-I may feel [[Well|well]] assured that your daughter Bella,’ again turning to her
-husband, ‘does not exalt her family by becoming a Mendicant’s bride. But
-I suppress what I feel, and say nothing of it.’
+They were still debating this point when a [[Shadow|shadow]] darkened the entry,
+and the glass door was opened by a messenger who brought a letter
+unceremoniously addressed, ‘Riah.’ To which he said there was an answer
+wanted.
 
-Mr Sampson murmured that this was the sort of thing you might expect
-from one who had ever in her own family been an example and never
-an outrage. And ever more so (Mr Sampson added, with some degree of
-obscurity,) and never more so, than in and through what had passed. He
-must take the liberty of adding, that what was true of the mother
-was true of the youngest daughter, and that he could never forget the
-touching feelings that the conduct of both had awakened within him. In
-conclusion, he did [[Hope|hope]] that there wasn’t a man with a beating heart who
-was capable of something that remained undescribed, in consequence of
-Miss [[Lavinia]]’s stopping him as he reeled in his speech.
+The letter, which was scrawled in pencil uphill and downhill and round
+crooked corners, ran thus:
 
-‘Therefore, R. W.’ said Mrs Wilfer, resuming her discourse and turning
-to her lord again, ‘let your daughter Bella come when she will, and she
-will be received. So,’ after a short pause, and an air of having taken
-medicine in it, ‘so will her husband.’
 
-‘And I beg, Pa,’ said [[Lavinia]], ‘that you will not tell Bella what I
-have undergone. It can do no good, and it might cause her to reproach
-herself.’
+‘OLD RIAH,
 
-‘My dearest girl,’ urged Mr Sampson, ‘she ought to know it.’
+Your accounts being all squared, go. Shut up the place, turn out
+directly, and send me the key by bearer. Go. You are an unthankful dog
+of a Jew. Get out.
 
-‘No, George,’ said [[Lavinia]], in a tone of resolute [[Self|self]]-denial. ‘No,
-dearest George, let it be buried in oblivion.’
+F.’
 
-Mr Sampson considered that, ‘too noble.’
 
-‘Nothing is too noble, dearest George,’ returned [[Lavinia]]. ‘And Pa, I
-[[Hope|hope]] you will be careful not to refer before Bella, if you can help
-it, to my engagement to George. It might seem like reminding her of her
-having cast herself away. And I [[Hope|hope]], Pa, that you will think it equally
-right to avoid mentioning George’s rising prospects, when Bella is
-present. It might seem like taunting her with her own poor fortunes.
-Let me ever remember that I am her younger sister, and ever spare her
-painful contrasts, which could not but wound her sharply.’
+The dolls’ dressmaker found it delicious to trace the screaming and
+smarting of Little Eyes in the distorted writing of this epistle. She
+laughed over it and jeered at it in a convenient corner (to the great
+astonishment of the messenger) while the old man got his few goods
+together in a black bag. That done, the shutters of the upper windows
+closed, and the office blind pulled down, they issued forth upon the
+steps with the attendant messenger. There, while Miss Jenny held the
+bag, the old man locked the [[house]] door, and handed over the key to him;
+who at once retired with the same.
 
-Mr Sampson expressed his belief that such was the demeanour of Angels.
-Miss Lavvy replied with solemnity, ‘No, dearest George, I am but too
-[[Well|well]] aware that I am merely human.’
+‘[[Well]], godmother,’ said Miss Wren, as they remained upon the steps
+together, looking at one another. ‘And so you’re thrown upon the world!’
 
-Mrs Wilfer, for her part, still further improved the occasion by sitting
-with her eyes fastened on her husband, like two great black notes of
-interrogation, severely inquiring, Are you looking into your breast? Do
-you deserve your blessings? Can you lay your hand upon your heart and
-say that you are worthy of so hysterical a daughter? I do not ask you if
-you are worthy of such a wife—put Me out of the question—but are
-you sufficiently conscious of, and thankful for, the pervading moral
-grandeur of the family spectacle on which you are gazing? These
-inquiries proved very harassing to R. W. who, besides being a little
-disturbed by wine, was in perpetual terror of committing himself by the
-utterance of stray words that would betray his guilty foreknowledge.
-However, the scene being over, and—all things considered—[[Well|well]] over, he
-sought refuge in a doze; which gave his lady immense offence.
+‘It would appear so, Jenny, and somewhat suddenly.’
+
+‘Where are you going to seek your fortune?’ asked Miss Wren.
+
+The old man smiled, but looked about him with a look of having lost his
+way in life, which did not escape the dolls’ dressmaker.
+
+‘Verily, Jenny,’ said he, ‘the question is to the purpose, and more
+easily asked than answered. But as I have experience of the ready
+goodwill and good help of those who have given occupation to Lizzie, I
+think I will seek them out for myself.’
+
+‘On foot?’ asked Miss Wren, with a chop.
+
+‘Ay!’ said the old man. ‘Have I not my staff?’
+
+It was exactly because he had his staff, and presented so quaint an
+aspect, that she mistrusted his making the [[Journey|journey]].
+
+‘The best thing you can do,’ said Jenny, ‘for the [[Time|time]] being, at all
+events, is to come [[Home|home]] with me, godmother. Nobody’s there but my bad
+[[Child|child]], and Lizzie’s lodging stands empty.’ The old man when satisfied
+that no inconvenience could be entailed on any one by his compliance,
+readily complied; and the singularly-assorted couple once more went
+through the streets together.
+
+Now, the bad [[Child|child]] having been strictly charged by his parent to remain
+at [[Home|home]] in her absence, of course went out; and, being in the very last
+stage of mental decrepitude, went out with two objects; firstly,
+to establish a claim he conceived himself to have upon any licensed
+victualler living, to be supplied with threepennyworth of rum for
+nothing; and secondly, to bestow some maudlin remorse on Mr Eugene
+Wrayburn, and see what profit came of it. Stumblingly pursuing these
+two designs—they both meant rum, the only meaning of which he was
+capable—the degraded creature staggered into Covent [[Garden]] Market and
+there bivouacked, to have an attack of the trembles succeeded by an
+attack of the horrors, in a doorway.
+
+This market of Covent [[Garden]] was quite out of the creature’s line of
+[[Road|road]], but it had the attraction for him which it has for the worst of
+the solitary members of the drunken tribe. It may be the companionship
+of the nightly stir, or it may be the companionship of the gin and
+beer that slop about among carters and hucksters, or it may be the
+companionship of the trodden vegetable refuse which is so like their own
+dress that perhaps they take the Market for a great wardrobe; but be
+it what it may, you shall see no such individual drunkards on doorsteps
+anywhere, as there. Of dozing women-drunkards especially, you shall come
+upon such specimens there, in the morning sunlight, as you might
+seek out of doors in vain through [[London]]. Such stale vapid rejected
+cabbage-leaf and cabbage-stalk dress, such damaged-orange countenance,
+such squashed pulp of humanity, are open to the day nowhere else. So,
+the attraction of the Market drew Mr Dolls to it, and he had out his two
+fits of trembles and horrors in a doorway on which a woman had had out
+her sodden nap a few hours before.
+
+There is a swarm of young savages always flitting about this same place,
+creeping off with fragments of orange-chests, and mouldy litter—Heaven
+knows into what holes they can convey them, having no [[Home|home]]!—whose bare
+feet fall with a blunt dull softness on the pavement as the policeman
+hunts them, and who are (perhaps for that reason) little heard by
+the Powers that be, whereas in top-boots they would make a deafening
+clatter. These, delighting in the trembles and the horrors of Mr Dolls,
+as in a gratuitous drama, flocked about him in his doorway, butted
+at him, leaped at him, and pelted him. Hence, when he came out of
+his invalid retirement and shook off that ragged train, he was much
+bespattered, and in worse case than ever. But, not yet at his worst;
+for, going into a public-[[house]], and being supplied in stress of business
+with his rum, and seeking to vanish without payment, he was collared,
+searched, found penniless, and admonished not to try that again,
+by having a pail of dirty [[Water|water]] cast over him. This application
+superinduced another fit of the trembles; after which Mr Dolls, as
+finding himself in good cue for making a call on a professional friend,
+addressed himself to the Temple.

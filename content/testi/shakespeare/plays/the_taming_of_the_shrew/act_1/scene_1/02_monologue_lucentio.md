@@ -1,5 +1,5 @@
 ---
-title: "The Taming of the Shrew — Act I, Scene 1 — monologue ([[Lucentio|LUCENTIO]]) [2]"
+title: "The Taming of the Shrew — Act I, Scene 1 — monologue (LUCENTIO) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-taming-of-the-shrew-(shakespeare)"

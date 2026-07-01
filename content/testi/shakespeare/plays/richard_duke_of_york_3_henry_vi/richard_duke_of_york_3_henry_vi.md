@@ -1,5 +1,5 @@
 ---
-title: "[[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]] - (3 [[Henry VI|HENRY VI]])"
+title: "RICHARD DUKE OF YORK - (3 HENRY VI)"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/richard-duke-of-york---(3-henry-vi)-(shakespeare)"

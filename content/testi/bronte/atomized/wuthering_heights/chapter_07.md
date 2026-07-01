@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 7"
+title: "Wuthering Heights — Chapter 7"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/wuthering-heights-(bronte)"
@@ -104,7 +104,7 @@ oven, and making the [[house]] and kitchen cheerful with great fires,
 befitting Christmas-eve, I prepared to sit down and amuse myself by
 singing carols, all [[Alone|alone]]; regardless of Joseph’s affirmations that he
 considered the merry tunes I chose as next door to [[songs]]. He had
-retired to private [[Prayer|prayer]] in his chamber, and Mr. and Mrs. Earnshaw
+retired to private [[prayer]] in his chamber, and Mr. and Mrs. Earnshaw
 were engaging Missy’s attention by sundry gay trifles bought for her to
 present to the little Lintons, as an acknowledgment of their kindness.
 They had invited them to spend the morrow at [[Wuthering Heights]], and the

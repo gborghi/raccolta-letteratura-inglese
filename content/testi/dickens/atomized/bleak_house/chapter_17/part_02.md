@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 17 (part 2)"
+title: "Bleak House — Chapter 17 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -148,13 +148,3 @@ stand by. Even you have no idea how fond I am of Ada (my darling
 cousin, I [[Love|love]] you, so much!), but I don’t settle down to constancy
 in other things. It’s such uphill work, and it takes such a [[Time|time]]!”
 said [[Richard]] with an air of vexation.
-
-“That may be,” I suggested, “because you don’t like what you have
-chosen.”
-
-“Poor fellow!” said Ada. “I am sure I don’t [[Wonder|wonder]] at it!”
-
-No. It was not of the least use my trying to look wise. I tried
-again, but how could I do it, or how could it have any effect if I
-could, while Ada rested her clasped hands upon his shoulder and while
-he looked at her tender blue eyes, and while they looked at him!

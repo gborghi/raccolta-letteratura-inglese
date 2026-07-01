@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 34 (part 3)"
+title: "Jane Eyre — Chapter 34 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_34/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_34/part_04">part 04 ›</a></div>
 </nav>
 
+
+“Where does she live, Hannah?”
+
+“Clear up at Whitcross Brow, almost four miles off, and moor and moss
+all the way.”
 
 “Tell him I will go.”
 
@@ -123,13 +128,3 @@ was unfavourable, if there was [[Snow|snow]], or rain, or high [[Wind|wind]], an
 sisters urged me not to go, he would invariably make light of their
 solicitude, and encourage me to accomplish the task without regard to
 the elements.
-
-“Jane is not such a weakling as you would make her,” he would say: “she
-can bear a mountain blast, or a shower, or a few flakes of [[Snow|snow]], as
-[[Well|well]] as any of us. Her constitution is both sound and elastic;—better
-calculated to endure variations of climate than many more robust.”
-
-And when I returned, sometimes a good deal tired, and not a little
-weather-beaten, I never dared complain, because I saw that to murmur
-would be to vex him: on all occasions fortitude pleased him; the
-reverse was a special annoyance.

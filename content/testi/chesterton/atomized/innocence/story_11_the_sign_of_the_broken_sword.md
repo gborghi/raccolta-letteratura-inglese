@@ -1,5 +1,5 @@
 ---
-title: "[[innocence]] — The Sign of the Broken [[Sword]]"
+title: "innocence — The Sign of the Broken Sword"
 author: "Chesterton"
 unitType: story
 parentWork: "works/innocence-(chesterton)"
@@ -14,23 +14,23 @@ tags:
 </nav>
 
 
-                   The Sign of the Broken [[Sword]]
+                   The Sign of the Broken Sword
 
 The thousand arms of the forest were grey, and its million fingers silver.
-In a sky of dark green-blue-like slate the [[Stars|stars]] were bleak and
+In a sky of dark green-blue-like slate the stars were bleak and
 brilliant like splintered ice.  All that thickly wooded and sparsely
-tenanted countryside was stiff with a bitter and brittle [[Frost|frost]].
+tenanted countryside was stiff with a bitter and brittle frost.
 The black hollows between the trunks of the trees looked like bottomless,
 black caverns of that Scandinavian hell, a hell of incalculable cold.
 Even the square stone tower of the church looked northern to the point
 of heathenry, as if it were some barbaric tower among the sea rocks
-of Iceland.  It was a queer [[Night|night]] for anyone to explore a churchyard.
+of Iceland.  It was a queer night for anyone to explore a churchyard.
 But, on the other hand, perhaps it was worth exploring.
 
-It [[Rose|rose]] abruptly out of the ashen wastes of forest in a sort of hump
+It rose abruptly out of the ashen wastes of forest in a sort of hump
 or shoulder of green turf that looked grey in the starlight.
 Most of the graves were on a slant, and the path leading up to the church
-was as steep as a staircase.  On the top of the [[Hill|hill]], in the one flat
+was as steep as a staircase.  On the top of the hill, in the one flat
 and prominent place, was the monument for which the place was famous.
 It contrasted strangely with the featureless graves all round, for it was
 the work of one of the greatest sculptors of modern Europe; and yet his fame
@@ -41,13 +41,13 @@ sealed in an everlasting worship, the great head pillowed upon a gun.
 The venerable face was bearded, or rather whiskered, in the old,
 heavy Colonel Newcome fashion.  The uniform, though suggested
 with the few strokes of simplicity, was that of modern war.
-By his right side lay a [[Sword|sword]], of which the tip was broken off;
-on the left side lay a [[Bible]].  On glowing [[Summer|summer]] afternoons wagonettes
+By his right side lay a sword, of which the tip was broken off;
+on the left side lay a Bible.  On glowing summer afternoons wagonettes
 came full of Americans and cultured suburbans to see the sepulchre;
 but even then they felt the vast forest land with its one dumpy
 dome of churchyard and church as a place oddly dumb and neglected.
-In this freezing darkness of mid-[[Winter|winter]] one would think he might be left
-[[Alone|alone]] with the [[Stars|stars]].  Nevertheless, in the stillness of those stiff
+In this freezing darkness of mid-winter one would think he might be left
+alone with the stars.  Nevertheless, in the stillness of those stiff
 woods a wooden gate creaked, and two dim figures dressed in black
 climbed up the little path to the tomb.
 
@@ -57,15 +57,15 @@ one man was enormously big, and the other (perhaps by contrast)
 almost startlingly small.  They went up to the great graven tomb
 of the historic warrior, and stood for a few minutes staring at it.
 There was no human, perhaps no living, thing for a wide circle;
-and a morbid fancy might [[Well|well]] have wondered if they were human themselves.
+and a morbid fancy might well have wondered if they were human themselves.
 In any case, the beginning of their conversation might have seemed strange.
-After the first [[Silence|silence]] the small man said to the other:
+After the first silence the small man said to the other:
 
 "Where does a wise man hide a pebble?"
 
 And the tall man answered in a low voice:  "On the beach."
 
-The small man nodded, and after a short [[Silence|silence]] said:
+The small man nodded, and after a short silence said:
 "Where does a wise man hide a leaf?"
 
 And the other answered:  "In the forest."
@@ -82,31 +82,31 @@ something rather peculiar.  Just strike a match, will you?"
 
 The big man fumbled in his pocket, and soon a scratch and a flare painted
 gold the whole flat side of the monument.  On it was cut in black letters
-the [[Well|well]]-known words which so many Americans had reverently read:
-"Sacred to the [[Memory]] of General Sir [[arthur|Arthur]] St. Clare, [[Hero]] and Martyr,
+the well-known words which so many Americans had reverently read:
+"Sacred to the Memory of General Sir Arthur St. Clare, Hero and Martyr,
 who Always Vanquished his Enemies and Always Spared Them,
 and Was Treacherously Slain by Them At Last.  May God in Whom he Trusted
-both Reward and [[Revenge]] him."
+both Reward and Revenge him."
 
 The match burnt the big man's fingers, blackened, and dropped.
 He was about to strike another, but his small companion stopped him.
-"That's all right, [[Flambeau]], old man; I saw what I wanted.  Or, rather,
+"That's all right, Flambeau, old man; I saw what I wanted.  Or, rather,
 I didn't see what I didn't want.  And now we must walk a mile and a half
-along the [[Road|road]] to the next inn, and I will try to tell you all about it.
-For Heaven knows a man should have a [[Fire|fire]] and ale when he dares tell
+along the road to the next inn, and I will try to tell you all about it.
+For Heaven knows a man should have a fire and ale when he dares tell
 such a story."
 
 They descended the precipitous path, they relatched the rusty gate,
-and set off at a stamping, ringing walk down the frozen forest [[Road|road]].
+and set off at a stamping, ringing walk down the frozen forest road.
 They had gone a full quarter of a mile before the smaller man spoke again.
 He said:  "Yes; the wise man hides a pebble on the beach.
 But what does he do if there is no beach?  Do you know anything
 of that great St. Clare trouble?"
 
-"I know nothing about English generals, [[Father Brown]],"
+"I know nothing about English generals, Father Brown,"
 answered the large man, laughing, "though a little about
 English policemen.  I only know that you have dragged me a precious
-long [[Dance|dance]] to all the shrines of this fellow, whoever he is.
+long dance to all the shrines of this fellow, whoever he is.
 One would think he got buried in six different places.
 I've seen a memorial to General St. Clare in Westminster Abbey.
 I've seen a ramping equestrian statue of General St. Clare on
@@ -117,24 +117,24 @@ I am beginning to be a bit tired of his magnificent personality,
 especially as I don't in the least know who he was.
 What are you hunting for in all these crypts and effigies?"
 
-"I am only looking for one word," said [[Father Brown]].  "A word
+"I am only looking for one word," said Father Brown.  "A word
 that isn't there."
 
-"[[Well]]," asked [[Flambeau]]; "are you going to tell me anything about it?"
+"Well," asked Flambeau; "are you going to tell me anything about it?"
 
 "I must divide it into two parts," remarked the priest.
 "First there is what everybody knows; and then there is what
 I know.  Now, what everybody knows is short and plain enough.
 It is also entirely wrong."
 
-"Right you are," said the big man called [[Flambeau]] cheerfully.
+"Right you are," said the big man called Flambeau cheerfully.
 "Let's begin at the wrong end.  Let's begin with what everybody knows,
 which isn't true."
 
 "If not wholly untrue, it is at least very inadequate,"
 continued Brown; "for in point of fact, all that the public
 knows amounts precisely to this:  The public knows that
-[[arthur|Arthur]] St. Clare was a great and successful English general.
+Arthur St. Clare was a great and successful English general.
 It knows that after splendid yet careful campaigns both in India
 and Africa he was in command against Brazil when the great
 Brazilian patriot Olivier issued his ultimatum.  It knows that on
@@ -143,53 +143,53 @@ with a very large one, and was captured after heroic resistance.
 And it knows that after his capture, and to the abhorrence of
 the civilised world, St. Clare was hanged on the nearest tree.
 He was found swinging there after the Brazilians had retired,
-with his broken [[Sword|sword]] hung round his neck."
+with his broken sword hung round his neck."
 
-"And that popular story is untrue?" suggested [[Flambeau]].
+"And that popular story is untrue?" suggested Flambeau.
 
 "No," said his friend quietly, "that story is quite true,
 so far as it goes."
 
-"[[Well]], I think it goes far enough!" said [[Flambeau]]; "but if the popular
+"Well, I think it goes far enough!" said Flambeau; "but if the popular
 story is true, what is the mystery?"
 
 They had passed many hundreds of grey and ghostly trees before the little
 priest answered.  Then he bit his finger reflectively and said:
 "Why, the mystery is a mystery of psychology.  Or, rather, it is a mystery
 of two psychologies.  In that Brazilian business two of the most famous
-men of modern [[history]] acted flat against their characters.  Mind you,
+men of modern history acted flat against their characters.  Mind you,
 Olivier and St. Clare were both heroes--the old thing, and no mistake;
-it was like the fight between [[Hector]] and [[Achilles]].  Now, what would you
-say to an affair in which [[Achilles]] was timid and [[Hector]] was treacherous?"
+it was like the fight between Hector and Achilles.  Now, what would you
+say to an affair in which Achilles was timid and Hector was treacherous?"
 
 "Go on," said the large man impatiently as the other bit his finger again.
 
-"Sir [[arthur|Arthur]] St. Clare was a soldier of the old religious type--
+"Sir Arthur St. Clare was a soldier of the old religious type--
 the type that saved us during the Mutiny," continued Brown.  "He was
 always more for duty than for dash; and with all his personal
-[[Courage|courage]] was decidedly a prudent commander, particularly indignant
+courage was decidedly a prudent commander, particularly indignant
 at any needless waste of soldiers.  Yet in this last battle
 he attempted something that a baby could see was absurd.
-One need not be a strategist to see it was as wild as [[Wind|wind]]; just as one
-need not be a strategist to keep out of the way of a motor-bus. [[Well]],
+One need not be a strategist to see it was as wild as wind; just as one
+need not be a strategist to keep out of the way of a motor-bus. Well,
 that is the first mystery; what had become of the English general's head?
-The second [[Riddle|riddle]] is, what had become of the Brazilian general's heart?
+The second riddle is, what had become of the Brazilian general's heart?
 President Olivier might be called a visionary or a nuisance;
 but even his enemies admitted that he was magnanimous to the point
 of knight errantry.  Almost every other prisoner he had ever
 captured had been set free or even loaded with benefits.
 Men who had really wronged him came away touched by his simplicity
-and sweetness.  Why the deuce should he diabolically [[Revenge|revenge]]
+and sweetness.  Why the deuce should he diabolically revenge
 himself only once in his life; and that for the one particular
-blow that could not have hurt him?  [[Well]], there you have it.
+blow that could not have hurt him?  Well, there you have it.
 One of the wisest men in the world acted like an idiot for no reason.
 One of the best men in the world acted like a fiend for no reason.
 That's the long and the short of it; and I leave it to you, my boy."
 
 "No, you don't," said the other with a snort.  "I leave it to you;
-and you jolly [[Well|well]] tell me all about it."
+and you jolly well tell me all about it."
 
-"[[Well]]," resumed [[Father Brown]], "it's not fair to say that the public
+"Well," resumed Father Brown, "it's not fair to say that the public
 impression is just what I've said, without adding that two things
 have happened since.  I can't say they threw a new light; for nobody
 can make sense of them.  But they threw a new kind of darkness;
@@ -202,8 +202,8 @@ more than a religious man.  Anyhow, the story fizzled out.
 Everyone knew, of course, that St. Clare had some of the eccentricities
 of puritan piety.  The second incident was much more arresting.
 In the luckless and unsupported regiment which made that rash
-attempt at the Black [[River]] there was a certain Captain Keith,
-who was at that [[Time|time]] engaged to St. Clare's daughter,
+attempt at the Black River there was a certain Captain Keith,
+who was at that time engaged to St. Clare's daughter,
 and who afterwards married her.  He was one of those who were
 captured by Olivier, and, like all the rest except the general,
 appears to have been bounteously treated and promptly set free.
@@ -215,24 +215,24 @@ may be found the following words:  `Everywhere else in this book
 I have narrated things exactly as they occurred, holding as I
 do the old-fashioned opinion that the glory of England is old
 enough to take care of itself.  The exception I shall make is
-in this matter of the defeat by the Black [[River]]; and my reasons,
+in this matter of the defeat by the Black River; and my reasons,
 though private, are honourable and compelling.  I will, however,
 add this in justice to the memories of two distinguished men.
 General St. Clare has been accused of incapacity on this occasion;
 I can at least testify that this action, properly understood,
 was one of the most brilliant and sagacious of his life.
 President Olivier by similar report is charged with savage injustice.
-I think it due to the [[Honour|honour]] of an enemy to say that he acted on
+I think it due to the honour of an enemy to say that he acted on
 this occasion with even more than his characteristic good feeling.
 To put the matter popularly, I can assure my countrymen that St. Clare
-was by no means such a [[Fool|fool]] nor Olivier such a brute as he looked.
+was by no means such a fool nor Olivier such a brute as he looked.
 This is all I have to say; nor shall any earthly consideration
 induce me to add a word to it.'"
 
-A large frozen [[Moon|moon]] like a lustrous snowball began to show through the tangle
+A large frozen moon like a lustrous snowball began to show through the tangle
 of twigs in front of them, and by its light the narrator had been able
-to refresh his [[Memory|memory]] of Captain Keith's text from a scrap of printed paper.
-As he folded it up and put it back in his pocket [[Flambeau]] threw up his hand
+to refresh his memory of Captain Keith's text from a scrap of printed paper.
+As he folded it up and put it back in his pocket Flambeau threw up his hand
 with a French gesture.
 
 "Wait a bit, wait a bit," he cried excitedly.  "I believe I can
@@ -242,60 +242,60 @@ He strode on, breathing hard, his black head and bull neck forward,
 like a man winning a walking race.  The little priest,
 amused and interested, had some trouble in trotting beside him.
 Just before them the trees fell back a little to left and right,
-and the [[Road|road]] swept downwards across a clear, moonlit valley,
+and the road swept downwards across a clear, moonlit valley,
 till it dived again like a rabbit into the wall of another wood.
 The entrance to the farther forest looked small and round,
 like the black hole of a remote railway tunnel.
 But it was within some hundred yards, and gaped like a cavern
-before [[Flambeau]] spoke again.
+before Flambeau spoke again.
 
 "I've got it," he cried at last, slapping his thigh with his great hand.
 "Four minutes' thinking, and I can tell your whole story myself."
 
 "All right," assented his friend.  "You tell it."
 
-[[Flambeau]] lifted his head, but lowered his voice.
-"General Sir [[arthur|Arthur]] St. Clare," he said, "came of a family in which [[Madness|madness]]
+Flambeau lifted his head, but lowered his voice.
+"General Sir Arthur St. Clare," he said, "came of a family in which madness
 was hereditary; and his whole aim was to keep this from his daughter,
 and even, if possible, from his future son-in-law. Rightly or wrongly,
-he thought the final collapse was close, and resolved on [[suicide]].
-Yet ordinary [[suicide]] would blazon the very idea he dreaded.
+he thought the final collapse was close, and resolved on suicide.
+Yet ordinary suicide would blazon the very idea he dreaded.
 As the campaign approached the clouds came thicker on his brain;
 and at last in a mad moment he sacrificed his public duty to his private.
 He rushed rashly into battle, hoping to fall by the first shot.
 When he found that he had only attained capture and discredit,
-the sealed bomb in his brain burst, and he broke his own [[Sword|sword]]
+the sealed bomb in his brain burst, and he broke his own sword
 and hanged himself."
 
 He stared firmly at the grey facade of forest in front of him, with the one
-black gap in it, like the mouth of the [[Grave|grave]], into which their path plunged.
-Perhaps something menacing in the [[Road|road]] thus suddenly swallowed reinforced
-his vivid vision of the [[Tragedy|tragedy]], for he shuddered.
+black gap in it, like the mouth of the grave, into which their path plunged.
+Perhaps something menacing in the road thus suddenly swallowed reinforced
+his vivid vision of the tragedy, for he shuddered.
 
 "A horrid story," he said.
 
 "A horrid story," repeated the priest with bent head.
 "But not the real story."
 
-Then he threw back his head with a sort of [[Despair|despair]] and cried:
+Then he threw back his head with a sort of despair and cried:
 "Oh, I wish it had been."
 
-The tall [[Flambeau]] faced round and stared at him.
+The tall Flambeau faced round and stared at him.
 
-"Yours is a clean story," cried [[Father Brown]], deeply moved.
-"A sweet, pure, honest story, as open and white as that [[Moon|moon]].
-[[Madness]] and [[Despair|despair]] are [[Innocent|innocent]] enough.  There are
-worse things, [[Flambeau]]."
+"Yours is a clean story," cried Father Brown, deeply moved.
+"A sweet, pure, honest story, as open and white as that moon.
+Madness and despair are innocent enough.  There are
+worse things, Flambeau."
 
-[[Flambeau]] looked up wildly at the [[Moon|moon]] thus invoked; and from where he stood
+Flambeau looked up wildly at the moon thus invoked; and from where he stood
 one black tree-bough curved across it exactly like a devil's horn.
 
-"Father--father," cried [[Flambeau]] with the French gesture and stepping
+"Father--father," cried Flambeau with the French gesture and stepping
 yet more rapidly forward, "do you mean it was worse than that?"
 
-"Worse than that," said Paul like a [[Grave|grave]] echo.  And they plunged
+"Worse than that," said Paul like a grave echo.  And they plunged
 into the black cloister of the woodland, which ran by them in a dim
-tapestry of trunks, like one of the dark corridors in [[A Dream|a dream]].
+tapestry of trunks, like one of the dark corridors in a dream.
 
 They were soon in the most secret entrails of the wood,
 and felt close about them foliage that they could not see,
@@ -304,7 +304,7 @@ when the priest said again:
 "Where does a wise man hide a leaf?  In the forest.
 But what does he do if there is no forest?"
 
-"[[Well]], [[Well|well]]," cried [[Flambeau]] irritably, "what does he do?"
+"Well, well," cried Flambeau irritably, "what does he do?"
 
 "He grows a forest to hide it in," said the priest in an obscure voice.
 "A fearful sin."
@@ -319,55 +319,55 @@ in logical rather than chronological order.  First of all,
 of course, our authority for the issue and event of the battle
 is in Olivier's own dispatches, which are lucid enough.
 He was entrenched with two or three regiments on the heights
-that swept down to the Black [[River]], on the other side of which
+that swept down to the Black River, on the other side of which
 was lower and more marshy ground.  Beyond this again was gently
 rising country, on which was the first English outpost,
 supported by others which lay, however, considerably in its rear.
 The British forces as a whole were greatly superior in numbers;
 but this particular regiment was just far enough from its base to make
-Olivier consider the project of crossing the [[River|river]] to cut it off.
+Olivier consider the project of crossing the river to cut it off.
 By sunset, however, he had decided to retain his own position,
 which was a specially strong one.  At daybreak next morning
 he was thunderstruck to see that this stray handful of English,
 entirely unsupported from their rear, had flung themselves
-across the [[River|river]], half by a bridge to the right, and the other
+across the river, half by a bridge to the right, and the other
 half by a ford higher up, and were massed upon the marshy
 bank below him.
 
 "That they should attempt an attack with such numbers against such
 a position was incredible enough; but Olivier noticed something yet
 more extraordinary.  For instead of attempting to seize more solid ground,
-this mad regiment, having put the [[River|river]] in its rear by one wild charge,
+this mad regiment, having put the river in its rear by one wild charge,
 did nothing more, but stuck there in the mire like flies in treacle.
 Needless to say, the Brazilians blew great gaps in them with artillery,
-which they could only return with spirited but lessening rifle [[Fire|fire]].
+which they could only return with spirited but lessening rifle fire.
 Yet they never broke; and Olivier's curt account ends with a strong
 tribute of admiration for the mystic valour of these imbeciles.
 `Our line then advanced finally,' writes Olivier, `and drove them
-into the [[River|river]]; we captured General St. Clare himself and several
+into the river; we captured General St. Clare himself and several
 other officers.  The colonel and the major had both fallen in the battle.
 I cannot resist saying that few finer sights can have been seen
-in [[history]] than the [[Last Stand|last stand]] of this extraordinary regiment;
+in history than the last stand of this extraordinary regiment;
 wounded officers picking up the rifles of dead soldiers, and the general
-himself facing us on horseback bareheaded and with a broken [[Sword|sword]].'
+himself facing us on horseback bareheaded and with a broken sword.'
 On what happened to the general afterwards Olivier is as silent
 as Captain Keith."
 
-"[[Well]]," grunted [[Flambeau]], "get on to the next bit of evidence."
+"Well," grunted Flambeau, "get on to the next bit of evidence."
 
-"The next evidence," said [[Father Brown]], "took some [[Time|time]] to find, but it
+"The next evidence," said Father Brown, "took some time to find, but it
 will not take long to tell.  I found at last in an almshouse down in the
-Lincolnshire Fens an old soldier who not only was wounded at the Black [[River]],
+Lincolnshire Fens an old soldier who not only was wounded at the Black River,
 but had actually knelt beside the colonel of the regiment when he died.
 This latter was a certain Colonel Clancy, a big bull of an Irishman;
 and it would seem that he died almost as much of rage as of bullets.
 He, at any rate, was not responsible for that ridiculous raid;
 it must have been imposed on him by the general.  His last edifying words,
 according to my informant, were these:  `And there goes the damned old
-donkey with the end of his sword knocked off.  I wish it was his head.'
+[[donkey]] with the end of his [[Sword|sword]] knocked off.  I wish it was his head.'
 You will remark that everyone seems to have noticed this detail about
-the broken sword blade, though most people regard it somewhat more reverently
-than did the late Colonel Clancy.  And now for the third fragment."
+the broken [[Sword|sword]] blade, though most people regard it somewhat more reverently
+than did the late Colonel Clancy.  And now for the third [[Fragment|fragment]]."
 
 Their path through the woodland began to go upward,
 and the speaker paused a little for breath before he went on.
@@ -375,7 +375,7 @@ Then he continued in the same business-like tone:
 
 "Only a month or two ago a certain Brazilian official died
 in England, having quarrelled with Olivier and left his country.
-He was a well-known figure both here and on the Continent,
+He was a [[Well|well]]-known figure both here and on the Continent,
 a Spaniard named Espado; I knew him myself, a yellow-faced
 old dandy, with a hooked nose.  For various private reasons
 I had permission to see the documents he had left; he was
@@ -384,7 +384,7 @@ There was nothing of his that lit up any corner of the black
 St. Clare business, except five or six common exercise books
 filled with the diary of some English soldier.  I can only suppose
 that it was found by the Brazilians on one of those that fell.
-Anyhow, it stopped abruptly the night before the battle.
+Anyhow, it stopped abruptly the [[Night|night]] before the battle.
 
 "But the account of that last day in the poor fellow's life
 was certainly worth reading.  I have it on me; but it's too dark
@@ -403,20 +403,20 @@ jests about the contrast between this Ulsterman's austerity
 and the conviviality of Colonel Clancy.  There is also some joke
 about the Vulture wearing bright-coloured clothes.
 
-"But all these levities are scattered by what may well be
+"But all these levities are scattered by what may [[Well|well]] be
 called the note of a bugle.  Behind the English camp and
-almost parallel to the river ran one of the few great roads
-of that district.  Westward the road curved round towards
-the river, which it crossed by the bridge before mentioned.
-To the east the road swept backwards into the wilds,
+almost parallel to the [[River|river]] ran one of the few great roads
+of that district.  Westward the [[Road|road]] curved round towards
+the [[River|river]], which it crossed by the bridge before mentioned.
+To the east the [[Road|road]] swept backwards into the wilds,
 and some two miles along it was the next English outpost.
-From this direction there came along the road that evening a glitter
+From this direction there came along the [[Road|road]] that evening a glitter
 and clatter of light cavalry, in which even the simple diarist
 could recognise with astonishment the general with his staff.
-He rode the great white horse which you have seen so often
+He rode the great white [[Horse|horse]] which you have seen so often
 in illustrated papers and Academy pictures; and you may be sure
 that the salute they gave him was not merely ceremonial.
-He, at least, wasted no time on ceremony, but, springing from
+He, at least, wasted no [[Time|time]] on ceremony, but, springing from
 the saddle immediately, mixed with the group of officers,
 and fell into emphatic though confidential speech.
 What struck our friend the diarist most was his special disposition
@@ -426,105 +426,105 @@ The two men were made for sympathy; they were men who `read
 their Bibles'; they were both the old Evangelical type of officer.
 However this may be, it is certain that when the general mounted
 again he was still talking earnestly to Murray; and that as he walked
-his [[Horse|horse]] slowly down the [[Road|road]] towards the [[River|river]], the tall
-Ulsterman still walked by his bridle rein in earnest [[debate]].
+his horse slowly down the road towards the river, the tall
+Ulsterman still walked by his bridle rein in earnest debate.
 The soldiers watched the two until they vanished behind
-a clump of trees where the [[Road|road]] turned towards the [[River|river]].
+a clump of trees where the road turned towards the river.
 The colonel had gone back to his tent, and the men to their pickets;
 the man with the diary lingered for another four minutes,
 and saw a marvellous sight.
 
-"The great white [[Horse|horse]] which had marched slowly down the [[Road|road]],
+"The great white horse which had marched slowly down the road,
 as it had marched in so many processions, flew back, galloping up
-the [[Road|road]] towards them as if it were mad to win a race.
+the road towards them as if it were mad to win a race.
 At first they thought it had run away with the man on its back;
 but they soon saw that the general, a fine rider, was himself urging
-it to full [[Speed|speed]].  [[Horse]] and man swept up to them like a whirlwind;
+it to full speed.  Horse and man swept up to them like a whirlwind;
 and then, reining up the reeling charger, the general turned on them
 a face like flame, and called for the colonel like the trumpet
 that wakes the dead.
 
 "I conceive that all the earthquake events of that catastrophe tumbled
 on top of each other rather like lumber in the minds of men such
-as our friend with the diary.  With the dazed excitement of [[A Dream|a dream]],
+as our friend with the diary.  With the dazed excitement of a dream,
 they found themselves falling--literally falling--into their ranks,
-and learned that an attack was to be led at once across the [[River|river]].
+and learned that an attack was to be led at once across the river.
 The general and the major, it was said, had found out something at the bridge,
-and there was only just [[Time|time]] to strike for life.  The major had gone
-back at once to call up the reserve along the [[Road|road]] behind; it was
-doubtful if even with that prompt appeal help could reach them in [[Time|time]].
-But they must pass the stream that [[Night|night]], and seize the heights by morning.
+and there was only just time to strike for life.  The major had gone
+back at once to call up the reserve along the road behind; it was
+doubtful if even with that prompt appeal help could reach them in time.
+But they must pass the stream that night, and seize the heights by morning.
 It is with the very stir and throb of that romantic nocturnal march
 that the diary suddenly ends."
 
-[[Father Brown]] had mounted ahead; for the woodland path
+Father Brown had mounted ahead; for the woodland path
 grew smaller, steeper, and more twisted, till they felt as if they
 were ascending a winding staircase.  The priest's voice came
 from above out of the darkness.
 
 "There was one other little and enormous thing.  When the general urged
-them to their chivalric charge he half drew his [[Sword|sword]] from the scabbard;
-and then, as if ashamed of such [[Melodrama|melodrama]], thrust it back again.
-The [[Sword|sword]] again, you see."
+them to their chivalric charge he half drew his sword from the scabbard;
+and then, as if ashamed of such melodrama, thrust it back again.
+The sword again, you see."
 
 A half-light broke through the network of boughs above them,
-flinging the [[Ghost|ghost]] of a net about their feet; for they were
-mounting again to the faint luminosity of the naked [[Night|night]].
-[[Flambeau]] felt [[Truth|truth]] all round him as an atmosphere,
+flinging the ghost of a net about their feet; for they were
+mounting again to the faint luminosity of the naked night.
+Flambeau felt truth all round him as an atmosphere,
 but not as an idea.  He answered with bewildered brain:
-"[[Well]], what's the matter with the [[Sword|sword]]?  Officers generally
+"Well, what's the matter with the sword?  Officers generally
 have swords, don't they?"
 
 "They are not often mentioned in modern war," said the other dispassionately;
-"but in this affair one falls over the blessed [[Sword|sword]] everywhere."
+"but in this affair one falls over the blessed sword everywhere."
 
-"[[Well]], what is there in that?" growled [[Flambeau]]; "it was a twopence coloured
+"Well, what is there in that?" growled Flambeau; "it was a twopence coloured
 sort of incident; the old man's blade breaking in his last battle.
 Anyone might bet the papers would get hold of it, as they have.
 On all these tombs and things it's shown broken at the point.
-I [[Hope|hope]] you haven't dragged me through this Polar expedition merely
-because two men with an eye for a picture saw St. Clare's broken [[Sword|sword]]."
+I hope you haven't dragged me through this Polar expedition merely
+because two men with an eye for a picture saw St. Clare's broken sword."
 
-"No," cried [[Father Brown]], with a sharp voice like a [[Pistol|pistol]] shot;
-"but who saw his unbroken [[Sword|sword]]?"
+"No," cried Father Brown, with a sharp voice like a pistol shot;
+"but who saw his unbroken sword?"
 
-"What do you mean?" cried the other, and stood still under the [[Stars|stars]].
+"What do you mean?" cried the other, and stood still under the stars.
 They had come abruptly out of the grey gates of the wood.
 
-"I say, who saw his unbroken [[Sword|sword]]?" repeated [[Father Brown]] obstinately.
-"Not the writer of the diary, anyhow; the general sheathed it in [[Time|time]]."
+"I say, who saw his unbroken sword?" repeated Father Brown obstinately.
+"Not the writer of the diary, anyhow; the general sheathed it in time."
 
-[[Flambeau]] looked about him in the moonlight, as a man struck blind might look
-in the sun; and his friend went on, for the first [[Time|time]] with eagerness:
+Flambeau looked about him in the moonlight, as a man struck blind might look
+in the sun; and his friend went on, for the first time with eagerness:
 
-"[[Flambeau]]," he cried, "I cannot prove it, even after hunting
+"Flambeau," he cried, "I cannot prove it, even after hunting
 through the tombs.  But I am sure of it.  Let me add just one
 more tiny fact that tips the whole thing over.  The colonel,
 by a strange chance, was one of the first struck by a bullet.
 He was struck long before the troops came to close quarters.
-But he saw St. Clare's [[Sword|sword]] broken.  Why was it broken?
+But he saw St. Clare's sword broken.  Why was it broken?
 How was it broken?  My friend, it was broken before the battle."
 
 "Oh!" said his friend, with a sort of forlorn jocularity;
 "and pray where is the other piece?"
 
 "I can tell you," said the priest promptly.  "In the northeast corner
-of the cemetery of the Protestant [[Cathedral]] at Belfast."
+of the cemetery of the Protestant Cathedral at Belfast."
 
 "Indeed?" inquired the other.  "Have you looked for it?"
 
 "I couldn't," replied Brown, with frank regret.  "There's a great
 marble monument on top of it; a monument to the heroic Major Murray,
-who fell fighting gloriously at the famous Battle of the Black [[River]]."
+who fell fighting gloriously at the famous Battle of the Black River."
 
-[[Flambeau]] seemed suddenly galvanised into existence.  "You mean,"
+Flambeau seemed suddenly galvanised into existence.  "You mean,"
 he cried hoarsely, "that General St. Clare hated Murray,
 and murdered him on the field of battle because--"
 
 "You are still full of good and pure thoughts," said the other.
 "It was worse than that."
 
-"[[Well]]," said the large man, "my stock of evil [[Imagination|imagination]] is used up."
+"Well," said the large man, "my stock of evil imagination is used up."
 
 The priest seemed really doubtful where to begin, and at last he said again:
 
@@ -537,17 +537,17 @@ to hide a dead leaf, he would make a dead forest."
 
 There was still no reply, and the priest added still more mildly and quietly:
 
-"And if a man had to hide a dead [[Body|body]], he would make a field of dead bodies
+"And if a man had to hide a dead body, he would make a field of dead bodies
 to hide it in."
 
-[[Flambeau]] began to stamp forward with an intolerance of delay in [[Time|time]] or space;
-but [[Father Brown]] went on as if he were continuing the last sentence:
+Flambeau began to stamp forward with an intolerance of delay in time or space;
+but Father Brown went on as if he were continuing the last sentence:
 
-"Sir [[arthur|Arthur]] St. Clare, as I have already said, was a man
-who read his [[Bible]].  That was what was the matter with him.
+"Sir Arthur St. Clare, as I have already said, was a man
+who read his Bible.  That was what was the matter with him.
 When will people understand that it is useless for a man to read his
-[[Bible]] unless he also reads everybody else's [[Bible]]?  A printer reads
-a [[Bible]] for misprints.  A Mormon reads his [[Bible]], and finds polygamy;
+Bible unless he also reads everybody else's Bible?  A printer reads
+a Bible for misprints.  A Mormon reads his Bible, and finds polygamy;
 a Christian Scientist reads his, and finds we have no arms and legs.
 St. Clare was an old Anglo-Indian Protestant soldier.  Now, just think
 what that might mean; and, for Heaven's sake, don't cant about it.
@@ -568,19 +568,19 @@ that it opens door after door in hell, and always into smaller and
 smaller chambers.  This is the real case against crime, that a man
 does not become wilder and wilder, but only meaner and meaner.
 St. Clare was soon suffocated by difficulties of bribery and blackmail;
-and needed more and more cash.  And by the [[Time|time]] of the Battle
-of the Black [[River]] he had fallen from world to world to that place
-which [[Dante]] makes the lowest floor of the universe."
+and needed more and more cash.  And by the time of the Battle
+of the Black River he had fallen from world to world to that place
+which Dante makes the lowest floor of the universe."
 
 "What do you mean?" asked his friend again.
 
 "I mean that," retorted the cleric, and suddenly pointed
-at a puddle sealed with ice that shone in the [[Moon|moon]].
-"Do you remember whom [[Dante]] put in the last circle of ice?"
+at a puddle sealed with ice that shone in the moon.
+"Do you remember whom Dante put in the last circle of ice?"
 
-"The traitors," said [[Flambeau]], and shuddered.  As he looked
+"The traitors," said Flambeau, and shuddered.  As he looked
 around at the inhuman landscape of trees, with taunting and
-almost obscene outlines, he could almost fancy he was [[Dante]],
+almost obscene outlines, he could almost fancy he was Dante,
 and the priest with the rivulet of a voice was, indeed, a Virgil
 leading him through a land of eternal sins.
 
@@ -592,7 +592,7 @@ he was the bright-clad fop, whose hook nose got him called
 the Vulture.  Posing as a sort of philanthropist at the front,
 he felt his way through the English Army, and at last got his fingers
 on its one corrupt man--please God!--and that man at the top.
-St. Clare was in foul need of money, and [[Mountains|mountains]] of it.
+St. Clare was in foul need of money, and mountains of it.
 The discredited family doctor was threatening those extraordinary
 exposures that afterwards began and were broken off; tales of
 monstrous and prehistoric things in Park Lane; things done by an
@@ -601,57 +601,57 @@ of slaves.  Money was wanted, too, for his daughter's dowry;
 for to him the fame of wealth was as sweet as wealth itself.
 He snapped the last thread, whispered the word to Brazil,
 and wealth poured in from the enemies of England.  But another
-man had talked to Espado the Vulture as [[Well|well]] as he.
+man had talked to Espado the Vulture as well as he.
 Somehow the dark, grim young major from Ulster had guessed
-the hideous [[Truth|truth]]; and when they walked slowly together down
-that [[Road|road]] towards the bridge Murray was telling the general
-that he must resign instantly, or be [[Court|court]]-martialled and shot.
+the hideous truth; and when they walked slowly together down
+that road towards the bridge Murray was telling the general
+that he must resign instantly, or be court-martialled and shot.
 The general temporised with him till they came to the fringe
-of tropic trees by the bridge; and there by the singing [[River|river]]
+of tropic trees by the bridge; and there by the singing river
 and the sunlit palms (for I can see the picture) the general
-drew his sabre and plunged it through the [[Body|body]] of the major."
+drew his sabre and plunged it through the body of the major."
 
-The wintry [[Road|road]] curved over a ridge in cutting [[Frost|frost]], with cruel
-black shapes of bush and thicket; but [[Flambeau]] fancied that
+The wintry road curved over a ridge in cutting frost, with cruel
+black shapes of bush and thicket; but Flambeau fancied that
 he saw beyond it faintly the edge of an aureole that was not
-starlight and moonlight, but some [[Fire|fire]] such as is made by men.
+starlight and moonlight, but some fire such as is made by men.
 He watched it as the tale drew to its close.
 
 "St. Clare was a hell-hound, but he was a hound of breed.  Never, I'll swear,
 was he so lucid and so strong as when poor Murray lay a cold lump
 at his feet.  Never in all his triumphs, as Captain Keith said truly,
 was the great man so great as he was in this last world-despised defeat.
-He looked coolly at his weapon to wipe off the [[Blood|blood]]; he saw the point
-he had planted between his victim's shoulders had broken off in the [[Body|body]].
+He looked coolly at his weapon to wipe off the blood; he saw the point
+he had planted between his victim's shoulders had broken off in the body.
 He saw quite calmly, as through a club windowpane, all that must follow.
 He saw that men must find the unaccountable corpse; must extract
-the unaccountable [[Sword|sword]]-point; must notice the unaccountable
-broken [[Sword|sword]]--or absence of [[Sword|sword]].  He had killed, but not silenced.
-But his imperious intellect [[Rose|rose]] against the facer; there was one way yet.
-He could make the corpse less unaccountable.  He could create a [[Hill|hill]]
+the unaccountable sword-point; must notice the unaccountable
+broken sword--or absence of sword.  He had killed, but not silenced.
+But his imperious intellect rose against the facer; there was one way yet.
+He could make the corpse less unaccountable.  He could create a hill
 of corpses to cover this one.  In twenty minutes eight hundred English
-soldiers were marching down to their [[Death|death]]."
+soldiers were marching down to their death."
 
-The warmer glow behind the black [[Winter|winter]] wood grew richer and brighter,
-and [[Flambeau]] strode on to reach it.  [[Father Brown]] also quickened his stride;
+The warmer glow behind the black winter wood grew richer and brighter,
+and Flambeau strode on to reach it.  Father Brown also quickened his stride;
 but he seemed merely absorbed in his tale.
 
 "Such was the valour of that English thousand, and such the genius
-of their commander, that if they had at once attacked the [[Hill|hill]],
+of their commander, that if they had at once attacked the hill,
 even their mad march might have met some luck.  But the evil mind
 that played with them like pawns had other aims and reasons.
 They must remain in the marshes by the bridge at least till British
 corpses should be a common sight there.  Then for the last grand scene;
-the silver-haired soldier-saint would give up his shattered [[Sword|sword]]
-to save further slaughter.  Oh, it was [[Well|well]] organised for an impromptu.
+the silver-haired soldier-saint would give up his shattered sword
+to save further slaughter.  Oh, it was well organised for an impromptu.
 But I think (I cannot prove), I think that it was while they stuck
 there in the bloody mire that someone doubted--and someone guessed."
 
 He was mute a moment, and then said:  "There is a voice from nowhere
-that tells me the man who guessed was the [[Lover|lover]] ... the man to wed
-the old man's [[Child|child]]."
+that tells me the man who guessed was the lover ... the man to wed
+the old man's child."
 
-"But what about Olivier and the hanging?" asked [[Flambeau]].
+"But what about Olivier and the hanging?" asked Flambeau.
 
 "Olivier, partly from chivalry, partly from policy, seldom
 encumbered his march with captives," explained the narrator.
@@ -662,16 +662,16 @@ in this case.
 
 "Everybody," said the priest.
 
-[[Flambeau]] knit his black brows.  "I don't grasp it all yet," he said.
+Flambeau knit his black brows.  "I don't grasp it all yet," he said.
 
-"There is another picture, [[Flambeau]]," said Brown in his more
+"There is another picture, Flambeau," said Brown in his more
 mystical undertone.  "I can't prove it; but I can do more--I can see it.
 There is a camp breaking up on the bare, torrid hills at morning,
 and Brazilian uniforms massed in blocks and columns to march.
 There is the red shirt and long black beard of Olivier,
 which blows as he stands, his broad-brimmed hat in his hand.
 He is saying farewell to the great enemy he is setting free--
-the simple, [[Snow|snow]]-headed English veteran, who thanks him in the name
+the simple, snow-headed English veteran, who thanks him in the name
 of his men.  The English remnant stand behind at attention;
 beside them are stores and vehicles for the retreat.  The drums roll;
 the Brazilians are moving; the English are still like statues.
@@ -680,9 +680,9 @@ from the tropic horizon.  Then they alter their postures all at once,
 like dead men coming to life; they turn their fifty faces upon
 the general--faces not to be forgotten."
 
-[[Flambeau]] gave a great jump.  "Ah," he cried, "you don't mean--"
+Flambeau gave a great jump.  "Ah," he cried, "you don't mean--"
 
-"Yes," said [[Father Brown]] in a deep, moving voice.
+"Yes," said Father Brown in a deep, moving voice.
 "It was an English hand that put the rope round St. Clare's neck;
 I believe the hand that put the ring on his daughter's finger.
 They were English hands that dragged him up to the tree of shame;
@@ -694,58 +694,58 @@ off it into hell."
 
 As the two topped the ridge there burst on them the strong
 scarlet light of a red-curtained English inn.  It stood sideways
-in the [[Road|road]], as if standing aside in the amplitude of hospitality.
+in the road, as if standing aside in the amplitude of hospitality.
 Its three doors stood open with invitation; and even where they
 stood they could hear the hum and laughter of humanity happy
-for a [[Night|night]].
+for a night.
 
-"I need not tell you more," said [[Father Brown]].  "They tried him
-in the wilderness and destroyed him; and then, for the [[Honour|honour]]
+"I need not tell you more," said Father Brown.  "They tried him
+in the wilderness and destroyed him; and then, for the honour
 of England and of his daughter, they took an oath to seal up
 for ever the story of the traitor's purse and the assassin's
-[[Sword|sword]] blade.  Perhaps--Heaven help them--they tried to forget it.
+sword blade.  Perhaps--Heaven help them--they tried to forget it.
 Let us try to forget it, anyhow; here is our inn."
 
-"With all my heart," said [[Flambeau]], and was just striding into the bright,
-noisy bar when he stepped back and almost fell on the [[Road|road]].
+"With all my heart," said Flambeau, and was just striding into the bright,
+noisy bar when he stepped back and almost fell on the road.
 
 "Look there, in the devil's name!" he cried, and pointed
-rigidly at the square wooden sign that overhung the [[Road|road]].
+rigidly at the square wooden sign that overhung the road.
 It showed dimly the crude shape of a sabre hilt and a shortened blade;
 and was inscribed in false archaic lettering, "The Sign
-of the Broken [[Sword]]."
+of the Broken Sword."
 
-"Were you not prepared?" asked [[Father Brown]] gently.
+"Were you not prepared?" asked Father Brown gently.
 "He is the god of this country; half the inns and parks and
 streets are named after him and his story."
 
-"I thought we had done with the leper," cried [[Flambeau]],
-and spat on the [[Road|road]].
+"I thought we had done with the leper," cried Flambeau,
+and spat on the road.
 
 "You will never have done with him in England," said the priest,
 looking down, "while brass is strong and stone abides.
-His marble statues will erect the souls of proud, [[Innocent|innocent]] boys
+His marble statues will erect the souls of proud, innocent boys
 for centuries, his village tomb will smell of loyalty as of lilies.
-Millions who never knew him shall [[Love|love]] him like a father--
+Millions who never knew him shall love him like a father--
 this man whom the last few that knew him dealt with like dung.
-He shall be a saint; and the [[Truth|truth]] shall never be told of him,
+He shall be a saint; and the truth shall never be told of him,
 because I have made up my mind at last.  There is so much good
-and evil in breaking [[Secrets|secrets]], that I put my conduct to a test.
+and evil in breaking secrets, that I put my conduct to a test.
 All these newspapers will perish; the anti-Brazil boom is already over;
 Olivier is already honoured everywhere.  But I told myself that
 if anywhere, by name, in metal or marble that will endure like
 the pyramids, Colonel Clancy, or Captain Keith, or President Olivier,
-or any [[Innocent|innocent]] man was wrongly blamed, then I would speak.
+or any innocent man was wrongly blamed, then I would speak.
 If it were only that St. Clare was wrongly praised, I would be silent.
 And I will."
 
 They plunged into the red-curtained tavern, which was not only cosy,
 but even luxurious inside.  On a table stood a silver model of the tomb
-of St. Clare, the silver head bowed, the silver [[Sword|sword]] broken.
+of St. Clare, the silver head bowed, the silver sword broken.
 On the walls were coloured photographs of the same scene,
 and of the system of wagonettes that took tourists to see it.
 They sat down on the comfortable padded benches.
 
-"Come, it's cold," cried [[Father Brown]]; "let's have some wine or beer."
+"Come, it's cold," cried Father Brown; "let's have some wine or beer."
 
-"Or brandy," said [[Flambeau]].
+"Or brandy," said Flambeau.

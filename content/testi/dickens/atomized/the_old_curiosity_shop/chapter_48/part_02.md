@@ -14,6 +14,17 @@ tags:
 </nav>
 
 
+‘No matter,’ said the single gentleman angrily.  ‘He was gone.’
+
+‘Yes, he was gone,’ said Quilp, with the same exasperating composure.
+‘No [[Doubt|doubt]] he was gone.  The only question was, where.  And it’s a
+question still.’
+
+‘Now, what am I to think,’ said the single gentleman, sternly regarding
+him, ‘of you, who, plainly indisposed to give me any information
+then--nay, obviously holding back, and sheltering yourself with all
+kinds of cunning, trickery, and evasion--are dogging my footsteps now?’
+
 ‘I dogging!’ cried Quilp.
 
 ‘Why, are you not?’ returned his questioner, fretted into a state of

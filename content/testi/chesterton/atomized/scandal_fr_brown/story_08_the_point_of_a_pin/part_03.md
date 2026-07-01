@@ -14,6 +14,17 @@ tags:
 </nav>
 
 
+Nobody, not even the least fastidious lady, would have said that the
+newcomer was too nice - looking. He had very large ears and a face like
+a frog, and he stared before him with an almost ghastly fixity, which
+[[Father Brown]] attributed to his having a glass eye. In fact, his fancy
+was tempted to equip the man with two glass eyes; with so glassy a stare
+did he contemplate the company. But the priest's experience, as distinct
+from his fancy, was able to suggest several natural causes for that
+unnatural waxwork glare; one of them being an abuse of the divine gift
+of fermented liquor. The man was short and shabby and carried a large
+bowler hat in one hand and a large sealed letter in the other.
+
 Sir [[Hubert]] Sand looked at him; and then said quietly enough, but in a
 voice that somehow seemed curiously small, coming out of the fullness of
 his bodily presence: 'Oh - it's you.'
@@ -109,25 +120,3 @@ view. They were just turning the corner of the path under an enormous
 classical urn crowned with a somewhat incongruous garland of geraniums,
 when [[Father Brown]] saw a movement in the bushes and thin trees just below
 him, that seemed as swift as a movement of startled [[Birds|birds]].
-
-In the tangle of thin trees by the [[River|river]] two figures seemed to divide or
-scatter; one of them glided swiftly into the shadows and the other came
-forward to face them; bringing them to a halt and an abrupt and rather
-unaccountable [[Silence|silence]]. Then Henry Sand said in his heavy way: 'I think
-you know [[Father Brown]] . . . Lady Sand.'
-
-[[Father Brown]] did know her; but at that moment he might almost have said
-that he did not know her. The pallor and constriction of her face was
-like a mask of [[Tragedy|tragedy]]; she was much younger than her husband, but at
-that moment she looked somehow older than everything in that old [[house]]
-and [[Garden|garden]]. And the priest remembered, with a subconscious thrill, that
-she was indeed older in type and lineage and was the true possessor of
-the place. For her own family had owned it as impoverished aristocrats,
-before she had restored its fortunes by marrying a successful business
-man. As she stood there, she might have been a family picture, or even a
-family [[Ghost|ghost]]. Her pale face was of that pointed yet oval type seen in
-some old pictures of Mary [[Queen]] of Scots; and its expression seemed
-almost to go beyond the natural unnaturalness of a situation, in which
-her husband had vanished under suspicion of [[suicide]]. [[Father Brown]], with
-the same subconscious movement of the mind, wondered who it was with
-whom she had been talking among the trees.

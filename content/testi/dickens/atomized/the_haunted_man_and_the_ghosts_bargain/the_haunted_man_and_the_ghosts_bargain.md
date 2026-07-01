@@ -1,5 +1,5 @@
 ---
-title: "The Haunted Man and the [[Ghost]]'s Bargain"
+title: "The Haunted Man and the Ghost's Bargain"
 author: "Dickens"
 unitType: work
 parentWork: "works/the-haunted-man-and-the-ghost's-bargain-(dickens)"
@@ -782,7 +782,7 @@ confidence was locked as in my own), passing between me and the centre of
 the system of my hopes and struggles, won her to himself, and shattered
 my frail universe. My sister, doubly dear, doubly devoted, doubly
 cheerful in my [[Home|home]], lived on to see me famous, and my old [[Ambition|ambition]] so
-rewarded when its [[Spring|spring]] was broken, and then—”
+rewarded when its [[spring]] was broken, and then—”
 
 “Then died,” he interposed. “Died, gentle as ever; happy; and with no
 concern but for her brother. Peace!”
@@ -978,7 +978,7 @@ the boy what he did there, and whence he came.
 was so long gone, that I went to look for her, and lost myself. I don’t
 want you. I want the woman.”
 
-He made a [[Spring|spring]], so suddenly, to get away, that the dull sound of his
+He made a [[spring]], so suddenly, to get away, that the dull sound of his
 naked feet upon the floor was near the curtain, when Redlaw caught him by
 his rags.
 
@@ -2076,7 +2076,7 @@ Give me back _my_self!”
 “Give me back myself!” exclaimed Redlaw like a madman. “I am infected!
 I am infectious! I am charged with [[Poison|poison]] for my own mind, and the minds
 of all mankind. Where I felt interest, compassion, sympathy, I am
-turning into stone. Selfishness and ingratitude [[Spring|spring]] up in my
+turning into stone. Selfishness and ingratitude [[spring]] up in my
 blighting footsteps. I am only so much less base than the wretches whom
 I make so, that in the moment of their transformation I can hate them.”
 
@@ -2308,7 +2308,7 @@ head was bent down on her hands and knees. As it was not easy to pass
 without treading on her, and as she was perfectly regardless of his near
 approach, he stopped, and touched her on the shoulder. Looking up, she
 showed him quite a young face, but one whose bloom and promise were all
-swept away, as if the haggard [[Winter|winter]] should unnaturally kill the [[Spring|spring]].
+swept away, as if the haggard [[Winter|winter]] should unnaturally kill the [[spring]].
 
 With little or no show of concern on his account, she moved nearer to the
 wall to leave him a wider passage.
@@ -2908,7 +2908,7 @@ you have yielded up. No softening [[Memory|memory]] of sorrow, wrong, or trouble
 enters here, because this wretched mortal from his birth has been
 abandoned to a worse condition than the beasts, and has, within his
 knowledge, no one contrast, no humanising touch, to make a grain of such
-a [[Memory|memory]] [[Spring|spring]] up in his hardened breast. All within this desolate
+a [[Memory|memory]] [[spring]] up in his hardened breast. All within this desolate
 creature is barren wilderness. All within the man bereft of what you
 have resigned, is the same barren wilderness. Woe to such a man! Woe,
 tenfold, to the nation that shall count its monsters such as this, lying

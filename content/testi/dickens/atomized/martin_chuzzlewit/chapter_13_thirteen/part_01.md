@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 13: THIRTEEN (part 1)"
+title: "Martin Chuzzlewit — Chapter 13: THIRTEEN (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -111,12 +111,3 @@ glanced through the [[Window|window]] at the falling rain, coming down aslant up
 the sign-post over against the [[house]], and overflowing the [[Horse|horse]]-trough;
 and then he looked at the [[Fire|fire]] again, and seemed to descry a [[Double|double]]
 distant [[London]], retreating among the fragments of the burning wood.
-
-He had repeated this process in just the same order, many times, as
-if it were a matter of necessity, when the sound of wheels called his
-attention to the [[Window|window]] out of its regular turn; and there he beheld a
-kind of light van drawn by four horses, and laden, as [[Well|well]] as he could
-see (for it was covered in), with corn and straw. The driver, who
-was [[Alone|alone]], stopped at the door to [[Water|water]] his team, and presently came
-stamping and shaking the wet off his hat and coat, into the room where
-Martin sat.

@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 53 (part 2)"
+title: "Bleak House — Chapter 53 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_53/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_53/part_03">part 03 ›</a></div>
 </nav>
 
+
+No knocking or ringing for Mr. Bucket. He has caused himself to be
+provided with a key and can pass in at his pleasure. As he is
+crossing the hall, Mercury informs him, “Here’s another letter for
+you, Mr. Bucket, come by post,” and gives it him.
 
 “Another one, eh?” says Mr. Bucket.
 

@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 16: I AM A NEW BOY IN MORE SENSES THAN ONE (part 4)"
+title: "David Copperfield — Chapter 16: I AM A NEW BOY IN MORE SENSES THAN ONE (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,59 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_16_i_am_a_new_boy_in_more_senses/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_16_i_am_a_new_boy_in_more_senses/part_05">part 05 ›</a></div>
 </nav>
 
+
+But, seeing a light in the little round office, and immediately feeling
+myself attracted towards [[Uriah Heep]], who had a sort of fascination for
+me, I went in there instead. I found Uriah reading a great fat book,
+with such demonstrative attention, that his lank forefinger followed up
+every line as he read, and made clammy tracks along the page (or so I
+fully believed) like a snail.
+
+‘You are working late tonight, Uriah,’ says I.
+
+‘Yes, Master Copperfield,’ says Uriah.
+
+As I was getting on the stool opposite, to talk to him more
+conveniently, I observed that he had not such a thing as a smile about
+him, and that he could only widen his mouth and make two hard creases
+down his cheeks, one on each side, to stand for one.
+
+‘I am not doing office-work, Master Copperfield,’ said Uriah.
+
+‘What work, then?’ I asked.
+
+‘I am improving my legal knowledge, Master Copperfield,’ said Uriah. ‘I
+am going through Tidd’s Practice. Oh, what a writer Mr. Tidd is, Master
+Copperfield!’
+
+My stool was such a tower of observation, that as I watched him reading
+on again, after this rapturous exclamation, and following up the lines
+with his forefinger, I observed that his nostrils, which were thin and
+pointed, with sharp dints in them, had a singular and most uncomfortable
+way of expanding and contracting themselves--that they seemed to twinkle
+instead of his eyes, which hardly ever twinkled at all.
+
+‘I suppose you are quite a great lawyer?’ I said, after looking at him
+for some [[Time|time]].
+
+‘Me, Master Copperfield?’ said Uriah. ‘Oh, no! I’m a very umble person.’
+
+It was no fancy of mine about his hands, I observed; for he frequently
+ground the palms against each other as if to squeeze them dry and
+warm, besides often wiping them, in a stealthy way, on his
+pocket-handkerchief.
+
+‘I am [[Well|well]] aware that I am the umblest person going,’ said [[Uriah Heep]],
+modestly; ‘let the other be where he may. My mother is likewise a very
+umble person. We live in a numble abode, Master Copperfield, but have
+much to be thankful for. My father’s former calling was umble. He was a
+sexton.’
+
+‘What is he now?’ I asked.
+
+‘He is a partaker of glory at present, Master Copperfield,’ said Uriah
+Heep. ‘But we have much to be thankful for. How much have I to be
+thankful for in living with Mr. Wickfield!’
 
 I asked Uriah if he had been with Mr. Wickfield long?
 
@@ -106,47 +159,3 @@ that he had launched Mr. Peggotty’s [[house]] on a piratical expedition,
 with a black [[Flag|flag]] at the masthead, bearing the [[Inscription|inscription]] ‘Tidd’s
 Practice’, under which diabolical ensign he was carrying me and little
 Em’ly to the Spanish Main, to be drowned.
-
-I got a little the better of my uneasiness when I went to school
-next day, and a good deal the better next day, and so shook it off by
-degrees, that in less than a fortnight I was quite at [[Home|home]], and happy,
-among my new companions. I was awkward enough in their games, and
-backward enough in their studies; but custom would improve me in the
-first respect, I hoped, and hard work in the second. Accordingly, I
-went to work very hard, both in play and in earnest, and gained great
-commendation. And, in a very little while, the Murdstone and Grinby life
-became so strange to me that I hardly believed in it, while my present
-life grew so familiar, that I seemed to have been leading it a long
-[[Time|time]].
-
-Doctor Strong’s was an excellent school; as different from Mr. Creakle’s
-as good is from evil. It was very gravely and decorously ordered, and
-on a sound system; with an appeal, in everything, to the [[Honour|honour]] and good
-[[Faith|faith]] of the boys, and an avowed intention to rely on their possession
-of those qualities unless they proved themselves unworthy of it, which
-worked wonders. We all felt that we had a part in the management of
-the place, and in sustaining its character and dignity. Hence, we soon
-became warmly attached to it--I am sure I did for one, and I never knew,
-in all my [[Time|time]], of any other boy being otherwise--and learnt with a good
-will, desiring to do it credit. We had noble games out of hours, and
-plenty of liberty; but even then, as I remember, we were [[Well|well]] spoken of
-in the town, and rarely did any disgrace, by our appearance or manner,
-to the reputation of Doctor Strong and Doctor Strong’s boys.
-
-Some of the higher scholars boarded in the Doctor’s [[house]], and through
-them I learned, at second hand, some particulars of the Doctor’s
-[[history]]--as, how he had not yet been married twelve months to the
-beautiful young lady I had seen in the study, whom he had married for
-[[Love|love]]; for she had not a sixpence, and had a world of poor relations (so
-our fellows said) ready to swarm the Doctor out of [[house]] and [[Home|home]]. Also,
-how the Doctor’s cogitating manner was attributable to his being always
-engaged in looking out for Greek roots; which, in my [[innocence]] and
-ignorance, I supposed to be a botanical furor on the Doctor’s part,
-especially as he always looked at the ground when he walked about,
-until I understood that they were roots of words, with a view to a new
-Dictionary which he had in contemplation. Adams, our head-boy, who had
-a turn for mathematics, had made a calculation, I was informed, of the
-[[Time|time]] this Dictionary would take in completing, on the Doctor’s plan, and
-at the Doctor’s rate of going. He considered that it might be done
-in one thousand six hundred and forty-nine years, counting from the
-Doctor’s last, or sixty-second, birthday.

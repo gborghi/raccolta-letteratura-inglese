@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 14 (part 6)"
+title: "Villette — Chapter 14 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,34 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_14/part_05">‹ part 05</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_14/part_07">part 07 ›</a></div>
 </nav>
 
+
+Having surveyed and criticized the whole troop, he turned to me.
+
+“You, too, must be dressed for your part.”
+
+“Dressed—dressed like a man!” exclaimed Zélie St. Pierre, darting
+forwards; adding with officiousness, “I will dress her myself.”
+
+To be dressed like a man did not please, and would not suit me. I had
+consented to take a man’s name and part; as to his dress—_halte là!_
+No. I would keep my own dress, come what might. M. Paul might [[Storm|storm]],
+might rage: I would keep my own dress. I said so, with a voice as
+resolute in intent, as it was low, and perhaps unsteady in utterance.
+
+He did not immediately [[Storm|storm]] or rage, as I fully thought he would he
+stood silent. But Zélie again interposed.
+
+“She will make a capital _petit-mâitre_. Here are the garments, all—all
+complete: somewhat too large, but—I will arrange all that. Come, chère
+amie—belle Anglaise!”
+
+And she sneered, for I was not “belle.” She seized my hand, she was
+drawing me away. M. Paul stood impassable—neutral.
+
+“You must not resist,” pursued St. Pierre—for resist I did. “You will
+spoil all, destroy the mirth of the piece, the enjoyment of the
+company, sacrifice everything to your _amour-propre_. This would be too
+bad—monsieur will never permit this?”
 
 She sought his eye. I watched, likewise, for a glance. He gave her one,
 and then he gave me one. “Stop!” he said slowly, arresting St. Pierre,
@@ -79,7 +107,7 @@ true pitch, and found its natural tone, I thought of nothing but the
 personage I represented—and of M. Paul, who was listening, watching,
 prompting in the side-scenes.
 
-By-and-by, feeling the right power come—the [[spring]] demanded gush and
+By-and-by, feeling the right power come—the [[Spring|spring]] demanded gush and
 rise inwardly—I became sufficiently composed to notice my
 fellow-actors. Some of them played very [[Well|well]]; especially Ginevra
 Fanshawe, who had to coquette between two suitors, and managed
@@ -112,18 +140,3 @@ tender; how could I be otherwise than chivalric? Retaining the letter,
 I recklessly altered the spirit of the _rôle_. Without heart, without
 interest, I could not play it at all. It must be played—in went the
 yearned-for seasoning—thus favoured, I played it with relish.
-
-What I felt that [[Night|night]], and what I did, I no more expected to feel and
-do, than to be lifted in a trance to the seventh heaven. Cold,
-reluctant, apprehensive, I had accepted a part to please another: ere
-long, warming, becoming interested, taking [[Courage|courage]], I acted to please
-myself. Yet the next day, when I thought it over, I quite disapproved
-of these amateur performances; and though glad that I had obliged M.
-Paul, and tried my own strength for once, I took a firm resolution,
-never to be drawn into a similar affair. A keen relish for dramatic
-expression had revealed itself as part of my [[Nature|nature]]; to cherish and
-exercise this new-found faculty might gift me with a world of delight,
-but it would not do for a mere looker-on at life: the strength and
-[[Longing|longing]] must be put by; and I put them by, and fastened them in with
-the lock of a resolution which neither [[Time]] nor [[Temptation]] has since
-picked.

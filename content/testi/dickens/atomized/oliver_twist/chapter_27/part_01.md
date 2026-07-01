@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 27 (part 1)"
+title: "Oliver Twist — Chapter 27 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -132,6 +132,3 @@ creetur.”
 
 “Not weak, ma’am,” retorted Mr. Bumble, drawing his chair a little
 closer. “Are you a weak creetur, Mrs. Corney?”
-
-“We are all weak creeturs,” said Mrs. Corney, laying down a general
-principle.

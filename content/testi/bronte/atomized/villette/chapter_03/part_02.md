@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 3 (part 2)"
+title: "Villette — Chapter 3 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_03/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_03/part_03">part 03 ›</a></div>
 </nav>
 
+
+“Then Polly must be cheerful: not cry at parting; not fret afterwards.
+She must look forward to meeting again, and try to be happy meanwhile.
+Can she do this?”
+
+“She will try.”
 
 “I see she will. Farewell, then. It is [[Time|time]] to go.”
 
@@ -135,9 +141,9 @@ up my books.”
 “Not at all, Polly—it is positive fact. I’m as weak as a rush. Come
 down.”
 
-“Your eyes are quiet like the cat’s, but you’ll [[spring]].”
+“Your eyes are quiet like the cat’s, but you’ll [[Spring|spring]].”
 
-“[[spring|Spring]]? Nothing of the kind: it isn’t in me. Come down.”
+“[[Spring]]? Nothing of the kind: it isn’t in me. Come down.”
 
 “Perhaps I may—if you’ll promise not to touch—not to snatch me up, and
 not to whirl me round.”

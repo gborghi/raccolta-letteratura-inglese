@@ -1,5 +1,5 @@
 ---
-title: "[[aquinas]] — Chapter 4 (part 7)"
+title: "aquinas — Chapter 4 (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/aquinas-(chesterton)"

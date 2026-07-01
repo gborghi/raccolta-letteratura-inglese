@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 17 (part 3)"
+title: "Great Expectations — Chapter 17 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_17/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_18/part_01">part 01 ›</a></div>
 </nav>
 
+
+I said to [[Biddy]] we would walk a little farther, and we did so, and the
+[[Summer|summer]] afternoon toned down into the [[Summer|summer]] evening, and it was very
+beautiful. I began to consider whether I was not more naturally and
+wholesomely situated, after all, in these circumstances, than playing
+beggar my neighbour by candle-light in the room with the stopped
+clocks, and being despised by [[Estella]]. I thought it would be very good
+for me if I could get her out of my head, with all the rest of those
+remembrances and fancies, and could go to work determined to relish
+what I had to do, and stick to it, and make the best of it. I asked
+myself the question whether I did not surely know that if [[Estella]] were
+beside me at that moment instead of [[Biddy]], she would make me miserable?
+I was obliged to admit that I did know it for a certainty, and I said
+to myself, “Pip, what a [[Fool|fool]] you are!”
 
 We talked a good deal as we walked, and all that [[Biddy]] said seemed
 right. [[Biddy]] was never insulting, or capricious, or [[Biddy]] to-day and

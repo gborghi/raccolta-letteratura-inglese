@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 12 (part 2)"
+title: "Our Mutual Friend — Chapter 15 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,145 +14,132 @@ tags:
 </nav>
 
 
-‘If working him out of the way could be presented in the light of a
-service to Mr Boffin?’
+‘But you don’t, you don’t right me!’ exclaimed Bella, with great
+emphasis. ‘You wrong me, wrong me!’
 
-‘Take [[Time|time]], Sophronia.’
-
-‘We have remarked lately, Alfred, that the old man is turning very
-suspicious and distrustful.’
-
-‘Miserly too, my dear; which is far the most unpromising for us.
-Nevertheless, take [[Time|time]], Sophronia, take [[Time|time]].’
-
-She took [[Time|time]] and then said:
-
-‘Suppose we should address ourselves to that tendency in him of which we
-have made ourselves quite sure. Suppose my [[Conscience|conscience]]—’
-
-‘And we know what a [[Conscience|conscience]] it is, my [[Soul|soul]]. Yes?’
-
-‘Suppose my [[Conscience|conscience]] should not allow me to keep to myself any
-longer what that upstart girl told me of the Secretary’s having made a
-declaration to her. Suppose my [[Conscience|conscience]] should oblige me to repeat it
-to Mr Boffin.’
-
-‘I rather like that,’ said Lammle.
-
-‘Suppose I so repeated it to Mr Boffin, as to insinuate that my
-sensitive delicacy and [[Honour|honour]]—’
-
-‘Very good words, Sophronia.’
-
-‘—As to insinuate that OUR sensitive delicacy and [[Honour|honour]],’ she resumed,
-with a bitter stress upon the phrase, ‘would not allow us to be silent
-parties to so mercenary and designing a speculation on the Secretary’s
-part, and so gross a breach of [[Faith|faith]] towards his confiding employer.
-Suppose I had imparted my virtuous uneasiness to my excellent husband,
-and he had said, in his integrity, “Sophronia, you must immediately
-disclose this to Mr Boffin.”’
-
-‘Once more, Sophronia,’ observed Lammle, changing the leg on which he
-stood, ‘I rather like that.’
-
-‘You remark that he is [[Well|well]] guarded,’ she pursued. ‘I think so too. But
-if this should lead to his discharging his Secretary, there would be a
-weak place made.’
-
-‘Go on expounding, Sophronia. I begin to like this very much.’
-
-‘Having, in our unimpeachable rectitude, done him the service of opening
-his eyes to the treachery of the person he trusted, we shall have
-established a claim upon him and a confidence with him. Whether it
-can be made much of, or little of, we must wait—because we can’t help
-it—to see. Probably we shall make the most of it that is to be made.’
-
-‘Probably,’ said Lammle.
-
-‘Do you think it impossible,’ she asked, in the same cold plotting way,
-‘that you might replace the Secretary?’
-
-‘Not impossible, Sophronia. It might be brought about. At any rate it
-might be skilfully led up to.’
-
-She nodded her understanding of the hint, as she looked at the [[Fire|fire]]. ‘Mr
-Lammle,’ she said, musingly: not without a slight ironical touch: ‘Mr
-Lammle would be so delighted to do anything in his power. Mr Lammle,
-himself a man of business as [[Well|well]] as a capitalist. Mr Lammle, accustomed
-to be intrusted with the most delicate affairs. Mr Lammle, who has
-managed my own little fortune so admirably, but who, to be sure, began
-to make his reputation with the advantage of being a man of property,
-above [[Temptation|temptation]], and beyond suspicion.’
-
-Mr Lammle smiled, and even patted her on the head. In his sinister
-relish of the scheme, as he stood above her, making it the subject of
-his cogitations, he seemed to have twice as much nose on his face as he
-had ever had in his life.
-
-He stood pondering, and she sat looking at the dusty [[Fire|fire]] without
-moving, for some [[Time|time]]. But, the moment he began to speak again she
-looked up with a wince and attended to him, as if that [[Double|double]]-dealing of
-hers had been in her mind, and the [[Fear|fear]] were revived in her of his hand
-or his foot.
-
-‘It appears to me, Sophronia, that you have omitted one branch of the
-subject. Perhaps not, for women understand women. We might oust the girl
+‘Don’t you be put out, my dear,’ complacently retorted Mr Boffin. ‘I’ll
+bring this young man to book. Now, you Rokesmith! You can’t decline
+to hear, you know, as [[Well|well]] as to answer. You hear me tell you that the
+first side of your conduct was Insolence—Insolence and Presumption.
+Answer me one thing, if you can. Didn’t this young lady tell you so
 herself?’
 
-Mrs Lammle shook her head. ‘She has an immensely strong hold upon them
-both, Alfred. Not to be compared with that of a paid secretary.’
+‘Did I, Mr Rokesmith?’ asked Bella with her face still covered. ‘O say,
+Mr Rokesmith! Did I?’
 
-‘But the dear [[Child|child]],’ said Lammle, with a crooked smile, ‘ought to have
-been open with her benefactor and benefactress. The darling [[Love|love]]
-ought to have reposed unbounded confidence in her benefactor and
-benefactress.’
+‘Don’t be distressed, Miss Wilfer; it matters very little now.’
 
-Sophronia shook her head again.
+‘Ah! You can’t deny it, though!’ said Mr Boffin, with a knowing shake of
+his head.
 
-‘[[Well]]! Women understand women,’ said her husband, rather disappointed.
-‘I don’t press it. It might be the making of our fortune to make a
-clean sweep of them both. With me to manage the property, and my wife to
-manage the people—Whew!’
+‘But I have asked him to forgive me since,’ cried Bella; ‘and I would
+ask him to forgive me now again, upon my knees, if it would spare him!’
 
-Again shaking her head, she returned: ‘They will never quarrel with the
-girl. They will never punish the girl. We must accept the girl, rely
-upon it.’
+Here Mrs Boffin broke out a-crying.
 
-‘[[Well]]!’ cried Lammle, shrugging his shoulders, ‘so be it: only always
-remember that we don’t want her.’
+‘Old lady,’ said Mr Boffin, ‘stop that noise! Tender-hearted in you,
+Miss Bella; but I mean to have it out right through with this young man,
+having got him into a corner. Now, you Rokesmith. I tell you that’s one
+side of your conduct—Insolence and Presumption. Now, I’m a-coming to
+the other, which is much worse. This was a speculation of yours.’
 
-‘Now, the sole remaining question is,’ said Mrs Lammle, ‘when shall I
-begin?’
+‘I indignantly deny it.’
 
-‘You cannot begin too soon, Sophronia. As I have told you, the condition
-of our affairs is desperate, and may be blown upon at any moment.’
+‘It’s of no use your denying it; it doesn’t signify a bit whether
+you deny it or not; I’ve got a head upon my shoulders, and it ain’t a
+baby’s. What!’ said Mr Boffin, gathering himself together in his most
+suspicious attitude, and wrinkling his face into a very map of curves
+and corners. ‘Don’t I know what grabs are made at a man with money? If
+I didn’t keep my eyes open, and my pockets buttoned, shouldn’t I
+be brought to the workhouse before I knew where I was? Wasn’t the
+experience of Dancer, and Elwes, and Hopkins, and Blewbury [[Jones]], and
+ever so many more of ’em, similar to mine? Didn’t everybody want to make
+grabs at what they’d got, and bring ’em to [[Poverty|poverty]] and ruin? Weren’t
+they forced to hide everything belonging to ’em, for [[Fear|fear]] it should be
+snatched from ’em? Of course they was. I shall be told next that they
+didn’t know human natur!’
 
-‘I must secure Mr Boffin [[Alone|alone]], Alfred. If his wife was present, she
-would throw oil upon the waters. I know I should fail to move him to an
-angry outburst, if his wife was there. And as to the girl herself—as I
-am going to betray her confidence, she is equally out of the question.’
+‘They! Poor creatures,’ murmured the Secretary.
 
-‘It wouldn’t do to write for an appointment?’ said Lammle.
+‘What do you say?’ asked Mr Boffin, snapping at him. ‘However, you
+needn’t be at the trouble of repeating it, for it ain’t worth hearing,
+and won’t go down with ME. I’m a-going to unfold your plan, before this
+young lady; I’m a-going to show this young lady the second view of you;
+and nothing you can say will stave it off. (Now, attend here, Bella, my
+dear.) Rokesmith, you’re a needy chap. You’re a chap that I pick up in
+the street. Are you, or ain’t you?’
 
-‘No, certainly not. They would [[Wonder|wonder]] among themselves why I wrote, and
-I want to have him wholly unprepared.’
+‘Go on, Mr Boffin; don’t appeal to me.’
 
-‘Call, and ask to see him [[Alone|alone]]?’ suggested Lammle.
+‘Not appeal to YOU,’ retorted Mr Boffin as if he hadn’t done so. ‘No,
+I should [[Hope|hope]] not! Appealing to YOU, would be rather a rum course. As I
+was saying, you’re a needy chap that I pick up in the street. You come
+and ask me in the street to take you for a Secretary, and I take you.
+Very good.’
 
-‘I would rather not do that either. Leave it to me. Spare me the little
-carriage for to-day, and for to-morrow (if I don’t succeed to-day), and
-I’ll lie in wait for him.’
+‘Very bad,’ murmured the Secretary.
 
-It was barely settled when a manly form was seen to pass the windows
-and heard to knock and ring. ‘Here’s Fledgeby,’ said Lammle. ‘He admires
-you, and has a high opinion of you. I’ll be out. Coax him to use his
-influence with the Jew. His name is Riah, of the [[house|House]] of Pubsey and
-Co.’ Adding these words under his breath, lest he should be audible
-in the erect ears of Mr Fledgeby, through two keyholes and the hall,
-Lammle, making signals of discretion to his servant, went softly up
-stairs.
+‘What do you say?’ asked Mr Boffin, snapping at him again.
 
-‘Mr Fledgeby,’ said Mrs Lammle, giving him a very gracious reception,
-‘so glad to see you! My poor dear Alfred, who is greatly worried just
-now about his affairs, went out rather early. Dear Mr Fledgeby, do sit
-down.’
+He returned no answer. Mr Boffin, after eyeing him with a comical look
+of discomfited curiosity, was fain to begin afresh.
+
+‘This Rokesmith is a needy young man that I take for my Secretary out
+of the open street. This Rokesmith gets acquainted with my affairs, and
+gets to know that I mean to settle a sum of money on this young lady.
+“Oho!” says this Rokesmith;’ here Mr Boffin clapped a finger against
+his nose, and tapped it several times with a sneaking air, as embodying
+Rokesmith confidentially confabulating with his own nose; ‘“This will
+be a good haul; I’ll go in for this!” And so this Rokesmith, greedy and
+hungering, begins a-creeping on his hands and knees towards the money.
+Not so bad a speculation either: for if this young lady had had less
+spirit, or had had less sense, through being at all in the romantic
+line, by George he might have worked it out and made it pay! But
+fortunately she was too many for him, and a pretty figure he cuts now
+he is exposed. There he stands!’ said Mr Boffin, addressing Rokesmith
+himself with ridiculous inconsistency. ‘Look at him!’
+
+‘Your unfortunate suspicions, Mr Boffin—’ began the Secretary.
+
+‘Precious unfortunate for you, I can tell you,’ said Mr Boffin.
+
+‘—are not to be combated by any one, and I address myself to no such
+hopeless task. But I will say a word upon the [[Truth|truth]].’
+
+‘Yah! Much you care about the [[Truth|truth]],’ said Mr Boffin, with a snap of his
+fingers.
+
+‘Noddy! My dear [[Love|love]]!’ expostulated his wife.
+
+‘Old lady,’ returned Mr Boffin, ‘you keep still. I say to this Rokesmith
+here, much he cares about the [[Truth|truth]]. I tell him again, much he cares
+about the [[Truth|truth]].’
+
+‘Our connexion being at an end, Mr Boffin,’ said the Secretary, ‘it can
+be of very little moment to me what you say.’
+
+‘Oh! You are knowing enough,’ retorted Mr Boffin, with a sly look, ‘to
+have found out that our connexion’s at an end, eh? But you can’t get
+beforehand with me. Look at this in my hand. This is your pay, on your
+discharge. You can only follow suit. You can’t deprive me of the lead.
+Let’s have no pretending that you discharge yourself. I discharge you.’
+
+‘So that I go,’ remarked the Secretary, waving the point aside with his
+hand, ‘it is all one to me.’
+
+‘Is it?’ said Mr Boffin. ‘But it’s two to me, let me tell you.
+Allowing a fellow that’s found out, to discharge himself, is one thing;
+discharging him for insolence and presumption, and likewise for designs
+upon his master’s money, is another. One and one’s two; not one. (Old
+lady, don’t you cut in. You keep still.)’
+
+‘Have you said all you wish to say to me?’ demanded the Secretary.
+
+‘I don’t know whether I have or not,’ answered Mr Boffin. ‘It depends.’
+
+‘Perhaps you will consider whether there are any other strong
+expressions that you would like to bestow upon me?’
+
+‘I’ll consider that,’ said Mr Boffin, obstinately, ‘at my convenience,
+and not at yours. You want the last word. It may not be suitable to let
+you have it.’

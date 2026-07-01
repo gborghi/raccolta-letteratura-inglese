@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 23"
+title: "The Tenant of Wildfell Hall — Chapter 23"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -20,7 +20,7 @@ tags:
 
 
 
-Feb. 18, 1822.—Early this morning [[arthur|Arthur]] mounted his hunter and set off
+Feb. 18, 1822.—Early this morning [[Arthur]] mounted his hunter and set off
 
 in high glee to meet the —— hounds. He will be away all day, and so I
 
@@ -38,7 +38,7 @@ Manor. I have had eight weeks’ experience of matrimony. And do I regret
 
 the step I have taken? No, though I must confess, in my secret heart,
 
-that [[arthur|Arthur]] is not what I thought him at first, and if I had known him
+that [[Arthur]] is not what I thought him at first, and if I had known him
 
 in the beginning as thoroughly as I do now, I probably never should
 
@@ -80,7 +80,7 @@ out and leave nothing but ashes behind, what shall I do? But it won’t,
 
 it _shan_’t, I am determined; and surely I have power to keep it alive.
 
-So let me dismiss _that_ thought at once. But [[arthur|Arthur]] is selfish; I am
+So let me dismiss _that_ thought at once. But [[Arthur]] is selfish; I am
 
 constrained to acknowledge that; and, indeed, the admission gives me
 
@@ -198,7 +198,7 @@ I desired to know what was wrong.
 
 
 
-“I don’t understand you, [[arthur|Arthur]] (at least I [[Hope|hope]] I don’t): pray tell me
+“I don’t understand you, [[Arthur]] (at least I [[Hope|hope]] I don’t): pray tell me
 
 what I have done or said amiss.”
 
@@ -258,7 +258,7 @@ squeezing your fingers into the bone.”
 
 
 
-“[[arthur|Arthur]],” continued I, relaxing my hold of his arm, “you don’t [[Love|love]] me
+“[[Arthur]],” continued I, relaxing my hold of his arm, “you don’t [[Love|love]] me
 
 half as much as I do you; and yet, if you loved me far less than you
 
@@ -322,7 +322,7 @@ or those which tend to evil, till they become your masters, and neglect
 
 the good till they dwindle away, you have only yourself to blame. But
 
-you _have_ talents, [[arthur|Arthur]]—natural endowments both of heart and mind
+you _have_ talents, [[Arthur]]—natural endowments both of heart and mind
 
 and temper, such as many a better Christian would be glad to possess,
 
@@ -414,7 +414,7 @@ What have you seen amiss in me, and what would you have me to do?”
 
 
 
-“Nothing more than you do, [[arthur|Arthur]]: your actions are all right so far;
+“Nothing more than you do, [[Arthur]]: your actions are all right so far;
 
 but I would have your thoughts changed; I would have you to fortify
 

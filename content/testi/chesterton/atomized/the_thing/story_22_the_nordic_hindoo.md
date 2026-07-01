@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-thing-(chesterton)">The Thing</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_21_on_courage_and_independence">‹ Story 21 ON COURAGE AND INDEPENDENCE</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_23_the_roots_of_sanity">Story 23 THE ROOTS OF SANITY ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_21_on_courage_courage_and_independence">‹ Story 21 ON Courage COURAGE AND INDEPENDENCE</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_23_the_roots_of_sanity_sanity">Story 23 THE ROOTS OF Sanity SANITY ›</a></div>
 </nav>
 
 
@@ -139,7 +139,6 @@ And when we have reached that point, it is not difficult to see
 that the very invasion and spoliation proclaim it to be a Holy [[City]];
 unique and universal and towering over the tribes of men.
 
-
 -/-
 
 A SPIRITUALIST LOOKS BACK
@@ -179,7 +178,7 @@ They always come back to boo and riot in our churches when they
 have got tired of trying to build their own.
 
 One who thus reveals all that he does not know, and certainly ought
-to know, is Sir [[arthur|Arthur]] Conan Doyle.  He broke out the other day
+to know, is Sir [[Arthur]] Conan Doyle.  He broke out the other day
 into a diatribe, which was supposed to begin with the relations
 of his new religion to others, but which turned with incalculable
 rapidity into mere abuse of his old original family religion,
@@ -189,7 +188,7 @@ Perhaps he is right; and there is not.  But you would think
 a man fresh from founding a new religion might have a few
 new things to say about that; instead of old and negative
 things to say about something else.  But the special strictures
-of Sir [[arthur|Arthur]] Conan Doyle on Catholic orthodoxy had a certain
+of Sir [[Arthur]] Conan Doyle on Catholic orthodoxy had a certain
 very curious character, which [[Alone|alone]] makes them worth noting at all.
 In themselves they are almost indescribably stale and thin and shabby;
 and have been thrashed threadbare in a hundred controversies.
@@ -239,7 +238,7 @@ the most abstract allusion to the things that she hears shouted
 and cat-called in all the theatrical art and social conversation
 of the day.
 
-Sir [[arthur|Arthur]] Conan Doyle must know as [[Well|well]] as I do that modesty
+Sir [[Arthur]] Conan Doyle must know as [[Well|well]] as I do that modesty
 of that sort is not being regarded at all by the modern world;
 and that nobody [[Dreams|dreams]] of attempting to safeguard it so strictly as it
 is safeguarded in Catholic conversation and Catholic confessions.
@@ -256,7 +255,7 @@ the only decent object in the landscape.
 
 I mean nothing flippant when I say that the only interesting thing
 about all this is its staleness.  I have no unfriendly feelings towards
-Sir [[arthur|Arthur]] Conan Doyle, to whom we all owe so much gratitude in the realm
+Sir [[Arthur]] Conan Doyle, to whom we all owe so much gratitude in the realm
 of literature and entertainment, and who often seems to me entirely
 right in his manner of defending Spiritualism against Materialism.
 But I do realize, even if he does not realize, that, at the back
@@ -286,10 +285,10 @@ a favourite word of Dr. Watson.  Indeed, we may [[Well|well]] question whether
 the institution of the Red-Headed League or the episode of the Yellow Face
 at the [[Window|window]], or any of the fantasies of Mr. Sherlock Holmes,
 were any more fantastic than some that have been submitted to us
-seriously enough by the school of Sir [[arthur|Arthur]] Conan Doyle.
+seriously enough by the school of Sir [[Arthur]] Conan Doyle.
 I do not say that this test of external extravagance ought
 to be final, or that no defence of such details could be made.
-But when Sir [[arthur|Arthur]] deliberately gibes at our ceremonies, we may
+But when Sir [[Arthur]] deliberately gibes at our ceremonies, we may
 at least be allowed to smile at his.  Suppose any Catholic rite
 before the altar consisted of binding a human being hand and foot
 with ropes; should we ever hear the last of the horrible [[Survival|survival]]

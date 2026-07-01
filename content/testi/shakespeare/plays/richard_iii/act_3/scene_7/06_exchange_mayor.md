@@ -1,5 +1,5 @@
 ---
-title: "[[Richard III]] — Act III, Scene 7 — exchange (MAYOR) [6]"
+title: "Richard III — Act III, Scene 7 — exchange (MAYOR) [6]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/richard-iii-(shakespeare)"

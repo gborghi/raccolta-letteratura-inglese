@@ -14,6 +14,26 @@ tags:
 </nav>
 
 
+Mr. Thomas Cobb's little book, The Bountiful Lady;
+or, How Mary was Changed from a Very Miserable Little Girl
+to a Very Happy One (Grant Richards) is amusing in its way
+and the [[morality]] is not obscenely prominent.  Still, we are
+a little tired of the enormous number of books directed
+by grown people against sulky and unhappy children.
+Considering that two-thirds of the children of the world
+are courageously happy in the filthiest slums and corners
+and that quite one-third of the grown-up people are offensively
+discontented in first-class hotels, the claim of the adult to
+preach contentment to infancy appears to us a piece of indecent
+hypocritical impudence.  Mr. Cobb, however, can put in the sound
+dramatic claim that he is only describing an individual,
+and the little fairy-tale of the boy who never liked anything
+when he got it is both humorous and profitable, if we remember
+always that it is vastly more applicable to men than to boys.
+If the adults are useful in their way (as we may generously admit)
+in order to teach children to work, children are quite as much
+specialists in teaching the adult to play.
+
 Mr. John Ingold has a very genuine poetic instinct and one that
 should fit him to write fairy-tales (perhaps the highest form
 of art), but he has not quite sufficiently realised the [[Nature|nature]]
@@ -71,7 +91,6 @@ for certainly if it had been true no fair lady would ever have
 been won in this world.
 
 G.K.C.
-
 
 "Puritan and Anglican"
 

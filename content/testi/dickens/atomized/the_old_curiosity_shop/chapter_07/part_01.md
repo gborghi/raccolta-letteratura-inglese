@@ -134,10 +134,3 @@ thought--very friendly and natural. Did it strike you in that way?’
 
 ‘It didn’t strike him,’ returned the other, ‘so we needn’t discuss it.
 Now look here. Nell is nearly fourteen.’
-
-‘Fine girl of her age, but small,’ observed [[Richard]] Swiveller
-parenthetically.
-
-‘If I am to go on, be quiet for one minute,’ returned Trent, fretting
-at the slight interest the other appeared to take in the conversation.
-‘Now I’m coming to the point.’

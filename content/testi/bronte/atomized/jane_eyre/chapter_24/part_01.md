@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 24 (part 1)"
+title: "Jane Eyre — Chapter 24 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/works/jane-eyre-(bronte)">Jane Eyre</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_23/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_24/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_23/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_24/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -142,5 +142,3 @@ to French vineyards and Italian plains; and she shall see whatever is
 famous in old story and in modern record: she shall taste, too, of the
 life of cities; and she shall learn to value herself by just comparison
 with others.”
-
-“Shall I travel?—and with you, sir?”

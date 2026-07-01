@@ -14,109 +14,132 @@ tags:
 </nav>
 
 
-That insane image of the Kentish church standing on the point
-of its spire, as in some old rustic, topsy-turvy tale, always comes
-back into my [[Imagination|imagination]] when I hear these things said about
-pagan origins; and calls to my aid the laughter of the giants.
-Then I feel as genially and charitably to all other scientific
-investigators, higher critics, and authorities on ancient
-and modern religion, as I do to poor Louis de Rougemont.
-But the [[Memory|memory]] of that immense absurdity remains as a sort of
-measure and check by which to keep sane, not only on the subject
-of Christian churches, but also on the subject of heathen temples.
-Now a great many people have talked about heathen origins
-as the distinguished traveller talked about Christian origins.
-Indeed a great many modern heathens have been very hard on heathenism.
-A great many modern humanitarians have been very hard on the real
-religion of humanity.  They have represented it as being everywhere
-and from the first rooted only in these repulsive arcana;
-and carrying the character of something utterly shameless
-and anarchical.  Now I do not believe this for a moment.
-I should never dream of thinking about the whole worship of [[Apollo]]
-what De Rougemont could think about the worship of [[Christ]].
-I would never admit that there was such an atmosphere in a Greek
-[[City|city]] as that madman was able to smell in a Kentish village.
-On the contrary, it is the whole point, even of this final chapter
-upon the final [[Decay|decay]] of paganism, to insist once more that the worst
-sort of paganism had already been defeated by the best sort.
-It was the best sort of paganism that conquered the gold of Carthage.
-It was the best sort of paganism that wore the laurels of Rome.
-It was the best thing the world had yet seen, all things considered
-and on any large scale, that ruled from the wall of the Grampians
-to the [[Garden|garden]] of the Euphrates.  It was the best that conquered;
-it was the best that ruled; and it was the best that began to [[Decay|decay]].
+In the whole world one thing still threatened Carthage, and that
+was Carthage.  There still remained the inner working of an element
+strong in all successful commercial states, and the presence of a
+spirit that we know.  There was still the solid sense and shrewdness
+of the men who manage big enterprises; there was still the advice
+of the best financial experts; there was still business [[government]];
+there was still the broad and sane outlook of practical men
+of affairs, and in these things could the Romans [[Hope|hope]].
+As the war trailed on to what seemed its tragic end, there grew
+gradually a faint and strange possibility that even now they
+might not [[Hope|hope]] in vain.  The plain business men of Carthage,
+thinking as such men do in terms of living and dying races,
+saw clearly that Rome was not only dying but dead.  The war was over;
+it was obviously hopeless for the Italian [[City|city]] to resist any longer,
+and inconceivable that anybody should resist when it was hopeless.
+Under these circumstances, another set of broad, sound business
+principles remained to be considered.  Wars were waged with money,
+and consequently cost money; perhaps they felt in their hearts,
+as do so many of their kind, that after all war must be a little
+wicked because it costs money.  The [[Time|time]] had now come for peace;
+and still more for economy.  The messages sent by Hannibal from [[Time|time]]
+to [[Time|time]] asking for reinforcements were a ridiculous anachronism;
+there were much more important things to attend to now.
+It might be true that some consul or other had made a last dash
+to the Metaurus, had killed Hannibal's brother and flung his head,
+with Latin fury, into Hannibal's camp; and mad actions of that sort
+showed how utterly hopeless the Latins felt about their cause.
+But even excitable Latins could not be so mad as to cling
+to a lost cause for ever.  So argued the best financial experts;
+and tossed aside more and more letters, full of rather queer
+alarmist reports.  So argued and acted the great Carthaginian Empire.
+That meaningless prejudice, the curse of commercial states, that stupidity
+is in some way practical and that genius is in some way futile,
+led them to starve and abandon that great [[Artist|artist]] in the school of arms,
+whom the gods had given them in vain.
 
-Unless this broad [[Truth|truth]] be grasped, the whole story is seen askew.
-Pessimism is not in being tired of evil but in being tired of good.
-[[Despair]] does not lie in being weary of [[Suffering|suffering]], but in being weary
-of joy.  It is when for some reason or other the good things in a society
-no longer work that the society begins to decline; when its food does
-not feed, when its cures do not cure, when its blessings refuse to bless.
-We might almost say that in a society without such good things
-we should hardly have any test by which to register a decline;
-that is why some of the static commercial oligarchies like Carthage
-have rather an air in [[history]] of standing and staring like mummies,
-so dried up and swathed and embalmed that no man knows when they
-are new or old.  But Carthage at any rate was dead, and the worst
-assault ever made by the demons on mortal society had been defeated.
-But how much would it matter that the worst was dead if the
-best was dying?
+Why do men entertain this queer idea that what is sordid must always
+overthrow what is magnanimous; that there is some dim connection
+between brains and brutality, or that it does not matter if a man
+is dull so long as he is also mean?  Why do they vaguely think
+of all chivalry as sentiment and all sentiment as weakness?
+They do it because they are, like all men, primarily inspired
+by religion.  For them, as for all men, the first fact is their
+notion of the [[Nature|nature]] of things; their idea about what world they
+are living in.  And it is their [[Faith|faith]] that the only ultimate thing
+is [[Fear|fear]] and therefore that the very heart of the world is evil.
+They believe that [[Death|death]] is stronger than life, and therefore dead
+things must be stronger than living things; whether those dead
+things are gold and iron and machinery or rocks and rivers
+and forces of [[Nature|nature]].  It may sound fanciful to say that men we
+meet at tea-tables or talk to at [[Garden|garden]]-parties are secretly
+worshippers of Baal or Moloch.  But this sort of commercial mind
+has its own cosmic vision and it is the vision of Carthage.
+It has in it the brutal blunder that was the ruin of Carthage.
+The Punic power fell because there is in this materialism a mad
+indifference to real thought.  By disbelieving in the [[Soul|soul]], it comes
+to disbelieving in the mind.  Being too practical to be moral,
+it denies what every practical soldier calls the moral of an army.
+It fancies that money will fight when men will no longer fight.
+So it was with the Punic merchant princes.  Their religion was a
+religion of [[Despair|despair]], even when their practical fortunes were hopeful.
+How could they understand that the Romans could [[Hope|hope]] even when their
+fortunes were hopeless?  Their religion was a religion of force
+and [[Fear|fear]]; how could they understand that men can still despise [[Fear|fear]]
+even when they submit to force?  Their [[philosophy]] of the world had
+weariness in its very heart; above all they were weary of warfare;
+how should they understand those who still wage war even when they
+are weary of it?  In a word, how should they understand the mind
+of Man, who had so long bowed down before mindless things,
+money and brute force and gods who had the hearts of beasts?
+They awoke suddenly to the news that the embers they had disdained
+too much even to tread out were again breaking everywhere into flames;
+that Hasdrubal was defeated, that Hannibal was outnumbered, that Scipio
+had carried the war into Spain; that he had carried it into Africa.
+Before the very gates of the golden [[City|city]] Hannibal fought his last
+fight for it and lost; and Carthage fell as nothing has fallen
+since [[Satan]].  The name of the New [[City]] remains only as a name.
+There is no stone of it left upon the sand.  Another war was indeed
+waged before the final destruction:  but the destruction was final.
+Only men digging in its deep foundation centuries after found a heap
+of hundreds of little skeletons, the holy relics of that religion.
+For Carthage fell because she was faithful to her own [[philosophy]] and had
+followed out to its logical conclusion her own vision of the universe.
+Moloch had eaten his children.
 
-To begin with, it must be noted that the relation of Rome
-to Carthage was partially repeated and extended in her relation
-to nations more normal and more nearly akin to her than Carthage.
-I am not here concerned to controvert the merely political view that Roman
-statesmen acted unscrupulously towards Corinth or the Greek cities.
-But I am concerned to contradict the notion that there was nothing
-but a hypocritical excuse in the ordinary Roman dislike of Greek cities.
-I am not presenting these pagans as paladins of chivalry, with a
-sentiment about nationalism never known until Christian times.
-But I am presenting them as men with the feelings of men;
-and those feelings were not a pretence.  The [[Truth|truth]] is that one
-of the weaknesses in [[Nature|nature]]-worship and mere mythology had already
-produced a perversion among the Greeks due to the worst sophistry;
-the sophistry of simplicity.  Just as they became unnatural by
-worshipping [[Nature|nature]], so they actually became unmanly by worshipping man.
-If Greece led her conqueror, she might have misled her conqueror;
-but these were things he did originally wish to conquer--
-ever in himself.  It is true that in one sense there was less
-inhumanity even in Sodom and Gomorrah than in Tyre and Sidon.
-When we consider the war of the demons on the children, we cannot
-compare even Greek decadence to Punic devil-worship. But it is not true
-that the sincere revulsion from either need be merely pharisaical.
-It is not true to human [[Nature|nature]] or to common sense.  Let any lad
-who has had the luck to grow up sane and simple in his day-[[Dreams|dreams]]
-of [[Love|love]] hear for the first [[Time|time]] of the cult of Ganymede; he will
-not be merely shocked but sickened.  And that first impression,
-as has been said here so often about first impressions, will be right.
-Our cynical indifference is an illusion; it is the greatest of
-all illusions; the illusion of familiarity.  It is right to conceive
-the more or less rustic virtues of the ruck of the original Romans
-as reacting against the very rumour of it, with complete spontaneity
-and sincerity.  It is right to regard them as reacting, if in a
-lesser degree, exactly as they did against the cruelty of Carthage.
-Because it was in a less degree they did not destroy Corinth
-as they destroyed Carthage.  But if their attitude and action
-was rather destructive, in neither case need their indignation
-have been mere [[Self|self]]-righteousness covering mere selfishness.
-And if anybody insists that nothing could have operated in either
-case but reasons of state and commercial conspiracies, we can
-only tell him that there is something which he does not understand;
-something which possibly he will never understand; something which,
-until he does understand, he will never understand the Latins.
-That something is called [[democracy]].  He has probably heard the word
-a good many times and even used it himself; but he has no notion
-of what it means.  All through the revolutionary [[history]] of Rome there
-was an incessant drive towards [[democracy]]; the state and the statesman
-could do nothing without a considerable backing of [[democracy]];
-the sort of [[democracy]] that never has anything to do with diplomacy.
-It is precisely because of the presence of Roman [[democracy]] that we
-hear so much about Roman oligarchy.  For instance, recent historians
-have tried to explain the valour and victory of Rome in terms
-of that detestable and detested usury which was practised by some of
-the Patricians; as if Curius had conquered the men of the Macedonian
-phalanx by lending them money; or the consul Nero had negotiated
-the victory of Metaurus at five per cent.  But we realise the usury
-of the Patricians because of the perpetual revolt of the Plebeians.
-The rule of the Punic merchant princes had the very [[Soul|soul]] of usury.
-But there was never a Punic mob that dared to call them usurers.
+The gods had risen again, and the demons had been defeated after all.
+But they had been defeated by the defeated, and almost defeated
+by the dead.  Nobody understands the [[Romance|romance]] of Rome, and why
+she [[Rose|rose]] afterwards to a representative leadership that seemed
+almost fated and fundamentally natural.  Who does not keep in mind
+the agony of horror and humiliation through which she had continued
+to testify to the [[Sanity|sanity]] that is the [[Soul|soul]] of Europe?  She came
+to stand [[Alone|alone]] in the midst of an empire because she had once stood
+[[Alone|alone]] in the midst of a ruin and a waste.  After that all men
+knew in their hearts that she had been representative of mankind,
+even when she was rejected of men.  And there fell on her the [[Shadow|shadow]]
+from a shining and as yet invisible light and the burden of things to be.
+It is not for us to guess in what manner or moment the [[Mercy|mercy]]
+of God might in any case have rescued the world; but it is certain
+that the struggle which established Christendom would have been
+very different if there had been an empire of Carthage instead
+of an empire of Rome.  We have to thank the patience of the Punic
+wars if, in after ages, divine things descended at least upon
+human things and not inhuman.  Europe evolved into its own vices
+and its own impotence, as will be suggested on another page;
+but the worst into which it evolved was not like what it had escaped.
+Can any man in his senses compare the great wooden doll,
+whom the children expected to eat a little bit of the dinner,
+with the great idol who would have been expected to eat the children?
+That is the measure of how far the world went astray, compared with
+how far it might have gone astray.  If the Romans were ruthless,
+it was in a true sense to an enemy, and certainly not merely a rival.
+They remembered not trade routes and regulations, but the faces
+of sneering men; and hated the hateful [[Soul|soul]] of Carthage.  And we owe
+them something if we never needed to cut down the groves of [[Venus]]
+exactly as men cut down the groves of Baal.  We owe it partly to their
+harshness that our thoughts of our human past are not wholly harsh.
+If the passage from heathenry to [[Christianity]] was a bridge as [[Well|well]]
+as a breach, we owe it to those who kept that heathenry human.
+If, after all these ages, we are in some sense at peace with paganism,
+and can think more kindly of our fathers, it is [[Well|well]] to remember
+the things that were and the things that might have been.
+For this reason [[Alone|alone]] we can take lightly the load of antiquity and need
+not shudder at a nymph on a fountain or a cupid on [[A Valentine|a valentine]].
+Laughter and sadness link us with things long past away and
+remembered without dishonour; and we can see not altogether without
+tenderness the twilight sinking around the Sabine farm and hear
+the household gods rejoice when Catullus comes [[Home|home]] to Sirmio.
+Deleta est Carthago.

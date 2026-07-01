@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 33 (part 4)"
+title: "Jane Eyre — Chapter 33 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_33/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_34/part_01">part 01 ›</a></div>
 </nav>
 
+
+St. John smiled. “Did I not say you neglected essential points to
+pursue trifles?” he asked. “You were serious when I told you you had
+got a fortune; and now, for a matter of no moment, you are excited.”
+
+“What _can_ you mean? It may be of no moment to you; you have sisters
+and don’t care for a cousin; but I had nobody; and now three
+relations,—or two, if you don’t choose to be counted,—are born into my
+world full-grown. I say again, I am glad!”
 
 I walked fast through the room: I stopped, half suffocated with the
 thoughts that [[Rose|rose]] faster than I could receive, comprehend, settle

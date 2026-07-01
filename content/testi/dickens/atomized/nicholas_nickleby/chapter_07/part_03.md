@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 7 (part 3)"
+title: "Nicholas Nickleby — Chapter 7 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,23 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_07/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_08/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘No, no; not for them,’ rejoined Mrs. Squeers; ‘on purpose for you
+against you came [[Home|home]]. Lor! you didn’t think I could have made such a
+mistake as that.’
+
+‘Upon my word, my dear, I didn’t know what you were going to say,’ said
+Squeers, who had turned pale.
+
+‘You needn’t make yourself uncomfortable,’ remarked his wife, laughing
+heartily. ‘To think that I should be such a noddy! [[Well]]!’
+
+This part of the conversation was rather unintelligible; but popular
+rumour in the neighbourhood asserted that Mr. Squeers, being amiably
+opposed to cruelty to [[Animals|animals]], not unfrequently purchased for boy
+consumption the bodies of horned cattle who had died a natural [[Death|death]];
+possibly he was apprehensive of having unintentionally devoured some
+choice morsel intended for the young gentlemen.
 
 Supper being over, and removed by a small servant girl with a hungry
 eye, Mrs. Squeers retired to lock it up, and also to take into safe

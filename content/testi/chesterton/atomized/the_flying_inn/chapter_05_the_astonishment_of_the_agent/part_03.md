@@ -14,6 +14,11 @@ tags:
 </nav>
 
 
+No one acquainted with the quaint and often wordless camaraderie of the English poor will require to be told that they all went out and stared at him as he loaded the cart and saw to the harness of the [[donkey]] –all except the old cottager, who sat as if hypnotised by the sight of the money. While they were standing there they saw coming down the white, hot [[Road|road]], where it curled over the [[Hill|hill]], a figure that gave them no pleasure, even when it was a mere marching black spot in the distance. It was a Mr. Bullrose, the agent of Lord Ivywood’s estates.
+
+
+
+
 Mr. Bullrose was a short, square man with a broad, square head with ridges of close, black curls on it, with a heavy, froglike face and starting, suspicious eyes; a man with a good silk hat but a square business jacket. Mr. Bullrose was not a nice man. The agent on that sort of estate hardly ever is a nice man. The landlord often is; and even Lord Ivywood had an arctic magnanimity of his own, which made most people want, if possible, to see him personally. But Mr. Bullrose was petty. Every really practical [[Tyrant|tyrant]] must be petty.
 
 

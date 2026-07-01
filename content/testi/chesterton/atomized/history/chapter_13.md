@@ -1,5 +1,5 @@
 ---
-title: "[[history]] — Chapter 13"
+title: "history — Chapter 13"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/history-(chesterton)"
@@ -162,7 +162,7 @@ the Regicide was not afraid to point.  They were certainly public,
 they may have been public-spirited, they were never popular;
 and it seems never to have crossed their minds that there
 was any need to be popular.  England was never so little of a
-[[Democracy|democracy]] as during the short [[Time|time]] when she was a republic.
+[[democracy]] as during the short [[Time|time]] when she was a republic.
 
 The struggle with the Stuarts, which is the next passage
 in our [[history]], arose from an alliance, which some may think
@@ -244,7 +244,7 @@ being democratic.  These two truths cover two parts of the problem
 of the Stuart fall, which are of very different certainty,
 and should be considered separately.
 
-For the first point about [[Democracy|democracy]], no candid person, in face of
+For the first point about [[democracy]], no candid person, in face of
 the facts, can really consider it at all.  It is quite possible to hold
 that the seventeenth-century Parliament was fighting for the [[Truth|truth]];
 it is not possible to hold that it was fighting for the populace.
@@ -292,7 +292,7 @@ The ordering of men's normal lives was with the squire;
 but he was, if anything, more limited where he was the magistrate.
 He was stronger as master of the village, but actually weaker
 as agent of the [[King]].  In defending this state of things,
-in short, the Whigs were certainly not defending [[Democracy|democracy]],
+in short, the Whigs were certainly not defending [[democracy]],
 but they were in a real sense defending liberty.
 They were even defending some remains of mediaeval liberty,
 though not the best; the jury though not the guild.

@@ -1,5 +1,5 @@
 ---
-title: "[[The Mystery of Marie Roget]] (part 15)"
+title: "The Mystery of Marie Roget (part 15)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-mystery-of-marie-roget-(poe)"
@@ -13,6 +13,86 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_mystery_of_marie_roget/part/part_14">‹ part 14</a><a class="ex-next" href="/testi/poe/atomized/the_mystery_of_marie_roget/part/part_16">part 16 ›</a></div>
 </nav>
 
+
+      have foreseen the chagrin of St. Eustache, the suspicion of all.
+
+      She could not have thought of returning to brave this suspicion;
+
+      but the suspicion becomes a point of trivial importance to her,
+
+      if we suppose her not intending to return.
+
+
+
+      “We may imagine her thinking thus—‘I am to meet a certain person
+
+      for the purpose of elopement, or for certain other purposes known
+
+      only to myself. It is necessary that there be no chance of
+
+      interruption—there must be sufficient [[Time|time]] given us to elude
+
+      pursuit—I will give it to be understood that I shall visit and
+
+      spend the day with my aunt at the Rue des Drômes—I will tell St.
+
+      Eustache not to call for me until dark—in this way, my absence
+
+      from [[Home|home]] for the longest possible period, without causing
+
+      suspicion or anxiety, will be accounted for, and I shall gain
+
+      more [[Time|time]] than in any other manner. If I bid St. Eustache call
+
+      for me at dark, he will be sure not to call before; but, if I
+
+      wholly neglect to bid him call, my [[Time|time]] for escape will be
+
+      diminished, since it will be expected that I return the earlier,
+
+      and my absence will the sooner excite anxiety. Now, if it were my
+
+      design to return at all—if I had in contemplation merely a stroll
+
+      with the individual in question—it would not be my policy to bid
+
+      St. Eustache call; for, calling, he will be sure to ascertain
+
+      that I have played him false—a fact of which I might keep him for
+
+      ever in ignorance, by leaving [[Home|home]] without notifying him of my
+
+      intention, by returning before dark, and by then stating that I
+
+      had been to visit my aunt in the Rue des Drômes. But, as it is my
+
+      design never to return—or not for some weeks—or not until certain
+
+      concealments are effected—the gaining of [[Time|time]] is the only point
+
+      about which I need give myself any concern.’
+
+
+
+      “You have observed, in your notes, that the most general opinion
+
+      in relation to this sad affair is, and was from the first, that
+
+      the girl had been the victim of a gang of blackguards. Now, the
+
+      popular opinion, under certain conditions, is not to be
+
+      disregarded. When arising of itself—when manifesting itself in a
+
+      strictly spontaneous manner—we should look upon it as analogous
+
+      with that _intuition_ which is the idiosyncrasy of the individual
+
+      man of genius. In ninety-nine cases from the hundred I would
+
+      abide by its decision. But it is important that we find no
+
+      palpable traces of _suggestion_. The opinion must be rigorously
 
       _the public’s own_; and the distinction is often exceedingly
 
@@ -113,85 +193,3 @@ tags:
       That it was the scene, I may or I may not believe—but there was
 
       excellent reason for [[Doubt|doubt]]. Had the true scene been, as Le
-
-      Commerciel suggested, in the neighborhood of the Rue Pavée St.
-
-      Andrée, the perpetrators of the crime, supposing them still
-
-      resident in [[Paris]], would naturally have been stricken with terror
-
-      at the public attention thus acutely directed into the proper
-
-      channel; and, in certain classes of minds, there would have
-
-      arisen, at once, a sense of the necessity of some exertion to
-
-      redivert this attention. And thus, the thicket of the Barrière du
-
-      Roule having been already suspected, the idea of placing the
-
-      articles where they were found, might have been naturally
-
-      entertained. There is no real evidence, although Le Soleil so
-
-      supposes, that the articles discovered had been more than a very
-
-      few days in the thicket; while there is much circumstantial proof
-
-      that they could not have remained there, without attracting
-
-      attention, during the twenty days elapsing between the fatal
-
-      [[Sunday]] and the afternoon upon which they were found by the boys.
-
-      ‘They were all _mildewed_ down hard,’ says Le Soleil, adopting
-
-      the opinions of its predecessors, ‘with the action of the rain,
-
-      and stuck together from _mildew_. The grass had grown around and
-
-      over some of them. The silk of the parasol was strong, but the
-
-      threads of it were run together within. The upper part, where it
-
-      had been doubled and folded, was all _mildewed_ and rotten, and
-
-      tore on being opened.’ In respect to the grass having ‘grown
-
-      around and over some of them,’ it is obvious that the fact could
-
-      only have been ascertained from the words, and thus from the
-
-      recollections, of two small boys; for these boys removed the
-
-      articles and took them [[Home|home]] before they had been seen by a third
-
-      party. But grass will grow, especially in warm and damp weather,
-
-      (such as was that of the period of the murder,) as much as two or
-
-      three inches in a single day. A parasol lying upon a newly turfed
-
-      ground, might, in a single week, be entirely concealed from sight
-
-      by the upspringing grass. And touching that mildew upon which the
-
-      editor of Le Soleil so pertinaciously insists, that he employs
-
-      the word no less than three times in the brief paragraph just
-
-      quoted, is he really unaware of the [[Nature|nature]] of this mildew? Is he
-
-      to be told that it is one of the many classes of fungus, of which
-
-      the most ordinary feature is its upspringing and decadence within
-
-      twenty-four hours?
-
-
-
-      “Thus we see, at a glance, that what has been most triumphantly
-
-      adduced in support of the idea that the articles had been ‘for at
-
-      least three or four weeks’ in the thicket, is most absurdly null

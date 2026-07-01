@@ -121,12 +121,3 @@ other, he was good for that [[Time|time]] at least.
 In his desperation and restlessness Kit cast his eyes about the chapel,
 and happening to let them fall upon a little seat in front of the
 clerk’s desk, could scarcely believe them when they showed him--Quilp!
-
-He rubbed them twice or thrice, but still they insisted that Quilp was
-there, and there indeed he was, sitting with his hands upon his knees,
-and his hat between them on a little wooden bracket, with the
-accustomed grin on his dirty face, and his eyes fixed upon the ceiling.
-He certainly did not glance at Kit or at his mother, and appeared
-utterly unconscious of their presence; still Kit could not help
-feeling, directly, that the attention of the sly little fiend was
-fastened upon them, and upon nothing else.

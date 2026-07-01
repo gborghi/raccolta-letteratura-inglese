@@ -1,5 +1,5 @@
 ---
-title: "The Merchant of [[Venice]] — Act V, Scene 1 — monologue (THE) [7]"
+title: "The Merchant of Venice — Act V, Scene 1 — monologue (THE) [7]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-merchant-of-venice-(shakespeare)"

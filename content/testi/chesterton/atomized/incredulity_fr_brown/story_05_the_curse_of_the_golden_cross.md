@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The Curse of the Golden [[Cross]]"
+title: "incredulity Fr Brown — The Curse of the Golden Cross"
 author: "Chesterton"
 unitType: story
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -24,7 +24,7 @@ Laputa. For the little table was one of many little tables dotted about
 in the dining saloon of that monstrous [[Ship|ship]] the Moravia, speeding
 through the [[Night|night]] and the everlasting emptiness of the Atlantic. The
 little company had nothing in common except that all were travelling
-from [[america|America]] to England. Two of them at least might be called
+from [[America]] to England. Two of them at least might be called
 celebrities; others might be called obscure, and in one or two cases
 even dubious.
 

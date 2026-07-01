@@ -1,5 +1,5 @@
 ---
-title: "[[Emma]] — Chapter 8 (part 3)"
+title: "Emma — Chapter 8 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/emma-(austen)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/emma/chapter_08/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/emma/chapter_08/part_04">part 04 ›</a></div>
 </nav>
 
+
+It was most convenient to [[Emma]] not to make a direct reply to this
+assertion; she chose rather to take up her own line of the subject
+again.
 
 “You are a very warm friend to Mr. Martin; but, as I said before, are
 unjust to Harriet. Harriet’s claims to marry [[Well|well]] are not so
@@ -109,17 +113,3 @@ to yourself; but as you make no secret of your [[Love|love]] of match-making, it
 is fair to suppose that views, and plans, and projects you have;—and as
 a friend I shall just hint to you that if Elton is the man, I think it
 will be all labour in vain.”
-
-[[Emma]] laughed and disclaimed. He continued,
-
-“Depend upon it, Elton will not do. Elton is a very good sort of man,
-and a very respectable vicar of Highbury, but not at all likely to make
-an imprudent match. He knows the value of a good income as [[Well|well]] as any
-[[Body|body]]. Elton may talk sentimentally, but he will act rationally. He is
-as [[Well|well]] acquainted with his own claims, as you can be with Harriet’s.
-He knows that he is a very handsome young man, and a great favourite
-wherever he goes; and from his general way of talking in unreserved
-moments, when there are only men present, I am convinced that he does
-not mean to throw himself away. I have heard him speak with great
-animation of a large family of young ladies that his sisters are
-intimate with, who have all twenty thousand pounds apiece.”

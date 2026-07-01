@@ -14,114 +14,123 @@ tags:
 </nav>
 
 
-Anyhow, that is the real and remarkable story of Sergeant Sheridan,
-and I put it first because it is the most practical test
-of the practical question of whether Ireland is misgoverned.
-It is strictly a fair test; for it is a test by the minimum and
-an argument _a fortiori._ A British official in Ireland can run
-a career of crime, punishing [[Innocent|innocent]] people for his own felonies;
-and when he is found out, he is found to be above the law.
-This may seem like putting things at the worst, but it is really
-putting them at the best.  This story was not told us on the word
-of a wild Irish Fenian, or even a responsible Irish Nationalist.
-It was told, word for word as I have told it, by the Unionist Minister
-in charge of the matter and reporting it, with regret and shame,
-to Parliament.  He was not one of the worst Irish Secretaries,
-who might be responsible for the worst _regime;_ on the contrary,
-he was by far the best.  If even he could only partially restrain
-or reveal such things, there can be no deduction in common
-sense except that in the ordinary way such things go on gaily
-in the dark, with nobody to reveal and nobody to restrain them.
-It was not something done in those dark days of torture
-and terrorism, which happened in Ireland a hundred years ago;
-and which Englishmen talk of as having happened a million years ago.
-It was something that happened quite recently, in my own
-mature manhood, about the [[Time|time]] that the better things like
-the Land Acts were already before the world.  I remember writing
-to the _Westminster Gazette_ to emphasise it when it occurred; but it
-seems to have passed out of [[Memory|memory]] in an almost half-witted fashion.
-But that peephole into hell has afforded me, ever since a horrible
-amusement, when I hear the Irish softly rebuked for remembering
-old unhappy, far-off things and wrongs done in the Dark Ages.
-Thus I was especially amused to find the Rev. R. J. Campbell saying
-that "Ireland has been petted and coddled more than any other part
-of the British Isles"; because Mr. Campbell was chiefly famous
-for a comfortable creed himself, for saying that evil is only "a
-[[Shadow|shadow]] where light should be"; and there is no [[Doubt|doubt]] here of his
-throwing a very black [[Shadow|shadow]] where light is very much required.
-I will conceive the policeman at the corner of the street in which
-Mr. Campbell resides, as in the habit of killing a crossing-sweeper
-every now and then for his private entertainment, burgling the houses
-of Mr. Campbell's neighbours, cutting off the tails of their
-carriage horses, and otherwise disporting himself by moonlight a fairy.
-It is his custom to visit the consequences of each of these crimes upon
-the Rev. R. J. Campbell, whom he arrests at intervals, successfully
-convicts by perjury, and proceeds to coddle in penal servitude.
-But I have another reason for mentioning Mr. Campbell, a gentleman whom
-I heartily respect in many other aspects; and the reason is connected
-with his name, as it occurs in another connection on another page.
-It shows how in anything, but especially in anything coming from Ireland,
-the old facts of family and [[Faith|faith]] outweigh a million modern philosophies.
-The words in _Who's Who?_--"Ulster Protestant of Scottish ancestry"--
-give the really Irish and the really honourable reason for
-Mr. Campbell's extraordinary remark.  A man may preach for years,
-with radiant universalism, that many waters cannot quench [[Love|love]];
-but Boyne [[Water]] can.  Mr. Campbell appears very promptly with what
-Kettle called "a bucketful of Boyne, to put the sunrise out."
-I will not take the opportunity of saying, like the Ulsterman,
-that there never was treason yet but a Campbell was at the [[Bottom|bottom]] of it.
-But I will say that there never was Modernism yet, but a Calvinist
-was at the [[Bottom|bottom]] of it.  The Old Theology is much livelier than
-the New Theology.
+But I am here taking from the Spiritualistic articles a text
+that has nothing to do with Spiritualism.  In a recent contribution
+to _Nash's Magazine,_ Sir [[arthur|Arthur]] Conan Doyle remarks very truly
+that the modern world is weary and wicked and in need of a religion;
+and he gives examples of its more typical and terrible corruptions.
+It is perhaps natural that he should revert to the case of the Congo,
+and talk of it in the torrid fashion which recalls the days
+when Morel and Casement had some credit in English politics.
+We have since had an opportunity of judging the real attitude
+of a man like Morel in the plainest case of black and white
+injustice that the world has ever seen.  It was at once a replica
+and a reversal of the position expressed in the Pious Editor's Creed;
+and might roughly be rendered in similar language.
 
-Many other such true tales could be told; but what we need here is a sort
-of test.  This tale is a test; because it is the best that could be said,
-about the best that could be done, by the best Englishman ruling Ireland,
-in face of the English system established there; and it is the best,
-or at any rate the most, that we can know about that system.
-Another [[Truth|truth]] which might also serve as a test, is this:
-to note among the responsible English not only their testimony
-against each other, but their testimony against themselves.
-I mean the consideration of how very rapidly we realise that our
-own conduct in Ireland has been infamous, not in the remote past,
-but in the very recent past.  I have lived just long enough to see
-the [[Wheel|wheel]] come full circle inside one generation; when I was a schoolboy,
-the sort of Kensington middle class, to which I belong, was nearly
-solidly resisting, not only the first [[Home]] Rule Bill, but any suggestion
-that the Land League had a leg to stand on, or that the landlords
-need do anything but get their rents or kick out their tenants.
-The whole Unionist Press, which was three-quarters of the Press,
-simply supported Clanricarde, and charged any one who did not
-do so with supporting the Clan-na-Gael. Mr. Balfour was simply
-admired for enforcing the system, which it is his real apologia
-to have tried to end, or at least to have allowed Wyndham to end.
-I am not yet far gone in senile [[Decay|decay]]; but already I have lived
-to hear my countrymen talk about their own blind policy in the [[Time|time]]
-of the Land League, exactly as they talked before of their blind
-policy in the [[Time|time]] of the Limerick Treaty.  The [[Shadow|shadow]] on our past
-shifts forward as we advance into the future; and always seems to end
-just behind us.  I was told in my youth that the age-long misgovernment
-of Ireland lasted down to about 1870; it is now agreed among all
-intelligent people that it lasted at least down to about 1890.
-A little common sense, after a hint like the Sheridan Case, will lead
-one to suspect the simple explanation that it is going on still.
+  "I do believe in [[Freedom]]'s cause
+   Ez fur away ez tropics are;
+   But Belgians caught in Prussia's claws
+   To me less tempting topics are.
+   It's wal agin a foreign [[King|king]]
+   To rouse the chapel's rigours;
+   But Liberty's a kind of thing
+   We only owe to niggers."
 
-Now I heard scores of such stories as the Sheridan story in Ireland,
-many of which I mention elsewhere; but I do not mention them here because
-they cannot be publicly tested; and that for a very simple reason.
-We must accept all the advantages and disadvantages of a rule
-of absolute and iron militarism.  We cannot impose [[Silence|silence]]
-and then sift stories; we cannot forbid argument and then ask
-for proof; we cannot destroy rights and then discover wrongs.
-I say this quite impartially in the matter of militarism itself.
-I am far from certain that soldiers are worse rulers than
-lawyers and merchants; and I am quite certain that a nation has
-a right to give abnormal power to its soldiers in [[Time|time]] of war.
-I only say that a soldier, if he is a sensible soldier,
-will know what he is doing and therefore what he cannot do;
-that he cannot gag a man and then [[Cross|cross]]-examine him, any more than
-he can blow out his brains and then convince his intelligence.
-There may be--humanly speaking, there must be--a mass of injustices
-in the militaristic [[government]] of Ireland.  The militarism itself
-may be the least of them; but it must involve the concealment
-of all the rest.
+He had of course a lurid denunciation of the late [[King]] Leopold,
+of which I will only say that, uttered by a Belgian about
+the Belgian [[King|king]] in his own land and lifetime, it would be
+highly courageous and largely correct; but that the parallel
+test is how much [[Truth|truth]] was told by British journalists about
+British Kings in their own land and lifetime; and that until we
+can pass that test, such denunciations do us very little good.
+But what interests me in the matter at the moment is this.
+Sir [[arthur|Arthur]] feels it right to say something about British corruptions,
+and passes from the Congo to Putumayo, touching a little more lightly;
+for even the most honest Britons have an unconscious trick
+of touching more lightly on the case of British capitalists.
+He says that our capitalists were not guilty of direct cruelty,
+but of an attitude careless and even callous.  But what strikes me
+is that Sir [[arthur|Arthur]], with his taste for such protests and inquiries,
+need not have wandered quite so far from his own [[Home|home]] as the forests
+of South [[America]].
+
+Sir [[arthur|Arthur]] Conan Doyle is an Irishman; and in his own country, within my
+own [[Memory|memory]] there occurred a staggering and almost incredible crime,
+or series of crimes, which were worthier than anything in the world of
+the attention of Sherlock Holmes in fiction, or Conan Doyle in reality.
+It always will be a tribute to the author of _Sherlock Holmes_
+that he did, about the same [[Time|time]], do such good work in reality.
+He made an admirable plea for Adolf Beck and Oscar Slater;
+he was also connected, I remember, with the reversal of a miscarriage
+of justice in a case of cattle-mutilation. And all this, while altogether
+to his credit, makes it seem all the more strange that his talents
+could not be used for, and in, his own [[Home|home]] and native country,
+in a mystery that had the dimensions of a monstrosity, and which
+did involve, if I remember right, a question of cattle-maiming. Anyhow,
+it was concerned with moonlighters and the charges made against them,
+such as the common one of cutting off the tails of cows.
+I can imagine Sherlock Holmes on such a [[Quest|quest]], keen-eyed and relentless,
+finding the cloven hoof of some sinister and suspected cow.
+I can imagine Dr. Watson, like the cow's tail, always behind.
+I can imagine Sherlock Holmes remarking, in a light allusive fashion,
+that he himself had written a little monograph on the subject
+of cows' tails; with diagrams and tables solving the great
+traditional problem of how many cows' tails would reach the [[Moon|moon]];
+a subject of extraordinary interest to moonlighters.
+And I can still more easily imagine him saying afterwards,
+having resumed the pipe and dressing-gown of Baker Street, "A remarkable
+little problem, Watson.  In some of its features it was perhaps
+more singular than any you have been good enough to report.
+I do not think that even the Tooting Trouser-Stretching Mystery,
+or the singular little affair of the Radium Toothpick, offered more
+strange and sensational developments."  For if the celebrated pair
+had really tracked out the Irish crime I have in mind, they would
+have found a story which, considered merely as a [[Detective|detective]] story,
+is by far the most dramatic and dreadful of modern times.
+Like nearly all such sensational stories, it traced the crime
+to somebody far higher in station and responsibility than any
+of those suspected.  Like many of the most sensational of them,
+it actually traced the crime to the [[Detective|detective]] who was investigating it.
+For if they had really crawled about with a magnifying glass,
+studying the supposed footprints of the peasants incriminated,
+they would have found they were made by the boots of the policeman.
+And the boots of a policeman, one feels, are things that even
+Watson might recognise.
+
+I have told the astounding story of Sergeant Sheridan before;
+and I shall often tell it again.  Hardly any English people know it;
+and I shall go on telling it in the [[Hope|hope]] that all English people
+may know it some day.  It ought to be first in every collection
+of _causes celebres,_ in every book about criminals, in every
+book of historical mysteries; and on its merits it would be.
+It is not in any of them.  It is not there because there is a motive,
+in all modern British plutocracy, against finding the big British
+miscarriages of justice where they are really to be found;
+and that is a great deal nearer than Putumayo.  It is a place far
+more appropriate to the exploits of the family of the Doyles.
+It is called Ireland; and in that place a powerful British official
+named Sheridan had been highly successful in the imperial service
+by convicting a series of poor Irishmen of agrarian crimes.
+It was afterwards discovered that the British official had carefully
+committed every one of the crimes himself; and then, with equal foresight,
+perjured himself to imprison [[Innocent|innocent]] men, one of whom lost his reason.
+Any one who does not know the story will naturally ask what punishment
+was held adequate for such a Neronian [[Monster|monster]]; I will tell him.
+He was bowed out of the country like a distinguished stranger,
+his expenses politely paid; as if he had been delivering a series
+of instructive lectures; and he is now probably smoking a cigar in
+an American hotel, and much more comfortable than any poor policeman
+who has done his duty.  I defy anybody to deny him a place in our
+literature about great criminals.  Charles Peace escaped many times
+before conviction; Sheridan escaped altogether after conviction.
+Jack the Ripper was safe because he was undiscovered; Sheridan was
+discovered and was still safe.  But I only repeat the matter
+here for two reasons.  First, we may call our rule in Ireland
+what we like; we may call it the [[Union]] when there is no [[Union|union]];
+we may call it Protestant ascendancy when we are no longer Protestants;
+or Teutonic lordship when we could only be ashamed of being Teutons.
+But this is what it _is;_ and everything else is waste of words.
+And second, because an Irish investigator of cattle-maiming,
+so oblivious of the Irish cow, is in some danger of figuring
+as an Irish bull.

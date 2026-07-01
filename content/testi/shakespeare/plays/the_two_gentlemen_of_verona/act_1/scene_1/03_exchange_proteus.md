@@ -1,5 +1,5 @@
 ---
-title: "The Two Gentlemen of [[Verona]] — Act I, Scene 1 — exchange ([[Proteus|PROTEUS]]) [3]"
+title: "The Two Gentlemen of Verona — Act I, Scene 1 — exchange (PROTEUS) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-two-gentlemen-of-verona-(shakespeare)"

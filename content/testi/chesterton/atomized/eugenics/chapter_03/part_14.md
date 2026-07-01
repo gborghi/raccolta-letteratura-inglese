@@ -1,5 +1,5 @@
 ---
-title: "[[Eugenics]] — Part 2 (part 14)"
+title: "Eugenics — Part 2 (part 14)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/eugenics-(chesterton)"

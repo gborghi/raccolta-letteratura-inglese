@@ -22,23 +22,22 @@ tags:
 Now forgive me if I say, in my old-world fashion, that I'm damned
 if I ever felt like that.  I recognize the great realities Mr. Eliot
 has revealed; but I do not admit that this is the deepest reality.
-I am ready to admit that our generation made too much of [[Romance|romance]]
+I am ready to admit that our generation made too much of romance
 and comfort, but even when I was uncomfortable I was more comfortable
 than that.  I was more comfortable on the iron seat.  I was more happy
 in the cold waiting-room. I knew the world was perishable and would end,
 but I did not think it would end with a whimper, but if anything
-with a trump of doom.  It is doubtless a [[Grotesque|grotesque]] spectacle that
+with a trump of doom.  It is doubtless a grotesque spectacle that
 the great-grandfathers should still be dancing with indecent gaiety,
-when the young are so [[Grave|grave]] and sad; but in this matter of the spice
+when the young are so grave and sad; but in this matter of the spice
 of life, I will defend the spiritual appetite of my own age.
-I will even be so indecently frivolous as to break into [[Song|song]],
+I will even be so indecently frivolous as to break into song,
 and say to the young pessimists:
 
   Some sneer; some snigger; some simper;
   In the youth where we laughed and sang,
   And they may end with a whimper
   But we will end with a bang.
-
 
 ON FRAGMENTS
 
@@ -52,7 +51,7 @@ has its fascination; and if you ever see your companion's face
 turned towards you with the rounded and complete expression
 of a congenital idiot, you may be certain again that he is
 nearer at that moment than at any other to knowing what you
-really are; which I fancy is the last thing that you [[Desire|desire]].
+really are; which I fancy is the last thing that you desire.
 When we cast `an intelligent look' (as they say in books)
 at a thing, it only means that we stamp our own significance upon it.
 When we look wisely at a post we see what we mean by a post.

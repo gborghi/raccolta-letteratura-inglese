@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 21 (part 3)"
+title: "Wuthering Heights — Chapter 21 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_21/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_21/part_04">part 04 ›</a></div>
 </nav>
 
+
+“I visited it once or twice too often before you were born,” he
+answered. “There—damn it! If you have any kisses to spare, give them to
+Linton: they are thrown away on me.”
 
 “Naughty Ellen!” exclaimed Catherine, flying to attack me next with her
 lavish caresses. “Wicked Ellen! to try to hinder me from entering. But
@@ -132,11 +136,3 @@ could rise from his [[Grave|grave]] to abuse me for his offspring’s wrongs, I
 should have the fun of seeing the said offspring fight him back again,
 indignant that he should dare to rail at the one friend he has in the
 world!”
-
-[[Heathcliff]] chuckled a fiendish laugh at the idea. I made no reply,
-because I saw that he expected none. Meantime, our young companion, who
-sat too removed from us to hear what was said, began to evince symptoms
-of uneasiness, probably repenting that he had denied himself the treat
-of Catherine’s society for [[Fear|fear]] of a little fatigue. His father
-remarked the restless glances wandering to the [[Window|window]], and the hand
-irresolutely extended towards his cap.

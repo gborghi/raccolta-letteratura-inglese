@@ -112,12 +112,3 @@ the crowd and hurry of this place, and if any cruel people should
 pursue us, they could surely never trace us further.  There’s comfort
 in that.  And here’s a deep old doorway--very dark, but quite dry, and
 warm too, for the [[Wind|wind]] don’t blow in here--What’s that!’
-
-Uttering a half shriek, she recoiled from a black figure which came
-suddenly out of the dark recess in which they were about to take
-refuge, and stood still, looking at them.
-
-‘Speak again,’ it said; ‘do I know the voice?’
-
-‘No,’ replied the [[Child|child]] timidly; ‘we are strangers, and having no money
-for a [[Night|night]]’s lodging, were going to rest here.’

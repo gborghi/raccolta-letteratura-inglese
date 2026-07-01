@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 23: TWENTY THREE (part 1)"
+title: "Martin Chuzzlewit — Chapter 23: TWENTY THREE (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -131,10 +131,3 @@ were again upon their way.
 
 ‘Mark,’ he said then, ‘are there really none but ourselves on board this
 boat who are bound for Eden?’
-
-‘None at all, sir. Most of ‘em, as you know, have stopped short; and
-the few that are left are going further on. What matters that! More room
-there for us, sir.’
-
-‘Oh, to be sure!’ said Martin. ‘But I was thinking--’ and there he
-paused.

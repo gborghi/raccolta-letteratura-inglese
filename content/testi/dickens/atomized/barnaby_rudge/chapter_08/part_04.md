@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 8 (part 4)"
+title: "Barnaby Rudge — Chapter 8 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_08/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_09/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘And so,’ he said, when they had taken a few turns up and down, you--you
+[[Love|love]] your master’s daughter?’
 
 ‘I do,’ said the ‘prentice. ‘[[Honour]] bright. No chaff, you know.’
 

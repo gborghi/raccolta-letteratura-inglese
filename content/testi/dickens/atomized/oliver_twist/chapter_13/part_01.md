@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 13 (part 1)"
+title: "Oliver Twist — Chapter 13 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -139,6 +139,3 @@ act led to a conversation, in which the cause and manner of [[Oliver]]’s
 capture were circumstantially detailed, with such alterations and
 improvements on the [[Truth|truth]], as to the Dodger appeared most advisable
 under the circumstances.
-
-“I’m afraid,” said the Jew, “that he may say something which will get
-us into trouble.”

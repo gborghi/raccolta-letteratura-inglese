@@ -149,7 +149,3 @@ downward.
 
 Trotty turned, and saw—the [[Child|child]]!  The [[Child|child]] [[Will Fern]] had carried in the
 street; the [[Child|child]] whom Meg had watched, but now, asleep!
-
-‘I carried her myself, to-[[Night|night]],’ said Trotty.  ‘In these arms!’
-
-‘Show him what he calls himself,’ said the dark figures, one and all.

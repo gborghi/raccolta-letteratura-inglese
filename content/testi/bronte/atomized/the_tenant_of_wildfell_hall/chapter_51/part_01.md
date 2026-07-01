@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 51 (part 1)"
+title: "The Tenant of Wildfell Hall — Chapter 51 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -267,9 +267,3 @@ and stubble, and lane, clearing hedges and ditches and hurdles, till I
 came to the young squire’s gates. Never till now had I known the full
 
 fervour of my [[Love|love]]—the full strength of my hopes, not wholly crushed
-
-even in my hours of deepest despondency, always tenaciously clinging to
-
-the thought that one day she might be mine, or, if not that, at least
-
-that something of my [[Memory|memory]], some slight remembrance of our [[Friendship|friendship]]

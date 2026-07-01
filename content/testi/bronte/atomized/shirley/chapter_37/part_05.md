@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 37 (part 5)"
+title: "Shirley — Chapter 37 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,28 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_37/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_37/part_06">part 06 ›</a></div>
 </nav>
 
+
+This war _must_ ere long draw to a close. Trade is likely to prosper for
+
+some years to come. There may be a brief misunderstanding between
+
+England and [[america|America]], but that will not last. What would you think if,
+
+one day--perhaps ere another ten years elapse--Louis and I divide
+
+Briarfield parish betwixt us? Louis, at any rate, is certain of power
+
+and property. He will not bury his talents. He is a benevolent fellow,
+
+and has, besides, an intellect of his own of no trifling calibre. His
+
+mind is slow but strong. It must work. It may work deliberately, but it
+
+will work [[Well|well]]. He will be made magistrate of the district--[[Shirley]] says
+
+he shall. She would proceed impetuously and prematurely to obtain for
+
+him this dignity, if he would let her, but he will not. As usual, he
 
 will be in no haste. Ere he has been master of Fieldhead a year all the
 
@@ -207,37 +229,3 @@ looked. But Mrs. Louis was the grandest; she always wore such handsome
 dresses. Mrs. Robert was quieter like. Mrs. Louis smiled when she
 
 talked. She had a real, happy, glad, good-natured look; but she had een
-
-that pierced a [[Body|body]] through. There is no such ladies nowadays."
-
-
-
-"What was the Hollow like then, Martha?"
-
-
-
-"Different to what it is now; but I can tell of it clean different
-
-again, when there was neither mill, nor cot, nor hall, except Fieldhead,
-
-within two miles of it. I can tell, one [[Summer|summer]] evening, fifty years
-
-syne, my mother coming running in just at the edge of dark, almost
-
-fleyed out of her wits, saying she had seen a fairish [fairy] in
-
-Fieldhead Hollow; and that was the last fairish that ever was seen on
-
-this countryside (though they've been heard within these forty years). A
-
-lonesome spot it was, and a bonny spot, full of oak trees and nut trees.
-
-It is altered now."
-
-
-
-The story is told. I think I now see the judicious reader putting on his
-
-spectacles to look for the moral. It would be an insult to his sagacity
-
-to offer directions. I only say, God [[Speed|speed]] him in the [[Quest|quest]]!

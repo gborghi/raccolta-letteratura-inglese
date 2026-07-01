@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 9 (part 2)"
+title: "Our Mutual Friend — Chapter 13 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,124 +14,122 @@ tags:
 </nav>
 
 
-This expression of regret being but partially intelligible to Mr Riah,
-the old man reverted to the injuries Fledgeby had received, and hinted
-at the necessity of his at once going to tend that beaten cur.
+‘Your exact words,’ said John, laying his hand on hers.
 
-‘Godmother, godmother, godmother!’ cried Miss Wren irritably, ‘I really
-lose all patience with you. One would think you believed in the Good
-Samaritan. How can you be so inconsistent?’
+‘That’s a very good arrangement,’ cried Mrs Boffin. ‘Keep it there,
+John. And as we was all of us in it, Noddy you come and lay yours a top
+of his, and we won’t break the pile till the story’s done.’
 
-‘Jenny dear,’ began the old man gently, ‘it is the custom of our people
-to help—’
+Mr Boffin hitched up a chair, and added his broad brown right hand to
+the heap.
 
-‘Oh! Bother your people!’ interposed Miss Wren, with a toss of her head.
-‘If your people don’t know better than to go and help Little Eyes, it’s
-a pity they ever got out of [[Egypt]]. Over and above that,’ she added, ‘he
-wouldn’t take your help if you offered it. Too much ashamed. Wants to
-keep it close and quiet, and to keep you out of the way.’
+‘That’s capital!’ said Mrs Boffin, giving it a kiss. ‘Seems quite a
+family building; don’t it? But the horses is off. [[Well]]! When I cries
+out that [[Night|night]], “I know you now! you’re John!” John catches of me, it
+is true; but I ain’t a light weight, bless ye, and he’s forced to let me
+down. Noddy, he hears a noise, and in he trots, and as soon as I anyways
+comes to myself I calls to him, “Noddy, [[Well|well]] I might say as I did say,
+that [[Night|night]] at the Bower, for the Lord be thankful this is John!” On
+which he gives a heave, and down he goes likewise, with his head under
+the writing-table. This brings me round comfortable, and that brings him
+round comfortable, and then John and him and me we all fall a crying for
+joy.’
 
-They were still debating this point when a [[Shadow|shadow]] darkened the entry,
-and the glass door was opened by a messenger who brought a letter
-unceremoniously addressed, ‘Riah.’ To which he said there was an answer
-wanted.
+‘Yes! They cry for joy, my darling,’ her husband struck in. ‘You
+understand? These two, whom I come to life to disappoint and dispossess,
+cry for joy!’
 
-The letter, which was scrawled in pencil uphill and downhill and round
-crooked corners, ran thus:
+Bella looked at him confusedly, and looked again at Mrs Boffin’s radiant
+face.
 
+‘That’s right, my dear, don’t you mind him,’ said Mrs Boffin, ‘stick
+to me. [[Well]]! Then we sits down, gradually gets cool, and holds a
+confabulation. John, he tells us how he is despairing in his mind on
+accounts of a certain fair young person, and how, if I hadn’t found him
+out, he was going away to seek his fortune far and wide, and had fully
+meant never to come to life, but to leave the property as our wrongful
+inheritance for ever and a day. At which you never see a man so
+frightened as my Noddy was. For to think that he should have come into
+the property wrongful, however [[Innocent|innocent]], and—more than that—might have
+gone on keeping it to his dying day, turned him whiter than [[chalk]].’
 
-‘OLD RIAH,
+‘And you too,’ said Mr Boffin.
 
-Your accounts being all squared, go. Shut up the place, turn out
-directly, and send me the key by bearer. Go. You are an unthankful dog
-of a Jew. Get out.
+‘Don’t you mind him, neither, my deary,’ resumed Mrs Boffin; ‘stick
+to me. This brings up a confabulation regarding the certain fair young
+person; when Noddy he gives it as his opinion that she is a deary
+creetur. “She may be a leetle spoilt, and nat’rally spoilt,” he says,
+“by circumstances, but that’s only the surface, and I lay my life,” he
+says, “that she’s the true golden gold at heart.”’
 
-F.’
+‘So did you,’ said Mr Boffin.
 
+‘Don’t you mind him a single morsel, my dear,’ proceeded Mrs Boffin,
+‘but stick to me. Then says John, O, if he could but prove so! Then we
+both of us ups and says, that minute, “Prove so!”’
 
-The dolls’ dressmaker found it delicious to trace the screaming and
-smarting of Little Eyes in the distorted writing of this epistle. She
-laughed over it and jeered at it in a convenient corner (to the great
-astonishment of the messenger) while the old man got his few goods
-together in a black bag. That done, the shutters of the upper windows
-closed, and the office blind pulled down, they issued forth upon the
-steps with the attendant messenger. There, while Miss Jenny held the
-bag, the old man locked the [[house]] door, and handed over the key to him;
-who at once retired with the same.
+With a start, Bella directed a hurried glance towards Mr Boffin. But,
+he was sitting thoughtfully smiling at that broad brown hand of his, and
+either didn’t see it, or would take no notice of it.
 
-‘[[Well]], godmother,’ said Miss Wren, as they remained upon the steps
-together, looking at one another. ‘And so you’re thrown upon the world!’
+‘“Prove it, John!” we says,’ repeated Mrs Boffin. ‘“Prove it and
+overcome your doubts with triumph, and be happy for the first [[Time|time]] in
+your life, and for the rest of your life.” This puts John in a state,
+to be sure. Then we says, “What will content you? If she was to stand up
+for you when you was slighted, if she was to show herself of a generous
+mind when you was oppressed, if she was to be truest to you when you was
+poorest and friendliest, and all this against her own seeming interest,
+how would that do?” “Do?” says John, “it would raise me to the skies.”
+ “Then,” says my Noddy, “make your preparations for the ascent, John, it
+being my firm belief that up you go!”’
 
-‘It would appear so, Jenny, and somewhat suddenly.’
+Bella caught Mr Boffin’s twinkling eye for half an instant; but he got
+it away from her, and restored it to his broad brown hand.
 
-‘Where are you going to seek your fortune?’ asked Miss Wren.
+‘From the first, you was always a special favourite of Noddy’s,’ said
+Mrs Boffin, shaking her head. ‘O you were! And if I had been inclined
+to be jealous, I don’t know what I mightn’t have done to you. But as I
+wasn’t—why, my [[Beauty|beauty]],’ with a hearty laugh and an embrace, ‘I made you
+a special favourite of my own too. But the horses is coming round the
+corner. [[Well]]! Then says my Noddy, shaking his sides till he was fit to
+make ’em ache again: “Look out for being slighted and oppressed, John,
+for if ever a man had a hard master, you shall find me from this present
+[[Time|time]] to be such to you.” And then he began!’ cried Mrs Boffin, in an
+ecstacy of admiration. ‘Lord bless you, then he began! And how he DID
+begin; didn’t he!’
 
-The old man smiled, but looked about him with a look of having lost his
-way in life, which did not escape the dolls’ dressmaker.
+Bella looked half frightened, and yet half laughed.
 
-‘Verily, Jenny,’ said he, ‘the question is to the purpose, and more
-easily asked than answered. But as I have experience of the ready
-goodwill and good help of those who have given occupation to Lizzie, I
-think I will seek them out for myself.’
+‘But, bless you,’ pursued Mrs Boffin, ‘if you could have seen him of a
+[[Night|night]], at that [[Time|time]] of it! The way he’d sit and chuckle over himself!
+The way he’d say “I’ve been a regular brown bear to-day,” and take
+himself in his arms and hug himself at the thoughts of the brute he had
+pretended. But every [[Night|night]] he says to me: “Better and better, old lady.
+What did we say of her? She’ll come through it, the true golden gold.
+This’ll be the happiest piece of work we ever done.” And then he’d say,
+“I’ll be a grislier old growler to-morrow!” and laugh, he would, till
+John and me was often forced to slap his back, and bring it out of his
+windpipes with a little [[Water|water]].’
 
-‘On foot?’ asked Miss Wren, with a chop.
+Mr Boffin, with his face bent over his heavy hand, made no sound,
+but rolled his shoulders when thus referred to, as if he were vastly
+enjoying himself.
 
-‘Ay!’ said the old man. ‘Have I not my staff?’
-
-It was exactly because he had his staff, and presented so quaint an
-aspect, that she mistrusted his making the [[Journey|journey]].
-
-‘The best thing you can do,’ said Jenny, ‘for the [[Time|time]] being, at all
-events, is to come [[Home|home]] with me, godmother. Nobody’s there but my bad
-[[Child|child]], and Lizzie’s lodging stands empty.’ The old man when satisfied
-that no inconvenience could be entailed on any one by his compliance,
-readily complied; and the singularly-assorted couple once more went
-through the streets together.
-
-Now, the bad [[Child|child]] having been strictly charged by his parent to remain
-at [[Home|home]] in her absence, of course went out; and, being in the very last
-stage of mental decrepitude, went out with two objects; firstly,
-to establish a claim he conceived himself to have upon any licensed
-victualler living, to be supplied with threepennyworth of rum for
-nothing; and secondly, to bestow some maudlin remorse on Mr Eugene
-Wrayburn, and see what profit came of it. Stumblingly pursuing these
-two designs—they both meant rum, the only meaning of which he was
-capable—the degraded creature staggered into Covent [[Garden]] Market and
-there bivouacked, to have an attack of the trembles succeeded by an
-attack of the horrors, in a doorway.
-
-This market of Covent [[Garden]] was quite out of the creature’s line of
-[[Road|road]], but it had the attraction for him which it has for the worst of
-the solitary members of the drunken tribe. It may be the companionship
-of the nightly stir, or it may be the companionship of the gin and
-beer that slop about among carters and hucksters, or it may be the
-companionship of the trodden vegetable refuse which is so like their own
-dress that perhaps they take the Market for a great wardrobe; but be
-it what it may, you shall see no such individual drunkards on doorsteps
-anywhere, as there. Of dozing women-drunkards especially, you shall come
-upon such specimens there, in the morning sunlight, as you might
-seek out of doors in vain through [[London]]. Such stale vapid rejected
-cabbage-leaf and cabbage-stalk dress, such damaged-orange countenance,
-such squashed pulp of humanity, are open to the day nowhere else. So,
-the attraction of the Market drew Mr Dolls to it, and he had out his two
-fits of trembles and horrors in a doorway on which a woman had had out
-her sodden nap a few hours before.
-
-There is a swarm of young savages always flitting about this same place,
-creeping off with fragments of orange-chests, and mouldy litter—Heaven
-knows into what holes they can convey them, having no [[Home|home]]!—whose bare
-feet fall with a blunt dull softness on the pavement as the policeman
-hunts them, and who are (perhaps for that reason) little heard by
-the Powers that be, whereas in top-boots they would make a deafening
-clatter. These, delighting in the trembles and the horrors of Mr Dolls,
-as in a gratuitous drama, flocked about him in his doorway, butted
-at him, leaped at him, and pelted him. Hence, when he came out of
-his invalid retirement and shook off that ragged train, he was much
-bespattered, and in worse case than ever. But, not yet at his worst;
-for, going into a public-[[house]], and being supplied in stress of business
-with his rum, and seeking to vanish without payment, he was collared,
-searched, found penniless, and admonished not to try that again,
-by having a pail of dirty [[Water|water]] cast over him. This application
-superinduced another fit of the trembles; after which Mr Dolls, as
-finding himself in good cue for making a call on a professional friend,
-addressed himself to the Temple.
+‘And so, my good and pretty,’ pursued Mrs Boffin, ‘you was married, and
+there was we hid up in the church-organ by this husband of yours; for
+he wouldn’t let us out with it then, as was first meant. “No,” he says,
+“she’s so unselfish and contented, that I can’t afford to be rich yet. I
+must wait a little longer.” Then, when baby was expected, he says, “She
+is such a cheerful, glorious housewife that I can’t afford to be rich
+yet. I must wait a little longer.” Then when baby was born, he says,
+“She is so much better than she ever was, that I can’t afford to be rich
+yet. I must wait a little longer.” And so he goes on and on, till I says
+outright, “Now, John, if you don’t fix a [[Time|time]] for setting her up in her
+own [[house]] and [[Home|home]], and letting us walk out of it, I’ll turn Informer.”
+ Then he says he’ll only wait to triumph beyond what we ever thought
+possible, and to show her to us better than even we ever supposed; and
+he says, “She shall see me under suspicion of having murdered myself,
+and YOU shall see how trusting and how true she’ll be.” [[Well]]! Noddy and
+me agreed to that, and he was right, and here you are, and the horses is
+in, and the story is done, and God bless you my [[Beauty]], and God bless us
+all!’

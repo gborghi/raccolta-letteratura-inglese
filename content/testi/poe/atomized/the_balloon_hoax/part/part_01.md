@@ -1,5 +1,5 @@
 ---
-title: "[[The Balloon-Hoax]] (part 1)"
+title: "The Balloon-Hoax (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-balloon-hoax-(poe)"
@@ -197,7 +197,3 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
       seventeen pounds—leaving about four pounds to spare. Beneath the
 
       centre of the balloon, was a frame of light wood, about nine feet
-
-      long, and rigged on to the balloon itself with a network in the
-
-      customary manner. From this framework was suspended a wicker

@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 10 (part 1)"
+title: "Barnaby Rudge — Chapter 10 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -116,9 +116,3 @@ in the parlour, while he waited on his master.
 
 ‘Pillory the fellow, here he is at last!’ cried John, in the very height
 and zenith of his distress. ‘Did you hear me a calling, [[Villain|villain]]?’
-
-The figure he addressed made no answer, but putting his hand upon the
-saddle, sprung into it at a bound, turned the [[Horse|horse]]’s head towards the
-stable, and was gone in an instant.
-
-‘Brisk enough when he is awake,’ said the guest.

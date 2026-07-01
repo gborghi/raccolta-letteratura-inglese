@@ -16,10 +16,6 @@ tags:
 
 CHARLES II
 
-
-
-
-
 There are a great many bonds which still connect us with Charles II.,
 
 one of the idlest men of one of the idlest epochs. Among other things
@@ -50,8 +46,6 @@ But he has quite equally profound doubts as to whether the tree he is
 
 looking at is a tree and not a rhinoceros.
 
-
-
 This is the real meaning of that mystery which appears so prominently in
 
 the lives of great sceptics, which appears with especial prominence in
@@ -69,8 +63,6 @@ of judgment. For it is the assertion of a universal negative; for a man
 to say that there is no God in the universe is like saying that there
 
 are no [[Insects|insects]] in any of the [[Stars|stars]].
-
-
 
 Thus it was with that wholesome and systematic sceptic, Charles II. When
 
@@ -102,8 +94,6 @@ sanctity, with the [[Cross|cross]] uplifted and the prayers poured out, was
 
 consummated the last great act of logical unbelief.
 
-
-
 The problem of Charles II. consists in this, that he has scarcely a
 
 moral virtue to his name, and yet he attracts us morally. We feel that
@@ -117,8 +107,6 @@ these wild and unmentionable virtues. The real [[Truth|truth]] of this matter an
 the real relation of Charles II. to the moral ideal is worth somewhat
 
 more exhaustive study.
-
-
 
 It is a commonplace that the Restoration movement can only be understood
 
@@ -172,8 +160,6 @@ and reverenced, for it is humanity on [[Fire|fire]]; hatred can be genial,
 
 fanatics, but because they were rationalists.
 
-
-
 When we consider these things, when we remember that [[Puritanism]], which
 
 means in our day a moral and almost temperamental attitude, meant in
@@ -197,9 +183,3 @@ horseplay which is sometimes more irritating than any vice. It accounts
 also for the return of the virtue of politeness, for that also is a
 
 nameless thing ignored by logical codes. Politeness has indeed about it
-
-something mystical; like religion, it is everywhere understood and
-
-nowhere defined. Charles is not entirely to be despised because, as the
-
-type of this movement, he let himself float upon this new tide of

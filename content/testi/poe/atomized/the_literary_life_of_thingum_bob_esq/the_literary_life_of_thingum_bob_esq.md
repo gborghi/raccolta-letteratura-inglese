@@ -1,5 +1,5 @@
 ---
-title: "[[The Literary Life of Thingum Bob, Esq]]"
+title: "The Literary Life of Thingum Bob, Esq"
 author: "Poe"
 unitType: work
 parentWork: "works/the-literary-life-of-thingum-bob,-esq-(poe)"
@@ -51,7 +51,7 @@ By Himself
 
       in the present paper, (which I had some idea of calling
 
-      “Memoranda to serve for the Literary [[history|History]] of [[America]],”) to
+      “Memoranda to serve for the Literary [[history|History]] of [[america|America]],”) to
 
       give a detail of those important, yet feeble and tottering first
 
@@ -347,7 +347,7 @@ By Himself
 
 
 
-      [[Achilles]]’ wrath, to Greece the direful [[Spring|spring]]
+      [[Achilles]]’ wrath, to Greece the direful [[spring]]
 
       Of woes unnumbered, &c., &c., &c., &c.
 

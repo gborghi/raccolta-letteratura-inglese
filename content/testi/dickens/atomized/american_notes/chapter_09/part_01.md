@@ -23,7 +23,7 @@ and turned our faces towards Washington.
 
 In the course of this day’s [[Journey|journey]], as on subsequent occasions, we
 encountered some Englishmen (small farmers, perhaps, or country publicans
-at [[Home|home]]) who were settled in [[America]], and were travelling on their own
+at [[Home|home]]) who were settled in [[america|America]], and were travelling on their own
 affairs.  Of all grades and kinds of men that jostle one in the public
 conveyances of the States, these are often the most intolerable and the
 most insufferable companions.  United to every disagreeable
@@ -43,7 +43,7 @@ As Washington may be called the head-quarters of tobacco-tinctured
 saliva, the [[Time|time]] is come when I must confess, without any disguise, that
 the prevalence of those two odious practices of chewing and expectorating
 began about this [[Time|time]] to be anything but agreeable, and soon became most
-offensive and sickening.  In all the public places of [[America]], this
+offensive and sickening.  In all the public places of [[america|America]], this
 filthy custom is recognised.  In the courts of law, the judge has his
 spittoon, the crier his, the witness his, and the prisoner his; while the
 jurymen and spectators are provided for, as so many men who in the course
@@ -119,7 +119,7 @@ information with reference to my own nose and eyes, and various
 impressions wrought by my mouth and chin on different minds, and how my
 head looks when it is viewed from behind, as on these occasions.  Some
 gentlemen were only satisfied by exercising their sense of touch; and the
-boys (who are surprisingly precocious in [[America]]) were seldom satisfied,
+boys (who are surprisingly precocious in [[america|America]]) were seldom satisfied,
 even by that, but would return to the charge over and over again.  Many a
 budding president has walked into my room with his cap on his head and
 his hands in his pockets, and stared at me for two whole hours:

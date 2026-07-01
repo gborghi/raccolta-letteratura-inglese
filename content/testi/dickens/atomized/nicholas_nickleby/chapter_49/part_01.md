@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 49 (part 1)"
+title: "Nicholas Nickleby — Chapter 49 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -113,8 +113,3 @@ and going in his evening walks, and stopping to rest; while Mr. Frank
 Cheeryble happened, by some strange conjunction of circumstances, to be
 passing the door on some business or other at least three nights in the
 week.
-
-‘He is the most attentive young man I ever saw, Kate,’ said Mrs. Nickleby
-to her daughter one evening, when this last-named gentleman had been the
-subject of the worthy lady’s eulogium for some [[Time|time]], and Kate had sat
-perfectly silent.

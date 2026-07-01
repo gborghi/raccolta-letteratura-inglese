@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 21: TWENTY ONE (part 5)"
+title: "Martin Chuzzlewit — Chapter 21: TWENTY ONE (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -66,7 +66,7 @@ land may be got into a dice-box, and why may not a whole territory be
 bargained for in a shed? It was but a temporary office too; for the
 Edeners were ‘going’ to build a superb establishment for the transaction
 of their business, and had already got so far as to mark out the site.
-Which is a great way in [[America]]. The office-door was wide open, and in
+Which is a great way in [[america|America]]. The office-door was wide open, and in
 the doorway was the agent; no [[Doubt|doubt]] a tremendous fellow to get through
 his work, for he seemed to have no arrears, but was swinging backwards
 and forwards in a rocking-chair, with one of his legs planted high up
@@ -101,7 +101,7 @@ by the name of Scadder.
 ‘Ac-tive and spry, sir, in my country’s service and the sympathetic
 cause. Two gentlemen on business, Mr Scadder.’
 
-He shook hands with each of them--nothing is done in [[America]] without
+He shook hands with each of them--nothing is done in [[america|America]] without
 shaking hands--then went on rocking.
 
 ‘I think I know what bis’ness you have brought these strangers here
@@ -134,10 +134,3 @@ ten thousand dollars.
 wish to serve,’ said Scadder in a low voice, looking down the [[Road|road]]
 and rocking still. ‘They rile up rough, along of my objecting to their
 selling Eden off too cheap. That’s human natur’! [[Well]]!’
-
-‘Mr Scadder,’ said the General, assuming his oratorical deportment.
-‘Sir! Here is my hand, and here my heart. I esteem you, sir, and ask
-your pardon. These gentlemen air friends of mine, or I would not have
-brought ‘em here, sir, being [[Well|well]] aware, sir, that the lots at present
-go entirely too cheap. But these air friends, sir; these air partick’ler
-friends.’

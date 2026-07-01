@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 3 (part 2)"
+title: "Our Mutual Friend — Chapter 6 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,149 +10,143 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_44/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_45/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_44/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_44/part_03">part 03 ›</a></div>
 </nav>
 
 
-Sweet delusion for Pleasant Riderhood. But they minister to him with
-such extraordinary interest, their anxiety is so keen, their vigilance
-is so great, their excited joy grows so intense as the signs of life
-strengthen, that how can she resist it, poor thing! And now he begins
-to breathe naturally, and he stirs, and the doctor declares him to have
-come back from that inexplicable [[Journey|journey]] where he stopped on the dark
-[[Road|road]], and to be here.
+‘I don’t like it,’ pettishly returned [[Venus]] as before. ‘I came into
+it without enough consideration. And besides again. Isn’t your own Mr
+Boffin [[Well|well]] acquainted with the Mounds? And wasn’t he [[Well|well]] acquainted
+with the deceased and his ways? And has he ever showed any expectation
+of finding anything?’
 
-Tom Tootle, who is nearest to the doctor when he says this, grasps
-the doctor fervently by the hand. Bob Glamour, William Williams, and
-Jonathan of the no surname, all shake hands with one another round, and
-with the doctor too. Bob Glamour blows his nose, and Jonathan of the
-no surname is moved to do likewise, but lacking a pocket handkerchief
-abandons that outlet for his emotion. Pleasant sheds [[Tears|tears]] deserving her
-own name, and her sweet delusion is at its height.
+At that moment wheels were heard.
 
-There is intelligence in his eyes. He wants to ask a question. He
-wonders where he is. Tell him.
+‘Now, I should be loth,’ said Mr Wegg, with an air of patient injury,
+‘to think so ill of him as to suppose him capable of coming at this [[Time|time]]
+of [[Night|night]]. And yet it sounds like him.’
 
-‘Father, you were run down on the [[River|river]], and are at Miss Abbey
-Potterson’s.’
+A ring at the yard bell.
 
-He stares at his daughter, stares all around him, closes his eyes, and
-lies slumbering on her arm.
+‘It is him,’ said Mr Wegg, ‘and he is capable of it. I am sorry, because
+I could have wished to keep up a little lingering [[Fragment|fragment]] of respect
+for him.’
 
-The short-lived delusion begins to fade. The low, bad, unimpressible
-face is coming up from the depths of the [[River|river]], or what other depths, to
-the surface again. As he grows warm, the doctor and the four men cool.
-As his lineaments soften with life, their faces and their hearts harden
-to him.
+Here Mr Boffin was heard lustily calling at the yard gate, ‘Halloa!
+Wegg! Halloa!’
 
-‘He will do now,’ says the doctor, washing his hands, and looking at the
-patient with growing disfavour.
+‘Keep your seat, [[Mr Venus]],’ said Wegg. ‘He may not stop.’ And then
+called out, ‘Halloa, sir! Halloa! I’m with you directly, sir! Half a
+minute, Mr Boffin. Coming, sir, as fast as my leg will bring me!’ And
+so with a show of much cheerful alacrity stumped out to the gate with
+a light, and there, through the [[Window|window]] of a cab, descried Mr Boffin
+inside, blocked up with books.
 
-‘Many a better man,’ moralizes Tom Tootle with a gloomy shake of the
-head, ‘ain’t had his luck.’
+‘Here! lend a hand, Wegg,’ said Mr Boffin excitedly, ‘I can’t get out
+till the way is cleared for me. This is the Annual Register, Wegg, in a
+cab-full of wollumes. Do you know him?’
 
-‘It’s to be hoped he’ll make a better use of his life,’ says Bob
-Glamour, ‘than I expect he will.’
+‘Know the Animal Register, sir?’ returned the Impostor, who had caught
+the name imperfectly. ‘For a trifling wager, I think I could find any
+Animal in him, blindfold, Mr Boffin.’
 
-‘Or than he done afore,’ adds William Williams.
+‘And here’s Kirby’s Wonderful Museum,’ said Mr Boffin, ‘and Caulfield’s
+Characters, and Wilson’s. Such Characters, Wegg, such Characters! I must
+have one or two of the best of ’em to-[[Night|night]]. It’s amazing what places
+they used to put the guineas in, wrapped up in rags. Catch hold of that
+pile of wollumes, Wegg, or it’ll bulge out and burst into the mud. Is
+there anyone about, to help?’
 
-‘But no, not he!’ says Jonathan of the no surname, clinching the
-quartette.
+‘There’s a friend of mine, sir, that had the intention of spending
+the evening with me when I gave you up—much against my will—for the
+[[Night|night]].’
 
-They speak in a low tone because of his daughter, but she sees that they
-have all drawn off, and that they stand in a group at the other end of
-the room, shunning him. It would be too much to suspect them of being
-sorry that he didn’t die when he had done so much towards it, but they
-clearly wish that they had had a better subject to bestow their pains
-on. Intelligence is conveyed to Miss Abbey in the bar, who reappears on
-the scene, and contemplates from a distance, holding whispered discourse
-with the doctor. The spark of life was deeply interesting while it was
-in abeyance, but now that it has got established in Mr Riderhood, there
-appears to be a general [[Desire|desire]] that circumstances had admitted of its
-being developed in anybody else, rather than that gentleman.
+‘Call him out,’ cried Mr Boffin in a bustle; ‘get him to bear a hand.
+Don’t drop that one under your arm. It’s Dancer. Him and his sister made
+pies of a dead sheep they found when they were out a walking. Where’s
+your friend? Oh, here’s your friend. Would you be so good as help Wegg
+and myself with these books? But don’t take Jemmy Taylor of Southwark,
+nor yet Jemmy Wood of [[Gloucester]]. These are the two Jemmys. I’ll carry
+them myself.’
 
-‘However,’ says Miss Abbey, cheering them up, ‘you have done your duty
-like good and true men, and you had better come down and take something
-at the expense of the Porters.’
+Not ceasing to talk and bustle, in a state of great excitement, Mr
+Boffin directed the removal and arrangement of the books, appearing
+to be in some sort beside himself until they were all deposited on the
+floor, and the cab was dismissed.
 
-This they all do, leaving the daughter watching the father. To whom, in
-their absence, Bob Gliddery presents himself.
+‘There!’ said Mr Boffin, gloating over them. ‘There they are, like the
+four-and-twenty fiddlers—all of a row. Get on your spectacles, Wegg;
+I know where to find the best of ’em, and we’ll have a taste at once of
+what we have got before us. What’s your friend’s name?’
 
-‘His gills looks rum; don’t they?’ says Bob, after inspecting the
-patient.
+Mr Wegg presented his friend as [[Mr Venus]].
 
-Pleasant faintly nods.
+‘Eh?’ cried Mr Boffin, catching at the name. ‘Of Clerkenwell?’
 
-‘His gills’ll look rummer when he wakes; won’t they?’ says Bob.
+‘Of Clerkenwell, sir,’ said [[Mr Venus]].
 
-Pleasant hopes not. Why?
+‘Why, I’ve heard of you,’ cried Mr Boffin, ‘I heard of you in the
+old man’s [[Time|time]]. You knew him. Did you ever buy anything of him?’ With
+piercing eagerness.
 
-‘When he finds himself here, you know,’ Bob explains. ‘Cause Miss Abbey
-forbid him the [[house]] and ordered him out of it. But what you may call
-the Fates ordered him into it again. Which is rumness; ain’t it?’
+‘No, sir,’ returned [[Venus]].
 
-‘He wouldn’t have come here of his own accord,’ returns poor Pleasant,
-with an effort at a little [[Pride|pride]].
+‘But he showed you things; didn’t he?’
 
-‘No,’ retorts Bob. ‘Nor he wouldn’t have been let in, if he had.’
+[[Mr Venus]], with a glance at his friend, replied in the affirmative.
 
-The short delusion is quite dispelled now. As plainly as she sees on her
-arm the old father, unimproved, Pleasant sees that everybody there will
-cut him when he recovers consciousness. ‘I’ll take him away ever so soon
-as I can,’ thinks Pleasant with a sigh; ‘he’s best at [[Home|home]].’
+‘What did he show you?’ asked Mr Boffin, putting his hands behind him,
+and eagerly advancing his head. ‘Did he show you boxes, little cabinets,
+pocket-books, parcels, anything locked or sealed, anything tied up?’
 
-Presently they all return, and wait for him to become conscious that
-they will all be glad to get rid of him. Some clothes are got together
-for him to wear, his own being saturated with [[Water|water]], and his present
-dress being composed of blankets.
+[[Mr Venus]] shook his head.
 
-Becoming more and more uncomfortable, as though the prevalent dislike
-were finding him out somewhere in his [[Sleep|sleep]] and expressing itself to
-him, the patient at last opens his eyes wide, and is assisted by his
-daughter to sit up in bed.
+‘Are you a judge of china?’
 
-‘[[Well]], Riderhood,’ says the doctor, ‘how do you feel?’
+[[Mr Venus]] again shook his head.
 
-He replies gruffly, ‘Nothing to boast on.’ Having, in fact, returned to
-life in an uncommonly sulky state.
+‘Because if he had ever showed you a teapot, I should be glad to know of
+it,’ said Mr Boffin. And then, with his right hand at his lips, repeated
+thoughtfully, ‘a Teapot, a Teapot’, and glanced over the books on the
+floor, as if he knew there was something interesting connected with a
+teapot, somewhere among them.
 
-‘I don’t mean to preach; but I [[Hope|hope]],’ says the doctor, gravely shaking
-his head, ‘that this escape may have a good effect upon you, Riderhood.’
+Mr Wegg and [[Mr Venus]] looked at one another wonderingly: and Mr Wegg, in
+fitting on his spectacles, opened his eyes wide, over their rims, and
+tapped the side of his nose: as an admonition to [[Venus]] to keep himself
+generally wide awake.
 
-The patient’s discontented growl of a reply is not intelligible; his
-daughter, however, could interpret, if she would, that what he says is,
-he ‘don’t want no Poll-Parroting’.
+‘A Teapot,’ repeated Mr Boffin, continuing to muse and survey the books;
+‘a Teapot, a Teapot. Are you ready, Wegg?’
 
-Mr Riderhood next demands his shirt; and draws it on over his head (with
-his daughter’s help) exactly as if he had just had a Fight.
+‘I am at your service, sir,’ replied that gentleman, taking his usual
+seat on the usual settle, and poking his wooden leg under the table
+before it. ‘[[Mr Venus]], would you make yourself useful, and take a seat
+beside me, sir, for the conveniency of snuffing the candles?’
 
-‘Warn’t it a steamer?’ he pauses to ask her.
+[[Venus]] complying with the invitation while it was yet being given, Silas
+pegged at him with his wooden leg, to call his particular attention to
+Mr Boffin standing musing before the [[Fire|fire]], in the space between the two
+settles.
 
-‘Yes, father.’
+‘Hem! Ahem!’ coughed Mr Wegg to attract his employer’s attention. ‘Would
+you wish to commence with an Animal, sir—from the Register?’
 
-‘I’ll have the law on her, bust her! and make her pay for it.’
+‘No,’ said Mr Boffin, ‘no, Wegg.’ With that, producing a little book
+from his breast-pocket, he handed it with great care to the literary
+gentlemen, and inquired, ‘What do you call that, Wegg?’
 
-He then buttons his linen very moodily, twice or thrice stopping to
-examine his arms and hands, as if to see what punishment he has received
-in the Fight. He then doggedly demands his other garments, and slowly
-gets them on, with an appearance of great malevolence towards his late
-opponent and all the spectators. He has an impression that his nose is
-bleeding, and several times draws the back of his hand across it, and
-looks for the result, in a pugilistic manner, greatly strengthening that
-incongruous resemblance.
+‘This, sir,’ replied Silas, adjusting his spectacles, and referring to
+the title-page, ‘is Merryweather’s Lives and Anecdotes of Misers. Mr
+[[Venus]], would you make yourself useful and draw the candles a little
+nearer, sir?’ This to have a special opportunity of bestowing a stare
+upon his comrade.
 
-‘Where’s my fur cap?’ he asks in a surly voice, when he has shuffled his
-clothes on.
+‘Which of ’em have you got in that lot?’ asked Mr Boffin. ‘Can you find
+out pretty easy?’
 
-‘In the [[River|river]],’ somebody rejoins.
-
-‘And warn’t there no honest man to pick it up? O’ course there was
-though, and to cut off with it arterwards. You are a rare lot, all on
-you!’
-
-Thus, Mr Riderhood: taking from the hands of his daughter, with special
-ill-will, a lent cap, and grumbling as he pulls it down over his ears.
-Then, getting on his unsteady legs, leaning heavily upon her, and
-growling, ‘Hold still, can’t you? What! You must be a staggering next,
-must you?’ he takes his departure out of the ring in which he has had
-that little turn-up with [[Death]].
+‘[[Well]], sir,’ replied Silas, turning to the table of contents and slowly
+fluttering the [[Leaves|leaves]] of the book, ‘I should say they must be pretty
+[[Well|well]] all here, sir; here’s a large assortment, sir; my eye catches John
+Overs, sir, John Little, sir, Dick Jarrel, John Elwes, the Reverend Mr
+[[Jones]] of Blewbury, Vulture Hopkins, Daniel Dancer—’

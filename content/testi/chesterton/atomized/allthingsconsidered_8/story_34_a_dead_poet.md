@@ -1,5 +1,5 @@
 ---
-title: "[[AllThingsConsidered-8]] — A DEAD POET"
+title: "AllThingsConsidered-8 — A DEAD POET"
 author: "Chesterton"
 unitType: story
 parentWork: "works/allthingsconsidered-8-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 A DEAD POET
-
 
 With Francis Thompson we lose the greatest poetic energy
 since Browning.  His energy was of somewhat the same kind.

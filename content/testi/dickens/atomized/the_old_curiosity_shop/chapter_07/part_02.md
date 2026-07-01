@@ -14,6 +14,13 @@ tags:
 </nav>
 
 
+‘Fine girl of her age, but small,’ observed [[Richard]] Swiveller
+parenthetically.
+
+‘If I am to go on, be quiet for one minute,’ returned Trent, fretting
+at the slight interest the other appeared to take in the conversation.
+‘Now I’m coming to the point.’
+
 ‘That’s right,’ said Dick.
 
 ‘The girl has strong affections, and brought up as she has been, may,

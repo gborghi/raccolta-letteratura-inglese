@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 25: GOOD AND BAD ANGELS (part 1)"
+title: "David Copperfield — Chapter 25: GOOD AND BAD ANGELS (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -133,13 +133,3 @@ but when it was very earnest, as it was now, there was a thrill in it
 that quite subdued me. I sat looking at her as she cast her eyes down on
 her work; I sat seeming still to listen to her; and Steerforth, in spite
 of all my attachment to him, darkened in that tone.
-
-‘It is very bold in me,’ said Agnes, looking up again, ‘who have lived
-in such seclusion, and can know so little of the world, to give you my
-advice so confidently, or even to have this strong opinion. But I know
-in what it is engendered, Trotwood,--in how true a remembrance of our
-having grown up together, and in how true an interest in all relating
-to you. It is that which makes me bold. I am certain that what I say is
-right. I am quite sure it is. I feel as if it were someone else speaking
-to you, and not I, when I caution you that you have made a dangerous
-friend.’

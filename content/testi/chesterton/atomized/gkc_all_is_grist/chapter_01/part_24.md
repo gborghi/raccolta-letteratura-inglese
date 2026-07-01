@@ -14,6 +14,43 @@ tags:
 </nav>
 
 
+For the Romantics of the nineteenth century really implied that God
+and the Universe, Heaven, Hell, and Purgatory, were all one elaborate
+and rather laborious compliment to [[Beatrice]] Portinari.  It is truer
+to say that, in the true sense, [[Beatrice]] is a compliment to God.
+She is lifted like [[Flowers|flowers]] on an altar, or flames on a candlestick,
+to be an example of that earthly [[Beauty|beauty]] which, used rightly, can lead us
+to heavenly [[Beauty|beauty]].  And in this case the critics have missed the whole
+point of the comparison between the Vita Nuova and the Divine [[Comedy]].
+The point is that the first slight, youthful, merely emotional
+story is really a sad story; it is only the completion in Paradise
+that is a joyful story.  The former has an unhappy ending--or, rather,
+that most unhappy ending which consists in having no ending.
+It is the mere [[Fragment|fragment]] of a human [[Tragedy|tragedy]]; it is only the
+religious [[Epic|epic]] that is, in the exact sense, a divine [[Comedy|comedy]].
+[[Dante]] is drawn as a dark and bitter spirit; but in fact he wrote
+the only one of the great epics that really has a happy ending.
+
+The trouble was that the age of the Romantics was the age of
+the Rationalists, or those who thought they were Rationalists.
+Having figured as ruthless realists sweeping all spiritual visions
+like cobwebs out of the sky, they then suddenly became extravagant
+sentimentalists over some of the common or [[Garden|garden]] [[Flowers|flowers]] they found
+growing naturally out of the earth.  Having forbidden all belief
+in the legend of Adam and Eve, they demanded universal and absolute
+belief in the legend of Edwin and Angelina.  They were not content
+with the natural sympathy we all have with such natural feelings;
+they really gave to them the supremacy of [[Supernatural|supernatural]] feelings--
+and (what is the real point) the only [[Supernatural|supernatural]] feelings.
+They did not use the coarse cant of our day; but they did, in fact,
+make Sex the supreme end of life for its own sake--in which they
+were much less sensible than the common or [[Garden|garden]] [[Flowers|flowers]].
+They therefore missed the whole meaning of [[Dante]], which is
+that human [[Love|love]] may indeed be a new life; but the new life
+must be dedicated to a supreme good as much as the old life.
+All other goods are only manifestations of that supreme good, and must
+ultimately be referred to it, as [[Beatrice]] to the Beatific Vision.
+
 There is one comment, in this connexion, which occurred to me
 while reading Mr. Eliot's book.  The Beatific Vision is described
 by [[Dante]] about as [[Well|well]] as it could be described by anybody--
@@ -73,64 +110,3 @@ And there might be a reasonable ease for its being taught,
 were it not for the unfortunate fact that it is being taught tosh.
 Which brings me back, after this parenthesis on the word democracy,
 to the more solemn and sacred subject of quackery.
-
-Quackery is false science; it is everywhere apparent in cheap
-and popular science; and the chief mark of it is that men
-who begin by boasting that they have cast away all dogmas go on
-to be incessantly, impudently, and quite irrationally dogmatic.
-Let any one run his eye over any average newspaper or
-popular magazine, and note the number of positive assertions
-made in the name of popular science, without the least pretence
-of scientific proof, or even of any adequate scientific authority.
-It is all the worse because the dogmas are generally concerned
-with domes tic and very delicate human relations; with heredity
-and home environment; and everything that can be coloured by the
-pompous and pretentious polysyllables of Psychology and Education.
-At least many of the old dogmas, right or wrong, were concerned
-with cherubim and seraphim, with lost spirits and beatified souls;
-but these dogmas always directly attack fathers and wives
-and children, without offering either credentials or evidence.
-The general rule is that nothing must be accepted on any ancient
-or admitted authority, but everything must be accepted on any new or
-nameless authority, or accepted even more eagerly on no authority at all.
-It is quite satisfactory, of course, if any nobody says in any newspaper:
-`Dr. Binns, of Buffalo, has told us that, while aunts may be fond
-of nephews, great-aunts always have an instinctive hatred and aversion
-both for nephews and nieces.'  But it is even more convincing than
-that if the information is anonymous in every way, and the writer
-merely states:  `Recent science has shown that second cousins are
-naturally antagonistic, but that in second cousins once removed,
-the antagonism is sometimes introverted into suicidal mania.'
-Where all these statements come from nobody knows.  Where they
-all go to everybody ought to know, since they go to everybody.
-But it is in practice very difficult to discover what becomes of them,
-and whether they are really treated as wisdom or waste paper.
-On the whole, I fear it is more likely that everybody believes them
-than that anybody takes the trouble to check them.
-
-This evil is wilder in America, but I doubt if it is worse in America.
-It is scattered all over our own Press and public speech, and is all
-the more insidious because it is not so much associated with the
-conspicuous figures of picturesque charlatans and fantastic prophets,
-such as strut in strange plumage about the plains of the West.
-Anyhow, it is scattered so widely both here and there that the difficulty
-is to pick up any adequate example.  For the triviality of one specimen
-does not convey the tremendous and mountainous multitude of specimens.
-Here is one example, however, which I find in a periodical
-of considerable intellectual pretensions, to judge by its title.
-Like most of these professed organs of thought, it is marked
-by a complete incapacity for any precision in thinking.
-But I mention it, not because it is worse than the rest, but because
-it is representative of the rest and all the rest are no better.
-The instructor informs us that there can be between parent and child
-a negative transference (the intense italics arc his), which seems
-to mean, not merely that the child will hate the parent, but that
-the child will love somebody who is the opposite of the hated parent.
-`Thus a [[Child|child]] who is treated coldly by his mother will come
-to reject all people like his mother and seek for her opposite.
-We will say the mother is good, honest, moral, even pious.
-The boy will gravitate to some one crooked, immoral, or even wicked,
-in short, his mother's goodness may send him to the devil,
-though all the [[Time|time]] she may be wondering why her excellent precepts,
-her discipline, her goodness are failing to develop like traits
-in her son.'

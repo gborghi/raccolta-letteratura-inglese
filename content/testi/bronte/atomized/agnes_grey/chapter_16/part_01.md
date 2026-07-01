@@ -1,5 +1,5 @@
 ---
-title: "[[Agnes Grey]] — Chapter 15 (part 1)"
+title: "Agnes Grey — Chapter 15 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/agnes-grey-(bronte)"
@@ -119,12 +119,3 @@ walk.
 “Stupid things!” muttered she, as she came out after having concluded
 her bargain. “Why couldn’t they have their dolt of a brother with them?
 even he would be better than nothing.”
-
-She greeted them, however, with a cheerful smile, and protestations of
-pleasure at the happy meeting equal to their own. They placed
-themselves one on each side of her, and all three walked away chatting
-and laughing as young ladies do when they get together, if they be but
-on tolerably intimate terms. But I, feeling myself to be one too many,
-left them to their merriment and lagged behind, as usual on such
-occasions: I had no relish for walking beside Miss Green or Miss Susan
-like one deaf and dumb, who could neither speak nor be spoken to.

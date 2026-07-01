@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 19 (part 1)"
+title: "The Mystery of Edwin Drood — Chapter 19 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -136,12 +136,3 @@ the piano.
 
 “I will not question you any more, since you object to it so much; I
 will confess—”
-
-“I do not wish to hear you, sir,” cries Rosa, rising.
-
-This [[Time|time]] he does touch her with his outstretched hand. In shrinking
-from it, she shrinks into her seat again.
-
-“We must sometimes act in opposition to our wishes,” he tells her in a
-low voice. “You must do so now, or do more harm to others than you can
-ever set right.”

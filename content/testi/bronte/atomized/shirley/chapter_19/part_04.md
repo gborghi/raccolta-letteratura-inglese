@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 19 (part 4)"
+title: "Shirley — Chapter 19 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,46 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_19/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_19/part_05">part 05 ›</a></div>
 </nav>
 
+
+south. Within the space of three minutes similar signals boomed in the
+
+east and west.
+
+
+
+"I thought we were dead at the first explosion," observed [[Shirley]],
+
+drawing a long breath. "I felt myself hit in the temples, and I
+
+concluded your heart was pierced; but the reiterated voice was an
+
+explanation. Those are signals--it is their way--the attack must be
+
+near. We should have had wings. Our feet have not borne us swiftly
+
+enough."
+
+
+
+A portion of the copse was now to clear. When they emerged from it the
+
+mill lay just below them. They could look down upon the buildings, the
+
+yard; they could see the [[Road|road]] beyond. And the first glance in that
+
+direction told [[Shirley]] she was right in her conjecture. They were
+
+already too late to give warning. It had taken more [[Time|time]] than they
+
+calculated on to overcome the various obstacles which embarrassed the
+
+short cut across the fields.
+
+
+
+The [[Road|road]], which should have been white, was dark with a moving mass. The
+
+rioters were assembled in front of the closed yard gates, and a single
 
 figure stood within, apparently addressing them. The mill itself was
 
@@ -231,55 +271,3 @@ bunglers--no cravens----"
 A crash--smash--shiver--stopped their whispers. A simultaneously hurled
 
 volley of stones had saluted the broad front of the mill, with all its
-
-windows; and now every pane of every lattice lay in shattered and
-
-pounded fragments. A yell followed this demonstration--a rioters'
-
-yell--a north-of-England, a Yorkshire, a West-Riding, a
-
-West-Riding-clothing-district-of-Yorkshire rioters' yell.
-
-
-
-You never heard that sound, perhaps, reader? So much the better for your
-
-ears--perhaps for your heart, since, if it rends the air in hate to
-
-yourself, or to the men or principles you approve, the interests to
-
-which you wish [[Well|well]], wrath wakens to the cry of hate; the [[Lion|lion]] shakes
-
-his mane, and rises to the howl of the hyena; caste stands up, ireful
-
-against caste; and the indignant, wronged spirit of the middle rank
-
-bears down in zeal and scorn on the famished and furious mass of the
-
-operative class. It is difficult to be tolerant, difficult to be just,
-
-in such moments.
-
-
-
-Caroline [[Rose|rose]]; [[Shirley]] put her arm round her: they stood together as
-
-still as the straight stems of two trees. That yell was a long one, and
-
-when it ceased the [[Night|night]] was yet full of the swaying and murmuring of a
-
-crowd.
-
-
-
-"What next?" was the question of the listeners. Nothing came yet. The
-
-mill remained mute as a mausoleum.
-
-
-
-"He _cannot_ be [[Alone|alone]]!" whispered Caroline.
-
-
-
-"I would stake all I have that he is as little [[Alone|alone]] as he is alarmed,"

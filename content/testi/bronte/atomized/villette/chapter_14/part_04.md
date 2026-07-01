@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 14 (part 4)"
+title: "Villette — Chapter 14 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_14/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_14/part_05">part 05 ›</a></div>
 </nav>
 
+
+“But how, M. Paul? What do you mean?”
+
+“There is no [[Time|time]] to be lost,” he went on, now speaking in French; “and
+let us thrust to the wall all reluctance, all excuses, all minauderies.
+You must take a part.”
 
 “In the vaudeville?”
 
@@ -113,25 +119,3 @@ secure from human audience, I acted my part before the garret-vermin.
 Entering into its emptiness, frivolity, and falsehood, with a spirit
 inspired by scorn and impatience, I took my [[Revenge|revenge]] on this “fat,” by
 making him as fatuitous as I possibly could.
-
-In this exercise the afternoon passed: day began to glide into evening;
-and I, who had eaten nothing since breakfast, grew excessively hungry.
-Now I thought of the collation, which doubtless they were just then
-devouring in the [[Garden|garden]] far below. (I had seen in the vestibule a
-basketful of small _pâtés à la crême_, than which nothing in the whole
-range of cookery seemed to me better). A _pâté_, or a square of cake,
-it seemed to me would come very _àpropos;_ and as my relish for those
-dainties increased, it began to appear somewhat hard that I should pass
-my holiday, fasting and in [[Prison|prison]]. Remote as was the attic from the
-street-door and vestibule, yet the ever-tinkling bell was faintly
-audible here; and also the ceaseless roll of wheels, on the tormented
-pavement. I knew that the [[house]] and [[Garden|garden]] were thronged, and that all
-was gay and glad below; here it began to grow dusk: the beetles were
-fading from my sight; I trembled lest they should steal on me a march,
-mount my throne unseen, and, unsuspected, invade my skirts. Impatient
-and apprehensive, I recommenced the rehearsal of my part merely to kill
-[[Time|time]]. Just as I was concluding, the long-delayed rattle of the key in
-the lock came to my ear—no unwelcome sound. M. Paul (I could just see
-through the dusk that it _was_ M. Paul, for light enough still lingered
-to show the velvet blackness of his close-shorn head, and the sallow
-ivory of his brow) looked in.

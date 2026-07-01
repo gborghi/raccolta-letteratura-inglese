@@ -1,5 +1,5 @@
 ---
-title: "[[Emma]] — Chapter 13"
+title: "Emma — Chapter 13"
 author: "Austen"
 unitType: chapter
 parentWork: "works/emma-(austen)"

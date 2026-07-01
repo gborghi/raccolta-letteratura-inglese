@@ -105,10 +105,3 @@ millionaire to compute. He expresses the celestial [[Time|time]] when a man
 does not think about heaven, but about a parasol. And therefore he is,
 first, the greatest of [[Love|love]] poets, and, secondly, the only optimistic
 philosopher except Whitman.
-
-The general accusation against Browning in connection with his use of
-the [[Grotesque|grotesque]] comes in very definitely here; for in using these homely
-and practical images, these allusions, bordering on what many would
-call the commonplace, he was indeed true to the actual and abiding
-spirit of [[Love|love]]. In that delightful poem "Youth and Art" we have the
-singing girl saying to her old [[Lover|lover]]--

@@ -14,6 +14,12 @@ tags:
 </nav>
 
 
+‘Yah!’ cried the [[Dwarf|dwarf]].  ‘Never thinking of anybody but yourself--why
+don’t you retrench then--scrape up, hoard, economise, eh?’
+
+‘Why, sir,’ replied Brass, ‘upon my word I think Sarah’s as good an
+economiser as any going.  I do indeed, Mr Quilp.’
+
 ‘Moisten your clay, wet the other eye, drink, man!’ cried the [[Dwarf|dwarf]].
 ‘You took a clerk to oblige me.’
 

@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 43 (part 2)"
+title: "Oliver Twist — Chapter 43 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_43/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_43/part_03">part 03 ›</a></div>
 </nav>
 
+
+“It’s all up, [[Fagin]],” said Charley, when he and his new companion had
+been made known to each other.
+
+“What do you mean?”
+
+“They’ve found the gentleman as owns the box; two or three more’s a
+coming to ’dentify him; and the Artful’s booked for a passage out,”
+replied Master Bates. “I must have a full suit of mourning, [[Fagin]], and
+a hatband, to wisit him in, afore he sets out upon his travels. To
+think of Jack Dawkins—lummy Jack—the Dodger—the [[Artful Dodger]]—going
+abroad for a common twopenny-halfpenny sneeze-box! I never thought he’d
+a done it under a gold watch, chain, and seals, at the lowest. Oh, why
+didn’t he rob some rich old gentleman of all his walables, and go out
+as a gentleman, and not like a common prig, without no [[Honour|honour]] nor
+glory!”
 
 With this expression of feeling for his unfortunate friend, Master
 Bates sat himself on the nearest chair with an aspect of chagrin and
@@ -135,16 +151,3 @@ having resorted to it for shelter; and that, if he were properly
 disguised, it would be as safe a spot for him to visit as any in
 [[London]], inasmuch as it would be, of all places, the very last, to which
 he could be supposed likely to resort of his own free will.
-
-Persuaded, in part, by these representations, but overborne in a much
-greater degree by his [[Fear|fear]] of [[Fagin]], Mr. Bolter at length consented,
-with a very bad grace, to undertake the expedition. By [[Fagin]]’s
-directions, he immediately substituted for his own attire, a waggoner’s
-frock, velveteen breeches, and leather leggings: all of which articles
-the Jew had at hand. He was likewise furnished with a felt hat [[Well|well]]
-garnished with turnpike tickets; and a carter’s whip. Thus equipped, he
-was to saunter into the office, as some country fellow from Covent
-[[Garden]] market might be supposed to do for the gratification of his
-curiousity; and as he was as awkward, ungainly, and raw-boned a fellow
-as need be, Mr. [[Fagin]] had no [[Fear|fear]] but that he would look the part to
-perfection.

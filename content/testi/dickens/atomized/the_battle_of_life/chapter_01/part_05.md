@@ -14,6 +14,15 @@ tags:
 </nav>
 
 
+‘Meat?’ said Britain, approaching Mr. Snitchey, with the carving knife
+and fork in his hands, and throwing the question at him like a missile.
+
+‘Certainly,’ returned the lawyer.
+
+‘Do _you_ want any?’ to Craggs.
+
+‘Lean and [[Well|well]] done,’ replied that gentleman.
+
 Having executed these orders, and moderately supplied the Doctor (he
 seemed to know that nobody else wanted anything to eat), he lingered as
 near the Firm as he decently could, watching with an austere eye their

@@ -63,7 +63,7 @@ might have carried the title:  An Englishman Looks at England.
 
 The first fact about this first phase is that the patriotism
 of Cobbett was the passionate patriotism of the [[Exile|exile]].
-He went to [[america|America]] while he was still quite young; so that even
+He went to [[America]] while he was still quite young; so that even
 his memories of England were almost memories of [[Childhood|childhood]].
 They had not only the glamour of distance, but the glamour of
 which Wordsworth wrote, the glory and the freshness of [[A Dream|a dream]].
@@ -75,7 +75,7 @@ islands to the modern Atlantis are at one in having that homing
 [[Imagination|imagination]] that wings its way backward into the sunrise.
 Greatly as they have disagreed among themselves, they all agree
 in that.  Perhaps the one rallying point for all Britons
-is that their [[songs]] in [[america|America]] have been [[songs]] of [[Exile|exile]].
+is that their [[songs]] in [[America]] have been [[songs]] of [[Exile|exile]].
 The most familiar of them represents the Irishman with his bundle
 bound for Philadelphia, or the Englishman whistling `Falmouth
 is a fine town' as he walks down the street of Baltimore,
@@ -83,7 +83,7 @@ or the Scotsman rising to that high note not unworthy of
 the waters of Babylon.
 
   But still our hearts are true, our hearts are Highland,
-  And we in [[Dreams|dreams]] behold the Hebrides.
+  And we in dreams behold the Hebrides.
 
 So strong is such a tradition that later generations will dream
 of what they have never seen.  The nationalism is most intense where
@@ -93,20 +93,20 @@ The loves and hatreds harden in that hard air under those clear
 skies of the western world.  They are unsoftened by all
 internal doubts and criticisms that; from being on the spot.
 But with Cobbett this ignorance of interior details combined
-with the memories of one who had from [[Childhood|childhood]] an eye
+with the memories of one who had from childhood an eye
 for detail, especially for the details of fields and skies.
 He remembered England as a great green nursery; and felt
-as homesick in [[america|America]] as a boy sent to a big, bare, strange,
+as homesick in America as a boy sent to a big, bare, strange,
 uncomfortable boarding school.
 
 Nowhere in the world does an Englishman feel so much a stranger
-as in [[america|America]].  He does not necessarily dislike [[america|America]],
+as in America.  He does not necessarily dislike America,
 and Cobbett himself came to like it in the long run.
 He simply feels it is a stranger place than France or Flanders
-or [[Italy]]; that it is really the other side of the world
-like the other side of the [[Moon|moon]].  But if an Englishman still
+or Italy; that it is really the other side of the world
+like the other side of the moon.  But if an Englishman still
 feels like this, in spite of the hypnotism of the talk about
-an Anglo-Saxon race and the [[Hope|hope]] of an Anglo-American alliance,
+an Anglo-Saxon race and the hope of an Anglo-American alliance,
 it was immeasurably more so when Cobbett landed in what had
 quite recently been enemy territory.  He met not only an alien
 atmosphere but a blast of hatred against England.
@@ -115,13 +115,13 @@ There were indeed some Americans who sympathised with
 England as compared with France.  They were those grouped
 around Hamilton, who being avowedly anti-popular in his
 politics was not likely to be very popular in his personality.
-They counted a certain number of [[New England]] Puritans; for almost
-the only real resemblance between [[New England]] and Old England
+They counted a certain number of New England Puritans; for almost
+the only real resemblance between New England and Old England
 was that neither of them could make head or tail of France.
 But though historians divide American opinion into the French
 party and the English party, I suspect that the atmosphere
 of popular sympathy was far more French than English.
-The whole [[Romance|romance]] of [[america|America]] consisted of rebellion against England;
+The whole romance of America consisted of rebellion against England;
 except that part of it that consisted of rescue by France.
 Nobody who knows what popular legends are like could expect the
 princess suddenly to take the side of the dragon against St. George.
@@ -132,8 +132,8 @@ authorities and create a new nationality there must be the sort
 of impatient simplicity that sees characters in black and white;
 and few men at that moment could persuade a real American
 mob that England was not so black as she was painted.
-Moreover, the men of that age did not talk about racial [[unity]];
-and they were bound to France by something like a religious [[unity]].
+Moreover, the men of that age did not talk about racial unity;
+and they were bound to France by something like a religious unity.
 To leave out the definite democratic creed in judging Jefferson and his
 contemporaries is exactly like leaving Mahomedanism out of Mahomet.
 England did not believe in that democratic creed; and, being honest

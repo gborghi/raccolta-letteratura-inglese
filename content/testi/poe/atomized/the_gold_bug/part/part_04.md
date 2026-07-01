@@ -1,5 +1,5 @@
 ---
-title: "[[The Gold-Bug]] (part 4)"
+title: "The Gold-Bug (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-gold-bug-(poe)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_gold_bug/part/part_03">‹ part 03</a><a class="ex-next" href="/testi/poe/atomized/the_gold_bug/part/part_05">part 05 ›</a></div>
 </nav>
 
+
+      into the boat and made sail. With a fair and strong breeze we
+
+      soon ran into the little cove to the northward of Fort Moultrie,
+
+      and a walk of some two miles brought us to the hut. It was about
+
+      three in the afternoon when we arrived. Legrand had been awaiting
+
+      us in eager expectation. He grasped my hand with a nervous
+
+      empressement which alarmed me and strengthened the suspicions
+
+      already entertained. His countenance was pale even to
 
       ghastliness, and his deep-set eyes glared with unnatural lustre.
 
@@ -227,25 +241,3 @@ tags:
       energetic measures with a chance of [[success]]. In the mean [[Time|time]] I
 
       endeavored, but all in vain, to sound him in regard to the object
-
-      of the expedition. Having succeeded in inducing me to accompany
-
-      him, he seemed unwilling to hold conversation upon any topic of
-
-      minor importance, and to all my questions vouchsafed no other
-
-      reply than “we shall see!”
-
-
-
-      We crossed the creek at the head of the island by means of a
-
-      skiff, and, ascending the high grounds on the shore of the main
-
-      land, proceeded in a northwesterly direction, through a tract of
-
-      country excessively wild and desolate, where no trace of a human
-
-      footstep was to be seen. Legrand led the way with decision;
-
-      pausing only for an instant, here and there, to consult what

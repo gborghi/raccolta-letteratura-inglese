@@ -1,5 +1,5 @@
 ---
-title: "[[history]] — Chapter 2 (part 2)"
+title: "history — Chapter 2 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/history-(chesterton)"
@@ -110,16 +110,3 @@ from the view that they will best broaden their minds by the study
 of Wagga-Wagga and Timbuctoo.  It is therefore necessary,
 though very difficult, to frame in few words some idea of what
 happened to the whole European race.
-
-Rome itself, which had made all that strong world, was the weakest
-thing in it.  The centre had been growing fainter and fainter,
-and now the centre disappeared.  Rome had as much freed the world
-as ruled it, and now she could rule no more.  Save for the presence
-of the Pope and his constantly increasing [[Supernatural|supernatural]] prestige,
-the eternal [[City|city]] became like one of her own provincial towns.  A loose
-localism was the result rather than any conscious intellectual [[unity]].
-There was anarchy, but there was no rebellion.  For rebellion must
-have a principle, and therefore (for those who can think) an authority.
-Gibbon called his great pageant of prose "The Decline and Fall
-of the Roman Empire."  The Empire did decline, but it did not fall.
-It remains to this hour.

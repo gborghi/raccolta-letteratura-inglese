@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 23 (part 5)"
+title: "Bleak House — Chapter 23 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,30 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_23/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_23/part_06">part 06 ›</a></div>
 </nav>
 
+
+They were overpowered afresh by his uncommon generosity.
+
+“My son,” said Mr. Turveydrop, “for those little points in which you
+are deficient—points of deportment, which are born with a man, which
+may be improved by cultivation, but can never be originated—you may
+still rely on me. I have been faithful to my post since the days of
+his Royal Highness the Prince Regent, and I will not [[Desert|desert]] it now.
+No, my son. If you have ever contemplated your father’s poor position
+with a feeling of [[Pride|pride]], you may rest assured that he will do nothing
+to tarnish it. For yourself, Prince, whose character is different (we
+cannot be all alike, nor is it advisable that we should), work, be
+industrious, earn money, and extend the connexion as much as
+possible.”
+
+“That you may depend I will do, dear father, with all my heart,”
+replied Prince.
+
+“I have no [[Doubt|doubt]] of it,” said Mr. Turveydrop. “Your qualities are not
+shining, my dear [[Child|child]], but they are steady and useful. And to both
+of you, my children, I would merely observe, in the spirit of a
+sainted wooman on whose path I had the happiness of casting, I
+believe, SOME ray of light, take care of the establishment, take care
+of my simple wants, and bless you both!”
 
 Old Mr. Turveydrop then became so very gallant, in [[Honour|honour]] of the
 occasion, that I told Caddy we must really go to Thavies Inn at once
@@ -116,37 +140,3 @@ to tell me some nonsense.”
 Caddy untied the strings of her bonnet, took her bonnet off, and
 letting it dangle on the floor by the strings, and crying heartily,
 said, “Ma, I am engaged.”
-
-“Oh, you ridiculous [[Child|child]]!” observed Mrs. Jellyby with an abstracted
-air as she looked over the dispatch last opened; “what a goose you
-are!”
-
-“I am engaged, Ma,” sobbed Caddy, “to young Mr. Turveydrop, at the
-academy; and old Mr. Turveydrop (who is a very gentlemanly man
-indeed) has given his consent, and I beg and pray you’ll give us
-yours, Ma, because I never could be happy without it. I never, never
-could!” sobbed Caddy, quite forgetful of her general complainings and
-of everything but her natural affection.
-
-“You see again, Miss Summerson,” observed Mrs. Jellyby serenely,
-“what a happiness it is to be so much occupied as I am and to have
-this necessity for [[Self|self]]-concentration that I have. Here is Caddy
-engaged to a dancing-master’s son—mixed up with people who have no
-more sympathy with the destinies of the human race than she has
-herself! This, too, when Mr. Quale, one of the first philanthropists
-of our [[Time|time]], has mentioned to me that he was really disposed to be
-interested in her!”
-
-“Ma, I always hated and detested Mr. Quale!” sobbed Caddy.
-
-“Caddy, Caddy!” returned Mrs. Jellyby, opening another letter with
-the greatest complacency. “I have no [[Doubt|doubt]] you did. How could you do
-otherwise, being totally destitute of the sympathies with which he
-overflows! Now, if my public duties were not a favourite [[Child|child]] to me,
-if I were not occupied with large measures on a vast scale, these
-petty details might grieve me very much, Miss Summerson. But can I
-permit the film of a silly proceeding on the part of Caddy (from whom
-I expect nothing else) to interpose between me and the great African
-continent? No. No,” repeated Mrs. Jellyby in a calm clear voice, and
-with an agreeable smile, as she opened more letters and sorted them.
-“No, indeed.”

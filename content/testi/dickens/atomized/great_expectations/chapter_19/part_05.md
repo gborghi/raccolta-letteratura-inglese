@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 19 (part 5)"
+title: "Great Expectations — Chapter 19 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_19/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_20/part_01">part 01 ›</a></div>
 </nav>
 
+
+She quite gloated on these questions and answers, so keen was her
+enjoyment of Sarah Pocket’s jealous dismay. “[[Well]]!” she went on; “you
+have a promising career before you. Be good—deserve it—and abide by Mr.
+Jaggers’s instructions.” She looked at me, and looked at Sarah, and
+Sarah’s countenance wrung out of her watchful face a cruel smile.
+“Good-bye, Pip!—you will always keep the name of Pip, you know.”
 
 “Yes, [[Miss Havisham]].”
 

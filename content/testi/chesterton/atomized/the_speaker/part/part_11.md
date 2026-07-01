@@ -14,6 +14,18 @@ tags:
 </nav>
 
 
+Since the appearance, or appearances, of Ad Astra, Mr. Wynne has
+published a volume of lyrics.  Of these we will quite only one poem,
+and that a short one:-
+
+  "[[Home]] returning in a shower
+  Found that I was smiling,
+  Just the very [[Time|time]] and hour
+  Most men would be riling.
+  Thus, though [[Nature]] prove unkind,
+  Only a poetic mind
+  Can laugh without reviling."
+
 That is all.  It will be noticed that Mr. Wynne is not ill
 satisfied with himself, despite the strange modesty which leads
 him to deprive the second line of a nominative personal pronoun.

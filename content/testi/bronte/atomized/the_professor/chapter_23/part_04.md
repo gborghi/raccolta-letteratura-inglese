@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 22 (part 4)"
+title: "The Professor — Chapter 22 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -14,9 +14,21 @@ tags:
 </nav>
 
 
+“Crimsworth Hall is sold,” said he.
+
+“Sold!” was my echo.
+
+“Yes; you know, of course, that your brother failed three months ago?”
+
+“What! [[Edward Crimsworth]]?”
+
+“Precisely; and his wife went [[Home|home]] to her father’s; when affairs went
+
+awry, his temper sympathized with them; he used her ill; I told you he
+
+would be a [[Tyrant|tyrant]] to her some day; as to him--”
+
 “Ay, as to him--what is become of him?”
-
-
 
 “Nothing extraordinary--don’t be alarmed; he put himself under the
 
@@ -26,41 +38,25 @@ the pound; in six weeks set up again, coaxed back his wife, and is
 
 flourishing like a green bay-tree.”
 
-
-
 “And Crimsworth Hall--was the furniture sold too?”
-
-
 
 “Everything--from the grand piano down to the [[rolling]]-pin.”
 
-
-
 “And the contents of the oak dining-room--were they sold?”
-
-
 
 “Of course; why should the sofas and chairs of that room be held more
 
 sacred than those of any other?”
 
-
-
 “And the pictures?”
-
-
 
 “What pictures? Crimsworth had no special collection that I know of--he
 
 did not profess to be an amateur.”
 
-
-
 “There were two portraits, one on each side the mantelpiece; you cannot
 
 have forgotten them, Mr. Hunsden; you once noticed that of the lady--”
-
-
 
 “Oh, I know! the thin-faced gentlewoman with a shawl put on like
 
@@ -72,15 +68,11 @@ you said it represented your mother: you see what it is to be without a
 
 sou.”
 
-
-
 I did. “But surely,” I thought to myself, “I shall not always be so
 
 [[Poverty|poverty]]-stricken; I may one day buy it back yet.--Who purchased it? do
 
 you know?” I asked.
-
-
 
 “How is it likely? I never inquired who purchased anything; there spoke
 
@@ -96,8 +88,6 @@ and see you again; I [[Wonder|wonder]] whether you’ll be still out of place!�
 
 laughing, vanished.
 
-
-
 Some people, however indifferent they may become after a considerable
 
 space of absence, always contrive to leave a pleasant impression just
@@ -109,8 +99,6 @@ draught of Peruvian bark; it seemed a concentration of the specially
 harsh, stringent, bitter; whether, like bark, it invigorated, I scarcely
 
 knew.
-
-
 
 A ruffled mind makes a restless pillow; I slept little on the [[Night|night]]
 
@@ -142,17 +130,11 @@ had doubtless shoved it forward, but seeing no occupant of the room, had
 
 left it at the entrance.
 
-
-
 “That is none of mine,” thought I, approaching; “it must be meant for
 
 somebody else.” I stooped to examine the address:--
 
-
-
 “Wm. Crimsworth, Esq., No --, -- St., Brussels.”
-
-
 
 I was puzzled, but concluding that the best way to obtain information
 
@@ -210,8 +192,6 @@ the care of its natural keeper?” I took the note from its niche; thus it
 
 spoke:--
 
-
-
 “There is a sort of stupid pleasure in giving a [[Child|child]] sweets, a [[Fool|fool]] his
 
 [[Bells|bells]], a dog a bone. You are repaid by seeing the [[Child|child]] besmear his face
@@ -219,25 +199,3 @@ spoke:--
 with sugar; by witnessing how the [[Fool|fool]]’s ecstasy makes a greater [[Fool|fool]] of
 
 him than ever; by watching the dog’s [[Nature|nature]] come out over his bone.
-
-In giving [[William Crimsworth]] his mother’s picture, I give him sweets,
-
-[[Bells|bells]], and bone all in one; what grieves me is, that I cannot behold
-
-the result; I would have added five shillings more to my bid if the
-
-auctioneer could only have promised me that pleasure.
-
-
-
-“H. Y. H.
-
-
-
-“P.S.--You said last [[Night|night]] you positively declined adding another item
-
-to your account with me; don’t you think I’ve saved you that trouble?”
-
-
-
-I muffled the picture in its green baize covering, restored it to the

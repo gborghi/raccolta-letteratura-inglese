@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 12: LIKING LIFE ON MY OWN ACCOUNT NO BETTER, I FORM A GREAT"
+title: "David Copperfield — Chapter 12: LIKING LIFE ON MY OWN ACCOUNT NO BETTER, I FORM A GREAT"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/david-copperfield-(dickens)"

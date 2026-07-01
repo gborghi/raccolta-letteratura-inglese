@@ -1,5 +1,5 @@
 ---
-title: "Measure for Measure — Act V, Scene 1 — exchange ([[Isabella|ISABELLA]]) [3]"
+title: "Measure for Measure — Act V, Scene 1 — exchange (ISABELLA) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/measure-for-measure-(shakespeare)"

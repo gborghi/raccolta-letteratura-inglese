@@ -1,5 +1,5 @@
 ---
-title: "[[A Descent Into the Maelstrom]]"
+title: "A Descent Into the Maelstrom"
 author: "Poe"
 unitType: work
 parentWork: "works/a-descent-into-the-maelstrom-(poe)"

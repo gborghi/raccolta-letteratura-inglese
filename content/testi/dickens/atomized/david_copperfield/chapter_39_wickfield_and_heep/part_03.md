@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 39: WICKFIELD AND HEEP (part 3)"
+title: "David Copperfield — Chapter 39: WICKFIELD AND HEEP (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -145,7 +145,3 @@ her face.
 be! Or if the two Miss Spenlows (elderly ladies of that sort are odd
 characters sometimes) should not be likely persons to address in that
 way!’
-
-‘I don’t think, Trotwood,’ returned Agnes, raising her soft eyes
-to mine, ‘I would consider that. Perhaps it would be better only to
-consider whether it is right to do this; and, if it is, to do it.’

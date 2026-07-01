@@ -35,19 +35,19 @@ admittedly more interested in the Latin of Plautus than in the Latin
 of Augustine, in the Greek of Xenophon than in the Greek of Chrysostom.
 It was precisely because he was more interested in a dead tradition
 than in a decidedly living tradition.  In short, it was precisely
-because he was himself a type of the [[Time|time]] in which Christian [[Faith|faith]]
+because he was himself a type of the time in which Christian faith
 was weak.  It was not because men would not hail, if they could,
 the wonderful and almost wild vision of a Doctor of Divinity.
 
-There are people who say they wish [[Christianity]] to remain as a spirit.
-They mean, very literally, that they wish it to remain as a [[Ghost|ghost]].
-But it is not going to remain as a [[Ghost|ghost]].  What follows this
-process of apparent [[Death|death]] is not the lingerings of the shade;
-it is the [[Resurrection|resurrection]] of the [[Body|body]].  These people are quite prepared
-to shed pious and reverential [[Tears|tears]] over the Sepulchre of the Son of Man;
+There are people who say they wish Christianity to remain as a spirit.
+They mean, very literally, that they wish it to remain as a ghost.
+But it is not going to remain as a ghost.  What follows this
+process of apparent death is not the lingerings of the shade;
+it is the resurrection of the body.  These people are quite prepared
+to shed pious and reverential tears over the Sepulchre of the Son of Man;
 what they are not prepared for is the Son of God walking once more
 upon the hills of morning.  These people, and indeed most people,
-were indeed by this [[Time|time]] quite accustomed to the idea that the old
+were indeed by this time quite accustomed to the idea that the old
 Christian candle-light would fade into the light of common day.
 To many of them it did quite honestly appear like that pale
 yellow flame of a candle when it is left burning in daylight.
@@ -55,7 +55,7 @@ It was all the more unexpected, and therefore all the more unmistakable,
 that the seven branched candle-stick suddenly towered to heaven
 like a miraculous tree and flamed until the sun turned pale.
 But other ages have seen the day conquer the candle-light and then
-the candle-light conquer the day.  Again and again, before our [[Time|time]],
+the candle-light conquer the day.  Again and again, before our time,
 men have grown content with a diluted doctrine.  And again and again
 there has followed on that dilution, coming as out of the darkness
 in a crimson cataract, the strength of the red original wine.

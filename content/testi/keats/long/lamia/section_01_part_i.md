@@ -1,5 +1,5 @@
 ---
-title: "[[Lamia]] — Part I"
+title: "Lamia — Part I"
 author: "Keats"
 unitType: section
 parentWork: "works/lamia-(keats)"

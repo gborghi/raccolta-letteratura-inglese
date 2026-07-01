@@ -17,7 +17,7 @@ tags:
 That we may have no partial evidence from abolitionists in this inquiry,
 either, I will once more turn to their own newspapers, and I will confine
 myself, this [[Time|time]], to a selection from paragraphs which appeared from day
-to day, during my visit to [[America]], and which refer to occurrences
+to day, during my visit to [[america|America]], and which refer to occurrences
 happening while I was there.  The italics in these extracts, as in the
 foregoing, are my own.
 

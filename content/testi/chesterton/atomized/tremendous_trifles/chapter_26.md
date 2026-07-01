@@ -140,7 +140,7 @@ perhaps I saw them wrongly under that ashen morning and on
 that foolish errand.
 
 It was one of those days which more than once this year broke
-the retreat of [[Winter|winter]]; a [[Winter|winter]] day that began too late to be [[Spring|spring]].
+the retreat of [[Winter|winter]]; a [[Winter|winter]] day that began too late to be [[spring]].
 We were already clear of the obstructing crowds and quickening our pace
 through a borderland of market gardens and isolated public-houses,
 when the grey showed golden patches and a good light began

@@ -130,9 +130,3 @@ places afar off, and rest, and peace.  The [[Child|child]] thought, more than
 once that he was moved: and had forborne to speak.  But now he shed
 [[Tears|tears]]--[[Tears|tears]] that it lightened her aching heart to see--and making as
 though he would fall upon his knees, besought her to forgive him.
-
-‘Forgive you--what?’ said Nell, interposing to prevent his purpose.
-‘Oh grandfather, what should I forgive?’
-
-‘All that is past, all that has come upon thee, Nell, all that was done
-in that uneasy dream,’ returned the old man.

@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 31"
+title: "Wuthering Heights — Chapter 31"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/wuthering-heights-(bronte)"

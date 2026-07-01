@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 4 (part 2)"
+title: "Jane Eyre — Chapter 4 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -116,8 +116,3 @@ _He_, for it was a man, turned his head slowly towards where I stood,
 and having examined me with the two inquisitive-looking grey eyes which
 twinkled under a pair of bushy brows, said solemnly, and in a bass
 voice, “Her size is small: what is her age?”
-
-“Ten years.”
-
-“So much?” was the doubtful answer; and he prolonged his scrutiny for
-some minutes. Presently he addressed me—“Your name, little girl?”

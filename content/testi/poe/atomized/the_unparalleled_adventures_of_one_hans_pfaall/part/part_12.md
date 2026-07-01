@@ -1,5 +1,5 @@
 ---
-title: "[[The Unparalleled Adventures of one Hans Pfaall]] (part 12)"
+title: "The Unparalleled Adventures of one Hans Pfaall (part 12)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-unparalleled-adventures-of-one-hans-pfaall-(poe)"
@@ -13,6 +13,54 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/part/part_11">‹ part 11</a><a class="ex-next" href="/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/part/part_13">part 13 ›</a></div>
 </nav>
 
+
+      outside of the ropes, to the upper rim or hoop where the net-work
+
+      is attached. Having pulled the bag up in this way, and formed a
+
+      complete enclosure on all sides, and at [[Bottom|bottom]], it was now
+
+      necessary to fasten up its top or mouth, by passing its material
+
+      over the hoop of the net-work—in other words, between the
+
+      net-work and the hoop. But if the net-work were separated from
+
+      the hoop to admit this passage, what was to sustain the car in
+
+      the meantime? Now the net-work was not permanently fastened to
+
+      the hoop, but attached by a series of running loops or nooses. I
+
+      therefore undid only a few of these loops at one [[Time|time]], leaving
+
+      the car suspended by the remainder. Having thus inserted a
+
+      portion of the cloth forming the upper part of the bag, I
+
+      refastened the loops—not to the hoop, for that would have been
+
+      impossible, since the cloth now intervened—but to a series of
+
+      large buttons, affixed to the cloth itself, about three feet
+
+      below the mouth of the bag, the intervals between the buttons
+
+      having been made to correspond to the intervals between the
+
+      loops. This done, a few more of the loops were unfastened from
+
+      the rim, a farther portion of the cloth introduced, and the
+
+      disengaged loops then connected with their proper buttons. In
+
+      this way it was possible to insert the whole upper part of the
+
+      bag between the net-work and the hoop. It is evident that the
+
+      hoop would now drop down within the car, while the whole weight
+
+      of the car itself, with all its contents, would be held up merely
 
       by the strength of the buttons. This, at first sight, would seem
 
@@ -141,59 +189,3 @@ tags:
       endured the most terrible distress from difficulty of
 
       respiration, and bitterly did I repent the negligence or rather
-
-      [[Fool|fool]]-hardiness, of which I had been guilty, of putting off to the
-
-      last moment a matter of so much importance. But having at length
-
-      accomplished it, I soon began to reap the benefit of my
-
-      invention. Once again I breathed with perfect [[Freedom|freedom]] and
-
-      ease—and indeed why should I not? I was also agreeably surprised
-
-      to find myself, in a great measure, relieved from the violent
-
-      pains which had hitherto tormented me. A slight headache,
-
-      accompanied with a sensation of fulness or distention about the
-
-      wrists, the ankles, and the throat, was nearly all of which I had
-
-      now to complain. Thus it seemed evident that a greater part of
-
-      the uneasiness attending the removal of atmospheric pressure had
-
-      actually worn off, as I had expected, and that much of the [[Pain|pain]]
-
-      endured for the last two hours should have been attributed
-
-      altogether to the effects of a deficient respiration.
-
-
-
-      “At twenty minutes before nine o’[[Clock|clock]]—that is to say, a short
-
-      [[Time|time]] prior to my closing up the mouth of the chamber, the mercury
-
-      attained its limit, or ran down, in the barometer, which, as I
-
-      mentioned before, was one of an extended construction. It then
-
-      indicated an altitude on my part of 132,000 feet, or
-
-      five-and-twenty miles, and I consequently surveyed at that [[Time|time]]
-
-      an extent of the earth’s area amounting to no less than the three
-
-      hundred-and-twentieth part of its entire superficies. At nine
-
-      o’[[Clock|clock]] I had again lost sight of land to the eastward, but not
-
-      before I became aware that the balloon was drifting rapidly to
-
-      the N. N. W. The convexity of the ocean beneath me was very
-
-      evident indeed, although my view was often interrupted by the
-
-      masses of cloud which floated to and fro. I observed now that

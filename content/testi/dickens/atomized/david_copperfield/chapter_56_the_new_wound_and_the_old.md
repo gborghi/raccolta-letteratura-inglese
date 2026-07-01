@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 56: THE NEW WOUND, AND THE OLD"
+title: "David Copperfield — Chapter 56: THE NEW WOUND, AND THE OLD"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/david-copperfield-(dickens)"

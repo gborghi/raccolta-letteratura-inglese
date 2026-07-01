@@ -1,5 +1,5 @@
 ---
-title: "[[TheCrimesOfEngland]] — Chapter 10 (part 2)"
+title: "TheCrimesOfEngland — Chapter 10 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thecrimesofengland-(chesterton)"
@@ -14,11 +14,15 @@ tags:
 </nav>
 
 
+opinion. Scarborough might be a fortress; but it is not. I happen to
+
+know it is not. Mr. Morel may deserve to be universally admired in
+
+England; but he is not universally admired in England. Tell the Russians
+
 that he is by all means; but do not tell us. We have seen him; we have
 
 also seen Scarborough. You should think of this before you speak.
-
-
 
 Third, don't perpetually boast that you are cultured in language which
 
@@ -112,8 +116,6 @@ criticism. In [[Time|time]] you might come to use whole sentences without
 
 revealing the real state of things.
 
-
-
 Through neglect of these maxims, my dear Professor, every one of your
 
 attacks upon England has gone wide. In pure fact they have not touched
@@ -177,17 +179,3 @@ the Inner Circle, knows that there were men in the governing class and
 in the Cabinet who were literally thirsting to defend [[Germany]] until
 
 [[Germany]], by her own act, became indefensible. If they said nothing in
-
-support of the tearing up of the promise of peace to Belgium, it is
-
-simply because there was nothing to be said.
-
-
-
-You were the first people to talk about World-Politics; and the first
-
-people to disregard them altogether. Even your foreign policy is
-
-domestic policy. It does not even apply to any people who are not
-
-Germans; and of your wild guesses about some twenty other peoples, not

@@ -14,6 +14,48 @@ tags:
 </nav>
 
 
+In other words, we have here the curiosity of religious [[history]] that the
+savage seems to be parading all the most repulsive and impossible parts
+of his belief and concealing all the most sensible and creditable parts.
+But the explanation is that they are not in that sense parts
+of his belief, or at least not parts of the same sort of belief.
+The myths are merely tall stories, though as tall as the sky,
+the [[Water|water]] spout, or the tropic rain.  The mysteries are true stories,
+and are taken secretly that they may be taken seriously.
+Indeed it is only too easy to forget that there is a thrill in theism.
+A [[Novel|novel]] in which a number of separate characters all turned out
+to be the same character would certainly be a sensational [[Novel|novel]].
+It is so with the idea that sun and tree and [[River|river]] are the disguises
+of one god and not of many.  Alas, we also find it only too easy
+to take Atahocan for granted.  But whether he is allowed to fade into
+a truism or preserved as a sensation by being preserved as a secret,
+it is clear that he is always either an old truism or an old tradition.
+There is nothing to show that he is an improved product of the mere
+mythology and everything to show that he preceded it.  He is worshipped
+by the simplest tribes with no trace of [[Ghosts|ghosts]] or [[Grave|grave]]-offerings,
+or any of the complications in which Herbert Spencer and Grant Allen
+sought the origin of the simplest of all ideas.  Whatever else there was,
+there was never as such thing as the Evolution of the Idea of God.
+The idea was concealed, was avoided, was almost forgotten,
+was even explained away; but it was never evolved.
+
+There are not a few indications of this change in other places.
+It is implied, for instance, in the fact that even polytheism seems
+often the combination of several monotheisms.  A god will gain
+only a minor seat on Mount Olympus, when he had owned earth and
+heaven and all the [[Stars|stars]] while he lived in his own little valley.
+Like many a small nation melting in a great empire, he gives up
+local universality only to come under universal limitation.
+The very name of Pan suggests that he became a god of the wood when
+he had been a god of the world.  The very name of Jupiter is almost
+a pagan [[Translation|translation]] of the words 'Our Father which art in heaven.'
+As with the Great Father symbolised by the sky, so with the
+[[Great Mother]] whom we still call Mother Earth.  Demeter and Ceres
+and Cybele often seem to be almost capable of taking over the whole
+business of godhood, so that men should need no other gods.
+It seems reasonably probable that a good many men did have no other
+gods but one of these, worshipped as the author of all.
+
 Over some of the most immense and populous tracts of the world such
 as China, it would seem that the simpler idea of the Great Father
 has never been very much complicated with rival cults, though it may
@@ -76,48 +118,3 @@ and, as I have already said, the internal [[Truth|truth]] is almost indescribabl
 We have to speak of something of which it is the whole point
 that people did not speak of it; we have not merely to translate
 from a strange tongue or speech, but from a strange [[Silence|silence]].
-
-I suspect an immense implication behind all polytheism and paganism.
-I suspect we have only a hint of it here and there in these savage
-creeds or Greek origins.  It is not exactly what we mean by the presence
-of God; in a sense it might more truly be called the absence of God.
-But absence does not mean non-existence; and a man drinking the toast
-of absent friends does not mean that from his life all [[Friendship|friendship]]
-is absent.  It is a void but it is not a negation; it is some
-thing as positive as an empty chair.  It would be an exaggeration
-to say that the pagan saw higher than Olympus an empty throne.
-It would be nearer the [[Truth|truth]] to take the gigantic imagery
-of the Old Testament, in which the [[Prophet|prophet]] saw God from behind;
-it was as if some immeasurable presence had turned its back on the world.
-Yet the meaning will again be missed, if it is supposed to be anything
-so conscious and vivid as the monotheism of Moses and his people.
-I do not mean that the pagan peoples were in the least
-overpowered by this idea merely because it is overpowering.
-On the contrary, it was so large that they all carried it lightly,
-as we all carry the load of the sky.  Gazing at some detail like
-a bird or a cloud, we can all ignore its awful blue background;
-we can neglect the sky; and precisely because it bears down upon us
-with an annihilating force it is felt as nothing.  A thing of this
-kind can only be an impressing and a rather subtle impression;
-but to me it is a very strong impression made by pagan literature
-and religion.  I repeat that in our special sacramental sense
-there is, of course, the absence of the presence of God.
-But there is in a very real sense the presence of the absence of God.
-We feel it in the unfathomable sadness of pagan poetry;
-for I [[Doubt|doubt]] if there was ever in all the marvellous manhood
-of antiquity a man who was happy as St. Francis was happy.
-We feel it in the legend of a [[Golden Age]] and again in the vague
-implication that the gods themselves are ultimately related to
-something else, even when that Unknown God has faded into a Fate.
-Above all we feel it in those immortal moments when the pagan
-literature seems to return to a more [[Innocent|innocent]] antiquity and speak
-with a more direct voice, so that no word is worthy of it except
-our own monotheistic monosyllable.  We cannot say anything but 'God'
-in a sentence like that of Socrates bidding farewell to his judges:
-'I go to die and you remain to live; and God [[Alone|alone]] knows which of us
-goes the better way.'  We can use no other word even for the best
-moments of Marcus Aurelius:  'Can they say dear [[City|city]] of Cecrops,
-and canst thou not say dear [[City|city]] of God?'  We can use no other word
-in that mighty line in which Virgil spoke to all who suffer with
-the veritable cry of a Christian before [[Christ]]:  'O you that have
-borne things more terrible, to this also God shall give an end.'

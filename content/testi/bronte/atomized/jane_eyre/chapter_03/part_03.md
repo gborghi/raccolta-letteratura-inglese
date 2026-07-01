@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 3 (part 3)"
+title: "Jane Eyre — Chapter 3 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_03/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_04/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Perhaps you may—who knows? Have you any relations besides Mrs. Reed?”
+
+“I think not, sir.”
+
+“None belonging to your father?”
+
+“I don’t know: I asked Aunt Reed once, and she said possibly I might
+have some poor, low relations called Eyre, but she knew nothing about
+them.”
+
+“If you had such, would you like to go to them?”
 
 I reflected. [[Poverty]] looks grim to grown people; still more so to
 children: they have not much idea of industrious, working, respectable

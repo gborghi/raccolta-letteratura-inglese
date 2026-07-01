@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]] — On the Negative Spirit"
+title: "heret12 — On the Negative Spirit"
 author: "Chesterton"
 unitType: story
 parentWork: "works/heret12-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 II.  On the Negative Spirit
-
 
 Much has been said, and said truly, of the monkish morbidity,
 of the hysteria which has often gone with the visions of hermits or nuns.
@@ -66,7 +65,7 @@ appropriate and charming.  I have not the work by me, but I remember
 that Mr. Foote dismissed very contemptuously any attempts to deal
 with the problem of strong drink by religious offices or intercessions,
 and said that a picture of a drunkard's liver would be more
-efficacious in the matter of temperance than any [[prayer]] or praise.
+efficacious in the matter of temperance than any [[Prayer|prayer]] or praise.
 In that picturesque expression, it seems to me, is perfectly embodied
 the incurable morbidity of modern ethics.  In that temple the lights
 are low, the crowds kneel, the solemn anthems are uplifted.  But that upon

@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 17 (part 3)"
+title: "Wuthering Heights — Chapter 17 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_17/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_17/part_04">part 04 ›</a></div>
 </nav>
 
+
+“‘Treachery and violence are a just return for treachery and violence!’
+cried Hindley. ‘Mrs. [[Heathcliff]], I’ll ask you to do nothing; but sit
+still and be dumb. Tell me now, can you? I’m sure you would have as
+much pleasure as I in witnessing the conclusion of the fiend’s
+existence; he’ll be _your_ [[Death|death]] unless you overreach him; and he’ll be
+_my_ ruin. Damn the hellish [[Villain|villain]]! He knocks at the door as if he
+were master here already! Promise to hold your tongue, and before that
+[[Clock|clock]] strikes—it wants three minutes of one—you’re a free woman!’
 
 “He took the implements which I described to you in my letter from his
 breast, and would have turned down the candle. I snatched it away,
@@ -120,27 +129,3 @@ joined his hands and began a [[prayer]], which excited my laughter from its
 odd phraseology. I was in the condition of mind to be shocked at
 nothing: in fact, I was as reckless as some malefactors show themselves
 at the foot of the gallows.
-
-“‘Oh, I forgot you,’ said the [[Tyrant|tyrant]]. ‘You shall do that. Down with
-you. And you conspire with him against me, do you, viper? There, that
-is work fit for you!’
-
-“He shook me till my teeth rattled, and pitched me beside Joseph, who
-steadily concluded his supplications, and then [[Rose|rose]], vowing he would
-set off for the Grange directly. Mr. Linton was a magistrate, and
-though he had fifty wives dead, he should inquire into this. He was so
-obstinate in his resolution, that [[Heathcliff]] deemed it expedient to
-compel from my lips a recapitulation of what had taken place; standing
-over me, heaving with malevolence, as I reluctantly delivered the
-account in answer to his questions. It required a great deal of labour
-to satisfy the old man that [[Heathcliff]] was not the aggressor;
-especially with my hardly-wrung replies. However, Mr. Earnshaw soon
-convinced him that he was alive still; Joseph hastened to administer a
-dose of spirits, and by their succour his master presently regained
-motion and consciousness. [[Heathcliff]], aware that his opponent was
-ignorant of the treatment received while insensible, called him
-deliriously intoxicated; and said he should not notice his atrocious
-conduct further, but advised him to get to bed. To my joy, he left us,
-after giving this judicious counsel, and Hindley stretched himself on
-the hearthstone. I departed to my own room, marvelling that I had
-escaped so easily.

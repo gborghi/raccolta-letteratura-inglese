@@ -14,6 +14,16 @@ tags:
 </nav>
 
 
+Nowhere more altered, perhaps, about a hundred years ago, than in one
+little orchard attached to an old stone [[house]] with a honeysuckle porch;
+where, on a bright [[Autumn|autumn]] morning, there were sounds of music and
+laughter, and where two girls danced merrily together on the grass, while
+some half-dozen peasant women standing on ladders, gathering the apples
+from the trees, stopped in their work to look down, and share their
+enjoyment.  It was a pleasant, lively, natural scene; a beautiful day, a
+retired spot; and the two girls, quite unconstrained and careless, danced
+in the [[Freedom|freedom]] and gaiety of their hearts.
+
 If there were no such thing as display in the world, my private opinion
 is, and I [[Hope|hope]] you agree with me, that we might get on a great deal
 better than we do, and might be infinitely more agreeable company than we
@@ -118,16 +128,3 @@ own thrown back; ‘and Marion being in high spirits, and beginning to
 [[Dance|dance]], I joined her.  And so we danced to Alfred’s music till we were out
 of breath.  And we thought the music all the gayer for being sent by
 Alfred.  Didn’t we, dear Marion?’
-
-‘Oh, I don’t know, Grace.  How you tease me about Alfred.’
-
-‘Tease you by mentioning your [[Lover|lover]]?’ said her sister.
-
-‘I am sure I don’t much care to have him mentioned,’ said the wilful
-[[Beauty|beauty]], stripping the petals from some [[Flowers|flowers]] she held, and scattering
-them on the ground.  ‘I am almost tired of hearing of him; and as to his
-being my [[Lover|lover]]—’
-
-‘Hush!  Don’t speak lightly of a true heart, which is all your own,
-Marion,’ cried her sister, ‘even in jest.  There is not a truer heart
-than Alfred’s in the world!’

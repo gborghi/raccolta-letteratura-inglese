@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 26 (part 5)"
+title: "Bleak House — Chapter 26 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -14,13 +14,45 @@ tags:
 </nav>
 
 
+“Bosh!” observes Mr. George.
+
+“What was your remark, my dear friend?” inquires the old man with his
+hand to his ear.
+
+“Bosh!”
+
+“Ho!” says Grandfather Smallweed. “Mr. George, of my opinion you can
+judge for yourself according to the questions asked of me and the
+reasons given for asking ’em. Now, what do you think the lawyer
+making the inquiries wants?”
+
+“A job,” says Mr. George.
+
+“Nothing of the kind!”
+
+“Can’t be a lawyer, then,” says Mr. George, folding his arms with an
+air of confirmed resolution.
+
+“My dear friend, he is a lawyer, and a famous one. He wants to see
+some [[Fragment|fragment]] in Captain Hawdon’s writing. He don’t want to keep it.
+He only wants to see it and compare it with a writing in his
+possession.”
+
+“[[Well]]?”
+
+“[[Well]], Mr. George. Happening to remember the advertisement concerning
+Captain Hawdon and any information that could be given respecting
+him, he looked it up and came to me—just as you did, my dear friend.
+WILL you shake hands? So glad you came that day! I should have missed
+forming such a [[Friendship|friendship]] if you hadn’t come!”
+
 “[[Well]], Mr. Smallweed?” says Mr. George again after going through the
 ceremony with some stiffness.
 
 “I had no such thing. I have nothing but his signature. Plague
 pestilence and famine, battle murder and sudden [[Death|death]] upon him,” says
 the old man, making a curse out of one of his few remembrances of a
-[[Prayer|prayer]] and squeezing up his velvet cap between his angry hands, “I
+[[prayer]] and squeezing up his velvet cap between his angry hands, “I
 have half a million of his signatures, I think! But you,”
 breathlessly recovering his mildness of speech as Judy re-adjusts the
 cap on his skittle-ball of a head, “you, my dear Mr. George, are

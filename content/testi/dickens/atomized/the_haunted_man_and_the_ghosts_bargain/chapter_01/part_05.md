@@ -1,5 +1,5 @@
 ---
-title: "The Haunted Man and the [[Ghost]]'s Bargain — Chapter 1 (part 5)"
+title: "The Haunted Man and the Ghost's Bargain — Chapter 1 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-haunted-man-and-the-ghost's-bargain-(dickens)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_01/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_01/part_06">part 06 ›</a></div>
 </nav>
 
+
+The quiet Mouse had brought her calm face to his side, and silently taken
+his arm, before he finished speaking.
+
+“Come away, my dear,” said the old man. “Mr. Redlaw won’t settle to his
+dinner, otherwise, till it’s cold as the [[Winter|winter]]. I [[Hope|hope]] you’ll excuse me
+rambling on, sir, and I wish you good [[Night|night]], and, once again, a merry—”
+
+“Stay!” said Mr. Redlaw, resuming his place at the table, more, it would
+have seemed from his manner, to reassure the old keeper, than in any
+remembrance of his own appetite. “Spare me another moment, Philip.
+William, you were going to tell me something to your excellent wife’s
+[[Honour|honour]]. It will not be disagreeable to her to hear you praise her. What
+was it?”
 
 “Why, that’s where it is, you see, sir,” returned Mr. [[William Swidger]],
 looking towards his wife in considerable embarrassment. “Mrs. William’s
@@ -131,17 +145,3 @@ found in the [[house]], if you were to offer fifty pound ready money for
 it—Mrs. William apparently never out of the way—yet Mrs. William
 backwards and forwards, backwards and forwards, up and down, up and down,
 a mother to him!”
-
-The room turned darker and colder, and the gloom and [[Shadow|shadow]] gathering
-behind the chair was heavier.
-
-“Not content with this, sir, Mrs. William goes and finds, this very
-[[Night|night]], when she was coming [[Home|home]] (why it’s not above a couple of hours
-ago), a creature more like a young wild beast than a young [[Child|child]],
-shivering upon a door-step. What does Mrs. William do, but brings it
-[[Home|home]] to dry it, and feed it, and keep it till our old Bounty of food and
-flannel is given away, on Christmas morning! If it ever felt a [[Fire|fire]]
-before, it’s as much as ever it did; for it’s sitting in the old Lodge
-chimney, staring at ours as if its ravenous eyes would never shut again.
-It’s sitting there, at least,” said Mr. William, correcting himself, on
-reflection, “unless it’s bolted!”

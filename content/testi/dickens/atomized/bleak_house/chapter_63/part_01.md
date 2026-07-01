@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 63 (part 1)"
+title: "Bleak House — Chapter 63 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -144,10 +144,3 @@ They shake hands and embrace each other over and over again, the
 trooper still coupling his “How do you do, my dear old fellow!” with
 his protestation that he never thought his brother would have been
 half so glad to see him as all this!
-
-“So far from it,” he declares at the end of a full account of what
-has preceded his arrival there, “I had very little idea of making
-myself known. I thought if you took by any means forgivingly to my
-name I might gradually get myself up to the point of writing a
-letter. But I should not have been surprised, brother, if you had
-considered it anything but welcome news to hear of me.”

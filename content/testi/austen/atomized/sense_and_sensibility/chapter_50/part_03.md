@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 50 (part 3)"
+title: "Sense and Sensibility — Chapter 50 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_50/part_02">‹ part 02</a><span></span></div>
 </nav>
 
+
+passion, as once she had fondly flattered herself with
+
+expecting,—instead of remaining even for ever with her mother, and
+
+finding her only pleasures in retirement and study, as afterwards in
+
+her more calm and sober judgment she had determined on,—she found
 
 herself at nineteen, submitting to new attachments, entering on new
 

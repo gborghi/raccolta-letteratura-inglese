@@ -1,5 +1,5 @@
 ---
-title: "The Haunted Man and the [[Ghost]]'s Bargain — Chapter 1 (part 4)"
+title: "The Haunted Man and the Ghost's Bargain — Chapter 1 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-haunted-man-and-the-ghost's-bargain-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_01/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_01/part_05">part 05 ›</a></div>
 </nav>
 
+
+“My duty to you, sir,” returned the old man. “Should have spoke before,
+sir, but know your ways, Mr. Redlaw—proud to say—and wait till spoke to!
+Merry Christmas, sir, and Happy New Year, and many of ’em. Have had a
+pretty many of ’em myself—ha, ha!—and may take the liberty of wishing
+’em. I’m eighty-seven!”
+
+“Have you had so many that were merry and happy?” asked the other.
 
 “Ay, sir, ever so many,” returned the old man.
 
@@ -126,17 +134,3 @@ into a ruddier glow, and whose blue eyes had brightened while he spoke,
 quiet Mouse? Chattering’s the sin of my [[Time|time]] of life, and there’s half
 the building to do yet, if the cold don’t freeze us first, or the [[Wind|wind]]
 don’t blow us away, or the darkness don’t [[Swallow|swallow]] us up.”
-
-The quiet Mouse had brought her calm face to his side, and silently taken
-his arm, before he finished speaking.
-
-“Come away, my dear,” said the old man. “Mr. Redlaw won’t settle to his
-dinner, otherwise, till it’s cold as the [[Winter|winter]]. I [[Hope|hope]] you’ll excuse me
-rambling on, sir, and I wish you good [[Night|night]], and, once again, a merry—”
-
-“Stay!” said Mr. Redlaw, resuming his place at the table, more, it would
-have seemed from his manner, to reassure the old keeper, than in any
-remembrance of his own appetite. “Spare me another moment, Philip.
-William, you were going to tell me something to your excellent wife’s
-[[Honour|honour]]. It will not be disagreeable to her to hear you praise her. What
-was it?”

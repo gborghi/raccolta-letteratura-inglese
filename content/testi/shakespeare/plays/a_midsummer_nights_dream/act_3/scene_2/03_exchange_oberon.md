@@ -1,5 +1,5 @@
 ---
-title: "A Midsummer Nights Dream — Act III, Scene 2 — exchange ([[Oberon|OBERON]]) [3]"
+title: "A Midsummer Nights Dream — Act III, Scene 2 — exchange (OBERON) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/a-midsummer-night’s-dream-(shakespeare)"

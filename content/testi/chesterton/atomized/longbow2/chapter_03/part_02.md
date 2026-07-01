@@ -1,5 +1,5 @@
 ---
-title: "[[longbow2]] — Chapter 3 (part 2)"
+title: "longbow2 — Chapter 3 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -136,8 +136,3 @@ on the sign-board of the inn.
 "And there is our wooden ensign!" he cried, pointing in the same
 dramatic fashion.  "We will go into battle under the banner
 of the Blue Boar."
-
-"Loud and prolonged cheers," said Crane politely, "and now come
-away and don't spoil the peroration.  Owen wants to potter about
-the local antiquities, like Mr. Oates.  I'm more interested
-in novelties.  Want to look at that [[Machine|machine]] of yours."

@@ -191,9 +191,3 @@ CHAPTER 2
       course as to make any turning back a matter out of question, I
 
       should then, he said, be formally installed in all the comforts
-
-      of the cabin; and as to his father, he would only laugh heartily
-
-      at the joke. Vessels enough would be met with by which a letter
-
-      might be sent [[Home|home]] explaining the adventure to my parents.

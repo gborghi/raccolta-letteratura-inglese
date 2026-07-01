@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 5 (part 2)"
+title: "Nicholas Nickleby — Chapter 5 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_05/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_05/part_03">part 03 ›</a></div>
 </nav>
 
+
+Regarding, with no small curiosity and interest, all the busy
+preparations for the coming day which every street and almost every
+[[house]] displayed; and thinking, now and then, that it seemed rather hard
+that so many people of all ranks and stations could earn a livelihood in
+[[London]], and that he should be compelled to [[Journey|journey]] so far in search of
+one; Nicholas speedily arrived at the Saracen’s Head, [[Snow]] [[Hill]]. Having
+dismissed his attendant, and seen the box safely deposited in the
+coach-office, he looked into the coffee-room in search of Mr. Squeers.
 
 He found that learned gentleman sitting at breakfast, with the three
 little boys before noticed, and two others who had turned up by some
@@ -129,19 +138,3 @@ merely said that you were paying a hackney coach. I never pay a hackney
 coach, ma’am; I never hire one. I haven’t been in a hackney coach of my
 own hiring, for thirty years, and I [[Hope|hope]] I shan’t be for thirty more, if
 I live as long.’
-
-‘I should never have forgiven myself if I had not seen him,’ said Mrs
-Nickleby. ‘Poor dear boy--going away without his breakfast too, because
-he feared to distress us!’
-
-‘Mighty fine certainly,’ said Ralph, with great testiness. ‘When I first
-went to business, ma’am, I took a penny loaf and a ha’porth of milk for
-my breakfast as I walked to the [[City|city]] every morning; what do you say to
-that, ma’am? Breakfast! Bah!’
-
-‘Now, Nickleby,’ said Squeers, coming up at the moment buttoning his
-greatcoat; ‘I think you’d better get up behind. I’m afraid of one of
-them boys falling off and then there’s twenty pound a year gone.’
-
-‘Dear Nicholas,’ whispered Kate, touching her brother’s arm, ‘who is
-that vulgar man?’

@@ -14,135 +14,118 @@ tags:
 </nav>
 
 
-The unique possession was not available or accessible to the pagan
-world, because it was also the possession of a jealous people.
-The Jews were unpopular, partly because of this narrowness
-already noted in the Roman world, partly perhaps because they
-had already fallen into that habit of merely handling things
-for exchange instead of working to make them with their hands.
-It was partly also because polytheism had become a sort of jungle
-in which solitary monotheism could be lost; but it is strange to realise
-how completely it really was lost.  Apart from more disputed matters,
-there were things in the tradition of Israel which belong to all
-humanity now, and might have belonged to all humanity then.
-They had one of the colossal corner-stones of the world:
-the Book of Job.  It obviously stands over against the Iliad and
-the Greek tragedies; and even more than they it was an early meeting
-and parting of poetry and [[philosophy]] in the mornings of the world.
-It is a solemn and uplifting sight to see those two eternal fools,
-the optimist and the pessimist, destroyed in the [[Dawn|dawn]] of [[Time|time]].
-And the [[philosophy]] really perfects the pagan tragic irony,
-precisely because it is more monotheistic and therefore more mystical.
-Indeed the Book of Job avowedly only answers mystery with mystery.
-Job is comforted with riddles; but he is comforted.  Herein is indeed
-a type, in the sense of a prophecy, of things speaking with authority.
-For when he who doubts can only say 'I do not understand,' it is true
-that he who knows can only reply or repeat 'You do not understand.'
-And under that rebuke there is always a sudden [[Hope|hope]] in the heart;
-and the sense of something that would be worth understanding.
-But this mighty monotheistic poem remained unremarked by the whole
-world of antiquity, which was thronged with polytheistic poetry.
-It is a sign of the way in which the Jews stood apart and kept their
-tradition unshaken and unshared, that they should have kept a thing
-like the Book of Job out of the whole intellectual world of antiquity.
-It is as if the Egyptians had modestly concealed the Great Pyramid.
-But there were other reasons for a [[Cross|cross]]-purpose and an impasse,
-characteristic of the whole of the end of paganism.  After all,
-the tradition of Israel had only got hold of one-half of the [[Truth|truth]],
-even if we use the popular [[Paradox|paradox]] and call it the bigger half.
-I shall try to [[Sketch|sketch]] in the next chapter that [[Love|love]] of locality
-and personality that ran through mythology; here it need only be said
-that there was a [[Truth|truth]] in it that could not be let out though it
-were a lighter and less essential [[Truth|truth]].  The sorrow of Job had to be
-joined with the sorrow of [[Hector]]; and while the former was the sorrow
-of the universe the latter was the sorrow of the [[City|city]]; for [[Hector]]
-could only stand pointing to heaven as the pillar of holy Troy.
-When God speaks out of the whirlwind he may [[Well|well]] speak in the wilderness.
-But the monotheism of the nomad was not enough for all that varied
-civilisation of fields and fences and walled cities and temples
-and towns; and the turn of these things also was to come, when the
-two could be combined in a more definite and domestic religion.
-Here and there in all that pagan crowd could be found a philosopher
-whose thought ran of pure theism; but he never had, or supposed
-that he had, the power to change the customs of the whole populace.
-Nor is it easy even in such philosophies to find a true definition
-of this deep business of the relation of polytheism and theism.
-Perhaps the nearest we can come to striking the note, or giving
-the thing a name, is in something far away from all that civilisation
-and more remote from Rome than the isolation of Israel.
-It is in a saying I once heard from some Hindu tradition;
-that gods as [[Well|well]] as men are only the [[Dreams|dreams]] of Brahma; and will
-perish when Brahma wakes.  There is indeed in such an image something
-of the [[Soul|soul]] of Asia which is less sane than the [[Soul|soul]] of Christendom.
-We should call it [[Despair|despair]], even if they would call it peace.
-This note of nihilism can be considered later in a fuller comparison
-between Asia and Europe.  It is enough to say here that there
-is more of disillusion in that idea of a divine awakening than
-is implied for us in the passage from mythology to religion.
-But the symbol is very subtle and exact in one respect; that it does
-suggest the disproportion and even disruption between the very ideas
-of mythology and religion, the chasm between the two categories.
-It is really the collapse of comparative religion that there is no
-comparison between God and the gods.  There is no more comparison than
-there is between a man and the men who walked about in his [[Dreams|dreams]].
-Under the next heading some attempt will be made to indicate
-the twilight of that dream in which the gods walk about like men.
-But if anyone fancies the contrast of monotheism and polytheism is
-only a matter of some people having one god and others a few more,
-for him it will be far nearer the [[Truth|truth]] to plunge into the elephantine
-extravagance of Brahmin cosmology; that he may feel a shudder
-going through the veil of things, the many-handed creators,
-and the throned and haloed [[Animals|animals]] and all the network of entangled
-[[Stars|stars]] and rulers of the [[Night|night]], as the eyes of Brahma open like [[Dawn|dawn]]
-upon the [[Death|death]] of all.
+Polytheism, therefore, was really a sort of pool; in the sense of
+the pagans having consented to the pooling of their pagan religions.
+And this point is very important in many controversies ancient
+and modern.  It is regarded as a liberal and enlightened thing
+to say that the god of the stranger may be as good as our own;
+and doubtless the pagans thought themselves very liberal and enlightened
+when they agreed to add to the gods of the [[City|city]] or the hearth
+some wild and fantastic Dionysus coming down from the [[Mountains|mountains]]
+or some shaggy and rustic Pan creeping out of the woods.  But exactly
+what it lost by these larger ideas is the largest idea of all.
+It is the idea of the fatherhood that makes the whole world one.
+And the converse is also true.  Doubtless those more antiquated
+men of antiquity who clung to their solitary statues and their
+single sacred names were regarded as superstitious savages
+benighted and left behind.  But these superstitious savages
+were preserving something that is much more like the cosmic power
+as conceived by [[philosophy]], or even as conceived by science.
+This [[Paradox|paradox]] by which the rude reactionary was a sort of prophetic
+progressive has one consequence very much to the point.
+In a purely historical sense, and apart from any other controversies
+in the same connection, it throws a light, a single and a steady light,
+that shines from the beginning on a little and lonely people.
+In this [[Paradox|paradox]], as in some [[Riddle|riddle]] of religion of which the answer
+was sealed up for centuries, lies the mission and the meaning
+of the Jews.
 
-* * *
-
-V
-
-MAN AND MYTHOLOGIES
-
-What are here called the Gods might almost alternatively be called
-the day-[[Dreams|dreams]]. To compare them to [[Dreams|dreams]] is not to deny that [[Dreams|dreams]]
-can come true.  To compare them to travellers' tales is not to
-deny that they may be true tales, or at least truthful tales.
-In [[Truth|truth]] they are the sort of tales the traveller tells to himself.
-All this mythological business belongs to the poetical part of men.
-It seems strangely forgotten nowadays that a myth is a work of
-[[Imagination|imagination]] and therefore a work of art.  It needs a poet to make it.
-It needs a poet to criticise it.  There are more poets than non-poets
-in the world, as is proved by the popular origin of such legends.
-But for some reason I have never heard explained, it is only
-the minority of unpoetical people who are allowed to write critical
-studies of these popular [[Poems|poems]].  We do not submit a [[Sonnet|sonnet]] to a
-mathematician or a [[Song|song]] to a calculating boy; but we do indulge
-the equally fantastic idea that folk-lore can be treated as a science.
-Unless these things are appreciated artistically they are not
-appreciated at all.  When [[The Professor|the professor]] is told by the Polynesian
-that once there was nothing except a great feathered serpent,
-unless the learned man feels a thrill and a half [[Temptation|temptation]]
-to wish it were true, he is no judge of such things at all.
-When he is assured, on the best Red Indian authority, that a
-primitive [[Hero|hero]] carried the sun and [[Moon|moon]] and [[Stars|stars]] in a box,
-unless he clasps his hands and almost kicks his legs as a [[Child|child]]
-would at such a charming fancy, he knows nothing about the matter.
-This test is not nonsensical; primitive children and barbaric
-children do laugh and kick like other children; and we must have
-a certain simplicity to repicture the [[Childhood|childhood]] of the world.
-When Hiawatha was told by his [[Nurse|nurse]] that a warrior threw his
-grandmother up to the [[Moon|moon]], he laughed like any English [[Child|child]] told
-by his [[Nurse|nurse]] that a cow jumped over the [[Moon|moon]].  The [[Child|child]] sees
-the joke as [[Well|well]] as most men, and better than some scientific men.
-But the ultimate test even of the fantastic is the appropriateness
-of the inappropriate.  And the test must appear merely arbitrary
-because it is merely artistic.  If any student tells me that
-the infant Hiawatha only laughed out of respect for tribal custom
-of sacrificing the aged to economical housekeeping, I say he did not.
-If any scholar tells me that the cow jumped over the [[Moon|moon]] only
-because a heifer was sacrificed to [[Diana]], I answer that it did not.
-It happened because it is obviously the right thing for a cow
-to jump over the [[Moon|moon]].  Mythology is a lost art, one of the few
-arts that really are lost; but it is an art.  The horned [[Moon|moon]] and
-the horned mooncalf make a harmonious and almost a quiet pattern.
-And throwing your grandmother into the sky is not good behaviour;
-but it is perfectly good taste.
+It is true in this sense, humanly speaking, that the world owes
+God to the Jews.  It owes that [[Truth|truth]] to much that is blamed
+on the Jews, possibly to much that is blameable in the Jews.
+We have already noted the nomadic position of the Jews amid
+the other [[Pastoral|pastoral]] peoples upon the fringe of the Babylonian Empire,
+and something of that strange erratic course of theirs blazed across
+the dark territory of extreme antiquity, as they passed from the seat
+of Abraham and the shepherd princes into [[Egypt]] and doubled back
+into the Palestinian hills and held them against the Philistines
+from Crete and fell into captivity in Babylon; and yet again returned
+to their mountain [[City|city]] by the Zionist policy of the Persian conquerors;
+and so continued that amazing [[Romance|romance]] of restlessness of which we
+have not yet seen the end.  But through all their wanderings,
+and especially through all their early wanderings, they did indeed
+carry the fate of the world in that wooden tabernacle, that held
+perhaps a featureless symbol and certainly an invisible god.
+We may say that one most essential feature was that it was featureless.
+Much as we may prefer that creative liberty which the Christian
+culture has declared and by which it has eclipsed even the arts
+of antiquity, we must not underrate the determining importance
+at the [[Time|time]] of the Hebrew inhibition of images.  It is a typical
+example of one of those limitations that did in fact preserve and
+perpetuate enlargement, like a wall built round a wide open space.
+The God who could not have a statue remained a spirit.
+Nor would his statue in any case have had the disarming
+dignity and grace of the Greek statues then or the Christian
+statues afterwards.  He was living in a land of monsters.
+We shall have occasion to consider more fully what those monsters were,
+Moloch and Dagon and Tanit the terrible goddess.  If the deity
+of Israel had ever had an image, he would have had a phallic image.
+By merely giving him a [[Body|body]] they would have brought in all
+the worst elements of mythology; all the polygamy of polytheism;
+the vision of the harem in heaven.  This point about the refusal
+of art is the first example of the limitations which are often
+adversely criticised, only because the critics themselves are limited.
+But an even stronger case can be found in the other criticism offered
+by the same critics.  It is often said with a sneer that the God
+of Israel was only a God of battles, 'a mere barbaric Lord of Hosts'
+pitted in rivalry against other gods only as their envious foe.
+[[Well]] it is for the world that he was a God of Battles.
+[[Well]] it is for us that he was to all the rest only a rival and a foe.
+In the ordinary way, it would have been only too easy for them to
+have achieved the desolate disaster of conceiving him as a friend.
+It would have been only too easy for them to have seen him stretching
+out his hands in [[Love|love]] and [[Reconciliation|reconciliation]], embracing Baal and kissing
+the painted face of Astarte, feasting in fellowship with the gods;
+the last god to sell his [[Crown|crown]] of [[Stars|stars]] for the Soma of the Indian
+pantheon or the nectar of Olympus or the mead of Valhalla.  It would
+have been easy enough for his worshippers to follow the enlightened
+course of Syncretism and the pooling of all the pagan traditions.
+It is obvious indeed that his followers were always sliding down this
+easy slope; and it required the almost demoniac energy of certain
+inspired demagogues, who testified to the divine [[unity]] in words
+that are still like winds of inspiration and ruin.  The more we really
+understand of the ancient conditions that contributed to the final
+culture of the [[Faith]], the more we shall have a real and even a realistic
+reverence for the [[Greatness|greatness]] of the Prophets of Israel.  As it was,
+while the whole world melted into this mass of confused mythology,
+this Deity who is called tribal and narrow, precisely because
+he was what is called tribal and narrow, preserved the primary
+religion of all mankind.  He was tribal enough to be universal.
+He was as narrow as the universe.  In a word, there was a popular pagan
+god called Jupiter-Ammon. There was never a god called Jehovah-Ammon.
+There was never a god called Jehovah-Jupiter. If there had been,
+there would certainly have been another called Jehovah-Moloch. Long
+before the liberal and enlightened amalgamators had got so far
+afield as Jupiter, the image of the Lord of Hosts would have been
+deformed out of all suggestion of a monotheistic maker and ruler
+and would have become an idol far worse than any savage fetish;
+for he might have been as civilised as the gods of Tyre and Carthage.
+What that civilisation meant we shall consider more fully in
+the chapter that follows; when we note how the power of demons
+nearly destroyed Europe and even the heathen health of the world.
+But the world's destiny would have been distorted still more
+fatally if monotheism had failed in the Mosaic tradition.
+I [[Hope|hope]] in a subsequent section to show that I am not without
+sympathy with all that health in the heathen world that made
+its fairy-tales and its fanciful romances of religion.
+But I [[Hope|hope]] also to show that these were bound to fail in the long run;
+and the world would have been lost if it had been unable to return
+to that great original simplicity of a single authority in all things.
+That we do preserve something of that primary simplicity that poets
+and philosophers can still indeed in some sense say an Universal [[Prayer]],
+that we live in a large and serene world under a sky that stretches
+paternally over all the peoples of the earth, that [[philosophy]]
+and philanthropy are truisms in a religion of reasonable men,
+all that we do most truly owe, under heaven, to a secretive and
+restless nomadic people; who bestowed on men the supreme and serene
+blessing of a jealous God.

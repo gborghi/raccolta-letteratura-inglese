@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 34"
+title: "Great Expectations — Chapter 34"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/great-expectations-(dickens)"
@@ -84,7 +84,7 @@ dinner; that he seemed to descry Capital in the distance, rather
 clearly, after dinner; that he all but realised Capital towards
 midnight; and that at about two o’[[Clock|clock]] in the morning, he became so
 deeply despondent again as to talk of buying a rifle and going to
-[[America]], with a general purpose of compelling buffaloes to make his
+[[america|America]], with a general purpose of compelling buffaloes to make his
 fortune.
 
 I was usually at Hammersmith about half the week, and when I was at

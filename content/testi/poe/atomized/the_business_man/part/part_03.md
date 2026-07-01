@@ -1,5 +1,5 @@
 ---
-title: "[[The Business Man]] (part 3)"
+title: "The Business Man (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-business-man-(poe)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_business_man/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/the_business_man/part/part_04">part 04 ›</a></div>
 </nav>
 
+
+      the strictest system in all my dealings, and keeping a
+
+      [[Well|well]]-regulated set of books, I was enabled to get over many
+
+      serious difficulties, and, in the end, to establish myself very
+
+      decently in the profession. The [[Truth|truth]] is, that few individuals,
+
+      in any line, did a snugger little business than I. I will just
 
       copy a page or so out of my Day-Book; and this will save me the
 
@@ -197,17 +207,3 @@ tags:
       with blacking and brushes. It was only a minute’s work, and then
 
       came a sixpence. This did moderately [[Well|well]] for a [[Time|time]];—in fact, I
-
-      was not avaricious, but my dog was. I allowed him a third of the
-
-      profit, but he was advised to insist upon half. This I couldn’t
-
-      stand—so we quarrelled and parted.
-
-
-
-      I next tried my hand at the Organ-Grinding for a while, and may
-
-      say that I made out pretty [[Well|well]]. It is a plain, straightforward
-
-      business, and requires no particular abilities. You can get a

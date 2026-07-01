@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 30 (part 2)"
+title: "Great Expectations — Chapter 30 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -140,5 +140,3 @@ Jaggers would not be in it.” And now before I say anything more about
 my father, or my father’s son, and repay confidence with confidence, I
 want to make myself seriously disagreeable to you for a
 moment,—positively repulsive.”
-
-“You won’t succeed,” said I.

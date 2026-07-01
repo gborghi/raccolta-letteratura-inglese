@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 25 (part 5)"
+title: "The Professor — Chapter 25 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -13,6 +13,30 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_professor/chapter_26/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/the_professor/chapter_26/part_06">part 06 ›</a></div>
 </nav>
 
+
+suddenly suffused. She and I were standing side by side; she threw her
+
+arms round me, and strained me to her heart with passionate earnestness:
+
+the energy of her whole being glowed in her dark and then dilated
+
+eye, and crimsoned her animated cheek; her look and movement were like
+
+inspiration; in one there was such a flash, in the other such a power.
+
+Half an hour afterwards, when she had become calm, I asked where all
+
+that wild vigour was gone which had transformed her ere-while and made
+
+her glance so thrilling and ardent--her action so rapid and strong. She
+
+looked down, smiling softly and passively:--
+
+“I cannot tell where it is gone, monsieur,” said she, “but I know that,
+
+whenever it is wanted, it will come back again.”
+
+Behold us now at the close of the ten years, and we have realized an
 
 independency. The rapidity with which we attained this end had its
 
@@ -32,8 +56,6 @@ need not say how gainful; I communicated details to Messrs. Vandenhuten
 
 and Hunsden; nobody else can be interested in hearing them.
 
-
-
 Accounts being wound up, and our professional connection disposed of, we
 
 both agreed that, as mammon was not our master, nor his service that in
@@ -49,8 +71,6 @@ properly managed by right sympathy and unselfish activity, might
 help philanthropy in her enterprises, and put solace into the hand of
 
 [[Charity|charity]].
-
-
 
 To England we now resolved to take wing; we arrived there safely;
 
@@ -94,11 +114,9 @@ opens upon a lane as green as the lawn, very long, shady, and little
 
 frequented; on the turf of this lane generally appear the first daisies
 
-of [[spring]]--whence its name--Daisy Lane; serving also as a distinction to
+of [[Spring|spring]]--whence its name--Daisy Lane; serving also as a distinction to
 
 the [[house]].
-
-
 
 It terminates (the lane I mean) in a valley full of wood; which
 
@@ -120,8 +138,6 @@ of young ladies within a circuit of forty miles, who would be willing to
 
 assist him in the search.
 
-
-
 The estate fell to him by the [[Death|death]] of his father, five years since; he
 
 has given up trade, after having made by it sufficient to pay off some
@@ -141,8 +157,6 @@ a German metaphysician, sometimes a French savant; he had once a
 dissatisfied and savage-looking Italian, who neither sang nor played,
 
 and of whom Frances affirmed that he had “tout l’air d’un conspirateur.”
-
-
 
 What English guests Hunsden invites, are all either men of Birmingham or
 
@@ -169,37 +183,3 @@ much twaddle, enounced chiefly in French and Deutsch, but let that pass.
 Hunsden himself tolerated the drivelling theorists; with the practical
 
 men he seemed leagued hand and heart.
-
-
-
-When Hunsden is staying [[Alone|alone]] at the Wood (which seldom happens) he
-
-generally finds his way two or three times a week to Daisy Lane. He has
-
-a philanthropic motive for coming to smoke his cigar in our porch on
-
-[[Summer|summer]] evenings; he says he does it to kill the earwigs amongst the
-
-roses, with which [[Insects|insects]], but for his benevolent fumigations, he
-
-intimates we should certainly be overrun. On wet days, too, we are
-
-almost sure to see him; according to him, it gets on [[Time|time]] to work
-
-me into lunacy by treading on my mental corns, or to force from Mrs.
-
-Crimsworth revelations of the dragon within her, by insulting the [[Memory|memory]]
-
-of Hofer and Tell.
-
-
-
-We also go frequently to Hunsden Wood, and both I and Frances relish a
-
-visit there highly. If there are other guests, their characters are
-
-an interesting study; their conversation is exciting and strange; the
-
-absence of all local narrowness both in the host and his chosen society
-
-gives a metropolitan, almost a cosmopolitan [[Freedom|freedom]] and largeness to the

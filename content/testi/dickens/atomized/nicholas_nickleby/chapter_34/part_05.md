@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 34 (part 5)"
+title: "Nicholas Nickleby — Chapter 34 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,8 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_34/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_34/part_06">part 06 ›</a></div>
 </nav>
 
+
+‘And a good plan too,’ said Ralph, eyeing the schoolmaster stealthily.
 
 ‘I believe you,’ rejoined Squeers. ‘We always do it. Why, when Mrs
 Squeers was brought to bed with little Wackford here, we ran the
@@ -145,11 +147,3 @@ reserve. ‘It’s fourteen years ago, by the entry in my book, since a
 strange man brought him to my place, one [[Autumn|autumn]] [[Night|night]], and left him
 there; paying five pound five, for his first quarter in advance. He
 might have been five or six year old at that [[Time|time]]--not more.’
-
-‘What more do you know about him?’ demanded Ralph.
-
-‘Devilish little, I’m sorry to say,’ replied Squeers. ‘The money was
-paid for some six or eight year, and then it stopped. He had given an
-address in [[London]], had this chap; but when it came to the point, of
-course nobody knowed anything about him. So I kept the lad out of--out
-of--’

@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 1 (part 2)"
+title: "Shirley — Chapter 1 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -12,6 +12,16 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_01/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_01/part_03">part 03 ›</a></div>
 </nav>
+
+
+tea, remained to supper, occupied the spare bed, and favoured her with
+
+their company to breakfast on Wednesday morning; now, on [[thursday|Thursday]], they
+
+are both here at dinner, and she is almost certain they will stay all
+
+[[Night|night]]. "C'en est trop," she would say, if she could speak French.
+
 
 
 Mr. Sweeting is mincing the slice of roast beef on his plate, and
@@ -197,15 +207,3 @@ clergymen to carry loaded pistols in their pockets, and a shillelah in
 their hands, when they made [[Pastoral|pastoral]] visits; inquiring the signification
 
 of such words as vele, firrum, hellum, storrum (so Mr. Malone invariably
-
-pronounced veil, firm, helm, [[Storm|storm]]), and employing such other methods of
-
-retaliation as the innate refinement of their minds suggested.
-
-
-
-This, of course, would not do. Malone, being neither good-natured nor
-
-phlegmatic, was presently in a towering passion. He vociferated,
-
-gesticulated; Donne and Sweeting laughed. He reviled them as Saxons and

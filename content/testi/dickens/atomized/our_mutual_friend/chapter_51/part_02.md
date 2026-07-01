@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 10 (part 2)"
+title: "Our Mutual Friend — Chapter 13 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,140 +14,132 @@ tags:
 </nav>
 
 
-‘It strikes me,’ remarked Eugene coolly, after watching him for some
-minutes, ‘that my friend is likely to be rather behind [[Time|time]] if he has
-any appointment on hand.’ With which remark he strolled on, and took no
-further thought of him.
+Again the little dried gentleman put his hand to his forehead, and again
+Mr Fledgeby seemed to enjoy his doing it. When the gentleman changed his
+attitude with a sigh, Fledgeby spake with a grin.
 
-Lightwood was at [[Home|home]] when he got to the Chambers, and had dined [[Alone|alone]]
-there. Eugene drew a chair to the [[Fire|fire]] by which he was having his wine
-and reading the evening paper, and brought a glass, and filled it for
-good fellowship’s sake.
+‘Mr Twemlow, I think?’
 
-‘My dear Mortimer, you are the express picture of contented industry,
-reposing (on credit) after the virtuous labours of the day.’
+The dried gentleman seemed much surprised.
 
-‘My dear Eugene, you are the express picture of discontented idleness
-not reposing at all. Where have you been?’
+‘Had the pleasure of dining with you at Lammle’s,’ said Fledgeby. ‘Even
+have the [[Honour|honour]] of being a connexion of yours. An unexpected sort of
+place this to meet in; but one never knows, when one gets into the [[City]],
+what people one may knock up against. I [[Hope|hope]] you have your health, and
+are enjoying yourself.’
 
-‘I have been,’ replied Wrayburn, ‘—about town. I have turned up at the
-present juncture, with the intention of consulting my highly intelligent
-and respected solicitor on the position of my affairs.’
+There might have been a touch of impertinence in the last words; on the
+other hand, it might have been but the native grace of Mr Fledgeby’s
+manner. Mr Fledgeby sat on a stool with a foot on the rail of another
+stool, and his hat on. Mr Twemlow had uncovered on looking in at the
+door, and remained so. Now the conscientious Twemlow, knowing what he
+had done to thwart the gracious Fledgeby, was particularly disconcerted
+by this encounter. He was as ill at ease as a gentleman [[Well|well]] could be.
+He felt himself bound to conduct himself stiffly towards Fledgeby,
+and he made him a distant bow. Fledgeby made his small eyes smaller
+in taking special note of his manner. The dolls’ dressmaker sat in her
+corner behind the door, with her eyes on the ground and her hands folded
+on her basket, holding her crutch-stick between them, and appearing to
+take no heed of anything.
 
-‘Your highly intelligent and respected solicitor is of opinion that your
-affairs are in a bad way, Eugene.’
+‘He’s a long [[Time|time]],’ muttered Mr Fledgeby, looking at his watch. ‘What
+[[Time|time]] may you make it, Mr Twemlow?’
 
-‘Though whether,’ said Eugene thoughtfully, ‘that can be intelligently
-said, now, of the affairs of a client who has nothing to lose and who
-cannot possibly be made to pay, may be open to question.’
+Mr Twemlow made it ten minutes past twelve, sir.
 
-‘You have fallen into the hands of the Jews, Eugene.’
+‘As near as a toucher,’ assented Fledgeby. ‘I [[Hope|hope]], Mr Twemlow, your
+business here may be of a more agreeable character than mine.’
 
-‘My dear boy,’ returned the debtor, very composedly taking up his glass,
-‘having previously fallen into the hands of some of the Christians, I
-can bear it with [[philosophy]].’
+‘Thank you, sir,’ said Mr Twemlow.
 
-‘I have had an interview to-day, Eugene, with a Jew, who seems
-determined to press us hard. Quite a [[Shylock]], and quite a Patriarch. A
-picturesque grey-headed and grey-bearded old Jew, in a shovel-hat and
-gaberdine.’
+Fledgeby again made his small eyes smaller, as he glanced with great
+complacency at Twemlow, who was timorously tapping the table with a
+folded letter.
 
-‘Not,’ said Eugene, pausing in setting down his glass, ‘surely not my
-worthy friend Mr [[Aaron]]?’
+‘What I know of Mr Riah,’ said Fledgeby, with a very disparaging
+utterance of his name, ‘leads me to believe that this is about the shop
+for disagreeable business. I have always found him the bitingest and
+tightest screw in [[London]].’
 
-‘He calls himself Mr Riah.’
+Mr Twemlow acknowledged the remark with a little distant bow. It
+evidently made him nervous.
 
-‘By-the-by,’ said Eugene, ‘it comes into my mind that—no [[Doubt|doubt]] with an
-instinctive [[Desire|desire]] to receive him into the bosom of our Church—I gave
-him the name of [[Aaron]]!’
+‘So much so,’ pursued Fledgeby, ‘that if it wasn’t to be true to a
+friend, nobody should catch me waiting here a single minute. But if you
+have friends in adversity, stand by them. That’s what I say and act up
+to.’
 
-‘Eugene, Eugene,’ returned Lightwood, ‘you are more ridiculous than
-usual. Say what you mean.’
+The equitable Twemlow felt that this sentiment, irrespective of the
+utterer, demanded his cordial assent. ‘You are very right, sir,’ he
+rejoined with spirit. ‘You indicate the generous and manly course.’
 
-‘Merely, my dear fellow, that I have the [[Honour|honour]] and pleasure of a
-speaking acquaintance with such a Patriarch as you describe, and that I
-address him as Mr [[Aaron]], because it appears to me Hebraic, expressive,
-appropriate, and complimentary. Notwithstanding which strong reasons for
-its being his name, it may not be his name.’
+‘Glad to have your approbation,’ returned Fledgeby. ‘It’s a coincidence,
+Mr Twemlow;’ here he descended from his perch, and sauntered towards
+him; ‘that the friends I am standing by to-day are the friends at whose
+[[house]] I met you! The Lammles. She’s a very taking and agreeable woman?’
 
-‘I believe you are the absurdest man on the face of the earth,’ said
-Lightwood, laughing.
+[[Conscience]] smote the gentle Twemlow pale. ‘Yes,’ he said. ‘She is.’
 
-‘Not at all, I assure you. Did he mention that he knew me?’
+‘And when she appealed to me this morning, to come and try what I could
+do to pacify their creditor, this Mr Riah—that I certainly have gained
+some little influence with in transacting business for another friend,
+but nothing like so much as she supposes—and when a woman like that
+spoke to me as her dearest Mr Fledgeby, and shed [[Tears|tears]]—why what could I
+do, you know?’
 
-‘He did not. He only said of you that he expected to be paid by you.’
+Twemlow gasped ‘Nothing but come.’
 
-‘Which looks,’ remarked Eugene with much gravity, ‘like NOT knowing me.
-I [[Hope|hope]] it may not be my worthy friend Mr [[Aaron]], for, to tell you the
-[[Truth|truth]], Mortimer, I [[Doubt|doubt]] he may have a prepossession against me. I
-strongly suspect him of having had a hand in spiriting away Lizzie.’
+‘Nothing but come. And so I came. But why,’ said Fledgeby, putting
+his hands in his pockets and counterfeiting deep meditation, ‘why Riah
+should have started up, when I told him that the Lammles entreated him
+to hold over a Bill of Sale he has on all their effects; and why he
+should have cut out, saying he would be back directly; and why he should
+have left me here [[Alone|alone]] so long; I cannot understand.’
 
-‘Everything,’ returned Lightwood impatiently, ‘seems, by a fatality,
-to bring us round to Lizzie. “About town” meant about Lizzie, just now,
-Eugene.’
+The chivalrous Twemlow, Knight of the Simple Heart, was not in a
+condition to offer any suggestion. He was too penitent, too remorseful.
+For the first [[Time|time]] in his life he had done an underhanded action, and he
+had done wrong. He had secretly interposed against this confiding young
+man, for no better real reason than because the young man’s ways were
+not his ways.
 
-‘My solicitor, do you know,’ observed Eugene, turning round to the
-furniture, ‘is a man of infinite discernment!’
+But, the confiding young man proceeded to heap coals of [[Fire|fire]] on his
+sensitive head.
 
-‘Did it not, Eugene?’
+‘I beg your pardon, Mr Twemlow; you see I am acquainted with the [[Nature|nature]]
+of the affairs that are transacted here. Is there anything I can do for
+you here? You have always been brought up as a gentleman, and never as a
+man of business;’ another touch of possible impertinence in this place;
+‘and perhaps you are but a poor man of business. What else is to be
+expected!’
 
-‘Yes it did, Mortimer.’
+‘I am even a poorer man of business than I am a man, sir,’ returned
+Twemlow, ‘and I could hardly express my deficiency in a stronger way. I
+really do not so much as clearly understand my position in the matter
+on which I am brought here. But there are reasons which make me
+very delicate of accepting your assistance. I am greatly, greatly,
+disinclined to profit by it. I don’t deserve it.’
 
-‘And yet, Eugene, you know you do not really care for her.’
+Good childish creature! Condemned to a passage through the world by such
+narrow little dimly-lighted ways, and picking up so few specks or spots
+on the [[Road|road]]!
 
-[[Eugene Wrayburn]] [[Rose|rose]], and put his hands in his pockets, and stood with a
-foot on the fender, indolently rocking his [[Body|body]] and looking at the [[Fire|fire]].
-After a prolonged pause, he replied: ‘I don’t know that. I must ask you
-not to say that, as if we took it for granted.’
+‘Perhaps,’ said Fledgeby, ‘you may be a little proud of entering on the
+topic,—having been brought up as a gentleman.’
 
-‘But if you do care for her, so much the more should you leave her to
-herself.’
+‘It’s not that, sir,’ returned Twemlow, ‘it’s not that. I [[Hope|hope]] I
+distinguish between true [[Pride|pride]] and false [[Pride|pride]].’
 
-Having again paused as before, Eugene said: ‘I don’t know that, either.
-But tell me. Did you ever see me take so much trouble about anything, as
-about this disappearance of hers? I ask, for information.’
+‘I have no [[Pride|pride]] at all, myself,’ said Fledgeby, ‘and perhaps I don’t
+cut things so fine as to know one from t’other. But I know this is a
+place where even a man of business needs his wits about him; and if mine
+can be of any use to you here, you’re welcome to them.’
 
-‘My dear Eugene, I wish I ever had!’
+‘You are very good,’ said Twemlow, faltering. ‘But I am most
+unwilling—’
 
-‘Then you have not? Just so. You confirm my own impression. Does that
-look as if I cared for her? I ask, for information.’
-
-‘I asked YOU for information, Eugene,’ said Mortimer reproachfully.
-
-‘Dear boy, I know it, but I can’t give it. I thirst for information.
-What do I mean? If my taking so much trouble to recover her does not
-mean that I care for her, what does it mean? “If Peter Piper picked a
-peck of pickled pepper, where’s the peck,” &c.?’
-
-Though he said this gaily, he said it with a perplexed and inquisitive
-face, as if he actually did not know what to make of himself. ‘Look on
-to the end—’ Lightwood was beginning to remonstrate, when he caught at
-the words:
-
-‘Ah! See now! That’s exactly what I am incapable of doing. How very
-acute you are, Mortimer, in finding my weak place! When we were at
-school together, I got up my lessons at the last moment, day by day and
-bit by bit; now we are out in life together, I get up my lessons in the
-same way. In the present task I have not got beyond this:—I am bent
-on finding Lizzie, and I mean to find her, and I will take any means
-of finding her that offer themselves. Fair means or foul means, are all
-alike to me. I ask you—for information—what does that mean? When I
-have found her I may ask you—also for information—what do I mean now?
-But it would be premature in this stage, and it’s not the character of
-my mind.’
-
-Lightwood was shaking his head over the air with which his friend held
-forth thus—an air so whimsically open and argumentative as almost to
-deprive what he said of the appearance of evasion—when a shuffling was
-heard at the outer door, and then an undecided knock, as though
-some hand were groping for the knocker. ‘The frolicsome youth of the
-neighbourhood,’ said Eugene, ‘whom I should be delighted to pitch from
-this elevation into the churchyard below, without any intermediate
-ceremonies, have probably turned the lamp out. I am on duty to-[[Night|night]],
-and will see to the door.’
-
-His friend had barely had [[Time|time]] to recall the unprecedented gleam of
-determination with which he had spoken of finding this girl, and which
-had faded out of him with the breath of the spoken words, when Eugene
-came back, ushering in a most disgraceful [[Shadow|shadow]] of a man, shaking from
-head to foot, and clothed in shabby grease and smear.
+‘I don’t, you know,’ proceeded Fledgeby with an ill-favoured glance,
+‘entertain the [[Vanity|vanity]] of supposing that my wits could be of any use
+to you in society, but they might be here. You cultivate society and
+society cultivates you, but Mr Riah’s not society. In society, Mr Riah
+is kept dark; eh, Mr Twemlow?’

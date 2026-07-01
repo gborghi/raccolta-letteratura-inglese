@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 25: GOOD AND BAD ANGELS (part 6)"
+title: "David Copperfield — Chapter 25: GOOD AND BAD ANGELS (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,43 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_25_good_and_bad_angels/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_25_good_and_bad_angels/part_07">part 07 ›</a></div>
 </nav>
 
+
+‘What a [[Prophet|prophet]] you have shown yourself, Mister Copperfield!’ pursued
+Uriah. ‘Dear me, what a [[Prophet|prophet]] you have proved yourself to be! Don’t
+you remember saying to me once, that perhaps I should be a partner in
+Mr. Wickfield’s business, and perhaps it might be Wickfield and
+Heep? You may not recollect it; but when a person is umble, Master
+Copperfield, a person treasures such things up!’
+
+‘I recollect talking about it,’ said I, ‘though I certainly did not
+think it very likely then.’ ‘Oh! who would have thought it likely,
+Mister Copperfield!’ returned Uriah, enthusiastically. ‘I am sure I
+didn’t myself. I recollect saying with my own lips that I was much too
+umble. So I considered myself really and truly.’
+
+He sat, with that carved grin on his face, looking at the [[Fire|fire]], as I
+looked at him.
+
+‘But the umblest persons, Master Copperfield,’ he presently resumed,
+‘may be the instruments of good. I am glad to think I have been the
+instrument of good to Mr. Wickfield, and that I may be more so. Oh what
+a worthy man he is, Mister Copperfield, but how imprudent he has been!’
+
+‘I am sorry to hear it,’ said I. I could not help adding, rather
+pointedly, ‘on all accounts.’
+
+‘Decidedly so, Mister Copperfield,’ replied Uriah. ‘On all accounts.
+Miss Agnes’s above all! You don’t remember your own eloquent
+expressions, Master Copperfield; but I remember how you said one day
+that everybody must admire her, and how I thanked you for it! You have
+forgot that, I have no [[Doubt|doubt]], Master Copperfield?’
+
+‘No,’ said I, drily.
+
+‘Oh how glad I am you have not!’ exclaimed Uriah. ‘To think that you
+should be the first to kindle the sparks of [[Ambition|ambition]] in my umble breast,
+and that you’ve not forgot it! Oh!--Would you excuse me asking for a cup
+more coffee?’
 
 Something in the emphasis he laid upon the kindling of those sparks,
 and something in the glance he directed at me as he said it, had made me
@@ -99,40 +136,4 @@ everyone around her,’ I returned.
 that!’
 
 ‘Not at all,’ I said, loftily. ‘There is no reason why you should thank
-me.’
-
-‘Why that, Master Copperfield,’ said Uriah, ‘is, in fact, the confidence
-that I am going to take the liberty of reposing. Umble as I am,’ he
-wiped his hands harder, and looked at them and at the [[Fire|fire]] by turns,
-‘umble as my mother is, and lowly as our poor but honest roof has ever
-been, the image of Miss Agnes (I don’t mind trusting you with my secret,
-Master Copperfield, for I have always overflowed towards you since the
-first moment I had the pleasure of beholding you in a pony-shay) has
-been in my breast for years. Oh, Master Copperfield, with what a pure
-affection do I [[Love|love]] the ground my Agnes walks on!’
-
-I believe I had a delirious idea of seizing the red-hot poker out of
-the [[Fire|fire]], and running him through with it. It went from me with a shock,
-like a ball fired from a rifle: but the image of Agnes, outraged by so
-much as a thought of this red-headed animal’s, remained in my mind when
-I looked at him, sitting all awry as if his mean [[Soul|soul]] griped his [[Body|body]],
-and made me giddy. He seemed to swell and grow before my eyes; the room
-seemed full of the echoes of his voice; and the strange feeling (to
-which, perhaps, no one is quite a stranger) that all this had occurred
-before, at some indefinite [[Time|time]], and that I knew what he was going to
-say next, took possession of me.
-
-A timely observation of the sense of power that there was in his face,
-did more to bring back to my remembrance the entreaty of Agnes, in
-its full force, than any effort I could have made. I asked him, with
-a better appearance of composure than I could have thought possible a
-minute before, whether he had made his feelings known to Agnes.
-
-‘Oh no, Master Copperfield!’ he returned; ‘oh dear, no! Not to anyone
-but you. You see I am only just emerging from my lowly station. I rest a
-good deal of [[Hope|hope]] on her observing how useful I am to her father (for
-I trust to be very useful to him indeed, Master Copperfield), and how I
-smooth the way for him, and keep him straight. She’s so much attached
-to her father, Master Copperfield (oh, what a lovely thing it is in a
-daughter!), that I think she may come, on his account, to be kind to
 me.’

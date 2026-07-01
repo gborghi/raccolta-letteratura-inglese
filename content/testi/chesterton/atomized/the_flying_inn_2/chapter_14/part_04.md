@@ -164,7 +164,3 @@ mind.
 "Mr. Bullrose will see fair play for you, from a
 throne above the lists," he said.  "I have already put
 my [[Honour|honour]] in the hands of Mr. Hibbs."
-
-"I must decline Captain Dalroy's invitation," said
-Ivywood at last, in a curious tone.  "Not so much
-because--"

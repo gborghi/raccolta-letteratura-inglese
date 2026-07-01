@@ -14,6 +14,13 @@ tags:
 </nav>
 
 
+‘Look here; here’s all this judy’s clothes falling to pieces again.
+You haven’t got a needle and thread I suppose?’
+
+The little man shook his head, and scratched it ruefully as he
+contemplated this severe indisposition of a principal performer.
+Seeing that they were at a loss, the [[Child|child]] said timidly:
+
 ‘I have a needle, Sir, in my basket, and thread too.  Will you let me
 try to mend it for you?  I think I could do it neater than you could.’
 

@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 15 (part 2)"
+title: "The Tenant of Wildfell Hall — Chapter 15 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_15/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_15/part_03">part 03 ›</a></div>
 </nav>
 
+
+doomed to stagnation, and may calm with certainty some agitating
+
+thoughts.”
+
+
+
+I did go on the morrow, but not till towards evening, after the
 
 business of the day was concluded, that is, between six and seven; and
 
@@ -241,15 +249,3 @@ Mrs. Graham had discontinued her walk. She leant against one end of the
 chimney-piece, opposite that near which I was standing, with her chin
 
 resting on her closed hand, her eyes—no longer burning with anger, but
-
-gleaming with restless excitement—sometimes glancing at me while I
-
-spoke, then coursing the opposite wall, or fixed upon the carpet.
-
-
-
-“You should have come to me after all,” said she, “and heard what I had
-
-to say in my own justification. It was ungenerous and wrong to withdraw
-
-yourself so secretly and suddenly, immediately after such ardent

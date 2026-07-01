@@ -1,5 +1,5 @@
 ---
-title: "trees of [[Pride|pride]]"
+title: "trees of pride"
 author: "Chesterton"
 unitType: work
 parentWork: "works/trees-of-pride-(chesterton)"
@@ -59,7 +59,7 @@ to prove that he was hard-headed.
 He had just finished a hearty breakfast, in the society of his daughter,
 at a table under a tree in his [[Garden|garden]] by the Cornish coast.
 For, having a glorious circulation, he insisted on as many outdoor
-meals as possible, though [[Spring|spring]] had barely touched the woods
+meals as possible, though [[spring]] had barely touched the woods
 and warmed the seas round that southern extremity of England.
 His daughter Barbara, a good-looking girl with heavy red hair
 and a face as [[Grave|grave]] as one of the [[Garden|garden]] statues, still sat
@@ -455,7 +455,7 @@ Finally, the tempter filled the tree-top with his own [[Birds|birds]] of [[Pride
 the starry pageant of the peacocks.  And the spirit of the brute overcame
 the spirit of the tree, and it rent and consumed the blue-green [[Birds|birds]]
 till not a plume was left, and returned to the quiet tribe of trees.
-But they say that when [[Spring|spring]] came all the other trees put forth [[Leaves|leaves]],
+But they say that when [[spring]] came all the other trees put forth [[Leaves|leaves]],
 but this put forth feathers of a strange hue and pattern.
 And by that monstrous assimilation the saint knew of the sin,
 and he rooted that one tree to the earth with a judgment,
@@ -665,7 +665,7 @@ It was more than a month before the legend of the peacock trees was
 again discussed in the Squire's circle.  It fell out one evening,
 when his eccentric taste for meals in the [[Garden|garden]] that gathered
 the company round the same table, now lit with a lamp and laid out
-for dinner in a glowing [[Spring|spring]] twilight.  It was even the same company,
+for dinner in a glowing [[spring]] twilight.  It was even the same company,
 for in the few weeks intervening they had insensibly grown more and
 more into each other's lives, forming a little group like a club.
 The American aesthete was of course the most active agent, his resolution
@@ -998,7 +998,7 @@ is to believe in God; for we can't help believing in devils."
 And she left them, still walking quite slowly, but in such a fashion
 that no one could go after her.
 
-The [[Spring|spring]] had already begun to ripen into [[Summer|summer]], and spread a green
+The [[spring]] had already begun to ripen into [[Summer|summer]], and spread a green
 tent from the tree over the [[Garden|garden]] table, when the American visitor,
 sitting there with his two professional companions, broke the [[Silence|silence]]
 by saying what had long been in his mind.
@@ -2421,7 +2421,7 @@ of noodles have been nodding their heads over crystals and tarot
 cards at this marvelous proof of an unseen world.  I reckon the
 Reappearing Squire will scatter their cards and smash their crystals,
 so that such rubbish won't appear again in the twentieth century.
-I'll make the peacock trees the laughing stock of all Europe and [[America]]."
+I'll make the peacock trees the laughing stock of all Europe and [[america|America]]."
 
 "[[Well]]," said the lawyer, who was the first to rearrange his wits,
 "I'm sure we're all only too delighted to see you again, Squire;
@@ -2458,7 +2458,7 @@ Doctor Brown had lifted his head; and he now very slowly lifted
 his hand.  He pointed with outstretched arm at the headland
 overhanging the foreshore, just above the entrance to the [[Cave|cave]].
 It was the exact part of the beach where Paynter had first landed,
-on that [[Spring|spring]] morning when he had looked up in his first fresh
+on that [[spring]] morning when he had looked up in his first fresh
 [[Wonder|wonder]] at the peacock trees.  But the trees were gone.
 
 The fact itself was no surprise to them; the clearance had naturally

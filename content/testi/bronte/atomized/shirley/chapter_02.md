@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 2"
+title: "Shirley — Chapter 2"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/shirley-(bronte)"
@@ -534,7 +534,7 @@ myself baffled at every turn by their untoward effects."
 
 warehouse yonder, and observe how it is piled to the roof with pieces.
 
-Roakes and Pearson are in the same condition. [[America]] used to be their
+Roakes and Pearson are in the same condition. [[america|America]] used to be their
 
 market, but the Orders in Council have cut that off."
 
@@ -910,7 +910,7 @@ The "Orders in Council," provoked by Napoleon's Milan and Berlin
 
 decrees, and forbidding neutral powers to trade with France, had, by
 
-offending [[America]], cut off the principal market of the Yorkshire woollen
+offending [[america|America]], cut off the principal market of the Yorkshire woollen
 
 trade, and brought it consequently to the verge of ruin. Minor foreign
 

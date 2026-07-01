@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 17"
+title: "The Professor — Chapter 17"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-professor-(bronte)"
@@ -15,8 +15,6 @@ tags:
 
 
 CHAPTER XVII.
-
-
 
 AFTER all I had profited but imperfectly by the opportunity I had so
 
@@ -50,8 +48,6 @@ Henri, regardless that envy stared and detraction whispered whenever I
 
 approached her.
 
-
-
 “Your book an instant.” Such was the mode in which I often began these
 
 brief dialogues; the [[Time|time]] was always just at the conclusion of the
@@ -70,8 +66,6 @@ and [[Self|self]]-possessed--an odd contradiction, doubtless, to the ordinary
 
 effect in such cases; but so it was.
 
-
-
 “A pencil,” said I, holding out my hand without looking at her. (I am
 
 now about to [[Sketch|sketch]] a brief report of the first of these conferences.)
@@ -80,109 +74,59 @@ She gave me one, and while I underlined some errors in a grammatical
 
 exercise she had written, I observed--
 
-
-
 “You are not a native of Belgium?”
 
-
-
 “No.”
-
-
 
 “Nor of France?”
 
-
-
 “No.”
-
-
 
 “Where, then, is your birthplace?”
 
-
-
 “I was born at Geneva.”
-
-
 
 “You don’t call Frances and Evans Swiss names, I presume?”
 
-
-
 “No, sir; they are English names.”
-
-
 
 “Just so; and is it the custom of the Genevese to give their children
 
 English appellatives?”
 
-
-
 “Non, Monsieur; mais--”
-
-
 
 “Speak English, if you please.”
 
-
-
 “Mais--”
 
-
-
 “English--”
-
-
 
 “But” (slowly and with embarrassment) “my parents were not all the two
 
 Genevese.”
 
-
-
 “Say BOTH, instead of ‘all the two,’ mademoiselle.”
-
-
 
 “Not BOTH Swiss: my mother was English.”
 
-
-
 “Ah! and of English extraction?”
-
-
 
 “Yes--her ancestors were all English.”
 
-
-
 “And your father?”
-
-
 
 “He was Swiss.”
 
-
-
 “What besides? What was his profession?”
 
-
-
 “Ecclesiastic--pastor--he had a church.”
-
-
 
 “Since your mother is an Englishwoman, why do you not speak English with
 
 more facility?”
 
-
-
 “Maman est morte, il y a dix ans.”
-
-
 
 “And you do homage to her [[Memory|memory]] by forgetting her language. Have the
 
@@ -190,69 +134,37 @@ goodness to put French out of your mind so long as I converse with
 
 you--keep to English.”
 
-
-
 “C’est si difficile, monsieur, quand on n’en a plus l’habitude.”
-
-
 
 “You had the habitude formerly, I suppose? Now answer me in your mother
 
 tongue.”
 
-
-
 “Yes, sir, I spoke the English more than the French when I was a [[Child|child]].”
-
-
 
 “Why do you not speak it now?”
 
-
-
 “Because I have no English friends.”
-
-
 
 “You live with your father, I suppose?”
 
-
-
 “My father is dead.”
-
-
 
 “You have brothers and sisters?”
 
-
-
 “Not one.”
-
-
 
 “Do you live [[Alone|alone]]?”
 
-
-
 “No--I have an aunt--ma tante Julienne.”
-
-
 
 “Your father’s sister?”
 
-
-
 “Justement, monsieur.”
-
-
 
 “Is that English?”
 
-
-
 “No--but I forget--”
-
-
 
 “For which, mademoiselle, if you were a [[Child|child]] I should certainly devise
 
@@ -260,11 +172,7 @@ some slight punishment; at your age--you must be two or three and
 
 twenty, I should think?”
 
-
-
 “Pas encore, monsieur--en un mois j’aurai dix-neuf ans.”
-
-
 
 “[[Well]], nineteen is a mature age, and, having attained it, you ought to
 
@@ -273,8 +181,6 @@ be so solicitous for your own improvement, that it should not be needful
 for a master to remind you twice of the expediency of your speaking
 
 English whenever practicable.”
-
-
 
 To this wise speech I received no answer; and, when I looked up, my
 
@@ -286,87 +192,49 @@ so plainly, that I determined to request information on the point
 
 concerning which my ignorance seemed to be thus tacitly affirmed.
 
-
-
 “Are you solicitous for your own improvement?”
-
-
 
 “Rather.”
 
-
-
 “How do you prove it, mademoiselle?”
-
-
 
 An odd question, and bluntly put; it excited a second smile.
 
-
-
 “Why, monsieur, I am not inattentive--am I? I learn my lessons [[Well|well]]--”
-
-
 
 “Oh, a [[Child|child]] can do that! and what more do you do?”
 
-
-
 “What more can I do?”
-
-
 
 “Oh, certainly, not much; but you are a teacher, are you not, as [[Well|well]] as
 
 a pupil?”
 
-
-
 “Yes.”
-
-
 
 “You teach lace-[[mending]]?”
 
-
-
 “Yes.”
-
-
 
 “A dull, stupid occupation; do you like it?”
 
-
-
 “No--it is tedious.”
-
-
 
 “Why do you pursue it? Why do you not rather teach [[history]], geography,
 
 grammar, even arithmetic?”
 
-
-
 “Is monsieur certain that I am myself thoroughly acquainted with these
 
 studies?”
 
-
-
 “I don’t know; you ought to be at your age.”
 
-
-
 “But I never was at school, monsieur--”
-
-
 
 “Indeed! What then were your friends--what was your aunt about? She is
 
 very much to blame.”
-
-
 
 “No monsieur, no--my aunt is good--she is not to blame--she does what
 
@@ -378,13 +246,9 @@ rich; she has only an annuity of twelve hundred francs, and it would be
 
 impossible for her to send me to school.”
 
-
-
 “Rather,” thought I to myself on hearing this, but I continued, in the
 
 dogmatical tone I had adopted:--
-
-
 
 “It is sad, however, that you should be brought up in ignorance of the
 
@@ -394,11 +258,7 @@ and grammar you might, by degrees, have relinquished your lace-[[mending]]
 
 drudgery, and risen in the world.”
 
-
-
 “It is what I mean to do.”
-
-
 
 “How? By a knowledge of English [[Alone|alone]]? That will not suffice; no
 
@@ -406,17 +266,11 @@ respectable family will receive a governess whose whole stock of
 
 knowledge consists in a familiarity with one foreign language.”
 
-
-
 “Monsieur, I know other things.”
-
-
 
 “Yes, yes, you can work with Berlin wools, and embroider handkerchiefs
 
 and collars--that will do little for you.”
-
-
 
 Mdlle. Henri’s lips were unclosed to answer, but she checked herself,
 
@@ -424,37 +278,25 @@ as thinking the discussion had been sufficiently pursued, and remained
 
 silent.
 
-
-
 “Speak,” I continued, impatiently; “I never like the appearance of
 
 acquiescence when the reality is not there; and you had a contradiction
 
 at your tongue’s end.”
 
-
-
 “Monsieur, I have had many lessons both in grammar, [[history]], geography,
 
 and arithmetic. I have gone through a course of each study.”
-
-
 
 “Bravo! but how did you manage it, since your aunt could not afford to
 
 send you to school?”
 
-
-
 “By lace-[[mending]]; by the thing monsieur despises so much.”
-
-
 
 “Truly! And now, mademoiselle, it will be a good exercise for you to
 
 explain to me in English how such a result was produced by such means.”
-
-
 
 “Monsieur, I begged my aunt to have me taught lace-[[mending]] soon after
 
@@ -480,39 +322,23 @@ despise me, as the pupils here despise me. Pourtant j’ai mon projet,”
 
  she added in a lower tone.
 
-
-
 “What is it?”
 
-
-
 “I will go and live in England; I will teach French there.”
-
-
 
 The words were pronounced emphatically. She said “England” as you might
 
 suppose an Israelite of Moses’ days would have said Canaan.
 
-
-
 “Have you a wish to see England?”
-
-
 
 “Yes, and an intention.”
 
-
-
 And here a voice, the voice of the directress, interposed:
-
-
 
 “Mademoiselle Henri, je crois qu’il va pleuvoir; vous feriez bien, ma
 
 bonne amie, de retourner chez vous tout de suite.”
-
-
 
 In [[Silence|silence]], without a word of thanks for this officious warning, Mdlle.
 
@@ -521,8 +347,6 @@ Henri collected her books; she moved to me respectfully, endeavoured to
 move to her superior, though the endeavour was almost a failure, for her
 
 head seemed as if it would not bend, and thus departed.
-
-
 
 Where there is one grain of perseverance or wilfulness in the
 
@@ -538,13 +362,9 @@ of the next lesson I was again at Mdlle. Henri’s desk. Thus did I accost
 
 her:--
 
-
-
 “What is your idea of England, mademoiselle? Why do you wish to go
 
 there?”
-
-
 
 Accustomed by this [[Time|time]] to the calculated abruptness of my manner, it no
 
@@ -556,13 +376,9 @@ experienced in improvising the [[Translation|translation]] of her thoughts from 
 
 to English.
 
-
-
 “England is something unique, as I have heard and read; my idea of it is
 
 vague, and I want to go there to render my idea clear, definite.”
-
-
 
 “Hum! How much of England do you suppose you could see if you went there
 
@@ -574,17 +390,11 @@ Britain would be the interior of a school, or at most of one or two
 
 private dwellings.”
 
-
-
 “It would be an English school; they would be English dwellings.”
-
-
 
 “Indisputably; but what then? What would be the value of observations
 
 made on a scale so narrow?”
-
-
 
 “Monsieur, might not one learn something by analogy?
 
@@ -596,27 +406,15 @@ life would perhaps seem narrow in your eyes--all the life of a--that
 
 little animal subterranean--une taupe--comment dit-on?”
 
-
-
 “Mole.”
-
-
 
 “Yes--a mole, which lives underground would seem narrow even to me.”
 
-
-
 “[[Well]], mademoiselle--what then? Proceed.”
-
-
 
 “Mais, monsieur, vous me comprenez.”
 
-
-
 “Not in the least; have the goodness to explain.”
-
-
 
 “Why, monsieur, it is just so. In Switzerland I have done but little,
 
@@ -642,21 +440,15 @@ Geneva, now I know something of the bourgeois of Brussels; if I went to
 
 any sense out of what I say, monsieur, or is it all obscure?”
 
-
-
 “I see, I see--now let us advert to another subject; you propose to
 
 devote your life to teaching, and you are a most unsuccessful teacher;
 
 you cannot keep your pupils in order.”
 
-
-
 A flush of painful confusion was the result of this harsh remark; she
 
 bent her head to the desk, but soon raising it replied--
-
-
 
 “Monsieur, I am not a skilful teacher, it is true, but practice
 
@@ -668,8 +460,6 @@ art; then I have no associates in this [[house]], I am isolated; I am too a
 
 heretic, which deprives me of influence.”
 
-
-
 “And in England you would be a foreigner; that too would deprive you
 
 of influence, and would effectually separate you from all round you; in
@@ -677,8 +467,6 @@ of influence, and would effectually separate you from all round you; in
 England you would have as few connections, as little importance as you
 
 have here.”
-
-
 
 “But I should be learning something; for the rest, there are probably
 
@@ -688,19 +476,13 @@ perhaps be conquered, I would rather submit to English [[Pride|pride]] than to
 
 Flemish coarseness; besides, monsieur--”
 
-
-
 She stopped--not evidently from any difficulty in finding words to
 
 express herself, but because discretion seemed to say, “You have said
 
 enough.”
 
-
-
 “Finish your phrase,” I urged.
-
-
 
 “Besides, monsieur, I long to live once more among Protestants; they are
 
@@ -716,15 +498,11 @@ lies; they all call it politeness to profess [[Friendship|friendship]] where the
 
 hatred.”
 
-
-
 “All?” said I; “you mean the pupils--the mere children--inexperienced,
 
 giddy things, who have not learnt to distinguish the difference between
 
 right and wrong?”
-
-
 
 “On the contrary, monsieur--the children are the most sincere; they have
 
@@ -736,11 +514,7 @@ the grown-up people are very false; they deceive strangers, they deceive
 
 each other--”
 
-
-
 A servant here entered:--
-
-
 
 “Mdlle. Henri--Mdlle. Reuter vous prie de vouloir bien conduire la
 
@@ -749,8 +523,6 @@ petite de Dorlodot chez elle, elle vous attend dans le cabinet
 de Rosalie la portiere--c’est que sa bonne n’est pas venue la
 
 chercher--voyez-vous.”
-
-
 
 “Eh bien! est-ce que je suis sa bonne--moi?” demanded Mdlle. Henri; then
 

@@ -1,5 +1,5 @@
 ---
-title: "[[misc]] — THE ARISTOCRATIC 'ARRY"
+title: "misc — THE ARISTOCRATIC 'ARRY"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 THE ARISTOCRATIC 'ARRY
-
 
 The Cheap Tripper, pursued by the curses of the aesthetes and
 the antiquaries, really is, I suppose, a symptom of the strange

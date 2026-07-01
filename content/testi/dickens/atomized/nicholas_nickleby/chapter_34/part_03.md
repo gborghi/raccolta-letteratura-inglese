@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 34 (part 3)"
+title: "Nicholas Nickleby — Chapter 34 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -146,9 +146,3 @@ me once there should be a day of reckoning between us, sooner or later.
 I’ll make him a true [[Prophet|prophet]], for it shall surely come.’
 
 ‘Are you at [[Home|home]]?’ asked Newman, suddenly popping in his head.
-
-‘No,’ replied Ralph, with equal abruptness.
-
-Newman withdrew his head, but thrust it in again.
-
-‘You’re quite sure you’re not at [[Home|home]], are you?’ said Newman.

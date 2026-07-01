@@ -14,6 +14,16 @@ tags:
 </nav>
 
 
+"One is tempted to wish he were martyred already; but the [[Martyrdom|martyrdom]],
+if any, was not his," said Garth darkly.  "Allow me to continue my story
+in order.  I had crossed the market-place to find Professor Boyg's
+private [[house]], which stood at the corner of it.  I found the shutters
+up and the [[house]] apparently empty, except for one old servant,
+who refused at first to tell me anything; indeed, I found a good deal
+of rustic reluctance on both sides to tell a foreigner anything.
+But when I had managed to make the [[Nature|nature]] of my introduction quite
+plain to him, he finally broke down; and told me his master was dead."
+
 There was a pause, and then Gale, who seemed for the first [[Time|time]]
 somewhat impressed, asked abstractedly:
 

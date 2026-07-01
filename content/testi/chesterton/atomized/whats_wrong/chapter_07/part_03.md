@@ -1,5 +1,5 @@
 ---
-title: "whats wrong — Part 2 (part 3)"
+title: "whats wrong — Part 3 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/whats-wrong-(chesterton)"
@@ -14,119 +14,103 @@ tags:
 </nav>
 
 
-The word [[Comradeship|comradeship]] just now promises to become as fatuous as
-the word "affinity."  There are clubs of a Socialist sort where all
-the members, men and women, call each other "Comrade."  I have no
-serious emotions, hostile or otherwise, about this particular habit:
-at the worst it is conventionality, and at the best flirtation.
-I am convinced here only to point out a rational principle.
-If you choose to lump all [[Flowers|flowers]] together, lilies and dahlias
-and tulips and chrysanthemums and call them all daisies,
-you will find that you have spoiled the very fine word daisy.
-If you choose to call every human attachment [[Comradeship|comradeship]],
-if you include under that name the respect of a youth for a
-venerable prophetess, the interest of a man in a beautiful woman
-who baffles him, the pleasure of a philosophical old fogy in a girl
-who is impudent and [[Innocent|innocent]], the end of the meanest quarrel
-or the beginning of the most mountainous [[Love|love]]; if you are going
-to call all these [[Comradeship|comradeship]], you will gain nothing, you will
-only lose a word.  Daisies are obvious and universal and open;
-but they are only one kind of flower.  [[Comradeship]] is obvious
-and universal and open; but it is only one kind of affection;
-it has characteristics that would destroy any other kind.
-Anyone who has known true [[Comradeship|comradeship]] in a club or in a regiment,
-knows that it is impersonal.  There is a pedantic phrase used
-in debating clubs which is strictly true to the masculine emotion;
-they call it "speaking to the question."  Women speak to each other;
-men speak to the subject they are speaking about.  Many an honest
-man has sat in a ring of his five best friends under heaven
-and forgotten who was in the room while he explained some system.
-This is not peculiar to intellectual men; men are all theoretical,
-whether they are talking about God or about golf.
-Men are all impersonal; that is to say, republican.  No one
-remembers after a really good talk who has said the good things.
-Every man speaks to a visionary multitude; a mystical cloud,
-that is called the club.
-
-It is obvious that this cool and careless quality which is essential
-to the collective affection of males involves disadvantages and dangers.
-It leads to spitting; it leads to coarse speech; it must lead to
-these things so long as it is honorable; [[Comradeship|comradeship]] must be in some
-degree ugly.  The moment [[Beauty|beauty]] is mentioned in male [[Friendship|friendship]],
-the nostrils are stopped with the smell of abominable things.
-[[Friendship]] must be physically dirty if it is to be morally clean.
-It must be in its shirt sleeves.  The chaos of habits that always goes
-with males when left entirely to themselves has only one honorable cure;
-and that is the strict discipline of a monastery.  Anyone who has
-seen our unhappy young idealists in East End Settlements losing their
-collars in the wash and living on tinned salmon will fully understand
-why it was decided by the wisdom of St. Bernard or St. Benedict,
-that if men were to live without women, they must not live without rules.
-Something of the same sort of artificial exactitude, of course,
-is obtained in an army; and an army also has to be in many ways monastic;
-only that it has celibacy without chastity.  But these things do not
-apply to normal married men.  These have a quite sufficient restraint
-on their instinctive anarchy in the savage common-sense of the other sex.
-There is only one very timid sort of man that is not afraid of women.
+But for women this ideal of comprehensive capacity (or common-sense)
+must long ago have been washed away.  It must have melted
+in the frightful furnaces of [[Ambition|ambition]] and eager technicality.
+A man must be partly a one-idead man, because he is a
+one-weaponed man--and he is flung naked into the fight.
+The world's demand comes to him direct; to his wife indirectly.
+In short, he must (as the books on [[success|Success]] say) give "his best";
+and what a small part of a man "his best" is!  His second
+and third best are often much better.  If he is the first violin
+he must fiddle for life; he must not remember that he is
+a fine fourth bagpipe, a fair fifteenth billiard-cue, a foil,
+a fountain pen, a hand at whist, a gun, and an image of God.
 
 * * *
 
 III
 
-THE COMMON VISION
+THE EMANCIPATION OF DOMESTICITY
 
-Now this masculine [[Love|love]] of an open and level camaraderie is
-the life within all democracies and attempts to govern by [[debate]];
-without it the republic would be a dead formula.  Even as it is,
-of course, the spirit of [[democracy]] frequently differs widely
-from the letter, and a pothouse is often a better test than
-a Parliament.  [[democracy|Democracy]] in its human sense is not arbitrament
-by the majority; it is not even arbitrament by everybody.
-It can be more nearly defined as arbitrament by anybody.
-I mean that it rests on that club habit of taking a total
-stranger for granted, of assuming certain things to be inevitably
-common to yourself and him.  Only the things that anybody
-may be presumed to hold have the full authority of [[democracy]].
-Look out of the [[Window|window]] and notice the first man who walks by.
-The Liberals may have swept England with an over-whelming majority;
-but you would not stake a button that the man is a Liberal.  The [[Bible]]
-may be read in all schools and respected in all law courts; but you
-would not bet a straw that he believes in the [[Bible]].  But you would bet
-your week's wages, let us say, that he believes in wearing clothes.
-You would bet that he believes that physical [[Courage|courage]] is a fine thing,
-or that parents have authority over children.  Of course,
-he might be the millionth man who does not believe these things;
-if it comes to that, he might be the Bearded Lady dressed up as a man.
-But these prodigies are quite a different thing from any mere
-calculation of numbers.  People who hold these views are not a minority,
-but a monstrosity.  But of these universal dogmas that have full
-democratic authority the only test is this test of anybody.
-What you would observe before any newcomer in a tavern--that is
-the real English law.  The first man you see from the [[Window|window]],
-he is the [[King]] of England.
+And it should be remarked in passing that this force upon a man to develop
+one feature has nothing to do with what is commonly called our competitive
+system, but would equally exist under any rationally conceivable kind
+of Collectivism.  Unless the Socialists are frankly ready for a fall
+in the standard of violins, telescopes and electric lights, they must
+somehow create a moral demand on the individual that he shall keep up
+his present concentration on these things.  It was only by men being
+in some degree specialist that there ever were any telescopes; they must
+certainly be in some degree specialist in order to keep them going.
+It is not by making a man a State wage-earner that you can prevent him
+thinking principally about the very difficult way he earns his wages.
+There is only one way to preserve in the world that high levity and that
+more leisurely outlook which fulfils the old vision of universalism.
+That is, to permit the existence of a partly protected half of humanity;
+a half which the harassing industrial demand troubles indeed, but only
+troubles indirectly.  In other words, there must be in every center
+of humanity one human being upon a larger plan; one who does not "give
+her best," but gives her all.
 
-The [[Decay|decay]] of taverns, which is but a part of the general [[Decay|decay]]
-of [[democracy]], has undoubtedly weakened this masculine spirit
-of equality.  I remember that a roomful of Socialists literally
-laughed when I told them that there were no two nobler words
-in all poetry than Public [[house|House]].  They thought it was a joke.
-Why they should think it a joke, since they want to make all houses
-public houses, I cannot imagine.  But if anyone wishes to see
-the real rowdy egalitarianism which is necessary (to males, at least)
-he can find it as [[Well|well]] as anywhere in the great old tavern disputes
-which come down to us in such books as Boswell's Johnson.  It is
-worth while to mention that one name especially because the modern
-world in its morbidity has done it a strange injustice.
-The demeanor of Johnson, it is said, was "harsh and despotic."
-It was occasionally harsh, but it was never despotic.
-Johnson was not in the least a despot; Johnson was a demagogue,
-he shouted against a shouting crowd.  The very fact that he wrangled
-with other people is proof that other people were allowed
-to wrangle with him.  His very brutality was based on the idea
-of an equal scrimmage, like that of football.  It is strictly true
-that he bawled and banged the table because he was a modest man.
-He was honestly afraid of being overwhelmed or even overlooked.
-Addison had exquisite manners and was the [[King|king]] of his company;
-he was polite to everybody; but superior to everybody;
-therefore he has been handed down forever in the immortal
-insult of Pope--
+Our old analogy of the [[Fire|fire]] remains the most workable one.
+The [[Fire|fire]] need not blaze like electricity nor boil like boiling [[Water|water]];
+its point is that it blazes more than [[Water|water]] and warms more than light.
+The wife is like the [[Fire|fire]], or to put things in their proper proportion,
+the [[Fire|fire]] is like the wife.  Like the [[Fire|fire]], the woman is expected
+to cook:  not to excel in cooking, but to cook; to cook better
+than her husband who is earning the coke by lecturing on botany
+or breaking stones.  Like the [[Fire|fire]], the woman is expected to tell
+tales to the children, not original and artistic tales, but tales--
+better tales than would probably be told by a first-class cook.
+Like the [[Fire|fire]], the woman is expected to illuminate and ventilate,
+not by the most startling revelations or the wildest winds of thought,
+but better than a man can do it after breaking stones or lecturing.
+But she cannot be expected to endure anything like this universal
+duty if she is also to endure the direct cruelty of competitive or
+bureaucratic toil.  Woman must be a cook, but not a competitive cook;
+a school mistress, but not a competitive schoolmistress;
+a [[house]]-decorator but not a competitive [[house]]-decorator; a dressmaker,
+but not a competitive dressmaker.  She should have not one trade but
+twenty hobbies; she, unlike the man, may develop all her second bests.
+This is what has been really aimed at from the first in what
+is called the seclusion, or even the oppression, of women.
+Women were not kept at [[Home|home]] in order to keep them narrow;
+on the contrary, they were kept at [[Home|home]] in order to keep them broad.
+The world outside the [[Home|home]] was one mass of narrowness,
+a maze of cramped paths, a madhouse of monomaniacs.
+It was only by partly limiting and protecting the woman that she
+was enabled to play at five or six professions and so come almost
+as near to God as the [[Child|child]] when he plays at a hundred trades.
+But the woman's professions, unlike the [[Child|child]]'s, were all truly
+and almost terribly fruitful; so tragically real that nothing but
+her universality and balance prevented them being merely morbid.
+This is the substance of the contention I offer about the historic
+female position.  I do not deny that women have been wronged
+and even tortured; but I [[Doubt|doubt]] if they were ever tortured so much
+as they are tortured now by the absurd modern attempt to make
+them domestic empresses and competitive clerks at the same [[Time|time]].
+I do not deny that even under the old tradition women had
+a harder [[Time|time]] than men; that is why we take off our hats.
+I do not deny that all these various female functions were exasperating;
+but I say that there was some aim and meaning in keeping them various.
+I do not pause even to deny that woman was a servant; but at least
+she was a general servant.
+
+The shortest way of summarizing the position is to say that woman
+stands for the idea of [[Sanity]]; that intellectual [[Home|home]] to which
+the mind must return after every excursion on extravagance.
+The mind that finds its way to wild places is the poet's;
+but the mind that never finds its way back is the lunatic's. There must
+in every [[Machine|machine]] be a part that moves and a part that stands still;
+there must be in everything that changes a part that is unchangeable.
+And many of the phenomena which moderns hastily condemn are really parts
+of this position of the woman as the center and pillar of health.
+Much of what is called her subservience, and even her pliability,
+is merely the subservience and pliability of a universal remedy;
+she varies as medicines vary, with the disease.  She has
+to be an optimist to the morbid husband, a salutary pessimist
+to the happy-go-lucky husband.  She has to prevent the Quixote
+from being put upon, and the bully from putting upon others.
+The French [[King]] wrote--
+
+"Toujours femme varie Bien fol qui s'y fie,"

@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 18 (part 3)"
+title: "The Mystery of Edwin Drood — Chapter 18 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_19/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_20/part_01">part 01 ›</a></div>
 </nav>
 
+
+All this [[Time|time]] Mr. Datchery had walked with his hat under his arm, and
+his white hair streaming. He had an odd momentary appearance upon him
+of having forgotten his hat, when Mr. Sapsea now touched it; and he
+clapped his hand up to his head as if with some vague expectation of
+finding another hat upon it.
 
 “Pray be covered, sir,” entreated Mr. Sapsea; magnificently plying: “I
 shall not mind it, I assure you.”

@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 60 (part 3)"
+title: "Bleak House — Chapter 60 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_60/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_60/part_04">part 04 ›</a></div>
 </nav>
 
+
+“I am afraid you see [[Richard]] oftener than ever now,” said I.
+
+“My dearest,” returned Miss Flite, “daily and hourly. You know what I
+told you of the attraction on the Chancellor’s table? My dear, next
+to myself he is the most constant suitor in [[Court|court]]. He begins quite to
+amuse our little party. Ve-ry friendly little party, are we not?”
 
 It was miserable to hear this from her poor mad lips, though it was
 no surprise.
@@ -139,17 +146,3 @@ you are engaged with him.”
 Mr. Vholes, with a noiseless cough—or rather gasp—into one of his
 black gloves, inclined his head as if he did not wholly dispute even
 that.
-
-“Miss Summerson,” he said, “it may be so; and I freely admit that the
-young lady who has taken Mr. C.’s name upon herself in so ill-advised
-a manner—you will I am sure not quarrel with me for throwing out
-that remark again, as a duty I owe to Mr. C.’s connexions—is a
-highly genteel young lady. Business has prevented me from mixing much
-with general society in any but a professional character; still I
-trust I am competent to perceive that she is a highly genteel young
-lady. As to [[Beauty|beauty]], I am not a judge of that myself, and I never did
-give much attention to it from a boy, but I dare say the young lady
-is equally eligible in that point of view. She is considered so (I
-have heard) among the clerks in the Inn, and it is a point more in
-their way than in mine. In reference to Mr. C.’s pursuit of his
-interests—”

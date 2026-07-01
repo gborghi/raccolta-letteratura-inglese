@@ -14,6 +14,34 @@ tags:
 </nav>
 
 
+The popular pictures of these primeval empires are not half so popular
+as they might be.  There is shed over them the [[Shadow|shadow]] of an exaggerated
+gloom, more than the normal and even healthy sadness of heathen men.
+It is part of the same sort of secret pessimism that loves to make
+primitive man a crawling creature, whose [[Body|body]] is filth and whose
+[[Soul|soul]] is [[Fear|fear]].  It comes of course from the fact that men are
+moved most by their religion; especially when it is irreligion.
+For them anything primary and elemental must be evil.
+But it is the curious consequence that while we have been
+deluged with the wildest experiments in primitive [[Romance|romance]],
+they have all missed the real [[Romance|romance]] of being primitive.
+They have described scenes that are wholly imaginary, in which
+the men of the Stone Age are men of stone like walking statues;
+in which the Assyrians or Egyptians are as stiff or as painted
+as their own most archaic art.  But none of these makers of imaginary
+scenes have tried to imagine what it must really have been like to
+see those things as fresh which we see as familiar.  They have not
+seen a man discovering [[Fire|fire]] like a [[Child|child]] discovering fireworks.
+They have not seen a man playing with the wonderful invention called
+the [[Wheel|wheel]], like a boy playing at putting up a wireless station.
+They have never put the spirit of youth into their descriptions
+of the youth of the world.  It follows that amid all their primitive
+or prehistoric fancies there are no jokes.  There are not even
+practical jokes, in connection with the practical inventions.
+And this is very sharply defined in the particular case of hieroglyphics;
+for there seems to be serious indication that the whole high human
+art of scripture or writing began with a joke.
+
 There are some who will learn with regret that it seems to have begun
 with a pun.  The [[King|king]] or the priests or some responsible persons,
 wishing to send a message up the [[River|river]] in that inconveniently long
@@ -82,32 +110,3 @@ sense in it than in disfiguring our cities with cockney statues
 of stale politicians and philanthropists.  But one of the strange
 marks of the strength of [[Christianity]] is that, since it came,
 no pagan in our civilisation has been able to be really human.
-
-The point is here, however, that the Egyptian [[government]],
-whether pontifical or royal, found it more and more necessary
-to establish communication; and there always went with communication
-a certain element of coercion.  It is not necessarily an indefensible
-thing that the state grew more despotic as it grew more civilised;
-it is arguable that it had to grow more despotic in order to grow
-more civilised.  That is the argument for autocracy in every age;
-and the interest lies in seeing it illustrated in the earliest age.
-But it is emphatically not true that it was most despotic
-in the earliest age and grew more liberal in a later age;
-the practical process of [[history]] is exactly the reverse.
-It is not true that the tribe began in the extreme of terror of
-the Old Man and his seat and spear; it is probable, at least in [[Egypt]],
-that the Old Man was rather a New Man armed to attack new conditions.
-His spear grew longer and longer and his throne [[Rose|rose]] higher
-and higher, as [[Egypt]] [[Rose|rose]] into a complex and complete civilisation.
-That is what I mean by saying that the [[history]] of the Egyptian
-territory is in this the [[history]] of the earth; and directly denies
-the vulgar assumption that terrorism can only come at the beginning
-and cannot come at the end.  We do not know what was the very first
-condition of the more or less feudal amalgam of land owners,
-peasants and slaves in the little commonwealths beside the Nile;
-but it may have been a peasantry of an even more popular sort.
-What we do know is that it was by experience and [[Education|education]] that
-little commonwealths lose their liberty; that absolute sovereignty
-is something not merely ancient but rather relatively modern;
-and it is at the end of the path called progress that men return
-to the [[King|king]].

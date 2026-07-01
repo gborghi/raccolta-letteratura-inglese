@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 9 (part 1)"
+title: "Northanger Abbey — Chapter 9 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -211,9 +211,3 @@ companion immediately made the matter perfectly simple by assuring her
 that it was entirely owing to the peculiarly judicious manner in which
 
 he had then held the reins, and the singular discernment and dexterity
-
-with which he had directed his whip. Catherine, though she could not
-
-help wondering that with such perfect command of his [[Horse|horse]], he should
-
-think it necessary to alarm her with a relation of its tricks,

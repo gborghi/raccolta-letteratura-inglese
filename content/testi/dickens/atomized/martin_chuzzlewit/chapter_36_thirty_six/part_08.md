@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 36: THIRTY SIX (part 8)"
+title: "Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 8)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,43 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_36_thirty_six/part_07">‹ part 07</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_37_thirty_seven/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘Pretty [[Well|well]]! Upon my word,’ exclaimed the gentleman, ‘this is pretty
+[[Well|well]]!’
+
+‘It is very ill, sir,’ said Tom. ‘It is very bad and mean, and wrong and
+cruel. Respect! I believe young people are quick enough to observe and
+imitate; and why or how should they respect whom no one else respects,
+and everybody slights? And very partial they must grow--oh, very
+partial!--to their studies, when they see to what a pass proficiency in
+those same tasks has brought their governess! Respect! Put anything the
+most deserving of respect before your daughters in the light in which
+you place her, and you will bring it down as low, no matter what it is!’
+
+‘You speak with extreme impertinence, young man,’ observed the
+gentleman.
+
+‘I speak without passion, but with extreme indignation and contempt
+for such a course of treatment, and for all who practice it,’ said
+Tom. ‘Why, how can you, as an honest gentleman, profess displeasure or
+surprise at your daughter telling my sister she is something beggarly
+and humble, when you are for ever telling her the same thing yourself in
+fifty plain, outspeaking ways, though not in words; and when your very
+porter and footman make the same delicate announcement to all comers? As
+to your suspicion and distrust of her; even of her word; if she is not
+above their reach, you have no right to employ her.’
+
+‘No right!’ cried the brass-and-copper founder.
+
+‘Distinctly not,’ Tom answered. ‘If you imagine that the payment of an
+annual sum of money gives it to you, you immensely exaggerate its power
+and value. Your money is the least part of your bargain in such a case.
+You may be punctual in that to half a second on the [[Clock|clock]], and yet
+be Bankrupt. I have nothing more to say,’ said Tom, much flushed and
+flustered, now that it was over, ‘except to crave permission to stand in
+your [[Garden|garden]] until my sister is ready.’
+
+Not waiting to obtain it, Tom walked out.
 
 Before he had [[Well|well]] begun to cool, his sister joined him. She was crying;
 and Tom could not bear that any one about the [[house]] should see her doing

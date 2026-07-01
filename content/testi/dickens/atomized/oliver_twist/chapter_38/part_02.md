@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 38 (part 2)"
+title: "Oliver Twist — Chapter 38 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_38/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_38/part_03">part 03 ›</a></div>
 </nav>
 
+
+Bestowing something half-way between a smile and a frown upon his two
+companions, and again beckoning them to follow him, the man hastened
+across the apartment, which was of considerable extent, but low in the
+roof. He was preparing to ascend a steep staircase, or rather ladder,
+leading to another floor of warehouses above: when a bright flash of
+[[Lightning|lightning]] streamed down the aperture, and a peal of thunder followed,
+which shook the crazy building to its centre.
 
 “Hear it!” he cried, shrinking back. “Hear it! [[rolling|Rolling]] and crashing on
 as if it echoed through a thousand caverns where the devils were hiding
@@ -142,13 +150,3 @@ woman.
 “Now,” he said, “gather them up; and when this cursed peal of thunder,
 which I feel is coming up to break over the [[house]]-top, is gone, let’s
 hear your story.”
-
-The thunder, which seemed in fact much nearer, and to shiver and break
-almost over their heads, having subsided, [[Monks]], raising his face from
-the table, bent forward to listen to what the woman should say. The
-faces of the three nearly touched, as the two men leant over the small
-table in their eagerness to hear, and the woman also leant forward to
-render her whisper audible. The sickly rays of the suspended lantern
-falling directly upon them, aggravated the paleness and anxiety of
-their countenances: which, encircled by the deepest gloom and darkness,
-looked ghastly in the extreme.

@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 27 (part 6)"
+title: "Shirley — Chapter 27 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,40 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_27/part_05">‹ part 05</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_27/part_07">part 07 ›</a></div>
 </nav>
 
+
+tribe too often miserable--a [[Child|child]] bereaved of both parents. None cares
+
+for this [[Child|child]]. She is fed sometimes, but oftener forgotten. A hut
+
+rarely receives her; the hollow tree and chill cavern are her [[Home|home]].
+
+Forsaken, lost, and wandering, she lives more with the wild beast and
+
+bird than with her own kind. Hunger and cold are her comrades; sadness
+
+hovers over, and [[Solitude|solitude]] besets her round. Unheeded and unvalued, she
+
+should die; but she both lives and grows. The green wilderness nurses
+
+her, and becomes to her a mother; feeds her on juicy berry, on
+
+saccharine root and nut.
+
+
+
+There is something in the air of this clime which fosters life kindly.
+
+There must be something, too, in its dews which heals with sovereign
+
+balm. Its gentle [[Seasons|seasons]] exaggerate no passion, no sense; its
+
+temperature tends to harmony; its breezes, you would say, bring down
+
+from heaven the germ of pure thought and purer feeling. Not grotesquely
+
+fantastic are the forms of cliff and foliage, not violently vivid the
+
+colouring of flower and bird. In all the grandeur of these forests
 
 there is repose; in all their freshness there is tenderness.
 
@@ -225,61 +259,3 @@ sky--all change!"
 
 
 "All change, and for ever. I take from thy vision darkness; I loosen
-
-from thy faculties fetters! I level in thy path obstacles; I with my
-
-presence fill vacancy. I claim as mine the lost atom of life. I take to
-
-myself the spark of [[Soul|soul]]--burning heretofore forgotten!"
-
-
-
-"O take me! O claim me! This is a god."
-
-
-
-"This is a son of God--one who feels himself in the portion of life that
-
-stirs you. He is suffered to reclaim his own, and so to foster and aid
-
-that it shall not perish hopeless."
-
-
-
-"A son of God! Am I indeed chosen?"
-
-
-
-"Thou only in this land. I saw thee that thou wert fair; I knew thee
-
-that thou wert mine. To me it is given to rescue, to sustain, to cherish
-
-mine own. Acknowledge in me that Seraph on earth named Genius."
-
-
-
-"My glorious Bridegroom! true Dayspring from on high! All I would have
-
-at last I possess. I receive a revelation. The dark hint, the obscure
-
-whisper, which have haunted me from [[Childhood|childhood]], are interpreted. Thou art
-
-He I sought. Godborn, take me, thy bride!"
-
-
-
-"Unhumbled, I can take what is mine. Did I not give from the altar the
-
-very flame which lit Eva's being? Come again into the heaven whence thou
-
-wert sent."
-
-
-
-That Presence, invisible but mighty, gathered her in like a [[Lamb|lamb]] to the
-
-fold; that voice, soft but all-pervading, vibrated through her heart
-
-like music. Her eye received no image; and yet a sense visited her
-
-vision and her brain as of the serenity of stainless air, the power of

@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 17 (part 3)"
+title: "The Tenant of Wildfell Hall — Chapter 17 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_17/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_18/part_01">part 01 ›</a></div>
 </nav>
 
+
+“He is a much better man than you think him.”
+
+
+
+“That is nothing to the purpose. Is he a _good_ man?”
+
+
+
+“Yes—in some respects. He has a good disposition.”
+
+
+
+“Is he a man of _principle?_”
+
+
+
+“Perhaps not, exactly; but it is only for want of thought. If he had
 
 some one to advise him, and remind him of what is right—”
 

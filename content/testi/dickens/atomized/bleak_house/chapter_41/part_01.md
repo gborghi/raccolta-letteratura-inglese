@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 41 (part 1)"
+title: "Bleak House — Chapter 41 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/bleak-house-(dickens)">Bleak House</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_40/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_41/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_40/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_41/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -148,6 +148,3 @@ can release or any charge or trouble that I can spare my husband in
 obtaining HIS release by certifying to the exactness of your
 discovery? I will write anything, here and now, that you will
 dictate. I am ready to do it.”
-
-And she would do it, thinks the lawyer, watchful of the firm hand
-with which she takes the pen!

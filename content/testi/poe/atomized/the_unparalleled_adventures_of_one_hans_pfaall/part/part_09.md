@@ -1,5 +1,5 @@
 ---
-title: "[[The Unparalleled Adventures of one Hans Pfaall]] (part 9)"
+title: "The Unparalleled Adventures of one Hans Pfaall (part 9)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-unparalleled-adventures-of-one-hans-pfaall-(poe)"
@@ -13,6 +13,36 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/part/part_08">‹ part 08</a><a class="ex-next" href="/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/part/part_10">part 10 ›</a></div>
 </nav>
 
+
+      account of nothing else, on account of the escape of gas through
+
+      balloons ill-constructed, and varnished with no better material
+
+      than the ordinary varnish. It seemed, therefore, that the effect
+
+      of such escape was only sufficient to counterbalance the effect
+
+      of some accelerating power. I now considered that, provided in my
+
+      passage I found the medium I had imagined, and provided that it
+
+      should prove to be actually and essentially what we denominate
+
+      atmospheric air, it could make comparatively little difference at
+
+      what extreme state of rarefaction I should discover it—that is to
+
+      say, in regard to my power of ascending—for the gas in the
+
+      balloon would not only be itself subject to rarefaction partially
+
+      similar (in proportion to the occurrence of which, I could suffer
+
+      an escape of so much as would be requisite to prevent explosion),
+
+      but, being what it was, would, at all events, continue
+
+      specifically lighter than any compound whatever of mere nitrogen
 
       and oxygen. In the meantime, the force of gravitation would be
 
@@ -161,41 +191,3 @@ tags:
       apparently to the eastward. I now began to experience, at
 
       intervals, severe [[Pain|pain]] in the head, especially about the
-
-      ears—still, however, breathing with tolerable [[Freedom|freedom]]. The cat
-
-      and pigeons seemed to suffer no inconvenience whatsoever.
-
-
-
-      “At twenty minutes before seven, the balloon entered a long
-
-      series of dense cloud, which put me to great trouble, by damaging
-
-      my condensing apparatus and wetting me to the skin. This was, to
-
-      be sure, a singular recontre, for I had not believed it possible
-
-      that a cloud of this [[Nature|nature]] could be sustained at so great an
-
-      elevation. I thought it best, however, to throw out two
-
-      five-pound pieces of ballast, reserving still a weight of one
-
-      hundred and sixty-five pounds. Upon so doing, I soon [[Rose|rose]] above
-
-      the difficulty, and perceived immediately, that I had obtained a
-
-      great increase in my rate of ascent. In a few seconds after my
-
-      leaving the cloud, a flash of vivid [[Lightning|lightning]] shot from one end
-
-      of it to the other, and caused it to kindle up, throughout its
-
-      vast extent, like a mass of ignited and glowing charcoal. This,
-
-      it must be remembered, was in the broad light of day. No fancy
-
-      may picture the sublimity which might have been exhibited by a
-
-      similar phenomenon taking place amid the darkness of the [[Night|night]].

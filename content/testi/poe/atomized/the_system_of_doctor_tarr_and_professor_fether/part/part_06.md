@@ -1,5 +1,5 @@
 ---
-title: "[[The System of Doctor Tarr and Professor Fether]] (part 6)"
+title: "The System of Doctor Tarr and Professor Fether (part 6)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-system-of-doctor-tarr-and-professor-fether-(poe)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_system_of_doctor_tarr_and_professor_fether/part/part_05">‹ part 05</a><a class="ex-next" href="/testi/poe/atomized/the_system_of_doctor_tarr_and_professor_fether/part/part_07">part 07 ›</a></div>
 </nav>
 
+
+      can you mean?”
+
+
+
+      “Only slightly touched?” said I, touching my head. “I take it for
+
+      granted that she is not particularly not dangerously affected,
+
+      eh?”
+
+
+
+      “_Mon dieu!_ what is it you imagine? This lady, my particular old
 
       friend Madame Joyeuse, is as absolutely sane as myself. She has
 
@@ -235,19 +249,3 @@ tags:
       that the fellows behaved so remarkably [[Well|well]]. And, sure enough,
 
       one fine morning the keepers found themselves pinioned hand and
-
-      foot, and thrown into the cells, where they were attended, as if
-
-      they were the lunatics, by the lunatics themselves, who had
-
-      usurped the offices of the keepers.”
-
-
-
-      “You don’t tell me so! I never heard of any thing so absurd in my
-
-      life!”
-
-
-
-      “Fact—it all came to pass by means of a stupid fellow—a

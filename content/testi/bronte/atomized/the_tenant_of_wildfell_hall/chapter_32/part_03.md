@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 32 (part 3)"
+title: "The Tenant of Wildfell Hall — Chapter 32 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,28 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_32/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_32/part_04">part 04 ›</a></div>
 </nav>
 
+
+through her [[Tears|tears]], just putting up her hand to his, in token that he
+
+pulled _rather_ too hard.
+
+
+
+“To be sure I do,” responded he: “only you bother me rather,
+
+sometimes.”
+
+
+
+“_I_ bother you!” cried she, in very natural surprise.
+
+
+
+“Yes, _you_—but only by your exceeding goodness. When a boy has been
+
+eating raisins and sugar-plums all day, he longs for a squeeze of sour
+
+orange by way of a change. And did you never, Milly, observe the sands
 
 on the sea-shore; how nice and smooth they look, and how soft and easy
 
@@ -231,23 +253,3 @@ matter, as long as I injure nobody but myself—”
 “It _is_ a great matter,” interrupted I, “both to yourself (as you will
 
 hereafter find to your cost) and to all connected with you, most
-
-especially your wife. But, indeed, it is nonsense to talk about
-
-injuring no one but yourself: it is impossible to injure yourself,
-
-especially by such acts as we allude to, without injuring hundreds, if
-
-not thousands, besides, in a greater or less, degree, either by the
-
-evil you do or the good you leave undone.”
-
-
-
-“And as I was saying,” continued he, “or would have said if you hadn’t
-
-taken me up so short, I sometimes think I should do better if I were
-
-joined to one that would always remind me when I was wrong, and give me
-
-a motive for doing good and eschewing evil, by decidedly showing her

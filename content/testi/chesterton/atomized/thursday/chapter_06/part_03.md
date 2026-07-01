@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 6 (part 3)"
+title: "thursday — Chapter 6 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_06/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_07/part_01">part 01 ›</a></div>
 </nav>
 
+
+The first to speak was Gogol, the irreconcilable, who seemed bursting
+with inarticulate grievance.
+
+"Zso!  Zso!" he cried, with an obscure excitement, his heavy Polish
+accent becoming almost impenetrable.  "You zay you nod 'ide.
+You zay you show himselves.  It is all nuzzinks.  Ven you vant
+talk importance you run yourselves in a dark box!"
 
 The President seemed to take the foreigner's incoherent [[Satire|satire]]
 with entire good [[Humour|humour]].

@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 30: THIRTY (part 4)"
+title: "Martin Chuzzlewit — Chapter 30: THIRTY (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,8 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_30_thirty/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_30_thirty/part_05">part 05 ›</a></div>
 </nav>
 
+
+‘It’s an amusement of the vulgar,’ said old Martin, ‘certainly.’
 
 ‘Of the very vulgar,’ Mr Pecksniff answered. ‘Then why not bring Miss
 Graham here, sir? Here is the [[house]]. Here am I [[Alone|alone]] in it, for Thomas
@@ -134,13 +136,3 @@ she looked round. Mr Pecksniff kissed his hand, and was at her side
 immediately.
 
 ‘Communing with [[Nature|nature]]?’ said Mr Pecksniff. ‘So am I.’
-
-She said the morning was so beautiful that she had walked further than
-she intended, and would return. Mr Pecksniff said it was exactly his
-case, and he would return with her.
-
-‘Take my arm, sweet girl,’ said Mr Pecksniff.
-
-Mary declined it, and walked so very fast that he remonstrated. ‘You
-were loitering when I came upon you,’ Mr Pecksniff said. ‘Why be so
-cruel as to hurry now? You would not shun me, would you?’

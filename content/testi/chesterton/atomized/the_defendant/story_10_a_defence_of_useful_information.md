@@ -16,7 +16,6 @@ tags:
 
 A DEFENCE OF USEFUL INFORMATION
 
-
 It is natural and proper enough that the masses of explosive ammunition
 stored up in [[Detective|detective]] stories and the replete and solid sweet-stuff
 shops which are called sentimental novelettes should be popular with the
@@ -185,6 +184,5 @@ monstrous as a pterodactyl. The rebuilding of this bridge between
 science and human [[Nature|nature]] is one of the greatest needs of mankind. We
 have all to show that before we go on to any visions or creations we can
 be contented with a planet of miracles.
-
 
        *       *       *       *       *

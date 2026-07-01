@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 31: THIRTY ONE (part 4)"
+title: "Martin Chuzzlewit — Chapter 31: THIRTY ONE (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_31_thirty_one/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_31_thirty_one/part_05">part 05 ›</a></div>
 </nav>
 
+
+Mr Pecksniff sat upon the hassock pulling up his shirt-collar, while
+Tom, touched to the quick, delivered this apostrophe. After a pause he
+heard Tom coming down the stairs, jingling the church keys; and bringing
+his eye to the top of the pew again, saw him go slowly out and lock the
+door.
 
 Mr Pecksniff durst not issue from his place of concealment; for through
 the windows of the church he saw Tom passing on among the graves, and
@@ -140,9 +146,3 @@ emphasised that word, ‘of a dialogue between two parties; and one of
 them locking the church when he went out, I was obliged to leave
 it myself by the vestry-[[Window|window]]. Do me the favour to secure that
 vestry-[[Window|window]], Mr Pinch, and then come back to me.’
-
-No physiognomist that ever dwelt on earth could have construed Tom’s
-face when he heard these words. [[Wonder]] was in it, and a mild look of
-reproach, but certainly no [[Fear|fear]] or [[Guilt|guilt]], although a host of strong
-emotions struggled to display themselves. He bowed, and without saying
-one word, good or bad, withdrew.

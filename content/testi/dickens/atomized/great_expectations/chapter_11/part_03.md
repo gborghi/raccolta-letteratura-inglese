@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 11 (part 3)"
+title: "Great Expectations — Chapter 11 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_11/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_11/part_04">part 04 ›</a></div>
 </nav>
 
+
+She looked all round the room in a glaring manner, and then said,
+leaning on me while her hand twitched my shoulder, “Come, come, come!
+Walk me, walk me!”
+
+I made out from this, that the work I had to do, was to walk Miss
+Havisham round and round the room. Accordingly, I started at once, and
+she leaned upon my shoulder, and we went away at a pace that might have
+been an [[Imitation|imitation]] (founded on my first impulse under that roof) of Mr.
+Pumblechook’s chaise-cart.
 
 She was not physically strong, and after a little [[Time|time]] said, “Slower!”
 Still, we went at an impatient fitful [[Speed|speed]], and as we went, she
@@ -126,22 +136,3 @@ as to the formation of new combinations there.
 When this same Matthew was mentioned, [[Miss Havisham]] stopped me and
 herself, and stood looking at the speaker. This change had a great
 influence in bringing Camilla’s chemistry to a sudden end.
-
-“Matthew will come and see me at last,” said [[Miss Havisham]], sternly,
-“when I am laid on that table. That will be his place,—there,” striking
-the table with her stick, “at my head! And yours will be there! And
-your husband’s there! And Sarah Pocket’s there! And Georgiana’s there!
-Now you all know where to take your stations when you come to feast
-upon me. And now go!”
-
-At the mention of each name, she had struck the table with her stick in
-a new place. She now said, “Walk me, walk me!” and we went on again.
-
-“I suppose there’s nothing to be done,” exclaimed Camilla, “but comply
-and depart. It’s something to have seen the object of one’s [[Love|love]] and
-duty for even so short a [[Time|time]]. I shall think of it with a [[Melancholy|melancholy]]
-satisfaction when I wake up in the [[Night|night]]. I wish Matthew could have
-that comfort, but he sets it at defiance. I am determined not to make a
-display of my feelings, but it’s very hard to be told one wants to
-feast on one’s relations,—as if one was a Giant,—and to be told to go.
-The bare idea!”

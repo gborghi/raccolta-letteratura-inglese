@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 12 (part 3)"
+title: "Villette — Chapter 12 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_12/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_12/part_04">part 04 ›</a></div>
 </nav>
 
+
+Good. Was this a billet-doux? A thing I had heard of, but hitherto had
+not had the [[Honour|honour]] of seeing or handling. Was it this sort of commodity
+I held between my finger and thumb at this moment?
 
 Scarcely: I did not dream it for a moment. Suitor or admirer my very
 thoughts had not conceived. All the teachers had [[Dreams|dreams]] of some [[Lover|lover]];
@@ -107,15 +111,3 @@ but he knew himself privileged, and perhaps he trusted to the friendly
 was lost in the shrubs, trampling [[Flowers|flowers]] and breaking branches in his
 search—he penetrated at last the “forbidden walk.” There I met him,
 like some [[Ghost|ghost]], I suppose.
-
-“Dr. John! it is found.”
-
-He did not ask by whom, for with his quick eye he perceived that I held
-it in my hand.
-
-“Do not betray her,” he said, looking at me as if I were indeed a
-dragon.
-
-“Were I ever so disposed to treachery, I cannot betray what I do not
-know,” was my answer. “Read the note, and you will see how little it
-reveals.”

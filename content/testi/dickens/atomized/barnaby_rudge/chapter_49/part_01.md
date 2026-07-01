@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 49 (part 1)"
+title: "Barnaby Rudge — Chapter 49 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -134,12 +134,3 @@ all we’ve got to do.’
 pole the tighter; ‘I warrant you I keep this one safe, then. You have
 put it in good hands. You know me, Hugh. Nobody shall wrest this [[Flag|flag]]
 away.’
-
-‘[[Well]] said!’ cried Hugh. ‘Ha ha! Nobly said! That’s the old stout
-Barnaby, that I have climbed and leaped with, many and many a day--I
-knew I was not mistaken in Barnaby.--Don’t you see, man,’ he added in
-a whisper, as he slipped to the other side of Dennis, ‘that the lad’s a
-natural, and can be got to do anything, if you take him the right way?
-Letting [[Alone|alone]] the fun he is, he’s worth a dozen men, in earnest, as
-you’d find if you tried a fall with him. Leave him to me. You shall soon
-see whether he’s of use or not.’

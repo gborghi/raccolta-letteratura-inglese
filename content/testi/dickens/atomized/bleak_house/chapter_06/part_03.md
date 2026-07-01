@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 6 (part 3)"
+title: "Bleak House — Chapter 6 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -64,7 +64,7 @@ inaptitude for all worldly affairs, he is a perfect [[Child|child]].”
 We felt that he must be very interesting.
 
 “He knows Mrs. Jellyby,” said Mr. Jarndyce. “He is a musical man, an
-amateur, but might have been a professional. He is an [[artist]] too, an
+amateur, but might have been a professional. He is an [[Artist|artist]] too, an
 amateur, but might have been a professional. He is a man of
 attainments and of captivating manners. He has been unfortunate in
 his affairs, and unfortunate in his pursuits, and unfortunate in his

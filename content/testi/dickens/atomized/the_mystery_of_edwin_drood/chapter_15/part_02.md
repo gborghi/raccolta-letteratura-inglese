@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 14 (part 2)"
+title: "The Mystery of Edwin Drood — Chapter 14 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_15/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_15/part_03">part 03 ›</a></div>
 </nav>
 
+
+“Had you not better avoid it, Neville? You know that I can hear
+nothing.”
+
+“You can hear, my dear, what Mr. Crisparkle has heard, and heard with
+approval.”
+
+“Yes; I can hear so much.”
 
 “[[Well]], it is this. I am not only unsettled and unhappy myself, but I am
 conscious of unsettling and interfering with other people. How do I
@@ -91,7 +99,7 @@ Up to this point he has been extremely cheerful. Perhaps, the having to
 carry his case with her, and therefore to present it in its brightest
 aspect, has roused his spirits. Perhaps, the having done so with
 [[success]], is followed by a revulsion. As the day closes in, and the
-[[City|city]]-lights begin to [[Spring|spring]] up before them, he grows depressed.
+[[City|city]]-lights begin to [[spring]] up before them, he grows depressed.
 
 “I wish I were not going to this dinner, [[Helena]].”
 
@@ -136,9 +144,3 @@ appreciation and enhancement. And still, for all this, and though there
 is a sharp heartache in all this, the [[Vanity|vanity]] and caprice of youth
 sustain that handsome figure of Miss Landless in the background of his
 mind.
-
-That was a curious look of Rosa’s when they parted at the gate. Did it
-mean that she saw below the surface of his thoughts, and down into
-their twilight depths? Scarcely that, for it was a look of astonished
-and keen inquiry. He decides that he cannot understand it, though it
-was remarkably expressive.

@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 24 (part 3)"
+title: "Bleak House — Chapter 24 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_24/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_24/part_04">part 04 ›</a></div>
 </nav>
 
+
+“Good morning, Mr. George,” said my guardian, who happened to be
+[[Alone|alone]] with me. “Mr. Carstone will be here directly. Meanwhile, Miss
+Summerson is very happy to see you, I know. Sit down.”
 
 He sat down, a little disconcerted by my presence, I thought, and
 without looking at me, drew his heavy sunburnt hand across and across

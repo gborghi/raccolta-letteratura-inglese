@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 17: SOMEBODY TURNS UP (part 2)"
+title: "David Copperfield — Chapter 17: SOMEBODY TURNS UP (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_17_somebody_turns_up/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_17_somebody_turns_up/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘Yes, sir.’
+
+‘I don’t know how it can be,’ said Mr. Dick, sorely puzzled and shaking
+his head. ‘I don’t think I am as old as that.’
 
 ‘Was it in that year that the man appeared, sir?’ I asked.
 

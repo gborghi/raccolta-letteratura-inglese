@@ -77,7 +77,7 @@ that the theory "adumbrated the suggestion of a freer [[morality]],
 by dwelling upon the physical and spiritual necessity for the
 liberation of impulse," the point seems somehow to be missed.
 Not a single giggle is heard in the deep and disappointing [[Silence|silence]].
-It seems truly strange that when a modern and brilliant [[artist]]
+It seems truly strange that when a modern and brilliant [[Artist|artist]]
 actually provides jokes far more truly humorous than the rude jests
 of the yokels and the milkmaids, the finer effort should meet with
 the feebler response.  It is but an example of the unnatural solemnity,

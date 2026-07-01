@@ -1,5 +1,5 @@
 ---
-title: "[[Pride and Prejudice]] — Chapter 43 (part 5)"
+title: "Pride and Prejudice — Chapter 43 (part 5)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/pride-and-prejudice-(austen)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/pride_and_prejudice/chapter_43/part_04">‹ part 04</a><a class="ex-next" href="/testi/austen/atomized/pride_and_prejudice/chapter_44/part_01">part 01 ›</a></div>
 </nav>
 
+
+“I was never more surprised than by his behaviour to us. It was more
+than civil; it was really attentive; and there was no necessity for such
+attention. His acquaintance with Elizabeth was very trifling.”
 
 “To be sure, Lizzy,” said her aunt, “he is not so handsome as Wickham;
 or rather he has not Wickham’s countenance, for his features are

@@ -14,6 +14,13 @@ tags:
 </nav>
 
 
+‘[[Well]]!  So he did,’ retorted Clemency, ‘and many thanks to him.’
+
+‘Man’s the creature of habit,’ said Mr. Britain, surveying her, over his
+saucer.  ‘I had somehow got used to you, Clem; and I found I shouldn’t be
+able to get on without you.  So we went and got made man and wife.  Ha!
+ha!  We!  Who’d have thought it!’
+
 ‘Who indeed!’ cried Clemency.  ‘It was very good of you, Ben.’
 
 ‘No, no, no,’ replied Mr. Britain, with an air of [[Self|self]]-denial.  ‘Nothing
@@ -144,12 +151,3 @@ remembered her together, like a person dead; that they were so tender of
 her, never would reproach her, called her back to one another as she used
 to be, and found excuses for her!  Every one knows that.  I’m sure I do.
 No one better,’ added Clemency, wiping her eyes with her hand.
-
-‘And so,’ suggested the stranger.
-
-‘And so,’ said Clemency, taking him up mechanically, and without any
-change in her attitude or manner, ‘they at last were married.  They were
-married on her birth-day—it comes round again to-morrow—very quiet, very
-humble like, but very happy.  Mr. Alfred said, one [[Night|night]] when they were
-walking in the orchard, “Grace, shall our wedding-day be Marion’s
-birth-day?”  And it was.’

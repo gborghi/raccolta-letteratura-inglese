@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 1 (part 4)"
+title: "Our Mutual Friend — Chapter 5 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,179 +10,133 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_60/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_61/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_60/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_60/part_05">part 05 ›</a></div>
 </nav>
 
 
-Bradley ate and drank. As he sat at his platter and mug, Riderhood saw
-him, again and yet again, steal a look at the neckerchief, as if he were
-correcting his slow observation and prompting his sluggish [[Memory|memory]].
-‘When you’re ready for your snooze,’ said that honest creature, ‘chuck
-yourself on my bed in the corner, T’otherest. It’ll be broad day afore
-three. I’ll call you early.’
+The newly-married pair left early, so that they might walk at leisure to
+their starting-place from [[London]], for Greenwich. At first they were
+very cheerful and talked much; but after a while, Bella fancied that her
+husband was turning somewhat thoughtful. So she asked him:
 
-‘I shall require no calling,’ answered Bradley. And soon afterwards,
-divesting himself only of his shoes and coat, laid himself down.
+‘John dear, what’s the matter?’
 
-Riderhood, leaning back in his wooden arm-chair with his arms folded
-on his breast, looked at him lying with his right hand clenched in his
-[[Sleep|sleep]] and his teeth set, until a film came over his own sight, and he
-slept too. He awoke to find that it was daylight, and that his
-visitor was already astir, and going out to the [[River|river]]-side to cool his
-head:—‘Though I’m blest,’ muttered Riderhood at the Lock-[[house]] door,
-looking after him, ‘if I think there’s [[Water|water]] enough in all the Thames
-to do THAT for you!’ Within five minutes he had taken his departure,
-and was passing on into the calm distance as he had passed yesterday.
-Riderhood knew when a fish leaped, by his starting and glancing round.
+‘Matter, my [[Love|love]]?’
 
-‘Lock ho! Lock!’ at intervals all day, and ‘Lock ho! Lock!’ thrice in
-the ensuing [[Night|night]], but no return of Bradley. The second day was sultry
-and oppressive. In the afternoon, a thunderstorm came up, and had but
-newly broken into a furious sweep of rain when he rushed in at the door,
-like the [[Storm|storm]] itself.
+‘Won’t you tell me,’ said Bella, looking up into his face, ‘what you are
+thinking of?’
 
-‘You’ve seen him with her!’ exclaimed Riderhood, starting up.
+‘There’s not much in the thought, my [[Soul|soul]]. I was thinking whether you
+wouldn’t like me to be rich?’
 
-‘I have.’
+‘You rich, John?’ repeated Bella, shrinking a little.
 
-‘Where?’
+‘I mean, really rich. Say, as rich as Mr Boffin. You would like that?’
 
-‘At his [[Journey|journey]]’s end. His boat’s hauled up for three days. I heard
-him give the order. Then, I saw him wait for her and meet her. I saw
-them’—he stopped as though he were suffocating, and began again—‘I saw
-them walking side by side, last [[Night|night]].’
+‘I should be almost afraid to try, John dear. Was he much the better for
+his wealth? Was I much the better for the little part I once had in it?’
 
-‘What did you do?’
+‘But all people are not the worse for riches, my own.’
 
-‘Nothing.’
+‘Most people?’ Bella musingly suggested with raised eyebrows.
 
-‘What are you going to do?’
+‘Nor even most people, it may be hoped. If you were rich, for instance,
+you would have a great power of doing good to others.’
 
-He dropped into a chair, and laughed. Immediately afterwards, a great
-spirt of [[Blood|blood]] burst from his nose.
+‘Yes, sir, for instance,’ Bella playfully rejoined; ‘but should I
+exercise the power, for instance? And again, sir, for instance; should
+I, at the same [[Time|time]], have a great power of doing harm to myself?’
 
-‘How does that happen?’ asked Riderhood.
+Laughing and pressing her arm, he retorted: ‘But still, again for
+instance; would you exercise that power?’
 
-‘I don’t know. I can’t keep it back. It has happened twice—three
-times—four times—I don’t know how many times—since last [[Night|night]]. I
-taste it, smell it, see it, it chokes me, and then it breaks out like
-this.’
+‘I don’t know,’ said Bella, thoughtfully shaking her head. ‘I [[Hope|hope]] not.
+I think not. But it’s so easy to [[Hope|hope]] not and think not, without the
+riches.’
 
-He went into the pelting rain again with his head bare, and, bending low
-over the [[River|river]], and scooping up the [[Water|water]] with his two hands, washed the
-[[Blood|blood]] away. All beyond his figure, as Riderhood looked from the door,
-was a vast dark curtain in solemn movement towards one quarter of the
-heavens. He raised his head and came back, wet from head to foot, but
-with the lower parts of his sleeves, where he had dipped into the [[River|river]],
-streaming [[Water|water]].
+‘Why don’t you say, my darling—instead of that phrase—being poor?’ he
+asked, looking earnestly at her.
 
-‘Your face is like a [[Ghost|ghost]]’s,’ said Riderhood.
+‘Why don’t I say, being poor! Because I am not poor. Dear John, it’s not
+possible that you suppose I think we are poor?’
 
-‘Did you ever see a [[Ghost|ghost]]?’ was the sullen retort.
+‘I do, my [[Love|love]].’
 
-‘I mean to say, you’re quite wore out.’
+‘Oh John!’
 
-‘That may [[Well|well]] be. I have had no rest since I left here. I don’t
-remember that I have so much as sat down since I left here.’
+‘Understand me, sweetheart. I know that I am rich beyond all wealth in
+having you; but I think OF you, and think FOR you. In such a dress as
+you are wearing now, you first charmed me, and in no dress could you
+ever look, to my thinking, more graceful or more beautiful. But you have
+admired many finer dresses this very day; and is it not natural that I
+wish I could give them to you?’
 
-‘Lie down now, then,’ said Riderhood.
+‘It’s very nice that you should wish it, John. It brings these [[Tears|tears]] of
+grateful pleasure into my eyes, to hear you say so with such tenderness.
+But I don’t want them.’
 
-‘I will, if you’ll give me something to quench my thirst first.’
+‘Again,’ he pursued, ‘we are now walking through the muddy streets. I
+[[Love|love]] those pretty feet so dearly, that I feel as if I could not bear the
+dirt to soil the sole of your shoe. Is it not natural that I wish you
+could ride in a carriage?’
 
-The bottle and jug were again produced, and he mixed a weak draught, and
-another, and drank both in quick succession. ‘You asked me something,’
-he said then.
+‘It’s very nice,’ said Bella, glancing downward at the feet in question,
+‘to know that you admire them so much, John dear, and since you do, I
+am sorry that these shoes are a full size too large. But I don’t want a
+carriage, believe me.’
 
-‘No, I didn’t,’ replied Riderhood.
+‘You would like one if you could have one, Bella?’
 
-‘I tell you,’ retorted Bradley, turning upon him in a wild and desperate
-manner, ‘you asked me something, before I went out to wash my face in
-the [[River|river]].
+‘I shouldn’t like it for its own sake, half so [[Well|well]] as such a wish for
+it. Dear John, your wishes are as real to me as the wishes in the Fairy
+story, that were all fulfilled as soon as spoken. Wish me everything
+that you can wish for the woman you dearly [[Love|love]], and I have as good as
+got it, John. I have better than got it, John!’
 
-‘Oh! Then?’ said Riderhood, backing a little. ‘I asked you wot you wos
-a-going to do.’
+They were not the less happy for such talk, and [[Home|home]] was not the less
+[[Home|home]] for coming after it. Bella was fast developing a perfect genius
+for [[Home|home]]. All the loves and graces seemed (her husband thought) to have
+taken domestic service with her, and to help her to make [[Home|home]] engaging.
 
-‘How can a man in this state know?’ he answered, protesting with both
-his tremulous hands, with an action so vigorously angry that he shook
-the [[Water|water]] from his sleeves upon the floor, as if he had wrung them. ‘How
-can I plan anything, if I haven’t [[Sleep|sleep]]?’
+Her married life glided happily on. She was [[Alone|alone]] all day, for, after an
+early breakfast her husband repaired every morning to the [[City]], and did
+not return until their late dinner hour. He was ‘in a China [[house]],’ he
+explained to Bella: which she found quite satisfactory, without pursuing
+the China [[house]] into minuter details than a wholesale vision of tea,
+rice, odd-smelling silks, carved boxes, and tight-eyed people in more
+than [[Double|double]]-soled shoes, with their pigtails pulling their heads of
+hair off, painted on transparent porcelain. She always walked with her
+husband to the railroad, and was always there again to meet him; her old
+coquettish ways a little sobered down (but not much), and her dress
+as daintily managed as if she managed nothing else. But, John gone to
+business and Bella returned [[Home|home]], the dress would be laid aside, trim
+little wrappers and aprons would be substituted, and Bella, putting back
+her hair with both hands, as if she were making the most business-like
+arrangements for going dramatically distracted, would enter on the
+household affairs of the day. Such weighing and mixing and chopping
+and grating, such dusting and washing and polishing, such snipping
+and weeding and trowelling and other small gardening, such making and
+[[mending]] and folding and airing, such diverse arrangements, and above all
+such severe study! For Mrs J. R., who had never been wont to do too much
+at [[Home|home]] as Miss B. W., was under the constant necessity of referring for
+advice and support to a sage volume entitled The Complete British Family
+Housewife, which she would sit consulting, with her elbows on the table
+and her temples on her hands, like some perplexed enchantress poring
+over the Black Art. This, principally because the Complete British
+Housewife, however sound a Briton at heart, was by no means an expert
+Briton at expressing herself with clearness in the British tongue,
+and sometimes might have issued her directions to equal purpose in the
+Kamskatchan language. In any crisis of this [[Nature|nature]], Bella would suddenly
+exclaim aloud, ‘Oh you ridiculous old thing, what do you mean by that?
+You must have been drinking!’ And having made this marginal note, would
+try the Housewife again, with all her dimples screwed into an expression
+of profound research.
 
-‘Why, that’s what I as good as said,’ returned the other. ‘Didn’t I say
-lie down?’
-
-‘[[Well]], perhaps you did.’
-
-‘[[Well]]! Anyways I says it again. [[Sleep]] where you slept last; the sounder
-and longer you can [[Sleep|sleep]], the better you’ll know arterwards what you’re
-up to.’
-
-His pointing to the truckle bed in the corner, seemed gradually to bring
-that poor couch to Bradley’s wandering remembrance. He slipped off his
-worn down-trodden shoes, and cast himself heavily, all wet as he was,
-upon the bed.
-
-Riderhood sat down in his wooden arm-chair, and looked through the
-[[Window|window]] at the [[Lightning|lightning]], and listened to the thunder. But, his thoughts
-were far from being absorbed by the thunder and the [[Lightning|lightning]], for again
-and again and again he looked very curiously at the exhausted man upon
-the bed. The man had turned up the collar of the rough coat he wore,
-to shelter himself from the [[Storm|storm]], and had buttoned it about his neck.
-Unconscious of that, and of most things, he had left the coat so, both
-when he had laved his face in the [[River|river]], and when he had cast himself
-upon the bed; though it would have been much easier to him if he had
-unloosened it.
-
-The thunder rolled heavily, and the forked [[Lightning|lightning]] seemed to make
-jagged rents in every part of the vast curtain without, as Riderhood sat
-by the [[Window|window]], glancing at the bed. Sometimes, he saw the man upon the
-bed, by a red light; sometimes, by a blue; sometimes, he scarcely saw
-him in the darkness of the [[Storm|storm]]; sometimes he saw nothing of him in
-the blinding glare of palpitating white [[Fire|fire]]. Anon, the rain would come
-again with a tremendous rush, and the [[River|river]] would seem to rise to meet
-it, and a blast of [[Wind|wind]], bursting upon the door, would flutter the hair
-and dress of the man, as if invisible messengers were come around the
-bed to carry him away. From all these phases of the [[Storm|storm]], Riderhood
-would turn, as if they were interruptions—rather striking interruptions
-possibly, but interruptions still—of his scrutiny of [[The Sleeper|the sleeper]].
-
-‘He sleeps sound,’ he said within himself; ‘yet he’s that up to me and
-that noticing of me that my getting out of my chair may wake him, when a
-rattling peal won’t; let [[Alone|alone]] my touching of him.’
-
-He very cautiously [[Rose|rose]] to his feet. ‘T’otherest,’ he said, in a low,
-calm voice, ‘are you a lying easy? There’s a chill in the air, governor.
-Shall I put a coat over you?’
-
-No answer.
-
-‘That’s about what it is a’ready, you see,’ muttered Riderhood in a
-lower and a different voice; ‘a coat over you, a coat over you!’
-
-[[The Sleeper|The sleeper]] moving an arm, he sat down again in his chair, and feigned
-to watch the [[Storm|storm]] from the [[Window|window]]. It was a grand spectacle, but not so
-grand as to keep his eyes, for half a minute together, from stealing a
-look at the man upon the bed.
-
-It was at the concealed throat of [[The Sleeper|the sleeper]] that Riderhood so often
-looked so curiously, until the [[Sleep|sleep]] seemed to deepen into the stupor
-of the dead-tired in mind and [[Body|body]]. Then, Riderhood came from the [[Window|window]]
-cautiously, and stood by the bed.
-
-‘Poor man!’ he murmured in a low tone, with a crafty face, and a very
-watchful eye and ready foot, lest he should start up; ‘this here coat
-of his must make him uneasy in his [[Sleep|sleep]]. Shall I loosen it for him,
-and make him more comfortable? Ah! I think I ought to do it, poor man. I
-think I will.’
-
-He touched the first button with a very cautious hand, and a step
-backward. But, [[The Sleeper|the sleeper]] remaining in profound unconsciousness, he
-touched the other buttons with a more assured hand, and perhaps the more
-lightly on that account. Softly and slowly, he opened the coat and drew
-it back.
-
-The draggling ends of a bright-red neckerchief were then disclosed, and
-he had even been at the pains of dipping parts of it in some liquid,
-to give it the appearance of having become stained by wear. With a
-much-perplexed face, Riderhood looked from it to [[The Sleeper|the sleeper]], and from
-[[The Sleeper|the sleeper]] to it, and finally crept back to his chair, and there, with
-his hand to his chin, sat long in a brown study, looking at both.
+There was likewise a coolness on the part of the British Housewife,
+which Mrs John Rokesmith found highly exasperating. She would say,
+‘Take a salamander,’ as if a general should command a private to catch
+a Tartar. Or, she would casually issue the order, ‘Throw in a handful—’
+of something entirely [[Unattainable|unattainable]]. In these, the Housewife’s most
+glaring moments of unreason, Bella would shut her up and knock her on
+the table, apostrophising her with the compliment, ‘O you ARE a stupid
+old [[donkey|Donkey]]! Where am I to get it, do you think?’

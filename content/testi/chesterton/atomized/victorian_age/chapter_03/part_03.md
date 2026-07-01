@@ -14,6 +14,20 @@ tags:
 </nav>
 
 
+    "That we may lift from out the [[Dust|dust]],
+
+    A voice as unto him that hears
+
+    A cry above the conquered years
+
+    Of one that ever works, and trust."
+
+The poem should have been a cry above the conquered years. It might [[Well|well]]
+
+have been that if the poet could have said sharply at the end of it, as
+
+a pure piece of dogma, "I've forgotten every feature of the man's face:
+
 I know God holds him alive." But under the influence of the mere
 
 leisurely length of the thing, the reader _does_ rather receive the
@@ -31,8 +45,6 @@ something militant, dogmatic and structural in him: whereby he could not
 be trusted with the trail of a very long literary process without
 
 entangling himself like a kitten playing cat's-cradle.
-
-
 
 Browning, as above suggested, got on much better with eccentric and
 
@@ -144,8 +156,6 @@ persecution, that "Tommy-make-room-for-your-uncle-us" does not rhyme to
 
 it.
 
-
-
 The obscurity, to which he must in a large degree plead guilty, was,
 
 curiously enough, the result rather of the gay [[artist]] in him than the
@@ -173,19 +183,3 @@ even in our sin and [[Despair|despair]] we take it for granted and expect a sort
 virtue in it. The feelings of the bad husband about the good wife, for
 
 instance, are about as subtle and entangled as any matter on this earth;
-
-and Browning really had something to say about them. But he said it in
-
-some of the plainest and most unmistakable words in all literature; as
-
-lucid as a flash of [[Lightning|lightning]]. "Pompilia, will you let them murder me?"
-
-Or again, he did really want to say that [[Death|death]] and such moral terrors
-
-were best taken in a military spirit; he could not have said it more
-
-simply than: "I was ever a fighter; one fight more, the best and the
-
-last." He did really wish to say that human life was unworkable unless
-
-[[Immortality|immortality]] were implied in it every other moment; he could not have

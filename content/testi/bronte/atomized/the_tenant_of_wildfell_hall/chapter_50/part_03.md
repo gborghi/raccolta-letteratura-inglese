@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 50 (part 3)"
+title: "The Tenant of Wildfell Hall — Chapter 50 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,32 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_50/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_50/part_04">part 04 ›</a></div>
 </nav>
 
+
+requesting a more definite account.
+
+
+
+“When will she return to Grassdale?” was my next question.
+
+
+
+“I don’t know.”
+
+
+
+“Confound it!” I muttered.
+
+
+
+“Why, Markham?” asked my companion, with an air of [[Innocent|innocent]] surprise.
+
+But I did not deign to answer him, save by a look of silent, sullen
+
+contempt, at which he turned away, and contemplated the carpet with a
+
+slight smile, half pensive, half amused; but quickly looking up, he
+
+began to talk of other subjects, trying to draw me into a cheerful and
 
 friendly conversation, but I was too much irritated to discourse with
 
@@ -207,21 +233,3 @@ it is true, but they too painfully reminded him of their mother, and
 the unfortunate little Annabella was a source of perpetual bitterness
 
 to his [[Soul|soul]]. He had obliged himself to treat her with paternal
-
-kindness: he had forced himself not to hate her, and even, perhaps, to
-
-feel some degree of kindly regard for her, at last, in return for her
-
-artless and unsuspecting attachment to himself; but the bitterness of
-
-his [[Self|self]]-condemnation for his inward feelings towards that [[Innocent|innocent]]
-
-being, his constant struggles to subdue the evil promptings of his
-
-[[Nature|nature]] (for it was not a generous one), though partly guessed at by
-
-those who knew him, could be known to God and his own heart [[Alone|alone]];—so
-
-also was the hardness of his conflicts with the [[Temptation|temptation]] to return to
-
-the vice of his youth, and seek oblivion for past calamities, and

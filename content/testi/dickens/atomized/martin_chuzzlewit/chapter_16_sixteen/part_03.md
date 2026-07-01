@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 16: SIXTEEN (part 3)"
+title: "Martin Chuzzlewit — Chapter 16: SIXTEEN (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_16_sixteen/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_16_sixteen/part_04">part 04 ›</a></div>
 </nav>
 
+
+All this was so extremely kind and hospitable, that Martin, though it
+was quite early in the morning, readily acquiesced. So, instructing
+Mark, who was deeply engaged with his friend and her three children,
+that when he had done assisting them, and had cleared the baggage,
+he was to wait for further orders at the Rowdy Journal Office, Martin
+accompanied his new friend on shore.
 
 They made their way as they best could through the [[Melancholy|melancholy]] crowd of
 emigrants upon the wharf, who, grouped about their beds and boxes, with
@@ -117,14 +124,3 @@ giving his head one shake after every sentence. ‘That you never heard of
 Jefferson Brick, sir. That you never read Jefferson Brick, sir. That
 you never saw the Rowdy Journal, sir. That you never knew, sir, of its
 mighty influence upon the cabinets of Europe. Yes?’
-
-‘That’s what I was about to observe, certainly,’ said Martin.
-
-‘Keep cool, Jefferson,’ said the colonel gravely. ‘Don’t bust! oh you
-Europeans! After that, let’s have a glass of wine!’ So saying, he got
-down from the table, and produced, from a basket outside the door, a
-bottle of champagne, and three glasses.
-
-‘Mr Jefferson Brick, sir,’ said the colonel, filling Martin’s glass
-and his own, and pushing the bottle to that gentleman, ‘will give us a
-sentiment.’

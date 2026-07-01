@@ -1,5 +1,5 @@
 ---
-title: "whats wrong — Part 3 (part 8)"
+title: "whats wrong — Part 4 (part 8)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/whats-wrong-(chesterton)"
@@ -14,117 +14,121 @@ tags:
 </nav>
 
 
-It is equally obvious that these two necessary sanctities
-of thrift and dignity are bound to come into collision
-with the wordiness, the wastefulness, and the perpetual
-pleasure-seeking of masculine companionship.  Wise women allow
-for the thing; foolish women try to crush it; but all women try
-to counteract it, and they do [[Well|well]].  In many a [[Home|home]] all round
-us at this moment, we know that the nursery rhyme is reversed.
-The [[Queen|queen]] is in the counting-[[house]], counting out the money.
-The [[King|king]] is in the parlor, eating bread and honey.
-But it must be strictly understood that the [[King|king]] has captured
-the honey in some heroic wars.  The quarrel can be found
-in moldering Gothic carvings and in crabbed Greek manuscripts.
-In every age, in every land, in every tribe and village, has been
-waged the great sexual war between the Private [[house|House]] and the
-Public [[house|House]].  I have seen a collection of mediaeval English [[Poems|poems]],
-divided into sections such as "Religious Carols," "Drinking [[songs|Songs]],"
-and so on; and the section headed, "[[Poems]] of Domestic Life"
-consisted entirely (literally, entirely) of the complaints
-of husbands who were bullied by their wives.  Though the English
-was archaic, the words were in many cases precisely the same
-as those which I have heard in the streets and public houses
-of Battersea, protests on behalf of an extension of [[Time|time]] and talk,
-protests against the nervous impatience and the devouring
-utilitarianism of the female.  Such, I say, is the quarrel;
-it can never be anything but a quarrel; but the aim of all morals
-and all society is to keep it a [[lovers]]' quarrel.
+I have spoken so far of popular [[Education|education]], which began too
+vague and vast and which therefore has accomplished little.
+But as it happens there is in England something to compare it with.
+There is an institution, or class of institutions, which began
+with the same popular object, which has since followed a much
+narrower object, but which had the great advantage that it did
+follow some object, unlike our modern elementary schools.
+
+In all these problems I should urge the solution which is positive,
+or, as silly people say, "optimistic."  I should set my face, that is,
+against most of the solutions that are solely negative and abolitionist.
+Most educators of the poor seem to think that they have to teach the poor
+man not to drink.  I should be quite content if they teach him to drink;
+for it is mere ignorance about how to drink and when to drink that is
+accountable for most of his tragedies.  I do not propose (like some
+of my revolutionary friends) that we should abolish the public schools.
+I propose the much more lurid and desperate experiment that we should make
+them public.  I do not wish to make Parliament stop working, but rather
+to make it work; not to shut up churches, but rather to open them;
+not to put out the lamp of learning or destroy the hedge of property,
+but only to make some rude effort to make universities fairly universal
+and property decently proper.
+
+In many cases, let it be remembered, such action is not merely going
+back to the old ideal, but is even going back to the old reality.
+It would be a great step forward for the gin shop to go back
+to the inn.  It is incontrovertibly true that to mediaevalize
+the public schools would be to democratize the public schools.
+Parliament did once really mean (as its name seems to imply)
+a place where people were allowed to talk.  It is only lately
+that the general increase of efficiency, that is, of the Speaker,
+has made it mostly a place where people are prevented from talking.
+The poor do not go to the modern church, but they went to the ancient
+church all right; and if the [[Common Man|common man]] in the past had a [[Grave|grave]] respect
+for property, it may conceivably have been because he sometimes had
+some of his own.  I therefore can claim that I have no vulgar itch
+of innovation in anything I say about any of these institutions.
+Certainly I have none in that particular one which I am now obliged
+to pick out of the list; a type of institution to which I have
+genuine and personal reasons for being friendly and grateful:
+I mean the great Tudor foundations, the public schools
+of England.  They have been praised for a great many things, mostly,
+I am sorry to say, praised by themselves and their children.
+And yet for some reason no one has ever praised them the one
+really convincing reason.
 
 * * *
 
-VII
+X
 
-THE MODERN SURRENDER OF WOMAN
+THE CASE FOR THE PUBLIC SCHOOLS
 
-But in this corner called England, at this end of the century,
-there has happened a strange and startling thing.  Openly and to all
-appearance, this ancestral conflict has silently and abruptly ended;
-one of the two sexes has suddenly surrendered to the other.
-By the beginning of the twentieth century, within the last
-few years, the woman has in public surrendered to the man.
-She has seriously and officially owned that the man has been
-right all along; that the public [[house]] (or Parliament) is really
-more important than the private [[house]]; that politics are not
-(as woman had always maintained) an excuse for pots of beer,
-but are a sacred solemnity to which new female worshipers may kneel;
-that the talkative patriots in the tavern are not only admirable
-but enviable; that talk is not a waste of [[Time|time]], and therefore
-(as a consequence, surely) that taverns are not a waste of money.
-All we men had grown used to our wives and mothers,
-and grandmothers, and great aunts all pouring a [[Chorus|chorus]] of
-contempt upon our hobbies of sport, drink and party politics.
-And now comes Miss Pankhurst with [[Tears|tears]] in her eyes,
-owning that all the women were wrong and all the men were right;
-humbly imploring to be admitted into so much as an outer [[Court|court]],
-from which she may catch a glimpse of those masculine merits
-which her erring sisters had so thoughtlessly scorned.
+The word [[success]] can of course be used in two senses.
+It may be used with reference to a thing serving its immediate
+and peculiar purpose, as of a [[Wheel|wheel]] going around; or it can
+be used with reference to a thing adding to the general welfare,
+as of a [[Wheel|wheel]] being a useful discovery.  It is one thing
+to say that [[smith|Smith]]'s flying [[Machine|machine]] is a failure, and quite
+another to say that [[smith|Smith]] has failed to make a flying [[Machine|machine]].
+Now this is very broadly the difference between the old
+English public schools and the new democratic schools.
+Perhaps the old public schools are (as I personally think they are)
+ultimately weakening the country rather than strengthening it,
+and are therefore, in that ultimate sense, inefficient.
+But there is such a thing as being efficiently inefficient.
+You can make your flying [[Ship|ship]] so that it flies, even if you
+also make it so that it kills you.  Now the public school system
+may not work satisfactorily, but it works; the public schools
+may not achieve what we want, but they achieve what they want.
+The popular elementary schools do not in that sense achieve
+anything at all.  It is very difficult to point to any guttersnipe
+in the street and say that he embodies the ideal for which popular
+[[Education|education]] has been working, in the sense that the fresh-faced,
+foolish boy in "Etons" does embody the ideal for which
+the headmasters of Harrow and Winchester have been working.
+The aristocratic educationists have the positive purpose
+of turning out gentlemen, and they do turn out gentlemen,
+even when they expel them.  The popular educationists would say
+that they had the far nobler idea of turning out citizens.
+I concede that it is a much nobler idea, but where are the citizens?
+I know that the boy in "Etons" is stiff with a rather silly
+and sentimental stoicism, called being a man of the world.
+I do not fancy that the errand-boy is rigid with that republican
+stoicism that is called being a citizen.  The schoolboy will really
+say with fresh and [[Innocent|innocent]] hauteur, "I am an English gentleman."
+I cannot so easily picture the errand-boy drawing up his
+head to the [[Stars|stars]] and answering, "Romanus civis sum."
+Let it be granted that our elementary teachers are teaching
+the very broadest code of morals, while our great headmasters
+are teaching only the narrowest code of manners.
+Let it be granted that both these things are being taught.
+But only one of them is being learned.
 
-Now this development naturally perturbs and even paralyzes us.
-Males, like females, in the course of that old fight between the public
-and private [[house]], had indulged in overstatement and extravagance,
-feeling that they must keep up their end of the see-saw. We told
-our wives that Parliament had sat late on most essential business;
-but it never crossed our minds that our wives would believe it.
-We said that everyone must have a vote in the country; similarly our
-wives said that no one must have a pipe in the drawing room.
-In both cases the idea was the same.  "It does not matter much,
-but if you let those things slide there is chaos."  We said that
-Lord Huggins or Mr. Buggins was absolutely necessary to the country.
-We knew quite [[Well|well]] that nothing is necessary to the country
-except that the men should be men and the women women.
-We knew this; we thought the women knew it even more clearly;
-and we thought the women would say it.  Suddenly, without warning,
-the women have begun to say all the nonsense that we ourselves
-hardly believed when we said it.  The solemnity of politics;
-the necessity of votes; the necessity of Huggins; the necessity
-of Buggins; all these flow in a pellucid stream from the lips
-of all the suffragette speakers.  I suppose in every fight,
-however old, one has a vague [[Aspiration|aspiration]] to conquer; but we never
-wanted to conquer women so completely as this.  We only expected
-that they might leave us a little more margin for our nonsense;
-we never expected that they would accept it seriously as sense.
-Therefore I am all at sea about the existing situation;
-I scarcely know whether to be relieved or enraged by this
-substitution of the feeble platform lecture for the forcible
-curtain-lecture. I am lost without the trenchant and candid
-Mrs. Caudle.  I really do not know what to do with the prostrate
-and penitent Miss Pankhurst.  This surrender of the modern woman
-has taken us all so much by surprise that it is desirable to pause
-a moment, and collect our wits about what she is really saying.
-
-As I have already remarked, there is one very simple answer to all this;
-these are not the modern women, but about one in two thousand
-of the modern women.  This fact is important to a democrat;
-but it is of very little importance to the typically modern mind.
-Both the characteristic modern parties believed in a [[government]]
-by the few; the only difference is whether it is the Conservative
-few or Progressive few.  It might be put, somewhat coarsely perhaps,
-by saying that one believes in any minority that is rich and the other
-in any minority that is mad.  But in this state of things the democratic
-argument obviously falls out for the moment; and we are bound
-to take the prominent minority, merely because it is prominent.
-Let us eliminate altogether from our minds the thousands of women who
-detest this cause, and the millions of women who have hardly heard of it.
-Let us concede that the English people itself is not and will not
-be for a very long [[Time|time]] within the sphere of practical politics.
-Let us confine ourselves to saying that these particular women want
-a vote and to asking themselves what a vote is.  If we ask these
-ladies ourselves what a vote is, we shall get a very vague reply.
-It is the only question, as a rule, for which they are not prepared.
-For the [[Truth|truth]] is that they go mainly by precedent; by the mere fact
-that men have votes already.  So far from being a mutinous movement,
-it is really a very Conservative one; it is in the narrowest rut of
-the British Constitution.  Let us take a little wider and freer sweep
-of thought and ask ourselves what is the ultimate point and meaning
-of this odd business called voting.
+It is always said that great reformers or masters of events
+can manage to bring about some specific and practical reforms,
+but that they never fulfill their visions or satisfy their souls.
+I believe there is a real sense in which this apparent platitude
+is quite untrue.  By a strange inversion the political idealist
+often does not get what he asks for, but does get what he wants.
+The silent pressure of his ideal lasts much longer and reshapes the world
+much more than the actualities by which he attempted to suggest it.
+What perishes is the letter, which he thought so practical.
+What endures is the spirit, which he felt to be [[Unattainable|unattainable]]
+and even unutterable.  It is exactly his schemes that are
+not fulfilled; it is exactly his vision that is fulfilled.
+Thus the ten or twelve paper constitutions of the [[French Revolution]],
+which seemed so business-like to the framers of them, seem to
+us to have flown away on the [[Wind|wind]] as the wildest fancies.
+What has not flown away, what is a fixed fact in Europe,
+is the ideal and vision.  The Republic, the idea of a land
+full of mere citizens all with some minimum of manners
+and minimum of wealth, the vision of the eighteenth century,
+the reality of the twentieth.  So I think it will generally
+be with the creator of social things, desirable or undesirable.
+All his schemes will fail, all his tools break in his hands.
+His compromises will collapse, his concessions will be useless.
+He must brace himself to bear his fate; he shall have nothing
+but his heart's [[Desire|desire]].

@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 34: THIRTY FOUR (part 2)"
+title: "Martin Chuzzlewit — Chapter 34: THIRTY FOUR (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -25,7 +25,7 @@ rooted in the British mind!’
 
 ‘Good Heaven, sir,’ cried Martin. ‘Is the Eden Land Corporation, with Mr
 Scadder at its head, and all the misery it has worked, at its door, an
-Institution of [[America]]? A part of any form of [[government]] that ever was
+Institution of [[america|America]]? A part of any form of [[government]] that ever was
 known or heard of?’
 
 ‘I con-sider the cause of this to be,’ said Pogram, looking round again
@@ -61,7 +61,7 @@ and the [[Tyrant]] is, that his bright [[Home|home]] is in the Settin Sun.’
 
 Part of this referred to Chollop, and part to a Western postmaster, who,
 being a public defaulter not very long before (a character not at all
-uncommon in [[America]]), had been removed from office; and on whose behalf
+uncommon in [[america|America]]), had been removed from office; and on whose behalf
 Mr Pogram (he voted for Pogram) had thundered the last sentence from
 his seat in Congress, at the head of an unpopular President. It told
 brilliantly; for the bystanders were delighted, and one of them said to
@@ -132,15 +132,3 @@ Elijah Pogram.
 They were a very pleasant party. No man had spoken a word; every one had
 been intent, as usual, on his own private gorging; and the greater part
 of the company were decidedly dirty feeders.
-
-The Honourable Elijah Pogram looked at Martin as if he thought ‘You
-don’t mean that, I know!’ and he was soon confirmed in this opinion.
-
-Sitting opposite to them was a gentleman in a high state of tobacco, who
-wore quite a little beard, composed of the overflowing of that weed, as
-they had dried about his mouth and chin; so common an ornament that it
-would scarcely have attracted Martin’s observation, but that this good
-citizen, burning to assert his equality against all comers, sucked his
-knife for some moments, and made a cut with it at the butter, just as
-Martin was in the act of taking some. There was a juiciness about the
-deed that might have sickened a scavenger.

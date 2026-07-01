@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 26 (part 1)"
+title: "Jane Eyre — Chapter 26 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/works/jane-eyre-(bronte)">Jane Eyre</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_25/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_26/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_25/part_05">‹ part 05</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_26/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -146,7 +146,3 @@ intonation. Presently Mr. Wood said—
 
 “I cannot proceed without some investigation into what has been
 asserted, and evidence of its [[Truth|truth]] or falsehood.”
-
-“The ceremony is quite broken off,” subjoined the voice behind us. “I
-am in a condition to prove my allegation: an insuperable impediment to
-this [[Marriage|marriage]] exists.”

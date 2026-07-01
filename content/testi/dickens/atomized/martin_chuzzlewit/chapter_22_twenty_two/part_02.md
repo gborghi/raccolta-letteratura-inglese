@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 22: TWENTY TWO (part 2)"
+title: "Martin Chuzzlewit — Chapter 22: TWENTY TWO (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -125,5 +125,3 @@ Martin bowed.
 ‘Mrs Hominy, sir, is the lady of Major Hominy, one of our chicest
 spirits; and belongs Toe one of our most aristocratic families. You air,
 p’raps, acquainted, sir, with Mrs Hominy’s writings.’
-
-Martin couldn’t say he was.

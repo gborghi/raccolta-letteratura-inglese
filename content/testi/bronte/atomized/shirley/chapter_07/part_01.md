@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 7 (part 1)"
+title: "Shirley — Chapter 7 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -229,13 +229,3 @@ express any thought, he was so indulgent. How kind he was as we walked
 up the lane! He does not flatter or say foolish things; his [[Love|love]]-making
 
 ([[Friendship|friendship]], I mean; of course I don't yet account him my [[Lover|lover]], but I
-
-[[Hope|hope]] he will be so some day) is not like what we read of in books,--it
-
-is far better--original, quiet, manly, sincere. I _do_ like him; I would
-
-be an excellent wife to him if he did marry me; I would tell him of his
-
-faults (for he has a few faults), but I would study his comfort, and
-
-cherish him, and do my best to make him happy. Now, I am sure he will

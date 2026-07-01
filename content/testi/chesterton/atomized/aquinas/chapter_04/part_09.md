@@ -1,5 +1,5 @@
 ---
-title: "[[aquinas]] — Chapter 4 (part 9)"
+title: "aquinas — Chapter 4 (part 9)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/aquinas-(chesterton)"
@@ -71,12 +71,12 @@ and tramps; but it was intensely disliked by the upper servants.
 
 Still, if we take the thing as seriously as all childish things should
 be taken, we may learn something from that mysterious state of [[innocence]],
-which is the first and best [[spring]] of all our later indignations.
+which is the first and best [[Spring|spring]] of all our later indignations.
 We may begin to understand why it was that there grew steadily
 with his growing mind, a great and very solitary mind,
 an [[Ambition|ambition]] that was the inversion of all the things about him.
 We shall guess what had continuously swelled within him, whether in
-protest or prophecy or [[Prayer|prayer]] for deliverance, before he startled
+protest or prophecy or [[prayer]] for deliverance, before he startled
 his family by flinging away not only the trappings of nobility,
 but all forms of [[Ambition|ambition]], even ecclesiastical [[Ambition|ambition]].
 His [[Childhood|childhood]] may contain the hint of that first stride of his manhood,

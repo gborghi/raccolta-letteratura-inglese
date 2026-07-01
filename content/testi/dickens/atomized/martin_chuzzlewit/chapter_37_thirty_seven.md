@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 37: THIRTY SEVEN"
+title: "Martin Chuzzlewit — Chapter 37: THIRTY SEVEN"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -371,7 +371,7 @@ very small one in her case, that she might have been excused for looking
 sharp after it, lest it should entirely vanish from her sight--had taken
 a firm hold on Mrs Todgers’s attention. But in some odd nook in Mrs
 Todgers’s breast, up a great many steps, and in a corner easy to be
-overlooked, there was a secret door, with ‘Woman’ written on the [[Spring|spring]],
+overlooked, there was a secret door, with ‘Woman’ written on the [[spring]],
 which, at a touch from [[Mercy]]’s hand, had flown wide open, and admitted
 her for shelter.
 

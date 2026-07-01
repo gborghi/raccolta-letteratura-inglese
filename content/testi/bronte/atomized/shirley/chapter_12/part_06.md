@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 12 (part 6)"
+title: "Shirley — Chapter 12 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -12,6 +12,40 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_12/part_05">‹ part 05</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_12/part_07">part 07 ›</a></div>
 </nav>
+
+
+thousand a year, the other not a penny; and yet there was a safe sense
+
+of equality experienced in her society, never known in that of the
+
+ordinary Briarfield and Whinbury gentry.
+
+
+
+The reason was, [[Shirley]]'s head ran on other things than money and
+
+position. She was glad to be independent as to property; by fits she was
+
+even elated at the notion of being lady of the manor, and having tenants
+
+and an estate. She was especially tickled with an agreeable complacency
+
+when reminded of "all that property" down in the Hollow, "comprising an
+
+excellent cloth-mill, dyehouse, warehouse, together with the messuage,
+
+gardens, and outbuildings, termed Hollow's Cottage;" but her exultation
+
+being quite undisguised was singularly inoffensive; and, for her serious
+
+thoughts, they tended elsewhere. To admire the great, reverence the
+
+good, and be joyous with the genial, was very much the bent of [[Shirley]]'s
+
+[[Soul|soul]]: she mused, therefore, on the means of following this bent far
+
+oftener than she pondered on her social superiority.
+
 
 
 In Caroline Miss Keeldar had first taken an interest because she was
@@ -187,45 +221,3 @@ man-forsaken sailor, and cried from the depths where he struggled,--
 
 
 "Do you pity what he suffered on earth?" asked Miss Keeldar.
-
-
-
-"Pity him, [[Shirley]]? What can I do else? He was nearly broken-hearted
-
-when he wrote that poem, and it almost breaks one's heart to read it.
-
-But he found relief in writing it--I know he did; and that gift of
-
-poetry--the most divine bestowed on man--was, I believe, granted to
-
-allay emotions when their strength threatens harm. It seems to me,
-
-[[Shirley]], that nobody should write poetry to exhibit intellect or
-
-attainment. Who cares for that sort of poetry? Who cares for
-
-learning--who cares for fine words in poetry? And who does not care for
-
-feeling--real feeling--however simply, even rudely expressed?"
-
-
-
-"It seems you care for it, at all events; and certainly, in hearing that
-
-poem, one discovers that Cowper was under an impulse strong as that of
-
-the [[Wind|wind]] which drove the [[Ship|ship]]--an impulse which, while it would not
-
-suffer him to stop to add ornament to a single stanza, filled him with
-
-force to achieve the whole with consummate perfection. You managed to
-
-recite it with a steady voice, Caroline. I [[Wonder|wonder]] thereat."
-
-
-
-"Cowper's hand did not tremble in writing the lines. Why should my voice
-
-falter in repeating them? Depend on it, [[Shirley]], no tear blistered the
-
-manuscript of 'The Castaway.' I hear in it no sob of sorrow, only the

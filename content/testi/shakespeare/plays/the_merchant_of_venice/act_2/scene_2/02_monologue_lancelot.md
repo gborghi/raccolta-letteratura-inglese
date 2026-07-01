@@ -1,5 +1,5 @@
 ---
-title: "The Merchant of [[Venice]] — Act II, Scene 2 — monologue (LANCELOT) [2]"
+title: "The Merchant of Venice — Act II, Scene 2 — monologue (LANCELOT) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-merchant-of-venice-(shakespeare)"

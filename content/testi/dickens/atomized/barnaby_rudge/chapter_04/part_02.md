@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 4 (part 2)"
+title: "Barnaby Rudge — Chapter 4 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_04/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_04/part_03">part 03 ›</a></div>
 </nav>
 
+
+After a long and patient contemplation of the golden key, and many such
+backward glances, Gabriel stepped into the [[Road|road]], and stole a look at the
+upper windows. One of them chanced to be thrown open at the moment,
+and a roguish face met his; a face lighted up by the loveliest pair of
+sparkling eyes that ever locksmith looked upon; the face of a pretty,
+laughing, girl; dimpled and fresh, and healthful--the very impersonation
+of good-[[Humour|humour]] and blooming [[Beauty|beauty]].
 
 ‘Hush!’ she whispered, bending forward and pointing archly to the [[Window|window]]
 underneath. ‘Mother is still asleep.’

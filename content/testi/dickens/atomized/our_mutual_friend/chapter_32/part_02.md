@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 8 (part 2)"
+title: "Our Mutual Friend — Chapter 10 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,145 +10,178 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_32/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_32/part_03">part 03 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_32/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_33/part_01">part 01 ›</a></div>
 </nav>
 
 
-She was too quick in this petulant sally against ‘Pa’s lodger’; and she
-felt that she had been so when she met his quiet look.
+‘Now, whether,’ said Mr Boffin, gravely propounding a case for his
+Secretary’s opinion; ‘whether one might call that a superstition?’
 
-‘They don’t send many—what was your expression?—words of remembrance
-to me,’ said Bella, making haste to take refuge in ill-usage.
+‘It is a matter of feeling with Mrs Boffin,’ said Rokesmith, gently.
+‘The name has always been unfortunate. It has now this new unfortunate
+association connected with it. The name has died out. Why revive it?
+Might I ask Miss Wilfer what she thinks?’
 
-‘They frequently ask me about you, and I give them such slight
-intelligence as I can.’
+‘It has not been a fortunate name for me,’ said Bella, colouring—‘or
+at least it was not, until it led to my being here—but that is not the
+point in my thoughts. As we had given the name to the poor [[Child|child]], and as
+the poor [[Child|child]] took so lovingly to me, I think I should feel jealous of
+calling another [[Child|child]] by it. I think I should feel as if the name had
+become endeared to me, and I had no right to use it so.’
 
-‘I [[Hope|hope]] it’s truly given,’ exclaimed Bella.
+‘And that’s your opinion?’ remarked Mr Boffin, observant of the
+Secretary’s face and again addressing him.
 
-‘I [[Hope|hope]] you cannot [[Doubt|doubt]] it, for it would be very much against you, if
-you could.’
+‘I say again, it is a matter of feeling,’ returned the Secretary. ‘I
+think Miss Wilfer’s feeling very womanly and pretty.’
 
-‘No, I do not [[Doubt|doubt]] it. I deserve the reproach, which is very just
-indeed. I beg your pardon, Mr Rokesmith.’
+‘Now, give us your opinion, Noddy,’ said Mrs Boffin.
 
-‘I should beg you not to do so, but that it shows you to such admirable
-advantage,’ he replied with earnestness. ‘Forgive me; I could not help
-saying that. To return to what I have digressed from, let me add that
-perhaps they think I report them to you, deliver little messages, and
-the like. But I forbear to trouble you, as you never ask me.’
+‘My opinion, old lady,’ returned the Golden Dustman, ‘is your opinion.’
 
-‘I am going, sir,’ said Bella, looking at him as if he had reproved her,
-‘to see them tomorrow.’
+‘Then,’ said Mrs Boffin, ‘we agree not to revive [[John Harmon]]’s name, but
+to let it rest in the [[Grave|grave]]. It is, as Mr Rokesmith says, a matter of
+feeling, but Lor how many matters ARE matters of feeling! [[Well]]; and so
+I come to the second thing I have thought of. You must know, Bella,
+my dear, and Mr Rokesmith, that when I first named to my husband my
+thoughts of adopting a little [[Orphan|orphan]] boy in remembrance of [[John Harmon]],
+I further named to my husband that it was comforting to think that how
+the poor boy would be benefited by John’s own money, and protected from
+John’s own forlornness.’
 
-‘Is that,’ he asked, hesitating, ‘said to me, or to them?’
+‘Hear, hear!’ cried Mr Boffin. ‘So she did. Ancoar!’
 
-‘To which you please.’
+‘No, not Ancoar, Noddy, my dear,’ returned Mrs Boffin, ‘because I am
+going to say something else. I meant that, I am sure, as much as
+I still mean it. But this little [[Death|death]] has made me ask myself the
+question, seriously, whether I wasn’t too bent upon pleasing myself.
+Else why did I seek out so much for a pretty [[Child|child]], and a [[Child|child]] quite to
+my liking? Wanting to do good, why not do it for its own sake, and put
+my tastes and likings by?’
 
-‘To both? Shall I make it a message?’
+‘Perhaps,’ said Bella; and perhaps she said it with some little
+sensitiveness arising out of those old curious relations of hers towards
+the murdered man; ‘perhaps, in reviving the name, you would not have
+liked to give it to a less interesting [[Child|child]] than the original. He
+interested you very much.’
 
-‘You can if you like, Mr Rokesmith. Message or no message, I am going to
-see them tomorrow.’
+‘[[Well]], my dear,’ returned Mrs Boffin, giving her a squeeze, ‘it’s kind
+of you to find that reason out, and I [[Hope|hope]] it may have been so, and
+indeed to a certain extent I believe it was so, but I am afraid not to
+the whole extent. However, that don’t come in question now, because we
+have done with the name.’
 
-‘Then I will tell them so.’
+‘Laid it up as a remembrance,’ suggested Bella, musingly.
 
-He lingered a moment, as though to give her the opportunity of
-prolonging the conversation if she wished. As she remained silent, he
-left her. Two incidents of the little interview were felt by Miss Bella
-herself, when [[Alone|alone]] again, to be very curious. The first was, that he
-unquestionably left her with a penitent air upon her, and a penitent
-feeling in her heart. The second was, that she had not an intention or
-a thought of going [[Home|home]], until she had announced it to him as a settled
-design.
+‘Much better said, my dear; laid it up as a remembrance. [[Well]] then; I
+have been thinking if I take any [[Orphan|orphan]] to provide for, let it not be
+a pet and a plaything for me, but a creature to be helped for its own
+sake.’
 
-‘What can I mean by it, or what can he mean by it?’ was her mental
-inquiry: ‘He has no right to any power over me, and how do I come to
-mind him when I don’t care for him?’
+‘Not pretty then?’ said Bella.
 
-Mrs Boffin, insisting that Bella should make tomorrow’s expedition
-in the chariot, she went [[Home|home]] in great grandeur. Mrs Wilfer and Miss
-[[Lavinia]] had speculated much on the probabilities and improbabilities of
-her coming in this gorgeous state, and, on beholding the chariot from
-the [[Window|window]] at which they were secreted to look out for it, agreed
-that it must be detained at the door as long as possible, for the
-mortification and confusion of the neighbours. Then they repaired to
-the usual family room, to receive Miss Bella with a becoming show of
-indifference.
+‘No,’ returned Mrs Boffin, stoutly.
 
-The family room looked very small and very mean, and the downward
-staircase by which it was attained looked very narrow and very crooked.
-The little [[house]] and all its arrangements were a poor contrast to the
-eminently aristocratic dwelling. ‘I can hardly believe,’ thought Bella,
-‘that I ever did endure life in this place!’
+‘Nor prepossessing then?’ said Bella.
 
-Gloomy majesty on the part of Mrs Wilfer, and native pertness on the
-part of Lavvy, did not mend the matter. Bella really stood in natural
-need of a little help, and she got none.
+‘No,’ returned Mrs Boffin. ‘Not necessarily so. That’s as it may happen.
+A [[Well|well]]-disposed boy comes in my way who may be even a little wanting in
+such advantages for getting on in life, but is honest and industrious
+and requires a helping hand and deserves it. If I am very much in
+earnest and quite determined to be unselfish, let me take care of HIM.’
 
-‘This,’ said Mrs Wilfer, presenting a cheek to be kissed, as sympathetic
-and responsive as the back of the bowl of a spoon, ‘is quite an [[Honour|honour]]!
-You will probably find your sister Lavvy grown, Bella.’
+Here the footman whose feelings had been hurt on the former occasion,
+appeared, and crossing to Rokesmith apologetically announced the
+objectionable Sloppy.
 
-‘Ma,’ Miss [[Lavinia]] interposed, ‘there can be no objection to your being
-aggravating, because Bella richly deserves it; but I really must request
-that you will not drag in such ridiculous nonsense as my having grown
-when I am past the growing age.’
+The four members of Council looked at one another, and paused. ‘Shall he
+be brought here, ma’am?’ asked Rokesmith.
 
-‘I grew, myself,’ Mrs Wilfer sternly proclaimed, ‘after I was married.’
+‘Yes,’ said Mrs Boffin. Whereupon the footman disappeared, reappeared
+presenting Sloppy, and retired much disgusted.
 
-‘Very [[Well|well]], Ma,’ returned Lavvy, ‘then I think you had much better have
-left it [[Alone|alone]].’
+The consideration of Mrs Boffin had clothed Mr Sloppy in a suit of
+black, on which the tailor had received personal directions from
+Rokesmith to expend the utmost cunning of his art, with a view to the
+concealment of the cohering and sustaining buttons. But, so much
+more powerful were the frailties of Sloppy’s form than the strongest
+resources of tailoring science, that he now stood before the Council,
+a perfect Argus in the way of buttons: shining and winking and gleaming
+and twinkling out of a hundred of those eyes of bright metal, at the
+dazzled spectators. The artistic taste of some unknown hatter had
+furnished him with a hatband of wholesale capacity which was fluted
+behind, from the [[Crown|crown]] of his hat to the brim, and terminated in a black
+bunch, from which the [[Imagination|imagination]] shrunk discomfited and the reason
+revolted. Some special powers with which his legs were endowed, had
+already hitched up his glossy trousers at the ankles, and bagged them at
+the knees; while similar gifts in his arms had raised his coat-sleeves
+from his wrists and accumulated them at his elbows. Thus set forth, with
+the additional embellishments of a very little tail to his coat, and a
+yawning gulf at his waistband, Sloppy stood confessed.
 
-The lofty glare with which the majestic woman received this answer,
-might have embarrassed a less pert opponent, but it had no effect upon
-[[Lavinia]]: who, leaving her parent to the enjoyment of any amount of
-glaring at she might deem desirable under the circumstances, accosted
-her sister, undismayed.
+‘And how is Betty, my good fellow?’ Mrs Boffin asked him.
 
-‘I suppose you won’t consider yourself quite disgraced, Bella, if I give
-you a kiss? [[Well]]! And how do you do, Bella? And how are your Boffins?’
+‘Thankee, mum,’ said Sloppy, ‘she do pretty nicely, and sending her
+dooty and many thanks for the tea and all faviours and wishing to know
+the family’s healths.’
 
-‘Peace!’ exclaimed Mrs Wilfer. ‘Hold! I will not suffer this tone of
-levity.’
+‘Have you just come, Sloppy?’
 
-‘My goodness me! How are your Spoffins, then?’ said Lavvy, ‘since Ma so
-very much objects to your Boffins.’
+‘Yes, mum.’
 
-‘Impertinent girl! Minx!’ said Mrs Wilfer, with dread severity.
+‘Then you have not had your dinner yet?’
 
-‘I don’t care whether I am a Minx, or a Sphinx,’ returned [[Lavinia]],
-coolly, tossing her head; ‘it’s exactly the same thing to me, and I’d
-every bit as soon be one as the other; but I know this—I’ll not grow
-after I’m married!’
+‘No, mum. But I mean to it. For I ain’t forgotten your handsome orders
+that I was never to go away without having had a good ’un off of meat
+and beer and pudding—no: there was four of ’em, for I reckoned ’em
+up when I had ’em; meat one, beer two, vegetables three, and which was
+four?—Why, pudding, HE was four!’ Here Sloppy threw his head back,
+opened his mouth wide, and laughed rapturously.
 
-‘You will not? YOU will not?’ repeated Mrs Wilfer, solemnly.
+‘How are the two poor little Minders?’ asked Mrs Boffin.
 
-‘No, Ma, I will not. Nothing shall induce me.’
+‘Striking right out, mum, and coming round beautiful.’
 
-Mrs Wilfer, having waved her gloves, became loftily pathetic.
+Mrs Boffin looked on the other three members of Council, and then said,
+beckoning with her finger:
 
-‘But it was to be expected;’ thus she spake. ‘A [[Child|child]] of mine deserts me
-for the proud and prosperous, and another [[Child|child]] of mine despises me. It
-is quite fitting.’
+‘Sloppy.’
 
-‘Ma,’ Bella struck in, ‘Mr and Mrs Boffin are prosperous, no [[Doubt|doubt]]; but
-you have no right to say they are proud. You must know very [[Well|well]] that
-they are not.’
+‘Yes, mum.’
 
-‘In short, Ma,’ said Lavvy, bouncing over to the enemy without a word
-of notice, ‘you must know very [[Well|well]]—or if you don’t, more shame for
-you!—that Mr and Mrs Boffin are just absolute perfection.’
+‘Come forward, Sloppy. Should you like to dine here every day?’
 
-‘Truly,’ returned Mrs Wilfer, courteously receiving the deserter, ‘it
-would seem that we are required to think so. And this, [[Lavinia]], is
-my reason for objecting to a tone of levity. Mrs Boffin (of whose
-physiognomy I can never speak with the composure I would [[Desire|desire]] to
-preserve), and your mother, are not on terms of intimacy. It is not
-for a moment to be supposed that she and her husband dare to presume to
-speak of this family as the Wilfers. I cannot therefore condescend to
-speak of them as the Boffins. No; for such a tone—call it familiarity,
-levity, equality, or what you will—would imply those social
-interchanges which do not exist. Do I render myself intelligible?’
+‘Off of all four on ’em, mum? O mum!’ Sloppy’s feelings obliged him to
+squeeze his hat, and contract one leg at the knee.
 
-Without taking the least notice of this inquiry, albeit delivered in an
-imposing and forensic manner, [[Lavinia]] reminded her sister, ‘After all,
-you know, Bella, you haven’t told us how your Whatshisnames are.’
+‘Yes. And should you like to be always taken care of here, if you were
+industrious and deserving?’
+
+‘Oh, mum!—But there’s Mrs Higden,’ said Sloppy, checking himself in his
+raptures, drawing back, and shaking his head with very serious meaning.
+‘There’s Mrs Higden. Mrs Higden goes before all. None can ever be better
+friends to me than Mrs Higden’s been. And she must be turned for, must
+Mrs Higden. Where would Mrs Higden be if she warn’t turned for!’ At the
+mere thought of Mrs Higden in this inconceivable affliction, Mr Sloppy’s
+countenance became pale, and manifested the most distressful emotions.
+
+‘You are as right as right can be, Sloppy,’ said Mrs Boffin ‘and far be
+it from me to tell you otherwise. It shall be seen to. If Betty Higden
+can be turned for all the same, you shall come here and be taken care of
+for life, and be made able to keep her in other ways than the turning.’
+
+‘Even as to that, mum,’ answered the ecstatic Sloppy, ‘the turning might
+be done in the [[Night|night]], don’t you see? I could be here in the day, and
+turn in the [[Night|night]]. I don’t want no [[Sleep|sleep]], I don’t. Or even if I any ways
+should want a wink or two,’ added Sloppy, after a moment’s apologetic
+reflection, ‘I could take ’em turning. I’ve took ’em turning many a
+[[Time|time]], and enjoyed ’em wonderful!’
+
+On the grateful impulse of the moment, Mr Sloppy kissed Mrs Boffin’s
+hand, and then detaching himself from that good creature that he might
+have room enough for his feelings, threw back his head, opened his mouth
+wide, and uttered a dismal howl. It was creditable to his tenderness of
+heart, but suggested that he might on occasion give some offence to the
+neighbours: the rather, as the footman looked in, and begged pardon,
+finding he was not wanted, but excused himself; on the ground ‘that he
+thought it was Cats.’

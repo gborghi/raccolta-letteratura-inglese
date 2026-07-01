@@ -1,5 +1,5 @@
 ---
-title: "[[Mystification]] (part 1)"
+title: "Mystification (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/mystification-(poe)"
@@ -195,7 +195,3 @@ Slid, if these be your “passados” and “montantes,” I’ll have none
       mystific escape the natural consequence of his manoevres—an
 
       attachment of the ludicrous to his own character and person.
-
-      Continually enveloped in an atmosphere of whim, my friend
-
-      appeared to live only for the severities of society; and not even

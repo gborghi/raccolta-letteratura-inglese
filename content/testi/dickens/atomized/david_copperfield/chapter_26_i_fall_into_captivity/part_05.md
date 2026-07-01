@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 26: I FALL INTO CAPTIVITY (part 5)"
+title: "David Copperfield — Chapter 26: I FALL INTO CAPTIVITY (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_26_i_fall_into_captivity/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_26_i_fall_into_captivity/part_06">part 06 ›</a></div>
 </nav>
 
+
+Jip made a comfortable noise, in answer, a little like a tea-kettle when
+it sings. As for me, every word was a new heap of fetters, riveted above
+the last.
 
 ‘It is very hard, because we have not a kind Mama, that we are to have,
 instead, a sulky, gloomy old thing like Miss Murdstone, always following
@@ -107,20 +111,3 @@ that I had said nothing to the purpose; or that she had no idea of the
 extent of my devotion, or that she cared nothing about me. I was always
 looking out, as may be supposed, for another invitation to Mr. Spenlow’s
 [[house]]. I was always being disappointed, for I got none.
-
-Mrs. Crupp must have been a woman of penetration; for when this
-attachment was but a few weeks old, and I had not had the [[Courage|courage]]
-to write more explicitly even to Agnes, than that I had been to Mr.
-Spenlow’s [[house]], ‘whose family,’ I added, ‘consists of one daughter’;--I
-say Mrs. Crupp must have been a woman of penetration, for, even in that
-early stage, she found it out. She came up to me one evening, when I
-was very low, to ask (she being then afflicted with the disorder I have
-mentioned) if I could oblige her with a little tincture of cardamums
-mixed with rhubarb, and flavoured with seven drops of the essence of
-cloves, which was the best remedy for her complaint;--or, if I had not
-such a thing by me, with a little brandy, which was the next best. It
-was not, she remarked, so palatable to her, but it was the next best. As
-I had never even heard of the first remedy, and always had the second in
-the closet, I gave Mrs. Crupp a glass of the second, which (that I might
-have no suspicion of its being devoted to any improper use) she began to
-take in my presence.

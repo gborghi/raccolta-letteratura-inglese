@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 8 (part 2)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 8 (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -13,6 +13,8 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_07/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_07/part_03">part 03 ›</a></div>
 </nav>
 
+
+scuppers. At this the [[Villain|villain]] absolutely gasped for breath, and turned
 
 his head slowly round upon his companions, as if imploring some one to
 
@@ -181,13 +183,3 @@ of the brig.
 
 
 The only person of our opponents who was left alive was [[Richard]] Parker.
-
-This man, it will be remembered, I had knocked down with a blow from
-
-the pump-handle at the commencement of the attack. He now lay
-
-motionless by the door of the shattered stateroom; but, upon Peters
-
-touching him with his foot, he spoke, and entreated for [[Mercy|mercy]]. His head
-
-was only slightly cut, and otherwise he had received no injury, having

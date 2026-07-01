@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 44 (part 3)"
+title: "The Tenant of Wildfell Hall — Chapter 44 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_44/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_45/part_01">part 01 ›</a></div>
 </nav>
 
+
+his grievances—expecting to hear of his victims, if not to find them
+
+there—and has told so many lies, and with such unblushing coolness,
+
+that my uncle more than half believes him, and strongly advocates my
+
+going back to him and being friends again. But my aunt knows better:
+
+she is too cool and cautious, and too [[Well|well]] acquainted with both my
+
+husband’s character and my own to be imposed upon by any specious
+
+falsehoods the former could invent. But he does not _want_ me back; he
 
 wants my [[Child|child]]; and gives my friends to understand that if I prefer
 
@@ -88,7 +102,7 @@ ears of some one who will carry it to the Lord of Grassdale Manor.
 
 I shall be expected to return their calls, but if, upon inquiry, I find
 
-that any of them live too far away for [[arthur|Arthur]] to accompany me, they
+that any of them live too far away for [[Arthur]] to accompany me, they
 
 must expect in vain for a while, for I cannot bear to leave him, unless
 

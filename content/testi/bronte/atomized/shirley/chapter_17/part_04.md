@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 17 (part 4)"
+title: "Shirley — Chapter 17 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_17/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_17/part_05">part 05 ›</a></div>
 </nav>
 
+
+invaluable [[Friendship|friendship]] of Mr. Samuel Wynne.
+
+
+
+"Wouldn't have offended either gentleman for the world," she averred. "I
+
+have always been accustomed to treat both with the most respectful
+
+consideration, and there, owing to you, how they have been used! I shall
+
+not be happy till I have made it up. I never am happy till I am friends
+
+with my neighbours. So to-morrow I must make a pilgrimage to Royd
+
+corn-mill, soothe the miller, and praise the grain; and next day I must
+
+call at De Walden--where I hate to go--and carry in my reticule half an
 
 oatcake to give to Mr. Sam's favourite pointers."
 
@@ -181,33 +199,3 @@ Mr. Sam Wynne coming up with great haste, to insist on the elder girls
 joining in the game as [[Well|well]] as the younger ones, Caroline was again left
 
 [[Alone|alone]]. She was meditating a quiet retreat to the [[house]], when [[Shirley]],
-
-perceiving from afar her isolation, hastened to her side.
-
-
-
-"Let us go to the top of the fields," she said. "I know you don't like
-
-crowds, Caroline."
-
-
-
-"But it will be depriving you of a pleasure, [[Shirley]], to take you from
-
-all these fine people, who [[Court|court]] your society so assiduously, and to
-
-whom you can, without art or effort, make yourself so pleasant."
-
-
-
-"Not quite without effort; I am already tired of the exertion. It is but
-
-insipid, barren work, talking and laughing with the good gentlefolks of
-
-Briarfield. I have been looking out for your white dress for the last
-
-ten minutes. I like to watch those I [[Love|love]] in a crowd, and to compare
-
-them with others. I have thus compared you. You resemble none of the
-
-rest, Lina. There are some prettier faces than yours here. You are not a

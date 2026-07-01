@@ -1,5 +1,5 @@
 ---
-title: "The Haunted Man and the [[Ghost]]'s Bargain — Chapter 1 (part 3)"
+title: "The Haunted Man and the Ghost's Bargain — Chapter 1 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-haunted-man-and-the-ghost's-bargain-(dickens)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_01/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_01/part_04">part 04 ›</a></div>
 </nav>
 
+
+“True, William,” was the patient and abstracted answer, when he stopped
+again.
+
+“Yes, sir,” said Mr. Swidger. “That’s what I always say, sir. You may
+call him the trunk of the tree!—Bread. Then you come to his successor,
+my unworthy [[Self|self]]—Salt—and Mrs. William, Swidgers both.—Knife and fork.
+Then you come to all my brothers and their families, Swidgers, man and
+woman, boy and girl. Why, what with cousins, uncles, aunts, and
+relationships of this, that, and t’other degree, and whatnot degree, and
+marriages, and lyings-in, the Swidgers—Tumbler—might take hold of hands,
+and make a ring round England!”
 
 Receiving no reply at all here, from the thoughtful man whom he
 addressed, Mr. William approached, him nearer, and made a feint of
@@ -118,11 +130,3 @@ addressed the old man, standing apart, with his glistening burden in his
 arms, from which the quiet Mrs. William took small branches, which she
 noiselessly trimmed with her scissors, and decorated the room with, while
 her aged father-in-law looked on much interested in the ceremony.
-
-“My duty to you, sir,” returned the old man. “Should have spoke before,
-sir, but know your ways, Mr. Redlaw—proud to say—and wait till spoke to!
-Merry Christmas, sir, and Happy New Year, and many of ’em. Have had a
-pretty many of ’em myself—ha, ha!—and may take the liberty of wishing
-’em. I’m eighty-seven!”
-
-“Have you had so many that were merry and happy?” asked the other.

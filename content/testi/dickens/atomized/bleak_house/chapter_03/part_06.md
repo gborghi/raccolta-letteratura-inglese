@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 3 (part 6)"
+title: "Bleak House — Chapter 3 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_03/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_03/part_07">part 07 ›</a></div>
 </nav>
 
+
+This was Kenge and Carboy’s. The young gentleman showed me through an
+outer office into Mr. Kenge’s room—there was no one in it—and
+politely put an arm-chair for me by the [[Fire|fire]]. He then called my
+attention to a little looking-glass hanging from a nail on one side
+of the chimney-piece.
+
+“In case you should wish to look at yourself, miss, after the
+[[Journey|journey]], as you’re going before the Chancellor. Not that it’s
+requisite, I am sure,” said the young gentleman civilly.
+
+“Going before the Chancellor?” I said, startled for a moment.
+
+“Only a matter of form, miss,” returned the young gentleman. “Mr.
+Kenge is in [[Court|court]] now. He left his compliments, and would you partake
+of some refreshment”—there were biscuits and a decanter of wine on a
+small table—“and look over the paper,” which the young gentleman
+gave me as he spoke. He then stirred the [[Fire|fire]] and left me.
 
 Everything was so strange—the stranger from its being [[Night|night]] in the
 day-[[Time|time]], the candles burning with a white flame, and looking raw and
@@ -110,43 +128,3 @@ over [[Leaves|leaves]], “is Jarndyce of Bleak [[house|House]].”
 “Jarndyce of Bleak [[house|House]], my lord,” said Mr. Kenge.
 
 “A dreary name,” said the Lord Chancellor.
-
-“But not a dreary place at present, my lord,” said Mr. Kenge.
-
-“And Bleak [[house|House]],” said his lordship, “is in—”
-
-“Hertfordshire, my lord.”
-
-“Mr. Jarndyce of Bleak [[house|House]] is not married?” said his lordship.
-
-“He is not, my lord,” said Mr. Kenge.
-
-A pause.
-
-“Young Mr. [[Richard Carstone]] is present?” said the Lord Chancellor,
-glancing towards him.
-
-[[Richard]] bowed and stepped forward.
-
-“Hum!” said the Lord Chancellor, turning over more [[Leaves|leaves]].
-
-“Mr. Jarndyce of Bleak [[house|House]], my lord,” Mr. Kenge observed in a low
-voice, “if I may venture to remind your lordship, provides a suitable
-companion for—”
-
-“For Mr. [[Richard Carstone]]?” I thought (but I am not quite sure) I
-heard his lordship say in an equally low voice and with a smile.
-
-“For Miss [[Ada Clare]]. This is the young lady. Miss Summerson.”
-
-His lordship gave me an indulgent look and acknowledged my curtsy
-very graciously.
-
-“Miss Summerson is not related to any party in the cause, I think?”
-
-“No, my lord.”
-
-Mr. Kenge leant over before it was quite said and whispered. His
-lordship, with his eyes upon his papers, listened, nodded twice or
-thrice, turned over more [[Leaves|leaves]], and did not look towards me again
-until we were going away.

@@ -1,5 +1,5 @@
 ---
-title: "[[misc]] — THE MAN ON TOP"
+title: "misc — THE MAN ON TOP"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 THE MAN ON TOP
-
 
 There is a fact at the root of all realities to-day which cannot
 be stated too simply.  It is that the powers of this world
@@ -100,7 +99,7 @@ The ancient wig of the judge is often indistinguishable from the old
 wig of the flunkey.
 
 To judge about [[success]] or failure one must see things
-very simply; one must see them in masses, as the [[artist]],
+very simply; one must see them in masses, as the [[Artist|artist]],
 half closing his eyes against details, sees light and shade.
 That is the only way in which a just judgment can be formed
 as to whether any departure or development, such as [[Islam]]

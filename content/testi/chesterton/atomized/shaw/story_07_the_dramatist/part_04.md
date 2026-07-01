@@ -1,5 +1,5 @@
 ---
-title: "[[Shaw]] — THE DRAMATIST (part 4)"
+title: "Shaw — THE DRAMATIST (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/shaw-(chesterton)"
@@ -13,6 +13,41 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/shaw/story_07_the_dramatist/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/shaw/story_07_the_dramatist/part_05">part 05 ›</a></div>
 </nav>
 
+
+But it is irritating to think what diamonds, what dazzling silver
+of Shavian wit has been sunk in such an out-of-date warship.
+In THE PHILANDERER there are five hundred excellent and about five
+magnificent things.  The rattle of repartees between the doctor
+and the soldier about the humanity of their two trades is admirable.
+Or again, when the colonel tells Chartaris that "in his young days"
+he would have no more behaved like Chartaris than he would
+have cheated at cards.  After a pause Chartaris says,
+"You're getting old, Craven, and you make a virtue of it as usual."
+And there is an altitude of aerial [[Tragedy|tragedy]] in the words of Grace,
+who has refused the man she loves, to [[Julia]], who is marrying the man
+she doesn't, "This is what they call a happy ending--these men."
+
+There is an acrid taste in THE PHILANDERER; and certainly he might
+be considered a super-sensitive person who should find anything
+acrid in YOU NEVER CAN TELL.  This play is the nearest approach
+to frank and objectless exuberance in the whole of [[Shaw]]'s work.
+PUNCH, with wisdom as [[Well|well]] as wit, said that it might [[Well|well]] be
+called not "You Never Can Tell" but "You Never Can be [[Shaw]]."
+And yet if anyone will read this blazing farce and then
+after it any of the romantic farces, such as [[Pickwick|PICKWICK]]
+or even THE WRONG BOX, I do not think he will be disposed
+to erase or even to modify what I said at the beginning about
+the ingrained grimness and even inhumanity of [[Shaw]]'s art.
+To take but one test:  [[Love|love]], in an "extravaganza,"
+may be light [[Love|love]] or [[Love|love]] in idleness, but it should be hearty
+and happy [[Love|love]] if it is to add to the general hilarity.
+Such are the ludicrous but lucky [[Love|love]] affairs of the sportsman
+Winkle and the Maestro Jimson.  In Gloria's collapse before her
+bullying [[Lover|lover]] there is something at once cold and unclean;
+it calls up all the modern supermen with their cruel and fishy eyes.
+Such farces should begin in a friendly air, in a tavern.
+There is something very symbolic of [[Shaw]] in the fact that his
+farce begins in a dentist's.
 
 The only one out of this brilliant batch of plays in which I
 think that the method adopted really fails, is the one called
@@ -46,7 +81,7 @@ it is even finer and more important because of its fate,
 which was to rouse a long and serious [[Storm|storm]] and to be vetoed
 by the Censor of Plays.  I say that this drama is most
 important because of the quarrel that came out of it.
-If I were speaking of some mere [[Artist|artist]] this might be an insult.
+If I were speaking of some mere [[artist]] this might be an insult.
 But there are high and heroic things in Bernard [[Shaw]];
 and one of the highest and most heroic is this, that he certainly
 cares much more for a quarrel than for a play.  And this quarrel
@@ -91,48 +126,3 @@ and quite plain human problem; the problem is as plain and permanent,
 the [[Tragedy|tragedy]] is as proud and pure, as in OEDIPUs or [[Macbeth|MACBETH]].
 This play was presented in the ordinary way for public performance
 and was suddenly stopped by the Censor of Plays.
-
-The Censor of Plays is a small and accidental
-eighteenth-century official.  Like nearly all the powers
-which Englishmen now respect as ancient and rooted, he is
-very recent.  Novels and newspapers still talk of the English
-aristocracy that came over with William the Conqueror.
-Little of our effective oligarchy is as old as the [[Reformation]];
-and none of it came over with William the Conqueror.
-Some of the older English landlords came over with William
-of Orange; the rest have come by ordinary alien immigration.
-In the same way we always talk of the Victorian woman (with her
-smelling salts and sentiment) as the old-fashioned woman.
-But she really was a quite new-fashioned woman; she considered herself,
-and was, an advance in delicacy and civilisation upon the coarse
-and candid Elizabethan woman to whom we are now returning.
-We are never oppressed by old things; it is recent things that can
-really oppress.  And in accordance with this principle modern
-England has accepted, as if it were a part of perennial [[morality]],
-a tenth-rate job of Walpole's worst days called the Censorship
-of the Drama.  Just as they have supposed the eighteenth-century
-parvenus to date from [[Hastings]], just as they have supposed
-the eighteenth-century ladies to date from Eve, so they have
-supposed the eighteenth-century Censorship to date from Sinai.
-The origin of the thing was in [[Truth|truth]] purely political.
-Its first and principal achievement was to prevent Fielding
-from writing plays; not at all because the plays were coarse,
-but because they criticised the [[government|Government]].  Fielding was
-a free writer; but they did not resent his sexual [[Freedom|freedom]];
-the Censor would not have objected if he had torn away the most
-intimate curtains of decency or rent the last rag from private life.
-What the Censor disliked was his rending the curtain from public life.
-There is still much of that spirit in our country; there are no
-affairs which men seek so much to cover up as public affairs.
-But the thing was done somewhat more boldly and baldly
-in Walpole's day; and the Censorship of plays has its origin,
-not merely in tyranny, but in a quite trifling and temporary
-and partisan piece of tyranny; a thing in its [[Nature|nature]] far
-more [[ephemeral]], far less essential, than [[Ship]] Money.
-Perhaps its brightest moment was when the office of censor was held
-by that filthy writer, Colman the younger; and when he gravely
-refused to license a work by the author of OUR VILLAGE.
-Few funnier notions can ever have actually been facts than
-this notion that the restraint and chastity of George Colman
-saved the English public from the eroticism and obscenity
-of Miss Mitford.

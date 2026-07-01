@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 21 (part 3)"
+title: "Shirley — Chapter 21 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_21/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_21/part_04">part 04 ›</a></div>
 </nav>
 
+
+minster tower and village spire--ay, as distressed as a churchwarden who
+
+feels the exigence of white-wash and has not wherewithal to purchase
+
+lime--I recall your senseless sarcasms on the 'fat bishops,' the
+
+'pampered parsons,' 'old mother church,' etc. I remember your strictures
+
+on all who differ from you, your sweeping condemnation of classes and
 
 individuals, without the slightest allowance made for circumstances or
 
@@ -245,21 +255,3 @@ you had wandered half a mile from the mill, you found a sense of deep
 [[Solitude|solitude]]--found it in the shade of unmolested trees, received it in the
 
 singing of many [[Birds|birds]], for which that shade made a [[Home|home]]. This was no
-
-trodden way. The freshness of the wood [[Flowers|flowers]] attested that foot of man
-
-seldom pressed them; the abounding wild roses looked as if they budded,
-
-bloomed, and faded under the watch of [[Solitude|solitude]], as if in a sultan's
-
-harem. Here you saw the sweet azure of blue-[[Bells|bells]], and recognized in
-
-pearl-white blossoms, spangling the grass, a humble type of some starlit
-
-spot in space.
-
-
-
-Mrs. Pryor liked a quiet walk. She ever shunned high-roads, and sought
-
-byways and lonely lanes. One companion she preferred to total [[Solitude|solitude]],

@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 9 (part 5)"
+title: "The Mystery of Edwin Drood — Chapter 9 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -13,6 +13,31 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_10/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_11/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Could I,” said Rosa, rising, as he jerked out of his chair in his
+ungainly way: “could I ask you, most kindly to come to me at Christmas,
+if I had anything particular to say to you?”
+
+“Why, certainly, certainly,” he rejoined; apparently—if such a word can
+be used of one who had no apparent lights or shadows about
+him—complimented by the question. “As a particularly Angular man, I do
+not fit smoothly into the social circle, and consequently I have no
+other engagement at Christmas-[[Time|time]] than to partake, on the
+twenty-fifth, of a boiled turkey and celery sauce with a—with a
+particularly Angular clerk I have the good fortune to possess, whose
+father, being a Norfolk farmer, sends him up (the turkey up), as a
+present to me, from the neighbourhood of Norwich. I should be quite
+proud of your wishing to see me, my dear. As a professional Receiver of
+rents, so very few people _do_ wish to see me, that the novelty would
+be bracing.”
+
+For his ready acquiescence, the grateful Rosa put her hands upon his
+shoulders, stood on tiptoe, and instantly kissed him.
+
+“Lord bless me!” cried Mr. Grewgious. “Thank you, my dear! The [[Honour|honour]]
+is almost equal to the pleasure. Miss Twinkleton, madam, I have had a
+most satisfactory conversation with my ward, and I will now release you
+from the incumbrance of my presence.”
 
 “Nay, sir,” rejoined Miss Twinkleton, rising with a gracious
 condescension: “say not incumbrance. Not so, by any means. I cannot

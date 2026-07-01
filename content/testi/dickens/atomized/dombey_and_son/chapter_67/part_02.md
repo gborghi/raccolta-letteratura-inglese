@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 11 (part 2)"
+title: "Dombey and Son — Chapter 39 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,119 +14,117 @@ tags:
 </nav>
 
 
-“But,” pursued Mr Dombey, stretching out his forefinger, “but possibly
-that he should now make a change, and lead a different kind of life
-here. In short, Mrs Pipchin, that is the object of my visit. My son is
-getting on, Mrs Pipchin. Really, he is getting on.”
+“Captain Gills,” blurted out Mr Toots, one day all at once, as his
+manner was, “do you think you could think favourably of that
+proposition of mine, and give me the pleasure of your acquaintance?”
 
-There was something [[Melancholy|melancholy]] in the triumphant air with which Mr
-Dombey said this. It showed how long Paul’s childish life had been to
-him, and how his hopes were set upon a later stage of his existence.
-Pity may appear a strange word to connect with anyone so haughty and so
-cold, and yet he seemed a worthy subject for it at that moment.
+“Why, I tell you what it is, my lad,” replied the Captain, who had at
+length concluded on a course of action; “I’ve been turning that there,
+over.”
 
-“Six years old!” said Mr Dombey, settling his neckcloth—perhaps to hide
-an irrepressible smile that rather seemed to strike upon the surface of
-his face and glance away, as finding no resting-place, than to play
-there for an instant. “Dear me, six will be changed to sixteen, before
-we have [[Time|time]] to look about us.”
+“Captain Gills, it’s very kind of you,” retorted Mr Toots. “I’m much
+obliged to you. Upon my word and [[Honour|honour]], Captain Gills, it would be a
+[[Charity|charity]] to give me the pleasure of your acquaintance. It really would.”
 
-“Ten years,” croaked the unsympathetic Pipchin, with a frosty
-glistening of her hard grey eye, and a dreary shaking of her bent head,
-“is a long [[Time|time]].”
+“You see, brother,” argued the Captain slowly, “I don’t know you.”
 
-“It depends on circumstances, returned Mr Dombey; “at all events, Mrs
-Pipchin, my son is six years old, and there is no [[Doubt|doubt]], I [[Fear|fear]], that
-in his studies he is behind many children of his age—or his youth,”
-said Mr Dombey, quickly answering what he mistrusted was a shrewd
-twinkle of the frosty eye, “his youth is a more appropriate expression.
-Now, Mrs Pipchin, instead of being behind his peers, my son ought to be
-before them; far before them. There is an eminence ready for him to
-mount upon. There is nothing of chance or [[Doubt|doubt]] in the course before my
-son. His way in life was clear and prepared, and marked out before he
-existed. The [[Education|education]] of such a young gentleman must not be delayed.
-It must not be left imperfect. It must be very steadily and seriously
-undertaken, Mrs Pipchin.”
+“But you never can know me, Captain Gills,” replied Mr Toots, steadfast
+to his point, “if you don’t give me the pleasure of your acquaintance.”
 
-“[[Well]], Sir,” said Mrs Pipchin, “I can say nothing to the contrary.”
+The Captain seemed struck by the originality and power of this remark,
+and looked at Mr Toots as if he thought there was a great deal more in
+him than he had expected.
 
-“I was quite sure, Mrs Pipchin,” returned Mr Dombey, approvingly, “that
-a person of your good sense could not, and would not.”
+“[[Well]] said, my lad,” observed the Captain, nodding his head
+thoughtfully; “and true. Now look’ee here: You’ve made some
+observations to me, which gives me to understand as you admire a
+certain sweet creetur. Hey?”
 
-“There is a great deal of nonsense—and worse—talked about young people
-not being pressed too hard at first, and being tempted on, and all the
-rest of it, Sir,” said Mrs Pipchin, impatiently rubbing her hooked
-nose. “It never was thought of in my [[Time|time]], and it has no business to be
-thought of now. My opinion is ‘keep ’em at it’.”
+“Captain Gills,” said Mr Toots, gesticulating violently with the hand
+in which he held his hat, “Admiration is not the word. Upon my [[Honour|honour]],
+you have no conception what my feelings are. If I could be dyed black,
+and made Miss Dombey’s slave, I should consider it a compliment. If, at
+the sacrifice of all my property, I could get transmigrated into Miss
+Dombey’s dog—I—I really think I should never leave off wagging my tail.
+I should be so perfectly happy, Captain Gills!”
 
-“My good madam,” returned Mr Dombey, “you have not acquired your
-reputation undeservedly; and I beg you to believe, Mrs Pipchin, that I
-am more than satisfied with your excellent system of management, and
-shall have the greatest pleasure in commending it whenever my poor
-commendation—” Mr Dombey’s loftiness when he affected to disparage his
-own importance, passed all bounds—“can be of any service. I have been
-thinking of Doctor Blimber’s, Mrs Pipchin.”
+Mr Toots said it with watery eyes, and pressed his hat against his
+bosom with deep emotion.
 
-“My neighbour, Sir?” said Mrs Pipchin. “I believe the Doctor’s is an
-excellent establishment. I’ve heard that it’s very strictly conducted,
-and there is nothing but learning going on from morning to [[Night|night]].”
+“My lad,” returned the Captain, moved to compassion, “if you’re in
+arnest—”
 
-“And it’s very expensive,” added Mr Dombey.
+“Captain Gills,” cried Mr Toots, “I’m in such a state of mind, and am
+so dreadfully in earnest, that if I could swear to it upon a hot piece
+of iron, or a live coal, or melted lead, or burning sealing-wax, Or
+anything of that sort, I should be glad to hurt myself, as a relief to
+my feelings.” And Mr Toots looked hurriedly about the room, as if for
+some sufficiently painful means of accomplishing his dread purpose.
 
-“And it’s very expensive, Sir,” returned Mrs Pipchin, catching at the
-fact, as if in omitting that, she had omitted one of its leading
-merits.
+The Captain pushed his glazed hat back upon his head, stroked his face
+down with his heavy hand—making his nose more mottled in the
+process—and planting himself before Mr Toots, and hooking him by the
+lapel of his coat, addressed him in these words, while Mr Toots looked
+up into his face, with much attention and some [[Wonder|wonder]].
 
-“I have had some communication with the Doctor, Mrs Pipchin,” said Mr
-Dombey, hitching his chair anxiously a little nearer to the [[Fire|fire]], “and
-he does not consider Paul at all too young for his purpose. He
-mentioned several instances of boys in Greek at about the same age. If
-I have any little uneasiness in my own mind, Mrs Pipchin, on the
-subject of this change, it is not on that head. My son not having known
-a mother has gradually concentrated much—too much—of his childish
-affection on his sister. Whether their separation—” Mr Dombey said no
-more, but sat silent.
+“If you’re in arnest, you see, my lad,” said the Captain, “you’re a
+object of clemency, and clemency is the brightest [[Jewel|jewel]] in the [[Crown|crown]] of
+a Briton’s head, for which you’ll overhaul the constitution as laid
+down in Rule Britannia, and, when found, that is the charter as them
+[[Garden|garden]] angels was a singing of, so many times over. Stand by! This here
+proposal o’ you’rn takes me a little aback. And why? Because I holds my
+own only, you understand, in these here waters, and haven’t got no
+consort, and may be don’t wish for none. Steady! You hailed me first,
+along of a certain young lady, as you was chartered by. Now if you and
+me is to keep one another’s company at all, that there young creetur’s
+name must never be named nor referred to. I don’t know what harm mayn’t
+have been done by naming of it too free, afore now, and thereby I
+brings up short. D’ye make me out pretty clear, brother?”
 
-“Hoity-toity!” exclaimed Mrs Pipchin, shaking out her black bombazeen
-skirts, and plucking up all the ogress within her. “If she don’t like
-it, Mr Dombey, she must be taught to lump it.” The good lady apologised
-immediately afterwards for using so common a figure of speech, but said
-(and truly) that that was the way she reasoned with ’em.
+“[[Well]], you’ll excuse me, Captain Gills,” replied Mr Toots, “if I don’t
+quite follow you sometimes. But upon my word I—it’s a hard thing,
+Captain Gills, not to be able to mention Miss Dombey. I really have got
+such a dreadful load here!”—Mr Toots pathetically touched his
+shirt-front with both hands—“that I feel [[Night|night]] and day, exactly as if
+somebody was sitting upon me.”
 
-Mr Dombey waited until Mrs Pipchin had done bridling and shaking her
-head, and frowning down a legion of Bitherstones and Pankeys; and then
-said quietly, but correctively, “He, my good madam, he.”
+“Them,” said the Captain, “is the terms I offer. If they’re hard upon
+you, brother, as mayhap they are, give ’em a wide berth, sheer off, and
+part company cheerily!”
 
-Mrs Pipchin’s system would have applied very much the same mode of cure
-to any uneasiness on the part of Paul, too; but as the hard grey eye
-was sharp enough to see that the recipe, however Mr Dombey might admit
-its efficacy in the case of the daughter, was not a sovereign remedy
-for the son, she argued the point; and contended that change, and new
-society, and the different form of life he would lead at Doctor
-Blimber’s, and the studies he would have to master, would very soon
-prove sufficient alienations. As this chimed in with Mr Dombey’s own
-[[Hope|hope]] and belief, it gave that gentleman a still higher opinion of Mrs
-Pipchin’s understanding; and as Mrs Pipchin, at the same [[Time|time]], bewailed
-the loss of her dear little friend (which was not an overwhelming shock
-to her, as she had long expected it, and had not looked, in the
-beginning, for his remaining with her longer than three months), he
-formed an equally good opinion of Mrs Pipchin’s disinterestedness. It
-was plain that he had given the subject anxious consideration, for he
-had formed a plan, which he announced to the ogress, of sending Paul to
-the Doctor’s as a weekly boarder for the first half year, during which
-[[Time|time]] Florence would remain at the [[Castle]], that she might receive her
-brother there, on Saturdays. This would wean him by degrees, Mr Dombey
-said; possibly with a recollection of his not having been weaned by
-degrees on a former occasion.
+“Captain Gills,” returned Mr Toots, “I hardly know how it is, but after
+what you told me when I came here, for the first [[Time|time]], I—I feel that
+I’d rather think about Miss Dombey in your society than talk about her
+in almost anybody else’s. Therefore, Captain Gills, if you’ll give me
+the pleasure of your acquaintance, I shall be very happy to accept it
+on your own conditions. I wish to be honourable, Captain Gills,” said
+Mr Toots, holding back his extended hand for a moment, “and therefore I
+am obliged to say that I can not help thinking about Miss Dombey. It’s
+impossible for me to make a promise not to think about her.”
 
-Mr Dombey finished the interview by expressing his [[Hope|hope]] that Mrs
-Pipchin would still remain in office as general superintendent and
-overseer of his son, pending his studies at Brighton; and having kissed
-Paul, and shaken hands with Florence, and beheld Master Bitherstone in
-his collar of state, and made Miss Pankey cry by patting her on the
-head (in which region she was uncommonly tender, on account of a habit
-Mrs Pipchin had of sounding it with her knuckles, like a cask), he
-withdrew to his hotel and dinner: resolved that Paul, now that he was
-getting so old and [[Well|well]], should begin a vigorous course of [[Education|education]]
-forthwith, to qualify him for the position in which he was to shine;
-and that Doctor Blimber should take him in hand immediately.
+“My lad,” said the Captain, whose opinion of Mr Toots was much improved
+by this candid avowal, “a man’s thoughts is like the winds, and nobody
+can’t answer for ’em for certain, any length of [[Time|time]] together. Is it a
+treaty as to words?”
+
+“As to words, Captain Gills,” returned Mr Toots, “I think I can bind
+myself.”
+
+Mr Toots gave [[Captain Cuttle]] his hand upon it, then and there; and the
+Captain with a pleasant and gracious show of condescension, bestowed
+his acquaintance upon him formally. Mr Toots seemed much relieved and
+gladdened by the acquisition, and chuckled rapturously during the
+remainder of his visit. The Captain, for his part, was not ill pleased
+to occupy that position of patronage, and was exceedingly [[Well|well]]
+satisfied by his own prudence and foresight.
+
+But rich as [[Captain Cuttle]] was in the latter quality, he received a
+surprise that same evening from a no less ingenuous and simple youth,
+than Rob the Grinder. That artless lad, drinking tea at the same table,
+and bending meekly over his cup and saucer, having taken sidelong
+observations of his master for some [[Time|time]], who was reading the newspaper
+with great difficulty, but much dignity, through his glasses, broke
+[[Silence|silence]] by saying—
+
+“Oh! I beg your pardon, Captain, but you mayn’t be in want of any
+pigeons, may you, Sir?”

@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 24 (part 4)"
+title: "Bleak House — Chapter 24 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -120,8 +120,3 @@ in the first chill of the late unexpected recognition when I saw,
 coming towards us, but not seeing us, no less a person than Mr.
 George. He made nothing of the people about him as he tramped on,
 staring over their heads into the [[Body|body]] of the [[Court|court]].
-
-“George!” said [[Richard]] as I called his attention to him.
-
-“You are [[Well|well]] met, sir,” he returned. “And you, miss. Could you point
-a person out for me, I want? I don’t understand these places.”

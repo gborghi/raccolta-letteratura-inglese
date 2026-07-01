@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 11 (part 4)"
+title: "Great Expectations — Chapter 11 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,25 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_11/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_11/part_05">part 05 ›</a></div>
 </nav>
 
+
+“Matthew will come and see me at last,” said [[Miss Havisham]], sternly,
+“when I am laid on that table. That will be his place,—there,” striking
+the table with her stick, “at my head! And yours will be there! And
+your husband’s there! And Sarah Pocket’s there! And Georgiana’s there!
+Now you all know where to take your stations when you come to feast
+upon me. And now go!”
+
+At the mention of each name, she had struck the table with her stick in
+a new place. She now said, “Walk me, walk me!” and we went on again.
+
+“I suppose there’s nothing to be done,” exclaimed Camilla, “but comply
+and depart. It’s something to have seen the object of one’s [[Love|love]] and
+duty for even so short a [[Time|time]]. I shall think of it with a [[Melancholy|melancholy]]
+satisfaction when I wake up in the [[Night|night]]. I wish Matthew could have
+that comfort, but he sets it at defiance. I am determined not to make a
+display of my feelings, but it’s very hard to be told one wants to
+feast on one’s relations,—as if one was a Giant,—and to be told to go.
+The bare idea!”
 
 Mr. Camilla interposing, as Mrs. Camilla laid her hand upon her heaving
 bosom, that lady assumed an unnatural fortitude of manner which I
@@ -119,36 +138,3 @@ What could I do but follow him? I have often asked myself the question
 since; but what else could I do? His manner was so final, and I was so
 astonished, that I followed where he led, as if I had been under a
 spell.
-
-“Stop a minute, though,” he said, wheeling round before we had gone
-many paces. “I ought to give you a reason for fighting, too. There it
-is!” In a most irritating manner he instantly slapped his hands against
-one another, daintily flung one of his legs up behind him, pulled my
-hair, slapped his hands again, dipped his head, and butted it into my
-stomach.
-
-The bull-like proceeding last mentioned, besides that it was
-unquestionably to be regarded in the light of a liberty, was
-particularly disagreeable just after bread and meat. I therefore hit
-out at him and was going to hit out again, when he said, “Aha! Would
-you?” and began dancing backwards and forwards in a manner quite
-unparalleled within my limited experience.
-
-“Laws of the game!” said he. Here, he skipped from his left leg on to
-his right. “Regular rules!” Here, he skipped from his right leg on to
-his left. “Come to the ground, and go through the preliminaries!” Here,
-he dodged backwards and forwards, and did all sorts of things while I
-looked helplessly at him.
-
-I was secretly afraid of him when I saw him so dexterous; but I felt
-morally and physically convinced that his light head of hair could have
-had no business in the pit of my stomach, and that I had a right to
-consider it irrelevant when so obtruded on my attention. Therefore, I
-followed him without a word, to a retired nook of the [[Garden|garden]], formed by
-the junction of two walls and screened by some rubbish. On his asking
-me if I was satisfied with the ground, and on my replying Yes, he
-begged my leave to absent himself for a moment, and quickly returned
-with a bottle of [[Water|water]] and a sponge dipped in vinegar. “Available for
-both,” he said, placing these against the wall. And then fell to
-pulling off, not only his jacket and waistcoat, but his shirt too, in a
-manner at once light-hearted, business-like, and bloodthirsty.

@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE (part 5)"
+title: "David Copperfield — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,23 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_22_some_old_scenes_and_some_new_p/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_22_some_old_scenes_and_some_new_p/part_06">part 06 ›</a></div>
 </nav>
 
+
+‘Who’s your friend?’
+
+‘Mr. Copperfield,’ said Steerforth; ‘he wants to know you.’
+
+‘[[Well]], then, he shall! I thought he looked as if he did!’ returned Miss
+Mowcher, waddling up to me, bag in hand, and laughing on me as she came.
+‘Face like a peach!’ standing on tiptoe to pinch my cheek as I
+sat. ‘Quite tempting! I’m very fond of peaches. Happy to make your
+acquaintance, Mr. Copperfield, I’m sure.’
+
+I said that I congratulated myself on having the [[Honour|honour]] to make hers,
+and that the happiness was mutual.
+
+‘Oh, my goodness, how polite we are!’ exclaimed Miss Mowcher, making a
+preposterous attempt to cover her large face with her morsel of a hand.
+‘What a world of gammon and spinnage it is, though, ain’t it!’
 
 This was addressed confidentially to both of us, as the morsel of a
 hand came away from the face, and buried itself, arm and all, in the bag
@@ -134,18 +151,3 @@ rubbing all the [[Time|time]] as busily as ever, ‘is another instance of
 the refreshing humbug I was speaking of. I do something in that way
 myself--perhaps a good deal--perhaps a little--sharp’s the word, my dear
 boy--never mind!’
-
-‘In what way do you mean? In the rouge way?’ said Steerforth.
-
-‘Put this and that together, my tender pupil,’ returned the wary
-Mowcher, touching her nose, ‘work it by the rule of [[Secrets]] in all
-trades, and the product will give you the desired result. I say I do a
-little in that way myself. One Dowager, SHE calls it lip-salve. Another,
-SHE calls it gloves. Another, SHE calls it tucker-edging. Another, SHE
-calls it a fan. I call it whatever THEY call it. I supply it for ‘em,
-but we keep up the trick so, to one another, and make believe with
-such a face, that they’d as soon think of laying it on, before a whole
-drawing-room, as before me. And when I wait upon ‘em, they’ll say to
-me sometimes--WITH IT ON--thick, and no mistake--“How am I looking,
-Mowcher? Am I pale?” Ha! ha! ha! ha! Isn’t THAT refreshing, my young
-friend!’

@@ -10,9 +10,32 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/fancies-versis-fads-(chesterton)">Fancies Versis Fads</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_52">‹ part 52</a><span></span></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_52">‹ part 52</a><a class="ex-next" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_54">part 54 ›</a></div>
 </nav>
 
+
+I will take only one example of what I mean by this purely
+literary misunderstanding:  an example from "Gulliver's Travels" itself.
+The case of the under-valuation of Swift is a particularly subtle one,
+for Swift was really unbalanced as an individual, which has made
+it much easier for critics not to keep the rather delicate balance
+of justice about him.  There is a superficial case for saying
+he was mad, apart from the physical accident of his [[Madness|madness]];
+but the point is that even those who have realized that he was
+sometimes mad with rage have not realized what he was in a rage with.
+And there is a curious illustration of this in the conclusion of the story
+of Gulliver.  Everyone remembers the ugly business about the Yahoos,
+and the still uglier business about the real human beings who reminded
+the returned traveller of Yahoos; how Gulliver shrank at first from
+his friends, and would only gradually consent to sit near his wife.
+And everybody remembers the picturesque but hostile [[Sketch|sketch]] which
+Thackeray gives of the [[Satire|satire]] and the satirist; of Swift as the black
+and evil blasphemer sitting down to write his terrible [[Allegory|allegory]],
+of which the only moral is that all things are, and always must be,
+valueless and vile.  I say that everybody remembers both
+these literary passages; but, indeed, I [[Fear|fear]] that many remember
+the critical who do not really remember the creative passage,
+and that many have read Thackeray who have not read Swift.
 
 Now it is here that purely [[Literary Criticism|literary criticism]] has a word to say.
 A man of letters may be mad or sane in his cerebral constitution;
@@ -35,7 +58,7 @@ of the finger of [[Fear|fear]].  But this justice which is done to the Puritan
 masters of [[Imagination|imagination]] has hardly been done to the great Tory
 masters of irony.  No critic I have read has noticed the real point
 and climax of that passage about the Yahoos.  Swift leads up to it
-ruthlessly enough, for an [[artist]] of that sort is often ruthless;
+ruthlessly enough, for an [[Artist|artist]] of that sort is often ruthless;
 and it is increased by his natural talent for a sort of mad reality
 of detail, as in his description of the slowly diminished distance
 between himself and his wife at the dinner-table. But he was working
@@ -93,55 +116,3 @@ they were [[Well|well]] aware of his activities as an oppressor of those below.
 This aspect, as has already been noted, was best described by a
 friend of Johnson, for whom Johnson had a very noble and rather
 unique appreciation--[[Oliver]] Goldsmith.
-
-I [[Hope|hope]] that the author of an admirable study of Mr. Belloc
-in this magazine will not think that I am merely traversing
-one of his criticisms if I venture to add something to it.
-He used the phrase that Mr. Belloc had been anticipated by Disraeli
-in his view of England as having evolved into a Venetian oligarchy.
-The [[Truth|truth]] is that Disraeli was anticipated by Bolingbroke and the many
-highly intelligent men who agreed with him; and not least by Goldsmith.
-The whole view, including the very parallel with [[Venice]], can be found
-stated with luminous [[logic]] and cogency in the "Vicar of Wakefield."
-And Goldsmith attacked the problem entirely from the popular side.
-Nobody can mistake his Toryism for a snobbish submission to a
-privilege or title:
-
-   Princes and lords, the [[Shadow|shadow]] of a shade,
-   A breath can make them, as a breath has made:
-   But a bold peasantry, a nation's [[Pride|pride]],
-   When once destroyed can never be supplied.
-
-I [[Hope|hope]] he was wrong; but I sometimes have a horrible feeling
-that he may have been right.
-
-But I have here, thank God, no cause for touching upon modern politics.
-I was educated, as much as my critic, in the belief that Whiggism
-was a pure deliverance; and I [[Hope|hope]] I am still as willing as he to
-respect Puritans for their individual virtue as [[Well|well]] as for their
-individual genius.  But it moves all my memories of the unmorality
-of the 'nineties to be charged with indifference to the importance
-of being earnest.  And it is for the sake of English literature
-that I protest against the suggestion that we had no purity
-except [[Puritanism]], or that only a man like the author of "[[Paradise Lost]]"
-could manage to be on the side of the angels.
-
-On Peace Day I set up outside my [[house]] two torches, and twined
-them with laurel; because I thought at least there was nothing
-pacifist about laurel.  But that [[Night|night]], after the bonfire and the
-fireworks had faded, a [[Wind|wind]] grew and blew with gathering violence,
-blowing away the rain.  And in the morning I found one of the
-laurelled posts torn off and lying at random on the rainy ground;
-while the other still stood erect, green and glittering in the sun.
-I thought that the pagans would certainly have called it an omen;
-and it was one that strangely fitted my own sense of some great work
-half fulfilled and half frustrated.  And I thought vaguely of that
-man in Virgil, who prayed that he might slay his foe and return
-to his country; and the gods heard half the [[prayer]], and the other half
-was scattered to the winds.  For I knew we were right to rejoice;
-since the [[Tyrant|tyrant]] was indeed slain and his tyranny fallen for ever;
-but I know not when we shall find our way back to our own land.
-
---
-
-THE END

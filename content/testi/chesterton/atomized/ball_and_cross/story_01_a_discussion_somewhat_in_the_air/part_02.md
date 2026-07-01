@@ -1,5 +1,5 @@
 ---
-title: "ball and [[Cross|cross]] — A Discussion Somewhat in the Air (part 2)"
+title: "ball and cross — A Discussion Somewhat in the Air (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/ball-and-cross-(chesterton)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ball_and_cross/story_01_a_discussion_somewhat_in_the_air/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/ball_and_cross/story_01_a_discussion_somewhat_in_the_air/part_03">part 03 ›</a></div>
 </nav>
 
+
+"Come, come," said [[The Professor|the Professor]], encouragingly, "I'll help you out.
+How did my view strike you?"
+
+"[[Well]], the [[Truth|truth]] is, I know I don't express it properly, but somehow
+it seemed to me that you always convey ideas of that kind with
+most eloquence, when--er--when-- --"
 
 "Oh! get on," cried [[Lucifer]], boisterously.
 
@@ -111,21 +118,3 @@ given its name to a description of desperation and muddle.
 When we speak of men at once ignorant of each other and frustrated
 by each other, we say they are at [[Cross|cross]]-purposes. Away with the thing!
 The very shape of it is a contradiction in terms."
-
-"What you say is perfectly true," said [[Michael]], with serenity.
-"But we like contradictions in terms.  Man is a contradiction
-in terms; he is a beast whose superiority to other beasts
-consists in having fallen.  That [[Cross|cross]] is, as you say,
-an eternal collision; so am I. That is a struggle in stone.
-Every form of life is a struggle in flesh.  The shape of the [[Cross|cross]]
-is irrational, just as the shape of the human animal is irrational.
-You say the [[Cross|cross]] is a quadruped with one limb longer than the rest.
-I say man is a quadruped who only uses two of his legs."
-
-[[The Professor]] frowned thoughtfully for an instant, and said:
-"Of course everything is relative, and I would not deny that
-the element of struggle and [[Self|self]]-contradiction, represented by
-that [[Cross|cross]], has a necessary place at a certain evolutionary stage.
-But surely the [[Cross|cross]] is the lower development and the sphere the higher.
-After all it is easy enough to see what is really wrong with
-Wren's architectural arrangement."

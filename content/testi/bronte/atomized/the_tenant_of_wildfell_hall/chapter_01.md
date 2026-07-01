@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 1"
+title: "The Tenant of Wildfell Hall — Chapter 1"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -516,7 +516,7 @@ ringlets, a style of coiffure rather unusual in those days, but always
 
 graceful and becoming; her complexion was clear and pale; her eyes I
 
-could not see, for, being bent upon her [[Prayer|prayer]]-book, they were
+could not see, for, being bent upon her [[prayer]]-book, they were
 
 concealed by their drooping lids and long black lashes, but the brows
 
@@ -564,7 +564,7 @@ mind to the service, I glanced round the church to see if any one had
 
 been observing me;—but no,—all, who were not attending to their
 
-[[Prayer|prayer]]-books, were attending to the strange lady,—my good mother and
+[[prayer]]-books, were attending to the strange lady,—my good mother and
 
 sister among the rest, and Mrs. Wilson and her daughter; and even Eliza
 
@@ -572,7 +572,7 @@ Millward was slily glancing from the corners of her eyes towards the
 
 object of general attraction. Then she glanced at me, simpered a
 
-little, and blushed, modestly looked at her [[Prayer|prayer]]-book, and
+little, and blushed, modestly looked at her [[prayer]]-book, and
 
 endeavoured to compose her features.
 

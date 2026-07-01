@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_01_poverty">‹ Chapter 01 POVERTY</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_03_poverty">Chapter 03 POVERTY ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_01_poverty_poverty">‹ Chapter 01 Poverty POVERTY</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_03_sun_and_shadow">Chapter 03 Sun and Shadow ›</a></div>
 </nav>
 
 

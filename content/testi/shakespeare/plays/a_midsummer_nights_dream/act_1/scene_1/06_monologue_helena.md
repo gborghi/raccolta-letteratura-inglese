@@ -1,5 +1,5 @@
 ---
-title: "A Midsummer Nights Dream — Act I, Scene 1 — monologue ([[Helena|HELENA]]) [6]"
+title: "A Midsummer Nights Dream — Act I, Scene 1 — monologue (HELENA) [6]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/a-midsummer-night’s-dream-(shakespeare)"

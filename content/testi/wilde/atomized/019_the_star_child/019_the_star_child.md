@@ -1,5 +1,5 @@
 ---
-title: "The [[Star-Child]]"
+title: "The Star-Child"
 author: "Wilde"
 unitType: work
 parentWork: "works/the-star-child-(wilde)"

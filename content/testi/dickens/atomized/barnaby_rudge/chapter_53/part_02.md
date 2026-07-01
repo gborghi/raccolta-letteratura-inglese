@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 53 (part 2)"
+title: "Barnaby Rudge — Chapter 53 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -144,9 +144,3 @@ planned, it must have been carried out. And now you are going, eh?’
 ‘Oh dear, no,’ said Gashford sweetly. ‘None!’
 
 ‘You’re sure?’ cried Hugh, nudging the grinning Dennis.
-
-‘Quite sure, eh, Muster Gashford?’ chuckled the hangman.
-
-Gashford paused a moment, struggling with his caution and his malice;
-then putting himself between the two men, and laying a hand upon the arm
-of each, said, in a cramped whisper:

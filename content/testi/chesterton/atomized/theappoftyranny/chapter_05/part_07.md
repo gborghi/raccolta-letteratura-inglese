@@ -1,5 +1,5 @@
 ---
-title: "[[TheAppOfTyranny]] — Chapter 4 (part 7)"
+title: "TheAppOfTyranny — Chapter 4 (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/theappoftyranny-(chesterton)"
@@ -13,6 +13,32 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/theappoftyranny/chapter_05/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/theappoftyranny/chapter_05/part_08">part 08 ›</a></div>
 </nav>
 
+
+then takes refuge in beating little boys for saying their prayers in their
+
+native tongue. All who remember anything of dignity, of irony, in short of
+
+Rome and reason, can see why an officer need not, should not, had better
+
+not, and generally does not, beat little boys. But an officer _can_ beat
+
+little boys: and a Prussian officer will go on doing it until you take away
+
+the stick. Nothing could be more comic, if that is all, than the position
+
+of Prussians in Alsace: which they declare to be purely German and admit to
+
+be furiously French; so that they have to terrorise it by sabring anybody,
+
+including cripples. Again, any of us can see why an officer need not,
+
+should not, had better not, and generally does not, sabre a cripple. But an
+
+officer _can_ sabre a cripple; and a Prussian officer will go on doing it
+
+until you take away the sabre. It is this insane and rigid realism that
+
+makes their case peculiar: like that of a Chinaman copying something, or a
 
 half-witted servant taking a message. If they had the power to put black
 
@@ -60,8 +86,6 @@ cannot go the whole length of those severe critics who say that a Prussian
 
 will never keep his promise.
 
-
-
 Unfortunately, it is precisely this sort of actuality and fulfilment that
 
 makes it urgent that Europe should put forth her whole energy to drag down
@@ -82,15 +106,9 @@ from us, my friend. There is only one thing of which the Prussian would be
 
 ashamed; and of that, we have sworn to God, he shall taste before the end.
 
-
-
        *       *       *       *       *
 
-
-
 My Dear ------
-
-
 
 The Prussianised German, of whatever blend of races he may be, has one
 
@@ -157,33 +175,3 @@ for all the wrong reasons. The Prussian will allow you to praise him for
 any reasons, for any length of [[Time|time]], for any [[Eternity|eternity]] of folly; he is there
 
 to be praised. Probably he is proud of this; probably he thinks he has a
-
-good digestion, because the [[Poison|poison]] of praise does not make him sick. He
-
-thinks the absence of such [[Doubt|doubt]], or [[Self-Knowledge|self-knowledge]], makes for composure,
-
-grandeur, a colossal calm, a superior race--in short, the whole claim of
-
-the Teutons to be the highest spiritual product of [[Nature]] and Evolution.
-
-But as I have noticed a calm [[unity]] even more complete, not only in [[dogs]] and
-
-negroes, but in slugs, slow-worms, mangoldwurzels, moss, mud and bits of
-
-stone, I am a sceptic about this test for the marshalling in rank of all
-
-the children of God. Now I point this out to you here for a very practical
-
-reason. The Prussian will never understand revolutions--which are
-
-generally reactions. He regards them, not only with dislike, but with a
-
-mysterious kind of pity. Throughout his confused popular histories, there
-
-runs a strange suggestion that civic populations have failed hitherto, and
-
-failed because they were always fighting. The population of Berlin does not
-
-fight, or can't; and therefore Berlin will succeed where Greece and Rome
-
-have failed. Hitherto it is plain enough that Berlin has succeeded in

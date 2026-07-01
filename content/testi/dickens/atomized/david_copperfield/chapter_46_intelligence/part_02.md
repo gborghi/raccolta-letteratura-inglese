@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 46: INTELLIGENCE (part 2)"
+title: "David Copperfield — Chapter 46: INTELLIGENCE (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_46_intelligence/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_46_intelligence/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘Mr. James and myself, ma’am--’
+
+‘Don’t address yourself to me!’ she interrupted with a frown.
 
 ‘Mr. James and myself, sir--’
 
@@ -127,9 +131,3 @@ boats. I have known her do it, when Mr. James has been away, whole days.
 Mr. James was far from pleased to find out, once, that she had told the
 children she was a boatman’s daughter, and that in her own country, long
 ago, she had roamed about the beach, like them.’
-
-Oh, Emily! Unhappy [[Beauty|beauty]]! What a picture [[Rose|rose]] before me of her sitting
-on the far-off shore, among the children like herself when she was
-[[Innocent|innocent]], listening to little voices such as might have called her
-Mother had she been a poor man’s wife; and to the great voice of the
-sea, with its eternal ‘Never more!’

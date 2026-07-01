@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 46 (part 1)"
+title: "Oliver Twist — Chapter 46 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -118,7 +118,3 @@ breathing, listened attentively.
 gentleman. “I will not suffer the young lady to go any farther. Many
 people would have distrusted you too much to have come even so far, but
 you see I am willing to [[Humour|humour]] you.”
-
-“To [[Humour|humour]] me!” cried the voice of the girl whom he had followed.
-“You’re considerate, indeed, sir. To [[Humour|humour]] me! [[Well]], [[Well|well]], it’s no
-matter.”

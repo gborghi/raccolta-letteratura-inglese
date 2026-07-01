@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 3"
+title: "Villette — Chapter 3"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/villette-(bronte)"
@@ -318,9 +318,9 @@ up my books.”
 “Not at all, Polly—it is positive fact. I’m as weak as a rush. Come
 down.”
 
-“Your eyes are quiet like the cat’s, but you’ll [[spring]].”
+“Your eyes are quiet like the cat’s, but you’ll [[Spring|spring]].”
 
-“[[spring|Spring]]? Nothing of the kind: it isn’t in me. Come down.”
+“[[Spring]]? Nothing of the kind: it isn’t in me. Come down.”
 
 “Perhaps I may—if you’ll promise not to touch—not to snatch me up, and
 not to whirl me round.”
@@ -563,7 +563,7 @@ seated, like a little Odalisque, on a couch, half shaded by the
 drooping draperies of the [[Window|window]] near. She seemed happy; all her
 appliances for occupation were about her; the white wood workbox, a
 shred or two of muslin, an end or two of ribbon collected for
-[[conversion]] into doll-millinery. The doll, duly [[Night|night]]-capped and
+[[Conversion|conversion]] into doll-millinery. The doll, duly [[Night|night]]-capped and
 [[Night|night]]-gowned, lay in its cradle; she was rocking it to [[Sleep|sleep]], with an
 air of the most perfect [[Faith|faith]] in its possession of sentient and
 somnolent faculties; her eyes, at the same [[Time|time]], being engaged with a

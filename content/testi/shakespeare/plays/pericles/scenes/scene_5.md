@@ -1,5 +1,5 @@
 ---
-title: "[[Pericles]] — Scene 5"
+title: "Pericles — Scene 5"
 author: "Shakespeare"
 unitType: scene
 parentWork: "works/pericles-(shakespeare)"

@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 35 (part 2)"
+title: "Jane Eyre — Chapter 35 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_35/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_35/part_03">part 03 ›</a></div>
 </nav>
 
+
+A fresh wrong did these words inflict: the worse, because they touched
+on the [[Truth|truth]]. That bloodless lip quivered to a temporary spasm. I knew
+the steely ire I had whetted. I was heart-wrung.
+
+“You utterly misinterpret my words,” I said, at once seizing his hand:
+“I have no intention to grieve or [[Pain|pain]] you—indeed, I have not.”
 
 Most bitterly he smiled—most decidedly he withdrew his hand from mine.
 “And now you recall your promise, and will not go to India at all, I
@@ -143,19 +150,3 @@ impossibilities: with him there would be no permission to rest during
 the hot hours; and unfortunately, I have noticed, whatever he exacts,
 you force yourself to perform. I am astonished you found [[Courage|courage]] to
 refuse his hand. You do not [[Love|love]] him then, Jane?”
-
-“Not as a husband.”
-
-“Yet he is a handsome fellow.”
-
-“And I am so plain, you see, Die. We should never suit.”
-
-“Plain! You? Not at all. You are much too pretty, as [[Well|well]] as too good,
-to be grilled alive in Calcutta.” And again she earnestly conjured me
-to give up all thoughts of going out with her brother.
-
-“I must indeed,” I said; “for when just now I repeated the offer of
-serving him for a deacon, he expressed himself shocked at my want of
-decency. He seemed to think I had committed an impropriety in proposing
-to accompany him unmarried: as if I had not from the first hoped to
-find in him a brother, and habitually regarded him as such.”

@@ -46,10 +46,10 @@ In other words, it is explaining painting by saying that it arose
 out of the work of painters; or accounting for art by saying that it
 arose out of art.  It is even more like saying that the thing we
 call poetry arose as the result of certain customs; such as that of
-an ode being officially composed to celebrate the advent of [[Spring|spring]];
+an ode being officially composed to celebrate the advent of [[spring]];
 or that of a young man rising at a regular hour to listen
 to the skylark and then writing his report on a piece of paper.
-It is quite true that young men often become poets in the [[Spring|spring]];
+It is quite true that young men often become poets in the [[spring]];
 and it is quite true that when once there are poets, no mortal
 power can restrain them from writing about the skylark.
 But the [[Poems|poems]] did not exist before the poets.  The poetry did
@@ -61,16 +61,16 @@ way of saying that it only arose when it existed already.
 It needed a certain sort of mind to see that there was anything
 mystical about the [[Dreams|dreams]] or the dead, as it needed a particular sort
 of mind to see that there was any thing poetical about the skylark
-or the [[Spring|spring]].  That mind was presumably what we call the human mind,
+or the [[spring]].  That mind was presumably what we call the human mind,
 very much as it exists to this day; for mystics still meditate upon
-[[Death|death]] and [[Dreams|dreams]] as poets still write about [[Spring|spring]] and skylarks.
+[[Death|death]] and [[Dreams|dreams]] as poets still write about [[spring]] and skylarks.
 But there is not the faintest hint to suggest that anything short of
 the human mind we know feels any of these mystical associations at all.
 A cow in a field seems to derive no lyrical impulse or instruction
 from her unrivalled opportunities for listening to the skylark.
 And similarly there is no reason to suppose that live sheep will
 ever begin to use dead sheep as the basis of a system of elaborate
-ancestor-worship. It is true that in the [[Spring|spring]] a young quadruped's
+ancestor-worship. It is true that in the [[spring]] a young quadruped's
 fancy may lightly turn to thoughts of [[Love|love]], but no succession of springs
 has ever led it to turn however lightly to thoughts of literature.
 And in the same way, while it is true that a dog has [[Dreams|dreams]],
@@ -105,7 +105,7 @@ must long ago have told us that the [[Animals|animals]] are not to all
 appearance evolving in that sense; and that, to say the least,
 we are not likely to have any personal evidence of their
 passing from the animal experience to the human experiments.
-But [[Spring|spring]] and [[Death|death]] and even [[Dreams|dreams]], considered merely as experiences,
+But [[spring]] and [[Death|death]] and even [[Dreams|dreams]], considered merely as experiences,
 are their experiences as much as ours.  The only possible conclusion
 is that these experiences, considered as experiences, do not generate
 anything like a religious sense in any mind except a mind like ours.

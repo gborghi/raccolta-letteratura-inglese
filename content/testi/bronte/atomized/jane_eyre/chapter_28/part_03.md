@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 28 (part 3)"
+title: "Jane Eyre — Chapter 28 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_28/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_28/part_04">part 04 ›</a></div>
 </nav>
 
+
+“No,” said she; “we do not keep a servant.”
+
+“Can you tell me where I could get employment of any kind?” I
+continued. “I am a stranger, without acquaintance in this place. I want
+some work: no matter what.”
+
+But it was not her business to think for me, or to seek a place for me:
+besides, in her eyes, how doubtful must have appeared my character,
+position, tale. She shook her head, she “was sorry she could give me no
+information,” and the white door closed, quite gently and civilly: but
+it shut me out. If she had held it open a little longer, I believe I
+should have begged a piece of bread; for I was now brought low.
 
 I could not bear to return to the sordid village, where, besides, no
 prospect of aid was visible. I should have longed rather to deviate to
@@ -129,15 +142,3 @@ ravenously.
 
 As the wet twilight deepened, I stopped in a solitary bridle-path,
 which I had been pursuing an hour or more.
-
-“My strength is quite failing me,” I said in a soliloquy. “I feel I
-cannot go much farther. Shall I be an outcast again this [[Night|night]]? While
-the rain descends so, must I lay my head on the cold, drenched ground?
-I [[Fear|fear]] I cannot do otherwise: for who will receive me? But it will be
-very dreadful, with this feeling of hunger, faintness, chill, and this
-sense of desolation—this total prostration of [[Hope|hope]]. In all likelihood,
-though, I should die before morning. And why cannot I reconcile myself
-to the prospect of [[Death|death]]? Why do I struggle to retain a valueless life?
-Because I know, or believe, Mr. Rochester is living: and then, to die
-of want and cold is a fate to which [[Nature|nature]] cannot submit passively. Oh,
-[[Providence]]! sustain me a little longer! Aid!—direct me!”

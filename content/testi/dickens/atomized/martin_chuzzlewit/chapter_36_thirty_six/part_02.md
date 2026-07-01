@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 36: THIRTY SIX (part 2)"
+title: "Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -128,11 +128,3 @@ woman for her [[Time|time]] of life,’ said the coachman.
 
 ‘I don’t care for ‘em myself when they’re too young,’ remarked the
 coachman.
-
-This was a matter of taste, which Tom did not feel himself called upon
-to discuss.
-
-‘You’ll seldom find ‘em possessing correct opinions about refreshment,
-for instance, when they’re too young, you know,’ said the coachman; ‘a
-woman must have arrived at maturity, before her mind’s equal to coming
-provided with a basket like that.’

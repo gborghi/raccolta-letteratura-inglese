@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 21: LITTLE EM’LY (part 5)"
+title: "David Copperfield — Chapter 21: LITTLE EM’LY (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_21_little_emly/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_21_little_emly/part_06">part 06 ›</a></div>
 </nav>
 
+
+I prepared Peggotty for Steerforth’s arrival and it was not long before
+he came. I am persuaded she knew no difference between his having been a
+personal benefactor of hers, and a kind friend to me, and that she would
+have received him with the utmost gratitude and devotion in any case.
+But his easy, spirited good [[Humour|humour]]; his genial manner, his handsome
+looks, his natural gift of adapting himself to whomsoever he pleased,
+and making direct, when he cared to do it, to the main point of interest
+in anybody’s heart; bound her to him wholly in five minutes. His
+manner to me, [[Alone|alone]], would have won her. But, through all these causes
+combined, I sincerely believe she had a kind of adoration for him before
+he left the [[house]] that [[Night|night]].
 
 He stayed there with me to dinner--if I were to say willingly, I should
 not half express how readily and gaily. He went into Mr. Barkis’s room
@@ -111,17 +123,3 @@ come here! Come here, my little [[Witch|witch]]! There’s Mas’r Davy’s frie
 dear! There’s the gent’lman as you’ve heerd on, Em’ly. He comes to see
 you, along with Mas’r Davy, on the brightest [[Night|night]] of your uncle’s life
 as ever was or will be, Gorm the t’other one, and horroar for it!’
-
-After delivering this speech all in a breath, and with extraordinary
-animation and pleasure, Mr. Peggotty put one of his large hands
-rapturously on each side of his niece’s face, and kissing it a dozen
-times, laid it with a gentle [[Pride|pride]] and [[Love|love]] upon his broad chest, and
-patted it as if his hand had been a lady’s. Then he let her go; and as
-she ran into the little chamber where I used to [[Sleep|sleep]], looked round upon
-us, quite hot and out of breath with his uncommon satisfaction.
-
-‘If you two gent’lmen--gent’lmen growed now, and such gent’lmen--’ said
-Mr. Peggotty.
-
-‘So th’ are, so th’ are!’ cried Ham. ‘[[Well]] said! So th’ are. Mas’r Davy
-bor’--gent’lmen growed--so th’ are!’

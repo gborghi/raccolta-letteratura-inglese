@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 33"
+title: "The Tenant of Wildfell Hall — Chapter 33"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -28,7 +28,7 @@ know I was near, for I happened to be standing behind the curtain in
 
 the bow of the [[Window|window]], watching the [[Moon|moon]] rising over the clump of tall
 
-dark elm-trees below the lawn, and wondering why [[arthur|Arthur]] was so
+dark elm-trees below the lawn, and wondering why [[Arthur]] was so
 
 sentimental as to stand without, leaning against the outer pillar of
 
@@ -76,7 +76,7 @@ with their false, fair faces and their deceitful tongues.”
 
 At this juncture I issued from my retreat, and smiling on Mr. Grimsby
 
-as I passed, left the room and went out in search of [[arthur|Arthur]]. Having
+as I passed, left the room and went out in search of [[Arthur]]. Having
 
 seen him bend his course towards the shrubbery, I followed him thither,
 
@@ -110,7 +110,7 @@ affection is genuine: he is not sick of me yet.
 
 
 
-“I startled you, [[arthur|Arthur]],” said I, laughing in my glee. “How nervous you
+“I startled you, [[Arthur]],” said I, laughing in my glee. “How nervous you
 
 are!”
 
@@ -128,7 +128,7 @@ of cold!”
 
 “I won’t, till I’ve told you what I came for. They are blaming you,
 
-[[arthur|Arthur]], for your temperance and sobriety, and I’m come to thank you for
+[[Arthur]], for your temperance and sobriety, and I’m come to thank you for
 
 it. They say it is all ‘these cursed women,’ and that we are the bane
 
@@ -164,7 +164,7 @@ away, do!”
 
 
 
-“Do you see my [[Death|death]] among those trees, [[arthur|Arthur]]?” said I, for he was
+“Do you see my [[Death|death]] among those trees, [[Arthur]]?” said I, for he was
 
 gazing intently at the shrubs, as if he saw it coming, and I was
 
@@ -210,7 +210,7 @@ vanished for the [[Time|time]]; and he astonished us all, not only by his
 
 general cheerfulness and animation, but by the positive flashes of true
 
-force and brilliance he emitted from [[Time|time]] to [[Time|time]]. [[arthur|Arthur]] did not talk
+force and brilliance he emitted from [[Time|time]] to [[Time|time]]. [[Arthur]] did not talk
 
 much, but he laughed, and listened to the rest, and was in perfect
 
@@ -308,7 +308,7 @@ month; or perhaps from something that had passed between their master
 
 and her during her former visit. At dinner I narrowly observed both her
 
-and [[arthur|Arthur]], and saw nothing extraordinary in the conduct of either,
+and [[Arthur]], and saw nothing extraordinary in the conduct of either,
 
 nothing calculated to excite suspicion, except in distrustful minds,
 
@@ -756,7 +756,7 @@ through the scant foliage above. It seemed all dim and quivering now to
 
 my darkened sight. My burning, bursting heart strove to pour forth its
 
-agony to God, but could not frame its anguish into [[Prayer|prayer]]; until a gust
+agony to God, but could not frame its anguish into [[prayer]]; until a gust
 
 of [[Wind|wind]] swept over me, which, while it scattered the dead [[Leaves|leaves]], like
 
@@ -824,7 +824,7 @@ different was this from the evening of yesterday! _That_, it seems, was
 
 the last expiring flash of my life’s happiness. Poor, blinded [[Fool|fool]] that
 
-I was to be so happy! I could now see the reason of [[arthur|Arthur]]’s strange
+I was to be so happy! I could now see the reason of [[Arthur]]’s strange
 
 reception of me in the shrubbery; the burst of kindness was for his
 
@@ -862,7 +862,7 @@ upon myself; let me bear it [[Alone|alone]].
 
 As the usual hour of retirement approached I dried my eyes, and tried
 
-to clear my voice and calm my mind. I must see [[arthur|Arthur]] to-[[Night|night]], and
+to clear my voice and calm my mind. I must see [[Arthur]] to-[[Night|night]], and
 
 speak to him; but I would do it calmly: there should be no
 

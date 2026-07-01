@@ -1,5 +1,5 @@
 ---
-title: "[[Henry V]] — Act III, Scene 3 — monologue ([[King|KING]] HARRY) [3]"
+title: "Henry V — Act III, Scene 3 — monologue (KING HARRY) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/henry-v-(shakespeare)"

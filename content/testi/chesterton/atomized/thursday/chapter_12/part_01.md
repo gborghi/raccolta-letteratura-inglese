@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 12 (part 1)"
+title: "thursday — Chapter 12 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -17,7 +17,6 @@ tags:
                          CHAPTER XII
 
                     THE EARTH IN ANARCHY
-
 
 URGING the horses to a gallop, without respect to the rather rugged
 descent of the [[Road|road]], the horsemen soon regained their advantage over
@@ -138,10 +137,3 @@ They looked down the steep streets, and seemed to see a slight
 mist coming up from the sea.
 
 "It is now or never," said Dr. Bull.  "I hear horses."
-
-"No," corrected [[The Professor|the Professor]], "a [[Horse|horse]]."
-
-And as they listened, it was evident that the noise, rapidly coming
-nearer on the rattling stones, was not the noise of the whole
-cavalcade but that of the one horseman, who had left it far behind--
-the insane Secretary.

@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 18 (part 1)"
+title: "Wuthering Heights — Chapter 18 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -121,26 +121,3 @@ to run up and down amusing her, I hit on a method by which she might
 entertain herself. I used to send her on her travels round the
 grounds—now on foot, and now on a pony; indulging her with a patient
 audience of all her real and imaginary adventures when she returned.
-
-The [[Summer|summer]] shone in full prime; and she took such a taste for this
-solitary rambling that she often contrived to remain out from breakfast
-till tea; and then the evenings were spent in recounting her fanciful
-tales. I did not [[Fear|fear]] her breaking bounds; because the gates were
-generally locked, and I thought she would scarcely venture forth [[Alone|alone]],
-if they had stood wide open. Unluckily, my confidence proved misplaced.
-Catherine came to me, one morning, at eight o’[[Clock|clock]], and said she was
-that day an Arabian merchant, going to [[Cross|cross]] the [[Desert]] with his
-caravan; and I must give her plenty of provision for herself and
-beasts: a [[Horse|horse]], and three camels, personated by a large hound and a
-couple of pointers. I got together good store of dainties, and slung
-them in a basket on one side of the saddle; and she sprang up as gay as
-a fairy, sheltered by her wide-brimmed hat and gauze veil from the July
-sun, and trotted off with a merry laugh, mocking my cautious counsel to
-avoid galloping, and come back early. The naughty thing never made her
-appearance at tea. One traveller, the hound, being an old dog and fond
-of its ease, returned; but neither Cathy, nor the pony, nor the two
-pointers were visible in any direction: I despatched emissaries down
-this path, and that path, and at last went wandering in search of her
-myself. There was a labourer working at a fence round a plantation, on
-the borders of the grounds. I inquired of him if he had seen our young
-lady.

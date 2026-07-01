@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 36 (part 5)"
+title: "Villette — Chapter 36 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_38/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_39/part_01">part 01 ›</a></div>
 </nav>
 
+
+He left me soothed, yet full of solicitude, breathing a wish, as strong
+as a [[prayer]], that if I were wrong, Heaven would lead me right. I heard,
+poured forth on the threshold, some fervid murmurings to “Marie, Reine
+du Ciel,” some deep [[Aspiration|aspiration]] that _his_ [[Hope|hope]] might yet be _mine_.
 
 Strange! I had no such feverish wish to turn him from the [[Faith|faith]] of his
 fathers. I thought Romanism wrong, a great mixed image of gold and
@@ -115,7 +120,7 @@ corruption, mortal depravity, weighty temporal woe—I could not care for
 chanting priests or mumming officials; that when the pains of existence
 and the terrors of dissolution pressed before me—when the mighty [[Hope|hope]]
 and measureless [[Doubt|doubt]] of the future arose in view—_then_, even the
-scientific strain, or the [[Prayer|prayer]] in a language learned and dead,
+scientific strain, or the [[prayer]] in a language learned and dead,
 harassed: with hindrance a heart which only longed to cry—“God be
 merciful to me, a sinner!”
 
@@ -125,7 +130,7 @@ echo responsive, one sweet chord of harmony in two conflicting spirits.
 
 “Whatever say priests or controversialists,” murmured M. Emanuel, “God
 is good, and loves all the sincere. Believe, then, what you can;
-believe it as you can; one [[Prayer|prayer]], at least, we have in common; I also
+believe it as you can; one [[prayer]], at least, we have in common; I also
 cry—‘O Dieu, sois appaisé envers moi qui suis pécheur!’”
 
 He leaned on the back of my chair. After some thought he again spoke:

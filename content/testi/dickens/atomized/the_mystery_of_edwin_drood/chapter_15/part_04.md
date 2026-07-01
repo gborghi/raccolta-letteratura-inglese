@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 14 (part 4)"
+title: "The Mystery of Edwin Drood — Chapter 14 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -13,6 +13,23 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_15/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_15/part_05">part 05 ›</a></div>
 </nav>
 
+
+“So I was, so I was. [[Well]], then. Whisper. You be thankful that your
+name ain’t Ned.”
+
+He looks at her quite steadily, as he asks: “Why?”
+
+“Because it’s a bad name to have just now.”
+
+“How a bad name?”
+
+“A threatened name. A dangerous name.”
+
+“The proverb says that threatened men live long,” he tells her,
+lightly.
+
+“Then Ned—so threatened is he, wherever he may be while I am a-talking
+to you, deary—should live to all [[Eternity|eternity]]!” replies the woman.
 
 She has leaned forward to say it in his ear, with her forefinger
 shaking before his eyes, and now huddles herself together, and with
@@ -133,17 +150,3 @@ nerves, or his stomach, out of order, dwells upon an idea until it
 loses its proportions. That was my case with the idea in question. So I
 shall burn the evidence of my case, when the book is full, and begin
 the next volume with a clearer vision.”
-
-“This is better,” says Mr. Crisparkle, stopping at the steps of his own
-door to shake hands, “than I could have hoped.”
-
-“Why, naturally,” returns Jasper. “You had but little reason to [[Hope|hope]]
-that I should become more like yourself. You are always training
-yourself to be, mind and [[Body|body]], as clear as crystal, and you always are,
-and never change; whereas I am a muddy, solitary, moping weed. However,
-I have got over that mope. Shall I wait, while you ask if Mr. Neville
-has left for my place? If not, he and I may walk round together.”
-
-“I think,” says Mr. Crisparkle, opening the entrance-door with his key,
-“that he left some [[Time|time]] ago; at least I know he left, and I think he
-has not come back. But I’ll inquire. You won’t come in?”

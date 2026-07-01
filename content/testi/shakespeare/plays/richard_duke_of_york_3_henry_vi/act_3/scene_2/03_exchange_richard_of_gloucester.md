@@ -1,5 +1,5 @@
 ---
-title: "[[Richard]] [[Duke of York]] (3 [[Henry VI]]) — Act III, Scene 2 — exchange ([[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]]) [3]"
+title: "Richard Duke of York (3 Henry VI) — Act III, Scene 2 — exchange (RICHARD OF GLOUCESTER) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/richard-duke-of-york---(3-henry-vi)-(shakespeare)"

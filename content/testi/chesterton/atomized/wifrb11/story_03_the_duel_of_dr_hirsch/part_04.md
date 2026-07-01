@@ -1,5 +1,5 @@
 ---
-title: "[[wifrb11]] — The Duel of Dr Hirsch (part 4)"
+title: "wifrb11 — The Duel of Dr Hirsch (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -14,51 +14,51 @@ tags:
 </nav>
 
 
-     "It may be psychologically possible," answered [[Flambeau]],
+     "It may be psychologically possible," answered Flambeau,
 "and it certainly would explain Dreyfus being certain he was wronged
 and his judges being sure he was guilty.  But it won't wash historically,
 because Dreyfus's document (if it was his document) was literally correct."
 
-     "I wasn't thinking of Dreyfus," said [[Father Brown]].
+     "I wasn't thinking of Dreyfus," said Father Brown.
 
-     [[Silence]] had sunk around them with the emptying of the tables;
+     Silence had sunk around them with the emptying of the tables;
 it was already late, though the sunlight still clung to everything,
-as if accidentally entangled in the trees.  In the stillness [[Flambeau]]
+as if accidentally entangled in the trees.  In the stillness Flambeau
 shifted his seat sharply--making an isolated and echoing noise--
-and threw his elbow over the angle of it.  "[[Well]]," he said, rather harshly,
+and threw his elbow over the angle of it.  "Well," he said, rather harshly,
 "if Hirsch is not better than a timid treason-monger..."
 
-     "You mustn't be too hard on them," said [[Father Brown]] gently. 
+     "You mustn't be too hard on them," said Father Brown gently. 
 "It's not entirely their fault; but they have no instincts. 
-I mean those things that make a woman refuse to [[Dance|dance]] with a man
+I mean those things that make a woman refuse to dance with a man
 or a man to touch an investment.  They've been taught that
 it's all a matter of degree."
 
-     "Anyhow," cried [[Flambeau]] impatiently, "he's not a patch
+     "Anyhow," cried Flambeau impatiently, "he's not a patch
 on my principal; and I shall go through with it.  Old Dubosc may be
 a bit mad, but he's a sort of patriot after all."
 
-     [[Father Brown]] continued to consume whitebait.
+     Father Brown continued to consume whitebait.
 
-     Something in the stolid way he did so caused [[Flambeau]]'s
+     Something in the stolid way he did so caused Flambeau's
 fierce black eyes to ramble over his companion afresh.  "What's the matter
-with you?" [[Flambeau]] demanded.  "Dubosc's all right in that way. 
-You don't [[Doubt|doubt]] him?"
+with you?" Flambeau demanded.  "Dubosc's all right in that way. 
+You don't doubt him?"
 
      "My friend," said the small priest, laying down his knife and fork
-in a kind of cold [[Despair|despair]], "I [[Doubt|doubt]] everything.  Everything, I mean,
-that has happened today.  I [[Doubt|doubt]] the whole story, though it has been
-acted before my face.  I [[Doubt|doubt]] every sight that my eyes have seen
+in a kind of cold despair, "I doubt everything.  Everything, I mean,
+that has happened today.  I doubt the whole story, though it has been
+acted before my face.  I doubt every sight that my eyes have seen
 since morning.  There is something in this business quite different
 from the ordinary police mystery where one man is more or less lying
-and the other man more or less telling the [[Truth|truth]].  Here both men....
-[[Well]]!  I've told you the only theory I can think of that could
+and the other man more or less telling the truth.  Here both men....
+Well!  I've told you the only theory I can think of that could
 satisfy anybody.  It doesn't satisfy me."
 
-     "Nor me either," replied [[Flambeau]] frowning, while the other
-went on eating fish with an air of entire [[Resignation|resignation]].  "If all you
+     "Nor me either," replied Flambeau frowning, while the other
+went on eating fish with an air of entire resignation.  "If all you
 can suggest is that notion of a message conveyed by contraries,
-I call it uncommonly clever, but...[[Well|well]], what would you call it?"
+I call it uncommonly clever, but...well, what would you call it?"
 
      "I should call it thin," said the priest promptly. 
 "I should call it uncommonly thin.  But that's the queer thing
@@ -67,7 +67,7 @@ There are only three versions, Dubosc's and Hirsch's and that fancy of mine.
 Either that note was written by a French officer to ruin a French official;
 or it was written by the French official to help German officers;
 or it was written by the French official to mislead German officers. 
-Very [[Well|well]].  You'd expect a secret paper passing between such people,
+Very well.  You'd expect a secret paper passing between such people,
 officials or officers, to look quite different from that. 
 You'd expect, probably a cipher, certainly abbreviations;
 most certainly scientific and strictly professional terms. 

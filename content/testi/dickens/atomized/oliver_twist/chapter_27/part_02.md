@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 27 (part 2)"
+title: "Oliver Twist — Chapter 27 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_27/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_27/part_03">part 03 ›</a></div>
 </nav>
 
+
+“We are all weak creeturs,” said Mrs. Corney, laying down a general
+principle.
 
 “So we are,” said the beadle.
 

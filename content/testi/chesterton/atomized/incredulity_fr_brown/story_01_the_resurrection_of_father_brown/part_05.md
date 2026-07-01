@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The [[Resurrection]] of [[Father Brown]] (part 5)"
+title: "incredulity Fr Brown — The Resurrection of Father Brown (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity_fr_brown/story_01_the_resurrection_of_father_brown/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity_fr_brown/story_01_the_resurrection_of_father_brown/part_06">part 06 ›</a></div>
 </nav>
 
+
+Indeed they would certainly have risen in revolution and lynched the
+republican leader, if they had not been immediately blocked by the
+direct necessity of behaving respectfully to the coffin of their own
+religious leader. The actual assassins, whom it would have been most
+natural to lynch, seemed to have vanished into thin air. Nobody knew
+their names; and nobody would ever know whether the dying man had even
+seen their faces. That strange look of surprise that was apparently his
+last look on earth might have been the recognition of their faces.
+Alvarez repeated violently that it was no work of his, and attended the
+funeral, walking behind the coffin in his splendid silver and green
+uniform with a sort of bravado of reverence.
 
 Behind the veranda a flight of stone steps scaled a very steep green
 bank, fenced by a cactus - hedge, and up this the coffin was laboriously
@@ -64,7 +76,7 @@ little, he went on in a tone still angry but more argumentative: 'I
 don't believe it, but you do. Isn't it better to have no God than one
 that robs you in this fashion? I, at least, am not afraid to say that
 there is none. There is no power in all this blind and brainless
-universe that can hear your [[prayer]] or return your friend. Though you beg
+universe that can hear your [[Prayer|prayer]] or return your friend. Though you beg
 Heaven to raise him, he will not rise. Though I dare Heaven to raise
 him, he will not rise. Here and now I will put it to the test - I defy
 the God who is not there to waken the man who sleeps for ever.'
@@ -111,16 +123,3 @@ the short wings of a penguin. There was something a little more like a
 lull in the noise; and then [[Father Brown]] for the first [[Time|time]] reached the
 utmost stretch of the indignation that he could launch against his
 children.
-
-'Oh, you silly people,' he said in a high and quavering voice; 'Oh, you
-silly, silly people.'
-
-Then he suddenly seemed to pull himself together, made a bolt for the
-steps with his more normal gait, and began hurriedly to descend.
-
-'Where are you going, Father?' said Mendoza, with more than his usual
-veneration.
-
-'To the telegraph office,' said [[Father Brown]] hastily. 'What? No; of
-course it's not a miracle. Why should there be a miracle? Miracles are
-not so cheap as all that.'

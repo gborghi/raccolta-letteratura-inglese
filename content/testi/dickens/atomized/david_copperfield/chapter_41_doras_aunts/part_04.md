@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 41: DORA’S AUNTS (part 4)"
+title: "David Copperfield — Chapter 41: DORA’S AUNTS (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"

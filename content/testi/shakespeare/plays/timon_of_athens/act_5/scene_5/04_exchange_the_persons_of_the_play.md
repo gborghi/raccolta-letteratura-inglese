@@ -1,5 +1,5 @@
 ---
-title: "[[Timon]] of Athens — Act V, Scene 5 — exchange (THE PERSONS OF THE PLAY) [4]"
+title: "Timon of Athens — Act V, Scene 5 — exchange (THE PERSONS OF THE PLAY) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/timon-of-athens-(shakespeare)"

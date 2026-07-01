@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 54 (part 5)"
+title: "Bleak House — Chapter 54 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -133,9 +133,3 @@ that your wife is here. I come here, and your wife is not here. What
 is the intention of this [[Fool|fool]]’s play, say then?” mademoiselle
 demands, with her arms composedly crossed, but with something in her
 dark cheek beating like a [[Clock|clock]].
-
-Mr. Bucket merely shakes the finger at her.
-
-“Ah, my God, you are an unhappy idiot!” cries mademoiselle with a
-toss of her head and a laugh. “Leave me to pass downstairs, great
-pig.” With a stamp of her foot and a menace.

@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 15 (part 2)"
+title: "Persuasion — Chapter 15 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_15/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_15/part_03">part 03 ›</a></div>
 </nav>
 
+
+placing his whole happiness in being on intimate terms in Camden Place.
+
+
+
+Anne listened, but without quite understanding it. Allowances, large
 
 allowances, she knew, must be made for the ideas of those who spoke.
 
@@ -193,15 +199,3 @@ to ask them how they did. They could think of no one else. Mrs Clay
 decidedly thought it Mr Elliot’s knock.” Mrs Clay was right. With all
 
 the state which a butler and foot-boy could give, Mr Elliot was ushered
-
-into the room.
-
-
-
-It was the same, the very same man, with no difference but of dress.
-
-Anne drew a little back, while the others received his compliments, and
-
-her sister his apologies for calling at so unusual an hour, but “he
-
-could not be so near without wishing to know that neither she nor her

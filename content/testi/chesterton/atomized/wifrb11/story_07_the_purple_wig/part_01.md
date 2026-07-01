@@ -1,5 +1,5 @@
 ---
-title: "[[wifrb11]] — The Purple Wig (part 1)"
+title: "wifrb11 — The Purple Wig (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -16,7 +16,6 @@ tags:
 
                             The Purple Wig
 
-
 MR EDWARD NUTT, the industrious editor of the Daily Reformer,
 sat at his desk, opening letters and marking proofs to the merry tune
 of a typewriter, worked by a vigorous young lady.
@@ -27,8 +26,8 @@ rather babyish blue eyes had a bewildered and even wistful look
 that rather contradicted all this.  Nor indeed was the expression
 altogether misleading.  It might truly be said of him, as for many
 journalists in authority, that his most familiar emotion was one of
-continuous [[Fear|fear]]; [[Fear|fear]] of libel actions, [[Fear|fear]] of lost advertisements,
-[[Fear|fear]] of misprints, [[Fear|fear]] of the sack.
+continuous fear; fear of libel actions, fear of lost advertisements,
+fear of misprints, fear of the sack.
 
      His life was a series of distracted compromises between
 the proprietor of the paper (and of him), who was a senile soap-boiler
@@ -48,26 +47,26 @@ rang a bell and sent it flying upstairs.
 more distinguished contributor, which bore a postmark of Devonshire,
 and read as follows:
 
-     DEAR NUTT,--As I see you're working Spooks and Dooks at the same [[Time|time]],
+     DEAR NUTT,--As I see you're working Spooks and Dooks at the same time,
 what about an article on that rum business of the Eyres of Exmoor;
 or as the old women call it down here, the Devil's Ear of Eyre? 
 The head of the family, you know, is the Duke of Exmoor; he is one of
-the few really stiff old Tory aristocrats left, a sound old crusted [[Tyrant|tyrant]]
+the few really stiff old Tory aristocrats left, a sound old crusted tyrant
 it is quite in our line to make trouble about.  And I think I'm
 on the track of a story that will make trouble.
 
      Of course I don't believe in the old legend about James I;
 and as for you, you don't believe in anything, not even in journalism. 
 The legend, you'll probably remember, was about the blackest business
-in English [[history]]--the poisoning of Overbury by that [[Witch|witch]]'s cat
-Frances Howard, and the quite mysterious terror which forced the [[King]]
+in English history--the poisoning of Overbury by that witch's cat
+Frances Howard, and the quite mysterious terror which forced the King
 to pardon the murderers.  There was a lot of alleged witchcraft
 mixed up with it; and the story goes that a man-servant listening
-at the keyhole heard the [[Truth|truth]] in a talk between the [[King]] and Carr;
+at the keyhole heard the truth in a talk between the King and Carr;
 and the bodily ear with which he heard grew large and monstrous
-as by [[Magic|magic]], so awful was the secret.  And though he had to be loaded
+as by magic, so awful was the secret.  And though he had to be loaded
 with lands and gold and made an ancestor of dukes, the elf-shaped ear
-is still recurrent in the family.  [[Well]], you don't believe in black [[Magic|magic]];
+is still recurrent in the family.  Well, you don't believe in black magic;
 and if you did, you couldn't use it for copy.  If a miracle happened
 in your office, you'd have to hush it up, now so many bishops
 are agnostics.  But that is not the point The point is that
@@ -76,18 +75,18 @@ something quite natural, I dare say, but quite abnormal.
 And the Ear is in it somehow, I fancy; either a symbol or a delusion
 or disease or something.  Another tradition says that Cavaliers
 just after James I began to wear their hair long only to cover
-the ear of the first Lord Exmoor.  This also is no [[Doubt|doubt]] fanciful.
+the ear of the first Lord Exmoor.  This also is no doubt fanciful.
 
      The reason I point it out to you is this:  It seems to me that
 we make a mistake in attacking aristocracy entirely for its champagne
-and diamonds.  Most men rather admire the nobs for having a good [[Time|time]],
+and diamonds.  Most men rather admire the nobs for having a good time,
 but I think we surrender too much when we admit that aristocracy
 has made even the aristocrats happy.  I suggest a series of articles
-pointing out how dreary, how inhuman, how downright [[diabolist]],
+pointing out how dreary, how inhuman, how downright diabolist,
 is the very smell and atmosphere of some of these great houses. 
 There are plenty of instances; but you couldn't begin with a better one
 than the Ear of the Eyres.  By the end of the week I think I can
-get you the [[Truth|truth]] about it.--Yours ever, FRANCIS FINN.
+get you the truth about it.--Yours ever, FRANCIS FINN.
 
      Mr Nutt reflected a moment, staring at his left boot;
 then he called out in a strong, loud and entirely lifeless voice,
@@ -100,14 +99,14 @@ Saturday.--Yours, E. NUTT.
      This elaborate epistle he articulated as if it were all one word;
 and Miss Barlow rattled it down as if it were all one word. 
 Then he took up another strip of proof and a blue pencil,
-and altered the word "[[Supernatural|supernatural]]" to the word "marvellous",
+and altered the word "supernatural" to the word "marvellous",
 and the expression "shoot down" to the expression "repress".
 
      In such happy, healthful activities did Mr Nutt disport himself,
 until the ensuing Saturday found him at the same desk, dictating to
 the same typist, and using the same blue pencil on the first instalment
 of Mr Finn's revelations.  The opening was a sound piece of slashing
-invective about the evil [[Secrets|secrets]] of princes, and [[Despair|despair]] in the high places
+invective about the evil secrets of princes, and despair in the high places
 of the earth.  Though written violently, it was in excellent English;
 but the editor, as usual, had given to somebody else the task
 of breaking it up into sub-headings, which were of a spicier sort,
@@ -116,11 +115,10 @@ and so on through a hundred happy changes.  Then followed the legend
 of the Ear, amplified from Finn's first letter, and then the substance
 of his later discoveries, as follows:
 
-
      I know it is the practice of journalists to put the end of the story
 at the beginning and call it a headline.  I know that journalism
-largely consists in saying "Lord [[Jones]] Dead" to people who never knew
-that Lord [[Jones]] was alive.  Your present correspondent thinks that this,
+largely consists in saying "Lord Jones Dead" to people who never knew
+that Lord Jones was alive.  Your present correspondent thinks that this,
 like many other journalistic customs, is bad journalism; and that
 the Daily Reformer has to set a better example in such things. 
 He proposes to tell his story as it occurred, step by step. 

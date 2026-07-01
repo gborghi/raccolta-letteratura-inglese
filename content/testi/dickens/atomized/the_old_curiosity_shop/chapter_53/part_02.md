@@ -14,6 +14,18 @@ tags:
 </nav>
 
 
+‘Are you very old yourself?’ asked the [[Child|child]], involuntarily.
+
+‘I shall be seventy-nine--next [[Summer|summer]].’
+
+‘You still work when you are [[Well|well]]?’
+
+‘Work!  To be sure.  You shall see my gardens hereabout.  Look at the
+[[Window|window]] there.  I made, and have kept, that plot of ground entirely with
+my own hands.  By this [[Time|time]] next year I shall hardly see the sky, the
+boughs will have grown so thick.  I have my [[Winter|winter]] work at [[Night|night]]
+besides.’
+
 He opened, as he spoke, a cupboard close to where he sat, and produced
 some miniature boxes, carved in a homely manner and made of old wood.
 

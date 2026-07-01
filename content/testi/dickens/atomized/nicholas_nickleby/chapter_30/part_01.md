@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 30 (part 1)"
+title: "Nicholas Nickleby — Chapter 30 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/nicholas-nickleby-(dickens)">Nicholas Nickleby</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_29/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_30/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_29/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_30/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -137,8 +137,3 @@ anything out of him.’
 
 ‘What SHOULD they get out of him?’ asked Nicholas, turning round with
 some abruptness.
-
-‘Zooks! what a [[Fire|fire]]-eater you are, Johnson!’ returned Mr. Folair, pulling
-up the heel of his dancing shoe. ‘I’m only talking of the natural
-curiosity of the people here, to know what he has been about all his
-life.’

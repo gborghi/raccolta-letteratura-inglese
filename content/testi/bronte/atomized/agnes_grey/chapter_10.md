@@ -1,5 +1,5 @@
 ---
-title: "[[Agnes Grey]] — Chapter 10"
+title: "Agnes Grey — Chapter 10"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/agnes-grey-(bronte)"
@@ -102,7 +102,7 @@ him and rustling against the pew doors, mount the pulpit like a
 conqueror ascending his triumphal car; then, sinking on the velvet
 cushion in an attitude of studied grace, remain in silent prostration
 for a certain [[Time|time]]; then mutter over a Collect, and gabble through the
-Lord’s [[Prayer]], rise, draw off one bright lavender glove, to give the
+Lord’s [[prayer|Prayer]], rise, draw off one bright lavender glove, to give the
 congregation the benefit of his sparkling rings, lightly pass his
 fingers through his [[Well|well]]-curled hair, flourish a cambric handkerchief,
 recite a very short passage, or, perhaps, a mere phrase of Scripture,

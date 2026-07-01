@@ -1,5 +1,5 @@
 ---
-title: "[[Shaw]] — THE PHILOSOPHER (part 15)"
+title: "Shaw — THE PHILOSOPHER (part 15)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/shaw-(chesterton)"
@@ -10,9 +10,80 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/shaw-(chesterton)">Shaw</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/shaw/story_08_the_philosopher/part_14">‹ part 14</a><a class="ex-next" href="/testi/chesterton/atomized/shaw/story_09_the_later_phases/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/shaw/story_08_the_philosopher/part_14">‹ part 14</a><a class="ex-next" href="/testi/chesterton/atomized/shaw/story_08_the_philosopher/part_16">part 16 ›</a></div>
 </nav>
 
+
+The second phase of the man's really fruitful efficacy is in a sense
+the converse of this.  He has improved philosophic discussions
+by making them more popular.  But he has also improved popular
+amusements by making them more philosophic.  And by more philosophic
+I do not mean duller, but funnier; that is more varied.
+All real fun is in cosmic contrasts, which involve a view of the cosmos.
+But I know that this second strength in [[Shaw]] is really difficult to state
+and must be approached by explanations and even by eliminations.
+Let me say at once that I think nothing of [[Shaw]] or anybody else merely
+for playing the daring sceptic.  I do not think he has done any good
+or even achieved any effect simply by asking startling questions.
+It is possible that there have been ages so sluggish or automatic
+that anything that woke them up at all was a good thing.
+It is sufficient to be certain that ours is not such an age.
+We do not need waking up; rather we suffer from insomnia, with all
+its results of [[Fear|fear]] and exaggeration and frightful waking [[Dreams|dreams]].
+The modern mind is not a [[donkey]] which wants kicking to make it go on.
+The modern mind is more like a motor-car on a lonely [[Road|road]]
+which two amateur motorists have been just clever enough to take
+to pieces, but are not quite clever enough to put together again.
+Under these circumstances kicking the car has never been found by the best
+experts to be effective.  No one, therefore, does any good to our age
+merely by asking questions--unless he can answer the questions.
+Asking questions is already the fashionable and aristocratic
+sport which has brought most of us into the bankruptcy [[Court|court]].
+The note of our age is a note of interrogation.  And the final
+point is so plain; no sceptical philosopher can ask any questions
+that may not equally be asked by a tired [[Child|child]] on a hot afternoon.
+"Am I a boy?--Why am I a boy?--Why aren't I a chair?--What is a chair?"
+A [[Child|child]] will sometimes ask questions of this sort for two hours.
+And the philosophers of Protestant Europe have asked them for
+two hundred years.
+
+If that were all that I meant by [[Shaw]] making men more philosophic,
+I should put it not among his good influences but his bad.
+He did do that to some extent; and so far he is bad.  But there is
+a much bigger and better sense in which he has been a philosopher.
+He has brought back into English drama all the streams
+of fact or tendency which are commonly called undramatic.
+They were there in Shakespeare's [[Time|time]]; but they have scarcely
+been there since until [[Shaw]].  I mean that Shakespeare,
+being interested in everything, put everything into a play.
+If he had lately been thinking about the irony and even
+contradiction confronting us in [[Self|self]]-preservation and [[suicide]],
+he put it all into [[Hamlet|HAMLET]].  If he was annoyed by some passing
+boom in theatrical babies he put that into [[Hamlet|HAMLET]] too.
+He would put anything into [[Hamlet|HAMLET]] which he really thought
+was true, from his favourite nursery ballads to his personal
+(and perhaps unfashionable) conviction of the Catholic purgatory.
+There is no fact that strikes one, I think, about Shakespeare,
+except the fact of how dramatic he could be, so much as the fact
+of how undramatic he could be.
+
+In this great sense [[Shaw]] has brought [[philosophy]] back into drama--
+[[philosophy]] in the sense of a certain [[Freedom|freedom]] of the mind.
+This is not a [[Freedom|freedom]] to think what one likes (which is absurd,
+for one can only think what one thinks); it is a [[Freedom|freedom]]
+to think about what one likes, which is quite a different
+thing and the [[spring]] of all thought.  Shakespeare (in a
+weak moment, I think) said that all the world is a stage.
+But Shakespeare acted on the much finer principle that a stage
+is all the world.  So there are in all Bernard [[Shaw]]'s plays
+patches of what people would call essentially undramatic stuff,
+which the dramatist puts in because he is honest and would rather
+prove his case than succeed with his play.  [[Shaw]] has brought
+back into English drama that Shakespearian universality which,
+if you like, you can call Shakespearian irrelevance.
+Perhaps a better definition than either is a habit of thinking
+the [[Truth|truth]] worth telling even when you meet it by accident.
+In [[Shaw]]'s plays one meets an incredible number of truths by accident.
 
 To be up to date is a paltry [[Ambition|ambition]] except in an almanac,
 and [[Shaw]] has sometimes talked this almanac [[philosophy]].
@@ -66,61 +137,3 @@ A soldier may mention the commissariat as [[Well|well]] as the cavalry;
 and, better still, a priest may mention theology as [[Well|well]] as religion.
 That is being a philosopher; that is bringing the universe
 on the stage.
-
-Lastly, he has obliterated the mere cynic.  He has been so much
-more cynical than anyone else for the public good that no one
-has dared since to be really cynical for anything smaller.
-The Chinese crackers of the frivolous cynics fail to excite
-us after the dynamite of the serious and aspiring cynic.
-Bernard [[Shaw]] and I (who are growing grey together)
-can remember an epoch which many of his followers do not know:
-an epoch of real pessimism.  The years from 1885 to 1898 were
-like the hours of afternoon in a rich [[house]] with large rooms;
-the hours before tea-[[Time|time]]. They believed in nothing except
-good manners; and the essence of good manners is to conceal a yawn.
-A yawn may be defined as a silent yell.  The power which the young
-pessimist of that [[Time|time]] showed in this direction would have astonished
-anyone but him.  He yawned so wide as to [[Swallow|swallow]] the world.
-He swallowed the world like an unpleasant pill before retiring
-to an eternal rest.  Now the last and best glory of [[Shaw]] is
-that in the circles where this creature was found, he is not.
-He has not been killed (I don't know exactly why), but he has
-actually turned into a [[Shaw]] idealist.  This is no exaggeration.
-I meet men who, when I knew them in 1898, were just a little too
-lazy to destroy the universe.  They are now conscious of not being
-quite worthy to abolish some [[Prison|prison]] regulations.  This destruction
-and [[conversion]] seem to me the mark of something actually great.
-It is always great to destroy a type without destroying a man.
-The followers of [[Shaw]] are optimists; some of them are so simple
-as even to use the word.  They are sometimes rather pallid optimists,
-frequently very worried optimists, occasionally, to tell the [[Truth|truth]],
-rather [[Cross|cross]] optimists:  but they [are] not pessimists;
-they can exult though they cannot laugh.  He has at least
-withered up among them the mere pose of impossibility.
-Like every great teacher, he has cursed the barren fig-tree.
-For nothing except that impossibility is really impossible.
-
-* * * *
-
-I know it is all very strange.  From the height of eight hundred
-years ago, or of eight hundred years hence, our age must
-look incredibly odd.  We call the twelfth century [[ascetic]].
-We call our own [[Time|time]] hedonist and full of praise and pleasure.
-But in the [[ascetic]] age the [[Love|love]] of life was evident and enormous,
-so that it had to be restrained.  In an hedonist age pleasure
-has always sunk low, so that it has to be encouraged.
-How high the sea of human happiness [[Rose|rose]] in the Middle Ages,
-we now only know by the colossal walls that they built to keep
-it in bounds.  How low human happiness sank in the twentieth
-century our children will only know by these extraordinary
-modern books, which tell people that it is a duty to be
-cheerful and that life is not so bad after all.  Humanity never
-produces optimists till it has ceased to produce happy men.
-It is strange to be obliged to impose a holiday like a fast,
-and to drive men to a banquet with spears.  But this shall be
-written of our [[Time|time]]:  that when the spirit who denies besieged
-the last citadel, blaspheming life itself, there were some,
-there was one especially, whose voice was heard and whose
-spear was never broken.
-
-THE END

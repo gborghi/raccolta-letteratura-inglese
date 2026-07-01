@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 35 (part 2)"
+title: "Sense and Sensibility — Chapter 35 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_35/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_36/part_01">part 01 ›</a></div>
 </nav>
 
+
+_look_ her tenderness, and after slightly addressing him, said no more.
+
+
+
+But Elinor had more to do; and so anxious was she, for his sake and her
+
+own, to do it [[Well|well]], that she forced herself, after a moment’s
 
 recollection, to welcome him, with a look and manner that were almost
 

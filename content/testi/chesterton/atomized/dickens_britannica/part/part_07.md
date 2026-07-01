@@ -131,7 +131,7 @@ of Dickens (1857-58); J. Forster, Life of Charles Dickens, 3 vols.
 (1872-74), new ed., 2 vols. (1927); Mary Dickens, Letters of Charles Dickens 
 (1898); G. K. Chesterton, Charles Dickens (1906), Appreciations and 
 Criticisms of the Work of Charles Dickens (1911); S. J. A. Fitz-Gerald, 
-Dickens and the Drama (1910); W. G. Wilkins, Charles Dickens in [[america|America]] 
+Dickens and the Drama (1910); W. G. Wilkins, Charles Dickens in [[America]] 
 (1911); E. P. Whipple, Charles Dickens, 2 vols. (1912); A. C. Swinburne, 
 Charles Dickens (new ed., 1913); W. Dexter, The [[London]] of Dickens (1923); 
 The [[Kent]] of Dickens (1924); The England of Dickens (1925); Dickens (1927); 

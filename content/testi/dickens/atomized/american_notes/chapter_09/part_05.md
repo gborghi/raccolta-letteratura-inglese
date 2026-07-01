@@ -14,6 +14,29 @@ tags:
 </nav>
 
 
+It is somewhat remarkable too, at first, to say the least, to see so many
+honourable members with swelled faces; and it is scarcely less remarkable
+to discover that this appearance is caused by the quantity of tobacco
+they contrive to stow within the hollow of the cheek.  It is strange
+enough too, to see an honourable gentleman leaning back in his tilted
+chair with his legs on the desk before him, shaping a convenient ‘plug’
+with his penknife, and when it is quite ready for use, shooting the old
+one from his mouth, as from a pop-gun, and clapping the new one in its
+place.
+
+I was surprised to observe that even steady old chewers of great
+experience, are not always good marksmen, which has rather inclined me to
+[[Doubt|doubt]] that general proficiency with the rifle, of which we have heard so
+much in England.  Several gentlemen called upon me who, in the course of
+conversation, frequently missed the spittoon at five paces; and one (but
+he was certainly short-sighted) mistook the closed sash for the open
+[[Window|window]], at three.  On another occasion, when I dined out, and was sitting
+with two ladies and some gentlemen round a [[Fire|fire]] before dinner, one of the
+company fell short of the fireplace, six distinct times.  I am disposed
+to think, however, that this was occasioned by his not aiming at that
+object; as there was a white marble hearth before the fender, which was
+more convenient, and may have suited his purpose better.
+
 The Patent Office at Washington, furnishes an extraordinary example of
 American enterprise and ingenuity; for the immense number of models it
 contains are the accumulated inventions of only five years; the whole of
@@ -85,33 +108,3 @@ which sundry gentlemen were referring.  But there were no such means of
 beguiling the [[Time|time]] in this apartment, which was as unpromising and
 tiresome as any waiting-room in one of our public establishments, or any
 physician’s dining-room during his hours of consultation at [[Home|home]].
-
-There were some fifteen or twenty persons in the room.  One, a tall,
-wiry, muscular old man, from the west; sunburnt and swarthy; with a brown
-white hat on his knees, and a giant umbrella resting between his legs;
-who sat bolt upright in his chair, frowning steadily at the carpet, and
-twitching the hard lines about his mouth, as if he had made up his mind
-‘to fix’ the President on what he had to say, and wouldn’t bate him a
-grain.  Another, a Kentucky farmer, six-feet-six in height, with his hat
-on, and his hands under his coat-tails, who leaned against the wall and
-kicked the floor with his heel, as though he had [[Time]]’s head under his
-shoe, and were literally ‘killing’ him.  A third, an oval-faced,
-bilious-looking man, with sleek black hair cropped close, and whiskers
-and beard shaved down to blue dots, who sucked the head of a thick stick,
-and from [[Time|time]] to [[Time|time]] took it out of his mouth, to see how it was getting
-on.  A fourth did nothing but whistle.  A fifth did nothing but spit.
-And indeed all these gentlemen were so very persevering and energetic in
-this latter particular, and bestowed their favours so abundantly upon the
-carpet, that I take it for granted the Presidential housemaids have high
-wages, or, to speak more genteelly, an ample amount of ‘compensation:’
-which is the American word for salary, in the case of all public
-servants.
-
-We had not waited in this room many minutes, before the black messenger
-returned, and conducted us into another of smaller dimensions, where, at
-a business-like table covered with papers, sat the President himself.  He
-looked somewhat worn and anxious, and [[Well|well]] he might; being at war with
-everybody—but the expression of his face was mild and pleasant, and his
-manner was remarkably unaffected, gentlemanly, and agreeable.  I thought
-that in his whole carriage and demeanour, he became his station
-singularly [[Well|well]].

@@ -1,5 +1,5 @@
 ---
-title: "The Everlasting Man — Part 2: On the Man Called [[Christ]] (part 6)"
+title: "The Everlasting Man — Part 2: On the Man Called [[Christ (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/the-everlasting-man-(chesterton)"

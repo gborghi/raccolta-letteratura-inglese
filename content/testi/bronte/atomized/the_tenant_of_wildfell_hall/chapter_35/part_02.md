@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 35 (part 2)"
+title: "The Tenant of Wildfell Hall — Chapter 35 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_35/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_37/part_01">part 01 ›</a></div>
 </nav>
 
+
+now raised my head; and steadily confronting his gaze, I answered
+
+calmly, “Mr. Hargrave, do you mean to insult me?”
+
+
+
+He was not prepared for this. He paused a moment to recover the shock;
 
 then, drawing himself up and removing his hand from my chair, he
 
@@ -100,7 +108,7 @@ mother. Little [[Helen]], however, was soon tired of playing, and insisted
 
 upon going to [[Sleep|sleep]]; and while I sat on the sofa with her on my knee,
 
-and [[arthur|Arthur]] seated beside me, gently playing with her soft, flaxen hair,
+and [[Arthur]] seated beside me, gently playing with her soft, flaxen hair,
 
 Lady Lowborough composedly came and placed herself on the other side.
 

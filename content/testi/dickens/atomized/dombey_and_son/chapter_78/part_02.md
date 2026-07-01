@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 22 (part 2)"
+title: "Dombey and Son — Chapter 50 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,125 +14,125 @@ tags:
 </nav>
 
 
-Again the Manager inclined his head and showed his teeth, and seemed to
-say, “Remarkable indeed! You quite surprise me!” And again he uttered
-never a word.
+“If my Uncle had been a heedless young man, likely to be entrapped by
+jovial company to some drinking-place, where he was to be got rid of
+for the sake of what money he might have about him,” said Walter; “or
+if he had been a reckless sailor, going ashore with two or three
+months’ pay in his pocket, I could understand his disappearing, and
+leaving no trace behind. But, being what he was—and is, I [[Hope|hope]]—I can’t
+believe it.”
 
-“May I go on?” said John Carker, mildly.
+“Wal”r, my lad,” inquired the Captain, wistfully eyeing him as he
+pondered and pondered, “what do you make of it, then?”
 
-“On your way?” replied his smiling brother. “If you will have the
-goodness.”
+“[[Captain Cuttle]],” returned Walter, “I don’t know what to make of it. I
+suppose he never has written! There is no [[Doubt|doubt]] about that?”
 
-John Carker, with a sigh, was passing slowly out at the door, when his
-brother’s voice detained him for a moment on the threshold.
+“If so be as Sol Gills wrote, my lad,” replied the Captain,
+argumentatively, “where’s his dispatch?”
 
-“If she has gone, and goes, her own way cheerfully,” he said, throwing
-the still unfolded letter on his desk, and putting his hands firmly in
-his pockets, “you may tell her that I go as cheerfully on mine. If she
-has never once looked back, you may tell her that I have, sometimes, to
-recall her taking part with you, and that my resolution is no easier to
-wear away;” he smiled very sweetly here; “than marble.”
+“Say that he entrusted it to some private hand,” suggested Walter, “and
+that it has been forgotten, or carelessly thrown aside, or lost. Even
+that is more probable to me, than the other event. In short, I not only
+cannot bear to contemplate that other event, [[Captain Cuttle]], but I
+can’t, and won’t.”
 
-“I tell her nothing of you. We never speak about you. Once a year, on
-your birthday, Harriet says always, ‘Let us remember James by name, and
-wish him happy,’ but we say no more.”
+“[[Hope]], you see, Wal”r,” said the Captain, sagely, “[[Hope]]. It’s that as
+animates you. [[Hope]] is a buoy, for which you overhaul your Little
+Warbler, sentimental diwision, but Lord, my lad, like any other buoy,
+it only floats; it can’t be steered nowhere. Along with the figure-head
+of [[Hope]],” said the Captain, “there’s a anchor; but what’s the good of
+my having a anchor, if I can’t find no [[Bottom|bottom]] to let it go in?”
 
-“Tell it then, if you please,” returned the other, “to yourself. You
-can’t repeat it too often, as a lesson to you to avoid the subject in
-speaking to me. I know no Harriet Carker. There is no such person. You
-may have a sister; make much of her. I have none.”
+[[Captain Cuttle]] said this rather in his character of a sagacious citizen
+and householder, bound to impart a morsel from his stores of wisdom to
+an inexperienced youth, than in his own proper person. Indeed, his face
+was quite luminous as he spoke, with new [[Hope|hope]], caught from Walter; and
+he appropriately concluded by slapping him on the back; and saying,
+with enthusiasm, “Hooroar, my lad! Indiwidually, I’m o’ your opinion.”
 
-Mr Carker the Manager took up the letter again, and waved it with a
-smile of mock courtesy towards the door. Unfolding it as his brother
-withdrew, and looking darkly after him as he left the room, he once
-more turned round in his elbow-chair, and applied himself to a diligent
-perusal of its contents.
+Walter, with his cheerful laugh, returned the salutation, and said:
 
-It was in the writing of his great chief, Mr Dombey, and dated from
-Leamington. Though he was a quick reader of all other letters, Mr
-Carker read this slowly; weighing the words as he went, and bringing
-every tooth in his head to bear upon them. When he had read it through
-once, he turned it over again, and picked out these passages. “I find
-myself benefited by the change, and am not yet inclined to name any
-[[Time|time]] for my return.” “I wish, Carker, you would arrange to come down
-once and see me here, and let me know how things are going on, in
-person.” “I omitted to speak to you about young Gay. If not gone per
-Son and Heir, or if Son and Heir still lying in the Docks, appoint some
-other young man and keep him in the [[City]] for the present. I am not
-decided.” “Now that’s unfortunate!” said Mr Carker the Manager,
-expanding his mouth, as if it were made of India-rubber: “for he’s far
-away.”
+“Only one word more about my Uncle at present, [[Captain Cuttle]]. I
+suppose it is impossible that he can have written in the ordinary
+course—by mail packet, or [[Ship|ship]] letter, you understand—”
 
-Still that passage, which was in a postscript, attracted his attention
-and his teeth, once more.
+“Ay, ay, my lad,” said the Captain approvingly.
 
-“I think,” he said, “my good friend [[Captain Cuttle]] mentioned something
-about being towed along in the wake of that day. What a pity he’s so
-far away!”
+“—And that you have missed the letter, anyhow?”
 
-He refolded the letter, and was sitting trifling with it, standing it
-long-wise and broad-wise on his table, and turning it over and over on
-all sides—doing pretty much the same thing, perhaps, by its
-contents—when Mr Perch the messenger knocked softly at the door, and
-coming in on tiptoe, bending his [[Body|body]] at every step as if it were the
-delight of his life to bow, laid some papers on the table.
+“Why, Wal”r,” said the Captain, turning his eyes upon him with a faint
+approach to a severe expression, “ain’t I been on the look-out for any
+tidings of that man o’ science, old Sol Gills, your Uncle, day and
+[[Night|night]], ever since I lost him? Ain’t my heart been heavy and watchful
+always, along of him and you? Sleeping and waking, ain’t I been upon my
+post, and wouldn’t I scorn to quit it while this here Midshipman held
+together!”
 
-“Would you please to be engaged, Sir?” asked Mr Perch, rubbing his
-hands, and deferentially putting his head on one side, like a man who
-felt he had no business to hold it up in such a presence, and would
-keep it as much out of the way as possible.
+“Yes, [[Captain Cuttle]],” replied Walter, grasping his hand, “I know you
+would, and I know how faithful and earnest all you say and feel is. I
+am sure of it. You don’t [[Doubt|doubt]] that I am as sure of it as I am that my
+foot is again upon this door-step, or that I again have hold of this
+true hand. Do you?”
 
-“Who wants me?”
+“No, no, Wal”r,” returned the Captain, with his beaming
 
-“Why, Sir,” said Mr Perch, in a soft voice, “really nobody, Sir, to
-speak of at present. Mr Gills the [[Ship]]’s Instrument-maker, Sir, has
-looked in, about a little matter of payment, he says: but I mentioned
-to him, Sir, that you was engaged several deep; several deep.”
+“I’ll hazard no more conjectures,” said Walter, fervently shaking the
+hard hand of the Captain, who shook his with no less goodwill. “All I
+will add is, Heaven forbid that I should touch my Uncle’s possessions,
+[[Captain Cuttle]]! Everything that he left here, shall remain in the care
+of the truest of stewards and kindest of men—and if his name is not
+Cuttle, he has no name! Now, best of friends, about—Miss Dombey.”
 
-Mr Perch coughed once behind his hand, and waited for further orders.
+There was a change in Walter’s manner, as he came to these two words;
+and when he uttered them, all his confidence and cheerfulness appeared
+to have deserted him.
 
-“Anybody else?”
+“I thought, before Miss Dombey stopped me when I spoke of her father
+last [[Night|night]],” said Walter, “—you remember how?”
 
-“[[Well]], Sir,” said Mr Perch, “I wouldn’t of my own [[Self|self]] take the liberty
-of mentioning, Sir, that there was anybody else; but that same young
-lad that was here yesterday, Sir, and last week, has been hanging about
-the place; and it looks, Sir,” added Mr Perch, stopping to shut the
-door, “dreadful unbusiness-like to see him whistling to the sparrows
-down the [[Court|court]], and making of ’em answer him.”
+The Captain [[Well|well]] remembered, and shook his head.
 
-“You said he wanted something to do, didn’t you, Perch?” asked Mr
-Carker, leaning back in his chair and looking at that officer.
+“I thought,” said Walter, “before that, that we had but one hard duty
+to perform, and that it was, to prevail upon her to communicate with
+her friends, and to return [[Home|home]].”
 
-“Why, Sir,” said Mr Perch, coughing behind his hand again, “his
-expression certainly were that he was in wants of a sitiwation, and
-that he considered something might be done for him about the Docks,
-being used to fishing with a rod and line: but—” Mr Perch shook his
-head very dubiously indeed.
+The Captain muttered a feeble “Awast!” or a “Stand by!” or something or
+other, equally pertinent to the occasion; but it was rendered so
+extremely feeble by the total discomfiture with which he received this
+announcement, that what it was, is mere matter of conjecture.
 
-“What does he say when he comes?” asked Mr Carker.
+“But,” said Walter, “that is over. I think so, no longer. I would
+sooner be put back again upon that piece of wreck, on which I have so
+often floated, since my preservation, in my [[Dreams|dreams]], and there left to
+drift, and drive, and die!”
 
-“Indeed, Sir,” said Mr Perch, coughing another cough behind his hand,
-which was always his resource as an expression of [[Humility|humility]] when nothing
-else occurred to him, “his observation generally air that he would
-humbly wish to see one of the gentlemen, and that he wants to earn a
-living. But you see, Sir,” added Perch, dropping his voice to a
-whisper, and turning, in the inviolable [[Nature|nature]] of his confidence, to
-give the door a thrust with his hand and knee, as if that would shut it
-any more when it was shut already, “it’s hardly to be bore, Sir, that a
-common lad like that should come a prowling here, and saying that his
-mother nursed our [[house|House]]’s young gentleman, and that he hopes our [[house|House]]
-will give him a chance on that account. I am sure, Sir,” observed Mr
-Perch, “that although Mrs Perch was at that [[Time|time]] nursing as thriving a
-little girl, Sir, as we’ve ever took the liberty of adding to our
-family, I wouldn’t have made so free as drop a hint of her being
-capable of imparting nourishment, not if it was never so!”
+“Hooroar, my lad!” exclaimed the Captain, in a burst of uncontrollable
+satisfaction. “Hooroar! hooroar! hooroar!”
 
-Mr Carker grinned at him like a shark, but in an absent, thoughtful
-manner.
+“To think that she, so young, so good, and beautiful,” said Walter, “so
+delicately brought up, and born to such a different fortune, should
+strive with the rough world! But we have seen the gulf that cuts off
+all behind her, though no one but herself can know how deep it is; and
+there is no return.”
 
-“Whether,” submitted Mr Perch, after a short [[Silence|silence]], and another
-cough, “it mightn’t be best for me to tell him, that if he was seen
-here any more he would be given into custody; and to keep to it! With
-respect to bodily [[Fear|fear]],” said Mr Perch, “I’m so timid, myself, by
-[[Nature|nature]], Sir, and my nerves is so unstrung by Mrs Perch’s state, that I
-could take my affidavit easy.”
+[[Captain Cuttle]], without quite understanding this, greatly approved of
+it, and observed in a tone of strong corroboration, that the [[Wind|wind]] was
+quite abaft.
+
+“She ought not to be [[Alone|alone]] here; ought she, [[Captain Cuttle]]?” said
+Walter, anxiously.
+
+“[[Well]], my lad,” replied the Captain, after a little sagacious
+consideration. “I don’t know. You being here to keep her company, you
+see, and you two being jintly—”
+
+“Dear [[Captain Cuttle]]!” remonstrated Walter. “I being here! Miss Dombey,
+in her guileless [[Innocent|innocent]] heart, regards me as her adopted brother; but
+what would the guile and [[Guilt|guilt]] of my heart be, if I pretended to
+believe that I had any right to approach her, familiarly, in that
+character—if I pretended to forget that I am bound, in [[Honour|honour]], not to
+do it?”
+
+“Wal”r, my lad,” hinted the Captain, with some revival of his
+discomfiture, “ain’t there no other character as—”

@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 22 (part 5)"
+title: "The Professor — Chapter 22 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -14,6 +14,22 @@ tags:
 </nav>
 
 
+In giving [[William Crimsworth]] his mother’s picture, I give him sweets,
+
+[[Bells|bells]], and bone all in one; what grieves me is, that I cannot behold
+
+the result; I would have added five shillings more to my bid if the
+
+auctioneer could only have promised me that pleasure.
+
+“H. Y. H.
+
+“P.S.--You said last [[Night|night]] you positively declined adding another item
+
+to your account with me; don’t you think I’ve saved you that trouble?”
+
+I muffled the picture in its green baize covering, restored it to the
+
 case, and having transported the whole concern to my bed-room, put it
 
 out of sight under my bed. My pleasure was now poisoned by pungent [[Pain|pain]];
@@ -25,8 +41,6 @@ had come in at that moment, I should have said to him, “I owe you
 nothing, Hunsden--not a fraction of a farthing: you have paid yourself
 
 in taunts!”
-
-
 
 Too anxious to remain any longer quiescent, I had no sooner breakfasted,
 
@@ -58,8 +72,6 @@ I caught a glimpse of the ground, and at once I felt assured of its
 
 solidity; I knew where it was.
 
-
-
 M. Vandenhuten was rich, respected, and influential; I, poor, despised
 
 and powerless; so we stood to the world at large as members of the
@@ -79,8 +91,6 @@ was benevolent, the Englishman susceptible; in short our characters
 dovetailed, but my mind having more [[Fire|fire]] and action than his,
 
 instinctively assumed and kept the predominance.
-
-
 
 This point settled, and my position [[Well|well]] ascertained, I addressed him
 
@@ -107,8 +117,6 @@ benevolence of his truthful face was better than the intelligence of my
 own. Characters of my order experience a balm-like solace in the contact
 
 of such souls as animated the honest breast of Victor Vandenhuten.
-
-
 
 The next fortnight was a period of many alternations; my existence
 
@@ -160,8 +168,6 @@ acquaintance--though God knows I had never met her before--and threw a
 
 prize into my lap.
 
-
-
 In the second week of October, 18--, I got the appointment of English
 
 professor to all the classes of ---- College, Brussels, with a salary
@@ -178,8 +184,6 @@ of M. Vandenhuten, negociant, which had turned the scale of choice in my
 
 favour.
 
-
-
 No sooner had I read the announcement than I hurried to M. Vandenhuten’s
 
 bureau, pushed the document under his nose, and when he had perused
@@ -194,11 +198,7 @@ done nothing meriting such thanks. He had not laid out a centime--only
 
 scratched a few words on a sheet of paper.
 
-
-
 Again I repeated to him--
-
-
 
 “You have made me quite happy, and in a way that suits me; I do not
 
@@ -209,8 +209,6 @@ disposed to shun you because you have done me a favour; from this day
 you must consent to admit me to your intimate acquaintance, for I shall
 
 hereafter recur again and again to the pleasure of your society.”
-
-
 
 “Ainsi soit-il,” was the reply, accompanied by a smile of benignant
 

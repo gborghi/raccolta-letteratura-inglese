@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 23 (part 2)"
+title: "Wuthering Heights — Chapter 23 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_23/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_23/part_03">part 03 ›</a></div>
 </nav>
 
+
+“She didn’t leave him,” said the boy; “you sha’n’t contradict me.”
+
+“She did,” cried my young lady.
+
+“[[Well]], I’ll tell _you_ something!” said Linton. “Your mother hated your
+father: now then.”
 
 “Oh!” exclaimed Catherine, too enraged to continue.
 
@@ -139,12 +146,3 @@ together. Sit quite still and don’t talk: but you may sing a [[Song|song]], if
 you can sing; or you may say a nice long interesting ballad—one of
 those you promised to teach me; or a story. I’d rather have a ballad,
 though: begin.”
-
-Catherine repeated the longest she could remember. The employment
-pleased both mightily. Linton would have another, and after that
-another, notwithstanding my strenuous objections; and so they went on
-until the [[Clock|clock]] struck twelve, and we heard Hareton in the [[Court|court]],
-returning for his dinner.
-
-“And to-morrow, Catherine, will you be here to-morrow?” asked young
-[[Heathcliff]], holding her frock as she [[Rose|rose]] reluctantly.

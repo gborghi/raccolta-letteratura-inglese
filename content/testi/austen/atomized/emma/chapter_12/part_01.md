@@ -1,5 +1,5 @@
 ---
-title: "[[Emma]] — Chapter 12 (part 1)"
+title: "Emma — Chapter 12 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/emma-(austen)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/works/emma-(austen)">Emma</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/emma/chapter_10/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/emma/chapter_12/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/emma/chapter_11/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/emma/chapter_12/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -107,7 +107,7 @@ year, and to give all such local information as could not fail of being
 interesting to a brother whose [[Home|home]] it had equally been the longest
 part of his life, and whose attachments were strong. The plan of a
 drain, the change of a fence, the felling of a tree, and the
-destination of every acre for wheat, turnips, or [[spring]] corn, was
+destination of every acre for wheat, turnips, or [[Spring|spring]] corn, was
 entered into with as much equality of interest by John, as his cooler
 manners rendered possible; and if his willing brother ever left him any
 thing to inquire about, his inquiries even approached a tone of
@@ -130,6 +130,3 @@ herself;—and two basins only were ordered. After a little more
 discourse in praise of gruel, with some wondering at its not being
 taken every evening by every [[Body|body]], he proceeded to say, with an air of
 [[Grave|grave]] reflection,
-
-“It was an awkward business, my dear, your spending the [[Autumn|autumn]] at South
-End instead of coming here. I never had much opinion of the sea air.”

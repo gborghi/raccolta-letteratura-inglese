@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 31 (part 3)"
+title: "Dombey and Son — Chapter 59 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,122 +14,110 @@ tags:
 </nav>
 
 
-“Mrs Dombey, that is to be,” returns Mr Dombey, condescendingly, “will
-be very sensible of your attention, Carker, I am sure.”
+Then there is a palisade of tables made in the best drawing-room; and
+on the capital, french-polished, extending, telescopic range of Spanish
+mahogany dining-tables with turned legs, the pulpit of the Auctioneer
+is erected; and the herds of shabby vampires, Jew and Christian, the
+strangers fluffy and snuffy, and the stout men with the napless hats,
+congregate about it and sit upon everything within reach, mantel-pieces
+included, and begin to bid. Hot, humming, and dusty are the rooms all
+day; and—high above the heat, hum, and [[Dust|dust]]—the head and shoulders,
+voice and hammer, of the Auctioneer, are ever at work. The men in the
+carpet caps get flustered and vicious with tumbling the Lots about, and
+still the Lots are going, going, gone; still coming on. Sometimes there
+is joking and a general roar. This lasts all day and three days
+following. The Capital Modern Household Furniture, &c., is on sale.
 
-“And if she is to be Mrs Dombey this morning, Sir,” says the Major,
-putting down his coffee-cup, and looking at his watch, “it’s high [[Time|time]]
-we were off!”
+Then the mouldy gigs and chaise-carts reappear; and with them come
+[[spring]]-vans and waggons, and an army of porters with knots. All day
+long, the men with carpet caps are screwing at screw-drivers and
+bed-winches, or staggering by the dozen together on the staircase under
+heavy burdens, or upheaving perfect rocks of Spanish mahogany, best
+[[Rose|rose]]-wood, or plate-glass, into the gigs and chaise-carts, vans and
+waggons. All sorts of vehicles of burden are in attendance, from a
+tilted waggon to a wheelbarrow. Poor Paul’s little bedstead is carried
+off in a [[donkey]]-tandem. For nearly a whole week, the Capital Modern
+Household Furniture, & c., is in course of removal.
 
-Forth, in a barouche, ride Mr Dombey, [[Major Bagstock]], and Mr Carker, to
-the church. Mr Sownds the Beadle has long risen from the steps, and is
-in waiting with his cocked hat in his hand. Mrs Miff curtseys and
-proposes chairs in the vestry. Mr Dombey prefers remaining in the
-church. As he looks up at the organ, Miss Tox in the gallery shrinks
-behind the fat leg of a cherubim on a monument, with cheeks like a
-young [[Wind]]. [[Captain Cuttle]], on the contrary, stands up and waves his
-hook, in token of welcome and encouragement. Mr Toots informs the
-Chicken, behind his hand, that the middle gentleman, he in the
-fawn-coloured pantaloons, is the father of his [[Love|love]]. The Chicken
-hoarsely whispers Mr Toots that he’s as stiff a cove as ever he see,
-but that it is within the resources of Science to [[Double|double]] him up, with
-one blow in the waistcoat.
+At last it is all gone. Nothing is left about the [[house]] but scattered
+[[Leaves|leaves]] of catalogues, littered scraps of straw and hay, and a battery
+of pewter pots behind the hall-door. The men with the carpet-caps
+gather up their screw-drivers and bed-winches into bags, shoulder them,
+and walk off. One of the pen-and-ink gentlemen goes over the [[house]] as a
+last attention; sticking up bills in the windows respecting the lease
+of this desirable family mansion, and shutting the shutters. At length
+he follows the men with the carpet caps. None of the invaders remain.
+The [[house]] is a ruin, and the rats fly from it.
 
-Mr Sownds and Mrs Miff are eyeing Mr Dombey from a little distance,
-when the noise of approaching wheels is heard, and Mr Sownds goes out.
-Mrs Miff, meeting Mr Dombey’s eye as it is withdrawn from the
-presumptuous maniac upstairs, who salutes him with so much urbanity,
-drops a curtsey, and informs him that she believes his “good lady” is
-come. Then there is a crowding and a whispering at the door, and the
-good lady enters, with a haughty step.
+Mrs Pipchin’s apartments, together with those locked rooms on the
+ground-floor where the [[Window|window]]-blinds are drawn down close, have been
+spared the general devastation. Mrs Pipchin has remained austere and
+stony during the proceedings, in her own room; or has occasionally
+looked in at the sale to see what the goods are fetching, and to bid
+for one particular easy chair. Mrs Pipchin has been the highest bidder
+for the easy chair, and sits upon her property when Mrs Chick comes to
+see her.
 
-There is no sign upon her face, of last [[Night|night]]’s [[Suffering|suffering]]; there is no
-trace in her manner, of the woman on the bended knees, reposing her
-wild head, in beautiful abandonment, upon the pillow of the sleeping
-girl. That girl, all gentle and lovely, is at her side—a striking
-contrast to her own disdainful and defiant figure, standing there,
-composed, erect, inscrutable of will, resplendent and majestic in the
-zenith of its charms, yet beating down, and treading on, the admiration
-that it challenges.
+“How is my brother, Mrs Pipchin?” says Mrs Chick.
 
-There is a pause while Mr Sownds the Beadle glides into the vestry for
-the clergyman and clerk. At this juncture, Mrs Skewton speaks to Mr
-Dombey: more distinctly and emphatically than her custom is, and moving
-at the same [[Time|time]], close to Edith.
+“I don’t know any more than the deuce,” says Mrs Pipchin. “He never
+does me the [[Honour|honour]] to speak to me. He has his meat and drink put in the
+next room to his own; and what he takes, he comes out and takes when
+there’s nobody there. It’s no use asking me. I know no more about him
+than the man in the south who burnt his mouth by eating cold plum
+porridge.”
 
-“My dear Dombey,” said the good Mama, “I [[Fear|fear]] I must relinquish darling
-Florence after all, and suffer her to go [[Home|home]], as she herself proposed.
-After my loss of today, my dear Dombey, I feel I shall not have
-spirits, even for her society.”
+This the acrimonious Pipchin says with a flounce.
 
-“Had she not better stay with you?” returns the Bridegroom.
+“But good gracious me!” cries Mrs Chick blandly. “How long is this to
+last! If my brother will not make an effort, Mrs Pipchin, what is to
+become of him? I am sure I should have thought he had seen enough of
+the consequences of not making an effort, by this [[Time|time]], to be warned
+against that fatal error.”
 
-“I think not, my dear Dombey. No, I think not. I shall be better [[Alone|alone]].
-Besides, my dearest Edith will be her natural and constant guardian
-when you return, and I had better not encroach upon her trust, perhaps.
-She might be jealous. Eh, dear Edith?”
+“Hoity toity!” says Mrs Pipchin, rubbing her nose. “There’s a great
+fuss, I think, about it. It ain’t so wonderful a case. People have had
+misfortunes before now, and been obliged to part with their furniture.
+I’m sure I have!”
 
-The affectionate Mama presses her daughter’s arm, as she says this;
-perhaps entreating her attention earnestly.
+“My brother,” pursues Mrs Chick profoundly, “is so peculiar—so strange
+a man. He is the most peculiar man I ever saw. Would anyone believe
+that when he received news of the [[Marriage|marriage]] and emigration of that
+unnatural [[Child|child]]—it’s a comfort to me, now, to remember that I always
+said there was something extraordinary about that [[Child|child]]: but nobody
+minds me—would anybody believe, I say, that he should then turn round
+upon me and say he had supposed, from my manner, that she had come to
+my [[house]]? Why, my gracious! And would anybody believe that when I
+merely say to him, ‘Paul, I may be very foolish, and I have no [[Doubt|doubt]] I
+am, but I cannot understand how your affairs can have got into this
+state,’ he should actually fly at me, and request that I will come to
+see him no more until he asks me! Why, my goodness!”
 
-“To be serious, my dear Dombey,” she resumes, “I will relinquish our
-dear [[Child|child]], and not inflict my gloom upon her. We have settled that,
-just now. She fully understands, dear Dombey. Edith, my dear,—she fully
-understands.”
+“Ah!” says Mrs Pipchin. “It’s a pity he hadn’t a little more to do with
+mines. They’d have tried his temper for him.”
 
-Again, the good mother presses her daughter’s arm. Mr Dombey offers no
-additional remonstrance; for the clergyman and clerk appear; and Mrs
-Miff, and Mr Sownds the Beadle, group the party in their proper places
-at the altar rails.
+“And what,” resumes Mrs Chick, quite regardless of Mrs Pipchin’s
+observations, “is it to end in? That’s what I want to know. What does
+my brother mean to do? He must do something. It’s of no use remaining
+shut up in his own rooms. Business won’t come to him. No. He must go to
+it. Then why don’t he go? He knows where to go, I suppose, having been
+a man of business all his life. Very good. Then why not go there?”
 
-The sun is shining down, upon the golden letters of the ten
-commandments. Why does the Bride’s eye read them, one by one? Which one
-of all the ten appears the plainest to her in the glare of light? False
-Gods; murder; theft; the [[Honour|honour]] that she owes her mother;—which is it
-that appears to leave the wall, and printing itself in glowing letters,
-on her book!
+Mrs Chick, after forging this powerful chain of reasoning, remains
+silent for a minute to admire it.
 
-“Who giveth this woman to be married to this man?”
-
-Cousin Feenix does that. He has come from Baden-Baden on purpose.
-“Confound it,” Cousin Feenix says—good-natured creature, Cousin
-Feenix—“when we do get a rich [[City]] fellow into the family, let us show
-him some attention; let us do something for him.”
-
-“I give this woman to be married to this man,” saith Cousin Feenix
-therefore. Cousin Feenix, meaning to go in a straight line, but turning
-off sideways by reason of his wilful legs, gives the wrong woman to be
-married to this man, at first—to wit, a brides—maid of some condition,
-distantly connected with the family, and ten years Mrs Skewton’s junior
-—but Mrs Miff, interposing her mortified bonnet, dexterously turns him
-back, and runs him, as on castors, full at the “good lady:” whom Cousin
-Feenix giveth to married to this man accordingly.
-
-And will they in the sight of heaven—?
-
-Ay, that they will: Mr Dombey says he will. And what says Edith? She
-will.
-
-So, from that day forward, for better for worse, for richer for poorer,
-in sickness and in health, to [[Love|love]] and to cherish, till [[Death|death]] do them
-part, they plight their troth to one another, and are married.
-
-In a firm, free hand, the Bride subscribes her name in the register,
-when they adjourn to the vestry. “There ain’t a many ladies come here,”
-Mrs Miff says with a curtsey—to look at Mrs Miff, at such a season, is
-to make her mortified bonnet go down with a dip—“writes their names
-like this good lady!” Mr Sownds the Beadle thinks it is a truly
-spanking signature, and worthy of the writer—this, however, between
-himself and [[Conscience|conscience]].
-
-Florence signs too, but unapplauded, for her hand shakes. All the party
-sign; Cousin Feenix last; who puts his noble name into a wrong place,
-and enrols himself as having been born that morning.
-
-The Major now salutes the Bride right gallantly, and carries out that
-branch of military tactics in reference to all the ladies:
-notwithstanding Mrs Skewton’s being extremely hard to kiss, and
-squeaking shrilly in the sacred edifice. The example is followed by
-Cousin Feenix and even by Mr Dombey. Lastly, Mr Carker, with his white
-teeth glistening, approaches Edith, more as if he meant to bite her,
-than to taste the sweets that linger on her lips.
+“Besides,” says the discreet lady, with an argumentative air, “who ever
+heard of such obstinacy as his staying shut up here through all these
+dreadful disagreeables? It’s not as if there was no place for him to go
+to. Of course he could have come to our [[house]]. He knows he is at [[Home|home]]
+there, I suppose? Mr Chick has perfectly bored about it, and I said
+with my own lips, ‘Why surely, Paul, you don’t imagine that because
+your affairs have got into this state, you are the less at [[Home|home]] to such
+near relatives as ourselves? You don’t imagine that we are like the
+rest of the world?’ But no; here he stays all through, and here he is.
+Why, good gracious me, suppose the [[house]] was to be let! What would he
+do then? He couldn’t remain here then. If he attempted to do so, there
+would be an ejectment, an action for Doe, and all sorts of things; and
+then he must go. Then why not go at first instead of at last? And that
+brings me back to what I said just now, and I naturally ask what is to
+be the end of it?”

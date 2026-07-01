@@ -14,6 +14,20 @@ tags:
 </nav>
 
 
+This undeveloped was the possibility, which [[Richard]] Swiveller sought to
+conceal even from himself, of his not being proof against the charms of
+Miss Wackles, and in some unguarded moment, by linking his fortunes to
+hers forever, of putting it out of his own power to further their
+notable scheme to which he had so readily become a party. For all these
+reasons, he decided to pick a quarrel with Miss Wackles without delay,
+and casting about for a pretext determined in favour of groundless
+[[Jealousy|jealousy]].  Having made up his mind on this important point, he
+circulated the glass (from his right hand to left, and back again)
+pretty freely, to enable him to act his part with the greater
+discretion, and then, after making some slight improvements in his
+toilet, bent his steps towards the spot hallowed by the fair object of
+his meditations.
+
 The spot was at Chelsea, for there Miss Sophia Wackles resided with her
 widowed mother and two sisters, in conjunction with whom she maintained
 a very small day-school for young ladies of proportionate dimensions; a
@@ -101,18 +115,3 @@ pretending to be angry; but having this cause reason and foundation
 which he had come expressly to seek, not expecting to find, [[Richard]]
 Swiveller was angry in sound earnest, and wondered what the devil
 Cheggs meant by his impudence.
-
-However, Mr Swiveller had Miss Sophy’s hand for the first quadrille
-(country-dances being low, were utterly proscribed) and so gained an
-advantage over his rival, who sat despondingly in a corner and
-contemplated the glorious figure of the young lady as she moved through
-the mazy [[Dance|dance]]. Nor was this the only start Mr Swiveller had of the
-market-gardener, for determining to show the family what quality of man
-they trifled with, and influenced perhaps by his late libations, he
-performed such feats of agility and such spins and twirls as filled the
-company with astonishment, and in particular caused a very long
-gentleman who was dancing with a very short scholar, to stand quite
-transfixed by [[Wonder|wonder]] and admiration. Even Mrs Wackles forgot for the
-moment to snub three small young ladies who were inclined to be happy,
-and could not repress a rising thought that to have such a dancer as
-that in the family would be a [[Pride|pride]] indeed.

@@ -14,6 +14,23 @@ tags:
 </nav>
 
 
+Dalroy found himself, with some bewilderment,
+round the corner of a rock and in a long bore or
+barrel of blackness that ended in a very dim spot of
+green.  Hearing the hoofs of the ass and the feet of
+his friend behind him, he turned his head, but could
+see nothing but the pitch darkness of a closed coal
+cellar.  He turned again to the dim green speck, and
+marching forward was glad to see it grow larger and
+brighter, like a big emerald, till he came out on a
+throng of trees, mostly thin, but growing so thickly
+and so close to the cavernous entrance of the tunnel
+that it was quite clear the place was meant to be
+choked up by forests and forgotten.  The light that
+came glimmering through the trees was so broken
+and tremulous that it was hard to tell whether it was
+daybreak or moonrise.
+
 "I know there's [[Water|water]] here," said Pump.  "They
 couldn't keep it out of the stone-work when they
 made the tunnel, and old Ivywood hit the hydraulic

@@ -1,5 +1,5 @@
 ---
-title: "[[Diddling]] (part 4)"
+title: "Diddling (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/diddling-(poe)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/diddling/part/part_03">‹ part 03</a><span></span></div>
 </nav>
 
+
+      former pays the reward, pockets the treasure and decamps.
+
+
+
+      Quite an analogous diddle is this. A lady of ton has dropped,
+
+      some where in the street, a diamond ring of very unusual value.
+
+      For its recovery, she offers some forty or fifty dollars
+
+      reward—giving, in her advertisement, a very minute description of
 
       the gem, and of its settings, and declaring that, on its
 

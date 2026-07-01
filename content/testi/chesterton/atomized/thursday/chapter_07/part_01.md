@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 7 (part 1)"
+title: "thursday — Chapter 7 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -17,7 +17,6 @@ tags:
                          CHAPTER VII
 
        THE UNACCOUNTABLE CONDUCT OF PROFESSOR DE WORMS
-
 
 "SIT down!" said [[Sunday]] in a voice that he used once or twice in his life,
 a voice that made men drop drawn swords.
@@ -140,19 +139,3 @@ he stepped back out of the street for a moment and stood up
 under the doorway of a small and greasy hair-dresser's shop,
 the front [[Window|window]] of which was empty, except for a sickly wax lady
 in evening dress.
-
-[[Snow]], however, began to thicken and fall fast; and Syme,
-having found one glance at the wax lady quite sufficient to depress
-his spirits, stared out instead into the white and empty street.
-He was considerably astonished to see, standing quite still
-outside the shop and staring into the [[Window|window]], a man.
-His top hat was loaded with [[Snow|snow]] like the hat of Father Christmas,
-the white drift was rising round his boots and ankles;
-but it seemed as if nothing could tear him away from the
-contemplation of the colourless wax doll in dirty evening dress.
-That any human being should stand in such weather looking
-into such a shop was a matter of sufficient [[Wonder|wonder]] to Syme;
-but his idle [[Wonder|wonder]] turned suddenly into a personal shock;
-for he realised that the man standing there was the paralytic old
-Professor de Worms.  It scarcely seemed the place for a person
-of his years and infirmities.

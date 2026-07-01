@@ -1,5 +1,5 @@
 ---
-title: "[[Shaw]] — THE LATER PHASES (part 5)"
+title: "Shaw — THE LATER PHASES (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/shaw-(chesterton)"
@@ -70,7 +70,7 @@ There is a certain [[Puritanism]] even in what many would call his lapses,
 theoretical or practical, into the [[philosophy]] of Nudism.
 He has given practical provocative expression to a vague but
 very widespread modern notion that nothing ought to be hidden;
-whether in the form of being photographed like an [[Artist|artist]]'s model,
+whether in the form of being photographed like an [[artist]]'s model,
 or of publishing the [[Love|love]] letters of an actress with whom
 the whole world was in [[Love|love]].  These are acts of bad taste;
 but not of inconsistency and certainly not merely of levity.
@@ -128,7 +128,7 @@ these are coincidences fitted, not so much for the Victorian
 more and more widely recognised in Europe; and the official
 defence of Darwinism is wearing very thin even in England.
 It had its most conspicuous collapse in the astonishing incident
-of the encounter between Sir [[arthur|Arthur]] Keith and Mr. Belloc.
+of the encounter between Sir [[Arthur]] Keith and Mr. Belloc.
 If our public opinion were enlightened about the latest scientific
 news, that encounter would be recognised as a decisive battle.
 Mr. Wells had suggested that there was no scientific
@@ -137,12 +137,12 @@ a score of scientific names and quotations to the contrary;
 including one from Vialleton.  Mr. Wells seemed to be sufficiently
 soothed by finding that the printer had misspelt the name
 of Vialleton on one particular page.  He was easily pleased.
-Sir [[arthur|Arthur]] Keith did make some attempt to deal with the matter
+Sir [[Arthur]] Keith did make some attempt to deal with the matter
 in dispute; and his contribution was a flat contradiction;
 he said that Vialleton had never said anything of the sort.
 It was then discovered, to the [[Wonder|wonder]] of the world, that Mr. Belloc,
 that obscure amateur, was talking about the last and most important
-book by Vialleton, of which Sir [[arthur|Arthur]] Keith, that supreme specialist,
+book by Vialleton, of which Sir [[Arthur]] Keith, that supreme specialist,
 had never even heard.  Our specialists are very fortunate.
 Reputations are ruined for ever by that sort of thing, when it
 happens on the Continent.

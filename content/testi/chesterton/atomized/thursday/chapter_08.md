@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 8"
+title: "thursday — Chapter 8"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/thursday-(chesterton)"
@@ -17,7 +17,6 @@ tags:
                          CHAPTER VIII
 
                     [[The Professor|THE PROFESSOR]] EXPLAINS
-
 
 WHEN [[Gabriel Syme]] found himself finally established in a chair,
 and opposite to him, fixed and final also, the lifted eyebrows
@@ -449,7 +448,7 @@ of laughter, or (if they were too far gone) with a roar of
 indignation at the insult.  I cannot describe the surprise I felt
 when my entrance was received with a respectful [[Silence|silence]], followed
 (when I had first opened my lips) with a murmur of admiration.
-The curse of the perfect [[Artist|artist]] had fallen upon me.
+The curse of the perfect [[artist]] had fallen upon me.
 I had been too subtle, I had been too true.  They thought I
 really was the great Nihilist Professor.  I was a healthy-minded
 young man at the [[Time|time]], and I confess that it was a blow.

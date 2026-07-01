@@ -14,6 +14,50 @@ tags:
 </nav>
 
 
+heaven as human [[Nature|nature]] could take it. If Thackeray is our youth,
+
+Stevenson is our boyhood: and though this is not the most artistic
+
+thing in him, it is the most important thing in the [[history]] of Victorian
+
+art. All the other fine things he did were, for curious reasons, remote
+
+from the current of his age. For instance, he had the good as [[Well|well]] as
+
+the bad of coming from a Scotch Calvinist's [[house]]. No man in that age
+
+had so healthy an instinct for the actuality of positive evil. In _The
+
+Master of Ballantrae_ he did prove with a pen of steel, that the Devil
+
+is a gentleman--but is none the less the Devil. It is also
+
+characteristic of him (and of the revolt from Victorian respectability
+
+in general) that his most [[Blood|blood]]-and-thunder sensational tale is also
+
+that which contains his most intimate and bitter [[Truth|truth]]. _Dr. Jekyll and
+
+Mr. Hyde_ is a [[Double|double]] triumph; it has the outside excitement that
+
+belongs to Conan Doyle with the inside excitement that belongs to Henry
+
+James. Alas, it is equally characteristic of the Victorian [[Time|time]] that
+
+while nearly every Englishman has enjoyed the anecdote, hardly one
+
+Englishman has seen the joke--I mean the point. You will find twenty
+
+allusions to Jekyll and Hyde in a day's newspaper reading. You will also
+
+find that all such allusions suppose the two personalities to be equal,
+
+neither caring for the other. Or more roughly, they think the book means
+
+that man can be cloven into two creatures, good and evil. The whole stab
+
+of the story is that man _can't_: because while evil does not care for
+
 good, good must care for evil. Or, in other words, man cannot escape
 
 from God, because good is the God in man; and insists on omniscience.
@@ -23,8 +67,6 @@ This point, which is good psychology and also good theology and also
 good art, has missed its main intention merely because it was also good
 
 story-telling.
-
-
 
 If the rather vague Victorian public did not appreciate the deep and
 
@@ -63,8 +105,6 @@ of sport, war, or [[Comradeship|comradeship]]: and here and there his note is fa
 these matters, and reminds one (though very remotely) of the mere
 
 provincial bully that Henley sometimes sank to be.
-
-
 
 For Stevenson had at his elbow a friend, an invalid like himself, a man
 
@@ -108,8 +148,6 @@ the stamp of the thing called genius; that indefinable, dangerous and
 
 often temporary thing.
 
-
-
 For it is really impossible to criticise Rudyard Kipling as part of
 
 Victorian literature, because he is the end of such literature. He has
@@ -123,8 +161,6 @@ makes him sympathetic with the man that crushes the Indian; a vague
 journalistic sympathy with the men that misrepresent everything that has
 
 happened to the Indian; but of the Victorian virtues, nothing.
-
-
 
 All that was right or wrong in Kipling was expressed in the final
 
@@ -147,73 +183,3 @@ seriously end here. The world was full of the trampling of totally new
 forces, gold was sighted from far in a sort of cynical romanticism: the
 
 guns opened across Africa; and the great [[Queen|queen]] died.
-
-
-
-       *       *       *       *       *
-
-
-
-Of what will now be the future of so separate and almost secretive an
-
-adventure of the English, the present writer will not permit himself,
-
-even for an instant, to prophesy. The Victorian Age made one or two
-
-mistakes, but they were mistakes that were really useful; that is,
-
-mistakes that were really mistaken. They thought that commerce outside a
-
-country must extend peace: it has certainly often extended war. They
-
-thought that commerce inside a country must certainly promote
-
-prosperity; it has largely promoted [[Poverty|poverty]]. But for them these were
-
-experiments; for us they ought to be lessons. If _we_ continue the
-
-capitalist use of the populace--if _we_ continue the capitalist use of
-
-external arms, it will lie heavy on the living. The dishonour will not
-
-be on the dead.
-
-
-
-
-
-
-
-
-
-BIBLIOGRAPHICAL NOTE
-
-
-
-
-
-After having surveyed the immense field presented in such a volume as
-
-Mr. George Mair's _Modern English Literature_ in this series, or, more
-
-fully, in the _Cambridge [[history|History]] of Modern Literature_, the later volume
-
-of Chambers' _English Literature_, Mr. Gosse's _History of Modern
-
-English Literature_, or Henry Morley's _English Literature in the Reign
-
-of Victoria_, the wise reader will choose some portion for closer study,
-
-and will go straight to the originals before he has any further traffic
-
-with critics or commentators, however able.
-
-
-
-He will then need the aid of fuller biographies. Some Victorian _Lives_
-
-are already classic, or nearly so, among them Sir G. Trevelyan's
-
-_Macaulay_, Forster's _Dickens_, Mrs. Gaskell's _Charlotte Brontë_,
-
-Froude's _Carlyle_, and Sir E. T. Cook's _Ruskin_. With these may be

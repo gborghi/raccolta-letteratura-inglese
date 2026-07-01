@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 25 (part 2)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 25 (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_24/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_24/part_03">part 03 ›</a></div>
 </nav>
 
+
+was Nu-Nu--that he had no knowledge of Bennet's Islet--and that the
+
+appellation of the island we had left was _Tsalal_. The commencement of
 
 the words _Tsalemon_ and _Tsalal_ was given with a prolonged hissing
 
@@ -213,17 +217,3 @@ of Mr. Pym are already [[Well|well]] known to the public through the medium of
 the daily press. It is feared that the few remaining chapters which
 
 were to have completed his narrative, and which were retained by him,
-
-while the above were in type, for the purpose of revision, have been
-
-irrecoverably lost through the accident by which he perished himself.
-
-This, however, may prove not to be the case, and the papers, if
-
-ultimately found, will be given to the public.
-
-
-
-No means have been left untried to remedy the deficiency. The gentleman
-
-whose name is mentioned in the preface, and who, from the statement

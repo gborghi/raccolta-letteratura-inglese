@@ -1,5 +1,5 @@
 ---
-title: "whats wrong — Part 1 (part 5)"
+title: "whats wrong — Part 2 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/whats-wrong-(chesterton)"
@@ -10,146 +10,160 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/whats-wrong-(chesterton)">whats wrong</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/whats_wrong/chapter_06/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/whats_wrong/chapter_06/part_06">part 06 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/whats_wrong/chapter_06/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/whats_wrong/chapter_07/part_01">part 01 ›</a></div>
 </nav>
 
 
-Doctrine, therefore, does not cause dissensions;
-rather a doctrine [[Alone|alone]] can cure our dissensions.
-It is necessary to ask, however, roughly, what abstract and
-ideal shape in state or family would fulfil the human hunger;
-and this apart from whether we can completely obtain it or not.
-But when we come to ask what is the need of normal men,
-what is the [[Desire|desire]] of all nations, what is the ideal [[house]],
-or [[Road|road]], or rule, or republic, or [[King|king]], or priesthood,
-then we are confronted with a strange and irritating difficulty
-peculiar to the present [[Time|time]]; and we must call a temporary halt
-and examine that obstacle.
+Now it can be easily shown that the thing we call aristocracy
+in Europe is not in its origin and spirit an aristocracy at all.
+It is not a system of spiritual degrees and distinctions like,
+for example, the caste system of India, or even like the old Greek
+distinction between free men and slaves.  It is simply the remains
+of a military organization, framed partly to sustain the sinking
+Roman Empire, partly to break and avenge the awful onslaught
+of [[Islam]].  The word Duke simply means Colonel, just as the word
+Emperor simply means Commander-in-Chief. The whole story is told
+in the single title of Counts of the Holy Roman Empire, which merely
+means officers in the European army against the contemporary
+Yellow Peril.  Now in an army nobody ever [[Dreams|dreams]] of supposing
+that difference of rank represents a difference of moral reality.
+Nobody ever says about a regiment, "Your Major is very humorous
+and energetic; your Colonel, of course, must be even more
+humorous and yet more energetic."  No one ever says, in reporting
+a mess-room conversation, "Lieutenant [[Jones]] was very witty,
+but was naturally inferior to Captain [[smith|Smith]]."  The essence of an army
+is the idea of official inequality, founded on unofficial equality.
+The Colonel is not obeyed because he is the best man, but because he is
+the Colonel.  Such was probably the spirit of the system of dukes
+and counts when it first arose out of the military spirit and military
+necessities of Rome.  With the decline of those necessities it
+has gradually ceased to have meaning as a military organization,
+and become honeycombed with unclean plutocracy.  Even now it
+is not a spiritual aristocracy--it is not so bad as all that.
+It is simply an army without an enemy--billeted upon the people.
+
+Man, therefore, has a specialist as [[Well|well]] as comrade-like aspect;
+and the case of militarism is not the only case of such
+specialist submission.  The tinker and tailor, as [[Well|well]] as the soldier
+and sailor, require a certain rigidity of rapidity of action:
+at least, if the tinker is not organized that is largely why he does
+not tink on any large scale.  The tinker and tailor often represent
+the two nomadic races in Europe:  the Gipsy and the Jew; but the Jew
+[[Alone|alone]] has influence because he [[Alone|alone]] accepts some sort of discipline.
+Man, we say, has two sides, the specialist side where he must
+have subordination, and the social side where he must have equality.
+There is a [[Truth|truth]] in the saying that ten tailors go to make a man;
+but we must remember also that ten Poets Laureate or ten Astronomers Royal
+go to make a man, too.  Ten million tradesmen go to make Man himself;
+but humanity consists of tradesmen when they are not talking shop.
+Now the peculiar peril of our [[Time|time]], which I call for argument's sake
+Imperialism or Caesarism, is the complete eclipse of [[Comradeship|comradeship]]
+and equality by specialism and domination.
+
+There are only two kinds of social structure conceivable--
+personal [[government]] and impersonal [[government]].  If my
+anarchic friends will not have rules--they will have rulers.
+Preferring personal [[government]], with its tact and flexibility,
+is called Royalism.  Preferring impersonal [[government]],
+with its dogmas and definitions, is called Republicanism.
+Objecting broadmindedly both to kings and creeds is called Bosh;
+at least, I know no more philosophic word for it.  You can
+be guided by the shrewdness or presence of mind of one ruler,
+or by the equality and ascertained justice of one rule; but you must
+have one or the other, or you are not a nation, but a nasty mess.
+Now men in their aspect of equality and [[debate]] adore the idea
+of rules; they develop and complicate them greatly to excess.
+A man finds far more regulations and definitions in his club,
+where there are rules, than in his [[Home|home]], where there is a ruler.
+A deliberate assembly, the [[house|House]] of Commons, for instance,
+carries this mummery to the point of a methodical [[Madness|madness]].
+The whole system is stiff with rigid unreason;
+like the Royal [[Court]] in Lewis Carroll.  You would think
+the Speaker would speak; therefore he is mostly silent.
+You would think a man would take off his hat to stop and put
+it on to go away; therefore he takes off his hat to walk out
+and puts it on to stop in.  Names are forbidden, and a man
+must call his own father "my right honorable friend the member
+for West Birmingham."  These are, perhaps, fantasies of [[Decay|decay]]:
+but fundamentally they answer a masculine appetite.
+Men feel that rules, even if irrational, are universal;
+men feel that law is equal, even when it is not equitable.
+There is a wild fairness in the thing--as there is in tossing up.
+
+Again, it is gravely unfortunate that when critics do attack
+such cases as the Commons it is always on the points
+(perhaps the few points) where the Commons are right.
+They denounce the [[house|House]] as the Talking-Shop, and complain that it
+wastes [[Time|time]] in wordy mazes.  Now this is just one respect in
+which the Commons are actually like the Common People.  If they
+[[Love|love]] leisure and long [[debate]], it is because all men [[Love|love]] it;
+that they really represent England.  There the Parliament does
+approach to the virile virtues of the pothouse.
+
+The real [[Truth|truth]] is that adumbrated in the introductory section
+when we spoke of the sense of [[Home|home]] and property, as now we speak
+of the sense of counsel and community.  All men do naturally
+[[Love|love]] the idea of leisure, laughter, loud and equal argument;
+but there stands a specter in our hall.  We are conscious
+of the towering modern challenge that is called specialism
+or cut-throat competition--Business.  Business will have nothing
+to do with leisure; business will have no truck with [[Comradeship|comradeship]];
+business will pretend to no patience with all the legal
+fictions and fantastic handicaps by which [[Comradeship|comradeship]] protects
+its egalitarian ideal.  The modern millionaire, when engaged
+in the agreeable and typical task of sacking his own father,
+will certainly not refer to him as the right honorable clerk from
+the Laburnum [[Road]], Brixton.  Therefore there has arisen in modern
+life a literary fashion devoting itself to the [[Romance|romance]] of business,
+to great demigods of [[Greed|greed]] and to fairyland of finance.
+This popular [[philosophy]] is utterly despotic and anti-democratic;
+this fashion is the flower of that Caesarism against which I am
+concerned to protest.  The ideal millionaire is strong in the
+possession of a brain of steel.  The fact that the real millionaire
+is rather more often strong in the possession of a head of wood,
+does not alter the spirit and trend of the idolatry.  The essential
+argument is "Specialists must be despots; men must be specialists.
+You cannot have equality in a soap factory; so you cannot have
+it anywhere.  You cannot have [[Comradeship|comradeship]] in a wheat corner;
+so you cannot have it at all.  We must have commercial civilization;
+therefore we must destroy [[Democracy|democracy]]."  I know that plutocrats have
+seldom sufficient fancy to soar to such examples as soap or wheat.
+They generally confine themselves, with fine freshness of mind,
+to a comparison between the state and a [[Ship|ship]].  One anti-democratic
+writer remarked that he would not like to sail in a vessel
+in which the cabin-boy had an equal vote with the captain.
+It might easily be urged in answer that many a [[Ship|ship]] (the Victoria,
+for instance) was sunk because an admiral gave an order which a
+cabin-boy could see was wrong.  But this is a debating reply;
+the essential fallacy is both deeper and simpler.  The elementary fact
+is that we were all born in a state; we were not all born on a [[Ship|ship]];
+like some of our great British bankers.  A [[Ship|ship]] still remains
+a specialist experiment, like a diving-bell or a flying [[Ship|ship]]:
+in such peculiar perils the need for promptitude constitutes the need
+for autocracy.  But we live and die in the vessel of the state;
+and if we cannot find [[Freedom|freedom]] camaraderie and the popular element
+in the state, we cannot find it at all.  And the modern doctrine
+of commercial despotism means that we shall not find it at all.
+Our specialist trades in their highly civilized state cannot
+(it says) be run without the whole brutal business of bossing
+and sacking, "too old at forty" and all the rest of the filth.
+And they must be run, and therefore we call on Caesar.  Nobody but
+the Superman could descend to do such dirty work.
+
+Now (to reiterate my title) this is what is wrong.  This is the huge
+modern heresy of altering the human [[Soul|soul]] to fit its conditions,
+instead of altering human conditions to fit the human [[Soul|soul]].
+If soap boiling is really inconsistent with brotherhood,
+so much the worst for soap-boiling, not for brotherhood.
+If civilization really cannot get on with [[Democracy|democracy]], so much
+the worse for civilization, not for [[Democracy|democracy]].  Certainly, it would
+be far better to go back to village communes, if they really
+are communes.  Certainly, it would be better to do without soap
+rather than to do without society.  Certainly, we would sacrifice
+all our wires, wheels, systems, specialties, physical science
+and frenzied finance for one half-hour of happiness such
+as has often come to us with comrades in a common tavern.
+I do not say the sacrifice will be necessary; I only say it
+will be easy.
 
 * * *
-
-IV
-
-THE [[Fear|FEAR]] OF THE PAST
-
-The last few decades have been marked by a special cultivation
-of the [[Romance|romance]] of the future.  We seem to have made up our minds
-to misunderstand what has happened; and we turn, with a sort of relief,
-to stating what will happen--which is (apparently) much easier.
-The modern man no longer presents the memoirs of his great grandfather;
-but is engaged in writing a detailed and authoritative [[Biography|biography]]
-of his great-grandson. Instead of trembling before the specters
-of the dead, we shudder abjectly under the [[Shadow|shadow]] of the babe [[unborn]].
-This spirit is apparent everywhere, even to the creation of a form
-of futurist [[Romance|romance]].  Sir Walter Scott stands at the [[Dawn|dawn]] of
-the nineteenth century for the [[Novel|novel]] of the past; Mr. H. G. Wells
-stands at the [[Dawn|dawn]] of the twentieth century for the [[Novel|novel]]
-of the future.  The old story, we know, was supposed to begin:
-"Late on a [[Winter|winter]]'s evening two horsemen might have been seen--."
-The new story has to begin:  "Late on a [[Winter|winter]]'s evening two aviators
-will be seen--." The movement is not without its elements of charm;
-there is something spirited, if eccentric, in the sight of so many
-people fighting over again the fights that have not yet happened;
-of people still glowing with the [[Memory|memory]] of tomorrow morning.
-A man in advance of the age is a familiar phrase enough.
-An age in advance of the age is really rather odd.
-
-But when full allowance has been made for this harmless
-element of poetry and pretty human perversity in the thing,
-I shall not hesitate to maintain here that this cult of
-the future is not only a weakness but a cowardice of the age.
-It is the peculiar evil of this epoch that even its pugnacity
-is fundamentally frightened; and the Jingo is contemptible
-not because he is impudent, but because he is timid.
-The reason why modern armaments do not inflame the [[Imagination|imagination]]
-like the arms and emblazonments of the [[Crusades]] is a reason
-quite apart from optical ugliness or [[Beauty|beauty]].  Some battleships
-are as beautiful as the sea; and many Norman nosepieces were
-as ugly as Norman noses.  The atmospheric ugliness that surrounds
-our scientific war is an emanation from that evil panic which is
-at the heart of it.  The charge of the [[Crusades]] was a charge;
-it was charging towards God, the wild consolation of the braver.
-The charge of the modern armaments is not a charge at all.
-It is a rout, a retreat, a flight from the devil, who will catch
-the hindmost.  It is impossible to imagine a mediaeval knight
-talking of longer and longer French lances, with precisely
-the quivering employed about larger and larger German ships The
-man who called the Blue [[Water]] School the "Blue Funk School"
-uttered a psychological [[Truth|truth]] which that school itself would
-scarcely essentially deny.  Even the two-power standard,
-if it be a necessity, is in a sense a degrading necessity.
-Nothing has more alienated many magnanimous minds from Imperial
-enterprises than the fact that they are always exhibited as stealthy
-or sudden defenses against a world of cold rapacity and [[Fear|fear]].
-The Boer War, for instance, was colored not so much by the creed
-that we were doing something right, as by the creed that Boers
-and Germans were probably doing something wrong; driving us
-(as it was said) to the sea.  Mr. Chamberlain, I think,
-said that the war was a feather in his cap and so it was:
-a white feather.
-
-Now this same primary panic that I feel in our rush towards patriotic
-armaments I feel also in our rush towards future visions of society.
-The modern mind is forced towards the future by a certain sense
-of fatigue, not unmixed with terror, with which it regards the past.
-It is propelled towards the coming [[Time|time]]; it is, in the exact words
-of the popular phrase, knocked into the middle of next week.
-And the goad which drives it on thus eagerly is not an affectation
-for futurity Futurity does not exist, because it is still future.
-Rather it is a [[Fear|fear]] of the past; a [[Fear|fear]] not merely of
-the evil in the past, but of the good in the past also.
-The brain breaks down under the unbearable virtue of mankind.
-There have been so many flaming faiths that we cannot hold;
-so many harsh heroisms that we cannot imitate; so many
-great efforts of monumental building or of military glory
-which seem to us at once [[Sublime|sublime]] and pathetic.  The future
-is a refuge from the fierce competition of our forefathers.
-The older generation, not the younger, is knocking at our door.
-It is agreeable to escape, as Henley said, into the Street
-of By-and-Bye, where stands the Hostelry of Never.  It is
-pleasant to play with children, especially [[unborn]] children.
-The future is a blank wall on which every man can write his own
-name as large as he likes; the past I find already covered
-with illegible scribbles, such as Plato, Isaiah, Shakespeare,
-[[Michael]] [[Angelo]], Napoleon.  I can make the future as narrow as myself;
-the past is obliged to be as broad and turbulent as humanity.
-And the upshot of this modern attitude is really this:
-that men invent new ideals because they dare not attempt old ideals.
-They look forward with enthusiasm, because they are afraid
-to look back.
-
-Now in [[history]] there is no Revolution that is not a Restoration.
-Among the many things that leave me doubtful about the modern
-habit of fixing eyes on the future, none is stronger than this:
-that all the men in [[history]] who have really done anything
-with the future have had their eyes fixed upon the past.
-I need not mention the [[Renaissance]], the very word proves my case.
-The originality of [[Michael]] [[Angelo]] and Shakespeare began with
-the digging up of old vases and manuscripts.  The mildness
-of poets absolutely arose out of the mildness of antiquaries.
-So the great mediaeval revival was a [[Memory|memory]] of the Roman Empire.
-So the [[Reformation]] looked back to the [[Bible]] and [[Bible]] times.
-So the modern Catholic movement has looked back to patristic times.
-But that modern movement which many would count the most
-anarchic of all is in this sense the most conservative of all.
-Never was the past more venerated by men than it was by the
-French Revolutionists.  They invoked the little republics of
-antiquity with the complete confidence of one who invokes the gods.
-The Sans-culottes believed (as their name might imply) in a return
-to simplicity.  They believed most piously in a remote past;
-some might call it a mythical past.  For some strange reason
-man must always thus plant his fruit trees in a graveyard.
-Man can only find life among the dead.  Man is a misshapen [[Monster|monster]],
-with his feet set forward and his face turned back.  He can make
-the future luxuriant and gigantic, so long as he is thinking
-about the past.  When he tries to think about the future itself,
-his mind diminishes to a pin point with imbecility, which some
-call Nirvana.  To-morrow is the Gorgon; a man must only see it
-mirrored in the shining shield of yesterday.  If he sees it directly
-he is turned to stone.  This has been the fate of all those who
-have really seen fate and futurity as clear and inevitable.
-The Calvinists, with their perfect creed of predestination,
-were turned to stone.  The modern sociological scientists
-(with their excruciating [[Eugenics]]) are turned to stone.
-The only difference is that the Puritans make dignified,
-and the Eugenists somewhat amusing, statues.

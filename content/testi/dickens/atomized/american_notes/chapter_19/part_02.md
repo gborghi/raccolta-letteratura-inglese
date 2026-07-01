@@ -15,14 +15,14 @@ tags:
 
 
 These three characteristics are strongly presented at every turn, full in
-the stranger’s view.  But, the foul growth of [[America]] has a more tangled
+the stranger’s view.  But, the foul growth of [[america|America]] has a more tangled
 root than this; and it strikes its fibres, deep in its licentious Press.
 
 Schools may be erected, East, West, North, and South; pupils be taught,
 and masters reared, by scores upon scores of thousands; colleges may
 thrive, churches may be crammed, temperance may be diffused, and
 advancing knowledge in all other forms walk through the land with giant
-strides: but while the newspaper press of [[America]] is in, or near, its
+strides: but while the newspaper press of [[america|America]] is in, or near, its
 present abject state, high moral improvement in that country is hopeless.
 Year by year, it must and will go back; year by year, the tone of public
 feeling must sink lower down; year by year, the Congress and the Senate
@@ -37,7 +37,7 @@ publications of this class, I have derived both pleasure and profit.  But
 the name of these is Few, and of the others Legion; and the influence of
 the good, is powerless to counteract the moral [[Poison|poison]] of the bad.
 
-Among the gentry of [[America]]; among the [[Well|well]]-informed and moderate: in the
+Among the gentry of [[america|America]]; among the [[Well|well]]-informed and moderate: in the
 learned professions; at the bar and on the bench: there is, as there can
 be, but one opinion, in reference to the vicious character of these
 infamous journals.  It is sometimes contended—I will not say strangely,
@@ -47,7 +47,7 @@ for saying that there is no warrant for this plea, and that every fact
 and circumstance tends directly to the opposite conclusion.
 
 When any man, of any grade of [[Desert|desert]] in intellect or character, can climb
-to any public distinction, no matter what, in [[America]], without first
+to any public distinction, no matter what, in [[america|America]], without first
 grovelling down upon the earth, and bending the knee before this [[Monster|monster]]
 of depravity; when any private excellence is safe from its attacks; when
 any social confidence is left unbroken by it, or any tie of social
@@ -72,7 +72,7 @@ respectable journals of the Continent of Europe; to those who are
 accustomed to anything else in print and paper; it would be impossible,
 without an amount of extract for which I have neither space nor
 inclination, to convey an adequate idea of this frightful engine in
-[[America]].  But if any man [[Desire|desire]] confirmation of my statement on this
+[[america|America]].  But if any man [[Desire|desire]] confirmation of my statement on this
 head, let him repair to any place in this [[City|city]] of [[London]], where scattered
 numbers of these publications are to be found; and there, let him form
 his own opinion. {206}
@@ -106,14 +106,14 @@ tendency towards this mistake, even in his [[Time|time]], and did his utmost to
 correct it.
 
 I cannot hold with other writers on these subjects that the prevalence of
-various forms of dissent in [[America]], is in any way attributable to the
+various forms of dissent in [[america|America]], is in any way attributable to the
 non-existence there of an established church: indeed, I think the temper
 of the people, if it admitted of such an Institution being founded
 amongst them, would lead them to [[Desert|desert]] it, as a matter of course, merely
 because it _was_ established.  But, supposing it to exist, I [[Doubt|doubt]] its
 probable efficacy in summoning the wandering sheep to one great fold,
 simply because of the immense amount of dissent which prevails at [[Home|home]];
-and because I do not find in [[America]] any one form of religion with which
+and because I do not find in [[america|America]] any one form of religion with which
 we in Europe, or even in England, are unacquainted.  Dissenters resort
 thither in great numbers, as other people do, simply because it is a land
 of resort; and great settlements of them are founded, because ground can

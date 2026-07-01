@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 43: FORTY THREE (part 2)"
+title: "Martin Chuzzlewit — Chapter 43: FORTY THREE (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_43_forty_three/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_43_forty_three/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘Mr [[Martin Chuzzlewit]]’s outside,’ he said. ‘I left him under the
+cartshed, while I came on to see if there was anybody here. We want to
+keep quiet to-[[Night|night]], till we know the news from you, and what it’s best
+for us to do.’
+
+‘There’s not a [[Soul|soul]] in the [[house]], except the kitchen company,’ returned
+the hostess. ‘If they were to know you had come back, Mark, they’d have
+a bonfire in the street, late as it is.’
 
 ‘But they mustn’t know it to-[[Night|night]], my precious [[Soul|soul]],’ said Mark; ‘so
 have the [[house]] shut, and the kitchen [[Fire|fire]] made up; and when it’s all
@@ -124,27 +133,3 @@ have to tell you of, when you have done your supper!’
 Don’t be at all alarmed about her. She is everything you could wish.
 It’s of no use mincing matters, or making [[Secrets|secrets]], is it?’ added Mrs
 Lupin. ‘I know all about it, you see!’
-
-‘My good creature,’ returned Martin, ‘you are exactly the person who
-ought to know all about it. I am delighted to think you DO know about
-that! But what changes do you hint at? Has any [[Death|death]] occurred?’
-
-‘No, no!’ said the hostess. ‘Not as bad as that. But I declare now that
-I will not be drawn into saying another word till you have had your
-supper. If you ask me fifty questions in the meantime, I won’t answer
-one.’
-
-She was so positive, that there was nothing for it but to get the supper
-over as quickly as possible; and as they had been walking a great many
-miles, and had fasted since the middle of the day, they did no great
-violence to their own inclinations in falling on it tooth and nail. It
-took rather longer to get through than might have been expected; for,
-half-a-dozen times, when they thought they had finished, Mrs Lupin
-exposed the fallacy of that impression triumphantly. But at last, in
-the course of [[Time|time]] and [[Nature|nature]], they gave in. Then, sitting with
-their slippered feet stretched out upon the kitchen hearth (which was
-wonderfully comforting, for the [[Night|night]] had grown by this [[Time|time]] raw and
-chilly), and looking with involuntary admiration at their dimpled,
-buxom, blooming hostess, as the firelight sparkled in her eyes and
-glimmered in her raven hair, they composed themselves to listen to her
-news.

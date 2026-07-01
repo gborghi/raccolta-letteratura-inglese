@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 9 (part 1)"
+title: "Dombey and Son — Chapter 37 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -10,108 +10,129 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/dombey-and-son-(dickens)">Dombey and Son</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_64/part_08">‹ part 08</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_65/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_64/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_65/part_02">part 02 ›</a></div>
 </nav>
 
 
-CHAPTER IX.
-In which the Wooden Midshipman gets into Trouble
+CHAPTER XXXVII.
+More Warnings than One
 
 
-That spice of [[Romance|romance]] and [[Love|love]] of the marvellous, of which there was a
-pretty strong infusion in the [[Nature|nature]] of young [[Walter Gay]], and which the
-guardianship of his Uncle, old [[Solomon Gills]], had not very much
-weakened by the waters of stern practical experience, was the occasion
-of his attaching an uncommon and delightful interest to the adventure
-of Florence with Good Mrs Brown. He pampered and cherished it in his
-[[Memory|memory]], especially that part of it with which he had been associated:
-until it became the spoiled [[Child|child]] of his fancy, and took its own way,
-and did what it liked with it.
+Florence, Edith, and Mrs Skewton were together next day, and the
+carriage was waiting at the door to take them out. For [[Cleopatra]] had
+her galley again now, and Withers, no longer the wan, stood upright in
+a pigeon-breasted jacket and military trousers, behind her [[Wheel|wheel]]-less
+chair at dinner-[[Time|time]] and butted no more. The hair of Withers was
+radiant with pomatum, in these days of down, and he wore kid gloves and
+smelt of the [[Water|water]] of Cologne.
 
-The recollection of those incidents, and his own share in them, may
-have been made the more captivating, perhaps, by the weekly dreamings
-of old Sol and [[Captain Cuttle]] on Sundays. Hardly a [[Sunday]] passed,
-without mysterious references being made by one or other of those
-worthy chums to [[Richard]] Whittington; and the latter gentleman had even
-gone so far as to purchase a ballad of considerable antiquity, that had
-long fluttered among many others, chiefly expressive of maritime
-sentiments, on a dead wall in the Commercial [[Road]]: which poetical
-performance set forth the courtship and nuptials of a promising young
-coal-whipper with a certain “lovely Peg,” the accomplished daughter of
-the master and part-owner of a Newcastle collier. In this stirring
-legend, [[Captain Cuttle]] descried a profound metaphysical bearing on the
-case of Walter and Florence; and it excited him so much, that on very
-festive occasions, as birthdays and a few other non-Dominical holidays,
-he would roar through the whole [[Song|song]] in the little back parlour; making
-an amazing shake on the word Pe-e-eg, with which every verse concluded,
-in compliment to the heroine of the piece.
+They were assembled in [[Cleopatra]]’s room. The Serpent of old Nile (not
+to mention her disrespectfully) was reposing on her sofa, sipping her
+morning chocolate at three o’[[Clock|clock]] in the afternoon, and [[Flowers]] the
+Maid was fastening on her youthful cuffs and frills, and performing a
+kind of private coronation ceremony on her, with a peach-coloured
+velvet bonnet; the artificial roses in which nodded to uncommon
+advantage, as the palsy trifled with them, like a breeze.
 
-But a frank, free-spirited, open-hearted boy, is not much given to
-analysing the [[Nature|nature]] of his own feelings, however strong their hold
-upon him: and Walter would have found it difficult to decide this
-point. He had a great affection for the wharf where he had encountered
-Florence, and for the streets (albeit not enchanting in themselves) by
-which they had come [[Home|home]]. The shoes that had so often tumbled off by
-the way, he preserved in his own room; and, sitting in the little back
-parlour of an evening, he had drawn a whole gallery of fancy portraits
-of Good Mrs Brown. It may be that he became a little smarter in his
-dress after that memorable occasion; and he certainly liked in his
-leisure [[Time|time]] to walk towards that quarter of the town where Mr Dombey’s
-[[house]] was situated, on the vague chance of passing little Florence in
-the street. But the sentiment of all this was as boyish and [[Innocent|innocent]] as
-could be. Florence was very pretty, and it is pleasant to admire a
-pretty face. Florence was defenceless and weak, and it was a proud
-thought that he had been able to render her any protection and
-assistance. Florence was the most grateful little creature in the
-world, and it was delightful to see her bright gratitude beaming in her
-face. Florence was neglected and coldly looked upon, and his breast was
-full of youthful interest for the slighted [[Child|child]] in her dull, stately
-[[Home|home]].
+“I think I am a little nervous this morning, [[Flowers]],” said Mrs
+Skewton. “My hand quite shakes.”
 
-Thus it came about that, perhaps some half-a-dozen times in the course
-of the year, Walter pulled off his hat to Florence in the street, and
-Florence would stop to shake hands. Mrs Wickam (who, with a
-characteristic alteration of his name, invariably spoke of him as
-“Young Graves”) was so [[Well|well]] used to this, knowing the story of their
-acquaintance, that she took no heed of it at all. Miss Nipper, on the
-other hand, rather looked out for these occasions: her sensitive young
-heart being secretly propitiated by Walter’s good looks, and inclining
-to the belief that its sentiments were responded to.
+“You were the life of the party last [[Night|night]], Ma’am, you know,” returned
+[[Flowers]], “and you suffer for it today, you see.”
 
-In this way, Walter, so far from forgetting or losing sight of his
-acquaintance with Florence, only remembered it better and better. As to
-its adventurous beginning, and all those little circumstances which
-gave it a distinctive character and relish, he took them into account,
-more as a pleasant story very agreeable to his [[Imagination|imagination]], and not to
-be dismissed from it, than as a part of any matter of fact with which
-he was concerned. They set off Florence very much, to his fancy; but
-not himself. Sometimes he thought (and then he walked very fast) what a
-grand thing it would have been for him to have been going to sea on the
-day after that first meeting, and to have gone, and to have done
-wonders there, and to have stopped away a long [[Time|time]], and to have come
-back an Admiral of all the colours of the dolphin, or at least a
-Post-Captain with epaulettes of insupportable brightness, and have
-married Florence (then a beautiful young woman) in spite of Mr Dombey’s
-teeth, cravat, and watch-chain, and borne her away to the blue shores
-of somewhere or other, triumphantly. But these flights of fancy seldom
-burnished the brass plate of Dombey and Son’s Offices into a tablet of
-golden [[Hope|hope]], or shed a brilliant lustre on their dirty skylights; and
-when the Captain and Uncle Sol talked about [[Richard]] Whittington and
-masters’ daughters, Walter felt that he understood his true position at
-Dombey and Son’s, much better than they did.
+Edith, who had beckoned Florence to the [[Window|window]], and was looking out,
+with her back turned on the toilet of her esteemed mother, suddenly
+withdrew from it, as if it had lightened.
 
-So it was that he went on doing what he had to do from day to day, in a
-cheerful, pains-taking, merry spirit; and saw through the sanguine
-complexion of Uncle Sol and [[Captain Cuttle]]; and yet entertained a
-thousand indistinct and visionary fancies of his own, to which theirs
-were work-a-day probabilities. Such was his condition at the Pipchin
-period, when he looked a little older than of yore, but not much; and
-was the same light-footed, light-hearted, light-headed lad, as when he
-charged into the parlour at the head of Uncle Sol and the imaginary
-boarders, and lighted him to bring up the Madeira.
+“My darling [[Child|child]],” cried [[Cleopatra]], languidly, “_you_ are not nervous?
+Don’t tell me, my dear Edith, that you, so enviably [[Self|self]]-possessed, are
+beginning to be a martyr too, like your unfortunately constituted
+mother! Withers, someone at the door.”
 
-“Uncle Sol,” said Walter, “I don’t think you’re [[Well|well]]. You haven’t eaten
-any breakfast. I shall bring a doctor to you, if you go on like this.”
+“Card, Ma’am,” said Withers, taking it towards Mrs Dombey.
 
-“He can’t give me what I want, my boy,” said Uncle Sol. “At least he is
-in good practice if he can—and then he wouldn’t.”
+“I am going out,” she said without looking at it.
+
+“My dear [[Love|love]],” drawled Mrs Skewton, “how very odd to send that message
+without seeing the name! Bring it here, Withers. Dear me, my [[Love|love]]; Mr
+Carker, too! That very sensible person!”
+
+“I am going out,” repeated Edith, in so imperious a tone that Withers,
+going to the door, imperiously informed the servant who was waiting,
+“Mrs Dombey is going out. Get along with you,” and shut it on him.
+
+But the servant came back after a short absence, and whispered to
+Withers again, who once more, and not very willingly, presented himself
+before Mrs Dombey.
+
+“If you please, Ma’am, Mr Carker sends his respectful compliments, and
+begs you would spare him one minute, if you could—for business, Ma’am,
+if you please.”
+
+“Really, my [[Love|love]],” said Mrs Skewton in her mildest manner; for her
+daughter’s face was threatening; “if you would allow me to offer a
+word, I should recommend—”
+
+“Show him this way,” said Edith. As Withers disappeared to execute the
+command, she added, frowning on her mother, “As he comes at your
+recommendation, let him come to your room.”
+
+“May I—shall I go away?” asked Florence, hurriedly.
+
+Edith nodded yes, but on her way to the door Florence met the visitor
+coming in. With the same disagreeable mixture of familiarity and
+forbearance, with which he had first addressed her, he addressed her
+now in his softest manner—hoped she was quite [[Well|well]]—needed not to ask,
+with such looks to anticipate the answer—had scarcely had the [[Honour|honour]] to
+know her, last [[Night|night]], she was so greatly changed—and held the door open
+for her to pass out; with a secret sense of power in her shrinking from
+him, that all the deference and politeness of his manner could not
+quite conceal.
+
+He then bowed himself for a moment over Mrs Skewton’s condescending
+hand, and lastly bowed to Edith. Coldly returning his salute without
+looking at him, and neither seating herself nor inviting him to be
+seated, she waited for him to speak.
+
+Entrenched in her [[Pride|pride]] and power, and with all the obduracy of her
+spirit summoned about her, still her old conviction that she and her
+mother had been known by this man in their worst colours, from their
+first acquaintance; that every degradation she had suffered in her own
+eyes was as plain to him as to herself; that he read her life as though
+it were a vile book, and fluttered the [[Leaves|leaves]] before her in slight
+looks and tones of voice which no one else could detect; weakened and
+undermined her. Proudly as she opposed herself to him, with her
+commanding face exacting his [[Humility|humility]], her disdainful lip repulsing
+him, her bosom angry at his intrusion, and the dark lashes of her eyes
+sullenly veiling their light, that no ray of it might shine upon
+him—and submissively as he stood before her, with an entreating injured
+manner, but with complete submission to her will—she knew, in her own
+[[Soul|soul]], that the cases were reversed, and that the triumph and
+superiority were his, and that he knew it full [[Well|well]].
+
+“I have presumed,” said Mr Carker, “to solicit an interview, and I have
+ventured to describe it as being one of business, because—”
+
+“Perhaps you are charged by Mr Dombey with some message of reproof,”
+said Edith “You possess Mr Dombey’s confidence in such an unusual
+degree, Sir, that you would scarcely surprise me if that were your
+business.”
+
+“I have no message to the lady who sheds a lustre upon his name,” said
+Mr Carker. “But I entreat that lady, on my own behalf, to be just to a
+very humble claimant for justice at her hands—a mere dependant of Mr
+Dombey’s—which is a position of [[Humility|humility]]; and to reflect upon my
+perfect helplessness last [[Night|night]], and the impossibility of my avoiding
+the share that was forced upon me in a very painful occasion.”
+
+“My dearest Edith,” hinted [[Cleopatra]] in a low voice, as she held her
+eye-glass aside, “really very charming of Mr What’s-his-name. And full
+of heart!”
+
+“For I do,” said Mr Carker, appealing to Mrs Skewton with a look of
+grateful deference,—“I do venture to call it a painful occasion, though
+merely because it was so to me, who had the misfortune to be present.
+So slight a difference, as between the principals—between those who
+[[Love|love]] each other with disinterested devotion, and would make any
+sacrifice of [[Self|self]] in such a cause—is nothing. As Mrs Skewton herself
+expressed, with so much [[Truth|truth]] and feeling last [[Night|night]], it is nothing.”

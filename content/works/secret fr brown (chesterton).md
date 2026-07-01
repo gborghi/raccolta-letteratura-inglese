@@ -35,16 +35,16 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Story 01 The Secret Of Father Brown](/testi/chesterton/atomized/secret_fr_brown/story_01_the_secret_of_father_brown)
-- [Story 02 I The Mirror Of The Magistrate](/testi/chesterton/atomized/secret_fr_brown/story_02_i_the_mirror_of_the_magistrate)
-- [Story 03 Ii The Man With Two Beards](/testi/chesterton/atomized/secret_fr_brown/story_03_ii_the_man_with_two_beards)
-- [Story 04 Iii The Song Of The Flying Fish](/testi/chesterton/atomized/secret_fr_brown/story_04_iii_the_song_of_the_flying_fish)
-- [Story 05 Iv The Actor And The Alibi](/testi/chesterton/atomized/secret_fr_brown/story_05_iv_the_actor_and_the_alibi)
-- [Story 06 V The Vanishing Of Vaudrey](/testi/chesterton/atomized/secret_fr_brown/story_06_v_the_vanishing_of_vaudrey)
-- [Story 07 Vi The Worst Crime In The World](/testi/chesterton/atomized/secret_fr_brown/story_07_vi_the_worst_crime_in_the_world)
-- [Story 08 Vii The Red Moon Of Meru](/testi/chesterton/atomized/secret_fr_brown/story_08_vii_the_red_moon_of_meru)
-- [Story 09 Viii The Chief Mourner Of Marne](/testi/chesterton/atomized/secret_fr_brown/story_09_viii_the_chief_mourner_of_marne)
-- [Story 10 The Secret Of Flambeau](/testi/chesterton/atomized/secret_fr_brown/story_10_the_secret_of_flambeau)
+- Story 01 The Secret Of Father Brown
+- Story 02 I The Mirror Of The Magistrate
+- Story 03 Ii The Man With Two Beards
+- Story 04 Iii The Song Of The Flying Fish
+- Story 05 Iv The Actor And The Alibi
+- Story 06 V The Vanishing Of Vaudrey
+- Story 07 Vi The Worst Crime In The World
+- Story 08 Vii The Red Moon Of Meru
+- Story 09 Viii The Chief Mourner Of Marne
+- Story 10 The Secret Of Flambeau
 
 ## Testo integrale / Full text
 

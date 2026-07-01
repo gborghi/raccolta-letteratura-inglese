@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 47 (part 2)"
+title: "Barnaby Rudge — Chapter 47 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_47/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_47/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘Heaven has made none in more than twice ten years, sir,’ said the widow
+mildly.
 
 ‘Then why don’t you shut him up? we pay enough for county institutions,
 damn ‘em. But thou’d rather drag him about to excite [[Charity|charity]]--of course.
@@ -134,14 +137,3 @@ larcenies, ye limb of a gipsy. Here, Simon, put these pilferers out,
 shove ‘em into the [[Road|road]], out with ‘em! Ye don’t want to sell the bird,
 ye that come here to beg, don’t ye? If they an’t out in [[Double|double]]-quick,
 set the [[dogs]] upon ‘em!’
-
-They waited for no further dismissal, but fled precipitately, leaving
-the gentleman to [[Storm|storm]] away by himself (for the poor lady had already
-retreated), and making a great many vain attempts to [[Silence|silence]] Grip, who,
-excited by the noise, drew corks enough for a [[City|city]] feast as they hurried
-down the avenue, and appeared to congratulate himself beyond measure on
-having been the cause of the disturbance. When they had nearly reached
-the lodge, another servant, emerging from the shrubbery, feigned to
-be very active in ordering them off, but this man put a [[Crown|crown]] into the
-widow’s hand, and whispering that his lady sent it, thrust them gently
-from the gate.

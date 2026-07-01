@@ -14,6 +14,64 @@ tags:
 </nav>
 
 
+the preaching of an impossible thrift and an intolerable temperance. He
+
+hated the implication that because a man was a miser in Latin he must
+
+also be a miser in English. And this meanness of the Utilitarians had
+
+gone very far--infecting many finer minds who had fought the
+
+Utilitarians. In the _Edinburgh Review_, a thing like Malthus could be
+
+championed by a man like Macaulay.
+
+The twin root facts of the revolution called Dickens are these: first,
+
+that he attacked the cold Victorian compromise; second, that he
+
+attacked it without knowing he was doing it--certainly without knowing
+
+that other people were doing it. He was attacking something which we
+
+will call Mr. Gradgrind. He was utterly unaware (in any essential sense)
+
+that any one else had attacked Mr. Gradgrind. All the other attacks had
+
+come from positions of learning or cultured eccentricity of which he was
+
+entirely ignorant, and to which, therefore (like a spirited fellow), he
+
+felt a furious hostility. Thus, for instance, he hated that Little
+
+Bethel to which Kit's mother went: he hated it simply as Kit hated it.
+
+Newman could have told him it was hateful, because it had no root in
+
+religious [[history]]; it was not even a sapling sprung of the seed of some
+
+great human and heathen tree: it was a monstrous mushroom that grows in
+
+the moonshine and dies in the [[Dawn|dawn]]. Dickens knew no more of religious
+
+[[history]] than Kit; he simply smelt the fungus, and it stank. Thus, again,
+
+he hated that insolent luxury of a class counting itself a comfortable
+
+exception to all mankind; he hated it as [[Kate Nickleby]] hated Sir
+
+Mulberry Hawke--by instinct. Carlyle could have told him that all the
+
+world was full of that anger against the impudent fatness of the few.
+
+But when Dickens wrote about [[Kate Nickleby]], he knew about as much of the
+
+world--as [[Kate Nickleby]]. He did write _The Tale of Two Cities_ long
+
+afterwards; but that was when he _had_ been instructed by Carlyle. His
+
+first revolutionism was as private and internal as feeling sea-sick.
+
 Thus, once more, he wrote against Mr. Gradgrind long before he created
 
 him. In _The Chimes_, conceived in quite his casual and charitable
@@ -70,8 +128,6 @@ his mouth and shut his eyes and saw what the Age of Reason would give
 
 him. And, having tasted it, he spat it out.
 
-
-
 I am constrained to consider Dickens here among the fighters; though I
 
 ought (on the pure principles of Art) to be considering him in the
@@ -121,8 +177,6 @@ sense, Dickens, the great romanticist, is truly the great realist also.
 For he had no abstractions: he had nothing except realities out of which
 
 to make a [[Romance|romance]].
-
-
 
 With Dickens, then, re-arises that reality with which I began and which
 

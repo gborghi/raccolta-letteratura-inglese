@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 57 (part 1)"
+title: "Barnaby Rudge — Chapter 57 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -126,12 +126,3 @@ perplexity, it seemed, at Barnaby.
 
 ‘Why, don’t you know!’ retorted Barnaby, with a wondering laugh. ‘Not
 know what HE is! A bird, to be sure. My bird--my friend--Grip.’
-
-‘A devil, a kettle, a Grip, a Polly, a Protestant, no Popery!’ cried the
-raven.
-
-‘Though, indeed,’ added Barnaby, laying his hand upon the neck of Lord
-George’s [[Horse|horse]], and speaking softly: ‘you had good reason to ask me what
-he is, for sometimes it puzzles me--and I am used to him--to think
-he’s only a bird. He’s my brother, Grip is--always with me--always
-talking--always merry--eh, Grip?’

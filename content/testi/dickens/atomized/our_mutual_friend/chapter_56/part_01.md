@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 15 (part 1)"
+title: "Our Mutual Friend — Chapter 1 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,137 +10,122 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_55/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_56/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_55/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_56/part_02">part 02 ›</a></div>
 </nav>
 
 
-Chapter 15
+BOOK THE FOURTH — A TURNING
+Chapter 1
 
-THE GOLDEN DUSTMAN AT HIS WORST
+SETTING TRAPS
 
 
-The breakfast table at Mr Boffin’s was usually a very pleasant one, and
-was always presided over by Bella. As though he began each new day in
-his healthy natural character, and some waking hours were necessary to
-his relapse into the corrupting influences of his wealth, the face and
-the demeanour of the Golden Dustman were generally unclouded at that
-meal. It would have been easy to believe then, that there was no change
-in him. It was as the day went on that the clouds gathered, and the
-brightness of the morning became obscured. One might have said that the
-shadows of avarice and distrust lengthened as his own [[Shadow|shadow]] lengthened,
-and that the [[Night|night]] closed around him gradually.
+Plashwater Weir Mill Lock looked tranquil and pretty on an evening in
+the [[Summer|summer]] [[Time|time]]. A soft air stirred the [[Leaves|leaves]] of the fresh green trees,
+and passed like a smooth [[Shadow|shadow]] over the [[River|river]], and like a smoother
+[[Shadow|shadow]] over the yielding grass. The voice of the falling [[Water|water]], like
+the voices of the sea and the [[Wind|wind]], were as an outer [[Memory|memory]] to a
+contemplative listener; but not particularly so to Mr Riderhood, who sat
+on one of the blunt wooden levers of his lock-gates, dozing. Wine must
+be got into a butt by some agency before it can be drawn out; and the
+wine of sentiment never having been got into Mr Riderhood by any agency,
+nothing in [[Nature|nature]] tapped him.
 
-But, one morning long afterwards to be remembered, it was black midnight
-with the Golden Dustman when he first appeared. His altered character
-had never been so grossly marked. His bearing towards his Secretary was
-so charged with insolent distrust and arrogance, that the latter [[Rose|rose]]
-and left the table before breakfast was half done. The look he directed
-at the Secretary’s retiring figure was so cunningly malignant, that
-Bella would have sat astounded and indignant, even though he had not
-gone the length of secretly threatening Rokesmith with his clenched
-fist as he closed the door. This unlucky morning, of all mornings in the
-year, was the morning next after Mr Boffin’s interview with Mrs Lammle
-in her little carriage.
+As the Rogue sat, ever and again nodding himself off his balance, his
+recovery was always attended by an angry stare and growl, as if, in the
+absence of any one else, he had aggressive inclinations towards himself.
+In one of these starts the cry of ‘Lock, ho! Lock!’ prevented his
+relapse into a doze. Shaking himself as he got up like the surly brute
+he was, he gave his growl a responsive twist at the end, and turned his
+face down-stream to see who hailed.
 
-Bella looked to Mrs Boffin’s face for comment on, or explanation of,
-this stormy [[Humour|humour]] in her husband, but none was there. An anxious and
-a distressed observation of her own face was all she could read in it.
-When they were left [[Alone|alone]] together—which was not until [[Noon|noon]], for Mr
-Boffin sat long in his easy-chair, by turns jogging up and down
-the breakfast-room, clenching his fist and muttering—Bella, in
-consternation, asked her what had happened, what was wrong? ‘I am
-forbidden to speak to you about it, Bella dear; I mustn’t tell you,’
-was all the answer she could get. And still, whenever, in her [[Wonder|wonder]] and
-dismay, she raised her eyes to Mrs Boffin’s face, she saw in it the same
-anxious and distressed observation of her own.
+It was an amateur-sculler, [[Well|well]] up to his work though taking it easily,
+in so light a boat that the Rogue remarked: ‘A little less on you, and
+you’d a’most ha’ been a Wagerbut’; then went to work at his windlass
+handles and sluices, to let the sculler in. As the latter stood in his
+boat, holding on by the boat-hook to the woodwork at the lock side,
+waiting for the gates to open, Rogue Riderhood recognized his ‘T’other
+governor,’ Mr [[Eugene Wrayburn]]; who was, however, too indifferent or too
+much engaged to recognize him.
 
-Oppressed by her sense that trouble was impending, and lost in
-speculations why Mrs Boffin should look at her as if she had any part in
-it, Bella found the day long and dreary. It was far on in the afternoon
-when, she being in her own room, a servant brought her a message from Mr
-Boffin begging her to come to his.
+The creaking lock-gates opened slowly, and the light boat passed in as
+soon as there was room enough, and the creaking lock-gates closed upon
+it, and it floated low down in the dock between the two sets of gates,
+until the [[Water|water]] should rise and the second gates should open and let it
+out. When Riderhood had run to his second windlass and turned it, and
+while he leaned against the lever of that gate to help it to swing
+open presently, he noticed, lying to rest under the green hedge by the
+towing-path astern of the Lock, a Bargeman.
 
-Mrs Boffin was there, seated on a sofa, and Mr Boffin was jogging up and
-down. On seeing Bella he stopped, beckoned her to him, and drew her arm
-through his. ‘Don’t be alarmed, my dear,’ he said, gently; ‘I am not
-angry with you. Why you actually tremble! Don’t be alarmed, Bella my
-dear. I’ll see you righted.’
+The [[Water|water]] [[Rose|rose]] and [[Rose|rose]] as the sluice poured in, dispersing the scum
+which had formed behind the lumbering gates, and sending the boat up,
+so that the sculler gradually [[Rose|rose]] like an apparition against the light
+from the bargeman’s point of view. Riderhood observed that the bargeman
+[[Rose|rose]] too, leaning on his arm, and seemed to have his eyes fastened on
+the rising figure.
 
-‘See me righted?’ thought Bella. And then repeated aloud in a tone of
-astonishment: ‘see me righted, sir?’
+But, there was the toll to be taken, as the gates were now complaining
+and opening. The T’other governor tossed it ashore, twisted in a piece
+of paper, and as he did so, knew his man.
 
-‘Ay, ay!’ said Mr Boffin. ‘See you righted. Send Mr Rokesmith here, you
-sir.’
+‘Ay, ay? It’s you, is it, honest friend?’ said Eugene, seating himself
+preparatory to resuming his sculls. ‘You got the place, then?’
 
-Bella would have been lost in perplexity if there had been pause
-enough; but the servant found Mr Rokesmith near at hand, and he almost
-immediately presented himself.
+‘I got the place, and no thanks to you for it, nor yet none to Lawyer
+Lightwood,’ gruffly answered Riderhood.
 
-‘Shut the door, sir!’ said Mr Boffin. ‘I have got something to say to
-you which I fancy you’ll not be pleased to hear.’
+‘We saved our recommendation, honest fellow,’ said Eugene, ‘for the next
+candidate—the one who will offer himself when you are transported or
+hanged. Don’t be long about it; will you be so good?’
 
-‘I am sorry to reply, Mr Boffin,’ returned the Secretary, as, having
-closed the door, he turned and faced him, ‘that I think that very
-likely.’
+So imperturbable was the air with which he gravely bent to his work that
+Riderhood remained staring at him, without having found a retort, until
+he had rowed past a line of wooden objects by the weir, which showed
+like huge teetotums standing at rest in the [[Water|water]], and was almost hidden
+by the drooping boughs on the left bank, as he rowed away, keeping
+out of the opposing current. It being then too late to retort with
+any effect—if that could ever have been done—the honest man confined
+himself to cursing and growling in a grim under-tone. Having then
+got his gates shut, he crossed back by his plank lock-bridge to the
+towing-path side of the [[River|river]].
 
-‘What do you mean?’ blustered Mr Boffin.
+If, in so doing, he took another glance at the bargeman, he did it by
+stealth. He cast himself on the grass by the Lock side, in an indolent
+way, with his back in that direction, and, having gathered a few blades,
+fell to chewing them. The dip of [[Eugene Wrayburn]]’s sculls had become
+hardly audible in his ears when the bargeman passed him, putting the
+utmost width that he could between them, and keeping under the hedge.
+Then, Riderhood sat up and took a long look at his figure, and then
+cried: ‘Hi—I—i! Lock, ho! Lock! Plashwater Weir Mill Lock!’
 
-‘I mean that it has become no novelty to me to hear from your lips what
-I would rather not hear.’
+The bargeman stopped, and looked back.
 
-‘Oh! Perhaps we shall change that,’ said Mr Boffin with a threatening
-roll of his head.
+‘Plashwater Weir Mill Lock, T’otherest gov—er—nor—or—or—or!’ cried
+Mr Riderhood, with his hands to his mouth.
 
-‘I [[Hope|hope]] so,’ returned the Secretary. He was quiet and respectful; but
-stood, as Bella thought (and was glad to think), on his manhood too.
+The bargeman turned back. Approaching nearer and nearer, the bargeman
+became [[Bradley Headstone]], in rough [[Water|water]]-side second-hand clothing.
 
-‘Now, sir,’ said Mr Boffin, ‘look at this young lady on my arm.’
+‘Wish I may die,’ said Riderhood, smiting his right leg, and laughing,
+as he sat on the grass, ‘if you ain’t ha’ been a imitating me,
+T’otherest governor! Never thought myself so good-looking afore!’
 
-Bella involuntarily raising her eyes, when this sudden reference was
-made to herself, met those of Mr Rokesmith. He was pale and seemed
-agitated. Then her eyes passed on to Mrs Boffin’s, and she met the look
-again. In a flash it enlightened her, and she began to understand what
-she had done.
+Truly, [[Bradley Headstone]] had taken careful note of the honest man’s
+dress in the course of that [[Night|night]]-walk they had had together. He must
+have committed it to [[Memory|memory]], and slowly got it by heart. It was
+exactly reproduced in the dress he now wore. And whereas, in his own
+schoolmaster clothes, he usually looked as if they were the clothes of
+some other man, he now looked, in the clothes of some other man or men,
+as if they were his own.
 
-‘I say to you, sir,’ Mr Boffin repeated, ‘look at this young lady on my
-arm.’
+‘THIS your Lock?’ said Bradley, whose surprise had a genuine air; ‘they
+told me, where I last inquired, it was the third I should come to. This
+is only the second.’
 
-‘I do so,’ returned the Secretary.
+‘It’s my belief, governor,’ returned Riderhood, with a wink and shake of
+his head, ‘that you’ve dropped one in your counting. It ain’t Locks as
+YOU’VE been giving your mind to. No, no!’
 
-As his glance rested again on Bella for a moment, she thought there was
-reproach in it. But it is possible that the reproach was within herself.
-
-‘How dare you, sir,’ said Mr Boffin, ‘tamper, unknown to me, with this
-young lady? How dare you come out of your station, and your place in my
-[[house]], to pester this young lady with your impudent addresses?’
-
-‘I must decline to answer questions,’ said the Secretary, ‘that are so
-offensively asked.’
-
-‘You decline to answer?’ retorted Mr Boffin. ‘You decline to answer,
-do you? Then I’ll tell you what it is, Rokesmith; I’ll answer for you.
-There are two sides to this matter, and I’ll take ’em separately. The
-first side is, sheer Insolence. That’s the first side.’
-
-The Secretary smiled with some bitterness, as though he would have said,
-‘So I see and hear.’
-
-‘It was sheer Insolence in you, I tell you,’ said Mr Boffin, ‘even to
-think of this young lady. This young lady was far above YOU. This young
-lady was no match for YOU. This young lady was lying in wait (as she was
-qualified to do) for money, and you had no money.’
-
-Bella hung her head and seemed to shrink a little from Mr Boffin’s
-protecting arm.
-
-‘What are you, I should like to know,’ pursued Mr Boffin, ‘that you were
-to have the audacity to follow up this young lady? This young lady was
-looking about the market for a good bid; she wasn’t in it to be snapped
-up by fellows that had no money to lay out; nothing to buy with.’
-
-‘Oh, Mr Boffin! Mrs Boffin, pray say something for me!’ murmured Bella,
-disengaging her arm, and covering her face with her hands.
-
-‘Old lady,’ said Mr Boffin, anticipating his wife, ‘you hold your
-tongue. Bella, my dear, don’t you let yourself be put out. I’ll right
-you.’
+As he expressively jerked his pointing finger in the direction the boat
+had taken, a flush of impatience mounted into Bradley’s face, and he
+looked anxiously up the [[River|river]].

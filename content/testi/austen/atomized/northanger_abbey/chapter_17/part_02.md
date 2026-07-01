@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 16 (part 2)"
+title: "Northanger Abbey — Chapter 16 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_17/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_17/part_03">part 03 ›</a></div>
 </nav>
 
+
+must have heard some malevolent misrepresentation of her, which he now
+
+hastened to communicate to his brother, in the [[Hope|hope]] of separating them
+
+forever, she could not have her partner conveyed from her sight without
 
 very uneasy sensations. Her suspense was of full five minutes’
 
@@ -247,15 +253,3 @@ way.”
 When the young ladies next met, they had a far more interesting subject
 
 to discuss. James Morland’s second letter was then received, and the
-
-kind intentions of his father fully explained. A living, of which Mr.
-
-Morland was himself patron and incumbent, of about four hundred pounds
-
-yearly value, was to be resigned to his son as soon as he should be old
-
-enough to take it; no trifling deduction from the family income, no
-
-niggardly assignment to one of ten children. An estate of at least
-
-equal value, moreover, was assured as his future inheritance.

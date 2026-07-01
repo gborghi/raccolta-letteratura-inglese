@@ -1,5 +1,5 @@
 ---
-title: "[[Julius Caesar]] — Act V, Scene 5 — monologue (AS YOU LIKE IT) [3]"
+title: "Julius Caesar — Act V, Scene 5 — monologue (AS YOU LIKE IT) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/julius-caesar-(shakespeare)"

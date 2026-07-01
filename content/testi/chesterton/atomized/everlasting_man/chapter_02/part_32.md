@@ -14,159 +14,115 @@ tags:
 </nav>
 
 
-Superstition recurs in all ages, and especially in rationalistic ages.
-I remember defending the religious tradition against a whole luncheon
-table of distinguished agnostics; and before the end of our conversation
-every one of them had procured from his pocket, or exhibited
-on his watch-chain, some charm or talisman from which he admitted
-that he was never separated.  I was the only person present who had
-neglected to provide himself with a fetish.  Superstition recurs
-in a rationalist age because it rests on something which, if not
-identical with rationalism, is not unconnected with scepticism.
-It is at least very closely connected with agnosticism.  It rests
-on something that is really a very human and intelligible sentiment,
-like the local invocations of the numen in popular paganism.
-But it is an agnostic sentiment, for it rests on two feelings:
-first that we do not really know the laws of the universe;
-and second that they may be very different to all we call reason.
-Such men realise the real [[Truth|truth]] that enormous things do often turn
-upon tiny things.  When a whisper comes, from tradition or what not,
-that one particular tiny thing is the key or clue, something deep
-and not altogether senseless in human [[Nature|nature]] tells them that it
-is not unlikely.  This feeling exists in both the forms of paganism
-here under consideration.  But when we come to the second form of it,
-we find it transformed and filled with another and more terrible spirit.
+That is where all these things differed from religion or the reality
+in which these different dimensions met in a sort of solid.
+They differed from the reality not in what they looked like
+but in what they were.  A picture may look like a landscape;
+it may look in every detail exactly like a landscape.
+The only detail in which it differs is that it is not a landscape.
+The difference is only that which divides a portrait of [[Queen Elizabeth]]
+from [[Queen Elizabeth]].  Only in this mythical and mystical world
+the portrait could exist before the person; and the portrait was
+therefore more vague and doubtful.  But anybody who has felt and fed
+on the atmosphere of these myths will know what I mean, when I say
+that in one sense they did not really profess to be realities.
+The pagans had [[Dreams|dreams]] about realities; and they would have
+been the first to admit, in their own words, that some came
+through the gate of ivory and others through the gate of horn.
+The [[Dreams|dreams]] do indeed tend to be very vivid [[Dreams|dreams]] when they touch
+on those tender or tragic things, which can really make a sleeper
+awaken with the sense that his heart has been broken in his [[Sleep|sleep]].
+They tend continually to hover over certain passionate themes
+of meeting and parting, of a life that ends in [[Death|death]] or a [[Death|death]]
+that is the beginning of life.  Demeter wanders over a stricken
+world looking for a stolen [[Child|child]]; Isis stretches out her arms
+over the earth in vain to gather the limbs of Osiris; and there is
+lamentation upon the hills for Atys and through the woods for [[Adonis]].
+There mingles with all such mourning the mystical and profound
+sense that [[Death|death]] can be a deliverer and an appeasement;
+that such [[Death|death]] gives us a divine [[Blood|blood]] for a renovating [[River|river]]
+and that all good is found in gathering the broken [[Body|body]] of the god.
+We may truly call these foreshadowing; so long as we remember
+that foreshadowings are shadows.  And the metaphor of a [[Shadow|shadow]]
+happens to hit very exactly the [[Truth|truth]] that is very vital here.
+For a [[Shadow|shadow]] is a shape; a thing which reproduces shape but
+not texture.  These things were something like the real thing;
+and to say that they were like is to say that they were different.
+Saying something is like a dog is another way of saying it is not a dog;
+and it is in this sense of [[Identity|identity]] that a myth is not a man.
+Nobody really thought of Isis as a human being, nobody really thought
+of Demeter as a historical character, nobody thought of [[Adonis]]
+as the founder of a Church.  There was no idea that any one of them
+had changed the world; but rather that their recurrent [[Death|death]] and life
+bore the sad and beautiful burden of the changelessness of the world.
+Not one of them was a revolution, save in the sense of the revolution
+of the sun and [[Moon|moon]].  Their whole meaning is missed if we do not see
+that they mean the shadows that we are and the shadows that we pursue.
+In certain sacrificial and communal aspects they naturally suggest
+what sort of a god might satisfy them; but they do not profess
+to be satisfied.  Anyone who says they do is a bad judge of poetry.
 
-In dealing with the lighter thing called mythology, I have said little
-about the most disputable aspect of it; the extent to which such
-invocation of the spirits of the sea or the elements can indeed call
-spirits from the vasty deep; or rather, (as the Shakespearean scoffer
-put it) whether the spirits come when they are called.  I believe
-that I am right in thinking that this problem, practical as it sounds,
-did not play a dominant part in the poetical business of mythology.
-But I think it even more obvious, on the evidence, that things of that
-sort have sometimes appeared, even if they were only appearances.
-But when we come to the world of superstition, in a more subtle sense,
-there is a shade of difference; a deepening and a darkening shade.
-Doubtless most popular superstition is as frivolous as any
-popular mythology.  Men do not believe as a dogma that God would throw
-a thunderbolt at them for walking under a ladder; more often they amuse
-themselves with the not very laborious exercise of walking round it.
-There is no more in it than what I have already adumbrated; a sort
-of airy agnosticism about the possibilities of so strange a world.
-But there is another sort of superstition that does definitely
-look for results; what might be called a realistic superstition.
-And with that the question of whether spirits do answer or do
-appear becomes much more serious.  As I have said, it seems to me
-pretty certain that they sometimes do; but about that there is a
-distinction that has been the beginning of much evil in the world.
-Whether it be because the Fall has really brought men nearer
-to less desirable neighbours in the spiritual world, or whether
-it is merely that the mood of men eager or greedy finds it easier
-to imagine evil, I believe that the black [[Magic|magic]] of witchcraft has
-been much more practical and much less poetical than the white
-[[Magic|magic]] of mythology.  I fancy the [[Garden|garden]] of the [[Witch|witch]] has been
-kept much more carefully than the woodland of the nymph.
-I fancy the evil field has even been more fruitful than the good.
-To start with, some impulse, perhaps a sort of desperate impulse,
-drove men to the darker powers when dealing with practical problems.
-There was a sort of secret and perverse feeling that the darker
-powers would really do things; that they had no nonsense about them.
-And indeed that popular phase exactly expresses the point.
-The gods of mere mythology had a great deal of nonsense about them.
-They had a great deal of good nonsense about them; in the happy
-and hilarious sense in which we talk of the nonsense of Jabberwocky
-or the Land where Jumblies live.  But the man consulting
-a demon felt as many a man has felt in consulting a [[Detective|detective]],
-especially a private [[Detective|detective]]; that it was dirty work but the work
-would really be done.  A man did not exactly go into the wood
-to meet a nymph; he rather went with the [[Hope|hope]] of meeting a nymph.
-It was an adventure rather than an assignation.  But the devil really
-kept his appointments and even in one sense kept his promises;
-even if a man sometimes wished afterwards, like [[Macbeth]],
-that he had broken them.
+Those who talk about Pagan Christs have less sympathy with Paganism
+than with [[Christianity]].  Those who call these cults 'religions,'
+and 'compare' them with the certitude and challenge of the Church
+have much less appreciation than we have of what made heathenism human,
+or of why classic literature is still something that hangs in the air
+like a [[Song|song]].  It is no very human tenderness for the hungry to prove
+that hunger is the same as food.  It is no very genial understanding
+of youth to argue that [[Hope|hope]] destroys the need for happiness.
+And it is utterly unreal to argue that these images in the mind,
+admired entirely in the abstract, were even in the same world
+with a living man and a living polity that were worshipped because
+they were concrete.  We might as [[Well|well]] say that a boy playing
+at robbers is the same as a man in his first day in the trenches;
+or that boy's first fancies about 'the not impossible she'
+are the same as the sacrament of [[Marriage|marriage]].  They are fundamentally
+different exactly where they are superficially similar; we might
+almost say they are not the same even when they are the same.
+They are only different because one is real and the other is not.
+I do not mean merely that I myself believe that one is true
+and the other is not.  I mean that one was never meant to be
+true in the same sense as the other.  The sense in which it
+was meant to be true I have tried to suggest vaguely here,
+but it is undoubtedly very subtle and almost indescribable.
+It is so subtle that the students who profess to put it up as a rival
+to our religion miss the whole meaning and purport of their own study.
+We know better than the scholars, even those of us who are no scholars,
+what was in that hollow cry that went forth over the dead [[Adonis]]
+and why the [[Great Mother]] had a daughter wedded to [[Death|death]].
+We have entered more deeply than they into the Eleusinian Mysteries
+and have passed a higher grade, where gate within gate guarded
+the wisdom of Orpheus.  We know the meaning of all the myths.
+We know the last secret revealed to the perfect initiate.
+And it is not the voice of a priest or a [[Prophet|prophet]] saying 'These
+things are.'  It is the voice of a dreamer and an idealist crying,
+'Why cannot these things be?'
 
-In the accounts given us of many rude or savage races we gather
-that the cult of demons often came after the cult of deities,
-and even after the cult of one single and supreme deity.
-It may be suspected that in almost all such places the higher deity
-is felt to be too far off for appeal in certain petty matters,
-and men invoke the spirits because they are in a more literal sense
-familiar spirits.  But with the idea of employing the demons who get
-things done, a new idea appears more worthy of the demons.  It may
-indeed be truly described as the idea of being worthy of the demons;
-of making oneself fit for their fastidious and exacting society.
-Superstition of the lighter sort toys with the idea that some trifle,
-some small gesture such as throwing the salt, may touch the hidden
-[[Spring|spring]] that works the mysterious machinery of the world.
-And there is after all something in the idea of such an Open Sesame.
-But with the appeal to lower spirits comes the horrible notion
-that the gesture must not only be very small but very low;
-that it must be a monkey trick of an utterly ugly and
-unworthy sort.  Sooner or later a man deliberately sets
-himself to do the most disgusting thing he can think of.
-It is felt that the extreme of evil will extort a sort of attention
-or answer from the evil powers under the surface of the world.
-This is the meaning of most of the cannibalism in the world.
-For most cannibalism is not a primitive or even a bestial habit.
-It is artificial and even artistic, a sort of art for art's sake.
-Men do not do it because they do not think it horrible;
-but, on the contrary, because they do think it horrible.
-They wish, in the most literal sense, to sup on horrors.
-That is why it is often found that rude races like the Australian
-natives are not cannibals; while much more refined and
-intelligent races, like the New Zealand Maories, occasionally are.
-They are refined and intelligent enough to indulge sometimes in a
-[[Self|self]]-conscious diabolism.  But if we could understand their minds,
-or even really understand their language, we should probably find
-that they were not acting as ignorant, that is as [[Innocent|innocent]] cannibals.
-They are not doing it because they do not think it wrong, but precisely
-because they do think it wrong.  They are acting like a Parisian
-decadent at a Black Mass.  But the Black Mass has to hide underground
-from the presence of the real Mass.  In other words, the demons
-have really been in hiding since the coming of [[Christ]] on earth.
-The cannibalism of the higher barbarians is in hiding from
-the civilisation of the white man.  But before Christendom,
-and especially outside Europe, this was not always so.
-In the ancient world the demons often wandered abroad like dragons.
-They could be positively and publicly enthroned as gods.
-Their enormous images could be set up in public temples in the centre
-of populous cities.  And all over the world the traces can be found
-of this striking and solid fact, so curiously overlooked by the moderns
-who speak of all such evil as primitive and early in evolution,
-that as a matter of fact some of the very highest civilisations
-of the world were the very places where the horns of [[Satan]]
-were exalted, not only to the [[Stars|stars]] but in the face of the sun.
-Take for example the Aztecs and American Indians of the ancient empires
-of Mexico and Peru.  They were at least as elaborate as [[Egypt]] or China
-and only less lively than that central civilisation which is our own.
-But those who criticise that central civilisation (which is always
-their own civilisation) have a curious habit of not merely doing
-their legitimate duty in condemning its crimes, but of going out
-of their way to idealise its victims.  They always assume that
-before the advent of Europe there was nothing anywhere but Eden.
-And Swinburne, in that spirited [[Chorus|chorus]] of the nations in '[[songs|Songs]]
-before Sunrise,' used an expression about Spain in her South American
-conquests which always struck me as very strange.  He said something
-about 'her sins and sons through sinless lands dispersed,' and how they
-'made accursed the name of man and thrice accursed the name of God.'
-It may be reasonable enough that he should say the Spaniards were sinful,
-but why in the world should he say that the South Americans
-were sinless?  Why should he have supposed that continent to be
-exclusively populated by archangels or saints perfect in heaven?
-It would be a strong thing to say of the most respectable neighbourhood;
-but when we come to think of what we really do know of that society
-the remark is rather funny.  We know that the sinless priests
-of this sinless people worshipped sinless gods, who accepted
-as the nectar and ambrosia of their sunny paradise nothing
-but incessant human sacrifice accompanied by horrible torments.
-We may note also in the mythology of this American civilisation that
-element of reversal or violence against instinct of which [[Dante]] wrote;
-which runs backwards everywhere through the unnatural religion
-of the demons.  It is notable not only in ethics but in aesthetics.
-A South American idol was made as ugly as possible, as a Greek image was
-made as beautiful as possible.  They were seeking the secret of power,
-by working backwards against their own [[Nature|nature]] and the [[Nature|nature]] of things.
-There was always a sort of yearning to carve at last, in gold
-or granite or the dark red timber of the forests, a face at which
-the sky itself would break like a cracked [[Mirror|mirror]].
+* * *
+
+VI
+
+THE DEMONS AND THE PHILOSOPHERS
+
+I have dwelt at some little length on this imaginative sort of paganism,
+which has crowded the world with temples and is everywhere the parent of
+popular festivity.  For the central [[history]] of civilisation, as I see it,
+consists of two further stages before the final stage of Christendom.
+The first was the struggle between this paganism and something less
+worthy than itself, and the second the process by which it grew
+in itself less worthy.  In this very varied and often very vague
+polytheism there was a weakness of [[Original Sin|original sin]].  Pagan gods were
+depicted as tossing men like dice; and indeed they are loaded dice.
+About sex especially men are born unbalanced; we might almost say men
+are born mad.  They scarcely reach [[Sanity|sanity]] till they reach sanctity.
+This disproportion dragged down the winged fancies; and filled
+the end of paganism with a mere filth and litter of spawning gods.
+But the first point to realise is that this sort of paganism
+had an early collision with another sort of paganism;
+and that the issue of that essentially spiritual struggle really
+determined the [[history]] of the world.  In order to understand
+it we must pass to a review of the other kind of paganism.
+It can be considered much more briefly; indeed there is a very
+real sense in which the less that is said about it the better.
+If we have called the first sort of mythology the day-dream,
+we might very [[Well|well]] call the second sort of mythology the [[nightmare]].

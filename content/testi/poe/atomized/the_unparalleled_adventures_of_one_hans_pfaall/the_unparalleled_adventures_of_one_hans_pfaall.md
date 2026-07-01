@@ -1,5 +1,5 @@
 ---
-title: "[[The Unparalleled Adventures of one Hans Pfaall]]"
+title: "The Unparalleled Adventures of one Hans Pfaall"
 author: "Poe"
 unitType: work
 parentWork: "works/the-unparalleled-adventures-of-one-hans-pfaall-(poe)"

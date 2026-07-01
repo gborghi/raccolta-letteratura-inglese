@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 49: FORTY NINE (part 4)"
+title: "Martin Chuzzlewit — Chapter 49: FORTY NINE (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -131,9 +131,3 @@ it, by that lady, in her angry withdrawal, coming into contact with the
 bedstead, and bringing down the previously mentioned pippins; three or
 four of which came rattling on the head of Mrs Gamp so smartly, that
 when she recovered from this wooden shower-bath, Mrs Prig was gone.
-
-She had the satisfaction, however, of hearing the deep voice of Betsey,
-proclaiming her injuries and her determination to have nothing to do
-with Mr Chuffey, down the stairs, and along the passage, and even out in
-Kingsgate Street. Likewise of seeing in her own apartment, in the place
-of Mrs Prig, Mr Sweedlepipe and two gentlemen.

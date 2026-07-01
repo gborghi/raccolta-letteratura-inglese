@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_17_the_poet_in_parliament/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_18_the_republic_of_peaceways/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_17_the_poet_in_parliament/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_18_the_republic_of_peaceways/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -210,8 +210,3 @@ As a torment for our crimes.”
 
 
 “Upon my [[Soul|soul]], this [[Water|water]] tastes quite nice. I [[Wonder|wonder]] what vintage now?” and he smacked his lips with solemnity. “It tastes just like the year 1881 tasted.”
-
-
-
-
-“You can fancy anything in the tasting way,” returned his shorter companion. “Mr. Jack, who was always up to his tricks, did serve plain [[Water|water]] in those little glasses they drink liqueurs out of, and everyone swore it was a delicious liqueur, and wanted to know where they could get it–all except old Admiral Guffin, who said it tasted too strong of olives. But [[Water|water]]’s much the best for our game, certainly.”

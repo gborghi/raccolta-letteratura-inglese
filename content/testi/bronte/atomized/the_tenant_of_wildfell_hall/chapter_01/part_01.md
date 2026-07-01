@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 1 (part 1)"
+title: "The Tenant of Wildfell Hall — Chapter 1 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -235,11 +235,3 @@ shouldn’t mind calling her—”
 
 
 “Hush, hush, my dear! your brother has no such idea!” whispered my
-
-mother earnestly, holding up her finger.
-
-
-
-“[[Well]],” resumed [[Rose]]; “I was going to tell you an important piece of
-
-news I heard there—I have been bursting with it ever since. You know it

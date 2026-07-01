@@ -1,5 +1,5 @@
 ---
-title: "[[Emma]] — Chapter 11 (part 2)"
+title: "Emma — Chapter 13 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/emma-(austen)"
@@ -14,133 +14,115 @@ tags:
 </nav>
 
 
-“I am delighted to hear you speak so stoutly on the subject,” replied
-[[Emma]], smiling; “but you do not mean to deny that there was a [[Time|time]]—and
-not very distant either—when you gave me reason to understand that you
-did care about him?”
+“I have very little to say for my own conduct.—I was tempted by his
+attentions, and allowed myself to appear pleased.—An old story,
+probably—a common case—and no more than has happened to hundreds of my
+sex before; and yet it may not be the more excusable in one who sets up
+as I do for Understanding. Many circumstances assisted the [[Temptation|temptation]].
+He was the son of Mr. Weston—he was continually here—I always found him
+very pleasant—and, in short, for (with a sigh) let me swell out the
+causes ever so ingeniously, they all centre in this at last—my [[Vanity|vanity]]
+was flattered, and I allowed his attentions. Latterly, however—for some
+[[Time|time]], indeed—I have had no idea of their meaning any thing.—I thought
+them a habit, a trick, nothing that called for seriousness on my side.
+He has imposed on me, but he has not injured me. I have never been
+attached to him. And now I can tolerably comprehend his behaviour. He
+never wished to attach me. It was merely a blind to conceal his real
+situation with another.—It was his object to blind all about him; and
+no one, I am sure, could be more effectually blinded than myself—except
+that I was _not_ blinded—that it was my good fortune—that, in short, I
+was somehow or other safe from him.”
 
-“Him!—never, never. Dear Miss Woodhouse, how could you so mistake me?”
-turning away distressed.
+She had hoped for an answer here—for a few words to say that her
+conduct was at least intelligible; but he was silent; and, as far as
+she could judge, deep in thought. At last, and tolerably in his usual
+tone, he said,
 
-“Harriet!” cried [[Emma]], after a moment’s pause—“What do you mean?—Good
-Heaven! what do you mean?—Mistake you!—Am I to suppose then?—”
+“I have never had a high opinion of [[Frank Churchill]].—I can suppose,
+however, that I may have underrated him. My acquaintance with him has
+been but trifling.—And even if I have not underrated him hitherto, he
+may yet turn out [[Well|well]].—With such a woman he has a chance.—I have no
+motive for wishing him ill—and for her sake, whose happiness will be
+involved in his good character and conduct, I shall certainly wish him
+[[Well|well]].”
 
-She could not speak another word.—Her voice was lost; and she sat down,
-waiting in great terror till Harriet should answer.
+“I have no [[Doubt|doubt]] of their being happy together,” said [[Emma]]; “I believe
+them to be very mutually and very sincerely attached.”
 
-Harriet, who was standing at some distance, and with face turned from
-her, did not immediately say any thing; and when she did speak, it was
-in a voice nearly as agitated as [[Emma]]’s.
+“He is a most fortunate man!” returned Mr. Knightley, with energy. “So
+early in life—at three-and-twenty—a period when, if a man chuses a
+wife, he generally chuses ill. At three-and-twenty to have drawn such a
+prize! What years of felicity that man, in all human calculation, has
+before him!—Assured of the [[Love|love]] of such a woman—the disinterested [[Love|love]],
+for [[Jane Fairfax]]’s character vouches for her disinterestedness; every
+thing in his favour,—equality of situation—I mean, as far as regards
+society, and all the habits and manners that are important; equality in
+every point but one—and that one, since the purity of her heart is not
+to be doubted, such as must increase his felicity, for it will be his
+to bestow the only advantages she wants.—A man would always wish to
+give a woman a better [[Home|home]] than the one he takes her from; and he who
+can do it, where there is no [[Doubt|doubt]] of _her_ regard, must, I think, be
+the happiest of mortals.—[[Frank Churchill]] is, indeed, the favourite of
+fortune. Every thing turns out for his good.—He meets with a young
+woman at a watering-place, gains her affection, cannot even weary her
+by negligent treatment—and had he and all his family sought round the
+world for a perfect wife for him, they could not have found her
+superior.—His aunt is in the way.—His aunt dies.—He has only to
+speak.—His friends are eager to promote his happiness.—He had used
+every [[Body|body]] ill—and they are all delighted to forgive him.—He is a
+fortunate man indeed!”
 
-“I should not have thought it possible,” she began, “that you could
-have misunderstood me! I know we agreed never to name him—but
-considering how infinitely superior he is to every [[Body|body]] else, I should
-not have thought it possible that I could be supposed to mean any other
-person. Mr. [[Frank Churchill]], indeed! I do not know who would ever look
-at him in the company of the other. I [[Hope|hope]] I have a better taste than
-to think of Mr. [[Frank Churchill]], who is like nobody by his side. And
-that you should have been so mistaken, is amazing!—I am sure, but for
-believing that you entirely approved and meant to encourage me in my
-attachment, I should have considered it at first too great a
-presumption almost, to dare to think of him. At first, if you had not
-told me that more wonderful things had happened; that there had been
-matches of greater disparity (those were your very words);—I should not
-have dared to give way to—I should not have thought it possible—But if
-_you_, who had been always acquainted with him—”
+“You speak as if you envied him.”
 
-“Harriet!” cried [[Emma]], collecting herself resolutely—“Let us understand
-each other now, without the possibility of farther mistake. Are you
-speaking of—Mr. Knightley?”
+“And I do envy him, [[Emma]]. In one respect he is the object of my envy.”
 
-“To be sure I am. I never could have an idea of any [[Body|body]] else—and so I
-thought you knew. When we talked about him, it was as clear as
-possible.”
+[[Emma]] could say no more. They seemed to be within half a sentence of
+Harriet, and her immediate feeling was to avert the subject, if
+possible. She made her plan; she would speak of something totally
+different—the children in Brunswick Square; and she only waited for
+breath to begin, when Mr. Knightley startled her, by saying,
 
-“Not quite,” returned [[Emma]], with forced calmness, “for all that you
-then said, appeared to me to relate to a different person. I could
-almost assert that you had _named_ Mr. [[Frank Churchill]]. I am sure the
-service Mr. [[Frank Churchill]] had rendered you, in protecting you from
-the gipsies, was spoken of.”
+“You will not ask me what is the point of envy.—You are determined, I
+see, to have no curiosity.—You are wise—but _I_ cannot be wise. [[Emma]], I
+must tell you what you will not ask, though I may wish it unsaid the
+next moment.”
 
-“Oh! Miss Woodhouse, how you do forget!”
+“Oh! then, don’t speak it, don’t speak it,” she eagerly cried. “Take a
+little [[Time|time]], consider, do not commit yourself.”
 
-“My dear Harriet, I perfectly remember the substance of what I said on
-the occasion. I told you that I did not [[Wonder|wonder]] at your attachment; that
-considering the service he had rendered you, it was extremely
-natural:—and you agreed to it, expressing yourself very warmly as to
-your sense of that service, and mentioning even what your sensations
-had been in seeing him come forward to your rescue.—The impression of
-it is strong on my [[Memory|memory]].”
+“Thank you,” said he, in an accent of deep mortification, and not
+another syllable followed.
 
-“Oh, dear,” cried Harriet, “now I recollect what you mean; but I was
-thinking of something very different at the [[Time|time]]. It was not the
-gipsies—it was not Mr. [[Frank Churchill]] that I meant. No! (with some
-elevation) I was thinking of a much more precious circumstance—of Mr.
-Knightley’s coming and asking me to [[Dance|dance]], when Mr. Elton would not
-stand up with me; and when there was no other partner in the room. That
-was the kind action; that was the noble benevolence and generosity;
-that was the service which made me begin to feel how superior he was to
-every other being upon earth.”
+[[Emma]] could not bear to give him [[Pain|pain]]. He was wishing to confide in
+her—perhaps to consult her;—cost her what it would, she would listen.
+She might assist his resolution, or reconcile him to it; she might give
+just praise to Harriet, or, by representing to him his own
+independence, relieve him from that state of indecision, which must be
+more intolerable than any alternative to such a mind as his.—They had
+reached the [[house]].
 
-“Good God!” cried [[Emma]], “this has been a most unfortunate—most
-deplorable mistake!—What is to be done?”
+“You are going in, I suppose?” said he.
 
-“You would not have encouraged me, then, if you had understood me? At
-least, however, I cannot be worse off than I should have been, if the
-other had been the person; and now—it _is_ possible—”
+“No,”—replied [[Emma]]—quite confirmed by the depressed manner in which he
+still spoke—“I should like to take another turn. Mr. Perry is not
+gone.” And, after proceeding a few steps, she added—“I stopped you
+ungraciously, just now, Mr. Knightley, and, I am afraid, gave you
+[[Pain|pain]].—But if you have any wish to speak openly to me as a friend, or to
+ask my opinion of any thing that you may have in contemplation—as a
+friend, indeed, you may command me.—I will hear whatever you like. I
+will tell you exactly what I think.”
 
-She paused a few moments. [[Emma]] could not speak.
+“As a friend!”—repeated Mr. Knightley.—“[[Emma]], that I [[Fear|fear]] is a word—No,
+I have no wish—Stay, yes, why should I hesitate?—I have gone too far
+already for concealment.—[[Emma]], I accept your offer—Extraordinary as it
+may seem, I accept it, and refer myself to you as a friend.—Tell me,
+then, have I no chance of ever succeeding?”
 
-“I do not [[Wonder|wonder]], Miss Woodhouse,” she resumed, “that you should feel a
-great difference between the two, as to me or as to any [[Body|body]]. You must
-think one five hundred million times more above me than the other. But
-I [[Hope|hope]], Miss Woodhouse, that supposing—that if—strange as it may
-appear—. But you know they were your own words, that _more_ wonderful
-things had happened, matches of _greater_ disparity had taken place
-than between Mr. [[Frank Churchill]] and me; and, therefore, it seems as if
-such a thing even as this, may have occurred before—and if I should be
-so fortunate, beyond expression, as to—if Mr. Knightley should
-really—if _he_ does not mind the disparity, I [[Hope|hope]], dear Miss
-Woodhouse, you will not set yourself against it, and try to put
-difficulties in the way. But you are too good for that, I am sure.”
+He stopped in his earnestness to look the question, and the expression
+of his eyes overpowered her.
 
-Harriet was standing at one of the windows. [[Emma]] turned round to look
-at her in consternation, and hastily said,
-
-“Have you any idea of Mr. Knightley’s returning your affection?”
-
-“Yes,” replied Harriet modestly, but not fearfully—“I must say that I
-have.”
-
-[[Emma]]’s eyes were instantly withdrawn; and she sat silently meditating,
-in a fixed attitude, for a few minutes. A few minutes were sufficient
-for making her acquainted with her own heart. A mind like hers, once
-opening to suspicion, made rapid progress. She touched—she admitted—she
-acknowledged the whole [[Truth|truth]]. Why was it so much worse that Harriet
-should be in [[Love|love]] with Mr. Knightley, than with [[Frank Churchill]]? Why
-was the evil so dreadfully increased by Harriet’s having some [[Hope|hope]] of a
-return? It darted through her, with the [[Speed|speed]] of an arrow, that Mr.
-Knightley must marry no one but herself!
-
-Her own conduct, as [[Well|well]] as her own heart, was before her in the same
-few minutes. She saw it all with a clearness which had never blessed
-her before. How improperly had she been acting by Harriet! How
-inconsiderate, how indelicate, how irrational, how unfeeling had been
-her conduct! What blindness, what [[Madness|madness]], had led her on! It struck
-her with dreadful force, and she was ready to give it every bad name in
-the world. Some portion of respect for herself, however, in spite of
-all these demerits—some concern for her own appearance, and a strong
-sense of justice by Harriet—(there would be no need of _compassion_ to
-the girl who believed herself loved by Mr. Knightley—but justice
-required that she should not be made unhappy by any coldness now,) gave
-[[Emma]] the resolution to sit and endure farther with calmness, with even
-apparent kindness.—For her own advantage indeed, it was fit that the
-utmost extent of Harriet’s hopes should be enquired into; and Harriet
-had done nothing to forfeit the regard and interest which had been so
-voluntarily formed and maintained—or to deserve to be slighted by the
-person, whose counsels had never led her right.—Rousing from
-reflection, therefore, and subduing her emotion, she turned to Harriet
-again, and, in a more inviting accent, renewed the conversation; for as
-to the subject which had first introduced it, the wonderful story of
-[[Jane Fairfax]], that was quite sunk and lost.—Neither of them thought but
-of Mr. Knightley and themselves.
+“My dearest [[Emma]],” said he, “for dearest you will always be, whatever
+the event of this hour’s conversation, my dearest, most beloved
+[[Emma]]—tell me at once. Say ‘No,’ if it is to be said.”—She could really
+say nothing.—“You are silent,” he cried, with great animation;
+“absolutely silent! at present I ask no more.”

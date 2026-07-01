@@ -14,6 +14,33 @@ tags:
 </nav>
 
 
+afterward. We should have found him stamping and damning up and down
+
+this path, and calling for clean boots."
+"Let us [[Hope|hope]] we shall find him as happily employed," remarked the
+
+diplomatist. "In that case the voice must have come out of the
+
+wood."
+"I'll swear it didn't come out of the [[house]]," said Fisher; and the
+
+two disappeared together into the twilight of wintry trees.
+The plantation stood dark against the fiery colors of sunrise, a
+
+black fringe having that feathery appearance which makes trees when
+
+they are bare the very reverse of rugged. Hours and hours afterward,
+
+when the same dense, but delicate, margin was dark against the
+
+greenish colors opposite the sunset, the search thus begun at
+
+sunrise had not come to an end. By successive stages, and to slowly
+
+gathering groups of the company, it became apparent that the most
+
+extraordinary of all gaps had appeared in the party; the guests
+
 could find no trace of their host anywhere. The servants reported
 
 that his bed had been slept in and his skates and his fancy costume
@@ -157,36 +184,3 @@ murderer without daring to say so. Because he wore a toy [[Sword|sword]] and
 happened to know how to use it, you want us to believe he used it
 
 like a bloodthirsty maniac for no reason in the world. And because
-
-he could have hit my brother and didn't, you deduce that he did.
-
-That's the sort of way you argue. And as for his having disappeared,
-
-you're wrong in that as you are in everything else, for here he
-
-comes."
-And, indeed, the green figure of the fictitious [[Robin Hood]] slowly
-
-detached itself from the gray background of the trees, and came
-
-toward them as she spoke.
-He approached the group slowly, but with composure; but he was
-
-decidedly pale, and the eyes of Brain and Fisher had already taken
-
-in one detail of the green-clad figure more clearly than all the
-
-rest. The horn still swung from his baldrick, but the [[Sword|sword]] was
-
-gone.
-Rather to the surprise of the company, Brain did not follow up the
-
-question thus suggested; but, while retaining an air of leading the
-
-inquiry, had also an appearance of changing the subject.
-"Now we're all assembled," he observed, quietly, "there is a
-
-question I want to ask to begin with. Did anybody here actually see
-
-Lord Bulmer this morning?"
-Leonard Crane turned his pale face round the circle of faces till he

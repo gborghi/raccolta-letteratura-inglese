@@ -1,5 +1,5 @@
 ---
-title: "[[Romeo|ROMEO]] AND [[Juliet|JULIET]]"
+title: "ROMEO AND JULIET"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/romeo-and-juliet-(shakespeare)"

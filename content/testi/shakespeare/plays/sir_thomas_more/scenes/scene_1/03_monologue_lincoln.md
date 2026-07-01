@@ -1,5 +1,5 @@
 ---
-title: "[[Sir Thomas More]] — Scene 1 — monologue ([[Lincoln|LINCOLN]]) [3]"
+title: "Sir Thomas More — Scene 1 — monologue (LINCOLN) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/sir-thomas-more-(shakespeare)"

@@ -1,5 +1,5 @@
 ---
-title: "[[Landor's Cottage]] (part 5)"
+title: "Landor's Cottage (part 5)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/landor's-cottage-(poe)"
@@ -13,6 +13,50 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/landor_s_cottage/part/part_04">‹ part 04</a><span></span></div>
 </nav>
 
+
+      I did not remain very long on the brow of the [[Hill|hill]], although long
+      enough to make a thorough survey of the scene at my feet. It was
+      clear that I had wandered from the [[Road|road]] to the village, and I had
+      thus good traveller’s excuse to open the gate before me, and
+      inquire my way, at all events; so, without more ado, I proceeded.
+
+      The [[Road|road]], after passing the gate, seemed to lie upon a natural
+      ledge, sloping gradually down along the face of the north-eastern
+      cliffs. It led me on to the foot of the northern precipice, and
+      thence over the bridge, round by the eastern gable to the front
+      door. In this progress, I took notice that no sight of the
+      out-houses could be obtained.
+
+      As I turned the corner of the gable, the mastiff bounded towards
+      me in stern [[Silence|silence]], but with the eye and the whole air of a
+      tiger. I held him out my hand, however, in token of amity—and I
+      never yet knew the dog who was proof against such an appeal to
+      his courtesy. He not only shut his mouth and wagged his tail, but
+      absolutely offered me his paw—afterward extending his civilities
+      to Ponto.
+
+      As no bell was discernible, I rapped with my stick against the
+      door, which stood half open. Instantly a figure advanced to the
+      threshold—that of a young woman about twenty-eight years of
+      age—slender, or rather slight, and somewhat above the medium
+      height. As she approached, with a certain modest decision of step
+      altogether indescribable. I said to myself, “Surely here I have
+      found the perfection of natural, in contradistinction from
+      artificial grace.” The second impression which she made on me,
+      but by far the more vivid of the two, was that of enthusiasm. So
+      intense an expression of [[Romance|romance]], perhaps I should call it, or of
+      unworldliness, as that which gleamed from her deep-set eyes, had
+      never so sunk into my heart of hearts before. I know not how it
+      is, but this peculiar expression of the eye, wreathing itself
+      occasionally into the lips, is the most powerful, if not
+      absolutely the sole spell, which rivets my interest in woman.
+      “[[Romance]],” provided my readers fully comprehended what I would
+      here imply by the word—“[[Romance|romance]]” and “womanliness” seem to me
+      convertible terms: and, after all, what man truly loves in woman,
+      is simply her womanhood. The eyes of Annie (I heard some one from
+      the interior call her “Annie, darling!”) were “spiritual grey;”
+      her hair, a light chestnut: this is all I had [[Time|time]] to observe of
+      her.
 
       At her most courteous of invitations, I entered—passing first
       into a tolerably wide vestibule. Having come mainly to observe, I

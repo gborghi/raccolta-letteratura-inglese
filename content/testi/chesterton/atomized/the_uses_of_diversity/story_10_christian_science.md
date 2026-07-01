@@ -130,8 +130,8 @@ It is the link of the [[Union|union]] of flesh and spirit, which the heresy
 of the healer blasphemes.  The priest may have taken his spirit
 with a little flesh, or the doctor his flesh with a little spirit;
 but the [[Union|union]] was essential to both.  With the religious there
-might be much [[Prayer|prayer]] and a little oil; with the scientific there
-might be much oil (castor oil) and precious little [[Prayer|prayer]].
+might be much [[prayer]] and a little oil; with the scientific there
+might be much oil (castor oil) and precious little [[prayer]].
 But no religion disowned sacraments and no doctors disowned sympathy.
 And they are right to combine together against the great and
 horrible heresy--the horrible heresy that there can be such a thing

@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 35: DEPRESSION (part 2)"
+title: "David Copperfield — Chapter 35: DEPRESSION (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_35_depression/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_35_depression/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘Stuff and nonsense, Trot!’ replied my aunt.
+
+My aunt went on with a quiet enjoyment, in which there was very little
+affectation, if any; drinking the warm ale with a tea-spoon, and soaking
+her strips of toast in it.
 
 ‘Trot,’ said she, ‘I don’t care for strange faces in general, but I
 rather like that Barkis of yours, do you know!’
@@ -147,15 +153,3 @@ to Dora that I could not help it. I knew that it was base in me not to
 think more of my aunt, and less of myself; but, so far, selfishness
 was inseparable from Dora, and I could not put Dora on one side for any
 mortal creature. How exceedingly miserable I was, that [[Night|night]]!
-
-As to [[Sleep|sleep]], I had [[Dreams|dreams]] of [[Poverty|poverty]] in all sorts of shapes, but I
-seemed to dream without the previous ceremony of going to [[Sleep|sleep]]. Now I
-was ragged, wanting to sell Dora matches, six bundles for a halfpenny;
-now I was at the office in a nightgown and boots, remonstrated with by
-Mr. Spenlow on appearing before the clients in that airy attire; now
-I was hungrily picking up the crumbs that fell from old Tiffey’s
-daily biscuit, regularly eaten when St. Paul’s struck one; now I was
-hopelessly endeavouring to get a licence to marry Dora, having nothing
-but one of [[Uriah Heep]]’s gloves to offer in exchange, which the whole
-Commons rejected; and still, more or less conscious of my own room, I
-was always tossing about like a distressed [[Ship|ship]] in a sea of bed-clothes.

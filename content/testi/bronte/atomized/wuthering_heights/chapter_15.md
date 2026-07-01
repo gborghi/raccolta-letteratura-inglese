@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 15"
+title: "Wuthering Heights — Chapter 15"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/wuthering-heights-(bronte)"
@@ -17,7 +17,7 @@ tags:
 CHAPTER XV
 
 
-Another week over—and I am so many days nearer health, and [[spring]]! I
+Another week over—and I am so many days nearer health, and [[Spring|spring]]! I
 have now heard all my neighbour’s [[history]], at different sittings, as
 the housekeeper could spare [[Time|time]] from more important occupations. I’ll
 continue it in her own words, only a little condensed. She is, on the
@@ -214,7 +214,7 @@ In her eagerness she [[Rose|rose]] and supported herself on the arm of the
 chair. At that earnest appeal he turned to her, looking absolutely
 desperate. His eyes, wide and wet, at last flashed fiercely on her; his
 breast heaved convulsively. An instant they held asunder, and then how
-they met I hardly saw, but Catherine made a [[spring]], and he caught her,
+they met I hardly saw, but Catherine made a [[Spring|spring]], and he caught her,
 and they were locked in an embrace from which I thought my mistress
 would never be released alive: in fact, to my eyes, she seemed directly
 insensible. He flung himself into the nearest seat, and on my

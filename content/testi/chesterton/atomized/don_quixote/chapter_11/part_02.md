@@ -1,5 +1,5 @@
 ---
-title: "[[Don Quixote]] — Chapter 10 (part 2)"
+title: "Don Quixote — Chapter 10 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/don-quixote-(chesterton)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_11/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_11/part_03">part 03 ›</a></div>
 </nav>
 
+
+At this moment the [[Body|body]] of our humiliation was again
+thrown crashing against the door; and it seemed to be
+a [[Body|body]] of some weight and momentum and even nobility.
+The magistrate was not altogether satisfied.  Patients or prisoners
+(or whatever the new social victims ought to be called) were indeed
+frequently taken into the adjoining room to await examination;
+but generally under the guardianship of attendants who would
+prevent them indicating their impatience in so lively a style.
+The only other hypothesis was that the lunatic next door was
+so exceedingly lively as to have killed his keeper.
 
 Whatever else the old army surgeon was, he was a man of [[Courage|courage]].
 He got up from his desk and went across to the door that was
@@ -106,14 +117,3 @@ it almost reverently as a rounded and perfected thing, a poem.
 But if all went [[Well|well]], one consequence was likely enough to follow;
 and when he had waited for about ten minutes, he was gratified
 to find his calculation correct.
-
-Dr. Hendry, once famous in the artistic world, walked out between
-the dark pillars of the porch that stood out against the sea;
-as free as the sea-gull that was swerving along the line of the cliff.
-He had an air of almost aggressive good taste; as if informing
-the whole street that he would refuse to inform anybody about
-the delicate professional [[Secrets|secrets]] just confided to him.  He made
-a movement as if pulling on a pair of invisible gloves, and he quite
-naturally stepped into the hansom cab, before he had thought of it.
-The conscientious [[cabman]] pulled down his top hat over his brows
-and rapidly drove him away up the steep and stony streets.

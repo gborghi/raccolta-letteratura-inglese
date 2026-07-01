@@ -1,5 +1,5 @@
 ---
-title: "The [[Pickwick]] Papers"
+title: "The Pickwick Papers"
 author: "Dickens"
 unitType: work
 parentWork: "works/the-pickwick-papers-(dickens)"
@@ -8154,7 +8154,7 @@ their feelings or caprice dictated.
 During the whole [[Time|time]] of the polling, the town was in a perpetual fever
 of excitement. Everything was conducted on the most liberal and
 delightful scale. Excisable articles were remarkably cheap at all the
-public-houses; and [[Spring|spring]] vans paraded the streets for the accommodation
+public-houses; and [[spring]] vans paraded the streets for the accommodation
 of voters who were seized with any temporary dizziness in the head--an
 epidemic which prevailed among the electors, during the contest, to a
 most alarming extent, and under the influence of which they might
@@ -9644,7 +9644,7 @@ distance between themselves and the good old town of Bury St. Edmunds.
 CHAPTER XVI. TOO FULL OF ADVENTURE TO BE BRIEFLY DESCRIBED
 
 There is no month in the whole year in which [[Nature|nature]] wears a more
-beautiful appearance than in the month of August. [[Spring]] has many
+beautiful appearance than in the month of August. [[spring|Spring]] has many
 beauties, and May is a fresh and blooming month, but the charms of this
 [[Time|time]] of year are enhanced by their contrast with the [[Winter|winter]] season.
 August has no such advantage. It comes when we remember nothing but
@@ -11966,7 +11966,7 @@ Hunt?’
 
 ‘Yes, Sir.’
 
-‘And remind me to have a board done about trespassers, and [[Spring|spring]] guns,
+‘And remind me to have a board done about trespassers, and [[spring]] guns,
 and all that sort of thing, to keep the common people out. Do you hear,
 Hunt; do you hear?’
 
@@ -18114,7 +18114,7 @@ commenced without more ado--
 
 A CHRISTMAS [[carol|CAROL]]
 
-‘I care not for [[Spring]]; on his fickle wing Let the blossoms and buds be
+‘I care not for [[spring|Spring]]; on his fickle wing Let the blossoms and buds be
 borne; He woos them amain with his treacherous rain, And he scatters
 them ere the morn. An inconstant elf, he knows not himself, Nor his own
 changing mind an hour, He’ll smile in your face, and, with wry grimace,
@@ -18555,7 +18555,7 @@ grain, because they bore within their own bosoms the materials of
 happiness, contentment, and peace. He saw that women, the tenderest and
 most fragile of all God’s creatures, were the oftenest superior to
 sorrow, adversity, and distress; and he saw that it was because they
-bore, in their own hearts, an inexhaustible [[Well|well]]-[[Spring|spring]] of affection and
+bore, in their own hearts, an inexhaustible [[Well|well]]-[[spring]] of affection and
 devotion. Above all, he saw that men like himself, who snarled at the
 mirth and cheerfulness of others, were the foulest weeds on the fair
 surface of the earth; and setting all the good of the world against the
@@ -21805,7 +21805,7 @@ and a glass bottle that might hold about a quarter of a pint of
 smelling-salts in the other, ready for any emergency. Mrs. Sanders,
 whose eyes were intently fixed on the judge’s face, planted herself
 close by, with the large umbrella, keeping her right thumb pressed on
-the [[Spring|spring]] with an earnest countenance, as if she were fully prepared to
+the [[spring]] with an earnest countenance, as if she were fully prepared to
 put it up at a moment’s notice.
 
 ‘Mrs. Cluppins,’ said Serjeant Buzfuz, ‘pray compose yourself, ma’am.’
@@ -34107,7 +34107,7 @@ closely, there _is_ a likeness.’
 
 ‘We were always considered like each other, Sir,’ said Job, with a
 cunning look just lurking in the corners of his eyes, ‘only I was really
-of a serious [[Nature|nature]], and he never was. He emigrated to [[America]], Sir, in
+of a serious [[Nature|nature]], and he never was. He emigrated to [[america|America]], Sir, in
 consequence of being too much sought after here, to be comfortable; and
 has never been heard of since.’
 

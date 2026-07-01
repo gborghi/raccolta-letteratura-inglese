@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 23 (part 4)"
+title: "Bleak House — Chapter 23 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,28 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_23/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_23/part_05">part 05 ›</a></div>
 </nav>
 
+
+Caddy was quite transported by this reply of mine, being, I believe,
+as susceptible to the least kindness or encouragement as any tender
+heart that ever beat in this world; and after another turn or two
+round the [[Garden|garden]], during which she put on an entirely new pair of
+gloves and made herself as resplendent as possible that she might do
+no avoidable discredit to the Master of Deportment, we went to Newman
+Street direct.
+
+Prince was teaching, of course. We found him engaged with a not very
+hopeful pupil—a stubborn little girl with a sulky forehead, a deep
+voice, and an inanimate, dissatisfied mama—whose case was certainly
+not rendered more hopeful by the confusion into which we threw her
+preceptor. The lesson at last came to an end, after proceeding as
+discordantly as possible; and when the little girl had changed her
+shoes and had had her white muslin extinguished in shawls, she was
+taken away. After a few words of preparation, we then went in search
+of Mr. Turveydrop, whom we found, grouped with his hat and gloves, as
+a model of deportment, on the sofa in his private apartment—the only
+comfortable room in the [[house]]. He appeared to have dressed at his
+leisure in the intervals of a light collation, and his dressing-case,
+brushes, and so forth, all of quite an elegant kind, lay about.
 
 “Father, Miss Summerson; Miss Jellyby.”
 
@@ -98,7 +120,7 @@ on the sofa again with his cheeks puffing over his stiff cravat, a
 perfect model of parental deportment.
 
 “My son!” said Mr. Turveydrop. “My children! I cannot resist your
-[[Prayer|prayer]]. Be happy!”
+[[prayer]]. Be happy!”
 
 His benignity as he raised his future daughter-in-law and stretched
 out his hand to his son (who kissed it with affectionate respect and
@@ -126,27 +148,3 @@ simple. My little apartment here, my few essentials for the toilet,
 my frugal morning meal, and my little dinner will suffice. I charge
 your dutiful affection with the supply of these requirements, and I
 charge myself with all the rest.”
-
-They were overpowered afresh by his uncommon generosity.
-
-“My son,” said Mr. Turveydrop, “for those little points in which you
-are deficient—points of deportment, which are born with a man, which
-may be improved by cultivation, but can never be originated—you may
-still rely on me. I have been faithful to my post since the days of
-his Royal Highness the Prince Regent, and I will not [[Desert|desert]] it now.
-No, my son. If you have ever contemplated your father’s poor position
-with a feeling of [[Pride|pride]], you may rest assured that he will do nothing
-to tarnish it. For yourself, Prince, whose character is different (we
-cannot be all alike, nor is it advisable that we should), work, be
-industrious, earn money, and extend the connexion as much as
-possible.”
-
-“That you may depend I will do, dear father, with all my heart,”
-replied Prince.
-
-“I have no [[Doubt|doubt]] of it,” said Mr. Turveydrop. “Your qualities are not
-shining, my dear [[Child|child]], but they are steady and useful. And to both
-of you, my children, I would merely observe, in the spirit of a
-sainted wooman on whose path I had the happiness of casting, I
-believe, SOME ray of light, take care of the establishment, take care
-of my simple wants, and bless you both!”

@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]]"
+title: "The Professor"
 author: "Bronte"
 unitType: work
 parentWork: "works/the-professor-(bronte)"
@@ -3005,7 +3005,7 @@ me the records of the past. First, Eton. All in that picture is in far
 
 perspective, receding, diminutive; but freshly coloured, green, dewy,
 
-with a [[spring]] sky, piled with glittering yet showery clouds; for my
+with a [[Spring|spring]] sky, piled with glittering yet showery clouds; for my
 
 [[Childhood|childhood]] was not all sunshine--it had its overcast, its cold, its
 
@@ -4039,7 +4039,7 @@ fauteuil beside it. This was a woman, too, and, moreover, an old woman,
 
 and as fat and as rubicund as Madame Pelet was meagre and yellow; her
 
-attire was likewise very fine, and [[spring]] [[Flowers|flowers]] of different hues
+attire was likewise very fine, and [[Spring|spring]] [[Flowers|flowers]] of different hues
 
 circled in a bright wreath the [[Crown|crown]] of her violet-coloured velvet
 
@@ -4319,7 +4319,7 @@ painted in [[Imitation|imitation]] of marble also; and at the far end opened a g
 
 door, through which I saw shrubs and a grass-plat, looking pleasant in
 
-the sunshine of the mild [[spring]] evening--for it was now the middle of
+the sunshine of the mild [[Spring|spring]] evening--for it was now the middle of
 
 April.
 
@@ -5233,7 +5233,7 @@ frivolities.”
 
 “Why, the sentimental. Any woman sinking her shaft deep enough, will
 
-at last reach a fathomless [[spring]] of sensibility in thy breast,
+at last reach a fathomless [[Spring|spring]] of sensibility in thy breast,
 
 Crimsworth.”
 
@@ -5993,7 +5993,7 @@ though mute mortification. Still she persevered, and at last, I am bound
 
 to confess it, her finger, essaying, proving every atom of the casket,
 
-touched its secret [[spring]], and for a moment the lid sprung open; she
+touched its secret [[Spring|spring]], and for a moment the lid sprung open; she
 
 laid her hand on the [[Jewel|jewel]] within; whether she stole and broke it, or
 
@@ -6759,7 +6759,7 @@ heard a rapid, gabbling sound, which warned me that the “priere du midi”
 
 been impious to intrude my heretical presence during its progress. How
 
-the repeater of the [[Prayer|prayer]] did cackle and splutter! I never before or
+the repeater of the [[prayer]] did cackle and splutter! I never before or
 
 since heard language enounced with such steam-engine haste. “Notre Pere
 
@@ -6777,7 +6777,7 @@ that in entering with aplomb, and mounting the estrade with emphasis,
 
 consisted the grand secret of ensuring immediate [[Silence|silence]]. The
 
-folding-doors between the two classes, opened for the [[Prayer|prayer]], were
+folding-doors between the two classes, opened for the [[prayer]], were
 
 instantly closed; a maitresse, work-box in hand, took her seat at her
 
@@ -9209,7 +9209,7 @@ for enjoyment; then, truly, we may find ourselves without support,
 
 robbed of [[Hope|hope]]. Our agony is great, and how can it end? We have broken
 
-the [[spring]] of our powers; life must be all [[Suffering|suffering]]--too feeble to
+the [[Spring|spring]] of our powers; life must be all [[Suffering|suffering]]--too feeble to
 
 conceive [[Faith|faith]]--[[Death|death]] must be darkness--God, spirits, religion can have
 
@@ -14403,7 +14403,7 @@ Vandenhuten received her, and seated her beside himself; we drove all
 
 together to the Protestant chapel, went through a certain service in the
 
-Common [[Prayer]] Book, and she and I came out married. M. Vandenhuten had
+Common [[prayer|Prayer]] Book, and she and I came out married. M. Vandenhuten had
 
 given the bride away.
 
@@ -15153,7 +15153,7 @@ opens upon a lane as green as the lawn, very long, shady, and little
 
 frequented; on the turf of this lane generally appear the first daisies
 
-of [[spring]]--whence its name--Daisy Lane; serving also as a distinction to
+of [[Spring|spring]]--whence its name--Daisy Lane; serving also as a distinction to
 
 the [[house]].
 

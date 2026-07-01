@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 12 (part 2)"
+title: "Jane Eyre — Chapter 12 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_12/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_12/part_03">part 03 ›</a></div>
 </nav>
 
+
+October, November, December passed away. One afternoon in January, Mrs.
+Fairfax had begged a holiday for Adèle, because she had a cold; and, as
+Adèle seconded the request with an ardour that reminded me how precious
+occasional holidays had been to me in my own [[Childhood|childhood]], I accorded it,
+deeming that I did [[Well|well]] in showing pliability on the point. It was a
+fine, calm day, though very cold; I was tired of sitting still in the
+library through a whole long morning: Mrs. Fairfax had just written a
+letter which was waiting to be posted, so I put on my bonnet and cloak
+and volunteered to carry it to Hay; the distance, two miles, would be a
+pleasant [[Winter|winter]] afternoon walk. Having seen Adèle comfortably seated in
+her little chair by Mrs. Fairfax’s parlour fireside, and given her her
+best wax doll (which I usually kept enveloped in silver paper in a
+drawer) to play with, and a story-book for change of amusement; and
+having replied to her “Revenez bientôt, ma bonne amie, ma chère Mdlle.
+Jeannette,” with a kiss, I set out.
 
 The ground was hard, the air was still, my [[Road|road]] was lonely; I walked
 fast till I got warm, and then I walked slowly to enjoy and analyse the
@@ -95,24 +111,3 @@ other help at hand to summon. I obeyed him, and walked down to the
 traveller, by this [[Time|time]] struggling himself free of his steed. His
 efforts were so vigorous, I thought he could not be much hurt; but I
 asked him the question—
-
-“Are you injured, sir?”
-
-I think he was swearing, but am not certain; however, he was
-pronouncing some formula which prevented him from replying to me
-directly.
-
-“Can I do anything?” I asked again.
-
-“You must just stand on one side,” he answered as he [[Rose|rose]], first to his
-knees, and then to his feet. I did; whereupon began a heaving,
-stamping, clattering process, accompanied by a barking and baying which
-removed me effectually some yards’ distance; but I would not be driven
-quite away till I saw the event. This was finally fortunate; the [[Horse|horse]]
-was re-established, and the dog was silenced with a “Down, Pilot!” The
-traveller now, stooping, felt his foot and leg, as if trying whether
-they were sound; apparently something ailed them, for he halted to the
-stile whence I had just risen, and sat down.
-
-I was in the mood for being useful, or at least officious, I think, for
-I now drew near him again.

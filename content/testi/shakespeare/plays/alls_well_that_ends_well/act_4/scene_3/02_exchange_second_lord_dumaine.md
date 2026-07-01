@@ -1,5 +1,5 @@
 ---
-title: "Alls [[Well]] that Ends [[Well]] — Act IV, Scene 3 — exchange (SECOND LORD [[Dumaine|DUMAINE]]) [2]"
+title: "Alls Well that Ends Well — Act IV, Scene 3 — exchange (SECOND LORD DUMAINE) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/all’s-well-that-ends-well-(shakespeare)"

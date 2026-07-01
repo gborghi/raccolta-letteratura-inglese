@@ -14,6 +14,10 @@ tags:
 </nav>
 
 
+      paroxysm of [[Despair|despair]] I threw myself again upon the mattress,
+
+      where, for about the period of a day and [[Night|night]], I lay in a kind
+
       of stupor, relieved only by momentary intervals of reason and
 
       recollection.
@@ -185,11 +189,3 @@ tags:
       direction of the steerage. So unexpected was anything of the
 
       kind, and so intense was the emotion excited within me by the
-
-      sound, that I endeavoured in vain to reply. My powers of speech
-
-      totally failed, and in an agony of terror lest my friend should
-
-      conclude me dead, and return without attempting to reach me, I
-
-      stood up between the crates near the door of the box, trembling

@@ -1,5 +1,5 @@
 ---
-title: "A Christmas [[carol|Carol]] — Stave 2: THE FIRST OF THE THREE SPIRITS (part 5)"
+title: "A Christmas Carol — Stave 2: THE FIRST OF THE THREE SPIRITS (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-christmas-carol-(dickens)"
@@ -13,6 +13,28 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_christmas_carol/chapter_02_the_first_of_the_three_spirits/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/a_christmas_carol/chapter_02_the_first_of_the_three_spirits/part_06">part 06 ›</a></div>
 </nav>
 
+
+"A small matter," said the [[Ghost]], "to make these silly
+folks so full of gratitude."
+
+"Small!" echoed Scrooge.
+
+The Spirit signed to him to listen to the two apprentices,
+who were pouring out their hearts in praise of Fezziwig:
+and when he had done so, said,
+
+"Why! Is it not? He has spent but a few pounds of
+your mortal money: three or four perhaps. Is that so
+much that he deserves this praise?"
+
+"It isn't that," said Scrooge, heated by the remark, and
+speaking unconsciously like his former, not his latter, [[Self|self]].
+"It isn't that, Spirit. He has the power to render us happy
+or unhappy; to make our service light or burdensome; a
+pleasure or a toil. Say that his power lies in words and
+looks; in things so slight and insignificant that it is
+impossible to add and count 'em up: what then? The happiness
+he gives, is quite as great as if it cost a fortune."
 
 He felt the Spirit's glance, and stopped.
 

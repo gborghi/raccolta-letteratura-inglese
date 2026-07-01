@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 51: THE BEGINNING OF A LONGER [[Journey|JOURNEY]] (part 4)"
+title: "David Copperfield — Chapter 51: THE BEGINNING OF A LONGER [[Journey|JOURNEY (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -130,10 +130,3 @@ Punch to think that I once had the [[Honour|honour]] of being connected with
 your family. And dear me, it’s a long [[Time|time]] ago, now, ain’t it? Over
 at Blunderstone. With a pretty little party laid along with the other
 party. And you quite a small party then, yourself. Dear, dear!’
-
-I changed the subject by referring to Emily. After assuring him that I
-did not forget how interested he had always been in her, and how
-kindly he had always treated her, I gave him a general account of her
-restoration to her uncle by the aid of Martha; which I knew would please
-the old man. He listened with the utmost attention, and said, feelingly,
-when I had done:

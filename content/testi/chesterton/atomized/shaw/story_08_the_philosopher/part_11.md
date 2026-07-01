@@ -1,5 +1,5 @@
 ---
-title: "[[Shaw]] — THE PHILOSOPHER (part 11)"
+title: "Shaw — THE PHILOSOPHER (part 11)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/shaw-(chesterton)"
@@ -13,6 +13,55 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/shaw/story_08_the_philosopher/part_10">‹ part 10</a><a class="ex-next" href="/testi/chesterton/atomized/shaw/story_08_the_philosopher/part_12">part 12 ›</a></div>
 </nav>
 
+
+The method of his life has remained mostly unchanged.
+And there is a great deal of method in his life; I can hear
+some people murmuring something about method in his [[Madness|madness]].
+He is not only neat and business-like; but, unlike some literary
+men I know, does not conceal the fact.  Having all the talents
+proper to an author, he delights to prove that he has also all
+the talents proper to a publisher; or even to a publisher's clerk.
+Though many looking at his light brown clothes would call him a Bohemian,
+he really hates and despises Bohemianism; in the sense that he hates
+and despises disorder and uncleanness and irresponsibility.
+All that part of him is peculiarly normal and efficient.
+He gives good advice; he always answers letters, and answers
+them in a decisive and very legible hand.  He has said himself
+that the only educational art that he thinks important is
+that of being able to jump off tram-cars at the proper moment.
+Though a rigid [[vegetarian]], he is quite regular and rational in his meals;
+and though he detests sport, he takes quite sufficient exercise.
+While he has always made a mock of science in theory, he is
+by [[Nature|nature]] prone to meddle with it in practice.  He is fond
+of photographing, and even more fond of being photographed.
+He maintained (in one of his moments of mad modernity)
+that photography was a finer thing than portrait-painting,
+more exquisite and more imaginative; he urged the characteristic
+argument that none of his own photographs were like each other
+or like him.  But he would certainly wash the chemicals off
+his hands the instant after an experiment; just as he would wash
+the [[Blood|blood]] off his hands the instant after a Socialist massacre.
+He cannot endure stains or accretions; he is of that temperament
+which feels tradition itself to be a coat of [[Dust|dust]]; whose [[Temptation|temptation]] it
+is to feel nothing but a sort of foul accumulation or living disease
+even in the creeper upon the cottage or the moss upon the [[Grave|grave]].
+So thoroughly are his tastes those of the civilised modern man that if it
+had not been for the [[Fire|fire]] in him of justice and anger he might have
+been the most trim and modern among the millions whom he shocks:
+and his bicycle and brown hat have been no menace in Brixton.
+But God sent among those suburbans one who was a [[Prophet|prophet]] as [[Well|well]]
+as a sanitary inspector.  He had every qualification for living
+in a villa--except the necessary indifference to his brethren
+living in pigsties.  But for the small fact that he hates
+with a sickening hatred the hypocrisy and class cruelty,
+he would really accept and admire the bathroom and the bicycle
+and asbestos-stove, having no [[Memory|memory]] of rivers or of roaring fires.
+In these things, like Mr. Straker, he is the New Man.
+But for his great [[Soul|soul]] he might have accepted modern civilisation;
+it was a wonderful escape.  This man whom men so foolishly call crazy
+and anarchic has really a dangerous affinity to the fourth-rate
+perfections of our provincial and Protestant civilisation.
+He might even have been respectable if he had had less [[Self|self]]-respect.
 
 His fulfilled fame and this tone of repose and reason
 in his life, together with the large circle of his private
@@ -66,66 +115,3 @@ have called coldness is a predestinate and ancient [[Endurance|endurance]].
 The vision of the Fabian villas grows fainter and fainter,
 until I see only a void place across which runs Bunyan's [[Pilgrim]]
 with his fingers in his ears.
-
-Bernard [[Shaw]] has occupied much of his life in trying to
-elude his followers.  The fox has enthusiastic followers,
-and [[Shaw]] seems to regard his in much the same way.
-This man whom men accuse of bidding for applause seems to me
-to shrink even from assent.  If you agree with [[Shaw]] he is very
-likely to contradict you; I have contradicted [[Shaw]] throughout,
-that is why I come at last almost to agree with him.
-His critics have accused him of vulgar [[Self|self]]-advertisement;
-in his relation to his followers he seems to me rather marked
-with a sort of mad modesty.  He seems to wish to fly from agreement,
-to have as few followers as possible.  All this reaches back,
-I think, to the three roots from which this meditation grew.
-It is partly the mere impatience and irony of the Irishman.
-It is partly the thought of the Calvinist that the host
-of God should be thinned rather than thronged;
-that Gideon must reject soldiers rather than recruit them.
-And it is partly, alas, the unhappy Progressive trying to be
-in front of his own religion, trying to destroy his own idol
-and even to desecrate his own tomb.  But from whatever causes,
-this furious escape from popularity has involved [[Shaw]] in some
-perversities and refinements which are almost mere insincerities,
-and which make it necessary to disentangle the good he has
-done from the evil in this dazzling course.  I will attempt
-some summary by stating the three things in which his influence
-seems to me thoroughly good and the three in which it seems bad.
-But for the pleasure of ending on the finer note I will speak
-first of those that seem bad.
-
-The primary respect in which [[Shaw]] has been a bad
-influence is that he has encouraged fastidiousness.
-He has made men dainty about their moral meals.
-This is indeed the root of his whole objection to [[Romance|romance]].
-Many people have objected to [[Romance|romance]] for being too airy
-and exquisite.  [[Shaw]] objects to [[Romance|romance]] for being too rank
-and coarse.  Many have despised [[Romance|romance]] because it is unreal;
-[[Shaw]] really hates it because it is a great deal too real.
-[[Shaw]] dislikes [[Romance|romance]] as he dislikes beef and beer, raw brandy
-or raw beefsteaks.  [[Romance]] is too masculine for his taste.
-You will find throughout his criticisms, amid all their [[Truth|truth]],
-their wild justice or pungent impartiality, a curious undercurrent
-of prejudice upon one point:  the preference for the refined
-rather than the rude or ugly.  Thus he will dislike a joke
-because it is coarse without asking if it is really immoral.
-He objects to a man sitting down on his hat, whereas the austere
-moralist should only object to his sitting down on someone
-else's hat.  This sensibility is barren because it is universal.
-It is useless to object to man being made ridiculous.
-Man is born ridiculous, as can easily be seen if you look
-at him soon after he is born.  It is [[Grotesque|grotesque]] to drink beer,
-but it is equally [[Grotesque|grotesque]] to drink soda-[[Water|water]];
-the grotesqueness lies in the act of filling yourself like
-a bottle through a hole.  It is undignified to walk with a
-drunken stagger; but it is fairly undignified to walk at all,
-for all walking is a sort of balancing, and there is always
-in the human being something of a quadruped on its hind legs.
-I do not say he would be more dignified if he went on all fours;
-I do not know that he ever is dignified except when he is dead.
-We shall not be refined till we are refined into [[Dust|dust]].
-Of course it is only because he is not wholly an animal
-that man sees he is a rum animal; and if man on his hind legs
-is in an artificial attitude, it is only because, like a dog,
-he is begging or saying thank you.

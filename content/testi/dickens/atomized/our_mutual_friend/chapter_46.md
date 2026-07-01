@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 5"
+title: "Our Mutual Friend — Chapter 8"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,690 +14,541 @@ tags:
 </nav>
 
 
-Chapter 5
-
-THE GOLDEN DUSTMAN FALLS INTO BAD COMPANY
-
-
-Were [[Bella Wilfer]]’s bright and ready little wits at fault, or was the
-Golden Dustman passing through the furnace of proof and coming out
-dross? Ill news travels fast. We shall know full soon.
-
-On that very [[Night|night]] of her return from the Happy Return, something
-chanced which Bella closely followed with her eyes and ears. There was
-an apartment at the side of the Boffin mansion, known as Mr Boffin’s
-room. Far less grand than the rest of the [[house]], it was far more
-comfortable, being pervaded by a certain air of homely snugness, which
-upholstering despotism had banished to that spot when it inexorably set
-its face against Mr Boffin’s appeals for [[Mercy|mercy]] in behalf of any other
-chamber. Thus, although a room of modest situation—for its windows gave
-on [[Silas Wegg]]’s old corner—and of no pretensions to velvet, satin, or
-gilding, it had got itself established in a domestic position analogous
-to that of an easy dressing-gown or pair of slippers; and whenever the
-family wanted to enjoy a particularly pleasant fireside evening, they
-enjoyed it, as an institution that must be, in Mr Boffin’s room.
-
-Mr and Mrs Boffin were reported sitting in this room, when Bella got
-back. Entering it, she found the Secretary there too; in official
-attendance it would appear, for he was standing with some papers in his
-hand by a table with shaded candles on it, at which Mr Boffin was seated
-thrown back in his easy chair.
-
-‘You are busy, sir,’ said Bella, hesitating at the door.
-
-‘Not at all, my dear, not at all. You’re one of ourselves. We never
-make company of you. Come in, come in. Here’s the old lady in her usual
-place.’
-
-Mrs Boffin adding her nod and smile of welcome to Mr Boffin’s words,
-Bella took her book to a chair in the fireside corner, by Mrs Boffin’s
-work-table. Mr Boffin’s station was on the opposite side.
-
-‘Now, Rokesmith,’ said the Golden Dustman, so sharply rapping the table
-to bespeak his attention as Bella turned the [[Leaves|leaves]] of her book, that
-she started; ‘where were we?’
-
-‘You were saying, sir,’ returned the Secretary, with an air of some
-reluctance and a glance towards those others who were present, ‘that you
-considered the [[Time|time]] had come for fixing my salary.’
-
-‘Don’t be above calling it wages, man,’ said Mr Boffin, testily. ‘What
-the deuce! I never talked of any salary when I was in service.’
-
-‘My wages,’ said the Secretary, correcting himself.
-
-‘Rokesmith, you are not proud, I [[Hope|hope]]?’ observed Mr Boffin, eyeing him
-askance.
-
-‘I [[Hope|hope]] not, sir.’
-
-‘Because I never was, when I was poor,’ said Mr Boffin. ‘[[Poverty]] and
-[[Pride|pride]] don’t go at all [[Well|well]] together. Mind that. How can they go [[Well|well]]
-together? Why it stands to reason. A man, being poor, has nothing to be
-proud of. It’s nonsense.’
-
-With a slight inclination of his head, and a look of some surprise,
-the Secretary seemed to assent by forming the syllables of the word
-‘nonsense’ on his lips.
-
-‘Now, concerning these same wages,’ said Mr Boffin. ‘Sit down.’
-
-The Secretary sat down.
-
-‘Why didn’t you sit down before?’ asked Mr Boffin, distrustfully. ‘I
-[[Hope|hope]] that wasn’t [[Pride|pride]]? But about these wages. Now, I’ve gone into the
-matter, and I say two hundred a year. What do you think of it? Do you
-think it’s enough?’
-
-‘Thank you. It is a fair proposal.’
-
-‘I don’t say, you know,’ Mr Boffin stipulated, ‘but what it may be more
-than enough. And I’ll tell you why, Rokesmith. A man of property, like
-me, is bound to consider the market-price. At first I didn’t enter into
-that as much as I might have done; but I’ve got acquainted with other
-men of property since, and I’ve got acquainted with the duties of
-property. I mustn’t go putting the market-price up, because money may
-happen not to be an object with me. A sheep is worth so much in the
-market, and I ought to give it and no more. A secretary is worth so much
-in the market, and I ought to give it and no more. However, I don’t mind
-stretching a point with you.’
-
-‘Mr Boffin, you are very good,’ replied the Secretary, with an effort.
-
-‘Then we put the figure,’ said Mr Boffin, ‘at two hundred a year.
-Then the figure’s disposed of. Now, there must be no misunderstanding
-regarding what I buy for two hundred a year. If I pay for a sheep, I buy
-it out and out. Similarly, if I pay for a secretary, I buy HIM out and
-out.’
-
-‘In other words, you purchase my whole [[Time|time]]?’
-
-‘Certainly I do. Look here,’ said Mr Boffin, ‘it ain’t that I want to
-occupy your whole [[Time|time]]; you can take up a book for a minute or two when
-you’ve nothing better to do, though I think you’ll a’most always find
-something useful to do. But I want to keep you in attendance. It’s
-convenient to have you at all times ready on the premises. Therefore,
-betwixt your breakfast and your supper,—on the premises I expect to
-find you.’
-
-The Secretary bowed.
-
-‘In bygone days, when I was in service myself,’ said Mr Boffin, ‘I
-couldn’t go cutting about at my will and pleasure, and you won’t expect
-to go cutting about at your will and pleasure. You’ve rather got into
-a habit of that, lately; but perhaps it was for want of a right
-specification betwixt us. Now, let there be a right specification
-betwixt us, and let it be this. If you want leave, ask for it.’
-
-Again the Secretary bowed. His manner was uneasy and astonished, and
-showed a sense of humiliation.
-
-‘I’ll have a bell,’ said Mr Boffin, ‘hung from this room to yours,
-and when I want you, I’ll touch it. I don’t call to mind that I have
-anything more to say at the present moment.’
-
-The Secretary [[Rose|rose]], gathered up his papers, and withdrew. Bella’s eyes
-followed him to the door, lighted on Mr Boffin complacently thrown back
-in his easy chair, and drooped over her book.
-
-‘I have let that chap, that young man of mine,’ said Mr Boffin, taking a
-trot up and down the room, ‘get above his work. It won’t do. I must have
-him down a peg. A man of property owes a duty to other men of property,
-and must look sharp after his inferiors.’
-
-Bella felt that Mrs Boffin was not comfortable, and that the eyes of
-that good creature sought to discover from her face what attention she
-had given to this discourse, and what impression it had made upon her.
-For which reason Bella’s eyes drooped more engrossedly over her book,
-and she turned the page with an air of profound absorption in it.
-
-‘Noddy,’ said Mrs Boffin, after thoughtfully pausing in her work.
-
-‘My dear,’ returned the Golden Dustman, stopping short in his trot.
-
-‘Excuse my putting it to you, Noddy, but now really! Haven’t you been
-a little strict with Mr Rokesmith to-[[Night|night]]? Haven’t you been a
-little—just a little little—not quite like your old [[Self|self]]?’
-
-‘Why, old woman, I [[Hope|hope]] so,’ returned Mr Boffin, cheerfully, if not
-boastfully.
-
-‘[[Hope]] so, deary?’
-
-‘Our old selves wouldn’t do here, old lady. Haven’t you found that out
-yet? Our old selves would be fit for nothing here but to be robbed and
-imposed upon. Our old selves weren’t people of fortune; our new selves
-are; it’s a great difference.’
-
-‘Ah!’ said Mrs Boffin, pausing in her work again, softly to draw a long
-breath and to look at the [[Fire|fire]]. ‘A great difference.’
-
-‘And we must be up to the difference,’ pursued her husband; ‘we must be
-equal to the change; that’s what we must be. We’ve got to hold our own
-now, against everybody (for everybody’s hand is stretched out to be
-dipped into our pockets), and we have got to recollect that money makes
-money, as [[Well|well]] as makes everything else.’
-
-‘Mentioning recollecting,’ said Mrs Boffin, with her work abandoned,
-her eyes upon the [[Fire|fire]], and her chin upon her hand, ‘do you recollect,
-Noddy, how you said to Mr Rokesmith when he first came to see us at the
-Bower, and you engaged him—how you said to him that if it had pleased
-Heaven to send [[John Harmon]] to his fortune safe, we could have been
-content with the one Mound which was our legacy, and should never have
-wanted the rest?’
-
-‘Ay, I remember, old lady. But we hadn’t tried what it was to have the
-rest then. Our new shoes had come [[Home|home]], but we hadn’t put ’em on. We’re
-wearing ’em now, we’re wearing ’em, and must step out accordingly.’
-
-Mrs Boffin took up her work again, and plied her needle in [[Silence|silence]].
-
-‘As to Rokesmith, that young man of mine,’ said Mr Boffin, dropping
-his voice and glancing towards the door with an apprehension of being
-overheard by some eavesdropper there, ‘it’s the same with him as with
-the footmen. I have found out that you must either scrunch them, or let
-them scrunch you. If you ain’t imperious with ’em, they won’t believe
-in your being any better than themselves, if as good, after the stories
-(lies mostly) that they have heard of your beginnings. There’s nothing
-betwixt stiffening yourself up, and throwing yourself away; take my word
-for that, old lady.’
-
-Bella ventured for a moment to look stealthily towards him under her
-eyelashes, and she saw a dark cloud of suspicion, covetousness, and
-conceit, overshadowing the once open face.
-
-‘Hows’ever,’ said he, ‘this isn’t entertaining to Miss Bella. Is it,
-Bella?’
-
-A deceiving Bella she was, to look at him with that pensively abstracted
-air, as if her mind were full of her book, and she had not heard a
-single word!
-
-‘Hah! Better employed than to attend to it,’ said Mr Boffin. ‘That’s
-right, that’s right. Especially as you have no call to be told how to
-value yourself, my dear.’
-
-Colouring a little under this compliment, Bella returned, ‘I [[Hope|hope]] sir,
-you don’t think me vain?’
-
-‘Not a bit, my dear,’ said Mr Boffin. ‘But I think it’s very creditable
-in you, at your age, to be so [[Well|well]] up with the pace of the world, and to
-know what to go in for. You are right. Go in for money, my [[Love|love]]. Money’s
-the article. You’ll make money of your good looks, and of the money Mrs
-Boffin and me will have the pleasure of settling upon you, and you’ll
-live and die rich. That’s the state to live and die in!’ said Mr Boffin,
-in an unctuous manner. ‘R—r—rich!’
-
-There was an expression of distress in Mrs Boffin’s face, as, after
-watching her husband’s, she turned to their adopted girl, and said:
-
-‘Don’t mind him, Bella, my dear.’
-
-‘Eh?’ cried Mr Boffin. ‘What! Not mind him?’
-
-‘I don’t mean that,’ said Mrs Boffin, with a worried look, ‘but I mean,
-don’t believe him to be anything but good and generous, Bella, because
-he is the best of men. No, I must say that much, Noddy. You are always
-the best of men.’
-
-She made the declaration as if he were objecting to it: which assuredly
-he was not in any way.
-
-‘And as to you, my dear Bella,’ said Mrs Boffin, still with that
-distressed expression, ‘he is so much attached to you, whatever he says,
-that your own father has not a truer interest in you and can hardly like
-you better than he does.’
-
-‘Says too!’ cried Mr Boffin. ‘Whatever he says! Why, I say so, openly.
-Give me a kiss, my dear [[Child|child]], in saying Good [[Night]], and let me confirm
-what my old lady tells you. I am very fond of you, my dear, and I am
-entirely of your mind, and you and I will take care that you shall be
-rich. These good looks of yours (which you have some right to be vain
-of; my dear, though you are not, you know) are worth money, and you
-shall make money of ’em. The money you will have, will be worth money,
-and you shall make money of that too. There’s a golden ball at your
-feet. Good [[Night|night]], my dear.’
-
-Somehow, Bella was not so [[Well|well]] pleased with this assurance and this
-prospect as she might have been. Somehow, when she put her arms
-round Mrs Boffin’s neck and said Good [[Night]], she derived a sense of
-unworthiness from the still anxious face of that good woman and her
-obvious wish to excuse her husband. ‘Why, what need to excuse him?’
-thought Bella, sitting down in her own room. ‘What he said was very
-sensible, I am sure, and very true, I am sure. It is only what I often
-say to myself. Don’t I like it then? No, I don’t like it, and, though
-he is my liberal benefactor, I disparage him for it. Then pray,’ said
-Bella, sternly putting the question to herself in the looking-glass as
-usual, ‘what do you mean by this, you inconsistent little Beast?’
-
-The looking-glass preserving a discreet ministerial [[Silence|silence]] when thus
-called upon for explanation, Bella went to bed with a weariness upon her
-spirit which was more than the weariness of want of [[Sleep|sleep]]. And again
-in the morning, she looked for the cloud, and for the deepening of the
-cloud, upon the Golden Dustman’s face.
-
-She had begun by this [[Time|time]] to be his frequent companion in his morning
-strolls about the streets, and it was at this [[Time|time]] that he made her a
-party to his engaging in a curious pursuit. Having been hard at work in
-one dull enclosure all his life, he had a [[Child|child]]’s delight in looking
-at shops. It had been one of the first novelties and pleasures of his
-[[Freedom|freedom]], and was equally the delight of his wife. For many years their
-only walks in [[London]] had been taken on Sundays when the shops were shut;
-and when every day in the week became their holiday, they derived an
-enjoyment from the variety and fancy and [[Beauty|beauty]] of the display in the
-windows, which seemed incapable of exhaustion. As if the principal
-streets were a great Theatre and the play were childishly new to them,
-Mr and Mrs Boffin, from the beginning of Bella’s intimacy in their
-[[house]], had been constantly in the front row, charmed with all they saw
-and applauding vigorously. But now, Mr Boffin’s interest began to centre
-in book-shops; and more than that—for that of itself would not have
-been much—in one exceptional kind of book.
-
-‘Look in here, my dear,’ Mr Boffin would say, checking Bella’s arm at a
-bookseller’s [[Window|window]]; ‘you can read at sight, and your eyes are as sharp
-as they’re bright. Now, look [[Well|well]] about you, my dear, and tell me if you
-see any book about a Miser.’
-
-If Bella saw such a book, Mr Boffin would instantly dart in and buy
-it. And still, as if they had not found it, they would seek out another
-book-shop, and Mr Boffin would say, ‘Now, look [[Well|well]] all round, my
-dear, for a Life of a Miser, or any book of that sort; any Lives of odd
-characters who may have been Misers.’
-
-Bella, thus directed, would examine the [[Window|window]] with the greatest
-attention, while Mr Boffin would examine her face. The moment she
-pointed out any book as being entitled Lives of eccentric personages,
-Anecdotes of strange characters, Records of remarkable individuals, or
-anything to that purpose, Mr Boffin’s countenance would light up, and
-he would instantly dart in and buy it. Size, price, quality, were of no
-account. Any book that seemed to promise a chance of miserly [[Biography|biography]],
-Mr Boffin purchased without a moment’s delay and carried [[Home|home]]. Happening
-to be informed by a bookseller that a portion of the Annual Register was
-devoted to ‘Characters’, Mr Boffin at once bought a whole set of that
-ingenious compilation, and began to carry it [[Home|home]] piecemeal, confiding
-a volume to Bella, and bearing three himself. The completion of this
-labour occupied them about a fortnight. When the task was done, Mr
-Boffin, with his appetite for Misers whetted instead of satiated, began
-to look out again.
-
-It very soon became unnecessary to tell Bella what to look for, and an
-understanding was established between her and Mr Boffin that she was
-always to look for Lives of Misers. Morning after morning they roamed
-about the town together, pursuing this singular research. Miserly
-literature not being abundant, the proportion of failures to successes
-may have been as a hundred to one; still Mr Boffin, never wearied,
-remained as avaricious for misers as he had been at the first onset. It
-was curious that Bella never saw the books about the [[house]], nor did she
-ever hear from Mr Boffin one word of reference to their contents. He
-seemed to save up his Misers as they had saved up their money. As they
-had been greedy for it, and secret about it, and had hidden it, so he
-was greedy for them, and secret about them, and hid them. But beyond all
-[[Doubt|doubt]] it was to be noticed, and was by Bella very clearly noticed, that,
-as he pursued the acquisition of those dismal records with the ardour of
-[[Don Quixote]] for his books of chivalry, he began to spend his money with
-a more sparing hand. And often when he came out of a shop with some new
-account of one of those wretched lunatics, she would almost shrink from
-the sly dry chuckle with which he would take her arm again and trot
-away. It did not appear that Mrs Boffin knew of this taste. He made
-no allusion to it, except in the morning walks when he and Bella were
-always [[Alone|alone]]; and Bella, partly under the impression that he took her
-into his confidence by implication, and partly in remembrance of Mrs
-Boffin’s anxious face that [[Night|night]], held the same reserve.
-
-While these occurrences were in progress, Mrs Lammle made the discovery
-that Bella had a fascinating influence over her. The Lammles, originally
-presented by the dear Veneerings, visited the Boffins on all grand
-occasions, and Mrs Lammle had not previously found this out; but now the
-knowledge came upon her all at once. It was a most extraordinary thing
-(she said to Mrs Boffin); she was foolishly susceptible of the power of
-[[Beauty|beauty]], but it wasn’t altogether that; she never had been able to resist
-a natural grace of manner, but it wasn’t altogether that; it was more
-than that, and there was no name for the indescribable extent and degree
-to which she was captivated by this charming girl.
-
-This charming girl having the words repeated to her by Mrs Boffin (who
-was proud of her being admired, and would have done anything to give her
-pleasure), naturally recognized in Mrs Lammle a woman of penetration
-and taste. Responding to the sentiments, by being very gracious to Mrs
-Lammle, she gave that lady the means of so improving her opportunity,
-as that the captivation became reciprocal, though always wearing an
-appearance of greater sobriety on Bella’s part than on the enthusiastic
-Sophronia’s. Howbeit, they were so much together that, for a [[Time|time]], the
-Boffin chariot held Mrs Lammle oftener than Mrs Boffin: a preference
-of which the latter worthy [[Soul|soul]] was not in the least jealous, placidly
-remarking, ‘Mrs Lammle is a younger companion for her than I am, and
-Lor! she’s more fashionable.’
-
-But between [[Bella Wilfer]] and Georgiana Podsnap there was this one
-difference, among many others, that Bella was in no danger of being
-captivated by Alfred. She distrusted and disliked him. Indeed, her
-perception was so quick, and her observation so sharp, that after all
-she mistrusted his wife too, though with her giddy [[Vanity|vanity]] and wilfulness
-she squeezed the mistrust away into a corner of her mind, and blocked it
-up there.
-
-Mrs Lammle took the friendliest interest in Bella’s making a good match.
-Mrs Lammle said, in a sportive way, she really must show her beautiful
-Bella what kind of wealthy creatures she and Alfred had on hand, who
-would as one man fall at her feet enslaved. Fitting occasion made,
-Mrs Lammle accordingly produced the most passable of those feverish,
-boastful, and indefinably loose gentlemen who were always lounging in
-and out of the [[City]] on questions of the Bourse and Greek and Spanish and
-India and Mexican and par and premium and discount and three-quarters
-and seven-eighths. Who in their agreeable manner did homage to Bella
-as if she were a compound of fine girl, thorough-bred [[Horse|horse]], [[Well|well]]-built
-drag, and remarkable pipe. But without the least effect, though even Mr
-Fledgeby’s attractions were cast into the scale.
-
-‘I [[Fear|fear]], Bella dear,’ said Mrs Lammle one day in the chariot, ‘that you
-will be very hard to please.’
-
-‘I don’t expect to be pleased, dear,’ said Bella, with a languid turn of
-her eyes.
-
-‘Truly, my [[Love|love]],’ returned Sophronia, shaking her head, and smiling
-her best smile, ‘it would not be very easy to find a man worthy of your
-attractions.’
-
-‘The question is not a man, my dear,’ said Bella, coolly, ‘but an
-establishment.’
-
-‘My [[Love|love]],’ returned Mrs Lammle, ‘your prudence amazes me—where DID you
-study life so [[Well|well]]!—you are right. In such a case as yours, the object
-is a fitting establishment. You could not descend to an inadequate one
-from Mr Boffin’s [[house]], and even if your [[Beauty|beauty]] [[Alone|alone]] could not command
-it, it is to be assumed that Mr and Mrs Boffin will—’
-
-‘Oh! they have already,’ Bella interposed.
-
-‘No! Have they really?’
-
-A little vexed by a suspicion that she had spoken precipitately, and
-withal a little defiant of her own vexation, Bella determined not to
-retreat.
-
-‘That is to say,’ she explained, ‘they have told me they mean to portion
-me as their adopted [[Child|child]], if you mean that. But don’t mention it.’
-
-‘Mention it!’ replied Mrs Lammle, as if she were full of awakened
-feeling at the suggestion of such an impossibility. ‘Men-tion it!’
-
-‘I don’t mind telling you, Mrs Lammle—’ Bella began again.
-
-‘My [[Love|love]], say Sophronia, or I must not say Bella.’
-
-With a little short, petulant ‘Oh!’ Bella complied. ‘Oh!—Sophronia
-then—I don’t mind telling you, Sophronia, that I am convinced I have
-no heart, as people call it; and that I think that sort of thing is
-nonsense.’
-
-‘Brave girl!’ murmured Mrs Lammle.
-
-‘And so,’ pursued Bella, ‘as to seeking to please myself, I don’t;
-except in the one respect I have mentioned. I am indifferent otherwise.’
-
-‘But you can’t help pleasing, Bella,’ said Mrs Lammle, rallying her with
-an arch look and her best smile, ‘you can’t help making a proud and an
-admiring husband. You may not care to please yourself, and you may not
-care to please him, but you are not a free agent as to pleasing: you
-are forced to do that, in spite of yourself, my dear; so it may be a
-question whether you may not as [[Well|well]] please yourself too, if you can.’
-
-Now, the very grossness of this flattery put Bella upon proving that she
-actually did please in spite of herself. She had a misgiving that she
-was doing wrong—though she had an indistinct foreshadowing that some
-harm might come of it thereafter, she little thought what consequences
-it would really bring about—but she went on with her confidence.
-
-‘Don’t talk of pleasing in spite of one’s [[Self|self]], dear,’ said Bella. ‘I
-have had enough of that.’
-
-‘Ay?’ cried Mrs Lammle. ‘Am I already corroborated, Bella?’
-
-‘Never mind, Sophronia, we will not speak of it any more. Don’t ask me
-about it.’
-
-This plainly meaning Do ask me about it, Mrs Lammle did as she was
-requested.
-
-‘Tell me, Bella. Come, my dear. What provoking burr has been
-inconveniently attracted to the charming skirts, and with difficulty
-shaken off?’
-
-‘Provoking indeed,’ said Bella, ‘and no burr to boast of! But don’t ask
-me.’
-
-‘Shall I guess?’
-
-‘You would never guess. What would you say to our Secretary?’
-
-‘My dear! The hermit Secretary, who creeps up and down the back stairs,
-and is never seen!’
-
-‘I don’t know about his creeping up and down the back stairs,’ said
-Bella, rather contemptuously, ‘further than knowing that he does no such
-thing; and as to his never being seen, I should be content never to have
-seen him, though he is quite as visible as you are. But I pleased HIM
-(for my sins) and he had the presumption to tell me so.’
-
-‘The man never made a declaration to you, my dear Bella!’
-
-‘Are you sure of that, Sophronia?’ said Bella. ‘I am not. In fact, I am
-sure of the contrary.’
-
-‘The man must be mad,’ said Mrs Lammle, with a kind of [[Resignation|resignation]].
-
-‘He appeared to be in his senses,’ returned Bella, tossing her head,
-‘and he had plenty to say for himself. I told him my opinion of his
-declaration and his conduct, and dismissed him. Of course this has all
-been very inconvenient to me, and very disagreeable. It has remained a
-secret, however. That word reminds me to observe, Sophronia, that I have
-glided on into telling you the secret, and that I rely upon you never to
-mention it.’
-
-‘Mention it!’ repeated Mrs Lammle with her former feeling. ‘Men-tion
-it!’
-
-This [[Time|time]] Sophronia was so much in earnest that she found it necessary
-to bend forward in the carriage and give Bella a kiss. A Judas order of
-kiss; for she thought, while she yet pressed Bella’s hand after giving
-it, ‘Upon your own showing, you vain heartless girl, puffed up by the
-doting folly of a dustman, I need have no relenting towards YOU. If my
-husband, who sends me here, should form any schemes for making YOU a
-victim, I should certainly not [[Cross|cross]] him again.’ In those very same
-moments, Bella was thinking, ‘Why am I always at war with myself? Why
-have I told, as if upon compulsion, what I knew all along I ought to
-have withheld? Why am I making a friend of this woman beside me, in
-spite of the whispers against her that I hear in my heart?’
-
-As usual, there was no answer in the looking-glass when she got [[Home|home]] and
-referred these questions to it. Perhaps if she had consulted some better
-oracle, the result might have been more satisfactory; but she did not,
-and all things consequent marched the march before them.
-
-On one point connected with the watch she kept on Mr Boffin, she felt
-very inquisitive, and that was the question whether the Secretary
-watched him too, and followed the sure and steady change in him, as she
-did? Her very limited intercourse with Mr Rokesmith rendered this hard
-to find out. Their communication now, at no [[Time|time]] extended beyond the
-preservation of commonplace appearances before Mr and Mrs Boffin; and if
-Bella and the Secretary were ever left [[Alone|alone]] together by any chance,
-he immediately withdrew. She consulted his face when she could do so
-covertly, as she worked or read, and could make nothing of it. He looked
-subdued; but he had acquired a strong command of feature, and, whenever
-Mr Boffin spoke to him in Bella’s presence, or whatever revelation of
-himself Mr Boffin made, the Secretary’s face changed no more than a
-wall. A slightly knitted brow, that expressed nothing but an almost
-mechanical attention, and a compression of the mouth, that might have
-been a guard against a scornful smile—these she saw from morning to
-[[Night|night]], from day to day, from week to week, monotonous, unvarying, set,
-as in a piece of sculpture.
-
-The worst of the matter was, that it thus fell out insensibly—and most
-provokingly, as Bella complained to herself, in her impetuous little
-manner—that her observation of Mr Boffin involved a continual
-observation of Mr Rokesmith. ‘Won’t THAT extract a look from him?’—‘Can
-it be possible THAT makes no impression on him?’ Such questions Bella
-would propose to herself, often as many times in a day as there were
-hours in it. Impossible to know. Always the same fixed face.
-
-‘Can he be so base as to sell his very [[Nature|nature]] for two hundred a year?’
-Bella would think. And then, ‘But why not? It’s a mere question of price
-with others besides him. I suppose I would sell mine, if I could get
-enough for it.’ And so she would come round again to the war with
-herself.
-
-A kind of illegibility, though a different kind, stole over Mr
-Boffin’s face. Its old simplicity of expression got masked by a certain
-craftiness that assimilated even his good-[[Humour|humour]] to itself. His very
-smile was cunning, as if he had been studying smiles among the portraits
-of his misers. Saving an occasional burst of impatience, or coarse
-assertion of his mastery, his good-[[Humour|humour]] remained to him, but it had
-now a sordid alloy of distrust; and though his eyes should twinkle and
-all his face should laugh, he would sit holding himself in his own
-arms, as if he had an inclination to hoard himself up, and must always
-grudgingly stand on the defensive.
-
-What with taking heed of these two faces, and what with feeling
-conscious that the stealthy occupation must set some mark on her own,
-Bella soon began to think that there was not a candid or a natural face
-among them all but Mrs Boffin’s. None the less because it was far less
-radiant than of yore, faithfully reflecting in its anxiety and regret
-every line of change in the Golden Dustman’s.
-
-‘Rokesmith,’ said Mr Boffin one evening when they were all in his room
-again, and he and the Secretary had been going over some accounts, ‘I
-am spending too much money. Or leastways, you are spending too much for
-me.’
-
-‘You are rich, sir.’
-
-‘I am not,’ said Mr Boffin.
-
-The sharpness of the retort was next to telling the Secretary that he
-lied. But it brought no change of expression into the set face.
-
-‘I tell you I am not rich,’ repeated Mr Boffin, ‘and I won’t have it.’
-
-‘You are not rich, sir?’ repeated the Secretary, in measured words.
-
-‘[[Well]],’ returned Mr Boffin, ‘if I am, that’s my business. I am not going
-to spend at this rate, to please you, or anybody. You wouldn’t like it,
-if it was your money.’
-
-‘Even in that impossible case, sir, I—’
-
-‘Hold your tongue!’ said Mr Boffin. ‘You oughtn’t to like it in any
-case. There! I didn’t mean to be rude, but you put me out so, and after
-all I’m master. I didn’t intend to tell you to hold your tongue. I beg
-your pardon. Don’t hold your tongue. Only, don’t contradict. Did you
-ever come across the life of Mr Elwes?’ referring to his favourite
-subject at last.
-
-‘The miser?’
-
-‘Ah, people called him a miser. People are always calling other people
-something. Did you ever read about him?’
-
-‘I think so.’
-
-‘He never owned to being rich, and yet he might have bought me twice
-over. Did you ever hear of Daniel Dancer?’
-
-‘Another miser? Yes.’
-
-‘He was a good ’un,’ said Mr Boffin, ‘and he had a sister worthy of him.
-They never called themselves rich neither. If they HAD called themselves
-rich, most likely they wouldn’t have been so.’
-
-‘They lived and died very miserably. Did they not, sir?’
-
-‘No, I don’t know that they did,’ said Mr Boffin, curtly.
-
-‘Then they are not the Misers I mean. Those abject wretches—’
-
-‘Don’t call names, Rokesmith,’ said Mr Boffin.
-
-‘—That exemplary brother and sister—lived and died in the foulest and
-filthiest degradation.’
-
-‘They pleased themselves,’ said Mr Boffin, ‘and I suppose they could
-have done no more if they had spent their money. But however, I ain’t
-going to fling mine away. Keep the expenses down. The fact is, you ain’t
-enough here, Rokesmith. It wants constant attention in the littlest
-things. Some of us will be dying in a workhouse next.’
-
-‘As the persons you have cited,’ quietly remarked the Secretary,
-‘thought they would, if I remember, sir.’
-
-‘And very creditable in ’em too,’ said Mr Boffin. ‘Very independent in
-’em! But never mind them just now. Have you given notice to quit your
-lodgings?’
-
-‘Under your direction, I have, sir.’
-
-‘Then I tell you what,’ said Mr Boffin; ‘pay the quarter’s rent—pay the
-quarter’s rent, it’ll be the cheapest thing in the end—and come here at
-once, so that you may be always on the spot, day and [[Night|night]], and keep the
-expenses down. You’ll charge the quarter’s rent to me, and we must try
-and save it somewhere. You’ve got some lovely furniture; haven’t you?’
-
-‘The furniture in my rooms is my own.’
-
-‘Then we shan’t have to buy any for you. In case you was to think it,’
-said Mr Boffin, with a look of peculiar shrewdness, ‘so honourably
-independent in you as to make it a relief to your mind, to make that
-furniture over to me in the light of a set-off against the quarter’s
-rent, why ease your mind, ease your mind. I don’t ask it, but I won’t
-stand in your way if you should consider it due to yourself. As to your
-room, choose any empty room at the top of the [[house]].’
-
-‘Any empty room will do for me,’ said the Secretary.
-
-‘You can take your pick,’ said Mr Boffin, ‘and it’ll be as good as eight
-or ten shillings a week added to your income. I won’t deduct for it; I
-look to you to make it up handsomely by keeping the expenses down. Now,
-if you’ll show a light, I’ll come to your office-room and dispose of a
-letter or two.’
-
-On that clear, generous face of Mrs Boffin’s, Bella had seen such traces
-of a pang at the heart while this dialogue was being held, that she
-had not the [[Courage|courage]] to turn her eyes to it when they were left [[Alone|alone]].
-Feigning to be intent on her embroidery, she sat plying her needle until
-her busy hand was stopped by Mrs Boffin’s hand being lightly laid upon
-it. Yielding to the touch, she felt her hand carried to the good [[Soul|soul]]’s
-lips, and felt a tear fall on it.
-
-‘Oh, my loved husband!’ said Mrs Boffin. ‘This is hard to see and hear.
-But my dear Bella, believe me that in spite of all the change in him, he
-is the best of men.’
-
-He came back, at the moment when Bella had taken the hand comfortingly
-between her own.
-
-‘Eh?’ said he, mistrustfully looking in at the door. ‘What’s she telling
-you?’
-
-‘She is only praising you, sir,’ said Bella.
-
-‘Praising me? You are sure? Not blaming me for standing on my own
-defence against a crew of plunderers, who could suck me dry by driblets?
-Not blaming me for getting a little hoard together?’
-
-He came up to them, and his wife folded her hands upon his shoulder, and
-shook her head as she laid it on her hands.
-
-‘There, there, there!’ urged Mr Boffin, not unkindly. ‘Don’t take on,
-old lady.’
-
-‘But I can’t bear to see you so, my dear.’
-
-‘Nonsense! Recollect we are not our old selves. Recollect, we must
-scrunch or be scrunched. Recollect, we must hold our own. Recollect,
-money makes money. Don’t you be uneasy, Bella, my [[Child|child]]; don’t you be
-doubtful. The more I save, the more you shall have.’
-
-Bella thought it was [[Well|well]] for his wife that she was musing with her
-affectionate face on his shoulder; for there was a cunning light in
-his eyes as he said all this, which seemed to cast a disagreeable
-illumination on the change in him, and make it morally uglier.
+Chapter 8
+
+THE END OF A LONG [[Journey|JOURNEY]]
+
+
+The train of carts and horses came and went all day from [[Dawn|dawn]] to
+nightfall, making little or no daily impression on the heap of ashes,
+though, as the days passed on, the heap was seen to be slowly melting.
+My lords and gentlemen and honourable boards, when you in the course
+of your [[Dust|dust]]-shovelling and cinder-raking have piled up a mountain of
+pretentious failure, you must off with your honourable coats for the
+removal of it, and fall to the work with the power of all the [[Queen|queen]]’s
+horses and all the [[Queen|queen]]’s men, or it will come rushing down and bury us
+alive.
+
+Yes, verily, my lords and gentlemen and honourable boards, adapting your
+Catechism to the occasion, and by God’s help so you must. For when we
+have got things to the pass that with an enormous treasure at disposal
+to relieve the poor, the best of the poor detest our mercies, hide their
+heads from us, and shame us by starving to [[Death|death]] in the midst of us, it
+is a pass impossible of prosperity, impossible of continuance. It may
+not be so written in the Gospel according to Podsnappery; you may not
+‘find these words’ for the text of a sermon, in the Returns of the Board
+of Trade; but they have been the [[Truth|truth]] since the foundations of the
+universe were laid, and they will be the [[Truth|truth]] until the foundations of
+the universe are shaken by the Builder. This boastful handiwork of
+ours, which fails in its terrors for the professional pauper, the sturdy
+breaker of windows and the rampant tearer of clothes, strikes with a
+cruel and a wicked stab at the stricken sufferer, and is a horror to
+the deserving and unfortunate. We must mend it, lords and gentlemen and
+honourable boards, or in its own evil hour it will mar every one of us.
+
+Old Betty Higden fared upon her pilgrimage as many ruggedly honest
+creatures, women and men, fare on their toiling way along the roads
+of life. Patiently to earn a spare bare living, and quietly to die,
+untouched by workhouse hands—this was her highest sublunary [[Hope|hope]].
+
+Nothing had been heard of her at Mr Boffin’s [[house]] since she trudged
+off. The weather had been hard and the roads had been bad, and her
+spirit was up. A less stanch spirit might have been subdued by such
+adverse influences; but the loan for her little outfit was in no part
+repaid, and it had gone worse with her than she had foreseen, and she
+was put upon proving her case and maintaining her independence.
+
+Faithful [[Soul|soul]]! When she had spoken to the Secretary of that ‘deadness
+that steals over me at times’, her fortitude had made too little of it.
+Oftener and ever oftener, it came stealing over her; darker and ever
+darker, like the [[Shadow|shadow]] of advancing [[Death]]. That the [[Shadow|shadow]] should
+be deep as it came on, like the [[Shadow|shadow]] of an actual presence, was in
+accordance with the laws of the physical world, for all the Light that
+shone on Betty Higden lay beyond [[Death]].
+
+The poor old creature had taken the upward course of the [[River Thames|river Thames]] as
+her general track; it was the track in which her last [[Home|home]] lay, and of
+which she had last had local [[Love|love]] and knowledge. She had hovered for a
+little while in the near neighbourhood of her abandoned dwelling, and
+had sold, and knitted and sold, and gone on. In the pleasant towns of
+Chertsey, Walton, Kingston, and Staines, her figure came to be quite
+[[Well|well]] known for some short weeks, and then again passed on.
+
+She would take her stand in market-places, where there were such things,
+on market days; at other times, in the busiest (that was seldom very
+busy) portion of the little quiet High Street; at still other times she
+would explore the outlying roads for great houses, and would ask leave
+at the Lodge to pass in with her basket, and would not often get it. But
+ladies in carriages would frequently make purchases from her trifling
+stock, and were usually pleased with her bright eyes and her hopeful
+speech. In these and her clean dress originated a [[Fable|fable]] that she was
+[[Well|well]] to do in the world: one might say, for her station, rich. As making
+a comfortable provision for its subject which costs nobody anything,
+this class of [[Fable|fable]] has long been popular.
+
+In those pleasant little towns on Thames, you may hear the fall of
+the [[Water|water]] over the weirs, or even, in still weather, the rustle of the
+rushes; and from the bridge you may see the young [[River|river]], dimpled like a
+young [[Child|child]], playfully gliding away among the trees, unpolluted by the
+defilements that lie in wait for it on its course, and as yet out of
+hearing of the deep summons of the sea. It were too much to pretend that
+Betty Higden made out such thoughts; no; but she heard the tender [[River|river]]
+whispering to many like herself, ‘Come to me, come to me! When the cruel
+shame and terror you have so long fled from, most beset you, come to me!
+I am the Relieving Officer appointed by eternal ordinance to do my work;
+I am not held in estimation according as I shirk it. My breast is softer
+than the pauper-[[Nurse|nurse]]’s; [[Death|death]] in my arms is peacefuller than among the
+pauper-wards. Come to me!’
+
+There was abundant place for gentler fancies too, in her untutored mind.
+Those gentlefolks and their children inside those fine houses, could
+they think, as they looked out at her, what it was to be really hungry,
+really cold? Did they feel any of the [[Wonder|wonder]] about her, that she felt
+about them? Bless the dear laughing children! If they could have seen
+sick Johnny in her arms, would they have cried for pity? If they could
+have seen dead Johnny on that little bed, would they have understood it?
+Bless the dear children for his sake, anyhow! So with the humbler houses
+in the little street, the inner firelight shining on the panes as the
+outer twilight darkened. When the families gathered in-doors there, for
+the [[Night|night]], it was only a foolish fancy to feel as if it were a little
+hard in them to close the shutter and blacken the flame. So with the
+lighted shops, and speculations whether their masters and mistresses
+taking tea in a perspective of back-parlour—not so far within but that
+the flavour of tea and toast came out, mingled with the glow of light,
+into the street—ate or drank or wore what they sold, with the greater
+relish because they dealt in it. So with the churchyard on a branch of
+the solitary way to the [[Night|night]]’s sleeping-place. ‘Ah me! The dead and
+I seem to have it pretty much to ourselves in the dark and in this
+weather! But so much the better for all who are warmly housed at [[Home|home]].’
+The poor [[Soul|soul]] envied no one in bitterness, and grudged no one anything.
+
+But, the old abhorrence grew stronger on her as she grew weaker, and
+it found more sustaining food than she did in her wanderings. Now, she
+would light upon the shameful spectacle of some desolate creature—or
+some wretched ragged groups of either sex, or of both sexes, with
+children among them, huddled together like the smaller vermin for
+a little warmth—lingering and lingering on a doorstep, while the
+appointed evader of the public trust did his dirty office of trying to
+weary them out and so get rid of them. Now, she would light upon some
+poor decent person, like herself, going afoot on a pilgrimage of
+many weary miles to see some worn-out relative or friend who had been
+charitably clutched off to a great blank barren [[Union]] [[house|House]], as far from
+old [[Home|home]] as the County Jail (the remoteness of which is always its worst
+punishment for small rural offenders), and in its dietary, and in
+its lodging, and in its tending of the sick, a much more penal
+establishment. Sometimes she would hear a newspaper read out, and would
+learn how the Registrar General cast up the units that had within the
+last week died of want and of exposure to the weather: for which that
+Recording Angel seemed to have a regular fixed place in his sum, as if
+they were its halfpence. All such things she would hear discussed, as
+we, my lords and gentlemen and honourable boards, in our unapproachable
+magnificence never hear them, and from all such things she would fly
+with the wings of raging [[Despair]].
+
+This is not to be received as a figure of speech. Old Betty Higden
+however tired, however footsore, would start up and be driven away
+by her awakened horror of falling into the hands of [[Charity]]. It is a
+remarkable Christian improvement, to have made a pursuing Fury of the
+Good Samaritan; but it was so in this case, and it is a type of many,
+many, many.
+
+Two incidents united to intensify the old unreasoning
+abhorrence—granted in a previous place to be unreasoning, because the
+people always are unreasoning, and invariably make a point of producing
+all their smoke without [[Fire|fire]].
+
+One day she was sitting in a market-place on a bench outside an inn,
+with her little wares for sale, when the deadness that she strove
+against came over her so heavily that the scene departed from before
+her eyes; when it returned, she found herself on the ground, her head
+supported by some good-natured market-women, and a little crowd about
+her.
+
+‘Are you better now, mother?’ asked one of the women. ‘Do you think you
+can do nicely now?’
+
+‘Have I been ill then?’ asked old Betty.
+
+‘You have had a faint like,’ was the answer, ‘or a fit. It ain’t that
+you’ve been a-struggling, mother, but you’ve been stiff and numbed.’
+
+‘Ah!’ said Betty, recovering her [[Memory|memory]]. ‘It’s the numbness. Yes. It
+comes over me at times.’
+
+Was it gone? the women asked her.
+
+‘It’s gone now,’ said Betty. ‘I shall be stronger than I was afore.
+Many thanks to ye, my dears, and when you come to be as old as I am, may
+others do as much for you!’
+
+They assisted her to rise, but she could not stand yet, and they
+supported her when she sat down again upon the bench.
+
+‘My head’s a bit light, and my feet are a bit heavy,’ said old Betty,
+leaning her face drowsily on the breast of the woman who had spoken
+before. ‘They’ll both come nat’ral in a minute. There’s nothing more the
+matter.’
+
+‘Ask her,’ said some farmers standing by, who had come out from their
+market-dinner, ‘who belongs to her.’
+
+‘Are there any folks belonging to you, mother?’ said the woman.
+
+‘Yes sure,’ answered Betty. ‘I heerd the gentleman say it, but I
+couldn’t answer quick enough. There’s plenty belonging to me. Don’t ye
+[[Fear|fear]] for me, my dear.’
+
+‘But are any of ’em near here?’ said the men’s voices; the women’s
+voices chiming in when it was said, and prolonging the strain.
+
+‘Quite near enough,’ said Betty, rousing herself. ‘Don’t ye be afeard
+for me, neighbours.’
+
+‘But you are not fit to travel. Where are you going?’ was the next
+compassionate [[Chorus|chorus]] she heard.
+
+‘I’m a going to [[London]] when I’ve sold out all,’ said Betty, rising with
+difficulty. ‘I’ve right good friends in [[London]]. I want for nothing. I
+shall come to no harm. Thankye. Don’t ye be afeard for me.’
+
+A [[Well|well]]-meaning bystander, yellow-legginged and purple-faced, said
+hoarsely over his red comforter, as she [[Rose|rose]] to her feet, that she
+‘oughtn’t to be let to go’.
+
+‘For the Lord’s [[Love|love]] don’t meddle with me!’ cried old Betty, all her
+fears crowding on her. ‘I am quite [[Well|well]] now, and I must go this minute.’
+
+She caught up her basket as she spoke and was making an unsteady rush
+away from them, when the same bystander checked her with his hand on
+her sleeve, and urged her to come with him and see the parish-doctor.
+Strengthening herself by the utmost exercise of her resolution, the poor
+trembling creature shook him off, almost fiercely, and took to flight.
+Nor did she feel safe until she had set a mile or two of by-[[Road|road]] between
+herself and the marketplace, and had crept into a copse, like a hunted
+animal, to hide and recover breath. Not until then for the first [[Time|time]]
+did she venture to recall how she had looked over her shoulder before
+turning out of the town, and had seen the sign of the White [[Lion]] hanging
+across the [[Road|road]], and the fluttering market booths, and the old grey
+church, and the little crowd gazing after her but not attempting to
+follow her.
+
+The second frightening incident was this. She had been again as bad, and
+had been for some days better, and was travelling along by a part of
+the [[Road|road]] where it touched the [[River|river]], and in wet [[Seasons|seasons]] was so often
+overflowed by it that there were tall white posts set up to mark the
+way. A barge was being towed towards her, and she sat down on the bank
+to rest and watch it. As the tow-rope was slackened by a turn of the
+stream and dipped into the [[Water|water]], such a confusion stole into her
+mind that she thought she saw the forms of her dead children and dead
+grandchildren peopling the barge, and waving their hands to her in
+solemn measure; then, as the rope tightened and came up, dropping
+diamonds, it seemed to vibrate into two parallel ropes and strike her,
+with a twang, though it was far off. When she looked again, there was no
+barge, no [[River|river]], no daylight, and a man whom she had never before seen
+held a candle close to her face.
+
+‘Now, Missis,’ said he; ‘where did you come from and where are you going
+to?’
+
+The poor [[Soul|soul]] confusedly asked the counter-question where she was?
+
+‘I am the Lock,’ said the man.
+
+‘The Lock?’
+
+‘I am the Deputy Lock, on job, and this is the Lock-[[house]]. (Lock or
+Deputy Lock, it’s all one, while the t’other man’s in the hospital.)
+What’s your Parish?’
+
+‘Parish!’ She was up from the truckle-bed directly, wildly feeling about
+her for her basket, and gazing at him in affright.
+
+‘You’ll be asked the question down town,’ said the man. ‘They won’t let
+you be more than a Casual there. They’ll pass you on to your settlement,
+Missis, with all [[Speed|speed]]. You’re not in a state to be let come upon
+strange parishes ’ceptin as a Casual.’
+
+‘’Twas the deadness again!’ murmured Betty Higden, with her hand to her
+head.
+
+‘It was the deadness, there’s not a [[Doubt|doubt]] about it,’ returned the man.
+‘I should have thought the deadness was a mild word for it, if it had
+been named to me when we brought you in. Have you got any friends,
+Missis?’
+
+‘The best of friends, Master.’
+
+‘I should recommend your looking ’em up if you consider ’em game to do
+anything for you,’ said the Deputy Lock. ‘Have you got any money?’
+
+‘Just a morsel of money, sir.’
+
+‘Do you want to keep it?’
+
+‘Sure I do!’
+
+‘[[Well]], you know,’ said the Deputy Lock, shrugging his shoulders with his
+hands in his pockets, and shaking his head in a sulkily ominous manner,
+‘the parish authorities down town will have it out of you, if you go on,
+you may take your Alfred David.’
+
+‘Then I’ll not go on.’
+
+‘They’ll make you pay, as fur as your money will go,’ pursued the
+Deputy, ‘for your relief as a Casual and for your being passed to your
+Parish.’
+
+‘Thank ye kindly, Master, for your warning, thank ye for your shelter,
+and good [[Night|night]].’
+
+‘Stop a bit,’ said the Deputy, striking in between her and the door.
+‘Why are you all of a shake, and what’s your hurry, Missis?’
+
+‘Oh, Master, Master,’ returned Betty Higden, ‘I’ve fought against the
+Parish and fled from it, all my life, and I want to die free of it!’
+
+‘I don’t know,’ said the Deputy, with deliberation, ‘as I ought to let
+you go. I’m a honest man as gets my living by the sweat of my brow, and
+I may fall into trouble by letting you go. I’ve fell into trouble afore
+now, by George, and I know what it is, and it’s made me careful. You
+might be took with your deadness again, half a mile off—or half of half
+a quarter, for the matter of that—and then it would be asked, Why did
+that there honest Deputy Lock, let her go, instead of putting her safe
+with the Parish? That’s what a man of his character ought to have done,
+it would be argueyfied,’ said the Deputy Lock, cunningly harping on the
+strong string of her terror; ‘he ought to have handed her over safe to
+the Parish. That was to be expected of a man of his merits.’
+
+As he stood in the doorway, the poor old careworn wayworn woman burst
+into [[Tears|tears]], and clasped her hands, as if in a very agony she prayed to
+him.
+
+‘As I’ve told you, Master, I’ve the best of friends. This letter will
+show how true I spoke, and they will be thankful for me.’
+
+The Deputy Lock opened the letter with a [[Grave|grave]] face, which underwent no
+change as he eyed its contents. But it might have done, if he could have
+read them.
+
+‘What amount of small change, Missis,’ he said, with an abstracted air,
+after a little meditation, ‘might you call a morsel of money?’
+
+Hurriedly emptying her pocket, old Betty laid down on the table, a
+shilling, and two sixpenny pieces, and a few pence.
+
+‘If I was to let you go instead of handing you over safe to the Parish,’
+said the Deputy, counting the money with his eyes, ‘might it be your own
+free wish to leave that there behind you?’
+
+‘Take it, Master, take it, and welcome and thankful!’
+
+‘I’m a man,’ said the Deputy, giving her back the letter, and pocketing
+the coins, one by one, ‘as earns his living by the sweat of his brow;’
+here he drew his sleeve across his forehead, as if this particular
+portion of his humble gains were the result of sheer hard labour and
+virtuous industry; ‘and I won’t stand in your way. Go where you like.’
+
+She was gone out of the Lock-[[house]] as soon as he gave her this
+permission, and her tottering steps were on the [[Road|road]] again. But, afraid
+to go back and afraid to go forward; seeing what she fled from, in the
+sky-glare of the lights of the little town before her, and leaving a
+confused horror of it everywhere behind her, as if she had escaped it
+in every stone of every market-place; she struck off by side ways, among
+which she got bewildered and lost. That [[Night|night]] she took refuge from the
+Samaritan in his latest accredited form, under a farmer’s rick; and
+if—worth thinking of, perhaps, my fellow-Christians—the Samaritan had
+in the lonely [[Night|night]], ‘passed by on the other side’, she would have most
+devoutly thanked High Heaven for her escape from him.
+
+The morning found her afoot again, but fast declining as to the
+clearness of her thoughts, though not as to the steadiness of her
+purpose. Comprehending that her strength was quitting her, and that the
+struggle of her life was almost ended, she could neither reason out the
+means of getting back to her protectors, nor even form the idea. The
+overmastering dread, and the proud stubborn resolution it engendered
+in her to die undegraded, were the two distinct impressions left in her
+failing mind. Supported only by a sense that she was bent on conquering
+in her life-long fight, she went on.
+
+The [[Time|time]] was come, now, when the wants of this little life were passing
+away from her. She could not have swallowed food, though a table had
+been spread for her in the next field. The day was cold and wet, but
+she scarcely knew it. She crept on, poor [[Soul|soul]], like a criminal afraid of
+being taken, and felt little beyond the terror of falling down while it
+was yet daylight, and being found alive. She had no [[Fear|fear]] that she would
+live through another [[Night|night]].
+
+Sewn in the breast of her gown, the money to pay for her burial was
+still intact. If she could wear through the day, and then lie down to
+die under cover of the darkness, she would die independent. If she were
+captured previously, the money would be taken from her as a pauper who
+had no right to it, and she would be carried to the accursed workhouse.
+Gaining her end, the letter would be found in her breast, along with
+the money, and the gentlefolks would say when it was given back to them,
+‘She prized it, did old Betty Higden; she was true to it; and while she
+lived, she would never let it be disgraced by falling into the hands
+of those that she held in horror.’ Most illogical, inconsequential, and
+light-headed, this; but travellers in the valley of the [[Shadow|shadow]] of [[Death|death]]
+are apt to be light-headed; and worn-out old people of low estate have
+a trick of reasoning as indifferently as they live, and doubtless
+would appreciate our Poor Law more philosophically on an income of ten
+thousand a year.
+
+So, keeping to byways, and shunning human approach, this troublesome
+old woman hid herself, and fared on all through the dreary day. Yet so
+unlike was she to vagrant hiders in general, that sometimes, as the day
+advanced, there was a bright [[Fire|fire]] in her eyes, and a quicker beating at
+her feeble heart, as though she said exultingly, ‘The Lord will see me
+through it!’
+
+By what visionary hands she was led along upon that [[Journey|journey]] of escape
+from the Samaritan; by what voices, hushed in the [[Grave|grave]], she seemed
+to be addressed; how she fancied the dead [[Child|child]] in her arms again, and
+times innumerable adjusted her shawl to keep it warm; what infinite
+variety of forms of tower and roof and steeple the trees took; how many
+furious horsemen rode at her, crying, ‘There she goes! Stop! Stop,
+Betty Higden!’ and melted away as they came close; be these things left
+untold. Faring on and hiding, hiding and faring on, the poor harmless
+creature, as though she were a Murderess and the whole country were up
+after her, wore out the day, and gained the [[Night|night]].
+
+‘[[Water]]-meadows, or such like,’ she had sometimes murmured, on the day’s
+pilgrimage, when she had raised her head and taken any note of the real
+objects about her. There now arose in the darkness, a great building,
+full of lighted windows. Smoke was issuing from a high chimney in
+the rear of it, and there was the sound of a [[Water|water]]-[[Wheel|wheel]] at the side.
+Between her and the building, lay a piece of [[Water|water]], in which the lighted
+windows were reflected, and on its nearest margin was a plantation of
+trees. ‘I humbly thank the Power and the Glory,’ said Betty Higden,
+holding up her withered hands, ‘that I have come to my [[Journey|journey]]’s end!’
+
+She crept among the trees to the trunk of a tree whence she could see,
+beyond some intervening trees and branches, the lighted windows, both in
+their reality and their reflection in the [[Water|water]]. She placed her orderly
+little basket at her side, and sank upon the ground, supporting herself
+against the tree. It brought to her mind the foot of the [[Cross]], and
+she committed herself to Him who died upon it. Her strength held out to
+enable her to arrange the letter in her breast, so as that it could
+be seen that she had a paper there. It had held out for this, and it
+departed when this was done.
+
+‘I am safe here,’ was her last benumbed thought. ‘When I am found dead
+at the foot of the [[Cross]], it will be by some of my own sort; some of
+the working people who work among the lights yonder. I cannot see the
+lighted windows now, but they are there. I am thankful for all!’
+
+
+The darkness gone, and a face bending down.
+
+‘It cannot be the boofer lady?’
+
+‘I don’t understand what you say. Let me wet your lips again with this
+brandy. I have been away to fetch it. Did you think that I was long
+gone?’
+
+It is as the face of a woman, shaded by a quantity of rich dark hair.
+It is the earnest face of a woman who is young and handsome. But all is
+over with me on earth, and this must be an Angel.
+
+‘Have I been long dead?’
+
+‘I don’t understand what you say. Let me wet your lips again. I hurried
+all I could, and brought no one back with me, lest you should die of the
+shock of strangers.’
+
+‘Am I not dead?’
+
+‘I cannot understand what you say. Your voice is so low and broken that
+I cannot hear you. Do you hear me?’
+
+‘Yes.’
+
+‘Do you mean Yes?’
+
+‘Yes.’
+
+‘I was coming from my work just now, along the path outside (I was up
+with the [[Night|night]]-hands last [[Night|night]]), and I heard a groan, and found you
+lying here.’
+
+‘What work, deary?’
+
+‘Did you ask what work? At the paper-mill.’
+
+‘Where is it?’
+
+‘Your face is turned up to the sky, and you can’t see it. It is close
+by. You can see my face, here, between you and the sky?’
+
+‘Yes.’
+
+‘Dare I lift you?’
+
+‘Not yet.’
+
+‘Not even lift your head to get it on my arm? I will do it by very
+gentle degrees. You shall hardly feel it.’
+
+‘Not yet. Paper. Letter.’
+
+‘This paper in your breast?’
+
+‘Bless ye!’
+
+‘Let me wet your lips again. Am I to open it? To read it?’
+
+‘Bless ye!’
+
+She reads it with surprise, and looks down with a new expression and an
+added interest on the motionless face she kneels beside.
+
+‘I know these names. I have heard them often.’
+
+‘Will you send it, my dear?’
+
+‘I cannot understand you. Let me wet your lips again, and your forehead.
+There. O poor thing, poor thing!’ These words through her fast-dropping
+[[Tears|tears]]. ‘What was it that you asked me? Wait till I bring my ear quite
+close.’
+
+‘Will you send it, my dear?’
+
+‘Will I send it to the writers? Is that your wish? Yes, certainly.’
+
+‘You’ll not give it up to any one but them?’
+
+‘No.’
+
+‘As you must grow old in [[Time|time]], and come to your dying hour, my dear,
+you’ll not give it up to any one but them?’
+
+‘No. Most solemnly.’
+
+‘Never to the Parish!’ with a convulsed struggle.
+
+‘No. Most solemnly.’
+
+‘Nor let the Parish touch me, not yet so much as look at me!’ with
+another struggle.
+
+‘No. Faithfully.’
+
+A look of thankfulness and triumph lights the worn old face.
+
+The eyes, which have been darkly fixed upon the sky, turn with meaning
+in them towards the compassionate face from which the [[Tears|tears]] are
+dropping, and a smile is on the aged lips as they ask:
+
+‘What is your name, my dear?’
+
+‘My name is [[Lizzie Hexam]].’
+
+‘I must be sore disfigured. Are you afraid to kiss me?’
+
+The answer is, the ready pressure of her lips upon the cold but smiling
+mouth.
+
+‘Bless ye! NOW lift me, my [[Love|love]].’
+
+[[Lizzie Hexam]] very softly raised the weather-stained grey head, and
+lifted her as high as Heaven.

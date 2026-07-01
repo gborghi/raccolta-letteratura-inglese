@@ -1,5 +1,5 @@
 ---
-title: "[[The Landscape Garden]] (part 3)"
+title: "The Landscape Garden (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-landscape-garden-(poe)"
@@ -14,7 +14,19 @@ tags:
 </nav>
 
 
-      the [[Artist|artist]], the arrangement of the parts will always be
+      combinations of scenery exist in [[Nature]] as the painter of genius
+
+      has in his power to produce. No such Paradises are to be found in
+
+      reality as have glowed upon the canvass of Claude. In the most
+
+      enchanting of natural landscapes, there will always be found a
+
+      defect or an excess—many excesses and defects. While the
+
+      component parts may exceed, individually, the highest skill of
+
+      the [[artist]], the arrangement of the parts will always be
 
       susceptible of improvement. In short, no position can be
 
@@ -58,7 +70,7 @@ tags:
 
       demonstrations, than the sentiment of his Art yields to the
 
-      [[Artist|artist]]. He not only believes, but positively knows, that such and
+      [[artist]]. He not only believes, but positively knows, that such and
 
       such apparently arbitrary arrangements of matter, or form,
 
@@ -76,7 +88,7 @@ tags:
 
       mere arrangement of form; let this emendation be submitted to
 
-      every [[Artist|artist]] in the world; by each will its necessity be
+      every [[artist]] in the world; by each will its necessity be
 
       admitted. And even far more than this, in remedy of the defective
 
@@ -177,21 +189,3 @@ tags:
       mixture of pure art in a [[Garden|garden]] scene, adds to it a great [[Beauty|beauty]].
 
       This is partly pleasing to the eye, by the show of order and
-
-      design, and partly moral. A terrace, with an old moss-covered
-
-      balustrade, calls up at once to the eye, the fair forms that have
-
-      passed there in other days. The slightest exhibition of art is an
-
-      evidence of care and human interest.”
-
-
-
-      “From what I have already observed,” said Mr. Ellison, “you will
-
-      understand that I reject the idea, here expressed, of ‘recalling
-
-      the original [[Beauty|beauty]] of the country.’ The original [[Beauty|beauty]] is never
-
-      so great as that which may be introduced. Of course, much depends

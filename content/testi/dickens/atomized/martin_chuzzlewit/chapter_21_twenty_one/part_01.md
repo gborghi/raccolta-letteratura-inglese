@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 21: TWENTY ONE (part 1)"
+title: "Martin Chuzzlewit — Chapter 21: TWENTY ONE (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/martin-chuzzlewit-(dickens)">Martin Chuzzlewit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_20_twenty/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_21_twenty_one/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_20_twenty/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_21_twenty_one/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -109,7 +109,7 @@ approaching consummation of his fondest wishes.
 ‘A military officer,’ said Mark.
 
 ‘Confound you for a ridiculous fellow!’ cried Martin, laughing heartily
-in spite of himself. ‘What military officer? You know they [[Spring|spring]] up in
+in spite of himself. ‘What military officer? You know they [[spring]] up in
 every field.’
 
 ‘As thick as scarecrows in England, sir,’ interposed Mark, ‘which is a

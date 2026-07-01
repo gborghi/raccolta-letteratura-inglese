@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 51 (part 3)"
+title: "Oliver Twist — Chapter 51 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_51/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_51/part_04">part 04 ›</a></div>
 </nav>
 
+
+There was a short [[Silence|silence]] here, until Mr. Brownlow took up the thread
+of the narrative.
+
+“Years after this,” he said, “this man’s—Edward Leeford’s—mother came
+to me. He had left her, when only eighteen; robbed her of jewels and
+money; gambled, squandered, forged, and fled to [[London]]: where for two
+years he had associated with the lowest outcasts. She was sinking under
+a painful and incurable disease, and wished to recover him before she
+died. Inquiries were set on foot, and strict searches made. They were
+unavailing for a long [[Time|time]], but ultimately successful; and he went back
+with her to France.”
 
 “There she died,” said [[Monks]], “after a lingering illness; and, on her
 [[Death|death]]-bed, she bequeathed these [[Secrets|secrets]] to me, together with her
@@ -131,24 +143,3 @@ office?”
 
 “Indeed it will,” replied Mr. Brownlow. “You may make up your mind to
 that, and think yourself [[Well|well]] off besides.”
-
-“It was all Mrs. Bumble. She _would_ do it,” urged Mr. Bumble; first
-looking round to ascertain that his partner had left the room.
-
-“That is no excuse,” replied Mr. Brownlow. “You were present on the
-occasion of the destruction of these trinkets, and indeed are the more
-guilty of the two, in the eye of the law; for the law supposes that
-your wife acts under your direction.”
-
-“If the law supposes that,” said Mr. Bumble, squeezing his hat
-emphatically in both hands, “the law is a ass—a idiot. If that’s the
-eye of the law, the law is a bachelor; and the worst I wish the law is,
-that his eye may be opened by experience—by experience.”
-
-Laying great stress on the repetition of these two words, Mr. Bumble
-fixed his hat on very tight, and putting his hands in his pockets,
-followed his helpmate downstairs.
-
-“Young lady,” said Mr. Brownlow, turning to [[Rose]], “give me your hand.
-Do not tremble. You need not [[Fear|fear]] to hear the few remaining words we
-have to say.”

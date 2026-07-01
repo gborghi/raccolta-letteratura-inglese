@@ -1,5 +1,5 @@
 ---
-title: "[[CharlesDickens]] — Chapter 1 (part 4)"
+title: "CharlesDickens — Chapter 1 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/charlesdickens-(chesterton)"
@@ -125,7 +125,7 @@ laugh at him.
 
 I believe myself that this braver world of his will certainly return;
 for I believe that it is bound up with the realities,
-like morning and the [[Spring|spring]].  But for those who beyond
+like morning and the [[spring]].  But for those who beyond
 remedy regard it as an error, I put this appeal before any
 other observations on Dickens.  First let us sympathise,
 if only for an instant, with the hopes of the Dickens period,

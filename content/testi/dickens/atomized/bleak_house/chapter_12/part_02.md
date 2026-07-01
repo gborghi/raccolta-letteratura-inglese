@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 12 (part 2)"
+title: "Bleak House — Chapter 12 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -131,7 +131,7 @@ any drawback on my Lady.”
 reason to be.”
 
 “[[Well]],” says Watt, “it’s to be hoped they line out of their
-[[Prayer|prayer]]-books a certain passage for the common people about [[Pride|pride]] and
+[[prayer]]-books a certain passage for the common people about [[Pride|pride]] and
 vainglory. Forgive me, grandmother! Only a joke!”
 
 “Sir Leicester and [[Lady Dedlock]], my dear, are not fit subjects for
@@ -142,8 +142,3 @@ his pardon. I suppose, grandmother, that even with the family and
 their guests down here, there is no objection to my prolonging my
 stay at the Dedlock Arms for a day or two, as any other traveller
 might?”
-
-“Surely, none in the world, [[Child|child]].”
-
-“I am glad of that,” says Watt, “because I have an inexpressible
-[[Desire|desire]] to extend my knowledge of this beautiful neighbourhood.”

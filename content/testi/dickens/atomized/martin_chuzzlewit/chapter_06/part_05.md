@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 6 (part 5)"
+title: "Martin Chuzzlewit — Chapter 6 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_06/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_06/part_06">part 06 ›</a></div>
 </nav>
 
+
+‘Just what I supposed,’ said Tom. ‘Quite natural!’ and, in his great
+satisfaction, he took a long sip out of his wine-glass.
+
+‘Although I had conducted myself from the first with the utmost
+circumspection,’ pursued Martin, ‘I had not managed matters so [[Well|well]] but
+that my grandfather, who is full of [[Jealousy|jealousy]] and distrust, suspected me
+of loving her. He said nothing to her, but straightway attacked me
+in private, and charged me with designing to corrupt the fidelity to
+himself (there you observe his selfishness), of a young creature whom
+he had trained and educated to be his only disinterested and faithful
+companion, when he should have disposed of me in [[Marriage|marriage]] to his heart’s
+content. Upon that, I took [[Fire|fire]] immediately, and told him that with his
+good leave I would dispose of myself in [[Marriage|marriage]], and would rather
+not be knocked down by him or any other auctioneer to any bidder
+whomsoever.’
 
 Mr Pinch opened his eyes wider, and looked at the [[Fire|fire]] harder than he
 had done yet.
@@ -124,25 +140,3 @@ he had been a few days earlier he would have seen her; and that now she
 might be, for anything he knew, hundreds of miles away; threw himself,
 after a few turns across the room, into a chair, and chafed like a
 spoilt [[Child|child]].
-
-[[Tom Pinch]]’s heart was very tender, and he could not bear to see the
-most indifferent person in distress; still less one who had awakened
-an interest in him, and who regarded him (either in fact, or as he
-supposed) with kindness, and in a spirit of lenient construction.
-Whatever his own thoughts had been a few moments before--and to judge
-from his face they must have been pretty serious--he dismissed them
-instantly, and gave his young friend the best counsel and comfort that
-occurred to him.
-
-‘All will be [[Well|well]] in [[Time|time]],’ said Tom, ‘I have no [[Doubt|doubt]]; and some trial
-and adversity just now will only serve to make you more attached to each
-other in better days. I have always read that the [[Truth|truth]] is so, and I
-have a feeling within me, which tells me how natural and right it is
-that it should be. That never ran smooth yet,’ said Tom, with a smile
-which, despite the homeliness of his face, was pleasanter to see than
-many a proud [[Beauty|beauty]]’s brightest glance; ‘what never ran smooth yet, can
-hardly be expected to change its character for us; so we must take it as
-we find it, and fashion it into the very best shape we can, by patience
-and good-[[Humour|humour]]. I have no power at all; I needn’t tell you that; but I
-have an excellent will; and if I could ever be of use to you, in any way
-whatever, how very glad I should be!’

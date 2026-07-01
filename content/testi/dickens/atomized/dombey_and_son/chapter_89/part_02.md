@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 33 (part 2)"
+title: "Dombey and Son — Chapter 61 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,134 +14,121 @@ tags:
 </nav>
 
 
-“It is early, John,” she said. “Why do you go so early?”
+Florence then remembered Cousin Feenix, whom she had not at first
+recognised in the shade of the [[Leaves|leaves]]. Cousin Feenix took her hand, and
+congratulated her upon her [[Marriage|marriage]].
 
-“Not many minutes earlier than usual, Harriet. If I have the [[Time|time]] to
-spare, I should like, I think—it’s a fancy—to walk once by the [[house]]
-where I took leave of him.”
+“I could have wished, I am sure,” said Cousin Feenix, sitting down as
+Florence sat, “to have had an earlier opportunity of offering my
+congratulations; but, in point of fact, so many painful occurrences
+have happened, treading, as a man may say, on one another’s heels, that
+I have been in a devil of a state myself, and perfectly unfit for every
+description of society. The only description of society I have kept,
+has been my own; and it certainly is anything but flattering to a man’s
+good opinion of his own sources, to know that, in point of fact, he has
+the capacity of boring himself to a perfectly unlimited extent.”
 
-“I wish I had ever seen or known him, John.”
+Florence divined, from some indefinable constraint and anxiety in this
+gentleman’s manner—which was always a gentleman’s, in spite of the
+harmless little eccentricities that attached to it—and from Walter’s
+manner no less, that something more immediately tending to some object
+was to follow this.
 
-“It is better as it is, my dear, remembering his fate.”
+“I have been mentioning to my friend Mr Gay, if I may be allowed to
+have the [[Honour|honour]] of calling him so,” said Cousin Feenix, “that I am
+rejoiced to hear that my friend Dombey is very decidedly [[mending]]. I
+trust my friend Dombey will not allow his mind to be too much preyed
+upon, by any mere loss of fortune. I cannot say that I have ever
+experienced any very great loss of fortune myself: never having had, in
+point of fact, any great amount of fortune to lose. But as much as I
+could lose, I have lost; and I don’t find that I particularly care
+about it. I know my friend Dombey to be a devilish honourable man; and
+it’s calculated to console my friend Dombey very much, to know, that
+this is the universal sentiment. Even Tommy Screwzer,—a man of an
+extremely bilious habit, with whom my friend Gay is probably
+acquainted—cannot say a syllable in disputation of the fact.”
 
-“But I could not regret it more, though I had known him. Is not your
-sorrow mine? And if I had, perhaps you would feel that I was a better
-companion to you in speaking about him, than I may seem now.”
+Florence felt, more than ever, that there was something to come; and
+looked earnestly for it. So earnestly, that Cousin Feenix answered, as
+if she had spoken.
 
-“My dearest sister! Is there anything within the range of rejoicing or
-regret, in which I am not sure of your companionship?”
+“The fact is,” said Cousin Feenix, “that my friend Gay and myself have
+been discussing the propriety of entreating a favour at your hands; and
+that I have the consent of my friend Gay—who has met me in an
+exceedingly kind and open manner, for which I am very much indebted to
+him—to solicit it. I am sensible that so amiable a lady as the lovely
+and accomplished daughter of my friend Dombey will not require much
+urging; but I am happy to know, that I am supported by my friend Gay’s
+influence and approval. As in my parliamentary [[Time|time]], when a man had a
+motion to make of any sort—which happened seldom in those days, for we
+were kept very tight in hand, the leaders on both sides being regular
+Martinets, which was a devilish good thing for the rank and file, like
+myself, and prevented our exposing ourselves continually, as a great
+many of us had a feverish anxiety to do—as, in my parliamentary [[Time|time]], I
+was about to say, when a man had leave to let off any little private
+popgun, it was always considered a great point for him to say that he
+had the happiness of believing that his sentiments were not without an
+echo in the breast of Mr Pitt; the pilot, in point of fact, who had
+weathered the [[Storm|storm]]. Upon which, a devilish large number of fellows
+immediately cheered, and put him in spirits. Though the fact is, that
+these fellows, being under orders to cheer most excessively whenever Mr
+Pitt’s name was mentioned, became so proficient that it always woke
+’em. And they were so entirely [[Innocent|innocent]] of what was going on,
+otherwise, that it used to be commonly said by Conversation
+Brown—four-bottle man at the Treasury Board, with whom the father of my
+friend Gay was probably acquainted, for it was before my friend Gay’s
+[[Time|time]]—that if a man had risen in his place, and said that he regretted
+to inform the [[house]] that there was an Honourable Member in the last
+stage of convulsions in the Lobby, and that the Honourable Member’s
+name was Pitt, the approbation would have been vociferous.”
 
-“I [[Hope|hope]] you think not, John, for surely there is nothing!”
+This postponement of the point, put Florence in a flutter; and she
+looked from Cousin Feenix to Walter, in increasing agitation.
 
-“How could you be better to me, or nearer to me then, than you are in
-this, or anything?” said her brother. “I feel that you did know him,
-Harriet, and that you shared my feelings towards him.”
+“My [[Love|love]],” said Walter, “there is nothing the matter.”
 
-She drew the hand which had been resting on his shoulder, round his
-neck, and answered, with some hesitation:
+“There is nothing the matter, upon my [[Honour|honour]],” said Cousin Feenix; “and
+I am deeply distressed at being the means of causing you a moment’s
+uneasiness. I beg to assure you that there is nothing the matter. The
+favour that I have to ask is, simply—but it really does seem so
+exceedingly singular, that I should be in the last degree obliged to my
+friend Gay if he would have the goodness to break the—in point of fact,
+the ice,” said Cousin Feenix.
 
-“No, not quite.”
+Walter thus appealed to, and appealed to no less in the look that
+Florence turned towards him, said:
 
-“True, true!” he said; “you think I might have done him no harm if I
-had allowed myself to know him better?”
+“My dearest, it is no more than this. That you will ride to [[London]] with
+this gentleman, whom you know.”
 
-“Think! I know it.”
+“And my friend Gay, also—I beg your pardon!” interrupted Cousin Feenix.
 
-“Designedly, Heaven knows I would not,” he replied, shaking his head
-mournfully; “but his reputation was too precious to be perilled by such
-association. Whether you share that knowledge, or do not, my dear—”
+“—And with me—and make a visit somewhere.”
 
-“I do not,” she said quietly.
+“To whom?” asked Florence, looking from one to the other.
 
-“It is still the [[Truth|truth]], Harriet, and my mind is lighter when I think of
-him for that which made it so much heavier then.” He checked himself in
-his tone of [[Melancholy|melancholy]], and smiled upon her as he said “Good-bye!”
+“If I might entreat,” said Cousin Feenix, “that you would not press for
+an answer to that question, I would venture to take the liberty of
+making the request.”
 
-“Good-bye, dear John! In the evening, at the old [[Time|time]] and place, I
-shall meet you as usual on your way [[Home|home]]. Good-bye.”
+“Do you know, Walter?”
 
-The cordial face she lifted up to his to kiss him, was his [[Home|home]], his
-life, his universe, and yet it was a portion of his punishment and
-grief; for in the cloud he saw upon it—though serene and calm as any
-radiant cloud at sunset—and in the constancy and devotion of her life,
-and in the sacrifice she had made of ease, enjoyment, and [[Hope|hope]], he saw
-the bitter fruits of his old crime, for ever ripe and fresh.
+“Yes.”
 
-She stood at the door looking after him, with her hands loosely clasped
-in each other, as he made his way over the frowzy and uneven patch of
-ground which lay before their [[house]], which had once (and not long ago)
-been a pleasant meadow, and was now a very waste, with a disorderly
-crop of beginnings of mean houses, rising out of the rubbish, as if
-they had been unskilfully sown there. Whenever he looked back—as once
-or twice he did—her cordial face shone like a light upon his heart; but
-when he plodded on his way, and saw her not, the [[Tears|tears]] were in her eyes
-as she stood watching him.
+“And think it right?”
 
-Her pensive form was not long idle at the door. There was daily duty to
-discharge, and daily work to do—for such commonplace spirits that are
-not heroic, often work hard with their hands—and Harriet was soon busy
-with her household tasks. These discharged, and the poor [[house]] made
-quite neat and orderly, she counted her little stock of money, with an
-anxious face, and went out thoughtfully to buy some necessaries for
-their table, planning and conniving, as she went, how to save. So
-sordid are the lives of such low natures, who are not only not heroic
-to their valets and waiting-women, but have neither valets nor
-waiting-women to be heroic to withal!
+“Yes. Only because I am sure that you would too. Though there may be
+reasons I very [[Well|well]] understand, which make it better that nothing more
+should be said beforehand.”
 
-While she was absent, and there was no one in the [[house]], there
-approached it by a different way from that the brother had taken, a
-gentleman, a very little past his prime of life perhaps, but of a
-healthy florid hue, an upright presence, and a bright clear aspect,
-that was gracious and good-humoured. His eyebrows were still black, and
-so was much of his hair; the sprinkling of grey observable among the
-latter, graced the former very much, and showed his broad frank brow
-and honest eyes to great advantage.
+“If Papa is still asleep, or can spare me if he is awake, I will go
+immediately,” said Florence. And rising quietly, and glancing at them
+with a look that was a little alarmed but perfectly confiding, left the
+room.
 
-After knocking once at the door, and obtaining no response, this
-gentleman sat down on a bench in the little porch to wait. A certain
-skilful action of his fingers as he hummed some bars, and beat [[Time|time]] on
-the seat beside him, seemed to denote the musician; and the
-extraordinary satisfaction he derived from humming something very slow
-and long, which had no recognisable tune, seemed to denote that he was
-a scientific one.
-
-The gentleman was still twirling a theme, which seemed to go round and
-round and round, and in and in and in, and to involve itself like a
-corkscrew twirled upon a table, without getting any nearer to anything,
-when Harriet appeared returning. He [[Rose|rose]] up as she advanced, and stood
-with his head uncovered.
-
-“You are come again, Sir!” she said, faltering.
-
-“I take that liberty,” he answered. “May I ask for five minutes of your
-leisure?”
-
-After a moment’s hesitation, she opened the door, and gave him
-admission to the little parlour. The gentleman sat down there, drew his
-chair to the table over against her, and said, in a voice that
-perfectly corresponded to his appearance, and with a simplicity that
-was very engaging:
-
-“Miss Harriet, you cannot be proud. You signified to me, when I called
-t’other morning, that you were. Pardon me if I say that I looked into
-your face while you spoke, and that it contradicted you. I look into it
-again,” he added, laying his hand gently on her arm, for an instant,
-“and it contradicts you more and more.”
-
-She was somewhat confused and agitated, and could make no ready answer.
-
-“It is the [[Mirror|mirror]] of [[Truth|truth]],” said her visitor, “and gentleness. Excuse
-my trusting to it, and returning.”
-
-His manner of saying these words, divested them entirely of the
-character of compliments. It was so plain, [[Grave|grave]], unaffected, and
-sincere, that she bent her head, as if at once to thank him, and
-acknowledge his sincerity.
-
-“The disparity between our ages,” said the gentleman, “and the
-plainness of my purpose, empower me, I am glad to think, to speak my
-mind. That is my mind; and so you see me for the second [[Time|time]].”
-
-“There is a kind of [[Pride|pride]], Sir,” she returned, after a moment’s
-[[Silence|silence]], “or what may be supposed to be [[Pride|pride]], which is mere duty. I
-[[Hope|hope]] I cherish no other.”
+When she came back, ready to bear them company, they were talking
+together, gravely, at the [[Window|window]]; and Florence could not but [[Wonder|wonder]]
+what the topic was, that had made them so [[Well|well]] acquainted in so short a
+[[Time|time]]. She did not [[Wonder|wonder]] at the look of [[Pride|pride]] and [[Love|love]] with which her
+husband broke off as she entered; for she never saw him, but that
+rested on her.

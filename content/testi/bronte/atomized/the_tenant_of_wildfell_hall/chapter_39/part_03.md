@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 39 (part 3)"
+title: "The Tenant of Wildfell Hall — Chapter 39 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,30 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_39/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_39/part_04">part 04 ›</a></div>
 </nav>
 
+
+meanwhile, sat quietly drinking his wine,—or looking smilingly into his
+
+glass and offering no interruption or reply, till Hattersley shouted
+
+out,—‘Do you hear me, man?’
+
+
+
+“‘Yes, go on,’ said he.
+
+
+
+“‘Nay, I’ve done,’ replied the other: ‘I only want to know if you
+
+intend to take my advice.’
+
+
+
+“‘What advice?’
+
+
+
+“‘To turn over a new leaf, you [[Double|double]]-dyed scoundrel,’ shouted Ralph,
 
 ‘and beg your wife’s pardon, and be a good boy for the future.’
 
@@ -263,23 +287,3 @@ say I overcame you, and you could not choose but yield!”
 I never saw a man go terribly excited. He precipitated himself towards
 
 me. I snatched up my palette-knife and held it against him. This
-
-startled him: he stood and gazed at me in astonishment; I daresay I
-
-looked as fierce and resolute as he. I moved to the bell, and put my
-
-hand upon the cord. This tamed him still more. With a
-
-half-authoritative, half-deprecating wave of the hand, he sought to
-
-deter me from ringing.
-
-
-
-“Stand off, then!” said I; he stepped back. “And listen to me. I don’t
-
-like you,” I continued, as deliberately and emphatically as I could, to
-
-give the greater efficacy to my words; “and if I were divorced from my
-
-husband, or if he were dead, I would not marry you. There now! I [[Hope|hope]]

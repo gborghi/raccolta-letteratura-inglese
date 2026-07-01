@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 32 (part 1)"
+title: "Shirley — Chapter 32 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -209,9 +209,3 @@ best moods, in his worst savage. On seeing Moore's state he relieved his
 feelings by a little flowery language, with which it is not necessary to
 
 strew the present page. A bouquet or two of the choicest blossoms fell
-
-on the unperturbed head of one Mr. Graves, a stony young assistant he
-
-usually carried about with him; with a second nosegay he gifted another
-
-young gentleman in his train--an interesting fac-simile of himself,

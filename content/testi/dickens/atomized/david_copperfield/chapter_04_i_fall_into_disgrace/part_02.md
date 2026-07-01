@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 4: I FALL INTO DISGRACE (part 2)"
+title: "David Copperfield — Chapter 4: I FALL INTO DISGRACE (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_04_i_fall_into_disgrace/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_04_i_fall_into_disgrace/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘Clara, my dear,’ he said, when I had done his bidding, and he walked me
+into the parlour, with his hand still on my arm; ‘you will not be made
+uncomfortable any more, I [[Hope|hope]]. We shall soon improve our youthful
+humours.’
 
 God help me, I might have been improved for my whole life, I might have
 been made another creature perhaps, for life, by a kind word at that
@@ -118,11 +123,3 @@ thing in future.’
 From that [[Time|time]], Miss Murdstone kept the keys in her own little jail all
 day, and under her pillow all [[Night|night]], and my mother had no more to do
 with them than I had.
-
-My mother did not suffer her authority to pass from her without a [[Shadow|shadow]]
-of protest. One [[Night|night]] when Miss Murdstone had been developing certain
-household plans to her brother, of which he signified his approbation,
-my mother suddenly began to cry, and said she thought she might have
-been consulted.
-
-‘Clara!’ said Mr. Murdstone sternly. ‘Clara! I [[Wonder|wonder]] at you.’

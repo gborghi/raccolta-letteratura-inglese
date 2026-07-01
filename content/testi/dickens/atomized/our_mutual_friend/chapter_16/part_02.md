@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 11 (part 2)"
+title: "Our Mutual Friend — Chapter 12 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,134 +14,156 @@ tags:
 </nav>
 
 
-Said Mrs Podsnap then to Mr Podsnap, ‘Which will enable us to clear off
-all those people who are due.’
+‘Filially spoken, Eugene!’
 
-So it came to pass that Mr and Mrs Podsnap requested the [[Honour|honour]] of the
-company of seventeen friends of their souls at dinner; and that they
-substituted other friends of their souls for such of the seventeen
-original friends of their souls as deeply regretted that a prior
-engagement prevented their having the [[Honour|honour]] of dining with Mr and Mrs
-Podsnap, in pursuance of their kind invitation; and that Mrs Podsnap
-said of all these inconsolable personages, as she checked them off with
-a pencil in her list, ‘Asked, at any rate, and got rid of;’ and that
-they successfully disposed of a good many friends of their souls in this
-way, and felt their consciences much lightened.
+‘Perfectly so, believe me; and with every sentiment of affectionate
+deference towards M. R. F. But if he amuses me, I can’t help it. When my
+eldest brother was born, of course the rest of us knew (I mean the rest
+of us would have known, if we had been in existence) that he was heir
+to the Family Embarrassments—we call it before the company the Family
+Estate. But when my second brother was going to be born by-and-by,
+“this,” says M. R. F., “is a little pillar of the church.” Was born,
+and became a pillar of the church; a very shaky one. My third brother
+appeared, considerably in advance of his engagement to my mother; but
+M. R. F., not at all put out by surprise, instantly declared him
+a Circumnavigator. Was pitch-forked into the Navy, but has not
+circumnavigated. I announced myself and was disposed of with the highly
+satisfactory results embodied before you. When my younger brother was
+half an hour old, it was settled by M. R. F. that he should have a
+mechanical genius. And so on. Therefore I say that M. R. F. amuses me.’
 
-There were still other friends of their souls who were not entitled to
-be asked to dinner, but had a claim to be invited to come and take a
-haunch of mutton vapour-bath at half-past nine. For the clearing off
-of these worthies, Mrs Podsnap added a small and early evening to the
-dinner, and looked in at the music-shop to bespeak a [[Well|well]]-conducted
-automaton to come and play quadrilles for a carpet [[Dance|dance]].
+‘Touching the lady, Eugene.’
 
-Mr and Mrs Veneering, and Mr and Mrs Veneering’s bran-new bride and
-bridegroom, were of the dinner company; but the Podsnap establishment
-had nothing else in common with the Veneerings. Mr Podsnap could
-tolerate taste in a mushroom man who stood in need of that sort
-of thing, but was far above it himself. Hideous solidity was the
-characteristic of the Podsnap plate. Everything was made to look as
-heavy as it could, and to take up as much room as possible. Everything
-said boastfully, ‘Here you have as much of me in my ugliness as if I
-were only lead; but I am so many ounces of precious metal worth so much
-an ounce;—wouldn’t you like to melt me down?’ A corpulent straddling
-epergne, blotched all over as if it had broken out in an eruption rather
-than been ornamented, delivered this address from an unsightly silver
-platform in the centre of the table. Four silver wine-coolers, each
-furnished with four staring heads, each head obtrusively carrying a big
-silver ring in each of its ears, conveyed the sentiment up and down the
-table, and handed it on to the pot-bellied silver salt-cellars. All the
-big silver spoons and forks widened the mouths of the company expressly
-for the purpose of thrusting the sentiment down their throats with every
-morsel they ate.
+‘There M. R. F. ceases to be amusing, because my intentions are opposed
+to touching the lady.’
 
-The majority of the guests were like the plate, and included several
-heavy articles weighing ever so much. But there was a foreign gentleman
-among them: whom Mr Podsnap had invited after much [[debate]] with
-himself—believing the whole European continent to be in mortal alliance
-against the young person—and there was a droll disposition, not only on
-the part of Mr Podsnap but of everybody else, to treat him as if he were
-a [[Child|child]] who was hard of hearing.
+‘Do you know her?’
 
-As a delicate concession to this unfortunately-born foreigner, Mr
-Podsnap, in receiving him, had presented his wife as ‘Madame Podsnap;’
-also his daughter as ‘Mademoiselle Podsnap,’ with some inclination to
-add ‘ma fille,’ in which bold venture, however, he checked himself. The
-Veneerings being at that [[Time|time]] the only other arrivals, he had added (in
-a condescendingly explanatory manner), ‘Monsieur Vey-nair-reeng,’ and
-had then subsided into English.
+‘Not in the least.’
 
-‘How Do You Like [[London]]?’ Mr Podsnap now inquired from his station of
-host, as if he were administering something in the [[Nature|nature]] of a powder or
-potion to the deaf [[Child|child]]; ‘[[London]], Londres, [[London]]?’
+‘Hadn’t you better see her?’
 
-The foreign gentleman admired it.
+‘My dear Mortimer, you have studied my character. Could I possibly go
+down there, labelled “ELIGIBLE. ON VIEW,” and meet the lady, similarly
+labelled? Anything to carry out M. R. F.’s arrangements, I am sure, with
+the greatest pleasure—except matrimony. Could I possibly support it? I,
+so soon bored, so constantly, so fatally?’
 
-‘You find it Very Large?’ said Mr Podsnap, spaciously.
+‘But you are not a consistent fellow, Eugene.’
 
-The foreign gentleman found it very large.
+‘In susceptibility to boredom,’ returned that worthy, ‘I assure you I am
+the most consistent of mankind.’
 
-‘And Very Rich?’
+‘Why, it was but now that you were dwelling in the advantages of a
+monotony of two.’
 
-The foreign gentleman found it, without [[Doubt|doubt]], enormement riche.
+‘In a lighthouse. Do me the justice to remember the condition. In a
+lighthouse.’
 
-‘Enormously Rich, We say,’ returned Mr Podsnap, in a condescending
-manner. ‘Our English adverbs do Not terminate in Mong, and We Pronounce
-the “ch” as if there were a “t” before it. We say Ritch.’
+Mortimer laughed again, and Eugene, having laughed too for the first
+[[Time|time]], as if he found himself on reflection rather entertaining, relapsed
+into his usual gloom, and drowsily said, as he enjoyed his cigar, ‘No,
+there is no help for it; one of the prophetic deliveries of M. R. F.
+must for ever remain unfulfilled. With every disposition to oblige him,
+he must submit to a failure.’
 
-‘Reetch,’ remarked the foreign gentleman.
+It had grown darker as they talked, and the [[Wind|wind]] was sawing and the
+sawdust was whirling outside paler windows. The underlying churchyard
+was already settling into deep dim shade, and the shade was creeping up
+to the housetops among which they sat. ‘As if,’ said Eugene, ‘as if the
+churchyard [[Ghosts|ghosts]] were rising.’
 
-‘And Do You Find, Sir,’ pursued Mr Podsnap, with dignity, ‘Many
-Evidences that Strike You, of our British Constitution in the Streets Of
-The World’s Metropolis, [[London]], Londres, [[London]]?’
+He had walked to the [[Window|window]] with his cigar in his mouth, to exalt its
+flavour by comparing the fireside with the outside, when he stopped
+midway on his return to his arm-chair, and said:
 
-The foreign gentleman begged to be pardoned, but did not altogether
-understand.
+‘Apparently one of the [[Ghosts|ghosts]] has lost its way, and dropped in to be
+directed. Look at this [[Phantom|phantom]]!’
 
-‘The Constitution Britannique,’ Mr Podsnap explained, as if he were
-teaching in an infant school. ‘We Say British, But You Say Britannique,
-You Know’ (forgivingly, as if that were not his fault). ‘The
-Constitution, Sir.’
+Lightwood, whose back was towards the door, turned his head, and there,
+in the darkness of the entry, stood a something in the likeness of a
+man: to whom he addressed the not irrelevant inquiry, ‘Who the devil are
+you?’
 
-The foreign gentleman said, ‘Mais, yees; I know eem.’
+‘I ask your pardons, Governors,’ replied the [[Ghost|ghost]], in a hoarse
+[[Double|double]]-barrelled whisper, ‘but might either on you be Lawyer Lightwood?’
 
-A youngish sallowish gentleman in spectacles, with a lumpy forehead,
-seated in a supplementary chair at a corner of the table, here caused
-a profound sensation by saying, in a raised voice, ‘ESKER,’ and then
-stopping dead.
+‘What do you mean by not knocking at the door?’ demanded Mortimer.
 
-‘Mais oui,’ said the foreign gentleman, turning towards him. ‘Est-ce
-que? Quoi donc?’
+‘I ask your pardons, Governors,’ replied the [[Ghost|ghost]], as before, ‘but
+probable you was not aware your door stood open.’
 
-But the gentleman with the lumpy forehead having for the [[Time|time]] delivered
-himself of all that he found behind his lumps, spake for the [[Time|time]] no
-more.
+‘What do you want?’
 
-‘I Was Inquiring,’ said Mr Podsnap, resuming the thread of his
-discourse, ‘Whether You Have Observed in our Streets as We should say,
-Upon our Pavvy as You would say, any Tokens—’
+Hereunto the [[Ghost|ghost]] again hoarsely replied, in its [[Double|double]]-barrelled
+manner, ‘I ask your pardons, Governors, but might one on you be Lawyer
+Lightwood?’
 
-The foreign gentleman, with patient courtesy entreated pardon; ‘But what
-was tokenz?’
+‘One of us is,’ said the owner of that name.
 
-‘Marks,’ said Mr Podsnap; ‘Signs, you know, Appearances—Traces.’
+‘All right, Governors Both,’ returned the [[Ghost|ghost]], carefully closing the
+room door; ‘’tickler business.’
 
-‘Ah! Of a Orse?’ inquired the foreign gentleman.
+Mortimer lighted the candles. They showed the visitor to be an
+ill-looking visitor with a squinting leer, who, as he spoke, fumbled
+at an old sodden fur cap, formless and mangey, that looked like a furry
+animal, dog or cat, puppy or kitten, drowned and decaying.
 
-‘We call it [[Horse]],’ said Mr Podsnap, with forbearance. ‘In England,
-Angleterre, England, We Aspirate the “H,” and We Say “[[Horse]].” Only our
-Lower Classes Say “Orse!”’
+‘Now,’ said Mortimer, ‘what is it?’
 
-‘Pardon,’ said the foreign gentleman; ‘I am alwiz wrong!’
+‘Governors Both,’ returned the man, in what he meant to be a wheedling
+tone, ‘which on you might be Lawyer Lightwood?’
 
-‘Our Language,’ said Mr Podsnap, with a gracious consciousness of being
-always right, ‘is Difficult. Ours is a Copious Language, and Trying to
-Strangers. I will not Pursue my Question.’
+‘I am.’
 
-But the lumpy gentleman, unwilling to give it up, again madly said,
-‘ESKER,’ and again spake no more.
+‘Lawyer Lightwood,’ ducking at him with a servile air, ‘I am a man as
+gets my living, and as seeks to get my living, by the sweat of my brow.
+Not to risk being done out of the sweat of my brow, by any chances, I
+should wish afore going further to be swore in.’
 
-‘It merely referred,’ Mr Podsnap explained, with a sense of meritorious
-proprietorship, ‘to Our Constitution, Sir. We Englishmen are Very Proud
-of our Constitution, Sir. It Was Bestowed Upon Us By [[Providence]]. No
-Other Country is so Favoured as This Country.’
+‘I am not a swearer in of people, man.’
+
+The visitor, clearly anything but reliant on this assurance, doggedly
+muttered ‘Alfred David.’
+
+‘Is that your name?’ asked Lightwood.
+
+‘My name?’ returned the man. ‘No; I want to take a Alfred David.’
+
+(Which Eugene, smoking and contemplating him, interpreted as meaning
+Affidavit.)
+
+‘I tell you, my good fellow,’ said Lightwood, with his indolent laugh,
+‘that I have nothing to do with swearing.’
+
+‘He can swear AT you,’ Eugene explained; ‘and so can I. But we can’t do
+more for you.’
+
+Much discomfited by this information, the visitor turned the drowned
+dog or cat, puppy or kitten, about and about, and looked from one of
+the Governors Both to the other of the Governors Both, while he deeply
+considered within himself. At length he decided:
+
+‘Then I must be took down.’
+
+‘Where?’ asked Lightwood.
+
+‘Here,’ said the man. ‘In pen and ink.’
+
+‘First, let us know what your business is about.’
+
+‘It’s about,’ said the man, taking a step forward, dropping his hoarse
+voice, and shading it with his hand, ‘it’s about from five to ten
+thousand pound reward. That’s what it’s about. It’s about Murder. That’s
+what it’s about.’
+
+‘Come nearer the table. Sit down. Will you have a glass of wine?’
+
+‘Yes, I will,’ said the man; ‘and I don’t deceive you, Governors.’
+
+It was given him. Making a stiff arm to the elbow, he poured the wine
+into his mouth, tilted it into his right cheek, as saying, ‘What do you
+think of it?’ tilted it into his left cheek, as saying, ‘What do YOU
+think of it?’ jerked it into his stomach, as saying, ‘What do YOU think
+of it?’ To conclude, smacked his lips, as if all three replied, ‘We
+think [[Well|well]] of it.’

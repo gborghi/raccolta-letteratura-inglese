@@ -1,5 +1,5 @@
 ---
-title: "[[Bon-Bon]] (part 6)"
+title: "Bon-Bon (part 6)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/bon-bon-(poe)"
@@ -12,6 +12,13 @@ tags:
 <div class="excerpt-crumb">Poe · <a href="/works/bon-bon-(poe)">Bon Bon</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/bon_bon/part/part_05">‹ part 05</a><span></span></div>
 </nav>
+
+
+      “But if I have a penchant, Monsieur [[Bon-Bon]]—if I have a penchant, it
+      is for a philosopher. Yet, let me tell you, sir, it is not every dev—I
+      mean it is not every gentleman who knows how to choose a philosopher. Long
+      ones are not good; and the best, if not carefully shelled, are apt to be a
+      little rancid on account of the gall!”
 
 
       “Shelled!”

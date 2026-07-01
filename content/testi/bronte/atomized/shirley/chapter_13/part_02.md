@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 13 (part 2)"
+title: "Shirley — Chapter 13 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_13/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_13/part_03">part 03 ›</a></div>
 </nav>
 
+
+he must think it with a man's brain, not with mine. She has such
+
+generous yet soft [[Fire|fire]] in her eyes. She smiles--what makes her smile so
 
 sweet? I saw that Robert felt its [[Beauty|beauty]], and he must have felt it with
 
@@ -267,21 +271,3 @@ Miss Keeldar.
 that mad Calvinist and Jacobin weaver? They say he is addicted to
 
 poaching, and often goes abroad at [[Night|night]] with his gun."
-
-
-
-"I have already had the luck to meet him. We held a long argument
-
-together one [[Night|night]]. A strange little incident it was; I liked it."
-
-
-
-"Liked it? I admire your taste! [[Michael]] is not sane. Where did you meet
-
-him?"
-
-
-
-"In the deepest, shadiest spot in the glen, where the [[Water|water]] runs low,
-
-under brushwood. We sat down near that plank bridge. It was moonlight,

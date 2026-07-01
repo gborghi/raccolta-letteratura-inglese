@@ -15,7 +15,7 @@ tags:
 
 
 It even became an occupation in the calm, to [[Wonder|wonder]] when the [[Wind|wind]] _would_
-[[Spring|spring]] up in the favourable quarter, where, it was clearly shown by all
+[[spring]] up in the favourable quarter, where, it was clearly shown by all
 the rules and precedents, it ought to have sprung up long ago.  The first
 mate, who whistled for it zealously, was much respected for his
 perseverance, and was regarded even by the unbelievers as a first-rate
@@ -38,10 +38,10 @@ hundred passengers: a little world of [[Poverty|poverty]]: and as we came to kno
 individuals among them by sight, from looking down upon the deck where
 they took the air in the daytime, and cooked their food, and very often
 ate it too, we became curious to know their histories, and with what
-expectations they had gone out to [[America]], and on what errands they were
+expectations they had gone out to [[america|America]], and on what errands they were
 going [[Home|home]], and what their circumstances were.  The information we got on
 these heads from the carpenter, who had charge of these people, was often
-of the strangest kind.  Some of them had been in [[America]] but three days,
+of the strangest kind.  Some of them had been in [[america|America]] but three days,
 some but three months, and some had gone out in the last voyage of that
 very [[Ship|ship]] in which they were now returning [[Home|home]].  Others had sold their
 clothes to raise the passage-money, and had hardly rags to cover them;
@@ -90,7 +90,7 @@ even poorer than they went.  One of them was carrying an open letter from
 a young English artisan, who had been in [[New York]] a fortnight, to a
 friend near Manchester, whom he strongly urged to follow him.  One of the
 officers brought it to me as a curiosity.  ‘This is the country, Jem,’
-said the writer.  ‘I like [[America]].  There is no despotism here; that’s
+said the writer.  ‘I like [[america|America]].  There is no despotism here; that’s
 the great thing.  Employment of all sorts is going a-begging, and wages
 are capital.  You have only to choose a trade, Jem, and be it.  I haven’t
 made choice of one yet, but I shall soon.  _At present I haven’t quite

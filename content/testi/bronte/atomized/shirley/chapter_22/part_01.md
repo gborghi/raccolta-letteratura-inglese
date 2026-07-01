@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 22 (part 1)"
+title: "Shirley — Chapter 22 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_21/part_06">‹ part 06</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_22/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_21/part_07">‹ part 07</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_22/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -205,11 +205,3 @@ thimble is scarcely fitted on, her needle scarce threaded, when a sudden
 thought calls her upstairs. Perhaps she goes to seek some
 
 just-then-remembered old ivory-backed needle-book or older china-topped
-
-work-box, quite unneeded, but which seems at the moment indispensable;
-
-perhaps to arrange her hair, or a drawer which she recollects to have
-
-seen that morning in a state of curious confusion; perhaps only to take
-
-a peep from a particular [[Window|window]] at a particular view, whence Briarfield

@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 12 (part 3)"
+title: "Oliver Twist — Chapter 12 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_12/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_13/part_01">part 01 ›</a></div>
 </nav>
 
+
+“My name is [[Oliver]], sir,” replied the little invalid with a look of
+great astonishment.
+
+“[[Oliver]],” said Mr. Brownlow; “[[Oliver]] what? [[Oliver]] White, eh?”
+
+“No, sir, Twist, [[Oliver Twist]].”
+
+“Queer name!” said the old gentleman. “What made you tell the
+magistrate your name was White?”
 
 “I never told him so, sir,” returned [[Oliver]] in amazement.
 

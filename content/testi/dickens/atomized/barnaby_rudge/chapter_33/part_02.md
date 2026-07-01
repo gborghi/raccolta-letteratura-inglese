@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 33 (part 2)"
+title: "Barnaby Rudge — Chapter 33 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_33/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_33/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘Johnny’s dropped off,’ said Mr Parkes in a whisper.
+
+‘Fast as a top,’ said Mr Cobb.
+
+Neither of them said any more until Mr Willet came to another knot--one
+of surpassing obduracy--which bade fair to throw him into convulsions,
+but which he got over at last without waking, by an effort quite
+superhuman.
 
 ‘He sleeps uncommon hard,’ said Mr Cobb.
 
@@ -124,8 +133,3 @@ question him; until old John Willet, in a fit of temporary insanity,
 made a dive at his cravat, and, seizing him by that portion of his
 dress, shook him to and fro until his very teeth appeared to rattle in
 his head.
-
-‘Tell us what’s the matter, sir,’ said John, ‘or I’ll kill you. Tell us
-what’s the matter, sir, or in another second I’ll have your head under
-the biler. How dare you look like that? Is anybody a-following of you?
-What do you mean? Say something, or I’ll be the [[Death|death]] of you, I will.’

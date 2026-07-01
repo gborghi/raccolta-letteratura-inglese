@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 36: ENTHUSIASM (part 1)"
+title: "David Copperfield — Chapter 36: ENTHUSIASM (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_35_depression/part_07">‹ part 07</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_36_enthusiasm/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_35_depression/part_08">‹ part 08</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_36_enthusiasm/part_02">part 02 ›</a></div>
 </nav>
 
 

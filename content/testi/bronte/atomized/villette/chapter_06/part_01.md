@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 6 (part 1)"
+title: "Villette — Chapter 6 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -67,7 +67,7 @@ Prodigious was the amount of life I lived that morning. Finding myself
 before St. Paul’s, I went in; I mounted to the dome: I saw thence
 [[London]], with its [[River|river]], and its bridges, and its churches; I saw
 antique Westminster, and the green Temple Gardens, with sun upon them,
-and a glad, blue sky, of early [[spring]] above; and between them and it,
+and a glad, blue sky, of early [[Spring|spring]] above; and between them and it,
 not too dense, a cloud of haze.
 
 Descending, I went wandering whither chance might lead, in a still
@@ -122,14 +122,3 @@ I think, to the wharf, and not leaving me to the watermen; which that
 functionary promised to observe, but failed in keeping his promise: on
 the contrary, he offered me up as an oblation, served me as a dripping
 roast, making me alight in the midst of a throng of watermen.
-
-This was an uncomfortable crisis. It was a dark [[Night|night]]. The coachman
-instantly drove off as soon as he had got his fare: the watermen
-commenced a struggle for me and my trunk. Their oaths I hear at this
-moment: they shook my [[philosophy]] more than did the [[Night|night]], or the
-isolation, or the strangeness of the scene. One laid hands on my trunk.
-I looked on and waited quietly; but when another laid hands on me, I
-spoke up, shook off his touch, stepped at once into a boat, desired
-austerely that the trunk should be placed beside me—“Just there,”—which
-was instantly done; for the owner of the boat I had chosen became now
-an ally: I was rowed off.

@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 18 (part 1)"
+title: "Persuasion — Chapter 18 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/works/persuasion-(austen)">Persuasion</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_17/part_03">‹ part 03</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_18/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_17/part_04">‹ part 04</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_18/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -227,7 +227,3 @@ pleased, however, for though it is not equal to her marrying Captain
 Wentworth, it is infinitely better than Charles Hayter; and Mr Musgrove
 
 has written his consent, and [[Captain Benwick]] is expected to-day. Mrs
-
-Harville says her husband feels a good deal on his poor sister’s
-
-account; but, however, Louisa is a great favourite with both. Indeed,

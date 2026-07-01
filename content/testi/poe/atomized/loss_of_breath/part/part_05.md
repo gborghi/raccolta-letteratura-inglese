@@ -1,5 +1,5 @@
 ---
-title: "[[Loss of Breath]] (part 5)"
+title: "Loss of Breath (part 5)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/loss-of-breath-(poe)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/loss_of_breath/part/part_04">‹ part 04</a><span></span></div>
 </nav>
 
+
+undoubtedly be abolished—don’t you think so?—no reply, I beg you,—one
+
+person is enough to be speaking at a [[Time|time]].—I shall be done by and by,
+
+and then you may begin.—How the devil sir, did you get into this
+
+place?—not a word I beseech you—been here some [[Time|time]] myself—terrible
+
+accident!—heard of it, I suppose?—awful calamity!—walking under your
+
+windows—some short while ago—about the [[Time|time]] you were
+
+stage-struck—horrible occurrence!—heard of “catching one’s breath,”
+
+eh?—hold your tongue I tell you!—I caught somebody else’s!—had always
+
+too much of my own—met Blab at the corner of the street—wouldn’t give
 
 me a chance for a word—couldn’t get in a syllable edgeways—attacked,
 

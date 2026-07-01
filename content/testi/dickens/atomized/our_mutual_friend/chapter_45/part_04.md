@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 4 (part 4)"
+title: "Our Mutual Friend — Chapter 7 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,201 +14,170 @@ tags:
 </nav>
 
 
-Mr Sampson at length released from the custody of Mrs Wilfer’s eye, now
-drew a long breath, and made the original and striking remark that there
-was no accounting for these sort of presentiments. R. W. scratched his
-head and looked apologetically all round the table until he came to his
-wife, when observing her as it were shrouded in a more sombre veil than
-before, he once more hinted, ‘My dear, I am really afraid you are not
-altogether enjoying yourself?’ To which she once more replied, ‘On the
-contrary, R. W. Quite so.’
+‘Brother,’ said Wegg, when this happy understanding was established, ‘I
+should like to ask you something. You remember the [[Night|night]] when I first
+looked in here, and found you floating your powerful mind in tea?’
 
-The wretched Mr Sampson’s position at this agreeable entertainment
-was truly pitiable. For, not only was he exposed defenceless to the
-harangues of Mrs Wilfer, but he received the utmost contumely at the
-hands of [[Lavinia]]; who, partly to show Bella that she ([[Lavinia]]) could do
-what she liked with him, and partly to pay him off for still obviously
-admiring Bella’s [[Beauty|beauty]], led him the life of a dog. Illuminated on the
-one hand by the stately graces of Mrs Wilfer’s oratory, and shadowed
-on the other by the checks and frowns of the young lady to whom he
-had devoted himself in his destitution, the sufferings of this young
-gentleman were distressing to witness. If his mind for the moment reeled
-under them, it may be urged, in extenuation of its weakness, that it
-was constitutionally a knock-knee’d mind and never very strong upon its
-legs.
+Still swilling tea, [[Mr Venus]] nodded assent.
 
-The rosy hours were thus beguiled until it was [[Time|time]] for Bella to have
-Pa’s escort back. The dimples duly tied up in the bonnet-strings and the
-leave-taking done, they got out into the air, and the cherub drew a long
-breath as if he found it refreshing.
+‘And there you sit, sir,’ pursued Wegg with an air of thoughtful
+admiration, ‘as if you had never left off! There you sit, sir, as if you
+had an unlimited capacity of assimilating the flagrant article! There
+you sit, sir, in the midst of your works, looking as if you’d been
+called upon for [[Home]], Sweet [[Home]], and was obleeging the company!
 
-‘[[Well]], dear Pa,’ said Bella, ‘the anniversary may be considered over.’
+     “A [[Exile|exile]] from [[Home|home]] splendour dazzles in vain,
+     O give you your lowly Preparations again,
+     The [[Birds|birds]] stuffed so sweetly that can’t be expected to come at
+     your call,
+     Give you these with the peace of mind dearer than all.
+     [[Home]], [[Home]], [[Home]], sweet [[Home]]!”
 
-‘Yes, my dear,’ returned the cherub, ‘there’s another of ’em gone.’
+—Be it ever,’ added Mr Wegg in prose as he glanced about the shop,
+‘ever so ghastly, all things considered there’s no place like it.’
 
-Bella drew his arm closer through hers as they walked along, and gave it
-a number of consolatory pats. ‘Thank you, my dear,’ he said, as if
-she had spoken; ‘I am all right, my dear. [[Well]], and how do you get on,
-Bella?’
+‘You said you’d like to ask something; but you haven’t asked it,’
+remarked [[Venus]], very unsympathetic in manner.
 
-‘I am not at all improved, Pa.’
+‘Your peace of mind,’ said Wegg, offering condolence, ‘your peace of
+mind was in a poor way that [[Night|night]]. HOW’S it going on? IS it looking up
+at all?’
 
-‘Ain’t you really though?’
+‘She does not wish,’ replied [[Mr Venus]] with a comical mixture of
+indignant obstinacy and tender [[Melancholy|melancholy]], ‘to regard herself, nor yet
+to be regarded, in that particular light. There’s no more to be said.’
 
-‘No, Pa. On the contrary, I am worse.’
+‘Ah, dear me, dear me!’ exclaimed Wegg with a sigh, but eyeing him while
+pretending to keep him company in eyeing the [[Fire|fire]], ‘such is Woman! And
+I remember you said that [[Night|night]], sitting there as I sat here—said that
+[[Night|night]] when your peace of mind was first laid low, that you had taken an
+interest in these very affairs. Such is coincidence!’
 
-‘Lor!’ said the cherub.
+‘Her father,’ rejoined [[Venus]], and then stopped to [[Swallow|swallow]] more tea, ‘her
+father was mixed up in them.’
 
-‘I am worse, Pa. I make so many calculations how much a year I must have
-when I marry, and what is the least I can manage to do with, that I am
-beginning to get wrinkles over my nose. Did you notice any wrinkles over
-my nose this evening, Pa?’
+‘You didn’t mention her name, sir, I think?’ observed Wegg, pensively.
+‘No, you didn’t mention her name that [[Night|night]].’
 
-Pa laughing at this, Bella gave him two or three shakes.
+‘Pleasant Riderhood.’
 
-‘You won’t laugh, sir, when you see your lovely woman turning haggard.
-You had better be prepared in [[Time|time]], I can tell you. I shall not be able
-to keep my greediness for money out of my eyes long, and when you see it
-there you’ll be sorry, and serve you right for not being warned in [[Time|time]].
-Now, sir, we entered into a bond of confidence. Have you anything to
-impart?’
+‘In—deed!’ cried Wegg. ‘Pleasant Riderhood. There’s something moving in
+the name. Pleasant. Dear me! Seems to express what she might have
+been, if she hadn’t made that unpleasant remark—and what she ain’t,
+in consequence of having made it. Would it at all pour balm into your
+wounds, [[Mr Venus]], to inquire how you came acquainted with her?’
 
-‘I thought it was you who was to impart, my [[Love|love]].’
+‘I was down at the [[Water|water]]-side,’ said [[Venus]], taking another gulp of
+tea and mournfully winking at the [[Fire|fire]]—‘looking for parrots’—taking
+another gulp and stopping.
 
-‘Oh! did you indeed, sir? Then why didn’t you ask me, the moment we came
-out? The confidences of lovely women are not to be slighted. However, I
-forgive you this once, and look here, Pa; that’s’—Bella laid the
-little forefinger of her right glove on her lip, and then laid it on her
-father’s lip—‘that’s a kiss for you. And now I am going seriously
-to tell you—let me see how many—four [[Secrets|secrets]]. Mind! Serious, [[Grave|grave]],
-weighty [[Secrets|secrets]]. Strictly between ourselves.’
+Mr Wegg hinted, to jog his attention: ‘You could hardly have been out
+parrot-shooting, in the British climate, sir?’
 
-‘Number one, my dear?’ said her father, settling her arm comfortably and
-confidentially.
+‘No, no, no,’ said [[Venus]] fretfully. ‘I was down at the [[Water|water]]-side,
+looking for parrots brought [[Home|home]] by sailors, to buy for stuffing.’
 
-‘Number one,’ said Bella, ‘will electrify you, Pa. Who do you think
-has’—she was confused here in spite of her merry way of beginning ‘has
-made an offer to me?’
+‘Ay, ay, ay, sir!’
 
-Pa looked in her face, and looked at the ground, and looked in her face
-again, and declared he could never guess.
+‘—And looking for a nice pair of rattlesnakes, to articulate for a
+Museum—when I was doomed to fall in with her and deal with her. It was
+just at the [[Time|time]] of that discovery in the [[River|river]]. Her father had seen the
+discovery being towed in the [[River|river]]. I made the popularity of the subject
+a reason for going back to improve the acquaintance, and I have never
+since been the man I was. My very bones is rendered flabby by brooding
+over it. If they could be brought to me loose, to sort, I should hardly
+have the face to claim ’em as mine. To such an extent have I fallen off
+under it.’
 
-‘Mr Rokesmith.’
+Mr Wegg, less interested than he had been, glanced at one particular
+shelf in the dark.
 
-‘You don’t tell me so, my dear!’
+‘Why I remember, [[Mr Venus]],’ he said in a tone of friendly commiseration
+‘(for I remember every word that falls from you, sir), I remember that
+you said that [[Night|night]], you had got up there—and then your words was,
+“Never mind.”’
 
-‘Mis—ter Roke—[[smith]], Pa,’ said Bella separating the syllables for
-emphasis. ‘What do you say to THAT?’
+‘—The parrot that I bought of her,’ said [[Venus]], with a despondent rise
+and fall of his eyes. ‘Yes; there it lies on its side, dried up; except
+for its plumage, very like myself. I’ve never had the heart to prepare
+it, and I never shall have now.’
 
-Pa answered quietly with the counter-question, ‘What did YOU say to
-that, my [[Love|love]]?’
+With a disappointed face, Silas mentally consigned this parrot to
+regions more than tropical, and, seeming for the [[Time|time]] to have lost
+his power of assuming an interest in the woes of [[Mr Venus]], fell to
+tightening his wooden leg as a preparation for departure: its gymnastic
+performances of that evening having severely tried its constitution.
 
-‘I said No,’ returned Bella sharply. ‘Of course.’
+After Silas had left the shop, hat-box in hand, and had left [[Mr Venus]]
+to lower himself to oblivion-point with the requisite weight of tea, it
+greatly preyed on his ingenuous mind that he had taken this [[Artist|artist]] into
+partnership at all. He bitterly felt that he had overreached himself in
+the beginning, by grasping at [[Mr Venus]]’s mere straws of hints, now shown
+to be worthless for his purpose. Casting about for ways and means of
+dissolving the connexion without loss of money, reproaching himself for
+having been betrayed into an avowal of his secret, and complimenting
+himself beyond measure on his purely accidental good luck, he beguiled
+the distance between Clerkenwell and the mansion of the Golden Dustman.
 
-‘Yes. Of course,’ said her father, meditating.
+For, [[Silas Wegg]] felt it to be quite out of the question that he could
+lay his head upon his pillow in peace, without first hovering over
+Mr Boffin’s [[house]] in the superior character of its Evil Genius. Power
+(unless it be the power of intellect or virtue) has ever the greatest
+attraction for the lowest natures; and the mere defiance of the
+unconscious [[house]]-front, with his power to strip the roof off the
+inhabiting family like the roof of a [[house]] of cards, was a treat which
+had a charm for [[Silas Wegg]].
 
-‘And I told him why I thought it a betrayal of trust on his part, and an
-affront to me,’ said Bella.
+As he hovered on the opposite side of the street, exulting, the carriage
+drove up.
 
-‘Yes. To be sure. I am astonished indeed. I [[Wonder|wonder]] he committed himself
-without seeing more of his way first. Now I think of it, I suspect he
-always has admired you though, my dear.’
+‘There’ll shortly be an end of YOU,’ said Wegg, threatening it with the
+hat-box. ‘YOUR varnish is fading.’
 
-‘A hackney coachman may admire me,’ remarked Bella, with a touch of her
-mother’s loftiness.
+Mrs Boffin descended and went in.
 
-‘It’s highly probable, my [[Love|love]]. Number two, my dear?’
+‘Look out for a fall, my Lady Dustwoman,’ said Wegg.
 
-‘Number two, Pa, is much to the same purpose, though not so
-preposterous. Mr Lightwood would propose to me, if I would let him.’
+Bella lightly descended, and ran in after her.
 
-‘Then I understand, my dear, that you don’t intend to let him?’
+‘How brisk we are!’ said Wegg. ‘You won’t run so gaily to your old
+shabby [[Home|home]], my girl. You’ll have to go there, though.’
 
-Bella again saying, with her former emphasis, ‘Why, of course not!’ her
-father felt himself bound to echo, ‘Of course not.’
+A little while, and the Secretary came out.
 
-‘I don’t care for him,’ said Bella.
+‘I was passed over for you,’ said Wegg. ‘But you had better provide
+yourself with another situation, young man.’
 
-‘That’s enough,’ her father interposed.
+Mr Boffin’s [[Shadow|shadow]] passed upon the blinds of three large windows as he
+trotted down the room, and passed again as he went back.
 
-‘No, Pa, it’s NOT enough,’ rejoined Bella, giving him another shake or
-two. ‘Haven’t I told you what a mercenary little wretch I am? It
-only becomes enough when he has no money, and no clients, and no
-expectations, and no anything but debts.’
+‘Yoop!’ cried Wegg. ‘You’re there, are you? Where’s the bottle? You
+would give your bottle for my box, Dustman!’
 
-‘Hah!’ said the cherub, a little depressed. ‘Number three, my dear?’
+Having now composed his mind for slumber, he turned homeward. Such
+was the [[Greed|greed]] of the fellow, that his mind had shot beyond halves,
+two-thirds, three-fourths, and gone straight to spoliation of the whole.
+‘Though that wouldn’t quite do,’ he considered, growing cooler as he got
+away. ‘That’s what would happen to him if he didn’t buy us up. We should
+get nothing by that.’
 
-‘Number three, Pa, is a better thing. A generous thing, a noble thing, a
-delightful thing. Mrs Boffin has herself told me, as a secret, with her
-own kind lips—and truer lips never opened or closed in this life, I am
-sure—that they wish to see me [[Well|well]] married; and that when I marry with
-their consent they will portion me most handsomely.’ Here the grateful
-girl burst out crying very heartily.
+We so judge others by ourselves, that it had never come into his head
+before, that he might not buy us up, and might prove honest, and prefer
+to be poor. It caused him a slight tremor as it passed; but a very
+slight one, for the idle thought was gone directly.
 
-‘Don’t cry, my darling,’ said her father, with his hand to his eyes;
-‘it’s excusable in me to be a little overcome when I find that my dear
-favourite [[Child|child]] is, after all disappointments, to be so provided for
-and so raised in the world; but don’t YOU cry, don’t YOU cry. I am very
-thankful. I congratulate you with all my heart, my dear.’ The good soft
-little fellow, drying his eyes, here, Bella put her arms round his neck
-and tenderly kissed him on the high [[Road|road]], passionately telling him
-he was the best of fathers and the best of friends, and that on her
-wedding-morning she would go down on her knees to him and beg his pardon
-for having ever teased him or seemed insensible to the worth of such
-a patient, sympathetic, genial, fresh young heart. At every one of her
-adjectives she redoubled her kisses, and finally kissed his hat off, and
-then laughed immoderately when the [[Wind|wind]] took it and he ran after it.
+‘He’s grown too fond of money for that,’ said Wegg; ‘he’s grown too fond
+of money.’ The burden fell into a strain or tune as he stumped along the
+pavements. All the way [[Home|home]] he stumped it out of the rattling streets,
+PIANO with his own foot, and FORTE with his wooden leg, ‘He’s GROWN too
+FOND of MONEY for THAT, he’s GROWN too FOND of MONEY.’
 
-When he had recovered his hat and his breath, and they were going on
-again once more, said her father then: ‘Number four, my dear?’
-
-Bella’s countenance fell in the midst of her mirth. ‘After all, perhaps
-I had better put off number four, Pa. Let me try once more, if for never
-so short a [[Time|time]], to [[Hope|hope]] that it may not really be so.’
-
-The change in her, strengthened the cherub’s interest in number four,
-and he said quietly: ‘May not be so, my dear? May not be how, my dear?’
-
-Bella looked at him pensively, and shook her head.
-
-‘And yet I know right [[Well|well]] it is so, Pa. I know it only too [[Well|well]].’
-
-‘My [[Love|love]],’ returned her father, ‘you make me quite uncomfortable. Have
-you said No to anybody else, my dear?’
-
-‘No, Pa.’
-
-‘Yes to anybody?’ he suggested, lifting up his eyebrows.
-
-‘No, Pa.’
-
-‘Is there anybody else who would take his chance between Yes and No, if
-you would let him, my dear?’
-
-‘Not that I know of, Pa.’
-
-‘There can’t be somebody who won’t take his chance when you want him
-to?’ said the cherub, as a last resource.
-
-‘Why, of course not, Pa,’ said Bella, giving him another shake or two.
-
-‘No, of course not,’ he assented. ‘Bella, my dear, I am afraid I must
-either have no [[Sleep|sleep]] to-[[Night|night]], or I must press for number four.’
-
-‘Oh, Pa, there is no good in number four! I am so sorry for it, I am so
-unwilling to believe it, I have tried so earnestly not to see it, that
-it is very hard to tell, even to you. But Mr Boffin is being spoilt by
-prosperity, and is changing every day.’
-
-‘My dear Bella, I [[Hope|hope]] and trust not.’
-
-‘I have hoped and trusted not too, Pa; but every day he changes for
-the worse, and for the worse. Not to me—he is always much the same
-to me—but to others about him. Before my eyes he grows suspicious,
-capricious, hard, tyrannical, unjust. If ever a good man were ruined by
-good fortune, it is my benefactor. And yet, Pa, think how terrible the
-fascination of money is! I see this, and hate this, and dread this, and
-don’t know but that money might make a much worse change in me. And yet
-I have money always in my thoughts and my desires; and the whole life I
-place before myself is money, money, money, and what money can make of
-life!’
+Even next day Silas soothed himself with this melodious strain, when he
+was called out of bed at daybreak, to set open the yard-gate and admit
+the train of carts and horses that came to carry off the little Mound.
+And all day long, as he kept unwinking watch on the slow process which
+promised to protract itself through many days and weeks, whenever
+(to save himself from being choked with [[Dust|dust]]) he patrolled a little
+cinderous beat he established for the purpose, without taking his eyes
+from the diggers, he still stumped to the tune: He’s GROWN too FOND of
+MONEY for THAT, he’s GROWN too FOND of MONEY.’

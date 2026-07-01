@@ -1,5 +1,5 @@
 ---
-title: "[[Timon]] of Athens — Act I, Scene 2 — exchange ([[Alcibiades|ALCIBIADES]]) [6]"
+title: "Timon of Athens — Act I, Scene 2 — exchange (ALCIBIADES) [6]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/timon-of-athens-(shakespeare)"

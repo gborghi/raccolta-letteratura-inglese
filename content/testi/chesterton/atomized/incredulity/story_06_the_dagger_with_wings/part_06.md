@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity]] — The Dagger with Wings (part 6)"
+title: "Incredulity — The Dagger with Wings (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-(chesterton)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_06_the_dagger_with_wings/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_06_the_dagger_with_wings/part_07">part 07 ›</a></div>
 </nav>
 
+
+`I see you are still doubtful,' he said, `though you have seen the thing
+with your own eyes.  Believe me, there was something more behind
+the quarrel between the spirit of Strake and the spirit of the [[house]]
+of Aylmer.  Besides, you have no business to be an unbeliever.  You ought
+to stand for all the things these stupid people call superstitions.
+Come now, don't you think there's a lot in those old wives'
+tales about luck and charms and so on, silver bullets included?
+What do you say about them as a Catholic?'
 
 `I say I'm an agnostic,' replied Father Brown, smiling.
 

@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 9 (part 4)"
+title: "Shirley — Chapter 9 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,30 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_09/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_09/part_05">part 05 ›</a></div>
 </nav>
 
+
+but Matthew is never to be vexed, never to be opposed; they avert
+
+provocation from him as assiduously as they would avert [[Fire|fire]] from a
+
+barrel of gunpowder. "Concede, conciliate," is their motto wherever he
+
+is concerned. The republicans are fast making a [[Tyrant|tyrant]] of their own
+
+flesh and [[Blood|blood]]. This the younger scions know and feel, and at heart
+
+they all [[Rebel|rebel]] against the injustice. They cannot read their parents'
+
+motives; they only see the difference of treatment. The dragon's teeth
+
+are already sown amongst Mr. Yorke's young olive-branches; discord will
+
+one day be the harvest.
+
+
+
+Mark is a bonny-looking boy, the most regular-featured of the family. He
+
+is exceedingly calm; his smile is shrewd; he can say the driest, most
 
 cutting things in the quietest of tones. Despite his tranquillity, a
 
@@ -185,35 +209,3 @@ looking out for a wife."
 occasionally to crack a dry jest against matrimony, even though it
 
 should be at her own expense. "He has repented it in sackcloth and
-
-ashes, [[Robert Moore]], as you may [[Well|well]] believe when you see his
-
-punishment" (here she pointed to her children). "Who would burden
-
-themselves with such a set of great, rough lads as those, if they could
-
-help it? It is not only bringing them into the world, though that is bad
-
-enough, but they are all to feed, to clothe, to rear, to settle in life.
-
-Young sir, when you feel tempted to marry, think of our four sons and
-
-two daughters, and look twice before you leap."
-
-
-
-"I am not tempted now, at any rate. I think these are not times for
-
-marrying or giving in [[Marriage|marriage]]."
-
-
-
-A lugubrious sentiment of this sort was sure to obtain Mrs. Yorke's
-
-approbation. She nodded and groaned acquiescence; but in a minute she
-
-said, "I make little account of the wisdom of a Solomon of your age; it
-
-will be upset by the first fancy that crosses you. Meantime, sit down,
-
-sir. You can talk, I suppose, as [[Well|well]] sitting as standing?"

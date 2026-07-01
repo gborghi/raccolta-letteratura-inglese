@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 23 (part 5)"
+title: "Shirley — Chapter 23 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,34 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_23/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_23/part_06">part 06 ›</a></div>
 </nav>
 
+
+all.--Always speak as honestly as you have done just now," she
+
+continued, "and you'll do."
+
+
+
+"I repel a recommendation so offensive," was the answer, delivered in
+
+the same pure key, with the same clear look. "I reject counsel poisoned
+
+by insinuation. It is my right to speak as I think proper; nothing binds
+
+me to converse as you dictate. So far from always speaking as I have
+
+done just now, I shall never address any one in a tone so stern or in
+
+language so harsh, unless in answer to unprovoked insult."
+
+
+
+"Mother, you have found your match," pronounced little Jessie, whom the
+
+scene appeared greatly to edify. [[Rose]] had heard the whole with an
+
+unmoved face. She now said, "No; Miss Helstone is not my mother's match,
+
+for she allows herself to be vexed. My mother would wear her out in a
 
 few weeks. [[Shirley Keeldar]] manages better.--Mother, you have never hurt
 
@@ -177,37 +205,3 @@ lecture on politics, and concluded her visit to the cottage, at an hour
 early enough to ensure her return to Briarmains before the blush of
 
 sunset should quite have faded in heaven, or the path up the fields have
-
-become thoroughly moist with evening dew.
-
-
-
-The lady and her daughters being gone, Caroline felt that she also ought
-
-to resume her scarf, kiss her cousin's cheek, and trip away homeward. If
-
-she lingered much later dusk would draw on, and Fanny would be put to
-
-the trouble of coming to fetch her. It was both baking and ironing day
-
-at the rectory, she remembered--Fanny would be busy. Still, she could
-
-not quit her seat at the little parlour [[Window|window]]. From no point of view
-
-could the west look so lovely as from that lattice with the garland of
-
-jessamine round it, whose white [[Stars|stars]] and green [[Leaves|leaves]] seemed now but
-
-gray pencil outlines--graceful in form, but colourless in tint--against
-
-the gold incarnadined of a [[Summer|summer]] evening--against the [[Fire|fire]]-tinged blue
-
-of an August sky at eight o'[[Clock|clock]] p.m.
-
-
-
-Caroline looked at the wicket-gate, beside which holly-oaks spired up
-
-tall. She looked at the close hedge of privet and laurel fencing in the
-
-[[Garden|garden]]; her eyes longed to see something more than the shrubs before

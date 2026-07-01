@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 6 (part 7)"
+title: "Shirley — Chapter 6 (part 7)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,76 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_06/part_06">‹ part 06</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_07/part_01">part 01 ›</a></div>
 </nav>
 
+
+fast flow the heart and mind of reader and listener.
+
+
+
+"Now, have you felt Shakespeare?" asked Caroline, some ten minutes after
+
+her cousin had closed the book.
+
+
+
+"I think so."
+
+
+
+"And have you felt anything in [[Coriolanus]] like you?"
+
+
+
+"Perhaps I have."
+
+
+
+"Was he not faulty as [[Well|well]] as great?"
+
+
+
+Moore nodded.
+
+
+
+"And what was his fault? What made him hated by the citizens? What
+
+caused him to be banished by his countrymen?"
+
+
+
+"What do you think it was?"
+
+
+
+"I ask again--
+
+
+
+                      'Whether was it [[Pride|pride]],
+
+    Which out of daily fortune ever taints
+
+    The happy man? whether defect of judgment,
+
+    To fail in the disposing of those chances
+
+    Which he was lord of? or whether [[Nature|nature]],
+
+    Not to be other than one thing, not moving
+
+    From the casque to the cushion, but commanding peace
+
+    Even with the same austerity and garb
+
+    As he controlled the war?'"
+
+
+
+"[[Well]], answer yourself, Sphinx."
+
+
+
+"It was a spice of all; and you must not be proud to your workpeople;
 
 you must not neglect chances of soothing them; and you must not be of an
 

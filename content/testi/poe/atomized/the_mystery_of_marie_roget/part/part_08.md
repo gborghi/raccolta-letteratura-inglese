@@ -1,5 +1,5 @@
 ---
-title: "[[The Mystery of Marie Roget]] (part 8)"
+title: "The Mystery of Marie Roget (part 8)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-mystery-of-marie-roget-(poe)"
@@ -13,6 +13,42 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_mystery_of_marie_roget/part/part_07">‹ part 07</a><a class="ex-next" href="/testi/poe/atomized/the_mystery_of_marie_roget/part/part_09">part 09 ›</a></div>
 </nav>
 
+
+      have to do, but with the [[Truth|truth]]. The sentence in question has but
+
+      one meaning, as it stands; and this meaning I have fairly stated;
+
+      but it is material that we go behind the mere words, for an idea
+
+      which these words have obviously intended, and failed to convey.
+
+      It was the design of the journalist to say that, at whatever
+
+      period of the day or [[Night|night]] of [[Sunday]] this murder was committed,
+
+      it was improbable that the assassins would have ventured to bear
+
+      the corpse to the [[River|river]] before midnight. And herein lies, really,
+
+      the assumption of which I complain. It is assumed that the murder
+
+      was committed at such a position, and under such circumstances,
+
+      that the bearing it to the [[River|river]] became necessary. Now, the
+
+      assassination might have taken place upon the [[River|river]]’s brink, or
+
+      on the [[River|river]] itself; and, thus, the throwing the corpse in the
+
+      [[Water|water]] might have been resorted to, at any period of the day or
+
+      [[Night|night]], as the most obvious and most immediate mode of disposal.
+
+      You will understand that I suggest nothing here as probable, or
+
+      as cöincident with my own opinion. My design, so far, has no
+
+      reference to the facts of the case. I wish merely to caution you
 
       against the whole tone of L’Etoile’s suggestion, by calling your
 
@@ -151,51 +187,3 @@ tags:
       Now, in the struggles of one unused to swimming, the arms are
 
       invariably thrown upwards, while an attempt is made to keep the
-
-      head in its usual perpendicular position. The result is the
-
-      immersion of the mouth and nostrils, and the inception, during
-
-      efforts to breathe while beneath the surface, of [[Water|water]] into the
-
-      lungs. Much is also received into the stomach, and the whole [[Body|body]]
-
-      becomes heavier by the difference between the weight of the air
-
-      originally distending these cavities, and that of the fluid which
-
-      now fills them. This difference is sufficient to cause the [[Body|body]]
-
-      to sink, as a general rule; but is insufficient in the cases of
-
-      individuals with small bones and an abnormal quantity of flaccid
-
-      or fatty matter. Such individuals float even after drowning.
-
-
-
-      “The corpse, being supposed at the [[Bottom|bottom]] of the [[River|river]], will
-
-      there remain until, by some means, its specific gravity again
-
-      becomes less than that of the bulk of [[Water|water]] which it displaces.
-
-      This effect is brought about by decomposition, or otherwise. The
-
-      result of decomposition is the generation of gas, distending the
-
-      cellular tissues and all the cavities, and giving the puffed
-
-      appearance which is so horrible. When this distension has so far
-
-      progressed that the bulk of the corpse is materially increased
-
-      without a corresponding increase of mass or weight, its specific
-
-      gravity becomes less than that of the [[Water|water]] displaced, and it
-
-      forthwith makes its appearance at the surface. But decomposition
-
-      is modified by innumerable circumstances—is hastened or retarded
-
-      by innumerable agencies; for example, by the heat or cold of the

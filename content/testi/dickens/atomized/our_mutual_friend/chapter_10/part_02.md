@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 5 (part 2)"
+title: "Our Mutual Friend — Chapter 6 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,154 +14,142 @@ tags:
 </nav>
 
 
-The words referred to a broad, round-shouldered, one-sided old fellow in
-mourning, coming comically ambling towards the corner, dressed in a pea
-over-coat, and carrying a large stick. He wore thick shoes, and thick
-leather gaiters, and thick gloves like a hedger’s. Both as to his dress
-and to himself, he was of an overlapping rhinoceros build, with folds
-in his cheeks, and his forehead, and his eyelids, and his lips, and his
-ears; but with bright, eager, childishly-inquiring, grey eyes, under his
-ragged eyebrows, and broad-brimmed hat. A very odd-looking old fellow
-altogether.
+‘No, Miss Potterson; because, you see, the law—’
 
-‘Here you are again,’ repeated Mr Wegg, musing. ‘And what are you now?
-Are you in the Funns, or where are you? Have you lately come to settle
-in this neighbourhood, or do you own to another neighbourhood? Are you
-in independent circumstances, or is it wasting the motions of a bow on
-you? Come! I’ll speculate! I’ll invest a bow in you.’
+‘I am the law here, my man,’ returned Miss Abbey, ‘and I’ll soon
+convince you of that, if you [[Doubt|doubt]] it at all.’
 
-Which Mr Wegg, having replaced his tin box, accordingly did, as he [[Rose|rose]]
-to bait his gingerbread-trap for some other devoted infant. The salute
-was acknowledged with:
+‘I never said I did [[Doubt|doubt]] it at all, Miss Abbey.’
 
-‘Morning, sir! Morning! Morning!’
+‘So much the better for you.’
 
-(‘Calls me Sir!’ said Mr Wegg, to himself; ‘HE won’t answer. A bow
-gone!’)
+Abbey the supreme threw the customer’s halfpence into the till, and,
+seating herself in her fireside-chair, resumed the newspaper she had
+been reading. She was a tall, upright, [[Well|well]]-favoured woman, though
+severe of countenance, and had more of the air of a schoolmistress than
+mistress of the Six Jolly Fellowship Porters. The man on the other side
+of the half-door, was a waterside-man with a squinting leer, and he eyed
+her as if he were one of her pupils in disgrace.
 
-‘Morning, morning, morning!’
+‘You’re cruel hard upon me, Miss Potterson.’
 
-‘Appears to be rather a ’arty old cock, too,’ said Mr Wegg, as before;
-‘Good morning to YOU, sir.’
+Miss Potterson read her newspaper with contracted brows, and took no
+notice until he whispered:
 
-‘Do you remember me, then?’ asked his new acquaintance, stopping in
-his amble, one-sided, before the stall, and speaking in a pounding way,
-though with great good-[[Humour|humour]].
+‘Miss Potterson! Ma’am! Might I have half a word with you?’
 
-‘I have noticed you go past our [[house]], sir, several times in the course
-of the last week or so.’
+Deigning then to turn her eyes sideways towards the suppliant, Miss
+Potterson beheld him knuckling his low forehead, and ducking at her with
+his head, as if he were asking leave to fling himself head foremost over
+the half-door and alight on his feet in the bar.
 
-‘Our [[house]],’ repeated the other. ‘Meaning—?’
+‘[[Well]]?’ said Miss Potterson, with a manner as short as she herself was
+long, ‘say your half word. Bring it out.’
 
-‘Yes,’ said Mr Wegg, nodding, as the other pointed the clumsy forefinger
-of his right glove at the corner [[house]].
+‘Miss Potterson! Ma’am! Would you ’sxcuse me taking the liberty of
+asking, is it my character that you take objections to?’
 
-‘Oh! Now, what,’ pursued the old fellow, in an inquisitive manner,
-carrying his knotted stick in his left arm as if it were a baby, ‘what
-do they allow you now?’
+‘Certainly,’ said Miss Potterson.
 
-‘It’s job work that I do for our [[house]],’ returned Silas, drily, and with
-reticence; ‘it’s not yet brought to an exact allowance.’
+‘Is it that you’re afraid of—’
 
-‘Oh! It’s not yet brought to an exact allowance? No! It’s not yet
-brought to an exact allowance. Oh!—Morning, morning, morning!’
+‘I am not afraid OF YOU,’ interposed Miss Potterson, ‘if you mean that.’
 
-‘Appears to be rather a cracked old cock,’ thought Silas, qualifying his
-former good opinion, as the other ambled off. But, in a moment he was
-back again with the question:
+‘But I humbly don’t mean that, Miss Abbey.’
 
-‘How did you get your wooden leg?’
+‘Then what do you mean?’
 
-Mr Wegg replied, (tartly to this personal inquiry), ‘In an accident.’
+‘You really are so cruel hard upon me! What I was going to make
+inquiries was no more than, might you have any apprehensions—leastways
+beliefs or suppositions—that the company’s property mightn’t be
+altogether to be considered safe, if I used the [[house]] too regular?’
 
-‘Do you like it?’
+‘What do you want to know for?’
 
-‘[[Well]]! I haven’t got to keep it warm,’ Mr Wegg made answer, in a sort of
-desperation occasioned by the singularity of the question.
+‘[[Well]], Miss Abbey, respectfully meaning no offence to you, it would
+be some satisfaction to a man’s mind, to understand why the Fellowship
+Porters is not to be free to such as me, and is to be free to such as
+Gaffer.’
 
-‘He hasn’t,’ repeated the other to his knotted stick, as he gave it a
-hug; ‘he hasn’t got—ha!—ha!—to keep it warm! Did you ever hear of the
-name of Boffin?’
+The face of the hostess darkened with some [[Shadow|shadow]] of perplexity, as she
+replied: ‘Gaffer has never been where you have been.’
 
-‘No,’ said Mr Wegg, who was growing restive under this examination. ‘I
-never did hear of the name of Boffin.’
+‘Signifying in Quod, Miss? Perhaps not. But he may have merited it. He
+may be suspected of far worse than ever I was.’
 
-‘Do you like it?’
+‘Who suspects him?’
 
-‘Why, no,’ retorted Mr Wegg, again approaching desperation; ‘I can’t say
-I do.’
+‘Many, perhaps. One, beyond all doubts. I do.’
 
-‘Why don’t you like it?’
+‘YOU are not much,’ said Miss Abbey Potterson, knitting her brows again
+with disdain.
 
-‘I don’t know why I don’t,’ retorted Mr Wegg, approaching frenzy, ‘but I
-don’t at all.’
+‘But I was his pardner. Mind you, Miss Abbey, I was his pardner. As
+such I know more of the ins and outs of him than any person living does.
+Notice this! I am the man that was his pardner, and I am the man that
+suspects him.’
 
-‘Now, I’ll tell you something that’ll make you sorry for that,’ said the
-stranger, smiling. ‘My name’s Boffin.’
+‘Then,’ suggested Miss Abbey, though with a deeper shade of perplexity
+than before, ‘you criminate yourself.’
 
-‘I can’t help it!’ returned Mr Wegg. Implying in his manner the
-offensive addition, ‘and if I could, I wouldn’t.’
+‘No I don’t, Miss Abbey. For how does it stand? It stands this way. When
+I was his pardner, I couldn’t never give him satisfaction. Why couldn’t
+I never give him satisfaction? Because my luck was bad; because I
+couldn’t find many enough of ’em. How was his luck? Always good. Notice
+this! Always good! Ah! There’s a many games, Miss Abbey, in which
+there’s chance, but there’s a many others in which there’s skill too,
+mixed along with it.’
 
-‘But there’s another chance for you,’ said Mr Boffin, smiling still, ‘Do
-you like the name of Nicodemus? Think it over. Nick, or Noddy.’
+‘That Gaffer has a skill in finding what he finds, who doubts, man?’
+asked Miss Abbey.
 
-‘It is not, sir,’ Mr Wegg rejoined, as he sat down on his stool, with an
-air of gentle [[Resignation|resignation]], combined with [[Melancholy|melancholy]] candour; ‘it is not
-a name as I could wish any one that I had a respect for, to call ME
-by; but there may be persons that would not view it with the same
-objections.—I don’t know why,’ Mr Wegg added, anticipating another
-question.
+‘A skill in purwiding what he finds, perhaps,’ said Riderhood, shaking
+his evil head.
 
-‘Noddy Boffin,’ said that gentleman. ‘Noddy. That’s my name. Noddy—or
-Nick—Boffin. What’s your name?’
+Miss Abbey knitted her brow at him, as he darkly leered at her. ‘If
+you’re out upon the [[River|river]] pretty nigh every tide, and if you want to
+find a man or woman in the [[River|river]], you’ll greatly help your luck, Miss
+Abbey, by knocking a man or woman on the head aforehand and pitching ’em
+in.’
 
-‘[[Silas Wegg]].—I don’t,’ said Mr Wegg, bestirring himself to take the
-same precaution as before, ‘I don’t know why Silas, and I don’t know why
-Wegg.’
+‘Gracious Lud!’ was the involuntary exclamation of Miss Potterson.
 
-‘Now, Wegg,’ said Mr Boffin, hugging his stick closer, ‘I want to make a
-sort of offer to you. Do you remember when you first see me?’
+‘Mind you!’ returned the other, stretching forward over the half door
+to throw his words into the bar; for his voice was as if the head of his
+boat’s mop were down his throat; ‘I say so, Miss Abbey! And mind you!
+I’ll follow him up, Miss Abbey! And mind you! I’ll bring him to hook at
+last, if it’s twenty year hence, I will! Who’s he, to be favoured along
+of his daughter? Ain’t I got a daughter of my own!’
 
-The wooden Wegg looked at him with a meditative eye, and also with a
-softened air as descrying possibility of profit. ‘Let me think. I ain’t
-quite sure, and yet I generally take a powerful sight of notice, too.
-Was it on a Monday morning, when the butcher-boy had been to our [[house]]
-for orders, and bought a ballad of me, which, being unacquainted with
-the tune, I run it over to him?’
+With that flourish, and seeming to have talked himself rather more drunk
+and much more ferocious than he had begun by being, Mr Riderhood took up
+his pint pot and swaggered off to the taproom.
 
-‘Right, Wegg, right! But he bought more than one.’
-
-‘Yes, to be sure, sir; he bought several; and wishing to lay out his
-money to the best, he took my opinion to guide his choice, and we went
-over the collection together. To be sure we did. Here was him as it
-might be, and here was myself as it might be, and there was you, Mr
-Boffin, as you identically are, with your [[Self|self]]-same stick under your
-very same arm, and your very same back towards us. To—be—sure!’ added
-Mr Wegg, looking a little round Mr Boffin, to take him in the rear,
-and identify this last extraordinary coincidence, ‘your wery [[Self|self]]-same
-back!’
-
-‘What do you think I was doing, Wegg?’
-
-‘I should judge, sir, that you might be glancing your eye down the
-street.’
-
-‘No, Wegg. I was a listening.’
-
-‘Was you, indeed?’ said Mr Wegg, dubiously.
-
-‘Not in a dishonourable way, Wegg, because you was singing to the
-butcher; and you wouldn’t sing [[Secrets|secrets]] to a butcher in the street, you
-know.’
-
-‘It never happened that I did so yet, to the best of my remembrance,’
-said Mr Wegg, cautiously. ‘But I might do it. A man can’t say what he
-might wish to do some day or another.’ (This, not to release any little
-advantage he might derive from Mr Boffin’s avowal.)
-
-‘[[Well]],’ repeated Boffin, ‘I was a listening to you and to him. And what
-do you—you haven’t got another stool, have you? I’m rather thick in my
-breath.’
-
-‘I haven’t got another, but you’re welcome to this,’ said Wegg,
-resigning it. ‘It’s a treat to me to stand.’
+Gaffer was not there, but a pretty strong muster of Miss Abbey’s pupils
+were, who exhibited, when occasion required, the greatest docility. On
+the [[Clock|clock]]’s striking ten, and Miss Abbey’s appearing at the door, and
+addressing a certain person in a faded scarlet jacket, with ‘George
+[[Jones]], your [[Time|time]]’s up! I told your wife you should be punctual,’
+[[Jones]] submissively [[Rose|rose]], gave the company good-[[Night|night]], and retired. At
+half-past ten, on Miss Abbey’s looking in again, and saying, ‘William
+Williams, Bob Glamour, and Jonathan, you are all due,’ Williams, Bob,
+and Jonathan with similar meekness took their leave and evaporated.
+Greater [[Wonder|wonder]] than these, when a bottle-nosed person in a glazed hat
+had after some considerable hesitation ordered another glass of gin and
+[[Water|water]] of the attendant potboy, and when Miss Abbey, instead of sending
+it, appeared in person, saying, ‘Captain Joey, you have had as much as
+will do you good,’ not only did the captain feebly rub his knees and
+contemplate the [[Fire|fire]] without offering a word of protest, but the rest
+of the company murmured, ‘Ay, ay, Captain! Miss Abbey’s right; you
+be guided by Miss Abbey, Captain.’ Nor, was Miss Abbey’s vigilance in
+anywise abated by this submission, but rather sharpened; for, looking
+round on the deferential faces of her school, and descrying two other
+young persons in need of admonition, she thus bestowed it: ‘Tom Tootle,
+it’s [[Time|time]] for a young fellow who’s going to be married next month, to
+be at [[Home|home]] and asleep. And you needn’t nudge him, Mr Jack Mullins, for
+I know your work begins early tomorrow, and I say the same to you.
+So come! Good-[[Night|night]], like good lads!’ Upon which, the blushing Tootle
+looked to Mullins, and the blushing Mullins looked to Tootle, on the
+question who should rise first, and finally both [[Rose|rose]] together and went
+out on the broad grin, followed by Miss Abbey; in whose presence the
+company did not take the liberty of grinning likewise.

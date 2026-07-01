@@ -111,36 +111,3 @@ in trim and tidy bedrooms.  So far it seemed reasonable enough.
 But it left out one possibility; that a man can dream about a room
 as [[Well|well]] as a [[Rose|rose]]; and that a man can [[Doubt|doubt]] about a rule as [[Well|well]]
 as an exception.
-
-As soon as the men of science began to [[Doubt|doubt]] the rules of the game,
-the game was up.  They could no longer rule out all the old marvels
-as impossible, in face of the new marvels which they had to admit
-as possible.  They were themselves dealing now with a number of
-unknown quantities; what is the power of mind over matter; when is
-matter an illusion of mind; what is [[Identity|identity]], what is individuality,
-is there a limit to [[logic]] in the last extremes of mathematics?
-They knew by a hundred hints that their non-miraculous world was no
-longer watertight; that floods were coming in from somewhere in which
-they were already out of their depth, and down among very fantastical
-deep-sea fishes.  They could hardly feel certain even about the fish
-that swallowed Jonah, when they had no test except the very true
-one that there are more fish in the sea than ever came out of it.
-Logically they would find it quite as hard to draw the line
-at the miraculous draught of fishes.  I do not mean that they,
-or even I, need here depend on those particular stories;
-I mean that the difficulty now is to draw a line, and a new line,
-after the obliteration of an old and much more obvious line.
-Any one can draw it for himself, as a matter of mere taste in probability;
-but we have not made a [[philosophy]] until we can draw it for others.
-And the modern men of science cannot draw it for others.
-Men could easily mark the contrast between the force of gravity
-and the [[Fable|fable]] of the Ascension.  They cannot all be made to see
-any such contrast between the levitation that is now discussed as a
-possibility and the ascension which is still derided as a miracle.
-I do not even say that there is not a great difference between them;
-I say that science is now plunged too deep in new doubts
-and possibilities to have authority to define the difference.
-I say the more it knows of what seems to have happened, or what is
-said to have happened, in many modern drawing-rooms, the less it
-knows what did or did not happen on that lofty and legendary [[Hill|hill]],
-where a spire rises over Jerusalem and can be seen beyond Jordan.

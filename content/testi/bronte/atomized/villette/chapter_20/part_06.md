@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 20 (part 6)"
+title: "Villette — Chapter 20 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -132,19 +132,3 @@ between his feet; he seemed to have no [[Shadow|shadow]] of an idea of the
 treatment or stowage it ought to receive: if his mother had not come to
 the rescue, I think he would finally have crushed it under his arm like
 an opera-hat; she restored it to the band-box whence it had issued.
-
-Graham was quite cheerful all the evening, and his cheerfulness seemed
-natural and unforced. His demeanour, his look, is not easily described;
-there was something in it peculiar, and, in its way, original. I read
-in it no common mastery of the passions, and a fund of deep and healthy
-strength which, without any exhausting effort, bore down Disappointment
-and extracted her fang. His manner, now, reminded me of qualities I had
-noticed in him when professionally engaged amongst the poor, the
-guilty, and the [[Suffering|suffering]], in the Basse-Ville: he looked at once
-determined, enduring, and sweet-tempered. Who could help liking him?
-_He_ betrayed no weakness which harassed all your feelings with
-considerations as to how its faltering must be propped; from _him_
-broke no irritability which startled calm and quenched mirth; _his_
-lips let fall no caustic that burned to the bone; _his_ eye shot no
-morose shafts that went cold, and rusty, and venomed through your
-heart: beside him was rest and refuge—around him, fostering sunshine.

@@ -94,7 +94,7 @@ buildings and even landscapes look ludicrous, like landscapes
 of topsy-turvydom, when he turned on them that Gargantuan grin.
 We shall note later how for him great [[London]] was simply;
 'the Wen,' a big boil and repulsive eruption on the [[Body|body]] politic.
-We shall see how Old Sarum was `the Accursed [[Hill]].'
+We shall see how Old Sarum was `the Accursed Hill.'
 He made the Martello towers look even sillier than they look now.
 Nothing was ever better in its way than the dramatic
 derision with which he pointed at the canal at Hythe,
@@ -102,8 +102,8 @@ and told the people that this was meant to keep out the French
 armies-that had just crossed the Rhine and the Danube.
 More questionable, but equally laughable, was his irreverent
 picture of the fortifications on the cliffs of Dover;
-which he described, with a sort of impudent [[innocence]],
-as a [[Hill|hill]] full of holes to hide Englishmen from Frenchmen.
+which he described, with a sort of impudent innocence,
+as a hill full of holes to hide Englishmen from Frenchmen.
 So simple a view of the science of fortification it is perhaps
 needless to maintain; but even here we have the sort of cranky
 common sense that was never far distant from Cobbett, even when
@@ -111,11 +111,11 @@ he was talking about what he did not in the least understand;
 as when he pointed out that it was very unlikely that the French
 would try to land on a precipice at Dover when they had the whole
 flat stretch away to East Sussex and the levels of Rye and Pevensey,
-where all the conquerors had landed since [[history]] began.
+where all the conquerors had landed since history began.
 
 He had hatreds that seemed too big for their object; like his
-loathing of tea and potatoes.  But in his hate there was [[Humour|humour]],
-and even conscious [[Humour|humour]].  Many social reformers who have a hankering
+loathing of tea and potatoes.  But in his hate there was humour,
+and even conscious humour.  Many social reformers who have a hankering
 after his principles would be much distressed by his prejudices.
 But it was one of his principles to have such prejudices.
 Nor indeed is it an unintelligent or unintelligible principle.
@@ -133,7 +133,7 @@ to wish to burn them at the stake.  Cobbett was so exceedingly and
 almost alarmingly hearty in the expression of his dislikes that he can
 hardly be said to have laboured to remove the last impression.
 For anybody whose horror of persecution has not yet entirely
-destroyed his sense of [[Humour|humour]], nothing could be more exhilarating
+destroyed his sense of humour, nothing could be more exhilarating
 than the passage in which Cobbett, having heard a Methodist preaching
 in a village, and being afterwards shown an antiquated pair of stocks
 on the village green, comments indignantly on the incongruity,

@@ -14,130 +14,158 @@ tags:
 </nav>
 
 
-Burdened like all mortal things with all mortal sin and weakness,
-the rise of Rome had really been the rise of normal and especially
-of popular things; and in nothing more than in the thoroughly
-normal and profoundly popular hatred of perversion.
-Now among the Greeks a perversion had become a convention.
-It is true that it had become so much of a convention, especially a
-literary convention, that it was sometimes conventionally copied
-by Roman literary men.  But this is one of those complications
-that always arise out of conventions.  It must not obscure our
-sense of the difference of tone in the two societies as a whole.
-It is true that Virgil would once in a way take over a theme
-of Theocritus; but nobody can get the impression that Virgil was
-particularly fond of that theme.  The themes of Virgil were specially
-and notably the normal themes and nowhere more than in morals;
-piety and patriotism and the [[Honour|honour]] of the countryside.
-And we may [[Well|well]] pause upon the name of the poet as we pass into
-the [[Autumn|autumn]] of antiquity; upon his name who was in so supreme a sense
-the very voice of [[Autumn|autumn]] of its maturity and its [[Melancholy|melancholy]];
-of its fruits of fulfilment and its prospect of [[Decay|decay]].
-Nobody who reads even a few lines of Virgil can [[Doubt|doubt]] that he understood
-what moral [[Sanity|sanity]] means to mankind.  Nobody can [[Doubt|doubt]] his feelings
-when the demons were driven in flight before the household gods.
-But there are two particular points about him and his work
-which are particularly important to the main thesis here.
-The first is that the whole of his great patriotic [[Epic|epic]]
-is in a very peculiar sense founded upon the fall of Troy;
-that is upon an avowed [[Pride|pride]] in Troy although she had fallen.
-In tracing to Trojans the foundation of his beloved race and republic,
-he began what may be called the great Trojan tradition which runs
-through medieval and modern [[history]].  We have already seen
-the first hint of it in the pathos of Homer about [[Hector]].
-But Virgil turned it not merely into a literature but into a legend.
-And it was a legend of the almost divine dignity that belongs
-to the defeated.  This was one of the traditions that did truly
-prepare the world for the coming of [[Christianity]] and especially
-of Christian chivalry.  This is what did help to sustain civilisation
-through the incessant defeats of the Dark Ages and the barbarian wars;
-out of which what we call chivalry was born.  It is the moral attitude
-of the man with his back to the wall; and it was the wall of Troy.
-All through medieval and modern times this version of the virtues
-in the Homeric conflict can be traced in a hundred ways
-co-operating with all that was akin to it in Christian sentiment.
-Our own countrymen, and the men of other countries, loved to
-claim like Virgil that their own nation was descended from
-the heroic Trojans.  All sorts of people thought it the most
-superb sort of heraldry to claim to be descended from [[Hector]].
-Nobody seems to have wanted to be descended from [[Achilles]].
-The very fact that the Trojan name has become a Christian name,
-and been scattered to the last limits of Christendom, to Ireland
-or the Gaelic Highlands, while the Greek name has remained relatively
-rare and pedantic, is a tribute to the same [[Truth|truth]].  Indeed it
-involves a curiosity of language almost in the [[Nature|nature]] of a joke.
-The name has been turned into a verb; and the very phrase about hectoring,
-in the sense of swaggering, suggests the myriads of soldiers
-who have taken the fallen Trojan for a model.  As a matter of fact,
-nobody in antiquity was less given to hectoring than [[Hector]].
-But even the bully pretending to be a conqueror took his title
-from the conquered.  That is why the popularisation of the Trojan
-origin by Virgil has a vital relation to all those elements
-that have made men say that Virgil was almost a Christian.
-It is almost as if two great tools or toys of the same timber,
-the divine and the human, had been in the hands of [[Providence]];
-and the only thing comparable to the Wooden [[Cross]] of Calvary was
-the Wooden [[Horse]] of Troy.  So, in some wild [[Allegory|allegory]], pious in
-purpose if almost profane in form, the Holy [[Child]] might have fought
-the dragon with a wooden [[Sword|sword]] and a wooden [[Horse|horse]].
+* * *
 
-The other element in Virgil which is essential to the argument
-is the particular [[Nature|nature]] of his relation to mythology;
-or what may here in a special sense be called folklore,
-the faiths and fancies of the populace.  Everybody knows that his
-poetry at its most perfect is less concerned with the pomposity
-of Olympus than with the numina of natural and agricultural life.
-Everyone knows where Virgil looked for the causes of things.
-He speaks of finding them not so much in cosmic allegories
-of Uranus and Chronos; but rather in Pan and the sisterhood of
-the nymphs and Sylvanus the old man of the forest.  He is perhaps
-most himself in some passages of the Eclogues, in which he has
-perpetuated for ever the great legend of Arcadia and the shepherds.
-Here again it is easy enough to miss the point with petty criticism
-about all the things that happen to separate his literary convention
-from ours.  There is nothing more artificial than the cry
-of artificiality as directed against the old [[Pastoral|pastoral]] poetry.
-We have entirely missed all that our fathers meant by looking
-at the externals of what they wrote.  People have been so much
-amused with the mere fact that the china shepherdess was made
-of china that they have not even asked why she was made at all.
-They have been so content to consider the Merry Peasant as a figure
-in an opera that they have not asked even how he came to go to the opera,
-or how he strayed on to the stage.
+VIII
 
-In short, one have only to ask why there is a china shepherdess
-and not a china shopkeeper.  Why were not mantelpieces adorned
-with figures of [[City|city]] merchants in elegant attitudes; of ironmasters
-wrought in iron or gold speculators in gold?  Why did the opera
-exhibit a Merry Peasant and not a Merry Politician?  Why was
-there not a ballet of bankers, pirouetting upon pointed toes?
-Because the ancient instinct and [[Humour|humour]] of humanity have always
-told them, under whatever conventions, that the conventions of
-complex cities were less really healthy and happy than the customs
-of the countryside.  So it is with the [[Eternity|eternity]] of the Eclogues.
-A modern poet did indeed write things called Fleet Street Eclogues,
-in which poets took the place of the shepherds.  But nobody has yet
-written anything called Wall Street Eclogues, in which millionaires
-should take the place of the poets.  And the reason is that there
-is a real if only a recurrent yearning for that sort of simplicity;
-and there is never that sort of yearning for that sort of complexity.
-The key to the mystery of the Merry Peasant is that the peasant often
-is merry.  Those who do not believe it are simply those who do not
-know anything about him, and therefore do not know which are his
-times for merriment.  Those who do not believe in the shepherd's
-feast or [[Song|song]] are merely ignorant of the shepherd's calendar.
-The real shepherd is indeed very different from the ideal shepherd,
-but that is no reason for forgetting the reality at the root
-of the ideal.  It needs a [[Truth|truth]] to make a tradition.
-It needs a tradition to make a convention.  [[Pastoral]] poetry is
-certainly often a convention, especially in a social decline.
-It was in a social decline that Watteau shepherds and shepherdesses
-lounged about the gardens of Versailles.  It was also in a social
-decline that shepherds and shepherdesses continued to pipe and [[Dance|dance]]
-through the most faded imitations of Virgil.  But that is no reason
-for dismissing the dying paganism without ever understanding its life.
-It is no reason for forgetting that the very word Pagan is the same
-as the word Peasant.  We may say that this art is only artificiality;
-but it is not a [[Love|love]] of the artificial.  On the contrary,
-it is in its very [[Nature|nature]] only the failure of [[Nature|nature]]-worship,
-or the [[Love|love]] of the natural
+THE END OF THE WORLD
+
+I was once sitting on a [[Summer|summer]] day in a meadow in [[Kent]] under
+the [[Shadow|shadow]] of a little village church, with a rather curious
+companion with whom I had just been walking through the woods.
+He was one of a group of eccentrics I had come across in my wanderings
+who had a new religion called Higher Thought; in which I had been
+so far initiated as to realise a general atmosphere of loftiness
+or height, and was hoping at some later and more esoteric stage
+to discover the beginnings of thought.  My companion was the most
+amusing of them, for however he may have stood towards thought,
+he was at least very much their superior in experience, having travelled
+beyond the tropics while they were meditating in the suburbs;
+though he had been charged with excess in telling travellers' tales.
+In spite of anything said against him, I preferred him to his
+companions and willingly went with him through the wood;
+where I could not but feel that his sunburnt face and fierce tufted
+eyebrows and pointed beard gave him something of the look of Pan.
+Then we sat down in the meadow and gazed idly at the tree-tops
+and the spire of the village church; while the warm afternoon began
+to mellow into early evening and the [[Song|song]] of a speck of a bird was
+faint far up in the sky and no more than a whisper of breeze soothed
+rather than stirred the ancient orchards of the [[Garden|garden]] of England.
+Then my companion said to me:  'Do you know why the spire of that
+church goes up like that, I expressed a respectable agnosticism,
+and he answered in an off-hand way, 'Oh, the same as the obelisks;
+the Phallic Worship of antiquity.'  Then I looked across at him suddenly
+as he lay there leering above his goatlike beard; and for the moment
+I thought he was not Pan but the Devil.  No mortal words can express
+the immense, the insane incongruity and unnatural perversion of thought
+involved in saying such a thing at such a moment and in such a place.
+For one moment I was in the mood in which men burned witches;
+and then a sense of absurdity equally enormous seemed to open about me
+like a [[Dawn|dawn]].  'Why, of course,' I said after a moment's reflection,
+'if it hadn't been for phallic worship, they would have built
+the spire pointing downwards and standing on its own apex.'
+I could have sat in that field and laughed for an hour.
+My friend did not seem offended, for indeed he was never thin-skinned
+about his scientific discoveries.  I had only met him by chance and I
+never met him again, and I believe he is now dead; but though it has
+nothing to do with the argument, it may be worth while to mention
+the name of this adherent of Higher Thought and interpreter of primitive
+religious origins; or at any rate the name by which he was known.
+It was Louis de Rougemont.
+
+That insane image of the Kentish church standing on the point
+of its spire, as in some old rustic, topsy-turvy tale, always comes
+back into my [[Imagination|imagination]] when I hear these things said about
+pagan origins; and calls to my aid the laughter of the giants.
+Then I feel as genially and charitably to all other scientific
+investigators, higher critics, and authorities on ancient
+and modern religion, as I do to poor Louis de Rougemont.
+But the [[Memory|memory]] of that immense absurdity remains as a sort of
+measure and check by which to keep sane, not only on the subject
+of Christian churches, but also on the subject of heathen temples.
+Now a great many people have talked about heathen origins
+as the distinguished traveller talked about Christian origins.
+Indeed a great many modern heathens have been very hard on heathenism.
+A great many modern humanitarians have been very hard on the real
+religion of humanity.  They have represented it as being everywhere
+and from the first rooted only in these repulsive arcana;
+and carrying the character of something utterly shameless
+and anarchical.  Now I do not believe this for a moment.
+I should never dream of thinking about the whole worship of [[Apollo]]
+what De Rougemont could think about the worship of [[Christ]].
+I would never admit that there was such an atmosphere in a Greek
+[[City|city]] as that madman was able to smell in a Kentish village.
+On the contrary, it is the whole point, even of this final chapter
+upon the final [[Decay|decay]] of paganism, to insist once more that the worst
+sort of paganism had already been defeated by the best sort.
+It was the best sort of paganism that conquered the gold of Carthage.
+It was the best sort of paganism that wore the laurels of Rome.
+It was the best thing the world had yet seen, all things considered
+and on any large scale, that ruled from the wall of the Grampians
+to the [[Garden|garden]] of the Euphrates.  It was the best that conquered;
+it was the best that ruled; and it was the best that began to [[Decay|decay]].
+
+Unless this broad [[Truth|truth]] be grasped, the whole story is seen askew.
+Pessimism is not in being tired of evil but in being tired of good.
+[[Despair]] does not lie in being weary of [[Suffering|suffering]], but in being weary
+of joy.  It is when for some reason or other the good things in a society
+no longer work that the society begins to decline; when its food does
+not feed, when its cures do not cure, when its blessings refuse to bless.
+We might almost say that in a society without such good things
+we should hardly have any test by which to register a decline;
+that is why some of the static commercial oligarchies like Carthage
+have rather an air in [[history]] of standing and staring like mummies,
+so dried up and swathed and embalmed that no man knows when they
+are new or old.  But Carthage at any rate was dead, and the worst
+assault ever made by the demons on mortal society had been defeated.
+But how much would it matter that the worst was dead if the
+best was dying?
+
+To begin with, it must be noted that the relation of Rome
+to Carthage was partially repeated and extended in her relation
+to nations more normal and more nearly akin to her than Carthage.
+I am not here concerned to controvert the merely political view that Roman
+statesmen acted unscrupulously towards Corinth or the Greek cities.
+But I am concerned to contradict the notion that there was nothing
+but a hypocritical excuse in the ordinary Roman dislike of Greek cities.
+I am not presenting these pagans as paladins of chivalry, with a
+sentiment about nationalism never known until Christian times.
+But I am presenting them as men with the feelings of men;
+and those feelings were not a pretence.  The [[Truth|truth]] is that one
+of the weaknesses in [[Nature|nature]]-worship and mere mythology had already
+produced a perversion among the Greeks due to the worst sophistry;
+the sophistry of simplicity.  Just as they became unnatural by
+worshipping [[Nature|nature]], so they actually became unmanly by worshipping man.
+If Greece led her conqueror, she might have misled her conqueror;
+but these were things he did originally wish to conquer--
+ever in himself.  It is true that in one sense there was less
+inhumanity even in Sodom and Gomorrah than in Tyre and Sidon.
+When we consider the war of the demons on the children, we cannot
+compare even Greek decadence to Punic devil-worship. But it is not true
+that the sincere revulsion from either need be merely pharisaical.
+It is not true to human [[Nature|nature]] or to common sense.  Let any lad
+who has had the luck to grow up sane and simple in his day-[[Dreams|dreams]]
+of [[Love|love]] hear for the first [[Time|time]] of the cult of Ganymede; he will
+not be merely shocked but sickened.  And that first impression,
+as has been said here so often about first impressions, will be right.
+Our cynical indifference is an illusion; it is the greatest of
+all illusions; the illusion of familiarity.  It is right to conceive
+the more or less rustic virtues of the ruck of the original Romans
+as reacting against the very rumour of it, with complete spontaneity
+and sincerity.  It is right to regard them as reacting, if in a
+lesser degree, exactly as they did against the cruelty of Carthage.
+Because it was in a less degree they did not destroy Corinth
+as they destroyed Carthage.  But if their attitude and action
+was rather destructive, in neither case need their indignation
+have been mere [[Self|self]]-righteousness covering mere selfishness.
+And if anybody insists that nothing could have operated in either
+case but reasons of state and commercial conspiracies, we can
+only tell him that there is something which he does not understand;
+something which possibly he will never understand; something which,
+until he does understand, he will never understand the Latins.
+That something is called [[democracy]].  He has probably heard the word
+a good many times and even used it himself; but he has no notion
+of what it means.  All through the revolutionary [[history]] of Rome there
+was an incessant drive towards [[democracy]]; the state and the statesman
+could do nothing without a considerable backing of [[democracy]];
+the sort of [[democracy]] that never has anything to do with diplomacy.
+It is precisely because of the presence of Roman [[democracy]] that we
+hear so much about Roman oligarchy.  For instance, recent historians
+have tried to explain the valour and victory of Rome in terms
+of that detestable and detested usury which was practised by some of
+the Patricians; as if Curius had conquered the men of the Macedonian
+phalanx by lending them money; or the consul Nero had negotiated
+the victory of Metaurus at five per cent.  But we realise the usury
+of the Patricians because of the perpetual revolt of the Plebeians.
+The rule of the Punic merchant princes had the very [[Soul|soul]] of usury.
+But there was never a Punic mob that dared to call them usurers.

@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 27 (part 4)"
+title: "Shirley — Chapter 27 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,38 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_27/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_27/part_05">part 05 ›</a></div>
 </nav>
 
+
+circling her throat and quivering on her breast, glistened strangely
+
+amid the obscurity of the sickroom. Her mien was chastened and pensive.
+
+She spoke gently.
+
+
+
+"Mr. Moore, how are you to-[[Night|night]]?"
+
+
+
+"I have not been very ill, and am now better."
+
+
+
+"I heard that you complained of thirst. I have brought you some grapes;
+
+can you taste one?"
+
+
+
+"No; but I thank you for remembering me."
+
+
+
+"Just one."
+
+
+
+From the rich cluster that filled a small basket held in her hand she
 
 severed a berry and offered it to his lips. He shook his head, and
 
@@ -315,35 +347,3 @@ the pastures far and wide. The russet woods stood ripe to be stripped,
 but were yet full of leaf. The purple of heath-bloom, faded but not
 
 withered, tinged the hills. The beck wandered down to the Hollow,
-
-through a silent district; no [[Wind|wind]] followed its course or haunted its
-
-woody borders. Fieldhead gardens bore the seal of gentle [[Decay|decay]]. On the
-
-walks, swept that morning, yellow [[Leaves|leaves]] had fluttered down again. Its
-
-[[Time|time]] of [[Flowers|flowers]], and even of fruits, was over; but a scantling of
-
-apples enriched the trees. Only a blossom here and there expanded pale
-
-and delicate amidst a knot of faded [[Leaves|leaves]].
-
-
-
-These single [[Flowers|flowers]]--the last of their race--[[Shirley]] culled as she
-
-wandered thoughtfully amongst the beds. She was fastening into her
-
-girdle a hueless and scentless nosegay, when Henry Sympson called to her
-
-as he came limping from the [[house]].
-
-
-
-"[[Shirley]], Mr. Moore would be glad to see you in the schoolroom and to
-
-hear you read a little French, if you have no more urgent occupation."
-
-
-
-The messenger delivered his commission very simply, as if it were a mere

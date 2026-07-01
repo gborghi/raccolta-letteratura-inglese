@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 31 (part 1)"
+title: "Villette — Chapter 31 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -18,7 +18,7 @@ CHAPTER XXXI.
 THE DRYAD.
 
 
-The [[spring]] was advancing, and the weather had turned suddenly warm.
+The [[Spring|spring]] was advancing, and the weather had turned suddenly warm.
 This change of temperature brought with it for me, as probably for many
 others, temporary decrease of strength. Slight exertion at this [[Time|time]]
 left me overcome with fatigue—sleepless nights entailed languid days.
@@ -29,7 +29,7 @@ refuge in my solitary sanctuary, the first classe, I was glad to sit
 down, and to make of my desk a pillow for my arms and head.
 
 Awhile I listened to the lullaby of [[Bees|bees]] humming in the berceau, and
-watched, through the glass door and the tender, lightly-strewn [[spring]]
+watched, through the glass door and the tender, lightly-strewn [[Spring|spring]]
 foliage, [[Madame Beck]] and a gay party of friends, whom she had
 entertained that day at dinner after morning mass, walking in the
 centre-alley under orchard boughs dressed at this season in blossom,
@@ -114,23 +114,3 @@ her say—from no higher starting-point, and where is she now? All these
 premises and this [[Garden|garden]] are hers, bought with her money; she has a
 competency already secured for old age, and a flourishing establishment
 under her direction, which will furnish a career for her children.
-
-“[[Courage]], [[Lucy Snowe]]! With [[Self|self]]-denial and economy now, and steady
-exertion by-and-by, an object in life need not fail you. Venture not to
-complain that such an object is too selfish, too limited, and lacks
-interest; be content to labour for independence until you have proved,
-by winning that prize, your right to look higher. But afterwards, is
-there nothing more for me in life—no true [[Home|home]]—nothing to be dearer to
-me than myself, and by its paramount preciousness, to draw from me
-better things than I care to culture for myself only? Nothing, at whose
-feet I can willingly lay down the whole burden of human egotism, and
-gloriously take up the nobler charge of labouring and living for
-others? I suppose, [[Lucy Snowe]], the orb of your life is not to be so
-rounded: for you, the crescent-phase must suffice. Very good. I see a
-huge mass of my fellow-creatures in no better circumstances. I see that
-a great many men, and more women, hold their span of life on conditions
-of denial and privation. I find no reason why I should be of the few
-favoured. I believe in some blending of [[Hope|hope]] and sunshine sweetening
-the worst lots. I believe that this life is not all; neither the
-beginning nor the end. I believe while I tremble; I trust while I
-weep.”

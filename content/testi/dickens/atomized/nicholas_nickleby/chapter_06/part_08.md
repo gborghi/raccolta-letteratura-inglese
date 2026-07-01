@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 6 (part 8)"
+title: "Nicholas Nickleby — Chapter 6 (part 8)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_06/part_07">‹ part 07</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_07/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘No, he was not; for, on the opposite side of the [[Fire|fire]], there sat with
+folded arms a wrinkled hideous figure, with deeply sunk and bloodshot
+eyes, and an immensely long cadaverous face, shadowed by jagged and
+matted locks of coarse black hair. He wore a kind of tunic of a dull
+bluish colour, which, the baron observed, on regarding it attentively,
+was clasped or ornamented down the front with coffin handles. His legs,
+too, were encased in coffin plates as though in armour; and over his
+left shoulder he wore a short dusky cloak, which seemed made of a
+remnant of some pall. He took no notice of the baron, but was intently
+eyeing the [[Fire|fire]].
 
 ‘“Halloa!” said the baron, stamping his foot to attract attention.
 

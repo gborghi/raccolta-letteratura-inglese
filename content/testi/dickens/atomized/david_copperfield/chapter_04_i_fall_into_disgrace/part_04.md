@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 4: I FALL INTO DISGRACE (part 4)"
+title: "David Copperfield — Chapter 4: I FALL INTO DISGRACE (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,29 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_04_i_fall_into_disgrace/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_04_i_fall_into_disgrace/part_05">part 05 ›</a></div>
 </nav>
 
+
+The gloomy taint that was in the Murdstone [[Blood|blood]], darkened the Murdstone
+religion, which was austere and wrathful. I have thought, since,
+that its assuming that character was a necessary consequence of Mr.
+Murdstone’s firmness, which wouldn’t allow him to let anybody off from
+the utmost weight of the severest penalties he could find any excuse
+for. Be this as it may, I [[Well|well]] remember the tremendous visages with
+which we used to go to church, and the changed air of the place. Again,
+the dreaded [[Sunday]] comes round, and I file into the old pew first, like
+a guarded captive brought to a condemned service. Again, Miss Murdstone,
+in a black velvet gown, that looks as if it had been made out of a pall,
+follows close upon me; then my mother; then her husband. There is no
+Peggotty now, as in the old [[Time|time]]. Again, I listen to Miss Murdstone
+mumbling the responses, and emphasizing all the dread words with a cruel
+relish. Again, I see her dark eyes roll round the church when she says
+‘miserable sinners’, as if she were calling all the congregation names.
+Again, I catch rare glimpses of my mother, moving her lips timidly
+between the two, with one of them muttering at each ear like low
+thunder. Again, I [[Wonder|wonder]] with a sudden [[Fear|fear]] whether it is likely that
+our good old clergyman can be wrong, and Mr. and Miss Murdstone right,
+and that all the angels in Heaven can be destroying angels. Again, if I
+move a finger or relax a muscle of my face, Miss Murdstone pokes me with
+her [[prayer]]-book, and makes my side ache.
 
 Yes, and again, as we walk [[Home|home]], I note some neighbours looking at my
 mother and at me, and whispering. Again, as the three go on arm-in-arm,
@@ -93,46 +116,3 @@ Murdstone makes a movement of impatience which I have been expecting
 for a long [[Time|time]]. Miss Murdstone does the same. My mother glances
 submissively at them, shuts the book, and lays it by as an arrear to be
 worked out when my other tasks are done.
-
-There is a pile of these arrears very soon, and it swells like a [[rolling]]
-snowball. The bigger it gets, the more stupid I get. The case is so
-hopeless, and I feel that I am wallowing in such a bog of nonsense, that
-I give up all idea of getting out, and abandon myself to my fate. The
-despairing way in which my mother and I look at each other, as I blunder
-on, is truly [[Melancholy|melancholy]]. But the greatest effect in these miserable
-lessons is when my mother (thinking nobody is observing her) tries
-to give me the cue by the motion of her lips. At that instant, Miss
-Murdstone, who has been lying in wait for nothing else all along, says
-in a deep warning voice:
-
-‘Clara!’
-
-My mother starts, colours, and smiles faintly. Mr. Murdstone comes out
-of his chair, takes the book, throws it at me or boxes my ears with it,
-and turns me out of the room by the shoulders.
-
-Even when the lessons are done, the worst is yet to happen, in the shape
-of an appalling sum. This is invented for me, and delivered to me orally
-by Mr. Murdstone, and begins, ‘If I go into a cheesemonger’s shop, and
-buy five thousand [[Double|double]]-[[Gloucester]] cheeses at fourpence-halfpenny each,
-present payment’--at which I see Miss Murdstone secretly overjoyed.
-I pore over these cheeses without any result or enlightenment until
-dinner-[[Time|time]], when, having made a Mulatto of myself by getting the dirt
-of the slate into the pores of my skin, I have a slice of bread to help
-me out with the cheeses, and am considered in disgrace for the rest of
-the evening.
-
-It seems to me, at this distance of [[Time|time]], as if my unfortunate studies
-generally took this course. I could have done very [[Well|well]] if I had been
-without the Murdstones; but the influence of the Murdstones upon me was
-like the fascination of two snakes on a wretched young bird. Even when
-I did get through the morning with tolerable credit, there was not
-much gained but dinner; for Miss Murdstone never could endure to see me
-untasked, and if I rashly made any show of being unemployed, called her
-brother’s attention to me by saying, ‘Clara, my dear, there’s nothing
-like work--give your boy an exercise’; which caused me to be clapped
-down to some new labour, there and then. As to any recreation with other
-children of my age, I had very little of that; for the gloomy theology
-of the Murdstones made all children out to be a swarm of little vipers
-(though there WAS a [[Child|child]] once set in the midst of the Disciples), and
-held that they contaminated one another.

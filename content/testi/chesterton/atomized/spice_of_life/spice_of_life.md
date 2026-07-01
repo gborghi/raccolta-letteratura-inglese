@@ -2178,7 +2178,7 @@ For it is only the things which are deliberately built to last
 for ever which cannot do so.
 
 The real reason of the temporary eclipse of the fame of Dickens
-is not that he was a faulty [[Artist|artist]] but that he expressed almost
+is not that he was a faulty [[artist]] but that he expressed almost
 faultlessly a certain class of thoughts and emotions which happen
 at this moment to be almost absent from the cultivated class.
 It was not that he expressed badly but that we know nothing at all
@@ -2953,7 +2953,7 @@ buried in Chaucer's day--the Black Prince, for instance.
 Warriors at least as valiant and victorious as Nelson were buried
 at Westminster in the Middle Ages--[[Henry V]], for instance.
 But when their images were carved on their tombs at all they
-were carved with closed eyes and hands pointed in [[Prayer|prayer]].
+were carved with closed eyes and hands pointed in [[prayer]].
 And I have seen one such monument, in Salisbury [[Cathedral]], I think,
 in which the man lies in dumb supplication, but the dog at his feet
 has risen erect and watchful, having heard the trumpet of God.
@@ -4634,7 +4634,7 @@ Fortunately, if I was a champion of skittles, there was never any
 danger of my being a champion at skittles.  But I have played ordinary
 games like skittles, always badly; but all healthy people will agree
 that you never enjoy a game till you enjoy being beaten at the game.
-I have even played golf in Scotland before [[arthur|Arthur]] Balfour brought
+I have even played golf in Scotland before [[Arthur]] Balfour brought
 it to England and it became a fashion and then a religion.
 I have been since inhibited by a difficulty in regarding a game
 as a religion, and the horrid secret of my failure is that I
@@ -4921,7 +4921,7 @@ The Everlasting Nights Daily News, November 7, 1901
 
 Aesop's Fables Introduction to a limited edition of Aesop's Fables
 published by William Heinemann, [[London]] and Doubleday Page & Co.,
-[[New York]], 1912.  Illustrated by [[arthur|Arthur]] Rackham
+[[New York]], 1912.  Illustrated by [[Arthur]] Rackham
 
 Both Sides of the Looking--The Listener, November 29.  1933
 

@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 22 (part 4)"
+title: "Persuasion — Chapter 22 (part 4)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_22/part_03">‹ part 03</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_22/part_05">part 05 ›</a></div>
 </nav>
 
+
+at all; and Mrs Musgrove’s real affection had been won by her
+
+usefulness when they were in distress. It was a heartiness, and a
+
+warmth, and a sincerity which Anne delighted in the more, from the sad
+
+want of such blessings at [[Home|home]]. She was entreated to give them as much
+
+of her [[Time|time]] as possible, invited for every day and all day long, or
+
+rather claimed as part of the family; and, in return, she naturally
 
 fell into all her wonted ways of attention and assistance, and on
 
@@ -201,33 +213,3 @@ Place to-morrow [[Night|night]]? and that we were most particularly asked to mee
 Lady Dalrymple and her daughter, and Mr Elliot, and all the principal
 
 family connexions, on purpose to be introduced to them? How can you be
-
-so forgetful?”
-
-
-
-“Phoo! phoo!” replied Charles, “what’s an evening party? Never worth
-
-remembering. Your father might have asked us to dinner, I think, if he
-
-had wanted to see us. You may do as you like, but I shall go to the
-
-play.”
-
-
-
-“Oh! Charles, I declare it will be too abominable if you do, when you
-
-promised to go.”
-
-
-
-“No, I did not promise. I only smirked and bowed, and said the word
-
-‘happy.’ There was no promise.”
-
-
-
-“But you must go, Charles. It would be unpardonable to fail. We were
-
-asked on purpose to be introduced. There was always such a great

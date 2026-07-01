@@ -1,5 +1,5 @@
 ---
-title: "As You Like It — Act III, Scene 5 — monologue ([[Rosalind|ROSALIND]]) [2]"
+title: "As You Like It — Act III, Scene 5 — monologue (ROSALIND) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/as-you-like-it-(shakespeare)"

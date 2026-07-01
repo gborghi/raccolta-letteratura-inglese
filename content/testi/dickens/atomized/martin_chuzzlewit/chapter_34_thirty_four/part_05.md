@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 34: THIRTY FOUR (part 5)"
+title: "Martin Chuzzlewit — Chapter 34: THIRTY FOUR (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,23 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_34_thirty_four/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_34_thirty_four/part_06">part 06 ›</a></div>
 </nav>
 
+
+‘My! what is this!’ cried Mrs Hominy, opening a little note which was
+handed her by her excited gentleman-usher. ‘Do tell! oh, [[Well|well]], now! on’y
+think!’
+
+And then she read aloud, as follows:
+
+‘Two literary ladies present their compliments to the mother of the
+modern Gracchi, and claim her kind introduction, as their talented
+countrywoman, to the honourable (and distinguished) Elijah Pogram, whom
+the two L. L.’s have often contemplated in the speaking marble of the
+[[Soul|soul]]-subduing Chiggle. On a verbal intimation from the mother of the M.
+G., that she will comply with the request of the two L. L.’s, they will
+have the immediate pleasure of joining the galaxy assembled to do [[Honour|honour]]
+to the patriotic conduct of a Pogram. It may be another bond of [[Union|union]]
+between the two L. L.’s and the mother of the M. G. to observe, that the
+two L. L.’s are Transcendental.’
 
 Mrs Hominy promptly [[Rose|rose]], and proceeded to the door, whence she
 returned, after a minute’s interval, with the two L. L.’s, whom she led,
@@ -117,22 +134,3 @@ Chancellor,’ producing it, ‘and one for Your principal Secretary of
 State. I should wish them to see it, sir, as expressing what my opinions
 air. That they may not plead ignorance at a future [[Time|time]]. But don’t get
 into danger, sir, on my account!’
-
-‘There is not the least danger, I assure you,’ said Martin. So he put
-the pamphlets in his pocket, and they parted.
-
-Mr Bevan had written in his letter that, at a certain [[Time|time]], which fell
-out happily just then, he would be at a certain hotel in the [[City|city]],
-anxiously expecting to see them. To this place they repaired without a
-moment’s delay. They had the satisfaction of finding him within; and of
-being received by their good friend, with his own warmth and heartiness.
-
-‘I am truly sorry and ashamed,’ said Martin, ‘to have begged of you. But
-look at us. See what we are, and judge to what we are reduced!’
-
-‘So far from claiming to have done you any service,’ returned the other,
-‘I reproach myself with having been, unwittingly, the original cause
-of your misfortunes. I no more supposed you would go to Eden on such
-representations as you received; or, indeed, that you would do anything
-but be dispossessed, by the readiest means, of your idea that fortunes
-were so easily made here; than I thought of going to Eden myself.’

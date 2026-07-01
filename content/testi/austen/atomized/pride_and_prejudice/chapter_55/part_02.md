@@ -1,5 +1,5 @@
 ---
-title: "[[Pride and Prejudice]] — Chapter 55 (part 2)"
+title: "Pride and Prejudice — Chapter 55 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/pride-and-prejudice-(austen)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/pride_and_prejudice/chapter_55/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/pride_and_prejudice/chapter_56/part_01">part 01 ›</a></div>
 </nav>
 
+
+“I must go instantly to my mother,” she cried. “I would not on any
+account trifle with her affectionate solicitude, or allow her to hear it
+from anyone but myself. He is gone to my father already. Oh, Lizzy, to
+know that what I have to relate will give such pleasure to all my dear
+family! how shall I bear so much happiness?”
 
 She then hastened away to her mother, who had purposely broken up the
 card-party, and was sitting upstairs with Kitty.
@@ -103,7 +109,7 @@ attached himself to Elizabeth for the pleasure of talking of her; and
 when Bingley was gone, Jane constantly sought the same means of relief.
 
 “He has made me so happy,” said she, one evening, “by telling me that he
-was totally ignorant of my being in town last [[spring]]! I had not believed
+was totally ignorant of my being in town last [[Spring|spring]]! I had not believed
 it possible.”
 
 “I suspected as much,” replied Elizabeth. “But how did he account for

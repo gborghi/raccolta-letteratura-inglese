@@ -1,5 +1,5 @@
 ---
-title: "[[The Man That Was Used Up]]"
+title: "The Man That Was Used Up"
 author: "Poe"
 unitType: work
 parentWork: "works/the-man-that-was-used-up-(poe)"
@@ -267,7 +267,7 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
       wonderful people, and live in a wonderful age. Parachutes and
 
-      rail-roads—man-traps and [[Spring|spring]]-guns! Our steam-boats are upon
+      rail-roads—man-traps and [[spring]]-guns! Our steam-boats are upon
 
       every sea, and the Nassau balloon packet is about to run regular
 
@@ -857,7 +857,7 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
       off at least seven-eighths of my tongue. There isn’t Bonfanti’s
 
-      equal, however, in [[America]], for really good articles of this
+      equal, however, in [[america|America]], for really good articles of this
 
       description. I can recommend you to him with confidence,” [here
 

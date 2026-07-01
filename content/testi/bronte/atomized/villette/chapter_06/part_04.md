@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 6 (part 4)"
+title: "Villette — Chapter 6 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,23 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_06/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_07/part_01">part 01 ›</a></div>
 </nav>
 
+
+“No—not at all.”
+
+“You can play, sing, speak three or four languages?”
+
+“By no means.”
+
+“Still I think you are clever” (a pause and a yawn).
+
+“Shall you be sea-sick?”
+
+“Shall you?”
+
+“Oh, immensely! as soon as ever we get in sight of the sea: I begin,
+indeed, to feel it already. I shall go below; and won’t I order about
+that fat odious stewardess! Heureusement je sais faire aller mon
+monde.”
 
 Down she went.
 

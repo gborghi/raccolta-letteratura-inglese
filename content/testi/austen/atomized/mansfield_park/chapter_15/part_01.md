@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 15 (part 1)"
+title: "Mansfield Park — Chapter 15 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/works/mansfield-park-(austen)">Mansfield Park</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/mansfield_park/chapter_14/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/mansfield_park/chapter_15/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/mansfield_park/chapter_14/part_03">‹ part 03</a><a class="ex-next" href="/testi/austen/atomized/mansfield_park/chapter_15/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -125,17 +125,3 @@ sure, [[Julia]] is dressed by this [[Time|time]].”
 
 “I am convinced, madam,” said [[Edmund]], preventing Fanny, “that Sir
 Thomas would not like it.”
-
-“There, my dear, do you hear what [[Edmund]] says?”
-
-“If I were to decline the part,” said [[Maria]], with renewed zeal, “[[Julia]]
-would certainly take it.”
-
-“What!” cried [[Edmund]], “if she knew your reasons!”
-
-“Oh! she might think the difference between us—the difference in our
-situations—that _she_ need not be so scrupulous as _I_ might feel
-necessary. I am sure she would argue so. No; you must excuse me; I
-cannot retract my consent; it is too far settled, everybody would be so
-disappointed, Tom would be quite angry; and if we are so very nice, we
-shall never act anything.”

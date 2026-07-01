@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 43 (part 2)"
+title: "Bleak House — Chapter 43 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_43/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_43/part_03">part 03 ›</a></div>
 </nav>
 
+
+In pursuance of this plan, we went into [[London]] on an early day and
+presented ourselves at Mr. Skimpole’s door.
 
 He lived in a place called the Polygon, in Somers Town, where there
 were at that [[Time|time]] a number of poor Spanish refugees walking about in

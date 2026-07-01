@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 23 (part 3)"
+title: "Villette — Chapter 23 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -14,6 +14,16 @@ tags:
 </nav>
 
 
+It was a marvellous sight: a mighty revelation.
+
+It was a spectacle low, horrible, immoral.
+
+Swordsmen thrust through, and dying in their [[Blood|blood]] on the arena sand;
+bulls goring horses disembowelled, made a meeker vision for the
+public—a milder condiment for a people’s palate—than Vashti torn by
+seven devils: devils which cried sore and rent the tenement they
+haunted, but still refused to be exorcised.
+
 [[Suffering]] had struck that stage empress; and she stood before her
 audience neither yielding to, nor enduring, nor, in finite measure,
 resenting it: she stood locked in struggle, rigid in resistance. She
@@ -22,7 +32,7 @@ like sculpture. A background and entourage and flooring of deepest
 crimson threw her out, white like alabaster—like silver: rather, be it
 said, like [[Death]].
 
-Where was the [[Artist|artist]] of the [[Cleopatra]]? Let him come and sit down and
+Where was the [[artist]] of the [[Cleopatra]]? Let him come and sit down and
 study this different vision. Let him seek here the mighty brawn, the
 muscle, the abounding [[Blood|blood]], the full-fed flesh he worshipped: let all
 materialists draw nigh and look on.
@@ -109,23 +119,4 @@ then such a strange smile went wandering round his lips, a smile so
 critical, so almost callous! I suppose that for natures of that order
 his sympathies _were_ callous. In a few terse phrases he told me his
 opinion of, and feeling towards, the actress: he judged her as a woman,
-not an [[Artist|artist]]: it was a branding judgment.
-
-That [[Night|night]] was already marked in my book of life, not with white, but
-with a deep-red [[Cross|cross]]. But I had not done with it yet; and other
-memoranda were destined to be set down in characters of tint indelible.
-
-Towards midnight, when the deepening [[Tragedy|tragedy]] blackened to the
-[[Death|death]]-scene, and all held their breath, and even Graham bit his
-under-lip, and knit his brow, and sat still and struck—when the whole
-theatre was hushed, when the vision of all eyes centred in one point,
-when all ears listened towards one quarter—nothing being seen but the
-white form sunk on a seat, quivering in conflict with her last, her
-worst-hated, her visibly-conquering foe—nothing heard but her throes,
-her gaspings, breathing yet of mutiny, panting still defiance; when, as
-it seemed, an inordinate will, convulsing a perishing mortal frame,
-bent it to battle with doom and [[Death|death]], fought every inch of ground,
-sold every drop of [[Blood|blood]], resisted to the latest the rape of every
-faculty, _would_ see, _would_ hear, _would_ breathe, _would_ live, up
-to, within, [[Well|well]]-nigh _beyond_ the moment when [[Death|death]] says to all sense
-and all being—“Thus far and no farther!”—
+not an [[artist]]: it was a branding judgment.

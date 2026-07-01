@@ -1,5 +1,5 @@
 ---
-title: "[[Cymbeline]] — Act III, Scene 4 — exchange ([[Innogen|INNOGEN]]) [5]"
+title: "Cymbeline — Act III, Scene 4 — exchange (INNOGEN) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/cymbeline-(shakespeare)"

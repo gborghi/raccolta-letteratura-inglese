@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 7 (part 3)"
+title: "Mansfield Park — Chapter 7 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/mansfield_park/chapter_07/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/mansfield_park/chapter_07/part_04">part 04 ›</a></div>
 </nav>
 
+
+“I was sure she would ride [[Well|well]],” said [[Julia]]; “she has the make for it.
+Her figure is as neat as her brother’s.”
+
+“Yes,” added [[Maria]], “and her spirits are as good, and she has the same
+energy of character. I cannot but think that good horsemanship has a
+great deal to do with the mind.”
 
 When they parted at [[Night|night]] [[Edmund]] asked Fanny whether she meant to ride
 the next day.
@@ -125,16 +132,3 @@ be caught _then_, sister. There is nothing so likely to give it as
 standing and stooping in a hot sun; but I dare say it will be [[Well|well]]
 to-morrow. Suppose you let her have your aromatic vinegar; I always
 forget to have mine filled.”
-
-“She has got it,” said Lady [[Bertram]]; “she has had it ever since she
-came back from your [[house]] the second [[Time|time]].”
-
-“What!” cried [[Edmund]]; “has she been walking as [[Well|well]] as cutting roses;
-walking across the hot park to your [[house]], and doing it twice, ma’am?
-No [[Wonder|wonder]] her head aches.”
-
-Mrs. Norris was talking to [[Julia]], and did not hear.
-
-“I was afraid it would be too much for her,” said Lady [[Bertram]]; “but
-when the roses were gathered, your aunt wished to have them, and then
-you know they must be taken [[Home|home]].”

@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 2 (part 7)"
+title: "Martin Chuzzlewit — Chapter 2 (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,31 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_02/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_03/part_01">part 01 ›</a></div>
 </nav>
 
+
+He said this with so much earnestness, and in a tone so full of feeling,
+that his companion instinctively changed his manner as he sat down on
+the box (they had by this [[Time|time]] reached the finger-post at the end of the
+lane); motioned him to sit down beside him; and laid his hand upon his
+shoulder.
+
+‘I believe you are one of the best fellows in the world,’ he said, ‘Tom
+Pinch.’
+
+‘Not at all,’ rejoined Tom. ‘If you only knew Pecksniff as [[Well|well]] as I do,
+you might say it of him, indeed, and say it truly.’
+
+‘I’ll say anything of him, you like,’ returned the other, ‘and not
+another word to his disparagement.’
+
+‘It’s for my sake, then; not his, I am afraid,’ said Pinch, shaking his
+head gravely.
+
+‘For whose you please, Tom, so that it does please you. Oh! He’s a
+famous fellow! HE never scraped and clawed into his pouch all your poor
+grandmother’s hard savings--she was a housekeeper, wasn’t she, Tom?’
+
+‘Yes,’ said Mr Pinch, nursing one of his large knees, and nodding his
+head; ‘a gentleman’s housekeeper.’
 
 ‘HE never scraped and clawed into his pouch all her hard savings;
 dazzling her with prospects of your happiness and advancement, which he

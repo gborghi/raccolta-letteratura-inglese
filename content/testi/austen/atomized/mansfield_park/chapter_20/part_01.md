@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 20 (part 1)"
+title: "Mansfield Park — Chapter 20 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -108,10 +108,3 @@ but it was something, and I could not bear to sit at my ease and be
 dragged up at the expense of those noble [[Animals|animals]]. I caught a dreadful
 cold, but _that_ I did not regard. My object was accomplished in the
 visit.”
-
-“I [[Hope|hope]] we shall always think the acquaintance worth any trouble that
-might be taken to establish it. There is nothing very striking in Mr.
-Rushworth’s manners, but I was pleased last [[Night|night]] with what appeared to
-be his opinion on one subject: his decided preference of a quiet family
-party to the bustle and confusion of acting. He seemed to feel exactly
-as one could wish.”

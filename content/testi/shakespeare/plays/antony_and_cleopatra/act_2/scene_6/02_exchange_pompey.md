@@ -1,5 +1,5 @@
 ---
-title: "Antony and [[Cleopatra]] — Act II, Scene 6 — exchange ([[Pompey|POMPEY]]) [2]"
+title: "Antony and Cleopatra — Act II, Scene 6 — exchange (POMPEY) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/antony-and-cleopatra-(shakespeare)"

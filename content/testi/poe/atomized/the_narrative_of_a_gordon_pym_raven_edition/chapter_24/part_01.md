@@ -191,7 +191,3 @@ CHAPTER 24
       the next my whole [[Soul|soul]] was pervaded with a [[Longing|longing]] to fall; a
 
       [[Desire|desire]], a yearning, a passion utterly uncontrollable. I let go at
-
-      once my grasp upon the peg, and, turning half round from the
-
-      precipice, remained tottering for an instant against its naked

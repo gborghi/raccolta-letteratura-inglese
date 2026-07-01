@@ -14,6 +14,9 @@ tags:
 </nav>
 
 
+They came to a halt before the inn; and the shorter man said jovially
+to his companion, "Here's a field for your efforts, anyhow."
+
 Then he called out with breezy civility to the inn-keeper,
 asking him to bring out two pots of ale; and when that gloomy
 character had disappeared into his gloomy place of entertainment,
@@ -126,11 +129,3 @@ Perhaps it was because the elongated shadows of a [[Horse|horse]] and two human
 figures had for some little [[Time|time]] rested on the sunny [[Road|road]] beside him.
 He turned his head over his shoulder, and remained staring at
 what he saw.
-
-A high dog-cart had drawn up on the other side of the [[Road|road]].
-The reins were in the gloved hands of a tall, dark young lady,
-clad in dark blue of the tailor-made type, neat but not particularly new.
-By her side was a man, perhaps ten years older than herself,
-but seeming in many ways much more, for his high-featured face
-was wasted as with sickness, and there was a great anxiety in his
-large grey eyes.

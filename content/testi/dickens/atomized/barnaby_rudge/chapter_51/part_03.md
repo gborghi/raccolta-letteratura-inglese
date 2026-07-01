@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 51 (part 3)"
+title: "Barnaby Rudge — Chapter 51 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -10,9 +10,41 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/barnaby-rudge-(dickens)">Barnaby Rudge</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_51/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_52/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_51/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_51/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘All good friends to our cause, I [[Hope|hope]] will be particular, and do no
+injury to the property of any true Protestant. I am [[Well|well]] assured that
+the proprietor of this [[house]] is a staunch and worthy friend to the
+cause.
+
+GEORGE GORDON.’
+
+
+‘What’s this!’ said the locksmith, with an altered face.
+
+‘Something that’ll do you good service, young feller,’ replied his
+journeyman, ‘as you’ll find. Keep that safe, and where you can lay your
+hand upon it in an instant. And [[chalk]] “No Popery” on your door to-morrow
+[[Night|night]], and for a week to come--that’s all.’
+
+‘This is a genuine document,’ said the locksmith, ‘I know, for I have
+seen the hand before. What threat does it imply? What devil is abroad?’
+
+‘A fiery devil,’ retorted Sim; ‘a flaming, furious devil. Don’t you put
+yourself in its way, or you’re done for, my buck. Be warned in [[Time|time]], G.
+Varden. Farewell!’
+
+But here the two women threw themselves in his way--especially Miss
+Miggs, who fell upon him with such fervour that she pinned him against
+the wall--and conjured him in moving words not to go forth till he was
+sober; to listen to reason; to think of it; to take some rest, and then
+determine.
+
+‘I tell you,’ said Mr Tappertit, ‘that my mind is made up. My bleeding
+country calls me and I go! Miggs, if you don’t get out of the way, I’ll
+pinch you.’
 
 Miss Miggs, still clinging to the [[Rebel|rebel]], screamed once vociferously--but
 whether in the distraction of her mind, or because of his having
@@ -108,68 +140,3 @@ her husband was pursuing their lost journeyman, she secreted under her
 chair the little red-brick dwelling-[[house]] with the yellow roof, lest it
 should furnish new occasion for reference to the painful theme; and now
 hid the same still more, with the skirts of her dress.
-
-But it happened that the locksmith had been thinking of this very
-article on his way [[Home|home]], and that, coming into the room and not seeing
-it, he at once demanded where it was.
-
-Mrs Varden had no resource but to produce it, which she did with many
-[[Tears|tears]], and broken protestations that if she could have known--
-
-‘Yes, yes,’ said Varden, ‘of course--I know that. I don’t mean to
-reproach you, my dear. But recollect from this [[Time|time]] that all good things
-perverted to evil purposes, are worse than those which are naturally
-bad. A thoroughly wicked woman, is wicked indeed. When religion goes
-wrong, she is very wrong, for the same reason. Let us say no more about
-it, my dear.’
-
-So he dropped the red-brick dwelling-[[house]] on the floor, and setting his
-heel upon it, crushed it into pieces. The halfpence, and sixpences,
-and other voluntary contributions, rolled about in all directions, but
-nobody offered to touch them, or to take them up.
-
-‘That,’ said the locksmith, ‘is easily disposed of, and I would to
-Heaven that everything growing out of the same society could be settled
-as easily.’
-
-‘It happens very fortunately, Varden,’ said his wife, with her
-handkerchief to her eyes, ‘that in case any more disturbances should
-happen--which I [[Hope|hope]] not; I sincerely [[Hope|hope]] not--’
-
-‘I [[Hope|hope]] so too, my dear.’
-
-‘--That in case any should occur, we have the piece of paper which that
-poor misguided young man brought.’
-
-‘Ay, to be sure,’ said the locksmith, turning quickly round. ‘Where is
-that piece of paper?’
-
-Mrs Varden stood aghast as he took it from her outstretched hand, tore
-it into fragments, and threw them under the grate.
-
-‘Not use it?’ she said.
-
-‘Use it!’ cried the locksmith. No! Let them come and pull the roof about
-our ears; let them burn us out of [[house]] and [[Home|home]]; I’d neither have the
-protection of their leader, nor [[chalk]] their howl upon my door, though,
-for not doing it, they shot me on my own threshold. Use it! Let them
-come and do their worst. The first man who crosses my doorstep on such
-an errand as theirs, had better be a hundred miles away. Let him look to
-it. The others may have their will. I wouldn’t beg or buy them off, if,
-instead of every pound of iron in the place, there was a hundred weight
-of gold. Get you to bed, Martha. I shall take down the shutters and go
-to work.’
-
-‘So early!’ said his wife.
-
-‘Ay,’ replied the locksmith cheerily, ‘so early. Come when they may,
-they shall not find us skulking and hiding, as if we feared to take our
-portion of the light of day, and left it all to them. So pleasant [[Dreams|dreams]]
-to you, my dear, and cheerful [[Sleep|sleep]]!’
-
-With that he gave his wife a hearty kiss, and bade her delay no longer,
-or it would be [[Time|time]] to rise before she lay down to rest. Mrs Varden
-quite amiably and meekly walked upstairs, followed by Miggs, who,
-although a good deal subdued, could not refrain from sundry stimulative
-coughs and sniffs by the way, or from holding up her hands in
-astonishment at the daring conduct of master.

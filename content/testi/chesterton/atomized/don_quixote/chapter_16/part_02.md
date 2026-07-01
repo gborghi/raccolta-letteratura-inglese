@@ -1,5 +1,5 @@
 ---
-title: "[[Don Quixote]] — Chapter 15 (part 2)"
+title: "Don Quixote — Chapter 15 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/don-quixote-(chesterton)"
@@ -13,6 +13,33 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_16/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_16/part_03">part 03 ›</a></div>
 </nav>
 
+
+For never in any newspaper or book or magazine of modern England had
+anything remotely resembling a [[history|History]] of the Trade [[Union]] Movement
+come the way of an intelligent and educated English lady
+like Olive Ashley.  The whole of that huge historical change
+had happened, so far as she was concerned behind a curtain;
+and the curtain was literally a sheet of paper; a sheet of newspaper.
+She knew nothing of the differences between Trade Unionists;
+nothing of the real faults of Trade Unions; not even the very names
+of men who were directing masses as large as the army of Napoleon.
+The street seemed full of strange faces or faces all the stranger
+for being familiar.  She caught a glimpse of the large lumbering form
+of the omnibus-driver that Monkey used to make such a friend of.
+He was talking, or rather listening, with the others; and his large,
+shiny, good-humoured face seemed to assent to all that was said.
+Had Miss Ashley accompanied Monkey on his disgraceful tour
+round the public-houses, she would even have recognised
+the celebrated Old George, who now received the challenge of
+political dispute as he had received the chaff of the tavern.
+Had she known more of popular life, she would have understood
+the menacing meaning of the presence of these very sleepy and
+amiable poor Englishmen amid those sullen groups in the streets.
+But the next moment she had forgotten all about them.
+She had only succeeded in penetrating into an outer [[Court|court]] of the temple
+of officialism (it was very like waiting in a [[government|Government]] office)
+when she heard Braintree's voice outside in the corridor and he came
+rapidly into the room.
 
 When John Braintree came into the room, Olive instantly
 and in a flash saw every detail about him; all that she liked
@@ -110,31 +137,3 @@ revolutionary women are only going along with revolutionary men.
 But I _am_ independent.  I am thinking for myself.  I am living
 my own life, as they call it; and a most miserable life it is.
 I am not going along with a revolutionary man."
-
-There was again a long [[Silence|silence]]; the sort of [[Silence|silence]] which endures
-because it is unnecessary, or rather impossible, to ask questions;
-and then Braintree took a step nearer and said:  "[[Well]], I am
-miserable enough, if that is part of the [[logic]] of the case;
-and yet again it is just part of this infernal furnace of reality
-that I cannot attack [[logic]].  How easy it is to attack [[logic]]!
-How impossible to find anything else except lying!
-And then they say that women are not logical; because they
-never waste [[logic]] on things that do not matter.  My God,
-is there any way _out_ of [[logic]]?"
-
-To anyone who had not known their knowledge of each other,
-this conversation would have seemed a series of riddles;
-but Braintree knew the answers before the riddles were asked.
-He knew that this woman had got hold of a religion
-and that a religion is often a [[Renunciation|renunciation]].
-She would not go with him without helping him to the [[Death|death]].
-And she would not help him; she would resist him to the [[Death|death]].
-That antagonism between them, as it had arisen in silly remarks
-and random _repartees_ in their first interview in the long
-room at Seawood, that antagonism, transfigured, enlightened,
-deepened but all the more defined by knowing all the best
-of each other, was risen again to a noble height of reason,
-which he was the last man in the world to despise.
-People laugh at these things when they find them in the old
-stories of Roman virtue.  They are people who have never loved
-at the same [[Time|time]] a [[Truth|truth]] and a friend.

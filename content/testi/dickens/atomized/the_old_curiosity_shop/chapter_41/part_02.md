@@ -14,6 +14,15 @@ tags:
 </nav>
 
 
+He rubbed them twice or thrice, but still they insisted that Quilp was
+there, and there indeed he was, sitting with his hands upon his knees,
+and his hat between them on a little wooden bracket, with the
+accustomed grin on his dirty face, and his eyes fixed upon the ceiling.
+He certainly did not glance at Kit or at his mother, and appeared
+utterly unconscious of their presence; still Kit could not help
+feeling, directly, that the attention of the sly little fiend was
+fastened upon them, and upon nothing else.
+
 But, astounded as he was by the apparition of the [[Dwarf|dwarf]] among the
 Little Bethelites, and not free from a misgiving that it was the
 forerunner of some trouble or annoyance, he was compelled to subdue his
@@ -119,21 +128,3 @@ for a twelvemonth, and that if he’d got a little more of the [[Lamb|lamb]]
 himself, and less of the mint-sauce--not being quite so sharp and sour
 over it--I should like him all the better.  That’s what you’ve got to
 say to him, Jacob.’
-
-Talking on in this way, half in jest and half in earnest, and cheering
-up his mother, the children, and himself, by the one simple process of
-determining to be in a good [[Humour|humour]], Kit led them briskly forward; and
-on the [[Road|road]] [[Home|home]], he related what had passed at the Notary’s [[house]], and
-the purpose with which he had intruded on the solemnities of Little
-Bethel.
-
-His mother was not a little startled on learning what service was
-required of her, and presently fell into a confusion of ideas, of which
-the most prominent were that it was a great [[Honour|honour]] and dignity to ride
-in a post-chaise, and that it was a moral impossibility to leave the
-children behind.  But this objection, and a great many others, founded
-on certain articles of dress being at the wash, and certain other
-articles having no existence in the wardrobe of Mrs Nubbles, were
-overcome by Kit, who opposed to each and every of them, the pleasure of
-recovering Nell, and the delight it would be to bring her back in
-triumph.

@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 33: BLISSFUL (part 6)"
+title: "David Copperfield — Chapter 33: BLISSFUL (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_33_blissful/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_34_my_aunt_astonishes_me/part_01">part 01 ›</a></div>
 </nav>
 
+
+How many times I went up and down the street, and round the
+square--painfully aware of being a much better answer to the old [[Riddle|riddle]]
+than the original one--before I could persuade myself to go up the steps
+and knock, is no matter now. Even when, at last, I had knocked, and was
+waiting at the door, I had some flurried thought of asking if that
+were Mr. Blackboy’s (in [[Imitation|imitation]] of poor Barkis), begging pardon, and
+retreating. But I kept my ground.
 
 Mr. Mills was not at [[Home|home]]. I did not expect he would be. Nobody wanted
 HIM. Miss Mills was at [[Home|home]]. Miss Mills would do.

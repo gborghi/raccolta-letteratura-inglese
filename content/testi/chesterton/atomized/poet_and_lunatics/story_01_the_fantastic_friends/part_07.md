@@ -14,6 +14,30 @@ tags:
 </nav>
 
 
+"I'll drive if we must," she said in a ringing tone.
+"He'll go better with me."
+
+The sun had set behind the hills opposite, and [[Night|night]] was already
+deepening the darkness of the [[Storm|storm]].  As the rocking vehicle splashed up
+to the hub of its [[Wheel|wheel]] in the eddying [[Water|water]], she could only faintly see
+the long [[Water|water]]-rushes streaming with the stream, as if they were indeed
+the shades of the underworld hovering without [[Hope|hope]] beside the Styx.
+But she had no longer need to call it, merely in metaphor,
+a [[River|river]] of [[Death|death]].  [[Death]] was driving hard against [[Horse|horse]] and cart,
+staggering the insecure foothold of the one, and swaying the human
+burden of the other; the thunder was about their ears, and on their
+dreadful path scarce any light but the [[Lightning|lightning]]; and her human
+companion was a man uttering a monologue, of which she heard snatches,
+more shocking than the thunder.  All the reason and realism
+in her told her that he might at any moment tear her in pieces.
+But underneath all such things there was something else contrary
+and incredible; something in the need and the companionship,
+and the [[Courage|courage]] and [[Heroism|heroism]] she was showing; and it was too deep
+in her dizzy [[Soul|soul]] for her to know that it was exultation.
+
+The [[Horse|horse]] almost fell just as they came to the end of the ford,
+but Gale sprang from the cart and held it, standing knee-deep in [[Water|water]].
+
 In a lull in the noise of the [[Storm|storm]] she heard for the first
 [[Time|time]] voices from the inn beside the [[River|river]]... voices high,
 and even shrill, as if the altercation that the groom
@@ -154,6 +178,5 @@ She reminded herself of the words about the world being upside down;
 and thought it had indeed turned upside down many times in that
 single [[Night|night]].  And she could not analyse the sensation that,
 in spite of everything, it had come the right side up.
-
 
 II

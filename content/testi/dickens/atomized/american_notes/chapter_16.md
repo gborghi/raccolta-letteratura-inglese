@@ -158,7 +158,7 @@ board whistling; not to say as if nothing had happened, but as if he had
 meant to do it, and it had been a perfect [[success]].
 
 Our steamboat came up directly this had left the wharf, and soon bore us
-to the mouth of the Niagara; where the [[Stars|stars]] and stripes of [[America]]
+to the mouth of the Niagara; where the [[Stars|stars]] and stripes of [[america|America]]
 flutter on one side and the [[Union]] Jack of England on the other: and so
 narrow is the space between them that the sentinels in either fort can
 often hear the watchword of the other country given.  Thence we emerged
@@ -279,7 +279,7 @@ to see floating down with the stream, a most gigantic raft, with some
 thirty or forty wooden houses upon it, and at least as many [[Flag|flag]]-masts,
 so that it looked like a nautical street.  I saw many of these rafts
 afterwards, but never one so large.  All the timber, or ‘lumber,’ as it
-is called in [[America]], which is brought down the St. Lawrence, is floated
+is called in [[america|America]], which is brought down the St. Lawrence, is floated
 down in this manner.  When the raft reaches its place of destination, it
 is broken up; the materials are sold; and the boatmen return for more.
 
@@ -317,7 +317,7 @@ the place have consequently determined to pull down immediately.  The
 full of life and bustle.  In one of the suburbs is a plank [[Road|road]]—not
 footpath—five or six miles long, and a famous [[Road|road]] it is too.  All the
 rides in the vicinity were made doubly interesting by the bursting out of
-[[Spring|spring]], which is here so rapid, that it is but a day’s leap from barren
+[[spring]], which is here so rapid, that it is but a day’s leap from barren
 [[Winter|winter]], to the blooming youth of [[Summer|summer]].
 
 The steamboats to Quebec perform the [[Journey|journey]] in the [[Night|night]]; that is to
@@ -326,7 +326,7 @@ six next morning.  We made this excursion during our stay in Montreal
 (which exceeded a fortnight), and were charmed by its interest and
 [[Beauty|beauty]].
 
-The impression made upon the visitor by this Gibraltar of [[America]]: its
+The impression made upon the visitor by this Gibraltar of [[america|America]]: its
 giddy heights; its citadel suspended, as it were, in the air; its
 picturesque steep streets and frowning gateways; and the splendid views
 which burst upon the eye at every turn: is at once unique and lasting.
@@ -360,7 +360,7 @@ sunken [[Window|window]] in the fortress and looked at from the shadowed room
 within, forms one of the brightest and most enchanting pictures that the
 eye can rest upon.
 
-In the [[Spring|spring]] of the year, vast numbers of emigrants who have newly
+In the [[spring]] of the year, vast numbers of emigrants who have newly
 arrived from England or from Ireland, pass between Quebec and Montreal on
 their way to the backwoods and new settlements of Canada.  If it be an
 entertaining lounge (as I very often found it) to take a morning stroll
@@ -492,7 +492,7 @@ notwithstanding, and soon after five o’[[Clock|clock]] next morning reached Ne
 York.
 
 Tarrying here, only that day and [[Night|night]], to recruit after our late
-fatigues, we started off once more upon our last [[Journey|journey]] in [[America]].  We
+fatigues, we started off once more upon our last [[Journey|journey]] in [[america|America]].  We
 had yet five days to spare before embarking for England, and I had a
 great [[Desire|desire]] to see ‘the Shaker Village,’ which is peopled by a religious
 sect from whom it takes its name.
@@ -531,7 +531,7 @@ side of a dreary passage; and were so like rooms in a [[Prison|prison]] that I h
 expected to be locked up when I went to bed, and listened involuntarily
 for the turning of the key on the outside.  There need be baths somewhere
 in the neighbourhood, for the other washing arrangements were on as
-limited a scale as I ever saw, even in [[America]]: indeed, these bedrooms
+limited a scale as I ever saw, even in [[america|America]]: indeed, these bedrooms
 were so very bare of even such common luxuries as chairs, that I should
 say they were not provided with enough of anything, but that I bethink
 myself of our having been most bountifully bitten all [[Night|night]].
@@ -678,7 +678,7 @@ of sunlit [[Water|water]], with here and there a skiff, whose white sail often
 bends on some new tack as sudden flaws of [[Wind|wind]] come down upon her from
 the gullies in the hills: hemmed in, besides, all round with memories of
 Washington, and events of the revolutionary war: is the Military School
-of [[America]].
+of [[america|America]].
 
 It could not stand on more appropriate ground, and any ground more
 beautiful can hardly be.  The course of [[Education|education]] is severe, but [[Well|well]]

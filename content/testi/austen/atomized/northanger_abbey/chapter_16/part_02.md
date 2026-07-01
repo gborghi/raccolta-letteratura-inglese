@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 15 (part 2)"
+title: "Northanger Abbey — Chapter 15 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_16/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_16/part_03">part 03 ›</a></div>
 </nav>
 
+
+of my partiality for the church! but my secret I was always sure would
+
+be safe with _you_.”
+
+
+
+Catherine felt that nothing could have been safer; but ashamed of an
+
+ignorance little expected, she dared no longer contest the point, nor
 
 refuse to have been as full of arch penetration and affectionate
 
@@ -211,19 +221,3 @@ visitor, and could have embraced half the inhabitants of Bath with
 satisfaction. Her heart was overflowing with tenderness. It was “dear
 
 John” and “dear Catherine” at every word; “dear Anne and dear [[Maria]]”
-
-must immediately be made sharers in their felicity; and two “dears” at
-
-once before the name of [[Isabella]] were not more than that beloved [[Child|child]]
-
-had now [[Well|well]] earned. John himself was no skulker in joy. He not only
-
-bestowed on Mr. Morland the high commendation of being one of the
-
-finest fellows in the world, but swore off many sentences in his
-
-praise.
-
-
-
-The letter, whence sprang all this felicity, was short, containing

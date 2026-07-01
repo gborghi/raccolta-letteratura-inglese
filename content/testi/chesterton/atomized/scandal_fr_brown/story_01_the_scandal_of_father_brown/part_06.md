@@ -1,5 +1,5 @@
 ---
-title: "scandal Fr Brown — The Scandal of [[Father Brown]] (part 6)"
+title: "scandal Fr Brown — The Scandal of Father Brown (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/scandal-fr-brown-(chesterton)"
@@ -13,6 +13,27 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_01_the_scandal_of_father_brown/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one/part_01">part 01 ›</a></div>
 </nav>
 
+
+'You say down with [[Romance|romance]]. I say I'd take my chance in fighting the
+genuine romances - all the more because they are precious few, outside
+the first fiery days of youth. I say - take away the Intellectual
+Friendships; take away the Platonic Unions; take away the Higher Laws of
+[[Self]] - Fulfilment and the rest, and I'll risk the normal dangers of the
+job. Take away the [[Love|love]] that isn't [[Love|love]], but only [[Pride|pride]] and vainglory
+and publicity and making a splash; and we'll take our chance of fighting
+the [[Love|love]] that is [[Love|love]], when it has to be fought, as [[Well|well]] as the [[Love|love]]
+that is lust and lechery. Priests know young people will have passions,
+as doctors know they will have measles. But Hypatia Potter is forty if
+she is a day, and she cares no more for that little poet than if he were
+her publisher or her publicity man. That's just the point - he was her
+publicity man. It's your newspapers that have ruined her; it's living in
+the limelight; it's wanting to see herself in the headlines, even in a
+scandal if it were only sufficiently psychic and superior. It's wanting
+to be George Sand, her name immortally linked with Alfred de Musset.
+When her real [[Romance|romance]] of youth was over, it was the sin of middle age
+that got hold of her; the sin of intellectual [[Ambition|ambition]]. She hasn't got
+any intellect to speak of; but you don't need any intellect to be an
+intellectual.'
 
 'I should say she was pretty brainy in one sense,' observed Rock
 reflectively.

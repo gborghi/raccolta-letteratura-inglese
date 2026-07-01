@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 21: LITTLE EM’LY (part 2)"
+title: "David Copperfield — Chapter 21: LITTLE EM’LY (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -132,9 +132,3 @@ recollect? Dear me, yes; the party was a lady, I think?’
 forefinger, ‘and there was a little [[Child|child]] too! There was two parties.
 The little party was laid along with the other party. Over at
 Blunderstone it was, of course. Dear me! And how have you been since?’
-
-Very [[Well|well]], I thanked him, as I hoped he had been too.
-
-‘Oh! nothing to grumble at, you know,’ said Mr. Omer. ‘I find my breath
-gets short, but it seldom gets longer as a man gets older. I take it as
-it comes, and make the most of it. That’s the best way, ain’t it?’

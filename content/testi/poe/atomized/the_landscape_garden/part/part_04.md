@@ -1,5 +1,5 @@
 ---
-title: "[[The Landscape Garden]] (part 4)"
+title: "The Landscape Garden (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-landscape-garden-(poe)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_landscape_garden/part/part_03">‹ part 03</a><span></span></div>
 </nav>
 
+
+      design, and partly moral. A terrace, with an old moss-covered
+
+      balustrade, calls up at once to the eye, the fair forms that have
+
+      passed there in other days. The slightest exhibition of art is an
+
+      evidence of care and human interest.”
+
+
+
+      “From what I have already observed,” said Mr. Ellison, “you will
+
+      understand that I reject the idea, here expressed, of ‘recalling
+
+      the original [[Beauty|beauty]] of the country.’ The original [[Beauty|beauty]] is never
+
+      so great as that which may be introduced. Of course, much depends
 
       upon the selection of a spot with capabilities. What is said in
 

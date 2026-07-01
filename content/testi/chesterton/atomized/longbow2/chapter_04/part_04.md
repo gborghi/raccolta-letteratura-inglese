@@ -1,5 +1,5 @@
 ---
-title: "[[longbow2]] — Chapter 4 (part 4)"
+title: "longbow2 — Chapter 4 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/longbow2/chapter_04/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/longbow2/chapter_04/part_05">part 05 ›</a></div>
 </nav>
 
+
+Perhaps this literally flying figure shone the more vividly in
+their memories because, when they saw it again, it was in a subtle
+sense changed.  When the other two next saw Hilary Pierce on
+the steps of the Air Ministry, they were conscious that his manner
+was a little quieter, but his wild eye rather wilder than usual. 
+They adjourned to a neighbouring restaurant and talked of trivialities
+while luncheon was served; but the Colonel, who was a keen observer,
+was sure that Pierce had suffered some sort of shock, or at least
+some sort of check.  While they were considering what to say Pierce
+himself said abruptly, staring at a mustard-pot on the table:
 
 "What do you think about spirits?"
 
@@ -113,15 +124,3 @@ it was certainly no noise I had ever heard before; it bore some sort
 of resemblance to the neighing of a [[Horse|horse]] immensely magnified;
 yet it might have been half human, and there was triumph in it
 and derision.
-
-"I will tell you one more thing I learnt before I left those parts. 
-I left them at once, partly because I really had an appointment
-early this morning, as I told you; partly also, I think, because I
-felt you had the right to know at once what sort of things were to
-be faced.  I was alarmed when I thought your friend was tormented
-with imaginary bogies; I am not less alarmed if he had got mixed
-up with real ones.  Anyhow, before I left that village I had told
-one man what I had seen, and he told me he had seen it also. 
-But he had seen it actually moving, in dusk turning to dark;
-the whole [[Great House|great house]], with its high columns, moving across the fields
-like a great [[Ship|ship]] sailing on land."

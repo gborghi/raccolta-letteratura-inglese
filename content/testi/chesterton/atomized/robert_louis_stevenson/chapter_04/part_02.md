@@ -1,5 +1,5 @@
 ---
-title: "Robert Louis Stevenson — Chapter 4 (part 2)"
+title: "Robert Louis Stevenson — Chapter 3 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/robert-louis-stevenson-(chesterton)"
@@ -14,104 +14,95 @@ tags:
 </nav>
 
 
-Now what really remains interesting in this story of Stevenson,
-in spite of all the vain repetitions, is the authority to which
-he appealed.  It was rather an odd one; and many would have said
-that his [[Sanity|sanity]] was madder than [[Madness|madness]].  He did not appeal to any
-ideal of the sort usually pursued by idealists; he did not try
-to construct an optimist [[philosophy]] like Spinoza or Emerson;
-he did not preach a good [[Time|time]] coming like William Morris or Wells;
-he did not appeal to Imperialism or Socialism or Scotland:
-he appealed to Skelt.
+I will here make what is a mere guess in the dark; and in a very dark
+matter of the mind.  But I suspect that it was originally out of this
+chasm of ugly division that there [[Rose|rose]] that two-headed [[Monster|monster]],
+the mystery of Jekyll and Hyde.  There is indeed one peculiarity
+about that grim [[Grotesque|grotesque]] which I have never seen noted anywhere;
+though I dare say it may have been noted more than once.
+It will be realised that I am not, alas, so close a student of
+Stevensoniana as many who seem to think much less of Stevenson.
+But it seems to me that the story of Jekyll and Hyde,
+which is presumably presented as happening in [[London]],
+is all the [[Time|time]] very unmistakably happening in Edinburgh.
+More than one of the characters seem to be pure Scots.
+Mr. Utterson, the lawyer, is a most unmistakably Scottish lawyer,
+strictly occupied with Scots Law.  No modern English lawyer ever read
+a book of dry divinity in the evening merely because it was [[Sunday]].
+Mr. Hyde indeed possesses the cosmopolitan charm that unites
+all nations; but there is something decidedly Caledonian about
+Dr. Jekyll; and especially something that calls up that quality
+in Edinburgh that led an unkind observer (probably from Glasgow)
+to describe it as "an east-windy, west-endy place."
+The particular tone about his respectability, and the horror
+of mixing his reputation with mortal frailty, belongs to the upper
+middle classes in solid Puritan communities.  But what is especially
+to the point of the present argument, there is a sense in which that
+[[Puritanism]] is expressed even more in Mr. Hyde than in Dr. Jekyll.
+The sense of the sudden stink of evil, the immediate invitation
+to step into stark filth, the abruptness of the alternative between
+that prim and proper pavement and that black and reeking gutter--
+all this, though doubtless involved in the [[logic]] of the tale,
+is far too frankly and familiarly offered not to have had some basis
+in observation and reality.  It is not thus that the ordinary young pagan,
+of warmer climes, conceives the alternative of [[Christ]] and Aphrodite.
+His [[Imagination|imagination]] and half his mind are involved in defending
+the [[Beauty|beauty]] and dignity of the joy of gods and men.  It is not
+so that Stevenson himself came to talk of such things, when he had
+felt the [[Shadow|shadow]] of old Athens fall on the pagan side of [[Paris]].
+I allow for all the necessary horror of the conception of Hyde.
+But this dingy quality does not belong only to the demon antics of Hyde.
+It is implied, somehow, in every word about the furtive and embarrassed
+vices of Jekyll.  It is the [[Tragedy|tragedy]] of a Puritan town; every bit
+as much as that black legend which Stevenson loved, in which the
+walking-stick of Major Weir went walking down the street all by itself.
+I [[Hope|hope]] to say something in a moment about the very deep and indeed
+very just and wise [[morality]] that is really involved in that ugly tale.
+I am only remarking here that the atmosphere and setting of it
+are those of some tale of stiff hypocrisy in a rigid sect or
+provincial village; it might be a tale of the Middle West savagely
+dissected in the Spoon [[River]] Anthology.  But the point about it is
+that the human [[Beauty|beauty]] which makes sin most dangerous hardly appears
+by a hint; this Belial is never graceful or humane; and in this
+there seems to me to be something suggestive of the inverted order
+and ugly contrast with which licence presents itself in a world
+that has frowned on liberty.  It is the utterance of somebody who,
+in the words of Kipling, knew the worst too young; not necessarily
+in his own act or by his own fault, but by the [[Nature|nature]] of a system
+which saw no difference between the worst and the moderately bad.
+But whatever form the shock of evil might take, I think it jerked
+him out of the right development of his romantic [[Nature|nature]]; and was
+responsible for much that seemed random or belated in his life.
 
-Familiarity had dulled the divine [[Paradox|paradox]] that we should learn
-[[morality]] from little children.  He advanced the more disturbing
-[[Paradox|paradox]] that we should learn [[morality]] from little boys.  The young
-[[Child|child]] who should lead us was the common (or [[Garden|garden]]) little boy:
-the boy of the catapult and the toy [[Pistol|pistol]]--and the toy theatre.
-Stevenson seemed to say to the semi-suicides drooping round him at
-the café tables; drinking absinthe and discussing atheism:  "Hang it all,
-the [[Hero|hero]] of a penny-dreadful play was a better man than you are!
-A Penny Plain and Twopence Coloured was an art more worthy of living
-men than the art that you are all professing.  Painting pasteboard
-figures of pirates and admirals was better worth doing than all this,
-it was fun; it was fighting; it was a life and a lark; and if I
-can't do anything else, dang me but I will try to do that again!"
-So was presented to the world this entertaining spectacle;
-of the art student surrounded by easels on which other artists
-were debating the fine shades of Corot and Renoir, while he himself
-was gravely painting mariners a bright prussian blue of a shilling
-paint-box and shedding their [[Blood|blood]] in streams of unmistakable
-crimson lake.  That is the primary [[Paradox|paradox]] about Stevenson's
-early manhood; or, if you will, the real joke about Stevenson.
-Of all that intellectualism in Bohemia the result was the return
-to Skelt.  Of all that wallowing in Balzac the remarkable
-outcome was _Treasure Island._ But it is no exaggeration
-to say that it had still more to do with toys than treasures.
-Stevenson was not really looking forward or outward to a world of
-larger things, but backward and inward into a world of smaller ones:
-in the peepshow of Skelt, which was still the true [[Window|window]] of the world.
-
-Thus, Skelt and his puppets seemed made for a repartee to the
-favourite phrases of the pessimists.  All that world was haunted
-as with melody by the hedonist [[Despair|despair]] of Fitzgerald's Omar:
-one of the great historical documents of this [[history]].
-No image could make them bow their heads with more hopelessness
-and helplessness of [[Despair|despair]] than that famous one:
-
-  "We are none other than a moving row
-   Of [[Magic|magic]] [[Shadow|shadow]]-shapes that come and go
-   Around the sun-illumined lantern held
-   At midnight by the Master of the show."
-
-And no image could make the infant Stevenson kick his little legs
-with keener joy.  His answer, in effect, to the [[philosophy]] of the
-[[Magic|magic]] [[Shadow|shadow]]-shapes, was that the [[Shadow|shadow]]-shapes really were [[Magic|magic]].
-At any rate, they really did seem to the children to be [[Magic|magic]]:
-and it was not false but true psychology to call the thing
-a [[Magic|magic]] lantern.  He was capable of feeling passionate delight
-in being such a Lantern-Bearer. He was capable even of feeling
-passionate delight in being such a [[Shadow|shadow]].  And any one who has
-seen a [[Shadow|shadow]] pantomime as a [[Child|child]], as I have, and who has retained
-any living link with his own [[Childhood|childhood]], will realise that Omar was
-as unlucky in his commentary on the lantern-show as the delightful
-curate in _Voces Populi_ who talked about [[Valentine]] and Orson.
-He was teaching optimism as an illustration to pessimism.  Later we may
-make a guess at the [[Nature|nature]] of this glamour about such tricks or toys;
-the point for the moment is that they were associated with gloom
-in [[philosophy]], while they were associated with pleasure in psychology.
-The same applies to more common examples of the fancies of the fatalist.
-When the sage said that men are "only puppets," it must have seemed
-to the young Louis almost like the blasphemy of saying they were
-"only pirates."  It might [[Well|well]] seem to any [[Child|child]] like saying that they
-were only fairies.  There was something weak about bewailing drearily
-the fate of the puppets of destiny, to an audience that was eagerly
-awaiting the joyful [[Apocalypse|apocalypse]] of a puppet-show. The Stevensonian
-reaction might be roughly represented by the suggestion--if we
-are as futile as puppets, is there anything particular to prevent
-our being as entertaining, as Punch?  And there is, as I say,
-a real spiritual mystery behind this mystical ecstasy of mimicry.
-If living dolls were so dull and dead, why in the world were dead
-dolls so very much alive?  And if being a puppet is so depressing,
-how is it that the puppet of a puppet can be so enthralling?
-
-It is to be noted that this sort of romanticism, as compared with realism,
-is _not_ more superficial, but on the contrary more fundamental.
-It is an appeal from what is experienced to what is felt.
-When people are avowedly talking about happiness and unhappiness,
-as the pessimists were, it is futile to say that shadows
-and sham pasteboard figures _ought_ not to make people happy.
-It was futile to tell the young Stevenson that the toy-theatre
-shop was a dingy booth stocked with dusty rolls of paper,
-covered with ill-drawn and ungainly figures; and to insist
-that these were the only facts.  He naturally answered:
-"My facts were my feelings; and what do you make of those facts?
-Either there is something in Skelt; which you do not admit.
-Or else there is something in Life; which you also do not admit."
-Hence arose that answer to the realists which is best expressed
-in the [[Essay|essay]] called _The Lantern-Bearers._ The realists, who overlook
-so many details, have never quite noticed where lay the falsity of
-their method; it lay in the fact that so long as it was materialistic,
-it could not really be realistic.  For it could not be psychological.
-If toys and trifles can make people happy, that happiness is not
-a trifle and certainly cannot be a trick.
+I do not mean to imply that the [[morality]] of the story itself has anything
+of weakness or morbidity; my opinion is very much the other way.
+Though the [[Fable|fable]] may seem mad, the moral is very sane; indeed, the moral
+is strictly orthodox.  The trouble is that most of those who mention it
+do not know the moral, possibly because they have never read the [[Fable|fable]].
+From [[Time|time]] to [[Time|time]] those anonymous authorities in the newspapers,
+who dismiss Stevenson with such languid grace, will say that there
+is something quite cheap and obvious about the idea that one man
+is really two men and can be divided into the evil and the good.
+Unfortunately for them, that does not happen to be the idea.
+The real stab of the story is not in the discovery that the one man
+is two men; but in the discovery that the two men are one man.
+After all the diverse wandering and warring of those two incompatible
+beings, there was still one man born and only one man buried.
+Jekyll and Hyde have become a proverb and a joke; only it is
+a proverb read backwards and a joke that nobody really sees.
+But it might have occurred to the languid critics, as a part of the joke,
+that the tale is a [[Tragedy|tragedy]]; and that this is only another way
+of saying that the experiment was a failure.  The point of the story
+is not that a man _can_ cut himself off from his [[Conscience|conscience]],
+but that he cannot.  The surgical operation is fatal in the story.
+It is an amputation of which both the parts die.  Jekyll, even in dying,
+declares the conclusion of the matter; that the load of man's
+moral struggle is bound upon him and cannot be thus escaped.
+The reason is that there can never be equality between the evil
+and the good.  Jekyll and Hyde are not twin brothers.
+They are rather, as one of them truly remarks, like father and son.
+After all, Jekyll created Hyde; Hyde would never have created Jekyll;
+he only destroyed Jekyll.  The notion is not so hackneyed as the critics
+find it, after Stevenson has found it for them thirty years ago.
+But Jekyll's claim is not that it is the first of such experiments
+in duality; but rather that it must be the last.

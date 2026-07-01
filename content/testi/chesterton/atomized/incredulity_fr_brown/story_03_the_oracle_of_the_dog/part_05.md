@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The Oracle of the Dog (part 5)"
+title: "incredulity Fr Brown — The Oracle of the Dog (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity_fr_brown/story_03_the_oracle_of_the_dog/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity_fr_brown/story_03_the_oracle_of_the_dog/part_06">part 06 ›</a></div>
 </nav>
 
+
+He was staring reflectively at the ceiling as he spoke, but as he said
+the last words his eye cocked in an alert fashion as if he had suddenly
+seen a curious fly on the ceiling.
+
+'[[Well]], what would you do about it?' asked the young man. 'You have a lot
+of experience; what would you advise now?'
 
 'I'm afraid I'm not much use,' said [[Father Brown]] with a sigh. 'I can't
 suggest very much without having ever been near the place or the people.

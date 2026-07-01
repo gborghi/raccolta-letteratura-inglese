@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]] — On Sandals and Simplicity"
+title: "heret12 — On Sandals and Simplicity"
 author: "Chesterton"
 unitType: story
 parentWork: "works/heret12-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 X. On Sandals and Simplicity
-
 
 The great misfortune of the modern English is not at all that they are more
 boastful than other people (they are not); it is that they are boastful

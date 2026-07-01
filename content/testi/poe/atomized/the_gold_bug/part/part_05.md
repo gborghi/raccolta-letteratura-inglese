@@ -1,5 +1,5 @@
 ---
-title: "[[The Gold-Bug]] (part 5)"
+title: "The Gold-Bug (part 5)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-gold-bug-(poe)"
@@ -13,6 +13,28 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_gold_bug/part/part_04">‹ part 04</a><a class="ex-next" href="/testi/poe/atomized/the_gold_bug/part/part_06">part 06 ›</a></div>
 </nav>
 
+
+      of the expedition. Having succeeded in inducing me to accompany
+
+      him, he seemed unwilling to hold conversation upon any topic of
+
+      minor importance, and to all my questions vouchsafed no other
+
+      reply than “we shall see!”
+
+
+
+      We crossed the creek at the head of the island by means of a
+
+      skiff, and, ascending the high grounds on the shore of the main
+
+      land, proceeded in a northwesterly direction, through a tract of
+
+      country excessively wild and desolate, where no trace of a human
+
+      footstep was to be seen. Legrand led the way with decision;
+
+      pausing only for an instant, here and there, to consult what
 
       appeared to be certain landmarks of his own contrivance upon a
 
@@ -221,37 +243,3 @@ tags:
       finally at rest. I had no alternative but to conclude him
 
       stricken with lunacy, and I became seriously anxious about
-
-      getting him [[Home|home]]. While I was pondering upon what was best to be
-
-      done, Jupiter’s voice was again heard.
-
-
-
-      “Mos feerd for to ventur pon dis limb berry far—’tis dead limb
-
-      putty much all de way.”
-
-
-
-      “Did you say it was a dead limb, Jupiter?” cried Legrand in a
-
-      quavering voice.
-
-
-
-      “Yes, massa, him dead as de door-nail—done up for sartain—done
-
-      departed dis here life.”
-
-
-
-      “What in the name heaven shall I do?” asked Legrand, seemingly in
-
-      the greatest distress.
-
-
-
-      “Do!” said I, glad of an opportunity to interpose a word, “why
-
-      come [[Home|home]] and go to bed. Come now!—that’s a fine fellow. It’s

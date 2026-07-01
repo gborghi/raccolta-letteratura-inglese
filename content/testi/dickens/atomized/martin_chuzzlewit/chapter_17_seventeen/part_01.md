@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 17: SEVENTEEN (part 1)"
+title: "Martin Chuzzlewit — Chapter 17: SEVENTEEN (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -130,18 +130,3 @@ throwing off the declaration with an air which might have implied that
 he had money enough for six months, instead of as many weeks; but poor
 he said he was, and grateful he said he would be, for any counsel that
 his friend would give him.
-
-It would not have been very difficult for any one to see; but it was
-particularly easy for Martin, whose perceptions were sharpened by his
-circumstances, to discern; that the stranger’s face grew infinitely
-longer as the domestic-architecture project was developed. Nor, although
-he made a great effort to be as encouraging as possible, could he
-prevent his head from shaking once involuntarily, as if it said in the
-vulgar tongue, upon its own account, ‘No go!’ But he spoke in a cheerful
-tone, and said, that although there was no such opening as Martin
-wished, in that [[City|city]], he would make it matter of immediate consideration
-and inquiry where one was most likely to exist; and then he made Martin
-acquainted with his name, which was Bevan; and with his profession,
-which was physic, though he seldom or never practiced; and with other
-circumstances connected with himself and family, which fully occupied
-the [[Time|time]], until they reached the Rowdy Journal Office.

@@ -1,5 +1,5 @@
 ---
-title: "[[Shaw]] — THE PROBLEM OF A PREFACE"
+title: "Shaw — THE PROBLEM OF A PREFACE"
 author: "Chesterton"
 unitType: story
 parentWork: "works/shaw-(chesterton)"

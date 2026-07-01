@@ -1,5 +1,5 @@
 ---
-title: "[[history]] — Chapter 5 (part 3)"
+title: "history — Chapter 5 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/history-(chesterton)"
@@ -13,6 +13,30 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/history/chapter_05/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/history/chapter_06/part_01">part 01 ›</a></div>
 </nav>
 
+
+That Feudalism was the main mark of the Middle Ages is a
+commonplace of fashionable information; but it is of the sort
+that seeks the past rather in Wardour Street than Watling Street.
+For that matter, the very term "mediaeval" is used for almost anything
+from Early English to Early Victorian.  An eminent Socialist applied
+it to our armaments, which is like applying it to our aeroplanes.
+Similarly the just description of Feudalism, and of how far it was
+a part and how far rather an impediment in the main mediaeval movement,
+is confused by current debates about quite modern things--
+especially that modern thing, the English squirearchy.  Feudalism was
+very nearly the opposite of squirearchy.  For it is the whole point
+of the squire that his ownership is absolute and is pacific.
+And it is the very definition of Feudalism that it was a tenure,
+and a tenure by military service.  Men paid their rent in steel instead
+of gold, in spears and arrows against the enemies of their landlord.
+But even these landlords were not landlords in the modern sense;
+every one was practically as [[Well|well]] as theoretically a tenant of the [[King]];
+and even he often fell into a feudal inferiority to a Pope or an Emperor.
+To call it mere tenure by soldiering may seem a simplification;
+but indeed it is precisely here that it was not so simple as it seems.
+It is precisely a certain knot or enigma in the [[Nature|nature]] of
+Feudalism which makes half the struggle of European [[history]],
+but especially English [[history]].
 
 There was a certain unique type of state and culture
 which we call mediaeval, for want of a better word,

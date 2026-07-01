@@ -1,5 +1,5 @@
 ---
-title: "The Fall of [[Hyperion]] — Canto I"
+title: "The Fall of Hyperion — Canto I"
 author: "Keats"
 unitType: section
 parentWork: "works/the-fall-of-hyperion-(keats)"

@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity]] — The Oracle of the Dog (part 5)"
+title: "Incredulity — The Oracle of the Dog (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-(chesterton)"
@@ -14,7 +14,14 @@ tags:
 </nav>
 
 
-`I'm afraid I'm not much use,' said Father Brown with a sigh.
+He was staring reflectively at the ceiling as he spoke,
+but as he said the last words his eye cocked in an alert fashion
+as if he had suddenly seen a curious fly on the ceiling.
+
+`[[Well]], what would you do about it?' asked the young man.
+`You have a lot of experience; what would you advise now?'
+
+`I'm afraid I'm not much use,' said [[Father Brown]] with a sigh.
 `I can't suggest very much without having ever been near
 the place or the people.  For the moment you can only go
 on with local inquiries.  I gather that your friend from
@@ -23,7 +30,7 @@ down there.  I should run down and see how he is getting on.
 See what he's been doing in the way of amateur detection.
 There may be news already.'
 
-As his guests, the biped and the quadruped, disappeared, [[Father Brown]]
+As his guests, the biped and the quadruped, disappeared, Father Brown
 took up his pen and went back to his interrupted occupation
 of planning a course of lectures on the Encyclical Rerum Novarum.
 The subject was a large one and he had to recast it more than once,
@@ -40,37 +47,37 @@ out what Harry Druce was doing.  Do you know what he's done?'
 The priest did not reply, and the young man went on in jerky tones:
 I'll tell you what he's done.  He's killed himself.'
 
-[[Father Brown]]'s lips moved only faintly, and there was nothing
+Father Brown's lips moved only faintly, and there was nothing
 practical about what he was saying--nothing that has anything
 to do with this story or this world.
 
 `You give me the creeps sometimes,' said Fiennes.  `Did you--
 did you expect this?'
 
-`I thought it possible,' said Father Brown; `that was why I asked you
+`I thought it possible,' said [[Father Brown]]; `that was why I asked you
 to go and see what he was doing.  I hoped you might not be too late.'
 
 `It was I who found him,' said Fiennes rather huskily.
-`It was the ugliest and most [[Uncanny|uncanny]] thing fever knew.
-I went down that old [[Garden|garden]] again, and I knew there was
+`It was the ugliest and most uncanny thing fever knew.
+I went down that old garden again, and I knew there was
 something new and unnatural about it besides the murder.
-The [[Flowers|flowers]] still tossed about in blue masses on each side
-of the black entrance into the old grey [[Summer|summer]]--[[house]]; but to me
-the blue [[Flowers|flowers]] looked like blue devils dancing before some dark
+The flowers still tossed about in blue masses on each side
+of the black entrance into the old grey summer--house; but to me
+the blue flowers looked like blue devils dancing before some dark
 cavern of the underworld.  I looked all round, everything seemed
 to be in its ordinary place.  But the queer notion grew on me
 that there was something wrong with the very shape of the sky.
-And then I saw what it was.  The Rock of Fortune always [[Rose|rose]]
-in the background beyond the [[Garden|garden]] hedge and against the sea.
+And then I saw what it was.  The Rock of Fortune always rose
+in the background beyond the garden hedge and against the sea.
 The Rock of Fortune was gone.'
 
-[[Father Brown]] had lifted his head and was listening intently.
+Father Brown had lifted his head and was listening intently.
 
 `It was as if a mountain had walked away out of a landscape
-or a moon fallen from the sky; though I knew, of course,
-that a touch at any time would have tipped the thing over.
-Something possessed me and I rushed down that garden path
-like the wind and went crashing through that hedge as if it
+or a [[Moon|moon]] fallen from the sky; though I knew, of course,
+that a touch at any [[Time|time]] would have tipped the thing over.
+Something possessed me and I rushed down that [[Garden|garden]] path
+like the [[Wind|wind]] and went crashing through that hedge as if it
 were a spider's web.  It was a thin hedge really, though its
 undisturbed trimness had made it serve all the purposes of a wall.
 On the shore I found the loose rock fallen from its pedestal;
@@ -78,9 +85,9 @@ and poor Harry Druce lay like a wreck underneath it.
 One arm was thrown round it in a sort of embrace as if he had
 pulled it down on himself; and on the broad brown sands beside it,
 in large crazy lettering, he had scrawled the words:
-`The Rock of Fortune falls on the [[Fool]]'.'--
+`The Rock of Fortune falls on the Fool'.'--
 
-`It was the Colonel's will that did that,' observed Father Brown.
+`It was the Colonel's will that did that,' observed [[Father Brown]].
 `The young man had staked everything on profiting himself
 by Donald's disgrace, especially when his uncle sent for him on
 the same day as the lawyer, and welcomed him with so much warmth.
@@ -91,7 +98,7 @@ his kinsman for nothing.'
 `Here, stop a minute!' cried the staring Fiennes.
 `You're going too fast for me.'
 
-`Talking about the will, by the way,' continued Father Brown calmly,'
+`Talking about the will, by the way,' continued [[Father Brown]] calmly,'
 before I forget it, or we go on to bigger things, there was a simple
 explanation, I think, of all that business about the doctor's name.
 I rather fancy I have heard both names before somewhere.
@@ -104,11 +111,11 @@ his title and fallen back on the forgotten family surname.
 
 `Never mind,' said the priest.  `Nine times out of ten it
 is a rascally thing to change one's name; but this was a piece
-of fine fanaticism.  That's the point of his sarcasm about
+of fine [[Fanaticism|fanaticism]].  That's the point of his sarcasm about
 Americans having no names--that is, no titles.  Now in England
 the Marquis of Hartington is never called Mr Hartington;
 but in France the Marquis de Villon is called M. de Villon.
-So it might well look like a change of name.  As for the talk
+So it might [[Well|well]] look like a change of name.  As for the talk
 about killing, I fancy that also was a point of French etiquette.
 The doctor was talking about challenging Floyd to a duel,
 and the girl was trying to dissuade him.'
@@ -117,18 +124,18 @@ and the girl was trying to dissuade him.'
 
 `And what is that about?' asked his companion, smiling.
 
-`Well,' said the young man, `it was something that happened to me
-just before I found that poor fellow's [[Body|body]]; only the catastrophe
+`[[Well]],' said the young man, `it was something that happened to me
+just before I found that poor fellow's body; only the catastrophe
 drove it out of my head.  I suppose it's hard to remember a little
-romantic idyll when you've just come on top of a [[Tragedy|tragedy]].
+romantic idyll when you've just come on top of a tragedy.
 But as I went down the lanes leading to the Colonel's old place I
-met his daughter walking with Dr [[Valentine]].  She was in mourning,
+met his daughter walking with Dr Valentine.  She was in mourning,
 of course, and he always wore black as if he were going to
 a funeral; but I can't say that their faces were very funereal.
 Never have I seen two people looking in their own way more
 respectably radiant and cheerful.  They stopped and saluted me,
 and then she told me they were married and living in a little
-[[house]] on the outskirts of the town, where the doctor was
+house on the outskirts of the town, where the doctor was
 continuing his practice.  This rather surprised me, because I
 knew that her old father's will had left her his property;
 and I hinted at it delicately by saying I was going along to her

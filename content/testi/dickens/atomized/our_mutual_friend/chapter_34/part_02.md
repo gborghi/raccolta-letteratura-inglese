@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 10 (part 2)"
+title: "Our Mutual Friend — Chapter 12 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,175 +10,160 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_34/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_35/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_34/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_34/part_03">part 03 ›</a></div>
 </nav>
 
 
-‘It is a matter of feeling with Mrs Boffin,’ said Rokesmith, gently.
-‘The name has always been unfortunate. It has now this new unfortunate
-association connected with it. The name has died out. Why revive it?
-Might I ask Miss Wilfer what she thinks?’
+Taking notice of Pleasant Riderhood at the door, the man crossed so
+quickly that she was still winding herself up, when he stood close
+before her.
 
-‘It has not been a fortunate name for me,’ said Bella, colouring—‘or
-at least it was not, until it led to my being here—but that is not the
-point in my thoughts. As we had given the name to the poor [[Child|child]], and as
-the poor [[Child|child]] took so lovingly to me, I think I should feel jealous of
-calling another [[Child|child]] by it. I think I should feel as if the name had
-become endeared to me, and I had no right to use it so.’
+‘Is your father at [[Home|home]]?’ said he.
 
-‘And that’s your opinion?’ remarked Mr Boffin, observant of the
-Secretary’s face and again addressing him.
+‘I think he is,’ returned Pleasant, dropping her arms; ‘come in.’
 
-‘I say again, it is a matter of feeling,’ returned the Secretary. ‘I
-think Miss Wilfer’s feeling very womanly and pretty.’
+It was a tentative reply, the man having a seafaring appearance. Her
+father was not at [[Home|home]], and Pleasant knew it. ‘Take a seat by the [[Fire|fire]],’
+were her hospitable words when she had got him in; ‘men of your calling
+are always welcome here.’
 
-‘Now, give us your opinion, Noddy,’ said Mrs Boffin.
+‘Thankee,’ said the man.
 
-‘My opinion, old lady,’ returned the Golden Dustman, ‘is your opinion.’
+His manner was the manner of a sailor, and his hands were the hands of
+a sailor, except that they were smooth. Pleasant had an eye for sailors,
+and she noticed the unused colour and texture of the hands, sunburnt
+though they were, as sharply as she noticed their unmistakable looseness
+and suppleness, as he sat himself down with his left arm carelessly
+thrown across his left leg a little above the knee, and the right arm
+as carelessly thrown over the elbow of the wooden chair, with the hand
+curved, half open and half shut, as if it had just let go a rope.
 
-‘Then,’ said Mrs Boffin, ‘we agree not to revive [[John Harmon]]’s name, but
-to let it rest in the [[Grave|grave]]. It is, as Mr Rokesmith says, a matter of
-feeling, but Lor how many matters ARE matters of feeling! [[Well]]; and so
-I come to the second thing I have thought of. You must know, Bella,
-my dear, and Mr Rokesmith, that when I first named to my husband my
-thoughts of adopting a little [[Orphan|orphan]] boy in remembrance of [[John Harmon]],
-I further named to my husband that it was comforting to think that how
-the poor boy would be benefited by John’s own money, and protected from
-John’s own forlornness.’
+‘Might you be looking for a Boarding-[[house|House]]?’ Pleasant inquired, taking
+her observant stand on one side of the [[Fire|fire]].
 
-‘Hear, hear!’ cried Mr Boffin. ‘So she did. Ancoar!’
+‘I don’t rightly know my plans yet,’ returned the man.
 
-‘No, not Ancoar, Noddy, my dear,’ returned Mrs Boffin, ‘because I am
-going to say something else. I meant that, I am sure, as much as
-I still mean it. But this little [[Death|death]] has made me ask myself the
-question, seriously, whether I wasn’t too bent upon pleasing myself.
-Else why did I seek out so much for a pretty [[Child|child]], and a [[Child|child]] quite to
-my liking? Wanting to do good, why not do it for its own sake, and put
-my tastes and likings by?’
+‘You ain’t looking for a Leaving Shop?’
 
-‘Perhaps,’ said Bella; and perhaps she said it with some little
-sensitiveness arising out of those old curious relations of hers towards
-the murdered man; ‘perhaps, in reviving the name, you would not have
-liked to give it to a less interesting [[Child|child]] than the original. He
-interested you very much.’
+‘No,’ said the man.
 
-‘[[Well]], my dear,’ returned Mrs Boffin, giving her a squeeze, ‘it’s kind
-of you to find that reason out, and I [[Hope|hope]] it may have been so, and
-indeed to a certain extent I believe it was so, but I am afraid not to
-the whole extent. However, that don’t come in question now, because we
-have done with the name.’
+‘No,’ assented Pleasant, ‘you’ve got too much of an outfit on you for
+that. But if you should want either, this is both.’
 
-‘Laid it up as a remembrance,’ suggested Bella, musingly.
+‘Ay, ay!’ said the man, glancing round the place. ‘I know. I’ve been
+here before.’
 
-‘Much better said, my dear; laid it up as a remembrance. [[Well]] then; I
-have been thinking if I take any [[Orphan|orphan]] to provide for, let it not be
-a pet and a plaything for me, but a creature to be helped for its own
-sake.’
+‘Did you Leave anything when you were here before?’ asked Pleasant, with
+a view to principal and interest.
 
-‘Not pretty then?’ said Bella.
+‘No.’ The man shook his head.
 
-‘No,’ returned Mrs Boffin, stoutly.
+‘I am pretty sure you never boarded here?’
 
-‘Nor prepossessing then?’ said Bella.
+‘No.’ The man again shook his head.
 
-‘No,’ returned Mrs Boffin. ‘Not necessarily so. That’s as it may happen.
-A [[Well|well]]-disposed boy comes in my way who may be even a little wanting in
-such advantages for getting on in life, but is honest and industrious
-and requires a helping hand and deserves it. If I am very much in
-earnest and quite determined to be unselfish, let me take care of HIM.’
+‘What DID you do here when you were here before?’ asked Pleasant. ‘For I
+don’t remember you.’
 
-Here the footman whose feelings had been hurt on the former occasion,
-appeared, and crossing to Rokesmith apologetically announced the
-objectionable Sloppy.
+‘It’s not at all likely you should. I only stood at the door, one
+[[Night|night]]—on the lower step there—while a shipmate of mine looked in to
+speak to your father. I remember the place [[Well|well]].’ Looking very curiously
+round it.
 
-The four members of Council looked at one another, and paused. ‘Shall he
-be brought here, ma’am?’ asked Rokesmith.
+‘Might that have been long ago?’
 
-‘Yes,’ said Mrs Boffin. Whereupon the footman disappeared, reappeared
-presenting Sloppy, and retired much disgusted.
+‘Ay, a goodish bit ago. When I came off my last voyage.’
 
-The consideration of Mrs Boffin had clothed Mr Sloppy in a suit of
-black, on which the tailor had received personal directions from
-Rokesmith to expend the utmost cunning of his art, with a view to the
-concealment of the cohering and sustaining buttons. But, so much
-more powerful were the frailties of Sloppy’s form than the strongest
-resources of tailoring science, that he now stood before the Council,
-a perfect Argus in the way of buttons: shining and winking and gleaming
-and twinkling out of a hundred of those eyes of bright metal, at the
-dazzled spectators. The artistic taste of some unknown hatter had
-furnished him with a hatband of wholesale capacity which was fluted
-behind, from the [[Crown|crown]] of his hat to the brim, and terminated in a black
-bunch, from which the [[Imagination|imagination]] shrunk discomfited and the reason
-revolted. Some special powers with which his legs were endowed, had
-already hitched up his glossy trousers at the ankles, and bagged them at
-the knees; while similar gifts in his arms had raised his coat-sleeves
-from his wrists and accumulated them at his elbows. Thus set forth, with
-the additional embellishments of a very little tail to his coat, and a
-yawning gulf at his waistband, Sloppy stood confessed.
+‘Then you have not been to sea lately?’
 
-‘And how is Betty, my good fellow?’ Mrs Boffin asked him.
+‘No. Been in the sick bay since then, and been employed ashore.’
 
-‘Thankee, mum,’ said Sloppy, ‘she do pretty nicely, and sending her
-dooty and many thanks for the tea and all faviours and wishing to know
-the family’s healths.’
+‘Then, to be sure, that accounts for your hands.’
 
-‘Have you just come, Sloppy?’
+The man with a keen look, a quick smile, and a change of manner, caught
+her up. ‘You’re a good observer. Yes. That accounts for my hands.’
 
-‘Yes, mum.’
+Pleasant was somewhat disquieted by his look, and returned it
+suspiciously. Not only was his change of manner, though very sudden,
+quite collected, but his former manner, which he resumed, had a
+certain suppressed confidence and sense of power in it that were half
+threatening.
 
-‘Then you have not had your dinner yet?’
+‘Will your father be long?’ he inquired.
 
-‘No, mum. But I mean to it. For I ain’t forgotten your handsome orders
-that I was never to go away without having had a good ’un off of meat
-and beer and pudding—no: there was four of ’em, for I reckoned ’em
-up when I had ’em; meat one, beer two, vegetables three, and which was
-four?—Why, pudding, HE was four!’ Here Sloppy threw his head back,
-opened his mouth wide, and laughed rapturously.
+‘I don’t know. I can’t say.’
 
-‘How are the two poor little Minders?’ asked Mrs Boffin.
+‘As you supposed he was at [[Home|home]], it would seem that he has just gone
+out? How’s that?’
 
-‘Striking right out, mum, and coming round beautiful.’
+‘I supposed he had come [[Home|home]],’ Pleasant explained.
 
-Mrs Boffin looked on the other three members of Council, and then said,
-beckoning with her finger:
+‘Oh! You supposed he had come [[Home|home]]? Then he has been some [[Time|time]] out?
+How’s that?’
 
-‘Sloppy.’
+‘I don’t want to deceive you. Father’s on the [[River|river]] in his boat.’
 
-‘Yes, mum.’
+‘At the old work?’ asked the man.
 
-‘Come forward, Sloppy. Should you like to dine here every day?’
+‘I don’t know what you mean,’ said Pleasant, shrinking a step back.
+‘What on earth d’ye want?’
 
-‘Off of all four on ’em, mum? O mum!’ Sloppy’s feelings obliged him to
-squeeze his hat, and contract one leg at the knee.
+‘I don’t want to hurt your father. I don’t want to say I might, if I
+chose. I want to speak to him. Not much in that, is there? There shall
+be no [[Secrets|secrets]] from you; you shall be by. And plainly, Miss Riderhood,
+there’s nothing to be got out of me, or made of me. I am not good for
+the Leaving Shop, I am not good for the Boarding-[[house|House]], I am not good
+for anything in your way to the extent of sixpenn’orth of halfpence. Put
+the idea aside, and we shall get on together.’
 
-‘Yes. And should you like to be always taken care of here, if you were
-industrious and deserving?’
+‘But you’re a seafaring man?’ argued Pleasant, as if that were a
+sufficient reason for his being good for something in her way.
 
-‘Oh, mum!—But there’s Mrs Higden,’ said Sloppy, checking himself in his
-raptures, drawing back, and shaking his head with very serious meaning.
-‘There’s Mrs Higden. Mrs Higden goes before all. None can ever be better
-friends to me than Mrs Higden’s been. And she must be turned for, must
-Mrs Higden. Where would Mrs Higden be if she warn’t turned for!’ At the
-mere thought of Mrs Higden in this inconceivable affliction, Mr Sloppy’s
-countenance became pale, and manifested the most distressful emotions.
+‘Yes and no. I have been, and I may be again. But I am not for you.
+Won’t you take my word for it?’
 
-‘You are as right as right can be, Sloppy,’ said Mrs Boffin ‘and far be
-it from me to tell you otherwise. It shall be seen to. If Betty Higden
-can be turned for all the same, you shall come here and be taken care of
-for life, and be made able to keep her in other ways than the turning.’
+The conversation had arrived at a crisis to justify Miss Pleasant’s hair
+in tumbling down. It tumbled down accordingly, and she twisted it up,
+looking from under her bent forehead at the man. In taking stock of his
+familiarly worn rough-weather nautical clothes, piece by piece, she took
+stock of a formidable knife in a sheath at his waist ready to his hand,
+and of a whistle hanging round his neck, and of a short jagged knotted
+club with a loaded head that peeped out of a pocket of his loose
+outer jacket or frock. He sat quietly looking at her; but, with these
+appendages partially revealing themselves, and with a quantity
+of bristling oakum-coloured head and whisker, he had a formidable
+appearance.
 
-‘Even as to that, mum,’ answered the ecstatic Sloppy, ‘the turning might
-be done in the [[Night|night]], don’t you see? I could be here in the day, and
-turn in the [[Night|night]]. I don’t want no [[Sleep|sleep]], I don’t. Or even if I any ways
-should want a wink or two,’ added Sloppy, after a moment’s apologetic
-reflection, ‘I could take ’em turning. I’ve took ’em turning many a
-[[Time|time]], and enjoyed ’em wonderful!’
+‘Won’t you take my word for it?’ he asked again.
 
-On the grateful impulse of the moment, Mr Sloppy kissed Mrs Boffin’s
-hand, and then detaching himself from that good creature that he might
-have room enough for his feelings, threw back his head, opened his mouth
-wide, and uttered a dismal howl. It was creditable to his tenderness of
-heart, but suggested that he might on occasion give some offence to the
-neighbours: the rather, as the footman looked in, and begged pardon,
-finding he was not wanted, but excused himself; on the ground ‘that he
-thought it was Cats.’
+Pleasant answered with a short dumb nod. He rejoined with another short
+dumb nod. Then he got up and stood with his arms folded, in front of
+the [[Fire|fire]], looking down into it occasionally, as she stood with her arms
+folded, leaning against the side of the chimney-piece.
+
+‘To wile away the [[Time|time]] till your father comes,’ he said,—‘pray is there
+much robbing and murdering of seamen about the [[Water|water]]-side now?’
+
+‘No,’ said Pleasant.
+
+‘Any?’
+
+‘Complaints of that sort are sometimes made, about Ratcliffe and Wapping
+and up that way. But who knows how many are true?’
+
+‘To be sure. And it don’t seem necessary.’
+
+‘That’s what I say,’ observed Pleasant. ‘Where’s the reason for it?
+Bless the sailors, it ain’t as if they ever could keep what they have,
+without it.’
+
+‘You’re right. Their money may be soon got out of them, without
+violence,’ said the man.
+
+‘Of course it may,’ said Pleasant; ‘and then they [[Ship|ship]] again and get
+more. And the best thing for ’em, too, to [[Ship|ship]] again as soon as ever
+they can be brought to it. They’re never so [[Well|well]] off as when they’re
+afloat.’
+
+‘I’ll tell you why I ask,’ pursued the visitor, looking up from the
+[[Fire|fire]]. ‘I was once beset that way myself, and left for dead.’

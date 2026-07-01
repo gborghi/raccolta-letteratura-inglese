@@ -195,5 +195,3 @@ CHAPTER 3
       adventure with the phosphorus, before the thought suggested
 
       itself that I had examined only one side of the paper. I shall
-
-      not attempt to describe my feelings of rage (for I believe I was

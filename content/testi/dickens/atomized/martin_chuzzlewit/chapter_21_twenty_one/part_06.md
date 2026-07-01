@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 21: TWENTY ONE (part 6)"
+title: "Martin Chuzzlewit — Chapter 21: TWENTY ONE (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_21_twenty_one/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_21_twenty_one/part_07">part 07 ›</a></div>
 </nav>
 
+
+‘Mr Scadder,’ said the General, assuming his oratorical deportment.
+‘Sir! Here is my hand, and here my heart. I esteem you, sir, and ask
+your pardon. These gentlemen air friends of mine, or I would not have
+brought ‘em here, sir, being [[Well|well]] aware, sir, that the lots at present
+go entirely too cheap. But these air friends, sir; these air partick’ler
+friends.’
 
 Mr Scadder was so satisfied by this explanation, that he shook the
 General warmly by the hand, and got out of the rocking-chair to do it.
@@ -28,7 +35,7 @@ but some geological and botanical specimens, one or two rusty ledgers, a
 homely desk, and a stool. ‘Heyday! what’s that?’
 
 ‘That’s Eden,’ said Scadder, picking his teeth with a sort of young
-bayonet that flew out of his knife when he touched a [[Spring|spring]].
+bayonet that flew out of his knife when he touched a [[spring]].
 
 ‘Why, I had no idea it was a [[City|city]].’
 
@@ -150,22 +157,3 @@ very minutest hair’s breadth of a shade. At length, after wheeling his
 toothpick slowly round and round in the air, as if it were a carrier
 pigeon just thrown up, he suddenly made a dart at the drawing, and
 pierced the very centre of the main wharf, through and through.
-
-‘There!’ he said, leaving his knife quivering in the wall; ‘that’s where
-it is!’
-
-Martin glanced with sparkling eyes upon his Co., and his Co. saw that
-the thing was done.
-
-The bargain was not concluded as easily as might have been expected
-though, for Scadder was caustic and ill-humoured, and cast much
-unnecessary opposition in the way; at one [[Time|time]] requesting them to think
-of it, and call again in a week or a fortnight; at another, predicting
-that they wouldn’t like it; at another, offering to retract and let them
-off, and muttering strong imprecations upon the folly of the General.
-But the whole of the astoundingly small sum total of purchase-money--it
-was only one hundred and fifty dollars, or something more than thirty
-pounds of the capital brought by Co. into the architectural concern--was
-ultimately paid down; and Martin’s head was two inches nearer the roof
-of the little wooden office, with the consciousness of being a landed
-proprietor in the thriving [[City|city]] of Eden.

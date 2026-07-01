@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 30 (part 2)"
+title: "Northanger Abbey — Chapter 30 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_31/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_31/part_03">part 03 ›</a></div>
 </nav>
 
+
+perplexity of words in reply, the meaning, which one short syllable
+
+would have given, immediately expressed his intention of paying his
+
+respects to them, and, with a rising colour, asked her if she would
+
+have the goodness to show him the way. “You may see the [[house]] from this
 
 [[Window|window]], sir,” was information on Sarah’s side, which produced only a
 
@@ -179,17 +187,3 @@ which he boasted with almost equal openness), seemed sufficient
 vouchers for his [[Truth|truth]]; and to these were added the absolute facts of
 
 the Allens being wealthy and childless, of Miss Morland’s being under
-
-their care, and—as soon as his acquaintance allowed him to judge—of
-
-their treating her with parental kindness. His resolution was soon
-
-formed. Already had he discerned a liking towards Miss Morland in the
-
-countenance of his son; and thankful for Mr. Thorpe’s communication, he
-
-almost instantly determined to spare no pains in weakening his boasted
-
-interest and ruining his dearest hopes. Catherine herself could not be
-
-more ignorant at the [[Time|time]] of all this, than his own children. Henry and

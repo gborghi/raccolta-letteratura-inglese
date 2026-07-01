@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 3 (part 1)"
+title: "Our Mutual Friend — Chapter 5 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,138 +10,134 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_26/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_27/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_26/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_27/part_02">part 02 ›</a></div>
 </nav>
 
 
-Chapter 3
+Chapter 5
 
-A PIECE OF WORK
+MERCURY PROMPTING
 
 
-Britannia, sitting meditating one fine day (perhaps in the attitude in
-which she is presented on the copper coinage), discovers all of a sudden
-that she wants Veneering in Parliament. It occurs to her that Veneering
-is ‘a representative man’—which cannot in these times be doubted—and
-that Her Majesty’s faithful Commons are incomplete without him. So,
-Britannia mentions to a legal gentleman of her acquaintance that if
-Veneering will ‘put down’ five thousand pounds, he may write a couple
-of initial letters after his name at the extremely cheap rate of two
-thousand five hundred per letter. It is clearly understood between
-Britannia and the legal gentleman that nobody is to take up the five
-thousand pounds, but that being put down they will disappear by magical
-conjuration and enchantment.
+Fledgeby deserved Mr Alfred Lammle’s eulogium. He was the meanest
+cur existing, with a single pair of legs. And instinct (a word we all
+clearly understand) going largely on four legs, and reason always on
+two, meanness on four legs never attains the perfection of meanness on
+two.
 
-The legal gentleman in Britannia’s confidence going straight from that
-lady to Veneering, thus commissioned, Veneering declares himself highly
-flattered, but requires breathing [[Time|time]] to ascertain ‘whether his friends
-will rally round him.’ Above all things, he says, it behoves him to be
-clear, at a crisis of this importance, ‘whether his friends will rally
-round him.’ The legal gentleman, in the interests of his client cannot
-allow much [[Time|time]] for this purpose, as the lady rather thinks she knows
-somebody prepared to put down six thousand pounds; but he says he will
-give Veneering four hours.
+The father of this young gentleman had been a money-lender, who
+had transacted professional business with the mother of this
+young gentleman, when he, the latter, was waiting in the vast dark
+ante-chambers of the present world to be born. The lady, a widow, being
+unable to pay the money-lender, married him; and in due course, Fledgeby
+was summoned out of the vast dark ante-chambers to come and be presented
+to the Registrar-General. Rather a curious speculation how Fledgeby
+would otherwise have disposed of his leisure until Doomsday.
 
-Veneering then says to Mrs Veneering, ‘We must work,’ and throws himself
-into a Hansom cab. Mrs Veneering in the same moment relinquishes baby
-to [[Nurse]]; presses her aquiline hands upon her brow, to arrange the
-throbbing intellect within; orders out the carriage; and repeats in
-a distracted and devoted manner, compounded of [[Ophelia]] and any
-[[Self|self]]-immolating female of antiquity you may prefer, ‘We must work.’
+Fledgeby’s mother offended her family by marrying Fledgeby’s father. It
+is one of the easiest achievements in life to offend your family when
+your family want to get rid of you. Fledgeby’s mother’s family had
+been very much offended with her for being poor, and broke with her
+for becoming comparatively rich. Fledgeby’s mother’s family was the
+Snigsworth family. She had even the high [[Honour|honour]] to be cousin to Lord
+Snigsworth—so many times removed that the noble Earl would have had no
+compunction in removing her one [[Time|time]] more and dropping her clean outside
+the cousinly pale; but cousin for all that.
 
-Veneering having instructed his driver to charge at the Public in the
-streets, like the Life-Guards at Waterloo, is driven furiously to Duke
-Street, Saint James’s. There, he finds Twemlow in his lodgings, fresh
-from the hands of a secret [[artist]] who has been doing something to his
-hair with yolks of eggs. The process requiring that Twemlow shall, for
-two hours after the application, allow his hair to stick upright and dry
-gradually, he is in an appropriate state for the receipt of startling
-intelligence; looking equally like the Monument on Fish Street [[Hill]], and
-[[King]] Priam on a certain incendiary occasion not wholly unknown as a neat
-point from the classics.
+Among her pre-matrimonial transactions with Fledgeby’s father,
+Fledgeby’s mother had raised money of him at a great disadvantage on a
+certain reversionary interest. The reversion falling in soon after they
+were married, Fledgeby’s father laid hold of the cash for his separate
+use and benefit. This led to subjective differences of opinion, not to
+say objective interchanges of boot-jacks, backgammon boards, and other
+such domestic missiles, between Fledgeby’s father and Fledgeby’s mother,
+and those led to Fledgeby’s mother spending as much money as she
+could, and to Fledgeby’s father doing all he couldn’t to restrain her.
+Fledgeby’s [[Childhood|childhood]] had been, in consequence, a stormy one; but the
+winds and the waves had gone down in the [[Grave|grave]], and Fledgeby flourished
+[[Alone|alone]].
 
-‘My dear Twemlow,’ says Veneering, grasping both his hands, ‘as the
-dearest and oldest of my friends—’
+He lived in chambers in the Albany, did Fledgeby, and maintained a
+spruce appearance. But his youthful [[Fire|fire]] was all composed of sparks from
+the grindstone; and as the sparks flew off, went out, and never warmed
+anything, be sure that Fledgeby had his tools at the grindstone, and
+turned it with a wary eye.
 
-(‘Then there can be no more [[Doubt|doubt]] about it in future,’ thinks Twemlow,
-‘and I AM!’)
+Mr Alfred Lammle came round to the Albany to breakfast with Fledgeby.
+Present on the table, one scanty pot of tea, one scanty loaf, two scanty
+pats of butter, two scanty rashers of bacon, two pitiful eggs, and an
+abundance of handsome china bought a secondhand bargain.
 
-‘—Are you of opinion that your cousin, Lord Snigsworth, would give his
-name as a Member of my Committee? I don’t go so far as to ask for his
-lordship; I only ask for his name. Do you think he would give me his
-name?’
+‘What did you think of Georgiana?’ asked Mr Lammle.
 
-In sudden low spirits, Twemlow replies, ‘I don’t think he would.’
+‘Why, I’ll tell you,’ said Fledgeby, very deliberately.
 
-‘My political opinions,’ says Veneering, not previously aware of having
-any, ‘are identical with those of Lord Snigsworth, and perhaps as a
-matter of public feeling and public principle, Lord Snigsworth would
-give me his name.’
+‘Do, my boy.’
 
-‘It might be so,’ says Twemlow; ‘but—’ And perplexedly scratching his
-head, forgetful of the yolks of eggs, is the more discomfited by being
-reminded how stickey he is.
+‘You misunderstand me,’ said Fledgeby. ‘I don’t mean I’ll tell you that.
+I mean I’ll tell you something else.’
 
-‘Between such old and intimate friends as ourselves,’ pursues Veneering,
-‘there should in such a case be no reserve. Promise me that if I ask you
-to do anything for me which you don’t like to do, or feel the slightest
-difficulty in doing, you will freely tell me so.’
+‘Tell me anything, old fellow!’
 
-This, Twemlow is so kind as to promise, with every appearance of most
-heartily intending to keep his word.
+‘Ah, but there you misunderstand me again,’ said Fledgeby. ‘I mean I’ll
+tell you nothing.’
 
-‘Would you have any objection to write down to Snigsworthy Park, and ask
-this favour of Lord Snigsworth? Of course if it were granted I should
-know that I owed it solely to you; while at the same [[Time|time]] you would put
-it to Lord Snigsworth entirely upon public grounds. Would you have any
-objection?’
+Mr Lammle sparkled at him, but frowned at him too.
 
-Says Twemlow, with his hand to his forehead, ‘You have exacted a promise
-from me.’
+‘Look here,’ said Fledgeby. ‘You’re deep and you’re ready. Whether I am
+deep or not, never mind. I am not ready. But I can do one thing, Lammle,
+I can hold my tongue. And I intend always doing it.’
 
-‘I have, my dear Twemlow.’
+‘You are a long-headed fellow, Fledgeby.’
 
-‘And you expect me to keep it honourably.’
+‘May be, or may not be. If I am a short-tongued fellow, it may amount to
+the same thing. Now, Lammle, I am never going to answer questions.’
 
-‘I do, my dear Twemlow.’
+‘My dear fellow, it was the simplest question in the world.’
 
-‘ON the whole, then;—observe me,’ urges Twemlow with great nicety, as
-if; in the case of its having been off the whole, he would have done it
-directly—‘ON the whole, I must beg you to excuse me from addressing any
-communication to Lord Snigsworth.’
+‘Never mind. It seemed so, but things are not always what they seem. I
+saw a man examined as a witness in Westminster Hall. Questions put to
+him seemed the simplest in the world, but turned out to be anything
+rather than that, after he had answered ’em. Very [[Well|well]]. Then he should
+have held his tongue. If he had held his tongue he would have kept out
+of scrapes that he got into.’
 
-‘Bless you, bless you!’ says Veneering; horribly disappointed, but
-grasping him by both hands again, in a particularly fervent manner.
+‘If I had held my tongue, you would never have seen the subject of my
+question,’ remarked Lammle, darkening.
 
-It is not to be wondered at that poor Twemlow should decline to inflict
-a letter on his noble cousin (who has gout in the temper), inasmuch
-as his noble cousin, who allows him a small annuity on which he lives,
-takes it out of him, as the phrase goes, in extreme severity; putting
-him, when he visits at Snigsworthy Park, under a kind of martial law;
-ordaining that he shall hang his hat on a particular peg, sit on a
-particular chair, talk on particular subjects to particular people, and
-perform particular exercises: such as sounding the praises of the Family
-Varnish (not to say Pictures), and abstaining from the choicest of the
-Family Wines unless expressly invited to partake.
+‘Now, Lammle,’ said Fascination Fledgeby, calmly feeling for his
+whisker, ‘it won’t do. I won’t be led on into a discussion. I can’t
+manage a discussion. But I can manage to hold my tongue.’
 
-‘One thing, however, I CAN do for you,’ says Twemlow; ‘and that is, work
-for you.’
+‘Can?’ Mr Lammle fell back upon propitiation. ‘I should think you could!
+Why, when these fellows of our acquaintance drink and you drink with
+them, the more talkative they get, the more silent you get. The more
+they let out, the more you keep in.’
 
-Veneering blesses him again.
+‘I don’t object, Lammle,’ returned Fledgeby, with an internal chuckle,
+‘to being understood, though I object to being questioned. That
+certainly IS the way I do it.’
 
-‘I’ll go,’ says Twemlow, in a rising hurry of spirits, ‘to the
-club;—let us see now; what o’[[Clock|clock]] is it?’
+‘And when all the rest of us are discussing our ventures, none of us
+ever know what a single venture of yours is!’
 
-‘Twenty minutes to eleven.’
+‘And none of you ever will from me, Lammle,’ replied Fledgeby, with
+another internal chuckle; ‘that certainly IS the way I do it.’
 
-‘I’ll be,’ says Twemlow, ‘at the club by ten minutes to twelve, and I’ll
-never leave it all day.’
+‘Why of course it is, I know!’ rejoined Lammle, with a flourish of
+frankness, and a laugh, and stretching out his hands as if to show
+the universe a remarkable man in Fledgeby. ‘If I hadn’t known it of my
+Fledgeby, should I have proposed our little compact of advantage, to my
+Fledgeby?’
 
-Veneering feels that his friends are rallying round him, and says,
-‘Thank you, thank you. I knew I could rely upon you. I said to Anastatia
-before leaving [[Home|home]] just now to come to you—of course the first friend
-I have seen on a subject so momentous to me, my dear Twemlow—I said to
-Anastatia, “We must work.”’
+‘Ah!’ remarked Fascination, shaking his head slyly. ‘But I am not to
+be got at in that way. I am not vain. That sort of [[Vanity|vanity]] don’t pay,
+Lammle. No, no, no. Compliments only make me hold my tongue the more.’
 
-‘You were right, you were right,’ replies Twemlow. ‘Tell me. Is SHE
-working?’
+Alfred Lammle pushed his plate away (no great sacrifice under the
+circumstances of there being so little in it), thrust his hands in his
+pockets, leaned back in his chair, and contemplated Fledgeby in [[Silence|silence]].
+Then he slowly released his left hand from its pocket, and made that
+bush of his whiskers, still contemplating him in [[Silence|silence]]. Then he slowly
+broke [[Silence|silence]], and slowly said: ‘What—the—Dev-il is this fellow about
+this morning?’

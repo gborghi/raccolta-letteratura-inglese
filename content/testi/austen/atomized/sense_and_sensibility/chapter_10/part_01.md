@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 10 (part 1)"
+title: "Sense and Sensibility — Chapter 10 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -209,5 +209,3 @@ much what he thought on every occasion, without attention to persons or
 circumstances. In hastily forming and giving his opinion of other
 
 people, in sacrificing general politeness to the enjoyment of undivided
-
-attention where his heart was engaged, and in slighting too easily the

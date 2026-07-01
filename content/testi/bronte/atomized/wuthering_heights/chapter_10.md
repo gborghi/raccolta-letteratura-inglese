@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 10"
+title: "Wuthering Heights — Chapter 10"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/wuthering-heights-(bronte)"
@@ -22,7 +22,7 @@ tossing, and sickness! Oh, these bleak winds and bitter northern skies,
 and impassable roads, and dilatory country surgeons! And oh, this
 dearth of the human physiognomy! and, worse than all, the terrible
 intimation of Kenneth that I need not expect to be out of doors till
-[[spring]]!
+[[Spring|spring]]!
 
 Mr. [[Heathcliff]] has just honoured me with a call. About seven days ago
 he sent me a brace of grouse—the last of the season. Scoundrel! He is
@@ -48,7 +48,7 @@ Keep your fingers from that bitter phalanx of vials. Draw your knitting
 out of your pocket—that will do—now continue the [[history]] of Mr.
 [[Heathcliff]], from where you left off, to the present day. Did he finish
 his [[Education|education]] on the Continent, and come back a gentleman? or did he
-get a sizar’s place at college, or escape to [[America]], and earn honours
+get a sizar’s place at college, or escape to [[america|America]], and earn honours
 by drawing [[Blood|blood]] from his foster-country? or make a fortune more
 promptly on the English highways?”
 
@@ -678,4 +678,4 @@ visits were a continual [[nightmare]] to me; and, I suspected, to my master
 also. His abode at the Heights was an oppression past explaining. I
 felt that God had forsaken the stray sheep there to its own wicked
 wanderings, and an evil beast prowled between it and the fold, waiting
-his [[Time|time]] to [[spring]] and destroy.
+his [[Time|time]] to [[Spring|spring]] and destroy.

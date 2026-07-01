@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 77 (part 3)"
+title: "Barnaby Rudge — Chapter 77 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,31 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_77/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_77/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘I [[Fear|fear]],’ observed the clergyman, shaking his head, ‘that you are
+incorrigible.’
+
+‘You’re right. I am,’ rejoined Hugh sternly. ‘Be no hypocrite, master!
+You make a merry-making of this, every month; let me be merry, too. If
+you want a frightened fellow there’s one that’ll suit you. Try your hand
+upon him.’
+
+He pointed, as he spoke, to Dennis, who, with his legs trailing on the
+ground, was held between two men; and who trembled so, that all his
+joints and limbs seemed racked by spasms. Turning from this wretched
+spectacle, he called to Barnaby, who stood apart.
+
+‘What cheer, Barnaby? Don’t be downcast, lad. Leave that to HIM.’
+
+‘Bless you,’ cried Barnaby, stepping lightly towards him, ‘I’m not
+frightened, Hugh. I’m quite happy. I wouldn’t [[Desire|desire]] to live now,
+if they’d let me. Look at me! Am I afraid to die? Will they see ME
+tremble?’
+
+Hugh gazed for a moment at his face, on which there was a strange,
+unearthly smile; and at his eye, which sparkled brightly; and
+interposing between him and the Ordinary, gruffly whispered to the
+latter:
 
 ‘I wouldn’t say much to him, master, if I was you. He may spoil your
 appetite for breakfast, though you ARE used to it.’
@@ -103,26 +128,3 @@ possession--that he could tell nothing unless they gave him [[Time|time]], but
 must die with them on his mind; and he continued to rave in this sort
 until his voice failed him, and he sank down a mere heap of clothes
 between the two attendants.
-
-It was at this moment that the [[Clock|clock]] struck the first stroke of twelve,
-and the bell began to toll. The various officers, with the two sheriffs
-at their head, moved towards the door. All was ready when the last chime
-came upon the ear.
-
-They told Hugh this, and asked if he had anything to say.
-
-‘To say!’ he cried. ‘Not I. I’m ready.--Yes,’ he added, as his eye fell
-upon Barnaby, ‘I have a word to say, too. Come hither, lad.’
-
-There was, for the moment, something kind, and even tender, struggling
-in his fierce aspect, as he wrung his poor companion by the hand.
-
-‘I’ll say this,’ he cried, looking firmly round, ‘that if I had ten
-lives to lose, and the loss of each would give me ten times the agony
-of the hardest [[Death|death]], I’d lay them all down--ay, I would, though you
-gentlemen may not believe it--to save this one. This one,’ he added,
-wringing his hand again, ‘that will be lost through me.’
-
-‘Not through you,’ said the idiot, mildly. ‘Don’t say that. You were
-not to blame. You have always been very good to me.--Hugh, we shall know
-what makes the [[Stars|stars]] shine, NOW!’

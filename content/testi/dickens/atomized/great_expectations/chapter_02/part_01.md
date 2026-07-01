@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 2 (part 1)"
+title: "Great Expectations — Chapter 2 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -136,11 +136,3 @@ moulding the butter off round the crust. Then, she gave the knife a
 final smart wipe on the edge of the plaster, and then sawed a very
 thick round off the loaf: which she finally, before separating from the
 loaf, hewed into two halves, of which Joe got one, and I the other.
-
-On the present occasion, though I was hungry, I dared not eat my slice.
-I felt that I must have something in reserve for my dreadful
-acquaintance, and his ally the still more dreadful young man. I knew
-Mrs. Joe’s housekeeping to be of the strictest kind, and that my
-larcenous researches might find nothing available in the safe.
-Therefore I resolved to put my hunk of bread and butter down the leg of
-my trousers.

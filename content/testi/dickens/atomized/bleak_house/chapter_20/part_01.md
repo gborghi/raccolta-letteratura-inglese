@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 20 (part 1)"
+title: "Bleak House — Chapter 20 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -140,6 +140,3 @@ Mr. Guppy replying that he is not much to boast of, Mr. Jobling
 ventures on the question, “How is SHE?” This Mr. Guppy resents as a
 liberty, retorting, “Jobling, there ARE chords in the human mind—”
 Jobling begs pardon.
-
-“Any subject but that!” says Mr. Guppy with a gloomy enjoyment of his
-injury. “For there ARE chords, Jobling—”

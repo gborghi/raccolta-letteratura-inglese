@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 55 (part 1)"
+title: "Great Expectations — Chapter 55 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -135,11 +135,3 @@ to your business, leave the question open for a little while—”
 Herbert was highly delighted when we shook hands on this arrangement,
 and said he could now take [[Courage|courage]] to tell me that he believed he must
 go away at the end of the week.
-
-“And Clara?” said I.
-
-“The dear little thing,” returned Herbert, “holds dutifully to her
-father as long as he lasts; but he won’t last long. Mrs. Whimple
-confides to me that he is certainly going.”
-
-“Not to say an unfeeling thing,” said I, “he cannot do better than go.”

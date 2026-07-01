@@ -1,5 +1,5 @@
 ---
-title: "[[AllThingsConsidered-8]] — SCIENCE AND RELIGION"
+title: "AllThingsConsidered-8 — SCIENCE AND RELIGION"
 author: "Chesterton"
 unitType: story
 parentWork: "works/allthingsconsidered-8-(chesterton)"
@@ -10,12 +10,11 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/allthingsconsidered-8-(chesterton)">AllThingsConsidered 8</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_21_the_worship_of_the_wealthy">‹ Story 21 THE WORSHIP OF THE WEALTHY</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_23_the_methuselahite">Story 23 THE METHUSELAHITE ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_21_the_worship_of_the_wealthy">‹ Story 21 THE WORSHIP OF THE WEALTHY</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_23_the_methuselahite_methuselahite">Story 23 THE methuselahite METHUSELAHITE ›</a></div>
 </nav>
 
 
 SCIENCE AND RELIGION
-
 
 In these days we are accused of attacking science because we want it
 to be scientific.  Surely there is not any undue disrespect to our doctor

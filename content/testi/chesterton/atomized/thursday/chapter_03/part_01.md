@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 3 (part 1)"
+title: "thursday — Chapter 3 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -17,7 +17,6 @@ tags:
                          CHAPTER III
 
                   THE MAN WHO WAS [[thursday|THURSDAY]]
-
 
 BEFORE one of the fresh faces could appear at the doorway,
 Gregory's stunned surprise had fallen from him.  He was beside
@@ -143,6 +142,3 @@ the last secret of his virtue and his [[innocence]]."
 There was a stir of almost inaudible applause, such as is sometimes heard
 in church.  Then a large old man, with a long and venerable white beard,
 perhaps the only real working-man present, [[Rose|rose]] lumberingly and said--
-
-"I move that Comrade Gregory be elected [[thursday|Thursday]]," and sat
-lumberingly down again.

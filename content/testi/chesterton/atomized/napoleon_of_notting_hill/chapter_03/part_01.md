@@ -1,5 +1,5 @@
 ---
-title: "Napoleon of Notting [[Hill]] — Chapter 3 (part 1)"
+title: "Napoleon of Notting Hill — Chapter 3 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/napoleon-of-notting-hill-(chesterton)"
@@ -144,11 +144,3 @@ gradual mental processes, did not see any joke in them.
 But the finer sense of Barker perceived it."
 
 Barker turned a fierce red, but continued to stare at the horizon.
-
-"You ass," said Lambert; "why can't you be like other people?
-Why can't you say something really funny, or hold your tongue?
-The man who sits on his hat in a pantomime is a long sight funnier
-than you are."
-
-Quin regarded him steadily.  They had reached the top of the ridge
-and the [[Wind|wind]] struck their faces.

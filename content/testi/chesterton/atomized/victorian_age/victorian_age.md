@@ -141,7 +141,7 @@ birthday book would be to forge about as real a chain as the "Tacitus,
 
 more, perhaps, to accuracy: and it might satisfy that school of critics
 
-who hold that every [[Artist|artist]] should be treated as a solitary craftsman,
+who hold that every [[artist]] should be treated as a solitary craftsman,
 
 indifferent to the commonwealth and unconcerned about moral things. To
 
@@ -183,7 +183,7 @@ without that conviction Newman would not be a writer like Newman; and
 
 probably not a writer at all. It is useless for the æsthete (or any
 
-other anarchist) to urge the isolated individuality of the [[Artist|artist]], apart
+other anarchist) to urge the isolated individuality of the [[artist]], apart
 
 from his attitude to his age. His attitude to his age is his
 
@@ -1545,7 +1545,7 @@ finds its right level. It began with what we may call the "[[Bible]] of
 
 revelation of the divine. Thus any enormous and unaltered human
 
-settlement--as the Norman Conquest or the secession of [[america|America]]--we must
+settlement--as the Norman Conquest or the secession of [[America]]--we must
 
 suppose to be the will of God. It lent itself to picturesque treatment;
 
@@ -1751,7 +1751,7 @@ say of him that he seemed to want all parts of the [[Cathedral]] except the
 
 altar.
 
-As an [[Artist|artist]] in prose he is one of the most miraculous products of the
+As an [[artist]] in prose he is one of the most miraculous products of the
 
 extremely poetical genius of England. The length of a Ruskin sentence is
 
@@ -1943,7 +1943,7 @@ who could smile the same smile as the mother of [[Helen]] and the mother of
 
 Mary. But it is the high-[[Water|water]] mark of that vast attempt at an
 
-impartiality reached through art: and no other mere [[Artist|artist]] ever [[Rose|rose]] so
+impartiality reached through art: and no other mere [[artist]] ever [[Rose|rose]] so
 
 high again.
 
@@ -3349,7 +3349,7 @@ Pecksniff, or even of catching Mr. Mantalini collecting the washing, if
 
 one always lurked about on Monday mornings. This sentiment (the true
 
-[[Artist|artist]] will be relieved to hear) is entirely unmoral. Mrs. Wilfer
+[[artist]] will be relieved to hear) is entirely unmoral. Mrs. Wilfer
 
 deserved [[Death|death]] much more than Mr. Quilp, for she had succeeded in
 
@@ -4215,7 +4215,7 @@ employ; because they will not fit into anything, hardly into the world
 
 itself. Where [[Germany]] or [[Italy]] would relieve the monotony of mankind by
 
-paying serious respect to an [[Artist|artist]], or a scholar, or a patriotic
+paying serious respect to an [[artist]], or a scholar, or a patriotic
 
 warrior, or a priest--it was always the instinct of the English to do it
 
@@ -4383,7 +4383,7 @@ in Virgil or in Chaucer or in Shakespeare or in Dryden; such things as
 
 they knew they knew. It is no disgrace to Homer that he had not
 
-discovered Britain; or to Virgil that he had not discovered [[america|America]]; or
+discovered Britain; or to Virgil that he had not discovered [[America]]; or
 
 to Chaucer that he had not discovered the solar system; or to Dryden
 
@@ -4733,7 +4733,7 @@ was no anarchist and no mystagogue; and even where he was defective, his
 
 defect has commonly been stated wrongly. The two chief charges against
 
-him were a contempt for form unworthy of an [[Artist|artist]], and a poor [[Pride|pride]] in
+him were a contempt for form unworthy of an [[artist]], and a poor [[Pride|pride]] in
 
 obscurity. The obscurity is true, though not, I think, the [[Pride|pride]] in it;
 
@@ -4827,7 +4827,7 @@ it.
 
 The obscurity, to which he must in a large degree plead guilty, was,
 
-curiously enough, the result rather of the gay [[Artist|artist]] in him than the
+curiously enough, the result rather of the gay [[artist]] in him than the
 
 deep thinker. It is patience in the Browning students; in Browning it
 
@@ -5327,7 +5327,7 @@ Burne-[[Jones]], he would have been a painter who wrote [[Poems|poems]]. It is o
 
 note on the very threshold of the extreme art movement that this great
 
-[[Artist|artist]] largely succeeded by not defining his art. His [[Poems|poems]] were too
+[[artist]] largely succeeded by not defining his art. His [[Poems|poems]] were too
 
 pictorial. His pictures were too poetical. That is why they really
 
@@ -5619,7 +5619,7 @@ happened to-morrow. They named their books by cold titles suggesting
 
 straight corridors of marble--titles like _Looking Backward_. But Morris
 
-was an [[Artist|artist]] as [[Well|well]] as an anarchist. _News from Nowhere_ is an
+was an [[artist]] as [[Well|well]] as an anarchist. _News from Nowhere_ is an
 
 irresponsible title; and it is an irresponsible book. It does not
 
@@ -6319,7 +6319,7 @@ And they utterly lost the light and reason of their existence: they were
 
 masters of the clumsy and the incongruous. I will take only one example.
 
-Aubrey Beardsley may be admired as an [[Artist|artist]] or no; he does not enter
+Aubrey Beardsley may be admired as an [[artist]] or no; he does not enter
 
 into the scope of this book. But it is true that there is a certain
 
@@ -6335,7 +6335,7 @@ thing Beardsley could express (and the only thing he could express), it
 
 is the solemn and awful fact that he was set down to illustrate Malory's
 
-_Morte d'Arthur_. There is no need to say more; taste, in the [[Artist|artist]]'s
+_Morte d'Arthur_. There is no need to say more; taste, in the [[artist]]'s
 
 sense, must have been utterly dead. They might as [[Well|well]] have employed
 
@@ -6377,7 +6377,7 @@ boldest pages of Bernard [[Shaw]].
 
 Before we pass on to the two expansive movements in which the Victorian
 
-Age really ended, the accident of a distinguished [[Artist|artist]] is available
+Age really ended, the accident of a distinguished [[artist]] is available
 
 for estimating this somewhat cool and sad afternoon of the epoch at its
 
@@ -6739,7 +6739,7 @@ Broadly, the phase in which the Victorian epoch closed was what can only
 
 be called the Imperialist phase. Between that and us stands a very
 
-individual [[Artist|artist]] who must nevertheless be connected with that phase. As
+individual [[artist]] who must nevertheless be connected with that phase. As
 
 I said at the beginning, Macaulay (or, rather, the mind Macaulay shared
 

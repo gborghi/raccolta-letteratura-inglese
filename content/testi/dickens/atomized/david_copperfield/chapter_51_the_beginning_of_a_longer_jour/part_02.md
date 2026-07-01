@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 51: THE BEGINNING OF A LONGER [[Journey|JOURNEY]] (part 2)"
+title: "David Copperfield — Chapter 51: THE BEGINNING OF A LONGER [[Journey|JOURNEY (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_51_the_beginning_of_a_longer_jour/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_51_the_beginning_of_a_longer_jour/part_03">part 03 ›</a></div>
 </nav>
 
+
+He was more affected by this act of kindness, than I had ever seen him
+affected by anything since the [[Night|night]] she went away. My aunt and I did
+not attempt to disturb him.
 
 ‘It was a little cottage, you may suppose,’ he said, presently, ‘but she
 found space for Em’ly in it,--her husband was away at sea,--and she kep

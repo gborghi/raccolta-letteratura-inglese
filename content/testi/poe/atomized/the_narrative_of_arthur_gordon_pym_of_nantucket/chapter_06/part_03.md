@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 7 (part 3)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 7 (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_06/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_07/part_01">part 01 ›</a></div>
 </nav>
 
+
+like those occasioned by the erysipelas: one of these splotches
+
+extended diagonally across the face, completely covering up an eye as
+
+if with a band of red velvet. In this disgusting condition the [[Body|body]] had
+
+been brought up from the cabin at [[Noon|noon]] to be thrown overboard, when the
+
+mate getting a glimpse of it (for he now saw it for the first [[Time|time]]),
+
+and being either touched with remorse for his crime or struck with
 
 terror at so horrible a sight, ordered the men to sew the [[Body|body]] up in
 

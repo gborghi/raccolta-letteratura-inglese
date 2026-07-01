@@ -14,118 +14,147 @@ tags:
 </nav>
 
 
-One of the great philosophers said that it would be [[Well|well]]
-if philosophers were kings, or kings were philosophers.
-He spoke as of something too good to be true; but, as a matter of fact,
-it not unfrequently was true.  A certain type, perhaps too little
-noticed in [[history]], may really be called the royal philosopher.
-To begin with, apart from actual royalty, it did occasionally
-become possible for the sage, though he was not what we call
-a religious founder, to be something like a political founder.
-And the great example of this, one of the very greatest in the world,
-will with the very thought of it carry us thousands of miles across
-the vast spaces of Asia to that very wonderful and in some ways that
-very wise world of ideas and institutions, which we dismiss somewhat
-cheaply when we talk of China.  Men have served many very strange gods;
-and trusted themselves loyally to many ideals and even idols.
-China is a society that has really chosen to believe in intellect.
-It has taken intellect seriously; and it may be that it stands [[Alone|alone]]
-in the world.  From a very early age it faced the dilemma of the [[King|king]]
-and the philosopher by actually appointing a philosopher to advise
-the [[King|king]].  It made a public institution out of a private individual,
-who had nothing in the world to do but to be intellectual.
-It had and has, of course, many other things on the same pattern.
-It creates all ranks and privileges by public examination;
-it has nothing that we call an aristocracy; it is a [[democracy]]
-dominated by an intelligensia.  But the point here is that it had
-philosophers to advise kings; and one of those philosophers must
-have been a great philosopher and a great statesman.
+The civilisation that centered in Tyre and Sidon was above
+all things practical.  It has left little in the way of art
+and nothing in the way of poetry.  But it prided itself upon being
+very efficient; and it followed in its [[philosophy]] and religion
+that strange and sometimes secret train of thought which we
+have already noted in those who look for immediate effects.
+There is always in such a mentality an idea that there is a short
+cut to the secret of all [[success]]; something that would shock
+the world by this sort of shameless thoroughness.  They believed,
+in the appropriate modern phrase, in people who delivered the goods.
+In their dealings with their god Moloch, they themselves were always
+careful to deliver the goods.  It was an interesting transaction,
+upon which we shall have to touch more than once in the rest of
+the narrative; it is enough to say here that it involved the theory
+I have suggested, about a certain attitude towards children.
+This was what called up against it in simultaneous fury the servant of one
+God in Palestine and the guardians of all the household gods in Rome.
+This is what challenged two things naturally so much divided by every
+sort of distance and disunion, whose [[Union|union]] was to save the world.
 
-Confucius was not a religious founder or even a religious teacher;
-possibly not even a religious man.  He was not an atheist;
-he was apparently what we call an agnostic.  But the really vital point
-is that it is utterly irrelevant to talk about his religion at all.
-It is like talking of theology as the first thing in the story
-of how Rowland [[Hill]] established the postal system or Baden Powell
-organised the Boy Scouts.  Confucius was not there to bring a
-message from heaven to humanity, but to organise China; and he must
-have organised it exceedingly [[Well|well]].  It follows that he dealt
-much with morals; but he bound them up strictly with manners.
-The peculiarity of his scheme and of his country, in which it
-contrasts with its great pendant the system of Christendom,
-is that he insisted on perpetuating an external life with all
-its forms, that outward continuity might preserve internal peace.
-Anyone who knows how much habit has to do with health,
-of mind as [[Well|well]] as [[Body|body]], will see the [[Truth|truth]] in his idea.
-But he will also see that the ancestor-worship and the reverence
-for the Sacred Emperor were habits and not creeds.  It is unfair
-to the great Confucius to say he was a religious founder.
-It is even unfair to him to say he was not a religious founder.
-It is as unfair as going out of one's way to say that Jeremy Bentham
-was not a Christian martyr.
+I have called the fourth and final division of the spiritual
+elements into which I should divide heathen humanity by the name
+of The Philosophers.  I confess that it covers in my mind much
+that would generally be classified otherwise; and that what are
+here called philosophies are very often called religions.
+I believe however that my own description will be found
+to be much the more realistic and not the less respectful.
+But we must first take [[philosophy]] in its purest and clearest form
+that we may trace its normal outline; and that is to be found
+in the world of the purest and clearest outlines, that culture of
+the Mediterranean of which we have been considering the mythologies
+and idolatries in the last two chapters.
 
-But there is a class of most interesting cases in which
-philosophers were kings, and not merely the friends of kings.
-The combination is not accidental.  It has a great deal to do with
-this rather elusive question of the function of the philosopher.
-It contains in it some hint of why [[philosophy]] and mythology
-seldom came to an open rupture.  It was not only because there
-was something a little frivolous about the mythology.
-It was also because there was something a little supercilious
-about the philosopher.  He despised the myths, but he also
-despised the mob; and thought they suited each other.  The pagan
-philosopher was seldom a man of the people, at any rate in spirit;
-he was seldom a democrat and often a bitter critic of [[democracy]].
-He had about him an air of aristocratic and humane leisure;
-and his part was most easily played by men who happened to be
-in such a position.  It was very easy and natural for a prince
-or a prominent person to play at being as philosophical as [[Hamlet]]
-or [[Theseus]] in the Midsummer [[Night]]'s Dream.  And from very early ages
-we find ourselves in the presence of these princely intellectuals.
-In fact, we find one of them in the very first recorded [[Ages of the World|ages of the world]];
-sitting on the primeval throne that looked over ancient [[Egypt]].
+Polytheism, or that aspect of paganism, was never to the pagan
+what Catholicism is to the Catholic.  It was never a view of the
+universe satisfying all sides of life; a complete and complex [[Truth|truth]]
+with something to say about everything.  It was only a satisfaction
+of one side of the [[Soul|soul]] of man, even if we call it the religious side;
+and I think it is truer to call it the imaginative side.
+But this it did satisfy; in the end it satisfied it to satiety.
+All that world was a tissue of interwoven tales and cults, and there ran
+in and out of it, as we have already seen, that black thread among its
+more blameless colours; the darker paganism that was really diabolism.
+But we all know that this did not mean that all pagan men thought
+of nothing but pagan gods.  Precisely because mythology only satisfied
+one mood, they turned in other moods to something totally different.
+But it is very important to realise that it was totally different.
+It was too different to be inconsistent.  It was so alien that it
+did not clash.  While a mob of people were pouring on a public
+holiday to the feast of [[Adonis]] or the games in [[Honour|honour]] of [[Apollo]],
+this or that man would prefer to stop at [[Home|home]] and think out
+a little theory about the [[Nature|nature]] of things.  Sometimes his hobby
+would even take the form of thinking about the [[Nature|nature]] of God;
+or even in that sense about the [[Nature|nature]] of the gods.
+But he very seldom thought of pitting his [[Nature|nature]] of the gods against
+the gods of [[Nature|nature]].
 
-The most intense interest of the incident of Akenahten, commonly called
-the Heretic Pharaoh, lies in the fact that he was the one example, at any
-rate before Christian times, of one of these royal philosophers who set
-himself to fight popular mythology in the name of private [[philosophy]].
-Most of them assumed the attitude of Marcus Aurelius,
-who is in many ways the model of this sort of monarch and sage.
-Marcus Aurelius has been blamed for tolerating the pagan amphitheatre
-or the Christian martyrdoms.  But it was characteristic;
-for this sort of man really thought of popular religion just as
-he thought of popular circuses.  Of him Professor Phillimore has
-profoundly said 'a great and good man--and he knew it.'  The heretic
-Pharaoh had a [[philosophy]] more earnest and perhaps more humble.
-For there is a corollary to the conception of being too proud to fight.
-It is that the humble have to do most of the fighting.
-Anyhow, the Egyptian prince was simple enough to take his own
-[[philosophy]] seriously, and [[Alone|alone]] among such intellectual princes
-he affected a sort of coup d'etat; hurling down the high gods of [[Egypt]]
-with one imperial gesture and lifting up for all men, like a blazing
-[[Mirror|mirror]] of monotheistic [[Truth|truth]], the disc of the universal sun.
-He had other interesting ideas often to be found in such idealists.
-In the sense in which we speak of a Little Englander he was a
-Little Egypter.  In art he was a realist because he was an idealist;
-for realism is more impossible than any other ideal.  But after
-all there falls on him something of the [[Shadow|shadow]] of Marcus Aurelius,
-stalked by the [[Shadow|shadow]] of Professor Phillimore.  That is the matter
-with this noble sort of prince is that he has nowhere quite escaped
-being something of a prig.  Priggishness is so pungent a smell
-that it clings amid the faded spices even to an Egyptian mummy.
-That was the matter with the heretic Pharaoh, as with a good many
-other heretics, was that he probably never paused to ask himself
-whether there was anything in the popular beliefs and tales
-of people less educated than himself.  And, as already suggested,
-there was something in them.  There was a real human hunger
-in all that element of feature and locality, that procession
-of deities like enormous pet [[Animals|animals]], in that unwearied watching
-at certain haunted spots, in all the many wanderings of mythology.
-[[Nature]] may not have the name of Isis; Isis may not be really
-looking for Osiris.  But it is true that [[Nature]] is really looking
-for something; [[Nature]] is always looking for the [[Supernatural|supernatural]].
-Something much more definite was to satisfy that need; but a dignified
-monarch with a disc of the sun did not satisfy it.  The royal
-experiment failed amid a roaring reaction of popular superstitions,
-in which the priests [[Rose|rose]] on the shoulders of the people and ascended
-the throne of the kings.
+It is necessary to insist on this abstraction in the first student
+of abstractions.  He was not so much antagonistic as absent-minded.
+His hobby might be the universe; but at first the hobby was
+as private as if it had been numismatics or playing draughts.
+And even when his wisdom came to be a public possession,
+and almost a political situation, it was very seldom on
+the same plane as the popular and religious institutions.
+Aristotle, with his colossal common sense, was perhaps the greatest
+of all philosophers; certainly the most practical of all philosophies.
+But Aristotle would no more have set up the Absolute side by side
+with the [[Apollo]] of Delphi, as a similar or rival religion,
+than Archimedes would have thought of setting up the lever as a sort
+of idol or fetish to be substituted for the Palladium of the [[City|city]].
+Or we might as [[Well|well]] imagine Euclid building an altar to an isosceles
+triangle, or offering sacrifices to the square of the hypotenuse.
+The one man meditated on metaphysics as the other man did on mathematics;
+for the [[Love|love]] of [[Truth|truth]] or for curiosity or for the fun of the thing.
+But that sort of fun never seems to have interfered very much with
+the other sort of fun; the fun of dancing or singing to celebrate
+some rascally [[Romance|romance]] about Zeus becoming a bull or a swan.
+It is perhaps the proof of a certain superficiality and even
+insincerity about the popular polytheism, that men could
+be philosophers and even sceptics without disturbing it.
+These thinkers could move the foundations of the world without
+altering even the outline of that coloured cloud that hung above
+it in the air.
+
+For the thinkers did move the foundations of the world,
+even when a curious compromise seemed to prevent them from
+moving the foundations of the [[City|city]].  The two great philosophers
+of antiquity do indeed appear to us as defenders of sane and even
+of sacred ideas; their maxims often read like the answers to
+sceptical questions too completely answered to be always recorded.
+Aristotle annihilated a hundred anarchists and [[Nature|nature]]-worshipping
+cranks by the fundamental statement that man is a political animal.
+Plato in some sense anticipated the Catholic realism, as attacked
+by the heretical nominalism, by insisting on the equally fundamental
+fact that ideas are realities; that ideas exist just as men exist.
+Plato however seemed sometimes almost to fancy that ideas exist as men
+do not exist; or that the men need hardly be considered where they
+conflict with the ideas.  He had something of the social sentiment
+that we call Fabian in his ideal of fitting the citizen to the [[City|city]].
+Like an imaginary head to an ideal hat; and great and glorious
+as he remains, he has been the Father of all faddists.
+Aristotle anticipated more fully the sacramental [[Sanity|sanity]] that was
+to combine the [[Body|body]] and the [[Soul|soul]] of things; for he considered
+the [[Nature|nature]] of men as [[Well|well]] as the [[Nature|nature]] of morals, and looked
+to the eyes as [[Well|well]] as to the light.  But though these great men
+were in that sense constructive and conservative, they belonged
+to a world where thought was free to the point of being fanciful.
+Many other great intellects did indeed follow them,
+some exalting an abstract vision of virtue, others following more
+rationalistically the necessity of the human pursuit of happiness.
+The former had the name of Stoics; and their name has passed into
+a proverb for what is indeed one of the main moral ideals of mankind:
+that of strengthening the mind itself until it is of a texture to
+resist calamity or even [[Pain|pain]].  But it is admitted that a great number
+of the philosophers degenerated into what we still call sophists.
+They became a sort of professional sceptics who went about asking
+uncomfortable questions, and were handsomely paid for making themselves
+a nuisance to normal people.  It was perhaps an accidental resemblance
+to such questioning quacks that was responsible for the unpopularity
+of the great Socrates; whose [[Death|death]] might seem to contradict the suggestion
+of the permanent truce between the philosophers and the gods.
+But Socrates did not die as a monotheist who denounced polytheism;
+certainly not as a [[Prophet|prophet]] who denounced idols.  It is clear to anyone
+reading between the lines that there was some notion, right or wrong,
+of a purely personal influence affecting morals and perhaps politics.
+The general compromise remained, whether it was that the Greeks thought
+their myths a joke or that they thought their theories a joke.
+There was never any collision in which one really destroyed the other,
+and there was never any combination in which one was really
+reconciled with the other.  They certainly did not work together;
+if anything the philosopher was a rival of the priest.
+But both seemed to have accepted a sort of separation of functions
+and remained parts of the same social system.  Another important
+tradition descends from Pythagoras; who is significant because he stands
+nearest to the Oriental mystics who must be considered in their turn.
+He taught a sort of mysticism of mathematics, that number is the
+ultimate reality; but he also seems to have taught the transmigration
+of souls like the Brahmins; and to have left to his followers
+certain traditional tricks of vegetarianism and [[Water|water]]-drinking
+very common among the eastern sages, especially those who figure
+in fashionable drawing-rooms, like those of the later Roman Empire.
+But in passing to eastern sages, and the somewhat different
+atmosphere of the east, we may approach a rather important [[Truth|truth]]
+by other path.

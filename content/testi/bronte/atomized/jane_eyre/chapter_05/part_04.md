@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 5 (part 4)"
+title: "Jane Eyre — Chapter 5 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_05/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_05/part_05">part 05 ›</a></div>
 </nav>
 
+
+“I have a word to address to the pupils,” said she.
+
+The tumult of cessation from lessons was already breaking forth, but it
+sank at her voice. She went on—
 
 “You had this morning a breakfast which you could not eat; you must be
 hungry:—I have ordered that a lunch of bread and [[cheese]] shall be served
@@ -141,10 +146,3 @@ and whose son overlooks and directs everything here.”
 “Why?”
 
 “Because he is treasurer and manager of the establishment.”
-
-“Then this [[house]] does not belong to that tall lady who wears a watch,
-and who said we were to have some bread and [[cheese]]?”
-
-“To Miss Temple? Oh, no! I wish it did: she has to answer to Mr.
-Brocklehurst for all she does. Mr. Brocklehurst buys all our food and
-all our clothes.”

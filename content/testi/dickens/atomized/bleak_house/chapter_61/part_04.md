@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 61 (part 4)"
+title: "Bleak House — Chapter 61 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_61/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_62/part_01">part 01 ›</a></div>
 </nav>
 
+
+Something seemed to pass into my place that was like the angel he
+thought me, and I felt so sorrowful for the loss he had sustained! I
+wished to help him in his trouble, as I had wished to do when he
+showed that first commiseration for me.
 
 “Dear Mr. Woodcourt,” said I, “before we part to-[[Night|night]], something is
 left for me to say. I never could say it as I wish—I never

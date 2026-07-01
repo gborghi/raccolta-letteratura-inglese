@@ -1,5 +1,5 @@
 ---
-title: "The [[Comedy]] of Errors — Act V, Scene 1 — monologue ([[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]]) [6]"
+title: "The Comedy of Errors — Act V, Scene 1 — monologue (ANTIPHOLUS OF EPHESUS) [6]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-comedy-of-errors-(shakespeare)"

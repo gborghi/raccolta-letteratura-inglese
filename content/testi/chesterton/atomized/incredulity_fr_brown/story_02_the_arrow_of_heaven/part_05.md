@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The Arrow of Heaven (part 5)"
+title: "incredulity Fr Brown — The Arrow of Heaven (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -13,6 +13,44 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity_fr_brown/story_02_the_arrow_of_heaven/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity_fr_brown/story_02_the_arrow_of_heaven/part_06">part 06 ›</a></div>
 </nav>
 
+
+'I don't think you've got the moral quite right,' said [[Father Brown]].
+
+Although the little priest appeared to melt into the millions of New
+York next day, without any apparent attempt to be anything but a number
+in a numbered street, he was, in fact, unobtrusively busy for the next
+fortnight with the commission that had been given him, for he was filled
+with profound [[Fear|fear]] about a possible miscarriage of justice. Without
+having any particular air of singling them out from his other new
+acquaintances, he found it easy to fall into talk with the two or three
+men recently involved in the mystery; and with old Hickory Crake
+especially he had a curious and interesting conversation. It took place
+on a seat in Central Park, where the veteran sat with his bony hands and
+hatchet face resting on the oddly - shaped head of a walking - stick of
+dark red wood, possibly modelled on a tomahawk.
+
+'[[Well]], it may be a long shot,' he said, wagging his head, 'but I
+wouldn't advise you to be too positive about how far an Indian arrow
+could go. I've known some bow - shots that seemed to go straighter than
+any bullets, and hit the mark to amazement, considering how long they
+had been travelling. Of course, you practically never hear now of a Red
+Indian with a bow and arrows, still less of a Red Indian hanging about
+here. But if by any chance there were one of the old Indian marksmen,
+with one of the old Indian bows, hiding in those trees hundreds of yards
+beyond the Merton outer wall - why, then I wouldn't put it past the
+noble savage to be able to send an arrow over the wall and into the top
+[[Window|window]] of Merton's [[house]]; no, nor into Merton, either. I've seen things
+quite as wonderful as that done in the old days.'
+
+'No [[Doubt|doubt]],' said the priest, 'you have done things quite as wonderful,
+as [[Well|well]] as seen them.'
+
+Old Crake chuckled, and then said gruffly: 'Oh, that's all ancient
+[[history]].'
+
+'Some people have a way of studying ancient [[history]],' the priest said.
+'I suppose we may take it there is nothing in your old record In make
+people talk unpleasantly about this affair.'
 
 'What do you mean?' demanded Crake, his eyes shifting sharply for the
 first [[Time|time]], in his red, wooden face, that was rather like I he head of a
@@ -85,59 +123,3 @@ enough for practical purposes.'
 '[[Well]], yes,' began the young man, almost automatically, and then ceased,
 and remained staring at the cleric with an open mouth and eyes standing
 out of his head.
-
-'My God!' he said, in a low voice;' my God!'
-
-Then he [[Rose|rose]] from the lounge seat, pale and shaking from head to foot
-and still staring at the priest.
-
-'Are you mad?' he said;' are you raving mad?'
-
-There was a [[Silence|silence]] and then he spoke again in a swift hissing fashion.
-'You positively come here to suggest - '
-
-'No; only to collect suggestions,' said [[Father Brown]], rising. 'I may
-have formed some conclusions provisionally, but I had better reserve
-them for the present.'
-
-And then saluting the other with the same stiff civility, he passed out
-of the hotel to continue his curious peregrinations.
-
-By the dusk of that day they had led him down the dingy streets and
-steps that straggled and tumbled towards the [[River|river]] in the the oldest and
-most irregular part of the [[City|city]]. Immediately under the coloured lantern
-that marked the entrance to a rather low Chinese restaurant he
-encountered a figure he had seen before, though by no means presenting
-itself to the eye as he had seen it.
-
-Mr Norman Drage still confronted the world grimly behind his great
-goggles, which seemed somehow to cover his face like a dark musk of
-glass. But except for the goggles, his appearance had undergone a
-strange transformation in the month that had elapsed since the murder.
-He had then, as [[Father Brown]] had noted, been dressed up to the nines -
-up to that point, indeed, where there begins to be too fine a
-distinction between the dandy and the dummy outside a tailor's shop. But
-now all those externals were mysteriously altered for the worse; as if
-the tailor's dummy had been turned into a scarecrow. His top hat still
-existed, but it was battered and shabby; his clothes were dilapidated;
-his watch - chain and minor ornaments were gone. [[Father Brown]], however,
-addressed him as if they had met yesterday, and made no demur to silting
-down with him on a bench in the cheap eating - [[house]] whither he was
-bound. It was not he, however, who began the conversation.
-
-'[[Well]]?' growled Drage, 'and have you succeeded in avenging your holy and
-sainted millionaire? We know all millionaires are holy and sainted; you
-can find it all in the papers next day, about how they lived by the
-light of the Family [[Bible]] they read at their mother's knee. Gee! if
-they'd only read out some of the things there are in the Family [[Bible]],
-the mother might have been startled some. And the millionaire, too, I
-reckon. The old Book's full of a lot of grand fierce old notions they
-don't grow nowadays; sort of wisdom of the Stone Age and buried under
-the Pyramids. Suppose somebody had flung old man Merton from the top of
-that tower of his, and let him be eaten by [[dogs]] at the [[Bottom|bottom]], it would
-be no worse than what happened to Jezebel. Wasn't Agag hacked into
-little pieces, for all he went walking delicately? Merton walked
-delicately all his life, damn him - until he got too delicate to walk at
-all. But the shaft of the Lord found him out, as it might have done in
-the old Book, and struck him dead on the top of his tower to be a
-spectacle to the people.

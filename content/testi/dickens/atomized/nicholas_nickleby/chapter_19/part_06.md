@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 19 (part 6)"
+title: "Nicholas Nickleby — Chapter 19 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_19/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_20/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘Do you know me, you old madman?’ asked Sir Mulberry.
+
+‘[[Well]],’ said Ralph. The fashionable vagabond for the moment quite
+quailed under the steady look of the older sinner, and walked towards
+the door, muttering as he went.
+
+‘You wanted the lord, did you?’ he said, stopping short when he reached
+the door, as if a new light had broken in upon him, and confronting
+Ralph again. ‘Damme, I was in the way, was I?’
+
+Ralph smiled again, but made no answer.
+
+‘Who brought him to you first?’ pursued Sir Mulberry; ‘and how, without
+me, could you ever have wound him in your net as you have?’
+
+‘The net is a large one, and rather full,’ said Ralph. ‘Take care that
+it chokes nobody in the meshes.’
 
 ‘You would sell your flesh and [[Blood|blood]] for money; yourself, if you have
 not already made a bargain with the devil,’ retorted the other. ‘Do you

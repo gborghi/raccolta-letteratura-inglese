@@ -139,10 +139,3 @@ of its contents on the same principle.
 notice of sale, ‘lost me my old place.’
 
 ‘And got you your husband,’ said Mr. Britain.
-
-‘[[Well]]!  So he did,’ retorted Clemency, ‘and many thanks to him.’
-
-‘Man’s the creature of habit,’ said Mr. Britain, surveying her, over his
-saucer.  ‘I had somehow got used to you, Clem; and I found I shouldn’t be
-able to get on without you.  So we went and got made man and wife.  Ha!
-ha!  We!  Who’d have thought it!’

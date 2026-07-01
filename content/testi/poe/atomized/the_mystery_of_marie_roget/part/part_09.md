@@ -1,5 +1,5 @@
 ---
-title: "[[The Mystery of Marie Roget]] (part 9)"
+title: "The Mystery of Marie Roget (part 9)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-mystery-of-marie-roget-(poe)"
@@ -13,6 +13,54 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_mystery_of_marie_roget/part/part_08">‹ part 08</a><a class="ex-next" href="/testi/poe/atomized/the_mystery_of_marie_roget/part/part_10">part 10 ›</a></div>
 </nav>
 
+
+      head in its usual perpendicular position. The result is the
+
+      immersion of the mouth and nostrils, and the inception, during
+
+      efforts to breathe while beneath the surface, of [[Water|water]] into the
+
+      lungs. Much is also received into the stomach, and the whole [[Body|body]]
+
+      becomes heavier by the difference between the weight of the air
+
+      originally distending these cavities, and that of the fluid which
+
+      now fills them. This difference is sufficient to cause the [[Body|body]]
+
+      to sink, as a general rule; but is insufficient in the cases of
+
+      individuals with small bones and an abnormal quantity of flaccid
+
+      or fatty matter. Such individuals float even after drowning.
+
+
+
+      “The corpse, being supposed at the [[Bottom|bottom]] of the [[River|river]], will
+
+      there remain until, by some means, its specific gravity again
+
+      becomes less than that of the bulk of [[Water|water]] which it displaces.
+
+      This effect is brought about by decomposition, or otherwise. The
+
+      result of decomposition is the generation of gas, distending the
+
+      cellular tissues and all the cavities, and giving the puffed
+
+      appearance which is so horrible. When this distension has so far
+
+      progressed that the bulk of the corpse is materially increased
+
+      without a corresponding increase of mass or weight, its specific
+
+      gravity becomes less than that of the [[Water|water]] displaced, and it
+
+      forthwith makes its appearance at the surface. But decomposition
+
+      is modified by innumerable circumstances—is hastened or retarded
+
+      by innumerable agencies; for example, by the heat or cold of the
 
       season, by the mineral impregnation or purity of the [[Water|water]], by
 
@@ -137,61 +185,3 @@ tags:
       in twenty-four hours, or less. But no one supposes her to have
 
       been drowned; and, dying before being thrown into the [[River|river]], she
-
-      might have been found floating at any period afterwards whatever.
-
-
-
-      “‘But,’ says L’Etoile, ‘if the [[Body|body]] had been kept in its mangled
-
-      state on shore until Tuesday [[Night|night]], some trace would be found on
-
-      shore of the murderers.’ Here it is at first difficult to
-
-      perceive the intention of the reasoner. He means to anticipate
-
-      what he imagines would be an objection to his theory—viz.: that
-
-      the [[Body|body]] was kept on shore two days, [[Suffering|suffering]] rapid
-
-      decomposition—more rapid than if immersed in [[Water|water]]. He supposes
-
-      that, had this been the case, it might have appeared at the
-
-      surface on the Wednesday, and thinks that only under such
-
-      circumstances it could so have appeared. He is accordingly in
-
-      haste to show that it was not kept on shore; for, if so, ‘some
-
-      trace would be found on shore of the murderers.’ I presume you
-
-      smile at the sequitur. You cannot be made to see how the mere
-
-      duration of the corpse on the shore could operate to multiply
-
-      traces of the assassins. Nor can I.
-
-
-
-      “‘And furthermore it is exceedingly improbable,’ continues our
-
-      journal, ‘that any villains who had committed such a murder as is
-
-      here supposed, would have thrown the [[Body|body]] in without weight to
-
-      sink it, when such a precaution could have so easily been taken.’
-
-      Observe, here, the laughable confusion of thought! No one—not
-
-      even L’Etoile—disputes the murder committed _on the [[Body|body]] found_.
-
-      The marks of violence are too obvious. It is our reasoner’s
-
-      object merely to show that this [[Body|body]] is not Marie’s. He wishes to
-
-      prove that Marie is not assassinated—not that the corpse was not.
-
-      Yet his observation proves only the latter point. Here is a
-
-      corpse without weight attached. Murderers, casting it in, would

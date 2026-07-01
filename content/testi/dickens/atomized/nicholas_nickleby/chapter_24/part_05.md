@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 24 (part 5)"
+title: "Nicholas Nickleby — Chapter 24 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,21 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_24/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_24/part_06">part 06 ›</a></div>
 </nav>
 
+
+Now, Mrs. Curdle was supposed, by those who were best informed on
+such points, to possess quite the [[London]] taste in matters relating to
+literature and the drama; and as to Mr. Curdle, he had written a pamphlet
+of sixty-four pages, post octavo, on the character of the [[Nurse]]’s
+deceased husband in [[Romeo]] and [[Juliet]], with an inquiry whether he really
+had been a ‘merry man’ in his lifetime, or whether it was merely his
+widow’s affectionate partiality that induced her so to report him. He
+had likewise proved, that by altering the received mode of punctuation,
+any one of Shakespeare’s plays could be made quite different, and the
+sense completely changed; it is needless to say, therefore, that he was
+a great critic, and a very profound and most original thinker.
+
+‘[[Well]], Miss Snevellicci,’ said Mrs. Curdle, entering the parlour, ‘and
+how do YOU do?’
 
 Miss Snevellicci made a graceful obeisance, and hoped Mrs. Curdle was
 [[Well|well]], as also Mr. Curdle, who at the same [[Time|time]] appeared. Mrs. Curdle was
@@ -117,19 +132,3 @@ myself very lucky they did not owe all the money instead of being
 sixpence short. Now, if you were to succeed, they would give people to
 understand that they had always patronised you; and if you were to fail,
 they would have been quite certain of that from the very beginning.’
-
-At the next [[house]] they visited, they were in great glory; for, there,
-resided the six children who were so enraptured with the public actions
-of the phenomenon, and who, being called down from the nursery to be
-treated with a private view of that young lady, proceeded to poke their
-fingers into her eyes, and tread upon her toes, and show her many other
-little attentions peculiar to their [[Time|time]] of life.
-
-‘I shall certainly persuade Mr. Borum to take a private box,’ said the
-lady of the [[house]], after a most gracious reception. ‘I shall only
-take two of the children, and will make up the rest of the party, of
-gentlemen--your admirers, Miss Snevellicci. Augustus, you naughty boy,
-leave the little girl [[Alone|alone]].’
-
-This was addressed to a young gentleman who was pinching the phenomenon
-behind, apparently with a view of ascertaining whether she was real.

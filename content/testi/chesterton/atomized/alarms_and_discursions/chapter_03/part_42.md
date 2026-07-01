@@ -10,85 +10,144 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/alarms-and-discursions-(chesterton)">alarms and discursions</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/alarms_and_discursions/chapter_03/part_41">‹ part 41</a><span></span></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/alarms_and_discursions/chapter_03/part_41">‹ part 41</a><a class="ex-next" href="/testi/chesterton/atomized/alarms_and_discursions/chapter_03/part_43">part 43 ›</a></div>
 </nav>
 
 
-For, as it happened, the flat fenland in which I so nearly
-sunk was the fenland round the Island of Athelney, which is
-now an island in the fields and no longer in the waters.
-But on the abrupt hillock a stone still stands to say that this
-was that embattled islet in the Parrett where [[King Alfred]] held
-his last fort against the foreign invaders, in that war that nearly
-washed us as far from civilisation as the Solomon Islands.
-Here he defended the island called Athelney as he afterwards did his
-best to defend the island called England.  For the [[Hero|hero]] always defends
-an island, a thing beleaguered and surrounded, like the Troy of [[Hector]].
-And the highest and largest humanitarian can only rise to defending
-the tiny island called the earth.
+But the [[Chorus|chorus]] of the old [[songs]] had another use besides this
+obvious one of asserting the popular element in the arts.
+The [[Chorus|chorus]] of a [[Song|song]], even of a comic [[Song|song]], has the same purpose
+as the [[Chorus|chorus]] in a [[Greek Tragedy|Greek tragedy]].  It reconciles men to the gods.
+It connects this one particular tale with the cosmos and the [[philosophy]]
+of common things.  Thus we constantly find in the old ballads,
+especially the pathetic ballads, some refrain about the grass
+growing green, or the [[Birds|birds]] singing, or the woods being merry in [[Spring|spring]].
+These are windows opened in the [[house]] of [[Tragedy|tragedy]]; momentary glimpses
+of larger and quieter scenes, of more ancient and enduring landscapes.
+Many of the country [[songs]] describing crime and [[Death|death]] have refrains of a
+startling joviality like cock crow, just as if the whole company were
+coming in with a shout of protest against so sombre a view of existence.
+There is a long and gruesome ballad called "The Berkshire [[Tragedy]],"
+about a murder committed by a jealous sister, for the consummation
+of which a wicked miller is hanged, and the [[Chorus|chorus]] (which should
+come in a kind of burst) runs:
 
-One approaches the island of Athelney along a low long [[Road|road]] like
-an interminable white string stretched across the flats, and lined
-with those dwarfish trees that are elvish in their very dullness.
-At one point of the [[Journey|journey]] (I cannot conceive why) one is
-arrested by a toll gate at which one has to pay threepence.
-Perhaps it is a distorted tradition of those dark ages.
-Perhaps Alfred, with the superior science of comparative civilisation,
-had calculated the economics of [[Denmark]] down to a halfpenny.
-Perhaps a Dane sometimes came with twopence, sometimes even
-with twopence-halfpenny, after the sack of many cities even
-with twopence three farthings; but never with threepence.
-Whether or no it was a permanent barrier to the barbarians it
-was only a temporary barrier to me.  I discovered three large
-and complete coppers in various parts of my person, and I passed
-on along that strangely monotonous and strangely fascinating path.
-It is not merely fanciful to feel that the place expresses itself
-appropriately as the place where the great Christian [[King]] hid
-himself from the heathen.  Though a marshland is always open it
-is still curiously secret.  Fens, like deserts, are large things
-very apt to be mislaid.  These flats feared to be overlooked
-in a [[Double|double]] sense; the small trees crouched and the whole plain
-seemed lying on its face, as men do when shells burst.  The little
-path ran fearlessly forward; but it seemed to run on all fours.
-Everything in that strange countryside seemed to be lying low,
-as if to avoid the incessant and rattling rain of the Danish arrows.
-There were indeed hills of no inconsiderable height quite within call;
-but those pools and flats of the old Parrett seemed to separate
-themselves like a central and secret sea; and in the midst of them
-stood up the rock of Athelney as isolate as it was to Alfred.
-And all across this recumbent and almost crawling country there
-ran the glory of the low wet lands; grass lustrous and living
-like the plumage of some universal bird; the [[Flowers|flowers]] as gorgeous
-as bonfires and the weeds more beautiful than the [[Flowers|flowers]].
-One stooped to stroke the grass, as if the earth were all one kind
-beast that could feel.
+  "And I'll be true to my [[Love|love]]
+  If my [[Love|love]]'ll be true to me."
 
-Why does no decent person write an [[Historical Novel|historical novel]] about Alfred
-and his fort in Athelney, in the marshes of the Parrett?  Not a very
-[[Historical Novel|historical novel]].  Not about his [[Truth]]-telling (please) or his founding
-the British Empire, or the British Navy, or the Navy League, or whichever
-it was he founded.  Not about the Treaty of Wedmore and whether it ought
-(as an eminent historian says) to be called the Pact of Chippenham.
-But an aboriginal [[Romance|romance]] for boys about the bare, bald, beatific fact
-that a great [[Hero|hero]] held his fort in an island in a [[River|river]].  An island
-is fine enough, in all [[Conscience|conscience]] or piratic unconscientiousness,
-but an island in a [[River|river]] sounds like the beginning of the greatest
-adventure story on earth.  "Robinson Crusoe" is really a great tale,
-but think of Robinson Crusoe's feelings if he could have actually
-seen England and Spain from his inaccessible isle!  "Treasure Island"
-is a spirit of genius:  but what treasure could an island contain to
-compare with Alfred?  And then consider the further elements of juvenile
-[[Romance|romance]] in an island that was more of an island than it looked.
-Athelney was masked with marshes; many a heavy harnessed Viking may
-have started bounding across a meadow only to find himself submerged
-in a sea.  I feel the full fictitious splendour spreading round me;
-I see glimpses of a great [[Romance|romance]] that will never be written.
-I see a sudden shaft quivering in one of the short trees.
-I see a red-haired man wading madly among the tall gold
-[[Flowers|flowers]] of the marsh, leaping onward and lurching lower.
-I see another shaft stand quivering in his throat.  I cannot see
-any more, because, as I have delicately suggested, I am a heavy man.
-This mysterious marshland does not sustain me, and I sink into its
-depths with a bubbling groan.
+The very reasonable arrangement here suggested is introduced,
+I think, as a kind of throw back to the normal, a reminder that even
+"The Berkshire [[Tragedy]]" does not fill the whole of Berkshire.
+The poor young lady is drowned, and the wicked miller (to whom
+we may have been affectionately attached) is hanged; but still
+a ruby kindles in the vine, and many a [[Garden|garden]] by the [[Water|water]] blows.
+Not that Omar's type of hedonistic [[Resignation|resignation]] is at all the same
+as the breezy impatience of the Berkshire refrain; but they are
+alike in so far as they gaze out beyond the particular complication
+to more open plains of peace.  The [[Chorus|chorus]] of the ballad looks past
+the drowning maiden and the miller's gibbet, and sees the lanes
+full of [[lovers]].
+
+This use of the [[Chorus|chorus]] to humanise and dilute a dark
+story is strongly opposed to the modern view of art.
+Modern art has to be what is called "intense." It is not easy
+to define being intense; but, roughly speaking, it means saying
+only one thing at a [[Time|time]], and saying it wrong.  Modern tragic
+writers have to write short stories; if they wrote long stories
+(as the man said of [[philosophy]]) cheerfulness would creep in.
+Such stories are like stings; brief, but purely painful.
+And doubtless they bore some resemblance to some lives lived
+under our successful scientific civilisation; lives which tend
+in any case to be painful, and in many cases to be brief.
+But when the artistic people passed beyond the poignant anecdote
+and began to write long books full of poignancy, then the reading
+public began to [[Rebel|rebel]] and to demand the recall of [[Romance|romance]].  The long
+books about the black [[Poverty|poverty]] of cities became quite insupportable.
+The Berkshire [[Tragedy|tragedy]] had a [[Chorus|chorus]]; but the [[London]] [[Tragedy|tragedy]] has no [[Chorus|chorus]].
+Therefore people welcomed the return of adventurous novels about alien
+places and times, the trenchant and swordlike stories of Stevenson.
+But I am not narrowly on the side of the romantics.  I think that
+glimpses of the gloom of our civilisation ought to be recorded.
+I think that the bewilderments of the solitary and sceptical [[Soul|soul]] ought
+to be preserved, if it be only for the pity (yes, and the admiration)
+of a happier [[Time|time]].  But I wish that there were some way in
+which the [[Chorus|chorus]] could enter.  I wish that at the end of each
+chapter of stiff agony or insane terror the choir of humanity
+could come in with a crash of music and tell both the reader
+and the author that this is not the whole of human experience.
+Let them go on recording hard scenes or hideous questions, but let
+there be a jolly refrain.
+
+Thus we might read:  "As Honoria laid down the volume of Ibsen and went
+wearily to her [[Window|window]], she realised that life must be to her not
+only harsher, but colder than it was to the comfortable and the weak.
+With her tooral ooral, etc.;" or, again:  "The young curate smiled
+grimly as he listened to his great-grandmother's last words.
+He knew only too [[Well|well]] that since Phogg's discovery of the
+hereditary hairiness of goats religion stood on a very different
+basis from that which it had occupied in his [[Childhood|childhood]].
+With his rumpty-iddity, rumpty-iddity;" and so on.  Or we might read:
+"Uriel Maybloom stared gloomily down at his sandals, as he realised
+for the first [[Time|time]] how senseless and anti-social are all ties
+between man and woman; how each must go his or her way without
+any attempt to arrest the head-long separation of their souls."
+And then would come in one deafening [[Chorus|chorus]] of everlasting humanity
+"But I'll be true to my [[Love|love]], if my [[Love|love]]'ll be true to me."
+
+In the records of the first majestic and yet fantastic developments
+of the foundation of St. Francis of Assisi is an account of a
+certain Blessed Brother Giles.  I have forgotten most of it,
+but I remember one fact:  that certain students of theology came
+to ask him whether he believed in free will, and, if so, how he could
+reconcile it with necessity.  On hearing the question St. Francis's
+follower reflected a little while and then seized a fiddle and
+began capering and dancing about the [[Garden|garden]], playing a wild tune
+and generally expressing a violent and invigorating indifference.
+The tune is not recorded, but it is the eternal [[Chorus|chorus]] of mankind,
+that modifies all the arts and mocks all the individualisms,
+like the laughter and thunder of some distant sea.
 
 -/-
+
+A [[Romance]] of the Marshes
+
+IN books as a whole marshes are described as desolate and colourless,
+great fields of clay or sedge, vast horizons of drab or grey.  But this,
+like many other literary associations, is a piece of poetical injustice.
+Monotony has nothing to do with a place; monotony, either in its
+sensation or its infliction, is simply the quality of a person.
+There are no dreary sights; there are only dreary sightseers.
+It is a matter of taste, that is of personality, whether marshes
+are monotonous; but it is a matter of fact and science that they are
+not monochrome.  The tops of high [[Mountains|mountains]] (I am told) are all white;
+the depths of primeval caverns (I am also told) are all dark.
+The sea will be grey or blue for weeks together; and the [[Desert|desert]],
+I have been led to believe, is the colour of sand.  The North Pole
+(if we found it) would be white with cracks of blue; and Endless Space
+(if we went there) would, I suppose, be black with white spots.
+If any of these were counted of a monotonous colour I could [[Well|well]]
+understand it; but on the contrary, they are always spoken of as if
+they had the gorgeous and chaotic colours of a cosmic kaleidoscope.
+Now exactly where you can find colours like those of a tulip
+[[Garden|garden]] or a stained-glass [[Window|window]], is in those sunken and sodden
+lands which are always called dreary.  Of course the great tulip
+gardens did arise in Holland; which is simply one immense marsh.
+There is nothing in Europe so truly tropical as marshes.  Also, now I come
+to think of it, there are few places so agreeably marshy as tropics.
+At any rate swamp and fenlands in England are always especially
+rich in gay grasses or gorgeous fungoids; and seem sometimes
+as glorious as a transformation scene; but also as unsubstantial.
+In these splendid scenes it is always very easy to put your foot
+through the scenery.  You may sink up to your armpits; but you
+will sink up to your armpits in [[Flowers|flowers]].  I do not deny that I
+myself am of a sort that sinks--except in the matter of spirits.
+I saw in the west counties recently a swampy field of great richness
+and promise.  If I had stepped on it I have no [[Doubt|doubt]] at all that I
+should have vanished; that aeons hence the complete fossil of a fat
+Fleet Street journalist would be found in that compressed clay.
+I only claim that it would be found in some attitude of energy,
+or even of joy.  But the last point is the most important of all,
+for as I imagined myself sinking up to the neck in what looked
+like a solid green field, I suddenly remembered that this very
+thing must have happened to certain interesting pirates quite
+a thousand years ago.

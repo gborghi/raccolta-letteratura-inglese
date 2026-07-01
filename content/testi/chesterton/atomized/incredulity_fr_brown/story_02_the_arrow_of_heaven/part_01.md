@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The Arrow of Heaven (part 1)"
+title: "incredulity Fr Brown — The Arrow of Heaven (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -47,10 +47,10 @@ much more important person than he had ever supposed. His short figure,
 his short - sighted and undistinguished countenance, his rather rusty -
 black clerical clothes, could pass through any crowd in his own country
 without being noticed as anything unusual, except perhaps unusually
-insignificant. But [[america|America]] has a genius for the encouragement of fame;
+insignificant. But [[America]] has a genius for the encouragement of fame;
 and his appearance in one or two curious criminal problems, together
 with his long association with [[Flambeau]], the ex - criminal and
-[[Detective|detective]], had consolidated a reputation in [[america|America]] out of what was
+[[Detective|detective]], had consolidated a reputation in [[America]] out of what was
 little more than a rumour in England. His round face was blank with
 surprise when he found himself held up on the quay by a group of
 journalists, as by a gang of brigands, who asked him questions about all
@@ -67,7 +67,7 @@ Wain.'
 
 Some apology may be made for [[Father Brown]]; for he himself would have
 been sincerely apologetic. It must be remembered that he had never seen
-[[america|America]] before, and more especially that he had never seen that sort of
+[[America]] before, and more especially that he had never seen that sort of
 tortoise - shell spectacles before; for the fashion at this [[Time|time]] had not
 spread to England. His first sensation was that of gazing at some
 goggling sea - [[Monster|monster]] with a faint suggestion of a diver's helmet.
@@ -115,22 +115,3 @@ dragons had carried him away into fairyland. It was under these
 disconcerting conditions that he heard for the first [[Time|time]], in long
 monologues from Wain, and short sentences from Drage, the story of the
 Coptic Cup and the two crimes already connected with it.
-
-It seemed that Wain had an uncle named Crake who had a partner named
-Merton, who was number three in the series of rich business men to whom
-the cup had belonged. The first of them, Titus P. Trant, the Copper
-[[King]], had received threatening letters from somebody signing himself
-Daniel Doom. The name was presumably a pseudonym, but it had come to
-stand for a very public if not a very popular character; for somebody as
-[[Well|well]] known as [[Robin Hood]] and Jack the Ripper combined. For it soon
-became clear that the writer of the threatening letter did not confine
-himself to threatening. Anyhow, the upshot was that old Trant was found
-one morning with his head in his own lily - pond, and there was not the
-[[Shadow|shadow]] of a clue. The cup was, fortunately, safe in the bank; and it
-passed with the rest of Trant's property to his cousin, Brian Horder,
-who was also a man of great wealth and who was also threatened by the
-nameless enemy. Brian Horder was picked up dead at the foot of a cliff
-outside his seaside residence, at which there was a burglary, this [[Time|time]]
-on a large scale. For though the cup apparently again escaped, enough
-bonds and securities were stolen to leave Horder's financial affairs in
-confusion.

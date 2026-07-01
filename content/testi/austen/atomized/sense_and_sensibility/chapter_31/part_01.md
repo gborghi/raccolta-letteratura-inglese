@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 31 (part 1)"
+title: "Sense and Sensibility — Chapter 31 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -229,11 +229,3 @@ from _him_.”
 
 
 “I will not trust to _that_,” retreating to her own room. “A man who
-
-has nothing to do with his own [[Time|time]] has no [[Conscience|conscience]] in his intrusion
-
-on that of others.”
-
-
-
-The event proved her conjecture right, though it was founded on

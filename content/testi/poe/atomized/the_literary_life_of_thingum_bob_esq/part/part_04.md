@@ -1,5 +1,5 @@
 ---
-title: "[[The Literary Life of Thingum Bob, Esq]] (part 4)"
+title: "The Literary Life of Thingum Bob, Esq (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-literary-life-of-thingum-bob,-esq-(poe)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_literary_life_of_thingum_bob_esq/part/part_03">‹ part 03</a><a class="ex-next" href="/testi/poe/atomized/the_literary_life_of_thingum_bob_esq/part/part_05">part 05 ›</a></div>
 </nav>
 
+
+      the thousand compliments which he lavished upon me. The eulogies
+
+      of Mr. Crab, (such was the editor’s name,) were, however, by no
+
+      means fulsomely indiscriminate. He analyzed my composition with
+
+      much [[Freedom|freedom]] and great ability—not hesitating to point out a few
+
+      trivial defects—a circumstance which elevated him highly in my
+
+      esteem. The “Gad-Fly” was, of course, brought upon the _tapis_,
 
       and I [[Hope|hope]] never to be subjected to a criticism so searching, or
 
@@ -191,25 +203,3 @@ tags:
       satisfactory, conclusive and clear with the exception, perhaps,
 
       of the hieroglyphical marks, “_Sep_. 15—1 t.” appended to each of
-
-      the critiques.
-
-
-
-      The “Owl,” a journal of profound sagacity, and [[Well|well]] known for the
-
-      deliberate gravity of its literary decisions—the “Owl,” I say,
-
-      spoke as follows:
-
-
-
-      “‘The Lollipop!’ The October number of this delicious Magazine
-
-      surpasses its predecessors, and sets competition at defiance. In
-
-      the [[Beauty|beauty]] of its typography and paper—in the number and
-
-      excellence of its steel plates—as [[Well|well]] as in the literary merit
-
-      of its contributions—the ‘Lollipop’ compares with its slow-paced

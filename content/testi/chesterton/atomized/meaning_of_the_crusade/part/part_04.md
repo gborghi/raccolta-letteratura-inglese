@@ -45,7 +45,7 @@ so extraordinary but for another error which it is here very essential
 to consider.  To suggest that men engaged, rightly or wrongly,
 in so logical a military and political operation were only migrating
 like [[Birds|birds]] or swarming like [[Bees|bees]] is as ridiculous as to say that
-the Prohibition campaign in [[america|America]] was only an animal reversion
+the Prohibition campaign in [[America]] was only an animal reversion
 towards lapping as the dog lappeth, or Rowland [[Hill]]'s introduction
 of postage stamps an animal taste for licking as the cat licks.
 Why should we provide other people with a remote reason for their

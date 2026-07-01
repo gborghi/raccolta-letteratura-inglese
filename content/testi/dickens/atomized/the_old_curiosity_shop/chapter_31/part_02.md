@@ -14,6 +14,10 @@ tags:
 </nav>
 
 
+The [[Child|child]] hung down her head and wept.  The sympathising tone in which
+he spoke, was quite sincere; she was sure of that.  It was not the
+lightest part of her sorrow to know that this was done for her.
+
 ‘Not a word about it to any one but me,’ said the old man, ‘no, not
 even to me,’ he added hastily, ‘for it can do no good.  All the losses
 that ever were, are not worth [[Tears|tears]] from thy eyes, darling.  Why should
@@ -119,14 +123,3 @@ downcast eyes and suffered the procession to pass on, until Miss
 Monflathers, bringing up the rear, approached her, when she curtseyed
 and presented her little packet; on receipt whereof Miss Monflathers
 commanded that the line should halt.
-
-‘You’re the wax-work [[Child|child]], are you not?’ said Miss Monflathers.
-
-‘Yes, ma’am,’ replied Nell, colouring deeply, for the young ladies had
-collected about her, and she was the centre on which all eyes were
-fixed.
-
-‘And don’t you think you must be a very wicked little [[Child|child]],’ said Miss
-Monflathers, who was of rather uncertain temper, and lost no
-opportunity of impressing moral truths upon the tender minds of the
-young ladies, ‘to be a wax-work [[Child|child]] at all?’

@@ -1,5 +1,5 @@
 ---
-title: "[[Twelfth Night]] — Act I, Scene 5"
+title: "Twelfth Night — Act I, Scene 5"
 author: "Shakespeare"
 unitType: scene
 parentWork: "works/twelfth-night-(shakespeare)"

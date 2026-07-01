@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 3 (part 1)"
+title: "Nicholas Nickleby — Chapter 3 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -148,12 +148,3 @@ is that Mrs. La what’s-her-name?’
 
 ‘Creevy--La Creevy,’ replied the voice, as a yellow headdress bobbed
 over the banisters.
-
-‘I’ll speak to you a moment, ma’am, with your leave,’ said Ralph.
-
-The voice replied that the gentleman was to walk up; but he had walked
-up before it spoke, and stepping into the first floor, was received by
-the wearer of the yellow head-dress, who had a gown to correspond, and
-was of much the same colour herself. Miss La Creevy was a mincing
-young lady of fifty, and Miss La Creevy’s apartment was the gilt frame
-downstairs on a larger scale and something dirtier.

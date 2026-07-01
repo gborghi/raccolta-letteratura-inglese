@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 26 (part 3)"
+title: "Villette — Chapter 26 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -115,11 +115,3 @@ other.”
 
 “Then rub it off, Polly; rub the rust and the strangeness off. Talk
 away when he is here, and have no [[Fear|fear]] of him?”
-
-“_He_ does not talk much. Is he afraid of me, do you think, papa?”
-
-“Oh, to be sure, what man would not be afraid of such a little silent
-lady?”
-
-“Then tell him some day not to mind my being silent. Say that it is my
-way, and that I have no unfriendly intention.”

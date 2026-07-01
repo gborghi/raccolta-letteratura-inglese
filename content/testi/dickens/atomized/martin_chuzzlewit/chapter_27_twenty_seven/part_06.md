@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 27: TWENTY SEVEN (part 6)"
+title: "Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -137,8 +137,3 @@ she’s going to die directly.’
 
 ‘So it is,’ cried Tigg, kissing his hand in [[Honour|honour]] of the sex. ‘You’re
 quite right. Sweet, silly, fluttering little simpletons!’
-
-‘[[Well]],’ said Jonas, ‘on that account, you know, and because offence
-has been given me in other quarters, I wouldn’t mind patronizing this
-Company. But I want to know what sort of security there is for the
-Company’s going on. That’s the--’

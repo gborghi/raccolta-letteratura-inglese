@@ -1,5 +1,5 @@
 ---
-title: "[[Pride and Prejudice]] — Chapter 43 (part 1)"
+title: "Pride and Prejudice — Chapter 43 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/pride-and-prejudice-(austen)"
@@ -133,8 +133,3 @@ Mr. Gardiner, whose manners were easy and pleasant, encouraged her
 communicativeness by his questions and remarks: Mrs. Reynolds, either
 from [[Pride|pride]] or attachment, had evidently great pleasure in talking of her
 master and his sister.
-
-“Is your master much at Pemberley in the course of the year?”
-
-“Not so much as I could wish, sir: but I dare say he may spend half his
-[[Time|time]] here; and Miss Darcy is always down for the [[Summer|summer]] months.”

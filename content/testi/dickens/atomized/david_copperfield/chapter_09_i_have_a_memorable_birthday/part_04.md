@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 9: I HAVE A MEMORABLE BIRTHDAY (part 4)"
+title: "David Copperfield — Chapter 9: I HAVE A MEMORABLE BIRTHDAY (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_09_i_have_a_memorable_birthday/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_10_i_become_neglected_and_am_prov/part_01">part 01 ›</a></div>
 </nav>
 
+
+If the funeral had been yesterday, I could not recollect it better. The
+very air of the best parlour, when I went in at the door, the bright
+condition of the [[Fire|fire]], the shining of the wine in the decanters, the
+patterns of the glasses and plates, the faint sweet smell of cake, the
+odour of Miss Murdstone’s dress, and our black clothes. Mr. Chillip is
+in the room, and comes to speak to me.
+
+‘And how is Master David?’ he says, kindly.
+
+I cannot tell him very [[Well|well]]. I give him my hand, which he holds in his.
 
 ‘Dear me!’ says Mr. Chillip, meekly smiling, with something shining in
 his eye. ‘Our little friends grow up around us. They grow out of our

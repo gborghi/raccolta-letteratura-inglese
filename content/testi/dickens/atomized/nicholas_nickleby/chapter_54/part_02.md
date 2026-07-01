@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 54 (part 2)"
+title: "Nicholas Nickleby — Chapter 54 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_54/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_54/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘Oh what a man you are!’ croaked [[arthur|Arthur]].
+
+‘Why not?’ said Ralph. ‘Nobody will pay you interest for the money, I
+suppose, between this and twelve o’[[Clock|clock]]; will they?’
+
+‘But nobody would pay you interest for it either, you know,’ returned
+[[arthur|Arthur]], leering at Ralph with all the cunning and slyness he could throw
+into his face.
 
 ‘Besides which,’ said Ralph, [[Suffering|suffering]] his lip to curl into a smile,
 ‘you haven’t the money about you, and you weren’t prepared for this, or
@@ -129,17 +138,3 @@ could I?’
 fathers, within a circuit of five miles from this place; [[Well|well]] off; good,
 rich, substantial men; who would gladly give their daughters, and their
 own ears with them, to that very man yonder, ape and mummy as he looks.’
-
-‘So there are!’ exclaimed Bray, eagerly catching at anything which
-seemed a justification of himself. ‘And so I told her, both last [[Night|night]]
-and today.’
-
-‘You told her [[Truth|truth]],’ said Ralph, ‘and did [[Well|well]] to do so; though I
-must say, at the same [[Time|time]], that if I had a daughter, and my [[Freedom|freedom]],
-pleasure, nay, my very health and life, depended on her taking a husband
-whom I pointed out, I should [[Hope|hope]] it would not be necessary to advance
-any other arguments to induce her to consent to my wishes.’
-
-Bray looked at Ralph as if to see whether he spoke in earnest, and
-having nodded twice or thrice in unqualified assent to what had fallen
-from him, said:

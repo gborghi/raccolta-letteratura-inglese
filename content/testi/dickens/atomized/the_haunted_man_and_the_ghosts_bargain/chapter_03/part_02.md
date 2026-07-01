@@ -1,5 +1,5 @@
 ---
-title: "The Haunted Man and the [[Ghost]]'s Bargain — Chapter 3 (part 2)"
+title: "The Haunted Man and the Ghost's Bargain — Chapter 3 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-haunted-man-and-the-ghost's-bargain-(dickens)"
@@ -14,6 +14,14 @@ tags:
 </nav>
 
 
+“Terrible instructor,” said the Chemist, sinking on his knee before it,
+in an attitude of supplication, “by whom I was renounced, but by whom I
+am revisited (in which, and in whose milder aspect, I would fain believe
+I have a gleam of [[Hope|hope]]), I will obey without inquiry, praying that the
+cry I have sent up in the anguish of my [[Soul|soul]] has been, or will be, heard,
+in behalf of those whom I have injured beyond human reparation. But
+there is one thing—”
+
 “You speak to me of what is lying here,” the [[Phantom|phantom]] interposed, and
 pointed with its finger to the boy.
 
@@ -27,7 +35,7 @@ you have yielded up. No softening [[Memory|memory]] of sorrow, wrong, or trouble
 enters here, because this wretched mortal from his birth has been
 abandoned to a worse condition than the beasts, and has, within his
 knowledge, no one contrast, no humanising touch, to make a grain of such
-a [[Memory|memory]] [[Spring|spring]] up in his hardened breast. All within this desolate
+a [[Memory|memory]] [[spring]] up in his hardened breast. All within this desolate
 creature is barren wilderness. All within the man bereft of what you
 have resigned, is the same barren wilderness. Woe to such a man! Woe,
 tenfold, to the nation that shall count its monsters such as this, lying

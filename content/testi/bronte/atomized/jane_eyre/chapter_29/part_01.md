@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 29 (part 1)"
+title: "Jane Eyre — Chapter 29 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -131,6 +131,3 @@ than yourself or your young ladies.”
 
 After a pause she said, “I dunnut understand that: you’ve like no
 [[house]], nor no brass, I guess?”
-
-“The want of [[house]] or brass (by which I suppose you mean money) does
-not make a beggar in your sense of the word.”

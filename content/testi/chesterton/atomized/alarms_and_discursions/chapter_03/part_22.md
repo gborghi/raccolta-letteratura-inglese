@@ -14,124 +14,119 @@ tags:
 </nav>
 
 
-* * * * *
+"Understand me," he said.  "Ordinary people think an Anarchist means
+a man with a bomb in his pocket.  Herbert Spencer was an Anarchist.
+But for that fatal admission of his on page 793, he would be a
+complete Anarchist.  Otherwise, he agrees wholly with Pidge."
 
-I found the [[house]] of Dr. and Lady Hypatia Hagg without much difficulty;
-it is situated in one of the last straggling streets of Croydon,
-and overlooked by a line of poplars.  I reached the door towards
-the twilight, and it was natural that I should fancifully see something
-dark and monstrous in the dim bulk of that [[house]] which contained
-the creature who was more marvellous than the children of men.
-When I entered the [[house]] I was received with exquisite courtesy
-by Lady Hypatia and her husband; but I found much greater
-difficulty in actually seeing the Superman, who is now about
-fifteen years old, and is kept by himself in a quiet room.
-Even my conversation with the father and mother did not quite
-clear up the character of this mysterious being.  Lady Hypatia,
-who has a pale and poignant face, and is clad in those impalpable
-and pathetic greys and greens with which she has brightened
-so many homes in Hoxton, did not appear to talk of her offspring
-with any of the vulgar [[Vanity|vanity]] of an ordinary human mother.
-I took a bold step and asked if the Superman was nice looking.
+This was uttered with such blinding rapidity of syllabification
+as to be a better test of teetotalism than the Scotch one of saying
+"Biblical criticism" six times.  I attempted to speak, but he began
+again with the same rippling rapidity.
 
-"He creates his own standard, you see," she replied, with a slight sigh.
-"Upon that plane he is more than [[Apollo]].  Seen from our lower plane,
-of course--" And she sighed again.
+"You will say that Pidge also admits [[government]] in that tenth chapter
+so easily misunderstood.  Bolger has attacked Pidge on those lines.
+But Bolger has no scientific training.  Bolger is a psychometrist,
+but no sociologist.  To any one who has combined a study of Pidge with
+the earlier and better discoveries of Kruxy, the fallacy is quite clear.
+Bolger confounds social coercion with coercional social action."
 
-I had a horrible impulse, and said suddenly, "Has he got any hair?"
+His rapid rattling mouth shut quite tight suddenly, and he looked
+steadily and triumphantly at me, with his head on one side.
+I opened my mouth, and the mere motion seemed to sting him to
+fresh verbal leaps.
 
-There was a long and painful [[Silence|silence]], and then Dr. Hagg said smoothly:
-"Everything upon that plane is different; what he has got is not
-... [[Well|well]], not, of course, what we call hair ... but--"
+"Yes," he said, "that's all very [[Well|well]].  The Finland Group has
+accepted Bolger.  But," he said, suddenly lifting a long finger as
+if to stop me, "but--Pidge has replied.  His pamphlet is published.
+He has proved that Potential Social Rebuke is not a weapon of
+the true Anarchist.  He has shown that just as religious authority
+and political authority have gone, so must emotional authority
+and psychological authority.  He has shown--"
 
-"Don't you think," said his wife, very softly, "don't you think
-that really, for the sake of argument, when talking to the mere public,
-one might call it hair?"
+I stood up in a sort of daze.  "I think you remarked," I said feebly,
+"that the mere common populace do not quite understand Anarchism--"
 
-"Perhaps you are right," said the doctor after a few moments' reflection.
-"In connection with hair like that one must speak in parables."
+"Quite so," he said with burning swiftness; "as I said, they think
+any Anarchist is a man with a bomb, whereas--"
 
-"[[Well]], what on earth is it," I asked in some irritation, "if it
-isn't hair?  Is it feathers?"
+"But great heavens, man!"  I said; "it's the man with the bomb that
+I understand!  I wish you had half his sense.  What do I care how many
+German dons tie themselves in knots about how this society began?
+My only interest is about how soon it will end.  Do you see those fat
+white houses over in Park-lane, where your masters live?"
 
-"Not feathers, as we understand feathers," answered Hagg in
-an awful voice.
+He assented and muttered something about concentrations of capital.
 
-I got up in some irritation.  "Can I see him, at any rate?"  I asked.
-"I am a journalist, and have no earthly motives except curiosity
-and personal [[Vanity|vanity]].  I should like to say that I had shaken hands
-with the Superman."
+"[[Well]]," I said, "if the [[Time|time]] ever comes when we all [[Storm|storm]]
+those houses, will you tell me one thing?  Tell me how we shall
+do it without authority?  Tell me how you will have an army
+of revolt without discipline?"
 
-The husband and wife had both got heavily to their feet,
-and stood, embarrassed.  "[[Well]], of course, you know," said Lady Hypatia,
-with the really charming smile of the aristocratic hostess.
-"You know he can't exactly shake hands ... not hands, you know.
-... The structure, of course--"
+For the first instant he was doubtful; and I had bidden him farewell,
+and crossed the street again, when I saw him open his mouth and begin
+to run after me.  He had remembered something out of Pidge.
 
-I broke out of all social bounds, and rushed at the door of
-the room which I thought to contain the incredible creature.
-I burst it open; the room was pitch dark.  But from in front of me
-came a small sad yelp, and from behind me a [[Double|double]] shriek.
-
-"You have done it, now!" cried Dr. Hagg, burying his bald brow
-in his hands.  "You have let in a draught on him; and he is dead."
-
-As I walked away from Croydon that [[Night|night]] I saw men in black carrying
-out a coffin that was not of any human shape.  The [[Wind|wind]] wailed above me,
-whirling the poplars, so that they drooped and nodded like the plumes
-of some cosmic funeral.  "It is, indeed," said Dr. Hagg, "the whole
-universe weeping over the frustration of its most magnificent birth."
-But I thought that there was a hoot of laughter in the high wail
-of the [[Wind|wind]].
+I escaped, however, and as I leapt on an omnibus I saw again the enormous
+emblem of the Marble Arch.  I saw that massive symbol of the modern mind:
+a door with no [[house]] to it; the gigantic gate of Nowhere.
 
 -/-
 
-The New [[house|House]]
+How I found the Superman
 
-WITHIN a stone's throw of my [[house]] they are building another [[house]].  I am
-glad they are building it, and I am glad it is within a stone's throw;
-quite [[Well|well]] within it, with a good catapult.  Nevertheless, I have
-not yet cast the first stone at the new [[house]]--not being,
-strictly speaking, guiltless myself in the matter of new houses.
-And, indeed, in such cases there is a strong protest to be made.
-The whole curse of the last century has been what is called the Swing
-of the Pendulum; that is, the idea that Man must go alternately from
-one extreme to the other.  It is a shameful and even shocking fancy;
-it is the denial of the whole dignity of mankind.  When Man is alive
-he stands still.  It is only when he is dead that he swings.
-But whenever one meets modern thinkers (as one often does)
-progressing towards a madhouse, one always finds, on inquiry,
-that they have just had a splendid escape from another madhouse.
-Thus, hundreds of people become Socialists, not because they have
-tried Socialism and found it nice, but because they have tried
-[[Individualism]] and found it particularly nasty.  Thus, many embrace
-Christian Science solely because they are quite sick of heathen science;
-they are so tired of believing that everything is matter that they
-will even take refuge in the revolting [[Fable|fable]] that everything is mind.
-Man ought to march somewhere.  But modern man (in his sick reaction)
-is ready to march nowhere--so long as it is the Other End of Nowhere.
+READERS of Mr. Bernard [[Shaw]] and other modern writers may be
+interested to know that the Superman has been found.  I found him;
+he lives in South Croydon.  My [[success]] will be a great blow to Mr. [[Shaw]],
+who has been following quite a false scent, and is now looking
+for the creature in Blackpool; and as for Mr. Wells's notion
+of generating him out of gases in a private laboratory, I always
+thought it doomed to failure.  I assure Mr. Wells that the Superman
+at Croydon was born in the ordinary way, though he himself, of course,
+is anything but ordinary.
 
-The case of building houses is a strong instance of this.
-Early in the nineteenth century our civilisation chose to abandon
-the Greek and medieval idea of a town, with walls, limited and defined,
-with a temple for [[Faith|faith]] and a market-place for politics;
-and it chose to let the [[City|city]] grow like a jungle with blind cruelty
-and bestial unconsciousness; so that [[London]] and Liverpool are
-the great cities we now see.  [[Well]], people have reacted against that;
-they have grown tired of living in a [[City|city]] which is as dark
-and barbaric as a forest only not as beautiful, and there has
-been an exodus into the country of those who could afford it,
-and some I could name who can't. Now, as soon as this quite
-rational recoil occurred, it flew at once to the opposite extreme.
-People went about with beaming faces, boasting that they
-were twenty-three miles from a station.  Rubbing their hands,
-they exclaimed in rollicking asides that their butcher only called
-once a month, and that their baker started out with fresh hot
-loaves which were quite stale before they reached the table.
-A man would praise his little [[house]] in a quiet valley, but gloomily admit
-(with a slight shake of the head) that a human habitation on
-the distant horizon was faintly discernible on a clear day.
-Rival ruralists would quarrel about which had the most completely
-inconvenient postal service; and there were many jealous heartburnings
-if one friend found out any uncomfortable situation which the other
-friend had thoughtlessly overlooked.
+Nor are his parents unworthy of the wonderful being whom they
+have given to the world.  The name of Lady Hypatia Smythe-Browne
+(now Lady Hypatia Hagg) will never be forgotten in the East End,
+where she did such splendid social work.  Her constant cry of "Save
+the children!" referred to the cruel neglect of children's eyesight
+involved in allowing them to play with crudely painted toys.
+She quoted unanswerable statistics to prove that children allowed
+to look at violet and vermilion often suffered from failing eyesight
+in their extreme old age; and it was owing to her ceaseless crusade
+that the pestilence of the Monkey-on-the-Stick was almost swept
+from Hoxton.  The devoted worker would tramp the streets untiringly,
+taking away the toys from all the poor children, who were often
+moved to [[Tears|tears]] by her kindness.  Her good work was interrupted,
+partly by a new interest in the creed of Zoroaster, and partly
+by a savage blow from an umbrella.  It was inflicted by a dissolute
+Irish apple-woman, who, on returning from some orgy to her ill-kept
+apartment, found Lady Hypatia in the bedroom taking down an oleograph,
+which, to say the least of it, could not really elevate the mind.
+At this the ignorant and partly intoxicated Celt dealt the social
+reformer a severe blow, adding to it an absurd accusation of theft.
+The lady's exquisitely balanced mind received a shock, and it was
+during a short mental illness that she married Dr. Hagg.
+
+Of Dr. Hagg himself I [[Hope|hope]] there is no need to speak.
+Any one even slightly acquainted with those daring experiments
+in Neo-Individualist [[Eugenics]], which are now the one absorbing
+interest of the English [[democracy]], must know his name and often
+commend it to the personal protection of an impersonal power.
+Early in life he brought to bear that ruthless insight into the [[history]]
+of religions which he had gained in boyhood as an electrical engineer.
+Later he became one of our greatest geologists; and achieved that bold and
+bright outlook upon the future of Socialism which only geology can give.
+At first there seemed something like a rift, a faint, but perceptible,
+fissure, between his views and those of his aristocratic wife.
+For she was in favour (to use her own powerful [[Epigram|epigram]]) of protecting
+the poor against themselves; while he declared pitilessly,
+in a new and striking metaphor, that the weakest must go to the wall.
+Eventually, however, the married pair perceived an essential [[Union|union]]
+in the unmistakably modern character of both their views, and in this
+enlightening and intelligible formula their souls found peace.
+The result is that this [[Union|union]] of the two highest types of
+our civilisation, the fashionable lady and the all but vulgar
+medical man, has been blessed by the birth of the Superman,
+that being whom all the labourers in Battersea are so eagerly
+expecting [[Night|night]] and day.

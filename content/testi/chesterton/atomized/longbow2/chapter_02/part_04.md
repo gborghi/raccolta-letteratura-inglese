@@ -1,5 +1,5 @@
 ---
-title: "[[longbow2]] — Chapter 2 (part 4)"
+title: "longbow2 — Chapter 2 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -129,7 +129,7 @@ The general public never heard very much about it; at least until
 one catastrophic scene which was to follow.  There was some faint
 ripple of the question some months later, when Dr. Horace Hunter
 was standing for Parliament in that division.  One or two questions
-were asked about his duties in relation to [[River|river]] pollution;
+were asked about his duties in relation to river pollution;
 but it was soon apparent that no party particularly wished to force
 the issue against the best opinions advanced on the other side. 
 The greatest living authority on hygiene, Professor Hake,

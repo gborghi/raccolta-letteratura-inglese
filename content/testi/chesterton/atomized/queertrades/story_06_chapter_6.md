@@ -1,5 +1,5 @@
 ---
-title: "[[queertrades]] — Chapter 6"
+title: "queertrades — Chapter 6"
 author: "Chesterton"
 unitType: story
 parentWork: "works/queertrades-(chesterton)"
@@ -594,7 +594,7 @@ before he knew clearly that his head had struck the floor.
 Then Basil sprang at Greenwood, whom Rupert was struggling
 to hold down, and between them they secured him easily.
 The man who had hold of me let go and turned to his rescue, but I
-leaped up like a [[Spring|spring]] released, and, to my infinite satisfaction,
+leaped up like a [[spring]] released, and, to my infinite satisfaction,
 knocked the fellow down.  The other footman, bleeding at the mouth
 and quite demoralized, was stumbling out of the room.  My late captor,
 without a word, slunk after him, seeing that the battle was won.

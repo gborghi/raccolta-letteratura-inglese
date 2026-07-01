@@ -18,7 +18,7 @@ CHAPTER XVII
 [[Slavery|SLAVERY]]
 
 
-THE upholders of [[Slavery|slavery]] in [[America]]—of the atrocities of which system, I
+THE upholders of [[Slavery|slavery]] in [[america|America]]—of the atrocities of which system, I
 shall not write one word for which I have not had ample proof and
 warrant—may be divided into three great classes.
 
@@ -36,13 +36,13 @@ own, breed, use, buy, and sell them at all hazards: who doggedly deny the
 horrors of the system in the teeth of such a mass of evidence as never
 was brought to bear on any other subject, and to which the experience of
 every day contributes its immense amount; who would at this or any other
-moment, gladly involve [[America]] in a war, civil or foreign, provided that
+moment, gladly involve [[america|America]] in a war, civil or foreign, provided that
 it had for its sole end and object the assertion of their right to
 perpetuate [[Slavery|slavery]], and to whip and work and torture slaves, unquestioned
 by any human authority, and unassailed by any human power; who, when they
 speak of [[Freedom]], mean the [[Freedom]] to oppress their kind, and to be
 savage, merciless, and cruel; and of whom every man on his own ground, in
-republican [[America]], is a more exacting, and a sterner, and a less
+republican [[america|America]], is a more exacting, and a sterner, and a less
 responsible despot than the Caliph Haroun Alraschid in his angry robe of
 scarlet.
 
@@ -56,7 +56,7 @@ their growth in negro wrongs.
 
 It has been sometimes urged that, in the unavailing efforts which have
 been made to advance the cause of Human [[Freedom]] in the republic of
-[[America]] (strange cause for [[history]] to treat of!), sufficient regard has
+[[america|America]] (strange cause for [[history]] to treat of!), sufficient regard has
 not been had to the existence of the first class of persons; and it has
 been contended that they are hardly used, in being confounded with the
 second.  This is, no [[Doubt|doubt]], the case; noble instances of pecuniary and
@@ -153,7 +153,7 @@ done again, and again, and again.  He has no means of proving his
 investigation into his case is made, or inquiry instituted.  He, a free
 man, who may have served for years, and bought his liberty, is thrown
 into jail on no process, for no crime, and on no pretence of crime: and
-is sold to pay the jail fees.  This seems incredible, even of [[America]],
+is sold to pay the jail fees.  This seems incredible, even of [[america|America]],
 but it is the law.
 
 Public opinion is deferred to, in such cases as the following: which is
@@ -370,7 +370,7 @@ violent, or bear the impress of civilisation and refinement.
 That we may have no partial evidence from abolitionists in this inquiry,
 either, I will once more turn to their own newspapers, and I will confine
 myself, this [[Time|time]], to a selection from paragraphs which appeared from day
-to day, during my visit to [[America]], and which refer to occurrences
+to day, during my visit to [[america|America]], and which refer to occurrences
 happening while I was there.  The italics in these extracts, as in the
 foregoing, are my own.
 
@@ -612,7 +612,7 @@ Now, I appeal to every human mind, imbued with the commonest of common
 sense, and the commonest of common humanity; to all dispassionate,
 reasoning creatures, of any shade of opinion; and ask, with these
 revolting evidences of the state of society which exists in and about the
-slave districts of [[America]] before them, can they have a [[Doubt|doubt]] of the real
+slave districts of [[america|America]] before them, can they have a [[Doubt|doubt]] of the real
 condition of the slave, or can they for a moment make a compromise
 between the institution or any of its flagrant, fearful features, and
 their own just consciences? Will they say of any tale of cruelty and
@@ -670,6 +670,6 @@ and let us not, like dastards, beat about the bush by hinting at the
 Spaniard and the fierce Italian.  When knives are drawn by Englishmen in
 conflict let it be said and known: ‘We owe this change to Republican
 [[Slavery]].  These are the weapons of [[Freedom]].  With sharp points and edges
-such as these, Liberty in [[America]] hews and hacks her slaves; or, failing
+such as these, Liberty in [[america|America]] hews and hacks her slaves; or, failing
 that pursuit, her sons devote them to a better use, and turn them on each
 other.’

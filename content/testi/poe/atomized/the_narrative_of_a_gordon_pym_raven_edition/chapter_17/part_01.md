@@ -209,7 +209,3 @@ CHAPTER 17
       quarters of a mile per hour. The variation per azimuth had
 
       diminished, and the temperature of the air was mild and pleasant,
-
-      the thermometer being as high as fifty-one. At this period not a
-
-      particle of ice was to be discovered. All hands on board now felt

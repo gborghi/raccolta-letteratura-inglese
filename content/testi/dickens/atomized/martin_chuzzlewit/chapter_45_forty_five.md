@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 45: FORTY FIVE"
+title: "Martin Chuzzlewit — Chapter 45: FORTY FIVE"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -48,7 +48,7 @@ it was a good thing for that same paved yard to have such a delicate
 little figure flitting through it; that it passed like a smile from the
 grimy old houses, and the worn flagstones, and left them duller, darker,
 sterner than before; there is no sort of [[Doubt|doubt]]. The Temple fountain
-might have leaped up twenty feet to greet the [[Spring|spring]] of hopeful
+might have leaped up twenty feet to greet the [[spring]] of hopeful
 maidenhood, that in her person stole on, sparkling, through the dry and
 dusty channels of the Law; the chirping sparrows, bred in Temple
 chinks and crannies, might have held their peace to listen to imaginary

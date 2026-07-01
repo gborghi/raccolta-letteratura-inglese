@@ -1,5 +1,5 @@
 ---
-title: "[[aquinas]] — Chapter 6"
+title: "aquinas — Chapter 6"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/aquinas-(chesterton)"

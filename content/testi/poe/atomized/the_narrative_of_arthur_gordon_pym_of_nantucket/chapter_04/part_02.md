@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 5 (part 2)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 5 (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -13,6 +13,8 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_04/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_04/part_03">part 03 ›</a></div>
 </nav>
 
+
+for the receipt of the note, I should undoubtedly have fallen upon some
 
 plan, however desperate, of alarming the crew, and both our lives would
 
@@ -189,9 +191,3 @@ insufferable stench and the closeness of the atmosphere. He could not
 think it possible that I had survived my confinement for so long a
 
 period breathing so oppressive an air. He called my name repeatedly,
-
-but I made him no reply, and his apprehensions seemed thus to be
-
-confirmed. The brig was [[rolling]] violently, and there was so much noise
-
-in consequence, that it was useless to listen for any weak sound, such

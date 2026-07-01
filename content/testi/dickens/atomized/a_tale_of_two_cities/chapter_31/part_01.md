@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities — Chapter 24 (part 1)"
+title: "A Tale of Two Cities — Chapter 1 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-tale-of-two-cities-(dickens)"
@@ -10,128 +10,123 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/a-tale-of-two-cities-(dickens)">A Tale of Two Cities</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_30/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_31/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_30/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_31/part_02">part 02 ›</a></div>
 </nav>
 
 
-CHAPTER XXIV.
-Drawn to the Loadstone Rock
+Book the Third--the Track of a [[Storm]]
+CHAPTER I.
+In Secret
 
 
-In such risings of [[Fire|fire]] and risings of sea--the firm earth shaken by
-the rushes of an angry ocean which had now no ebb, but was always on the
-flow, higher and higher, to the terror and [[Wonder|wonder]] of the beholders on
-the shore--three years of tempest were consumed. Three more birthdays
-of little Lucie had been woven by the golden thread into the peaceful
-tissue of the life of her [[Home|home]].
+The traveller fared slowly on his way, who fared towards [[Paris]] from
+England in the [[Autumn|autumn]] of the year one thousand seven hundred and
+ninety-two. More than enough of bad roads, bad equipages, and bad
+horses, he would have encountered to delay him, though the fallen and
+unfortunate [[King of France]] had been upon his throne in all his glory;
+but, the changed times were fraught with other obstacles than
+these. Every town-gate and village taxing-[[house]] had its band of
+citizen-patriots, with their national muskets in a most explosive state
+of readiness, who stopped all comers and goers, [[Cross|cross]]-questioned them,
+inspected their papers, looked for their names in lists of their own,
+turned them back, or sent them on, or stopped them and laid them in
+hold, as their capricious judgment or fancy deemed best for the dawning
+Republic One and Indivisible, of Liberty, Equality, Fraternity, or
+[[Death]].
 
-Many a [[Night|night]] and many a day had its inmates listened to the echoes in
-the corner, with hearts that failed them when they heard the thronging
-feet. For, the footsteps had become to their minds as the footsteps of
-a people, tumultuous under a red [[Flag|flag]] and with their country declared in
-danger, changed into wild beasts, by terrible enchantment long persisted
-in.
+A very few French leagues of his [[Journey|journey]] were accomplished, when Charles
+Darnay began to perceive that for him along these country roads there
+was no [[Hope|hope]] of return until he should have been declared a good citizen
+at [[Paris]]. Whatever might befall now, he must on to his [[Journey|journey]]’s end.
+Not a mean village closed upon him, not a common barrier dropped across
+the [[Road|road]] behind him, but he knew it to be another iron door in
+the series that was barred between him and England. The universal
+watchfulness so encompassed him, that if he had been taken in a net,
+or were being forwarded to his destination in a cage, he could not have
+felt his [[Freedom|freedom]] more completely gone.
 
-Monseigneur, as a class, had dissociated himself from the phenomenon of
-his not being appreciated: of his being so little wanted in France, as
-to incur considerable danger of receiving his dismissal from it, and
-this life together. Like the fabled rustic who raised the Devil with
-infinite pains, and was so terrified at the sight of him that he could
-ask the Enemy no question, but immediately fled; so, Monseigneur, after
-boldly reading the Lord’s [[Prayer]] backwards for a great number of years,
-and performing many other potent spells for compelling the Evil One, no
-sooner beheld him in his terrors than he took to his noble heels.
+This universal watchfulness not only stopped him on the highway twenty
+times in a stage, but retarded his progress twenty times in a day, by
+riding after him and taking him back, riding before him and stopping him
+by anticipation, riding with him and keeping him in charge. He had been
+days upon his [[Journey|journey]] in France [[Alone|alone]], when he went to bed tired out, in
+a little town on the high [[Road|road]], still a long way from [[Paris]].
 
-The shining Bull’s Eye of the [[Court]] was gone, or it would have been the
-mark for a hurricane of national bullets. It had never been a good
-eye to see with--had long had the mote in it of [[Lucifer]]’s [[Pride|pride]],
-Sardanapalus’s luxury, and a mole’s blindness--but it had dropped
-out and was gone. The [[Court]], from that exclusive inner circle to its
-outermost rotten ring of intrigue, corruption, and dissimulation, was
-all gone together. Royalty was gone; had been besieged in its Palace and
-“suspended,” when the last tidings came over.
+Nothing but the production of the afflicted Gabelle’s letter from his
+[[Prison|prison]] of the Abbaye would have got him on so far. His difficulty at the
+guard-[[house]] in this small place had been such, that he felt his [[Journey|journey]]
+to have come to a crisis. And he was, therefore, as little surprised as
+a man could be, to find himself awakened at the small inn to which he
+had been remitted until morning, in the middle of the [[Night|night]].
 
-The August of the year one thousand seven hundred and ninety-two was
-come, and Monseigneur was by this [[Time|time]] scattered far and wide.
+Awakened by a timid local functionary and three armed patriots in rough
+red caps and with pipes in their mouths, who sat down on the bed.
 
-As was natural, the head-quarters and great gathering-place of
-Monseigneur, in [[London]], was Tellson’s Bank. Spirits are supposed to
-haunt the places where their bodies most resorted, and Monseigneur
-without a guinea haunted the spot where his guineas used to be.
-Moreover, it was the spot to which such French intelligence as was most
-to be relied upon, came quickest. Again: Tellson’s was a munificent
-[[house]], and extended great liberality to old customers who had fallen
-from their high estate. Again: those nobles who had seen the coming
-[[Storm|storm]] in [[Time|time]], and anticipating plunder or confiscation, had made
-provident remittances to Tellson’s, were always to be heard of there
-by their needy brethren. To which it must be added that every new-comer
-from France reported himself and his tidings at Tellson’s, almost as
-a matter of course. For such variety of reasons, Tellson’s was at that
-[[Time|time]], as to French intelligence, a kind of High Exchange; and this
-was so [[Well|well]] known to the public, and the inquiries made there were in
-consequence so numerous, that Tellson’s sometimes wrote the latest news
-out in a line or so and posted it in the Bank windows, for all who ran
-through Temple Bar to read.
+“Emigrant,” said the functionary, “I am going to send you on to [[Paris]],
+under an escort.”
 
-On a steaming, misty afternoon, Mr. Lorry sat at his desk, and Charles
-Darnay stood leaning on it, talking with him in a low voice. The
-penitential den once set apart for interviews with the [[house|House]], was now
-the news-Exchange, and was filled to overflowing. It was within half an
-hour or so of the [[Time|time]] of closing.
+“Citizen, I [[Desire|desire]] nothing more than to get to [[Paris]], though I could
+dispense with the escort.”
 
-“But, although you are the youngest man that ever lived,” said Charles
-Darnay, rather hesitating, “I must still suggest to you--”
+“[[Silence]]!” growled a red-cap, striking at the coverlet with the butt-end
+of his musket. “Peace, [[aristocrat]]!”
 
-“I understand. That I am too old?” said Mr. Lorry.
+“It is as the good patriot says,” observed the timid functionary. “You
+are an [[aristocrat]], and must have an escort--and must pay for it.”
 
-“Unsettled weather, a long [[Journey|journey]], uncertain means of travelling, a
-disorganised country, a [[City|city]] that may not be even safe for you.”
+“I have no choice,” said [[Charles Darnay]].
 
-“My dear Charles,” said Mr. Lorry, with cheerful confidence, “you touch
-some of the reasons for my going: not for my staying away. It is safe
-enough for me; nobody will care to interfere with an old fellow of hard
-upon fourscore when there are so many people there much better worth
-interfering with. As to its being a disorganised [[City|city]], if it were not a
-disorganised [[City|city]] there would be no occasion to send somebody from our
-[[house|House]] here to our [[house|House]] there, who knows the [[City|city]] and the business, of
-old, and is in Tellson’s confidence. As to the uncertain travelling, the
-long [[Journey|journey]], and the [[Winter|winter]] weather, if I were not prepared to submit
-myself to a few inconveniences for the sake of Tellson’s, after all
-these years, who ought to be?”
+“Choice! Listen to him!” cried the same scowling red-cap. “As if it was
+not a favour to be protected from the lamp-iron!”
 
-“I wish I were going myself,” said [[Charles Darnay]], somewhat restlessly,
-and like one thinking aloud.
+“It is always as the good patriot says,” observed the functionary. “Rise
+and dress yourself, emigrant.”
 
-“Indeed! You are a pretty fellow to object and advise!” exclaimed Mr.
-Lorry. “You wish you were going yourself? And you a Frenchman born? You
-are a wise counsellor.”
+Darnay complied, and was taken back to the guard-[[house]], where other
+patriots in rough red caps were smoking, drinking, and sleeping, by
+a watch-[[Fire|fire]]. Here he paid a heavy price for his escort, and hence he
+started with it on the wet, wet roads at three o’[[Clock|clock]] in the morning.
 
-“My dear Mr. Lorry, it is because I am a Frenchman born, that the
-thought (which I did not mean to utter here, however) has passed through
-my mind often. One cannot help thinking, having had some sympathy for
-the miserable people, and having abandoned something to them,” he spoke
-here in his former thoughtful manner, “that one might be listened to,
-and might have the power to persuade to some restraint. Only last [[Night|night]],
-after you had left us, when I was talking to Lucie--”
+The escort were two mounted patriots in red caps and tri-coloured
+cockades, armed with national muskets and sabres, who rode one on either
+side of him.
 
-“When you were talking to Lucie,” Mr. Lorry repeated. “Yes. I [[Wonder|wonder]] you
-are not ashamed to mention the name of Lucie! Wishing you were going to
-France at this [[Time|time]] of day!”
+The escorted governed his own [[Horse|horse]], but a loose line was attached to
+his bridle, the end of which one of the patriots kept girded round his
+wrist. In this state they set forth with the sharp rain driving in their
+faces: clattering at a heavy dragoon trot over the uneven town pavement,
+and out upon the mire-deep roads. In this state they traversed without
+change, except of horses and pace, all the mire-deep leagues that lay
+between them and the capital.
 
-“However, I am not going,” said [[Charles Darnay]], with a smile. “It is
-more to the purpose that you say you are.”
+They travelled in the [[Night|night]], halting an hour or two after daybreak, and
+lying by until the twilight fell. The escort were so wretchedly clothed,
+that they twisted straw round their bare legs, and thatched their ragged
+shoulders to keep the wet off. Apart from the personal discomfort of
+being so attended, and apart from such considerations of present danger
+as arose from one of the patriots being chronically drunk, and carrying
+his musket very recklessly, [[Charles Darnay]] did not allow the restraint
+that was laid upon him to awaken any serious fears in his breast; for,
+he reasoned with himself that it could have no reference to the merits
+of an individual case that was not yet stated, and of representations,
+confirmable by the prisoner in the Abbaye, that were not yet made.
 
-“And I am, in plain reality. The [[Truth|truth]] is, my dear Charles,” Mr. Lorry
-glanced at the distant [[house|House]], and lowered his voice, “you can have no
-conception of the difficulty with which our business is transacted, and
-of the peril in which our books and papers over yonder are involved. The
-Lord above knows what the compromising consequences would be to numbers
-of people, if some of our documents were seized or destroyed; and they
-might be, at any [[Time|time]], you know, for who can say that [[Paris]] is not set
-afire to-day, or sacked to-morrow! Now, a judicious selection from these
-with the least possible delay, and the burying of them, or otherwise
-getting of them out of harm’s way, is within the power (without loss of
-precious [[Time|time]]) of scarcely any one but myself, if any one. And shall
-I hang back, when Tellson’s knows this and says this--Tellson’s, whose
-bread I have eaten these sixty years--because I am a little stiff about
-the joints? Why, I am a boy, sir, to half a dozen old codgers here!”
+But when they came to the town of Beauvais--which they did at eventide,
+when the streets were filled with people--he could not conceal from
+himself that the aspect of affairs was very alarming. An ominous crowd
+gathered to see him dismount of the posting-yard, and many voices called
+out loudly, “Down with the emigrant!”
+
+He stopped in the act of swinging himself out of his saddle, and,
+resuming it as his safest place, said:
+
+“Emigrant, my friends! Do you not see me here, in France, of my own
+will?”
+
+“You are a cursed emigrant,” cried a farrier, making at him in a
+furious manner through the press, hammer in hand; “and you are a cursed
+[[aristocrat]]!”
+
+The postmaster interposed himself between this man and the rider’s
+bridle (at which he was evidently making), and soothingly said, “Let him
+be; let him be! He will be judged at [[Paris]].”

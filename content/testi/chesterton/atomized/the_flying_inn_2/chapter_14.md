@@ -301,7 +301,6 @@ by its roots, as he had done in the Island of the Olives,
 and carried it on his shoulder, like the club of
 Hercules.
 
-
 Up in Ivywood [[house|House]] Lord Ivywood had telephoned
 twice to Pebblewick.  It was a delay he seldom
 suffered; and, though he never expressed impatience in

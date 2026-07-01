@@ -122,13 +122,3 @@ To avoid a repetition of it would be far worthier than that
 frivolous Continental anti-Semitism which can find no answer
 to Jewish triumphs, except to flourish tauntingly the image
 of a martyred Jew upon an Aryan gibbet.
-
-G.K.C.
-
-
-A Denunciation of Parents
-
---March 9, 1901, The Speaker
-
-Concerning Children.  By Mrs. Charlotte Perkins (Stetson) Gilman.
-[[London]]:  G. P. Putnam's Sons.

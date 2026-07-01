@@ -1,5 +1,5 @@
 ---
-title: "[[TheAppOfTyranny]] — Chapter 1"
+title: "TheAppOfTyranny — Chapter 1"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/theappoftyranny-(chesterton)"
@@ -16,13 +16,7 @@ tags:
 
 I
 
-
-
 THE WAR ON THE WORD
-
-
-
-
 
 It will hardly be denied that there is one lingering [[Doubt|doubt]] in many, who
 
@@ -35,8 +29,6 @@ Sedan. That [[Doubt|doubt]] is the [[Doubt|doubt]] whether [[Russia]], as compar
 sufficiently decent and democratic to be the ally of liberal and civilised
 
 powers. I take first, therefore, this matter of civilisation.
-
-
 
 It is vital in a discussion like this, that we should make sure we are
 
@@ -73,8 +65,6 @@ there is no [[Doubt|doubt]] at all about the meanings; because nobody is likely 
 think of an elephant as four foot long, or of a [[Window|window]] as having tusks and
 
 a curly trunk.
-
-
 
 It is essential to emphasise this consciousness of the _thing_ under
 
@@ -132,8 +122,6 @@ Russians. It is very important that the neutral world should understand
 
 what this thing is.
 
-
-
 If the German calls the Russian barbarous he presumably means imperfectly
 
 civilised. There is a certain path along which Western nations have
@@ -167,8 +155,6 @@ in Frankfort) The True, The Beautiful and The Good. There is a real sense
 in which one can call such backwardness barbaric; by comparison with the
 
 Kaiserstrasse; and in that sense it is true of [[Russia]].
-
-
 
 Now we, the French and English, do not mean this when we call the Prussians
 
@@ -209,8 +195,6 @@ methods but of aims. We say that these veneered vandals have the perfectly
 serious aim of destroying certain ideas which, as they think, the world has
 
 outgrown; without which, as we think, the world will die.
-
-
 
 It is essential that this perilous peculiarity in the Pruss, or Positive
 
@@ -256,8 +240,6 @@ first is the idea of record and promise: the second is the idea of
 
 reciprocity.
 
-
-
 It is plain that the promise, or extension of responsibility through [[Time|time]],
 
 is what chiefly distinguishes us, I will not say from savages, but from
@@ -292,8 +274,6 @@ from a successful revolution to a return ticket. On that solitary string
 
 the Barbarian is hacking heavily, with a sabre which is fortunately blunt.
 
-
-
 Any one can see this [[Well|well]] enough, merely by reading the last negotiations
 
 between [[London]] and Berlin. The Prussians had made a new discovery in
@@ -317,8 +297,6 @@ of Prussia was quite sincere. That is what I mean when I say that the
 Barbarian is trying to cut away that cord of honesty and clear record, on
 
 which hangs all that men have made.
-
-
 
 The friends of the German cause have complained that Asiatics and Africans
 

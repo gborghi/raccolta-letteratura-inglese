@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 32 (part 2)"
+title: "The Tenant of Wildfell Hall — Chapter 32 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_32/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_32/part_03">part 03 ›</a></div>
 </nav>
 
+
+acknowledgment; and, with a childlike impulse, she expressed her
+
+sympathy by suddenly kissing my cheek, without a word of reply, and
+
+then turning quickly away, caught up her baby, and hid her face in its
 
 frock. How odd it is that we so often weep for each other’s distresses,
 
@@ -32,7 +38,7 @@ wept for myself for many a week.
 
 It was one rainy day last week; most of the company were killing [[Time|time]]
 
-in the billiard-room, but Milicent and I were with little [[arthur|Arthur]] and
+in the billiard-room, but Milicent and I were with little [[Arthur]] and
 
 [[Helen]] in the library, and between our books, our children, and each
 
@@ -217,25 +223,3 @@ appeared to twist them unmercifully.
 
 
 “Do you really, Ralph?” murmured she, with a faint smile beaming
-
-through her [[Tears|tears]], just putting up her hand to his, in token that he
-
-pulled _rather_ too hard.
-
-
-
-“To be sure I do,” responded he: “only you bother me rather,
-
-sometimes.”
-
-
-
-“_I_ bother you!” cried she, in very natural surprise.
-
-
-
-“Yes, _you_—but only by your exceeding goodness. When a boy has been
-
-eating raisins and sugar-plums all day, he longs for a squeeze of sour
-
-orange by way of a change. And did you never, Milly, observe the sands

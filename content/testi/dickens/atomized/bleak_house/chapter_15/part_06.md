@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 15 (part 6)"
+title: "Bleak House — Chapter 15 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_15/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_16/part_01">part 01 ›</a></div>
 </nav>
 
+
+His countenance had, perhaps for years, become so set in its
+contentious expression that it did not soften, even now when he was
+quiet.
+
+“I came to take these babies down to my room for an hour,” he said,
+going to them again, “and let them play about. I didn’t mean to say
+all this, but it don’t much signify. You’re not afraid of me, Tom,
+are you?”
 
 “No!” said Tom. “You ain’t angry with ME.”
 

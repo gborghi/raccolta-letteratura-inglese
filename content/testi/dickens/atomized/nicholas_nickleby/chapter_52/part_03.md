@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 52 (part 3)"
+title: "Nicholas Nickleby — Chapter 52 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,25 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_52/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_52/part_04">part 04 ›</a></div>
 </nav>
 
+
+It was not exactly a hairdresser’s; that is to say, people of a coarse
+and vulgar turn of mind might have called it a barber’s; for they not
+only cut and curled ladies elegantly, and children carefully, but shaved
+gentlemen easily. Still, it was a highly genteel establishment--quite
+first-rate in fact--and there were displayed in the [[Window|window]], besides
+other elegancies, waxen busts of a light lady and a dark gentleman which
+were the admiration of the whole neighbourhood. Indeed, some ladies
+had gone so far as to assert, that the dark gentleman was actually
+a portrait of the spirted young proprietor; and the great similarity
+between their head-dresses--both wore very glossy hair, with a narrow
+walk straight down the middle, and a profusion of flat circular curls
+on both sides--encouraged the idea. The better informed among the sex,
+however, made light of this assertion, for however willing they were
+(and they were very willing) to do full justice to the handsome face
+and figure of the proprietor, they held the countenance of the dark
+gentleman in the [[Window|window]] to be an exquisite and abstract idea of
+masculine [[Beauty|beauty]], realised sometimes, perhaps, among angels and military
+men, but very rarely embodied to gladden the eyes of mortals.
 
 It was to this establishment that [[Newman Noggs]] led Miss Kenwigs in
 safety. The proprietor, knowing that Miss Kenwigs had three sisters,
@@ -116,32 +135,3 @@ Noggs?’
 This was a puzzling inquiry; but Newman evaded it, by replying to Mr
 Lillyvick, that he thought the baby might possibly come like him in
 [[Time|time]].
-
-‘I should be glad to have somebody like me, somehow,’ said Mr. Lillyvick,
-‘before I die.’
-
-‘You don’t mean to do that, yet awhile?’ said Newman.
-
-Unto which Mr. Lillyvick replied in a solemn voice, ‘Let me be shaved!’
-and again consigning himself to the hands of the journeyman, said no
-more.
-
-This was remarkable behaviour. So remarkable did it seem to Miss
-Morleena, that that young lady, at the imminent hazard of having her ear
-sliced off, had not been able to forbear looking round, some score of
-times, during the foregoing colloquy. Of her, however, Mr. Lillyvick took
-no notice: rather striving (so, at least, it seemed to [[Newman Noggs]]) to
-evade her observation, and to shrink into himself whenever he attracted
-her regards. Newman wondered very much what could have occasioned this
-altered behaviour on the part of the collector; but, philosophically
-reflecting that he would most likely know, sooner or later, and that
-he could perfectly afford to wait, he was very little disturbed by the
-singularity of the old gentleman’s deportment.
-
-The cutting and curling being at last concluded, the old gentleman, who
-had been some [[Time|time]] waiting, [[Rose|rose]] to go, and, walking out with Newman
-and his charge, took Newman’s arm, and proceeded for some [[Time|time]] without
-making any observation. Newman, who in power of taciturnity was excelled
-by few people, made no attempt to break [[Silence|silence]]; and so they went
-on, until they had very nearly reached Miss Morleena’s [[Home|home]], when Mr
-Lillyvick said:

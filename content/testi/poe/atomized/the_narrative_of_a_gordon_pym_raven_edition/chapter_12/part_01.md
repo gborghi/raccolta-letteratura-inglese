@@ -203,7 +203,3 @@ CHAPTER 12
       spoken of will permit. The only method we could devise for the
 
       terrific lottery, in which we were to take each a chance, was
-
-      that of drawing straws. Small splinters of wood were made to
-
-      answer our purpose, and it was agreed that I should be the

@@ -128,10 +128,3 @@ what had yesterday taken place between him and Quilp.  Nor was it
 without great surprise and much speculation on Quilp’s probable
 motives, nor without many bitter comments on [[Dick Swiveller]]’s folly,
 that his friend received the tale.
-
-‘I don’t defend myself, [[Fred]],’ said the penitent [[Richard]]; ‘but the
-fellow has such a queer way with him and is such an artful dog, that
-first of all he set me upon thinking whether there was any harm in
-telling him, and while I was thinking, screwed it out of me.  If you
-had seen him drink and smoke, as I did, you couldn’t have kept anything
-from him.  He’s a Salamander you know, that’s what he is.’

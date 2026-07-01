@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 38: A DISSOLUTION OF PARTNERSHIP (part 6)"
+title: "David Copperfield — Chapter 38: A DISSOLUTION OF PARTNERSHIP (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_38_a_dissolution_of_partnership/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_39_wickfield_and_heep/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘Oh, I know he had!’ said I.
+
+They both stopped and looked at me. ‘On the very day when I last saw
+him,’ said I, ‘he told me that he had, and that his affairs were long
+since settled.’
 
 Mr. Jorkins and old Tiffey shook their heads with one accord.
 

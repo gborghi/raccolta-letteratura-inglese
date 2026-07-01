@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities — Chapter 10 (part 3)"
+title: "A Tale of Two Cities — Chapter 12 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-tale-of-two-cities-(dickens)"
@@ -10,125 +10,128 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/a-tale-of-two-cities-(dickens)">A Tale of Two Cities</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_42/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_42/part_04">part 04 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_42/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_43/part_01">part 01 ›</a></div>
 </nav>
 
 
-“‘She is my sister, Doctor. They have had their shameful rights, these
-Nobles, in the modesty and virtue of our sisters, many years, but we
-have had good girls among us. I know it, and have heard my father say
-so. She was a good girl. She was betrothed to a good young man, too: a
-tenant of his. We were all tenants of his--that man’s who stands there.
-The other is his brother, the worst of a bad race.’
+“What is it?” asked Mr. Lorry, eagerly.
 
-“It was with the greatest difficulty that the boy gathered bodily force
-to speak; but, his spirit spoke with a dreadful emphasis.
+“A moment! Let me speak of it in its place. First,” he put his hand in
+his coat, and took another paper from it, “that is the certificate which
+enables me to pass out of this [[City|city]]. Look at it. You see--[[Sydney Carton]],
+an Englishman?”
 
-“‘We were so robbed by that man who stands there, as all we common [[dogs]]
-are by those superior Beings--taxed by him without [[Mercy|mercy]], obliged to
-work for him without pay, obliged to grind our corn at his mill, obliged
-to feed scores of his tame [[Birds|birds]] on our wretched crops, and forbidden
-for our lives to keep a single tame bird of our own, pillaged and
-plundered to that degree that when we chanced to have a bit of meat, we
-ate it in [[Fear|fear]], with the door barred and the shutters closed, that his
-people should not see it and take it from us--I say, we were so robbed,
-and hunted, and were made so poor, that our father told us it was a
-dreadful thing to bring a [[Child|child]] into the world, and that what we should
-most pray for, was, that our women might be barren and our miserable
-race die out!’
+Mr. Lorry held it open in his hand, gazing in his earnest face.
 
-“I had never before seen the sense of being oppressed, bursting forth
-like a [[Fire|fire]]. I had supposed that it must be latent in the people
-somewhere; but, I had never seen it break out, until I saw it in the
-dying boy.
+“Keep it for me until to-morrow. I shall see him to-morrow, you
+remember, and I had better not take it into the [[Prison|prison]].”
 
-“‘Nevertheless, Doctor, my sister married. He was ailing at that [[Time|time]],
-poor fellow, and she married her [[Lover|lover]], that she might tend and comfort
-him in our cottage--our dog-hut, as that man would call it. She had not
-been married many weeks, when that man’s brother saw her and admired
-her, and asked that man to lend her to him--for what are husbands among
-us! He was willing enough, but my sister was good and virtuous, and
-hated his brother with a hatred as strong as mine. What did the two
-then, to persuade her husband to use his influence with her, to make her
-willing?’
+“Why not?”
 
-“The boy’s eyes, which had been fixed on mine, slowly turned to the
-looker-on, and I saw in the two faces that all he said was true. The two
-opposing kinds of [[Pride|pride]] confronting one another, I can see, even in this
-Bastille; the gentleman’s, all negligent indifference; the peasant’s, all
-trodden-down sentiment, and passionate [[Revenge|revenge]].
+“I don’t know; I prefer not to do so. Now, take this paper that Doctor
+Manette has carried about him. It is a similar certificate, enabling him
+and his daughter and her [[Child|child]], at any [[Time|time]], to pass the barrier and the
+frontier! You see?”
 
-“‘You know, Doctor, that it is among the Rights of these Nobles to
-harness us common [[dogs]] to carts, and drive us. They so harnessed him and
-drove him. You know that it is among their Rights to keep us in their
-grounds all [[Night|night]], quieting the frogs, in order that their noble [[Sleep|sleep]]
-may not be disturbed. They kept him out in the unwholesome mists at
-[[Night|night]], and ordered him back into his harness in the day. But he was
-not persuaded. No! Taken out of harness one day at [[Noon|noon]], to feed--if he
-could find food--he sobbed twelve times, once for every stroke of the
-bell, and died on her bosom.’
+“Yes!”
 
-“Nothing human could have held life in the boy but his determination to
-tell all his wrong. He forced back the gathering shadows of [[Death|death]], as
-he forced his clenched right hand to remain clenched, and to cover his
-wound.
+“Perhaps he obtained it as his last and utmost precaution against evil,
+yesterday. When is it dated? But no matter; don’t stay to look; put it
+up carefully with mine and your own. Now, observe! I never doubted until
+within this hour or two, that he had, or could have such a paper. It is
+good, until recalled. But it may be soon recalled, and, I have reason to
+think, will be.”
 
-“‘Then, with that man’s permission and even with his aid, his
-brother took her away; in spite of what I know she must have told his
-brother--and what that is, will not be long unknown to you, Doctor, if
-it is now--his brother took her away--for his pleasure and diversion,
-for a little while. I saw her pass me on the [[Road|road]]. When I took the
-tidings [[Home|home]], our father’s heart burst; he never spoke one of the words
-that filled it. I took my young sister (for I have another) to a place
-beyond the reach of this man, and where, at least, she will never be
-_his_ vassal. Then, I tracked the brother here, and last [[Night|night]] climbed
-in--a common dog, but [[Sword|sword]] in hand.--Where is the loft [[Window|window]]? It was
-somewhere here?’
+“They are not in danger?”
 
-“The room was darkening to his sight; the world was narrowing around
-him. I glanced about me, and saw that the hay and straw were trampled
-over the floor, as if there had been a struggle.
+“They are in great danger. They are in danger of denunciation by Madame
+Defarge. I know it from her own lips. I have overheard words of that
+woman’s, to-[[Night|night]], which have presented their danger to me in strong
+colours. I have lost no [[Time|time]], and since then, I have seen the spy. He
+confirms me. He knows that a wood-sawyer, living by the [[Prison|prison]] wall,
+is under the control of the Defarges, and has been rehearsed by
+[[Madame Defarge]] as to his having seen Her”--he never mentioned Lucie’s
+name--“making signs and signals to prisoners. It is easy to foresee that
+the pretence will be the common one, a [[Prison|prison]] plot, and that it will
+involve her life--and perhaps her [[Child|child]]’s--and perhaps her father’s--for
+both have been seen with her at that place. Don’t look so horrified. You
+will save them all.”
 
-“‘She heard me, and ran in. I told her not to come near us till he was
-dead. He came in and first tossed me some pieces of money; then struck
-at me with a whip. But I, though a common dog, so struck at him as to
-make him draw. Let him break into as many pieces as he will, the [[Sword|sword]]
-that he stained with my common [[Blood|blood]]; he drew to defend himself--thrust
-at me with all his skill for his life.’
+“Heaven grant I may, Carton! But how?”
 
-“My glance had fallen, but a few moments before, on the fragments of
-a broken [[Sword|sword]], lying among the hay. That weapon was a gentleman’s. In
-another place, lay an old [[Sword|sword]] that seemed to have been a soldier’s.
+“I am going to tell you how. It will depend on you, and it could depend
+on no better man. This new denunciation will certainly not take place
+until after to-morrow; probably not until two or three days afterwards;
+more probably a week afterwards. You know it is a capital crime, to
+mourn for, or sympathise with, a victim of the Guillotine. She and her
+father would unquestionably be guilty of this crime, and this woman (the
+inveteracy of whose pursuit cannot be described) would wait to add that
+strength to her case, and make herself doubly sure. You follow me?”
 
-“‘Now, lift me up, Doctor; lift me up. Where is he?’
+“So attentively, and with so much confidence in what you say, that for
+the moment I lose sight,” touching the back of the Doctor’s chair, “even
+of this distress.”
 
-“‘He is not here,’ I said, supporting the boy, and thinking that he
-referred to the brother.
+“You have money, and can buy the means of travelling to the seacoast
+as quickly as the [[Journey|journey]] can be made. Your preparations have been
+completed for some days, to return to England. Early to-morrow have your
+horses ready, so that they may be in starting trim at two o’[[Clock|clock]] in the
+afternoon.”
 
-“‘He! Proud as these nobles are, he is afraid to see me. Where is the
-man who was here? Turn my face to him.’
+“It shall be done!”
 
-“I did so, raising the boy’s head against my knee. But, invested for the
-moment with extraordinary power, he raised himself completely: obliging
-me to rise too, or I could not have still supported him.
+His manner was so fervent and inspiring, that Mr. Lorry caught the
+flame, and was as quick as youth.
 
-“‘Marquis,’ said the boy, turned to him with his eyes opened wide, and
-his right hand raised, ‘in the days when all these things are to be
-answered for, I summon you and yours, to the last of your bad race, to
-answer for them. I mark this [[Cross|cross]] of [[Blood|blood]] upon you, as a sign that
-I do it. In the days when all these things are to be answered for,
-I summon your brother, the worst of the bad race, to answer for them
-separately. I mark this [[Cross|cross]] of [[Blood|blood]] upon him, as a sign that I do
-it.’
+“You are a noble heart. Did I say we could depend upon no better man?
+Tell her, to-[[Night|night]], what you know of her danger as involving her [[Child|child]]
+and her father. Dwell upon that, for she would lay her own fair head
+beside her husband’s cheerfully.” He faltered for an instant; then went
+on as before. “For the sake of her [[Child|child]] and her father, press upon her
+the necessity of leaving [[Paris]], with them and you, at that hour. Tell
+her that it was her husband’s last arrangement. Tell her that more
+depends upon it than she dare believe, or [[Hope|hope]]. You think that her
+father, even in this sad state, will submit himself to her; do you not?”
 
-“Twice, he put his hand to the wound in his breast, and with his
-forefinger drew a [[Cross|cross]] in the air. He stood for an instant with the
-finger yet raised, and as it dropped, he dropped with it, and I laid him
-down dead.
+“I am sure of it.”
 
-        *****
+“I thought so. Quietly and steadily have all these arrangements made in
+the courtyard here, even to the taking of your own seat in the carriage.
+The moment I come to you, take me in, and drive away.”
 
-“When I returned to the bedside of the young woman, I found her raving
-in precisely the same order of continuity. I knew that this might last
-for many hours, and that it would probably end in the [[Silence|silence]] of the
-[[Grave|grave]].
+“I understand that I wait for you under all circumstances?”
+
+“You have my certificate in your hand with the rest, you know, and will
+reserve my place. Wait for nothing but to have my place occupied, and
+then for England!”
+
+“Why, then,” said Mr. Lorry, grasping his eager but so firm and steady
+hand, “it does not all depend on one old man, but I shall have a young
+and ardent man at my side.”
+
+“By the help of Heaven you shall! Promise me solemnly that nothing will
+influence you to alter the course on which we now stand pledged to one
+another.”
+
+“Nothing, Carton.”
+
+“Remember these words to-morrow: change the course, or delay in it--for
+any reason--and no life can possibly be saved, and many lives must
+inevitably be sacrificed.”
+
+“I will remember them. I [[Hope|hope]] to do my part faithfully.”
+
+“And I [[Hope|hope]] to do mine. Now, good bye!”
+
+Though he said it with a [[Grave|grave]] smile of earnestness, and though he even
+put the old man’s hand to his lips, he did not part from him then. He
+helped him so far to arouse the rocking figure before the dying embers,
+as to get a cloak and hat put upon it, and to tempt it forth to find
+where the bench and work were hidden that it still moaningly besought
+to have. He walked on the other side of it and protected it to the
+courtyard of the [[house]] where the afflicted heart--so happy in
+the memorable [[Time|time]] when he had revealed his own desolate heart to
+it--outwatched the awful [[Night|night]]. He entered the courtyard and remained
+there for a few moments [[Alone|alone]], looking up at the light in the [[Window|window]] of
+her room. Before he went away, he breathed a blessing towards it, and a
+Farewell.

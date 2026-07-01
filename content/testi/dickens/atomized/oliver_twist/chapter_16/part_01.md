@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 16 (part 1)"
+title: "Oliver Twist — Chapter 16 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -148,10 +148,3 @@ receding footsteps of the speaker were heard; and, in another minute,
 the form of Mr. John Dawkins, otherwise the [[Artful Dodger]], appeared. He
 bore in his right hand a tallow candle stuck in the end of a cleft
 stick.
-
-The young gentleman did not stop to bestow any other mark of
-recognition upon [[Oliver]] than a humourous grin; but, turning away,
-beckoned the visitors to follow him down a flight of stairs. They
-crossed an empty kitchen; and, opening the door of a low
-earthy-smelling room, which seemed to have been built in a small
-back-yard, were received with a shout of laughter.

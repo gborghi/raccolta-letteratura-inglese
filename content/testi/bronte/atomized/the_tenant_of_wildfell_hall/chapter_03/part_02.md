@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 3 (part 2)"
+title: "The Tenant of Wildfell Hall — Chapter 3 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_03/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_03/part_03">part 03 ›</a></div>
 </nav>
 
+
+you good, as you were tired with your walk; but she will not oblige you
+
+to take it!—I daresay you will do very [[Well|well]] without. He detests the
+
+very sight of wine,” she added, “and the smell of it almost makes him
 
 sick. I have been accustomed to make him [[Swallow|swallow]] a little wine or weak
 
@@ -215,19 +221,3 @@ but sent out to battle against it, [[Alone|alone]] and unassisted—not taught t
 avoid the snares of life, but boldly to rush into them, or over them,
 
 as he may—to seek danger, rather than shun it, and feed his virtue by
-
-[[Temptation|temptation]],—would you—?”
-
-
-
-“I beg your pardon, Mrs. Graham—but you get on too fast. I have not yet
-
-said that a boy should be taught to rush into the snares of life,—or
-
-even wilfully to seek [[Temptation|temptation]] for the sake of exercising his virtue
-
-by overcoming it;—I only say that it is better to arm and strengthen
-
-your [[Hero|hero]], than to disarm and enfeeble the foe;—and if you were to rear
-
-an oak sapling in a hothouse, tending it carefully [[Night|night]] and day, and

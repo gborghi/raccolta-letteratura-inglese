@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 24 (part 2)"
+title: "The Tenant of Wildfell Hall — Chapter 24 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -12,6 +12,18 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/the-tenant-of-wildfell-hall-(bronte)">The Tenant of Wildfell Hall</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_24/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_24/part_03">part 03 ›</a></div>
 </nav>
+
+
+grey clouds, streaming rain, soaking lawn, and dripping leafless trees,
+
+and muttering execrations on the weather, and then sat down to
+
+breakfast. While taking his coffee he muttered it was “d—d cold.”
+
+
+
+“You should not have left it so long,” said I.
+
 
 
 He made no answer, and the meal was concluded in [[Silence|silence]]. It was a
@@ -44,7 +56,7 @@ concerns, afforded me ample employment for the morning: after lunch I
 
 got my drawing, and from dinner till bed-[[Time|time]] I read. Meanwhile, poor
 
-[[arthur|Arthur]] was sadly at a loss for something to amuse him or to occupy his
+[[Arthur]] was sadly at a loss for something to amuse him or to occupy his
 
 [[Time|time]]. He wanted to appear as busy and as unconcerned as I did. Had the
 
@@ -128,7 +140,7 @@ out, and then quietly took up the book.
 
 
 
-“Give that book to me,” said [[arthur|Arthur]], in no very courteous tone. I gave
+“Give that book to me,” said [[Arthur]], in no very courteous tone. I gave
 
 it to him.
 
@@ -186,7 +198,7 @@ was much communication between my eyes and my brain; for, while the
 
 former ran over the pages, the latter was earnestly wondering when
 
-[[arthur|Arthur]] would speak next, and what he would say, and what I should
+[[Arthur]] would speak next, and what he would say, and what I should
 
 answer. But he did not speak again till I [[Rose|rose]] to make the tea, and
 
@@ -204,7 +216,7 @@ stood awaiting his commands.
 
 
 
-“What do you want, [[arthur|Arthur]]?” I said at length.
+“What do you want, [[Arthur]]?” I said at length.
 
 
 
@@ -220,28 +232,4 @@ willing it should be something else.
 
 
 
-“Were you speaking, [[arthur|Arthur]]?” I asked.
-
-
-
-“No,” was the answer, and I shut the door and departed. I saw nothing
-
-more of him till the following morning at breakfast, when he came down
-
-a full hour after the usual [[Time|time]].
-
-
-
-“You’re very late,” was my morning’s salutation.
-
-
-
-“You needn’t have waited for me,” was his; and he walked up to the
-
-[[Window|window]] again. It was just such weather as yesterday.
-
-
-
-“Oh, this confounded rain!” he muttered. But, after studiously
-
-regarding it for a minute or two, a bright idea, seemed to strike him,
+“Were you speaking, [[Arthur]]?” I asked.

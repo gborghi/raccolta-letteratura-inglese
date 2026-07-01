@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 21 (part 2)"
+title: "Shirley — Chapter 21 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_21/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_21/part_03">part 03 ›</a></div>
 </nav>
 
+
+He has plenty of [[Courage|courage]], but the greatest amount of gallantry that ever
+
+garrisoned one human breast could scarce avail against two hundred."
+
+
+
+"He had the soldiers, those poor slaves who hire out their own [[Blood|blood]] and
 
 spill other folk's for money."
 
@@ -197,13 +205,3 @@ carriage to the poor, their often base servility to the rich--I think
 the Establishment is indeed in a poor way, and both she and her sons
 
 appear in the utmost need of [[Reformation|reformation]]. Turning away distressed from
-
-minster tower and village spire--ay, as distressed as a churchwarden who
-
-feels the exigence of white-wash and has not wherewithal to purchase
-
-lime--I recall your senseless sarcasms on the 'fat bishops,' the
-
-'pampered parsons,' 'old mother church,' etc. I remember your strictures
-
-on all who differ from you, your sweeping condemnation of classes and

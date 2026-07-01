@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 35: DEPRESSION (part 4)"
+title: "David Copperfield — Chapter 35: DEPRESSION (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,29 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_35_depression/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_35_depression/part_05">part 05 ›</a></div>
 </nav>
 
+
+I am sure I knew nothing about him, except that he had originally been
+[[Alone|alone]] in the business, and now lived by himself in a [[house]] near Montagu
+Square, which was fearfully in want of painting; that he came very
+late of a day, and went away very early; that he never appeared to be
+consulted about anything; and that he had a dingy little black-hole of
+his own upstairs, where no business was ever done, and where there was
+a yellow old cartridge-paper pad upon his desk, unsoiled by ink, and
+reported to be twenty years of age.
+
+‘Would you object to my mentioning it to him, sir?’ I asked.
+
+‘By no means,’ said Mr. Spenlow. ‘But I have some experience of Mr.
+Jorkins, Copperfield. I wish it were otherwise, for I should be happy
+to meet your views in any respect. I cannot have the objection to your
+mentioning it to Mr. Jorkins, Copperfield, if you think it worth while.’
+
+Availing myself of this permission, which was given with a warm shake
+of the hand, I sat thinking about Dora, and looking at the sunlight
+stealing from the chimney-pots down the wall of the opposite [[house]],
+until Mr. Jorkins came. I then went up to Mr. Jorkins’s room, and
+evidently astonished Mr. Jorkins very much by making my appearance
+there.
 
 ‘Come in, Mr. Copperfield,’ said Mr. Jorkins. ‘Come in!’
 
@@ -118,29 +141,3 @@ so [[Well|well]] that nobody need be uncomfortable about her. Agnes had come to
 liking these many years: indeed, it dated from the [[Time|time]] of my taking up
 my residence in Mr. Wickfield’s [[house]]. She was not [[Alone|alone]], she said. Her
 papa was with her--and [[Uriah Heep]].
-
-‘And now they are partners,’ said I. ‘Confound him!’
-
-‘Yes,’ said Agnes. ‘They have some business here; and I took advantage
-of their coming, to come too. You must not think my visit all friendly
-and disinterested, Trotwood, for--I am afraid I may be cruelly
-prejudiced--I do not like to let papa go away [[Alone|alone]], with him.’ ‘Does he
-exercise the same influence over Mr. Wickfield still, Agnes?’
-
-Agnes shook her head. ‘There is such a change at [[Home|home]],’ said she, ‘that
-you would scarcely know the dear old [[house]]. They live with us now.’
-
-‘They?’ said I.
-
-‘Mr. Heep and his mother. He sleeps in your old room,’ said Agnes,
-looking up into my face.
-
-‘I wish I had the ordering of his [[Dreams|dreams]],’ said I. ‘He wouldn’t [[Sleep|sleep]]
-there long.’
-
-‘I keep my own little room,’ said Agnes, ‘where I used to learn my
-lessons. How the [[Time|time]] goes! You remember? The little panelled room that
-opens from the drawing-room?’
-
-‘Remember, Agnes? When I saw you, for the first [[Time|time]], coming out at the
-door, with your quaint little basket of keys hanging at your side?’

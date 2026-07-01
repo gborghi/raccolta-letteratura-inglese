@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 28: Mr. MICAWBER’S GAUNTLET (part 4)"
+title: "David Copperfield — Chapter 28: Mr. MICAWBER’S GAUNTLET (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"

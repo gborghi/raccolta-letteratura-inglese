@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 14 (part 6)"
+title: "Bleak House — Chapter 14 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_14/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_14/part_07">part 07 ›</a></div>
 </nav>
 
+
+The father opened the room door for us and bowed us out in a manner,
+I must acknowledge, worthy of his shining original. In the same style
+he presently passed us on the other side of the street, on his way to
+the aristocratic part of the town, where he was going to show himself
+among the few other gentlemen left. For some moments, I was so lost
+in reconsidering what I had heard and seen in Newman Street that I
+was quite unable to talk to Caddy or even to fix my attention on what
+she said to me, especially when I began to inquire in my mind whether
+there were, or ever had been, any other gentlemen, not in the dancing
+profession, who lived and founded a reputation entirely on their
+deportment. This became so bewildering and suggested the possibility
+of so many Mr. Turveydrops that I said, “Esther, you must make up
+your mind to abandon this subject altogether and attend to Caddy.” I
+accordingly did so, and we chatted all the rest of the way to
+[[Lincoln]]’s Inn.
 
 Caddy told me that her [[Lover|lover]]’s [[Education|education]] had been so neglected that
 it was not always easy to read his notes. She said if he were not so
@@ -100,26 +116,3 @@ by it—“a [[Double|double]] welcome!”
 “Has she been very ill?” asked Mr. Jarndyce of the gentleman whom we
 had found in attendance on her. She answered for herself directly,
 though he had put the question in a whisper.
-
-“Oh, decidedly unwell! Oh, very unwell indeed,” she said
-confidentially. “Not [[Pain|pain]], you know—trouble. Not bodily so much as
-nervous, nervous! The [[Truth|truth]] is,” in a subdued voice and trembling,
-“we have had [[Death|death]] here. There was [[Poison|poison]] in the [[house]]. I am very
-susceptible to such horrid things. It frightened me. Only Mr.
-Woodcourt knows how much. My physician, Mr. Woodcourt!” with
-great stateliness. “The wards in Jarndyce—Jarndyce of Bleak
-[[house|House]]—Fitz-Jarndyce!”
-
-“Miss Flite,” said Mr. Woodcourt in a [[Grave|grave]] kind of voice, as if he
-were appealing to her while speaking to us, and laying his hand
-gently on her arm, “Miss Flite describes her illness with her usual
-accuracy. She was alarmed by an occurrence in the [[house]] which might
-have alarmed a stronger person, and was made ill by the distress and
-agitation. She brought me here in the first hurry of the discovery,
-though too late for me to be of any use to the unfortunate man. I
-have compensated myself for that disappointment by coming here since
-and being of some small use to her.”
-
-“The kindest physician in the college,” whispered Miss Flite to me.
-“I expect a judgment. On the day of judgment. And shall then confer
-estates.”

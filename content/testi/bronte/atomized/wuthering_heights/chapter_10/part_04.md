@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 10 (part 4)"
+title: "Wuthering Heights — Chapter 10 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -123,24 +123,3 @@ agreeable person! I [[Hope|hope]] I have misunderstood you, [[Isabella]]?”
 
 “No, you have not,” said the infatuated girl. “I [[Love|love]] him more than
 ever you loved [[Edgar]], and he might [[Love|love]] me, if you would let him!”
-
-“I wouldn’t be you for a kingdom, then!” Catherine declared,
-emphatically: and she seemed to speak sincerely. “Nelly, help me to
-convince her of her [[Madness|madness]]. Tell her what [[Heathcliff]] is: an
-unreclaimed creature, without refinement, without cultivation; an arid
-wilderness of furze and whinstone. I’d as soon put that little canary
-into the park on a [[Winter|winter]]’s day, as recommend you to bestow your heart
-on him! It is deplorable ignorance of his character, [[Child|child]], and nothing
-else, which makes that dream enter your head. Pray, don’t imagine that
-he conceals depths of benevolence and affection beneath a stern
-exterior! He’s not a rough diamond—a pearl-containing oyster of a
-rustic: he’s a fierce, pitiless, wolfish man. I never say to him, ‘Let
-this or that enemy [[Alone|alone]], because it would be ungenerous or cruel to
-harm them;’ I say, ‘Let them [[Alone|alone]], because _I_ should hate them to be
-wronged:’ and he’d crush you like a sparrow’s egg, [[Isabella]], if he
-found you a troublesome charge. I know he couldn’t [[Love|love]] a Linton; and
-yet he’d be quite capable of marrying your fortune and expectations:
-avarice is growing with him a besetting sin. There’s my picture: and
-I’m his friend—so much so, that had he thought seriously to catch you,
-I should, perhaps, have held my tongue, and let you fall into his
-trap.”

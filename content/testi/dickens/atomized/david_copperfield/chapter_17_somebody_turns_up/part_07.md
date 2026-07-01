@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 17: SOMEBODY TURNS UP (part 7)"
+title: "David Copperfield — Chapter 17: SOMEBODY TURNS UP (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_17_somebody_turns_up/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_18_a_retrospect/part_01">part 01 ›</a></div>
 </nav>
 
+
+As the punch disappeared, Mr. Micawber became still more friendly and
+convivial. Mrs. Micawber’s spirits becoming elevated, too, we sang ‘Auld
+Lang Syne’. When we came to ‘Here’s a hand, my trusty frere’, we all
+joined hands round the table; and when we declared we would ‘take a
+right gude Willie Waught’, and hadn’t the least idea what it meant, we
+were really affected.
 
 In a word, I never saw anybody so thoroughly jovial as Mr. Micawber
 was, down to the very last moment of the evening, when I took a hearty

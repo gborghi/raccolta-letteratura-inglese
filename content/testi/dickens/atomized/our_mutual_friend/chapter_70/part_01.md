@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 11 (part 1)"
+title: "Our Mutual Friend — Chapter 15 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,152 +10,128 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_69/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_70/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_69/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_70/part_02">part 02 ›</a></div>
 </nav>
 
 
-Chapter 11
+Chapter 15
 
-EFFECT IS GIVEN TO THE DOLLS’ DRESSMAKER’S DISCOVERY
+WHAT WAS CAUGHT IN THE TRAPS THAT WERE SET
 
 
-Mrs John Rokesmith sat at needlework in her neat little room, beside a
-basket of neat little articles of clothing, which presented so much of
-the appearance of being in the dolls’ dressmaker’s way of business, that
-one might have supposed she was going to set up in opposition to Miss
-Wren. Whether the Complete British Family Housewife had imparted sage
-counsel anent them, did not appear, but probably not, as that cloudy
-oracle was nowhere visible. For certain, however, Mrs John Rokesmith
-stitched at them with so dexterous a hand, that she must have taken
-lessons of somebody. [[Love]] is in all things a most wonderful teacher,
-and perhaps [[Love|love]] (from a pictorial point of view, with nothing on but
-a thimble), had been teaching this branch of needlework to Mrs John
-Rokesmith.
+How [[Bradley Headstone]] had been racked and riven in his mind since the
+quiet evening when by the [[River|river]]-side he had risen, as it were, out of
+the ashes of the Bargeman, none but he could have told. Not even he
+could have told, for such misery can only be felt.
 
-It was near John’s [[Time|time]] for coming [[Home|home]], but as Mrs John was desirous to
-finish a special triumph of her skill before dinner, she did not go out
-to meet him. Placidly, though rather consequentially smiling, she sat
-stitching away with a regular sound, like a sort of dimpled little
-charming Dresden-china [[Clock|clock]] by the very best maker.
+First, he had to bear the combined weight of the knowledge of what he
+had done, of that haunting reproach that he might have done it so much
+better, and of the dread of discovery. This was load enough to crush
+him, and he laboured under it day and [[Night|night]]. It was as heavy on him in
+his scanty [[Sleep|sleep]], as in his red-eyed waking hours. It bore him down with
+a dread unchanging monotony, in which there was not a moment’s variety.
+The overweighted beast of burden, or the overweighted slave, can for
+certain instants shift the physical load, and find some slight respite
+even in enforcing additional [[Pain|pain]] upon such a set of muscles or such
+a limb. Not even that poor mockery of relief could the wretched man
+obtain, under the steady pressure of the infernal atmosphere into which
+he had entered.
 
-A knock at the door, and a ring at the bell. Not John; or Bella would
-have flown out to meet him. Then who, if not John? Bella was asking
-herself the question, when that fluttering little [[Fool|fool]] of a servant
-fluttered in, saying, ‘Mr Lightwood!’
+[[Time]] went by, and no visible suspicion dogged him; [[Time|time]] went by, and
+in such public accounts of the attack as were renewed at intervals,
+he began to see Mr Lightwood (who acted as lawyer for the injured man)
+straying further from the fact, going wider of the issue, and evidently
+slackening in his zeal. By degrees, a glimmering of the cause of this
+began to break on Bradley’s sight. Then came the chance meeting with Mr
+Milvey at the railway station (where he often lingered in his leisure
+hours, as a place where any fresh news of his deed would be circulated,
+or any placard referring to it would be posted), and then he saw in the
+light what he had brought about.
 
-Oh good gracious!
+For, then he saw that through his desperate attempt to separate those
+two for ever, he had been made the means of uniting them. That he had
+dipped his hands in [[Blood|blood]], to mark himself a miserable [[Fool|fool]] and tool.
+That [[Eugene Wrayburn]], for his wife’s sake, set him aside and left him to
+crawl along his blasted course. He thought of Fate, or [[Providence]], or
+be the directing Power what it might, as having put a fraud upon
+him—overreached him—and in his impotent mad rage bit, and tore, and
+had his fit.
 
-Bella had but [[Time|time]] to throw a handkerchief over the basket, when Mr
-Lightwood made his bow. There was something amiss with Mr Lightwood, for
-he was strangely [[Grave|grave]] and looked ill.
+New assurance of the [[Truth|truth]] came upon him in the next few following days,
+when it was put forth how the wounded man had been married on his bed,
+and to whom, and how, though always in a dangerous condition, he was a
+shade better. Bradley would far rather have been seized for his murder,
+than he would have read that passage, knowing himself spared, and
+knowing why.
 
-With a brief reference to the happy [[Time|time]] when it had been his privilege
-to know Mrs Rokesmith as Miss Wilfer, Mr Lightwood explained what was
-amiss with him and why he came. He came bearing [[Lizzie Hexam]]’s earnest
-[[Hope|hope]] that Mrs John Rokesmith would see her married.
+But, not to be still further defrauded and overreached—which he would
+be, if implicated by Riderhood, and punished by the law for his abject
+failure, as though it had been a [[success]]—he kept close in his school
+during the day, ventured out warily at [[Night|night]], and went no more to the
+railway station. He examined the advertisements in the newspapers for
+any sign that Riderhood acted on his hinted threat of so summoning him
+to renew their acquaintance, but found none. Having paid him handsomely
+for the support and accommodation he had had at the Lock [[house|House]], and
+knowing him to be a very ignorant man who could not write, he began to
+[[Doubt|doubt]] whether he was to be feared at all, or whether they need ever meet
+again.
 
-Bella was so fluttered by the request, and by the short narrative he had
-feelingly given her, that there never was a more timely smelling-bottle
-than John’s knock. ‘My husband,’ said Bella; ‘I’ll bring him in.’
+All this [[Time|time]], his mind was never off the rack, and his raging sense of
+having been made to fling himself across the chasm which divided those
+two, and bridge it over for their coming together, never cooled down.
+This horrible condition brought on other fits. He could not have said
+how many, or when; but he saw in the faces of his pupils that they had
+seen him in that state, and that they were possessed by a dread of his
+relapsing.
 
-But, that turned out to be more easily said than done; for, the instant
-she mentioned Mr Lightwood’s name, John stopped, with his hand upon the
-lock of the room door.
+One [[Winter|winter]] day when a slight fall of [[Snow|snow]] was feathering the sills and
+frames of the schoolroom windows, he stood at his black board, crayon in
+hand, about to commence with a class; when, reading in the countenances
+of those boys that there was something wrong, and that they seemed in
+alarm for him, he turned his eyes to the door towards which they faced.
+He then saw a slouching man of forbidding appearance standing in the
+midst of the school, with a bundle under his arm; and saw that it was
+Riderhood.
 
-‘Come up stairs, my darling.’
+He sat down on a stool which one of his boys put for him, and he had a
+passing knowledge that he was in danger of falling, and that his face
+was becoming distorted. But, the fit went off for that [[Time|time]], and he
+wiped his mouth, and stood up again.
 
-Bella was amazed by the flush in his face, and by his sudden turning
-away. ‘What can it mean?’ she thought, as she accompanied him up stairs.
+‘Beg your pardon, governor! By your leave!’ said Riderhood, knuckling
+his forehead, with a chuckle and a leer. ‘What place may this be?’
 
-‘Now, my life,’ said John, taking her on his knee, ‘tell me all about
-it.’
+‘This is a school.’
 
-All very [[Well|well]] to say, ‘Tell me all about it;’ but John was very much
-confused. His attention evidently trailed off, now and then, even while
-Bella told him all about it. Yet she knew that he took a great interest
-in Lizzie and her fortunes. What could it mean?
+‘Where young folks learns wot’s right?’ said Riderhood, gravely nodding.
+‘Beg your pardon, governor! By your leave! But who teaches this school?’
 
-‘You will come to this [[Marriage|marriage]] with me, John dear?’
+‘I do.’
 
-‘N—no, my [[Love|love]]; I can’t do that.’
+‘You’re the master, are you, learned governor?’
 
-‘You can’t do that, John?’
+‘Yes. I am the master.’
 
-‘No, my dear, it’s quite out of the question. Not to be thought of.’
+‘And a lovely thing it must be,’ said Riderhood, ‘fur to learn young
+folks wot’s right, and fur to know wot THEY know wot you do it. Beg your
+pardon, learned governor! By your leave!—That there black board; wot’s
+it for?’
 
-‘Am I to go [[Alone|alone]], John?’
+‘It is for drawing on, or writing on.’
 
-‘No, my dear, you will go with Mr Lightwood.’
+‘Is it though!’ said Riderhood. ‘Who’d have thought it, from the
+looks on it! WOULD you be so kind as write your name upon it, learned
+governor?’ (In a wheedling tone.)
 
-‘Don’t you think it’s [[Time|time]] we went down to Mr Lightwood, John dear?’
-Bella insinuated.
+Bradley hesitated for a moment; but placed his usual signature,
+enlarged, upon the board.
 
-‘My darling, it’s almost [[Time|time]] you went, but I must ask you to excuse me
-to him altogether.’
+‘I ain’t a learned character myself,’ said Riderhood, surveying the
+class, ‘but I do admire learning in others. I should dearly like to hear
+these here young folks read that there name off, from the writing.’
 
-‘You never mean, John dear, that you are not going to see him? Why, he
-knows you have come [[Home|home]]. I told him so.’
+The arms of the class went up. At the miserable master’s nod, the shrill
+[[Chorus|chorus]] arose: ‘[[Bradley Headstone]]!’
 
-‘That’s a little unfortunate, but it can’t be helped. Unfortunate or
-fortunate, I positively cannot see him, my [[Love|love]].’
-
-Bella cast about in her mind what could be his reason for this
-unaccountable behaviour; as she sat on his knee looking at him in
-astonishment and pouting a little. A weak reason presented itself.
-
-‘John dear, you never can be jealous of Mr Lightwood?’
-
-‘Why, my precious [[Child|child]],’ returned her husband, laughing outright: ‘how
-could I be jealous of him? Why should I be jealous of him?’
-
-‘Because, you know, John,’ pursued Bella, pouting a little more, ‘though
-he did rather admire me once, it was not my fault.’
-
-‘It was your fault that I admired you,’ returned her husband, with a
-look of [[Pride|pride]] in her, ‘and why not your fault that he admired you? But,
-I jealous on that account? Why, I must go distracted for life, if I
-turned jealous of every one who used to find my wife beautiful and
-winning!’
-
-‘I am half angry with you, John dear,’ said Bella, laughing a little,
-‘and half pleased with you; because you are such a stupid old fellow,
-and yet you say nice things, as if you meant them. Don’t be mysterious,
-sir. What harm do you know of Mr Lightwood?’
-
-‘None, my [[Love|love]].’
-
-‘What has he ever done to you, John?’
-
-‘He has never done anything to me, my dear. I know no more against
-him than I know against Mr Wrayburn; he has never done anything to me;
-neither has Mr Wrayburn. And yet I have exactly the same objection to
-both of them.’
-
-‘Oh, John!’ retorted Bella, as if she were giving him up for a bad job,
-as she used to give up herself. ‘You are nothing better than a sphinx!
-And a married sphinx isn’t a—isn’t a nice confidential husband,’ said
-Bella, in a tone of injury.
-
-‘Bella, my life,’ said John Rokesmith, touching her cheek, with a [[Grave|grave]]
-smile, as she cast down her eyes and pouted again; ‘look at me. I want
-to speak to you.’
-
-‘In earnest, Blue Beard of the secret chamber?’ asked Bella, clearing
-her pretty face.
-
-‘In earnest. And I confess to the secret chamber. Don’t you remember
-that you asked me not to declare what I thought of your higher qualities
-until you had been tried?’
-
-‘Yes, John dear. And I fully meant it, and I fully mean it.’
-
-‘The [[Time|time]] will come, my darling—I am no [[Prophet|prophet]], but I say so,—when
-you WILL be tried. The [[Time|time]] will come, I think, when you will undergo
-a trial through which you will never pass quite triumphantly for me,
-unless you can put perfect [[Faith|faith]] in me.’
-
-‘Then you may be sure of me, John dear, for I can put perfect [[Faith|faith]] in
-you, and I do, and I always, always will. Don’t judge me by a little
-thing like this, John. In little things, I am a little thing myself—I
-always was. But in great things, I [[Hope|hope]] not; I don’t mean to boast, John
-dear, but I [[Hope|hope]] not!’
+‘No?’ cried Riderhood. ‘You don’t mean it? Headstone! Why, that’s in a
+churchyard. Hooroar for another turn!’

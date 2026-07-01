@@ -1,5 +1,5 @@
 ---
-title: "[[longbow2]] — Chapter 3 (part 4)"
+title: "longbow2 — Chapter 3 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/longbow2/chapter_03/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/longbow2/chapter_03/part_05">part 05 ›</a></div>
 </nav>
 
+
+He disappeared like a flash behind the high bank and the wall,
+and Joan went back in [[Silence|silence]] to the inn.
+
+The first incident of the war did not seem superficially encouraging,
+though the [[Hero|hero]] of it seemed by no means discouraged by it. 
+As reported in the police news of various papers, Hilary Patrick Pierce,
+formerly of the Flying Corps, was arrested for driving pigs into
+the county of Bluntshire, in contravention of the regulations made
+for the public health.  He seemed to have had almost as much trouble
+with the pigs as with the police; but he made a witty and eloquent
+speech on being arrested, to which the police and the pigs appeared
+to be equally unresponsive.  The incident was considered trivial
+and his punishment was trifling; but the occasion was valued
+by some of the authorities as giving an opportunity for the final
+elucidation and establishment of the new rule.
 
 For this purpose it was fortunate that the principal magistrate
 of the bench was no less a person than the celebrated hygienist,
@@ -49,7 +65,6 @@ cutting that he had put aside as a curiosity some days before.
 It was a paragraph headed "Old Ladies as Mad Motorists," and ran
 as follows:
 
-
 "An unprecedented number of cases of motorists exceeding the [[Speed|speed]] limit
 have lately occurred on the Bath [[Road]] and other western highways. 
 The extraordinary feature of the case is that in so large a number
@@ -58,7 +73,6 @@ and respectability who professed to be merely taking their pugs
 and other pet [[Animals|animals]] for an airing.  They professed that the health
 of the animal required much more rapid transit through the air
 than is the case with human beings."
-
 
 He was gazing at this extract with as much perplexity as on his
 first perusal, when the Colonel entered with a newspaper in his hand.
@@ -107,26 +121,3 @@ Hood handed it to him and he nodded, saying:
 "Arrested for being a rich and respectable old lady," answered
 Hilary Pierce; "but I managed to escape that [[Time|time]].  It was a fine
 sight to see the old lady clear a hedge and skedaddle across a meadow."
-
-Hood looked at him under bended brows and his mouth began to work.
-
-"But what's all this about the old lady having a pug or a pet
-or something?"
-
-"[[Well]], it was very nearly a pug," said Pierce in a dispassionate manner. 
-"I pointed out to everybody that it was, as it were, an approximate pug. 
-I asked if it was just to punish me for a small mistake in spelling."
-
-"I begin to understand," said Hood.  "You were again smuggling
-swine down to your precious Blue Boar, and thought you could rush
-the frontier in very rapid cars."
-
-"Yes," replied the smuggler placidly.  "We were quite literally
-[[Road]]-Hogs. I thought at first of dressing the pigs up as millionaires
-and members of Parliament; but when you come to look close,
-there's more difference than you would imagine to be possible. 
-It was great fun when they forced me to take my pet out of
-the wrapping of shawls, and they found what a large pet it was."
-
-"And do I understand,' cut in the Colonel, "that it was something
-like that--with the other laws?"

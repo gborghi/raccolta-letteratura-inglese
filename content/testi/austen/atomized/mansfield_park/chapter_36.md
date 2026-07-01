@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 36"
+title: "Mansfield Park — Chapter 36"
 author: "Austen"
 unitType: chapter
 parentWork: "works/mansfield-park-(austen)"
@@ -310,7 +310,7 @@ these words.
 
 “I shall see your cousin in town soon: he talks of being there
 tolerably soon; and Sir Thomas, I dare say, in the course of the
-[[spring]]; and your eldest cousin, and the Rushworths, and [[Julia]], I am
+[[Spring|spring]]; and your eldest cousin, and the Rushworths, and [[Julia]], I am
 sure of meeting again and again, and all but you. I have two favours to
 ask, Fanny: one is your correspondence. You must write to me. And the
 other, that you will often call on Mrs. Grant, and make her amends for

@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 5 (part 4)"
+title: "Martin Chuzzlewit — Chapter 5 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_05/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_05/part_05">part 05 ›</a></div>
 </nav>
 
+
+But the shops. First of all there were the jewellers’ shops, with all
+the treasures of the earth displayed therein, and such large silver
+watches hanging up in every pane of glass, that if they were anything
+but first-rate goers it certainly was not because the works could
+decently complain of want of room. In good sooth they were big enough,
+and perhaps, as the saying is, ugly enough, to be the most correct of
+all mechanical performers; in Mr Pinch’s eyes, however they were smaller
+than Geneva ware; and when he saw one very bloated watch announced as a
+repeater, gifted with the uncommon power of striking every quarter of an
+hour inside the pocket of its happy owner, he almost wished that he were
+rich enough to buy it.
 
 But what were even gold and silver, precious stones and clockwork, to
 the bookshops, whence a pleasant smell of paper freshly pressed came

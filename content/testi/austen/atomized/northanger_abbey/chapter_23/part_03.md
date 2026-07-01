@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 22 (part 3)"
+title: "Northanger Abbey — Chapter 22 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_23/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_24/part_01">part 01 ›</a></div>
 </nav>
 
+
+even in the leafless month of March. Catherine had seen nothing to
+
+compare with it; and her feelings of delight were so strong, that
+
+without waiting for any better authority, she boldly burst forth in
+
+[[Wonder|wonder]] and praise. The General listened with assenting gratitude; and
+
+it seemed as if his own estimation of Northanger had waited unfixed
+
+till that hour.
+
+
+
+The kitchen-[[Garden|garden]] was to be next admired, and he led the way to it
 
 across a small portion of the park.
 

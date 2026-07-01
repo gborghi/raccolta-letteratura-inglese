@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 6 (part 5)"
+title: "Our Mutual Friend — Chapter 9 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,194 +10,142 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_47/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_48/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_47/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_47/part_06">part 06 ›</a></div>
 </nav>
 
 
-‘Is that the spot?’ asked [[Venus]] in a whisper.
+‘There is a certain man,’ said Lizzie, ‘a passionate and angry man, who
+says he loves me, and who I must believe does [[Love|love]] me. He is the friend
+of my brother. I shrank from him within myself when my brother first
+brought him to me; but the last [[Time|time]] I saw him he terrified me more than
+I can say.’ There she stopped.
 
-‘He’s warm,’ said Silas in the same tone. ‘He’s precious warm. He’s
-close. I think he must be going to look for it. What’s that he’s got in
-his hand?’
+‘Did you come here to escape from him, Lizzie?’
 
-‘A shovel,’ answered [[Venus]]. ‘And he knows how to use it, remember, fifty
-times as [[Well|well]] as either of us.’
+‘I came here immediately after he so alarmed me.’
 
-‘If he looks for it and misses it, partner,’ suggested Wegg, ‘what shall
-we do?’
+‘Are you afraid of him here?’
 
-‘First of all, wait till he does,’ said [[Venus]].
+‘I am not timid generally, but I am always afraid of him. I am afraid
+to see a newspaper, or to hear a word spoken of what is done in [[London]],
+lest he should have done some violence.’
 
-Discreet advice too, for he darkened his lantern again, and the mound
-turned black. After a few seconds, he turned the light on once more, and
-was seen standing at the foot of the second mound, slowly raising the
-lantern little by little until he held it up at arm’s length, as if he
-were examining the condition of the whole surface.
+‘Then you are not afraid of him for yourself, dear?’ said Bella, after
+pondering on the words.
 
-‘That can’t be the spot too?’ said [[Venus]].
+‘I should be even that, if I met him about here. I look round for him
+always, as I pass to and fro at [[Night|night]].’
 
-‘No,’ said Wegg, ‘he’s getting cold.’
+‘Are you afraid of anything he may do to himself in [[London]], my dear?’
 
-‘It strikes me,’ whispered [[Venus]], ‘that he wants to find out whether any
-one has been groping about there.’
+‘No. He might be fierce enough even to do some violence to himself, but
+I don’t think of that.’
 
-‘Hush!’ returned Wegg, ‘he’s getting colder and colder.—Now he’s
-freezing!’
+‘Then it would almost seem, dear,’ said Bella quaintly, ‘as if there
+must be somebody else?’
 
-This exclamation was elicited by his having turned the lantern off
-again, and on again, and being visible at the foot of the third mound.
+Lizzie put her hands before her face for a moment before replying: ‘The
+words are always in my ears, and the blow he struck upon a stone wall as
+he said them is always before my eyes. I have tried hard to think it
+not worth remembering, but I cannot make so little of it. His hand was
+trickling down with [[Blood|blood]] as he said to me, “Then I [[Hope|hope]] that I may
+never kill him!’
 
-‘Why, he’s going up it!’ said [[Venus]].
+Rather startled, Bella made and clasped a girdle of her arms round
+Lizzie’s waist, and then asked quietly, in a soft voice, as they both
+looked at the [[Fire|fire]]:
 
-‘Shovel and all!’ said Wegg.
+‘Kill him! Is this man so jealous, then?’
 
-At a nimbler trot, as if the shovel over his shoulder stimulated him by
-reviving old associations, Mr Boffin ascended the ‘serpentining walk’,
-up the Mound which he had described to [[Silas Wegg]] on the occasion of
-their beginning to decline and fall. On striking into it he turned his
-lantern off. The two followed him, stooping low, so that their figures
-might make no mark in relief against the sky when he should turn his
-lantern on again. [[Mr Venus]] took the lead, towing Mr Wegg, in order that
-his refractory leg might be promptly extricated from any pitfalls it
-should dig for itself. They could just make out that the Golden Dustman
-stopped to breathe. Of course they stopped too, instantly.
+‘Of a gentleman,’ said Lizzie. ‘—I hardly know how to tell you—of a
+gentleman far above me and my way of life, who broke father’s [[Death|death]] to
+me, and has shown an interest in me since.’
 
-‘This is his own Mound,’ whispered Wegg, as he recovered his [[Wind|wind]], ‘this
-one.’
+‘Does he [[Love|love]] you?’
 
-‘Why all three are his own,’ returned [[Venus]].
+Lizzie shook her head.
 
-‘So he thinks; but he’s used to call this his own, because it’s the one
-first left to him; the one that was his legacy when it was all he took
-under the will.’
+‘Does he admire you?’
 
-‘When he shows his light,’ said [[Venus]], keeping watch upon his dusky
-figure all the [[Time|time]], ‘drop lower and keep closer.’
+Lizzie ceased to shake her head, and pressed her hand upon her living
+girdle.
 
-He went on again, and they followed again. Gaining the top of the Mound,
-he turned on his light—but only partially—and stood it on the ground.
-A bare lopsided weatherbeaten pole was planted in the ashes there,
-and had been there many a year. Hard by this pole, his lantern stood:
-lighting a few feet of the lower part of it and a little of the ashy
-surface around, and then casting off a purposeless little clear trail of
-light into the air.
+‘Is it through his influence that you came here?’
 
-‘He can never be going to dig up the pole!’ whispered [[Venus]] as they
-dropped low and kept close.
+‘O no! And of all the world I wouldn’t have him know that I am here, or
+get the least clue where to find me.’
 
-‘Perhaps it’s holler and full of something,’ whispered Wegg.
+‘Lizzie, dear! Why?’ asked Bella, in amazement at this burst. But then
+quickly added, reading Lizzie’s face: ‘No. Don’t say why. That was a
+foolish question of mine. I see, I see.’
 
-He was going to dig, with whatsoever object, for he tucked up his cuffs
-and spat on his hands, and then went at it like an old digger as he
-was. He had no design upon the pole, except that he measured a shovel’s
-length from it before beginning, nor was it his purpose to dig deep.
-Some dozen or so of expert strokes sufficed. Then, he stopped, looked
-down into the cavity, bent over it, and took out what appeared to be an
-ordinary case-bottle: one of those squat, high-shouldered, short-necked
-glass bottles which the Dutchman is said to keep his [[Courage]] in. As soon
-as he had done this, he turned off his lantern, and they could hear that
-he was filling up the hole in the dark. The ashes being easily moved by
-a skilful hand, the spies took this as a hint to make off in good [[Time|time]].
-Accordingly, [[Mr Venus]] slipped past Mr Wegg and towed him down. But Mr
-Wegg’s descent was not accomplished without some personal inconvenience,
-for his [[Self|self]]-willed leg sticking into the ashes about half way down, and
-[[Time|time]] pressing, [[Mr Venus]] took the liberty of hauling him from his tether
-by the collar: which occasioned him to make the rest of the [[Journey|journey]] on
-his back, with his head enveloped in the skirts of his coat, and his
-wooden leg coming last, like a drag. So flustered was Mr Wegg by this
-mode of travelling, that when he was set on the level ground with his
-intellectual developments uppermost, he was quite unconscious of his
-bearings, and had not the least idea where his place of residence was
-to be found, until [[Mr Venus]] shoved him into it. Even then he staggered
-round and round, weakly staring about him, until [[Mr Venus]] with a hard
-brush brushed his senses into him and the [[Dust|dust]] out of him.
+There was [[Silence|silence]] between them. Lizzie, with a drooping head, glanced
+down at the glow in the [[Fire|fire]] where her first fancies had been nursed,
+and her first escape made from the grim life out of which she had
+plucked her brother, foreseeing her reward.
 
-Mr Boffin came down leisurely, for this brushing process had been [[Well|well]]
-accomplished, and [[Mr Venus]] had had [[Time|time]] to take his breath, before he
-reappeared. That he had the bottle somewhere about him could not be
-doubted; where, was not so clear. He wore a large rough coat, buttoned
-over, and it might be in any one of half a dozen pockets.
+‘You know all now,’ she said, raising her eyes to Bella’s. ‘There is
+nothing left out. This is my reason for living secret here, with the aid
+of a good old man who is my true friend. For a short part of my life
+at [[Home|home]] with father, I knew of things—don’t ask me what—that I set my
+face against, and tried to better. I don’t think I could have done more,
+then, without letting my hold on father go; but they sometimes lie heavy
+on my mind. By doing all for the best, I [[Hope|hope]] I may wear them out.’
 
-‘What’s the matter, Wegg?’ said Mr Boffin. ‘You are as pale as a
-candle.’
+‘And wear out too,’ said Bella soothingly, ‘this weakness, Lizzie, in
+favour of one who is not worthy of it.’
 
-Mr Wegg replied, with literal exactness, that he felt as if he had had a
-turn.
+‘No. I don’t want to wear that out,’ was the flushed reply, ‘nor do I
+want to believe, nor do I believe, that he is not worthy of it. What
+should I gain by that, and how much should I lose!’
 
-‘Bile,’ said Mr Boffin, blowing out the light in the lantern, shutting
-it up, and stowing it away in the breast of his coat as before. ‘Are you
-subject to bile, Wegg?’
+Bella’s expressive little eyebrows remonstrated with the [[Fire|fire]] for some
+short [[Time|time]] before she rejoined:
 
-Mr Wegg again replied, with strict adherence to [[Truth|truth]], that he didn’t
-think he had ever had a similar sensation in his head, to anything like
-the same extent.
+‘Don’t think that I press you, Lizzie; but wouldn’t you gain in peace,
+and [[Hope|hope]], and even in [[Freedom|freedom]]? Wouldn’t it be better not to live a
+secret life in hiding, and not to be shut out from your natural and
+wholesome prospects? Forgive my asking you, would that be no gain?’
 
-‘Physic yourself to-morrow, Wegg,’ said Mr Boffin, ‘to be in order
-for next [[Night|night]]. By-the-by, this neighbourhood is going to have a loss,
-Wegg.’
+‘Does a woman’s heart that—that has that weakness in it which you have
+spoken of,’ returned Lizzie, ‘seek to gain anything?’
 
-‘A loss, sir?’
+The question was so directly at variance with Bella’s views in life, as
+set forth to her father, that she said internally, ‘There, you little
+mercenary wretch! Do you hear that? Ain’t you ashamed of your [[Self|self]]?’
+and unclasped the girdle of her arms, expressly to give herself a
+penitential poke in the side.
 
-‘Going to lose the Mounds.’
+‘But you said, Lizzie,’ observed Bella, returning to her subject when
+she had administered this chastisement, ‘that you would lose, besides.
+Would you mind telling me what you would lose, Lizzie?’
 
-The friendly movers made such an obvious effort not to look at one
-another, that they might as [[Well|well]] have stared at one another with all
-their might.
+‘I should lose some of the best recollections, best encouragements,
+and best objects, that I carry through my daily life. I should lose my
+belief that if I had been his equal, and he had loved me, I should have
+tried with all my might to make him better and happier, as he would have
+made me. I should lose almost all the value that I put upon the little
+learning I have, which is all owing to him, and which I conquered the
+difficulties of, that he might not think it thrown away upon me. I
+should lose a kind of picture of him—or of what he might have been,
+if I had been a lady, and he had loved me—which is always with me, and
+which I somehow feel that I could not do a mean or a wrong thing before.
+I should leave off prizing the remembrance that he has done me nothing
+but good since I have known him, and that he has made a change within
+me, like—like the change in the grain of these hands, which were
+coarse, and cracked, and hard, and brown when I rowed on the [[River|river]] with
+father, and are softened and made supple by this new work as you see
+them now.’
 
-‘Have you parted with them, Mr Boffin?’ asked Silas.
+They trembled, but with no weakness, as she showed them.
 
-‘Yes; they’re going. Mine’s as good as gone already.’
-
-‘You mean the little one of the three, with the pole atop, sir.’
-
-‘Yes,’ said Mr Boffin, rubbing his ear in his old way, with that new
-touch of craftiness added to it. ‘It has fetched a penny. It’ll begin to
-be carted off to-morrow.’
-
-‘Have you been out to take leave of your old friend, sir?’ asked Silas,
-jocosely.
-
-‘No,’ said Mr Boffin. ‘What the devil put that in your head?’
-
-He was so sudden and rough, that Wegg, who had been hovering closer
-and closer to his skirts, despatching the back of his hand on exploring
-expeditions in search of the bottle’s surface, retired two or three
-paces.
-
-‘No offence, sir,’ said Wegg, humbly. ‘No offence.’
-
-Mr Boffin eyed him as a dog might eye another dog who wanted his bone;
-and actually retorted with a low growl, as the dog might have retorted.
-
-‘Good-[[Night|night]],’ he said, after having sunk into a moody [[Silence|silence]], with
-his hands clasped behind him, and his eyes suspiciously wandering about
-Wegg.—‘No! stop there. I know the way out, and I want no light.’
-
-Avarice, and the evening’s legends of avarice, and the inflammatory
-effect of what he had seen, and perhaps the rush of his ill-conditioned
-[[Blood|blood]] to his brain in his descent, wrought [[Silas Wegg]] to such a pitch of
-insatiable appetite, that when the door closed he made a swoop at it and
-drew [[Venus]] along with him.
-
-‘He mustn’t go,’ he cried. ‘We mustn’t let him go? He has got that
-bottle about him. We must have that bottle.’
-
-‘Why, you wouldn’t take it by force?’ said [[Venus]], restraining him.
-
-‘Wouldn’t I? Yes I would. I’d take it by any force, I’d have it at any
-price! Are you so afraid of one old man as to let him go, you coward?’
-
-‘I am so afraid of you, as not to let YOU go,’ muttered [[Venus]], sturdily,
-clasping him in his arms.
-
-‘Did you hear him?’ retorted Wegg. ‘Did you hear him say that he was
-resolved to disappoint us? Did you hear him say, you cur, that he was
-going to have the Mounds cleared off, when no [[Doubt|doubt]] the whole place will
-be rummaged? If you haven’t the spirit of a mouse to defend your rights,
-I have. Let me go after him.’
-
-As in his wildness he was making a strong struggle for it, [[Mr Venus]]
-deemed it expedient to lift him, throw him, and fall with him; [[Well|well]]
-knowing that, once down, he would not be up again easily with his wooden
-leg. So they both rolled on the floor, and, as they did so, Mr Boffin
-shut the gate.
+‘Understand me, my dear;’ thus she went on. ‘I have never dreamed of
+the possibility of his being anything to me on this earth but the
+kind picture that I know I could not make you understand, if the
+understanding was not in your own breast already. I have no more dreamed
+of the possibility of MY being his wife, than he ever has—and words
+could not be stronger than that. And yet I [[Love|love]] him. I [[Love|love]] him so much,
+and so dearly, that when I sometimes think my life may be but a weary
+one, I am proud of it and glad of it. I am proud and glad to suffer
+something for him, even though it is of no service to him, and he will
+never know of it or care for it.’

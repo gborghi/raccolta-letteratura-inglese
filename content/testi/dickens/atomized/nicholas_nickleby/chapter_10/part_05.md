@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 10 (part 5)"
+title: "Nicholas Nickleby — Chapter 10 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -10,9 +10,15 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/nicholas-nickleby-(dickens)">Nicholas Nickleby</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_10/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_12/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_10/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_11/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘My life,’ said Mr. Mantalini, ‘what a demd devil of a [[Time|time]] you have
+been!’
+
+‘I didn’t even know Mr. Nickleby was here, my [[Love|love]],’ said Madame
+Mantalini.
 
 ‘Then what a doubly demd infernal rascal that footman must be, my [[Soul|soul]],’
 remonstrated Mr. Mantalini.

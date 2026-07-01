@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 13 (part 1)"
+title: "The Professor — Chapter 13 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -15,8 +15,6 @@ tags:
 
 
 CHAPTER XIII.
-
-
 
 NEXT morning I [[Rose|rose]] with the [[Dawn|dawn]], and having dressed myself and stood
 
@@ -76,8 +74,6 @@ face looking as knowing and more haggard than usual, his blue eye
 
 turned, now sternly on his boys and ushers, and now graciously on me.
 
-
-
 “Circumstances must guide me,” said I; and meeting Pelet’s false glance
 
 and insinuating smile, I thanked heaven that I had last [[Night|night]] opened
@@ -91,8 +87,6 @@ his [[Nature|nature]] was now known to me; smile and flatter as he would, I saw 
 [[Soul|soul]] lurk behind his smile, and heard in every one of his smooth phrases
 
 a voice interpreting their treacherous import.
-
-
 
 But [[Zoraide Reuter]]? Of course her defection had cut me to the quick?
 
@@ -146,19 +140,13 @@ stood close by my side; she had nothing to say. I would not relieve her
 
 embarrassment, and negligently turned over the [[Leaves|leaves]] of a book.
 
-
-
 “I [[Hope|hope]] you feel quite recovered to-day,” at last she said, in a low
 
 tone.
 
-
-
 “And I, mademoiselle, [[Hope|hope]] that you took no cold last [[Night|night]] in
 
 consequence of your late walk in the [[Garden|garden]].”
-
-
 
 Quick enough of comprehension, she understood me directly; her face
 
@@ -193,9 +181,3 @@ repose--a rare [[Union|union]]! Looking at her, I was forced, as I had often bee
 before, to offer her good sense, her wondrous [[Self|self]]-control, the tribute
 
 of involuntary admiration. She had felt that I had withdrawn from her
-
-my esteem; she had seen contempt and coldness in my eye, and to her, who
-
-coveted the approbation of all around her, who thirsted after universal
-
-good opinion, such discovery must have been an acute wound. I had

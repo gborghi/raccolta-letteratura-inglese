@@ -1,5 +1,5 @@
 ---
-title: "[[Edward III|EDWARD III]]"
+title: "EDWARD III"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/edward-iii-(shakespeare)"

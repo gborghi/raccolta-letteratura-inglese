@@ -1,5 +1,5 @@
 ---
-title: "The Two Noble Kinsmen — Act III, Scene 6 — exchange ([[Palamon|PALAMON]]) [2]"
+title: "The Two Noble Kinsmen — Act III, Scene 6 — exchange (PALAMON) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-two-noble-kinsmen-(shakespeare)"

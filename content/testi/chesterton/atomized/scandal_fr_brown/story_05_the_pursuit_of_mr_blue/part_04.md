@@ -14,6 +14,11 @@ tags:
 </nav>
 
 
+And he turned away, ploughing through the sand to the place where the
+eccentric preacher had already mounted his marine nest; and looked in
+the green gloaming rather like some huge polyp or stinging jelly - fish
+trailing his poisonous filaments in the phosphorescent sea.
+
 Meanwhile the priest was serenely watching the serene approach of the
 secretary; conspicuous even from afar, in that popular crowd, by the
 clerical neatness and sobriety of his top - hat and tail - coat. Without
@@ -133,9 +138,3 @@ done it; you might have done it; the Mayor or the muffin - man might
 have done it. The only person on this earth I can think of, who probably
 would not have done it, is the private inquiry agent whom Bruce had just
 engaged at five pounds a week, and who hadn't yet had any of his money.'
-
-The secretary was silent for a moment; then he snorted and said: 'If
-that's the offer in the letter, we'd certainly better see whether it's a
-forgery. For really, we don't know that the whole tale isn't as false as
-a forgery. The fellow admits himself that the disappearance of his hunch
-- backed giant is utterly incredible and inexplicable.'

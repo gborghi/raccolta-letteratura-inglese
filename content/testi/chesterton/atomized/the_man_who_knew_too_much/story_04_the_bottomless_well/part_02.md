@@ -1,5 +1,5 @@
 ---
-title: "The Man Who Knew Too Much — The Bottomless [[Well]] (part 2)"
+title: "The Man Who Knew Too Much — The Bottomless Well (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/the-man-who-knew-too-much-(chesterton)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_04_the_bottomless_well/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_04_the_bottomless_well/part_03">part 03 ›</a></div>
 </nav>
 
+
+point of view. Lord [[Hastings]] himself is an Arab legend. That is
+
+perhaps the very greatest thing he really is. If his reputation went
 
 it would weaken us all over Asia and Africa. [[Well]], the story about
 
@@ -185,10 +189,3 @@ there is one very ugly responsibility about jolting a young man out
 of the rut of the most rotten ideal."
 "And what may that be?" inquired his friend.
 "It's very apt to set him off with the same energy in a much worse
-
-direction," answered Fisher; "a pretty endless sort of direction, a
-
-bottomless pit as deep as the bottomless [[Well|well]]."
-Fisher did not see his friend until a fortnight later, when he found
-
-himself in the [[Garden|garden]] at the back of the clubhouse on the opposite

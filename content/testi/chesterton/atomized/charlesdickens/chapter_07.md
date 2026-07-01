@@ -1,5 +1,5 @@
 ---
-title: "[[CharlesDickens]] — Chapter 6"
+title: "CharlesDickens — Chapter 6"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/charlesdickens-(chesterton)"
@@ -449,7 +449,7 @@ told him something sane and logical and unanswerable.
 But it is perhaps permissible to [[Doubt|doubt]] whether he told it
 to him quietly.
 
-He returned [[Home|home]] in the [[Spring|spring]] of 1842, and in the later part
+He returned [[Home|home]] in the [[spring]] of 1842, and in the later part
 of the year his "American Notes" appeared, and the cry against him
 that had begun over copyright swelled into a roar in his rear.
 Yet when we read the "Notes" we can find little offence

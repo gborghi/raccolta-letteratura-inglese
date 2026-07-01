@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 31 (part 3)"
+title: "Nicholas Nickleby — Chapter 31 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_31/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_32/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘Never mind,’ rejoined Newman, darting violently to and fro. ‘He’s
+coming up tonight: I wrote to tell him. He little thinks I know; he
+little thinks I care. Cunning scoundrel! he don’t think that. Not
+he, not he. Never mind, I’ll thwart him--I, [[Newman Noggs]]. Ho, ho, the
+rascal!’
+
+Lashing himself up to an extravagant pitch of fury, [[Newman Noggs]] jerked
+himself about the room with the most eccentric motion ever beheld in a
+human being: now sparring at the little miniatures on the wall, and
+now giving himself violent thumps on the head, as if to heighten the
+delusion, until he sank down in his former seat quite breathless and
+exhausted.
 
 ‘There,’ said Newman, picking up his hat; ‘that’s done me good. Now I’m
 better, and I’ll tell you all about it.’

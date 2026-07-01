@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 10 (part 2)"
+title: "Shirley — Chapter 10 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_10/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_10/part_03">part 03 ›</a></div>
 </nav>
 
+
+him, would not even speak to him when they met. He intimated also to his
+
+niece, very distinctly, that her communications with Hollow's Cottage
+
+must for the present cease; she must give up taking French lessons. The
 
 language, he observed, was a bad and frivolous one at the best, and most
 
@@ -203,19 +209,3 @@ was, he was from [[Home|home]], or he was quite taken up with business. Hortense
 feared he was killing himself by application. He scarcely ever took a
 
 meal in the [[house]]; he lived in the counting-[[house]].
-
-
-
-At church only Caroline had the chance of seeing him, and there she
-
-rarely looked at him. It was both too much [[Pain|pain]] and too much pleasure
-
-to look--it excited too much emotion; and that it was all wasted emotion
-
-she had learned [[Well|well]] to comprehend.
-
-
-
-Once, on a dark, wet [[Sunday]], when there were few people at church, and
-
-when especially certain ladies were absent, of whose observant faculties

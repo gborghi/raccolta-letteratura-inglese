@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 58 (part 1)"
+title: "Nicholas Nickleby — Chapter 58 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -117,14 +117,3 @@ and the weather was warm, Nicholas had this wheeled into a little
 orchard which was close at hand, and his charge being [[Well|well]] wrapped
 up and carried out to it, they used to sit there sometimes for hours
 together.
-
-It was on one of these occasions that a circumstance took place, which
-Nicholas, at the [[Time|time]], thoroughly believed to be the mere delusion of an
-[[Imagination|imagination]] affected by disease; but which he had, afterwards, too good
-reason to know was of real and actual occurrence.
-
-He had brought [[Smike]] out in his arms--poor fellow! a [[Child|child]] might have
-carried him then--to see the sunset, and, having arranged his couch, had
-taken his seat beside it. He had been watching the whole of the [[Night|night]]
-before, and being greatly fatigued both in mind and [[Body|body]], gradually fell
-asleep.

@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 14: MY AUNT MAKES UP HER MIND ABOUT ME (part 6)"
+title: "David Copperfield — Chapter 14: MY AUNT MAKES UP HER MIND ABOUT ME (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,21 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_14_my_aunt_makes_up_her_mind_abou/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_15_i_make_another_beginning/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘Allow me to inquire, Miss Trotwood,’ interposed Miss Murdstone,
+‘whom you are pleased to call, in a choice of words in which I am not
+experienced, my brother’s instruments?’
+
+‘It was clear enough, as I have told you, years before YOU ever saw
+her--and why, in the mysterious dispensations of [[Providence]], you ever
+did see her, is more than humanity can comprehend--it was clear enough
+that the poor soft little thing would marry somebody, at some [[Time|time]] or
+other; but I did [[Hope|hope]] it wouldn’t have been as bad as it has turned out.
+That was the [[Time|time]], Mr. Murdstone, when she gave birth to her boy here,’
+said my aunt; ‘to the poor [[Child|child]] you sometimes tormented her through
+afterwards, which is a disagreeable remembrance and makes the sight of
+him odious now. Aye, aye! you needn’t wince!’ said my aunt. ‘I know it’s
+true without that.’
 
 He had stood by the door, all this while, observant of her with a smile
 upon his face, though his black eyebrows were heavily contracted. I

@@ -1,5 +1,5 @@
 ---
-title: "[[Landor's Cottage]] (part 2)"
+title: "Landor's Cottage (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/landor's-cottage-(poe)"
@@ -102,46 +102,3 @@ tags:
       character as that I had found in the [[Road|road]]; if anything, more
       deliciously soft, thick, velvety, and miraculously green. It was
       hard to conceive how all this [[Beauty|beauty]] had been attained.
-
-      I have spoken of two openings into the vale. From the one to the
-      northwest issued a rivulet, which came, gently murmuring and
-      slightly foaming, down the ravine, until it dashed against the
-      group of rocks out of which sprang the insulated hickory. Here,
-      after encircling the tree, it passed on a little to the north of
-      east, leaving the tulip tree some twenty feet to the south, and
-      making no decided alteration in its course until it came near the
-      midway between the eastern and western boundaries of the valley.
-      At this point, after a series of sweeps, it turned off at right
-      angles and pursued a generally southern direction meandering as
-      it went—until it became lost in a small lake of irregular figure
-      (although roughly oval), that lay gleaming near the lower
-      extremity of the vale. This lakelet was, perhaps, a hundred yards
-      in diameter at its widest part. No crystal could be clearer than
-      its waters. Its [[Bottom|bottom]], which could be distinctly seen, consisted
-      altogether, of pebbles brilliantly white. Its banks, of the
-      emerald grass already described, rounded, rather than sloped, off
-      into the clear heaven below; and so clear was this heaven, so
-      perfectly, at times, did it reflect all objects above it, that
-      where the true bank ended and where the mimic one commenced, it
-      was a point of no little difficulty to determine. The trout, and
-      some other varieties of fish, with which this pond seemed to be
-      almost inconveniently crowded, had all the appearance of
-      veritable flying-fish. It was almost impossible to believe that
-      they were not absolutely suspended in the air. A light birch
-      canoe that lay placidly on the [[Water|water]], was reflected in its
-      minutest fibres with a fidelity unsurpassed by the most
-      exquisitely polished [[Mirror|mirror]]. A small island, fairly laughing with
-      [[Flowers|flowers]] in full bloom, and affording little more space than just
-      enough for a picturesque little building, seemingly a
-      fowl-[[house]]—arose from the lake not far from its northern shore—to
-      which it was connected by means of an inconceivably light-looking
-      and yet very primitive bridge. It was formed of a single, broad
-      and thick plank of the tulip wood. This was forty feet long, and
-      spanned the interval between shore and shore with a slight but
-      very perceptible arch, preventing all oscillation. From the
-      southern extreme of the lake issued a continuation of the
-      rivulet, which, after meandering for, perhaps, thirty yards,
-      finally passed through the “depression” (already described) in
-      the middle of the southern declivity, and tumbling down a sheer
-      precipice of a hundred feet, made its devious and unnoticed way
-      to the Hudson.

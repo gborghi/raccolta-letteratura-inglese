@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 25 (part 2)"
+title: "Jane Eyre — Chapter 25 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_25/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_25/part_03">part 03 ›</a></div>
 </nav>
 
+
+“How late it grows!” I said. “I will run down to the gates: it is
+moonlight at intervals; I can see a good way on the [[Road|road]]. He may be
+coming now, and to meet him will save some minutes of suspense.”
+
+The [[Wind|wind]] roared high in the great trees which embowered the gates; but
+the [[Road|road]] as far as I could see, to the right hand and the left, was all
+still and solitary: save for the shadows of clouds crossing it at
+intervals as the [[Moon|moon]] looked out, it was but a long pale line, unvaried
+by one moving speck.
 
 A puerile tear dimmed my eye while I looked—a tear of disappointment
 and impatience; ashamed of it, I wiped it away. I lingered; the [[Moon|moon]]
@@ -144,25 +154,3 @@ over-fatigued.”
 
 I looked up at him to read the signs of bliss in his face: it was
 ardent and flushed.
-
-“Give me your confidence, Jane,” he said: “relieve your mind of any
-weight that oppresses it, by imparting it to me. What do you [[Fear|fear]]?—that
-I shall not prove a good husband?”
-
-“It is the idea farthest from my thoughts.”
-
-“Are you apprehensive of the new sphere you are about to enter?—of the
-new life into which you are passing?”
-
-“No.”
-
-“You puzzle me, Jane: your look and tone of sorrowful audacity perplex
-and [[Pain|pain]] me. I want an explanation.”
-
-“Then, sir, listen. You were from [[Home|home]] last [[Night|night]]?”
-
-“I was: I know that; and you hinted a while ago at something which had
-happened in my absence:—nothing, probably, of consequence; but, in
-short, it has disturbed you. Let me hear it. Mrs. Fairfax has said
-something, perhaps? or you have overheard the servants talk?—your
-sensitive [[Self|self]]-respect has been wounded?”

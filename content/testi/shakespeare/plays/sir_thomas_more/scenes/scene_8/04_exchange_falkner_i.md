@@ -1,5 +1,5 @@
 ---
-title: "[[Sir Thomas More]] — Scene 8 — exchange (FALKNER I) [4]"
+title: "Sir Thomas More — Scene 8 — exchange (FALKNER I) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/sir-thomas-more-(shakespeare)"

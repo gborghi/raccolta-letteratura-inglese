@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 7 (part 4)"
+title: "Martin Chuzzlewit — Chapter 7 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_07/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_07/part_05">part 05 ›</a></div>
 </nav>
 
+
+‘Obliged to two strangers for a tavern bill, eh!’ repeated Mr Slyme,
+after a sulky application to his glass. ‘Very pretty! And crowds of
+impostors, the while, becoming famous; men who are no more on a level
+with me than--Tigg, I take you to witness that I am the most persecuted
+hound on the face of the earth.’
 
 With a whine, not unlike the cry of the animal he named, in its lowest
 state of humiliation, he raised his glass to his mouth again. He found
@@ -132,8 +138,3 @@ friend, who has--I ask the loan of three half-crowns. I ask you for the
 loan of three half-crowns, distinctly, and without a blush. I ask it,
 almost as a right. And when I add that they will be returned by post,
 this week, I feel that you will blame me for that sordid stipulation.’
-
-Mr Pinch took from his pocket an old-fashioned red-leather purse with
-a steel clasp, which had probably once belonged to his deceased
-grandmother. It held one half-sovereign and no more. All Tom’s worldly
-wealth until next quarter-day.

@@ -1,5 +1,5 @@
 ---
-title: "[[Henry VI|HENRY VI]] PART ONE"
+title: "HENRY VI PART ONE"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/henry-vi-part-one-(shakespeare)"

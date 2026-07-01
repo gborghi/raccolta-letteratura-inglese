@@ -1,5 +1,5 @@
 ---
-title: "[[wifrb11]] — The Fairy Tale of [[Father Brown]] (part 4)"
+title: "wifrb11 — The Fairy Tale of Father Brown (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -13,6 +13,36 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_12_the_fairy_tale_of_father_brown/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_12_the_fairy_tale_of_father_brown/part_05">part 05 ›</a></div>
 </nav>
 
+
+     "Away at the upper end of a rambling mountain path to which
+he was making his way, among the pillared rocks along the ridge
+that hangs above the town, stood the hermitage, hardly more than
+a cavern fenced with thorn, in which the third of the great brethren
+had long hidden himself from the world.  He, thought Prince Otto,
+could have no real reason for refusing to give up the gold. 
+He had known its place for years, and made no effort to find it,
+even before his new [[ascetic]] creed had cut him off from property
+or pleasures.  True, he had been an enemy, but he now professed
+a duty of having no enemies.  Some concession to his cause,
+some appeal to his principles, would probably get the mere money secret
+out of him.  Otto was no coward, in spite of his network of military
+precautions, and, in any case, his avarice was stronger than his fears. 
+Nor was there much cause for [[Fear|fear]].  Since he was certain there were
+no private arms in the whole principality, he was a hundred times
+more certain there were none in the Quaker's little hermitage on the [[Hill|hill]],
+where he lived on herbs, with two old rustic servants, and with
+no other voice of man for year after year.  Prince Otto looked down
+with something of a grim smile at the bright, square labyrinths
+of the lamp-lit [[City|city]] below him.  For as far as the eye could see
+there ran the rifles of his friends, and not one pinch of powder
+for his enemies.  Rifles ranked so close even to that mountain path
+that a cry from him would bring the soldiers rushing up the [[Hill|hill]],
+to say nothing of the fact that the wood and ridge were patrolled
+at regular intervals; rifles so far away, in the dim woods,
+dwarfed by distance, beyond the [[River|river]], that an enemy could not
+slink into the town by any detour.  And round the palace rifles
+at the west door and the east door, at the north door and the south,
+and all along the four facades linking them.  He was safe.
 
      "It was all the more clear when he had crested the ridge
 and found how naked was the nest of his old enemy.  He found himself
@@ -89,45 +119,3 @@ with his own military scarf.
 turned over the leaves, with a patience that had something horrible
 about it, till he came to the Epistle of St James, and then began to read: 
 `The tongue is a little member, but--'
-
-     "Something in the very voice made the Prince turn suddenly
-and plunge down the mountain-path he had climbed.  He was half-way towards
-the gardens of the palace before he even tried to tear the strangling scarf
-from his neck and jaws.  He tried again and again, and it was impossible;
-the men who had knotted that gag knew the difference between
-what a man can do with his hands in front of him and what he can do
-with his hands behind his head.  His legs were free to leap like
-an antelope on the [[Mountains|mountains]], his arms were free to use any gesture
-or wave any signal, but he could not speak.  A dumb devil was in him.
-
-     "He had come close to the woods that walled in the [[Castle|castle]]
-before he had quite realized what his wordless state meant
-and was meant to mean.  Once more he looked down grimly at the bright,
-square labyrinths of the lamp-lit [[City|city]] below him, and he smiled no more. 
-He felt himself repeating the phrases of his former mood with
-a murderous irony.  Far as the eye could see ran the rifles
-of his friends, every one of whom would shoot him dead
-if he could not answer the challenge.  Rifles were so near that
-the wood and ridge could be patrolled at regular intervals;
-therefore it was useless to hide in the wood till morning. 
-Rifles were ranked so far away that an enemy could not slink
-into the town by any detour; therefore it was vain to return to the [[City|city]]
-by any remote course.  A cry from him would bring his soldiers
-rushing up the [[Hill|hill]].  But from him no cry would come.
-
-     "The [[Moon|moon]] had risen in strengthening silver, and the sky showed
-in stripes of bright, nocturnal blue between the black stripes
-of the pines about the [[Castle|castle]].  [[Flowers]] of some wide and feathery sort--
-for he had never noticed such things before--were at once luminous
-and discoloured by the moonshine, and seemed indescribably fantastic
-as they clustered, as if crawling about the roots of the trees. 
-Perhaps his reason had been suddenly unseated by the unnatural captivity
-he carried with him, but in that wood he felt something
-unfathomably German--the fairy tale.  He knew with half his mind
-that he was drawing near to the [[Castle|castle]] of an ogre--he had forgotten
-that he was the ogre.  He remembered asking his mother if bears lived
-in the old park at [[Home|home]].  He stooped to pick a flower, as if it were
-a charm against enchantment.  The stalk was stronger than he expected,
-and broke with a slight snap.  Carefully trying to place it in his scarf,
-he heard the halloo, `Who goes there?' Then he remembered the scarf
-was not in its usual place.

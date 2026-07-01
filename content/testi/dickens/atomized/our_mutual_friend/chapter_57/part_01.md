@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 16 (part 1)"
+title: "Our Mutual Friend — Chapter 2 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,149 +10,142 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_56/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_57/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_56/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_57/part_02">part 02 ›</a></div>
 </nav>
 
 
-Chapter 16
+Chapter 2
 
-THE FEAST OF THE THREE HOBGOBLINS
+THE GOLDEN DUSTMAN RISES A LITTLE
 
 
-The [[City]] looked unpromising enough, as Bella made her way along its
-gritty streets. Most of its money-mills were slackening sail, or had
-left off grinding for the day. The master-millers had already departed,
-and the journeymen were departing. There was a jaded aspect on
-the business lanes and courts, and the very pavements had a weary
-appearance, confused by the tread of a million of feet. There must be
-hours of [[Night|night]] to temper down the day’s distraction of so feverish a
-place. As yet the worry of the newly-stopped whirling and grinding on
-the part of the money-mills seemed to linger in the air, and the quiet
-was more like the prostration of a spent giant than the repose of one
-who was renewing his strength.
+Mr and Mrs Lammle had come to breakfast with Mr and Mrs Boffin. They
+were not absolutely uninvited, but had pressed themselves with so much
+urgency on the golden couple, that evasion of the [[Honour|honour]] and pleasure
+of their company would have been difficult, if desired. They were in a
+charming state of mind, were Mr and Mrs Lammle, and almost as fond of Mr
+and Mrs Boffin as of one another.
 
-If Bella thought, as she glanced at the mighty Bank, how agreeable it
-would be to have an hour’s gardening there, with a bright copper shovel,
-among the money, still she was not in an avaricious vein. Much improved
-in that respect, and with certain half-formed images which had little
-gold in their composition, dancing before her bright eyes, she arrived
-in the drug-flavoured region of Mincing Lane, with the sensation of
-having just opened a drawer in a chemist’s shop.
+‘My dear Mrs Boffin,’ said Mrs Lammle, ‘it imparts new life to me, to
+see my Alfred in confidential communication with Mr Boffin. The two
+were formed to become intimate. So much simplicity combined with so much
+force of character, such natural sagacity united to such amiability and
+gentleness—these are the distinguishing characteristics of both.’
 
-The counting-[[house]] of Chicksey, Veneering, and Stobbles was pointed out
-by an elderly female accustomed to the care of offices, who dropped upon
-Bella out of a public-[[house]], wiping her mouth, and accounted for its
-humidity on natural principles [[Well|well]] known to the physical sciences, by
-explaining that she had looked in at the door to see what o’[[Clock|clock]] it
-was. The counting-[[house]] was a wall-eyed ground floor by a dark gateway,
-and Bella was considering, as she approached it, could there be any
-precedent in the [[City]] for her going in and asking for R. Wilfer, when
-whom should she see, sitting at one of the windows with the plate-glass
-sash raised, but R. Wilfer himself, preparing to take a slight
-refection.
+This being said aloud, gave Mr Lammle an opportunity, as he came with Mr
+Boffin from the [[Window|window]] to the breakfast table, of taking up his dear and
+honoured wife.
 
-On approaching nearer, Bella discerned that the refection had
-the appearance of a small cottage-loaf and a pennyworth of milk.
-Simultaneously with this discovery on her part, her father discovered
-her, and invoked the echoes of Mincing Lane to exclaim ‘My gracious me!’
+‘My Sophronia,’ said that gentleman, ‘your too partial estimate of your
+husband’s character—’
 
-He then came cherubically flying out without a hat, and embraced her,
-and handed her in. ‘For it’s after hours and I am all [[Alone|alone]], my dear,’
-he explained, ‘and am having—as I sometimes do when they are all
-gone—a quiet tea.’
+‘No! Not too partial, Alfred,’ urged the lady, tenderly moved; ‘never
+say that.’
 
-Looking round the office, as if her father were a captive and this his
-cell, Bella hugged him and choked him to her heart’s content.
+‘My [[Child|child]], your favourable opinion, then, of your husband—you don’t
+object to that phrase, darling?’
 
-‘I never was so surprised, my dear!’ said her father. ‘I couldn’t
-believe my eyes. Upon my life, I thought they had taken to lying! The
-idea of your coming down the Lane yourself! Why didn’t you send the
-footman down the Lane, my dear?’
+‘How can I, Alfred?’
 
-‘I have brought no footman with me, Pa.’
+‘Your favourable opinion then, my Precious, does less than justice to Mr
+Boffin, and more than justice to me.’
 
-‘Oh indeed! But you have brought the elegant turn-out, my [[Love|love]]?’
+‘To the first charge, Alfred, I plead guilty. But to the second, oh no,
+no!’
 
-‘No, Pa.’
+‘Less than justice to Mr Boffin, Sophronia,’ said Mr Lammle, soaring
+into a tone of moral grandeur, ‘because it represents Mr Boffin as on my
+lower level; more than justice to me, Sophronia, because it represents
+me as on Mr Boffin’s higher level. Mr Boffin bears and forbears far more
+than I could.’
 
-‘You never can have walked, my dear?’
+‘Far more than you could for yourself, Alfred?’
 
-‘Yes, I have, Pa.’
+‘My [[Love|love]], that is not the question.’
 
-He looked so very much astonished, that Bella could not make up her mind
-to break it to him just yet.
+‘Not the question, Lawyer?’ said Mrs Lammle, archly.
 
-‘The consequence is, Pa, that your lovely woman feels a little faint,
-and would very much like to share your tea.’
+‘No, dear Sophronia. From my lower level, I regard Mr Boffin as too
+generous, as possessed of too much clemency, as being too good to
+persons who are unworthy of him and ungrateful to him. To those noble
+qualities I can lay no claim. On the contrary, they rouse my indignation
+when I see them in action.’
 
-The cottage loaf and the pennyworth of milk had been set forth on a
-sheet of paper on the [[Window|window]]-seat. The cherubic pocket-knife, with the
-first bit of the loaf still on its point, lay beside them where it had
-been hastily thrown down. Bella took the bit off, and put it in her
-mouth. ‘My dear [[Child|child]],’ said her father, ‘the idea of your partaking of
-such lowly fare! But at least you must have your own loaf and your own
-penn’orth. One moment, my dear. The Dairy is just over the way and round
-the corner.’
+‘Alfred!’
 
-Regardless of Bella’s dissuasions he ran out, and quickly returned with
-the new supply. ‘My dear [[Child|child]],’ he said, as he spread it on another
-piece of paper before her, ‘the idea of a splendid—!’ and then looked
-at her figure, and stopped short.
+‘They rouse my indignation, my dear, against the unworthy persons,
+and give me a combative [[Desire|desire]] to stand between Mr Boffin and all such
+persons. Why? Because, in my lower [[Nature|nature]] I am more worldly and less
+delicate. Not being so magnanimous as Mr Boffin, I feel his injuries
+more than he does himself, and feel more capable of opposing his
+injurers.’
 
-‘What’s the matter, Pa?’
+It struck Mrs Lammle that it appeared rather difficult this morning
+to bring Mr and Mrs Boffin into agreeable conversation. Here had been
+several lures thrown out, and neither of them had uttered a word. Here
+were she, Mrs Lammle, and her husband discoursing at once affectingly
+and effectively, but discoursing [[Alone|alone]]. Assuming that the dear old
+creatures were impressed by what they heard, still one would like to be
+sure of it, the more so, as at least one of the dear old creatures
+was somewhat pointedly referred to. If the dear old creatures were too
+bashful or too dull to assume their required places in the discussion,
+why then it would seem desirable that the dear old creatures should be
+taken by their heads and shoulders and brought into it.
 
-‘—of a splendid female,’ he resumed more slowly, ‘putting up with
-such accommodation as the present!—Is that a new dress you have on, my
-dear?’
+‘But is not my husband saying in effect,’ asked Mrs Lammle, therefore,
+with an [[Innocent|innocent]] air, of Mr and Mrs Boffin, ‘that he becomes unmindful
+of his own temporary misfortunes in his admiration of another whom he is
+burning to serve? And is not that making an admission that his [[Nature|nature]] is
+a generous one? I am wretched in argument, but surely this is so, dear
+Mr and Mrs Boffin?’
 
-‘No, Pa, an old one. Don’t you remember it?’
+Still, neither Mr and Mrs Boffin said a word. He sat with his eyes on
+his plate, eating his muffins and ham, and she sat shyly looking at the
+teapot. Mrs Lammle’s [[Innocent|innocent]] appeal was merely thrown into the air, to
+mingle with the steam of the urn. Glancing towards Mr and Mrs Boffin,
+she very slightly raised her eyebrows, as though inquiring of her
+husband: ‘Do I notice anything wrong here?’
 
-‘Why, I THOUGHT I remembered it, my dear!’
+Mr Lammle, who had found his chest effective on a variety of occasions,
+manoeuvred his capacious shirt front into the largest demonstration
+possible, and then smiling retorted on his wife, thus:
 
-‘You should, for you bought it, Pa.’
+‘Sophronia, darling, Mr and Mrs Boffin will remind you of the old adage,
+that [[Self|self]]-praise is no recommendation.’
 
-‘Yes, I THOUGHT I bought it my dear!’ said the cherub, giving himself a
-little shake, as if to rouse his faculties.
+‘[[Self]]-praise, Alfred? Do you mean because we are one and the same?’
 
-‘And have you grown so fickle that you don’t like your own taste, Pa
-dear?’
+‘No, my dear [[Child|child]]. I mean that you cannot fail to remember, if you
+reflect for a single moment, that what you are pleased to compliment me
+upon feeling in the case of Mr Boffin, you have yourself confided to me
+as your own feeling in the case of Mrs Boffin.’
 
-‘[[Well]], my [[Love|love]],’ he returned, swallowing a bit of the cottage loaf with
-considerable effort, for it seemed to stick by the way: ‘I should have
-thought it was hardly sufficiently splendid for existing circumstances.’
+(‘I shall be beaten by this Lawyer,’ Mrs Lammle gaily whispered to
+Mrs Boffin. ‘I am afraid I must admit it, if he presses me, for it’s
+damagingly true.’)
 
-‘And so, Pa,’ said Bella, moving coaxingly to his side instead of
-remaining opposite, ‘you sometimes have a quiet tea here all [[Alone|alone]]? I
-am not in the tea’s way, if I draw my arm over your shoulder like this,
-Pa?’
+Several white dints began to come and go about Mr Lammle’s nose, as he
+observed that Mrs Boffin merely looked up from the teapot for a moment
+with an embarrassed smile, which was no smile, and then looked down
+again.
 
-‘Yes, my dear, and no, my dear. Yes to the first question, and Certainly
-Not to the second. Respecting the quiet tea, my dear, why you see the
-occupations of the day are sometimes a little wearing; and if there’s
-nothing interposed between the day and your mother, why SHE is sometimes
-a little wearing, too.’
+‘Do you admit the charge, Sophronia?’ inquired Alfred, in a rallying
+tone.
 
-‘I know, Pa.’
+‘Really, I think,’ said Mrs Lammle, still gaily, ‘I must throw myself
+on the protection of the [[Court]]. Am I bound to answer that question, my
+Lord?’ To Mr Boffin.
 
-‘Yes, my dear. So sometimes I put a quiet tea at the [[Window|window]] here, with
-a little quiet contemplation of the Lane (which comes soothing), between
-the day, and domestic—’
+‘You needn’t, if you don’t like, ma’am,’ was his answer. ‘It’s not of
+the least consequence.’
 
-‘Bliss,’ suggested Bella, sorrowfully.
+Both husband and wife glanced at him, very doubtfully. His manner was
+[[Grave|grave]], but not coarse, and derived some dignity from a certain repressed
+dislike of the tone of the conversation.
 
-‘And domestic Bliss,’ said her father, quite contented to accept the
-phrase.
+Again Mrs Lammle raised her eyebrows for instruction from her husband.
+He replied in a slight nod, ‘Try ’em again.’
 
-Bella kissed him. ‘And it is in this dark dingy place of captivity,
-poor dear, that you pass all the hours of your life when you are not at
-[[Home|home]]?’
-
-‘Not at [[Home|home]], or not on the [[Road|road]] there, or on the [[Road|road]] here, my [[Love|love]].
-Yes. You see that little desk in the corner?’
-
-‘In the dark corner, furthest both from the light and from the
-fireplace? The shabbiest desk of all the desks?’
-
-‘Now, does it really strike you in that point of view, my dear?’ said
-her father, surveying it artistically with his head on one side: ‘that’s
-mine. That’s called Rumty’s Perch.’
+‘To protect myself against the suspicion of covert [[Self|self]]-laudation, my
+dear Mrs Boffin,’ said the airy Mrs Lammle therefore, ‘I must tell you
+how it was.’

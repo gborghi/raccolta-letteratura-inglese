@@ -1,5 +1,5 @@
 ---
-title: "The Picture of [[Dorian Gray]] — Chapter 3"
+title: "The Picture of Dorian Gray — Chapter 3"
 author: "Wilde"
 unitType: chapter
 parentWork: "works/the-picture-of-dorian-gray-(wilde)"
@@ -37,7 +37,7 @@ When Lord Henry entered the room, he found his uncle sitting in a rough shooting
 “Who are her people?” grumbled the old gentleman. “Has she got any?”
 Lord Henry shook his head. “American girls are as clever at concealing their parents, as English women are at concealing their past,” he said, rising to go.
 “They are pork-packers, I suppose?”
-“I [[Hope|hope]] so, Uncle George, for Dartmoor’s sake. I am told that pork-packing is the most lucrative profession in [[America]], after politics.”
+“I [[Hope|hope]] so, Uncle George, for Dartmoor’s sake. I am told that pork-packing is the most lucrative profession in [[america|America]], after politics.”
 “Is she pretty?”
 “She behaves as if she was beautiful. Most American women do. It is the secret of their charm.”
 “Why can’t these American women stay in their own country? They are always telling us that it is the paradise for women.”
@@ -60,12 +60,12 @@ He invented a facile excuse, and having taken the vacant seat next to her, looke
 “American novels,” answered Lord Henry, helping himself to some quail.
 The duchess looked puzzled.
 “Don’t mind him, my dear,” whispered Lady [[Agatha]]. “He never means anything that he says.”
-“When [[America]] was discovered,” said the Radical member — and he began to give some wearisome facts. Like all people who try to exhaust a subject, he exhausted his listeners. The duchess sighed and exercised her privilege of interruption. “I wish to goodness it never had been discovered at all!” she exclaimed. “Really, our girls have no chance nowadays. It is most unfair.”
-“Perhaps, after all, [[America]] never has been discovered,” said Mr. [[Erskine]]; “I myself would say that it had merely been detected.”
+“When [[america|America]] was discovered,” said the Radical member — and he began to give some wearisome facts. Like all people who try to exhaust a subject, he exhausted his listeners. The duchess sighed and exercised her privilege of interruption. “I wish to goodness it never had been discovered at all!” she exclaimed. “Really, our girls have no chance nowadays. It is most unfair.”
+“Perhaps, after all, [[america|America]] never has been discovered,” said Mr. [[Erskine]]; “I myself would say that it had merely been detected.”
 “Oh! but I have seen specimens of the inhabitants,” answered the duchess vaguely. “I must confess that most of them are extremely pretty. And they dress [[Well|well]], too. They get all their dresses in [[Paris]]. I wish I could afford to do the same.”
 “They say that when good Americans die they go to [[Paris]],” chuckled Sir Thomas, who had a large wardrobe of [[Humour]]’s cast-off clothes.
 “Really! And where do bad Americans go to when they die?” inquired the duchess.
-“They go to [[America]],” murmured Lord Henry.
+“They go to [[america|America]],” murmured Lord Henry.
 Sir Thomas frowned. “I am afraid that your nephew is prejudiced against that great country,” he said to Lady [[Agatha]]. “I have travelled all over it in cars provided by the directors, who, in such matters, are extremely civil. I assure you that it is an [[Education|education]] to visit it.”
 “But must we really see Chicago in order to be educated?” asked Mr. [[Erskine]] plaintively. “I don’t feel up to the [[Journey|journey]].”
 Sir Thomas waved his hand. “Mr. [[Erskine]] of Treadley has the world on his shelves. We practical men like to see things, not to read about them. The Americans are an extremely interesting people. They are absolutely reasonable. I think that is their distinguishing characteristic. Yes, Mr. [[Erskine]], an absolutely reasonable people. I assure you there is no nonsense about the Americans.”

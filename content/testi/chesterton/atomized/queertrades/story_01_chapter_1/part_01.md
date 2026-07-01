@@ -1,5 +1,5 @@
 ---
-title: "[[queertrades]] — Chapter 1 (part 1)"
+title: "queertrades — Chapter 1 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/queertrades-(chesterton)"
@@ -19,7 +19,7 @@ Chapter 1
 The Tremendous Adventures of Major Brown
 
 Rabelais, or his wild illustrator Gustave Dore, must have had something to
-do with the designing of the things called flats in England and [[America]].
+do with the designing of the things called flats in England and [[america|America]].
 There is something entirely Gargantuan in the idea of economising
 space by piling houses on top of each other, front doors and all.
 And in the chaos and complexity of those perpendicular streets

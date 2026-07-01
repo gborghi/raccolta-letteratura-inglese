@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 7 (part 3)"
+title: "Great Expectations — Chapter 7 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_07/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_07/part_04">part 04 ›</a></div>
 </nav>
 
+
+When this little interruption was over, Joe resumed:—
+
+“[[Well]], you see, Pip, and here we are! That’s about where it lights;
+here we are! Now, when you take me in hand in my learning, Pip (and I
+tell you beforehand I am awful dull, most awful dull), Mrs. Joe mustn’t
+see too much of what we’re up to. It must be done, as I may say, on the
+sly. And why on the sly? I’ll tell you why, Pip.”
 
 He had taken up the poker again; without which, I [[Doubt|doubt]] if he could
 have proceeded in his demonstration.
@@ -132,19 +140,3 @@ occasions, and looked at her.
 Is the [[house]] afire?”
 
 “—Which some individual,” Joe politely hinted, “mentioned—she.”
-
-“And she is a she, I suppose?” said my sister. “Unless you call Miss
-Havisham a he. And I [[Doubt|doubt]] if even you’ll go so far as that.”
-
-“[[Miss Havisham]], up town?” said Joe.
-
-“Is there any [[Miss Havisham]] down town?” returned my sister.
-
-“She wants this boy to go and play there. And of course he’s going. And
-he had better play there,” said my sister, shaking her head at me as an
-encouragement to be extremely light and sportive, “or I’ll work him.”
-
-I had heard of [[Miss Havisham]] up town,—everybody for miles round had
-heard of [[Miss Havisham]] up town,—as an immensely rich and grim lady who
-lived in a large and dismal [[house]] barricaded against robbers, and who
-led a life of seclusion.

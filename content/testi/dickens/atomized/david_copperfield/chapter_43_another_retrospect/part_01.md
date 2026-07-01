@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 43: ANOTHER RETROSPECT (part 1)"
+title: "David Copperfield — Chapter 43: ANOTHER RETROSPECT (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_42_mischief/part_07">‹ part 07</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_43_another_retrospect/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_42_mischief/part_08">‹ part 08</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_43_another_retrospect/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -120,11 +120,3 @@ the Stamp Office, which is so benignantly interested in the various
 transactions of human life, looking down upon our [[Union]]; and there is
 the Archbishop of Canterbury invoking a blessing on us in print, and
 doing it as cheap as could possibly be expected.
-
-Nevertheless, I am in [[A Dream|a dream]], a flustered, happy, hurried dream. I
-can’t believe that it is going to be; and yet I can’t believe but that
-everyone I pass in the street, must have some kind of perception, that I
-am to be married the day after tomorrow. The Surrogate knows me, when
-I go down to be sworn; and disposes of me easily, as if there were a
-Masonic understanding between us. Traddles is not at all wanted, but is
-in attendance as my general backer.

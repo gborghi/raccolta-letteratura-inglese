@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 4 (part 3)"
+title: "Our Mutual Friend — Chapter 8 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,116 +14,134 @@ tags:
 </nav>
 
 
-It was a pleasant sight, in the midst of the golden bloom, to see this
-salt old Gruff and Glum, waving his shovel hat at Bella, while his thin
-white hair flowed free, as if she had once more launched him into blue
-[[Water|water]] again. ‘You are a charming old pensioner,’ said Bella, ‘and I am
-so happy that I wish I could make you happy, too.’ Answered Gruff and
-Glum, ‘Give me leave to kiss your hand, my Lovely, and it’s done!’ So it
-was done to the general contentment; and if Gruff and Glum didn’t in the
-course of the afternoon splice the main brace, it was not for want of
-the means of inflicting that outrage on the feelings of the Infant Bands
-of [[Hope]].
+What was a bad [[Time|time]] for Mr Dolls, could not fail to be a bad [[Time|time]] for
+the dolls’ dressmaker. However, she was on the alert next morning, and
+drove to Bond Street, and set down the two ladies punctually, and then
+directed her equipage to conduct her to the Albany. Arrived at the
+doorway of the [[house]] in which Mr Fledgeby’s chambers were, she found a
+lady standing there in a travelling dress, holding in her hand—of all
+things in the world—a gentleman’s hat.
 
-But, the [[Marriage|marriage]] dinner was the crowning [[success]], for what had bride
-and bridegroom plotted to do, but to have and to hold that dinner in the
-very room of the very hotel where Pa and the lovely woman had once dined
-together! Bella sat between Pa and John, and divided her attentions
-pretty equally, but felt it necessary (in the waiter’s absence before
-dinner) to remind Pa that she was HIS lovely woman no longer.
+‘You want some one?’ said the lady in a stern manner.
 
-‘I am [[Well|well]] aware of it, my dear,’ returned the cherub, ‘and I resign you
-willingly.’
+‘I am going up stairs to Mr Fledgeby’s.’
 
-‘Willingly, sir? You ought to be brokenhearted.’
+‘You cannot do that at this moment. There is a gentleman with him. I am
+waiting for the gentleman. His business with Mr Fledgeby will very soon
+be transacted, and then you can go up. Until the gentleman comes down,
+you must wait here.’
 
-‘So I should be, my dear, if I thought that I was going to lose you.’
+While speaking, and afterwards, the lady kept watchfully between her and
+the staircase, as if prepared to oppose her going up, by force. The
+lady being of a stature to stop her with a hand, and looking mightily
+determined, the dressmaker stood still.
 
-‘But you know you are not; don’t you, poor dear Pa? You know that you
-have only made a new relation who will be as fond of you and as thankful
-to you—for my sake and your own sake both—as I am; don’t you, dear
-little Pa? Look here, Pa!’ Bella put her finger on her own lip, and then
-on Pa’s, and then on her own lip again, and then on her husband’s. ‘Now,
-we are a partnership of three, dear Pa.’
+‘[[Well]]? Why do you listen?’ asked the lady.
 
-The appearance of dinner here cut Bella short in one of her
-disappearances: the more effectually, because it was put on under the
-auspices of a solemn gentleman in black clothes and a white cravat, who
-looked much more like a clergyman than THE clergyman, and seemed to
-have mounted a great deal higher in the church: not to say, scaled the
-steeple. This dignitary, conferring in secrecy with John Rokesmith on
-the subject of punch and wines, bent his head as though stooping to
-the Papistical practice of receiving auricular confession. Likewise,
-on John’s offering a suggestion which didn’t meet his views, his face
-became overcast and reproachful, as enjoining penance.
+‘I am not listening,’ said the dressmaker.
 
-What a dinner! Specimens of all the fishes that swim in the sea, surely
-had swum their way to it, and if samples of the fishes of divers
-colours that made a speech in the Arabian Nights (quite a ministerial
-explanation in respect of cloudiness), and then jumped out of the
-frying-pan, were not to be recognized, it was only because they had all
-become of one hue by being cooked in batter among the whitebait. And the
-dishes being seasoned with Bliss—an article which they are sometimes
-out of, at Greenwich—were of perfect flavour, and the golden drinks
-had been bottled in the [[Golden Age|golden age]] and hoarding up their sparkles ever
-since.
+‘What do you hear?’ asked the lady, altering her phrase.
 
-The best of it was, that Bella and John and the cherub had made a
-covenant that they would not reveal to mortal eyes any appearance
-whatever of being a wedding party. Now, the supervising dignitary, the
-Archbishop of Greenwich, knew this as [[Well|well]] as if he had performed the
-nuptial ceremony. And the loftiness with which his Grace entered into
-their confidence without being invited, and insisted on a show
-of keeping the waiters out of it, was the crowning glory of the
-entertainment.
+‘Is it a kind of a spluttering somewhere?’ said the dressmaker, with an
+inquiring look.
 
-There was an [[Innocent|innocent]] young waiter of a slender form and with weakish
-legs, as yet unversed in the wiles of waiterhood, and but too evidently
-of a romantic temperament, and deeply (it were not too much to add
-hopelessly) in [[Love|love]] with some young female not aware of his merit.
-This guileless youth, descrying the position of affairs, which even
-his [[innocence]] could not mistake, limited his waiting to languishing
-admiringly against the sideboard when Bella didn’t want anything, and
-swooping at her when she did. Him, his Grace the Archbishop perpetually
-obstructed, cutting him out with his elbow in the moment of [[success]],
-despatching him in degrading [[Quest|quest]] of melted butter, and, when by any
-chance he got hold of any dish worth having, bereaving him of it, and
-ordering him to stand back.
+‘Mr Fledgeby in his shower-bath, perhaps,’ remarked the lady, smiling.
 
-‘Pray excuse him, madam,’ said the Archbishop in a low stately voice;
-‘he is a very young man on liking, and we DON’T like him.’
+‘And somebody’s beating a carpet, I think?’
 
-This induced John Rokesmith to observe—by way of making the thing more
-natural—‘Bella, my [[Love|love]], this is so much more successful than any
-of our past anniversaries, that I think we must keep our future
-anniversaries here.’
+‘Mr Fledgeby’s carpet, I dare say,’ replied the smiling lady.
 
-Whereunto Bella replied, with probably the least successful attempt at
-looking matronly that ever was seen: ‘Indeed, I think so, John, dear.’
+Miss Wren had a reasonably good eye for smiles, being [[Well|well]] accustomed
+to them on the part of her young friends, though their smiles mostly ran
+smaller than in [[Nature|nature]]. But she had never seen so singular a smile
+as that upon this lady’s face. It twitched her nostrils open in a
+remarkable manner, and contracted her lips and eyebrows. It was a smile
+of enjoyment too, though of such a fierce kind that Miss Wren thought
+she would rather not enjoy herself than do it in that way.
 
-Here the Archbishop of Greenwich coughed a stately cough to attract the
-attention of three of his ministers present, and staring at them, seemed
-to say: ‘I call upon you by your fealty to believe this!’
+‘[[Well]]!’ said the lady, watching her. ‘What now?’
 
-With his own hands he afterwards put on the dessert, as remarking to the
-three guests, ‘The period has now arrived at which we can dispense with
-the assistance of those fellows who are not in our confidence,’ and
-would have retired with complete dignity but for a daring action issuing
-from the misguided brain of the young man on liking. He finding, by
-ill-fortune, a piece of orange flower somewhere in the lobbies now
-approached undetected with the same in a finger-glass, and placed it on
-Bella’s right hand. The Archbishop instantly ejected and excommunicated
-him; but the thing was done.
+‘I [[Hope|hope]] there’s nothing the matter!’ said the dressmaker.
 
-‘I trust, madam,’ said his Grace, returning [[Alone|alone]], ‘that you will have
-the kindness to overlook it, in consideration of its being the act of a
-very young man who is merely here on liking, and who will never answer.’
+‘Where?’ inquired the lady.
 
-With that, he solemnly bowed and retired, and they all burst into
-laughter, long and merry. ‘Disguise is of no use,’ said Bella; ‘they
-all find me out; I think it must be, Pa and John dear, because I look so
-happy!’
+‘I don’t know where,’ said Miss Wren, staring about her. ‘But I never
+heard such odd noises. Don’t you think I had better call somebody?’
 
-Her husband feeling it necessary at this point to demand one of those
-mysterious disappearances on Bella’s part, she dutifully obeyed; saying
-in a softened voice from her place of concealment:
+‘I think you had better not,’ returned the lady with a significant
+frown, and drawing closer.
+
+On this hint, the dressmaker relinquished the idea, and stood looking
+at the lady as hard as the lady looked at her. Meanwhile the dressmaker
+listened with amazement to the odd noises which still continued, and the
+lady listened too, but with a coolness in which there was no trace of
+amazement.
+
+Soon afterwards, came a slamming and banging of doors; and then came
+running down stairs, a gentleman with whiskers, and out of breath, who
+seemed to be red-hot.
+
+‘Is your business done, Alfred?’ inquired the lady.
+
+‘Very thoroughly done,’ replied the gentleman, as he took his hat from
+her.
+
+‘You can go up to Mr Fledgeby as soon as you like,’ said the lady,
+moving haughtily away.
+
+‘Oh! And you can take these three pieces of stick with you,’ added the
+gentleman politely, ‘and say, if you please, that they come from Mr
+Alfred Lammle, with his compliments on leaving England. Mr Alfred
+Lammle. Be so good as not to forget the name.’
+
+The three pieces of stick were three broken and frayed fragments of a
+stout lithe cane. Miss Jenny taking them wonderingly, and the gentleman
+repeating with a grin, ‘Mr Alfred Lammle, if you’ll be so good.
+Compliments, on leaving England,’ the lady and gentleman walked away
+quite deliberately, and Miss Jenny and her crutch-stick went up stairs.
+‘Lammle, Lammle, Lammle?’ Miss Jenny repeated as she panted from stair
+to stair, ‘where have I heard that name? Lammle, Lammle? I know! Saint
+Mary Axe!’
+
+With a gleam of new intelligence in her sharp face, the dolls’
+dressmaker pulled at Fledgeby’s bell. No one answered; but, from within
+the chambers, there proceeded a continuous spluttering sound of a highly
+singular and unintelligible [[Nature|nature]].
+
+‘Good gracious! Is Little Eyes choking?’ cried Miss Jenny.
+
+Pulling at the bell again and getting no reply, she pushed the outer
+door, and found it standing ajar. No one being visible on her opening it
+wider, and the spluttering continuing, she took the liberty of opening
+an inner door, and then beheld the extraordinary spectacle of Mr
+Fledgeby in a shirt, a pair of Turkish trousers, and a Turkish cap,
+[[rolling]] over and over on his own carpet, and spluttering wonderfully.
+
+‘Oh Lord!’ gasped Mr Fledgeby. ‘Oh my eye! Stop thief! I am strangling.
+[[Fire]]! Oh my eye! A glass of [[Water|water]]. Give me a glass of [[Water|water]]. Shut the
+door. Murder! Oh Lord!’ And then rolled and spluttered more than ever.
+
+Hurrying into another room, Miss Jenny got a glass of [[Water|water]], and brought
+it for Fledgeby’s relief: who, gasping, spluttering, and rattling in his
+throat betweenwhiles, drank some [[Water|water]], and laid his head faintly on her
+arm.
+
+‘Oh my eye!’ cried Fledgeby, struggling anew. ‘It’s salt and snuff. It’s
+up my nose, and down my throat, and in my [[Wind|wind]]-pipe. Ugh! Ow! Ow! Ow!
+Ah—h—h—h!’ And here, crowing fearfully, with his eyes starting out of
+his head, appeared to be contending with every mortal disease incidental
+to poultry.
+
+‘And Oh my Eye, I’m so sore!’ cried Fledgeby, starting, over on his
+back, in a spasmodic way that caused the dressmaker to retreat to the
+wall. ‘Oh I smart so! Do put something to my back and arms, and legs and
+shoulders. Ugh! It’s down my throat again and can’t come up. Ow! Ow! Ow!
+Ah—h—h—h! Oh I smart so!’ Here Mr Fledgeby bounded up, and bounded
+down, and went [[rolling]] over and over again.
+
+The dolls’ dressmaker looked on until he rolled himself into a corner
+with his Turkish slippers uppermost, and then, resolving in the first
+place to address her ministration to the salt and snuff, gave him more
+[[Water|water]] and slapped his back. But, the latter application was by no means
+a [[success]], causing Mr Fledgeby to scream, and to cry out, ‘Oh my eye!
+don’t slap me! I’m covered with weales and I smart so!’

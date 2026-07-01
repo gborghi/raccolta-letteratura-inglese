@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 33: BLISSFUL (part 1)"
+title: "David Copperfield — Chapter 33: BLISSFUL (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -119,5 +119,3 @@ believe?’
 I made my gentleman a distant bow, and Peggotty barely recognized him.
 He was, at first, somewhat disconcerted to meet us two together; but
 quickly decided what to do, and came up to me.
-
-‘I [[Hope|hope]],’ he said, ‘that you are doing [[Well|well]]?’

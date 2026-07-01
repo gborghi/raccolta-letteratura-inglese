@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 14 (part 4)"
+title: "Jane Eyre — Chapter 14 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_14/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_14/part_05">part 05 ›</a></div>
 </nav>
 
+
+“I know it [[Well|well]]; therefore I proceed almost as freely as if I were
+writing my thoughts in a diary. You would say, I should have been
+superior to circumstances; so I should—so I should; but you see I was
+not. When fate wronged me, I had not the wisdom to remain cool: I
+turned desperate; then I degenerated. Now, when any vicious simpleton
+excites my disgust by his paltry ribaldry, I cannot flatter myself that
+I am better than he: I am forced to confess that he and I are on a
+level. I wish I had stood firm—God knows I do! Dread remorse when you
+are tempted to err, Miss Eyre; remorse is the [[Poison|poison]] of life.”
 
 “Repentance is said to be its cure, sir.”
 

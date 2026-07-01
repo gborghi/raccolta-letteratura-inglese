@@ -1,5 +1,5 @@
 ---
-title: "[[TheAppOfTyranny]] — Chapter 4 (part 12)"
+title: "TheAppOfTyranny — Chapter 4 (part 12)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/theappoftyranny-(chesterton)"
@@ -13,6 +13,50 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/theappoftyranny/chapter_05/part_11">‹ part 11</a><span></span></div>
 </nav>
 
+
+business@pglaf.org.  Email contact links and up to date contact
+
+information can be found at the Foundation's web site and official
+
+page at http://pglaf.org
+
+For additional contact information:
+
+     Dr. Gregory B. Newby
+
+     Chief Executive and Director
+
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+
+spread public support and donations to carry out its mission of
+
+increasing the number of public domain and licensed works that can be
+
+freely distributed in [[Machine|machine]] readable form accessible by the widest
+
+array of equipment including outdated equipment.  Many small donations
+
+($1 to $5,000) are particularly important to maintaining tax exempt
+
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+
+charities and charitable donations in all 50 states of the United
+
+States.  Compliance requirements are not uniform and it takes a
+
+considerable effort, much paperwork and many fees to meet and keep up
+
+with these requirements.  We do not solicit donations in locations
+
+where we have not received written confirmation of compliance.  To
 
 SEND DONATIONS or determine the status of compliance for any
 

@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 23 (part 1)"
+title: "The Professor — Chapter 23 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -15,8 +15,6 @@ tags:
 
 
 CHAPTER XXIII
-
-
 
 IT was two o’[[Clock|clock]] when I returned to my lodgings; my dinner, just
 
@@ -58,8 +56,6 @@ to others, for the women I passed were wrapped in shawls, and the men
 
 had their coats buttoned close.
 
-
-
 When are we quite happy? Was I so then? No; an urgent and growing dread
 
 worried my nerves, and had worried them since the first moment good
@@ -90,23 +86,17 @@ I think that but half a street now divided me from the full cup of
 
 contentment--the draught drawn from waters said to flow only in heaven?
 
-
-
 I was at the door; I entered the quiet [[house]]; I mounted the stairs; the
 
 lobby was void and still, all the doors closed; I looked for the neat
 
 green mat; it lay duly in its place.
 
-
-
 “Signal of [[Hope|hope]]!” I said, and advanced. “But I will be a little calmer;
 
 I am not going to rush in, and get up a scene directly.” Forcibly
 
 staying my eager step, I paused on the mat.
-
-
 
 “What an absolute hush! Is she in? Is anybody in?” I demanded to
 
@@ -125,10 +115,6 @@ when a voice rewarded the attention of my strained ear--so low, so
 [[Solitude|solitude]] might speak thus in a [[Desert|desert]], or in the hall of a forsaken
 
 [[house]].
-
-
-
-
 
     “‘And ne’er but once, my son,’ he said,
 
@@ -154,17 +140,11 @@ when a voice rewarded the attention of my strained ear--so low, so
 
        The [[Death|death]]-shot flash’d between.’” etc. etc.
 
-
-
 The old Scotch ballad was partly recited, then dropt; a pause ensued;
 
 then another strain followed, in French, of which the purport,
 
 translated, ran as follows:--
-
-
-
-
 
      I gave, at first, attention close;
 
@@ -174,8 +154,6 @@ translated, ran as follows:--
 
       Succeeded gratitude.
 
-
-
      Obedience was no effort soon,
 
       And labour was no [[Pain|pain]];
@@ -183,8 +161,6 @@ translated, ran as follows:--
      If tired, a word, a glance [[Alone|alone]]
 
       Would give me strength again.
-
-
 
      From others of the studious band,
 
@@ -194,8 +170,6 @@ translated, ran as follows:--
 
       And sterner urgency.
 
-
-
      The task he from another took,
 
       From me he did reject;
@@ -204,8 +178,6 @@ translated, ran as follows:--
 
       And suffer no defect.
 
-
-
      If my companions went astray,
 
       He scarce their wanderings blam’d;
@@ -213,8 +185,6 @@ translated, ran as follows:--
      If I but falter’d in the way,
 
       His anger fiercely flam’d.
-
-
 
 Something stirred in an adjoining chamber; it would not do to be
 
@@ -245,9 +215,3 @@ but what--with her thoughtful look, her serious [[Self-Reliance|self-reliance]],
 bent to meditation and haply inspiration--what had she to do with [[Love|love]]?
 
 “Nothing,” was the answer of her own sad, though gentle countenance; it
-
-seemed to say, “I must cultivate fortitude and cling to poetry; one is
-
-to be my support and the other my solace through life. Human affections
-
-do not bloom, nor do human passions glow for me.” Other women have such

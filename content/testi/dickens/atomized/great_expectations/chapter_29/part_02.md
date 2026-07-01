@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 29 (part 2)"
+title: "Great Expectations — Chapter 29 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_29/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_29/part_03">part 03 ›</a></div>
 </nav>
 
+
+Tolerably, for I had gone up the staircase in the dark, many a [[Time|time]]. I
+ascended it now, in lighter boots than of yore, and tapped in my old
+way at the door of [[Miss Havisham]]’s room. “Pip’s rap,” I heard her say,
+immediately; “come in, Pip.”
 
 She was in her chair near the old table, in the old dress, with her two
 hands crossed on her stick, her chin resting on them, and her eyes on
@@ -143,14 +148,3 @@ side, and the air of youthfulness and submission with which I walked at
 hers, made a contrast that I strongly felt. It would have rankled in me
 more than it did, if I had not regarded myself as eliciting it by being
 so set apart for her and assigned to her.
-
-The [[Garden|garden]] was too overgrown and rank for walking in with ease, and
-after we had made the round of it twice or thrice, we came out again
-into the brewery yard. I showed her to a nicety where I had seen her
-walking on the casks, that first old day, and she said, with a cold and
-careless look in that direction, “Did I?” I reminded her where she had
-come out of the [[house]] and given me my meat and drink, and she said, “I
-don’t remember.” “Not remember that you made me cry?” said I. “No,”
-said she, and shook her head and looked about her. I verily believe
-that her not remembering and not minding in the least, made me cry
-again, inwardly,—and that is the sharpest crying of all.

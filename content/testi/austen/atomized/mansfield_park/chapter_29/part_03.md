@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 29 (part 3)"
+title: "Mansfield Park — Chapter 29 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/mansfield_park/chapter_29/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/mansfield_park/chapter_30/part_01">part 01 ›</a></div>
 </nav>
 
+
+“I only heard a part of the letter; it was to my uncle; but I believe
+it was very short; indeed I am sure it was but a few lines. All that I
+heard was that his friend had pressed him to stay longer, and that he
+had agreed to do so. A _few_ days longer, or _some_ days longer; I am
+not quite sure which.”
 
 “Oh! if he wrote to his father; but I thought it might have been to
 Lady [[Bertram]] or you. But if he wrote to his father, no [[Wonder|wonder]] he was

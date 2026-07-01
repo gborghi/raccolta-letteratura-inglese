@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 10 (part 1)"
+title: "Persuasion — Chapter 10 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -205,11 +205,3 @@ these hills. They talked of coming into this side of the country. I
 [[Wonder|wonder]] whereabouts they will upset to-day. Oh! it does happen very
 
 often, I assure you; but my sister makes nothing of it; she would as
-
-lieve be tossed out as not.”
-
-
-
-“Ah! You make the most of it, I know,” cried Louisa, “but if it were
-
-really so, I should do just the same in her place. If I loved a man, as

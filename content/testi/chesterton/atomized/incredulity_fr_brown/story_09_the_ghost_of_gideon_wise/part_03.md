@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The [[Ghost]] of Gideon Wise (part 3)"
+title: "incredulity Fr Brown — The Ghost of Gideon Wise (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity_fr_brown/story_09_the_ghost_of_gideon_wise/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity_fr_brown/story_09_the_ghost_of_gideon_wise/part_04">part 04 ›</a></div>
 </nav>
 
+
+'What has that - oh yes, that sort of thunderbolt; so sorry, my mistake.
+So easy to say anvil when you mean ice - box.'
 
 With which the extraordinary young man disappeared down the steps and
 Byrne continued to mount them, more and more [[Mystification|mystification]] clouding his
@@ -109,16 +112,3 @@ imprudent. You practically admit that you hated the dead man.'
 right. Only you'll have to build a [[Prison|prison]] for a million men if you're
 going to jail all the poor people who had reason to hate Gid Wise. And
 you know it's God [[Truth|truth]] as [[Well|well]] as I do.'
-
-Nares was silent; and nobody spoke until Elias interposed with his clear
-though faintly lisping drawl.
-
-'This appears to me to be a highly unprofitable discussion on both
-sides,' he said. 'You have summoned us here either to ask us for
-information or to subject us to [[Cross|cross]] - examination. If you trust us, we
-tell you we have no information. If you distrust us, you must tell us of
-what we are accused, or have the politeness to keep the fact to
-yourselves. Nobody has been able to suggest the faintest trace of
-evidence connecting any one of us with these tragedies any more than
-with the murder of [[Julius Caesar]]. You dare not arrest us, and you will
-not believe us. What is the good of our remaining here?'

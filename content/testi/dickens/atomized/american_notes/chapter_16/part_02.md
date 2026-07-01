@@ -53,7 +53,7 @@ board whistling; not to say as if nothing had happened, but as if he had
 meant to do it, and it had been a perfect [[success]].
 
 Our steamboat came up directly this had left the wharf, and soon bore us
-to the mouth of the Niagara; where the [[Stars|stars]] and stripes of [[America]]
+to the mouth of the Niagara; where the [[Stars|stars]] and stripes of [[america|America]]
 flutter on one side and the [[Union]] Jack of England on the other: and so
 narrow is the space between them that the sentinels in either fort can
 often hear the watchword of the other country given.  Thence we emerged
@@ -111,22 +111,3 @@ Kingston, that one half of it appears to be burnt down, and the other
 half not to be built up.  The [[government|Government]] [[house|House]] is neither elegant nor
 commodious, yet it is almost the only [[house]] of any importance in the
 neighbourhood.
-
-There is an admirable jail here, [[Well|well]] and wisely governed, and
-excellently regulated, in every respect.  The men were employed as
-shoemakers, ropemakers, blacksmiths, tailors, carpenters, and
-stonecutters; and in building a new [[Prison|prison]], which was pretty far advanced
-towards completion.  The female prisoners were occupied in needlework.
-Among them was a beautiful girl of twenty, who had been there nearly
-three years.  She acted as bearer of secret despatches for the
-[[Self|self]]-styled Patriots on Navy Island, during the Canadian Insurrection:
-sometimes dressing as a girl, and carrying them in her stays; sometimes
-attiring herself as a boy, and secreting them in the lining of her hat.
-In the latter character she always rode as a boy would, which was nothing
-to her, for she could govern any [[Horse|horse]] that any man could ride, and could
-drive four-in-hand with the best whip in those parts.  Setting forth on
-one of her patriotic missions, she appropriated to herself the first
-[[Horse|horse]] she could lay her hands on; and this offence had brought her where
-I saw her.  She had quite a lovely face, though, as the reader may
-suppose from this [[Sketch|sketch]] of her [[history]], there was a lurking devil in her
-bright eye, which looked out pretty sharply from between her [[Prison|prison]] bars.

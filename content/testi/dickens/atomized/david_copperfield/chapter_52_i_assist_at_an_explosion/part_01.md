@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 52: I ASSIST AT AN EXPLOSION (part 1)"
+title: "David Copperfield — Chapter 52: I ASSIST AT AN EXPLOSION (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_51_the_beginning_of_a_longer_jour/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_52_i_assist_at_an_explosion/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_51_the_beginning_of_a_longer_jour/part_07">‹ part 07</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_52_i_assist_at_an_explosion/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -122,13 +122,3 @@ Traddles sat upon the sofa affecting to read the paper with his eyes on
 the ceiling; and I looked out of the [[Window|window]] to give early notice of Mr.
 Micawber’s coming. Nor had I long to watch, for, at the first chime of
 the half hour, he appeared in the street.
-
-‘Here he is,’ said I, ‘and not in his legal attire!’
-
-My aunt tied the strings of her bonnet (she had come down to breakfast
-in it), and put on her shawl, as if she were ready for anything that
-was resolute and uncompromising. Traddles buttoned his coat with a
-determined air. Mr. Dick, disturbed by these formidable appearances, but
-feeling it necessary to imitate them, pulled his hat, with both hands,
-as firmly over his ears as he possibly could; and instantly took it off
-again, to welcome Mr. Micawber.

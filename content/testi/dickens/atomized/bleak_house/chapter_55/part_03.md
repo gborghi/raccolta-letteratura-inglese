@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 55 (part 3)"
+title: "Bleak House — Chapter 55 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_55/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_55/part_04">part 04 ›</a></div>
 </nav>
 
+
+“Heaven forgive me, mother, but I thought there would be small
+consolation then in hearing anything about me. There were you,
+respected and esteemed. There was my brother, as I read in chance
+North Country papers now and then, rising to be prosperous and
+famous. There was I a dragoon, roving, unsettled, not [[Self|self]]-made like
+him, but [[Self|self]]-unmade—all my earlier advantages thrown away, all my
+little learning unlearnt, nothing picked up but what unfitted me for
+most things that I could think of. What business had I to make myself
+known? After letting all that [[Time|time]] go by me, what good could come of
+it? The worst was past with you, mother. I knew by that [[Time|time]] (being a
+man) how you had mourned for me, and wept for me, and prayed for me;
+and the [[Pain|pain]] was over, or was softened down, and I was better in your
+mind as it was.”
 
 The old lady sorrowfully shakes her head, and taking one of his
 powerful hands, lays it lovingly upon her shoulder.
@@ -121,19 +135,3 @@ on end, whensoever I was called upon to say anything in my defence. I
 [[Hope|hope]] I may be let to do it still; but I have no longer a will of my
 own in this case, and whatever is said or done, I give my promise not
 to have any.”
-
-Matters being brought to this so far satisfactory pass, and [[Time|time]]
-being on the wane, Mrs. Bagnet proposes a departure. Again and again
-the old lady hangs upon her son’s neck, and again and again the
-trooper holds her to his broad chest.
-
-“Where are you going to take my mother, Mrs. Bagnet?”
-
-“I am going to the town [[house]], my dear, the family [[house]]. I have some
-business there that must be looked to directly,” Mrs. Rouncewell
-answers.
-
-“Will you see my mother safe there in a coach, Mrs. Bagnet? But of
-course I know you will. Why should I ask it!”
-
-Why indeed, Mrs. Bagnet expresses with the umbrella.

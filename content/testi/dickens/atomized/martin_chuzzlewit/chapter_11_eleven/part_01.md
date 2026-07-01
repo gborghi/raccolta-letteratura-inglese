@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 11: ELEVEN (part 1)"
+title: "Martin Chuzzlewit — Chapter 11: ELEVEN (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -127,11 +127,3 @@ to see her, and ask her yourself?’
 know. What a cruel girl you are!’
 
 ‘It’s impossible for YOU to know,’ said Cherry, ‘whether I am or not.’
-
-‘[[Well]], perhaps it is,’ said Mr Jonas. ‘I say--Did you think I was lost?
-You haven’t told me that.’
-
-‘I didn’t think at all about it,’ answered Cherry.
-
-‘Didn’t you though?’ said Jonas, pondering upon this strange reply. ‘Did
-the other one?’

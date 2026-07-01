@@ -1,5 +1,5 @@
 ---
-title: "scandal Fr Brown — The Scandal of [[Father Brown]] (part 3)"
+title: "scandal Fr Brown — The Scandal of Father Brown (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/scandal-fr-brown-(chesterton)"
@@ -70,7 +70,7 @@ her, ducked and darted to the door and disappeared.
 then, rather at a loss, and turning to the little priest: 'as I say, if
 you're English, you ought really to be on my side against these Dagos,
 anyhow. Oh, I'm not one of those who talk tosh about Anglo - Saxons; but
-there is such a thing as [[history]]. You can always claim that [[America]] got
+there is such a thing as [[history]]. You can always claim that [[america|America]] got
 her civilization from England.'
 
 'Also, to temper our [[Pride|pride]],' said [[Father Brown]], 'we must always admit

@@ -1,5 +1,5 @@
 ---
-title: "Measure for Measure — Act V, Scene 1 — monologue ([[Othello|OTHELLO]]) [12]"
+title: "Measure for Measure — Act V, Scene 1 — monologue (OTHELLO) [12]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/measure-for-measure-(shakespeare)"

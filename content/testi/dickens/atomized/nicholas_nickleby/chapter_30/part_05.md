@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 30 (part 5)"
+title: "Nicholas Nickleby — Chapter 30 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,26 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_30/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_30/part_06">part 06 ›</a></div>
 </nav>
 
+
+Miss Snevellicci’s papa being greatly exalted by this triumph, and
+incontestable proof of his popularity with the fair sex, quickly grew
+convivial, not to say uproarious; volunteering more than one [[Song|song]] of
+no inconsiderable length, and regaling the social circle between-whiles
+with recollections of divers splendid women who had been supposed to
+entertain a passion for himself, several of whom he toasted by name,
+taking occasion to remark at the same [[Time|time]] that if he had been a little
+more alive to his own interest, he might have been [[rolling]] at that
+moment in his chariot-and-four. These reminiscences appeared to awaken
+no very torturing pangs in the breast of Mrs. Snevellicci, who was
+sufficiently occupied in descanting to Nicholas upon the manifold
+accomplishments and merits of her daughter. Nor was the young lady
+herself at all behind-hand in displaying her choicest allurements; but
+these, heightened as they were by the artifices of Miss Ledrook, had no
+effect whatever in increasing the attentions of Nicholas, who, with the
+precedent of Miss Squeers still fresh in his [[Memory|memory]], steadily resisted
+every fascination, and placed so strict a guard upon his behaviour that
+when he had taken his leave the ladies were unanimous in pronouncing him
+quite a [[Monster|monster]] of insensibility.
 
 Next day the posters appeared in due course, and the public were
 informed, in all the colours of the rainbow, and in letters afflicted
@@ -89,32 +109,3 @@ two last pieces as briskly as he could, and having been received with
 unbounded favour and unprecedented applause--so said the bills for next
 day, which had been printed an hour or two before--he took [[Smike]]’s arm
 and walked [[Home|home]] to bed.
-
-With the post next morning came a letter from [[Newman Noggs]], very inky,
-very short, very dirty, very small, and very mysterious, urging Nicholas
-to return to [[London]] instantly; not to lose an instant; to be there that
-[[Night|night]] if possible.
-
-‘I will,’ said Nicholas. ‘Heaven knows I have remained here for the
-best, and sorely against my own will; but even now I may have dallied
-too long. What can have happened? [[Smike]], my good fellow, here--take my
-purse. Put our things together, and pay what little debts we owe--quick,
-and we shall be in [[Time|time]] for the morning coach. I will only tell them
-that we are going, and will return to you immediately.’
-
-So saying, he took his hat, and hurrying away to the lodgings of Mr
-Crummles, applied his hand to the knocker with such hearty good-will,
-that he awakened that gentleman, who was still in bed, and caused Mr
-Bulph the pilot to take his morning’s pipe very nearly out of his mouth
-in the extremity of his surprise.
-
-The door being opened, Nicholas ran upstairs without any ceremony, and
-bursting into the darkened sitting-room on the one-pair front, found
-that the two Master Crummleses had sprung out of the sofa-bedstead and
-were putting on their clothes with great rapidity, under the impression
-that it was the middle of the [[Night|night]], and the next [[house]] was on [[Fire|fire]].
-
-Before he could undeceive them, Mr. Crummles came down in a flannel gown
-and nightcap; and to him Nicholas briefly explained that circumstances
-had occurred which rendered it necessary for him to repair to [[London]]
-immediately.

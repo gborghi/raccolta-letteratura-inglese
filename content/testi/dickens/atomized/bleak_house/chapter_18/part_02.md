@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 18 (part 2)"
+title: "Bleak House — Chapter 18 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_18/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_18/part_03">part 03 ›</a></div>
 </nav>
 
+
+“Exactly!” returned Mr. Skimpole. “That’s the crowning point of
+unreason in the business! I said to my landlord, ‘My good man, you
+are not aware that my excellent friend Jarndyce will have to pay for
+those things that you are sweeping off in that indelicate manner.
+Have you no consideration for HIS property?’ He hadn’t the least.”
 
 “And refused all proposals,” said my guardian.
 
@@ -119,9 +125,3 @@ eight-day [[Clock|clock]] at all times, like one of a race of eight-day clocks
 in gorgeous cases that never go and never went—Ha ha ha!—but he
 will have some extra stiffness, I can promise you, for the friends of
 his friend and neighbour Boythorn!”
-
-“I shall not put him to the proof,” said my guardian. “He is as
-indifferent to the [[Honour|honour]] of knowing me, I dare say, as I am to the
-[[Honour|honour]] of knowing him. The air of the grounds and perhaps such a view
-of the [[house]] as any other sightseer might get are quite enough for
-me.”

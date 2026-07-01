@@ -1,5 +1,5 @@
 ---
-title: "[[queertrades]] — Chapter 5 (part 6)"
+title: "queertrades — Chapter 5 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/queertrades-(chesterton)"
@@ -13,6 +13,32 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/queertrades/story_05_chapter_5/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/queertrades/story_06_chapter_6/part_01">part 01 ›</a></div>
 </nav>
 
+
+"Then," said Basil lightly, "your task is easy.  Get Chadd L800
+a year till he stops dancing."
+
+With a fierce flap of his swinging gloves Bingham turned impatiently
+to the door, but in passing out of it found it blocked.
+Dr Colman was coming in.
+
+"Forgive me, gentlemen," he said, in a nervous, confidential voice,
+"the fact is, Mr Grant, I--er--have made a most disturbing discovery
+about Mr Chadd."
+
+Bingham looked at him with [[Grave|grave]] eyes.
+
+"I was afraid so," he said.  "Drink, I imagine."
+
+"Drink!" echoed Colman, as if that were a much milder affair.
+"Oh, no, it's not drink."
+
+Mr Bingham became somewhat agitated, and his voice grew hurried
+and vague.  "Homicidal mania--" he began.
+
+"No, no," said the medical man impatiently.
+
+"Thinks he's made of glass," said Bingham feverishly, "or says
+he's God--or--"
 
 "No," said Dr Colman sharply; "the fact is, Mr Grant, my discovery
 is of a different character.  The awful thing about him is--"

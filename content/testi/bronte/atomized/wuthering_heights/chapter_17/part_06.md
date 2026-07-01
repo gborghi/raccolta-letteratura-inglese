@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 17 (part 6)"
+title: "Wuthering Heights — Chapter 17 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -13,6 +13,34 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_17/part_05">‹ part 05</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_18/part_01">part 01 ›</a></div>
 </nav>
 
+
+“[[Well]], Nelly,” said he, riding into the yard one morning, too early not
+to alarm me with an instant presentiment of bad news, “it’s yours and
+my turn to go into mourning at present. Who’s given us the slip now, do
+you think?”
+
+“Who?” I asked in a flurry.
+
+“Why, guess!” he returned, dismounting, and slinging his bridle on a
+hook by the door. “And nip up the corner of your apron: I’m certain
+you’ll need it.”
+
+“Not Mr. [[Heathcliff]], surely?” I exclaimed.
+
+“What! would you have [[Tears|tears]] for him?” said the doctor. “No,
+[[Heathcliff]]’s a tough young fellow: he looks blooming to-day. I’ve just
+seen him. He’s rapidly regaining flesh since he lost his better half.”
+
+“Who is it, then, Mr. Kenneth?” I repeated impatiently.
+
+“[[Hindley Earnshaw]]! Your old friend Hindley,” he replied, “and my wicked
+gossip: though he’s been too wild for me this long while. There! I said
+we should draw [[Water|water]]. But cheer up! He died true to his character:
+drunk as a lord. Poor lad! I’m sorry, too. One can’t help missing an
+old companion: though he had the worst tricks with him that ever man
+imagined, and has done me many a rascally turn. He’s barely
+twenty-seven, it seems; that’s your own age: who would have thought you
+were born in one year?”
 
 I confess this blow was greater to me than the shock of Mrs. Linton’s
 [[Death|death]]: ancient associations lingered round my heart; I sat down in the

@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 23"
+title: "The Professor — Chapter 23"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-professor-(bronte)"
@@ -15,8 +15,6 @@ tags:
 
 
 CHAPTER XXIII
-
-
 
 IT was two o’[[Clock|clock]] when I returned to my lodgings; my dinner, just
 
@@ -58,8 +56,6 @@ to others, for the women I passed were wrapped in shawls, and the men
 
 had their coats buttoned close.
 
-
-
 When are we quite happy? Was I so then? No; an urgent and growing dread
 
 worried my nerves, and had worried them since the first moment good
@@ -90,23 +86,17 @@ I think that but half a street now divided me from the full cup of
 
 contentment--the draught drawn from waters said to flow only in heaven?
 
-
-
 I was at the door; I entered the quiet [[house]]; I mounted the stairs; the
 
 lobby was void and still, all the doors closed; I looked for the neat
 
 green mat; it lay duly in its place.
 
-
-
 “Signal of [[Hope|hope]]!” I said, and advanced. “But I will be a little calmer;
 
 I am not going to rush in, and get up a scene directly.” Forcibly
 
 staying my eager step, I paused on the mat.
-
-
 
 “What an absolute hush! Is she in? Is anybody in?” I demanded to
 
@@ -125,10 +115,6 @@ when a voice rewarded the attention of my strained ear--so low, so
 [[Solitude|solitude]] might speak thus in a [[Desert|desert]], or in the hall of a forsaken
 
 [[house]].
-
-
-
-
 
     “‘And ne’er but once, my son,’ he said,
 
@@ -154,17 +140,11 @@ when a voice rewarded the attention of my strained ear--so low, so
 
        The [[Death|death]]-shot flash’d between.’” etc. etc.
 
-
-
 The old Scotch ballad was partly recited, then dropt; a pause ensued;
 
 then another strain followed, in French, of which the purport,
 
 translated, ran as follows:--
-
-
-
-
 
      I gave, at first, attention close;
 
@@ -174,8 +154,6 @@ translated, ran as follows:--
 
       Succeeded gratitude.
 
-
-
      Obedience was no effort soon,
 
       And labour was no [[Pain|pain]];
@@ -183,8 +161,6 @@ translated, ran as follows:--
      If tired, a word, a glance [[Alone|alone]]
 
       Would give me strength again.
-
-
 
      From others of the studious band,
 
@@ -194,8 +170,6 @@ translated, ran as follows:--
 
       And sterner urgency.
 
-
-
      The task he from another took,
 
       From me he did reject;
@@ -204,8 +178,6 @@ translated, ran as follows:--
 
       And suffer no defect.
 
-
-
      If my companions went astray,
 
       He scarce their wanderings blam’d;
@@ -213,8 +185,6 @@ translated, ran as follows:--
      If I but falter’d in the way,
 
       His anger fiercely flam’d.
-
-
 
 Something stirred in an adjoining chamber; it would not do to be
 
@@ -276,8 +246,6 @@ or proud mother in the land. Can this be so? I really don’t know; but
 
 feel inclined to [[Doubt|doubt]] it.
 
-
-
 I came forward, bade Frances “good evening,” and took my seat. The chair
 
 I had chosen was one she had probably just left; it stood by a little
@@ -328,10 +296,6 @@ satisfied. I translate as before, and my [[Translation|translation]] is nearly l
 
 it continued thus:--
 
-
-
-
-
      When sickness stay’d awhile my course,
 
       He seem’d impatient still,
@@ -339,8 +303,6 @@ it continued thus:--
      Because his pupil’s flagging force
 
       Could not obey his will.
-
-
 
      One day when summoned to the bed
 
@@ -350,8 +312,6 @@ it continued thus:--
 
       Say, “God, she must revive!”
 
-
-
      I felt his hand, with gentle stress,
 
       A moment laid on mine,
@@ -359,8 +319,6 @@ it continued thus:--
      And wished to mark my consciousness
 
       By some responsive sign.
-
-
 
      But pow’rless then to speak or move,
 
@@ -370,8 +328,6 @@ it continued thus:--
 
       Their healing work begin.
 
-
-
      And as he from the room withdrew,
 
       My heart his steps pursued;
@@ -379,8 +335,6 @@ it continued thus:--
      I long’d to prove, by efforts new;
 
       My speechless gratitude.
-
-
 
      When once again I took my place,
 
@@ -390,8 +344,6 @@ it continued thus:--
 
       Did for one moment pass.
 
-
-
      The lessons done; the signal made
 
       Of glad release and play,
@@ -399,8 +351,6 @@ it continued thus:--
      He, as he passed, an instant stay’d,
 
       One kindly word to say.
-
-
 
     “Jane, till to-morrow you are free
 
@@ -410,8 +360,6 @@ it continued thus:--
 
       That yet pale face in school.
 
-
-
     “Seek in the [[Garden|garden]]-shades a seat,
 
       Far from the play-ground din;
@@ -419,8 +367,6 @@ it continued thus:--
      The sun is warm, the air is sweet:
 
       Stay till I call you in.”
-
-
 
      A long and pleasant afternoon
 
@@ -430,8 +376,6 @@ it continued thus:--
 
       With [[Birds|birds]], and [[Bees|bees]], and [[Flowers|flowers]].
 
-
-
      Yet, when my master’s voice I heard
 
       Call, from the [[Window|window]], “Jane!”
@@ -439,8 +383,6 @@ it continued thus:--
       I entered, joyful, at the word,
 
       The busy [[house]] again.
-
-
 
      He, in the hall, paced up and down;
 
@@ -450,8 +392,6 @@ it continued thus:--
 
       He raised his deep-set eye.
 
-
-
     “Not quite so pale,” he murmured low.
 
       “Now Jane, go rest awhile.”
@@ -459,8 +399,6 @@ it continued thus:--
       And as I smiled, his smoothened brow
 
       Returned as glad a smile.
-
-
 
      My perfect health restored, he took
 
@@ -470,8 +408,6 @@ it continued thus:--
 
       The slightest fault from Jane.
 
-
-
      The longest task, the hardest theme
 
       Fell to my share as erst,
@@ -479,8 +415,6 @@ it continued thus:--
      And still I toiled to place my name
 
       In every study first.
-
-
 
      He yet begrudged and stinted praise,
 
@@ -490,8 +424,6 @@ it continued thus:--
 
       And that was my best meed.
 
-
-
      Even when his hasty temper spoke
 
       In tones that sorrow stirred,
@@ -499,8 +431,6 @@ it continued thus:--
      My grief was lulled as soon as woke
 
       By some relenting word.
-
-
 
      And when he lent some precious book,
 
@@ -510,8 +440,6 @@ it continued thus:--
 
       Upheld by Pleasure’s power.
 
-
-
      At last our school ranks took their ground,
 
       The hard-fought field I won;
@@ -519,8 +447,6 @@ it continued thus:--
      The prize, a laurel-wreath, was bound
 
       My throbbing forehead on.
-
-
 
      Low at my master’s knee I bent,
 
@@ -530,8 +456,6 @@ it continued thus:--
 
       A thrill as wild as sweet.
 
-
-
      The strong pulse of [[Ambition]] struck
 
       In every vein I owned;
@@ -539,8 +463,6 @@ it continued thus:--
      At the same instant, bleeding broke
 
       A secret, inward wound.
-
-
 
      The hour of triumph was to me
 
@@ -550,8 +472,6 @@ it continued thus:--
 
       Ne’er to recross it more.
 
-
-
      An hour hence, in my master’s room
 
       I with him sat [[Alone|alone]],
@@ -559,8 +479,6 @@ it continued thus:--
      And told him what a dreary gloom
 
       O’er joy had parting thrown.
-
-
 
      He little said; the [[Time|time]] was brief,
 
@@ -570,8 +488,6 @@ it continued thus:--
 
       My master but looked pale.
 
-
-
      They called in haste; he bade me go,
 
       Then snatched me back again;
@@ -579,8 +495,6 @@ it continued thus:--
      He held me fast and murmured low,
 
      “Why will they part us, Jane?”
-
-
 
     “Were you not happy in my care?
 
@@ -590,8 +504,6 @@ it continued thus:--
 
       As true, as deep a [[Love|love]]?
 
-
-
     “O God, watch o’er my foster [[Child|child]]!
 
       O guard her gentle head!
@@ -600,8 +512,6 @@ it continued thus:--
 
       Protection round her spread!
 
-
-
     “They call again; leave then my breast;
 
       Quit thy true shelter, Jane;
@@ -609,8 +519,6 @@ it continued thus:--
      But when deceived, repulsed, opprest,
 
       Come [[Home|home]] to me again!”
-
-
 
 I read--then dreamily made marks on the margin with my pencil; thinking
 
@@ -636,8 +544,6 @@ on Hermon never drank the fresh dews of sunset more gratefully than my
 
 feelings drank the bliss of this hour.
 
-
-
 Frances [[Rose|rose]], as if restless; she passed before me to stir the [[Fire|fire]],
 
 which did not want stirring; she lifted and put down the little
@@ -645,8 +551,6 @@ which did not want stirring; she lifted and put down the little
 ornaments on the mantelpiece; her dress waved within a yard of me;
 
 slight, straight, and elegant, she stood erect on the hearth.
-
-
 
 There are impulses we can control; but there are others which control
 
@@ -668,8 +572,6 @@ the next, I held Frances on my knee, placed there with sharpness and
 
 decision, and retained with exceeding tenacity.
 
-
-
 “Monsieur!” cried Frances, and was still: not another word escaped her
 
 lips; sorely confounded she seemed during the lapse of the first few
@@ -683,8 +585,6 @@ before, to one she habitually respected and trusted; embarrassment might
 have impelled her to contend, but [[Self|self]]-respect checked resistance where
 
 resistance was useless.
-
-
 
 “Frances, how much regard have you for me?” was my demand. No answer;
 
@@ -700,17 +600,11 @@ face, doubtless, was no model of composure, my eyes no still wells of
 
 tranquillity.
 
-
-
 “Do speak,” I urged; and a very low, hurried, yet still arch voice
 
 said--
 
-
-
 “Monsieur, vous me faites mal; de grace lachez un peu ma main droite.”
-
-
 
 In [[Truth|truth]] I became aware that I was holding the said “main droite” in
 
@@ -718,21 +612,13 @@ a somewhat ruthless grasp: I did as desired; and, for the third [[Time|time]],
 
 asked more gently--
 
-
-
 “Frances, how much regard have you for me?”
 
-
-
 “Mon maitre, j’en ai beaucoup,” was the truthful rejoinder.
-
-
 
 “Frances, have you enough to give yourself to me as my wife?--to accept
 
 me as your husband?”
-
-
 
 I felt the agitation of the heart, I saw “the purple light of [[Love|love]]” cast
 
@@ -740,25 +626,15 @@ its glowing reflection on cheeks, temples, neck; I desired to consult
 
 the eye, but sheltering lash and lid forbade.
 
-
-
 “Monsieur,” said the soft voice at last,--“Monsieur [[Desire|desire]] savoir si je
 
 consens--si--enfin, si je veux me marier avec lui?”
 
-
-
 “Justement.”
-
-
 
 “Monsieur sera-t-il aussi bon mari qu’il a ete bon maitre?”
 
-
-
 “I will try, Frances.”
-
-
 
 A pause; then with a new, yet still subdued inflexion of the voice--an
 
@@ -766,49 +642,29 @@ inflexion which provoked while it pleased me--accompanied, too, by a
 
 “sourire a la fois fin et timide” in perfect harmony with the tone:--
 
-
-
 “C’est a dire, monsieur sera toujours un peu entete exigeant,
 
 volontaire--?”
 
-
-
 “Have I been so, Frances?”
-
-
 
 “Mais oui; vous le savez bien.”
 
-
-
 “Have I been nothing else?”
-
-
 
 “Mais oui; vous avez ete mon meilleur ami.”
 
-
-
 “And what, Frances, are you to me?”
 
-
-
 “Votre devouee eleve, qui vous aime de tout son coeur.”
-
-
 
 “Will my pupil consent to pass her life with me? Speak English now,
 
 Frances.”
 
-
-
 Some moments were taken for reflection; the answer, pronounced slowly,
 
 ran thus:--
-
-
 
 “You have always made me happy; I like to hear you speak; I like to
 
@@ -826,11 +682,7 @@ restraining herself she only added with earnest emphasis--“Master, I
 
 consent to pass my life with you.”
 
-
-
 “Very [[Well|well]], Frances.”
-
-
 
 I drew her a little nearer to my heart; I took a first kiss from her
 
@@ -852,15 +704,11 @@ measuring its own content; it sounded and sounded, and found the depth
 
 fathomless.
 
-
-
 “Monsieur,” at last said my quiet companion, as stirless in her
 
 happiness as a mouse in its terror. Even now in speaking she scarcely
 
 lifted her head.
-
-
 
 “[[Well]], Frances?” I like unexaggerated intercourse; it is not my way to
 
@@ -868,11 +716,7 @@ overpower with amorous epithets, any more than to worry with selfishly
 
 importunate caresses.
 
-
-
 “Monsieur est raisonnable, n’est-ce pas?”
-
-
 
 “Yes; especially when I am requested to be so in English: but why do
 
@@ -880,15 +724,9 @@ you ask me? You see nothing vehement or obtrusive in my manner; am I not
 
 tranquil enough?”
 
-
-
 “Ce n’est pas cela--” began Frances.
 
-
-
 “English!” I reminded her.
-
-
 
 “[[Well]], monsieur, I wished merely to say, that I should like, of course,
 
@@ -896,11 +734,7 @@ to retain my employment of teaching. You will teach still, I suppose,
 
 monsieur?”
 
-
-
 “Oh, yes! It is all I have to depend on.”
-
-
 
 “Bon!--I mean good. Thus we shall have both the same profession. I like
 
@@ -908,15 +742,9 @@ that; and my efforts to get on will be as unrestrained as yours--will
 
 they not, monsieur?”
 
-
-
 “You are laying plans to be independent of me,” said I.
 
-
-
 “Yes, monsieur; I must be no incumbrance to you--no burden in any way.”
-
-
 
 “But, Frances, I have not yet told you what my prospects are. I have
 
@@ -930,8 +758,6 @@ for you to fag yourself by going out to give lessons; on six thousand
 
 francs you and I can live, and live [[Well|well]].”
 
-
-
 Frances seemed to consider. There is something flattering to man’s
 
 strength, something consonant to his honourable [[Pride|pride]], in the idea of
@@ -941,8 +767,6 @@ becoming the [[Providence|providence]] of what he loves--feeding and clothing it
 God does the lilies of the field. So, to decide her resolution, I went
 
 on:--
-
-
 
 “Life has been painful and laborious enough to you so far, Frances; you
 
@@ -954,15 +778,11 @@ it! Relinquish your labours: you must be weary, and let me have the
 
 happiness of giving you rest.”
 
-
-
 I am not sure whether Frances had accorded due attention to my harangue;
 
 instead of answering me with her usual respectful promptitude, she only
 
 sighed and said,--
-
-
 
 “How rich you are, monsieur!” and then she stirred uneasy in my
 
@@ -976,8 +796,6 @@ place? Oh no! I shall hold it fast;” and her little fingers emphatically
 
 tightened on mine.
 
-
-
 “Think of my marrying you to be kept by you, monsieur! I could not do
 
 it; and how dull my days would be! You would be away teaching in close,
@@ -988,11 +806,7 @@ at [[Home|home]], unemployed and solitary; I should get depressed and sullen, an
 
 you would soon tire of me.”
 
-
-
 “Frances, you could read and study--two things you like so [[Well|well]].”
-
-
 
 “Monsieur, I could not; I like a contemplative life, but I like an
 
@@ -1006,15 +820,11 @@ other so highly, as those who work together, and perhaps suffer
 
 together.”
 
-
-
 “You speak God’s [[Truth|truth]],” said I at last, “and you shall have your own
 
 way, for it is the best way. Now, as a reward for such ready consent,
 
 give me a voluntary kiss.”
-
-
 
 After some hesitation, natural to a novice in the art of kissing, she
 
@@ -1023,8 +833,6 @@ brought her lips into very shy and gentle contact with my forehead; I
 took the small gift as a loan, and repaid it promptly, and with generous
 
 interest.
-
-
 
 I know not whether Frances was really much altered since the [[Time|time]]
 
@@ -1082,15 +890,11 @@ I could ill have dispensed with. It appeared, then, that I too was a
 
 sensualist, in my temperate and fastidious way.
 
-
-
 Now, reader, during the last two pages I have been giving you honey
 
 fresh from [[Flowers|flowers]], but you must not live entirely on food so luscious;
 
 taste then a little gall--just a drop, by way of change.
-
-
 
 At a somewhat late hour I returned to my lodgings: having temporarily
 
@@ -1120,8 +924,6 @@ brought unto me, and mine ear received a little thereof; there was
 
 [[Death|death]].”
 
-
-
 That sound, and the sensation of chill anguish accompanying it, many
 
 would have regarded as [[Supernatural|supernatural]]; but I recognized it at once as the
@@ -1139,8 +941,6 @@ darkness fell upon me; I felt my chamber invaded by one I had known
 formerly, but had thought for ever departed. I was temporarily a prey to
 
 hypochondria.
-
-
 
 She had been my acquaintance, nay, my guest, once before in boyhood; I
 
@@ -1170,8 +970,6 @@ than moonlight. “Necropolis!” she would whisper, pointing to the pale
 
 piles, and add, “It contains a mansion prepared for you.”
 
-
-
 But my boyhood was lonely, parentless; uncheered by brother or sister;
 
 and there was no marvel that, just as I [[Rose|rose]] to youth, a sorceress,
@@ -1193,8 +991,6 @@ folding wings, weary with long flight, had just alighted on the very lap
 of fruition, and nestled there warm, content, under the caress of a soft
 
 hand--why did hypochondria accost me now?
-
-
 
 I repulsed her as one would a dreaded and ghastly concubine coming to
 

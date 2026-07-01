@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 24 (part 2)"
+title: "Shirley — Chapter 24 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_24/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_24/part_03">part 03 ›</a></div>
 </nav>
 
+
+the [[Nurse|nurse]] was bent on cherishing; no sign of weariness in the latter
+
+ever reminded the former that she ought to be anxious. There was, in
+
+fact, no very hard duty to perform; but a hireling might have found it
+
+hard.
+
+
+
+With all this care it seemed strange the sick girl did not get [[Well|well]]; yet
 
 such was the case. She wasted like any [[Snow|snow]]-wreath in thaw; she faded
 
@@ -193,23 +205,3 @@ scattered on waking, her look generally wandering. Half rising, as if
 in terror, she exclaimed, "Don't take it from me, Robert! Don't! It is
 
 my last comfort; let me keep it. I never tell any one whose hair it is;
-
-I never show it."
-
-
-
-Mrs. Pryor had already disappeared behind the curtain. Reclining far
-
-back in a deep arm-chair by the bedside, she was withdrawn from view.
-
-Caroline looked abroad into the chamber; she thought it empty. As her
-
-stray ideas returned slowly, each folding its weak wings on the mind's
-
-sad shore, like [[Birds|birds]] exhausted, beholding void, and perceiving [[Silence|silence]]
-
-round her, she believed herself [[Alone|alone]]. Collected she was not yet;
-
-perhaps healthy [[Self|self]]-possession and [[Self|self]]-control were to be hers no
-
-more; perhaps that world the strong and prosperous live in had already

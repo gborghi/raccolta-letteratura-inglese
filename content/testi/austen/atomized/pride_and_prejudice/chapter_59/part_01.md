@@ -1,5 +1,5 @@
 ---
-title: "[[Pride and Prejudice]] — Chapter 59 (part 1)"
+title: "Pride and Prejudice — Chapter 59 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/pride-and-prejudice-(austen)"
@@ -141,14 +141,3 @@ saying,--
 disagreeable man all to yourself; but I [[Hope|hope]] you will not mind it. It is
 all for Jane’s sake, you know; and there is no occasion for talking to
 him except just now and then; so do not put yourself to inconvenience.”
-
-During their walk, it was resolved that Mr. Bennet’s consent should be
-asked in the course of the evening: Elizabeth reserved to herself the
-application for her mother’s. She could not determine how her mother
-would take it; sometimes doubting whether all his wealth and grandeur
-would be enough to overcome her abhorrence of the man; but whether she
-were violently set against the match, or violently delighted with it, it
-was certain that her manner would be equally ill adapted to do credit to
-her sense; and she could no more bear that Mr. Darcy should hear the
-first raptures of her joy, than the first vehemence of her
-disapprobation.

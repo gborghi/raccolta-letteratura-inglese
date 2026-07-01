@@ -122,7 +122,3 @@ quite respectful?  Really gentlemen--’
 
 ‘[[Well]], will you have the goodness to state your business then, Mr
 Brass?’ said the notary.
-
-‘Sir,’ rejoined Brass, ‘I will.  Ah Mr Witherden! you little know
-the--but I will not be tempted to travel from the point, sir, I believe
-the name of one of these gentlemen is Garland.’

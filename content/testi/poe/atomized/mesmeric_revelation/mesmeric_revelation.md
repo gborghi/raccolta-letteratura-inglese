@@ -1,5 +1,5 @@
 ---
-title: "[[Mesmeric Revelation]]"
+title: "Mesmeric Revelation"
 author: "Poe"
 unitType: work
 parentWork: "works/mesmeric-revelation-(poe)"

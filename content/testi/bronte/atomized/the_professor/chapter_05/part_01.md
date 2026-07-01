@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 4 (part 1)"
+title: "The Professor — Chapter 4 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -10,13 +10,11 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/works/the-professor-(bronte)">The Professor</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_professor/chapter_04/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/the_professor/chapter_05/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_professor/chapter_04/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/the_professor/chapter_05/part_02">part 02 ›</a></div>
 </nav>
 
 
 CHAPTER IV.
-
-
 
 No man likes to acknowledge that he has made a mistake in the choice of
 
@@ -66,8 +64,6 @@ sunshine of life; and I began to feel like a plant growing in humid
 
 darkness out of the slimy walls of a [[Well|well]].
 
-
-
 Antipathy is the only word which can express the feeling Edward
 
 Crimsworth had for me--a feeling, in a great measure, involuntary, and
@@ -102,8 +98,6 @@ watch my tact, hoping it would [[Sleep|sleep]], and prepared to steal snake-like
 
 on its slumber; but tact, if it be genuine, never sleeps.
 
-
-
 I had received my first quarter’s wages, and was returning to my
 
 lodgings, possessed heart and [[Soul|soul]] with the pleasant feeling that
@@ -130,15 +124,11 @@ out; looking towards the [[Window|window]] of my sitting-room, I saw no cheering
 
 red gleam.
 
-
-
 “That slut of a servant has neglected it as usual,” said I, “and I shall
 
 see nothing but pale ashes if I go in; it is a fine starlight [[Night|night]]--I
 
 will walk a little farther.”
-
-
 
 It WAS a fine [[Night|night]], and the streets were dry and even clean for X----;
 
@@ -147,8 +137,6 @@ there was a crescent curve of moonlight to be seen by the parish church
 tower, and hundreds of [[Stars|stars]] shone keenly bright in all quarters of the
 
 sky.
-
-
 
 Unconsciously I steered my course towards the country; I had got into
 
@@ -160,21 +148,15 @@ gate of one of the small gardens which front the neat dwelling-houses in
 
 this street, addressed me as I was hurrying with quick stride past.
 
-
-
 “What the deuce is the hurry? Just so must Lot have left Sodom, when he
 
 expected [[Fire|fire]] to pour down upon it, out of burning brass clouds.”
-
-
 
 I stopped short, and looked towards the speaker. I smelt the fragrance,
 
 and saw the red spark of a cigar; the dusk outline of a man, too, bent
 
 towards me over the wicket.
-
-
 
 “You see I am meditating in the field at eventide,” continued this
 
@@ -188,48 +170,24 @@ voice was familiar to me--its second utterance enabled me to seize the
 
 speaker’s [[Identity|identity]].
 
-
-
 “Mr. Hunsden! good evening.”
-
-
 
 “Good evening, indeed! yes, but you would have passed me without
 
 recognition if I had not been so civil as to speak first.”
 
-
-
 “I did not know you.”
-
-
 
 “A famous excuse! You ought to have known me; I knew you, though you
 
 were going ahead like a steam-engine. Are the police after you?”
 
-
-
 “It wouldn’t be worth their while; I’m not of consequence enough to
 
 attract them.”
-
-
 
 “Alas, poor shepherd! Alack and [[Well|well]]-a-day! What a theme for regret, and
 
 how down in the mouth you must be, judging from the sound of your voice!
 
 But since you’re not running from the police, from whom are you running?
-
-the devil?”
-
-
-
-“On the contrary, I am going post to him.”
-
-
-
-“That is [[Well|well]]--you’re just in luck: this is Tuesday evening; there are
-
-scores of market gigs and carts returning to Dinneford to-[[Night|night]]; and he,

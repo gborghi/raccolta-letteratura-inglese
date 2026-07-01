@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 21 (part 5)"
+title: "Wuthering Heights — Chapter 21 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -13,6 +13,26 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_21/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_21/part_06">part 06 ›</a></div>
 </nav>
 
+
+My master, perceiving that she would not take his word for her
+uncle-in-law’s evil disposition, gave a hasty [[Sketch|sketch]] of his conduct to
+[[Isabella]], and the manner in which [[Wuthering Heights]] became his
+property. He could not bear to discourse long upon the topic; for
+though he spoke little of it, he still felt the same horror and
+detestation of his ancient enemy that had occupied his heart ever since
+Mrs. Linton’s [[Death|death]]. “She might have been living yet, if it had not
+been for him!” was his constant bitter reflection; and, in his eyes,
+[[Heathcliff]] seemed a murderer. Miss Cathy—conversant with no bad deeds
+except her own slight acts of disobedience, injustice, and passion,
+arising from hot temper and thoughtlessness, and repented of on the day
+they were committed—was amazed at the blackness of spirit that could
+brood on and cover [[Revenge|revenge]] for years, and deliberately prosecute its
+plans without a visitation of remorse. She appeared so deeply impressed
+and shocked at this new view of human [[Nature|nature]]—excluded from all her
+studies and all her ideas till now—that Mr. [[Edgar]] deemed it unnecessary
+to pursue the subject. He merely added: “You will know hereafter,
+darling, why I wish you to avoid his [[house]] and family; now return to
+your old employments and amusements, and think no more about them.”
 
 Catherine kissed her father, and sat down quietly to her lessons for a
 couple of hours, according to custom; then she accompanied him into the
@@ -101,24 +121,3 @@ incorporeal sweetheart. Whether they satisfied Cathy I don’t know; but
 they appeared very worthless trash to me. After turning over as many as
 I thought proper, I tied them in a handkerchief and set them aside,
 relocking the vacant drawer.
-
-Following her habit, my young lady descended early, and visited the
-kitchen: I watched her go to the door, on the arrival of a certain
-little boy; and, while the dairymaid filled his can, she tucked
-something into his jacket pocket, and plucked something out. I went
-round by the [[Garden|garden]], and laid wait for the messenger; who fought
-valorously to defend his trust, and we spilt the milk between us; but I
-succeeded in abstracting the epistle; and, threatening serious
-consequences if he did not look sharp [[Home|home]], I remained under the wall
-and perused Miss Cathy’s affectionate composition. It was more simple
-and more eloquent than her cousin’s: very pretty and very silly. I
-shook my head, and went meditating into the [[house]]. The day being wet,
-she could not divert herself with rambling about the park; so, at the
-conclusion of her morning studies, she resorted to the solace of the
-drawer. Her father sat reading at the table; and I, on purpose, had
-sought a bit of work in some unripped fringes of the [[Window|window]]-curtain,
-keeping my eye steadily fixed on her proceedings. Never did any bird
-flying back to a plundered nest, which it had left brimful of chirping
-young ones, express more complete [[Despair|despair]], in its anguished cries and
-flutterings, than she by her single “Oh!” and the change that
-transfigured her late happy countenance. Mr. Linton looked up.

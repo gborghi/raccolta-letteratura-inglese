@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 20 (part 3)"
+title: "Shirley — Chapter 20 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,26 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_20/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_20/part_04">part 04 ›</a></div>
 </nav>
 
+
+good-humoured rating. Flattery they scorn very much; honest abuse they
+
+enjoy. They call it speaking plainly, and take a sincere delight in
+
+being the objects thereof. The homely harshness of Miss Keeldar's
+
+salutation won her the ear of the whole throng in a second.
+
+
+
+"We're no war nor some 'at is aboon us, are we?" asked a man, smiling.
+
+
+
+"Nor a whit better. You that should be models of industry are just as
+
+gossip-loving as the idle. Fine, rich people that have nothing to do may
+
+be partly excused for trifling their [[Time|time]] away; you who have to earn
 
 your bread with the sweat of your brow are quite inexcusable."
 
@@ -199,27 +219,3 @@ she said. She had not a word for anybody during the rest of the day, but
 sat near the hall [[Fire|fire]] till evening watching and tending Tartar, who lay
 
 all gory, stiff, and swelled on a mat at her feet. She wept furtively
-
-over him sometimes, and murmured the softest words of pity and
-
-endearment, in tones whose music the old, scarred, canine warrior
-
-acknowledged by licking her hand or her sandal alternately with his own
-
-red wounds. As to John, his lady turned a cold shoulder on him for a
-
-week afterwards.
-
-
-
-Mrs. Gill, remembering this little episode, came "all of a tremble," as
-
-she said herself. In a firm, brief voice Miss Keeldar proceeded to put
-
-questions and give orders. That at such a [[Time|time]] Fieldhead should have
-
-evinced the inhospitality of a miser's hovel stung her haughty spirit to
-
-the quick; and the revolt of its [[Pride|pride]] was seen in the heaving of her
-
-heart, stirred stormily under the lace and silk which veiled it.

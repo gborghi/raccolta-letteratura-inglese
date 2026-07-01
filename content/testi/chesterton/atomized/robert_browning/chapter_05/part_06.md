@@ -14,6 +14,25 @@ tags:
 </nav>
 
 
+Shortly before this, in 1872, he had published _Fifine at the Fair_,
+which his principal biographer, and one of his most uncompromising
+admirers, calls a piece of perplexing cynicism. Perplexing it may be
+to some extent, for it was almost impossible to tell whether Browning
+would or would not be perplexing even in a [[Love|love]]-[[Song|song]] or a post-card.
+But cynicism is a word that cannot possibly be applied with any
+propriety to anything that Browning ever wrote. Cynicism denotes that
+condition of mind in which we hold that life is in its [[Nature|nature]] mean and
+arid; that no [[Soul|soul]] contains genuine goodness, and no state of things
+genuine reliability. _Fifine at the Fair_, like _Prince
+Hohenstiel-Schwangau_, is one of Browning's apologetic
+soliloquies--the soliloquy of an epicurean who seeks half-playfully
+to justify upon moral grounds an infidelity into which he afterwards
+actually falls. This casuist, like all Browning's casuists, is given
+many noble outbursts and sincere moments, and therefore apparently the
+poem is called cynical. It is difficult to understand what particular
+connection there is between seeing good in nobody and seeing good even
+in a sensual [[Fool|fool]].
+
 After _Fifine at the Fair_ appeared the _Inn Album_, in 1875, a purely
 narrative work, chiefly interesting as exhibiting in yet another place
 one of Browning's vital characteristics, a pleasure in retelling and
@@ -100,30 +119,3 @@ philosophical idea--some idea as deep, as delicate, and as spiritual.
 But it may be safely asserted that no other poet, having thought of a
 deep, delicate, and spiritual idea, would call it "A Bean Stripe; also
 Apple Eating."
-
-Three more years passed, and the last book which Browning published in
-his lifetime was _Parleyings with Certain People of Importance in
-their Day_, a book which consists of apostrophes, amicable, furious,
-reverential, satirical, emotional to a number of people of whom the
-vast majority even of cultivated people have never heard in their
-lives--Daniel Bartoli, Francis Furini, Gerard de Lairesse, and Charles
-Avison. This extraordinary knowledge of the fulness of [[history]] was a
-thing which never ceased to characterise Browning even when he was
-unfortunate in every other literary quality. Apart altogether from
-every line he ever wrote, it may fairly be said that no mind so rich
-as his ever carried its treasures to the [[Grave|grave]]. All these later [[Poems|poems]]
-are vigorous, learned, and full-blooded. They are thoroughly
-characteristic of their author. But nothing in them is quite so
-characteristic of their author as this fact, that when he had
-published all of them, and was already near to his last day, he turned
-with the energy of a boy let out of school, and began, of all things
-in the world, to re-write and improve "Pauline," the boyish poem that
-he had written fifty-five years before. Here was a man covered with
-glory and near to the doors of [[Death|death]], who was prepared to give himself
-the elaborate trouble of reconstructing the mood, and rebuilding the
-verses of a long juvenile poem which had been forgotten for fifty
-years in the blaze of successive victories. It is such things as these
-which give to Browning an interest of personality which is far beyond
-the more interest of genius. It was of such things that Elizabeth
-Barrett wrote in one of her best moments of insight--that his genius
-was the least important thing about him.

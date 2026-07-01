@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 25: GOOD AND BAD ANGELS (part 2)"
+title: "David Copperfield — Chapter 25: GOOD AND BAD ANGELS (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_25_good_and_bad_angels/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_25_good_and_bad_angels/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘It is very bold in me,’ said Agnes, looking up again, ‘who have lived
+in such seclusion, and can know so little of the world, to give you my
+advice so confidently, or even to have this strong opinion. But I know
+in what it is engendered, Trotwood,--in how true a remembrance of our
+having grown up together, and in how true an interest in all relating
+to you. It is that which makes me bold. I am certain that what I say is
+right. I am quite sure it is. I feel as if it were someone else speaking
+to you, and not I, when I caution you that you have made a dangerous
+friend.’
 
 Again I looked at her, again I listened to her after she was silent, and
 again his image, though it was still fixed in my heart, darkened.

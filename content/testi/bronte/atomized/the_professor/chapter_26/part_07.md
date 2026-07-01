@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 25 (part 7)"
+title: "The Professor — Chapter 25 (part 7)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -14,11 +14,49 @@ tags:
 </nav>
 
 
+“My sight was always too weak to endure a blaze, Frances,” and we had
+
+now reached the wicket.
+
+I said, a few pages back, that this is a sweet [[Summer|summer]] evening; it
+
+is--there has been a series of lovely days, and this is the loveliest;
+
+the hay is just carried from my fields, its perfume still lingers in the
+
+air. Frances proposed to me, an hour or two since, to take tea out
+
+on the lawn; I see the round table, loaded with china, placed under a
+
+certain beech; Hunsden is expected--nay, I hear he is come--there is his
+
+voice, laying down the law on some point with authority; that of Frances
+
+replies; she opposes him of course. They are disputing about Victor,
+
+of whom Hunsden affirms that his mother is making a milksop. Mrs.
+
+Crimsworth retaliates:--
+
+“Better a thousand times he should be a milksop than what he, Hunsden,
+
+calls ‘a fine lad;’ and moreover she says that if Hunsden were to become
+
+a fixture in the neighbourhood, and were not a mere comet, coming and
+
+going, no one knows how, when, where, or why, she should be quite uneasy
+
+till she had got Victor away to a school at least a hundred miles off;
+
+for that with his mutinous maxims and unpractical dogmas, he would ruin
+
+a score of children.”
+
+I have a word to say of Victor ere I shut this manuscript in my
+
 desk--but it must be a brief one, for I hear the tinkle of silver on
 
 porcelain.
-
-
 
 Victor is as little of a pretty [[Child|child]] as I am of a handsome man, or his
 
@@ -56,8 +94,6 @@ affection; this feeling, directed towards one or two living [[Animals|animals]] 
 
 the [[house]], strengthens almost to a passion.
 
-
-
 Mr. Hunsden gave him a mastiff cub, which he called Yorke, after the
 
 donor; it grew to a superb dog, whose fierceness, however, was much
@@ -90,15 +126,11 @@ Victor was kneeling beside his dead mastiff, bent over it, embracing its
 
 bull-like neck, and lost in a passion of the wildest woe: he saw me.
 
-
-
 “Oh, papa, I’ll never forgive you! I’ll never forgive you!” was his
 
 exclamation. “You shot Yorke--I saw it from the [[Window|window]]. I never believed
 
 you could be so cruel--I can [[Love|love]] you no more!”
-
-
 
 I had much ado to explain to him, with a steady voice, the stern
 
@@ -106,15 +138,11 @@ necessity of the deed; he still, with that inconsolable and bitter
 
 accent which I cannot render, but which pierced my heart, repeated--
 
-
-
 “He might have been cured--you should have tried--you should have burnt
 
 the wound with a hot iron, or covered it with caustic. You gave no [[Time|time]];
 
 and now it is too late--he is dead!”
-
-
 
 He sank fairly down on the senseless carcase; I waited patiently a long
 
@@ -144,8 +172,6 @@ had made me act so, and that I was now almost heart-broken to see him
 
 weep thus bitterly.
 
-
-
 Victor would have been no true son of his father, had these
 
 considerations, these reasons, breathed in so low, so sweet a
@@ -161,49 +187,3 @@ in her arms. Looking up, shortly, he asked his mother to tell him over
 again what she had said about Yorke having suffered no [[Pain|pain]], and my not
 
 being cruel; the balmy words being repeated, he again pillowed his cheek
-
-on her breast, and was again tranquil.
-
-
-
-Some hours after, he came to me in my library, asked if I forgave him,
-
-and desired to be reconciled. I drew the lad to my side, and there I
-
-kept him a good while, and had much talk with him, in the course of
-
-which he disclosed many points of feeling and thought I approved of in
-
-my son. I found, it is true, few elements of the “good fellow” or the
-
-“fine fellow” in him; scant sparkles of the spirit which loves to flash
-
-over the wine cup, or which kindles the passions to a destroying
-
-[[Fire|fire]]; but I saw in the soil of his heart healthy and swelling germs
-
-of compassion, affection, fidelity. I discovered in the [[Garden|garden]] of his
-
-intellect a rich growth of wholesome principles--reason, justice, moral
-
-[[Courage|courage]], promised, if not blighted, a fertile bearing. So I bestowed on
-
-his large forehead, and on his cheek--still pale with [[Tears|tears]]--a proud and
-
-contented kiss, and sent him away comforted. Yet I saw him the next day
-
-laid on the mound under which Yorke had been buried, his face covered
-
-with his hands; he was [[Melancholy|melancholy]] for some weeks, and more than a year
-
-elapsed before he would listen to any proposal of having another dog.
-
-
-
-Victor learns fast. He must soon go to Eton, where, I suspect, his first
-
-year or two will be utter wretchedness: to leave me, his mother, and his
-
-[[Home|home]], will give his heart an agonized wrench; then, the fagging will not
-
-suit him--but emulation, thirst after knowledge, the glory of [[success]],

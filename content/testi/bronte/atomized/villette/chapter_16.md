@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 16"
+title: "Villette — Chapter 16"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/villette-(bronte)"
@@ -385,7 +385,7 @@ liked to watch every action of my godmother; all her movements were so
 young: she must have been now above fifty, yet neither her sinews nor
 her spirit seemed yet touched by the rust of age. Though portly, she
 was alert, and though serene, she was at times impetuous—good health
-and an excellent temperament kept her green as in her [[spring]].
+and an excellent temperament kept her green as in her [[Spring|spring]].
 
 While she read, I perceived she listened—listened for her son. She was
 not the woman ever to confess herself uneasy, but there was yet no lull

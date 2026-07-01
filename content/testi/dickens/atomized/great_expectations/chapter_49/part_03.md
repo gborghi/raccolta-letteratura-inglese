@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 49 (part 3)"
+title: "Great Expectations — Chapter 49 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_49/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_51/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Might I ask her age then?”
+
+“Two or three. She herself knows nothing, but that she was left an
+[[Orphan|orphan]] and I adopted her.”
+
+So convinced I was of that woman’s being her mother, that I wanted no
+evidence to establish the fact in my own mind. But, to any mind, I
+thought, the connection here was clear and straight.
 
 What more could I [[Hope|hope]] to do by prolonging the interview? I had
 succeeded on behalf of Herbert, [[Miss Havisham]] had told me all she knew

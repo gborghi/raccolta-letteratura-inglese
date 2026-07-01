@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 77"
+title: "Barnaby Rudge — Chapter 77"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -376,7 +376,7 @@ approach of [[Death]] had filled with inspiration, ‘where are they! What
 else should teach me--me, born as I was born, and reared as I have
 been reared--to [[Hope|hope]] for any [[Mercy|mercy]] in this hardened, cruel, unrelenting
 place! Upon these human shambles, I, who never raised this hand in
-[[Prayer|prayer]] till now, call down the wrath of God! On that black tree, of
+[[prayer]] till now, call down the wrath of God! On that black tree, of
 which I am the ripened fruit, I do invoke the curse of all its victims,
 past, and present, and to come. On the head of that man, who, in his
 [[Conscience|conscience]], owns me for his son, I leave the wish that he may never

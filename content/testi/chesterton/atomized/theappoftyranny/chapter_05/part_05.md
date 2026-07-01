@@ -1,5 +1,5 @@
 ---
-title: "[[TheAppOfTyranny]] — Chapter 4 (part 5)"
+title: "TheAppOfTyranny — Chapter 4 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/theappoftyranny-(chesterton)"
@@ -14,13 +14,31 @@ tags:
 </nav>
 
 
+than an Italian, to show what I mean when I object to a "German future for
+
+Europe." I object to something which believes very much in itself, and in
+
+which I do not in the least believe. I object to something which is
+
+conceited and small-minded; but which also has that kind of pertinacity
+
+which always belongs to lunatics. It wants to be able to congratulate
+
+itself on [[Michael]] [[Angelo]]; never to congratulate the world. It is the spirit
+
+that can be seen in those who go bald trying to trace a genealogy; or go
+
+bankrupt trying to make out a claim to some remote estate. The Prussian has
+
+the inconsistency of the _parvenu_; he will labour to prove that he is
+
+related to some gentleman of the [[Renaissance]], even while he boasts of being
+
 able to "buy him up." If the Italians were really great, why--they were
 
 really Germans; and if they weren't really Germans, [[Well|well]] then, they weren't
 
 really great. It is an occupation for an old maid.
-
-
 
 Three or four hundred years ago, in the sad [[Silence|silence]] that had followed the
 
@@ -42,21 +60,13 @@ volumes) that it could only have come from a Prussian Eagle. He had seen
 
 one--in a cage.
 
-
-
          Yours ------,
 
               G.K. CHESTERTON.
 
-
-
        *       *       *       *       *
 
-
-
 My Dear ------
-
-
 
 The facts before all Europeans to-day are so fundamental that I still find
 
@@ -71,8 +81,6 @@ is second-rate. The second is that to almost any Prussian, Prussia is
 really first-rate; and is prepared, quite literally, to police the rest of
 
 the world.
-
-
 
 For the first matter, the comparative inferiority of German culture cannot
 
@@ -128,8 +136,6 @@ caddish. The German Emperor's naval vision is a bad copy of Nelson, as
 
 certainly as Frederick the Great's verses were a bad copy of Voltaire.
 
-
-
 But the second point was even more important; that weak as the thing is
 
 mentally it is strong materially; and will impose itself materially if we
@@ -175,29 +181,3 @@ nay, the Americans themselves, whose national existence began with being
 badly treated. With these the Prussians have done comparatively little; and
 
 with Europeans of your sort nothing. They have never once really
-
-sympathised with the feeling of a Switzer for Switzerland; the feeling of a
-
-Norwegian for Norway; the feeling of a Tuscan for Tuscany. Even when
-
-nations are neutral, Prussia can hardly bear them to be patriotic. Even
-
-when they are courting every one else they can praise no one but
-
-themselves. They fail in diplomacy, they fail in [[debate]], they fail even in
-
-demagogy. They have stupid plots, stupid explanations, and even stupid
-
-apologies. But there is one thing they really do not fail in. They do not
-
-fail in finding people stupid enough to carry them out.
-
-
-
-Now, it is this question I would ask you to consider; you, as a good middle
-
-type of the Latins, a Liberal but a Catholic, an [[artist]] but a soldier. The
-
-danger to the whole civilisation of which Rome was the fountain lies in
-
-this. That the more this strange Pruss people fail in all the other things,

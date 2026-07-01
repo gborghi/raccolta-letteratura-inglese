@@ -1,5 +1,5 @@
 ---
-title: "[[AllThingsConsidered-8]] — ON THE CRYPTIC AND THE ELLIPTIC"
+title: "AllThingsConsidered-8 — ON THE CRYPTIC AND THE ELLIPTIC"
 author: "Chesterton"
 unitType: story
 parentWork: "works/allthingsconsidered-8-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 ON THE CRYPTIC AND THE ELLIPTIC
-
 
 Surely the art of reporting speeches is in a strange state
 of degeneration.  We should not object, perhaps, to the reporter's

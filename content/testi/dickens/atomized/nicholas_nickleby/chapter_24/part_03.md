@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 24 (part 3)"
+title: "Nicholas Nickleby — Chapter 24 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -144,16 +144,3 @@ As she spoke, she pulled up the [[Window|window]]-blind, and having by this mean
 (as she thought) diverted Mr. Johnson’s attention from the room to the
 street, caught up some articles which were airing on the fender, and had
 very much the appearance of stockings, and darted off.
-
-As there were not many objects of interest outside the [[Window|window]], Nicholas
-looked about the room with more curiosity than he might otherwise have
-bestowed upon it. On the sofa lay an old guitar, several thumbed
-pieces of music, and a scattered litter of curl-papers; together with a
-confused heap of play-bills, and a pair of soiled white satin shoes
-with large blue rosettes. Hanging over the back of a chair was a
-half-finished muslin apron with little pockets ornamented with red
-ribbons, such as waiting-women wear on the stage, and (by consequence)
-are never seen with anywhere else. In one corner stood the diminutive
-pair of top-boots in which Miss Snevellicci was accustomed to enact the
-little jockey, and, folded on a chair hard by, was a small parcel, which
-bore a very suspicious resemblance to the companion smalls.

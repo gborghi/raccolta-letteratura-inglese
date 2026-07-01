@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 21 (part 4)"
+title: "Villette — Chapter 21 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_21/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_21/part_05">part 05 ›</a></div>
 </nav>
 
+
+“Go to your practising,” said I to her at once: “away with you to the
+little salon!”
+
+“Not till I have had a talk with you, chère amie. I know where you have
+been spending your vacation, and how you have commenced sacrificing to
+the graces, and enjoying life like any other belle. I saw you at the
+concert the other [[Night|night]], dressed, actually, like anybody else. Who is
+your tailleuse?”
 
 “Tittle-tattle: how prettily it begins! My tailleuse!—a fiddlestick!
 Come, sheer off, Ginevra. I really don’t want your company.”
@@ -153,10 +162,3 @@ enforce perfect [[Silence|silence]], to take out my work, and to commence it ami
 the profoundest and best trained hush, ere M. Emanuel entered with his
 vehement burst of latch and panel, and his deep, redundant bow,
 prophetic of choler.
-
-As usual he broke upon us like a clap of thunder; but instead of
-flashing [[Lightning|lightning]]-wise from the door to the estrade, his career halted
-midway at my desk. Setting his face towards me and the [[Window|window]], his back
-to the pupils and the room, he gave me a look—such a look as might have
-licensed me to stand straight up and demand what he meant—a look of
-scowling distrust.

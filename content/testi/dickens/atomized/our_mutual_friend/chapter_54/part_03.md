@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 13 (part 3)"
+title: "Our Mutual Friend — Chapter 16 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,126 +14,122 @@ tags:
 </nav>
 
 
-The confiding young man besought him to state his case. The [[Innocent|innocent]]
-Twemlow, expecting Fledgeby to be astounded by what he should unfold,
-and not for an instant conceiving the possibility of its happening every
-day, but treating of it as a terrible phenomenon occurring in the course
-of ages, related how that he had had a deceased friend, a married civil
-officer with a family, who had wanted money for change of place or
-change of post, and how he, Twemlow, had ‘given him his name,’ with the
-usual, but in the eyes of Twemlow almost incredible result that he had
-been left to repay what he had never had. How, in the course of years,
-he had reduced the principal by trifling sums, ‘having,’ said Twemlow,
-‘always to observe great economy, being in the enjoyment of a fixed
-income limited in extent, and that depending on the munificence of
-a certain nobleman,’ and had always pinched the full interest out of
-himself with punctual pinches. How he had come, in course of [[Time|time]],
-to look upon this one only debt of his life as a regular quarterly
-drawback, and no worse, when ‘his name’ had some way fallen into the
-possession of Mr Riah, who had sent him notice to redeem it by paying up
-in full, in one plump sum, or take tremendous consequences. This, with
-hazy remembrances of how he had been carried to some office to ‘confess
-judgment’ (as he recollected the phrase), and how he had been carried
-to another office where his life was assured for somebody not wholly
-unconnected with the sherry trade whom he remembered by the remarkable
-circumstance that he had a Straduarius violin to dispose of, and also a
-Madonna, formed the sum and substance of Mr Twemlow’s narrative. Through
-which stalked the [[Shadow|shadow]] of the awful Snigsworth, eyed afar off by
-money-lenders as Security in the Mist, and menacing Twemlow with his
-baronial truncheon.
+With another tearful laugh Bella joyfully kissed him again.
 
-To all, Mr Fledgeby listened with the modest gravity becoming a
-confiding young man who knew it all beforehand, and, when it was
-finished, seriously shook his head. ‘I don’t like, Mr Twemlow,’ said
-Fledgeby, ‘I don’t like Riah’s calling in the principal. If he’s
-determined to call it in, it must come.’
+‘And therefore—and therefore,’ the cherub went on in a glowing voice,
+as Bella’s hand stole gradually up his waistcoat to his neck, ‘this
+mercenary young person distantly related to myself, refused the
+price, took off the splendid fashions that were part of it, put on the
+comparatively poor dress that I had last given her, and trusting to my
+supporting her in what was right, came straight to me. Have I led up to
+it?’
 
-‘But supposing, sir,’ said Twemlow, downcast, ‘that it can’t come?’
+Bella’s hand was round his neck by this [[Time|time]], and her face was on it.
 
-‘Then,’ retorted Fledgeby, ‘you must go, you know.’
+‘The mercenary young person distantly related to myself,’ said her
+good father, ‘did [[Well|well]]! The mercenary young person distantly related
+to myself, did not trust to me in vain! I admire this mercenary young
+person distantly related to myself, more in this dress than if she had
+come to me in China silks, Cashmere shawls, and Golconda diamonds. I
+[[Love|love]] this young person dearly. I say to the man of this young person’s
+heart, out of my heart and with all of it, “My blessing on this
+engagement betwixt you, and she brings you a good fortune when she
+brings you the [[Poverty|poverty]] she has accepted for your sake and the honest
+[[Truth|truth]]’s!”’
 
-‘Where?’ asked Twemlow, faintly.
+The stanch little man’s voice failed him as he gave John Rokesmith his
+hand, and he was silent, bending his face low over his daughter. But,
+not for long. He soon looked up, saying in a sprightly tone:
 
-‘To [[Prison|prison]],’ returned Fledgeby. Whereat Mr Twemlow leaned his [[Innocent|innocent]]
-head upon his hand, and moaned a little moan of distress and disgrace.
+‘And now, my dear [[Child|child]], if you think you can entertain John Rokesmith
+for a minute and a half, I’ll run over to the Dairy, and fetch HIM a
+cottage loaf and a drink of milk, that we may all have tea together.’
 
-‘However,’ said Fledgeby, appearing to pluck up his spirits, ‘we’ll [[Hope|hope]]
-it’s not so bad as that comes to. If you’ll allow me, I’ll mention to Mr
-Riah when he comes in, who you are, and I’ll tell him you’re my friend,
-and I’ll say my say for you, instead of your saying it for yourself; I
-may be able to do it in a more business-like way. You won’t consider it
-a liberty?’
+It was, as Bella gaily said, like the supper provided for the three
+nursery hobgoblins at their [[house]] in the forest, without their
+thunderous low growlings of the alarming discovery, ‘Somebody’s been
+drinking MY milk!’ It was a delicious repast; by far the most delicious
+that Bella, or John Rokesmith, or even R. Wilfer had ever made. The
+uncongenial oddity of its surroundings, with the two brass knobs of the
+iron safe of Chicksey, Veneering, and Stobbles staring from a corner,
+like the eyes of some dull dragon, only made it the more delightful.
 
-‘I thank you again and again, sir,’ said Twemlow. ‘I am strong,
-strongly, disinclined to avail myself of your generosity, though my
-helplessness yields. For I cannot but feel that I—to put it in the
-mildest form of speech—that I have done nothing to deserve it.’
+‘To think,’ said the cherub, looking round the office with unspeakable
+enjoyment, ‘that anything of a tender [[Nature|nature]] should come off here, is
+what tickles me. To think that ever I should have seen my Bella folded
+in the arms of her future husband, HERE, you know!’
 
-‘Where CAN he be?’ muttered Fledgeby, referring to his watch again.
-‘What CAN he have gone out for? Did you ever see him, Mr Twemlow?’
+It was not until the cottage loaves and the milk had for some [[Time|time]]
+disappeared, and the foreshadowings of [[Night|night]] were creeping over Mincing
+Lane, that the cherub by degrees became a little nervous, and said to
+Bella, as he cleared his throat:
 
-‘Never.’
+‘Hem!—Have you thought at all about your mother, my dear?’
 
-‘He is a thorough Jew to look at, but he is a more thorough Jew to deal
-with. He’s worst when he’s quiet. If he’s quiet, I shall take it as a
-very bad sign. Keep your eye upon him when he comes in, and, if he’s
-quiet, don’t be hopeful. Here he is!—He looks quiet.’
+‘Yes, Pa.’
 
-With these words, which had the effect of causing the harmless Twemlow
-painful agitation, Mr Fledgeby withdrew to his former post, and the old
-man entered the counting-[[house]].
+‘And your sister Lavvy, for instance, my dear?’
 
-‘Why, Mr Riah,’ said Fledgeby, ‘I thought you were lost!’
+‘Yes, Pa. I think we had better not enter into particulars at [[Home|home]]. I
+think it will be quite enough to say that I had a difference with Mr
+Boffin, and have left for good.’
 
-The old man, glancing at the stranger, stood stock-still. He perceived
-that his master was leading up to the orders he was to take, and he
-waited to understand them.
+‘John Rokesmith being acquainted with your Ma, my [[Love|love]],’ said her
+father, after some slight hesitation, ‘I need have no delicacy in
+hinting before him that you may perhaps find your Ma a little wearing.’
 
-‘I really thought,’ repeated Fledgeby slowly, ‘that you were lost, Mr
-Riah. Why, now I look at you—but no, you can’t have done it; no, you
-can’t have done it!’
+‘A little, patient Pa?’ said Bella with a tuneful laugh: the tune fuller
+for being so loving in its tone.
 
-Hat in hand, the old man lifted his head, and looked distressfully at
-Fledgeby as seeking to know what new moral burden he was to bear.
+‘[[Well]]! We’ll say, strictly in confidence among ourselves, wearing;
+we won’t qualify it,’ the cherub stoutly admitted. ‘And your sister’s
+temper is wearing.’
 
-‘You can’t have rushed out to get the start of everybody else, and put
-in that bill of sale at Lammle’s?’ said Fledgeby. ‘Say you haven’t, Mr
-Riah.’
+‘I don’t mind, Pa.’
 
-‘Sir, I have,’ replied the old man in a low voice.
+‘And you must prepare yourself you know, my precious,’ said her father,
+with much gentleness, ‘for our looking very poor and meagre at [[Home|home]], and
+being at the best but very uncomfortable, after Mr Boffin’s [[house]].’
 
-‘Oh my eye!’ cried Fledgeby. ‘Tut, tut, tut! Dear, dear, dear! [[Well]]! I
-knew you were a hard customer, Mr Riah, but I never thought you were as
-hard as that.’
+‘I don’t mind, Pa. I could bear much harder trials—for John.’
 
-‘Sir,’ said the old man, with great uneasiness, ‘I do as I am directed.
-I am not the principal here. I am but the agent of a superior, and I
-have no choice, no power.’
+The closing words were not so softly and blushingly said but that John
+heard them, and showed that he heard them by again assisting Bella to
+another of those mysterious disappearances.
 
-‘Don’t say so,’ retorted Fledgeby, secretly exultant as the old man
-stretched out his hands, with a shrinking action of defending himself
-against the sharp construction of the two observers. ‘Don’t play the
-tune of the trade, Mr Riah. You’ve a right to get in your debts, if
-you’re determined to do it, but don’t pretend what every one in your
-line regularly pretends. At least, don’t do it to me. Why should you, Mr
-Riah? You know I know all about you.’
+‘[[Well]]!’ said the cherub gaily, and not expressing disapproval, ‘when
+you—when you come back from retirement, my [[Love|love]], and reappear on the
+surface, I think it will be [[Time|time]] to lock up and go.’
 
-The old man clasped the skirt of his long coat with his disengaged hand,
-and directed a wistful look at Fledgeby.
+If the counting-[[house]] of Chicksey, Veneering, and Stobbles had ever been
+shut up by three happier people, glad as most people were to shut it up,
+they must have been superlatively happy indeed. But first Bella mounted
+upon Rumty’s Perch, and said, ‘Show me what you do here all day long,
+dear Pa. Do you write like this?’ laying her round cheek upon her plump
+left arm, and losing sight of her pen in waves of hair, in a highly
+unbusiness-like manner. Though John Rokesmith seemed to like it.
 
-‘And don’t,’ said Fledgeby, ‘don’t, I entreat you as a favour, Mr Riah,
-be so devilish meek, for I know what’ll follow if you are. Look here, Mr
-Riah. This gentleman is Mr Twemlow.’
+So, the three hobgoblins, having effaced all traces of their feast, and
+swept up the crumbs, came out of Mincing Lane to walk to Holloway; and
+if two of the hobgoblins didn’t wish the distance twice as long as it
+was, the third hobgoblin was much mistaken. Indeed, that modest spirit
+deemed himself so much in the way of their deep enjoyment of the
+[[Journey|journey]], that he apologetically remarked: ‘I think, my dears, I’ll take
+the lead on the other side of the [[Road|road]], and seem not to belong to you.’
+Which he did, cherubically strewing the path with smiles, in the absence
+of [[Flowers|flowers]].
 
-The Jew turned to him and bowed. That poor [[Lamb|lamb]] bowed in return; polite,
-and terrified.
+It was almost ten o’[[Clock|clock]] when they stopped within view of Wilfer
+[[Castle]]; and then, the spot being quiet and deserted, Bella began a
+series of disappearances which threatened to last all [[Night|night]].
 
-‘I have made such a failure,’ proceeded Fledgeby, ‘in trying to do
-anything with you for my friend Lammle, that I’ve hardly a [[Hope|hope]] of doing
-anything with you for my friend (and connexion indeed) Mr Twemlow. But
-I do think that if you would do a favour for anybody, you would for me,
-and I won’t fail for want of trying, and I’ve passed my promise to Mr
-Twemlow besides. Now, Mr Riah, here is Mr Twemlow. Always good for his
-interest, always coming up to [[Time|time]], always paying his little way. Now,
-why should you press Mr Twemlow? You can’t have any spite against Mr
-Twemlow! Why not be easy with Mr Twemlow?’
+‘I think, John,’ the cherub hinted at last, ‘that if you can spare me
+the young person distantly related to myself, I’ll take her in.’
+
+‘I can’t spare her,’ answered John, ‘but I must lend her to you.—My
+Darling!’ A word of [[Magic|magic]] which caused Bella instantly to disappear
+again.
+
+‘Now, dearest Pa,’ said Bella, when she became visible, ‘put your hand
+in mine, and we’ll run [[Home|home]] as fast as ever we can run, and get it over.
+Now, Pa. Once!—’

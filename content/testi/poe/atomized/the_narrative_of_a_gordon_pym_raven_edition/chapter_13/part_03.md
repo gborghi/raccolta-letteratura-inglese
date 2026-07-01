@@ -14,6 +14,20 @@ tags:
 </nav>
 
 
+      about the most violent retchings, so that we never again
+
+      attempted it. During the whole day we anxiously sought an
+
+      opportunity of bathing, but to no purpose; for the hulk was now
+
+      entirely besieged on all sides with sharks—no [[Doubt|doubt]] the identical
+
+      monsters who had devoured our poor companion on the evening
+
+      before, and who were in momentary expectation of another similar
+
+      feast. This circumstance occasioned us the most bitter regret and
+
       filled us with the most depressing and [[Melancholy|melancholy]] forebodings. We
 
       had experienced indescribable relief in bathing, and to have this
@@ -181,25 +195,3 @@ tags:
       conceived, and to those who have never been similarly situated
 
       will, no [[Doubt|doubt]], appear unnatural; but it must be remembered that
-
-      our intellects were so entirely disordered by the long course of
-
-      privation and terror to which we had been subjected, that we
-
-      could not justly be considered, at that period, in the light of
-
-      rational beings. In subsequent perils, nearly as great, if not
-
-      greater, I bore up with fortitude against all the evils of my
-
-      situation, and Peters, it will be seen, evinced a stoical
-
-      [[philosophy]] nearly as incredible as his present childlike
-
-      supineness and imbecility—the mental condition made the
-
-      difference.
-
-
-
-      The overturning of the brig, even with the consequent loss of the

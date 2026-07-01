@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 4 (part 2)"
+title: "thursday — Chapter 4 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_04/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_04/part_03">part 03 ›</a></div>
 </nav>
 
+
+"You have evidently not heard of the latest development in our
+police system," replied the other.  "I am not surprised at it.
+We are keeping it rather dark from the educated class,
+because that class contains most of our enemies.
+But you seem to be exactly in the right frame of mind.
+I think you might almost join us."
 
 "Join you in what?" asked Syme.
 

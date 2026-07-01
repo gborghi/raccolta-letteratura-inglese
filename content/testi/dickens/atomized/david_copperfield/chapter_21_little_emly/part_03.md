@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 21: LITTLE EM’LY (part 3)"
+title: "David Copperfield — Chapter 21: LITTLE EM’LY (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_21_little_emly/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_21_little_emly/part_04">part 04 ›</a></div>
 </nav>
 
+
+Very [[Well|well]], I thanked him, as I hoped he had been too.
+
+‘Oh! nothing to grumble at, you know,’ said Mr. Omer. ‘I find my breath
+gets short, but it seldom gets longer as a man gets older. I take it as
+it comes, and make the most of it. That’s the best way, ain’t it?’
 
 Mr. Omer coughed again, in consequence of laughing, and was assisted out
 of his fit by his daughter, who now stood close beside us, dancing her
@@ -132,9 +138,3 @@ while.
 
 ‘Wouldn’t you like to step in,’ said Mr. Omer, ‘and speak to her? Walk
 in and speak to her, sir! Make yourself at [[Home|home]]!’
-
-I was too bashful to do so then--I was afraid of confusing her, and I
-was no less afraid of confusing myself.--but I informed myself of the
-hour at which she left of an evening, in order that our visit might
-be timed accordingly; and taking leave of Mr. Omer, and his pretty
-daughter, and her little children, went away to my dear old Peggotty’s.

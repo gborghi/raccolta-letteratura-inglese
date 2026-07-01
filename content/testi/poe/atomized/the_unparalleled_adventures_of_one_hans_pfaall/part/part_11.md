@@ -1,5 +1,5 @@
 ---
-title: "[[The Unparalleled Adventures of one Hans Pfaall]] (part 11)"
+title: "The Unparalleled Adventures of one Hans Pfaall (part 11)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-unparalleled-adventures-of-one-hans-pfaall-(poe)"
@@ -13,6 +13,52 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/part/part_10">‹ part 10</a><a class="ex-next" href="/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/part/part_12">part 12 ›</a></div>
 </nav>
 
+
+      positively necessary to make use of my condenser. In the
+
+      meantime, looking toward the cat, who was again snugly stowed
+
+      away upon my coat, I discovered to my infinite surprise, that she
+
+      had taken the opportunity of my indisposition to bring into light
+
+      a litter of three little kittens. This was an addition to the
+
+      number of passengers on my part altogether unexpected; but I was
+
+      pleased at the occurrence. It would afford me a chance of
+
+      bringing to a kind of test the [[Truth|truth]] of a surmise, which, more
+
+      than anything else, had influenced me in attempting this
+
+      ascension. I had imagined that the habitual [[Endurance|endurance]] of the
+
+      atmospheric pressure at the surface of the earth was the cause,
+
+      or nearly so, of the [[Pain|pain]] attending animal existence at a
+
+      distance above the surface. Should the kittens be found to suffer
+
+      uneasiness in an equal degree with their mother, I must consider
+
+      my theory in fault, but a failure to do so I should look upon as
+
+      a strong confirmation of my idea.
+
+
+
+      “By eight o’[[Clock|clock]] I had actually attained an elevation of
+
+      seventeen miles above the surface of the earth. Thus it seemed to
+
+      me evident that my rate of ascent was not only on the increase,
+
+      but that the progression would have been apparent in a slight
+
+      degree even had I not discharged the ballast which I did. The
+
+      pains in my head and ears returned, at intervals, with violence,
 
       and I still continued to bleed occasionally at the nose; but,
 
@@ -145,51 +191,3 @@ tags:
       manner placed. That is to say, it (the bag) was drawn over the
 
       whole [[Bottom|bottom]] of the car, up its sides, and so on, along the
-
-      outside of the ropes, to the upper rim or hoop where the net-work
-
-      is attached. Having pulled the bag up in this way, and formed a
-
-      complete enclosure on all sides, and at [[Bottom|bottom]], it was now
-
-      necessary to fasten up its top or mouth, by passing its material
-
-      over the hoop of the net-work—in other words, between the
-
-      net-work and the hoop. But if the net-work were separated from
-
-      the hoop to admit this passage, what was to sustain the car in
-
-      the meantime? Now the net-work was not permanently fastened to
-
-      the hoop, but attached by a series of running loops or nooses. I
-
-      therefore undid only a few of these loops at one [[Time|time]], leaving
-
-      the car suspended by the remainder. Having thus inserted a
-
-      portion of the cloth forming the upper part of the bag, I
-
-      refastened the loops—not to the hoop, for that would have been
-
-      impossible, since the cloth now intervened—but to a series of
-
-      large buttons, affixed to the cloth itself, about three feet
-
-      below the mouth of the bag, the intervals between the buttons
-
-      having been made to correspond to the intervals between the
-
-      loops. This done, a few more of the loops were unfastened from
-
-      the rim, a farther portion of the cloth introduced, and the
-
-      disengaged loops then connected with their proper buttons. In
-
-      this way it was possible to insert the whole upper part of the
-
-      bag between the net-work and the hoop. It is evident that the
-
-      hoop would now drop down within the car, while the whole weight
-
-      of the car itself, with all its contents, would be held up merely

@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 37 (part 1)"
+title: "Villette — Chapter 37 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -119,10 +119,3 @@ you are excellent; we both think so.”
 “You both think you know not what,” said I. “Have the goodness to make
 me as little the subject of your mutual talk and thoughts as possible.
 I have my sort of life apart from yours.”
-
-“But ours, Lucy, is a beautiful life, or it will be; and you shall
-share it.”
-
-“I shall share no man’s or woman’s life in this world, as you
-understand sharing. I think I have one friend of my own, but am not
-sure; and till I _am_ sure, I live solitary.”

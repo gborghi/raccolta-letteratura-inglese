@@ -112,13 +112,3 @@ the clear Ohio, never, I trust, to see the Mississippi more, saving in
 troubled [[Dreams|dreams]] and nightmares.  Leaving it for the company of its
 sparkling neighbour, was like the transition from [[Pain|pain]] to ease, or the
 awakening from a horrible vision to cheerful realities.
-
-We arrived at Louisville on the fourth [[Night|night]], and gladly availed
-ourselves of its excellent hotel.  Next day we went on in the Ben
-Franklin, a beautiful mail steamboat, and reached Cincinnati shortly
-after midnight.  Being by this [[Time|time]] nearly tired of sleeping upon
-shelves, we had remained awake to go ashore straightway; and groping a
-passage across the dark decks of other boats, and among labyrinths of
-engine-machinery and leaking casks of molasses, we reached the streets,
-knocked up the porter at the hotel where we had stayed before, and were,
-to our great joy, safely housed soon afterwards.

@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 5 (part 2)"
+title: "Jane Eyre — Chapter 5 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_05/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_05/part_03">part 03 ›</a></div>
 </nav>
 
+
+The first was a tall lady with dark hair, dark eyes, and a pale and
+large forehead; her figure was partly enveloped in a shawl, her
+countenance was [[Grave|grave]], her bearing erect.
 
 “The [[Child|child]] is very young to be sent [[Alone|alone]],” said she, putting her
 candle down on the table. She considered me attentively for a minute or
@@ -118,10 +122,3 @@ sounded for the fourth [[Time|time]]: the classes were marshalled and marched
 into another room to breakfast: how glad I was to behold a prospect of
 getting something to eat! I was now nearly sick from inanition, having
 taken so little the day before.
-
-The refectory was a great, low-ceiled, gloomy room; on two long tables
-smoked basins of something hot, which, however, to my dismay, sent
-forth an odour far from inviting. I saw a universal manifestation of
-discontent when the fumes of the repast met the nostrils of those
-destined to [[Swallow|swallow]] it; from the van of the procession, the tall girls
-of the first class, [[Rose|rose]] the whispered words—

@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 15 (part 1)"
+title: "Our Mutual Friend — Chapter 16 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,141 +10,126 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_19/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_20/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_19/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_20/part_02">part 02 ›</a></div>
 </nav>
 
 
-Chapter 15
+Chapter 16
 
-TWO NEW SERVANTS
+MINDERS AND RE-MINDERS
 
 
-Mr and Mrs Boffin sat after breakfast, in the Bower, a prey to
-prosperity. Mr Boffin’s face denoted Care and Complication. Many
-disordered papers were before him, and he looked at them about as
-hopefully as an [[Innocent|innocent]] civilian might look at a crowd of troops whom
-he was required at five minutes’ notice to manoeuvre and review. He had
-been engaged in some attempts to make notes of these papers; but being
-troubled (as men of his stamp often are) with an exceedingly distrustful
-and corrective thumb, that busy member had so often interposed to
-smear his notes, that they were little more legible than the various
-impressions of itself; which blurred his nose and forehead. It is
-curious to consider, in such a case as Mr Boffin’s, what a cheap article
-ink is, and how far it may be made to go. As a grain of musk will scent
-a drawer for many years, and still lose nothing appreciable of its
-original weight, so a halfpenny-worth of ink would blot Mr Boffin to the
-roots of his hair and the calves of his legs, without inscribing a line
-on the paper before him, or appearing to diminish in the inkstand.
+The Secretary lost no [[Time|time]] in getting to work, and his vigilance
+and method soon set their mark on the Golden Dustman’s affairs. His
+earnestness in determining to understand the length and breadth and
+depth of every piece of work submitted to him by his employer, was as
+special as his despatch in transacting it. He accepted no information
+or explanation at second hand, but made himself the master of everything
+confided to him.
 
-Mr Boffin was in such severe literary difficulties that his eyes were
-prominent and fixed, and his breathing was stertorous, when, to the
-great relief of Mrs Boffin, who observed these symptoms with alarm, the
-yard bell rang.
+One part of the Secretary’s conduct, underlying all the rest, might have
+been mistrusted by a man with a better knowledge of men than the
+Golden Dustman had. The Secretary was as far from being inquisitive
+or intrusive as Secretary could be, but nothing less than a complete
+understanding of the whole of the affairs would content him. It soon
+became apparent (from the knowledge with which he set out) that he must
+have been to the office where the Harmon will was registered, and must
+have read the will. He anticipated Mr Boffin’s consideration whether he
+should be advised with on this or that topic, by showing that he
+already knew of it and understood it. He did this with no attempt at
+concealment, seeming to be satisfied that it was part of his duty to
+have prepared himself at all attainable points for its utmost discharge.
 
-‘Who’s that, I [[Wonder|wonder]]!’ said Mrs Boffin.
+This might—let it be repeated—have awakened some little vague mistrust
+in a man more worldly-wise than the Golden Dustman. On the other hand,
+the Secretary was discerning, discreet, and silent, though as zealous as
+if the affairs had been his own. He showed no [[Love|love]] of patronage or the
+command of money, but distinctly preferred resigning both to Mr
+Boffin. If, in his limited sphere, he sought power, it was the power
+of knowledge; the power derivable from a perfect comprehension of his
+business.
 
-Mr Boffin drew a long breath, laid down his pen, looked at his notes
-as doubting whether he had the pleasure of their acquaintance, and
-appeared, on a second perusal of their countenances, to be confirmed
-in his impression that he had not, when there was announced by the
-hammer-headed young man:
+As on the Secretary’s face there was a nameless cloud, so on his
+manner there was a [[Shadow|shadow]] equally indefinable. It was not that he was
+embarrassed, as on that first [[Night|night]] with the Wilfer family; he was
+habitually unembarrassed now, and yet the something remained. It was not
+that his manner was bad, as on that occasion; it was now very good, as
+being modest, gracious, and ready. Yet the something never left it. It
+has been written of men who have undergone a cruel captivity, or who
+have passed through a terrible strait, or who in [[Self|self]]-preservation have
+killed a defenceless fellow-creature, that the record thereof has never
+faded from their countenances until they died. Was there any such record
+here?
 
-‘Mr Rokesmith.’
+He established a temporary office for himself in the new [[house]], and all
+went [[Well|well]] under his hand, with one singular exception. He manifestly
+objected to communicate with Mr Boffin’s solicitor. Two or three times,
+when there was some slight occasion for his doing so, he transferred
+the task to Mr Boffin; and his evasion of it soon became so curiously
+apparent, that Mr Boffin spoke to him on the subject of his reluctance.
 
-‘Oh!’ said Mr Boffin. ‘Oh indeed! Our and the Wilfers’ Mutual Friend, my
-dear. Yes. Ask him to come in.’
+‘It is so,’ the Secretary admitted. ‘I would rather not.’
 
-Mr Rokesmith appeared.
+Had he any personal objection to Mr Lightwood?
 
-‘Sit down, sir,’ said Mr Boffin, shaking hands with him. ‘Mrs Boffin
-you’re already acquainted with. [[Well]], sir, I am rather unprepared to see
-you, for, to tell you the [[Truth|truth]], I’ve been so busy with one thing and
-another, that I’ve not had [[Time|time]] to turn your offer over.’
+‘I don’t know him.’
 
-‘That’s apology for both of us: for Mr Boffin, and for me as [[Well|well]],’ said
-the smiling Mrs Boffin. ‘But Lor! we can talk it over now; can’t us?’
+Had he suffered from law-suits?
 
-Mr Rokesmith bowed, thanked her, and said he hoped so.
+‘Not more than other men,’ was his short answer.
 
-‘Let me see then,’ resumed Mr Boffin, with his hand to his chin. ‘It was
-Secretary that you named; wasn’t it?’
+Was he prejudiced against the race of lawyers?
 
-‘I said Secretary,’ assented Mr Rokesmith.
+‘No. But while I am in your employment, sir, I would rather be excused
+from going between the lawyer and the client. Of course if you press it,
+Mr Boffin, I am ready to comply. But I should take it as a great favour
+if you would not press it without urgent occasion.’
 
-‘It rather puzzled me at the [[Time|time]],’ said Mr Boffin, ‘and it rather
-puzzled me and Mrs Boffin when we spoke of it afterwards, because (not
-to make a mystery of our belief) we have always believed a Secretary to
-be a piece of furniture, mostly of mahogany, lined with green baize or
-leather, with a lot of little drawers in it. Now, you won’t think I take
-a liberty when I mention that you certainly ain’t THAT.’
+Now, it could not be said that there WAS urgent occasion, for Lightwood
+retained no other affairs in his hands than such as still lingered and
+languished about the undiscovered criminal, and such as arose out of the
+purchase of the [[house]]. Many other matters that might have travelled to
+him, now stopped short at the Secretary, under whose administration they
+were far more expeditiously and satisfactorily disposed of than they
+would have been if they had got into Young Blight’s domain. This the
+Golden Dustman quite understood. Even the matter immediately in hand
+was of very little moment as requiring personal appearance on the
+Secretary’s part, for it amounted to no more than this:—The [[Death|death]] of
+Hexam rendering the sweat of the honest man’s brow unprofitable, the
+honest man had shufflingly declined to moisten his brow for nothing,
+with that severe exertion which is known in legal circles as swearing
+your way through a stone wall. Consequently, that new light had gone
+sputtering out. But, the airing of the old facts had led some one
+concerned to suggest that it would be [[Well|well]] before they were reconsigned
+to their gloomy shelf—now probably for ever—to induce or compel that
+Mr Julius Handford to reappear and be questioned. And all traces of Mr
+Julius Handford being lost, Lightwood now referred to his client for
+authority to seek him through public advertisement.
 
-Certainly not, said Mr Rokesmith. But he had used the word in the sense
-of Steward.
+‘Does your objection go to writing to Lightwood, Rokesmith?’
 
-‘Why, as to Steward, you see,’ returned Mr Boffin, with his hand still
-to his chin, ‘the odds are that Mrs Boffin and me may never go upon the
-[[Water|water]]. Being both bad sailors, we should want a Steward if we did; but
-there’s generally one provided.’
+‘Not in the least, sir.’
 
-Mr Rokesmith again explained; defining the duties he sought to
-undertake, as those of general superintendent, or manager, or
-overlooker, or man of business.
+‘Then perhaps you’ll write him a line, and say he is free to do what he
+likes. I don’t think it promises.’
 
-‘Now, for instance—come!’ said Mr Boffin, in his pouncing way. ‘If you
-entered my employment, what would you do?’
+‘I don’t think it promises,’ said the Secretary.
 
-‘I would keep exact accounts of all the expenditure you sanctioned,
-Mr Boffin. I would write your letters, under your direction. I would
-transact your business with people in your pay or employment. I would,’
-with a glance and a half-smile at the table, ‘arrange your papers—’
+‘Still, he may do what he likes.’
 
-Mr Boffin rubbed his inky ear, and looked at his wife.
+‘I will write immediately. Let me thank you for so considerately
+yielding to my disinclination. It may seem less unreasonable, if I avow
+to you that although I don’t know Mr Lightwood, I have a disagreeable
+association connected with him. It is not his fault; he is not at all to
+blame for it, and does not even know my name.’
 
-‘—And so arrange them as to have them always in order for immediate
-reference, with a note of the contents of each outside it.’
-
-‘I tell you what,’ said Mr Boffin, slowly crumpling his own blotted note
-in his hand; ‘if you’ll turn to at these present papers, and see what
-you can make of ’em, I shall know better what I can make of you.’
-
-No sooner said than done. Relinquishing his hat and gloves, Mr Rokesmith
-sat down quietly at the table, arranged the open papers into an orderly
-heap, cast his eyes over each in succession, folded it, docketed it on
-the outside, laid it in a second heap, and, when that second heap was
-complete and the first gone, took from his pocket a piece of string and
-tied it together with a remarkably dexterous hand at a running curve and
-a loop.
-
-‘Good!’ said Mr Boffin. ‘Very good! Now let us hear what they’re all
-about; will you be so good?’
-
-John Rokesmith read his abstracts aloud. They were all about the new
-[[house]]. Decorator’s estimate, so much. Furniture estimate, so much.
-Estimate for furniture of offices, so much. Coach-maker’s estimate, so
-much. [[Horse]]-dealer’s estimate, so much. Harness-maker’s estimate, so
-much. Goldsmith’s estimate, so much. Total, so very much. Then came
-correspondence. Acceptance of Mr Boffin’s offer of such a date, and to
-such an effect. Rejection of Mr Boffin’s proposal of such a date and to
-such an effect. Concerning Mr Boffin’s scheme of such another date to
-such another effect. All compact and methodical.
-
-‘Apple-pie order!’ said Mr Boffin, after checking off each [[Inscription|inscription]]
-with his hand, like a man beating [[Time|time]]. ‘And whatever you do with your
-ink, I can’t think, for you’re as clean as a whistle after it. Now, as
-to a letter. Let’s,’ said Mr Boffin, rubbing his hands in his pleasantly
-childish admiration, ‘let’s try a letter next.’
-
-‘To whom shall it be addressed, Mr Boffin?’
-
-‘Anyone. Yourself.’
-
-Mr Rokesmith quickly wrote, and then read aloud:
-
-‘“Mr Boffin presents his compliments to Mr John Rokesmith, and begs
-to say that he has decided on giving Mr John Rokesmith a trial in the
-capacity he desires to fill. Mr Boffin takes Mr John Rokesmith at his
-word, in postponing to some indefinite period, the consideration of
-salary. It is quite understood that Mr Boffin is in no way committed
-on that point. Mr Boffin has merely to add, that he relies on Mr John
-Rokesmith’s assurance that he will be faithful and serviceable. Mr John
-Rokesmith will please enter on his duties immediately.”’
+Mr Boffin dismissed the matter with a nod or two. The letter was
+written, and next day Mr Julius Handford was advertised for. He was
+requested to place himself in communication with Mr Mortimer Lightwood,
+as a possible means of furthering the ends of justice, and a reward was
+offered to any one acquainted with his whereabout who would communicate
+the same to the said Mr Mortimer Lightwood at his office in the Temple.
+Every day for six weeks this advertisement appeared at the head of all
+the newspapers, and every day for six weeks the Secretary, when he
+saw it, said to himself; in the tone in which he had said to his
+employer,—‘I don’t think it promises!’

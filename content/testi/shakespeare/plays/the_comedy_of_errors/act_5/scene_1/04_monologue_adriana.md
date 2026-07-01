@@ -1,5 +1,5 @@
 ---
-title: "The [[Comedy]] of Errors — Act V, Scene 1 — monologue ([[Adriana|ADRIANA]]) [4]"
+title: "The Comedy of Errors — Act V, Scene 1 — monologue (ADRIANA) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-comedy-of-errors-(shakespeare)"

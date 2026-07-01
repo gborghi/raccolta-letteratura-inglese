@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 17 (part 3)"
+title: "Jane Eyre — Chapter 17 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,25 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_17/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_17/part_04">part 04 ›</a></div>
 </nav>
 
+
+And issuing from my asylum with precaution, I sought a back-stairs
+which conducted directly to the kitchen. All in that region was [[Fire|fire]]
+and commotion; the soup and fish were in the last stage of projection,
+and the cook hung over her crucibles in a frame of mind and [[Body|body]]
+threatening spontaneous combustion. In the servants’ hall two coachmen
+and three gentlemen’s gentlemen stood or sat round the [[Fire|fire]]; the
+abigails, I suppose, were upstairs with their mistresses; the new
+servants, that had been hired from Millcote, were bustling about
+everywhere. Threading this chaos, I at last reached the larder; there I
+took possession of a cold chicken, a roll of bread, some tarts, a plate
+or two and a knife and fork: with this booty I made a hasty retreat. I
+had regained the gallery, and was just shutting the back-door behind
+me, when an accelerated hum warned me that the ladies were about to
+issue from their chambers. I could not proceed to the schoolroom
+without passing some of their doors, and running the risk of being
+surprised with my cargo of victualage; so I stood still at this end,
+which, being windowless, was dark: quite dark now, for the sun was set
+and twilight gathering.
 
 Presently the chambers gave up their fair tenants one after another:
 each came out gaily and airily, with dress that gleamed lustrous
@@ -106,28 +125,3 @@ the drawing-room while it is empty, before the ladies leave the
 dinner-table; choose your seat in any quiet nook you like; you need not
 stay long after the gentlemen come in, unless you please: just let Mr.
 Rochester see you are there and then slip away—nobody will notice you.”
-
-“Will these people remain long, do you think?”
-
-“Perhaps two or three weeks, certainly not more. After the Easter
-recess, Sir George Lynn, who was lately elected member for Millcote,
-will have to go up to town and take his seat; I daresay Mr. Rochester
-will accompany him: it surprises me that he has already made so
-protracted a stay at Thornfield.”
-
-It was with some trepidation that I perceived the hour approach when I
-was to repair with my charge to the drawing-room. Adèle had been in a
-state of ecstasy all day, after hearing she was to be presented to the
-ladies in the evening; and it was not till Sophie commenced the
-operation of dressing her that she sobered down. Then the importance of
-the process quickly steadied her, and by the [[Time|time]] she had her curls
-arranged in [[Well|well]]-smoothed, drooping clusters, her pink satin frock put
-on, her long sash tied, and her lace mittens adjusted, she looked as
-[[Grave|grave]] as any judge. No need to warn her not to disarrange her attire:
-when she was dressed, she sat demurely down in her little chair, taking
-care previously to lift up the satin skirt for [[Fear|fear]] she should crease
-it, and assured me she would not stir thence till I was ready. This I
-quickly was: my best dress (the silver-grey one, purchased for Miss
-Temple’s wedding, and never worn since) was soon put on; my hair was
-soon smoothed; my sole ornament, the pearl brooch, soon assumed. We
-descended.

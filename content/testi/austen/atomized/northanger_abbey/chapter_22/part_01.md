@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 21 (part 1)"
+title: "Northanger Abbey — Chapter 21 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -201,5 +201,3 @@ herself, till they were happily seated at the dinner-table, when the
 General’s complacent smiles, and a good appetite of her own, restored
 
 her to peace. The dining-parlour was a noble room, suitable in its
-
-dimensions to a much larger drawing-room than the one in common use,

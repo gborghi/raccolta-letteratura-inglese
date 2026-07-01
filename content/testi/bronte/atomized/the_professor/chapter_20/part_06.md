@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 19 (part 6)"
+title: "The Professor — Chapter 19 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -14,6 +14,40 @@ tags:
 </nav>
 
 
+mine, which was just then lingering on the hearth; I knew she read at
+
+once the sort of inward ruth and pitying [[Pain|pain]] which the chill vacancy of
+
+that hearth stirred in my [[Soul|soul]]: quick to penetrate, quick to determine,
+
+and quicker to put in practice, she had in a moment tied a holland apron
+
+round her waist; then she disappeared, and reappeared with a basket;
+
+it had a cover; she opened it, and produced wood and coal; deftly and
+
+compactly she arranged them in the grate.
+
+“It is her whole stock, and she will exhaust it out of hospitality,”
+
+ thought I.
+
+“What are you going to do?” I asked: “not surely to light a [[Fire|fire]] this
+
+hot evening? I shall be smothered.”
+
+“Indeed, monsieur, I feel it very chilly since the rain began; besides,
+
+I must boil the [[Water|water]] for my tea, for I take tea on Sundays; you will be
+
+obliged to try and bear the heat.”
+
+She had struck a light; the wood was already in a blaze; and truly, when
+
+contrasted with the darkness, the wild tumult of the tempest without,
+
+that peaceful glow which began to beam on the now animated hearth,
+
 seemed very cheering. A low, purring sound, from some quarter, announced
 
 that another being, besides myself, was pleased with the change; a
@@ -25,8 +59,6 @@ foot-stool, came and rubbed its head against Frances’ gown as she knelt;
 she caressed it, saying it had been a favourite with her “pauvre tante
 
 Julienne.”
-
-
 
 The [[Fire|fire]] being lit, the hearth swept, and a small kettle of a very
 
@@ -52,15 +84,9 @@ preparations, she chanced to look up, and, reading curiosity in my eyes,
 
 she smiled and asked--
 
-
-
 “Is this like England, monsieur?”
 
-
-
 “Like the England of a hundred years ago,” I replied.
-
-
 
 “Is it truly? [[Well]], everything on this tray is at least a hundred
 
@@ -74,8 +100,6 @@ to me; and, ever since I was a little girl, I have thought I should like
 
 to carry them back to England, whence they came.”
 
-
-
 She put some pistolets on the table; she made the tea, as foreigners do
 
 make tea--i.e., at the rate of a teaspoonful to half-a-dozen cups;
@@ -84,11 +108,7 @@ she placed me a chair, and, as I took it, she asked, with a sort of
 
 exaltation--
 
-
-
 “Will it make you think yourself at [[Home|home]] for a moment?”
-
-
 
 “If I had a [[Home|home]] in England, I believe it would recall it,” I
 
@@ -98,11 +118,7 @@ fair-complexioned English-looking girl presiding at the English meal,
 
 and speaking in the English language.
 
-
-
 “You have then no [[Home|home]]?” was her remark.
-
-
 
 “None, nor ever have had. If ever I possess a [[Home|home]], it must be of my own
 
@@ -118,15 +134,11 @@ and in the increased possessions, my roused and eager spirit panted to
 
 include the [[Home|home]] I had never had, the wife I inwardly vowed to win.
 
-
-
 Frances’ tea was little better than hot [[Water|water]], sugar, and milk; and her
 
 pistolets, with which she could not offer me butter, were sweet to my
 
 palate as manna.
-
-
 
 The repast over, and the treasured plate and porcelain being washed and
 
@@ -174,52 +186,10 @@ recollecting the composing effect which an authoritative tone and manner
 
 had ever been wont to produce on her, I said--
 
-
-
 “Get one of your English books, mademoiselle, for the rain yet falls
 
 heavily, and will probably detain me half an hour longer.”
 
-
-
 Released, and set at ease, up she [[Rose|rose]], got her book, and accepted at
 
 once the chair I placed for her at my side. She had selected “Paradise
-
-Lost” from her shelf of classics, thinking, I suppose, the religious
-
-character of the book best adapted it to [[Sunday]]; I told her to begin at
-
-the beginning, and while she read [[Milton]]’s invocation to that heavenly
-
-muse, who on the “secret top of Oreb or Sinai” had taught the Hebrew
-
-shepherd how in the womb of chaos, the conception of a world had
-
-originated and ripened, I enjoyed, undisturbed, the treble pleasure of
-
-having her near me, hearing the sound of her voice--a sound sweet and
-
-satisfying in my ear--and looking, by intervals, at her face: of this
-
-last privilege, I chiefly availed myself when I found fault with an
-
-intonation, a pause, or an emphasis; as long as I dogmatized, I might
-
-also gaze, without exciting too warm a flush.
-
-
-
-“Enough,” said I, when she had gone through some half dozen pages (a
-
-work of [[Time|time]] with her, for she read slowly and paused often to ask and
-
-receive information)--“enough; and now the rain is ceasing, and I must
-
-soon go.” For indeed, at that moment, looking towards the [[Window|window]], I
-
-saw it all blue; the thunder-clouds were broken and scattered, and the
-
-setting August sun sent a gleam like the reflection of rubies through
-
-the lattice. I got up; I drew on my gloves.

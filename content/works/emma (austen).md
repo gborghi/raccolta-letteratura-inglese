@@ -106,8 +106,8 @@ tags:
 - [Chapter 53](/testi/austen/atomized/emma/chapter_53)
 - [Chapter 54](/testi/austen/atomized/emma/chapter_54)
 - [Chapter 55](/testi/austen/atomized/emma/chapter_55)
-- [Chapter 56](/testi/austen/atomized/emma/chapter_56)
-- [Chapter 57](/testi/austen/atomized/emma/chapter_57)
+- Chapter 56
+- Chapter 57
 
 
 ## Testo integrale / Full text

@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-uses-of-diversity-(chesterton)">The Uses of Diversity</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_uses_of_diversity/story_34_on_historical_novels">‹ Story 34 On Historical Novels</a><a class="ex-next" href="/testi/chesterton/atomized/the_uses_of_diversity/story_22_questions_of_divorce/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_uses_of_diversity/story_34_on_historical_novels">‹ Story 34 On Historical Novels</a><a class="ex-next" href="/testi/chesterton/atomized/the_uses_of_diversity/story_22_questions_of_divorce_divorce/part_01">part 01 ›</a></div>
 </nav>
 
 

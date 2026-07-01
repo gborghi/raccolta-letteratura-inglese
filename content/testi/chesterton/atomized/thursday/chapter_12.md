@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 12"
+title: "thursday — Chapter 12"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/thursday-(chesterton)"
@@ -17,7 +17,6 @@ tags:
                          CHAPTER XII
 
                     THE EARTH IN ANARCHY
-
 
 URGING the horses to a gallop, without respect to the rather rugged
 descent of the [[Road|road]], the horsemen soon regained their advantage over

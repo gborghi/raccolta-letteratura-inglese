@@ -1,5 +1,5 @@
 ---
-title: "[[divorce]] — Chapter 7 (part 3)"
+title: "divorce — Chapter 7 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/divorce-(chesterton)"
@@ -13,6 +13,59 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/divorce/chapter_07/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/divorce/chapter_08/part_01">part 01 ›</a></div>
 </nav>
 
+
+The next limitation to be laid down in the matter affects certain
+practical forms of discomforts on a level rather lower than [[Love|love]]
+or hatred.  The cases most commonly quoted concern what is called "drink"
+and what is called "cruelty." They are always talked about as matters
+of fact; though in practice they are very decidedly matters of opinion.
+It is not a flippancy, but a fact, that the misfortune of
+the woman who has married a drunkard may have to be balanced
+against the misfortune of the man who has married a teetotaler.
+For the very definition of drunkenness may depend on the dogma
+of teetotalism.  Drunkenness, it has been very truly observed,
+"may mean anything from delirium tremens to having a stronger
+head than the official appointed to conduct the examination."
+Mr Bernard [[Shaw]] once professed, apparently seriously, that any man
+drinking wine or beer at all was incapacitated from managing a motorcar;
+and still more, therefore, one would suppose, from managing a wife.
+The scales are weighted here, of course, with all those false weights
+of snobbishness which are the curse of justice in this country.
+The working class is forced to conduct almost in public a normal
+and varying festive habit, which the upper class can afford to conduct
+in private; and a certain section of the middle class, that which
+happens to concern itself most with local politics and social reforms,
+really has or affects a standard quite abnormal and even alien.
+They might go any lengths of injustice in dealing with the working
+man or working woman accused of too hearty a taste in beer.
+To mention but one matter out of a thousand, the middle class reformers
+are obviously quite ignorant of the hours at which working people begin
+to work.  Because they themselves, at eleven o'[[Clock|clock]] in the morning,
+have only recently finished breakfast and the full moral digestion
+of the Daily Mail, they think a char-woman drinking beer at that hour is
+one of those arising early in the morning to follow after strong drink.
+Most of them really do not know that she has already done more than half
+a heavy day's work, and is partaking of a very reasonable luncheon.
+The whole problem of proletarian drink is entangled in a network
+of these misunderstandings; and there is no [[Doubt|doubt]] whatever that,
+when judged by these generalisations, the poor will be taken
+in a net of injustices.  And this [[Truth|truth]] is as certain in
+the case of what is called cruelty as of what is called drink.
+Nine times out of ten the judgment on a navvy for hitting a woman
+is about as just as a judgment on him for not taking off his hat
+to a lady.  It is a class test; it may be a class superiority;
+but it is not an act of equal justice between the classes.
+It [[Leaves|leaves]] out a thousand things; the provocation, the atmosphere,
+the harassing restrictions of space, the nagging which Dickens
+described as the terrors of "temper in a cart," the absence of certain
+taboos of social training, the tradition of greater roughness even
+in the gestures of affection.  To make all [[Marriage|marriage]] or [[divorce]],
+in the case of such a man, turn upon a blow is like blasting
+the whole life of a gentleman because he has slammed the door.
+Often a poor man cannot slam the door; partly because the model
+villa might fall down; but more because he has nowhere to go to;
+the smoking-room, the billiard room and the peacock music-room
+not being yet attached to his premises.
 
 I say this in passing, to point out that while I do not dream
 of suggesting that there are only happy marriages, there will

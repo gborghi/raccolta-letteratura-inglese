@@ -1,5 +1,5 @@
 ---
-title: "As You Like It — Act II, Scene 7 — monologue ([[Jaques|JAQUES]]) [2]"
+title: "As You Like It — Act II, Scene 7 — monologue (JAQUES) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/as-you-like-it-(shakespeare)"

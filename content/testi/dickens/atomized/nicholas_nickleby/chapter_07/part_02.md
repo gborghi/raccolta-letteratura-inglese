@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 7 (part 2)"
+title: "Nicholas Nickleby — Chapter 7 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_07/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_07/part_03">part 03 ›</a></div>
 </nav>
 
+
+Pending these little endearments, Nicholas had stood, awkwardly enough,
+in the middle of the room: not very [[Well|well]] knowing whether he was expected
+to retire into the passage, or to remain where he was. He was now
+relieved from his perplexity by Mr. Squeers.
+
+‘This is the new young man, my dear,’ said that gentleman.
 
 ‘Oh,’ replied Mrs. Squeers, nodding her head at Nicholas, and eyeing him
 coldly from top to toe.
@@ -143,20 +150,3 @@ fork, after plying it, in [[Silence|silence]], for some [[Time|time]].
 myself on purpose for--’
 
 ‘For what!’ exclaimed Squeers hastily. ‘Not for the--’
-
-‘No, no; not for them,’ rejoined Mrs. Squeers; ‘on purpose for you
-against you came [[Home|home]]. Lor! you didn’t think I could have made such a
-mistake as that.’
-
-‘Upon my word, my dear, I didn’t know what you were going to say,’ said
-Squeers, who had turned pale.
-
-‘You needn’t make yourself uncomfortable,’ remarked his wife, laughing
-heartily. ‘To think that I should be such a noddy! [[Well]]!’
-
-This part of the conversation was rather unintelligible; but popular
-rumour in the neighbourhood asserted that Mr. Squeers, being amiably
-opposed to cruelty to [[Animals|animals]], not unfrequently purchased for boy
-consumption the bodies of horned cattle who had died a natural [[Death|death]];
-possibly he was apprehensive of having unintentionally devoured some
-choice morsel intended for the young gentlemen.

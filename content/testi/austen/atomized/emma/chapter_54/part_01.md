@@ -1,5 +1,5 @@
 ---
-title: "[[Emma]] — Chapter 16 (part 1)"
+title: "Emma — Chapter 18 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/emma-(austen)"
@@ -10,114 +10,128 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/works/emma-(austen)">Emma</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/emma/chapter_53/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/emma/chapter_54/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/emma/chapter_53/part_03">‹ part 03</a><a class="ex-next" href="/testi/austen/atomized/emma/chapter_54/part_02">part 02 ›</a></div>
 </nav>
 
 
-CHAPTER XVI
+CHAPTER XVIII
 
 
-It was a very great relief to [[Emma]] to find Harriet as desirous as
-herself to avoid a meeting. Their intercourse was painful enough by
-letter. How much worse, had they been obliged to meet!
+[[Time]] passed on. A few more to-morrows, and the party from [[London]] would
+be arriving. It was an alarming change; and [[Emma]] was thinking of it one
+morning, as what must bring a great deal to agitate and grieve her,
+when Mr. Knightley came in, and distressing thoughts were put by. After
+the first chat of pleasure he was silent; and then, in a graver tone,
+began with,
 
-Harriet expressed herself very much as might be supposed, without
-reproaches, or apparent sense of ill-usage; and yet [[Emma]] fancied there
-was a something of resentment, a something bordering on it in her
-style, which increased the desirableness of their being separate.—It
-might be only her own consciousness; but it seemed as if an angel only
-could have been quite without resentment under such a stroke.
+“I have something to tell you, [[Emma]]; some news.”
 
-She had no difficulty in procuring [[Isabella]]’s invitation; and she was
-fortunate in having a sufficient reason for asking it, without
-resorting to invention.—There was a tooth amiss. Harriet really wished,
-and had wished some [[Time|time]], to consult a dentist. Mrs. John Knightley was
-delighted to be of use; any thing of ill health was a recommendation to
-her—and though not so fond of a dentist as of a Mr. Wingfield, she was
-quite eager to have Harriet under her care.—When it was thus settled on
-her sister’s side, [[Emma]] proposed it to her friend, and found her very
-persuadable.—Harriet was to go; she was invited for at least a
-fortnight; she was to be conveyed in Mr. Woodhouse’s carriage.—It was
-all arranged, it was all completed, and Harriet was safe in Brunswick
-Square.
+“Good or bad?” said she, quickly, looking up in his face.
 
-Now [[Emma]] could, indeed, enjoy Mr. Knightley’s visits; now she could
-talk, and she could listen with true happiness, unchecked by that sense
-of injustice, of [[Guilt|guilt]], of something most painful, which had haunted
-her when remembering how disappointed a heart was near her, how much
-might at that moment, and at a little distance, be enduring by the
-feelings which she had led astray herself.
+“I do not know which it ought to be called.”
 
-The difference of Harriet at Mrs. Goddard’s, or in [[London]], made perhaps
-an unreasonable difference in [[Emma]]’s sensations; but she could not
-think of her in [[London]] without objects of curiosity and employment,
-which must be averting the past, and carrying her out of herself.
+“Oh! good I am sure.—I see it in your countenance. You are trying not
+to smile.”
 
-She would not allow any other anxiety to succeed directly to the place
-in her mind which Harriet had occupied. There was a communication
-before her, one which _she_ only could be competent to make—the
-confession of her engagement to her father; but she would have nothing
-to do with it at present.—She had resolved to defer the disclosure till
-Mrs. Weston were safe and [[Well|well]]. No additional agitation should be
-thrown at this period among those she loved—and the evil should not act
-on herself by anticipation before the appointed [[Time|time]].—A fortnight, at
-least, of leisure and peace of mind, to [[Crown|crown]] every warmer, but more
-agitating, delight, should be hers.
+“I am afraid,” said he, composing his features, “I am very much afraid,
+my dear [[Emma]], that you will not smile when you hear it.”
 
-She soon resolved, equally as a duty and a pleasure, to employ half an
-hour of this holiday of spirits in calling on Miss Fairfax.—She ought
-to go—and she was [[Longing|longing]] to see her; the resemblance of their present
-situations increasing every other motive of goodwill. It would be a
-_secret_ satisfaction; but the consciousness of a similarity of
-prospect would certainly add to the interest with which she should
-attend to any thing Jane might communicate.
+“Indeed! but why so?—I can hardly imagine that any thing which pleases
+or amuses you, should not please and amuse me too.”
 
-She went—she had driven once unsuccessfully to the door, but had not
-been into the [[house]] since the morning after Box [[Hill]], when poor Jane
-had been in such distress as had filled her with compassion, though all
-the worst of her sufferings had been unsuspected.—The [[Fear|fear]] of being
-still unwelcome, determined her, though assured of their being at [[Home|home]],
-to wait in the passage, and send up her name.—She heard Patty
-announcing it; but no such bustle succeeded as poor [[Miss Bates]] had
-before made so happily intelligible.—No; she heard nothing but the
-instant reply of, “Beg her to walk up;”—and a moment afterwards she was
-met on the stairs by Jane herself, coming eagerly forward, as if no
-other reception of her were felt sufficient.—[[Emma]] had never seen her
-look so [[Well|well]], so lovely, so engaging. There was consciousness,
-animation, and warmth; there was every thing which her countenance or
-manner could ever have wanted.— She came forward with an offered hand;
-and said, in a low, but very feeling tone,
+“There is one subject,” he replied, “I [[Hope|hope]] but one, on which we do not
+think alike.” He paused a moment, again smiling, with his eyes fixed on
+her face. “Does nothing occur to you?—Do not you recollect?—Harriet
+[[smith|Smith]].”
 
-“This is most kind, indeed!—Miss Woodhouse, it is impossible for me to
-express—I [[Hope|hope]] you will believe—Excuse me for being so entirely without
-words.”
+Her cheeks flushed at the name, and she felt afraid of something,
+though she knew not what.
 
-[[Emma]] was gratified, and would soon have shewn no want of words, if the
-sound of Mrs. Elton’s voice from the sitting-room had not checked her,
-and made it expedient to compress all her friendly and all her
-congratulatory sensations into a very, very earnest shake of the hand.
+“Have you heard from her yourself this morning?” cried he. “You have, I
+believe, and know the whole.”
 
-Mrs. Bates and Mrs. Elton were together. [[Miss Bates]] was out, which
-accounted for the previous tranquillity. [[Emma]] could have wished Mrs.
-Elton elsewhere; but she was in a [[Humour|humour]] to have patience with every
-[[Body|body]]; and as Mrs. Elton met her with unusual graciousness, she hoped
-the rencontre would do them no harm.
+“No, I have not; I know nothing; pray tell me.”
 
-She soon believed herself to penetrate Mrs. Elton’s thoughts, and
-understand why she was, like herself, in happy spirits; it was being in
-Miss Fairfax’s confidence, and fancying herself acquainted with what
-was still a secret to other people. [[Emma]] saw symptoms of it immediately
-in the expression of her face; and while paying her own compliments to
-Mrs. Bates, and appearing to attend to the good old lady’s replies, she
-saw her with a sort of anxious parade of mystery fold up a letter which
-she had apparently been reading aloud to Miss Fairfax, and return it
-into the purple and gold reticule by her side, saying, with significant
-nods,
+“You are prepared for the worst, I see—and very bad it is. Harriet
+[[smith|Smith]] marries [[Robert Martin]].”
 
-“We can finish this some other [[Time|time]], you know. You and I shall not want
-opportunities. And, in fact, you have heard all the essential already.
-I only wanted to prove to you that Mrs. S. admits our apology, and is
-not offended. You see how delightfully she writes. Oh! she is a sweet
-creature! You would have doated on her, had you gone.—But not a word
-more. Let us be discreet—quite on our good behaviour.—Hush!—You
-remember those lines—I forget the poem at this moment:
+[[Emma]] gave a start, which did not seem like being prepared—and her eyes,
+in eager gaze, said, “No, this is impossible!” but her lips were
+closed.
+
+“It is so, indeed,” continued Mr. Knightley; “I have it from Robert
+Martin himself. He left me not half an hour ago.”
+
+She was still looking at him with the most speaking amazement.
+
+“You like it, my [[Emma]], as little as I feared.—I wish our opinions were
+the same. But in [[Time|time]] they will. [[Time]], you may be sure, will make one
+or the other of us think differently; and, in the meanwhile, we need
+not talk much on the subject.”
+
+“You mistake me, you quite mistake me,” she replied, exerting herself.
+“It is not that such a circumstance would now make me unhappy, but I
+cannot believe it. It seems an impossibility!—You cannot mean to say,
+that [[Harriet Smith]] has accepted [[Robert Martin]]. You cannot mean that he
+has even proposed to her again—yet. You only mean, that he intends it.”
+
+“I mean that he has done it,” answered Mr. Knightley, with smiling but
+determined decision, “and been accepted.”
+
+“Good God!” she cried.—“[[Well]]!”—Then having recourse to her workbasket,
+in excuse for leaning down her face, and concealing all the exquisite
+feelings of delight and entertainment which she knew she must be
+expressing, she added, “[[Well]], now tell me every thing; make this
+intelligible to me. How, where, when?—Let me know it all. I never was
+more surprized—but it does not make me unhappy, I assure you.—How—how
+has it been possible?”
+
+“It is a very simple story. He went to town on business three days ago,
+and I got him to take charge of some papers which I was wanting to send
+to John.—He delivered these papers to John, at his chambers, and was
+asked by him to join their party the same evening to Astley’s. They
+were going to take the two eldest boys to Astley’s. The party was to be
+our brother and sister, Henry, John—and Miss [[smith|Smith]]. My friend Robert
+could not resist. They called for him in their way; were all extremely
+amused; and my brother asked him to dine with them the next day—which
+he did—and in the course of that visit (as I understand) he found an
+opportunity of speaking to Harriet; and certainly did not speak in
+vain.—She made him, by her acceptance, as happy even as he is
+deserving. He came down by yesterday’s coach, and was with me this
+morning immediately after breakfast, to report his proceedings, first
+on my affairs, and then on his own. This is all that I can relate of
+the how, where, and when. Your friend Harriet will make a much longer
+[[history]] when you see her.—She will give you all the minute particulars,
+which only woman’s language can make interesting.—In our communications
+we deal only in the great.—However, I must say, that [[Robert Martin]]’s
+heart seemed for _him_, and to _me_, very overflowing; and that he did
+mention, without its being much to the purpose, that on quitting their
+box at Astley’s, my brother took charge of Mrs. John Knightley and
+little John, and he followed with Miss [[smith|Smith]] and Henry; and that at one
+[[Time|time]] they were in such a crowd, as to make Miss [[smith|Smith]] rather uneasy.”
+
+He stopped.—[[Emma]] dared not attempt any immediate reply. To speak, she
+was sure would be to betray a most unreasonable degree of happiness.
+She must wait a moment, or he would think her mad. Her [[Silence|silence]]
+disturbed him; and after observing her a little while, he added,
+
+“[[Emma]], my [[Love|love]], you said that this circumstance would not now make you
+unhappy; but I am afraid it gives you more [[Pain|pain]] than you expected. His
+situation is an evil—but you must consider it as what satisfies your
+friend; and I will answer for your thinking better and better of him as
+you know him more. His good sense and good principles would delight
+you.—As far as the man is concerned, you could not wish your friend in
+better hands. His rank in society I would alter if I could, which is
+saying a great deal I assure you, [[Emma]].—You laugh at me about William
+Larkins; but I could quite as ill spare [[Robert Martin]].”
+
+He wanted her to look up and smile; and having now brought herself not
+to smile too broadly—she did—cheerfully answering,
+
+“You need not be at any pains to reconcile me to the match. I think
+Harriet is doing extremely [[Well|well]]. _Her_ connexions may be worse than
+_his_. In respectability of character, there can be no [[Doubt|doubt]] that they
+are. I have been silent from surprize merely, excessive surprize. You
+cannot imagine how suddenly it has come on me! how peculiarly
+unprepared I was!—for I had reason to believe her very lately more
+determined against him, much more, than she was before.”

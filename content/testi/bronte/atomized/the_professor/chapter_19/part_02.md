@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 18 (part 2)"
+title: "The Professor — Chapter 18 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -14,9 +14,11 @@ tags:
 </nav>
 
 
+rebellion to heart; she possessed a source of comfort they could not
+
+drain, a pillar of support they could not overthrow: formerly, when
+
 insulted, she wept; now, she smiled.
-
-
 
 The public reading of one of her devoirs achieved the revelation of her
 
@@ -48,13 +50,9 @@ period. At the close, consolation was suggested; religious [[Faith|faith]] becam
 
 there the speaker, and she spoke [[Well|well]].
 
-
-
 The devoir was powerfully written in language at once chaste and choice,
 
 in a style nerved with vigour and graced with harmony.
-
-
 
 Mdlle. Reuter was quite sufficiently acquainted with English to
 
@@ -76,21 +74,15 @@ countenance, so no more were disdain, envy, annoyance, weariness; if
 
 that inscrutable mien said anything, it was simply this--
 
-
-
 “The matter is too trite to excite an emotion, or call forth an
 
 opinion.”
-
-
 
 As soon as I had done, a hum [[Rose|rose]]; several of the pupils, pressing round
 
 Mdlle. Henri, began to beset her with compliments; the composed voice of
 
 the directress was now heard:--
-
-
 
 “Young ladies, such of you as have cloaks and umbrellas will hasten
 
@@ -100,19 +92,13 @@ little), “the remainder will wait till their respective servants arrive
 
 to fetch them.” And the school dispersed, for it was four o’[[Clock|clock]].
 
-
-
 “Monsieur, a word,” said Mdlle. Reuter, stepping on to the estrade, and
 
 signifying, by a movement of the hand, that she wished me to relinquish,
 
 for an instant, the castor I had clutched.
 
-
-
 “Mademoiselle, I am at your service.”
-
-
 
 “Monsieur, it is of course an excellent plan to encourage effort in
 
@@ -168,15 +154,11 @@ even in celibacy it would be better for her to retain the character and
 
 habits of a respectable decorous female.”
 
-
-
 “Indisputably, mademoiselle,” was my answer. “Your opinion admits of no
 
 [[Doubt|doubt]];” and, fearful of the harangue being renewed, I retreated under
 
 cover of that cordial sentence of assent.
-
-
 
 At the date of a fortnight after the little incident noted above, I find
 
@@ -206,24 +188,4 @@ knew that I should at least get a sensible answer, unaccompanied by
 
 wriggle, titter, or other flourish of folly.
 
-
-
 “Ou donc est Mdlle. Henri?” I said one day as I returned an
-
-exercise-book I had been examining.
-
-
-
-“Elle est partie, monsieur.”
-
-
-
-“Partie? et pour combien de temps? Quand reviendra-t-elle?”
-
-
-
-“Elle est partie pour toujours, monsieur; elle ne reviendra plus.”
-
-
-
-“Ah!” was my involuntary exclamation; then after a pause:--

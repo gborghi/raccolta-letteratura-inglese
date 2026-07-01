@@ -391,7 +391,7 @@ the cloud concealing the sunburst that broods upon the [[Road|road]] to Damascus
 But I am here only confessing the facts or fancies of my first impression;
 and again the fancy that came to me first was not of any such
 alien or awful things.  I did not think of damask or damascene
-or the great Arabian [[City|city]] or even the [[Conversion|conversion]] of St. Paul.
+or the great Arabian [[City|city]] or even the [[conversion]] of St. Paul.
 I thought of my own little [[house]] in Buckinghamshire, and how the edge
 of the country town where it stands is called Aylesbury End,
 merely because it is the corner nearest to Aylesbury.

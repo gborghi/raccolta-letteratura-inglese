@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 1 (part 3)"
+title: "The Tenant of Wildfell Hall — Chapter 1 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -12,6 +12,28 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/the-tenant-of-wildfell-hall-(bronte)">The Tenant of Wildfell Hall</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_01/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_01/part_04">part 04 ›</a></div>
 </nav>
+
+
+interesting.”
+
+
+
+“And so you prefer her faults to other people’s perfections?”
+
+
+
+“Just so—saving my mother’s presence.”
+
+
+
+“Oh, my dear Gilbert, what nonsense you talk!—I know you don’t mean it;
+
+it’s quite out of the question,” said my mother, getting up, and
+
+bustling out of the room, under pretence of household business, in
+
+order to escape the contradiction that was trembling on my tongue.
+
 
 
 After that [[Rose]] favoured me with further particulars respecting Mrs.
@@ -52,7 +74,7 @@ ringlets, a style of coiffure rather unusual in those days, but always
 
 graceful and becoming; her complexion was clear and pale; her eyes I
 
-could not see, for, being bent upon her [[Prayer|prayer]]-book, they were
+could not see, for, being bent upon her [[prayer]]-book, they were
 
 concealed by their drooping lids and long black lashes, but the brows
 
@@ -100,7 +122,7 @@ mind to the service, I glanced round the church to see if any one had
 
 been observing me;—but no,—all, who were not attending to their
 
-[[Prayer|prayer]]-books, were attending to the strange lady,—my good mother and
+[[prayer]]-books, were attending to the strange lady,—my good mother and
 
 sister among the rest, and Mrs. Wilson and her daughter; and even Eliza
 
@@ -108,7 +130,7 @@ Millward was slily glancing from the corners of her eyes towards the
 
 object of general attraction. Then she glanced at me, simpered a
 
-little, and blushed, modestly looked at her [[Prayer|prayer]]-book, and
+little, and blushed, modestly looked at her [[prayer]]-book, and
 
 endeavoured to compose her features.
 
@@ -197,19 +219,3 @@ incased his still powerful limbs in knee-breeches and gaiters,—or black
 silk stockings on state occasions. He was a man of fixed principles,
 
 strong prejudices, and regular habits, intolerant of dissent in any
-
-shape, acting under a firm conviction that _his_ opinions were always
-
-right, and whoever differed from them must be either most deplorably
-
-ignorant, or wilfully blind.
-
-
-
-In [[Childhood|childhood]], I had always been accustomed to regard him with a feeling
-
-of reverential awe—but lately, even now, surmounted, for, though he had
-
-a fatherly kindness for the [[Well|well]]-behaved, he was a strict
-
-disciplinarian, and had often sternly reproved our juvenile failings

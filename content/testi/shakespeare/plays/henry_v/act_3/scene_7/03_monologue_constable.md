@@ -1,5 +1,5 @@
 ---
-title: "[[Henry V]] — Act III, Scene 7 — monologue (CONSTABLE) [3]"
+title: "Henry V — Act III, Scene 7 — monologue (CONSTABLE) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/henry-v-(shakespeare)"

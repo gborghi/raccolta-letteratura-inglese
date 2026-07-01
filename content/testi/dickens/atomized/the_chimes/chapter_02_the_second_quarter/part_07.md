@@ -14,6 +14,43 @@ tags:
 </nav>
 
 
+‘Unnatural and cruel!’ Toby cried.  ‘Unnatural and cruel!  None but
+people who were bad at heart, born bad, who had no business on the earth,
+could do such deeds.  It’s too true, all I’ve heard to-day; too just, too
+full of proof.  We’re Bad!’
+
+The Chimes took up the words so suddenly—burst out so loud, and clear,
+and sonorous—that [[The Bells|the Bells]] seemed to strike him in his chair.
+
+And what was that, they said?
+
+‘Toby Veck, Toby Veck, waiting for you Toby!  Toby Veck, Toby Veck,
+waiting for you Toby!  Come and see us, come and see us, Drag him to us,
+drag him to us, Haunt and hunt him, haunt and hunt him, Break his
+slumbers, break his slumbers!  Toby Veck Toby Veck, door open wide Toby,
+Toby Veck Toby Veck, door open wide Toby—’ then fiercely back to their
+impetuous strain again, and ringing in the very bricks and plaster on the
+walls.
+
+Toby listened.  Fancy, fancy!  His remorse for having run away from them
+that afternoon!  No, no.  Nothing of the kind.  Again, again, and yet a
+dozen times again.  ‘Haunt and hunt him, haunt and hunt him, Drag him to
+us, drag him to us!’  Deafening the whole town!
+
+‘Meg,’ said Trotty softly: tapping at her door.  ‘Do you hear anything?’
+
+‘I hear [[The Bells|the Bells]], father.  Surely they’re very loud to-[[Night|night]].’
+
+‘Is she asleep?’ said Toby, making an excuse for peeping in.
+
+‘So peacefully and happily!  I can’t leave her yet though, father.  Look
+how she holds my hand!’
+
+‘Meg,’ whispered Trotty.  ‘Listen to [[The Bells|the Bells]]!’
+
+She listened, with her face towards him all the [[Time|time]].  But it underwent
+no change.  She didn’t understand them.
+
 Trotty withdrew, resumed his seat by the [[Fire|fire]], and once more listened by
 himself.  He remained here a little [[Time|time]].
 

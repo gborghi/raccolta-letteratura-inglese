@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 10 (part 5)"
+title: "Wuthering Heights — Chapter 10 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -13,6 +13,27 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_10/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_10/part_06">part 06 ›</a></div>
 </nav>
 
+
+“I wouldn’t be you for a kingdom, then!” Catherine declared,
+emphatically: and she seemed to speak sincerely. “Nelly, help me to
+convince her of her [[Madness|madness]]. Tell her what [[Heathcliff]] is: an
+unreclaimed creature, without refinement, without cultivation; an arid
+wilderness of furze and whinstone. I’d as soon put that little canary
+into the park on a [[Winter|winter]]’s day, as recommend you to bestow your heart
+on him! It is deplorable ignorance of his character, [[Child|child]], and nothing
+else, which makes that dream enter your head. Pray, don’t imagine that
+he conceals depths of benevolence and affection beneath a stern
+exterior! He’s not a rough diamond—a pearl-containing oyster of a
+rustic: he’s a fierce, pitiless, wolfish man. I never say to him, ‘Let
+this or that enemy [[Alone|alone]], because it would be ungenerous or cruel to
+harm them;’ I say, ‘Let them [[Alone|alone]], because _I_ should hate them to be
+wronged:’ and he’d crush you like a sparrow’s egg, [[Isabella]], if he
+found you a troublesome charge. I know he couldn’t [[Love|love]] a Linton; and
+yet he’d be quite capable of marrying your fortune and expectations:
+avarice is growing with him a besetting sin. There’s my picture: and
+I’m his friend—so much so, that had he thought seriously to catch you,
+I should, perhaps, have held my tongue, and let you fall into his
+trap.”
 
 Miss Linton regarded her sister-in-law with indignation.
 
@@ -98,23 +119,3 @@ devotion and admiration: and, moreover, I was informed that if I would
 but have the manners to stand aside, my rival, as she will have herself
 to be, would shoot a shaft into your [[Soul|soul]] that would fix you for ever,
 and send my image into eternal oblivion!”
-
-“Catherine!” said [[Isabella]], calling up her dignity, and disdaining to
-struggle from the tight grasp that held her, “I’d thank you to adhere
-to the [[Truth|truth]] and not slander me, even in joke! Mr. [[Heathcliff]], be kind
-enough to bid this friend of yours release me: she forgets that you and
-I are not intimate acquaintances; and what amuses her is painful to me
-beyond expression.”
-
-As the guest answered nothing, but took his seat, and looked thoroughly
-indifferent what sentiments she cherished concerning him, she turned
-and whispered an earnest appeal for liberty to her tormentor.
-
-“By no means!” cried Mrs. Linton in answer. “I won’t be named a dog in
-the manger again. You _shall_ stay: now then! [[Heathcliff]], why don’t you
-evince satisfaction at my pleasant news? [[Isabella]] swears that the [[Love|love]]
-[[Edgar]] has for me is nothing to that she entertains for you. I’m sure
-she made some speech of the kind; did she not, Ellen? And she has
-fasted ever since the day before yesterday’s walk, from sorrow and rage
-that I despatched her out of your society under the idea of its being
-unacceptable.”

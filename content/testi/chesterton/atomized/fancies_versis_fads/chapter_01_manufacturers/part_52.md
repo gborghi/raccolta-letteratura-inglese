@@ -14,6 +14,39 @@ tags:
 </nav>
 
 
+Of such was the [[anti-puritan|anti-Puritan]] party; and the reader may learn
+more about it from the author of "The Glass of Fashion."
+There he may form a general idea of how, but for the Puritans, England
+would have been abandoned to mere ribaldry and licence; blasted by
+the blasphemies of George Herbert; rolled in the mire of the vile
+materialism of Vaughan; tickled to ribald laughter by the cheap
+cynicism and tap-room familiarities of Crashaw and Traherne.
+But the same Cavalier tradition continued into the next age,
+and indeed into the next century; and the critic must extend his
+condemnation to include the brutal buffooneries of Bishop Ken or the gay
+and careless worldliness of Jeremy Collier.  Nay, he must extend it
+to cover the last Tories who kept the tradition of the Jacobites;
+the careless merriment of Dean Swift, the godless dissipation
+of Dr. Johnson.  None of these men were Puritans; all of them
+were strong opponents of political and religious [[Puritanism]].
+The [[Truth|truth]] is that English literature bears a very continuous and
+splendid testimony to the fact that England was not merely Puritan.
+Ben Jonson in "Bartholomew Fair" spoke for most English people,
+and certainly for most English poets.  Anti-[[Puritanism]] was the one
+thing common to Shakespeare and Dryden, to Swift and Jonson,
+to Cobbett and Dickens.  And the historical bias the other way has come,
+not from Puritan superiority, but simply from Puritan [[success]].
+It was the political triumph of the party, in the Revolution and
+the resultant commercial industrialism, that suppressed the testimony
+of the populace and the poets.  Loyalty died away in a few
+popular [[songs]]; the Cromwellians never had any popular [[Song|song]] to die.
+English [[history]] has moved away from English literature.  Our culture,
+like our agriculture, is at once very native and very neglected.
+And as this neglect is regrettable, if only as neglect of literature,
+I will pause in conclusion upon the later period, two generations
+after [[Milton]], when the last of the true Tories drank wine with
+Bolingbroke or tea with Johnson.
+
 The [[Truth|truth]] that is missed about the Tories of this tradition
 is that they were rebels.  They had the virtues of rebels;
 they also had the vices of rebels.  Swift had the fury of a [[Rebel|rebel]];
@@ -86,26 +119,3 @@ of the Christian martyrs about Nero, because of the legal fiction
 that the Imperator was only a military general.  These fictions do not
 prevent imaginative persons from writing books like the "[[Apocalypse]]"
 or books like "Gulliver's Travels."
-
-I will take only one example of what I mean by this purely
-literary misunderstanding:  an example from "Gulliver's Travels" itself.
-The case of the under-valuation of Swift is a particularly subtle one,
-for Swift was really unbalanced as an individual, which has made
-it much easier for critics not to keep the rather delicate balance
-of justice about him.  There is a superficial case for saying
-he was mad, apart from the physical accident of his [[Madness|madness]];
-but the point is that even those who have realized that he was
-sometimes mad with rage have not realized what he was in a rage with.
-And there is a curious illustration of this in the conclusion of the story
-of Gulliver.  Everyone remembers the ugly business about the Yahoos,
-and the still uglier business about the real human beings who reminded
-the returned traveller of Yahoos; how Gulliver shrank at first from
-his friends, and would only gradually consent to sit near his wife.
-And everybody remembers the picturesque but hostile [[Sketch|sketch]] which
-Thackeray gives of the [[Satire|satire]] and the satirist; of Swift as the black
-and evil blasphemer sitting down to write his terrible [[Allegory|allegory]],
-of which the only moral is that all things are, and always must be,
-valueless and vile.  I say that everybody remembers both
-these literary passages; but, indeed, I [[Fear|fear]] that many remember
-the critical who do not really remember the creative passage,
-and that many have read Thackeray who have not read Swift.

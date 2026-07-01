@@ -1,5 +1,5 @@
 ---
-title: "Napoleon of Notting [[Hill]] — Chapter 2 (part 3)"
+title: "Napoleon of Notting Hill — Chapter 2 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/napoleon-of-notting-hill-(chesterton)"
@@ -145,8 +145,3 @@ off a hoarding and... er... cut yourself... and..."
 "To tell you that, Senor," answered the other, with a certain
 sad [[Pride|pride]], "involves merely telling you who I am.  I am Juan
 del Fuego, President of Nicaragua."
-
-The manner with which the President of Nicaragua leant back and drank
-his sherry showed that to him this explanation covered all the facts
-observed and a great deal more.  Barker's brow, however, was still
-a little clouded.

@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 57 (part 4)"
+title: "Bleak House — Chapter 57 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -135,5 +135,3 @@ by, nor yet clocks. Where did she go? I don’t know where she go’d.
 She went one way, and Jenny went another; one went right to Lunnun,
 and t’other went right from it. That’s all about it. Ask this man. He
 heerd it all, and see it all. He knows.”
-
-The other man repeated, “That’s all about it.”

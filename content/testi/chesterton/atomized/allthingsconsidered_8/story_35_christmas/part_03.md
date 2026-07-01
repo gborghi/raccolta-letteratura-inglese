@@ -1,5 +1,5 @@
 ---
-title: "[[AllThingsConsidered-8]] — CHRISTMAS (part 3)"
+title: "AllThingsConsidered-8 — CHRISTMAS (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/allthingsconsidered-8-(chesterton)"
@@ -79,10 +79,6 @@ us what a turkey means.  And if you go and stare at a live turkey
 for an hour or two, you will find by the end of it that the enigma
 has rather increased than diminished.
 
-
-
-
-
 End of Project Gutenberg's All Things Considered, by G. K. Chesterton
 
 *** END OF THIS PROJECT GUTENBERG EBOOK ALL THINGS CONSIDERED ***
@@ -93,7 +89,6 @@ This and all associated files of various formats will be found in:
 
 Produced by Robert Shimmin, jayam and the Online Distributed Proofreading
 Team
-
 
 Updated editions will replace the previous one--the old editions
 will be renamed.
@@ -114,8 +109,6 @@ research.  They may be modified and printed and given away--you may do
 practically ANYTHING with public domain eBooks.  Redistribution is
 subject to the trademark license, especially commercial
 redistribution.
-
-
 
 *** START: FULL LICENSE ***
 

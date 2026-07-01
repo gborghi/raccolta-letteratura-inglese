@@ -1,5 +1,5 @@
 ---
-title: "[[manalive]] — Chapter 5 (part 7)"
+title: "manalive — Chapter 5 (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/manalive-(chesterton)"
@@ -13,6 +13,27 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/manalive/chapter_05/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/manalive/chapter_07/part_01">part 01 ›</a></div>
 </nav>
 
+
+"Get inside! get inside!" cried [[Moon]] hilariously, with the air
+of one shooing a company of cats.  "Come, come, be quick about it!
+Didn't I tell you I wanted to talk to Inglewood?"
+
+How they were all really driven into the [[house]] again it would
+have been difficult afterwards to say.  They had reached the point
+of being exhausted with incongruities, as people at a farce
+are ill with laughing, and the brisk growth of the [[Storm|storm]] among
+the trees seemed like a final gesture of things in general.
+Inglewood lingered behind them, saying with a certain amicable
+exasperation, "I say, do you really want to speak to me?"
+
+"I do," said [[Michael]], "very much."
+
+[[Night]] had come as it generally does, quicker than the twilight had seemed
+to promise.  While the human eye still felt the sky as light gray, a very
+large and lustrous [[Moon|moon]] appearing abruptly above a bulk of roofs and trees,
+proved by contrast that the sky was already a very dark gray indeed.
+A drift of barren [[Leaves|leaves]] across the lawn, a drift of riven clouds across
+the sky, seemed to be lifted on the same strong and yet laborious [[Wind|wind]].
 
 "[[arthur|Arthur]]," said [[Michael]], "I began with an intuition; but now I am sure.
 You and I are going to defend this friend of yours before the blessed [[Court]]

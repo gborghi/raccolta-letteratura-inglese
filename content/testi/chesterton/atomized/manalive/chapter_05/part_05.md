@@ -1,5 +1,5 @@
 ---
-title: "[[manalive]] — Chapter 5 (part 5)"
+title: "manalive — Chapter 5 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/manalive-(chesterton)"
@@ -123,12 +123,3 @@ and Rosamund expostulated, [[Michael]] had ranted and Moses had ragged.
 He had remained like a thing graven; the god of the [[Garden|garden]].
 A sparrow had perched on one of his heavy shoulders; and then,
 after correcting its costume of feathers, had flown away.
-
-"Why," cried [[Michael]], with a shout of laughter, "the [[Court]] of Beacon
-has opened--and shut up again too.  You all know now I am right.
-Your buried common sense has told you what my buried common sense has
-told me.  [[smith|Smith]] might have fired off a hundred cannons instead of a [[Pistol|pistol]],
-and you would still know he was harmless as I know he is harmless.
-Back we all go to the [[house]] and clear a room for discussion.
-For the High [[Court]] of Beacon, which has already arrived at its decision,
-is just about to begin its inquiry."

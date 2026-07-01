@@ -1,5 +1,5 @@
 ---
-title: "The First Part of the Contention (2 [[Henry VI]]) — Act I, Scene 3 — monologue ([[Queen Margaret|QUEEN MARGARET]]) [2]"
+title: "The First Part of the Contention (2 Henry VI) — Act I, Scene 3 — monologue (QUEEN MARGARET) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-first-part-of-the-contention---(2-henry-vi)-(shakespeare)"

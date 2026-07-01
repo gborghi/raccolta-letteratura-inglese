@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 58: ABSENCE (part 1)"
+title: "David Copperfield — Chapter 58: ABSENCE (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -117,8 +117,3 @@ making ready. Other packets had missed me, and I had received none for a
 long [[Time|time]]. Beyond a line or two, to say that I was [[Well|well]], and had arrived
 at such a place, I had not had fortitude or constancy to write a letter
 since I left [[Home|home]].
-
-The packet was in my hand. I opened it, and read the writing of Agnes.
-
-She was happy and useful, was prospering as she had hoped. That was all
-she told me of herself. The rest referred to me.

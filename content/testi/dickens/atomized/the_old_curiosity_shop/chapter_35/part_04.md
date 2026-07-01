@@ -14,6 +14,13 @@ tags:
 </nav>
 
 
+‘And a very little one,’ repeated the lodger.  ‘[[Well]], the place will
+suit me, will it?’
+
+‘Yes,’ said Dick.
+
+‘Sharks, I suppose?’ said the lodger.
+
 Dick nodded assent, and drained his glass.
 
 ‘Let them know my [[Humour|humour]],’ said the single gentleman, rising.  ‘If they

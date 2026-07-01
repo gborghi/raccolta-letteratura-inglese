@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 14"
+title: "Our Mutual Friend — Chapter 17"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,602 +14,511 @@ tags:
 </nav>
 
 
-Chapter 14
-
-MR WEGG PREPARES A GRINDSTONE FOR MR BOFFIN’S NOSE
-
-
-Having assisted at a few more expositions of the lives of Misers, Mr
-[[Venus]] became almost indispensable to the evenings at the Bower. The
-circumstance of having another listener to the wonders unfolded by
-Wegg, or, as it were, another calculator to cast up the guineas found in
-teapots, chimneys, racks and mangers, and other such banks of deposit,
-seemed greatly to heighten Mr Boffin’s enjoyment; while [[Silas Wegg]], for
-his part, though of a jealous temperament which might under ordinary
-circumstances have resented the anatomist’s getting into favour, was
-so very anxious to keep his eye on that gentleman—lest, being too
-much left to himself, he should be tempted to play any tricks with the
-precious document in his keeping—that he never lost an opportunity of
-commending him to Mr Boffin’s notice as a third party whose company was
-much to be desired. Another friendly demonstration towards him Mr Wegg
-now regularly gratified. After each sitting was over, and the patron
-had departed, Mr Wegg invariably saw [[Mr Venus]] [[Home|home]]. To be sure, he as
-invariably requested to be refreshed with a sight of the paper in which
-he was a joint proprietor; but he never failed to remark that it was the
-great pleasure he derived from [[Mr Venus]]’s improving society which had
-insensibly lured him round to Clerkenwell again, and that, finding
-himself once more attracted to the spot by the social powers of Mr V.,
-he would beg leave to go through that little incidental procedure, as a
-matter of form. ‘For [[Well|well]] I know, sir,’ Mr Wegg would add, ‘that a
-man of your delicate mind would wish to be checked off whenever the
-opportunity arises, and it is not for me to baulk your feelings.’
-
-A certain rustiness in [[Mr Venus]], which never became so lubricated by
-the oil of Mr Wegg but that he turned under the screw in a creaking and
-stiff manner, was very noticeable at about this period. While assisting
-at the literary evenings, he even went so far, on two or three
-occasions, as to correct Mr Wegg when he grossly mispronounced a word,
-or made nonsense of a passage; insomuch that Mr Wegg took to surveying
-his course in the day, and to making arrangements for getting round
-rocks at [[Night|night]] instead of running straight upon them. Of the slightest
-anatomical reference he became particularly shy, and, if he saw a bone
-ahead, would go any distance out of his way rather than mention it by
-name.
-
-The adverse destinies ordained that one evening Mr Wegg’s labouring
-bark became beset by polysyllables, and embarrassed among a perfect
-archipelago of hard words. It being necessary to take soundings every
-minute, and to feel the way with the greatest caution, Mr Wegg’s
-attention was fully employed. Advantage was taken of this dilemma by
-[[Mr Venus]], to pass a scrap of paper into Mr Boffin’s hand, and lay his
-finger on his own lip.
-
-When Mr Boffin got [[Home|home]] at [[Night|night]] he found that the paper contained Mr
-[[Venus]]’s card and these words: ‘Should be glad to be honoured with a call
-respecting business of your own, about dusk on an early evening.’
-
-The very next evening saw Mr Boffin peeping in at the preserved frogs
-in [[Mr Venus]]’s shop-[[Window|window]], and saw [[Mr Venus]] espying Mr Boffin with the
-readiness of one on the alert, and beckoning that gentleman into his
-interior. Responding, Mr Boffin was invited to seat himself on the box
-of human miscellanies before the [[Fire|fire]], and did so, looking round the
-place with admiring eyes. The [[Fire|fire]] being low and fitful, and the dusk
-gloomy, the whole stock seemed to be winking and blinking with both
-eyes, as [[Mr Venus]] did. The French gentleman, though he had no eyes, was
-not at all behind-hand, but appeared, as the flame [[Rose|rose]] and fell, to
-open and shut his no eyes, with the regularity of the glass-eyed [[dogs]]
-and ducks and [[Birds|birds]]. The big-headed babies were equally obliging in
-lending their [[Grotesque|grotesque]] aid to the general effect.
-
-‘You see, [[Mr Venus]], I’ve lost no [[Time|time]],’ said Mr Boffin. ‘Here I am.’
-
-‘Here you are, sir,’ assented [[Mr Venus]].
-
-‘I don’t like secrecy,’ pursued Mr Boffin—‘at least, not in a general
-way I don’t—but I dare say you’ll show me good reason for being secret
-so far.’
-
-‘I think I shall, sir,’ returned [[Venus]].
-
-‘Good,’ said Mr Boffin. ‘You don’t expect Wegg, I take it for granted?’
-
-‘No, sir. I expect no one but the present company.’
-
-Mr Boffin glanced about him, as accepting under that inclusive
-denomination the French gentleman and the circle in which he didn’t
-move, and repeated, ‘The present company.’
-
-‘Sir,’ said [[Mr Venus]], ‘before entering upon business, I shall have to
-ask you for your word and [[Honour|honour]] that we are in confidence.’
-
-‘Let’s wait a bit and understand what the expression means,’ answered Mr
-Boffin. ‘In confidence for how long? In confidence for ever and a day?’
-
-‘I take your hint, sir,’ said [[Venus]]; ‘you think you might consider the
-business, when you came to know it, to be of a [[Nature|nature]] incompatible with
-confidence on your part?’
-
-‘I might,’ said Mr Boffin with a cautious look.
-
-‘True, sir. [[Well]], sir,’ observed [[Venus]], after clutching at his dusty
-hair, to brighten his ideas, ‘let us put it another way. I open the
-business with you, relying upon your [[Honour|honour]] not to do anything in it,
-and not to mention me in it, without my knowledge.’
-
-‘That sounds fair,’ said Mr Boffin. ‘I agree to that.’
-
-‘I have your word and [[Honour|honour]], sir?’
-
-‘My good fellow,’ retorted Mr Boffin, ‘you have my word; and how you
-can have that, without my [[Honour|honour]] too, I don’t know. I’ve sorted a lot
-of [[Dust|dust]] in my [[Time|time]], but I never knew the two things go into separate
-heaps.’
-
-This remark seemed rather to abash [[Mr Venus]]. He hesitated, and said,
-‘Very true, sir;’ and again, ‘Very true, sir,’ before resuming the
-thread of his discourse.
-
-‘Mr Boffin, if I confess to you that I fell into a proposal of which you
-were the subject, and of which you oughtn’t to have been the subject,
-you will allow me to mention, and will please take into favourable
-consideration, that I was in a crushed state of mind at the [[Time|time]].’
-
-The Golden Dustman, with his hands folded on the top of his stout
-stick, with his chin resting upon them, and with something leering and
-whimsical in his eyes, gave a nod, and said, ‘Quite so, [[Venus]].’
-
-‘That proposal, sir, was a conspiring breach of your confidence, to
-such an extent, that I ought at once to have made it known to you. But I
-didn’t, Mr Boffin, and I fell into it.’
-
-Without moving eye or finger, Mr Boffin gave another nod, and placidly
-repeated, ‘Quite so, [[Venus]].’
-
-‘Not that I was ever hearty in it, sir,’ the penitent anatomist went
-on, ‘or that I ever viewed myself with anything but reproach for having
-turned out of the paths of science into the paths of—’ he was going
-to say ‘villany,’ but, unwilling to press too hard upon himself,
-substituted with great emphasis—‘Weggery.’
-
-Placid and whimsical of look as ever, Mr Boffin answered:
-
-‘Quite so, [[Venus]].’
-
-‘And now, sir,’ said [[Venus]], ‘having prepared your mind in the rough, I
-will articulate the details.’ With which brief professional exordium, he
-entered on the [[history]] of the friendly move, and truly recounted it. One
-might have thought that it would have extracted some show of surprise or
-anger, or other emotion, from Mr Boffin, but it extracted nothing beyond
-his former comment:
-
-‘Quite so, [[Venus]].’
-
-‘I have astonished you, sir, I believe?’ said [[Mr Venus]], pausing
-dubiously.
-
-Mr Boffin simply answered as aforesaid: ‘Quite so, [[Venus]].’
-
-By this [[Time|time]] the astonishment was all on the other side. It did not,
-however, so continue. For, when [[Venus]] passed to Wegg’s discovery, and
-from that to their having both seen Mr Boffin dig up the Dutch bottle,
-that gentleman changed colour, changed his attitude, became extremely
-restless, and ended (when [[Venus]] ended) by being in a state of manifest
-anxiety, trepidation, and confusion.
-
-‘Now, sir,’ said [[Venus]], finishing off; ‘you best know what was in that
-Dutch bottle, and why you dug it up, and took it away. I don’t pretend
-to know anything more about it than I saw. All I know is this: I am
-proud of my calling after all (though it has been attended by one
-dreadful drawback which has told upon my heart, and almost equally upon
-my [[skeleton]]), and I mean to live by my calling. Putting the same meaning
-into other words, I do not mean to turn a single dishonest penny by this
-affair. As the best amends I can make you for having ever gone into it,
-I make known to you, as a warning, what Wegg has found out. My opinion
-is, that Wegg is not to be silenced at a modest price, and I build that
-opinion on his beginning to dispose of your property the moment he knew
-his power. Whether it’s worth your while to [[Silence|silence]] him at any price,
-you will decide for yourself, and take your measures accordingly. As
-far as I am concerned, I have no price. If I am ever called upon for
-the [[Truth|truth]], I tell it, but I want to do no more than I have now done and
-ended.’
-
-‘Thank’ee, [[Venus]]!’ said Mr Boffin, with a hearty grip of his hand;
-‘thank’ee, [[Venus]], thank’ee, [[Venus]]!’ And then walked up and down the
-little shop in great agitation. ‘But look here, [[Venus]],’ he by-and-by
-resumed, nervously sitting down again; ‘if I have to buy Wegg up, I
-shan’t buy him any cheaper for your being out of it. Instead of his
-having half the money—it was to have been half, I suppose? Share and
-share alike?’
-
-‘It was to have been half, sir,’ answered [[Venus]].
-
-‘Instead of that, he’ll now have all. I shall pay the same, if not more.
-For you tell me he’s an unconscionable dog, a ravenous rascal.’
-
-‘He is,’ said [[Venus]].
-
-‘Don’t you think, [[Venus]],’ insinuated Mr Boffin, after looking at the
-[[Fire|fire]] for a while—‘don’t you feel as if—you might like to pretend to be
-in it till Wegg was bought up, and then ease your mind by handing over
-to me what you had made believe to pocket?’
-
-‘No I don’t, sir,’ returned [[Venus]], very positively.
-
-‘Not to make amends?’ insinuated Mr Boffin.
-
-‘No, sir. It seems to me, after maturely thinking it over, that the best
-amends for having got out of the square is to get back into the square.’
-
-‘Humph!’ mused Mr Boffin. ‘When you say the square, you mean—’
-
-‘I mean,’ said [[Venus]], stoutly and shortly, ‘the right.’
-
-‘It appears to me,’ said Mr Boffin, grumbling over the [[Fire|fire]] in an
-injured manner, ‘that the right is with me, if it’s anywhere. I have
-much more right to the old man’s money than the [[Crown]] can ever have.
-What was the [[Crown]] to him except the [[King]]’s Taxes? Whereas, me and my
-wife, we was all in all to him.’
-
-[[Mr Venus]], with his head upon his hands, rendered [[Melancholy|melancholy]] by the
-contemplation of Mr Boffin’s avarice, only murmured to steep himself
-in the luxury of that frame of mind: ‘She did not wish so to regard
-herself, nor yet to be so regarded.’
-
-‘And how am I to live,’ asked Mr Boffin, piteously, ‘if I’m to be going
-buying fellows up out of the little that I’ve got? And how am I to set
-about it? When am I to get my money ready? When am I to make a bid? You
-haven’t told me when he threatens to drop down upon me.’
-
-[[Venus]] explained under what conditions, and with what views, the dropping
-down upon Mr Boffin was held over until the Mounds should be cleared
-away. Mr Boffin listened attentively. ‘I suppose,’ said he, with a
-gleam of [[Hope|hope]], ‘there’s no [[Doubt|doubt]] about the genuineness and date of this
-confounded will?’
-
-‘None whatever,’ said [[Mr Venus]].
-
-‘Where might it be deposited at present?’ asked Mr Boffin, in a
-wheedling tone.
-
-‘It’s in my possession, sir.’
-
-‘Is it?’ he cried, with great eagerness. ‘Now, for any liberal sum of
-money that could be agreed upon, [[Venus]], would you put it in the [[Fire|fire]]?’
-
-‘No, sir, I wouldn’t,’ interrupted [[Mr Venus]].
-
-‘Nor pass it over to me?’
-
-‘That would be the same thing. No, sir,’ said [[Mr Venus]].
-
-The Golden Dustman seemed about to pursue these questions, when a
-stumping noise was heard outside, coming towards the door. ‘Hush! here’s
-Wegg!’ said [[Venus]]. ‘Get behind the young alligator in the corner, Mr
-Boffin, and judge him for yourself. I won’t light a candle till he’s
-gone; there’ll only be the glow of the [[Fire|fire]]; Wegg’s [[Well|well]] acquainted with
-the alligator, and he won’t take particular notice of him. Draw your
-legs in, Mr Boffin, at present I see a pair of shoes at the end of his
-tail. Get your head [[Well|well]] behind his smile, Mr Boffin, and you’ll lie
-comfortable there; you’ll find plenty of room behind his smile. He’s a
-little dusty, but he’s very like you in tone. Are you right, sir?’
-
-Mr Boffin had but whispered an affirmative response, when Wegg came
-stumping in. ‘Partner,’ said that gentleman in a sprightly manner,
-‘how’s yourself?’
-
-‘Tolerable,’ returned [[Mr Venus]]. ‘Not much to boast of.’
-
-‘In-deed!’ said Wegg: ‘sorry, partner, that you’re not picking up
-faster, but your [[Soul|soul]]’s too large for your [[Body|body]], sir; that’s where
-it is. And how’s our stock in trade, partner? Safe bind, safe find,
-partner? Is that about it?’
-
-‘Do you wish to see it?’ asked [[Venus]].
-
-‘If you please, partner,’ said Wegg, rubbing his hands. ‘I wish to see
-it jintly with yourself. Or, in similar words to some that was set to
-music some [[Time|time]] back:
-
-     “I wish you to see it with your eyes,
-     And I will pledge with mine.”’
-
-Turning his back and turning a key, [[Mr Venus]] produced the document,
-holding on by his usual corner. Mr Wegg, holding on by the opposite
-corner, sat down on the seat so lately vacated by Mr Boffin, and looked
-it over. ‘All right, sir,’ he slowly and unwillingly admitted, in his
-reluctance to loose his hold, ‘all right!’ And greedily watched his
-partner as he turned his back again, and turned his key again.
-
-‘There’s nothing new, I suppose?’ said [[Venus]], resuming his low chair
-behind the counter.
-
-‘Yes there is, sir,’ replied Wegg; ‘there was something new this
-morning. That foxey old grasper and griper—’
-
-‘Mr Boffin?’ inquired [[Venus]], with a glance towards the alligator’s yard
-or two of smile.
-
-‘Mister be blowed!’ cried Wegg, yielding to his honest indignation.
-‘Boffin. Dusty Boffin. That foxey old grunter and grinder, sir, turns
-into the yard this morning, to meddle with our property, a menial tool
-of his own, a young man by the name of Sloppy. Ecod, when I say to him,
-“What do you want here, young man? This is a private yard,” he pulls out
-a paper from Boffin’s other blackguard, the one I was passed over for.
-“This is to authorize Sloppy to overlook the carting and to watch the
-work.” That’s pretty strong, I think, [[Mr Venus]]?’
-
-‘Remember he doesn’t know yet of our claim on the property,’ suggested
-[[Venus]].
-
-‘Then he must have a hint of it,’ said Wegg, ‘and a strong one that’ll
-jog his terrors a bit. Give him an inch, and he’ll take an ell. Let him
-[[Alone|alone]] this [[Time|time]], and what’ll he do with our property next? I tell you
-what, [[Mr Venus]]; it comes to this; I must be overbearing with Boffin, or
-I shall fly into several pieces. I can’t contain myself when I look
-at him. Every [[Time|time]] I see him putting his hand in his pocket, I see him
-putting it into my pocket. Every [[Time|time]] I hear him jingling his money, I
-hear him taking liberties with my money. Flesh and [[Blood|blood]] can’t bear it.
-No,’ said Mr Wegg, greatly exasperated, ‘and I’ll go further. A wooden
-leg can’t bear it!’
-
-‘But, Mr Wegg,’ urged [[Venus]], ‘it was your own idea that he should not be
-exploded upon, till the Mounds were carted away.’
-
-‘But it was likewise my idea, [[Mr Venus]],’ retorted Wegg, ‘that if he came
-sneaking and sniffing about the property, he should be threatened, given
-to understand that he has no right to it, and be made our slave. Wasn’t
-that my idea, [[Mr Venus]]?’
-
-‘It certainly was, Mr Wegg.’
-
-‘It certainly was, as you say, partner,’ assented Wegg, put into
-a better [[Humour|humour]] by the ready admission. ‘Very [[Well|well]]. I consider his
-planting one of his menial tools in the yard, an act of sneaking and
-sniffing. And his nose shall be put to the grindstone for it.’
-
-‘It was not your fault, Mr Wegg, I must admit,’ said [[Venus]], ‘that he got
-off with the Dutch bottle that [[Night|night]].’
-
-‘As you handsomely say again, partner! No, it was not my fault. I’d have
-had that bottle out of him. Was it to be borne that he should come, like
-a thief in the dark, digging among stuff that was far more ours than his
-(seeing that we could deprive him of every grain of it, if he didn’t buy
-us at our own figure), and carrying off treasure from its bowels? No,
-it was not to be borne. And for that, too, his nose shall be put to the
-grindstone.’
-
-‘How do you propose to do it, Mr Wegg?’
-
-‘To put his nose to the grindstone? I propose,’ returned that estimable
-man, ‘to insult him openly. And, if looking into this eye of mine, he
-dares to offer a word in answer, to retort upon him before he can take
-his breath, “Add another word to that, you dusty old dog, and you’re a
-beggar.”’
-
-‘Suppose he says nothing, Mr Wegg?’
-
-‘Then,’ replied Wegg, ‘we shall have come to an understanding with very
-little trouble, and I’ll break him and drive him, [[Mr Venus]]. I’ll put
-him in harness, and I’ll bear him up tight, and I’ll break him and drive
-him. The harder the old [[Dust]] is driven, sir, the higher he’ll pay. And I
-mean to be paid high, [[Mr Venus]], I promise you.’
-
-‘You speak quite revengefully, Mr Wegg.’
-
-‘Revengefully, sir? Is it for him that I have declined and falled,
-[[Night|night]] after [[Night|night]]? Is it for his pleasure that I’ve waited at [[Home|home]] of an
-evening, like a set of skittles, to be set up and knocked over, set up
-and knocked over, by whatever balls—or books—he chose to bring against
-me? Why, I’m a hundred times the man he is, sir; five hundred times!’
-
-Perhaps it was with the malicious intent of urging him on to his worst
-that [[Mr Venus]] looked as if he doubted that.
-
-‘What? Was it outside the [[house]] at present ockypied, to its disgrace,
-by that minion of fortune and worm of the hour,’ said Wegg, falling back
-upon his strongest terms of reprobation, and slapping the counter,
-‘that I, [[Silas Wegg]], five hundred times the man he ever was, sat in all
-weathers, waiting for a errand or a customer? Was it outside that very
-[[house]] as I first set eyes upon him, [[rolling]] in the lap of luxury, when I
-was selling halfpenny ballads there for a living? And am I to grovel in
-the [[Dust|dust]] for HIM to walk over? No!’
-
-There was a grin upon the ghastly countenance of the French gentleman
-under the influence of the firelight, as if he were computing how many
-thousand slanderers and traitors array themselves against the fortunate,
-on premises exactly answering to those of Mr Wegg. One might have
-fancied that the big-headed babies were toppling over with their
-hydrocephalic attempts to reckon up the children of men who transform
-their benefactors into their injurers by the same process. The yard or
-two of smile on the part of the alligator might have been invested with
-the meaning, ‘All about this was quite familiar knowledge down in the
-depths of the slime, ages ago.’
-
-‘But,’ said Wegg, possibly with some slight perception to the foregoing
-effect, ‘your speaking countenance remarks, [[Mr Venus]], that I’m duller
-and savager than usual. Perhaps I HAVE allowed myself to brood too much.
-Begone, dull Care! ’tis gone, sir. I’ve looked in upon you, and empire
-resumes her sway. For, as the [[Song|song]] says—subject to your correction,
-sir—
-
-     “When the heart of a man is depressed with cares,
-     The mist is dispelled if [[Venus]] appears.
-     Like the notes of a fiddle, you sweetly, sir, sweetly,
-     Raises our spirits and charms our ears.”
-
-Good-[[Night|night]], sir.’
-
-‘I shall have a word or two to say to you, Mr Wegg, before long,’
-remarked [[Venus]], ‘respecting my share in the project we’ve been speaking
-of.’
-
-‘My [[Time|time]], sir,’ returned Wegg, ‘is yours. In the meanwhile let it be
-fully understood that I shall not neglect bringing the grindstone to
-bear, nor yet bringing Dusty Boffin’s nose to it. His nose once brought
-to it, shall be held to it by these hands, [[Mr Venus]], till the sparks
-flies out in showers.’
-
-With this agreeable promise Wegg stumped out, and shut the shop-door
-after him. ‘Wait till I light a candle, Mr Boffin,’ said [[Venus]], ‘and
-you’ll come out more comfortable.’ So, he lighting a candle and holding
-it up at arm’s length, Mr Boffin disengaged himself from behind the
-alligator’s smile, with an expression of countenance so very downcast
-that it not only appeared as if the alligator had the whole of the joke
-to himself, but further as if it had been conceived and executed at Mr
-Boffin’s expense.
-
-‘That’s a treacherous fellow,’ said Mr Boffin, dusting his arms and legs
-as he came forth, the alligator having been but musty company. ‘That’s a
-dreadful fellow.’
-
-‘The alligator, sir?’ said [[Venus]].
-
-‘No, [[Venus]], no. The Serpent.’
-
-‘You’ll have the goodness to notice, Mr Boffin,’ remarked [[Venus]], ‘that I
-said nothing to him about my going out of the affair altogether, because
-I didn’t wish to take you anyways by surprise. But I can’t be too soon
-out of it for my satisfaction, Mr Boffin, and I now put it to you when
-it will suit your views for me to retire?’
-
-‘Thank’ee, [[Venus]], thank’ee, [[Venus]]; but I don’t know what to say,’
-returned Mr Boffin, ‘I don’t know what to do. He’ll drop down on me any
-way. He seems fully determined to drop down; don’t he?’
-
-[[Mr Venus]] opined that such was clearly his intention.
-
-‘You might be a sort of protection for me, if you remained in it,’ said
-Mr Boffin; ‘you might stand betwixt him and me, and take the edge off
-him. Don’t you feel as if you could make a show of remaining in it,
-[[Venus]], till I had [[Time|time]] to turn myself round?’
-
-[[Venus]] naturally inquired how long Mr Boffin thought it might take him to
-turn himself round?
-
-‘I am sure I don’t know,’ was the answer, given quite at a loss.
-‘Everything is so at sixes and sevens. If I had never come into the
-property, I shouldn’t have minded. But being in it, it would be very
-trying to be turned out; now, don’t you acknowledge that it would,
-[[Venus]]?’
-
-[[Mr Venus]] preferred, he said, to leave Mr Boffin to arrive at his own
-conclusions on that delicate question.
-
-‘I am sure I don’t know what to do,’ said Mr Boffin. ‘If I ask advice of
-any one else, it’s only letting in another person to be bought out, and
-then I shall be ruined that way, and might as [[Well|well]] have given up the
-property and gone slap to the workhouse. If I was to take advice of my
-young man, Rokesmith, I should have to buy HIM out. Sooner or later, of
-course, he’d drop down upon me, like Wegg. I was brought into the world
-to be dropped down upon, it appears to me.’
-
-[[Mr Venus]] listened to these lamentations in [[Silence|silence]], while Mr Boffin
-jogged to and fro, holding his pockets as if he had a [[Pain|pain]] in them.
-
-‘After all, you haven’t said what you mean to do yourself, [[Venus]]. When
-you do go out of it, how do you mean to go?’
-
-[[Venus]] replied that as Wegg had found the document and handed it to him,
-it was his intention to hand it back to Wegg, with the declaration that
-he himself would have nothing to say to it, or do with it, and that Wegg
-must act as he chose, and take the consequences.
-
-‘And then he drops down with his whole weight upon ME!’ cried Mr Boffin,
-ruefully. ‘I’d sooner be dropped upon by you than by him, or even by you
-jintly, than by him [[Alone|alone]]!’
-
-[[Mr Venus]] could only repeat that it was his fixed intention to betake
-himself to the paths of science, and to walk in the same all the days
-of his life; not dropping down upon his fellow-creatures until they were
-deceased, and then only to articulate them to the best of his humble
-ability.
-
-‘How long could you be persuaded to keep up the appearance of remaining
-in it?’ asked Mr Boffin, retiring on his other idea. ‘Could you be got
-to do so, till the Mounds are gone?’
-
-No. That would protract the mental uneasiness of [[Mr Venus]] too long, he
-said.
-
-‘Not if I was to show you reason now?’ demanded Mr Boffin; ‘not if I was
-to show you good and sufficient reason?’
-
-If by good and sufficient reason Mr Boffin meant honest and
-unimpeachable reason, that might weigh with [[Mr Venus]] against his
-personal wishes and convenience. But he must add that he saw no opening
-to the possibility of such reason being shown him.
-
-‘Come and see me, [[Venus]],’ said Mr Boffin, ‘at my [[house]].’
-
-‘Is the reason there, sir?’ asked [[Mr Venus]], with an incredulous smile
-and blink.
-
-‘It may be, or may not be,’ said Mr Boffin, ‘just as you view it. But
-in the meantime don’t go out of the matter. Look here. Do this. Give me
-your word that you won’t take any steps with Wegg, without my knowledge,
-just as I have given you my word that I won’t without yours.’
-
-‘Done, Mr Boffin!’ said [[Venus]], after brief consideration.
-
-‘Thank’ee, [[Venus]], thank’ee, [[Venus]]! Done!’
-
-‘When shall I come to see you, Mr Boffin.’
-
-‘When you like. The sooner the better. I must be going now. Good-[[Night|night]],
-[[Venus]].’
-
-‘Good-[[Night|night]], sir.’
-
-‘And good-[[Night|night]] to the rest of the present company,’ said Mr Boffin,
-glancing round the shop. ‘They make a queer show, [[Venus]], and I should
-like to be better acquainted with them some day. Good-[[Night|night]], [[Venus]],
-good-[[Night|night]]! Thankee, [[Venus]], thankee, [[Venus]]!’ With that he jogged out
-into the street, and jogged upon his homeward way.
-
-‘Now, I [[Wonder|wonder]],’ he meditated as he went along, nursing his stick,
-‘whether it can be, that [[Venus]] is setting himself to get the better of
-Wegg? Whether it can be, that he means, when I have bought Wegg out, to
-have me all to himself and to pick me clean to the bones!’
-
-It was a cunning and suspicious idea, quite in the way of his school
-of Misers, and he looked very cunning and suspicious as he went jogging
-through the streets. More than once or twice, more than twice or thrice,
-say half a dozen times, he took his stick from the arm on which he
-nursed it, and hit a straight sharp rap at the air with its head.
-Possibly the wooden countenance of Mr [[Silas Wegg]] was incorporeally
-before him at those moments, for he hit with intense satisfaction.
-
-He was within a few streets of his own [[house]], when a little private
-carriage, coming in the contrary direction, passed him, turned round,
-and passed him again. It was a little carriage of eccentric movement,
-for again he heard it stop behind him and turn round, and again he saw
-it pass him. Then it stopped, and then went on, out of sight. But, not
-far out of sight, for, when he came to the corner of his own street,
-there it stood again.
-
-There was a lady’s face at the [[Window|window]] as he came up with this carriage,
-and he was passing it when the lady softly called to him by his name.
-
-‘I beg your pardon, Ma’am?’ said Mr Boffin, coming to a stop.
-
-‘It is Mrs Lammle,’ said the lady.
-
-Mr Boffin went up to the [[Window|window]], and hoped Mrs Lammle was [[Well|well]].
-
-‘Not very [[Well|well]], dear Mr Boffin; I have fluttered myself by
-being—perhaps foolishly—uneasy and anxious. I have been waiting for
-you some [[Time|time]]. Can I speak to you?’
-
-Mr Boffin proposed that Mrs Lammle should drive on to his [[house]], a few
-hundred yards further.
-
-‘I would rather not, Mr Boffin, unless you particularly wish it. I feel
-the difficulty and delicacy of the matter so much that I would rather
-avoid speaking to you at your own [[Home|home]]. You must think this very
-strange?’
-
-Mr Boffin said no, but meant yes.
-
-‘It is because I am so grateful for the good opinion of all my
-friends, and am so touched by it, that I cannot bear to run the risk of
-forfeiting it in any case, even in the cause of duty. I have asked my
-husband (my dear Alfred, Mr Boffin) whether it is the cause of duty,
-and he has most emphatically said Yes. I wish I had asked him sooner. It
-would have spared me much distress.’
-
-(‘Can this be more dropping down upon me!’ thought Mr Boffin, quite
-bewildered.)
-
-‘It was Alfred who sent me to you, Mr Boffin. Alfred said, “Don’t
-come back, Sophronia, until you have seen Mr Boffin, and told him all.
-Whatever he may think of it, he ought certainly to know it.” Would you
-mind coming into the carriage?’
-
-Mr Boffin answered, ‘Not at all,’ and took his seat at Mrs Lammle’s
-side.
-
-‘Drive slowly anywhere,’ Mrs Lammle called to her coachman, ‘and don’t
-let the carriage rattle.’
-
-‘It MUST be more dropping down, I think,’ said Mr Boffin to himself.
-‘What next?’
+Chapter 17
+
+A SOCIAL [[Chorus|CHORUS]]
+
+
+Amazement sits enthroned upon the countenances of Mr and Mrs Alfred
+Lammle’s circle of acquaintance, when the disposal of their first-class
+furniture and effects (including a Billiard Table in capital letters),
+‘by auction, under a bill of sale,’ is publicly announced on a waving
+hearthrug in Sackville Street. But, nobody is half so much amazed as
+Hamilton Veneering, Esquire, M.P. for Pocket-Breaches, who instantly
+begins to find out that the Lammles are the only people ever entered on
+his [[Soul|soul]]’s register, who are NOT the oldest and dearest friends he has
+in the world. Mrs Veneering, W.M.P. for Pocket-Breaches, like a faithful
+wife shares her husband’s discovery and inexpressible astonishment.
+Perhaps the Veneerings twain may deem the last unutterable feeling
+particularly due to their reputation, by reason that once upon a [[Time|time]]
+some of the longer heads in the [[City]] are whispered to have shaken
+themselves, when Veneering’s extensive dealings and great wealth were
+mentioned. But, it is certain that neither Mr nor Mrs Veneering can
+find words to [[Wonder|wonder]] in, and it becomes necessary that they give to the
+oldest and dearest friends they have in the world, a wondering dinner.
+
+For, it is by this [[Time|time]] noticeable that, whatever befals, the Veneerings
+must give a dinner upon it. Lady Tippins lives in a chronic state
+of invitation to dine with the Veneerings, and in a chronic state of
+inflammation arising from the dinners. Boots and Brewer go about in
+cabs, with no other intelligible business on earth than to beat up
+people to come and dine with the Veneerings. Veneering pervades the
+legislative lobbies, intent upon entrapping his fellow-legislators to
+dinner. Mrs Veneering dined with five-and-twenty bran-new faces over
+[[Night|night]]; calls upon them all to day; sends them every one a dinner-card
+to-morrow, for the week after next; before that dinner is digested,
+calls upon their brothers and sisters, their sons and daughters, their
+nephews and nieces, their aunts and uncles and cousins, and invites
+them all to dinner. And still, as at first, howsoever, the dining circle
+widens, it is to be observed that all the diners are consistent in
+appearing to go to the Veneerings, not to dine with Mr and Mrs Veneering
+(which would seem to be the last thing in their minds), but to dine with
+one another.
+
+Perhaps, after all,—who knows?—Veneering may find this dining, though
+expensive, remunerative, in the sense that it makes champions.
+Mr Podsnap, as a representative man, is not [[Alone|alone]] in caring very
+particularly for his own dignity, if not for that of his acquaintances,
+and therefore in angrily supporting the acquaintances who have taken out
+his Permit, lest, in their being lessened, he should be. The gold and
+silver camels, and the ice-pails, and the rest of the Veneering table
+decorations, make a brilliant show, and when I, Podsnap, casually remark
+elsewhere that I dined last Monday with a gorgeous caravan of camels,
+I find it personally offensive to have it hinted to me that they are
+broken-kneed camels, or camels labouring under suspicion of any sort. ‘I
+don’t display camels myself, I am above them: I am a more solid man; but
+these camels have basked in the light of my countenance, and how dare
+you, sir, insinuate to me that I have irradiated any but unimpeachable
+camels?’
+
+The camels are polishing up in the Analytical’s pantry for the dinner
+of wonderment on the occasion of the Lammles going to pieces, and Mr
+Twemlow feels a little queer on the sofa at his lodgings over the stable
+yard in Duke Street, Saint James’s, in consequence of having taken
+two advertised pills at about mid-day, on the [[Faith|faith]] of the printed
+representation accompanying the box (price one and a penny halfpenny,
+[[government]] stamp included), that the same ‘will be found highly salutary
+as a precautionary measure in connection with the pleasures of the
+table.’ To whom, while sickly with the fancy of an insoluble pill
+sticking in his gullet, and also with the sensation of a deposit of warm
+gum languidly wandering within him a little lower down, a servant enters
+with the announcement that a lady wishes to speak with him.
+
+‘A lady!’ says Twemlow, pluming his ruffled feathers. ‘Ask the favour of
+the lady’s name.’
+
+The lady’s name is Lammle. The lady will not detain Mr Twemlow longer
+than a very few minutes. The lady is sure that Mr Twemlow will do her
+the kindness to see her, on being told that she particularly desires
+a short interview. The lady has no [[Doubt|doubt]] whatever of Mr Twemlow’s
+compliance when he hears her name. Has begged the servant to be
+particular not to mistake her name. Would have sent in a card, but has
+none.
+
+‘Show the lady in.’ Lady shown in, comes in.
+
+Mr Twemlow’s little rooms are modestly furnished, in an old-fashioned
+manner (rather like the housekeeper’s room at Snigsworthy Park), and
+would be bare of mere ornament, were it not for a full-length engraving
+of the [[Sublime|sublime]] Snigsworth over the chimneypiece, snorting at a
+Corinthian column, with an enormous roll of paper at his feet, and a
+heavy curtain going to tumble down on his head; those accessories being
+understood to represent the noble lord as somehow in the act of saving
+his country.
+
+‘Pray take a seat, Mrs Lammle.’ Mrs Lammle takes a seat and opens the
+conversation.
+
+‘I have no [[Doubt|doubt]], Mr Twemlow, that you have heard of a reverse of
+fortune having befallen us. Of course you have heard of it, for no kind
+of news travels so fast—among one’s friends especially.’
+
+Mindful of the wondering dinner, Twemlow, with a little twinge, admits
+the imputation.
+
+‘Probably it will not,’ says Mrs Lammle, with a certain hardened manner
+upon her, that makes Twemlow shrink, ‘have surprised you so much as some
+others, after what passed between us at the [[house]] which is now turned
+out at windows. I have taken the liberty of calling upon you, Mr
+Twemlow, to add a sort of postscript to what I said that day.’
+
+Mr Twemlow’s dry and hollow cheeks become more dry and hollow at the
+prospect of some new complication.
+
+‘Really,’ says the uneasy little gentleman, ‘really, Mrs Lammle, I
+should take it as a favour if you could excuse me from any further
+confidence. It has ever been one of the objects of my life—which,
+unfortunately, has not had many objects—to be inoffensive, and to keep
+out of cabals and interferences.’
+
+Mrs Lammle, by far the more observant of the two, scarcely finds it
+necessary to look at Twemlow while he speaks, so easily does she read
+him.
+
+‘My postscript—to retain the term I have used’—says Mrs Lammle, fixing
+her eyes on his face, to enforce what she says herself—‘coincides
+exactly with what you say, Mr Twemlow. So far from troubling you with
+any new confidence, I merely wish to remind you what the old one was. So
+far from asking you for interference, I merely wish to claim your strict
+neutrality.’
+
+Twemlow going on to reply, she rests her eyes again, knowing her ears to
+be quite enough for the contents of so weak a vessel.
+
+‘I can, I suppose,’ says Twemlow, nervously, ‘offer no reasonable
+objection to hearing anything that you do me the [[Honour|honour]] to wish to say
+to me under those heads. But if I may, with all possible delicacy and
+politeness, entreat you not to range beyond them, I—I beg to do so.’
+
+‘Sir,’ says Mrs Lammle, raising her eyes to his face again, and quite
+daunting him with her hardened manner, ‘I imparted to you a certain
+piece of knowledge, to be imparted again, as you thought best, to a
+certain person.’
+
+‘Which I did,’ says Twemlow.
+
+‘And for doing which, I thank you; though, indeed, I scarcely know why
+I turned traitress to my husband in the matter, for the girl is a poor
+little [[Fool|fool]]. I was a poor little [[Fool|fool]] once myself; I can find no better
+reason.’ Seeing the effect she produces on him by her indifferent laugh
+and cold look, she keeps her eyes upon him as she proceeds. ‘Mr Twemlow,
+if you should chance to see my husband, or to see me, or to see both of
+us, in the favour or confidence of any one else—whether of our common
+acquaintance or not, is of no consequence—you have no right to use
+against us the knowledge I intrusted you with, for one special purpose
+which has been accomplished. This is what I came to say. It is not a
+stipulation; to a gentleman it is simply a reminder.’
+
+Twemlow sits murmuring to himself with his hand to his forehead.
+
+‘It is so plain a case,’ Mrs Lammle goes on, ‘as between me (from the
+first relying on your [[Honour|honour]]) and you, that I will not waste another
+word upon it.’ She looks steadily at Mr Twemlow, until, with a shrug,
+he makes her a little one-sided bow, as though saying ‘Yes, I think you
+have a right to rely upon me,’ and then she moistens her lips, and shows
+a sense of relief.
+
+‘I trust I have kept the promise I made through your servant, that I
+would detain you a very few minutes. I need trouble you no longer, Mr
+Twemlow.’
+
+‘Stay!’ says Twemlow, rising as she rises. ‘Pardon me a moment. I should
+never have sought you out, madam, to say what I am going to say, but
+since you have sought me out and are here, I will throw it off my mind.
+Was it quite consistent, in candour, with our taking that resolution
+against Mr Fledgeby, that you should afterwards address Mr Fledgeby as
+your dear and confidential friend, and entreat a favour of Mr Fledgeby?
+Always supposing that you did; I assert no knowledge of my own on the
+subject; it has been represented to me that you did.’
+
+‘Then he told you?’ retorts Mrs Lammle, who again has saved her eyes
+while listening, and uses them with strong effect while speaking.
+
+‘Yes.’
+
+‘It is strange that he should have told you the [[Truth|truth]],’ says Mrs
+Lammle, seriously pondering. ‘Pray where did a circumstance so very
+extraordinary happen?’
+
+Twemlow hesitates. He is shorter than the lady as [[Well|well]] as weaker, and,
+as she stands above him with her hardened manner and her [[Well|well]]-used eyes,
+he finds himself at such a disadvantage that he would like to be of the
+opposite sex.
+
+‘May I ask where it happened, Mr Twemlow? In strict confidence?’
+
+‘I must confess,’ says the mild little gentleman, coming to his answer
+by degrees, ‘that I felt some compunctions when Mr Fledgeby mentioned
+it. I must admit that I could not regard myself in an agreeable light.
+More particularly, as Mr Fledgeby did, with great civility, which I
+could not feel that I deserved from him, render me the same service that
+you had entreated him to render you.’
+
+It is a part of the true nobility of the poor gentleman’s [[Soul|soul]] to say
+this last sentence. ‘Otherwise,’ he has reflected, ‘I shall assume the
+superior position of having no difficulties of my own, while I know of
+hers. Which would be mean, very mean.’
+
+‘Was Mr Fledgeby’s advocacy as effectual in your case as in ours?’ Mrs
+Lammle demands.
+
+‘As ineffectual.’
+
+‘Can you make up your mind to tell me where you saw Mr Fledgeby, Mr
+Twemlow?’
+
+‘I beg your pardon. I fully intended to have done so. The reservation
+was not intentional. I encountered Mr Fledgeby, quite by accident, on
+the spot.—By the expression, on the spot, I mean at Mr Riah’s in Saint
+Mary Axe.’
+
+‘Have you the misfortune to be in Mr Riah’s hands then?’
+
+‘Unfortunately, madam,’ returns Twemlow, ‘the one money obligation to
+which I stand committed, the one debt of my life (but it is a just debt;
+pray observe that I don’t dispute it), has fallen into Mr Riah’s hands.’
+
+‘Mr Twemlow,’ says Mrs Lammle, fixing his eyes with hers: which he would
+prevent her doing if he could, but he can’t; ‘it has fallen into Mr
+Fledgeby’s hands. Mr Riah is his mask. It has fallen into Mr Fledgeby’s
+hands. Let me tell you that, for your guidance. The information may be
+of use to you, if only to prevent your credulity, in judging another
+man’s truthfulness by your own, from being imposed upon.’
+
+‘Impossible!’ cries Twemlow, standing aghast. ‘How do you know it?’
+
+‘I scarcely know how I know it. The whole train of circumstances seemed
+to take [[Fire|fire]] at once, and show it to me.’
+
+‘Oh! Then you have no proof.’
+
+‘It is very strange,’ says Mrs Lammle, coldly and boldly, and with some
+disdain, ‘how like men are to one another in some things, though their
+characters are as different as can be! No two men can have less affinity
+between them, one would say, than Mr Twemlow and my husband. Yet my
+husband replies to me “You have no proof,” and Mr Twemlow replies to me
+with the very same words!’
+
+‘But why, madam?’ Twemlow ventures gently to argue. ‘Consider why
+the very same words? Because they state the fact. Because you HAVE no
+proof.’
+
+‘Men are very wise in their way,’ quoth Mrs Lammle, glancing haughtily
+at the Snigsworth portrait, and shaking out her dress before departing;
+‘but they have wisdom to learn. My husband, who is not over-confiding,
+ingenuous, or inexperienced, sees this plain thing no more than Mr
+Twemlow does—because there is no proof! Yet I believe five women out of
+six, in my place, would see it as clearly as I do. However, I will never
+rest (if only in remembrance of Mr Fledgeby’s having kissed my hand)
+until my husband does see it. And you will do [[Well|well]] for yourself to see
+it from this [[Time|time]] forth, Mr Twemlow, though I CAN give you no proof.’
+
+As she moves towards the door, Mr Twemlow, attending on her, expresses
+his soothing [[Hope|hope]] that the condition of Mr Lammle’s affairs is not
+irretrievable.
+
+‘I don’t know,’ Mrs Lammle answers, stopping, and sketching out the
+pattern of the paper on the wall with the point of her parasol; ‘it
+depends. There may be an opening for him dawning now, or there may be
+none. We shall soon find out. If none, we are bankrupt here, and must go
+abroad, I suppose.’
+
+Mr Twemlow, in his good-natured [[Desire|desire]] to make the best of it, remarks
+that there are pleasant lives abroad.
+
+‘Yes,’ returns Mrs Lammle, still sketching on the wall; ‘but I [[Doubt|doubt]]
+whether billiard-playing, card-playing, and so forth, for the means to
+live under suspicion at a dirty table-d’hote, is one of them.’
+
+It is much for Mr Lammle, Twemlow politely intimates (though greatly
+shocked), to have one always beside him who is attached to him in all
+his fortunes, and whose restraining influence will prevent him from
+courses that would be discreditable and ruinous. As he says it, Mrs
+Lammle [[Leaves|leaves]] off sketching, and looks at him.
+
+‘Restraining influence, Mr Twemlow? We must eat and drink, and dress,
+and have a roof over our heads. Always beside him and attached in all
+his fortunes? Not much to boast of in that; what can a woman at my age
+do? My husband and I deceived one another when we married; we must bear
+the consequences of the [[Deception|deception]]—that is to say, bear one another, and
+bear the burden of scheming together for to-day’s dinner and to-morrow’s
+breakfast—till [[Death|death]] divorces us.’
+
+With those words, she walks out into Duke Street, Saint James’s. Mr
+Twemlow returning to his sofa, lays down his aching head on its slippery
+little horsehair bolster, with a strong internal conviction that a
+painful interview is not the kind of thing to be taken after the dinner
+pills which are so highly salutary in connexion with the pleasures of
+the table.
+
+But, six o’[[Clock|clock]] in the evening finds the worthy little gentleman
+getting better, and also getting himself into his obsolete little silk
+stockings and pumps, for the wondering dinner at the Veneerings. And
+seven o’[[Clock|clock]] in the evening finds him trotting out into Duke Street, to
+trot to the corner and save a sixpence in coach-hire.
+
+Tippins the divine has dined herself into such a condition by this [[Time|time]],
+that a morbid mind might [[Desire|desire]] her, for a blessed change, to sup
+at last, and turn into bed. Such a mind has Mr [[Eugene Wrayburn]], whom
+Twemlow finds contemplating Tippins with the moodiest of visages,
+while that playful creature rallies him on being so long overdue at the
+woolsack. Skittish is Tippins with Mortimer Lightwood too, and has raps
+to give him with her fan for having been best man at the nuptials of
+these deceiving what’s-their-names who have gone to pieces. Though,
+indeed, the fan is generally lively, and taps away at the men in
+all directions, with something of a grisly sound suggestive of the
+clattering of Lady Tippins’s bones.
+
+A new race of intimate friends has sprung up at Veneering’s since he
+went into Parliament for the public good, to whom Mrs Veneering is very
+attentive. These friends, like astronomical distances, are only to be
+spoken of in the very largest figures. Boots says that one of them is a
+Contractor who (it has been calculated) gives employment, directly and
+indirectly, to five hundred thousand men. Brewer says that another of
+them is a Chairman, in such request at so many Boards, so far apart,
+that he never travels less by railway than three thousand miles a week.
+Buffer says that another of them hadn’t a sixpence eighteen months ago,
+and, through the brilliancy of his genius in getting those shares issued
+at eighty-five, and buying them all up with no money and selling them
+at par for cash, has now three hundred and seventy-five thousand
+pounds—Buffer particularly insisting on the odd seventy-five, and
+declining to take a farthing less. With Buffer, Boots, and Brewer, Lady
+Tippins is eminently facetious on the subject of these Fathers of the
+Scrip-Church: surveying them through her eyeglass, and inquiring whether
+Boots and Brewer and Buffer think they will make her fortune if she
+makes [[Love|love]] to them? with other pleasantries of that [[Nature|nature]]. Veneering,
+in his different way, is much occupied with the Fathers too, piously
+retiring with them into the conservatory, from which retreat the word
+‘Committee’ is occasionally heard, and where the Fathers instruct
+Veneering how he must leave the valley of the piano on his left,
+take the level of the mantelpiece, [[Cross|cross]] by an open cutting at the
+candelabra, seize the carrying-traffic at the console, and cut up the
+opposition root and branch at the [[Window|window]] curtains.
+
+Mr and Mrs Podsnap are of the company, and the Fathers descry in Mrs
+Podsnap a fine woman. She is consigned to a Father—Boots’s Father,
+who employs five hundred thousand men—and is brought to anchor on
+Veneering’s left; thus affording opportunity to the sportive Tippins on
+his right (he, as usual, being mere vacant space), to entreat to be told
+something about those loves of Navvies, and whether they really do live
+on raw beefsteaks, and drink porter out of their barrows. But, in spite
+of such little skirmishes it is felt that this was to be a wondering
+dinner, and that the wondering must not be neglected. Accordingly,
+Brewer, as the man who has the greatest reputation to sustain, becomes
+the interpreter of the general instinct.
+
+‘I took,’ says Brewer in a favourable pause, ‘a cab this morning, and I
+rattled off to that Sale.’
+
+Boots (devoured by envy) says, ‘So did I.’
+
+Buffer says, ‘So did I’; but can find nobody to care whether he did or
+not.
+
+‘And what was it like?’ inquires Veneering.
+
+‘I assure you,’ replies Brewer, looking about for anybody else to
+address his answer to, and giving the preference to Lightwood; ‘I assure
+you, the things were going for a [[Song|song]]. Handsome things enough, but
+fetching nothing.’
+
+‘So I heard this afternoon,’ says Lightwood.
+
+Brewer begs to know now, would it be fair to ask a professional man
+how—on—earth—these—people—ever—did—come—TO—such—A—total
+smash? (Brewer’s divisions being for emphasis.)
+
+Lightwood replies that he was consulted certainly, but could give no
+opinion which would pay off the Bill of Sale, and therefore violates no
+confidence in supposing that it came of their living beyond their means.
+
+‘But how,’ says Veneering, ‘CAN people do that!’
+
+Hah! That is felt on all hands to be a shot in the bull’s eye. How CAN
+people do that! The Analytical Chemist going round with champagne, looks
+very much as if HE could give them a pretty good idea how people did
+that, if he had a mind.
+
+‘How,’ says Mrs Veneering, laying down her fork to press her aquiline
+hands together at the tips of the fingers, and addressing the Father who
+travels the three thousand miles per week: ‘how a mother can look at
+her baby, and know that she lives beyond her husband’s means, I cannot
+imagine.’
+
+Eugene suggests that Mrs Lammle, not being a mother, had no baby to look
+at.
+
+‘True,’ says Mrs Veneering, ‘but the principle is the same.’
+
+Boots is clear that the principle is the same. So is Buffer. It is the
+unfortunate destiny of Buffer to damage a cause by espousing it. The
+rest of the company have meekly yielded to the proposition that the
+principle is the same, until Buffer says it is; when instantly a general
+murmur arises that the principle is not the same.
+
+‘But I don’t understand,’ says the Father of the three hundred and
+seventy-five thousand pounds, ‘—if these people spoken of, occupied the
+position of being in society—they were in society?’
+
+Veneering is bound to confess that they dined here, and were even
+married from here.
+
+‘Then I don’t understand,’ pursues the Father, ‘how even their living
+beyond their means could bring them to what has been termed a total
+smash. Because, there is always such a thing as an adjustment of
+affairs, in the case of people of any standing at all.’
+
+Eugene (who would seem to be in a gloomy state of suggestiveness),
+suggests, ‘Suppose you have no means and live beyond them?’
+
+This is too insolvent a state of things for the Father to entertain. It
+is too insolvent a state of things for any one with any [[Self|self]]-respect
+to entertain, and is universally scouted. But, it is so amazing how any
+people can have come to a total smash, that everybody feels bound to
+account for it specially. One of the Fathers says, ‘Gaming table.’
+Another of the Fathers says, ‘Speculated without knowing that
+speculation is a science.’ Boots says ‘Horses.’ Lady Tippins says to her
+fan, ‘Two establishments.’ Mr Podsnap, saying nothing, is referred
+to for his opinion; which he delivers as follows; much flushed and
+extremely angry:
+
+‘Don’t ask me. I [[Desire|desire]] to take no part in the discussion of these
+people’s affairs. I abhor the subject. It is an odious subject, an
+offensive subject, a subject that makes me sick, and I—’ And with his
+favourite right-arm flourish which sweeps away everything and settles it
+for ever, Mr Podsnap sweeps these inconveniently unexplainable wretches
+who have lived beyond their means and gone to total smash, off the face
+of the universe.
+
+Eugene, leaning back in his chair, is observing Mr Podsnap with an
+irreverent face, and may be about to offer a new suggestion, when
+the Analytical is beheld in collision with the Coachman; the Coachman
+manifesting a purpose of coming at the company with a silver salver,
+as though intent upon making a collection for his wife and family; the
+Analytical cutting him off at the sideboard. The superior stateliness,
+if not the superior generalship, of the Analytical prevails over a man
+who is as nothing off the box; and the Coachman, yielding up his salver,
+retires defeated.
+
+Then, the Analytical, perusing a scrap of paper lying on the salver,
+with the air of a literary Censor, adjusts it, takes his [[Time|time]] about
+going to the table with it, and presents it to Mr [[Eugene Wrayburn]].
+Whereupon the pleasant Tippins says aloud, ‘The Lord Chancellor has
+resigned!’
+
+With distracting coolness and slowness—for he knows the curiosity of
+the Charmer to be always devouring—Eugene makes a pretence of getting
+out an eyeglass, polishing it, and reading the paper with difficulty,
+long after he has seen what is written on it. What is written on it in
+wet ink, is:
+
+‘Young Blight.’
+
+‘Waiting?’ says Eugene over his shoulder, in confidence, with the
+Analytical.
+
+‘Waiting,’ returns the Analytical in responsive confidence.
+
+Eugene looks ‘Excuse me,’ towards Mrs Veneering, goes out, and finds
+Young Blight, Mortimer’s clerk, at the hall-door.
+
+‘You told me to bring him, sir, to wherever you was, if he come while
+you was out and I was in,’ says that discreet young gentleman, standing
+on tiptoe to whisper; ‘and I’ve brought him.’
+
+‘Sharp boy. Where is he?’ asks Eugene.
+
+‘He’s in a cab, sir, at the door. I thought it best not to show him, you
+see, if it could be helped; for he’s a-shaking all over, like—Blight’s
+simile is perhaps inspired by the surrounding dishes of sweets—‘like
+Glue Monge.’
+
+‘Sharp boy again,’ returns Eugene. ‘I’ll go to him.’
+
+Goes out straightway, and, leisurely leaning his arms on the open [[Window|window]]
+of a cab in waiting, looks in at Mr Dolls: who has brought his own
+atmosphere with him, and would seem from its odour to have brought it,
+for convenience of carriage, in a rum-cask.
+
+‘Now Dolls, wake up!’
+
+‘Mist Wrayburn? Drection! Fifteen shillings!’
+
+After carefully reading the dingy scrap of paper handed to him, and as
+carefully tucking it into his waistcoat pocket, Eugene tells out the
+money; beginning incautiously by telling the first shilling into Mr
+Dolls’s hand, which instantly jerks it out of [[Window|window]]; and ending by
+telling the fifteen shillings on the seat.
+
+‘Give him a ride back to Charing [[Cross]], sharp boy, and there get rid of
+him.’
+
+Returning to the dining-room, and pausing for an instant behind the
+screen at the door, Eugene overhears, above the hum and clatter, the
+fair Tippins saying: ‘I am dying to ask him what he was called out for!’
+
+‘Are you?’ mutters Eugene, ‘then perhaps if you can’t ask him, you’ll
+die. So I’ll be a benefactor to society, and go. A stroll and a cigar,
+and I can think this over. Think this over.’ Thus, with a thoughtful
+face, he finds his hat and cloak, unseen of the Analytical, and goes his
+way.

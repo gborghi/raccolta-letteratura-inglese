@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 29 (part 3)"
+title: "Bleak House — Chapter 29 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_29/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_29/part_04">part 04 ›</a></div>
 </nav>
 
+
+Young man of the name of Guppy! There have been times, when ladies
+lived in strongholds and had unscrupulous attendants within call,
+when that poor life of yours would NOT have been worth a minute’s
+purchase, with those beautiful eyes looking at you as they look at
+this moment.
 
 My Lady, slowly using her little hand-screen as a fan, asks him again
 what he supposes that his taste for likenesses has to do with her.
@@ -132,15 +138,3 @@ There are diamonds glittering on the hand that holds the screen. My
 Lady trifles with the screen and makes them glitter more, again with
 that expression which in other times might have been so dangerous to
 the young man of the name of Guppy.
-
-“It was supposed, your ladyship, that he left no rag or scrap behind
-him by which he could be possibly identified. But he did. He left a
-bundle of old letters.”
-
-The screen still goes, as before. All this [[Time|time]] her eyes never once
-release him.
-
-“They were taken and secreted. And to-morrow [[Night|night]], your ladyship,
-they will come into my possession.”
-
-“Still I ask you, what is this to me?”

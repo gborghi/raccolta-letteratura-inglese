@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 34 (part 1)"
+title: "Oliver Twist — Chapter 34 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -134,7 +134,3 @@ forgiven yourself! How could I ever have know happiness again!”
 happiness would have been effectually blighted, and that your arrival
 here, a day sooner or a day later, would have been of very, very little
 import.”
-
-“And who can [[Wonder|wonder]] if it be so, mother?” rejoined the young man; “or
-why should I say, _if?_—It is—it is—you know it, mother—you must know
-it!”

@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 27"
+title: "Northanger Abbey — Chapter 27"
 author: "Austen"
 unitType: chapter
 parentWork: "works/northanger-abbey-(austen)"
@@ -62,7 +62,7 @@ My dearest Catherine,
 
     Your kind offices will set all right: he is the only man I ever did
 
-    or could [[Love|love]], and I trust you will convince him of it. The [[spring]]
+    or could [[Love|love]], and I trust you will convince him of it. The [[Spring|spring]]
 
     fashions are partly down; and the hats the most frightful you can
 

@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 6 (part 1)"
+title: "The Tenant of Wildfell Hall — Chapter 6 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -86,7 +86,7 @@ with a smile.
 
 
 
-As for [[arthur|Arthur]], he would shout his welcome from afar, and run to meet me
+As for [[Arthur]], he would shout his welcome from afar, and run to meet me
 
 fifty yards from his mother’s side. If I happened to be on horseback he
 
@@ -205,7 +205,3 @@ conveniently be dismissed.
 One calm, clear afternoon, however, in March, as I was superintending
 
 the [[rolling]] of the meadow-land, and the repairing of a hedge in the
-
-valley, I saw Mrs. Graham down by the brook, with a [[Sketch|sketch]]-book in her
-
-hand, absorbed in the exercise of her favourite art, while [[arthur|Arthur]] was

@@ -1,5 +1,5 @@
 ---
-title: "A Midsummer Nights Dream — Act III, Scene 2 — exchange ([[Hermia|HERMIA]]) [7]"
+title: "A Midsummer Nights Dream — Act III, Scene 2 — exchange (HERMIA) [7]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/a-midsummer-night’s-dream-(shakespeare)"

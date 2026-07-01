@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity]] — The Doom of the Darnaways (part 6)"
+title: "Incredulity — The Doom of the Darnaways (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-(chesterton)"
@@ -25,7 +25,7 @@ afterwards and found the meal more or less normally disposed of;
 but when he brought it he got no more gratitude than a grunt.
 Payne went up once to see how he was getting on, but finding
 the photographer disinclined for conversation came down again.
-[[Father Brown]] had wandered that way in an unobtrusive style to lake
+Father Brown had wandered that way in an unobtrusive style to lake
 Darnaway a letter from the expert to whom the photograph was to be sent.
 But he left the letter on a tray, and whatever he thought of
 that great glasshouse full of daylight and devotion to a hobby,
@@ -34,8 +34,8 @@ to himself and came down.  He had reason to remember very soon
 that he was the last to come down the solitary staircase connecting
 the floors, leaving a lonely man and an empty room behind him.
 The others were standing in the salon that led into the library,
-just under the great black ebony [[Clock|clock]] that looked like
-a [[titanic]] coffin.
+just under the great black ebony clock that looked like
+a titanic coffin.
 
 `How was Darnaway getting on,' asked Payne, a little later,
 `when you last went up?'
@@ -44,7 +44,7 @@ The priest passed a hand over his forehead.  `Don't tell
 me I'm getting psychic,' he said with a sad smile.
 `I believe I'm quite dazzled with daylight up in that room
 and couldn't see things straight.  Honestly, I felt for a flash
-as if there were something [[Uncanny|uncanny]] about Darnaway's figure
+as if there were something uncanny about Darnaway's figure
 standing before that portrait.'
 
 `Oh, that's the lame leg,' said Barnet promptly.
@@ -59,10 +59,10 @@ his ancestor's leg?'
 in the family archives,' said Wood; `I'll fetch it for you.'
 And he stepped into the library just beyond.
 
-`I think,' said Father Brown quietly, `Mr Payne must have some particular
+`I think,' said [[Father Brown]] quietly, `Mr Payne must have some particular
 reason for asking that.'
 
-`I may as well blurt it out once and for all,' said Payne, but in
+`I may as [[Well|well]] blurt it out once and for all,' said Payne, but in
 a yet lower voice.  `After all, there is a rational explanation.
 A man from anywhere might have made up to look like the portrait.
 What do we know about Darnaway?  He is behaving rather oddly--`
@@ -76,20 +76,20 @@ odd about that.'
 
 `Quite an ordinary state of things, in fact,' said Wood with a smile;
 he had just returned with the book in his hand.  And even as he spoke
-there was a stir in the clockwork of the great dark [[Clock|clock]] behind him and
+there was a stir in the clockwork of the great dark clock behind him and
 successive strokes thrilled through the room up to the number of seven.
 With the last stroke there came a crash from the floor above that shook
-the [[house]] like a thunderbolt; and [[Father Brown]] was already two steps up
+the house like a thunderbolt; and Father Brown was already two steps up
 the winding staircase before the sound had ceased.
 
-`My God!' cried Payne involuntarily; `he is [[Alone|alone]] up there.'
+`My God!' cried Payne involuntarily; `he is alone up there.'
 
-`Yes,' said Father Brown without turning, as he vanished up the stairway.
-`We shall find him [[Alone|alone]].'
+`Yes,' said [[Father Brown]] without turning, as he vanished up the stairway.
+`We shall find him alone.'
 
 When the rest recovered from their first paralysis and ran helter--
 skelter up the stone steps and found their way to the new studio,
-it was true in that sense that they found him [[Alone|alone]].
+it was true in that sense that they found him alone.
 They found him lying in a wreck of his tall camera, with its long
 splintered legs standing out grotesquely at three different angles;
 and Darnaway had fallen on top of it with one black crooked leg lying
@@ -99,9 +99,9 @@ Little more than a glance and a touch were needed to tell them
 that he was dead.  Only the portrait stood untouched upon the easel,
 and one could fancy the smiling eyes shone.
 
-An hour afterwards [[Father Brown]] in helping to calm the confusion
+An hour afterwards Father Brown in helping to calm the confusion
 of the stricken household, came upon the old steward muttering almost
-as mechanically as the [[Clock|clock]] had ticked and struck the terrible hour.
+as mechanically as the clock had ticked and struck the terrible hour.
 Almost without hearing them, he knew what the muttered words must be.
 
 In the seventh heir I shall return In the seventh hour I shall depart.
@@ -113,15 +113,15 @@ his mutterings changed to a fierce cry.
 `You!' he cried; `you and your daylight!  Even you won't say
 now there is no Doom for the Darnaways.'
 
-`My opinion about that is unchanged,' said Father Brown mildly.
-Then after a pause he added:  `I [[Hope|hope]] you will observe poor
+`My opinion about that is unchanged,' said [[Father Brown]] mildly.
+Then after a pause he added:  `I hope you will observe poor
 Darnaway's last wish, and see the photograph is sent off.'
 
 `The photograph!' cried the doctor sharply.  `What's the good of that?
 As a matter of fact, it's rather curious; but there isn't any photograph.
 It seems he never took it after all, after pottering about all day.'
 
-[[Father Brown]] swung round sharply.  `Then take it yourselves,' he said.
+Father Brown swung round sharply.  `Then take it yourselves,' he said.
 'Poor Darnaway was perfectly right.  It's most important that the
 photograph should be taken.'
 

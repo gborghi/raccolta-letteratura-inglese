@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 5 (part 4)"
+title: "Oliver Twist — Chapter 5 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_05/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_07/part_01">part 01 ›</a></div>
 </nav>
 
+
+“She was my daughter,” said the old woman, nodding her head in the
+direction of the corpse; and speaking with an idiotic leer, more
+ghastly than even the presence of [[Death|death]] in such a place. “Lord, Lord!
+[[Well]], it _is_ strange that I who gave birth to her, and was a woman
+then, should be alive and merry now, and she lying there: so cold and
+stiff! Lord, Lord!—to think of it; it’s as good as a play—as good as a
+play!”
 
 As the wretched creature mumbled and chuckled in her hideous merriment,
 the undertaker turned to go away.

@@ -1,5 +1,5 @@
 ---
-title: "The Two Noble Kinsmen — Act IV, Scene 3 — exchange ([[Theseus|THESEUS]]) [4]"
+title: "The Two Noble Kinsmen — Act IV, Scene 3 — exchange (THESEUS) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-two-noble-kinsmen-(shakespeare)"

@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 40: FORTY (part 5)"
+title: "Martin Chuzzlewit — Chapter 40: FORTY (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_40_forty/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_40_forty/part_06">part 06 ›</a></div>
 </nav>
 
+
+‘Stay!’ said Tom, ‘you’re right. Look! there they go now. Is that the
+gentleman you mean? Descending at this minute, with the folds of a great
+cloak trailing down after him?’
 
 ‘The very man!’ returned the other, not looking at what Tom pointed out,
 however, but at Tom’s own face. ‘Will you do me a kindness, sir, a great
@@ -126,27 +130,3 @@ me a certain gent is, which I will not name for [[Fear|fear]] I give offence
 where none is doo! My precious lady,’ here she stopped short in her
 merriment, for she had until now affected to be vastly entertained,
 ‘you’re too pale by half!’
-
-‘YOU are here too, are you?’ muttered Jonas. ‘Ecod, there are enough of
-you.’
-
-‘I [[Hope|hope]], sir,’ returned Mrs Gamp, dropping an indignant curtsey, ‘as no
-bones is broke by me and Mrs Harris a-walkin’ down upon a public wharf.
-Which was the very words she says to me (although they was the last
-I ever had to speak) was these: “Sairey,” she says, “is it a public
-wharf?” “Mrs Harris,” I makes answer, “can you [[Doubt|doubt]] it? You have know’d
-me now, ma’am, eight and thirty year; and did you ever know me go, or
-wish to go, where I was not made welcome, say the words.” “No, Sairey,”
- Mrs Harris says, “contrairy quite.” And [[Well|well]] she knows it too. I am but
-a poor woman, but I’ve been sought after, sir, though you may not think
-it. I’ve been knocked up at all hours of the [[Night|night]], and warned out by
-a many landlords, in consequence of being mistook for [[Fire]]. I goes out
-workin’ for my bread, ‘tis true, but I maintains my independency, with
-your kind leave, and which I will till [[Death|death]]. I has my feelins as a
-woman, sir, and I have been a mother likeways; but touch a pipkin as
-belongs to me, or make the least remarks on what I eats or drinks, and
-though you was the favouritest young for’ard hussy of a servant-gal as
-ever come into a [[house]], either you [[Leaves|leaves]] the place, or me. My earnins
-is not great, sir, but I will not be impoged upon. Bless the babe, and
-save the mother, is my mortar, sir; but I makes so free as add to that,
-Don’t try no impogician with the Nuss, for she will not abear it!’

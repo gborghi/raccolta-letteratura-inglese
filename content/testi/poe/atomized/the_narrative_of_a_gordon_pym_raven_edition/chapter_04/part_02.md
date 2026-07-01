@@ -14,6 +14,8 @@ tags:
 </nav>
 
 
+      axe. The poor fellow fell to the deck without a groan, and the
+
       black cook lifted him up in his arms as he would a [[Child|child]], and
 
       tossed him deliberately into the sea. Hearing the blow and the
@@ -185,7 +187,3 @@ tags:
       incidents of a [[Nature|nature]] so entirely out of the range of human
 
       experience, and for this reason so far beyond the limits of human
-
-      credulity, that I proceed in utter hopelessness of obtaining
-
-      credence for all that I shall tell, yet confidently trusting in

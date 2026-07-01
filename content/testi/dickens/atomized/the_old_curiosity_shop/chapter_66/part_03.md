@@ -14,6 +14,10 @@ tags:
 </nav>
 
 
+‘I am obliged to you for your good opinion,’ retorted the single
+gentleman, ‘and quite concur in these sentiments.  But that is not the
+subject on which I wish to speak with you.’
+
 ‘Oh!’ said Sally.  ‘Then just state the particulars, will you?  I
 suppose it’s professional business?’
 
@@ -130,13 +134,3 @@ into the room.
 So saying, and quite indifferent to the astonishment his presence
 occasioned, he crept in, shut the door, kissed his greasy glove as
 servilely as if it were the [[Dust|dust]], and made a most abject bow.
-
-‘Sarah,’ said Brass, ‘hold your tongue if you please, and let me speak.
-Gentlemen, if I could express the pleasure it gives me to see three
-such men in a happy [[unity]] of feeling and concord of sentiment, I think
-you would hardly believe me.  But though I am unfortunate--nay,
-gentlemen, criminal, if we are to use harsh expressions in a company
-like this--still, I have my feelings like other men.  I have heard of a
-poet, who remarked that feelings were the common lot of all.  If he
-could have been a pig, gentlemen, and have uttered that sentiment, he
-would still have been immortal.’

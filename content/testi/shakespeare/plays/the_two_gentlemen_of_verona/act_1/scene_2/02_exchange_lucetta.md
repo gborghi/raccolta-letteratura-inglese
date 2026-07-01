@@ -1,5 +1,5 @@
 ---
-title: "The Two Gentlemen of [[Verona]] — Act I, Scene 2 — exchange (LUCETTA) [2]"
+title: "The Two Gentlemen of Verona — Act I, Scene 2 — exchange (LUCETTA) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-two-gentlemen-of-verona-(shakespeare)"

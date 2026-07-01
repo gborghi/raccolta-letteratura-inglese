@@ -1,5 +1,5 @@
 ---
-title: "A Midsummer Nights Dream — Act V, Scene 1 — monologue ([[Theseus|THESEUS]]) [3]"
+title: "A Midsummer Nights Dream — Act V, Scene 1 — monologue (THESEUS) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/a-midsummer-night’s-dream-(shakespeare)"

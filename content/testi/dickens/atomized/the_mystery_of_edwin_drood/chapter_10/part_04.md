@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 9 (part 4)"
+title: "The Mystery of Edwin Drood — Chapter 9 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -13,6 +13,33 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_10/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_10/part_05">part 05 ›</a></div>
 </nav>
 
+
+Rosa sat still and silent. Perhaps her mind had not got quite so far as
+the ceremony yet, but was lagging on the way there.
+
+“Memorandum, ‘Will.’ Now, my dear,” said Mr. Grewgious, referring to
+his notes, disposing of “[[Marriage]]” with his pencil, and taking a paper
+from his pocket; “although I have before possessed you with the
+contents of your father’s will, I think it right at this [[Time|time]] to leave
+a certified copy of it in your hands. And although Mr. Edwin is also
+aware of its contents, I think it right at this [[Time|time]] likewise to place
+a certified copy of it in Mr. Jasper’s hand—”
+
+“Not in his own!” asked Rosa, looking up quickly. “Cannot the copy go
+to Eddy himself?”
+
+“Why, yes, my dear, if you particularly wish it; but I spoke of Mr.
+Jasper as being his trustee.”
+
+“I do particularly wish it, if you please,” said Rosa, hurriedly and
+earnestly; “I don’t like Mr. Jasper to come between us, in any way.”
+
+“It is natural, I suppose,” said Mr. Grewgious, “that your young
+husband should be all in all. Yes. You observe that I say, I suppose.
+The fact is, I am a particularly Unnatural man, and I don’t know from
+my own knowledge.”
+
+Rosa looked at him with some [[Wonder|wonder]].
 
 “I mean,” he explained, “that young ways were never my ways. I was the
 only offspring of parents far advanced in life, and I half believe I
@@ -114,28 +141,3 @@ me; and I will discharge myself (as a mere business acquaintance) of my
 business responsibilities towards the accomplished lady in the corner
 [[Window|window]]. They will accrue at that season.” Blurring pencil once again.
 “Memorandum, ‘Leave.’ Yes. I will now, my dear, take my leave.”
-
-“Could I,” said Rosa, rising, as he jerked out of his chair in his
-ungainly way: “could I ask you, most kindly to come to me at Christmas,
-if I had anything particular to say to you?”
-
-“Why, certainly, certainly,” he rejoined; apparently—if such a word can
-be used of one who had no apparent lights or shadows about
-him—complimented by the question. “As a particularly Angular man, I do
-not fit smoothly into the social circle, and consequently I have no
-other engagement at Christmas-[[Time|time]] than to partake, on the
-twenty-fifth, of a boiled turkey and celery sauce with a—with a
-particularly Angular clerk I have the good fortune to possess, whose
-father, being a Norfolk farmer, sends him up (the turkey up), as a
-present to me, from the neighbourhood of Norwich. I should be quite
-proud of your wishing to see me, my dear. As a professional Receiver of
-rents, so very few people _do_ wish to see me, that the novelty would
-be bracing.”
-
-For his ready acquiescence, the grateful Rosa put her hands upon his
-shoulders, stood on tiptoe, and instantly kissed him.
-
-“Lord bless me!” cried Mr. Grewgious. “Thank you, my dear! The [[Honour|honour]]
-is almost equal to the pleasure. Miss Twinkleton, madam, I have had a
-most satisfactory conversation with my ward, and I will now release you
-from the incumbrance of my presence.”

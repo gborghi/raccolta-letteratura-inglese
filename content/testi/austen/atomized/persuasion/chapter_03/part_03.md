@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 3 (part 3)"
+title: "Persuasion — Chapter 3 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_03/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_05/part_01">part 01 ›</a></div>
 </nav>
 
+
+she is sister to a gentleman who did live amongst us once; she told me
+
+so herself: sister to the gentleman who lived a few years back at
+
+Monkford. Bless me! what was his name? At this moment I cannot
+
+recollect his name, though I have heard it so lately. Penelope, my
 
 dear, can you help me to the name of the gentleman who lived at
 

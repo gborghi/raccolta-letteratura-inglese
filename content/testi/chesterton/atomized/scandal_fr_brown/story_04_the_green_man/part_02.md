@@ -14,6 +14,18 @@ tags:
 </nav>
 
 
+It was up this curving [[Road|road]] from the coast that the Admiral might be
+expected to come, considering the direction in which he had been
+walking, and making the natural assumption that he was bound for his own
+door. The path along the sands, under the links, turned inland just
+beyond the headland arid solidifying itself into a [[Road|road]], returned
+towards Craven [[house|House]]. It was down this [[Road|road]], therefore, that the
+secretary darted, with characteristic impetuosity, to meet his patron
+returning [[Home|home]]. But the parton was apparently not returning [[Home|home]]. What
+was still more peculiar, the secretary was not returning [[Home|home]] either; at
+least until many hours later; a delay quite long enough to arouse alarm
+and [[Mystification|mystification]] at Craven [[house|House]].
+
 Behind the pillars and palms of that rather too palatial country [[house]],
 indeed, there was expectancy gradually changing to uneasiness. Gryce the
 butler, a big bilious man abnormally silent below as [[Well|well]] as above
@@ -119,17 +131,3 @@ frightfully rich, nearly a millionaire in fact; though of course that
 doesn't prove anything. He seemed to be pretty normal and comfortable in
 his private life too; he's the last man I should suspect of drowning
 himself.'
-
-'So that we come,' said the secretary, lowering his voice with the
-thrill, 'I suppose we come to the third possibility.'
-
-'We won't be in too much of a hurry about that,' said the Inspector to
-the annoyance of Harker, who was in a hurry about everything. 'But
-naturally there are one or two things one would like to know. One would
-like to know - about his property, for instance. Do you know who's
-likely to come in for it? You're his private secretary; do you know
-anything about his will?'
-
-'I'm not so private a secretary as all that,' answered the young man.
-'His solicitors are Messrs Willis, Hardman and Dyke, over in Suttford
-High Street; and I believe the will is in their custody.'

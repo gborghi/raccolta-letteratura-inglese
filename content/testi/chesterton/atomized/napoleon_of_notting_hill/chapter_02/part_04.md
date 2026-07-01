@@ -1,5 +1,5 @@
 ---
-title: "Napoleon of Notting [[Hill]] — Chapter 2 (part 4)"
+title: "Napoleon of Notting Hill — Chapter 2 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/napoleon-of-notting-hill-(chesterton)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02/part_05">part 05 ›</a></div>
 </nav>
 
+
+The manner with which the President of Nicaragua leant back and drank
+his sherry showed that to him this explanation covered all the facts
+observed and a great deal more.  Barker's brow, however, was still
+a little clouded.
 
 "And the yellow paper," he began, with anxious friendliness,
 "and the red rag..."
@@ -131,17 +136,3 @@ of civilization, what there is particularly immortal about yours?"
 answered Barker.  "You judge it rather as if England was still
 a poor and pugnacious island; you have been long out of Europe.
 Many things have happened."
-
-"And what," asked the other, "would you call the summary
-of those things?"
-
-"The summary of those things," answered Barker, with great animation,
-"is that we are rid of the superstitions, and in becoming so we
-have not merely become rid of the superstitions which have
-been most frequently and most enthusiastically so described.
-The superstition of big nationalities is bad, but the superstition
-of small nationalities is worse.  The superstition of reverencing our
-own country is bad, but the superstition of reverencing other people's
-countries is worse.  It is so everywhere, and in a hundred ways.
-The superstition of monarchy is bad, and the superstition of aristocracy
-is bad, but the superstition of [[democracy]] is the worst of all."

@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 64 (part 1)"
+title: "Barnaby Rudge — Chapter 64 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -148,12 +148,3 @@ articulated with great difficulty, and with many oaths.
 
 ‘Give me my daughter!’ cried the locksmith, who was now as fierce as
 those who gathered round him: ‘Give me my daughter!’
-
-He was down again, and up, and down once more, and buffeting with a
-score of them, who bandied him from hand to hand, when one tall fellow,
-fresh from a slaughter-[[house]], whose dress and great thigh-boots smoked
-hot with grease and [[Blood|blood]], raised a pole-axe, and swearing a horrible
-oath, aimed it at the old man’s uncovered head. At that instant, and in
-the very act, he fell himself, as if struck by [[Lightning|lightning]], and over his
-[[Body|body]] a one-armed man came darting to the locksmith’s side. Another man
-was with him, and both caught the locksmith roughly in their grasp.

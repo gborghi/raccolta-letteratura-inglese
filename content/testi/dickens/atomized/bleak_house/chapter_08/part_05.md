@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 8 (part 5)"
+title: "Bleak House — Chapter 8 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_08/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_08/part_06">part 06 ›</a></div>
 </nav>
 
+
+Suppose Mr. Pardiggle were to dine with Mr. Jellyby, and suppose Mr.
+Jellyby were to relieve his mind after dinner to Mr. Pardiggle, would
+Mr. Pardiggle, in return, make any confidential communication to Mr.
+Jellyby? I was quite confused to find myself thinking this, but it
+came into my head.
 
 “You are very pleasantly situated here!” said Mrs. Pardiggle.
 

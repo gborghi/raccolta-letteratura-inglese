@@ -14,6 +14,21 @@ tags:
 </nav>
 
 
+There was but a week to come, and another of that [[Body|body]], for doing his
+duty to those who sent him there; for claiming in a Republic the Liberty
+and [[Freedom]] of expressing their sentiments, and making known their
+[[prayer]]; would be tried, found guilty, and have strong censure passed upon
+him by the rest.  His was a [[Grave|grave]] offence indeed; for years before, he
+had risen up and said, ‘A gang of male and female slaves for sale,
+warranted to breed like cattle, linked to each other by iron fetters, are
+passing now along the open street beneath the windows of your Temple of
+Equality!  Look!’  But there are many kinds of hunters engaged in the
+Pursuit of Happiness, and they go variously armed.  It is the Inalienable
+Right of some among them, to take the field after _their_ Happiness
+equipped with cat and cartwhip, stocks, and iron collar, and to shout
+their view halloa! (always in praise of Liberty) to the music of clanking
+[[Chains|chains]] and bloody stripes.
+
 Where sat the many legislators of coarse threats; of words and blows such
 as coalheavers deal upon each other, when they forget their breeding?  On
 every side.  Every session had its anecdotes of that kind, and the actors
@@ -39,7 +54,7 @@ most depraved and most unblushing form, stared out from every corner of
 the crowded hall.
 
 Did I see among them, the intelligence and refinement: the true, honest,
-patriotic heart of [[America]]?  Here and there, were drops of its [[Blood|blood]] and
+patriotic heart of [[america|America]]?  Here and there, were drops of its [[Blood|blood]] and
 life, but they scarcely coloured the stream of desperate adventurers
 which sets that way for profit and for pay.  It is the game of these men,
 and of their profligate organs, to make the strife of politics so fierce
@@ -94,26 +109,3 @@ described.  I will merely observe, that I strongly recommend all
 strangers not to look at the floor; and if they happen to drop anything,
 though it be their purse, not to pick it up with an ungloved hand on any
 account.
-
-It is somewhat remarkable too, at first, to say the least, to see so many
-honourable members with swelled faces; and it is scarcely less remarkable
-to discover that this appearance is caused by the quantity of tobacco
-they contrive to stow within the hollow of the cheek.  It is strange
-enough too, to see an honourable gentleman leaning back in his tilted
-chair with his legs on the desk before him, shaping a convenient ‘plug’
-with his penknife, and when it is quite ready for use, shooting the old
-one from his mouth, as from a pop-gun, and clapping the new one in its
-place.
-
-I was surprised to observe that even steady old chewers of great
-experience, are not always good marksmen, which has rather inclined me to
-[[Doubt|doubt]] that general proficiency with the rifle, of which we have heard so
-much in England.  Several gentlemen called upon me who, in the course of
-conversation, frequently missed the spittoon at five paces; and one (but
-he was certainly short-sighted) mistook the closed sash for the open
-[[Window|window]], at three.  On another occasion, when I dined out, and was sitting
-with two ladies and some gentlemen round a [[Fire|fire]] before dinner, one of the
-company fell short of the fireplace, six distinct times.  I am disposed
-to think, however, that this was occasioned by his not aiming at that
-object; as there was a white marble hearth before the fender, which was
-more convenient, and may have suited his purpose better.

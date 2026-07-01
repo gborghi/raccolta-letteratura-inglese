@@ -1,5 +1,5 @@
 ---
-title: "[[Hamlet]] — Act I, Scene 2 — monologue ([[King|KING]] [[Claudius|CLAUDIUS]]) [4]"
+title: "Hamlet — Act I, Scene 2 — monologue (KING CLAUDIUS) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/hamlet-(shakespeare)"

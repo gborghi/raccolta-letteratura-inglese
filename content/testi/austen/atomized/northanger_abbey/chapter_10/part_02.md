@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 9 (part 2)"
+title: "Northanger Abbey — Chapter 9 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_10/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_10/part_03">part 03 ›</a></div>
 </nav>
 
+
+with which he had directed his whip. Catherine, though she could not
+
+help wondering that with such perfect command of his [[Horse|horse]], he should
+
+think it necessary to alarm her with a relation of its tricks,
 
 congratulated herself sincerely on being under the care of so excellent
 
@@ -235,13 +241,3 @@ brought up to understand the propensities of a rattle, nor to know to
 how many idle assertions and impudent falsehoods the excess of [[Vanity|vanity]]
 
 will lead. Her own family were plain, matter-of-fact people who seldom
-
-aimed at wit of any kind; her father, at the utmost, being contented
-
-with a pun, and her mother with a proverb; they were not in the habit
-
-therefore of telling lies to increase their importance, or of asserting
-
-at one moment what they would contradict the next. She reflected on the
-
-affair for some [[Time|time]] in much perplexity, and was more than once on the

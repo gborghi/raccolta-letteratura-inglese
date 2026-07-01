@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 71 (part 3)"
+title: "Barnaby Rudge — Chapter 71 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,8 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_71/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_71/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘I thank God for it,’ said [[Emma]], faintly.
 
 ‘You say [[Well|well]]. You have reason to be thankful: greater reason than it is
 possible for you, who have seen but one [[Night|night]] of these cruel outrages,
@@ -130,9 +132,3 @@ roof and crushed him--and cheerful light, and beaming faces came pouring
 in--and [[Emma]] was clasped in her uncle’s embrace, and Dolly, with a
 shriek that pierced the air, fell into the arms of her father and
 mother.
-
-What fainting there was, what laughing, what crying, what sobbing, what
-smiling, how much questioning, no answering, all talking together, all
-beside themselves with joy; what kissing, congratulating, embracing,
-shaking of hands, and falling into all these raptures, over and over and
-over again; no language can describe.

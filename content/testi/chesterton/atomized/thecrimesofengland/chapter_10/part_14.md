@@ -1,5 +1,5 @@
 ---
-title: "[[TheCrimesOfEngland]] — Chapter 10 (part 14)"
+title: "TheCrimesOfEngland — Chapter 10 (part 14)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thecrimesofengland-(chesterton)"
@@ -13,6 +13,76 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thecrimesofengland/chapter_10/part_13">‹ part 13</a><a class="ex-next" href="/testi/chesterton/atomized/thecrimesofengland/chapter_10/part_15">part 15 ›</a></div>
 </nav>
 
+
+known as Pine in the Twilight, was the best living poet, or the Chief
+
+Thin Red Fox, the ablest living dramatist. If that were realised, the
+
+English critic probably would not say anything scornful of red men;
+
+or certainly would be sorry he said it. But the extraordinary avowal
+
+does mark what was most peculiar in the position. This has not been the
+
+common case of misgovernment. It is not merely that the institutions we
+
+set up were indefensible; though the curious mark of them is that they
+
+were literally indefensible; from Wood's Halfpence to the Irish Church
+
+Establishment. There can be no more excuse for the method used by Pitt
+
+than for the method used by Pigott. But it differs further from
+
+ordinary misrule in the vital matter of its object. The coercion was not
+
+imposed that the people might live quietly, but that the people might
+
+die quietly. And then we sit in an owlish [[innocence]] of our sin, and
+
+[[debate]] whether the Irish might conceivably succeed in saving Ireland.
+
+We, as a matter of fact, have not even failed to save Ireland. We have
+
+simply failed to destroy her.
+
+It is not possible to reverse this judgment or to take away a single
+
+count from it. Is there, then, anything whatever to be said for the
+
+English in the matter? There is: though the English never by any chance
+
+say it. Nor do the Irish say it; though it is in a sense a weakness as
+
+[[Well|well]] as a defence. One would think the Irish had reason to say anything
+
+that can be said against the English ruling class, but they have not
+
+said, indeed they have hardly discovered, one quite simple fact--that it
+
+rules England. They are right in asking that the Irish should have a say
+
+in the Irish [[government]], but they are quite wrong in supposing that the
+
+English have any particular say in English [[government]]. And I seriously
+
+believe I am not deceived by any national bias, when I say that the
+
+common Englishman would be quite incapable of the cruelties that were
+
+committed in his name. But, most important of all, it is the historical
+
+fact that there was another England, an England consisting of common
+
+Englishmen, which not only certainly would have done better, but
+
+actually did make some considerable attempt to do better. If anyone asks
+
+for the evidence, the answer is that the evidence has been destroyed, or
+
+at least deliberately boycotted: but can be found in the unfashionable
+
+corners of literature; and, when found, is final. If anyone asks for the
 
 great men of such a potential democratic England, the answer is that the
 
@@ -37,8 +107,6 @@ which is the subject of this book. It is a fact, and I think it is not a
 coincidence, that in standing for a moment where this Englishman stood,
 
 I again find myself confronted by the German soldier.
-
-
 
 The son of a small Surrey farmer, a respectable Tory and churchman,
 
@@ -104,8 +172,6 @@ green. But in England also it meant the ruin of anything and everything
 
 English, from the Habeas Corpus Act to Cobbett.
 
-
-
 After this affair of the scourging, he wielded his pen like a scourge
 
 until he died. This terrible pamphleteer was one of those men who exist
@@ -117,77 +183,3 @@ biographies you will learn that he was a Radical who had once been a
 Tory. From his life, if there were one, you would learn that he was
 
 always a Radical because he was always a Tory. Few men changed less; it
-
-was round him that the politicians like Pitt chopped and changed, like
-
-fakirs dancing round a sacred rock. His secret is buried with him; it is
-
-that he really cared about the English people. He was conservative
-
-because he cared for their past, and liberal because he cared for their
-
-future. But he was much more than this. He had two forms of moral
-
-manhood very rare in our [[Time|time]]: he was ready to uproot ancient successes,
-
-and he was ready to defy oncoming doom. Burke said that few are the
-
-partisans of a tyranny that has departed: he might have added that fewer
-
-still are the critics of a tyranny that has remained. Burke certainly
-
-was not one of them. While lashing himself into a lunacy against the
-
-[[French Revolution]], which only very incidentally destroyed the property
-
-of the rich, he never criticised (to do him justice, perhaps never saw)
-
-the English Revolution, which began with the sack of convents, and ended
-
-with the fencing in of enclosures; a revolution which sweepingly and
-
-systematically destroyed the property of the poor. While rhetorically
-
-putting the Englishman in a [[Castle|castle]], politically he would not allow him
-
-on a common. Cobbett, a much more historical thinker, saw the beginning
-
-of Capitalism in the Tudor pillage and deplored it; he saw the triumph
-
-of Capitalism in the industrial cities and defied it. The [[Paradox|paradox]] he was
-
-maintaining really amounted to the assertion that Westminster Abbey is
-
-rather more national than Welbeck Abbey. The same [[Paradox|paradox]] would have led
-
-him to maintain that a Warwickshire man had more reason to be proud of
-
-Stratford-on-Avon than of Birmingham. He would no more have thought of
-
-looking for England in Birmingham than of looking for Ireland in
-
-Belfast.
-
-
-
-The prestige of Cobbett's excellent literary style has survived the
-
-persecution of his equally excellent opinions. But that style also is
-
-underrated through the loss of the real English tradition. More cautious
-
-schools have missed the fact that the very genius of the English tongue
-
-tends not only to vigour, but specially to violence. The Englishman of
-
-the leading articles is calm, moderate, and restrained; but then the
-
-Englishman of the leading articles is a Prussian. The mere English
-
-consonants are full of Cobbett. Dr. Johnson was our great man of letters
-
-when he said "stinks," not when he said "putrefaction." Take some common
-
-phrase like "raining cats and [[dogs]]," and note not only the extravagance
-
-of imagery (though that is very Shakespearean), but a jagged energy in

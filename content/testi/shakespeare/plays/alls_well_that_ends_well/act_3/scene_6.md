@@ -1,5 +1,5 @@
 ---
-title: "Alls [[Well]] that Ends [[Well]] — Act III, Scene 6"
+title: "Alls Well that Ends Well — Act III, Scene 6"
 author: "Shakespeare"
 unitType: scene
 parentWork: "works/all’s-well-that-ends-well-(shakespeare)"

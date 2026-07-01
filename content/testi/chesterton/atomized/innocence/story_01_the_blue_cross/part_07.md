@@ -1,5 +1,5 @@
 ---
-title: "[[innocence]] — The Blue [[Cross]] (part 7)"
+title: "innocence — The Blue Cross (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"

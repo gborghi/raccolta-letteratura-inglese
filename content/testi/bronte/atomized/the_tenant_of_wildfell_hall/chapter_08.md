@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 8"
+title: "The Tenant of Wildfell Hall — Chapter 8"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -188,7 +188,7 @@ in return: I met her in her walks as often as I could; I came to her
 
 [[house]] as often as I dared. My first pretext for invading the sanctum
 
-was to bring [[arthur|Arthur]] a little waddling puppy of which Sancho was the
+was to bring [[Arthur]] a little waddling puppy of which Sancho was the
 
 father, and which delighted the [[Child|child]] beyond expression, and,
 
@@ -224,7 +224,7 @@ received. But an apology for invading the hermitage was still
 
 necessary; so I had furnished myself with a blue morocco collar for
 
-[[arthur|Arthur]]’s little dog; and that being given and received, with much more
+[[Arthur]]’s little dog; and that being given and received, with much more
 
 joy and gratitude, on the part of the receiver, than the worth of the
 

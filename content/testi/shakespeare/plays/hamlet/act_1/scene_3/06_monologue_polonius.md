@@ -1,5 +1,5 @@
 ---
-title: "[[Hamlet]] — Act I, Scene 3 — monologue ([[Polonius|POLONIUS]]) [6]"
+title: "Hamlet — Act I, Scene 3 — monologue (POLONIUS) [6]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/hamlet-(shakespeare)"

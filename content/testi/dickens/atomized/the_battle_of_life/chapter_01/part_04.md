@@ -14,6 +14,16 @@ tags:
 </nav>
 
 
+Such, in outward form and garb, was [[Clemency Newcome]]; who was supposed to
+have unconsciously originated a corruption of her own Christian name,
+from Clementina (but nobody knew, for the deaf old mother, a very
+phenomenon of age, whom she had supported almost from a [[Child|child]], was dead,
+and she had no other relation); who now busied herself in preparing the
+table, and who stood, at intervals, with her bare red arms crossed,
+rubbing her grazed elbows with opposite hands, and staring at it very
+composedly, until she suddenly remembered something else she wanted, and
+jogged off to fetch it.
+
 ‘Here are them two lawyers a-coming, Mister!’ said Clemency, in a tone of
 no very great good-will.
 
@@ -134,12 +144,3 @@ with the blue bag between them for safety; the Doctor took his usual
 position, opposite to Grace.  Clemency hovered galvanically about the
 table, as waitress; and the [[Melancholy|melancholy]] Britain, at another and a smaller
 board, acted as Grand Carver of a round of beef and a ham.
-
-‘Meat?’ said Britain, approaching Mr. Snitchey, with the carving knife
-and fork in his hands, and throwing the question at him like a missile.
-
-‘Certainly,’ returned the lawyer.
-
-‘Do _you_ want any?’ to Craggs.
-
-‘Lean and [[Well|well]] done,’ replied that gentleman.

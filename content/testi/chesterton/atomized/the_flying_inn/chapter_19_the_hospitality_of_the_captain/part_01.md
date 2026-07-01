@@ -78,8 +78,3 @@ And with a gesture of staggering hospitality, he shot out his long arm with the 
 
 
 “Yes,” answered Dalroy, “and so have you, unless you’re a swindler. Why is your milk advertised as different from everyone else’s milk, if you haven’t made the difference? Why does a glass of your milk cost threepence, and a glass of ordinary milk, a penny, if you haven’t put twopennorth of something into it? Now, look here, Dr. Meadows. The Public Analyst who would judge this, happens to be an honest man. I have a list of the twenty-one and a half honest men still employed in such posts. I make you a fair offer. He shall decide what it is I add to the milk, if you let him decide what it is you add to the milk. You must add something to the milk, or what can all these wheels and pumps and pulleys be for? Will you tell me, here and now, what you add to the milk which makes it so exceedingly Mountain?”
-
-
-
-
-There was a long [[Silence|silence]], full of the same sense of submerged mirth in the mob. But the philanthropist had fallen into a naked frenzy in the sunlight, and shaking his fists aloft in a way unknown to all the English around him, he cried out:

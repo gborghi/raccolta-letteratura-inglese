@@ -1323,7 +1323,7 @@ a novelty, the logical difficulty of their position still remains.
 We may, for the sake of argument, treat this change as if there
 had been no other changes.  We may isolate the Imagist as he would
 isolate the image.  We may treat the art as if it had no [[history]],
-just as the [[artist]] tells a story as if it had no beginning.
+just as the [[Artist|artist]] tells a story as if it had no beginning.
 But the fact still remains that, since he has to use the words
 of some language, he has got the words from somewhere and learned
 them from somebody.  And the words are in fact winged or weighted
@@ -1805,7 +1805,7 @@ In a sense it is true that every image is an idol; that is,
 about every statue there lingers something of the faint pagan
 tradition of sacrifice and divine honours.  The people feel that,
 if there is to be popular art, it ought to express popular religion.
-The people are right; though the [[artist]] might some times retort
+The people are right; though the [[Artist|artist]] might some times retort
 that they have now no religion to be expressed.
 
 Being myself a man in the street, and a mere casual figure in
@@ -5777,7 +5777,7 @@ We need not, therefore, be very much surprised if Dickens or Whitman
 did not succeed in doing what Shakespeare and [[Milton]] failed to do.
 But in all three cases there is a principle at work which I think
 has been somewhat neglected, and by many perhaps never discovered.
-The difficulty with art is that the [[artist]] is giving permanent
+The difficulty with art is that the [[Artist|artist]] is giving permanent
 expression to a passing mood.  He may be, and generally is,
 also testifying to a [[Truth|truth]] that is permanently behind that mood.
 But he cannot make the mood itself as popular at one [[Time|time]] as at another.

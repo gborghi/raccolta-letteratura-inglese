@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 5 (part 3)"
+title: "Our Mutual Friend — Chapter 6 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,143 +14,145 @@ tags:
 </nav>
 
 
-‘Lard!’ exclaimed Mr Boffin, in a tone of great enjoyment, as he settled
-himself down, still nursing his stick like a baby, ‘it’s a pleasant
-place, this! And then to be shut in on each side, with these ballads,
-like so many book-leaf blinkers! Why, its delightful!’
+In such an establishment, the white-aproned pot-boy with his
+shirt-sleeves arranged in a tight roll on each bare shoulder, was a mere
+hint of the possibility of physical force, thrown out as a matter of
+state and form. Exactly at the closing hour, all the guests who were
+left, filed out in the best order: Miss Abbey standing at the half door
+of the bar, to hold a ceremony of review and dismissal. All wished
+Miss Abbey good-[[Night|night]] and Miss Abbey wished good-[[Night|night]] to all, except
+Riderhood. The sapient pot-boy, looking on officially, then had the
+conviction borne in upon his [[Soul|soul]], that the man was evermore outcast and
+excommunicate from the Six Jolly Fellowship Porters.
 
-‘If I am not mistaken, sir,’ Mr Wegg delicately hinted, resting a hand
-on his stall, and bending over the discursive Boffin, ‘you alluded to
-some offer or another that was in your mind?’
+‘You Bob Gliddery,’ said Miss Abbey to this pot-boy, ‘run round to
+Hexam’s and tell his daughter Lizzie that I want to speak to her.’
 
-‘I’m coming to it! All right. I’m coming to it! I was going to say that
-when I listened that morning, I listened with hadmiration amounting to
-haw. I thought to myself, “Here’s a man with a wooden leg—a literary
-man with—“’
+With exemplary swiftness Bob Gliddery departed, and returned. Lizzie,
+following him, arrived as one of the two female domestics of the
+Fellowship Porters arranged on the snug little table by the bar [[Fire|fire]],
+Miss Potterson’s supper of hot sausages and mashed potatoes.
 
-‘N—not exactly so, sir,’ said Mr Wegg.
+‘Come in and sit ye down, girl,’ said Miss Abbey. ‘Can you eat a bit?’
 
-‘Why, you know every one of these [[songs]] by name and by tune, and if you
-want to read or to sing any one on ’em off straight, you’ve only to whip
-on your spectacles and do it!’ cried Mr Boffin. ‘I see you at it!’
+‘No thank you, Miss. I have had my supper.’
 
-‘[[Well]], sir,’ returned Mr Wegg, with a conscious inclination of the head;
-‘we’ll say literary, then.’
+‘I have had mine too, I think,’ said Miss Abbey, pushing away the
+untasted dish, ‘and more than enough of it. I am put out, Lizzie.’
 
-‘“A literary man—WITH a wooden leg—and all Print is open to him!”
- That’s what I thought to myself, that morning,’ pursued Mr Boffin,
-leaning forward to describe, uncramped by the clotheshorse, as large an
-arc as his right arm could make; ‘“all Print is open to him!” And it is,
-ain’t it?’
+‘I am very sorry for it, Miss.’
 
-‘Why, truly, sir,’ Mr Wegg admitted, with modesty; ‘I believe you
-couldn’t show me the piece of English print, that I wouldn’t be equal to
-collaring and throwing.’
+‘Then why, in the name of Goodness,’ quoth Miss Abbey, sharply, ‘do you
+do it?’
 
-‘On the spot?’ said Mr Boffin.
+‘I do it, Miss!’
 
-‘On the spot.’
+‘There, there. Don’t look astonished. I ought to have begun with a word
+of explanation, but it’s my way to make short cuts at things. I always
+was a pepperer. You Bob Gliddery there, put the chain upon the door and
+get ye down to your supper.’
 
-‘I know’d it! Then consider this. Here am I, a man without a wooden leg,
-and yet all print is shut to me.’
+With an alacrity that seemed no less referable to the pepperer fact
+than to the supper fact, Bob obeyed, and his boots were heard descending
+towards the bed of the [[River|river]].
 
-‘Indeed, sir?’ Mr Wegg returned with increasing [[Self|self]]-complacency.
-‘[[Education]] neglected?’
+‘[[Lizzie Hexam]], [[Lizzie Hexam]],’ then began Miss Potterson, ‘how often have
+I held out to you the opportunity of getting clear of your father, and
+doing [[Well|well]]?’
 
-‘Neg—lected!’ repeated Boffin, with emphasis. ‘That ain’t no word for
-it. I don’t mean to say but what if you showed me a B, I could so far
-give you change for it, as to answer Boffin.’
+‘Very often, Miss.’
 
-‘Come, come, sir,’ said Mr Wegg, throwing in a little encouragement,
-‘that’s something, too.’
+‘Very often? Yes! And I might as [[Well|well]] have spoken to the iron funnel of
+the strongest sea-going steamer that passes the Fellowship Porters.’
 
-‘It’s something,’ answered Mr Boffin, ‘but I’ll take my oath it ain’t
-much.’
+‘No, Miss,’ Lizzie pleaded; ‘because that would not be thankful, and I
+am.’
 
-‘Perhaps it’s not as much as could be wished by an inquiring mind, sir,’
-Mr Wegg admitted.
+‘I vow and declare I am half ashamed of myself for taking such an
+interest in you,’ said Miss Abbey, pettishly, ‘for I don’t believe I
+should do it if you were not good-looking. Why ain’t you ugly?’
 
-‘Now, look here. I’m retired from business. Me and Mrs
-Boffin—Henerietty Boffin—which her father’s name was Henery, and her
-mother’s name was Hetty, and so you get it—we live on a compittance,
-under the will of a diseased governor.’
+Lizzie merely answered this difficult question with an apologetic
+glance.
 
-‘Gentleman dead, sir?’
+‘However, you ain’t,’ resumed Miss Potterson, ‘so it’s no use going into
+that. I must take you as I find you. Which indeed is what I’ve done. And
+you mean to say you are still obstinate?’
 
-‘Man alive, don’t I tell you? A diseased governor? Now, it’s too late
-for me to begin shovelling and sifting at alphabeds and grammar-books.
-I’m getting to be a old bird, and I want to take it easy. But I want
-some reading—some fine bold reading, some splendid book in a gorging
-Lord-Mayor’s-Show of wollumes’ (probably meaning gorgeous, but misled
-by association of ideas); ‘as’ll reach right down your pint of view, and
-take [[Time|time]] to go by you. How can I get that reading, Wegg? By,’ tapping
-him on the breast with the head of his thick stick, ‘paying a man truly
-qualified to do it, so much an hour (say twopence) to come and do it.’
+‘Not obstinate, Miss, I [[Hope|hope]].’
 
-‘Hem! Flattered, sir, I am sure,’ said Wegg, beginning to regard himself
-in quite a new light. ‘Hew! This is the offer you mentioned, sir?’
+‘Firm (I suppose you call it) then?’
 
-‘Yes. Do you like it?’
+‘Yes, Miss. Fixed like.’
 
-‘I am considering of it, Mr Boffin.’
+‘Never was an obstinate person yet, who would own to the word!’ remarked
+Miss Potterson, rubbing her vexed nose; ‘I’m sure I would, if I was
+obstinate; but I am a pepperer, which is different. [[Lizzie Hexam]], Lizzie
+Hexam, think again. Do you know the worst of your father?’
 
-‘I don’t,’ said Boffin, in a free-handed manner, ‘want to tie a literary
-man—WITH a wooden leg—down too tight. A halfpenny an hour shan’t part
-us. The hours are your own to choose, after you’ve done for the day
-with your [[house]] here. I live over Maiden Lane way—out Holloway
-direction—and you’ve only got to go East-and-by-North when you’ve
-finished here, and you’re there. Twopence halfpenny an hour,’ said
-Boffin, taking a piece of [[chalk]] from his pocket and getting off the
-stool to work the sum on the top of it in his own way; ‘two long’uns and
-a short’un—twopence halfpenny; two short’uns is a long’un and two two
-long’uns is four long’uns—making five long’uns; six nights a week at
-five long’uns a [[Night|night]],’ scoring them all down separately, ‘and you mount
-up to thirty long’uns. A round’un! Half a [[Crown|crown]]!’
+‘Do I know the worst of father!’ she repeated, opening her eyes.
 
-Pointing to this result as a large and satisfactory one, Mr Boffin
-smeared it out with his moistened glove, and sat down on the remains.
+‘Do you know the suspicions to which your father makes himself liable?
+Do you know the suspicions that are actually about, against him?’
 
-‘Half a [[Crown|crown]],’ said Wegg, meditating. ‘Yes. (It ain’t much, sir.) Half
-a [[Crown|crown]].’
+The consciousness of what he habitually did, oppressed the girl heavily,
+and she slowly cast down her eyes.
 
-‘Per week, you know.’
+‘Say, Lizzie. Do you know?’ urged Miss Abbey.
 
-‘Per week. Yes. As to the amount of strain upon the intellect now. Was
-you thinking at all of poetry?’ Mr Wegg inquired, musing.
+‘Please to tell me what the suspicions are, Miss,’ she asked after a
+[[Silence|silence]], with her eyes upon the ground.
 
-‘Would it come dearer?’ Mr Boffin asked.
+‘It’s not an easy thing to tell a daughter, but it must be told. It is
+thought by some, then, that your father helps to their [[Death|death]] a few of
+those that he finds dead.’
 
-‘It would come dearer,’ Mr Wegg returned. ‘For when a person comes to
-grind off poetry [[Night|night]] after [[Night|night]], it is but right he should expect to
-be paid for its weakening effect on his mind.’
+The relief of hearing what she felt sure was a false suspicion, in place
+of the expected real and true one, so lightened Lizzie’s breast for the
+moment, that Miss Abbey was amazed at her demeanour. She raised her eyes
+quickly, shook her head, and, in a kind of triumph, almost laughed.
 
-‘To tell you the [[Truth|truth]] Wegg,’ said Boffin, ‘I wasn’t thinking of poetry,
-except in so fur as this:—If you was to happen now and then to feel
-yourself in the mind to tip me and Mrs Boffin one of your ballads, why
-then we should drop into poetry.’
+‘They little know father who talk like that!’
 
-‘I follow you, sir,’ said Wegg. ‘But not being a regular musical
-professional, I should be loath to engage myself for that; and therefore
-when I dropped into poetry, I should ask to be considered so fur, in the
-light of a friend.’
+(‘She takes it,’ thought Miss Abbey, ‘very quietly. She takes it with
+extraordinary quietness!’)
 
-At this, Mr Boffin’s eyes sparkled, and he shook Silas earnestly by the
-hand: protesting that it was more than he could have asked, and that he
-took it very kindly indeed.
+‘And perhaps,’ said Lizzie, as a recollection flashed upon her, ‘it is
+some one who has a grudge against father; some one who has threatened
+father! Is it Riderhood, Miss?’
 
-‘What do you think of the terms, Wegg?’ Mr Boffin then demanded, with
-unconcealed anxiety.
+‘[[Well]]; yes it is.’
 
-Silas, who had stimulated this anxiety by his hard reserve of manner,
-and who had begun to understand his man very [[Well|well]], replied with an air;
-as if he were saying something extraordinarily generous and great:
+‘Yes! He was father’s partner, and father broke with him, and now he
+revenges himself. Father broke with him when I was by, and he was very
+angry at it. And besides, Miss Abbey!—Will you never, without strong
+reason, let pass your lips what I am going to say?’
 
-‘Mr Boffin, I never bargain.’
+She bent forward to say it in a whisper.
 
-‘So I should have thought of you!’ said Mr Boffin, admiringly. ‘No, sir.
-I never did ’aggle and I never will ’aggle. Consequently I meet you at
-once, free and fair, with—Done, for [[Double|double]] the money!’
+‘I promise,’ said Miss Abbey.
 
-Mr Boffin seemed a little unprepared for this conclusion, but assented,
-with the remark, ‘You know better what it ought to be than I do, Wegg,’
-and again shook hands with him upon it.
+‘It was on the [[Night|night]] when the Harmon murder was found out, through
+father, just above bridge. And just below bridge, as we were sculling
+[[Home|home]], Riderhood crept out of the dark in his boat. And many and many
+times afterwards, when such great pains were taken to come to the [[Bottom|bottom]]
+of the crime, and it never could be come near, I thought in my own
+thoughts, could Riderhood himself have done the murder, and did he
+purposely let father find the [[Body|body]]? It seemed a’most wicked and cruel
+to so much as think such a thing; but now that he tries to throw it upon
+father, I go back to it as if it was a [[Truth|truth]]. Can it be a [[Truth|truth]]? That
+was put into my mind by the dead?’
+
+She asked this question, rather of the [[Fire|fire]] than of the hostess of the
+Fellowship Porters, and looked round the little bar with troubled eyes.
+
+But, Miss Potterson, as a ready schoolmistress accustomed to bring her
+pupils to book, set the matter in a light that was essentially of this
+world.
+
+‘You poor deluded girl,’ she said, ‘don’t you see that you can’t open
+your mind to particular suspicions of one of the two, without opening
+your mind to general suspicions of the other? They had worked together.
+Their goings-on had been going on for some [[Time|time]]. Even granting that it
+was as you have had in your thoughts, what the two had done together
+would come familiar to the mind of one.’

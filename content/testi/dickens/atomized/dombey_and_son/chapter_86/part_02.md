@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 30 (part 2)"
+title: "Dombey and Son — Chapter 58 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,122 +14,120 @@ tags:
 </nav>
 
 
-“Let me say now, for it may be the best opportunity,” continued Edith,
-looking round to see that they were quite [[Alone|alone]], and speaking in a
-lower voice, “that when I am married, and have gone away for some
-weeks, I shall be easier at heart if you will come [[Home|home]] here. No matter
-who invites you to stay elsewhere. Come [[Home|home]] here. It is better to be
-[[Alone|alone]] than—what I would say is,” she added, checking herself, “that I
-know [[Well|well]] you are best at [[Home|home]], dear Florence.”
+Of all this, and many variations of the same tune, the Major would
+deliver himself with so many apoplectic symptoms, such rollings of his
+head, and such violent growls of ill usage and resentment, that the
+younger members of the club surmised he had invested money in his
+friend Dombey’s [[house|House]], and lost it; though the older soldiers and
+deeper [[dogs]], who knew Joe better, wouldn’t hear of such a thing. The
+unfortunate Native, expressing no opinion, suffered dreadfully; not
+merely in his moral feelings, which were regularly fusilladed by the
+Major every hour in the day, and riddled through and through, but in
+his sensitiveness to bodily knocks and bumps, which was kept
+continually on the stretch. For six entire weeks after the bankruptcy,
+this miserable foreigner lived in a rainy season of boot-jacks and
+brushes.
 
-“I will come [[Home|home]] on the very day, Mama”
+Mrs Chick had three ideas upon the subject of the terrible reverse. The
+first was that she could not understand it. The second, that her
+brother had not made an effort. The third, that if she had been invited
+to dinner on the day of that first party, it never would have happened;
+and that she had said so, at the [[Time|time]].
 
-“Do so. I rely on that promise. Now, prepare to come with me, dear
-girl. You will find me downstairs when you are ready.”
+Nobody’s opinion stayed the misfortune, lightened it, or made it
+heavier. It was understood that the affairs of the [[house|House]] were to be
+wound up as they best could be; that Mr Dombey freely resigned
+everything he had, and asked for no favour from anyone. That any
+resumption of the business was out of the question, as he would listen
+to no friendly negotiation having that compromise in view; that he had
+relinquished every post of trust or distinction he had held, as a man
+respected among merchants; that he was dying, according to some; that
+he was going [[Melancholy|melancholy]] mad, according to others; that he was a broken
+man, according to all.
 
-Slowly and thoughtfully did Edith wander [[Alone|alone]] through the mansion of
-which she was so soon to be the lady: and little heed took she of all
-the elegance and splendour it began to display. The same indomitable
-haughtiness of [[Soul|soul]], the same proud scorn expressed in eye and lip, the
-same fierce [[Beauty|beauty]], only tamed by a sense of its own little worth, and
-of the little worth of everything around it, went through the grand
-saloons and halls, that had got loose among the shady trees, and raged
-and rent themselves. The mimic roses on the walls and floors were set
-round with sharp thorns, that tore her breast; in every scrap of gold
-so dazzling to the eye, she saw some hateful atom of her
-purchase-money; the broad high mirrors showed her, at full length, a
-woman with a noble quality yet dwelling in her [[Nature|nature]], who was too
-false to her better [[Self|self]], and too debased and lost, to save herself.
-She believed that all this was so plain, more or less, to all eyes,
-that she had no resource or power of [[Self|self]]-assertion but in [[Pride|pride]]: and
-with this [[Pride|pride]], which tortured her own heart [[Night|night]] and day, she fought
-her fate out, braved it, and defied it.
+The clerks dispersed after holding a little dinner of condolence among
+themselves, which was enlivened by comic singing, and went off
+admirably. Some took places abroad, and some engaged in other Houses at
+[[Home|home]]; some looked up relations in the country, for whom they suddenly
+remembered they had a particular affection; and some advertised for
+employment in the newspapers. Mr Perch [[Alone|alone]] remained of all the late
+establishment, sitting on his bracket looking at the accountants, or
+starting off it, to propitiate the head accountant, who was to get him
+into the [[Fire]] Office. The Counting [[house|House]] soon got to be dirty and
+neglected. The principal slipper and [[dogs]]’ collar seller, at the corner
+of the [[Court|court]], would have doubted the propriety of throwing up his
+forefinger to the brim of his hat, any more, if Mr Dombey had appeared
+there now; and the ticket porter, with his hands under his white apron,
+moralised good sound [[morality]] about [[Ambition|ambition]], which (he observed) was
+not, in his opinion, made to rhyme to perdition, for nothing.
 
-Was this the woman whom Florence—an [[Innocent|innocent]] girl, strong only in her
-earnestness and simple [[Truth|truth]]—could so impress and quell, that by her
-side she was another creature, with her tempest of passion hushed, and
-her very [[Pride|pride]] itself subdued? Was this the woman who now sat beside
-her in a carriage, with her arms entwined, and who, while she courted
-and entreated her to [[Love|love]] and trust her, drew her fair head to nestle
-on her breast, and would have laid down life to shield it from wrong or
-harm?
+Mr Morfin, the hazel-eyed bachelor, with the hair and whiskers
+sprinkled with grey, was perhaps the only person within the atmosphere
+of the [[house|House]]—its head, of course, excepted—who was heartily and deeply
+affected by the disaster that had befallen it. He had treated Mr Dombey
+with due respect and deference through many years, but he had never
+disguised his natural character, or meanly truckled to him, or pampered
+his master passion for the advancement of his own purposes. He had,
+therefore, no [[Self|self]]-disrespect to avenge; no long-tightened springs to
+release with a quick recoil. He worked early and late to unravel
+whatever was complicated or difficult in the records of the
+transactions of the [[house|House]]; was always in attendance to explain whatever
+required explanation; sat in his old room sometimes very late at [[Night|night]],
+studying points by his mastery of which he could spare Mr Dombey the
+[[Pain|pain]] of being personally referred to; and then would go [[Home|home]] to
+Islington, and calm his mind by producing the most dismal and forlorn
+sounds out of his violoncello before going to bed.
 
-Oh, Edith! it were [[Well|well]] to die, indeed, at such a [[Time|time]]! Better and
-happier far, perhaps, to die so, Edith, than to live on to the end!
+He was solacing himself with this melodious grumbler one evening, and,
+having been much dispirited by the proceedings of the day, was scraping
+consolation out of its deepest notes, when his landlady (who was
+fortunately deaf, and had no other consciousness of these performances
+than a sensation of something rumbling in her bones) announced a lady.
 
-The Honourable Mrs Skewton, who was thinking of anything rather than of
-such sentiments—for, like many genteel persons who have existed at
-various times, she set her face against [[Death|death]] altogether, and objected
-to the mention of any such low and levelling upstart—had borrowed a
-[[house]] in Brook Street, Grosvenor Square, from a stately relative (one
-of the Feenix brood), who was out of town, and who did not object to
-lending it, in the handsomest manner, for nuptial purposes, as the loan
-implied his final release and acquittance from all further loans and
-gifts to Mrs Skewton and her daughter. It being necessary for the
-credit of the family to make a handsome appearance at such a [[Time|time]], Mrs
-Skewton, with the assistance of an accommodating tradesman resident in
-the parish of Mary-le-bone, who lent out all sorts of articles to the
-nobility and gentry, from a service of plate to an army of footmen,
-clapped into this [[house]] a silver-headed butler (who was charged extra
-on that account, as having the appearance of an ancient family
-retainer), two very tall young men in livery, and a select staff of
-kitchen-servants; so that a legend arose, downstairs, that Withers the
-page, released at once from his numerous household duties, and from the
-propulsion of the wheeled-chair (inconsistent with the metropolis), had
-been several times observed to rub his eyes and pinch his limbs, as if
-he misdoubted his having overslept himself at the Leamington milkman’s,
-and being still in a celestial dream. A variety of requisites in plate
-and china being also conveyed to the same establishment from the same
-convenient source, with several miscellaneous articles, including a
-neat chariot and a pair of bays, Mrs Skewton cushioned herself on the
-principal sofa, in the [[Cleopatra]] attitude, and held her [[Court|court]] in fair
-state.
+“In mourning,” she said.
 
-“And how,” said Mrs Skewton, on the entrance of her daughter and her
-charge, “is my charming Florence? You must come and kiss me, Florence,
-if you please, my [[Love|love]].”
+The violoncello stopped immediately; and the performer, laying it on
+the sofa with great tenderness and care, made a sign that the lady was
+to come in. He followed directly, and met Harriet Carker on the stair.
 
-Florence was timidly stooping to pick out a place in the white part of
-Mrs Skewton’s face, when that lady presented her ear, and relieved her
-of her difficulty.
+“[[Alone]]!” he said, “and John here this morning! Is there anything the
+matter, my dear? But no,” he added, “your face tells quite another
+story.”
 
-“Edith, my dear,” said Mrs Skewton, “positively, I—stand a little more
-in the light, my sweetest Florence, for a moment.”
+“I am afraid it is a selfish revelation that you see there, then,” she
+answered.
 
-Florence blushingly complied.
+“It is a very pleasant one,” said he; “and, if selfish, a novelty too,
+worth seeing in you. But I don’t believe that.”
 
-“You don’t remember, dearest Edith,” said her mother, “what you were
-when you were about the same age as our exceedingly precious Florence,
-or a few years younger?”
+He had placed a chair for her by this [[Time|time]], and sat down opposite; the
+violoncello lying snugly on the sofa between them.
 
-“I have long forgotten, mother.”
+“You will not be surprised at my coming [[Alone|alone]], or at John’s not having
+told you I was coming,” said Harriet; “and you will believe that, when
+I tell you why I have come. May I do so now?”
 
-“For positively, my dear,” said Mrs Skewton, “I do think that I see a
-decided resemblance to what you were then, in our extremely fascinating
-young friend. And it shows,” said Mrs Skewton, in a lower voice, which
-conveyed her opinion that Florence was in a very unfinished state,
-“what cultivation will do.”
+“You can do nothing better.”
 
-“It does, indeed,” was Edith’s stern reply.
+“You were not busy?”
 
-Her mother eyed her sharply for a moment, and feeling herself on unsafe
-ground, said, as a diversion:
+He pointed to the violoncello lying on the sofa, and said “I have been,
+all day. Here’s my witness. I have been confiding all my cares to it. I
+wish I had none but my own to tell.”
 
-“My charming Florence, you must come and kiss me once more, if you
-please, my [[Love|love]].”
+“Is the [[house|House]] at an end?” said Harriet, earnestly.
 
-Florence complied, of course, and again imprinted her lips on Mrs
-Skewton’s ear.
+“Completely at an end.”
 
-“And you have heard, no [[Doubt|doubt]], my darling pet,” said Mrs Skewton,
-detaining her hand, “that your Papa, whom we all perfectly adore and
-dote upon, is to be married to my dearest Edith this day week.”
+“Will it never be resumed?”
 
-“I knew it would be very soon,” returned Florence, “but not exactly
-when.”
+“Never.”
 
-“My darling Edith,” urged her mother, gaily, “is it possible you have
-not told Florence?”
+The bright expression of her face was not overshadowed as her lips
+silently repeated the word. He seemed to observe this with some little
+involuntary surprise: and said again:
 
-“Why should I tell Florence?” she returned, so suddenly and harshly,
-that Florence could scarcely believe it was the same voice.
+“Never. You remember what I told you. It has been, all along,
+impossible to convince him; impossible to reason with him; sometimes,
+impossible even to approach him. The worst has happened; and the [[house|House]]
+has fallen, never to be built up any more.”

@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 2 (part 1)"
+title: "Our Mutual Friend — Chapter 5 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,140 +10,137 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_42/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_43/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_42/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_43/part_02">part 02 ›</a></div>
 </nav>
 
 
-Chapter 2
+Chapter 5
 
-A RESPECTED FRIEND IN A NEW ASPECT
+THE GOLDEN DUSTMAN FALLS INTO BAD COMPANY
 
 
-In the evening of this same foggy day when the yellow [[Window|window]]-blind of
-Pubsey and Co. was drawn down upon the day’s work, Riah the Jew once
-more came forth into Saint Mary Axe. But this [[Time|time]] he carried no bag,
-and was not bound on his master’s affairs. He passed over [[London]] Bridge,
-and returned to the Middlesex shore by that of Westminster, and so, ever
-wading through the fog, waded to the doorstep of the dolls’ dressmaker.
+Were [[Bella Wilfer]]’s bright and ready little wits at fault, or was the
+Golden Dustman passing through the furnace of proof and coming out
+dross? Ill news travels fast. We shall know full soon.
 
-Miss Wren expected him. He could see her through the [[Window|window]] by the light
-of her low [[Fire|fire]]—carefully banked up with damp cinders that it might
-last the longer and waste the less when she was out—sitting waiting
-for him in her bonnet. His tap at the glass roused her from the musing
-[[Solitude|solitude]] in which she sat, and she came to the door to open it; aiding
-her steps with a little crutch-stick.
+On that very [[Night|night]] of her return from the Happy Return, something
+chanced which Bella closely followed with her eyes and ears. There was
+an apartment at the side of the Boffin mansion, known as Mr Boffin’s
+room. Far less grand than the rest of the [[house]], it was far more
+comfortable, being pervaded by a certain air of homely snugness, which
+upholstering despotism had banished to that spot when it inexorably set
+its face against Mr Boffin’s appeals for [[Mercy|mercy]] in behalf of any other
+chamber. Thus, although a room of modest situation—for its windows gave
+on [[Silas Wegg]]’s old corner—and of no pretensions to velvet, satin, or
+gilding, it had got itself established in a domestic position analogous
+to that of an easy dressing-gown or pair of slippers; and whenever the
+family wanted to enjoy a particularly pleasant fireside evening, they
+enjoyed it, as an institution that must be, in Mr Boffin’s room.
 
-‘Good evening, godmother!’ said Miss [[Jenny Wren]].
+Mr and Mrs Boffin were reported sitting in this room, when Bella got
+back. Entering it, she found the Secretary there too; in official
+attendance it would appear, for he was standing with some papers in his
+hand by a table with shaded candles on it, at which Mr Boffin was seated
+thrown back in his easy chair.
 
-The old man laughed, and gave her his arm to lean on.
+‘You are busy, sir,’ said Bella, hesitating at the door.
 
-‘Won’t you come in and warm yourself, godmother?’ asked Miss [[Jenny Wren]].
+‘Not at all, my dear, not at all. You’re one of ourselves. We never
+make company of you. Come in, come in. Here’s the old lady in her usual
+place.’
 
-‘Not if you are ready, Cinderella, my dear.’
+Mrs Boffin adding her nod and smile of welcome to Mr Boffin’s words,
+Bella took her book to a chair in the fireside corner, by Mrs Boffin’s
+work-table. Mr Boffin’s station was on the opposite side.
 
-‘[[Well]]!’ exclaimed Miss Wren, delighted. ‘Now you ARE a clever old boy!
-If we gave prizes at this establishment (but we only keep blanks), you
-should have the first silver medal, for taking me up so quick.’ As she
-spake thus, Miss Wren removed the key of the [[house]]-door from the keyhole
-and put it in her pocket, and then bustlingly closed the door, and tried
-it as they both stood on the step. Satisfied that her dwelling was safe,
-she drew one hand through the old man’s arm and prepared to ply her
-crutch-stick with the other. But the key was an instrument of such
-gigantic proportions, that before they started Riah proposed to carry
-it.
+‘Now, Rokesmith,’ said the Golden Dustman, so sharply rapping the table
+to bespeak his attention as Bella turned the [[Leaves|leaves]] of her book, that
+she started; ‘where were we?’
 
-‘No, no, no! I’ll carry it myself,’ returned Miss Wren. ‘I’m awfully
-lopsided, you know, and stowed down in my pocket it’ll trim the [[Ship|ship]]. To
-let you into a secret, godmother, I wear my pocket on my high side, o’
-purpose.’
+‘You were saying, sir,’ returned the Secretary, with an air of some
+reluctance and a glance towards those others who were present, ‘that you
+considered the [[Time|time]] had come for fixing my salary.’
 
-With that they began their plodding through the fog.
+‘Don’t be above calling it wages, man,’ said Mr Boffin, testily. ‘What
+the deuce! I never talked of any salary when I was in service.’
 
-‘Yes, it was truly sharp of you, godmother,’ resumed Miss Wren with
-great approbation, ‘to understand me. But, you see, you ARE so like the
-fairy godmother in the bright little books! You look so unlike the rest
-of people, and so much as if you had changed yourself into that shape,
-just this moment, with some benevolent object. Boh!’ cried Miss Jenny,
-putting her face close to the old man’s. ‘I can see your features,
-godmother, behind the beard.’
+‘My wages,’ said the Secretary, correcting himself.
 
-‘Does the fancy go to my changing other objects too, Jenny?’
+‘Rokesmith, you are not proud, I [[Hope|hope]]?’ observed Mr Boffin, eyeing him
+askance.
 
-‘Ah! That it does! If you’d only borrow my stick and tap this piece of
-pavement—this dirty stone that my foot taps—it would start up a coach
-and six. I say! Let’s believe so!’
+‘I [[Hope|hope]] not, sir.’
 
-‘With all my heart,’ replied the good old man.
+‘Because I never was, when I was poor,’ said Mr Boffin. ‘[[Poverty]] and
+[[Pride|pride]] don’t go at all [[Well|well]] together. Mind that. How can they go [[Well|well]]
+together? Why it stands to reason. A man, being poor, has nothing to be
+proud of. It’s nonsense.’
 
-‘And I’ll tell you what I must ask you to do, godmother. I must ask you
-to be so kind as give my [[Child|child]] a tap, and change him altogether. O my
-[[Child|child]] has been such a bad, bad [[Child|child]] of late! It worries me nearly
-out of my wits. Not done a stroke of work these ten days. Has had the
-horrors, too, and fancied that four copper-coloured men in red wanted to
-throw him into a fiery furnace.’
+With a slight inclination of his head, and a look of some surprise,
+the Secretary seemed to assent by forming the syllables of the word
+‘nonsense’ on his lips.
 
-‘But that’s dangerous, Jenny.’
+‘Now, concerning these same wages,’ said Mr Boffin. ‘Sit down.’
 
-‘Dangerous, godmother? My [[Child|child]] is always dangerous, more or less. He
-might’—here the little creature glanced back over her shoulder at the
-sky—‘be setting the [[house]] on [[Fire|fire]] at this present moment. I don’t know
-who would have a [[Child|child]], for my part! It’s no use shaking him. I have
-shaken him till I have made myself giddy. “Why don’t you mind your
-Commandments and [[Honour|honour]] your parent, you naughty old boy?” I said to him
-all the [[Time|time]]. But he only whimpered and stared at me.’
+The Secretary sat down.
 
-‘What shall be changed, after him?’ asked Riah in a compassionately
-playful voice.
+‘Why didn’t you sit down before?’ asked Mr Boffin, distrustfully. ‘I
+[[Hope|hope]] that wasn’t [[Pride|pride]]? But about these wages. Now, I’ve gone into the
+matter, and I say two hundred a year. What do you think of it? Do you
+think it’s enough?’
 
-‘Upon my word, godmother, I am afraid I must be selfish next, and get
-you to set me right in the back and the legs. It’s a little thing to you
-with your power, godmother, but it’s a great deal to poor weak aching
-me.’
+‘Thank you. It is a fair proposal.’
 
-There was no querulous complaining in the words, but they were not the
-less touching for that.
+‘I don’t say, you know,’ Mr Boffin stipulated, ‘but what it may be more
+than enough. And I’ll tell you why, Rokesmith. A man of property, like
+me, is bound to consider the market-price. At first I didn’t enter into
+that as much as I might have done; but I’ve got acquainted with other
+men of property since, and I’ve got acquainted with the duties of
+property. I mustn’t go putting the market-price up, because money may
+happen not to be an object with me. A sheep is worth so much in the
+market, and I ought to give it and no more. A secretary is worth so much
+in the market, and I ought to give it and no more. However, I don’t mind
+stretching a point with you.’
 
-‘And then?’
+‘Mr Boffin, you are very good,’ replied the Secretary, with an effort.
 
-‘Yes, and then—YOU know, godmother. We’ll both jump up into the coach
-and six and go to Lizzie. This reminds me, godmother, to ask you a
-serious question. You are as wise as wise can be (having been brought
-up by the fairies), and you can tell me this: Is it better to have had a
-good thing and lost it, or never to have had it?’
+‘Then we put the figure,’ said Mr Boffin, ‘at two hundred a year.
+Then the figure’s disposed of. Now, there must be no misunderstanding
+regarding what I buy for two hundred a year. If I pay for a sheep, I buy
+it out and out. Similarly, if I pay for a secretary, I buy HIM out and
+out.’
 
-‘Explain, god-daughter.’
+‘In other words, you purchase my whole [[Time|time]]?’
 
-‘I feel so much more solitary and helpless without Lizzie now, than I
-used to feel before I knew her.’ ([[Tears]] were in her eyes as she said
-so.)
+‘Certainly I do. Look here,’ said Mr Boffin, ‘it ain’t that I want to
+occupy your whole [[Time|time]]; you can take up a book for a minute or two when
+you’ve nothing better to do, though I think you’ll a’most always find
+something useful to do. But I want to keep you in attendance. It’s
+convenient to have you at all times ready on the premises. Therefore,
+betwixt your breakfast and your supper,—on the premises I expect to
+find you.’
 
-‘Some beloved companionship fades out of most lives, my dear,’ said the
-Jew,—‘that of a wife, and a fair daughter, and a son of promise, has
-faded out of my own life—but the happiness was.’
+The Secretary bowed.
 
-‘Ah!’ said Miss Wren thoughtfully, by no means convinced, and chopping
-the exclamation with that sharp little hatchet of hers; ‘then I tell you
-what change I think you had better begin with, godmother. You had better
-change Is into Was and Was into Is, and keep them so.’
+‘In bygone days, when I was in service myself,’ said Mr Boffin, ‘I
+couldn’t go cutting about at my will and pleasure, and you won’t expect
+to go cutting about at your will and pleasure. You’ve rather got into
+a habit of that, lately; but perhaps it was for want of a right
+specification betwixt us. Now, let there be a right specification
+betwixt us, and let it be this. If you want leave, ask for it.’
 
-‘Would that suit your case? Would you not be always in [[Pain|pain]] then?’ asked
-the old man tenderly.
+Again the Secretary bowed. His manner was uneasy and astonished, and
+showed a sense of humiliation.
 
-‘Right!’ exclaimed Miss Wren with another chop. ‘You have changed me
-wiser, godmother.—Not,’ she added with the quaint hitch of her chin and
-eyes, ‘that you need be a very wonderful godmother to do that deed.’
+‘I’ll have a bell,’ said Mr Boffin, ‘hung from this room to yours,
+and when I want you, I’ll touch it. I don’t call to mind that I have
+anything more to say at the present moment.’
 
-Thus conversing, and having crossed Westminster Bridge, they traversed
-the ground that Riah had lately traversed, and new ground likewise; for,
-when they had recrossed the Thames by way of [[London]] Bridge, they struck
-down by the [[River|river]] and held their still foggier course that way.
+The Secretary [[Rose|rose]], gathered up his papers, and withdrew. Bella’s eyes
+followed him to the door, lighted on Mr Boffin complacently thrown back
+in his easy chair, and drooped over her book.
 
-But previously, as they were going along, Jenny twisted her venerable
-friend aside to a brilliantly-lighted toy-shop [[Window|window]], and said: ‘Now
-look at ’em! All my work!’
-
-This referred to a dazzling semicircle of dolls in all the colours of
-the rainbow, who were dressed for presentation at [[Court|court]], for going to
-balls, for going out driving, for going out on horseback, for going out
-walking, for going to get married, for going to help other dolls to get
-married, for all the gay events of life.
+‘I have let that chap, that young man of mine,’ said Mr Boffin, taking a
+trot up and down the room, ‘get above his work. It won’t do. I must have
+him down a peg. A man of property owes a duty to other men of property,
+and must look sharp after his inferiors.’

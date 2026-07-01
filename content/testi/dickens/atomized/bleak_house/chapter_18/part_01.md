@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 18 (part 1)"
+title: "Bleak House — Chapter 18 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -118,9 +118,3 @@ nose, which has no pimple on it. His reasoning seems defective!”
 “[[Well]],” said my guardian good-humouredly, “it’s pretty clear that
 whoever became security for those chairs and tables will have to pay
 for them.”
-
-“Exactly!” returned Mr. Skimpole. “That’s the crowning point of
-unreason in the business! I said to my landlord, ‘My good man, you
-are not aware that my excellent friend Jarndyce will have to pay for
-those things that you are sweeping off in that indelicate manner.
-Have you no consideration for HIS property?’ He hadn’t the least.”

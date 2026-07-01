@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 21 (part 3)"
+title: "Mansfield Park — Chapter 21 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -14,6 +14,19 @@ tags:
 </nav>
 
 
+[[Henry Crawford]] had destroyed her happiness, but he should not know that
+he had done it; he should not destroy her credit, her appearance, her
+prosperity, too. He should not have to think of her as pining in the
+retirement of Mansfield for _him_, rejecting Sotherton and [[London]],
+independence and splendour, for _his_ sake. Independence was more
+needful than ever; the want of it at Mansfield more sensibly felt. She
+was less and less able to endure the restraint which her father
+imposed. The liberty which his absence had given was now become
+absolutely necessary. She must escape from him and Mansfield as soon as
+possible, and find consolation in fortune and consequence, bustle and
+the world, for a wounded spirit. Her mind was quite determined, and
+varied not.
+
 To such feelings delay, even the delay of much preparation, would have
 been an evil, and Mr. Rushworth could hardly be more impatient for the
 [[Marriage|marriage]] than herself. In all the important preparations of the mind
@@ -21,7 +34,7 @@ she was complete: being prepared for matrimony by an hatred of [[Home|home]],
 restraint, and tranquillity; by the misery of disappointed affection,
 and contempt of the man she was to marry. The rest might wait. The
 preparations of new carriages and furniture might wait for [[London]] and
-[[spring]], when her own taste could have fairer play.
+[[Spring|spring]], when her own taste could have fairer play.
 
 The principals being all agreed in this respect, it soon appeared that
 a very few weeks would be sufficient for such arrangements as must

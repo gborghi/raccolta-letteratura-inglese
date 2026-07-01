@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 34 (part 3)"
+title: "Sense and Sensibility — Chapter 34 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_34/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_35/part_01">part 01 ›</a></div>
 </nav>
 
+
+considerately informing her, at the same [[Time|time]], that they were done by
+
+Miss Dashwood.
+
+
+
+“Hum”—said Mrs. Ferrars—“very pretty,”—and without regarding them at
 
 all, returned them to her daughter.
 

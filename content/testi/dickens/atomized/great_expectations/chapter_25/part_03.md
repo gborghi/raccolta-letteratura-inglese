@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 25 (part 3)"
+title: "Great Expectations — Chapter 25 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_25/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_26/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Is it your own, Mr. Wemmick?”
+
+“O yes,” said Wemmick, “I have got hold of it, a bit at a [[Time|time]]. It’s a
+freehold, by George!”
+
+“Is it indeed? I [[Hope|hope]] Mr. Jaggers admires it?”
 
 “Never seen it,” said Wemmick. “Never heard of it. Never seen the Aged.
 Never heard of him. No; the office is one thing, and private life is

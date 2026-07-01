@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 14 (part 5)"
+title: "Bleak House — Chapter 14 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,21 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_14/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_14/part_06">part 06 ›</a></div>
 </nav>
 
+
+“The airs the fellow gives himself!” said my informant, shaking her
+head at old Mr. Turveydrop with speechless indignation as he drew on
+his tight gloves, of course unconscious of the homage she was
+rendering. “He fully believes he is one of the aristocracy! And he is
+so condescending to the son he so egregiously deludes that you might
+suppose him the most virtuous of parents. Oh!” said the old lady,
+apostrophizing him with infinite vehemence. “I could bite you!”
+
+I could not help being amused, though I heard the old lady out with
+feelings of real concern. It was difficult to [[Doubt|doubt]] her with the
+father and son before me. What I might have thought of them without
+the old lady’s account, or what I might have thought of the old
+lady’s account without them, I cannot say. There was a fitness of
+things in the whole that carried conviction with it.
 
 My eyes were yet wandering, from young Mr. Turveydrop working so
 hard, to old Mr. Turveydrop deporting himself so beautifully, when
@@ -138,19 +153,3 @@ his little kit in his pocket—and with it his [[Desire|desire]] to stay a littl
 while with Caddy—and went away good-humouredly to his cold mutton
 and his school at Kensington, that made me scarcely less irate with
 his father than the censorious old lady.
-
-The father opened the room door for us and bowed us out in a manner,
-I must acknowledge, worthy of his shining original. In the same style
-he presently passed us on the other side of the street, on his way to
-the aristocratic part of the town, where he was going to show himself
-among the few other gentlemen left. For some moments, I was so lost
-in reconsidering what I had heard and seen in Newman Street that I
-was quite unable to talk to Caddy or even to fix my attention on what
-she said to me, especially when I began to inquire in my mind whether
-there were, or ever had been, any other gentlemen, not in the dancing
-profession, who lived and founded a reputation entirely on their
-deportment. This became so bewildering and suggested the possibility
-of so many Mr. Turveydrops that I said, “Esther, you must make up
-your mind to abandon this subject altogether and attend to Caddy.” I
-accordingly did so, and we chatted all the rest of the way to
-[[Lincoln]]’s Inn.

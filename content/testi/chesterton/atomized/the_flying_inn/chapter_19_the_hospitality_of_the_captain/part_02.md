@@ -14,6 +14,11 @@ tags:
 </nav>
 
 
+There was a long [[Silence|silence]], full of the same sense of submerged mirth in the mob. But the philanthropist had fallen into a naked frenzy in the sunlight, and shaking his fists aloft in a way unknown to all the English around him, he cried out:
+
+
+
+
 “Ach! but I know what you add! I know what you add! It is the Alcohol! And you have no sign and you shall laugh at a magistrate.”
 
 
@@ -95,13 +100,3 @@ As he spoke, he served out milk and rum at random; and still the Doctor had too 
 
 
 “You would undo all my works,” cried the Doctor, with sincere passion. “When I have built this town myself, when I have made it sober and healthful myself, when I am awake and about before anyone in the town myself, watching over its interests–you would ruin all to sell your barbaric and fundamentally beastly beer. And then you call me a goot friend. I am not a goot friend!”
-
-
-
-
-“That I can’t say,” growled Hugby, “but if it comes to that–aren’t you trying to sell–”
-
-
-
-
-A motor car drove up with a white explosion of [[Dust|dust]], and about six very dusty people got out of it. Even through the densest disguise of the swift motorist, Pump perceived in many of them the peculiar style and bodily carriage of the police. The most evident exception was a long and more slender figure, which, on removing its cap and goggles, disclosed the dark and drooping features of J. Leveson, Secretary. He walked across to the little, old millionaire, who instantly recognized him and shook hands. They confabulated for some little [[Time|time]], turning over some official documents. Dr. Meadows cleared his throat and said to the whole crowd.

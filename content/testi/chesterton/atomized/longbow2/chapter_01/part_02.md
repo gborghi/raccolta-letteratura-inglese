@@ -1,5 +1,5 @@
 ---
-title: "[[longbow2]] — Chapter 1 (part 2)"
+title: "longbow2 — Chapter 1 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -135,17 +135,3 @@ and his hair rather red, he was considered to have a certain fascination.
 and the world swerved into wilder possibilities, at that crucial
 moment when Dr. Hunter corrected himself and said, "What a fine day!"
 instead of "What a funny hat!"
-
-As to why he corrected himself, a true picture of what passed through
-his mind might sound rather fanciful in itself.  It would be less
-than explicit to say he did so because of a long grey car waiting
-outside the White Lodge.  It might not be a complete explanation
-to say it was due to a lady walking on stilts at a [[Garden|garden]] party. 
-Some obscurity might remain, even if we said that it had something
-to do with a soft shirt and a nickname; nevertheless all these
-things mingled in the medical gentleman's mind when he made his
-hurried decision.  Above all, it might or might not be sufficient
-explanation to say that Horace Hunter was a very ambitious
-young man, that the ring in his voice and the confidence in his
-manner came from a very simple resolution to rise in the world,
-and that the world in question was rather worldly.

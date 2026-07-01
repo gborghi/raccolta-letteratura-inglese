@@ -1,5 +1,5 @@
 ---
-title: "[[THE FALL OF ROBESPIERRE]] — Act II, Scene 1"
+title: "THE FALL OF ROBESPIERRE — Act II, Scene 1"
 author: "Coleridge"
 unitType: scene
 parentWork: "works/the-fall-of-robespierre-(coleridge)"

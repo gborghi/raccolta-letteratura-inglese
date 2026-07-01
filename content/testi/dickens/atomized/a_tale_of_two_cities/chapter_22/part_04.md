@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities — Chapter 15 (part 4)"
+title: "A Tale of Two Cities — Chapter 16 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-tale-of-two-cities-(dickens)"
@@ -10,113 +10,88 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/a-tale-of-two-cities-(dickens)">A Tale of Two Cities</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_22/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_23/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_22/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_24/part_01">part 01 ›</a></div>
 </nav>
 
 
-“What?” exclaimed the hungry man, staring. “Is it a good sign, that he
-wishes to see Royalty and Nobility?”
+[[Madame Defarge]] knitted steadily, but the intelligence had a palpable
+effect upon her husband. Do what he would, behind the little counter,
+as to the striking of a light and the lighting of his pipe, he was
+troubled, and his hand was not trustworthy. The spy would have been no
+spy if he had failed to see it, or to record it in his mind.
 
-“Jacques,” said Defarge; “judiciously show a cat milk, if you wish her
-to thirst for it. Judiciously show a dog his natural prey, if you wish
-him to bring it down one day.”
+Having made, at least, this one hit, whatever it might prove to be
+worth, and no customers coming in to help him to any other, Mr. Barsad
+paid for what he had drunk, and took his leave: taking occasion to say,
+in a genteel manner, before he departed, that he looked forward to the
+pleasure of seeing Monsieur and [[Madame Defarge]] again. For some minutes
+after he had emerged into the outer presence of Saint Antoine, the
+husband and wife remained exactly as he had left them, lest he should
+come back.
 
-Nothing more was said, and the mender of roads, being found already
-dozing on the topmost stair, was advised to lay himself down on the
-pallet-bed and take some rest. He needed no [[Persuasion|persuasion]], and was soon
-asleep.
+“Can it be true,” said Defarge, in a low voice, looking down at his wife
+as he stood smoking with his hand on the back of her chair: “what he has
+said of Ma’amselle Manette?”
 
-Worse quarters than Defarge’s wine-shop, could easily have been found
-in [[Paris]] for a provincial slave of that degree. Saving for a mysterious
-dread of madame by which he was constantly haunted, his life was very
-new and agreeable. But, madame sat all day at her counter, so expressly
-unconscious of him, and so particularly determined not to perceive that
-his being there had any connection with anything below the surface, that
-he shook in his wooden shoes whenever his eye lighted on her. For, he
-contended with himself that it was impossible to foresee what that lady
-might pretend next; and he felt assured that if she should take it
-into her brightly ornamented head to pretend that she had seen him do a
-murder and afterwards flay the victim, she would infallibly go through
-with it until the play was played out.
+“As he has said it,” returned madame, lifting her eyebrows a little, “it
+is probably false. But it may be true.”
 
-Therefore, when [[Sunday]] came, the mender of roads was not enchanted
-(though he said he was) to find that madame was to accompany monsieur
-and himself to Versailles. It was additionally disconcerting to have
-madame knitting all the way there, in a public conveyance; it was
-additionally disconcerting yet, to have madame in the crowd in the
-afternoon, still with her knitting in her hands as the crowd waited to
-see the carriage of the [[King]] and [[Queen]].
+“If it is--” Defarge began, and stopped.
 
-“You work hard, madame,” said a man near her.
+“If it is?” repeated his wife.
 
-“Yes,” answered [[Madame Defarge]]; “I have a good deal to do.”
+“--And if it does come, while we live to see it triumph--I [[Hope|hope]], for her
+sake, Destiny will keep her husband out of France.”
 
-“What do you make, madame?”
+“Her husband’s destiny,” said [[Madame Defarge]], with her usual composure,
+“will take him where he is to go, and will lead him to the end that is
+to end him. That is all I know.”
 
-“Many things.”
+“But it is very strange--now, at least, is it not very strange”--said
+Defarge, rather pleading with his wife to induce her to admit it,
+“that, after all our sympathy for Monsieur her father, and herself, her
+husband’s name should be proscribed under your hand at this moment, by
+the side of that infernal dog’s who has just left us?”
 
-“For instance--”
+“Stranger things than that will happen when it does come,” answered
+madame. “I have them both here, of a certainty; and they are both here
+for their merits; that is enough.”
 
-“For instance,” returned [[Madame Defarge]], composedly, “shrouds.”
+She rolled up her knitting when she had said those words, and presently
+took the [[Rose|rose]] out of the handkerchief that was wound about her head.
+Either Saint Antoine had an instinctive sense that the objectionable
+decoration was gone, or Saint Antoine was on the watch for its
+disappearance; howbeit, the Saint took [[Courage|courage]] to lounge in, very
+shortly afterwards, and the wine-shop recovered its habitual aspect.
 
-The man moved a little further away, as soon as he could, and the mender
-of roads fanned himself with his blue cap: feeling it mightily close
-and oppressive. If he needed a [[King]] and [[Queen]] to restore him, he was
-fortunate in having his remedy at hand; for, soon the large-faced [[King]]
-and the fair-faced [[Queen]] came in their golden coach, attended by the
-shining Bull’s Eye of their [[Court]], a glittering multitude of laughing
-ladies and fine lords; and in jewels and silks and powder and splendour
-and elegantly spurning figures and handsomely disdainful faces of both
-sexes, the mender of roads bathed himself, so much to his temporary
-intoxication, that he cried Long live the [[King]], Long live the [[Queen]],
-Long live everybody and everything! as if he had never heard of
-ubiquitous Jacques in his [[Time|time]]. Then, there were gardens, courtyards,
-terraces, fountains, green banks, more [[King]] and [[Queen]], more Bull’s Eye,
-more lords and ladies, more Long live they all! until he absolutely wept
-with sentiment. During the whole of this scene, which lasted some three
-hours, he had plenty of shouting and weeping and sentimental company,
-and throughout Defarge held him by the collar, as if to restrain him
-from flying at the objects of his brief devotion and tearing them to
-pieces.
+In the evening, at which season of all others Saint Antoine turned
+himself inside out, and sat on door-steps and [[Window|window]]-ledges, and came
+to the corners of vile streets and courts, for a breath of air, Madame
+Defarge with her work in her hand was accustomed to pass from place
+to place and from group to group: a Missionary--there were many like
+her--such as the world will do [[Well|well]] never to breed again. All the women
+knitted. They knitted worthless things; but, the mechanical work was a
+mechanical substitute for eating and drinking; the hands moved for the
+jaws and the digestive apparatus: if the bony fingers had been still,
+the stomachs would have been more famine-pinched.
 
-“Bravo!” said Defarge, clapping him on the back when it was over, like a
-patron; “you are a good boy!”
+But, as the fingers went, the eyes went, and the thoughts. And as Madame
+Defarge moved on from group to group, all three went quicker and fiercer
+among every little knot of women that she had spoken with, and left
+behind.
 
-The mender of roads was now coming to himself, and was mistrustful of
-having made a mistake in his late demonstrations; but no.
+Her husband smoked at his door, looking after her with admiration. “A
+great woman,” said he, “a strong woman, a grand woman, a frightfully
+grand woman!”
 
-“You are the fellow we want,” said Defarge, in his ear; “you make
-these fools believe that it will last for ever. Then, they are the more
-insolent, and it is the nearer ended.”
-
-“Hey!” cried the mender of roads, reflectively; “that’s true.”
-
-“These fools know nothing. While they despise your breath, and would
-stop it for ever and ever, in you or in a hundred like you rather than
-in one of their own horses or [[dogs]], they only know what your breath
-tells them. Let it deceive them, then, a little longer; it cannot
-deceive them too much.”
-
-[[Madame Defarge]] looked superciliously at the client, and nodded in
-confirmation.
-
-“As to you,” said she, “you would shout and shed [[Tears|tears]] for anything, if
-it made a show and a noise. Say! Would you not?”
-
-“Truly, madame, I think so. For the moment.”
-
-“If you were shown a great heap of dolls, and were set upon them to
-pluck them to pieces and despoil them for your own advantage, you would
-pick out the richest and gayest. Say! Would you not?”
-
-“Truly yes, madame.”
-
-“Yes. And if you were shown a flock of [[Birds|birds]], unable to fly, and were
-set upon them to strip them of their feathers for your own advantage,
-you would set upon the [[Birds|birds]] of the finest feathers; would you not?”
-
-“It is true, madame.”
-
-“You have seen both dolls and [[Birds|birds]] to-day,” said [[Madame Defarge]], with
-a wave of her hand towards the place where they had last been apparent;
-“now, go [[Home|home]]!”
+Darkness closed around, and then came the ringing of church [[Bells|bells]] and
+the distant beating of the military drums in the Palace Courtyard, as
+the women sat knitting, knitting. Darkness encompassed them. Another
+darkness was closing in as surely, when the church [[Bells|bells]], then ringing
+pleasantly in many an airy steeple over France, should be melted into
+thundering cannon; when the military drums should be beating to drown a
+wretched voice, that [[Night|night]] all potent as the voice of Power and Plenty,
+[[Freedom]] and Life. So much was closing in about the women who sat
+knitting, knitting, that they their very selves were closing in around
+a structure yet unbuilt, where they were to sit knitting, knitting,
+counting dropping heads.

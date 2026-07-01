@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 52 (part 4)"
+title: "Bleak House — Chapter 52 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,21 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_52/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_53/part_01">part 01 ›</a></div>
 </nav>
 
+
+“We [[Hope|hope]] you will think better of it, Mr. George,” said I, “and we
+shall come to see you again, trusting to find you more reasonable.”
+
+“More grateful, Miss Summerson, you can’t find me,” he returned.
+
+“But more persuadable we can, I [[Hope|hope]],” said I. “And let me entreat
+you to consider that the clearing up of this mystery and the
+discovery of the real perpetrator of this deed may be of the last
+importance to others besides yourself.”
+
+He heard me respectfully but without much heeding these words, which
+I spoke a little turned from him, already on my way to the door; he
+was observing (this they afterwards told me) my height and figure,
+which seemed to catch his attention all at once.
 
 “’Tis curious,” said he. “And yet I thought so at the [[Time|time]]!”
 

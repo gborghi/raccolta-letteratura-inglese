@@ -1,5 +1,5 @@
 ---
-title: "The Haunted Man and the [[Ghost]]'s Bargain — Chapter 2 (part 5)"
+title: "The Haunted Man and the Ghost's Bargain — Chapter 2 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-haunted-man-and-the-ghost's-bargain-(dickens)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_02/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_02/part_06">part 06 ›</a></div>
 </nav>
 
+
+“Not quite,” said Mr. Tetterby, “as yet.”
+
+“[[Well]]! I’ll tell you the whole [[Truth|truth]],” pursued his wife, penitently,
+“and then perhaps you will. I felt all this, so much, when I was
+trudging about in the cold, and when I saw a lot of other calculating
+faces and large baskets trudging about, too, that I began to think
+whether I mightn’t have done better, and been happier, if—I—hadn’t—” the
+wedding-ring went round again, and Mrs. Tetterby shook her downcast head
+as she turned it.
 
 “I see,” said her husband quietly; “if you hadn’t married at all, or if
 you had married somebody else?”
@@ -138,17 +148,3 @@ At length he said, “I’ll light you, sir, if you’ll follow me.”
 “No,” replied the Chemist, “I don’t wish to be attended, or announced to
 him. He does not expect me. I would rather go [[Alone|alone]]. Please to give me
 the light, if you can spare it, and I’ll find the way.”
-
-In the quickness of his expression of this [[Desire|desire]], and in taking the
-candle from the newsman, he touched him on the breast. Withdrawing his
-hand hastily, almost as though he had wounded him by accident (for he did
-not know in what part of himself his new power resided, or how it was
-communicated, or how the manner of its reception varied in different
-persons), he turned and ascended the stair.
-
-But when he reached the top, he stopped and looked down. The wife was
-standing in the same place, twisting her ring round and round upon her
-finger. The husband, with his head bent forward on his breast, was
-musing heavily and sullenly. The children, still clustering about the
-mother, gazed timidly after the visitor, and nestled together when they
-saw him looking down.

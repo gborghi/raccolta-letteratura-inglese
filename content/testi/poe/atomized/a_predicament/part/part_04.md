@@ -1,5 +1,5 @@
 ---
-title: "[[A Predicament]] (part 4)"
+title: "A Predicament (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/a-predicament-(poe)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/a_predicament/part/part_03">‹ part 03</a><span></span></div>
 </nav>
 
+
+      much as the insolent air of independence and contempt with which
+
+      it regarded me after it was out. There it lay in the gutter just
+
+      under my nose, and the airs it gave itself would have been
+
+      ridiculous had they not been disgusting. Such a winking and
+
+      blinking were never before seen. This behavior on the part of my
+
+      eye in the gutter was not only irritating on account of its
+
+      manifest insolence and shameful ingratitude, but was also
 
       exceedingly inconvenient on account of the sympathy which always
 

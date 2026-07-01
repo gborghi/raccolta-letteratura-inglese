@@ -193,7 +193,3 @@ CHAPTER 6
       vessel which lies upon the [[Water|water]], and, being thus prevented from
 
       regaining her equilibrium, as she would otherwise necessarily do,
-
-      she is certain to fill in a few seconds and go down. It is not
-
-      too much to say that at least one-half of the instances in which

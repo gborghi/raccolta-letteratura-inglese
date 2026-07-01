@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 43"
+title: "Nicholas Nickleby — Chapter 43"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -364,7 +364,7 @@ place in all the world for coincidences as [[London]] is!’
 air. ‘[[Well]], but let us know. If there is any better place for such
 things, where is it? Is it in Europe? No, that it isn’t. Is it in Asia?
 Why, of course it’s not. Is it in Africa? Not a bit of it. Is it in
-[[America]]? YOU know better than that, at all events. [[Well]], then,’ said
+[[america|America]]? YOU know better than that, at all events. [[Well]], then,’ said
 Tim, folding his arms resolutely, ‘where is it?’
 
 ‘I was not about to dispute the point, Tim,’ said young Cheeryble,

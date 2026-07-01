@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 47 (part 4)"
+title: "The Tenant of Wildfell Hall — Chapter 47 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,50 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_47/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_47/part_05">part 05 ›</a></div>
 </nav>
 
+
+“Come here, [[Arthur]],” said the latter, extending his hand towards him.
+
+The [[Child|child]] went, and timidly touched that burning hand, but almost
+
+started in alarm, when his father suddenly clutched his arm and drew
+
+him nearer to his side.
+
+
+
+“Do you know me?” asked Mr. Huntingdon, intently perusing his features.
+
+
+
+“Yes.”
+
+
+
+“Who am I?”
+
+
+
+“Papa.”
+
+
+
+“Are you glad to see me?”
+
+
+
+“Yes.”
+
+
+
+“You’re _not!_” replied the disappointed parent, relaxing his hold, and
+
+darting a vindictive glance at me.
+
+
+
+[[Arthur]], thus released, crept back to me and put his hand in mine. His
+
+father swore I had made the [[Child|child]] hate him, and abused and cursed me
 
 bitterly. The instant he began I sent our son out of the room; and when
 
@@ -208,7 +252,7 @@ get better if I stuck to his regimen and prescriptions.”
 
 
 
-“I [[Hope|hope]] you may, [[arthur|Arthur]]; but neither the doctor nor I can speak with
+“I [[Hope|hope]] you may, [[Arthur]]; but neither the doctor nor I can speak with
 
 certainty in such a case; there is internal injury, and it is difficult
 
@@ -233,35 +277,3 @@ you very much?”
 
 
 “It’s just the only thing I can’t bear to think of; so if you’ve any—”
-
-
-
-“But it must come some [[Time|time]],” interrupted I, “and if it be years hence,
-
-it will as certainly overtake you as if it came to-day,—and no [[Doubt|doubt]] be
-
-as unwelcome then as now, unless you—”
-
-
-
-“Oh, hang it! don’t torment me with your preachments now, unless you
-
-want to kill me outright. I can’t stand it, I tell you. I’ve sufferings
-
-enough without that. If you think there’s danger, save me from it; and
-
-then, in gratitude, I’ll hear whatever you like to say.”
-
-
-
-I accordingly dropped the unwelcome topic. And now, Frederick, I think
-
-I may bring my letter to a close. From these details you may form your
-
-own judgment of the state of my patient, and of my own position and
-
-future prospects. Let me hear from you soon, and I will write again to
-
-tell you how we get on; but now that my presence is tolerated, and even
-
-required, in the sick-room, I shall have but little [[Time|time]] to spare

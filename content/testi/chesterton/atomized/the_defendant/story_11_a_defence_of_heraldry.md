@@ -16,7 +16,6 @@ tags:
 
 A DEFENCE OF HERALDRY
 
-
 The modern view of heraldry is pretty accurately represented by the
 words of the famous barrister who, after [[Cross|cross]]-examining for some [[Time|time]] a
 venerable dignitary of Heralds' College, summed up his results in the
@@ -54,7 +53,7 @@ everything that is pictorial suggests, without naming or defining. There
 is a [[Road|road]] from the eye to the heart that does not go through the
 intellect. Men do not quarrel about the meaning of sunsets; they never
 dispute that the hawthorn says the best and wittiest thing about the
-[[Spring|spring]].
+[[spring]].
 
 Thus in the old aristocratic days there existed this vast pictorial
 symbolism of all the colours and degrees of aristocracy. When the great
@@ -126,6 +125,5 @@ blossom, as aristocracy blossomed, into symbolic colours and shapes. We
 shall never make anything of [[democracy]] until we make fools of ourselves.
 For if a man really cannot make a [[Fool|fool]] of himself, we may be quite
 certain that the effort is superfluous.
-
 
        *       *       *       *       *

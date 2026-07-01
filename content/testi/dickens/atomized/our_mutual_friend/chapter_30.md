@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 6"
+title: "Our Mutual Friend — Chapter 8"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,645 +14,750 @@ tags:
 </nav>
 
 
-Chapter 6
-
-A [[Riddle|RIDDLE]] WITHOUT AN ANSWER
+Chapter 8
+
+IN WHICH AN [[Innocent|INNOCENT]] ELOPEMENT OCCURS
+
+
+The minion of fortune and the worm of the hour, or in less cutting
+language, [[Nicodemus Boffin]], Esquire, the Golden Dustman, had become
+as much at [[Home|home]] in his eminently aristocratic family mansion as he
+was likely ever to be. He could not but feel that, like an eminently
+aristocratic family [[cheese]], it was much too large for his wants, and
+bred an infinite amount of parasites; but he was content to regard this
+drawback on his property as a sort of perpetual Legacy Duty. He felt the
+more resigned to it, forasmuch as Mrs Boffin enjoyed herself completely,
+and Miss Bella was delighted.
+
+That young lady was, no [[Doubt|doubt]], an acquisition to the Boffins. She
+was far too pretty to be unattractive anywhere, and far too quick of
+perception to be below the tone of her new career. Whether it improved
+her heart might be a matter of taste that was open to question; but as
+touching another matter of taste, its improvement of her appearance and
+manner, there could be no question whatever.
+
+And thus it soon came about that Miss Bella began to set Mrs Boffin
+right; and even further, that Miss Bella began to feel ill at ease, and
+as it were responsible, when she saw Mrs Boffin going wrong. Not that so
+sweet a disposition and so sound a [[Nature|nature]] could ever go very wrong even
+among the great visiting authorities who agreed that the Boffins were
+‘charmingly vulgar’ (which for certain was not their own case in saying
+so), but that when she made a slip on the social ice on which all the
+children of Podsnappery, with genteel souls to be saved, are required to
+skate in circles, or to slide in long rows, she inevitably tripped Miss
+Bella up (so that young lady felt), and caused her to experience great
+confusion under the glances of the more skilful performers engaged in
+those ice-exercises.
+
+At Miss Bella’s [[Time|time]] of life it was not to be expected that she should
+examine herself very closely on the congruity or stability of her
+position in Mr Boffin’s [[house]]. And as she had never been sparing of
+complaints of her old [[Home|home]] when she had no other to compare it with,
+so there was no novelty of ingratitude or disdain in her very much
+preferring her new one.
+
+‘An invaluable man is Rokesmith,’ said Mr Boffin, after some two or
+three months. ‘But I can’t quite make him out.’
+
+Neither could Bella, so she found the subject rather interesting.
+
+‘He takes more care of my affairs, morning, [[Noon|noon]], and [[Night|night]],’ said Mr
+Boffin, ‘than fifty other men put together either could or would; and
+yet he has ways of his own that are like tying a scaffolding-pole right
+across the [[Road|road]], and bringing me up short when I am almost a-walking arm
+in arm with him.’
+
+‘May I ask how so, sir?’ inquired Bella.
+
+‘[[Well]], my dear,’ said Mr Boffin, ‘he won’t meet any company here, but
+you. When we have visitors, I should wish him to have his regular place
+at the table like ourselves; but no, he won’t take it.’
 
+‘If he considers himself above it,’ said Miss Bella, with an airy toss
+of her head, ‘I should leave him [[Alone|alone]].’
 
-Again Mr Mortimer Lightwood and Mr [[Eugene Wrayburn]] sat together in the
-Temple. This evening, however, they were not together in the place of
-business of the eminent solicitor, but in another dismal set of
-chambers facing it on the same second-floor; on whose dungeon-like black
-outer-door appeared the legend:
+‘It ain’t that, my dear,’ replied Mr Boffin, thinking it over. ‘He don’t
+consider himself above it.’
 
-		PRIVATE
+‘Perhaps he considers himself beneath it,’ suggested Bella. ‘If so, he
+ought to know best.’
 
-		MR [[Eugene Wrayburn|EUGENE WRAYBURN]]
+‘No, my dear; nor it ain’t that, neither. No,’ repeated Mr Boffin, with
+a shake of his head, after again thinking it over; ‘Rokesmith’s a modest
+man, but he don’t consider himself beneath it.’
 
-		MR MORTIMER LIGHTWOOD
+‘Then what does he consider, sir?’ asked Bella.
+
+‘Dashed if I know!’ said Mr Boffin. ‘It seemed at first as if it
+was only Lightwood that he objected to meet. And now it seems to be
+everybody, except you.’
+
+Oho! thought Miss Bella. ‘In—deed! That’s it, is it!’ For Mr Mortimer
+Lightwood had dined there two or three times, and she had met him
+elsewhere, and he had shown her some attention. ‘Rather cool in a
+Secretary—and Pa’s lodger—to make me the subject of his [[Jealousy|jealousy]]!’
+
+That Pa’s daughter should be so contemptuous of Pa’s lodger was odd;
+but there were odder anomalies than that in the mind of the spoilt girl:
+spoilt first by [[Poverty|poverty]], and then by wealth. Be it this [[history]]’s part,
+however, to leave them to unravel themselves.
+
+‘A little too much, I think,’ Miss Bella reflected scornfully, ‘to
+have Pa’s lodger laying claim to me, and keeping eligible people off!
+A little too much, indeed, to have the opportunities opened to me by Mr
+and Mrs Boffin, appropriated by a mere Secretary and Pa’s lodger!’
+
+Yet it was not so very long ago that Bella had been fluttered by the
+discovery that this same Secretary and lodger seem to like her. Ah! but
+the eminently aristocratic mansion and Mrs Boffin’s dressmaker had not
+come into play then.
+
+In spite of his seemingly retiring manners a very intrusive person, this
+Secretary and lodger, in Miss Bella’s opinion. Always a light in his
+office-room when we came [[Home|home]] from the play or Opera, and he always at
+the carriage-door to hand us out. Always a provoking radiance too on
+Mrs Boffin’s face, and an abominably cheerful reception of him, as if it
+were possible seriously to approve what the man had in his mind!
 
-		(Mr Lightwood’s Offices opposite.)
+‘You never charge me, Miss Wilfer,’ said the Secretary, encountering her
+by chance [[Alone|alone]] in the great drawing-room, ‘with commissions for [[Home|home]].
+I shall always be happy to execute any commands you may have in that
+direction.’
 
-Appearances indicated that this establishment was a very recent
-institution. The white letters of the [[Inscription|inscription]] were extremely white
-and extremely strong to the sense of smell, the complexion of the
-tables and chairs was (like Lady Tippins’s) a little too blooming to
-be believed in, and the carpets and floorcloth seemed to rush at the
-beholder’s face in the unusual prominency of their patterns. But the
-Temple, accustomed to tone down both the still life and the human life
-that has much to do with it, would soon get the better of all that.
+‘Pray what may you mean, Mr Rokesmith?’ inquired Miss Bella, with
+languidly drooping eyelids.
 
-‘[[Well]]!’ said Eugene, on one side of the [[Fire|fire]], ‘I feel tolerably
-comfortable. I [[Hope|hope]] the upholsterer may do the same.’
-
-‘Why shouldn’t he?’ asked Lightwood, from the other side of the [[Fire|fire]].
+‘By [[Home|home]]? I mean your father’s [[house]] at Holloway.’
 
-‘To be sure,’ pursued Eugene, reflecting, ‘he is not in the secret of
-our pecuniary affairs, so perhaps he may be in an easy frame of mind.’
+She coloured under the retort—so skilfully thrust, that the words
+seemed to be merely a plain answer, given in plain good [[Faith|faith]]—and said,
+rather more emphatically and sharply:
 
-‘We shall pay him,’ said Mortimer.
+‘What commissions and commands are you speaking of?’
 
-‘Shall we, really?’ returned Eugene, indolently surprised. ‘You don’t
-say so!’
+‘Only little words of remembrance as I assume you sent somehow or
+other,’ replied the Secretary with his former air. ‘It would be a
+pleasure to me if you would make me the bearer of them. As you know, I
+come and go between the two houses every day.’
 
-‘I mean to pay him, Eugene, for my part,’ said Mortimer, in a slightly
-injured tone.
+‘You needn’t remind me of that, sir.’
 
-‘Ah! I mean to pay him too,’ retorted Eugene. ‘But then I mean so much
-that I—that I don’t mean.’
+She was too quick in this petulant sally against ‘Pa’s lodger’; and she
+felt that she had been so when she met his quiet look.
 
-‘Don’t mean?’
+‘They don’t send many—what was your expression?—words of remembrance
+to me,’ said Bella, making haste to take refuge in ill-usage.
 
-‘So much that I only mean and shall always only mean and nothing more,
-my dear Mortimer. It’s the same thing.’
+‘They frequently ask me about you, and I give them such slight
+intelligence as I can.’
 
-His friend, lying back in his easy chair, watched him lying back in his
-easy chair, as he stretched out his legs on the hearth-rug, and said,
-with the amused look that [[Eugene Wrayburn]] could always awaken in him
-without seeming to try or care:
+‘I [[Hope|hope]] it’s truly given,’ exclaimed Bella.
 
-‘Anyhow, your vagaries have increased the bill.’
+‘I [[Hope|hope]] you cannot [[Doubt|doubt]] it, for it would be very much against you, if
+you could.’
 
-‘Calls the domestic virtues vagaries!’ exclaimed Eugene, raising his
-eyes to the ceiling.
+‘No, I do not [[Doubt|doubt]] it. I deserve the reproach, which is very just
+indeed. I beg your pardon, Mr Rokesmith.’
 
-‘This very complete little kitchen of ours,’ said Mortimer, ‘in which
-nothing will ever be cooked—’
+‘I should beg you not to do so, but that it shows you to such admirable
+advantage,’ he replied with earnestness. ‘Forgive me; I could not help
+saying that. To return to what I have digressed from, let me add that
+perhaps they think I report them to you, deliver little messages, and
+the like. But I forbear to trouble you, as you never ask me.’
 
-‘My dear, dear Mortimer,’ returned his friend, lazily lifting his head
-a little to look at him, ‘how often have I pointed out to you that its
-moral influence is the important thing?’
+‘I am going, sir,’ said Bella, looking at him as if he had reproved her,
+‘to see them tomorrow.’
 
-‘Its moral influence on this fellow!’ exclaimed Lightwood, laughing.
-
-‘Do me the favour,’ said Eugene, getting out of his chair with much
-gravity, ‘to come and inspect that feature of our establishment which
-you rashly disparage.’ With that, taking up a candle, he conducted
-his chum into the fourth room of the set of chambers—a little narrow
-room—which was very completely and neatly fitted as a kitchen. ‘See!’
-said Eugene, ‘miniature flour-barrel, [[rolling]]-pin, spice-box, shelf of
-brown jars, chopping-board, coffee-mill, dresser elegantly furnished
-with crockery, saucepans and pans, roasting jack, a charming kettle, an
-armoury of dish-covers. The moral influence of these objects, in forming
-the domestic virtues, may have an immense influence upon me; not upon
-you, for you are a hopeless case, but upon me. In fact, I have an idea
-that I feel the domestic virtues already forming. Do me the favour to
-step into my bedroom. Secretaire, you see, and abstruse set of solid
-mahogany pigeon-holes, one for every letter of the alphabet. To what use
-do I devote them? I receive a bill—say from [[Jones]]. I docket it neatly
-at the secretaire, [[Jones|JONES]], and I put it into pigeonhole J. It’s the next
-thing to a receipt and is quite as satisfactory to ME. And I very much
-wish, Mortimer,’ sitting on his bed, with the air of a philosopher
-lecturing a disciple, ‘that my example might induce YOU to cultivate
-habits of punctuality and method; and, by means of the moral influences
-with which I have surrounded you, to encourage the formation of the
-domestic virtues.’
-
-Mortimer laughed again, with his usual commentaries of ‘How CAN you be
-so ridiculous, Eugene!’ and ‘What an absurd fellow you are!’ but when
-his laugh was out, there was something serious, if not anxious, in his
-face. Despite that pernicious assumption of lassitude and indifference,
-which had become his second [[Nature|nature]], he was strongly attached to his
-friend. He had founded himself upon Eugene when they were yet boys at
-school; and at this hour imitated him no less, admired him no less,
-loved him no less, than in those departed days.
+‘Is that,’ he asked, hesitating, ‘said to me, or to them?’
 
-‘Eugene,’ said he, ‘if I could find you in earnest for a minute, I would
-try to say an earnest word to you.’
+‘To which you please.’
 
-‘An earnest word?’ repeated Eugene. ‘The moral influences are beginning
-to work. Say on.’
+‘To both? Shall I make it a message?’
 
-‘[[Well]], I will,’ returned the other, ‘though you are not earnest yet.’
+‘You can if you like, Mr Rokesmith. Message or no message, I am going to
+see them tomorrow.’
 
-‘In this [[Desire|desire]] for earnestness,’ murmured Eugene, with the air of one
-who was meditating deeply, ‘I trace the happy influences of the little
-flour-barrel and the coffee-mill. Gratifying.’
+‘Then I will tell them so.’
 
-‘Eugene,’ resumed Mortimer, disregarding the light interruption, and
-laying a hand upon Eugene’s shoulder, as he, Mortimer, stood before him
-seated on his bed, ‘you are withholding something from me.’
+He lingered a moment, as though to give her the opportunity of
+prolonging the conversation if she wished. As she remained silent, he
+left her. Two incidents of the little interview were felt by Miss Bella
+herself, when [[Alone|alone]] again, to be very curious. The first was, that he
+unquestionably left her with a penitent air upon her, and a penitent
+feeling in her heart. The second was, that she had not an intention or
+a thought of going [[Home|home]], until she had announced it to him as a settled
+design.
 
-Eugene looked at him, but said nothing.
+‘What can I mean by it, or what can he mean by it?’ was her mental
+inquiry: ‘He has no right to any power over me, and how do I come to
+mind him when I don’t care for him?’
 
-‘All this past [[Summer|summer]], you have been withholding something from me.
-Before we entered on our boating vacation, you were as bent upon it as I
-have seen you upon anything since we first rowed together. But you cared
-very little for it when it came, often found it a tie and a drag upon
-you, and were constantly away. Now it was [[Well|well]] enough half-a-dozen
-times, a dozen times, twenty times, to say to me in your own odd manner,
-which I know so [[Well|well]] and like so much, that your disappearances were
-precautions against our boring one another; but of course after a short
-while I began to know that they covered something. I don’t ask what it
-is, as you have not told me; but the fact is so. Say, is it not?’
-
-‘I give you my word of [[Honour|honour]], Mortimer,’ returned Eugene, after a
-serious pause of a few moments, ‘that I don’t know.’
-
-‘Don’t know, Eugene?’
-
-‘Upon my [[Soul|soul]], don’t know. I know less about myself than about most
-people in the world, and I don’t know.’
-
-‘You have some design in your mind?’
-
-‘Have I? I don’t think I have.’
-
-‘At any rate, you have some subject of interest there which used not to
-be there?’
-
-‘I really can’t say,’ replied Eugene, shaking his head blankly, after
-pausing again to reconsider. ‘At times I have thought yes; at other
-times I have thought no. Now, I have been inclined to pursue such a
-subject; now I have felt that it was absurd, and that it tired and
-embarrassed me. Absolutely, I can’t say. Frankly and faithfully, I would
-if I could.’
+Mrs Boffin, insisting that Bella should make tomorrow’s expedition
+in the chariot, she went [[Home|home]] in great grandeur. Mrs Wilfer and Miss
+[[Lavinia]] had speculated much on the probabilities and improbabilities of
+her coming in this gorgeous state, and, on beholding the chariot from
+the [[Window|window]] at which they were secreted to look out for it, agreed
+that it must be detained at the door as long as possible, for the
+mortification and confusion of the neighbours. Then they repaired to
+the usual family room, to receive Miss Bella with a becoming show of
+indifference.
 
-So replying, he clapped a hand, in his turn, on his friend’s shoulder,
-as he [[Rose|rose]] from his seat upon the bed, and said:
-
-‘You must take your friend as he is. You know what I am, my dear
-Mortimer. You know how dreadfully susceptible I am to boredom. You know
-that when I became enough of a man to find myself an embodied conundrum,
-I bored myself to the last degree by trying to find out what I meant.
-You know that at length I gave it up, and declined to guess any more.
-Then how can I possibly give you the answer that I have not discovered?
-The old nursery form runs, “[[Riddle]]-me-[[Riddle|riddle]]-me-ree, p’raps you can’t
-tell me what this may be?” My reply runs, “No. Upon my life, I can’t.”’
-
-So much of what was fantastically true to his own knowledge of this
-utterly careless Eugene, mingled with the answer, that Mortimer could
-not receive it as a mere evasion. Besides, it was given with an engaging
-air of openness, and of special exemption of the one friend he valued,
-from his reckless indifference.
-
-‘Come, dear boy!’ said Eugene. ‘Let us try the effect of smoking. If it
-enlightens me at all on this question, I will impart unreservedly.’
-
-They returned to the room they had come from, and, finding it heated,
-opened a [[Window|window]]. Having lighted their cigars, they leaned out of this
-[[Window|window]], smoking, and looking down at the moonlight, as it shone into the
-[[Court|court]] below.
-
-‘No enlightenment,’ resumed Eugene, after certain minutes of [[Silence|silence]]. ‘I
-feel sincerely apologetic, my dear Mortimer, but nothing comes.’
-
-‘If nothing comes,’ returned Mortimer, ‘nothing can come from it. So
-I shall [[Hope|hope]] that this may hold good throughout, and that there may be
-nothing on foot. Nothing injurious to you, Eugene, or—’
-
-Eugene stayed him for a moment with his hand on his arm, while he took a
-piece of earth from an old flowerpot on the [[Window|window]]-sill and dexterously
-shot it at a little point of light opposite; having done which to his
-satisfaction, he said, ‘Or?’
-
-‘Or injurious to any one else.’
-
-‘How,’ said Eugene, taking another little piece of earth, and shooting
-it with great precision at the former mark, ‘how injurious to any one
-else?’
-
-‘I don’t know.’
-
-‘And,’ said Eugene, taking, as he said the word, another shot, ‘to whom
-else?’
-
-‘I don’t know.’
-
-Checking himself with another piece of earth in his hand, Eugene looked
-at his friend inquiringly and a little suspiciously. There was no
-concealed or half-expressed meaning in his face.
-
-‘Two belated wanderers in the mazes of the law,’ said Eugene, attracted
-by the sound of footsteps, and glancing down as he spoke, ‘stray into
-the [[Court|court]]. They examine the door-posts of number one, seeking the name
-they want. Not finding it at number one, they come to number two. On the
-hat of wanderer number two, the shorter one, I drop this pellet. Hitting
-him on the hat, I smoke serenely, and become absorbed in contemplation
-of the sky.’
-
-Both the wanderers looked up towards the [[Window|window]]; but, after
-interchanging a mutter or two, soon applied themselves to the door-posts
-below. There they seemed to discover what they wanted, for they
-disappeared from view by entering at the doorway. ‘When they emerge,’
-said Eugene, ‘you shall see me bring them both down’; and so prepared
-two pellets for the purpose.
-
-He had not reckoned on their seeking his name, or Lightwood’s. But
-either the one or the other would seem to be in question, for now there
-came a knock at the door. ‘I am on duty to-[[Night|night]],’ said Mortimer, ‘stay
-you where you are, Eugene.’ Requiring no [[Persuasion|persuasion]], he stayed there,
-smoking quietly, and not at all curious to know who knocked, until
-Mortimer spoke to him from within the room, and touched him. Then,
-drawing in his head, he found the visitors to be young Charley Hexam
-and the schoolmaster; both standing facing him, and both recognized at a
-glance.
-
-‘You recollect this young fellow, Eugene?’ said Mortimer.
-
-‘Let me look at him,’ returned Wrayburn, coolly. ‘Oh, yes, yes. I
-recollect him!’
-
-He had not been about to repeat that former action of taking him by the
-chin, but the boy had suspected him of it, and had thrown up his arm
-with an angry start. Laughingly, Wrayburn looked to Lightwood for an
-explanation of this odd visit.
-
-‘He says he has something to say.’
-
-‘Surely it must be to you, Mortimer.’
-
-‘So I thought, but he says no. He says it is to you.’
-
-‘Yes, I do say so,’ interposed the boy. ‘And I mean to say what I want
-to say, too, Mr [[Eugene Wrayburn]]!’
-
-Passing him with his eyes as if there were nothing where he stood,
-Eugene looked on to [[Bradley Headstone]]. With consummate [[Indolence|indolence]], he
-turned to Mortimer, inquiring: ‘And who may this other person be?’
-
-‘I am Charles Hexam’s friend,’ said Bradley; ‘I am Charles Hexam’s
-schoolmaster.’
-
-‘My good sir, you should teach your pupils better manners,’ returned
-Eugene.
-
-Composedly smoking, he leaned an elbow on the chimneypiece, at the side
-of the [[Fire|fire]], and looked at the schoolmaster. It was a cruel look, in its
-cold disdain of him, as a creature of no worth. The schoolmaster looked
-at him, and that, too, was a cruel look, though of the different kind,
-that it had a raging [[Jealousy|jealousy]] and fiery wrath in it.
-
-Very remarkably, neither [[Eugene Wrayburn]] nor [[Bradley Headstone]] looked at
-all at the boy. Through the ensuing dialogue, those two, no matter
-who spoke, or whom was addressed, looked at each other. There was some
-secret, sure perception between them, which set them against one another
-in all ways.
-
-‘In some high respects, Mr [[Eugene Wrayburn]],’ said Bradley, answering
-him with pale and quivering lips, ‘the natural feelings of my pupils are
-stronger than my teaching.’
-
-‘In most respects, I dare say,’ replied Eugene, enjoying his cigar,
-‘though whether high or low is of no importance. You have my name very
-correctly. Pray what is yours?’
-
-‘It cannot concern you much to know, but—’
-
-‘True,’ interposed Eugene, striking sharply and cutting him short at his
-mistake, ‘it does not concern me at all to know. I can say Schoolmaster,
-which is a most respectable title. You are right, Schoolmaster.’
-
-It was not the dullest part of this goad in its galling of Bradley
-Headstone, that he had made it himself in a moment of incautious anger.
-He tried to set his lips so as to prevent their quivering, but they
-quivered fast.
-
-‘Mr [[Eugene Wrayburn]],’ said the boy, ‘I want a word with you. I have
-wanted it so much, that we have looked out your address in the book, and
-we have been to your office, and we have come from your office here.’
-
-‘You have given yourself much trouble, Schoolmaster,’ observed
-Eugene, blowing the feathery ash from his cigar. ‘I [[Hope|hope]] it may prove
-remunerative.’
-
-‘And I am glad to speak,’ pursued the boy, ‘in presence of Mr Lightwood,
-because it was through Mr Lightwood that you ever saw my sister.’
-
-For a mere moment, Wrayburn turned his eyes aside from the schoolmaster
-to note the effect of the last word on Mortimer, who, standing on the
-opposite side of the [[Fire|fire]], as soon as the word was spoken, turned his
-face towards the [[Fire|fire]] and looked down into it.
-
-‘Similarly, it was through Mr Lightwood that you ever saw her again, for
-you were with him on the [[Night|night]] when my father was found, and so I found
-you with her on the next day. Since then, you have seen my sister often.
-You have seen my sister oftener and oftener. And I want to know why?’
-
-‘Was this worth while, Schoolmaster?’ murmured Eugene, with the air of
-a disinterested adviser. ‘So much trouble for nothing? You should know
-best, but I think not.’
-
-‘I don’t know, Mr Wrayburn,’ answered Bradley, with his passion rising,
-‘why you address me—’
-
-‘Don’t you? said Eugene. ‘Then I won’t.’
-
-He said it so tauntingly in his perfect placidity, that the respectable
-right-hand clutching the respectable hair-guard of the respectable watch
-could have wound it round his throat and strangled him with it. Not
-another word did Eugene deem it worth while to utter, but stood leaning
-his head upon his hand, smoking, and looking imperturbably at the
-chafing [[Bradley Headstone]] with his clutching right-hand, until Bradley
-was wellnigh mad.
-
-‘Mr Wrayburn,’ proceeded the boy, ‘we not only know this that I have
-charged upon you, but we know more. It has not yet come to my sister’s
-knowledge that we have found it out, but we have. We had a plan, Mr
-Headstone and I, for my sister’s [[Education|education]], and for its being advised
-and overlooked by Mr Headstone, who is a much more competent authority,
-whatever you may pretend to think, as you smoke, than you could produce,
-if you tried. Then, what do we find? What do we find, Mr Lightwood? Why,
-we find that my sister is already being taught, without our knowing
-it. We find that while my sister gives an unwilling and cold ear to our
-schemes for her advantage—I, her brother, and Mr Headstone, the most
-competent authority, as his certificates would easily prove, that could
-be produced—she is wilfully and willingly profiting by other schemes.
-Ay, and taking pains, too, for I know what such pains are. And so does
-Mr Headstone! [[Well]]! Somebody pays for this, is a thought that naturally
-occurs to us; who pays? We apply ourselves to find out, Mr Lightwood,
-and we find that your friend, this Mr [[Eugene Wrayburn]], here, pays. Then
-I ask him what right has he to do it, and what does he mean by it, and
-how comes he to be taking such a liberty without my consent, when I
-am raising myself in the scale of society by my own exertions and Mr
-Headstone’s aid, and have no right to have any darkness cast upon my
-prospects, or any imputation upon my respectability, through my sister?’
-
-The boyish weakness of this speech, combined with its great selfishness,
-made it a poor one indeed. And yet [[Bradley Headstone]], used to the little
-audience of a school, and unused to the larger ways of men, showed a
-kind of exultation in it.
-
-‘Now I tell Mr [[Eugene Wrayburn]],’ pursued the boy, forced into the use
-of the third person by the hopelessness of addressing him in the first,
-‘that I object to his having any acquaintance at all with my sister, and
-that I request him to drop it altogether. He is not to take it into his
-head that I am afraid of my sister’s caring for HIM—’
-
-(As the boy sneered, the Master sneered, and Eugene blew off the
-feathery ash again.)
-
-—‘But I object to it, and that’s enough. I am more important to my
-sister than he thinks. As I raise myself, I intend to raise her;
-she knows that, and she has to look to me for her prospects. Now I
-understand all this very [[Well|well]], and so does Mr Headstone. My sister is an
-excellent girl, but she has some romantic notions; not about such things
-as your Mr Eugene Wrayburns, but about the [[Death|death]] of my father and other
-matters of that sort. Mr Wrayburn encourages those notions to make
-himself of importance, and so she thinks she ought to be grateful to
-him, and perhaps even likes to be. Now I don’t choose her to be grateful
-to him, or to be grateful to anybody but me, except Mr Headstone. And
-I tell Mr Wrayburn that if he don’t take heed of what I say, it will be
-worse for her. Let him turn that over in his [[Memory|memory]], and make sure of
-it. Worse for her!’
-
-A pause ensued, in which the schoolmaster looked very awkward.
-
-‘May I suggest, Schoolmaster,’ said Eugene, removing his fast-waning
-cigar from his lips to glance at it, ‘that you can now take your pupil
-away.’
-
-‘And Mr Lightwood,’ added the boy, with a burning face, under the
-flaming aggravation of getting no sort of answer or attention, ‘I [[Hope|hope]]
-you’ll take notice of what I have said to your friend, and of what
-your friend has heard me say, word by word, whatever he pretends to the
-contrary. You are bound to take notice of it, Mr Lightwood, for, as I
-have already mentioned, you first brought your friend into my sister’s
-company, and but for you we never should have seen him. Lord knows none
-of us ever wanted him, any more than any of us will ever miss him. Now
-Mr Headstone, as Mr [[Eugene Wrayburn]] has been obliged to hear what I had
-to say, and couldn’t help himself, and as I have said it out to the last
-word, we have done all we wanted to do, and may go.’
-
-‘Go down-stairs, and leave me a moment, Hexam,’ he returned. The boy
-complying with an indignant look and as much noise as he could make,
-swung out of the room; and Lightwood went to the [[Window|window]], and leaned
-there, looking out.
-
-‘You think me of no more value than the dirt under your feet,’ said
-Bradley to Eugene, speaking in a carefully weighed and measured tone, or
-he could not have spoken at all.
-
-‘I assure you, Schoolmaster,’ replied Eugene, ‘I don’t think about you.’
-
-‘That’s not true,’ returned the other; ‘you know better.’
-
-‘That’s coarse,’ Eugene retorted; ‘but you DON’T know better.’
-
-‘Mr Wrayburn, at least I know very [[Well|well]] that it would be idle to set
-myself against you in insolent words or overbearing manners. That lad
-who has just gone out could put you to shame in half-a-dozen branches of
-knowledge in half an hour, but you can throw him aside like an inferior.
-You can do as much by me, I have no [[Doubt|doubt]], beforehand.’
-
-‘Possibly,’ remarked Eugene.
-
-‘But I am more than a lad,’ said Bradley, with his clutching hand, ‘and
-I WILL be heard, sir.’
-
-‘As a schoolmaster,’ said Eugene, ‘you are always being heard. That
-ought to content you.’
-
-‘But it does not content me,’ replied the other, white with passion. ‘Do
-you suppose that a man, in forming himself for the duties I discharge,
-and in watching and repressing himself daily to discharge them [[Well|well]],
-dismisses a man’s [[Nature|nature]]?’
-
-‘I suppose you,’ said Eugene, ‘judging from what I see as I look at you,
-to be rather too passionate for a good schoolmaster.’ As he spoke, he
-tossed away the end of his cigar.
-
-‘Passionate with you, sir, I admit I am. Passionate with you, sir, I
-respect myself for being. But I have not Devils for my pupils.’
-
-‘For your Teachers, I should rather say,’ replied Eugene.
-
-‘Mr Wrayburn.’
-
-‘Schoolmaster.’
-
-‘Sir, my name is [[Bradley Headstone]].’
-
-‘As you justly said, my good sir, your name cannot concern me. Now, what
-more?’
-
-‘This more. Oh, what a misfortune is mine,’ cried Bradley, breaking off
-to wipe the starting perspiration from his face as he shook from head to
-foot, ‘that I cannot so control myself as to appear a stronger creature
-than this, when a man who has not felt in all his life what I have felt
-in a day can so command himself!’ He said it in a very agony, and even
-followed it with an errant motion of his hands as if he could have torn
-himself.
-
-[[Eugene Wrayburn]] looked on at him, as if he found him beginning to be
-rather an entertaining study.
-
-‘Mr Wrayburn, I [[Desire|desire]] to say something to you on my own part.’
-
-‘Come, come, Schoolmaster,’ returned Eugene, with a languid approach to
-impatience as the other again struggled with himself; ‘say what you have
-to say. And let me remind you that the door is standing open, and your
-young friend waiting for you on the stairs.’
-
-‘When I accompanied that youth here, sir, I did so with the purpose of
-adding, as a man whom you should not be permitted to put aside, in case
-you put him aside as a boy, that his instinct is correct and right.’
-Thus [[Bradley Headstone]], with great effort and difficulty.
-
-‘Is that all?’ asked Eugene.
-
-‘No, sir,’ said the other, flushed and fierce. ‘I strongly support him
-in his disapproval of your visits to his sister, and in his objection to
-your officiousness—and worse—in what you have taken upon yourself to
-do for her.’
-
-‘Is THAT all?’ asked Eugene.
-
-‘No, sir. I determined to tell you that you are not justified in these
-proceedings, and that they are injurious to his sister.’
-
-‘Are you her schoolmaster as [[Well|well]] as her brother’s?—Or perhaps you
-would like to be?’ said Eugene.
-
-It was a stab that the [[Blood|blood]] followed, in its rush to Bradley
-Headstone’s face, as swiftly as if it had been dealt with a dagger.
-‘What do you mean by that?’ was as much as he could utter.
-
-‘A natural [[Ambition|ambition]] enough,’ said Eugene, coolly. ‘Far be it from me
-to say otherwise. The sister who is something too much upon your lips,
-perhaps—is so very different from all the associations to which she had
-been used, and from all the low obscure people about her, that it is a
-very natural [[Ambition|ambition]].’
-
-‘Do you throw my obscurity in my teeth, Mr Wrayburn?’
-
-‘That can hardly be, for I know nothing concerning it, Schoolmaster, and
-seek to know nothing.’
-
-‘You reproach me with my origin,’ said [[Bradley Headstone]]; ‘you cast
-insinuations at my bringing-up. But I tell you, sir, I have worked my
-way onward, out of both and in spite of both, and have a right to be
-considered a better man than you, with better reasons for being proud.’
-
-‘How I can reproach you with what is not within my knowledge, or how
-I can cast stones that were never in my hand, is a problem for the
-ingenuity of a schoolmaster to prove,’ returned Eugene. ‘Is THAT all?’
-
-‘No, sir. If you suppose that boy—’
-
-‘Who really will be tired of waiting,’ said Eugene, politely.
-
-‘If you suppose that boy to be friendless, Mr Wrayburn, you deceive
-yourself. I am his friend, and you shall find me so.’
-
-‘And you will find HIM on the stairs,’ remarked Eugene.
-
-‘You may have promised yourself, sir, that you could do what you
-chose here, because you had to deal with a mere boy, inexperienced,
-friendless, and unassisted. But I give you warning that this mean
-calculation is wrong. You have to do with a man also. You have to do
-with me. I will support him, and, if need be, require reparation for
-him. My hand and heart are in this cause, and are open to him.’
-
-‘And—quite a coincidence—the door is open,’ remarked Eugene.
-
-‘I scorn your shifty evasions, and I scorn you,’ said the schoolmaster.
-‘In the meanness of your [[Nature|nature]] you revile me with the meanness of my
-birth. I hold you in contempt for it. But if you don’t profit by this
-visit, and act accordingly, you will find me as bitterly in earnest
-against you as I could be if I deemed you worth a second thought on my
-own account.’
-
-With a consciously bad grace and stiff manner, as Wrayburn looked so
-easily and calmly on, he went out with these words, and the heavy door
-closed like a furnace-door upon his red and white heats of rage.
-
-‘A curious monomaniac,’ said Eugene. ‘The man seems to believe that
-everybody was acquainted with his mother!’
-
-Mortimer Lightwood being still at the [[Window|window]], to which he had in
-delicacy withdrawn, Eugene called to him, and he fell to slowly pacing
-the room.
-
-‘My dear fellow,’ said Eugene, as he lighted another cigar, ‘I [[Fear|fear]] my
-unexpected visitors have been troublesome. If as a set-off (excuse the
-legal phrase from a barrister-at-law) you would like to ask Tippins to
-tea, I pledge myself to make [[Love|love]] to her.’
-
-‘Eugene, Eugene, Eugene,’ replied Mortimer, still pacing the room, ‘I am
-sorry for this. And to think that I have been so blind!’
-
-‘How blind, dear boy?’ inquired his unmoved friend.
-
-‘What were your words that [[Night|night]] at the [[River|river]]-side public-[[house]]?’ said
-Lightwood, stopping. ‘What was it that you asked me? Did I feel like a
-dark combination of traitor and pickpocket when I thought of that girl?’
-
-‘I seem to remember the expression,’ said Eugene.
-
-‘How do YOU feel when you think of her just now?’
-
-His friend made no direct reply, but observed, after a few whiffs of his
-cigar, ‘Don’t mistake the situation. There is no better girl in all this
-[[London]] than [[Lizzie Hexam]]. There is no better among my people at [[Home|home]]; no
-better among your people.’
-
-‘Granted. What follows?’
-
-‘There,’ said Eugene, looking after him dubiously as he paced away to
-the other end of the room, ‘you put me again upon guessing the [[Riddle|riddle]]
-that I have given up.’
-
-‘Eugene, do you design to capture and [[Desert|desert]] this girl?’
-
-‘My dear fellow, no.’
-
-‘Do you design to marry her?’
-
-‘My dear fellow, no.’
-
-‘Do you design to pursue her?’
-
-‘My dear fellow, I don’t design anything. I have no design whatever.
-I am incapable of designs. If I conceived a design, I should speedily
-abandon it, exhausted by the operation.’
-
-‘Oh Eugene, Eugene!’
-
-‘My dear Mortimer, not that tone of [[Melancholy|melancholy]] reproach, I entreat. What
-can I do more than tell you all I know, and acknowledge my ignorance
-of all I don’t know! How does that little old [[Song|song]] go, which, under
-pretence of being cheerful, is by far the most lugubrious I ever heard
-in my life?
-
-     “Away with [[Melancholy|melancholy]],
-     Nor doleful changes ring
-     On life and human folly,
-     But merrily merrily sing
-                              Fal la!”
-
-Don’t let us sing Fal la, my dear Mortimer (which is comparatively
-unmeaning), but let us sing that we give up guessing the [[Riddle|riddle]]
-altogether.’
-
-‘Are you in communication with this girl, Eugene, and is what these
-people say true?’
-
-‘I concede both admissions to my honourable and learned friend.’
-
-‘Then what is to come of it? What are you doing? Where are you going?’
-
-‘My dear Mortimer, one would think the schoolmaster had left behind him
-a catechizing infection. You are ruffled by the want of another cigar.
-Take one of these, I entreat. Light it at mine, which is in perfect
-order. So! Now do me the justice to observe that I am doing all I can
-towards [[Self|self]]-improvement, and that you have a light thrown on those
-household implements which, when you only saw them as in a glass darkly,
-you were hastily—I must say hastily—inclined to depreciate. Sensible
-of my deficiencies, I have surrounded myself with moral influences
-expressly meant to promote the formation of the domestic virtues.
-To those influences, and to the improving society of my friend from
-boyhood, commend me with your best wishes.’
-
-‘Ah, Eugene!’ said Lightwood, affectionately, now standing near him,
-so that they both stood in one little cloud of smoke; ‘I would that you
-answered my three questions! What is to come of it? What are you doing?
-Where are you going?’
-
-‘And my dear Mortimer,’ returned Eugene, lightly fanning away the smoke
-with his hand for the better exposition of his frankness of face and
-manner, ‘believe me, I would answer them instantly if I could. But
-to enable me to do so, I must first have found out the troublesome
-conundrum long abandoned. Here it is. [[Eugene Wrayburn]].’ Tapping his
-forehead and breast. ‘[[Riddle]]-me, [[Riddle|riddle]]-me-ree, perhaps you can’t tell
-me what this may be?—No, upon my life I can’t. I give it up!’
+The family room looked very small and very mean, and the downward
+staircase by which it was attained looked very narrow and very crooked.
+The little [[house]] and all its arrangements were a poor contrast to the
+eminently aristocratic dwelling. ‘I can hardly believe,’ thought Bella,
+‘that I ever did endure life in this place!’
+
+Gloomy majesty on the part of Mrs Wilfer, and native pertness on the
+part of Lavvy, did not mend the matter. Bella really stood in natural
+need of a little help, and she got none.
+
+‘This,’ said Mrs Wilfer, presenting a cheek to be kissed, as sympathetic
+and responsive as the back of the bowl of a spoon, ‘is quite an [[Honour|honour]]!
+You will probably find your sister Lavvy grown, Bella.’
+
+‘Ma,’ Miss [[Lavinia]] interposed, ‘there can be no objection to your being
+aggravating, because Bella richly deserves it; but I really must request
+that you will not drag in such ridiculous nonsense as my having grown
+when I am past the growing age.’
+
+‘I grew, myself,’ Mrs Wilfer sternly proclaimed, ‘after I was married.’
+
+‘Very [[Well|well]], Ma,’ returned Lavvy, ‘then I think you had much better have
+left it [[Alone|alone]].’
+
+The lofty glare with which the majestic woman received this answer,
+might have embarrassed a less pert opponent, but it had no effect upon
+[[Lavinia]]: who, leaving her parent to the enjoyment of any amount of
+glaring at she might deem desirable under the circumstances, accosted
+her sister, undismayed.
+
+‘I suppose you won’t consider yourself quite disgraced, Bella, if I give
+you a kiss? [[Well]]! And how do you do, Bella? And how are your Boffins?’
+
+‘Peace!’ exclaimed Mrs Wilfer. ‘Hold! I will not suffer this tone of
+levity.’
+
+‘My goodness me! How are your Spoffins, then?’ said Lavvy, ‘since Ma so
+very much objects to your Boffins.’
+
+‘Impertinent girl! Minx!’ said Mrs Wilfer, with dread severity.
+
+‘I don’t care whether I am a Minx, or a Sphinx,’ returned [[Lavinia]],
+coolly, tossing her head; ‘it’s exactly the same thing to me, and I’d
+every bit as soon be one as the other; but I know this—I’ll not grow
+after I’m married!’
+
+‘You will not? YOU will not?’ repeated Mrs Wilfer, solemnly.
+
+‘No, Ma, I will not. Nothing shall induce me.’
+
+Mrs Wilfer, having waved her gloves, became loftily pathetic.
+
+‘But it was to be expected;’ thus she spake. ‘A [[Child|child]] of mine deserts me
+for the proud and prosperous, and another [[Child|child]] of mine despises me. It
+is quite fitting.’
+
+‘Ma,’ Bella struck in, ‘Mr and Mrs Boffin are prosperous, no [[Doubt|doubt]]; but
+you have no right to say they are proud. You must know very [[Well|well]] that
+they are not.’
+
+‘In short, Ma,’ said Lavvy, bouncing over to the enemy without a word
+of notice, ‘you must know very [[Well|well]]—or if you don’t, more shame for
+you!—that Mr and Mrs Boffin are just absolute perfection.’
+
+‘Truly,’ returned Mrs Wilfer, courteously receiving the deserter, ‘it
+would seem that we are required to think so. And this, [[Lavinia]], is
+my reason for objecting to a tone of levity. Mrs Boffin (of whose
+physiognomy I can never speak with the composure I would [[Desire|desire]] to
+preserve), and your mother, are not on terms of intimacy. It is not
+for a moment to be supposed that she and her husband dare to presume to
+speak of this family as the Wilfers. I cannot therefore condescend to
+speak of them as the Boffins. No; for such a tone—call it familiarity,
+levity, equality, or what you will—would imply those social
+interchanges which do not exist. Do I render myself intelligible?’
+
+Without taking the least notice of this inquiry, albeit delivered in an
+imposing and forensic manner, [[Lavinia]] reminded her sister, ‘After all,
+you know, Bella, you haven’t told us how your Whatshisnames are.’
+
+‘I don’t want to speak of them here,’ replied Bella, suppressing
+indignation, and tapping her foot on the floor. ‘They are much too kind
+and too good to be drawn into these discussions.’
+
+‘Why put it so?’ demanded Mrs Wilfer, with biting sarcasm. ‘Why adopt a
+circuitous form of speech? It is polite and it is obliging; but why do
+it? Why not openly say that they are much too kind and too good for US?
+We understand the allusion. Why disguise the phrase?’
+
+‘Ma,’ said Bella, with one beat of her foot, ‘you are enough to drive a
+saint mad, and so is Lavvy.’
+
+‘Unfortunate Lavvy!’ cried Mrs Wilfer, in a tone of commiseration. ‘She
+always comes for it. My poor [[Child|child]]!’ But Lavvy, with the suddenness of
+her former desertion, now bounced over to the other enemy: very sharply
+remarking, ‘Don’t patronize ME, Ma, because I can take care of myself.’
+
+‘I only [[Wonder|wonder]],’ resumed Mrs Wilfer, directing her observations to her
+elder daughter, as safer on the whole than her utterly unmanageable
+younger, ‘that you found [[Time|time]] and inclination to tear yourself from
+Mr and Mrs Boffin, and come to see us at all. I only [[Wonder|wonder]] that our
+claims, contending against the superior claims of Mr and Mrs Boffin,
+had any weight. I feel I ought to be thankful for gaining so much, in
+competition with Mr and Mrs Boffin.’ (The good lady bitterly emphasized
+the first letter of the word Boffin, as if it represented her chief
+objection to the owners of that name, and as if she could have born
+Doffin, Moffin, or Poffin much better.)
+
+‘Ma,’ said Bella, angrily, ‘you force me to say that I am truly sorry I
+did come [[Home|home]], and that I never will come [[Home|home]] again, except when poor
+dear Pa is here. For, Pa is too magnanimous to feel envy and spite
+towards my generous friends, and Pa is delicate enough and gentle enough
+to remember the sort of little claim they thought I had upon them and
+the unusually trying position in which, through no act of my own, I had
+been placed. And I always did [[Love|love]] poor dear Pa better than all the rest
+of you put together, and I always do and I always shall!’
+
+Here Bella, deriving no comfort from her charming bonnet and her elegant
+dress, burst into [[Tears|tears]].
+
+‘I think, R.W.,’ cried Mrs Wilfer, lifting up her eyes and
+apostrophising the air, ‘that if you were present, it would be a
+trial to your feelings to hear your wife and the mother of your family
+depreciated in your name. But Fate has spared you this, R.W., whatever
+it may have thought proper to inflict upon her!’
+
+Here Mrs Wilfer burst into [[Tears|tears]].
+
+‘I hate the Boffins!’ protested Miss [[Lavinia]]. ‘I don’t care who objects
+to their being called the Boffins. I WILL call ’em the Boffins. The
+Boffins, the Boffins, the Boffins! And I say they are mischief-making
+Boffins, and I say the Boffins have set Bella against me, and I tell the
+Boffins to their faces:’ which was not strictly the fact, but the
+young lady was excited: ‘that they are detestable Boffins, disreputable
+Boffins, odious Boffins, beastly Boffins. There!’
+
+Here Miss [[Lavinia]] burst into [[Tears|tears]].
+
+The front [[Garden|garden]]-gate clanked, and the Secretary was seen coming at a
+brisk pace up the steps. ‘Leave Me to open the door to him,’ said Mrs
+Wilfer, rising with stately [[Resignation|resignation]] as she shook her head and dried
+her eyes; ‘we have at present no stipendiary girl to do so. We have
+nothing to conceal. If he sees these traces of emotion on our cheeks,
+let him construe them as he may.’
+
+With those words she stalked out. In a few moments she stalked in again,
+proclaiming in her heraldic manner, ‘Mr Rokesmith is the bearer of a
+packet for Miss [[Bella Wilfer]].’
+
+Mr Rokesmith followed close upon his name, and of course saw what was
+amiss. But he discreetly affected to see nothing, and addressed Miss
+Bella.
+
+‘Mr Boffin intended to have placed this in the carriage for you
+this morning. He wished you to have it, as a little keepsake he had
+prepared—it is only a purse, Miss Wilfer—but as he was disappointed in
+his fancy, I volunteered to come after you with it.’
+
+Bella took it in her hand, and thanked him.
+
+‘We have been quarrelling here a little, Mr Rokesmith, but not more than
+we used; you know our agreeable ways among ourselves. You find me just
+going. Good-bye, mamma. Good-bye, Lavvy!’ and with a kiss for each Miss
+Bella turned to the door. The Secretary would have attended her, but
+Mrs Wilfer advancing and saying with dignity, ‘Pardon me! Permit me to
+assert my natural right to escort my [[Child|child]] to the equipage which is
+in waiting for her,’ he begged pardon and gave place. It was a very
+magnificent spectacle indeed, to see Mrs Wilfer throw open the
+[[house]]-door, and loudly demand with extended gloves, ‘The male domestic
+of Mrs Boffin!’ To whom presenting himself, she delivered the brief but
+majestic charge, ‘Miss Wilfer. Coming out!’ and so delivered her over,
+like a female Lieutenant of the Tower relinquishing a State Prisoner.
+The effect of this ceremonial was for some quarter of an hour afterwards
+perfectly paralyzing on the neighbours, and was much enhanced by the
+worthy lady airing herself for that term in a kind of splendidly serene
+trance on the top step.
+
+When Bella was seated in the carriage, she opened the little packet in
+her hand. It contained a pretty purse, and the purse contained a bank
+note for fifty pounds. ‘This shall be a joyful surprise for poor dear
+Pa,’ said Bella, ‘and I’ll take it myself into the [[City]]!’
+
+As she was uninformed respecting the exact locality of the place of
+business of Chicksey Veneering and Stobbles, but knew it to be near
+Mincing Lane, she directed herself to be driven to the corner of that
+darksome spot. Thence she despatched ‘the male domestic of Mrs Boffin,’
+in search of the counting-[[house]] of Chicksey Veneering and Stobbles, with
+a message importing that if R. Wilfer could come out, there was a lady
+waiting who would be glad to speak with him. The delivery of these
+mysterious words from the mouth of a footman caused so great an
+excitement in the counting-[[house]], that a youthful scout was instantly
+appointed to follow Rumty, observe the lady, and come in with his
+report. Nor was the agitation by any means diminished, when the scout
+rushed back with the intelligence that the lady was ‘a slap-up gal in a
+bang-up chariot.’
+
+Rumty himself, with his pen behind his ear under his rusty hat, arrived
+at the carriage-door in a breathless condition, and had been fairly
+lugged into the vehicle by his cravat and embraced almost unto choking,
+before he recognized his daughter. ‘My dear [[Child|child]]!’ he then panted,
+incoherently. ‘Good gracious me! What a lovely woman you are! I thought
+you had been unkind and forgotten your mother and sister.’
+
+‘I have just been to see them, Pa dear.’
+
+‘Oh! and how—how did you find your mother?’ asked R. W., dubiously.
+
+‘Very disagreeable, Pa, and so was Lavvy.’
+
+‘They are sometimes a little liable to it,’ observed the patient cherub;
+‘but I [[Hope|hope]] you made allowances, Bella, my dear?’
+
+‘No. I was disagreeable too, Pa; we were all of us disagreeable
+together. But I want you to come and dine with me somewhere, Pa.’
+
+‘Why, my dear, I have already partaken of a—if one might mention such
+an article in this superb chariot—of a—Saveloy,’ replied R. Wilfer,
+modestly dropping his voice on the word, as he eyed the canary-coloured
+fittings.
+
+‘Oh! That’s nothing, Pa!’
+
+‘Truly, it ain’t as much as one could sometimes wish it to be, my
+dear,’ he admitted, drawing his hand across his mouth. ‘Still, when
+circumstances over which you have no control, interpose obstacles
+between yourself and Small Germans, you can’t do better than bring a
+contented mind to bear on’—again dropping his voice in deference to the
+chariot—‘Saveloys!’
+
+‘You poor good Pa! Pa, do, I beg and pray, get leave for the rest of the
+day, and come and pass it with me!’
+
+‘[[Well]], my dear, I’ll cut back and ask for leave.’
+
+‘But before you cut back,’ said Bella, who had already taken him by the
+chin, pulled his hat off, and begun to stick up his hair in her old way,
+‘do say that you are sure I am giddy and inconsiderate, but have never
+really slighted you, Pa.’
+
+‘My dear, I say it with all my heart. And might I likewise observe,’ her
+father delicately hinted, with a glance out at [[Window|window]], ‘that perhaps
+it might be calculated to attract attention, having one’s hair publicly
+done by a lovely woman in an elegant turn-out in Fenchurch Street?’
+
+Bella laughed and put on his hat again. But when his boyish figure
+bobbed away, its shabbiness and cheerful patience smote the [[Tears|tears]] out
+of her eyes. ‘I hate that Secretary for thinking it of me,’ she said to
+herself, ‘and yet it seems half true!’
+
+Back came her father, more like a boy than ever, in his release from
+school. ‘All right, my dear. Leave given at once. Really very handsomely
+done!’
+
+‘Now where can we find some quiet place, Pa, in which I can wait for you
+while you go on an errand for me, if I send the carriage away?’
+
+It demanded cogitation. ‘You see, my dear,’ he explained, ‘you really
+have become such a very lovely woman, that it ought to be a very quiet
+place.’ At length he suggested, ‘Near the [[Garden|garden]] up by the Trinity [[house|House]]
+on Tower [[Hill]].’ So, they were driven there, and Bella dismissed the
+chariot; sending a pencilled note by it to Mrs Boffin, that she was with
+her father.
+
+‘Now, Pa, attend to what I am going to say, and promise and vow to be
+obedient.’
+
+‘I promise and vow, my dear.’
+
+‘You ask no questions. You take this purse; you go to the nearest place
+where they keep everything of the very very best, ready made; you buy
+and put on, the most beautiful suit of clothes, the most beautiful hat,
+and the most beautiful pair of bright boots (patent leather, Pa, mind!)
+that are to be got for money; and you come back to me.’
+
+‘But, my dear Bella—’
+
+‘Take care, Pa!’ pointing her forefinger at him, merrily. ‘You have
+promised and vowed. It’s perjury, you know.’
+
+There was [[Water|water]] in the foolish little fellow’s eyes, but she kissed them
+dry (though her own were wet), and he bobbed away again. After half an
+hour, he came back, so brilliantly transformed, that Bella was obliged
+to walk round him in ecstatic admiration twenty times, before she could
+draw her arm through his, and delightedly squeeze it.
+
+‘Now, Pa,’ said Bella, hugging him close, ‘take this lovely woman out to
+dinner.’
+
+‘Where shall we go, my dear?’
+
+‘Greenwich!’ said Bella, valiantly. ‘And be sure you treat this lovely
+woman with everything of the best.’
+
+While they were going along to take boat, ‘Don’t you wish, my dear,’
+said R. W., timidly, ‘that your mother was here?’
+
+‘No, I don’t, Pa, for I like to have you all to myself to-day. I was
+always your little favourite at [[Home|home]], and you were always mine. We have
+run away together often, before now; haven’t we, Pa?’
+
+‘Ah, to be sure we have! Many a [[Sunday]] when your mother was—was a
+little liable to it,’ repeating his former delicate expression after
+pausing to cough.
+
+‘Yes, and I am afraid I was seldom or never as good as I ought to have
+been, Pa. I made you carry me, over and over again, when you should
+have made me walk; and I often drove you in harness, when you would much
+rather have sat down and read your news-paper: didn’t I?’
+
+‘Sometimes, sometimes. But Lor, what a [[Child|child]] you were! What a companion
+you were!’
+
+‘Companion? That’s just what I want to be to-day, Pa.’
+
+‘You are safe to succeed, my [[Love|love]]. Your brothers and sisters have all
+in their turns been companions to me, to a certain extent, but only to a
+certain extent. Your mother has, throughout life, been a companion that
+any man might—might look up to—and—and commit the sayings of, to
+[[Memory|memory]]—and—form himself upon—if he—’
+
+‘If he liked the model?’ suggested Bella.
+
+‘We-ell, ye-es,’ he returned, thinking about it, not quite satisfied
+with the phrase: ‘or perhaps I might say, if it was in him. Supposing,
+for instance, that a man wanted to be always marching, he would find
+your mother an inestimable companion. But if he had any taste for
+walking, or should wish at any [[Time|time]] to break into a trot, he might
+sometimes find it a little difficult to keep step with your mother.
+Or take it this way, Bella,’ he added, after a moment’s reflection;
+‘Supposing that a man had to go through life, we won’t say with a
+companion, but we’ll say to a tune. Very good. Supposing that the tune
+allotted to him was the Dead March in Saul. [[Well]]. It would be a very
+suitable tune for particular occasions—none better—but it would
+be difficult to keep [[Time|time]] with in the ordinary run of domestic
+transactions. For instance, if he took his supper after a hard day, to
+the Dead March in Saul, his food might be likely to sit heavy on him.
+Or, if he was at any [[Time|time]] inclined to relieve his mind by singing a
+comic [[Song|song]] or dancing a hornpipe, and was obliged to do it to the Dead
+March in Saul, he might find himself put out in the execution of his
+lively intentions.’
+
+‘Poor Pa!’ thought Bella, as she hung upon his arm.
+
+‘Now, what I will say for you, my dear,’ the cherub pursued mildly and
+without a notion of complaining, ‘is, that you are so adaptable. So
+adaptable.’
+
+‘Indeed I am afraid I have shown a wretched temper, Pa. I am afraid
+I have been very complaining, and very capricious. I seldom or never
+thought of it before. But when I sat in the carriage just now and saw
+you coming along the pavement, I reproached myself.’
+
+‘Not at all, my dear. Don’t speak of such a thing.’
+
+A happy and a chatty man was Pa in his new clothes that day. Take it
+for all in all, it was perhaps [[The Happiest Day|the happiest day]] he had ever known in his
+life; not even excepting that on which his heroic partner had approached
+the nuptial altar to the tune of the Dead March in Saul.
+
+The little expedition down the [[River|river]] was delightful, and the little
+room overlooking the [[River|river]] into which they were shown for dinner was
+delightful. Everything was delightful. The park was delightful, the
+punch was delightful, the dishes of fish were delightful, the wine
+was delightful. Bella was more delightful than any other item in the
+festival; drawing Pa out in the gayest manner; making a point of always
+mentioning herself as the lovely woman; stimulating Pa to order things,
+by declaring that the lovely woman insisted on being treated with them;
+and in short causing Pa to be quite enraptured with the consideration
+that he WAS the Pa of such a charming daughter.
+
+And then, as they sat looking at the ships and steamboats making their
+way to the sea with the tide that was running down, the lovely woman
+imagined all sorts of voyages for herself and Pa. Now, Pa, in the
+character of owner of a lumbering square-sailed collier, was tacking
+away to Newcastle, to fetch black diamonds to make his fortune with;
+now, Pa was going to China in that handsome threemasted [[Ship|ship]], to bring
+[[Home|home]] opium, with which he would for ever cut out Chicksey Veneering
+and Stobbles, and to bring [[Home|home]] silks and shawls without end for the
+decoration of his charming daughter. Now, [[John Harmon]]’s disastrous fate
+was all [[A Dream|a dream]], and he had come [[Home|home]] and found the lovely woman just
+the article for him, and the lovely woman had found him just the article
+for her, and they were going away on a trip, in their gallant bark,
+to look after their vines, with streamers flying at all points, a band
+playing on deck and Pa established in the great cabin. Now, [[John Harmon]]
+was consigned to his [[Grave|grave]] again, and a merchant of immense wealth
+(name unknown) had courted and married the lovely woman, and he was
+so enormously rich that everything you saw upon the [[River|river]] sailing or
+steaming belonged to him, and he kept a perfect fleet of yachts for
+pleasure, and that little impudent yacht which you saw over there, with
+the great white sail, was called The Bella, in [[Honour|honour]] of his wife, and
+she held her state aboard when it pleased her, like a modern [[Cleopatra]].
+Anon, there would embark in that troop-[[Ship|ship]] when she got to Gravesend, a
+mighty general, of large property (name also unknown), who wouldn’t
+hear of going to victory without his wife, and whose wife was the lovely
+woman, and she was destined to become the idol of all the red coats and
+blue jackets alow and aloft. And then again: you saw that [[Ship|ship]] being
+towed out by a steam-tug? [[Well]]! where did you suppose she was going to?
+She was going among the coral reefs and cocoa-nuts and all that sort of
+thing, and she was chartered for a fortunate individual of the name
+of Pa (himself on board, and much respected by all hands), and she
+was going, for his sole profit and advantage, to fetch a cargo of
+sweet-smelling woods, the most beautiful that ever were seen, and the
+most profitable that ever were heard of; and her cargo would be a great
+fortune, as indeed it ought to be: the lovely woman who had purchased
+her and fitted her expressly for this voyage, being married to an Indian
+Prince, who was a Something-or-Other, and who wore Cashmere shawls all
+over himself and diamonds and emeralds blazing in his turban, and was
+beautifully coffee-coloured and excessively devoted, though a little too
+jealous. Thus Bella ran on merrily, in a manner perfectly enchanting to
+Pa, who was as willing to put his head into the Sultan’s tub of [[Water|water]] as
+the beggar-boys below the [[Window|window]] were to put THEIR heads in the mud.
+
+‘I suppose, my dear,’ said Pa after dinner, ‘we may come to the
+conclusion at [[Home|home]], that we have lost you for good?’
+
+Bella shook her head. Didn’t know. Couldn’t say. All she was able to
+report was, that she was most handsomely supplied with everything she
+could possibly want, and that whenever she hinted at leaving Mr and Mrs
+Boffin, they wouldn’t hear of it.
+
+‘And now, Pa,’ pursued Bella, ‘I’ll make a confession to you. I am the
+most mercenary little wretch that ever lived in the world.’
+
+‘I should hardly have thought it of you, my dear,’ returned her father,
+first glancing at himself; and then at the dessert.
+
+‘I understand what you mean, Pa, but it’s not that. It’s not that I care
+for money to keep as money, but I do care so much for what it will buy!’
+
+‘Really I think most of us do,’ returned R. W.
+
+‘But not to the dreadful extent that I do, Pa. O-o!’ cried Bella,
+screwing the exclamation out of herself with a twist of her dimpled
+chin. ‘I AM so mercenary!’
+
+With a wistful glance R. W. said, in default of having anything better
+to say: ‘About when did you begin to feel it coming on, my dear?’
+
+‘That’s it, Pa. That’s the terrible part of it. When I was at [[Home|home]], and
+only knew what it was to be poor, I grumbled but didn’t so much mind.
+When I was at [[Home|home]] expecting to be rich, I thought vaguely of all the
+great things I would do. But when I had been disappointed of my splendid
+fortune, and came to see it from day to day in other hands, and to have
+before my eyes what it could really do, then I became the mercenary
+little wretch I am.’
+
+‘It’s your fancy, my dear.’
+
+‘I can assure you it’s nothing of the sort, Pa!’ said Bella, nodding at
+him, with her very pretty eyebrows raised as high as they would go, and
+looking comically frightened. ‘It’s a fact. I am always avariciously
+scheming.’
+
+‘Lor! But how?’
+
+‘I’ll tell you, Pa. I don’t mind telling YOU, because we have always
+been favourites of each other’s, and because you are not like a Pa, but
+more like a sort of a younger brother with a dear venerable chubbiness
+on him. And besides,’ added Bella, laughing as she pointed a rallying
+finger at his face, ‘because I have got you in my power. This is a
+secret expedition. If ever you tell of me, I’ll tell of you. I’ll tell
+Ma that you dined at Greenwich.’
+
+‘[[Well]]; seriously, my dear,’ observed R. W., with some trepidation of
+manner, ‘it might be as [[Well|well]] not to mention it.’
+
+‘Aha!’ laughed Bella. ‘I knew you wouldn’t like it, sir! So you keep my
+confidence, and I’ll keep yours. But betray the lovely woman, and you
+shall find her a serpent. Now, you may give me a kiss, Pa, and I should
+like to give your hair a turn, because it has been dreadfully neglected
+in my absence.’
+
+R. W. submitted his head to the operator, and the operator went on
+talking; at the same [[Time|time]] putting separate locks of his hair through
+a curious process of being smartly rolled over her two revolving
+forefingers, which were then suddenly pulled out of it in opposite
+lateral directions. On each of these occasions the patient winced and
+winked.
+
+‘I have made up my mind that I must have money, Pa. I feel that I can’t
+beg it, borrow it, or steal it; and so I have resolved that I must marry
+it.’
+
+R. W. cast up his eyes towards her, as [[Well|well]] as he could under the
+operating circumstances, and said in a tone of remonstrance, ‘My de-ar
+Bella!’
+
+‘Have resolved, I say, Pa, that to get money I must marry money. In
+consequence of which, I am always looking out for money to captivate.’
+
+‘My de-a-r Bella!’
+
+‘Yes, Pa, that is the state of the case. If ever there was a mercenary
+plotter whose thoughts and designs were always in her mean occupation, I
+am the amiable creature. But I don’t care. I hate and detest being
+poor, and I won’t be poor if I can marry money. Now you are deliciously
+fluffy, Pa, and in a state to astonish the waiter and pay the bill.’
+
+‘But, my dear Bella, this is quite alarming at your age.’
+
+‘I told you so, Pa, but you wouldn’t believe it,’ returned Bella, with a
+pleasant childish gravity. ‘Isn’t it shocking?’
+
+‘It would be quite so, if you fully knew what you said, my dear, or
+meant it.’
+
+‘[[Well]], Pa, I can only tell you that I mean nothing else. Talk to me of
+[[Love|love]]!’ said Bella, contemptuously: though her face and figure certainly
+rendered the subject no incongruous one. ‘Talk to me of fiery dragons!
+But talk to me of [[Poverty|poverty]] and wealth, and there indeed we touch upon
+realities.’
+
+‘My De-ar, this is becoming Awful—’ her father was emphatically
+beginning: when she stopped him.
+
+‘Pa, tell me. Did you marry money?’
+
+‘You know I didn’t, my dear.’
+
+Bella hummed the Dead March in Saul, and said, after all it signified
+very little! But seeing him look [[Grave|grave]] and downcast, she took him round
+the neck and kissed him back to cheerfulness again.
+
+‘I didn’t mean that last touch, Pa; it was only said in joke. Now mind!
+You are not to tell of me, and I’ll not tell of you. And more than that;
+I promise to have no [[Secrets|secrets]] from you, Pa, and you may make certain
+that, whatever mercenary things go on, I shall always tell you all about
+them in strict confidence.’
+
+Fain to be satisfied with this concession from the lovely woman, R. W.
+rang the bell, and paid the bill. ‘Now, all the rest of this, Pa,’ said
+Bella, [[rolling]] up the purse when they were [[Alone|alone]] again, hammering it
+small with her little fist on the table, and cramming it into one of the
+pockets of his new waistcoat, ‘is for you, to buy presents with for them
+at [[Home|home]], and to pay bills with, and to divide as you like, and spend
+exactly as you think proper. Last of all take notice, Pa, that it’s
+not the fruit of any avaricious scheme. Perhaps if it was, your little
+mercenary wretch of a daughter wouldn’t make so free with it!’
+
+After which, she tugged at his coat with both hands, and pulled him all
+askew in buttoning that garment over the precious waistcoat pocket, and
+then tied her dimples into her bonnet-strings in a very knowing way, and
+took him back to [[London]]. Arrived at Mr Boffin’s door, she set him with
+his back against it, tenderly took him by the ears as convenient handles
+for her purpose, and kissed him until he knocked muffled [[Double|double]] knocks
+at the door with the back of his head. That done, she once more reminded
+him of their compact and gaily parted from him.
+
+Not so gaily, however, but that [[Tears|tears]] filled her eyes as he went away
+down the dark street. Not so gaily, but that she several times said,
+‘Ah, poor little Pa! Ah, poor dear struggling shabby little Pa!’
+before she took heart to knock at the door. Not so gaily, but that the
+brilliant furniture seemed to stare her out of countenance as if it
+insisted on being compared with the dingy furniture at [[Home|home]]. Not so
+gaily, but that she fell into very low spirits sitting late in her own
+room, and very heartily wept, as she wished, now that the deceased old
+[[John Harmon]] had never made a will about her, now that the deceased young
+[[John Harmon]] had lived to marry her. ‘Contradictory things to wish,’ said
+Bella, ‘but my life and fortunes are so contradictory altogether that
+what can I expect myself to be!’

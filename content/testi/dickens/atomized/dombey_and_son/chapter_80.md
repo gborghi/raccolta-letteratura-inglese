@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 24"
+title: "Dombey and Son — Chapter 52"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,532 +14,740 @@ tags:
 </nav>
 
 
-CHAPTER XXIV.
-The Study of a Loving Heart
-
-
-Sir Barnet and Lady Skettles, very good people, resided in a pretty
-villa at Fulham, on the banks of the Thames; which was one of the most
-desirable residences in the world when a rowing-match happened to be
-going past, but had its little inconveniences at other times, among
-which may be enumerated the occasional appearance of the [[River|river]] in the
-drawing-room, and the contemporaneous disappearance of the lawn and
-shrubbery.
-
-Sir Barnet Skettles expressed his personal consequence chiefly through
-an antique gold snuffbox, and a ponderous silk pocket-kerchief, which
-he had an imposing manner of drawing out of his pocket like a banner
-and using with both hands at once. Sir Barnet’s object in life was
-constantly to extend the range of his acquaintance. Like a heavy [[Body|body]]
-dropped into [[Water|water]]—not to disparage so worthy a gentleman by the
-comparison—it was in the [[Nature|nature]] of things that Sir Barnet must spread
-an ever widening circle about him, until there was no room left. Or,
-like a sound in air, the vibration of which, according to the
-speculation of an ingenious modern philosopher, may go on travelling
-for ever through the interminable fields of space, nothing but coming
-to the end of his moral tether could stop Sir Barnet Skettles in his
-voyage of discovery through the social system.
-
-Sir Barnet was proud of making people acquainted with people. He liked
-the thing for its own sake, and it advanced his favourite object too.
-For example, if Sir Barnet had the good fortune to get hold of a law
-recruit, or a country gentleman, and ensnared him to his hospitable
-villa, Sir Barnet would say to him, on the morning after his arrival,
-“Now, my dear Sir, is there anybody you would like to know? Who is
-there you would wish to meet? Do you take any interest in writing
-people, or in painting or sculpturing people, or in acting people, or
-in anything of that sort?” Possibly the patient answered yes, and
-mentioned somebody, of whom Sir Barnet had no more personal knowledge
-than of Ptolemy the Great. Sir Barnet replied, that nothing on earth
-was easier, as he knew him very [[Well|well]]: immediately called on the
-aforesaid somebody, left his card, wrote a short note,—“My dear
-Sir—penalty of your eminent position—friend at my [[house]] naturally
-desirous—Lady Skettles and myself participate—trust that genius being
-superior to ceremonies, you will do us the distinguished favour of
-giving us the pleasure,” etc, etc.—and so killed a brace of [[Birds|birds]] with
-one stone, dead as door-nails.
-
-With the snuff-box and banner in full force, Sir Barnet Skettles
-propounded his usual inquiry to Florence on the first morning of her
-visit. When Florence thanked him, and said there was no one in
-particular whom she desired to see, it was natural she should think
-with a pang, of poor lost Walter. When Sir Barnet Skettles, urging his
-kind offer, said, “My dear Miss Dombey, are you sure you can remember
-no one whom your good Papa—to whom I beg you present the best
-compliments of myself and Lady Skettles when you write—might wish you
-to know?” it was natural, perhaps, that her poor head should droop a
-little, and that her voice should tremble as it softly answered in the
-negative.
-
-Skettles Junior, much stiffened as to his cravat, and sobered down as
-to his spirits, was at [[Home|home]] for the holidays, and appeared to feel
-himself aggrieved by the solicitude of his excellent mother that he
-should be attentive to Florence. Another and a deeper injury under
-which the [[Soul|soul]] of young Barnet chafed, was the company of Dr and Mrs
-Blimber, who had been invited on a visit to the paternal roof-tree, and
-of whom the young gentleman often said he would have preferred their
-passing the vacation at Jericho.
-
-“Is there anybody you can suggest now, Doctor Blimber?” said Sir Barnet
-Skettles, turning to that gentleman.
-
-“You are very kind, Sir Barnet,” returned Doctor Blimber. “Really I am
-not aware that there is, in particular. I like to know my fellow-men in
-general, Sir Barnet. What does Terence say? Anyone who is the parent of
-a son is interesting to me.”
-
-“Has Mrs Blimber any wish to see any remarkable person?” asked Sir
-Barnet, courteously.
-
-Mrs Blimber replied, with a sweet smile and a shake of her sky-blue
-cap, that if Sir Barnet could have made her known to Cicero, she would
-have troubled him; but such an introduction not being feasible, and she
-already enjoying the [[Friendship|friendship]] of himself and his amiable lady, and
-possessing with the Doctor her husband their joint confidence in regard
-to their dear son—here young Barnet was observed to curl his nose—she
-asked no more.
-
-Sir Barnet was fain, under these circumstances, to content himself for
-the [[Time|time]] with the company assembled. Florence was glad of that; for she
-had a study to pursue among them, and it lay too near her heart, and
-was too precious and momentous, to yield to any other interest.
-
-There were some children staying in the [[house]]. Children who were as
-frank and happy with fathers and with mothers as those rosy faces
-opposite [[Home|home]]. Children who had no restraint upon their [[Love|love]], and
-freely showed it. Florence sought to learn their secret; sought to find
-out what it was she had missed; what simple art they knew, and she knew
-not; how she could be taught by them to show her father that she loved
-him, and to win his [[Love|love]] again.
-
-Many a day did Florence thoughtfully observe these children. On many a
-bright morning did she leave her bed when the glorious sun [[Rose|rose]], and
-walking up and down upon the [[River|river]]’s bank, before anyone in the [[house]]
-was stirring, look up at the windows of their rooms, and think of them,
-asleep, so gently tended and affectionately thought of. Florence would
-feel more lonely then, than in the [[Great House|great house]] all [[Alone|alone]]; and would
-think sometimes that she was better there than here, and that there was
-greater peace in hiding herself than in mingling with others of her
-age, and finding how unlike them all she was. But attentive to her
-study, though it touched her to the quick at every little leaf she
-turned in the hard book, Florence remained among them, and tried, with
-patient [[Hope|hope]], to gain the knowledge that she wearied for.
-
-Ah! how to gain it! how to know the charm in its beginning! There were
-daughters here, who [[Rose|rose]] up in the morning, and lay down to rest at
-[[Night|night]], possessed of fathers’ hearts already. They had no repulse to
-overcome, no coldness to dread, no frown to smooth away. As the morning
-advanced, and the windows opened one by one, and the dew began to dry
-upon the [[Flowers|flowers]] and youthful feet began to move upon the lawn,
-Florence, glancing round at the bright faces, thought what was there
-she could learn from these children? It was too late to learn from
-them; each could approach her father fearlessly, and put up her lips to
-meet the ready kiss, and [[Wind|wind]] her arm about the neck that bent down to
-caress her. She could not begin by being so bold. Oh! could it be that
-there was less and less [[Hope|hope]] as she studied more and more!
-
-She remembered [[Well|well]], that even the old woman who had robbed her when a
-little [[Child|child]]—whose image and whose [[house]], and all she had said and
-done, were stamped upon her recollection, with the enduring sharpness
-of a fearful impression made at that early period of life—had spoken
-fondly of her daughter, and how terribly even she had cried out in the
-[[Pain|pain]] of hopeless separation from her [[Child|child]]. But her own mother, she
-would think again, when she recalled this, had loved her [[Well|well]]. Then,
-sometimes, when her thoughts reverted swiftly to the void between
-herself and her father, Florence would tremble, and the [[Tears|tears]] would
-start upon her face, as she pictured to herself her mother living on,
-and coming also to dislike her, because of her wanting the unknown
-grace that should conciliate that father naturally, and had never done
-so from her cradle. She knew that this [[Imagination|imagination]] did wrong to her
-mother’s [[Memory|memory]], and had no [[Truth|truth]] in it, or base to rest upon; and yet
-she tried so hard to justify him, and to find the whole blame in
-herself, that she could not resist its passing, like a wild cloud,
-through the distance of her mind.
-
-There came among the other visitors, soon after Florence, one beautiful
-girl, three or four years younger than she, who was an [[Orphan|orphan]] [[Child|child]],
-and who was accompanied by her aunt, a grey-haired lady, who spoke much
-to Florence, and who greatly liked (but that they all did) to hear her
-sing of an evening, and would always sit near her at that [[Time|time]], with
-motherly interest. They had only been two days in the [[house]], when
-Florence, being in an arbour in the [[Garden|garden]] one warm morning, musingly
-observant of a youthful group upon the turf, through some intervening
-boughs,—and wreathing [[Flowers|flowers]] for the head of one little creature among
-them who was the pet and plaything of the rest, heard this same lady
-and her niece, in pacing up and down a sheltered nook close by, speak
-of herself.
-
-“Is Florence an [[Orphan|orphan]] like me, aunt?” said the [[Child|child]].
-
-“No, my [[Love|love]]. She has no mother, but her father is living.”
-
-“Is she in mourning for her poor Mama, now?” inquired the [[Child|child]]
-quickly.
-
-“No; for her only brother.”
-
-“Has she no other brother?”
-
-“None.”
-
-“No sister?”
-
-“None,”
-
-“I am very, very sorry!” said the little girl
-
-As they stopped soon afterwards to watch some boats, and had been
-silent in the meantime, Florence, who had risen when she heard her
-name, and had gathered up her [[Flowers|flowers]] to go and meet them, that they
-might know of her being within hearing, resumed her seat and work,
-expecting to hear no more; but the conversation recommenced next
-moment.
-
-“Florence is a favourite with everyone here, and deserves to be, I am
-sure,” said the [[Child|child]], earnestly. “Where is her Papa?”
-
-The aunt replied, after a moment’s pause, that she did not know. Her
-tone of voice arrested Florence, who had started from her seat again;
-and held her fastened to the spot, with her work hastily caught up to
-her bosom, and her two hands saving it from being scattered on the
-ground.
-
-“He is in England, I [[Hope|hope]], aunt?” said the [[Child|child]].
-
-“I believe so. Yes; I know he is, indeed.”
-
-“Has he ever been here?”
-
-“I believe not. No.”
-
-“Is he coming here to see her?”
-
-“I believe not.”
-
-“Is he lame, or blind, or ill, aunt?” asked the [[Child|child]].
-
-The [[Flowers|flowers]] that Florence held to her breast began to fall when she
-heard those words, so wonderingly spoke. She held them closer; and her
-face hung down upon them.
-
-“Kate,” said the lady, after another moment of [[Silence|silence]], “I will tell
-you the whole [[Truth|truth]] about Florence as I have heard it, and believe it
-to be. Tell no one else, my dear, because it may be little known here,
-and your doing so would give her [[Pain|pain]].”
-
-“I never will!” exclaimed the [[Child|child]].
-
-“I know you never will,” returned the lady. “I can trust you as myself.
-I [[Fear|fear]] then, Kate, that Florence’s father cares little for her, very
-seldom sees her, never was kind to her in her life, and now quite shuns
-her and avoids her. She would [[Love|love]] him dearly if he would suffer her,
-but he will not—though for no fault of hers; and she is greatly to be
-loved and pitied by all gentle hearts.”
-
-More of the [[Flowers|flowers]] that Florence held fell scattering on the ground;
-those that remained were wet, but not with dew; and her face dropped
-upon her laden hands.
-
-“Poor Florence! Dear, good Florence!” cried the [[Child|child]].
-
-“Do you know why I have told you this, Kate?” said the lady.
-
-“That I may be very kind to her, and take great care to try to please
-her. Is that the reason, aunt?”
-
-“Partly,” said the lady, “but not all. Though we see her so cheerful;
-with a pleasant smile for everyone; ready to oblige us all, and bearing
-her part in every amusement here: she can hardly be quite happy, do you
-think she can, Kate?”
-
-“I am afraid not,” said the little girl.
-
-“And you can understand,” pursued the lady, “why her observation of
-children who have parents who are fond of them, and proud of them—like
-many here, just now—should make her sorrowful in secret?”
-
-“Yes, dear aunt,” said the [[Child|child]], “I understand that very [[Well|well]]. Poor
-Florence!”
-
-More [[Flowers|flowers]] strayed upon the ground, and those she yet held to her
-breast trembled as if a wintry [[Wind|wind]] were rustling them.
-
-“My Kate,” said the lady, whose voice was serious, but very calm and
-sweet, and had so impressed Florence from the first moment of her
-hearing it, “of all the youthful people here, you are her natural and
-harmless friend; you have not the [[Innocent|innocent]] means, that happier children
-have—”
-
-“There are none happier, aunt!” exclaimed the [[Child|child]], who seemed to
-cling about her.
-
-“—As other children have, dear Kate, of reminding her of her
-misfortune. Therefore I would have you, when you try to be her little
-friend, try all the more for that, and feel that the bereavement you
-sustained—thank Heaven! before you knew its weight—gives you claim and
-hold upon poor Florence.”
-
-“But I am not without a parent’s [[Love|love]], aunt, and I never have been,”
-said the [[Child|child]], “with you.”
-
-“However that may be, my dear,” returned the lady, “your misfortune is
-a lighter one than Florence’s; for not an [[Orphan|orphan]] in the wide world can
-be so deserted as the [[Child|child]] who is an outcast from a living parent’s
-[[Love|love]].”
-
-The [[Flowers|flowers]] were scattered on the ground like [[Dust|dust]]; the empty hands
-were spread upon the face; and orphaned Florence, shrinking down upon
-the ground, wept long and bitterly.
-
-But true of heart and resolute in her good purpose, Florence held to it
-as her dying mother held by her upon the day that gave Paul life. He
-did not know how much she loved him. However long the [[Time|time]] in coming,
-and however slow the interval, she must try to bring that knowledge to
-her father’s heart one day or other. Meantime she must be careful in no
-thoughtless word, or look, or burst of feeling awakened by any chance
-circumstance, to complain against him, or to give occasion for these
-whispers to his prejudice.
-
-Even in the response she made the [[Orphan|orphan]] [[Child|child]], to whom she was
-attracted strongly, and whom she had such occasion to remember,
-Florence was mindful of him. If she singled her out too plainly
-(Florence thought) from among the rest, she would confirm—in one mind
-certainly: perhaps in more—the belief that he was cruel and unnatural.
-Her own delight was no set-off to this. What she had overheard was a
-reason, not for soothing herself, but for saving him; and Florence did
-it, in pursuance of the study of her heart.
-
-She did so always. If a book were read aloud, and there were anything
-in the story that pointed at an unkind father, she was in [[Pain|pain]] for
-their application of it to him; not for herself. So with any trifle of
-an interlude that was acted, or picture that was shown, or game that
-was played, among them. The occasions for such tenderness towards him
-were so many, that her mind misgave her often, it would indeed be
-better to go back to the old [[house]], and live again within the [[Shadow|shadow]] of
-its dull walls, undisturbed. How few who saw sweet Florence, in her
-[[Spring|spring]] of womanhood, the modest little [[Queen|queen]] of those small revels,
-imagined what a load of sacred care lay heavy in her breast! How few of
-those who stiffened in her father’s freezing atmosphere, suspected what
-a heap of fiery coals was piled upon his head!
-
-Florence pursued her study patiently, and, failing to acquire the
-secret of the nameless grace she sought, among the youthful company who
-were assembled in the [[house]], often walked out [[Alone|alone]], in the early
-morning, among the children of the poor. But still she found them all
-too far advanced to learn from. They had won their household places
-long ago, and did not stand without, as she did, with a bar across the
-door.
-
-There was one man whom she several times observed at work very early,
-and often with a girl of about her own age seated near him. He was a
-very poor man, who seemed to have no regular employment, but now went
-roaming about the banks of the [[River|river]] when the tide was low, looking out
-for bits and scraps in the mud; and now worked at the unpromising
-little patch of [[Garden|garden]]-ground before his cottage; and now tinkered up a
-miserable old boat that belonged to him; or did some job of that kind
-for a neighbour, as chance occurred. Whatever the man’s labour, the
-girl was never employed; but sat, when she was with him, in a listless,
-moping state, and idle.
-
-Florence had often wished to speak to this man; yet she had never taken
-[[Courage|courage]] to do so, as he made no movement towards her. But one morning
-when she happened to come upon him suddenly, from a by-path among some
-pollard willows which terminated in the little shelving piece of stony
-ground that lay between his dwelling and the [[Water|water]], where he was
-bending over a [[Fire|fire]] he had made to caulk the old boat which was lying
-[[Bottom|bottom]] upwards, close by, he raised his head at the sound of her
-footstep, and gave her Good morning.
-
-“Good morning,” said Florence, approaching nearer, “you are at work
-early.”
-
-“I’d be glad to be often at work earlier, Miss, if I had work to do.”
-
-“Is it so hard to get?” asked Florence.
-
-“I find it so,” replied the man.
-
-Florence glanced to where the girl was sitting, drawn together, with
-her elbows on her knees, and her chin on her hands, and said:
-
-“Is that your daughter?”
-
-He raised his head quickly, and looking towards the girl with a
-brightened face, nodded to her, and said “Yes,” Florence looked towards
-her too, and gave her a kind salutation; the girl muttered something in
-return, ungraciously and sullenly.
-
-“Is she in want of employment also?” said Florence.
-
-The man shook his head. “No, Miss,” he said. “I work for both,”
-
-“Are there only you two, then?” inquired Florence.
-
-“Only us two,” said the man. “Her mother has been dead these ten year.
-Martha!” (he lifted up his head again, and whistled to her) “won’t you
-say a word to the pretty young lady?”
-
-The girl made an impatient gesture with her cowering shoulders, and
-turned her head another way. Ugly, misshapen, peevish, ill-conditioned,
-ragged, dirty—but beloved! Oh yes! Florence had seen her father’s look
-towards her, and she knew whose look it had no likeness to.
-
-“I’m afraid she’s worse this morning, my poor girl!” said the man,
-suspending his work, and contemplating his ill-favoured [[Child|child]], with a
-compassion that was the more tender for being rougher.
-
-“She is ill, then!” said Florence.
-
-The man drew a deep sigh. “I don’t believe my Martha’s had five short
-days’ good health,” he answered, looking at her still, “in as many long
-years.”
-
-“Ay! and more than that, John,” said a neighbour, who had come down to
-help him with the boat.
-
-“More than that, you say, do you?” cried the other, pushing back his
-battered hat, and drawing his hand across his forehead. “Very like. It
-seems a long, long [[Time|time]].”
-
-“And the more the [[Time|time]],” pursued the neighbour, “the more you’ve
-favoured and humoured her, John, till she’s got to be a burden to
-herself, and everybody else.”
-
-“Not to me,” said her father, falling to his work. “Not to me.”
-
-Florence could feel—who better?—how truly he spoke. She drew a little
-closer to him, and would have been glad to touch his rugged hand, and
-thank him for his goodness to the miserable object that he looked upon
-with eyes so different from any other man’s.
-
-“Who would favour my poor girl—to call it favouring—if I didn’t?” said
-the father.
-
-“Ay, ay,” cried the neighbour. “In reason, John. But you! You rob
-yourself to give to her. You bind yourself hand and foot on her
-account. You make your life miserable along of her. And what does she
-care! You don’t believe she knows it?”
-
-The father lifted up his head again, and whistled to her. Martha made
-the same impatient gesture with her crouching shoulders, in reply; and
-he was glad and happy.
-
-“Only for that, Miss,” said the neighbour, with a smile, in which there
-was more of secret sympathy than he expressed; “only to get that, he
-never lets her out of his sight!”
-
-“Because the day’ll come, and has been coming a long while,” observed
-the other, bending low over his work, “when to get half as much from
-that unfort’nate [[Child|child]] of mine—to get the trembling of a finger, or the
-waving of a hair—would be to raise the dead.”
-
-Florence softly put some money near his hand on the old boat, and left
-him.
-
-And now Florence began to think, if she were to fall ill, if she were
-to fade like her dear brother, would he then know that she had loved
-him; would she then grow dear to him; would he come to her bedside,
-when she was weak and dim of sight, and take her into his embrace, and
-cancel all the past? Would he so forgive her, in that changed
-condition, for not having been able to lay open her childish heart to
-him, as to make it easy to relate with what emotions she had gone out
-of his room that [[Night|night]]; what she had meant to say if she had had the
-[[Courage|courage]]; and how she had endeavoured, afterwards, to learn the way she
-never knew in infancy?
-
-Yes, she thought if she were dying, he would relent. She thought, that
-if she lay, serene and not unwilling to depart, upon the bed that was
-curtained round with recollections of their darling boy, he would be
-touched [[Home|home]], and would say, “Dear Florence, live for me, and we will
-[[Love|love]] each other as we might have done, and be as happy as we might have
-been these many years!” She thought that if she heard such words from
-him, and had her arms clasped round him, she could answer with a smile,
-“It is too late for anything but this; I never could be happier, dear
-father!” and so leave him, with a blessing on her lips.
-
-The golden [[Water|water]] she remembered on the wall, appeared to Florence, in
-the light of such reflections, only as a current flowing on to rest,
-and to a region where the dear ones, gone before, were waiting, hand in
-hand; and often when she looked upon the darker [[River|river]] rippling at her
-feet, she thought with awful [[Wonder|wonder]], but not terror, of that [[River|river]]
-which her brother had so often said was bearing him away.
-
-The father and his sick daughter were yet fresh in Florence’s mind,
-and, indeed, that incident was not a week old, when Sir Barnet and his
-lady going out walking in the lanes one afternoon, proposed to her to
-bear them company. Florence readily consenting, Lady Skettles ordered
-out young Barnet as a matter of course. For nothing delighted Lady
-Skettles so much, as beholding her eldest son with Florence on his arm.
-
-Barnet, to say the [[Truth|truth]], appeared to entertain an opposite sentiment
-on the subject, and on such occasions frequently expressed himself
-audibly, though indefinitely, in reference to “a parcel of girls.” As
-it was not easy to ruffle her sweet temper, however, Florence generally
-reconciled the young gentleman to his fate after a few minutes, and
-they strolled on amicably: Lady Skettles and Sir Barnet following, in a
-state of perfect complacency and high gratification.
-
-This was the order of procedure on the afternoon in question; and
-Florence had almost succeeded in overruling the present objections of
-Skettles Junior to his destiny, when a gentleman on horseback came
-riding by, looked at them earnestly as he passed, drew in his rein,
-wheeled round, and came riding back again, hat in hand.
-
-The gentleman had looked particularly at Florence; and when the little
-party stopped, on his riding back, he bowed to her, before saluting Sir
-Barnet and his lady. Florence had no remembrance of having ever seen
-him, but she started involuntarily when he came near her, and drew
-back.
-
-“My [[Horse|horse]] is perfectly quiet, I assure you,” said the gentleman.
-
-It was not that, but something in the gentleman himself—Florence could
-not have said what—that made her recoil as if she had been stung.
-
-“I have the [[Honour|honour]] to address Miss Dombey, I believe?” said the
-gentleman, with a most persuasive smile. On Florence inclining her
-head, he added, “My name is Carker. I can hardly [[Hope|hope]] to be remembered
-by Miss Dombey, except by name. Carker.”
+CHAPTER LII.
+Secret Intelligence
+
+
+Good Mrs Brown and her daughter Alice kept silent company together, in
+their own dwelling. It was early in the evening, and late in the
+[[spring]]. But a few days had elapsed since Mr Dombey had told Major
+Bagstock of his singular intelligence, singularly obtained, which might
+turn out to be valueless, and might turn out to be true; and the world
+was not satisfied yet.
+
+The mother and daughter sat for a long [[Time|time]] without interchanging a
+word: almost without motion. The old woman’s face was shrewdly anxious
+and expectant; that of her daughter was expectant too, but in a less
+sharp degree, and sometimes it darkened, as if with gathering
+disappointment and [[Incredulity|incredulity]]. The old woman, without heeding these
+changes in its expression, though her eyes were often turned towards
+it, sat mumbling and munching, and listening confidently.
+
+Their abode, though poor and miserable, was not so utterly wretched as
+in the days when only Good Mrs Brown inhabited it. Some few attempts at
+cleanliness and order were manifest, though made in a reckless, gipsy
+way, that might have connected them, at a glance, with the younger
+woman. The shades of evening thickened and deepened as the two kept
+[[Silence|silence]], until the blackened walls were nearly lost in the prevailing
+gloom.
+
+Then Alice broke the [[Silence|silence]] which had lasted so long, and said:
+
+“You may give him up, mother. He’ll not come here.”
+
+“[[Death]] give him up!” returned the old woman, impatiently. “He will come
+here.”
+
+“We shall see,” said Alice.
+
+“We shall see him,” returned her mother.
+
+“And doomsday,” said the daughter.
+
+“You think I’m in my second [[Childhood|childhood]], I know!” croaked the old woman.
+“That’s the respect and duty that I get from my own gal, but I’m wiser
+than you take me for. He’ll come. T’other day when I touched his coat
+in the street, he looked round as if I was a toad. But Lord, to see him
+when I said their names, and asked him if he’d like to find out where
+they was!”
+
+“Was it so angry?” asked her daughter, roused to interest in a moment.
+
+“Angry? ask if it was bloody. That’s more like the word. Angry? Ha, ha!
+To call that only angry!” said the old woman, hobbling to the cupboard,
+and lighting a candle, which displayed the workings of her mouth to
+ugly advantage, as she brought it to the table. “I might as [[Well|well]] call
+your face only angry, when you think or talk about ’em.”
+
+It was something different from that, truly, as she sat as still as a
+crouched tigress, with her kindling eyes.
+
+“Hark!” said the old woman, triumphantly. “I hear a step coming. It’s
+not the tread of anyone that lives about here, or comes this way often.
+We don’t walk like that. We should grow proud on such neighbours! Do
+you hear him?”
+
+“I believe you are right, mother,” replied Alice, in a low voice.
+“Peace! open the door.”
+
+As she drew herself within her shawl, and gathered it about her, the
+old woman complied; and peering out, and beckoning, gave admission to
+Mr Dombey, who stopped when he had set his foot within the door, and
+looked distrustfully around.
+
+“It’s a poor place for a great gentleman like your worship,” said the
+old woman, curtseying and chattering. “I told you so, but there’s no
+harm in it.”
+
+“Who is that?” asked Mr Dombey, looking at her companion.
+
+“That’s my handsome daughter,” said the old woman. “Your worship won’t
+mind her. She knows all about it.”
+
+A [[Shadow|shadow]] fell upon his face not less expressive than if he had groaned
+aloud, “Who does not know all about it!” but he looked at her steadily,
+and she, without any acknowledgment of his presence, looked at him. The
+[[Shadow|shadow]] on his face was darker when he turned his glance away from her;
+and even then it wandered back again, furtively, as if he were haunted
+by her bold eyes, and some remembrance they inspired.
+
+“Woman,” said Mr Dombey to the old [[Witch|witch]] who was chuckling and leering
+close at his elbow, and who, when he turned to address her, pointed
+stealthily at her daughter, and rubbed her hands, and pointed again,
+“Woman! I believe that I am weak and forgetful of my station in coming
+here, but you know why I come, and what you offered when you stopped me
+in the street the other day. What is it that you have to tell me
+concerning what I want to know; and how does it happen that I can find
+voluntary intelligence in a hovel like this,” with a disdainful glance
+about him, “when I have exerted my power and means to obtain it in
+vain? I do not think,” he said, after a moment’s pause, during which he
+had observed her, sternly, “that you are so audacious as to mean to
+trifle with me, or endeavour to impose upon me. But if you have that
+purpose, you had better stop on the threshold of your scheme. My [[Humour|humour]]
+is not a trifling one, and my acknowledgment will be severe.”
+
+“Oh a proud, hard gentleman!” chuckled the old woman, shaking her head,
+and rubbing her shrivelled hands, “oh hard, hard, hard! But your
+worship shall see with your own eyes and hear with your own ears; not
+with ours—and if your worship’s put upon their track, you won’t mind
+paying something for it, will you, honourable deary?”
+
+“Money,” returned Mr Dombey, apparently relieved, and assured by this
+inquiry, “will bring about unlikely things, I know. It may turn even
+means as unexpected and unpromising as these, to account. Yes. For any
+reliable information I receive, I will pay. But I must have the
+information first, and judge for myself of its value.”
+
+“Do you know nothing more powerful than money?” asked the younger
+woman, without rising, or altering her attitude.
+
+“Not here, I should imagine,” said Mr Dombey.
+
+“You should know of something that is more powerful elsewhere, as I
+judge,” she returned. “Do you know nothing of a woman’s anger?”
+
+“You have a saucy tongue, Jade,” said Mr Dombey.
+
+“Not usually,” she answered, without any show of emotion: “I speak to
+you now, that you may understand us better, and rely more on us. A
+woman’s anger is pretty much the same here, as in your fine [[house]]. I am
+angry. I have been so, many years. I have as good cause for my anger as
+you have for yours, and its object is the same man.”
+
+He started, in spite of himself, and looked at her with astonishment.
+
+“Yes,” she said, with a kind of laugh. “Wide as the distance may seem
+between us, it is so. How it is so, is no matter; that is my story, and
+I keep my story to myself. I would bring you and him together, because
+I have a rage against him. My mother there, is avaricious and poor; and
+she would sell any tidings she could glean, or anything, or anybody,
+for money. It is fair enough, perhaps, that you should pay her some, if
+she can help you to what you want to know. But that is not my motive. I
+have told you what mine is, and it would be as strong and
+all-sufficient with me if you haggled and bargained with her for a
+sixpence. I have done. My saucy tongue says no more, if you wait here
+till sunrise tomorrow.”
+
+The old woman, who had shown great uneasiness during this speech, which
+had a tendency to depreciate her expected gains, pulled Mr Dombey
+softly by the sleeve, and whispered to him not to mind her. He glared
+at them both, by turns, with a haggard look, and said, in a deeper
+voice than was usual with him:
+
+“Go on—what do you know?”
+
+“Oh, not so fast, your worship! we must wait for someone,” answered the
+old woman. “It’s to be got from someone else—wormed out—screwed and
+twisted from him.”
+
+“What do you mean?” said Mr Dombey.
+
+“Patience,” she croaked, laying her hand, like a claw, upon his arm.
+“Patience. I’ll get at it. I know I can! If he was to hold it back from
+me,” said Good Mrs Brown, crooking her ten fingers, “I’d tear it out of
+him!”
+
+Mr Dombey followed her with his eyes as she hobbled to the door, and
+looked out again: and then his glance sought her daughter; but she
+remained impassive, silent, and regardless of him.
+
+“Do you tell me, woman,” he said, when the bent figure of Mrs Brown
+came back, shaking its head and chattering to itself, “that there is
+another person expected here?”
+
+“Yes!” said the old woman, looking up into his face, and nodding.
+
+“From whom you are to exact the intelligence that is to be useful to
+me?”
+
+“Yes,” said the old woman, nodding again.
+
+“A stranger?”
+
+“Chut!” said the old woman, with a shrill laugh. “What signifies! [[Well]],
+[[Well|well]]; no. No stranger to your worship. But he won’t see you. He’d be
+afraid of you, and wouldn’t talk. You’ll stand behind that door, and
+judge him for yourself. We don’t ask to be believed on trust What! Your
+worship doubts the room behind the door? Oh the suspicion of you rich
+gentlefolks! Look at it, then.”
+
+Her sharp eye had detected an involuntary expression of this feeling on
+his part, which was not unreasonable under the circumstances. In
+satisfaction of it she now took the candle to the door she spoke of. Mr
+Dombey looked in; assured himself that it was an empty, crazy room; and
+signed to her to put the light back in its place.
+
+“How long,” he asked, “before this person comes?”
+
+“Not long,” she answered. “Would your worship sit down for a few odd
+minutes?”
+
+He made no answer; but began pacing the room with an irresolute air, as
+if he were undecided whether to remain or depart, and as if he had some
+quarrel with himself for being there at all. But soon his tread grew
+slower and heavier, and his face more sternly thoughtful; as the object
+with which he had come, fixed itself in his mind, and dilated there
+again.
+
+While he thus walked up and down with his eyes on the ground, Mrs
+Brown, in the chair from which she had risen to receive him, sat
+listening anew. The monotony of his step, or the uncertainty of age,
+made her so slow of hearing, that a footfall without had sounded in her
+daughter’s ears for some moments, and she had looked up hastily to warn
+her mother of its approach, before the old woman was roused by it. But
+then she started from her seat, and whispering “Here he is!” hurried
+her visitor to his place of observation, and put a bottle and glass
+upon the table, with such alacrity, as to be ready to fling her arms
+round the neck of Rob the Grinder on his appearance at the door.
 
 [Illustration]
 
-Florence, sensible of a strange inclination to shiver, though the day
-was hot, presented him to her host and hostess; by whom he was very
-graciously received.
+“And here’s my bonny boy,” cried Mrs Brown, “at last!—oho, oho! You’re
+like my own son, Robby!”
 
-“I beg pardon,” said Mr Carker, “a thousand times! But I am going down
-tomorrow morning to Mr Dombey, at Leamington, and if Miss Dombey can
-entrust me with any commission, need I say how very happy I shall be?”
+“Oh! Misses Brown!” remonstrated the Grinder. “Don’t! Can’t you be fond
+of a cove without squeedging and throttling of him? Take care of the
+birdcage in my hand, will you?”
 
-Sir Barnet immediately divining that Florence would [[Desire|desire]] to write a
-letter to her father, proposed to return, and besought Mr Carker to
-come [[Home|home]] and dine in his riding gear. Mr Carker had the misfortune to
-be engaged to dinner, but if Miss Dombey wished to write, nothing would
-delight him more than to accompany them back, and to be her faithful
-slave in waiting as long as she pleased. As he said this with his
-widest smile, and bent down close to her to pat his [[Horse|horse]]’s neck,
-Florence meeting his eyes, saw, rather than heard him say, “There is no
-news of the [[Ship|ship]]!”
+“Thinks of a birdcage, afore me!” cried the old woman, apostrophizing
+the ceiling. “Me that feels more than a mother for him!”
 
-Confused, frightened, shrinking from him, and not even sure that he had
-said those words, for he seemed to have shown them to her in some
-extraordinary manner through his smile, instead of uttering them,
-Florence faintly said that she was obliged to him, but she would not
-write; she had nothing to say.
+“[[Well]], I’m sure I’m very much obliged to you, Misses Brown,” said the
+unfortunate youth, greatly aggravated; “but you’re so jealous of a
+cove. I’m very fond of you myself, and all that, of course; but I don’t
+smother you, do I, Misses Brown?”
 
-“Nothing to send, Miss Dombey?” said the man of teeth.
+He looked and spoke as if he would have been far from objecting to do
+so, however, on a favourable occasion.
 
-“Nothing,” said Florence, “but my—but my dear [[Love|love]]—if you please.”
+“And to talk about birdcages, too!” whimpered the Grinder. “As if that
+was a crime! Why, look’ee here! Do you know who this belongs to?”
 
-Disturbed as Florence was, she raised her eyes to his face with an
-imploring and expressive look, that plainly besought him, if he
-knew—which he as plainly did—that any message between her and her
-father was an uncommon charge, but that one most of all, to spare her.
-Mr Carker smiled and bowed low, and being charged by Sir Barnet with
-the best compliments of himself and Lady Skettles, took his leave, and
-rode away: leaving a favourable impression on that worthy couple.
-Florence was seized with such a shudder as he went, that Sir Barnet,
-adopting the popular superstition, supposed somebody was passing over
-her [[Grave|grave]]. Mr Carker turning a corner, on the instant, looked back, and
-bowed, and disappeared, as if he rode off to the churchyard straight,
-to do it.
+“To Master, dear?” said the old woman with a grin.
+
+“Ah!” replied the Grinder, lifting a large cage tied up in a wrapper,
+on the table, and untying it with his teeth and hands. “It’s our
+parrot, this is.”
+
+“Mr Carker’s parrot, Rob?”
+
+“Will you hold your tongue, Misses Brown?” returned the goaded Grinder.
+“What do you go naming names for? I’m blest,” said Rob, pulling his
+hair with both hands in the exasperation of his feelings, “if she ain’t
+enough to make a cove run wild!”
+
+“What! Do you snub me, thankless boy!” cried the old woman, with ready
+vehemence.
+
+“Good gracious, Misses Brown, no!” returned the Grinder, with [[Tears|tears]] in
+his eyes. “Was there ever such a—! Don’t I dote upon you, Misses
+Brown?”
+
+“Do you, sweet Rob? Do you truly, chickabiddy?” With that, Mrs Brown
+held him in her fond embrace once more; and did not release him until
+he had made several violent and ineffectual struggles with his legs,
+and his hair was standing on end all over his head.
+
+“Oh!” returned the Grinder, “what a thing it is to be perfectly pitched
+into with affection like this here. I wish she was—How have you been,
+Misses Brown?”
+
+“Ah! Not here since this [[Night|night]] week!” said the old woman, contemplating
+him with a look of reproach.
+
+“Good gracious, Misses Brown,” returned the Grinder, “I said tonight’s
+a week, that I’d come tonight, didn’t I? And here I am. How you do go
+on! I wish you’d be a little rational, Misses Brown. I’m hoarse with
+saying things in my defence, and my very face is shiny with being
+hugged!” He rubbed it hard with his sleeve, as if to remove the tender
+polish in question.
+
+“Drink a little drop to comfort you, my Robin,” said the old woman,
+filling the glass from the bottle and giving it to him.
+
+“Thank’ee, Misses Brown,” returned the Grinder. “Here’s your health.
+And long may you—et ceterer.” Which, to judge from the expression of
+his face, did not include any very choice blessings. “And here’s her
+health,” said the Grinder, glancing at Alice, who sat with her eyes
+fixed, as it seemed to him, on the wall behind him, but in reality on
+Mr Dombey’s face at the door, “and wishing her the same and many of
+’em!”
+
+He drained the glass to these two sentiments, and set it down.
+
+“[[Well]], I say, Misses Brown!” he proceeded. “To go on a little rational
+now. You’re a judge of [[Birds|birds]], and up to their ways, as I know to my
+cost.”
+
+“Cost!” repeated Mrs Brown.
+
+“Satisfaction, I mean,” returned the Grinder. “How you do take up a
+cove, Misses Brown! You’ve put it all out of my head again.”
+
+“Judge of [[Birds|birds]], Robby,” suggested the old woman.
+
+“Ah!” said the Grinder. “[[Well]], I’ve got to take care of this
+parrot—certain things being sold, and a certain establishment broke
+up—and as I don’t want no notice took at present, I wish you’d attend
+to her for a week or so, and give her board and lodging, will you? If I
+must come backwards and forwards,” mused the Grinder with a dejected
+face, “I may as [[Well|well]] have something to come for.”
+
+“Something to come for?” screamed the old woman.
+
+“Besides you, I mean, Misses Brown,” returned the craven Rob. “Not that
+I want any inducement but yourself, Misses Brown, I’m sure. Don’t begin
+again, for goodness’ sake.”
+
+“He don’t care for me! He don’t care for me, as I care for him!” cried
+Mrs Brown, lifting up her skinny hands. “But I’ll take care of his
+bird.”
+
+“Take good care of it too, you know, Mrs Brown,” said Rob, shaking his
+head. “If you was so much as to stroke its feathers once the wrong way,
+I believe it would be found out.”
+
+“Ah, so sharp as that, Rob?” said Mrs Brown, quickly.
+
+“Sharp, Misses Brown!” repeated Rob. “But this is not to be talked
+about.”
+
+Checking himself abruptly, and not without a fearful glance across the
+room, Rob filled the glass again, and having slowly emptied it, shook
+his head, and began to draw his fingers across and across the wires of
+the parrot’s cage by way of a diversion from the dangerous theme that
+had just been broached.
+
+The old woman eyed him slily, and hitching her chair nearer his, and
+looking in at the parrot, who came down from the gilded dome at her
+call, said:
+
+“Out of place now, Robby?”
+
+“Never you mind, Misses Brown,” returned the Grinder, shortly.
+
+“Board wages, perhaps, Rob?” said Mrs Brown.
+
+“Pretty Polly!” said the Grinder.
+
+The old woman darted a glance at him that might have warned him to
+consider his ears in danger, but it was his turn to look in at the
+parrot now, and however expressive his [[Imagination|imagination]] may have made her
+angry scowl, it was unseen by his bodily eyes.
+
+“I [[Wonder|wonder]] Master didn’t take you with him, Rob,” said the old woman, in
+a wheedling voice, but with increased malignity of aspect.
+
+Rob was so absorbed in contemplation of the parrot, and in trolling his
+forefinger on the wires, that he made no answer.
+
+The old woman had her clutch within a hair’s breadth of his shock of
+hair as it stooped over the table; but she restrained her fingers, and
+said, in a voice that choked with its efforts to be coaxing:
+
+“Robby, my [[Child|child]].”
+
+“[[Well]], Misses Brown,” returned the Grinder.
+
+“I say I [[Wonder|wonder]] Master didn’t take you with him, dear.”
+
+“Never you mind, Misses Brown,” returned the Grinder.
+
+Mrs Brown instantly directed the clutch of her right hand at his hair,
+and the clutch of her left hand at his throat, and held on to the
+object of her fond affection with such extraordinary fury, that his
+face began to blacken in a moment.
+
+“Misses Brown!” exclaimed the Grinder, “let go, will you? What are you
+doing of? Help, young woman! Misses Brow—Brow—!”
+
+The young woman, however, equally unmoved by his direct appeal to her,
+and by his inarticulate utterance, remained quite neutral, until, after
+struggling with his assailant into a corner, Rob disengaged himself,
+and stood there panting and fenced in by his own elbows, while the old
+woman, panting too, and stamping with rage and eagerness, appeared to
+be collecting her energies for another swoop upon him. At this crisis
+Alice interposed her voice, but not in the Grinder’s favour, by saying,
+
+“[[Well]] done, mother. Tear him to pieces!”
+
+“What, young woman!” blubbered Rob; “are you against me too? What have
+I been and done? What am I to be tore to pieces for, I should like to
+know? Why do you take and choke a cove who has never done you any harm,
+neither of you? Call yourselves females, too!” said the frightened and
+afflicted Grinder, with his coat-cuff at his eye. “I’m surprised at
+you! Where’s your feminine tenderness?”
+
+“You thankless dog!” gasped Mrs Brown. “You impudent insulting dog!”
+
+“What have I been and done to go and give you offence, Misses Brown?”
+retorted the fearful Rob. “You was very much attached to me a minute
+ago.”
+
+“To cut me off with his short answers and his sulky words,” said the
+old woman. “Me! Because I happen to be curious to have a little bit of
+gossip about Master and the lady, to dare to play at fast and loose
+with me! But I’ll talk to you no more, my lad. Now go!”
+
+“I’m sure, Misses Brown,” returned the abject Grinder, “I never
+insiniwated that I wished to go. Don’t talk like that, Misses Brown, if
+you please.”
+
+“I won’t talk at all,” said Mrs Brown, with an action of her crooked
+fingers that made him shrink into half his natural compass in the
+corner. “Not another word with him shall pass my lips. He’s an
+ungrateful hound. I cast him off. Now let him go! And I’ll slip those
+after him that shall talk too much; that won’t be shook away; that’ll
+hang to him like leeches, and slink arter him like foxes. What! He
+knows ’em. He knows his old games and his old ways. If he’s forgotten
+’em, they’ll soon remind him. Now let him go, and see how he’ll do
+Master’s business, and keep Master’s [[Secrets|secrets]], with such company always
+following him up and down. Ha, ha, ha! He’ll find ’em a different sort
+from you and me, Ally; Close as he is with you and me. Now let him go,
+now let him go!”
+
+The old woman, to the unspeakable dismay of the Grinder, walked her
+twisted figure round and round, in a ring of some four feet in
+diameter, constantly repeating these words, and shaking her fist above
+her head, and working her mouth about.
+
+“Misses Brown,” pleaded Rob, coming a little out of his corner, “I’m
+sure you wouldn’t injure a cove, on second thoughts, and in cold [[Blood|blood]],
+would you?”
+
+“Don’t talk to me,” said Mrs Brown, still wrathfully pursuing her
+circle. “Now let him go, now let him go!”
+
+“Misses Brown,” urged the tormented Grinder, “I didn’t mean to—Oh, what
+a thing it is for a cove to get into such a line as this!—I was only
+careful of talking, Misses Brown, because I always am, on account of
+his being up to everything; but I might have known it wouldn’t have
+gone any further. I’m sure I’m quite agreeable,” with a wretched face,
+“for any little bit of gossip, Misses Brown. Don’t go on like this, if
+you please. Oh, couldn’t you have the goodness to put in a word for a
+miserable cove, here?” said the Grinder, appealing in desperation to
+the daughter.
+
+“Come, mother, you hear what he says,” she interposed, in her stern
+voice, and with an impatient action of her head; “try him once more,
+and if you fall out with him again, ruin him, if you like, and have
+done with him.”
+
+Mrs Brown, moved as it seemed by this very tender exhortation,
+presently began to howl; and softening by degrees, took the apologetic
+Grinder to her arms, who embraced her with a face of unutterable woe,
+and like a victim as he was, resumed his former seat, close by the side
+of his venerable friend, whom he suffered, not without much constrained
+sweetness of countenance, combating very expressive physiognomical
+revelations of an opposite character to draw his arm through hers, and
+keep it there.
+
+“And how’s Master, deary dear?” said Mrs Brown, when, sitting in this
+amicable posture, they had pledged each other.
+
+“Hush! If you’d be so good, Misses Brown, as to speak a little lower,”
+Rob implored. “Why, he’s pretty [[Well|well]], thank’ee, I suppose.”
+
+“You’re not out of place, Robby?” said Mrs Brown, in a wheedling tone.
+
+“Why, I’m not exactly out of place, nor in,” faltered Rob. “I—I’m still
+in pay, Misses Brown.”
+
+“And nothing to do, Rob?”
+
+“Nothing particular to do just now, Misses Brown, but to—keep my eyes
+open,” said the Grinder, [[rolling]] them in a forlorn way.
+
+“Master abroad, Rob?”
+
+“Oh, for goodness’ sake, Misses Brown, couldn’t you gossip with a cove
+about anything else?” cried the Grinder, in a burst of [[Despair|despair]].
+
+The impetuous Mrs Brown rising directly, the tortured Grinder detained
+her, stammering “Ye-es, Misses Brown, I believe he’s abroad. What’s she
+staring at?” he added, in allusion to the daughter, whose eyes were
+fixed upon the face that now again looked out behind.
+
+“Don’t mind her, lad,” said the old woman, holding him closer to
+prevent his turning round. “It’s her way—her way. Tell me, Rob. Did you
+ever see the lady, deary?”
+
+“Oh, Misses Brown, what lady?” cried the Grinder in a tone of piteous
+supplication.
+
+“What lady?” she retorted. “The lady; Mrs Dombey.”
+
+“Yes, I believe I see her once,” replied Rob.
+
+“The [[Night|night]] she went away, Robby, eh?” said the old woman in his ear,
+and taking note of every change in his face. “Aha! I know it was that
+[[Night|night]].”
+
+“[[Well]], if you know it was that [[Night|night]], you know, Misses Brown,” replied
+Rob, “it’s no use putting pinchers into a cove to make him say so.
+
+“Where did they go that [[Night|night]], Rob? Straight away? How did they go?
+Where did you see her? Did she laugh? Did she cry? Tell me all about
+it,” cried the old hag, holding him closer yet, patting the hand that
+was drawn through his arm against her other hand, and searching every
+line in his face with her bleared eyes. “Come! Begin! I want to be told
+all about it. What, Rob, boy! You and me can keep a secret together,
+eh? We’ve done so before now. Where did they go first, Rob?”
+
+The wretched Grinder made a gasp, and a pause.
+
+“Are you dumb?” said the old woman, angrily.
+
+“Lord, Misses Brown, no! You expect a cove to be a flash of [[Lightning|lightning]].
+I wish I was the electric fluency,” muttered the bewildered Grinder.
+“I’d have a shock at somebody, that would settle their business.”
+
+“What do you say?” asked the old woman, with a grin.
+
+“I’m wishing my [[Love|love]] to you, Misses Brown,” returned the false Rob,
+seeking consolation in the glass. “Where did they go to first was it?
+Him and her, do you mean?”
+
+“Ah!” said the old woman, eagerly. “Them two.”
+
+“Why, they didn’t go nowhere—not together, I mean,” answered Rob.
+
+The old woman looked at him, as though she had a strong impulse upon
+her to make another clutch at his head and throat, but was restrained
+by a certain dogged mystery in his face.
+
+“That was the art of it,” said the reluctant Grinder; “that’s the way
+nobody saw ’em go, or has been able to say how they did go. They went
+different ways, I tell you Misses Brown.”
+
+“Ay, ay, ay! To meet at an appointed place,” chuckled the old woman,
+after a moment’s silent and keen scrutiny of his face.
+
+“Why, if they weren’t a going to meet somewhere, I suppose they might
+as [[Well|well]] have stayed at [[Home|home]], mightn’t they, Brown?” returned the
+unwilling Grinder.
+
+“[[Well]], Rob? [[Well]]?” said the old woman, drawing his arm yet tighter
+through her own, as if, in her eagerness, she were afraid of his
+slipping away.
+
+“What, haven’t we talked enough yet, Misses Brown?” returned the
+Grinder, who, between his sense of injury, his sense of liquor, and his
+sense of being on the rack, had become so lachrymose, that at almost
+every answer he scooped his coats into one or other of his eyes, and
+uttered an unavailing whine of remonstrance. “Did she laugh that [[Night|night]],
+was it? Didn’t you ask if she laughed, Misses Brown?”
+
+“Or cried?” added the old woman, nodding assent.
+
+“Neither,” said the Grinder. “She kept as steady when she and me—oh, I
+see you will have it out of me, Misses Brown! But take your solemn oath
+now, that you’ll never tell anybody.”
+
+This Mrs Brown very readily did: being naturally Jesuitical; and having
+no other intention in the matter than that her concealed visitor should
+hear for himself.
+
+“She kept as steady, then, when she and me went down to Southampton,”
+said the Grinder, “as a image. In the morning she was just the same,
+Misses Brown. And when she went away in the packet before daylight, by
+herself—me pretending to be her servant, and seeing her safe aboard—she
+was just the same. Now, are you contented, Misses Brown?”
+
+“No, Rob. Not yet,” answered Mrs Brown, decisively.
+
+“Oh, here’s a woman for you!” cried the unfortunate Rob, in an outburst
+of feeble lamentation over his own helplessness. “What did you wish to
+know next, Misses Brown?”
+
+“What became of Master? Where did he go?” she inquired, still holding
+him tight, and looking close into his face, with her sharp eyes.
+
+“Upon my [[Soul|soul]], I don’t know, Misses Brown,” answered Rob. “Upon my [[Soul|soul]]
+I don’t know what he did, nor where he went, nor anything about him I
+only know what he said to me as a caution to hold my tongue, when we
+parted; and I tell you this, Misses Brown, as a friend, that sooner
+than ever repeat a word of what we’re saying now, you had better take
+and shoot yourself, or shut yourself up in this [[house]], and set it
+a-[[Fire|fire]], for there’s nothing he wouldn’t do, to be revenged upon you.
+You don’t know him half as [[Well|well]] as I do, Misses Brown. You’re never
+safe from him, I tell you.”
+
+“Haven’t I taken an oath,” retorted the old woman, “and won’t I keep
+it?”
+
+“[[Well]], I’m sure I [[Hope|hope]] you will, Misses Brown,” returned Rob, somewhat
+doubtfully, and not without a latent threatening in his manner. “For
+your own sake, quite as much as mine.”
+
+He looked at her as he gave her this friendly caution, and emphasized
+it with a nodding of his head; but finding it uncomfortable to
+encounter the yellow face with its [[Grotesque|grotesque]] action, and the ferret
+eyes with their keen old wintry gaze, so close to his own, he looked
+down uneasily and sat skulking in his chair, as if he were trying to
+bring himself to a sullen declaration that he would answer no more
+questions. The old woman, still holding him as before, took this
+opportunity of raising the forefinger of her right hand, in the air, as
+a stealthy signal to the concealed observer to give particular
+attention to what was about to follow.
+
+“Rob,” she said, in her most coaxing tone.
+
+“Good gracious, Misses Brown, what’s the matter now?” returned the
+exasperated Grinder.
+
+“Rob! where did the lady and Master appoint to meet?”
+
+Rob shuffled more and more, and looked up and looked down, and bit his
+thumb, and dried it on his waistcoat, and finally said, eyeing his
+tormentor askance, “How should I know, Misses Brown?”
+
+The old woman held up her finger again, as before, and replying, “Come,
+lad! It’s no use leading me to that, and there leaving me. I want to
+know” waited for his answer. Rob, after a discomfited pause, suddenly
+broke out with, “How can I pronounce the names of foreign places, Mrs
+Brown? What an unreasonable woman you are!”
+
+“But you have heard it said, Robby,” she retorted firmly, “and you know
+what it sounded like. Come!”
+
+“I never heard it said, Misses Brown,” returned the Grinder.
+
+“Then,” retorted the old woman quickly, “you have seen it written, and
+you can spell it.”
+
+Rob, with a petulant exclamation between laughing and crying—for he was
+penetrated with some admiration of Mrs Brown’s cunning, even through
+this persecution—after some reluctant fumbling in his waistcoat pocket,
+produced from it a little piece of [[chalk]]. The old woman’s eyes sparkled
+when she saw it between his thumb and finger, and hastily clearing a
+space on the deal table, that he might write the word there, she once
+more made her signal with a shaking hand.
+
+“Now I tell you beforehand what it is, Misses Brown,” said Rob, “it’s
+no use asking me anything else. I won’t answer anything else; I can’t.
+How long it was to be before they met, or whose plan it was that they
+was to go away [[Alone|alone]], I don’t know no more than you do. I don’t know
+any more about it. If I was to tell you how I found out this word,
+you’d believe that. Shall I tell you, Misses Brown?”
+
+“Yes, Rob.”
+
+“[[Well]] then, Misses Brown. The way—now you won’t ask any more, you
+know?” said Rob, turning his eyes, which were now fast getting drowsy
+and stupid, upon her.
+
+“Not another word,” said Mrs Brown.
+
+“[[Well]] then, the way was this. When a certain person left the lady with
+me, he put a piece of paper with a direction written on it in the
+lady’s hand, saying it was in case she should forget. She wasn’t afraid
+of forgetting, for she tore it up as soon as his back was turned, and
+when I put up the carriage steps, I shook out one of the pieces—she
+sprinkled the rest out of the [[Window|window]], I suppose, for there was none
+there afterwards, though I looked for ’em. There was only one word on
+it, and that was this, if you must and will know. But remember! You’re
+upon your oath, Misses Brown!”
+
+Mrs Brown knew that, she said. Rob, having nothing more to say, began
+to [[chalk]], slowly and laboriously, on the table.
+
+“‘D,’” the old woman read aloud, when he had formed the letter.
+
+“Will you hold your tongue, Misses Brown?” he exclaimed, covering it
+with his hand, and turning impatiently upon her. “I won’t have it read
+out. Be quiet, will you!”
+
+“Then write large, Rob,” she returned, repeating her secret signal;
+“for my eyes are not good, even at print.”
+
+Muttering to himself, and returning to his work with an ill will, Rob
+went on with the word. As he bent his head down, the person for whose
+information he so unconsciously laboured, moved from the door behind
+him to within a short stride of his shoulder, and looked eagerly
+towards the creeping track of his hand upon the table. At the same
+[[Time|time]], Alice, from her opposite chair, watched it narrowly as it shaped
+the letters, and repeated each one on her lips as he made it, without
+articulating it aloud. At the end of every letter her eyes and Mr
+Dombey’s met, as if each of them sought to be confirmed by the other;
+and thus they both spelt D.I.J.O.N.
+
+“There!” said the Grinder, moistening the palm of his hand hastily, to
+obliterate the word; and not content with smearing it out, rubbing and
+planing all trace of it away with his coat-sleeve, until the very
+colour of the [[chalk]] was gone from the table. “Now, I [[Hope|hope]] you’re
+contented, Misses Brown!”
+
+The old woman, in token of her being so, released his arm and patted
+his back; and the Grinder, overcome with mortification,
+[[Cross|cross]]-examination, and liquor, folded his arms on the table, laid his
+head upon them, and fell asleep.
+
+Not until he had been heavily asleep some [[Time|time]], and was snoring
+roundly, did the old woman turn towards the door where Mr Dombey stood
+concealed, and beckon him to come through the room, and pass out. Even
+then, she hovered over Rob, ready to blind him with her hands, or
+strike his head down, if he should raise it while the secret step was
+crossing to the door. But though her glance took sharp cognizance of
+[[The Sleeper|the sleeper]], it was sharp too for the waking man; and when he touched
+her hand with his, and in spite of all his caution, made a chinking,
+golden sound, it was as bright and greedy as a raven’s.
+
+The daughter’s dark gaze followed him to the door, and noted [[Well|well]] how
+pale he was, and how his hurried tread indicated that the least delay
+was an insupportable restraint upon him, and how he was burning to be
+active and away. As he closed the door behind him, she looked round at
+her mother. The old woman trotted to her; opened her hand to show what
+was within; and, tightly closing it again in her [[Jealousy|jealousy]] and avarice,
+whispered:
+
+“What will he do, Ally?”
+
+“Mischief,” said the daughter.
+
+“Murder?” asked the old woman.
+
+“He’s a madman, in his wounded [[Pride|pride]], and may do that, for anything we
+can say, or he either.”
+
+Her glance was brighter than her mother’s, and the [[Fire|fire]] that shone in
+it was fiercer; but her face was colourless, even to her lips.
+
+They said no more, but sat apart; the mother communing with her money;
+the daughter with her thoughts; the glance of each, shining in the
+gloom of the feebly lighted room. Rob slept and snored. The disregarded
+parrot only was in action. It twisted and pulled at the wires of its
+cage, with its crooked beak, and crawled up to the dome, and along its
+roof like a fly, and down again head foremost, and shook, and bit, and
+rattled at every slender bar, as if it knew its master’s danger, and
+was wild to force a passage out, and fly away to warn him of it.

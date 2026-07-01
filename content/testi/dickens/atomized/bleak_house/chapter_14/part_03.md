@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 14 (part 3)"
+title: "Bleak House — Chapter 14 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_14/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_14/part_04">part 04 ›</a></div>
 </nav>
 
+
+We naturally asked how.
+
+“I felt I was so awkward,” she replied, “that I made up my mind to be
+improved in that respect at all events and to learn to [[Dance|dance]]. I told
+Ma I was ashamed of myself, and I must be taught to [[Dance|dance]]. Ma looked
+at me in that provoking way of hers as if I wasn’t in sight, but I
+was quite determined to be taught to [[Dance|dance]], and so I went to Mr.
+Turveydrop’s Academy in Newman Street.”
 
 “And was it there, my dear—” I began.
 
@@ -123,13 +132,3 @@ fourteen years of age to two or three and twenty, were assembled; and
 I was looking among them for their instructor when Caddy, pinching my
 arm, repeated the ceremony of introduction. “Miss Summerson, Mr.
 Prince Turveydrop!”
-
-I curtsied to a little blue-eyed fair man of youthful appearance with
-flaxen hair parted in the middle and curling at the ends all round
-his head. He had a little fiddle, which we used to call at school a
-kit, under his left arm, and its little bow in the same hand. His
-little dancing-shoes were particularly diminutive, and he had a
-little [[Innocent|innocent]], feminine manner which not only appealed to me in an
-amiable way, but made this singular effect upon me, that I received
-the impression that he was like his mother and that his mother had
-not been much considered or [[Well|well]] used.

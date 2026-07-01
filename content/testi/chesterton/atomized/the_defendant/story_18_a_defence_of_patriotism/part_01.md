@@ -16,7 +16,6 @@ tags:
 
 A DEFENCE OF PATRIOTISM
 
-
 The [[Decay|decay]] of patriotism in England during the last year or two is a
 serious and distressing matter. Only in consequence of such a [[Decay|decay]]
 could the current lust of territory be confounded with the ancient [[Love|love]]

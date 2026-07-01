@@ -1,5 +1,5 @@
 ---
-title: "[[The Thousand-And-Second Tale of Scheherazade]] (part 3)"
+title: "The Thousand-And-Second Tale of Scheherazade (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-thousand-and-second-tale-of-scheherazade-(poe)"
@@ -107,10 +107,3 @@ tags:
       When the Lady Scheherazade had proceeded thus far, relates the
       “Isitsöornot,” the [[King|king]] turned over from his left side to his
       right, and said:
-
-      “It is, in fact, very surprising, my dear [[Queen|queen]], that you
-      omitted, hitherto, these latter adventures of Sinbad. Do you know
-      I think them exceedingly entertaining and strange?”
-
-      The [[King|king]] having thus expressed himself, we are told, the fair
-      Scheherazade resumed her [[history]] in the following words:

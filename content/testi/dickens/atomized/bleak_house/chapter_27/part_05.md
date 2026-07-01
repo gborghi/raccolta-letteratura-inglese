@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 27 (part 5)"
+title: "Bleak House — Chapter 27 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,27 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_27/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_28/part_01">part 01 ›</a></div>
 </nav>
 
+
+It is that he cannot have too little to do with people who are too
+deep for him and cannot be too careful of interference with matters
+he does not understand—that the plain rule is to do nothing in the
+dark, to be a party to nothing underhanded or mysterious, and never
+to put his foot where he cannot see the ground. This, in effect, is
+Mr. Bagnet’s opinion, as delivered through the old girl, and it so
+relieves Mr. George’s mind by confirming his own opinion and
+banishing his doubts that he composes himself to smoke another pipe
+on that exceptional occasion and to have a talk over old times with
+the whole Bagnet family, according to their various ranges of
+experience.
+
+Through these means it comes to pass that Mr. George does not again
+rise to his full height in that parlour until the [[Time|time]] is drawing on
+when the bassoon and fife are expected by a British public at the
+theatre; and as it takes [[Time|time]] even then for Mr. George, in his
+domestic character of Bluffy, to take leave of Quebec and Malta and
+insinuate a sponsorial shilling into the pocket of his godson with
+felicitations on his [[success]] in life, it is dark when Mr. George
+again turns his face towards [[Lincoln]]’s Inn Fields.
 
 “A family [[Home|home]],” he ruminates as he marches along, “however small it
 is, makes a man like me look lonely. But it’s [[Well|well]] I never made that

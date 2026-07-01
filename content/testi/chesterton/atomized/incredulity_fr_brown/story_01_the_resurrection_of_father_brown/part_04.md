@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The [[Resurrection]] of [[Father Brown]] (part 4)"
+title: "incredulity Fr Brown — The Resurrection of Father Brown (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity_fr_brown/story_01_the_resurrection_of_father_brown/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity_fr_brown/story_01_the_resurrection_of_father_brown/part_05">part 05 ›</a></div>
 </nav>
 
+
+He found himself insensibly watching that commonplace and even comic
+black figure as it went bustling about; watching it with an almost
+morbid fascination, as if it were a walking [[Riddle|riddle]] or contradiction. He
+had found something he could not help liking in the heart of everything
+he hated; it was as if he had been horribly tormented by lesser demons
+and then found that the Devil was quite an ordinary person.
 
 Thus it happened that, looking out of his [[Window|window]] on that moonlit [[Night|night]],
 he saw the Devil go by, the demon of unaccountable blamelessness, in his
@@ -106,15 +113,3 @@ riots that were hourly growing more probable. When Snaith had seen the
 row of Red Indians sitting on the veranda, they might have been a row of
 ancient Aztec images carved in red wood. But he had not seen them as
 they were when they heard that the priest was dead.
-
-Indeed they would certainly have risen in revolution and lynched the
-republican leader, if they had not been immediately blocked by the
-direct necessity of behaving respectfully to the coffin of their own
-religious leader. The actual assassins, whom it would have been most
-natural to lynch, seemed to have vanished into thin air. Nobody knew
-their names; and nobody would ever know whether the dying man had even
-seen their faces. That strange look of surprise that was apparently his
-last look on earth might have been the recognition of their faces.
-Alvarez repeated violently that it was no work of his, and attended the
-funeral, walking behind the coffin in his splendid silver and green
-uniform with a sort of bravado of reverence.

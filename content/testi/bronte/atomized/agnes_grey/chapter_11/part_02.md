@@ -1,5 +1,5 @@
 ---
-title: "[[Agnes Grey]] — Chapter 11 (part 2)"
+title: "Agnes Grey — Chapter 11 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/agnes-grey-(bronte)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/agnes_grey/chapter_11/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/agnes_grey/chapter_11/part_03">part 03 ›</a></div>
 </nav>
 
+
+“[[Well]], Miss Grey, if it’s all the same to you, I should like to hear
+that chapter in the First Epistle of St. John, that says, ‘God is [[Love|love]],
+and he that dwelleth in [[Love|love]] dwelleth in God, and God in him.’”
 
 With a little searching, I found these words in the fourth chapter.
 When I came to the seventh verse she interrupted me, and, with needless
@@ -105,7 +109,7 @@ It’s your duty to go there as often as you can. If you want comfort,
 you must seek it in the path of duty,’—an’ a deal more he said, but I
 cannot remember all his fine words. However, it all came to this, that
 I was to come to church as oft as ever I could, and bring my
-[[Prayer|prayer]]-book with me, an’ read up all the sponsers after the clerk, an’
+[[prayer]]-book with me, an’ read up all the sponsers after the clerk, an’
 stand, an’ kneel, an’ sit, an’ do all as I should, and take the Lord’s
 Supper at every opportunity, an’ hearken his sermons, and Maister
 Bligh’s, an’ it ’ud be all right: if I went on doing my duty, I should
@@ -125,9 +129,3 @@ th’ Moss Lane;—an’ he kicked my poor cat right across th’ floor, an’
 went after ’em as gay as a lark: but I was very sad. That last word o’
 his fair sunk into my heart, an’ lay there like a lump o’ lead, till I
 was weary to bear it.
-
-“Howsever, I follered his advice: I thought he meant it all for th’
-best, though he _had_ a queer way with him. But you know, Miss, he’s
-rich an’ young, and such like cannot right understand the thoughts of a
-poor old woman such as me. But, howsever, I did my best to do all as he
-bade me—but maybe I’m plaguing you, Miss, wi’ my chatter.”

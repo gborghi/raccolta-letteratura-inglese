@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 56 (part 2)"
+title: "Bleak House — Chapter 56 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_56/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_56/part_03">part 03 ›</a></div>
 </nav>
 
+
+Mr. Bucket is found to be downstairs, by appointment. Shall he come
+up?
 
 There is no possibility of misconstruing Sir Leicester’s burning wish
 to see him or the [[Desire|desire]] he signifies to have the room cleared of

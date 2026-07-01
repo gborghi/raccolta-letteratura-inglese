@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 19 (part 3)"
+title: "The Mystery of Edwin Drood — Chapter 19 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -13,6 +13,27 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_20/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_21/part_01">part 01 ›</a></div>
 </nav>
 
+
+“I was going to show you how madly I [[Love|love]] you. More madly now than
+ever, for I am willing to renounce the second object that has arisen in
+my life to divide it with you; and henceforth to have no object in
+existence but you only. Miss Landless has become your bosom friend. You
+care for her peace of mind?”
+
+“I [[Love|love]] her dearly.”
+
+“You care for her good name?”
+
+“I have said, sir, I [[Love|love]] her dearly.”
+
+“I am unconsciously,” he observes with a smile, as he folds his hands
+upon the sun-dial and leans his chin upon them, so that his talk would
+seem from the windows (faces occasionally come and go there) to be of
+the airiest and playfullest—“I am unconsciously giving offence by
+questioning again. I will simply make statements, therefore, and not
+put questions. You do care for your bosom friend’s good name, and you
+do care for her peace of mind. Then remove the [[Shadow|shadow]] of the gallows
+from her, dear one!”
 
 “You dare propose to me to—”
 

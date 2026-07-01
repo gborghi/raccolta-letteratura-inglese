@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 36 (part 5)"
+title: "Shirley — Chapter 36 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -12,6 +12,32 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_36/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_36/part_06">part 06 ›</a></div>
 </nav>
+
+
+teach afterwards; to break in, and then to fondle. To lift the destitute
+
+proud thing out of [[Poverty|poverty]]; to establish power over and then to be
+
+indulgent to the capricious moods that never were influenced and never
+
+indulged before; to see her alternately irritated and subdued about
+
+twelve times in the twenty-four hours; and perhaps, eventually, when her
+
+training was accomplished, to behold her the exemplary and patient
+
+mother of about a dozen children, only now and then lending little Louis
+
+a cordial cuff by way of paying the interest of the vast debt she owes
+
+his father. Oh' (I went on), 'my [[Orphan|orphan]] girl would give me many a kiss;
+
+she would watch on the threshold for my coming [[Home|home]] of an evening; she
+
+would run into my arms; she would keep my hearth as bright as she would
+
+make it warm. God bless the sweet idea! Find her I must.'
+
 
 
 "Her eyes emitted an eager flash, her lips opened; but she reclosed
@@ -259,57 +285,3 @@ will [[Cross|cross]] it also. Our lives are riveted, our lots intertwined.'
 
 
 "'You are younger, frailer, feebler, more ignorant than I.'
-
-
-
-"'Will you be good to me, and never tyrannize?'
-
-
-
-"'Will you let me breathe, and not bewilder me? You must not smile at
-
-present. The world swims and changes round me. The sun is a dizzying
-
-scarlet blaze, the sky a violet vortex whirling over me.'
-
-
-
-"I am a strong man, but I staggered as I spoke. All creation was
-
-exaggerated. Colour grew more vivid, motion more rapid, life itself more
-
-vital. I hardly saw her for a moment, but I heard her voice--pitilessly
-
-sweet. She would not subdue one of her charms in compassion. Perhaps she
-
-did not know what I felt.
-
-
-
-"'You name me leopardess. Remember, the leopardess is tameless,' said
-
-she.
-
-
-
-"'Tame or fierce, wild or subdued, you are _mine_.'
-
-
-
-"'I am glad I know my keeper and am used to him. Only his voice will I
-
-follow; only his hand shall manage me; only at his feet will I repose.'
-
-
-
-"I took her back to her seat, and sat down by her side. I wanted to hear
-
-her speak again. I could never have enough of her voice and her words.
-
-
-
-"'How much do you [[Love|love]] me?' I asked.
-
-
-
-"'Ah! you know. I will not gratify you--I will not flatter.'

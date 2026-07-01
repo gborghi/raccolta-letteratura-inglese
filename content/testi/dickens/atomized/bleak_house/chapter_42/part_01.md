@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 42 (part 1)"
+title: "Bleak House — Chapter 42 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -134,13 +134,3 @@ do assure you, sir!”
 
 Mr. Tulkinghorn had listened gravely to this complaint and inquires
 when the stationer has finished, “And that’s all, is it, Snagsby?”
-
-“Why yes, sir, that’s all,” says Mr. Snagsby, ending with a cough
-that plainly adds, “and it’s enough too—for me.”
-
-“I don’t know what Mademoiselle Hortense may want or mean, unless she
-is mad,” says the lawyer.
-
-“Even if she was, you know, sir,” Mr. Snagsby pleads, “it wouldn’t be
-a consolation to have some weapon or another in the form of a foreign
-dagger planted in the family.”

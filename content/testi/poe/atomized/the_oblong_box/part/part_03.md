@@ -1,5 +1,5 @@
 ---
-title: "[[The Oblong Box]] (part 3)"
+title: "The Oblong Box (part 3)"
 author: "Poe"
 unitType: excerpt
 tags:
@@ -12,6 +12,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_oblong_box/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/the_oblong_box/part/part_04">part 04 ›</a></div>
 </nav>
 
+
+      herself as she thought best, in the public society of the main
+
+      cabin.
+
+
+
+      My conclusion, from what I saw and heard, was, that, the [[artist]],
+
+      by some unaccountable freak of fate, or perhaps in some fit of
+
+      enthusiastic and fanciful passion, had been induced to unite
+
+      himself with a person altogether beneath him, and that the
 
       natural result, entire and speedy disgust, had ensued. I pitied
 
@@ -184,19 +198,3 @@ tags:
       lower berth in his room; this latter point I knew, for example,
 
       by certain slight taps which the lid made in striking against the
-
-      wooden edges of the berth, as he endeavored to lay it down very
-
-      gently—there being no room for it on the floor. After this there
-
-      was a dead stillness, and I heard nothing more, upon either
-
-      occasion, until nearly daybreak; unless, perhaps, I may mention a
-
-      low sobbing, or murmuring sound, so very much suppressed as to be
-
-      nearly inaudible—if, indeed, the whole of this latter noise were
-
-      not rather produced by my own [[Imagination|imagination]]. I say it seemed to
-
-      resemble sobbing or sighing—but, of course, it could not have

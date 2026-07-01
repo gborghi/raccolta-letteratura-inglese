@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 15 (part 5)"
+title: "Our Mutual Friend — Chapter 1 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,143 +10,77 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_39/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_39/part_06">part 06 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_39/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_40/part_01">part 01 ›</a></div>
 </nav>
 
 
-He stopped again. The pale face looked anxiously and lovingly at him,
-but she shook her head.
+Riah bent his head in assent.
 
-‘Can’t you speak?’ said the boy sharply.
+‘Look here, you sir,’ said Fledgeby. ‘I have a notion I know something
+of the inveigling chap, the powerful one. Has he anything to do with the
+law?’
 
-‘I am very unwilling to speak, Charley. If I must, I must. I cannot
-authorize you to say any such thing to Mr Headstone: I cannot allow you
-to say any such thing to Mr Headstone. Nothing remains to be said to him
-from me, after what I have said for good and all, to-[[Night|night]].’
+‘Nominally, I believe it his calling.’
 
-‘And this girl,’ cried the boy, contemptuously throwing her off again,
-‘calls herself a sister!’
+‘I thought so. Name anything like Lightwood?’
 
-‘Charley, dear, that is the second [[Time|time]] that you have almost struck
-me. Don’t be hurt by my words. I don’t mean—Heaven forbid!—that you
-intended it; but you hardly know with what a sudden swing you removed
-yourself from me.’
+‘Sir, not at all like.’
 
-‘However!’ said the boy, taking no heed of the remonstrance, and
-pursuing his own mortified disappointment, ‘I know what this means, and
-you shall not disgrace me.’
+‘Come, old ’un,’ said Fledgeby, meeting his eyes with a wink, ‘say the
+name.’
 
-‘It means what I have told you, Charley, and nothing more.’
+‘Wrayburn.’
 
-‘That’s not true,’ said the boy in a violent tone, ‘and you know it’s
-not. It means your precious Mr Wrayburn; that’s what it means.’
+‘By Jupiter!’ cried Fledgeby. ‘That one, is it? I thought it might be
+the other, but I never dreamt of that one! I shouldn’t object to your
+baulking either of the pair, dodger, for they are both conceited enough;
+but that one is as cool a customer as ever I met with. Got a beard
+besides, and presumes upon it. [[Well]] done, old ’un! Go on and prosper!’
 
-‘Charley! If you remember any old days of ours together, forbear!’
+Brightened by this unexpected commendation, Riah asked were there more
+instructions for him?
 
-‘But you shall not disgrace me,’ doggedly pursued the boy. ‘I am
-determined that after I have climbed up out of the mire, you shall not
-pull me down. You can’t disgrace me if I have nothing to do with you,
-and I will have nothing to do with you for the future.’
+‘No,’ said Fledgeby, ‘you may toddle now, Judah, and grope about on the
+orders you have got.’ Dismissed with those pleasing words, the old man
+took his broad hat and staff, and left the great presence: more as if he
+were some superior creature benignantly blessing Mr Fledgeby, than the
+poor dependent on whom he set his foot. Left [[Alone|alone]], Mr Fledgeby locked
+his outer door, and came back to his [[Fire|fire]].
 
-‘Charley! On many a [[Night|night]] like this, and many a worse [[Night|night]], I have sat
-on the stones of the street, hushing you in my arms. Unsay those words
-without even saying you are sorry for them, and my arms are open to you
-still, and so is my heart.’
+‘[[Well]] done you!’ said Fascination to himself. ‘Slow, you may be; sure,
+you are!’ This he twice or thrice repeated with much complacency, as he
+again dispersed the legs of the Turkish trousers and bent the knees.
 
-‘I’ll not unsay them. I’ll say them again. You are an inveterately bad
-girl, and a false sister, and I have done with you. For ever, I have
-done with you!’
+‘A tidy shot that, I flatter myself,’ he then soliloquised. ‘And a Jew
+brought down with it! Now, when I heard the story told at Lammle’s, I
+didn’t make a jump at Riah. Not a hit of it; I got at him by degrees.’
+Herein he was quite accurate; it being his habit, not to jump, or
+leap, or make an upward [[spring]], at anything in life, but to crawl at
+everything.
 
-He threw up his ungrateful and ungracious hand as if it set up a barrier
-between them, and flung himself upon his heel and left her. She remained
-impassive on the same spot, silent and motionless, until the striking
-of the church [[Clock|clock]] roused her, and she turned away. But then, with the
-breaking up of her immobility came the breaking up of the waters that
-the cold heart of the selfish boy had frozen. And ‘O that I were lying
-here with the dead!’ and ‘O Charley, Charley, that this should be the
-end of our pictures in the [[Fire|fire]]!’ were all the words she said, as she
-laid her face in her hands on the stone coping.
+‘I got at him,’ pursued Fledgeby, feeling for his whisker, ‘by degrees.
+If your Lammles or your Lightwoods had got at him anyhow, they would
+have asked him the question whether he hadn’t something to do with that
+gal’s disappearance. I knew a better way of going to work. Having got
+behind the hedge, and put him in the light, I took a shot at him and
+brought him down plump. Oh! It don’t count for much, being a Jew, in a
+match against ME!’
 
-A figure passed by, and passed on, but stopped and looked round at
-her. It was the figure of an old man with a bowed head, wearing a large
-brimmed low-crowned hat, and a long-skirted coat. After hesitating a
-little, the figure turned back, and, advancing with an air of gentleness
-and compassion, said:
+Another dry twist in place of a smile, made his face crooked here.
 
-‘Pardon me, young woman, for speaking to you, but you are under some
-distress of mind. I cannot pass upon my way and leave you weeping here
-[[Alone|alone]], as if there was nothing in the place. Can I help you? Can I do
-anything to give you comfort?’
+‘As to Christians,’ proceeded Fledgeby, ‘look out, fellow-Christians,
+particularly you that lodge in Queer Street! I have got the run of Queer
+Street now, and you shall see some games there. To work a lot of power
+over you and you not know it, knowing as you think yourselves, would
+be almost worth laying out money upon. But when it comes to squeezing a
+profit out of you into the bargain, it’s something like!’
 
-She raised her head at the sound of these kind words, and answered
-gladly, ‘O, Mr Riah, is it you?’
-
-‘My daughter,’ said the old man, ‘I stand amazed! I spoke as to a
-stranger. Take my arm, take my arm. What grieves you? Who has done this?
-Poor girl, poor girl!’
-
-‘My brother has quarrelled with me,’ sobbed Lizzie, ‘and renounced me.’
-
-‘He is a thankless dog,’ said the Jew, angrily. ‘Let him go. Shake the
-[[Dust|dust]] from thy feet and let him go. Come, daughter! Come [[Home|home]] with me—it
-is but across the [[Road|road]]—and take a little [[Time|time]] to recover your peace and
-to make your eyes seemly, and then I will bear you company through the
-streets. For it is past your usual [[Time|time]], and will soon be late, and the
-way is long, and there is much company out of doors to-[[Night|night]].’
-
-She accepted the support he offered her, and they slowly passed out
-of the churchyard. They were in the act of emerging into the main
-thoroughfare, when another figure loitering discontentedly by, and
-looking up the street and down it, and all about, started and exclaimed,
-‘Lizzie! why, where have you been? Why, what’s the matter?’
-
-As [[Eugene Wrayburn]] thus addressed her, she drew closer to the Jew, and
-bent her head. The Jew having taken in the whole of Eugene at one sharp
-glance, cast his eyes upon the ground, and stood mute.
-
-‘Lizzie, what is the matter?’
-
-‘Mr Wrayburn, I cannot tell you now. I cannot tell you to-[[Night|night]], if I
-ever can tell you. Pray leave me.’
-
-‘But, Lizzie, I came expressly to join you. I came to walk [[Home|home]] with
-you, having dined at a coffee-[[house]] in this neighbourhood and knowing
-your hour. And I have been lingering about,’ added Eugene, ‘like a
-bailiff; or,’ with a look at Riah, ‘an old clothesman.’
-
-The Jew lifted up his eyes, and took in Eugene once more, at another
-glance.
-
-‘Mr Wrayburn, pray, pray, leave me with this protector. And one thing
-more. Pray, pray be careful of yourself.’
-
-‘Mysteries of Udolpho!’ said Eugene, with a look of [[Wonder|wonder]]. ‘May I be
-excused for asking, in the elderly gentleman’s presence, who is this
-kind protector?’
-
-‘A trustworthy friend,’ said Lizzie.
-
-‘I will relieve him of his trust,’ returned Eugene. ‘But you must tell
-me, Lizzie, what is the matter?’
-
-‘Her brother is the matter,’ said the old man, lifting up his eyes
-again.
-
-‘Our brother the matter?’ returned Eugene, with airy contempt. ‘Our
-brother is not worth a thought, far less a tear. What has our brother
-done?’
-
-The old man lifted up his eyes again, with one [[Grave|grave]] look at Wrayburn,
-and one [[Grave|grave]] glance at Lizzie, as she stood looking down. Both were so
-full of meaning that even Eugene was checked in his light career, and
-subsided into a thoughtful ‘Humph!’
-
-With an air of perfect patience the old man, remaining mute and keeping
-his eyes cast down, stood, retaining Lizzie’s arm, as though in his
-habit of passive [[Endurance|endurance]], it would be all one to him if he had stood
-there motionless all [[Night|night]].
-
-‘If Mr [[Aaron]],’ said Eugene, who soon found this fatiguing, ‘will be good
-enough to relinquish his charge to me, he will be quite free for any
-engagement he may have at the Synagogue. Mr [[Aaron]], will you have the
-kindness?’
+With this apostrophe Mr Fledgeby appropriately proceeded to divest
+himself of his Turkish garments, and invest himself with Christian
+attire. Pending which operation, and his morning ablutions, and his
+anointing of himself with the last infallible preparation for the
+production of luxuriant and glossy hair upon the human countenance
+(quacks being the only sages he believed in besides usurers), the murky
+fog closed about him and shut him up in its sooty embrace. If it had
+never let him out any more, the world would have had no irreparable
+loss, but could have easily replaced him from its stock on hand.

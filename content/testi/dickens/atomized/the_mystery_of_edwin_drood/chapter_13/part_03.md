@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 12 (part 3)"
+title: "The Mystery of Edwin Drood — Chapter 12 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_13/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_13/part_04">part 04 ›</a></div>
 </nav>
 
+
+At that end of Minor Canon Corner the [[Shadow|shadow]] is profound in the
+existing state of the light: at that end, too, there is a piece of old
+[[Dwarf|dwarf]] wall, breast high, the only remaining boundary of what was once a
+[[Garden|garden]], but is now the thoroughfare. Jasper and [[Durdles]] would have
+turned this wall in another instant; but, stopping so short, stand
+behind it.
 
 “Those two are only sauntering,” Jasper whispers; “they will go out
 into the moonlight soon. Let us keep quiet here, or they will detain
@@ -111,17 +118,3 @@ somehow passed into [[Durdles]]’s keeping) soon intimates that the cork has
 been taken out; but this is not ascertainable through the sense of
 sight, since neither can descry the other. And yet, in talking, they
 turn to one another, as though their faces could commune together.
-
-“This is good stuff, Mister Jarsper!”
-
-“It is very good stuff, I [[Hope|hope]].—I bought it on purpose.”
-
-“They don’t show, you see, the old uns don’t, Mister Jarsper!”
-
-“It would be a more confused world than it is, if they could.”
-
-“[[Well]], it _would_ lead towards a mixing of things,” [[Durdles]] acquiesces:
-pausing on the remark, as if the idea of [[Ghosts|ghosts]] had not previously
-presented itself to him in a merely inconvenient light, domestically or
-chronologically. “But do you think there may be [[Ghosts]] of other things,
-though not of men and women?”

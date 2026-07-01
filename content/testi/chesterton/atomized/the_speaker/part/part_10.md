@@ -14,6 +14,18 @@ tags:
 </nav>
 
 
+Chaos in the scheme, however, could be easily forgiven if there
+were merit in the parts.  But we must confess that reading these long
+metrical meditations reminds us of nothing so much as drinking
+innumerable gallons of luke-warm [[Water|water]].  The cold [[Water|water]] of reason
+is good and the boiling [[Water|water]] of religious passion is good;
+but this is not fully and sincerely either logical or religious.
+It is made up of the reflections of one of those gentlemen
+who occupy their very numerous spare hours by having spiritual
+doubts with which no reasonable person ought to be troubled
+and crushing them with replies with which no reasonable person
+ought to be satisfied.
+
 Of the diction very few examples will suffice.  Mr. Wynne
 in the opening verses discusses in his vague way the question of
 [[Nature]] and her sympathetic or unsympathetic attitude towards man.
@@ -133,15 +145,3 @@ in trivial arguments, in cocksure explanations, in mere
 rhetorical padding; this, which resounds from hundreds of pulpits
 and sacred lyres, is indeed, to our minds, the sin against the Name,
 and it is this that Mr. Wynne never ceases from committing.
-
-Since the appearance, or appearances, of Ad Astra, Mr. Wynne has
-published a volume of lyrics.  Of these we will quite only one poem,
-and that a short one:-
-
-  "[[Home]] returning in a shower
-  Found that I was smiling,
-  Just the very [[Time|time]] and hour
-  Most men would be riling.
-  Thus, though [[Nature]] prove unkind,
-  Only a poetic mind
-  Can laugh without reviling."

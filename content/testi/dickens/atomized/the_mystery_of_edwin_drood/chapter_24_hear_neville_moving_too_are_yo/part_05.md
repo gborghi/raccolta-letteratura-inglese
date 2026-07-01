@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Part 1: hear Neville moving too. Are you going back?” (part 5)"
+title: "The Mystery of Edwin Drood — Part 1: hear Neville moving too. Are you going back?” (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_24_hear_neville_moving_too_are_yo/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_25/part_01">part 01 ›</a></div>
 </nav>
 
+
+On which the Billickin would retort (Rosa not having spoken a word),
+“If you was better accustomed to butcher’s meat, Miss, you would not
+entertain the idea of a [[Lamb|lamb]]’s fry. Firstly, because lambs has long
+been sheep, and secondly, because there is such things as killing-days,
+and there is not. As to roast fowls, Miss, why you must be quite
+surfeited with roast fowls, letting [[Alone|alone]] your buying, when you market
+for yourself, the agedest of poultry with the scaliest of legs, quite
+as if you was accustomed to picking ’em out for cheapness. Try a little
+inwention, Miss. Use yourself to ’ousekeeping a bit. Come now, think of
+somethink else.”
 
 To this encouragement, offered with the indulgent toleration of a wise
 and liberal expert, Miss Twinkleton would rejoin, reddening:

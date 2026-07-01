@@ -1,5 +1,5 @@
 ---
-title: "[[manalive]]"
+title: "manalive"
 author: "Chesterton"
 unitType: work
 parentWork: "works/manalive-(chesterton)"
@@ -2547,8 +2547,8 @@ Under the [[Shadow|shadow]] of [[Tragedy|tragedy]] she had kept it back as unsym
 his voice sounded remote and rude, like the voice of a statue.
 
 Those who had so long danced and disputed round his immobility
-were left breathless by his precipitance.  With a run and [[Spring|spring]]
-he was out of the [[Garden|garden]] into the street; with a [[Spring|spring]] and
+were left breathless by his precipitance.  With a run and [[spring]]
+he was out of the [[Garden|garden]] into the street; with a [[spring]] and
 one quivering kick he was actually on the roof of the cab.
 The [[cabman]] happened to be standing by the [[Horse|horse]]'s head, having just
 removed its emptied nose-bag. [[smith|Smith]] seemed for an instant to be
@@ -4524,7 +4524,7 @@ I am only quite certain that I did not expect to see what I did see.
 
 "Framed in the open doorway stood, with an air of great serenity,
 a rather tall young woman, definitely though indefinably artistic--
-her dress the colour of [[Spring|spring]] and her hair of [[Autumn|autumn]] [[Leaves|leaves]],
+her dress the colour of [[spring]] and her hair of [[Autumn|autumn]] [[Leaves|leaves]],
 with a face which, though still comparatively young,
 conveyed experience as [[Well|well]] as intelligence.  All she said was,
 `I didn't hear you come in.'

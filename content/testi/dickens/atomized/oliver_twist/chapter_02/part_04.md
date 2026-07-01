@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 2 (part 4)"
+title: "Oliver Twist — Chapter 2 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,31 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_02/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_03/part_01">part 01 ›</a></div>
 </nav>
 
+
+The room in which the boys were fed, was a large stone hall, with a
+copper at one end: out of which the master, dressed in an apron for the
+purpose, and assisted by one or two women, ladled the gruel at
+mealtimes. Of this festive composition each boy had one porringer, and
+no more—except on occasions of great public rejoicing, when he had two
+ounces and a quarter of bread besides. The bowls never wanted washing.
+The boys polished them with their spoons till they shone again; and
+when they had performed this operation (which never took very long, the
+spoons being nearly as large as the bowls), they would sit staring at
+the copper, with such eager eyes, as if they could have devoured the
+very bricks of which it was composed; employing themselves, meanwhile,
+in sucking their fingers most assiduously, with the view of catching up
+any stray splashes of gruel that might have been cast thereon. Boys
+have generally excellent appetites. [[Oliver Twist]] and his companions
+suffered the tortures of slow starvation for three months: at last they
+got so voracious and wild with hunger, that one boy, who was tall for
+his age, and hadn’t been used to that sort of thing (for his father had
+kept a small cook-shop), hinted darkly to his companions, that unless
+he had another basin of gruel _per diem_, he was afraid he might some
+[[Night|night]] happen to eat the boy who slept next him, who happened to be a
+weakly youth of tender age. He had a wild, hungry eye; and they
+implicitly believed him. A council was held; lots were cast who should
+walk up to the master after supper that evening, and ask for more; and
+it fell to [[Oliver Twist]].
 
 The evening arrived; the boys took their places. The master, in his
 cook’s uniform, stationed himself at the copper; his pauper assistants

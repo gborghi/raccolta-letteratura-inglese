@@ -1,5 +1,5 @@
 ---
-title: "The Merchant of [[Venice]] — Act IV, Scene 1 — monologue ([[Portia|PORTIA]]) [7]"
+title: "The Merchant of Venice — Act IV, Scene 1 — monologue (PORTIA) [7]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-merchant-of-venice-(shakespeare)"

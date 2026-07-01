@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 7 (part 4)"
+title: "Mansfield Park — Chapter 7 (part 4)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/mansfield_park/chapter_07/part_03">‹ part 03</a><a class="ex-next" href="/testi/austen/atomized/mansfield_park/chapter_08/part_01">part 01 ›</a></div>
 </nav>
 
+
+“She has got it,” said Lady [[Bertram]]; “she has had it ever since she
+came back from your [[house]] the second [[Time|time]].”
+
+“What!” cried [[Edmund]]; “has she been walking as [[Well|well]] as cutting roses;
+walking across the hot park to your [[house]], and doing it twice, ma’am?
+No [[Wonder|wonder]] her head aches.”
+
+Mrs. Norris was talking to [[Julia]], and did not hear.
+
+“I was afraid it would be too much for her,” said Lady [[Bertram]]; “but
+when the roses were gathered, your aunt wished to have them, and then
+you know they must be taken [[Home|home]].”
 
 “But were there roses enough to oblige her to go twice?”
 

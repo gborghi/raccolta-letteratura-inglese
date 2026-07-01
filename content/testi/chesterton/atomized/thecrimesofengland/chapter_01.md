@@ -1,5 +1,5 @@
 ---
-title: "[[TheCrimesOfEngland]] — Chapter 1"
+title: "TheCrimesOfEngland — Chapter 1"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/thecrimesofengland-(chesterton)"
@@ -16,11 +16,7 @@ tags:
 
 CHAPTER I
 
-
-
 SOME WORDS TO PROFESSOR WHIRLWIND
-
-
 
 The German Professor, his need of [[Education]]
 

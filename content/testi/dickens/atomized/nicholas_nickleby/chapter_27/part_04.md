@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 27 (part 4)"
+title: "Nicholas Nickleby — Chapter 27 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_27/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_27/part_05">part 05 ›</a></div>
 </nav>
 
+
+‘So very kind of you to invite me, you mean, Sir Mulberry,’ replied Mrs
+Nickleby, tossing her head, and looking prodigiously sly.
 
 ‘I am so anxious to know you, so anxious to cultivate your good opinion,
 so desirous that there should be a delicious kind of harmonious family
@@ -135,12 +138,3 @@ lady could be blown away. He said, however, that the delight was mutual,
 and Lord Verisopht added that it was mutual, whereupon Messrs Pyke and
 Pluck were heard to murmur from the distance that it was very mutual
 indeed.
-
-‘I take an interest, my lord,’ said Mrs. Wititterly, with a faint smile,
-‘such an interest in the drama.’
-
-‘Ye--es. It’s very interesting,’ replied Lord Verisopht.
-
-‘I’m always ill after Shakespeare,’ said Mrs. Wititterly. ‘I scarcely
-exist the next day; I find the reaction so very great after a [[Tragedy|tragedy]],
-my lord, and Shakespeare is such a delicious creature.’

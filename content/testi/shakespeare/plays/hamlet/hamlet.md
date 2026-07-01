@@ -1,5 +1,5 @@
 ---
-title: "[[Hamlet|HAMLET]]"
+title: "HAMLET"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/hamlet-(shakespeare)"

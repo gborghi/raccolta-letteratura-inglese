@@ -1,5 +1,5 @@
 ---
-title: "[[TheCrimesOfEngland]] — Chapter 10 (part 10)"
+title: "TheCrimesOfEngland — Chapter 10 (part 10)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thecrimesofengland-(chesterton)"
@@ -13,6 +13,52 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thecrimesofengland/chapter_10/part_09">‹ part 09</a><a class="ex-next" href="/testi/chesterton/atomized/thecrimesofengland/chapter_10/part_11">part 11 ›</a></div>
 </nav>
 
+
+its last were both primarily symbols; and but for this visionary
+
+character, were in a manner vain. It began with the taking of the old
+
+and almost empty [[Prison|prison]] called the Bastille; and we always think of it
+
+as the beginning of the Revolution, though the real Revolution did not
+
+come till some [[Time|time]] after. And it ended when Wellington and Blucher met
+
+in 1815; and we always think of it as the end of Napoleon; though
+
+Napoleon had really fallen before. And the popular imagery is right, as
+
+it generally is in such things: for the mob is an [[artist]], though not a
+
+man of science. The riot of the 14th of July did not specially deliver
+
+prisoners inside the Bastille, but it did deliver the prisoners outside.
+
+Napoleon when he returned was indeed a _revenant_, that is, a [[Ghost|ghost]]. But
+
+Waterloo was all the more final in that it was a spectral [[Resurrection|resurrection]]
+
+and a second [[Death|death]]. And in this second case there were other elements
+
+that were yet more strangely symbolic. That doubtful and [[Double|double]] battle
+
+before Waterloo was like the dual personality in [[A Dream|a dream]]. It
+
+corresponded curiously to the [[Double|double]] mind of the Englishman. We connect
+
+Quatre Bras with things romantically English to the verge of
+
+sentimentalism, with Byron and "The Black Brunswicker." We naturally
+
+sympathise with Wellington against Ney. We do not sympathise, and even
+
+then we did not really sympathise, with Blucher against Napoleon.
+
+[[Germany]] has complained that we passed over lightly the presence of
+
+Prussians at the decisive action. And [[Well|well]] we might. Even at the [[Time|time]]
+
+our sentiment was not solely [[Jealousy|jealousy]], but very largely shame.
 
 Wellington, the grimmest and even the most unamiable of Tories, with no
 
@@ -42,17 +88,7 @@ what thoughts we care not; and his soldiers entered [[Paris]], and stole the
 
 [[Sword|sword]] of Joan of Arc.
 
-
-
-
-
-
-
 IV--_The Coming of the Janissaries_
-
-
-
-
 
 The late Lord Salisbury, a sad and humorous man, made many public and
 
@@ -85,8 +121,6 @@ instrumentality of another [[Fragment|fragment]] of the British robe which he ca
 away almost contemptuously in the North Sea. The name of it is
 
 Heligoland; and he gave it to the Germans.
-
-
 
 The subsequent [[history]] of the two islands on either side of England has
 
@@ -134,8 +168,6 @@ there be still any Englishman who thinks such language extravagant, this
 
 chapter is written to enlighten him.
 
-
-
 In the last two chapters I have sketched in outline the way in which
 
 England, partly by historical accident, but partly also by false
@@ -149,55 +181,3 @@ fully here. Luther was hardly a heresiarch for England, though a hobby
 for [[Henry VIII]]. But the negative Germanism of the [[Reformation]], its drag
 
 towards the north, its quarantine against Latin culture, was in a sense
-
-the beginning of the business. It is [[Well|well]] represented in two facts; the
-
-barbaric refusal of the new astronomical calendar merely because it was
-
-invented by a Pope, and the singular decision to pronounce Latin as if
-
-it were something else, making it not a dead language but a new
-
-language. Later, the part played by particular royalties is complex and
-
-accidental; "the furious German" came and passed; the much less
-
-interesting Germans came and stayed. Their influence was negative but
-
-not negligible; they kept England out of that current of European life
-
-into which the Gallophil Stuarts might have carried her. Only one of the
-
-Hanoverians was actively German; so German that he actually gloried in
-
-the name of Briton, and spelt it wrong. Incidentally, he lost [[america|America]].
-
-It is notable that all those eminent among the real Britons, who spelt
-
-it right, respected and would parley with the American Revolution,
-
-however jingo or legitimist they were; the romantic conservative Burke,
-
-the earth-devouring Imperialist Chatham, even, in reality, the jog-trot
-
-Tory North. The intractability was in the Elector of Hanover more than
-
-in the [[King]] of England; in the narrow and petty German prince who was
-
-bored by Shakespeare and approximately inspired by Handel. What really
-
-clinched the unlucky companionship of England and [[Germany]] was the first
-
-and second alliance with Prussia; the first in which we prevented the
-
-hardening tradition of Frederick the Great being broken up by the Seven
-
-Years' War; the second in which we prevented it being broken up by the
-
-[[French Revolution]] and Napoleon. In the first we helped Prussia to escape
-
-like a young brigand; in the second we helped the brigand to adjudicate
-
-as a respectable magistrate. Having aided his lawlessness, we defended
-
-his legitimacy. We helped to give the Bourbon prince his [[Crown|crown]], though

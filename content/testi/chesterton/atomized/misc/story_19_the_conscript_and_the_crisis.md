@@ -1,5 +1,5 @@
 ---
-title: "[[misc]] — THE CONSCRIPT AND THE CRISIS"
+title: "misc — THE CONSCRIPT AND THE CRISIS"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -10,12 +10,11 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">misc</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_18_the_fool">‹ Story 18 THE FOOL</a><a class="ex-next" href="/testi/chesterton/atomized/misc/story_20_the_miser_and_his_friends">Story 20 THE MISER AND HIS FRIENDS ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_18_the_fool_fool">‹ Story 18 THE Fool FOOL</a><a class="ex-next" href="/testi/chesterton/atomized/misc/story_20_the_miser_and_his_friends">Story 20 THE MISER AND HIS FRIENDS ›</a></div>
 </nav>
 
 
 THE CONSCRIPT AND THE CRISIS
-
 
 Very few of us ever see the [[history]] of our own [[Time|time]] happening.
 And I think the best service a modern journalist can do to society

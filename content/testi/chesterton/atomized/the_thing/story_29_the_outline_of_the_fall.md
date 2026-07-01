@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-thing-(chesterton)">The Thing</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_28_the_optimist_as_a_suicide">‹ Story 28 THE OPTIMIST AS A SUICIDE</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_30_the_idols_of_scotland">Story 30 THE IDOLS OF SCOTLAND ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_28_the_optimist_as_a_suicide_suicide">‹ Story 28 THE OPTIMIST AS A suicide SUICIDE</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_30_the_idols_of_scotland">Story 30 THE IDOLS OF SCOTLAND ›</a></div>
 </nav>
 
 
@@ -167,7 +167,7 @@ of the ordinary sort of waxwork historical picture of the event.
 We should think he was rather unduly excited about a detail of
 mediaeval [[history]].  But with what a shock of astonishment should
 we realise at last that the man actually thought that all modern
-attempts at [[Democracy|democracy]] must be abandoned, that all representative
+attempts at [[democracy]] must be abandoned, that all representative
 [[government]] must be wrong, that all Parliaments would have
 to be dissolved and all political rights destroyed, if once it
 were admitted that [[King John]] did not sign that special document

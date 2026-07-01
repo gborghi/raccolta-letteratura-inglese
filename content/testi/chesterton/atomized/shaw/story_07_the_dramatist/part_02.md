@@ -1,5 +1,5 @@
 ---
-title: "[[Shaw]] — THE DRAMATIST (part 2)"
+title: "Shaw — THE DRAMATIST (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/shaw-(chesterton)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/shaw/story_07_the_dramatist/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/shaw/story_07_the_dramatist/part_03">part 03 ›</a></div>
 </nav>
 
+
+The brain of Bernard [[Shaw]] was like a wedge in the literal sense.
+Its sharpest end was always in front; and it split our
+society from end to end the moment it had entrance at all.
+As I have said he was long unheard of; but he had not the
+[[Tragedy|tragedy]] of many authors, who were heard of long before they
+were heard.  When you had read any [[Shaw]] you read all [[Shaw]].
+When you had seen one of his plays you waited for more.
+And when he brought them out in volume form, you did what is
+repugnant to any literary man--you bought a book.
 
 The dramatic volume with which [[Shaw]] dazzled the public
 was called, Plays, Pleasant and Unpleasant.  I think the most
@@ -107,37 +117,3 @@ And the woman's witness to the same fact has been best expressed
 by Bernard [[Shaw]] in this great scene where she remains with the great
 stalwart successful public man because he is really too little
 to run [[Alone|alone]].
-
-There are one or two errors in the play; and they are all due
-to the primary error of despising the mental attitude of [[Romance|romance]],
-which is the only key to real human conduct.  For instance, the [[Love|love]]
-making of the young poet is all wrong.  He is supposed to be a romantic
-and amorous boy; and therefore the dramatist tries to make him
-talk turgidly, about seeking for "an archangel with purple wings"
-who shall be worthy of his lady.  But a lad in [[Love|love]] would never talk
-in this mock heroic style; there is no period at which the young
-male is more sensitive and serious and afraid of looking a [[Fool|fool]].
-This is a blunder; but there is another much bigger and blacker.
-It is completely and disastrously false to the whole [[Nature|nature]] of
-falling in [[Love|love]] to make the young Eugene complain of the cruelty
-which makes Candida defile her fair hands with domestic duties.
-No boy in [[Love|love]] with a beautiful woman would ever feel disgusted when she
-peeled potatoes or trimmed lamps.  He would like her to be domestic.
-He would simply feel that the potatoes had become poetical and
-the lamps gained an extra light.  This may be irrational; but we
-are not talking of rationality, but of the psychology of first [[Love|love]].
-It may be very unfair to women that the toil and triviality
-of potato peeling should be seen through a glamour of [[Romance|romance]];
-but the glamour is quite as certain a fact as the potatoes.
-It may be a bad thing in sociology that men should deify domesticity
-in girls as something dainty and magical; but all men do.
-Personally I do not think it a bad thing at all; but that is
-another argument.  The argument here is that Bernard [[Shaw]],
-in aiming at mere realism, makes a big mistake in reality.
-Misled by his great heresy of looking at emotions from the outside,
-he makes Eugene a cold-blooded prig at the very moment when he is trying,
-for his own dramatic purposes, to make him a hot-blooded [[Lover|lover]].
-He makes the young [[Lover|lover]] an idealistic theoriser about the very things
-about which he really would have been a sort of mystical materialist.
-Here the romantic Irishman is much more right than the very rational one;
-and there is far more [[Truth|truth]] to life as it is in [[Lover]]'s couplet--

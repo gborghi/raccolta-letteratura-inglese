@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 12 (part 1)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 12 (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -203,9 +203,3 @@ towards me. The bitterest anxiety which I endured at any period of this
 fearful drama was while I occupied myself in the arrangement of the
 
 lots. There are few conditions into which man can possibly fall where
-
-he will not feel a deep interest in the preservation of his existence;
-
-an interest momentarily increasing with the frailness of the tenure by
-
-which that existence may be held. But now that the silent, definite,

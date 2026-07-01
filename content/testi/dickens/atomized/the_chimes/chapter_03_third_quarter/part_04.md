@@ -14,6 +14,13 @@ tags:
 </nav>
 
 
+But, there was more than this to happen.  Even more than this.  Sir
+Joseph Bowley, Baronet and Member of Parliament, was to play a match at
+skittles—real skittles—with his tenants!
+
+‘Which quite reminds me,’ said [[Alderman Cute]], ‘of the days of old [[King]]
+Hal, stout [[King]] Hal, bluff [[King]] Hal.  Ah!  Fine character!’
+
 ‘Very,’ said Mr. Filer, dryly.  ‘For marrying women and murdering ’em.
 Considerably more than the average number of wives by the bye.’
 
@@ -124,12 +131,3 @@ the pins about quite skilfully; Master Bowley took an innings at a
 shorter distance also; and everybody said that now, when a Baronet and
 the Son of a Baronet played at skittles, the country was coming round
 again, as fast as it could come.
-
-At its proper [[Time|time]], the Banquet was served up.  Trotty involuntarily
-repaired to the Hall with the rest, for he felt himself conducted thither
-by some stronger impulse than his own free will.  The sight was gay in
-the extreme; the ladies were very handsome; the visitors delighted,
-cheerful, and good-tempered.  When the lower doors were opened, and the
-people flocked in, in their rustic dresses, the [[Beauty|beauty]] of the spectacle
-was at its height; but Trotty only murmured more and more, ‘Where is
-[[Richard]]!  He should help and comfort her!  I can’t see [[Richard]]!’

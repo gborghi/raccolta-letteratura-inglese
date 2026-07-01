@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 40 (part 2)"
+title: "Great Expectations — Chapter 40 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_40/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_40/part_03">part 03 ›</a></div>
 </nav>
 
+
+By and by, his door opened and he came out. I could not bring myself to
+bear the sight of him, and I thought he had a worse look by daylight.
 
 “I do not even know,” said I, speaking low as he took his seat at the
 table, “by what name to call you. I have given out that you are my
@@ -155,8 +158,3 @@ was low; that’s what I was; low. Look over it, dear boy.”
 Some sense of the grimly-ludicrous moved me to a fretful laugh, as I
 replied, “I _have_ looked over it. In Heaven’s name, don’t harp upon
 it!”
-
-“Yes, but look’ee here,” he persisted. “Dear boy, I ain’t come so fur,
-not fur to be low. Now, go on, dear boy. You was a saying—”
-
-“How are you to be guarded from the danger you have incurred?”

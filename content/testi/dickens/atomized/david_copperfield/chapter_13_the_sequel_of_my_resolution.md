@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 13: THE SEQUEL OF MY RESOLUTION"
+title: "David Copperfield — Chapter 13: THE SEQUEL OF MY RESOLUTION"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/david-copperfield-(dickens)"

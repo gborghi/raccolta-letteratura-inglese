@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 38 (part 1)"
+title: "Great Expectations — Chapter 38 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -136,20 +136,3 @@ and as [[Miss Havisham]] dwelt upon this roll, with the intensity of a mind
 mortally hurt and diseased, she sat with her other hand on her crutch
 stick, and her chin on that, and her wan bright eyes glaring at me, a
 very spectre.
-
-I saw in this, wretched though it made me, and bitter the sense of
-dependence and even of degradation that it awakened,—I saw in this that
-[[Estella]] was set to wreak [[Miss Havisham]]’s [[Revenge|revenge]] on men, and that she
-was not to be given to me until she had gratified it for a term. I saw
-in this, a reason for her being beforehand assigned to me. Sending her
-out to attract and torment and do mischief, [[Miss Havisham]] sent her with
-the malicious assurance that she was beyond the reach of all admirers,
-and that all who staked upon that cast were secured to lose. I saw in
-this that I, too, was tormented by a perversion of ingenuity, even
-while the prize was reserved for me. I saw in this the reason for my
-being staved off so long and the reason for my late guardian’s
-declining to commit himself to the formal knowledge of such a scheme.
-In a word, I saw in this [[Miss Havisham]] as I had her then and there
-before my eyes, and always had had her before my eyes; and I saw in
-this, the distinct [[Shadow|shadow]] of the darkened and unhealthy [[house]] in which
-her life was hidden from the sun.

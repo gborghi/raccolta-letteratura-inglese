@@ -10,12 +10,11 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-defendant-(chesterton)">The Defendant</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_defendant/story_15_a_defence_of_slang">‹ Story 15 A DEFENCE OF SLANG</a><a class="ex-next" href="/testi/chesterton/atomized/the_defendant/story_17_a_defence_of_detective_stories">Story 17 A DEFENCE OF DETECTIVE STORIES ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_defendant/story_15_a_defence_of_slang">‹ Story 15 A DEFENCE OF SLANG</a><a class="ex-next" href="/testi/chesterton/atomized/the_defendant/story_17_a_defence_of_detective_detective_stories">Story 17 A DEFENCE OF Detective DETECTIVE STORIES ›</a></div>
 </nav>
 
 
 A DEFENCE OF BABY-WORSHIP
-
 
 The two facts which attract almost every normal person to children are,
 first, that they are very serious, and, secondly, that they are in
@@ -115,7 +114,5 @@ all things than a thousand carnivals of optimism; their large and
 lustrous eyes seem to hold all the [[Stars|stars]] in their astonishment; their
 fascinating absence of nose seems to give to us the most perfect hint of
 the [[Humour|humour]] that awaits us in the kingdom of heaven.
-
-
 
        *       *       *       *       *

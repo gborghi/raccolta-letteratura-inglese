@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 22: TWENTY TWO (part 3)"
+title: "Martin Chuzzlewit — Chapter 22: TWENTY TWO (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,8 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_22_twenty_two/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_22_twenty_two/part_04">part 04 ›</a></div>
 </nav>
 
+
+Martin couldn’t say he was.
 
 ‘You have much Toe learn, and Toe enjoy, sir,’ said the gentleman.
 ‘Mrs Hominy is going Toe stay until the end of the Fall, sir, with her
@@ -106,7 +108,7 @@ she had it all her own way, and bruised him to her heart’s content.
 It is no great matter what Mrs Hominy said, save that she had learnt it
 from the cant of a class, and a large class, of her fellow countrymen,
 who in their every word, avow themselves to be as senseless to the high
-principles on which [[America]] sprang, a nation, into life, as any Orson in
+principles on which [[america|America]] sprang, a nation, into life, as any Orson in
 her legislative halls. Who are no more capable of feeling, or of caring
 if they did feel, that by reducing their own country to the ebb of
 honest men’s contempt, they put in hazard the rights of nations yet

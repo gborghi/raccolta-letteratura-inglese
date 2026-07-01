@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 13 (part 2)"
+title: "Northanger Abbey — Chapter 13 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -12,6 +12,16 @@ tags:
 <div class="excerpt-crumb">Austen · <a href="/works/northanger-abbey-(austen)">Northanger Abbey</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_14/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_14/part_03">part 03 ›</a></div>
 </nav>
+
+
+kindest, best-tempered of my sisters.”
+
+
+
+“I [[Hope|hope]] I am not less so now,” she replied, very feelingly; “but indeed
+
+I cannot go. If I am wrong, I am doing what I believe to be right.”
+
 
 
 “I suspect,” said [[Isabella]], in a low voice, “there is no great
@@ -223,15 +233,3 @@ anxious attention was the General’s civility carried, that not aware of
 her extraordinary swiftness in entering the [[house]], he was quite angry
 
 with the servant whose neglect had reduced her to open the door of the
-
-apartment herself. “What did William mean by it? He should make a point
-
-of inquiring into the matter.” And if Catherine had not most warmly
-
-asserted his [[innocence]], it seemed likely that William would lose the
-
-favour of his master forever, if not his place, by her rapidity.
-
-
-
-After sitting with them a quarter of an hour, she [[Rose|rose]] to take leave,

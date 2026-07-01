@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 39: WICKFIELD AND HEEP (part 4)"
+title: "David Copperfield — Chapter 39: WICKFIELD AND HEEP (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_39_wickfield_and_heep/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_39_wickfield_and_heep/part_05">part 05 ›</a></div>
 </nav>
 
+
+‘I don’t think, Trotwood,’ returned Agnes, raising her soft eyes
+to mine, ‘I would consider that. Perhaps it would be better only to
+consider whether it is right to do this; and, if it is, to do it.’
 
 I had no longer any [[Doubt|doubt]] on the subject. With a lightened heart, though
 with a profound sense of the weighty importance of my task, I devoted
@@ -125,8 +129,3 @@ remained within, to bear her company. Towards the twilight I went out
 by myself, musing on what I ought to do, and whether I was justified
 in withholding from Agnes, any longer, what [[Uriah Heep]] had told me in
 [[London]]; for that began to trouble me again, very much.
-
-I had not walked out far enough to be quite clear of the town, upon the
-Ramsgate [[Road|road]], where there was a good path, when I was hailed, through
-the [[Dust|dust]], by somebody behind me. The shambling figure, and the scanty
-great-coat, were not to be mistaken. I stopped, and [[Uriah Heep]] came up.

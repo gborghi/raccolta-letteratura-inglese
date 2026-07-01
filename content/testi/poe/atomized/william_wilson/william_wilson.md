@@ -1,5 +1,5 @@
 ---
-title: "[[William Wilson]]"
+title: "William Wilson"
 author: "Poe"
 unitType: work
 parentWork: "works/william-wilson-(poe)"

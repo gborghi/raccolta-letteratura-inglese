@@ -1,5 +1,5 @@
 ---
-title: "[[Milton]] (part 1)"
+title: "Milton (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/milton-(chesterton)"
@@ -16,13 +16,7 @@ tags:
 
 [[Milton]]: Man and Poet
 
-
-
 			   G K Chesterton
-
-
-
-
 
 All the mass of acute and valuable matter written or compiled
 
@@ -66,8 +60,6 @@ been polygamists from passion, he was polygamous on principle.
 
 While other artists were merely selfish, he was egoistic.
 
-
-
 The public has a quick eye for portraits, a very keen nose
 
 for personality; and across two centuries the traditional picture
@@ -102,11 +94,7 @@ Even his religion is not always heathen in his poetry.
 
 If you heard for the first [[Time|time]] the line,
 
-
-
   By the dear might of Him that walked the waves,
-
-
 
 you would only fancy that some heart of true religious heat
 
@@ -116,13 +104,9 @@ achieved a technical triumph and found a faultless line.
 
 If you read for the first [[Time|time]],
 
-
-
   But come, thou Goddess fair and free,
 
   In heaven yclept Euphrosyne,
-
-
 
 you would think that the most irresponsible of the Elizabethans
 
@@ -130,23 +114,15 @@ had uttered it as he went dancing down the street, believing himself
 
 in A ready.  If you read,
 
-
-
   Blossoms and fruits at once of golden hue
 
   Appeared, with gay enamelled colors mixed,
 
-
-
 or
-
-
 
   [[Silence]] was pleased. Now glowed the firmament
 
   With living sapphires,
-
-
 
 you would think that all the rich dyes of the [[Orient]] and
 
@@ -188,8 +164,6 @@ an instance, of course, is the [[Well|well]]-known superlative about Adam
 
 and his children.
 
-
-
 [[Milton]] was not a simple [[Epic|epic]] poet like Homer, nor was he even
 
 a specially clear [[Epic|epic]] poet like Virgil.  If these two gentlemen
@@ -204,21 +178,13 @@ I might even say that Homer reading [[Milton]] might have much the same
 
 feelings as [[Milton]] reading Browning.  He would have found
 
-
-
   Or of the eternal coeternal beam
 
-
-
 a trifle obscure, and
-
-
 
   nor sometimes forget,
 
   Those other two, equalled with me in fate, etc., etc.,
-
-
 
 almost entirely unintelligible.  In this sense it is absurd
 
@@ -229,8 +195,6 @@ In the art of turning his sentences inside out he never had an equal;
 and the only answer is to say that the result is perfect;
 
 though it is inside out, yet somehow it is right side out.
-
-
 
 Nevertheless, the tradition which puts [[Milton]] with Virgil and the large
 
@@ -243,9 +207,3 @@ and the century in which he lived.  He was not supremely classical;
 but he was classical in a [[Time|time]] when classicism was almost forgotten.
 
 He was not specially lucid; but he was moderately intelligible
-
-in an age when nearly all poets were proud of being unintelligible;
-
-an age of one hundred Brownings gone mad.  The seventeenth century was
-
-a most extraordinary [[Time|time]], which still awaits its adequate explanation.

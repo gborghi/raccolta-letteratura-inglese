@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 4 (part 4)"
+title: "Martin Chuzzlewit — Chapter 4 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_04/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_04/part_05">part 05 ›</a></div>
 </nav>
 
+
+‘This is the whole thing, sir,’ said Mr Tigg; ‘this is the point and
+purpose at which I was gradually arriving when my friend Slyme here,
+with six words, hit it full. Mr Pecksniff, now that your cousin (and
+Chiv’s uncle) has turned up, some steps must be taken to prevent his
+disappearing again; and, if possible, to counteract the influence which
+is exercised over him now, by this designing favourite. Everybody who
+is interested feels it, sir. The whole family is pouring down to this
+place. The [[Time|time]] has come when individual jealousies and interests must
+be forgotten for a [[Time|time]], sir, and [[Union|union]] must be made against the
+common enemy. When the common enemy is routed, you will all set up for
+yourselves again; every lady and gentleman who has a part in the game,
+will go in on their own account and bowl away, to the best of their
+ability, at the testator’s wicket, and nobody will be in a worse
+position than before. Think of it. Don’t commit yourself now. You’ll
+find us at the Half [[Moon]] and Seven [[Stars]] in this village, at any [[Time|time]],
+and open to any reasonable proposition. Hem! Chiv, my dear fellow, go
+out and see what sort of a [[Night|night]] it is.’
 
 Mr Slyme lost no [[Time|time]] in disappearing, and it is to be presumed in going
 round the corner. Mr Tigg, planting his legs as wide apart as he could
@@ -119,34 +137,3 @@ bandying of words and calling of names; such an upturning of noses and
 wrinkling of brows; such a formal interment of good feelings and violent
 [[Resurrection|resurrection]] of ancient grievances; as had never been known in those
 quiet parts since the earliest record of their civilized existence.
-
-At length, in utter [[Despair|despair]] and hopelessness, some few of the
-belligerents began to speak to each other in only moderate terms of
-mutual aggravation; and nearly all addressed themselves with a show of
-tolerable decency to Mr Pecksniff, in recognition of his high character
-and influential position. Thus, by little and little, they made common
-cause of [[Martin Chuzzlewit]]’s obduracy, until it was agreed (if such a
-word can be used in connection with the Chuzzlewits) that there should
-be a general council and conference held at Mr Pecksniff’s [[house]] upon
-a certain day at [[Noon|noon]]; which all members of the family who had brought
-themselves within reach of the summons, were forthwith bidden and
-invited, solemnly, to attend.
-
-If ever Mr Pecksniff wore an apostolic look, he wore it on this
-memorable day. If ever his unruffled smile proclaimed the words, ‘I am
-a messenger of peace!’ that was its mission now. If ever man combined
-within himself all the mild qualities of the [[Lamb|lamb]] with a considerable
-touch of the dove, and not a dash of the crocodile, or the least
-possible suggestion of the very mildest seasoning of the serpent, that
-man was he. And, oh, the two Miss Pecksniffs! Oh, the serene expression
-on the face of [[Charity]], which seemed to say, ‘I know that all my family
-have injured me beyond the possibility of reparation, but I forgive
-them, for it is my duty so to do!’ And, oh, the gay simplicity of [[Mercy]];
-so charming, [[Innocent|innocent]], and infant-like, that if she had gone out
-walking by herself, and it had been a little earlier in the season, the
-robin-redbreasts might have covered her with [[Leaves|leaves]] against her will,
-believing her to be one of the sweet children in the wood, come out of
-it, and issuing forth once more to look for blackberries in the young
-freshness of her heart! What words can paint the Pecksniffs in that
-trying hour? Oh, none; for words have naughty company among them, and
-the Pecksniffs were all goodness.

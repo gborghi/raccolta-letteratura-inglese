@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 38"
+title: "The Tenant of Wildfell Hall — Chapter 38"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -654,7 +654,7 @@ except myself, and just as I was leaving my room [[Lord Lowborough]] was
 
 descending to take his place in the carriage, where his lady was
 
-already ensconced; and [[arthur|Arthur]] (or Mr. Huntingdon, as I prefer calling
+already ensconced; and [[Arthur]] (or Mr. Huntingdon, as I prefer calling
 
 him, for the other is my [[Child|child]]’s name) had the gratuitous insolence to
 

@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 39: WICKFIELD AND HEEP (part 7)"
+title: "David Copperfield — Chapter 39: WICKFIELD AND HEEP (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_39_wickfield_and_heep/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_40_the_wanderer/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘Look at my torturer,’ he replied. ‘Before him I have step by step
+abandoned name and reputation, peace and quiet, [[house]] and [[Home|home]].’
+
+‘I have kept your name and reputation for you, and your peace and
+quiet, and your [[house]] and [[Home|home]] too,’ said Uriah, with a sulky, hurried,
+defeated air of compromise. ‘Don’t be foolish, Mr. Wickfield. If I
+have gone a little beyond what you were prepared for, I can go back, I
+suppose? There’s no harm done.’
+
+‘I looked for single motives in everyone,’ said Mr. Wickfield, ‘and I was
+satisfied I had bound him to me by motives of interest. But see what he
+is--oh, see what he is!’
+
+‘You had better stop him, Copperfield, if you can,’ cried Uriah,
+with his long forefinger pointing towards me. ‘He’ll say something
+presently--mind you!--he’ll be sorry to have said afterwards, and you’ll
+be sorry to have heard!’
 
 ‘I’ll say anything!’ cried Mr. Wickfield, with a desperate air. ‘Why
 should I not be in all the world’s power if I am in yours?’

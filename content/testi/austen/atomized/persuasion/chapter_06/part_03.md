@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 6 (part 3)"
+title: "Persuasion — Chapter 6 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_06/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_06/part_04">part 04 ›</a></div>
 </nav>
 
+
+Miss Anne! very [[Well|well]] done indeed! Lord bless me! how those little
+
+fingers of yours fly about!”
+
+
+
+So passed the first three weeks. Michaelmas came; and now Anne’s heart
+
+must be in Kellynch again. A beloved [[Home|home]] made over to others; all the
+
+precious rooms and furniture, groves, and prospects, beginning to own
 
 other eyes and other limbs! She could not think of much else on the
 
@@ -201,17 +213,3 @@ looking over his letters and things, she found it was so, and is
 perfectly sure that this must be the very man, and her head is quite
 
 full of it, and of poor [[Richard]]! So we must be as merry as we can, that
-
-she may not be dwelling upon such gloomy things.”
-
-
-
-The real circumstances of this pathetic piece of family [[history]] were,
-
-that the Musgroves had had the ill fortune of a very troublesome,
-
-hopeless son; and the good fortune to lose him before he reached his
-
-twentieth year; that he had been sent to sea because he was stupid and
-
-unmanageable on shore; that he had been very little cared for at any

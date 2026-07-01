@@ -1,5 +1,5 @@
 ---
-title: "[[wifrb11]] — The Absence of Mr Glass"
+title: "wifrb11 — The Absence of Mr Glass"
 author: "Chesterton"
 unitType: story
 parentWork: "works/wifrb11-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
                         The Absence of Mr Glass
-
 
 THE consulting-rooms of Dr Orion Hood, the eminent criminologist
 and specialist in certain moral disorders, lay along the sea-front
@@ -616,7 +615,5 @@ which announced that ZALADIN, the World's Greatest Conjurer,
 Contortionist, Ventriloquist and Human Kangaroo would be ready
 with an entirely new series of Tricks at the Empire Pavilion,
 Scarborough, on Monday next at eight o'[[Clock|clock]] precisely.
-
-
 
                                   TWO

@@ -68,7 +68,7 @@ and such papers we never see anything but pictures of a Welshwoman--
 as if there were no males in that peculiar country with the rocks.
 Even the woman is only marked as Welsh by wearing an extraordinary
 costume, rather like that of Cinderella's [[Supernatural|supernatural]] godmother.
-Without the [[Artist|artist]] suggesting any costume at all, one would recognize
+Without the [[artist]] suggesting any costume at all, one would recognize
 the very silly portraits of Irishmen with long upper lips, in the style
 of apes.  Without any plaid trousers to assist the mind, one could spot
 the stiff beards and rocky cheek-bones of the Scotchmen of Charles Keene.

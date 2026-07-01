@@ -14,6 +14,10 @@ tags:
 </nav>
 
 
+A wicket gate was close at hand, but there was more than one path
+across the churchyard to which it led, and, uncertain which to take,
+they came to a stand again.
+
 [[The Village Street|The village street]]--if street that could be called which was an
 irregular cluster of poor cottages of many heights and ages, some with
 their fronts, some with their backs, and some with gable ends towards

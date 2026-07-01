@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 11 (part 2)"
+title: "Oliver Twist — Chapter 11 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_11/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_11/part_03">part 03 ›</a></div>
 </nav>
 
+
+“Officer!” said Mr. Fang, throwing the paper on one side, “what’s this
+fellow charged with?”
 
 “He’s not charged at all, your worship,” replied the officer. “He
 appears against this boy, your worship.”
@@ -114,7 +117,7 @@ receive [[Oliver]]’s answer.
 hazarding the usual reply.
 
 At this point of the inquiry, [[Oliver]] raised his head; and, looking
-round with imploring eyes, murmured a feeble [[Prayer|prayer]] for a draught of
+round with imploring eyes, murmured a feeble [[prayer]] for a draught of
 [[Water|water]].
 
 “Stuff and nonsense!” said Mr. Fang: “don’t try to make a [[Fool|fool]] of me.”
@@ -164,6 +167,3 @@ Mr. Fang.
 “I _will_ speak,” cried the man; “I will not be turned out. I saw it
 all. I keep the book-stall. I demand to be sworn. I will not be put
 down. Mr. Fang, you must hear me. You must not refuse, sir.”
-
-The man was right. His manner was determined; and the matter was
-growing rather too serious to be hushed up.

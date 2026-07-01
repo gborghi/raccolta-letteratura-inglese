@@ -133,8 +133,3 @@ business if I am confused? Let us be clear-headed. If you could kindly
 mention now, for instance, what nine times ninepence are, or how many
 shillings in twenty guineas, it would be so encouraging. I should be so
 much more at my ease about your state of mind.”
-
-Without directly answering to this appeal, she sat so still when he had
-very gently raised her, and the hands that had not ceased to clasp
-his wrists were so much more steady than they had been, that she
-communicated some reassurance to Mr. [[Jarvis Lorry]].

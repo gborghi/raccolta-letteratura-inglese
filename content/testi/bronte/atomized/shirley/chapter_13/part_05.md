@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 13 (part 5)"
+title: "Shirley — Chapter 13 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,34 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_13/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_13/part_06">part 06 ›</a></div>
 </nav>
 
+
+if the [[Fire|fire]] made her too warm, placing a screen between her chair and
+
+the hearth, closing a [[Window|window]] whence she imagined a draught proceeded,
+
+and often and restlessly glancing at her. [[Shirley]] resumed: "Having
+
+destroyed your plan," she said, "which I [[Hope|hope]] I have done, I shall
+
+construct a new one of my own. Every [[Summer|summer]] I make an excursion. This
+
+season I propose spending two months either at the Scotch lochs or the
+
+English lakes--that is, I shall go there provided you consent to
+
+accompany me. If you refuse, I shall not stir a foot."
+
+
+
+"You are very good, [[Shirley]]."
+
+
+
+"I would be very good if you would let me. I have every disposition to
+
+be good. It is my misfortune and habit, I know, to think of myself
+
+paramount to anybody else; but who is not like me in that respect?
 
 However, when Captain Keeldar is made comfortable, accommodated with all
 
@@ -174,7 +202,7 @@ appropriate)--whose straight, pure lineaments paleness does not
 
 disfigure. It looks at us, but not with your eyes. I see a preternatural
 
-lure in its wily glance. It beckons. Were we men, we should [[spring]] at
+lure in its wily glance. It beckons. Were we men, we should [[Spring|spring]] at
 
 the sign--the cold billow would be dared for the sake of the colder
 
@@ -193,51 +221,3 @@ with a wild shriek, she dives?"
 
 
 "But, [[Shirley]], she is not like us. We are neither temptresses, nor
-
-terrors, nor monsters."
-
-
-
-"Some of our kind, it is said, are all three. There are men who ascribe
-
-to 'woman,' in general, such attributes."
-
-
-
-"My dears," here interrupted Mrs. Pryor, "does it not strike you that
-
-your conversation for the last ten minutes has been rather fanciful?"
-
-
-
-"But there is no harm in our fancies; is there, ma'am?"
-
-
-
-"We are aware that mermaids do not exist; why speak of them as if they
-
-did? How can you find interest in speaking of a nonentity?"
-
-
-
-"I don't know," said [[Shirley]].
-
-
-
-"My dear, I think there is an arrival. I heard a step in the lane while
-
-you were talking; and is not that the [[Garden|garden]]-gate which creaks?"
-
-
-
-[[Shirley]] stepped to the [[Window|window]].
-
-
-
-"Yes, there is some one," said she, turning quietly away; and as she
-
-resumed her seat a sensitive flush animated her face, while a trembling
-
-ray at once kindled and softened her eye. She raised her hand to her
-
-chin, cast her gaze down, and seemed to think as she waited.

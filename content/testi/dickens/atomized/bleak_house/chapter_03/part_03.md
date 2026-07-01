@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 3 (part 3)"
+title: "Bleak House — Chapter 3 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -130,10 +130,3 @@ her frowning so fixedly and sternly in her bed, of the strange place
 I was going to, of the people I should find there, and what they
 would be like, and what they would say to me, when a voice in the
 coach gave me a terrible start.
-
-It said, “What the de-vil are you crying for?”
-
-I was so frightened that I lost my voice and could only answer in a
-whisper, “Me, sir?” For of course I knew it must have been the
-gentleman in the quantity of wrappings, though he was still looking
-out of his [[Window|window]].

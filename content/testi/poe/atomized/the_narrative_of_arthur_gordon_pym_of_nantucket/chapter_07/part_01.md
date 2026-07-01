@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 8 (part 1)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 8 (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -203,5 +203,3 @@ thought he was upon the point of swooning. Peters now asked him if he
 did not think it would be better to have the [[Body|body]] thrown overboard at
 
 once, as it was too horrible a sight to see it floundering about in the
-
-scuppers. At this the [[Villain|villain]] absolutely gasped for breath, and turned

@@ -1,5 +1,5 @@
 ---
-title: "A Christmas [[carol|Carol]] — Stave 3: THE SECOND OF THE THREE SPIRITS (part 2)"
+title: "A Christmas Carol — Stave 3: THE SECOND OF THE THREE SPIRITS (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-christmas-carol-(dickens)"
@@ -128,9 +128,3 @@ asked Scrooge.
 you, of all the beings in the many worlds about us, should
 [[Desire|desire]] to cramp these people's opportunities of [[Innocent|innocent]]
 enjoyment."
-
-"I!" cried the Spirit.
-
-"You would deprive them of their means of dining every
-seventh day, often the only day on which they can be said
-to dine at all," said Scrooge. "Wouldn't you?"

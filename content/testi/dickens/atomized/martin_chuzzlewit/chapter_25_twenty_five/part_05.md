@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 25: TWENTY FIVE (part 5)"
+title: "Martin Chuzzlewit — Chapter 25: TWENTY FIVE (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_25_twenty_five/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_25_twenty_five/part_06">part 06 ›</a></div>
 </nav>
 
+
+‘A little dull, but not so bad as might be,’ Mrs Gamp remarked.
+‘I’m glad to see a parapidge, in case of [[Fire|fire]], and lots of roofs and
+chimley-pots to walk upon.’
+
+It will be seen from these remarks that Mrs Gamp was looking out of
+[[Window|window]]. When she had exhausted the prospect, she tried the easy-chair,
+which she indignantly declared was ‘harder than a brickbadge.’ Next
+she pursued her researches among the physic-bottles, glasses, jugs, and
+tea-cups; and when she had entirely satisfied her curiosity on all these
+subjects of investigation, she untied her bonnet-strings and strolled up
+to the bedside to take a look at the patient.
 
 A young man--dark and not ill-looking--with long black hair, that seemed
 the blacker for the whiteness of the bed-clothes. His eyes were partly
@@ -107,20 +119,3 @@ of awful pomp; seeking but a moment’s rest among the long-forgotten
 haunts of [[Childhood|childhood]], and the resorts of yesterday; and dimly finding
 [[Fear|fear]] and horror everywhere! Oh, weary, weary hour! What were the
 wanderings of [[Cain]], to these!
-
-Still, without a moment’s interval, the burning head tossed to and fro.
-Still, from [[Time|time]] to [[Time|time]], fatigue, impatience, [[Suffering|suffering]], and surprise,
-found utterance upon that rack, and plainly too, though never once in
-words. At length, in the solemn hour of midnight, he began to talk;
-waiting awfully for answers sometimes; as though invisible companions
-were about his bed; and so replying to their speech and questioning
-again.
-
-Mrs Gamp awoke, and sat up in her bed; presenting on the wall the [[Shadow|shadow]]
-of a gigantic [[Night|night]] constable, struggling with a prisoner.
-
-‘Come! Hold your tongue!’ she cried, in sharp reproof. ‘Don’t make none
-of that noise here.’
-
-There was no alteration in the face, or in the incessant motion of the
-head, but he talked on wildly.

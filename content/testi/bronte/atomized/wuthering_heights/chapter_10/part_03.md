@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 10 (part 3)"
+title: "Wuthering Heights — Chapter 10 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_10/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_10/part_04">part 04 ›</a></div>
 </nav>
 
+
+He took a seat opposite Catherine, who kept her gaze fixed on him as if
+she feared he would vanish were she to remove it. He did not raise his
+to her often: a quick glance now and then sufficed; but it flashed
+back, each [[Time|time]] more confidently, the undisguised delight he drank from
+hers. They were too much absorbed in their mutual joy to suffer
+embarrassment. Not so Mr. [[Edgar]]: he grew pale with pure annoyance: a
+feeling that reached its climax when his lady [[Rose|rose]], and stepping across
+the rug, seized [[Heathcliff]]’s hands again, and laughed like one beside
+herself.
 
 “I shall think it [[A Dream|a dream]] to-morrow!” she cried. “I shall not be able
 to believe that I have seen, and touched, and spoken to you once more.

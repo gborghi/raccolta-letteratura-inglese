@@ -14,115 +14,115 @@ tags:
 </nav>
 
 
-This is the essence of the Sentimentalist:  that he seeks to enjoy every
-idea without its sequence, and every pleasure without its consequence.
-
-Now it would really be hard to find a worse case of this inconsequent
-sentimentalism than the theory of the British Empire advanced
-by Mr. Roosevelt himself in his attack on Sentimentalists.
-For the Imperial theory, the Roosevelt and Kipling theory, of our
-relation to Eastern races is simply one of eating the Oriental cake
-(I suppose a Sultana Cake) and at the same [[Time|time]] leaving it [[Alone|alone]].
-
-Now there are two sane attitudes of a European statesman towards
-Eastern peoples, and there are only two.
-
-First, he may simply say that the less we have to do with them
-the better; that whether they are lower than us or higher they
-are so catastrophically different that the more we go our way
-and they go theirs the better for all parties concerned.
-I will confess to some tenderness for this view.  There is much
-to be said for letting that calm immemorial life of slave
-and sultan, temple and palm tree flow on as it has always flowed.
-The best reason of all, the reason that affects me most finally,
-is that if we left the rest of the world [[Alone|alone]] we might have
-some [[Time|time]] for attending to our own affairs, which are urgent
-to the point of excruciation.  All [[history]] points to this;
-that intensive cultivation in the long run triumphs over the widest
-extensive cultivation; or, in other words, that making one's own
-field superior is far more effective than reducing other people's
-fields to inferiority.  If you cultivate your own [[Garden|garden]] and grow
-a specially large cabbage, people will probably come to see it.
-Whereas the life of one selling small cabbages round the whole
-district is often forlorn.
-
-Now, the Imperial Pioneer is essentially a commercial traveller;
-and a commercial traveller is essentially a person who goes to see people
-because they don't want to see him.  As long as empires go about urging
-their ideas on others, I always have a notion that the ideas are no good.
-If they were really so splendid, they would make the country
-preaching them a [[Wonder|wonder]] of the world.  That is the true ideal;
-a great nation ought not to be a hammer, but a magnet.
-Men went to the mediaeval Sorbonne because it was worth going to.
-Men went to old Japan because only there could they find the unique
-and exquisite old Japanese art.  Nobody will ever go to modern Japan
-(nobody worth bothering about, I mean), because modern Japan
-has made the huge mistake of going to the other people:
-becoming a common empire.  The mountain has condescended to Mahomet;
-and henceforth Mahomet will whistle for it when he wants it.
-
 * * * * *
 
-That is my political theory:  that we should make England worth
-copying instead of telling everybody to copy her.
-
-But it is not the only possible theory.  There is another view of our
-relations to such places as [[Egypt]] and India which is entirely tenable.
-It may be said, "We Europeans are the heirs of the Roman Empire;
-when all is said we have the largest [[Freedom|freedom]], the most exact science,
-the most solid [[Romance|romance]].  We have a deep though undefined obligation
-to give as we have received from God; because the tribes of men are
-truly thirsting for these things as for [[Water|water]].  All men really want
-clear laws:  we can give clear laws.  All men really want hygiene:
-we can give hygiene.  We are not merely imposing Western ideas.
-We are simply fulfilling human ideas--for the first [[Time|time]]."
-
-On this line, I think, it is possible to justify the forts of Africa
-and the railroads of Asia; but on this line we must go much further.
-If it is our duty to give our best, there can be no [[Doubt|doubt]] about what is
-our best.  The greatest thing our Europe has made is the Citizen:
-the idea of the average man, free and full of [[Honour|honour]],
-voluntarily invoking on his own sin the just vengeance of his [[City|city]].
-All else we have done is mere machinery for that:
-railways exist only to carry the Citizen; forts only to defend him;
-electricity only to light him, medicine only to heal him.
-Popularism, the idea of the people alive and patiently feeding [[history]],
-that we cannot give; for it exists everywhere, East and West.
-But [[democracy]], the idea of the people fighting and governing--
-that is the only thing we have to give.
-
-Those are the two roads.  But between them weakly wavers
-the Sentimentalist--that is, the Imperialist of the Roosevelt school.
-He wants to have it both ways, to have the splendours of [[success]] without
-the perils.  Europe may enslave Asia, because it is flattering:
-but Europe must not free Asia, because that is responsible.
-It tickles his Imperial taste that Hindoos should have European hats:
-it is too dangerous if they have European heads.  He cannot leave
-Asia Asiatic:  yet he dare not contemplate Asia as European.
-Therefore he proposes to have in [[Egypt]] railway signals, but not flags;
-despatch boxes, but not ballot boxes.
-
-In short, the Sentimentalist decides to spread the [[Body|body]] of Europe
-without the [[Soul|soul]].
+If it be said that such things do no harm, I hasten, in one sense,
+at least, to agree.  Far from it; they do good.  They do good
+in the most vital matter of modern times; for they prove and print
+in huge letters the [[Truth|truth]] which our society must learn or perish.
+They prove that wealth in society as now constituted does
+not tend to get into the hands of the thrifty or the capable,
+but actually tends to get into the hands of wastrels and imbeciles.
+And it proves that the wealthy class of to-day is quite as ignorant
+about how to enjoy itself as about how to rule other people.
+That it cannot make its [[government]] govern or its [[Education|education]] educate we
+may take as a trifling weakness of oligarchy; but pleasure we do look
+to see in such a class; and it has surely come to its decrepitude
+when it cannot make its pleasures please.
 
 -/-
 
-The White Horses
+The [[Garden]] of the Sea
 
-IT is within my experience, which is very brief and occasional
-in this matter, that it is not really at all easy to talk
-in a motor-car. This is fortunate; first, because, as a whole,
-it prevents me from motoring; and second because, at any given moment,
-it prevents me from talking.  The difficulty is not wholly due to
-the physical conditions, though these are distinctly unconversational.
-FitzGerald's Omar, being a pessimist, was probably rich,
-and being a lazy fellow, was almost certainly a motorist.
-If any [[Doubt|doubt]] could exist on the point, it is enough to say that,
-in speaking of the foolish profits, Omar has defined the difficulties
-of colloquial motoring with a precision which cannot be accidental.
-"Their words to [[Wind|wind]] are scattered; and their mouths are stopped
-with [[Dust|dust]]."  From this follows not (as many of the cut-and-dried
-philosophers would say) a savage [[Silence|silence]] and mutual hostility,
-but rather one of those rich silences that make the mass and bulk
-of all [[Friendship|friendship]]; the [[Silence|silence]] of men rowing the same boat or fighting
-in the same battle-line.
+ONE sometimes hears from persons of the chillier type of culture
+the remark that plain country people do not appreciate the [[Beauty|beauty]]
+of the country.  This is an error rooted in the intellectual [[Pride|pride]]
+of mediocrity; and is one of the many examples of a [[Truth|truth]] in the idea
+that extremes meet.  Thus, to appreciate the virtues of the mob
+one must either be on a level with it (as I am) or be really
+high up, like the saints.  It is roughly the same with aesthetics;
+slang and rude dialect can be relished by a really literary taste,
+but not by a merely bookish taste.  And when these cultivated cranks
+say that rustics do not talk of [[Nature]] in an appreciative way,
+they really mean that they do not talk in a bookish way.
+They do not talk bookishly about clouds or stones, or pigs or slugs,
+or horses or anything you please.  They talk piggishly about pigs;
+and sluggishly, I suppose, about slugs; and are refreshingly horsy
+about horses.  They speak in a stony way of stones; they speak
+in a cloudy way of clouds; and this is surely the right way.
+And if by any chance a simple intelligent person from the country
+comes in contact with any aspect of [[Nature]] unfamiliar and arresting,
+such a person's comment is always worth remark.  It is sometimes
+an [[Epigram|epigram]], and at worst it is never a quotation.
+
+Consider, for instance, what wastes of wordy [[Imitation|imitation]] and ambiguity
+the ordinary educated person in the big towns could pour out on the
+subject of the sea.  A country girl I know in the county of [[Buckingham]]
+had never seen the sea in her life until the other day.  When she
+was asked what she thought of it she said it was like cauliflowers.
+Now that is a piece of pure literature--vivid, entirely independent
+and original, and perfectly true.  I had always been haunted with
+an analogous kinship which I could never locate; cabbages always
+remind me of the sea and the sea always reminds me of cabbages.
+It is partly, perhaps, the veined mingling of violet and green,
+as in the sea a purple that is almost dark red may mix with a green
+that is almost yellow, and still be the blue sea as a whole.
+But it is more the grand curves of the cabbage that curl over
+cavernously like waves, and it is partly again that dreamy repetition,
+as of a pattern, that made two great poets, Aeschylus and Shakespeare,
+use a word like "multitudinous" of the ocean.  But just where my
+fancy halted the Buckinghamshire young woman rushed (so to speak)
+to my imaginative rescue.  Cauliflowers are twenty times better
+than cabbages, for they show the wave breaking as [[Well|well]] as curling,
+and the efflorescence of the branching foam, blind bubbling,
+and opaque.  Moreover, the strong lines of life are suggested;
+the arches of the rushing waves have all the rigid energy of green stalks,
+as if the whole sea were one great green plant with one immense
+white flower rooted in the abyss.
+
+Now, a large number of delicate and superior persons would refuse
+to see the force in that kitchen [[Garden|garden]] comparison, because it is not
+connected with any of the ordinary maritime sentiments as stated in books
+and [[songs]].  The aesthetic amateur would say that he knew what large and
+philosophical thoughts he ought to have by the boundless deep.  He would
+say that he was not a greengrocer who would think first of greens.
+To which I should reply, like [[Hamlet]], apropos of a parallel profession,
+"I would you were so honest a man."  The mention of "[[Hamlet]]"
+reminds me, by the way, that besides the girl who had never seen
+the sea, I knew a girl who had never seen a stage-play. She was taken
+to "[[Hamlet]]," and she said it was very sad.  There is another case
+of going to the primordial point which is overlaid by learning
+and secondary impressions.  We are so used to thinking of "[[Hamlet]]"
+as a problem that we sometimes quite forget that it is a [[Tragedy|tragedy]],
+just as we are so used to thinking of the sea as vast and vague,
+that we scarcely notice when it is white and green.
+
+But there is another quarrel involved in which the young gentleman
+of culture comes into violent collision with the young lady of
+the cauliflowers.  The first essential of the merely bookish view
+of the sea is that it is boundless, and gives a sentiment of infinity.
+Now it is quite certain, I think, that the cauliflower simile
+was partly created by exactly the opposite impression,
+the impression of boundary and of barrier.  The girl thought
+of it as a field of vegetables, even as a yard of vegetables.
+The girl was right.  The ocean only suggests infinity when you
+cannot see it; a sea mist may seem endless, but not a sea.
+So far from being vague and vanishing, the sea is the one
+hard straight line in [[Nature]].  It is the one plain limit;
+the only thing that God has made that really looks like a wall.
+Compared to the sea, not only sun and cloud are chaotic and doubtful,
+but solid [[Mountains|mountains]] and standing forests may be said to melt
+and fade and flee in the presence of that lonely iron line.
+The old naval phrase, that the seas are England's bulwarks,
+is not a frigid and artificial metaphor; it came into the head
+of some genuine sea-dog, when he was genuinely looking at the sea.
+For the edge of the sea is like the edge of a [[Sword|sword]];
+it is sharp, military, and decisive; it really looks like a bolt
+or bar, and not like a mere expansion.  It hangs in heaven, grey,
+or green, or blue, changing in colour, but changeless in form,
+behind all the slippery contours of the land and all the savage
+softness of the forests, like the scales of God held even.
+It hangs, a perpetual reminder of that divine reason and justice
+which abides behind all compromises and all legitimate variety;
+the one straight line; the limit of the intellect; the dark and
+ultimate dogma of the world.

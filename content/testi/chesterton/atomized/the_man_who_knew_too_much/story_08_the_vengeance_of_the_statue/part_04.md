@@ -14,6 +14,22 @@ tags:
 </nav>
 
 
+suppose it's illogical. After all, I was full of admiration at
+
+finding three honest men in politics. I ought not to be full of
+
+astonishment if I find only two."
+He ruminated a moment and then said, in such a fashion that March
+
+could hardly tell if he were changing the subject or no:
+"It's hard at first to believe that a fellow like Herries, who had
+
+pickled himself in vice like vinegar, can have any scruple left. But
+
+about that I've noticed a curious thing. Patriotism is not the first
+
+virtue. Patriotism rots into Prussianism when you pretend it is the
+
 first virtue. But patriotism is sometimes the last virtue. A man
 
 will swindle or seduce who will not sell his country. But who
@@ -169,25 +185,3 @@ stone figure. Just so, he could fancy, the maniac who had done such
 a thing might climb the crest of the [[Hill|hill]], in that feverish dancing
 
 fashion, and look down on the wreck he had made. But the wreck he
-
-had made here was not only a wreck of stone.
-When the man emerged at last on to the [[Garden|garden]] path, with the full
-
-light on his face and figure, he was walking slowly indeed, but
-
-easily, and with no appearance of [[Fear|fear]].
-"This is a terrible thing," he said. "I saw it from above; I was
-
-taking a stroll along the ridge."
-"Do you mean that you saw the murder?" demanded March, "or the
-
-accident? I mean did you see the statue fall?"
-"No," said Archer, "I mean I saw the statue fallen."
-Prince seemed to be paying but little attention; his eye was riveted
-
-on an object lying on the path a yard or two from the corpse. It
-
-seemed to be a rusty iron bar bent crooked at one end.
-"One thing I don't understand," he said, "is all this [[Blood|blood]]. The
-
-poor fellow's skull isn't smashed; most likely his neck is broken;

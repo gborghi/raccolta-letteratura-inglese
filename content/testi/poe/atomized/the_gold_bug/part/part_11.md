@@ -1,5 +1,5 @@
 ---
-title: "[[The Gold-Bug]] (part 11)"
+title: "The Gold-Bug (part 11)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-gold-bug-(poe)"
@@ -13,6 +13,46 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_gold_bug/part/part_10">‹ part 10</a><a class="ex-next" href="/testi/poe/atomized/the_gold_bug/part/part_12">part 12 ›</a></div>
 </nav>
 
+
+      off, while your right, holding the parchment, was permitted to
+
+      fall listlessly between your knees, and in close proximity to the
+
+      [[Fire|fire]]. At one moment I thought the blaze had caught it, and was
+
+      about to caution you, but, before I could speak, you had
+
+      withdrawn it, and were engaged in its examination. When I
+
+      considered all these particulars, I doubted not for a moment that
+
+      heat had been the agent in bringing to light, upon the parchment,
+
+      the skull which I saw designed upon it. You are [[Well|well]] aware that
+
+      chemical preparations exist, and have existed [[Time|time]] out of mind,
+
+      by means of which it is possible to write upon either paper or
+
+      vellum, so that the characters shall become visible only when
+
+      subjected to the action of [[Fire|fire]]. Zaffre, digested in aqua regia,
+
+      and diluted with four times its weight of [[Water|water]], is sometimes
+
+      employed; a green tint results. The regulus of cobalt, dissolved
+
+      in spirit of nitre, gives a red. These colors disappear at longer
+
+      or shorter intervals after the material written upon cools, but
+
+      again become apparent upon the re-application of heat.
+
+
+
+      “I now scrutinized the [[Death|death]]’s-head with care. Its outer
+
+      edges—the edges of the drawing nearest the edge of the
 
       vellum—were far more distinct than the others. It was clear that
 
@@ -173,57 +213,3 @@ tags:
 
 
       “But how did you proceed?”
-
-
-
-      “I held the vellum again to the [[Fire|fire]], after increasing the heat;
-
-      but nothing appeared. I now thought it possible that the coating
-
-      of dirt might have something to do with the failure; so I
-
-      carefully rinsed the parchment by pouring warm [[Water|water]] over it,
-
-      and, having done this, I placed it in a tin pan, with the skull
-
-      downwards, and put the pan upon a furnace of lighted charcoal. In
-
-      a few minutes, the pan having become thoroughly heated, I removed
-
-      the slip, and, to my inexpressible joy, found it spotted, in
-
-      several places, with what appeared to be figures arranged in
-
-      lines. Again I placed it in the pan, and suffered it to remain
-
-      another minute. Upon taking it off, the whole was just as you see
-
-      it now.”
-
-
-
-      Here Legrand, having re-heated the parchment, submitted it to my
-
-      inspection. The following characters were rudely traced, in a red
-
-      tint, between the [[Death|death]]’s-head and the goat:
-
-
-
-     “53‡‡†305))6*;4826)4‡.)4‡);806*;48†8¶60))85;1‡(;:‡*8†83(88)5*†
-
-     ;46(;88*96*?;8)*‡(;485);5*†2:*‡(;4956*2(5*—4)8¶8*;4069285);)
-
-     6†8)4‡‡;1(‡9;48081;8:8‡1;48†85;4)485†528806*81(‡9;48;(88;4(‡?3
-
-     4;48)4‡;161;:188;‡?;”
-
-
-
-      “But,” said I, returning him the slip, “I am as much in the dark
-
-      as ever. Were all the jewels of Golconda awaiting me upon my
-
-      solution of this enigma, I am quite sure that I should be unable
-
-      to earn them.”

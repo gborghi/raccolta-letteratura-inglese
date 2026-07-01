@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 12 (part 2)"
+title: "Shirley — Chapter 12 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_12/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_12/part_03">part 03 ›</a></div>
 </nav>
 
+
+riotous climax, while the sky was all cataract, the earth all flood, I
+
+have remembered the [[deluge|Deluge]]."
+
+
+
+"It is singularly reviving after such hurricanes to feel calm return,
 
 and from the opening clouds to receive a consolatory gleam, softly
 
@@ -277,29 +285,3 @@ young--two years ago."
 
 
 "What sort of a companion is he on these occasions?"
-
-
-
-"A cousin, you know, is different to a stranger."
-
-
-
-"I am aware of that; but cousins, if they are stupid, are still more
-
-insupportable than strangers, because you cannot so easily keep them at
-
-a distance. But your cousin is not stupid?"
-
-
-
-"No; but----"
-
-
-
-"[[Well]]?"
-
-
-
-"If the company of fools irritates, as you say, the society of clever
-
-men [[Leaves|leaves]] its own peculiar [[Pain|pain]] also. Where the goodness or talent of

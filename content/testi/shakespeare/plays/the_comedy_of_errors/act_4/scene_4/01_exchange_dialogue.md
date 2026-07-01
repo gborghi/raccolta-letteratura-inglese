@@ -1,5 +1,5 @@
 ---
-title: "The [[Comedy]] of Errors — Act IV, Scene 4 — exchange (dialogue) [1]"
+title: "The Comedy of Errors — Act IV, Scene 4 — exchange (dialogue) [1]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-comedy-of-errors-(shakespeare)"

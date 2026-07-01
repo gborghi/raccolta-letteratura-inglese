@@ -1,5 +1,5 @@
 ---
-title: "[[Pride and Prejudice]] — Chapter 58"
+title: "Pride and Prejudice — Chapter 58"
 author: "Austen"
 unitType: chapter
 parentWork: "works/pride-and-prejudice-(austen)"
@@ -256,7 +256,7 @@ Elizabeth could not help smiling at his easy manner of directing his
 friend.
 
 “Did you speak from your own observation,” said she, “when you told him
-that my sister loved him, or merely from my information last [[spring]]?”
+that my sister loved him, or merely from my information last [[Spring|spring]]?”
 
 “From the former. I had narrowly observed her, during the two visits
 which I had lately made her here; and I was convinced of her affection.”

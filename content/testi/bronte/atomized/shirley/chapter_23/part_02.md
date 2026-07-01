@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 23 (part 2)"
+title: "Shirley — Chapter 23 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_23/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_23/part_03">part 03 ›</a></div>
 </nav>
 
+
+it, I may say, a very great deal. Mrs. Yorke wore the cap--it became
+
+her; she wore the gown also--it suited her no less.
+
+
+
+That great lady was come in a friendly way to take tea with Miss Moore.
+
+It was almost as great and as rare a favour as if the [[Queen|queen]] were to go
 
 uninvited to share pot-luck with one of her subjects. A higher mark of
 
@@ -245,17 +255,3 @@ do?"
 
 
 "Much happier, even if you did nothing but wander. Remember, however,
-
-that I shall have an object in view; but if you only went on and on,
-
-like some enchanted lady in a fairy tale, you might be happier than now.
-
-In a day's wandering you would pass many a [[Hill|hill]], wood, and watercourse,
-
-each perpetually altering in aspect as the sun shone out or was
-
-overcast; as the weather was wet or fair, dark or bright. Nothing
-
-changes in Briarfield rectory. The plaster of the parlour ceilings, the
-
-paper on the walls, the curtains, carpets, chairs, are still the same."

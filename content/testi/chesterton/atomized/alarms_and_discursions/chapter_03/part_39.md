@@ -14,114 +14,152 @@ tags:
 </nav>
 
 
-For three burning minutes Cyril Vernon-[[smith|Smith]] was nearer to the people
-and more their brother than he had been in his whole high-stepping
-pedantic existence; for if he did not [[Love|love]] a poor man, he hated one.
-And you never really regard a labourer as your equal until you
-can quarrel with him.  "Dirty cad!" he muttered.  "Filthy [[Fool|fool]]!
-Mucking with [[Snow|snow]] like a beastly baby!  When will they be civilised?
-Why, the very state of the street is a disgrace and a [[Temptation|temptation]]
-to such tomfools.  Why isn't all this [[Snow|snow]] cleared away and the
-street made decent?"
+The second archer, who had curly hair and was pale, poetical,
+and rather effeminate, had merely gone out into the [[Garden|garden]] and stared
+at the [[Moon|moon]].  When the [[Moon|moon]] had become too wide, blank, and watery,
+even for his own wide, blank, and watery eyes, he came in again.
+And when the [[King|king]] said "What have you been shooting?" he answered
+with great volubility, "I have shot a man; not a man from Tartary,
+not a man from Europe, Asia, Africa, or [[america|America]]; not a man on this
+earth at all.  I have shot the Man in the [[Moon]]."  "Shot the Man
+in the [[Moon]]?" repeated the [[King|king]] with something like a mild surprise.
+"It is easy to prove it," said the archer with hysterical haste.
+"Examine the [[Moon|moon]] through this particularly powerful telescope,
+and you will no longer find any traces of a man there."  The [[King|king]]
+glued his big blue idiotic eye to the telescope for about ten minutes,
+and then said, "You are right:  as you have often pointed out,
+scientific [[Truth|truth]] can only be tested by the senses.  I believe you."
+And the second archer went out, and being of a more emotional
+temperament burst into [[Tears|tears]].
 
-To the eye of efficiency, there was, indeed, something to complain
-of in the condition of the [[Road|road]].  [[Snow]] was banked up on both
-sides in white walls and towards the other and darker end
-of the street even [[Rose|rose]] into a chaos of low colourless hills.
-By the [[Time|time]] he reached them he was nearly knee deep, and was
-in a far from philanthropic frame of mind.  The [[Solitude|solitude]] of
-the little streets was as strange as their white obstruction,
-and before he had ploughed his way much further he was convinced
-that he had taken a wrong turning, and fallen upon some formless
-suburb unvisited before.  There was no light in any of the low,
-dark houses; no light in anything but the blank emphatic [[Snow|snow]].
-He was modern and morbid; hellish isolation hit and held him suddenly;
-anything human would have relieved the strain, if it had been only
-the leap of a garotter.  Then the tender human touch came indeed;
-for another snowball struck him, and made a star on his back.
-He turned with fierce joy, and ran after a boy escaping;
-ran with dizzy and violent [[Speed|speed]], he knew not for how long.
-He wanted the boy; he did not know whether he loved or hated him.
-He wanted humanity; he did not know whether he loved or hated it.
+The third archer was a savage, brooding sort of man with tangled
+hair and dreamy eyes, and he came in without any preface, saying,
+"I have lost all my arrows.  They have turned into [[Birds|birds]]."
+Then as he saw that they all stared at him, he said "[[Well]],
+you know everything changes on the earth; mud turns into marigolds,
+eggs turn into chickens; one can even breed [[dogs]] into quite
+different shapes.  [[Well]], I shot my arrows at the awful eagles
+that clash their wings round the Himalayas; great golden eagles
+as big as elephants, which snap the tall trees by perching on them.
+My arrows fled so far over mountain and valley that they turned
+slowly into fowls in their flight.  See here," and he threw
+down a dead bird and laid an arrow beside it.  "Can't you see
+they are the same structure.  The straight shaft is the backbone;
+the sharp point is the beak; the feather is the rudimentary plumage.
+It is merely modification and evolution."  After a [[Silence|silence]] the [[King|king]]
+nodded gravely and said, "Yes; of course everything is evolution."
+At this the third archer suddenly and violently left the room,
+and was heard in some distant part of the building making extraordinary
+noises either of sorrow or of mirth.
 
-As he ran he realised that the landscape around him was changing
-in shape though not in colour.  The houses seemed to dwindle and
-disappear in hills of [[Snow|snow]] as if buried; the [[Snow|snow]] seemed to rise
-in tattered outlines of crag and cliff and crest, but he thought
-nothing of all these impossibilities until the boy turned to bay.
-When he did he saw the [[Child|child]] was queerly beautiful, with gold
-red hair, and a face as serious as complete happiness.
-And when he spoke to the boy his own question surprised him,
-for he said for the first [[Time|time]] in his life, "What am I doing here?"
-And the little boy, with very [[Grave|grave]] eyes, answered, "I suppose
-you are dead."
-
-He had (also for the first [[Time|time]]) a [[Doubt|doubt]] of his spiritual destiny.
-He looked round on a towering landscape of frozen peaks and plains,
-and said, "Is this hell?"  And as the [[Child|child]] stared, but did not answer,
-he knew it was heaven.
-
-All over that colossal country, white as the world round
-the Pole, little boys were playing, [[rolling]] each other down
-dreadful slopes, crushing each other under falling cliffs;
-for heaven is a place where one can fight for ever without hurting.
-[[smith|Smith]] suddenly remembered how happy he had been as a [[Child|child]],
-[[rolling]] about on the safe sandhills around Conway.
-
-Right above [[smith|Smith]]'s head, higher than the [[Cross|cross]] of St. Paul's,
-but curving over him like the hanging blossom of a harebell, was a
-cavernous crag of [[Snow|snow]].  A hundred feet below him, like a landscape
-seen from a balloon, lay snowy flats as white and as far away.
-He saw a little boy stagger, with many catastrophic slides,
-to that toppling peak; and seizing another little boy by the leg,
-send him flying away down to the distant silver plains.
-There he sank and vanished in the [[Snow|snow]] as if in the sea;
-but coming up again like a diver rushed madly up the steep once more,
-[[rolling]] before him a great gathering snowball, gigantic at last,
-which he hurled back at the mountain crest, and brought both the boy
-and the mountain down in one avalanche to the level of the vale.
-The other boy also sank like a stone, and also [[Rose|rose]] again like
-a bird, but [[smith|Smith]] had no leisure to concern himself with this.
-For the collapse of that celestial crest had left him standing
-solitary in the sky on a peak like a church spire.
-
-He could see the tiny figures of the boys in the valley below, and he knew
-by their attitudes that they were eagerly telling him to jump.
-Then for the first [[Time|time]] he knew the [[Nature|nature]] of [[Faith|faith]], as he had just
-known the fierce [[Nature|nature]] of [[Charity|charity]].  Or rather for the second [[Time|time]],
-for he remembered one moment when he had known [[Faith|faith]] before.
-It was when his father had taught him to swim, and he had believed
-he could float on [[Water|water]] not only against reason, but (what is
-so much harder) against instinct.  Then he had trusted [[Water|water]];
-now he must trust air.
-
-He jumped.  He went through air and then through [[Snow|snow]] with the same
-blinding swiftness.  But as he buried himself in solid [[Snow|snow]] like a bullet
-he seemed to learn a million things and to learn them all too fast.
-He knew that the whole world is a snowball, and that all the [[Stars|stars]]
-are snowballs.  He knew that no man will be fit for heaven till
-he loves solid whiteness as a little boy loves a ball of [[Snow|snow]].
-
-He sank and sank and sank ... and then, as usually happens in such cases,
-woke up, with a start--in the street.  True, he was taken up
-for a common drunk, but (if you properly appreciate his [[conversion]])
-you will realise that he did not mind; since the crime of drunkenness
-is infinitely less than that of spiritual [[Pride|pride]], of which he had
-really been guilty.
+The fourth archer was a stunted man with a face as dead as wood,
+but with wicked little eyes close together, and very much alive.
+His comrades dissuaded him from going in because they said that they
+had soared up into the seventh heaven of living lies, and that there
+was literally nothing which the old man would not believe.  The face
+of the little archer became a little more wooden as he forced his way in,
+and when he was inside he looked round with blinking bewilderment.
+"Ha, the last," said the [[King|king]] heartily, "welcome back again!"
+There was a long pause, and then the stunted archer said,
+"What do you mean by 'again'?  I have never been here before."
+The [[King|king]] stared for a few seconds, and said, "I sent you out from
+this room with the four doors last [[Night|night]]."  After another pause
+the little man slowly shook his head.  "I never saw you before,"
+he said simply; "you never sent me out from anywhere.  I only saw
+your four turrets in the distance, and strayed in here by accident.
+I was born in an island in the Greek Archipelago; I am by profession
+an auctioneer, and my name is Punk."  The [[King|king]] sat on his throne
+for seven long instants like a statue; and then there awoke in his mild
+and ancient eyes an awful thing; the complete conviction of untruth.
+Every one has felt it who has found a [[Child|child]] obstinately false.
+He [[Rose|rose]] to his height and took down the heavy [[Sword|sword]] above him,
+plucked it out naked, and then spoke.  "I will believe your mad
+tales about the exact machinery of arrows; for that is science.
+I will believe your mad tales about traces of life in the [[Moon|moon]];
+for that is science.  I will believe your mad tales about jellyfish
+turning into gentlemen, and everything turning into anything;
+for that is science.  But I will not believe you when you tell me
+what I know to be untrue.  I will not believe you when you say that
+you did not all set forth under my authority and out of my [[house]].
+The other three may conceivably have told the [[Truth|truth]]; but this
+last man has certainly lied.  Therefore I will kill him."
+And with that the old and gentle [[King|king]] ran at the man with uplifted [[Sword|sword]];
+but he was arrested by the roar of happy laughter, which told
+the world that there is, after all, something which an Englishman
+will not [[Swallow|swallow]].
 
 -/-
 
-The High Plains
+The Modern Scrooge
 
-BY high plains I do not mean table-lands; table-lands do not interest
-one very much.  They seem to involve the bore of a climb without
-the pleasure of a peak.  Also they are vaguely associated with Asia
-and those enormous armies that eat up everything like locusts,
-as did the army of Xerxes; with emperors from nowhere spreading
-their battalions everywhere; with the white elephants and the
-painted horses, the dark engines and the dreadful mounted bowmen
-of the moving empires of the East, with all that evil insolence
-in short that rolled into Europe in the youth of Nero, and after
-having been battered about and abandoned by one Christian nation
-after another, turned up in England with Disraeli and was christened
-(or rather paganed) Imperialism.
+MR.  VERNON-[[smith|SMITH]], of Trinity, and the Social Settlement, Tooting,
+author of "A Higher [[London]]" and "The Boyg System at Work,"
+came to the conclusion, after looking through his select and even
+severe library, that Dickens's "Christmas [[carol|Carol]]" was a very suitable
+thing to be read to charwomen.  Had they been men they would have been
+forcibly subjected to Browning's "Christmas Eve" with exposition,
+but chivalry spared the charwomen, and Dickens was funny,
+and could do no harm.  His fellow worker Wimpole would read things
+like "Three Men in a Boat" to the poor; but Vernon-[[smith|Smith]] regarded
+this as a sacrifice of principle, or (what was the same thing to him)
+of dignity.  He would not encourage them in their vulgarity;
+they should have nothing from him that was not literature.
+Still Dickens was literature after all; not literature of a high order,
+of course, not thoughtful or purposeful literature, but literature
+quite fitted for charwomen on Christmas Eve.
+
+He did not, however, let them absorb Dickens without due
+antidotes of warning and criticism.  He explained that Dickens
+was not a writer of the first rank, since he lacked the high
+seriousness of Matthew Arnold.  He also feared that they
+would find the characters of Dickens terribly exaggerated.
+But they did not, possibly because they were meeting them every day.
+For among the poor there are still exaggerated characters;
+they do not go to the Universities to be universified.
+He told the charwomen, with progressive brightness, that a mad wicked
+old miser like Scrooge would be really quite impossible now; but as
+each of the charwomen had an uncle or a grandfather or a father-in-law
+who was exactly like Scrooge, his cheerfulness was not shared.
+Indeed, the lecture as a whole lacked something of his firm and
+elastic touch, and towards the end he found himself rambling, and in
+a sort of abstraction, talking to them as if they were his fellows.
+He caught himself saying quite mystically that a spiritual plane
+(by which he meant his plane) always looked to those on the sensual
+or Dickens plane, not merely austere, but desolate.  He said,
+quoting Bernard [[Shaw]], that we could all go to heaven just as we can
+all go to a classical concert, but if we did it would bore us.
+Realising that he was taking his flock far out of their depth, he ended
+somewhat hurriedly, and was soon receiving that generous applause
+which is a part of the profound ceremonialism of the working classes.
+As he made his way to the door three people stopped him,
+and he answered them heartily enough, but with an air of hurry which
+he would not have dreamed of showing to people of his own class.
+One was a little schoolmistress who told him with a sort of feverish
+meekness that she was troubled because an Ethical Lecturer
+had said that Dickens was not really Progressive; but she
+thought he was Progressive; and surely he was Progressive.
+Of what being Progressive was she had no more notion than a whale.
+The second person implored him for a subscription to some soup
+kitchen or cheap meal; and his refined features sharpened;
+for this, like literature, was a matter of principle with him.
+"Quite the wrong method," he said, shaking his head and pushing past.
+"Nothing any good but the Boyg system."  The third stranger,
+who was male, caught him on the step as he came out into
+the [[Snow|snow]] and starlight; and asked him point blank for money.
+It was a part of Vernon-[[smith|Smith]]'s principles that all such persons
+are prosperous impostors; and like a true mystic he held to
+his principles in defiance of his five senses, which told him
+that the [[Night|night]] was freezing and the man very thin and weak.
+"If you come to the Settlement between four and five on Friday week,"
+he said, "inquiries will be made."  The man stepped back
+into the [[Snow|snow]] with a not ungraceful gesture as of apology;
+he had frosty silver hair, and his lean face, though in [[Shadow|shadow]],
+seemed to wear something like a smile.  As Vernon-[[smith|Smith]] stepped briskly
+into the street, the man stooped down as if to do up his bootlace.
+He was, however, guiltless of any such dandyism; and as the young
+philanthropist stood pulling on his gloves with some particularity,
+a heavy snowball was suddenly smashed into his face.  He was blind
+for a black instant; then as some of the [[Snow|snow]] fell, saw faintly,
+as in a dim [[Mirror|mirror]] of ice or dreamy crystal, the lean man bowing with
+the elegance of a dancing master, and saying amiably, "A Christmas box."
+When he had quite cleared his face of [[Snow|snow]] the man had vanished.

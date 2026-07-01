@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 1 (part 2)"
+title: "thursday — Chapter 1 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -14,6 +14,13 @@ tags:
 </nav>
 
 
+"It may [[Well|well]] be," he said, in his sudden lyrical manner, "it may
+[[Well|well]] be on such a [[Night|night]] of clouds and cruel colours that there is
+brought forth upon the earth such a portent as a respectable poet.
+You say you are a poet of law; I say you are a contradiction in terms.
+I only [[Wonder|wonder]] there were not comets and earthquakes on the [[Night|night]] you
+appeared in this [[Garden|garden]]."
+
 The man with the meek blue eyes and the pale, pointed beard
 endured these thunders with a certain submissive solemnity.
 The third party of the group, Gregory's sister Rosamond,
@@ -23,13 +30,13 @@ and disapproval as she gave commonly to the family oracle.
 
 Gregory resumed in high oratorical good [[Humour|humour]].
 
-"An [[Artist|artist]] is identical with an anarchist," he cried.
-"You might transpose the words anywhere.  An anarchist is an [[Artist|artist]].
-The man who throws a bomb is an [[Artist|artist]], because he prefers
+"An [[artist]] is identical with an anarchist," he cried.
+"You might transpose the words anywhere.  An anarchist is an [[artist]].
+The man who throws a bomb is an [[artist]], because he prefers
 a great moment to everything.  He sees how much more valuable
 is one burst of blazing light, one peal of perfect thunder,
 than the mere common bodies of a few shapeless policemen.
-An [[Artist|artist]] disregards all governments, abolishes all conventions.
+An [[artist]] disregards all governments, abolishes all conventions.
 The poet delights in disorder only.  If it were not so, the most
 poetical thing in the world would be the Underground Railway."
 
@@ -144,8 +151,3 @@ do you mean what you say?  No. It is true, but you don't mean it.
 Now, sometimes a man like your brother really finds a thing he does mean.
 It may be only a half-[[Truth|truth]], quarter-[[Truth|truth]], tenth-[[Truth|truth]]; but then
 he says more than he means--from sheer force of meaning it."
-
-She was looking at him from under level brows; her face was [[Grave|grave]]
-and open, and there had fallen upon it the [[Shadow|shadow]] of that unreasoning
-responsibility which is at the [[Bottom|bottom]] of the most frivolous woman,
-the maternal watch which is as old as the world.

@@ -14,6 +14,182 @@ tags:
 </nav>
 
 
+      “Avast there!” interrupted Legs, looking very serious, “avast
+
+      there a bit, I say, and tell us who the devil ye all are, and
+
+      what business ye have here, rigged off like the foul fiends, and
+
+      swilling the snug blue ruin stowed away for the [[Winter|winter]] by my
+
+      honest shipmate, Will Wimble, the undertaker!”
+
+
+
+      At this unpardonable piece of ill-breeding, all the original
+
+      company half started to their feet, and uttered the same rapid
+
+      succession of wild fiendish shrieks which had before caught the
+
+      attention of the seamen. The president, however, was the first to
+
+      recover his composure, and at length, turning to Legs with great
+
+      dignity, recommenced:
+
+
+
+      “Most willingly will we gratify any reasonable curiosity on the
+
+      part of guests so illustrious, unbidden though they be. Know then
+
+      that in these dominions I am monarch, and here rule with
+
+      undivided empire under the title of ‘[[King]] Pest the First.’
+
+
+
+      “This apartment, which you no [[Doubt|doubt]] profanely suppose to be the
+
+      shop of Will Wimble the undertaker—a man whom we know not, and
+
+      whose plebeian appellation has never before this [[Night|night]] thwarted
+
+      our royal ears—this apartment, I say, is the Dais-Chamber of our
+
+      Palace, devoted to the councils of our kingdom, and to other
+
+      sacred and lofty purposes.
+
+
+
+      “The noble lady who sits opposite is [[Queen]] Pest, our Serene
+
+      Consort. The other exalted personages whom you behold are all of
+
+      our family, and wear the insignia of the [[Blood|blood]] royal under the
+
+      respective titles of ‘His Grace the Arch Duke Pest-Iferous’—‘His
+
+      Grace the Duke Pest-Ilential’—‘His Grace the Duke Tem-Pest’—and
+
+      ‘Her Serene Highness the Arch Duchess Ana-Pest.’
+
+
+
+      “As regards,” continued he, “your demand of the business upon
+
+      which we sit here in council, we might be pardoned for replying
+
+      that it concerns, and concerns [[Alone|alone]], our own private and regal
+
+      interest, and is in no manner important to any other than
+
+      ourself. But in consideration of those rights to which as guests
+
+      and strangers you may feel yourselves entitled, we will
+
+      furthermore explain that we are here this [[Night|night]], prepared by deep
+
+      research and accurate investigation, to examine, analyze, and
+
+      thoroughly determine the indefinable spirit—the incomprehensible
+
+      qualities and [[Nature|nature]]—of those inestimable treasures of the
+
+      palate, the wines, ales, and liqueurs of this goodly metropolis:
+
+      by so doing to advance not more our own designs than the true
+
+      welfare of that unearthly sovereign whose reign is over us all,
+
+      whose dominions are unlimited, and whose name is ‘[[Death]]’.”
+
+
+
+      “Whose name is Davy [[Jones]]!” ejaculated Tarpaulin, helping the
+
+      lady by his side to a skull of liqueur, and pouring out a second
+
+      for himself.
+
+
+
+      “Profane varlet!” said the president, now turning his attention
+
+      to the worthy Hugh, “profane and execrable wretch!—we have said,
+
+      that in consideration of those rights which, even in thy filthy
+
+      person, we feel no inclination to violate, we have condescended
+
+      to make reply to thy rude and unseasonable inquiries. We
+
+      nevertheless, for your unhallowed intrusion upon our councils,
+
+      believe it our duty to mulct thee and thy companion in each a
+
+      gallon of Black Strap—having imbibed which to the prosperity of
+
+      our kingdom—at a single draught—and upon your bended knees—ye
+
+      shall be forthwith free either to proceed upon your way, or
+
+      remain and be admitted to the privileges of our table, according
+
+      to your respective and individual pleasures.”
+
+
+
+      “It would be a matter of utter impossibility,” replied Legs, whom
+
+      the assumptions and dignity of [[King]] Pest the First had evidently
+
+      inspired some feelings of respect, and who arose and steadied
+
+      himself by the table as he spoke—“it would, please your majesty,
+
+      be a matter of utter impossibility to stow away in my hold even
+
+      one-fourth part of the same liquor which your majesty has just
+
+      mentioned. To say nothing of the stuffs placed on board in the
+
+      forenoon by way of ballast, and not to mention the various ales
+
+      and liqueurs shipped this evening at different sea-ports, I have,
+
+      at present, a full cargo of ‘humming-stuff’ taken in and duly
+
+      paid for at the sign of the ‘Jolly Tar.’ You will, therefore,
+
+      please your majesty, be so good as to take the will for the
+
+      deed—for by no manner of means either can I or will I [[Swallow|swallow]]
+
+      another drop—least of all a drop of that villainous bilge-[[Water|water]]
+
+      that answers to the name of ‘Black Strap.’”
+
+
+
+      “Belay that!” interrupted Tarpaulin, astonished not more at the
+
+      length of his companion’s speech than at the [[Nature|nature]] of his
+
+      refusal—“Belay that you lubber!—and I say, Legs, none of your
+
+      palaver! _My_ hull is still light, although I confess you
+
+      yourself seem to be a little top-heavy; and as for the matter of
+
+      your share of the cargo, why rather than raise a squall I would
+
+      find stowage-room for it myself, but—”
+
+
+
       “This proceeding,” interposed the president, “is by no means in
 
       accordance with the terms of the mulct or sentence, which is in
@@ -35,219 +211,3 @@ tags:
       glorious decree!—a most worthy and upright, and holy
 
       condemnation!” shouted the Pest family altogether. The [[King|king]]
-
-      elevated his forehead into innumerable wrinkles; the gouty little
-
-      old man puffed like a pair of bellows; the lady of the winding
-
-      sheet waved her nose to and fro; the gentleman in the cotton
-
-      drawers pricked up his ears; she of the shroud gasped like a
-
-      dying fish; and he of the coffin looked stiff and rolled up his
-
-      eyes.
-
-
-
-      “Ugh! ugh! ugh!” chuckled Tarpaulin without heeding the general
-
-      excitation, “ugh! ugh! ugh!—ugh! ugh! ugh!—ugh! ugh! ugh!—I was
-
-      saying,” said he, “I was saying when Mr. [[King]] Pest poked in his
-
-      marlin-spike, that as for the matter of two or three gallons more
-
-      or less of Black Strap, it was a trifle to a tight sea-boat like
-
-      myself not overstowed—but when it comes to drinking the health of
-
-      the Devil (whom God assoilzie) and going down upon my marrow
-
-      bones to his ill-favored majesty there, whom I know, as [[Well|well]] as I
-
-      know myself to be a sinner, to be nobody in the whole world, but
-
-      Tim Hurlygurly the stage-player!—why! it’s quite another guess
-
-      sort of a thing, and utterly and altogether past my
-
-      comprehension.”
-
-
-
-      He was not allowed to finish this speech in tranquillity. At the
-
-      name Tim Hurlygurly the whole assembly leaped from their name
-
-      seats.
-
-
-
-      “Treason!” shouted his Majesty [[King]] Pest the First.
-
-
-
-      “Treason!” said the little man with the gout.
-
-
-
-      “Treason!” screamed the Arch Duchess Ana-Pest.
-
-
-
-      “Treason!” muttered the gentleman with his jaws tied up.
-
-
-
-      “Treason!” growled he of the coffin.
-
-
-
-      “Treason! treason!” shrieked her majesty of the mouth; and,
-
-      seizing by the hinder part of his breeches the unfortunate
-
-      Tarpaulin, who had just commenced pouring out for himself a skull
-
-      of liqueur, she lifted him high into the air, and let him fall
-
-      without ceremony into the huge open puncheon of his beloved ale.
-
-      Bobbing up and down, for a few seconds, like an apple in a bowl
-
-      of toddy, he, at length, finally disappeared amid the whirlpool
-
-      of foam which, in the already effervescent liquor, his struggles
-
-      easily succeeded in creating.
-
-
-
-      Not tamely, however, did the tall seaman behold the discomfiture
-
-      of his companion. Jostling [[King]] Pest through the open trap, the
-
-      valiant Legs slammed the door down upon him with an oath, and
-
-      strode towards the centre of the room. Here tearing down the
-
-      [[skeleton]] which swung over the table, he laid it about him with so
-
-      much energy and good will, that, as the last glimpses of light
-
-      died away within the apartment, he succeeded in knocking out the
-
-      brains of the little gentleman with the gout. Rushing then with
-
-      all his force against the fatal hogshead full of October ale and
-
-      Hugh Tarpaulin, he rolled it over and over in an instant. Out
-
-      burst a [[deluge]] of liquor so fierce—so impetuous—so
-
-      overwhelming—that the room was flooded from wall to wall—the
-
-      loaded table was overturned—the tressels were thrown upon their
-
-      backs—the tub of punch into the [[Fire|fire]]-place—and the ladies into
-
-      hysterics. Piles of [[Death|death]]-furniture floundered about. Jugs,
-
-      pitchers, and carboys mingled promiscuously in the _mêlée_, and
-
-      wicker flagons encountered desperately with bottles of junk. The
-
-      man with the horrors was drowned upon the spot—the little stiff
-
-      gentleman floated off in his coffin—and the victorious Legs,
-
-      seizing by the waist the fat lady in the shroud, rushed out with
-
-      her into the street, and made a bee-line for the _Free and Easy_,
-
-      followed under easy sail by the redoubtable Hugh Tarpaulin, who,
-
-      having sneezed three or four times, panted and puffed after him
-
-      with the Arch Duchess Ana-Pest.
-
-
-
-
-
-
-
-
-
-THREE SUNDAYS IN A WEEK
-
-
-
-
-
-      “You hard-headed, dunder-headed, obstinate, rusty, crusty, musty,
-
-      fusty, old savage!” said I, in fancy, one afternoon, to my grand
-
-      uncle Rumgudgeon—shaking my fist at him in [[Imagination|imagination]].
-
-
-
-      Only in [[Imagination|imagination]]. The fact is, some trivial discrepancy _did_
-
-      exist, just then, between what I said and what I had not the
-
-      [[Courage|courage]] to say—between what I did and what I had half a mind to
-
-      do.
-
-
-
-      The old porpoise, as I opened the drawing-room door, was sitting
-
-      with his feet upon the mantel-piece, and a bumper of port in his
-
-      paw, making strenuous efforts to accomplish the ditty.
-
-
-
-      Remplis ton verre vide!
-
-      Vide ton verre plein!
-
-
-
-      “My _dear_ uncle,” said I, closing the door gently, and
-
-      approaching him with the blandest of smiles, “you are always so
-
-      very kind and considerate, and have evinced your benevolence in
-
-      so many—so very many ways—that—that I feel I have only to suggest
-
-      this little point to you once more to make sure of your full
-
-      acquiescence.”
-
-
-
-      “Hem!” said he, “good boy! go on!”
-
-
-
-      “I am sure, my dearest uncle (you confounded old rascal!), that
-
-      you have no design really, seriously, to oppose my [[Union|union]] with
-
-      Kate. This is merely a joke of yours, I know—ha! ha! ha!—how very
-
-      pleasant you are at times.”
-
-
-
-      “Ha! ha! ha!” said he, “curse you! yes!”
-
-
-
-      “To be sure—of course! I knew you were jesting. Now, uncle, all

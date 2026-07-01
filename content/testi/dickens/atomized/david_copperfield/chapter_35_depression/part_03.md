@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 35: DEPRESSION (part 3)"
+title: "David Copperfield — Chapter 35: DEPRESSION (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_35_depression/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_35_depression/part_04">part 04 ›</a></div>
 </nav>
 
+
+As to [[Sleep|sleep]], I had [[Dreams|dreams]] of [[Poverty|poverty]] in all sorts of shapes, but I
+seemed to dream without the previous ceremony of going to [[Sleep|sleep]]. Now I
+was ragged, wanting to sell Dora matches, six bundles for a halfpenny;
+now I was at the office in a nightgown and boots, remonstrated with by
+Mr. Spenlow on appearing before the clients in that airy attire; now
+I was hungrily picking up the crumbs that fell from old Tiffey’s
+daily biscuit, regularly eaten when St. Paul’s struck one; now I was
+hopelessly endeavouring to get a licence to marry Dora, having nothing
+but one of [[Uriah Heep]]’s gloves to offer in exchange, which the whole
+Commons rejected; and still, more or less conscious of my own room, I
+was always tossing about like a distressed [[Ship|ship]] in a sea of bed-clothes.
 
 My aunt was restless, too, for I frequently heard her walking to and
 fro. Two or three times in the course of the [[Night|night]], attired in a long
@@ -113,26 +125,3 @@ he replied, ‘that I should do any man an injustice: still less, Mr.
 Jorkins. But I know my partner, Copperfield. Mr. Jorkins is not a man
 to respond to a proposition of this peculiar [[Nature|nature]]. Mr. Jorkins is very
 difficult to move from the beaten track. You know what he is!’
-
-I am sure I knew nothing about him, except that he had originally been
-[[Alone|alone]] in the business, and now lived by himself in a [[house]] near Montagu
-Square, which was fearfully in want of painting; that he came very
-late of a day, and went away very early; that he never appeared to be
-consulted about anything; and that he had a dingy little black-hole of
-his own upstairs, where no business was ever done, and where there was
-a yellow old cartridge-paper pad upon his desk, unsoiled by ink, and
-reported to be twenty years of age.
-
-‘Would you object to my mentioning it to him, sir?’ I asked.
-
-‘By no means,’ said Mr. Spenlow. ‘But I have some experience of Mr.
-Jorkins, Copperfield. I wish it were otherwise, for I should be happy
-to meet your views in any respect. I cannot have the objection to your
-mentioning it to Mr. Jorkins, Copperfield, if you think it worth while.’
-
-Availing myself of this permission, which was given with a warm shake
-of the hand, I sat thinking about Dora, and looking at the sunlight
-stealing from the chimney-pots down the wall of the opposite [[house]],
-until Mr. Jorkins came. I then went up to Mr. Jorkins’s room, and
-evidently astonished Mr. Jorkins very much by making my appearance
-there.

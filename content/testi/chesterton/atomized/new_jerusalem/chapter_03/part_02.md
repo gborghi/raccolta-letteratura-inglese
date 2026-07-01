@@ -107,20 +107,3 @@ with each other in this, when they differed about everything else.
 It was true of practically all of them that when they built a [[City|city]] they
 built a citadel.  That is, whatever strange thing they may have made,
 they regarded it as something to be defined and to be defended.
-
-And from this standpoint the holy [[City|city]] was a happy [[City|city]];
-it had no suburbs.  That is to say, there are all sorts
-of buildings outside the wall; but they are outside the wall.
-Everybody is conscious of being inside or outside a boundary; but it
-is the whole character of the true suburbs which grow round our great
-industrial towns that they grow, as it were, unconsciously and blindly,
-like grass that covers up a boundary line traced on the earth.
-This indefinite expansion is controlled neither by the [[Soul|soul]] of the [[City|city]]
-from within, nor by the resistance of the lands round about.  It destroys
-at once the dignity of a town and the [[Freedom|freedom]] of a countryside.
-The citizens are too new and numerous for citizenship; yet they
-never learn what there is to be learned of the ancient traditions
-of agriculture.  The first sight of the sharp outline of Jerusalem
-is like a [[Memory|memory]] of the older types of limitation and liberty.
-Happy is the [[City|city]] that has a wall; and happier still if it
-is a precipice.

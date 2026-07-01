@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 17: SEVENTEEN (part 2)"
+title: "Martin Chuzzlewit — Chapter 17: SEVENTEEN (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,21 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_17_seventeen/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_17_seventeen/part_03">part 03 ›</a></div>
 </nav>
 
+
+It would not have been very difficult for any one to see; but it was
+particularly easy for Martin, whose perceptions were sharpened by his
+circumstances, to discern; that the stranger’s face grew infinitely
+longer as the domestic-architecture project was developed. Nor, although
+he made a great effort to be as encouraging as possible, could he
+prevent his head from shaking once involuntarily, as if it said in the
+vulgar tongue, upon its own account, ‘No go!’ But he spoke in a cheerful
+tone, and said, that although there was no such opening as Martin
+wished, in that [[City|city]], he would make it matter of immediate consideration
+and inquiry where one was most likely to exist; and then he made Martin
+acquainted with his name, which was Bevan; and with his profession,
+which was physic, though he seldom or never practiced; and with other
+circumstances connected with himself and family, which fully occupied
+the [[Time|time]], until they reached the Rowdy Journal Office.
 
 Mr Tapley appeared to be taking his ease on the landing of the first
 floor; for sounds as of some gentleman established in that region
@@ -129,22 +144,3 @@ Then he come here. And now he’s a-saving up to treat himself, afore
 he dies, to one small purchase--it’s nothing to speak of. Only his own
 daughter; that’s all!’ cried Mr Tapley, becoming excited. ‘Liberty for
 ever! Hurrah! Hail, Columbia!’
-
-‘Hush!’ cried Martin, clapping his hand upon his mouth; ‘and don’t be an
-idiot. What is he doing here?’
-
-‘Waiting to take our luggage off upon a truck,’ said Mark. ‘He’d have
-come for it by-and-bye, but I engaged him for a very reasonable charge
-(out of my own pocket) to sit along with me and make me jolly; and I
-am jolly; and if I was rich enough to contract with him to wait upon me
-once a day, to be looked at, I’d never be anything else.’
-
-The fact may cause a solemn impeachment of Mark’s veracity, but it must
-be admitted nevertheless, that there was that in his face and manner at
-the moment, which militated strongly against this emphatic declaration
-of his state of mind.
-
-‘Lord [[Love|love]] you, sir,’ he added, ‘they’re so fond of Liberty in this part
-of the globe, that they buy her and sell her and carry her to market
-with ‘em. They’ve such a passion for Liberty, that they can’t help
-taking liberties with her. That’s what it’s owing to.’

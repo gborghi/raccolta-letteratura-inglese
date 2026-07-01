@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 47 (part 3)"
+title: "Barnaby Rudge — Chapter 47 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_47/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_48/part_01">part 01 ›</a></div>
 </nav>
 
+
+They waited for no further dismissal, but fled precipitately, leaving
+the gentleman to [[Storm|storm]] away by himself (for the poor lady had already
+retreated), and making a great many vain attempts to [[Silence|silence]] Grip, who,
+excited by the noise, drew corks enough for a [[City|city]] feast as they hurried
+down the avenue, and appeared to congratulate himself beyond measure on
+having been the cause of the disturbance. When they had nearly reached
+the lodge, another servant, emerging from the shrubbery, feigned to
+be very active in ordering them off, but this man put a [[Crown|crown]] into the
+widow’s hand, and whispering that his lady sent it, thrust them gently
+from the gate.
 
 This incident only suggested to the widow’s mind, when they halted at
 an alehouse some miles further on, and heard the justice’s character

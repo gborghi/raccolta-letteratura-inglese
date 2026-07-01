@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 9 (part 4)"
+title: "The Tenant of Wildfell Hall — Chapter 9 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -12,6 +12,28 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/the-tenant-of-wildfell-hall-(bronte)">The Tenant of Wildfell Hall</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_09/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_12/part_01">part 01 ›</a></div>
 </nav>
+
+
+mother too, if you included _her_ in your animadversions.”
+
+
+
+“I meant no animadversions against any one, and certainly intended no
+
+disrespectful allusions to your mother. I have known some sensible
+
+persons great adepts in that style of conversation when circumstances
+
+impelled them to it; but it is a gift I cannot boast the possession of.
+
+I kept up my attention on this occasion as long as I could, but when my
+
+powers were exhausted I stole away to seek a few minutes’ repose in
+
+this quiet walk. I hate talking where there is no exchange of ideas or
+
+sentiments, and no good given or received.”
+
 
 
 “[[Well]],” said I, “if ever I trouble you with my loquacity, tell me so at

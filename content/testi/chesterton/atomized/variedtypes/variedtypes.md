@@ -1,5 +1,5 @@
 ---
-title: "[[VariedTypes]]"
+title: "VariedTypes"
 author: "Chesterton"
 unitType: work
 parentWork: "works/variedtypes-(chesterton)"
@@ -491,9 +491,9 @@ the colossal calm of the Hellenic god, should himself, by a farcical
 
 bathos, be buried in a black coat, and hidden under a chimney-pot hat.
 
-He could not see why the harmless man who desired to be an [[Artist|artist]] in
+He could not see why the harmless man who desired to be an [[artist]] in
 
-raiment should be condemned to be, at best, a black and white [[Artist|artist]]. It
+raiment should be condemned to be, at best, a black and white [[artist]]. It
 
 is indeed difficult to account for the clinging curse of ugliness which
 
@@ -1645,7 +1645,7 @@ because men in such conditions of mind not only apply all virtues to
 
 their idol, but all virtues in equal quantities. There is no outline,
 
-because the [[Artist|artist]] cannot bear to put in a black line. This blaze of
+because the [[artist]] cannot bear to put in a black line. This blaze of
 
 benediction, this conflict between lights, has its place in poetry, not
 
@@ -2461,7 +2461,7 @@ Mr. Baildon, for example, is perpetually lecturing Stevenson for his
 
 "pessimism"; surely a strange charge against a man who has done more
 
-than any modern [[Artist|artist]] to make men ashamed of their shame of life. But
+than any modern [[artist]] to make men ashamed of their shame of life. But
 
 he complains that, in "The Master of Ballantrae" and "Dr. Jekyll and Mr.
 
@@ -3309,11 +3309,11 @@ ethical and [[ascetic]] side of [[tolstoy|Tolstoy]]'s work. In one sense, and th
 
 deepest sense, the work of [[tolstoy|Tolstoy]] is, of course, a genuine and noble
 
-appeal to simplicity. The narrow notion that an [[Artist|artist]] may not teach is
+appeal to simplicity. The narrow notion that an [[artist]] may not teach is
 
 pretty [[Well|well]] exploded by now. But the [[Truth|truth]] of the matter is, that an
 
-[[Artist|artist]] teaches far more by his mere background and properties, his
+[[artist]] teaches far more by his mere background and properties, his
 
 landscape, his costume, his idiom and technique--all the part of his
 
@@ -3361,7 +3361,7 @@ has vanished. We know not what to do with this small and noisy moralist
 
 who is inhabiting one corner of a great and good man.
 
-It is difficult in every case to reconcile [[tolstoy|Tolstoy]] the great [[Artist|artist]] with
+It is difficult in every case to reconcile [[tolstoy|Tolstoy]] the great [[artist]] with
 
 [[tolstoy|Tolstoy]] the almost venomous reformer. It is difficult to believe that a
 
@@ -3855,7 +3855,7 @@ it is, that he invents a centaur, only when he can no longer be
 
 surprised at an ox, that he worships the devil. Diablerie is the
 
-stimulant of the jaded fancy; it is the dram-drinking of the [[Artist|artist]].
+stimulant of the jaded fancy; it is the dram-drinking of the [[artist]].
 
 Savonarola addressed himself to the hardest of all earthly tasks, that
 
@@ -3863,13 +3863,13 @@ of making men turn back and [[Wonder|wonder]] at the simplicities they had learn
 
 to ignore. It is strange that the most unpopular of all doctrines is the
 
-doctrine which declares the common life divine. [[Democracy]], of which
+doctrine which declares the common life divine. [[democracy|Democracy]], of which
 
 Savonarola was so fiery an exponent, is the hardest of gospels; there is
 
 nothing that so terrifies men as the decree that they are all kings.
 
-[[Christianity]], in Savonarola's mind, identical with [[Democracy|democracy]], is the
+[[Christianity]], in Savonarola's mind, identical with [[democracy]], is the
 
 hardest of gospels; there is nothing that so strikes men with [[Fear|fear]] as
 
@@ -4137,7 +4137,7 @@ quality which is often possessed by those nocturnal comedies--that of
 
 seeming more human than our waking life--even while they are less
 
-possible. Sir [[arthur|Arthur]] Wardour, with his daughter and the old beggar
+possible. Sir [[Arthur]] Wardour, with his daughter and the old beggar
 
 crouching in a cranny of the cliff as [[Night|night]] falls and the tide closes
 
@@ -4283,7 +4283,7 @@ There is one quality which is supreme and continuous in Scott which is
 
 little appreciated at present. One of the values we have really lost in
 
-recent fiction is the value of eloquence. The modern literary [[Artist|artist]] is
+recent fiction is the value of eloquence. The modern literary [[artist]] is
 
 compounded of almost every man except the orator. Yet Shakespeare and
 
@@ -4481,7 +4481,7 @@ motive or ideal behind it, and generally a much better one than we
 
 think.
 
-Of the faults of Scott as an [[Artist|artist]] it is not very necessary to speak,
+Of the faults of Scott as an [[artist]] it is not very necessary to speak,
 
 for faults are generally and easily pointed out, while there is yet no
 
@@ -5855,7 +5855,7 @@ a good washerwoman. Herein lay her unexampled triumph, the greatest and
 
 perhaps the last triumph of monarchy. Monarchy in its healthiest days
 
-had the same basis as [[Democracy|democracy]]: the belief in human [[Nature|nature]] when
+had the same basis as [[democracy]]: the belief in human [[Nature|nature]] when
 
 entrusted with power. A [[King|king]] was only the first citizen who received the
 
@@ -6571,7 +6571,7 @@ hatred in its heart for ancient and essentially human institutions. It
 
 had that deeply conservative belief in the most ancient of institutions,
 
-the average man, which goes by the name of [[Democracy|democracy]]. It had none of
+the average man, which goes by the name of [[democracy]]. It had none of
 
 the spirit of modern Imperialism which is kicking a man because he is
 

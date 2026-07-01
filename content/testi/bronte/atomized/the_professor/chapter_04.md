@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 3"
+title: "The Professor — Chapter 3"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-professor-(bronte)"
@@ -15,8 +15,6 @@ tags:
 
 
 CHAPTER III.
-
-
 
 I SERVED Edward as his second clerk faithfully, punctually, diligently.
 
@@ -94,8 +92,6 @@ on a statue, but he did not throw away the shafts--he only kept them
 
 quiet in his quiver.
 
-
-
 Once during my clerkship I had an invitation to Crimsworth Hall; it
 
 was on the occasion of a large party given in [[Honour|honour]] of the master’s
@@ -129,8 +125,6 @@ a group of very pretty girls, with whom he conversed gaily--Mr.
 Crimsworth, thus placed, glanced at me; I looked weary, solitary, kept
 
 down like some desolate tutor or governess; he was satisfied.
-
-
 
 Dancing began; I should have liked [[Well|well]] enough to be introduced to some
 
@@ -172,11 +166,7 @@ interesting, would strike an impartial spectator, when a voice close
 
 behind me pronounced the words--
 
-
-
 “Humph! there’s some sense in that face.”
-
-
 
 I turned; at my elbow stood a tall man, young, though probably five or
 
@@ -198,8 +188,6 @@ and general in character (the last excepted), sufficed, for they enabled
 
 me to recognize him.
 
-
-
 “Good evening, Mr. Hunsden,” muttered I with a bow, and then, like a
 
 shy noodle as I was, I began moving away--and why? Simply because Mr.
@@ -220,15 +208,11 @@ that he could only regard me as a poor-spirited slave, wherefore I now
 
 went about to shun his presence and eschew his conversation.
 
-
-
 “Where are you going?” asked he, as I edged off sideways. I had already
 
 noticed that Mr. Hunsden indulged in abrupt forms of speech, and I
 
 perversely said to myself--
-
-
 
 “He thinks he may speak as he likes to a poor clerk; but my mood is not,
 
@@ -236,19 +220,13 @@ perhaps, so supple as he deems it, and his rough [[Freedom|freedom]] pleases me 
 
 at all.”
 
-
-
 I made some slight reply, rather indifferent than courteous, and
 
 continued to move away. He coolly planted himself in my path.
 
-
-
 “Stay here awhile,” said he: “it is so hot in the dancing-room; besides,
 
 you don’t [[Dance|dance]]; you have not had a partner to-[[Night|night]].”
-
-
 
 He was right, and as he spoke neither his look, tone, nor manner
 
@@ -262,15 +240,9 @@ of temporary amusement. I hate to be condescended to, but I like [[Well|well]]
 
 enough to oblige; I stayed.
 
-
-
 “That is a good picture,” he continued, recurring to the portrait.
 
-
-
 “Do you consider the face pretty?” I asked.
-
-
 
 “Pretty! no--how can it be pretty, with sunk eyes and hollow cheeks?
 
@@ -280,11 +252,7 @@ woman, if she were alive, on other subjects than dress, visiting, and
 
 compliments.”
 
-
-
 I agreed with him, but did not say so. He went on.
-
-
 
 “Not that I admire a head of that sort; it wants character and force;
 
@@ -294,13 +262,9 @@ his lip at the same [[Time|time]]) in that mouth; besides, there is [[aristocrat
 
 written on the brow and defined in the figure; I hate your aristocrats.”
 
-
-
 “You think, then, Mr. Hunsden, that patrician descent may be read in a
 
 distinctive cast of form and features?”
-
-
 
 “Patrician descent be hanged! Who doubts that your lordlings may have
 
@@ -318,13 +282,9 @@ Yet even this superiority is doubtful. Compare the figure in that frame
 
 with Mrs. [[Edward Crimsworth]]--which is the finer animal?”
 
-
-
 I replied quietly: “Compare yourself and Mr. [[Edward Crimsworth]], Mr
 
 Hunsden.”
-
-
 
 “Oh, Crimsworth is better filled up than I am, I know besides he has a
 
@@ -342,15 +302,11 @@ the [[aristocrat]] of your family, and you are not as fine a fellow as your
 
 plebeian brother by long [[chalk]].”
 
-
-
 There was something in Mr. Hunsden’s point-blank mode of speech which
 
 rather pleased me than otherwise because it set me at my ease. I
 
 continued the conversation with a degree of interest.
-
-
 
 “How do you happen to know that I am Mr. Crimsworth’s brother? I thought
 
@@ -358,13 +314,9 @@ you and everybody else looked upon me only in the light of a poor
 
 clerk.”
 
-
-
 “[[Well]], and so we do; and what are you but a poor clerk? You do
 
 Crimsworth’s work, and he gives you wages--shabby wages they are, too.”
-
-
 
 I was silent. Hunsden’s language now bordered on the impertinent, still
 
@@ -372,45 +324,27 @@ his manner did not offend me in the least--it only piqued my curiosity;
 
 I wanted him to go on, which he did in a little while.
 
-
-
 “This world is an absurd one,” said he.
 
-
-
 “Why so, Mr. Hunsden?”
-
-
 
 “I [[Wonder|wonder]] you should ask: you are yourself a strong proof of the
 
 absurdity I allude to.”
 
-
-
 I was determined he should explain himself of his own accord, without my
 
 pressing him so to do--so I resumed my [[Silence|silence]].
 
-
-
 “Is it your intention to become a tradesman?” he inquired presently.
 
-
-
 “It was my serious intention three months ago.”
-
-
 
 “Humph! the more [[Fool|fool]] you--you look like a tradesman! What a practical
 
 business-like face you have!”
 
-
-
 “My face is as the Lord made it, Mr. Hunsden.”
-
-
 
 “The Lord never made either your face or head for X---- What good can
 
@@ -420,11 +354,7 @@ do you here? But if you like Bigben Close, stay there; it’s your own
 
 affair, not mine.”
 
-
-
 “Perhaps I have no choice.”
-
-
 
 “[[Well]], I care nought about it--it will make little difference to me what
 
@@ -435,8 +365,6 @@ I see such a fine girl sitting in the corner of the sofa there by
 her mamma; see if I don’t get her for a partner in a jiffy! There’s
 
 Waddy--Sam Waddy making up to her; won’t I cut him out?”
-
-
 
 And Mr. Hunsden strode away. I watched him through the open
 

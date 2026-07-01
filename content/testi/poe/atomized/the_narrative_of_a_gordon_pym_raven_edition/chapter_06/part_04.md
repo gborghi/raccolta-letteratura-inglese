@@ -14,6 +14,18 @@ tags:
 </nav>
 
 
+      west, which at [[Noon|noon]] freshened into a gale, so that the brig could
+
+      carry nothing more than her trysail and foresail. In taking in
+
+      the foretopsail, Simms, one of the common hands, and belonging
+
+      also to the cook’s gang, fell overboard, being very much in
+
+      liquor, and was drowned—no attempt being made to save him. The
+
+      whole number of persons on board was now thirteen, to wit: Dirk
+
       Peters; Seymour, the black cook; [[Jones]], Greely, Hartman Rogers
 
       and William Allen, all of the cook’s party; the mate, whose name

@@ -14,109 +14,108 @@ tags:
 </nav>
 
 
-Now, this spirit that denies and that destroys had at one
-period of [[history]] a dreadful epoch of military superiority.
-They did burn York Minster, or at least, places of the same kind.
-Roughly speaking, from the seventh century to the tenth, a dense tide
-of darkness, of chaos and brainless cruelty, poured on these islands
-and on the western coasts of the Continent, which [[Well|well]]-nigh cut them
-off from all the white man's culture for ever.  And this is the final
-human test; that the varied chiefs of that vague age were remembered
-or forgotten according to how they had resisted this almost cosmic raid.
-Nobody thought of the modern nonsense about races; everybody thought
-of the human race and its highest achievements.  [[Arthur]] was a Celt,
-and may have been a fabulous Celt; but he was a [[Fable|fable]] on the right side.
-Charlemagne may have been a Gaul or a Goth, but he was not a barbarian;
-he fought for the tradition against the barbarians, the nihilists.
-And for this reason also, for this reason, in the last resort, only,
-we call the saddest and in some ways the least successful of the Wessex
-kings by the title of Alfred the Great.  Alfred was defeated
-by the barbarians again and again, he defeated the barbarians again
-and again; but his victories were almost as vain as his defeats.
-Fortunately he did not believe in the [[Time]] Spirit or the Trend of
-Things or any such modern rubbish, and therefore kept pegging away.
-But while his failures and his fruitless successes have names still in use
-(such as Wilton, Basing, and Ashdown), that last [[Epic|epic]] battle which really
-broke the barbarian has remained without a modern place or name.
-Except that it was near Chippenham, where the Danes gave up their
-swords and were baptised, no one can pick out certainly the place
-where you and I were saved from being savages for ever.
+* * * * *
 
-But the other day under a wild sunset and moonrise I passed the place
-which is best reputed as Ethandune, a high, grim upland, partly bare
-and partly shaggy; like that savage and sacred spot in those great
-imaginative lines about the demon [[Lover|lover]] and the waning [[Moon|moon]].
-The darkness, the red wreck of sunset, the yellow and lurid [[Moon|moon]],
-the long fantastic shadows, actually created that sense of
-monstrous incident which is the dramatic side of landscape.
-The bare grey slopes seemed to rush downhill like routed hosts;
-the dark clouds drove across like riven banners; and the [[Moon|moon]] was
-like a golden dragon, like the Golden Dragon of Wessex.
+For a sufficient number of reasons, the man I know went up to vote
+in Battersea in a drifting and even dubious frame of mind.
+As the train slid through swampy woods and sullen skies there came
+into his empty mind those idle and yet awful questions which come when
+the mind is empty.  Fools make cosmic systems out of them; knaves make
+profane [[Poems|poems]] out of them; men try to crush them like an ugly lust.
+Religion is only the responsible reinforcement of common [[Courage|courage]]
+and common sense.  Religion only sets up the normal mood of health
+against the hundred moods of disease.
 
-As we crossed a tilt of the torn heath I saw suddenly between
-myself and the [[Moon|moon]] a black shapeless pile higher than a [[house]].
-The atmosphere was so intense that I really thought of a pile
-of dead Danes, with some [[Phantom|phantom]] conqueror on the top of it.
-Fortunately I was crossing these wastes with a friend who knew
-more [[history]] than I; and he told me that this was a barrow older
-than Alfred, older than the Romans, older perhaps than the Britons;
-and no man knew whether it was a wall or a trophy or a tomb.
-Ethandune is still a drifting name; but it gave me a queer emotion
-to think that, [[Sword|sword]] in hand, as the Danes poured with the torrents
-of their [[Blood|blood]] down to Chippenham, the great [[King|king]] may have lifted up
-his head and looked at that oppressive shape, suggestive of something
-and yet suggestive of nothing; may have looked at it as we did,
-and understood it as little as we.
+But there is this about such ghastly empty enigmas, that they always
+have an answer to the obvious answer, the reply offered by daily reason.
+Suppose a man's children have gone swimming; suppose he is
+suddenly throttled by the senseless [[Fear|fear]] that they are drowned.
+The obvious answer is, "Only one man in a thousand has his
+children drowned."  But a deeper voice (deeper, being as deep
+as hell) answers, "And why should not you be the thousandth man?"
+What is true of tragic [[Doubt|doubt]] is true also of trivial [[Doubt|doubt]].
+The voter's guardian devil said to him, "If you don't vote
+to-day you can do fifteen things which will quite certainly do
+some good somewhere, please a friend, please a [[Child|child]], please a
+maddened publisher.  And what good do you expect to do by voting?
+You don't think your man will get in by one vote, do you?"
+To this he knew the answer of common sense, "But if everybody
+said that, nobody would get in at all."  And then there came
+that deeper voice from Hades, "But you are not settling what
+everybody shall do, but what one person on one occasion shall do.
+If this afternoon you went your way about more solid things,
+how would it matter and who would ever know?"  Yet somehow the voter
+drove on blindly through the blackening [[London]] roads, and found
+somewhere a tedious polling station and recorded his tiny vote.
+
+The politician for whom the voter had voted got in by five hundred
+and fifty-five votes.  The voter read this next morning at breakfast,
+being in a more cheery and expansive mood, and found something
+very fascinating not merely in the fact of the majority, but even
+in the form of it.  There was something symbolic about the three
+exact figures; one felt it might be a sort of motto or cipher.
+In the great book of seals and cloudy symbols there is just such
+a thundering repetition.  Six hundred and sixty-six was the Mark
+of the Beast.  Five hundred and fifty-five is the Mark of the Man;
+the triumphant tribune and citizen.  A number so symmetrical as that
+really rises out of the region of science into the region of art.
+It is a pattern, like the egg-and-dart ornament or the Greek key.
+One might edge a wall-paper or fringe a robe with a recurring decimal.
+And while the voter luxuriated in this light exactitude of the numbers,
+a thought crossed his mind and he almost leapt to his feet.
+"Why, good heavens!" he cried.  "I won that election; and it was
+won by one vote!  But for me it would have been the despicable,
+broken-backed, disjointed, inharmonious figure five hundred
+and fifty-four. The whole artistic point would have vanished.
+The Mark of the Man would have disappeared from [[history]].  It was I
+who with a masterful hand seized the chisel and carved the hieroglyph--
+complete and perfect.  I clutched the trembling hand of Destiny when it
+was about to make a dull square four and forced it to make a nice
+curly five.  Why, but for me the Cosmos would have lost a coincidence!"
+After this outburst the voter sat down and finished his breakfast.
 
 -/-
 
-The Flat Freak
+Ethandune
 
-SOME [[Time|time]] ago a Sub-Tropical Dinner was given by some
-South African millionaire.  I forget his name; and so, very likely,
-does he.  The [[Humour|humour]] of this was so subtle and haunting that it has
-been imitated by another millionaire, who has given a North Pole Dinner
-in a grand hotel, on which he managed to spend gigantic sums of money.
-I do not know how he did it; perhaps they had silver for [[Snow|snow]]
-and great sapphires for lumps of ice.  Anyhow, it seems to have
-cost rather more to bring the Pole to [[London]] than to take Peary
-to the Pole.  All this, one would say, does not concern us.
-We do not want to go to the Pole--or to the hotel.  I, for one,
-cannot imagine which would be the more dreary and disgusting--
-the real North Pole or the sham one.  But as a mere matter of psychology
-(that merry pastime) there is a question that is not unentertaining.
+PERHAPS you do not know where Ethandune is.  Nor do I; nor does anybody.
+That is where the somewhat sombre fun begins.  I cannot even tell you
+for certain whether it is the name of a forest or a town or a [[Hill|hill]].
+I can only say that in any case it is of the kind that floats
+and is unfixed.  If it is a forest, it is one of those forests
+that march with a million legs, like the walking trees that were
+the doom of [[Macbeth]].  If it is a town, it is one of those towns
+that vanish, like a [[City|city]] of tents.  If it is a [[Hill|hill]], it is
+a flying [[Hill|hill]], like the mountain to which [[Faith|faith]] lends wings.
+Over a vast dim region of England this dark name of Ethandune floats
+like an eagle doubtful where to swoop and strike, and, indeed,
+there were [[Birds|birds]] of prey enough over Ethandune, wherever it was.
+But now Ethandune itself has grown as dark and drifting as the black
+drifts of the [[Birds|birds]].
 
-Why is it that all this scheme of ice and [[Snow|snow]] [[Leaves|leaves]] us cold?
-Why is it that you and I feel that we would (on the whole)
-rather spend the evening with two or three stable boys in a pot-[[house]]
-than take part in that pallid and Arctic joke?  Why does the modern
-millionaire's jest bore a man to [[Death|death]] with the mere thought of it?
-That it does bore a man to [[Death|death]] I take for granted, and shall do
-so until somebody writes to me in cold ink and tells me that he really
-thinks it funny.
-
-* * * * *
-
-Now, it is not a sufficient explanation to say that the joke
-is silly.  All jokes are silly; that is what they are for.
-If you ask some sincere and elemental person, a woman, for instance,
-what she thinks of a good sentence from Dickens, she will say
-that it is "too silly."  When Mr. Weller, senior, assured
-Mr. Weller, junior, that "circumvented" was "a more tenderer word"
-than "circumscribed," the remark was at least as silly as it
-was [[Sublime|sublime]].  It is vain, then, to object to "senseless jokes."
-The very definition of a joke is that it need have no sense; except that
-one wild and [[Supernatural|supernatural]] sense which we call the sense of [[Humour|humour]].
-[[Humour]] is meant, in a literal sense, to make game of man; that is,
-to dethrone him from his official dignity and hunt him like game.
-It is meant to remind us human beings that we have things about us
-as ungainly and ludicrous as the nose of the elephant or the neck
-of the giraffe.  If laughter does not touch a sort of fundamental folly,
-it does not do its duty in bringing us back to an enormous
-and original simplicity.  Nothing has been worse than the modern
-notion that a clever man can make a joke without taking part in it;
-without sharing in the general absurdity that such a situation creates.
-It is unpardonable conceit not to laugh at your own jokes.
-Joking is undignified; that is why it is so good for one's [[Soul|soul]].
-Do not fancy you can be a detached wit and avoid being a buffoon;
-you cannot.  If you are the [[Court]] Jester you must be the [[Court]] [[Fool]].
+And yet without this word that you cannot fit with a meaning
+and hardly with a [[Memory|memory]], you would be sitting in a very different
+chair at this moment and looking at a very different tablecloth.
+As a practical modern phrase I do not commend it; if my private
+critics and correspondents in whom I delight should happen to
+address me "G. K. Chesterton, Poste Restante, Ethandune," I [[Fear|fear]]
+their letters would not come to hand.  If two hurried commercial
+travellers should agree to discuss a business matter at Ethandune
+from 5 to 5.15, I am afraid they would grow old in the district
+as white-haired wanderers.  To put it plainly, Ethandune is anywhere
+and nowhere in the western hills; it is an English mirage.
+And yet but for this doubtful thing you would have probably
+no _Daily News_ on Saturday and certainly no church on [[Sunday]].
+I do not say that either of these two things is a benefit;
+but I do say that they are customs, and that you would not possess
+them except through this mystery.  You would not have Christmas
+puddings, nor (probably) any puddings; you would not have Easter eggs,
+probably not poached eggs, I strongly suspect not scrambled eggs,
+and the best historians are decidedly doubtful about curried eggs.
+To cut a long story short (the longest of all stories), you would
+not have any civilisation, far less any Christian civilisation.
+And if in some moment of gentle curiosity you wish to know why you
+are the polished sparkling, rounded, and wholly satisfactory citizen
+which you obviously are, then I can give you no more definite answer
+geographical or historical; but only toll in your ears the tone
+of the uncaptured name--Ethandune.

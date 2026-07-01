@@ -14,6 +14,36 @@ tags:
 </nav>
 
 
+      which I pored. Ligeia grew ill. The wild eyes blazed with a
+
+      too—too glorious effulgence; the pale fingers became of the
+
+      transparent waxen hue of the [[Grave|grave]]; and the blue veins upon the
+
+      lofty forehead swelled and sank impetuously with the tides of the
+
+      gentle emotion. I saw that she must die—and I struggled
+
+      desperately in spirit with the grim Azrael. And the struggles of
+
+      the passionate wife were, to my astonishment, even more energetic
+
+      than my own. There had been much in her stern [[Nature|nature]] to impress
+
+      me with the belief that, to her, [[Death|death]] would have come without
+
+      its terrors; but not so. Words are impotent to convey any just
+
+      idea of the fierceness of resistance with which she wrestled with
+
+      the [[Shadow]]. I groaned in anguish at the pitiable spectacle. I
+
+      would have soothed—I would have reasoned; but, in the intensity
+
+      of her wild [[Desire|desire]] for life,—for life—but for life—solace and
+
+      reason were the uttermost folly. Yet not until the last instance,
+
       amid the most convulsive writhings of her fierce spirit, was
 
       shaken the external placidity of her demeanor. Her voice grew
@@ -213,41 +243,3 @@ That the play is the [[Tragedy|tragedy]], “Man,”
       in some repair, an abbey, which I shall not name, in one of the
 
       wildest and least frequented portions of fair England. The gloomy
-
-      and dreary grandeur of the building, the almost savage aspect of
-
-      the domain, the many [[Melancholy|melancholy]] and [[Time|time]]-honored memories
-
-      connected with both, had much in unison with the feelings of
-
-      utter abandonment which had driven me into that remote and
-
-      unsocial region of the country. Yet although the external abbey,
-
-      with its verdant [[Decay|decay]] hanging about it, suffered but little
-
-      alteration, I gave way, with a [[Child|child]]-like perversity, and
-
-      perchance with a faint [[Hope|hope]] of alleviating my sorrows, to a
-
-      display of more than regal magnificence within. For such follies,
-
-      even in [[Childhood|childhood]], I had imbibed a taste and now they came back
-
-      to me as if in the dotage of grief. Alas, I feel how much even of
-
-      incipient [[Madness|madness]] might have been discovered in the gorgeous and
-
-      fantastic draperies, in the solemn carvings of [[Egypt]], in the wild
-
-      cornices and furniture, in the Bedlam patterns of the carpets of
-
-      tufted gold! I had become a bounden slave in the trammels of
-
-      opium, and my labors and my orders had taken a coloring from my
-
-      [[Dreams|dreams]]. But these absurdities I must not pause to detail. Let me
-
-      speak only of that one chamber, ever accursed, whither in a
-
-      moment of mental [[Alienation|alienation]], I led from the altar as my bride—as

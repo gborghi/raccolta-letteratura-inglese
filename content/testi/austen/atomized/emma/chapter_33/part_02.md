@@ -1,5 +1,5 @@
 ---
-title: "[[Emma]] — Chapter 14 (part 2)"
+title: "Emma — Chapter 15 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/emma-(austen)"
@@ -14,137 +14,112 @@ tags:
 </nav>
 
 
-[[Emma]] made as slight a reply as she could; but it was fully sufficient
-for Mrs. Elton, who only wanted to be talking herself.
+“Poor [[Jane Fairfax]]!”—thought [[Emma]].—“You have not deserved this. You may
+have done wrong with regard to Mr. Dixon, but this is a punishment
+beyond what you can have merited!—The kindness and protection of Mrs.
+Elton!—‘[[Jane Fairfax]] and [[Jane Fairfax]].’ Heavens! Let me not suppose
+that she dares go about, [[Emma Woodhouse]]-ing me!—But upon my [[Honour|honour]],
+there seems no limits to the licentiousness of that woman’s tongue!”
 
-“So extremely like Maple Grove! And it is not merely the [[house]]—the
-grounds, I assure you, as far as I could observe, are strikingly like.
-The laurels at Maple Grove are in the same profusion as here, and stand
-very much in the same way—just across the lawn; and I had a glimpse of
-a fine large tree, with a bench round it, which put me so exactly in
-mind! My brother and sister will be enchanted with this place. People
-who have extensive grounds themselves are always pleased with any thing
-in the same style.”
+[[Emma]] had not to listen to such paradings again—to any so exclusively
+addressed to herself—so disgustingly decorated with a “dear Miss
+Woodhouse.” The change on Mrs. Elton’s side soon afterwards appeared,
+and she was left in peace—neither forced to be the very particular
+friend of Mrs. Elton, nor, under Mrs. Elton’s guidance, the very active
+patroness of [[Jane Fairfax]], and only sharing with others in a general
+way, in knowing what was felt, what was meditated, what was done.
 
-[[Emma]] doubted the [[Truth|truth]] of this sentiment. She had a great idea that
-people who had extensive grounds themselves cared very little for the
-extensive grounds of any [[Body|body]] else; but it was not worth while to
-attack an error so [[Double|double]]-dyed, and therefore only said in reply,
+She looked on with some amusement.—[[Miss Bates]]’s gratitude for Mrs.
+Elton’s attentions to Jane was in the first style of guileless
+simplicity and warmth. She was quite one of her worthies—the most
+amiable, affable, delightful woman—just as accomplished and
+condescending as Mrs. Elton meant to be considered. [[Emma]]’s only
+surprize was that [[Jane Fairfax]] should accept those attentions and
+tolerate Mrs. Elton as she seemed to do. She heard of her walking with
+the Eltons, sitting with the Eltons, spending a day with the Eltons!
+This was astonishing!—She could not have believed it possible that the
+taste or the [[Pride|pride]] of Miss Fairfax could endure such society and
+[[Friendship|friendship]] as the Vicarage had to offer.
 
-“When you have seen more of this country, I am afraid you will think
-you have overrated Hartfield. Surry is full of beauties.”
+“She is a [[Riddle|riddle]], quite a [[Riddle|riddle]]!” said she.—“To chuse to remain here
+month after month, under privations of every sort! And now to chuse the
+mortification of Mrs. Elton’s notice and the penury of her
+conversation, rather than return to the superior companions who have
+always loved her with such real, generous affection.”
 
-“Oh! yes, I am quite aware of that. It is the [[Garden|garden]] of England, you
-know. Surry is the [[Garden|garden]] of England.”
+Jane had come to Highbury professedly for three months; the Campbells
+were gone to Ireland for three months; but now the Campbells had
+promised their daughter to stay at least till Midsummer, and fresh
+invitations had arrived for her to join them there. According to Miss
+Bates—it all came from her—Mrs. Dixon had written most pressingly.
+Would Jane but go, means were to be found, servants sent, friends
+contrived—no travelling difficulty allowed to exist; but still she had
+declined it!
 
-“Yes; but we must not rest our claims on that distinction. Many
-counties, I believe, are called the [[Garden|garden]] of England, as [[Well|well]] as
-Surry.”
+“She must have some motive, more powerful than appears, for refusing
+this invitation,” was [[Emma]]’s conclusion. “She must be under some sort
+of penance, inflicted either by the Campbells or herself. There is
+great [[Fear|fear]], great caution, great resolution somewhere.—She is _not_ to
+be with the _Dixons_. The decree is issued by somebody. But why must
+she consent to be with the Eltons?—Here is quite a separate puzzle.”
 
-“No, I fancy not,” replied Mrs. Elton, with a most satisfied smile. “I
-never heard any county but Surry called so.”
+Upon her speaking her [[Wonder|wonder]] aloud on that part of the subject, before
+the few who knew her opinion of Mrs. Elton, Mrs. Weston ventured this
+apology for Jane.
 
-[[Emma]] was silenced.
+“We cannot suppose that she has any great enjoyment at the Vicarage, my
+dear [[Emma]]—but it is better than being always at [[Home|home]]. Her aunt is a
+good creature, but, as a constant companion, must be very tiresome. We
+must consider what Miss Fairfax quits, before we condemn her taste for
+what she goes to.”
 
-“My brother and sister have promised us a visit in the [[spring]], or
-[[Summer|summer]] at farthest,” continued Mrs. Elton; “and that will be our [[Time|time]]
-for exploring. While they are with us, we shall explore a great deal, I
-dare say. They will have their barouche-landau, of course, which holds
-four perfectly; and therefore, without saying any thing of _our_
-carriage, we should be able to explore the different beauties extremely
-[[Well|well]]. They would hardly come in their chaise, I think, at that season
-of the year. Indeed, when the [[Time|time]] draws on, I shall decidedly
-recommend their bringing the barouche-landau; it will be so very much
-preferable. When people come into a beautiful country of this sort, you
-know, Miss Woodhouse, one naturally wishes them to see as much as
-possible; and Mr. Suckling is extremely fond of exploring. We explored
-to [[King]]’s-Weston twice last [[Summer|summer]], in that way, most delightfully,
-just after their first having the barouche-landau. You have many
-parties of that kind here, I suppose, Miss Woodhouse, every [[Summer|summer]]?”
+“You are right, Mrs. Weston,” said Mr. Knightley warmly, “Miss Fairfax
+is as capable as any of us of forming a just opinion of Mrs. Elton.
+Could she have chosen with whom to associate, she would not have chosen
+her. But (with a reproachful smile at [[Emma]]) she receives attentions
+from Mrs. Elton, which nobody else pays her.”
 
-“No; not immediately here. We are rather out of distance of the very
-striking beauties which attract the sort of parties you speak of; and
-we are a very quiet set of people, I believe; more disposed to stay at
-[[Home|home]] than engage in schemes of pleasure.”
+[[Emma]] felt that Mrs. Weston was giving her a momentary glance; and she
+was herself struck by his warmth. With a faint blush, she presently
+replied,
 
-“Ah! there is nothing like staying at [[Home|home]] for real comfort. Nobody can
-be more devoted to [[Home|home]] than I am. I was quite a proverb for it at
-Maple Grove. Many a [[Time|time]] has Selina said, when she has been going to
-Bristol, ‘I really cannot get this girl to move from the [[house]]. I
-absolutely must go in by myself, though I hate being stuck up in the
-barouche-landau without a companion; but Augusta, I believe, with her
-own good-will, would never stir beyond the park paling.’ Many a [[Time|time]]
-has she said so; and yet I am no advocate for entire seclusion. I
-think, on the contrary, when people shut themselves up entirely from
-society, it is a very bad thing; and that it is much more advisable to
-mix in the world in a proper degree, without living in it either too
-much or too little. I perfectly understand your situation, however,
-Miss Woodhouse—(looking towards Mr. Woodhouse), Your father’s state of
-health must be a great drawback. Why does not he try Bath?—Indeed he
-should. Let me recommend Bath to you. I assure you I have no [[Doubt|doubt]] of
-its doing Mr. Woodhouse good.”
+“Such attentions as Mrs. Elton’s, I should have imagined, would rather
+disgust than gratify Miss Fairfax. Mrs. Elton’s invitations I should
+have imagined any thing but inviting.”
 
-“My father tried it more than once, formerly; but without receiving any
-benefit; and Mr. Perry, whose name, I dare say, is not unknown to you,
-does not conceive it would be at all more likely to be useful now.”
+“I should not [[Wonder|wonder]],” said Mrs. Weston, “if Miss Fairfax were to have
+been drawn on beyond her own inclination, by her aunt’s eagerness in
+accepting Mrs. Elton’s civilities for her. Poor [[Miss Bates]] may very
+likely have committed her niece and hurried her into a greater
+appearance of intimacy than her own good sense would have dictated, in
+spite of the very natural wish of a little change.”
 
-“Ah! that’s a great pity; for I assure you, Miss Woodhouse, where the
-waters do agree, it is quite wonderful the relief they give. In my Bath
-life, I have seen such instances of it! And it is so cheerful a place,
-that it could not fail of being of use to Mr. Woodhouse’s spirits,
-which, I understand, are sometimes much depressed. And as to its
-recommendations to _you_, I fancy I need not take much pains to dwell
-on them. The advantages of Bath to the young are pretty generally
-understood. It would be a charming introduction for you, who have lived
-so secluded a life; and I could immediately secure you some of the best
-society in the place. A line from me would bring you a little host of
-acquaintance; and my particular friend, Mrs. Partridge, the lady I have
-always resided with when in Bath, would be most happy to shew you any
-attentions, and would be the very person for you to go into public
-with.”
+Both felt rather anxious to hear him speak again; and after a few
+minutes [[Silence|silence]], he said,
 
-It was as much as [[Emma]] could bear, without being impolite. The idea of
-her being indebted to Mrs. Elton for what was called an
-_introduction_—of her going into public under the auspices of a friend
-of Mrs. Elton’s—probably some vulgar, dashing widow, who, with the help
-of a boarder, just made a shift to live!—The dignity of Miss Woodhouse,
-of Hartfield, was sunk indeed!
+“Another thing must be taken into consideration too—Mrs. Elton does not
+talk _to_ Miss Fairfax as she speaks _of_ her. We all know the
+difference between the pronouns he or she and thou, the plainest spoken
+amongst us; we all feel the influence of a something beyond common
+civility in our personal intercourse with each other—a something more
+early implanted. We cannot give any [[Body|body]] the disagreeable hints that we
+may have been very full of the hour before. We feel things differently.
+And besides the operation of this, as a general principle, you may be
+sure that Miss Fairfax awes Mrs. Elton by her superiority both of mind
+and manner; and that, face to face, Mrs. Elton treats her with all the
+respect which she has a claim to. Such a woman as [[Jane Fairfax]] probably
+never fell in Mrs. Elton’s way before—and no degree of [[Vanity|vanity]] can
+prevent her acknowledging her own comparative littleness in action, if
+not in consciousness.”
 
-She restrained herself, however, from any of the reproofs she could
-have given, and only thanked Mrs. Elton coolly; “but their going to
-Bath was quite out of the question; and she was not perfectly convinced
-that the place might suit her better than her father.” And then, to
-prevent farther outrage and indignation, changed the subject directly.
+“I know how highly you think of [[Jane Fairfax]],” said [[Emma]]. Little Henry
+was in her thoughts, and a mixture of alarm and delicacy made her
+irresolute what else to say.
 
-“I do not ask whether you are musical, Mrs. Elton. Upon these
-occasions, a lady’s character generally precedes her; and Highbury has
-long known that you are a superior performer.”
+“Yes,” he replied, “any [[Body|body]] may know how highly I think of her.”
 
-“Oh! no, indeed; I must protest against any such idea. A superior
-performer!—very far from it, I assure you. Consider from how partial a
-quarter your information came. I am doatingly fond of
-music—passionately fond;—and my friends say I am not entirely devoid of
-taste; but as to any thing else, upon my [[Honour|honour]] my performance is
-_mediocre_ to the last degree. You, Miss Woodhouse, I [[Well|well]] know, play
-delightfully. I assure you it has been the greatest satisfaction,
-comfort, and delight to me, to hear what a musical society I am got
-into. I absolutely cannot do without music. It is a necessary of life
-to me; and having always been used to a very musical society, both at
-Maple Grove and in Bath, it would have been a most serious sacrifice. I
-honestly said as much to Mr. E. when he was speaking of my future [[Home|home]],
-and expressing his fears lest the retirement of it should be
-disagreeable; and the inferiority of the [[house]] too—knowing what I had
-been accustomed to—of course he was not wholly without apprehension.
-When he was speaking of it in that way, I honestly said that _the_
-_world_ I could give up—parties, balls, plays—for I had no [[Fear|fear]] of
-retirement. Blessed with so many resources within myself, the world was
-not necessary to _me_. I could do very [[Well|well]] without it. To those who
-had no resources it was a different thing; but my resources made me
-quite independent. And as to smaller-sized rooms than I had been used
-to, I really could not give it a thought. I hoped I was perfectly equal
-to any sacrifice of that description. Certainly I had been accustomed
-to every luxury at Maple Grove; but I did assure him that two carriages
-were not necessary to my happiness, nor were spacious apartments.
-‘But,’ said I, ‘to be quite honest, I do not think I can live without
-something of a musical society. I condition for nothing else; but
-without music, life would be a blank to me.’”
+“And yet,” said [[Emma]], beginning hastily and with an arch look, but soon
+stopping—it was better, however, to know the worst at once—she hurried
+on—“And yet, perhaps, you may hardly be aware yourself how highly it
+is. The extent of your admiration may take you by surprize some day or
+other.”

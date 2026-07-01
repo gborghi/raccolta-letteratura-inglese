@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 34 (part 2)"
+title: "Jane Eyre — Chapter 34 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -114,8 +114,3 @@ the very meridian of the [[Night|night]]’s enjoyment, about an hour after tea,
 rap was heard at the door. Hannah entered with the intimation that “a
 poor lad was come, at that unlikely [[Time|time]], to fetch Mr. Rivers to see
 his mother, who was drawing away.”
-
-“Where does she live, Hannah?”
-
-“Clear up at Whitcross Brow, almost four miles off, and moor and moss
-all the way.”

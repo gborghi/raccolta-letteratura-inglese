@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 5 (part 5)"
+title: "Martin Chuzzlewit — Chapter 5 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -142,7 +142,3 @@ Pinch, glancing at the [[Clock|clock]] again. ‘Shall we go?’
 
 ‘Would you like to drive?’ said Mr Pinch; his whole face beaming with a
 consciousness of the splendour of his offer. ‘You shall, if you wish.’
-
-‘Why, that depends, Mr Pinch,’ said Martin, laughing, ‘upon what sort
-of a [[Horse|horse]] you have. Because if he’s a bad one, I would rather keep my
-hands warm by holding them comfortably in my greatcoat pockets.’

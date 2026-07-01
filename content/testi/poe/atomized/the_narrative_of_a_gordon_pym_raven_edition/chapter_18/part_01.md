@@ -197,7 +197,3 @@ CHAPTER 18
       one of them approached, the rest remaining about fifty yards off.
 
       Twenty of the savages now got on board, and proceeded to ramble
-
-      over every part of the deck, and scramble about among the
-
-      rigging, making themselves much at [[Home|home]], and examining every

@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 6 (part 2)"
+title: "Our Mutual Friend — Chapter 7 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,135 +14,126 @@ tags:
 </nav>
 
 
-‘So much the better for you.’
+‘Very bad,’ says [[Mr Venus]], uncompromisingly.
 
-Abbey the supreme threw the customer’s halfpence into the till, and,
-seating herself in her fireside-chair, resumed the newspaper she had
-been reading. She was a tall, upright, [[Well|well]]-favoured woman, though
-severe of countenance, and had more of the air of a schoolmistress than
-mistress of the Six Jolly Fellowship Porters. The man on the other side
-of the half-door, was a waterside-man with a squinting leer, and he eyed
-her as if he were one of her pupils in disgrace.
+‘What? Am I still at [[Home|home]]?’ asks Wegg, with an air of surprise.
 
-‘You’re cruel hard upon me, Miss Potterson.’
+‘Always at [[Home|home]].’
 
-Miss Potterson read her newspaper with contracted brows, and took no
-notice until he whispered:
+This would seem to be secretly agreeable to Wegg, but he veils his
+feelings, and observes, ‘Strange. To what do you attribute it?’
 
-‘Miss Potterson! Ma’am! Might I have half a word with you?’
+‘I don’t know,’ replies [[Venus]], who is a haggard [[Melancholy|melancholy]] man, speaking
+in a weak voice of querulous complaint, ‘to what to attribute it, Mr
+Wegg. I can’t work you into a miscellaneous one, no how. Do what I will,
+you can’t be got to fit. Anybody with a passable knowledge would pick
+you out at a look, and say,—“No go! Don’t match!”’
 
-Deigning then to turn her eyes sideways towards the suppliant, Miss
-Potterson beheld him knuckling his low forehead, and ducking at her with
-his head, as if he were asking leave to fling himself head foremost over
-the half-door and alight on his feet in the bar.
+‘[[Well]], but hang it, [[Mr Venus]],’ Wegg expostulates with some little
+irritation, ‘that can’t be personal and peculiar in ME. It must often
+happen with miscellaneous ones.’
 
-‘[[Well]]?’ said Miss Potterson, with a manner as short as she herself was
-long, ‘say your half word. Bring it out.’
+‘With ribs (I grant you) always. But not else. When I prepare a
+miscellaneous one, I know beforehand that I can’t keep to [[Nature|nature]], and
+be miscellaneous with ribs, because every man has his own ribs, and no
+other man’s will go with them; but elseways I can be miscellaneous. I
+have just sent [[Home|home]] a [[Beauty]]—a perfect [[Beauty]]—to a school of art. One
+leg Belgian, one leg English, and the pickings of eight other people in
+it. Talk of not being qualified to be miscellaneous! By rights you OUGHT
+to be, Mr Wegg.’
 
-‘Miss Potterson! Ma’am! Would you ’sxcuse me taking the liberty of
-asking, is it my character that you take objections to?’
+Silas looks as hard at his one leg as he can in the dim light, and after
+a pause sulkily opines ‘that it must be the fault of the other people.
+Or how do you mean to say it comes about?’ he demands impatiently.
 
-‘Certainly,’ said Miss Potterson.
+‘I don’t know how it comes about. Stand up a minute. Hold the light.’
+[[Mr Venus]] takes from a corner by his chair, the bones of a leg and foot,
+beautifully pure, and put together with exquisite neatness. These he
+compares with Mr Wegg’s leg; that gentleman looking on, as if he were
+being measured for a riding-boot. ‘No, I don’t know how it is, but so it
+is. You have got a twist in that bone, to the best of my belief. I never
+saw the likes of you.’
 
-‘Is it that you’re afraid of—’
+Mr Wegg having looked distrustfully at his own limb, and suspiciously at
+the pattern with which it has been compared, makes the point:
 
-‘I am not afraid OF YOU,’ interposed Miss Potterson, ‘if you mean that.’
+‘I’ll bet a pound that ain’t an English one!’
 
-‘But I humbly don’t mean that, Miss Abbey.’
+‘An easy wager, when we run so much into foreign! No, it belongs to that
+French gentleman.’
 
-‘Then what do you mean?’
+As he nods towards a point of darkness behind Mr Wegg, the latter, with
+a slight start, looks round for ‘that French gentleman,’ whom he at
+length descries to be represented (in a very workmanlike manner) by his
+ribs only, standing on a shelf in another corner, like a piece of armour
+or a pair of stays.
 
-‘You really are so cruel hard upon me! What I was going to make
-inquiries was no more than, might you have any apprehensions—leastways
-beliefs or suppositions—that the company’s property mightn’t be
-altogether to be considered safe, if I used the [[house]] too regular?’
+‘Oh!’ says Mr Wegg, with a sort of sense of being introduced; ‘I
+dare say you were all right enough in your own country, but I [[Hope|hope]] no
+objections will be taken to my saying that the Frenchman was never yet
+born as I should wish to match.’
 
-‘What do you want to know for?’
+At this moment the greasy door is violently pushed inward, and a boy
+follows it, who says, after having let it slam:
 
-‘[[Well]], Miss Abbey, respectfully meaning no offence to you, it would
-be some satisfaction to a man’s mind, to understand why the Fellowship
-Porters is not to be free to such as me, and is to be free to such as
-Gaffer.’
+‘Come for the stuffed canary.’
 
-The face of the hostess darkened with some [[Shadow|shadow]] of perplexity, as she
-replied: ‘Gaffer has never been where you have been.’
+‘It’s three and ninepence,’ returns [[Venus]]; ‘have you got the money?’
 
-‘Signifying in Quod, Miss? Perhaps not. But he may have merited it. He
-may be suspected of far worse than ever I was.’
+The boy produces four shillings. [[Mr Venus]], always in exceedingly low
+spirits and making whimpering sounds, peers about for the stuffed
+canary. On his taking the candle to assist his search, Mr Wegg observes
+that he has a convenient little shelf near his knees, exclusively
+appropriated to [[skeleton]] hands, which have very much the appearance of
+wanting to lay hold of him. From these [[Mr Venus]] rescues the canary in a
+glass case, and shows it to the boy.
 
-‘Who suspects him?’
+‘There!’ he whimpers. ‘There’s animation! On a twig, making up his mind
+to hop! Take care of him; he’s a lovely specimen.—And three is four.’
 
-‘Many, perhaps. One, beyond all doubts. I do.’
+The boy gathers up his change and has pulled the door open by a leather
+strap nailed to it for the purpose, when [[Venus]] cries out:
 
-‘YOU are not much,’ said Miss Abbey Potterson, knitting her brows again
-with disdain.
+‘Stop him! Come back, you young [[Villain|villain]]! You’ve got a tooth among them
+halfpence.’
 
-‘But I was his pardner. Mind you, Miss Abbey, I was his pardner. As
-such I know more of the ins and outs of him than any person living does.
-Notice this! I am the man that was his pardner, and I am the man that
-suspects him.’
+‘How was I to know I’d got it? You giv it me. I don’t want none of your
+teeth; I’ve got enough of my own.’ So the boy pipes, as he selects it
+from his change, and throws it on the counter.
 
-‘Then,’ suggested Miss Abbey, though with a deeper shade of perplexity
-than before, ‘you criminate yourself.’
+‘Don’t sauce ME, in the wicious [[Pride|pride]] of your youth,’ [[Mr Venus]] retorts
+pathetically. ‘Don’t hit ME because you see I’m down. I’m low enough
+without that. It dropped into the till, I suppose. They drop into
+everything. There was two in the coffee-pot at breakfast [[Time|time]]. Molars.’
 
-‘No I don’t, Miss Abbey. For how does it stand? It stands this way. When
-I was his pardner, I couldn’t never give him satisfaction. Why couldn’t
-I never give him satisfaction? Because my luck was bad; because I
-couldn’t find many enough of ’em. How was his luck? Always good. Notice
-this! Always good! Ah! There’s a many games, Miss Abbey, in which
-there’s chance, but there’s a many others in which there’s skill too,
-mixed along with it.’
+‘Very [[Well|well]], then,’ argues the boy, ‘what do you call names for?’
 
-‘That Gaffer has a skill in finding what he finds, who doubts, man?’
-asked Miss Abbey.
+To which [[Mr Venus]] only replies, shaking his shock of dusty hair, and
+winking his weak eyes, ‘Don’t sauce ME, in the wicious [[Pride|pride]] of your
+youth; don’t hit ME, because you see I’m down. You’ve no idea how small
+you’d come out, if I had the articulating of you.’
 
-‘A skill in purwiding what he finds, perhaps,’ said Riderhood, shaking
-his evil head.
+This consideration seems to have its effect on the boy, for he goes out
+grumbling.
 
-Miss Abbey knitted her brow at him, as he darkly leered at her. ‘If
-you’re out upon the [[River|river]] pretty nigh every tide, and if you want to
-find a man or woman in the [[River|river]], you’ll greatly help your luck, Miss
-Abbey, by knocking a man or woman on the head aforehand and pitching ’em
-in.’
+‘Oh dear me, dear me!’ sighs [[Mr Venus]], heavily, snuffing the candle,
+‘the world that appeared so flowery has ceased to blow! You’re casting
+your eye round the shop, Mr Wegg. Let me show you a light. My working
+bench. My young man’s bench. A Wice. Tools. Bones, warious. Skulls,
+warious. Preserved Indian baby. African ditto. Bottled preparations,
+warious. Everything within reach of your hand, in good preservation.
+The mouldy ones a-top. What’s in those hampers over them again, I don’t
+quite remember. Say, human warious. Cats. Articulated English baby.
+[[dogs|Dogs]]. Ducks. Glass eyes, warious. Mummied bird. Dried cuticle, warious.
+Oh, dear me! That’s the general panoramic view.’
 
-‘Gracious Lud!’ was the involuntary exclamation of Miss Potterson.
+Having so held and waved the candle as that all these heterogeneous
+objects seemed to come forward obediently when they were named, and
+then retire again, [[Mr Venus]] despondently repeats, ‘Oh dear me, dear
+me!’ resumes his seat, and with drooping despondency upon him, falls to
+pouring himself out more tea.
 
-‘Mind you!’ returned the other, stretching forward over the half door
-to throw his words into the bar; for his voice was as if the head of his
-boat’s mop were down his throat; ‘I say so, Miss Abbey! And mind you!
-I’ll follow him up, Miss Abbey! And mind you! I’ll bring him to hook at
-last, if it’s twenty year hence, I will! Who’s he, to be favoured along
-of his daughter? Ain’t I got a daughter of my own!’
+‘Where am I?’ asks Mr Wegg.
 
-With that flourish, and seeming to have talked himself rather more drunk
-and much more ferocious than he had begun by being, Mr Riderhood took up
-his pint pot and swaggered off to the taproom.
-
-Gaffer was not there, but a pretty strong muster of Miss Abbey’s pupils
-were, who exhibited, when occasion required, the greatest docility. On
-the [[Clock|clock]]’s striking ten, and Miss Abbey’s appearing at the door, and
-addressing a certain person in a faded scarlet jacket, with ‘George
-[[Jones]], your [[Time|time]]’s up! I told your wife you should be punctual,’
-[[Jones]] submissively [[Rose|rose]], gave the company good-[[Night|night]], and retired. At
-half-past ten, on Miss Abbey’s looking in again, and saying, ‘William
-Williams, Bob Glamour, and Jonathan, you are all due,’ Williams, Bob,
-and Jonathan with similar meekness took their leave and evaporated.
-Greater [[Wonder|wonder]] than these, when a bottle-nosed person in a glazed hat
-had after some considerable hesitation ordered another glass of gin and
-[[Water|water]] of the attendant potboy, and when Miss Abbey, instead of sending
-it, appeared in person, saying, ‘Captain Joey, you have had as much as
-will do you good,’ not only did the captain feebly rub his knees and
-contemplate the [[Fire|fire]] without offering a word of protest, but the rest
-of the company murmured, ‘Ay, ay, Captain! Miss Abbey’s right; you
-be guided by Miss Abbey, Captain.’ Nor, was Miss Abbey’s vigilance in
-anywise abated by this submission, but rather sharpened; for, looking
-round on the deferential faces of her school, and descrying two other
-young persons in need of admonition, she thus bestowed it: ‘Tom Tootle,
-it’s [[Time|time]] for a young fellow who’s going to be married next month, to
-be at [[Home|home]] and asleep. And you needn’t nudge him, Mr Jack Mullins, for
-I know your work begins early tomorrow, and I say the same to you.
-So come! Good-[[Night|night]], like good lads!’ Upon which, the blushing Tootle
-looked to Mullins, and the blushing Mullins looked to Tootle, on the
-question who should rise first, and finally both [[Rose|rose]] together and went
-out on the broad grin, followed by Miss Abbey; in whose presence the
-company did not take the liberty of grinning likewise.
+‘You’re somewhere in the back shop across the yard, sir; and speaking
+quite candidly, I wish I’d never bought you of the Hospital Porter.’

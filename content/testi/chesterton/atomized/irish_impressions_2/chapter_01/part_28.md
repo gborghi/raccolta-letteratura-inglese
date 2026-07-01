@@ -14,103 +14,117 @@ tags:
 </nav>
 
 
-The point is here that the evil in the delusion does not consist
-in bigotry, but in [[Vanity|vanity]].  It is not that such a Belfast man thinks
-he is right; for any honest man has a right to think he is right.
-It is that he does think he is good, not to say great; and no
-honest man can reach that comfortable conviction without a course
-of intellectual dishonesty.  What cuts this spirit off from Christian
-common sense is the fact that the delusion, like most insane delusions,
-is merely egotistical.  It is simply the pleasure of thinking
-extravagantly [[Well|well]] of oneself; and unlimited indulgence in that pleasure
-is far more weakening than any indulgence in drink or dissipation.
-But so completely does it construct an unreal cosmos round the ego,
-that the criticism of the world cannot be felt even for worldly purposes.
-I could give many examples of this element in Belfast, as compared
-even with Birmingham or Manchester.  The [[Lord Mayor]] of Manchester
-may not happen to know much about pictures; but he knows men who know
-about them.  But the Belfast authorities will exhibit a maniacally
-bad picture as a masterpiece, merely because it glorifies Belfast.
-No man dare put up such a picture in Manchester, within a stone's-throw
-of Mr. Charles Rowley.  I care comparatively little about
-the case of aesthetics; but the case is even clearer in ethics.
-So wholly are these people sundered from more Christian traditions
-that their very boasts lower them; and.  they abase themselves when
-they mean to exalt themselves.  It never occurs to them that their
-strange inside standards do not always impress outsiders.  A great
-employer introduced me to several of his very intelligent employees;
-and I can readily bear witness to the sincerity of the great
-Belfast delusion even among many of the poorer men of Belfast.
-But the sincere efforts of them and their master, to convince me
-that a [[Union|union]] with the Catholic majority under [[Home]] Rule was intolerable
-to them, all went to one tune, which recurred with a kind of [[Chorus|chorus]],
-"We won't have the likes of them making laws for the likes of us."
-It never seemed to [[Cross|cross]] their minds that this is not a high example
-of any human [[morality]]; that judged by pagan _verecundia_ or Christian
-[[Humility|humility]] or modern democratic brotherhood, it is simply the remark
-of a snob.  The man in question is quite [[Innocent|innocent]] of all this;
-he has no notion of modesty, or even of mock modesty; he is not
-only superior, but he thinks it a superiority to claim superiority.
+Thus, whether we consider the sense in which the Irish are
+really quarrelsome, or the sense in which they are really poetical,
+we find that both lead us back to a condition of clarity which seems
+the very reverse of a mere dream.  In both cases Ireland is critical,
+and even [[Self|self]]-critical. The bitterness I have ventured to lament
+is not Irish bitterness against the English; that I should
+assume as not only inevitable, but substantially justifiable.
+It is Irish bitterness against the Irish; the remarks of one honest
+Nationalist about another honest Nationalist.  Similarly, while they
+are fond of poetry, they are not always fond of poets; and there
+is plenty of [[Satire|satire]] in their conversation on the subject.
+I have said that half the talk may consist of poetry;
+I might almost say that the other half may consist of [[Parody|parody]].
+All these things amount to an excess of vigilance and realism;
+the mass of the people watch and pray, but even those who never pray
+never cease to watch.  If they idealise [[Sleep|sleep]], it is as the sleepless do;
+it might almost be said that they can only dream of dreaming.
+If [[A Dream|a dream]] haunts them, it is rather as something that escapes them;
+and indeed some of their finest poetry is rather about seeking fairyland
+than about finding it.  Granted all this, I may say that there was one
+place in Ireland where I did seem to find it, and not merely to seek it.
+There was one spot where I seemed to see the dream itself in possession;
+as one might see from afar a cloud resting on a single [[Hill|hill]].
+There [[A Dream|a dream]], at once a [[Desire|desire]] and a delusion, brooded above
+a whole [[City|city]].  That place was Belfast.
 
-It is here that we cannot avoid theology, because, we cannot
-avoid theory.  For the point is that even in theory
-the one religious atmosphere now differs from the other.
-That the difference had historically a religious root is
-really unquestionable; but anyhow it is very deeply rooted.
-The essence of Calvinism was certainty about salvation;
-the essence of Catholicism is uncertainty about salvation.
-The modern and materialised form of that certainty is superiority;
-the belief of a man in a fixed moral aristocracy of men like himself.
-But the [[Truth|truth]] concerned here is that, by this [[Time|time]] at any rate,
-the superiority has become a doctrine as [[Well|well]] as an indulgence.
-I [[Doubt|doubt]] if this extreme school of Protestants believe in Christian
-[[Humility|humility]] even as an ideal.  I [[Doubt|doubt]] whether the more honest of them would
-even profess to believe in it.  This can be clearly seen by comparing
-it with other Christian virtues; of which this decayed Calvinism
-offers at least a version, even to those who think it a perversion.
-[[Puritanism]] is a version of purity; if we think it a [[Parody|parody]] of purity.
-Philanthropy is a version of [[Charity|charity]]; if we think it a [[Parody|parody]]
-of [[Charity|charity]].  But in all this commercial Protestantism there is
-no version of [[Humility|humility]]; there is not even a [[Parody|parody]] of [[Humility|humility]].
-[[Humility]] is not an ideal.  [[Humility]] is not even a hypocrisy.
-There is no institution, no commandment, no common form of words,
-no popular pattern or traditional tale, to tell anybody in any
-fashion that there is any such thing as a peril of spiritual [[Pride|pride]].
-In short, there is here a school of thought and sentiment that does
-definitely regard [[Self|self]]-satisfaction as a strength; as against
-the strong Christian tradition in the rest of the country that does
-as definitely regard it as a weakness.  That is the real moral issue
-in the modern struggle in Ireland; nor is it confined to Ireland.
-England has been deeply infected with this pharisaical weakness;
-but as I have said, England takes things vaguely where Ireland takes
-them vividly.  The men of Belfast offer that [[City|city]] as something supreme,
-unique and unrivalled; and they are very nearly right.
-There is nothing exactly like it in the industrialism of this country;
-but for all that, the fight against its religion of arrogance
-has been fought out elsewhere and on a larger field.
-There is another centre and citadel from which this theory,
-of strength in a [[Self|self]]-hypnotised superiority, has despised Christendom.
-There has been a rival [[City|city]] to Belfast; and its name was Berlin.
+The description could be justified even literally and in detail.
+A man told me in northeast Ulster that he had heard a mother warning
+her children away from some pond, or similar place of danger,
+by saying, "Don't you go there; there are wee popes there."
+A country where that could be said is like Elfland as compared
+to England.  If not exactly a land of fairies, it is at least
+a land of goblins.  There is something charming in the fancy
+of a pool full of these peculiar elves, like so many efts,
+each with his tiny triple [[Crown|crown]] or crossed keys complete.
+That is the difference between this manufacturing district
+and an English manufacturing district, like that of Manchester.
+There are numbers of sturdy Nonconformists in Manchester;
+and doubtless they direct some of their educational warnings
+against the system represented by the Archbishop of Canterbury.
+But nobody in Manchester, however Nonconformist, tells even a
+[[Child|child]] that a puddle is a sort of breeding place for Archbishops
+of Canterbury, little goblins in gaiters and aprons.  It may be said
+that it is a very stagnant pool that breeds that sort of efts.
+But whatever view we take of it, it remains true, to begin with,
+that the [[Paradox|paradox]] could be proved merely from superficial things
+like superstitions.  Protestant Ulster reeks of superstition;
+it is the strong smell that really comes like a blast out of Belfast,
+as distinct from Birmingham or Brixton.  But to me there is always
+something human and almost humanising about superstition; and I
+really think that such lingering legends about the Pope, as a being
+as distant and dehumanised as the [[King]] of the Cannibal Islands,
+have served as a sort of negative folk-lore. And the same may be said,
+in so far as it is true that the commercial province has retained
+a theology as [[Well|well]] as a mythology.  Wherever men are still
+theological there is still some chance of their being logical.
+And in this the Calvinist Ulsterman may be more of a Catholic Irishman
+than is commonly realised, especially by himself.
 
-Historians of all religions and no religion may yet come to regard
-it as a historical fact, I fancy, that the Protestant [[Reformation]]
-of the sixteenth century (at least in the form it actually took)
-was a barbaric breakdown, like that Prussianism which was the
-ultimate product of the Protestantism.  But however this may be,
-historians will always be interested to note that it produced
-certain curious and characteristic things; which are worth studying
-whether we like or dislike them.  And one of its features, I fancy,
-has been this; that it has had the power of producing certain
-institutions which progressed very rapidly to great wealth and power;
-which the world regarded at a certain moment as invincible;
-and which the world, at the next moment, suddenly discovered to
-be intolerable.  It was so with the whole of that Calvinist theology,
-of which Belfast is now left as the lonely missionary.  It was so,
-even in our own [[Time|time]], with the whole of that industrial capitalism
-of which Belfast is now the besieged and almost deserted outpost.
-And it was so with Berlin as it was with Belfast; and a subtle Prussian
-might almost complain of a kind of treachery, in the abruptness
-with which the world woke up and found it wanting; in the suddenness
-of the reaction that struck it impotent, so soon after it had been
-counted on omnipotent.  These things seem to hold all the future;
-and in one flash they are things of the past.
+Attacks and apologies abound about the matter of Belfast bigotry;
+but bigotry is by no means the worst thing in Belfast.
+I rather think it is the best.  Nor is it the strongest example
+of what I mean, when I say that Belfast does really live in [[A Dream|a dream]].
+The other and more remarkable fault of the society has indeed
+a religious root; for nearly everything in [[history]] has a
+religious root, and especially nearly everything in Irish [[history]].
+Of that theoretical origin in theology I may say something in a moment;
+it will be enough to say here that what has produced the more
+prominent and practical evil is ultimately the theology itself,
+but not the habit of being theological.  It is the creed;
+but not the [[Faith|faith]].  In so far as the Ulster Protestant really has
+a [[Faith|faith]], he is really a fine fellow; though perhaps not quite
+so fine a fellow as he thinks himself.  And that is the chasm;
+and can be most shortly stated as I have often stated it in such debates,
+by saying that the Protestant generally says, "I am a good Protestant,"
+while the Catholic always says, "I am a bad Catholic."
+
+When I say that Belfast is dominated by [[A Dream|a dream]], I mean it
+in the strict psychological sense; that something inside
+the mind is stronger than everything outside it.  Nonsense is
+not only stronger than sense, but stronger than the senses.
+The idea in a man's head can eclipse the eyes in his head.
+Very worthy and kindly merchants told me there was no [[Poverty|poverty]] in Belfast.
+They did not say there was less [[Poverty|poverty]] than was commonly alleged,
+or less [[Poverty|poverty]] than there had been, or less than there was in similar
+places elsewhere.  They said there was none.  As a remark about
+the Earthly Paradise or the New Jerusalem, it would be arresting.
+As a remark about the streets, through which they and I had both
+passed a few moments before, it was simply a triumph of the sheer
+[[Madness|madness]] of the [[Imagination|imagination]] of man.  These eminent citizens
+of Belfast received me in the kindest and most courteous fashion;
+and I would not willingly say anything in criticism of them beyond
+what is necessary for the practical needs of their country and mine.
+But indeed I think the greatest criticism of them is that they
+would not understand what the criticism means.  I will therefore
+clothe it in a [[Parable|parable]], which is none the worse for having also been
+a real incident.  When told there was no [[Poverty|poverty]] in Belfast, I had
+remarked mildly that the people must have a singular taste in dress.
+I was gravely assured that they had indeed a most singular taste
+in dress.  I was left with the general impression that wearing
+shirts or trousers decorated with large holes at irregular intervals
+was a pardonable form of foppery or fashionable extravagance.
+And it will always be a deep indwelling delight, in the memories
+of my life, that just as these [[City|city]] fathers and I came out on to
+the steps of the hotel, there appeared before us one of the raggedest
+of the ragged little boys I had seen, asking for a penny.
+I gave him a penny, whereon this group of merchants was suddenly
+transfigured into a sort of mob, vociferating, "Against the law!
+Against the law!" and bundled him away.  I [[Hope|hope]] it is not unamiable
+to be so much entertained by that vision of a mob of magistrates,
+so earnestly shooing away a solitary [[Child|child]] like a cat.  Anyhow, they knew
+not what they did; and, what is worse, knew not that they knew not.
+And they would not understand, if I told them, what legend might have
+been made about that [[Child|child]], in the Christian [[Ages of the World|ages of the world]].

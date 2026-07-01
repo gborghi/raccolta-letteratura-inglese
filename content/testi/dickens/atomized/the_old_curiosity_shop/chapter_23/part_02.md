@@ -14,6 +14,13 @@ tags:
 </nav>
 
 
+‘I don’t defend myself, [[Fred]],’ said the penitent [[Richard]]; ‘but the
+fellow has such a queer way with him and is such an artful dog, that
+first of all he set me upon thinking whether there was any harm in
+telling him, and while I was thinking, screwed it out of me.  If you
+had seen him drink and smoke, as I did, you couldn’t have kept anything
+from him.  He’s a Salamander you know, that’s what he is.’
+
 Without inquiring whether Salamanders were of necessity good
 confidential agents, or whether a [[Fire|fire]]-proof man was as a matter of
 course trustworthy, Frederick Trent threw himself into a chair, and,
@@ -119,15 +126,3 @@ I told him “these are common faults.”  “But he’s a scoundrel,” said he
 “Granting that,” said I (for the sake of argument of course), “a great
 many young noblemen and gentlemen are scoundrels too!” But he wouldn’t
 be convinced.’
-
-‘I [[Wonder|wonder]] at that, Mr Quilp,’ said the young man sarcastically.
-
-‘[[Well]], so did I at the [[Time|time]],’ returned Quilp, ‘but he was always
-obstinate.  He was in a manner a friend of mine, but he was always
-obstinate and wrong-headed.  [[Little Nell]] is a nice girl, a charming
-girl, but you’re her brother, Frederick.  You’re her brother after all;
-as you told him the last [[Time|time]] you met, he can’t alter that.’
-
-‘He would if he could, confound him for that and all other kindnesses,’
-said the young man impatiently.  ‘But nothing can come of this subject
-now, and let us have done with it in the Devil’s name.’

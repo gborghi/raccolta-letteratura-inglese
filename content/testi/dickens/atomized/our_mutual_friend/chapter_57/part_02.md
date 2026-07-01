@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 16 (part 2)"
+title: "Our Mutual Friend — Chapter 2 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,147 +14,132 @@ tags:
 </nav>
 
 
-‘Whose Perch?’ asked Bella with great indignation.
+‘No. Pray don’t,’ Mr Boffin interposed.
 
-‘Rumty’s. You see, being rather high and up two steps they call it a
-Perch. And they call ME Rumty.’
+Mrs Lammle turned to him laughingly. ‘The [[Court]] objects?’
 
-‘How dare they!’ exclaimed Bella.
+‘Ma’am,’ said Mr Boffin, ‘the [[Court]] (if I am the [[Court]]) does object. The
+[[Court]] objects for two reasons. First, because the [[Court]] don’t think it
+fair. Secondly, because the dear old lady, Mrs [[Court]] (if I am Mr) gets
+distressed by it.’
 
-‘They’re playful, Bella my dear; they’re playful. They’re more or less
-younger than I am, and they’re playful. What does it matter? It might
-be Surly, or Sulky, or fifty disagreeable things that I really shouldn’t
-like to be considered. But Rumty! Lor, why not Rumty?’
+A very remarkable wavering between two bearings—between her
+propitiatory bearing there, and her defiant bearing at Mr Twemlow’s—was
+observable on the part of Mrs Lammle as she said:
 
-To inflict a heavy disappointment on this sweet [[Nature|nature]], which had been,
-through all her caprices, the object of her recognition, [[Love|love]], and
-admiration from infancy, Bella felt to be the hardest task of her hard
-day. ‘I should have done better,’ she thought, ‘to tell him at first;
-I should have done better to tell him just now, when he had some slight
-misgiving; he is quite happy again, and I shall make him wretched.’
+‘What does the [[Court]] not consider fair?’
 
-He was falling back on his loaf and milk, with the pleasantest
-composure, and Bella stealing her arm a little closer about him, and at
-the same [[Time|time]] sticking up his hair with an irresistible propensity
-to play with him founded on the habit of her whole life, had prepared
-herself to say: ‘Pa dear, don’t be cast down, but I must tell you
-something disagreeable!’ when he interrupted her in an unlooked-for
-manner.
+‘Letting you go on,’ replied Mr Boffin, nodding his head soothingly, as
+who should say, We won’t be harder on you than we can help; we’ll make
+the best of it. ‘It’s not above-board and it’s not fair. When the old
+lady is uncomfortable, there’s sure to be good reason for it. I see she
+is uncomfortable, and I plainly see this is the good reason wherefore.
+HAVE you breakfasted, ma’am.’
 
-‘My gracious me!’ he exclaimed, invoking the Mincing Lane echoes as
-before. ‘This is very extraordinary!’
+Mrs Lammle, settling into her defiant manner, pushed her plate away,
+looked at her husband, and laughed; but by no means gaily.
 
-‘What is, Pa?’
+‘Have YOU breakfasted, sir?’ inquired Mr Boffin.
 
-‘Why here’s Mr Rokesmith now!’
+‘Thank you,’ replied Alfred, showing all his teeth. ‘If Mrs Boffin will
+oblige me, I’ll take another cup of tea.’
 
-‘No, no, Pa, no,’ cried Bella, greatly flurried. ‘Surely not.’
+He spilled a little of it over the chest which ought to have been so
+effective, and which had done so little; but on the whole drank it with
+something of an air, though the coming and going dints got almost as
+large, the while, as if they had been made by pressure of the teaspoon.
+‘A thousand thanks,’ he then observed. ‘I have breakfasted.’
 
-‘Yes there is! Look here!’
+‘Now, which,’ said Mr Boffin softly, taking out a pocket-book, ‘which of
+you two is Cashier?’
 
-Sooth to say, Mr Rokesmith not only passed the [[Window|window]], but came into the
-counting-[[house]]. And not only came into the counting-[[house]], but, finding
-himself [[Alone|alone]] there with Bella and her father, rushed at Bella and
-caught her in his arms, with the rapturous words ‘My dear, dear girl; my
-gallant, generous, disinterested, courageous, noble girl!’ And not only
-that even, (which one might have thought astonishment enough for one
-dose), but Bella, after hanging her head for a moment, lifted it up and
-laid it on his breast, as if that were her head’s chosen and lasting
-resting-place!
+‘Sophronia, my dear,’ remarked her husband, as he leaned back in his
+chair, waving his right hand towards her, while he hung his left hand
+by the thumb in the arm-hole of his waistcoat: ‘it shall be your
+department.’
 
-‘I knew you would come to him, and I followed you,’ said Rokesmith. ‘My
-[[Love|love]], my life! You ARE mine?’
+‘I would rather,’ said Mr Boffin, ‘that it was your husband’s, ma’am,
+because—but never mind, because, I would rather have to do with him.
+However, what I have to say, I will say with as little offence as
+possible; if I can say it without any, I shall be heartily glad. You two
+have done me a service, a very great service, in doing what you did (my
+old lady knows what it was), and I have put into this envelope a bank
+note for a hundred pound. I consider the service [[Well|well]] worth a hundred
+pound, and I am [[Well|well]] pleased to pay the money. Would you do me the
+favour to take it, and likewise to accept my thanks?’
 
-To which Bella responded, ‘Yes, I AM yours if you think me worth
-taking!’ And after that, seemed to shrink to next to nothing in the
-clasp of his arms, partly because it was such a strong one on his part,
-and partly because there was such a yielding to it on hers.
+With a haughty action, and without looking towards him, Mrs Lammle held
+out her left hand, and into it Mr Boffin put the little packet. When she
+had conveyed it to her bosom, Mr Lammle had the appearance of feeling
+relieved, and breathing more freely, as not having been quite certain
+that the hundred pounds were his, until the note had been safely
+transferred out of Mr Boffin’s keeping into his own Sophronia’s.
 
-The cherub, whose hair would have done for itself under the influence of
-this amazing spectacle, what Bella had just now done for it, staggered
-back into the [[Window|window]]-seat from which he had risen, and surveyed the pair
-with his eyes dilated to their utmost.
+‘It is not impossible,’ said Mr Boffin, addressing Alfred, ‘that you
+have had some general idea, sir, of replacing Rokesmith, in course of
+[[Time|time]]?’
 
-‘But we must think of dear Pa,’ said Bella; ‘I haven’t told dear Pa; let
-us speak to Pa.’ Upon which they turned to do so.
+‘It is not,’ assented Alfred, with a glittering smile and a great deal
+of nose, ‘not impossible.’
 
-‘I wish first, my dear,’ remarked the cherub faintly, ‘that you’d have
-the kindness to sprinkle me with a little milk, for I feel as if I
-was—Going.’
+‘And perhaps, ma’am,’ pursued Mr Boffin, addressing Sophronia, ‘you have
+been so kind as to take up my old lady in your own mind, and to do her
+the [[Honour|honour]] of turning the question over whether you mightn’t one of
+these days have her in charge, like? Whether you mightn’t be a sort of
+Miss [[Bella Wilfer]] to her, and something more?’
 
-In fact, the good little fellow had become alarmingly limp, and his
-senses seemed to be rapidly escaping, from the knees upward. Bella
-sprinkled him with kisses instead of milk, but gave him a little of that
-article to drink; and he gradually revived under her caressing care.
+‘I should [[Hope|hope]],’ returned Mrs Lammle, with a scornful look and in a loud
+voice, ‘that if I were anything to your wife, sir, I could hardly fail
+to be something more than Miss [[Bella Wilfer]], as you call her.’
 
-‘We’ll break it to you gently, dearest Pa,’ said Bella.
+‘What do YOU call her, ma’am?’ asked Mr Boffin.
 
-‘My dear,’ returned the cherub, looking at them both, ‘you broke so much
-in the first—Gush, if I may so express myself—that I think I am equal
-to a good large breakage now.’
+Mrs Lammle disdained to reply, and sat defiantly beating one foot on the
+ground.
 
-‘Mr Wilfer,’ said John Rokesmith, excitedly and joyfully, ‘Bella takes
-me, though I have no fortune, even no present occupation; nothing but
-what I can get in the life before us. Bella takes me!’
+‘Again I think I may say, that’s not impossible. Is it, sir?’ asked Mr
+Boffin, turning to Alfred.
 
-‘Yes, I should rather have inferred, my dear sir,’ returned the cherub
-feebly, ‘that Bella took you, from what I have within these few minutes
-remarked.’
+‘It is not,’ said Alfred, smiling assent as before, ‘not impossible.’
 
-‘You don’t know, Pa,’ said Bella, ‘how ill I have used him!’
+‘Now,’ said Mr Boffin, gently, ‘it won’t do. I don’t wish to say a
+single word that might be afterwards remembered as unpleasant; but it
+won’t do.’
 
-‘You don’t know, sir,’ said Rokesmith, ‘what a heart she has!’
+‘Sophronia, my [[Love|love]],’ her husband repeated in a bantering manner, ‘you
+hear? It won’t do.’
 
-‘You don’t know, Pa,’ said Bella, ‘what a shocking creature I was
-growing, when he saved me from myself!’
+‘No,’ said Mr Boffin, with his voice still dropped, ‘it really won’t.
+You positively must excuse us. If you’ll go your way, we’ll go ours, and
+so I [[Hope|hope]] this affair ends to the satisfaction of all parties.’
 
-‘You don’t know, sir,’ said Rokesmith, ‘what a sacrifice she has made
-for me!’
+Mrs Lammle gave him the look of a decidedly dissatisfied party demanding
+exemption from the category; but said nothing.
 
-‘My dear Bella,’ replied the cherub, still pathetically scared, ‘and my
-dear John Rokesmith, if you will allow me so to call you—’
+‘The best thing we can make of the affair,’ said Mr Boffin, ‘is a matter
+of business, and as a matter of business it’s brought to a conclusion.
+You have done me a great service, a very great service, and I have paid
+for it. Is there any objection to the price?’
 
-‘Yes do, Pa, do!’ urged Bella. ‘I allow you, and my will is his law.
-Isn’t it—dear John Rokesmith?’
+Mr and Mrs Lammle looked at one another across the table, but neither
+could say that there was. Mr Lammle shrugged his shoulders, and Mrs
+Lammle sat rigid.
 
-There was an engaging shyness in Bella, coupled with an engaging
-tenderness of [[Love|love]] and confidence and [[Pride|pride]], in thus first calling him
-by name, which made it quite excusable in John Rokesmith to do what he
-did. What he did was, once more to give her the appearance of vanishing
-as aforesaid.
+‘Very good,’ said Mr Boffin. ‘We [[Hope|hope]] (my old lady and me) that you’ll
+give us credit for taking the plainest and honestest short-cut that
+could be taken under the circumstances. We have talked it over with a
+deal of care (my old lady and me), and we have felt that at all to lead
+you on, or even at all to let you go on of your own selves, wouldn’t be
+the right thing. So, I have openly given you to understand that—’
+Mr Boffin sought for a new turn of speech, but could find none so
+expressive as his former one, repeated in a confidential tone, ‘—that
+it won’t do. If I could have put the case more pleasantly I would; but
+I [[Hope|hope]] I haven’t put it very unpleasantly; at all events I haven’t meant
+to. So,’ said Mr Boffin, by way of peroration, ‘wishing you [[Well|well]] in the
+way you go, we now conclude with the observation that perhaps you’ll go
+it.’
 
-‘I think, my dears,’ observed the cherub, ‘that if you could make it
-convenient to sit one on one side of me, and the other on the other, we
-should get on rather more consecutively, and make things rather
-plainer. John Rokesmith mentioned, a while ago, that he had no present
-occupation.’
-
-‘None,’ said Rokesmith.
-
-‘No, Pa, none,’ said Bella.
-
-‘From which I argue,’ proceeded the cherub, ‘that he has left Mr
-Boffin?’
-
-‘Yes, Pa. And so—’
-
-‘Stop a bit, my dear. I wish to lead up to it by degrees. And that Mr
-Boffin has not treated him [[Well|well]]?’
-
-‘Has treated him most shamefully, dear Pa!’ cried Bella with a flashing
-face.
-
-‘Of which,’ pursued the cherub, enjoining patience with his hand, ‘a
-certain mercenary young person distantly related to myself, could not
-approve? Am I leading up to it right?’
-
-‘Could not approve, sweet Pa,’ said Bella, with a tearful laugh and a
-joyful kiss.
-
-‘Upon which,’ pursued the cherub, ‘the certain mercenary young person
-distantly related to myself, having previously observed and mentioned
-to myself that prosperity was spoiling Mr Boffin, felt that she must not
-sell her sense of what was right and what was wrong, and what was true
-and what was false, and what was just and what was unjust, for any
-price that could be paid to her by any one alive? Am I leading up to it
-right?’
+Mr Lammle [[Rose|rose]] with an impudent laugh on his side of the table, and Mrs
+Lammle [[Rose|rose]] with a disdainful frown on hers. At this moment a hasty foot
+was heard on the staircase, and Georgiana Podsnap broke into the room,
+unannounced and in [[Tears|tears]].

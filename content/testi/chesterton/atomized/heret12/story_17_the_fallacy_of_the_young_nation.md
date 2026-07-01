@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]] — The Fallacy of the Young Nation"
+title: "heret12 — The Fallacy of the Young Nation"
 author: "Chesterton"
 unitType: story
 parentWork: "works/heret12-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 XVIII.  The Fallacy of the Young Nation
-
 
 To say that a man is an idealist is merely to say that he is
 a man; but, nevertheless, it might be possible to effect some

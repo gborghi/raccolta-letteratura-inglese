@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 5 (part 2)"
+title: "Bleak House — Chapter 5 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_05/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_05/part_03">part 03 ›</a></div>
 </nav>
 
+
+The little old lady’s hearing was remarkably quick. She answered for
+herself directly.
+
+“A suitor, my [[Child|child]]. At your service. I have the [[Honour|honour]] to attend
+[[Court|court]] regularly. With my documents. Have I the pleasure of addressing
+another of the youthful parties in Jarndyce?” said the old lady,
+recovering herself, with her head on one side, from a very low
+curtsy.
 
 [[Richard]], anxious to atone for his thoughtlessness of yesterday,
 good-naturedly explained that Miss Jellyby was not connected with the
@@ -114,9 +123,3 @@ the old man added his persuasions to hers and said, “Aye, aye! Please
 her! It won’t take a minute! Come in, come in! Come in through the
 shop if t’other door’s out of order!” we all went in, stimulated by
 [[Richard]]’s laughing encouragement and relying on his protection.
-
-“My landlord, Krook,” said the little old lady, condescending to him
-from her lofty station as she presented him to us. “He is called
-among the neighbours the Lord Chancellor. His shop is called the
-[[Court]] of Chancery. He is a very eccentric person. He is very odd. Oh,
-I assure you he is very odd!”

@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 20 (part 2)"
+title: "The Professor — Chapter 20 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -14,13 +14,17 @@ tags:
 </nav>
 
 
+appellation by a furious blow, obliquely aimed at me. I left him in the
+
+act of bounding elastically out of the bed into which I had tucked him;
+
+but, as I took the precaution of turning the key in the door behind me,
+
 I retired to my own room, assured of his safe custody till the morning,
 
 and free to draw undisturbed conclusions from the scene I had just
 
 witnessed.
-
-
 
 Now, it was precisely about this [[Time|time]] that the directress, stung by
 
@@ -114,13 +118,9 @@ rebuked it. My indifference or harshness served equally to increase the
 
 evil I desired to check.
 
-
-
 “Que le dedain lui sied bien!” I once overheard her say to her mother:
 
 “il est beau comme Apollon quand il sourit de son air hautain.”
-
-
 
 And the jolly old dame laughed, and said she thought her daughter was
 
@@ -130,8 +130,6 @@ straight and without deformity. “Pour moi,” she continued, “il me fait
 
 tout l’effet d’un chat-huant, avec ses besicles.”
 
-
-
 Worthy old girl! I could have gone and kissed her had she not been a
 
 little too old, too fat, and too red-faced; her sensible, truthful
@@ -139,8 +137,6 @@ little too old, too fat, and too red-faced; her sensible, truthful
 words seemed so wholesome, contrasted with the morbid illusions of her
 
 daughter.
-
-
 
 When Pelet awoke on the morning after his frenzy fit, he retained no
 
@@ -189,17 +185,3 @@ in my ear; a certain face, so intelligent, yet so docile, so reflective,
 yet so soft, in my eyes; a certain cast of character, at once proud
 
 and pliant, sensitive and sagacious, serious and ardent, in my head; a
-
-certain tone of feeling, fervid and modest, refined and practical, pure
-
-and powerful, delighting and troubling my [[Memory|memory]]--visions of new ties I
-
-longed to contract, of new duties I longed to undertake, had taken the
-
-rover and the [[Rebel|rebel]] out of me, and had shown [[Endurance|endurance]] of my hated lot
-
-in the light of a Spartan virtue.
-
-
-
-But Pelet’s fury subsided; a fortnight sufficed for its rise, progress,

@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 40 (part 3)"
+title: "Nicholas Nickleby — Chapter 40 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_40/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_40/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘Is there nobody in the [[house]] to cheer or help him?’ asked Nicholas.
+
+‘His father lives there, I believe,’ replied Tim, ‘and other people too;
+but no one seems to care much for the poor sickly cripple. I have asked
+him, very often, if I can do nothing for him; his answer is always the
+same. “Nothing.” His voice is growing weak of late, but I can SEE that
+he makes the old reply. He can’t leave his bed now, so they have moved
+it close beside the [[Window|window]], and there he lies, all day: now looking at
+the sky, and now at his [[Flowers|flowers]], which he still makes shift to trim and
+[[Water|water]], with his own thin hands. At [[Night|night]], when he sees my candle, he
+draws back his curtain, and [[Leaves|leaves]] it so, till I am in bed. It seems
+such company to him to know that I am there, that I often sit at my
+[[Window|window]] for an hour or more, that he may see I am still awake; and
+sometimes I get up in the [[Night|night]] to look at the dull [[Melancholy|melancholy]] light in
+his little room, and [[Wonder|wonder]] whether he is awake or sleeping.
 
 ‘The [[Night|night]] will not be long coming,’ said Tim, ‘when he will [[Sleep|sleep]], and
 never wake again on earth. We have never so much as shaken hands in all
@@ -113,34 +129,3 @@ and what she was. ‘I should have known her among ten thousand,’ thought
 Nicholas. And with that he walked up and down the room, and recalling
 her face and figure (of which he had a peculiarly vivid remembrance),
 discarded all other subjects of reflection and dwelt upon that [[Alone|alone]].
-
-At length Tim Linkinwater came back--provokingly cool, and with papers
-in his hand, and a pen in his mouth, as if nothing had happened.
-
-‘Is she quite recovered?’ said Nicholas, impetuously.
-
-‘Who?’ returned Tim Linkinwater.
-
-‘Who!’ repeated Nicholas. ‘The young lady.’
-
-‘What do you make, Mr. Nickleby,’ said Tim, taking his pen out of his
-mouth, ‘what do you make of four hundred and twenty-seven times three
-thousand two hundred and thirty-eight?’
-
-‘Nay,’ returned Nicholas, ‘what do you make of my question first? I
-asked you--’
-
-‘About the young lady,’ said Tim Linkinwater, putting on his spectacles.
-‘To be sure. Yes. Oh! she’s very [[Well|well]].’
-
-‘Very [[Well|well]], is she?’ returned Nicholas.
-
-‘Very [[Well|well]],’ replied Mr. Linkinwater, gravely.
-
-‘Will she be able to go [[Home|home]] today?’ asked Nicholas.
-
-‘She’s gone,’ said Tim.
-
-‘Gone!’
-
-‘Yes.’

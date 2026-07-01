@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 44 (part 1)"
+title: "Great Expectations — Chapter 44 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -149,12 +149,3 @@ hands upon her stick, that she might regard me the more attentively.
 ago, without his knowledge, and I don’t want to be betrayed. Why I fail
 in my ability to finish it, I cannot explain. It is a part of the
 secret which is another person’s and not mine.”
-
-She gradually withdrew her eyes from me, and turned them on the [[Fire|fire]].
-After watching it for what appeared in the [[Silence|silence]] and by the light of
-the slowly wasting candles to be a long [[Time|time]], she was roused by the
-collapse of some of the red coals, and looked towards me again—at
-first, vacantly—then, with a gradually concentrating attention. All
-this [[Time|time]] [[Estella]] knitted on. When [[Miss Havisham]] had fixed her
-attention on me, she said, speaking as if there had been no lapse in
-our dialogue,—

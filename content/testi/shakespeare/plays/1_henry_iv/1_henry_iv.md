@@ -1,5 +1,5 @@
 ---
-title: "1 [[Henry IV|HENRY IV]]"
+title: "1 HENRY IV"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/1-henry-iv-(shakespeare)"

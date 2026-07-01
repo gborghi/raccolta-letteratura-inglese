@@ -14,6 +14,28 @@ tags:
 </nav>
 
 
+We reached [[Columbus]] shortly before seven o’[[Clock|clock]], and stayed there, to
+refresh, that day and [[Night|night]]: having excellent apartments in a very large
+unfinished hotel called the Neill [[house|House]], which were richly fitted with
+the polished wood of the black walnut, and opened on a handsome portico
+and stone verandah, like rooms in some Italian mansion.  The town is
+clean and pretty, and of course is ‘going to be’ much larger.  It is the
+seat of the State legislature of Ohio, and lays claim, in consequence, to
+some consideration and importance.
+
+There being no stage-coach next day, upon the [[Road|road]] we wished to take, I
+hired ‘an extra,’ at a reasonable charge to carry us to Tiffin; a small
+town from whence there is a railroad to Sandusky.  This extra was an
+ordinary four-[[Horse|horse]] stage-coach, such as I have described, changing
+horses and drivers, as the stage-coach would, but was exclusively our own
+for the [[Journey|journey]].  To ensure our having horses at the proper stations, and
+being incommoded by no strangers, the proprietors sent an agent on the
+box, who was to accompany us the whole way through; and thus attended,
+and bearing with us, besides, a hamper full of savoury cold meats, and
+fruit, and wine, we started off again in high spirits, at half-past six
+o’[[Clock|clock]] next morning, very much delighted to be by ourselves, and
+disposed to enjoy even the roughest [[Journey|journey]].
+
 It was [[Well|well]] for us, that we were in this [[Humour|humour]], for the [[Road|road]] we went
 over that day, was certainly enough to have shaken tempers that were not
 resolutely at Set Fair, down to some inches below Stormy.  At one [[Time|time]] we
@@ -44,7 +66,7 @@ coaches.  Never did it make the smallest approach to one’s experience of
 the proceedings of any sort of vehicle that goes on wheels.
 
 Still, it was a fine day, and the temperature was delicious, and though
-we had left [[Summer]] behind us in the west, and were fast leaving [[Spring]],
+we had left [[Summer]] behind us in the west, and were fast leaving [[spring|Spring]],
 we were moving towards Niagara and [[Home|home]].  We alighted in a pleasant wood
 towards the middle of the day, dined on a fallen tree, and leaving our
 best fragments with a cottager, and our worst with the pigs (who swarm in
@@ -87,37 +109,3 @@ blue, and long; and as the vivid streaks came darting in among the
 crowded branches, and the thunder rolled gloomily above the tree tops,
 one could scarcely help thinking that there were better neighbourhoods at
 such a [[Time|time]] than thick woods afforded.
-
-At length, between ten and eleven o’[[Clock|clock]] at [[Night|night]], a few feeble lights
-appeared in the distance, and Upper Sandusky, an Indian village, where we
-were to stay till morning, lay before us.
-
-They were gone to bed at the log Inn, which was the only [[house]] of
-entertainment in the place, but soon answered to our knocking, and got
-some tea for us in a sort of kitchen or common room, tapestried with old
-newspapers, pasted against the wall.  The bed-chamber to which my wife
-and I were shown, was a large, low, ghostly room; with a quantity of
-withered branches on the hearth, and two doors without any fastening,
-opposite to each other, both opening on the black [[Night|night]] and wild country,
-and so contrived, that one of them always blew the other open: a novelty
-in domestic architecture, which I do not remember to have seen before,
-and which I was somewhat disconcerted to have forced on my attention
-after getting into bed, as I had a considerable sum in gold for our
-travelling expenses, in my dressing-case.  Some of the luggage, however,
-piled against the panels, soon settled this difficulty, and my [[Sleep|sleep]]
-would not have been very much affected that [[Night|night]], I believe, though it
-had failed to do so.
-
-My Boston friend climbed up to bed, somewhere in the roof, where another
-guest was already snoring hugely.  But being bitten beyond his power of
-[[Endurance|endurance]], he turned out again, and fled for shelter to the coach, which
-was airing itself in front of the [[house]].  This was not a very politic
-step, as it turned out; for the pigs scenting him, and looking upon the
-coach as a kind of pie with some manner of meat inside, grunted round it
-so hideously, that he was afraid to come out again, and lay there
-shivering, till morning.  Nor was it possible to warm him, when he did
-come out, by means of a glass of brandy: for in Indian villages, the
-legislature, with a very good and wise intention, forbids the sale of
-spirits by tavern keepers.  The precaution, however, is quite
-inefficacious, for the Indians never fail to procure liquor of a worse
-kind, at a dearer price, from travelling pedlars.

@@ -1,5 +1,5 @@
 ---
-title: "[[longbow2]] — Chapter 7"
+title: "longbow2 — Chapter 7"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/longbow2-(chesterton)"
@@ -18,7 +18,6 @@ Chapter VII
 
 The Unprecedented Architecture
 of Commander Blair
-
 
 The Earl of Eden had become Prime Minister for the third [[Time|time]],
 and his face and figure were therefore familiar in the political
@@ -339,7 +338,6 @@ about your intentions touching Welkin [[Castle]], my own estate,
 as it would enable me to make my own arrangements.--Yours very truly,
                                          "Welkyn of Welkin."
 
-
 "Who is Welkyn?" asked the puzzled politician; "he writes as if he knew me;
 but I can't recall him at the moment.  And where is Welkin [[Castle]]? 
 We must look at the maps again."
@@ -375,7 +373,6 @@ to make a protest of a more public kind; and when you next hear
 from me it will be in the form of a general appeal to the justice
 of the English people.--Yours truly,
                                           Welkyn of Welkin."
-
 
 The historic and even heroic traditions of Welkin [[Castle]] kept a
 dozen of the Prime Minister's private secretaries busy for a week,
@@ -507,14 +504,12 @@ about private property in air.  The most important of the documents,
 which Lord Eden studied more attentively, though with a grim smile,
 began with the sentence in large letters:
 
-
 "An Englishman's [[house|House]] Is No Longer His [[Castle]] On The Soil Of England. 
 If It Is To Be His [[Castle]], It Must Be A [[Castle]] In The Air.
 
 "If There Seem To Be Something Unfamiliar And Even Fanciful In
 The Idea, We Reply That It Is Not Half So Fantastic To Own Your Own
 Houses In The Clouds As Not To Own Your Own Houses On The Earth."
-
 
 Then followed a passage of somewhat less solid political value,
 in which the acute reader might trace the influence of the poetical
@@ -533,7 +528,6 @@ of this section concluded with the great social and economic slogan:
 But when Lord Eden read on, his attention appeared graver than this
 particular sort of social reconstruction would seem to warrant. 
 The writer of the pamphlet resumed:
-
 
 "Do not be surprised if there seems to be something topsy-turvy
 in the above programme.  That topsy-turvydom marks the whole of
@@ -570,12 +564,10 @@ and keeping the [[house]] as [[Well|well]], is concealed from the public;
 along with the equally interesting fact that he is allowed to do
 these things chiefly because he lends money to the Prime Minister."
 
-
 The Prime Minister smiled still more grimly and glanced in a light
 yet lingering fashion at some of the accompanying leaflets. 
 They seemed to be in the form of electioneering leaflets, though not
 apparently connected with any particular election.
-
 
 "Vote for Crane.  He Said He would Heat His Hat and Did It. 
 Lord Normantowers said he would explain how people came to [[Swallow|swallow]]
@@ -587,7 +579,6 @@ and they didn't. It was your money he made to fly.
 
 "Vote for the League of the Long Bow.  They Are The Only Men Who
 Don't Tell Lies."
-
 
 The Prime Minister stood gazing after the vanishing cloud-[[Castle|castle]],
 as it faded into the clouds, with a curious expression in his eyes. 
@@ -795,9 +786,9 @@ It wasn't a pose with her, it was a poem; there are people like that,
 but very few of them like her.  I tried to keep up my end by telling
 her about the wonders of science, and the great new architecture
 of the air.  And then Sheila used to say, `And what is the good
-of them to me, when you HAVE built them.  I can see a [[Castle|castle]]
+of them to me, when you HAVE built them.  I can see a castle
 build itself without hands out of gigantic rocks of clear jewels
-in the sky every [[Night|night]].'  And she would point to where crimson
+in the sky every night.'  And she would point to where crimson
 or violet clouds hung in the green after-glow over the great Atlantic.
 
 "You would probably say I was mad, if you didn't happen to have
@@ -806,12 +797,12 @@ something she admired and that she thought science couldn't do.
 I was as morbid as a boy; I half thought she despised me; and I wanted
 half to prove her wrong and half to do whatever she thought right. 
 I resolved my science should beat the clouds at their own game; and I
-laboured till I'd actually made a sort of rainbow [[Castle|castle]] that would
+laboured till I'd actually made a sort of rainbow castle that would
 ride on the air.  I think at the back of my mind there was some sort
 of crazy idea of carrying her off into the clouds she lived among,
 as if she were literally an angel and ought to dwell on wings.  It never
 quite came to that, as you will hear, but as my experiments progressed
-my [[Romance|romance]] progressed too.  You won't need any telling about that;
+my romance progressed too.  You won't need any telling about that;
 I only want to tell you the end of the story because of the moral. 
 We made arrangements to get married; and I had to leave a good
 many of the arrangements to her, while I completed my great work. 
@@ -820,11 +811,11 @@ god descending in a cloud to carry a nymph up to Olympus.
 And I found she had already taken a very solid little brick villa
 on the edge of a town, having got it remarkably cheap and furnished
 it with most modern conveniences.  And when I talked to her about
-castles in the air, she laughed and said her [[Castle|castle]] had come down to
+castles in the air, she laughed and said her castle had come down to
 the ground.  That is the moral.  A woman, especially an Irishwoman,
 is always uncommonly practical when it comes to getting married. 
 That is what I meant by saying it is never the cow who jumps over
-the [[Moon|moon]].  It is the cow who stands firmly planted in the middle of
+the moon.  It is the cow who stands firmly planted in the middle of
 the three acres; and who always counts in any struggle of the land. 
 That is why there must be women in this story, especially like
 those in your story and Pierce's, women who come from the land. 
@@ -832,11 +823,11 @@ When the world needs a Crusade for communal ideals, it is best
 waged by men without ties, like the Franciscans.  But when it comes
 to a fight for private property--you can't keep women out of that. 
 You can't have the family farm without the family.  You must have
-concrete Christian [[Marriage|marriage]] again:  you can't have solid small
+concrete Christian marriage again:  you can't have solid small
 property with all this vagabond polygamy; a harem that isn't even
-a [[Home|home]]."
+a home."
 
-Green nodded and [[Rose|rose]] slowly to his feet, with his hands in his pockets.
+Green nodded and rose slowly to his feet, with his hands in his pockets.
 
 "When it comes to a fight," he said.  "When I look at these enormous
 underground preparations, it is not difficult to infer that you
@@ -847,7 +838,7 @@ decided that.  And the others may not understand exactly what they
 are doing; but he does."
 
 And Blair knocked out his pipe and stood up, to resume his work
-in that mountain laboratory, at about the same [[Time|time]] at which Lord
+in that mountain laboratory, at about the same time at which Lord
 Eden awoke from his smiling meditations; and, lighting a cigarette,
 went languidly indoors.
 
@@ -861,7 +852,7 @@ was this bald, broad and menacing new fact; a peasantry.
 The class of small farmers already existed, and might yet be found
 fighting for its farms like the same class all over the world. 
 It was no longer certain that the sweeping social adjustments
-settled in that [[Garden|garden]] could be applied to the whole English land. 
+settled in that garden could be applied to the whole English land. 
 But the story of how far his doubts were justified, and how far
 his whole project fared, is a part of the story of The Ultimate
 Ultimatum of the League of the Long Bow, after which the exhausted

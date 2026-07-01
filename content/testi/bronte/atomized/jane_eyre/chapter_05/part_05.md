@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 5 (part 5)"
+title: "Jane Eyre — Chapter 5 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_05/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_06/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Then this [[house]] does not belong to that tall lady who wears a watch,
+and who said we were to have some bread and [[cheese]]?”
+
+“To Miss Temple? Oh, no! I wish it did: she has to answer to Mr.
+Brocklehurst for all she does. Mr. Brocklehurst buys all our food and
+all our clothes.”
 
 “Does he live here?”
 

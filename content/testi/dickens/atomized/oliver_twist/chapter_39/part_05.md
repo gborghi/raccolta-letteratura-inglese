@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 39 (part 5)"
+title: "Oliver Twist — Chapter 39 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_39/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_40/part_01">part 01 ›</a></div>
 </nav>
 
+
+“The laudanum has taken effect at last,” murmured the girl, as she [[Rose|rose]]
+from the bedside. “I may be too late, even now.”
+
+She hastily dressed herself in her bonnet and shawl: looking fearfully
+round, from [[Time|time]] to [[Time|time]], as if, despite the sleeping draught, she
+expected every moment to feel the pressure of Sikes’s heavy hand upon
+her shoulder; then, stooping softly over the bed, she kissed the
+robber’s lips; and then opening and closing the room-door with
+noiseless touch, hurried from the [[house]].
 
 A watchman was crying half-past nine, down a dark passage through which
 she had to pass, in gaining the main thoroughfare.

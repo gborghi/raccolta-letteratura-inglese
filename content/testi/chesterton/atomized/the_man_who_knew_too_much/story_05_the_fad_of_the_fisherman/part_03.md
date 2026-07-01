@@ -14,6 +14,19 @@ tags:
 </nav>
 
 
+against the stump of a tree and facing toward the other bank, so
+
+that his face could not be seen, but the shape of his head was
+
+unmistakable.
+"He doesn't like to be disturbed when he's fishing," continued
+
+Harker. "It's a sort of fad of his to eat nothing but fish, and he's
+
+very proud of catching his own. Of course he's all for simplicity,
+
+like so many of these millionaires. He likes to come in saying he's
+
 worked for his daily bread like a laborer."
 "Does he explain how he blows all the glass and stuffs all the
 
@@ -170,17 +183,3 @@ as was his reprehensible habit; he had evidently no appetite for
 catching worms. But the other guests seemed to have felt a similar
 
 indifference, and they helped themselves to breakfast from the
-
-sideboard at intervals during the hours verging upon lunch. So that
-
-it was not many hours later when the first sensation of that strange
-
-day came upon them. It came in the form of a young man with light
-
-hair and a candid expression, who came sculling down the [[River|river]] and
-
-disembarked at the landing stage. It was, in fact, no other than Mr.
-
-Harold March, whose [[Journey|journey]] had begun far away up the [[River|river]] in the
-
-earliest hours of that day. He arrived late in the afternoon, having

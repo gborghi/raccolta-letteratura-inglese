@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 47: MARTHA (part 2)"
+title: "David Copperfield — Chapter 47: MARTHA (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_47_martha/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_47_martha/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘I can’t keep away from it. I can’t forget it. It haunts me day and
+[[Night|night]]. It’s the only thing in all the world that I am fit for, or that’s
+fit for me. Oh, the dreadful [[River|river]]!’
+
+The thought passed through my mind that in the face of my companion,
+as he looked upon her without speech or motion, I might have read his
+niece’s [[history]], if I had known nothing of it. I never saw, in any
+painting or reality, horror and compassion so impressively blended. He
+shook as if he would have fallen; and his hand--I touched it with my
+own, for his appearance alarmed me--was deadly cold.
 
 ‘She is in a state of frenzy,’ I whispered to him. ‘She will speak
 differently in a little [[Time|time]].’
@@ -125,13 +136,3 @@ change that’s come, in course of [[Time|time]], upon me, when you think it
 likely. [[Well]]!’ he paused a moment, then went on. ‘You doen’t understand
 how ‘tis that this here gentleman and me has wished to speak to you. You
 doen’t understand what ‘tis we has afore us. Listen now!’
-
-His influence upon her was complete. She stood, shrinkingly, before him,
-as if she were afraid to meet his eyes; but her passionate sorrow was
-quite hushed and mute.
-
-‘If you heerd,’ said Mr. Peggotty, ‘owt of what passed between Mas’r
-Davy and me, th’ [[Night|night]] when it snew so hard, you know as I have
-been--wheer not--fur to seek my dear niece. My dear niece,’ he repeated
-steadily. ‘Fur she’s more dear to me now, Martha, than she was dear
-afore.’

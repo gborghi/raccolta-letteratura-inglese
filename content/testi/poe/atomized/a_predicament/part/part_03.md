@@ -1,5 +1,5 @@
 ---
-title: "[[A Predicament]] (part 3)"
+title: "A Predicament (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/a-predicament-(poe)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/a_predicament/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/a_predicament/part/part_04">part 04 ›</a></div>
 </nav>
 
+
+      dial-plate of a gigantic [[Clock|clock]], and must have appeared, from the
+
+      street, as a large key-hole, such as we see in the face of the
+
+      French watches. No [[Doubt|doubt]] the true object was to admit the arm of
+
+      an attendant, to adjust, when necessary, the hands of the [[Clock|clock]]
 
       from within. I observed also, with surprise, the immense size of
 
@@ -193,17 +201,3 @@ tags:
       side of the steeple, lodged in the rain gutter which ran along
 
       the eaves of the main building. The loss of the eye was not so
-
-      much as the insolent air of independence and contempt with which
-
-      it regarded me after it was out. There it lay in the gutter just
-
-      under my nose, and the airs it gave itself would have been
-
-      ridiculous had they not been disgusting. Such a winking and
-
-      blinking were never before seen. This behavior on the part of my
-
-      eye in the gutter was not only irritating on account of its
-
-      manifest insolence and shameful ingratitude, but was also

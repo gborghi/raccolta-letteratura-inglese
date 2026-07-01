@@ -414,7 +414,7 @@ all of them."
 is at the end of the grounds of Sir Humphrey Gwynne, better known as Mr.
 Justice Gwynne, the old judge who made such a row about spying during
 the war. The [[house]] next door to it belongs to a wealthy cigar merchant.
-He comes from Spanish-[[America]] and looks very swarthy and Spanish
+He comes from Spanish-[[america|America]] and looks very swarthy and Spanish
 himself; but he bears the very English name of Buller. The [[house]] beyond
 that--did you hear that noise?"
 
@@ -811,8 +811,8 @@ place without possible exit, when it would obviously be much more
 sensible to slip out into the street. Sir Matthew Blake also made
 effective use of the mystery that still rested upon the motive for the
 murder. Indeed, upon this point, the passages between Sir Matthew Blake
-and Sir [[arthur|Arthur]] Travers, the equally brilliant advocate for the
-prosecution, turned rather to the advantage of the prisoner. Sir [[arthur|Arthur]]
+and Sir [[Arthur]] Travers, the equally brilliant advocate for the
+prosecution, turned rather to the advantage of the prisoner. Sir [[Arthur]]
 could only throw out suggestions about a Bolshevist conspiracy which
 sounded a little thin. But when it came to investigating the facts of
 Orm's mysterious behaviour that [[Night|night]] he was considerably more
@@ -821,12 +821,12 @@ effective.
 The prisoner went into the witness-box, chiefly because his astute
 counsel calculated that it would create a bad impression if he did not.
 But he was almost as uncommunicative to his own counsel as to the
-prosecuting counsel. Sir [[arthur|Arthur]] Travers made all possible capital out of
-his stubborn [[Silence|silence]], but did not succeed in breaking it. Sir [[arthur|Arthur]] was
+prosecuting counsel. Sir [[Arthur]] Travers made all possible capital out of
+his stubborn [[Silence|silence]], but did not succeed in breaking it. Sir [[Arthur]] was
 a long, gaunt man, with a long, cadaverous face, in striking contrast to
 the sturdy figure and bright, bird-like eye of Sir Matthew Blake. But
 if Sir Matthew suggested a very cocksure sort of cock â sparrow, Sir
-[[arthur|Arthur]] might more truly have been compared to a crane or stork; as he
+[[Arthur]] might more truly have been compared to a crane or stork; as he
 leaned forward, prodding the poet with questions, his long nose might
 have been a long beak.
 
@@ -851,11 +851,11 @@ suppose?"
 
 "Yes."
 
-"Is it a secret?" asked Sir [[arthur|Arthur]], with adamantine jocularity.
+"Is it a secret?" asked Sir [[Arthur]], with adamantine jocularity.
 
 "It's a secret from you," answered the poet.
 
-It was upon this suggestion of a secret that Sir [[arthur|Arthur]] seized in
+It was upon this suggestion of a secret that Sir [[Arthur]] seized in
 developing his line of accusation. With a boldness which some thought
 unscrupulous, he turned the very mystery of the motive, which was the
 strongest part of his opponent's case, into an argument for his own. He
@@ -877,7 +877,7 @@ with this stale tag about 'motive,' when every other fact in the case,
 every glaring incongruity, every gaping [[Silence|silence]], tells us that we stand
 in the presence of [[Cain]]."
 
-"I never knew Sir [[arthur|Arthur]] so excited," said Bagshaw to his group of
+"I never knew Sir [[Arthur]] so excited," said Bagshaw to his group of
 companions afterwards. "Some people are saying he went beyond the usual
 limit and that the prosecutor in a murder case oughtn't to be so
 vindictive. But I must say there was something downright creepy about
@@ -889,7 +889,7 @@ hair of a vivid unnatural yellow; and that he thought it had been dyed
 by a trick learned in India, where they dye horses green or blue. Then
 there was his queer, stony [[Silence|silence]], like a troglodyte's; I'll never deny
 that it all worked me up until I felt there was a sort of [[Monster|monster]] in the
-dock. If that was only Sir [[arthur|Arthur]]'s eloquence, then he certainly took a
+dock. If that was only Sir [[Arthur]]'s eloquence, then he certainly took a
 heavy responsibility in putting so much passion into it."
 
 "He was a friend of poor Gwynne's, as a matter of fact," said Underhill,
@@ -898,7 +898,7 @@ legal dinner lately. I dare say that's why he feels so strongly in this
 case. I suppose it's doubtful whether a man ought to act in such a case
 on mere personal feeling."
 
-"He wouldn't," said Bagshaw. "I bet Sir [[arthur|Arthur]] Travers wouldn't act only
+"He wouldn't," said Bagshaw. "I bet Sir [[Arthur]] Travers wouldn't act only
 on feeling, however strongly he felt. He's got a very stiff sense of his
 own professional position. He's one of those men who are ambitious even
 when they've satisfied their [[Ambition|ambition]]. I know nobody who'd take more
@@ -960,13 +960,13 @@ nowhere."
 
 "Why, because it led nowhere, of course," cried [[Father Brown]]
 explosively. "Anybody who clapped eyes on that blind alley ending in mid
--air might have known an [[Artist|artist]] would want to go there, just as a [[Child|child]]
+-air might have known an [[artist]] would want to go there, just as a [[Child|child]]
 would."
 
 He stood blinking for a moment, and then said apologetically: "I beg
 your pardon; but it seems odd that none of them understand these things.
 And then there was another thing. Don't you know that everything has,
-for an [[Artist|artist]], one aspect or angle that is exactly right? A tree, a cow,
+for an [[artist]], one aspect or angle that is exactly right? A tree, a cow,
 and a cloud, in a certain relation only, mean something; as three
 letters, in one order only, mean a word. [[Well]], the view of that
 illuminated [[Garden|garden]] from that unfinished bridge was the right view of it.
@@ -1133,23 +1133,23 @@ grey corridor under that green palm. It is as if it was a [[Magic|magic]] glass
 and had a different fate from others, as if its picture could somehow
 survive it, hanging in the air of that twilight [[house]] like a spectre; or
 at least like an abstract diagram, the [[skeleton]] of an argument. We
-could, at least, conjure out of the void the thing that Sir [[arthur|Arthur]]
+could, at least, conjure out of the void the thing that Sir [[Arthur]]
 Travers saw. And by the way, there was one very true thing that you said
 about him."
 
 "I'm glad to hear it," said Bagshaw with grim good â [[Nature|nature]]. "what was
 it?"
 
-"You said," observed the priest, "that Sir [[arthur|Arthur]] must have some good
+"You said," observed the priest, "that Sir [[Arthur]] must have some good
 reason for wanting to get Orm hanged."
 
 A week later the priest met the police [[Detective|detective]] once more, and learned
 that the authorities had already been moving on the new lines of inquiry
 when they were interrupted by a sensational event.
 
-"Sir [[arthur|Arthur]] Travers," began [[Father Brown]].
+"Sir [[Arthur]] Travers," began [[Father Brown]].
 
-"Sir [[arthur|Arthur]] Travers is dead," said Bagshaw, briefly.
+"Sir [[Arthur]] Travers is dead," said Bagshaw, briefly.
 
 "Ah!" said the other, with a little catch in his voice; "you mean that
 he--"
@@ -1262,7 +1262,7 @@ Mr. Simon Bankes, the father of the family, was at once better read and
 more old-fashioned than the rest. He was a sturdy man, with a short
 grey beard and a brow barred with wrinkles. He had a turn for anecdotes
 and reminiscence, and he distinctly remembered the days when Londoners
-had lain awake listening for Mike Moonshine as they did for [[Spring]]-
+had lain awake listening for Mike Moonshine as they did for [[spring|Spring]]-
 heeled Jack. Then there was his wife, a thin, dark lady. There was a
 sort of acid elegance about her, for her family had much more money than
 her husband's, if rather less [[Education|education]]; and she even possessed a very
@@ -2687,12 +2687,12 @@ caught up two things that you had seen a hundred times: the length of
 old blue curtain that he wrapped round his head, and the Oriental
 musical instrument you must have often seen in that heap of Oriental
 curiosities. The rest was atmosphere and acting, very fine acting, for
-he is a very fine [[Artist|artist]] in crime."
+he is a very fine [[artist]] in crime."
 
 "Jameson!" exclaimed Boyle incredulously. "He was such a dull old stick
 that I never even noticed him."
 
-"Precisely," said the priest, "he was an [[Artist|artist]]. If he could act a
+"Precisely," said the priest, "he was an [[artist]]. If he could act a
 wizard or a troubadour for six minutes, do you think he could not act a
 clerk for six weeks?"
 
@@ -3504,7 +3504,7 @@ cloud on his brow as he put on his hat and went out into the [[Night|night]].
 
 V THE VANISHING OF VAUDREY
 
-SIR [[arthur|ARTHUR]] VAUDREY, in his light-grey [[Summer|summer]] suit, and wearing on his
+SIR [[Arthur|ARTHUR]] VAUDREY, in his light-grey [[Summer|summer]] suit, and wearing on his
 grey head the white hat which he so boldly affected, went walking
 briskly up the [[Road|road]] by the [[River|river]] from his own [[house]] to the little group
 of houses that were almost like outhouses to his own, entered that
@@ -3518,7 +3518,7 @@ little more than a small and strangely-isolated street. It stood in
 the middle of wide and open fields and plains, a mere string of the four
 or five shops absolutely needed by the neighbours; that is, by a few
 farmers and the family at the [[Great House|great house]]. There was a butcher's at the
-corner, at which, it appeared, Sir [[arthur|Arthur]] had last been seen. He was
+corner, at which, it appeared, Sir [[Arthur]] had last been seen. He was
 seen by two young men staying at his [[house]]--Evan [[smith|Smith]], who was acting as
 his secretary, and John Dalmon, who was generally supposed to be engaged
 to his ward. There was next to the butcher's a small shop combining a
@@ -3533,7 +3533,7 @@ goblets of very wan, green lemonade, completed the block of buildings;
 for the only real and Christian inn in the neighbourhood stood by itself
 some way, down the main [[Road|road]]. Between the inn and the [[Hamlet|hamlet]] was a [[Cross|cross]]
 -roads, at which stood a policeman and a uniformed official of a
-motoring club; and both agreed that Sir [[arthur|Arthur]] had never passed that
+motoring club; and both agreed that Sir [[Arthur]] had never passed that
 point on the [[Road|road]].
 
 It had been at an early hour of a very brilliant [[Summer|summer]] day that the old
@@ -3551,7 +3551,7 @@ sensitive and set a little tightly, as if by an act of will. He was the
 squire of all that country and the owner of the little [[Hamlet|hamlet]]. In that
 sort of place everybody not only knows everybody else, but generally
 knows where anybody is at any given moment. The normal course would have
-been for Sir [[arthur|Arthur]] to walk to the village, to say whatever he wanted to
+been for Sir [[Arthur]] to walk to the village, to say whatever he wanted to
 say to the butcher or anybody else, and then walk back to his [[house]]
 again, all in the course of about half an hour: as the two young men did
 when they had bought their cigarettes. But they saw nobody on the [[Road|road]]
@@ -3615,11 +3615,11 @@ steadily, with a frown that threw his hollow eyes into dense [[Shadow|shadow]].
 "[[Well]], you're right enough," he said at last. "I suppose I shall have to
 tell somebody. And you seem a safe sort of person to tell."
 
-"Do you know what has happened to Sir [[arthur|Arthur]]?" asked [[Father Brown]]
+"Do you know what has happened to Sir [[Arthur]]?" asked [[Father Brown]]
 calmly, as if it were the most casual matter in the world.
 
 "Yes," said the secretary harshly, "I think I know what has happened to
-Sir [[arthur|Arthur]]."
+Sir [[Arthur]]."
 
 "A beautiful morning," said a bland voice in his ear; "a beautiful
 morning for a rather [[Melancholy|melancholy]] meeting."
@@ -3647,7 +3647,7 @@ houses are like dolls' houses, always open front and back, and there's
 hardly room to hide anybody, even if they wanted to hide him. And I'm
 sure they don't. Dalmon and I [[Cross|cross]]-examined them all yesterday;
 they're mostly little old women that couldn't hurt a fly. The men are
-nearly all away harvesting, except the butcher; and [[arthur|Arthur]] was seen
+nearly all away harvesting, except the butcher; and [[Arthur]] was seen
 coining out of the butcher's. And nothing could have happened along that
 stretch by the [[River|river]], for I was fishing there all day."
 
@@ -3692,7 +3692,7 @@ stick to it, though it really isn't my confession, but somebody else's."
 He stopped a moment, frowning and pulling his moustache; then he said,
 abruptly:
 
-"I believe Sir [[arthur|Arthur]] has bolted, and I believe I know why."
+"I believe Sir [[Arthur]] has bolted, and I believe I know why."
 
 There was a [[Silence|silence]] and then he exploded again.
 
@@ -3710,7 +3710,7 @@ explanation of Vaudrey's disappearance. I am absolutely convinced that
 Dalmon is the explanation."
 
 "You mean," said the priest, with composure, "that Dalmon has killed Sir
-[[arthur|Arthur]]?"
+[[Arthur]]?"
 
 "No!" exploded [[smith|Smith]], with startling violence. "No, a hundred times! He
 hasn't done that, whatever else he's done. He isn't a murderer, whatever
@@ -3737,13 +3737,13 @@ people who are terribly conscientious, without any of that armour of
 habit and hard common sense that many conscientious people get. She is
 almost insanely sensitive and at the same [[Time|time]] quite unselfish. Her
 [[history]] is curious: she was left literally penniless like a foundling
-and Sir [[arthur|Arthur]] took her into his [[house]] and treated her with
+and Sir [[Arthur]] took her into his [[house]] and treated her with
 consideration, which puzzled many; for, without being hard on the old
 man, it was not much in his line. But, when she was about seventeen, the
 explanation came to her with a shock; for her guardian asked her to
 marry him. Now I come to the curious part of the story. Somehow or
 other, Sybil had heard from somebody (I rather suspect from old Abbott)
-that Sir [[arthur|Arthur]] Vaudrey, in his wilder youth, had committed some crime
+that Sir [[Arthur]] Vaudrey, in his wilder youth, had committed some crime
 or, at least, done some great wrong to somebody, which had got him into
 serious trouble. I don't know what it was. But it was a sort of
 [[nightmare]] to the girl at her crude sentimental age, and made him seem
@@ -3851,7 +3851,7 @@ Brown.
 Even [[smith|Smith]] stepped to the brink of the bank of turf and with difficulty
 repressed a cry rather like a scream.
 
-Sir [[arthur|Arthur]] Vaudrey was glaring and grinning up at him; the face was
+Sir [[Arthur]] Vaudrey was glaring and grinning up at him; the face was
 turned up so that he could have put his foot on it; the head was thrown
 back, with its wig of whitish yellow hair towards him, so that he saw
 the face upside down. This made it seem all the more like a part of a
@@ -3918,7 +3918,7 @@ the strip of sand.
 of course, a butcher would be an ideal performer with a large carving-
 knife. But you saw Vaudrey come out, and it isn't very probable that he
 stood in the outer shop while the butcher said: 'Good morning. Allow me
-to cut your throat! Thank you. And the next article, please?' Sir [[arthur|Arthur]]
+to cut your throat! Thank you. And the next article, please?' Sir [[Arthur]]
 doesn't strike me as the sort of man who'd have stood there with a
 pleasant smile while this happened. He was a very strong and vigorous
 man, with rather a violent temper. And who else, except the butcher,
@@ -3997,7 +3997,7 @@ the third he said again:
 
 "Tobacconist! Is the tobacconist by any chance... .? But I think I'll
 act on my guess till I know. Only, I'll tell you what it was I thought
-odd about Sir [[arthur|Arthur]]'s face."
+odd about Sir [[Arthur]]'s face."
 
 "And what was that?" asked his companion, pausing and resting on his
 oars for an instant.
@@ -4043,7 +4043,7 @@ example of the sort of little thing a certain sort of man often entirely
 forgets, when he has most carefully washed floors or destroyed stained
 rags.
 
-"Sir [[arthur|Arthur]] Vaudrey was shaved here yesterday morning, I think," said
+"Sir [[Arthur]] Vaudrey was shaved here yesterday morning, I think," said
 [[Father Brown]] in a level voice.
 
 To the barber, a small, bald-headed, spectacled man whose name was
@@ -4070,7 +4070,7 @@ kitchen; and then [[Father Brown]] went on.
 he asked for some cigarettes that were in the [[Window|window]]. You stepped
 outside for a moment, as shopmen often do, to make sure of what he
 meant; and in that moment of [[Time|time]] he perceived in the inner room the
-razor you had just laid down, and the yellow-white head of Sir [[arthur|Arthur]]
+razor you had just laid down, and the yellow-white head of Sir [[Arthur]]
 in the barber's chair; probably both glimmering in the light of that
 little [[Window|window]] beyond. It took but an instant for him to pick up the
 razor and cut the throat and come back to the counter. The victim would
@@ -4108,7 +4108,7 @@ all up to hear he really did this, after all."
 
 The priest still seemed to be in a sort of trance, like a man staring
 down into an abyss. At last his lips moved and he murmured, more as if
-it were a [[Prayer|prayer]] than an oath: "Merciful God, what a horrible [[Revenge|revenge]]!"
+it were a [[prayer]] than an oath: "Merciful God, what a horrible [[Revenge|revenge]]!"
 
 His friend questioned him, but he continued as if talking to himself.
 
@@ -4160,7 +4160,7 @@ the other. "Half modern politics consists of rich men blackmailing
 people. Your notion that it's nonsense rests on two illusions which are
 both nonsensical. One is, that rich men never want to be richer; the
 other is, that a man can only be blackmailed for money. It's the last
-that is in question here. Sir [[arthur|Arthur]] Vaudrey was acting not for avarice,
+that is in question here. Sir [[Arthur]] Vaudrey was acting not for avarice,
 but for vengeance. And he planned the most hideous vengeance I ever
 heard of."
 
@@ -4186,12 +4186,12 @@ tables, you had got used to the face of a fiend."
 "What on earth are you driving at?" demanded [[smith|Smith]], impatiently.
 
 "I speak in parables," replied the other in a rather sombre tone "Of
-course. Sir [[arthur|Arthur]] was not actually a fiend; he was a man with a
+course. Sir [[Arthur]] was not actually a fiend; he was a man with a
 character which he had made out of a temperament that might also have
 been turned to good. But those goggling, suspicious eyes; that tight,
 yet quivering mouth, might have told you something if you had not been
 so used to them. You know, there are physical bodies on which a wound
-will not heal. Sir [[arthur|Arthur]] had a mind of that sort. It was as if it
+will not heal. Sir [[Arthur]] had a mind of that sort. It was as if it
 lacked a skin; he had a feverish vigilance of [[Vanity|vanity]]; those strained
 eyes were open with an insomnia of egoism. Sensibility need not be
 selfishness. Sybil Rye, for instance, has the same thin skin and manages
@@ -4247,7 +4247,7 @@ whole plot and stood stunned as I did when I first understood it. The
 moment the bride and bridegroom were married, the bridegroom would be
 arrested and hanged. The fastidious lady, who objected to a husband who
 had been in [[Prison|prison]], should have no husband except a husband on the
-gallows. That is what Sir [[arthur|Arthur]] Vaudrey considered an artistic rounding
+gallows. That is what Sir [[Arthur]] Vaudrey considered an artistic rounding
 off of the story."
 
 Evan [[smith|Smith]], deadly pale, was silent; and, far away, down the perspective
@@ -4263,7 +4263,7 @@ It was in [[Silence|silence]] that they covered the rest of the distance and met
 big doctor coming towards them, with his large gloved hands thrown out
 in a sort of despairing gesture and his grey beard tossing in the [[Wind|wind]].
 
-"There is dreadful news," he said. "[[arthur|Arthur]]'s [[Body|body]] has been found. He
+"There is dreadful news," he said. "[[Arthur]]'s [[Body|body]] has been found. He
 seems to have died in his [[Garden|garden]]."
 
 "Dear me," said [[Father Brown]], rather mechanically. "How dreadful!"
@@ -5274,7 +5274,7 @@ cataleptic, and moved gravely round another quarter segment of the
 circle, and took up his position outside their own row of arches,
 standing with his back to them and looking now towards the idol's back.
 It was obvious that he was moving by stages round the whole circle, like
-a hand round a [[Clock|clock]]; but pausing for [[Prayer|prayer]] or contemplation.
+a hand round a [[Clock|clock]]; but pausing for [[prayer]] or contemplation.
 
 "What is his religion?" asked Hardcastle, with a faint touch of
 impatience.
@@ -5664,11 +5664,11 @@ spread under the spreading tree to the pale lengths of winding [[Road|road]], at
 the end of which a white car was waiting. In the distance a [[Melancholy|melancholy]]
 mansion with four towers like a [[Castle|castle]], which in the grey evening had
 been but a dim and distant huddle of walls like a crumbling cloud,
-seemed to [[Spring|spring]] into the foreground, and stood up with all its
+seemed to [[spring]] into the foreground, and stood up with all its
 embattled, roofs and blank and staring windows. And in this, at least,
 the light had something in it of revelation. For to some of those
 grouped under the tree that [[Castle|castle]] was, indeed, a thing faded and almost
-forgotten, which was to prove its power to [[Spring|spring]] up again in the
+forgotten, which was to prove its power to [[spring]] up again in the
 foreground of their lives.
 
 The light also clothed for an instant, in the same silver splendour, at
@@ -5782,7 +5782,7 @@ elder of the two, but he always played the part of worshipper, with
 Maurice Mair as a god. And, by his account, Maurice Mair was certainly a
 [[Wonder|wonder]]. James was no [[Fool|fool]], and very good at his own political job; but
 it seems that Maurice could do that and everything else; that he was a
-brilliant [[Artist|artist]] and amateur actor and musician, and all the rest of it.
+brilliant [[artist]] and amateur actor and musician, and all the rest of it.
 James was very good-looking himself, long and strong and strenuous,
 with a high-bridged nose; though I suppose the young people would
 think he looked very quaint with his beard divided into two bushy
@@ -5864,7 +5864,7 @@ rear; and the latter said abruptly, lowering his voice:
 "I don't want that little cad Cockspur to hear but as you've asked you'd
 better know. It's the one thing I can't forgive Marne; but I suppose
 these [[Monks|monks]] have drilled him that way. My wife, who had been the best
-friend he ever had in [[America]], actually came to that [[house]] when he was
+friend he ever had in [[america|America]], actually came to that [[house]] when he was
 walking in the [[Garden|garden]]. He was looking at the ground like a monk, and
 hidden in a black hood that was really as ridiculous as any mask. She
 had sent her card in, and stood there in his very path. And lie walked

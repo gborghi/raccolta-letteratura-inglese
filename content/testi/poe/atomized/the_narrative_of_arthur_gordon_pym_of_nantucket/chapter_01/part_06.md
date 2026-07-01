@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 2 (part 6)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 2 (part 6)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -13,6 +13,36 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_01/part_05">‹ part 05</a><a class="ex-next" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_02/part_01">part 01 ›</a></div>
 </nav>
 
+
+pushed it strongly--it was nevertheless firm: with all my strength--it
+
+still did not give way: with rage, with fury, with [[Despair|despair]]--it set at
+
+defiance my utmost efforts; and it was evident, from the unyielding
+
+[[Nature|nature]] of the resistance, that the hole had either been discovered and
+
+effectually nailed up, or that some immense weight had been placed upon
+
+it, which it was useless to think of removing.
+
+
+
+My sensations were those of extreme horror and dismay. In vain I
+
+attempted to reason on the probable cause of my being thus entombed. I
+
+could summon up no connected chain of reflection, and, sinking on the
+
+floor, gave way, unresistingly, to the most gloomy imaginings, in which
+
+the dreadful deaths of thirst, famine, suffocation, and premature
+
+interment, crowded upon me as the prominent disasters to be
+
+encountered. At length there returned to me some portion of presence of
+
+mind. I arose, and felt with my fingers for the seams or cracks of the
 
 aperture. Having found them, I examined them closely to ascertain if
 

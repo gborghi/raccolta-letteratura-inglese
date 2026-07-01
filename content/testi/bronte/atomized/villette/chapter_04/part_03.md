@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 4 (part 3)"
+title: "Villette — Chapter 4 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_04/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_06/part_01">part 01 ›</a></div>
 </nav>
 
+
+“I do not know,” she continued after a pause: “I cannot—_cannot_ see
+the reason; yet at this hour I can say with sincerity, what I never
+tried to say before, Inscrutable God, Thy will be done! And at this
+moment I can believe that [[Death|death]] will restore me to Frank. I never
+believed it till now.”
 
 “He is dead, then?” I inquired in a low voice.
 

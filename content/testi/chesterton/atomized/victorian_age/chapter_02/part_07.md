@@ -14,6 +14,44 @@ tags:
 </nav>
 
 
+introductions were the longer of the two. When we hear of Aunt Betsy
+
+Trotwood, we vividly envisage everything about her, from her gardening
+
+gloves to her seaside residence, from her hard, handsome face to her
+
+tame lunatic laughing at the bedroom [[Window|window]]. It is all so minutely true
+
+that she must be true also. We only feel inclined to walk round the
+
+English coast until we find that particular [[Garden|garden]] and that particular
+
+aunt. But when we turn from the aunt of Copperfield to the uncle of
+
+Pendennis, we are more likely to run round the coast trying to find a
+
+watering-place where he isn't than one where he is. The moment one sees
+
+Major Pendennis, one sees a hundred Major Pendennises. It is not a
+
+matter of mere realism. Miss Trotwood's bonnet and gardening tools and
+
+cupboard full of old-fashioned bottles are quite as true in the
+
+materialistic way as the Major's cuffs and corner table and toast and
+
+newspaper. Both writers are realistic: but Dickens writes realism in
+
+order to make the incredible credible. Thackeray writes it in order to
+
+make us recognise an old friend. Whether we shall be pleased to meet the
+
+old friend is quite another matter: I think we should be better pleased
+
+to meet Miss Trotwood, and find, as [[David Copperfield]] did, a new friend,
+
+a new world. But we recognise Major Pendennis even when we avoid him.
+
 Henceforth Thackeray can count on our seeing him from his wig to his
 
 [[Well|well]]-blacked boots whenever he chooses to say "Major Pendennis paid a
@@ -23,8 +61,6 @@ call." Dickens, on the other hand, had to keep up an incessant
 excitement about his characters; and no man on earth but he could have
 
 kept it up.
-
-
 
 It may be said, in approximate summary, that Thackeray is the novelist
 
@@ -45,8 +81,6 @@ in some trivial grimace: we smell the strong smell of social cliques
 now quite incongruous to us; and there stir in all the little rooms at
 
 once the hundred [[Ghosts|ghosts]] of oneself.
-
-
 
 For this purpose Thackeray was equipped with a singularly easy and
 
@@ -77,8 +111,6 @@ Fair_ and still more in _The Book of Snobs_, where he does make the
 masquerade. But he never quite did it in such a way as to turn the
 
 course of the Victorian Age.
-
-
 
 It may seem strange to say that Thackeray did not know enough of the
 
@@ -144,8 +176,6 @@ either sharply become very much more democratic or as rapidly become
 
 very much less so.
 
-
-
 There gathers round these two great novelists a considerable group of
 
 good novelists, who more or less [[Mirror|mirror]] their mid-Victorian mood. Wilkie
@@ -153,47 +183,3 @@ good novelists, who more or less [[Mirror|mirror]] their mid-Victorian mood. Wil
 Collins may be said to be in this way a lesser Dickens and Anthony
 
 Trollope a lesser Thackeray. Wilkie Collins is chiefly typical of his
-
-[[Time|time]] in this respect: that while his moral and religious conceptions
-
-were as mechanical as his carefully constructed fictitious conspiracies,
-
-he nevertheless informed the latter with a sort of involuntary mysticism
-
-which dealt wholly with the darker side of the [[Soul|soul]]. For this was one
-
-of the most peculiar of the problems of the Victorian mind. The idea of
-
-the [[Supernatural|supernatural]] was perhaps at as low an ebb as it had ever
-
-been--certainly much lower than it is now. But in spite of this, and in
-
-spite of a certain ethical cheeriness that was almost _de rigueur_--the
-
-strange fact remains that the only sort of supernaturalism the
-
-Victorians allowed to their imaginations was a sad supernaturalism. They
-
-might have [[Ghost|ghost]] stories, but not saints' stories. They could trifle
-
-with the curse or unpardoning prophecy of a [[Witch|witch]], but not with the
-
-pardon of a priest. They seem to have held (I believe erroneously) that
-
-the [[Supernatural|supernatural]] was safest when it came from below. When we think (for
-
-example) of the uncountable riches of religious art, imagery, ritual and
-
-popular legend that has clustered round Christmas through all the
-
-Christian ages, it is a truly extraordinary thing to reflect that
-
-Dickens (wishing to have in _The Christmas Carol_ a little happy
-
-supernaturalism by way of a change) actually had to make up a mythology
-
-for himself. Here was one of the rare cases where Dickens, in a real and
-
-human sense, did suffer from the lack of culture. For the rest, Wilkie
-
-Collins is these two elements: the mechanical and the mystical; both

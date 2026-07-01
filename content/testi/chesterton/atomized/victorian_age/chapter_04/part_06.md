@@ -14,6 +14,34 @@ tags:
 </nav>
 
 
+[[history|History]] is full of forgotten controversies; and those who speak of
+
+Socialism now have nearly all forgotten that for some [[Time|time]] it was an
+
+almost equal fight between Socialism and Anarchism for the leadership of
+
+the exodus from Capitalism. It is here that Herbert Spencer comes in
+
+logically, though not chronologically; also that much more interesting
+
+man, Auberon Herbert. Spencer has no special place as a man of letters;
+
+and a vastly exaggerated place as a philosopher. His real importance was
+
+that he was very nearly an Anarchist. The indefinable [[Greatness|greatness]] there is
+
+about him after all, in spite of the silliest and smuggest limitations,
+
+is in a certain consistency and completeness from his own point of
+
+view. There is something mediæval, and therefore manful, about writing a
+
+book about everything in the world. Now this simplicity expressed itself
+
+in politics in carrying the Victorian worship of liberty to the most
+
+ridiculous lengths; almost to the length of voluntary taxes and
+
 voluntary insurance against murder. He tried, in short, to solve the
 
 problem of the State by eliminating the State from it. He was resisted
@@ -26,8 +54,6 @@ thought we might perhaps get out of the mess if everybody did as he
 
 liked.
 
-
-
 Thus the Anarchists and Socialists fought a battle over the [[Death|death]]-bed of
 
 Victorian Industrialism; in which the Socialists (that is, those who
@@ -39,8 +65,6 @@ a complete victory and have almost exterminated their enemy. The
 Anarchist one meets here and there nowadays is a sad sight; he is
 
 disappointed with the future, as [[Well|well]] as with the past.
-
-
 
 This victory of the Socialists was largely a literary victory; because
 
@@ -138,8 +162,6 @@ widowers' houses?" There is a sort of insane equity about it which was
 
 what Bernard [[Shaw]] had the power to give, and gave.
 
-
-
 Out of the same social ferment arose a man of equally unquestionable
 
 genius, Mr. H. G. Wells. His first importance was that he wrote great
@@ -155,45 +177,3 @@ typical men of science, had treated the [[Moon|moon]] as a mere flat silver
 [[Mirror|mirror]] in which Man saw his own image--the Man in the [[Moon]]. Wells
 
 treated the [[Moon|moon]] as a globe, like our own; bringing forth monsters as
-
-moonish as we are earthy. The exquisitely penetrating political and
-
-social [[Satire|satire]] he afterwards wrote belongs to an age later than the
-
-Victorian. But because, even from the beginning, his whole trend was
-
-Socialist, it is right to place him here.
-
-
-
-While the old Victorian ideas were being disturbed by an increasing
-
-torture at [[Home|home]], they were also intoxicated by a new [[Romance|romance]] from
-
-abroad. It did not come from [[Italy]] with Rossetti and Browning, or from
-
-Persia with Fitzgerald: but it came from countries as remote, countries
-
-which were (as the simple phrase of that period ran) "painted red" on
-
-the map. It was an attempt to [[Reform|reform]] England through the newer nations;
-
-by the criticism of the forgotten colonies, rather than of the forgotten
-
-classes. Both Socialism and Imperialism were utterly alien to the
-
-Victorian idea. From the point of view of a Victorian [[aristocrat]] like
-
-Palmerston, Socialism would be the cheek of gutter snipes; Imperialism
-
-would be the intrusion of cads. But cads are not [[Alone|alone]] concerned.
-
-
-
-Broadly, the phase in which the Victorian epoch closed was what can only
-
-be called the Imperialist phase. Between that and us stands a very
-
-individual [[artist]] who must nevertheless be connected with that phase. As
-
-I said at the beginning, Macaulay (or, rather, the mind Macaulay shared

@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 38 (part 3)"
+title: "Villette — Chapter 38 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_40/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_40/part_04">part 04 ›</a></div>
 </nav>
 
+
+I knew where he lived: I knew where he was to be heard of, or
+communicated with; the distance was scarce a stone’s-throw: had it been
+in the next room—unsummoned, I could make no use of my knowledge. To
+follow, to seek out, to remind, to recall—for these things I had no
+faculty.
+
+M. Emanuel might have passed within reach of my arm: had he passed
+silent and unnoticing, silent and stirless should I have suffered him
+to go by.
 
 Morning wasted. Afternoon came, and I thought all was over. My heart
 trembled in its place. My [[Blood|blood]] was troubled in its current. I was
@@ -128,17 +138,3 @@ schemers seemed so watchful, so active, so hostile; the way of access
 appeared strait as a gully, deep as a chasm—Apollyon straddled across
 it, breathing flames. Could my Greatheart overcome? Could my guide
 reach me?
-
-Who might tell? Yet I began to take some [[Courage|courage]], some comfort; it
-seemed to me that I felt a pulse of his heart beating yet true to the
-whole throb of mine.
-
-I waited my champion. Apollyon came trailing his Hell behind him. I
-think if [[Eternity]] held torment, its form would not be fiery rack, nor
-its [[Nature|nature]] [[Despair|despair]]. I think that on a certain day amongst those days
-which never dawned, and will not set, an angel entered Hades—stood,
-shone, smiled, delivered a prophecy of conditional pardon, kindled a
-doubtful [[Hope|hope]] of bliss to come, not now, but at a day and hour unlooked
-for, revealed in his own glory and grandeur the height and compass of
-his promise: spoke thus—then towering, became a star, and vanished into
-his own Heaven. His legacy was suspense—a worse boon than [[Despair|despair]].

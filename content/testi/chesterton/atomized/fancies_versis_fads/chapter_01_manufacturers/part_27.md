@@ -28,7 +28,7 @@ reasonable to expect the remote person to feel remote from himself,
 or the man at the other end of the world not to feel it as this end.
 We must not ask the outlandish Oriental to feel outlandish,
 or a Chinaman to be astonished at being Chinese.  If, therefore,
-the literary [[artist]] has the legitimate literary purpose of expressing
+the literary [[Artist|artist]] has the legitimate literary purpose of expressing
 the mysterious and alien atmosphere which China implies to him,
 he will probably do it much better with the aid of an actor who is
 not Chinese.  Of course, I am not criticizing the particular details

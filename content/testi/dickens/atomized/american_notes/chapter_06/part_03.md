@@ -14,6 +14,16 @@ tags:
 </nav>
 
 
+In this place, there is the best jail for untried offenders in the world.
+There is also a very [[Well|well]]-ordered State [[Prison|prison]], arranged upon the same
+plan as that at Boston, except that here, there is always a sentry on the
+wall with a loaded gun.  It contained at that [[Time|time]] about two hundred
+prisoners.  A spot was shown me in the sleeping ward, where a watchman
+was murdered some years since in the dead of [[Night|night]], in a desperate
+attempt to escape, made by a prisoner who had broken from his cell.  A
+woman, too, was pointed out to me, who, for the murder of her husband,
+had been a close prisoner for sixteen years.
+
 ‘Do you think,’ I asked of my conductor, ‘that after so very long an
 [[Imprisonment|imprisonment]], she has any thought or [[Hope|hope]] of ever regaining her liberty?’
 
@@ -68,7 +78,7 @@ English eye it was infinitely less like a steamboat than a huge floating
 bath.  I could hardly persuade myself, indeed, but that the bathing
 establishment off Westminster Bridge, which I left a baby, had suddenly
 grown to an enormous size; run away from [[Home|home]]; and set up in foreign
-parts as a steamer.  Being in [[America]], too, which our vagabonds do so
+parts as a steamer.  Being in [[america|America]], too, which our vagabonds do so
 particularly favour, it seemed the more probable.
 
 The great difference in appearance between these packets and ours, is,

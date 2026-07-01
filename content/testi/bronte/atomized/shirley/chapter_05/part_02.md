@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 5 (part 2)"
+title: "Shirley — Chapter 5 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_05/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_05/part_03">part 03 ›</a></div>
 </nav>
 
+
+sun's [[Fire|fire]] quenched in last [[Night|night]]'s floods. The breath of this morning
+
+was chill as its aspect; a raw [[Wind|wind]] stirred the mass of [[Night|night]]-cloud, and
+
+showed, as it slowly [[Rose|rose]], leaving a colourless, silver-gleaming ring
 
 all round the horizon, not blue sky, but a stratum of paler vapour
 
@@ -203,21 +209,3 @@ and butter, with the somewhat un-English accompaniment of stewed pears,
 was spread on the table. Over these viands presided the lady who had
 
 spoken from the [[Window|window]]. I must describe her before I go any farther.
-
-
-
-She seemed a little older than Mr. Moore--perhaps she was thirty-five,
-
-tall, and proportionately stout; she had very black hair, for the
-
-present twisted up in curl-papers, a high colour in her cheeks, a small
-
-nose, a pair of little black eyes. The lower part of her face was large
-
-in proportion to the upper; her forehead was small and rather
-
-corrugated; she had a fretful though not an ill-natured expression of
-
-countenance; there was something in her whole appearance one felt
-
-inclined to be half provoked with and half amused at. The strangest

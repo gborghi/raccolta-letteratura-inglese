@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 34 (part 5)"
+title: "Jane Eyre — Chapter 34 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -14,7 +14,13 @@ tags:
 </nav>
 
 
-A fine [[spring]] shone round me, which I could not enjoy. [[Summer]]
+I wrote again: there was a chance of my first letter having missed.
+Renewed [[Hope|hope]] followed renewed effort: it shone like the former for some
+weeks, then, like it, it faded, flickered: not a line, not a word
+reached me. When half a year wasted in vain expectancy, my [[Hope|hope]] died
+out, and then I felt dark indeed.
+
+A fine [[Spring|spring]] shone round me, which I could not enjoy. [[Summer]]
 approached; [[Diana]] tried to cheer me: she said I looked ill, and wished
 to accompany me to the sea-side. This St. John opposed; he said I did
 not want dissipation, I wanted employment; my present life was too
@@ -68,7 +74,7 @@ with him.
 
 The breeze was from the west: it came over the hills, sweet with scents
 of heath and rush; the sky was of stainless blue; the stream descending
-the ravine, swelled with past [[spring]] rains, poured along plentiful and
+the ravine, swelled with past [[Spring|spring]] rains, poured along plentiful and
 clear, catching golden gleams from the sun, and sapphire tints from the
 firmament. As we advanced and left the track, we trod a soft turf,
 mossy fine and emerald green, minutely enamelled with a tiny white
@@ -123,14 +129,3 @@ are worthy of the work, and competent to accomplish it.”
 exhort them to the effort—to show them what their gifts are, and why
 they were given—to speak Heaven’s message in their ear,—to offer them,
 direct from God, a place in the ranks of His chosen.”
-
-“If they are really qualified for the task, will not their own hearts
-be the first to inform them of it?”
-
-I felt as if an awful charm was framing round and gathering over me: I
-trembled to hear some fatal word spoken which would at once declare and
-rivet the spell.
-
-“And what does _your_ heart say?” demanded St. John.
-
-“My heart is mute,—my heart is mute,” I answered, struck and thrilled.

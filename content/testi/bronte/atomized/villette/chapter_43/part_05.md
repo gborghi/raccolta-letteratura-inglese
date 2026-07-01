@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 41 (part 5)"
+title: "Villette — Chapter 41 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_43/part_04">‹ part 04</a><span></span></div>
 </nav>
 
+
+“Besides these,” pursued he, “another pupil offers, who will come daily
+to take lessons in English; and as she is rich, she will pay
+handsomely. I mean my god-daughter and ward, Justine Marie Sauveur.”
 
 What is in a name?—what in three words? Till this moment I had listened
 with living joy—I had answered with gleeful quickness; a name froze me;

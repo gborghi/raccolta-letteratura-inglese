@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 7 (part 3)"
+title: "thursday — Chapter 7 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -13,6 +13,36 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_07/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_08/part_01">part 01 ›</a></div>
 </nav>
 
+
+Every movement of the old man's tottering figure and vague hands, every
+uncertain gesture and panic-stricken pause, seemed to put it beyond question
+that he was helpless, that he was in the last imbecility of the [[Body|body]].
+He moved by inches, he let himself down with little gasps of caution.
+And yet, unless the philosophical entities called [[Time|time]] and space have no
+vestige even of a practical existence, it appeared quite unquestionable
+that he had run after the omnibus.
+
+Syme sprang erect upon the rocking car, and after staring wildly at
+the wintry sky, that grew gloomier every moment, he ran down the steps.
+He had repressed an elemental impulse to leap over the side.
+
+Too bewildered to look back or to reason, he rushed into one of the little
+courts at the side of Fleet Street as a rabbit rushes into a hole.
+He had a vague idea, if this incomprehensible old Jack-in-the-box was
+really pursuing him, that in that labyrinth of little streets he could
+soon throw him off the scent.  He dived in and out of those crooked lanes,
+which were more like cracks than thoroughfares; and by the [[Time|time]]
+that he had completed about twenty alternate angles and described
+an unthinkable polygon, he paused to listen for any sound of pursuit.
+There was none; there could not in any case have been much, for the
+little streets were thick with the soundless [[Snow|snow]].  Somewhere behind
+Red [[Lion]] [[Court]], however, he noticed a place where some energetic
+citizen had cleared away the [[Snow|snow]] for a space of about twenty yards,
+leaving the wet, glistening cobble-stones. He thought little of this
+as he passed it, only plunging into yet another arm of the maze.
+But when a few hundred yards farther on he stood still again to listen,
+his heart stood still also, for he heard from that space of rugged
+stones the clinking crutch and labouring feet of the infernal cripple.
 
 The sky above was loaded with the clouds of [[Snow|snow]], leaving [[London]]
 in a darkness and oppression premature for that hour of the evening.

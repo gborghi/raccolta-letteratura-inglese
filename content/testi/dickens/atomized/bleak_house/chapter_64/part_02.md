@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 64 (part 2)"
+title: "Bleak House — Chapter 64 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_64/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_64/part_03">part 03 ›</a></div>
 </nav>
 
+
+“It is with exquisite pleasure, guardian—with a heart full of
+thanks.”
+
+“[[Well]], [[Well|well]],” said he. “I am delighted that you approve. I thought
+you would. I meant it as a pleasant surprise for the little mistress
+of Bleak [[house|House]].”
+
+I kissed him and dried my eyes. “I know now!” said I. “I have seen
+this in your face a long while.”
 
 “No; have you really, my dear?” said he. “What a Dame Durden it is to
 read a face!”
@@ -121,25 +131,3 @@ have my Esther’s bright example lost; I would not have a jot of my
 dear girl’s virtues unobserved and unhonoured; I would not have her
 admitted on sufferance into the line of Morgan ap-Kerrig, no, not for
 the weight in gold of all the [[Mountains|mountains]] in Wales!”
-
-He stopped to kiss me on the forehead, and I sobbed and wept afresh.
-For I felt as if I could not bear the painful delight of his praise.
-
-“Hush, little woman! Don’t cry; this is to be a day of joy. I have
-looked forward to it,” he said exultingly, “for months on months! A
-few words more, Dame Trot, and I have said my say. Determined not to
-throw away one atom of my Esther’s worth, I took Mrs. Woodcourt into
-a separate confidence. ‘Now, madam,’ said I, ‘I clearly perceive—and
-indeed I know, to boot—that your son loves my ward. I am further
-very sure that my ward loves your son, but will sacrifice her [[Love|love]] to
-a sense of duty and affection, and will sacrifice it so completely,
-so entirely, so religiously, that you should never suspect it though
-you watched her [[Night|night]] and day.’ Then I told her all our
-story—ours—yours and mine. ‘Now, madam,’ said I, ‘come you, knowing
-this, and live with us. Come you, and see my [[Child|child]] from hour to hour;
-set what you see against her pedigree, which is this, and this’—for
-I scorned to mince it—‘and tell me what is the true legitimacy when
-you shall have quite made up your mind on that subject.’ Why, [[Honour|honour]]
-to her old Welsh [[Blood|blood]], my dear,” cried my guardian with enthusiasm,
-“I believe the heart it animates beats no less warmly, no less
-admiringly, no less lovingly, towards Dame Durden than my own!”

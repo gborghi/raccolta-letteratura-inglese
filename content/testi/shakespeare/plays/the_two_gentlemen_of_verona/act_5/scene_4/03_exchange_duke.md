@@ -1,5 +1,5 @@
 ---
-title: "The Two Gentlemen of [[Verona]] — Act V, Scene 4 — exchange (DUKE) [3]"
+title: "The Two Gentlemen of Verona — Act V, Scene 4 — exchange (DUKE) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-two-gentlemen-of-verona-(shakespeare)"

@@ -1,5 +1,5 @@
 ---
-title: "The Merry Wives of Windsor — Act IV, Scene 2 — exchange ([[Mistress Ford|MISTRESS FORD]]) [2]"
+title: "The Merry Wives of Windsor — Act IV, Scene 2 — exchange (MISTRESS FORD) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-merry-wives-of-windsor-(shakespeare)"

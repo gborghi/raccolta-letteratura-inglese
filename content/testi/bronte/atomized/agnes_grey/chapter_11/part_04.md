@@ -1,5 +1,5 @@
 ---
-title: "[[Agnes Grey]] — Chapter 11 (part 4)"
+title: "Agnes Grey — Chapter 11 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/agnes-grey-(bronte)"
@@ -98,7 +98,7 @@ who, before the other’s arrival at Horton, had now and then paid him a
 visit; on which occasions he would always insist upon having the
 cottage-door kept open, to admit the fresh air for his own convenience,
 without considering how it might injure the sufferer; and having opened
-his [[Prayer|prayer]]-book and hastily read over a part of the Service for the
+his [[prayer]]-book and hastily read over a part of the Service for the
 Sick, would hurry away again: if he did not stay to administer some
 harsh rebuke to the afflicted wife, or to make some thoughtless, not to
 say heartless, observation, rather calculated to increase than diminish

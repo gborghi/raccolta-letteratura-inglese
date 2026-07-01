@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 33 (part 4)"
+title: "Barnaby Rudge — Chapter 33 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -10,9 +10,22 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/barnaby-rudge-(dickens)">Barnaby Rudge</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_33/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_35/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_33/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_34/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘What I saw.’
+
+‘Saw!’ echoed all three, bending forward.
+
+‘When I opened the church-door to come out,’ said the little man, with
+an expression of face which bore ample testimony to the sincerity of
+his conviction, ‘when I opened the church-door to come out, which I did
+suddenly, for I wanted to get it shut again before another gust of [[Wind|wind]]
+came up, there crossed me--so close, that by stretching out my finger
+I could have touched it--something in the likeness of a man. It was
+bare-headed to the [[Storm|storm]]. It turned its face without stopping, and fixed
+its eyes on mine. It was a [[Ghost|ghost]]--a spirit.’
 
 ‘Whose?’ they all three cried together.
 

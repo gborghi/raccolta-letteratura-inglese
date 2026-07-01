@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 8"
+title: "Great Expectations — Chapter 8"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/great-expectations-(dickens)"
@@ -195,7 +195,7 @@ She had not quite finished dressing, for she had but one shoe on,—the
 other was on the table near her hand,—her veil was but half arranged,
 her watch and chain were not put on, and some lace for her bosom lay
 with those trinkets, and with her handkerchief, and gloves, and some
-[[Flowers|flowers]], and a [[Prayer]]-Book all confusedly heaped about the
+[[Flowers|flowers]], and a [[prayer|Prayer]]-Book all confusedly heaped about the
 looking-glass.
 
 It was not in the first few moments that I saw all these things, though

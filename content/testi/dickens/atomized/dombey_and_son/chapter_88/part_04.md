@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 32 (part 4)"
+title: "Dombey and Son — Chapter 60 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,122 +14,146 @@ tags:
 </nav>
 
 
-“As I was coming out,” said Mr Toots, “the young woman, in the most
-unexpected manner, took me into the pantry.”
+The short gentleman in the tall hat, who it appeared was the husband of
+the other lady, and who evidently exulted at the reduction of a fellow
+creature to his own condition, gave place at this, and resigned the
+lady to [[Captain Cuttle]]. The lady immediately seized him, and, observing
+that there was no [[Time|time]] to lose, gave the word, in a strong voice, to
+advance.
 
-The Captain seemed, for the moment, to object to this proceeding; and
-leaning back in his chair, looked at Mr Toots with a distrustful, if
-not threatening visage.
+The Captain’s concern for his friend, not unmingled, at first, with
+some concern for himself—for a shadowy terror that he might be married
+by violence, possessed him, until his knowledge of the service came to
+his relief, and remembering the legal obligation of saying, “I will,”
+he felt himself personally safe so long as he resolved, if asked any
+question, distinctly to reply “I won’t”—threw him into a profuse
+perspiration; and rendered him, for a [[Time|time]], insensible to the movements
+of the procession, of which he now formed a feature, and to the
+conversation of his fair companion. But as he became less agitated, he
+learnt from this lady that she was the widow of a Mr Bokum, who had
+held an employment in the Custom [[house|House]]; that she was the dearest friend
+of Mrs MacStinger, whom she considered a pattern for her sex; that she
+had often heard of the Captain, and now hoped he had repented of his
+past life; that she trusted Mr Bunsby knew what a blessing he had
+gained, but that she feared men seldom did know what such blessings
+were, until they had lost them; with more to the same purpose.
 
-“Where she brought out,” said Mr Toots, “this newspaper. She told me
-that she had kept it from Miss Dombey all day, on account of something
-that was in it, about somebody that she and Dombey used to know; and
-then she read the passage to me. Very [[Well|well]]. Then she said—wait a
-minute; what was it she said, though!”
+All this [[Time|time]], the Captain could not but observe that Mrs Bokum kept
+her eyes steadily on the bridegroom, and that whenever they came near a
+[[Court|court]] or other narrow turning which appeared favourable for flight, she
+was on the alert to cut him off if he attempted escape. The other lady,
+too, as [[Well|well]] as her husband, the short gentleman with the tall hat,
+were plainly on guard, according to a preconcerted plan; and the
+wretched man was so secured by Mrs MacStinger, that any effort at
+[[Self|self]]-preservation by flight was rendered futile. This, indeed, was
+apparent to the mere populace, who expressed their perception of the
+fact by jeers and cries; to all of which, the dread MacStinger was
+inflexibly indifferent, while Bunsby himself appeared in a state of
+unconsciousness.
 
-Mr Toots, endeavouring to concentrate his mental powers on this
-question, unintentionally fixed the Captain’s eye, and was so much
-discomposed by its stern expression, that his difficulty in resuming
-the thread of his subject was enhanced to a painful extent.
+The Captain made many attempts to accost the philosopher, if only in a
+monosyllable or a signal; but always failed, in consequence of the
+vigilance of the guard, and the difficulty, at all times peculiar to
+Bunsby’s constitution, of having his attention aroused by any outward
+and visible sign whatever. Thus they approached the chapel, a neat
+whitewashed edifice, recently engaged by the Reverend Melchisedech
+Howler, who had consented, on very urgent solicitation, to give the
+world another two years of existence, but had informed his followers
+that, then, it must positively go.
 
-“Oh!” said Mr Toots after long consideration. “Oh, ah! Yes! She said
-that she hoped there was a bare possibility that it mightn’t be true;
-and that as she couldn’t very [[Well|well]] come out herself, without surprising
-Miss Dombey, would I go down to Mr [[Solomon Gills]] the Instrument-maker’s
-in this street, who was the party’s Uncle, and ask whether he believed
-it was true, or had heard anything else in the [[City]]. She said, if he
-couldn’t speak to me, no [[Doubt|doubt]] [[Captain Cuttle]] could. By the bye!” said
-Mr Toots, as the discovery flashed upon him, “you, you know!”
+While the Reverend Melchisedech was offering up some extemporary
+orisons, the Captain found an opportunity of growling in the
+bridegroom’s ear:
 
-The Captain glanced at the newspaper in Mr Toots’s hand, and breathed
-short and hurriedly.
+“What cheer, my lad, what cheer?”
 
-“[[Well]],” pursued Mr Toots, “the reason why I’m rather late is, because I
-went up as far as Finchley first, to get some uncommonly fine chickweed
-that grows there, for Miss Dombey’s bird. But I came on here, directly
-afterwards. You’ve seen the paper, I suppose?”
+To which Bunsby replied, with a forgetfulness of the Reverend
+Melchisedech, which nothing but his desperate circumstances could have
+excused:
 
-The Captain, who had become cautious of reading the news, lest he
-should find himself advertised at full length by Mrs MacStinger, shook
-his head.
+“D——d bad,”
 
-“Shall I read the passage to you?” inquired Mr Toots.
+“Jack Bunsby,” whispered the Captain, “do you do this here, of your own
+free will?”
 
-The Captain making a sign in the affirmative, Mr Toots read as follows,
-from the Shipping Intelligence:
+Mr Bunsby answered “No.”
 
-“‘Southampton. The barque Defiance, Henry James, Commander, arrived in
-this port today, with a cargo of sugar, coffee, and rum, reports that
-being becalmed on the sixth day of her passage [[Home|home]] from Jamaica,
-in’—in such and such a latitude, you know,” said Mr Toots, after making
-a feeble dash at the figures, and tumbling over them.
+“Why do you do it, then, my lad?” inquired the Captain, not
+unnaturally.
 
-“Ay!” cried the Captain, striking his clenched hand on the table.
-“Heave ahead, my lad!”
+Bunsby, still looking, and always looking with an immovable
+countenance, at the opposite side of the world, made no reply.
 
-“—latitude,” repeated Mr Toots, with a startled glance at the Captain,
-“and longitude so-and-so,—‘the look-out observed, half an hour before
-sunset, some fragments of a wreck, drifting at about the distance of a
-mile. The weather being clear, and the barque making no way, a boat was
-hoisted out, with orders to inspect the same, when they were found to
-consist of sundry large spars, and a part of the main rigging of an
-English brig, of about five hundred tons burden, together with a
-portion of the stem on which the words and letters “Son and H-” were
-yet plainly legible. No vestige of any dead [[Body|body]] was to be seen upon
-the floating fragments. Log of the Defiance states, that a breeze
-springing up in the [[Night|night]], the wreck was seen no more. There can be no
-[[Doubt|doubt]] that all surmises as to the fate of the missing vessel, the Son
-and Heir, port of [[London]], bound for Barbados, are now set at rest for
-ever; that she broke up in the last hurricane; and that every [[Soul|soul]] on
-board perished.’”
+“Why not sheer off?” said the Captain. “Eh?” whispered Bunsby, with a
+momentary gleam of [[Hope|hope]].
 
-[[Captain Cuttle]], like all mankind, little knew how much [[Hope|hope]] had
-survived within him under discouragement, until he felt its
-[[Death|death]]-shock. During the reading of the paragraph, and for a minute or
-two afterwards, he sat with his gaze fixed on the modest Mr Toots, like
-a man entranced; then, suddenly rising, and putting on his glazed hat,
-which, in his visitor’s [[Honour|honour]], he had laid upon the table, the Captain
-turned his back, and bent his head down on the little chimneypiece.
+“Sheer off,” said the Captain.
 
-“Oh” upon my word and [[Honour|honour]],” cried Mr Toots, whose tender heart was
-moved by the Captain’s unexpected distress, “this is a most wretched
-sort of affair this world is! Somebody’s always dying, or going and
-doing something uncomfortable in it. I’m sure I never should have
-looked forward so much, to coming into my property, if I had known
-this. I never saw such a world. It’s a great deal worse than
-Blimber’s.”
+“Where’s the good?” retorted the forlorn sage. “She’d capter me agen.”
 
-[[Captain Cuttle]], without altering his position, signed to Mr Toots not
-to mind him; and presently turned round, with his glazed hat thrust
-back upon his ears, and his hand composing and smoothing his brown
-face.
+“Try!” replied the Captain. “Cheer up! Come! Now’s your [[Time|time]]. Sheer
+off, Jack Bunsby!”
 
-“Wal”r, my dear lad,” said the Captain, “farewell! Wal”r my [[Child|child]], my
-boy, and man, I loved you! He warn’t my flesh and [[Blood|blood]],” said the
-Captain, looking at the [[Fire|fire]]—“I ain’t got none—but something of what a
-father feels when he loses a son, I feel in losing Wal”r. For why?”
-said the Captain. “Because it ain’t one loss, but a round dozen.
-Where’s that there young school-boy with the rosy face and curly hair,
-that used to be as merry in this here parlour, come round every week,
-as a piece of music? Gone down with Wal”r. Where’s that there fresh
-lad, that nothing couldn’t tire nor put out, and that sparkled up and
-blushed so, when we joked him about Heart’s Delight, that he was
-beautiful to look at? Gone down with Wal”r. Where’s that there man’s
-spirit, all afire, that wouldn’t see the old man hove down for a
-minute, and cared nothing for itself? Gone down with Wal”r. It ain’t
-one Wal”r. There was a dozen Wal”rs that I know’d and loved, all
-holding round his neck when he went down, and they’re a-holding round
-mine now!”
+Jack Bunsby, however, instead of profiting by the advice, said in a
+doleful whisper:
 
-Mr Toots sat silent: folding and refolding the newspaper as small as
-possible upon his knee.
+“It all began in that there chest o’ yourn. Why did I ever conwoy her
+into port that [[Night|night]]?”
 
-“And Sol Gills,” said the Captain, gazing at the [[Fire|fire]], “poor nevyless
-old Sol, where are you got to! you was left in charge of me; his last
-words was, ‘Take care of my Uncle!’ What came over you, Sol, when you
-went and gave the go-bye to Ned Cuttle; and what am I to put in my
-accounts that he’s a looking down upon, respecting you! Sol Gills, Sol
-Gills!” said the Captain, shaking his head slowly, “catch sight of that
-there newspaper, away from [[Home|home]], with no one as know’d Wal”r by, to say
-a word; and broadside to you broach, and down you pitch, head
-foremost!”
+“My lad,” faltered the Captain, “I thought as you had come over her;
+not as she had come over you. A man as has got such opinions as you
+have!”
+
+Mr Bunsby merely uttered a suppressed groan.
+
+“Come!” said the Captain, nudging him with his elbow, “now’s your [[Time|time]]!
+Sheer off! I’ll cover your retreat. The [[Time|time]]’s a flying. Bunsby! It’s
+for liberty. Will you once?”
+
+Bunsby was immovable.
+
+“Bunsby!” whispered the Captain, “will you twice?”
+
+Bunsby wouldn’t twice.
+
+“Bunsby!” urged the Captain, “it’s for liberty; will you three times?
+Now or never!”
+
+Bunsby didn’t then, and didn’t ever; for Mrs MacStinger immediately
+afterwards married him.
+
+One of the most frightful circumstances of the ceremony to the Captain,
+was the deadly interest exhibited therein by Juliana MacStinger; and
+the fatal concentration of her faculties, with which that promising
+[[Child|child]], already the image of her parent, observed the whole proceedings.
+The Captain saw in this a succession of man-traps stretching out
+infinitely; a series of ages of oppression and coercion, through which
+the seafaring line was doomed. It was a more memorable sight than the
+unflinching steadiness of Mrs Bokum and the other lady, the exultation
+of the short gentleman in the tall hat, or even the fell inflexibility
+of Mrs MacStinger. The Master MacStingers understood little of what was
+going on, and cared less; being chiefly engaged, during the ceremony,
+in treading on one another’s half-boots; but the contrast afforded by
+those wretched infants only set off and adorned the precocious woman in
+Juliana. Another year or two, the Captain thought, and to lodge where
+that [[Child|child]] was, would be destruction.
+
+The ceremony was concluded by a general [[spring]] of the young family on
+Mr Bunsby, whom they hailed by the endearing name of father, and from
+whom they solicited half-pence. These gushes of affection over, the
+procession was about to issue forth again, when it was delayed for some
+little [[Time|time]] by an unexpected transport on the part of Alexander
+MacStinger. That dear [[Child|child]], it seemed, connecting a chapel with
+tombstones, when it was entered for any purpose apart from the ordinary
+religious exercises, could not be persuaded but that his mother was now
+to be decently interred, and lost to him for ever. In the anguish of
+this conviction, he screamed with astonishing force, and turned black
+in the face. However touching these marks of a tender disposition were
+to his mother, it was not in the character of that remarkable woman to
+permit her recognition of them to degenerate into weakness. Therefore,
+after vainly endeavouring to convince his reason by shakes, pokes,
+bawlings-out, and similar applications to his head, she led him into
+the air, and tried another method; which was manifested to the [[Marriage|marriage]]
+party by a quick succession of sharp sounds, resembling applause, and
+subsequently, by their seeing Alexander in contact with the coolest
+paving-stone in the [[Court|court]], greatly flushed, and loudly lamenting.

@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 14"
+title: "Our Mutual Friend — Chapter 16"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,608 +14,546 @@ tags:
 </nav>
 
 
-Chapter 14
-
-STRONG OF PURPOSE
-
-
-The sexton-task of piling earth above [[John Harmon]] all [[Night|night]] long, was
-not conducive to sound [[Sleep|sleep]]; but Rokesmith had some broken morning
-rest, and [[Rose|rose]] strengthened in his purpose. It was all over now. No
-[[Ghost|ghost]] should trouble Mr and Mrs Boffin’s peace; invisible and voiceless,
-the [[Ghost|ghost]] should look on for a little while longer at the state of
-existence out of which it had departed, and then should for ever cease
-to haunt the scenes in which it had no place.
-
-He went over it all again. He had lapsed into the condition in which
-he found himself, as many a man lapses into many a condition, without
-perceiving the accumulative power of its separate circumstances. When
-in the distrust engendered by his wretched [[Childhood|childhood]] and the action for
-evil—never yet for good within his knowledge then—of his father and
-his father’s wealth on all within their influence, he conceived the idea
-of his first [[Deception|deception]], it was meant to be harmless, it was to last
-but a few hours or days, it was to involve in it only the girl so
-capriciously forced upon him and upon whom he was so capriciously
-forced, and it was honestly meant [[Well|well]] towards her. For, if he had
-found her unhappy in the prospect of that [[Marriage|marriage]] (through her heart
-inclining to another man or for any other cause), he would seriously
-have said: ‘This is another of the old perverted uses of the
-misery-making money. I will let it go to my and my sister’s only
-protectors and friends.’ When the snare into which he fell so
-outstripped his first intention as that he found himself placarded by
-the police authorities upon the [[London]] walls for dead, he confusedly
-accepted the aid that fell upon him, without considering how firmly it
-must seem to fix the Boffins in their accession to the fortune. When he
-saw them, and knew them, and even from his vantage-ground of inspection
-could find no flaw in them, he asked himself, ‘And shall I come to life
-to dispossess such people as these?’ There was no good to set against
-the putting of them to that hard proof. He had heard from Bella’s own
-lips when he stood tapping at the door on that [[Night|night]] of his taking
-the lodgings, that the [[Marriage|marriage]] would have been on her part thoroughly
-mercenary. He had since tried her, in his own unknown person and
-supposed station, and she not only rejected his advances but resented
-them. Was it for him to have the shame of buying her, or the meanness of
-punishing her? Yet, by coming to life and accepting the condition of the
-inheritance, he must do the former; and by coming to life and rejecting
-it, he must do the latter.
-
-Another consequence that he had never foreshadowed, was the implication
-of an [[Innocent|innocent]] man in his supposed murder. He would obtain complete
-retraction from the accuser, and set the wrong right; but clearly the
-wrong could never have been done if he had never planned a [[Deception|deception]].
-Then, whatever inconvenience or distress of mind the [[Deception|deception]] cost him,
-it was manful repentantly to accept as among its consequences, and make
-no complaint.
-
-Thus John Rokesmith in the morning, and it buried [[John Harmon]] still many
-fathoms deeper than he had been buried in the [[Night|night]].
-
-Going out earlier than he was accustomed to do, he encountered the
-cherub at the door. The cherub’s way was for a certain space his way,
-and they walked together.
-
-It was impossible not to notice the change in the cherub’s appearance.
-The cherub felt very conscious of it, and modestly remarked:
-
-‘A present from my daughter Bella, Mr Rokesmith.’
-
-The words gave the Secretary a stroke of pleasure, for he remembered the
-fifty pounds, and he still loved the girl. No [[Doubt|doubt]] it was very weak—it
-always IS very weak, some authorities hold—but he loved the girl.
-
-‘I don’t know whether you happen to have read many books of African
-Travel, Mr Rokesmith?’ said R. W.
-
-‘I have read several.’
-
-‘[[Well]], you know, there’s usually a [[King]] George, or a [[King]] Boy, or a [[King]]
-Sambo, or a [[King]] Bill, or Bull, or Rum, or Junk, or whatever name the
-sailors may have happened to give him.’
-
-‘Where?’ asked Rokesmith.
-
-‘Anywhere. Anywhere in Africa, I mean. Pretty [[Well|well]] everywhere, I may
-say; for black kings are cheap—and I think’—said R. W., with an
-apologetic air, ‘nasty’.
-
-‘I am much of your opinion, Mr Wilfer. You were going to say—?’
-
-‘I was going to say, the [[King|king]] is generally dressed in a [[London]] hat only,
-or a Manchester pair of braces, or one epaulette, or an uniform coat
-with his legs in the sleeves, or something of that kind.’
-
-‘Just so,’ said the Secretary.
-
-‘In confidence, I assure you, Mr Rokesmith,’ observed the cheerful
-cherub, ‘that when more of my family were at [[Home|home]] and to be provided
-for, I used to remind myself immensely of that [[King|king]]. You have no idea,
-as a single man, of the difficulty I have had in wearing more than one
-good article at a [[Time|time]].’
-
-‘I can easily believe it, Mr Wilfer.’
-
-‘I only mention it,’ said R. W. in the warmth of his heart, ‘as a proof
-of the amiable, delicate, and considerate affection of my daughter
-Bella. If she had been a little spoilt, I couldn’t have thought so very
-much of it, under the circumstances. But no, not a bit. And she is so
-very pretty! I [[Hope|hope]] you agree with me in finding her very pretty, Mr
-Rokesmith?’
-
-‘Certainly I do. Every one must.’
-
-‘I [[Hope|hope]] so,’ said the cherub. ‘Indeed, I have no [[Doubt|doubt]] of it. This is a
-great advancement for her in life, Mr Rokesmith. A great opening of her
-prospects?’
-
-‘Miss Wilfer could have no better friends than Mr and Mrs Boffin.’
-
-‘Impossible!’ said the gratified cherub. ‘Really I begin to think things
-are very [[Well|well]] as they are. If Mr [[John Harmon]] had lived—’
-
-‘He is better dead,’ said the Secretary.
-
-‘No, I won’t go so far as to say that,’ urged the cherub, a little
-remonstrant against the very decisive and unpitying tone; ‘but he
-mightn’t have suited Bella, or Bella mightn’t have suited him, or fifty
-things, whereas now I [[Hope|hope]] she can choose for herself.’
-
-‘Has she—as you place the confidence in me of speaking on the subject,
-you will excuse my asking—has she—perhaps—chosen?’ faltered the
-Secretary.
-
-‘Oh dear no!’ returned R. W.
-
-‘Young ladies sometimes,’ Rokesmith hinted, ‘choose without mentioning
-their choice to their fathers.’
-
-‘Not in this case, Mr Rokesmith. Between my daughter Bella and me there
-is a regular league and covenant of confidence. It was ratified only the
-other day. The ratification dates from—these,’ said the cherub,
-giving a little pull at the lappels of his coat and the pockets of his
-trousers. ‘Oh no, she has not chosen. To be sure, young George Sampson,
-in the days when Mr [[John Harmon]]—’
-
-‘Who I wish had never been born!’ said the Secretary, with a gloomy
-brow.
-
-R. W. looked at him with surprise, as thinking he had contracted an
-unaccountable spite against the poor deceased, and continued: ‘In the
-days when Mr [[John Harmon]] was being sought out, young George Sampson
-certainly was hovering about Bella, and Bella let him hover. But it
-never was seriously thought of, and it’s still less than ever to be
-thought of now. For Bella is ambitious, Mr Rokesmith, and I think I may
-predict will marry fortune. This [[Time|time]], you see, she will have the person
-and the property before her together, and will be able to make her
-choice with her eyes open. This is my [[Road|road]]. I am very sorry to part
-company so soon. Good morning, sir!’
-
-The Secretary pursued his way, not very much elevated in spirits by this
-conversation, and, arriving at the Boffin mansion, found Betty Higden
-waiting for him.
-
-‘I should thank you kindly, sir,’ said Betty, ‘if I might make so bold
-as have a word or two wi’ you.’
-
-She should have as many words as she liked, he told her; and took her
-into his room, and made her sit down.
-
-‘’Tis concerning Sloppy, sir,’ said Betty. ‘And that’s how I come here
-by myself. Not wishing him to know what I’m a-going to say to you, I got
-the start of him early and walked up.’
-
-‘You have wonderful energy,’ returned Rokesmith. ‘You are as young as I
-am.’
-
-Betty Higden gravely shook her head. ‘I am strong for my [[Time|time]] of life,
-sir, but not young, thank the Lord!’
-
-‘Are you thankful for not being young?’
-
-‘Yes, sir. If I was young, it would all have to be gone through again,
-and the end would be a weary way off, don’t you see? But never mind me;
-’tis concerning Sloppy.’
-
-‘And what about him, Betty?’
-
-‘’Tis just this, sir. It can’t be reasoned out of his head by any powers
-of mine but what that he can do right by your kind lady and gentleman
-and do his work for me, both together. Now he can’t. To give himself up
-to being put in the way of arning a good living and getting on, he must
-give me up. [[Well]]; he won’t.’
-
-‘I respect him for it,’ said Rokesmith.
-
-‘DO ye, sir? I don’t know but what I do myself. Still that don’t make it
-right to let him have his way. So as he won’t give me up, I’m a-going to
-give him up.’
-
-‘How, Betty?’
-
-‘I’m a-going to run away from him.’
-
-With an astonished look at the indomitable old face and the bright eyes,
-the Secretary repeated, ‘Run away from him?’
-
-‘Yes, sir,’ said Betty, with one nod. And in the nod and in the firm set
-of her mouth, there was a vigour of purpose not to be doubted.
-
-‘Come, come!’ said the Secretary. ‘We must talk about this. Let us take
-our [[Time|time]] over it, and try to get at the true sense of the case and the
-true course, by degrees.’
-
-‘Now, lookee here, by dear,’ returned old Betty—‘asking your excuse
-for being so familiar, but being of a [[Time|time]] of life a’most to be your
-grandmother twice over. Now, lookee, here. ’Tis a poor living and a
-hard as is to be got out of this work that I’m a doing now, and but for
-Sloppy I don’t know as I should have held to it this long. But it did
-just keep us on, the two together. Now that I’m [[Alone|alone]]—with even Johnny
-gone—I’d far sooner be upon my feet and tiring of myself out, than a
-sitting folding and folding by the [[Fire|fire]]. And I’ll tell you why. There’s
-a deadness steals over me at times, that the kind of life favours and I
-don’t like. Now, I seem to have Johnny in my arms—now, his mother—now,
-his mother’s mother—now, I seem to be a [[Child|child]] myself, a lying once
-again in the arms of my own mother—then I get numbed, thought and
-sense, till I start out of my seat, afeerd that I’m a growing like the
-poor old people that they brick up in the Unions, as you may sometimes
-see when they let ’em out of the four walls to have a warm in the sun,
-crawling quite scared about the streets. I was a nimble girl, and have
-always been a active [[Body|body]], as I told your lady, first [[Time|time]] ever I see
-her good face. I can still walk twenty mile if I am put to it. I’d far
-better be a walking than a getting numbed and dreary. I’m a good fair
-knitter, and can make many little things to sell. The loan from your
-lady and gentleman of twenty shillings to fit out a basket with, would
-be a fortune for me. Trudging round the country and tiring of myself
-out, I shall keep the deadness off, and get my own bread by my own
-labour. And what more can I want?’
-
-‘And this is your plan,’ said the Secretary, ‘for running away?’
-
-‘Show me a better! My deary, show me a better! Why, I know very [[Well|well]],’
-said old Betty Higden, ‘and you know very [[Well|well]], that your lady and
-gentleman would set me up like a [[Queen|queen]] for the rest of my life, if so be
-that we could make it right among us to have it so. But we can’t make it
-right among us to have it so. I’ve never took [[Charity|charity]] yet, nor yet has
-any one belonging to me. And it would be forsaking of myself indeed, and
-forsaking of my children dead and gone, and forsaking of their children
-dead and gone, to set up a contradiction now at last.’
-
-‘It might come to be justifiable and unavoidable at last,’ the Secretary
-gently hinted, with a slight stress on the word.
-
-‘I [[Hope|hope]] it never will! It ain’t that I mean to give offence by being
-anyways proud,’ said the old creature simply, ‘but that I want to be of
-a piece like, and helpful of myself right through to my [[Death|death]].’
-
-‘And to be sure,’ added the Secretary, as a comfort for her, ‘Sloppy
-will be eagerly looking forward to his opportunity of being to you what
-you have been to him.’
-
-‘Trust him for that, sir!’ said Betty, cheerfully. ‘Though he had need
-to be something quick about it, for I’m a getting to be an old one. But
-I’m a strong one too, and travel and weather never hurt me yet! Now, be
-so kind as speak for me to your lady and gentleman, and tell ’em what I
-ask of their good friendliness to let me do, and why I ask it.’
-
-The Secretary felt that there was no gainsaying what was urged by
-this brave old heroine, and he presently repaired to Mrs Boffin and
-recommended her to let Betty Higden have her way, at all events for the
-[[Time|time]]. ‘It would be far more satisfactory to your kind heart, I know,’
-he said, ‘to provide for her, but it may be a duty to respect this
-independent spirit.’ Mrs Boffin was not proof against the consideration
-set before her. She and her husband had worked too, and had brought
-their simple [[Faith|faith]] and [[Honour|honour]] clean out of dustheaps. If they owed a
-duty to Betty Higden, of a surety that duty must be done.
-
-‘But, Betty,’ said Mrs Boffin, when she accompanied John Rokesmith back
-to his room, and shone upon her with the light of her radiant face,
-‘granted all else, I think I wouldn’t run away’.
-
-‘’Twould come easier to Sloppy,’ said Mrs Higden, shaking her head.
-‘’Twould come easier to me too. But ’tis as you please.’
-
-‘When would you go?’
-
-‘Now,’ was the bright and ready answer. ‘To-day, my deary, to-morrow.
-Bless ye, I am used to it. I know many parts of the country [[Well|well]]. When
-nothing else was to be done, I have worked in many a market-[[Garden|garden]] afore
-now, and in many a hop-[[Garden|garden]] too.’
-
-‘If I give my consent to your going, Betty—which Mr Rokesmith thinks I
-ought to do—’
-
-Betty thanked him with a grateful curtsey.
-
-‘—We must not lose sight of you. We must not let you pass out of our
-knowledge. We must know all about you.’
-
-‘Yes, my deary, but not through letter-writing, because
-letter-writing—indeed, writing of most sorts hadn’t much come up for
-such as me when I was young. But I shall be to and fro. No [[Fear|fear]] of
-my missing a chance of giving myself a sight of your reviving face.
-Besides,’ said Betty, with logical good [[Faith|faith]], ‘I shall have a debt to
-pay off, by littles, and naturally that would bring me back, if nothing
-else would.’
-
-‘MUST it be done?’ asked Mrs Boffin, still reluctant, of the Secretary.
-
-‘I think it must.’
-
-After more discussion it was agreed that it should be done, and Mrs
-Boffin summoned Bella to note down the little purchases that were
-necessary to set Betty up in trade. ‘Don’t ye be timorous for me, my
-dear,’ said the stanch old heart, observant of Bella’s face: ‘when I
-take my seat with my work, clean and busy and fresh, in a country
-market-place, I shall turn a sixpence as sure as ever a farmer’s wife
-there.’
-
-The Secretary took that opportunity of touching on the practical
-question of Mr Sloppy’s capabilities. He would have made a wonderful
-cabinet-maker, said Mrs Higden, ‘if there had been the money to put him
-to it.’ She had seen him handle tools that he had borrowed to mend
-the mangle, or to knock a broken piece of furniture together, in a
-surprising manner. As to constructing toys for the Minders, out of
-nothing, he had done that daily. And once as many as a dozen people had
-got together in the lane to see the neatness with which he fitted the
-broken pieces of a foreign monkey’s musical instrument. ‘That’s [[Well|well]],’
-said the Secretary. ‘It will not be hard to find a trade for him.’
-
-[[John Harmon]] being buried under [[Mountains|mountains]] now, the Secretary that very
-same day set himself to finish his affairs and have done with him. He
-drew up an ample declaration, to be signed by Rogue Riderhood (knowing
-he could get his signature to it, by making him another and much shorter
-evening call), and then considered to whom should he give the document?
-To Hexam’s son, or daughter? Resolved speedily, to the daughter. But it
-would be safer to avoid seeing the daughter, because the son had seen
-Julius Handford, and—he could not be too careful—there might possibly
-be some comparison of notes between the son and daughter, which would
-awaken slumbering suspicion, and lead to consequences. ‘I might even,’
-he reflected, ‘be apprehended as having been concerned in my own
-murder!’ Therefore, best to send it to the daughter under cover by the
-post. Pleasant Riderhood had undertaken to find out where she lived,
-and it was not necessary that it should be attended by a single word of
-explanation. So far, straight.
-
-But, all that he knew of the daughter he derived from Mrs Boffin’s
-accounts of what she heard from Mr Lightwood, who seemed to have a
-reputation for his manner of relating a story, and to have made this
-story quite his own. It interested him, and he would like to have
-the means of knowing more—as, for instance, that she received the
-exonerating paper, and that it satisfied her—by opening some channel
-altogether independent of Lightwood: who likewise had seen Julius
-Handford, who had publicly advertised for Julius Handford, and whom
-of all men he, the Secretary, most avoided. ‘But with whom the common
-course of things might bring me in a moment face to face, any day in the
-week or any hour in the day.’
-
-Now, to cast about for some likely means of opening such a channel. The
-boy, Hexam, was training for and with a schoolmaster. The Secretary knew
-it, because his sister’s share in that disposal of him seemed to be
-the best part of Lightwood’s account of the family. This young fellow,
-Sloppy, stood in need of some instruction. If he, the Secretary, engaged
-that schoolmaster to impart it to him, the channel might be opened. The
-next point was, did Mrs Boffin know the schoolmaster’s name? No, but she
-knew where the school was. Quite enough. Promptly the Secretary wrote
-to the master of that school, and that very evening [[Bradley Headstone]]
-answered in person.
-
-The Secretary stated to the schoolmaster how the object was, to send to
-him for certain occasional evening instruction, a youth whom Mr and Mrs
-Boffin wished to help to an industrious and useful place in life. The
-schoolmaster was willing to undertake the charge of such a pupil. The
-Secretary inquired on what terms? The schoolmaster stated on what terms.
-Agreed and disposed of.
-
-‘May I ask, sir,’ said [[Bradley Headstone]], ‘to whose good opinion I owe a
-recommendation to you?’
-
-‘You should know that I am not the principal here. I am Mr Boffin’s
-Secretary. Mr Boffin is a gentleman who inherited a property of which
-you may have heard some public mention; the Harmon property.’
-
-‘Mr Harmon,’ said Bradley: who would have been a great deal more at a
-loss than he was, if he had known to whom he spoke: ‘was murdered and
-found in the [[River|river]].’
-
-‘Was murdered and found in the [[River|river]].’
-
-‘It was not—’
-
-‘No,’ interposed the Secretary, smiling, ‘it was not he who recommended
-you. Mr Boffin heard of you through a certain Mr Lightwood. I think you
-know Mr Lightwood, or know of him?’
-
-‘I know as much of him as I wish to know, sir. I have no acquaintance
-with Mr Lightwood, and I [[Desire|desire]] none. I have no objection to Mr
-Lightwood, but I have a particular objection to some of Mr Lightwood’s
-friends—in short, to one of Mr Lightwood’s friends. His great friend.’
-
-He could hardly get the words out, even then and there, so fierce did
-he grow (though keeping himself down with infinite pains of repression),
-when the careless and contemptuous bearing of [[Eugene Wrayburn]] [[Rose|rose]]
-before his mind.
-
-The Secretary saw there was a strong feeling here on some sore point,
-and he would have made a diversion from it, but for Bradley’s holding to
-it in his cumbersome way.
-
-‘I have no objection to mention the friend by name,’ he said, doggedly.
-‘The person I object to, is Mr [[Eugene Wrayburn]].’
-
-The Secretary remembered him. In his disturbed recollection of that
-[[Night|night]] when he was striving against the drugged drink, there was but a
-dim image of Eugene’s person; but he remembered his name, and his manner
-of speaking, and how he had gone with them to view the [[Body|body]], and where
-he had stood, and what he had said.
-
-‘Pray, Mr Headstone, what is the name,’ he asked, again trying to make a
-diversion, ‘of young Hexam’s sister?’
-
-‘Her name is Lizzie,’ said the schoolmaster, with a strong contraction
-of his whole face.
-
-‘She is a young woman of a remarkable character; is she not?’
-
-‘She is sufficiently remarkable to be very superior to Mr Eugene
-Wrayburn—though an ordinary person might be that,’ said the
-schoolmaster; ‘and I [[Hope|hope]] you will not think it impertinent in me, sir,
-to ask why you put the two names together?’
-
-‘By mere accident,’ returned the Secretary. ‘Observing that Mr Wrayburn
-was a disagreeable subject with you, I tried to get away from it: though
-not very successfully, it would appear.’
-
-‘Do you know Mr Wrayburn, sir?’
-
-‘No.’
-
-‘Then perhaps the names cannot be put together on the authority of any
-representation of his?’
-
-‘Certainly not.’
-
-‘I took the liberty to ask,’ said Bradley, after casting his eyes on
-the ground, ‘because he is capable of making any representation, in the
-swaggering levity of his insolence. I—I [[Hope|hope]] you will not misunderstand
-me, sir. I—I am much interested in this brother and sister, and the
-subject awakens very strong feelings within me. Very, very, strong
-feelings.’ With a shaking hand, Bradley took out his handkerchief and
-wiped his brow.
-
-The Secretary thought, as he glanced at the schoolmaster’s face, that he
-had opened a channel here indeed, and that it was an unexpectedly dark
-and deep and stormy one, and difficult to sound. All at once, in the
-midst of his turbulent emotions, Bradley stopped and seemed to challenge
-his look. Much as though he suddenly asked him, ‘What do you see in me?’
-
-‘The brother, young Hexam, was your real recommendation here,’ said the
-Secretary, quietly going back to the point; ‘Mr and Mrs Boffin happening
-to know, through Mr Lightwood, that he was your pupil. Anything that
-I ask respecting the brother and sister, or either of them, I ask for
-myself out of my own interest in the subject, and not in my official
-character, or on Mr Boffin’s behalf. How I come to be interested, I need
-not explain. You know the father’s connection with the discovery of Mr
-Harmon’s [[Body|body]].’
-
-‘Sir,’ replied Bradley, very restlessly indeed, ‘I know all the
-circumstances of that case.’
-
-‘Pray tell me, Mr Headstone,’ said the Secretary. ‘Does the sister
-suffer under any stigma because of the impossible accusation—groundless
-would be a better word—that was made against the father, and
-substantially withdrawn?’
-
-‘No, sir,’ returned Bradley, with a kind of anger.
-
-‘I am very glad to hear it.’
-
-‘The sister,’ said Bradley, separating his words over-carefully, and
-speaking as if he were repeating them from a book, ‘suffers under no
-reproach that repels a man of unimpeachable character who had made
-for himself every step of his way in life, from placing her in his own
-station. I will not say, raising her to his own station; I say, placing
-her in it. The sister labours under no reproach, unless she should
-unfortunately make it for herself. When such a man is not deterred from
-regarding her as his equal, and when he has convinced himself that
-there is no blemish on her, I think the fact must be taken to be pretty
-expressive.’
-
-‘And there is such a man?’ said the Secretary.
-
-[[Bradley Headstone]] knotted his brows, and squared his large lower jaw,
-and fixed his eyes on the ground with an air of determination that
-seemed unnecessary to the occasion, as he replied: ‘And there is such a
-man.’
-
-The Secretary had no reason or excuse for prolonging the conversation,
-and it ended here. Within three hours the oakum-headed apparition once
-more dived into the Leaving Shop, and that [[Night|night]] Rogue Riderhood’s
-recantation lay in the post office, addressed under cover to Lizzie
-Hexam at her right address.
-
-All these proceedings occupied John Rokesmith so much, that it was not
-until the following day that he saw Bella again. It seemed then to be
-tacitly understood between them that they were to be as distantly easy
-as they could, without attracting the attention of Mr and Mrs Boffin to
-any marked change in their manner. The fitting out of old Betty Higden
-was favourable to this, as keeping Bella engaged and interested, and as
-occupying the general attention.
-
-‘I think,’ said Rokesmith, when they all stood about her, while she
-packed her tidy basket—except Bella, who was busily helping on her
-knees at the chair on which it stood; ‘that at least you might keep a
-letter in your pocket, Mrs Higden, which I would write for you and date
-from here, merely stating, in the names of Mr and Mrs Boffin, that they
-are your friends;—I won’t say patrons, because they wouldn’t like it.’
-
-‘No, no, no,’ said Mr Boffin; ‘no patronizing! Let’s keep out of THAT,
-whatever we come to.’
-
-‘There’s more than enough of that about, without us; ain’t there,
-Noddy?’ said Mrs Boffin.
-
-‘I believe you, old lady!’ returned the Golden Dustman. ‘Overmuch
-indeed!’
-
-‘But people sometimes like to be patronized; don’t they, sir?’ asked
-Bella, looking up.
-
-‘I don’t. And if THEY do, my dear, they ought to learn better,’ said Mr
-Boffin. ‘Patrons and Patronesses, and Vice-Patrons and Vice-Patronesses,
-and Deceased Patrons and Deceased Patronesses, and Ex-Vice-Patrons and
-Ex-Vice-Patronesses, what does it all mean in the books of the Charities
-that come pouring in on Rokesmith as he sits among ’em pretty [[Well|well]] up to
-his neck! If Mr Tom Noakes gives his five shillings ain’t he a Patron,
-and if Mrs Jack Styles gives her five shillings ain’t she a Patroness?
-What the deuce is it all about? If it ain’t stark staring impudence,
-what do you call it?’
-
-‘Don’t be warm, Noddy,’ Mrs Boffin urged.
-
-‘Warm!’ cried Mr Boffin. ‘It’s enough to make a man smoking hot. I can’t
-go anywhere without being Patronized. I don’t want to be Patronized. If
-I buy a ticket for a Flower Show, or a Music Show, or any sort of Show,
-and pay pretty heavy for it, why am I to be Patroned and Patronessed as
-if the Patrons and Patronesses treated me? If there’s a good thing to be
-done, can’t it be done on its own merits? If there’s a bad thing to
-be done, can it ever be Patroned and Patronessed right? Yet when a new
-Institution’s going to be built, it seems to me that the bricks and
-mortar ain’t made of half so much consequence as the Patrons and
-Patronesses; no, nor yet the objects. I wish somebody would tell me
-whether other countries get Patronized to anything like the extent of
-this one! And as to the Patrons and Patronesses themselves, I [[Wonder|wonder]]
-they’re not ashamed of themselves. They ain’t Pills, or Hair-Washes, or
-Invigorating Nervous Essences, to be puffed in that way!’
-
-Having delivered himself of these remarks, Mr Boffin took a trot,
-according to his usual custom, and trotted back to the spot from which
-he had started.
-
-‘As to the letter, Rokesmith,’ said Mr Boffin, ‘you’re as right as a
-trivet. Give her the letter, make her take the letter, put it in her
-pocket by violence. She might fall sick. You know you might fall sick,’
-said Mr Boffin. ‘Don’t deny it, Mrs Higden, in your obstinacy; you know
-you might.’
-
-Old Betty laughed, and said that she would take the letter and be
-thankful.
-
-‘That’s right!’ said Mr Boffin. ‘Come! That’s sensible. And don’t be
-thankful to us (for we never thought of it), but to Mr Rokesmith.’
-
-The letter was written, and read to her, and given to her.
-
-‘Now, how do you feel?’ said Mr Boffin. ‘Do you like it?’
-
-‘The letter, sir?’ said Betty. ‘Ay, it’s a beautiful letter!’
-
-‘No, no, no; not the letter,’ said Mr Boffin; ‘the idea. Are you sure
-you’re strong enough to carry out the idea?’
-
-‘I shall be stronger, and keep the deadness off better, this way, than
-any way left open to me, sir.’
-
-‘Don’t say than any way left open, you know,’ urged Mr Boffin; ‘because
-there are ways without end. A housekeeper would be acceptable over
-yonder at the Bower, for instance. Wouldn’t you like to see the
-Bower, and know a retired literary man of the name of Wegg that lives
-there—WITH a wooden leg?’
-
-Old Betty was proof even against this [[Temptation|temptation]], and fell to adjusting
-her black bonnet and shawl.
-
-‘I wouldn’t let you go, now it comes to this, after all,’ said Mr
-Boffin, ‘if I didn’t [[Hope|hope]] that it may make a man and a workman of
-Sloppy, in as short a [[Time|time]] as ever a man and workman was made yet. Why,
-what have you got there, Betty? Not a doll?’
-
-It was the man in the Guards who had been on duty over Johnny’s bed.
-The solitary old woman showed what it was, and put it up quietly in her
-dress. Then, she gratefully took leave of Mrs Boffin, and of Mr Boffin,
-and of Rokesmith, and then put her old withered arms round Bella’s young
-and blooming neck, and said, repeating Johnny’s words: ‘A kiss for the
-boofer lady.’
-
-The Secretary looked on from a doorway at the boofer lady thus
-encircled, and still looked on at the boofer lady standing [[Alone|alone]] there,
-when the determined old figure with its steady bright eyes was trudging
-through the streets, away from paralysis and pauperism.
+Chapter 16
+
+AN ANNIVERSARY OCCASION
+
+
+The estimable Twemlow, dressing himself in his lodgings over the
+stable-yard in Duke Street, Saint James’s, and hearing the horses at
+their toilette below, finds himself on the whole in a disadvantageous
+position as compared with the noble [[Animals|animals]] at livery. For whereas, on
+the one hand, he has no attendant to slap him soundingly and require him
+in gruff accents to come up and come over, still, on the other hand,
+he has no attendant at all; and the mild gentleman’s finger-joints and
+other joints working rustily in the morning, he could deem it agreeable
+even to be tied up by the countenance at his chamber-door, so he were
+there skilfully rubbed down and slushed and sluiced and polished and
+clothed, while himself taking merely a passive part in these trying
+transactions.
+
+How the fascinating Tippins gets on when arraying herself for the
+bewilderment of the senses of men, is known only to the Graces and her
+maid; but perhaps even that engaging creature, though not reduced to
+the [[Self|self]]-dependence of Twemlow could dispense with a good deal of the
+trouble attendant on the daily restoration of her charms, seeing that
+as to her face and neck this adorable divinity is, as it were, a diurnal
+species of lobster—throwing off a shell every forenoon, and needing to
+keep in a retired spot until the new crust hardens.
+
+Howbeit, Twemlow doth at length invest himself with collar and cravat
+and wristbands to his knuckles, and goeth forth to breakfast. And to
+breakfast with whom but his near neighbours, the Lammles of Sackville
+Street, who have imparted to him that he will meet his distant kinsman,
+Mr Fledgely. The awful Snigsworth might taboo and prohibit Fledgely, but
+the peaceable Twemlow reasons, If he IS my kinsman I didn’t make him so,
+and to meet a man is not to know him.’
+
+It is the first anniversary of the happy [[Marriage|marriage]] of Mr and Mrs Lammle,
+and the celebration is a breakfast, because a dinner on the desired
+scale of sumptuosity cannot be achieved within less limits than those
+of the non-existent palatial residence of which so many people are
+madly envious. So, Twemlow trips with not a little stiffness across
+Piccadilly, sensible of having once been more upright in figure and less
+in danger of being knocked down by swift vehicles. To be sure that was
+in the days when he hoped for leave from the dread Snigsworth to do
+something, or be something, in life, and before that magnificent Tartar
+issued the ukase, ‘As he will never distinguish himself, he must be a
+poor gentleman-pensioner of mine, and let him hereby consider himself
+pensioned.’
+
+Ah! my Twemlow! Say, little feeble grey personage, what thoughts are in
+thy breast to-day, of the Fancy—so still to call her who bruised thy
+heart when it was green and thy head brown—and whether it be better or
+worse, more painful or less, to believe in the Fancy to this hour, than
+to know her for a greedy armour-plated crocodile, with no more capacity
+of imagining the delicate and sensitive and tender spot behind thy
+waistcoat, than of going straight at it with a knitting-needle. Say
+likewise, my Twemlow, whether it be the happier lot to be a poor
+relation of the great, or to stand in the wintry slush giving the hack
+horses to drink out of the shallow tub at the coach-stand, into which
+thou has so nearly set thy uncertain foot. Twemlow says nothing, and
+goes on.
+
+As he approaches the Lammles’ door, drives up a little one-[[Horse|horse]]
+carriage, containing Tippins the divine. Tippins, letting down the
+[[Window|window]], playfully extols the vigilance of her cavalier in being in
+waiting there to hand her out. Twemlow hands her out with as much polite
+gravity as if she were anything real, and they proceed upstairs. Tippins
+all abroad about the legs, and seeking to express that those unsteady
+articles are only skipping in their native buoyancy.
+
+And dear Mrs Lammle and dear Mr Lammle, how do you do, and when are
+you going down to what’s-its-name place—Guy, [[Earl of Warwick]], you
+know—what is it?—Dun Cow—to claim the flitch of bacon? And Mortimer,
+whose name is for ever blotted out from my list of [[lovers]], by reason
+first of fickleness and then of base desertion, how do YOU do, wretch?
+And Mr Wrayburn, YOU here! What can YOU come for, because we are all
+very sure before-hand that you are not going to talk! And Veneering,
+M.P., how are things going on down at the [[house]], and when will you turn
+out those terrible people for us? And Mrs Veneering, my dear, can it
+positively be true that you go down to that stifling place [[Night|night]] after
+[[Night|night]], to hear those men prose? Talking of which, Veneering, why don’t
+you prose, for you haven’t opened your lips there yet, and we are dying
+to hear what you have got to say to us! Miss Podsnap, charmed to see
+you. Pa, here? No! Ma, neither? Oh! Mr Boots! Delighted. Mr Brewer!
+This IS a gathering of the clans. Thus Tippins, and surveys Fledgeby and
+outsiders through golden glass, murmuring as she turns about and about,
+in her [[Innocent|innocent]] giddy way, Anybody else I know? No, I think not. Nobody
+there. Nobody THERE. Nobody anywhere!
+
+Mr Lammle, all a-glitter, produces his friend Fledgeby, as dying for the
+[[Honour|honour]] of presentation to Lady Tippins. Fledgeby presented, has the air
+of going to say something, has the air of going to say nothing, has an
+air successively of meditation, of [[Resignation|resignation]], and of desolation,
+backs on Brewer, makes the tour of Boots, and fades into the extreme
+background, feeling for his whisker, as if it might have turned up since
+he was there five minutes ago.
+
+But Lammle has him out again before he has so much as completely
+ascertained the bareness of the land. He would seem to be in a bad way,
+Fledgeby; for Lammle represents him as dying again. He is dying now, of
+want of presentation to Twemlow.
+
+Twemlow offers his hand. Glad to see him. ‘Your mother, sir, was a
+connexion of mine.’
+
+‘I believe so,’ says Fledgeby, ‘but my mother and her family were two.’
+
+‘Are you staying in town?’ asks Twemlow.
+
+‘I always am,’ says Fledgeby.
+
+‘You like town,’ says Twemlow. But is felled flat by Fledgeby’s taking
+it quite ill, and replying, No, he don’t like town. Lammle tries to
+break the force of the fall, by remarking that some people do not like
+town. Fledgeby retorting that he never heard of any such case but his
+own, Twemlow goes down again heavily.
+
+‘There is nothing new this morning, I suppose?’ says Twemlow, returning
+to the mark with great spirit.
+
+Fledgeby has not heard of anything.
+
+‘No, there’s not a word of news,’ says Lammle.
+
+‘Not a particle,’ adds Boots.
+
+‘Not an atom,’ chimes in Brewer.
+
+Somehow the execution of this little concerted piece appears to raise
+the general spirits as with a sense of duty done, and sets the company a
+going. Everybody seems more equal than before, to the calamity of being
+in the society of everybody else. Even Eugene standing in a [[Window|window]],
+moodily swinging the tassel of a blind, gives it a smarter jerk now, as
+if he found himself in better case.
+
+Breakfast announced. Everything on table showy and gaudy, but with
+a [[Self|self]]-assertingly temporary and nomadic air on the decorations, as
+boasting that they will be much more showy and gaudy in the palatial
+residence. Mr Lammle’s own particular servant behind his chair; the
+Analytical behind Veneering’s chair; instances in point that
+such servants fall into two classes: one mistrusting the master’s
+acquaintances, and the other mistrusting the master. Mr Lammle’s
+servant, of the second class. Appearing to be lost in [[Wonder|wonder]] and low
+spirits because the police are so long in coming to take his master up
+on some charge of the first magnitude.
+
+Veneering, M.P., on the right of Mrs Lammle; Twemlow on her left; Mrs
+Veneering, W.M.P. (wife of Member of Parliament), and Lady Tippins on Mr
+Lammle’s right and left. But be sure that [[Well|well]] within the fascination of
+Mr Lammle’s eye and smile sits little Georgiana. And be sure that
+close to little Georgiana, also under inspection by the same gingerous
+gentleman, sits Fledgeby.
+
+Oftener than twice or thrice while breakfast is in progress, Mr Twemlow
+gives a little sudden turn towards Mrs Lammle, and then says to her, ‘I
+beg your pardon!’ This not being Twemlow’s usual way, why is it his
+way to-day? Why, the [[Truth|truth]] is, Twemlow repeatedly labours under the
+impression that Mrs Lammle is going to speak to him, and turning finds
+that it is not so, and mostly that she has her eyes upon Veneering.
+Strange that this impression so abides by Twemlow after being corrected,
+yet so it is.
+
+Lady Tippins partaking plentifully of the fruits of the earth (including
+grape-juice in the category) becomes livelier, and applies herself to
+elicit sparks from Mortimer Lightwood. It is always understood among the
+initiated, that that faithless [[Lover|lover]] must be planted at table opposite
+to Lady Tippins, who will then strike conversational [[Fire|fire]] out of him.
+In a pause of mastication and deglutition, Lady Tippins, contemplating
+Mortimer, recalls that it was at our dear Veneerings, and in the
+presence of a party who are surely all here, that he told them his
+story of the man from somewhere, which afterwards became so horribly
+interesting and vulgarly popular.
+
+‘Yes, Lady Tippins,’ assents Mortimer; ‘as they say on the stage, “Even
+so!”’
+
+‘Then we expect you,’ retorts the charmer, ‘to sustain your reputation,
+and tell us something else.’
+
+‘Lady Tippins, I exhausted myself for life that day, and there is
+nothing more to be got out of me.’
+
+Mortimer parries thus, with a sense upon him that elsewhere it is Eugene
+and not he who is the jester, and that in these circles where Eugene
+persists in being speechless, he, Mortimer, is but the [[Double|double]] of the
+friend on whom he has founded himself.
+
+‘But,’ quoth the fascinating Tippins, ‘I am resolved on getting
+something more out of you. Traitor! what is this I hear about another
+disappearance?’
+
+‘As it is you who have heard it,’ returns Lightwood, ‘perhaps you’ll
+tell us.’
+
+‘[[Monster]], away!’ retorts Lady Tippins. ‘Your own Golden Dustman referred
+me to you.’
+
+Mr Lammle, striking in here, proclaims aloud that there is a sequel
+to the story of the man from somewhere. [[Silence]] ensues upon the
+proclamation.
+
+‘I assure you,’ says Lightwood, glancing round the table, ‘I have
+nothing to tell.’ But Eugene adding in a low voice, ‘There, tell
+it, tell it!’ he corrects himself with the addition, ‘Nothing worth
+mentioning.’
+
+Boots and Brewer immediately perceive that it is immensely worth
+mentioning, and become politely clamorous. Veneering is also visited by
+a perception to the same effect. But it is understood that his attention
+is now rather used up, and difficult to hold, that being the tone of the
+[[house|House]] of Commons.
+
+‘Pray don’t be at the trouble of composing yourselves to listen,’ says
+Mortimer Lightwood, ‘because I shall have finished long before you have
+fallen into comfortable attitudes. It’s like—’
+
+‘It’s like,’ impatiently interrupts Eugene, ‘the children’s narrative:
+
+     “I’ll tell you a story
+     Of Jack a Manory,
+     And now my story’s begun;
+     I’ll tell you another
+     Of Jack and his brother,
+     And now my story is done.”
+
+—Get on, and get it over!’
+
+Eugene says this with a sound of vexation in his voice, leaning back in
+his chair and looking balefully at Lady Tippins, who nods to him as
+her dear Bear, and playfully insinuates that she (a [[Self|self]]-evident
+proposition) is [[Beauty]], and he Beast.
+
+‘The reference,’ proceeds Mortimer, ‘which I suppose to be made by my
+honourable and fair enslaver opposite, is to the following circumstance.
+Very lately, the young woman, [[Lizzie Hexam]], daughter of the late Jesse
+Hexam, otherwise Gaffer, who will be remembered to have found the [[Body|body]]
+of the man from somewhere, mysteriously received, she knew not from
+whom, an explicit retraction of the charges made against her father, by
+another [[Water|water]]-side character of the name of Riderhood. Nobody believed
+them, because little Rogue Riderhood—I am tempted into the paraphrase
+by remembering the charming wolf who would have rendered society a great
+service if he had devoured Mr Riderhood’s father and mother in their
+infancy—had previously played fast and loose with the said charges,
+and, in fact, abandoned them. However, the retraction I have mentioned
+found its way into [[Lizzie Hexam]]’s hands, with a general flavour on it
+of having been favoured by some anonymous messenger in a dark cloak and
+slouched hat, and was by her forwarded, in her father’s vindication, to
+Mr Boffin, my client. You will excuse the phraseology of the shop, but
+as I never had another client, and in all likelihood never shall have, I
+am rather proud of him as a natural curiosity probably unique.’
+
+Although as easy as usual on the surface, Lightwood is not quite as easy
+as usual below it. With an air of not minding Eugene at all, he feels
+that the subject is not altogether a safe one in that connexion.
+
+‘The natural curiosity which forms the sole ornament of my professional
+museum,’ he resumes, ‘hereupon desires his Secretary—an individual
+of the hermit-crab or oyster species, and whose name, I think, is
+Chokesmith—but it doesn’t in the least matter—say Artichoke—to put
+himself in communication with [[Lizzie Hexam]]. Artichoke professes his
+readiness so to do, endeavours to do so, but fails.’
+
+‘Why fails?’ asks Boots.
+
+‘How fails?’ asks Brewer.
+
+‘Pardon me,’ returns Lightwood, ‘I must postpone the reply for one
+moment, or we shall have an anti-climax. Artichoke failing signally, my
+client refers the task to me: his purpose being to advance the interests
+of the object of his search. I proceed to put myself in communication
+with her; I even happen to possess some special means,’ with a glance
+at Eugene, ‘of putting myself in communication with her; but I fail too,
+because she has vanished.’
+
+‘Vanished!’ is the general echo.
+
+‘Disappeared,’ says Mortimer. ‘Nobody knows how, nobody knows when,
+nobody knows where. And so ends the story to which my honourable and
+fair enslaver opposite referred.’
+
+Tippins, with a bewitching little scream, opines that we shall every one
+of us be murdered in our beds. Eugene eyes her as if some of us would
+be enough for him. Mrs Veneering, W.M.P., remarks that these social
+mysteries make one afraid of leaving Baby. Veneering, M.P., wishes to
+be informed (with something of a second-hand air of seeing the Right
+Honourable Gentleman at the head of the [[Home]] Department in his place)
+whether it is intended to be conveyed that the vanished person has been
+spirited away or otherwise harmed? Instead of Lightwood’s answering,
+Eugene answers, and answers hastily and vexedly: ‘No, no, no; he doesn’t
+mean that; he means voluntarily vanished—but utterly—completely.’
+
+However, the great subject of the happiness of Mr and Mrs Lammle must
+not be allowed to vanish with the other vanishments—with the vanishing
+of the murderer, the vanishing of Julius Handford, the vanishing of
+[[Lizzie Hexam]],—and therefore Veneering must recall the present sheep
+to the pen from which they have strayed. Who so fit to discourse of
+the happiness of Mr and Mrs Lammle, they being the dearest and oldest
+friends he has in the world; or what audience so fit for him to take
+into his confidence as that audience, a noun of multitude or signifying
+many, who are all the oldest and dearest friends he has in the world?
+So Veneering, without the formality of rising, launches into a familiar
+oration, gradually toning into the Parliamentary sing-[[Song|song]], in which he
+sees at that board his dear friend Twemlow who on that day twelvemonth
+bestowed on his dear friend Lammle the fair hand of his dear friend
+Sophronia, and in which he also sees at that board his dear friends
+Boots and Brewer whose rallying round him at a period when his dear
+friend Lady Tippins likewise rallied round him—ay, and in the foremost
+rank—he can never forget while [[Memory|memory]] holds her seat. But he is free
+to confess that he misses from that board his dear old friend Podsnap,
+though he is [[Well|well]] represented by his dear young friend Georgiana. And he
+further sees at that board (this he announces with pomp, as if exulting
+in the powers of an extraordinary telescope) his friend Mr Fledgeby, if
+he will permit him to call him so. For all of these reasons, and many
+more which he right [[Well|well]] knows will have occurred to persons of your
+exceptional acuteness, he is here to submit to you that the [[Time|time]] has
+arrived when, with our hearts in our glasses, with [[Tears|tears]] in our eyes,
+with blessings on our lips, and in a general way with a profusion of
+gammon and spinach in our emotional larders, we should one and all drink
+to our dear friends the Lammles, wishing them many years as happy as
+the last, and many many friends as congenially united as themselves. And
+this he will add; that Anastatia Veneering (who is instantly heard to
+weep) is formed on the same model as her old and chosen friend Sophronia
+Lammle, in respect that she is devoted to the man who wooed and won her,
+and nobly discharges the duties of a wife.
+
+Seeing no better way out of it, Veneering here pulls up his oratorical
+Pegasus extremely short, and plumps down, clean over his head, with:
+‘Lammle, God bless you!’
+
+Then Lammle. Too much of him every way; pervadingly too much nose of a
+coarse wrong shape, and his nose in his mind and his manners; too much
+smile to be real; too much frown to be false; too many large teeth to be
+visible at once without suggesting a bite. He thanks you, dear friends,
+for your kindly greeting, and hopes to receive you—it may be on the
+next of these delightful occasions—in a residence better suited to
+your claims on the rites of hospitality. He will never forget that at
+Veneering’s he first saw Sophronia. Sophronia will never forget that at
+Veneering’s she first saw him. ‘They spoke of it soon after they
+were married, and agreed that they would never forget it. In fact, to
+Veneering they owe their [[Union|union]]. They [[Hope|hope]] to show their sense of this
+some day (‘No, no, from Veneering)—oh yes, yes, and let him rely
+upon it, they will if they can! His [[Marriage|marriage]] with Sophronia was not a
+[[Marriage|marriage]] of interest on either side: she had her little fortune, he had
+his little fortune: they joined their little fortunes: it was a [[Marriage|marriage]]
+of pure inclination and suitability. Thank you! Sophronia and he are
+fond of the society of young people; but he is not sure that their [[house]]
+would be a good [[house]] for young people proposing to remain single, since
+the contemplation of its domestic bliss might induce them to change
+their minds. He will not apply this to any one present; certainly not
+to their darling little Georgiana. Again thank you! Neither, by-the-by,
+will he apply it to his friend Fledgeby. He thanks Veneering for the
+feeling manner in which he referred to their common friend Fledgeby, for
+he holds that gentleman in the highest estimation. Thank you. In fact
+(returning unexpectedly to Fledgeby), the better you know him, the more
+you find in him that you [[Desire|desire]] to know. Again thank you! In his dear
+Sophronia’s name and in his own, thank you!
+
+Mrs Lammle has sat quite still, with her eyes cast down upon the
+table-cloth. As Mr Lammle’s address ends, Twemlow once more turns to her
+involuntarily, not cured yet of that often recurring impression that she
+is going to speak to him. This [[Time|time]] she really is going to speak to him.
+Veneering is talking with his other next neighbour, and she speaks in a
+low voice.
+
+‘Mr Twemlow.’
+
+He answers, ‘I beg your pardon? Yes?’ Still a little doubtful, because
+of her not looking at him.
+
+‘You have the [[Soul|soul]] of a gentleman, and I know I may trust you. Will you
+give me the opportunity of saying a few words to you when you come up
+stairs?’
+
+‘Assuredly. I shall be honoured.’
+
+‘Don’t seem to do so, if you please, and don’t think it inconsistent if
+my manner should be more careless than my words. I may be watched.’
+
+Intensely astonished, Twemlow puts his hand to his forehead, and sinks
+back in his chair meditating. Mrs Lammle rises. All rise. The ladies go
+up stairs. The gentlemen soon saunter after them. Fledgeby has devoted
+the interval to taking an observation of Boots’s whiskers, Brewer’s
+whiskers, and Lammle’s whiskers, and considering which pattern of
+whisker he would prefer to produce out of himself by friction, if the
+Genie of the cheek would only answer to his rubbing.
+
+In the drawing-room, groups form as usual. Lightwood, Boots, and Brewer,
+flutter like moths around that yellow wax candle—guttering down,
+and with some hint of a winding-sheet in it—Lady Tippins. Outsiders
+cultivate Veneering, M P., and Mrs Veneering, W.M.P. Lammle stands with
+folded arms, Mephistophelean in a corner, with Georgiana and Fledgeby.
+Mrs Lammle, on a sofa by a table, invites Mr Twemlow’s attention to a
+book of portraits in her hand.
+
+Mr Twemlow takes his station on a settee before her, and Mrs Lammle
+shows him a portrait.
+
+‘You have reason to be surprised,’ she says softly, ‘but I wish you
+wouldn’t look so.’
+
+Disturbed Twemlow, making an effort not to look so, looks much more so.
+
+‘I think, Mr Twemlow, you never saw that distant connexion of yours
+before to-day?’
+
+‘No, never.’
+
+‘Now that you do see him, you see what he is. You are not proud of him?’
+
+‘To say the [[Truth|truth]], Mrs Lammle, no.’
+
+‘If you knew more of him, you would be less inclined to acknowledge him.
+Here is another portrait. What do you think of it?’
+
+Twemlow has just presence of mind enough to say aloud: ‘Very like!
+Uncommonly like!’
+
+‘You have noticed, perhaps, whom he favours with his attentions? You
+notice where he is now, and how engaged?’
+
+‘Yes. But Mr Lammle—’
+
+She darts a look at him which he cannot comprehend, and shows him
+another portrait.
+
+‘Very good; is it not?’
+
+‘Charming!’ says Twemlow.
+
+‘So like as to be almost a caricature?—Mr Twemlow, it is impossible
+to tell you what the struggle in my mind has been, before I could bring
+myself to speak to you as I do now. It is only in the conviction that I
+may trust you never to betray me, that I can proceed. Sincerely promise
+me that you never will betray my confidence—that you will respect it,
+even though you may no longer respect me,—and I shall be as satisfied
+as if you had sworn it.’
+
+‘Madam, on the [[Honour|honour]] of a poor gentleman—’
+
+‘Thank you. I can [[Desire|desire]] no more. Mr Twemlow, I implore you to save that
+[[Child|child]]!’
+
+‘That [[Child|child]]?’
+
+‘Georgiana. She will be sacrificed. She will be inveigled and married
+to that connexion of yours. It is a partnership affair, a
+money-speculation. She has no strength of will or character to help
+herself and she is on the brink of being sold into wretchedness for
+life.’
+
+‘Amazing! But what can I do to prevent it?’ demands Twemlow, shocked and
+bewildered to the last degree.
+
+‘Here is another portrait. And not good, is it?’
+
+Aghast at the light manner of her throwing her head back to look at it
+critically, Twemlow still dimly perceives the expediency of throwing his
+own head back, and does so. Though he no more sees the portrait than if
+it were in China.
+
+‘Decidedly not good,’ says Mrs Lammle. ‘Stiff and exaggerated!’
+
+‘And ex—’ But Twemlow, in his demolished state, cannot command the
+word, and trails off into ‘—actly so.’
+
+‘Mr Twemlow, your word will have weight with her pompous, [[Self|self]]-blinded
+father. You know how much he makes of your family. Lose no [[Time|time]]. Warn
+him.’
+
+‘But warn him against whom?’
+
+‘Against me.’
+
+By great good fortune Twemlow receives a stimulant at this critical
+instant. The stimulant is Lammle’s voice.
+
+‘Sophronia, my dear, what portraits are you showing Twemlow?’
+
+‘Public characters, Alfred.’
+
+‘Show him the last of me.’
+
+‘Yes, Alfred.’
+
+She puts the book down, takes another book up, turns the [[Leaves|leaves]], and
+presents the portrait to Twemlow.
+
+‘That is the last of Mr Lammle. Do you think it good?—Warn her father
+against me. I deserve it, for I have been in the scheme from the first.
+It is my husband’s scheme, your connexion’s, and mine. I tell you this,
+only to show you the necessity of the poor little foolish affectionate
+creature’s being befriended and rescued. You will not repeat this to her
+father. You will spare me so far, and spare my husband. For, though this
+celebration of to-day is all a mockery, he is my husband, and we must
+live.—Do you think it like?’
+
+Twemlow, in a stunned condition, feigns to compare the portrait in his
+hand with the original looking towards him from his Mephistophelean
+corner.
+
+‘Very [[Well|well]] indeed!’ are at length the words which Twemlow with great
+difficulty extracts from himself.
+
+‘I am glad you think so. On the whole, I myself consider it the best.
+The others are so dark. Now here, for instance, is another of Mr
+Lammle—’
+
+‘But I don’t understand; I don’t see my way,’ Twemlow stammers, as he
+falters over the book with his glass at his eye. ‘How warn her father,
+and not tell him? Tell him how much? Tell him how little? I—I—am
+getting lost.’
+
+‘Tell him I am a match-maker; tell him I am an artful and designing
+woman; tell him you are sure his daughter is best out of my [[house]] and my
+company. Tell him any such things of me; they will all be true. You know
+what a puffed-up man he is, and how easily you can cause his [[Vanity|vanity]] to
+take the alarm. Tell him as much as will give him the alarm and make
+him careful of her, and spare me the rest. Mr Twemlow, I feel my sudden
+degradation in your eyes; familiar as I am with my degradation in my own
+eyes, I keenly feel the change that must have come upon me in yours,
+in these last few moments. But I trust to your good [[Faith|faith]] with me as
+implicitly as when I began. If you knew how often I have tried to speak
+to you to-day, you would almost pity me. I want no new promise from you
+on my own account, for I am satisfied, and I always shall be satisfied,
+with the promise you have given me. I can venture to say no more, for
+I see that I am watched. If you would set my mind at rest with the
+assurance that you will interpose with the father and save this harmless
+girl, close that book before you return it to me, and I shall know what
+you mean, and deeply thank you in my heart.—Alfred, Mr Twemlow thinks
+the last one the best, and quite agrees with you and me.’
+
+Alfred advances. The groups break up. Lady Tippins rises to go, and Mrs
+Veneering follows her leader. For the moment, Mrs Lammle does not turn
+to them, but remains looking at Twemlow looking at Alfred’s portrait
+through his eyeglass. The moment past, Twemlow drops his eyeglass at its
+ribbon’s length, rises, and closes the book with an emphasis which makes
+that fragile nursling of the fairies, Tippins, start.
+
+Then good-bye and good-bye, and charming occasion worthy of the Golden
+Age, and more about the flitch of bacon, and the like of that; and
+Twemlow goes staggering across Piccadilly with his hand to his forehead,
+and is nearly run down by a flushed lettercart, and at last drops
+safe in his easy-chair, [[Innocent|innocent]] good gentleman, with his hand to his
+forehead still, and his head in a whirl.

@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 48 (part 2)"
+title: "Bleak House — Chapter 48 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_48/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_48/part_03">part 03 ›</a></div>
 </nav>
 
+
+She detaches herself from her simple-hearted companion and [[Leaves|leaves]] the
+room. Late in the afternoon, when she next appears upon the
+staircase, she is in her haughtiest and coldest state. As indifferent
+as if all passion, feeling, and interest had been worn out in the
+earlier [[Ages of the World|ages of the world]] and had perished from its surface with its
+other departed monsters.
 
 Mercury has announced Mr. Rouncewell, which is the cause of her
 appearance. Mr. Rouncewell is not in the library, but she repairs to

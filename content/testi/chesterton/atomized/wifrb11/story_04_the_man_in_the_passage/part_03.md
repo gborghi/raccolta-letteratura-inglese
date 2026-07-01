@@ -1,5 +1,5 @@
 ---
-title: "[[wifrb11]] — The Man in the Passage (part 3)"
+title: "wifrb11 — The Man in the Passage (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_04">part 04 ›</a></div>
 </nav>
 
+
+     "I must show this stupid man where to go," said Aurora
+in a whisper to Seymour, and ran out to the threshold to [[Speed|speed]]
+the parting guest.
 
      Seymour seemed to be listening, elegant and unconscious
 as was his posture, and he seemed relieved when he heard the lady call out
@@ -122,6 +126,3 @@ bore him back across tilted chair and table, Bruno had twisted
 the dagger out of his grasp and disabled him just below the wrist. 
 The injury was really slight, but till he was removed from the room
 the half-savage prisoner stared at the running [[Blood|blood]] with a steady smile.
-
-     "Looks a cannibal sort of chap, don't he?" said the constable
-confidentially to Cutler.

@@ -1,5 +1,5 @@
 ---
-title: "[[The Oblong Box]] (part 5)"
+title: "The Oblong Box (part 5)"
 author: "Poe"
 unitType: excerpt
 tags:
@@ -11,6 +11,38 @@ tags:
 <div class="excerpt-crumb">Poe · The Oblong Box</div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_oblong_box/part/part_04">‹ part 04</a><span></span></div>
 </nav>
+
+
+      implore you to put back for the box!”
+
+
+
+      The captain, for a moment, seemed touched by the earnest appeal
+
+      of the [[artist]], but he regained his stern composure, and merely
+
+      said:
+
+
+
+      “Mr. Wyatt, you are mad. I cannot listen to you. Sit down, I say,
+
+      or you will swamp the boat. Stay—hold him—seize him!—he is about
+
+      to [[spring]] overboard! There—I knew it—he is over!”
+
+
+
+      As the captain said this, Mr. Wyatt, in fact, sprang from the
+
+      boat, and, as we were yet in the lee of the wreck, succeeded, by
+
+      almost superhuman exertion, in getting hold of a rope which hung
+
+      from the fore-[[Chains|chains]]. In another moment he was on board, and
+
+      rushing frantically down into the cabin.
+
 
 
       In the meantime, we had been swept astern of the [[Ship|ship]], and being

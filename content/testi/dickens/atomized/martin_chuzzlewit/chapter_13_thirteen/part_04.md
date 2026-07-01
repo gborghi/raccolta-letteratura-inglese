@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 13: THIRTEEN (part 4)"
+title: "Martin Chuzzlewit — Chapter 13: THIRTEEN (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,37 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_13_thirteen/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_13_thirteen/part_05">part 05 ›</a></div>
 </nav>
 
+
+‘It’ll never be the last [[Time|time]] till it’s quite worn out,’ rejoined the
+shopman. ‘It’s grown yellow in the service as it is.’
+
+‘Its master has grown yellow in the service, if you mean that, my
+friend,’ said Mr Tigg; ‘in the patriotic service of an ungrateful
+country. You are making it two-and-six, I think?’
+
+‘I’m making it,’ returned the shopman, ‘what it always has been--two
+shillings. Same name as usual, I suppose?’
+
+‘Still the same name,’ said Mr Tigg; ‘my claim to the dormant peerage
+not being yet established by the [[house|House]] of Lords.’
+
+‘The old address?’
+
+‘Not at all,’ said Mr Tigg; ‘I have removed my town establishment from
+thirty-eight, Mayfair, to number fifteen-hundred-and-forty-two, Park
+Lane.’
+
+‘Come, I’m not going to put down that, you know,’ said the shopman with
+a grin.
+
+‘You may put down what you please, my friend,’ quoth Mr Tigg. ‘The fact
+is still the same. The apartments for the under-butler and the fifth
+footman being of a most confounded low and vulgar kind at thirty-eight,
+Mayfair, I have been compelled, in my regard for the feelings which do
+them so much [[Honour|honour]], to take on lease for seven, fourteen, or twenty-one
+years, renewable at the option of the tenant, the elegant and commodious
+family mansion, number fifteen-hundred-and-forty-two Park Lane. Make it
+two-and-six, and come and see me!’
 
 The shopman was so highly entertained by this piece of [[Humour|humour]] that Mr
 Tigg himself could not repress some little show of exultation. It vented
@@ -107,29 +138,3 @@ pecuniary advance, in which I have rendered you my humble services.
 After the terms in which you have addressed me, sir,’ concluded Mr
 Tigg, ‘you will not insult me, if you please, by offering more than
 half-a-[[Crown|crown]].’
-
-Martin drew that piece of money from his pocket, and tossed it towards
-him. Mr Tigg caught it, looked at it to assure himself of its goodness,
-spun it in the air after the manner of a pieman, and buttoned it up.
-Finally, he raised his hat an inch or two from his head with a military
-air, and, after pausing a moment with deep gravity, as to decide in
-which direction he should go, and to what Earl or Marquis among his
-friends he should give the preference in his next call, stuck his hands
-in his skirt-pockets and swaggered round the corner. Martin took the
-directly opposite course; and so, to his great content, they parted
-company.
-
-It was with a bitter sense of humiliation that he cursed, again and
-again, the mischance of having encountered this man in the pawnbroker’s
-shop. The only comfort he had in the recollection was, Mr Tigg’s
-voluntary avowal of a separation between himself and Slyme, that would
-at least prevent his circumstances (so Martin argued) from being known
-to any member of his family, the bare possibility of which filled him
-with shame and wounded [[Pride|pride]]. Abstractedly there was greater reason,
-perhaps, for supposing any declaration of Mr Tigg’s to be false, than
-for attaching the least credence to it; but remembering the terms on
-which the intimacy between that gentleman and his bosom friend had
-subsisted, and the strong probability of Mr Tigg’s having established
-an independent business of his own on Mr Slyme’s connection, it had a
-reasonable appearance of probability; at all events, Martin hoped so;
-and that went a long way.

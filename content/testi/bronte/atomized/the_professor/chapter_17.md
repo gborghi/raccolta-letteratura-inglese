@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 16"
+title: "The Professor — Chapter 16"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-professor-(bronte)"
@@ -15,8 +15,6 @@ tags:
 
 
 CHAPTER XVI.
-
-
 
 In the course of another fortnight I had seen sufficient of Frances
 
@@ -110,8 +108,6 @@ the same preoccupied, unsmiling, sorrowfully resolved air that always
 
 shaded her features under the roof of Mdlle. Reuter, I could not tell.
 
-
-
 One day I gave, as a devoir, the trite little anecdote of Alfred tending
 
 cakes in the herdsman’s hut, to be related with amplifications. A
@@ -132,8 +128,6 @@ copied the anecdote out fair. I wrote on the margin of her production
 
 “Stupid and deceitful,” and then tore it down the middle.
 
-
-
 Last in the pile of single-leaved devoirs, I found one of several
 
 sheets, neatly written out and stitched together; I knew the hand, and
@@ -141,8 +135,6 @@ sheets, neatly written out and stitched together; I knew the hand, and
 scarcely needed the evidence of the signature “Frances Evans Henri” to
 
 confirm my conjecture as to the writer’s [[Identity|identity]].
-
-
 
 [[Night]] was my usual [[Time|time]] for correcting devoirs, and my own room the
 
@@ -154,8 +146,6 @@ as I snuffed the candle and addressed myself to the perusal of the poor
 
 teacher’s manuscript.
 
-
-
 “Now,” thought I, “I shall see a glimpse of what she really is; I shall
 
 get an idea of the [[Nature|nature]] and extent of her powers; not that she can be
@@ -163,8 +153,6 @@ get an idea of the [[Nature|nature]] and extent of her powers; not that she can 
 expected to express herself [[Well|well]] in a foreign tongue, but still, if she
 
 has any mind, here will be a reflection of it.”
-
-
 
 The narrative commenced by a description of a Saxon peasant’s hut,
 
@@ -187,8 +175,6 @@ flocks, she puts on her sheep-skin mantle; and, addressing a stranger
 who rests half reclined on a bed of rushes near the hearth, bids him
 
 mind the bread till her return.
-
-
 
 “Take care, young man,” she continues, “that you fasten the door [[Well|well]]
 
@@ -214,15 +200,11 @@ hearth, such a visitor would be a sure sign of misfortune to the [[house]];
 
 therefore, heed my advice, and lift the latchet for nothing.”
 
-
-
 Her husband calls her away, both depart. The stranger, left [[Alone|alone]],
 
 listens awhile to the muffled [[Snow|snow]]-[[Wind|wind]], the remote, swollen sound of
 
 the [[River|river]], and then he speaks.
-
-
 
 “It is Christmas Eve,” says he, “I mark the date; here I sit [[Alone|alone]] on
 
@@ -260,8 +242,6 @@ and crushed by thee--though naked, desolate, void of resource--I do not
 
 in his own [[Time|time]], will aid.”
 
-
-
 I need not continue the quotation; the whole devoir was in the same
 
 strain. There were errors of orthography, there were foreign idioms,
@@ -292,8 +272,6 @@ mythological Destiny. This she had done without a hint from me: I had
 
 given the subject, but not said a word about the manner of treating it.
 
-
-
 “I will find, or make, an opportunity of speaking to her,” I said to
 
 myself as I rolled the devoir up; “I will learn what she has of English
@@ -303,8 +281,6 @@ in her besides the name of Frances Evans; she is no novice in the
 language, that is evident, yet she told me she had neither been in
 
 England, nor taken lessons in English, nor lived in English families.”
-
-
 
 In the course of my next lesson, I made a report of the other devoirs,
 
@@ -348,8 +324,6 @@ that a [[Hope|hope]] had been wrenched from her, and that if she did not show
 
 distress, it was because she would not.
 
-
-
 At four o’[[Clock|clock]], when the bell rang and the room was in immediate
 
 tumult, instead of taking my hat and starting from the estrade, I sat
@@ -362,8 +336,6 @@ eye, she made a quiet, respectful obeisance, as bidding good afternoon,
 
 and was turning to depart:--
 
-
-
 “Come here,” said I, lifting my finger at the same [[Time|time]]. She hesitated;
 
 she could not hear the words amidst the uproar now pervading both
@@ -373,8 +345,6 @@ school-rooms; I repeated the sign; she approached; again she paused
 within half a yard of the estrade, and looked shy, and still doubtful
 
 whether she had mistaken my meaning.
-
-
 
 “Step up,” I said, speaking with decision. It is the only way of dealing
 
@@ -388,8 +358,6 @@ rush of the second division, and where no one could sneak behind her to
 
 listen.
 
-
-
 “Take a seat,” I said, placing a tabouret; and I made her sit down. I
 
 knew what I was doing would be considered a very strange thing, and,
@@ -400,13 +368,9 @@ appearance of agitation and trembling, that she cared much. I drew from
 
 my pocket the rolled-up devoir.
 
-
-
 “This is yours, I suppose?” said I, addressing her in English, for I now
 
 felt sure she could speak English.
-
-
 
 “Yes,” she answered distinctly; and as I unrolled it and laid it out
 
@@ -415,8 +379,6 @@ flat on the desk before her with my hand upon it, and a pencil in that
 hand, I saw her moved, and, as it were, kindled; her depression beamed
 
 as a cloud might behind which the sun is burning.
-
-
 
 “This devoir has numerous faults,” said I. “It will take you some years
 
@@ -431,8 +393,6 @@ why they were errors, and how the words or phrases ought to have been
 written. In the course of this sobering process she became calm. I now
 
 went on:
-
-
 
 “As to the substance of your devoir, Mdlle. Henri, it has surprised me;
 
@@ -452,8 +412,6 @@ injustice, to derive free and full consolation from the consciousness of
 
 their strength and rarity.”
 
-
-
 “Strength and rarity!” I repeated to myself; “ay, the words are probably
 
 true,” for on looking up, I saw the sun had dissevered its screening
@@ -462,8 +420,6 @@ cloud, her countenance was transfigured, a smile shone in her eyes--a
 
 smile almost triumphant; it seemed to say--
 
-
-
 “I am glad you have been forced to discover so much of my [[Nature|nature]]; you
 
 need not so carefully moderate your language. Do you think I am myself a
@@ -471,8 +427,6 @@ need not so carefully moderate your language. Do you think I am myself a
 stranger to myself? What you tell me in terms so qualified, I have known
 
 fully from a [[Child|child]].”
-
-
 
 She did say this as plainly as a frank and flashing glance could, but
 
@@ -491,8 +445,6 @@ been expressed. So quick was the revulsion of feeling, I had not [[Time|time]] t
 check her triumph by reproof; ere I could contract my brows to a frown
 
 she had become serious and almost mournful-looking.
-
-
 
 “Thank you, sir,” said she, rising. There was gratitude both in her
 

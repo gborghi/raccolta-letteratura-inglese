@@ -1,5 +1,5 @@
 ---
-title: "The Two Noble Kinsmen — Act V, Scene 5 — monologue ([[Theseus|THESEUS]]) [4]"
+title: "The Two Noble Kinsmen — Act V, Scene 5 — monologue (THESEUS) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-two-noble-kinsmen-(shakespeare)"

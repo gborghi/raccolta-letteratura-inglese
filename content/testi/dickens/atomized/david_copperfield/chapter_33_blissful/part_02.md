@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 33: BLISSFUL (part 2)"
+title: "David Copperfield — Chapter 33: BLISSFUL (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,8 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_33_blissful/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_33_blissful/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘I [[Hope|hope]],’ he said, ‘that you are doing [[Well|well]]?’
 
 ‘It can hardly be interesting to you,’ said I. ‘Yes, if you wish to
 know.’

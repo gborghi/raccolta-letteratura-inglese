@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 34: MY AUNT ASTONISHES ME (part 3)"
+title: "David Copperfield — Chapter 34: MY AUNT ASTONISHES ME (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_34_my_aunt_astonishes_me/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_35_depression/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘I am very much obliged to you, indeed,’ said Traddles, on hearing it
+was to be sent to where he lived, that [[Night|night]]. ‘If I might ask one other
+favour, I [[Hope|hope]] you would not think it absurd, Copperfield?’
 
 I said beforehand, certainly not.
 

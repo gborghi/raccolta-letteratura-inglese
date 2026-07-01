@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 36 (part 7)"
+title: "Shirley — Chapter 36 (part 7)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -12,6 +12,72 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_36/part_06">‹ part 06</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_36/part_08">part 08 ›</a></div>
 </nav>
+
+
+abundantly. We sat, as we had a right to sit, side by side; my arm
+
+rested on her chair; I was near enough to count the stitches of her
+
+work, and to discern the eye of her needle. The door suddenly opened.
+
+
+
+"I believe, if I had just then started from her, she would have
+
+despised me. Thanks to the phlegm of my [[Nature|nature]], I rarely start. When I
+
+am [[Well|well]]-off, _bien_, comfortable, I am not soon stirred. _Bien_ I
+
+was--_très bien_--consequently immutable. No muscle moved. I hardly
+
+looked to the door.
+
+
+
+"'Good-morning, uncle,' said she, addressing that personage, who paused
+
+on the threshold in a state of petrifaction.
+
+
+
+"'Have you been long downstairs, Miss Keeldar, and [[Alone|alone]] with Mr.
+
+Moore?'
+
+
+
+"'Yes, a very long [[Time|time]]. We both came down early; it was scarcely
+
+light.'
+
+
+
+"'The proceeding is improper----'
+
+
+
+"'It was at first, I was rather [[Cross|cross]], and not civil; but you will
+
+perceive that we are now friends.'
+
+
+
+"'I perceive more than you would wish me to perceive.'
+
+
+
+"'Hardly, sir,' said I; 'we have no disguises. Will you permit me to
+
+intimate that any further observations you have to make may as [[Well|well]] be
+
+addressed to me? Henceforward I stand between Miss Keeldar and all
+
+annoyance.'
+
+
+
+"'_You!_ What have _you_ to do with Miss Keeldar?'
+
 
 
 "'To protect, watch over, serve her.'
@@ -191,45 +257,3 @@ this--not for my own sake, but for that of my life and idol--my
 Once again he writes, a week after:--"I am now at Stilbro'. I have taken
 
 up my temporary abode with a friend--a professional man, in whose
-
-business I can be useful. Every day I ride over to Fieldhead. How long
-
-will it be before I can call that place my [[Home|home]], and its mistress mine?
-
-I am not easy, not tranquil; I am tantalized, sometimes tortured. To see
-
-her now, one would think she had never pressed her cheek to my shoulder,
-
-or clung to me with tenderness or trust. I feel unsafe; she renders me
-
-miserable. I am shunned when I visit her; she withdraws from my reach.
-
-Once this day I lifted her face, resolved to get a full look down her
-
-deep, dark eyes. Difficult to describe what I read there! Pantheress!
-
-beautiful forest-born! wily, tameless, peerless [[Nature|nature]]! She gnaws her
-
-chain; I see the white teeth working at the steel! She has [[Dreams|dreams]] of her
-
-wild woods and pinings after virgin [[Freedom|freedom]]. I wish Sympson would come
-
-again, and oblige her again to entwine her arms about me. I wish there
-
-was danger she should lose me, as there is risk I shall lose her. No;
-
-final loss I do not [[Fear|fear]], but long delay----
-
-
-
-"It is now [[Night|night]]--midnight. I have spent the afternoon and evening at
-
-Fieldhead. Some hours ago she passed me, coming down the oak staircase
-
-to the hall. She did not know I was standing in the twilight, near the
-
-staircase [[Window|window]], looking at the [[Frost|frost]]-bright constellations. How
-
-closely she glided against the banisters! How shyly shone her large eyes
-
-upon me! How evanescent, fugitive, fitful she looked--slim and swift as

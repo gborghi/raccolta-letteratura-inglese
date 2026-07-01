@@ -14,6 +14,16 @@ tags:
 </nav>
 
 
+Trotty knew he spoke the [[Truth]] in this, and shook his head to signify as
+much.
+
+‘I’ve got a bad name this way,’ said Fern; ‘and I’m not likely, I’m
+afeared, to get a better.  ’Tan’t lawful to be out of sorts, and I AM out
+of sorts, though God knows I’d sooner bear a cheerful spirit if I could.
+[[Well]]!  I don’t know as this Alderman could hurt _me_ much by sending me
+to jail; but without a friend to speak a word for me, he might do it; and
+you see—!’ pointing downward with his finger, at the [[Child|child]].
+
 ‘She has a beautiful face,’ said Trotty.
 
 ‘Why yes!’ replied the other in a low voice, as he gently turned it up
@@ -116,30 +126,3 @@ Toby’s blessing could have done no more.  Who could do more!
 
 ‘Good Gracious me!’ cried Meg.  ‘He’s crazy!  He’s put the dear [[Child|child]]’s
 bonnet on the kettle, and hung the lid behind the door!’
-
-‘I didn’t go for to do it, my [[Love|love]],’ said Trotty, hastily repairing this
-mistake.  ‘Meg, my dear?’
-
-Meg looked towards him and saw that he had elaborately stationed himself
-behind the chair of their male visitor, where with many mysterious
-gestures he was holding up the sixpence he had earned.
-
-‘I see, my dear,’ said Trotty, ‘as I was coming in, half an ounce of tea
-lying somewhere on the stairs; and I’m pretty sure there was a bit of
-bacon too.  As I don’t remember where it was exactly, I’ll go myself and
-try to find ’em.’
-
-With this inscrutable artifice, Toby withdrew to purchase the viands he
-had spoken of, for ready money, at Mrs. Chickenstalker’s; and presently
-came back, pretending he had not been able to find them, at first, in the
-dark.
-
-‘But here they are at last,’ said Trotty, setting out the tea-things,
-‘all correct!  I was pretty sure it was tea, and a rasher.  So it is.
-Meg, my pet, if you’ll just make the tea, while your unworthy father
-toasts the bacon, we shall be ready, immediate.  It’s a curious
-circumstance,’ said Trotty, proceeding in his cookery, with the
-assistance of the toasting-fork, ‘curious, but [[Well|well]] known to my friends,
-that I never care, myself, for rashers, nor for tea.  I like to see other
-people enjoy ’em,’ said Trotty, speaking very loud, to impress the fact
-upon his guest, ‘but to me, as food, they’re disagreeable.’

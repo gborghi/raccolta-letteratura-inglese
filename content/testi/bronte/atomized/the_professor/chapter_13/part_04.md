@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 12 (part 4)"
+title: "The Professor — Chapter 12 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -14,6 +14,16 @@ tags:
 </nav>
 
 
+a smooth and bare precipice, which offered neither jutting stone nor
+
+tree-root, nor tuft of grass to aid the climber. Now she flattered
+
+with exquisite tact, now she moralized, now she tried how far I was
+
+accessible to mercenary motives, then she disported on the brink of
+
+affection--knowing that some men are won by weakness--anon, she talked
+
 excellent sense, aware that others have the folly to admire judgment.
 
 I found it at once pleasant and easy to evade all these efforts; it was
@@ -26,15 +36,13 @@ though mute mortification. Still she persevered, and at last, I am bound
 
 to confess it, her finger, essaying, proving every atom of the casket,
 
-touched its secret [[spring]], and for a moment the lid sprung open; she
+touched its secret [[Spring|spring]], and for a moment the lid sprung open; she
 
 laid her hand on the [[Jewel|jewel]] within; whether she stole and broke it, or
 
 whether the lid shut again with a snap on her fingers, read on, and you
 
 shall know.
-
-
 
 It happened that I came one day to give a lesson when I was indisposed;
 
@@ -70,8 +78,6 @@ mind was full of impatience for the afternoon of the next day to arrive,
 
 that I might see her again.
 
-
-
 I was not disappointed, for she sat in the class during the whole of my
 
 subsequent lesson, and often looked at me almost with affection. At four
@@ -90,23 +96,15 @@ at the sunshine and [[Flowers|flowers]], and felt very happy. The day-scholars b
 
 to pour from the schoolrooms into the passage.
 
-
-
 “Will you go into the [[Garden|garden]] a minute or two,” asked she, “till they are
 
 gone?”
-
-
 
 I descended the steps without answering, but I looked back as much as to
 
 say--
 
-
-
 “You will come with me?”
-
-
 
 In another minute I and the directress were walking side by side down
 
@@ -144,27 +142,15 @@ rang, both at her [[house]] and M. Pelet’s; we were obliged to part; I
 
 detained her a moment as she was moving away.
 
-
-
 “I want something,” said I.
-
-
 
 “What?” asked Zoraide naively.
 
-
-
 “Only a flower.”
-
-
 
 “Gather it then--or two, or twenty, if you like.”
 
-
-
 “No--one will do--but you must gather it, and give it to me.”
-
-
 
 “What a caprice!” she exclaimed, but she raised herself on her tip-toes,
 
@@ -173,8 +159,6 @@ and, plucking a beautiful branch of lilac, offered it to me with grace.
 I took it, and went away, satisfied for the present, and hopeful for the
 
 future.
-
-
 
 Certainly that May day was a lovely one, and it closed in moonlight
 
@@ -207,19 +191,3 @@ blossoms of the fruit-trees--not a leaf stirred, the [[Night|night]] was
 breezeless. My [[Window|window]] looked directly down upon a certain walk of Mdlle.
 
 Reuter’s [[Garden|garden]], called “l’allee defendue,” so named because the pupils
-
-were forbidden to enter it on account of its proximity to the boys’
-
-school. It was here that the lilacs and laburnums grew especially thick;
-
-this was the most sheltered nook in the enclosure, its shrubs screened
-
-the [[Garden|garden]]-chair where that afternoon I had sat with the young
-
-directress. I need not say that my thoughts were chiefly with her as
-
-I leaned from the lattice, and let my eye roam, now over the walks and
-
-borders of the [[Garden|garden]], now along the many-windowed front of the [[house]]
-
-which [[Rose|rose]] white beyond the masses of foliage. I wondered in what part

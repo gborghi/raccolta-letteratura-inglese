@@ -1,5 +1,5 @@
 ---
-title: "[[Troilus]] and [[Cressida]] — Act I, Scene 2 — exchange ([[Pandarus|PANDARUS]]) [2]"
+title: "Troilus and Cressida — Act I, Scene 2 — exchange (PANDARUS) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/troilus-and-cressida-(shakespeare)"

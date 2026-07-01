@@ -30,7 +30,7 @@ turn the [[Leaves|leaves]] of this dear book that I loved, and vainly [[Hope|hop
 to read it all. No more can I look into the depths of this unfathomable
 [[Water|water]], wherein, as momentary lights glanced into it, I have had glimpses
 of buried treasure and other things submerged. It was appointed that the
-book should shut with a [[Spring|spring]], for ever and for ever, when I had read
+book should shut with a [[spring]], for ever and for ever, when I had read
 but a page. It was appointed that the [[Water|water]] should be locked in an
 eternal [[Frost|frost]], when the light was playing on its surface, and I stood
 in ignorance on the shore. My friend is dead, my neighbour is dead,

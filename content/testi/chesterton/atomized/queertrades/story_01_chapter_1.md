@@ -1,5 +1,5 @@
 ---
-title: "[[queertrades]] — Chapter 1"
+title: "queertrades — Chapter 1"
 author: "Chesterton"
 unitType: story
 parentWork: "works/queertrades-(chesterton)"
@@ -19,7 +19,7 @@ Chapter 1
 The Tremendous Adventures of Major Brown
 
 Rabelais, or his wild illustrator Gustave Dore, must have had something to
-do with the designing of the things called flats in England and [[America]].
+do with the designing of the things called flats in England and [[america|America]].
 There is something entirely Gargantuan in the idea of economising
 space by piling houses on top of each other, front doors and all.
 And in the chaos and complexity of those perpendicular streets
@@ -987,35 +987,35 @@ desperate desire to know the end of it all."
 
 "The end of it all?"
 
-"Yes," said the Major.  "`Jackals', and the title-deeds, and `[[Death]]
+"Yes," said the Major.  "`Jackals', and the title-deeds, and `Death
 to Major Brown'."
 
-The agent's face grew [[Grave|grave]], but his eyes were amused.
+The agent's face grew grave, but his eyes were amused.
 
 "I am terribly sorry, Major," said he, "but what you ask is impossible.
 I don't know any one I would sooner oblige than you; but the rules of the
-agency are strict.  The Adventures are confidential; you are an [[Outsider|outsider]];
+agency are strict.  The Adventures are confidential; you are an outsider;
 I am not allowed to let you know an inch more than I can help.
-I do [[Hope|hope]] you understand--"
+I do hope you understand--"
 
 "There is no one," said Brown, "who understands discipline better
-than I do.  Thank you very much.  Good [[Night|night]]."
+than I do.  Thank you very much.  Good night."
 
-And the little man withdrew for the last [[Time|time]].
+And the little man withdrew for the last time.
 
 He married Miss Jameson, the lady with the red hair and the
 green garments.  She was an actress, employed (with many others)
-by the [[Romance]] Agency; and her [[Marriage|marriage]] with the prim old veteran
+by the Romance Agency; and her marriage with the prim old veteran
 caused some stir in her languid and intellectualized set.
 She always replied very quietly that she had met scores of men
 who acted splendidly in the charades provided for them by Northover,
 but that she had only met one man who went down into a coal-cellar
 when he really thought it contained a murderer.
 
-The Major and she are living as happily as [[Birds|birds]], in an absurd villa,
+The Major and she are living as happily as birds, in an absurd villa,
 and the former has taken to smoking.  Otherwise he is unchanged--
 except, perhaps, there are moments when, alert and full of feminine
-unselfishness as the Major is by [[Nature|nature]], he falls into a trance
+unselfishness as the Major is by nature, he falls into a trance
 of abstraction.  Then his wife recognizes with a concealed smile,
 by the blind look in his blue eyes, that he is wondering what were
 the title-deeds, and why he was not allowed to mention jackals.

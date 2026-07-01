@@ -1,5 +1,5 @@
 ---
-title: "A Christmas [[carol|Carol]] — Stave 4: THE LAST OF THE SPIRITS (part 3)"
+title: "A Christmas Carol — Stave 4: THE LAST OF THE SPIRITS (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-christmas-carol-(dickens)"
@@ -157,8 +157,3 @@ to the door, and met her husband; a man whose face was
 careworn and depressed, though he was young. There was
 a remarkable expression in it now; a kind of serious delight
 of which he felt ashamed, and which he struggled to repress.
-
-He sat down to the dinner that had been hoarding for
-him by the [[Fire|fire]]; and when she asked him faintly what news
-(which was not until after a long [[Silence|silence]]), he appeared
-embarrassed how to answer.

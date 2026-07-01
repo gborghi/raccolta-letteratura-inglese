@@ -14,6 +14,14 @@ tags:
 </nav>
 
 
+‘I came here,’ said the military gentleman turning to Mrs Jarley--‘’pon
+my [[Soul|soul]] and [[Honour|honour]] I hardly know what I came here for.  It would
+puzzle me to tell you, it would by Gad.  I wanted a little inspiration,
+a little freshening up, a little change of ideas, and-- ‘Pon my [[Soul|soul]]
+and [[Honour|honour]],’ said the military gentleman, checking himself and looking
+round the room, ‘what a devilish classical thing this is! by Gad, it’s
+quite Minervian.’
+
 ‘It’ll look [[Well|well]] enough when it comes to be finished,’ observed Mrs
 Jarley.
 

@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 69 (part 1)"
+title: "Barnaby Rudge — Chapter 69 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/barnaby-rudge-(dickens)">Barnaby Rudge</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_67/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_69/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_68/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_69/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -145,9 +145,3 @@ his door a whole day and [[Night|night]], still you must wait, and not come back
 without him.’
 
 ‘Don’t you [[Fear|fear]] that,’ he cried gaily. ‘He shall come, he shall come.’
-
-‘Trim off these gewgaws,’ said his father, plucking the scraps of ribbon
-and the feathers from his hat, ‘and over your own dress wear my cloak.
-Take heed how you go, and they will be too busy in the streets to notice
-you. Of your coming back you need take no account, for he’ll manage
-that, safely.’

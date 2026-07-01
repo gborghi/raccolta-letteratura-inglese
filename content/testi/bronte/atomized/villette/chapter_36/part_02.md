@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 34 (part 2)"
+title: "Villette — Chapter 34 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -115,7 +115,7 @@ for present use and comfort.
 
 The good father sat down, as if to keep me company; but instead of
 conversing, he took out a book, fastened on the page his eyes, and
-employed his lips in whispering—what sounded like a [[Prayer|prayer]] or [[litany]]. A
+employed his lips in whispering—what sounded like a [[prayer]] or [[litany]]. A
 yellow electric light from the sky gilded his bald head; his figure
 remained in shade—deep and purple; he sat still as sculpture; he seemed
 to forget me for his prayers; he only looked up when a fiercer bolt, or

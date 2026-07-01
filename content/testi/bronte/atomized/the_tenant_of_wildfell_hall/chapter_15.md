@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 15"
+title: "The Tenant of Wildfell Hall — Chapter 15"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -54,7 +54,7 @@ aroused me with the startling words,—“Mr. Markham, mamma wants you.”
 
 
 
-“Wants _me_, [[arthur|Arthur]]?”
+“Wants _me_, [[Arthur]]?”
 
 
 
@@ -100,7 +100,7 @@ I accompanied her through the gap.
 
 
 
-“[[arthur|Arthur]], darling, run and gather those bluebells,” said she, pointing
+“[[Arthur]], darling, run and gather those bluebells,” said she, pointing
 
 to some that were gleaming at some distance under the hedge along which
 
@@ -188,7 +188,7 @@ for after lingering awhile to see if she would come back or call, I
 
 ventured one more glance, and saw her a good way off, moving rapidly up
 
-the field, with little [[arthur|Arthur]] running by her side and apparently
+the field, with little [[Arthur]] running by her side and apparently
 
 talking as he went; but she kept her face averted from him, as if to
 

@@ -1,5 +1,5 @@
 ---
-title: "[[How to Write a Blackwood Article]] (part 4)"
+title: "How to Write a Blackwood Article (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/how-to-write-a-blackwood-article-(poe)"
@@ -12,6 +12,16 @@ tags:
 <div class="excerpt-crumb">Poe · <a href="/works/how-to-write-a-blackwood-article-(poe)">How to Write a Blackwood Article</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/how_to_write_a_blackwood_article/part/part_03">‹ part 03</a><span></span></div>
 </nav>
+
+
+      only your knowledge of the language, but your general reading and
+
+      wit. You can say, for instance, that the chicken you were eating
+
+      (write an article about being choked to [[Death|death]] by a chicken-bone)
+
+      was not altogether _aussi tendre que Zaire_. Write!
+
 
 
 ‘Van muerte tan escondida,

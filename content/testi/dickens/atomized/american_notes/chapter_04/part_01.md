@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/american-notes-(dickens)">American Notes</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/american_notes/chapter_03/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/american_notes/chapter_04/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/american_notes/chapter_03/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/american_notes/chapter_04/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -18,7 +18,7 @@ CHAPTER III
 BOSTON
 
 
-_In_ all the public establishments of [[America]], the utmost courtesy
+_In_ all the public establishments of [[america|America]], the utmost courtesy
 prevails.  Most of our Departments are susceptible of considerable
 improvement in this respect, but the Custom-[[house]] above all others would
 do [[Well|well]] to take example from the United States and render itself somewhat
@@ -28,7 +28,7 @@ boorish incivility about our men, alike disgusting to all persons who
 fall into their hands, and discreditable to the nation that keeps such
 ill-conditioned curs snarling about its gates.
 
-When I landed in [[America]], I could not help being strongly impressed with
+When I landed in [[america|America]], I could not help being strongly impressed with
 the contrast their Custom-[[house]] presented, and the attention, politeness
 and good [[Humour|humour]] with which its officers discharged their duty.
 
@@ -37,7 +37,7 @@ wharf, until after dark, I received my first impressions of the [[City|city]] in
 walking down to the Custom-[[house]] on the morning after our arrival, which
 was [[Sunday]].  I am afraid to say, by the way, how many offers of pews and
 seats in church for that morning were made to us, by formal note of
-invitation, before we had half finished our first dinner in [[America]], but
+invitation, before we had half finished our first dinner in [[america|America]], but
 if I may be allowed to make a moderate guess, without going into nicer
 calculation, I should say that at least as many sittings were proffered
 us, as would have accommodated a score or two of grown-up families.  The

@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 19 (part 1)"
+title: "Shirley — Chapter 19 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -257,21 +257,3 @@ keen-edged, finely tapered; it is dangerous-looking. I never yet felt
 the impulse which could move me to direct this against a
 
 fellow-creature. It is difficult to fancy that circumstances could nerve
-
-my arm to strike [[Home|home]] with this long knife."
-
-
-
-"I should hate to do it," replied [[Shirley]], "but I think I could do it,
-
-if goaded by certain exigencies which I can imagine." And Miss Keeldar
-
-quietly sipped her glass of new milk, looking somewhat thoughtful and a
-
-little pale; though, indeed, when did she not look pale? She was never
-
-florid.
-
-
-
-The milk sipped and the bread eaten, Fanny was again summoned. She and

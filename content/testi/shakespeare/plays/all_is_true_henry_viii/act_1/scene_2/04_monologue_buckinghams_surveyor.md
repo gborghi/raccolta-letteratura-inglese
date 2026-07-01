@@ -1,5 +1,5 @@
 ---
-title: "All Is True ([[Henry VIII]]) — Act I, Scene 2 — monologue ([[Buckingham|BUCKINGHAM]]’S SURVEYOR) [4]"
+title: "All Is True (Henry VIII) — Act I, Scene 2 — monologue (BUCKINGHAM’S SURVEYOR) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/all-is-true---(henry-viii)-(shakespeare)"

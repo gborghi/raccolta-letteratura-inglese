@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 28 (part 4)"
+title: "Shirley — Chapter 28 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,28 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_28/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_28/part_05">part 05 ›</a></div>
 </nav>
 
+
+long as may be, to retain the right to say with Paul, 'I am not mad, but
+
+speak forth the words of [[Truth|truth]] and soberness.'"
+
+
+
+He paused, listening.
+
+
+
+"Will she come, or will she not come?" he inquired. "How will she take
+
+the message? Naïvely or disdainfully? Like a [[Child|child]] or like a [[Queen|queen]]? Both
+
+characters are in her [[Nature|nature]].
+
+
+
+"If she comes, what shall I say to her? How account, firstly, for the
+
+[[Freedom|freedom]] of the request? Shall I apologize to her? I could in all
 
 [[Humility|humility]]; but would an apology tend to place us in the positions we
 
@@ -279,35 +301,3 @@ returned to the charge. Once his lips moved to speak, but he thought
 better of it, and prolonged the pause. [[Shirley]] lifted her eye to his.
 
 Had he betrayed injudicious emotion, perhaps obstinate persistence in
-
-[[Silence|silence]] would have been the result; but he looked calm, strong,
-
-trustworthy.
-
-
-
-"I had better tell _you_ than my aunt," she said, "or than my cousins,
-
-or my uncle. They would all make such a bustle, and it is that very
-
-bustle I dread--the alarm, the flurry, the _éclat_. In short, I never
-
-liked to be the centre of a small domestic whirlpool. You can bear a
-
-little shock--eh?"
-
-
-
-"A great one, if necessary."
-
-
-
-Not a muscle of the man's frame moved, and yet his large heart beat fast
-
-in his deep chest. What was she going to tell him? Was irremediable
-
-mischief done?
-
-
-
-"Had I thought it right to go to you, I would never have made a secret

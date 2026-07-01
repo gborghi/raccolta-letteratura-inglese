@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities — Chapter 12 (part 1)"
+title: "A Tale of Two Cities — Chapter 14 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-tale-of-two-cities-(dickens)"
@@ -10,141 +10,134 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/a-tale-of-two-cities-(dickens)">A Tale of Two Cities</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_42/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_44/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_43/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_44/part_02">part 02 ›</a></div>
 </nav>
 
 
-CHAPTER XII.
-Darkness
+CHAPTER XIV.
+The Knitting Done
 
 
-[[Sydney Carton]] paused in the street, not quite decided where to go. “At
-Tellson’s banking-[[house]] at nine,” he said, with a musing face. “Shall I
-do [[Well|well]], in the mean [[Time|time]], to show myself? I think so. It is best that
-these people should know there is such a man as I here; it is a sound
-precaution, and may be a necessary preparation. But care, care, care!
-Let me think it out!”
+In that same juncture of [[Time|time]] when the Fifty-Two awaited their fate
+[[Madame Defarge]] held darkly ominous council with The Vengeance and
+Jacques Three of the Revolutionary Jury. Not in the wine-shop did Madame
+Defarge confer with these ministers, but in the shed of the wood-sawyer,
+erst a mender of roads. The sawyer himself did not participate in the
+conference, but abided at a little distance, like an outer satellite who
+was not to speak until required, or to offer an opinion until invited.
 
-Checking his steps which had begun to tend towards an object, he took a
-turn or two in the already darkening street, and traced the thought
-in his mind to its possible consequences. His first impression was
-confirmed. “It is best,” he said, finally resolved, “that these people
-should know there is such a man as I here.” And he turned his face
-towards Saint Antoine.
+“But our Defarge,” said Jacques Three, “is undoubtedly a good
+Republican? Eh?”
 
-Defarge had described himself, that day, as the keeper of a wine-shop in
-the Saint Antoine suburb. It was not difficult for one who knew the [[City|city]]
-[[Well|well]], to find his [[house]] without asking any question. Having ascertained
-its situation, Carton came out of those closer streets again, and dined
-at a place of refreshment and fell sound asleep after dinner. For the
-first [[Time|time]] in many years, he had no strong drink. Since last [[Night|night]] he
-had taken nothing but a little light thin wine, and last [[Night|night]] he had
-dropped the brandy slowly down on Mr. Lorry’s hearth like a man who had
-done with it.
+“There is no better,” the voluble Vengeance protested in her shrill
+notes, “in France.”
 
-It was as late as seven o’[[Clock|clock]] when he awoke refreshed, and went out
-into the streets again. As he passed along towards Saint Antoine, he
-stopped at a shop-[[Window|window]] where there was a [[Mirror|mirror]], and slightly altered
-the disordered arrangement of his loose cravat, and his coat-collar, and
-his wild hair. This done, he went on direct to Defarge’s, and went in.
+“Peace, little Vengeance,” said [[Madame Defarge]], laying her hand with
+a slight frown on her lieutenant’s lips, “hear me speak. My husband,
+fellow-citizen, is a good Republican and a bold man; he has deserved
+[[Well|well]] of the Republic, and possesses its confidence. But my husband has
+his weaknesses, and he is so weak as to relent towards this Doctor.”
 
-There happened to be no customer in the shop but Jacques Three, of the
-restless fingers and the croaking voice. This man, whom he had seen upon
-the Jury, stood drinking at the little counter, in conversation with the
-Defarges, man and wife. The Vengeance assisted in the conversation, like
-a regular member of the establishment.
+“It is a great pity,” croaked Jacques Three, dubiously shaking his head,
+with his cruel fingers at his hungry mouth; “it is not quite like a good
+citizen; it is a thing to regret.”
 
-As Carton walked in, took his seat and asked (in very indifferent
-French) for a small measure of wine, [[Madame Defarge]] cast a careless
-glance at him, and then a keener, and then a keener, and then advanced
-to him herself, and asked him what it was he had ordered.
+“See you,” said madame, “I care nothing for this Doctor, I. He may wear
+his head or lose it, for any interest I have in him; it is all one to
+me. But, the Evrémonde people are to be exterminated, and the wife and
+[[Child|child]] must follow the husband and father.”
 
-He repeated what he had already said.
+“She has a fine head for it,” croaked Jacques Three. “I have seen blue
+eyes and golden hair there, and they looked charming when Samson held
+them up.” Ogre that he was, he spoke like an epicure.
 
-“English?” asked [[Madame Defarge]], inquisitively raising her dark
-eyebrows.
+[[Madame Defarge]] cast down her eyes, and reflected a little.
 
-After looking at her, as if the sound of even a single French word were
-slow to express itself to him, he answered, in his former strong foreign
-accent. “Yes, madame, yes. I am English!”
+“The [[Child|child]] also,” observed Jacques Three, with a meditative enjoyment
+of his words, “has golden hair and blue eyes. And we seldom have a [[Child|child]]
+there. It is a pretty sight!”
 
-[[Madame Defarge]] returned to her counter to get the wine, and, as he
-took up a Jacobin journal and feigned to pore over it puzzling out its
-meaning, he heard her say, “I swear to you, like Evrémonde!”
+“In a word,” said [[Madame Defarge]], coming out of her short abstraction,
+“I cannot trust my husband in this matter. Not only do I feel, since
+last [[Night|night]], that I dare not confide to him the details of my projects;
+but also I feel that if I delay, there is danger of his giving warning,
+and then they might escape.”
 
-Defarge brought him the wine, and gave him Good Evening.
+“That must never be,” croaked Jacques Three; “no one must escape. We
+have not half enough as it is. We ought to have six score a day.”
 
-“How?”
+“In a word,” [[Madame Defarge]] went on, “my husband has not my reason for
+pursuing this family to annihilation, and I have not his reason for
+regarding this Doctor with any sensibility. I must act for myself,
+therefore. Come hither, little citizen.”
 
-“Good evening.”
+The wood-sawyer, who held her in the respect, and himself in the
+submission, of mortal [[Fear|fear]], advanced with his hand to his red cap.
 
-“Oh! Good evening, citizen,” filling his glass. “Ah! and good wine. I
-drink to the Republic.”
+“Touching those signals, little citizen,” said [[Madame Defarge]], sternly,
+“that she made to the prisoners; you are ready to bear witness to them
+this very day?”
 
-Defarge went back to the counter, and said, “Certainly, a little like.”
- Madame sternly retorted, “I tell you a good deal like.” Jacques Three
-pacifically remarked, “He is so much in your mind, see you, madame.”
- The amiable Vengeance added, with a laugh, “Yes, my [[Faith|faith]]! And you
-are looking forward with so much pleasure to seeing him once more
-to-morrow!”
+“Ay, ay, why not!” cried the sawyer. “Every day, in all weathers, from
+two to four, always signalling, sometimes with the little one, sometimes
+without. I know what I know. I have seen with my eyes.”
 
-Carton followed the lines and words of his paper, with a slow
-forefinger, and with a studious and absorbed face. They were all leaning
-their arms on the counter close together, speaking low. After a [[Silence|silence]]
-of a few moments, during which they all looked towards him without
-disturbing his outward attention from the Jacobin editor, they resumed
-their conversation.
+He made all manner of gestures while he spoke, as if in incidental
+[[Imitation|imitation]] of some few of the great diversity of signals that he had
+never seen.
 
-“It is true what madame says,” observed Jacques Three. “Why stop? There
-is great force in that. Why stop?”
+“Clearly plots,” said Jacques Three. “Transparently!”
 
-“[[Well]], [[Well|well]],” reasoned Defarge, “but one must stop somewhere. After all,
-the question is still where?”
+“There is no [[Doubt|doubt]] of the Jury?” inquired [[Madame Defarge]], letting her
+eyes turn to him with a gloomy smile.
 
-“At extermination,” said madame.
+“Rely upon the patriotic Jury, dear citizeness. I answer for my
+fellow-Jurymen.”
 
-“Magnificent!” croaked Jacques Three. The Vengeance, also, highly
-approved.
+“Now, let me see,” said [[Madame Defarge]], pondering again. “Yet once more!
+Can I spare this Doctor to my husband? I have no feeling either way. Can
+I spare him?”
 
-“Extermination is good doctrine, my wife,” said Defarge, rather
-troubled; “in general, I say nothing against it. But this Doctor has
-suffered much; you have seen him to-day; you have observed his face when
-the paper was read.”
+“He would count as one head,” observed Jacques Three, in a low voice.
+“We really have not heads enough; it would be a pity, I think.”
 
-“I have observed his face!” repeated madame, contemptuously and angrily.
-“Yes. I have observed his face. I have observed his face to be not the
-face of a true friend of the Republic. Let him take care of his face!”
+“He was signalling with her when I saw her,” argued [[Madame Defarge]]; “I
+cannot speak of one without the other; and I must not be silent, and
+trust the case wholly to him, this little citizen here. For, I am not a
+bad witness.”
 
-“And you have observed, my wife,” said Defarge, in a deprecatory manner,
-“the anguish of his daughter, which must be a dreadful anguish to him!”
+The Vengeance and Jacques Three vied with each other in their fervent
+protestations that she was the most admirable and marvellous of
+witnesses. The little citizen, not to be outdone, declared her to be a
+celestial witness.
 
-“I have observed his daughter,” repeated madame; “yes, I have observed
-his daughter, more times than one. I have observed her to-day, and I
-have observed her other days. I have observed her in the [[Court|court]], and
-I have observed her in the street by the [[Prison|prison]]. Let me but lift my
-finger--!” She seemed to raise it (the listener’s eyes were always on
-his paper), and to let it fall with a rattle on the ledge before her, as
-if the axe had dropped.
+“He must take his chance,” said [[Madame Defarge]]. “No, I cannot spare
+him! You are engaged at three o’[[Clock|clock]]; you are going to see the batch of
+to-day executed.--You?”
 
-“The citizeness is superb!” croaked the Juryman.
+The question was addressed to the wood-sawyer, who hurriedly replied in
+the affirmative: seizing the occasion to add that he was the most ardent
+of Republicans, and that he would be in effect the most desolate of
+Republicans, if anything prevented him from enjoying the pleasure of
+smoking his afternoon pipe in the contemplation of the droll national
+barber. He was so very demonstrative herein, that he might have been
+suspected (perhaps was, by the dark eyes that looked contemptuously at
+him out of [[Madame Defarge]]’s head) of having his small individual fears
+for his own personal safety, every hour in the day.
 
-“She is an Angel!” said The Vengeance, and embraced her.
+“I,” said madame, “am equally engaged at the same place. After it is
+over--say at eight to-[[Night|night]]--come you to me, in Saint Antoine, and we
+will give information against these people at my Section.”
 
-“As to thee,” pursued madame, implacably, addressing her husband, “if it
-depended on thee--which, happily, it does not--thou wouldst rescue this
-man even now.”
+The wood-sawyer said he would be proud and flattered to attend the
+citizeness. The citizeness looking at him, he became embarrassed, evaded
+her glance as a small dog would have done, retreated among his wood, and
+hid his confusion over the handle of his saw.
 
-“No!” protested Defarge. “Not if to lift this glass would do it! But I
-would leave the matter there. I say, stop there.”
+[[Madame Defarge]] beckoned the Juryman and The Vengeance a little nearer to
+the door, and there expounded her further views to them thus:
 
-“See you then, Jacques,” said [[Madame Defarge]], wrathfully; “and see you,
-too, my little Vengeance; see you both! Listen! For other crimes as
-tyrants and oppressors, I have this race a long [[Time|time]] on my register,
-doomed to destruction and extermination. Ask my husband, is that so.”
-
-“It is so,” assented Defarge, without being asked.
-
-“In the beginning of the great days, when the Bastille falls, he finds
-this paper of to-day, and he brings it [[Home|home]], and in the middle of the
-[[Night|night]] when this place is clear and shut, we read it, here on this spot,
-by the light of this lamp. Ask him, is that so.”
+“She will now be at [[Home|home]], awaiting the moment of his [[Death|death]]. She will
+be mourning and grieving. She will be in a state of mind to impeach the
+justice of the Republic. She will be full of sympathy with its enemies.
+I will go to her.”

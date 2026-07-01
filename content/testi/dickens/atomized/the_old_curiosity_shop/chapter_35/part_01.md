@@ -126,6 +126,3 @@ unpleasant accident of that kind should happen--you’ll remember, Mr
 two years’ rent?  You’ll bear that in mind, Mr [[Richard]]; you had better
 make a note of it, sir, in case you should ever be called upon to give
 evidence.’
-
-Mr Swiveller took a large sheet of foolscap, and with a countenance of
-profound gravity, began to make a very small note in one corner.

@@ -245,7 +245,7 @@ was nothing to be heard but the ticking of an old [[Clock|clock]], and the
 whistling of the [[Wind|wind]] among the trees.  When he returned, he took his
 seat in the chimney corner, but remained silent for a long [[Time|time]].  At
 length he turned to her, and speaking very gently, hoped she would say
-a [[Prayer|prayer]] that [[Night|night]] for a sick [[Child|child]].
+a [[prayer]] that [[Night|night]] for a sick [[Child|child]].
 
 ‘My favourite scholar!’ said the poor schoolmaster, smoking a pipe he
 had forgotten to light, and looking mournfully round upon the walls.

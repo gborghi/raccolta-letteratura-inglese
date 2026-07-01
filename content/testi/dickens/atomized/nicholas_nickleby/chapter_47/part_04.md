@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 47 (part 4)"
+title: "Nicholas Nickleby — Chapter 47 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_47/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_47/part_05">part 05 ›</a></div>
 </nav>
 
+
+‘Go on,’ said Ralph, nodding his head deliberately, and speaking in
+a tone whose studied coldness presented a strange contrast to the
+rapturous squeak to which his friend had gradually mounted. ‘Go on. You
+didn’t come here to ask me that.’
+
+‘Oh dear, how you talk!’ cried old [[arthur|Arthur]], edging himself closer still
+to Ralph. ‘Of course I didn’t, I don’t pretend I did! I came to ask what
+you would take from me, if I prospered with the father, for this debt of
+yours. Five shillings in the pound, six and-eightpence, ten shillings? I
+WOULD go as far as ten for such a friend as you, we have always been on
+such good terms, but you won’t be so hard upon me as that, I know. Now,
+will you?’
+
+‘There’s something more to be told,’ said Ralph, as stony and immovable
+as ever.
 
 ‘Yes, yes, there is, but you won’t give me [[Time|time]],’ returned [[arthur|Arthur]] Gride.
 ‘I want a backer in this matter; one who can talk, and urge, and press a
@@ -108,26 +124,3 @@ plotted every day! [[Well]], that adds to my [[Pain|pain]], but not to theirs. T
 thing is no worse because I know it, and it tortures me as [[Well|well]] as
 them. Gride and Nickleby! Good pair for a curricle. Oh roguery! roguery!
 roguery!’
-
-With these reflections, and a very hard knock on the [[Crown|crown]] of his
-unfortunate hat at each repetition of the last word, [[Newman Noggs]],
-whose brain was a little muddled by so much of the contents of
-the pocket-[[Pistol|pistol]] as had found their way there during his recent
-concealment, went forth to seek such consolation as might be derivable
-from the beef and greens of some cheap eating-[[house]].
-
-Meanwhile the two plotters had betaken themselves to the same [[house]]
-whither Nicholas had repaired for the first [[Time|time]] but a few mornings
-before, and having obtained access to Mr. Bray, and found his daughter
-from [[Home|home]], had by a train of the most masterly approaches that Ralph’s
-utmost skill could frame, at length laid open the real object of their
-visit.
-
-‘There he sits, Mr. Bray,’ said Ralph, as the invalid, not yet recovered
-from his surprise, reclined in his chair, looking alternately at him
-and [[arthur|Arthur]] Gride. ‘What if he has had the ill-fortune to be one cause
-of your detention in this place? I have been another; men must live; you
-are too much a man of the world not to see that in its true light. We
-offer the best reparation in our power. Reparation! Here is an offer
-of [[Marriage|marriage]], that many a titled father would leap at, for his [[Child|child]]. Mr
-[[arthur|Arthur]] Gride, with the fortune of a prince. Think what a haul it is!’

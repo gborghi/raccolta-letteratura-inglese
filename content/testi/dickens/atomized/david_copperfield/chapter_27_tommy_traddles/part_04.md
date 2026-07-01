@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 27: TOMMY TRADDLES (part 4)"
+title: "David Copperfield — Chapter 27: TOMMY TRADDLES (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_27_tommy_traddles/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_28_mr_micawbers_gauntlet/part_01">part 01 ›</a></div>
 </nav>
 
+
+It would have been better, as it turned out, to have led gently up
+to this announcement, for Mrs. Micawber, being in a delicate state of
+health, was overcome by it, and was taken so unwell, that Mr. Micawber
+was obliged, in great trepidation, to run down to the [[Water|water]]-butt in
+the backyard, and draw a basinful to lave her brow with. She
+presently revived, however, and was really pleased to see me. We had
+half-an-hour’s talk, all together; and I asked her about the twins,
+who, she said, were ‘grown great creatures’; and after Master and Miss
+Micawber, whom she described as ‘absolute giants’, but they were not
+produced on that occasion.
 
 Mr. Micawber was very anxious that I should stay to dinner. I should not
 have been averse to do so, but that I imagined I detected trouble, and

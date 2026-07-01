@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 5 (part 6)"
+title: "Shirley — Chapter 5 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,58 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_05/part_05">‹ part 05</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_06/part_01">part 01 ›</a></div>
 </nav>
 
+
+[[Poverty|poverty]] of the working-man, as the embarrassed penury of the man in
+
+debt. My grub-worm is always a straitened, struggling, care-worn
+
+tradesman."
+
+
+
+"Cherish [[Hope|hope]], not anxiety. Certain ideas have become too fixed in your
+
+mind. It may be presumptuous to say it, but I have the impression that
+
+there is something wrong in your notions of the best means of attaining
+
+happiness, as there is in----" Second hesitation.
+
+
+
+"I am all ear, Caroline."
+
+
+
+"In ([[Courage|courage]]! let me speak the [[Truth|truth]])--in your manner--mind, I say only
+
+_manner_--to these Yorkshire workpeople."
+
+
+
+"You have often wanted to tell me that, have you not?"
+
+
+
+"Yes; often--very often."
+
+
+
+"The faults of my manner are, I think, only negative. I am not proud.
+
+What has a man in my position to be proud of? I am only taciturn,
+
+phlegmatic, and joyless."
+
+
+
+"As if your living cloth-dressers were all machines like your frames and
+
+shears. In your own [[house]] you seem different."
+
+
+
+"To those of my own [[house]] I am no alien, which I am to these English
 
 clowns. I might act the benevolent with them, but acting is not my
 

@@ -36,44 +36,44 @@ tags:
 - [Story 04 ON BOYS](/testi/chesterton/atomized/gkc_come_to_think/story_04_on_boys)
 - [Story 05 ON LITERARY PARALLELS](/testi/chesterton/atomized/gkc_come_to_think/story_05_on_literary_parallels)
 - [Story 06 ON A CENSORSHIP FOR LITERATURE](/testi/chesterton/atomized/gkc_come_to_think/story_06_on_a_censorship_for_literature)
-- [Story 07 ON DETECTIVE STORY WRITERS](/testi/chesterton/atomized/gkc_come_to_think/story_07_on_detective_story_writers)
-- [Story 08 ON THE NEW POETRY](/testi/chesterton/atomized/gkc_come_to_think/story_08_on_the_new_poetry)
-- [Story 09 ON THE CLASSICS](/testi/chesterton/atomized/gkc_come_to_think/story_09_on_the_classics)
-- [Story 10 ON PSYCHO ANALYSIS](/testi/chesterton/atomized/gkc_come_to_think/story_10_on_psycho_analysis)
-- [Story 11 ON EGOISTS AND EGOISTS](/testi/chesterton/atomized/gkc_come_to_think/story_11_on_egoists_and_egoists)
-- [Story 12 ON MR EPSTEIN](/testi/chesterton/atomized/gkc_come_to_think/story_12_on_mr_epstein)
-- [Story 13 ON WHO KILLED JOHN KEATS](/testi/chesterton/atomized/gkc_come_to_think/story_13_on_who_killed_john_keats)
-- [Story 14 ON Ingeland](/testi/chesterton/atomized/gkc_come_to_think/story_14_on_ingeland)
-- [Story 15 ON LONELINESS](/testi/chesterton/atomized/gkc_come_to_think/story_15_on_loneliness)
-- [Story 16 ON THE IMPORTANCE OF WHY WE DO OR DON T](/testi/chesterton/atomized/gkc_come_to_think/story_16_on_the_importance_of_why_we_do_or_don_t)
-- [Story 17 ON THE OPEN CONSPIRACY](/testi/chesterton/atomized/gkc_come_to_think/story_17_on_the_open_conspiracy)
-- [Story 18 ON THE CLOSED CONSPIRACY](/testi/chesterton/atomized/gkc_come_to_think/story_18_on_the_closed_conspiracy)
-- [Story 19 ON CURRENT CLAPTRAP](/testi/chesterton/atomized/gkc_come_to_think/story_19_on_current_claptrap)
-- [Story 20 ON EVIL EUPHEMISMS](/testi/chesterton/atomized/gkc_come_to_think/story_20_on_evil_euphemisms)
-- [Story 21 ON ENCYCLOPAEDIAS](/testi/chesterton/atomized/gkc_come_to_think/story_21_on_encyclopaedias)
-- [Story 22 ON PREACHING](/testi/chesterton/atomized/gkc_come_to_think/story_22_on_preaching)
-- [Story 23 ON THE TIMID THINKERS](/testi/chesterton/atomized/gkc_come_to_think/story_23_on_the_timid_thinkers)
-- [Story 24 ON THE MYTHOLOGY OF SCIENTISTS](/testi/chesterton/atomized/gkc_come_to_think/story_24_on_the_mythology_of_scientists)
-- [Story 25 ON CHANGE](/testi/chesterton/atomized/gkc_come_to_think/story_25_on_change)
-- [Story 26 ON TWILIGHT SLEEP](/testi/chesterton/atomized/gkc_come_to_think/story_26_on_twilight_sleep)
-- [Story 27 ON VULGARITY](/testi/chesterton/atomized/gkc_come_to_think/story_27_on_vulgarity)
-- [Story 28 ON A HUMILIATING HERESY](/testi/chesterton/atomized/gkc_come_to_think/story_28_on_a_humiliating_heresy)
-- [Story 29 ON ORIGINAL SIN](/testi/chesterton/atomized/gkc_come_to_think/story_29_on_original_sin)
-- [Story 30 ON THE NEW RELIGION COMING](/testi/chesterton/atomized/gkc_come_to_think/story_30_on_the_new_religion_coming)
-- [Story 31 ON THE GREAT GOD NAMSE](/testi/chesterton/atomized/gkc_come_to_think/story_31_on_the_great_god_namse)
-- [Story 32 ON THE INNOCENCE OF MACAULAY](/testi/chesterton/atomized/gkc_come_to_think/story_32_on_the_innocence_of_macaulay)
-- [Story 33 ON JANE AUSTEN IN THE GENERAL ELECTION](/testi/chesterton/atomized/gkc_come_to_think/story_33_on_jane_austen_in_the_general_election)
-- [Story 34 ON DICTATORSHIPS](/testi/chesterton/atomized/gkc_come_to_think/story_34_on_dictatorships)
-- [Story 35 ON ABOLISHING SUNDAY](/testi/chesterton/atomized/gkc_come_to_think/story_35_on_abolishing_sunday)
-- [Story 36 ON PROHIBITION](/testi/chesterton/atomized/gkc_come_to_think/story_36_on_prohibition)
-- [Story 37 ON AMERICA](/testi/chesterton/atomized/gkc_come_to_think/story_37_on_america)
-- [Story 38 ON BIGNESS AND AMERICA](/testi/chesterton/atomized/gkc_come_to_think/story_38_on_bigness_and_america)
-- [Story 39 ON THE AMERICAN REVOLT AGAINST AMERICANI](/testi/chesterton/atomized/gkc_come_to_think/story_39_on_the_american_revolt_against_americani)
-- [Story 40 ON ABRAHAM LINCOLN](/testi/chesterton/atomized/gkc_come_to_think/story_40_on_abraham_lincoln)
-- [Story 41 ON MYSELF ON ABRAHAM LINCOLN](/testi/chesterton/atomized/gkc_come_to_think/story_41_on_myself_on_abraham_lincoln)
-- [Story 42 ON FOCH](/testi/chesterton/atomized/gkc_come_to_think/story_42_on_foch)
-- [Story 43 ON DICKENS AND AFTER](/testi/chesterton/atomized/gkc_come_to_think/story_43_on_dickens_and_after)
-- [Story 44 ON THE KING](/testi/chesterton/atomized/gkc_come_to_think/story_44_on_the_king)
+- Story 07 ON DETECTIVE STORY WRITERS
+- Story 08 ON THE NEW POETRY
+- Story 09 ON THE CLASSICS
+- Story 10 ON PSYCHO ANALYSIS
+- Story 11 ON EGOISTS AND EGOISTS
+- Story 12 ON MR EPSTEIN
+- Story 13 ON WHO KILLED JOHN KEATS
+- Story 14 ON Ingeland
+- Story 15 ON LONELINESS
+- Story 16 ON THE IMPORTANCE OF WHY WE DO OR DON T
+- Story 17 ON THE OPEN CONSPIRACY
+- Story 18 ON THE CLOSED CONSPIRACY
+- Story 19 ON CURRENT CLAPTRAP
+- Story 20 ON EVIL EUPHEMISMS
+- Story 21 ON ENCYCLOPAEDIAS
+- Story 22 ON PREACHING
+- Story 23 ON THE TIMID THINKERS
+- Story 24 ON THE MYTHOLOGY OF SCIENTISTS
+- Story 25 ON CHANGE
+- Story 26 ON TWILIGHT SLEEP
+- Story 27 ON VULGARITY
+- Story 28 ON A HUMILIATING HERESY
+- Story 29 ON ORIGINAL SIN
+- Story 30 ON THE NEW RELIGION COMING
+- Story 31 ON THE GREAT GOD NAMSE
+- Story 32 ON THE INNOCENCE OF MACAULAY
+- Story 33 ON JANE AUSTEN IN THE GENERAL ELECTION
+- Story 34 ON DICTATORSHIPS
+- Story 35 ON ABOLISHING SUNDAY
+- Story 36 ON PROHIBITION
+- Story 37 ON AMERICA
+- Story 38 ON BIGNESS AND AMERICA
+- Story 39 ON THE AMERICAN REVOLT AGAINST AMERICANI
+- Story 40 ON ABRAHAM LINCOLN
+- Story 41 ON MYSELF ON ABRAHAM LINCOLN
+- Story 42 ON FOCH
+- Story 43 ON DICKENS AND AFTER
+- Story 44 ON THE KING
 
 ## Testo integrale / Full text
 

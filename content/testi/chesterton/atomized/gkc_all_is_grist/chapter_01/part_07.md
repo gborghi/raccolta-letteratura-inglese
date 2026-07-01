@@ -110,30 +110,3 @@ sometimes positively disliked the famous spectacles of travel.
 But the thing I disliked was always utterly different from the thing
 that I was expected to like; so utterly different that I generally
 came at last to like it.
-
-I had another experience of the same sort recently; I suddenly
-saw Canada.  I had visited it before; but I had never seen it before.
-On the former occasion I crossed the frontier from the United States;
-and there is nothing particularly interesting about
-the frontier except the undignified fuss about Prohibition.
-On the second occasion I went up the St. Lawrence to Montreal.
-This also was a thing I had heard of often enough; but nothing I
-had ever heard of gave me any rumour of the reality.  As is usual
-in such cases, the point of the experience is almost always missed.
-The point of the experience is that the traveller is carried
-far northward, almost as if he were going to the North Pole,
-or at least to find the North-West Passage.  He sees icebergs
-and the Northern Lights and the whales of the northern waters;
-a hundred signs recall to him the Arctic adventures of which he read
-as a boy.  Then the [[Ship|ship]] takes a sharp turn, which seems like one
-of the sharpest turns in navigation, and enters a new, an enormous,
-and yet a secret world.  He feels, as the first explorers must
-have felt, that it is really a world set apart; that he had never
-guessed the earth contained anything so vast yet so concealed.
-And the impression is now increased when there begin to appear upon
-the narrowing coasts of that inland sea villages and the spires
-of churches that are not altogether like anything he has left behind.
-It is as if there were another Mediterranean, with another civilization
-in all its ports and shrines.  So a man sails up the great St. Lawrence,
-wondering more and more, until the broad [[River|river]] seems to split
-about the great rock of Quebec.

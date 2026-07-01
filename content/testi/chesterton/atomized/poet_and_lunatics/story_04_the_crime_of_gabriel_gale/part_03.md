@@ -14,6 +14,23 @@ tags:
 </nav>
 
 
+"A second or so afterwards he added, as if it were an afterthought,
+'You might as [[Well|well]] tell the tree to come here as [[Well|well]].'
+Naturally there was no answer; and indeed Saunders, partly by his natural
+clumsiness and partly in the distraction of the driving elements,
+seemed for the moment to have lost his way and was staggering up
+the steeper path of the meadow some way to the left of the tree.
+I could just see his long figure and angular awkward elbows traced
+against the sky.  Then followed the sudden, violent and utterly
+unintelligible incident.  A rope happened to lie half round one
+of the swathes in the foreground; and Gale, leaping out of the door,
+caught it up and seemed to be knotting it in a sort of savage haste.
+The next moment there swept across the sky the great swirling
+curves of a noose thrown in the manner of a lasso.  And I could
+see the wavering figure on the dark ridge alter its attitude
+and rear up as against an invisible obstacle, as the rope tightened
+and tugged it back.
+
 "I looked round for assistance; and was surprised and somewhat
 alarmed to find I was [[Alone|alone]].  The host and hostess, and the others,
 having despatched the obliging Saunders after the chairs, had rushed
@@ -53,7 +70,6 @@ I have him waiting outside in the car."
 "Very [[Well|well]]," said the [[London]] doctor, rising with abrupt composure
 and buttoning up his coat.  "We had better go along to see him
 now and get it over."
-
 
 The interview between Gale and the two doctors, at an adjacent hotel,
 was so short and so extraordinary that they went away with their
@@ -115,52 +131,3 @@ of Gabriel Gale.  The reply came back with remarkable promptitude;
 and Garth came to Butterworth with the open telegram in his hand
 and a rather dazed expression on his face.  For the exact terms
 of the message were:
-
-"Can never be sufficiently grateful to Gale for his great kindness
-which more than saved my life."
-
-The two doctors looked at each other in [[Silence|silence]]; and in almost
-as complete a [[Silence|silence]] got into a car and drove across the hills
-once more to the Blakeney's [[house]], where Gale was still staying.
-
-They drove across the hilly country and descended into
-the wide and shallow valley where stood the [[house]] which
-sheltered that dangerous character, Mr. Gabriel Gale.
-Garth could recall, and Butterworth could imagine, all the irony
-suggested to the [[Imagination|imagination]] by such a story about such a scene.
-The [[house]] of the Blakeneys stood high and plain just beyond the [[River|river]];
-it was one of those houses that strike the eye as old-fashioned
-and yet not old.  Certainly it was not old enough to be beautiful;
-but it had everything that recalls, to those that faintly
-remember them, the last traditions of Early Victorian lingering
-into Mid-Victorian times.  The tall pillars looked so very pallid;
-the long plain windows looked in dismally upon high-ceilinged rooms;
-the curtains that hung parallel with the pillars were strips of dull red;
-and even from that distance the humorous Butterworth was certain
-that they had heavy and quite useless tassels.  It was a strange
-[[house]] to have been the scene of an incredible crime or lunacy.
-It was an even stranger [[house]] to have been, as was alleged,
-the scene of a yet more incredible or mysterious [[Mercy|mercy]].
-All about it lay its ordered gardens and its mown or unmown meadows;
-its plantations of trees and deep alleys and shrubberies;
-all the things which on that wild [[Night|night]] had been given over
-to the withering splendour of the [[Lightning|lightning]] and the [[Wind|wind]].
-Now the whole landscape was laid bare in a golden calm of [[Summer|summer]];
-and the blue heavens above it were so deep and still that the sound
-of a humming fly hung there and was heard as far away as the skylark.
-Thus glittered in the sun, all solid and objective, the stage
-properties of that hideous farce.  Garth saw all the blank and staring
-windows which he had last beheld streaming with rain and swept
-by the [[Wind|wind]] and the wild [[Dance|dance]] of the lunatic and his victim.
-He saw the forked tree to which the victim had been bound,
-still with the two black holes in it where the fork had pierced it,
-looking like the hollow eyes of a skull, and making the whole
-seem like some horned goblin.  There was the heaped up hay,
-still to some extent disordered and scattered as by the dizzy [[Dance|dance]]
-of a small cyclone; and beyond it [[Rose|rose]] the high green wall of the
-unmown and standing grass of the next meadow.  From the very thick
-of this mild jungle or miniature forest, a long thin line of smoke
-was drawn up into the sky; as if from a very small [[Fire|fire]] of weeds.
-Nothing else human or alive was visible in the sultry [[Summer|summer]] landscape;
-but Garth seemed to know and recognize the significance of the smoke.
-He sent a far halloo across the fields, calling out, "Is that you, Gale?"

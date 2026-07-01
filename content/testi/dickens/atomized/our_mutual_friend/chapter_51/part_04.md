@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 10 (part 4)"
+title: "Our Mutual Friend — Chapter 13 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,138 +10,106 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_51/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_51/part_05">part 05 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_51/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_52/part_01">part 01 ›</a></div>
 </nav>
 
 
-When he got back, Lightwood was standing over the [[Fire|fire]], brooding in a
-sufficiently low-spirited manner.
+The old man looked into Fledgeby’s little eyes for any sign of leave to
+be easy with Mr Twemlow; but there was no sign in them.
 
-‘I’ll wash my hands of Mr Dolls physically—’ said Eugene, ‘and be with
-you again directly, Mortimer.’
+‘Mr Twemlow is no connexion of yours, Mr Riah,’ said Fledgeby; ‘you
+can’t want to be even with him for having through life gone in for a
+gentleman and hung on to his Family. If Mr Twemlow has a contempt for
+business, what can it matter to you?’
 
-‘I would much prefer,’ retorted Mortimer, ‘your washing your hands of Mr
-Dolls, morally, Eugene.’
+‘But pardon me,’ interposed the gentle victim, ‘I have not. I should
+consider it presumption.’
 
-‘So would I,’ said Eugene; ‘but you see, dear boy, I can’t do without
-him.’
+‘There, Mr Riah!’ said Fledgeby, ‘isn’t that handsomely said? Come! Make
+terms with me for Mr Twemlow.’
 
-In a minute or two he resumed his chair, as perfectly unconcerned as
-usual, and rallied his friend on having so narrowly escaped the prowess
-of their muscular visitor.
+The old man looked again for any sign of permission to spare the poor
+little gentleman. No. Mr Fledgeby meant him to be racked.
 
-‘I can’t be amused on this theme,’ said Mortimer, restlessly. ‘You can
-make almost any theme amusing to me, Eugene, but not this.’
+‘I am very sorry, Mr Twemlow,’ said Riah. ‘I have my instructions. I am
+invested with no authority for diverging from them. The money must be
+paid.’
 
-‘[[Well]]!’ cried Eugene, ‘I am a little ashamed of it myself, and therefore
-let us change the subject.’
+‘In full and slap down, do you mean, Mr Riah?’ asked Fledgeby, to make
+things quite explicit.
 
-‘It is so deplorably underhanded,’ said Mortimer. ‘It is so unworthy of
-you, this setting on of such a shameful scout.’
+‘In full, sir, and at once,’ was Riah’s answer.
 
-‘We have changed the subject!’ exclaimed Eugene, airily. ‘We have found
-a new one in that word, scout. Don’t be like Patience on a mantelpiece
-frowning at Dolls, but sit down, and I’ll tell you something that you
-really will find amusing. Take a cigar. Look at this of mine. I
-light it—draw one puff—breathe the smoke out—there it goes—it’s
-Dolls!—it’s gone—and being gone you are a man again.’
+Mr Fledgeby shook his head deploringly at Twemlow, and mutely expressed
+in reference to the venerable figure standing before him with eyes upon
+the ground: ‘What a [[Monster]] of an Israelite this is!’
 
-‘Your subject,’ said Mortimer, after lighting a cigar, and comforting
-himself with a whiff or two, ‘was scouts, Eugene.’
+‘Mr Riah,’ said Fledgeby.
 
-‘Exactly. Isn’t it droll that I never go out after dark, but I find
-myself attended, always by one scout, and often by two?’
+The old man lifted up his eyes once more to the little eyes in Mr
+Fledgeby’s head, with some reviving [[Hope|hope]] that the sign might be coming
+yet.
 
-Lightwood took his cigar from his lips in surprise, and looked at his
-friend, as if with a latent suspicion that there must be a jest or
-hidden meaning in his words.
+‘Mr Riah, it’s of no use my holding back the fact. There’s a certain
+great party in the background in Mr Twemlow’s case, and you know it.’
 
-‘On my [[Honour|honour]], no,’ said Wrayburn, answering the look and smiling
-carelessly; ‘I don’t [[Wonder|wonder]] at your supposing so, but on my [[Honour|honour]], no.
-I say what I mean. I never go out after dark, but I find myself in the
-ludicrous situation of being followed and observed at a distance, always
-by one scout, and often by two.’
+‘I know it,’ the old man admitted.
 
-‘Are you sure, Eugene?’
+‘Now, I’ll put it as a plain point of business, Mr Riah. Are you fully
+determined (as a plain point of business) either to have that said great
+party’s security, or that said great party’s money?’
 
-‘Sure? My dear boy, they are always the same.’
+‘Fully determined,’ answered Riah, as he read his master’s face, and
+learnt the book.
 
-‘But there’s no process out against you. The Jews only threaten. They
-have done nothing. Besides, they know where to find you, and I represent
-you. Why take the trouble?’
+‘Not at all caring for, and indeed as it seems to me rather enjoying,’
+said Fledgeby, with peculiar unction, ‘the precious kick-up and row that
+will come off between Mr Twemlow and the said great party?’
 
-‘Observe the legal mind!’ remarked Eugene, turning round to the
-furniture again, with an air of indolent rapture. ‘Observe the dyer’s
-hand, assimilating itself to what it works in,—or would work in, if
-anybody would give it anything to do. Respected solicitor, it’s not
-that. The schoolmaster’s abroad.’
+This required no answer, and received none. Poor Mr Twemlow, who had
+betrayed the keenest mental terrors since his noble kinsman loomed in
+the perspective, [[Rose|rose]] with a sigh to take his departure. ‘I thank you
+very much, sir,’ he said, offering Fledgeby his feverish hand. ‘You have
+done me an unmerited service. Thank you, thank you!’
 
-‘The schoolmaster?’
+‘Don’t mention it,’ answered Fledgeby. ‘It’s a failure so far, but I’ll
+stay behind, and take another touch at Mr Riah.’
 
-‘Ay! Sometimes the schoolmaster and the pupil are both abroad. Why, how
-soon you rust in my absence! You don’t understand yet? Those fellows
-who were here one [[Night|night]]. They are the scouts I speak of, as doing me the
-[[Honour|honour]] to attend me after dark.’
+‘Do not deceive yourself Mr Twemlow,’ said the Jew, then addressing him
+directly for the first [[Time|time]]. ‘There is no [[Hope|hope]] for you. You must expect
+no leniency here. You must pay in full, and you cannot pay too promptly,
+or you will be put to heavy charges. Trust nothing to me, sir. Money,
+money, money.’ When he had said these words in an emphatic manner, he
+acknowledged Mr Twemlow’s still polite motion of his head, and that
+amiable little worthy took his departure in the lowest spirits.
 
-‘How long has this been going on?’ asked Lightwood, opposing a serious
-face to the laugh of his friend.
+Fascination Fledgeby was in such a merry vein when the counting-[[house]]
+was cleared of him, that he had nothing for it but to go to the [[Window|window]],
+and lean his arms on the frame of the blind, and have his silent laugh
+out, with his back to his subordinate. When he turned round again with a
+composed countenance, his subordinate still stood in the same place, and
+the dolls’ dressmaker sat behind the door with a look of horror.
 
-‘I apprehend it has been going on, ever since a certain person went off.
-Probably, it had been going on some little [[Time|time]] before I noticed it:
-which would bring it to about that [[Time|time]].’
+‘Halloa!’ cried Mr Fledgeby, ‘you’re forgetting this young lady, Mr
+Riah, and she has been waiting long enough too. Sell her her waste,
+please, and give her good measure if you can make up your mind to do the
+liberal thing for once.’
 
-‘Do you think they suppose you to have inveigled her away?’
+He looked on for a [[Time|time]], as the Jew filled her little basket with such
+scraps as she was used to buy; but, his merry vein coming on again, he
+was obliged to turn round to the [[Window|window]] once more, and lean his arms on
+the blind.
 
-‘My dear Mortimer, you know the absorbing [[Nature|nature]] of my professional
-occupations; I really have not had leisure to think about it.’
+‘There, my Cinderella dear,’ said the old man in a whisper, and with a
+worn-out look, ‘the basket’s full now. Bless you! And get you gone!’
 
-‘Have you asked them what they want? Have you objected?’
+‘Don’t call me your Cinderella dear,’ returned Miss Wren. ‘O you cruel
+godmother!’
 
-‘Why should I ask them what they want, dear fellow, when I am
-indifferent what they want? Why should I express objection, when I don’t
-object?’
+She shook that emphatic little forefinger of hers in his face at
+parting, as earnestly and reproachfully as she had ever shaken it at her
+grim old [[Child|child]] at [[Home|home]].
 
-‘You are in your most reckless mood. But you called the situation just
-now, a ludicrous one; and most men object to that, even those who are
-utterly indifferent to everything else.’
-
-‘You charm me, Mortimer, with your reading of my weaknesses. (By-the-by,
-that very word, Reading, in its critical use, always charms me. An
-actress’s Reading of a chambermaid, a dancer’s Reading of a hornpipe, a
-singer’s Reading of a [[Song|song]], a marine painter’s Reading of the sea,
-the kettle-drum’s Reading of an instrumental passage, are phrases
-ever youthful and delightful.) I was mentioning your perception of my
-weaknesses. I own to the weakness of objecting to occupy a ludicrous
-position, and therefore I transfer the position to the scouts.’
-
-‘I wish, Eugene, you would speak a little more soberly and plainly, if
-it were only out of consideration for my feeling less at ease than you
-do.’
-
-‘Then soberly and plainly, Mortimer, I goad the schoolmaster to [[Madness|madness]].
-I make the schoolmaster so ridiculous, and so aware of being made
-ridiculous, that I see him chafe and fret at every pore when we [[Cross|cross]]
-one another. The amiable occupation has been the solace of my life,
-since I was baulked in the manner unnecessary to recall. I have derived
-inexpressible comfort from it. I do it thus: I stroll out after dark,
-stroll a little way, look in at a [[Window|window]] and furtively look out for the
-schoolmaster. Sooner or later, I perceive the schoolmaster on the watch;
-sometimes accompanied by his hopeful pupil; oftener, pupil-less. Having
-made sure of his watching me, I tempt him on, all over [[London]]. One
-[[Night|night]] I go east, another [[Night|night]] north, in a few nights I go all round the
-compass. Sometimes, I walk; sometimes, I proceed in cabs, draining the
-pocket of the schoolmaster who then follows in cabs. I study and get
-up abstruse No Thoroughfares in the course of the day. With Venetian
-mystery I seek those No Thoroughfares at [[Night|night]], glide into them by means
-of dark courts, tempt the schoolmaster to follow, turn suddenly, and
-catch him before he can retreat. Then we face one another, and I pass
-him as unaware of his existence, and he undergoes grinding torments.
-Similarly, I walk at a great pace down a short street, rapidly turn the
-corner, and, getting out of his view, as rapidly turn back. I catch him
-coming on post, again pass him as unaware of his existence, and again
-he undergoes grinding torments. [[Night]] after [[Night|night]] his disappointment is
-acute, but [[Hope|hope]] springs eternal in the scholastic breast, and he follows
-me again to-morrow. Thus I enjoy the pleasures of the chase, and derive
-great benefit from the healthful exercise. When I do not enjoy the
-pleasures of the chase, for anything I know he watches at the Temple
-Gate all [[Night|night]].’
+‘You are not the godmother at all!’ said she. ‘You are the Wolf in
+the Forest, the wicked Wolf! And if ever my dear Lizzie is sold and
+betrayed, I shall know who sold and betrayed her!’

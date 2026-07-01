@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 17: SEVENTEEN (part 6)"
+title: "Martin Chuzzlewit — Chapter 17: SEVENTEEN (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,44 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_17_seventeen/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_17_seventeen/part_07">part 07 ›</a></div>
 </nav>
 
+
+A [[Death|death]]-like stillness fell upon the Norisses. If this story should get
+[[Wind|wind]], their country relation had, by his imprudence, for ever disgraced
+them. They were the bright particular [[Stars|stars]] of an exalted [[New York]]
+sphere. There were other fashionable spheres above them, and other
+fashionable spheres below, and none of the [[Stars|stars]] in any one of these
+spheres had anything to say to the [[Stars|stars]] in any other of these spheres.
+But, through all the spheres it would go forth that the Norrises,
+deceived by gentlemanly manners and appearances, had, falling from their
+high estate, ‘received’ a dollarless and unknown man. O guardian eagle
+of the pure Republic, had they lived for this!
+
+‘You will allow me,’ said Martin, after a terrible [[Silence|silence]], ‘to take
+my leave. I feel that I am the cause of at least as much embarrassment
+here, as I have brought upon myself. But I am bound, before I go, to
+exonerate this gentleman, who, in introducing me to such society, was
+quite ignorant of my unworthiness, I assure you.’
+
+With that he made his bow to the Norrises, and walked out like a man of
+[[Snow|snow]]; very cool externally, but pretty hot within.
+
+‘Come, come,’ said Mr Norris the father, looking with a pale face on
+the assembled circle as Martin closed the door, ‘the young man has this
+[[Night|night]] beheld a refinement of social manner, and an easy magnificence of
+social decoration, to which he is a stranger in his own country. Let us
+[[Hope|hope]] it may awake a moral sense within him.’
+
+If that peculiarly transatlantic article, a moral sense--for, if native
+statesmen, orators, and pamphleteers, are to be believed, [[america|America]] quite
+monopolises the commodity--if that peculiarly transatlantic article be
+supposed to include a benevolent [[Love|love]] of all mankind, certainly Martin’s
+would have borne, just then, a deal of waking. As he strode along
+the street, with Mark at his heels, his immoral sense was in active
+operation; prompting him to the utterance of some rather sanguinary
+remarks, which it was [[Well|well]] for his own credit that nobody overheard.
+He had so far cooled down, however, that he had begun to laugh at the
+recollection of these incidents, when he heard another step behind him,
+and turning round encountered his friend Bevan, quite out of breath.
 
 He drew his arm through Martin’s, and entreating him to walk slowly, was
 silent for some minutes. At length he said:
@@ -100,69 +138,3 @@ in the congregation; so she was tranquil on all accounts.
 friend, turning again to Mrs Brick.
 
 ‘The [[philosophy|Philosophy]] of the [[Soul]], on Wednesdays.’
-
-‘On Mondays?’
-
-‘The [[philosophy|Philosophy]] of Crime.’
-
-‘On Fridays?’
-
-‘The [[philosophy|Philosophy]] of Vegetables.’
-
-‘You have forgotten Thursdays; the [[philosophy|Philosophy]] of [[government|Government]], my dear,’
-observed the third lady.
-
-‘No,’ said Mrs Brick. ‘That’s Tuesdays.’
-
-‘So it is!’ cried the lady. ‘The [[philosophy|Philosophy]] of Matter on Thursdays, of
-course.’
-
-‘You see, Mr Chuzzlewit, our ladies are fully employed,’ said Bevan.
-
-‘Indeed you have reason to say so,’ answered Martin. ‘Between these very
-[[Grave|grave]] pursuits abroad, and family duties at [[Home|home]], their [[Time|time]] must be
-pretty [[Well|well]] engrossed.’
-
-Martin stopped here, for he saw that the ladies regarded him with no
-very great favour, though what he had done to deserve the disdainful
-expression which appeared in their faces he was at a loss to divine. But
-on their going upstairs to their bedrooms--which they very soon did--Mr
-Bevan informed him that domestic drudgery was far beneath the exalted
-range of these Philosophers, and that the chances were a hundred to one
-that not one of the three could perform the easiest woman’s work for
-herself, or make the simplest article of dress for any of her children.
-
-‘Though whether they might not be better employed with such blunt
-instruments as knitting-needles than with these edge-tools,’ he said,
-‘is another question; but I can answer for one thing--they don’t often
-cut themselves. Devotions and lectures are our balls and concerts. They
-go to these places of resort, as an escape from monotony; look at each
-other’s clothes; and come [[Home|home]] again.’
-
-‘When you say “[[Home|home]],” do you mean a [[house]] like this?’
-
-‘Very often. But I see you are tired to [[Death|death]], and will wish you good
-[[Night|night]]. We will discuss your projects in the morning. You cannot but
-feel already that it is useless staying here, with any [[Hope|hope]] of advancing
-them. You will have to go further.’
-
-‘And to fare worse?’ said Martin, pursuing the old adage.
-
-‘[[Well]], I [[Hope|hope]] not. But sufficient for the day, you know--good [[Night|night]]’
-
-They shook hands heartily and separated. As soon as Martin was left
-[[Alone|alone]], the excitement of novelty and change which had sustained him
-through all the fatigues of the day, departed; and he felt so thoroughly
-dejected and worn out, that he even lacked the energy to crawl upstairs
-to bed.
-
-In twelve or fifteen hours, how great a change had fallen on his hopes
-and sanguine plans! New and strange as he was to the ground on which he
-stood, and to the air he breathed, he could not--recalling all that he
-had crowded into that one day--but entertain a strong misgiving that his
-enterprise was doomed. Rash and ill-considered as it had often looked on
-shipboard, but had never seemed on shore, it wore a dismal aspect, now,
-that frightened him. Whatever thoughts he called up to his aid, they
-came upon him in depressing and discouraging shapes, and gave him no
-relief. Even the diamonds on his finger sparkled with the brightness of
-[[Tears|tears]], and had no ray of [[Hope|hope]] in all their brilliant lustre.

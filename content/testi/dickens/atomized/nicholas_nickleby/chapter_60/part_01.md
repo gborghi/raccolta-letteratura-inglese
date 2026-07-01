@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 60 (part 1)"
+title: "Nicholas Nickleby — Chapter 60 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -131,9 +131,3 @@ astronomy, trigonometry--this is a altered state of trigonomics, this
 is! A [[Double|double]] 1--all, everything--a cobbler’s weapon. U-p-up, adjective,
 not down. S-q-u-[[Double|double]] e-r-s-Squeers, noun substantive, a educator of
 youth. Total, all up with Squeers!’
-
-His running on, in this way, had afforded Ralph an opportunity of
-recovering his presence of mind, which at once suggested to him
-the necessity of removing, as far as possible, the schoolmaster’s
-misgivings, and leading him to believe that his safety and best policy
-lay in the preservation of a rigid [[Silence|silence]].

@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 4 (part 3)"
+title: "The Professor — Chapter 4 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -14,6 +14,22 @@ tags:
 </nav>
 
 
+[[Garden|garden]] like me!”
+
+“I should be too far from the mill.”
+
+“What of that? It would do you good to walk there and back two or three
+
+times a day; besides, are you such a fossil that you never wish to see a
+
+flower or a green leaf?”
+
+“I am no fossil.”
+
+“What are you then? You sit at that desk in Crimsworth’s counting-[[house]]
+
+day by day and week by week, scraping with a pen on paper, just like an
+
 automaton; you never get up; you never say you are tired; you never ask
 
 for a holiday; you never take change or relaxation; you give way to
@@ -22,11 +38,7 @@ no excess of an evening; you neither keep wild company, nor indulge in
 
 strong drink.”
 
-
-
 “Do you, Mr. Hunsden?”
-
-
 
 “Don’t think to pose me with short questions; your case and mine
 
@@ -36,11 +48,7 @@ parallel. I say, that when a man endures patiently what ought to be
 
 unendurable, he is a fossil.”
 
-
-
 “Whence do you acquire the knowledge of my patience?”
-
-
 
 “Why, man, do you suppose you are a mystery? The other [[Night|night]] you seemed
 
@@ -64,11 +72,7 @@ place nor partner, but hovered about like a poor, shabby hanger-on; and
 
 how patient you were under each and all of these circumstances!”
 
-
-
 “[[Well]], Mr. Hunsden, what then?”
-
-
 
 “I can hardly tell you what then; the conclusion to be drawn as to
 
@@ -91,8 +95,6 @@ phlegmatic, flat, inexcitable, and that you cannot get up to the pitch
 of resistance, why, God made you to be crushed; and lie down by all
 
 means, and lie flat, and let Juggernaut ride [[Well|well]] over you.”
-
-
 
 Mr. Hunsden’s eloquence was not, it will be perceived, of the smooth and
 
@@ -126,11 +128,7 @@ incorrect and offensive surmises, his bitter and haughty taunts; and
 
 himself was chafed by a laugh, scarce louder than a whisper.
 
-
-
 His brow darkened, his thin nostril dilated a little.
-
-
 
 “Yes,” he began, “I told you that you were an [[aristocrat]], and who but
 
@@ -162,8 +160,6 @@ with practical men, with whom you cannot cope, for YOU’LL NEVER BE A
 
 TRADESMAN.”
 
-
-
 The first part of Hunsden’s speech moved me not at all, or, if it did,
 
 it was only to [[Wonder|wonder]] at the perversion into which prejudice had twisted
@@ -174,11 +170,7 @@ moved, but shook me; the blow it gave was a severe one, because [[Truth]]
 
 wielded the weapon. If I smiled now, it, was only in disdain of myself.
 
-
-
 Hunsden saw his advantage; he followed it up.
-
-
 
 “You’ll make nothing by trade,” continued he; “nothing more than the
 
@@ -188,13 +180,9 @@ your only chance of getting a competency lies in marrying a rich widow,
 
 or running away with an heiress.”
 
-
-
 “I leave such shifts to be put in practice by those who devise them,”
 
  said I, rising.
-
-
 
 “And even that is hopeless,” he went on coolly. “What widow would have
 
@@ -208,8 +196,6 @@ refinement to market, and tell me in a private note what price is bid
 
 for them.”
 
-
-
 Mr. Hunsden had taken his tone for the [[Night|night]]; the string he struck was
 
 out of tune, he would finger no other. Averse to discord, of which I had
@@ -217,8 +203,6 @@ out of tune, he would finger no other. Averse to discord, of which I had
 enough every day and all day long, I concluded, at last, that [[Silence|silence]]
 
 and [[Solitude|solitude]] were preferable to jarring converse; I bade him good-[[Night|night]].
-
-
 
 “What! Are you going, lad? [[Well]], good-[[Night|night]]: you’ll find the door.” And
 

@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 28 (part 6)"
+title: "Nicholas Nickleby — Chapter 28 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -74,7 +74,7 @@ I knew from the first you would. [[Well]]. In all other respects you are
 comfortably bestowed. It’s not much to bear. If this young lord does dog
 your footsteps, and whisper his drivelling inanities in your ears, what
 of it? It’s a dishonourable passion. So be it; it won’t last long. Some
-other novelty will [[Spring|spring]] up one day, and you will be released. In the
+other novelty will [[spring]] up one day, and you will be released. In the
 mean [[Time|time]]--’
 
 ‘In the mean [[Time|time]],’ interrupted Kate, with becoming [[Pride|pride]] and

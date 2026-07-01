@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 6 (part 3)"
+title: "Barnaby Rudge — Chapter 6 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_06/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_07/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘The [[Night|night]] was so dark,’ said Edward, ‘the attack so sudden, and he so
+wrapped and muffled up, that I can hardly say. It seems that--’
 
 ‘Don’t mention his name, sir,’ returned the locksmith, following his
 look towards Barnaby; ‘I know HE saw him. I want to know what YOU saw.’

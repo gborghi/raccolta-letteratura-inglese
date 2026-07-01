@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 11 (part 6)"
+title: "Jane Eyre — Chapter 11 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_11/part_05">‹ part 05</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_12/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Do the servants [[Sleep|sleep]] in these rooms?” I asked.
+
+“No; they occupy a range of smaller apartments to the back; no one ever
+sleeps here: one would almost say that, if there were a [[Ghost|ghost]] at
+Thornfield Hall, this would be its haunt.”
+
+“So I think: you have no [[Ghost|ghost]], then?”
 
 “None that I ever heard of,” returned Mrs. Fairfax, smiling.
 

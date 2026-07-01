@@ -1,5 +1,5 @@
 ---
-title: "[[CharlesDickens]] — Chapter 9"
+title: "CharlesDickens — Chapter 9"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/charlesdickens-(chesterton)"
@@ -262,7 +262,7 @@ of his [[Marriage|marriage]].  That incident [[Alone|alone]] is enough to sugges
 external offers and proposals were sometimes like screams heard
 from Bedlam.  Yet it remains true that he had in him a central part
 that was pleased only by the most decent and the most reposeful rites,
-by things of which the Anglican [[prayer|Prayer]]-book is very typical.
+by things of which the Anglican [[Prayer]]-book is very typical.
 It is certainly true that he was often extravagant.  It is most
 certainly equally true that he detested and despised extravagance.
 
@@ -307,7 +307,7 @@ whether Protestant or Catholic, moved him to an extravagance of [[Satire|satire]
 And he flung himself into the drunken energy of Stiggins,
 he piled up to the [[Stars|stars]] the "verbose flights of stairs"
 of Mr. Chadband, exactly because his own conception of religion
-was the quiet and impersonal Morning [[prayer|Prayer]].  It is typical of him
+was the quiet and impersonal Morning [[Prayer]].  It is typical of him
 that he had a peculiar hatred for speeches at the [[Grave|grave]]-side.
 
 An even clearer case of what I mean can be found in his
@@ -480,7 +480,7 @@ like the lamp-posts, manifestations of the human mind,
 and things to be judged by the human heart.
 
 Thenceforward until the end his books grow consistently graver,
-and as it were, more responsible; he improves as an [[artist]]
+and as it were, more responsible; he improves as an [[Artist|artist]]
 if not always as a creator.  "Little Dorrit" (published in 1857)
 is at once in some ways so much more subtle and in every way
 so much more sad than the rest of his work that it bores

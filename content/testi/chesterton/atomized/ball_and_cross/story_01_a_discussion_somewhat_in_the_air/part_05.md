@@ -1,5 +1,5 @@
 ---
-title: "ball and [[Cross|cross]] — A Discussion Somewhat in the Air (part 5)"
+title: "ball and cross — A Discussion Somewhat in the Air (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/ball-and-cross-(chesterton)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ball_and_cross/story_01_a_discussion_somewhat_in_the_air/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/ball_and_cross/story_02_the_religion_of_the_stipendiary_magistra/part_01">part 01 ›</a></div>
 </nav>
 
+
+In the confused colour and music of his new paradise,
+[[Michael]] heard only in a faint and distant fashion some remarks
+that this beautiful solid man seemed to be making to him;
+remarks about something or other being after hours and against orders.
+He also seemed to be asking how [[Michael]] "got up" there.  This beautiful
+man evidently felt as [[Michael]] did that the earth was a star and was
+set in heaven.
 
 At length [[Michael]] sated himself with the mere sensual music of the voice
 of the man in buttons.  He began to listen to what he said, and even

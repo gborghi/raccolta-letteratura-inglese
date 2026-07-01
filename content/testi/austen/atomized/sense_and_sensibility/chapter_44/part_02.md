@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 44 (part 2)"
+title: "Sense and Sensibility — Chapter 44 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_44/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_44/part_03">part 03 ›</a></div>
 </nav>
 
+
+“It is hardly worth while, Mr. Willoughby, for you to relate, or for me
+
+to listen any longer. Such a beginning as this cannot be followed by
 
 any thing. Do not let me be pained by hearing any thing more on the
 
@@ -203,13 +207,3 @@ guessed. The purity of her life, the formality of her notions, her
 ignorance of the world—every thing was against me. The matter itself I
 
 could not deny, and vain was every endeavour to soften it. She was
-
-previously disposed, I believe, to [[Doubt|doubt]] the [[morality]] of my conduct in
-
-general, and was moreover discontented with the very little attention,
-
-the very little portion of my [[Time|time]] that I had bestowed on her, in my
-
-present visit. In short, it ended in a total breach. By one measure I
-
-might have saved myself. In the height of her [[morality]], good woman! she

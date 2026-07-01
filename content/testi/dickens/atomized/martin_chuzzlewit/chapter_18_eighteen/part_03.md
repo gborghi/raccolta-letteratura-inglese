@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 18: EIGHTEEN (part 3)"
+title: "Martin Chuzzlewit — Chapter 18: EIGHTEEN (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_18_eighteen/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_18_eighteen/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘Oh! YOU were? What was it?’
+
+‘That I never,’ said Mr Pecksniff, previously rising to see that the
+door was shut, and arranging his chair when he came back, so that it
+could not be opened in the least without his immediately becoming aware
+of the circumstance; ‘that I never in my life was so astonished as by
+the receipt of your letter yesterday. That you should do me the [[Honour|honour]]
+to wish to take counsel with me on any matter, amazed me; but that you
+should [[Desire|desire]] to do so, to the exclusion even of Mr Jonas, showed an
+amount of confidence in one to whom you had done a verbal injury--merely
+a verbal injury, you were anxious to repair--which gratified, which
+moved, which overcame me.’
+
+He was always a glib speaker, but he delivered this short address very
+glibly; having been at some pains to compose it outside the coach.
 
 Although he paused for a reply, and truly said that he was there at
 Anthony’s request, the old man sat gazing at him in profound [[Silence|silence]] and
@@ -119,18 +135,3 @@ Old Anthony rubbed his hands and muttered to himself; complained again
 that he was cold; drew his chair before the [[Fire|fire]]; and, sitting with his
 back to Mr Pecksniff, and his chin sunk down upon his breast, was, in
 another minute, quite regardless or forgetful of his presence.
-
-Uncouth and unsatisfactory as this short interview had been, it had
-furnished Mr Pecksniff with a hint which, supposing nothing further
-were imparted to him, repaid the [[Journey|journey]] up and [[Home|home]] again. For the good
-gentleman had never (for want of an opportunity) dived into the depths
-of Mr Jonas’s [[Nature|nature]]; and any recipe for catching such a son-in-law
-(much more one written on a leaf out of his own father’s book) was worth
-the having. In order that he might lose no chance of improving so fair
-an opportunity by allowing Anthony to fall asleep before he had finished
-all he had to say, Mr Pecksniff, in the disposal of the refreshments on
-the table, a work to which he now applied himself in earnest, resorted
-to many ingenious contrivances for attracting his attention; such as
-coughing, sneezing, clattering the teacups, sharpening the knives,
-dropping the loaf, and so forth. But all in vain, for Mr Jonas returned,
-and Anthony had said no more.

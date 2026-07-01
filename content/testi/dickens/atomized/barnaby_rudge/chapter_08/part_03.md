@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 8 (part 3)"
+title: "Barnaby Rudge — Chapter 8 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -121,6 +121,3 @@ hither, friend.’
 
 With that, he beckoned the new knight apart, and putting the pattern in
 his pocket, motioned to him to walk by his side.
-
-‘And so,’ he said, when they had taken a few turns up and down, you--you
-[[Love|love]] your master’s daughter?’

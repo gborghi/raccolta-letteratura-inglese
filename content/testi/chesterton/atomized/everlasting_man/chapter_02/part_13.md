@@ -14,6 +14,50 @@ tags:
 </nav>
 
 
+Of course most of these speculators who are talking about primitive
+men are thinking about modern savages.  They prove their progressive
+evolution by assuming that a great part of the human race has
+not progressed or evolved; or even changed in any way at all.
+I do not agree with their theory of change; nor do I agree with their
+dogma of things unchangeable.  I may not believe that civilised man
+has had so rapid and recent a progress; but I cannot quite understand
+why uncivilised man should be so mystically immortal and immutable.
+A somewhat simpler mode of thought and speech seems to me
+to be needed throughout this inquiry.  Modern savages cannot
+be exactly like primitive man, because they are not primitive.
+Modern savages are not ancient because they are modern.
+Something has happened to their race as much as to ours, during the
+thousands of years of our existence and [[Endurance|endurance]] on the earth.
+They have had some experiences, and have presumably acted on them if not
+profited by them.  Like the rest of us.  They have had some environment,
+and even some change of environment, and have presumably adapted
+themselves to it in a proper and decorous evolutionary manner.  This would
+be true even if the experiences were mild or the environment dreary;
+for there is an effect in mere [[Time|time]] when it takes the moral form
+of monotony.  But it has appeared to a good many intelligent
+and [[Well|well]]-informed people quite as probable that the experience
+of the savages has been that of a decline from civilisation.
+Most of those who criticise this view do not seem to have any very
+clear notion of what a decline from civilisation would be like.
+Heaven help them, it is likely enough that they will soon find out.
+They seem to be content if [[Cave|cave]]-men and cannibal islanders have
+some things in common; such as certain particular implements.
+But it is obvious on the face of it that any peoples reduced
+for any reason to a ruder life would have some things in common.
+If we lost all our firearms we should make bows and arrows;
+but we should not necessarily resemble in every way the first men
+who made bows and arrows.  It is said that the Russians in their
+great retreat were so short of armament that they fought with
+clubs cut in the wood.  But a professor of the future would err
+in supposing that the Russian army of 1916 was a naked Scythian
+tribe that had never been out of the wood.  It is like saying
+that a man in his second [[Childhood|childhood]] must exactly copy his first.
+A baby is bald like an old man; but it would be an error for one
+ignorant of infancy to infer that the baby had a long white beard.
+Both a baby and an old man walk with difficulty; but he who shall
+expect the old gentleman to lie on his back, and kick joyfully instead,
+will be disappointed.
+
 It is therefore absurd to argue that the first pioneers of humanity must
 have been identical with some of the last and most stagnant leavings
 of it.  There were almost certainly some things, there were probably
@@ -76,38 +120,3 @@ But the spirit that endures the mere cruelties and caprices
 of an established despot is the spirit of an ancient and settled
 and probably stiffened society, not the spirit of a new one.
 As his name implies, the Old Man is the ruler of an old humanity.
-
-It is far more probable that a primitive society was something like
-a pure [[democracy]].  To this day the comparatively simple agricultural
-communities are by far the purest democracies.  [[democracy|Democracy]] is a thing
-which is always breaking down through the complexity of civilisation.
-Anyone who likes may state it by saying that [[democracy]] is the foe
-of civilisation.  But he must remember that some of us really
-prefer [[democracy]] to civilisation, in the sense of preferring
-[[democracy]] to complexity.  Anyhow, peasants tilling patches of
-their own land in a rough equality, and meeting to vote directly
-under a village tree, are the most truly [[Self|self]]-governing of men.
-It is surely as likely as not that such a simple idea was found
-in the first condition of even simpler men.  Indeed the despotic
-vision is exaggerated, even if we do not regard the men as men.
-Even on an evolutionary assumption of the most materialistic sort,
-there is really no reason why men should not have had at least
-as much camaraderie as rats or rooks.  Leadership of some
-sort they doubtless had, as have the gregarious [[Animals|animals]];
-but leadership implies no such irrational servility as that
-attributed to the superstitious subjects of the Old Man.
-There was doubtless some [[Body|body]] corresponding, to use Tennyson's expression,
-to the many-wintered crow that leads the clanging rookery [[Home|home]].
-But I fancy that if that venerable fowl began to act after
-the fashion of some Sultans in ancient and decayed Asia, it would
-become a very clanging rookery and the many-wintered crow would
-not see many more winters.  It may be remarked, in this connection,
-but even among [[Animals|animals]] it would seem that something else is respected
-more than bestial violence, if it be only the familiarity which in men
-is called tradition or the experience which in men is called wisdom.
-I do not know if crows really follow the oldest crow, but if
-they do they are certainly not following the strongest crow.
-And I do know, in the human case, that if some ritual of seniority
-keeps savages reverencing somebody called Old Man, then at least
-they have not our own servile sentimental weakness for worshipping
-the Strong Man.

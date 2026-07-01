@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity]] — The [[Ghost]] of Gideon Wise (part 5)"
+title: "Incredulity — The Ghost of Gideon Wise (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-(chesterton)"
@@ -132,18 +132,18 @@ almost covertly at the crumbling headlands in the cold
 moonlight which were the haunts of the vision or delusion.
 `I didn't believe in it till I saw it,' he said.
 
-`And I did believe in it till I saw it,' said [[Father Brown]].
+`And I did believe in it till I saw it,' said Father Brown.
 The journalist stared after him as he went stumping across
-the great waste ground that [[Rose|rose]] towards the cloven
-headland like the sloping side of a [[Hill|hill]] cut in two.
-Under the discolouring [[Moon|moon]] the grass looked like long grey
-hair all combed one way by the [[Wind|wind]], and seeming to point
+the great waste ground that rose towards the cloven
+headland like the sloping side of a hill cut in two.
+Under the discolouring moon the grass looked like long grey
+hair all combed one way by the wind, and seeming to point
 towards the place where the breaking cliff showed pale gleams
-of [[chalk]] in the grey--green turf, and where stood the pale
+of chalk in the grey--green turf, and where stood the pale
 figure or shining shade that none could yet understand.
 As yet that pale figure dominated a desolate landscape
 that was empty except for the black square back and business--
-like figure of the priest advancing [[Alone|alone]] towards it.
-Then the prisoner [[Home]] broke suddenly from his captors with a
+like figure of the priest advancing alone towards it.
+Then the prisoner Home broke suddenly from his captors with a
 piercing cry and ran ahead of the priest, falling on his knees
 before the spectre.

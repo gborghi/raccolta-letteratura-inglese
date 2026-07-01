@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 23 (part 3)"
+title: "Nicholas Nickleby — Chapter 23 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -115,8 +115,3 @@ and swept the [[house]], and held the prompt book when everybody else was on
 for the last scene, and acted any kind of part on any emergency without
 ever learning it, and was put down in the bills under any name or names
 whatever, that occurred to Mr. Crummles as looking [[Well|well]] in print.
-
-Mr. Folair having obligingly confided these particulars to Nicholas, left
-him to mingle with his fellows; the work of personal introduction was
-completed by Mr. [[Vincent Crummles]], who publicly heralded the new actor as
-a prodigy of genius and learning.

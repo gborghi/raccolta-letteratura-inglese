@@ -14,6 +14,12 @@ tags:
 </nav>
 
 
+"You see," said Miss Browning, "we mustn't interfere
+with his career; that is the important thing.  And,
+really, I think the quieter we keep about everything
+the better.  I am sure he is maturing very big plans.
+You heard what the [[Prophet]] said the other [[Night|night]]?"
+
 "The last thing the [[Prophet]] said to me," said the
 darker lady, in a dogged manner, "was that when we
 English see the English youth, we cry out 'He is
@@ -167,23 +173,3 @@ you know why it is all doors within doors and lattice
 behind lattice; and everything is curtained and
 cushioned; and why the [[Flowers|flowers]] that are so fragrant here
 are not the [[Flowers|flowers]] of our hills?"
-
-From the distant and slowly darkening music room,
-Enid Wimpole's [[Song|song]] came thin and clear:
-
-  "Less than the [[Dust|dust]] beneath thy chariot [[Wheel|wheel]],
-   Less than the rust that never stained thy [[Sword|sword]]--"
-
-"Do you know what we are?" demanded Joan
-Brett, again. "We are a Harem."
-
-"Why, what can you mean?" cried the younger
-girl, in great agitation.  "Why, Lord Ivywood has
-never--"
-
-"I know he has never.  I am not sure," said Joan,
-"even whether he would ever.  I shall never understand
-that man, nor will anybody else.  But I tell
-you that is the spirit.  That is what we _are_.  And
-this room stinks of polygamy as certainly as it smells
-of tube-roses."

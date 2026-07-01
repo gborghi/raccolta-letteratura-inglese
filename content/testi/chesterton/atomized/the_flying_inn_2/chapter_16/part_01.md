@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)-(2)">The Flying Inn 2</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn_2/chapter_15/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn_2/chapter_16/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn_2/chapter_15/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn_2/chapter_16/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -159,10 +159,3 @@ And wash him and brush him and shave him and dress him
     knife,
  But these were luxuries lost for him that lived for the
     Simple Life."
-
-Mr. Pump had made many attempts to arrest this
-[[Song|song]], but they were as vain as all attempts to arrest
-the car.  The angry chauffeur seemed, indeed, rather
-inspired to further energy by the violent vocal noises
-behind; and Pump again found it best to fall back on
-conversation.

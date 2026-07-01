@@ -88,7 +88,7 @@ He says that our capitalists were not guilty of direct cruelty,
 but of an attitude careless and even callous. But what strikes me
 is that Sir [[arthur|Arthur]], with his taste for such protests and inquiries,
 need not have wandered quite so far from his own [[Home|home]] as the forests
-of South [[america|America]].
+of South [[America]].
 Sir [[arthur|Arthur]] Conan Doyle is an Irishman; and in his own country, within my
 own [[Memory|memory]] there occurred a staggering and almost incredible crime,
 or series of crimes, which were worthier than anything in the world of

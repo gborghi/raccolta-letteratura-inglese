@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 18 (part 3)"
+title: "Bleak House — Chapter 18 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_18/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_18/part_04">part 04 ›</a></div>
 </nav>
 
+
+“I shall not put him to the proof,” said my guardian. “He is as
+indifferent to the [[Honour|honour]] of knowing me, I dare say, as I am to the
+[[Honour|honour]] of knowing him. The air of the grounds and perhaps such a view
+of the [[house]] as any other sightseer might get are quite enough for
+me.”
 
 “[[Well]]!” said Mr. Boythorn. “I am glad of it on the whole. It’s in
 better keeping. I am looked upon about here as a second [[Ajax]] defying
@@ -115,6 +121,3 @@ the utmost rigour of the law. Lawrence Boythorn.” These he showed us
 from the drawing-room [[Window|window]], while his bird was hopping about his
 head, and he laughed, “Ha ha ha ha! Ha ha ha ha!” to that extent as
 he pointed them out that I really thought he would have hurt himself.
-
-“But this is taking a good deal of trouble,” said Mr. Skimpole in his
-light way, “when you are not in earnest after all.”

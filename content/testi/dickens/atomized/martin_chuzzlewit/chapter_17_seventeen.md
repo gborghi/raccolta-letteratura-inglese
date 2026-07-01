@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 17: SEVENTEEN"
+title: "Martin Chuzzlewit — Chapter 17: SEVENTEEN"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -622,7 +622,7 @@ social decoration, to which he is a stranger in his own country. Let us
 [[Hope|hope]] it may awake a moral sense within him.’
 
 If that peculiarly transatlantic article, a moral sense--for, if native
-statesmen, orators, and pamphleteers, are to be believed, [[America]] quite
+statesmen, orators, and pamphleteers, are to be believed, [[america|America]] quite
 monopolises the commodity--if that peculiarly transatlantic article be
 supposed to include a benevolent [[Love|love]] of all mankind, certainly Martin’s
 would have borne, just then, a deal of waking. As he strode along
@@ -881,7 +881,7 @@ it were even in the old bedroom at Pecksniff’s!’
 ‘Oh, Dragon, Dragon!’ echoed Mark, cheerfully, ‘if there warn’t any
 [[Water|water]] between you and me, and nothing faint-hearted-like in going back,
 I don’t know that I mightn’t say the same. But here am I, Dragon, in
-[[New York]], [[America]]; and there are you in Wiltshire, Europe; and there’s a
+[[New York]], [[america|America]]; and there are you in Wiltshire, Europe; and there’s a
 fortune to make, Dragon, and a beautiful young lady to make it for; and
 whenever you go to see the Monument, Dragon, you mustn’t give in on the
 doorsteps, or you’ll never get up to the top!’

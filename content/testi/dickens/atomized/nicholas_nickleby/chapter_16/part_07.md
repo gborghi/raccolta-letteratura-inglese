@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 16 (part 7)"
+title: "Nicholas Nickleby — Chapter 16 (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,53 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_16/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_17/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘Has it reference to what you said just now?’ asked Nicholas.
+
+‘It has.’
+
+‘Then in Heaven’s name, my good friend, tell it me,’ said Nicholas. ‘For
+God’s sake consider my deplorable condition; and, while I promise to
+take no step without taking counsel with you, give me, at least, a vote
+in my own behalf.’
+
+Moved by this entreaty, Newman stammered forth a variety of most
+unaccountable and entangled sentences, the upshot of which was, that
+Mrs. Kenwigs had examined him, at great length that morning, touching
+the origin of his acquaintance with, and the whole life, adventures, and
+pedigree of, Nicholas; that Newman had parried these questions as
+long as he could, but being, at length, hard pressed and driven into a
+corner, had gone so far as to admit, that Nicholas was a tutor of
+great accomplishments, involved in some misfortunes which he was not at
+liberty to explain, and bearing the name of Johnson. That Mrs. Kenwigs,
+impelled by gratitude, or [[Ambition|ambition]], or maternal [[Pride|pride]], or maternal [[Love|love]],
+or all four powerful motives conjointly, had taken secret conference
+with Mr. Kenwigs, and had finally returned to propose that Mr. Johnson
+should instruct the four Miss Kenwigses in the French language as spoken
+by natives, at the weekly stipend of five shillings, current coin of
+the realm; being at the rate of one shilling per week, per each Miss
+Kenwigs, and one shilling over, until such [[Time|time]] as the baby might be
+able to take it out in grammar.
+
+‘Which, unless I am very much mistaken,’ observed Mrs. Kenwigs in making
+the proposition, ‘will not be very long; for such clever children, Mr
+Noggs, never were born into this world, I do believe.’
+
+‘There,’ said Newman, ‘that’s all. It’s beneath you, I know; but I
+thought that perhaps you might--’
+
+‘Might!’ cried Nicholas, with great alacrity; ‘of course I shall. I
+accept the offer at once. Tell the worthy mother so, without delay, my
+dear fellow; and that I am ready to begin whenever she pleases.’
+
+Newman hastened, with joyful steps, to inform Mrs. Kenwigs of his
+friend’s acquiescence, and soon returning, brought back word that they
+would be happy to see him in the first floor as soon as convenient;
+that Mrs. Kenwigs had, upon the instant, sent out to secure a second-hand
+French grammar and dialogues, which had long been fluttering in the
+sixpenny box at the bookstall round the corner; and that the family,
+highly excited at the prospect of this addition to their gentility,
+wished the initiatory lesson to come off immediately.
 
 And here it may be observed, that Nicholas was not, in the ordinary
 sense of the word, a young man of high spirit. He would resent an

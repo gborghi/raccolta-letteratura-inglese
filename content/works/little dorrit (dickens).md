@@ -59,80 +59,80 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Chapter 01 POVERTY](/testi/dickens/atomized/little_dorrit/chapter_01_poverty)
+- Chapter 01 POVERTY
 - [Chapter 02 RICHES](/testi/dickens/atomized/little_dorrit/chapter_02_riches)
-- [Chapter 03 POVERTY](/testi/dickens/atomized/little_dorrit/chapter_03_poverty)
-- [Chapter 04 Sun and Shadow](/testi/dickens/atomized/little_dorrit/chapter_04_sun_and_shadow)
-- [Chapter 05 Fellow Travellers](/testi/dickens/atomized/little_dorrit/chapter_05_fellow_travellers)
-- [Chapter 06 Home](/testi/dickens/atomized/little_dorrit/chapter_06_home)
-- [Chapter 07 Mrs Flintwinch has a Dream](/testi/dickens/atomized/little_dorrit/chapter_07_mrs_flintwinch_has_a_dream)
-- [Chapter 08 Family Affairs](/testi/dickens/atomized/little_dorrit/chapter_08_family_affairs)
-- [Chapter 09 The Father of the Marshalsea](/testi/dickens/atomized/little_dorrit/chapter_09_the_father_of_the_marshalsea)
-- [Chapter 10 The Child of the Marshalsea](/testi/dickens/atomized/little_dorrit/chapter_10_the_child_of_the_marshalsea)
-- [Chapter 11 The Lock](/testi/dickens/atomized/little_dorrit/chapter_11_the_lock)
-- [Chapter 12 Little Mother](/testi/dickens/atomized/little_dorrit/chapter_12_little_mother)
-- [Chapter 13 Containing the whole Science o](/testi/dickens/atomized/little_dorrit/chapter_13_containing_the_whole_science_o)
-- [Chapter 14 Let Loose](/testi/dickens/atomized/little_dorrit/chapter_14_let_loose)
-- [Chapter 15 Bleeding Heart Yard](/testi/dickens/atomized/little_dorrit/chapter_15_bleeding_heart_yard)
-- [Chapter 16 Patriarchal](/testi/dickens/atomized/little_dorrit/chapter_16_patriarchal)
-- [Chapter 17 Little Dorrits Party](/testi/dickens/atomized/little_dorrit/chapter_17_little_dorrits_party)
-- [Chapter 18 Mrs Flintwinch has another Dre](/testi/dickens/atomized/little_dorrit/chapter_18_mrs_flintwinch_has_another_dre)
-- [Chapter 19 Nobodys Weakness](/testi/dickens/atomized/little_dorrit/chapter_19_nobodys_weakness)
-- [Chapter 20 Nobodys Rival](/testi/dickens/atomized/little_dorrit/chapter_20_nobodys_rival)
-- [Chapter 21 Little Dorrits Lover](/testi/dickens/atomized/little_dorrit/chapter_21_little_dorrits_lover)
-- [Chapter 22 The Father of the Marshalsea i](/testi/dickens/atomized/little_dorrit/chapter_22_the_father_of_the_marshalsea_i)
-- [Chapter 23 Moving in Society](/testi/dickens/atomized/little_dorrit/chapter_23_moving_in_society)
-- [Chapter 24 Mr Merdles Complaint](/testi/dickens/atomized/little_dorrit/chapter_24_mr_merdles_complaint)
-- [Chapter 25 A Puzzle](/testi/dickens/atomized/little_dorrit/chapter_25_a_puzzle)
-- [Chapter 26 Machinery in Motion](/testi/dickens/atomized/little_dorrit/chapter_26_machinery_in_motion)
-- [Chapter 27 Fortune Telling](/testi/dickens/atomized/little_dorrit/chapter_27_fortune_telling)
-- [Chapter 28 Conspirators and Others](/testi/dickens/atomized/little_dorrit/chapter_28_conspirators_and_others)
-- [Chapter 29 Nobodys State of Mind](/testi/dickens/atomized/little_dorrit/chapter_29_nobodys_state_of_mind)
-- [Chapter 30 Five and Twenty](/testi/dickens/atomized/little_dorrit/chapter_30_five_and_twenty)
-- [Chapter 31 Nobodys Disappearance](/testi/dickens/atomized/little_dorrit/chapter_31_nobodys_disappearance)
-- [Chapter 32 Mrs Flintwinch goes on Dreamin](/testi/dickens/atomized/little_dorrit/chapter_32_mrs_flintwinch_goes_on_dreamin)
-- [Chapter 33 The Word of a Gentleman](/testi/dickens/atomized/little_dorrit/chapter_33_the_word_of_a_gentleman)
-- [Chapter 34 Spirit](/testi/dickens/atomized/little_dorrit/chapter_34_spirit)
-- [Chapter 35 More Fortune Telling](/testi/dickens/atomized/little_dorrit/chapter_35_more_fortune_telling)
-- [Chapter 36 Mrs Merdles Complaint](/testi/dickens/atomized/little_dorrit/chapter_36_mrs_merdles_complaint)
-- [Chapter 37 A Shoal of Barnacles](/testi/dickens/atomized/little_dorrit/chapter_37_a_shoal_of_barnacles)
-- [Chapter 38 What was behind Mr Pancks on L](/testi/dickens/atomized/little_dorrit/chapter_38_what_was_behind_mr_pancks_on_l)
-- [Chapter 39 The Marshalsea becomes an Orph](/testi/dickens/atomized/little_dorrit/chapter_39_the_marshalsea_becomes_an_orph)
-- [Chapter 40 RICHES](/testi/dickens/atomized/little_dorrit/chapter_40_riches)
-- [Chapter 41 Fellow Travellers](/testi/dickens/atomized/little_dorrit/chapter_41_fellow_travellers)
-- [Chapter 42 Mrs General](/testi/dickens/atomized/little_dorrit/chapter_42_mrs_general)
-- [Chapter 43 On the Road](/testi/dickens/atomized/little_dorrit/chapter_43_on_the_road)
-- [Chapter 44 A Letter from Little Dorrit](/testi/dickens/atomized/little_dorrit/chapter_44_a_letter_from_little_dorrit)
-- [Chapter 45 Something Wrong Somewhere](/testi/dickens/atomized/little_dorrit/chapter_45_something_wrong_somewhere)
-- [Chapter 46 Something Right Somewhere](/testi/dickens/atomized/little_dorrit/chapter_46_something_right_somewhere)
-- [Chapter 47 Mostly Prunes and Prism](/testi/dickens/atomized/little_dorrit/chapter_47_mostly_prunes_and_prism)
-- [Chapter 48 The Dowager Mrs Gowan is remin](/testi/dickens/atomized/little_dorrit/chapter_48_the_dowager_mrs_gowan_is_remin)
-- [Chapter 49 Appearance and Disappearance](/testi/dickens/atomized/little_dorrit/chapter_49_appearance_and_disappearance)
-- [Chapter 50 The Dreams of Mrs Flintwinch t](/testi/dickens/atomized/little_dorrit/chapter_50_the_dreams_of_mrs_flintwinch_t)
-- [Chapter 51 A Letter from Little Dorrit](/testi/dickens/atomized/little_dorrit/chapter_51_a_letter_from_little_dorrit)
-- [Chapter 52 In which a Great Patriotic Con](/testi/dickens/atomized/little_dorrit/chapter_52_in_which_a_great_patriotic_con)
-- [Chapter 53 The Progress of an Epidemic](/testi/dickens/atomized/little_dorrit/chapter_53_the_progress_of_an_epidemic)
-- [Chapter 54 Taking Advice](/testi/dickens/atomized/little_dorrit/chapter_54_taking_advice)
-- [Chapter 55 No just Cause or Impediment wh](/testi/dickens/atomized/little_dorrit/chapter_55_no_just_cause_or_impediment_wh)
-- [Chapter 56 Getting on](/testi/dickens/atomized/little_dorrit/chapter_56_getting_on)
-- [Chapter 57 Missing](/testi/dickens/atomized/little_dorrit/chapter_57_missing)
-- [Chapter 58 A Castle in the Air](/testi/dickens/atomized/little_dorrit/chapter_58_a_castle_in_the_air)
-- [Chapter 59 The Storming of the Castle in](/testi/dickens/atomized/little_dorrit/chapter_59_the_storming_of_the_castle_in)
-- [Chapter 60 Introduces the next](/testi/dickens/atomized/little_dorrit/chapter_60_introduces_the_next)
-- [Chapter 61 The History of a Self Tormento](/testi/dickens/atomized/little_dorrit/chapter_61_the_history_of_a_self_tormento)
-- [Chapter 62 Who passes by this Road so lat](/testi/dickens/atomized/little_dorrit/chapter_62_who_passes_by_this_road_so_lat)
-- [Chapter 63 Mistress Affery makes a Condit](/testi/dickens/atomized/little_dorrit/chapter_63_mistress_affery_makes_a_condit)
-- [Chapter 64 The Evening of a Long Day](/testi/dickens/atomized/little_dorrit/chapter_64_the_evening_of_a_long_day)
-- [Chapter 65 The Chief Butler Resigns the S](/testi/dickens/atomized/little_dorrit/chapter_65_the_chief_butler_resigns_the_s)
-- [Chapter 66 Reaping the Whirlwind](/testi/dickens/atomized/little_dorrit/chapter_66_reaping_the_whirlwind)
-- [Chapter 67 The Pupil of the Marshalsea](/testi/dickens/atomized/little_dorrit/chapter_67_the_pupil_of_the_marshalsea)
-- [Chapter 68 An Appearance in the Marshalse](/testi/dickens/atomized/little_dorrit/chapter_68_an_appearance_in_the_marshalse)
-- [Chapter 69 A Plea in the Marshalsea](/testi/dickens/atomized/little_dorrit/chapter_69_a_plea_in_the_marshalsea)
-- [Chapter 70 Closing in](/testi/dickens/atomized/little_dorrit/chapter_70_closing_in)
-- [Chapter 71 Closed](/testi/dickens/atomized/little_dorrit/chapter_71_closed)
-- [Chapter 72 Going](/testi/dickens/atomized/little_dorrit/chapter_72_going)
-- [Chapter 73 Going](/testi/dickens/atomized/little_dorrit/chapter_73_going)
-- [Chapter 74 Gone](/testi/dickens/atomized/little_dorrit/chapter_74_gone)
+- Chapter 03 POVERTY
+- Chapter 04 Sun and Shadow
+- Chapter 05 Fellow Travellers
+- Chapter 06 Home
+- Chapter 07 Mrs Flintwinch has a Dream
+- Chapter 08 Family Affairs
+- Chapter 09 The Father of the Marshalsea
+- Chapter 10 The Child of the Marshalsea
+- Chapter 11 The Lock
+- Chapter 12 Little Mother
+- Chapter 13 Containing the whole Science o
+- Chapter 14 Let Loose
+- Chapter 15 Bleeding Heart Yard
+- Chapter 16 Patriarchal
+- Chapter 17 Little Dorrits Party
+- Chapter 18 Mrs Flintwinch has another Dre
+- Chapter 19 Nobodys Weakness
+- Chapter 20 Nobodys Rival
+- Chapter 21 Little Dorrits Lover
+- Chapter 22 The Father of the Marshalsea i
+- Chapter 23 Moving in Society
+- Chapter 24 Mr Merdles Complaint
+- Chapter 25 A Puzzle
+- Chapter 26 Machinery in Motion
+- Chapter 27 Fortune Telling
+- Chapter 28 Conspirators and Others
+- Chapter 29 Nobodys State of Mind
+- Chapter 30 Five and Twenty
+- Chapter 31 Nobodys Disappearance
+- Chapter 32 Mrs Flintwinch goes on Dreamin
+- Chapter 33 The Word of a Gentleman
+- Chapter 34 Spirit
+- Chapter 35 More Fortune Telling
+- Chapter 36 Mrs Merdles Complaint
+- Chapter 37 A Shoal of Barnacles
+- Chapter 38 What was behind Mr Pancks on L
+- Chapter 39 The Marshalsea becomes an Orph
+- Chapter 40 RICHES
+- Chapter 41 Fellow Travellers
+- Chapter 42 Mrs General
+- Chapter 43 On the Road
+- Chapter 44 A Letter from Little Dorrit
+- Chapter 45 Something Wrong Somewhere
+- Chapter 46 Something Right Somewhere
+- Chapter 47 Mostly Prunes and Prism
+- Chapter 48 The Dowager Mrs Gowan is remin
+- Chapter 49 Appearance and Disappearance
+- Chapter 50 The Dreams of Mrs Flintwinch t
+- Chapter 51 A Letter from Little Dorrit
+- Chapter 52 In which a Great Patriotic Con
+- Chapter 53 The Progress of an Epidemic
+- Chapter 54 Taking Advice
+- Chapter 55 No just Cause or Impediment wh
+- Chapter 56 Getting on
+- Chapter 57 Missing
+- Chapter 58 A Castle in the Air
+- Chapter 59 The Storming of the Castle in
+- Chapter 60 Introduces the next
+- Chapter 61 The History of a Self Tormento
+- Chapter 62 Who passes by this Road so lat
+- Chapter 63 Mistress Affery makes a Condit
+- Chapter 64 The Evening of a Long Day
+- Chapter 65 The Chief Butler Resigns the S
+- Chapter 66 Reaping the Whirlwind
+- Chapter 67 The Pupil of the Marshalsea
+- Chapter 68 An Appearance in the Marshalse
+- Chapter 69 A Plea in the Marshalsea
+- Chapter 70 Closing in
+- Chapter 71 Closed
+- Chapter 72 Going
+- Chapter 73 Going
+- Chapter 74 Gone
 
 
 ## Testo integrale / Full text

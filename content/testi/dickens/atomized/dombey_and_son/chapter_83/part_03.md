@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 27 (part 3)"
+title: "Dombey and Son — Chapter 55 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,127 +14,104 @@ tags:
 </nav>
 
 
-“Any expedition would be enchanting in such society,” returned Carker;
-“but I believe it is, in itself, full of interest.”
+It was a vision of long roads, that stretched away to an horizon,
+always receding and never gained; of ill-paved towns, up [[Hill|hill]] and down,
+where faces came to dark doors and ill-glazed windows, and where rows
+of mudbespattered cows and oxen were tied up for sale in the long
+narrow streets, butting and lowing, and receiving blows on their blunt
+heads from bludgeons that might have beaten them in; of bridges,
+crosses, churches, postyards, new horses being put in against their
+wills, and the horses of the last stage reeking, panting, and laying
+their drooping heads together dolefully at stable doors; of little
+cemeteries with black crosses settled sideways in the graves, and
+withered wreaths upon them dropping away; again of long, long roads,
+dragging themselves out, up [[Hill|hill]] and down, to the treacherous horizon.
 
-“Oh!” cried Mrs Skewton, with a faded little scream of rapture, “the
-[[Castle]] is charming!—associations of the Middle Ages—and all that—which
-is so truly exquisite. Don’t you dote upon the Middle Ages, Mr Carker?”
+Of morning, [[Noon|noon]], and sunset; [[Night|night]], and the rising of an early [[Moon|moon]].
+Of long roads temporarily left behind, and a rough pavement reached; of
+battering and clattering over it, and looking up, among [[house]]-roofs, at
+a great church-tower; of getting out and eating hastily, and drinking
+draughts of wine that had no cheering influence; of coming forth afoot,
+among a host of beggars—blind men with quivering eyelids, led by old
+women holding candles to their faces; idiot girls; the lame, the
+epileptic, and the palsied—of passing through the clamour, and looking
+from his seat at the upturned countenances and outstretched hands, with
+a hurried dread of recognising some pursuer pressing forward—of
+galloping away again, upon the long, long [[Road|road]], gathered up, dull and
+stunned, in his corner, or rising to see where the [[Moon|moon]] shone faintly
+on a patch of the same endless [[Road|road]] miles away, or looking back to see
+who followed.
 
-“Very much, indeed,” said Mr Carker.
+Of never sleeping, but sometimes dozing with unclosed eyes, and
+springing up with a start, and a reply aloud to an imaginary voice. Of
+cursing himself for being there, for having fled, for having let her
+go, for not having confronted and defied him. Of having a deadly
+quarrel with the whole world, but chiefly with himself. Of blighting
+everything with his black mood as he was carried on and away.
 
-“Such charming times!” cried [[Cleopatra]]. “So full of [[Faith|faith]]! So vigorous
-and forcible! So picturesque! So perfectly removed from commonplace! Oh
-dear! If they would only leave us a little more of the poetry of
-existence in these terrible days!”
+It was a fevered vision of things past and present all confounded
+together; of his life and [[Journey|journey]] blended into one. Of being madly
+hurried somewhere, whither he must go. Of old scenes starting up among
+the novelties through which he travelled. Of musing and brooding over
+what was past and distant, and seeming to take no notice of the actual
+objects he encountered, but with a wearisome exhausting consciousness
+of being bewildered by them, and having their images all crowded in his
+hot brain after they were gone.
 
-Mrs Skewton was looking sharp after Mr Dombey all the [[Time|time]] she said
-this, who was looking at Edith: who was listening, but who never lifted
-up her eyes.
+A vision of change upon change, and still the same monotony of [[Bells|bells]]
+and wheels, and horses’ feet, and no rest. Of town and country,
+postyards, horses, drivers, [[Hill|hill]] and valley, light and darkness, [[Road|road]]
+and pavement, height and hollow, wet weather and dry, and still the
+same monotony of [[Bells|bells]] and wheels, and horses’ feet, and no rest. A
+vision of tending on at last, towards the distant capital, by busier
+roads, and sweeping round, by old cathedrals, and dashing through small
+towns and villages, less thinly scattered on the [[Road|road]] than formerly,
+and sitting shrouded in his corner, with his cloak up to his face, as
+people passing by looked at him.
 
-“We are dreadfully real, Mr Carker,” said Mrs Skewton; “are we not?”
+Of [[rolling]] on and on, always postponing thought, and always racked with
+thinking; of being unable to reckon up the hours he had been upon the
+[[Road|road]], or to comprehend the points of [[Time|time]] and place in his [[Journey|journey]]. Of
+being parched and giddy, and half mad. Of pressing on, in spite of all,
+as if he could not stop, and coming into [[Paris]], where the turbid [[River|river]]
+held its swift course undisturbed, between two brawling streams of life
+and motion.
 
-Few people had less reason to complain of their reality than [[Cleopatra]],
-who had as much that was false about her as could [[Well|well]] go to the
-composition of anybody with a real individual existence. But Mr Carker
-commiserated our reality nevertheless, and agreed that we were very
-hardly used in that regard.
+A troubled vision, then, of bridges, quays, interminable streets; of
+wine-shops, [[Water|water]]-carriers, great crowds of people, soldiers, coaches,
+military drums, arcades. Of the monotony of [[Bells|bells]] and wheels and
+horses’ feet being at length lost in the universal din and uproar. Of
+the gradual subsidence of that noise as he passed out in another
+carriage by a different barrier from that by which he had entered. Of
+the restoration, as he travelled on towards the seacoast, of the
+monotony of [[Bells|bells]] and wheels, and horses’ feet, and no rest.
 
-“Pictures at the [[Castle]], quite divine!” said [[Cleopatra]]. “I [[Hope|hope]] you
-dote upon pictures?”
+Of sunset once again, and nightfall. Of long roads again, and dead of
+[[Night|night]], and feeble lights in windows by the roadside; and still the old
+monotony of [[Bells|bells]] and wheels, and horses’ feet, and no rest. Of [[Dawn|dawn]],
+and daybreak, and the rising of the sun. Of tolling slowly up a [[Hill|hill]],
+and feeling on its top the fresh sea-breeze; and seeing the morning
+light upon the edges of the distant waves. Of coming down into a
+harbour when the tide was at its full, and seeing fishing-boats float
+on, and glad women and children waiting for them. Of nets and seamen’s
+clothes spread out to dry upon the shore; of busy sailors, and their
+voices high among ships’ masts and rigging; of the buoyancy and
+brightness of the [[Water|water]], and the universal sparkling.
 
-“I assure you, Mrs Skewton,” said Mr Dombey, with solemn encouragement
-of his Manager, “that Carker has a very good taste for pictures; quite
-a natural power of appreciating them. He is a very creditable [[Artist|artist]]
-himself. He will be delighted, I am sure, with Mrs Granger’s taste and
-skill.”
+Of receding from the coast, and looking back upon it from the deck when
+it was a haze upon the [[Water|water]], with here and there a little opening of
+bright land where the Sun struck. Of the swell, and flash, and murmur
+of the calm sea. Of another grey line on the ocean, on the vessel’s
+track, fast growing clearer and higher. Of cliffs and buildings, and a
+windmill, and a church, becoming more and more visible upon it. Of
+steaming on at last into smooth [[Water|water]], and mooring to a pier whence
+groups of people looked down, greeting friends on board. Of
+disembarking, passing among them quickly, shunning every one; and of
+being at last again in England.
 
-“Damme, Sir!” cried [[Major Bagstock]], “my opinion is, that you’re the
-admirable Carker, and can do anything.”
-
-“Oh!” smiled Carker, with [[Humility|humility]], “you are much too sanguine, Major
-Bagstock. I can do very little. But Mr Dombey is so generous in his
-estimation of any trivial accomplishment a man like myself may find it
-almost necessary to acquire, and to which, in his very different
-sphere, he is far superior, that—” Mr Carker shrugged his shoulders,
-deprecating further praise, and said no more.
-
-All this [[Time|time]], Edith never raised her eyes, unless to glance towards
-her mother when that lady’s fervent spirit shone forth in words. But as
-Carker ceased, she looked at Mr Dombey for a moment. For a moment only;
-but with a transient gleam of scornful [[Wonder|wonder]] on her face, not lost on
-one observer, who was smiling round the board.
-
-Mr Dombey caught the dark eyelash in its descent, and took the
-opportunity of arresting it.
-
-“You have been to Warwick often, unfortunately?” said Mr Dombey.
-
-“Several times.”
-
-“The visit will be tedious to you, I am afraid.”
-
-“Oh no; not at all.”
-
-“Ah! You are like your cousin Feenix, my dearest Edith,” said Mrs
-Skewton. “He has been to Warwick [[Castle]] fifty times, if he has been
-there once; yet if he came to Leamington to-morrow—I wish he would,
-dear angel!—he would make his fifty-second visit next day.”
-
-“We are all enthusiastic, are we not, Mama?” said Edith, with a cold
-smile.
-
-“Too much so, for our peace, perhaps, my dear,” returned her mother;
-“but we won’t complain. Our own emotions are our recompense. If, as
-your cousin Feenix says, the [[Sword|sword]] wears out the what’s-its-name—”
-
-“The scabbard, perhaps,” said Edith.
-
-“Exactly—a little too fast, it is because it is bright and glowing, you
-know, my dearest [[Love|love]].”
-
-Mrs Skewton heaved a gentle sigh, supposed to cast a [[Shadow|shadow]] on the
-surface of that dagger of lath, whereof her susceptible bosom was the
-sheath: and leaning her head on one side, in the [[Cleopatra]] manner,
-looked with pensive affection on her darling [[Child|child]].
-
-Edith had turned her face towards Mr Dombey when he first addressed
-her, and had remained in that attitude, while speaking to her mother,
-and while her mother spoke to her, as though offering him her
-attention, if he had anything more to say. There was something in the
-manner of this simple courtesy: almost defiant, and giving it the
-character of being rendered on compulsion, or as a matter of traffic to
-which she was a reluctant party again not lost upon that same observer
-who was smiling round the board. It set him thinking of her as he had
-first seen her, when she had believed herself to be [[Alone|alone]] among the
-trees.
-
-Mr Dombey having nothing else to say, proposed—the breakfast being now
-finished, and the Major gorged, like any Boa Constrictor—that they
-should start. A barouche being in waiting, according to the orders of
-that gentleman, the two ladies, the Major and himself, took their seats
-in it; the Native and the wan page mounted the box, Mr Towlinson being
-left behind; and Mr Carker, on horseback, brought up the rear.
-
-Mr Carker cantered behind the carriage at the distance of a hundred
-yards or so, and watched it, during all the ride, as if he were a cat,
-indeed, and its four occupants, mice. Whether he looked to one side of
-the [[Road|road]], or to the other—over distant landscape, with its smooth
-undulations, [[Wind|wind]]-mills, corn, grass, bean fields, wild-[[Flowers|flowers]],
-farm-yards, hayricks, and the spire among the wood—or upwards in the
-sunny air, where butterflies were sporting round his head, and [[Birds|birds]]
-were pouring out their [[songs]]—or downward, where the shadows of the
-branches interlaced, and made a trembling carpet on the [[Road|road]]—or onward,
-where the overhanging trees formed aisles and arches, dim with the
-softened light that steeped through [[Leaves|leaves]]—one corner of his eye was
-ever on the formal head of Mr Dombey, addressed towards him, and the
-feather in the bonnet, drooping so neglectfully and scornfully between
-them; much as he had seen the haughty eyelids droop; not least so, when
-the face met that now fronting it. Once, and once only, did his wary
-glance release these objects; and that was, when a leap over a low
-hedge, and a gallop across a field, enabled him to anticipate the
-carriage coming by the [[Road|road]], and to be standing ready, at the [[Journey|journey]]’s
-end, to hand the ladies out. Then, and but then, he met her glance for
-an instant in her first surprise; but when he touched her, in
-alighting, with his soft white hand, it overlooked him altogether as
-before.
+He had thought, in his dream, of going down into a remote country-place
+he knew, and lying quiet there, while he secretly informed himself of
+what transpired, and determined how to act, Still in the same stunned
+condition, he remembered a certain station on the railway, where he
+would have to branch off to his place of destination, and where there
+was a quiet Inn. Here, he indistinctly resolved to tarry and rest.

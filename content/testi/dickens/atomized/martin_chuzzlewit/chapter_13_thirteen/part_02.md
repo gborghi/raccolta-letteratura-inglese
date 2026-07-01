@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 13: THIRTEEN (part 2)"
+title: "Martin Chuzzlewit — Chapter 13: THIRTEEN (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_13_thirteen/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_13_thirteen/part_03">part 03 ›</a></div>
 </nav>
 
+
+He had repeated this process in just the same order, many times, as
+if it were a matter of necessity, when the sound of wheels called his
+attention to the [[Window|window]] out of its regular turn; and there he beheld a
+kind of light van drawn by four horses, and laden, as [[Well|well]] as he could
+see (for it was covered in), with corn and straw. The driver, who
+was [[Alone|alone]], stopped at the door to [[Water|water]] his team, and presently came
+stamping and shaking the wet off his hat and coat, into the room where
+Martin sat.
 
 He was a red-faced burly young fellow; smart in his way, and with a
 good-humoured countenance. As he advanced towards the [[Fire|fire]] he touched
@@ -151,20 +160,3 @@ for the U-nited States.’
 
 ‘[[Well]]! as he landed there without a penny to bless himself with, of
 course they wos very glad to see him in the U-nited States.’
-
-‘What do you mean?’ asked Martin, with some scorn.
-
-‘What do I mean?’ said Bill. ‘Why, THAT. All men are alike in the
-U-nited States, an’t they? It makes no odds whether a man has a thousand
-pound, or nothing, there. Particular in [[New York]], I’m told, where Ned
-landed.’
-
-‘[[New York]], was it?’ asked Martin, thoughtfully.
-
-‘Yes,’ said Bill. ‘[[New York]]. I know that, because he sent word [[Home|home]] that
-it brought Old York to his mind, quite vivid, in consequence of being so
-exactly unlike it in every respect. I don’t understand what particular
-business Ned turned his mind to, when he got there; but he wrote [[Home|home]]
-that him and his friends was always a-singing, Ale Columbia, and blowing
-up the President, so I suppose it was something in the public line; or
-free-and-easy way again. Anyhow, he made his fortune.’

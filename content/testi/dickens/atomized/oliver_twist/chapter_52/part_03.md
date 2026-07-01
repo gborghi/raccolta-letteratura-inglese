@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 52 (part 3)"
+title: "Oliver Twist — Chapter 52 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_52/part_02">‹ part 02</a><span></span></div>
 </nav>
 
+
+“Is the young gentleman to come too, sir?” said the man whose duty it
+was to conduct them. “It’s not a sight for children, sir.”
+
+“It is not indeed, my friend,” rejoined Mr. Brownlow; “but my business
+with this man is intimately connected with him; and as this [[Child|child]] has
+seen him in the full career of his [[success]] and villainy, I think it as
+[[Well|well]]—even at the cost of some [[Pain|pain]] and [[Fear|fear]]—that he should see him
+now.”
 
 These few words had been said apart, so as to be inaudible to [[Oliver]].
 The man touched his hat; and glancing at [[Oliver]] with some curiousity,
@@ -99,8 +108,8 @@ Brownlow’s hand.
 bag, in a hole a little way up the chimney in the top front-room. I
 want to talk to you, my dear. I want to talk to you.”
 
-“Yes, yes,” returned [[Oliver]]. “Let me say a [[Prayer|prayer]]. Do! Let me say one
-[[Prayer|prayer]]. Say only one, upon your knees, with me, and we will talk till
+“Yes, yes,” returned [[Oliver]]. “Let me say a [[prayer]]. Do! Let me say one
+[[prayer]]. Say only one, upon your knees, with me, and we will talk till
 morning.”
 
 “Outside, outside,” replied [[Fagin]], pushing the boy before him towards

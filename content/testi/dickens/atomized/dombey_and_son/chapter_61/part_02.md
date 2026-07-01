@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 5 (part 2)"
+title: "Dombey and Son — Chapter 33 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,112 +14,130 @@ tags:
 </nav>
 
 
-Mr Dombey walked to the [[Window|window]] and back again.
+“It is early, John,” she said. “Why do you go so early?”
 
-“It is not to be supposed, Louisa,” he said (Mrs Chick had nailed her
-colours to the mast, and repeated “I know it isn’t,” but he took no
-notice of it), “but that there are many persons who, supposing that I
-recognised any claim at all in such a case, have a claim upon me
-superior to Miss Tox’s. But I do not. I recognise no such thing. Paul
-and myself will be able, when the [[Time|time]] comes, to hold our own—the
-[[house|House]], in other words, will be able to hold its own, and maintain its
-own, and hand down its own of itself, and without any such common-place
-aids. The kind of foreign help which people usually seek for their
-children, I can afford to despise; being above it, I [[Hope|hope]]. So that
-Paul’s infancy and [[Childhood|childhood]] pass away [[Well|well]], and I see him becoming
-qualified without waste of [[Time|time]] for the career on which he is destined
-to enter, I am satisfied. He will make what powerful friends he pleases
-in after-life, when he is actively maintaining—and extending, if that
-is possible—the dignity and credit of the Firm. Until then, I am enough
-for him, perhaps, and all in all. I have no wish that people should
-step in between us. I would much rather show my sense of the obliging
-conduct of a deserving person like your friend. Therefore let it be so;
-and your husband and myself will do [[Well|well]] enough for the other sponsors,
-I daresay.”
+“Not many minutes earlier than usual, Harriet. If I have the [[Time|time]] to
+spare, I should like, I think—it’s a fancy—to walk once by the [[house]]
+where I took leave of him.”
 
-In the course of these remarks, delivered with great majesty and
-grandeur, Mr Dombey had truly revealed the secret feelings of his
-breast. An indescribable distrust of anybody stepping in between
-himself and his son; a haughty dread of having any rival or partner in
-the boy’s respect and deference; a sharp misgiving, recently acquired,
-that he was not infallible in his power of bending and binding human
-wills; as sharp a [[Jealousy|jealousy]] of any second check or [[Cross|cross]]; these were, at
-that [[Time|time]] the master keys of his [[Soul|soul]]. In all his life, he had never
-made a friend. His cold and distant [[Nature|nature]] had neither sought one, nor
-found one. And now, when that [[Nature|nature]] concentrated its whole force so
-strongly on a partial scheme of parental interest and [[Ambition|ambition]], it
-seemed as if its icy current, instead of being released by this
-influence, and running clear and free, had thawed for but an instant to
-admit its burden, and then frozen with it into one unyielding block.
+“I wish I had ever seen or known him, John.”
 
-Elevated thus to the godmothership of little Paul, in virtue of her
-insignificance, Miss Tox was from that hour chosen and appointed to
-office; and Mr Dombey further signified his pleasure that the ceremony,
-already long delayed, should take place without further postponement.
-His sister, who had been far from anticipating so signal a [[success]],
-withdrew as soon as she could, to communicate it to her best of
-friends; and Mr Dombey was left [[Alone|alone]] in his library. He had already
-laid his hand upon the bellrope to convey his usual summons to
-Richards, when his eye fell upon a writing-desk, belonging to his
-deceased wife, which had been taken, among other things, from a cabinet
-in her chamber. It was not the first [[Time|time]] that his eye had lighted on
-it He carried the key in his pocket; and he brought it to his table and
-opened it now—having previously locked the room door—with a
-[[Well|well]]-accustomed hand.
+“It is better as it is, my dear, remembering his fate.”
 
-From beneath a leaf of torn and cancelled scraps of paper, he took one
-letter that remained entire. Involuntarily holding his breath as he
-opened this document, and “bating in the stealthy action something of
-his arrogant demeanour, he sat down, resting his head upon one hand,
-and read it through.
+“But I could not regret it more, though I had known him. Is not your
+sorrow mine? And if I had, perhaps you would feel that I was a better
+companion to you in speaking about him, than I may seem now.”
 
-He read it slowly and attentively, and with a nice particularity to
-every syllable. Otherwise than as his great deliberation seemed
-unnatural, and perhaps the result of an effort equally great, he
-allowed no sign of emotion to escape him. When he had read it through,
-he folded and refolded it slowly several times, and tore it carefully
-into fragments. Checking his hand in the act of throwing these away, he
-put them in his pocket, as if unwilling to trust them even to the
-chances of being re-united and deciphered; and instead of ringing, as
-usual, for little Paul, he sat solitary, all the evening, in his
-cheerless room.
+“My dearest sister! Is there anything within the range of rejoicing or
+regret, in which I am not sure of your companionship?”
 
-There was anything but [[Solitude|solitude]] in the nursery; for there, Mrs Chick
-and Miss Tox were enjoying a social evening, so much to the disgust of
-Miss [[Susan Nipper]], that that young lady embraced every opportunity of
-making wry faces behind the door. Her feelings were so much excited on
-the occasion, that she found it indispensable to afford them this
-relief, even without having the comfort of any audience or sympathy
-whatever. As the knight-errants of old relieved their minds by carving
-their mistress’s names in deserts, and wildernesses, and other savage
-places where there was no probability of there ever being anybody to
-read them, so did Miss [[Susan Nipper]] curl her snub nose into drawers and
-wardrobes, put away winks of disparagement in cupboards, shed derisive
-squints into stone pitchers, and contradict and call names out in the
-passage.
+“I [[Hope|hope]] you think not, John, for surely there is nothing!”
 
-The two interlopers, however, blissfully unconscious of the young
-lady’s sentiments, saw little Paul safe through all the stages of
-undressing, airy exercise, supper and bed; and then sat down to tea
-before the [[Fire|fire]]. The two children now lay, through the good offices of
-Polly, in one room; and it was not until the ladies were established at
-their tea-table that, happening to look towards the little beds, they
-thought of Florence.
+“How could you be better to me, or nearer to me then, than you are in
+this, or anything?” said her brother. “I feel that you did know him,
+Harriet, and that you shared my feelings towards him.”
 
-“How sound she sleeps!” said Miss Tox.
+She drew the hand which had been resting on his shoulder, round his
+neck, and answered, with some hesitation:
 
-“Why, you know, my dear, she takes a great deal of exercise in the
-course of the day,” returned Mrs Chick, “playing about little Paul so
-much.”
+“No, not quite.”
 
-“She is a curious [[Child|child]],” said Miss Tox.
+“True, true!” he said; “you think I might have done him no harm if I
+had allowed myself to know him better?”
 
-“My dear,” retorted Mrs Chick, in a low voice: “Her Mama, all over!”
+“Think! I know it.”
 
-“In-deed!” said Miss Tox. “Ah dear me!”
+“Designedly, Heaven knows I would not,” he replied, shaking his head
+mournfully; “but his reputation was too precious to be perilled by such
+association. Whether you share that knowledge, or do not, my dear—”
 
-A tone of most extraordinary compassion Miss Tox said it in, though she
-had no distinct idea why, except that it was expected of her.
+“I do not,” she said quietly.
 
-“Florence will never, never, never be a Dombey,” said Mrs Chick, “not
-if she lives to be a thousand years old.”
+“It is still the [[Truth|truth]], Harriet, and my mind is lighter when I think of
+him for that which made it so much heavier then.” He checked himself in
+his tone of [[Melancholy|melancholy]], and smiled upon her as he said “Good-bye!”
+
+“Good-bye, dear John! In the evening, at the old [[Time|time]] and place, I
+shall meet you as usual on your way [[Home|home]]. Good-bye.”
+
+The cordial face she lifted up to his to kiss him, was his [[Home|home]], his
+life, his universe, and yet it was a portion of his punishment and
+grief; for in the cloud he saw upon it—though serene and calm as any
+radiant cloud at sunset—and in the constancy and devotion of her life,
+and in the sacrifice she had made of ease, enjoyment, and [[Hope|hope]], he saw
+the bitter fruits of his old crime, for ever ripe and fresh.
+
+She stood at the door looking after him, with her hands loosely clasped
+in each other, as he made his way over the frowzy and uneven patch of
+ground which lay before their [[house]], which had once (and not long ago)
+been a pleasant meadow, and was now a very waste, with a disorderly
+crop of beginnings of mean houses, rising out of the rubbish, as if
+they had been unskilfully sown there. Whenever he looked back—as once
+or twice he did—her cordial face shone like a light upon his heart; but
+when he plodded on his way, and saw her not, the [[Tears|tears]] were in her eyes
+as she stood watching him.
+
+Her pensive form was not long idle at the door. There was daily duty to
+discharge, and daily work to do—for such commonplace spirits that are
+not heroic, often work hard with their hands—and Harriet was soon busy
+with her household tasks. These discharged, and the poor [[house]] made
+quite neat and orderly, she counted her little stock of money, with an
+anxious face, and went out thoughtfully to buy some necessaries for
+their table, planning and conniving, as she went, how to save. So
+sordid are the lives of such low natures, who are not only not heroic
+to their valets and waiting-women, but have neither valets nor
+waiting-women to be heroic to withal!
+
+While she was absent, and there was no one in the [[house]], there
+approached it by a different way from that the brother had taken, a
+gentleman, a very little past his prime of life perhaps, but of a
+healthy florid hue, an upright presence, and a bright clear aspect,
+that was gracious and good-humoured. His eyebrows were still black, and
+so was much of his hair; the sprinkling of grey observable among the
+latter, graced the former very much, and showed his broad frank brow
+and honest eyes to great advantage.
+
+After knocking once at the door, and obtaining no response, this
+gentleman sat down on a bench in the little porch to wait. A certain
+skilful action of his fingers as he hummed some bars, and beat [[Time|time]] on
+the seat beside him, seemed to denote the musician; and the
+extraordinary satisfaction he derived from humming something very slow
+and long, which had no recognisable tune, seemed to denote that he was
+a scientific one.
+
+The gentleman was still twirling a theme, which seemed to go round and
+round and round, and in and in and in, and to involve itself like a
+corkscrew twirled upon a table, without getting any nearer to anything,
+when Harriet appeared returning. He [[Rose|rose]] up as she advanced, and stood
+with his head uncovered.
+
+“You are come again, Sir!” she said, faltering.
+
+“I take that liberty,” he answered. “May I ask for five minutes of your
+leisure?”
+
+After a moment’s hesitation, she opened the door, and gave him
+admission to the little parlour. The gentleman sat down there, drew his
+chair to the table over against her, and said, in a voice that
+perfectly corresponded to his appearance, and with a simplicity that
+was very engaging:
+
+“Miss Harriet, you cannot be proud. You signified to me, when I called
+t’other morning, that you were. Pardon me if I say that I looked into
+your face while you spoke, and that it contradicted you. I look into it
+again,” he added, laying his hand gently on her arm, for an instant,
+“and it contradicts you more and more.”
+
+She was somewhat confused and agitated, and could make no ready answer.
+
+“It is the [[Mirror|mirror]] of [[Truth|truth]],” said her visitor, “and gentleness. Excuse
+my trusting to it, and returning.”
+
+His manner of saying these words, divested them entirely of the
+character of compliments. It was so plain, [[Grave|grave]], unaffected, and
+sincere, that she bent her head, as if at once to thank him, and
+acknowledge his sincerity.
+
+“The disparity between our ages,” said the gentleman, “and the
+plainness of my purpose, empower me, I am glad to think, to speak my
+mind. That is my mind; and so you see me for the second [[Time|time]].”

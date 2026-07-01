@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 23 (part 1)"
+title: "The Mystery of Edwin Drood — Chapter 23 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -128,11 +128,3 @@ ain’t a father to neither. It ain’t in him. And he ain’t got the true
 secret of mixing, though he charges as much as me that has, and more if
 he can get it. Here’s a match, and now where’s the candle? If my cough
 takes me, I shall cough out twenty matches afore I gets a light.”
-
-But she finds the candle, and lights it, before the cough comes on. It
-seizes her in the moment of [[success]], and she sits down rocking herself
-to and fro, and gasping at intervals: “O, my lungs is awful bad! my
-lungs is wore away to cabbage-nets!” until the fit is over. During its
-continuance she has had no power of sight, or any other power not
-absorbed in the struggle; but as it [[Leaves|leaves]] her, she begins to strain
-her eyes, and as soon as she is able to articulate, she cries, staring:

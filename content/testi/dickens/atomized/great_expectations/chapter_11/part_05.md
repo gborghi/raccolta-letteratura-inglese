@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 11 (part 5)"
+title: "Great Expectations — Chapter 11 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,39 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_11/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_12/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Stop a minute, though,” he said, wheeling round before we had gone
+many paces. “I ought to give you a reason for fighting, too. There it
+is!” In a most irritating manner he instantly slapped his hands against
+one another, daintily flung one of his legs up behind him, pulled my
+hair, slapped his hands again, dipped his head, and butted it into my
+stomach.
+
+The bull-like proceeding last mentioned, besides that it was
+unquestionably to be regarded in the light of a liberty, was
+particularly disagreeable just after bread and meat. I therefore hit
+out at him and was going to hit out again, when he said, “Aha! Would
+you?” and began dancing backwards and forwards in a manner quite
+unparalleled within my limited experience.
+
+“Laws of the game!” said he. Here, he skipped from his left leg on to
+his right. “Regular rules!” Here, he skipped from his right leg on to
+his left. “Come to the ground, and go through the preliminaries!” Here,
+he dodged backwards and forwards, and did all sorts of things while I
+looked helplessly at him.
+
+I was secretly afraid of him when I saw him so dexterous; but I felt
+morally and physically convinced that his light head of hair could have
+had no business in the pit of my stomach, and that I had a right to
+consider it irrelevant when so obtruded on my attention. Therefore, I
+followed him without a word, to a retired nook of the [[Garden|garden]], formed by
+the junction of two walls and screened by some rubbish. On his asking
+me if I was satisfied with the ground, and on my replying Yes, he
+begged my leave to absent himself for a moment, and quickly returned
+with a bottle of [[Water|water]] and a sponge dipped in vinegar. “Available for
+both,” he said, placing these against the wall. And then fell to
+pulling off, not only his jacket and waistcoat, but his shirt too, in a
+manner at once light-hearted, business-like, and bloodthirsty.
 
 Although he did not look very healthy,—having pimples on his face, and
 a breaking out at his mouth,—these dreadful preparations quite appalled

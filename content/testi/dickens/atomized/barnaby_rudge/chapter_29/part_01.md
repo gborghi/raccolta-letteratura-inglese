@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 29 (part 1)"
+title: "Barnaby Rudge — Chapter 29 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -126,13 +126,3 @@ been nobody to hear him.
 ‘that chap! Hallo there! You, sir! Bring that [[Horse|horse]] here, and go and
 hang my wig on the weathercock, to show this gentleman whether you’re
 one of the lively sort or not.’
-
-Hugh made no answer, but throwing the bridle to his master, and
-snatching his wig from his head, in a manner so unceremonious and hasty
-that the action discomposed Mr Willet not a little, though performed at
-his own special [[Desire|desire]], climbed nimbly to the very summit of the maypole
-before the [[house]], and hanging the wig upon the weathercock, sent it
-twirling round like a roasting jack. Having achieved this performance,
-he cast it on the ground, and sliding down the pole with inconceivable
-rapidity, alighted on his feet almost as soon as it had touched the
-earth.

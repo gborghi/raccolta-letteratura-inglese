@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 33 (part 4)"
+title: "The Tenant of Wildfell Hall — Chapter 33 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_33/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_33/part_05">part 05 ›</a></div>
 </nav>
 
+
+through the scant foliage above. It seemed all dim and quivering now to
+
+my darkened sight. My burning, bursting heart strove to pour forth its
+
+agony to God, but could not frame its anguish into [[prayer]]; until a gust
+
+of [[Wind|wind]] swept over me, which, while it scattered the dead [[Leaves|leaves]], like
+
+blighted hopes, around, cooled my forehead, and seemed a little to
+
+revive my sinking frame. Then, while I lifted up my [[Soul|soul]] in speechless,
+
+earnest supplication, some heavenly influence seemed to strengthen me
+
+within: I breathed more freely; my vision cleared; I saw distinctly the
 
 pure [[Moon|moon]] shining on, and the light clouds skimming the clear, dark
 
@@ -70,7 +86,7 @@ different was this from the evening of yesterday! _That_, it seems, was
 
 the last expiring flash of my life’s happiness. Poor, blinded [[Fool|fool]] that
 
-I was to be so happy! I could now see the reason of [[arthur|Arthur]]’s strange
+I was to be so happy! I could now see the reason of [[Arthur]]’s strange
 
 reception of me in the shrubbery; the burst of kindness was for his
 
@@ -108,7 +124,7 @@ upon myself; let me bear it [[Alone|alone]].
 
 As the usual hour of retirement approached I dried my eyes, and tried
 
-to clear my voice and calm my mind. I must see [[arthur|Arthur]] to-[[Night|night]], and
+to clear my voice and calm my mind. I must see [[Arthur]] to-[[Night|night]], and
 
 speak to him; but I would do it calmly: there should be no
 
@@ -219,43 +235,3 @@ I shall be delivered from your presence, and you from mine.”
 
 
 “No, nor yourself without the [[Child|child]]. Do you think I’m going to be made
-
-the talk of the country for your fastidious caprices?”
-
-
-
-“Then I must stay here, to be hated and despised. But henceforth we are
-
-husband and wife only in the name.”
-
-
-
-“Very good.”
-
-
-
-“I am your [[Child|child]]’s mother, and _your_ housekeeper, nothing more. So you
-
-need not trouble yourself any longer to feign the [[Love|love]] you cannot feel:
-
-I will exact no more heartless caresses from you, nor offer nor endure
-
-them either. I will not be mocked with the empty husk of conjugal
-
-endearments, when you have given the substance to another!”
-
-
-
-“Very good, if _you_ please. We shall see who will tire first, my
-
-lady.”
-
-
-
-“If I tire, it will be of living in the world with you: not of living
-
-without your mockery of [[Love|love]]. When _you_ tire of your sinful ways, and
-
-show yourself truly repentant, I will forgive you, and, perhaps, try to
-
-[[Love|love]] you again, though that will be hard indeed.”

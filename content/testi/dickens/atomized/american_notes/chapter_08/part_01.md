@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/american-notes-(dickens)">American Notes</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/american_notes/chapter_07/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/american_notes/chapter_08/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/american_notes/chapter_07/part_07">‹ part 07</a><a class="ex-next" href="/testi/dickens/atomized/american_notes/chapter_08/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -100,7 +100,7 @@ gentleman of that name and of enormous wealth, which, if completed
 according to the original design, will be perhaps the richest edifice of
 modern times.  But the bequest is involved in legal disputes, and pending
 them the work has stopped; so that like many other great undertakings in
-[[America]], even this is rather going to be done one of these days, than
+[[america|America]], even this is rather going to be done one of these days, than
 doing now.
 
 In the outskirts, stands a great [[Prison|prison]], called the Eastern Penitentiary:

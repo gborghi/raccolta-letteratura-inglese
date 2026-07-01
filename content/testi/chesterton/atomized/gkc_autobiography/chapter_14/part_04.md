@@ -1,5 +1,5 @@
 ---
-title: "[[GKC-Autobiography]] — Chapter 14 (part 4)"
+title: "GKC-Autobiography — Chapter 14 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/gkc-autobiography-(chesterton)"
@@ -107,38 +107,3 @@ John Burns said, "I am the son of my mother and the husband of my wife.
 And if you ask me to put a public insult upon a woman who has
 just borne a [[Child|child]], I will not do it."  That is English rhetoric:
 and it is as good as any in the world.
-
-But while it is quite a mistake to suppose that there was anything
-particularly French about the direct democratic oratory that Belloc
-used in those days, there was another quality which he also used,
-which I think may really be called a rather French speciality.
-We generally have some very silly and inadequate notion in our minds
-when we talk about French wit; and the full richness of that fruit
-of culture is seldom covered even when we talk of French irony.
-For the best French irony is nothing so simple as merely saying
-one thing and meaning the opposite.  It is at once exhibiting
-and withdrawing, in one flash, a series of aspects of a thing;
-like a man twirling a [[Jewel|jewel]] with twenty facets.  And the more brief
-it is, the more flippant it is, the more seemingly superficial
-it is, the more there is in that irony an element of mystery.
-There is always a touch of bewilderment, for the simple, in the tale
-of such tags as that of Voltaire:  "To succeed in the world it
-is not sufficient to be stupid, you must be [[Well|well]]-mannered."
-Curiously enough, there is exactly that quality in an ordinary
-military dispatch, sent out by a very silent and practical soldier;
-by Foch at the supreme crisis of the Marne.  "My right is hard pressed;
-my left is retreating; situation excellent; I attack."
-For it might be all sorts of things besides the quite prosaic
-and practical thing that it is; it might be a [[Paradox|paradox]];
-or a boast; or a bitter jest of [[Despair|despair]]; and all the [[Time|time]] it
-is in fact a quite correct description of the advantage of his
-own immediate tactical situation, as exact as a military map.
-I have never so vividly felt that there was really something French
-about Belloc, as when he would from [[Time|time]] to [[Time|time]] suddenly say things
-like that on a public platform before an entirely puzzled audience.
-I remember once when he was lecturing on the same campaign in the
-Great War; a purely technical lecture full of plans and figures.
-And he paused to say parenthetically that perhaps nobody would ever
-understand why Von Kluck made his one big blunder before [[Paris]].
-"Perhaps," said Belloc, like a man for a moment bemused,
-"perhaps he was inspired."

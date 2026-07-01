@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 9 (part 3)"
+title: "Our Mutual Friend — Chapter 12 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,146 +10,163 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_50/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_50/part_04">part 04 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_50/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_51/part_01">part 01 ›</a></div>
 </nav>
 
 
-‘Unquestionably. And also that you are his favourite companion.’
+‘Mr Fledgeby,’ said Mrs Lammle, giving him a very gracious reception,
+‘so glad to see you! My poor dear Alfred, who is greatly worried just
+now about his affairs, went out rather early. Dear Mr Fledgeby, do sit
+down.’
 
-‘That makes it,’ said Bella, ‘so very difficult to speak of him. But—.
-Does he treat you [[Well|well]]?’
+Dear Mr Fledgeby did sit down, and satisfied himself (or, judging from
+the expression of his countenance, DISsatisfied himself) that nothing
+new had occurred in the way of whisker-sprout since he came round the
+corner from the Albany.
 
-‘You see how he treats me,’ the Secretary answered, with a patient and
-yet proud air.
+‘Dear Mr Fledgeby, it was needless to mention to you that my poor dear
+Alfred is much worried about his affairs at present, for he has told me
+what a comfort you are to him in his temporary difficulties, and what a
+great service you have rendered him.’
 
-‘Yes, and I see it with [[Pain|pain]],’ said Bella, very energetically.
+‘Oh!’ said Mr Fledgeby.
 
-The Secretary gave her such a radiant look, that if he had thanked her a
-hundred times, he could not have said as much as the look said.
+‘Yes,’ said Mrs Lammle.
 
-‘I see it with [[Pain|pain]],’ repeated Bella, ‘and it often makes me miserable.
-Miserable, because I cannot bear to be supposed to approve of it, or
-have any indirect share in it. Miserable, because I cannot bear to be
-forced to admit to myself that Fortune is spoiling Mr Boffin.’
+‘I didn’t know,’ remarked Mr Fledgeby, trying a new part of his chair,
+‘but that Lammle might be reserved about his affairs.’
 
-‘Miss Wilfer,’ said the Secretary, with a beaming face, ‘if you could
-know with what delight I make the discovery that Fortune isn’t spoiling
-YOU, you would know that it more than compensates me for any slight at
-any other hands.’
+‘Not to me,’ said Mrs Lammle, with deep feeling.
 
-‘Oh, don’t speak of ME,’ said Bella, giving herself an impatient little
-slap with her glove. ‘You don’t know me as [[Well|well]] as—’
+‘Oh, indeed?’ said Fledgeby.
 
-‘As you know yourself?’ suggested the Secretary, finding that she
-stopped. ‘DO you know yourself?’
+‘Not to me, dear Mr Fledgeby. I am his wife.’
 
-‘I know quite enough of myself,’ said Bella, with a charming air of
-being inclined to give herself up as a bad job, ‘and I don’t improve
-upon acquaintance. But Mr Boffin.’
+‘Yes. I—I always understood so,’ said Mr Fledgeby.
 
-‘That Mr Boffin’s manner to me, or consideration for me, is not what it
-used to be,’ observed the Secretary, ‘must be admitted. It is too plain
-to be denied.’
+‘And as the wife of Alfred, may I, dear Mr Fledgeby, wholly without his
+authority or knowledge, as I am sure your discernment will perceive,
+entreat you to continue that great service, and once more use your
+[[Well|well]]-earned influence with Mr Riah for a little more indulgence? The
+name I have heard Alfred mention, tossing in his [[Dreams|dreams]], IS Riah; is it
+not?’
 
-‘Are you disposed to deny it, Mr Rokesmith?’ asked Bella, with a look of
-[[Wonder|wonder]].
+‘The name of the Creditor is Riah,’ said Mr Fledgeby, with a rather
+uncompromising accent on his noun-substantive. ‘Saint Mary Axe. Pubsey
+and Co.’
 
-‘Ought I not to be glad to do so, if I could: though it were only for my
-own sake?’
+‘Oh yes!’ exclaimed Mrs Lammle, clasping her hands with a certain
+gushing wildness. ‘Pubsey and Co.!’
 
-‘Truly,’ returned Bella, ‘it must try you very much, and—you must
-please promise me that you won’t take ill what I am going to add, Mr
-Rokesmith?’
+‘The pleading of the feminine—’ Mr Fledgeby began, and there stuck so
+long for a word to get on with, that Mrs Lammle offered him sweetly,
+‘Heart?’
 
-‘I promise it with all my heart.’
+‘No,’ said Mr Fledgeby, ‘Gender—is ever what a man is bound to listen
+to, and I wish it rested with myself. But this Riah is a nasty one, Mrs
+Lammle; he really is.’
 
-‘—And it must sometimes, I should think,’ said Bella, hesitating, ‘a
-little lower you in your own estimation?’
+‘Not if YOU speak to him, dear Mr Fledgeby.’
 
-Assenting with a movement of his head, though not at all looking as if
-it did, the Secretary replied:
+‘Upon my [[Soul|soul]] and [[Body|body]] he is!’ said Fledgeby.
 
-‘I have very strong reasons, Miss Wilfer, for bearing with the drawbacks
-of my position in the [[house]] we both inhabit. Believe that they are not
-all mercenary, although I have, through a series of strange fatalities,
-faded out of my place in life. If what you see with such a gracious
-and good sympathy is calculated to rouse my [[Pride|pride]], there are other
-considerations (and those you do not see) urging me to quiet [[Endurance|endurance]].
-The latter are by far the stronger.’
+‘Try. Try once more, dearest Mr Fledgeby. What is there you cannot do,
+if you will!’
 
-‘I think I have noticed, Mr Rokesmith,’ said Bella, looking at him with
-curiosity, as not quite making him out, ‘that you repress yourself, and
-force yourself, to act a passive part.’
+‘Thank you,’ said Fledgeby, ‘you’re very complimentary to say so. I
+don’t mind trying him again, at your request. But of course I can’t
+answer for the consequences. Riah is a tough subject, and when he says
+he’ll do a thing, he’ll do it.’
 
-‘You are right. I repress myself and force myself to act a part. It is
-not in tameness of spirit that I submit. I have a settled purpose.’
+‘Exactly so,’ cried Mrs Lammle, ‘and when he says to you he’ll wait,
+he’ll wait.’
 
-‘And a good one, I [[Hope|hope]],’ said Bella.
+(‘She is a devilish clever woman,’ thought Fledgeby. ‘I didn’t see that
+opening, but she spies it out and cuts into it as soon as it’s made.’)
 
-‘And a good one, I [[Hope|hope]],’ he answered, looking steadily at her.
+‘In point of fact, dear Mr Fledgeby,’ Mrs Lammle went on in a very
+interesting manner, ‘not to affect concealment of Alfred’s hopes, to you
+who are so much his friend, there is a distant break in his horizon.’
 
-‘Sometimes I have fancied, sir,’ said Bella, turning away her eyes,
-‘that your great regard for Mrs Boffin is a very powerful motive with
-you.’
+This figure of speech seemed rather mysterious to Fascination Fledgeby,
+who said, ‘There’s a what in his—eh?’
 
-‘You are right again; it is. I would do anything for her, bear anything
-for her. There are no words to express how I esteem that good, good
-woman.’
+‘Alfred, dear Mr Fledgeby, discussed with me this very morning before he
+went out, some prospects he has, which might entirely change the aspect
+of his present troubles.’
 
-‘As I do too! May I ask you one thing more, Mr Rokesmith?’
+‘Really?’ said Fledgeby.
 
-‘Anything more.’
+‘O yes!’ Here Mrs Lammle brought her handkerchief into play. ‘And you
+know, dear Mr Fledgeby—you who study the human heart, and study the
+world—what an affliction it would be to lose position and to lose
+credit, when ability to tide over a very short [[Time|time]] might save all
+appearances.’
 
-‘Of course you see that she really suffers, when Mr Boffin shows how he
-is changing?’
+‘Oh!’ said Fledgeby. ‘Then you think, Mrs Lammle, that if Lammle
+got [[Time|time]], he wouldn’t burst up?—To use an expression,’ Mr Fledgeby
+apologetically explained, ‘which is adopted in the Money Market.’
 
-‘I see it, every day, as you see it, and am grieved to give her [[Pain|pain]].’
+‘Indeed yes. Truly, truly, yes!’
 
-‘To give her [[Pain|pain]]?’ said Bella, repeating the phrase quickly, with her
-eyebrows raised.
+‘That makes all the difference,’ said Fledgeby. ‘I’ll make a point of
+seeing Riah at once.’
 
-‘I am generally the unfortunate cause of it.’
+‘Blessings on you, dearest Mr Fledgeby!’
 
-‘Perhaps she says to you, as she often says to me, that he is the best
-of men, in spite of all.’
+‘Not at all,’ said Fledgeby. She gave him her hand. ‘The hand,’ said Mr
+Fledgeby, ‘of a lovely and superior-minded female is ever the repayment
+of a—’
 
-‘I often overhear her, in her honest and beautiful devotion to him,
-saying so to you,’ returned the Secretary, with the same steady look,
-‘but I cannot assert that she ever says so to me.’
+‘Noble action!’ said Mrs Lammle, extremely anxious to get rid of him.
 
-Bella met the steady look for a moment with a wistful, musing little
-look of her own, and then, nodding her pretty head several times, like
-a dimpled philosopher (of the very best school) who was moralizing on
-Life, heaved a little sigh, and gave up things in general for a bad job,
-as she had previously been inclined to give up herself.
+‘It wasn’t what I was going to say,’ returned Fledgeby, who never would,
+under any circumstances, accept a suggested expression, ‘but you’re very
+complimentary. May I imprint a—a one—upon it? Good morning!’
 
-But, for all that, they had a very pleasant walk. The trees were bare of
-[[Leaves|leaves]], and the [[River|river]] was bare of [[Water|water]]-lilies; but the sky was not bare
-of its beautiful blue, and the [[Water|water]] reflected it, and a delicious
-[[Wind|wind]] ran with the stream, touching the surface crisply. Perhaps the old
-[[Mirror|mirror]] was never yet made by human hands, which, if all the images it
-has in its [[Time|time]] reflected could pass across its surface again, would
-fail to reveal some scene of horror or distress. But the great serene
-[[Mirror|mirror]] of the [[River|river]] seemed as if it might have reproduced all it had
-ever reflected between those placid banks, and brought nothing to the
-light save what was peaceful, [[Pastoral|pastoral]], and blooming.
+‘I may depend upon your promptitude, dearest Mr Fledgeby?’
 
-So, they walked, speaking of the newly filled-up [[Grave|grave]], and of Johnny,
-and of many things. So, on their return, they met brisk Mrs Milvey
-coming to seek them, with the agreeable intelligence that there was no
-[[Fear|fear]] for the village children, there being a Christian school in the
-village, and no worse Judaical interference with it than to plant its
-[[Garden|garden]]. So, they got back to the village as [[Lizzie Hexam]] was coming from
-the paper-mill, and Bella detached herself to speak with her in her own
-[[Home|home]].
+Said Fledgeby, looking back at the door and respectfully kissing his
+hand, ‘You may depend upon it.’
 
-‘I am afraid it is a poor room for you,’ said Lizzie, with a smile of
-welcome, as she offered the post of [[Honour|honour]] by the fireside.
+In fact, Mr Fledgeby sped on his errand of [[Mercy|mercy]] through the streets,
+at so brisk a rate that his feet might have been winged by all the good
+spirits that wait on Generosity. They might have taken up their station
+in his breast, too, for he was blithe and merry. There was quite a fresh
+trill in his voice, when, arriving at the counting-[[house]] in St Mary Axe,
+and finding it for the moment empty, he trolled forth at the foot of the
+staircase: ‘Now, Judah, what are you up to there?’
 
-‘Not so poor as you think, my dear,’ returned Bella, ‘if you knew all.’
-Indeed, though attained by some wonderful winding narrow stairs, which
-seemed to have been erected in a pure white chimney, and though very low
-in the ceiling, and very rugged in the floor, and rather blinking as
-to the proportions of its lattice [[Window|window]], it was a pleasanter room than
-that despised chamber once at [[Home|home]], in which Bella had first bemoaned
-the miseries of taking lodgers.
+The old man appeared, with his accustomed deference.
+
+‘Halloa!’ said Fledgeby, falling back, with a wink. ‘You mean mischief,
+Jerusalem!’
+
+The old man raised his eyes inquiringly.
+
+‘Yes you do,’ said Fledgeby. ‘Oh, you sinner! Oh, you dodger! What!
+You’re going to act upon that bill of sale at Lammle’s, are you? Nothing
+will turn you, won’t it? You won’t be put off for another single minute,
+won’t you?’
+
+Ordered to immediate action by the master’s tone and look, the old man
+took up his hat from the little counter where it lay.
+
+‘You have been told that he might pull through it, if you didn’t go in
+to win, Wide-Awake; have you?’ said Fledgeby. ‘And it’s not your game
+that he should pull through it; ain’t it? You having got security, and
+there being enough to pay you? Oh, you Jew!’
+
+The old man stood irresolute and uncertain for a moment, as if there
+might be further instructions for him in reserve.
+
+‘Do I go, sir?’ he at length asked in a low voice.
+
+‘Asks me if he is going!’ exclaimed Fledgeby. ‘Asks me, as if he didn’t
+know his own purpose! Asks me, as if he hadn’t got his hat on ready!
+Asks me, as if his sharp old eye—why, it cuts like a knife—wasn’t
+looking at his walking-stick by the door!’
+
+‘Do I go, sir?’
+
+‘Do you go?’ sneered Fledgeby. ‘Yes, you do go. Toddle, Judah!’

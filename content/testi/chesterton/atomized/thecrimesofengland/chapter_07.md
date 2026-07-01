@@ -1,5 +1,5 @@
 ---
-title: "[[TheCrimesOfEngland]] — Chapter 7"
+title: "TheCrimesOfEngland — Chapter 7"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/thecrimesofengland-(chesterton)"
@@ -16,11 +16,7 @@ tags:
 
 CHAPTER VII
 
-
-
 THE MIDNIGHT OF EUROPE
-
-
 
 The Two Napoleons--Their Ultimate
 

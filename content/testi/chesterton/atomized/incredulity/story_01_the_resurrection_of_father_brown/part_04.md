@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity]] — The [[Resurrection]] of [[Father Brown]] (part 4)"
+title: "Incredulity — The Resurrection of Father Brown (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-(chesterton)"
@@ -108,13 +108,13 @@ remove my friend's body and break up this irregular meeting.
 I understand,' he added gravely to the doctor, `that there is
 unfortunately no [[Doubt|doubt]].'
 
-`There is no [[Doubt|doubt]],' said Dr Calderon.
+`There is no doubt,' said Dr Calderon.
 
 John Race went back to his lodgings sad and with a singular sense
 of emptiness.  It seemed impossible that he should miss a man whom
 he never knew.  He learned that the funeral was to take place next day;
 for all felt that the crisis should be past as quickly as possible,
-for [[Fear|fear]] of riots that were hourly growing more probable.
+for fear of riots that were hourly growing more probable.
 When Snaith had seen the row of Red Indians sitting on the veranda,
 they might have been a row of ancient Aztec images carved in red wood.
 But he had not seen them as they were when they heard that the

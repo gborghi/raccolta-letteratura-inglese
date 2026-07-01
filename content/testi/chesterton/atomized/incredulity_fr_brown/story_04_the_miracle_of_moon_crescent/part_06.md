@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity|incredulity]] Fr Brown — The Miracle of [[Moon]] Crescent (part 6)"
+title: "incredulity Fr Brown — The Miracle of Moon Crescent (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-fr-brown-(chesterton)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity_fr_brown/story_04_the_miracle_of_moon_crescent/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity_fr_brown/story_04_the_miracle_of_moon_crescent/part_07">part 07 ›</a></div>
 </nav>
 
+
+'Now I'd better tell you to start with,' said the inspector cheerfully,
+'that it's no good for anybody to come to me with any miraculous stuff.
+I'm a practical man and a policeman, and that sort of thing is all very
+[[Well|well]] for priests and parsons. This priest of yours seems to have got you
+all worked up about some story of a dreadful [[Death|death]] and judgement; but
+I'm going to leave him and his religion out of it altogether. If Wynd
+came out of that room, somebody let him out. And if Wynd was found
+hanging on that tree, somebody hung him there.'
 
 'Quite so,' said Fenner; 'but as out evidence is that nobody let him
 out, the question is how could anybody have hung him there?'

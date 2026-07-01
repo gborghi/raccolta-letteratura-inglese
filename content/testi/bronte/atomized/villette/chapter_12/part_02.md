@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 12 (part 2)"
+title: "Villette — Chapter 12 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -115,7 +115,3 @@ box, a small box of white and coloured ivory; its loose lid opened in
 my hand; violets lay within, violets smothering a closely folded bit of
 pink paper, a note, superscribed, “Pour la robe grise.” I wore indeed a
 dress of French grey.
-
-Good. Was this a billet-doux? A thing I had heard of, but hitherto had
-not had the [[Honour|honour]] of seeing or handling. Was it this sort of commodity
-I held between my finger and thumb at this moment?

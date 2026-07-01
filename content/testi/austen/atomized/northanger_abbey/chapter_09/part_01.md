@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 8 (part 1)"
+title: "Northanger Abbey — Chapter 8 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -213,7 +213,3 @@ with seats, as they had agreed to join their party. This was
 accordingly done, Mr. Tilney still continuing standing before them; and
 
 after a few minutes’ consideration, he asked Catherine to [[Dance|dance]] with
-
-him. This compliment, delightful as it was, produced severe
-
-mortification to the lady; and in giving her denial, she expressed her

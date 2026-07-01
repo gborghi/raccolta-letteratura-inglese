@@ -1,5 +1,5 @@
 ---
-title: "[[Don Quixote]] — Chapter 12 (part 1)"
+title: "Don Quixote — Chapter 12 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/don-quixote-(chesterton)"
@@ -145,8 +145,3 @@ She burst into her father's study and faced her father.
 Lord Seawood looked up from a pile of letters and said:  "What is it?"
 His tone might have been called apologetic or even nervous;
 but it was of the sort that makes others feel nervous and apologise.
-
-But Rosamund never felt nervous and did not think of apologising;
-or indeed even of explaining.  She said explosively:
-"Things out there are getting perfectly awful.  The librarian
-won't take off his clothes."

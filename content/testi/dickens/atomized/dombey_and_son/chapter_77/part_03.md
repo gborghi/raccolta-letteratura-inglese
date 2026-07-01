@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 21 (part 3)"
+title: "Dombey and Son — Chapter 49 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,125 +14,102 @@ tags:
 </nav>
 
 
-“Provided the lady made no objection, I suppose?” said Mr Dombey
-coldly.
+The manner in which the Captain tried to make believe that the cause of
+these effects lay hidden in the pipe itself, and the way in which he
+looked into the bowl for it, and not finding it there, pretended to
+blow it out of the stem, was wonderfully pleasant. The pipe soon
+getting into better condition, he fell into that state of repose
+becoming a good smoker; but sat with his eyes fixed on Florence, and,
+with a beaming placidity not to be described, and stopping every now
+and then to discharge a little cloud from his lips, slowly puffed it
+forth, as if it were a scroll coming out of his mouth, bearing the
+legend “Poor Wal”r, ay, ay. Drownded, ain’t he?” after which he would
+resume his smoking with infinite gentleness.
 
-“By Gad, Sir,” said the Major, “the Bagstock breed are not accustomed
-to that sort of obstacle. Though it’s true enough that Edith might have
-married twenty times, but for being proud, Sir, proud.”
+Unlike as they were externally—and there could scarcely be a more
+decided contrast than between Florence in her delicate youth and
+[[Beauty|beauty]], and [[Captain Cuttle]] with his knobby face, his great broad
+weather-beaten person, and his gruff voice—in simple [[innocence]] of the
+world’s ways and the world’s perplexities and dangers, they were nearly
+on a level. No [[Child|child]] could have surpassed [[Captain Cuttle]] in
+inexperience of everything but [[Wind|wind]] and weather; in simplicity,
+credulity, and generous trustfulness. [[Faith]], [[Hope|hope]], and [[Charity|charity]], shared
+his whole [[Nature|nature]] among them. An odd sort of [[Romance|romance]], perfectly
+unimaginative, yet perfectly unreal, and subject to no considerations
+of worldly prudence or practicability, was the only partner they had in
+his character. As the Captain sat, and smoked, and looked at Florence,
+God knows what impossible pictures, in which she was the principal
+figure, presented themselves to his mind. Equally vague and uncertain,
+though not so sanguine, were her own thoughts of the life before her;
+and even as her [[Tears|tears]] made prismatic colours in the light she gazed at,
+so, through her new and heavy grief, she already saw a rainbow faintly
+shining in the far-off sky. A wandering princess and a good [[Monster|monster]] in
+a storybook might have sat by the fireside, and talked as Captain
+Cuttle and poor Florence talked—and not have looked very much unlike
+them.
 
-Mr Dombey seemed, by his face, to think no worse of her for that.
+The Captain was not troubled with the faintest idea of any difficulty
+in retaining Florence, or of any responsibility thereby incurred.
+Having put up the shutters and locked the door, he was quite satisfied
+on this head. If she had been a Ward in Chancery, it would have made no
+difference at all to [[Captain Cuttle]]. He was the last man in the world
+to be troubled by any such considerations.
 
-“It’s a great quality after all,” said the Major. “By the Lord, it’s a
-high quality! Dombey! You are proud yourself, and your friend, Old Joe,
-respects you for it, Sir.”
+So the Captain smoked his pipe very comfortably, and Florence and he
+meditated after their own manner. When the pipe was out, they had some
+tea; and then Florence entreated him to take her to some neighbouring
+shop, where she could buy the few necessaries she immediately wanted.
+It being quite dark, the Captain consented: peeping carefully out
+first, as he had been wont to do in his [[Time|time]] of hiding from Mrs
+MacStinger; and arming himself with his large stick, in case of an
+appeal to arms being rendered necessary by any unforeseen circumstance.
 
-With this tribute to the character of his ally, which seemed to be
-wrung from him by the force of circumstances and the irresistible
-tendency of their conversation, the Major closed the subject, and
-glided into a general exposition of the extent to which he had been
-beloved and doted on by splendid women and brilliant creatures.
+The [[Pride|pride]] [[Captain Cuttle]] had, in giving his arm to Florence, and
+escorting her some two or three hundred yards, keeping a bright
+look-out all the [[Time|time]], and attracting the attention of everyone who
+passed them, by his great vigilance and numerous precautions, was
+extreme. Arrived at the shop, the Captain felt it a point of delicacy
+to retire during the making of the purchases, as they were to consist
+of wearing apparel; but he previously deposited his tin canister on the
+counter, and informing the young lady of the establishment that it
+contained fourteen pound two, requested her, in case that amount of
+property should not be sufficient to defray the expenses of his niece’s
+little outfit—at the word “niece,” he bestowed a most significant look
+on Florence, accompanied with pantomime, expressive of sagacity and
+mystery—to have the goodness to “sing out,” and he would make up the
+difference from his pocket. Casually consulting his big watch, as a
+deep means of dazzling the establishment, and impressing it with a
+sense of property, the Captain then kissed his hook to his niece, and
+retired outside the [[Window|window]], where it was a choice sight to see his
+great face looking in from [[Time|time]] to [[Time|time]], among the silks and ribbons,
+with an obvious misgiving that Florence had been spirited away by a
+back door.
 
-On the next day but one, Mr Dombey and the Major encountered the
-Honourable Mrs Skewton and her daughter in the Pump-room; on the day
-after, they met them again very near the place where they had met them
-first. After meeting them thus, three or four times in all, it became a
-point of mere civility to old acquaintances that the Major should go
-there one evening. Mr Dombey had not originally intended to pay visits,
-but on the Major announcing this intention, he said he would have the
-pleasure of accompanying him. So the Major told the Native to go round
-before dinner, and say, with his and Mr Dombey’s compliments, that they
-would have the [[Honour|honour]] of visiting the ladies that same evening, if the
-ladies were [[Alone|alone]]. In answer to which message, the Native brought back
-a very small note with a very large quantity of scent about it, indited
-by the Honourable Mrs Skewton to [[Major Bagstock]], and briefly saying,
-“You are a shocking bear and I have a great mind not to forgive you,
-but if you are very good indeed,” which was underlined, “you may come.
-Compliments (in which Edith unites) to Mr Dombey.”
+“Dear [[Captain Cuttle]],” said Florence, when she came out with a parcel,
+the size of which greatly disappointed the Captain, who had expected to
+see a porter following with a bale of goods, “I don’t want this money,
+indeed. I have not spent any of it. I have money of my own.”
 
-The Honourable Mrs Skewton and her daughter, Mrs Granger, resided,
-while at Leamington, in lodgings that were fashionable enough and dear
-enough, but rather limited in point of space and conveniences; so that
-the Honourable Mrs Skewton, being in bed, had her feet in the [[Window|window]]
-and her head in the fireplace, while the Honourable Mrs Skewton’s maid
-was quartered in a closet within the drawing-room, so extremely small,
-that, to avoid developing the whole of its accommodations, she was
-obliged to writhe in and out of the door like a beautiful serpent.
-Withers, the wan page, slept out of the [[house]] immediately under the
-tiles at a neighbouring milk-shop; and the wheeled chair, which was the
-stone of that young Sisyphus, passed the [[Night|night]] in a shed belonging to
-the same dairy, where new-laid eggs were produced by the poultry
-connected with the establishment, who roosted on a broken [[donkey]]-cart,
-persuaded, to all appearance, that it grew there, and was a species of
-tree.
+“My lady lass,” returned the baffled Captain, looking straight down the
+street before them, “take care on it for me, will you be so good, till
+such [[Time|time]] as I ask ye for it?”
 
-Mr Dombey and the Major found Mrs Skewton arranged, as [[Cleopatra]], among
-the cushions of a sofa: very airily dressed; and certainly not
-resembling Shakespeare’s [[Cleopatra]], whom age could not wither. On their
-way upstairs they had heard the sound of a harp, but it had ceased on
-their being announced, and Edith now stood beside it handsomer and
-haughtier than ever. It was a remarkable characteristic of this lady’s
-[[Beauty|beauty]] that it appeared to vaunt and assert itself without her aid, and
-against her will. She knew that she was beautiful: it was impossible
-that it could be otherwise: but she seemed with her own [[Pride|pride]] to defy
-her very [[Self|self]].
+“May I put it back in its usual place,” said Florence, “and keep it
+there?”
 
-Whether she held cheap attractions that could only call forth
-admiration that was worthless to her, or whether she designed to render
-them more precious to admirers by this usage of them, those to whom
-they were precious seldom paused to consider.
+The Captain was not at all gratified by this proposal, but he answered,
+“Ay, ay, put it anywheres, my lady lass, so long as you know where to
+find it again. It ain’t o’ no use to me,” said the Captain. “I [[Wonder|wonder]] I
+haven’t chucked it away afore now.
 
-“I [[Hope|hope]], Mrs Granger,” said Mr Dombey, advancing a step towards her,
-“we are not the cause of your ceasing to play?”
-
-“You! oh no!”
-
-“Why do you not go on then, my dearest Edith?” said [[Cleopatra]].
-
-“I left off as I began—of my own fancy.”
-
-The exquisite indifference of her manner in saying this: an
-indifference quite removed from dulness or insensibility, for it was
-pointed with proud purpose: was [[Well|well]] set off by the carelessness with
-which she drew her hand across the strings, and came from that part of
-the room.
-
-“Do you know, Mr Dombey,” said her languishing mother, playing with a
-hand-screen, “that occasionally my dearest Edith and myself actually
-almost differ—”
-
-“Not quite, sometimes, Mama?” said Edith.
-
-“Oh never quite, my darling! Fie, fie, it would break my heart,”
-returned her mother, making a faint attempt to pat her with the screen,
-which Edith made no movement to meet, “—about these old
-conventionalities of manner that are observed in little things? Why are
-we not more natural? Dear me! With all those yearnings, and gushings,
-and impulsive throbbings that we have implanted in our souls, and which
-are so very charming, why are we not more natural?”
-
-Mr Dombey said it was very true, very true.
-
-“We could be more natural I suppose if we tried?” said Mrs Skewton.
-
-Mr Dombey thought it possible.
-
-“Devil a bit, Ma’am,” said the Major. “We couldn’t afford it. Unless
-the world was peopled with J.B.“s—tough and blunt old Joes, Ma’am,
-plain red herrings with hard roes, Sir—we couldn’t afford it. It
-wouldn’t do.”
-
-“You naughty Infidel,” said Mrs Skewton, “be mute.”
-
-“[[Cleopatra]] commands,” returned the Major, kissing his hand, “and Antony
-Bagstock obeys.”
-
-“The man has no sensitiveness,” said Mrs Skewton, cruelly holding up
-the hand-screen so as to shut the Major out. “No sympathy. And what do
-we live for but sympathy! What else is so extremely charming! Without
-that gleam of sunshine on our cold cold earth,” said Mrs Skewton,
-arranging her lace tucker, and complacently observing the effect of her
-bare lean arm, looking upward from the wrist, “how could we possibly
-bear it? In short, obdurate man!” glancing at the Major, round the
-screen, “I would have my world all heart; and [[Faith]] is so excessively
-charming, that I won’t allow you to disturb it, do you hear?”
+The Captain was quite disheartened for the moment, but he revived at
+the first touch of Florence’s arm, and they returned with the same
+precautions as they had come; the Captain opening the door of the
+little Midshipman’s berth, and diving in, with a suddenness which his
+great practice only could have taught him. During Florence’s slumber in
+the morning, he had engaged the daughter of an elderly lady who usually
+sat under a blue umbrella in Leadenhall Market, selling poultry, to
+come and put her room in order, and render her any little services she
+required; and this [[Damsel|damsel]] now appearing, Florence found everything
+about her as convenient and orderly, if not as handsome, as in the
+terrible dream she had once called [[Home]].

@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 9 (part 4)"
+title: "Dombey and Son — Chapter 37 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -10,133 +10,154 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/dombey-and-son-(dickens)">Dombey and Son</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_65/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_65/part_05">part 05 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_65/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_66/part_01">part 01 ›</a></div>
 </nav>
 
 
-“[[Captain Cuttle]]’s at [[Home|home]], I know,” said Walter with a conciliatory
-smile.
+After much painful scrawling and erasing, and putting in of wrong
+characters, which seemed to tumble out of the pencil of their own
+accord, the old woman produced this document:
 
-“Is he?” replied the widow lady. “In-deed!”
+“[[Rose]]-coloured curtains.”
 
-“He has just been speaking to me,” said Walter, in breathless
-explanation.
+The maid being perfectly transfixed, and with tolerable reason,
+[[Cleopatra]] amended the manuscript by adding two words more, when it
+stood thus:
 
-“Has he?” replied the widow lady. “Then p’raps you’ll give him Mrs
-MacStinger’s respects, and say that the next [[Time|time]] he lowers himself and
-his lodgings by talking out of the winder she’ll thank him to come down
-and open the door too.” Mrs MacStinger spoke loud, and listened for any
-observations that might be offered from the first floor.
+“[[Rose]]-coloured curtains for doctors.”
 
-“I’ll mention it,” said Walter, “if you’ll have the goodness to let me
-in, Ma’am.”
+The maid now perceived remotely that she wished these articles to be
+provided for the better presentation of her complexion to the faculty;
+and as those in the [[house]] who knew her best, had no [[Doubt|doubt]] of the
+correctness of this opinion, which she was soon able to establish for
+herself, the [[Rose|rose]]-coloured curtains were added to her bed, and she
+mended with increased rapidity from that hour. She was soon able to sit
+up, in curls and a laced cap and nightgown, and to have a little
+artificial bloom dropped into the hollow caverns of her cheeks.
 
-For he was repelled by a wooden fortification extending across the
-doorway, and put there to prevent the little MacStingers in their
-moments of recreation from tumbling down the steps.
+It was a tremendous sight to see this old woman in her finery leering
+and mincing at [[Death]], and playing off her youthful tricks upon him as
+if he had been the Major; but an alteration in her mind that ensued on
+the paralytic stroke was fraught with as much matter for reflection,
+and was quite as ghastly.
 
-“A boy that can knock my door down,” said Mrs MacStinger,
-contemptuously, “can get over that, I should [[Hope|hope]]!” But Walter, taking
-this as a permission to enter, and getting over it, Mrs MacStinger
-immediately demanded whether an Englishwoman’s [[house]] was her [[Castle|castle]] or
-not; and whether she was to be broke in upon by “raff.” On these
-subjects her thirst for information was still very importunate, when
-Walter, having made his way up the little staircase through an
-artificial fog occasioned by the washing, which covered the banisters
-with a clammy perspiration, entered [[Captain Cuttle]]’s room, and found
-that gentleman in ambush behind the door.
+Whether the weakening of her intellect made her more cunning and false
+than before, or whether it confused her between what she had assumed to
+be and what she really had been, or whether it had awakened any
+glimmering of remorse, which could neither struggle into light nor get
+back into total darkness, or whether, in the jumble of her faculties, a
+combination of these effects had been shaken up, which is perhaps the
+more likely supposition, the result was this:—That she became hugely
+exacting in respect of Edith’s affection and gratitude and attention to
+her; highly laudatory of herself as a most inestimable parent; and very
+jealous of having any rival in Edith’s regard. Further, in place of
+remembering that compact made between them for an avoidance of the
+subject, she constantly alluded to her daughter’s [[Marriage|marriage]] as a proof
+of her being an incomparable mother; and all this, with the weakness
+and peevishness of such a state, always serving for a sarcastic
+commentary on her levity and youthfulness.
 
-“Never owed her a penny, Wal”r,” said [[Captain Cuttle]], in a low voice,
-and with visible marks of trepidation on his countenance. “Done her a
-world of good turns, and the children too. Vixen at times, though.
-Whew!”
+“Where is Mrs Dombey?” she would say to her maid.
 
-“I should go away, [[Captain Cuttle]],” said Walter.
+“Gone out, Ma’am.”
 
-“Dursn’t do it, Wal”r,” returned the Captain. “She’d find me out,
-wherever I went. Sit down. How’s Gills?”
+“Gone out! Does she go out to shun her Mama, [[Flowers]]?”
 
-The Captain was dining (in his hat) off cold loin of mutton, porter,
-and some smoking hot potatoes, which he had cooked himself, and took
-out of a little saucepan before the [[Fire|fire]] as he wanted them. He
-unscrewed his hook at dinner-[[Time|time]], and screwed a knife into its wooden
-socket instead, with which he had already begun to peel one of these
-potatoes for Walter. His rooms were very small, and strongly
-impregnated with tobacco-smoke, but snug enough: everything being
-stowed away, as if there were an earthquake regularly every half-hour.
+“La bless you, no, Ma’am. Mrs Dombey has only gone out for a ride with
+Miss Florence.”
 
-“How’s Gills?” inquired the Captain.
+“Miss Florence. Who’s Miss Florence? Don’t tell me about Miss Florence.
+What’s Miss Florence to her, compared to me?”
 
-Walter, who had by this [[Time|time]] recovered his breath, and lost his
-spirits—or such temporary spirits as his rapid [[Journey|journey]] had given
-him—looked at his questioner for a moment, said “Oh, [[Captain Cuttle]]!”
-and burst into [[Tears|tears]].
+The apposite display of the diamonds, or the peach-velvet bonnet (she
+sat in the bonnet to receive visitors, weeks before she could stir out
+of doors), or the dressing of her up in some gaud or other, usually
+stopped the [[Tears|tears]] that began to flow hereabouts; and she would remain
+in a complacent state until Edith came to see her; when, at a glance of
+the proud face, she would relapse again.
 
-No words can describe the Captain’s consternation at this sight. Mrs
-MacStinger faded into nothing before it. He dropped the potato and the
-fork—and would have dropped the knife too if he could—and sat gazing at
-the boy, as if he expected to hear next moment that a gulf had opened
-in the [[City]], which had swallowed up his old friend, coffee-coloured
-suit, buttons, chronometer, spectacles, and all.
+“[[Well]], I am sure, Edith!” she would cry, shaking her head.
 
-But when Walter told him what was really the matter, [[Captain Cuttle]],
-after a moment’s reflection, started up into full activity. He emptied
-out of a little tin canister on the top shelf of the cupboard, his
-whole stock of ready money (amounting to thirteen pounds and
-half-a-[[Crown|crown]]), which he transferred to one of the pockets of his square
-blue coat; further enriched that repository with the contents of his
-plate chest, consisting of two withered atomies of tea-spoons, and an
-obsolete pair of knock-knee’d sugar-tongs; pulled up his immense
-[[Double|double]]-cased silver watch from the depths in which it reposed, to
-assure himself that that valuable was sound and whole; re-attached the
-hook to his right wrist; and seizing the stick covered over with knobs,
-bade Walter come along.
+“What is the matter, mother?”
 
-Remembering, however, in the midst of his virtuous excitement, that Mrs
-MacStinger might be lying in wait below, [[Captain Cuttle]] hesitated at
-last, not without glancing at the [[Window|window]], as if he had some thoughts of
-escaping by that unusual means of egress, rather than encounter his
-terrible enemy. He decided, however, in favour of stratagem.
+“Matter! I really don’t know what is the matter. The world is coming to
+such an artificial and ungrateful state, that I begin to think there’s
+no Heart—or anything of that sort—left in it, positively. Withers is
+more a [[Child|child]] to me than you are. He attends to me much more than my own
+daughter. I almost wish I didn’t look so young—and all that kind of
+thing—and then perhaps I should be more considered.”
 
-“Wal”r,” said the Captain, with a timid wink, “go afore, my lad. Sing
-out, ‘good-bye, [[Captain Cuttle]],’ when you’re in the passage, and shut
-the door. Then wait at the corner of the street “till you see me.
+“What would you have, mother?”
 
-These directions were not issued without a previous knowledge of the
-enemy’s tactics, for when Walter got downstairs, Mrs MacStinger glided
-out of the little back kitchen, like an avenging spirit. But not
-gliding out upon the Captain, as she had expected, she merely made a
-further allusion to the knocker, and glided in again.
+“Oh, a great deal, Edith,” impatiently.
 
-Some five minutes elapsed before [[Captain Cuttle]] could summon [[Courage|courage]] to
-attempt his escape; for Walter waited so long at the street corner,
-looking back at the [[house]], before there were any symptoms of the hard
-glazed hat. At length the Captain burst out of the door with the
-suddenness of an explosion, and coming towards him at a great pace, and
-never once looking over his shoulder, pretended, as soon as they were
-[[Well|well]] out of the street, to whistle a tune.
+“Is there anything you want that you have not? It is your own fault if
+there be.”
 
-“Uncle much hove down, Wal”r?” inquired the Captain, as they were
-walking along.
+“My own fault!” beginning to whimper. “The parent I have been to you,
+Edith: making you a companion from your cradle! And when you neglect
+me, and have no more natural affection for me than if I was a
+stranger—not a twentieth part of the affection that you have for
+Florence—but I am only your mother, and should corrupt her in a
+day!—you reproach me with its being my own fault.”
 
-“I am afraid so. If you had seen him this morning, you would never have
-forgotten it.”
+“Mother, mother, I reproach you with nothing. Why will you always dwell
+on this?”
 
-“Walk fast, Wal”r, my lad,” returned the Captain, [[mending]] his pace;
-“and walk the same all the days of your life. Overhaul the catechism
-for that advice, and keep it!”
+“Isn’t it natural that I should dwell on this, when I am all affection
+and sensitiveness, and am wounded in the cruellest way, whenever you
+look at me?”
 
-The Captain was too busy with his own thoughts of [[Solomon Gills]],
-mingled perhaps with some reflections on his late escape from Mrs
-MacStinger, to offer any further quotations on the way for Walter’s
-moral improvement They interchanged no other word until they arrived at
-old Sol’s door, where the unfortunate wooden Midshipman, with his
-instrument at his eye, seemed to be surveying the whole horizon in
-search of some friend to help him out of his difficulty.
+“I do not mean to wound you, mother. Have you no remembrance of what
+has been said between us? Let the Past rest.”
 
-“Gills!” said the Captain, hurrying into the back parlour, and taking
-him by the hand quite tenderly. “Lay your head [[Well|well]] to the [[Wind|wind]], and
-we’ll fight through it. All you’ve got to do,” said the Captain, with
-the solemnity of a man who was delivering himself of one of the most
-precious practical tenets ever discovered by human wisdom, “is to lay
-your head [[Well|well]] to the [[Wind|wind]], and we’ll fight through it!”
+“Yes, rest! And let gratitude to me rest; and let affection for me
+rest; and let me rest in my out-of-the-way room, with no society and no
+attention, while you find new relations to make much of, who have no
+earthly claim upon you! Good gracious, Edith, do you know what an
+elegant establishment you are at the head of?”
+
+“Yes. Hush!”
+
+“And that gentlemanly creature, Dombey? Do you know that you are
+married to him, Edith, and that you have a settlement and a position,
+and a carriage, and I don’t know what?”
+
+“Indeed, I know it, mother; [[Well|well]].”
+
+“As you would have had with that delightful good [[Soul|soul]]—what did they
+call him?—Granger—if he hadn’t died. And who have you to thank for all
+this, Edith?”
+
+“You, mother; you.”
+
+“Then put your arms round my neck, and kiss me; and show me, Edith,
+that you know there never was a better Mama than I have been to you.
+And don’t let me become a perfect fright with teasing and wearing
+myself at your ingratitude, or when I’m out again in society no [[Soul|soul]]
+will know me, not even that hateful animal, the Major.”
+
+But, sometimes, when Edith went nearer to her, and bending down her
+stately head, put her cold cheek to hers, the mother would draw back as
+If she were afraid of her, and would fall into a fit of trembling, and
+cry out that there was a wandering in her wits. And sometimes she would
+entreat her, with [[Humility|humility]], to sit down on the chair beside her bed,
+and would look at her (as she sat there brooding) with a face that even
+the [[Rose|rose]]-coloured curtains could not make otherwise than scared and
+wild.
+
+The [[Rose|rose]]-coloured curtains blushed, in course of [[Time|time]], on [[Cleopatra]]’s
+bodily recovery, and on her dress—more juvenile than ever, to repair
+the ravages of illness—and on the rouge, and on the teeth, and on the
+curls, and on the diamonds, and the short sleeves, and the whole
+wardrobe of the doll that had tumbled down before the [[Mirror|mirror]]. They
+blushed, too, now and then, upon an indistinctness in her speech which
+she turned off with a girlish giggle, and on an occasional failing in
+her [[Memory|memory]], that had no rule in it, but came and went fantastically, as
+if in mockery of her fantastic [[Self|self]].
+
+But they never blushed upon a change in the new manner of her thought
+and speech towards her daughter. And though that daughter often came
+within their influence, they never blushed upon her loveliness
+irradiated by a smile, or softened by the light of filial [[Love|love]], in its
+stern [[Beauty|beauty]].

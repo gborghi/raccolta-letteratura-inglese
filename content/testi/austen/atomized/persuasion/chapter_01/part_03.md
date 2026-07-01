@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 1 (part 3)"
+title: "Persuasion — Chapter 1 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_01/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_03/part_01">part 01 ›</a></div>
 </nav>
 
+
+perpetuated by offspring, have been got over, had he not done worse;
+
+but he had, as by the accustomary intervention of kind friends, they
+
+had been informed, spoken most disrespectfully of them all, most
+
+slightingly and contemptuously of the very [[Blood|blood]] he belonged to, and
+
+the honours which were hereafter to be his own. This could not be
 
 pardoned.
 
@@ -60,7 +70,7 @@ dreadfully in debt, but was hearing of it so often, that it became vain
 
 to attempt concealing it longer, even partially, from his daughter. He
 
-had given her some hints of it the last [[spring]] in town; he had gone so
+had given her some hints of it the last [[Spring|spring]] in town; he had gone so
 
 far even as to say, “Can we retrench? Does it occur to you that there
 

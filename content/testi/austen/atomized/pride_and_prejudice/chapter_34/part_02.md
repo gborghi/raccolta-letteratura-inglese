@@ -1,5 +1,5 @@
 ---
-title: "[[Pride and Prejudice]] — Chapter 34 (part 2)"
+title: "Pride and Prejudice — Chapter 34 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/pride-and-prejudice-(austen)"
@@ -10,9 +10,13 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/works/pride-and-prejudice-(austen)">Pride and Prejudice</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/pride_and_prejudice/chapter_34/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/pride_and_prejudice/chapter_41/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/pride_and_prejudice/chapter_34/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/pride_and_prejudice/chapter_36/part_01">part 01 ›</a></div>
 </nav>
 
+
+As she pronounced these words, Mr. Darcy changed colour; but the emotion
+was short, and he listened without attempting to interrupt her while she
+continued,--
 
 “I have every reason in the world to think ill of you. No motive can
 excuse the unjust and ungenerous part you acted _there_. You dare not,

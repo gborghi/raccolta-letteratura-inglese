@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 38 (part 1)"
+title: "Oliver Twist — Chapter 38 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -139,11 +139,3 @@ understand, mistress?”
 “No,” rejoined the matron, slightly colouring as she spoke.
 
 “Of course you don’t!” said [[Monks]]. “How should you?”
-
-Bestowing something half-way between a smile and a frown upon his two
-companions, and again beckoning them to follow him, the man hastened
-across the apartment, which was of considerable extent, but low in the
-roof. He was preparing to ascend a steep staircase, or rather ladder,
-leading to another floor of warehouses above: when a bright flash of
-[[Lightning|lightning]] streamed down the aperture, and a peal of thunder followed,
-which shook the crazy building to its centre.

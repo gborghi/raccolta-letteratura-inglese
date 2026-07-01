@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 49 (part 2)"
+title: "Oliver Twist — Chapter 49 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,21 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_49/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_49/part_03">part 03 ›</a></div>
 </nav>
 
+
+“I don’t care for hard names,” interrupted [[Monks]] with a jeering laugh.
+“You know the fact, and that’s enough for me.”
+
+“But I also know,” pursued the old gentleman, “the misery, the slow
+torture, the protracted anguish of that ill-assorted [[Union|union]]. I know how
+listlessly and wearily each of that wretched pair dragged on their
+heavy chain through a world that was poisoned to them both. I know how
+cold formalities were succeeded by open taunts; how indifference gave
+place to dislike, dislike to hate, and hate to loathing, until at last
+they wrenched the clanking bond asunder, and retiring a wide space
+apart, carried each a galling [[Fragment|fragment]], of which nothing but [[Death|death]]
+could break the rivets, to hide it in new society beneath the gayest
+looks they could assume. Your mother succeeded; she forgot it soon. But
+it rusted and cankered at your father’s heart for years.”
 
 “[[Well]], they were separated,” said [[Monks]], “and what of that?”
 
@@ -113,23 +128,3 @@ find one heart and [[Home|home]] to shelter and compassionate her. The family
 had left that part a week before; they had called in such trifling
 debts as were outstanding, discharged them, and left the place by
 [[Night|night]]. Why, or whither, none can tell.”
-
-[[Monks]] drew his breath yet more freely, and looked round with a smile of
-triumph.
-
-“When your brother,” said Mr. Brownlow, drawing nearer to the other’s
-chair, “When your brother: a feeble, ragged, neglected [[Child|child]]: was cast
-in my way by a stronger hand than chance, and rescued by me from a life
-of vice and infamy—”
-
-“What?” cried [[Monks]].
-
-“By me,” said Mr. Brownlow. “I told you I should interest you before
-long. I say by me—I see that your cunning associate suppressed my name,
-although for aught he knew, it would be quite strange to your ears.
-When he was rescued by me, then, and lay recovering from sickness in my
-[[house]], his strong resemblance to this picture I have spoken of, struck
-me with astonishment. Even when I first saw him in all his dirt and
-misery, there was a lingering expression in his face that came upon me
-like a glimpse of some old friend flashing on one in a vivid dream. I
-need not tell you he was snared away before I knew his [[history]]—”

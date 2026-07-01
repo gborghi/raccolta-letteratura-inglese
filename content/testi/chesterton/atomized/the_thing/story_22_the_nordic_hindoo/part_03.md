@@ -16,7 +16,7 @@ tags:
 
 I mean nothing flippant when I say that the only interesting thing
 about all this is its staleness.  I have no unfriendly feelings towards
-Sir [[arthur|Arthur]] Conan Doyle, to whom we all owe so much gratitude in the realm
+Sir [[Arthur]] Conan Doyle, to whom we all owe so much gratitude in the realm
 of literature and entertainment, and who often seems to me entirely
 right in his manner of defending Spiritualism against Materialism.
 But I do realize, even if he does not realize, that, at the back
@@ -46,10 +46,10 @@ a favourite word of Dr. Watson.  Indeed, we may [[Well|well]] question whether
 the institution of the Red-Headed League or the episode of the Yellow Face
 at the [[Window|window]], or any of the fantasies of Mr. Sherlock Holmes,
 were any more fantastic than some that have been submitted to us
-seriously enough by the school of Sir [[arthur|Arthur]] Conan Doyle.
+seriously enough by the school of Sir [[Arthur]] Conan Doyle.
 I do not say that this test of external extravagance ought
 to be final, or that no defence of such details could be made.
-But when Sir [[arthur|Arthur]] deliberately gibes at our ceremonies, we may
+But when Sir [[Arthur]] deliberately gibes at our ceremonies, we may
 at least be allowed to smile at his.  Suppose any Catholic rite
 before the altar consisted of binding a human being hand and foot
 with ropes; should we ever hear the last of the horrible [[Survival|survival]]

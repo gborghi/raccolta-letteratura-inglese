@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 40 (part 2)"
+title: "Sense and Sensibility — Chapter 40 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_40/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_40/part_03">part 03 ›</a></div>
 </nav>
 
+
+distressed; and they sat down together in a most promising state of
+
+embarrassment.—Whether he had asked her pardon for his intrusion on
 
 first coming into the room, he could not recollect; but determining to
 
@@ -237,13 +241,3 @@ whom she had never seen before, and of whom therefore she must have a
 great deal to say, her mind was so much more occupied by the important
 
 secret in her possession, than by anything else, that she reverted to
-
-it again as soon as Elinor appeared.
-
-
-
-“[[Well]], my dear,” she cried, “I sent you up the young man. Did not I do
-
-right?—And I suppose you had no great difficulty—You did not find him
-
-very unwilling to accept your proposal?”

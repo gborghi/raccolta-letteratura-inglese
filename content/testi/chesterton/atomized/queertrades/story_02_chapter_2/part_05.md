@@ -1,5 +1,5 @@
 ---
-title: "[[queertrades]] — Chapter 2 (part 5)"
+title: "queertrades — Chapter 2 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/queertrades-(chesterton)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/queertrades/story_02_chapter_2/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/queertrades/story_03_chapter_3/part_01">part 01 ›</a></div>
 </nav>
 
+
+"[[Well]], really," I said, "it is already six o'[[Clock|clock]] and I [[Doubt|doubt]] if we
+could get [[Home|home]] and dress.  I see nothing extraordinary in the fact
+that we are not going."
 
 "Don't you?" said Grant.  "I'll bet you'll see something extraordinary
 in what we're doing instead."
@@ -105,7 +109,7 @@ but we got him tight.  I had not the remotest notion why.
 He had a splendid and full-blooded vigour; when he could
 not box he kicked, and we bound him; when he could not kick
 he shouted, and we gagged him.  Then, by Basil's arrangement,
-we dragged him into a small [[Court|court]] by the street side and waited.
+we dragged him into a small court by the street side and waited.
 As I say, I had no notion why.
 
 "I am sorry to incommode you," said Basil calmly out of the darkness;
@@ -113,7 +117,7 @@ As I say, I had no notion why.
 
 "An appointment!"  I said blankly.
 
-"Yes," he said, glancing calmly at the apoplectic old [[aristocrat]] gagged
+"Yes," he said, glancing calmly at the apoplectic old aristocrat gagged
 on the ground, whose eyes were starting impotently from his head.
 "I have made an appointment here with a thoroughly nice young fellow.
 An old friend.  Jasper Drummond his name is--you may have met him
@@ -121,15 +125,15 @@ this afternoon at the Beaumonts.  He can scarcely come though till
 the Beaumonts' dinner is over."
 
 For I do not know how many hours we stood there calmly in the darkness.
-By the [[Time|time]] those hours were over I had thoroughly made up my mind
+By the time those hours were over I had thoroughly made up my mind
 that the same thing had happened which had happened long ago on
-the bench of a British [[Court]] of Justice.  Basil Grant had gone mad.
+the bench of a British Court of Justice.  Basil Grant had gone mad.
 I could imagine no other explanation of the facts, with the portly,
 purple-faced old country gentleman flung there strangled on the floor
 like a bundle of wood.
 
 After about four hours a lean figure in evening dress rushed into
-the [[Court|court]].  A glimpse of gaslight showed the red moustache and white
+the court.  A glimpse of gaslight showed the red moustache and white
 face of Jasper Drummond.
 
 "Mr Grant," he said blankly, "the thing is incredible.
@@ -186,17 +190,17 @@ like piracy."
 
 "It is," said Grant calmly, "the great new trade of the Organizer
 of Repartee.  This fat old gentleman lying on the ground strikes you,
-as I have no [[Doubt|doubt]], as very stupid and very rich.  Let me clear
+as I have no doubt, as very stupid and very rich.  Let me clear
 his character.  He is, like ourselves, very clever and very poor.
 He is also not really at all fat; all that is stuffing.
 He is not particularly old, and his name is not Cholmondeliegh.
 He is a swindler, and a swindler of a perfectly delightful and
-[[Novel|novel]] kind.  He hires himself out at dinner-parties to lead up
+novel kind.  He hires himself out at dinner-parties to lead up
 to other people's repartees.  According to a preconcerted scheme
 (which you may find on that piece of paper), he says the stupid
 things he has arranged for himself, and his client says the clever
 things arranged for him.  In short, he allows himself to be scored
-off for a guinea a [[Night|night]]."
+off for a guinea a night."
 
 "And this fellow Wimpole--" began Drummond with indignation.
 

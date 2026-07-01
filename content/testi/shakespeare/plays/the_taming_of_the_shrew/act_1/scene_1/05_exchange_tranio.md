@@ -1,5 +1,5 @@
 ---
-title: "The Taming of the Shrew — Act I, Scene 1 — exchange ([[Tranio|TRANIO]]) [5]"
+title: "The Taming of the Shrew — Act I, Scene 1 — exchange (TRANIO) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-taming-of-the-shrew-(shakespeare)"

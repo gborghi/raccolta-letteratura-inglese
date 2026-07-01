@@ -51,7 +51,7 @@ proletarian Irish.  He made a most admirable speech, to which I
 mean no disparagement when I say that I think his personal
 popularity had even more weight than his personal eloquence.
 My own argument was confined to the particular value of small
-property as a weapon of militant [[Democracy|democracy]]; and was based
+property as a weapon of militant [[democracy]]; and was based
 on the idea that the citizen resisting injustice could find no
 substitute for private property, for every other impersonal power,
 however democratic in theory, must be bureaucratic in form.

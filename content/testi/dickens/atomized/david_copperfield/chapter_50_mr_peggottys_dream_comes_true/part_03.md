@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 50: Mr. PEGGOTTY’S DREAM COMES TRUE (part 3)"
+title: "David Copperfield — Chapter 50: Mr. PEGGOTTY’S DREAM COMES TRUE (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_50_mr_peggottys_dream_comes_true/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_50_mr_peggottys_dream_comes_true/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘Nothing but our sex,’ said Emily, with a burst of [[Tears|tears]].
+
+‘And that,’ said Rosa Dartle, ‘is so strong a claim, preferred by one
+so infamous, that if I had any feeling in my breast but scorn and
+abhorrence of you, it would freeze it up. Our sex! You are an [[Honour|honour]] to
+our sex!’
+
+‘I have deserved this,’ said Emily, ‘but it’s dreadful! Dear, dear lady,
+think what I have suffered, and how I am fallen! Oh, Martha, come back!
+Oh, [[Home|home]], [[Home|home]]!’
+
+Miss Dartle placed herself in a chair, within view of the door, and
+looked downward, as if Emily were crouching on the floor before her.
+Being now between me and the light, I could see her curled lip, and her
+cruel eyes intently fixed on one place, with a greedy triumph.
 
 ‘Listen to what I say!’ she said; ‘and reserve your false arts for your
 dupes. Do you [[Hope|hope]] to move me by your [[Tears|tears]]? No more than you could
@@ -111,16 +127,3 @@ have much preferred to be the object of the latter. But, when she
 suffered it to break loose, it was only for a moment. She had chained
 it up again, and however it might tear her within, she subdued it to
 herself.
-
-‘I came here, you pure fountain of [[Love|love]],’ she said, ‘to see--as I began
-by telling you--what such a thing as you was like. I was curious. I am
-satisfied. Also to tell you, that you had best seek that [[Home|home]] of yours,
-with all [[Speed|speed]], and hide your head among those excellent people who are
-expecting you, and whom your money will console. When it’s all gone, you
-can believe, and trust, and [[Love|love]] again, you know! I thought you a broken
-toy that had lasted its [[Time|time]]; a worthless spangle that was tarnished,
-and thrown away. But, finding you true gold, a very lady, and
-an ill-used [[Innocent|innocent]], with a fresh heart full of [[Love|love]] and
-trustfulness--which you look like, and is quite consistent with your
-story!--I have something more to say. Attend to it; for what I say I’ll
-do. Do you hear me, you fairy spirit? What I say, I mean to do!’

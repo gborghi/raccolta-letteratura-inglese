@@ -1,5 +1,5 @@
 ---
-title: "[[thursday]] — Chapter 7"
+title: "thursday — Chapter 7"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/thursday-(chesterton)"
@@ -17,7 +17,6 @@ tags:
                          CHAPTER VII
 
        THE UNACCOUNTABLE CONDUCT OF PROFESSOR DE WORMS
-
 
 "SIT down!" said [[Sunday]] in a voice that he used once or twice in his life,
 a voice that made men drop drawn swords.

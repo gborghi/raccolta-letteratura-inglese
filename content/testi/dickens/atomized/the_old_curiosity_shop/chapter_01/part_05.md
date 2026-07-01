@@ -14,6 +14,38 @@ tags:
 </nav>
 
 
+‘You’ll not ring twice,’ returned the [[Child|child]]. ‘The bell wakes me, even
+in the middle of [[A Dream|a dream]].’
+
+With this, they separated. The [[Child|child]] opened the door (now guarded by a
+shutter which I had heard the boy put up before he left the [[house]]) and
+with another farewell whose clear and tender note I have recalled a
+thousand times, held it until we had passed out. The old man paused a
+moment while it was gently closed and fastened on the inside, and
+satisfied that this was done, walked on at a slow pace. At the
+street-corner he stopped, and regarding me with a troubled countenance
+said that our ways were widely different and that he must take his
+leave. I would have spoken, but summoning up more alacrity than might
+have been expected in one of his appearance, he hurried away. I could
+see that twice or thrice he looked back as if to ascertain if I were
+still watching him, or perhaps to assure himself that I was not
+following at a distance. The obscurity of the [[Night|night]] favoured his
+disappearance, and his figure was soon beyond my sight.
+
+I remained standing on the spot where he had left me, unwilling to
+depart, and yet unknowing why I should loiter there. I looked wistfully
+into the street we had lately quitted, and after a [[Time|time]] directed my
+steps that way. I passed and repassed the [[house]], and stopped and
+listened at the door; all was dark, and silent as the [[Grave|grave]].
+
+Yet I lingered about, and could not tear myself away, thinking of all
+possible harm that might happen to the [[Child|child]]--of fires and robberies
+and even murder--and feeling as if some evil must ensue if I turned my
+back upon the place. The closing of a door or [[Window|window]] in the street
+brought me before the curiosity-dealer’s once more; I crossed the [[Road|road]]
+and looked up at the [[house]] to assure myself that the noise had not come
+from there. No, it was black, cold, and lifeless as before.
+
 There were few passengers astir; the street was sad and dismal, and
 pretty [[Well|well]] my own. A few stragglers from the theatres hurried by, and
 now and then I turned aside to avoid some noisy drunkard as he reeled

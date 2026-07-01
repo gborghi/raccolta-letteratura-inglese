@@ -1,5 +1,5 @@
 ---
-title: "[[Maelzel's Chess-Player]] (part 9)"
+title: "Maelzel's Chess-Player (part 9)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/maelzel's-chess-player-(poe)"
@@ -13,6 +13,38 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/maelzel_s_chess_player/part/part_08">‹ part 08</a><a class="ex-next" href="/testi/poe/atomized/maelzel_s_chess_player/part/part_10">part 10 ›</a></div>
 </nav>
 
+
+      his [[Silence|silence]]—his actions cannot implicate him in a falsehood—his
+
+      words may.
+
+
+
+      9. When, in exhibiting the interior of the box, Maelzel has
+
+      thrown open the door No. I, and also the door immediately behind
+
+      it, he holds a lighted candle at the back door (as mentioned
+
+      above) and moves the entire [[Machine|machine]] to and fro with a view of
+
+      convincing the company that the cupboard No. 1 is entirely filled
+
+      with machinery. When the [[Machine|machine]] is thus moved about, it will be
+
+      apparent to any careful observer, that whereas that portion of
+
+      the machinery near the front door No. 1, is perfectly steady and
+
+      unwavering, the portion farther within fluctuates, in a very
+
+      slight degree, with the movements of the [[Machine|machine]]. This
+
+      circumstance first aroused in us the suspicion that the more
+
+      remote portion of the machinery was so arranged as to be easily
+
+      slipped, _en masse, _from its position when occasion should
 
       require it. This occasion we have already stated to occur when
 
@@ -167,37 +199,3 @@ tags:
       shutting the main compartment—he never opens the back door of
 
       cupboard No. 1 while the main compartment is open—and the game of
-
-      chess is never commenced until the whole [[Machine|machine]] is closed. Now
-
-      if it were observed that _never, in any single instance, _did M.
-
-      Maelzel differ from the routine we have pointed out as necessary
-
-      to our solution, it would be one of the strongest possible
-
-      arguments in corroboration of it—but the argument becomes
-
-      infinitely strengthened if we duly consider the circumstance that
-
-      he _does occasionally _deviate from the routine but never does
-
-      _so _deviate as to falsify the solution.
-
-
-
-      15. There are six candles on the board of the Automaton during
-
-      exhibition. The question naturally arises—“Why are so many
-
-      employed, when a single candle, or, at farthest, two, would have
-
-      been amply sufficient to afford the spectators a clear view of
-
-      the board, in a room otherwise so [[Well|well]] lit up as the exhibition
-
-      room always is—when, moreover, if we suppose the [[Machine|machine]] a _pure
-
-      [[Machine|machine]], _there can be no necessity for so much light, or indeed
-
-      any light at all, to enable _it _to perform its operations—and

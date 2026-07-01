@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 14 (part 3)"
+title: "Villette — Chapter 14 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -114,9 +114,3 @@ Emanuel it was, and in a state of no little excitement.
 “Play you must. I will not have you shrink, or frown, or make the
 prude. I read your skull that [[Night|night]] you came; I see your moyens: play
 you can; play you must.”
-
-“But how, M. Paul? What do you mean?”
-
-“There is no [[Time|time]] to be lost,” he went on, now speaking in French; “and
-let us thrust to the wall all reluctance, all excuses, all minauderies.
-You must take a part.”

@@ -14,6 +14,12 @@ tags:
 </nav>
 
 
+“[[Courage]], dear miss! [[Courage]]! Business! The worst will be over in a
+moment; it is but passing the room-door, and the worst is over. Then,
+all the good you bring to him, all the relief, all the happiness you
+bring to him, begin. Let our good friend here, assist you on that side.
+That’s [[Well|well]], friend Defarge. Come, now. Business, business!”
+
 They went up slowly and softly. The staircase was short, and they were
 soon at the top. There, as it had an abrupt turn in it, they came all at
 once in sight of three men, whose heads were bent down close together at

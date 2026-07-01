@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 32 (part 3)"
+title: "Sense and Sensibility — Chapter 32 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_32/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_33/part_01">part 01 ›</a></div>
 </nav>
 
+
+am amazingly glad you did not keep to _your word_.”
+
+
+
+Elinor perfectly understood her, and was forced to use all her
+
+[[Self|self]]-command to make it appear that she did _not_.
+
+
+
+“[[Well]], my dear,” said Mrs. Jennings, “and how did you travel?”
+
+
+
+“Not in the stage, I assure you,” replied Miss Steele, with quick
 
 exultation; “we came post all the way, and had a very smart beau to
 

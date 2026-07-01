@@ -1,5 +1,5 @@
 ---
-title: "[[innocence]] — The Hammer of God (part 5)"
+title: "innocence — The Hammer of God (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -14,24 +14,64 @@ tags:
 </nav>
 
 
-The shaken Wilfred was led away by [[Father Brown]], who had an easy
+The inspector laughed amicably and said:  "No, I think you can be
+considered out of it, though it's one of the rummiest coincidences
+I ever saw.  I can only ask you to give us all the assistance
+you can in finding a man as big and strong as yourself.
+By George! you might be useful, if only to hold him!
+I suppose you yourself have no guess at the man?"
+
+"I may have a guess," said the pale smith, "but it is not at
+a man."  Then, seeing the scared eyes turn towards his wife
+on the bench, he put his huge hand on her shoulder and said:
+"Nor a woman either."
+
+"What do you mean?" asked the inspector jocularly.
+"You don't think cows use hammers, do you?"
+
+"I think no thing of flesh held that hammer," said the blacksmith
+in a stifled voice; "mortally speaking, I think the man died alone."
+
+Wilfred made a sudden forward movement and peered at him with burning eyes.
+
+"Do you mean to say, Barnes," came the sharp voice of the cobbler,
+"that the hammer jumped up of itself and knocked the man down?"
+
+"Oh, you gentlemen may stare and snigger," cried Simeon;
+"you clergymen who tell us on Sunday in what a stillness
+the Lord smote Sennacherib.  I believe that One who walks
+invisible in every house defended the honour of mine, and laid
+the defiler dead before the door of it.  I believe the force
+in that blow was just the force there is in earthquakes,
+and no force less."
+
+Wilfred said, with a voice utterly undescribable:
+"I told Norman myself to beware of the thunderbolt."
+
+"That agent is outside my jurisdiction," said the inspector
+with a slight smile.
+
+"You are not outside His," answered the smith; "see you to it,"
+and, turning his broad back, he went into the house.
+
+The shaken Wilfred was led away by Father Brown, who had an easy
 and friendly way with him.  "Let us get out of this horrid place,
 Mr. Bohun," he said.  "May I look inside your church?  I hear it's
 one of the oldest in England.  We take some interest, you know,"
 he added with a comical grimace, "in old English churches."
 
-Wilfred Bohun did not smile, for [[Humour|humour]] was never his strong point.
+Wilfred Bohun did not smile, for humour was never his strong point.
 But he nodded rather eagerly, being only too ready to explain the Gothic
 splendours to someone more likely to be sympathetic than the Presbyterian
 blacksmith or the atheist cobbler.
 
 "By all means," he said; "let us go in at this side."  And he led
 the way into the high side entrance at the top of the flight of steps.
-[[Father Brown]] was mounting the first step to follow him when he felt a hand
+Father Brown was mounting the first step to follow him when he felt a hand
 on his shoulder, and turned to behold the dark, thin figure of the doctor,
 his face darker yet with suspicion.
 
-"Sir," said the physician harshly, "you appear to know some [[Secrets|secrets]] in this
+"Sir," said the physician harshly, "you appear to know some secrets in this
 black business.  May I ask if you are going to keep them to yourself?"
 
 "Why, doctor," answered the priest, smiling quite pleasantly,
@@ -42,16 +82,16 @@ of them.  But if you think I have been discourteously reticent
 with you or anyone, I will go to the extreme limit of my custom.
 I will give you two very large hints."
 
-"[[Well]], sir?" said the doctor gloomily.
+"Well, sir?" said the doctor gloomily.
 
-"First," said [[Father Brown]] quietly, "the thing is quite
+"First," said Father Brown quietly, "the thing is quite
 in your own province.  It is a matter of physical science.
 The blacksmith is mistaken, not perhaps in saying that the blow
 was divine, but certainly in saying that it came by a miracle.
 It was no miracle, doctor, except in so far as man is himself
 a miracle, with his strange and wicked and yet half-heroic heart.
-The force that smashed that skull was a force [[Well|well]] known to scientists--
-one of the most frequently debated of the laws of [[Nature|nature]]."
+The force that smashed that skull was a force well known to scientists--
+one of the most frequently debated of the laws of nature."
 
 The doctor, who was looking at him with frowning intentness, only said:
 "And the other hint?"
@@ -62,19 +102,19 @@ tale that his hammer had wings and flew half a mile across country?"
 
 "Yes," said the doctor, "I remember that."
 
-"[[Well]]," added [[Father Brown]], with a broad smile, "that fairy tale
-was the nearest thing to the real [[Truth|truth]] that has been said today."
+"Well," added Father Brown, with a broad smile, "that fairy tale
+was the nearest thing to the real truth that has been said today."
 And with that he turned his back and stumped up the steps
 after the curate.
 
 The Reverend Wilfred, who had been waiting for him, pale and impatient,
 as if this little delay were the last straw for his nerves, led him
 immediately to his favourite corner of the church, that part of the gallery
-closest to the carved roof and lit by the wonderful [[Window|window]] with the angel.
+closest to the carved roof and lit by the wonderful window with the angel.
 The little Latin priest explored and admired everything exhaustively,
-talking cheerfully but in a low voice all the [[Time|time]].  When in the course
+talking cheerfully but in a low voice all the time.  When in the course
 of his investigation he found the side exit and the winding stair down
-which Wilfred had rushed to find his brother dead, [[Father Brown]] ran
+which Wilfred had rushed to find his brother dead, Father Brown ran
 not down but up, with the agility of a monkey, and his clear voice came
 from an outer platform above.
 
@@ -82,25 +122,25 @@ from an outer platform above.
 
 Bohun followed him, and came out on a kind of stone gallery or balcony
 outside the building, from which one could see the illimitable plain in
-which their small [[Hill|hill]] stood, wooded away to the purple horizon and dotted
+which their small hill stood, wooded away to the purple horizon and dotted
 with villages and farms.  Clear and square, but quite small beneath them,
 was the blacksmith's yard, where the inspector still stood taking notes
 and the corpse still lay like a smashed fly.
 
-"Might be the map of the world, mightn't it?" said [[Father Brown]].
+"Might be the map of the world, mightn't it?" said Father Brown.
 
 "Yes," said Bohun very gravely, and nodded his head.
 
 Immediately beneath and about them the lines of the Gothic building plunged
-outwards into the void with a sickening swiftness akin to [[suicide]].
+outwards into the void with a sickening swiftness akin to suicide.
 There is that element of Titan energy in the architecture of the
 Middle Ages that, from whatever aspect it be seen, it always seems
-to be rushing away, like the strong back of some maddened [[Horse|horse]].
+to be rushing away, like the strong back of some maddened horse.
 This church was hewn out of ancient and silent stone, bearded with old
-fungoids and stained with the nests of [[Birds|birds]].  And yet, when they saw it
-from below, it sprang like a fountain at the [[Stars|stars]]; and when they saw it,
+fungoids and stained with the nests of birds.  And yet, when they saw it
+from below, it sprang like a fountain at the stars; and when they saw it,
 as now, from above, it poured like a cataract into a voiceless pit.
-For these two men on the tower were left [[Alone|alone]] with the most terrible
+For these two men on the tower were left alone with the most terrible
 aspect of Gothic; the monstrous foreshortening and disproportion,
 the dizzy perspectives, the glimpses of great things small and small
 things great; a topsy-turvydom of stone in the mid-air. Details of stone,
@@ -109,23 +149,5 @@ and farms, pygmy in their distance.  A carved bird or beast at a corner
 seemed like some vast walking or flying dragon wasting the pastures
 and villages below.  The whole atmosphere was dizzy and dangerous,
 as if men were upheld in air amid the gyrating wings of colossal genii;
-and the whole of that old church, as tall and rich as a [[Cathedral|cathedral]],
+and the whole of that old church, as tall and rich as a cathedral,
 seemed to sit upon the sunlit country like a cloudburst.
-
-"I think there is something rather dangerous about standing on these high
-places even to pray," said [[Father Brown]].  "Heights were made to be looked at,
-not to be looked from."
-
-"Do you mean that one may fall over," asked Wilfred.
-
-"I mean that one's [[Soul|soul]] may fall if one's [[Body|body]] doesn't,"
-said the other priest.
-
-"I scarcely understand you," remarked Bohun indistinctly.
-
-"Look at that blacksmith, for instance," went on [[Father Brown]] calmly;
-"a good man, but not a Christian--hard, imperious, unforgiving.  [[Well]], his
-Scotch religion was made up by men who prayed on hills and high crags,
-and learnt to look down on the world more than to look up at heaven.
-[[Humility]] is the mother of giants.  One sees great things from the valley;
-only small things from the peak."

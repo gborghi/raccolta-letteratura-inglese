@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 19 (part 2)"
+title: "Persuasion — Chapter 19 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -12,6 +12,18 @@ tags:
 <div class="excerpt-crumb">Austen · <a href="/works/persuasion-(austen)">Persuasion</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_19/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_20/part_01">part 01 ›</a></div>
 </nav>
+
+
+walking.”
+
+
+
+“But it rains.”
+
+
+
+“Oh! very little. Nothing that I regard.”
+
 
 
 After a moment’s pause he said: “Though I came only yesterday, I have

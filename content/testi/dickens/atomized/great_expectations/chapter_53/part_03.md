@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 53 (part 3)"
+title: "Great Expectations — Chapter 53 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -85,7 +85,7 @@ Compeyson, Magwitch, and the gallows!”
 
 He flared the candle at me again, smoking my face and hair, and for an
 instant blinding me, and turned his powerful back as he replaced the
-light on the table. I had thought a [[Prayer|prayer]], and had been with Joe and
+light on the table. I had thought a [[prayer]], and had been with Joe and
 [[Biddy]] and Herbert, before he turned towards me again.
 
 There was a clear space of a few feet between the table and the

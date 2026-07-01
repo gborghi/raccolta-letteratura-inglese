@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity]] — The Miracle of [[Moon]] Crescent"
+title: "Incredulity — The Miracle of Moon Crescent"
 author: "Chesterton"
 unitType: story
 parentWork: "works/incredulity-(chesterton)"
@@ -21,7 +21,7 @@ and the things that happened there were romantic enough in their way.
 At least it had been an expression of that genuine element
 of sentiment--historic and almost heroic--which manages
 to remain side by side with commercialism in the elder cities
-on the eastern coast of [[america|America]].  It was originally a curve
+on the eastern coast of [[America]].  It was originally a curve
 of classical architecture really recalling that eighteenth--
 century atmosphere in which men like Washington and Jefferson
 had seemed to be all the more republicans for being aristocrats.
@@ -780,7 +780,7 @@ The priest tells me that a man can appeal to a God I know
 nothing about to avenge him by the laws of some higher justice
 that I know nothing about.  There's nothing for me to say except
 that I know nothing about it.  But, at least, if the poor
-Paddy's [[prayer]] and [[Pistol|pistol]] could be heard in a higher world,
+Paddy's [[Prayer|prayer]] and [[Pistol|pistol]] could be heard in a higher world,
 that higher world might act in some way that seems odd to us.
 But you ask me to disbelieve the facts of this world as they
 appear to my own five wits.  According to you, a whole procession

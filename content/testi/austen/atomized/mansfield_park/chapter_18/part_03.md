@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 18 (part 3)"
+title: "Mansfield Park — Chapter 18 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/mansfield_park/chapter_18/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/mansfield_park/chapter_19/part_01">part 01 ›</a></div>
 </nav>
 
+
+Surprise, consciousness, and pleasure appeared in each of the three on
+this unexpected meeting; and as [[Edmund]] was come on the very same
+business that had brought Miss Crawford, consciousness and pleasure
+were likely to be more than momentary in _them_. He too had his book,
+and was seeking Fanny, to ask her to rehearse with him, and help him to
+prepare for the evening, without knowing Miss Crawford to be in the
+[[house]]; and great was the joy and animation of being thus thrown
+together, of comparing schemes, and sympathising in praise of Fanny’s
+kind offices.
 
 _She_ could not equal them in their warmth. _Her_ spirits sank under
 the glow of theirs, and she felt herself becoming too nearly nothing to

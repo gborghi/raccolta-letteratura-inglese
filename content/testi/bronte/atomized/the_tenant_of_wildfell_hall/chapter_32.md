@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 32"
+title: "The Tenant of Wildfell Hall — Chapter 32"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -78,7 +78,7 @@ recover breath and rectify our hair, disordered by the rough play and
 
 the frolicsome breeze, while they toddled together along the broad,
 
-sunny walk; my [[arthur|Arthur]] supporting the feebler steps of her little [[Helen]],
+sunny walk; my [[Arthur]] supporting the feebler steps of her little [[Helen]],
 
 and sagaciously pointing out to her the brightest beauties of the
 
@@ -270,7 +270,7 @@ wept for myself for many a week.
 
 It was one rainy day last week; most of the company were killing [[Time|time]]
 
-in the billiard-room, but Milicent and I were with little [[arthur|Arthur]] and
+in the billiard-room, but Milicent and I were with little [[Arthur]] and
 
 [[Helen]] in the library, and between our books, our children, and each
 
@@ -946,7 +946,7 @@ the nursery.”
 
 “No; I want the exercise of a run to the top of the [[house]]. Come,
 
-[[arthur|Arthur]].”
+[[Arthur]].”
 
 
 
@@ -964,7 +964,7 @@ the nursery.”
 
 “At lunch,” said I, departing with little [[Helen]] in one arm and leading
 
-[[arthur|Arthur]] by the hand.
+[[Arthur]] by the hand.
 
 
 
@@ -1054,7 +1054,7 @@ seen no reason to repent of my unwillingness to hear it. The threatened
 
 blow has not been struck yet, and I do not greatly [[Fear|fear]] it. At present
 
-I am pleased with [[arthur|Arthur]]: he has not positively disgraced himself for
+I am pleased with [[Arthur]]: he has not positively disgraced himself for
 
 upwards of a fortnight, and all this last week has been so very
 

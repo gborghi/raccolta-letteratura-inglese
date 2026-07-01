@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]] — Introductory Remarks on the Importance of Orthodoxy"
+title: "heret12 — Introductory Remarks on the Importance of Orthodoxy"
 author: "Chesterton"
 unitType: story
 parentWork: "works/heret12-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 I. Introductory Remarks on the Importance of Orthodoxy
-
 
 Nothing more strangely indicates an enormous and silent evil of modern society
 than the extraordinary use which is made nowadays of the word "orthodox."
@@ -260,7 +259,7 @@ to believe in going back to fundamentals.  Such is the general
 idea of this book.  I wish to deal with my most distinguished
 contemporaries, not personally or in a merely literary manner,
 but in relation to the real [[Body|body]] of doctrine which they teach.
-I am not concerned with Mr. Rudyard Kipling as a vivid [[artist]]
+I am not concerned with Mr. Rudyard Kipling as a vivid [[Artist|artist]]
 or a vigorous personality; I am concerned with him as a Heretic--
 that is to say, a man whose view of things has the hardihood
 to differ from mine.  I am not concerned with Mr. Bernard [[Shaw]]

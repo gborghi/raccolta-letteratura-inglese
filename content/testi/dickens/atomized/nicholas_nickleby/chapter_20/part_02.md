@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 20 (part 2)"
+title: "Nicholas Nickleby — Chapter 20 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_20/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_20/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘I need look somewhat changed,’ he said, after a short [[Silence|silence]]; ‘for
+I have undergone some [[Suffering|suffering]], both of mind and [[Body|body]], since I left
+[[London]]. I have been very poor, too, and have even suffered from want.’
 
 ‘Good Heaven, Mr. Nicholas!’ exclaimed Miss La Creevy, ‘what are you
 telling me?’
@@ -135,6 +139,3 @@ steal away from the sight of honest folks, and skulk in hiding-places,
 like outlaws? Do [[Innocent|innocent]] men inveigle nameless vagabonds, and prowl
 with them about the country as idle robbers do? Assault, riot, theft,
 what do you call these?’
-
-‘A lie!’ cried a voice, as the door was dashed open, and Nicholas came
-into the room.

@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 11: I BEGIN LIFE ON MY OWN ACCOUNT, AND DON’T LIKE IT (part 4)"
+title: "David Copperfield — Chapter 11: I BEGIN LIFE ON MY OWN ACCOUNT, AND DON’T LIKE IT (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -117,10 +117,3 @@ Latin noun or adjective, or to conjugate a Latin verb, in his ear, while
 he transacted my business. After all these occasions Mrs. Micawber made
 a little treat, which was generally a supper; and there was a peculiar
 relish in these meals which I [[Well|well]] remember.
-
-At last Mr. Micawber’s difficulties came to a crisis, and he was
-arrested early one morning, and carried over to the [[King]]’s Bench [[Prison]]
-in the Borough. He told me, as he went out of the [[house]], that the God
-of day had now gone down upon him--and I really thought his heart was
-broken and mine too. But I heard, afterwards, that he was seen to play a
-lively game at skittles, before [[Noon|noon]].

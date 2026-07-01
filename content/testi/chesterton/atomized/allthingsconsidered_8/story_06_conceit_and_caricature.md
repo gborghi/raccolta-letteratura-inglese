@@ -1,5 +1,5 @@
 ---
-title: "[[AllThingsConsidered-8]] — CONCEIT AND CARICATURE"
+title: "AllThingsConsidered-8 — CONCEIT AND CARICATURE"
 author: "Chesterton"
 unitType: story
 parentWork: "works/allthingsconsidered-8-(chesterton)"
@@ -10,12 +10,11 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/allthingsconsidered-8-(chesterton)">AllThingsConsidered 8</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_05_the_vote_and_the_house">‹ Story 05 THE VOTE AND THE HOUSE</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_07_patriotism_and_sport">Story 07 PATRIOTISM AND SPORT ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_05_the_vote_and_the_house_house">‹ Story 05 THE VOTE AND THE house HOUSE</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_07_patriotism_and_sport">Story 07 PATRIOTISM AND SPORT ›</a></div>
 </nav>
 
 
 CONCEIT AND CARICATURE
-
 
 If a man must needs be conceited, it is certainly better that he should be
 conceited about some merits or talents that he does not really possess.

@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 12: TWELVE"
+title: "Martin Chuzzlewit — Chapter 12: TWELVE"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -956,14 +956,14 @@ weather--on foot--without your clothes--with no money?’ cried Tom.
 
 ‘And where?’ cried Tom. ‘Oh where will you go?’
 
-‘I don’t know,’ he said. ‘Yes, I do. I’ll go to [[America]]!’
+‘I don’t know,’ he said. ‘Yes, I do. I’ll go to [[america|America]]!’
 
 ‘No, no,’ cried Tom, in a kind of agony. ‘Don’t go there. Pray don’t.
 Think better of it. Don’t be so dreadfully regardless of yourself. Don’t
-go to [[America]]!’
+go to [[america|America]]!’
 
 ‘My mind is made up,’ he said. ‘Your friend was right. I’ll go to
-[[America]]. God bless you, Pinch!’
+[[america|America]]. God bless you, Pinch!’
 
 ‘Take this!’ cried Tom, pressing a book upon him in great agitation.
 ‘I must make haste back, and can’t say anything I would. Heaven be with

@@ -1,5 +1,5 @@
 ---
-title: "[[ApprAndCritOfChDickens]]"
+title: "ApprAndCritOfChDickens"
 author: "Chesterton"
 unitType: work
 parentWork: "works/apprandcritofchdickens-(chesterton)"
@@ -1733,9 +1733,9 @@ established topics. There is no clearer sign of the absence of
 
 originality among modern poets than their disposition to find new
 
-themes. Really original poets write [[Poems|poems]] about the [[spring]]. They are
+themes. Really original poets write [[Poems|poems]] about the [[Spring|spring]]. They are
 
-always fresh, just as the [[spring]] is always fresh. Men wholly without
+always fresh, just as the [[Spring|spring]] is always fresh. Men wholly without
 
 originality write [[Poems|poems]] about torture, or new religions, of some
 
@@ -1745,9 +1745,9 @@ speak for them. But we do not sufficiently realise that what is true of
 
 the classic ode is also true of the classic joke. A true poet writes
 
-about the [[spring]] being beautiful because (after a thousand springs) the
+about the [[Spring|spring]] being beautiful because (after a thousand springs) the
 
-[[spring]] really is beautiful. In the same way the true humourist writes
+[[Spring|spring]] really is beautiful. In the same way the true humourist writes
 
 about a man sitting down on his hat, because the act of sitting down on
 
@@ -2675,9 +2675,9 @@ friends the evolutionists go wrong. I suppose that there is an instant
 
 of midsummer as there is an instant of midnight. If in the same way
 
-there is a supreme point of [[spring]], _Nicholas Nickleby_ is the supreme
+there is a supreme point of [[Spring|spring]], _Nicholas Nickleby_ is the supreme
 
-point of Dickens's [[spring]]. I do not mean that it is the best book that
+point of Dickens's [[Spring|spring]]. I do not mean that it is the best book that
 
 he wrote in his youth. _Pickwick_ is a better book. I do not mean that
 
@@ -4179,7 +4179,7 @@ which destroys itself.
 
 [[Barnaby Rudge|BARNABY RUDGE]]
 
-_Barnaby Rudge_ was written by Dickens in the [[spring]] and first flowing
+_Barnaby Rudge_ was written by Dickens in the [[Spring|spring]] and first flowing
 
 tide of his popularity; it came immediately after _The Old Curiosity
 
@@ -4357,7 +4357,7 @@ among the fairies or the [[Fool|fool]] in the forest. And his audacious
 
 man who deals in harmonies, who only matches [[Stars|stars]] with angels or lambs
 
-with [[spring]] [[Flowers|flowers]], he indeed may be frivolous; for he is taking one
+with [[Spring|spring]] [[Flowers|flowers]], he indeed may be frivolous; for he is taking one
 
 mood at a [[Time|time]], and perhaps forgetting each mood as it passes. But a man
 
@@ -7823,7 +7823,7 @@ Examine for example this case of the waiter in _Somebody's Luggage_.
 
 Dickens obviously knew enough about that waiter to have made him a
 
-running [[spring]] of joy throughout a whole [[Novel|novel]]; as the beadle is in
+running [[Spring|spring]] of joy throughout a whole [[Novel|novel]]; as the beadle is in
 
 _Oliver Twist_, or the undertaker in _Martin Chuzzlewit_. Every touch of
 

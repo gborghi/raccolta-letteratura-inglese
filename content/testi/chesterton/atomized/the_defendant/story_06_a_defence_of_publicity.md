@@ -16,7 +16,6 @@ tags:
 
 A DEFENCE OF PUBLICITY
 
-
 It is a very significant fact that the form of art in which the modern
 world has certainly not improved upon the ancient is what may roughly be
 called the art of the open air. Public monuments have certainly not
@@ -38,7 +37,7 @@ unconscious eulogies nothing is more striking than the word 'pompous.'
 
 Properly speaking, of course, a public monument ought to be pompous.
 Pomp is its very object; it would be absurd to have columns and pyramids
-blushing in some coy nook like violets in the woods of [[Spring|spring]]. And
+blushing in some coy nook like violets in the woods of [[spring]]. And
 public monuments have in this matter a great and much-needed lesson to
 teach. Valour and [[Mercy|mercy]] and the great enthusiasms ought to be a great
 deal more public than they are at present. We are too fond nowadays of
@@ -156,6 +155,5 @@ if the trees grew with their roots in the air and their load of [[Leaves|leaves]
 and blossoms underground, if the [[Flowers|flowers]] closed at [[Dawn|dawn]] and opened at
 sunset, if the sunflower turned towards the darkness, and the [[Birds|birds]]
 flew, like bats, by [[Night|night]].
-
 
        *       *       *       *       *

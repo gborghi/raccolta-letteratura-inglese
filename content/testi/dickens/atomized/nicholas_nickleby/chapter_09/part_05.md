@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 9 (part 5)"
+title: "Nicholas Nickleby — Chapter 9 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,54 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_09/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_09/part_06">part 06 ›</a></div>
 </nav>
 
+
+It now became Miss Squeers’s turn to intercede with Nicholas, which she
+did with many symptoms of alarm and horror; the effect of the [[Double|double]]
+intercession was, that he and John Browdie shook hands across the table
+with much gravity; and such was the imposing [[Nature|nature]] of the ceremonial,
+that Miss Squeers was overcome and shed [[Tears|tears]].
+
+‘What’s the matter, Fanny?’ said Miss Price.
+
+‘Nothing, ‘Tilda,’ replied Miss Squeers, sobbing.
+
+‘There never was any danger,’ said Miss Price, ‘was there, Mr. Nickleby?’
+
+‘None at all,’ replied Nicholas. ‘Absurd.’
+
+‘That’s right,’ whispered Miss Price, ‘say something kind to her,
+and she’ll soon come round. Here! Shall John and I go into the little
+kitchen, and come back presently?’
+
+‘Not on any account,’ rejoined Nicholas, quite alarmed at the
+proposition. ‘What on earth should you do that for?’
+
+‘[[Well]],’ said Miss Price, beckoning him aside, and speaking with some
+degree of contempt--‘you ARE a one to keep company.’
+
+‘What do you mean?’ said Nicholas; ‘I am not a one to keep company at
+all--here at all events. I can’t make this out.’
+
+‘No, nor I neither,’ rejoined Miss Price; ‘but men are always fickle,
+and always were, and always will be; that I can make out, very easily.’
+
+‘Fickle!’ cried Nicholas; ‘what do you suppose? You don’t mean to say
+that you think--’
+
+‘Oh no, I think nothing at all,’ retorted Miss Price, pettishly.
+‘Look at her, dressed so beautiful and looking so [[Well|well]]--really ALMOST
+handsome. I am ashamed at you.’
+
+‘My dear girl, what have I got to do with her dressing beautifully or
+looking [[Well|well]]?’ inquired Nicholas.
+
+‘Come, don’t call me a dear girl,’ said Miss Price--smiling a little
+though, for she was pretty, and a coquette too in her small way, and
+Nicholas was good-looking, and she supposed him the property of somebody
+else, which were all reasons why she should be gratified to think she
+had made an impression on him,--‘or Fanny will be saying it’s my fault.
+Come; we’re going to have a game at cards.’ Pronouncing these last words
+aloud, she tripped away and rejoined the big Yorkshireman.
 
 This was wholly unintelligible to Nicholas, who had no other distinct
 impression on his mind at the moment, than that Miss Squeers was an
@@ -115,46 +163,3 @@ fist, ‘what I say’s this--Dang my boans and boddy, if I stan’ this ony
 longer. Do ye gang whoam wi’ me, and do yon loight an’ toight young
 whipster look sharp out for a brokken head, next [[Time|time]] he cums under my
 hond.’
-
-‘[[Mercy]] on us, what’s all this?’ cried Miss Price, in affected
-astonishment.
-
-‘Cum whoam, tell ‘e, cum whoam,’ replied the Yorkshireman, sternly. And
-as he delivered the reply, Miss Squeers burst into a shower of [[Tears|tears]];
-arising in part from desperate vexation, and in part from an impotent
-[[Desire|desire]] to lacerate somebody’s countenance with her fair finger-nails.
-
-This state of things had been brought about by divers means and
-workings. Miss Squeers had brought it about, by aspiring to the high
-state and condition of being matrimonially engaged, without good grounds
-for so doing; Miss Price had brought it about, by indulging in three
-motives of action: first, a [[Desire|desire]] to punish her friend for laying
-claim to a rivalship in dignity, having no good title: secondly, the
-gratification of her own [[Vanity|vanity]], in receiving the compliments of a smart
-young man: and thirdly, a wish to convince the corn-factor of the great
-danger he ran, in deferring the celebration of their expected nuptials;
-while Nicholas had brought it about, by half an hour’s gaiety and
-thoughtlessness, and a very sincere [[Desire|desire]] to avoid the imputation of
-inclining at all to Miss Squeers. So the means employed, and the end
-produced, were alike the most natural in the world; for young ladies
-will look forward to being married, and will jostle each other in the
-race to the altar, and will avail themselves of all opportunities of
-displaying their own attractions to the best advantage, down to the very
-end of [[Time|time]], as they have done from its beginning.
-
-‘Why, and here’s Fanny in [[Tears|tears]] now!’ exclaimed Miss Price, as if in
-fresh amazement. ‘What can be the matter?’
-
-‘Oh! you don’t know, miss, of course you don’t know. Pray don’t trouble
-yourself to inquire,’ said Miss Squeers, producing that change of
-countenance which children call making a face.
-
-‘[[Well]], I’m sure!’ exclaimed Miss Price.
-
-‘And who cares whether you are sure or not, ma’am?’ retorted Miss
-Squeers, making another face.
-
-‘You are monstrous polite, ma’am,’ said Miss Price.
-
-‘I shall not come to you to take lessons in the art, ma’am!’ retorted
-Miss Squeers.

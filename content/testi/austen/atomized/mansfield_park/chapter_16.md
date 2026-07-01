@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 16"
+title: "Mansfield Park — Chapter 16"
 author: "Austen"
 unitType: chapter
 parentWork: "works/mansfield-park-(austen)"
@@ -63,7 +63,7 @@ else wanted, though the terms in which she sometimes spoke of the
 indulgence seemed to imply that it was the best room in the [[house]].
 
 The aspect was so favourable that even without a [[Fire|fire]] it was habitable
-in many an early [[spring]] and late [[Autumn|autumn]] morning to such a willing mind
+in many an early [[Spring|spring]] and late [[Autumn|autumn]] morning to such a willing mind
 as Fanny’s; and while there was a gleam of sunshine she hoped not to be
 driven from it entirely, even when [[Winter|winter]] came. The comfort of it in
 her hours of leisure was extreme. She could go there after anything
@@ -138,7 +138,7 @@ play as they could, and now, to complete the business, are going to ask
 the help of a young man very slightly known to any of us. This is the
 end of all the privacy and propriety which was talked about at first. I
 know no harm of Charles Maddox; but the excessive intimacy which must
-[[spring]] from his being admitted among us in this manner is highly
+[[Spring|spring]] from his being admitted among us in this manner is highly
 objectionable, the _more_ than intimacy—the familiarity. I cannot think
 of it with any patience; and it does appear to me an evil of such
 magnitude as must, _if_ _possible_, be prevented. Do not you see it in

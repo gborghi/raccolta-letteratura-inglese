@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]] — On Smart Novelists and the Smart Set"
+title: "heret12 — On Smart Novelists and the Smart Set"
 author: "Chesterton"
 unitType: story
 parentWork: "works/heret12-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 XV.  On Smart Novelists and the Smart Set
-
 
 In one sense, at any rate, it is more valuable to read bad literature
 than good literature.  Good literature may tell us the mind
@@ -356,7 +355,7 @@ Wolfe walked about the room with a drawn [[Sword|sword]] calling himself
 Caesar and Hannibal, and went to [[Death|death]] with poetry in his mouth.
 Clive was a man of the same type as Cromwell or Bunyan, or, for the
 matter of that, Johnson--that is, he was a strong, sensible man
-with a kind of running [[Spring|spring]] of hysteria and [[Melancholy|melancholy]] in him.
+with a kind of running [[spring]] of hysteria and [[Melancholy|melancholy]] in him.
 Like Johnson, he was all the more healthy because he was morbid.
 The tales of all the admirals and adventurers of that England are
 full of braggadocio, of sentimentality, of splendid affectation.

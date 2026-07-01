@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 52 (part 2)"
+title: "Barnaby Rudge — Chapter 52 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_52/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_53/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘Ah!’ said Hugh at length, carrying it off with a laugh: ‘He’s a rare
+fellow is Barnaby, and can do more, with less rest, or meat, or drink,
+than any of us. As to his soldiering, I put him on duty there.’
 
 ‘Then there was a object in it, and a proper good one too, I’ll be
 sworn,’ retorted Dennis with a broad grin, and an oath of the same

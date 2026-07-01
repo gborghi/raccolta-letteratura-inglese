@@ -1,5 +1,5 @@
 ---
-title: "[[queertrades]] — Chapter 2 (part 4)"
+title: "queertrades — Chapter 2 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/queertrades-(chesterton)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/queertrades/story_02_chapter_2/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/queertrades/story_02_chapter_2/part_05">part 05 ›</a></div>
 </nav>
 
+
+"I only ask," said Basil, "because of the last two friends of yours
+who had the modern mind; one thought it wrong to eat fishes
+and the other thought it right to eat men.  I beg your pardon--
+this way, if I remember right."
 
 "Do you know," said Lord Beaumont, with a sort of feverish entertainment,
 as he trotted after us towards the interior, "I can never quite
@@ -142,7 +147,3 @@ have just invited you and me to a grand dinner-party this very [[Night|night]],
 at which Mr Wimpole will be in all his glory.  [[Well]], there is nothing
 very extraordinary about that.  The extraordinary thing is that we
 are not going."
-
-"[[Well]], really," I said, "it is already six o'[[Clock|clock]] and I [[Doubt|doubt]] if we
-could get [[Home|home]] and dress.  I see nothing extraordinary in the fact
-that we are not going."

@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 20 (part 1)"
+title: "Persuasion — Chapter 20 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -231,7 +231,3 @@ thought your last impressions of Lyme must have been strong disgust.”
 [[Pain|pain]] is over, the remembrance of it often becomes a pleasure. One does
 
 not [[Love|love]] a place the less for having suffered in it, unless it has been
-
-all [[Suffering|suffering]], nothing but [[Suffering|suffering]], which was by no means the case at
-
-Lyme. We were only in anxiety and distress during the last two hours,

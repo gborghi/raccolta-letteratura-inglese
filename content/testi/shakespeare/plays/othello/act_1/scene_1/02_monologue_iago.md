@@ -1,5 +1,5 @@
 ---
-title: "[[Othello]] — Act I, Scene 1 — monologue ([[Iago|IAGO]]) [2]"
+title: "Othello — Act I, Scene 1 — monologue (IAGO) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/othello-(shakespeare)"

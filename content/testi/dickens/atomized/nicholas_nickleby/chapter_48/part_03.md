@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 48 (part 3)"
+title: "Nicholas Nickleby — Chapter 48 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_48/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_48/part_04">part 04 ›</a></div>
 </nav>
 
+
+He availed himself of this interval to buy a silver snuff-box--the best
+his funds would afford--as a token of remembrance for Mr. Crummles,
+and having purchased besides a pair of ear-rings for Mrs. Crummles, a
+necklace for the Phenomenon, and a flaming shirt-pin for each of the
+young gentlemen, he refreshed himself with a walk, and returning a
+little after the appointed [[Time|time]], found the lights out, the theatre
+empty, the curtain raised for the [[Night|night]], and Mr. Crummles walking up and
+down the stage expecting his arrival.
 
 ‘Timberry won’t be long,’ said Mr. Crummles. ‘He played the audience out
 tonight. He does a faithful black in the last piece, and it takes him a
@@ -120,26 +129,3 @@ Nicholas, politely.
 ‘Sir,’ replied the wit, ‘you’re very welcome, I’m sure. The [[Honour|honour]] is
 reciprocal, sir, as I usually say when I dramatise a book. Did you ever
 hear a definition of fame, sir?’
-
-‘I have heard several,’ replied Nicholas, with a smile. ‘What is yours?’
-
-‘When I dramatise a book, sir,’ said the literary gentleman, ‘THAT’S
-fame. For its author.’
-
-‘Oh, indeed!’ rejoined Nicholas.
-
-‘That’s fame, sir,’ said the literary gentleman.
-
-‘So [[Richard]] Turpin, Tom [[King]], and Jerry Abershaw have handed down to
-fame the names of those on whom they committed their most impudent
-robberies?’ said Nicholas.
-
-‘I don’t know anything about that, sir,’ answered the literary
-gentleman.
-
-‘Shakespeare dramatised stories which had previously appeared in print,
-it is true,’ observed Nicholas.
-
-‘Meaning Bill, sir?’ said the literary gentleman. ‘So he did. Bill
-was an adapter, certainly, so he was--and very [[Well|well]] he adapted
-too--considering.’

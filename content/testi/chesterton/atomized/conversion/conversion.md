@@ -1,5 +1,5 @@
 ---
-title: "[[conversion]]"
+title: "conversion"
 author: "Chesterton"
 unitType: work
 parentWork: "works/conversion-(chesterton)"
@@ -175,7 +175,7 @@ They talk of the "advanced" party in the Church of England;
 they talk of the "aggression" of the Church of Rome.  When they
 talk of an Extremist they are as likely to mean a Ritualist
 as a Socialist.  Given any normal respectable Protestant family,
-Anglican or Puritan, in England or [[america|America]], we shall find
+Anglican or Puritan, in England or [[America]], we shall find
 that Catholicism is actually for practical purposes treated
 as a new religion, that is, a revolution.  It is not a [[Survival|survival]].
 It is not in that sense an antiquity.  It does not necessarily
@@ -1782,7 +1782,7 @@ understand is that of the pagan and not the Puritan; and upon
 that antique [[conversion]] is founded the whole world that we know.
 It is a transformation far more vast and tremendous
 than anything that has been meant for many years past,
-at least in England and [[america|America]], by a sectarian controversy
+at least in England and [[America]], by a sectarian controversy
 or a doctrinal division.  On the height of that ancient empire
 and that international experience, humanity had a vision.
 It has not had another; but only quarrels about that one.

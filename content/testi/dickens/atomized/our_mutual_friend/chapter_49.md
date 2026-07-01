@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 8"
+title: "Our Mutual Friend — Chapter 11"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,541 +14,452 @@ tags:
 </nav>
 
 
-Chapter 8
-
-THE END OF A LONG [[Journey|JOURNEY]]
-
-
-The train of carts and horses came and went all day from [[Dawn|dawn]] to
-nightfall, making little or no daily impression on the heap of ashes,
-though, as the days passed on, the heap was seen to be slowly melting.
-My lords and gentlemen and honourable boards, when you in the course
-of your [[Dust|dust]]-shovelling and cinder-raking have piled up a mountain of
-pretentious failure, you must off with your honourable coats for the
-removal of it, and fall to the work with the power of all the [[Queen|queen]]’s
-horses and all the [[Queen|queen]]’s men, or it will come rushing down and bury us
-alive.
-
-Yes, verily, my lords and gentlemen and honourable boards, adapting your
-Catechism to the occasion, and by God’s help so you must. For when we
-have got things to the pass that with an enormous treasure at disposal
-to relieve the poor, the best of the poor detest our mercies, hide their
-heads from us, and shame us by starving to [[Death|death]] in the midst of us, it
-is a pass impossible of prosperity, impossible of continuance. It may
-not be so written in the Gospel according to Podsnappery; you may not
-‘find these words’ for the text of a sermon, in the Returns of the Board
-of Trade; but they have been the [[Truth|truth]] since the foundations of the
-universe were laid, and they will be the [[Truth|truth]] until the foundations of
-the universe are shaken by the Builder. This boastful handiwork of
-ours, which fails in its terrors for the professional pauper, the sturdy
-breaker of windows and the rampant tearer of clothes, strikes with a
-cruel and a wicked stab at the stricken sufferer, and is a horror to
-the deserving and unfortunate. We must mend it, lords and gentlemen and
-honourable boards, or in its own evil hour it will mar every one of us.
-
-Old Betty Higden fared upon her pilgrimage as many ruggedly honest
-creatures, women and men, fare on their toiling way along the roads
-of life. Patiently to earn a spare bare living, and quietly to die,
-untouched by workhouse hands—this was her highest sublunary [[Hope|hope]].
-
-Nothing had been heard of her at Mr Boffin’s [[house]] since she trudged
-off. The weather had been hard and the roads had been bad, and her
-spirit was up. A less stanch spirit might have been subdued by such
-adverse influences; but the loan for her little outfit was in no part
-repaid, and it had gone worse with her than she had foreseen, and she
-was put upon proving her case and maintaining her independence.
-
-Faithful [[Soul|soul]]! When she had spoken to the Secretary of that ‘deadness
-that steals over me at times’, her fortitude had made too little of it.
-Oftener and ever oftener, it came stealing over her; darker and ever
-darker, like the [[Shadow|shadow]] of advancing [[Death]]. That the [[Shadow|shadow]] should
-be deep as it came on, like the [[Shadow|shadow]] of an actual presence, was in
-accordance with the laws of the physical world, for all the Light that
-shone on Betty Higden lay beyond [[Death]].
-
-The poor old creature had taken the upward course of the [[River Thames|river Thames]] as
-her general track; it was the track in which her last [[Home|home]] lay, and of
-which she had last had local [[Love|love]] and knowledge. She had hovered for a
-little while in the near neighbourhood of her abandoned dwelling, and
-had sold, and knitted and sold, and gone on. In the pleasant towns of
-Chertsey, Walton, Kingston, and Staines, her figure came to be quite
-[[Well|well]] known for some short weeks, and then again passed on.
-
-She would take her stand in market-places, where there were such things,
-on market days; at other times, in the busiest (that was seldom very
-busy) portion of the little quiet High Street; at still other times she
-would explore the outlying roads for great houses, and would ask leave
-at the Lodge to pass in with her basket, and would not often get it. But
-ladies in carriages would frequently make purchases from her trifling
-stock, and were usually pleased with her bright eyes and her hopeful
-speech. In these and her clean dress originated a [[Fable|fable]] that she was
-[[Well|well]] to do in the world: one might say, for her station, rich. As making
-a comfortable provision for its subject which costs nobody anything,
-this class of [[Fable|fable]] has long been popular.
-
-In those pleasant little towns on Thames, you may hear the fall of
-the [[Water|water]] over the weirs, or even, in still weather, the rustle of the
-rushes; and from the bridge you may see the young [[River|river]], dimpled like a
-young [[Child|child]], playfully gliding away among the trees, unpolluted by the
-defilements that lie in wait for it on its course, and as yet out of
-hearing of the deep summons of the sea. It were too much to pretend that
-Betty Higden made out such thoughts; no; but she heard the tender [[River|river]]
-whispering to many like herself, ‘Come to me, come to me! When the cruel
-shame and terror you have so long fled from, most beset you, come to me!
-I am the Relieving Officer appointed by eternal ordinance to do my work;
-I am not held in estimation according as I shirk it. My breast is softer
-than the pauper-[[Nurse|nurse]]’s; [[Death|death]] in my arms is peacefuller than among the
-pauper-wards. Come to me!’
-
-There was abundant place for gentler fancies too, in her untutored mind.
-Those gentlefolks and their children inside those fine houses, could
-they think, as they looked out at her, what it was to be really hungry,
-really cold? Did they feel any of the [[Wonder|wonder]] about her, that she felt
-about them? Bless the dear laughing children! If they could have seen
-sick Johnny in her arms, would they have cried for pity? If they could
-have seen dead Johnny on that little bed, would they have understood it?
-Bless the dear children for his sake, anyhow! So with the humbler houses
-in the little street, the inner firelight shining on the panes as the
-outer twilight darkened. When the families gathered in-doors there, for
-the [[Night|night]], it was only a foolish fancy to feel as if it were a little
-hard in them to close the shutter and blacken the flame. So with the
-lighted shops, and speculations whether their masters and mistresses
-taking tea in a perspective of back-parlour—not so far within but that
-the flavour of tea and toast came out, mingled with the glow of light,
-into the street—ate or drank or wore what they sold, with the greater
-relish because they dealt in it. So with the churchyard on a branch of
-the solitary way to the [[Night|night]]’s sleeping-place. ‘Ah me! The dead and
-I seem to have it pretty much to ourselves in the dark and in this
-weather! But so much the better for all who are warmly housed at [[Home|home]].’
-The poor [[Soul|soul]] envied no one in bitterness, and grudged no one anything.
-
-But, the old abhorrence grew stronger on her as she grew weaker, and
-it found more sustaining food than she did in her wanderings. Now, she
-would light upon the shameful spectacle of some desolate creature—or
-some wretched ragged groups of either sex, or of both sexes, with
-children among them, huddled together like the smaller vermin for
-a little warmth—lingering and lingering on a doorstep, while the
-appointed evader of the public trust did his dirty office of trying to
-weary them out and so get rid of them. Now, she would light upon some
-poor decent person, like herself, going afoot on a pilgrimage of
-many weary miles to see some worn-out relative or friend who had been
-charitably clutched off to a great blank barren [[Union]] [[house|House]], as far from
-old [[Home|home]] as the County Jail (the remoteness of which is always its worst
-punishment for small rural offenders), and in its dietary, and in
-its lodging, and in its tending of the sick, a much more penal
-establishment. Sometimes she would hear a newspaper read out, and would
-learn how the Registrar General cast up the units that had within the
-last week died of want and of exposure to the weather: for which that
-Recording Angel seemed to have a regular fixed place in his sum, as if
-they were its halfpence. All such things she would hear discussed, as
-we, my lords and gentlemen and honourable boards, in our unapproachable
-magnificence never hear them, and from all such things she would fly
-with the wings of raging [[Despair]].
-
-This is not to be received as a figure of speech. Old Betty Higden
-however tired, however footsore, would start up and be driven away
-by her awakened horror of falling into the hands of [[Charity]]. It is a
-remarkable Christian improvement, to have made a pursuing Fury of the
-Good Samaritan; but it was so in this case, and it is a type of many,
-many, many.
-
-Two incidents united to intensify the old unreasoning
-abhorrence—granted in a previous place to be unreasoning, because the
-people always are unreasoning, and invariably make a point of producing
-all their smoke without [[Fire|fire]].
-
-One day she was sitting in a market-place on a bench outside an inn,
-with her little wares for sale, when the deadness that she strove
-against came over her so heavily that the scene departed from before
-her eyes; when it returned, she found herself on the ground, her head
-supported by some good-natured market-women, and a little crowd about
-her.
-
-‘Are you better now, mother?’ asked one of the women. ‘Do you think you
-can do nicely now?’
-
-‘Have I been ill then?’ asked old Betty.
-
-‘You have had a faint like,’ was the answer, ‘or a fit. It ain’t that
-you’ve been a-struggling, mother, but you’ve been stiff and numbed.’
-
-‘Ah!’ said Betty, recovering her [[Memory|memory]]. ‘It’s the numbness. Yes. It
-comes over me at times.’
-
-Was it gone? the women asked her.
-
-‘It’s gone now,’ said Betty. ‘I shall be stronger than I was afore.
-Many thanks to ye, my dears, and when you come to be as old as I am, may
-others do as much for you!’
-
-They assisted her to rise, but she could not stand yet, and they
-supported her when she sat down again upon the bench.
-
-‘My head’s a bit light, and my feet are a bit heavy,’ said old Betty,
-leaning her face drowsily on the breast of the woman who had spoken
-before. ‘They’ll both come nat’ral in a minute. There’s nothing more the
-matter.’
-
-‘Ask her,’ said some farmers standing by, who had come out from their
-market-dinner, ‘who belongs to her.’
-
-‘Are there any folks belonging to you, mother?’ said the woman.
-
-‘Yes sure,’ answered Betty. ‘I heerd the gentleman say it, but I
-couldn’t answer quick enough. There’s plenty belonging to me. Don’t ye
-[[Fear|fear]] for me, my dear.’
-
-‘But are any of ’em near here?’ said the men’s voices; the women’s
-voices chiming in when it was said, and prolonging the strain.
-
-‘Quite near enough,’ said Betty, rousing herself. ‘Don’t ye be afeard
-for me, neighbours.’
-
-‘But you are not fit to travel. Where are you going?’ was the next
-compassionate [[Chorus|chorus]] she heard.
-
-‘I’m a going to [[London]] when I’ve sold out all,’ said Betty, rising with
-difficulty. ‘I’ve right good friends in [[London]]. I want for nothing. I
-shall come to no harm. Thankye. Don’t ye be afeard for me.’
-
-A [[Well|well]]-meaning bystander, yellow-legginged and purple-faced, said
-hoarsely over his red comforter, as she [[Rose|rose]] to her feet, that she
-‘oughtn’t to be let to go’.
-
-‘For the Lord’s [[Love|love]] don’t meddle with me!’ cried old Betty, all her
-fears crowding on her. ‘I am quite [[Well|well]] now, and I must go this minute.’
-
-She caught up her basket as she spoke and was making an unsteady rush
-away from them, when the same bystander checked her with his hand on
-her sleeve, and urged her to come with him and see the parish-doctor.
-Strengthening herself by the utmost exercise of her resolution, the poor
-trembling creature shook him off, almost fiercely, and took to flight.
-Nor did she feel safe until she had set a mile or two of by-[[Road|road]] between
-herself and the marketplace, and had crept into a copse, like a hunted
-animal, to hide and recover breath. Not until then for the first [[Time|time]]
-did she venture to recall how she had looked over her shoulder before
-turning out of the town, and had seen the sign of the White [[Lion]] hanging
-across the [[Road|road]], and the fluttering market booths, and the old grey
-church, and the little crowd gazing after her but not attempting to
-follow her.
-
-The second frightening incident was this. She had been again as bad, and
-had been for some days better, and was travelling along by a part of
-the [[Road|road]] where it touched the [[River|river]], and in wet [[Seasons|seasons]] was so often
-overflowed by it that there were tall white posts set up to mark the
-way. A barge was being towed towards her, and she sat down on the bank
-to rest and watch it. As the tow-rope was slackened by a turn of the
-stream and dipped into the [[Water|water]], such a confusion stole into her
-mind that she thought she saw the forms of her dead children and dead
-grandchildren peopling the barge, and waving their hands to her in
-solemn measure; then, as the rope tightened and came up, dropping
-diamonds, it seemed to vibrate into two parallel ropes and strike her,
-with a twang, though it was far off. When she looked again, there was no
-barge, no [[River|river]], no daylight, and a man whom she had never before seen
-held a candle close to her face.
-
-‘Now, Missis,’ said he; ‘where did you come from and where are you going
-to?’
-
-The poor [[Soul|soul]] confusedly asked the counter-question where she was?
-
-‘I am the Lock,’ said the man.
-
-‘The Lock?’
-
-‘I am the Deputy Lock, on job, and this is the Lock-[[house]]. (Lock or
-Deputy Lock, it’s all one, while the t’other man’s in the hospital.)
-What’s your Parish?’
-
-‘Parish!’ She was up from the truckle-bed directly, wildly feeling about
-her for her basket, and gazing at him in affright.
-
-‘You’ll be asked the question down town,’ said the man. ‘They won’t let
-you be more than a Casual there. They’ll pass you on to your settlement,
-Missis, with all [[Speed|speed]]. You’re not in a state to be let come upon
-strange parishes ’ceptin as a Casual.’
-
-‘’Twas the deadness again!’ murmured Betty Higden, with her hand to her
-head.
-
-‘It was the deadness, there’s not a [[Doubt|doubt]] about it,’ returned the man.
-‘I should have thought the deadness was a mild word for it, if it had
-been named to me when we brought you in. Have you got any friends,
-Missis?’
-
-‘The best of friends, Master.’
-
-‘I should recommend your looking ’em up if you consider ’em game to do
-anything for you,’ said the Deputy Lock. ‘Have you got any money?’
-
-‘Just a morsel of money, sir.’
-
-‘Do you want to keep it?’
-
-‘Sure I do!’
-
-‘[[Well]], you know,’ said the Deputy Lock, shrugging his shoulders with his
-hands in his pockets, and shaking his head in a sulkily ominous manner,
-‘the parish authorities down town will have it out of you, if you go on,
-you may take your Alfred David.’
-
-‘Then I’ll not go on.’
-
-‘They’ll make you pay, as fur as your money will go,’ pursued the
-Deputy, ‘for your relief as a Casual and for your being passed to your
-Parish.’
-
-‘Thank ye kindly, Master, for your warning, thank ye for your shelter,
-and good [[Night|night]].’
-
-‘Stop a bit,’ said the Deputy, striking in between her and the door.
-‘Why are you all of a shake, and what’s your hurry, Missis?’
-
-‘Oh, Master, Master,’ returned Betty Higden, ‘I’ve fought against the
-Parish and fled from it, all my life, and I want to die free of it!’
-
-‘I don’t know,’ said the Deputy, with deliberation, ‘as I ought to let
-you go. I’m a honest man as gets my living by the sweat of my brow, and
-I may fall into trouble by letting you go. I’ve fell into trouble afore
-now, by George, and I know what it is, and it’s made me careful. You
-might be took with your deadness again, half a mile off—or half of half
-a quarter, for the matter of that—and then it would be asked, Why did
-that there honest Deputy Lock, let her go, instead of putting her safe
-with the Parish? That’s what a man of his character ought to have done,
-it would be argueyfied,’ said the Deputy Lock, cunningly harping on the
-strong string of her terror; ‘he ought to have handed her over safe to
-the Parish. That was to be expected of a man of his merits.’
-
-As he stood in the doorway, the poor old careworn wayworn woman burst
-into [[Tears|tears]], and clasped her hands, as if in a very agony she prayed to
-him.
-
-‘As I’ve told you, Master, I’ve the best of friends. This letter will
-show how true I spoke, and they will be thankful for me.’
-
-The Deputy Lock opened the letter with a [[Grave|grave]] face, which underwent no
-change as he eyed its contents. But it might have done, if he could have
-read them.
-
-‘What amount of small change, Missis,’ he said, with an abstracted air,
-after a little meditation, ‘might you call a morsel of money?’
-
-Hurriedly emptying her pocket, old Betty laid down on the table, a
-shilling, and two sixpenny pieces, and a few pence.
-
-‘If I was to let you go instead of handing you over safe to the Parish,’
-said the Deputy, counting the money with his eyes, ‘might it be your own
-free wish to leave that there behind you?’
-
-‘Take it, Master, take it, and welcome and thankful!’
-
-‘I’m a man,’ said the Deputy, giving her back the letter, and pocketing
-the coins, one by one, ‘as earns his living by the sweat of his brow;’
-here he drew his sleeve across his forehead, as if this particular
-portion of his humble gains were the result of sheer hard labour and
-virtuous industry; ‘and I won’t stand in your way. Go where you like.’
-
-She was gone out of the Lock-[[house]] as soon as he gave her this
-permission, and her tottering steps were on the [[Road|road]] again. But, afraid
-to go back and afraid to go forward; seeing what she fled from, in the
-sky-glare of the lights of the little town before her, and leaving a
-confused horror of it everywhere behind her, as if she had escaped it
-in every stone of every market-place; she struck off by side ways, among
-which she got bewildered and lost. That [[Night|night]] she took refuge from the
-Samaritan in his latest accredited form, under a farmer’s rick; and
-if—worth thinking of, perhaps, my fellow-Christians—the Samaritan had
-in the lonely [[Night|night]], ‘passed by on the other side’, she would have most
-devoutly thanked High Heaven for her escape from him.
-
-The morning found her afoot again, but fast declining as to the
-clearness of her thoughts, though not as to the steadiness of her
-purpose. Comprehending that her strength was quitting her, and that the
-struggle of her life was almost ended, she could neither reason out the
-means of getting back to her protectors, nor even form the idea. The
-overmastering dread, and the proud stubborn resolution it engendered
-in her to die undegraded, were the two distinct impressions left in her
-failing mind. Supported only by a sense that she was bent on conquering
-in her life-long fight, she went on.
-
-The [[Time|time]] was come, now, when the wants of this little life were passing
-away from her. She could not have swallowed food, though a table had
-been spread for her in the next field. The day was cold and wet, but
-she scarcely knew it. She crept on, poor [[Soul|soul]], like a criminal afraid of
-being taken, and felt little beyond the terror of falling down while it
-was yet daylight, and being found alive. She had no [[Fear|fear]] that she would
-live through another [[Night|night]].
-
-Sewn in the breast of her gown, the money to pay for her burial was
-still intact. If she could wear through the day, and then lie down to
-die under cover of the darkness, she would die independent. If she were
-captured previously, the money would be taken from her as a pauper who
-had no right to it, and she would be carried to the accursed workhouse.
-Gaining her end, the letter would be found in her breast, along with
-the money, and the gentlefolks would say when it was given back to them,
-‘She prized it, did old Betty Higden; she was true to it; and while she
-lived, she would never let it be disgraced by falling into the hands
-of those that she held in horror.’ Most illogical, inconsequential, and
-light-headed, this; but travellers in the valley of the [[Shadow|shadow]] of [[Death|death]]
-are apt to be light-headed; and worn-out old people of low estate have
-a trick of reasoning as indifferently as they live, and doubtless
-would appreciate our Poor Law more philosophically on an income of ten
-thousand a year.
-
-So, keeping to byways, and shunning human approach, this troublesome
-old woman hid herself, and fared on all through the dreary day. Yet so
-unlike was she to vagrant hiders in general, that sometimes, as the day
-advanced, there was a bright [[Fire|fire]] in her eyes, and a quicker beating at
-her feeble heart, as though she said exultingly, ‘The Lord will see me
-through it!’
-
-By what visionary hands she was led along upon that [[Journey|journey]] of escape
-from the Samaritan; by what voices, hushed in the [[Grave|grave]], she seemed
-to be addressed; how she fancied the dead [[Child|child]] in her arms again, and
-times innumerable adjusted her shawl to keep it warm; what infinite
-variety of forms of tower and roof and steeple the trees took; how many
-furious horsemen rode at her, crying, ‘There she goes! Stop! Stop,
-Betty Higden!’ and melted away as they came close; be these things left
-untold. Faring on and hiding, hiding and faring on, the poor harmless
-creature, as though she were a Murderess and the whole country were up
-after her, wore out the day, and gained the [[Night|night]].
-
-‘[[Water]]-meadows, or such like,’ she had sometimes murmured, on the day’s
-pilgrimage, when she had raised her head and taken any note of the real
-objects about her. There now arose in the darkness, a great building,
-full of lighted windows. Smoke was issuing from a high chimney in
-the rear of it, and there was the sound of a [[Water|water]]-[[Wheel|wheel]] at the side.
-Between her and the building, lay a piece of [[Water|water]], in which the lighted
-windows were reflected, and on its nearest margin was a plantation of
-trees. ‘I humbly thank the Power and the Glory,’ said Betty Higden,
-holding up her withered hands, ‘that I have come to my [[Journey|journey]]’s end!’
-
-She crept among the trees to the trunk of a tree whence she could see,
-beyond some intervening trees and branches, the lighted windows, both in
-their reality and their reflection in the [[Water|water]]. She placed her orderly
-little basket at her side, and sank upon the ground, supporting herself
-against the tree. It brought to her mind the foot of the [[Cross]], and
-she committed herself to Him who died upon it. Her strength held out to
-enable her to arrange the letter in her breast, so as that it could
-be seen that she had a paper there. It had held out for this, and it
-departed when this was done.
-
-‘I am safe here,’ was her last benumbed thought. ‘When I am found dead
-at the foot of the [[Cross]], it will be by some of my own sort; some of
-the working people who work among the lights yonder. I cannot see the
-lighted windows now, but they are there. I am thankful for all!’
-
-
-The darkness gone, and a face bending down.
-
-‘It cannot be the boofer lady?’
-
-‘I don’t understand what you say. Let me wet your lips again with this
-brandy. I have been away to fetch it. Did you think that I was long
-gone?’
-
-It is as the face of a woman, shaded by a quantity of rich dark hair.
-It is the earnest face of a woman who is young and handsome. But all is
-over with me on earth, and this must be an Angel.
-
-‘Have I been long dead?’
-
-‘I don’t understand what you say. Let me wet your lips again. I hurried
-all I could, and brought no one back with me, lest you should die of the
-shock of strangers.’
-
-‘Am I not dead?’
-
-‘I cannot understand what you say. Your voice is so low and broken that
-I cannot hear you. Do you hear me?’
-
-‘Yes.’
-
-‘Do you mean Yes?’
-
-‘Yes.’
-
-‘I was coming from my work just now, along the path outside (I was up
-with the [[Night|night]]-hands last [[Night|night]]), and I heard a groan, and found you
-lying here.’
-
-‘What work, deary?’
-
-‘Did you ask what work? At the paper-mill.’
-
-‘Where is it?’
-
-‘Your face is turned up to the sky, and you can’t see it. It is close
-by. You can see my face, here, between you and the sky?’
-
-‘Yes.’
-
-‘Dare I lift you?’
-
-‘Not yet.’
-
-‘Not even lift your head to get it on my arm? I will do it by very
-gentle degrees. You shall hardly feel it.’
-
-‘Not yet. Paper. Letter.’
-
-‘This paper in your breast?’
-
-‘Bless ye!’
-
-‘Let me wet your lips again. Am I to open it? To read it?’
-
-‘Bless ye!’
-
-She reads it with surprise, and looks down with a new expression and an
-added interest on the motionless face she kneels beside.
-
-‘I know these names. I have heard them often.’
-
-‘Will you send it, my dear?’
-
-‘I cannot understand you. Let me wet your lips again, and your forehead.
-There. O poor thing, poor thing!’ These words through her fast-dropping
-[[Tears|tears]]. ‘What was it that you asked me? Wait till I bring my ear quite
-close.’
-
-‘Will you send it, my dear?’
-
-‘Will I send it to the writers? Is that your wish? Yes, certainly.’
-
-‘You’ll not give it up to any one but them?’
+Chapter 11
+
+IN THE DARK
+
+
+There was no [[Sleep|sleep]] for [[Bradley Headstone]] on that [[Night|night]] when Eugene
+Wrayburn turned so easily in his bed; there was no [[Sleep|sleep]] for little
+Miss Peecher. Bradley consumed the lonely hours, and consumed himself in
+haunting the spot where his careless rival lay a dreaming; little Miss
+Peecher wore them away in listening for the return [[Home|home]] of the master
+of her heart, and in sorrowfully presaging that much was amiss with him.
+Yet more was amiss with him than Miss Peecher’s simply arranged little
+work-box of thoughts, fitted with no gloomy and dark recesses, could
+hold. For, the state of the man was murderous.
+
+The state of the man was murderous, and he knew it. More; he irritated
+it, with a kind of perverse pleasure akin to that which a sick man
+sometimes has in irritating a wound upon his [[Body|body]]. Tied up all day with
+his disciplined show upon him, subdued to the performance of his routine
+of educational tricks, encircled by a gabbling crowd, he broke loose at
+[[Night|night]] like an ill-tamed wild animal. Under his daily restraint, it was
+his compensation, not his trouble, to give a glance towards his state at
+[[Night|night]], and to the [[Freedom|freedom]] of its being indulged. If great criminals told
+the [[Truth|truth]]—which, being great criminals, they do not—they would very
+rarely tell of their struggles against the crime. Their struggles are
+towards it. They buffet with opposing waves, to gain the bloody shore,
+not to recede from it. This man perfectly comprehended that he hated his
+rival with his strongest and worst forces, and that if he tracked him to
+[[Lizzie Hexam]], his so doing would never serve himself with her, or serve
+her. All his pains were taken, to the end that he might incense himself
+with the sight of the detested figure in her company and favour, in her
+place of concealment. And he knew as [[Well|well]] what act of his would follow
+if he did, as he knew that his mother had borne him. Granted, that he
+may not have held it necessary to make express mention to himself of the
+one familiar [[Truth|truth]] any more than of the other.
+
+He knew equally [[Well|well]] that he fed his wrath and hatred, and that he
+accumulated provocation and [[Self|self]]-justification, by being made the
+nightly sport of the reckless and insolent Eugene. Knowing all
+this,—and still always going on with infinite [[Endurance|endurance]], pains, and
+perseverance, could his dark [[Soul|soul]] [[Doubt|doubt]] whither he went?
+
+Baffled, exasperated, and weary, he lingered opposite the Temple gate
+when it closed on Wrayburn and Lightwood, debating with himself should
+he go [[Home|home]] for that [[Time|time]] or should he watch longer. Possessed in his
+[[Jealousy|jealousy]] by the fixed idea that Wrayburn was in the secret, if it were
+not altogether of his contriving, Bradley was as confident of getting
+the better of him at last by sullenly sticking to him, as he would have
+been—and often had been—of mastering any piece of study in the way
+of his vocation, by the like slow persistent process. A man of rapid
+passions and sluggish intelligence, it had served him often and should
+serve him again.
+
+The suspicion crossed him as he rested in a doorway with his eyes upon
+the Temple gate, that perhaps she was even concealed in that set of
+Chambers. It would furnish another reason for Wrayburn’s purposeless
+walks, and it might be. He thought of it and thought of it, until
+he resolved to steal up the stairs, if the gatekeeper would let him
+through, and listen. So, the haggard head suspended in the air flitted
+across the [[Road|road]], like the spectre of one of the many heads erst hoisted
+upon neighbouring Temple Bar, and stopped before the watchman.
+
+The watchman looked at it, and asked: ‘Who for?’
+
+‘Mr Wrayburn.’
+
+‘It’s very late.’
+
+‘He came back with Mr Lightwood, I know, near upon two hours ago. But if
+he has gone to bed, I’ll put a paper in his letter-box. I am expected.’
+
+The watchman said no more, but opened the gate, though rather
+doubtfully. Seeing, however, that the visitor went straight and fast in
+the right direction, he seemed satisfied.
+
+The haggard head floated up the dark staircase, and softly descended
+nearer to the floor outside the outer door of the chambers. The doors
+of the rooms within, appeared to be standing open. There were rays of
+candlelight from one of them, and there was the sound of a footstep
+going about. There were two voices. The words they uttered were not
+distinguishable, but they were both the voices of men. In a few moments
+the voices were silent, and there was no sound of footstep, and the
+inner light went out. If Lightwood could have seen the face which kept
+him awake, staring and listening in the darkness outside the door as
+he spoke of it, he might have been less disposed to [[Sleep|sleep]], through the
+remainder of the [[Night|night]].
+
+‘Not there,’ said Bradley; ‘but she might have been.’ The head arose to
+its former height from the ground, floated down the stair-case again,
+and passed on to the gate. A man was standing there, in parley with the
+watchman.
+
+‘Oh!’ said the watchman. ‘Here he is!’
+
+Perceiving himself to be the antecedent, Bradley looked from the
+watchman to the man.
+
+‘This man is leaving a letter for Mr Lightwood,’ the watchman explained,
+showing it in his hand; ‘and I was mentioning that a person had just
+gone up to Mr Lightwood’s chambers. It might be the same business
+perhaps?’
+
+‘No,’ said Bradley, glancing at the man, who was a stranger to him.
+
+‘No,’ the man assented in a surly way; ‘my letter—it’s wrote by my
+daughter, but it’s mine—is about my business, and my business ain’t
+nobody else’s business.’
+
+As Bradley passed out at the gate with an undecided foot, he heard it
+shut behind him, and heard the footstep of the man coming after him.
+
+‘’Scuse me,’ said the man, who appeared to have been drinking and rather
+stumbled at him than touched him, to attract his attention: ‘but might
+you be acquainted with the T’other Governor?’
+
+‘With whom?’ asked Bradley.
+
+‘With,’ returned the man, pointing backward over his right shoulder with
+his right thumb, ‘the T’other Governor?’
+
+‘I don’t know what you mean.’
+
+‘Why look here,’ hooking his proposition on his left-hand fingers with
+the forefinger of his right. ‘There’s two Governors, ain’t there? One
+and one, two—Lawyer Lightwood, my first finger, he’s one, ain’t he?
+[[Well]]; might you be acquainted with my middle finger, the T’other?’
+
+‘I know quite as much of him,’ said Bradley, with a frown and a distant
+look before him, ‘as I want to know.’
+
+‘Hooroar!’ cried the man. ‘Hooroar T’other t’other Governor. Hooroar
+T’otherest Governor! I am of your way of thinkin’.’
+
+‘Don’t make such a noise at this dead hour of the [[Night|night]]. What are you
+talking about?’
+
+‘Look here, T’otherest Governor,’ replied the man, becoming hoarsely
+confidential. ‘The T’other Governor he’s always joked his jokes agin me,
+owing, as I believe, to my being a honest man as gets my living by the
+sweat of my brow. Which he ain’t, and he don’t.’
+
+‘What is that to me?’
+
+‘T’otherest Governor,’ returned the man in a tone of injured [[innocence]],
+‘if you don’t care to hear no more, don’t hear no more. You begun it.
+You said, and likeways showed pretty plain, as you warn’t by no means
+friendly to him. But I don’t seek to force my company nor yet my
+opinions on no man. I am a honest man, that’s what I am. Put me in the
+dock anywhere—I don’t care where—and I says, “My Lord, I am a honest
+man.” Put me in the witness-box anywhere—I don’t care where—and I
+says the same to his lordship, and I kisses the book. I don’t kiss my
+coat-cuff; I kisses the book.’
+
+It was not so much in deference to these strong testimonials to
+character, as in his restless casting about for any way or help towards
+the discovery on which he was concentrated, that [[Bradley Headstone]]
+replied: ‘You needn’t take offence. I didn’t mean to stop you. You were
+too—loud in the open street; that was all.’
+
+‘’Totherest Governor,’ replied Mr Riderhood, mollified and mysterious,
+‘I know wot it is to be loud, and I know wot it is to be soft. Nat’rally
+I do. It would be a [[Wonder|wonder]] if I did not, being by the Chris’en name of
+Roger, which took it arter my own father, which took it from his own
+father, though which of our fam’ly fust took it nat’ral I will not in
+any ways mislead you by undertakin’ to say. And wishing that your elth
+may be better than your looks, which your inside must be bad indeed if
+it’s on the footing of your out.’
+
+Startled by the implication that his face revealed too much of his mind,
+Bradley made an effort to clear his brow. It might be worth knowing what
+this strange man’s business was with Lightwood, or Wrayburn, or both, at
+such an unseasonable hour. He set himself to find out, for the man might
+prove to be a messenger between those two.
+
+‘You call at the Temple late,’ he remarked, with a lumbering show of
+ease.
+
+‘Wish I may die,’ cried Mr Riderhood, with a hoarse laugh, ‘if I warn’t
+a goin’ to say the [[Self|self]]-same words to you, T’otherest Governor!’
+
+‘It chanced so with me,’ said Bradley, looking disconcertedly about him.
+
+‘And it chanced so with me,’ said Riderhood. ‘But I don’t mind telling
+you how. Why should I mind telling you? I’m a Deputy Lock-keeper up the
+[[River|river]], and I was off duty yes’day, and I shall be on to-morrow.’
+
+‘Yes?’
+
+‘Yes, and I come to [[London]] to look arter my private affairs. My private
+affairs is to get appinted to the Lock as reg’lar keeper at fust hand,
+and to have the law of a busted B’low-Bridge steamer which drownded of
+me. I ain’t a goin’ to be drownded and not paid for it!’
+
+Bradley looked at him, as though he were claiming to be a [[Ghost]].
+
+‘The steamer,’ said Mr Riderhood, obstinately, ‘run me down and drownded
+of me. Interference on the part of other parties brought me round; but
+I never asked ’em to bring me round, nor yet the steamer never asked ’em
+to it. I mean to be paid for the life as the steamer took.’
+
+‘Was that your business at Mr Lightwood’s chambers in the middle of the
+[[Night|night]]?’ asked Bradley, eyeing him with distrust.
+
+‘That and to get a writing to be fust-hand Lock Keeper. A recommendation
+in writing being looked for, who else ought to give it to me? As I says
+in the letter in my daughter’s hand, with my mark put to it to make it
+good in law, Who but you, Lawyer Lightwood, ought to hand over this here
+stifficate, and who but you ought to go in for damages on my account
+agin the Steamer? For (as I says under my mark) I have had trouble
+enough along of you and your friend. If you, Lawyer Lightwood, had
+backed me good and true, and if the T’other Governor had took me down
+correct (I says under my mark), I should have been worth money at the
+present [[Time|time]], instead of having a barge-load of bad names chucked at me,
+and being forced to eat my words, which is a unsatisfying sort of food
+wotever a man’s appetite! And when you mention the middle of the [[Night|night]],
+T’otherest Governor,’ growled Mr Riderhood, winding up his monotonous
+summary of his wrongs, ‘throw your eye on this here bundle under my arm,
+and bear in mind that I’m a walking back to my Lock, and that the Temple
+laid upon my line of [[Road|road]].’
+
+[[Bradley Headstone]]’s face had changed during this latter recital, and he
+had observed the speaker with a more sustained attention.
+
+‘Do you know,’ said he, after a pause, during which they walked on side
+by side, ‘that I believe I could tell you your name, if I tried?’
+
+‘Prove your opinion,’ was the answer, accompanied with a stop and a
+stare. ‘Try.’
+
+‘Your name is Riderhood.’
+
+‘I’m blest if it ain’t,’ returned that gentleman. ‘But I don’t know
+your’n.’
+
+‘That’s quite another thing,’ said Bradley. ‘I never supposed you did.’
+
+As Bradley walked on meditating, the Rogue walked on at his side
+muttering. The purport of the muttering was: ‘that Rogue Riderhood, by
+George! seemed to be made public property on, now, and that every man
+seemed to think himself free to handle his name as if it was a Street
+Pump.’ The purport of the meditating was: ‘Here is an instrument. Can I
+use it?’
+
+They had walked along the Strand, and into Pall Mall, and had turned
+up-[[Hill|hill]] towards Hyde Park Corner; [[Bradley Headstone]] waiting on the pace
+and lead of Riderhood, and leaving him to indicate the course. So slow
+were the schoolmaster’s thoughts, and so indistinct his purposes when
+they were but tributary to the one absorbing purpose or rather when,
+like dark trees under a stormy sky, they only lined the long vista at
+the end of which he saw those two figures of Wrayburn and Lizzie on
+which his eyes were fixed—that at least a good half-mile was traversed
+before he spoke again. Even then, it was only to ask:
+
+‘Where is your Lock?’
+
+‘Twenty mile and odd—call it five-and-twenty mile and odd, if you
+like—up stream,’ was the sullen reply.
+
+‘How is it called?’
+
+‘Plashwater Weir Mill Lock.’
+
+‘Suppose I was to offer you five shillings; what then?’
+
+‘Why, then, I’d take it,’ said Mr Riderhood.
+
+The schoolmaster put his hand in his pocket, and produced two
+half-crowns, and placed them in Mr Riderhood’s palm: who stopped at
+a convenient doorstep to ring them both, before acknowledging their
+receipt.
+
+‘There’s one thing about you, T’otherest Governor,’ said Riderhood,
+faring on again, ‘as looks [[Well|well]] and goes fur. You’re a ready money man.
+Now;’ when he had carefully pocketed the coins on that side of himself
+which was furthest from his new friend; ‘what’s this for?’
+
+‘For you.’
+
+‘Why, o’ course I know THAT,’ said Riderhood, as arguing something that
+was [[Self|self]]-evident. ‘O’ course I know very [[Well|well]] as no man in his right
+senses would suppose as anythink would make me give it up agin when I’d
+once got it. But what do you want for it?’
+
+‘I don’t know that I want anything for it. Or if I do want anything
+for it, I don’t know what it is.’ Bradley gave this answer in a stolid,
+vacant, and [[Self|self]]-communing manner, which Mr Riderhood found very
+extraordinary.
+
+‘You have no goodwill towards this Wrayburn,’ said Bradley, coming to
+the name in a reluctant and forced way, as if he were dragged to it.
 
 ‘No.’
 
-‘As you must grow old in [[Time|time]], and come to your dying hour, my dear,
-you’ll not give it up to any one but them?’
+‘Neither have I.’
 
-‘No. Most solemnly.’
+Riderhood nodded, and asked: ‘Is it for that?’
 
-‘Never to the Parish!’ with a convulsed struggle.
+‘It’s as much for that as anything else. It’s something to be agreed
+with, on a subject that occupies so much of one’s thoughts.’
 
-‘No. Most solemnly.’
+‘It don’t agree with YOU,’ returned Mr Riderhood, bluntly. ‘No! It
+don’t, T’otherest Governor, and it’s no use a lookin’ as if you wanted
+to make out that it did. I tell you it rankles in you. It rankles in
+you, rusts in you, and pisons you.’
 
-‘Nor let the Parish touch me, not yet so much as look at me!’ with
-another struggle.
+‘Say that it does so,’ returned Bradley with quivering lips; ‘is there
+no cause for it?’
 
-‘No. Faithfully.’
+‘Cause enough, I’ll bet a pound!’ cried Mr Riderhood.
 
-A look of thankfulness and triumph lights the worn old face.
+‘Haven’t you yourself declared that the fellow has heaped provocations,
+insults, and affronts on you, or something to that effect? He has done
+the same by me. He is made of venomous insults and affronts, from the
+[[Crown|crown]] of his head to the sole of his foot. Are you so hopeful or so
+stupid, as not to know that he and the other will treat your application
+with contempt, and light their cigars with it?’
 
-The eyes, which have been darkly fixed upon the sky, turn with meaning
-in them towards the compassionate face from which the [[Tears|tears]] are
-dropping, and a smile is on the aged lips as they ask:
+‘I shouldn’t [[Wonder|wonder]] if they did, by George!’ said Riderhood, turning
+angry.
 
-‘What is your name, my dear?’
+‘If they did! They will. Let me ask you a question. I know something
+more than your name about you; I knew something about Gaffer Hexam. When
+did you last set eyes upon his daughter?’
 
-‘My name is [[Lizzie Hexam]].’
+‘When did I last set eyes upon his daughter, T’otherest Governor?’
+repeated Mr Riderhood, growing intentionally slower of comprehension as
+the other quickened in his speech.
 
-‘I must be sore disfigured. Are you afraid to kiss me?’
+‘Yes. Not to speak to her. To see her—anywhere?’
 
-The answer is, the ready pressure of her lips upon the cold but smiling
-mouth.
+The Rogue had got the clue he wanted, though he held it with a clumsy
+hand. Looking perplexedly at the passionate face, as if he were trying
+to work out a sum in his mind, he slowly answered:
 
-‘Bless ye! NOW lift me, my [[Love|love]].’
+‘I ain’t set eyes upon her—never once—not since the day of Gaffer’s
+[[Death|death]].’
 
-[[Lizzie Hexam]] very softly raised the weather-stained grey head, and
-lifted her as high as Heaven.
+‘You know her [[Well|well]], by sight?’
+
+‘I should think I did! No one better.’
+
+‘And you know him as [[Well|well]]?’
+
+‘Who’s him?’ asked Riderhood, taking off his hat and rubbing his
+forehead, as he directed a dull look at his questioner.
+
+‘Curse the name! Is it so agreeable to you that you want to hear it
+again?’
+
+‘Oh! HIM!’ said Riderhood, who had craftily worked the schoolmaster into
+this corner, that he might again take note of his face under its evil
+possession. ‘I’d know HIM among a thousand.’
+
+‘Did you—’ Bradley tried to ask it quietly; but, do what he might
+with his voice, he could not subdue his face;—‘did you ever see them
+together?’
+
+(The Rogue had got the clue in both hands now.)
+
+‘I see ’em together, T’otherest Governor, on the very day when Gaffer
+was towed ashore.’
+
+Bradley could have hidden a reserved piece of information from the sharp
+eyes of a whole inquisitive class, but he could not veil from the eyes
+of the ignorant Riderhood the withheld question next in his breast.
+‘You shall put it plain if you want it answered,’ thought the Rogue,
+doggedly; ‘I ain’t a-going a wolunteering.’
+
+‘[[Well]]! was he insolent to her too?’ asked Bradley after a struggle. ‘Or
+did he make a show of being kind to her?’
+
+‘He made a show of being most uncommon kind to her,’ said Riderhood. ‘By
+George! now I—’
+
+His flying off at a tangent was indisputably natural. Bradley looked at
+him for the reason.
+
+‘Now I think of it,’ said Mr Riderhood, evasively, for he was
+substituting those words for ‘Now I see you so jealous,’ which was the
+phrase really in his mind; ‘P’r’aps he went and took me down wrong, a
+purpose, on account o’ being sweet upon her!’
+
+The baseness of confirming him in this suspicion or pretence of one (for
+he could not have really entertained it), was a line’s breadth beyond
+the mark the schoolmaster had reached. The baseness of communing and
+intriguing with the fellow who would have set that stain upon her, and
+upon her brother too, was attained. The line’s breadth further, lay
+beyond. He made no reply, but walked on with a lowering face.
+
+What he might gain by this acquaintance, he could not work out in his
+slow and cumbrous thoughts. The man had an injury against the object of
+his hatred, and that was something; though it was less than he supposed,
+for there dwelt in the man no such deadly rage and resentment as burned
+in his own breast. The man knew her, and might by a fortunate chance see
+her, or hear of her; that was something, as enlisting one pair of eyes
+and ears the more. The man was a bad man, and willing enough to be in
+his pay. That was something, for his own state and purpose were as
+bad as bad could be, and he seemed to derive a vague support from the
+possession of a congenial instrument, though it might never be used.
+
+Suddenly he stood still, and asked Riderhood point-blank if he knew
+where she was? Clearly, he did not know. He asked Riderhood if he would
+be willing, in case any intelligence of her, or of Wrayburn as seeking
+her or associating with her, should fall in his way, to communicate it
+if it were paid for? He would be very willing indeed. He was ‘agin ’em
+both,’ he said with an oath, and for why? ’Cause they had both stood
+betwixt him and his getting his living by the sweat of his brow.
+
+‘It will not be long then,’ said [[Bradley Headstone]], after some more
+discourse to this effect, ‘before we see one another again. Here is the
+country [[Road|road]], and here is the day. Both have come upon me by surprise.’
+
+‘But, T’otherest Governor,’ urged Mr Riderhood, ‘I don’t know where to
+find you.’
+
+‘It is of no consequence. I know where to find you, and I’ll come to
+your Lock.’
+
+‘But, T’otherest Governor,’ urged Mr Riderhood again, ‘no luck never
+come yet of a dry acquaintance. Let’s wet it, in a mouth-fill of rum and
+milk, T’otherest Governor.’
+
+Bradley assenting, went with him into an early public-[[house]], haunted by
+unsavoury smells of musty hay and stale straw, where returning carts,
+farmers’ men, gaunt [[dogs]], fowls of a beery breed, and certain human
+nightbirds fluttering [[Home|home]] to roost, were solacing themselves after
+their several manners; and where not one of the nightbirds hovering
+about the sloppy bar failed to discern at a glance in the passion-wasted
+nightbird with respectable feathers, the worst nightbird of all.
+
+An inspiration of affection for a half-drunken carter going his way led
+to Mr Riderhood’s being elevated on a high heap of baskets on a waggon,
+and pursuing his [[Journey|journey]] recumbent on his back with his head on his
+bundle. Bradley then turned to retrace his steps, and by-and-by struck
+off through little-traversed ways, and by-and-by reached school and
+[[Home|home]]. Up came the sun to find him washed and brushed, methodically
+dressed in decent black coat and waistcoat, decent formal black tie, and
+pepper-and-salt pantaloons, with his decent silver watch in its pocket,
+and its decent hair-guard round his neck: a scholastic huntsman clad for
+the field, with his fresh pack yelping and barking around him.
+
+Yet more really bewitched than the miserable creatures of the
+much-lamented times, who accused themselves of impossibilities under a
+contagion of horror and the strongly suggestive influences of Torture,
+he had been ridden hard by Evil Spirits in the [[Night|night]] that was newly
+gone. He had been spurred and whipped and heavily sweated. If a record
+of the sport had usurped the places of the peaceful texts from Scripture
+on the wall, the most advanced of the scholars might have taken fright
+and run away from the master.

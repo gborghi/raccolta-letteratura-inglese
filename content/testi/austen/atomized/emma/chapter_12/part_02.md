@@ -1,5 +1,5 @@
 ---
-title: "[[Emma]] — Chapter 12 (part 2)"
+title: "Emma — Chapter 12 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/emma-(austen)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/emma/chapter_12/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/emma/chapter_12/part_03">part 03 ›</a></div>
 </nav>
 
+
+“It was an awkward business, my dear, your spending the [[Autumn|autumn]] at South
+End instead of coming here. I never had much opinion of the sea air.”
 
 “Mr. Wingfield most strenuously recommended it, sir—or we should not
 have gone. He recommended it for all the children, but particularly for
@@ -133,12 +136,3 @@ to give her attention again to her father and sister, she had nothing
 worse to hear than [[Isabella]]’s kind inquiry after [[Jane Fairfax]]; and Jane
 Fairfax, though no great favourite with her in general, she was at that
 moment very happy to assist in praising.
-
-“That sweet, amiable [[Jane Fairfax]]!” said Mrs. John Knightley.—“It is so
-long since I have seen her, except now and then for a moment
-accidentally in town! What happiness it must be to her good old
-grandmother and excellent aunt, when she comes to visit them! I always
-regret excessively on dear [[Emma]]’s account that she cannot be more at
-Highbury; but now their daughter is married, I suppose Colonel and Mrs.
-Campbell will not be able to part with her at all. She would be such a
-delightful companion for [[Emma]].”

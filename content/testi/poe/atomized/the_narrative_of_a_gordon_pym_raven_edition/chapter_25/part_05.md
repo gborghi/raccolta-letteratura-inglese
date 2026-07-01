@@ -14,6 +14,24 @@ tags:
 </nav>
 
 
+      all else adapted to deaden impressions of the outward world, it
+
+      is by that sweet word [[Alone|alone]]—by Ligeia—that I bring before mine
+
+      eyes in fancy the image of her who is no more. And now, while I
+
+      write, a recollection flashes upon me that I have never known the
+
+      paternal name of her who was my friend and my betrothed, and who
+
+      became the partner of my studies, and finally the wife of my
+
+      bosom. Was it a playful charge on the part of my Ligeia? or was
+
+      it a test of my strength of affection, that I should institute no
+
+      inquiries upon this point? or was it rather a caprice of my own—a
+
       wildly romantic offering on the shrine of the most passionate
 
       devotion? I but indistinctly recall the fact itself—what [[Wonder|wonder]]
@@ -165,31 +183,3 @@ tags:
       something more profound than the [[Well|well]] of Democritus—which lay far
 
       within the pupils of my beloved? What was it? I was possessed
-
-      with a passion to discover. Those eyes! those large, those
-
-      shining, those divine orbs! they became to me twin [[Stars|stars]] of Leda,
-
-      and I to them devoutest of astrologers.
-
-
-
-      There is no point, among the many incomprehensible anomalies of
-
-      the science of mind, more thrillingly exciting than the
-
-      fact—never, I believe, noticed in the schools—that, in our
-
-      endeavors to recall to [[Memory|memory]] something long forgotten, we often
-
-      find ourselves upon the very verge of remembrance, without being
-
-      able, in the end, to remember. And thus how frequently, in my
-
-      intense scrutiny of Ligeia’s eyes, have I felt approaching the
-
-      full knowledge of their expression—felt it approaching—yet not
-
-      quite be mine—and so at length entirely depart! And (strange, oh
-
-      strangest mystery of all!) I found, in the commonest objects of

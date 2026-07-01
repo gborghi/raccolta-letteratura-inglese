@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 46 (part 1)"
+title: "Bleak House — Chapter 46 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -138,8 +138,3 @@ thus employed, he says, after laughing at his establishing a surgery
 in the street, “And so your husband is a brickmaker?”
 
 “How do you know that, sir?” asks the woman, astonished.
-
-“Why, I suppose so from the colour of the clay upon your bag and on
-your dress. And I know brickmakers go about working at piecework in
-different places. And I am sorry to say I have known them cruel to
-their wives too.”

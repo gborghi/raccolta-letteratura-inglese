@@ -14,6 +14,13 @@ tags:
 </nav>
 
 
+‘Never you mind,’ replied his friend.
+
+‘Right again, quite right,’ said Mr Swiveller, ‘caution is the word,
+and caution is the act.’ with that, he winked as if in preservation of
+some deep secret, and folding his arms and leaning back in his chair,
+looked up at the ceiling with profound gravity.
+
 It was perhaps not very unreasonable to suspect from what had already
 passed, that Mr Swiveller was not quite recovered from the effects of
 the powerful sunlight to which he had made allusion; but if no such

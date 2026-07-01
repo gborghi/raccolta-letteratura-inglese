@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 51 (part 2)"
+title: "Bleak House — Chapter 51 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -137,11 +137,3 @@ As his look wandered over the papers again and he passed his two
 hands over his head, I noticed how sunken and how large his eyes
 appeared, how dry his lips were, and how his finger-nails were all
 bitten away.
-
-“Is this a healthy place to live in, [[Richard]], do you think?” said I.
-
-“Why, my dear Minerva,” answered [[Richard]] with his old gay laugh, “it
-is neither a rural nor a cheerful place; and when the sun shines
-here, you may lay a pretty heavy wager that it is shining brightly in
-an open spot. But it’s [[Well|well]] enough for the [[Time|time]]. It’s near the
-offices and near Vholes.”

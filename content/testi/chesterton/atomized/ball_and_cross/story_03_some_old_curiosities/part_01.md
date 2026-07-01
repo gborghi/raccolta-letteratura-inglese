@@ -1,5 +1,5 @@
 ---
-title: "ball and [[Cross|cross]] — Some Old Curiosities (part 1)"
+title: "ball and cross — Some Old Curiosities (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/ball-and-cross-(chesterton)"

@@ -1,5 +1,5 @@
 ---
-title: "[[manalive]] — Chapter 1 (part 3)"
+title: "manalive — Chapter 1 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/manalive-(chesterton)"
@@ -47,7 +47,6 @@ of Dr. Warner whom that remarkable man has affected in the same way.
 Following the example of my learned friends I will read only two of them.
 The first is from an honest and laborious matron living off the Harrow Road.
 
-
 "Mr. Moon, Sir,--Yes, I did throw a sorsepan at him.  Wot then?
 It was all I had to throw, all the soft things being porned,
 and if your Docter Warner doesn't like having sorsepans thrown at him,
@@ -55,11 +54,9 @@ don't let him wear his hat in a respectable woman's parler, and tell
 him to leave orf smiling or tell us the joke.--Yours respectfully,
 					       Hannah Miles.
 
-
 "The other letter is from a physician of some note in Dublin,
 with whom Dr. Warner was once engaged in consultation.
 He writes as follows:--
-
 
 "Dear Sir,--The incident to which you refer is one which I regret,
 and which, moreover, I have never been able to explain.
@@ -72,7 +69,6 @@ what regret); but pulling seems to me to imply a precision of objective
 with which I cannot reproach myself.  In comparison with this, the act
 of punching was an outward, instantaneous, and even natural gesture.--
 Believe me, yours faithfully, Burton Lestrange.
-
 
 "I have numberless other letters," continued [[Moon]], "all bearing witness
 to this widespread feeling about my eminent friend; and I therefore think
@@ -130,10 +126,3 @@ We are in a position to invite all such inquiry."
 shots really hit the doctor."
 
 "For the cause of science," cried the complacent Pym, "fortunately not."
-
-"Yet they were fired from a few feet away."
-
-"Yes; about four feet."
-
-"And no shots hit the Warden, though they were fired quite close
-to him too?" asked [[Moon]].

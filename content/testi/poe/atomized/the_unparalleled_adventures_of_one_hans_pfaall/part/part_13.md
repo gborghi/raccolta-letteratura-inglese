@@ -1,5 +1,5 @@
 ---
-title: "[[The Unparalleled Adventures of one Hans Pfaall]] (part 13)"
+title: "The Unparalleled Adventures of one Hans Pfaall (part 13)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-unparalleled-adventures-of-one-hans-pfaall-(poe)"
@@ -13,6 +13,62 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/part/part_12">‹ part 12</a><a class="ex-next" href="/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/part/part_14">part 14 ›</a></div>
 </nav>
 
+
+      [[Fool|fool]]-hardiness, of which I had been guilty, of putting off to the
+
+      last moment a matter of so much importance. But having at length
+
+      accomplished it, I soon began to reap the benefit of my
+
+      invention. Once again I breathed with perfect [[Freedom|freedom]] and
+
+      ease—and indeed why should I not? I was also agreeably surprised
+
+      to find myself, in a great measure, relieved from the violent
+
+      pains which had hitherto tormented me. A slight headache,
+
+      accompanied with a sensation of fulness or distention about the
+
+      wrists, the ankles, and the throat, was nearly all of which I had
+
+      now to complain. Thus it seemed evident that a greater part of
+
+      the uneasiness attending the removal of atmospheric pressure had
+
+      actually worn off, as I had expected, and that much of the [[Pain|pain]]
+
+      endured for the last two hours should have been attributed
+
+      altogether to the effects of a deficient respiration.
+
+
+
+      “At twenty minutes before nine o’[[Clock|clock]]—that is to say, a short
+
+      [[Time|time]] prior to my closing up the mouth of the chamber, the mercury
+
+      attained its limit, or ran down, in the barometer, which, as I
+
+      mentioned before, was one of an extended construction. It then
+
+      indicated an altitude on my part of 132,000 feet, or
+
+      five-and-twenty miles, and I consequently surveyed at that [[Time|time]]
+
+      an extent of the earth’s area amounting to no less than the three
+
+      hundred-and-twentieth part of its entire superficies. At nine
+
+      o’[[Clock|clock]] I had again lost sight of land to the eastward, but not
+
+      before I became aware that the balloon was drifting rapidly to
+
+      the N. N. W. The convexity of the ocean beneath me was very
+
+      evident indeed, although my view was often interrupted by the
+
+      masses of cloud which floated to and fro. I observed now that
 
       even the lightest vapors never [[Rose|rose]] to more than ten miles above
 
@@ -135,65 +191,3 @@ tags:
       atmosphere within the chamber, I took that opportunity of
 
       observing the cat and kittens through the valve. The cat herself
-
-      appeared to suffer again very much, and I had no hesitation in
-
-      attributing her uneasiness chiefly to a difficulty in breathing;
-
-      but my experiment with the kittens had resulted very strangely. I
-
-      had expected, of course, to see them betray a sense of [[Pain|pain]],
-
-      although in a less degree than their mother, and this would have
-
-      been sufficient to confirm my opinion concerning the habitual
-
-      [[Endurance|endurance]] of atmospheric pressure. But I was not prepared to find
-
-      them, upon close examination, evidently enjoying a high degree of
-
-      health, breathing with the greatest ease and perfect regularity,
-
-      and evincing not the slightest sign of any uneasiness whatever. I
-
-      could only account for all this by extending my theory, and
-
-      supposing that the highly rarefied atmosphere around might
-
-      perhaps not be, as I had taken for granted, chemically
-
-      insufficient for the purposes of life, and that a person born in
-
-      such a medium might, possibly, be unaware of any inconvenience
-
-      attending its inhalation, while, upon removal to the denser
-
-      strata near the earth, he might endure tortures of a similar
-
-      [[Nature|nature]] to those I had so lately experienced. It has since been to
-
-      me a matter of deep regret that an awkward accident, at this
-
-      [[Time|time]], occasioned me the loss of my little family of cats, and
-
-      deprived me of the insight into this matter which a continued
-
-      experiment might have afforded. In passing my hand through the
-
-      valve, with a cup of [[Water|water]] for the old puss, the sleeves of my
-
-      shirt became entangled in the loop which sustained the basket,
-
-      and thus, in a moment, loosened it from the [[Bottom|bottom]]. Had the whole
-
-      actually vanished into air, it could not have shot from my sight
-
-      in a more abrupt and instantaneous manner. Positively, there
-
-      could not have intervened the tenth part of a second between the
-
-      disengagement of the basket and its absolute and total
-
-      disappearance with all that it contained. My good wishes followed
-
-      it to the earth, but of course, I had no [[Hope|hope]] that either cat or

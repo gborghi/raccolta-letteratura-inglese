@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 39"
+title: "Barnaby Rudge — Chapter 39"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -287,9 +287,9 @@ his left ear, as if he were studying the anatomical development of that
 part of his frame, shook his head in a despondent manner and actually
 shed [[Tears|tears]].
 
-‘You’re a kind of [[artist]], I suppose--eh!’ said Mr Tappertit.
+‘You’re a kind of [[Artist|artist]], I suppose--eh!’ said Mr Tappertit.
 
-‘Yes,’ rejoined Dennis; ‘yes--I may call myself a [[artist]]--a fancy
+‘Yes,’ rejoined Dennis; ‘yes--I may call myself a [[Artist|artist]]--a fancy
 workman--art improves natur’--that’s my motto.’
 
 ‘And what do you call this?’ said Mr Tappertit taking his stick out of

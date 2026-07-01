@@ -1,5 +1,5 @@
 ---
-title: "[[misc]] — THE MISER AND HIS FRIENDS"
+title: "misc — THE MISER AND HIS FRIENDS"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 THE MISER AND HIS FRIENDS
-
 
 It is a sign of sharp sickness in a society when it is actually
 led by some special sort of lunatic.  A mild touch of [[Madness|madness]]
@@ -54,7 +53,7 @@ but the miser.
 
 The modern miser has changed much from the miser of legend
 and anecdote; but only because he has grown yet more insane.
-The old miser had some touch of the human [[artist]] about him
+The old miser had some touch of the human [[Artist|artist]] about him
 in so far that he collected gold--a substance that can
 really be admired for itself, like ivory or old oak.
 An old man who picked up yellow pieces had something of

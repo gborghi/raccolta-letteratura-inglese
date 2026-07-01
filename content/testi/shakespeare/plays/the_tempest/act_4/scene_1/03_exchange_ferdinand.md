@@ -1,5 +1,5 @@
 ---
-title: "The Tempest — Act IV, Scene 1 — exchange ([[Ferdinand|FERDINAND]]) [3]"
+title: "The Tempest — Act IV, Scene 1 — exchange (FERDINAND) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-tempest-(shakespeare)"

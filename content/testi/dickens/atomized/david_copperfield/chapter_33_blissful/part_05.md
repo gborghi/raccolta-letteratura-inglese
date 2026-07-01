@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 33: BLISSFUL (part 5)"
+title: "David Copperfield — Chapter 33: BLISSFUL (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_33_blissful/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_33_blissful/part_06">part 06 ›</a></div>
 </nav>
 
+
+The young creature in pink had a mother in green; and I rather think the
+latter separated us from motives of policy. Howbeit, there was a general
+breaking up of the party, while the remnants of the dinner were being
+put away; and I strolled off by myself among the trees, in a raging and
+remorseful state. I was debating whether I should pretend that I was not
+[[Well|well]], and fly--I don’t know where--upon my gallant grey, when Dora and
+Miss Mills met me.
 
 ‘Mr. Copperfield,’ said Miss Mills, ‘you are dull.’
 
@@ -119,11 +127,3 @@ myself by putting every conceivable variety of discouraging construction
 on all that ever had taken place between Dora and me. At last, arrayed
 for the purpose at a vast expense, I went to Miss Mills’s, fraught with
 a declaration.
-
-How many times I went up and down the street, and round the
-square--painfully aware of being a much better answer to the old [[Riddle|riddle]]
-than the original one--before I could persuade myself to go up the steps
-and knock, is no matter now. Even when, at last, I had knocked, and was
-waiting at the door, I had some flurried thought of asking if that
-were Mr. Blackboy’s (in [[Imitation|imitation]] of poor Barkis), begging pardon, and
-retreating. But I kept my ground.

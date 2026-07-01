@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 34: THIRTY FOUR (part 6)"
+title: "Martin Chuzzlewit — Chapter 34: THIRTY FOUR (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,25 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_34_thirty_four/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_35_thirty_five/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘There is not the least danger, I assure you,’ said Martin. So he put
+the pamphlets in his pocket, and they parted.
+
+Mr Bevan had written in his letter that, at a certain [[Time|time]], which fell
+out happily just then, he would be at a certain hotel in the [[City|city]],
+anxiously expecting to see them. To this place they repaired without a
+moment’s delay. They had the satisfaction of finding him within; and of
+being received by their good friend, with his own warmth and heartiness.
+
+‘I am truly sorry and ashamed,’ said Martin, ‘to have begged of you. But
+look at us. See what we are, and judge to what we are reduced!’
+
+‘So far from claiming to have done you any service,’ returned the other,
+‘I reproach myself with having been, unwittingly, the original cause
+of your misfortunes. I no more supposed you would go to Eden on such
+representations as you received; or, indeed, that you would do anything
+but be dispossessed, by the readiest means, of your idea that fortunes
+were so easily made here; than I thought of going to Eden myself.’
 
 ‘The fact is, I closed with the thing in a mad and sanguine manner,’
 said Martin, ‘and the less said about it the better for me. Mark, here,
@@ -116,7 +135,7 @@ own case, and impress upon it how much [[Suffering|suffering]] may be prevented 
 little pains!’
 
 Cheerily, lads, cheerily! Anchor weighed. [[Ship]] in full sail. Her sturdy
-bowsprit pointing true to England. [[America]] a cloud upon the sea behind
+bowsprit pointing true to England. [[america|America]] a cloud upon the sea behind
 them!
 
 ‘Why, Cook! what are you thinking of so steadily?’ said Martin.

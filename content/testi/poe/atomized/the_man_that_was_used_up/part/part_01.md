@@ -1,5 +1,5 @@
 ---
-title: "[[The Man That Was Used Up]] (part 1)"
+title: "The Man That Was Used Up (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-man-that-was-used-up-(poe)"
@@ -205,7 +205,3 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
       away down South, with the Bugaboo and Kickapoo Indians.” [Here my
 
       friend opened his eyes to some extent.] “Bless my [[Soul|soul]]!—[[Blood|blood]] and
-
-      thunder, and all that!—_prodigies_ of valor!—heard of him of
-
-      course?—you know he’s the man—”

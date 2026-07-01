@@ -166,7 +166,7 @@ the same quality which is often possessed by those nocturnal
 
 comedies--that of seeming more human than our waking life--even while
 
-they are less possible. Sir [[arthur|Arthur]] Wardour, with his daughter and the
+they are less possible. Sir [[Arthur]] Wardour, with his daughter and the
 
 old beggar crouching in a cranny of the cliff as [[Night|night]] falls and the
 

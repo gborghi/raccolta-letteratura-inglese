@@ -14,6 +14,31 @@ tags:
 </nav>
 
 
+It would be difficult to say why, or how—though it was possibly from
+having heard and read so much about it—but the effect on me was
+disappointment.  Looking towards the setting sun, there lay, stretched
+out before my view, a vast expanse of level ground; unbroken, save by one
+thin line of trees, which scarcely amounted to a scratch upon the great
+blank; until it met the glowing sky, wherein it seemed to dip: mingling
+with its rich colours, and mellowing in its distant blue.  There it lay,
+a tranquil sea or lake without [[Water|water]], if such a simile be admissible,
+with the day going down upon it: a few [[Birds|birds]] wheeling here and there: and
+[[Solitude|solitude]] and [[Silence|silence]] reigning paramount around.  But the grass was not
+yet high; there were bare black patches on the ground; and the few wild
+[[Flowers|flowers]] that the eye could see, were poor and scanty.  Great as the
+picture was, its very flatness and extent, which left nothing to the
+[[Imagination|imagination]], tamed it down and cramped its interest.  I felt little of
+that sense of [[Freedom|freedom]] and exhilaration which a Scottish heath inspires,
+or even our English downs awaken.  It was lonely and wild, but oppressive
+in its barren monotony.  I felt that in traversing the Prairies, I could
+never abandon myself to the scene, forgetful of all else; as I should do
+instinctively, were the heather underneath my feet, or an iron-bound
+coast beyond; but should often glance towards the distant and
+frequently-receding line of the horizon, and wish it gained and passed.
+It is not a scene to be forgotten, but it is scarcely one, I think (at
+all events, as I saw it), to remember with much pleasure, or to covet the
+looking-on again, in after-life.
+
 We encamped near a solitary log-[[house]], for the sake of its [[Water|water]], and
 dined upon the plain.  The baskets contained roast fowls, buffalo’s
 tongue (an exquisite dainty, by the way), ham, bread, [[cheese]], and butter;

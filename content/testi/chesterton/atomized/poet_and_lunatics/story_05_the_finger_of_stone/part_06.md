@@ -14,6 +14,42 @@ tags:
 </nav>
 
 
+Dr. Garth shrugged his shoulders.  "I imagine he's talking
+some other nonsense at the top of the [[Hill|hill]] somewhere else.
+You mustn't ask poets to remember all the nonsense they talk."
+
+"My friends," Father Hyacinth was saying, in quiet but
+penetrating tones.  "I have no answer to give to this charge.
+I have no proofs with which to refute it.  If a man can be sent
+to the guillotine on such evidence, to the guillotine I will go.
+Do you fancy I do not know that [[Innocent|innocent]] men have been guillotined?
+M. Bertrand spoke of the burning of Bruno, as if it is only
+the enemies of the Church that have been burned.  Does any
+Frenchman forget that Joan of Arc was burned; and was she guilty?
+The first Christians were tortured for being cannibals,
+a charge as probable as the charge against me.  Do you imagine
+because you kill men now by modern machinery and modern law,
+that we do not know that you are as likely to kill unjustly as Herod
+or Heliogabalus?  Do you think we do not know that the powers
+of the world are what they always were, that your lawyers who
+oppress the poor for hire will shed [[Innocent|innocent]] [[Blood|blood]] for gold?
+If I were here to bandy such lawyer's talk, I could use it against
+you more reasonably than you against me.  For what reason am I
+supposed to have imperilled my [[Soul|soul]] by such a monstrous crime?
+For a theory about a theory; for a hypothesis about a hypothesis,
+for some thin fantastic notion that a discovery about fossils
+threatened the everlasting [[Truth|truth]].  I could point to others who had
+better reasons for murder than that.  I could point to a man who by
+the [[Death|death]] of Boyg has inherited the whole power and position of Boyg.
+I could point to one who is truly the heir and the man whom the
+crime benefits; who is known to claim much of the discovery as his own;
+who has been not so much the assistant as the rival of the dead.
+He [[Alone|alone]] has given evidence that Boyg was seen on the [[Hill|hill]] at all
+on that fatal day.  He [[Alone|alone]] inherits by the [[Death|death]] anything solid,
+from the largest ambitions in the scientific world, to the smallest
+magnifying glass in his collection.  The man lives, and I could
+stretch out my hand and touch him."
+
 Hundreds of faces were turned upon Bertrand with a frightful
 expression of inhuman eagerness; the turn of the [[debate]] had been
 too dramatic to raise a cry.  Bertrand's very lips were pale,
@@ -103,39 +139,3 @@ more than one year, or even one day.  Something in the properties
 of the local [[Water|water]], applied or intensified by special methods,
 can really in a few hours turn an animal organism into a fossil.
 The scientific experiment has been made; and the proof is before you."
-
-He made a gesture with his hand, and went on, with something
-more like excitement:
-
-"M. Bertrand is right in saying that [[Truth|truth]] is not in a [[Well|well]], but on
-a tower.  It is on a pedestal.  You have looked at it every day.
-There is the [[Body|body]] of Boyg!"
-
-And he pointed to the statue in the middle of the market-place,
-wreathed with laurel and defaced with stones, as it had stood so long
-in that quiet square, and looked down at so many casual passers-by.
-
-"Somebody suggested just now," he went on, glancing over a sea
-of gaping faces, "that I carried the statue in my waistcoat pocket.
-[[Well]], I don't carry all of it, of course, but this is a part of it,"
-and he took out a small object like a stick of grey [[chalk]]; "this is
-a finger of it knocked off by a stone.  I picked it up by the pedestal.
-If anybody who understands these things likes to look at it, he will
-agree that the consistency is precisely the same as the admitted
-fossils in the geological museum."
-
-He held it out to them, but the whole mob stood still as if it
-also was a mob of men turned to stone.
-
-"Perhaps you think I'm mad," he said pleasantly.  "[[Well]], I'm not
-exactly mad, but I have an odd sort of sympathy with madmen.
-I can manage them better than most people can, because I can fancy
-somehow the wild way their minds will work.  I understand the man
-who did this.  I know he did, because I talked to him for half
-the morning; and it's exactly the sort of thing he would do.
-And when first I heard talk of fossil shells and petrified
-[[Insects|insects]] and so on, I did the same thing that such men always do.
-I exaggerated it into a sort of extravagant vision, a vision of
-fossil forests, and fossil cattle, and fossil elephants and camels;
-and so, naturally, to another thought:  a coincidence that somehow
-turned me cold.  A Fossil Man.

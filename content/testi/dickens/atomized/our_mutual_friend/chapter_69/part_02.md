@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 10 (part 2)"
+title: "Our Mutual Friend — Chapter 14 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,135 +14,143 @@ tags:
 </nav>
 
 
-Lightwood lifted his head at the neck, and put a wine-glass to his lips.
-He rallied.
+Mr Wegg, glancing in great dudgeon towards the French gentleman’s
+corner, seemed to notice something new there, which induced him to
+glance at the opposite corner, and then to put on his glasses and stare
+at all the nooks and corners of the dim shop in succession.
 
-‘I don’t know how long ago it was done, whether weeks, days, or hours.
-No matter. There is inquiry on foot, and pursuit. Say! Is there not?’
+‘Why, you’ve been having the place cleaned up!’ he exclaimed.
 
-‘Yes.’
+‘Yes, Mr Wegg. By the hand of adorable woman.’
 
-‘Check it; divert it! Don’t let her be brought in question. Shield
-her. The guilty man, brought to justice, would [[Poison|poison]] her name. Let the
-guilty man go unpunished. Lizzie and my reparation before all! Promise
-me!’
+‘Then what you’re going to do next, I suppose, is to get married?’
 
-‘Eugene, I do. I promise you!’
+‘That’s it, sir.’
 
-In the act of turning his eyes gratefully towards his friend, he
-wandered away. His eyes stood still, and settled into that former intent
-unmeaning stare.
+Silas took off his glasses again—finding himself too intensely
+disgusted by the sprightly appearance of his friend and partner to bear
+a magnified view of him and made the inquiry:
 
-Hours and hours, days and nights, he remained in this same condition.
-There were times when he would calmly speak to his friend after a long
-period of unconsciousness, and would say he was better, and would ask
-for something. Before it could be given him, he would be gone again.
+‘To the old party?’
 
-The dolls’ dressmaker, all softened compassion now, watched him with an
-earnestness that never relaxed. She would regularly change the ice, or
-the cooling spirit, on his head, and would keep her ear at the pillow
-betweenwhiles, listening for any faint words that fell from him in his
-wanderings. It was amazing through how many hours at a [[Time|time]] she would
-remain beside him, in a crouching attitude, attentive to his slightest
-moan. As he could not move a hand, he could make no sign of distress;
-but, through this close watching (if through no secret sympathy or
-power) the little creature attained an understanding of him that
-Lightwood did not possess. Mortimer would often turn to her, as if she
-were an interpreter between this sentient world and the insensible man;
-and she would change the dressing of a wound, or ease a ligature, or
-turn his face, or alter the pressure of the bedclothes on him, with an
-absolute certainty of doing right. The natural lightness and delicacy of
-touch which had become very refined by practice in her miniature work,
-no [[Doubt|doubt]] was involved in this; but her perception was at least as fine.
+‘Mr Wegg!’ said [[Venus]], with a sudden flush of wrath. ‘The lady in
+question is not a old party.’
 
-The one word, Lizzie, he muttered millions of times. In a certain phase
-of his distressful state, which was the worst to those who tended him,
-he would roll his head upon the pillow, incessantly repeating the name
-in a hurried and impatient manner, with the misery of a disturbed mind,
-and the monotony of a [[Machine|machine]]. Equally, when he lay still and staring,
-he would repeat it for hours without cessation, but then, always in a
-tone of subdued warning and horror. Her presence and her touch upon his
-breast or face would often stop this, and then they learned to expect
-that he would for some [[Time|time]] remain still, with his eyes closed, and that
-he would be conscious on opening them. But, the heavy disappointment of
-their [[Hope|hope]]—revived by the welcome [[Silence|silence]] of the room—was, that his
-spirit would glide away again and be lost, in the moment of their joy
-that it was there.
+‘I meant,’ exclaimed Wegg, testily, ‘to the party as formerly objected?’
 
-This frequent rising of a drowning man from the deep, to sink again, was
-dreadful to the beholders. But, gradually the change stole upon him that
-it became dreadful to himself. His [[Desire|desire]] to impart something that was
-on his mind, his unspeakable yearning to have speech with his friend
-and make a communication to him, so troubled him when he recovered
-consciousness, that its term was thereby shortened. As the man rising
-from the deep would disappear the sooner for fighting with the [[Water|water]], so
-he in his desperate struggle went down again.
+‘Mr Wegg,’ said [[Venus]], ‘in a case of so much delicacy, I must trouble
+you to say what you mean. There are strings that must not be played
+upon. No sir! Not sounded, unless in the most respectful and tuneful
+manner. Of such melodious strings is Miss Pleasant Riderhood formed.’
 
-One afternoon when he had been lying still, and Lizzie, unrecognized,
-had just stolen out of the room to pursue her occupation, he uttered
-Lightwood’s name.
+‘Then it IS the lady as formerly objected?’ said Wegg.
 
-‘My dear Eugene, I am here.’
+‘Sir,’ returned [[Venus]] with dignity, ‘I accept the altered phrase. It is
+the lady as formerly objected.’
 
-‘How long is this to last, Mortimer?’
+‘When is it to come off?’ asked Silas.
 
-Lightwood shook his head. ‘Still, Eugene, you are no worse than you
-were.’
+‘Mr Wegg,’ said [[Venus]], with another flush. ‘I cannot permit it to be
+put in the form of a Fight. I must temperately but firmly call upon you,
+sir, to amend that question.’
 
-‘But I know there’s no [[Hope|hope]]. Yet I pray it may last long enough for you
-to do me one last service, and for me to do one last action. Keep me
-here a few moments, Mortimer. Try, try!’
+‘When is the lady,’ Wegg reluctantly demanded, constraining his ill
+temper in remembrance of the partnership and its stock in trade, ‘a
+going to give her ’and where she has already given her ’art?’
 
-His friend gave him what aid he could, and encouraged him to believe
-that he was more composed, though even then his eyes were losing the
-expression they so rarely recovered.
+‘Sir,’ returned [[Venus]], ‘I again accept the altered phrase, and with
+pleasure. The lady is a going to give her ’and where she has already
+given her ’art, next Monday.’
 
-‘Hold me here, dear fellow, if you can. Stop my wandering away. I am
-going!’
+‘Then the lady’s objection has been met?’ said Silas.
 
-‘Not yet, not yet. Tell me, dear Eugene, what is it I shall do?’
+‘Mr Wegg,’ said [[Venus]], ‘as I did name to you, I think, on a former
+occasion, if not on former occasions—’
 
-‘Keep me here for only a single minute. I am going away again. Don’t let
-me go. Hear me speak first. Stop me—stop me!’
+‘On former occasions,’ interrupted Wegg.
 
-‘My poor Eugene, try to be calm.’
+‘—What,’ pursued [[Venus]], ‘what the [[Nature|nature]] of the lady’s objection was, I
+may impart, without violating any of the tender confidences since sprung
+up between the lady and myself, how it has been met, through the kind
+interference of two good friends of mine: one, previously acquainted
+with the lady: and one, not. The pint was thrown out, sir, by those two
+friends when they did me the great service of waiting on the lady to
+try if a [[Union|union]] betwixt the lady and me could not be brought to bear—the
+pint, I say, was thrown out by them, sir, whether if, after [[Marriage|marriage]],
+I confined myself to the articulation of men, children, and the lower
+[[Animals|animals]], it might not relieve the lady’s mind of her feeling respecting
+being as a lady—regarded in a bony light. It was a happy thought, sir,
+and it took root.’
 
-‘I do try. I try so hard. If you only knew how hard! Don’t let me wander
-till I have spoken. Give me a little more wine.’
+‘It would seem, [[Mr Venus]],’ observed Wegg, with a touch of distrust,
+‘that you are flush of friends?’
 
-Lightwood complied. Eugene, with a most pathetic struggle against the
-unconsciousness that was coming over him, and with a look of appeal that
-affected his friend profoundly, said:
+‘Pretty [[Well|well]], sir,’ that gentleman answered, in a tone of placid
+mystery. ‘So-so, sir. Pretty [[Well|well]].’
 
-‘You can leave me with Jenny, while you speak to her and tell her what I
-beseech of her. You can leave me with Jenny, while you are gone. There’s
-not much for you to do. You won’t be long away.’
+‘However,’ said Wegg, after eyeing him with another touch of distrust,
+‘I wish you joy. One man spends his fortune in one way, and another in
+another. You are going to try matrimony. I mean to try travelling.’
 
-‘No, no, no. But tell me what it is that I shall do, Eugene!’
+‘Indeed, Mr Wegg?’
 
-‘I am going! You can’t hold me.’
+‘Change of air, sea-scenery, and my natural rest, I [[Hope|hope]] may bring me
+round after the persecutions I have undergone from the dustman with his
+head tied up, which I just now mentioned. The tough job being ended and
+the Mounds laid low, the hour is come for Boffin to stump up. Would ten
+to-morrow morning suit you, partner, for finally bringing Boffin’s nose
+to the grindstone?’
 
-‘Tell me in a word, Eugene!’
+Ten to-morrow morning would quite suit [[Mr Venus]] for that excellent
+purpose.
 
-His eyes were fixed again, and the only word that came from his lips was
-the word millions of times repeated. Lizzie, Lizzie, Lizzie.
+‘You have had him [[Well|well]] under inspection, I [[Hope|hope]]?’ said Silas.
 
-But, the watchful little dressmaker had been vigilant as ever in her
-watch, and she now came up and touched Lightwood’s arm as he looked down
-at his friend, despairingly.
+[[Mr Venus]] had had him under inspection pretty [[Well|well]] every day.
 
-‘Hush!’ she said, with her finger on her lips. ‘His eyes are closing.
-He’ll be conscious when he next opens them. Shall I give you a leading
-word to say to him?’
+‘Suppose you was just to step round to-[[Night|night]] then, and give him orders
+from me—I say from me, because he knows I won’t be played with—to be
+ready with his papers, his accounts, and his cash, at that [[Time|time]] in the
+morning?’ said Wegg. ‘And as a matter of form, which will be agreeable
+to your own feelings, before we go out (for I’ll walk with you part of
+the way, though my leg gives under me with weariness), let’s have a look
+at the stock in trade.’
 
-‘O Jenny, if you could only give me the right word!’
+[[Mr Venus]] produced it, and it was perfectly correct; [[Mr Venus]] undertook
+to produce it again in the morning, and to keep tryst with Mr Wegg on
+Boffin’s doorstep as the [[Clock|clock]] struck ten. At a certain point of the
+[[Road|road]] between Clerkenwell and Boffin’s [[house]] (Mr Wegg expressly insisted
+that there should be no prefix to the Golden Dustman’s name) the
+partners separated for the [[Night|night]].
 
-‘I can. Stoop down.’
+It was a very bad [[Night|night]]; to which succeeded a very bad morning. The
+streets were so unusually slushy, muddy, and miserable, in the morning,
+that Wegg rode to the scene of action; arguing that a man who was, as
+it were, going to the Bank to draw out a handsome property, could [[Well|well]]
+afford that trifling expense.
 
-He stooped, and she whispered in his ear. She whispered in his ear one
-short word of a single syllable. Lightwood started, and looked at her.
+[[Venus]] was punctual, and Wegg undertook to knock at the door, and conduct
+the conference. Door knocked at. Door opened.
 
-‘Try it,’ said the little creature, with an excited and exultant face.
-She then bent over the unconscious man, and, for the first [[Time|time]], kissed
-him on the cheek, and kissed the poor maimed hand that was nearest to
-her. Then, she withdrew to the foot of the bed.
+‘Boffin at [[Home|home]]?’
+
+The servant replied that MR Boffin was at [[Home|home]].
+
+‘He’ll do,’ said Wegg, ‘though it ain’t what I call him.’
+
+The servant inquired if they had any appointment?
+
+‘Now, I tell you what, young fellow,’ said Wegg, ‘I won’t have it. This
+won’t do for me. I don’t want menials. I want Boffin.’
+
+They were shown into a waiting-room, where the all-powerful Wegg wore
+his hat, and whistled, and with his forefinger stirred up a [[Clock|clock]] that
+stood upon the chimneypiece, until he made it strike. In a few minutes
+they were shown upstairs into what used to be Boffin’s room; which,
+besides the door of entrance, had folding-doors in it, to make it one
+of a suite of rooms when occasion required. Here, Boffin was seated at a
+library-table, and here Mr Wegg, having imperiously motioned the servant
+to withdraw, drew up a chair and seated himself, in his hat, close
+beside him. Here, also, Mr Wegg instantly underwent the remarkable
+experience of having his hat twitched off his head and thrown out of a
+[[Window|window]], which was opened and shut for the purpose.

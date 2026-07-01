@@ -1,5 +1,5 @@
 ---
-title: "2 [[Henry IV]] — Act I, Scene 1 — exchange ([[Lord Chief Justice|LORD CHIEF JUSTICE]]) [12]"
+title: "2 Henry IV — Act I, Scene 1 — exchange (LORD CHIEF JUSTICE) [12]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/2-henry-iv-(shakespeare)"

@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 37 (part 3)"
+title: "Barnaby Rudge — Chapter 37 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_37/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_37/part_04">part 04 ›</a></div>
 </nav>
 
+
+So they rode (to the deep and unspeakable disgust of John Grueby) the
+whole length of Whitechapel, Leadenhall Street, and Cheapside, and into
+St Paul’s Churchyard. Arriving close to the [[Cathedral|cathedral]], he halted; spoke
+to Gashford; and looking upward at its lofty dome, shook his head, as
+though he said, ‘The Church in Danger!’ Then to be sure, the bystanders
+stretched their throats indeed; and he went on again with mighty
+acclamations from the mob, and lower bows than ever.
 
 So along the Strand, up [[Swallow]] Street, into the [[Oxford]] [[Road]], and thence
 to his [[house]] in Welbeck Street, near Cavendish Square, whither he was

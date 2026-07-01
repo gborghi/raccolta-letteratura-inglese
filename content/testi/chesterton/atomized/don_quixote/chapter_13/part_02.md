@@ -1,5 +1,5 @@
 ---
-title: "[[Don Quixote]] — Chapter 12 (part 2)"
+title: "Don Quixote — Chapter 12 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/don-quixote-(chesterton)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_13/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_13/part_03">part 03 ›</a></div>
 </nav>
 
+
+But Rosamund never felt nervous and did not think of apologising;
+or indeed even of explaining.  She said explosively:
+"Things out there are getting perfectly awful.  The librarian
+won't take off his clothes."
 
 "[[Well]], I should [[Hope|hope]] not," said Lord Seawood, and waited patiently.
 
@@ -117,16 +122,3 @@ catch-words. Lord Eden was a man with a lean and wrinkled face so much
 in contrast with his yellow hair as to make it look like a yellow wig.
 He was doing most of the talking, but his host never lost the air
 of one listening gravely to a report brought to headquarters.
-
-"The trouble is," said the Prime Minister, "that their side
-has suddenly developed somebody who believes in something.
-It's not fair, in a way.  We knew all about Labour members,
-of course, and they were damned like all other members.
-You couldn't insult them; you got at them by degrees;
-you told them they were admirable parliamentarians and foemen
-worthy of your steel, and then, of course, you found some
-sort of a job for them sooner or later; and there you were.
-But this business of the Coal-Tar people is different.
-The Unions wouldn't have been much different by themselves,
-of course.  People at a Trade [[Union]] meeting don't know what
-they're voting about--"

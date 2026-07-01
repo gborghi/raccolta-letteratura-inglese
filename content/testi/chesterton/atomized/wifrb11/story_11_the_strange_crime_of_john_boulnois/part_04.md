@@ -1,5 +1,5 @@
 ---
-title: "[[wifrb11]] — The Strange Crime of John Boulnois (part 4)"
+title: "wifrb11 — The Strange Crime of John Boulnois (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -15,13 +15,13 @@ tags:
 
 
      "Does Mrs Boulnois know?" asked James Dalroy, and again Kidd
-was conscious of an irrational [[Desire|desire]] to hit him on his curling mouth.
+was conscious of an irrational desire to hit him on his curling mouth.
 
      "I have not told her," said the doctor gruffly--, "but here come
 the police."
 
      The little priest had stepped out into the main avenue,
-and now returned with the fallen [[Sword|sword]], which looked ludicrously large
+and now returned with the fallen sword, which looked ludicrously large
 and theatrical when attached to his dumpy figure, at once clerical
 and commonplace.  "Just before the police come," he said apologetically,
 "has anyone got a light?"
@@ -31,26 +31,26 @@ and the priest held it close to the middle part of the blade,
 which he examined with blinking care.  Then, without glancing at
 the point or pommel, he handed the long weapon to the doctor.
 
-     "I [[Fear|fear]] I'm no use here," he said, with a brief sigh. 
-"I'll say good [[Night|night]] to you, gentlemen." And he walked away
-up the dark avenue towards the [[house]], his hands clasped behind him
+     "I fear I'm no use here," he said, with a brief sigh. 
+"I'll say good night to you, gentlemen." And he walked away
+up the dark avenue towards the house, his hands clasped behind him
 and his big head bent in cogitation.
 
      The rest of the group made increased haste towards the lodge-gates,
 where an inspector and two constables could already be seen
 in consultation with the lodge-keeper.  But the little priest
 only walked slower and slower in the dim cloister of pine, and at last
-stopped dead, on the steps of the [[house]].  It was his silent way
+stopped dead, on the steps of the house.  It was his silent way
 of acknowledging an equally silent approach; for there came towards
 him a presence that might have satisfied even Calhoun Kidd's demands
-for a lovely and aristocratic [[Ghost|ghost]].  It was a young woman
+for a lovely and aristocratic ghost.  It was a young woman
 in silvery satins of a Renascence design; she had golden hair
 in two long shining ropes, and a face so startingly pale between them
 that she might have been chryselephantine--made, that is, like some
 old Greek statues, out of ivory and gold.  But her eyes were very bright,
 and her voice, though low, was confident.
 
-     "[[Father Brown]]?" she said.
+     "Father Brown?" she said.
 
      "Mrs Boulnois?" he replied gravely.  Then he looked at her and
 immediately said:  "I see you know about Sir Claude."
@@ -60,29 +60,29 @@ immediately said:  "I see you know about Sir Claude."
      He did not answer the question, but asked another:  "Have you
 seen your husband?"
 
-     "My husband is at [[Home|home]]," she said.  "He has nothing to do with this."
+     "My husband is at home," she said.  "He has nothing to do with this."
 
      Again he did not answer; and the woman drew nearer to him,
 with a curiously intense expression on her face.
 
      "Shall I tell you something more?" she said, with a rather
 fearful smile.  "I don't think he did it, and you don't either."
-[[Father Brown]] returned her gaze with a long, [[Grave|grave]] stare, and then nodded,
+Father Brown returned her gaze with a long, grave stare, and then nodded,
 yet more gravely.
 
-     "[[Father Brown]]," said the lady, "I am going to tell you all I know,
+     "Father Brown," said the lady, "I am going to tell you all I know,
 but I want you to do me a favour first.  Will you tell me why
-you haven't jumped to the conclusion of poor John's [[Guilt|guilt]],
+you haven't jumped to the conclusion of poor John's guilt,
 as all the rest have done?   Don't mind what you say:  I--I know about
 the gossip and the appearances that are against me."
 
-     [[Father Brown]] looked honestly embarrassed, and passed his hand
+     Father Brown looked honestly embarrassed, and passed his hand
 across his forehead.  "Two very little things," he said. 
 "At least, one's very trivial and the other very vague. 
 But such as they are, they don't fit in with Mr Boulnois
 being the murderer."
 
-     He turned his blank, round face up to the [[Stars|stars]] and
+     He turned his blank, round face up to the stars and
 continued absentmindedly:  "To take the vague idea first. 
 I attach a good deal of importance to vague ideas.  All those things that
 `aren't evidence' are what convince me.  I think a moral impossibility

@@ -1,5 +1,5 @@
 ---
-title: "[[misc]] — THE FREE MAN"
+title: "misc — THE FREE MAN"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 THE FREE MAN
-
 
 The idea of liberty has ultimately a religious root; that is why
 men find it so easy to die for and so difficult to define.
@@ -46,7 +45,7 @@ he makes a man.  And in the third case we talk of a man "making [[Love|love]],"
 as if he were (as, indeed, he is) creating new masses and
 colours of that flaming material an awful form of manufacture.
 In its primary spiritual sense, liberty is the god in man, or, if you
-like the word, the [[artist]].
+like the word, the [[Artist|artist]].
 
 In its secondary political sense liberty is the living influence of
 the citizen on the State in the direction of moulding or deflecting it.

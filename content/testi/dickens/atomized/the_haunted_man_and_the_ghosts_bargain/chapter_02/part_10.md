@@ -1,5 +1,5 @@
 ---
-title: "The Haunted Man and the [[Ghost]]'s Bargain — Chapter 2 (part 10)"
+title: "The Haunted Man and the Ghost's Bargain — Chapter 2 (part 10)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-haunted-man-and-the-ghost's-bargain-(dickens)"
@@ -13,6 +13,61 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_02/part_09">‹ part 09</a><a class="ex-next" href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_02/part_11">part 11 ›</a></div>
 </nav>
 
+
+“Who washed them, and put those bandages where they were bruised and
+cracked?” asked the Chemist, pointing to their altered state.
+
+“The woman did.”
+
+“And is it she who has made you cleaner in the face, too?”
+
+“Yes, the woman.”
+
+Redlaw asked these questions to attract his eyes towards himself, and
+with the same intent now held him by the chin, and threw his wild hair
+back, though he loathed to touch him. The boy watched his eyes keenly,
+as if he thought it needful to his own defence, not knowing what he might
+do next; and Redlaw could see [[Well|well]] that no change came over him.
+
+“Where are they?” he inquired.
+
+“The woman’s out.”
+
+“I know she is. Where is the old man with the white hair, and his son?”
+
+“The woman’s husband, d’ye mean?” inquired the boy.
+
+“Ay. Where are those two?”
+
+“Out. Something’s the matter, somewhere. They were fetched out in a
+hurry, and told me to stop here.”
+
+“Come with me,” said the Chemist, “and I’ll give you money.”
+
+“Come where? and how much will you give?”
+
+“I’ll give you more shillings than you ever saw, and bring you back soon.
+Do you know your way to where you came from?”
+
+“You let me go,” returned the boy, suddenly twisting out of his grasp.
+“I’m not a going to take you there. Let me be, or I’ll heave some [[Fire|fire]]
+at you!”
+
+He was down before it, and ready, with his savage little hand, to pluck
+the burning coals out.
+
+What the Chemist had felt, in observing the effect of his charmed
+influence stealing over those with whom he came in contact, was not
+nearly equal to the cold vague terror with which he saw this baby-[[Monster|monster]]
+put it at defiance. It chilled his [[Blood|blood]] to look on the immovable
+impenetrable thing, in the likeness of a [[Child|child]], with its sharp malignant
+face turned up to his, and its almost infant hand, ready at the bars.
+
+“Listen, boy!” he said. “You shall take me where you please, so that you
+take me where the people are very miserable or very wicked. I want to do
+them good, and not to harm them. You shall have money, as I have told
+you, and I will bring you back. Get up! Come quickly!” He made a hasty
+step towards the door, afraid of her returning.
 
 “Will you let me walk by myself, and never hold me, nor yet touch me?”
 said the boy, slowly withdrawing the hand with which he threatened, and
@@ -100,45 +155,3 @@ cowering and trembling with the cold, and limping on one little foot,
 while he coiled the other round his leg to warm it, yet staring at all
 these things with that frightful likeness of expression so apparent in
 his face, that Redlaw started from him.
-
-“In there!” said the boy, pointing out the [[house]] again. “I’ll wait.”
-
-“Will they let me in?” asked Redlaw.
-
-“Say you’re a doctor,” he answered with a nod. “There’s plenty ill
-here.”
-
-Looking back on his way to the [[house]]-door, Redlaw saw him trail himself
-upon the [[Dust|dust]] and crawl within the shelter of the smallest arch, as if he
-were a rat. He had no pity for the thing, but he was afraid of it; and
-when it looked out of its den at him, he hurried to the [[house]] as a
-retreat.
-
-“Sorrow, wrong, and trouble,” said the Chemist, with a painful effort at
-some more distinct remembrance, “at least haunt this place darkly. He
-can do no harm, who brings forgetfulness of such things here!”
-
-With these words, he pushed the yielding door, and went in.
-
-There was a woman sitting on the stairs, either asleep or forlorn, whose
-head was bent down on her hands and knees. As it was not easy to pass
-without treading on her, and as she was perfectly regardless of his near
-approach, he stopped, and touched her on the shoulder. Looking up, she
-showed him quite a young face, but one whose bloom and promise were all
-swept away, as if the haggard [[Winter|winter]] should unnaturally kill the [[Spring|spring]].
-
-With little or no show of concern on his account, she moved nearer to the
-wall to leave him a wider passage.
-
-“What are you?” said Redlaw, pausing, with his hand upon the broken
-stair-rail.
-
-“What do you think I am?” she answered, showing him her face again.
-
-He looked upon the ruined Temple of God, so lately made, so soon
-disfigured; and something, which was not compassion—for the springs in
-which a true compassion for such miseries has its rise, were dried up in
-his breast—but which was nearer to it, for the moment, than any feeling
-that had lately struggled into the darkening, but not yet wholly
-darkened, [[Night|night]] of his mind—mingled a touch of softness with his next
-words.

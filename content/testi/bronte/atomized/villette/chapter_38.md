@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 36"
+title: "Villette — Chapter 36"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/villette-(bronte)"
@@ -187,7 +187,7 @@ preached and it persuaded.
 
 I lent to it my ear very willingly, for, small as it was, it possessed
 its own spell, and bound my attention at once. It preached Romanism; it
-persuaded to [[conversion]]. The voice of that sly little book was a
+persuaded to [[Conversion|conversion]]. The voice of that sly little book was a
 honeyed voice; its accents were all unction and balm. Here roared no
 utterance of Rome’s thunders, no blasting of the breath of her
 displeasure. The Protestant was to turn Papist, not so much in [[Fear|fear]] of

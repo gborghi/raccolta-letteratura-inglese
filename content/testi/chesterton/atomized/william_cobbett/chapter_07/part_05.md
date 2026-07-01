@@ -15,22 +15,22 @@ tags:
 
 
 There is an irony that is like an agony and is beyond speech or measure.
-It were vain to [[Wonder|wonder]], in the normal way, what manner of words would
+It were vain to wonder, in the normal way, what manner of words would
 have come to those all too tempestuous lips; what lucid violence of
-[[logic]] as of light through rending rocks would have tried to do justice
+logic as of light through rending rocks would have tried to do justice
 to that towering contradiction, in the days when the giant was young.
 Much he did say, of course, in his own way.  But there was something
 in that final contradiction that could not so be contradicted finally
 or fully:  and when Cobbett came with the clearer eyes of later life
-to look at the [[Reform]] Parliament, to look steadily at its Reformers
+to look at the Reform Parliament, to look steadily at its Reformers
 and its Parliamentarians, to absorb the whole scene of how such laws
-are made and how such men make them; to sit in his seat in [[Silence|silence]]
+are made and how such men make them; to sit in his seat in silence
 for a little, and take in all that enormous thing calmly and completely--
 then he made the only comment at all commensurate with it, or equal
 in eloquence to the occasion:  he died.
 
-The great world with its wheels of progress that went [[rolling]]
-over him did not understand his [[Death|death]] any more than his life.
+The great world with its wheels of progress that went rolling
+over him did not understand his death any more than his life.
 A hundred years afterwards he is perhaps better known than
 he was ten years afterwards, or even ten minutes afterwards.
 Two hundred years afterwards, perhaps, he will be known
@@ -43,7 +43,7 @@ doubtful whether there had ever been one human being who really
 understood what he meant.  His political allies were not friend;
 and they were not generally for very long allies.  And the reason
 was that not one of them could enlarge his mind to understand
-the mind of Cobbett; or that immense [[Desire|desire]] for the deliverance
+the mind of Cobbett; or that immense desire for the deliverance
 and perpetuation of the whole huge humanity of England.
 The makers of the French Pantheon, wisely combining republican and
 royal and imperial trophies, have inscribed their common monument,

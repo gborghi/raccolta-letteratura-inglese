@@ -1,5 +1,5 @@
 ---
-title: "[[Richard II]] — Act I, Scene 3 — exchange ([[John of Gaunt|JOHN OF GAUNT]]) [7]"
+title: "Richard II — Act I, Scene 3 — exchange (JOHN OF GAUNT) [7]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/richard-ii-(shakespeare)"

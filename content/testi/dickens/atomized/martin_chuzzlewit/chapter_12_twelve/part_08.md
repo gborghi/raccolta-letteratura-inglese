@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 12: TWELVE (part 8)"
+title: "Martin Chuzzlewit — Chapter 12: TWELVE (part 8)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,49 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_12_twelve/part_07">‹ part 07</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_13_thirteen/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘You are very obliging,’ returned Martin; ‘presently will not do. I must
+trouble you to talk to me at once.’
+
+Mr Pecksniff made a feint of being deeply interested in his pocketbook,
+but it shook in his hands; he trembled so.
+
+‘Now,’ retorted Martin, rapping the table again. ‘Now. Presently will
+not do. Now!’
+
+‘Do you threaten me, sir?’ cried Mr Pecksniff.
+
+Martin looked at him, and made no answer; but a curious observer
+might have detected an ominous twitching at his mouth, and perhaps
+an involuntary attraction of his right hand in the direction of Mr
+Pecksniff’s cravat.
+
+‘I lament to be obliged to say, sir,’ resumed Mr Pecksniff, ‘that it
+would be quite in keeping with your character if you did threaten me.
+You have deceived me. You have imposed upon a [[Nature|nature]] which you knew to
+be confiding and unsuspicious. You have obtained admission, sir,’ said
+Mr Pecksniff, rising, ‘to this [[house]], on perverted statements and on
+false pretences.’
+
+‘Go on,’ said Martin, with a scornful smile. ‘I understand you now. What
+more?’
+
+‘Thus much more, sir,’ cried Mr Pecksniff, trembling from head to foot,
+and trying to rub his hands, as though he were only cold. ‘Thus much
+more, if you force me to publish your shame before a third party, which
+I was unwilling and indisposed to do. This lowly roof, sir, must not
+be contaminated by the presence of one who has deceived, and cruelly
+deceived, an honourable, beloved, venerated, and venerable gentleman;
+and who wisely suppressed that deceit from me when he sought my
+protection and favour, knowing that, humble as I am, I am an honest
+man, seeking to do my duty in this carnal universe, and setting my face
+against all vice and treachery. I weep for your depravity, sir,’ said
+Mr Pecksniff; ‘I mourn over your corruption, I pity your voluntary
+withdrawal of yourself from the flowery paths of purity and peace;’ here
+he struck himself upon his breast, or moral [[Garden|garden]]; ‘but I cannot have
+a leper and a serpent for an inmate. Go forth,’ said Mr Pecksniff,
+stretching out his hand: ‘go forth, young man! Like all who know you, I
+renounce you!’
 
 With what intention Martin made a stride forward at these words, it is
 impossible to say. It is enough to know that [[Tom Pinch]] caught him in

@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 31 (part 1)"
+title: "Shirley — Chapter 31 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_30/part_05">‹ part 05</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_31/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_30/part_06">‹ part 06</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_31/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -225,9 +225,3 @@ seemed to sit on pins, and his gait, when he walked, emulated that of a
 hen treading a hot girdle. He was for ever looking out of the [[Window|window]] and
 
 listening for chariot-wheels. Bluebeard's wife--Sisera's mother--were
-
-nothing to him. He waited when the matter should be opened in form, when
-
-himself should be consulted, when lawyers should be summoned, when
-
-settlement discussions and all the delicious worldly fuss should

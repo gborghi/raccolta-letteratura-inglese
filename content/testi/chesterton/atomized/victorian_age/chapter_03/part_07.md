@@ -14,6 +14,40 @@ tags:
 </nav>
 
 
+great mediæval civilisation; but Rossetti used the religious imagery (on
+
+the whole) irreligiously, Christina Rossetti used it religiously but (on
+
+the whole) so to make it seem a narrower religion.
+
+One poet, or, to speak more strictly, one poem, belongs to the same
+
+general atmosphere and impulse as Swinburne; the free but languid
+
+atmosphere of later Victorian art. But this [[Time|time]] the [[Wind|wind]] blew from
+
+hotter and heavier gardens than the gardens of [[Italy]]. Edward
+
+Fitzgerald, a cultured eccentric, a friend of Tennyson, produced what
+
+professed to be a [[Translation|translation]] of the Persian poet Omar, who wrote
+
+quatrains about wine and roses and things in general. Whether the
+
+Persian original, in its own Persian way, was greater or less than this
+
+version I must not discuss here, and could not discuss anywhere. But it
+
+is quite clear that Fitzgerald's work is much too good to be a good
+
+[[Translation|translation]]. It is as personal and creative a thing as ever was written;
+
+and the best expression of a bad mood, a mood that may, for all I know,
+
+be permanent in Persia, but was certainly at this [[Time|time]] particularly
+
+fashionable in England. In the technical sense of literature it is one
+
 of the most remarkable achievements of that age; as poetical as
 
 Swinburne and far more perfect. In this verbal sense its most arresting
@@ -38,23 +72,15 @@ are successful in the same sense as "Pinnacled dim in the intense inane"
 
 or "Through verdurous glooms and winding mossy ways." But--
 
-
-
     "Indeed, indeed, repentance oft before
 
     I swore; but was I sober when I swore?"
 
-
-
 is equally successful in the same sense as--
-
-
 
     "Damn with faint praise, assent with civil leer
 
     And without sneering teach the rest to sneer."
-
-
 
 It thus earned a right to be considered the complete expression of that
 
@@ -116,8 +142,6 @@ not only to think but to live, not only to live but to grow, and not
 
 only to grow but to build.
 
-
-
 And, indeed, we see the insufficiency of such sad extremes even in the
 
 next name among the major poets; we see the Swinburnian [[Parody|parody]] of
@@ -142,25 +166,17 @@ moments; which were (if they had only known it) much more mediæval than
 
 their mediæval moments. Swinburne could write--
 
-
-
     "We shall see Buonaparte the bastard
 
     Kick heels with his throat in a rope."
-
-
 
 One has an uneasy feeling that William Morris would have written
 
 something like--
 
-
-
     "And the kin of the ill [[King|king]] Bonaparte
 
     Hath a high gallows for all his part."
-
-
 
 Rossetti could, for once in a way, write poetry about a real woman and
 
@@ -168,52 +184,8 @@ call her "Jenny." One has a disturbed suspicion that Morris would have
 
 called her "Jehanne."
 
-
-
 But all that seems at first more archaic and decorative about Morris
 
 really arose from the fact that he was more virile and real than either
 
 Swinburne or Rossetti. It arose from the fact that he really was, what
-
-he so often called himself, a craftsman. He had enough masculine
-
-strength to be tidy: that is, after the masculine manner, tidy about his
-
-own trade. If his [[Poems|poems]] were too like wallpapers, it was because he
-
-really could make wallpapers. He knew that lines of poetry ought to be
-
-in a row, as palings ought to be in a row; and he knew that neither
-
-palings nor poetry looks any the worse for being simple or even severe.
-
-In a sense Morris was all the more creative because he felt the hard
-
-limits of creation as he would have felt them if he were not working in
-
-words but in wood; and if he was unduly dominated by the mere
-
-conventions of the mediævals, it was largely because they were (whatever
-
-else they were) the very finest fraternity of free workmen the world is
-
-ever likely to see.
-
-
-
-The very things that were urged against Morris are in this sense part of
-
-his ethical importance; part of the more promising and wholesome turn he
-
-was half unconsciously giving to the movement of modern art. His hazier
-
-fellow-Socialists blamed him because he made money; but this was at
-
-least in some degree because he made other things to make money: it was
-
-part of the real and refreshing fact that at last an æsthete had
-
-appeared who could make something. If he was a capitalist, at least he
-
-was what later capitalists cannot or will not be--something higher than

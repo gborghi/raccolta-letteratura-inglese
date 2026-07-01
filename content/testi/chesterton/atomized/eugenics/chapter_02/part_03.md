@@ -1,5 +1,5 @@
 ---
-title: "[[Eugenics]] — Part 1 (part 3)"
+title: "Eugenics — Part 1 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/eugenics-(chesterton)"
@@ -75,7 +75,7 @@ are agnostic or generally unsympathetic to official religion.
 Suppose one of them said "The Church of England is full of hypocrisy."
 What would he think of me if I answered, "I assure you
 that hypocrisy is condemned by every form of [[Christianity]];
-and is particularly repudiated in the [[prayer|Prayer]] Book"?  Suppose he said
+and is particularly repudiated in the [[Prayer]] Book"?  Suppose he said
 that the Church of Rome had been guilty of great cruelties.
 What would he think of me if I answered, "The Church is expressly
 bound to meekness and [[Charity|charity]]; and therefore cannot be cruel"?

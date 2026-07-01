@@ -1,5 +1,5 @@
 ---
-title: "[[Agnes Grey]] — Volume 1: ’ll come and meet you when I’ve done it. Be quick, will"
+title: "Agnes Grey — Volume 1: ’ll come and meet you when I’ve done it. Be quick, will"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/agnes-grey-(bronte)"

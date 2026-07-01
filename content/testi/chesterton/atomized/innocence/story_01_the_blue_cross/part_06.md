@@ -1,5 +1,5 @@
 ---
-title: "[[innocence]] — The Blue [[Cross]] (part 6)"
+title: "innocence — The Blue Cross (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -15,18 +15,18 @@ tags:
 
 
 After he had listened for a minute and a half, he was gripped
-by a devilish [[Doubt|doubt]].  Perhaps he had dragged the two English
+by a devilish doubt.  Perhaps he had dragged the two English
 policemen to the wastes of a nocturnal heath on an errand no
 saner than seeking figs on its thistles.  For the two priests
 were talking exactly like priests, piously, with learning
 and leisure, about the most aerial enigmas of theology.
 The little Essex priest spoke the more simply, with his round
-face turned to the strengthening [[Stars|stars]]; the other talked with
+face turned to the strengthening stars; the other talked with
 his head bowed, as if he were not even worthy to look at them.
 But no more innocently clerical conversation could have been
-heard in any white Italian cloister or black Spanish [[Cathedral|cathedral]].
+heard in any white Italian cloister or black Spanish cathedral.
 
-The first he heard was the tail of one of [[Father Brown]]'s sentences,
+The first he heard was the tail of one of Father Brown's sentences,
 which ended:  "... what they really meant in the Middle Ages
 by the heavens being incorruptible."
 
@@ -34,14 +34,14 @@ The taller priest nodded his bowed head and said:
 
 "Ah, yes, these modern infidels appeal to their reason;
 but who can look at those millions of worlds and not feel
-that there may [[Well|well]] be wonderful universes above us where reason
+that there may well be wonderful universes above us where reason
 is utterly unreasonable?"
 
 "No," said the other priest; "reason is always reasonable,
 even in the last limbo, in the lost borderland of things.
 I know that people charge the Church with lowering reason,
-but it is just the other way.  [[Alone]] on earth, the Church makes
-reason really supreme.  [[Alone]] on earth, the Church affirms
+but it is just the other way.  Alone on earth, the Church makes
+reason really supreme.  Alone on earth, the Church affirms
 that God himself is bound by reason."
 
 The other priest raised his austere face to the spangled sky and said:
@@ -49,20 +49,20 @@ The other priest raised his austere face to the spangled sky and said:
 "Yet who knows if in that infinite universe--?"
 
 "Only infinite physically," said the little priest, turning sharply in
-his seat, "not infinite in the sense of escaping from the laws of [[Truth|truth]]."
+his seat, "not infinite in the sense of escaping from the laws of truth."
 
 Valentin behind his tree was tearing his fingernails with silent fury.
 He seemed almost to hear the sniggers of the English detectives whom he had
 brought so far on a fantastic guess only to listen to the metaphysical
 gossip of two mild old parsons.  In his impatience he lost the equally
 elaborate answer of the tall cleric, and when he listened again it was
-again [[Father Brown]] who was speaking:
+again Father Brown who was speaking:
 
 "Reason and justice grip the remotest and the loneliest star.
-Look at those [[Stars|stars]].  Don't they look as if they were single diamonds
-and sapphires?  [[Well]], you can imagine any mad botany or geology
-you please.  Think of forests of adamant with [[Leaves|leaves]] of brilliants.
-Think the [[Moon|moon]] is a blue [[Moon|moon]], a single elephantine sapphire.
+Look at those stars.  Don't they look as if they were single diamonds
+and sapphires?  Well, you can imagine any mad botany or geology
+you please.  Think of forests of adamant with leaves of brilliants.
+Think the moon is a blue moon, a single elephantine sapphire.
 But don't fancy that all that frantic astronomy would make
 the smallest difference to the reason and justice of conduct.
 On plains of opal, under cliffs cut out of pearl, you would still

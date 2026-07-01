@@ -1,5 +1,5 @@
 ---
-title: "[[CharlesDickens]] — Chapter 3 (part 6)"
+title: "CharlesDickens — Chapter 3 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/charlesdickens-(chesterton)"

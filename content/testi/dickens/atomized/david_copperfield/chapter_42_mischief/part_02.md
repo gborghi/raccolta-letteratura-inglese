@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 42: MISCHIEF (part 2)"
+title: "David Copperfield — Chapter 42: MISCHIEF (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_42_mischief/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_42_mischief/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘She is one of your lovely women, she is,’ he pursued, when he had
+slowly restored his face to its natural form; ‘and ready to be no friend
+to such as me, I know. She’s just the person as would put my Agnes up
+to higher sort of game. Now, I ain’t one of your lady’s men, Master
+Copperfield; but I’ve had eyes in my ed, a pretty long [[Time|time]] back. We
+umble ones have got eyes, mostly speaking--and we look out of ‘em.’
 
 I endeavoured to appear unconscious and not disquieted, but, I saw in
 his face, with poor [[success]].
@@ -121,17 +128,3 @@ thinks so much of your opinion, that I was quite afraid of it.’
 
 ‘My good opinion cannot strengthen his attachment to some people whom he
 knows,’ said Agnes, with a smile; ‘it is not worth their having.’
-
-‘But please let me have it,’ said Dora, in her coaxing way, ‘if you
-can!’
-
-We made merry about Dora’s wanting to be liked, and Dora said I was a
-goose, and she didn’t like me at any rate, and the short evening flew
-away on gossamer-wings. The [[Time|time]] was at hand when the coach was to call
-for us. I was standing [[Alone|alone]] before the [[Fire|fire]], when Dora came stealing
-softly in, to give me that usual precious little kiss before I went.
-
-‘Don’t you think, if I had had her for a friend a long [[Time|time]] ago, Doady,’
-said Dora, her bright eyes shining very brightly, and her little right
-hand idly busying itself with one of the buttons of my coat, ‘I might
-have been more clever perhaps?’

@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 16 (part 2)"
+title: "The Professor — Chapter 16 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -14,6 +14,12 @@ tags:
 </nav>
 
 
+after sunset; wolves haunt these glades, and Danish warriors infest the
+
+country; worse things are talked of; you might chance to hear, as it
+
+were, a [[Child|child]] cry, and on opening the door to afford it succour, a great
+
 black bull, or a shadowy goblin dog, might rush over the threshold;
 
 or, more awful still, if something flapped, as with wings, against the
@@ -24,15 +30,11 @@ hearth, such a visitor would be a sure sign of misfortune to the [[house]];
 
 therefore, heed my advice, and lift the latchet for nothing.”
 
-
-
 Her husband calls her away, both depart. The stranger, left [[Alone|alone]],
 
 listens awhile to the muffled [[Snow|snow]]-[[Wind|wind]], the remote, swollen sound of
 
 the [[River|river]], and then he speaks.
-
-
 
 “It is Christmas Eve,” says he, “I mark the date; here I sit [[Alone|alone]] on
 
@@ -70,8 +72,6 @@ and crushed by thee--though naked, desolate, void of resource--I do not
 
 in his own [[Time|time]], will aid.”
 
-
-
 I need not continue the quotation; the whole devoir was in the same
 
 strain. There were errors of orthography, there were foreign idioms,
@@ -102,8 +102,6 @@ mythological Destiny. This she had done without a hint from me: I had
 
 given the subject, but not said a word about the manner of treating it.
 
-
-
 “I will find, or make, an opportunity of speaking to her,” I said to
 
 myself as I rolled the devoir up; “I will learn what she has of English
@@ -113,8 +111,6 @@ in her besides the name of Frances Evans; she is no novice in the
 language, that is evident, yet she told me she had neither been in
 
 England, nor taken lessons in English, nor lived in English families.”
-
-
 
 In the course of my next lesson, I made a report of the other devoirs,
 
@@ -158,8 +154,6 @@ that a [[Hope|hope]] had been wrenched from her, and that if she did not show
 
 distress, it was because she would not.
 
-
-
 At four o’[[Clock|clock]], when the bell rang and the room was in immediate
 
 tumult, instead of taking my hat and starting from the estrade, I sat
@@ -172,8 +166,6 @@ eye, she made a quiet, respectful obeisance, as bidding good afternoon,
 
 and was turning to depart:--
 
-
-
 “Come here,” said I, lifting my finger at the same [[Time|time]]. She hesitated;
 
 she could not hear the words amidst the uproar now pervading both
@@ -184,26 +176,8 @@ within half a yard of the estrade, and looked shy, and still doubtful
 
 whether she had mistaken my meaning.
 
-
-
 “Step up,” I said, speaking with decision. It is the only way of dealing
 
 with diffident, easily embarrassed characters, and with some slight
 
 manual aid I presently got her placed just where I wanted her to be,
-
-that is, between my desk and the [[Window|window]], where she was screened from the
-
-rush of the second division, and where no one could sneak behind her to
-
-listen.
-
-
-
-“Take a seat,” I said, placing a tabouret; and I made her sit down. I
-
-knew what I was doing would be considered a very strange thing, and,
-
-what was more, I did not care. Frances knew it also, and, I [[Fear|fear]], by an
-
-appearance of agitation and trembling, that she cared much. I drew from

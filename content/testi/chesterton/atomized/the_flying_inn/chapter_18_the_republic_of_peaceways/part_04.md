@@ -14,6 +14,21 @@ tags:
 </nav>
 
 
+Mr. Hugby, of Hugby’s Ales, only looked gloomily at the table. His was not the sort of drinking nor the sort of drink-selling on which the revolutionary sentiment flourishes.
+
+
+
+
+“[[Well]],” said the Captain, “will you come with me and say ‘Hear, hear!’ and ‘How true!’–‘What matchless eloquence!’ if I make a speech in the market-place? Come along! There’s room in our car.”
+
+
+
+
+“[[Well]], I’ll come with you, if you like,” replied Mr. Hugby, heavily. “It’s true if yours is allowed we might get our trade back, too.” And putting on a silk hat he followed the Captain and the innkeeper out to their little car. The model village was not an appropriate background for Mr. Hugby’s silk hat. Indeed, the hat somehow seemed to bring out by contrast all that was fantastic in the place.
+
+
+
+
 It was a superb morning, some hours after sunrise. The edges of the sky touching the ring of dim woods and distant hills were still jewelled with the tiny transparent clouds of daybreak, delicate red and green or yellow. But above the vault of Heaven [[Rose|rose]] through turquoise into a torrid and solid blue in which the other clouds, the colossal cumuli, tumbled about like a celestial pillow-fight. The bulk of the houses were as white as the clouds, so that it looked (to use another simile) as if some of the whitewashed cottages were flying and falling about the sky. But most of the white houses were picked out here and there with bright colours, here an ornament in orange or there a stripe of lemon yellow, as if by the brush of a baby giant. The houses had no thatching (thatching is not hygienic) but were mostly covered with a sort of peacock green tiles bought cheap at a Preraphaelite Bazaar; or, less frequently, by some still more esoteric sort of terra cotta bricks. The houses were not English, nor homelike, nor suited to the landscape; for the houses had not been built by free men for themselves, but at the fancy of a whimsical lord. But considered as a sort of elfin [[City|city]] in a pantomime it was a really picturesque background for pantomimic proceedings.
 
 

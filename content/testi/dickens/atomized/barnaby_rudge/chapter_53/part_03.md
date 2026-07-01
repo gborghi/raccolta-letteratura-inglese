@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 53 (part 3)"
+title: "Barnaby Rudge — Chapter 53 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_53/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_54/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘Quite sure, eh, Muster Gashford?’ chuckled the hangman.
+
+Gashford paused a moment, struggling with his caution and his malice;
+then putting himself between the two men, and laying a hand upon the arm
+of each, said, in a cramped whisper:
 
 ‘Do not, my good friends--I am sure you will not--forget our talk one
 [[Night|night]]--in your [[house]], Dennis--about this person. No [[Mercy|mercy]], no quarter,

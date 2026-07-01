@@ -1,5 +1,5 @@
 ---
-title: "A Christmas [[carol|Carol]] — Stave 4: THE LAST OF THE SPIRITS"
+title: "A Christmas Carol — Stave 4: THE LAST OF THE SPIRITS"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/a-christmas-carol-(dickens)"
@@ -78,7 +78,7 @@ Scrooge followed in the [[Shadow|shadow]] of its dress, which bore him
 up, he thought, and carried him along.
 
 They scarcely seemed to enter the [[City|city]]; for the [[City|city]] rather
-seemed to [[Spring|spring]] up about them, and encompass them of its
+seemed to [[spring]] up about them, and encompass them of its
 own act. But there they were, in the heart of it; on
 'Change, amongst the merchants; who hurried up and down,
 and chinked the money in their pockets, and conversed in

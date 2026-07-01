@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 45 (part 2)"
+title: "The Tenant of Wildfell Hall — Chapter 45 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_45/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_45/part_03">part 03 ›</a></div>
 </nav>
 
+
+and fervently kissed it again and again; for [[Tears|tears]] prevented any other
+
+reply. She suffered these wild caresses without resistance or
+
+resentment; then, suddenly turning from me, she paced twice or thrice
 
 through the room. I knew by the contraction of her brow, the tight
 
@@ -233,17 +239,3 @@ wish it,” she added resolutely.
 “And you are young too, [[Helen]],” I boldly replied; “and when that
 
 profligate scoundrel has run through his career, you will give your
-
-hand to me—I’ll wait till then.”
-
-
-
-But she would not leave me this support. Independently of the moral
-
-evil of basing our hopes upon the [[Death|death]] of another, who, if unfit for
-
-this world, was at least no less so for the next, and whose
-
-amelioration would thus become our bane and his greatest transgression
-
-our greatest benefit,—she maintained it to be [[Madness|madness]]: many men of Mr.

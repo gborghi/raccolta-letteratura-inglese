@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 60 (part 1)"
+title: "Bleak House — Chapter 60 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -150,7 +150,3 @@ I had nothing to say. At least I had nothing in my mind that I could
 say. I had an undefined impression that it might have been better if
 we had had some other inmate, but I could hardly have explained why
 even to myself. Or, if to myself, certainly not to anybody else.
-
-“You see,” said my guardian, “our neighbourhood is in Woodcourt’s
-way, and he can come here to see her as often as he likes, which is
-agreeable to them both; and she is familiar to us and fond of you.”

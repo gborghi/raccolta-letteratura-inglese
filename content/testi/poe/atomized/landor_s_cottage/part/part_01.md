@@ -1,5 +1,5 @@
 ---
-title: "[[Landor's Cottage]] (part 1)"
+title: "Landor's Cottage (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/landor's-cottage-(poe)"
@@ -71,7 +71,7 @@ A Pendant to “[[The Domain of Arnheim]]”
       seat on one of the blossomy stones and gaze up and down this
       fairy-like avenue for half an hour or more in bewildered
       admiration. One thing became more and more evident the longer I
-      gazed: an [[Artist|artist]], and one with a most scrupulous eye for form,
+      gazed: an [[artist]], and one with a most scrupulous eye for form,
       had superintended all these arrangements. The greatest care had
       been taken to preserve a due medium between the neat and graceful
       on the one hand, and the pittoresque, in the true sense of the

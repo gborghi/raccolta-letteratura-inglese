@@ -1,5 +1,5 @@
 ---
-title: "[[innocence]] — The Sins of Prince Saradine (part 6)"
+title: "innocence — The Sins of Prince Saradine (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -13,6 +13,37 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_08_the_sins_of_prince_saradine/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_08_the_sins_of_prince_saradine/part_07">part 07 ›</a></div>
 </nav>
 
+
+Almost as he had the thought the ringing of the rapiers quickened
+to a rattle, the prince's arms flew up, and the point shot out behind
+between his shoulder-blades. He went over with a great whirling movement,
+almost like one throwing the half of a boy's cart-[[Wheel|wheel]]. The [[Sword|sword]] flew
+from his hand like a shooting star, and dived into the distant [[River|river]].
+And he himself sank with so earth-shaking a subsidence that he broke a big
+[[Rose|rose]]-tree with his [[Body|body]] and shook up into the sky a cloud of red earth--
+like the smoke of some heathen sacrifice.  The Sicilian had made
+[[Blood|blood]]-offering to the [[Ghost|ghost]] of his father.
+
+The priest was instantly on his knees by the corpse; but only to make
+too sure that it was a corpse.  As he was still trying some last hopeless
+tests he heard for the first [[Time|time]] voices from farther up the [[River|river]],
+and saw a police boat shoot up to the landing-stage, with constables
+and other important people, including the excited Paul.  The little
+priest [[Rose|rose]] with a distinctly dubious grimace.
+
+"Now, why on earth," he muttered, "why on earth couldn't he have come before?"
+
+Some seven minutes later the island was occupied by an invasion of townsfolk
+and police, and the latter had put their hands on the victorious duellist,
+ritually reminding him that anything he said might be used against him.
+
+"I shall not say anything," said the monomaniac, with a wonderful
+and peaceful face.  "I shall never say anything more.
+I am very happy, and I only want to be hanged."
+
+Then he shut his mouth as they led him away, and it is the strange
+but certain [[Truth|truth]] that he never opened it again in this world,
+except to say "Guilty" at his trial.
 
 [[Father Brown]] had stared at the suddenly crowded [[Garden|garden]], the arrest of
 the man of [[Blood|blood]], the carrying away of the corpse after its examination
@@ -98,51 +129,3 @@ wall just above the bowed and sombre head of the woman.  They saw
 plainly the family likeness that had haunted them in the dead man.
 Then his old shoulders began to heave and shake a little,
 as if he were choking, but his face did not alter.
-
-"My God!" cried [[Flambeau]] after a pause, "he's laughing!"
-
-"Come away," said [[Father Brown]], who was quite white.
-"Come away from this [[house]] of hell.  Let us get into an
-honest boat again."
-
-[[Night]] had sunk on rushes and [[River|river]] by the [[Time|time]] they had pushed off from
-the island, and they went down-stream in the dark, warming themselves
-with two big cigars that glowed like crimson ships' lanterns.  [[Father Brown]]
-took his cigar out of his mouth and said:
-
-"I suppose you can guess the whole story now?  After all,
-it's a primitive story.  A man had two enemies.  He was a wise man.
-And so he discovered that two enemies are better than one."
-
-"I do not follow that," answered [[Flambeau]].
-
-"Oh, it's really simple," rejoined his friend.  "Simple, though
-anything but [[Innocent|innocent]].  Both the Saradines were scamps,
-but the prince, the elder, was the sort of scamp that gets to the top,
-and the younger, the captain, was the sort that sinks to the [[Bottom|bottom]].
-This squalid officer fell from beggar to blackmailer,
-and one ugly day he got his hold upon his brother, the prince.
-Obviously it was for no light matter, for Prince Paul Saradine
-was frankly `fast,' and had no reputation to lose as to the mere
-sins of society.  In plain fact, it was a hanging matter,
-and Stephen literally had a rope round his brother's neck.
-He had somehow discovered the [[Truth|truth]] about the Sicilian affair,
-and could prove that Paul murdered old Antonelli in the [[Mountains|mountains]].
-The captain raked in the hush money heavily for ten years,
-until even the prince's splendid fortune began to look
-a little foolish.
-
-"But Prince Saradine bore another burden besides his [[Blood|blood]]-sucking brother.
-He knew that the son of Antonelli, a mere [[Child|child]] at the [[Time|time]] of the murder,
-had been trained in savage Sicilian loyalty, and lived only to avenge
-his father, not with the gibbet (for he lacked Stephen's legal proof),
-but with the old weapons of vendetta.  The boy had practised arms with
-a deadly perfection, and about the [[Time|time]] that he was old enough to use
-them Prince Saradine began, as the society papers said, to travel.
-The fact is that he began to flee for his life, passing from place to place
-like a hunted criminal; but with one relentless man upon his trail.
-That was Prince Paul's position, and by no means a pretty one.
-The more money he spent on eluding Antonelli the less he had to
-[[Silence|silence]] Stephen.  The more he gave to [[Silence|silence]] Stephen the less chance
-there was of finally escaping Antonelli.  Then it was that he showed
-himself a great man--a genius like Napoleon.

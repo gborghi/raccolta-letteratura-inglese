@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 46 (part 3)"
+title: "Great Expectations — Chapter 46 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_46/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_47/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Dear boy,” he answered, clasping my hands, “I don’t know when we may
+meet again, and I don’t like good-bye. Say good-[[Night|night]]!”
 
 “Good-[[Night|night]]! Herbert will go regularly between us, and when the [[Time|time]]
 comes you may be certain I shall be ready. Good-[[Night|night]], good-[[Night|night]]!”

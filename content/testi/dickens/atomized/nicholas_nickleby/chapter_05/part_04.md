@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 5 (part 4)"
+title: "Nicholas Nickleby — Chapter 5 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_05/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_06/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘Upon my word,’ said the gentleman, glancing at Nicholas with a
+half-smile, and a more than half expression of surprise, ‘these are
+advantages indeed.’
+
+‘You may say that, sir,’ rejoined Squeers, thrusting his hands into his
+great-coat pockets. ‘The most unexceptionable references are given
+and required. I wouldn’t take a reference with any boy, that wasn’t
+responsible for the payment of five pound five a quarter, no, not if you
+went down on your knees, and asked me, with the [[Tears|tears]] running down your
+face, to do it.’
+
+‘Highly considerate,’ said the passenger.
+
+‘It’s my great aim and end to be considerate, sir,’ rejoined Squeers.
+‘Snawley, junior, if you don’t leave off chattering your teeth, and
+shaking with the cold, I’ll warm you with a severe thrashing in about
+half a minute’s [[Time|time]].’
 
 ‘Sit fast here, genelmen,’ said the guard as he clambered up.
 

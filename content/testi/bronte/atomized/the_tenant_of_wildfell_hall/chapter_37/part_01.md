@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 37 (part 1)"
+title: "The Tenant of Wildfell Hall — Chapter 37 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -92,7 +92,7 @@ perverted [[Nature|nature]].
 
 
 
-Happily, there were none of [[arthur|Arthur]]’s “friends” invited to Grassdale
+Happily, there were none of [[Arthur]]’s “friends” invited to Grassdale
 
 last [[Autumn|autumn]]: he took himself off to visit some of them instead. I wish
 
@@ -197,15 +197,3 @@ offended, he can best tell you himself what it is about.”
 
 
 “I’ll ask him,” cried the giddy girl, springing up and putting her head
-
-out of the [[Window|window]]: “he’s only in the [[Garden|garden]]—Walter!”
-
-
-
-“No, no, Esther! you will seriously displease me if you do; and I shall
-
-leave you immediately, and not come again for months—perhaps years.”
-
-
-
-“Did you call, Esther?” said her brother, approaching the [[Window|window]] from

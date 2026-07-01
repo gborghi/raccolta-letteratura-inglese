@@ -14,6 +14,64 @@ tags:
 </nav>
 
 
+‘What do you think,’ said Mr. Craggs, ‘about—’
+
+‘Hush!’ replied his cautious partner, looking straight before him.  ‘I
+understand you.  Don’t mention names, and don’t let us, seem to be
+talking [[Secrets|secrets]].  I don’t know what to think; and to tell you the [[Truth|truth]],
+I don’t care now.  It’s a great relief.  His [[Self|self]]-[[Love|love]] deceived him, I
+suppose.  Perhaps the young lady coquetted a little.  The evidence would
+seem to point that way.  Alfred not arrived?’
+
+‘Not yet,’ said Mr. Craggs.  ‘Expected every minute.’
+
+‘Good.’ Mr. Snitchey wiped his forehead again.  ‘It’s a great relief.  I
+haven’t been so nervous since we’ve been in partnership.  I intend to
+spend the evening now, Mr. Craggs.’
+
+Mrs. Craggs and Mrs. Snitchey joined them as he announced this intention.
+The Bird of Paradise was in a state of extreme vibration, and the little
+[[Bells|bells]] were ringing quite audibly.
+
+‘It has been the theme of general comment, Mr. Snitchey,’ said Mrs.
+Snitchey.  ‘I [[Hope|hope]] the office is satisfied.’
+
+‘Satisfied with what, my dear?’ asked Mr. Snitchey.
+
+‘With the exposure of a defenceless woman to ridicule and remark,’
+returned his wife.  ‘That is quite in the way of the office, _that_ is.’
+
+‘I really, myself,’ said Mrs. Craggs, ‘have been so long accustomed to
+connect the office with everything opposed to domesticity, that I am glad
+to know it as the avowed enemy of my peace.  There is something honest in
+that, at all events.’
+
+‘My dear,’ urged Mr. Craggs, ‘your good opinion is invaluable, but _I_
+never avowed that the office was the enemy of your peace.’
+
+‘No,’ said Mrs. Craggs, ringing a perfect peal upon the little [[Bells|bells]].
+‘Not you, indeed.  You wouldn’t be worthy of the office, if you had the
+candour to.’
+
+‘As to my having been away to-[[Night|night]], my dear,’ said Mr. Snitchey, giving
+her his arm, ‘the deprivation has been mine, I’m sure; but, as Mr. Craggs
+knows—’
+
+Mrs. Snitchey cut this reference very short by hitching her husband to a
+distance, and asking him to look at that man.  To do her the favour to
+look at him!
+
+‘At which man, my dear?’ said Mr. Snitchey.
+
+‘Your chosen companion; _I_’m no companion to you, Mr. Snitchey.’
+
+‘Yes, yes, you are, my dear,’ he interposed.
+
+‘No, no, I’m not,’ said Mrs. Snitchey with a majestic smile.  ‘I know my
+station.  Will you look at your chosen companion, Mr. Snitchey; at your
+referee, at the keeper of your [[Secrets|secrets]], at the man you trust; at your
+other [[Self|self]], in short?’
+
 The habitual association of [[Self]] with Craggs, occasioned Mr. Snitchey to
 look in that direction.
 
@@ -76,53 +134,3 @@ whispered to them slyly, it flashed about their waists, it flickered on
 the ground and made it rosy for their feet, it bloomed upon the ceiling
 that its glow might set off their bright faces, and it kindled up a
 general illumination in Mrs. Craggs’s little belfry.
-
-Now, too, the lively air that fanned it, grew less gentle as the music
-quickened and the [[Dance|dance]] proceeded with new spirit; and a breeze arose
-that made the [[Leaves|leaves]] and berries [[Dance|dance]] upon the wall, as they had often
-done upon the trees; and the breeze rustled in the room as if an
-invisible company of fairies, treading in the foot-steps of the good
-substantial revellers, were whirling after them.  Now, too, no feature of
-the Doctor’s face could be distinguished as he spun and spun; and now
-there seemed a dozen [[Birds]] of Paradise in fitful flight; and now there
-were a thousand little [[Bells|bells]] at work; and now a fleet of flying skirts
-was ruffled by a little tempest, when the music gave in, and the [[Dance|dance]]
-was over.
-
-Hot and breathless as the Doctor was, it only made him the more impatient
-for Alfred’s coming.
-
-‘Anything been seen, Britain?  Anything been heard?’
-
-‘Too dark to see far, sir.  Too much noise inside the [[house]] to hear.’
-
-‘That’s right!  The gayer welcome for him.  How goes the [[Time|time]]?’
-
-‘Just twelve, sir.  He can’t be long, sir.’
-
-‘Stir up the [[Fire|fire]], and throw another log upon it,’ said the Doctor.  ‘Let
-him see his welcome blazing out upon the [[Night|night]]—good boy!—as he comes
-along!’
-
-He saw it—Yes!  From the chaise he caught the light, as he turned the
-corner by the old church.  He knew the room from which it shone.  He saw
-the wintry branches of the old trees between the light and him.  He knew
-that one of those trees rustled musically in the [[Summer|summer]] [[Time|time]] at the
-[[Window|window]] of Marion’s chamber.
-
-The [[Tears|tears]] were in his eyes.  His heart throbbed so violently that he
-could hardly bear his happiness.  How often he had thought of this
-[[Time|time]]—pictured it under all circumstances—feared that it might never
-come—yearned, and wearied for it—far away!
-
-Again the light!  Distinct and ruddy; kindled, he knew, to give him
-welcome, and to [[Speed|speed]] him [[Home|home]].  He beckoned with his hand, and waved his
-hat, and cheered out, loud, as if the light were they, and they could see
-and hear him, as he dashed towards them through the mud and mire,
-triumphantly.
-
-Stop!  He knew the Doctor, and understood what he had done.  He would not
-let it be a surprise to them.  But he could make it one, yet, by going
-forward on foot.  If the orchard-gate were open, he could enter there; if
-not, the wall was easily climbed, as he knew of old; and he would be
-among them in an instant.

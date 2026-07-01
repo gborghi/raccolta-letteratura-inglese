@@ -1,5 +1,5 @@
 ---
-title: "The Tempest — Act III, Scene 3 — monologue ([[Ariel|ARIEL]]) [2]"
+title: "The Tempest — Act III, Scene 3 — monologue (ARIEL) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-tempest-(shakespeare)"

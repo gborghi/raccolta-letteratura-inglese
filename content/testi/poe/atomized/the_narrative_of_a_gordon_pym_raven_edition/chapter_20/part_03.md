@@ -14,6 +14,18 @@ tags:
 </nav>
 
 
+      was no need of arms where all were brothers. We took this in good
+
+      part, and proceeded.
+
+
+
+      We had passed the [[spring]] and rivulet of which I before spoke, and
+
+      were now entering upon a narrow gorge leading through the chain
+
+      of soapstone hills among which the village was situated. This
+
       gorge was very rocky and uneven, so much so that it was with no
 
       little difficulty we scrambled through it on our first visit to

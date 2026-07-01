@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 4 (part 1)"
+title: "Villette — Chapter 4 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/works/villette-(bronte)">Villette</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_03/part_05">‹ part 05</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_04/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_03/part_06">‹ part 06</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_04/part_02">part 02 ›</a></div>
 </nav>
 
 

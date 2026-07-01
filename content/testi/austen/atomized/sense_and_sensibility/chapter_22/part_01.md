@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 22 (part 1)"
+title: "Sense and Sensibility — Chapter 22 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -235,7 +235,3 @@ sisters.”—She paused.
 Elinor for a few moments remained silent. Her astonishment at what she
 
 heard was at first too great for words; but at length forcing herself
-
-to speak, and to speak cautiously, she said, with calmness of manner,
-
-which tolerably [[Well|well]] concealed her surprise and solicitude—“May I ask

@@ -1,5 +1,5 @@
 ---
-title: "[[wifrb11]] — The Paradise of Thieves (part 1)"
+title: "wifrb11 — The Paradise of Thieves (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
                         The Paradise of Thieves
-
 
 THE great Muscari, most original of the young Tuscan poets,
 walked swiftly into his favourite restaurant, which overlooked
@@ -128,16 +127,3 @@ to want it."
 
      "I'm stupid enough for that," said Ezza gloomily.  "But I should
 suggest a suspension of your critique of the banker, for here he comes."
-
-     Mr Harrogate, the great financier, did indeed enter the room,
-but nobody looked at him.  He was a massive elderly man with
-a boiled blue eye and faded grey-sandy moustaches; but for
-his heavy stoop he might have been a colonel.  He carried several
-unopened letters in his hand.  His son Frank was a really fine lad,
-curly-haired, sun-burnt and strenuous; but nobody looked at him either. 
-All eyes, as usual, were riveted, for the moment at least,
-upon Ethel Harrogate, whose golden Greek head and colour of the [[Dawn|dawn]]
-seemed set purposely above that sapphire sea, like a goddess's. 
-The poet Muscari drew a deep breath as if he were drinking something,
-as indeed he was.  He was drinking the Classic; which his fathers made. 
-Ezza studied her with a gaze equally intense and far more baffling.

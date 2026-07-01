@@ -136,13 +136,13 @@ used in defence of any novelty.  Observe what is really said
 in praise of the Electric Toothpick or the Petrol Pea-shooter.
 We are always assured that the discovery `has come to stay'.
 We, who have lived long enough to understand the real value of life,
-know perfectly [[Well|well]] that nothing of that sort has ever come to stay.
+know perfectly well that nothing of that sort has ever come to stay.
 It may do all sorts of other things; but there is one thing that it
 cannot do; and that is to stay.  We shall show no irritation,
 please God, on being repeatedly introduced to the Hat of the Future
-and the Umbrella of the New Age and the Goloshes of the Good [[Time]] Coming.
-But the only thing we really have learnt from life is that the good [[Time|time]]
-will be going as [[Well|well]] as coming, and that, in the book of fashions,
+and the Umbrella of the New Age and the Goloshes of the Good Time Coming.
+But the only thing we really have learnt from life is that the good time
+will be going as well as coming, and that, in the book of fashions,
 the Hat of the Future will be recorded as the Hat of the Past.
 It is now the custom to condemn youth as too frivolous.
 But youth is always too serious; and just now it is too serious

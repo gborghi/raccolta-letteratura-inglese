@@ -14,6 +14,24 @@ tags:
 </nav>
 
 
+Mallow, in his more mystical mood, looked strangely from one to the other,
+for indeed there was a certain vague similarity between the two tall,
+fair-haired figures, the one on the [[house]] and the other on the [[Hill|hill]].
+
+"Perhaps I am rather like him," said Gale quietly.  "Perhaps I'm
+just sufficiently like him to learn not to be like him, so to speak.
+We may both be [[Birds|birds]] of a feather, the yellow feather; but we
+don't flock together, because he likes to flock by himself.
+And as to being a hammer, yellow or otherwise, [[Well|well]], that also
+is an [[Allegory|allegory]]."
+
+"I decline to make head or tail of your allegories,"
+said Dr. Garth shortly.
+
+"I used to want a hammer to smash things with," continued Gale;
+"but I've learnt to do something else with a hammer, which is what
+a hammer is meant for; and every now and then I manage to do it."
+
 "What do you mean by that?" inquired the doctor.
 
 "I can hit the right nail on the head," answered the poet.
@@ -104,27 +122,3 @@ He felt that a change had come over everything with the man's
 mere presence; and wished to know how far that change had gone.
 He half expected to see those familiar rooms swept bare, or filled
 with strange furniture where the stranger had passed.
-
-Accident, indeed, gave to their passage through those empty rooms
-an air of pursuit, as if something were escaping.  For, as they
-passed from an outer room into the long library, the stranger,
-who was at the other end by the [[Window|window]], emphasized his restless [[Love|love]]
-of the open air by putting one long leg over the low [[Window|window]]-sill
-and stepping out on to the lawn.  He had evidently, however, no real
-[[Desire|desire]] to avoid them, for he stood there smiling in the sunlight,
-and uttered some greeting very pleasantly with a slight foreign accent.
-He was still wearing the long lemon-coloured dressing-gown which,
-along with his yellow hair, had suggested the comparison
-of a yellow bird.  Under the yellow hair his brow was broad
-but not high, and the nose was not only long and straight,
-but came down in a single line from the forehead in the manner
-that may be seen on many Greek coins and carvings, but which has
-an unnatural and even sinister symmetry when seen in real life.
-There was nothing else eccentric or exuberant about him; his manners
-were casual, but not ungraceful; and nothing contradicted the sunny
-ease of his situation and demeanour except, perhaps, a slightly
-strained look in the eyes, which were eager and prominent.
-Until his acquaintances grew accustomed to it, as a fixed involuntary
-feature of his face, they occasionally had a sort of shock when
-catching his quiet face in [[Shadow|shadow]] and realizing that the round eyes
-were standing out of his head.

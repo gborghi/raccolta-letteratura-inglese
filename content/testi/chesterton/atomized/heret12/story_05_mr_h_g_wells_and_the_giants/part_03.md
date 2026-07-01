@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]] — Mr. H. G. Wells and the Giants (part 3)"
+title: "heret12 — Mr. H. G. Wells and the Giants (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/heret12-(chesterton)"

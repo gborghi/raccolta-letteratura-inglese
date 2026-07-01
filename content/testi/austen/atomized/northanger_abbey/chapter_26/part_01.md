@@ -1,5 +1,5 @@
 ---
-title: "[[Northanger Abbey]] — Chapter 25 (part 1)"
+title: "Northanger Abbey — Chapter 25 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/northanger-abbey-(austen)"
@@ -199,9 +199,3 @@ so particularly strange!
 
 
 For nine successive mornings, Catherine wondered over the repetition of
-
-a disappointment, which each morning became more severe: but, on the
-
-tenth, when she entered the breakfast-room, her first object was a
-
-letter, held out by Henry’s willing hand. She thanked him as heartily

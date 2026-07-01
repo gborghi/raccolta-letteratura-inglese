@@ -112,7 +112,3 @@ was business of some kind or other.  If it’s about the apartments, of
 course you’ll give my brother regular notice, you know--or money.
 That’s very easily settled.  You’re a responsible party, and in such a
 case lawful money and lawful notice are pretty much the same.’
-
-‘I am obliged to you for your good opinion,’ retorted the single
-gentleman, ‘and quite concur in these sentiments.  But that is not the
-subject on which I wish to speak with you.’

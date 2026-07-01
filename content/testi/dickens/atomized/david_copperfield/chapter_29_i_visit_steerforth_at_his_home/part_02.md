@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 29: I VISIT STEERFORTH AT HIS [[Home|HOME]], AGAIN (part 2)"
+title: "David Copperfield — Chapter 29: I VISIT STEERFORTH AT HIS HOME, AGAIN (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_29_i_visit_steerforth_at_his_home/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_29_i_visit_steerforth_at_his_home/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘Miss Dartle,’ I returned, ‘how shall I tell you, so that you will
+believe me, that I know of nothing in Steerforth different from what
+there was when I first came here? I can think of nothing. I firmly
+believe there is nothing. I hardly understand even what you mean.’
 
 As she still stood looking fixedly at me, a twitching or throbbing,
 from which I could not dissociate the idea of [[Pain|pain]], came into that cruel
@@ -133,8 +138,3 @@ departure. ‘She is playing her harp,’ said Steerforth, softly, at the
 drawing-room door, ‘and nobody but my mother has heard her do that, I
 believe, these three years.’ He said it with a curious smile, which was
 gone directly; and we went into the room and found her [[Alone|alone]].
-
-‘Don’t get up,’ said Steerforth (which she had already done)’ my dear
-Rosa, don’t! Be kind for once, and sing us an Irish [[Song|song]].’
-
-‘What do you care for an Irish [[Song|song]]?’ she returned.

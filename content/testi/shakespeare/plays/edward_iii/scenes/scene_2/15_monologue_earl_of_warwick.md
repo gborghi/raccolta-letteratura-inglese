@@ -1,5 +1,5 @@
 ---
-title: "[[Edward III]] — Scene 2 — monologue ([[Earl of Warwick|EARL OF WARWICK]]) [15]"
+title: "Edward III — Scene 2 — monologue (EARL OF WARWICK) [15]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/edward-iii-(shakespeare)"

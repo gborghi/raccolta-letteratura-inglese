@@ -14,6 +14,29 @@ tags:
 </nav>
 
 
+They passed out of the room uninterrupted by the two others, the one
+dazed and staggered, the other still blind and snorting and panting with
+passions of relief and rage. But as they passed, [[Father Brown]] once
+turned his face to the young man; and the young man was one of the very
+few human beings who have seen that face implacable.
+
+'He was right there,' said [[Father Brown]]. 'When an actor brings his
+wickedness into this [[Innocent|innocent]] village, he challenges the judgement of
+God.'
+
+'[[Well]],' said [[Father Brown]], as he and the doctor again settled themselves
+in a railway carriage standing in the station of Potter's Pond. 'As you
+say, it's a strange story; but I don't think it's any longer a mystery
+story. Anyhow, the story seems to me to have been roughly this.
+Maltravers came here, with part of his touring company; some of them
+went straight to Dutton - Abbot, where they were all presenting some
+[[Melodrama|melodrama]] about the early nineteenth century; he himself happened to be
+hanging about in his stage dress, the very distinctive dress of a dandy
+of that [[Time|time]]. Another character was an old - fashioned parson, whose
+dark dress was less distinctive and might pass as being merely old -
+fashioned. This part was taken by a man who mostly acted old men; had
+acted [[Shylock]] and was afterwards going to act [[Polonius]].
+
 'A third figure in the drama was our dramatic poet, who was also a
 dramatic performer, and quarrelled with Maltravers about how to present
 [[Hamlet]], but more about personal things, too. I think it likely that he

@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 58 (part 3)"
+title: "Bleak House — Chapter 58 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_58/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_58/part_04">part 04 ›</a></div>
 </nav>
 
+
+“Miss Dedlock don’t speak of my eldest son, Sir Leicester, but my
+youngest. I have found him. He has come [[Home|home]].”
 
 Sir Leicester breaks [[Silence|silence]] with a harsh cry. “George? Your son
 George come [[Home|home]], Mrs. Rouncewell?”
@@ -147,9 +150,3 @@ of my Lady’s society. She has found it necessary to make a [[Journey|journey]]
 trust will shortly return. [[Volumnia]], do I make myself intelligible?
 The words are not quite under my command in the manner of pronouncing
 them.”
-
-[[Volumnia]] understands him perfectly, and in [[Truth|truth]] he delivers himself
-with far greater plainness than could have been supposed possible a
-minute ago. The effort by which he does so is written in the anxious
-and labouring expression of his face. Nothing but the strength of his
-purpose enables him to make it.

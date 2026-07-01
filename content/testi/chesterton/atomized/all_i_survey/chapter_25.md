@@ -82,7 +82,7 @@ nostrils open; and he knows by instinct that through these open
 questions he draws in the air and life of the universe.
 Why [[Dreams|dreams]] are different from daylight, why dead things are
 different from live things, why he himself is different from others,
-why [[Beauty|beauty]] makes us restless and even [[Love|love]] is a [[spring]] of quarrels,
+why [[Beauty|beauty]] makes us restless and even [[Love|love]] is a [[Spring|spring]] of quarrels,
 why we cannot so fit into our environment as to forget it
 and ourselves; all these things are felt vaguely by children on long,
 empty afternoons; or by primitive poets writing the epics and legends

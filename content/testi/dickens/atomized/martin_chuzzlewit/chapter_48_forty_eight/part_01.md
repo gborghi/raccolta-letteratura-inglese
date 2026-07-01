@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 48: FORTY EIGHT (part 1)"
+title: "Martin Chuzzlewit — Chapter 48: FORTY EIGHT (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -125,10 +125,3 @@ tell it; and then he shook hands with them again; and then he introduced
 his sister again; and then he did everything he had done already all
 over again; and nothing Tom could do, and nothing Tom could say, was
 half sufficient to express his joy at their safe return.
-
-Mr Tapley was the first to resume his composure. In a very short space
-of [[Time|time]] he was discovered to have somehow installed himself in office as
-waiter, or attendant upon the party; a fact which was first suggested to
-them by his temporary absence in the kitchen, and speedy return with a
-kettle of boiling [[Water|water]], from which he replenished the tea-pot with a
-[[Self|self]]-possession that was quite his own.

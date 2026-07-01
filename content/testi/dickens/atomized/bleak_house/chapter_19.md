@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 19"
+title: "Bleak House — Chapter 19"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/bleak-house-(dickens)"
@@ -293,7 +293,7 @@ experience that the Chadband style of oratory is widely received and
 much admired.
 
 Mr. Chadband, however, having concluded for the present, sits down at
-Mr. Snagsby’s table and lays about him prodigiously. The [[conversion]]
+Mr. Snagsby’s table and lays about him prodigiously. The [[Conversion|conversion]]
 of nutriment of any sort into oil of the quality already mentioned
 appears to be a process so inseparable from the constitution of this
 exemplary vessel that in beginning to eat and drink, he may be

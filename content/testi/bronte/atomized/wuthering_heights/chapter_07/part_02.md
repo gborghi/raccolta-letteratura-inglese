@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 7 (part 2)"
+title: "Wuthering Heights — Chapter 7 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/wuthering-heights-(bronte)"
@@ -124,6 +124,3 @@ him back with a sudden thrust, and angrily bade Joseph “keep the fellow
 out of the room—send him into the garret till dinner is over. He’ll be
 cramming his fingers in the tarts and stealing the fruit, if left [[Alone|alone]]
 with them a minute.”
-
-“Nay, sir,” I could not avoid answering, “he’ll touch nothing, not he:
-and I suppose he must have his share of the dainties as [[Well|well]] as we.”

@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 16 (part 3)"
+title: "Oliver Twist — Chapter 16 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,28 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_16/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_17/part_01">part 01 ›</a></div>
 </nav>
 
+
+The housebreaker flung the girl from him to the further end of the
+room, just as the Jew and the two boys returned, dragging [[Oliver]] among
+them.
+
+“What’s the matter here!” said [[Fagin]], looking round.
+
+“The girl’s gone mad, I think,” replied Sikes, savagely.
+
+“No, she hasn’t,” said [[Nancy]], pale and breathless from the scuffle;
+“no, she hasn’t, [[Fagin]]; don’t think it.”
+
+“Then keep quiet, will you?” said the Jew, with a threatening look.
+
+“No, I won’t do that, neither,” replied [[Nancy]], speaking very loud.
+“Come! What do you think of that?”
+
+Mr. [[Fagin]] was sufficiently [[Well|well]] acquainted with the manners and customs
+of that particular species of humanity to which [[Nancy]] belonged, to feel
+tolerably certain that it would be rather unsafe to prolong any
+conversation with her, at present. With the view of diverting the
+attention of the company, he turned to [[Oliver]].
 
 “So you wanted to get away, my dear, did you?” said the Jew, taking up
 a jagged and knotted club which lay in a corner of the fireplace; “eh?”

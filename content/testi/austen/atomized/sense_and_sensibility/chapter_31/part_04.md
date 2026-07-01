@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 31 (part 4)"
+title: "Sense and Sensibility — Chapter 31 (part 4)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -13,6 +13,30 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_31/part_03">‹ part 03</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_32/part_01">part 01 ›</a></div>
 </nav>
 
+
+of your sister? No, he had already done that, which no man who _can_
+
+feel for another would do. He had left the girl whose youth and
+
+[[innocence]] he had seduced, in a situation of the utmost distress, with
+
+no creditable [[Home|home]], no help, no friends, ignorant of his address! He
+
+had left her, promising to return; he neither returned, nor wrote, nor
+
+relieved her.”
+
+
+
+“This is beyond every thing!” exclaimed Elinor.
+
+
+
+“His character is now before you; expensive, dissipated, and worse than
+
+both. Knowing all this, as I have now known it many weeks, guess what I
+
+must have felt on seeing your sister as fond of him as ever, and on
 
 being assured that she was to marry him: guess what I must have felt
 

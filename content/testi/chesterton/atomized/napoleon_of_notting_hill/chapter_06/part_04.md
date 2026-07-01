@@ -1,5 +1,5 @@
 ---
-title: "Napoleon of Notting [[Hill]] — Chapter 2 (part 4)"
+title: "Napoleon of Notting Hill — Chapter 3 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/napoleon-of-notting-hill-(chesterton)"
@@ -14,74 +14,70 @@ tags:
 </nav>
 
 
-"The Lord High Provost of South Kensington desires an audience."
+"It has made mean landscapes magnificent, and hovels outlast cathedrals,"
+went on the madman.  "Why should it not make lampposts fairer
+than Greek lamps, and an omnibus ride like a painted [[Ship|ship]]?
+The touch of it is the finger of a strange perfection."
 
-"The Lord High Provost of South Kensington!" cried the [[King]].
-"Why, that is my old friend [[James Barker]]!  What does he want, I [[Wonder|wonder]]?
-If the tender memories of [[Friendship|friendship]] have not grown misty,
-I fancy he wants something for himself, probably money.
-How are you, James?"
+"What is your wand?" cried the [[King]], impatiently.
 
-Mr. [[James Barker]], whose guard was attired in a splendid blue,
-and whose blue banner bore three gold [[Birds|birds]] singing, rushed, in his
-blue and gold robes, into the room.  Despite the absurdity of all
-the dresses, it was worth noticing that he carried his better
-than the rest, though he loathed it as much as any of them.
-He was a gentleman, and a very handsome man, and could not help
-unconsciously wearing even his preposterous robe as it should be worn.
-He spoke quickly, but with the slight initial hesitation he always
-showed in addressing the [[King]], due to suppressing an impulse
-to address his old acquaintance in the old way.
+"There it is," said Wayne; and pointed to the floor, where his [[Sword|sword]]
+lay flat and shining.
 
-"Your Majesty...pray forgive my intrusion.  It is about this man
-at Pump Street.  I see you have Buck here, so you have probably
-heard what is necessary.  I..."
+"The [[Sword|sword]]!" cried the [[King]]; and sprang up straight on the dais.
 
-The [[King]] swept his eyes anxiously round the room, which now blazed
-with the trappings of three cities.
+"Yes, yes," cried Wayne, hoarsely.  "The things touched by that are
+not vulgar.  The things touched by that..."
 
-"There is one thing necessary," he said.
+[[King]] Auberon made a gesture of horror.
 
-"Yes, your Majesty," said Mr. Wilson of Bayswater, a little eagerly.
-"What does yer Majesty think necessary?"
+"You will shed [[Blood|blood]] for that!" he cried.  "For a cursed point of view..."
 
-"A little yellow," said the [[King]], firmly.  "Send for the Provost
-of West Kensington."
+"Oh, you kings, you kings," cried out Adam, in a burst of scorn.
+"How humane you are, how tender, how considerate.  You will make war
+for a frontier, or the imports of a foreign harbour; you will shed
+[[Blood|blood]] for the precise duty on lace, or the salute to an admiral.
+But for the things that make life itself worthy or miserable...how
+humane you are.  I say here, and I know [[Well|well]] what I speak of,
+there were never any necessary wars but the religious wars.
+There were never any just wars but the religious wars.
+There were never any humane wars but the religious wars.
+For these men were fighting for something that claimed, at least,
+to be the happiness of a man, the virtue of a man.  A Crusader thought,
+at least, that [[Islam]] hurt the [[Soul|soul]] of every man, [[King|king]] or tinker,
+that it could really capture.  I think Buck and Barker and these rich
+vultures hurt the [[Soul|soul]] of every man, hurt every inch of the ground,
+hurt every brick of the houses, that they can really capture.
+Do you think I have no right to fight for Notting [[Hill]],
+you whose English [[government|Government]] has so often fought for tomfooleries?
+If, as your rich friends say, there are no gods, and the skies
+are dark above us, what should a man fight for, but the place where
+he had the Eden of [[Childhood|childhood]] and the short heaven of first [[Love|love]]?
+If no temples and no scriptures are sacred, what is sacred if a man's
+own youth is not sacred?"
 
-Amid some materialistic protests he was sent for and arrived with
-his yellow halberdiers in his saffron robes, wiping his forehead
-with a handkerchief.  After all, placed as he was, he had a good
-deal to say on the matter.
+The [[King]] walked a little restlessly up and down the dais.
 
-"Welcome, West Kensington," said the [[King]].  "I have long wished
-to see you, touching that matter of the Hammersmith land to the south
-of the Rowton [[house|House]].  Will you hold it feudally from the Provost
-of Hammersmith?  You have only to do him homage by putting his left
-arm in his overcoat and then marching [[Home|home]] in state."
+"It is hard," he said, biting his lips, "to assent to a view
+so desperate...so responsible..."
 
-"No, your Majesty; I'd rather not," said the Provost of West Kensington,
-who was a pale young man with a fair moustache and whiskers,
-who kept a successful dairy.
+As he spoke, the door of the audience chamber fell ajar,
+and through the aperture came, like the sudden chatter of a bird,
+the high, nasal, but [[Well|well]]-bred voice of Barker.
 
-The [[King]] struck him heartily on the shoulder.
+"I said to him quite plainly...the public interests..."
 
-"The fierce old West Kensington [[Blood|blood]]," he said; "they are not wise
-who ask it to do homage."
+Auberon turned on Wayne with violence.
 
-Tnen he glanced again round the room.  It was full of a roaring
-sunset of colour, and he enjoyed the sight, possible to so few
-artists...the sight of his own [[Dreams|dreams]] moving and blazing before him.
-In the foreground the yellow of the West Kensington liveries outlined
-itself against the dark blue draperies of South Kensington.
-The crests of these again brightened suddenly into green
-as the almost woodland colours of Bayswater [[Rose|rose]] behind them.
-And over and behind all, the great purple plumes of North Kensington
-showed almost funereal and black.
+"What the devil is all this?  What am I saying?  What are you saying?
+Have you hypnotized me?  Curse your [[Uncanny|uncanny]] blue eyes!
+Let me go.  Give me back my sense of [[Humour|humour]].  Give it me back.
+Give it me back, I say!"
 
-"There is something lacking," said the [[King]], "something lacking.
-What can...Ah, there it is!...there it is!"
+"I solemnly assure you," said Wayne, uneasily, with a gesture,
+as if feeling all over himself, "that I haven't got it."
 
-In the doorway had appeared a new figure, a herald in flaming red.
-He cried in a loud but unemotional voice:
+The [[King]] fell back in his chair, and went into a roar
+of Rabelaisian laughter.
 
-"The Lord High Provost of Notting [[Hill]] desires an audience."
+"I don't think you have," he cried.

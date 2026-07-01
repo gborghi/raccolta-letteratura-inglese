@@ -31,7 +31,7 @@ not be tempted into seeing what was not there, by any evolutionary
 excitement or fashionable speculation.  If he had heard of such
 things he would admit, of course, that the speculations might be
 true and were not incompatible with the facts that were true.
-The [[artist]] may have had another side to his character besides
+The [[Artist|artist]] may have had another side to his character besides
 that which he has [[Alone|alone]] left on record in his works of art.
 The primitive man may have taken a pleasure in beating women
 as [[Well|well]] as in drawing [[Animals|animals]]; all we can say is that the drawings

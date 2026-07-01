@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 47 (part 3)"
+title: "Bleak House — Chapter 47 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_47/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_47/part_04">part 04 ›</a></div>
 </nav>
 
+
+He shuffles slowly into Mr. George’s gallery and stands huddled
+together in a bundle, looking all about the floor. He seems to know
+that they have an inclination to shrink from him, partly for what he
+is and partly for what he has caused. He, too, shrinks from them. He
+is not of the same order of things, not of the same place in
+creation. He is of no order and no place, neither of the beasts nor
+of humanity.
 
 “Look here, Jo!” says Allan. “This is Mr. George.”
 
@@ -144,12 +152,3 @@ Woodcourt,” the trooper resumes his march, “all I say is, he is an
 old man; but I am glad I shall never have the chance of setting spurs
 to my [[Horse|horse]] and riding at him in a fair field. For if I had that
 chance, in one of the humours he drives me into—he’d go down, sir!”
-
-Mr. George has been so excited that he finds it necessary to wipe his
-forehead on his shirt-sleeve. Even while he whistles his impetuosity
-away with the national anthem, some involuntary shakings of his head
-and heavings of his chest still linger behind, not to mention an
-occasional hasty adjustment with both hands of his open shirt-collar,
-as if it were scarcely open enough to prevent his being troubled by a
-choking sensation. In short, Allan Woodcourt has not much [[Doubt|doubt]] about
-the going down of Mr. Tulkinghorn on the field referred to.

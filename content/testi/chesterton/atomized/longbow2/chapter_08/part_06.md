@@ -1,5 +1,5 @@
 ---
-title: "[[longbow2]] — Chapter 8 (part 6)"
+title: "longbow2 — Chapter 8 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -15,13 +15,13 @@ tags:
 
 
 "Then something happened, which even those who saw it and survived
-cannot describe.  The dark trees seemed to [[Spring|spring]] up to twice
-their height as in a [[nightmare]].  In the half-dark the whole wood
-seemed to rise from the earth like a rush of [[Birds|birds]] and then to turn
+cannot describe.  The dark trees seemed to spring up to twice
+their height as in a nightmare.  In the half-dark the whole wood
+seemed to rise from the earth like a rush of birds and then to turn
 over in mid-air and come towards the invaders like a roaring wave. 
 Some such dim and dizzy sight they saw; but many of them at least saw
 little enough afterwards.  Simultaneously with the turning of this
-[[Wheel|wheel]] of waving trees, rocks seemed to rain down out of heaven;
+wheel of waving trees, rocks seemed to rain down out of heaven;
 beams and stones and shafts and missiles of all kinds, flattening out
 the advancing force as under a pavement produced by a shower of
 paving-stones. It is asserted that some of the countrymen cunning
@@ -60,11 +60,11 @@ A moment after, he bounded, as it were, in a new direction.
 "And that reminds me of what I came about," he cried.  "Enoch Oates,
 your American friend, drags religion into politics all right; only it's
 a rather American sort of religion.  He's talking about a United
-States of Europe and wants to introduce you to a Lithuanian Prophet. 
+States of Europe and wants to introduce you to a Lithuanian [[Prophet]]. 
 It seems this Lithuanian party has started a movement for a
 Universal Peasant Republic or World State of Workers on the Land;
 but at present he's only got as far as Lithuania.  But he seems
-inclined to pick up England on the way, after the unexpected success
+inclined to pick up England on the way, after the unexpected [[success]]
 of the English agrarian party."
 
 "What's the good of talking to me about a World State," growled Hood. 
@@ -78,7 +78,7 @@ the very bets and jokes in which the whole thing began,
 will never be translated.  It takes an Englishman to eat his hat;
 I never heard of a Spaniard threatening to eat his sombrero,
 or a Chinaman to chew his pigtail.  You can only set the Thames
-on fire; you cannot set the Tiber or the Ganges on fire,
+on [[Fire|fire]]; you cannot set the Tiber or the Ganges on [[Fire|fire]],
 because the habit of speech has never been heard of.
 What's the good of talking about white elephants in countries
 where they are only white elephants?  Go and say to a Frenchman,
@@ -126,15 +126,3 @@ these things.  The South Sea idol still stood at the corner;
 the scarecrow still wore the hat that he had sacrificed; the cabbages
 still looked green and solid like the cabbage he had once dug up,
 digging up so much along with it.
-
-"Queer thing," he said, "how true it is what Hilary once said about
-acting an [[Allegory|allegory]] without knowing it.  Never had a notion of what I
-was doing when I picked up a cabbage and wore it for a wager. 
-Damned awkward position, but I never dreamed I was being martyred
-for a symbol.  And the right symbol, too, for I've lived to see
-Britannia crowned with cabbage.  All very [[Well|well]] to say Britannia
-ruled the waves; it was the land she couldn't rule, her own land,
-and it was heaving like earthquakes.  But while there's cabbage
-there's [[Hope|hope]].  Archer, my friend, this is the moral:  any country
-that tries to do without cabbages is done for.  And even in war you
-often fight as much with cabbages as cannon-balls."

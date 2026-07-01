@@ -1,5 +1,5 @@
 ---
-title: "[[history]] — Chapter 4"
+title: "history — Chapter 4"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/history-(chesterton)"
@@ -235,7 +235,7 @@ We still find it necessary to have a reserve of philanthropists,
 but we trust it to men who have made themselves rich, not to men
 who have made themselves poor.  Finally, the abbots and abbesses
 were elective.  They introduced representative [[government]],
-unknown to ancient [[Democracy|democracy]], and in itself a semi-sacramental idea.
+unknown to ancient [[democracy]], and in itself a semi-sacramental idea.
 If we could look from the outside at our own institutions, we should
 see that the very notion of turning a thousand men into one large man
 walking to Westminster is not only an act of [[Faith|faith]], but a fairy tale.

@@ -1,5 +1,5 @@
 ---
-title: "[[Don Quixote]] — Chapter 18"
+title: "Don Quixote — Chapter 18"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/don-quixote-(chesterton)"
@@ -213,7 +213,7 @@ there may be people who ask for nothing better than banks
 and brokers; there may be people who think Milldyke a nice place.
 Your father and his friends may have been right in their way;
 I'm sure they weren't so wrong as they looked when he was abusing
-them . . . it was hateful, and anyhow he had no business to [[Spring|spring]]
+them . . . it was hateful, and anyhow he had no business to [[spring]]
 it on you like that, without telling you beforehand."
 
 The statue spoke again; it seemed as if it never spoke except

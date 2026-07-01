@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 9 (part 7)"
+title: "Shirley — Chapter 9 (part 7)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,52 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_09/part_06">‹ part 06</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_09/part_08">part 08 ›</a></div>
 </nav>
 
+
+exquisite enough for thy fastidious senses."
+
+
+
+Martin looked disdain, but vouchsafed no further reply. Meantime Mark,
+
+who for some minutes had been rummaging amongst a pile of books on a
+
+side-table, took the word. He spoke in a peculiarly slow, quiet voice,
+
+and with an expression of still irony in his face not easy to describe.
+
+
+
+"Mr. Moore," said he, "you think perhaps it was a compliment on Miss
+
+[[Caroline Helstone]]'s part to say you were not sentimental. I thought you
+
+appeared confused when my sisters told you the words, as if you felt
+
+flattered. You turned red, just like a certain vain little lad at our
+
+school, who always thinks proper to blush when he gets a rise in the
+
+class. For your benefit, Mr. Moore, I've been looking up the word
+
+'sentimental' in the dictionary, and I find it to mean 'tinctured with
+
+sentiment.' On examining further, 'sentiment' is explained to be
+
+thought, idea, notion. A sentimental man, then, is one who has thoughts,
+
+ideas, notions; an unsentimental man is one destitute of thought, idea,
+
+or notion."
+
+
+
+And Mark stopped. He did not smile, he did not look round for
+
+admiration. He had said his say, and was silent.
+
+
+
+"Ma foi! mon ami," observed Mr. Moore to Yorke, "ce sont vraiment des
 
 enfants terribles, que les vôtres!"
 
@@ -231,69 +277,3 @@ fellow who preaches at the chapel yonder sometimes."
 
 
 "Not Moses Barraclough?"
-
-
-
-"Yes."
-
-
-
-"Ah! you've arrested him? Good! Then out of a scoundrel you're going to
-
-make a martyr. You've done a wise thing."
-
-
-
-"I've done a right thing. [[Well]], the short and the long of it is, I'm
-
-determined to get Farren a place, and I reckon on you to give him one."
-
-
-
-"This is cool, however!" exclaimed Mr. Yorke. "What right have you to
-
-reckon on me to provide for your dismissed workmen? What do I know about
-
-your Farrens and your Williams? I've heard he's an honest man, but am I
-
-to support all the honest men in Yorkshire? You may say that would be no
-
-great charge to undertake; but great or little, I'll none of it."
-
-
-
-"Come, Mr. Yorke, what can you find for him to do?"
-
-
-
-"_I_ find! You'll make me use language I'm not accustomed to use. I wish
-
-you would go [[Home|home]]. Here is the door; set off."
-
-
-
-Moore sat down on one of the hall chairs.
-
-
-
-"You can't give him work in your mill--good; but you have land. Find him
-
-some occupation on your land, Mr. Yorke."
-
-
-
-"Bob, I thought you cared nothing about our _lourdauds de paysans_. I
-
-don't understand this change."
-
-
-
-"I do. The fellow spoke to me nothing but [[Truth|truth]] and sense. I answered
-
-him just as roughly as I did the rest, who jabbered mere gibberish. I
-
-couldn't make distinctions there and then. His appearance told what he
-
-had gone through lately clearer than his words; but where is the use of
-
-explaining? Let him have work."

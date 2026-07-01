@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 6 (part 1)"
+title: "Our Mutual Friend — Chapter 9 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,148 +10,124 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_46/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_47/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_46/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_47/part_02">part 02 ›</a></div>
 </nav>
 
 
-Chapter 6
+Chapter 9
 
-THE GOLDEN DUSTMAN FALLS INTO WORSE COMPANY
+SOMEBODY BECOMES THE SUBJECT OF A PREDICTION
 
 
-It had come to pass that Mr [[Silas Wegg]] now rarely attended the minion of
-fortune and the worm of the hour, at his (the worm’s and minion’s) own
-[[house]], but lay under general instructions to await him within a certain
-margin of hours at the Bower. Mr Wegg took this arrangement in great
-dudgeon, because the appointed hours were evening hours, and those he
-considered precious to the progress of the friendly move. But it was
-quite in character, he bitterly remarked to [[Mr Venus]], that the upstart
-who had trampled on those eminent creatures, Miss Elizabeth, Master
-George, Aunt Jane, and Uncle Parker, should oppress his literary man.
+‘“We give thee hearty thanks for that it hath pleased thee to deliver
+this our sister out of the miseries of this sinful world.”’ So read the
+Reverend Frank Milvey in a not untroubled voice, for his heart misgave
+him that all was not quite right between us and our sister—or say our
+sister in Law—Poor Law—and that we sometimes read these words in an
+awful manner, over our Sister and our Brother too.
 
-The Roman Empire having worked out its destruction, Mr Boffin next
-appeared in a cab with Rollin’s Ancient [[history|History]], which valuable work
-being found to possess lethargic properties, broke down, at about the
-period when the whole of the army of Alexander the Macedonian (at that
-[[Time|time]] about forty thousand strong) burst into [[Tears|tears]] simultaneously, on
-his being taken with a shivering fit after bathing. The Wars of the
-Jews, likewise languishing under Mr Wegg’s generalship, Mr Boffin
-arrived in another cab with Plutarch: whose Lives he found in the sequel
-extremely entertaining, though he hoped Plutarch might not expect him to
-believe them all. What to believe, in the course of his reading, was Mr
-Boffin’s chief literary difficulty indeed; for some [[Time|time]] he was divided
-in his mind between half, all, or none; at length, when he decided, as a
-moderate man, to compound with half, the question still remained, which
-half? And that stumbling-block he never got over.
+And Sloppy—on whom the brave deceased had never turned her back until
+she ran away from him, knowing that otherwise he would not be separated
+from her—Sloppy could not in his [[Conscience|conscience]] as yet find the hearty
+thanks required of it. Selfish in Sloppy, and yet excusable, it may be
+humbly hoped, because our sister had been more than his mother.
 
-One evening, when [[Silas Wegg]] had grown accustomed to the arrival of
-his patron in a cab, accompanied by some profane historian charged with
-unutterable names of incomprehensible peoples, of impossible descent,
-waging wars any number of years and syllables long, and carrying
-illimitable hosts and riches about, with the greatest ease, beyond the
-confines of geography—one evening the usual [[Time|time]] passed by, and no
-patron appeared. After half an hour’s grace, Mr Wegg proceeded to the
-outer gate, and there executed a whistle, conveying to [[Mr Venus]],
-if perchance within hearing, the tidings of his being at [[Home|home]] and
-disengaged. Forth from the shelter of a neighbouring wall, [[Mr Venus]] then
-emerged.
+The words were read above the ashes of Betty Higden, in a corner of a
+churchyard near the [[River|river]]; in a churchyard so obscure that there was
+nothing in it but grass-mounds, not so much as one single tombstone.
+It might not be to do an unreasonably great deal for the diggers and
+hewers, in a registering age, if we ticketed their graves at the common
+charge; so that a new generation might know which was which: so that the
+soldier, sailor, emigrant, coming [[Home|home]], should be able to identify the
+resting-place of father, mother, playmate, or betrothed. For, we turn up
+our eyes and say that we are all alike in [[Death|death]], and we might turn
+them down and work the saying out in this world, so far. It would
+be sentimental, perhaps? But how say ye, my lords and gentleman and
+honourable boards, shall we not find good standing-room left for a
+little sentiment, if we look into our crowds?
 
-‘Brother in arms,’ said Mr Wegg, in excellent spirits, ‘welcome!’
+Near unto the Reverend Frank Milvey as he read, stood his little wife,
+John Rokesmith the Secretary, and [[Bella Wilfer]]. These, over and above
+Sloppy, were the mourners at the lowly [[Grave|grave]]. Not a penny had been
+added to the money sewn in her dress: what her honest spirit had so long
+projected, was fulfilled.
 
-In return, [[Mr Venus]] gave him a rather dry good evening.
+‘I’ve took it in my head,’ said Sloppy, laying it, inconsolable, against
+the church door, when all was done: ‘I’ve took it in my wretched head
+that I might have sometimes turned a little harder for her, and it cuts
+me deep to think so now.’
 
-‘Walk in, brother,’ said Silas, clapping him on the shoulder, ‘and take
-your seat in my chimley corner; for what says the ballad?
+The Reverend Frank Milvey, comforting Sloppy, expounded to him how the
+best of us were more or less remiss in our turnings at our respective
+Mangles—some of us very much so—and how we were all a halting,
+failing, feeble, and inconstant crew.
 
-     “No malice to dread, sir,
-     And no falsehood to [[Fear|fear]],
-     But [[Truth|truth]] to delight me, [[Mr Venus]],
-     And I forgot what to cheer.
-     Li toddle de om dee.
-     And something to guide,
-     My ain fireside, sir,
-     My ain fireside.”’
+‘SHE warn’t, sir,’ said Sloppy, taking this ghostly counsel rather ill,
+in behalf of his late benefactress. ‘Let us speak for ourselves, sir.
+She went through with whatever duty she had to do. She went through with
+me, she went through with the Minders, she went through with herself,
+she went through with everythink. O Mrs Higden, Mrs Higden, you was a
+woman and a mother and a mangler in a million million!’
 
-With this quotation (depending for its neatness rather on the spirit
-than the words), Mr Wegg conducted his guest to his hearth.
+With those heartfelt words, Sloppy removed his dejected head from the
+church door, and took it back to the [[Grave|grave]] in the corner, and laid it
+down there, and wept [[Alone|alone]]. ‘Not a very poor [[Grave|grave]],’ said the Reverend
+Frank Milvey, brushing his hand across his eyes, ‘when it has that
+homely figure on it. Richer, I think, than it could be made by most of
+the sculpture in Westminster Abbey!’
 
-‘And you come, brother,’ said Mr Wegg, in a hospitable glow, ‘you come
-like I don’t know what—exactly like it—I shouldn’t know you from
-it—shedding a halo all around you.’
+They left him undisturbed, and passed out at the wicket-gate. The
+[[Water|water]]-[[Wheel|wheel]] of the paper-mill was audible there, and seemed to have a
+softening influence on the bright wintry scene. They had arrived but a
+little while before, and [[Lizzie Hexam]] now told them the little she could
+add to the letter in which she had enclosed Mr Rokesmith’s letter and
+had asked for their instructions. This was merely how she had heard the
+groan, and what had afterwards passed, and how she had obtained leave
+for the remains to be placed in that sweet, fresh, empty store-room of
+the mill from which they had just accompanied them to the churchyard,
+and how the last requests had been religiously observed.
 
-‘What kind of halo?’ asked [[Mr Venus]].
+‘I could not have done it all, or nearly all, of myself,’ said Lizzie.
+‘I should not have wanted the will; but I should not have had the power,
+without our managing partner.’
 
-‘’Ope sir,’ replied Silas. ‘That’s YOUR halo.’
+‘Surely not the Jew who received us?’ said Mrs Milvey.
 
-[[Mr Venus]] appeared doubtful on the point, and looked rather
-discontentedly at the [[Fire|fire]].
+(‘My dear,’ observed her husband in parenthesis, ‘why not?’)
 
-‘We’ll devote the evening, brother,’ exclaimed Wegg, ‘to prosecute our
-friendly move. And arterwards, crushing a flowing wine-cup—which I
-allude to brewing rum and [[Water|water]]—we’ll pledge one another. For what says
-the Poet?
+‘The gentleman certainly is a Jew,’ said Lizzie, ‘and the lady, his
+wife, is a Jewess, and I was first brought to their notice by a Jew. But
+I think there cannot be kinder people in the world.’
 
-     “And you needn’t, [[Mr Venus]], be your black bottle,
-     For surely I’ll be mine,
-     And we’ll take a glass with a slice of lemon in it to which
-     you’re partial,
-     For auld lang syne.”’
+‘But suppose they try to [[convert]] you!’ suggested Mrs Milvey, bristling
+in her good little way, as a clergyman’s wife.
 
-This flow of quotation and hospitality in Wegg indicated his observation
-of some little querulousness on the part of [[Venus]].
+‘To do what, ma’am?’ asked Lizzie, with a modest smile.
 
-‘Why, as to the friendly move,’ observed the last-named gentleman,
-rubbing his knees peevishly, ‘one of my objections to it is, that it
-DON’T move.’
+‘To make you change your religion,’ said Mrs Milvey.
 
-‘Rome, brother,’ returned Wegg: ‘a [[City|city]] which (it may not be generally
-known) originated in twins and a wolf; and ended in Imperial marble:
-wasn’t built in a day.’
+Lizzie shook her head, still smiling. ‘They have never asked me what
+my religion is. They asked me what my story was, and I told them. They
+asked me to be industrious and faithful, and I promised to be so.
+They most willingly and cheerfully do their duty to all of us who are
+employed here, and we try to do ours to them. Indeed they do much more
+than their duty to us, for they are wonderfully mindful of us in many
+ways.’
 
-‘Did I say it was?’ asked [[Venus]].
+‘It is easy to see you’re a favourite, my dear,’ said little Mrs Milvey,
+not quite pleased.
 
-‘No, you did not, brother. [[Well]]-inquired.’
+‘It would be very ungrateful in me to say I am not,’ returned Lizzie,
+‘for I have been already raised to a place of confidence here. But that
+makes no difference in their following their own religion and leaving
+all of us to ours. They never talk of theirs to us, and they never talk
+of ours to us. If I was the last in the mill, it would be just the same.
+They never asked me what religion that poor thing had followed.’
 
-‘But I do say,’ proceeded [[Venus]], ‘that I am taken from among my trophies
-of anatomy, am called upon to exchange my human warious for mere
-coal-ashes warious, and nothing comes of it. I think I must give up.’
+‘My dear,’ said Mrs Milvey, aside to the Reverend Frank, ‘I wish you
+would talk to her.’
 
-‘No, sir!’ remonstrated Wegg, enthusiastically. ‘No, Sir!
-
-     “Charge, Chester, charge,
-     On, [[Mr Venus]], on!”
-
-Never say die, sir! A man of your mark!’
-
-‘It’s not so much saying it that I object to,’ returned [[Mr Venus]], ‘as
-doing it. And having got to do it whether or no, I can’t afford to waste
-my [[Time|time]] on groping for nothing in cinders.’
-
-‘But think how little [[Time|time]] you have given to the move, sir, after all,’
-urged Wegg. ‘Add the evenings so occupied together, and what do they
-come to? And you, sir, harmonizer with myself in opinions, views, and
-feelings, you with the patience to fit together on wires the whole
-framework of society—I allude to the human skelinton—you to give in so
-soon!’
-
-‘I don’t like it,’ returned [[Mr Venus]] moodily, as he put his head between
-his knees and stuck up his dusty hair. ‘And there’s no encouragement to
-go on.’
-
-‘Not them Mounds without,’ said Mr Wegg, extending his right hand with
-an air of solemn reasoning, ‘encouragement? Not them Mounds now looking
-down upon us?’
-
-‘They’re too big,’ grumbled [[Venus]]. ‘What’s a scratch here and a scrape
-there, a poke in this place and a dig in the other, to them. Besides;
-what have we found?’
-
-‘What HAVE we found?’ cried Wegg, delighted to be able to acquiesce.
-‘Ah! There I grant you, comrade. Nothing. But on the contrary, comrade,
-what MAY we find? There you’ll grant me. Anything.’
-
-‘I don’t like it,’ pettishly returned [[Venus]] as before. ‘I came into
-it without enough consideration. And besides again. Isn’t your own Mr
-Boffin [[Well|well]] acquainted with the Mounds? And wasn’t he [[Well|well]] acquainted
-with the deceased and his ways? And has he ever showed any expectation
-of finding anything?’
+‘My dear,’ said the Reverend Frank aside to his good little wife, ‘I
+think I will leave it to somebody else. The circumstances are hardly
+favourable. There are plenty of talkers going about, my [[Love|love]], and she
+will soon find one.’

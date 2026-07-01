@@ -110,7 +110,7 @@ of Friedland or roaring round the squares at Waterloo.
 But now they came file after file, like an invasion,
 and something in their numbers, or in the evening light that lit
 up their faces and their crests, or something in the reverie
-into which they broke, made me inclined to [[Spring|spring]] to my feet
+into which they broke, made me inclined to [[spring]] to my feet
 and cry out, "The French soldiers!"  There were the little men
 with the brown faces that had so often ridden through the capitals
 of Europe as coolly as they now rode through their own.

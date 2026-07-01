@@ -1,5 +1,5 @@
 ---
-title: "[[misc]] — THE CHARTERED LIBERTINE"
+title: "misc — THE CHARTERED LIBERTINE"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 THE CHARTERED LIBERTINE
-
 
 I find myself in agreement with Mr. Robert Lynd for his most just
 remark in connection with the Malatesta case, that the police are
@@ -72,7 +71,6 @@ a man for wine-bibbing when it is proved that he had no wine.
 Rifts in right reason widen down the ages.  And when we have
 begun by shutting up a confessedly kind person for cruelty,
 we may yet come to shutting up Mr. Tom Mann for feeble-mindedness.
-
 
 But even if such laws do good to children or idiots,
 it is wrong to use the word "charter."  A charter does not

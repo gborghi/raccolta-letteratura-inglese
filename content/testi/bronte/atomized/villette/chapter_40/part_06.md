@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 38 (part 6)"
+title: "Villette — Chapter 38 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,40 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_40/part_05">‹ part 05</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_40/part_07">part 07 ›</a></div>
 </nav>
 
+
+As for hindrance to this step, there offered not so much as a creaking
+hinge or a clicking latch. On these hot July nights, close air could
+not be tolerated, and the chamber-door stood wide open. Will the
+dormitory-planks sustain my tread untraitorous? Yes. I know wherever a
+board is loose, and will avoid it. The oak staircase creaks somewhat as
+I descend, but not much:—I am in the carré.
+
+The great classe-doors are close shut: they are bolted. On the other
+hand, the entrance to the corridor stands open. The classes seem to my
+thought, great dreary jails, buried far back beyond thoroughfares, and
+for me, filled with spectral and intolerable Memories, laid miserable
+amongst their straw and their manacles. The corridor offers a cheerful
+vista, leading to the high vestibule which opens direct upon the
+street.
+
+Hush!—the [[Clock|clock]] strikes. Ghostly deep as is the stillness of this
+convent, it is only eleven. While my ear follows to [[Silence|silence]] the hum of
+the last stroke, I catch faintly from the built-out capital, a sound
+like [[Bells|bells]] or like a band—a sound where sweetness, where victory, where
+mourning blend. Oh, to approach this music nearer, to listen to it
+[[Alone|alone]] by the rushy basin! Let me go—oh, let me go! What hinders, what
+does not aid [[Freedom|freedom]]?
+
+There, in the corridor, hangs my [[Garden|garden]]-costume, my large hat, my
+shawl. There is no lock on the huge, heavy, porte-cochère; there is no
+key to seek: it fastens with a sort of [[Spring|spring]]-bolt, not to be opened
+from the outside, but which, from within, may be noiselessly withdrawn.
+Can I manage it? It yields to my hand, yields with propitious facility.
+I [[Wonder|wonder]] as that portal seems almost spontaneously to unclose—I [[Wonder|wonder]]
+as I [[Cross|cross]] the threshold and step on the paved street, [[Wonder|wonder]] at the
+strange ease with which this [[Prison|prison]] has been forced. It seems as if I
+had been pioneered invisibly, as if some dissolving force had gone
+before me: for myself, I have scarce made an effort.
 
 Quiet Rue Fossette! I find on this pavement that wanderer-wooing [[Summer|summer]]
 [[Night|night]] of which I mused; I see its [[Moon|moon]] over me; I feel its dew in the
@@ -77,43 +111,3 @@ destroy the charm, or undermine the marvel of that [[Night|night]]. No matter
 that I now seized the explanation of the whole great fête—a fête of
 which the conventual Rue Fossette had not tasted, though it had opened
 at [[Dawn|dawn]] that morning, and was still in full vigour near midnight.
-
-In past days there had been, said [[history]], an awful crisis in the fate
-of Labassecour, involving I know not what peril to the rights and
-liberties of her gallant citizens. Rumours of wars there had been, if
-not wars themselves; a kind of struggling in the streets—a bustle—a
-running to and fro, some rearing of barricades, some burgher-rioting,
-some calling out of troops, much interchange of brickbats, and even a
-little of shot. Tradition held that patriots had fallen: in the old
-Basse-Ville was shown an enclosure, solemnly built in and set apart,
-holding, it was said, the sacred bones of martyrs. Be this as it may, a
-certain day in the year was still kept as a festival in [[Honour|honour]] of the
-said patriots and martyrs of somewhat apocryphal [[Memory|memory]]—the morning
-being given to a solemn Te Deum in St. Jean Baptiste, the evening
-devoted to spectacles, decorations, and illuminations, such as these I
-now saw.
-
-While looking up at the image of a white ibis, fixed on a column—while
-fathoming the deep, torch-lit perspective of an avenue, at the close of
-which was couched a sphinx—I lost sight of the party which, from the
-middle of the great square, I had followed—or, rather, they vanished
-like a group of apparitions. On this whole scene was impressed a
-dream-like character: every shape was wavering, every movement
-floating, every voice echo-like—half-mocking, half-uncertain. [[Paulina]]
-and her friends being gone, I scarce could avouch that I had really
-seen them; nor did I miss them as guides through the chaos, far less
-regret them as protectors amidst the [[Night|night]].
-
-That festal [[Night|night]] would have been safe for a very [[Child|child]]. Half the
-peasantry had come in from the outlying environs of [[Villette]], and the
-decent burghers were all abroad and around, dressed in their best. My
-straw-hat passed amidst cap and jacket, short petticoat, and long
-calico mantle, without, perhaps, attracting a glance; I only took the
-precaution to bind down the broad leaf gipsy-wise, with a supplementary
-ribbon—and then I felt safe as if masked.
-
-Safe I passed down the avenues—safe I mixed with the crowd where it was
-deepest. To be still was not in my power, nor quietly to observe. I
-took a revel of the scene; I drank the elastic [[Night|night]]-air—the swell of
-sound, the dubious light, now flashing, now fading. As to Happiness or
-[[Hope]], they and I had shaken hands, but just now—I scorned [[Despair]].

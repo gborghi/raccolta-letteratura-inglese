@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 28 (part 3)"
+title: "Shirley — Chapter 28 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_28/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_28/part_04">part 04 ›</a></div>
 </nav>
 
+
+that [[Shirley]] has wronged you, that she did not [[Love|love]] you. You will know
+
+that I _did_ [[Love|love]] you, Harry; that no sister could have loved you
+
+better--my own treasure.' Mr. Moore, sir, when I remember her voice, and
+
+recall her look, my heart beats as if it would break its strings. She
+
+_may_ go to heaven before me--if God commands it, she _must_; but the
 
 rest of my life--and my life will not be long, I am glad of that
 
@@ -261,25 +271,3 @@ countenance; for if I did, I should sometimes forget common sense and
 believe in [[Romance|romance]]. A strange, secret ecstasy steals through my veins at
 
 moments. I'll not encourage--I'll not remember it. I am resolved, as
-
-long as may be, to retain the right to say with Paul, 'I am not mad, but
-
-speak forth the words of [[Truth|truth]] and soberness.'"
-
-
-
-He paused, listening.
-
-
-
-"Will she come, or will she not come?" he inquired. "How will she take
-
-the message? Naïvely or disdainfully? Like a [[Child|child]] or like a [[Queen|queen]]? Both
-
-characters are in her [[Nature|nature]].
-
-
-
-"If she comes, what shall I say to her? How account, firstly, for the
-
-[[Freedom|freedom]] of the request? Shall I apologize to her? I could in all

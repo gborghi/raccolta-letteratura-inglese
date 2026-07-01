@@ -14,6 +14,11 @@ tags:
 </nav>
 
 
+The sunset stillness settled down again, save for the cropping of the [[donkey]] in the undergrowth; and Pump said nothing sympathetically; and it was Dalroy once more who took up his [[Parable|parable]].
+
+
+
+
 “So I think there’s too much of this playing on our emotions, Hump; as this place is certainly playing the cat and banjo with mine. Damn it all, there are other things to do with the rest of one’s life! I don’t like all this fuss about feeling things–it only makes people miserable. In my present frame of mind I’m in favour of doing things. All of which, Hump,” he said with a sudden lift of the voice that always went in him with a rushing, irrational return of merely animal spirits–“All of which I have put into a [[Song]] Against [[songs|Songs]], that I will now sing you.”
 
 
@@ -54,7 +59,7 @@ With these words he jumped and seemed to be swallowed up by the earth. But they 
 
 
 
-Dalroy was staring about him at the cavern of his old picnics, so forgotten and so startlingly familiar. He seemed to have lost all thought of singing anything, and simply to be groping in the dark [[house]] of his own boyhood. There was a slight trickle from a natural [[Spring|spring]] in sandstone just under the ferns, and he remembered they used to try to boil the [[Water|water]] in a kettle. He remembered a quarrel about who had upset the kettle which, in the morbidity of first [[Love|love]], had given him for days the tortures of the damned. When the energetic Pump broke once more through the rather thorny roof, on an impulse to accumulate their other eccentric possessions, Patrick remembered about a thorn in a finger, that made his heart stop with something that was [[Pain|pain]] and perfect music. When Pump returned with the rum-keg and the [[cheese]] and rolled them with a kick down the shelving sandy side of the hole, he remembered, with almost wrathful laughter, that in the old days he had rolled down that slope himself, and thought it a rather fine thing to do. He felt then as if he were [[rolling]] down a smooth side of the Matterhorn. He observed now that the height was rather less than that of the second storey of one of the stunted cottages he had noted on his return. He suddenly understood he had grown bigger; bigger in a bodily sense. He had doubts about any other.
+Dalroy was staring about him at the cavern of his old picnics, so forgotten and so startlingly familiar. He seemed to have lost all thought of singing anything, and simply to be groping in the dark [[house]] of his own boyhood. There was a slight trickle from a natural [[spring]] in sandstone just under the ferns, and he remembered they used to try to boil the [[Water|water]] in a kettle. He remembered a quarrel about who had upset the kettle which, in the morbidity of first [[Love|love]], had given him for days the tortures of the damned. When the energetic Pump broke once more through the rather thorny roof, on an impulse to accumulate their other eccentric possessions, Patrick remembered about a thorn in a finger, that made his heart stop with something that was [[Pain|pain]] and perfect music. When Pump returned with the rum-keg and the [[cheese]] and rolled them with a kick down the shelving sandy side of the hole, he remembered, with almost wrathful laughter, that in the old days he had rolled down that slope himself, and thought it a rather fine thing to do. He felt then as if he were [[rolling]] down a smooth side of the Matterhorn. He observed now that the height was rather less than that of the second storey of one of the stunted cottages he had noted on his return. He suddenly understood he had grown bigger; bigger in a bodily sense. He had doubts about any other.
 
 
 
@@ -75,8 +80,3 @@ Humphrey Pump plunged down again into the sunken nest, and began to broach the c
 
 
 Patrick Dalroy drank a little rum out of a small medicine glass which the generally unaccountable Mr. Pump unaccountably produced from his waistcoat pocket; but Patrick’s colour had risen, his brow was almost as red as his hair; and he was evidently reluctant.
-
-
-
-
-“I don’t see why I should sing all the [[songs]],” he said. “Why the divil don’t you sing a [[Song|song]] yourself? And now I come to think of it,” he cried, with an accumulating brogue, not, perhaps, wholly unaffected by the rum, which he had not, in fact, drunk for years, “and now I come to think of it, what about that [[Song|song]] of yours? All me youth’s coming back in this blest and cursed place; and I remember that [[Song|song]] of yours, that never existed nor ever will. Don’t ye remember now, Humphrey Pump, that [[Night|night]] when I sang ye no less than seventeen [[songs]] of me own composition?”

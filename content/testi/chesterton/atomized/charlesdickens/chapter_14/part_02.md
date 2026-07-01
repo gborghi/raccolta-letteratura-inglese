@@ -1,5 +1,5 @@
 ---
-title: "[[CharlesDickens]] — Chapter 11 (part 2)"
+title: "CharlesDickens — Chapter 11 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/charlesdickens-(chesterton)"
@@ -150,7 +150,7 @@ to the poor is a kind of cruelty to [[Animals|animals]].  They never feel
 that it is justice to equals; nay, it is treachery to comrades.
 This dark scientific pity, this brutal pity, has an elemental sincerity
 of its own; but it is entirely useless for all ends of social [[Reform|reform]].
-[[Democracy]] swept Europe with the sabre when it was founded upon
+[[democracy|Democracy]] swept Europe with the sabre when it was founded upon
 the Rights of Man.  It has done literally nothing at all since it
 has been founded only upon the wrongs of man.  Or, more strictly
 speaking, its recent failure has been due to its not admitting

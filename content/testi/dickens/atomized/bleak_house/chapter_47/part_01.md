@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 47 (part 1)"
+title: "Bleak House — Chapter 47 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -123,9 +123,3 @@ towards them in his morning exercise with his pipe in his mouth, no
 stock on, and his muscular arms, developed by broadsword and
 dumbbell, weightily asserting themselves through his light
 shirt-sleeves.
-
-“Your servant, sir,” says Mr. George with a military salute.
-Good-humouredly smiling all over his broad forehead up into his crisp
-hair, he then defers to Miss Flite, as, with great stateliness, and
-at some length, she performs the courtly ceremony of presentation. He
-winds it up with another “Your servant, sir!” and another salute.

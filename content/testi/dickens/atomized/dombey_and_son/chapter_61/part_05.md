@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 5 (part 5)"
+title: "Dombey and Son — Chapter 33 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -10,115 +10,136 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/dombey-and-son-(dickens)">Dombey and Son</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_61/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_61/part_06">part 06 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_61/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_62/part_01">part 01 ›</a></div>
 </nav>
 
 
-If Miss Tox could believe the evidence of one of her senses, it was a
-very cold day. That was quite clear. She took an early opportunity of
-promoting the circulation in the tip of her nose by secretly chafing it
-with her pocket handkerchief, lest, by its very low temperature, it
-should disagreeably astonish the baby when she came to kiss it.
+Her fallen sister came on, looking far before her, trying with her
+eager eyes to pierce the mist in which the [[City|city]] was enshrouded, and
+glancing, now and then, from side to side, with the bewildered—and
+uncertain aspect of a stranger. Though her tread was bold and
+courageous, she was fatigued, and after a moment of irresolution,—sat
+down upon a heap of stones; seeking no shelter from the rain, but
+letting it rain on her as it would.
 
-The baby soon appeared, carried in great glory by Richards; while
-Florence, in custody of that active young constable, [[Susan Nipper]],
-brought up the rear. Though the whole nursery party were dressed by
-this [[Time|time]] in lighter mourning than at first, there was enough in the
-appearance of the bereaved children to make the day no brighter. The
-baby too—it might have been Miss Tox’s nose—began to cry. Thereby, as
-it happened, preventing Mr Chick from the awkward fulfilment of a very
-honest purpose he had; which was, to make much of Florence. For this
-gentleman, insensible to the superior claims of a perfect Dombey
-(perhaps on account of having the [[Honour|honour]] to be united to a Dombey
-himself, and being familiar with excellence), really liked her, and
-showed that he liked her, and was about to show it in his own way now,
-when Paul cried, and his helpmate stopped him short—
+She was now opposite the [[house]]; raising her head after resting it for a
+moment on both hands, her eyes met those of Harriet.
 
-“Now Florence, [[Child|child]]!” said her aunt, briskly, “what are you doing,
-[[Love|love]]? Show yourself to him. Engage his attention, my dear!”
+In a moment, Harriet was at the door; and the other, rising from her
+seat at her beck, came slowly, and with no conciliatory look, towards
+her.
 
-The atmosphere became or might have become colder and colder, when Mr
-Dombey stood frigidly watching his little daughter, who, clapping her
-hands, and standing on tip-toe before the throne of his son and heir,
-lured him to bend down from his high estate, and look at her. Some
-honest act of Richards’s may have aided the effect, but he did look
-down, and held his peace. As his sister hid behind her [[Nurse|nurse]], he
-followed her with his eyes; and when she peeped out with a merry cry to
-him, he sprang up and crowed lustily—laughing outright when she ran in
-upon him; and seeming to fondle her curls with his tiny hands, while
-she smothered him with kisses.
+“Why do you rest in the rain?” said Harriet, gently.
 
-Was Mr Dombey pleased to see this? He testified no pleasure by the
-relaxation of a nerve; but outward tokens of any kind of feeling were
-unusual with him. If any sunbeam stole into the room to light the
-children at their play, it never reached his face. He looked on so
-fixedly and coldly, that the warm light vanished even from the laughing
-eyes of little Florence, when, at last, they happened to meet his.
+“Because I have no other resting-place,” was the reply.
 
-It was a dull, grey, [[Autumn|autumn]] day indeed, and in a minute’s pause and
-[[Silence|silence]] that took place, the [[Leaves|leaves]] fell sorrowfully.
+“But there are many places of shelter near here. This,” referring to
+the little porch, “is better than where you were. You are very welcome
+to rest here.”
 
-“Mr John,” said Mr Dombey, referring to his watch, and assuming his hat
-and gloves. “Take my sister, if you please: my arm today is Miss Tox’s.
-You had better go first with Master Paul, Richards. Be very careful.”
+The wanderer looked at her, in [[Doubt|doubt]] and surprise, but without any
+expression of thankfulness; and sitting down, and taking off one of her
+worn shoes to beat out the fragments of stone and [[Dust|dust]] that were
+inside, showed that her foot was cut and bleeding.
 
-In Mr Dombey’s carriage, Dombey and Son, Miss Tox, Mrs Chick, Richards,
-and Florence. In a little carriage following it, [[Susan Nipper]] and the
-owner Mr Chick. Susan looking out of [[Window|window]], without intermission, as a
-relief from the embarrassment of confronting the large face of that
-gentleman, and thinking whenever anything rattled that he was putting
-up in paper an appropriate pecuniary compliment for herself.
+Harriet uttering an expression of pity, the traveller looked up with a
+contemptuous and incredulous smile.
 
-Once upon the [[Road|road]] to church, Mr Dombey clapped his hands for the
-amusement of his son. At which instance of parental enthusiasm Miss Tox
-was enchanted. But exclusive of this incident, the chief difference
-between the christening party and a party in a mourning coach consisted
-in the colours of the carriage and horses.
+“Why, what’s a torn foot to such as me?” she said. “And what’s a torn
+foot in such as me, to such as you?”
 
-Arrived at the church steps, they were received by a portentous beadle.
-Mr Dombey dismounting first to help the ladies out, and standing near
-him at the church door, looked like another beadle. A beadle less
-gorgeous but more dreadful; the beadle of private life; the beadle of
-our business and our bosoms.
+“Come in and wash it,” answered Harriet, mildly, “and let me give you
+something to bind it up.”
 
-Miss Tox’s hand trembled as she slipped it through Mr Dombey’s arm, and
-felt herself escorted up the steps, preceded by a cocked hat and a
-Babylonian collar. It seemed for a moment like that other solemn
-institution, “Wilt thou have this man, Lucretia?” “Yes, I will.”
+The woman caught her arm, and drawing it before her own eyes, hid them
+against it, and wept. Not like a woman, but like a stern man surprised
+into that weakness; with a violent heaving of her breast, and struggle
+for recovery, that showed how unusual the emotion was with her.
 
-“Please to bring the [[Child|child]] in quick out of the air there,” whispered
-the beadle, holding open the inner door of the church.
+She submitted to be led into the [[house]], and, evidently more in
+gratitude than in any care for herself, washed and bound the injured
+place. Harriet then put before her fragments of her own frugal dinner,
+and when she had eaten of them, though sparingly, besought her, before
+resuming her [[Road|road]] (which she showed her anxiety to do), to dry her
+clothes before the [[Fire|fire]]. Again, more in gratitude than with any
+evidence of concern in her own behalf, she sat down in front of it, and
+unbinding the handkerchief about her head, and letting her thick wet
+hair fall down below her waist, sat drying it with the palms of her
+hands, and looking at the blaze.
 
-Little Paul might have asked with [[Hamlet]] “into my [[Grave|grave]]?” so chill and
-earthy was the place. The tall, shrouded pulpit and reading desk; the
-dreary perspective of empty pews stretching away under the galleries,
-and empty benches mounting to the roof and lost in the [[Shadow|shadow]] of the
-great grim organ; the dusty matting and cold stone slabs; the grisly
-free seats in the aisles; and the damp corner by the bell-rope, where
-the black trestles used for funerals were stowed away, along with some
-shovels and baskets, and a coil or two of deadly-looking rope; the
-strange, unusual, uncomfortable smell, and the cadaverous light; were
-all in unison. It was a cold and dismal scene.
+“I daresay you are thinking,” she said, lifting her head suddenly,
+“that I used to be handsome, once. I believe I was—I know I was—Look
+here!”
 
-[Illustration]
+She held up her hair roughly with both hands; seizing it as if she
+would have torn it out; then, threw it down again, and flung it back as
+though it were a heap of serpents.
 
-“There’s a wedding just on, Sir,” said the beadle, “but it’ll be over
-directly, if you’ll walk into the westry here.”
+“Are you a stranger in this place?” asked Harriet.
 
-Before he turned again to lead the way, he gave Mr Dombey a bow and a
-half smile of recognition, importing that he (the beadle) remembered to
-have had the pleasure of attending on him when he buried his wife, and
-hoped he had enjoyed himself since.
+“A stranger!” she returned, stopping between each short reply, and
+looking at the [[Fire|fire]]. “Yes. Ten or a dozen years a stranger. I have had
+no almanack where I have been. Ten or a dozen years. I don’t know this
+part. It’s much altered since I went away.”
 
-The very wedding looked dismal as they passed in front of the altar.
-The bride was too old and the bridegroom too young, and a superannuated
-beau with one eye and an eyeglass stuck in its blank companion, was
-giving away the lady, while the friends were shivering. In the vestry
-the [[Fire|fire]] was smoking; and an over-aged and over-worked and under-paid
-attorney’s clerk, “making a search,” was running his forefinger down
-the parchment pages of an immense register (one of a long series of
-similar volumes) gorged with burials. Over the fireplace was a
-ground-plan of the vaults underneath the church; and Mr Chick, skimming
-the literary portion of it aloud, by way of enlivening the company,
-read the reference to Mrs Dombey’s tomb in full, before he could stop
-himself.
+“Have you been far?”
+
+“Very far. Months upon months over the sea, and far away even then. I
+have been where convicts go,” she added, looking full upon her
+entertainer. “I have been one myself.”
+
+“Heaven help you and forgive you!” was the gentle answer.
+
+“Ah! Heaven help me and forgive me!” she returned, nodding her head at
+the [[Fire|fire]]. “If man would help some of us a little more, God would
+forgive us all the sooner perhaps.”
+
+But she was softened by the earnest manner, and the cordial face so
+full of mildness and so free from judgment, of her, and said, less
+hardily:
+
+“We may be about the same age, you and me. If I am older, it is not
+above a year or two. Oh think of that!”
+
+She opened her arms, as though the exhibition of her outward form would
+show the moral wretch she was; and letting them drop at her sides, hung
+down her head.
+
+“There is nothing we may not [[Hope|hope]] to repair; it is never too late to
+amend,” said Harriet. “You are penitent?”
+
+“No,” she answered. “I am not! I can’t be. I am no such thing. Why
+should I be penitent, and all the world go free? They talk to me of my
+penitence. Who’s penitent for the wrongs that have been done to me?”
+
+She [[Rose|rose]] up, bound her handkerchief about her head, and turned to move
+away.
+
+“Where are you going?” said Harriet.
+
+“Yonder,” she answered, pointing with her hand. “To [[London]].”
+
+“Have you any [[Home|home]] to go to?”
+
+“I think I have a mother. She’s as much a mother, as her dwelling is a
+[[Home|home]],” she answered with a bitter laugh.
+
+“Take this,” cried Harriet, putting money in her hand. “Try to do [[Well|well]].
+It is very little, but for one day it may keep you from harm.”
+
+“Are you married?” said the other, faintly, as she took it.
+
+“No. I live here with my brother. We have not much to spare, or I would
+give you more.”
+
+“Will you let me kiss you?”
+
+Seeing no scorn or repugnance in her face, the object of her [[Charity|charity]]
+bent over her as she asked the question, and pressed her lips against
+her cheek. Once more she caught her arm, and covered her eyes with it;
+and then was gone.
+
+Gone into the deepening [[Night|night]], and howling [[Wind|wind]], and pelting rain;
+urging her way on towards the mist-enshrouded [[City|city]] where the blurred
+lights gleamed; and with her black hair, and disordered head-gear,
+fluttering round her reckless face.

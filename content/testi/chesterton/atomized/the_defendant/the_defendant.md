@@ -210,7 +210,7 @@ our imaginary [[Prophet|prophet]] was stoned in the morning of the world. If we
 weigh the matter in the faultless scales of [[Imagination|imagination]], if we see what
 is the real trend of humanity, we shall feel it most probable that he
 was stoned for saying that the grass was green and that the [[Birds|birds]] sang
-in [[Spring|spring]]; for the mission of all the prophets from the beginning has
+in [[spring]]; for the mission of all the prophets from the beginning has
 not been so much the pointing out of heavens or hells as primarily the
 pointing out of the earth.
 
@@ -486,7 +486,7 @@ name of Brown, to remain for thirty-one hours holding his left ear in
 his right hand, to sing the names of all his aunts in order of age on
 the top of an omnibus, or make any such unusual undertaking, we should
 immediately conclude that the man was mad, or, as it is sometimes
-expressed, was 'an [[Artist|artist]] in life.' Yet these vows are not more
+expressed, was 'an [[artist]] in life.' Yet these vows are not more
 extraordinary than the vows which in the Middle Ages and in similar
 periods were made, not by fanatics merely, but by the greatest figures
 in civic and national civilization--by kings, judges, poets, and
@@ -804,7 +804,7 @@ unconscious eulogies nothing is more striking than the word 'pompous.'
 
 Properly speaking, of course, a public monument ought to be pompous.
 Pomp is its very object; it would be absurd to have columns and pyramids
-blushing in some coy nook like violets in the woods of [[Spring|spring]]. And
+blushing in some coy nook like violets in the woods of [[spring]]. And
 public monuments have in this matter a great and much-needed lesson to
 teach. Valour and [[Mercy|mercy]] and the great enthusiasms ought to be a great
 deal more public than they are at present. We are too fond nowadays of
@@ -1569,7 +1569,7 @@ everything that is pictorial suggests, without naming or defining. There
 is a [[Road|road]] from the eye to the heart that does not go through the
 intellect. Men do not quarrel about the meaning of sunsets; they never
 dispute that the hawthorn says the best and wittiest thing about the
-[[Spring|spring]].
+[[spring]].
 
 Thus in the old aristocratic days there existed this vast pictorial
 symbolism of all the colours and degrees of aristocracy. When the great
@@ -1836,7 +1836,7 @@ dominant element of life; but this is true only in a very special sense.
 If [[Pain|pain]] were for one single instant literally the dominant element in
 life, every man would be found hanging dead from his own bed-post by the
 morning. [[Pain]], as the black and catastrophic thing, attracts the
-youthful [[Artist|artist]], just as the schoolboy draws devils and skeletons and
+youthful [[artist]], just as the schoolboy draws devils and skeletons and
 men hanging. But joy is a far more elusive and elvish matter, since it
 is our reason for existing, and a very feminine reason; it mingles with
 every breath we draw and every cup of tea we drink. The literature of

@@ -14,6 +14,40 @@ tags:
 </nav>
 
 
+It was evident that Sand felt something creepy about the priest's
+fanciful imagery; whether because he found it incomprehensible or
+because he was beginning to comprehend.
+
+'You see,' said [[Father Brown]], turning the dressing - gown over slowly as
+he spoke, 'a man isn't expected to write his very best handwriting when
+he chips it on a tree. And if the man were not the man, if I make myself
+clear - Hullo!'
+
+He was looking down at the red dressing - gown, and it seemed for the
+moment as if some of the red had come off on his finger; but both the
+faces turned towards it were already a shade paler.
+
+'[[Blood]]!' said [[Father Brown]]; and for the instant there was a deadly
+stillness save for the melodious noises of the [[River|river]].
+
+Henry Sand cleared his throat and nose with noises that were by no means
+melodious. Then he said rather hoarsely: 'Whose [[Blood|blood]]?'
+
+'Oh, mine,' said [[Father Brown]]; but he did not smile.
+
+A moment after he said: 'There was a pin in this thing and I pricked
+myself. But I don't think you quite appreciate the point . . . the point
+of the pin, I do'; and he sucked his finger like a [[Child|child]].
+
+'You see,' he said after another [[Silence|silence]], 'the gown was folded up and
+pinned together; nobody could have unfolded it - at least without
+scratching himself. In plain words, [[Hubert]] Sand never wore this dressing
+- gown. Any more than [[Hubert]] Sand ever wrote on that tree. Or drowned
+himself in that [[River|river]].'
+
+The pince - nez tilted on Henry's inquiring nose fell off with a click;
+but he was otherwise motionless, as if rigid with surprise.
+
 'Which brings us back,' went on [[Father Brown]] cheerfully, 'to somebody's
 taste for writing his private correspondence on trees, like Hiawatha and
 his picture - writing. Sand had all the [[Time|time]] there was, before drowning

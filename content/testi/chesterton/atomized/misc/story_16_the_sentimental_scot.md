@@ -1,5 +1,5 @@
 ---
-title: "[[misc]] — THE SENTIMENTAL SCOT"
+title: "misc — THE SENTIMENTAL SCOT"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 THE SENTIMENTAL SCOT
-
 
 Of all the great nations of Christendom, the Scotch are by far
 the most romantic.  I have just enough Scotch experience and just

@@ -1,5 +1,5 @@
 ---
-title: "[[CharlesDickens]] — Chapter 7 (part 2)"
+title: "CharlesDickens — Chapter 7 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/charlesdickens-(chesterton)"
@@ -13,6 +13,23 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/charlesdickens/chapter_10/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/charlesdickens/chapter_10/part_03">part 03 ›</a></div>
 </nav>
 
+
+Dickens could find in any street divergences between man
+and man deeper than the divisions of nations.  His fault was to
+exaggerate differences.  He could find types almost as distinct
+as separate tribes of [[Animals|animals]] in his own brain and his own [[City|city]],
+those two homes of a magnificent chaos.  The only two southerners
+introduced prominently into his novels, the two in "Little Dorrit,"
+are popular English foreigners, I had almost said stage foreigners.
+Villainy is, in English eyes, a southern trait, therefore one
+of the foreigners is villainous.  Vivacity is, in English eyes,
+another southern trait, therefore the other foreigner is vivacious.
+But we can see from the outlines of both that Dickens did not have
+to go to [[Italy]] to get them.  While poor panting millionaires,
+poor tired earls and poor God-forsaken American men of culture
+are plodding about [[Italy]] for literary inspiration, Charles Dickens
+made up the whole of that Italian [[Romance|romance]] (as I strongly suspect)
+from the faces of two [[London]] organ-grinders.
 
 In the sunlight of the southern world, he was still dreaming of the
 firelight of the north.  Among the palaces and the white campanili,
@@ -98,26 +115,3 @@ pudding to an extent at which the modern mediævalists turned pale.
 They would do every kind of [[Honour|honour]] to an old observance,
 except observing it.  They would pay to a Church feast every
 sort of compliment except feasting.
-
-And (as I have said) as were his unconscious relations
-to our European past, so were his unconscious relations
-to England.  He imagined himself to be, if anything, a sort
-of cosmopolitan; at any rate to be a champion of the charms and
-merits of continental lands against the arrogance of our island.
-But he was in [[Truth|truth]] very much more a champion of the old
-and genuine England against that comparatively cosmopolitan
-England which we have all lived to see.  And here again
-the supreme example is Christmas.  Christmas is, as I have said,
-one of numberless old European feasts of which the essence is
-the combination of religion with merry-making. But among those feasts
-it is also especially and distinctively English in the style
-of its merry-making and even in the style of its religion.
-For the character of Christmas (as distinct, for instance,
-from the continental Easter) lies chiefly in two things;
-first on the terrestrial side the note of comfort rather
-than the note of brightness; and on the spiritual side,
-Christian [[Charity|charity]] rather than Christian ecstasy.  And comfort is,
-like [[Charity|charity]], a very English instinct.  Nay, comfort is,
-like [[Charity|charity]], an English merit; though our comfort may and does
-degenerate into materialism, just as our [[Charity|charity]] may and does
-degenerate into laxity and make-believe.

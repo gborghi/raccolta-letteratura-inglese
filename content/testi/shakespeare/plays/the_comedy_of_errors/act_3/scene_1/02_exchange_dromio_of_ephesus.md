@@ -1,5 +1,5 @@
 ---
-title: "The [[Comedy]] of Errors — Act III, Scene 1 — exchange ([[Dromio of Ephesus|DROMIO OF EPHESUS]]) [2]"
+title: "The Comedy of Errors — Act III, Scene 1 — exchange (DROMIO OF EPHESUS) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-comedy-of-errors-(shakespeare)"

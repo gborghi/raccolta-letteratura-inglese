@@ -1,5 +1,5 @@
 ---
-title: "The Canterville [[Ghost]] (part 5)"
+title: "The Canterville Ghost (part 5)"
 author: "Wilde"
 unitType: excerpt
 parentWork: "works/the-canterville-ghost-(wilde)"
@@ -27,7 +27,7 @@ A few days after this, Virginia and her curly-haired cavalier went out riding on
 ‘Stop!’ cried Virginia, stamping her foot, ‘it is you who are rude, and horrid, and vulgar, and as for dishonesty, you know you stole the paints out of my box to try and furbish up that ridiculous [[Blood|blood]]-stain in the library.  First you took all my reds, including the vermilion, and I couldn’t do any more sunsets, then you took the emerald-green and the chrome-yellow, and finally I had nothing left but indigo and Chinese white, and could only do moonlight scenes, which are always depressing to look at, and not at all easy to paint.  I never told on you, though I was very much annoyed, and it was most ridiculous, the whole thing; for who ever heard of emerald-green [[Blood|blood]]?’
 ‘[[Well]], really,’ said the [[Ghost]], rather meekly, ‘what was I to do?  It is a very difficult thing to get real [[Blood|blood]] nowadays, and, as your brother began it all with his Paragon Detergent, I certainly saw no reason why I should not have your paints.  As for colour, that is always a matter of taste: the Cantervilles have blue [[Blood|blood]], for instance, the very bluest in England; but I know you Americans don’t care for things of this kind.’
 ‘You know nothing about it, and the best thing you can do is to emigrate and improve your mind.  My father will be only too happy to give you a free passage, and though there is a heavy duty on spirits of every kind, there will be no difficulty about the Custom [[house|House]], as the officers are all Democrats.  Once in [[New York]], you are sure to be a great [[success]].  I know lots of people there who would give a hundred thousand dollars to have a grandfather, and much more than that to have a family [[Ghost]].’
-‘I don’t think I should like [[America]].’
+‘I don’t think I should like [[america|America]].’
 ‘I suppose because we have no ruins and no curiosities,’ said Virginia satirically.
 ‘No ruins! no curiosities!’ answered the [[Ghost]]; ‘you have your navy and your manners.’
 ‘Good evening; I will go and ask papa to get the twins an extra week’s holiday.’
@@ -45,7 +45,7 @@ Then the [[Ghost]] spoke again, and his voice sounded like the sighing of the [[
 ‘Have you ever read the old prophecy on the library [[Window|window]]?’
 ‘Oh, often,’ cried the little girl, looking up; ‘I know it quite [[Well|well]].  It is painted in curious black letters, and it is difficult to read.  There are only six lines:
 When a golden girl can win
-[[Prayer]] from out the lips of sin,
+[[prayer|Prayer]] from out the lips of sin,
 When the barren almond bears,
 And a little [[Child|child]] gives away its [[Tears|tears]],
 Then shall all the [[house]] be still

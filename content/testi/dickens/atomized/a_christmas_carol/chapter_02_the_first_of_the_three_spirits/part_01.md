@@ -1,5 +1,5 @@
 ---
-title: "A Christmas [[carol|Carol]] — Stave 2: THE FIRST OF THE THREE SPIRITS (part 1)"
+title: "A Christmas Carol — Stave 2: THE FIRST OF THE THREE SPIRITS (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/a-christmas-carol-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/a-christmas-carol-(dickens)">A Christmas Carol</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_christmas_carol/chapter_01_marley_s_ghost/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/a_christmas_carol/chapter_02_the_first_of_the_three_spirits/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_christmas_carol/chapter_01_marley_s_ghost_ghost/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/a_christmas_carol/chapter_02_the_first_of_the_three_spirits/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -29,7 +29,7 @@ twelve; then stopped. Twelve! It was past two when he
 went to bed. The [[Clock|clock]] was wrong. An icicle must have
 got into the works. Twelve!
 
-He touched the [[Spring|spring]] of his repeater, to correct this most
+He touched the [[spring]] of his repeater, to correct this most
 preposterous [[Clock|clock]]. Its rapid little pulse beat twelve:
 and stopped.
 
@@ -58,7 +58,7 @@ not to think, the more he thought.
 
 Marley's [[Ghost]] bothered him exceedingly. Every [[Time|time]] he resolved
 within himself, after mature inquiry, that it was all [[A Dream|a dream]], his
-mind flew back again, like a strong [[Spring|spring]] released, to its first
+mind flew back again, like a strong [[spring]] released, to its first
 position, and presented the same problem to be worked all through,
 "Was it [[A Dream|a dream]] or not?"
 
@@ -153,9 +153,3 @@ stature.
 Perhaps, Scrooge could not have told anybody why, if
 anybody could have asked him; but he had a special [[Desire|desire]]
 to see the Spirit in his cap; and begged him to be covered.
-
-"What!" exclaimed the [[Ghost]], "would you so soon put out,
-with worldly hands, the light I give? Is it not enough
-that you are one of those whose passions made this cap, and
-force me through whole trains of years to wear it low upon
-my brow!"

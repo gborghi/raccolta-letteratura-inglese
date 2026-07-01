@@ -1,5 +1,5 @@
 ---
-title: "[[The Gold-Bug]] (part 13)"
+title: "The Gold-Bug (part 13)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-gold-bug-(poe)"
@@ -12,6 +12,60 @@ tags:
 <div class="excerpt-crumb">Poe · <a href="/works/the-gold-bug-(poe)">The Gold Bug</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_gold_bug/part/part_12">‹ part 12</a><a class="ex-next" href="/testi/poe/atomized/the_gold_bug/part/part_14">part 14 ›</a></div>
 </nav>
+
+
+      there are not repetitions of any three characters, in the same
+
+      order of collocation, the last of them being 8. If we discover
+
+      repetitions of such letters, so arranged, they will most probably
+
+      represent the word ‘the.’ Upon inspection, we find no less than
+
+      seven such arrangements, the characters being ;48. We may,
+
+      therefore, assume that ; represents _t_, 4 represents _h_, and 8
+
+      represents _e_—the last being now [[Well|well]] confirmed. Thus a great
+
+      step has been taken.
+
+
+
+      “But, having established a single word, we are enabled to
+
+      establish a vastly important point; that is to say, several
+
+      commencements and terminations of other words. Let us refer, for
+
+      example, to the last instance but one, in which the combination
+
+      ;48 occurs—not far from the end of the cipher. We know that the ;
+
+      immediately ensuing is the commencement of a word, and, of the
+
+      six characters succeeding this ‘the,’ we are cognizant of no less
+
+      than five. Let us set these characters down, thus, by the letters
+
+      we know them to represent, leaving a space for the unknown—
+
+
+
+      t eeth.
+
+
+
+      “Here we are enabled, at once, to discard the ‘th,’ as forming no
+
+      portion of the word commencing with the first t; since, by
+
+      experiment of the entire alphabet for a letter adapted to the
+
+      vacancy, we perceive that no word can be formed of which this
+
+      _th_ can be a part. We are thus narrowed into
+
 
 
       t ee,
@@ -243,51 +297,3 @@ tags:
       would be exceedingly apt to run his characters, at this place,
 
       more than usually close together. If you will observe the MS., in
-
-      the present instance, you will easily detect five such cases of
-
-      unusual crowding. Acting upon this hint, I made the division
-
-      thus: ‘A good glass in the Bishop’s hostel in the Devil’s
-
-      seat—forty-one degrees and thirteen minutes—northeast and by
-
-      north—main branch seventh limb east side—shoot from the left eye
-
-      of the [[Death|death]]’s-head—a bee-line from the tree through the shot
-
-      fifty feet out.’”
-
-
-
-      “Even this division,” said I, “[[Leaves|leaves]] me still in the dark.”
-
-
-
-      “It left me also in the dark,” replied Legrand, “for a few days;
-
-      during which I made diligent inquiry, in the neighborhood of
-
-      Sullivan’s Island, for any building which went by the name of the
-
-      ‘Bishop’s Hotel;’ for, of course, I dropped the obsolete word
-
-      ‘hostel.’ Gaining no information on the subject, I was on the
-
-      point of extending my sphere of search, and proceeding in a more
-
-      systematic manner, when, one morning, it entered into my head,
-
-      quite suddenly, that this ‘Bishop’s Hostel’ might have some
-
-      reference to an old family, of the name of Bessop, which, [[Time|time]]
-
-      out of mind, had held possession of an ancient manor-[[house]], about
-
-      four miles to the northward of the island. I accordingly went
-
-      over to the plantation, and re-instituted my inquiries among the
-
-      older negroes of the place. At length one of the most aged of the
-
-      women said that she had heard of such a place as Bessop’s [[Castle]],

@@ -1,5 +1,5 @@
 ---
-title: "[[Mansfield Park]] — Chapter 20 (part 3)"
+title: "Mansfield Park — Chapter 20 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/mansfield-park-(austen)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/mansfield_park/chapter_20/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/mansfield_park/chapter_21/part_01">part 01 ›</a></div>
 </nav>
 
+
+“From Bath, Norfolk, [[London]], York, wherever I may be,” said he; “I will
+attend you from any place in England, at an hour’s notice.”
+
+It was [[Well|well]] at that moment that Tom had to speak, and not his sister.
+He could immediately say with easy fluency, “I am sorry you are going;
+but as to our play, _that_ is all over—entirely at an end” (looking
+significantly at his father). “The painter was sent off yesterday, and
+very little will remain of the theatre to-morrow. I knew how _that_
+would be from the first. It is early for Bath. You will find nobody
+there.”
 
 “It is about my uncle’s usual [[Time|time]].”
 

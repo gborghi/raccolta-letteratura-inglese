@@ -1,5 +1,5 @@
 ---
-title: "Measure for Measure — Act II, Scene 2 — monologue ([[Angelo|ANGELO]]) [4]"
+title: "Measure for Measure — Act II, Scene 2 — monologue (ANGELO) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/measure-for-measure-(shakespeare)"

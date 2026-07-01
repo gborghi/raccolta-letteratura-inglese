@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 18 (part 4)"
+title: "The Tenant of Wildfell Hall — Chapter 18 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -10,9 +10,29 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/works/the-tenant-of-wildfell-hall-(bronte)">The Tenant of Wildfell Hall</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_18/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_19/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_18/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_18/part_05">part 05 ›</a></div>
 </nav>
 
+
+opening into [[Summer|summer]]—morning just approaching [[Noon|noon]]—girlhood just
+
+ripening into womanhood, and [[Hope|hope]] just verging on fruition. She’s a
+
+sweet creature! but why didn’t you make her black hair?”
+
+
+
+“I thought light hair would suit her better. You see I have made her
+
+blue-eyed and plump, and fair and rosy.”
+
+
+
+“Upon my word—a very Hebe! I should fall in [[Love|love]] with her if I hadn’t
+
+the [[artist]] before me. Sweet [[Innocent|innocent]]! she’s thinking there will come a
+
+[[Time|time]] when she will be wooed and won like that pretty hen-dove by as
 
 fond and fervent a [[Lover|lover]]; and she’s thinking how pleasant it will be,
 
@@ -219,93 +239,3 @@ Miss Wilmot observes it, too, and triumphantly ascribes it to her own
 superior charms and blandishments; but I am truly miserable—more so
 
 than I like to acknowledge to myself. [[Pride]] refuses to aid me. It has
-
-brought me into the scrape, and will not help me out of it.
-
-
-
-He meant no harm—it was only his joyous, playful spirit; and I, by my
-
-acrimonious resentment—so serious, so disproportioned to the
-
-offence—have so wounded his feelings, so deeply offended him, that I
-
-[[Fear|fear]] he will never forgive me—and all for a mere jest! He thinks I
-
-dislike him, and he must continue to think so. I must lose him for
-
-ever, and Annabella may win him, and triumph as she will.
-
-
-
-But it is not my loss nor her triumph that I deplore so greatly as the
-
-wreck of my fond hopes for his advantage, and her unworthiness of his
-
-affection, and the injury he will do himself by trusting his happiness
-
-to her. _She_ does not [[Love|love]] him: she thinks only of herself. She cannot
-
-appreciate the good that is in him: she will neither see it, nor value
-
-it, nor cherish it. She will neither deplore his faults nor attempt
-
-their amendment, but rather aggravate them by her own. And I [[Doubt|doubt]]
-
-whether she will not deceive him after all. I see she is playing [[Double|double]]
-
-between him and [[Lord Lowborough]], and while she amuses herself with the
-
-lively Huntingdon, she tries her utmost to enslave his moody friend;
-
-and should she succeed in bringing both to her feet, the fascinating
-
-commoner will have but little chance against the lordly peer. If he
-
-observes her artful by-play, it gives him no uneasiness, but rather
-
-adds new zest to his diversion by opposing a stimulating check to his
-
-otherwise too easy conquest.
-
-
-
-Messrs. Wilmot and Boarham have severally taken occasion by his neglect
-
-of me to renew their advances; and if I were like Annabella and some
-
-others I should take advantage of their perseverance to endeavour to
-
-pique him into a revival of affection; but, justice and honesty apart,
-
-I could not _bear_ to do it. I am annoyed enough by their present
-
-persecutions without encouraging them further; and even if I did it
-
-would have precious little effect upon him. He sees me [[Suffering|suffering]] under
-
-the condescending attentions and prosaic discourses of the one, and the
-
-repulsive obtrusions of the other, without so much as a [[Shadow|shadow]] of
-
-commiseration for me, or resentment against my tormentors. He never
-
-could have loved me, or he would not have resigned me so willingly, and
-
-he would not go on talking to everybody else so cheerfully as he
-
-does—laughing and jesting with [[Lord Lowborough]] and my uncle, teasing
-
-Milicent Hargrave, and flirting with Annabella Wilmot—as if nothing
-
-were on his mind. Oh! why can’t I hate him? I must be infatuated, or I
-
-should scorn to regret him as I do. But I must rally all the powers I
-
-have remaining, and try to tear him from my heart. There goes the
-
-dinner-bell, and here comes my aunt to scold me for sitting here at my
-
-desk all day, instead of staying with the company: wish the company
-
-were—gone.

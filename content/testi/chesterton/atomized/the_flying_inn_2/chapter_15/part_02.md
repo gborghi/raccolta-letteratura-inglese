@@ -14,6 +14,26 @@ tags:
 </nav>
 
 
+"Toward [[Home|home]], for the present," said the poet, and
+stared at the [[Moon|moon]] with an inspired face.
+
+He was very fond of motoring, finding it fed him
+with inspirations; and he had been doing it from an
+early hour that morning, having enjoyed a slightly
+lessened [[Sleep|sleep]].  He had scarcely spoken to anybody
+until he spoke to the cultured crowd at Ivywood.  He
+did not wish to speak to anyone for many hours yet.
+His ideas were racing.  He had thrown on a fur
+coat over his velvet jacket, but he let it fly open, having
+long forgotten the coldness in the splendour of the
+moonstruck [[Night|night]].  He realised only two things: the
+swiftness of his car and the swiftness of his thoughts.
+He felt, as it were, a fury of omniscience; he seemed
+flying with every bird that sped or spun above the
+woods, with every squirrel that had leapt and tumbled
+within them, with every tree that had swung under
+and sustained the blast.
+
 Yet in a few moments he leaned forward and tapped
 the glass frontage of the car, and the chauffeur
 suddenly squaring his shoulders, jarringly stopped the
@@ -135,36 +155,3 @@ were still permitted.  He walked across the [[Road|road]] again
 and picked up the small cask, which he put on the other
 side of the [[cheese]] and from which he filled, in his own
 manner, the little cup he carried in his pocket.
-
-But at the sight of this the cockney's eyes lit at once
-with terror and [[Desire|desire]].
-
-"But yer cawnt do it," he whispered hoarsely, "its
-the pleece.  It's gile for that, with no doctor's letter
-nor sign-board nor nothink."
-
-Mr. Humphrey Pump made yet another march back
-into the [[Road|road]].  When he got there he hesitated for
-the first [[Time|time]], but it was quite clear from the attitude
-of the two insane aristocrats who were arguing and
-posturing in the [[Road|road]] that they would notice nothing
-except each other.  He picked the loose post off the
-[[Road|road]] and brought it to the car, humorously propping
-it erect in the aperture between keg and [[cheese]].
-
-The little glass of rum was wavering in the poor
-chauffeur's hand exactly as the big knife had done,
-but when he looked up and actually saw the wooden
-sign above him, he seemed not so much to pluck up
-his [[Courage|courage]], but rather to drag up some forgotten
-[[Courage|courage]] from the foundations of some unfathomable
-sea.  It was indeed the forgotten [[Courage|courage]] of the people.
-
-He looked once at the bleak, black pinewoods around
-him and took the mouthful of golden liquid at a gulp,
-as if it were a fairy potion.  He sat silent; and then,
-very slowly, a sort of stony glitter began to come into
-his eyes.  The brown and vigilant eyes of Humphrey
-Pump were studying him with some anxiety or even
-[[Fear|fear]].  He did look rather like a man enchanted or
-turned to stone.  But he spoke very suddenly.

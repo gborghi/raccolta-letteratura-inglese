@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]] — Omar and the Sacred Vine (part 2)"
+title: "heret12 — Omar and the Sacred Vine (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/heret12-(chesterton)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_06_omar_and_the_sacred_vine/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_07_the_mildness_of_the_yellow_press/part_01">part 01 ›</a></div>
 </nav>
 
+
+  "The ball no question makes of Ayes or Noes,
+   But Here or There as strikes the Player goes;
+   And He that tossed you down into the field,
+   He knows about it all--he knows--he knows."
 
 A Christian thinker such as Augustine or [[Dante]] would object to this
 because it ignores free-will, which is the valour and dignity of the [[Soul|soul]].

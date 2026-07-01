@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 25"
+title: "The Tenant of Wildfell Hall — Chapter 25"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -22,7 +22,7 @@ tags:
 
 On the eighth of April we went to [[London]], on the eighth of May I
 
-returned, in obedience to [[arthur|Arthur]]’s wish; very much against my own,
+returned, in obedience to [[Arthur]]’s wish; very much against my own,
 
 because I left him behind. If he had come with me, I should have been
 
@@ -120,7 +120,7 @@ I know that you are here, neglected—?”
 
 “I shall not feel myself neglected: while you are doing your duty,
 
-[[arthur|Arthur]], I shall never complain of neglect. If you had told me before,
+[[Arthur]], I shall never complain of neglect. If you had told me before,
 
 that you had anything to do, it would have been half done before this;
 
@@ -184,7 +184,7 @@ cannot trust me to go a hundred miles in our own carriage, with our own
 
 footman and a maid to attend me? If you come with me I shall assuredly
 
-keep you. But tell me, [[arthur|Arthur]], what _is_ this tiresome business; and
+keep you. But tell me, [[Arthur]], what _is_ this tiresome business; and
 
 why did you never mention it before?”
 
@@ -216,7 +216,7 @@ wish he would return!
 
 
 
-June 29th.—No [[arthur|Arthur]] yet; and for many days I have been looking and
+June 29th.—No [[Arthur]] yet; and for many days I have been looking and
 
 [[Longing|longing]] in vain for a letter. His letters, when they come, are kind, if
 
@@ -258,9 +258,9 @@ agreeable than [[Lord Lowborough]], more candid and high-minded than Mr.
 
 Grimsby, and more polished and gentlemanly than Mr. Hattersley,
 
-[[arthur|Arthur]]’s only other friend whom he judged fit to introduce to me.—Oh,
+[[Arthur]]’s only other friend whom he judged fit to introduce to me.—Oh,
 
-[[arthur|Arthur]], why won’t you come? why won’t you write to me at least? You
+[[Arthur]], why won’t you come? why won’t you write to me at least? You
 
 talked about my health: how can you expect me to gather bloom and
 
@@ -650,7 +650,7 @@ he pressed my hand to his feverish lips), “and what more could you
 
 
 
-“Only, [[arthur|Arthur]], that you would [[Love|love]] _yourself_ as truly and as
+“Only, [[Arthur]], that you would [[Love|love]] _yourself_ as truly and as
 
 faithfully as you are loved by me.”
 
@@ -660,7 +660,7 @@ faithfully as you are loved by me.”
 
 
 
-August 24th.—[[arthur|Arthur]] is himself again, as lusty and reckless, as light
+August 24th.—[[Arthur]] is himself again, as lusty and reckless, as light
 
 of heart and head as ever, and as restless and hard to amuse as a
 
@@ -712,7 +712,7 @@ shooting [[Alone|alone]]; he must have a friend or two to help him.
 
 
 
-“Let them be tolerably decent then, [[arthur|Arthur]],” said I. The word “friend”
+“Let them be tolerably decent then, [[Arthur]],” said I. The word “friend”
 
 in his mouth makes me shudder: I know it was some of his “friends” that
 

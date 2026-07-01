@@ -14,6 +14,27 @@ tags:
 </nav>
 
 
+Meanwhile [[Diana]] Westermaine had left the stable and made her way
+across the grounds to rejoin the guest who had gone in front of her.
+As she went up through a lane of hollyhocks and tall plants,
+she saw the vast flying island or continent of rain cloud,
+with its volcanic hues and outline, come sailing slowly
+over the dark, wooded ridge that was the wall of the valley.
+There was already something faintly lurid about the twilight
+with which it covered the rich colours of the [[Garden|garden]]; but higher
+up the climbing path a strip of lawn was golden in a chance gleam
+of sunlight, and against it she saw the figure she had come to seek.
+She recognized it by the light-brown clothes that had looked
+like gold in the evening light, but there was something very
+extraordinary about the shape as distinct from the colour.
+He seemed to be waving his arms slowly like branches in
+a breeze, and she fancied the arms were unnaturally long.
+For an instant she had the ugly fancy that the figure was deformed;
+and yet the more unearthly fancy that it had no head.
+Then the [[nightmare]] turned into ordinary nonsense, for the man
+threw a sort of cartwheel and alighted on his feet laughing.
+He had actually been standing on his head, or rather on his hands.
+
 "Excuse me," he said, "I often do that.  It's a very good thing
 for a landscape-painter to see the landscape upside down.
 He sees things then as they really are; yes, and that's true in [[philosophy]]
@@ -111,27 +132,3 @@ of what might [[Well|well]] be merely a [[suicide]].  After all, however mad
 he might be, the man was doing the right thing in trying to rejoin
 his medical attendant; and she would not have the last effort
 of his [[Sanity|sanity]] frustrated by the antics of his disease.
-
-"I'll drive if we must," she said in a ringing tone.
-"He'll go better with me."
-
-The sun had set behind the hills opposite, and [[Night|night]] was already
-deepening the darkness of the [[Storm|storm]].  As the rocking vehicle splashed up
-to the hub of its [[Wheel|wheel]] in the eddying [[Water|water]], she could only faintly see
-the long [[Water|water]]-rushes streaming with the stream, as if they were indeed
-the shades of the underworld hovering without [[Hope|hope]] beside the Styx.
-But she had no longer need to call it, merely in metaphor,
-a [[River|river]] of [[Death|death]].  [[Death]] was driving hard against [[Horse|horse]] and cart,
-staggering the insecure foothold of the one, and swaying the human
-burden of the other; the thunder was about their ears, and on their
-dreadful path scarce any light but the [[Lightning|lightning]]; and her human
-companion was a man uttering a monologue, of which she heard snatches,
-more shocking than the thunder.  All the reason and realism
-in her told her that he might at any moment tear her in pieces.
-But underneath all such things there was something else contrary
-and incredible; something in the need and the companionship,
-and the [[Courage|courage]] and [[Heroism|heroism]] she was showing; and it was too deep
-in her dizzy [[Soul|soul]] for her to know that it was exultation.
-
-The [[Horse|horse]] almost fell just as they came to the end of the ford,
-but Gale sprang from the cart and held it, standing knee-deep in [[Water|water]].

@@ -1,5 +1,5 @@
 ---
-title: "[[Emma]] — Chapter 13 (part 3)"
+title: "Emma — Chapter 13 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/emma-(austen)"
@@ -13,6 +13,27 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/emma/chapter_13/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/emma/chapter_14/part_01">part 01 ›</a></div>
 </nav>
 
+
+They arrived, the carriage turned, the step was let down, and Mr.
+Elton, spruce, black, and smiling, was with them instantly. [[Emma]]
+thought with pleasure of some change of subject. Mr. Elton was all
+obligation and cheerfulness; he was so very cheerful in his civilities
+indeed, that she began to think he must have received a different
+account of Harriet from what had reached her. She had sent while
+dressing, and the answer had been, “Much the same—not better.”
+
+“_My_ report from Mrs. Goddard’s,” said she presently, “was not so
+pleasant as I had hoped—‘Not better’ was _my_ answer.”
+
+His face lengthened immediately; and his voice was the voice of
+sentiment as he answered.
+
+“Oh! no—I am grieved to find—I was on the point of telling you that
+when I called at Mrs. Goddard’s door, which I did the very last thing
+before I returned to dress, I was told that Miss [[smith|Smith]] was not better,
+by no means better, rather worse. Very much grieved and concerned—I had
+flattered myself that she must be better after such a cordial as I knew
+had been given her in the morning.”
 
 [[Emma]] smiled and answered—“My visit was of use to the nervous part of
 her complaint, I [[Hope|hope]]; but not even I can charm away a sore throat; it

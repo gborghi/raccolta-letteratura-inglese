@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 11: ELEVEN (part 8)"
+title: "Martin Chuzzlewit — Chapter 11: ELEVEN (part 8)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_11_eleven/part_07">‹ part 07</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_12_twelve/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘Unanimity, my good sir,’ rejoined Mr Pecksniff, ‘is always delightful.’
+
+‘I don’t know about that,’ said the old man, ‘for there are some people
+I would rather differ from than agree with. But you know my opinion of
+you.’
+
+Mr Pecksniff, still having ‘hypocrite’ in his mind, only replied by a
+motion of his head, which was something between an affirmative bow, and
+a negative shake.
+
+‘Complimentary,’ said Anthony. ‘Complimentary, upon my word. It was an
+involuntary tribute to your abilities, even at the [[Time|time]]; and it was not
+a [[Time|time]] to suggest compliments either. But we agreed in the coach, you
+know, that we quite understood each other.’
+
+‘Oh, quite!’ assented Mr Pecksniff, in a manner which implied that he
+himself was misunderstood most cruelly, but would not complain.
 
 Anthony glanced at his son as he sat beside Miss [[Charity]], and then at Mr
 Pecksniff, and then at his son again, very many times. It happened that

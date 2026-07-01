@@ -1,5 +1,5 @@
 ---
-title: "[[history]] — Chapter 15 (part 1)"
+title: "history — Chapter 15 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/history-(chesterton)"
@@ -57,7 +57,7 @@ by talking, and trying to talk [[Well|well]].  It did not merely do things
 because they do not bear talking about--as it does now.  It was then,
 to the eternal glory of our country, a great "talking-shop," not a mere
 buying and selling shop for financial tips and official places.
-And as with any other [[artist]], the care the eighteenth century man
+And as with any other [[Artist|artist]], the care the eighteenth century man
 expended on oratory is a proof of his sincerity not a disproof of it.
 An enthusiastic eulogium by Burke is as rich and elaborate as a
 [[Lover|lover]]'s [[Sonnet|sonnet]]; but it is because Burke is really enthusiastic,
@@ -84,7 +84,7 @@ whole world an aristocracy, and the very reverse of it a [[democracy]],
 the true historical test is this:  that when republicanism really entered
 the world, they instantly waged two great wars with it--or (if the
 view be preferred) it instantly waged two great wars with them.
-[[america|America]] and France revealed the real [[Nature|nature]] of the English Parliament.
+[[America]] and France revealed the real [[Nature|nature]] of the English Parliament.
 Ice may sparkle, but a real spark will show it is only ice.
 So when the red [[Fire|fire]] of the Revolution touched the frosty splendours
 of the Whigs, there was instantly a hissing and a strife; a strife
@@ -106,14 +106,14 @@ And it was that they both stood for [[democracy]].
 
 Great injustice is done to the English aristocratic [[government]]
 of the [[Time|time]] through a failure to realize this fundamental difference,
-especially in the case of [[america|America]].  There is a wrong-headed
+especially in the case of [[America]].  There is a wrong-headed
 [[Humour|humour]] about the English which appears especially in this,
 that while they often (as in the case of Ireland) make themselves
 out right where they were entirely wrong, they are easily persuaded
-(as in the case of [[america|America]]) to make themselves out entirely
+(as in the case of [[America]]) to make themselves out entirely
 wrong where there is at least a case for their having been
 more or less right.  George III's [[government]] laid certain taxes
-on the colonial community on the eastern seaboard of [[america|America]].
+on the colonial community on the eastern seaboard of [[America]].
 It was certainly not [[Self|self]]-evident, in the sense of law and precedent,
 that the imperial [[government]] could not lay taxes on such colonists.
 Nor were the taxes themselves of that practically oppressive sort
@@ -136,7 +136,7 @@ in the quarrel, was something much deeper than the quarrel.  They were
 at issue, not with a dead monarchy, but with a living aristocracy;
 they declared war on something much finer and more formidable
 than poor old George.  Nevertheless, the popular tradition,
-especially in [[america|America]], has pictured it primarily as a duel
+especially in [[America]], has pictured it primarily as a duel
 of George III and George Washington; and, as we have noticed
 more than once, such pictures though figurative are seldom false.
 [[King]] George's head was not much more useful on the throne
@@ -144,7 +144,7 @@ than it was on the sign-board of a tavern; nevertheless,
 the sign-board was really a sign, and a sign of the times.
 It stood for a tavern that sold not English but German beer.
 It stood for that side of the Whig policy which Chatham showed
-when he was tolerant to [[america|America]] [[Alone|alone]], but intolerant of [[america|America]]
+when he was tolerant to [[America]] [[Alone|alone]], but intolerant of [[America]]
 when allied with France.  That very wooden sign stood, in short,
 for the same thing as the juncture with Frederick the Great;
 it stood for that Anglo-German alliance which, at a very much later

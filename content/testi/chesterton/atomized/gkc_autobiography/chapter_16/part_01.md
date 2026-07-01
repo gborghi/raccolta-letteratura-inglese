@@ -1,5 +1,5 @@
 ---
-title: "[[GKC-Autobiography]] — Chapter 16 (part 1)"
+title: "GKC-Autobiography — Chapter 16 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/gkc-autobiography-(chesterton)"
@@ -37,10 +37,10 @@ various unwelcome and unworthy social and legal consequences.
 I have explained elsewhere that I once drew up a scientific table
 of Twenty Ways of Killing a Wife and have managed to preserve
 them all in their undisturbed artistic completeness, so that it
-is possible for the [[artist]], after a fashion, to have successfully
+is possible for the [[Artist|artist]], after a fashion, to have successfully
 murdered twenty wives and yet keep the original wife after all;
 an additional point which is in many cases, and especially my own,
-not without its advantages.  Whereas, for the [[artist]] to sacrifice
+not without its advantages.  Whereas, for the [[Artist|artist]] to sacrifice
 his wife and possibly his neck, for the mere vulgar and theatrical
 practical presentation of one of these ideal dramas, is to lose,
 not only this, but all the ideal enjoyment of the other nineteen.

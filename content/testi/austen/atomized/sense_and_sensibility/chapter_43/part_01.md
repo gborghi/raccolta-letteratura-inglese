@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 43 (part 1)"
+title: "Sense and Sensibility — Chapter 43 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -201,11 +201,3 @@ himself out of fears, which the different judgment of the apothecary
 seemed to render absurd; but the many hours of each day in which he was
 
 left entirely [[Alone|alone]], were but too favourable for the admission of every
-
-[[Melancholy|melancholy]] idea, and he could not expel from his mind the [[Persuasion|persuasion]]
-
-that he should see Marianne no more.
-
-
-
-On the morning of the third day however, the gloomy anticipations of

@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 12"
+title: "Wuthering Heights — Chapter 12"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/wuthering-heights-(bronte)"
@@ -320,7 +320,7 @@ attention on him, and discovered who it was that held her.
 animation. “You are one of those things that are ever found when least
 wanted, and when you are wanted, never! I suppose we shall have plenty
 of lamentations now—I see we shall—but they can’t keep me from my
-narrow [[Home|home]] out yonder: my resting-place, where I’m bound before [[spring]]
+narrow [[Home|home]] out yonder: my resting-place, where I’m bound before [[Spring|spring]]
 is over! There it is: not among the Lintons, mind, under the
 chapel-roof, but in the open air, with a head-stone; and you may please
 yourself whether you go to them or come to me!”
@@ -329,7 +329,7 @@ yourself whether you go to them or come to me!”
 you any more? Do you [[Love|love]] that wretch Heath—”
 
 “Hush!” cried Mrs. Linton. “Hush, this moment! You mention that name
-and I end the matter instantly by a [[spring]] from the [[Window|window]]! What you
+and I end the matter instantly by a [[Spring|spring]] from the [[Window|window]]! What you
 touch at present you may have; but my [[Soul|soul]] will be on that [[Hill|hill]]-top
 before you lay hands on me again. I don’t want you, [[Edgar]]: I’m past
 wanting you. Return to your books. I’m glad you possess a consolation,

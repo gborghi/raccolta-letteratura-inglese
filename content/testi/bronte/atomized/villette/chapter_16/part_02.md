@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 16 (part 2)"
+title: "Villette — Chapter 16 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_16/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_16/part_03">part 03 ›</a></div>
 </nav>
 
+
+Too weak to scrutinize thoroughly the mystery, I tried to settle it by
+saying it was a mistake, [[A Dream|a dream]], a fever-fit; and yet I knew there
+could be no mistake, and that I was not sleeping, and I believed I was
+sane. I wished the room had not been so [[Well|well]] lighted, that I might not
+so clearly have seen the little pictures, the ornaments, the screens,
+the worked chair. All these objects, as [[Well|well]] as the blue-damask
+furniture, were, in fact, precisely the same, in every minutest detail,
+with those I so [[Well|well]] remembered, and with which I had been so
+thoroughly intimate, in the drawing-room of my godmother’s [[house]] at
+Bretton. Methought the apartment only was changed, being of different
+proportions and dimensions.
 
 I thought of Bedreddin Hassan, transported in his [[Sleep|sleep]] from Cairo to
 the gates of Damascus. Had a Genius stooped his dark wing down the
@@ -108,21 +120,3 @@ were whirled singly before the sweeping west [[Wind|wind]]. Whatever landscape
 might lie further must have been flat, and these tall beeches shut it
 out. The place seemed secluded, and was to me quite strange: I did not
 know it at all.
-
-Once more I lay down. My bed stood in a little alcove; on turning my
-face to the wall, the room with its bewildering accompaniments became
-excluded. Excluded? No! For as I arranged my position in this [[Hope|hope]],
-behold, on the green space between the divided and looped-up curtains,
-hung a broad, gilded picture-frame enclosing a portrait. It was
-drawn—[[Well|well]] drawn, though but a [[Sketch|sketch]]—in [[Water|water]]-colours; a head, a boy’s
-head, fresh, life-like, speaking, and animated. It seemed a youth of
-sixteen, fair-complexioned, with sanguine health in his cheek; hair
-long, not dark, and with a sunny sheen; penetrating eyes, an arch
-mouth, and a gay smile. On the whole a most pleasant face to look at,
-especially for those claiming a right to that youth’s
-affections—parents, for instance, or sisters. Any romantic little
-school-girl might almost have loved it in its frame. Those eyes looked
-as if when somewhat older they would flash a [[Lightning|lightning]]-response to
-[[Love|love]]: I cannot tell whether they kept in store the steady-beaming shine
-of [[Faith|faith]]. For whatever sentiment met him in form too facile, his lips
-menaced, beautifully but surely, caprice and light esteem.

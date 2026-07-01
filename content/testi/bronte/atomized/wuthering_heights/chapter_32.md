@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 32"
+title: "Wuthering Heights — Chapter 32"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/wuthering-heights-(bronte)"
@@ -231,7 +231,7 @@ myself we should get on in tolerable comfort. The delusion did not last
 long. Catherine, contented at first, in a brief space grew irritable
 and restless. For one thing, she was forbidden to move out of the
 [[Garden|garden]], and it fretted her sadly to be confined to its narrow bounds as
-[[spring]] drew on; for another, in following the [[house]], I was forced to
+[[Spring|spring]] drew on; for another, in following the [[house]], I was forced to
 quit her frequently, and she complained of [[Loneliness|loneliness]]: she preferred
 quarrelling with Joseph in the kitchen to sitting at peace in her
 [[Solitude|solitude]]. I did not mind their skirmishes: but Hareton was often

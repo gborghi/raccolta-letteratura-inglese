@@ -1,5 +1,5 @@
 ---
-title: "[[history]] — Chapter 9"
+title: "history — Chapter 9"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/history-(chesterton)"
@@ -58,7 +58,7 @@ Christendom was not only one nation but more like one [[City|city]]--
 and a besieged [[City|city]].  Wessex was but one wall or [[Paris]] one tower
 of it; and in one tongue and spirit Bede might have chronicled
 the siege of [[Paris]] or Abbo sung the [[Song|song]] of Alfred.  What followed
-was a conquest and a [[Conversion|conversion]]; all the end of the Dark Ages and
+was a conquest and a [[conversion]]; all the end of the Dark Ages and
 the [[Dawn|dawn]] of mediaevalism is full of the evangelizing of barbarism.
 And it is the [[Paradox|paradox]] of the [[Crusades]] that though the Saracen
 was superficially more civilized than the Christian, it was a

@@ -133,27 +133,3 @@ a Philistine that he saw the land so full of strange gods.
 These idle journalistic jottings have nothing in common with such
 standards of real literature, except the principle involved;
 but the principle is the right one.
-
-But while these are frivolous essays, pretending only to touch
-on topics and theories they cannot exhaustively examine, I have
-added some that may not seem to fit so easily even into so slight
-a scheme.  Nevertheless, they are in some sense connected with it.
-I have opened with an [[Essay|essay]] on rhyme, because it is a type of
-the sort of tradition which the anti-traditionalists now attack;
-and I have ended with one called "[[Milton]] and Merry England,"
-because I feel that many may misunderstand my case against
-the new Puritans, if they have no notion of how I should attempt
-to meet the more accepted case in favour of the old Puritans.
-Both these articles appeared originally in the "[[London]] Mercury,"
-and I [[Desire|desire]] to express my thanks to Mr. J. C. Squire for his kind
-permission to reprint them.  But, in the latter case, I had the further
-feeling that I wished to express somewhere the historical sentiment
-that underlies the whole; the conviction that there did and does
-exist a more normal and national England, which we once inhabited
-and to which we may yet return; and which is not a Utopia but a [[Home|home]].
-I have therefore thought it worth while to write this line of
-introduction to show that such a scrap-book is not entirely scrappy;
-and that even to touch such things lightly we need something like a test.
-It is necessary to have in hand a [[Truth|truth]] to judge modern
-philosophies rapidly; and it is necessary to judge them very rapidly
-to judge them before they disappear.

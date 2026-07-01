@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 2 (part 2)"
+title: "Oliver Twist — Chapter 2 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_02/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_02/part_03">part 03 ›</a></div>
 </nav>
 
+
+“Do you think this respectful or proper conduct, Mrs. Mann,” inquired
+Mr. Bumble, grasping his cane, “to keep the parish officers a waiting
+at your [[Garden|garden]]-gate, when they come here upon porochial business with
+the porochial orphans? Are you aweer, Mrs. Mann, that you are, as I may
+say, a porochial delegate, and a stipendiary?”
 
 “I’m sure Mr. Bumble, that I was only a telling one or two of the dear
 children as is so fond of you, that it was you a coming,” replied Mrs.
@@ -144,10 +150,3 @@ of childish grief, as the cottage-gate closed after him. Wretched as
 were the little companions in misery he was leaving behind, they were
 the only friends he had ever known; and a sense of his [[Loneliness|loneliness]] in
 the great wide world, sank into the [[Child|child]]’s heart for the first [[Time|time]].
-
-Mr. Bumble walked on with long strides; little [[Oliver]], firmly grasping
-his gold-laced cuff, trotted beside him, inquiring at the end of every
-quarter of a mile whether they were “nearly there.” To these
-interrogations Mr. Bumble returned very brief and snappish replies; for
-the temporary blandness which gin-and-[[Water|water]] awakens in some bosoms had
-by this [[Time|time]] evaporated; and he was once again a beadle.

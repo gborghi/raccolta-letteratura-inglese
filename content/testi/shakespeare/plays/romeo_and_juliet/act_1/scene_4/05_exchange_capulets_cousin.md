@@ -1,5 +1,5 @@
 ---
-title: "[[Romeo]] and [[Juliet]] — Act I, Scene 4 — exchange ([[Capulet|CAPULET]]’S COUSIN) [5]"
+title: "Romeo and Juliet — Act I, Scene 4 — exchange (CAPULET’S COUSIN) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/romeo-and-juliet-(shakespeare)"

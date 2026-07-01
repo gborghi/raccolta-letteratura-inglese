@@ -69,7 +69,7 @@ I mean that I saw what it was; the thing itself and the whole thing.
 The Labour problem of to-day stood up quite simply, like a
 peak at which a man looks back and sees single and solid,
 though when he was walking over it it was a wilderness of rocks.
-The Labour problem is the attempt to have the [[Democracy|democracy]] of [[Paris]]
+The Labour problem is the attempt to have the [[democracy]] of [[Paris]]
 without the [[Slavery|slavery]] of Rome.  Between the Roman Republic and the
 French Republic something had happened.  Whatever else it was, it was
 the abandonment of the ancient and fundamental human habit of [[Slavery|slavery]];

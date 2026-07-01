@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 21 (part 5)"
+title: "Villette — Chapter 21 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_21/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_21/part_06">part 06 ›</a></div>
 </nav>
 
+
+As usual he broke upon us like a clap of thunder; but instead of
+flashing [[Lightning|lightning]]-wise from the door to the estrade, his career halted
+midway at my desk. Setting his face towards me and the [[Window|window]], his back
+to the pupils and the room, he gave me a look—such a look as might have
+licensed me to stand straight up and demand what he meant—a look of
+scowling distrust.
 
 “Voilà! pour vous,” said he, drawing his hand from his waist-coat, and
 placing on my desk a letter—the very letter I had seen in Rosine’s
@@ -110,18 +117,3 @@ stitching—transported M. Emanuel beyond the last boundary of patience;
 he actually sprang from his estrade. The stove stood near my desk, he
 attacked it; the little iron door was nearly dashed from its hinges,
 the fuel was made to fly.
-
-“Est-ce que vous avez l’intention de m’insulter?” said he to me, in a
-low, furious voice, as he thus outraged, under pretence of arranging
-the [[Fire|fire]].
-
-It was [[Time|time]] to soothe him a little if possible.
-
-“Mais, Monsieur,” said I, “I would not insult you for the world. I
-remember too [[Well|well]] that you once said we should be friends.”
-
-I did not intend my voice to falter, but it did: more, I think, through
-the agitation of late delight than in any spasm of present [[Fear|fear]]. Still
-there certainly was something in M. Paul’s anger—a kind of passion of
-emotion—that specially tended to draw [[Tears|tears]]. I was not unhappy, nor
-much afraid, yet I wept.

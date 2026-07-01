@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 9: I HAVE A MEMORABLE BIRTHDAY (part 2)"
+title: "David Copperfield — Chapter 9: I HAVE A MEMORABLE BIRTHDAY (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_09_i_have_a_memorable_birthday/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_09_i_have_a_memorable_birthday/part_03">part 03 ›</a></div>
 </nav>
 
+
+I left Salem [[house|House]] upon the morrow afternoon. I little thought then that
+I left it, never to return. We travelled very slowly all [[Night|night]], and
+did not get into Yarmouth before nine or ten o’[[Clock|clock]] in the morning. I
+looked out for Mr. Barkis, but he was not there; and instead of him a
+fat, short-winded, merry-looking, little old man in black, with rusty
+little bunches of ribbons at the knees of his breeches, black stockings,
+and a broad-brimmed hat, came puffing up to the coach [[Window|window]], and said:
 
 ‘Master Copperfield?’
 
@@ -142,26 +150,3 @@ Minnie coloured a little, and the other two girls smiled at one another.
 
 ‘What! you were at it by candle-light last [[Night|night]], when I was at the
 club, then? Were you?’ said Mr. Omer, shutting up one eye.
-
-‘Yes,’ said Joram. ‘As you said we could make a little trip of it, and
-go over together, if it was done, Minnie and me--and you.’
-
-‘Oh! I thought you were going to leave me out altogether,’ said Mr.
-Omer, laughing till he coughed.
-
-‘--As you was so good as to say that,’ resumed the young man, ‘why I
-turned to with a will, you see. Will you give me your opinion of it?’
-
-‘I will,’ said Mr. Omer, rising. ‘My dear’; and he stopped and turned to
-me: ‘would you like to see your--’
-
-‘No, father,’ Minnie interposed.
-
-‘I thought it might be agreeable, my dear,’ said Mr. Omer. ‘But perhaps
-you’re right.’
-
-I can’t say how I knew it was my dear, dear mother’s coffin that they
-went to look at. I had never heard one making; I had never seen one that
-I know of.--but it came into my mind what the noise was, while it was
-going on; and when the young man entered, I am sure I knew what he had
-been doing.

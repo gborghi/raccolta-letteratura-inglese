@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 14 (part 3)"
+title: "Our Mutual Friend — Chapter 15 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,111 +10,128 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_19/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_20/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_19/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_19/part_04">part 04 ›</a></div>
 </nav>
 
 
-‘What is to be done with the remains?’ asked Lightwood.
+A certain leanness falls upon houses not sufficiently imbued with life
+(as if they were nourished upon it), which was very noticeable here.
+The staircase, balustrades, and rails, had a spare look—an air of being
+denuded to the bone—which the panels of the walls and the jambs of the
+doors and windows also bore. The scanty moveables partook of it; save
+for the cleanliness of the place, the [[Dust|dust]] into which they were all
+resolving would have lain thick on the floors; and those, both in colour
+and in grain, were worn like old faces that had kept much [[Alone|alone]].
 
-‘If you wouldn’t object to standing by him half a minute, sir,’ was
-the reply, ‘I’ll find the nearest of our men to come and take charge of
-him;—I still call it HIM, you see,’ said Mr Inspector, looking back as
-he went, with a philosophical smile upon the force of habit.
+The bedroom where the clutching old man had lost his grip on life, was
+left as he had left it. There was the old grisly four-post bedstead,
+without hangings, and with a jail-like upper rim of iron and spikes; and
+there was the old patch-work counterpane. There was the tight-clenched
+old bureau, receding atop like a bad and secret forehead; there was the
+cumbersome old table with twisted legs, at the bed-side; and there
+was the box upon it, in which the will had lain. A few old chairs with
+patch-work covers, under which the more precious stuff to be preserved
+had slowly lost its quality of colour without imparting pleasure to any
+eye, stood against the wall. A hard family likeness was on all these
+things.
 
-‘Eugene,’ said Lightwood and was about to add ‘we may wait at a little
-distance,’ when turning his head he found that no Eugene was there.
+‘The room was kept like this, Rokesmith,’ said Mr Boffin, ‘against the
+son’s return. In short, everything in the [[house]] was kept exactly as it
+came to us, for him to see and approve. Even now, nothing is changed
+but our own room below-stairs that you have just left. When the son came
+[[Home|home]] for the last [[Time|time]] in his life, and for the last [[Time|time]] in his life
+saw his father, it was most likely in this room that they met.’
 
-He raised his voice and called ‘Eugene! Holloa!’ But no Eugene replied.
+As the Secretary looked all round it, his eyes rested on a side door in
+a corner.
 
-It was broad daylight now, and he looked about. But no Eugene was in all
-the view.
+‘Another staircase,’ said Mr Boffin, unlocking the door, ‘leading down
+into the yard. We’ll go down this way, as you may like to see the yard,
+and it’s all in the [[Road|road]]. When the son was a little [[Child|child]], it was up
+and down these stairs that he mostly came and went to his father. He was
+very timid of his father. I’ve seen him sit on these stairs, in his
+shy way, poor [[Child|child]], many a [[Time|time]]. Mr and Mrs Boffin have comforted him,
+sitting with his little book on these stairs, often.’
 
-Mr Inspector speedily returning down the wooden stairs, with a police
-constable, Lightwood asked him if he had seen his friend leave them? Mr
-Inspector could not exactly say that he had seen him go, but had noticed
-that he was restless.
+‘Ah! And his poor sister too,’ said Mrs Boffin. ‘And here’s the sunny
+place on the white wall where they one day measured one another. Their
+own little hands wrote up their names here, only with a pencil; but the
+names are here still, and the poor dears gone for ever.’
 
-‘Singular and entertaining combination, sir, your friend.’
+‘We must take care of the names, old lady,’ said Mr Boffin. ‘We must
+take care of the names. They shan’t be rubbed out in our [[Time|time]], nor yet,
+if we can help it, in the [[Time|time]] after us. Poor little children!’
 
-‘I wish it had not been a part of his singular entertaining combination
-to give me the slip under these dreary circumstances at this [[Time|time]] of the
-morning,’ said Lightwood. ‘Can we get anything hot to drink?’
+‘Ah, poor little children!’ said Mrs Boffin.
 
-We could, and we did. In a public-[[house]] kitchen with a large [[Fire|fire]]. We
-got hot brandy and [[Water|water]], and it revived us wonderfully. Mr Inspector
-having to Mr Riderhood announced his official intention of ‘keeping
-his eye upon him’, stood him in a corner of the fireplace, like a wet
-umbrella, and took no further outward and visible notice of that honest
-man, except ordering a separate service of brandy and [[Water|water]] for him:
-apparently out of the public funds.
+They had opened the door at the [[Bottom|bottom]] of the staircase giving on the
+yard, and they stood in the sunlight, looking at the scrawl of the two
+unsteady childish hands two or three steps up the staircase. There was
+something in this simple memento of a blighted [[Childhood|childhood]], and in the
+tenderness of Mrs Boffin, that touched the Secretary.
 
-As Mortimer Lightwood sat before the blazing [[Fire|fire]], conscious of drinking
-brandy and [[Water|water]] then and there in his [[Sleep|sleep]], and yet at one and the
-same [[Time|time]] drinking burnt sherry at the Six Jolly Fellowships, and
-lying under the boat on the [[River|river]] shore, and sitting in the boat that
-Riderhood rowed, and listening to the lecture recently concluded, and
-having to dine in the Temple with an unknown man, who described himself
-as M. H. F. Eugene Gaffer Harmon, and said he lived at Hailstorm,—as
-he passed through these curious vicissitudes of fatigue and slumber,
-arranged upon the scale of a dozen hours to the second, he became aware
-of answering aloud a communication of pressing importance that had
-never been made to him, and then turned it into a cough on beholding
-Mr Inspector. For, he felt, with some natural indignation, that that
-functionary might otherwise suspect him of having closed his eyes, or
-wandered in his attention.
+Mr Boffin then showed his new man of business the Mounds, and his own
+particular Mound which had been left him as his legacy under the will
+before he acquired the whole estate.
 
-‘Here just before us, you see,’ said Mr Inspector.
+‘It would have been enough for us,’ said Mr Boffin, ‘in case it had
+pleased God to spare the last of those two young lives and sorrowful
+deaths. We didn’t want the rest.’
 
-‘I see,’ said Lightwood, with dignity.
+At the treasures of the yard, and at the outside of the [[house]], and at
+the detached building which Mr Boffin pointed out as the residence
+of himself and his wife during the many years of their service, the
+Secretary looked with interest. It was not until Mr Boffin had shown
+him every [[Wonder|wonder]] of the Bower twice over, that he remembered his having
+duties to discharge elsewhere.
 
-‘And had hot brandy and [[Water|water]] too, you see,’ said Mr Inspector, ‘and
-then cut off at a great rate.’
+‘You have no instructions to give me, Mr Boffin, in reference to this
+place?’
 
-‘Who?’ said Lightwood.
+‘Not any, Rokesmith. No.’
 
-‘Your friend, you know.’
+‘Might I ask, without seeming impertinent, whether you have any
+intention of selling it?’
 
-‘I know,’ he replied, again with dignity.
+‘Certainly not. In remembrance of our old master, our old master’s
+children, and our old service, me and Mrs Boffin mean to keep it up as
+it stands.’
 
-After hearing, in a mist through which Mr Inspector loomed vague and
-large, that the officer took upon himself to prepare the dead man’s
-daughter for what had befallen in the [[Night|night]], and generally that he took
-everything upon himself, Mortimer Lightwood stumbled in his [[Sleep|sleep]] to
-a cab-stand, called a cab, and had entered the army and committed a
-capital military offence and been tried by [[Court|court]] martial and found
-guilty and had arranged his affairs and been marched out to be shot,
-before the door banged.
+The Secretary’s eyes glanced with so much meaning in them at the Mounds,
+that Mr Boffin said, as if in answer to a remark:
 
-Hard work rowing the cab through the [[City]] to the Temple, for a cup of
-from five to ten thousand pounds value, given by Mr Boffin; and hard
-work holding forth at that immeasurable length to Eugene (when he had
-been rescued with a rope from the running pavement) for making off in
-that extraordinary manner! But he offered such ample apologies, and was
-so very penitent, that when Lightwood got out of the cab, he gave
-the driver a particular charge to be careful of him. Which the driver
-(knowing there was no other fare left inside) stared at prodigiously.
+‘Ay, ay, that’s another thing. I may sell THEM, though I should be sorry
+to see the neighbourhood deprived of ’em too. It’ll look but a poor dead
+flat without the Mounds. Still I don’t say that I’m going to keep ’em
+always there, for the sake of the [[Beauty|beauty]] of the landscape. There’s no
+hurry about it; that’s all I say at present. I ain’t a scholar in much,
+Rokesmith, but I’m a pretty fair scholar in [[Dust|dust]]. I can price the Mounds
+to a fraction, and I know how they can be best disposed of; and likewise
+that they take no harm by standing where they do. You’ll look in
+to-morrow, will you be so kind?’
 
-In short, the [[Night|night]]’s work had so exhausted and worn out this actor in
-it, that he had become a mere somnambulist. He was too tired to rest in
-his [[Sleep|sleep]], until he was even tired out of being too tired, and dropped
-into oblivion. Late in the afternoon he awoke, and in some anxiety sent
-round to Eugene’s lodging hard by, to inquire if he were up yet?
+‘Every day. And the sooner I can get you into your new [[house]], complete,
+the better you will be pleased, sir?’
 
-Oh yes, he was up. In fact, he had not been to bed. He had just come
-[[Home|home]]. And here he was, close following on the heels of the message.
+‘[[Well]], it ain’t that I’m in a mortal hurry,’ said Mr Boffin; ‘only when
+you DO pay people for looking alive, it’s as [[Well|well]] to know that they ARE
+looking alive. Ain’t that your opinion?’
 
-‘Why what bloodshot, draggled, dishevelled spectacle is this!’ cried
-Mortimer.
+‘Quite!’ replied the Secretary; and so withdrew.
 
-‘Are my feathers so very much rumpled?’ said Eugene, coolly going up to
-the looking-glass. They ARE rather out of sorts. But consider. Such a
-[[Night|night]] for plumage!’
+‘Now,’ said Mr Boffin to himself; subsiding into his regular series of
+turns in the yard, ‘if I can make it comfortable with Wegg, my affairs
+will be going smooth.’
 
-‘Such a [[Night|night]]?’ repeated Mortimer. ‘What became of you in the morning?’
-
-‘My dear fellow,’ said Eugene, sitting on his bed, ‘I felt that we
-had bored one another so long, that an unbroken continuance of those
-relations must inevitably terminate in our flying to opposite points of
-the earth. I also felt that I had committed every crime in the Newgate
-Calendar. So, for mingled considerations of [[Friendship|friendship]] and felony, I
-took a walk.’
+The man of low cunning had, of course, acquired a mastery over the man
+of high simplicity. The mean man had, of course, got the better of the
+generous man. How long such conquests last, is another matter; that they
+are achieved, is every-day experience, not even to be flourished away by
+Podsnappery itself. The undesigning Boffin had become so far immeshed
+by the wily Wegg that his mind misgave him he was a very designing man
+indeed in purposing to do more for Wegg. It seemed to him (so skilful
+was Wegg) that he was plotting darkly, when he was contriving to do the
+very thing that Wegg was plotting to get him to do. And thus, while he
+was mentally turning the kindest of kind faces on Wegg this morning, he
+was not absolutely sure but that he might somehow deserve the charge of
+turning his back on him.

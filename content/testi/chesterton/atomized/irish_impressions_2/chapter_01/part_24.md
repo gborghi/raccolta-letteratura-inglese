@@ -14,108 +14,94 @@ tags:
 </nav>
 
 
-It has been remarked above that establishing militarism is a thing
-which a nation had a right to do, and (what is not at all the same thing)
-which it may be right in doing.  But with that very phrase "a nation,"
-we collide of course with the whole real question; the alleged
-abstract wrong about which the Irish talk much more than about their
-concrete wrongs.  I have put first the matters mentioned above,
-because I wish to make clear, as a matter of common sense, the impression
-of any reasonable [[Outsider|outsider]] that they certainly have concrete wrongs.
-But even those who [[Doubt|doubt]] it, and say that the Irish have no concrete
-grievance but only a sentiment of Nationalism, fall into a final and
-very serious error about the [[Nature|nature]] of the thing called Nationalism,
-and even the meaning of the word "concrete." For the [[Truth|truth]] is that,
-in dealing with a nation, the grievance which is most abstract
-of all is also the one which is most concrete of all.
+Anyhow, that is the real and remarkable story of Sergeant Sheridan,
+and I put it first because it is the most practical test
+of the practical question of whether Ireland is misgoverned.
+It is strictly a fair test; for it is a test by the minimum and
+an argument _a fortiori._ A British official in Ireland can run
+a career of crime, punishing [[Innocent|innocent]] people for his own felonies;
+and when he is found out, he is found to be above the law.
+This may seem like putting things at the worst, but it is really
+putting them at the best.  This story was not told us on the word
+of a wild Irish Fenian, or even a responsible Irish Nationalist.
+It was told, word for word as I have told it, by the Unionist Minister
+in charge of the matter and reporting it, with regret and shame,
+to Parliament.  He was not one of the worst Irish Secretaries,
+who might be responsible for the worst _regime;_ on the contrary,
+he was by far the best.  If even he could only partially restrain
+or reveal such things, there can be no deduction in common
+sense except that in the ordinary way such things go on gaily
+in the dark, with nobody to reveal and nobody to restrain them.
+It was not something done in those dark days of torture
+and terrorism, which happened in Ireland a hundred years ago;
+and which Englishmen talk of as having happened a million years ago.
+It was something that happened quite recently, in my own
+mature manhood, about the [[Time|time]] that the better things like
+the Land Acts were already before the world.  I remember writing
+to the _Westminster Gazette_ to emphasise it when it occurred; but it
+seems to have passed out of [[Memory|memory]] in an almost half-witted fashion.
+But that peephole into hell has afforded me, ever since a horrible
+amusement, when I hear the Irish softly rebuked for remembering
+old unhappy, far-off things and wrongs done in the Dark Ages.
+Thus I was especially amused to find the Rev. R. J. Campbell saying
+that "Ireland has been petted and coddled more than any other part
+of the British Isles"; because Mr. Campbell was chiefly famous
+for a comfortable creed himself, for saying that evil is only "a
+[[Shadow|shadow]] where light should be"; and there is no [[Doubt|doubt]] here of his
+throwing a very black [[Shadow|shadow]] where light is very much required.
+I will conceive the policeman at the corner of the street in which
+Mr. Campbell resides, as in the habit of killing a crossing-sweeper
+every now and then for his private entertainment, burgling the houses
+of Mr. Campbell's neighbours, cutting off the tails of their
+carriage horses, and otherwise disporting himself by moonlight a fairy.
+It is his custom to visit the consequences of each of these crimes upon
+the Rev. R. J. Campbell, whom he arrests at intervals, successfully
+convicts by perjury, and proceeds to coddle in penal servitude.
+But I have another reason for mentioning Mr. Campbell, a gentleman whom
+I heartily respect in many other aspects; and the reason is connected
+with his name, as it occurs in another connection on another page.
+It shows how in anything, but especially in anything coming from Ireland,
+the old facts of family and [[Faith|faith]] outweigh a million modern philosophies.
+The words in _Who's Who?_--"Ulster Protestant of Scottish ancestry"--
+give the really Irish and the really honourable reason for
+Mr. Campbell's extraordinary remark.  A man may preach for years,
+with radiant universalism, that many waters cannot quench [[Love|love]];
+but Boyne [[Water]] can.  Mr. Campbell appears very promptly with what
+Kettle called "a bucketful of Boyne, to put the sunrise out."
+I will not take the opportunity of saying, like the Ulsterman,
+that there never was treason yet but a Campbell was at the [[Bottom|bottom]] of it.
+But I will say that there never was Modernism yet, but a Calvinist
+was at the [[Bottom|bottom]] of it.  The Old Theology is much livelier than
+the New Theology.
 
-Not only is patriotism a part of practical politics, but it is
-more practical than any politics.  To neglect it, and ask only
-for grievances, is like counting the clouds and forgetting the climate.
-To neglect it, and think only of laws, is like seeing the landmarks
-and never seeing the landscape.
-
-It will be found that the denial of nationality is much more of a
-daily nuisance than the denial of votes or the denial of juries.
-Nationality is the most practical thing, because so many things
-are national without being political, or without being legal.
-A man in a conquered country feels it when he goes to market or
-even goes to church, which may be more often than he goes to law;
-and the harvest is more general than the General Election.
-Altering the [[Flag|flag]] on the roof is like altering the sun in the sky;
-the very chimney-pots and lamp-posts look different.  Nay, after a
-certain interval of occupation, they are different.  As a man would know
-he was in a land of strangers before he knew it was a land of savages,
-so he knows a rule is alien long before he knows it is oppressive.
-It is not necessary for it to add injury to insult.
-
-For instance, when I first walked about Dublin, I was disposed
-to smile at the names of the streets being gravely inscribed
-in Gaelic as [[Well|well]] as English.  I will not here discuss the question
-of what is called the Irish language, the only arguable
-case against which is that it is not the Irish language.
-But at any rate it is not the English language, and I have come
-to appreciate more imaginatively the importance of that fact.
-It may be used rather as a weapon than a tool; but it is a national
-weapon if it is not a national tool.  I see the significance
-of having something which the eye commonly encounters, as it
-does a chimney-pot or a lamp-post; but which is like a chimney
-reared above an Irish hearth or a lamp to light an Irish [[Road|road]].
-I see the point of having a solid object in the street to remind
-an Irishman that he is in Ireland, as a red pillar-box reminds an
-Englishman that he is in England.  But there must be a thousand things
-as practical as pillar-boxes which remind an Irishman that, if he is
-in his country, it is not yet a free country; everything connected
-with the principal seat of [[government]] reminds him of it perpetually.
-It may not be easy for an Englishman to imagine how many of such
-daily details there are.  But there is, after all, one very simple
-effort of the fancy, which would fix the fact for him for ever.
-He has only to imagine that the Germans have conquered [[London]].
-
-A brilliant writer who has earned the name of a Pacifist, and even
-a Pro-German, once propounded to me his highly personal and even perverse
-type of internationalism by saying, as a sort of unanswerable challenge,
-"Wouldn't you rather be ruled by Goethe than by Walter Long?"  I replied
-that words could not express the wild [[Love|love]] and loyalty I should
-feel for Mr. Walter Long, if the only alternative were Goethe.
-I could not have put my own national case in a clearer or more
-compact form.  I might occasionally feel inclined to kill Mr. Long;
-but under the approaching [[Shadow|shadow]] of Goethe, I should feel more inclined
-to kill myself.  That is the deathly element in denationalisation;
-that it poisons life, itself, the most real of all realities.
-But perhaps the best way of putting the point conversationally is
-to say that Goethe would certainly put up a monument to Shakespeare.
-I would sooner die than walk past it every day of my life.
-And in the other case of the street inscriptions, it is [[Well|well]] to remember
-that these things, which we also walk past every day, are exactly the sort
-of things that always have, in a nameless fashion, the national note.
-If the Germans conquered [[London]], they would not need to massacre me
-or even enslave me, in order to annoy me; it would be quite enough
-that their notices were in a German style, if not in a German language.
-Suppose I looked up in an English railway carriage, and saw these
-words written in English exactly as I have seen them in a German
-railway carriage written in German:  "The outleaning of the [[Body|body]]
-from the [[Window|window]] of the carriage is because of the therewith
-bound up life's danger strictly prohibited."  It is not rude.
-It would certainly be impossible to complain that it is curt.
-I should not be annoyed by its brutality and brevity;
-but on the contrary by its elaborateness and even its laxity.
-But if it does not exactly shine in lucidity, it gives a reason;
-which after all is a very reasonable thing to do.  By every
-cosmopolitan test, it is more polite than the sentence I have read
-in my [[Childhood|childhood]]:  "Wait until the train stops."  This is curt;
-this might be called rude; but it never annoyed me in the least.
-The nearest I can get to defining my sentiment is to say that I
-can sympathise with the Englishman who wrote the English notice.
-Having a rude thing to write, he wrote it as quickly as he could,
-and went [[Home|home]] to his tea; or preferably to his beer.  But what is too
-much for me, an overpowering vision, is the thought of that German
-calmly sitting down to compose that sentence like a sort of [[Essay|essay]].
-It is the thought of him serenely waving away the one important word
-till the very end of the sentence, like the Day of Judgment to the end
-of the world.  It is perhaps the mere thought that he did not break
-down in the middle of it, but endured to the end; or that he could
-afterwards calmly review it, and see that sentence go marching by,
-like the whole German army.  In short, I do not object to it because it
-is dictatorial or despotic or bureaucratic or anything of the kind;
-but simply because it is German.
+Many other such true tales could be told; but what we need here is a sort
+of test.  This tale is a test; because it is the best that could be said,
+about the best that could be done, by the best Englishman ruling Ireland,
+in face of the English system established there; and it is the best,
+or at any rate the most, that we can know about that system.
+Another [[Truth|truth]] which might also serve as a test, is this:
+to note among the responsible English not only their testimony
+against each other, but their testimony against themselves.
+I mean the consideration of how very rapidly we realise that our
+own conduct in Ireland has been infamous, not in the remote past,
+but in the very recent past.  I have lived just long enough to see
+the [[Wheel|wheel]] come full circle inside one generation; when I was a schoolboy,
+the sort of Kensington middle class, to which I belong, was nearly
+solidly resisting, not only the first [[Home]] Rule Bill, but any suggestion
+that the Land League had a leg to stand on, or that the landlords
+need do anything but get their rents or kick out their tenants.
+The whole Unionist Press, which was three-quarters of the Press,
+simply supported Clanricarde, and charged any one who did not
+do so with supporting the Clan-na-Gael. Mr. Balfour was simply
+admired for enforcing the system, which it is his real apologia
+to have tried to end, or at least to have allowed Wyndham to end.
+I am not yet far gone in senile [[Decay|decay]]; but already I have lived
+to hear my countrymen talk about their own blind policy in the [[Time|time]]
+of the Land League, exactly as they talked before of their blind
+policy in the [[Time|time]] of the Limerick Treaty.  The [[Shadow|shadow]] on our past
+shifts forward as we advance into the future; and always seems to end
+just behind us.  I was told in my youth that the age-long misgovernment
+of Ireland lasted down to about 1870; it is now agreed among all
+intelligent people that it lasted at least down to about 1890.
+A little common sense, after a hint like the Sheridan Case, will lead
+one to suspect the simple explanation that it is going on still.

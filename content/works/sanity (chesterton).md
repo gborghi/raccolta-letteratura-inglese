@@ -31,28 +31,28 @@ tags:
 ## Chapters / scenes / sections
 
 - [Story 01 SOME GENERAL IDEAS](/testi/chesterton/atomized/sanity/story_01_some_general_ideas)
-- [Story 02 THE BEGINNING OF THE QUARREL](/testi/chesterton/atomized/sanity/story_02_the_beginning_of_the_quarrel)
-- [Story 03 THE PERIL OF THE HOUR](/testi/chesterton/atomized/sanity/story_03_the_peril_of_the_hour)
-- [Story 04 THE CHANCE OF RECOVERY](/testi/chesterton/atomized/sanity/story_04_the_chance_of_recovery)
-- [Story 05 ON A SENSE OF PROPORTION](/testi/chesterton/atomized/sanity/story_05_on_a_sense_of_proportion)
-- [Story 06 SOME ASPECTS OF BIG BUSINESS](/testi/chesterton/atomized/sanity/story_06_some_aspects_of_big_business)
-- [Story 07 THE BLUFF OF THE BIG SHOPS](/testi/chesterton/atomized/sanity/story_07_the_bluff_of_the_big_shops)
-- [Story 08 A MISUNDERSTANDING ABOUT METHOD](/testi/chesterton/atomized/sanity/story_08_a_misunderstanding_about_method)
-- [Story 09 A CASE IN POINT](/testi/chesterton/atomized/sanity/story_09_a_case_in_point)
-- [Story 10 THE TYRANNY OF TRUSTS](/testi/chesterton/atomized/sanity/story_10_the_tyranny_of_trusts)
-- [Story 11 SOME ASPECTS OF THE LAND](/testi/chesterton/atomized/sanity/story_11_some_aspects_of_the_land)
-- [Story 12 THE SIMPLE TRUTH](/testi/chesterton/atomized/sanity/story_12_the_simple_truth)
-- [Story 13 VOWS AND VOLUNTEERS](/testi/chesterton/atomized/sanity/story_13_vows_and_volunteers)
-- [Story 14 THE REAL LIFE ON THE LAND](/testi/chesterton/atomized/sanity/story_14_the_real_life_on_the_land)
-- [Story 15 SOME ASPECTS OF MACHINERY](/testi/chesterton/atomized/sanity/story_15_some_aspects_of_machinery)
-- [Story 16 THE WHEEL OF FATE](/testi/chesterton/atomized/sanity/story_16_the_wheel_of_fate)
-- [Story 17 THE ROMANCE OF MACHINERY](/testi/chesterton/atomized/sanity/story_17_the_romance_of_machinery)
-- [Story 18 THE HOLIDAY OF THE SLAVE](/testi/chesterton/atomized/sanity/story_18_the_holiday_of_the_slave)
-- [Story 19 THE FREE MAN AND THE FORD CAR](/testi/chesterton/atomized/sanity/story_19_the_free_man_and_the_ford_car)
-- [Story 20 A NOTE ON EMIGRATION](/testi/chesterton/atomized/sanity/story_20_a_note_on_emigration)
-- [Story 21 THE NEED OF A NEW SPIRIT](/testi/chesterton/atomized/sanity/story_21_the_need_of_a_new_spirit)
-- [Story 22 THE RELIGION OF SMALL PROPERTY](/testi/chesterton/atomized/sanity/story_22_the_religion_of_small_property)
-- [Story 23 A SUMMARY](/testi/chesterton/atomized/sanity/story_23_a_summary)
+- Story 02 THE BEGINNING OF THE QUARREL
+- Story 03 THE PERIL OF THE HOUR
+- Story 04 THE CHANCE OF RECOVERY
+- Story 05 ON A SENSE OF PROPORTION
+- Story 06 SOME ASPECTS OF BIG BUSINESS
+- Story 07 THE BLUFF OF THE BIG SHOPS
+- Story 08 A MISUNDERSTANDING ABOUT METHOD
+- Story 09 A CASE IN POINT
+- Story 10 THE TYRANNY OF TRUSTS
+- Story 11 SOME ASPECTS OF THE LAND
+- Story 12 THE SIMPLE TRUTH
+- Story 13 VOWS AND VOLUNTEERS
+- Story 14 THE REAL LIFE ON THE LAND
+- Story 15 SOME ASPECTS OF MACHINERY
+- Story 16 THE WHEEL OF FATE
+- Story 17 THE ROMANCE OF MACHINERY
+- Story 18 THE HOLIDAY OF THE SLAVE
+- Story 19 THE FREE MAN AND THE FORD CAR
+- Story 20 A NOTE ON EMIGRATION
+- Story 21 THE NEED OF A NEW SPIRIT
+- Story 22 THE RELIGION OF SMALL PROPERTY
+- Story 23 A SUMMARY
 
 ## Testo integrale / Full text
 

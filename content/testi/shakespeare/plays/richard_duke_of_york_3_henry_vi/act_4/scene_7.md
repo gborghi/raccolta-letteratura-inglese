@@ -1,5 +1,5 @@
 ---
-title: "[[Richard]] [[Duke of York]] (3 [[Henry VI]]) — Act IV, Scene 7"
+title: "Richard Duke of York (3 Henry VI) — Act IV, Scene 7"
 author: "Shakespeare"
 unitType: scene
 parentWork: "works/richard-duke-of-york---(3-henry-vi)-(shakespeare)"

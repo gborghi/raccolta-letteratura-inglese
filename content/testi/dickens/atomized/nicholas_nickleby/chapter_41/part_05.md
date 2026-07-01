@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 41 (part 5)"
+title: "Nicholas Nickleby — Chapter 41 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_41/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_42/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘The young Prince of China,’ said the old gentleman, with much interest.
+‘Is he reconciled to his father-in-law, the great potato salesman?’
 
 ‘No,’ answered the gruff voice; ‘and he says he never will be, that’s
 more.’

@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 34 (part 2)"
+title: "Oliver Twist — Chapter 34 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_34/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_34/part_03">part 03 ›</a></div>
 </nav>
 
+
+“And who can [[Wonder|wonder]] if it be so, mother?” rejoined the young man; “or
+why should I say, _if?_—It is—it is—you know it, mother—you must know
+it!”
 
 “I know that she deserves the best and purest [[Love|love]] the heart of man can
 offer,” said Mrs. Maylie; “I know that the devotion and affection of
@@ -137,28 +141,3 @@ sort of thing admirably. Pray, how is Brittles?”
 
 “The boy is very [[Well|well]], sir,” said Mr. Giles, recovering his usual tone
 of patronage; “and sends his respectful duty, sir.”
-
-“That’s [[Well|well]],” said the doctor. “Seeing you here, reminds me, Mr.
-Giles, that on the day before that on which I was called away so
-hurriedly, I executed, at the request of your good mistress, a small
-commission in your favour. Just step into this corner a moment, will
-you?”
-
-Mr. Giles walked into the corner with much importance, and some [[Wonder|wonder]],
-and was honoured with a short whispering conference with the doctor, on
-the termination of which, he made a great many bows, and retired with
-steps of unusual stateliness. The subject matter of this conference was
-not disclosed in the parlour, but the kitchen was speedily enlightened
-concerning it; for Mr. Giles walked straight thither, and having called
-for a mug of ale, announced, with an air of majesty, which was highly
-effective, that it had pleased his mistress, in consideration of his
-gallant behaviour on the occasion of that attempted robbery, to
-deposit, in the local savings-bank, the sum of five-and-twenty pounds,
-for his sole use and benefit. At this, the two women-servants lifted up
-their hands and eyes, and supposed that Mr. Giles, pulling out his
-shirt-frill, replied, “No, no”; and that if they observed that he was
-at all haughty to his inferiors, he would thank them to tell him so.
-And then he made a great many other remarks, no less illustrative of
-his [[Humility|humility]], which were received with equal favour and applause, and
-were, withal, as original and as much to the purpose, as the remarks of
-great men commonly are.

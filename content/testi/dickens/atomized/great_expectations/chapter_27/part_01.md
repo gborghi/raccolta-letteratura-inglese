@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 27 (part 1)"
+title: "Great Expectations — Chapter 27 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -132,10 +132,3 @@ into the playacting. Which the playacting have likeways brought him to
 [[London]] along with me. And his wish were,” said Joe, getting the
 bird’s-nest under his left arm for the moment, and groping in it for an
 egg with his right; “if no offence, as I would ’and you that.”
-
-I took what Joe gave me, and found it to be the crumpled play-bill of a
-small metropolitan theatre, announcing the first appearance, in that
-very week, of “the celebrated Provincial Amateur of Roscian renown,
-whose unique performance in the highest tragic walk of our National
-Bard has lately occasioned so great a sensation in local dramatic
-circles.”

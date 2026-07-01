@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 42 (part 3)"
+title: "Oliver Twist — Chapter 42 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_42/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_42/part_04">part 04 ›</a></div>
 </nav>
 
+
+“How do yer see that?” asked Noah Claypole.
+
+“We have not so much [[Dust|dust]] as that in [[London]],” replied [[Fagin]], pointing
+from Noah’s shoes to those of his companion, and from them to the two
+bundles.
 
 “Yer a sharp feller,” said Noah. “Ha! ha! only hear that, Charlotte!”
 
@@ -153,14 +159,3 @@ dangerous, you know. That’s the sort of thing!”
 “I heard you talk of something in the spy way upon the others, my
 dear,” said [[Fagin]]. “My friend wants somebody who would do that [[Well|well]],
 very much.”
-
-“Why, I did mention that, and I shouldn’t mind turning my hand to it
-sometimes,” rejoined Mr. Claypole slowly; “but it wouldn’t pay by
-itself, you know.”
-
-“That’s true!” observed the Jew, ruminating or pretending to ruminate.
-“No, it might not.”
-
-“What do you think, then?” asked Noah, anxiously regarding him.
-“Something in the sneaking way, where it was pretty sure work, and not
-much more risk than being at [[Home|home]].”

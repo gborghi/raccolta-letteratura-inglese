@@ -1,5 +1,5 @@
 ---
-title: "As You Like It — Act I, Scene 2 — exchange ([[Rosalind|ROSALIND]]) [3]"
+title: "As You Like It — Act I, Scene 2 — exchange (ROSALIND) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/as-you-like-it-(shakespeare)"

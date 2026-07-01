@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 16: I AM A NEW BOY IN MORE SENSES THAN ONE (part 2)"
+title: "David Copperfield — Chapter 16: I AM A NEW BOY IN MORE SENSES THAN ONE (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,39 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_16_i_am_a_new_boy_in_more_senses/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_16_i_am_a_new_boy_in_more_senses/part_03">part 03 ›</a></div>
 </nav>
 
+
+It seemed to me so long, however, since I had been among such boys,
+or among any companions of my own age, except Mick Walker and Mealy
+Potatoes, that I felt as strange as ever I have done in my life. I was
+so conscious of having passed through scenes of which they could have
+no knowledge, and of having acquired experiences foreign to my age,
+appearance, and condition as one of them, that I half believed it was an
+imposture to come there as an ordinary little schoolboy. I had become,
+in the Murdstone and Grinby [[Time|time]], however short or long it may have
+been, so unused to the sports and games of boys, that I knew I was
+awkward and inexperienced in the commonest things belonging to them.
+Whatever I had learnt, had so slipped away from me in the sordid cares
+of my life from day to [[Night|night]], that now, when I was examined about what
+I knew, I knew nothing, and was put into the lowest form of the school.
+But, troubled as I was, by my want of boyish skill, and of book-learning
+too, I was made infinitely more uncomfortable by the consideration,
+that, in what I did know, I was much farther removed from my companions
+than in what I did not. My mind ran upon what they would think, if they
+knew of my familiar acquaintance with the [[King]]’s Bench [[Prison]]? Was there
+anything about me which would reveal my proceedings in connexion with
+the Micawber family--all those pawnings, and sellings, and suppers--in
+spite of myself? Suppose some of the boys had seen me coming through
+Canterbury, wayworn and ragged, and should find me out? What would they
+say, who made so light of money, if they could know how I had scraped my
+halfpence together, for the purchase of my daily saveloy and beer, or
+my slices of pudding? How would it affect them, who were so [[Innocent|innocent]] of
+[[London]] life, and [[London]] streets, to discover how knowing I was (and was
+ashamed to be) in some of the meanest phases of both? All this ran in
+my head so much, on that first day at Doctor Strong’s, that I felt
+distrustful of my slightest look and gesture; shrunk within myself
+whensoever I was approached by one of my new schoolfellows; and hurried
+off the minute school was over, afraid of committing myself in my
+response to any friendly notice or advance.
 
 But there was such an influence in Mr. Wickfield’s old [[house]], that when
 I knocked at it, with my new school-books under my arm, I began to feel
@@ -99,50 +132,3 @@ has changed his mind, why there’s no more to be said, except that the
 sooner I am off, the better. Therefore, I thought I’d come back and say,
 that the sooner I am off the better. When a plunge is to be made into
 the [[Water|water]], it’s of no use lingering on the bank.’
-
-‘There shall be as little lingering as possible, in your case, Mr.
-Maldon, you may depend upon it,’ said Mr. Wickfield.
-
-‘Thank’ee,’ said the other. ‘Much obliged. I don’t want to look a
-gift-[[Horse|horse]] in the mouth, which is not a gracious thing to do; otherwise,
-I dare say, my cousin Annie could easily arrange it in her own way. I
-suppose Annie would only have to say to the old Doctor--’
-
-‘Meaning that Mrs. Strong would only have to say to her husband--do I
-follow you?’ said Mr. Wickfield.
-
-‘Quite so,’ returned the other, ‘--would only have to say, that she
-wanted such and such a thing to be so and so; and it would be so and so,
-as a matter of course.’
-
-‘And why as a matter of course, Mr. Maldon?’ asked Mr. Wickfield,
-sedately eating his dinner.
-
-‘Why, because Annie’s a charming young girl, and the old Doctor--Doctor
-Strong, I mean--is not quite a charming young boy,’ said Mr. Jack
-Maldon, laughing. ‘No offence to anybody, Mr. Wickfield. I only mean
-that I suppose some compensation is fair and reasonable in that sort of
-[[Marriage|marriage]].’
-
-‘Compensation to the lady, sir?’ asked Mr. Wickfield gravely.
-
-‘To the lady, sir,’ Mr. Jack Maldon answered, laughing. But appearing
-to remark that Mr. Wickfield went on with his dinner in the same sedate,
-immovable manner, and that there was no [[Hope|hope]] of making him relax a
-muscle of his face, he added: ‘However, I have said what I came to say,
-and, with another apology for this intrusion, I may take myself off. Of
-course I shall observe your directions, in considering the matter as one
-to be arranged between you and me solely, and not to be referred to, up
-at the Doctor’s.’
-
-‘Have you dined?’ asked Mr. Wickfield, with a motion of his hand towards
-the table.
-
-‘Thank’ee. I am going to dine,’ said Mr. Maldon, ‘with my cousin Annie.
-Good-bye!’
-
-Mr. Wickfield, without rising, looked after him thoughtfully as he went
-out. He was rather a shallow sort of young gentleman, I thought, with
-a handsome face, a rapid utterance, and a confident, bold air. And this
-was the first I ever saw of Mr. Jack Maldon; whom I had not expected to
-see so soon, when I heard the Doctor speak of him that morning.

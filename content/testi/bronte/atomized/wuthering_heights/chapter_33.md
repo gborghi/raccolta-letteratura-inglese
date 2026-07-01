@@ -1,5 +1,5 @@
 ---
-title: "[[Wuthering Heights]] — Chapter 33"
+title: "Wuthering Heights — Chapter 33"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/wuthering-heights-(bronte)"
@@ -323,7 +323,7 @@ temperate mode of living, and unperilous occupations, I ought to, and
 probably _shall_, remain above ground till there is scarcely a black
 hair on my head. And yet I cannot continue in this condition! I have to
 remind myself to breathe—almost to remind my heart to beat! And it is
-like bending back a stiff [[spring]]: it is by compulsion that I do the
+like bending back a stiff [[Spring|spring]]: it is by compulsion that I do the
 slightest act not prompted by one thought; and by compulsion that I
 notice anything alive or dead, which is not associated with one
 universal idea. I have a single wish, and my whole being and faculties

@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 2 (part 5)"
+title: "Martin Chuzzlewit — Chapter 2 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_02/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_02/part_06">part 06 ›</a></div>
 </nav>
 
+
+‘Aye, aye,’ returned her father, raising his hand mildly: ‘it is
+very [[Well|well]] to say what can we expect from Mr Pinch, but Mr Pinch is
+a fellow-creature, my dear; Mr Pinch is an item in the vast total of
+humanity, my [[Love|love]]; and we have a right, it is our duty, to expect in
+Mr Pinch some development of those better qualities, the possession
+of which in our own persons inspires our humble [[Self|self]]-respect. No,’
+continued Mr Pecksniff. ‘No! Heaven forbid that I should say, nothing
+can be expected from Mr Pinch; or that I should say, nothing can be
+expected from any man alive (even the most degraded, which Mr Pinch is
+not, no, really); but Mr Pinch has disappointed me; he has hurt me;
+I think a little the worse of him on this account, but not if human
+[[Nature|nature]]. Oh, no, no!’
 
 ‘Hark!’ said Miss [[Charity]], holding up her finger, as a gentle rap was
 heard at the street door. ‘There is the creature! Now mark my words, he
@@ -128,17 +141,3 @@ move me to remember any wrong you have ever done me, John.’
 remember the five hundred pounds he had with me under false pretences;
 or the seventy pounds a year for board and lodging that would have been
 dear at seventeen! Here’s a martyr!’
-
-‘Money, John,’ said Mr Pecksniff, ‘is the root of all evil. I grieve
-to see that it is already bearing evil fruit in you. But I will not
-remember its existence. I will not even remember the conduct of that
-misguided person’--and here, although he spoke like one at peace with
-all the world, he used an emphasis that plainly said “I have my eye
-upon the rascal now”--‘that misguided person who has brought you here
-to-[[Night|night]], seeking to disturb (it is a happiness to say, in vain) the
-heart’s repose and peace of one who would have shed his dearest [[Blood|blood]] to
-serve him.’
-
-The voice of Mr Pecksniff trembled as he spoke, and sobs were heard from
-his daughters. Sounds floated on the air, moreover, as if two spirit
-voices had exclaimed: one, ‘Beast!’ the other, ‘Savage!’

@@ -1,5 +1,5 @@
 ---
-title: "The First Part of the Contention (2 [[Henry VI]]) — Act III, Scene 3"
+title: "The First Part of the Contention (2 Henry VI) — Act III, Scene 3"
 author: "Shakespeare"
 unitType: scene
 parentWork: "works/the-first-part-of-the-contention---(2-henry-vi)-(shakespeare)"

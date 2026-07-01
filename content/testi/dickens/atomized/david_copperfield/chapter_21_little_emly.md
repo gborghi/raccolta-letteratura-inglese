@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 21: LITTLE EM’LY"
+title: "David Copperfield — Chapter 21: LITTLE EM’LY"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/david-copperfield-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_20_steerforths_home">‹ Chapter 20 STEERFORTHS HOME</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_22_some_old_scenes_and_some_new_p">Chapter 22 SOME OLD SCENES AND SOME NEW P ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_20_steerforths_home_home">‹ Chapter 20 STEERFORTHS Home HOME</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_22_some_old_scenes_and_some_new_p">Chapter 22 SOME OLD SCENES AND SOME NEW P ›</a></div>
 </nav>
 
 
@@ -62,7 +62,7 @@ down like a baby.
 
 I gave him good morning, and asked him what o’[[Clock|clock]] it was. He took
 out of his pocket the most respectable hunting-watch I ever saw, and
-preventing the [[Spring|spring]] with his thumb from opening far, looked in at the
+preventing the [[spring]] with his thumb from opening far, looked in at the
 face as if he were consulting an oracular oyster, shut it up again, and
 said, if I pleased, it was half past eight.
 

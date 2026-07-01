@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 23 (part 3)"
+title: "Shirley — Chapter 23 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -12,6 +12,22 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_23/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_23/part_04">part 04 ›</a></div>
 </nav>
+
+
+that I shall have an object in view; but if you only went on and on,
+
+like some enchanted lady in a fairy tale, you might be happier than now.
+
+In a day's wandering you would pass many a [[Hill|hill]], wood, and watercourse,
+
+each perpetually altering in aspect as the sun shone out or was
+
+overcast; as the weather was wet or fair, dark or bright. Nothing
+
+changes in Briarfield rectory. The plaster of the parlour ceilings, the
+
+paper on the walls, the curtains, carpets, chairs, are still the same."
+
 
 
 "Is change necessary to happiness?"
@@ -267,23 +283,3 @@ impulse."
 
 
 "Of course I should often be influenced by my feelings. They were given
-
-me to that end. Whom my feelings teach me to [[Love|love]] I _must_ and _shall_
-
-[[Love|love]]; and I [[Hope|hope]], if ever I have a husband and children, my feelings
-
-will induce me to [[Love|love]] them. I [[Hope|hope]], in that case, all my impulses will
-
-be strong in compelling me to [[Love|love]]."
-
-
-
-Caroline had a pleasure in saying this with emphasis; she had a pleasure
-
-in daring to say it in Mrs. Yorke's presence. She did not care what
-
-unjust sarcasm might be hurled at her in reply. She flushed, not with
-
-anger but excitement, when the ungenial matron answered coolly, "Don't
-
-waste your dramatic effects. That was [[Well|well]] said--it was quite fine; but

@@ -1,5 +1,5 @@
 ---
-title: "[[manalive]] — Chapter 5 (part 4)"
+title: "manalive — Chapter 5 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/manalive-(chesterton)"
@@ -14,18 +14,22 @@ tags:
 </nav>
 
 
-"If you ask Auntie," said [[Diana]] quietly, "she'll only be for doing nothing
+"Mrs. Duke?" repeated Inglewood doubtfully.
+
+"Yes, Mrs. Duke," said Michael firmly, "commonly called the Iron Duke."
+
+"If you ask Auntie," said Diana quietly, "she'll only be for doing nothing
 at all.  Her only idea is to hush things up or to let things slide.
 That just suits her."
 
-"Yes," replied [[Michael]] [[Moon]]; "and, as it happens, it just suits
+"Yes," replied Michael Moon; "and, as it happens, it just suits
 all of us.  You are impatient with your elders, Miss Duke;
 but when you are as old yourself you will know what Napoleon knew--
 that half one's letters answer themselves if you can only refrain
 from the fleshly appetite of answering them."
 
 He was still lounging in the same absurd attitude, with his elbow
-on the grate, but his voice had altered abruptly for the third [[Time|time]];
+on the grate, but his voice had altered abruptly for the third time;
 just as it had changed from the mock heroic to the humanly indignant,
 it now changed to the airy incisiveness of a lawyer giving
 good legal advice.
@@ -34,20 +38,20 @@ good legal advice.
 she can," he said; "we all want to keep it quiet if we can.
 Look at the large facts--the big bones of the case.  I believe
 those scientific gentlemen have made a highly scientific mistake.
-I believe [[smith|Smith]] is as blameless as a buttercup.  I admit
+I believe Smith is as blameless as a buttercup.  I admit
 buttercups don't often let off loaded pistols in private houses;
 I admit there is something demanding explanation.
 But I am morally certain there's some blunder, or some joke,
-or some [[Allegory|allegory]], or some accident behind all this.
-[[Well]], suppose I'm wrong.  We've disarmed him; we're five men
-to hold him; he may as [[Well|well]] go to a lock-up later on as now.
+or some allegory, or some accident behind all this.
+Well, suppose I'm wrong.  We've disarmed him; we're five men
+to hold him; he may as well go to a lock-up later on as now.
 But suppose there's even a chance of my being right.
 Is it anybody's interest here to wash this linen in public?
 
-"Come, I'll take each of you in order.  Once take [[smith|Smith]] outside that gate,
+"Come, I'll take each of you in order.  Once take Smith outside that gate,
 and you take him into the front page of the evening papers.  I know;
 I've written the front page myself.  Miss Duke, do you or your aunt want
-a sort of notice stuck up over your boarding-[[house]]--`Doctors shot here.'?
+a sort of notice stuck up over your boarding-house--`Doctors shot here.'?
 No, no--doctors are rubbish, as I said; but you don't want the rubbish
 shot here.  [[arthur|Arthur]], suppose I am right, or suppose I am wrong.
 [[smith|Smith]] has appeared as an old schoolfellow of yours.  Mark my words,

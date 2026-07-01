@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 3"
+title: "Our Mutual Friend — Chapter 4"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,701 +14,534 @@ tags:
 </nav>
 
 
-Chapter 3
-
-ANOTHER MAN
-
-
-As the disappearing skirts of the ladies ascended the Veneering
-staircase, Mortimer, following them forth from the dining-room, turned
-into a library of bran-new books, in bran-new bindings liberally gilded,
-and requested to see the messenger who had brought the paper. He was a
-boy of about fifteen. Mortimer looked at the boy, and the boy looked
-at the bran-new pilgrims on the wall, going to Canterbury in more gold
-frame than procession, and more carving than country.
-
-‘Whose writing is this?’
-
-‘Mine, sir.’
-
-‘Who told you to write it?’
-
-‘My father, Jesse Hexam.’
-
-‘Is it he who found the [[Body|body]]?’
-
-‘Yes, sir.’
-
-‘What is your father?’
-
-The boy hesitated, looked reproachfully at the pilgrims as if they had
-involved him in a little difficulty, then said, folding a plait in the
-right leg of his trousers, ‘He gets his living along-shore.’
-
-‘Is it far?’
-
-‘Is which far?’ asked the boy, upon his guard, and again upon the [[Road|road]]
-to Canterbury.
-
-‘To your father’s?’
-
-‘It’s a goodish stretch, sir. I come up in a cab, and the cab’s waiting
-to be paid. We could go back in it before you paid it, if you liked.
-I went first to your office, according to the direction of the papers
-found in the pockets, and there I see nobody but a chap of about my age
-who sent me on here.’
-
-There was a curious mixture in the boy, of uncompleted savagery, and
-uncompleted civilization. His voice was hoarse and coarse, and his face
-was coarse, and his stunted figure was coarse; but he was cleaner than
-other boys of his type; and his writing, though large and round,
-was good; and he glanced at the backs of the books, with an awakened
-curiosity that went below the binding. No one who can read, ever looks
-at a book, even unopened on a shelf, like one who cannot.
-
-‘Were any means taken, do you know, boy, to ascertain if it was possible
-to restore life?’ Mortimer inquired, as he sought for his hat.
-
-‘You wouldn’t ask, sir, if you knew his state. Pharaoh’s multitude that
-were drowned in the Red Sea, ain’t more beyond restoring to life. If
-Lazarus was only half as far gone, that was the greatest of all the
-miracles.’
-
-‘Halloa!’ cried Mortimer, turning round with his hat upon his head, ‘you
-seem to be at [[Home|home]] in the Red Sea, my young friend?’
-
-‘Read of it with teacher at the school,’ said the boy.
-
-‘And Lazarus?’
-
-‘Yes, and him too. But don’t you tell my father! We should have no peace
-in our place, if that got touched upon. It’s my sister’s contriving.’
-
-‘You seem to have a good sister.’
-
-‘She ain’t half bad,’ said the boy; ‘but if she knows her letters it’s
-the most she does—and them I learned her.’
-
-The gloomy Eugene, with his hands in his pockets, had strolled in and
-assisted at the latter part of the dialogue; when the boy spoke these
-words slightingly of his sister, he took him roughly enough by the chin,
-and turned up his face to look at it.
-
-‘[[Well]], I’m sure, sir!’ said the boy, resisting; ‘I [[Hope|hope]] you’ll know me
-again.’
-
-Eugene vouchsafed no answer; but made the proposal to Mortimer, ‘I’ll
-go with you, if you like?’ So, they all three went away together in the
-vehicle that had brought the boy; the two friends (once boys together at
-a public school) inside, smoking cigars; the messenger on the box beside
-the driver.
-
-‘Let me see,’ said Mortimer, as they went along; ‘I have been, Eugene,
-upon the honourable roll of solicitors of the High [[Court]] of Chancery,
-and attorneys at Common Law, five years; and—except gratuitously taking
-instructions, on an average once a fortnight, for the will of Lady
-Tippins who has nothing to leave—I have had no scrap of business but
-this romantic business.’
-
-‘And I,’ said Eugene, ‘have been “called” seven years, and have had no
-business at all, and never shall have any. And if I had, I shouldn’t
-know how to do it.’
-
-‘I am far from being clear as to the last particular,’ returned
-Mortimer, with great composure, ‘that I have much advantage over you.’
-
-‘I hate,’ said Eugene, putting his legs up on the opposite seat, ‘I hate
-my profession.’
-
-‘Shall I incommode you, if I put mine up too?’ returned Mortimer. ‘Thank
-you. I hate mine.’
-
-‘It was forced upon me,’ said the gloomy Eugene, ‘because it was
-understood that we wanted a barrister in the family. We have got a
-precious one.’
-
-‘It was forced upon me,’ said Mortimer, ‘because it was understood that
-we wanted a solicitor in the family. And we have got a precious one.’
-
-‘There are four of us, with our names painted on a door-post in right of
-one black hole called a set of chambers,’ said Eugene; ‘and each of us
-has the fourth of a clerk—Cassim Baba, in the robber’s [[Cave|cave]]—and Cassim
-is the only respectable member of the party.’
-
-‘I am one by myself, one,’ said Mortimer, ‘high up an awful staircase
-commanding a burial-ground, and I have a whole clerk to myself, and he
-has nothing to do but look at the burial-ground, and what he will turn
-out when arrived at maturity, I cannot conceive. Whether, in that shabby
-rook’s nest, he is always plotting wisdom, or plotting murder; whether
-he will grow up, after so much solitary brooding, to enlighten his
-fellow-creatures, or to [[Poison|poison]] them; is the only speck of interest that
-presents itself to my professional view. Will you give me a light? Thank
-you.’
-
-‘Then idiots talk,’ said Eugene, leaning back, folding his arms, smoking
-with his eyes shut, and speaking slightly through his nose, ‘of Energy.
-If there is a word in the dictionary under any letter from A to Z that
-I abominate, it is energy. It is such a conventional superstition, such
-parrot gabble! What the deuce! Am I to rush out into the street, collar
-the first man of a wealthy appearance that I meet, shake him, and say,
-“Go to law upon the spot, you dog, and retain me, or I’ll be the [[Death|death]]
-of you”? Yet that would be energy.’
-
-‘Precisely my view of the case, Eugene. But show me a good opportunity,
-show me something really worth being energetic about, and I’ll show you
-energy.’
-
-‘And so will I,’ said Eugene.
-
-And it is likely enough that ten thousand other young men, within the
-limits of the [[London]] Post-office town delivery, made the same hopeful
-remark in the course of the same evening.
-
-The wheels rolled on, and rolled down by the Monument and by the Tower,
-and by the Docks; down by Ratcliffe, and by Rotherhithe; down by where
-accumulated scum of humanity seemed to be washed from higher grounds,
-like so much moral sewage, and to be pausing until its own weight forced
-it over the bank and sunk it in the [[River|river]]. In and out among vessels
-that seemed to have got ashore, and houses that seemed to have got
-afloat—among bowsprits staring into windows, and windows staring
-into ships—the wheels rolled on, until they stopped at a dark corner,
-[[River|river]]-washed and otherwise not washed at all, where the boy alighted and
-opened the door.
-
-‘You must walk the rest, sir; it’s not many yards.’ He spoke in the
-singular number, to the express exclusion of Eugene.
-
-‘This is a confoundedly out-of-the-way place,’ said Mortimer, slipping
-over the stones and refuse on the shore, as the boy turned the corner
-sharp.
-
-‘Here’s my father’s, sir; where the light is.’
-
-The low building had the look of having once been a mill. There was a
-rotten wart of wood upon its forehead that seemed to indicate where
-the sails had been, but the whole was very indistinctly seen in the
-obscurity of the [[Night|night]]. The boy lifted the latch of the door, and they
-passed at once into a low circular room, where a man stood before a red
-[[Fire|fire]], looking down into it, and a girl sat engaged in needlework. The
-[[Fire|fire]] was in a rusty brazier, not fitted to the hearth; and a common
-lamp, shaped like a hyacinth-root, smoked and flared in the neck of a
-stone bottle on the table. There was a wooden bunk or berth in a corner,
-and in another corner a wooden stair leading above—so clumsy and steep
-that it was little better than a ladder. Two or three old sculls and
-oars stood against the wall, and against another part of the wall was a
-small dresser, making a spare show of the commonest articles of crockery
-and cooking-vessels. The roof of the room was not plastered, but was
-formed of the flooring of the room above. This, being very old, knotted,
-seamed, and beamed, gave a lowering aspect to the chamber; and roof, and
-walls, and floor, alike abounding in old smears of flour, red-lead (or
-some such stain which it had probably acquired in warehousing), and
-damp, alike had a look of decomposition.
-
-‘The gentleman, father.’
-
-The figure at the red [[Fire|fire]] turned, raised its ruffled head, and looked
-like a bird of prey.
-
-‘You’re Mortimer Lightwood Esquire; are you, sir?’
-
-‘Mortimer Lightwood is my name. What you found,’ said Mortimer, glancing
-rather shrinkingly towards the bunk; ‘is it here?’
-
-‘’Tain’t not to say here, but it’s close by. I do everything reg’lar.
-I’ve giv’ notice of the circumstarnce to the police, and the police have
-took possession of it. No [[Time|time]] ain’t been lost, on any hand. The police
-have put into print already, and here’s what the print says of it.’
-
-Taking up the bottle with the lamp in it, he held it near a paper on
-the wall, with the police heading, [[Body|BODY]] FOUND. The two friends read the
-handbill as it stuck against the wall, and Gaffer read them as he held
-the light.
-
-‘Only papers on the unfortunate man, I see,’ said Lightwood, glancing
-from the description of what was found, to the finder.
-
-‘Only papers.’
-
-Here the girl arose with her work in her hand, and went out at the door.
-
-‘No money,’ pursued Mortimer; ‘but threepence in one of the
-skirt-pockets.’
-
-‘Three. Penny. Pieces,’ said Gaffer Hexam, in as many sentences.
-
-‘The trousers pockets empty, and turned inside out.’
-
-Gaffer Hexam nodded. ‘But that’s common. Whether it’s the wash of the
-tide or no, I can’t say. Now, here,’ moving the light to another similar
-placard, ‘HIS pockets was found empty, and turned inside out. And here,’
-moving the light to another, ‘HER pocket was found empty, and turned
-inside out. And so was this one’s. And so was that one’s. I can’t read,
-nor I don’t want to it, for I know ’em by their places on the wall. This
-one was a sailor, with two anchors and a [[Flag|flag]] and G. F. T. on his arm.
-Look and see if he warn’t.’
-
-‘Quite right.’
-
-‘This one was the young woman in grey boots, and her linen marked with a
-[[Cross|cross]]. Look and see if she warn’t.’
-
-‘Quite right.’
-
-‘This is him as had a nasty cut over the eye. This is them two young
-sisters what tied themselves together with a handkecher. This the
-drunken old chap, in a pair of list slippers and a nightcap, wot had
-offered—it afterwards come out—to make a hole in the [[Water|water]] for a
-quartern of rum stood aforehand, and kept to his word for the first and
-last [[Time|time]] in his life. They pretty [[Well|well]] papers the room, you see; but I
-know ’em all. I’m scholar enough!’
-
-He waved the light over the whole, as if to typify the light of his
-scholarly intelligence, and then put it down on the table and stood
-behind it looking intently at his visitors. He had the special
-peculiarity of some [[Birds|birds]] of prey, that when he knitted his brow, his
-ruffled crest stood highest.
-
-‘You did not find all these yourself; did you?’ asked Eugene.
-
-To which the bird of prey slowly rejoined, ‘And what might YOUR name be,
-now?’
-
-‘This is my friend,’ Mortimer Lightwood interposed; ‘Mr Eugene
-Wrayburn.’
-
-‘Mr [[Eugene Wrayburn]], is it? And what might Mr [[Eugene Wrayburn]] have asked
-of me?’
-
-‘I asked you, simply, if you found all these yourself?’
-
-‘I answer you, simply, most on ’em.’
-
-‘Do you suppose there has been much violence and robbery, beforehand,
-among these cases?’
-
-‘I don’t suppose at all about it,’ returned Gaffer. ‘I ain’t one of the
-supposing sort. If you’d got your living to haul out of the [[River|river]] every
-day of your life, you mightn’t be much given to supposing. Am I to show
-the way?’
-
-As he opened the door, in pursuance of a nod from Lightwood, an
-extremely pale and disturbed face appeared in the doorway—the face of a
-man much agitated.
-
-‘A [[Body|body]] missing?’ asked Gaffer Hexam, stopping short; ‘or a [[Body|body]] found?
-Which?’
-
-‘I am lost!’ replied the man, in a hurried and an eager manner.
-
-‘Lost?’
-
-‘I—I—am a stranger, and don’t know the way. I—I—want to find the
-place where I can see what is described here. It is possible I may know
-it.’ He was panting, and could hardly speak; but, he showed a copy of
-the newly-printed bill that was still wet upon the wall. Perhaps its
-newness, or perhaps the accuracy of his observation of its general look,
-guided Gaffer to a ready conclusion.
-
-‘This gentleman, Mr Lightwood, is on that business.’
-
-‘Mr Lightwood?’
-
-During a pause, Mortimer and the stranger confronted each other. Neither
-knew the other.
-
-‘I think, sir,’ said Mortimer, breaking the awkward [[Silence|silence]] with his
-airy [[Self|self]]-possession, ‘that you did me the [[Honour|honour]] to mention my name?’
-
-‘I repeated it, after this man.’
-
-‘You said you were a stranger in [[London]]?’
-
-‘An utter stranger.’
-
-‘Are you seeking a Mr Harmon?’
-
-‘No.’
-
-‘Then I believe I can assure you that you are on a fruitless errand, and
-will not find what you [[Fear|fear]] to find. Will you come with us?’
-
-A little winding through some muddy alleys that might have been
-deposited by the last ill-savoured tide, brought them to the
-wicket-gate and bright lamp of a Police Station; where they found the
-[[Night]]-Inspector, with a pen and ink, and ruler, posting up his books in
-a whitewashed office, as studiously as if he were in a monastery on
-top of a mountain, and no howling fury of a drunken woman were banging
-herself against a cell-door in the back-yard at his elbow. With the
-same air of a recluse much given to study, he desisted from his books to
-bestow a distrustful nod of recognition upon Gaffer, plainly importing,
-‘Ah! we know all about YOU, and you’ll overdo it some day;’ and to
-inform Mr Mortimer Lightwood and friends, that he would attend them
-immediately. Then, he finished ruling the work he had in hand (it might
-have been illuminating a missal, he was so calm), in a very neat and
-methodical manner, showing not the slightest consciousness of the woman
-who was banging herself with increased violence, and shrieking most
-terrifically for some other woman’s liver.
-
-‘A bull’s-eye,’ said the [[Night]]-Inspector, taking up his keys. Which a
-deferential satellite produced. ‘Now, gentlemen.’
-
-With one of his keys, he opened a cool grot at the end of the yard,
-and they all went in. They quickly came out again, no one speaking but
-Eugene: who remarked to Mortimer, in a whisper, ‘Not MUCH worse than
-Lady Tippins.’
-
-So, back to the whitewashed library of the monastery—with that liver
-still in shrieking requisition, as it had been loudly, while they looked
-at the silent sight they came to see—and there through the merits of
-the case as summed up by the Abbot. No clue to how [[Body|body]] came into [[River|river]].
-Very often was no clue. Too late to know for certain, whether injuries
-received before or after [[Death|death]]; one excellent surgical opinion said,
-before; other excellent surgical opinion said, after. Steward of [[Ship|ship]] in
-which gentleman came [[Home|home]] passenger, had been round to view, and could
-swear to [[Identity|identity]]. Likewise could swear to clothes. And then, you
-see, you had the papers, too. How was it he had totally disappeared on
-leaving [[Ship|ship]], till found in [[River|river]]? [[Well]]! Probably had been upon some
-little game. Probably thought it a harmless game, wasn’t up to things,
-and it turned out a fatal game. Inquest to-morrow, and no [[Doubt|doubt]] open
-verdict.
-
-‘It appears to have knocked your friend over—knocked him completely off
-his legs,’ Mr Inspector remarked, when he had finished his summing up.
-‘It has given him a bad turn to be sure!’ This was said in a very low
-voice, and with a searching look (not the first he had cast) at the
-stranger.
-
-Mr Lightwood explained that it was no friend of his.
-
-‘Indeed?’ said Mr Inspector, with an attentive ear; ‘where did you pick
-him up?’
-
-Mr Lightwood explained further.
-
-Mr Inspector had delivered his summing up, and had added these words,
-with his elbows leaning on his desk, and the fingers and thumb of his
-right hand, fitting themselves to the fingers and thumb of his left.
-Mr Inspector moved nothing but his eyes, as he now added, raising his
-voice:
-
-‘Turned you faint, sir! Seems you’re not accustomed to this kind of
-work?’
-
-The stranger, who was leaning against the chimneypiece with drooping
-head, looked round and answered, ‘No. It’s a horrible sight!’
-
-‘You expected to identify, I am told, sir?’
-
-‘Yes.’
-
-‘HAVE you identified?’
-
-‘No. It’s a horrible sight. O! a horrible, horrible sight!’
-
-‘Who did you think it might have been?’ asked Mr Inspector. ‘Give us a
-description, sir. Perhaps we can help you.’
-
-‘No, no,’ said the stranger; ‘it would be quite useless. Good-[[Night|night]].’
-
-Mr Inspector had not moved, and had given no order; but, the satellite
-slipped his back against the wicket, and laid his left arm along the top
-of it, and with his right hand turned the bull’s-eye he had taken from
-his chief—in quite a casual manner—towards the stranger.
-
-‘You missed a friend, you know; or you missed a foe, you know; or you
-wouldn’t have come here, you know. [[Well]], then; ain’t it reasonable to
-ask, who was it?’ Thus, Mr Inspector.
-
-‘You must excuse my telling you. No class of man can understand better
-than you, that families may not choose to publish their disagreements
-and misfortunes, except on the last necessity. I do not dispute that you
-discharge your duty in asking me the question; you will not dispute my
-right to withhold the answer. Good-[[Night|night]].’
-
-Again he turned towards the wicket, where the satellite, with his eye
-upon his chief, remained a dumb statue.
-
-‘At least,’ said Mr Inspector, ‘you will not object to leave me your
-card, sir?’
-
-‘I should not object, if I had one; but I have not.’ He reddened and was
-much confused as he gave the answer.
-
-‘At least,’ said Mr Inspector, with no change of voice or manner, ‘you
-will not object to write down your name and address?’
-
-‘Not at all.’
-
-Mr Inspector dipped a pen in his inkstand, and deftly laid it on a
-piece of paper close beside him; then resumed his former attitude.
-The stranger stepped up to the desk, and wrote in a rather tremulous
-hand—Mr Inspector taking sidelong note of every hair of his head when
-it was bent down for the purpose—‘Mr Julius Handford, Exchequer Coffee
-[[house|House]], Palace Yard, Westminster.’
-
-‘Staying there, I presume, sir?’
-
-‘Staying there.’
-
-‘Consequently, from the country?’
-
-‘Eh? Yes—from the country.’
-
-‘Good-[[Night|night]], sir.’
-
-The satellite removed his arm and opened the wicket, and Mr Julius
-Handford went out.
-
-‘Reserve!’ said Mr Inspector. ‘Take care of this piece of paper, keep
-him in view without giving offence, ascertain that he IS staying there,
-and find out anything you can about him.’
-
-The satellite was gone; and Mr Inspector, becoming once again the quiet
-Abbot of that Monastery, dipped his pen in his ink and resumed
-his books. The two friends who had watched him, more amused by the
-professional manner than suspicious of Mr Julius Handford, inquired
-before taking their departure too whether he believed there was anything
-that really looked bad here?
-
-The Abbot replied with reticence, couldn’t say. If a murder, anybody
-might have done it. Burglary or pocket-picking wanted ’prenticeship. Not
-so, murder. We were all of us up to that. Had seen scores of people come
-to identify, and never saw one person struck in that particular way.
-Might, however, have been Stomach and not Mind. If so, rum stomach.
-But to be sure there were rum everythings. Pity there was not a word
-of [[Truth|truth]] in that superstition about bodies bleeding when touched by the
-hand of the right person; you never got a sign out of bodies. You got
-row enough out of such as her—she was good for all [[Night|night]] now (referring
-here to the banging demands for the liver), ‘but you got nothing out of
-bodies if it was ever so.’
-
-There being nothing more to be done until the Inquest was held next day,
-the friends went away together, and Gaffer Hexam and his son went their
-separate way. But, arriving at the last corner, Gaffer bade his boy go
-[[Home|home]] while he turned into a red-curtained tavern, that stood dropsically
-bulging over the causeway, ‘for a half-a-pint.’
-
-The boy lifted the latch he had lifted before, and found his sister
-again seated before the [[Fire|fire]] at her work. Who raised her head upon his
-coming in and asking:
-
-‘Where did you go, Liz?’
-
-‘I went out in the dark.’
-
-‘There was no necessity for that. It was all right enough.’
-
-‘One of the gentlemen, the one who didn’t speak while I was there,
-looked hard at me. And I was afraid he might know what my face meant.
-But there! Don’t mind me, Charley! I was all in a tremble of another
-sort when you owned to father you could write a little.’
-
-‘Ah! But I made believe I wrote so badly, as that it was odds if any one
-could read it. And when I wrote slowest and smeared but with my finger
-most, father was best pleased, as he stood looking over me.’
-
-The girl put aside her work, and drawing her seat close to his seat by
-the [[Fire|fire]], laid her arm gently on his shoulder.
-
-‘You’ll make the most of your [[Time|time]], Charley; won’t you?’
-
-‘Won’t I? Come! I like that. Don’t I?’
-
-‘Yes, Charley, yes. You work hard at your learning, I know. And I work
-a little, Charley, and plan and contrive a little (wake out of my
-[[Sleep|sleep]] contriving sometimes), how to get together a shilling now, and a
-shilling then, that shall make father believe you are beginning to earn
-a stray living along shore.’
-
-‘You are father’s favourite, and can make him believe anything.’
-
-‘I wish I could, Charley! For if I could make him believe that learning
-was a good thing, and that we might lead better lives, I should be
-a’most content to die.’
-
-‘Don’t talk stuff about dying, Liz.’
-
-She placed her hands in one another on his shoulder, and laying her
-rich brown cheek against them as she looked down at the [[Fire|fire]], went on
-thoughtfully:
-
-‘Of an evening, Charley, when you are at the school, and father’s—’
-
-‘At the Six Jolly Fellowship Porters,’ the boy struck in, with a
-backward nod of his head towards the public-[[house]].
-
-‘Yes. Then as I sit a-looking at the [[Fire|fire]], I seem to see in the burning
-coal—like where that glow is now—’
-
-‘That’s gas, that is,’ said the boy, ‘coming out of a bit of a forest
-that’s been under the mud that was under the [[Water|water]] in the days of Noah’s
-Ark. Look here! When I take the poker—so—and give it a dig—’
-
-‘Don’t disturb it, Charley, or it’ll be all in a blaze. It’s that dull
-glow near it, coming and going, that I mean. When I look at it of an
-evening, it comes like pictures to me, Charley.’
-
-‘Show us a picture,’ said the boy. ‘Tell us where to look.’
-
-‘Ah! It wants my eyes, Charley.’
-
-‘Cut away then, and tell us what your eyes make of it.’
-
-‘Why, there are you and me, Charley, when you were quite a baby that
-never knew a mother—’
-
-‘Don’t go saying I never knew a mother,’ interposed the boy, ‘for I knew
-a little sister that was sister and mother both.’
-
-The girl laughed delightedly, and her eyes filled with pleasant [[Tears|tears]],
-as he put both his arms round her waist and so held her.
-
-‘There are you and me, Charley, when father was away at work and locked
-us out, for [[Fear|fear]] we should set ourselves afire or fall out of [[Window|window]],
-sitting on the door-sill, sitting on other door-steps, sitting on the
-bank of the [[River|river]], wandering about to get through the [[Time|time]]. You
-are rather heavy to carry, Charley, and I am often obliged to rest.
-Sometimes we are sleepy and fall asleep together in a corner, sometimes
-we are very hungry, sometimes we are a little frightened, but what is
-oftenest hard upon us is the cold. You remember, Charley?’
-
-‘I remember,’ said the boy, pressing her to him twice or thrice, ‘that I
-snuggled under a little shawl, and it was warm there.’
-
-‘Sometimes it rains, and we creep under a boat or the like of that:
-sometimes it’s dark, and we get among the gaslights, sitting watching
-the people as they go along the streets. At last, up comes father and
-takes us [[Home|home]]. And [[Home|home]] seems such a shelter after out of doors! And
-father pulls my shoes off, and dries my feet at the [[Fire|fire]], and has me
-to sit by him while he smokes his pipe long after you are abed, and
-I notice that father’s is a large hand but never a heavy one when it
-touches me, and that father’s is a rough voice but never an angry one
-when it speaks to me. So, I grow up, and little by little father trusts
-me, and makes me his companion, and, let him be put out as he may, never
-once strikes me.’
-
-The listening boy gave a grunt here, as much as to say ‘But he strikes
-ME though!’
-
-‘Those are some of the pictures of what is past, Charley.’
-
-‘Cut away again,’ said the boy, ‘and give us a fortune-telling one; a
-future one.’
-
-‘[[Well]]! There am I, continuing with father and holding to father, because
-father loves me and I [[Love|love]] father. I can’t so much as read a book,
-because, if I had learned, father would have thought I was deserting
-him, and I should have lost my influence. I have not the influence I
-want to have, I cannot stop some dreadful things I try to stop, but I
-go on in the [[Hope|hope]] and trust that the [[Time|time]] will come. In the meanwhile
-I know that I am in some things a stay to father, and that if I was
-not faithful to him he would—in [[Revenge|revenge]]-like, or in disappointment, or
-both—go wild and bad.’
-
-‘Give us a touch of the fortune-telling pictures about me.’
-
-‘I was passing on to them, Charley,’ said the girl, who had not changed
-her attitude since she began, and who now mournfully shook her head;
-‘the others were all leading up. There are you—’
-
-‘Where am I, Liz?’
-
-‘Still in the hollow down by the flare.’
-
-‘There seems to be the deuce-and-all in the hollow down by the flare,’
-said the boy, glancing from her eyes to the brazier, which had a grisly
-[[skeleton]] look on its long thin legs.
-
-‘There are you, Charley, working your way, in secret from father, at
-the school; and you get prizes; and you go on better and better; and you
-come to be a—what was it you called it when you told me about that?’
-
-‘Ha, ha! Fortune-telling not know the name!’ cried the boy, seeming to
-be rather relieved by this default on the part of the hollow down by the
-flare. ‘Pupil-teacher.’
-
-‘You come to be a pupil-teacher, and you still go on better and better,
-and you rise to be a master full of learning and respect. But the secret
-has come to father’s knowledge long before, and it has divided you from
-father, and from me.’
-
-‘No it hasn’t!’
-
-‘Yes it has, Charley. I see, as plain as plain can be, that your way is
-not ours, and that even if father could be got to forgive your taking
-it (which he never could be), that way of yours would be darkened by our
-way. But I see too, Charley—’
-
-‘Still as plain as plain can be, Liz?’ asked the boy playfully.
-
-‘Ah! Still. That it is a great work to have cut you away from father’s
-life, and to have made a new and good beginning. So there am I, Charley,
-left [[Alone|alone]] with father, keeping him as straight as I can, watching
-for more influence than I have, and hoping that through some fortunate
-chance, or when he is ill, or when—I don’t know what—I may turn him to
-wish to do better things.’
-
-‘You said you couldn’t read a book, Lizzie. Your library of books is the
-hollow down by the flare, I think.’
-
-‘I should be very glad to be able to read real books. I feel my want of
-learning very much, Charley. But I should feel it much more, if I didn’t
-know it to be a tie between me and father.—Hark! Father’s tread!’
-
-It being now past midnight, the bird of prey went straight to roost. At
-mid-day following he reappeared at the Six Jolly Fellowship Porters, in
-the character, not new to him, of a witness before a Coroner’s Jury.
-
-Mr Mortimer Lightwood, besides sustaining the character of one of the
-witnesses, doubled the part with that of the eminent solicitor who
-watched the proceedings on behalf of the representatives of the
-deceased, as was duly recorded in the newspapers. Mr Inspector watched
-the proceedings too, and kept his watching closely to himself. Mr Julius
-Handford having given his right address, and being reported in solvent
-circumstances as to his bill, though nothing more was known of him at
-his hotel except that his way of life was very retired, had no summons
-to appear, and was merely present in the shades of Mr Inspector’s mind.
-
-The case was made interesting to the public, by Mr Mortimer Lightwood’s
-evidence touching the circumstances under which the deceased, Mr John
-Harmon, had returned to England; exclusive private proprietorship in
-which circumstances was set up at dinner-tables for several days, by
-Veneering, Twemlow, Podsnap, and all the Buffers: who all related them
-irreconcilably with one another, and contradicted themselves. It was
-also made interesting by the testimony of Job Potterson, the [[Ship|ship]]’s
-steward, and one Mr Jacob Kibble, a fellow-passenger, that the deceased
-Mr [[John Harmon]] did bring over, in a hand-valise with which he did
-disembark, the sum realized by the forced sale of his little landed
-property, and that the sum exceeded, in ready money, seven hundred
-pounds. It was further made interesting, by the remarkable experiences
-of Jesse Hexam in having rescued from the Thames so many dead bodies,
-and for whose behoof a rapturous admirer subscribing himself ‘A friend
-to Burial’ (perhaps an undertaker), sent eighteen postage stamps, and
-five ‘Now Sir’s to the editor of the Times.
-
-Upon the evidence adduced before them, the Jury found, That the [[Body|body]]
-of Mr [[John Harmon]] had been discovered floating in the Thames, in an
-advanced state of [[Decay|decay]], and much injured; and that the said Mr John
-Harmon had come by his [[Death|death]] under highly suspicious circumstances,
-though by whose act or in what precise manner there was no evidence
-before this Jury to show. And they appended to their verdict, a
-recommendation to the [[Home]] Office (which Mr Inspector appeared to think
-highly sensible), to offer a reward for the solution of the mystery.
-Within eight-and-forty hours, a reward of One Hundred Pounds was
-proclaimed, together with a free pardon to any person or persons not the
-actual perpetrator or perpetrators, and so forth in due form.
-
-This Proclamation rendered Mr Inspector additionally studious, and
-caused him to stand meditating on [[River|river]]-stairs and causeways, and to go
-lurking about in boats, putting this and that together. But, according
-to the [[success]] with which you put this and that together, you get a
-woman and a fish apart, or a [[Mermaid]] in combination. And Mr Inspector
-could turn out nothing better than a [[Mermaid]], which no Judge and Jury
-would believe in.
-
-Thus, like the tides on which it had been borne to the knowledge of men,
-the Harmon Murder—as it came to be popularly called—went up and down,
-and ebbed and flowed, now in the town, now in the country, now among
-palaces, now among hovels, now among lords and ladies and gentlefolks,
-now among labourers and hammerers and ballast-heavers, until at last,
-after a long interval of slack [[Water|water]] it got out to sea and drifted away.
+Chapter 4
+
+THE R. WILFER FAMILY
+
+
+Reginald Wilfer is a name with rather a grand sound, suggesting on
+first acquaintance brasses in country churches, scrolls in stained-glass
+windows, and generally the De Wilfers who came over with the Conqueror.
+For, it is a remarkable fact in genealogy that no De Any ones ever came
+over with Anybody else.
+
+But, the Reginald Wilfer family were of such commonplace extraction and
+pursuits that their forefathers had for generations modestly subsisted
+on the Docks, the Excise Office, and the Custom [[house|House]], and the existing
+R. Wilfer was a poor clerk. So poor a clerk, through having a limited
+salary and an unlimited family, that he had never yet attained the
+modest object of his [[Ambition|ambition]]: which was, to wear a complete new suit
+of clothes, hat and boots included, at one [[Time|time]]. His black hat was brown
+before he could afford a coat, his pantaloons were white at the seams
+and knees before he could buy a pair of boots, his boots had worn out
+before he could treat himself to new pantaloons, and, by the [[Time|time]] he
+worked round to the hat again, that shining modern article roofed-in an
+ancient ruin of various periods.
+
+If the conventional Cherub could ever grow up and be clothed, he might
+be photographed as a portrait of Wilfer. His chubby, smooth, [[Innocent|innocent]]
+appearance was a reason for his being always treated with condescension
+when he was not put down. A stranger entering his own poor [[house]] at
+about ten o’[[Clock|clock]] P.M. might have been surprised to find him sitting up
+to supper. So boyish was he in his curves and proportions, that his
+old schoolmaster meeting him in Cheapside, might have been unable to
+withstand the [[Temptation|temptation]] of caning him on the spot. In short, he was
+the conventional cherub, after the supposititious shoot just mentioned,
+rather grey, with signs of care on his expression, and in decidedly
+insolvent circumstances.
+
+He was shy, and unwilling to own to the name of Reginald, as being too
+aspiring and [[Self|self]]-assertive a name. In his signature he used only the
+initial R., and imparted what it really stood for, to none but chosen
+friends, under the seal of confidence. Out of this, the facetious habit
+had arisen in the neighbourhood surrounding Mincing Lane of making
+christian names for him of adjectives and participles beginning with R.
+Some of these were more or less appropriate: as Rusty, Retiring, Ruddy,
+Round, Ripe, Ridiculous, Ruminative; others, derived their point from
+their want of application: as Raging, Rattling, Roaring, Raffish. But,
+his popular name was Rumty, which in a moment of inspiration had been
+bestowed upon him by a gentleman of convivial habits connected with the
+drug-markets, as the beginning of a social [[Chorus|chorus]], his leading part in
+the execution of which had led this gentleman to the Temple of Fame, and
+of which the whole expressive burden ran:
+
+     ‘Rumty iddity, row dow dow,
+     Sing toodlely, teedlely, bow wow wow.’
+
+Thus he was constantly addressed, even in minor notes on business, as
+‘Dear Rumty’; in answer to which, he sedately signed himself, ‘Yours
+truly, R. Wilfer.’
+
+He was clerk in the drug-[[house]] of Chicksey, Veneering, and Stobbles.
+Chicksey and Stobbles, his former masters, had both become absorbed in
+Veneering, once their traveller or commission agent: who had signalized
+his accession to supreme power by bringing into the business a quantity
+of plate-glass [[Window|window]] and French-polished mahogany partition, and a
+gleaming and enormous doorplate.
+
+R. Wilfer locked up his desk one evening, and, putting his bunch of keys
+in his pocket much as if it were his peg-top, made for [[Home|home]]. His [[Home|home]]
+was in the Holloway region north of [[London]], and then divided from it by
+fields and trees. Between Battle Bridge and that part of the Holloway
+district in which he dwelt, was a tract of suburban Sahara, where tiles
+and bricks were burnt, bones were boiled, carpets were beat, rubbish was
+shot, [[dogs]] were fought, and [[Dust|dust]] was heaped by contractors. Skirting
+the border of this [[Desert|desert]], by the way he took, when the light of its
+kiln-fires made lurid smears on the fog, R. Wilfer sighed and shook his
+head.
+
+‘Ah me!’ said he, ‘what might have been is not what is!’
+
+With which commentary on human life, indicating an experience of it
+not exclusively his own, he made the best of his way to the end of his
+[[Journey|journey]].
+
+Mrs Wilfer was, of course, a tall woman and an angular. Her lord being
+cherubic, she was necessarily majestic, according to the principle which
+matrimonially unites contrasts. She was much given to tying up her head
+in a pocket-handkerchief, knotted under the chin. This head-gear, in
+conjunction with a pair of gloves worn within doors, she seemed to
+consider as at once a kind of armour against misfortune (invariably
+assuming it when in low spirits or difficulties), and as a species of
+full dress. It was therefore with some sinking of the spirit that her
+husband beheld her thus heroically attired, putting down her candle in
+the little hall, and coming down the doorsteps through the little front
+[[Court|court]] to open the gate for him.
+
+Something had gone wrong with the [[house]]-door, for R. Wilfer stopped on
+the steps, staring at it, and cried:
+
+‘Hal-loa?’
+
+‘Yes,’ said Mrs Wilfer, ‘the man came himself with a pair of pincers,
+and took it off, and took it away. He said that as he had no expectation
+of ever being paid for it, and as he had an order for another LADIES’
+SCHOOL door-plate, it was better (burnished up) for the interests of all
+parties.’
+
+‘Perhaps it was, my dear; what do you think?’
+
+‘You are master here, R. W.,’ returned his wife. ‘It is as you think;
+not as I do. Perhaps it might have been better if the man had taken the
+door too?’
+
+‘My dear, we couldn’t have done without the door.’
+
+‘Couldn’t we?’
+
+‘Why, my dear! Could we?’
+
+‘It is as you think, R. W.; not as I do.’ With those submissive words,
+the dutiful wife preceded him down a few stairs to a little basement
+front room, half kitchen, half parlour, where a girl of about nineteen,
+with an exceedingly pretty figure and face, but with an impatient and
+petulant expression both in her face and in her shoulders (which in
+her sex and at her age are very expressive of discontent), sat playing
+draughts with a younger girl, who was the youngest of the [[house|House]] of
+Wilfer. Not to encumber this page by telling off the Wilfers in detail
+and casting them up in the gross, it is enough for the present that the
+rest were what is called ‘out in the world,’ in various ways, and that
+they were Many. So many, that when one of his dutiful children called in
+to see him, R. Wilfer generally seemed to say to himself, after a little
+mental arithmetic, ‘Oh! here’s another of ’em!’ before adding aloud,
+‘How de do, John,’ or Susan, as the case might be.
+
+‘[[Well]] Piggywiggies,’ said R. W., ‘how de do to-[[Night|night]]? What I was
+thinking of, my dear,’ to Mrs Wilfer already seated in a corner with
+folded gloves, ‘was, that as we have let our first floor so [[Well|well]], and as
+we have now no place in which you could teach pupils even if pupils—’
+
+‘The milkman said he knew of two young ladies of the highest
+respectability who were in search of a suitable establishment, and he
+took a card,’ interposed Mrs Wilfer, with severe monotony, as if she
+were reading an Act of Parliament aloud. ‘Tell your father whether it
+was last Monday, Bella.’
+
+‘But we never heard any more of it, ma,’ said Bella, the elder girl.
+
+‘In addition to which, my dear,’ her husband urged, ‘if you have no
+place to put two young persons into—’
+
+‘Pardon me,’ Mrs Wilfer again interposed; ‘they were not young persons.
+Two young ladies of the highest respectability. Tell your father, Bella,
+whether the milkman said so.’
+
+‘My dear, it is the same thing.’
+
+‘No it is not,’ said Mrs Wilfer, with the same impressive monotony.
+‘Pardon me!’
+
+‘I mean, my dear, it is the same thing as to space. As to space. If you
+have no space in which to put two youthful fellow-creatures, however
+eminently respectable, which I do not [[Doubt|doubt]], where are those youthful
+fellow-creatures to be accommodated? I carry it no further than that.
+And solely looking at it,’ said her husband, making the stipulation at
+once in a conciliatory, complimentary, and argumentative tone—‘as I am
+sure you will agree, my [[Love|love]]—from a fellow-creature point of view, my
+dear.’
+
+‘I have nothing more to say,’ returned Mrs Wilfer, with a meek
+renunciatory action of her gloves. ‘It is as you think, R. W.; not as I
+do.’
+
+Here, the huffing of Miss Bella and the loss of three of her men at a
+swoop, aggravated by the coronation of an opponent, led to that young
+lady’s jerking the draught-board and pieces off the table: which her
+sister went down on her knees to pick up.
+
+‘Poor Bella!’ said Mrs Wilfer.
+
+‘And poor [[Lavinia]], perhaps, my dear?’ suggested R. W.
+
+‘Pardon me,’ said Mrs Wilfer, ‘no!’
+
+It was one of the worthy woman’s specialities that she had an amazing
+power of gratifying her splenetic or worldly-minded humours by extolling
+her own family: which she thus proceeded, in the present case, to do.
+
+‘No, R. W. [[Lavinia]] has not known the trial that Bella has known. The
+trial that your daughter Bella has undergone, is, perhaps, without
+a parallel, and has been borne, I will say, Nobly. When you see your
+daughter Bella in her black dress, which she [[Alone|alone]] of all the family
+wears, and when you remember the circumstances which have led to
+her wearing it, and when you know how those circumstances have been
+sustained, then, R. W., lay your head upon your pillow and say, “Poor
+[[Lavinia]]!”’
+
+Here, Miss [[Lavinia]], from her kneeling situation under the table, put in
+that she didn’t want to be ‘poored by pa’, or anybody else.
+
+‘I am sure you do not, my dear,’ returned her mother, ‘for you have a
+fine brave spirit. And your sister Cecilia has a fine brave spirit
+of another kind, a spirit of pure devotion, a beau-ti-ful spirit! The
+[[Self-Sacrifice|self-sacrifice]] of Cecilia reveals a pure and womanly character, very
+seldom equalled, never surpassed. I have now in my pocket a letter from
+your sister Cecilia, received this morning—received three months after
+her [[Marriage|marriage]], poor [[Child|child]]!—in which she tells me that her husband must
+unexpectedly shelter under their roof his reduced aunt. “But I will be
+true to him, mamma,” she touchingly writes, “I will not leave him, I
+must not forget that he is my husband. Let his aunt come!” If this is
+not pathetic, if this is not woman’s devotion—!’ The good lady waved
+her gloves in a sense of the impossibility of saying more, and tied the
+pocket-handkerchief over her head in a tighter knot under her chin.
+
+Bella, who was now seated on the rug to warm herself, with her brown
+eyes on the [[Fire|fire]] and a handful of her brown curls in her mouth, laughed
+at this, and then pouted and half cried.
+
+‘I am sure,’ said she, ‘though you have no feeling for me, pa, I am one
+of the most unfortunate girls that ever lived. You know how poor we are’
+(it is probable he did, having some reason to know it!), ‘and what a
+glimpse of wealth I had, and how it melted away, and how I am here in
+this ridiculous mourning—which I hate!—a kind of a widow who never was
+married. And yet you don’t feel for me.—Yes you do, yes you do.’
+
+This abrupt change was occasioned by her father’s face. She stopped
+to pull him down from his chair in an attitude highly favourable to
+strangulation, and to give him a kiss and a pat or two on the cheek.
+
+‘But you ought to feel for me, you know, pa.’
+
+‘My dear, I do.’
+
+‘Yes, and I say you ought to. If they had only left me [[Alone|alone]] and told
+me nothing about it, it would have mattered much less. But that nasty Mr
+Lightwood feels it his duty, as he says, to write and tell me what is in
+reserve for me, and then I am obliged to get rid of George Sampson.’
+
+Here, [[Lavinia]], rising to the surface with the last draughtman rescued,
+interposed, ‘You never cared for George Sampson, Bella.’
+
+‘And did I say I did, miss?’ Then, pouting again, with the curls in her
+mouth; ‘George Sampson was very fond of me, and admired me very much,
+and put up with everything I did to him.’
+
+‘You were rude enough to him,’ [[Lavinia]] again interposed.
+
+‘And did I say I wasn’t, miss? I am not setting up to be sentimental
+about George Sampson. I only say George Sampson was better than
+nothing.’
+
+‘You didn’t show him that you thought even that,’ [[Lavinia]] again
+interposed.
+
+‘You are a chit and a little idiot,’ returned Bella, ‘or you wouldn’t
+make such a dolly speech. What did you expect me to do? Wait till you
+are a woman, and don’t talk about what you don’t understand. You only
+show your ignorance!’ Then, whimpering again, and at intervals biting
+the curls, and stopping to look how much was bitten off, ‘It’s a shame!
+There never was such a hard case! I shouldn’t care so much if it wasn’t
+so ridiculous. It was ridiculous enough to have a stranger coming over
+to marry me, whether he liked it or not. It was ridiculous enough to
+know what an embarrassing meeting it would be, and how we never
+could pretend to have an inclination of our own, either of us. It was
+ridiculous enough to know I shouldn’t like him—how COULD I like him,
+left to him in a will, like a dozen of spoons, with everything cut and
+dried beforehand, like orange chips. Talk of orange [[Flowers|flowers]] indeed!
+I declare again it’s a shame! Those ridiculous points would have been
+smoothed away by the money, for I [[Love|love]] money, and want money—want it
+dreadfully. I hate to be poor, and we are degradingly poor, offensively
+poor, miserably poor, beastly poor. But here I am, left with all the
+ridiculous parts of the situation remaining, and, added to them all,
+this ridiculous dress! And if the [[Truth|truth]] was known, when the Harmon
+murder was all over the town, and people were speculating on its being
+[[suicide]], I dare say those impudent wretches at the clubs and places made
+jokes about the miserable creature’s having preferred a watery [[Grave|grave]] to
+me. It’s likely enough they took such liberties; I shouldn’t [[Wonder|wonder]]! I
+declare it’s a very hard case indeed, and I am a most unfortunate girl.
+The idea of being a kind of a widow, and never having been married!
+And the idea of being as poor as ever after all, and going into black,
+besides, for a man I never saw, and should have hated—as far as HE was
+concerned—if I had seen!’
+
+The young lady’s lamentations were checked at this point by a knuckle,
+knocking at the half-open door of the room. The knuckle had knocked two
+or three times already, but had not been heard.
+
+‘Who is it?’ said Mrs Wilfer, in her Act-of-Parliament manner. ‘Enter!’
+
+A gentleman coming in, Miss Bella, with a short and sharp exclamation,
+scrambled off the hearth-rug and massed the bitten curls together in
+their right place on her neck.
+
+‘The servant girl had her key in the door as I came up, and directed me
+to this room, telling me I was expected. I am afraid I should have asked
+her to announce me.’
+
+‘Pardon me,’ returned Mrs Wilfer. ‘Not at all. Two of my daughters. R.
+W., this is the gentleman who has taken your first-floor. He was so good
+as to make an appointment for to-[[Night|night]], when you would be at [[Home|home]].’
+
+A dark gentleman. Thirty at the utmost. An expressive, one might say
+handsome, face. A very bad manner. In the last degree constrained,
+reserved, diffident, troubled. His eyes were on Miss Bella for an
+instant, and then looked at the ground as he addressed the master of the
+[[house]].
+
+‘Seeing that I am quite satisfied, Mr Wilfer, with the rooms, and with
+their situation, and with their price, I suppose a memorandum between us
+of two or three lines, and a payment down, will bind the bargain? I wish
+to send in furniture without delay.’
+
+Two or three times during this short address, the cherub addressed had
+made chubby motions towards a chair. The gentleman now took it, laying
+a hesitating hand on a corner of the table, and with another hesitating
+hand lifting the [[Crown|crown]] of his hat to his lips, and drawing it before his
+mouth.
+
+‘The gentleman, R. W.,’ said Mrs Wilfer, ‘proposes to take your
+apartments by the quarter. A quarter’s notice on either side.’
+
+‘Shall I mention, sir,’ insinuated the landlord, expecting it to be
+received as a matter of course, ‘the form of a reference?’
+
+‘I think,’ returned the gentleman, after a pause, ‘that a reference is
+not necessary; neither, to say the [[Truth|truth]], is it convenient, for I am
+a stranger in [[London]]. I require no reference from you, and perhaps,
+therefore, you will require none from me. That will be fair on both
+sides. Indeed, I show the greater confidence of the two, for I will pay
+in advance whatever you please, and I am going to trust my furniture
+here. Whereas, if you were in embarrassed circumstances—this is merely
+supposititious—’
+
+[[Conscience]] causing R. Wilfer to colour, Mrs Wilfer, from a corner (she
+always got into stately corners) came to the rescue with a deep-toned
+‘Per-fectly.’
+
+‘—Why then I—might lose it.’
+
+‘[[Well]]!’ observed R. Wilfer, cheerfully, ‘money and goods are certainly
+the best of references.’
+
+‘Do you think they ARE the best, pa?’ asked Miss Bella, in a low voice,
+and without looking over her shoulder as she warmed her foot on the
+fender.
+
+‘Among the best, my dear.’
+
+‘I should have thought, myself, it was so easy to add the usual kind of
+one,’ said Bella, with a toss of her curls.
+
+The gentleman listened to her, with a face of marked attention, though
+he neither looked up nor changed his attitude. He sat, still and silent,
+until his future landlord accepted his proposals, and brought writing
+materials to complete the business. He sat, still and silent, while the
+landlord wrote.
+
+When the agreement was ready in duplicate (the landlord having worked
+at it like some cherubic scribe, in what is conventionally called a
+doubtful, which means a not at all doubtful, Old Master), it was signed
+by the contracting parties, Bella looking on as scornful witness. The
+contracting parties were R. Wilfer, and John Rokesmith Esquire.
+
+When it came to Bella’s turn to sign her name, Mr Rokesmith, who was
+standing, as he had sat, with a hesitating hand upon the table, looked
+at her stealthily, but narrowly. He looked at the pretty figure bending
+down over the paper and saying, ‘Where am I to go, pa? Here, in this
+corner?’ He looked at the beautiful brown hair, shading the coquettish
+face; he looked at the free dash of the signature, which was a bold one
+for a woman’s; and then they looked at one another.
+
+‘Much obliged to you, Miss Wilfer.’
+
+‘Obliged?’
+
+‘I have given you so much trouble.’
+
+‘Signing my name? Yes, certainly. But I am your landlord’s daughter,
+sir.’
+
+As there was nothing more to do but pay eight sovereigns in earnest of
+the bargain, pocket the agreement, appoint a [[Time|time]] for the arrival of his
+furniture and himself, and go, Mr Rokesmith did that as awkwardly as it
+might be done, and was escorted by his landlord to the outer air. When
+R. Wilfer returned, candlestick in hand, to the bosom of his family, he
+found the bosom agitated.
+
+‘Pa,’ said Bella, ‘we have got a Murderer for a tenant.’
+
+‘Pa,’ said [[Lavinia]], ‘we have got a Robber.’
+
+‘To see him unable for his life to look anybody in the face!’ said
+Bella. ‘There never was such an exhibition.’
+
+‘My dears,’ said their father, ‘he is a diffident gentleman, and I
+should say particularly so in the society of girls of your age.’
+
+‘Nonsense, our age!’ cried Bella, impatiently. ‘What’s that got to do
+with him?’
+
+‘Besides, we are not of the same age:—which age?’ demanded [[Lavinia]].
+
+‘Never YOU mind, Lavvy,’ retorted Bella; ‘you wait till you are of an
+age to ask such questions. Pa, mark my words! Between Mr Rokesmith and
+me, there is a natural antipathy and a deep distrust; and something will
+come of it!’
+
+‘My dear, and girls,’ said the cherub-patriarch, ‘between Mr Rokesmith
+and me, there is a matter of eight sovereigns, and something for supper
+shall come of it, if you’ll agree upon the article.’
+
+This was a neat and happy turn to give the subject, treats being rare in
+the Wilfer household, where a monotonous appearance of Dutch-[[cheese]] at
+ten o’[[Clock|clock]] in the evening had been rather frequently commented on by
+the dimpled shoulders of Miss Bella. Indeed, the modest Dutchman himself
+seemed conscious of his want of variety, and generally came before the
+family in a state of apologetic perspiration. After some discussion on
+the relative merits of veal-cutlet, sweetbread, and lobster, a decision
+was pronounced in favour of veal-cutlet. Mrs Wilfer then solemnly
+divested herself of her handkerchief and gloves, as a preliminary
+sacrifice to preparing the frying-pan, and R. W. himself went out
+to purchase the viand. He soon returned, bearing the same in a fresh
+cabbage-leaf, where it coyly embraced a rasher of ham. Melodious sounds
+were not long in rising from the frying-pan on the [[Fire|fire]], or in seeming,
+as the firelight danced in the mellow halls of a couple of full bottles
+on the table, to play appropriate [[Dance|dance]]-music.
+
+The cloth was laid by Lavvy. Bella, as the acknowledged ornament of the
+family, employed both her hands in giving her hair an additional
+wave while sitting in the easiest chair, and occasionally threw in a
+direction touching the supper: as, ‘Very brown, ma;’ or, to her sister,
+‘Put the saltcellar straight, miss, and don’t be a dowdy little puss.’
+
+Meantime her father, chinking Mr Rokesmith’s gold as he sat expectant
+between his knife and fork, remarked that six of those sovereigns came
+just in [[Time|time]] for their landlord, and stood them in a little pile on the
+white tablecloth to look at.
+
+‘I hate our landlord!’ said Bella.
+
+But, observing a fall in her father’s face, she went and sat down by him
+at the table, and began touching up his hair with the handle of a fork.
+It was one of the girl’s spoilt ways to be always arranging the family’s
+hair—perhaps because her own was so pretty, and occupied so much of her
+attention.
+
+‘You deserve to have a [[house]] of your own; don’t you, poor pa?’
+
+‘I don’t deserve it better than another, my dear.’
+
+‘At any rate I, for one, want it more than another,’ said Bella, holding
+him by the chin, as she stuck his flaxen hair on end, ‘and I grudge
+this money going to the [[Monster]] that swallows up so much, when we all
+want—Everything. And if you say (as you want to say; I know you want
+to say so, pa) “that’s neither reasonable nor honest, Bella,” then I
+answer, “Maybe not, pa—very likely—but it’s one of the consequences
+of being poor, and of thoroughly hating and detesting to be poor, and
+that’s my case.” Now, you look lovely, pa; why don’t you always wear
+your hair like that? And here’s the cutlet! If it isn’t very brown, ma,
+I can’t eat it, and must have a bit put back to be done expressly.’
+
+However, as it was brown, even to Bella’s taste, the young lady
+graciously partook of it without reconsignment to the frying-pan, and
+also, in due course, of the contents of the two bottles: whereof
+one held Scotch ale and the other rum. The latter perfume, with
+the fostering aid of boiling [[Water|water]] and lemon-peel, diffused itself
+throughout the room, and became so highly concentrated around the warm
+fireside, that the [[Wind|wind]] passing over the [[house]] roof must have rushed off
+charged with a delicious whiff of it, after buzzing like a great bee at
+that particular chimneypot.
+
+‘Pa,’ said Bella, sipping the fragrant mixture and warming her favourite
+ankle; ‘when old Mr Harmon made such a [[Fool|fool]] of me (not to mention
+himself, as he is dead), what do you suppose he did it for?’
+
+‘Impossible to say, my dear. As I have told you [[Time|time]] out of number since
+his will was brought to light, I [[Doubt|doubt]] if I ever exchanged a hundred
+words with the old gentleman. If it was his whim to surprise us, his
+whim succeeded. For he certainly did it.’
+
+‘And I was stamping my foot and screaming, when he first took notice of
+me; was I?’ said Bella, contemplating the ankle before mentioned.
+
+‘You were stamping your little foot, my dear, and screaming with your
+little voice, and laying into me with your little bonnet, which you
+had snatched off for the purpose,’ returned her father, as if the
+remembrance gave a relish to the rum; ‘you were doing this one [[Sunday]]
+morning when I took you out, because I didn’t go the exact way you
+wanted, when the old gentleman, sitting on a seat near, said, “That’s a
+nice girl; that’s a VERY nice girl; a promising girl!” And so you were,
+my dear.’
+
+‘And then he asked my name, did he, pa?’
+
+‘Then he asked your name, my dear, and mine; and on other [[Sunday]]
+mornings, when we walked his way, we saw him again, and—and really
+that’s all.’
+
+As that was all the rum and [[Water|water]] too, or, in other words, as R. W.
+delicately signified that his glass was empty, by throwing back his head
+and standing the glass upside down on his nose and upper lip, it might
+have been charitable in Mrs Wilfer to suggest replenishment. But that
+heroine briefly suggesting ‘Bedtime’ instead, the bottles were put away,
+and the family retired; she cherubically escorted, like some severe
+saint in a painting, or merely human matron allegorically treated.
+
+‘And by this [[Time|time]] to-morrow,’ said [[Lavinia]] when the two girls were [[Alone|alone]]
+in their room, ‘we shall have Mr Rokesmith here, and shall be expecting
+to have our throats cut.’
+
+‘You needn’t stand between me and the candle for all that,’ retorted
+Bella. ‘This is another of the consequences of being poor! The idea of a
+girl with a really fine head of hair, having to do it by one flat candle
+and a few inches of looking-glass!’
+
+‘You caught George Sampson with it, Bella, bad as your means of dressing
+it are.’
+
+‘You low little thing. Caught George Sampson with it! Don’t talk about
+catching people, miss, till your own [[Time|time]] for catching—as you call
+it—comes.’
+
+‘Perhaps it has come,’ muttered Lavvy, with a toss of her head.
+
+‘What did you say?’ asked Bella, very sharply. ‘What did you say, miss?’
+
+Lavvy declining equally to repeat or to explain, Bella gradually lapsed
+over her hair-dressing into a soliloquy on the miseries of being poor,
+as exemplified in having nothing to put on, nothing to go out in,
+nothing to dress by, only a nasty box to dress at instead of a
+commodious dressing-table, and being obliged to take in suspicious
+lodgers. On the last grievance as her climax, she laid great stress—and
+might have laid greater, had she known that if Mr Julius Handford had a
+twin brother upon earth, Mr John Rokesmith was the man.

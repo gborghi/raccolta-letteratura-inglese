@@ -1,5 +1,5 @@
 ---
-title: "Much Ado About Nothing — Act V, Scene 1 — exchange ([[Antonio|ANTONIO]]) [3]"
+title: "Much Ado About Nothing — Act V, Scene 1 — exchange (ANTONIO) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/much-ado-about-nothing-(shakespeare)"

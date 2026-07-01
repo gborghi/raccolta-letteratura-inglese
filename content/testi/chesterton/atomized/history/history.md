@@ -1,5 +1,5 @@
 ---
-title: "[[history]]"
+title: "history"
 author: "Chesterton"
 unitType: work
 parentWork: "works/history-(chesterton)"
@@ -495,7 +495,7 @@ against men as tall as trees or as short as toadstools.  The soldier
 of civilization is no longer fighting with Goths but with goblins;
 the land becomes a labyrinth of faërie towns unknown to [[history]];
 and scholars can suggest but cannot explain how a Roman ruler or a Welsh
-chieftain towers up in the twilight as the awful and unbegotten [[Arthur]].
+chieftain towers up in the twilight as the awful and unbegotten [[arthur|Arthur]].
 The scientific age comes first and the mythological age after it.
 One working example, the echoes of which lingered till very late
 in English literature, may serve to sum up the contrast.  The British
@@ -588,7 +588,7 @@ And though Alfred the Great seems to have deserved his title
 even as a personality, he was not so great as the work
 he had to do.
 
-But the [[Paradox|paradox]] remains that [[Arthur]] is more real than Alfred.
+But the [[Paradox|paradox]] remains that [[arthur|Arthur]] is more real than Alfred.
 For the age is the age of legends.  Towards these legends
 most men adopt by instinct a sane attitude; and, of the two,
 credulity is certainly much more sane than [[Incredulity|incredulity]].
@@ -602,7 +602,7 @@ both of them tending to correct the crude and very thoughtless
 scepticism which has made this part of the story so sterile.
 The nineteenth-century historians went on the curious principle
 of dismissing all people of whom tales are told, and concentrating
-upon people of whom nothing is told.  Thus, [[Arthur]] is made
+upon people of whom nothing is told.  Thus, [[arthur|Arthur]] is made
 utterly impersonal because all legends are lies, but somebody
 of the type of Hengist is made quite an important personality,
 merely because nobody thought him important enough to lie about.
@@ -614,7 +614,7 @@ That fictitious stories are told about a person is, nine times
 out of ten, extremely good evidence that there was somebody
 to tell them about.  Indeed some allow that marvellous
 things were done, and that there may have been a man named
-[[Arthur]] at the [[Time|time]] in which they were done; but here,
+[[arthur|Arthur]] at the [[Time|time]] in which they were done; but here,
 so far as I am concerned, the distinction becomes rather dim.
 I do not understand the attitude which holds that there was
 an Ark and a man named Noah, but cannot believe in the existence
@@ -659,7 +659,7 @@ to a valley which through all the oldest records is called Avalon.
 Something of rich rains and warmth in its westland meadows,
 or something in some lost pagan traditions about it,
 made it persistently regarded as a kind of Earthly Paradise.
-[[Arthur]], after being slain at Lyonesse, is carried here,
+[[arthur|Arthur]], after being slain at Lyonesse, is carried here,
 as if to heaven.  Here the [[Pilgrim|pilgrim]] planted his staff in the soil;
 and it took root as a tree that blossoms on Christmas Day.
 
@@ -959,7 +959,7 @@ We still find it necessary to have a reserve of philanthropists,
 but we trust it to men who have made themselves rich, not to men
 who have made themselves poor.  Finally, the abbots and abbesses
 were elective.  They introduced representative [[government]],
-unknown to ancient [[Democracy|democracy]], and in itself a semi-sacramental idea.
+unknown to ancient [[democracy]], and in itself a semi-sacramental idea.
 If we could look from the outside at our own institutions, we should
 see that the very notion of turning a thousand men into one large man
 walking to Westminster is not only an act of [[Faith|faith]], but a fairy tale.
@@ -1504,9 +1504,9 @@ It highest motive was a hatred of idols, and in its view Incarnation
 was itself an idolatry.  The two things it persecuted were the idea
 of God being made flesh and of His being afterwards made wood or stone.
 A study of the questions smouldering in the track of the prairie [[Fire|fire]]
-of the Christian [[Conversion|conversion]] favours the suggestion that this [[Fanaticism|fanaticism]]
+of the Christian [[conversion]] favours the suggestion that this [[Fanaticism|fanaticism]]
 against art or mythology was at once a development and a reaction
-from that [[Conversion|conversion]], a sort of minority report of the Hebraists.
+from that [[conversion]], a sort of minority report of the Hebraists.
 In this sense [[Islam]] was something like a Christian heresy.
 The early heresies had been full of mad reversals and evasions
 of the Incarnation, rescuing their Jesus from the reality
@@ -2045,7 +2045,7 @@ in the responsible and even religious sense which had made
 his father so savage a Crusader against heretics, that he laid
 about him with his great [[Sword|sword]] before he fell at Evesham.
 
-Magna Carta was not a step towards [[Democracy|democracy]], but it was a step
+Magna Carta was not a step towards [[democracy]], but it was a step
 away from despotism.  If we hold that [[Double|double]] [[Truth|truth]] firmly, we have
 something like a key to the rest of English [[history]].  A rather loose
 aristocracy not only gained but often deserved the name of liberty.
@@ -2162,7 +2162,7 @@ The reactions of recent centuries have left most educated men
 bankrupt of the corporate [[Imagination|imagination]] required even to imagine this.
 They only think of a mob as a thing that breaks things--even if they
 admit it is right to break them.  But the mob made these things.
-An [[artist]] mocked as many-headed, an [[artist]] with many eyes and hands,
+An [[Artist|artist]] mocked as many-headed, an [[Artist|artist]] with many eyes and hands,
 created these masterpieces.  And if the modern sceptic in his
 detestation of the democratic ideal, complains of my calling
 them masterpieces, a simple answer will for the moment serve.
@@ -2417,7 +2417,7 @@ a point of complaint against the modern Trades Unions.
 But they insisted also, as the Trades Unions cannot do, upon a high
 standard of craftsmanship, which still astonishes the world in
 the corners of perishing buildings or the colours of broken glass.
-There is no [[artist]] or art critic who will not concede, however distant
+There is no [[Artist|artist]] or art critic who will not concede, however distant
 his own style from the Gothic school, that there was in this
 [[Time|time]] a nameless but universal artistic touch in the moulding
 of the very tools of life.  Accident has preserved the rudest
@@ -2483,7 +2483,7 @@ became the sceptre.  Blake, in one of his symbolic fantasies,
 suggests that in the [[Golden Age]] the gold and gems should be taken
 from the hilt of the [[Sword|sword]] and put upon the handle of the plough.
 But something very like this did happen in the interlude of this
-mediaeval [[Democracy|democracy]], fermenting under the crust of mediaeval
+mediaeval [[democracy]], fermenting under the crust of mediaeval
 monarchy and aristocracy; where productive implements often
 took on the pomp of heraldry.  The Guilds often exhibited
 emblems and pageantry so compact of their most prosaic uses,
@@ -2579,7 +2579,7 @@ Christendom was not only one nation but more like one [[City|city]]--
 and a besieged [[City|city]].  Wessex was but one wall or [[Paris]] one tower
 of it; and in one tongue and spirit Bede might have chronicled
 the siege of [[Paris]] or Abbo sung the [[Song|song]] of Alfred.  What followed
-was a conquest and a [[Conversion|conversion]]; all the end of the Dark Ages and
+was a conquest and a [[conversion]]; all the end of the Dark Ages and
 the [[Dawn|dawn]] of mediaevalism is full of the evangelizing of barbarism.
 And it is the [[Paradox|paradox]] of the [[Crusades]] that though the Saracen
 was superficially more civilized than the Christian, it was a
@@ -4113,7 +4113,7 @@ the Regicide was not afraid to point.  They were certainly public,
 they may have been public-spirited, they were never popular;
 and it seems never to have crossed their minds that there
 was any need to be popular.  England was never so little of a
-[[Democracy|democracy]] as during the short [[Time|time]] when she was a republic.
+[[democracy]] as during the short [[Time|time]] when she was a republic.
 
 The struggle with the Stuarts, which is the next passage
 in our [[history]], arose from an alliance, which some may think
@@ -4195,7 +4195,7 @@ being democratic.  These two truths cover two parts of the problem
 of the Stuart fall, which are of very different certainty,
 and should be considered separately.
 
-For the first point about [[Democracy|democracy]], no candid person, in face of
+For the first point about [[democracy]], no candid person, in face of
 the facts, can really consider it at all.  It is quite possible to hold
 that the seventeenth-century Parliament was fighting for the [[Truth|truth]];
 it is not possible to hold that it was fighting for the populace.
@@ -4243,7 +4243,7 @@ The ordering of men's normal lives was with the squire;
 but he was, if anything, more limited where he was the magistrate.
 He was stronger as master of the village, but actually weaker
 as agent of the [[King]].  In defending this state of things,
-in short, the Whigs were certainly not defending [[Democracy|democracy]],
+in short, the Whigs were certainly not defending [[democracy]],
 but they were in a real sense defending liberty.
 They were even defending some remains of mediaeval liberty,
 though not the best; the jury though not the guild.
@@ -4441,7 +4441,7 @@ in a real sense regarded as revolutionary.  The Jesuit seemed
 to the English not merely a conspirator but a sort of anarchist.
 There is something appalling about abstract speculations to
 many Englishmen; and the abstract speculations of Jesuits like
-Suarez dealt with extreme [[Democracy|democracy]] and things undreamed of here.
+Suarez dealt with extreme [[democracy]] and things undreamed of here.
 The last Stuart proposals for toleration seemed thus to many as vast
 and empty as atheism.  The only seventeenth-century Englishmen who had
 something of this transcendental abstraction were the Quakers, and the
@@ -4775,7 +4775,7 @@ by talking, and trying to talk [[Well|well]].  It did not merely do things
 because they do not bear talking about--as it does now.  It was then,
 to the eternal glory of our country, a great "talking-shop," not a mere
 buying and selling shop for financial tips and official places.
-And as with any other [[artist]], the care the eighteenth century man
+And as with any other [[Artist|artist]], the care the eighteenth century man
 expended on oratory is a proof of his sincerity not a disproof of it.
 An enthusiastic eulogium by Burke is as rich and elaborate as a
 [[Lover|lover]]'s [[Sonnet|sonnet]]; but it is because Burke is really enthusiastic,
@@ -4798,7 +4798,7 @@ there is one practical test and reply.  It might be tested in many ways:
 by the game laws and enclosure laws they passed, or by the strict code
 of the duel and the definition of [[Honour|honour]] on which they all insisted.
 But if it be really questioned whether I am right in calling their
-whole world an aristocracy, and the very reverse of it a [[Democracy|democracy]],
+whole world an aristocracy, and the very reverse of it a [[democracy]],
 the true historical test is this:  that when republicanism really entered
 the world, they instantly waged two great wars with it--or (if the
 view be preferred) it instantly waged two great wars with them.
@@ -4820,7 +4820,7 @@ admiration for the military genius of Washington and Napoleon;
 they had the most unmixed contempt for the German Royal Family.
 But they were, as a class, not only against both Washington
 and Napoleon, but against them both for the same reason.
-And it was that they both stood for [[Democracy|democracy]].
+And it was that they both stood for [[democracy]].
 
 Great injustice is done to the English aristocratic [[government]]
 of the [[Time|time]] through a failure to realize this fundamental difference,
@@ -4886,9 +4886,9 @@ because Washington was a gentleman; but Chatham could
 hardly have conceived a country not governed by gentlemen.
 Burke was apparently ready to grant everything to [[America]];
 but he would not have been ready to grant what [[America]]
-eventually gained.  If he had seen American [[Democracy|democracy]],
+eventually gained.  If he had seen American [[democracy]],
 he would have been as much appalled by it as he was by
-French [[Democracy|democracy]], and would always have been by any [[Democracy|democracy]].
+French [[democracy]], and would always have been by any [[democracy]].
 In a word the Whigs were liberal and even generous aristocrats,
 but they were aristocrats; that is why their concessions were
 as vain as their conquests.  We talk, with a humiliation too rare
@@ -4973,7 +4973,7 @@ the future to devour Belgium as France could never have devoured it,
 and threaten us across the sea with terrors of which no Frenchman
 would ever dream.  But indeed much deeper things unified
 our attitude towards France before and after the Revolution.
-It is but one stride from despotism to [[Democracy|democracy]], in [[logic]] as
+It is but one stride from despotism to [[democracy]], in [[logic]] as
 [[Well|well]] as in [[history]]; and oligarchy is equally remote from both.
 The Bastille fell, and it seemed to an Englishman merely that a
 despot had turned into a demos.  The young Bonaparte [[Rose|rose]], and it
@@ -5097,7 +5097,7 @@ were given the power to commemorate the large humanity of their own land;
 immortalizing a mood as broad and soft as their own brush-work. Come
 naturally, at the right emotional angle, upon a canvass of Gainsborough,
 who painted ladies like landscapes, as great and as unconscious
-with repose, and you will note how subtly the [[artist]] gives to a dress
+with repose, and you will note how subtly the [[Artist|artist]] gives to a dress
 flowing in the foreground something of the divine quality of distance.
 Then you will understand another faded phrase and words spoken far
 away upon the sea; there will rise up quite fresh before you and be
@@ -5340,7 +5340,7 @@ began on the whole to increase.  Gladstone, an idealistic though
 inconsistent Liberal, rather belatedly realized that the [[Freedom|freedom]]
 he loved in Greece and [[Italy]] had its rights nearer [[Home|home]],
 and may be said to have found a second youth in the gateway
-of the [[Grave|grave]], in the eloquence and emphasis of his [[Conversion|conversion]].
+of the [[Grave|grave]], in the eloquence and emphasis of his [[conversion]].
 And a statesman wearing the opposite label (for what that is worth)
 had the spiritual insight to see that Ireland, if resolved
 to be a nation, was even more resolved to be a peasantry.
@@ -5495,8 +5495,8 @@ very definite bodies of the working classes; and it so struck
 the balance between the conservative and the dangerous elements in the
 commonwealth that the governing class was rather stronger than before.
 The date, however, is important, not at all because it was the beginning
-of [[Democracy|democracy]], but because it was the beginning of the best way
-ever discovered of evading and postponing [[Democracy|democracy]].  Here enters
+of [[democracy]], but because it was the beginning of the best way
+ever discovered of evading and postponing [[democracy]].  Here enters
 the homeopathic treatment of revolution, since so often successful.
 [[Well]] into the next generation Disraeli, the brilliant Jewish adventurer
 who was the symbol of the English aristocracy being no longer genuine,
@@ -5812,7 +5812,7 @@ was also an epilogue.
 I make the guess, for it can be no more, that the change
 really came with the fall of [[Richard II]], following on
 his failure to use mediaeval despotism in the interests
-of mediaeval [[Democracy|democracy]].  England, like the other nations
+of mediaeval [[democracy]].  England, like the other nations
 of Christendom, had been created not so much by the [[Death|death]]
 of the ancient civilization as by its escape from [[Death|death]],
 or by its refusal to die.  Mediaeval civilization had arisen

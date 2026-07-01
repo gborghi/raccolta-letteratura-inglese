@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 27 (part 3)"
+title: "Great Expectations — Chapter 27 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_27/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_28/part_01">part 01 ›</a></div>
 </nav>
 
+
+“Us two being now [[Alone|alone]],” resumed Joe, “and me having the intentions
+and abilities to stay not many minutes more, I will now
+conclude—leastways begin—to mention what have led to my having had the
+present [[Honour|honour]]. For was it not,” said Joe, with his old air of lucid
+exposition, “that my only wish were to be useful to you, I should not
+have had the [[Honour|honour]] of breaking wittles in the company and abode of
+gentlemen.”
+
+I was so unwilling to see the look again, that I made no remonstrance
+against this tone.
 
 “[[Well]], sir,” pursued Joe, “this is how it were. I were at the Bargemen
 t’other [[Night|night]], Pip;”—whenever he subsided into affection, he called me

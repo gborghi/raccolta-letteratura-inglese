@@ -10,15 +10,11 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/twelve-types-(chesterton)">Twelve Types</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/twelve_types/story_04_pope_and_the_art_of_satire">‹ Story 04 POPE AND THE ART OF SATIRE</a><a class="ex-next" href="/testi/chesterton/atomized/twelve_types/story_06_rostand">Story 06 ROSTAND ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/twelve_types/story_04_pope_and_the_art_of_satire_satire">‹ Story 04 POPE AND THE ART OF Satire SATIRE</a><a class="ex-next" href="/testi/chesterton/atomized/twelve_types/story_06_rostand">Story 06 ROSTAND ›</a></div>
 </nav>
 
 
 FRANCIS
-
-
-
-
 
 Asceticism is a thing which in its very [[Nature|nature]], we tend in these days to
 
@@ -54,8 +50,6 @@ other things one may choose to tabulate are unnecessary. When Omar
 
 Khayyam says:
 
-
-
     'A book of verse beneath the bough
 
     A loaf of bread, a jug of wine and thou
@@ -63,8 +57,6 @@ Khayyam says:
     Sitting beside me in the wilderness
 
     O wilderness were Paradise enow.'
-
-
 
 It is clear that he speaks fully as much ascetically as he does
 
@@ -76,8 +68,6 @@ be multiplied a hundred-fold. One of the most genuinely poetical of our
 
 younger poets says, as the one thing certain, that
 
-
-
     'From quiet [[Home|home]] and first beginning
 
       Out to the undiscovered ends--
@@ -86,13 +76,9 @@ younger poets says, as the one thing certain, that
 
       But laughter and the [[Love|love]] of friends.'
 
-
-
 Here we have a perfect example of the main important fact, that all true
 
 joy expresses itself in terms of asceticism.
-
-
 
 But if in any case it should happen that a class or a generation lose
 
@@ -148,8 +134,6 @@ feel the [[Love|love]] of religious offices. We see only the price in the one
 
 case and only the purchase in the other.
 
-
-
 The only question that remains is what was the joy of the old Christian
 
 ascetics of which their ascetism was merely the purchasing price. The
@@ -196,8 +180,6 @@ of an [[Eternity|eternity]] of happiness is by its very [[Nature|nature]] ten th
 
 more optimistic than ten thousand pagan saturnalias.
 
-
-
 Mr Adderley's life of Francis of Assisi does not, of course, bring this
 
 out; nor does it fully bring out the character of Francis. It has rather
@@ -221,8 +203,6 @@ in [[Biography|biography]]. The successful examples of it may be found, for inst
 in the more idealistic odes of Spenser. The design is sometimes almost
 
 indecipherable, for the poet draws in silver upon white.
-
-
 
 It is natural, of course, that Mr Adderley should see Francis primarily
 
@@ -268,8 +248,6 @@ as the phrase goes. Quite as often, however, they discovered that he had
 
 nobility.
 
-
-
 Conceiving of St Francis as primarily the founder of the Franciscan
 
 Order, Mr Adderley opens his narrative with an admirable [[Sketch|sketch]] of the
@@ -287,8 +265,6 @@ he does not throw any light on what must be for the [[Outsider|outsider]] the
 absorbing problem of this Catholic asceticism, for the excellent reason
 
 that not being an [[Outsider|outsider]] he does not find it a problem at all.
-
-
 
 To most people, however, there is a fascinating inconsistency in the
 
@@ -342,8 +318,6 @@ young. It was the [[Monks|monks]] who were the spendthrifts of happiness, and we
 
 who are its misers.
 
-
-
 Doubtless, as is apparent from Mr Adderley's book, the clear and
 
 tranquil life of the Three Vows had a fine and delicate effect on the
@@ -367,8 +341,6 @@ the weakness of Burns' verses to [[Animals|animals]], the occasional morbidity,
 bombast and moralisation on himself, the credit is surely due to a
 
 cleaner and more transparent life.
-
-
 
 The general attitude of St Francis, like that of his Master, embodied a
 

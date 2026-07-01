@@ -1,5 +1,5 @@
 ---
-title: "[[Great Expectations]] — Chapter 19 (part 1)"
+title: "Great Expectations — Chapter 19 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/great-expectations-(dickens)"
@@ -142,8 +142,3 @@ distant manner occurred to me), that I said, snappishly,—
 smell of a black-currant bush has ever since recalled to me that
 evening in the little [[Garden|garden]] by the side of the lane,—said, “Have you
 never considered that he may be proud?”
-
-“Proud?” I repeated, with disdainful emphasis.
-
-“O! there are many kinds of [[Pride|pride]],” said [[Biddy]], looking full at me and
-shaking her head; “[[Pride|pride]] is not all of one kind—”

@@ -14,6 +14,31 @@ tags:
 </nav>
 
 
+and a weathercock off a building. Now, in fact, a man must shoot
+
+very [[Well|well]] indeed to shoot so badly as that. He must shoot very
+
+neatly to hit the cockade and not the head, or even the hat. If the
+
+shots had really gone at random, the chances are a thousand to one
+
+that they would not have hit such prominent and picturesque objects.
+
+They were chosen because they were prominent and picturesque
+
+objects. They make a story to go the round of society. He keeps the
+
+crooked weathercock in the summerhouse to perpetuate the story of a
+
+legend. And then he lay in wait with his evil eye and wicked gun,
+
+safely ambushed behind the legend of his own incompetence.
+"But there is more than that. There is the summerhouse itself. I
+
+mean there is the whole thing. There's all that Jenkins gets chaffed
+
+about, the gilding and the gaudy colors and all the vulgarity that's
+
 supposed to stamp him as an upstart. Now, as a matter of fact,
 
 upstarts generally don't do this. God knows there's enough of 'em in

@@ -1,5 +1,5 @@
 ---
-title: "Alls [[Well]] that Ends [[Well]] — Act IV, Scene 3 — exchange (INTERPRETER) [5]"
+title: "Alls Well that Ends Well — Act IV, Scene 3 — exchange (INTERPRETER) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/all’s-well-that-ends-well-(shakespeare)"

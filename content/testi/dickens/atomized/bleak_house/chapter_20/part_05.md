@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 20 (part 5)"
+title: "Bleak House — Chapter 20 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_20/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_21/part_01">part 01 ›</a></div>
 </nav>
 
+
+“How do you do, Mr. Krook?” says Mr. Guppy in some discomfiture. “How
+do you do, sir? You are looking charming, Mr. Krook. I [[Hope|hope]] you are
+pretty [[Well|well]]?”
 
 The old man, in aiming a purposeless blow at Mr. Guppy, or at
 nothing, feebly swings himself round and comes with his face against

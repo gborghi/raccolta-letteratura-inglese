@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 50"
+title: "The Tenant of Wildfell Hall — Chapter 50"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -142,7 +142,7 @@ there was a wide distinction between the rank and circumstances of Mrs.
 
 Huntingdon, the lady of Grassdale Manor, and those of Mrs. Graham, the
 
-[[Artist|artist]], [[The Tenant of Wildfell Hall|the tenant of Wildfell Hall]]. And it might be deemed presumption
+[[artist]], [[The Tenant of Wildfell Hall|the tenant of Wildfell Hall]]. And it might be deemed presumption
 
 in me to offer my hand to the former, by the world, by her friends, if
 
@@ -294,7 +294,7 @@ long, but which none could more truly be said to merit than
 
 herself—adding a few words of kind remembrance to my little friend
 
-[[arthur|Arthur]], with a [[Hope|hope]] that he had not forgotten me, and perhaps a few
+[[Arthur]], with a [[Hope|hope]] that he had not forgotten me, and perhaps a few
 
 more in reference to bygone times, to the delightful hours I had passed
 

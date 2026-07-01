@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 38 (part 2)"
+title: "Villette — Chapter 38 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_40/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_40/part_03">part 03 ›</a></div>
 </nav>
 
+
+“This secession was an immense loss to her,” she alleged. “She did not
+know how she should fill up the vacancy. She was so used to her
+kinsman, he had become her right hand; what should she do without him?
+She had opposed the step, but M. Paul had convinced her it was his
+duty.”
 
 She said all this in public, in classe, at the dinner-table, speaking
 audibly to Zélie St. Pierre.
@@ -110,20 +116,10 @@ duties.
 So oblivious was the [[house]], so tame, so trained its proceedings, so
 inexpectant its aspect—I scarce knew how to breathe in an atmosphere
 thus stagnant, thus smothering. Would no one lend me a voice? Had no
-one a wish, no one a word, no one a [[Prayer|prayer]] to which I could say—Amen?
+one a wish, no one a word, no one a [[prayer]] to which I could say—Amen?
 
 I had seen them unanimous in demand for the merest trifle—a treat, a
 holiday, a lesson’s remission; they could not, they _would_ not now
 band to besiege [[Madame Beck]], and insist on a last interview with a
 Master who had certainly been loved, at least by some—loved as _they_
 could [[Love|love]]—but, oh! what _is_ the [[Love|love]] of the multitude?
-
-I knew where he lived: I knew where he was to be heard of, or
-communicated with; the distance was scarce a stone’s-throw: had it been
-in the next room—unsummoned, I could make no use of my knowledge. To
-follow, to seek out, to remind, to recall—for these things I had no
-faculty.
-
-M. Emanuel might have passed within reach of my arm: had he passed
-silent and unnoticing, silent and stirless should I have suffered him
-to go by.

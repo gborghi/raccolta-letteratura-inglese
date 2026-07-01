@@ -108,18 +108,3 @@ could possibly have [[Time|time]] or opportunity to think for themselves.
 These are the modern equivalents of sitting among the ruins or
 meditating among the tombs; and both were very healthy human exercises,
 very improving to the spirits.
-
-In this connexion, by the way, I must once more express my
-astonishment that, in an age which will have ten professors
-of psychology to tea, or strew the world with pamphlets and books
-about subconsciousness and psycho-analysis, nobody seems to notice
-the most normal and elementary facts of practical psychology.
-Otherwise, it would not be left to an irresponsible and ignorant
-journalist to point out the elementary fact:  that dullness can
-be a stimulant.  There is hardly any need to point out, to any
-one acquainted with our lighter entertainments, that amusement
-can be a narcotic.  But, anyhow, some one with more scientific
-authority ought really to study these strange reactions of stale
-and even oppressive atmospheres on the romantic spirit of youth.
-Who knows?--if something suggestive were written on the subject,
-even youth might be young once more.

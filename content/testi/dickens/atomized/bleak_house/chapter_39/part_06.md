@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 39 (part 6)"
+title: "Bleak House — Chapter 39 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_39/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_40/part_01">part 01 ›</a></div>
 </nav>
 
+
+As they go upstairs, Mr. Guppy lifts his eyebrows inquiringly and
+looks at Tony. Tony shakes his head. They find the old room very dull
+and dismal, with the ashes of the [[Fire|fire]] that was burning on that
+memorable [[Night|night]] yet in the discoloured grate. They have a great
+disinclination to touch any object, and carefully blow the [[Dust|dust]] from
+it first. Nor are they desirous to prolong their visit, packing the
+few movables with all possible [[Speed|speed]] and never speaking above a
+whisper.
 
 “Look here,” says Tony, recoiling. “Here’s that horrible cat coming
 in!”

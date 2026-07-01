@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 65 (part 2)"
+title: "Barnaby Rudge — Chapter 65 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -112,12 +112,3 @@ doors with his stick, and cried:
 
 At this they all cried together that they were to be hanged on the next
 day but one; and again implored his aid.
-
-‘Aid! For what!’ said Mr Dennis, playfully rapping the knuckles of the
-hand nearest him.
-
-‘To save us!’ they cried.
-
-‘Oh, certainly,’ said Mr Dennis, winking at the wall in the absence
-of any friend with whom he could [[Humour|humour]] the joke. ‘And so you’re to be
-worked off, are you, brothers?’

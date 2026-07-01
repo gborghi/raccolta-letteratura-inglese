@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 44: OUR HOUSEKEEPING (part 3)"
+title: "David Copperfield — Chapter 44: OUR HOUSEKEEPING (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_44_our_housekeeping/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_44_our_housekeeping/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘Now,’ said she, ‘light my little lantern, and see me into my bandbox by
+the [[Garden|garden]] path’; for there was a communication between our cottages in
+that direction. ‘Give [[Betsey Trotwood]]’s [[Love|love]] to Blossom, when you come
+back; and whatever you do, Trot, never dream of setting Betsey up as a
+scarecrow, for if I ever saw her in the glass, she’s quite grim enough
+and gaunt enough in her private capacity!’
+
+With this my aunt tied her head up in a handkerchief, with which she was
+accustomed to make a bundle of it on such occasions; and I escorted her
+[[Home|home]]. As she stood in her [[Garden|garden]], holding up her little lantern to light
+me back, I thought her observation of me had an anxious air again; but
+I was too much occupied in pondering on what she had said, and too much
+impressed--for the first [[Time|time]], in reality--by the conviction that Dora
+and I had indeed to work out our future for ourselves, and that no one
+could assist us, to take much notice of it.
 
 Dora came stealing down in her little slippers, to meet me, now that I
 was [[Alone|alone]]; and cried upon my shoulder, and said I had been hard-hearted
@@ -102,15 +118,3 @@ melted butter. On this occasion he seemed to think he was introduced
 expressly to keep Traddles at bay; and he barked at my old friend, and
 made short runs at his plate, with such undaunted pertinacity, that he
 may be said to have engrossed the conversation.
-
-However, as I knew how tender-hearted my dear Dora was, and how
-sensitive she would be to any slight upon her favourite, I hinted no
-objection. For similar reasons I made no allusion to the skirmishing
-plates upon the floor; or to the disreputable appearance of the castors,
-which were all at sixes and sevens, and looked drunk; or to the further
-blockade of Traddles by wandering vegetable dishes and jugs. I could
-not help wondering in my own mind, as I contemplated the boiled leg of
-mutton before me, previous to carving it, how it came to pass that
-our joints of meat were of such extraordinary shapes--and whether our
-butcher contracted for all the deformed sheep that came into the world;
-but I kept my reflections to myself.

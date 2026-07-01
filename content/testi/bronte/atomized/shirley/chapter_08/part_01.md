@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 8 (part 1)"
+title: "Shirley — Chapter 8 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -255,11 +255,3 @@ now sitting in state waiting his arrival."
 Joe Scott had entered unobserved. He now stood, a most sinister [[Phantom|phantom]],
 
 half his person being dyed of the deepest tint of indigo, leaning on the
-
-desk. His master's answer to the rector's question was a smile. Joe took
-
-the word. Putting on a quiet but pawky look, he said,--
-
-
-
-"It's a friend of yours, Mr. Helstone, a gentleman you often speak of."

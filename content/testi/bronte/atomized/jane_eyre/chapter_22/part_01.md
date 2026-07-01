@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 22 (part 1)"
+title: "Jane Eyre — Chapter 22 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -119,10 +119,3 @@ the [[Night|night]]: in a vivid morning dream I saw her closing the gates of
 Thornfield against me and pointing me out another [[Road|road]]; and Mr.
 Rochester looked on with his arms folded—smiling sardonically, as it
 seemed, at both her and me.
-
-I had not notified to Mrs. Fairfax the exact day of my return; for I
-did not wish either car or carriage to meet me at Millcote. I proposed
-to walk the distance quietly by myself; and very quietly, after leaving
-my box in the ostler’s care, did I slip away from the George Inn, about
-six o’[[Clock|clock]] of a June evening, and take the old [[Road|road]] to Thornfield: a
-[[Road|road]] which lay chiefly through fields, and was now little frequented.

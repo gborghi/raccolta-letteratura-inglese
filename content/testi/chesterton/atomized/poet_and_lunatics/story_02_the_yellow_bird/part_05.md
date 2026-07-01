@@ -14,6 +14,30 @@ tags:
 </nav>
 
 
+Accident, indeed, gave to their passage through those empty rooms
+an air of pursuit, as if something were escaping.  For, as they
+passed from an outer room into the long library, the stranger,
+who was at the other end by the [[Window|window]], emphasized his restless [[Love|love]]
+of the open air by putting one long leg over the low [[Window|window]]-sill
+and stepping out on to the lawn.  He had evidently, however, no real
+[[Desire|desire]] to avoid them, for he stood there smiling in the sunlight,
+and uttered some greeting very pleasantly with a slight foreign accent.
+He was still wearing the long lemon-coloured dressing-gown which,
+along with his yellow hair, had suggested the comparison
+of a yellow bird.  Under the yellow hair his brow was broad
+but not high, and the nose was not only long and straight,
+but came down in a single line from the forehead in the manner
+that may be seen on many Greek coins and carvings, but which has
+an unnatural and even sinister symmetry when seen in real life.
+There was nothing else eccentric or exuberant about him; his manners
+were casual, but not ungraceful; and nothing contradicted the sunny
+ease of his situation and demeanour except, perhaps, a slightly
+strained look in the eyes, which were eager and prominent.
+Until his acquaintances grew accustomed to it, as a fixed involuntary
+feature of his face, they occasionally had a sort of shock when
+catching his quiet face in [[Shadow|shadow]] and realizing that the round eyes
+were standing out of his head.
+
 The first thing the eyes seemed to encounter was Dr. Garth's hand-camera;
 and, as soon as introductions and salutations had passed, he plunged
 into talk about photography.  He prophesied its extension at
@@ -104,39 +128,3 @@ gate of the [[Garden|garden]].  In the somewhat bitter intensity of his mood,
 he seemed rather to be exaggerating the finality of the farewell;
 not only touching herself, but all the things which he had always
 felt to be full of her presence.
-
-"You will pull down that old swing, I suppose?" he had said as they
-went through the [[Garden|garden]], "and put up an electric steel swing
-that will take anybody in ten seconds to the [[Moon|moon]]."
-
-"I can't pull down the [[Moon|moon]], anyhow," replied the girl, with a smile,
-"and I don't know that I want to."
-
-"That's rather reactionary of you," remarked Mallow.  "The [[Moon|moon]] is
-a very extinct volcano, valuable only to old-fashioned romanticists.
-And I suppose you'll turn our old lawn-tennis lawn into a place
-where tennis can be played by machinery, by pressing buttons
-a hundred miles away.  I'm not sure whether they've yet finished
-the plans for a pear-tree that grows pears by electricity."
-
-"But surely," she replied, looking a little troubled, "the world can go
-on without losing the things it seems to leave behind.  And, after all,
-surely the world must go on; at least, it must go on growing.
-I think that's where you misunderstand.  It isn't only going on;
-it's more like growing outwards.
-
-"It's expansion, that's the word; growing broader, always describing
-wider and wider circles; but that only means more [[Self|self]]-fulfilment,
-and therefore serenity and peace; it means..."
-
-She stopped short, as if at a spoken answer, but it was
-only because the [[Moon|moon]] had flung a new [[Shadow|shadow]] across her.
-It was from a figure standing on the wall.  The moonshine made a halo
-of pale yellow round the head; and for a moment they thought it
-was the Russian, standing on the wall as he had stood on the roof.
-Then Mallow looked more closely at the face in [[Shadow|shadow]], and uttered,
-with some astonishment, the name of Gale.
-
-"You must get away from here at once," said the poet sharply;
-"everybody who can must get away from this [[house]].  There's no
-[[Time|time]] to explain."

@@ -1,5 +1,5 @@
 ---
-title: "[[The Purloined Letter]] (part 3)"
+title: "The Purloined Letter (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-purloined-letter-(poe)"
@@ -147,19 +147,3 @@ tags:
       “In that case,” replied Dupin, opening a drawer, and producing a
       check-book, “you may as [[Well|well]] fill me up a check for the amount
       mentioned. When you have signed it, I will hand you the letter.”
-
-      I was astounded. The Prefect appeared absolutely
-      thunder-stricken. For some minutes he remained speechless and
-      motionless, looking incredulously at my friend with open mouth,
-      and eyes that seemed starting from their sockets; then,
-      apparently recovering himself in some measure, he seized a pen,
-      and after several pauses and vacant stares, finally filled up and
-      signed a check for fifty thousand francs, and handed it across
-      the table to Dupin. The latter examined it carefully and
-      deposited it in his pocket-book; then, unlocking an escritoire,
-      took thence a letter and gave it to the Prefect. This functionary
-      grasped it in a perfect agony of joy, opened it with a trembling
-      hand, cast a rapid glance at its contents, and then, scrambling
-      and struggling to the door, rushed at length unceremoniously from
-      the room and from the [[house]], without having uttered a syllable
-      since Dupin had requested him to fill up the check.

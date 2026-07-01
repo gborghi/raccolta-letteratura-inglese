@@ -14,6 +14,38 @@ tags:
 </nav>
 
 
+to be as bare as the bare walls. Wilson completed his survey of the
+
+place and then went and stared at the things on the table. Then he
+
+silently pointed with his lean forefinger at the open page of the
+
+large notebook. The writer had suddenly stopped writing, even in the
+
+middle of a word.
+"I said it was like an explosion," said Sir Walter Carey at last.
+
+"And really the man himself seems to have suddenly exploded. But he
+
+has blown himself up somehow without touching the tower. He's burst
+
+more like a bubble than a bomb."
+"He has touched more valuable things than the tower," said Wilson,
+
+gloomily.
+There was a long [[Silence|silence]], and then Sir Walter said, seriously:
+
+"[[Well]], Mr. Wilson, I am not a [[Detective|detective]], and these unhappy
+
+happenings have left you in charge of that branch of the business.
+
+We all lament the cause of this, but I should like to say that I
+
+myself have the strongest confidence in your capacity for carrying
+
+on the work. What do you think we should do next?"
+Wilson seemed to rouse himself from his depression and acknowledged
+
 the speaker's words with a warmer civility than he had hitherto
 
 shown to anybody. He called in a few of the police to assist in
@@ -153,40 +185,3 @@ Wilson bounded off the table as if he had been kicked off it. "What
 
 do you mean?" he cried. "How can you possibly see a man?"
 "I can see him through the [[Window|window]]," replied the secretary, mildly.
-
-"I see him coming across the moor. He's making a bee line across the
-
-open country toward this tower. He evidently means to pay us a
-
-visit. And, considering who it seems to be, perhaps it would be more
-
-polite if we were all at the door to receive him." And in a
-
-leisurely manner the secretary came down the ladder.
-"Who it seems to be!" repeated Sir Walter in astonishment.
-"[[Well]], I think it's the man you call Prince [[Michael]]," observed Mr.
-
-Fisher, airily. "In fact, I'm sure it is. I've seen the police
-
-portraits of him."
-There was a dead [[Silence|silence]], and Sir Walter's usually steady brain
-
-seemed to go round like a windmill.
-"But, hang it all!" he said at last, "even supposing his own
-
-explosion could have thrown him half a mile away, without passing
-
-through any of the windows, and left him alive enough for a country
-
-walk—even then, why the devil should he walk in this direction?
-
-The murderer does not generally revisit the scene of his crime so
-
-rapidly as all that."
-"He doesn't know yet that it is the scene of his crime," answered
-
-Horne Fisher.
-"What on earth do you mean? You credit him with rather singular
-
-absence of mind."
-"[[Well]], the [[Truth|truth]] is, it isn't the scene of his crime," said Fisher,

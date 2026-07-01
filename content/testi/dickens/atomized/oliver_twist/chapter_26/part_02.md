@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 26 (part 2)"
+title: "Oliver Twist — Chapter 26 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -138,9 +138,3 @@ dead in the ditch and that his young bones may rot there.”
 have him away from my eyes, and to know that the worst is over. I can’t
 bear to have him about me. The sight of him turns me against myself,
 and all of you.”
-
-“Pooh!” said the Jew, scornfully. “You’re drunk.”
-
-“Am I?” cried the girl bitterly. “It’s no fault of yours, if I am not!
-You’d never have me anything else, if you had your will, except
-now;—the [[Humour|humour]] doesn’t suit you, doesn’t it?”

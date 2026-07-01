@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 16 (part 6)"
+title: "Nicholas Nickleby — Chapter 16 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,45 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_16/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_16/part_07">part 07 ›</a></div>
 </nav>
 
+
+‘I think I understand,’ said Nicholas.
+
+‘With regard to such questions as are not political,’ continued Mr
+Gregsbury, warming; ‘and which one can’t be expected to care a curse
+about, beyond the natural care of not allowing inferior people to be as
+[[Well|well]] off as ourselves--else where are our privileges?--I should wish
+my secretary to get together a few little flourishing speeches, of a
+patriotic cast. For instance, if any preposterous bill were brought
+forward, for giving poor grubbing devils of authors a right to their own
+property, I should like to say, that I for one would never consent to
+opposing an insurmountable bar to the diffusion of literature among THE
+PEOPLE,--you understand?--that the creations of the pocket, being man’s,
+might belong to one man, or one family; but that the creations of the
+brain, being God’s, ought as a matter of course to belong to the people
+at large--and if I was pleasantly disposed, I should like to make a joke
+about posterity, and say that those who wrote for posterity should be
+content to be rewarded by the approbation OF posterity; it might take
+with the [[house]], and could never do me any harm, because posterity can’t
+be expected to know anything about me or my jokes either--do you see?’
+
+‘I see that, sir,’ replied Nicholas.
+
+‘You must always bear in mind, in such cases as this, where our
+interests are not affected,’ said Mr. Gregsbury, ‘to put it very strong
+about the people, because it comes out very [[Well|well]] at election-[[Time|time]]; and
+you could be as funny as you liked about the authors; because I believe
+the greater part of them live in lodgings, and are not voters. This is
+a hasty outline of the chief things you’d have to do, except waiting in
+the lobby every [[Night|night]], in case I forgot anything, and should want fresh
+cramming; and, now and then, during great debates, sitting in the
+front row of the gallery, and saying to the people about--‘You see that
+gentleman, with his hand to his face, and his arm twisted round the
+pillar--that’s Mr. Gregsbury--the celebrated Mr. Gregsbury,’--with any
+other little eulogium that might strike you at the moment. And for
+salary,’ said Mr. Gregsbury, winding up with great rapidity; for he was
+out of breath--‘and for salary, I don’t mind saying at once in round
+numbers, to prevent any dissatisfaction--though it’s more than I’ve been
+accustomed to give--fifteen shillings a week, and find yourself. There!’
 
 With this handsome offer, Mr. Gregsbury once more threw himself back in
 his chair, and looked like a man who had been most profligately liberal,
@@ -96,50 +135,3 @@ mean and ignorant upstart, be he member or no member.’
 
 ‘I hardly know whether I should tell you what I heard this morning, or
 not,’ said Newman.
-
-‘Has it reference to what you said just now?’ asked Nicholas.
-
-‘It has.’
-
-‘Then in Heaven’s name, my good friend, tell it me,’ said Nicholas. ‘For
-God’s sake consider my deplorable condition; and, while I promise to
-take no step without taking counsel with you, give me, at least, a vote
-in my own behalf.’
-
-Moved by this entreaty, Newman stammered forth a variety of most
-unaccountable and entangled sentences, the upshot of which was, that
-Mrs. Kenwigs had examined him, at great length that morning, touching
-the origin of his acquaintance with, and the whole life, adventures, and
-pedigree of, Nicholas; that Newman had parried these questions as
-long as he could, but being, at length, hard pressed and driven into a
-corner, had gone so far as to admit, that Nicholas was a tutor of
-great accomplishments, involved in some misfortunes which he was not at
-liberty to explain, and bearing the name of Johnson. That Mrs. Kenwigs,
-impelled by gratitude, or [[Ambition|ambition]], or maternal [[Pride|pride]], or maternal [[Love|love]],
-or all four powerful motives conjointly, had taken secret conference
-with Mr. Kenwigs, and had finally returned to propose that Mr. Johnson
-should instruct the four Miss Kenwigses in the French language as spoken
-by natives, at the weekly stipend of five shillings, current coin of
-the realm; being at the rate of one shilling per week, per each Miss
-Kenwigs, and one shilling over, until such [[Time|time]] as the baby might be
-able to take it out in grammar.
-
-‘Which, unless I am very much mistaken,’ observed Mrs. Kenwigs in making
-the proposition, ‘will not be very long; for such clever children, Mr
-Noggs, never were born into this world, I do believe.’
-
-‘There,’ said Newman, ‘that’s all. It’s beneath you, I know; but I
-thought that perhaps you might--’
-
-‘Might!’ cried Nicholas, with great alacrity; ‘of course I shall. I
-accept the offer at once. Tell the worthy mother so, without delay, my
-dear fellow; and that I am ready to begin whenever she pleases.’
-
-Newman hastened, with joyful steps, to inform Mrs. Kenwigs of his
-friend’s acquiescence, and soon returning, brought back word that they
-would be happy to see him in the first floor as soon as convenient;
-that Mrs. Kenwigs had, upon the instant, sent out to secure a second-hand
-French grammar and dialogues, which had long been fluttering in the
-sixpenny box at the bookstall round the corner; and that the family,
-highly excited at the prospect of this addition to their gentility,
-wished the initiatory lesson to come off immediately.

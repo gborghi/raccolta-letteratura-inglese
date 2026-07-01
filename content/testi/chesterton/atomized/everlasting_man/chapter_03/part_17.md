@@ -14,6 +14,31 @@ tags:
 </nav>
 
 
+We may begin then with these two negations.  It is nonsense
+to say that the Christian [[Faith|faith]] appeared in a simple age;
+in the sense of an unlettered and gullible age.  It is equally
+nonsense to say that the Christian [[Faith|faith]] was a simple thing;
+in the sense of a vague or childish or merely instinctive thing.
+Perhaps the only point in which we could possibly say that the Church
+fitted into the pagan world, is the fact that they were both not
+only highly civilised but rather complicated.  They were both
+emphatically many-sided; but antiquity was then a many-sided hole,
+like a hexagonal hole waiting for an equally hexagonal stopper.
+In that sense only the Church was many-sided enough to fit the world.
+The six sides of the Mediterranean world faced each other across
+the sea and waited for something that should look all ways at once.
+The Church had to be both Roman and Greek and Jewish and African
+and Asiatic.  In the very words of the Apostle of the Gentiles,
+it was indeed all things to all men.  [[Christianity]] then was not
+merely crude and simple and was the very reverse of the growth
+of a barbaric [[Time|time]].  But when we come to the contrary charge,
+we come to a much more plausible charge.  It is very much more tenable
+that the [[Faith]] was but the final phase of the [[Decay|decay]] of civilisation,
+in the sense of the excess of civilisation; that this superstition
+was a sign that Rome was dying, and dying of being much too civilised.
+That is an argument much better worth considering; and we will
+proceed to consider it.
+
 At the beginning of this book I ventured on a general summary of it,
 in a parallel between the rise of humanity out of [[Nature|nature]] and the rise
 of [[Christianity]] out of [[history]].  I pointed out that in both cases
@@ -90,37 +115,3 @@ that grew steadily while the other was declining and falling;
 and which even at this moment is going forward with fearless energy,
 when an other aeon has completed its cycle and another civilisation
 seems almost ready to fall or to decline.
-
-Now the curious fact is this; that the very heresies which the early
-Church is blamed for crushing testify to the unfairness for which she
-is blamed.  In so far as something deserved the blame, it was precisely
-the things that she is blamed for blaming.  In so far as something
-was merely a superstition, she herself condemned that superstition.
-In so far as something was a mere reaction into barbarism,
-she herself resisted it because it was a reaction into barbarism.
-In so far as something was a fad of the fading empire, that died
-and deserved to die, it was the Church [[Alone|alone]] that killed it.
-The Church is reproached for being exactly what the heresy was
-repressed for being.  The explanations of the evolutionary historians
-and higher critics do really explain why Arianism and Gnosticism
-and Nestorianism were born--and also why they died.  They do not
-explain why the Church was born or why she has refused to die.
-Above all, they do not explain why she should have made war on
-the very evils she is supposed to share.
-
-Let us take a few practical examples of the principle; the principle
-that if there was anything that was really a superstition
-of the dying empire, it did really die with the dying empire;
-and certainly was not the same as the very thing that destroyed it.
-For this purpose we will take in order two or three of the most
-ordinary explanations of Christian origins among the modern critics
-of [[Christianity]].  Nothing is more common, for instance, than to find
-such a modern critic writing something like this:  '[[Christianity]] was
-above all a movement of ascetics, a rush into the [[Desert|desert]],
-a refuge in the cloister, a [[Renunciation|renunciation]] of all life and happiness;
-and this was a part of a gloomy and inhuman reaction against
-[[Nature|nature]] itself, a hatred of the [[Body|body]], a horror of the material universe,
-a sort of universal [[suicide]] of the senses and even of the [[Self|self]].
-It came from an eastern [[Fanaticism|fanaticism]] like that of the fakirs and was
-ultimately founded on an eastern pessimism, which seems to feel
-existence itself as an evil.'

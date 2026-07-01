@@ -1,5 +1,5 @@
 ---
-title: "[[Hamlet]] — Act I, Scene 2 — exchange ([[Hamlet|HAMLET]]) [8]"
+title: "Hamlet — Act I, Scene 2 — exchange (HAMLET) [8]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/hamlet-(shakespeare)"

@@ -14,6 +14,39 @@ tags:
 </nav>
 
 
+There are indeed yet lower levels.  There is a story from [[America]]
+about a little boy who gave up his toy cannon to assist the disarmament
+of the world.  I do not know if it is true, but on the whole I
+prefer to think so; for it is perhaps more tolerable to imagine
+one small [[Monster|monster]] who could do such a thing than many more mature
+monsters who could invent or admire it.  There were some doubtless
+who neither invented nor admired.  It is one of the peculiarities
+of the Americans that they combine a power of producing what they
+satirize as "sob-stuff" with a parallel power of satirizing it.
+And of the two American tall stories, it is sometimes hard to say
+which is the story and which the [[Satire|satire]].  But it seems clear that
+some people did really repeat this story in a reverential spirit.
+And it marks, as I have said, another stage of cerebral [[Decay|decay]].
+You can (with luck) break a [[Window|window]] with a toy arrow; but you can hardly
+bombard a town with a toy gun.  If people object to the mere model
+of a cannon, they must equally object to the picture of a cannon,
+and so to every picture in the world that depicts a [[Sword|sword]] or a spear.
+There would be a splendid clearance of all the great art-galleries
+of the world.  But it would be nothing to the destruction of all
+the great libraries of the world, if we logically extended the principle
+to all the literary masterpieces that admit the glory of arms.
+When this progress had gone on for a century or two, it might begin to
+[[Dawn|dawn]] on people that there was something wrong with their moral principle.
+What is wrong with their moral principle is that it is immoral.
+Arms, like every other adventure or art of man, have two sides according
+as they are invoked for the infliction or the defiance of wrong.
+They have also an element of real poetry and an element of realistic
+and therefore repulsive prose.  The [[Child|child]]'s symbolic [[Sword|sword]] and bow
+are simply the poetry without the prose; the good without the evil.
+The toy [[Sword|sword]] is the abstraction and emanation of the heroic,
+apart from all its horrible accidents.  It is the [[Soul|soul]] of the [[Sword|sword]],
+that will never be stained with [[Blood|blood]].
+
 --
 
 FALSE THEORY AND THE THEATRE
@@ -26,7 +59,7 @@ who is clever enough to know better, defended it on the ground
 that nothing must interfere with the perfection of a work of art.
 I dispute the moral thesis in any case; and Nero would no [[Doubt|doubt]]
 have urged it in defence of having real deaths in the amphitheatre.
-I do not admit in any case that the [[artist]] can be entirely indifferent
+I do not admit in any case that the [[Artist|artist]] can be entirely indifferent
 to hunger and unemployment, any more than to lions or boiling oil.
 But, as a matter of fact, there is no need to raise the moral question,
 because the case is equally strong in relation to the artistic question.
@@ -36,8 +69,8 @@ I think it is the last and lowest phase of the vulgarity that is
 called realism.  It is in the same style and taste as the triumphs
 on which, I believe, some actor-managers have prided themselves:
 the triumphs of having real silver for goblets or real jewels for crowns.
-That is not the spirit of a perfect [[artist]], but rather of a
-purse-proud parvenu.  The perfect [[artist]] would be he who could put
+That is not the spirit of a perfect [[Artist|artist]], but rather of a
+purse-proud parvenu.  The perfect [[Artist|artist]] would be he who could put
 on a [[Crown|crown]] of gilt wire or tinsel and make us feel he was a [[King|king]].
 
 Moreover, if the principle is to be extended from properties
@@ -85,7 +118,7 @@ the arts if I say simply that I do not believe in the resemblance.
 I do not believe that a Chinaman does look like a Chinaman.
 That is, I do not believe that any Chinaman will necessarily
 look like _the_ Chinaman--the Chinaman in the [[Imagination|imagination]] of
-the [[artist]] and the interest of the crowd.  We all know the [[Fable|fable]]
+the [[Artist|artist]] and the interest of the crowd.  We all know the [[Fable|fable]]
 of the man who imitated a pig, and his rival who was hooted
 by the crowd because he could only produce what was (in fact)
 the squeak of a real pig.  The crowd was perfectly right.
@@ -109,10 +142,10 @@ he might appear, and generally does appear, singularly unconscious
 of his own lack of feathers.  But the same principle is true
 of things more dignified than the most dignified porker,
 though clad in the most superb plumage.  If a vision of a stately
-Arab has risen in the [[Imagination|imagination]] of an author who is an [[artist]],
-he will be wise if he confides it to an actor who is also an [[artist]].
+Arab has risen in the [[Imagination|imagination]] of an author who is an [[Artist|artist]],
+he will be wise if he confides it to an actor who is also an [[Artist|artist]].
 He will be much wiser to confide it to an actor than to an Arab.
-The actor, being a fellow-countryman and a fellow-[[artist]], may bring
+The actor, being a fellow-countryman and a fellow-[[Artist|artist]], may bring
 out what the author thinks the Arab stands for; whereas the real
 Arab might be a particular individual who at that particular moment
 refused to stand for anything of the sort, or for anything at all.

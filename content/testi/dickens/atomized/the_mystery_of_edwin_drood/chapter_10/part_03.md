@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 9 (part 3)"
+title: "The Mystery of Edwin Drood — Chapter 9 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -13,6 +13,36 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_10/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_10/part_04">part 04 ›</a></div>
 </nav>
 
+
+“My visits,” said Mr. Grewgious, “are, like those of the angels—not
+that I compare myself to an angel.”
+
+“No, sir,” said Rosa.
+
+“Not by any means,” assented Mr. Grewgious. “I merely refer to my
+visits, which are few and far between. The angels are, we know very
+[[Well|well]], up-stairs.”
+
+Miss Twinkleton looked round with a kind of stiff stare.
+
+“I refer, my dear,” said Mr. Grewgious, laying his hand on Rosa’s, as
+the possibility thrilled through his frame of his otherwise seeming to
+take the awful liberty of calling Miss Twinkleton my dear; “I refer to
+the other young ladies.”
+
+Miss Twinkleton resumed her writing.
+
+Mr. Grewgious, with a sense of not having managed his opening point
+quite as neatly as he might have desired, smoothed his head from back
+to front as if he had just dived, and were pressing the [[Water|water]] out—this
+smoothing action, however superfluous, was habitual with him—and took a
+pocket-book from his coat-pocket, and a stump of black-lead pencil from
+his waistcoat-pocket.
+
+“I made,” he said, turning the [[Leaves|leaves]]: “I made a guiding memorandum or
+so—as I usually do, for I have no conversational powers whatever—to
+which I will, with your permission, my dear, refer. ‘[[Well]] and happy.’
+Truly. You are [[Well|well]] and happy, my dear? You look so.”
 
 “Yes, indeed, sir,” answered Rosa.
 
@@ -112,30 +142,3 @@ feelings of the officiating clergyman, and of yourself, and the
 bridegroom, and all parties concerned. I am—I am a particularly Angular
 man,” said Mr. Grewgious, as if he had made up his mind to screw it out
 at last: “and should only blunder.”
-
-Rosa sat still and silent. Perhaps her mind had not got quite so far as
-the ceremony yet, but was lagging on the way there.
-
-“Memorandum, ‘Will.’ Now, my dear,” said Mr. Grewgious, referring to
-his notes, disposing of “[[Marriage]]” with his pencil, and taking a paper
-from his pocket; “although I have before possessed you with the
-contents of your father’s will, I think it right at this [[Time|time]] to leave
-a certified copy of it in your hands. And although Mr. Edwin is also
-aware of its contents, I think it right at this [[Time|time]] likewise to place
-a certified copy of it in Mr. Jasper’s hand—”
-
-“Not in his own!” asked Rosa, looking up quickly. “Cannot the copy go
-to Eddy himself?”
-
-“Why, yes, my dear, if you particularly wish it; but I spoke of Mr.
-Jasper as being his trustee.”
-
-“I do particularly wish it, if you please,” said Rosa, hurriedly and
-earnestly; “I don’t like Mr. Jasper to come between us, in any way.”
-
-“It is natural, I suppose,” said Mr. Grewgious, “that your young
-husband should be all in all. Yes. You observe that I say, I suppose.
-The fact is, I am a particularly Unnatural man, and I don’t know from
-my own knowledge.”
-
-Rosa looked at him with some [[Wonder|wonder]].

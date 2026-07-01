@@ -1,5 +1,5 @@
 ---
-title: "whats wrong — Part 2 (part 5)"
+title: "whats wrong — Part 3 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/whats-wrong-(chesterton)"
@@ -10,132 +10,122 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/whats-wrong-(chesterton)">whats wrong</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/whats_wrong/chapter_07/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/whats_wrong/chapter_08/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/whats_wrong/chapter_07/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/whats_wrong/chapter_07/part_06">part 06 ›</a></div>
 </nav>
 
 
-Man, therefore, has a specialist as [[Well|well]] as comrade-like aspect;
-and the case of militarism is not the only case of such
-specialist submission.  The tinker and tailor, as [[Well|well]] as the soldier
-and sailor, require a certain rigidity of rapidity of action:
-at least, if the tinker is not organized that is largely why he does
-not tink on any large scale.  The tinker and tailor often represent
-the two nomadic races in Europe:  the Gipsy and the Jew; but the Jew
-[[Alone|alone]] has influence because he [[Alone|alone]] accepts some sort of discipline.
-Man, we say, has two sides, the specialist side where he must
-have subordination, and the social side where he must have equality.
-There is a [[Truth|truth]] in the saying that ten tailors go to make a man;
-but we must remember also that ten Poets Laureate or ten Astronomers Royal
-go to make a man, too.  Ten million tradesmen go to make Man himself;
-but humanity consists of tradesmen when they are not talking shop.
-Now the peculiar peril of our [[Time|time]], which I call for argument's sake
-Imperialism or Caesarism, is the complete eclipse of [[Comradeship|comradeship]]
-and equality by specialism and domination.
+Unfortunately for this book it is written by a male, and these
+two qualities, if not hateful to a man, are at least hateful in a man.
+But if we are to settle the sex question at all fairly,
+all males must make an imaginative attempt to enter into
+the attitude of all good women toward these two things.
+The difficulty exists especially, perhaps, in the thing called thrift;
+we men have so much encouraged each other in throwing money
+right and left, that there has come at last to be a sort
+of chivalrous and poetical air about losing sixpence.
+But on a broader and more candid consideration the case
+scarcely stands so.
 
-There are only two kinds of social structure conceivable--
-personal [[government]] and impersonal [[government]].  If my
-anarchic friends will not have rules--they will have rulers.
-Preferring personal [[government]], with its tact and flexibility,
-is called Royalism.  Preferring impersonal [[government]],
-with its dogmas and definitions, is called Republicanism.
-Objecting broadmindedly both to kings and creeds is called Bosh;
-at least, I know no more philosophic word for it.  You can
-be guided by the shrewdness or presence of mind of one ruler,
-or by the equality and ascertained justice of one rule; but you must
-have one or the other, or you are not a nation, but a nasty mess.
-Now men in their aspect of equality and [[debate]] adore the idea
-of rules; they develop and complicate them greatly to excess.
-A man finds far more regulations and definitions in his club,
-where there are rules, than in his [[Home|home]], where there is a ruler.
-A deliberate assembly, the [[house|House]] of Commons, for instance,
-carries this mummery to the point of a methodical [[Madness|madness]].
-The whole system is stiff with rigid unreason;
-like the Royal [[Court]] in Lewis Carroll.  You would think
-the Speaker would speak; therefore he is mostly silent.
-You would think a man would take off his hat to stop and put
-it on to go away; therefore he takes off his hat to walk out
-and puts it on to stop in.  Names are forbidden, and a man
-must call his own father "my right honorable friend the member
-for West Birmingham."  These are, perhaps, fantasies of [[Decay|decay]]:
-but fundamentally they answer a masculine appetite.
-Men feel that rules, even if irrational, are universal;
-men feel that law is equal, even when it is not equitable.
-There is a wild fairness in the thing--as there is in tossing up.
+Thrift is the really romantic thing; economy is more romantic
+than extravagance.  Heaven knows I for one speak disinterestedly
+in the matter; for I cannot clearly remember saving a half-penny ever
+since I was born.  But the thing is true; economy, properly understood,
+is the more poetic.  Thrift is poetic because it is creative;
+waste is unpoetic because it is waste.  It is prosaic to throw
+money away, because it is prosaic to throw anything away;
+it is negative; it is a confession of indifference, that is,
+it is a confession of failure.  The most prosaic thing about
+the [[house]] is the dustbin, and the one great objection to the new
+fastidious and aesthetic homestead is simply that in such
+a moral menage the dustbin must be bigger than the [[house]].
+If a man could undertake to make use of all things in his dustbin
+he would be a broader genius than Shakespeare.  When science
+began to use by-products; when science found that colors could
+be made out of coaltar, she made her greatest and perhaps
+her only claim on the real respect of the human [[Soul|soul]].
+Now the aim of the good woman is to use the by-products, or,
+in other words, to rummage in the dustbin.
 
-Again, it is gravely unfortunate that when critics do attack
-such cases as the Commons it is always on the points
-(perhaps the few points) where the Commons are right.
-They denounce the [[house|House]] as the Talking-Shop, and complain that it
-wastes [[Time|time]] in wordy mazes.  Now this is just one respect in
-which the Commons are actually like the Common People.  If they
-[[Love|love]] leisure and long [[debate]], it is because all men [[Love|love]] it;
-that they really represent England.  There the Parliament does
-approach to the virile virtues of the pothouse.
+A man can only fully comprehend it if he thinks of some sudden joke
+or expedient got up with such materials as may be found in a private
+[[house]] on a rainy day.  A man's definite daily work is generally
+run with such rigid convenience of modern science that thrift,
+the picking up of potential helps here and there, has almost
+become unmeaning to him.  He comes across it most (as I say)
+when he is playing some game within four walls; when in charades,
+a hearthrug will just do for a fur coat, or a tea-cozy just do
+for a cocked hat; when a toy theater needs timber and cardboard,
+and the [[house]] has just enough firewood and just enough bandboxes.
+This is the man's occasional glimpse and pleasing [[Parody|parody]] of thrift.
+But many a good housekeeper plays the same game every day
+with ends of [[cheese]] and scraps of silk, not because she is mean,
+but on the contrary, because she is magnanimous; because she
+wishes her creative [[Mercy|mercy]] to be over all her works, that not one
+sardine should be destroyed, or cast as rubbish to the void,
+when she has made the pile complete.
 
-The real [[Truth|truth]] is that adumbrated in the introductory section
-when we spoke of the sense of [[Home|home]] and property, as now we speak
-of the sense of counsel and community.  All men do naturally
-[[Love|love]] the idea of leisure, laughter, loud and equal argument;
-but there stands a specter in our hall.  We are conscious
-of the towering modern challenge that is called specialism
-or cut-throat competition--Business.  Business will have nothing
-to do with leisure; business will have no truck with [[Comradeship|comradeship]];
-business will pretend to no patience with all the legal
-fictions and fantastic handicaps by which [[Comradeship|comradeship]] protects
-its egalitarian ideal.  The modern millionaire, when engaged
-in the agreeable and typical task of sacking his own father,
-will certainly not refer to him as the right honorable clerk from
-the Laburnum [[Road]], Brixton.  Therefore there has arisen in modern
-life a literary fashion devoting itself to the [[Romance|romance]] of business,
-to great demigods of [[Greed|greed]] and to fairyland of finance.
-This popular [[philosophy]] is utterly despotic and anti-democratic;
-this fashion is the flower of that Caesarism against which I am
-concerned to protest.  The ideal millionaire is strong in the
-possession of a brain of steel.  The fact that the real millionaire
-is rather more often strong in the possession of a head of wood,
-does not alter the spirit and trend of the idolatry.  The essential
-argument is "Specialists must be despots; men must be specialists.
-You cannot have equality in a soap factory; so you cannot have
-it anywhere.  You cannot have [[Comradeship|comradeship]] in a wheat corner;
-so you cannot have it at all.  We must have commercial civilization;
-therefore we must destroy [[democracy]]."  I know that plutocrats have
-seldom sufficient fancy to soar to such examples as soap or wheat.
-They generally confine themselves, with fine freshness of mind,
-to a comparison between the state and a [[Ship|ship]].  One anti-democratic
-writer remarked that he would not like to sail in a vessel
-in which the cabin-boy had an equal vote with the captain.
-It might easily be urged in answer that many a [[Ship|ship]] (the Victoria,
-for instance) was sunk because an admiral gave an order which a
-cabin-boy could see was wrong.  But this is a debating reply;
-the essential fallacy is both deeper and simpler.  The elementary fact
-is that we were all born in a state; we were not all born on a [[Ship|ship]];
-like some of our great British bankers.  A [[Ship|ship]] still remains
-a specialist experiment, like a diving-bell or a flying [[Ship|ship]]:
-in such peculiar perils the need for promptitude constitutes the need
-for autocracy.  But we live and die in the vessel of the state;
-and if we cannot find [[Freedom|freedom]] camaraderie and the popular element
-in the state, we cannot find it at all.  And the modern doctrine
-of commercial despotism means that we shall not find it at all.
-Our specialist trades in their highly civilized state cannot
-(it says) be run without the whole brutal business of bossing
-and sacking, "too old at forty" and all the rest of the filth.
-And they must be run, and therefore we call on Caesar.  Nobody but
-the Superman could descend to do such dirty work.
-
-Now (to reiterate my title) this is what is wrong.  This is the huge
-modern heresy of altering the human [[Soul|soul]] to fit its conditions,
-instead of altering human conditions to fit the human [[Soul|soul]].
-If soap boiling is really inconsistent with brotherhood,
-so much the worst for soap-boiling, not for brotherhood.
-If civilization really cannot get on with [[democracy]], so much
-the worse for civilization, not for [[democracy]].  Certainly, it would
-be far better to go back to village communes, if they really
-are communes.  Certainly, it would be better to do without soap
-rather than to do without society.  Certainly, we would sacrifice
-all our wires, wheels, systems, specialties, physical science
-and frenzied finance for one half-hour of happiness such
-as has often come to us with comrades in a common tavern.
-I do not say the sacrifice will be necessary; I only say it
-will be easy.
-
-* * *
+The modern world must somehow be made to understand
+(in theology and other things) that a view may be vast,
+broad, universal, liberal and yet come into conflict with
+another view that is vast, broad, universal and liberal also.
+There is never a war between two sects, but only between two
+universal Catholic Churches.  The only possible collision
+is the collision of one cosmos with another.  So in a smaller
+way it must be first made clear that this female economic ideal
+is a part of that female variety of outlook and all-round
+art of life which we have already attributed to the sex:
+thrift is not a small or timid or provincial thing; it is part
+of that great idea of the woman watching on all sides out of all
+the windows of the [[Soul|soul]] and being answerable for everything.
+For in the average human [[house]] there is one hole by
+which money comes in and a hundred by which it goes out;
+man has to do with the one hole, woman with the hundred.
+But though the very stinginess of a woman is a part of her
+spiritual breadth, it is none the less true that it brings her
+into conflict with the special kind of spiritual breadth that
+belongs to the males of the tribe.  It brings her into conflict
+with that shapeless cataract of [[Comradeship]], of chaotic feasting
+and deafening [[debate]], which we noted in the last section.
+The very touch of the eternal in the two sexual tastes brings
+them the more into antagonism; for one stands for a universal
+vigilance and the other for an almost infinite output.
+Partly through the [[Nature|nature]] of his moral weakness, and partly
+through the [[Nature|nature]] of his physical strength, the male is
+normally prone to expand things into a sort of [[Eternity|eternity]];
+he always thinks of a dinner party as lasting all [[Night|night]];
+and he always thinks of a [[Night|night]] as lasting forever.
+When the working women in the poor districts come to the doors
+of the public houses and try to get their husbands [[Home|home]],
+simple minded "social workers" always imagine that every husband
+is a tragic drunkard and every wife a broken-hearted saint.
+It never occurs to them that the poor woman is only doing under
+coarser conventions exactly what every fashionable hostess does
+when she tries to get the men from arguing over the cigars to come
+and gossip over the teacups.  These women are not exasperated
+merely at the amount of money that is wasted in beer; they are
+exasperated also at the amount of [[Time|time]] that is wasted in talk.
+It is not merely what goeth into the mouth but what cometh
+out the mouth that, in their opinion, defileth a man.
+They will raise against an argument (like their sisters of all ranks)
+the ridiculous objection that nobody is convinced by it;
+as if a man wanted to make a [[Body|body]]-slave of anybody with whom he had
+played single-stick. But the real female prejudice on this point
+is not without a basis; the real feeling is this, that the most
+masculine pleasures have a quality of the [[ephemeral]].  A duchess
+may ruin a duke for a diamond necklace; but there is the necklace.
+A coster may ruin his wife for a pot of beer; and where is the beer?
+The duchess quarrels with another duchess in order to crush her,
+to produce a result; the coster does not argue with another
+coster in order to convince him, but in order to enjoy at once
+the sound of his own voice, the clearness of his own opinions
+and the sense of masculine society.  There is this element
+of a fine fruitlessness about the male enjoyments; wine is poured
+into a bottomless bucket; thought plunges into a bottomless abyss.
+All this has set woman against the Public [[house|House]]--that is,
+against the Parliament [[house|House]].  She is there to prevent waste;
+and the "pub" and the parliament are the very palaces of waste.
+In the upper classes the "pub" is called the club, but that makes
+no more difference to the reason than it does to the rhyme.
+High and low, the woman's objection to the Public [[house|House]] is
+perfectly definite and rational, it is that the Public [[house|House]]
+wastes the energies that could be used on the private [[house]].

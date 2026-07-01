@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 78"
+title: "Barnaby Rudge — Chapter 78"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -69,7 +69,7 @@ poorer than a church mouse? You know that. That I have come back, maimed
 and crippled? You know that.’
 
 ‘It was took off,’ muttered Mr Willet, with his eyes upon the [[Fire|fire]], ‘at
-the defence of the Salwanners, in [[America]], where the war is.’
+the defence of the Salwanners, in [[america|America]], where the war is.’
 
 ‘Quite right,’ returned Joe, smiling, and leaning with his remaining
 elbow on the back of his father’s chair; ‘the very subject I came to

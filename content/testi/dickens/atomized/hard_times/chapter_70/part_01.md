@@ -1,5 +1,5 @@
 ---
-title: "Hard Times — Chapter 2 (part 1)"
+title: "Hard Times — Chapter 5 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/hard-times-(dickens)"
@@ -10,138 +10,132 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/hard-times-(dickens)">Hard Times</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/hard_times/chapter_69/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/hard_times/chapter_70/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/hard_times/chapter_69/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/hard_times/chapter_70/part_02">part 02 ›</a></div>
 </nav>
 
 
-CHAPTER II
-VERY RIDICULOUS
+CHAPTER V
+FOUND
 
 
-MR. [[James Harthouse|JAMES HARTHOUSE]] passed a whole [[Night|night]] and a day in a state of so much
-hurry, that the World, with its best glass in his eye, would scarcely
-have recognized him during that insane interval, as the brother Jem of
-the honourable and jocular member.  He was positively agitated.  He
-several times spoke with an emphasis, similar to the vulgar manner.  He
-went in and went out in an unaccountable way, like a man without an
-object.  He rode like a highwayman.  In a word, he was so horribly bored
-by existing circumstances, that he forgot to go in for boredom in the
-manner prescribed by the authorities.
+DAY and [[Night|night]] again, day and [[Night|night]] again.  No [[Stephen Blackpool]].  Where
+was the man, and why did he not come back?
 
-After putting his [[Horse|horse]] at Coketown through the [[Storm|storm]], as if it were a
-leap, he waited up all [[Night|night]]: from [[Time|time]] to [[Time|time]] ringing his bell with the
-greatest fury, charging the porter who kept watch with delinquency in
-withholding letters or messages that could not fail to have been
-entrusted to him, and demanding restitution on the spot.  The [[Dawn|dawn]]
-coming, the morning coming, and the day coming, and neither message nor
-letter coming with either, he went down to the country [[house]].  There, the
-report was, Mr. Bounderby away, and Mrs. Bounderby in town.  Left for
-town suddenly last evening.  Not even known to be gone until receipt of
-message, importing that her return was not to be expected for the
-present.
+Every [[Night|night]], Sissy went to Rachael’s lodging, and sat with her in her
+small neat room.  All day, Rachael toiled as such people must toil,
+whatever their anxieties.  The smoke-serpents were indifferent who was
+lost or found, who turned out bad or good; the [[Melancholy|melancholy]] mad elephants,
+like the Hard Fact men, abated nothing of their set routine, whatever
+happened.  Day and [[Night|night]] again, day and [[Night|night]] again.  The monotony was
+unbroken.  Even [[Stephen Blackpool]]’s disappearance was falling into the
+general way, and becoming as monotonous a [[Wonder|wonder]] as any piece of
+machinery in Coketown.
 
-In these circumstances he had nothing for it but to follow her to town.
-He went to the [[house]] in town.  Mrs. Bounderby not there.  He looked in at
-the Bank.  Mr. Bounderby away and Mrs. Sparsit away.  Mrs. Sparsit away?
-Who could have been reduced to sudden extremity for the company of that
-griffin!
+‘I misdoubt,’ said Rachael, ‘if there is as many as twenty left in all
+this place, who have any trust in the poor dear lad now.’
 
-‘[[Well]]!  I don’t know,’ said Tom, who had his own reasons for being uneasy
-about it.  ‘She was off somewhere at daybreak this morning.  She’s always
-full of mystery; I hate her.  So I do that white chap; he’s always got
-his blinking eyes upon a fellow.’
+She said it to Sissy, as they sat in her lodging, lighted only by the
+lamp at the street corner.  Sissy had come there when it was already
+dark, to await her return from work; and they had since sat at the [[Window|window]]
+where Rachael had found her, wanting no brighter light to shine on their
+sorrowful talk.
 
-‘Where were you last [[Night|night]], Tom?’
+‘If it hadn’t been mercifully brought about, that I was to have you to
+speak to,’ pursued Rachael, ‘times are, when I think my mind would not
+have kept right.  But I get [[Hope|hope]] and strength through you; and you
+believe that though appearances may rise against him, he will be proved
+clear?’
 
-‘Where was I last [[Night|night]]!’ said Tom.  ‘Come!  I like that.  I was waiting
-for you, Mr. Harthouse, till it came down as _I_ never saw it come down
-before.  Where was I too!  Where were you, you mean.’
+‘I do believe so,’ returned Sissy, ‘with my whole heart.  I feel so
+certain, Rachael, that the confidence you hold in yours against all
+discouragement, is not like to be wrong, that I have no more [[Doubt|doubt]] of him
+than if I had known him through as many years of trial as you have.’
 
-‘I was prevented from coming—detained.’
+‘And I, my dear,’ said Rachel, with a tremble in her voice, ‘have known
+him through them all, to be, according to his quiet ways, so faithful to
+everything honest and good, that if he was never to be heard of more, and
+I was to live to be a hundred years old, I could say with my last breath,
+God knows my heart.  I have never once left trusting [[Stephen Blackpool]]!’
 
-‘Detained!’ murmured Tom.  ‘Two of us were detained.  I was detained
-looking for you, till I lost every train but the mail.  It would have
-been a pleasant job to go down by that on such a [[Night|night]], and have to walk
-[[Home|home]] through a pond.  I was obliged to [[Sleep|sleep]] in town after all.’
+‘We all believe, up at the Lodge, Rachael, that he will be freed from
+suspicion, sooner or later.’
 
-‘Where?’
+‘The better I know it to be so believed there, my dear,’ said Rachael,
+‘and the kinder I feel it that you come away from there, purposely to
+comfort me, and keep me company, and be seen wi’ me when I am not yet
+free from all suspicion myself, the more grieved I am that I should ever
+have spoken those mistrusting words to the young lady.  And yet I—’
 
-‘Where?  Why, in my own bed at Bounderby’s.’
+‘You don’t mistrust her now, Rachael?’
 
-‘Did you see your sister?’
+‘Now that you have brought us more together, no.  But I can’t at all
+times keep out of my mind—’
 
-‘How the deuce,’ returned Tom, staring, ‘could I see my sister when she
-was fifteen miles off?’
+Her voice so sunk into a low and slow communing with herself, that Sissy,
+sitting by her side, was obliged to listen with attention.
 
-Cursing these quick retorts of the young gentleman to whom he was so true
-a friend, Mr. Harthouse disembarrassed himself of that interview with the
-smallest conceivable amount of ceremony, and debated for the hundredth
-[[Time|time]] what all this could mean?  He made only one thing clear.  It was,
-that whether she was in town or out of town, whether he had been
-premature with her who was so hard to comprehend, or she had lost
-[[Courage|courage]], or they were discovered, or some mischance or mistake, at
-present incomprehensible, had occurred, he must remain to confront his
-fortune, whatever it was.  The hotel where he was known to live when
-condemned to that region of blackness, was the stake to which he was
-tied.  As to all the rest—What will be, will be.
+‘I can’t at all times keep out of my mind, mistrustings of some one.  I
+can’t think who ’tis, I can’t think how or why it may be done, but I
+mistrust that some one has put Stephen out of the way.  I mistrust that
+by his coming back of his own accord, and showing himself [[Innocent|innocent]] before
+them all, some one would be confounded, who—to prevent that—has stopped
+him, and put him out of the way.’
 
-‘So, whether I am waiting for a hostile message, or an assignation, or a
-penitent remonstrance, or an impromptu wrestle with my friend Bounderby
-in the Lancashire manner—which would seem as likely as anything else in
-the present state of affairs—I’ll dine,’ said Mr. [[James Harthouse]].
-‘Bounderby has the advantage in point of weight; and if anything of a
-British [[Nature|nature]] is to come off between us, it may be as [[Well|well]] to be in
-training.’
+‘That is a dreadful thought,’ said Sissy, turning pale.
 
-Therefore he rang the bell, and tossing himself negligently on a sofa,
-ordered ‘Some dinner at six—with a beefsteak in it,’ and got through the
-intervening [[Time|time]] as [[Well|well]] as he could.  That was not particularly [[Well|well]];
-for he remained in the greatest perplexity, and, as the hours went on,
-and no kind of explanation offered itself, his perplexity augmented at
-compound interest.
+‘It _is_ a dreadful thought to think he may be murdered.’
 
-However, he took affairs as coolly as it was in human [[Nature|nature]] to do, and
-entertained himself with the facetious idea of the training more than
-once.  ‘It wouldn’t be bad,’ he yawned at one [[Time|time]], ‘to give the waiter
-five shillings, and throw him.’  At another [[Time|time]] it occurred to him, ‘Or
-a fellow of about thirteen or fourteen stone might be hired by the hour.’
-But these jests did not tell materially on the afternoon, or his
-suspense; and, sooth to say, they both lagged fearfully.
+Sissy shuddered, and turned paler yet.
 
-It was impossible, even before dinner, to avoid often walking about in
-the pattern of the carpet, looking out of the [[Window|window]], listening at the
-door for footsteps, and occasionally becoming rather hot when any steps
-approached that room.  But, after dinner, when the day turned to
-twilight, and the twilight turned to [[Night|night]], and still no communication
-was made to him, it began to be as he expressed it, ‘like the Holy Office
-and slow torture.’  However, still true to his conviction that
-indifference was the genuine high-breeding (the only conviction he had),
-he seized this crisis as the opportunity for ordering candles and a
-newspaper.
+‘When it makes its way into my mind, dear,’ said Rachael, ‘and it will
+come sometimes, though I do all I can to keep it out, wi’ counting on to
+high numbers as I work, and saying over and over again pieces that I knew
+when I were a [[Child|child]]—I fall into such a wild, hot hurry, that, however
+tired I am, I want to walk fast, miles and miles.  I must get the better
+of this before bed-[[Time|time]].  I’ll walk [[Home|home]] wi’ you.’
 
-He had been trying in vain, for half an hour, to read this newspaper,
-when the waiter appeared and said, at once mysteriously and
-apologetically:
+‘He might fall ill upon the [[Journey|journey]] back,’ said Sissy, faintly offering a
+worn-out scrap of [[Hope|hope]]; ‘and in such a case, there are many places on the
+[[Road|road]] where he might stop.’
 
-‘Beg your pardon, sir.  You’re wanted, sir, if you please.’
+‘But he is in none of them.  He has been sought for in all, and he’s not
+there.’
 
-A general recollection that this was the kind of thing the Police said to
-the swell mob, caused Mr. Harthouse to ask the waiter in return, with
-bristling indignation, what the Devil he meant by ‘wanted’?
+‘True,’ was Sissy’s reluctant admission.
 
-‘Beg your pardon, sir.  Young lady outside, sir, wishes to see you.’
+‘He’d walk the [[Journey|journey]] in two days.  If he was footsore and couldn’t
+walk, I sent him, in the letter he got, the money to ride, lest he should
+have none of his own to spare.’
 
-‘Outside?  Where?’
+‘Let us [[Hope|hope]] that to-morrow will bring something better, Rachael.  Come
+into the air!’
 
-‘Outside this door, sir.’
+Her gentle hand adjusted Rachael’s shawl upon her shining black hair in
+the usual manner of her wearing it, and they went out.  The [[Night|night]] being
+fine, little knots of Hands were here and there lingering at street
+corners; but it was supper-[[Time|time]] with the greater part of them, and there
+were but few people in the streets.
 
-Giving the waiter to the personage before mentioned, as a block-head duly
-qualified for that consignment, Mr. Harthouse hurried into the gallery.
-A young woman whom he had never seen stood there.  Plainly dressed, very
-quiet, very pretty.  As he conducted her into the room and placed a chair
-for her, he observed, by the light of the candles, that she was even
-prettier than he had at first believed.  Her face was [[Innocent|innocent]] and
-youthful, and its expression remarkably pleasant.  She was not afraid of
-him, or in any way disconcerted; she seemed to have her mind entirely
-preoccupied with the occasion of her visit, and to have substituted that
-consideration for herself.
+‘You’re not so hurried now, Rachael, and your hand is cooler.’
+
+‘I get better, dear, if I can only walk, and breathe a little fresh.
+‘Times when I can’t, I turn weak and confused.’
+
+‘But you must not begin to fail, Rachael, for you may be wanted at any
+[[Time|time]] to stand by Stephen.  To-morrow is Saturday.  If no news comes
+to-morrow, let us walk in the country on [[Sunday]] morning, and strengthen
+you for another week.  Will you go?’
+
+‘Yes, dear.’
+
+They were by this [[Time|time]] in the street where Mr. Bounderby’s [[house]] stood.
+The way to Sissy’s destination led them past the door, and they were
+going straight towards it.  Some train had newly arrived in Coketown,
+which had put a number of vehicles in motion, and scattered a
+considerable bustle about the town.  Several coaches were rattling before
+them and behind them as they approached Mr. Bounderby’s, and one of the
+latter drew up with such briskness as they were in the act of passing the
+[[house]], that they looked round involuntarily.  The bright gaslight over
+Mr. Bounderby’s steps showed them Mrs. Sparsit in the coach, in an
+ecstasy of excitement, struggling to open the door; Mrs. Sparsit seeing
+them at the same moment, called to them to stop.

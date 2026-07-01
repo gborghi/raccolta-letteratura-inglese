@@ -1,5 +1,5 @@
 ---
-title: "ANTONY AND [[Cleopatra|CLEOPATRA]]"
+title: "ANTONY AND CLEOPATRA"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/antony-and-cleopatra-(shakespeare)"

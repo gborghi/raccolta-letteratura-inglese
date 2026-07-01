@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 16 (part 4)"
+title: "Shirley — Chapter 16 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,26 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_16/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_17/part_01">part 01 ›</a></div>
 </nav>
 
+
+and gave her serious or smiling conversation a happy charm; nor did it
+
+diminish the value of her intimate [[Friendship|friendship]], which was a distinct
+
+thing from this social benevolence--depending, indeed, on quite a
+
+different part of her character. Miss Helstone was the choice of her
+
+affection and intellect; the Misses Pearson, Sykes, Wynne, etc., etc.,
+
+only the profiteers by her good-[[Nature|nature]] and vivacity.
+
+
+
+Donne happened to come into the drawing-room while [[Shirley]], sitting on
+
+the sofa, formed the centre of a tolerably wide circle. She had already
+
+forgotten her exasperation against him, and she bowed and smiled
 
 good-humouredly. The disposition of the man was then seen. He knew
 

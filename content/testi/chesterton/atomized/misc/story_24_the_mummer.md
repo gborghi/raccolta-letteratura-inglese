@@ -1,5 +1,5 @@
 ---
-title: "[[misc]] — THE MUMMER"
+title: "misc — THE MUMMER"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 THE MUMMER
-
 
 The [[Night|night]] before Christmas Eve I heard a burst of musical voices
 so close that they might as [[Well|well]] have been inside the [[house]] instead

@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 14"
+title: "Our Mutual Friend — Chapter 15"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,371 +14,687 @@ tags:
 </nav>
 
 
-Chapter 14
-
-THE BIRD OF PREY BROUGHT DOWN
-
-
-Cold on the shore, in the raw cold of that leaden crisis in the
-four-and-twenty hours when the vital force of all the noblest and
-prettiest things that live is at its lowest, the three watchers looked
-each at the blank faces of the other two, and all at the blank face of
-Riderhood in his boat.
-
-‘Gaffer’s boat, Gaffer in luck again, and yet no Gaffer!’ So spake
-Riderhood, staring disconsolate.
-
-As if with one accord, they all turned their eyes towards the light of
-the [[Fire|fire]] shining through the [[Window|window]]. It was fainter and duller. Perhaps
-[[Fire|fire]], like the higher animal and vegetable life it helps to sustain, has
-its greatest tendency towards [[Death|death]], when the [[Night|night]] is dying and the day
-is not yet born.
-
-‘If it was me that had the law of this here job in hand,’ growled
-Riderhood with a threatening shake of his head, ‘blest if I wouldn’t lay
-hold of HER, at any rate!’
-
-‘Ay, but it is not you,’ said Eugene. With something so suddenly fierce
-in him that the informer returned submissively; ‘[[Well]], [[Well|well]], [[Well|well]],
-t’other governor, I didn’t say it was. A man may speak.’
-
-‘And vermin may be silent,’ said Eugene. ‘Hold your tongue, you
-[[Water|water]]-rat!’
-
-Astonished by his friend’s unusual heat, Lightwood stared too, and then
-said: ‘What can have become of this man?’
-
-‘Can’t imagine. Unless he dived overboard.’ The informer wiped his
-brow ruefully as he said it, sitting in his boat and always staring
-disconsolate.
-
-‘Did you make his boat fast?’
-
-‘She’s fast enough till the tide runs back. I couldn’t make her faster
-than she is. Come aboard of mine, and see for your own-selves.’
-
-There was a little backwardness in complying, for the freight looked too
-much for the boat; but on Riderhood’s protesting ‘that he had had half a
-dozen, dead and alive, in her afore now, and she was nothing deep in the
-[[Water|water]] nor down in the stern even then, to speak of;’ they carefully took
-their places, and trimmed the crazy thing. While they were doing so,
-Riderhood still sat staring disconsolate.
-
-‘All right. Give way!’ said Lightwood.
-
-‘Give way, by George!’ repeated Riderhood, before shoving off. ‘If he’s
-gone and made off any how Lawyer Lightwood, it’s enough to make me give
-way in a different manner. But he always WAS a cheat, con-found him!
-He always was a infernal cheat, was Gaffer. Nothing straightfor’ard,
-nothing on the square. So mean, so underhanded. Never going through with
-a thing, nor carrying it out like a man!’
-
-‘Hallo! Steady!’ cried Eugene (he had recovered immediately on
-embarking), as they bumped heavily against a pile; and then in a lower
-voice reversed his late apostrophe by remarking (‘I wish the boat of my
-honourable and gallant friend may be endowed with philanthropy enough
-not to turn [[Bottom|bottom]]-upward and extinguish us!) Steady, steady! Sit close,
-Mortimer. Here’s the hail again. See how it flies, like a troop of wild
-cats, at Mr Riderhood’s eyes!’
-
-Indeed he had the full benefit of it, and it so mauled him, though he
-bent his head low and tried to present nothing but the mangy cap to it,
-that he dropped under the lee of a tier of shipping, and they lay there
-until it was over. The squall had come up, like a spiteful messenger
-before the morning; there followed in its wake a ragged tear of light
-which ripped the dark clouds until they showed a great grey hole of day.
-
-They were all shivering, and everything about them seemed to be
-shivering; the [[River|river]] itself; craft, rigging, sails, such early smoke as
-there yet was on the shore. Black with wet, and altered to the eye by
-white patches of hail and sleet, the huddled buildings looked lower
-than usual, as if they were cowering, and had shrunk with the cold. Very
-little life was to be seen on either bank, windows and doors were shut,
-and the staring black and white letters upon wharves and warehouses
-‘looked,’ said Eugene to Mortimer, ‘like inscriptions over the graves of
-dead businesses.’
-
-As they glided slowly on, keeping under the shore and sneaking in and
-out among the shipping by back-alleys of [[Water|water]], in a pilfering way
-that seemed to be their boatman’s normal manner of progression, all
-the objects among which they crept were so huge in contrast with their
-wretched boat, as to threaten to crush it. Not a [[Ship|ship]]’s hull, with its
-rusty iron links of cable run out of hawse-holes long discoloured with
-the iron’s rusty [[Tears|tears]], but seemed to be there with a fell intention.
-Not a figure-head but had the menacing look of bursting forward to run
-them down. Not a sluice gate, or a painted scale upon a post or wall,
-showing the depth of [[Water|water]], but seemed to hint, like the dreadfully
-facetious Wolf in bed in Grandmamma’s cottage, ‘That’s to drown YOU in,
-my dears!’ Not a lumbering black barge, with its cracked and blistered
-side impending over them, but seemed to suck at the [[River|river]] with a
-thirst for sucking them under. And everything so vaunted the spoiling
-influences of [[Water|water]]—discoloured copper, rotten wood, honey-combed
-stone, green dank deposit—that the after-consequences of being crushed,
-sucked under, and drawn down, looked as ugly to the [[Imagination|imagination]] as the
-main event.
+Chapter 15
+
+TWO NEW SERVANTS
+
 
-Some half-hour of this work, and Riderhood unshipped his sculls, stood
-holding on to a barge, and hand over hand long-wise along the barge’s
-side gradually worked his boat under her head into a secret little
-nook of scummy [[Water|water]]. And driven into that nook, and wedged as he had
-described, was Gaffer’s boat; that boat with the stain still in it,
-bearing some resemblance to a muffled human form.
-
-‘Now tell me I’m a liar!’ said the honest man.
-
-(‘With a morbid expectation,’ murmured Eugene to Lightwood, ‘that
-somebody is always going to tell him the [[Truth|truth]].’)
-
-‘This is Hexam’s boat,’ said Mr Inspector. ‘I know her [[Well|well]].’
-
-‘Look at the broken scull. Look at the t’other scull gone. NOW tell me I
-am a liar!’ said the honest man.
-
-Mr Inspector stepped into the boat. Eugene and Mortimer looked on.
-
-‘And see now!’ added Riderhood, creeping aft, and showing a stretched
-rope made fast there and towing overboard. ‘Didn’t I tell you he was in
-luck again?’
-
-‘Haul in,’ said Mr Inspector.
-
-‘Easy to say haul in,’ answered Riderhood. ‘Not so easy done. His luck’s
-got fouled under the keels of the barges. I tried to haul in last [[Time|time]],
-but I couldn’t. See how taut the line is!’
-
-‘I must have it up,’ said Mr Inspector. ‘I am going to take this boat
-ashore, and his luck along with it. Try easy now.’
-
-He tried easy now; but the luck resisted; wouldn’t come.
-
-‘I mean to have it, and the boat too,’ said Mr Inspector, playing the
-line.
-
-But still the luck resisted; wouldn’t come.
-
-‘Take care,’ said Riderhood. ‘You’ll disfigure. Or pull asunder
-perhaps.’
-
-‘I am not going to do either, not even to your Grandmother,’ said Mr
-Inspector; ‘but I mean to have it. Come!’ he added, at once persuasively
-and with authority to the hidden object in the [[Water|water]], as he played the
-line again; ‘it’s no good this sort of game, you know. You MUST come up.
-I mean to have you.’
-
-There was so much virtue in this distinctly and decidedly meaning to
-have it, that it yielded a little, even while the line was played.
-
-‘I told you so,’ quoth Mr Inspector, pulling off his outer coat, and
-leaning [[Well|well]] over the stern with a will. ‘Come!’
-
-It was an awful sort of fishing, but it no more disconcerted Mr
-Inspector than if he had been fishing in a punt on a [[Summer|summer]] evening by
-some soothing weir high up the peaceful [[River|river]]. After certain minutes,
-and a few directions to the rest to ‘ease her a little for’ard,’ and
-‘now ease her a trifle aft,’ and the like, he said composedly, ‘All
-clear!’ and the line and the boat came free together.
-
-Accepting Lightwood’s proffered hand to help him up, he then put on his
-coat, and said to Riderhood, ‘Hand me over those spare sculls of yours,
-and I’ll pull this in to the nearest stairs. Go ahead you, and keep out
-in pretty open [[Water|water]], that I mayn’t get fouled again.’
-
-His directions were obeyed, and they pulled ashore directly; two in one
-boat, two in the other.
-
-‘Now,’ said Mr Inspector, again to Riderhood, when they were all on the
-slushy stones; ‘you have had more practice in this than I have had, and
-ought to be a better workman at it. Undo the tow-rope, and we’ll help
-you haul in.’
-
-Riderhood got into the boat accordingly. It appeared as if he had
-scarcely had a moment’s [[Time|time]] to touch the rope or look over the stern,
-when he came scrambling back, as pale as the morning, and gasped out:
-
-‘By the Lord, he’s done me!’
-
-‘What do you mean?’ they all demanded.
-
-He pointed behind him at the boat, and gasped to that degree that he
-dropped upon the stones to get his breath.
-
-‘Gaffer’s done me. It’s Gaffer!’
-
-They ran to the rope, leaving him gasping there. Soon, the form of the
-bird of prey, dead some hours, lay stretched upon the shore, with a new
-blast storming at it and clotting the wet hair with hail-stones.
-
-Father, was that you calling me? Father! I thought I heard you call me
-twice before! Words never to be answered, those, upon the earth-side
-of the [[Grave|grave]]. The [[Wind|wind]] sweeps jeeringly over Father, whips him with the
-frayed ends of his dress and his jagged hair, tries to turn him where he
-lies stark on his back, and force his face towards the rising sun, that
-he may be shamed the more. A lull, and the [[Wind|wind]] is secret and prying
-with him; lifts and lets falls a rag; hides palpitating under another
-rag; runs nimbly through his hair and beard. Then, in a rush, it cruelly
-taunts him. Father, was that you calling me? Was it you, the voiceless
-and the dead? Was it you, thus buffeted as you lie here in a heap? Was
-it you, thus baptized unto [[Death]], with these flying impurities now flung
-upon your face? Why not speak, Father? Soaking into this filthy ground
-as you lie here, is your own shape. Did you never see such a shape
-soaked into your boat? Speak, Father. Speak to us, the winds, the only
-listeners left you!
-
-‘Now see,’ said Mr Inspector, after mature deliberation: kneeling on one
-knee beside the [[Body|body]], when they had stood looking down on the drowned
-man, as he had many a [[Time|time]] looked down on many another man: ‘the way of
-it was this. Of course you gentlemen hardly failed to observe that he
-was towing by the neck and arms.’
-
-They had helped to release the rope, and of course not.
-
-‘And you will have observed before, and you will observe now, that this
-knot, which was drawn chock-tight round his neck by the strain of his
-own arms, is a slip-knot’: holding it up for demonstration.
-
-Plain enough.
-
-‘Likewise you will have observed how he had run the other end of this
-rope to his boat.’
-
-It had the curves and indentations in it still, where it had been twined
-and bound.
-
-‘Now see,’ said Mr Inspector, ‘see how it works round upon him. It’s a
-wild tempestuous evening when this man that was,’ stooping to wipe
-some hailstones out of his hair with an end of his own drowned jacket,
-‘—there! Now he’s more like himself; though he’s badly bruised,—when
-this man that was, rows out upon the [[River|river]] on his usual lay. He carries
-with him this coil of rope. He always carries with him this coil of
-rope. It’s as [[Well|well]] known to me as he was himself. Sometimes it lay in
-the [[Bottom|bottom]] of his boat. Sometimes he hung it loose round his neck.
-He was a light-dresser was this man;—you see?’ lifting the loose
-neckerchief over his breast, and taking the opportunity of wiping the
-dead lips with it—‘and when it was wet, or freezing, or blew cold, he
-would hang this coil of line round his neck. Last evening he does this.
-Worse for him! He dodges about in his boat, does this man, till he gets
-chilled. His hands,’ taking up one of them, which dropped like a leaden
-weight, ‘get numbed. He sees some object that’s in his way of business,
-floating. He makes ready to secure that object. He unwinds the end of
-his coil that he wants to take some turns on in his boat, and he takes
-turns enough on it to secure that it shan’t run out. He makes it too
-secure, as it happens. He is a little longer about this than usual, his
-hands being numbed. His object drifts up, before he is quite ready for
-it. He catches at it, thinks he’ll make sure of the contents of the
-pockets anyhow, in case he should be parted from it, bends right over
-the stern, and in one of these heavy squalls, or in the [[Cross|cross]]-swell of
-two steamers, or in not being quite prepared, or through all or most or
-some, gets a lurch, overbalances and goes head-foremost overboard. Now
-see! He can swim, can this man, and instantly he strikes out. But in
-such striking-out he tangles his arms, pulls strong on the slip-knot,
-and it runs [[Home|home]]. The object he had expected to take in tow, floats by,
-and his own boat tows him dead, to where we found him, all entangled
-in his own line. You’ll ask me how I make out about the pockets? First,
-I’ll tell you more; there was silver in ’em. How do I make that out?
-Simple and satisfactory. Because he’s got it here.’ The lecturer held up
-the tightly clenched right hand.
-
-‘What is to be done with the remains?’ asked Lightwood.
-
-‘If you wouldn’t object to standing by him half a minute, sir,’ was
-the reply, ‘I’ll find the nearest of our men to come and take charge of
-him;—I still call it HIM, you see,’ said Mr Inspector, looking back as
-he went, with a philosophical smile upon the force of habit.
-
-‘Eugene,’ said Lightwood and was about to add ‘we may wait at a little
-distance,’ when turning his head he found that no Eugene was there.
-
-He raised his voice and called ‘Eugene! Holloa!’ But no Eugene replied.
-
-It was broad daylight now, and he looked about. But no Eugene was in all
-the view.
-
-Mr Inspector speedily returning down the wooden stairs, with a police
-constable, Lightwood asked him if he had seen his friend leave them? Mr
-Inspector could not exactly say that he had seen him go, but had noticed
-that he was restless.
-
-‘Singular and entertaining combination, sir, your friend.’
-
-‘I wish it had not been a part of his singular entertaining combination
-to give me the slip under these dreary circumstances at this [[Time|time]] of the
-morning,’ said Lightwood. ‘Can we get anything hot to drink?’
-
-We could, and we did. In a public-[[house]] kitchen with a large [[Fire|fire]]. We
-got hot brandy and [[Water|water]], and it revived us wonderfully. Mr Inspector
-having to Mr Riderhood announced his official intention of ‘keeping
-his eye upon him’, stood him in a corner of the fireplace, like a wet
-umbrella, and took no further outward and visible notice of that honest
-man, except ordering a separate service of brandy and [[Water|water]] for him:
-apparently out of the public funds.
-
-As Mortimer Lightwood sat before the blazing [[Fire|fire]], conscious of drinking
-brandy and [[Water|water]] then and there in his [[Sleep|sleep]], and yet at one and the
-same [[Time|time]] drinking burnt sherry at the Six Jolly Fellowships, and
-lying under the boat on the [[River|river]] shore, and sitting in the boat that
-Riderhood rowed, and listening to the lecture recently concluded, and
-having to dine in the Temple with an unknown man, who described himself
-as M. H. F. Eugene Gaffer Harmon, and said he lived at Hailstorm,—as
-he passed through these curious vicissitudes of fatigue and slumber,
-arranged upon the scale of a dozen hours to the second, he became aware
-of answering aloud a communication of pressing importance that had
-never been made to him, and then turned it into a cough on beholding
-Mr Inspector. For, he felt, with some natural indignation, that that
-functionary might otherwise suspect him of having closed his eyes, or
-wandered in his attention.
-
-‘Here just before us, you see,’ said Mr Inspector.
-
-‘I see,’ said Lightwood, with dignity.
-
-‘And had hot brandy and [[Water|water]] too, you see,’ said Mr Inspector, ‘and
-then cut off at a great rate.’
-
-‘Who?’ said Lightwood.
-
-‘Your friend, you know.’
-
-‘I know,’ he replied, again with dignity.
-
-After hearing, in a mist through which Mr Inspector loomed vague and
-large, that the officer took upon himself to prepare the dead man’s
-daughter for what had befallen in the [[Night|night]], and generally that he took
-everything upon himself, Mortimer Lightwood stumbled in his [[Sleep|sleep]] to
-a cab-stand, called a cab, and had entered the army and committed a
-capital military offence and been tried by [[Court|court]] martial and found
-guilty and had arranged his affairs and been marched out to be shot,
-before the door banged.
-
-Hard work rowing the cab through the [[City]] to the Temple, for a cup of
-from five to ten thousand pounds value, given by Mr Boffin; and hard
-work holding forth at that immeasurable length to Eugene (when he had
-been rescued with a rope from the running pavement) for making off in
-that extraordinary manner! But he offered such ample apologies, and was
-so very penitent, that when Lightwood got out of the cab, he gave
-the driver a particular charge to be careful of him. Which the driver
-(knowing there was no other fare left inside) stared at prodigiously.
-
-In short, the [[Night|night]]’s work had so exhausted and worn out this actor in
-it, that he had become a mere somnambulist. He was too tired to rest in
-his [[Sleep|sleep]], until he was even tired out of being too tired, and dropped
-into oblivion. Late in the afternoon he awoke, and in some anxiety sent
-round to Eugene’s lodging hard by, to inquire if he were up yet?
-
-Oh yes, he was up. In fact, he had not been to bed. He had just come
-[[Home|home]]. And here he was, close following on the heels of the message.
-
-‘Why what bloodshot, draggled, dishevelled spectacle is this!’ cried
-Mortimer.
-
-‘Are my feathers so very much rumpled?’ said Eugene, coolly going up to
-the looking-glass. They ARE rather out of sorts. But consider. Such a
-[[Night|night]] for plumage!’
-
-‘Such a [[Night|night]]?’ repeated Mortimer. ‘What became of you in the morning?’
-
-‘My dear fellow,’ said Eugene, sitting on his bed, ‘I felt that we
-had bored one another so long, that an unbroken continuance of those
-relations must inevitably terminate in our flying to opposite points of
-the earth. I also felt that I had committed every crime in the Newgate
-Calendar. So, for mingled considerations of [[Friendship|friendship]] and felony, I
-took a walk.’
+Mr and Mrs Boffin sat after breakfast, in the Bower, a prey to
+prosperity. Mr Boffin’s face denoted Care and Complication. Many
+disordered papers were before him, and he looked at them about as
+hopefully as an [[Innocent|innocent]] civilian might look at a crowd of troops whom
+he was required at five minutes’ notice to manoeuvre and review. He had
+been engaged in some attempts to make notes of these papers; but being
+troubled (as men of his stamp often are) with an exceedingly distrustful
+and corrective thumb, that busy member had so often interposed to
+smear his notes, that they were little more legible than the various
+impressions of itself; which blurred his nose and forehead. It is
+curious to consider, in such a case as Mr Boffin’s, what a cheap article
+ink is, and how far it may be made to go. As a grain of musk will scent
+a drawer for many years, and still lose nothing appreciable of its
+original weight, so a halfpenny-worth of ink would blot Mr Boffin to the
+roots of his hair and the calves of his legs, without inscribing a line
+on the paper before him, or appearing to diminish in the inkstand.
+
+Mr Boffin was in such severe literary difficulties that his eyes were
+prominent and fixed, and his breathing was stertorous, when, to the
+great relief of Mrs Boffin, who observed these symptoms with alarm, the
+yard bell rang.
+
+‘Who’s that, I [[Wonder|wonder]]!’ said Mrs Boffin.
+
+Mr Boffin drew a long breath, laid down his pen, looked at his notes
+as doubting whether he had the pleasure of their acquaintance, and
+appeared, on a second perusal of their countenances, to be confirmed
+in his impression that he had not, when there was announced by the
+hammer-headed young man:
+
+‘Mr Rokesmith.’
+
+‘Oh!’ said Mr Boffin. ‘Oh indeed! Our and the Wilfers’ Mutual Friend, my
+dear. Yes. Ask him to come in.’
+
+Mr Rokesmith appeared.
+
+‘Sit down, sir,’ said Mr Boffin, shaking hands with him. ‘Mrs Boffin
+you’re already acquainted with. [[Well]], sir, I am rather unprepared to see
+you, for, to tell you the [[Truth|truth]], I’ve been so busy with one thing and
+another, that I’ve not had [[Time|time]] to turn your offer over.’
+
+‘That’s apology for both of us: for Mr Boffin, and for me as [[Well|well]],’ said
+the smiling Mrs Boffin. ‘But Lor! we can talk it over now; can’t us?’
+
+Mr Rokesmith bowed, thanked her, and said he hoped so.
+
+‘Let me see then,’ resumed Mr Boffin, with his hand to his chin. ‘It was
+Secretary that you named; wasn’t it?’
+
+‘I said Secretary,’ assented Mr Rokesmith.
+
+‘It rather puzzled me at the [[Time|time]],’ said Mr Boffin, ‘and it rather
+puzzled me and Mrs Boffin when we spoke of it afterwards, because (not
+to make a mystery of our belief) we have always believed a Secretary to
+be a piece of furniture, mostly of mahogany, lined with green baize or
+leather, with a lot of little drawers in it. Now, you won’t think I take
+a liberty when I mention that you certainly ain’t THAT.’
+
+Certainly not, said Mr Rokesmith. But he had used the word in the sense
+of Steward.
+
+‘Why, as to Steward, you see,’ returned Mr Boffin, with his hand still
+to his chin, ‘the odds are that Mrs Boffin and me may never go upon the
+[[Water|water]]. Being both bad sailors, we should want a Steward if we did; but
+there’s generally one provided.’
+
+Mr Rokesmith again explained; defining the duties he sought to
+undertake, as those of general superintendent, or manager, or
+overlooker, or man of business.
+
+‘Now, for instance—come!’ said Mr Boffin, in his pouncing way. ‘If you
+entered my employment, what would you do?’
+
+‘I would keep exact accounts of all the expenditure you sanctioned,
+Mr Boffin. I would write your letters, under your direction. I would
+transact your business with people in your pay or employment. I would,’
+with a glance and a half-smile at the table, ‘arrange your papers—’
+
+Mr Boffin rubbed his inky ear, and looked at his wife.
+
+‘—And so arrange them as to have them always in order for immediate
+reference, with a note of the contents of each outside it.’
+
+‘I tell you what,’ said Mr Boffin, slowly crumpling his own blotted note
+in his hand; ‘if you’ll turn to at these present papers, and see what
+you can make of ’em, I shall know better what I can make of you.’
+
+No sooner said than done. Relinquishing his hat and gloves, Mr Rokesmith
+sat down quietly at the table, arranged the open papers into an orderly
+heap, cast his eyes over each in succession, folded it, docketed it on
+the outside, laid it in a second heap, and, when that second heap was
+complete and the first gone, took from his pocket a piece of string and
+tied it together with a remarkably dexterous hand at a running curve and
+a loop.
+
+‘Good!’ said Mr Boffin. ‘Very good! Now let us hear what they’re all
+about; will you be so good?’
+
+John Rokesmith read his abstracts aloud. They were all about the new
+[[house]]. Decorator’s estimate, so much. Furniture estimate, so much.
+Estimate for furniture of offices, so much. Coach-maker’s estimate, so
+much. [[Horse]]-dealer’s estimate, so much. Harness-maker’s estimate, so
+much. Goldsmith’s estimate, so much. Total, so very much. Then came
+correspondence. Acceptance of Mr Boffin’s offer of such a date, and to
+such an effect. Rejection of Mr Boffin’s proposal of such a date and to
+such an effect. Concerning Mr Boffin’s scheme of such another date to
+such another effect. All compact and methodical.
+
+‘Apple-pie order!’ said Mr Boffin, after checking off each [[Inscription|inscription]]
+with his hand, like a man beating [[Time|time]]. ‘And whatever you do with your
+ink, I can’t think, for you’re as clean as a whistle after it. Now, as
+to a letter. Let’s,’ said Mr Boffin, rubbing his hands in his pleasantly
+childish admiration, ‘let’s try a letter next.’
+
+‘To whom shall it be addressed, Mr Boffin?’
+
+‘Anyone. Yourself.’
+
+Mr Rokesmith quickly wrote, and then read aloud:
+
+‘“Mr Boffin presents his compliments to Mr John Rokesmith, and begs
+to say that he has decided on giving Mr John Rokesmith a trial in the
+capacity he desires to fill. Mr Boffin takes Mr John Rokesmith at his
+word, in postponing to some indefinite period, the consideration of
+salary. It is quite understood that Mr Boffin is in no way committed
+on that point. Mr Boffin has merely to add, that he relies on Mr John
+Rokesmith’s assurance that he will be faithful and serviceable. Mr John
+Rokesmith will please enter on his duties immediately.”’
+
+‘[[Well]]! Now, Noddy!’ cried Mrs Boffin, clapping her hands, ‘That IS a
+good one!’
+
+Mr Boffin was no less delighted; indeed, in his own bosom, he regarded
+both the composition itself and the device that had given birth to it,
+as a very remarkable monument of human ingenuity.
+
+‘And I tell you, my deary,’ said Mrs Boffin, ‘that if you don’t close
+with Mr Rokesmith now at once, and if you ever go a muddling yourself
+again with things never meant nor made for you, you’ll have an
+apoplexy—besides iron-moulding your linen—and you’ll break my heart.’
+
+Mr Boffin embraced his spouse for these words of wisdom, and then,
+congratulating John Rokesmith on the brilliancy of his achievements,
+gave him his hand in pledge of their new relations. So did Mrs Boffin.
+
+‘Now,’ said Mr Boffin, who, in his frankness, felt that it did not
+become him to have a gentleman in his employment five minutes, without
+reposing some confidence in him, ‘you must be let a little more into our
+affairs, Rokesmith. I mentioned to you, when I made your acquaintance,
+or I might better say when you made mine, that Mrs Boffin’s inclinations
+was setting in the way of Fashion, but that I didn’t know how
+fashionable we might or might not grow. [[Well]]! Mrs Boffin has carried the
+day, and we’re going in neck and crop for Fashion.’
+
+‘I rather inferred that, sir,’ replied John Rokesmith, ‘from the scale
+on which your new establishment is to be maintained.’
+
+‘Yes,’ said Mr Boffin, ‘it’s to be a Spanker. The fact is, my
+literary man named to me that a [[house]] with which he is, as I may say,
+connected—in which he has an interest—’
+
+‘As property?’ inquired John Rokesmith.
+
+‘Why no,’ said Mr Boffin, ‘not exactly that; a sort of a family tie.’
+
+‘Association?’ the Secretary suggested.
+
+‘Ah!’ said Mr Boffin. ‘Perhaps. Anyhow, he named to me that the [[house]]
+had a board up, “This Eminently Aristocratic Mansion to be let or sold.”
+ Me and Mrs Boffin went to look at it, and finding it beyond a [[Doubt|doubt]]
+Eminently Aristocratic (though a trifle high and dull, which after all
+may be part of the same thing) took it. My literary man was so friendly
+as to drop into a charming piece of poetry on that occasion, in which he
+complimented Mrs Boffin on coming into possession of—how did it go, my
+dear?’
+
+Mrs Boffin replied:
+
+     ‘“The gay, the gay and festive scene,
+     The halls, the halls of dazzling light.”’
+
+‘That’s it! And it was made neater by there really being two halls
+in the [[house]], a front ’un and a back ’un, besides the servants’.
+He likewise dropped into a very pretty piece of poetry to be sure,
+respecting the extent to which he would be willing to put himself out
+of the way to bring Mrs Boffin round, in case she should ever get low
+in her spirits in the [[house]]. Mrs Boffin has a wonderful [[Memory|memory]]. Will you
+repeat it, my dear?’
+
+Mrs Boffin complied, by reciting the verses in which this obliging offer
+had been made, exactly as she had received them.
+
+     ‘“I’ll tell thee how the maiden wept, Mrs Boffin,
+     When her true [[Love|love]] was slain ma’am,
+     And how her broken spirit slept, Mrs Boffin,
+     And never woke again ma’am.
+     I’ll tell thee (if agreeable to Mr Boffin) how the steed drew
+     nigh,
+     And left his lord afar;
+     And if my tale (which I [[Hope|hope]] Mr Boffin might excuse) should
+     make you sigh,
+     I’ll strike the light guitar.”’
+
+‘Correct to the letter!’ said Mr Boffin. ‘And I consider that the poetry
+brings us both in, in a beautiful manner.’
+
+The effect of the poem on the Secretary being evidently to astonish
+him, Mr Boffin was confirmed in his high opinion of it, and was greatly
+pleased.
+
+‘Now, you see, Rokesmith,’ he went on, ‘a literary man—WITH a wooden
+leg—is liable to [[Jealousy|jealousy]]. I shall therefore cast about for comfortable
+ways and means of not calling up Wegg’s [[Jealousy|jealousy]], but of keeping you in
+your department, and keeping him in his.’
+
+‘Lor!’ cried Mrs Boffin. ‘What I say is, the world’s wide enough for all
+of us!’
+
+‘So it is, my dear,’ said Mr Boffin, ‘when not literary. But when so,
+not so. And I am bound to bear in mind that I took Wegg on, at a [[Time|time]]
+when I had no thought of being fashionable or of leaving the Bower. To
+let him feel himself anyways slighted now, would be to be guilty of
+a meanness, and to act like having one’s head turned by the halls of
+dazzling light. Which Lord forbid! Rokesmith, what shall we say about
+your living in the [[house]]?’
+
+‘In this [[house]]?’
+
+‘No, no. I have got other plans for this [[house]]. In the new [[house]]?’
+
+‘That will be as you please, Mr Boffin. I hold myself quite at your
+disposal. You know where I live at present.’
+
+‘[[Well]]!’ said Mr Boffin, after considering the point; ‘suppose you keep
+as you are for the present, and we’ll decide by-and-by. You’ll begin to
+take charge at once, of all that’s going on in the new [[house]], will you?’
+
+‘Most willingly. I will begin this very day. Will you give me the
+address?’
+
+Mr Boffin repeated it, and the Secretary wrote it down in his
+pocket-book. Mrs Boffin took the opportunity of his being so engaged,
+to get a better observation of his face than she had yet taken. It
+impressed her in his favour, for she nodded aside to Mr Boffin, ‘I like
+him.’
+
+‘I will see directly that everything is in train, Mr Boffin.’
+
+‘Thank’ee. Being here, would you care at all to look round the Bower?’
+
+‘I should greatly like it. I have heard so much of its story.’
+
+‘Come!’ said Mr Boffin. And he and Mrs Boffin led the way.
+
+A gloomy [[house]] the Bower, with sordid signs on it of having been,
+through its long existence as Harmony Jail, in miserly holding. Bare of
+paint, bare of paper on the walls, bare of furniture, bare of experience
+of human life. Whatever is built by man for man’s occupation, must,
+like natural creations, fulfil the intention of its existence, or soon
+perish. This old [[house]] had wasted—more from desuetude than it would
+have wasted from use, twenty years for one.
+
+A certain leanness falls upon houses not sufficiently imbued with life
+(as if they were nourished upon it), which was very noticeable here.
+The staircase, balustrades, and rails, had a spare look—an air of being
+denuded to the bone—which the panels of the walls and the jambs of the
+doors and windows also bore. The scanty moveables partook of it; save
+for the cleanliness of the place, the [[Dust|dust]] into which they were all
+resolving would have lain thick on the floors; and those, both in colour
+and in grain, were worn like old faces that had kept much [[Alone|alone]].
+
+The bedroom where the clutching old man had lost his grip on life, was
+left as he had left it. There was the old grisly four-post bedstead,
+without hangings, and with a jail-like upper rim of iron and spikes; and
+there was the old patch-work counterpane. There was the tight-clenched
+old bureau, receding atop like a bad and secret forehead; there was the
+cumbersome old table with twisted legs, at the bed-side; and there
+was the box upon it, in which the will had lain. A few old chairs with
+patch-work covers, under which the more precious stuff to be preserved
+had slowly lost its quality of colour without imparting pleasure to any
+eye, stood against the wall. A hard family likeness was on all these
+things.
+
+‘The room was kept like this, Rokesmith,’ said Mr Boffin, ‘against the
+son’s return. In short, everything in the [[house]] was kept exactly as it
+came to us, for him to see and approve. Even now, nothing is changed
+but our own room below-stairs that you have just left. When the son came
+[[Home|home]] for the last [[Time|time]] in his life, and for the last [[Time|time]] in his life
+saw his father, it was most likely in this room that they met.’
+
+As the Secretary looked all round it, his eyes rested on a side door in
+a corner.
+
+‘Another staircase,’ said Mr Boffin, unlocking the door, ‘leading down
+into the yard. We’ll go down this way, as you may like to see the yard,
+and it’s all in the [[Road|road]]. When the son was a little [[Child|child]], it was up
+and down these stairs that he mostly came and went to his father. He was
+very timid of his father. I’ve seen him sit on these stairs, in his
+shy way, poor [[Child|child]], many a [[Time|time]]. Mr and Mrs Boffin have comforted him,
+sitting with his little book on these stairs, often.’
+
+‘Ah! And his poor sister too,’ said Mrs Boffin. ‘And here’s the sunny
+place on the white wall where they one day measured one another. Their
+own little hands wrote up their names here, only with a pencil; but the
+names are here still, and the poor dears gone for ever.’
+
+‘We must take care of the names, old lady,’ said Mr Boffin. ‘We must
+take care of the names. They shan’t be rubbed out in our [[Time|time]], nor yet,
+if we can help it, in the [[Time|time]] after us. Poor little children!’
+
+‘Ah, poor little children!’ said Mrs Boffin.
+
+They had opened the door at the [[Bottom|bottom]] of the staircase giving on the
+yard, and they stood in the sunlight, looking at the scrawl of the two
+unsteady childish hands two or three steps up the staircase. There was
+something in this simple memento of a blighted [[Childhood|childhood]], and in the
+tenderness of Mrs Boffin, that touched the Secretary.
+
+Mr Boffin then showed his new man of business the Mounds, and his own
+particular Mound which had been left him as his legacy under the will
+before he acquired the whole estate.
+
+‘It would have been enough for us,’ said Mr Boffin, ‘in case it had
+pleased God to spare the last of those two young lives and sorrowful
+deaths. We didn’t want the rest.’
+
+At the treasures of the yard, and at the outside of the [[house]], and at
+the detached building which Mr Boffin pointed out as the residence
+of himself and his wife during the many years of their service, the
+Secretary looked with interest. It was not until Mr Boffin had shown
+him every [[Wonder|wonder]] of the Bower twice over, that he remembered his having
+duties to discharge elsewhere.
+
+‘You have no instructions to give me, Mr Boffin, in reference to this
+place?’
+
+‘Not any, Rokesmith. No.’
+
+‘Might I ask, without seeming impertinent, whether you have any
+intention of selling it?’
+
+‘Certainly not. In remembrance of our old master, our old master’s
+children, and our old service, me and Mrs Boffin mean to keep it up as
+it stands.’
+
+The Secretary’s eyes glanced with so much meaning in them at the Mounds,
+that Mr Boffin said, as if in answer to a remark:
+
+‘Ay, ay, that’s another thing. I may sell THEM, though I should be sorry
+to see the neighbourhood deprived of ’em too. It’ll look but a poor dead
+flat without the Mounds. Still I don’t say that I’m going to keep ’em
+always there, for the sake of the [[Beauty|beauty]] of the landscape. There’s no
+hurry about it; that’s all I say at present. I ain’t a scholar in much,
+Rokesmith, but I’m a pretty fair scholar in [[Dust|dust]]. I can price the Mounds
+to a fraction, and I know how they can be best disposed of; and likewise
+that they take no harm by standing where they do. You’ll look in
+to-morrow, will you be so kind?’
+
+‘Every day. And the sooner I can get you into your new [[house]], complete,
+the better you will be pleased, sir?’
+
+‘[[Well]], it ain’t that I’m in a mortal hurry,’ said Mr Boffin; ‘only when
+you DO pay people for looking alive, it’s as [[Well|well]] to know that they ARE
+looking alive. Ain’t that your opinion?’
+
+‘Quite!’ replied the Secretary; and so withdrew.
+
+‘Now,’ said Mr Boffin to himself; subsiding into his regular series of
+turns in the yard, ‘if I can make it comfortable with Wegg, my affairs
+will be going smooth.’
+
+The man of low cunning had, of course, acquired a mastery over the man
+of high simplicity. The mean man had, of course, got the better of the
+generous man. How long such conquests last, is another matter; that they
+are achieved, is every-day experience, not even to be flourished away by
+Podsnappery itself. The undesigning Boffin had become so far immeshed
+by the wily Wegg that his mind misgave him he was a very designing man
+indeed in purposing to do more for Wegg. It seemed to him (so skilful
+was Wegg) that he was plotting darkly, when he was contriving to do the
+very thing that Wegg was plotting to get him to do. And thus, while he
+was mentally turning the kindest of kind faces on Wegg this morning, he
+was not absolutely sure but that he might somehow deserve the charge of
+turning his back on him.
+
+For these reasons Mr Boffin passed but anxious hours until evening came,
+and with it Mr Wegg, stumping leisurely to the Roman Empire. At about
+this period Mr Boffin had become profoundly interested in the fortunes
+of a great military leader known to him as Bully Sawyers, but perhaps
+better known to fame and easier of identification by the classical
+student, under the less Britannic name of Belisarius. Even this
+general’s career paled in interest for Mr Boffin before the clearing of
+his [[Conscience|conscience]] with Wegg; and hence, when that literary gentleman had
+according to custom eaten and drunk until he was all a-glow, and when
+he took up his book with the usual chirping introduction, ‘And now, Mr
+Boffin, sir, we’ll decline and we’ll fall!’ Mr Boffin stopped him.
+
+‘You remember, Wegg, when I first told you that I wanted to make a sort
+of offer to you?’
+
+‘Let me get on my considering cap, sir,’ replied that gentleman, turning
+the open book face downward. ‘When you first told me that you wanted
+to make a sort of offer to me? Now let me think.’ (as if there were the
+least necessity) ‘Yes, to be sure I do, Mr Boffin. It was at my corner.
+To be sure it was! You had first asked me whether I liked your name,
+and Candour had compelled a reply in the negative case. I little thought
+then, sir, how familiar that name would come to be!’
+
+‘I [[Hope|hope]] it will be more familiar still, Wegg.’
+
+‘Do you, Mr Boffin? Much obliged to you, I’m sure. Is it your pleasure,
+sir, that we decline and we fall?’ with a feint of taking up the book.
+
+‘Not just yet awhile, Wegg. In fact, I have got another offer to make
+you.’
+
+Mr Wegg (who had had nothing else in his mind for several nights) took
+off his spectacles with an air of bland surprise.
+
+‘And I [[Hope|hope]] you’ll like it, Wegg.’
+
+‘Thank you, sir,’ returned that reticent individual. ‘I [[Hope|hope]] it may
+prove so. On all accounts, I am sure.’ (This, as a philanthropic
+[[Aspiration|aspiration]].)
+
+‘What do you think,’ said Mr Boffin, ‘of not keeping a stall, Wegg?’
+
+‘I think, sir,’ replied Wegg, ‘that I should like to be shown the
+gentleman prepared to make it worth my while!’
+
+‘Here he is,’ said Mr Boffin.
+
+Mr Wegg was going to say, My Benefactor, and had said My Bene, when a
+grandiloquent change came over him.
+
+‘No, Mr Boffin, not you sir. Anybody but you. Do not [[Fear|fear]], Mr Boffin,
+that I shall contaminate the premises which your gold has bought, with
+MY lowly pursuits. I am aware, sir, that it would not become me to carry
+on my little traffic under the windows of your mansion. I have already
+thought of that, and taken my measures. No need to be bought out, sir.
+Would Stepney Fields be considered intrusive? If not remote enough, I
+can go remoter. In the words of the poet’s [[Song|song]], which I do not quite
+remember:
+
+     Thrown on the wide world, doom’d to wander and roam,
+     Bereft of my parents, bereft of a [[Home|home]],
+     A stranger to something and what’s his name joy,
+     Behold little [[Edmund]] the poor Peasant boy.
+
+—And equally,’ said Mr Wegg, repairing the want of direct application
+in the last line, ‘behold myself on a similar footing!’
+
+‘Now, Wegg, Wegg, Wegg,’ remonstrated the excellent Boffin. ‘You are too
+sensitive.’
+
+‘I know I am, sir,’ returned Wegg, with obstinate magnanimity. ‘I am
+acquainted with my faults. I always was, from a [[Child|child]], too sensitive.’
+
+‘But listen,’ pursued the Golden Dustman; ‘hear me out, Wegg. You have
+taken it into your head that I mean to pension you off.’
+
+‘True, sir,’ returned Wegg, still with an obstinate magnanimity. ‘I am
+acquainted with my faults. Far be it from me to deny them. I HAVE taken
+it into my head.’
+
+‘But I DON’T mean it.’
+
+The assurance seemed hardly as comforting to Mr Wegg, as Mr Boffin
+intended it to be. Indeed, an appreciable elongation of his visage might
+have been observed as he replied:
+
+‘Don’t you, indeed, sir?’
+
+‘No,’ pursued Mr Boffin; ‘because that would express, as I understand
+it, that you were not going to do anything to deserve your money. But
+you are; you are.’
+
+‘That, sir,’ replied Mr Wegg, cheering up bravely, ‘is quite another
+pair of shoes. Now, my independence as a man is again elevated. Now, I
+no longer
+
+     Weep for the hour,
+     When to Boffinses bower,
+     The Lord of the valley with offers came;
+     Neither does the [[Moon|moon]] hide her light
+     From the heavens to-[[Night|night]],
+     And weep behind her clouds o’er any individual in the present
+     Company’s shame.
+
+—Please to proceed, Mr Boffin.’
+
+‘Thank’ee, Wegg, both for your confidence in me and for your frequent
+dropping into poetry; both of which is friendly. [[Well]], then; my idea is,
+that you should give up your stall, and that I should put you into the
+Bower here, to keep it for us. It’s a pleasant spot; and a man with
+coals and candles and a pound a week might be in clover here.’
+
+‘Hem! Would that man, sir—we will say that man, for the purposes of
+argueyment;’ Mr Wegg made a smiling demonstration of great perspicuity
+here; ‘would that man, sir, be expected to throw any other capacity in,
+or would any other capacity be considered extra? Now let us (for the
+purposes of argueyment) suppose that man to be engaged as a reader: say
+(for the purposes of argueyment) in the evening. Would that man’s pay as
+a reader in the evening, be added to the other amount, which, adopting
+your language, we will call clover; or would it merge into that amount,
+or clover?’
+
+‘[[Well]],’ said Mr Boffin, ‘I suppose it would be added.’
+
+‘I suppose it would, sir. You are right, sir. Exactly my own views,
+Mr Boffin.’ Here Wegg [[Rose|rose]], and balancing himself on his wooden leg,
+fluttered over his prey with extended hand. ‘Mr Boffin, consider it
+done. Say no more, sir, not a word more. My stall and I are for ever
+parted. The collection of ballads will in future be reserved for private
+study, with the object of making poetry tributary’—Wegg was so proud
+of having found this word, that he said it again, with a capital
+letter—‘Tributary, to [[Friendship|friendship]]. Mr Boffin, don’t allow yourself to
+be made uncomfortable by the pang it gives me to part from my stock and
+stall. Similar emotion was undergone by my own father when promoted
+for his merits from his occupation as a waterman to a situation under
+[[government|Government]]. His Christian name was Thomas. His words at the [[Time|time]] (I was
+then an infant, but so deep was their impression on me, that I committed
+them to [[Memory|memory]]) were:
+
+     Then farewell, my trim-built wherry,
+     Oars and coat and badge farewell!
+     Never more at Chelsea Ferry,
+     Shall your Thomas take a spell!
+
+—My father got over it, Mr Boffin, and so shall I.’
+
+While delivering these valedictory observations, Wegg continually
+disappointed Mr Boffin of his hand by flourishing it in the air. He now
+darted it at his patron, who took it, and felt his mind relieved of a
+great weight: observing that as they had arranged their joint affairs
+so satisfactorily, he would now be glad to look into those of Bully
+Sawyers. Which, indeed, had been left over-[[Night|night]] in a very unpromising
+posture, and for whose impending expedition against the Persians the
+weather had been by no means favourable all day.
+
+Mr Wegg resumed his spectacles therefore. But Sawyers was not to be of
+the party that [[Night|night]]; for, before Wegg had found his place, Mrs Boffin’s
+tread was heard upon the stairs, so unusually heavy and hurried, that Mr
+Boffin would have started up at the sound, anticipating some occurrence
+much out of the common course, even though she had not also called to
+him in an agitated tone.
+
+Mr Boffin hurried out, and found her on the dark staircase, panting,
+with a lighted candle in her hand.
+
+‘What’s the matter, my dear?’
+
+‘I don’t know; I don’t know; but I wish you’d come up-stairs.’
+
+Much surprised, Mr Boffin went up stairs and accompanied Mrs Boffin into
+their own room: a second large room on the same floor as the room in
+which the late proprietor had died. Mr Boffin looked all round him,
+and saw nothing more unusual than various articles of folded linen on a
+large chest, which Mrs Boffin had been sorting.
+
+‘What is it, my dear? Why, you’re frightened! YOU frightened?’
+
+‘I am not one of that sort certainly,’ said Mrs Boffin, as she sat down
+in a chair to recover herself, and took her husband’s arm; ‘but it’s
+very strange!’
+
+‘What is, my dear?’
+
+‘Noddy, the faces of the old man and the two children are all over the
+[[house]] to-[[Night|night]].’
+
+‘My dear?’ exclaimed Mr Boffin. But not without a certain uncomfortable
+sensation gliding down his back.
+
+‘I know it must sound foolish, and yet it is so.’
+
+‘Where did you think you saw them?’
+
+‘I don’t know that I think I saw them anywhere. I felt them.’
+
+‘Touched them?’
+
+‘No. Felt them in the air. I was sorting those things on the chest, and
+not thinking of the old man or the children, but singing to myself, when
+all in a moment I felt there was a face growing out of the dark.’
+
+‘What face?’ asked her husband, looking about him.
+
+‘For a moment it was the old man’s, and then it got younger. For a
+moment it was both the children’s, and then it got older. For a moment
+it was a strange face, and then it was all the faces.’
+
+‘And then it was gone?’
+
+‘Yes; and then it was gone.’
+
+‘Where were you then, old lady?’
+
+‘Here, at the chest. [[Well]]; I got the better of it, and went on sorting,
+and went on singing to myself. “Lor!” I says, “I’ll think of something
+else—something comfortable—and put it out of my head.” So I thought
+of the new [[house]] and Miss [[Bella Wilfer]], and was thinking at a great rate
+with that sheet there in my hand, when all of a sudden, the faces seemed
+to be hidden in among the folds of it and I let it drop.’
+
+As it still lay on the floor where it had fallen, Mr Boffin picked it up
+and laid it on the chest.
+
+‘And then you ran down stairs?’
+
+‘No. I thought I’d try another room, and shake it off. I says to myself,
+“I’ll go and walk slowly up and down the old man’s room three times,
+from end to end, and then I shall have conquered it.” I went in with the
+candle in my hand; but the moment I came near the bed, the air got thick
+with them.’
+
+‘With the faces?’
+
+‘Yes, and I even felt that they were in the dark behind the side-door,
+and on the little staircase, floating away into the yard. Then, I called
+you.’
+
+Mr Boffin, lost in amazement, looked at Mrs Boffin. Mrs Boffin, lost in
+her own fluttered inability to make this out, looked at Mr Boffin.
+
+‘I think, my dear,’ said the Golden Dustman, ‘I’ll at once get rid of
+Wegg for the [[Night|night]], because he’s coming to inhabit the Bower, and it
+might be put into his head or somebody else’s, if he heard this and it
+got about that the [[house]] is haunted. Whereas we know better. Don’t we?’
+
+‘I never had the feeling in the [[house]] before,’ said Mrs Boffin; ‘and I
+have been about it [[Alone|alone]] at all hours of the [[Night|night]]. I have been in the
+[[house]] when [[Death]] was in it, and I have been in the [[house]] when Murder was
+a new part of its adventures, and I never had a fright in it yet.’
+
+‘And won’t again, my dear,’ said Mr Boffin. ‘Depend upon it, it comes of
+thinking and dwelling on that dark spot.’
+
+‘Yes; but why didn’t it come before?’ asked Mrs Boffin.
+
+This draft on Mr Boffin’s [[philosophy]] could only be met by that gentleman
+with the remark that everything that is at all, must begin at some [[Time|time]].
+Then, tucking his wife’s arm under his own, that she might not be left
+by herself to be troubled again, he descended to release Wegg. Who,
+being something drowsy after his plentiful repast, and constitutionally
+of a shirking temperament, was [[Well|well]] enough pleased to stump away,
+without doing what he had come to do, and was paid for doing.
+
+Mr Boffin then put on his hat, and Mrs Boffin her shawl; and the pair,
+further provided with a bunch of keys and a lighted lantern, went
+all over the dismal [[house]]—dismal everywhere, but in their own two
+rooms—from cellar to cock-loft. Not resting satisfied with giving that
+much chace to Mrs Boffin’s fancies, they pursued them into the yard and
+outbuildings, and under the Mounds. And setting the lantern, when all
+was done, at the foot of one of the Mounds, they comfortably trotted to
+and fro for an evening walk, to the end that the murky cobwebs in Mrs
+Boffin’s brain might be blown away.
+
+‘There, my dear!’ said Mr Boffin when they came in to supper. ‘That was
+the treatment, you see. Completely worked round, haven’t you?’
+
+‘Yes, deary,’ said Mrs Boffin, laying aside her shawl. ‘I’m not nervous
+any more. I’m not a bit troubled now. I’d go anywhere about the [[house]]
+the same as ever. But—’
+
+‘Eh!’ said Mr Boffin.
+
+‘But I’ve only to shut my eyes.’
+
+‘And what then?’
+
+‘Why then,’ said Mrs Boffin, speaking with her eyes closed, and her
+left hand thoughtfully touching her brow, ‘then, there they are! The old
+man’s face, and it gets younger. The two children’s faces, and they get
+older. A face that I don’t know. And then all the faces!’
+
+Opening her eyes again, and seeing her husband’s face across the table,
+she leaned forward to give it a pat on the cheek, and sat down to
+supper, declaring it to be the best face in the world.

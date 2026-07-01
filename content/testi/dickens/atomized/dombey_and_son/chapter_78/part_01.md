@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 22 (part 1)"
+title: "Dombey and Son — Chapter 50 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -10,138 +10,109 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/dombey-and-son-(dickens)">Dombey and Son</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_77/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_78/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_77/part_07">‹ part 07</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_78/part_02">part 02 ›</a></div>
 </nav>
 
 
-CHAPTER XXII.
-A Trifle of Management by Mr Carker the Manager
+CHAPTER L.
+Mr Toots’s Complaint
 
 
-Mr Carker the Manager sat at his desk, smooth and soft as usual,
-reading those letters which were reserved for him to open, backing them
-occasionally with such memoranda and references as their business
-purport required, and parcelling them out into little heaps for
-distribution through the several departments of the [[house|House]]. The post had
-come in heavy that morning, and Mr Carker the Manager had a good deal
-to do.
+There was an empty room above-stairs at the wooden Midshipman’s, which,
+in days of yore, had been Walter’s bedroom. Walter, rousing up the
+Captain betimes in the morning, proposed that they should carry thither
+such furniture out of the little parlour as would grace it best, so
+that Florence might take possession of it when she [[Rose|rose]]. As nothing
+could be more agreeable to [[Captain Cuttle]] than making himself very red
+and short of breath in such a cause, he turned to (as he himself said)
+with a will; and, in a couple of hours, this garret was transformed
+into a species of land-cabin, adorned with all the choicest moveables
+out of the parlour, inclusive even of the Tartar frigate, which the
+Captain hung up over the chimney-piece with such extreme delight, that
+he could do nothing for half-an-hour afterwards but walk backward from
+it, lost in admiration.
 
-The general action of a man so engaged—pausing to look over a bundle of
-papers in his hand, dealing them round in various portions, taking up
-another bundle and examining its contents with knitted brows and
-pursed-out lips—dealing, and sorting, and pondering by turns—would
-easily suggest some whimsical resemblance to a player at cards. The
-face of Mr Carker the Manager was in good keeping with such a fancy. It
-was the face of a man who studied his play, warily: who made himself
-master of all the strong and weak points of the game: who registered
-the cards in his mind as they fell about him, knew exactly what was on
-them, what they missed, and what they made: who was crafty to find out
-what the other players held, and who never betrayed his own hand.
+The Captain could be induced by no [[Persuasion|persuasion]] of Walter’s to [[Wind|wind]] up
+the big watch, or to take back the canister, or to touch the
+sugar-tongs and teaspoons. “No, no, my lad;” was the Captain’s
+invariable reply to any solicitation of the kind, “I’ve made that there
+little property over, jintly.” These words he repeated with great
+unction and gravity, evidently believing that they had the virtue of an
+Act of Parliament, and that unless he committed himself by some new
+admission of ownership, no flaw could be found in such a form of
+conveyance.
 
-The letters were in various languages, but Mr Carker the Manager read
-them all. If there had been anything in the offices of Dombey and Son
-that he could read, there would have been a card wanting in the pack.
-He read almost at a glance, and made combinations of one letter with
-another and one business with another as he went on, adding new matter
-to the heaps—much as a man would know the cards at sight, and work out
-their combinations in his mind after they were turned. Something too
-deep for a partner, and much too deep for an adversary, Mr Carker the
-Manager sat in the rays of the sun that came down slanting on him
-through the skylight, playing his game [[Alone|alone]].
+It was an advantage of the new arrangement, that besides the greater
+seclusion it afforded Florence, it admitted of the Midshipman being
+restored to his usual post of observation, and also of the shop
+shutters being taken down. The latter ceremony, however little
+importance the unconscious Captain attached to it, was not wholly
+superfluous; for, on the previous day, so much excitement had been
+occasioned in the neighbourhood, by the shutters remaining unopened,
+that the Instrument-maker’s [[house]] had been honoured with an unusual
+share of public observation, and had been intently stared at from the
+opposite side of the way, by groups of hungry gazers, at any [[Time|time]]
+between sunrise and sunset. The idlers and vagabonds had been
+particularly interested in the Captain’s fate; constantly grovelling in
+the mud to apply their eyes to the cellar-grating, under the
+shop-[[Window|window]], and delighting their imaginations with the fancy that they
+could see a piece of his coat as he hung in a corner; though this
+settlement of him was stoutly disputed by an opposite faction, who were
+of opinion that he lay murdered with a hammer, on the stairs. It was
+not without exciting some discontent, therefore, that the subject of
+these rumours was seen early in the morning standing at his shop-door
+as hale and hearty as if nothing had happened; and the beadle of that
+quarter, a man of an ambitious character, who had expected to have the
+distinction of being present at the breaking open of the door, and of
+giving evidence in full uniform before the coroner, went so far as to
+say to an opposite neighbour, that the chap in the glazed hat had
+better not try it on there—without more particularly mentioning
+what—and further, that he, the beadle, would keep his eye upon him.
 
-And although it is not among the instincts wild or domestic of the cat
-tribe to play at cards, feline from sole to [[Crown|crown]] was Mr Carker the
-Manager, as he basked in the strip of [[Summer|summer]]-light and warmth that
-shone upon his table and the ground as if they were a crooked
-dial-plate, and himself the only figure on it. With hair and whiskers
-deficient in colour at all times, but feebler than common in the rich
-sunshine, and more like the coat of a sandy tortoise-shell cat; with
-long nails, nicely pared and sharpened; with a natural antipathy to any
-speck of dirt, which made him pause sometimes and watch the falling
-motes of [[Dust|dust]], and rub them off his smooth white hand or glossy linen:
-Mr Carker the Manager, sly of manner, sharp of tooth, soft of foot,
-watchful of eye, oily of tongue, cruel of heart, nice of habit, sat
-with a dainty steadfastness and patience at his work, as if he were
-waiting at a mouse’s hole.
+“[[Captain Cuttle]],” said Walter, musing, when they stood resting from
+their labours at the shop-door, looking down the old familiar street;
+it being still early in the morning; “nothing at all of Uncle Sol, in
+all that [[Time|time]]!”
 
-At length the letters were disposed of, excepting one which he reserved
-for a particular audience. Having locked the more confidential
-correspondence in a drawer, Mr Carker the Manager rang his bell.
+“Nothing at all, my lad,” replied the Captain, shaking his head.
 
-“Why do you answer it?” was his reception of his brother.
+“Gone in search of me, dear, kind old man,” said Walter: “yet never
+write to you! But why not? He says, in effect, in this packet that you
+gave me,” taking the paper from his pocket, which had been opened in
+the presence of the enlightened Bunsby, “that if you never hear from
+him before opening it, you may believe him dead. Heaven forbid! But you
+would have heard of him, even if he were dead! Someone would have
+written, surely, by his [[Desire|desire]], if he could not; and have said, ‘on
+such a day, there died in my [[house]],’ or ‘under my care,’ or so forth,
+‘Mr [[Solomon Gills]] of [[London]], who left this last remembrance and this
+last request to you’.”
 
-“The messenger is out, and I am the next,” was the submissive reply.
+The Captain, who had never climbed to such a clear height of
+probability before, was greatly impressed by the wide prospect it
+opened, and answered, with a thoughtful shake of his head, “[[Well]] said,
+my lad; wery [[Well|well]] said.”
 
-“You are the next?” muttered the Manager. “Yes! Creditable to me!
-There!”
+“I have been thinking of this, or, at least,” said Walter, colouring,
+“I have been thinking of one thing and another, all through a sleepless
+[[Night|night]], and I cannot believe, [[Captain Cuttle]], but that my Uncle Sol
+(Lord bless him!) is alive, and will return. I don’t so much [[Wonder|wonder]] at
+his going away, because, leaving out of consideration that spice of the
+marvellous which was always in his character, and his great affection
+for me, before which every other consideration of his life became
+nothing, as no one ought to know so [[Well|well]] as I who had the best of
+fathers in him,”—Walter’s voice was indistinct and husky here, and he
+looked away, along the street,—“leaving that out of consideration, I
+say, I have often read and heard of people who, having some near and
+dear relative, who was supposed to be shipwrecked at sea, have gone
+down to live on that part of the sea-shore where any tidings of the
+missing [[Ship|ship]] might be expected to arrive, though only an hour or two
+sooner than elsewhere, or have even gone upon her track to the place
+whither she was bound, as if their going would create intelligence. I
+think I should do such a thing myself, as soon as another, or sooner
+than many, perhaps. But why my Uncle shouldn’t write to you, when he so
+clearly intended to do so, or how he should die abroad, and you not
+know it through some other hand, I cannot make out.”
 
-Pointing to the heaps of opened letters, he turned disdainfully away,
-in his elbow-chair, and broke the seal of that one which he held in his
-hand.
-
-“I am sorry to trouble you, James,” said the brother, gathering them
-up, “but—”
-
-“Oh! you have something to say. I knew that. [[Well]]?”
-
-Mr Carker the Manager did not raise his eyes or turn them on his
-brother, but kept them on his letter, though without opening it.
-
-“[[Well]]?” he repeated sharply.
-
-“I am uneasy about Harriet.”
-
-“Harriet who? what Harriet? I know nobody of that name.”
-
-“She is not [[Well|well]], and has changed very much of late.”
-
-“She changed very much, a great many years ago,” replied the Manager;
-“and that is all I have to say.
-
-“I think if you would hear me—
-
-“Why should I hear you, Brother John?” returned the Manager, laying a
-sarcastic emphasis on those two words, and throwing up his head, but
-not lifting his eyes. “I tell you, Harriet Carker made her choice many
-years ago between her two brothers. She may repent it, but she must
-abide by it.”
-
-“Don’t mistake me. I do not say she does repent it. It would be black
-ingratitude in me to hint at such a thing,” returned the other. “Though
-believe me, James, I am as sorry for her sacrifice as you.”
-
-“As I?” exclaimed the Manager. “As I?”
-
-“As sorry for her choice—for what you call her choice—as you are angry
-at it,” said the Junior.
-
-“Angry?” repeated the other, with a wide show of his teeth.
-
-“Displeased. Whatever word you like best. You know my meaning. There is
-no offence in my intention.”
-
-“There is offence in everything you do,” replied his brother, glancing
-at him with a sudden scowl, which in a moment gave place to a wider
-smile than the last. “Carry those papers away, if you please. I am
-busy.
-
-His politeness was so much more cutting than his wrath, that the Junior
-went to the door. But stopping at it, and looking round, he said:
-
-“When Harriet tried in vain to plead for me with you, on your first
-just indignation, and my first disgrace; and when she left you, James,
-to follow my broken fortunes, and devote herself, in her mistaken
-affection, to a ruined brother, because without her he had no one, and
-was lost; she was young and pretty. I think if you could see her now—if
-you would go and see her—she would move your admiration and
-compassion.”
-
-The Manager inclined his head, and showed his teeth, as who should say,
-in answer to some careless small-talk, “Dear me! Is that the case?” but
-said never a word.
-
-“We thought in those days: you and I both: that she would marry young,
-and lead a happy and light-hearted life,” pursued the other. “Oh if you
-knew how cheerfully she cast those hopes away; how cheerfully she has
-gone forward on the path she took, and never once looked back; you
-never could say again that her name was strange in your ears. Never!”
+[[Captain Cuttle]] observed, with a shake of his head, that Jack Bunsby
+himself hadn’t made it out, and that he was a man as could give a
+pretty taut opinion too.

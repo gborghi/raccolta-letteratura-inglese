@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 27 (part 2)"
+title: "Nicholas Nickleby — Chapter 27 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_27/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_27/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘Of the very greatest consequence,’ replied Pyke.
+
+‘Mrs. Nickleby cannot be ignorant,’ said Mr. Pluck, ‘of the immense
+impression which that sweet girl has--’
 
 ‘Pluck!’ said his friend, ‘beware!’
 

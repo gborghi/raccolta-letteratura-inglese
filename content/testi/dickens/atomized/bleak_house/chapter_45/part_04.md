@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 45 (part 4)"
+title: "Bleak House — Chapter 45 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,23 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_45/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_45/part_05">part 05 ›</a></div>
 </nav>
 
+
+His sanguine hopes were rising within him and lighting up his
+features, but they made his face more sad to me than it had been
+before.
+
+“No, no!” cried [[Richard]] exultingly. “If every farthing of Ada’s
+little fortune were mine, no part of it should be spent in retaining
+me in what I am not fit for, can take no interest in, and am weary
+of. It should be devoted to what promises a better return, and should
+be used where she has a larger stake. Don’t be uneasy for me! I shall
+now have only one thing on my mind, and Vholes and I will work it. I
+shall not be without means. Free of my commission, I shall be able to
+compound with some small usurers who will hear of nothing but their
+bond now—Vholes says so. I should have a balance in my favour
+anyway, but that would swell it. Come, come! You shall carry a letter
+to Ada from me, Esther, and you must both of you be more hopeful of
+me and not believe that I am quite cast away just yet, my dear.”
 
 I will not repeat what I said to [[Richard]]. I know it was tiresome, and
 nobody is to suppose for a moment that it was at all wise. It only
@@ -120,20 +137,3 @@ While we were talking, and when I was glad to believe that I had
 alleviated (if I may use such a term) the shock he had had in seeing
 me, [[Richard]] came in. He had heard downstairs who was with me, and
 they met with cordial pleasure.
-
-I saw that after their first greetings were over, and when they spoke
-of [[Richard]]’s career, Mr. Woodcourt had a perception that all was not
-going [[Well|well]] with him. He frequently glanced at his face as if there
-were something in it that gave him [[Pain|pain]], and more than once he looked
-towards me as though he sought to ascertain whether I knew what the
-[[Truth|truth]] was. Yet [[Richard]] was in one of his sanguine states and in good
-spirits and was thoroughly pleased to see Mr. Woodcourt again, whom
-he had always liked.
-
-[[Richard]] proposed that we all should go to [[London]] together; but Mr.
-Woodcourt, having to remain by his [[Ship|ship]] a little longer, could not
-join us. He dined with us, however, at an early hour, and became so
-much more like what he used to be that I was still more at peace to
-think I had been able to soften his regrets. Yet his mind was not
-relieved of [[Richard]]. When the coach was almost ready and [[Richard]] ran
-down to look after his luggage, he spoke to me about him.

@@ -1,5 +1,5 @@
 ---
-title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 4 (part 3)"
+title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 4 (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_03/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_04/part_01">part 01 ›</a></div>
 </nav>
 
+
+wherever they chose, and to take no steps for bringing them to justice.
+
+He might as [[Well|well]] have spoken to the winds. Two of the ruffians seized
+
+him by the arms and hurled him over the brig's side into the boat,
+
+which had been lowered while the mate went below. The four men who were
 
 lying on the deck were then untied and ordered to follow, which they
 

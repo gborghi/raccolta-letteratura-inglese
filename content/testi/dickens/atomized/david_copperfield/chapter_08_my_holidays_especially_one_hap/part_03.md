@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 8: MY HOLIDAYS. ESPECIALLY ONE HAPPY AFTERNOON (part 3)"
+title: "David Copperfield — Chapter 8: MY HOLIDAYS. ESPECIALLY ONE HAPPY AFTERNOON (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_08_my_holidays_especially_one_hap/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_08_my_holidays_especially_one_hap/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘I [[Wonder|wonder]],’ said Peggotty, who was sometimes seized with a fit of
+wondering on some most unexpected topic, ‘what’s become of Davy’s
+great-aunt?’ ‘Lor, Peggotty!’ observed my mother, rousing herself from a
+reverie, ‘what nonsense you talk!’
 
 ‘[[Well]], but I really do [[Wonder|wonder]], ma’am,’ said Peggotty.
 
@@ -139,12 +144,3 @@ my mother might comfort herself with the little contradictory summary in
 which she had indulged. The design was efficacious; for I remember that
 my mother seemed more at ease during the rest of the evening, and that
 Peggotty observed her less.
-
-When we had had our tea, and the ashes were thrown up, and the candles
-snuffed, I read Peggotty a chapter out of the Crocodile Book, in
-remembrance of old times--she took it out of her pocket: I don’t know
-whether she had kept it there ever since--and then we talked about Salem
-[[house|House]], which brought me round again to Steerforth, who was my great
-subject. We were very happy; and that evening, as the last of its race,
-and destined evermore to close that volume of my life, will never pass
-out of my [[Memory|memory]].

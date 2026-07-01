@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 13 (part 4)"
+title: "Villette — Chapter 13 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_13/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_14/part_01">part 01 ›</a></div>
 </nav>
 
+
+“They have gone and done it again,” was my reply. “A handkerchief waved
+and something fell:” and I pointed to the lattice, now closed and
+looking hypocritically blank.
+
+“Go, at once; pick it up and bring it here,” was his prompt direction;
+adding, “Nobody will take notice of _you: I_ should be seen.”
+
+Straight I went. After some little search, I found a folded paper,
+lodged on the lower branch of a shrub; I seized and brought it direct
+to Dr. John. This [[Time|time]], I believe not even Rosine saw me.
 
 He instantly tore the billet into small pieces, without reading it. “It
 is not in the least _her_ fault, you must remember,” he said, looking

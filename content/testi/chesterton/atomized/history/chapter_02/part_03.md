@@ -1,5 +1,5 @@
 ---
-title: "[[history]] — Chapter 2 (part 3)"
+title: "history — Chapter 2 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/history-(chesterton)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/history/chapter_02/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/history/chapter_03/part_01">part 01 ›</a></div>
 </nav>
 
+
+Rome itself, which had made all that strong world, was the weakest
+thing in it.  The centre had been growing fainter and fainter,
+and now the centre disappeared.  Rome had as much freed the world
+as ruled it, and now she could rule no more.  Save for the presence
+of the Pope and his constantly increasing [[Supernatural|supernatural]] prestige,
+the eternal [[City|city]] became like one of her own provincial towns.  A loose
+localism was the result rather than any conscious intellectual [[unity]].
+There was anarchy, but there was no rebellion.  For rebellion must
+have a principle, and therefore (for those who can think) an authority.
+Gibbon called his great pageant of prose "The Decline and Fall
+of the Roman Empire."  The Empire did decline, but it did not fall.
+It remains to this hour.
 
 By a process very much more indirect even than that of
 the Church, this decentralization and drift also worked

@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 30 (part 4)"
+title: "Shirley — Chapter 30 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,30 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_30/part_03">‹ part 03</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_30/part_05">part 05 ›</a></div>
 </nav>
 
+
+degrading herself and her sex; that I have sought where the incorrupt of
+
+my kind naturally scorn and abhor to seek.' She and I were silent for
+
+many a minute. '[[Lucifer]], Star of the Morning,' she went on, 'thou art
+
+fallen! You, once high in my esteem, are hurled down; you, once intimate
+
+in my [[Friendship|friendship]], are cast out. Go!'
+
+
+
+"I went not. I had heard her voice tremble, seen her lip quiver. I knew
+
+another [[Storm|storm]] of [[Tears|tears]] would fall, and then I believed some calm and
+
+some sunshine must come, and I would wait for it.
+
+
+
+"As fast, but more quietly than before, the warm rain streamed down.
+
+There was another sound in her weeping--a softer, more regretful sound.
 
 While I watched, her eyes lifted to me a gaze more reproachful than
 
@@ -201,49 +225,3 @@ after all, was that of a man--never of a fortune-hunter."
 _not_ see to-[[Night|night]]. There is naught like her in these days. Miss
 
 Helstone, maybe, has a look of her, but nobody else."
-
-
-
-"Who has a look of her?"
-
-
-
-"That black-coated [[Tyrant|tyrant]]'s niece--that quiet, delicate Miss Helstone.
-
-Many a [[Time|time]] I have put on my spectacles to look at the lassie in church,
-
-because she has gentle blue een, wi' long lashes; and when she sits in
-
-[[Shadow|shadow]], and is very still and very pale, and is, happen, about to fall
-
-asleep wi' the length of the sermon and the heat of the biggin', she is
-
-as like one of Canova's marbles as aught else."
-
-
-
-"Was Mary [[Cave]] in that style?"
-
-
-
-"Far grander!--less lass-like and flesh-like. You wondered why she
-
-hadn't wings and a [[Crown|crown]]. She was a stately, peaceful angel was my
-
-Mary."
-
-
-
-"And you could not persuade her to [[Love|love]] you?"
-
-
-
-"Not with all I could do, though I prayed Heaven many a [[Time|time]], on my
-
-bended knees, to help me."
-
-
-
-"Mary [[Cave]] was not what you think her, Yorke. I have seen her picture at
-
-the rectory. She is no angel, but a fair, regular-featured,

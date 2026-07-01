@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 16 (part 2)"
+title: "Bleak House — Chapter 16 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_16/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_16/part_03">part 03 ›</a></div>
 </nav>
 
+
+This desirable property is in Chancery, of course. It would be an
+insult to the discernment of any man with half an eye to tell him so.
+Whether “Tom” is the popular representative of the original plaintiff
+or defendant in Jarndyce and Jarndyce, or whether Tom lived here when
+the suit had laid the street waste, all [[Alone|alone]], until other settlers
+came to join him, or whether the traditional title is a comprehensive
+name for a retreat cut off from honest company and put out of the
+pale of [[Hope|hope]], perhaps nobody knows. Certainly Jo don’t know.
 
 “For I don’t,” says Jo, “I don’t know nothink.”
 
@@ -109,12 +118,3 @@ at the [[Bottom|bottom]] of all that goes wrong in it, though, for the matter of
 that, they create business for lawyers. What would it be to see a
 woman going by, even though she were going secretly? They are all
 secret. Mr. Tulkinghorn knows that very [[Well|well]].
-
-But they are not all like the woman who now [[Leaves|leaves]] him and his [[house]]
-behind, between whose plain dress and her refined manner there is
-something exceedingly inconsistent. She should be an upper servant by
-her attire, yet in her air and step, though both are hurried and
-assumed—as far as she can assume in the muddy streets, which she
-treads with an unaccustomed foot—she is a lady. Her face is veiled,
-and still she sufficiently betrays herself to make more than one of
-those who pass her look round sharply.

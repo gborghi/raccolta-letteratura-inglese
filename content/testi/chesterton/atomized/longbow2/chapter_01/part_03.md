@@ -1,5 +1,5 @@
 ---
-title: "[[longbow2]] — Chapter 1 (part 3)"
+title: "longbow2 — Chapter 1 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/longbow2/chapter_01/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/longbow2/chapter_01/part_04">part 04 ›</a></div>
 </nav>
 
+
+As to why he corrected himself, a true picture of what passed through
+his mind might sound rather fanciful in itself.  It would be less
+than explicit to say he did so because of a long grey car waiting
+outside the White Lodge.  It might not be a complete explanation
+to say it was due to a lady walking on stilts at a [[Garden|garden]] party. 
+Some obscurity might remain, even if we said that it had something
+to do with a soft shirt and a nickname; nevertheless all these
+things mingled in the medical gentleman's mind when he made his
+hurried decision.  Above all, it might or might not be sufficient
+explanation to say that Horace Hunter was a very ambitious
+young man, that the ring in his voice and the confidence in his
+manner came from a very simple resolution to rise in the world,
+and that the world in question was rather worldly.
 
 He liked to be seen talking so confidently to Colonel Crane on that
 [[Sunday]] parade.  Crane was comparatively poor, but he knew People. 
@@ -99,23 +113,3 @@ allusion to vegetables, or the most harmless adumbration or verbal
 was forbidden to say repeated themselves perpetually in his mind
 with the rhythmic pressure of a pulse.  It was his [[Temptation|temptation]]
 at the moment to call all houses hats and all visitors vegetables.
-
-When Crane came out of his front gate that morning he found his
-neighbour Vernon-[[smith|Smith]] standing outside, between the spreading
-laburnum and the lamp-post, talking to a young lady, a distant
-cousin of his family.  This girl was an art student on her own--
-a little too much on her own for the standards of Heatherbrae, and,
-therefore (some would infer), yet further beyond those of White Lodge. 
-Her brown hair was bobbed, and the Colonel did not admire
-bobbed hair.  On the other hand, she had a rather attractive face,
-with honest brown eyes a little too wide apart, which diminished
-the impression of [[Beauty|beauty]] but increased the impression of honesty. 
-She also had a very fresh and unaffected voice, and the Colonel
-had often heard it calling out scores at tennis on the other side
-of the [[Garden|garden]] wall.  In some vague sort of way it made him feel old;
-at least, he was not sure whether he felt older than he was,
-or younger than he ought to be.  It was not until they met under
-the lamp-post that he knew her name was Audrey [[smith|Smith]]; and he was
-faintly thankful for the single monosyllable.  Mr. Vernon-[[smith|Smith]]
-presented her, and very nearly said:  "May I introduce my cabbage?"
-instead of "my cousin."

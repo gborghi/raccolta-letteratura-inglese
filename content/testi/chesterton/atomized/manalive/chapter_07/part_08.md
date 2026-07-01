@@ -1,5 +1,5 @@
 ---
-title: "[[manalive]] — Chapter 1 (part 8)"
+title: "manalive — Chapter 1 (part 8)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/manalive-(chesterton)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/manalive/chapter_07/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/manalive/chapter_08/part_01">part 01 ›</a></div>
 </nav>
 
+
+"It took Dr. Eames some little time to disentangle himself from
+the ladder, and some little time longer to disentangle himself
+from the Sub-Warden. But as soon as he could do so unobtrusively,
+he rejoined his companion in the late extraordinary scene.
+He was astonished to find the gigantic Smith heavily shaken,
+and sitting with his shaggy head on his hands.  When addressed,
+he lifted a very pale face.
+
+"`Why, what is the matter?' asked Eames, whose own nerves had by this
+[[Time|time]] twittered themselves quiet, like the morning [[Birds|birds]].
 
 "`I must ask your indulgence,' said Smith, rather brokenly.
 `I must ask you to realize that I have just had an escape from [[Death|death]].'
@@ -126,4 +137,4 @@ for beer.  Farewell.
 			      "(Signed) James Emerson Eames,
 		   Warden of Brakespeare College, Cambridge.
 
-					   "[[Innocent]] [[smith|Smith]]."
+					   "Innocent Smith."

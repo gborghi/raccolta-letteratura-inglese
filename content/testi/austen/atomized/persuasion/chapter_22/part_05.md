@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 22 (part 5)"
+title: "Persuasion — Chapter 22 (part 5)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -13,6 +13,36 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_22/part_04">‹ part 04</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_22/part_06">part 06 ›</a></div>
 </nav>
 
+
+so forgetful?”
+
+
+
+“Phoo! phoo!” replied Charles, “what’s an evening party? Never worth
+
+remembering. Your father might have asked us to dinner, I think, if he
+
+had wanted to see us. You may do as you like, but I shall go to the
+
+play.”
+
+
+
+“Oh! Charles, I declare it will be too abominable if you do, when you
+
+promised to go.”
+
+
+
+“No, I did not promise. I only smirked and bowed, and said the word
+
+‘happy.’ There was no promise.”
+
+
+
+“But you must go, Charles. It would be unpardonable to fail. We were
+
+asked on purpose to be introduced. There was always such a great
 
 connexion between the Dalrymples and ourselves. Nothing ever happened
 
@@ -209,25 +239,3 @@ a man of such an air and appearance as his. The past was nothing. The
 present was that [[Captain Wentworth]] would move about [[Well|well]] in her
 
 drawing-room. The card was pointedly given, and Sir Walter and
-
-Elizabeth arose and disappeared.
-
-
-
-The interruption had been short, though severe, and ease and animation
-
-returned to most of those they left as the door shut them out, but not
-
-to Anne. She could think only of the invitation she had with such
-
-astonishment witnessed, and of the manner in which it had been
-
-received; a manner of doubtful meaning, of surprise rather than
-
-gratification, of polite acknowledgement rather than acceptance. She
-
-knew him; she saw disdain in his eye, and could not venture to believe
-
-that he had determined to accept such an offering, as an atonement for
-
-all the insolence of the past. Her spirits sank. He held the card in

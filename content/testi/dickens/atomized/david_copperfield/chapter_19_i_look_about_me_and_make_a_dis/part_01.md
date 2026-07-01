@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 19: I LOOK ABOUT ME, AND MAKE A DISCOVERY (part 1)"
+title: "David Copperfield — Chapter 19: I LOOK ABOUT ME, AND MAKE A DISCOVERY (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -134,14 +134,3 @@ world, restored the sunshine to his face.
 that done immediately--it really must be done immediately! And then it
 will go in, you know--and then--’ said Mr. Dick, after checking himself,
 and pausing a long [[Time|time]], ‘there’ll be a pretty kettle of fish!’
-
-In pursuance of my aunt’s kind scheme, I was shortly afterwards fitted
-out with a handsome purse of money, and a portmanteau, and tenderly
-dismissed upon my expedition. At parting, my aunt gave me some good
-advice, and a good many kisses; and said that as her object was that I
-should look about me, and should think a little, she would recommend me
-to stay a few days in [[London]], if I liked it, either on my way down into
-Suffolk, or in coming back. In a word, I was at liberty to do what I
-would, for three weeks or a month; and no other conditions were imposed
-upon my [[Freedom|freedom]] than the before-mentioned thinking and looking about me,
-and a pledge to write three times a week and faithfully report myself.

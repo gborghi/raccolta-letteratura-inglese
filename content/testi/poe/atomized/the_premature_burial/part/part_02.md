@@ -1,5 +1,5 @@
 ---
-title: "[[The Premature Burial]] (part 2)"
+title: "The Premature Burial (part 2)"
 author: "Poe"
 unitType: excerpt
 tags:
@@ -116,13 +116,3 @@ tags:
       knowledge of his resuscitation was withheld, until a relapse was
       no longer to be apprehended. Their [[Wonder|wonder]]—their rapturous
       astonishment—may be conceived.
-
-      The most thrilling peculiarity of this incident, nevertheless, is
-      involved in what Mr. S. himself asserts. He declares that at no
-      period was he altogether insensible—that, dully and confusedly,
-      he was aware of everything which happened to him, from the moment
-      in which he was pronounced dead by his physicians, to that in
-      which he fell swooning to the floor of the hospital. “I am
-      alive,” were the uncomprehended words which, upon recognizing the
-      locality of the dissecting-room, he had endeavored, in his
-      extremity, to utter.

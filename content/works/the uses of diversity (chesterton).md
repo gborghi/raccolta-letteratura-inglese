@@ -52,7 +52,7 @@ tags:
 - [Story 19 The Humour of King Herod](/testi/chesterton/atomized/the_uses_of_diversity/story_19_the_humour_of_king_herod)
 - [Story 20 The Silver Goblets](/testi/chesterton/atomized/the_uses_of_diversity/story_20_the_silver_goblets)
 - [Story 21 The Duty of the Historian](/testi/chesterton/atomized/the_uses_of_diversity/story_21_the_duty_of_the_historian)
-- [Story 22 Questions of Divorce](/testi/chesterton/atomized/the_uses_of_diversity/story_22_questions_of_divorce)
+- Story 22 Questions of Divorce
 - [Story 23 Mormonism](/testi/chesterton/atomized/the_uses_of_diversity/story_23_mormonism)
 - [Story 24 Pageants and Dress](/testi/chesterton/atomized/the_uses_of_diversity/story_24_pageants_and_dress)
 - [Story 25 On Stage Costume](/testi/chesterton/atomized/the_uses_of_diversity/story_25_on_stage_costume)

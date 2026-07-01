@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 6"
+title: "The Tenant of Wildfell Hall — Chapter 6"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -86,7 +86,7 @@ with a smile.
 
 
 
-As for [[arthur|Arthur]], he would shout his welcome from afar, and run to meet me
+As for [[Arthur]], he would shout his welcome from afar, and run to meet me
 
 fifty yards from his mother’s side. If I happened to be on horseback he
 
@@ -208,7 +208,7 @@ the [[rolling]] of the meadow-land, and the repairing of a hedge in the
 
 valley, I saw Mrs. Graham down by the brook, with a [[Sketch|sketch]]-book in her
 
-hand, absorbed in the exercise of her favourite art, while [[arthur|Arthur]] was
+hand, absorbed in the exercise of her favourite art, while [[Arthur]] was
 
 putting on the [[Time|time]] with constructing dams and breakwaters in the
 
@@ -254,7 +254,7 @@ superintendence.
 
 
 
-“Then,” said I, “I’ll talk to [[arthur|Arthur]] till you’ve done.”
+“Then,” said I, “I’ll talk to [[Arthur]] till you’ve done.”
 
 
 
@@ -274,7 +274,7 @@ the strong black mare was pulling the roller.
 
 
 
-“No, no, [[arthur|Arthur]]; it’s too far,” objected his mother.
+“No, no, [[Arthur]]; it’s too far,” objected his mother.
 
 
 
@@ -346,7 +346,7 @@ moment of silent contemplation.
 
 
 
-“I do, sometimes,” replied she. “On [[Winter|winter]] evenings, when [[arthur|Arthur]] is in
+“I do, sometimes,” replied she. “On [[Winter|winter]] evenings, when [[Arthur]] is in
 
 bed, and I am sitting there [[Alone|alone]], hearing the bleak [[Wind|wind]] moaning round
 

@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 4 (part 6)"
+title: "Martin Chuzzlewit — Chapter 4 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,70 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_04/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_04/part_07">part 07 ›</a></div>
 </nav>
 
+
+‘This,’ said Mr Pecksniff, rising and looking round upon them with
+folded hands, ‘does me good. It does my daughters good. We thank you for
+assembling here. We are grateful to you with our whole hearts. It is a
+blessed distinction that you have conferred upon us, and believe me’--it
+is impossible to conceive how he smiled here--‘we shall not easily
+forget it.’
+
+‘I am sorry to interrupt you, Pecksniff,’ remarked Mr Spottletoe, with
+his whiskers in a very portentous state; ‘but you are assuming too much
+to yourself, sir. Who do you imagine has it in contemplation to confer a
+distinction upon YOU, sir?’
+
+A general murmur echoed this inquiry, and applauded it.
+
+‘If you are about to pursue the course with which you have begun, sir,’
+pursued Mr Spottletoe in a great heat, and giving a violent rap on
+the table with his knuckles, ‘the sooner you desist, and this assembly
+separates, the better. I am no stranger, sir, to your preposterous
+[[Desire|desire]] to be regarded as the head of this family, but I can tell YOU,
+sir--’
+
+Oh yes, indeed! HE tell. HE! What? He was the head, was he? From the
+strong-minded woman downwards everybody fell, that instant, upon Mr
+Spottletoe, who after vainly attempting to be heard in [[Silence|silence]] was
+fain to sit down again, folding his arms and shaking his head most
+wrathfully, and giving Mrs Spottletoe to understand in dumb show, that
+that scoundrel Pecksniff might go on for the present, but he would cut
+in presently, and annihilate him.
+
+‘I am not sorry,’ said Mr Pecksniff in resumption of his address, ‘I am
+really not sorry that this little incident has happened. It is good to
+feel that we are met here without disguise. It is good to know that we
+have no reserve before each other, but are appearing freely in our own
+characters.’
+
+Here, the eldest daughter of the strong-minded woman [[Rose|rose]] a little way
+from her seat, and trembling violently from head to foot, more as it
+seemed with passion than timidity, expressed a general [[Hope|hope]] that some
+people WOULD appear in their own characters, if it were only for such
+a proceeding having the attraction of novelty to recommend it; and that
+when they (meaning the some people before mentioned) talked about their
+relations, they would be careful to observe who was present in company
+at the [[Time|time]]; otherwise it might come round to those relations’ ears, in
+a way they little expected; and as to red noses (she observed) she
+had yet to learn that a red nose was any disgrace, inasmuch as people
+neither made nor coloured their own noses, but had that feature provided
+for them without being first consulted; though even upon that branch of
+the subject she had great doubts whether certain noses were redder than
+other noses, or indeed half as red as some. This remark being received
+with a shrill titter by the two sisters of the speaker, Miss [[Charity]]
+Pecksniff begged with much politeness to be informed whether any of
+those very low observations were levelled at her; and receiving no more
+explanatory answer than was conveyed in the adage ‘Those the cap fits,
+let them wear it,’ immediately commenced a somewhat acrimonious and
+personal retort, wherein she was much comforted and abetted by her
+sister [[Mercy]], who laughed at the same with great heartiness; indeed
+far more naturally than life. And it being quite impossible that any
+difference of opinion can take place among women without every woman who
+is within hearing taking active part in it, the strong-minded lady and
+her two daughters, and Mrs Spottletoe, and the deaf cousin (who was
+not at all disqualified from joining in the dispute by reason of being
+perfectly unacquainted with its merits), one and all plunged into the
+quarrel directly.
 
 The two Miss Pecksniffs being a pretty good match for the three Miss
 Chuzzlewits, and all five young ladies having, in the figurative
@@ -56,89 +120,3 @@ peculiar keenness from the first--‘don’t you be a hypocrite.’
 ‘[[Charity]], my dear,’ said Mr Pecksniff, ‘when I take my chamber
 candlestick to-[[Night|night]], remind me to be more than usually particular in
 praying for Mr Anthony Chuzzlewit; who has done me an injustice.’
-
-This was said in a very bland voice, and aside, as being addressed to
-his daughter’s private ear. With a cheerfulness of [[Conscience|conscience]], prompting
-almost a sprightly demeanour, he then resumed:
-
-‘All our thoughts centring in our very dear but unkind relative, and he
-being as it were beyond our reach, we are met to-day, really as if we
-were a funeral party, except--a blessed exception--that there is no [[Body|body]]
-in the [[house]].’
-
-The strong-minded lady was not at all sure that this was a blessed
-exception. Quite the contrary.
-
-‘[[Well]], my dear madam!’ said Mr Pecksniff. ‘Be that as it may, here we
-are; and being here, we are to consider whether it is possible by any
-justifiable means--’
-
-‘Why, you know as [[Well|well]] as I,’ said the strong-minded lady, ‘that any
-means are justifiable in such a case, don’t you?’
-
-‘Very good, my dear madam, very good; whether it is possible by ANY
-means, we will say by ANY means, to open the eyes of our valued
-relative to his present infatuation. Whether it is possible to make
-him acquainted by any means with the real character and purpose of that
-young female whose strange, whose very strange position, in reference
-to himself’--here Mr Pecksniff sunk his voice to an impressive
-whisper--‘really casts a [[Shadow|shadow]] of disgrace and shame upon this family;
-and who, we know’--here he raised his voice again--‘else why is she his
-companion? harbours the very basest designs upon his weakness and his
-property.’
-
-In their strong feeling on this point, they, who agreed in nothing else,
-all concurred as one mind. Good Heaven, that she should harbour designs
-upon his property! The strong-minded lady was for [[Poison|poison]], her three
-daughters were for Bridewell and bread-and-[[Water|water]], the cousin with
-the toothache advocated Botany Bay, the two Miss Pecksniffs suggested
-flogging. Nobody but Mr Tigg, who, notwithstanding his extreme
-shabbiness, was still understood to be in some sort a lady’s man,
-in right of his upper lip and his frogs, indicated a [[Doubt|doubt]] of the
-justifiable [[Nature|nature]] of these measures; and he only ogled the three Miss
-Chuzzlewits with the least admixture of banter in his admiration, as
-though he would observe, ‘You are positively down upon her to too great
-an extent, my sweet creatures, upon my [[Soul|soul]] you are!’
-
-‘Now,’ said Mr Pecksniff, crossing his two forefingers in a manner which
-was at once conciliatory and argumentative; ‘I will not, upon the one
-hand, go so far as to say that she deserves all the inflictions which
-have been so very forcibly and hilariously suggested;’ one of his
-ornamental sentences; ‘nor will I, upon the other, on any account
-compromise my common understanding as a man, by making the assertion
-that she does not. What I would observe is, that I think some practical
-means might be devised of inducing our respected, shall I say our
-revered--?’
-
-‘No!’ interposed the strong-minded woman in a loud voice.
-
-‘Then I will not,’ said Mr Pecksniff. ‘You are quite right, my
-dear madam, and I appreciate and thank you for your discriminating
-objection--our respected relative, to dispose himself to listen to the
-promptings of [[Nature|nature]], and not to the--’
-
-‘Go on, Pa!’ cried [[Mercy]].
-
-‘Why, the [[Truth|truth]] is, my dear,’ said Mr Pecksniff, smiling upon his
-assembled kindred, ‘that I am at a loss for a word. The name of those
-fabulous [[Animals|animals]] (pagan, I regret to say) who used to sing in the [[Water|water]],
-has quite escaped me.’
-
-Mr George Chuzzlewit suggested ‘swans.’
-
-‘No,’ said Mr Pecksniff. ‘Not swans. Very like swans, too. Thank you.’
-
-The nephew with the outline of a countenance, speaking for the first and
-last [[Time|time]] on that occasion, propounded ‘Oysters.’
-
-‘No,’ said Mr Pecksniff, with his own peculiar urbanity, ‘nor oysters.
-But by no means unlike oysters; a very excellent idea; thank you, my
-dear sir, very much. Wait! Sirens. Dear me! sirens, of course. I think,
-I say, that means might be devised of disposing our respected relative
-to listen to the promptings of [[Nature|nature]], and not to the siren-like
-delusions of art. Now we must not lose sight of the fact that our
-esteemed friend has a grandson, to whom he was, until lately, very much
-attached, and whom I could have wished to see here to-day, for I have a
-real and deep regard for him. A fine young man, a very fine young man!
-I would submit to you, whether we might not remove Mr Chuzzlewit’s
-distrust of us, and vindicate our own disinterestedness by--’

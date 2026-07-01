@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 19 (part 7)"
+title: "The Professor — Chapter 19 (part 7)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -10,15 +10,49 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/works/the-professor-(bronte)">The Professor</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_professor/chapter_20/part_06">‹ part 06</a><a class="ex-next" href="/testi/bronte/atomized/the_professor/chapter_21/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_professor/chapter_20/part_06">‹ part 06</a><a class="ex-next" href="/testi/bronte/atomized/the_professor/chapter_20/part_08">part 08 ›</a></div>
 </nav>
 
+
+Lost” from her shelf of classics, thinking, I suppose, the religious
+
+character of the book best adapted it to [[Sunday]]; I told her to begin at
+
+the beginning, and while she read [[Milton]]’s invocation to that heavenly
+
+muse, who on the “secret top of Oreb or Sinai” had taught the Hebrew
+
+shepherd how in the womb of chaos, the conception of a world had
+
+originated and ripened, I enjoyed, undisturbed, the treble pleasure of
+
+having her near me, hearing the sound of her voice--a sound sweet and
+
+satisfying in my ear--and looking, by intervals, at her face: of this
+
+last privilege, I chiefly availed myself when I found fault with an
+
+intonation, a pause, or an emphasis; as long as I dogmatized, I might
+
+also gaze, without exciting too warm a flush.
+
+“Enough,” said I, when she had gone through some half dozen pages (a
+
+work of [[Time|time]] with her, for she read slowly and paused often to ask and
+
+receive information)--“enough; and now the rain is ceasing, and I must
+
+soon go.” For indeed, at that moment, looking towards the [[Window|window]], I
+
+saw it all blue; the thunder-clouds were broken and scattered, and the
+
+setting August sun sent a gleam like the reflection of rubies through
+
+the lattice. I got up; I drew on my gloves.
 
 “You have not yet found another situation to supply the place of that
 
 from which you were dismissed by Mdlle. Reuter?”
-
-
 
 “No, monsieur; I have made inquiries everywhere, but they all ask me
 
@@ -40,11 +74,7 @@ only my own life, but that of another, depended on my exertions: of her
 
 I will never more ask a favour.”
 
-
-
 “How, then, do you propose to get on? How do you live now?”
-
-
 
 “I have still my lace-[[mending]] trade; with care it will keep me from
 
@@ -54,17 +84,11 @@ yet; it is only a fortnight since I began to try; my [[Courage|courage]] or hope
 
 are by no means worn out yet.”
 
-
-
 “And if you get what you wish, what then? what are your ultimate views?”
-
-
 
 “To save enough to [[Cross|cross]] the Channel: I always look to England as my
 
 Canaan.”
-
-
 
 “[[Well]], [[Well|well]]--ere long I shall pay you another visit; good evening now,”
 
@@ -134,8 +158,6 @@ previously to the event of her aunt’s [[Death|death]] and her dismissal, had
 
 almost recreated her whole frame.
 
-
-
 It has taken me several minutes to write these last sentences; but I had
 
 thought all their purport during the brief interval of descending the
@@ -165,97 +187,3 @@ rid of them. An expedient--a clumsy one no [[Doubt|doubt]], but the best I
 could devise-suggested itself to me. I darted up the stairs, knocked,
 
 re-entered the room as if in haste:--
-
-
-
-“Mademoiselle, I have forgotten one of my gloves; I must have left it
-
-here.”
-
-
-
-She instantly [[Rose|rose]] to seek it; as she turned her back, I--being now
-
-at the hearth--noiselessly lifted a little vase, one of a set of china
-
-ornaments, as old-fashioned as the tea-cups--slipped the money under it,
-
-then saying--“Oh here is my glove! I had dropped it within the fender;
-
-good evening, mademoiselle,” I made my second exit.
-
-
-
-Brief as my impromptu return had been, it had afforded me [[Time|time]] to pick
-
-up a heart-ache; I remarked that Frances had already removed the red
-
-embers of her cheerful little [[Fire|fire]] from the grate: forced to calculate
-
-every item, to save in every detail, she had instantly on my departure
-
-retrenched a luxury too expensive to be enjoyed [[Alone|alone]].
-
-
-
-“I am glad it is not yet [[Winter|winter]],” thought I; “but in two months more
-
-come the winds and rains of November; would to God that before then I
-
-could earn the right, and the power, to shovel coals into that grate AD
-
-LIBITUM!”
-
-
-
-Already the pavement was drying; a balmy and fresh breeze stirred the
-
-air, purified by [[Lightning|lightning]]; I felt the West behind me, where spread a
-
-sky like opal; azure immingled with crimson: the enlarged sun, glorious
-
-in Tyrian tints, dipped his brim already; stepping, as I was, eastward,
-
-I faced a vast bank of clouds, but also I had before me the arch of an
-
-evening rainbow; a perfect rainbow--high, wide, vivid. I looked long;
-
-my eye drank in the scene, and I suppose my brain must have absorbed
-
-it; for that [[Night|night]], after lying awake in pleasant fever a long [[Time|time]],
-
-watching the silent sheet-[[Lightning|lightning]], which still played among the
-
-retreating clouds, and flashed silvery over the [[Stars|stars]], I at last fell
-
-asleep; and then in [[A Dream|a dream]] were reproduced the setting sun, the bank of
-
-clouds, the mighty rainbow. I stood, methought, on a terrace; I leaned
-
-over a parapeted wall; there was space below me, depth I could not
-
-fathom, but hearing an endless dash of waves, I believed it to be the
-
-sea; sea spread to the horizon; sea of changeful green and intense
-
-blue: all was soft in the distance; all vapour-veiled. A spark of gold
-
-glistened on the line between [[Water|water]] and air, floated up, approached,
-
-enlarged, changed; the object hung midway between heaven and earth,
-
-under the arch of the rainbow; the soft but dusk clouds diffused behind.
-
-It hovered as on wings; pearly, fleecy, gleaming air streamed like
-
-raiment round it; light, tinted with carnation, coloured what seemed
-
-face and limbs; a large star shone with still lustre on an angel’s
-
-forehead; an upraised arm and hand, glancing like a ray, pointed to the
-
-bow overhead, and a voice in my heart whispered--
-
-
-
-“[[Hope]] smiles on Effort!”

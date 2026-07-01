@@ -14,116 +14,128 @@ tags:
 </nav>
 
 
-Because it is German I do not object to it in [[Germany]].
-Because it is German I should violently revolt against it in England.
-I do not revolt against the command to wait until the train stops,
-not because it is less rude, but because it is the kind of rudeness
-I can understand.  The official may be treating me casually,
-but at least he is not treating himself seriously.  And so, in return,
-I can treat him and his notice not seriously but casually.  I can
-neglect to wait until the train stops, and fall down on the platform;
-as I did on the platform of Wolverhampton, to the permanent damage
-of that fine structure.  I can, by a stroke of satiric genius,
-truly national and traditional, the dexterous elimination of a
-single letter, alter the maxim to "Wait until the rain stops."
-It is a jest as profoundly English as the weather to which it refers.
-Nobody would be tempted to take such a liberty with the German sentence;
-not only because he would be instantly imprisoned in a fortress,
-but because he would not know at which end to begin.
+Now I heard scores of such stories as the Sheridan story in Ireland,
+many of which I mention elsewhere; but I do not mention them here because
+they cannot be publicly tested; and that for a very simple reason.
+We must accept all the advantages and disadvantages of a rule
+of absolute and iron militarism.  We cannot impose [[Silence|silence]]
+and then sift stories; we cannot forbid argument and then ask
+for proof; we cannot destroy rights and then discover wrongs.
+I say this quite impartially in the matter of militarism itself.
+I am far from certain that soldiers are worse rulers than
+lawyers and merchants; and I am quite certain that a nation has
+a right to give abnormal power to its soldiers in [[Time|time]] of war.
+I only say that a soldier, if he is a sensible soldier,
+will know what he is doing and therefore what he cannot do;
+that he cannot gag a man and then [[Cross|cross]]-examine him, any more than
+he can blow out his brains and then convince his intelligence.
+There may be--humanly speaking, there must be--a mass of injustices
+in the militaristic [[government]] of Ireland.  The militarism itself
+may be the least of them; but it must involve the concealment
+of all the rest.
 
-Now this is the [[Truth|truth]] which is expressed, though perhaps very imperfectly,
-in things like the Gaelic lettering on streets in Dublin.
-It will be wholesome for us who are English to realise that there
-is almost certainly an English way of putting things, even the most
-harmless things, which appears to an Irishman quite as ungainly,
-unnatural, and ludicrous as that German sentence appears to me.
-As the famous Frenchman did not know when he was talking prose,
-the official Englishman does not know when he is talking English.
-He unconsciously assumes that he is talking Esperanto.
-Imperialism is not an insanity of patriotism; it is merely an
-illusion of cosmopolitanism.
+It has been remarked above that establishing militarism is a thing
+which a nation had a right to do, and (what is not at all the same thing)
+which it may be right in doing.  But with that very phrase "a nation,"
+we collide of course with the whole real question; the alleged
+abstract wrong about which the Irish talk much more than about their
+concrete wrongs.  I have put first the matters mentioned above,
+because I wish to make clear, as a matter of common sense, the impression
+of any reasonable [[Outsider|outsider]] that they certainly have concrete wrongs.
+But even those who [[Doubt|doubt]] it, and say that the Irish have no concrete
+grievance but only a sentiment of Nationalism, fall into a final and
+very serious error about the [[Nature|nature]] of the thing called Nationalism,
+and even the meaning of the word "concrete." For the [[Truth|truth]] is that,
+in dealing with a nation, the grievance which is most abstract
+of all is also the one which is most concrete of all.
 
-For the national note of the Irish language is not peculiar to what used
-to be called the Erse language.  The whole nation used the tongue
-common to both nations with a difference far beyond a dialect.
-It is not a difference of accent, but a difference of style;
-which is generally a difference of [[Soul|soul]].  The emphasis, the elision,
-the short cuts and sharp endings of speech, show a variety which
-may be almost unnoticeable but is none the less untranslatable.
-It may be only a little more weight on a word, or an inversion allowable
-in English but abounding in Irish; but we can no more copy it than copy
-the compactness of the French _on_ or the Latin ablative absolute.
-The commonest case of what I mean, for instance, is the locution
-that lingers in my mind with an agreeable phrase from one of
-Mr. Yeats's stories:  "Whom I shall yet see upon the hob of hell,
-and them screeching."  It is an idiom that gives the effect of a
-pointed postscript, a parting kick or sting in the tail of the sentence,
-which is unfathomably national.  It is noteworthy and even curious
-that quite a crowd of Irishmen, who quoted to me with just admiration
-the noble ending of _Kathleen-na-Hulahan,_ where the newcomer
-is asked if he has seen the old woman who is the tragic type
-of Ireland going out, quoted his answer in that form, "I did not.
-But I saw a young woman; and she walking like a [[Queen|queen]]."
-I say it is curious; because I have since been told that in
-the actual book (which I cannot lay my hand on at the moment)
-a more classic English idiom is used.  It would generally be most
-unwise to alter the diction of such a master of style as Mr. Yeats:
-though indeed it is possible that he altered it himself,
-as he has sometimes done, and not always, I think, for the better.
-But whether this form came from himself or from his countrymen,
-it was very redolent of his country.  And there was something
-inspiring in thus seeing, as it were before one's eyes, literature
-becoming legend.  But a hundred other examples could be given,
-even from my own short experience, of such fine turns of language,
-nor are the finest necessarily to be found in literature.
-It is perfectly true, though prigs may overwork and snobs
-underrate the [[Truth|truth]], that in a country like this the peasants
-can talk like poets.  When I was on the wild coast of Donegal,
-an old unhappy woman who had starved through the famines
-and the evictions, was telling a lady the tales of those times;
-and she mentioned quite naturally one that might have come straight
-out of times so mystical that we should call them mythical;
-that some travellers had met a poor wandering woman with a baby
-in those great gray rocky wastes, and asked her who she was.
-And she answered, "I am the Mother of God, and this is Himself;
-and He is the boy you will all be wanting at the last."
+Not only is patriotism a part of practical politics, but it is
+more practical than any politics.  To neglect it, and ask only
+for grievances, is like counting the clouds and forgetting the climate.
+To neglect it, and think only of laws, is like seeing the landmarks
+and never seeing the landscape.
 
-There is more in that story than can be put into any book,
-even on a matter in which its meaning plays so deep a part;
-and it seems almost profane to analyse it however sympathetically.
-But if any one wishes to know what I mean by the untranslatable [[Truth|truth]]
-which makes a language national, it will be worth while to look at
-the mere diction of that speech, and note how its whole effect turns on
-certain phrases and customs which happen to be peculiar to the nation.
-It is [[Well|well]] known that in Ireland the husband or head of the [[house]] is
-always called "himself"; nor is it peculiar to the peasantry, but adopted,
-if partly in jest, by the gentry.  A distinguished Dublin publicist,
-a landlord and leader among the more national aristocracy,
-always called me "himself" when he was talking to my wife.
-It will be noted how a sort of [[Shadow|shadow]] of that common meaning mingles
-with the more shining significance of its position in a sentence
-where it is also strictly logical, in the sense of theological.
-All literary style, especially national style, is made up
-of such coincidences; which are a spiritual sort of puns.
-That is why style is untranslatable; because it is possible to render
-the meaning, but not the [[Double|double]] meaning.  There is even a faint
-differentiation in the half-humorous possibilities of the word "boy";
-another wholly national nuance.  Say instead, "And He is the [[Child|child]]"
-and it is something perhaps stiffer, and certainly quite different.
-Take away, "This is Himself" and simply substitute "This is He";
-and it is a piece of pedantry ten thousand miles from the original.
-But above all it has lost its note of something national, because it
-has lost its note of something domestic.  All roads in Ireland,
-of fact or folk-lore, of theology or grammar, lead us back to that door
-and hearth of the household, that fortress of the family which is the
-key-fortress of the whole strategy of the island.  The Irish Catholics,
-like other Christians, admit a mystery in the Holy Trinity, but they
-may almost be said to admit an experience in the Holy Family.
-Their historical experience, alas, has made it seem to them
-not unnatural that the Holy Family should be a homeless family.
-They also have found that there was no room for them at the inn,
-or anywhere but in the jail; they also have dragged their
-new-born babes out of their cradles, and trailed in [[Despair|despair]]
-along the [[Road|road]] to [[Egypt]], or at least along the [[Road|road]] to [[Exile|exile]].
-They also have heard in the dark and the distance behind them,
-the noise of the horsemen of Herod.
+It will be found that the denial of nationality is much more of a
+daily nuisance than the denial of votes or the denial of juries.
+Nationality is the most practical thing, because so many things
+are national without being political, or without being legal.
+A man in a conquered country feels it when he goes to market or
+even goes to church, which may be more often than he goes to law;
+and the harvest is more general than the General Election.
+Altering the [[Flag|flag]] on the roof is like altering the sun in the sky;
+the very chimney-pots and lamp-posts look different.  Nay, after a
+certain interval of occupation, they are different.  As a man would know
+he was in a land of strangers before he knew it was a land of savages,
+so he knows a rule is alien long before he knows it is oppressive.
+It is not necessary for it to add injury to insult.
+
+For instance, when I first walked about Dublin, I was disposed
+to smile at the names of the streets being gravely inscribed
+in Gaelic as [[Well|well]] as English.  I will not here discuss the question
+of what is called the Irish language, the only arguable
+case against which is that it is not the Irish language.
+But at any rate it is not the English language, and I have come
+to appreciate more imaginatively the importance of that fact.
+It may be used rather as a weapon than a tool; but it is a national
+weapon if it is not a national tool.  I see the significance
+of having something which the eye commonly encounters, as it
+does a chimney-pot or a lamp-post; but which is like a chimney
+reared above an Irish hearth or a lamp to light an Irish [[Road|road]].
+I see the point of having a solid object in the street to remind
+an Irishman that he is in Ireland, as a red pillar-box reminds an
+Englishman that he is in England.  But there must be a thousand things
+as practical as pillar-boxes which remind an Irishman that, if he is
+in his country, it is not yet a free country; everything connected
+with the principal seat of [[government]] reminds him of it perpetually.
+It may not be easy for an Englishman to imagine how many of such
+daily details there are.  But there is, after all, one very simple
+effort of the fancy, which would fix the fact for him for ever.
+He has only to imagine that the Germans have conquered [[London]].
+
+A brilliant writer who has earned the name of a Pacifist, and even
+a Pro-German, once propounded to me his highly personal and even perverse
+type of internationalism by saying, as a sort of unanswerable challenge,
+"Wouldn't you rather be ruled by Goethe than by Walter Long?"  I replied
+that words could not express the wild [[Love|love]] and loyalty I should
+feel for Mr. Walter Long, if the only alternative were Goethe.
+I could not have put my own national case in a clearer or more
+compact form.  I might occasionally feel inclined to kill Mr. Long;
+but under the approaching [[Shadow|shadow]] of Goethe, I should feel more inclined
+to kill myself.  That is the deathly element in denationalisation;
+that it poisons life, itself, the most real of all realities.
+But perhaps the best way of putting the point conversationally is
+to say that Goethe would certainly put up a monument to Shakespeare.
+I would sooner die than walk past it every day of my life.
+And in the other case of the street inscriptions, it is [[Well|well]] to remember
+that these things, which we also walk past every day, are exactly the sort
+of things that always have, in a nameless fashion, the national note.
+If the Germans conquered [[London]], they would not need to massacre me
+or even enslave me, in order to annoy me; it would be quite enough
+that their notices were in a German style, if not in a German language.
+Suppose I looked up in an English railway carriage, and saw these
+words written in English exactly as I have seen them in a German
+railway carriage written in German:  "The outleaning of the [[Body|body]]
+from the [[Window|window]] of the carriage is because of the therewith
+bound up life's danger strictly prohibited."  It is not rude.
+It would certainly be impossible to complain that it is curt.
+I should not be annoyed by its brutality and brevity;
+but on the contrary by its elaborateness and even its laxity.
+But if it does not exactly shine in lucidity, it gives a reason;
+which after all is a very reasonable thing to do.  By every
+cosmopolitan test, it is more polite than the sentence I have read
+in my [[Childhood|childhood]]:  "Wait until the train stops."  This is curt;
+this might be called rude; but it never annoyed me in the least.
+The nearest I can get to defining my sentiment is to say that I
+can sympathise with the Englishman who wrote the English notice.
+Having a rude thing to write, he wrote it as quickly as he could,
+and went [[Home|home]] to his tea; or preferably to his beer.  But what is too
+much for me, an overpowering vision, is the thought of that German
+calmly sitting down to compose that sentence like a sort of [[Essay|essay]].
+It is the thought of him serenely waving away the one important word
+till the very end of the sentence, like the Day of Judgment to the end
+of the world.  It is perhaps the mere thought that he did not break
+down in the middle of it, but endured to the end; or that he could
+afterwards calmly review it, and see that sentence go marching by,
+like the whole German army.  In short, I do not object to it because it
+is dictatorial or despotic or bureaucratic or anything of the kind;
+but simply because it is German.

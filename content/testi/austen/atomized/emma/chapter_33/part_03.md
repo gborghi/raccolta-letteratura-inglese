@@ -1,5 +1,5 @@
 ---
-title: "[[Emma]] — Chapter 14 (part 3)"
+title: "Emma — Chapter 15 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/emma-(austen)"
@@ -14,137 +14,81 @@ tags:
 </nav>
 
 
-“We cannot suppose,” said [[Emma]], smiling, “that Mr. Elton would hesitate
-to assure you of there being a _very_ musical society in Highbury; and
-I [[Hope|hope]] you will not find he has outstepped the [[Truth|truth]] more than may be
-pardoned, in consideration of the motive.”
+Mr. Knightley was hard at work upon the lower buttons of his thick
+leather gaiters, and either the exertion of getting them together, or
+some other cause, brought the colour into his face, as he answered,
 
-“No, indeed, I have no doubts at all on that head. I am delighted to
-find myself in such a circle. I [[Hope|hope]] we shall have many sweet little
-concerts together. I think, Miss Woodhouse, you and I must establish a
-musical club, and have regular weekly meetings at your [[house]], or ours.
-Will not it be a good plan? If _we_ exert ourselves, I think we shall
-not be long in want of allies. Something of that [[Nature|nature]] would be
-particularly desirable for _me_, as an inducement to keep me in
-practice; for married women, you know—there is a sad story against
-them, in general. They are but too apt to give up music.”
+“Oh! are you there?—But you are miserably behindhand. Mr. Cole gave me
+a hint of it six weeks ago.”
 
-“But you, who are so extremely fond of it—there can be no danger,
-surely?”
+He stopped.—[[Emma]] felt her foot pressed by Mrs. Weston, and did not
+herself know what to think. In a moment he went on—
 
-“I should [[Hope|hope]] not; but really when I look around among my
-acquaintance, I tremble. Selina has entirely given up music—never
-touches the instrument—though she played sweetly. And the same may be
-said of Mrs. Jeffereys—Clara Partridge, that was—and of the two
-Milmans, now Mrs. Bird and Mrs. James Cooper; and of more than I can
-enumerate. Upon my word it is enough to put one in a fright. I used to
-be quite angry with Selina; but really I begin now to comprehend that a
-married woman has many things to call her attention. I believe I was
-half an hour this morning shut up with my housekeeper.”
+“That will never be, however, I can assure you. Miss Fairfax, I dare
+say, would not have me if I were to ask her—and I am very sure I shall
+never ask her.”
 
-“But every thing of that kind,” said [[Emma]], “will soon be in so regular
-a train—”
+[[Emma]] returned her friend’s pressure with interest; and was pleased
+enough to exclaim,
 
-“[[Well]],” said Mrs. Elton, laughing, “we shall see.”
+“You are not vain, Mr. Knightley. I will say that for you.”
 
-[[Emma]], finding her so determined upon neglecting her music, had nothing
-more to say; and, after a moment’s pause, Mrs. Elton chose another
-subject.
+He seemed hardly to hear her; he was thoughtful—and in a manner which
+shewed him not pleased, soon afterwards said,
 
-“We have been calling at Randalls,” said she, “and found them both at
-[[Home|home]]; and very pleasant people they seem to be. I like them extremely.
-Mr. Weston seems an excellent creature—quite a first-rate favourite
-with me already, I assure you. And _she_ appears so truly good—there is
-something so motherly and kind-hearted about her, that it wins upon one
-directly. She was your governess, I think?”
+“So you have been settling that I should marry [[Jane Fairfax]]?”
 
-[[Emma]] was almost too much astonished to answer; but Mrs. Elton hardly
-waited for the affirmative before she went on.
+“No indeed I have not. You have scolded me too much for match-making,
+for me to presume to take such a liberty with you. What I said just
+now, meant nothing. One says those sort of things, of course, without
+any idea of a serious meaning. Oh! no, upon my word I have not the
+smallest wish for your marrying [[Jane Fairfax]] or Jane any [[Body|body]]. You
+would not come in and sit with us in this comfortable way, if you were
+married.”
 
-“Having understood as much, I was rather astonished to find her so very
-lady-like! But she is really quite the gentlewoman.”
+Mr. Knightley was thoughtful again. The result of his reverie was, “No,
+[[Emma]], I do not think the extent of my admiration for her will ever take
+me by surprize.—I never had a thought of her in that way, I assure
+you.” And soon afterwards, “[[Jane Fairfax]] is a very charming young
+woman—but not even [[Jane Fairfax]] is perfect. She has a fault. She has
+not the open temper which a man would wish for in a wife.”
 
-“Mrs. Weston’s manners,” said [[Emma]], “were always particularly good.
-Their propriety, simplicity, and elegance, would make them the safest
-model for any young woman.”
+[[Emma]] could not but rejoice to hear that she had a fault. “[[Well]],” said
+she, “and you soon silenced Mr. Cole, I suppose?”
 
-“And who do you think came in while we were there?”
+“Yes, very soon. He gave me a quiet hint; I told him he was mistaken;
+he asked my pardon and said no more. Cole does not want to be wiser or
+wittier than his neighbours.”
 
-[[Emma]] was quite at a loss. The tone implied some old acquaintance—and
-how could she possibly guess?
+“In that respect how unlike dear Mrs. Elton, who wants to be wiser and
+wittier than all the world! I [[Wonder|wonder]] how she speaks of the Coles—what
+she calls them! How can she find any appellation for them, deep enough
+in familiar vulgarity? She calls you, Knightley—what can she do for Mr.
+Cole? And so I am not to be surprized that [[Jane Fairfax]] accepts her
+civilities and consents to be with her. Mrs. Weston, your argument
+weighs most with me. I can much more readily enter into the [[Temptation|temptation]]
+of getting away from [[Miss Bates]], than I can believe in the triumph of
+Miss Fairfax’s mind over Mrs. Elton. I have no [[Faith|faith]] in Mrs. Elton’s
+acknowledging herself the inferior in thought, word, or deed; or in her
+being under any restraint beyond her own scanty rule of good-breeding.
+I cannot imagine that she will not be continually insulting her visitor
+with praise, encouragement, and offers of service; that she will not be
+continually detailing her magnificent intentions, from the procuring
+her a permanent situation to the including her in those delightful
+exploring parties which are to take place in the barouche-landau.”
 
-“Knightley!” continued Mrs. Elton; “Knightley himself!—Was not it
-lucky?—for, not being within when he called the other day, I had never
-seen him before; and of course, as so particular a friend of Mr. E.’s,
-I had a great curiosity. ‘My friend Knightley’ had been so often
-mentioned, that I was really impatient to see him; and I must do my
-cara sposo the justice to say that he need not be ashamed of his
-friend. Knightley is quite the gentleman. I like him very much.
-Decidedly, I think, a very gentleman-like man.”
+“[[Jane Fairfax]] has feeling,” said Mr. Knightley—“I do not accuse her of
+want of feeling. Her sensibilities, I suspect, are strong—and her
+temper excellent in its power of forbearance, patience, [[Self|self]]-control;
+but it wants openness. She is reserved, more reserved, I think, than
+she used to be—And I [[Love|love]] an open temper. No—till Cole alluded to my
+supposed attachment, it had never entered my head. I saw [[Jane Fairfax]]
+and conversed with her, with admiration and pleasure always—but with no
+thought beyond.”
 
-Happily, it was now [[Time|time]] to be gone. They were off; and [[Emma]] could
-breathe.
+“[[Well]], Mrs. Weston,” said [[Emma]] triumphantly when he left them, “what do
+you say now to Mr. Knightley’s marrying [[Jane Fairfax]]?”
 
-“Insufferable woman!” was her immediate exclamation. “Worse than I had
-supposed. Absolutely insufferable! Knightley!—I could not have believed
-it. Knightley!—never seen him in her life before, and call him
-Knightley!—and discover that he is a gentleman! A little upstart,
-vulgar being, with her Mr. E., and her _caro_ _sposo_, and her
-resources, and all her airs of pert pretension and underbred finery.
-Actually to discover that Mr. Knightley is a gentleman! I [[Doubt|doubt]] whether
-he will return the compliment, and discover her to be a lady. I could
-not have believed it! And to propose that she and I should unite to
-form a musical club! One would fancy we were bosom friends! And Mrs.
-Weston!—Astonished that the person who had brought me up should be a
-gentlewoman! Worse and worse. I never met with her equal. Much beyond
-my hopes. Harriet is disgraced by any comparison. Oh! what would Frank
-Churchill say to her, if he were here? How angry and how diverted he
-would be! Ah! there I am—thinking of him directly. Always the first
-person to be thought of! How I catch myself out! [[Frank Churchill]] comes
-as regularly into my mind!”—
-
-All this ran so glibly through her thoughts, that by the [[Time|time]] her
-father had arranged himself, after the bustle of the Eltons’ departure,
-and was ready to speak, she was very tolerably capable of attending.
-
-“[[Well]], my dear,” he deliberately began, “considering we never saw her
-before, she seems a very pretty sort of young lady; and I dare say she
-was very much pleased with you. She speaks a little too quick. A little
-quickness of voice there is which rather hurts the ear. But I believe I
-am nice; I do not like strange voices; and nobody speaks like you and
-poor Miss Taylor. However, she seems a very obliging, pretty-behaved
-young lady, and no [[Doubt|doubt]] will make him a very good wife. Though I think
-he had better not have married. I made the best excuses I could for not
-having been able to wait on him and Mrs. Elton on this happy occasion;
-I said that I hoped I _should_ in the course of the [[Summer|summer]]. But I ought
-to have gone before. Not to wait upon a bride is very remiss. Ah! it
-shews what a sad invalid I am! But I do not like the corner into
-Vicarage Lane.”
-
-“I dare say your apologies were accepted, sir. Mr. Elton knows you.”
-
-“Yes: but a young lady—a bride—I ought to have paid my respects to her
-if possible. It was being very deficient.”
-
-“But, my dear papa, you are no friend to matrimony; and therefore why
-should you be so anxious to pay your respects to a _bride_? It ought to
-be no recommendation to _you_. It is encouraging people to marry if you
-make so much of them.”
-
-“No, my dear, I never encouraged any [[Body|body]] to marry, but I would always
-wish to pay every proper attention to a lady—and a bride, especially,
-is never to be neglected. More is avowedly due to _her_. A bride, you
-know, my dear, is always the first in company, let the others be who
-they may.”
-
-“[[Well]], papa, if this is not encouragement to marry, I do not know what
-is. And I should never have expected you to be lending your sanction to
-such [[Vanity|vanity]]-baits for poor young ladies.”
-
-“My dear, you do not understand me. This is a matter of mere common
-politeness and good-breeding, and has nothing to do with any
-encouragement to people to marry.”
-
-[[Emma]] had done. Her father was growing nervous, and could not understand
-_her_. Her mind returned to Mrs. Elton’s offences, and long, very long,
-did they occupy her.
+“Why, really, dear [[Emma]], I say that he is so very much occupied by the
+idea of _not_ being in [[Love|love]] with her, that I should not [[Wonder|wonder]] if it
+were to end in his being so at last. Do not beat me.”

@@ -68,7 +68,7 @@ tags:
 - [Chapter 04](/testi/dickens/atomized/a_tale_of_two_cities/chapter_04)
 - [Chapter 05](/testi/dickens/atomized/a_tale_of_two_cities/chapter_05)
 - [Chapter 06](/testi/dickens/atomized/a_tale_of_two_cities/chapter_06)
-- [Chapter 07 the Golden Thread](/testi/dickens/atomized/a_tale_of_two_cities/chapter_07_the_golden_thread)
+- Chapter 07 the Golden Thread
 - [Chapter 08](/testi/dickens/atomized/a_tale_of_two_cities/chapter_08)
 - [Chapter 09](/testi/dickens/atomized/a_tale_of_two_cities/chapter_09)
 - [Chapter 10](/testi/dickens/atomized/a_tale_of_two_cities/chapter_10)
@@ -93,7 +93,7 @@ tags:
 - [Chapter 29](/testi/dickens/atomized/a_tale_of_two_cities/chapter_29)
 - [Chapter 30](/testi/dickens/atomized/a_tale_of_two_cities/chapter_30)
 - [Chapter 31](/testi/dickens/atomized/a_tale_of_two_cities/chapter_31)
-- [Chapter 32 the Track of a Storm](/testi/dickens/atomized/a_tale_of_two_cities/chapter_32_the_track_of_a_storm)
+- Chapter 32 the Track of a Storm
 - [Chapter 33](/testi/dickens/atomized/a_tale_of_two_cities/chapter_33)
 - [Chapter 34](/testi/dickens/atomized/a_tale_of_two_cities/chapter_34)
 - [Chapter 35](/testi/dickens/atomized/a_tale_of_two_cities/chapter_35)
@@ -107,8 +107,8 @@ tags:
 - [Chapter 43](/testi/dickens/atomized/a_tale_of_two_cities/chapter_43)
 - [Chapter 44](/testi/dickens/atomized/a_tale_of_two_cities/chapter_44)
 - [Chapter 45](/testi/dickens/atomized/a_tale_of_two_cities/chapter_45)
-- [Chapter 46](/testi/dickens/atomized/a_tale_of_two_cities/chapter_46)
-- [Chapter 47](/testi/dickens/atomized/a_tale_of_two_cities/chapter_47)
+- Chapter 46
+- Chapter 47
 
 
 ## Testo integrale / Full text

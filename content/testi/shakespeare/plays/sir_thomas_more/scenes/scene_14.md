@@ -1,5 +1,5 @@
 ---
-title: "[[Sir Thomas More]] — Scene 14"
+title: "Sir Thomas More — Scene 14"
 author: "Shakespeare"
 unitType: scene
 parentWork: "works/sir-thomas-more-(shakespeare)"

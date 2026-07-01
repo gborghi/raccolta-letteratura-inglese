@@ -55,7 +55,7 @@ a story. There was sometimes no background and no middle distance in
 his mind. A human face and the pattern on the wall behind it came
 forward with equally aggressive clearness. It may be repeated, that if
 ever he who had the strongest head in the world had gone mad, it would
-have been through this turbulent [[Democracy|democracy]] of things. If he looked at
+have been through this turbulent [[democracy]] of things. If he looked at
 a porcelain vase or an old hat, a cabbage, or a puppy at play, each
 began to be bewitched with the spell of a kind of fairyland of
 philosophers: the vase, like the jar in the _Arabian Nights_, to send
@@ -105,19 +105,3 @@ of life by taking as a text a poor story. It pays to existence the
 highest of all possible compliments--the great compliment which
 monarchy paid to mankind--the compliment of selecting from it almost
 at random.
-
-But this is only the first half of the claim of _The Ring and the
-Book_ to be the typical [[Epic|epic]] of modern times. The second half of that
-claim, the second respect in which the work is representative of all
-modern development, requires somewhat more careful statement. _The
-Ring and the Book_ is of course, essentially speaking, a [[Detective|detective]]
-story. Its difference from the ordinary [[Detective|detective]] story is that it
-seeks to establish, not the centre of criminal [[Guilt|guilt]], but the centre
-of spiritual [[Guilt|guilt]]. But it has exactly the same kind of exciting
-quality that a [[Detective|detective]] story has, and a very excellent quality it
-is. But the element which is important, and which now requires
-pointing out, is the method by which that centre of spiritual [[Guilt|guilt]]
-and the corresponding centre of spiritual rectitude is discovered. In
-order to make clear the peculiar character of this method, it is
-necessary to begin rather nearer the beginning, and to go back some
-little way in literary [[history]].

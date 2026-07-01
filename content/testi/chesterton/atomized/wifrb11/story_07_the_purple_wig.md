@@ -1,5 +1,5 @@
 ---
-title: "[[wifrb11]] — The Purple Wig"
+title: "wifrb11 — The Purple Wig"
 author: "Chesterton"
 unitType: story
 parentWork: "works/wifrb11-(chesterton)"
@@ -16,7 +16,6 @@ tags:
 
                             The Purple Wig
 
-
 MR EDWARD NUTT, the industrious editor of the Daily Reformer,
 sat at his desk, opening letters and marking proofs to the merry tune
 of a typewriter, worked by a vigorous young lady.
@@ -27,8 +26,8 @@ rather babyish blue eyes had a bewildered and even wistful look
 that rather contradicted all this.  Nor indeed was the expression
 altogether misleading.  It might truly be said of him, as for many
 journalists in authority, that his most familiar emotion was one of
-continuous [[Fear|fear]]; [[Fear|fear]] of libel actions, [[Fear|fear]] of lost advertisements,
-[[Fear|fear]] of misprints, [[Fear|fear]] of the sack.
+continuous fear; fear of libel actions, fear of lost advertisements,
+fear of misprints, fear of the sack.
 
      His life was a series of distracted compromises between
 the proprietor of the paper (and of him), who was a senile soap-boiler
@@ -48,26 +47,26 @@ rang a bell and sent it flying upstairs.
 more distinguished contributor, which bore a postmark of Devonshire,
 and read as follows:
 
-     DEAR NUTT,--As I see you're working Spooks and Dooks at the same [[Time|time]],
+     DEAR NUTT,--As I see you're working Spooks and Dooks at the same time,
 what about an article on that rum business of the Eyres of Exmoor;
 or as the old women call it down here, the Devil's Ear of Eyre? 
 The head of the family, you know, is the Duke of Exmoor; he is one of
-the few really stiff old Tory aristocrats left, a sound old crusted [[Tyrant|tyrant]]
+the few really stiff old Tory aristocrats left, a sound old crusted tyrant
 it is quite in our line to make trouble about.  And I think I'm
 on the track of a story that will make trouble.
 
      Of course I don't believe in the old legend about James I;
 and as for you, you don't believe in anything, not even in journalism. 
 The legend, you'll probably remember, was about the blackest business
-in English [[history]]--the poisoning of Overbury by that [[Witch|witch]]'s cat
-Frances Howard, and the quite mysterious terror which forced the [[King]]
+in English history--the poisoning of Overbury by that witch's cat
+Frances Howard, and the quite mysterious terror which forced the King
 to pardon the murderers.  There was a lot of alleged witchcraft
 mixed up with it; and the story goes that a man-servant listening
-at the keyhole heard the [[Truth|truth]] in a talk between the [[King]] and Carr;
+at the keyhole heard the truth in a talk between the King and Carr;
 and the bodily ear with which he heard grew large and monstrous
-as by [[Magic|magic]], so awful was the secret.  And though he had to be loaded
+as by magic, so awful was the secret.  And though he had to be loaded
 with lands and gold and made an ancestor of dukes, the elf-shaped ear
-is still recurrent in the family.  [[Well]], you don't believe in black [[Magic|magic]];
+is still recurrent in the family.  Well, you don't believe in black magic;
 and if you did, you couldn't use it for copy.  If a miracle happened
 in your office, you'd have to hush it up, now so many bishops
 are agnostics.  But that is not the point The point is that
@@ -76,18 +75,18 @@ something quite natural, I dare say, but quite abnormal.
 And the Ear is in it somehow, I fancy; either a symbol or a delusion
 or disease or something.  Another tradition says that Cavaliers
 just after James I began to wear their hair long only to cover
-the ear of the first Lord Exmoor.  This also is no [[Doubt|doubt]] fanciful.
+the ear of the first Lord Exmoor.  This also is no doubt fanciful.
 
      The reason I point it out to you is this:  It seems to me that
 we make a mistake in attacking aristocracy entirely for its champagne
-and diamonds.  Most men rather admire the nobs for having a good [[Time|time]],
+and diamonds.  Most men rather admire the nobs for having a good time,
 but I think we surrender too much when we admit that aristocracy
 has made even the aristocrats happy.  I suggest a series of articles
-pointing out how dreary, how inhuman, how downright [[diabolist]],
+pointing out how dreary, how inhuman, how downright diabolist,
 is the very smell and atmosphere of some of these great houses. 
 There are plenty of instances; but you couldn't begin with a better one
 than the Ear of the Eyres.  By the end of the week I think I can
-get you the [[Truth|truth]] about it.--Yours ever, FRANCIS FINN.
+get you the truth about it.--Yours ever, FRANCIS FINN.
 
      Mr Nutt reflected a moment, staring at his left boot;
 then he called out in a strong, loud and entirely lifeless voice,
@@ -100,14 +99,14 @@ Saturday.--Yours, E. NUTT.
      This elaborate epistle he articulated as if it were all one word;
 and Miss Barlow rattled it down as if it were all one word. 
 Then he took up another strip of proof and a blue pencil,
-and altered the word "[[Supernatural|supernatural]]" to the word "marvellous",
+and altered the word "supernatural" to the word "marvellous",
 and the expression "shoot down" to the expression "repress".
 
      In such happy, healthful activities did Mr Nutt disport himself,
 until the ensuing Saturday found him at the same desk, dictating to
 the same typist, and using the same blue pencil on the first instalment
 of Mr Finn's revelations.  The opening was a sound piece of slashing
-invective about the evil [[Secrets|secrets]] of princes, and [[Despair|despair]] in the high places
+invective about the evil secrets of princes, and despair in the high places
 of the earth.  Though written violently, it was in excellent English;
 but the editor, as usual, had given to somebody else the task
 of breaking it up into sub-headings, which were of a spicier sort,
@@ -116,11 +115,10 @@ and so on through a hundred happy changes.  Then followed the legend
 of the Ear, amplified from Finn's first letter, and then the substance
 of his later discoveries, as follows:
 
-
      I know it is the practice of journalists to put the end of the story
 at the beginning and call it a headline.  I know that journalism
-largely consists in saying "Lord [[Jones]] Dead" to people who never knew
-that Lord [[Jones]] was alive.  Your present correspondent thinks that this,
+largely consists in saying "Lord Jones Dead" to people who never knew
+that Lord Jones was alive.  Your present correspondent thinks that this,
 like many other journalistic customs, is bad journalism; and that
 the Daily Reformer has to set a better example in such things. 
 He proposes to tell his story as it occurred, step by step. 
@@ -133,16 +131,16 @@ a private Devonshire orchard and seems to point towards Devonshire cider,
 when I came suddenly upon just such a place as the path suggested. 
 It was a long, low inn, consisting really of a cottage and two barns;
 thatched all over with the thatch that looks like brown and grey hair
-grown before [[history]].  But outside the door was a sign which
+grown before history.  But outside the door was a sign which
 called it the Blue Dragon; and under the sign was one of those long
 rustic tables that used to stand outside most of the free English inns,
-before teetotallers and brewers between them destroyed [[Freedom|freedom]]. 
+before teetotallers and brewers between them destroyed freedom. 
 And at this table sat three gentlemen, who might have lived
 a hundred years ago.
 
      Now that I know them all better, there is no difficulty
 about disentangling the impressions; but just then they looked like
-three very solid [[Ghosts|ghosts]].  The dominant figure, both because he was
+three very solid ghosts.  The dominant figure, both because he was
 bigger in all three dimensions, and because he sat centrally
 in the length of the table, facing me, was a tall, fat man dressed
 completely in black, with a rubicund, even apoplectic visage,
@@ -152,7 +150,7 @@ the sense of antiquity, except the antique cut of his white
 clerical necktie and the barred wrinkles across his brow.
 
      It was even less easy to fix the impression in the case of
-the man at the right end of the table, who, to say [[Truth|truth]],
+the man at the right end of the table, who, to say truth,
 was as commonplace a person as could be seen anywhere, with a round,
 brown-haired head and a round snub nose, but also clad in clerical black,
 of a stricter cut.  It was only when I saw his broad curved hat lying
@@ -181,18 +179,18 @@ I did not need to summon much of my impudence to sit down at
 the long table and order some cider.  The big man in black seemed
 very learned, especially about local antiquities; the small man in black,
 though he talked much less, surprised me with a yet wider culture. 
-So we got on very [[Well|well]] together; but the third man, the old gentleman
+So we got on very well together; but the third man, the old gentleman
 in the tight pantaloons, seemed rather distant and haughty,
 until I slid into the subject of the Duke of Exmoor and his ancestry.
 
      I thought the subject seemed to embarrass the other two a little;
-but it broke the spell of the third man's [[Silence|silence]] most successfully. 
+but it broke the spell of the third man's silence most successfully. 
 Speaking with restraint and with the accent of a highly educated gentleman,
 and puffing at intervals at his long churchwarden pipe, he proceeded
 to tell me some of the most horrible stories I have ever heard in my life: 
 how one of the Eyres in the former ages had hanged his own father;
 and another had his wife scourged at the cart tail through the village;
-and another had set [[Fire|fire]] to a church full of children, and so on.
+and another had set fire to a church full of children, and so on.
 
      Some of the tales, indeed, are not fit for public print--,
 such as the story of the Scarlet Nuns, the abominable story of
@@ -206,7 +204,7 @@ if anything, to stop him; but he evidently held the old gentleman
 in considerable respect, and could not venture to do so at all abruptly. 
 And the little priest at the other end of the-table, though free from
 any such air of embarrassment, looked steadily at the table,
-and seemed to listen to the recital with great [[Pain|pain]]--as [[Well|well]] as he might.
+and seemed to listen to the recital with great pain--as well as he might.
 
      "You don't seem," I said to the narrator, "to be very fond of
 the Exmoor pedigree."
@@ -230,7 +228,7 @@ of the twinkling apple-trees.
 a baffled bull; he did not at first seem to take it in.  Then he said
 at last, "Don't you know who he is?"
 
-     I reaffirmed my ignorance, and there was another [[Silence|silence]];
+     I reaffirmed my ignorance, and there was another silence;
 then the little priest said, still looking at the table, "That is
 the Duke of Exmoor."
 
@@ -246,7 +244,7 @@ the old dukes like that?"
 "That's why he wears a wig."
 
      It was a few moments before his meaning dawned on me. 
-"You don't mean that [[Fable|fable]] about the fantastic ear?" I demanded. 
+"You don't mean that fable about the fantastic ear?" I demanded. 
 "I've heard of it, of course, but surely it must be a superstitious yarn
 spun out of something much simpler.  I've sometimes thought it was
 a wild version of one of those mutilation stories.  They used to crop
@@ -260,12 +258,12 @@ than the other."
      The big librarian had buried his big bald brow in his big red hands,
 like a man trying to think out his duty.  "No," he groaned. 
 "You do the man a wrong after all.  Understand, I've no reason
-to defend him, or even keep [[Faith|faith]] with him.  He has been a [[Tyrant|tyrant]] to me
+to defend him, or even keep faith with him.  He has been a tyrant to me
 as to everybody else.  Don't fancy because you see him sitting here
 that he isn't a great lord in the worst sense of the word. 
 He would fetch a man a mile to ring a bell a yard off--if it would
 summon another man three miles to fetch a matchbox three yards off. 
-He must have a footman to carry his walking-stick; a [[Body|body]] servant
+He must have a footman to carry his walking-stick; a body servant
 to hold up his opera-glasses--"
 
      "But not a valet to brush his clothes," cut in the priest,
@@ -273,10 +271,10 @@ with a curious dryness, "for the valet would want to brush his wig, too."
 
      The librarian turned to him and seemed to forget my presence;
 he was strongly moved and, I think, a little heated with wine. 
-"I don't know how you know it, [[Father Brown]]," he said, "but you are right. 
+"I don't know how you know it, Father Brown," he said, "but you are right. 
 He lets the whole world do everything for him--except dress him. 
-And that he insists on doing in a literal [[Solitude|solitude]] like a [[Desert|desert]]. 
-Anybody is kicked out of the [[house]] without a character who is
+And that he insists on doing in a literal solitude like a desert. 
+Anybody is kicked out of the house without a character who is
 so much as found near his dressing-room door.,
 
      "He seems a pleasant old party," I remarked.
@@ -295,7 +293,7 @@ any of us tried to defy the secret, and was scared away from it."
      I opened my mouth to speak, but Mull went on in oblivion of me,
 speaking out of the cavern of his hands.  "I don't mind telling you,
 Father, because it's really more defending the poor Duke than
-giving him away.  Didn't you ever hear of the [[Time|time]] when he
+giving him away.  Didn't you ever hear of the time when he
 very nearly lost all the estates?"
 
      The priest shook his head; and the librarian proceeded to
@@ -319,12 +317,12 @@ the final blow.  The blow fell at dinner; and the old librarian said
 he should never forget the very look of the lampshades and the decanters,
 as the little lawyer, with a steady smile, proposed to the great landlord
 that they should halve the estates between them.  The sequel certainly
-could not be overlooked; for the Duke, in dead [[Silence|silence]], smashed
+could not be overlooked; for the Duke, in dead silence, smashed
 a decanter on the man's bald head as suddenly as I had seen him smash
 the glass that day in the orchard.  It left a red triangular scar
 on the scalp, and the lawyer's eyes altered, but not his smile.
 
-     He [[Rose|rose]] tottering to his feet, and struck back as such men do strike. 
+     He rose tottering to his feet, and struck back as such men do strike. 
 "I am glad of that," he said, "for now I can take the whole estate. 
 The law will give it to me."
 
@@ -335,7 +333,7 @@ and if you take it I shall take off my wig....  Why, you pitiful
 plucked fowl, anyone can see your bare head.  But no man shall
 see mine and live."
 
-     [[Well]], you may say what you like and make it mean what you like. 
+     Well, you may say what you like and make it mean what you like. 
 But Mull swears it is the solemn fact that the lawyer, after shaking
 his knotted fists in the air for an instant, simply ran from the room
 and never reappeared in the countryside; and since then Exmoor has been
@@ -348,11 +346,10 @@ an old braggart and gossip.  But before I end this half of my discoveries,
 I think it due to Dr Mull to record that my two first inquiries
 have confirmed his story.  I learned from an old apothecary in the village
 that there was a bald man in evening dress, giving the name of Green,
-who came to him one [[Night|night]] to have a three-cornered cut on his forehead
+who came to him one night to have a three-cornered cut on his forehead
 plastered.  And I learnt from the legal records and old newspapers
 that there was a lawsuit threatened, and at least begun, by one Green
 against the Duke of Exmoor.
-
 
      Mr Nutt, of the Daily Reformer, wrote some highly incongruous
 words across the top of the copy, made some highly mysterious marks
@@ -368,26 +365,24 @@ a Spiritualist.
 
                                                   E.  NUTT.
 
-
      A day or two afterward found the active and judicious editor
 examining, with blue eyes that seemed to grow rounder and rounder,
 the second instalment of Mr Finn's tale of mysteries in high life. 
 It began with the words:
 
-
      I have made an astounding discovery.  I freely confess it is
 quite different from anything I expected to discover, and will give
 a much more practical shock to the public.  I venture to say,
-without any [[Vanity|vanity]], that the words I now write will be read all over Europe,
-and certainly all over [[america|America]] and the Colonies.  And yet I heard
+without any vanity, that the words I now write will be read all over Europe,
+and certainly all over America and the Colonies.  And yet I heard
 all I have to tell before I left this same little wooden table in this
 same little wood of apple-trees.
 
      I owe it all to the small priest Brown; he is an extraordinary man. 
 The big librarian had left the table, perhaps ashamed of his long tongue,
-perhaps anxious about the [[Storm|storm]] in which his mysterious master
+perhaps anxious about the storm in which his mysterious master
 had vanished:  anyway, he betook himself heavily in the Duke's tracks
-through the trees.  [[Father Brown]] had picked up one of the lemons and
+through the trees.  Father Brown had picked up one of the lemons and
 was eyeing it with an odd pleasure.
 
      "What a lovely colour a lemon is!" he said.  "There's one thing
@@ -395,7 +390,7 @@ I don't like about the Duke's wig--the colour."
 
      "I don't think I understand," I answered.
 
-     "I dare say he's got good reason to cover his ears, like [[King]] Midas,"
+     "I dare say he's got good reason to cover his ears, like King Midas,"
 went on the priest, with a cheerful simplicity which somehow seemed
 rather flippant under the circumstances.  "I can quite understand
 that it's nicer to cover them with hair than with brass plates or
@@ -422,11 +417,11 @@ as weak as ours would be, and they are snobs about their own sorrows."
 had a banshee; and, now I come to think of it, it has comforted me
 in many a cold hour."
 
-     "And think," he went on, "of that stream of [[Blood|blood]] and [[Poison|poison]]
+     "And think," he went on, "of that stream of blood and poison
 that spurted from his thin lips the instant you so much as mentioned
 his ancestors.  Why should he show every stranger over such
 a Chamber of Horrors unless he is proud of it?  He doesn't conceal his wig,
-he doesn't conceal his [[Blood|blood]], he doesn't conceal his family curse,
+he doesn't conceal his blood, he doesn't conceal his family curse,
 he doesn't conceal the family crimes--but--"
 
      The little man's voice changed so suddenly, he shut his hand
@@ -439,15 +434,15 @@ on the table.
      It somehow completed the thrill of my fanciful nerves that
 at that instant the Duke appeared again silently among the glimmering trees,
 with his soft foot and sunset-hued hair, coming round the corner of
-the [[house]] in company with his librarian.  Before he came within earshot,
-[[Father Brown]] had added quite composedly, "Why does he really hide
+the house in company with his librarian.  Before he came within earshot,
+Father Brown had added quite composedly, "Why does he really hide
 the secret of what he does with the purple wig?  Because it isn't
 the sort of secret we suppose."
 
      The Duke came round the corner and resumed his seat at the head
 of the table with all his native dignity.  The embarrassment of
 the librarian left him hovering on his hind legs, like a huge bear. 
-The Duke addressed the priest with great seriousness.  "[[Father Brown]],"
+The Duke addressed the priest with great seriousness.  "Father Brown,"
 he said, "Doctor Mull informs me that you have come here to make a request. 
 I no longer profess an observance of the religion of my fathers;
 but for their sakes, and for the sake of the days when we met before,
@@ -460,43 +455,43 @@ Before this paralysis could pass, the priest had made a momentarily
 detaining motion.  "If," he said, "your Grace will permit me
 my real petition, or if I retain any right to advise you, I would urge
 that as many people as possible should be present.  All over this country
-I have found hundreds, even of my own [[Faith|faith]] and flock, whose imaginations
+I have found hundreds, even of my own faith and flock, whose imaginations
 are poisoned by the spell which I implore you to break.  I wish we could
 have all Devonshire here to see you do it."
 
      "To see me do what?" asked the Duke, arching his eyebrows.
 
-     "To see you take off your wig," said [[Father Brown]].
+     "To see you take off your wig," said Father Brown.
 
      The Duke's face did not move; but he looked at his petitioner
 with a glassy stare which was the most awful expression I have ever seen
 on a human face.  I could see the librarian's great legs wavering
 under him like the shadows of stems in a pool; and I could not banish
 from my own brain the fancy that the trees all around us were
-filling softly in the [[Silence|silence]] with devils instead of [[Birds|birds]].
+filling softly in the silence with devils instead of birds.
 
      "I spare you," said the Duke in a voice of inhuman pity. 
 "I refuse.  If I gave you the faintest hint of the load of horror
-I have to bear [[Alone|alone]], you would lie shrieking at these feet of mine
+I have to bear alone, you would lie shrieking at these feet of mine
 and begging to know no more.  I will spare you the hint. 
 You shall not spell the first letter of what is written on
 the altar of the Unknown God."
 
      "I know the Unknown God," said the little priest, with an
 unconscious grandeur of certitude that stood up like a granite tower. 
-"I know his name; it is [[Satan]].  The true God was made flesh
+"I know his name; it is Satan.  The true God was made flesh
 and dwelt among us.  And I say to you, wherever you find men ruled
 merely by mystery, it is the mystery of iniquity.  If the devil
 tells you something is too fearful to look at, look at it. 
 If he says something is too terrible to hear, hear it.  If you think
-some [[Truth|truth]] unbearable, bear it.  I entreat your Grace to end
-this [[nightmare]] now and here at this table."
+some truth unbearable, bear it.  I entreat your Grace to end
+this nightmare now and here at this table."
 
      "If I did," said the Duke in a low voice, "you and all you believe,
-and all by which [[Alone|alone]] you live, would be the first to shrivel and perish. 
+and all by which alone you live, would be the first to shrivel and perish. 
 You would have an instant to know the great Nothing before you died."
 
-     "The [[Cross]] of [[Christ]] be between me and harm," said [[Father Brown]]. 
+     "The Cross of Christ be between me and harm," said Father Brown. 
 "Take off your wig."
 
      I was leaning over the table in ungovernable excitement;
@@ -511,13 +506,13 @@ as if he had all hell to help him; but I forced his head until
 the hairy cap fell off it.  I admit that, whilst wrestling,
 I shut my eyes as it fell.
 
-     I was awakened by a cry from Mull, who was also by this [[Time|time]]
+     I was awakened by a cry from Mull, who was also by this time
 at the Duke's side.  His head and mine were both bending over
-the bald head of the wigless Duke.  Then the [[Silence|silence]] was snapped
+the bald head of the wigless Duke.  Then the silence was snapped
 by the librarian exclaiming:  "What can it mean?  Why, the man had
 nothing to hide.  His ears are just like everybody else's."
 
-     "Yes," said [[Father Brown]], "that is what he had to hide."
+     "Yes," said Father Brown, "that is what he had to hide."
 
      The priest walked straight up to him, but strangely enough
 did not even glance at his ears.  He stared with an almost comical
@@ -541,18 +536,17 @@ in the violent scene (which undoubtedly happened) in which he struck
 Green with the decanter.  But the contest ended very differently. 
 Green pressed his claim and got the estates; the dispossessed nobleman
 shot himself and died without issue.  After a decent interval
-the beautiful English [[government|Government]] revived the "extinct" peerage of Exmoor,
+the beautiful English Government revived the "extinct" peerage of Exmoor,
 and bestowed it, as is usual, on the most important person,
 the person who had got the property.
 
-     This man used the old feudal fables--properly, in his snobbish [[Soul|soul]],
+     This man used the old feudal fables--properly, in his snobbish soul,
 really envied and admired them.  So that thousands of poor English people
 trembled before a mysterious chieftain with an ancient destiny and
-a diadem of evil [[Stars|stars]]--when they are really trembling before
+a diadem of evil stars--when they are really trembling before
 a guttersnipe who was a pettifogger and a pawnbroker not twelve years ago. 
 I think it very typical of the real case against our aristocracy as it is,
 and as it will be till God sends us braver men.
-
 
      Mr Nutt put down the manuscript and called out with unusual
 sharpness:  "Miss Barlow, please take down a letter to Mr Finn."
@@ -573,7 +567,5 @@ Do be reasonable.--Yours, E. NUTT.
 and tossed it into the waste-paper basket; but not before he had,
 automatically and by force of habit, altered the word "God"
 to the word "circumstances."
-
-
 
                                  EIGHT

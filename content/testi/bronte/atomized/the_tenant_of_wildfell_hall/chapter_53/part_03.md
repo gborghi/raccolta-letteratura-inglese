@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 53 (part 3)"
+title: "The Tenant of Wildfell Hall — Chapter 53 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_53/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_53/part_04">part 04 ›</a></div>
 </nav>
 
+
+led me to conclude myself forgotten.”
+
+
+
+“Did you expect me to write to _you_, then?”
+
+
+
+“No, [[Helen]]—Mrs. Huntingdon,” said I, blushing at the implied
+
+imputation, “certainly not; but if you had sent me a message through
+
+your brother, or even asked him about me now and then—”
+
+
+
+“I did ask about you frequently. I was not going to do more,” continued
 
 she, smiling, “so long as you continued to restrict yourself to a few
 
@@ -54,7 +72,7 @@ immediately letting it go.
 
 
 
-“Wait till [[arthur|Arthur]] comes, at least.”
+“Wait till [[Arthur]] comes, at least.”
 
 
 
@@ -271,27 +289,3 @@ affection to believe this, let me [[Alone|alone]].”
 the hand I still retained, and throwing my left arm around her, “you
 
 never shall repent, if it depend on me [[Alone|alone]]. But have you thought of
-
-your aunt?” I trembled for the answer, and clasped her closer to my
-
-heart in the instinctive dread of losing my new-found treasure.
-
-
-
-“My aunt must not know of it yet,” said she. “She would think it a
-
-rash, wild step, because she could not imagine how [[Well|well]] I know you; but
-
-she must know you herself, and learn to like you. You must leave us
-
-now, after lunch, and come again in [[spring]], and make a longer stay, and
-
-cultivate her acquaintance, and I know you will like each other.”
-
-
-
-“And then you will be mine,” said I, printing a kiss upon her lips, and
-
-another, and another; for I was as daring and impetuous now as I had
-
-been backward and constrained before.

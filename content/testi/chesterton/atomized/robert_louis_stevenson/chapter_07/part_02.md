@@ -1,5 +1,5 @@
 ---
-title: "Robert Louis Stevenson — Chapter 7 (part 2)"
+title: "Robert Louis Stevenson — Chapter 6 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/robert-louis-stevenson-(chesterton)"
@@ -14,103 +14,104 @@ tags:
 </nav>
 
 
-But this mixture of two types of tale in one is the very reverse
-of characteristic.  I know not where else in his works it can be found;
-unless perhaps we might take exception to the slight element of political
-irritation that makes itself felt, of all places in the world,
-in the amiable [[nightmare]] of _The Dynamiter._ It is really impossible
-to use a story in which everything is ridiculous to prove that
-certain particular Fenians or anarchist agitators are ridiculous.
-Nor indeed is it tenable that men who risk their lives to commit
-such crimes are quite so ridiculous as that.  But broadly speaking,
-the characteristic of this writer's conscientious artistry
-is that he is very careful to keep the different forms of art
-in [[Water|water]]-tight compartments.  It was, of course, a sentiment
-about technique and material which was very fashionable in the age
-of Whistler and the world where Stevenson had studied art.
-And the [[Artist|artist]] would as soon have stuck a lump of marble into
-the middle of a bas-relief in terracotta, or applied a coat of paint
-to a tracery he was making out of ivory, as put a piece of [[Tragedy|tragedy]]
-into the middle of a tea-table [[Comedy|comedy]] or a burst of righteous
-indignation into a farce.  In all this part of Stevenson's mind,
-especially as revealed in his letters, most of the critics have
-missed the very lasting effect of the chatter of craftsmanship,
-and all the jargon of tricks of the trade, which he heard among
-the French art students.  He had reversed almost the whole
-[[philosophy]] of everything that they wanted to do; but he still
-retained the dialect in which they talked about how it was done.
-But he talked it much better than they did; and he had his own knack
-of using the right word even for the search for the right word.
-It is typical that he said that a story must have one general tendency;
-and that in the whole book there must not be a single word "that looks
-the other way."  There is not a single word that looks the other way
-in the whole of _Prince Otto_ or in the whole of _The Wrong Box._
+I will take the case of one of his books; I deliberately refrain
+from taking one of his best books.  I will take _The Wrecker,_ a book
+which many would call a failure and which nobody would call a faultless
+artistic [[success]], least of all the [[artist]].  The picture breaks
+out of the frame; indeed it is rather a panorama than a picture.
+The story sprawls over three continents; and the climax has too much
+the air of being only the last of a long string of disconnected passages.
+It has the look of a scrap-book; indeed it is very exactly
+a [[Sketch|sketch]]-book. It is merely the [[Sketch|sketch]]-book of Loudon Dodd,
+the wandering art student never allowed to be fully an [[artist]];
+just as his story is never allowed to be fully a work of art.
+He sketches people with the pen as he does with the pencil,
+in four or five incongruous societies, in the commercial school
+of Muskegon or the art school of [[Paris]], in the east [[Wind|wind]] of Edinburgh
+or the black squall of the South Seas; just as he sketched the four
+fugitive murderers gesticulating and lying in the Californian saloon.
+The point is (on the strict principles of _l'art pour l'art,_
+so dear to Mr. Dodd) that he sketched devilish [[Well|well]].
+We can take the portraits of twenty social types in turn,
+taken from six social worlds utterly shut out from each other,
+and find in every case that the strokes are at once few and final;
+that is, that the word is [[Well|well]] chosen out of a hundred words
+and that one word does the work of twenty.  The story starts:
+"The beginning of this yarn is my poor father's character";
+and the character is compact in one paragraph.  When Jim Pinkerton first
+strides into the story and is described as a young man "with cordial,
+agitated manners," we walk through the rest of the narrative
+with a living man; and listen not merely to words, but to a voice.
+No other two adjectives could have done the trick.  When the shabby
+and shady lawyer, with his cockney culture and underbred refinement,
+is first introduced as handling a big piece of business beyond his
+_metier,_ he bears himself "with a sort of shrinking assumption."
+The reader, especially if he is not a writer, may imagine
+that such words matter little; but if he supposes that it might
+just as [[Well|well]] have been "flinching [[Pride|pride]]" or "quailing arrogance"
+he knows nothing about writing and perhaps not much about reading.
+The whole point is in that hitting of the right nail on the head;
+and rather more so when the nail is such a very battered little tintack
+as Mr. Henry D. Bellairs of San Francisco.  When Loudon Dodd merely
+has to meet a naval officer and record that he got next to nothing
+out of him, that very negation has a touch of chilly life like a fish.
+"I judged he was [[Suffering|suffering]] torments of alarm lest I should prove
+an undesirable acquaintance; diagnosed him for a shy, dull, vain,
+unamiable animal, without adequate defence--a sort of dis-housed snail."
+The visit to an English village, under the [[Shadow|shadow]] of an English
+country [[house]], is equally aptly appreciated; from the green framework
+of the little town, "a domino of tiled houses and walled gardens,"
+to the reminiscences of the ex-butler about the exiled younger son;
+"near four generations of Carthews were touched upon without
+eliciting one point of interest; and we had killed Mr. Henry in
+the hunting field with a vast elaboration of painful circumstance
+and buried him in the midst of a whole sorrowing county, before I
+could so much as manage to bring upon the stage my intimate friend,
+Mr. Norris. . . . He was the only person of the whole featureless
+series who seemed to have accomplished anything worth mentioning;
+and his achievements, poor dog, seemed to have been confined to going
+to the devil and leaving some regrets. . . . He had no [[Pride|pride]] about him,
+I was told; he would sit down with any man; and it was somewhat
+woundingly implied that I was indebted to this peculiarity for my
+own acquaintance with the [[Hero|hero]]."  But I must not be led away by
+the large [[Temptation|temptation]] of quoting examples of the cool and collected
+and sustained irony, with which Loudon Dodd tells his whole story.
+I am only giving random examples of his rapid sketches of very
+different sorts of societies and personalities; and the point is
+that he can describe them rapidly and yet describe them rightly.
+In other words the author does possess a quite exceptional power
+of putting what he really means into the words that really convey it.
+And to show that this was a matter of genius in the man, and not
+(as some of his critics would imply) a matter of laborious
+technical treatment applied to two or three prize specimens,
+I have taken all these examples from one of the less known works,
+one of the least admired and perhaps of the least admirable.
+Whole tracts of it run almost as casually as his private correspondence;
+and his private correspondence is full of the same lively and
+animated neatness.  In this one neglected volume of _The Wrecker_ there
+are thousands of such things; and everything to show that he could
+have written twenty more volumes, equally full of these felicities.
+A man who does this is not only an [[artist]] doing what most men
+cannot do, but he is certainly doing what most novelists do not do.
+Even very good novelists have not this particular knack of putting
+a whole human figure together with a few unforgettable words.
+By the end of a [[Novel|novel]] by Mr. Arnold Bennett or Mr. E. F. Benson I
+have the sense that Lord Raingo or Lord Chesham is a real man,
+very rightly understood; but I never have at the beginning that
+feeling of [[Magic|magic]]; that a man has been brought to life by three words
+of an incantation.
 
-But now and then he did something more than this.  He created a form
-of art.  He invented a _genre_ which does not really exist outside
-his work.  It may seem a [[Paradox|paradox]] to say that his most original work
-was a [[Parody|parody]].  But certainly the notion of _The New Arabian Nights_
-is quite as unique in the world as the old _Arabian Nights;_ and it
-does not owe its real ingenuity to the model which it mocks.
-Stevenson here wove a singular sort of texture, or mixed
-a singular sort of atmosphere, which is not like anything else;
-a medium in which many incongruous things may find a comic congruity.
-It is partly like the atmosphere of [[A Dream|a dream]]; in which so many
-incongruous things cause no surprise.  It is partly the real atmosphere
-of [[London]] at [[Night|night]]; it is partly the unreal atmosphere of Baghdad.
-The broad and placid presence of Prince [[Florizel]] of Bohemia,
-that mysterious semi-reigning sovereign, is treated with a sort
-of vast and vague diplomatic reserve; which is like the confused
-[[nightmare]] of an old cosmopolitan courtier.  The Prince himself seems
-to have palaces in every country; and yet the humorous reader suspects,
-with half his mind, that the man is really only a pompous tobacconist,
-whom Stevenson happened to find in Rupert Street and chose to make
-the [[Hero|hero]] of a standing joke.  This [[Double|double]] mentality, like that of
-the true dreamer, is suggested with extraordinary skill without loading
-with a single question the inimitable lightness of the narrative.
-The [[Humour|humour]] of [[Florizel]]'s colossal condescension constitutes not only
-a new character, but a new sort of character.  He stands in a new
-relation to reality and unreality; he is a sort of solid impossibility.
-Since that [[Time|time]] many writers have written such fanciful extravagances
-about the lights of [[London]]; for Stevenson suffered much more than
-Tennyson from that of which the latter complained when "all had
-got the seed."  But few of them have really struck those ironical
-semitones or made the same thing so completely a cockney conspiracy
-and an Arabian fairy-tale. We have heard much of making the life
-of the modern town romantic; and many of the attempts in modern
-poetry seem only to make it more ugly than it really is.
-We have at the present moment a considerable cult of the fantastic;
-with the result that the fantastic has become rather a fixed type.
-It is picked out in crying colours of chrome yellow or magenta;
-with the result that it is perhaps too obviously a puppet.
-But Prince [[Florizel]] of Bohemia is not a puppet.  He is a presence;
-a person who seems to fill the room and yet to be such stuff
-as [[Dreams|dreams]] are made of; not simply a thing made of stuffing.
-The rigid and unreal dolls may fall into [[Dust|dust]] when the mood changes;
-but we do not easily imagine anybody kicking the stuffing
-out of [[Florizel]].  I will not say that the _New Arabian Nights_
-is the greatest of Stevenson's works; though a considerable case
-might be made for the challenge.  But I will say that it is probably
-the most unique; there was nothing like it before, and, I think,
-nothing equal to it since.
-
-But it is worth while to remark that even here, where the atmosphere
-might be expected to be more hazy, the generalisation stands about edges
-and the exact extravagance of Skelt.  However delicate is the air of
-mockery or mystery, there is very little change in the staccato style.
-The quarrel with the [[suicide|Suicide]] Club is "put to the touch of swords"
-and the phrase tingles like the twin blades of Durrisdeer.
-Nothing could be more angular than Mr. Malthus, the horrible
-paralysed man who plays on the brink of the precipice of [[suicide]];
-he is as hard as a huge beetle.  There is all the jerk of the old
-energetic puppets when he jumps from his seat, losing his disease
-for an instant at the sight of [[Death|death]].  There is more movement in
-that one paralytic than in crowds of softly moving society figures,
-in milder or more meditative fiction.  The very clatter of his broken
-bones down the stone steps of Trafalgar Square, of which we hear
-but an echo, has that almost metallic quality.  Jack Vandeleur's
-"brutalities of gesture," his pantomime of opening and shutting the hand,
-are surely somewhat piratical; he had been Dictator of Paraguay;
-but I think he had sailed there on the _Hispaniola._ In short we
-have here once more the continuity of a style within a style.
-And the inner thread within the silk is as thin and hard as wire.
+This was the genius of Stevenson; and it is simply silly to complain
+of it because it was Stevensonian.  I do not blame either of the
+other two novelists for not being somebody else.  But I do venture
+to blame them a little for grumbling because Stevenson was himself.
+I do not quite see why he should be covered with cold depreciation
+merely because he could put into a line what other men put into a page;
+why he should be regarded as superficial because he saw more in a man's
+walk or profile than the moderns can dig out of his complexes and
+his subconsciousness; why he should be called artificial because he sought
+(and found) the right word for a real object; why he should be
+thought shallow because he went straight for what was significant,
+without wading towards it through wordy seas of insignificance;
+or why he should be treated as a liar because he was not ashamed
+to be a story-teller.

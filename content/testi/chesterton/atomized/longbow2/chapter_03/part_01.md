@@ -1,5 +1,5 @@
 ---
-title: "[[longbow2]] — Chapter 3 (part 1)"
+title: "longbow2 — Chapter 3 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -18,11 +18,10 @@ Chapter III
 
 The Unobtrusive Traffic of Captain Pierce
 
-
 Those acquainted with Colonel Crane and Mr. Owen Hood, the lawyer,
 may or may not be concerned to know that they partook of an early lunch
 of eggs and bacon and beer at the inn called the Blue Boar, which stands
-at the turn of a steep [[Road|road]] scaling a wooded ridge in the West Country. 
+at the turn of a steep road scaling a wooded ridge in the West Country. 
 Those unacquainted with them may be content to know that the Colonel
 was a sunburnt, neatly-dressed gentleman, who looked taciturn and was;
 while the lawyer was a more rusty red-haired gentleman with a long
@@ -32,8 +31,8 @@ inn was better than that of a Soho restaurant and immeasurably
 better than that of a fashionable restaurant.  Hood was fond
 of the legends and less-known aspects of the English country-side;
 and that valley had a quality of repose with a stir of refreshment,
-as if the west [[Wind|wind]] had been snared in it and tamed into a [[Summer|summer]] air. 
-Both had a healthy admiration for [[Beauty|beauty]], in ladies as [[Well|well]]
+as if the west wind had been snared in it and tamed into a summer air. 
+Both had a healthy admiration for beauty, in ladies as well
 as landscapes; although (or more probably because) both were quite
 romantically attached to the wives they had married under rather
 romantic circumstances, which are related elsewhere for such as can
@@ -43,14 +42,14 @@ to look at; she was of a slim and quiet sort with a head that moved
 like a brown bird, brightly and as it were unexpectedly.  Her manners
 were full of unconscious dignity, for her father, old John Hardy,
 was the type of old innkeeper who had the status, if not of a gentleman,
-at least of a yeoman.  He was not without [[Education|education]] and ability;
+at least of a yeoman.  He was not without education and ability;
 a grizzled man with a keen, stubborn face that might have belonged
-to Cobbett, whose _Register_ he still read on [[Winter|winter]]'s nights. 
-Hardy was [[Well|well]] known to Hood, who had the same sort of antiquarian
+to Cobbett, whose _Register_ he still read on winter's nights. 
+Hardy was well known to Hood, who had the same sort of antiquarian
 taste in revolutions.
 
 There was little sound in the valley or the brilliant void of sky;
-the notes of [[Birds|birds]] fell only intermittently; a faint sound of tapping
+the notes of birds fell only intermittently; a faint sound of tapping
 came from the hills opposite where the wooded slope was broken here
 and there by the bare face of a quarry, and a distant aeroplane
 passed and re-passed, leaving a trail of faint thunder.  The two men

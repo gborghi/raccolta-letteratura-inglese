@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 6 (part 7)"
+title: "Nicholas Nickleby — Chapter 6 (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_06/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_06/part_08">part 08 ›</a></div>
 </nav>
 
+
+‘The baroness pointed, from the [[Window|window]] at which they stood, to the
+courtyard beneath, where the unconscious [[Lincoln]] greens were taking a
+copious stirrup-cup, preparatory to issuing forth after a boar or two.
 
 ‘“My hunting train, ma’am,” said the baron.
 
@@ -128,14 +132,3 @@ killed themselves with drinking. His mind was running upon bears and
 boars, when, in the process of draining his glass to the [[Bottom|bottom]],
 he raised his eyes, and saw, for the first [[Time|time]] and with unbounded
 astonishment, that he was not [[Alone|alone]].
-
-‘No, he was not; for, on the opposite side of the [[Fire|fire]], there sat with
-folded arms a wrinkled hideous figure, with deeply sunk and bloodshot
-eyes, and an immensely long cadaverous face, shadowed by jagged and
-matted locks of coarse black hair. He wore a kind of tunic of a dull
-bluish colour, which, the baron observed, on regarding it attentively,
-was clasped or ornamented down the front with coffin handles. His legs,
-too, were encased in coffin plates as though in armour; and over his
-left shoulder he wore a short dusky cloak, which seemed made of a
-remnant of some pall. He took no notice of the baron, but was intently
-eyeing the [[Fire|fire]].

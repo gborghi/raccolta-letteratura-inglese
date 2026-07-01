@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/the-old-curiosity-shop-(dickens)">The Old Curiosity Shop</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_old_curiosity_shop/chapter_66/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/the_old_curiosity_shop/chapter_67/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_old_curiosity_shop/chapter_66/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/the_old_curiosity_shop/chapter_67/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -125,14 +125,3 @@ himself that the letter might require some answer, of which she could
 be the bearer, closed the [[Window|window]], opened the door, and bade her enter.
 Mrs Quilp obeyed right willingly, and, kneeling down before the [[Fire|fire]] to
 warm her hands, delivered into his a little packet.
-
-‘I’m glad you’re wet,’ said Quilp, snatching it, and squinting at her.
-‘I’m glad you’re cold.  I’m glad you lost your way.  I’m glad your eyes
-are red with crying.  It does my heart good to see your little nose so
-pinched and frosty.’
-
-‘Oh Quilp!’ sobbed his wife.  ‘How cruel it is of you!’
-
-‘Did she think I was dead?’ said Quilp, wrinkling his face into a most
-extraordinary series of grimaces.  ‘Did she think she was going to have
-all the money, and to marry somebody she liked?  Ha ha ha!  Did she?’

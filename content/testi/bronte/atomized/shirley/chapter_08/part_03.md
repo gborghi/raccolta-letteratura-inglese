@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 8 (part 3)"
+title: "Shirley — Chapter 8 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_08/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_08/part_04">part 04 ›</a></div>
 </nav>
 
+
+eyes.
+
+
+
+"You, sir, as a clergyman," said he, "may feel it disagreeable to be
+
+present amidst scenes of hurry and flurry, and, I may say, peril. I dare
+
+say your nerves won't stand it. You're a man of peace, sir; but we
+
+manufacturers, living in the world, and always in turmoil, get quite
+
+belligerent. Really, there's an ardour excited by the thoughts of danger
 
 that makes my heart pant. When Mrs. Sykes is afraid of the [[house]] being
 
@@ -227,21 +241,3 @@ a whine) "it's the Looard's own purpose, and that's better."
 
 
 "Do you want a subscription to a new Ranter's chapel, Mr. Barraclough?
-
-Unless your errand be something of that sort, I cannot see what you have
-
-to do with it."
-
-
-
-"I hadn't that duty on my mind, sir; but as [[Providence]] has led ye to
-
-mention the subject, I'll make it i' my way to tak ony trifle ye may
-
-have to spare; the smallest contribution will be acceptable."
-
-
-
-With that he doffed his hat, and held it out as a begging-box, a brazen
-
-grin at the same [[Time|time]] crossing his countenance.

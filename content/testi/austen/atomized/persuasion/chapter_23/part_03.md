@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 23 (part 3)"
+title: "Persuasion — Chapter 23 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/persuasion-(austen)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_23/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_23/part_04">part 04 ›</a></div>
 </nav>
 
+
+his wife and children, and watches the boat that he has sent them off
+
+in, as long as it is in sight, and then turns away and says, ‘God knows
+
+whether we ever meet again!’ And then, if I could convey to you the
+
+glow of his [[Soul|soul]] when he does see them again; when, coming back after a
 
 twelvemonth’s absence, perhaps, and obliged to put into another port,
 
@@ -213,25 +221,3 @@ F. W.
 your party, as soon as possible. A word, a look, will be enough to
 
 decide whether I enter your father’s [[house]] this evening or never.”
-
-
-
-
-
-Such a letter was not to be soon recovered from. Half an hour’s
-
-[[Solitude|solitude]] and reflection might have tranquillized her; but the ten
-
-minutes only which now passed before she was interrupted, with all the
-
-restraints of her situation, could do nothing towards tranquillity.
-
-Every moment rather brought fresh agitation. It was overpowering
-
-happiness. And before she was beyond the first stage of full sensation,
-
-Charles, Mary, and Henrietta all came in.
-
-
-
-The absolute necessity of seeming like herself produced then an

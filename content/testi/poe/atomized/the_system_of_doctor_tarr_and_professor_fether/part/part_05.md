@@ -1,5 +1,5 @@
 ---
-title: "[[The System of Doctor Tarr and Professor Fether]] (part 5)"
+title: "The System of Doctor Tarr and Professor Fether (part 5)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-system-of-doctor-tarr-and-professor-fether-(poe)"
@@ -12,6 +12,14 @@ tags:
 <div class="excerpt-crumb">Poe · <a href="/works/the-system-of-doctor-tarr-and-professor-fether-(poe)">The System of Doctor Tarr and Professor Fether</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_system_of_doctor_tarr_and_professor_fether/part/part_04">‹ part 04</a><a class="ex-next" href="/testi/poe/atomized/the_system_of_doctor_tarr_and_professor_fether/part/part_06">part 06 ›</a></div>
 </nav>
+
+
+      shoulder and whispered a few words in his ear; upon which he
+
+      ceased talking with great suddenness, and sank back within his
+
+      chair.
+
 
 
       “And then,” said the friend who had whispered, “there was
@@ -233,17 +241,3 @@ tags:
 
 
       “Harmless!” ejaculated he, in unfeigned surprise, “why—why, what
-
-      can you mean?”
-
-
-
-      “Only slightly touched?” said I, touching my head. “I take it for
-
-      granted that she is not particularly not dangerously affected,
-
-      eh?”
-
-
-
-      “_Mon dieu!_ what is it you imagine? This lady, my particular old

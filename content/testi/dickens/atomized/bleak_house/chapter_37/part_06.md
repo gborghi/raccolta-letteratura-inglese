@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 37 (part 6)"
+title: "Bleak House — Chapter 37 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,30 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_37/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_37/part_07">part 07 ›</a></div>
 </nav>
 
+
+The perfect ease of manner with which he put the money up again and
+looked at me with a smile on his refined face, as if he had been
+mentioning a curious little fact about somebody else, almost made me
+feel as if he really had nothing to do with it.
+
+“Now, when you mention responsibility,” he resumed, “I am disposed to
+say that I never had the happiness of knowing any one whom I should
+consider so refreshingly responsible as yourself. You appear to me
+to be the very [[Touchstone|touchstone]] of responsibility. When I see you, my
+dear Miss Summerson, intent upon the perfect working of the whole
+little orderly system of which you are the centre, I feel inclined
+to say to myself—in fact I do say to myself very often—THAT’S
+responsibility!”
+
+It was difficult, after this, to explain what I meant; but I
+persisted so far as to say that we all hoped he would check and not
+confirm [[Richard]] in the sanguine views he entertained just then.
+
+“Most willingly,” he retorted, “if I could. But, my dear Miss
+Summerson, I have no art, no disguise. If he takes me by the hand and
+leads me through Westminster Hall in an airy procession after
+fortune, I must go. If he says, ‘Skimpole, join the [[Dance|dance]]!’ I must
+join it. Common sense wouldn’t, I know, but I have NO common sense.”
 
 It was very unfortunate for [[Richard]], I said.
 
@@ -108,36 +132,3 @@ when his cause was in the Chancellor’s paper, and being informed by
 one of my clerks last [[Night|night]] after post [[Time|time]] that it stood, rather
 unexpectedly, in the paper for to-morrow, I put myself into the coach
 early this morning and came down to confer with him.”
-
-“Yes,” said [[Richard]], flushed, and looking triumphantly at Ada and me,
-“we don’t do these things in the old slow way now. We spin along now!
-Mr. Vholes, we must hire something to get over to the post town in,
-and catch the mail to-[[Night|night]], and go up by it!”
-
-“Anything you please, sir,” returned Mr. Vholes. “I am quite at your
-service.”
-
-“Let me see,” said [[Richard]], looking at his watch. “If I run down to
-the Dedlock, and get my portmanteau fastened up, and order a gig, or
-a chaise, or whatever’s to be got, we shall have an hour then before
-starting. I’ll come back to tea. Cousin Ada, will you and Esther take
-care of Mr. Vholes when I am gone?”
-
-He was away directly, in his heat and hurry, and was soon lost in the
-dusk of evening. We who were left walked on towards the [[house]].
-
-“Is Mr. Carstone’s presence necessary to-morrow, Sir?” said I. “Can
-it do any good?”
-
-“No, miss,” Mr. Vholes replied. “I am not aware that it can.”
-
-Both Ada and I expressed our regret that he should go, then, only to
-be disappointed.
-
-“Mr. Carstone has laid down the principle of watching his own
-interests,” said Mr. Vholes, “and when a client lays down his own
-principle, and it is not immoral, it devolves upon me to carry it
-out. I wish in business to be exact and open. I am a widower with
-three daughters—[[Emma]], Jane, and Caroline—and my [[Desire|desire]] is so to
-discharge the duties of life as to leave them a good name. This
-appears to be a pleasant spot, miss.”

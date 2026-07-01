@@ -1,5 +1,5 @@
 ---
-title: "[[Don Quixote]] — Chapter 4 (part 2)"
+title: "Don Quixote — Chapter 4 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/don-quixote-(chesterton)"
@@ -13,6 +13,24 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_05/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_05/part_03">part 03 ›</a></div>
 </nav>
 
+
+Olive's theory about educating the uneducated man by association
+with educated men seemed to give him considerable food for
+thought as he went across the grassy plot kicking his heels,
+with his hands thrust deep in his trousers' pockets.  Of course,
+there was something in it; fellows did find their level sometimes
+by going to [[Oxford]].  They find out in what way their [[Education|education]]
+has been neglected, even if they continue to neglect it.
+But he had never seen the experiment tried on so dark a social stratum
+as the black and buried coal-seam for which the Syndicalist stood.
+He could not imagine anyone quite so rugged and dogged in his demagogy
+as his friend Jack Braintree gradually learning how to balance
+a cigarette and a tea-cup and talk about the Roumanian Shakespeare.
+There was to be a reception of that sort that afternoon, he knew--
+but Braintree in it!  Of course, there was a whole world of things
+that the sulky tub-thumper out of the slums did not know.
+He was not so sure whether they could ever be things that
+he wanted to know.
 
 Having once made up his mind, however, to come to the rescue
 of Society and Olive Ashley, by thus exhibiting the unlettered
@@ -110,18 +128,3 @@ Some association of ideas led Wister to echo unconsciously the
 complaint of Olive Ashley and remark that the red used for the wings
 of one of the angels was something of a lost technical secret.
 When one considered how the Last Supper had faded--
-
-Braintree assented civilly, having no very special knowledge
-of pictures and no knowledge at all of Pigments.  This ignorance,
-or indifference completed the case founded on the crude necktie.
-The expert, now fully realising that he was talking to
-an utter [[Outsider|outsider]], expanded with radiant condescension.
-He delivered a sort of lecture.
-
-"Ruskin is very sound upon that point," said Mr. Almeric Wister.
-"You would be quite safe in reading Ruskin, if only as a sort
-of introduction to the subject.  With the exception of Pater,
-of course, there has been no critic since having that atmosphere
-of authority.  [[democracy|Democracy]], of course, is not favourable to authority.
-And I very much [[Fear|fear]], Mr. Braintree, that [[democracy]] is not
-favourable to art."

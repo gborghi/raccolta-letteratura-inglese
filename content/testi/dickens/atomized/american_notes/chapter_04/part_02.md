@@ -32,7 +32,7 @@ my life was more affected by the contemplation of happiness, under
 circumstances of privation and bereavement, than in my visits to these
 establishments.
 
-It is a great and pleasant feature of all such institutions in [[America]],
+It is a great and pleasant feature of all such institutions in [[america|America]],
 that they are either supported by the State or assisted by the State; or
 (in the event of their not needing its helping hand) that they act in
 concert with it, and are emphatically the people’s.  I cannot but think,
@@ -106,7 +106,7 @@ I went to see this place one very fine [[Winter|winter]] morning: an Italian sky
 above, and the air so clear and bright on every side, that even my eyes,
 which are none of the best, could follow the minute lines and scraps of
 tracery in distant buildings.  Like most other public institutions in
-[[America]], of the same class, it stands a mile or two without the town, in
+[[america|America]], of the same class, it stands a mile or two without the town, in
 a cheerful healthy spot; and is an airy, spacious, handsome edifice.  It
 is built upon a height, commanding the harbour.  When I paused for a
 moment at the door, and marked how fresh and free the whole scene

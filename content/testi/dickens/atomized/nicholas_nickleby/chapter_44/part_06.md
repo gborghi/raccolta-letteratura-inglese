@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 44 (part 6)"
+title: "Nicholas Nickleby — Chapter 44 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_44/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_45/part_01">part 01 ›</a></div>
 </nav>
 
+
+With this affecting speech Mr. Mantalini fell down again very flat, and
+lay to all appearance without sense or motion, until all the females
+had left the room, when he came cautiously into a sitting posture, and
+confronted Ralph with a very blank face, and the little bottle still in
+one hand and the tea-spoon in the other.
+
+‘You may put away those fooleries now, and live by your wits again,’
+said Ralph, coolly putting on his hat.
 
 ‘Demmit, Nickleby, you’re not serious?’
 

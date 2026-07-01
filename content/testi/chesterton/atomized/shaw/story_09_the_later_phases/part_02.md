@@ -1,5 +1,5 @@
 ---
-title: "[[Shaw]] — THE LATER PHASES (part 2)"
+title: "Shaw — THE LATER PHASES (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/shaw-(chesterton)"
@@ -47,7 +47,7 @@ he is still ahead of the Progressives; how much more Modern
 he is than the Modernists.  He has realised that the really
 Modern thing is Monarchy.  It does not in the least follow
 that because it is the modern thing, it is the right thing.
-I never accepted [[Democracy]] merely because it was Modern;
+I never accepted [[democracy|Democracy]] merely because it was Modern;
 and I shall not accept Monarchy for any such unreasonable reason.
 It may not be very important to be up-to-date; but at least
 Bernard [[Shaw]] in his old age is up-to-date. He understands

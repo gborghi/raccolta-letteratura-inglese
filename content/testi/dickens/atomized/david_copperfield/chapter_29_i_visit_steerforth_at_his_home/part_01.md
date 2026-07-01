@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 29: I VISIT STEERFORTH AT HIS [[Home|HOME]], AGAIN (part 1)"
+title: "David Copperfield — Chapter 29: I VISIT STEERFORTH AT HIS HOME, AGAIN (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -130,8 +130,3 @@ honourable and faithful, I don’t ask you to betray your friend. I ask
 you only to tell me, is it anger, is it hatred, is it [[Pride|pride]], is it
 restlessness, is it some wild fancy, is it [[Love|love]], what is it, that is
 leading him?’
-
-‘Miss Dartle,’ I returned, ‘how shall I tell you, so that you will
-believe me, that I know of nothing in Steerforth different from what
-there was when I first came here? I can think of nothing. I firmly
-believe there is nothing. I hardly understand even what you mean.’

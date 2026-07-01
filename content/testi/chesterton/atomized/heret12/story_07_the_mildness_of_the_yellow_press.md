@@ -1,5 +1,5 @@
 ---
-title: "[[heret12]] — The Mildness of the Yellow Press"
+title: "heret12 — The Mildness of the Yellow Press"
 author: "Chesterton"
 unitType: story
 parentWork: "works/heret12-(chesterton)"
@@ -15,7 +15,6 @@ tags:
 
 
 VIII.  The Mildness of the Yellow Press
-
 
 There is a great deal of protest made from one quarter or another nowadays
 against the influence of that new journalism which is associated with

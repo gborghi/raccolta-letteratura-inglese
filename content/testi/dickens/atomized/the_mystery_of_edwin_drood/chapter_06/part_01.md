@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 5 (part 1)"
+title: "The Mystery of Edwin Drood — Chapter 5 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -161,17 +161,3 @@ invading the [[Silence|silence]] of the hour and place by stoning every wall, po
 pillar, and other inanimate object, by the deserted way.
 
 “Is there anything new down in the crypt, [[Durdles]]?” asks [[John Jasper]].
-
-“Anything old, I think you mean,” growls [[Durdles]]. “It ain’t a spot for
-novelty.”
-
-“Any new discovery on your part, I meant.”
-
-“There’s a old ’un under the seventh pillar on the left as you go down
-the broken steps of the little underground chapel as formerly was; I
-make him out (so fur as I’ve made him out yet) to be one of them old
-’uns with a crook. To judge from the size of the passages in the walls,
-and of the steps and doors, by which they come and went, them crooks
-must have been a good deal in the way of the old ’uns! Two on ’em
-meeting promiscuous must have hitched one another by the mitre pretty
-often, I should say.”

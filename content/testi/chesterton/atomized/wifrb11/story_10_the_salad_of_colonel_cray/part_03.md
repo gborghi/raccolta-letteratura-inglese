@@ -1,5 +1,5 @@
 ---
-title: "[[wifrb11]] — The Salad of Colonel Cray (part 3)"
+title: "wifrb11 — The Salad of Colonel Cray (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_10_the_salad_of_colonel_cray/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_10_the_salad_of_colonel_cray/part_04">part 04 ›</a></div>
 </nav>
 
+
+     "I prefer it," said Putnam, placably.  "I'm old-fashioned myself;
+and the things keep together."
+
+     "And vanish together, as you see," she retorted.  "[[Well]], if you are
+not going to bother about the burglar, I shouldn't bother about the lunch. 
+It's [[Sunday]], and we can't send for vinegar and all that in the town;
+and you Indian gentlemen can't enjoy what you call a dinner without
+a lot of hot things.  I wish to goodness now you hadn't asked
+Cousin [[Oliver]] to take me to the musical service.  It isn't over
+till half-past twelve, and the Colonel has to leave by then. 
+I don't believe you men can manage [[Alone|alone]]."
 
      "Oh yes, we can, my dear," said the Major, looking at her
 very amiably.  "Marco has all the sauces, and we've often
@@ -118,10 +130,3 @@ but I think the most hateful thing about him was that he was
 in European dress.  I was prepared, I think, for shrouded priests
 or naked fakirs.  But this seemed to say that the devilry was
 over all the earth.  As indeed I found it to be.
-
-     "`If you had only seen the Monkey's Feet,' he said, smiling steadily,
-and without other preface, `we should have been very gentle--
-you would only be tortured and die.  If you had seen the Monkey's Face,
-still we should be very moderate, very tolerant--you would only
-be tortured and live.  But as you have seen the Monkey's Tail,
-we must pronounce the worst sentence. which is:  Go Free.'

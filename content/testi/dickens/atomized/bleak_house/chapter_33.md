@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 33"
+title: "Bleak House — Chapter 33"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/bleak-house-(dickens)"
@@ -547,7 +547,7 @@ the late Mr. Krook’s obstinacy in going out of the world by any such
 by-way as wholly unjustifiable and personally offensive. The less the
 [[Court|court]] understands of all this, the more the [[Court|court]] likes it, and the
 greater enjoyment it has in the stock in trade of the Sol’s Arms.
-Then there comes the [[artist]] of a picture newspaper, with a foreground
+Then there comes the [[Artist|artist]] of a picture newspaper, with a foreground
 and figures ready drawn for anything from a wreck on the Cornish
 coast to a review in Hyde Park or a meeting in Manchester, and in
 Mrs. Perkins’ own room, memorable evermore, he then and there throws

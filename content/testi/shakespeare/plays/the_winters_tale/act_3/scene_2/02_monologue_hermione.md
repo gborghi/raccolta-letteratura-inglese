@@ -1,5 +1,5 @@
 ---
-title: "The Winters Tale — Act III, Scene 2 — monologue ([[Hermione|HERMIONE]]) [2]"
+title: "The Winters Tale — Act III, Scene 2 — monologue (HERMIONE) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-winter’s-tale-(shakespeare)"

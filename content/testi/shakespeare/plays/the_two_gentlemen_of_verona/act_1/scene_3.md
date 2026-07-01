@@ -1,5 +1,5 @@
 ---
-title: "The Two Gentlemen of [[Verona]] — Act I, Scene 3"
+title: "The Two Gentlemen of Verona — Act I, Scene 3"
 author: "Shakespeare"
 unitType: scene
 parentWork: "works/the-two-gentlemen-of-verona-(shakespeare)"

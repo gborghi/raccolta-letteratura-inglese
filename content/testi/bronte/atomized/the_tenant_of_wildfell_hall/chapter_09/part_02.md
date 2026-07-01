@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 9 (part 2)"
+title: "The Tenant of Wildfell Hall — Chapter 9 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_09/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_09/part_03">part 03 ›</a></div>
 </nav>
 
+
+side of me and an empty chair on the other.
+
+
+
+“May I sit by you?” said a soft voice at my elbow.
+
+
+
+“If you like,” was the reply; and Eliza slipped into the vacant chair;
 
 then, looking up in my face with a half-sad, half-playful smile, she
 
@@ -206,7 +216,7 @@ patience to sit till the meal was over. I remember, however, that I
 
 swallowed with difficulty the remainder of the tea that was in my cup,
 
-and ate nothing; and that the first thing I did was to stare at [[arthur|Arthur]]
+and ate nothing; and that the first thing I did was to stare at [[Arthur]]
 
 Graham, who sat beside his mother on the opposite side of the table,
 
@@ -222,9 +232,9 @@ Both, it is true, had more delicate features and smaller bones than
 
 commonly fall to the lot of individuals of the rougher sex, and
 
-Lawrence’s complexion was pale and clear, and [[arthur|Arthur]]’s delicately fair;
+Lawrence’s complexion was pale and clear, and [[Arthur]]’s delicately fair;
 
-but [[arthur|Arthur]]’s tiny, somewhat snubby nose could never become so long and
+but [[Arthur]]’s tiny, somewhat snubby nose could never become so long and
 
 straight as Mr. Lawrence’s; and the outline of his face, though not
 
@@ -243,13 +253,3 @@ to the shy hazel eyes of Mr. Lawrence, whence the sensitive [[Soul|soul]] looked
 so distrustfully forth, as ever ready to retire within, from the
 
 offences of a too rude, too uncongenial world. Wretch that I was to
-
-harbour that detestable idea for a moment! Did I not know Mrs. Graham?
-
-Had I not seen her, conversed with her [[Time|time]] after [[Time|time]]? Was I not
-
-certain that she, in intellect, in purity and elevation of [[Soul|soul]], was
-
-immeasurably superior to any of her detractors; that she was, in fact,
-
-the noblest, the most adorable, of her sex I had ever beheld, or even

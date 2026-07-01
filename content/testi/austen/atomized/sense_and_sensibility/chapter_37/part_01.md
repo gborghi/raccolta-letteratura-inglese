@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 37 (part 1)"
+title: "Sense and Sensibility — Chapter 37 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -199,11 +199,3 @@ she may, for what I care. I have no pity for either of them. I have no
 notion of people’s making such a to-do about money and [[Greatness|greatness]]. There
 
 is no reason on earth why Mr. Edward and Lucy should not marry; for I
-
-am sure Mrs. Ferrars may afford to do very [[Well|well]] by her son, and though
-
-Lucy has next to nothing herself, she knows better than any [[Body|body]] how to
-
-make the most of every thing; I dare say, if Mrs. Ferrars would only
-
-allow him five hundred a-year, she would make as good an appearance

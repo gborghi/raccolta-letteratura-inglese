@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 23 (part 3)"
+title: "Bleak House — Chapter 23 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_23/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_23/part_04">part 04 ›</a></div>
 </nav>
 
+
+And then he showed me, proved by elaborate calculations in his
+pocket-book, that supposing he had contracted, say, two hundred
+pounds of debt in six months out of the army; and that he contracted
+no debt at all within a corresponding period in the army—as to which
+he had quite made up his mind; this step must involve a saving of
+four hundred pounds in a year, or two thousand pounds in five years,
+which was a considerable sum. And then he spoke so ingenuously and
+sincerely of the sacrifice he made in withdrawing himself for a [[Time|time]]
+from Ada, and of the earnestness with which he aspired—as in thought
+he always did, I know full [[Well|well]]—to repay her [[Love|love]], and to ensure her
+happiness, and to conquer what was amiss in himself, and to acquire
+the very [[Soul|soul]] of decision, that he made my heart ache keenly, sorely.
+For, I thought, how would this end, how could this end, when so soon
+and so surely all his manly qualities were touched by the fatal
+blight that ruined everything it rested on!
 
 I spoke to [[Richard]] with all the earnestness I felt, and all the [[Hope|hope]]
 I could not quite feel then, and implored him for Ada’s sake not to
@@ -118,25 +134,3 @@ it, Esther, we should both be very grateful.”
 “Let me see, Caddy,” said I, pretending to consider. “Really, I think
 I could do a greater thing than that if the need were pressing. I am
 at your service and the darling [[Child|child]]’s, my dear, whenever you like.”
-
-Caddy was quite transported by this reply of mine, being, I believe,
-as susceptible to the least kindness or encouragement as any tender
-heart that ever beat in this world; and after another turn or two
-round the [[Garden|garden]], during which she put on an entirely new pair of
-gloves and made herself as resplendent as possible that she might do
-no avoidable discredit to the Master of Deportment, we went to Newman
-Street direct.
-
-Prince was teaching, of course. We found him engaged with a not very
-hopeful pupil—a stubborn little girl with a sulky forehead, a deep
-voice, and an inanimate, dissatisfied mama—whose case was certainly
-not rendered more hopeful by the confusion into which we threw her
-preceptor. The lesson at last came to an end, after proceeding as
-discordantly as possible; and when the little girl had changed her
-shoes and had had her white muslin extinguished in shawls, she was
-taken away. After a few words of preparation, we then went in search
-of Mr. Turveydrop, whom we found, grouped with his hat and gloves, as
-a model of deportment, on the sofa in his private apartment—the only
-comfortable room in the [[house]]. He appeared to have dressed at his
-leisure in the intervals of a light collation, and his dressing-case,
-brushes, and so forth, all of quite an elegant kind, lay about.

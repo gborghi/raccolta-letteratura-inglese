@@ -95,7 +95,7 @@ The Period
 It was the best of times, it was the worst of times, it was the age of
 wisdom, it was the age of foolishness, it was the epoch of belief, it
 was the epoch of [[Incredulity|incredulity]], it was the season of Light, it was the
-season of Darkness, it was the [[Spring|spring]] of [[Hope|hope]], it was the [[Winter|winter]] of
+season of Darkness, it was the [[spring]] of [[Hope|hope]], it was the [[Winter|winter]] of
 [[Despair|despair]], we had everything before us, we had nothing before us, we were
 all going direct to Heaven, we were all going direct the other way--in
 short, the period was so far like the present period, that some of its
@@ -458,7 +458,7 @@ turn the [[Leaves|leaves]] of this dear book that I loved, and vainly [[Hope|hop
 to read it all. No more can I look into the depths of this unfathomable
 [[Water|water]], wherein, as momentary lights glanced into it, I have had glimpses
 of buried treasure and other things submerged. It was appointed that the
-book should shut with a [[Spring|spring]], for ever and for ever, when I had read
+book should shut with a [[spring]], for ever and for ever, when I had read
 but a page. It was appointed that the [[Water|water]] should be locked in an
 eternal [[Frost|frost]], when the light was playing on its surface, and I stood
 in ignorance on the shore. My friend is dead, my neighbour is dead,
@@ -1272,7 +1272,7 @@ to write such words in?”
 
 In his expostulation he dropped his cleaner hand (perhaps accidentally,
 perhaps not) upon the joker’s heart. The joker rapped it with his
-own, took a nimble [[Spring|spring]] upward, and came down in a fantastic dancing
+own, took a nimble [[spring]] upward, and came down in a fantastic dancing
 attitude, with one of his stained shoes jerked off his foot into his
 hand, and held out. A joker of an extremely, not to say wolfishly
 practical character, he looked, under those circumstances.
@@ -5285,7 +5285,7 @@ freed.
 
 The fountain in the village flowed unseen and unheard, and the fountain
 at the chateau dropped unseen and unheard--both melting away, like the
-minutes that were falling from the [[Spring|spring]] of [[Time]]--through three dark
+minutes that were falling from the [[spring]] of [[Time]]--through three dark
 hours. Then, the grey [[Water|water]] of both began to be ghostly in the light,
 and the eyes of the stone faces of the chateau were opened.
 
@@ -11613,7 +11613,7 @@ not my business!” he would generally say at those times, and would
 briskly fall to his sawing again.
 
 In all weathers, in the [[Snow|snow]] and [[Frost|frost]] of [[Winter|winter]], in the bitter winds of
-[[Spring|spring]], in the hot sunshine of [[Summer|summer]], in the rains of [[Autumn|autumn]], and again
+[[spring]], in the hot sunshine of [[Summer|summer]], in the rains of [[Autumn|autumn]], and again
 in the [[Snow|snow]] and [[Frost|frost]] of [[Winter|winter]], Lucie passed two hours of every day at
 this place; and every day on leaving it, she kissed the [[Prison|prison]] wall.
 Her husband saw her (so she learned from her father) it might be once in

@@ -1,5 +1,5 @@
 ---
-title: "[[CharlesDickens]] — Chapter 10 (part 1)"
+title: "CharlesDickens — Chapter 10 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/charlesdickens-(chesterton)"
@@ -66,7 +66,7 @@ afterwards wheeled about in a bath-chair at Bournemouth.
 
 Nevertheless there is something that is worth saying about
 the quality of Dickens.  At the very beginning of this review I
-remarked that the reader must be in a mood, at least, of [[Democracy|democracy]].
+remarked that the reader must be in a mood, at least, of [[democracy]].
 To some it may have sounded irrelevant; but the Revolution
 was as much behind all the books of the nineteenth century
 as the Catholic religion (let us say) was behind all the

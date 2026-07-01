@@ -10,14 +10,13 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">everlasting man</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_01_on_the_man_called_christ/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_01_on_the_man_called_christ_chris/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_02">part 02 ›</a></div>
 </nav>
 
 
 PART I
 
 On the Creature Called Man
-
 
 * * *
 

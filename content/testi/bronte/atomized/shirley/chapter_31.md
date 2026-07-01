@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 31"
+title: "Shirley — Chapter 31"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/shirley-(bronte)"
@@ -1058,7 +1058,7 @@ tell you his name."
 
 
 
-"Listen! [[arthur|Arthur]] Wellesley, Lord Wellington."
+"Listen! [[Arthur]] Wellesley, Lord Wellington."
 
 
 

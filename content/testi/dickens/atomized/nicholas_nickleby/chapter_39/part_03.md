@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 39 (part 3)"
+title: "Nicholas Nickleby — Chapter 39 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_39/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_40/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘Dean’t say anoother wurd,’ returned the Yorkshireman, shaking him by
+the hand. ‘We’d coom, if it was twonty mile.’
 
 ‘No, would you though?’ returned Mr. Squeers, who had not expected quite
 such a ready acceptance of his invitation, or he would have considered

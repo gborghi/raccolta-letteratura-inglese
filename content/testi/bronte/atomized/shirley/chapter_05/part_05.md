@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 5 (part 5)"
+title: "Shirley — Chapter 5 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,50 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_05/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_05/part_06">part 06 ›</a></div>
 </nav>
 
+
+young girl, wrapped in a [[Winter|winter]] mantle, the folds of which were gathered
+
+with some grace round an apparently slender figure.
+
+
+
+"I came in haste to see how you were, Hortense, and how Robert was too.
+
+I was sure you would be both grieved by what happened last [[Night|night]]. I did
+
+not hear till this morning. My uncle told me at breakfast."
+
+
+
+"Ah! it is unspeakable. You sympathize with us? Your uncle sympathizes
+
+with us?"
+
+
+
+"My uncle is very angry--but he was with Robert, I believe, was he
+
+not?--Did he not go with you to Stilbro' Moor?"
+
+
+
+"Yes, we set out in very martial style, Caroline; but the prisoners we
+
+went to rescue met us half-way."
+
+
+
+"Of course nobody was hurt?"
+
+
+
+"Why, no; only Joe Scott's wrists were a little galled with being
+
+pinioned too tightly behind his back."
+
+
+
+"You were not there? You were not with the wagons when they were
 
 attacked?"
 
@@ -265,55 +309,3 @@ north [[Wind|wind]]."
 
 
 "When I speak of [[Poverty|poverty]], I do not so much mean the natural, habitual
-
-[[Poverty|poverty]] of the working-man, as the embarrassed penury of the man in
-
-debt. My grub-worm is always a straitened, struggling, care-worn
-
-tradesman."
-
-
-
-"Cherish [[Hope|hope]], not anxiety. Certain ideas have become too fixed in your
-
-mind. It may be presumptuous to say it, but I have the impression that
-
-there is something wrong in your notions of the best means of attaining
-
-happiness, as there is in----" Second hesitation.
-
-
-
-"I am all ear, Caroline."
-
-
-
-"In ([[Courage|courage]]! let me speak the [[Truth|truth]])--in your manner--mind, I say only
-
-_manner_--to these Yorkshire workpeople."
-
-
-
-"You have often wanted to tell me that, have you not?"
-
-
-
-"Yes; often--very often."
-
-
-
-"The faults of my manner are, I think, only negative. I am not proud.
-
-What has a man in my position to be proud of? I am only taciturn,
-
-phlegmatic, and joyless."
-
-
-
-"As if your living cloth-dressers were all machines like your frames and
-
-shears. In your own [[house]] you seem different."
-
-
-
-"To those of my own [[house]] I am no alien, which I am to these English

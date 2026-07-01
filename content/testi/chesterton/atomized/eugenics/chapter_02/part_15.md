@@ -1,5 +1,5 @@
 ---
-title: "[[Eugenics]] — Part 1 (part 15)"
+title: "Eugenics — Part 1 (part 15)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/eugenics-(chesterton)"
@@ -13,6 +13,59 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/eugenics/chapter_02/part_14">‹ part 14</a><a class="ex-next" href="/testi/chesterton/atomized/eugenics/chapter_02/part_16">part 16 ›</a></div>
 </nav>
 
+
+But this is not the clear-cut blunder of which I spoke.
+The real blunder is this.  Mr. Wells deserves a tiara
+of crowns and a garland of medals for all kinds of reasons.
+But if I were restricted, on grounds of public economy, to giving
+Mr. Wells only one medal ob cives servatos, I would give him
+a medal as the Eugenist who destroyed [[Eugenics]].  For everyone spoke
+of him rightly or wrongly, as a Eugenist; and he certainly had,
+as I have not, the training and type of culture required to consider
+the matter merely in a biological and not in a generally moral sense.
+The result was that in that fine book, "Mankind in the Making,"
+where he inevitably came to grips with the problem, he threw
+down to the Eugenists an intellectual challenge which seems
+to me unanswerable, but which, at any rate, is unanswered.
+I do not mean that no remote Eugenist wrote upon the subject;
+for it is impossible to read all writings, especially Eugenist writings.
+I do not mean that the leading Eugenists write as if this challenge
+had never been offered.  The gauntlet lies unlifted on the ground.
+
+Having given [[Honour|honour]] for the idea where it is due, I may be
+permitted to summarize it myself for the sake of brevity.
+Mr. Wells' point was this.  That we cannot be certain about
+the inheritance of health, because health is not a quality.
+It is not a thing like darkness in the hair or length in the limbs.
+It is a relation, a balance.  You have a tall, strong man; but his
+very strength depends on his not being too tall for his strength.
+You catch a healthy, full-blooded fellow; but his very health
+depends on his being not too full of [[Blood|blood]].  A heart that is strong
+for a [[Dwarf|dwarf]] will be weak for a giant; a nervous system that would kill
+a man with a trace of a certain illness will sustain him to ninety
+if he has no trace of that illness.  Nay, the same nervous system
+might kill him if he had an excess of some other comparatively
+healthy thing.  Seeing, therefore, that there are apparently healthy
+people of all types, it is obvious that if you mate two of them,
+you may even then produce a discord out of two inconsistent harmonies.
+It is obvious that you can no more be certain of a good offspring than
+you can be certain of a good tune if you play two fine airs at once
+on the same piano.  You can be even less certain of it in the more
+delicate case of [[Beauty|beauty]], of which the Eugenists talk a great deal.
+Marry two handsome people whose noses tend to the aquiline,
+and their baby (for all you know) may be a goblin with a nose like
+an enormous parrot's. Indeed, I actually know a case of this kind.
+The Eugenist has to settle, not the result of fixing one steady thing
+to a second steady thing; but what will happen when one toppling
+and dizzy equilibrium crashes into another.
+
+This is the interesting conclusion.  It is on this degree of knowledge
+that we are asked to abandon the universal [[morality]] of mankind.
+When we have stopped the [[Lover|lover]] from marrying the unfortunate woman
+he loves, when we have found him another uproariously healthy
+female whom he does not [[Love|love]] in the least, even then we have no
+logical evidence that the result may not be as horrid and dangerous
+as if he had behaved like a man of [[Honour|honour]].
 
 ---/---
 
@@ -67,56 +120,3 @@ It is only in such language from the Age of Reason that we can answer
 such things.  The age we live in is something more than an age
 of superstition --- it is an age of innumerable superstitions.
 But it is only with one example of this that I am concerned here.
-
-I mean the error that still sends men marching about disestablishing
-churches and talking of the tyranny of compulsory church teaching
-or compulsory church tithes.  I do not wish for an irrelevant
-misunderstanding here; I would myself certainly disestablish any
-church that had a numerical minority, like the Irish or the Welsh;
-and I think it would do a great deal of good to genuine churches that have
-a partly conventional majority, like the English, or even the Russian.
-But I should only do this if I had nothing else to do; and just now
-there is very much else to do.  For religion, orthodox, or unorthodox,
-is not just now relying on the weapon of State establishment at all.
-The Pope practically made no attempt to preserve the Concordat;
-but seemed rather relieved at the independence his Church
-gained by the destruction of it:  and it is common talk among
-the French clericalists that the Church has gained by the change.
-In [[Russia]] the one real charge brought by religious people
-(especially Roman Catholics) against the Orthodox Church is not its
-orthodoxy or heterodoxy, but its abject dependence on the State.
-In England we can almost measure an Anglican's fervour for his
-Church by his comparative coolness about its establishment ---
-that is, its control by a Parliament of Scotch Presbyterians
-like Balfour, or Welsh Congregationalists like Lloyd George.
-In Scotland the powerful combination of the two great sects outside
-the establishment have left it in a position in which it feels
-no disposition to boast of being called by mere lawyers the Church
-of Scotland.  I am not here arguing that Churches should not depend
-on the State; nor that they do not depend upon much worse things.
-It may be reasonably maintained that the strength of Romanism,
-though it be not in any national police, is in a moral police
-more rigid and vigilant.  It may be reasonably maintained that
-the strength of Anglicanism, though it be not in establishment,
-is in aristocracy, and its [[Shadow|shadow]], which is called snobbishness.
-All I assert here is that the Churches are not now leaning heavily
-on their political establishment; they are not using heavily the
-secular arm.  Almost everywhere their legal tithes have been modified,
-their legal boards of control have been mixed.  They may still
-employ tyranny, and worse tyranny:  I am not considering that.
-They are not specially using that special tyranny which consists
-in using the [[government]].
-
-The thing that really is trying to tyrannize through [[government]]
-is Science.  The thing that really does use the secular arm is Science.
-And the creed that really is levying tithes and capturing schools,
-the creed that really is enforced by fine and [[Imprisonment|imprisonment]],
-the creed that really is proclaimed not in sermons but in statutes,
-and spread not by pilgrims but by policemen --- that creed is the great
-but disputed system of thought which began with Evolution and has
-ended in [[Eugenics]].  Materialism is really our established Church;
-for the [[government|Government]] will really help it to persecute its heretics.
-Vaccination, in its hundred years of experiment, has been disputed
-almost as much as baptism in its approximate two thousand.
-But it seems quite natural to our politicians to enforce vaccination;
-and it would seem to them [[Madness|madness]] to enforce baptism.

@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 59 (part 1)"
+title: "Bleak House — Chapter 59 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -130,15 +130,3 @@ Although I looked about me confusedly and hurriedly as we crossed the
 street, I thought I knew the place. “Are we in Holborn?” I asked him.
 
 “Yes,” said Mr. Bucket. “Do you know this turning?”
-
-“It looks like Chancery Lane.”
-
-“And was christened so, my dear,” said Mr. Bucket.
-
-We turned down it, and as we went shuffling through the sleet, I
-heard the clocks strike half-past five. We passed on in [[Silence|silence]] and
-as quickly as we could with such a foot-hold, when some one coming
-towards us on the narrow pavement, wrapped in a cloak, stopped and
-stood aside to give me room. In the same moment I heard an
-exclamation of [[Wonder|wonder]] and my own name from Mr. Woodcourt. I knew his
-voice very [[Well|well]].

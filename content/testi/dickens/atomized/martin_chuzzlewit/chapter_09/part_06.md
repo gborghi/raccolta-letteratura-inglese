@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 9 (part 6)"
+title: "Martin Chuzzlewit — Chapter 9 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_09/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_09/part_07">part 07 ›</a></div>
 </nav>
 
+
+Perhaps Miss Pinch was scarcely so much to blame in the matter as the
+Seraph, who, immediately on the withdrawal of the visitors, had hastened
+to report them at head-quarters, with a full account of their having
+presumptuously charged her with the delivery of a message afterwards
+consigned to the footman; which outrage, taken in conjunction with Mr
+Pecksniff’s unobtrusive remarks on the establishment, might possibly
+have had some share in their dismissal. Poor Miss Pinch, however, had to
+bear the brunt of it with both parties; being so severely taken to task
+by the Seraph’s mother for having such vulgar acquaintances, that
+she was fain to retire to her own room in [[Tears|tears]], which her natural
+cheerfulness and submission, and the delight of having seen Mr
+Pecksniff, and having received a letter from her brother, were at first
+insufficient to repress.
 
 As to Mr Pecksniff, he told them in the fly, that a good action was its
 own reward; and rather gave them to understand, that if he could have
@@ -110,19 +124,3 @@ the back of the unconscious Mrs Todgers. Having done this justice to his
 wounded feelings, he retired underground; where, in company with a swarm
 of black beetles and a kitchen candle, he employed his faculties in
 cleaning boots and brushing clothes until the [[Night|night]] was far advanced.
-
-Benjamin was supposed to be the real name of this young retainer but he
-was known by a great variety of names. Benjamin, for instance, had been
-converted into Uncle Ben, and that again had been corrupted into Uncle;
-which, by an easy transition, had again passed into Barnwell, in [[Memory|memory]]
-of the celebrated relative in that degree who was shot by his nephew
-George, while meditating in his [[Garden|garden]] at Camberwell. The gentlemen at
-Todgers’s had a merry habit, too, of bestowing upon him, for the [[Time|time]]
-being, the name of any notorious malefactor or minister; and sometimes
-when current events were flat they even sought the pages of [[history]] for
-these distinctions; as Mr Pitt, Young Brownrigg, and the like. At the
-period of which we write, he was generally known among the gentlemen as
-Bailey junior; a name bestowed upon him in contradistinction, perhaps,
-to Old Bailey; and possibly as involving the recollection of an
-unfortunate lady of the same name, who perished by her own hand early in
-life, and has been immortalised in a ballad.

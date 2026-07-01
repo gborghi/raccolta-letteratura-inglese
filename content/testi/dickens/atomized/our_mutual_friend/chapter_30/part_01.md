@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 6 (part 1)"
+title: "Our Mutual Friend — Chapter 8 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,141 +10,132 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_29/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_30/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_29/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_30/part_02">part 02 ›</a></div>
 </nav>
 
 
-Chapter 6
+Chapter 8
 
-A [[Riddle|RIDDLE]] WITHOUT AN ANSWER
+IN WHICH AN [[Innocent|INNOCENT]] ELOPEMENT OCCURS
 
 
-Again Mr Mortimer Lightwood and Mr [[Eugene Wrayburn]] sat together in the
-Temple. This evening, however, they were not together in the place of
-business of the eminent solicitor, but in another dismal set of
-chambers facing it on the same second-floor; on whose dungeon-like black
-outer-door appeared the legend:
+The minion of fortune and the worm of the hour, or in less cutting
+language, [[Nicodemus Boffin]], Esquire, the Golden Dustman, had become
+as much at [[Home|home]] in his eminently aristocratic family mansion as he
+was likely ever to be. He could not but feel that, like an eminently
+aristocratic family [[cheese]], it was much too large for his wants, and
+bred an infinite amount of parasites; but he was content to regard this
+drawback on his property as a sort of perpetual Legacy Duty. He felt the
+more resigned to it, forasmuch as Mrs Boffin enjoyed herself completely,
+and Miss Bella was delighted.
 
-		PRIVATE
+That young lady was, no [[Doubt|doubt]], an acquisition to the Boffins. She
+was far too pretty to be unattractive anywhere, and far too quick of
+perception to be below the tone of her new career. Whether it improved
+her heart might be a matter of taste that was open to question; but as
+touching another matter of taste, its improvement of her appearance and
+manner, there could be no question whatever.
 
-		MR [[Eugene Wrayburn|EUGENE WRAYBURN]]
+And thus it soon came about that Miss Bella began to set Mrs Boffin
+right; and even further, that Miss Bella began to feel ill at ease, and
+as it were responsible, when she saw Mrs Boffin going wrong. Not that so
+sweet a disposition and so sound a [[Nature|nature]] could ever go very wrong even
+among the great visiting authorities who agreed that the Boffins were
+‘charmingly vulgar’ (which for certain was not their own case in saying
+so), but that when she made a slip on the social ice on which all the
+children of Podsnappery, with genteel souls to be saved, are required to
+skate in circles, or to slide in long rows, she inevitably tripped Miss
+Bella up (so that young lady felt), and caused her to experience great
+confusion under the glances of the more skilful performers engaged in
+those ice-exercises.
 
-		MR MORTIMER LIGHTWOOD
+At Miss Bella’s [[Time|time]] of life it was not to be expected that she should
+examine herself very closely on the congruity or stability of her
+position in Mr Boffin’s [[house]]. And as she had never been sparing of
+complaints of her old [[Home|home]] when she had no other to compare it with,
+so there was no novelty of ingratitude or disdain in her very much
+preferring her new one.
 
-		(Mr Lightwood’s Offices opposite.)
+‘An invaluable man is Rokesmith,’ said Mr Boffin, after some two or
+three months. ‘But I can’t quite make him out.’
 
-Appearances indicated that this establishment was a very recent
-institution. The white letters of the [[Inscription|inscription]] were extremely white
-and extremely strong to the sense of smell, the complexion of the
-tables and chairs was (like Lady Tippins’s) a little too blooming to
-be believed in, and the carpets and floorcloth seemed to rush at the
-beholder’s face in the unusual prominency of their patterns. But the
-Temple, accustomed to tone down both the still life and the human life
-that has much to do with it, would soon get the better of all that.
+Neither could Bella, so she found the subject rather interesting.
 
-‘[[Well]]!’ said Eugene, on one side of the [[Fire|fire]], ‘I feel tolerably
-comfortable. I [[Hope|hope]] the upholsterer may do the same.’
+‘He takes more care of my affairs, morning, [[Noon|noon]], and [[Night|night]],’ said Mr
+Boffin, ‘than fifty other men put together either could or would; and
+yet he has ways of his own that are like tying a scaffolding-pole right
+across the [[Road|road]], and bringing me up short when I am almost a-walking arm
+in arm with him.’
 
-‘Why shouldn’t he?’ asked Lightwood, from the other side of the [[Fire|fire]].
+‘May I ask how so, sir?’ inquired Bella.
 
-‘To be sure,’ pursued Eugene, reflecting, ‘he is not in the secret of
-our pecuniary affairs, so perhaps he may be in an easy frame of mind.’
+‘[[Well]], my dear,’ said Mr Boffin, ‘he won’t meet any company here, but
+you. When we have visitors, I should wish him to have his regular place
+at the table like ourselves; but no, he won’t take it.’
 
-‘We shall pay him,’ said Mortimer.
+‘If he considers himself above it,’ said Miss Bella, with an airy toss
+of her head, ‘I should leave him [[Alone|alone]].’
 
-‘Shall we, really?’ returned Eugene, indolently surprised. ‘You don’t
-say so!’
+‘It ain’t that, my dear,’ replied Mr Boffin, thinking it over. ‘He don’t
+consider himself above it.’
 
-‘I mean to pay him, Eugene, for my part,’ said Mortimer, in a slightly
-injured tone.
+‘Perhaps he considers himself beneath it,’ suggested Bella. ‘If so, he
+ought to know best.’
 
-‘Ah! I mean to pay him too,’ retorted Eugene. ‘But then I mean so much
-that I—that I don’t mean.’
+‘No, my dear; nor it ain’t that, neither. No,’ repeated Mr Boffin, with
+a shake of his head, after again thinking it over; ‘Rokesmith’s a modest
+man, but he don’t consider himself beneath it.’
 
-‘Don’t mean?’
+‘Then what does he consider, sir?’ asked Bella.
 
-‘So much that I only mean and shall always only mean and nothing more,
-my dear Mortimer. It’s the same thing.’
+‘Dashed if I know!’ said Mr Boffin. ‘It seemed at first as if it
+was only Lightwood that he objected to meet. And now it seems to be
+everybody, except you.’
 
-His friend, lying back in his easy chair, watched him lying back in his
-easy chair, as he stretched out his legs on the hearth-rug, and said,
-with the amused look that [[Eugene Wrayburn]] could always awaken in him
-without seeming to try or care:
+Oho! thought Miss Bella. ‘In—deed! That’s it, is it!’ For Mr Mortimer
+Lightwood had dined there two or three times, and she had met him
+elsewhere, and he had shown her some attention. ‘Rather cool in a
+Secretary—and Pa’s lodger—to make me the subject of his [[Jealousy|jealousy]]!’
 
-‘Anyhow, your vagaries have increased the bill.’
+That Pa’s daughter should be so contemptuous of Pa’s lodger was odd;
+but there were odder anomalies than that in the mind of the spoilt girl:
+spoilt first by [[Poverty|poverty]], and then by wealth. Be it this [[history]]’s part,
+however, to leave them to unravel themselves.
 
-‘Calls the domestic virtues vagaries!’ exclaimed Eugene, raising his
-eyes to the ceiling.
+‘A little too much, I think,’ Miss Bella reflected scornfully, ‘to
+have Pa’s lodger laying claim to me, and keeping eligible people off!
+A little too much, indeed, to have the opportunities opened to me by Mr
+and Mrs Boffin, appropriated by a mere Secretary and Pa’s lodger!’
 
-‘This very complete little kitchen of ours,’ said Mortimer, ‘in which
-nothing will ever be cooked—’
+Yet it was not so very long ago that Bella had been fluttered by the
+discovery that this same Secretary and lodger seem to like her. Ah! but
+the eminently aristocratic mansion and Mrs Boffin’s dressmaker had not
+come into play then.
 
-‘My dear, dear Mortimer,’ returned his friend, lazily lifting his head
-a little to look at him, ‘how often have I pointed out to you that its
-moral influence is the important thing?’
+In spite of his seemingly retiring manners a very intrusive person, this
+Secretary and lodger, in Miss Bella’s opinion. Always a light in his
+office-room when we came [[Home|home]] from the play or Opera, and he always at
+the carriage-door to hand us out. Always a provoking radiance too on
+Mrs Boffin’s face, and an abominably cheerful reception of him, as if it
+were possible seriously to approve what the man had in his mind!
 
-‘Its moral influence on this fellow!’ exclaimed Lightwood, laughing.
+‘You never charge me, Miss Wilfer,’ said the Secretary, encountering her
+by chance [[Alone|alone]] in the great drawing-room, ‘with commissions for [[Home|home]].
+I shall always be happy to execute any commands you may have in that
+direction.’
 
-‘Do me the favour,’ said Eugene, getting out of his chair with much
-gravity, ‘to come and inspect that feature of our establishment which
-you rashly disparage.’ With that, taking up a candle, he conducted
-his chum into the fourth room of the set of chambers—a little narrow
-room—which was very completely and neatly fitted as a kitchen. ‘See!’
-said Eugene, ‘miniature flour-barrel, [[rolling]]-pin, spice-box, shelf of
-brown jars, chopping-board, coffee-mill, dresser elegantly furnished
-with crockery, saucepans and pans, roasting jack, a charming kettle, an
-armoury of dish-covers. The moral influence of these objects, in forming
-the domestic virtues, may have an immense influence upon me; not upon
-you, for you are a hopeless case, but upon me. In fact, I have an idea
-that I feel the domestic virtues already forming. Do me the favour to
-step into my bedroom. Secretaire, you see, and abstruse set of solid
-mahogany pigeon-holes, one for every letter of the alphabet. To what use
-do I devote them? I receive a bill—say from [[Jones]]. I docket it neatly
-at the secretaire, [[Jones|JONES]], and I put it into pigeonhole J. It’s the next
-thing to a receipt and is quite as satisfactory to ME. And I very much
-wish, Mortimer,’ sitting on his bed, with the air of a philosopher
-lecturing a disciple, ‘that my example might induce YOU to cultivate
-habits of punctuality and method; and, by means of the moral influences
-with which I have surrounded you, to encourage the formation of the
-domestic virtues.’
+‘Pray what may you mean, Mr Rokesmith?’ inquired Miss Bella, with
+languidly drooping eyelids.
 
-Mortimer laughed again, with his usual commentaries of ‘How CAN you be
-so ridiculous, Eugene!’ and ‘What an absurd fellow you are!’ but when
-his laugh was out, there was something serious, if not anxious, in his
-face. Despite that pernicious assumption of lassitude and indifference,
-which had become his second [[Nature|nature]], he was strongly attached to his
-friend. He had founded himself upon Eugene when they were yet boys at
-school; and at this hour imitated him no less, admired him no less,
-loved him no less, than in those departed days.
+‘By [[Home|home]]? I mean your father’s [[house]] at Holloway.’
 
-‘Eugene,’ said he, ‘if I could find you in earnest for a minute, I would
-try to say an earnest word to you.’
+She coloured under the retort—so skilfully thrust, that the words
+seemed to be merely a plain answer, given in plain good [[Faith|faith]]—and said,
+rather more emphatically and sharply:
 
-‘An earnest word?’ repeated Eugene. ‘The moral influences are beginning
-to work. Say on.’
+‘What commissions and commands are you speaking of?’
 
-‘[[Well]], I will,’ returned the other, ‘though you are not earnest yet.’
-
-‘In this [[Desire|desire]] for earnestness,’ murmured Eugene, with the air of one
-who was meditating deeply, ‘I trace the happy influences of the little
-flour-barrel and the coffee-mill. Gratifying.’
-
-‘Eugene,’ resumed Mortimer, disregarding the light interruption, and
-laying a hand upon Eugene’s shoulder, as he, Mortimer, stood before him
-seated on his bed, ‘you are withholding something from me.’
-
-Eugene looked at him, but said nothing.
-
-‘All this past [[Summer|summer]], you have been withholding something from me.
-Before we entered on our boating vacation, you were as bent upon it as I
-have seen you upon anything since we first rowed together. But you cared
-very little for it when it came, often found it a tie and a drag upon
-you, and were constantly away. Now it was [[Well|well]] enough half-a-dozen
-times, a dozen times, twenty times, to say to me in your own odd manner,
-which I know so [[Well|well]] and like so much, that your disappearances were
-precautions against our boring one another; but of course after a short
-while I began to know that they covered something. I don’t ask what it
-is, as you have not told me; but the fact is so. Say, is it not?’
-
-‘I give you my word of [[Honour|honour]], Mortimer,’ returned Eugene, after a
-serious pause of a few moments, ‘that I don’t know.’
+‘Only little words of remembrance as I assume you sent somehow or
+other,’ replied the Secretary with his former air. ‘It would be a
+pleasure to me if you would make me the bearer of them. As you know, I
+come and go between the two houses every day.’

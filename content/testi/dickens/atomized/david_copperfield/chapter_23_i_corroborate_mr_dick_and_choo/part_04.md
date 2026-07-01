@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 23: I CORROBORATE Mr. DICK, AND CHOOSE A PROFESSION (part 4)"
+title: "David Copperfield — Chapter 23: I CORROBORATE Mr. DICK, AND CHOOSE A PROFESSION (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,15 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_23_i_corroborate_mr_dick_and_choo/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_23_i_corroborate_mr_dick_and_choo/part_05">part 05 ›</a></div>
 </nav>
 
+
+She had not yet sufficiently recovered from her agitation to be quite
+prepared for the visit we had to make. She desired me to get into the
+chariot, and to tell the coachman to drive slowly up and down a little
+while. She said no more, except, ‘My dear [[Child|child]], never ask me what
+it was, and don’t refer to it,’ until she had perfectly regained her
+composure, when she told me she was quite herself now, and we might get
+out. On her giving me her purse to pay the driver, I found that all the
+guineas were gone, and only the loose silver remained.
 
 Doctors’ Commons was approached by a little low archway. Before we had
 taken many paces down the street beyond it, the noise of the [[City|city]] seemed
@@ -115,14 +124,3 @@ would have his bond. The heart and hand of the good angel Spenlow would
 have been always open, but for the restraining demon Jorkins. As I have
 grown older, I think I have had experience of some other houses doing
 business on the principle of Spenlow and Jorkins!
-
-It was settled that I should begin my month’s probation as soon as I
-pleased, and that my aunt need neither remain in town nor return at
-its expiration, as the articles of agreement, of which I was to be the
-subject, could easily be sent to her at [[Home|home]] for her signature. When
-we had got so far, Mr. Spenlow offered to take me into [[Court]] then and
-there, and show me what sort of place it was. As I was willing enough
-to know, we went out with this object, leaving my aunt behind; who would
-trust herself, she said, in no such place, and who, I think, regarded
-all Courts of Law as a sort of powder-mills that might blow up at any
-[[Time|time]].

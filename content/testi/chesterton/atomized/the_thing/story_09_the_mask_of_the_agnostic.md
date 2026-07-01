@@ -10,13 +10,13 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-thing-(chesterton)">The Thing</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_08_what_do_they_think">‹ Story 08 WHAT DO THEY THINK</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_10_the_early_bird_in_history">Story 10 THE EARLY BIRD IN HISTORY ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_08_what_do_they_think">‹ Story 08 WHAT DO THEY THINK</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_10_the_early_bird_in_history_history">Story 10 THE EARLY BIRD IN history HISTORY ›</a></div>
 </nav>
 
 
 THE MASK OF THE AGNOSTIC
 
-SIR [[arthur|ARTHUR]] KEITH, in his recent remarks on the [[Soul|soul]], let the cat out
+SIR [[Arthur|ARTHUR]] KEITH, in his recent remarks on the [[Soul|soul]], let the cat out
 of the bag.  He let it out of that very prim and proper professional
 bag which is carried by the "medical man" whom he described
 as conscientiously compelled to assert that the life of the [[Soul|soul]]
@@ -32,7 +32,7 @@ but simply their opinions; and a very shaky sort of opinions some
 of them are.
 
 Not long ago, in his famous address on Anthropoids to the Congress
-at Leeds, Sir [[arthur|Arthur]] Keith said that he spoke simply as the foreman
+at Leeds, Sir [[Arthur]] Keith said that he spoke simply as the foreman
 of a jury.  It is true that he had not apparently consulted the jury;
 and it was rapidly made clear that the jury violently disagreed;
 which is unusual in a jury after the foreman has delivered
@@ -43,7 +43,7 @@ without [[Fear|fear]] or favour.  And this effect would be a hundred times
 more effective if we were left free to imagine that the juryman's
 personal sympathies might be on the other side; or at least,
 if we did not know that they were very keenly on the one side.
-Sir [[arthur|Arthur]] should have been careful to preserve the impression that,
+Sir [[Arthur]] should have been careful to preserve the impression that,
 speaking strictly and solely as an anthropologist, he was forced
 to accept the natural selection of anthropoids.  He should then
 have left it to be inferred that, merely as a private person,
@@ -58,7 +58,7 @@ witness because a reluctant witness.  In the trial of Darwin the man
 might feel for the plaintiff, but the juryman would be forced
 to find for the defendant.
 
-And now Sir [[arthur|Arthur]] Keith has thrown the whole of that imperial
+And now Sir [[Arthur]] Keith has thrown the whole of that imperial
 impartiality away.  He has gone out of his way to dogmatise and lay
 down the law about the [[Soul|soul]]; which has nothing to do with his subject,
 except in so far as it is everybody's subject.  But while it does not
@@ -74,7 +74,7 @@ When THEY choose the side of natural selection, we can all agree
 that it is a very natural selection.
 
 As to the conclusion itself, it seems almost incredibly inconclusive.
-Unless Sir [[arthur|Arthur]] Keith is very badly misreported, he specially
+Unless Sir [[Arthur]] Keith is very badly misreported, he specially
 stated that spiritual existence ceases with the physical functions;
 and that no medical man could conscientiously say anything else.
 However [[Grave|grave]] be the injury called [[Death|death]] (which indeed is often fatal),
@@ -98,7 +98,7 @@ a medical man knows no more about that than any other man.
 And when medical men were clear-headed, some of them (like an ex-surgeon
 named Thomas Henry Huxley) said they did not believe that medical men or
 any men could know anything about it.  That is an intelligible position;
-but it does not seem to be Sir [[arthur|Arthur]] Keith's position.  He has been
+but it does not seem to be Sir [[Arthur]] Keith's position.  He has been
 put up publicly to DENY that the [[Soul|soul]] survives the [[Body|body]]; and to make
 the extraordinary remark that any medical man must say the same.
 It is as if we were to say that any competent builder or surveyor
@@ -161,7 +161,7 @@ So the Right Honourable Gentleman hopes it is not necessary for him
 to contradict what he feels sure the Honourable Member could
 not have intended to insinuate.  So a Cabinet Minister is put up
 to deny from a platform that there is any change in the [[government|Government]]'s
-policy about Damascus.  And so Sir [[arthur|Arthur]] Keith is put up to deny
+policy about Damascus.  And so Sir [[Arthur]] Keith is put up to deny
 that there is any change in the scientific attitude about Darwin.
 
 And when we hear that, we all give a sort of sigh of satisfaction;
@@ -180,7 +180,7 @@ repeated everywhere, exactly what is meant by the absolute agreement
 on everything which binds the Prime Minister and all his colleagues.
 The Prime Minister does not really expect us to believe that he is
 the holy and beloved [[King|king]] of a brotherhood of knights sworn to a
-[[Faith|faith]] and giving their hearts to him [[Alone|alone]].  But Sir [[arthur|Arthur]] Keith
+[[Faith|faith]] and giving their hearts to him [[Alone|alone]].  But Sir [[Arthur]] Keith
 does really expect us to believe that he is the foreman of a jury
 containing all the different men of science, all absolutely agreed
 that Darwin's particular opinion was "eternal." That is what I mean
@@ -211,16 +211,16 @@ which our grandfathers regarded as a very modern movement.
 Even considered a priori as a matter of probability it therefore
 seems rather unlikely that the science of that generation was any
 more infallible than its ethics and politics.  Even on the principles
-Sir [[arthur|Arthur]] professes, it seems very queer that there should now
+Sir [[Arthur]] professes, it seems very queer that there should now
 be no more to be said about Darwinism than he said about it.
 But we do not need to appeal to those principles or those probabilities.
 We can appeal to the facts.  As it happens, we do know something
-about the facts; and Sir [[arthur|Arthur]] Keith does not seem to know
+about the facts; and Sir [[Arthur]] Keith does not seem to know
 that we know.
 
 It was in a Catholic paper that certain statements were made about
-Darwinism to-day; statements which Sir [[arthur|Arthur]] Keith himself went
-out of his way to contradict; and about which Sir [[arthur|Arthur]] Keith
+Darwinism to-day; statements which Sir [[Arthur]] Keith himself went
+out of his way to contradict; and about which Sir [[Arthur]] Keith
 himself was proved sensationally and disastrously wrong.
 Probably the story is now known to all readers of that paper; but it
 will possibly never come to the knowledge of most other journalists,
@@ -234,13 +234,13 @@ When Mr. Belloc stated that these Darwinians were out of date and ignorant
 of recent biology, he quoted among a great many other recent authorities
 the French biologist Vialleton as denying the possibility of natural
 selection in a particular case connected with reptiles and [[Birds|birds]].
-Sir [[arthur|Arthur]] Keith, coming to the rescue of Mr. H. G. Wells, and eager
+Sir [[Arthur]] Keith, coming to the rescue of Mr. H. G. Wells, and eager
 to prove that he and Mr. Wells were not out of date or ignorant
 of recent biology, proceeded to contradict Mr. Belloc flatly.
 He said that there was no such statement in Vialleton's book;
 in other words, he accused Mr. Belloc of having misquoted or
 misrepresented Vialleton's book.  It then appeared, to the amazement
-of everybody, and especially of Mr. Belloc, that Sir [[arthur|Arthur]] Keith did
+of everybody, and especially of Mr. Belloc, that Sir [[Arthur]] Keith did
 not even know of the existence of the book.  He was referring only
 to an early and elementary work by the same author published long ago.
 That was the last he had ever read of Vialleton.  The important book,

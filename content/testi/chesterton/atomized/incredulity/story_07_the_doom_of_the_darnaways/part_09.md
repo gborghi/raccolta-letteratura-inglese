@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity]] — The Doom of the Darnaways (part 9)"
+title: "Incredulity — The Doom of the Darnaways (part 9)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-(chesterton)"
@@ -73,6 +73,6 @@ some hidden staircase--`
 said the priest nodding.  `I'm sorry.  It couldn't be helped.
 It's dreadfully banal and stupid, as stupid as I have been on this
 pretty banal case.  But we were mixed up in a real musty old
-[[Romance|romance]] of decayed gentility and a fallen family mansion; and it
-was too much to [[Hope|hope]] that we could escape having a secret passage.
+romance of decayed gentility and a fallen family mansion; and it
+was too much to hope that we could escape having a secret passage.
 It was a priest's hole; and I deserve to be put in it.'

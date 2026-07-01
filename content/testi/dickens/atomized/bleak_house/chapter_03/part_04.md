@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 3 (part 4)"
+title: "Bleak House — Chapter 3 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_03/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_03/part_05">part 05 ›</a></div>
 </nav>
 
+
+It said, “What the de-vil are you crying for?”
+
+I was so frightened that I lost my voice and could only answer in a
+whisper, “Me, sir?” For of course I knew it must have been the
+gentleman in the quantity of wrappings, though he was still looking
+out of his [[Window|window]].
 
 “Yes, you,” he said, turning round.
 
@@ -147,16 +154,3 @@ there, thank heaven, on my birthday, that it would have been better
 if I had never been born. When the day came round, it brought me so
 many tokens of affectionate remembrance that my room was beautiful
 with them from New Year’s Day to Christmas.
-
-In those six years I had never been away except on visits at holiday
-[[Time|time]] in the neighbourhood. After the first six months or so I had
-taken Miss Donny’s advice in reference to the propriety of writing to
-Mr. Kenge to say that I was happy and grateful, and with her approval
-I had written such a letter. I had received a formal answer
-acknowledging its receipt and saying, “We note the contents thereof,
-which shall be duly communicated to our client.” After that I
-sometimes heard Miss Donny and her sister mention how regular my
-accounts were paid, and about twice a year I ventured to write a
-similar letter. I always received by return of post exactly the same
-answer in the same round hand, with the signature of Kenge and Carboy
-in another writing, which I supposed to be Mr. Kenge’s.

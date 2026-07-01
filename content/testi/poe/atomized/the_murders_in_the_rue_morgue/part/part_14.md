@@ -1,5 +1,5 @@
 ---
-title: "[[The Murders in the Rue Morgue]] (part 14)"
+title: "The Murders in the Rue Morgue (part 14)"
 author: "Poe"
 unitType: excerpt
 parentWork: "works/the-murders-in-the-rue-morgue-(poe)"
@@ -13,6 +13,80 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_murders_in_the_rue_morgue/part/part_13">‹ part 13</a><a class="ex-next" href="/testi/poe/atomized/the_murders_in_the_rue_morgue/part/part_15">part 15 ›</a></div>
 </nav>
 
+
+      The sailor drew a long breath, with the air of a man relieved of
+
+      some intolerable burden, and then replied, in an assured tone:
+
+
+
+      “I have no way of telling—but he can’t be more than four or five
+
+      years old. Have you got him here?”
+
+
+
+      “Oh no, we had no conveniences for keeping him here. He is at a
+
+      livery stable in the Rue Dubourg, just by. You can get him in the
+
+      morning. Of course you are prepared to identify the property?”
+
+
+
+      “To be sure I am, sir.”
+
+
+
+      “I shall be sorry to part with him,” said Dupin.
+
+
+
+      “I don’t mean that you should be at all this trouble for nothing,
+
+      sir,” said the man. “Couldn’t expect it. Am very willing to pay a
+
+      reward for the finding of the animal—that is to say, any thing in
+
+      reason.”
+
+
+
+      “[[Well]],” replied my friend, “that is all very fair, to be sure.
+
+      Let me think!—what should I have? Oh! I will tell you. My reward
+
+      shall be this. You shall give me all the information in your
+
+      power about these murders in the Rue Morgue.”
+
+
+
+      Dupin said the last words in a very low tone, and very quietly.
+
+      Just as quietly, too, he walked toward the door, locked it and
+
+      put the key in his pocket. He then drew a [[Pistol|pistol]] from his bosom
+
+      and placed it, without the least flurry, upon the table.
+
+
+
+      The sailor’s face flushed up as if he were struggling with
+
+      suffocation. He started to his feet and grasped his cudgel, but
+
+      the next moment he fell back into his seat, trembling violently,
+
+      and with the countenance of [[Death|death]] itself. He spoke not a word. I
+
+      pitied him from the [[Bottom|bottom]] of my heart.
+
+
+
+      “My friend,” said Dupin, in a kind tone, “you are alarming
+
+      yourself unnecessarily—you are indeed. We mean you no harm
 
       whatever. I pledge you the honor of a gentleman, and of a
 
@@ -141,67 +215,3 @@ tags:
       the fourth story of her [[house]]. Rushing to the building, it
 
       perceived the [[Lightning|lightning]] rod, clambered up with inconceivable
-
-      agility, grasped the shutter, which was thrown fully back against
-
-      the wall, and, by its means, swung itself directly upon the
-
-      headboard of the bed. The whole feat did not occupy a minute. The
-
-      shutter was kicked open again by the Ourang-Outang as it entered
-
-      the room.
-
-
-
-      The sailor, in the meantime, was both rejoiced and perplexed. He
-
-      had strong hopes of now recapturing the brute, as it could
-
-      scarcely escape from the trap into which it had ventured, except
-
-      by the rod, where it might be intercepted as it came down. On the
-
-      other hand, there was much cause for anxiety as to what it might
-
-      do in the [[house]]. This latter reflection urged the man still to
-
-      follow the fugitive. A [[Lightning|lightning]] rod is ascended without
-
-      difficulty, especially by a sailor; but, when he had arrived as
-
-      high as the [[Window|window]], which lay far to his left, his career was
-
-      stopped; the most that he could accomplish was to reach over so
-
-      as to obtain a glimpse of the interior of the room. At this
-
-      glimpse he nearly fell from his hold through excess of horror.
-
-      Now it was that those hideous shrieks arose upon the [[Night|night]], which
-
-      had startled from slumber the inmates of the Rue Morgue. Madame
-
-      L’Espanaye and her daughter, habited in their [[Night|night]] clothes, had
-
-      apparently been occupied in arranging some papers in the iron
-
-      chest already mentioned, which had been wheeled into the middle
-
-      of the room. It was open, and its contents lay beside it on the
-
-      floor. The victims must have been sitting with their backs toward
-
-      the [[Window|window]]; and, from the [[Time|time]] elapsing between the ingress of
-
-      the beast and the screams, it seems probable that it was not
-
-      immediately perceived. The flapping-to of the shutter would
-
-      naturally have been attributed to the [[Wind|wind]].
-
-
-
-      As the sailor looked in, the gigantic animal had seized Madame
-
-      L’Espanaye by the hair, (which was loose, as she had been combing

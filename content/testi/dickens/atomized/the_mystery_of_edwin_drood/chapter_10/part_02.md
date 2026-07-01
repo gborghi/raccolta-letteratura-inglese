@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 9 (part 2)"
+title: "The Mystery of Edwin Drood — Chapter 9 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_10/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_10/part_03">part 03 ›</a></div>
 </nav>
 
+
+It was reserved for Miss Twinkleton to tone down the public mind of the
+Nuns’ [[house|House]]. That lady, therefore, entering in a stately manner what
+plebeians might have called the school-room, but what, in the patrician
+language of the head of the Nuns’ [[house|House]], was euphuistically, not to say
+round-aboutedly, denominated “the apartment allotted to study,” and
+saying with a forensic air, “Ladies!” all [[Rose|rose]]. Mrs. Tisher at the same
+[[Time|time]] grouped herself behind her chief, as representing [[Queen]]
+Elizabeth’s first historical female friend at Tilbury fort. Miss
+Twinkleton then proceeded to remark that Rumour, Ladies, had been
+represented by the bard of Avon—needless were it to mention the
+immortal SHAKESPEARE, also called the Swan of his native [[River|river]], not
+improbably with some reference to the ancient superstition that that
+bird of graceful plumage (Miss Jennings will please stand upright) sang
+sweetly on the approach of [[Death|death]], for which we have no ornithological
+authority,—Rumour, Ladies, had been represented by that bard—hem!—
 
         “who drew
 The celebrated Jew,”
@@ -104,33 +120,3 @@ sure.”
 Here Mr. Grewgious, left by the [[Fire|fire]] with Rosa, said again: “My dear,
 how do you do? I am glad to see you, my dear.” And having waited for
 her to sit down, sat down himself.
-
-“My visits,” said Mr. Grewgious, “are, like those of the angels—not
-that I compare myself to an angel.”
-
-“No, sir,” said Rosa.
-
-“Not by any means,” assented Mr. Grewgious. “I merely refer to my
-visits, which are few and far between. The angels are, we know very
-[[Well|well]], up-stairs.”
-
-Miss Twinkleton looked round with a kind of stiff stare.
-
-“I refer, my dear,” said Mr. Grewgious, laying his hand on Rosa’s, as
-the possibility thrilled through his frame of his otherwise seeming to
-take the awful liberty of calling Miss Twinkleton my dear; “I refer to
-the other young ladies.”
-
-Miss Twinkleton resumed her writing.
-
-Mr. Grewgious, with a sense of not having managed his opening point
-quite as neatly as he might have desired, smoothed his head from back
-to front as if he had just dived, and were pressing the [[Water|water]] out—this
-smoothing action, however superfluous, was habitual with him—and took a
-pocket-book from his coat-pocket, and a stump of black-lead pencil from
-his waistcoat-pocket.
-
-“I made,” he said, turning the [[Leaves|leaves]]: “I made a guiding memorandum or
-so—as I usually do, for I have no conversational powers whatever—to
-which I will, with your permission, my dear, refer. ‘[[Well]] and happy.’
-Truly. You are [[Well|well]] and happy, my dear? You look so.”

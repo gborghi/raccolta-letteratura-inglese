@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 17 (part 3)"
+title: "Villette — Chapter 17 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/villette-(bronte)"
@@ -10,9 +10,30 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/works/villette-(bronte)">Villette</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_17/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_18/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_17/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_17/part_04">part 04 ›</a></div>
 </nav>
 
+
+“I consigned to you? But, indeed, I forget. It yet remains for me to
+learn how I fell into your hands.”
+
+“Why, under circumstances that puzzled me. I had been in attendance all
+day yesterday on a case of singularly interesting and critical
+character; the disease being rare, and its treatment doubtful: I saw a
+similar and still finer case in a hospital in [[Paris]]; but that will not
+interest you. At last a mitigation of the patient’s most urgent
+symptoms (acute [[Pain|pain]] is one of its accompaniments) liberated me, and I
+set out homeward. My shortest way lay through the Basse-Ville, and as
+the [[Night|night]] was excessively dark, wild, and wet, I took it. In riding
+past an old church belonging to a community of Béguines, I saw by a
+lamp burning over the porch or deep arch of the entrance, a priest
+lifting some object in his arms. The lamp was bright enough to reveal
+the priest’s features clearly, and I recognised him; he was a man I
+have often met by the sick beds of both rich and poor: and chiefly the
+latter. He is, I think, a good old man, far better than most of his
+class in this country; superior, indeed, in every way, better informed,
+as [[Well|well]] as more devoted to duty. Our eyes met; he called on me to stop:
+what he supported was a woman, fainting or dying. I alighted.
 
 “‘This person is one of your countrywomen,’ he said: ‘save her, if she
 is not dead.’
@@ -102,58 +123,3 @@ live, or he will try to [[convert]] me; but give him my best and truest
 thanks when you see him, and if ever I get rich I will send him money
 for his charities. See, Dr. John, your mother wakes; you ought to ring
 for tea.”
-
-Which he did; and, as Mrs. Bretton sat up—astonished and indignant at
-herself for the indulgence to which she had succumbed, and fully
-prepared to deny that she had slept at all—her son came gaily to the
-attack.
-
-“Hushaby, mamma! [[Sleep]] again. You look the picture of [[innocence]] in your
-slumbers.”
-
-“My slumbers, John Graham! What are you talking about? You know I never
-_do_ [[Sleep|sleep]] by day: it was the slightest doze possible.”
-
-“Exactly! a seraph’s gentle lapse—a fairy’s dream. Mamma, under such
-circumstances, you always remind me of [[Titania]].”
-
-“That is because you, yourself, are so like [[Bottom]].”
-
-“Miss Snowe—did you ever hear anything like mamma’s wit? She is a most
-sprightly woman of her size and age.”
-
-“Keep your compliments to yourself, sir, and do not neglect your own
-size: which seems to me a good deal on the increase. Lucy, has he not
-rather the air of an incipient John Bull? He used to be slender as an
-eel, and now I fancy in him a sort of heavy dragoon bent—a beef-eater
-tendency. Graham, take notice! If you grow fat I disown you.”
-
-“As if you could not sooner disown your own personality! I am
-indispensable to the old lady’s happiness, Lucy. She would pine away in
-green and yellow [[Melancholy|melancholy]] if she had not my six feet of iniquity to
-scold. It keeps her lively—it maintains the wholesome ferment of her
-spirits.”
-
-The two were now standing opposite to each other, one on each side the
-[[Fire|fire]]-place; their words were not very fond, but their mutual looks
-atoned for verbal deficiencies. At least, the best treasure of Mrs.
-Bretton’s life was certainly casketed in her son’s bosom; her dearest
-pulse throbbed in his heart. As to him, of course another [[Love|love]] shared
-his feelings with filial [[Love|love]], and, no [[Doubt|doubt]], as the new passion was
-the latest born, so he assigned it in his emotions Benjamin’s portion.
-Ginevra! Ginevra! Did Mrs. Bretton yet know at whose feet her own young
-idol had laid his homage? Would she approve that choice? I could not
-tell; but I could [[Well|well]] guess that if she knew Miss Fanshawe’s conduct
-towards Graham: her alternations between coldness and coaxing, and
-repulse and allurement; if she could at all suspect the [[Pain|pain]] with which
-she had tried him; if she could have seen, as I had seen, his fine
-spirits subdued and harassed, his inferior preferred before him, his
-subordinate made the instrument of his humiliation—_then_ Mrs. Bretton
-would have pronounced Ginevra imbecile, or perverted, or both. [[Well]]—I
-thought so too.
-
-That second evening passed as sweetly as the first—_more_ sweetly
-indeed: we enjoyed a smoother interchange of thought; old troubles were
-not reverted to, acquaintance was better cemented; I felt happier,
-easier, more at [[Home|home]]. That [[Night|night]]—instead of crying myself asleep—I went
-down to dreamland by a pathway bordered with pleasant thoughts.

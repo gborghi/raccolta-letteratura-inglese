@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 51 (part 2)"
+title: "The Tenant of Wildfell Hall — Chapter 51 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_51/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_51/part_03">part 03 ›</a></div>
 </nav>
 
+
+even in my hours of deepest despondency, always tenaciously clinging to
+
+the thought that one day she might be mine, or, if not that, at least
+
+that something of my [[Memory|memory]], some slight remembrance of our [[Friendship|friendship]]
 
 and our [[Love|love]], would be for ever cherished in her heart. I marched up to
 
@@ -199,23 +205,3 @@ within. I ran in among them, demanding, with breathless eagerness, had
 the ceremony long commenced? They only gaped and stared. In my
 
 desperation, I pushed past them, and was about to enter the churchyard
-
-gate, when a group of ragged urchins, that had been hanging like [[Bees|bees]]
-
-to the [[Window|window]], suddenly dropped off and made a rush for the porch,
-
-vociferating in the uncouth dialect of their country something which
-
-signified, “It’s over—they’re coming out!”
-
-
-
-If Eliza Millward had seen me then she might indeed have been
-
-delighted. I grasped the gate-post for support, and stood intently
-
-gazing towards the door to take my last look on my [[Soul|soul]]’s delight, my
-
-first on that detested mortal who had torn her from my heart, and
-
-doomed her, I was certain, to a life of misery and hollow, vain

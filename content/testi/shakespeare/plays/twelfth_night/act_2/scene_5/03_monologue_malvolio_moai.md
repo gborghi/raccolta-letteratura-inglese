@@ -1,5 +1,5 @@
 ---
-title: "[[Twelfth Night]] — Act II, Scene 5 — monologue ([[Malvolio|MALVOLIO]] ‘M.O.A.I.’) [3]"
+title: "Twelfth Night — Act II, Scene 5 — monologue (MALVOLIO ‘M.O.A.I.’) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/twelfth-night-(shakespeare)"

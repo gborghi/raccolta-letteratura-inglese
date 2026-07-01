@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 9 (part 3)"
+title: "Our Mutual Friend — Chapter 11 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,120 +10,125 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_33/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_34/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_33/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_33/part_04">part 04 ›</a></div>
 </nav>
 
 
-‘Yes, Betty, on my word, and you shall see it. If my [[Home|home]] was a better
-place for the dear boy, I’d take him to it; but indeed indeed it’s not.’
+‘Here’s a perfectly disinterested person, Lizzie dear,’ said the knowing
+Miss Wren, ‘come to talk with you, for your own sake and your brother’s.
+Think of that. I am sure there ought to be no third party present at
+anything so very kind and so very serious; and so, if you’ll remove the
+third party upstairs, my dear, the third party will retire.’
 
-‘You shall take him,’ returned Betty, fervently kissing the comforting
-hand, ‘where you will, my deary. I am not so hard, but that I believe
-your face and voice, and I will, as long as I can see and hear.’
+Lizzie took the hand which the dolls’ dressmaker held out to her for
+the purpose of being supported away, but only looked at her with an
+inquiring smile, and made no other movement.
 
-This victory gained, Rokesmith made haste to profit by it, for he saw
-how woefully [[Time|time]] had been lost. He despatched Sloppy to bring the
-carriage to the door; caused the [[Child|child]] to be carefully wrapped up; bade
-old Betty get her bonnet on; collected the toys, enabling the little
-fellow to comprehend that his treasures were to be transported with
-him; and had all things prepared so easily that they were ready for
-the carriage as soon as it appeared, and in a minute afterwards were
-on their way. Sloppy they left behind, relieving his overcharged breast
-with a paroxysm of mangling.
+‘The third party hobbles awfully, you know, when she’s left to herself;’
+said Miss Wren, ‘her back being so bad, and her legs so queer; so she
+can’t retire gracefully unless you help her, Lizzie.’
 
-At the Children’s Hospital, the gallant steed, the Noah’s ark, yellow
-bird, and the officer in the Guards, were made as welcome as their
-[[Child|child]]-owner. But the doctor said aside to Rokesmith, ‘This should have
-been days ago. Too late!’
+‘She can do no better than stay where she is,’ returned Lizzie,
+releasing the hand, and laying her own lightly on Miss Jenny’s curls.
+And then to Bradley: ‘From Charley, sir?’
 
-However, they were all carried up into a fresh airy room, and there
-Johnny came to himself, out of a [[Sleep|sleep]] or a swoon or whatever it was,
-to find himself lying in a little quiet bed, with a little platform over
-his breast, on which were already arranged, to give him heart and urge
-him to cheer up, the Noah’s ark, the noble steed, and the yellow bird;
-with the officer in the Guards doing duty over the whole, quite as much
-to the satisfaction of his country as if he had been upon Parade. And at
-the bed’s head was a coloured picture beautiful to see, representing as
-it were another Johnny seated on the knee of some Angel surely who loved
-little children. And, marvellous fact, to lie and stare at: Johnny had
-become one of a little family, all in little quiet beds (except two
-playing dominoes in little arm-chairs at a little table on the hearth):
-and on all the little beds were little platforms whereon were to be
-seen dolls’ houses, woolly [[dogs]] with mechanical barks in them not very
-dissimilar from the artificial voice pervading the bowels of the yellow
-bird, tin armies, Moorish tumblers, wooden tea things, and the riches of
-the earth.
+In an irresolute way, and stealing a clumsy look at her, Bradley [[Rose|rose]] to
+place a chair for her, and then returned to his own.
 
-As Johnny murmured something in his placid admiration, the ministering
-women at his bed’s head asked him what he said. It seemed that he wanted
-to know whether all these were brothers and sisters of his? So they told
-him yes. It seemed then, that he wanted to know whether God had brought
-them all together there? So they told him yes again. They made out then,
-that he wanted to know whether they would all get out of [[Pain|pain]]? So they
-answered yes to that question likewise, and made him understand that the
-reply included himself.
+‘Strictly speaking,’ said he, ‘I come from Charley, because I left him
+only a little while ago; but I am not commissioned by Charley. I come of
+my own spontaneous act.’
 
-Johnny’s powers of sustaining conversation were as yet so very
-imperfectly developed, even in a state of health, that in sickness they
-were little more than monosyllabic. But, he had to be washed and tended,
-and remedies were applied, and though those offices were far, far more
-skilfully and lightly done than ever anything had been done for him in
-his little life, so rough and short, they would have hurt and tired him
-but for an amazing circumstance which laid hold of his attention. This
-was no less than the appearance on his own little platform in pairs,
-of All Creation, on its way into his own particular ark: the elephant
-leading, and the fly, with a diffident sense of his size, politely
-bringing up the rear. A very little brother lying in the next bed with a
-broken leg, was so enchanted by this spectacle that his delight exalted
-its enthralling interest; and so came rest and [[Sleep|sleep]].
+With her elbows on her bench, and her chin upon her hands, Miss Jenny
+Wren sat looking at him with a watchful sidelong look. Lizzie, in her
+different way, sat looking at him too.
 
-‘I see you are not afraid to leave the dear [[Child|child]] here, Betty,’
-whispered Mrs Boffin.
+‘The fact is,’ began Bradley, with a mouth so dry that he had some
+difficulty in articulating his words: the consciousness of which
+rendered his manner still more ungainly and undecided; ‘the [[Truth|truth]] is,
+that Charley, having no [[Secrets|secrets]] from me (to the best of my belief), has
+confided the whole of this matter to me.’
 
-‘No, ma’am. Most willingly, most thankfully, with all my heart and
-[[Soul|soul]].’
+He came to a stop, and Lizzie asked: ‘what matter, sir?’
 
-So, they kissed him, and left him there, and old Betty was to come back
-early in the morning, and nobody but Rokesmith knew for certain how that
-the doctor had said, ‘This should have been days ago. Too late!’
+‘I thought,’ returned the schoolmaster, stealing another look at her,
+and seeming to try in vain to sustain it; for the look dropped as it
+lighted on her eyes, ‘that it might be so superfluous as to be almost
+impertinent, to enter upon a definition of it. My allusion was to this
+matter of your having put aside your brother’s plans for you, and
+given the preference to those of Mr—I believe the name is Mr Eugene
+Wrayburn.’
 
-But, Rokesmith knowing it, and knowing that his bearing it in mind would
-be acceptable thereafter to that good woman who had been the only light
-in the [[Childhood|childhood]] of desolate [[John Harmon]] dead and gone, resolved that
-late at [[Night|night]] he would go back to the bedside of [[John Harmon]]’s namesake,
-and see how it fared with him.
+He made this point of not being certain of the name, with another uneasy
+look at her, which dropped like the last.
 
-The family whom God had brought together were not all asleep, but were
-all quiet. From bed to bed, a light womanly tread and a pleasant fresh
-face passed in the [[Silence|silence]] of the [[Night|night]]. A little head would lift itself
-up into the softened light here and there, to be kissed as the face went
-by—for these little patients are very loving—and would then submit
-itself to be composed to rest again. The mite with the broken leg was
-restless, and moaned; but after a while turned his face towards Johnny’s
-bed, to fortify himself with a view of the ark, and fell asleep. Over
-most of the beds, the toys were yet grouped as the children had left
-them when they last laid themselves down, and, in their [[Innocent|innocent]]
-grotesqueness and incongruity, they might have stood for the children’s
-[[Dreams|dreams]].
+Nothing being said on the other side, he had to begin again, and began
+with new embarrassment.
 
-The doctor came in too, to see how it fared with Johnny. And he and
-Rokesmith stood together, looking down with compassion on him.
+‘Your brother’s plans were communicated to me when he first had them in
+his thoughts. In point of fact he spoke to me about them when I was
+last here—when we were walking back together, and when I—when the
+impression was fresh upon me of having seen his sister.’
 
-‘What is it, Johnny?’ Rokesmith was the questioner, and put an arm round
-the poor baby as he made a struggle.
+There might have been no meaning in it, but the little dressmaker here
+removed one of her supporting hands from her chin, and musingly turned
+the Honourable Mrs T. with her face to the company. That done, she fell
+into her former attitude.
 
-‘Him!’ said the little fellow. ‘Those!’
+‘I approved of his idea,’ said Bradley, with his uneasy look wandering
+to the doll, and unconsciously resting there longer than it had
+rested on Lizzie, ‘both because your brother ought naturally to be the
+originator of any such scheme, and because I hoped to be able to promote
+it. I should have had inexpressible pleasure, I should have taken
+inexpressible interest, in promoting it. Therefore I must acknowledge
+that when your brother was disappointed, I too was disappointed. I wish
+to avoid reservation or concealment, and I fully acknowledge that.’
 
-The doctor was quick to understand children, and, taking the [[Horse|horse]],
-the ark, the yellow bird, and the man in the Guards, from Johnny’s bed,
-softly placed them on that of his next neighbour, the mite with the
-broken leg.
+He appeared to have encouraged himself by having got so far. At all
+events he went on with much greater firmness and force of emphasis:
+though with a curious disposition to set his teeth, and with a curious
+tight-screwing movement of his right hand in the clenching palm of his
+left, like the action of one who was being physically hurt, and was
+unwilling to cry out.
 
-With a weary and yet a pleased smile, and with an action as if he
-stretched his little figure out to rest, the [[Child|child]] heaved his [[Body|body]] on
-the sustaining arm, and seeking Rokesmith’s face with his lips, said:
+‘I am a man of strong feelings, and I have strongly felt this
+disappointment. I do strongly feel it. I don’t show what I feel; some
+of us are obliged habitually to keep it down. To keep it down. But to
+return to your brother. He has taken the matter so much to heart that
+he has remonstrated (in my presence he remonstrated) with Mr Eugene
+Wrayburn, if that be the name. He did so, quite ineffectually. As any
+one not blinded to the real character of Mr—Mr [[Eugene Wrayburn]]—would
+readily suppose.’
 
-‘A kiss for the boofer lady.’
+He looked at Lizzie again, and held the look. And his face turned from
+burning red to white, and from white back to burning red, and so for the
+[[Time|time]] to lasting deadly white.
 
-Having now bequeathed all he had to dispose of, and arranged his affairs
-in this world, Johnny, thus speaking, left it.
+‘Finally, I resolved to come here [[Alone|alone]], and appeal to you. I resolved
+to come here [[Alone|alone]], and entreat you to retract the course you have
+chosen, and instead of confiding in a mere stranger—a person of most
+insolent behaviour to your brother and others—to prefer your brother
+and your brother’s friend.’
+
+[[Lizzie Hexam]] had changed colour when those changes came over him, and
+her face now expressed some anger, more dislike, and even a touch of
+[[Fear|fear]]. But she answered him very steadily.
+
+‘I cannot [[Doubt|doubt]], Mr Headstone, that your visit is [[Well|well]] meant. You have
+been so good a friend to Charley that I have no right to [[Doubt|doubt]] it. I
+have nothing to tell Charley, but that I accepted the help to which he
+so much objects before he made any plans for me; or certainly before I
+knew of any. It was considerately and delicately offered, and there were
+reasons that had weight with me which should be as dear to Charley as to
+me. I have no more to say to Charley on this subject.’
+
+His lips trembled and stood apart, as he followed this repudiation of
+himself; and limitation of her words to her brother.
+
+‘I should have told Charley, if he had come to me,’ she resumed, as
+though it were an after-thought, ‘that Jenny and I find our teacher very
+able and very patient, and that she takes great pains with us. So much
+so, that we have said to her we [[Hope|hope]] in a very little while to be able
+to go on by ourselves. Charley knows about teachers, and I should also
+have told him, for his satisfaction, that ours comes from an institution
+where teachers are regularly brought up.’

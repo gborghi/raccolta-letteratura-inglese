@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 11 (part 3)"
+title: "Shirley — Chapter 11 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,42 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_11/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_11/part_04">part 04 ›</a></div>
 </nav>
 
+
+anxious respecting the future. Is that what frets you?"
+
+
+
+"No, uncle; but I long for a change."
+
+
+
+He laughed. "There speaks the woman!" cried he, "the very woman! A
+
+change! a change! Always fantastical and whimsical! [[Well]], it's in her
+
+sex."
+
+
+
+"But it is not fantasy and whim, uncle."
+
+
+
+"What is it then?"
+
+
+
+"Necessity, I think. I feel weaker than formerly. I believe I should
+
+have more to do."
+
+
+
+"Admirable! She feels weak, and _therefore_ she should be set to hard
+
+labour--'clair comme le jour,' as Moore--confound Moore! You shall go to
+
+Cliff Bridge; and there are two guineas to buy a new frock. Come, Cary,
 
 never [[Fear|fear]]. We'll find balm in Gilead."
 
@@ -86,7 +122,7 @@ serenity. The blossom which the March [[Wind|wind]] nips, but fails to sweep
 
 away, may survive to hang a withered apple on the tree late into [[Autumn|autumn]]:
 
-having braved the last frosts of [[spring]], it may also brave the first of
+having braved the last frosts of [[Spring|spring]], it may also brave the first of
 
 [[Winter|winter]].
 
@@ -227,43 +263,3 @@ were going.
 
 
 "She is. She has been there a week. I met her at a party last
-
-[[Night|night]]--that party to which you would not go. I was pleased with her. I
-
-choose that you shall make her acquaintance. It will do you good."
-
-
-
-"She is now come of age, I suppose?"
-
-
-
-"She is come of age, and will reside for a [[Time|time]] on her property. I
-
-lectured her on the subject; I showed her her duty. She is not
-
-intractable. She is rather a fine girl; she will teach you what it is to
-
-have a sprightly spirit. Nothing lackadaisical about _her_."
-
-
-
-"I don't think she will want to see me, or to have me introduced to her.
-
-What good can I do her? How can I amuse her?"
-
-
-
-"Pshaw! Put your bonnet on."
-
-
-
-"Is she proud, uncle?"
-
-
-
-"Don't know. You hardly imagine she would show her [[Pride|pride]] to me, I
-
-suppose? A chit like that would scarcely presume to give herself airs
-
-with the rector of her parish, however rich she might be."

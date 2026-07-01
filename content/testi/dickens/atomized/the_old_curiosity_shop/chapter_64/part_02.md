@@ -14,6 +14,10 @@ tags:
 </nav>
 
 
+‘[[Marchioness]],’ said Mr Swiveller, thoughtfully, ‘be pleased to draw
+nearer.  First of all, will you have the goodness to inform me where I
+shall find my voice; and secondly, what has become of my flesh?’
+
 The [[Marchioness]] only shook her head mournfully, and cried again;
 whereupon Mr Swiveller (being very weak) felt his own eyes affected
 likewise.
@@ -147,9 +151,3 @@ quiet.
 there was to be no noise nor nothing.  Now, take a rest, and then we’ll
 talk again.  I’ll sit by you, you know.  If you shut your eyes, perhaps
 you’ll go to [[Sleep|sleep]].  You’ll be all the better for it, if you do.’
-
-The [[Marchioness]], in saying these words, brought a little table to the
-bedside, took her seat at it, and began to work away at the concoction
-of some cooling drink, with the address of a score of chemists.
-[[Richard]] Swiveller being indeed fatigued, fell into a slumber, and
-waking in about half an hour, inquired what [[Time|time]] it was.

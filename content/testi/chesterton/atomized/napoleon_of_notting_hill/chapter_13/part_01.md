@@ -1,5 +1,5 @@
 ---
-title: "Napoleon of Notting [[Hill]] — Chapter 1 (part 1)"
+title: "Napoleon of Notting Hill — Chapter 1 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/napoleon-of-notting-hill-(chesterton)"
@@ -10,148 +10,128 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_11/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_13/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_12/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_13/part_02">part 02 ›</a></div>
 </nav>
 
 
+BOOK V
 CHAPTER I
 
-THE BATTLE OF THE LAMPS
+THE EMPIRE OF NOTTING [[Hill|HILL]]
 
-MR.  BUCK, who, though retired, frequently went down to his
-big drapery stores in Kensington High Street, was locking up
-those premises, being the last to leave.  It was a wonderful
-evening of green and gold, but that did not trouble him very much.
-If you had pointed it out, he would have agreed seriously,
-for the rich always [[Desire|desire]] to be artistic.
+ON the evening of the third of October, twenty years after
+the great victory of Notting [[Hill]], which gave it the dominion
+of [[London]], [[King]] Auberon, came, as of old, out of Kensington Place.
 
-He stepped out into the cool air, buttoning up his light coat,
-and blowing great clouds from his cigar, when a figure dashed up to him
-in another yellow overcoat, but unbuttoned and flying behind him.
+He had changed little, save for a streak or two of grey in his hair,
+for his face had always been old, and his step slow, and,
+as it were, decrepit.
 
-"Hullo, Barker!" said the draper.  "Any of our [[Summer|summer]] articles?
-You're too late.  Factory Acts, Barker.  Humanity and progress, my boy."
+If he looked old, it was not because of anything physical or mental.
+It was because he still wore, with a quaint conservatism,
+the frock-coat and high hat of the days before the great war.
+"I have survived the [[deluge|Deluge]]," he said.  "I am a pyramid, and must
+behave as such."
 
-"Oh, don't chatter," cried Barker, stamping.  "We've been beaten."
+As he passed up the street the Kensingtonians in their picturesque
+blue smocks, saluted him as a [[King]], and then looked after him
+as a curiosity.  It seemed odd to them that men had once worn
+so elvish an attire.
 
-"Beaten...by what?" asked Buck, mystified.
+The [[King]], cultivating the walk attributed to the oldest inhabitant
+("Gaffer Auberon" his friends were now confidentially desired
+to call him), went toddling northward.  He paused, with reminiscence
+in his eye, at the Southern Gate of Notting [[Hill]], one of those nine
+great gates of bronze and steel, wrought with reliefs of the old battles,
+by the hand of Chiffy himself.
 
-"By Wayne."
+"Ah!" he said, shaking his head and assuming an unnecessary air of age,
+and a provincialism of accent, "Ah!  I mind when there warn't none
+of this here."
 
-Buck looked at Barker's fierce white face for the first [[Time|time]],
-as it gleamed in the lamplight.
+He passed through the Ossington Gate, surmounted by a great [[Lion|lion]],
+wrought in red copper on yellow brass, with the motto, "Nothing Ill."
+The guard in red and gold saluted him with his halberd.
 
-"Come and have a drink," he said.
+It was about sunset, and the lamps were being lit.
+Auberon paused to look at them, for they were Chiffy's finest work,
+and his artistic eye never failed to feast on them.  In [[Memory|memory]]
+of the Great Battle of the Lamps, each great iron lamp was surmounted
+by a veiled figure, [[Sword|sword]] in hand, holding over the flame an iron
+hood or extinguisher, as if ready to let it fall if the armies
+of the South and West should again show their flags in the [[City|city]].
+Thus no [[Child|child]] in Notting [[Hill]] could play about the streets without
+the very lamp-posts reminding him of the salvation of his country
+in the dreadful year.
 
-They adjourned to a cushioned and glaring buffet, and Buck established
-himself slowly and lazily in a seat, and pulled out his cigar-case.
+"Old Wayne was right in a way," commented the [[King]].  "The [[Sword|sword]] does
+make things beautiful.  It has made the whole world romantic by now.
+And to think people once thought me a buffoon for suggesting a romantic
+Notting [[Hill]].  Deary me, deary me (I think that is the expression).
+It seems like a previous existence."
 
-"Have a smoke," he said.
+Turning a corner he found himself in Pump Street, opposite the four
+shops which [[Adam Wayne]] had studied twenty years before.
+He entered idly the shop of Mr. Mead, the [[grocer]].  Mr. Mead was
+somewhat older, like the rest of the world, and his red beard,
+which he now wore with a moustache, and long and full, was partly
+blanched and discoloured.  He was dressed in a long and richly
+embroidered robe of blue, brown, and crimson, interwoven with an Eastern
+complexity of pattern, and covered with obscure symbols and pictures,
+representing his wares passing from hand to hand and from nation
+to nation.  Round his neck was the chain with the Blue Argosy
+cut in turquoise, which he wore as Grand Master of the Grocers.
+The whole shop had the sombre and sumptuous look of its owner.
+The wares were displayed as prominently as in the old days, but they
+were now blended and arranged with a sense of tint and grouping,
+too often neglected by the dim grocers of those forgotten days.
+The wares were shown plainly, but shown not so much as an old [[grocer]]
+would have shown his stock, but rather as an educated virtuoso would have
+shown his treasures.  The tea was stored in great blue and green vases,
+inscribed with the nine indispensable sayings of the wise men of China.
+Other vases of a confused orange and purple, less rigid and dominant,
+more humble and dreamy, stored symbolically the tea of India.
+A row of caskets of a simple silvery metal contained tinned meats.
+Each was wrought with some rude but rhythmic form, as a shell, a horn,
+a fish, or an apple, to indicate what material had been canned in it.
+"Your Majesty," said Mr. Mead, sweeping an Oriental reverence.
+"This is an [[Honour|honour]] to me, but yet more an [[Honour|honour]] to the [[City|city]]."
 
-Barker was still standing, and on the fret, but after a moment's
-hesitation, he sat down, as if he might [[spring]] up again the next minute.
-They ordered drinks in [[Silence|silence]].
+Auberon took off his hat.
 
-"How did it happen?" asked Buck, turning his big bold eyes on him.
+"Mr. Mead," he said, "Notting [[Hill]], whether in giving or taking,
+can deal in nothing but [[Honour|honour]].  Do you happen to sell liquorice?"
 
-"How the devil do I know?" cried Barker.  "It happened
-like...like [[A Dream|a dream]].  How can two hundred men beat six hundred?
-How can they?"
+"Liquorice, sire," said Mr. Mead, "is not the least important
+of our benefits out of the dark heart of Arabia."
 
-"[[Well]]," said Buck, coolly.  "How did they?  You ought to know."
+And going reverently towards a green and silver canister, made in
+the form of an Arabian mosque, he proceeded to serve his customer.
 
-"I don't know.  I can't describe," said the other, drumming on the table.
-"It seemed like this.  We were six hundred and marched with those
-damned poleaxes of Auberon's...the only weapons we've got.
-We marched two abreast.  We went up to Holland Walk, between the high
-palings which seemed to me to go straight as an arrow for Pump Street.
-I was near the tail of the line and it was a long one.
-When the end of it was still between the high palings,
-the head of the line was already crossing Holland Park Avenue.
-Then the head plunged into the network of narrow streets on the
-other side, and the tail and myself came out on the great crossing.
-When we also had reached northern side and turned up a small
-street that points, crookedly as it were, towards Pump Street,
-the whole thing felt different.  The street dodged and bent
-so much that the head of our line seemed lost altogether:
-it might as [[Well|well]] have been in North [[America]].  And all this [[Time|time]] we
-hadn't seen a [[Soul|soul]]."
+"I was just thinking, Mr. Mead," said the [[King]] reflectively, "I don't
+know why I should think about it just now, but I was just thinking
+of twenty years ago.  Do you remember the times before the war?"
 
-Buck, who was idly dabbing the ash of his cigar on the ash-tray,
-began to move it deliberately over the table, making feathery
-grey lines, a kind of map.
+The [[grocer]], having wrapped up the liquorice sticks in a piece of paper
+(inscribed with some appropriate sentiment), lifted his large grey
+eyes dreamily, and looked at the darkening sky outside.
 
-"But though the little streets were all deserted (which got a trifle
-on my nerves), as we got deeper and deeper into them, a thing
-began to happen that I couldn't understand.  Sometimes a long way
-ahead...three turns or corners ahead, as it were...there broke suddenly
-a sort of noise, clattering, and confused cries, and then stopped.
-Then, when it happened, something, I can't describe it...a kind of shake
-or stagger went down the line, as if the line were a live thing,
-whose head had been struck, or had been an electric cord.
-None of us knew why we were moving, but we moved and jostled.
-Then we recovered, and went on through the little dirty streets,
-round corners, and up twisted ways.  The little crooked streets
-began to give me a feeling I can't explain...as if it were [[A Dream|a dream]].
-I felt as if things had lost their reason, and we should never
-get out of the maze.  Odd to hear me talk like that, isn't it?
-The streets were quite [[Well|well]]-known streets, all down on the map.
-But the fact remains.  I wasn't afraid of something happening.
-I was afraid of nothing ever happening...nothing ever happening
-for all God's [[Eternity|eternity]]."
+"Oh yes, your Majesty," he said.  "I remember these streets before
+the Lord Provost began to rule us.  I can't remember how we felt
+very [[Well|well]].  All the great [[songs]] and the fighting change one so;
+and I don't think we can really estimate all we owe to the Provost;
+but I can remember his coming into this very shop twenty-two years ago,
+and I remember the things he said.  The singular thing is that as
+far as I remember I thought the things he said odd at that [[Time|time]].
+Now it's the things that I said, as far as I can recall them,
+that seem to me odd...as odd as a madman's antics."
 
-He drained his glass and called for more whisky.  He drank it
-and went on.
+"Ah!" said the [[King]]; and looked at him with an unfathomable quietness.
 
-"And then something did happen.  Buck, it's the solemn [[Truth|truth]],
-that nothing has ever happened to you in your life.  Nothing had
-ever happened to me in my life."
-
-"Nothing ever happened!" said Buck, staring.  "What do you mean?"
-
-"Nothing has ever happened," repeated Barker, with a
-morbid obstinacy.  "You don't know what a thing happening means?
-You sit in your office expecting customers, and customers come;
-you walk in the street expecting friends, and friends meet you;
-you want a drink and get it; you feel inclined for a bet and make it.
-You expect either to win or lose, and you do either one or the other.
-But things happening!" and he shuddered ungovernably.
-
-"Go on," said Buck, shortly.  "Get on."
-
-"As we walked wearily round the corners, something happened.
-When something happens, it happens first, and you see it afterwards.
-It happens of itself, and you have nothing to do with it.  It proves
-a dreadful thing...that there are other things besides one's [[Self|self]].
-I can only put it in this way.  We went round one turning, two turnings,
-three turnings, four turnings, five.  Then I lifted myself slowly
-up from the gutter where I had been shot half senseless, and was
-beaten down again by living men crashing on top of me, and the world
-was full of roaring, and big men [[rolling]] about like ninepins."
-
-Buck looked at his map with knitted brows.
-
-"Was that Portobello [[Road]]?" he asked.
-
-"Yes," said Barker.  "Yes; Portobello [[Road]]...I saw it afterwards;
-but, my God...what a place it was!  Buck, have you ever stood
-and let a six foot of a man lash and lash at your head with six feet
-of pole with six pounds of steel at the end?  Because, when you
-have had that experience, as Walt Whitman says, 'you re-examine
-philosophies and religions.'  "
-
-"I have no [[Doubt|doubt]]," said Buck.  "If that was Portobello [[Road]],
-don't you see what happened?"
-
-"I know what happened exceedingly [[Well|well]].  I was knocked down four times;
-an experience which, as I say, has an effect on the mental attitude.
-And another thing happened, too.  I knocked down two men.
-After the fourth fall (there was not much bloodshed...more brutal
-rushing and throwing...for nobody could use their weapons),
-after the fourth fall, I say, I got up like a devil,
-and I tore a poleaxe out of a man's hand and struck where I
-saw the scarlet of Wayne's fellows, struck again and again.
-Two of them went over, bleeding oh the stones, thank God...and I
-laughed and found myself sprawling in the gutter again, and got
-up again, and struck again, and broke my halberd to pieces.
-I hurt a man's head, though."
+"I thought nothing of being a [[grocer]] then," he said.  "Isn't that odd
+enough for anybody?  I thought nothing of all the wonderful places
+that my goods came from, and wonderful ways that they are made.
+I did not know that I was for all practical purposes a [[King|king]] with
+slaves spearing fishes near the secret-pool, and gathering fruits
+in the islands under the world.  My mind was a blank on the thing.
+I was as mad as a hatter."

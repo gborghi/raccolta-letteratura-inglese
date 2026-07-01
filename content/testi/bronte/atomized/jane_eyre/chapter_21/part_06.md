@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 21 (part 6)"
+title: "Jane Eyre — Chapter 21 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -14,6 +14,32 @@ tags:
 </nav>
 
 
+“Is that a portrait of some one you know?” asked Eliza, who had
+approached me unnoticed. I responded that it was merely a fancy head,
+and hurried it beneath the other sheets. Of course, I lied: it was, in
+fact, a very faithful representation of Mr. Rochester. But what was
+that to her, or to any one but myself? Georgiana also advanced to look.
+The other drawings pleased her much, but she called that “an ugly man.”
+They both seemed surprised at my skill. I offered to [[Sketch|sketch]] their
+portraits; and each, in turn, sat for a pencil outline. Then Georgiana
+produced her album. I promised to contribute a [[Water|water]]-colour drawing:
+this put her at once into good [[Humour|humour]]. She proposed a walk in the
+grounds. Before we had been out two hours, we were deep in a
+confidential conversation: she had favoured me with a description of
+the brilliant [[Winter|winter]] she had spent in [[London]] two [[Seasons|seasons]] ago—of the
+admiration she had there excited—the attention she had received; and I
+even got hints of the titled conquest she had made. In the course of
+the afternoon and evening these hints were enlarged on: various soft
+conversations were reported, and sentimental scenes represented; and,
+in short, a volume of a [[Novel|novel]] of fashionable life was that day
+improvised by her for my benefit. The communications were renewed from
+day to day: they always ran on the same theme—herself, her loves, and
+woes. It was strange she never once adverted either to her mother’s
+illness, or her brother’s [[Death|death]], or the present gloomy state of the
+family prospects. Her mind seemed wholly taken up with reminiscences of
+past gaiety, and aspirations after dissipations to come. She passed
+about five minutes each day in her mother’s sick-room, and no more.
+
 Eliza still spoke little: she had evidently no [[Time|time]] to talk. I never
 saw a busier person than she seemed to be; yet it was difficult to say
 what she did: or rather, to discover any result of her diligence. She
@@ -21,7 +47,7 @@ had an alarm to call her up early. I know not how she occupied herself
 before breakfast, but after that meal she divided her [[Time|time]] into regular
 portions, and each hour had its allotted task. Three times a day she
 studied a little book, which I found, on inspection, was a Common
-[[Prayer]] Book. I asked her once what was the great attraction of that
+[[prayer|Prayer]] Book. I asked her once what was the great attraction of that
 volume, and she said, “the Rubric.” Three hours she gave to stitching,
 with gold thread, the border of a square crimson cloth, almost large
 enough for a carpet. In answer to my inquiries after the use of this
@@ -93,22 +119,3 @@ down by even the feeblest claim: I can tell you this—if the whole human
 race, ourselves excepted, were swept away, and we two stood [[Alone|alone]] on
 the earth, I would leave you in the old world, and betake myself to the
 new.”
-
-She closed her lips.
-
-“You might have spared yourself the trouble of delivering that tirade,”
-answered Georgiana. “Everybody knows you are the most selfish,
-heartless creature in existence: and _I_ know your spiteful hatred
-towards me: I have had a specimen of it before in the trick you played
-me about Lord Edwin Vere: you could not bear me to be raised above you,
-to have a title, to be received into circles where you dare not show
-your face, and so you acted the spy and informer, and ruined my
-prospects for ever.” Georgiana took out her handkerchief and blew her
-nose for an hour afterwards; Eliza sat cold, impassable, and
-assiduously industrious.
-
-True, generous feeling is made small account of by some, but here were
-two natures rendered, the one intolerably acrid, the other despicably
-savourless for the want of it. Feeling without judgment is a washy
-draught indeed; but judgment untempered by feeling is too bitter and
-husky a morsel for human deglutition.

@@ -140,9 +140,3 @@ tried to track the way she had gone, but her small footstep left no
 print upon the dewy ground, to guide me.  Who is that?  Shut the door.
 Quick!--Have we not enough to do to drive away that marble cold, and
 keep her warm!’
-
-The door was indeed opened, for the entrance of Mr Garland and his
-friend, accompanied by two other persons.  These were the schoolmaster,
-and the bachelor.  The former held a light in his hand.  He had, it
-seemed, but gone to his own cottage to replenish the exhausted lamp, at
-the moment when Kit came up and found the old man [[Alone|alone]].

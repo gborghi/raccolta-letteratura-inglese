@@ -1,5 +1,5 @@
 ---
-title: "The [[Comedy]] of Errors — Act III, Scene 2"
+title: "The Comedy of Errors — Act III, Scene 2"
 author: "Shakespeare"
 unitType: scene
 parentWork: "works/the-comedy-of-errors-(shakespeare)"

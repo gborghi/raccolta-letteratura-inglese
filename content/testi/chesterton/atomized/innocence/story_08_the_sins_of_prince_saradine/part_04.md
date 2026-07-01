@@ -1,5 +1,5 @@
 ---
-title: "[[innocence]] — The Sins of Prince Saradine (part 4)"
+title: "innocence — The Sins of Prince Saradine (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -13,6 +13,27 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_08_the_sins_of_prince_saradine/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_08_the_sins_of_prince_saradine/part_05">part 05 ›</a></div>
 </nav>
 
+
+Indeed, with all his dignity of a man of the world,
+Prince Saradine radiated to such sensitive observers as the priest,
+a certain atmosphere of the restless and even the unreliable.
+His face was fastidious, but his eye was wild; he had little
+nervous tricks, like a man shaken by drink or drugs, and he neither had,
+nor professed to have, his hand on the helm of household affairs.
+All these were left to the two old servants, especially to
+the butler, who was plainly the central pillar of the [[house]].
+Mr. Paul, indeed, was not so much a butler as a sort of
+steward or, even, chamberlain; he dined privately, but with almost
+as much pomp as his master; he was feared by all the servants;
+and he consulted with the prince decorously, but somewhat unbendingly--
+rather as if he were the prince's solicitor.  The sombre housekeeper
+was a mere [[Shadow|shadow]] in comparison; indeed, she seemed to efface
+herself and wait only on the butler, and Brown heard no more
+of those volcanic whispers which had half told him of the younger
+brother who blackmailed the elder.  Whether the prince was really
+being thus bled by the absent captain, he could not be certain,
+but there was something insecure and secretive about Saradine
+that made the tale by no means incredible.
 
 When they went once more into the long hall with the windows and the mirrors,
 yellow evening was dropping over the waters and the willowy banks;
@@ -110,29 +131,3 @@ The prince, whatever he was, was evidently not a coward; he sprang
 at his enemy's throat and almost bore him backwards to the grass.
 But his enemy extricated himself with a singularly inappropriate
 air of hurried politeness.
-
-"That is all right," he said, panting and in halting English.
-"I have insulted.  I will give satisfaction.  Marco, open the case."
-
-The man beside him with the earrings and the big black case proceeded
-to unlock it.  He took out of it two long Italian rapiers, with splendid
-steel hilts and blades, which he planted point downwards in the lawn.
-The strange young man standing facing the entrance with his yellow
-and vindictive face, the two swords standing up in the turf like two
-crosses in a cemetery, and the line of the ranked towers behind,
-gave it all an odd appearance of being some barbaric [[Court|court]] of justice.
-But everything else was unchanged, so sudden had been the interruption.
-The sunset gold still glowed on the lawn, and the bittern still boomed
-as announcing some small but dreadful destiny.
-
-"Prince Saradine," said the man called Antonelli,
-"when I was an infant in the cradle you killed my father
-and stole my mother; my father was the more fortunate.
-You did not kill him fairly, as I am going to kill you.
-You and my wicked mother took him driving to a lonely pass
-in Sicily, flung him down a cliff, and went on your way.
-I could imitate you if I chose, but imitating you is too vile.
-I have followed you all over the world, and you have always
-fled from me.  But this is the end of the world--and of you.
-I have you now, and I give you the chance you never gave my father.
-Choose one of those swords."

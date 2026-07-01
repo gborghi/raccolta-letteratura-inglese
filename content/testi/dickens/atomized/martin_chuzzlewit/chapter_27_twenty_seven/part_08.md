@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 27: TWENTY SEVEN (part 8)"
+title: "Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 8)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_27_twenty_seven/part_07">‹ part 07</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_28_twenty_eight/part_01">part 01 ›</a></div>
 </nav>
 
+
+Jonas enjoyed this joke very much indeed. It was quite in his peculiar
+vein of [[Humour|humour]].
+
+‘Then,’ said Tigg Montague, ‘we grant annuities on the very lowest and
+most advantageous terms known in the money market; and the old ladies
+and gentlemen down in the country buy ‘em. Ha, ha, ha! And we pay ‘em
+too--perhaps. Ha, ha, ha!’
+
+‘But there’s responsibility in that,’ said Jonas, looking doubtful.
 
 ‘I take it all myself,’ said Tigg Montague. ‘Here I am responsible for
 everything. The only responsible person in the establishment! Ha,

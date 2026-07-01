@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 8 (part 7)"
+title: "Bleak House — Chapter 8 (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_08/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_09/part_01">part 01 ›</a></div>
 </nav>
 
+
+Mrs. Pardiggle accordingly [[Rose|rose]] and made a little vortex in the
+confined room from which the pipe itself very narrowly escaped.
+Taking one of her young family in each hand, and telling the others
+to follow closely, and expressing her [[Hope|hope]] that the brickmaker and
+all his [[house]] would be improved when she saw them next, she then
+proceeded to another cottage. I [[Hope|hope]] it is not unkind in me to say
+that she certainly did make, in this as in everything else, a show
+that was not conciliatory of doing [[Charity|charity]] by wholesale and of
+dealing in it to a large extent.
 
 She supposed that we were following her, but as soon as the space was
 left clear, we approached the woman sitting by the [[Fire|fire]] to ask if the

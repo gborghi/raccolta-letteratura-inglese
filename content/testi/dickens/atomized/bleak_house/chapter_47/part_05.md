@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 47 (part 5)"
+title: "Bleak House — Chapter 47 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,22 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_47/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_48/part_01">part 01 ›</a></div>
 </nav>
 
+
+The stationer softly lays down another half-[[Crown|crown]] and asks him what
+it is that he is sorry for having done.
+
+“Mr. Sangsby,” says Jo, “I went and giv a illness to the lady as wos
+and yit as warn’t the t’other lady, and none of ’em never says
+nothink to me for having done it, on accounts of their being ser good
+and my having been s’unfortnet. The lady come herself and see me
+yesday, and she ses, ‘Ah, Jo!’ she ses. ‘We thought we’d lost you,
+Jo!’ she ses. And she sits down a-smilin so quiet, and don’t pass a
+word nor yit a look upon me for having done it, she don’t, and I
+turns agin the wall, I doos, Mr. Sangsby. And Mr. Jarnders, I see him
+a-forced to turn away his own [[Self|self]]. And Mr. Woodcot, he come fur to
+giv me somethink fur to ease me, wot he’s allus a-doin’ on day and
+[[Night|night]], and wen he come a-bending over me and a-speakin up so bold, I
+see his [[Tears|tears]] a-fallin, Mr. Sangsby.”
 
 The softened stationer deposits another half-[[Crown|crown]] on the table.
 Nothing less than a repetition of that infallible remedy will relieve
@@ -92,11 +108,11 @@ you, Mr. Woodcot?”
 
 After watching him closely a little while, Allan puts his mouth very
 near his ear and says to him in a low, distinct voice, “Jo! Did you
-ever know a [[Prayer|prayer]]?”
+ever know a [[prayer]]?”
 
 “Never knowd nothink, sir.”
 
-“Not so much as one short [[Prayer|prayer]]?”
+“Not so much as one short [[prayer]]?”
 
 “No, sir. Nothink at all. Mr. Chadbands he wos a-prayin wunst at Mr.
 Sangsby’s and I heerd him, but he sounded as if he wos a-speakin’ to

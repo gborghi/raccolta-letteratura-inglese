@@ -37,8 +37,6 @@ they were all the same person.
 
 G. K. C.
 
-
-
 "What We All Mean"
 
 February 16, 1901, The Speaker

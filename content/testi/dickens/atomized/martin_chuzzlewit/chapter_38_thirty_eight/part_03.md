@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 38: THIRTY EIGHT (part 3)"
+title: "Martin Chuzzlewit — Chapter 38: THIRTY EIGHT (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_38_thirty_eight/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_38_thirty_eight/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘A most invaluable constitution,’ Tigg retorted. ‘A great gift for a
+gentleman employed as you are, Mr Nadgett. Much better than discretion;
+though you possess that quality also in an eminent degree. I think I
+heard a [[Double|double]] knock. Will you put your head out of [[Window|window]], and tell me
+whether there is anybody at the door?’
 
 Mr Nadgett softly raised the sash, and peered out from the very corner,
 as a man might who was looking down into a street from whence a brisk
@@ -150,8 +156,3 @@ take it into your honourable head to go abroad with the bank, I don’t
 see much to prevent you. [[Well]]! That won’t do. I’ve had some very good
 dinners here, but they’d come too dear on such terms; and therefore,
 that won’t do.’
-
-‘I am unfortunate to find you in this [[Humour|humour]],’ said Tigg, with a
-remarkable kind of smile; ‘for I was going to propose to you--for your
-own advantage; solely for your own advantage--that you should venture a
-little more with us.’

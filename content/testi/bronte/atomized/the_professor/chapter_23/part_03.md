@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 22 (part 3)"
+title: "The Professor — Chapter 22 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -14,9 +14,13 @@ tags:
 </nav>
 
 
+after you--neither man nor woman; and if I mention your name in company,
+
+the men look as if I had spoken of Prester John; and the women sneer
+
+covertly. Our X---- belles must have disliked you. How did you excite
+
 their displeasure?”
-
-
 
 “I don’t know. I seldom spoke to them--they were nothing to me. I
 
@@ -31,8 +35,6 @@ countenances. When I caught snatches of what they said, I could never
 make much of it; and the play of their lips and eyes did not help me at
 
 all.”
-
-
 
 “That was your fault, not theirs. There are sensible, as [[Well|well]] as
 
@@ -54,11 +56,7 @@ you think, ever to communicate pleasure or excite interest? No; and if
 
 you are generally unpopular, it is because you deserve to be so.”
 
-
-
 “Content!” I ejaculated.
-
-
 
 “No, you are not content; you see [[Beauty|beauty]] always turning its back on
 
@@ -73,8 +71,6 @@ tantalize in you the lust of the eye; but they are out of reach: you
 have not the address to fetch a ladder, and you’ll go away calling them
 
 sour.”
-
-
 
 Cutting as these words might have been under some circumstances, they
 
@@ -140,8 +136,6 @@ the beginning of life yet; and since happily I was not quite without
 
 sense, every false step I made would be a good lesson.
 
-
-
 Just then I turned my face a little to the light; the approach of
 
 twilight, and my position in the [[Window|window]]-seat, had, for the last ten
@@ -149,8 +143,6 @@ twilight, and my position in the [[Window|window]]-seat, had, for the last ten
 minutes, prevented him from studying my countenance; as I moved,
 
 however, he caught an expression which he thus interpreted:--
-
-
 
 “Confound it! How doggedly [[Self|self]]-approving the lad looks! I thought he
 
@@ -161,8 +153,6 @@ to say, ‘Let the world wag as it will, I’ve the philosopher’s stone
 in my waist-coat pocket, and the elixir of life in my cupboard; I’m
 
 independent of both Fate and Fortune.’”
-
-
 
 “Hunsden--you spoke of grapes; I was thinking of a fruit I like better
 
@@ -178,11 +168,7 @@ use your offering me the draught of bitterness, or threatening me with
 
 exhausting.”
 
-
-
 “For how long?”
-
-
 
 “Till the next opportunity for effort; and as the prize of [[success]] will
 
@@ -190,23 +176,17 @@ be a treasure after my own heart, I’ll bring a bull’s strength to the
 
 struggle.”
 
-
-
 “Bad luck crushes bulls as easily as bullaces; and, I believe, the fury
 
 [[dogs]] you: you were born with a wooden spoon in your mouth, depend on
 
 it.”
 
-
-
 “I believe you; and I mean to make my wooden spoon do the work of some
 
 people’s silver ladles: grasped firmly, and handled nimbly, even a
 
 wooden spoon will shovel up broth.”
-
-
 
 Hunsden [[Rose|rose]]: “I see,” said he; “I suppose you’re one of those who
 
@@ -215,27 +195,3 @@ develop best unwatched, and act best unaided--work your own way. Now,
 I’ll go.” And, without another word, he was going; at the door he
 
 turned:--
-
-
-
-“Crimsworth Hall is sold,” said he.
-
-
-
-“Sold!” was my echo.
-
-
-
-“Yes; you know, of course, that your brother failed three months ago?”
-
-
-
-“What! [[Edward Crimsworth]]?”
-
-
-
-“Precisely; and his wife went [[Home|home]] to her father’s; when affairs went
-
-awry, his temper sympathized with them; he used her ill; I told you he
-
-would be a [[Tyrant|tyrant]] to her some day; as to him--”

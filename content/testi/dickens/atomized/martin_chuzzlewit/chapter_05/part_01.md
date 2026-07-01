@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 5 (part 1)"
+title: "Martin Chuzzlewit — Chapter 5 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/martin-chuzzlewit-(dickens)">Martin Chuzzlewit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_04/part_07">‹ part 07</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_05/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_04/part_08">‹ part 08</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_05/part_02">part 02 ›</a></div>
 </nav>
 
 
@@ -108,13 +108,3 @@ clattered by, and gave him back his greeting: not stinted either, but
 sevenfold, good measure. They were all merry. They all laughed. And some
 of the wickedest among them even kissed their hands as Tom looked back.
 For who minded poor Mr Pinch? There was no harm in HIM.
-
-And now the morning grew so fair, and all things were so wide awake and
-gay, that the sun seeming to say--Tom had no [[Doubt|doubt]] he said--‘I can’t
-stand it any longer; I must have a look,’ streamed out in radiant
-majesty. The mist, too shy and gentle for such lusty company, fled off,
-quite scared, before it; and as it swept away, the hills and mounds and
-distant pasture lands, teeming with placid sheep and noisy crows, came
-out as bright as though they were unrolled bran new for the occasion. In
-compliment to which discovery, the brook stood still no longer, but ran
-briskly off to bear the tidings to the [[Water|water]]-mill, three miles away.

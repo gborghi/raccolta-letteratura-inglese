@@ -1,5 +1,5 @@
 ---
-title: "[[Persuasion]] — Chapter 13"
+title: "Persuasion — Chapter 13"
 author: "Austen"
 unitType: chapter
 parentWork: "works/persuasion-(austen)"
@@ -218,7 +218,7 @@ and Anne, in receiving her compliments on the occasion, had the
 
 amusement of connecting them with the silent admiration of her cousin,
 
-and of hoping that she was to be blessed with a second [[spring]] of youth
+and of hoping that she was to be blessed with a second [[Spring|spring]] of youth
 
 and [[Beauty|beauty]].
 

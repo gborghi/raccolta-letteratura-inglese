@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of [[Edwin Drood]] — Chapter 17 (part 5)"
+title: "The Mystery of Edwin Drood — Chapter 17 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
@@ -13,6 +13,12 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_18/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_19/part_01">part 01 ›</a></div>
 </nav>
 
+
+Mr. Crisparkle, with a significant nod complied; and rejoining Neville,
+went away with him. They dined together, and parted at the yet
+unfinished and undeveloped railway station: Mr. Crisparkle to get [[Home|home]];
+Neville to walk the streets, [[Cross|cross]] the bridges, make a wide round of
+the [[City|city]] in the friendly darkness, and tire himself out.
 
 It was midnight when he returned from his solitary expedition and
 climbed his staircase. The [[Night|night]] was hot, and the windows of the

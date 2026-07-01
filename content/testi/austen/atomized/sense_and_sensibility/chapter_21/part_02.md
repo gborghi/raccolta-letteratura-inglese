@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 21 (part 2)"
+title: "Sense and Sensibility — Chapter 21 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -13,6 +13,8 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_21/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_21/part_03">part 03 ›</a></div>
 </nav>
 
+
+no [[Doubt|doubt]] of its being a reciprocal enjoyment. It suggested no other
 
 surprise than that Elinor and Marianne should sit so composedly by,
 
@@ -241,9 +243,3 @@ to Mr. Simpson, you know, and yet if you do but meet him of a morning,
 he is not fit to be seen. I suppose your brother was quite a beau, Miss
 
 Dashwood, before he married, as he was so rich?”
-
-
-
-“Upon my word,” replied Elinor, “I cannot tell you, for I do not
-
-perfectly comprehend the meaning of the word. But this I can say, that

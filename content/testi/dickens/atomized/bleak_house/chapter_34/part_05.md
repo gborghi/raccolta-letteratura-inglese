@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 34 (part 5)"
+title: "Bleak House — Chapter 34 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,8 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_34/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_34/part_06">part 06 ›</a></div>
 </nav>
 
+
+“I beg your pardon, sir, but I think those gentlemen are military?”
 
 The clerk referring the question to them with his eye, and Mr. George
 not turning round from the almanac over the [[Fire|fire]]-place. Mr. Bagnet
@@ -136,8 +138,3 @@ Look at a millstone, Mr. George, for some change in its expression,
 and you will find it quite as soon as in the face of Mr. Tulkinghorn
 when he opens and reads the letter! He refolds it and lays it in his
 desk with a countenance as unperturbable as [[Death|death]].
-
-Nor has he anything more to say or do but to nod once in the same
-frigid and discourteous manner and to say briefly, “You can go. Show
-these men out, there!” Being shown out, they repair to Mr. Bagnet’s
-residence to dine.

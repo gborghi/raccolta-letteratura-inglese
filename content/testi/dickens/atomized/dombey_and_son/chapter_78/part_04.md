@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 22 (part 4)"
+title: "Dombey and Son — Chapter 50 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,124 +14,120 @@ tags:
 </nav>
 
 
-“Thank you, Sir,” returned Uncle Sol, taking out his pocket-book, and
-handing over some notes as he spoke. “Nothing ails me in [[Body|body]] but old
-age. Twenty-five, Sir.”
+“Thank you, heartily,” said Walter. “I couldn’t [[Desire|desire]] a more genuine
+and genial welcome.”
 
-“You are as punctual and exact, Mr Gills,” replied the smiling Manager,
-taking a paper from one of his many drawers, and making an endorsement
-on it, while Uncle Sol looked over him, “as one of your own
-chronometers. Quite right.”
+“Couldn’t you, though?” said Mr Toots, still shaking his hand. “It’s
+very kind of you. I’m much obliged to you. How-de-do? I [[Hope|hope]] you left
+everybody quite [[Well|well]] over the—that is, upon the—I mean wherever you
+came from last, you know.”
 
-“The Son and Heir has not been spoken, I find by the list, Sir,” said
-Uncle Sol, with a slight addition to the usual tremor in his voice.
+All these good wishes, and better intentions, Walter responded to
+manfully.
 
-“The Son and Heir has not been spoken,” returned Carker. “There seems
-to have been tempestuous weather, Mr Gills, and she has probably been
-driven out of her course.”
+“Captain Gills,” said Mr Toots, “I should wish to be strictly
+honourable; but I trust I may be allowed now, to allude to a certain
+subject that—”
 
-“She is safe, I trust in Heaven!” said old Sol.
+“Ay, ay, my lad,” returned the Captain. “Freely, freely.”
 
-“She is safe, I trust in Heaven!” assented Mr Carker in that voiceless
-manner of his: which made the observant young Toodle tremble again. “Mr
-Gills,” he added aloud, throwing himself back in his chair, “you must
-miss your nephew very much?”
+“Then, Captain Gills,” said Mr Toots, “and Lieutenant Walters—are you
+aware that the most dreadful circumstances have been happening at Mr
+Dombey’s [[house]], and that Miss Dombey herself has left her father, who,
+in my opinion,” said Mr Toots, with great excitement, “is a Brute, that
+it would be a flattery to call a—a marble monument, or a bird of
+prey,—and that she is not to be found, and has gone no one knows
+where?”
 
-Uncle Sol, standing by him, shook his head and heaved a deep sigh.
+“May I ask how you heard this?” inquired Walter.
 
-“Mr Gills,” said Carker, with his soft hand playing round his mouth,
-and looking up into the Instrument-maker’s face, “it would be company
-to you to have a young fellow in your shop just now, and it would be
-obliging me if you would give one [[house]]-room for the present. No, to be
-sure,” he added quickly, in anticipation of what the old man was going
-to say, “there’s not much business doing there, I know; but you can
-make him clean the place out, polish up the instruments; drudge, Mr
-Gills. That’s the lad!”
+“Lieutenant Walters,” said Mr Toots, who had arrived at that
+appellation by a process peculiar to himself; probably by jumbling up
+his Christian name with the seafaring profession, and supposing some
+relationship between him and the Captain, which would extend, as a
+matter of course, to their titles; “Lieutenant Walters, I can have no
+objection to make a straightforward reply. The fact is, that feeling
+extremely interested in everything that relates to Miss Dombey—not for
+any selfish reason, Lieutenant Walters, for I am [[Well|well]] aware that the
+most able thing I could do for all parties would be to put an end to my
+existence, which can only be regarded as an inconvenience—I have been
+in the habit of bestowing a trifle now and then upon a footman; a most
+respectable young man, of the name of Towlinson, who has lived in the
+family some [[Time|time]]; and Towlinson informed me, yesterday evening, that
+this was the state of things. Since which, Captain Gills—and Lieutenant
+Walters—I have been perfectly frantic, and have been lying down on the
+sofa all [[Night|night]], the Ruin you behold.”
 
-Sol Gills pulled down his spectacles from his forehead to his eyes, and
-looked at Toodle Junior standing upright in the corner: his head
-presenting the appearance (which it always did) of having been newly
-drawn out of a bucket of cold [[Water|water]]; his small waistcoat rising and
-falling quickly in the play of his emotions; and his eyes intently
-fixed on Mr Carker, without the least reference to his proposed master.
+“Mr Toots,” said Walter, “I am happy to be able to relieve your mind.
+Pray calm yourself. Miss Dombey is safe and [[Well|well]].”
 
-“Will you give him [[house]]-room, Mr Gills?” said the Manager.
+“Sir!” cried Mr Toots, starting from his chair and shaking hands with
+him anew, “the relief is so excessive, and unspeakable, that if you
+were to tell me now that Miss Dombey was married even, I could smile.
+Yes, Captain Gills,” said Mr Toots, appealing to him, “upon my [[Soul|soul]] and
+[[Body|body]], I really think, whatever I might do to myself immediately
+afterwards, that I could smile, I am so relieved.”
 
-Old Sol, without being quite enthusiastic on the subject, replied that
-he was glad of any opportunity, however slight, to oblige Mr Carker,
-whose wish on such a point was a command: and that the wooden
-Midshipman would consider himself happy to receive in his berth any
-visitor of Mr Carker’s selecting.
+“It will be a greater relief and delight still, to such a generous mind
+as yours,” said Walter, not at all slow in returning his greeting, “to
+find that you can render service to Miss Dombey. [[Captain Cuttle]], will
+you have the kindness to take Mr Toots upstairs?”
 
-Mr Carker bared himself to the tops and bottoms of his gums: making the
-watchful Toodle Junior tremble more and more: and acknowledged the
-Instrument-maker’s politeness in his most affable manner.
+The Captain beckoned to Mr Toots, who followed him with a bewildered
+countenance, and, ascending to the top of the [[house]], was introduced,
+without a word of preparation from his conductor, into Florence’s new
+retreat.
 
-“I’ll dispose of him so, then, Mr Gills,” he answered, rising, and
-shaking the old man by the hand, “until I make up my mind what to do
-with him, and what he deserves. As I consider myself responsible for
-him, Mr Gills,” here he smiled a wide smile at Rob, who shook before
-it: “I shall be glad if you’ll look sharply after him, and report his
-behaviour to me. I’ll ask a question or two of his parents as I ride
-[[Home|home]] this afternoon—respectable people—to confirm some particulars in
-his own account of himself; and that done, Mr Gills, I’ll send him
-round to you to-morrow morning. Goodbye!”
+Poor Mr Toots’s amazement and pleasure at sight of her were such, that
+they could find a vent in nothing but extravagance. He ran up to her,
+seized her hand, kissed it, dropped it, seized it again, fell upon one
+knee, shed [[Tears|tears]], chuckled, and was quite regardless of his danger of
+being pinned by Diogenes, who, inspired by the belief that there was
+something hostile to his mistress in these demonstrations, worked round
+and round him, as if only undecided at what particular point to go in
+for the assault, but quite resolved to do him a fearful mischief.
 
-His smile at parting was so full of teeth, that it confused old Sol,
-and made him vaguely uncomfortable. He went [[Home|home]], thinking of raging
-seas, foundering ships, drowning men, an ancient bottle of Madeira
-never brought to light, and other dismal matters.
+“Oh Di, you bad, forgetful dog! Dear Mr Toots, I am so rejoiced to see
+you!”
 
-“Now, boy!” said Mr Carker, putting his hand on young Toodle’s
-shoulder, and bringing him out into the middle of the room. “You have
-heard me?”
+“Thankee,” said Mr Toots, “I am pretty [[Well|well]], I’m much obliged to you,
+Miss Dombey. I [[Hope|hope]] all the family are the same.”
 
-Rob said, “Yes, Sir.”
+Mr Toots said this without the least notion of what he was talking
+about, and sat down on a chair, staring at Florence with the liveliest
+contention of delight and [[Despair|despair]] going on in his face that any face
+could exhibit.
 
-“Perhaps you understand,” pursued his patron, “that if you ever deceive
-or play tricks with me, you had better have drowned yourself, indeed,
-once for all, before you came here?”
+“Captain Gills and Lieutenant Walters have mentioned, Miss Dombey,”
+gasped Mr Toots, “that I can do you some service. If I could by any
+means wash out the remembrance of that day at Brighton, when I
+conducted myself—much more like a Parricide than a person of
+independent property,” said Mr Toots, with severe [[Self|self]]-accusation, “I
+should sink into the silent tomb with a gleam of joy.”
 
-There was nothing in any branch of mental acquisition that Rob seemed
-to understand better than that.
+“Pray, Mr Toots,” said Florence, “do not wish me to forget anything in
+our acquaintance. I never can, believe me. You have been far too kind
+and good to me always.”
 
-“If you have lied to me,” said Mr Carker, “in anything, never come in
-my way again. If not, you may let me find you waiting for me somewhere
-near your mother’s [[house]] this afternoon. I shall leave this at five
-o’[[Clock|clock]], and ride there on horseback. Now, give me the address.”
+“Miss Dombey,” returned Mr Toots, “your consideration for my feelings
+is a part of your angelic character. Thank you a thousand times. It’s
+of no consequence at all.”
 
-Rob repeated it slowly, as Mr Carker wrote it down. Rob even spelt it
-over a second [[Time|time]], letter by letter, as if he thought that the
-omission of a dot or scratch would lead to his destruction. Mr Carker
-then handed him out of the room; and Rob, keeping his round eyes fixed
-upon his patron to the last, vanished for the [[Time|time]] being.
+“What we thought of asking you,” said Florence, “is, whether you
+remember where Susan, whom you were so kind as to accompany to the
+coach-office when she left me, is to be found.”
 
-Mr Carker the Manager did a great deal of business in the course of the
-day, and bestowed his teeth upon a great many people. In the office, in
-the [[Court|court]], in the street, and on “Change, they glistened and bristled
-to a terrible extent. Five o’[[Clock|clock]] arriving, and with it Mr Carker’s
-bay [[Horse|horse]], they got on horseback, and went gleaming up Cheapside.
+“Why I do not certainly, Miss Dombey,” said Mr Toots, after a little
+consideration, “remember the exact name of the place that was on the
+coach; and I do recollect that she said she was not going to stop
+there, but was going farther on. But, Miss Dombey, if your object is to
+find her, and to have her here, myself and the Chicken will produce her
+with every dispatch that devotion on my part, and great intelligence on
+the Chicken’s, can ensure.”
 
-As no one can easily ride fast, even if inclined to do so, through the
-press and throng of the [[City]] at that hour, and as Mr Carker was not
-inclined, he went leisurely along, picking his way among the carts and
-carriages, avoiding whenever he could the wetter and more dirty places
-in the over-watered [[Road|road]], and taking infinite pains to keep himself and
-his steed clean. Glancing at the passersby while he was thus ambling on
-his way, he suddenly encountered the round eyes of the sleek-headed Rob
-intently fixed upon his face as if they had never been taken off, while
-the boy himself, with a pocket-handkerchief twisted up like a speckled
-eel and girded round his waist, made a very conspicuous demonstration
-of being prepared to attend upon him, at whatever pace he might think
-proper to go.
-
-This attention, however flattering, being one of an unusual kind, and
-attracting some notice from the other passengers, Mr Carker took
-advantage of a clearer thoroughfare and a cleaner [[Road|road]], and broke into
-a trot. Rob immediately did the same. Mr Carker presently tried a
-canter; Rob was still in attendance. Then a short gallop; it was all
-one to the boy. Whenever Mr Carker turned his eyes to that side of the
-[[Road|road]], he still saw Toodle Junior holding his course, apparently without
-distress, and working himself along by the elbows after the most
-approved manner of professional gentlemen who get over the ground for
-wagers.
+Mr Toots was so manifestly delighted and revived by the prospect of
+being useful, and the disinterested sincerity of his devotion was so
+unquestionable, that it would have been cruel to refuse him. Florence,
+with an instinctive delicacy, forbore to urge the least obstacle,
+though she did not forbear to overpower him with thanks; and Mr Toots
+proudly took the commission upon himself for immediate execution.

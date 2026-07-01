@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 29 (part 2)"
+title: "Barnaby Rudge — Chapter 29 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_29/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_29/part_03">part 03 ›</a></div>
 </nav>
 
+
+Hugh made no answer, but throwing the bridle to his master, and
+snatching his wig from his head, in a manner so unceremonious and hasty
+that the action discomposed Mr Willet not a little, though performed at
+his own special [[Desire|desire]], climbed nimbly to the very summit of the maypole
+before the [[house]], and hanging the wig upon the weathercock, sent it
+twirling round like a roasting jack. Having achieved this performance,
+he cast it on the ground, and sliding down the pole with inconceivable
+rapidity, alighted on his feet almost as soon as it had touched the
+earth.
 
 ‘There, sir,’ said John, relapsing into his usual stolid state, ‘you
 won’t see that at many houses, besides the Maypole, where there’s good
@@ -107,20 +117,3 @@ of the form and dress as she crossed a little wooden bridge which lay
 between them, satisfied him that he had found her whom he desired to
 see. He threw himself in her way, and a very few paces brought them
 close together.
-
-He raised his hat from his head, and yielding the path, suffered her to
-pass him. Then, as if the idea had but that moment occurred to him, he
-turned hastily back and said in an agitated voice:
-
-‘I beg pardon--do I address Miss Haredale?’
-
-She stopped in some confusion at being so unexpectedly accosted by a
-stranger; and answered ‘Yes.’
-
-‘Something told me,’ he said, LOOKING a compliment to her [[Beauty|beauty]], ‘that
-it could be no other. Miss Haredale, I bear a name which is not unknown
-to you--which it is a [[Pride|pride]], and yet a [[Pain|pain]] to me to know, sounds
-pleasantly in your ears. I am a man advanced in life, as you see. I am
-the father of him whom you [[Honour|honour]] and distinguish above all other
-men. May I for weighty reasons which fill me with distress, beg but a
-minute’s conversation with you here?’

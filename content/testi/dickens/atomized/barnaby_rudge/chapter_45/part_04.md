@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 45 (part 4)"
+title: "Barnaby Rudge — Chapter 45 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,23 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_45/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_47/part_01">part 01 ›</a></div>
 </nav>
 
+
+‘Is he near here?’
+
+‘He is. Close at hand.’
+
+‘Then I am lost!’
+
+‘Not lost, widow,’ said the blind man, calmly; ‘only found. Shall I call
+him?’
+
+‘Not for the world,’ she answered, with a shudder.
+
+‘Very good,’ he replied, crossing his legs again, for he had made as
+though he would rise and walk to the door. ‘As you please, widow. His
+presence is not necessary that I know of. But both he and I must live;
+to live, we must eat and drink; to eat and drink, we must have money:--I
+say no more.’
 
 ‘Do you know how pinched and destitute I am?’ she retorted. ‘I do not
 think you do, or can. If you had eyes, and could look around you on this

@@ -14,6 +14,18 @@ tags:
 </nav>
 
 
+‘I [[Wonder|wonder]] at that, Mr Quilp,’ said the young man sarcastically.
+
+‘[[Well]], so did I at the [[Time|time]],’ returned Quilp, ‘but he was always
+obstinate.  He was in a manner a friend of mine, but he was always
+obstinate and wrong-headed.  [[Little Nell]] is a nice girl, a charming
+girl, but you’re her brother, Frederick.  You’re her brother after all;
+as you told him the last [[Time|time]] you met, he can’t alter that.’
+
+‘He would if he could, confound him for that and all other kindnesses,’
+said the young man impatiently.  ‘But nothing can come of this subject
+now, and let us have done with it in the Devil’s name.’
+
 ‘Agreed,’ returned Quilp, ‘agreed on my part readily.  Why have I
 alluded to it?  Just to show you, Frederick, that I have always stood
 your friend.  You little knew who was your friend, and who your foe;

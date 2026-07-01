@@ -10,12 +10,11 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-defendant-(chesterton)">The Defendant</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_defendant/story_12_a_defence_of_ugly_things">‹ Story 12 A DEFENCE OF UGLY THINGS</a><a class="ex-next" href="/testi/chesterton/atomized/the_defendant/story_14_a_defence_of_humility">Story 14 A DEFENCE OF HUMILITY ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_defendant/story_12_a_defence_of_ugly_things">‹ Story 12 A DEFENCE OF UGLY THINGS</a><a class="ex-next" href="/testi/chesterton/atomized/the_defendant/story_14_a_defence_of_humility_humility">Story 14 A DEFENCE OF Humility HUMILITY ›</a></div>
 </nav>
 
 
 A DEFENCE OF FARCE
-
 
 I have never been able to understand why certain forms of art should be
 marked off as something debased and trivial. A [[Comedy|comedy]] is spoken of as
@@ -87,7 +86,7 @@ dominant element of life; but this is true only in a very special sense.
 If [[Pain|pain]] were for one single instant literally the dominant element in
 life, every man would be found hanging dead from his own bed-post by the
 morning. [[Pain]], as the black and catastrophic thing, attracts the
-youthful [[Artist|artist]], just as the schoolboy draws devils and skeletons and
+youthful [[artist]], just as the schoolboy draws devils and skeletons and
 men hanging. But joy is a far more elusive and elvish matter, since it
 is our reason for existing, and a very feminine reason; it mingles with
 every breath we draw and every cup of tea we drink. The literature of
@@ -151,6 +150,5 @@ for an aesthetic type and movement which violated [[morality]] and did not
 even find pleasure, which outraged [[Sanity|sanity]] and could not attain to
 exuberance, which contented itself with the [[Fool|fool]]'s cap without the
 [[Bells|bells]]!
-
 
        *       *       *       *       *

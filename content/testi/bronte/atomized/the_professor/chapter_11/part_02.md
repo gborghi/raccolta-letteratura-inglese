@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 10 (part 2)"
+title: "The Professor — Chapter 10 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-professor-(bronte)"
@@ -14,27 +14,19 @@ tags:
 </nav>
 
 
+rustle followed, and an opening of desks; behind the lifted lids which
+
 momentarily screened the heads bent down to search for exercise-books, I
 
 heard tittering and whispers.
 
-
-
 “Eulalie, je suis prete a pleuer de rire,” observed one.
-
-
 
 “Comme il a rougi en parlant!”
 
-
-
 “Oui, c’est un veritable blanc-bec.”
 
-
-
 “Tais-toi, Hortense--il nous ecoute.”
-
-
 
 And now the lids sank and the heads reappeared; I had marked three, the
 
@@ -51,8 +43,6 @@ dark nun-like robes and softly braided hair, were a kind of half-angels.
 The light titter, the giddy whisper, had already in some measure
 
 relieved my mind of that fond and oppressive fancy.
-
-
 
 The three I allude to were just in front, within half a yard of my
 
@@ -86,8 +76,6 @@ there were frolic and mischief in her eye: consistency and good sense
 
 she might possess, but none of her features betokened those qualities.
 
-
-
 Caroline was little, though evidently full grown; raven-black hair,
 
 very dark eyes, absolutely regular features, with a colourless olive
@@ -108,8 +96,6 @@ sensual now, and in ten years’ [[Time|time]] she would be coarse--promise plai
 
 was written in her face of much future folly.
 
-
-
 If I looked at these girls with little scruple, they looked at me
 
 with still less. Eulalie raised her unmoved eye to mine, and seemed to
@@ -120,11 +106,7 @@ charms. Hortense regarded me boldly, and giggled at the same [[Time|time]], whil
 
 she said, with an air of impudent [[Freedom|freedom]]--
 
-
-
 “Dictez-nous quelquechose de facile pour commencer, monsieur.”
-
-
 
 Caroline shook her loose ringlets of abundant but somewhat coarse hair
 
@@ -152,13 +134,9 @@ five minutes I had buckled on a breast-plate of steely indifference, and
 
 let down a visor of impassible austerity.
 
-
-
 “Take your pens and commence writing,” said I, in as dry and trite a
 
 voice as if I had been addressing only Jules Vanderkelkov and Co.
-
-
 
 The dictee now commenced. My three belles interrupted me perpetually
 
@@ -168,67 +146,39 @@ made no answer, and to others replied very quietly and briefly. “Comment
 
 dit-on point et virgule en Anglais, monsieur?”
 
-
-
 “Semi-colon, mademoiselle.”
-
-
 
 “Semi-collong? Ah, comme c’est drole!” (giggle.)
 
-
-
 “J’ai une si mauvaise plume--impossible d’ecrire!”
-
-
 
 “Mais, monsieur--je ne sais pas suivre--vous allez si vite.”
 
-
-
 “Je n’ai rien compris, moi!”
-
-
 
 Here a general murmur arose, and the teacher, opening her lips for the
 
 first [[Time|time]], ejaculated--
 
-
-
 “[[Silence]], mesdemoiselles!”
-
-
 
 No [[Silence|silence]] followed--on the contrary, the three ladies in front began to
 
 talk more loudly.
 
-
-
 “C’est si difficile, l’Anglais!”
-
-
 
 “Je deteste la dictee.”
 
-
-
 “Quel ennui d’ecrire quelquechose que l’on ne comprend pas!”
-
-
 
 Some of those behind laughed: a degree of confusion began to pervade the
 
 class; it was necessary to take prompt measures.
 
-
-
 “Donnez-moi votre cahier,” said I to Eulalie in an abrupt tone; and
 
 bending over, I took it before she had [[Time|time]] to give it.
-
-
 
 “Et vous, mademoiselle--donnez-moi le votre,” continued I, more mildly,
 
@@ -247,11 +197,3 @@ mistakes--Sylvie’s (such was the name of the ugly little girl) was
 clearly written, it contained no error against sense, and but few
 
 faults of orthography. I coolly read aloud both exercises, marking the
-
-faults--then I looked at Eulalie:
-
-
-
-“C’est honteux!” said I, and I deliberately tore her dictation in four
-
-parts, and presented her with the fragments. I returned Sylvie her book

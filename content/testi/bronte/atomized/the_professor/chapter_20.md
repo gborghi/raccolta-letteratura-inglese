@@ -1,5 +1,5 @@
 ---
-title: "[[The Professor]] — Chapter 19"
+title: "The Professor — Chapter 19"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/the-professor-(bronte)"
@@ -15,8 +15,6 @@ tags:
 
 
 CHAPTER XIX.
-
-
 
 NOVELISTS should never allow themselves to weary of the study of real
 
@@ -40,7 +38,7 @@ for enjoyment; then, truly, we may find ourselves without support,
 
 robbed of [[Hope|hope]]. Our agony is great, and how can it end? We have broken
 
-the [[spring]] of our powers; life must be all [[Suffering|suffering]]--too feeble to
+the [[Spring|spring]] of our powers; life must be all [[Suffering|suffering]]--too feeble to
 
 conceive [[Faith|faith]]--[[Death|death]] must be darkness--God, spirits, religion can have
 
@@ -53,8 +51,6 @@ and dissolution flings us in--a rag eaten through and through with
 disease, wrung together with [[Pain|pain]], stamped into the churchyard sod by
 
 the inexorable heel of [[Despair|despair]].
-
-
 
 But the man of regular life and rational mind never despairs. He loses
 
@@ -98,8 +94,6 @@ duties of life; and, though sadness may never lift her burden from his
 
 mind, [[Hope]] will enable him to support it.
 
-
-
 [[Well]]--and what suggested all this? and what is the inference to be drawn
 
 therefrom? What suggested it, is the circumstance of my best pupil--my
@@ -128,8 +122,6 @@ nurslings, and allowed vent to their language of murmurs; then, in
 
 their long, midnight cry.
 
-
-
 A week passed. I had said nothing more to Mdlle. Reuter. I had been calm
 
 in my demeanour to her, though stony cold and hard. When I looked at
@@ -148,13 +140,9 @@ the same tranquil tone and manner that I should have used had I put the
 
 question for the first [[Time|time]]--
 
-
-
 “Mademoiselle, will you have the goodness to give me the address of
 
 Frances Evans Henri?”
-
-
 
 A little surprised, but not disconcerted, she smilingly disclaimed any
 
@@ -162,13 +150,9 @@ knowledge of that address, adding, “Monsieur has perhaps forgotten that
 
 I explained all about that circumstance before--a week ago?”
 
-
-
 “Mademoiselle,” I continued, “you would greatly oblige me by directing
 
 me to that young person’s abode.”
-
-
 
 She seemed somewhat puzzled; and, at last, looking up with an admirably
 
@@ -176,17 +160,11 @@ counterfeited air of naivete, she demanded, “Does Monsieur think I am
 
 telling an untruth?”
 
-
-
 Still avoiding to give her a direct answer, I said, “It is not then your
 
 intention, mademoiselle, to oblige me in this particular?”
 
-
-
 “But, monsieur, how can I tell you what I do not know?”
-
-
 
 “Very [[Well|well]]; I understand you perfectly, mademoiselle, and now I have
 
@@ -200,13 +178,9 @@ English master--at the close of August, I shall be under the necessity
 
 of resigning my post in your establishment.”
 
-
-
 I did not wait for her comments on this announcement, but bowed and
 
 immediately withdrew.
-
-
 
 That same evening, soon after dinner, a servant brought me a small
 
@@ -218,11 +192,7 @@ prevent my immediately opening it; it contained four five-franc pieces,
 
 and a note in English.
 
-
-
 “MONSIEUR,
-
-
 
 “I came to Mdlle. Reuter’s [[house]] yesterday, at the [[Time|time]] when I knew you
 
@@ -270,21 +240,13 @@ distresses. What claim have I on your sympathy? None; I will then say no
 
 more.
 
-
-
 “Farewell, Monsieur.
 
-
-
 “F. E. HENRI.”
-
-
 
 I put up the note in my pocket-book. I slipped the five-franc pieces
 
 into my purse--then I took a turn through my narrow chamber.
-
-
 
 “Mdlle. Reuter talked about her [[Poverty|poverty]],” said I, “and she is poor;
 
@@ -334,41 +296,25 @@ up the small, taper fingers over them--so--and compelled her shame, her
 
 where is she? How can I get at her?”
 
-
-
 Opening my chamber door I walked down into the kitchen.
-
-
 
 “Who brought the packet?” I asked of the servant who had delivered it to
 
 me.
 
-
-
 “Un petit commissionaire, monsieur.”
-
-
 
 “Did he say anything?”
 
-
-
 “Rien.”
-
-
 
 And I wended my way up the back-stairs, wondrously the wiser for my
 
 inquiries.
 
-
-
 “No matter,” said I to myself, as I again closed the door. “No
 
 matter--I’ll seek her through Brussels.”
-
-
 
 And I did. I sought her day by day whenever I had a moment’s leisure,
 
@@ -407,8 +353,6 @@ failed to recognize the peculiarities it was bent upon; an ample space
 of brow and a large, dark, and serious eye, with a fine but decided line
 
 of eyebrow traced above.
-
-
 
 “She has probably left Brussels--perhaps is gone to England, as she
 
@@ -522,8 +466,6 @@ everlastings announced, “The Protestant Cemetery, outside the gate of
 
 Louvain.”
 
-
-
 The place was large enough to afford half an hour’s strolling without
 
 the monotony of treading continually the same path; and, for those who
@@ -575,8 +517,6 @@ the [[Flowers|flowers]], as languid as fair, waited listless for [[Night|night]]
 thunder-shower; where the tombs, and those they hid, lay impassible to
 
 sun or [[Shadow|shadow]], to rain or drought.
-
-
 
 Importuned by the sound of my own footsteps, I turned off upon the turf,
 
@@ -640,8 +580,6 @@ graveyard--here was my lost [[Jewel|jewel]] dropped on the tear-fed herbage,
 
 nestling in the messy and mouldy roots of yew-trees.
 
-
-
 Frances sat very quiet, her elbow on her knee, and her head on her hand.
 
 I knew she could retain a thinking attitude a long [[Time|time]] without change;
@@ -694,8 +632,6 @@ out after the heavy [[Summer|summer]] shower; and what fertilizes more rapidly t
 
 that beam, burning almost like [[Fire|fire]] in its ardour?
 
-
-
 I hate boldness--that boldness which is of the brassy brow and insensate
 
 nerves; but I [[Love|love]] the [[Courage|courage]] of the strong heart, the fervour of the
@@ -706,11 +642,7 @@ hazel eye when it did not [[Fear|fear]] to look straight into mine; I loved the
 
 tones with which she uttered the words--
 
-
-
 “Mon maitre! mon maitre!”
-
-
 
 I loved the movement with which she confided her hand to my hand; I
 
@@ -754,8 +686,6 @@ cemetery, I felt I had another sentiment, as strong as confidence, as
 
 firm as respect, more fervid than either--that of [[Love|love]].
 
-
-
 “[[Well]], my pupil,” said I, as the ominous sounding gate swung to behind
 
 us--“[[Well]], I have found you again: a month’s search has seemed long,
@@ -763,8 +693,6 @@ us--“[[Well]], I have found you again: a month’s search has seemed long,
 and I little thought to have discovered my lost sheep straying amongst
 
 graves.”
-
-
 
 Never had I addressed her but as “Mademoiselle” before, and to speak
 
@@ -774,8 +702,6 @@ me that this language ruffled none of her feelings, woke no discord in
 
 her heart:
 
-
-
 “Mon maitre,” she said, “have you troubled yourself to seek me? I little
 
 imagined you would think much of my absence, but I grieved bitterly to
@@ -784,11 +710,7 @@ be taken away from you. I was sorry for that circumstance when heavier
 
 troubles ought to have made me forget it.”
 
-
-
 “Your aunt is dead?”
-
-
 
 “Yes, a fortnight since, and she died full of regret, which I could not
 
@@ -808,21 +730,13 @@ taken her remains back to our own country, but that was impossible; I
 
 was forced to lay her here.”
 
-
-
 “She was ill but a short [[Time|time]], I presume?”
-
-
 
 “But three weeks. When she began to sink I asked Mdlle. Reuter’s leave
 
 to stay with her and wait on her; I readily got leave.”
 
-
-
 “Do you return to the pensionnat!” I demanded hastily.
-
-
 
 “Monsieur, when I had been at [[Home|home]] a week Mdlle. Reuter called one
 
@@ -866,8 +780,6 @@ then she said something about the excellent condition of the streets,
 
 and the long continuance of fine weather, and went away quite cheerful.”
 
-
-
 I laughed inwardly; all this was so like the directress--so like what I
 
 had expected and guessed of her conduct; and then the exposure and proof
@@ -879,8 +791,6 @@ applied for Mdlle. Henri’s address,” forsooth; “Mdlle. Henri had always
 evaded giving it,” &c., &c., and here I found her a visitor at the very
 
 [[house]] of whose locality she had professed absolute ignorance!
-
-
 
 Any comments I might have intended to make on my pupil’s communication,
 
@@ -900,15 +810,9 @@ heavy rain came on; in the meantime we had passed through the Porte de
 
 Louvain, and were again in the [[City|city]].
 
-
-
 “Where do you live?” I asked; “I will see you safe [[Home|home]].”
 
-
-
 “Rue Notre Dame aux Neiges,” answered Frances.
-
-
 
 It was not far from the Rue de Louvain, and we stood on the doorsteps
 
@@ -917,8 +821,6 @@ of the [[house]] we sought ere the clouds, severing with loud peal and
 shattered cataract of [[Lightning|lightning]], emptied their livid folds in a torrent,
 
 heavy, prone, and broad.
-
-
 
 “Come in! come in!” said Frances, as, after putting her into the [[house]],
 
@@ -933,8 +835,6 @@ projection over the door had warded off the straight-descending flood;
 none but the first, large drops had touched our garments; one minute
 
 more and we should not have had a dry thread on us.
-
-
 
 Stepping over a little mat of green wool, I found myself in a small room
 
@@ -996,27 +896,19 @@ it had a cover; she opened it, and produced wood and coal; deftly and
 
 compactly she arranged them in the grate.
 
-
-
 “It is her whole stock, and she will exhaust it out of hospitality,”
 
  thought I.
 
-
-
 “What are you going to do?” I asked: “not surely to light a [[Fire|fire]] this
 
 hot evening? I shall be smothered.”
-
-
 
 “Indeed, monsieur, I feel it very chilly since the rain began; besides,
 
 I must boil the [[Water|water]] for my tea, for I take tea on Sundays; you will be
 
 obliged to try and bear the heat.”
-
-
 
 She had struck a light; the wood was already in a blaze; and truly, when
 
@@ -1035,8 +927,6 @@ foot-stool, came and rubbed its head against Frances’ gown as she knelt;
 she caressed it, saying it had been a favourite with her “pauvre tante
 
 Julienne.”
-
-
 
 The [[Fire|fire]] being lit, the hearth swept, and a small kettle of a very
 
@@ -1062,15 +952,9 @@ preparations, she chanced to look up, and, reading curiosity in my eyes,
 
 she smiled and asked--
 
-
-
 “Is this like England, monsieur?”
 
-
-
 “Like the England of a hundred years ago,” I replied.
-
-
 
 “Is it truly? [[Well]], everything on this tray is at least a hundred
 
@@ -1084,8 +968,6 @@ to me; and, ever since I was a little girl, I have thought I should like
 
 to carry them back to England, whence they came.”
 
-
-
 She put some pistolets on the table; she made the tea, as foreigners do
 
 make tea--i.e., at the rate of a teaspoonful to half-a-dozen cups;
@@ -1094,11 +976,7 @@ she placed me a chair, and, as I took it, she asked, with a sort of
 
 exaltation--
 
-
-
 “Will it make you think yourself at [[Home|home]] for a moment?”
-
-
 
 “If I had a [[Home|home]] in England, I believe it would recall it,” I
 
@@ -1108,11 +986,7 @@ fair-complexioned English-looking girl presiding at the English meal,
 
 and speaking in the English language.
 
-
-
 “You have then no [[Home|home]]?” was her remark.
-
-
 
 “None, nor ever have had. If ever I possess a [[Home|home]], it must be of my own
 
@@ -1128,15 +1002,11 @@ and in the increased possessions, my roused and eager spirit panted to
 
 include the [[Home|home]] I had never had, the wife I inwardly vowed to win.
 
-
-
 Frances’ tea was little better than hot [[Water|water]], sugar, and milk; and her
 
 pistolets, with which she could not offer me butter, were sweet to my
 
 palate as manna.
-
-
 
 The repast over, and the treasured plate and porcelain being washed and
 
@@ -1184,13 +1054,9 @@ recollecting the composing effect which an authoritative tone and manner
 
 had ever been wont to produce on her, I said--
 
-
-
 “Get one of your English books, mademoiselle, for the rain yet falls
 
 heavily, and will probably detain me half an hour longer.”
-
-
 
 Released, and set at ease, up she [[Rose|rose]], got her book, and accepted at
 
@@ -1218,8 +1084,6 @@ intonation, a pause, or an emphasis; as long as I dogmatized, I might
 
 also gaze, without exciting too warm a flush.
 
-
-
 “Enough,” said I, when she had gone through some half dozen pages (a
 
 work of [[Time|time]] with her, for she read slowly and paused often to ask and
@@ -1234,13 +1098,9 @@ setting August sun sent a gleam like the reflection of rubies through
 
 the lattice. I got up; I drew on my gloves.
 
-
-
 “You have not yet found another situation to supply the place of that
 
 from which you were dismissed by Mdlle. Reuter?”
-
-
 
 “No, monsieur; I have made inquiries everywhere, but they all ask me
 
@@ -1262,11 +1122,7 @@ only my own life, but that of another, depended on my exertions: of her
 
 I will never more ask a favour.”
 
-
-
 “How, then, do you propose to get on? How do you live now?”
-
-
 
 “I have still my lace-[[mending]] trade; with care it will keep me from
 
@@ -1276,17 +1132,11 @@ yet; it is only a fortnight since I began to try; my [[Courage|courage]] or hope
 
 are by no means worn out yet.”
 
-
-
 “And if you get what you wish, what then? what are your ultimate views?”
-
-
 
 “To save enough to [[Cross|cross]] the Channel: I always look to England as my
 
 Canaan.”
-
-
 
 “[[Well]], [[Well|well]]--ere long I shall pay you another visit; good evening now,”
 
@@ -1356,8 +1206,6 @@ previously to the event of her aunt’s [[Death|death]] and her dismissal, had
 
 almost recreated her whole frame.
 
-
-
 It has taken me several minutes to write these last sentences; but I had
 
 thought all their purport during the brief interval of descending the
@@ -1388,13 +1236,9 @@ could devise-suggested itself to me. I darted up the stairs, knocked,
 
 re-entered the room as if in haste:--
 
-
-
 “Mademoiselle, I have forgotten one of my gloves; I must have left it
 
 here.”
-
-
 
 She instantly [[Rose|rose]] to seek it; as she turned her back, I--being now
 
@@ -1406,8 +1250,6 @@ then saying--“Oh here is my glove! I had dropped it within the fender;
 
 good evening, mademoiselle,” I made my second exit.
 
-
-
 Brief as my impromptu return had been, it had afforded me [[Time|time]] to pick
 
 up a heart-ache; I remarked that Frances had already removed the red
@@ -1418,8 +1260,6 @@ every item, to save in every detail, she had instantly on my departure
 
 retrenched a luxury too expensive to be enjoyed [[Alone|alone]].
 
-
-
 “I am glad it is not yet [[Winter|winter]],” thought I; “but in two months more
 
 come the winds and rains of November; would to God that before then I
@@ -1427,8 +1267,6 @@ come the winds and rains of November; would to God that before then I
 could earn the right, and the power, to shovel coals into that grate AD
 
 LIBITUM!”
-
-
 
 Already the pavement was drying; a balmy and fresh breeze stirred the
 
@@ -1477,7 +1315,5 @@ face and limbs; a large star shone with still lustre on an angel’s
 forehead; an upraised arm and hand, glancing like a ray, pointed to the
 
 bow overhead, and a voice in my heart whispered--
-
-
 
 “[[Hope]] smiles on Effort!”

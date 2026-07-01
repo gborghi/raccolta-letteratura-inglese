@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 27 (part 2)"
+title: "The Tenant of Wildfell Hall — Chapter 27 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -12,6 +12,18 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/the-tenant-of-wildfell-hall-(bronte)">The Tenant of Wildfell Hall</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_27/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_29/part_01">part 01 ›</a></div>
 </nav>
+
+
+referable to wine; and this [[Night|night]] you knew perfectly [[Well|well]] what you were
+
+doing.”
+
+
+
+“[[Well]], I’m sorry for it,” replied he, with more of sulkiness than
+
+contrition: “what more would you have?”
+
 
 
 “You are sorry that I saw you, no [[Doubt|doubt]],” I answered coldly.
@@ -54,7 +66,7 @@ part to me, throughout, as you have to Annabella?”
 
 
 
-“[[Well]], then, [[arthur|Arthur]], how can you call it nothing—an offence for which
+“[[Well]], then, [[Arthur]], how can you call it nothing—an offence for which
 
 you would think yourself justified in blowing another man’s brains out?
 
@@ -202,7 +214,7 @@ only woman here besides myself, we are necessarily thrown so much
 
 together. Next [[Time|time]] Mrs. Hargrave calls I shall hail her advent as
 
-quite a relief. I have a good mind to ask [[arthur|Arthur]]’s leave to invite the
+quite a relief. I have a good mind to ask [[Arthur]]’s leave to invite the
 
 old lady to stay with us till our guests depart. I think I will. She
 

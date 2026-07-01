@@ -1,5 +1,5 @@
 ---
-title: "[[Jane Eyre]] — Chapter 27 (part 6)"
+title: "Jane Eyre — Chapter 27 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/jane-eyre-(bronte)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_27/part_05">‹ part 05</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_27/part_07">part 07 ›</a></div>
 </nav>
 
+
+“[[Well]], sir?”
+
+“When you are inquisitive, Jane, you always make me smile. You open
+your eyes like an eager bird, and make every now and then a restless
+movement, as if answers in speech did not flow fast enough for you, and
+you wanted to read the tablet of one’s heart. But before I go on, tell
+me what you mean by your ‘[[Well]], sir?’ It is a small phrase very
+frequent with you; and which many a [[Time|time]] has drawn me on and on through
+interminable talk: I don’t very [[Well|well]] know why.”
 
 “I mean,—What next? How did you proceed? What came of such an event?”
 

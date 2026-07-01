@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 6 (part 6)"
+title: "Martin Chuzzlewit — Chapter 6 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,28 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_06/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_07/part_01">part 01 ›</a></div>
 </nav>
 
+
+[[Tom Pinch]]’s heart was very tender, and he could not bear to see the
+most indifferent person in distress; still less one who had awakened
+an interest in him, and who regarded him (either in fact, or as he
+supposed) with kindness, and in a spirit of lenient construction.
+Whatever his own thoughts had been a few moments before--and to judge
+from his face they must have been pretty serious--he dismissed them
+instantly, and gave his young friend the best counsel and comfort that
+occurred to him.
+
+‘All will be [[Well|well]] in [[Time|time]],’ said Tom, ‘I have no [[Doubt|doubt]]; and some trial
+and adversity just now will only serve to make you more attached to each
+other in better days. I have always read that the [[Truth|truth]] is so, and I
+have a feeling within me, which tells me how natural and right it is
+that it should be. That never ran smooth yet,’ said Tom, with a smile
+which, despite the homeliness of his face, was pleasanter to see than
+many a proud [[Beauty|beauty]]’s brightest glance; ‘what never ran smooth yet, can
+hardly be expected to change its character for us; so we must take it as
+we find it, and fashion it into the very best shape we can, by patience
+and good-[[Humour|humour]]. I have no power at all; I needn’t tell you that; but I
+have an excellent will; and if I could ever be of use to you, in any way
+whatever, how very glad I should be!’
 
 ‘Thank you,’ said Martin, shaking his hand. ‘You’re a good fellow, upon
 my word, and speak very kindly. Of course you know,’ he added, after a

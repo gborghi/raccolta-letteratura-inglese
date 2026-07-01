@@ -14,6 +14,58 @@ tags:
 </nav>
 
 
+man would always be best satisfied by public worship and especially by
+
+the great religious literatures of the past. He would embalm the [[Body|body]]
+
+that it might often be revisited by the [[Soul|soul]]--or souls. Something of the
+
+sort has been suggested by Dr. Coit and others of the ethical societies
+
+in our own [[Time|time]]. But while Arnold would loosen the theological bonds of
+
+the Church, he would not loosen the official bonds of the State. You
+
+must not disestablish the Church: you must not even leave the Church:
+
+you must stop inside it and think what you choose. Enemies might say
+
+that he was simply trying to establish and endow Agnosticism. It is
+
+fairer and truer to say that unconsciously he was trying to restore
+
+Paganism: for this State Ritualism without theology, and without much
+
+belief, actually was the practice of the ancient world. Arnold may have
+
+thought that he was building an altar to the Unknown God; but he was
+
+really building it to Divus Cæsar.
+
+As a critic he was chiefly concerned to preserve criticism itself; to
+
+set a measure to praise and blame and support the classics against the
+
+fashions. It is here that it is specially true of him, if of no writer
+
+else, that the style was the man. The most vital thing he invented was a
+
+new style: founded on the patient unravelling of the tangled Victorian
+
+ideas, as if they were matted hair under a comb. He did not mind how
+
+elaborately long he made a sentence, so long as he made it clear. He
+
+would constantly repeat whole phrases word for word in the same
+
+sentence, rather than risk ambiguity by abbreviation. His genius showed
+
+itself in turning this method of a laborious lucidity into a peculiarly
+
+exasperating form of [[Satire|satire]] and controversy. Newman's strength was in a
+
+sort of stifled passion, a dangerous patience of polite [[logic]] and then:
+
 "Cowards! if I advanced a step you would run away: it is not you I [[Fear|fear]].
 
 _Di me terrent, et Jupiter hostis._" If Newman seemed suddenly to fly
@@ -38,8 +90,6 @@ error was that he sometimes thus wearied us of his own phrases, as [[Well|well]]
 
 as of his enemies'.
 
-
-
 These names are roughly representative of the long series of protests
 
 against the cold commercial rationalism which held Parliament and the
@@ -53,8 +103,6 @@ were made in the name of neglected intellect, insulted art, forgotten
 been more heavily bombarded on the other side by one lonely and
 
 unlettered man of genius.
-
-
 
 The rise of Dickens is like the rising of a vast mob. This is not only
 
@@ -102,8 +150,6 @@ proceeding towards heaven or hell. When humanity is going to hell, the
 
 poor are always nearest to heaven.
 
-
-
 Dickens was a mob--and a mob in revolt; he fought by the light of
 
 [[Nature|nature]]; he had not a theory, but a thirst. If any one chooses to offer
@@ -135,63 +181,3 @@ the economic laws that were working so faultlessly in Fever Alley; the
 wealth that was accumulating so rapidly in Bleeding Heart Yard. But,
 
 above all, he didn't like the _mean_ side of the Manchester [[philosophy]]:
-
-the preaching of an impossible thrift and an intolerable temperance. He
-
-hated the implication that because a man was a miser in Latin he must
-
-also be a miser in English. And this meanness of the Utilitarians had
-
-gone very far--infecting many finer minds who had fought the
-
-Utilitarians. In the _Edinburgh Review_, a thing like Malthus could be
-
-championed by a man like Macaulay.
-
-
-
-The twin root facts of the revolution called Dickens are these: first,
-
-that he attacked the cold Victorian compromise; second, that he
-
-attacked it without knowing he was doing it--certainly without knowing
-
-that other people were doing it. He was attacking something which we
-
-will call Mr. Gradgrind. He was utterly unaware (in any essential sense)
-
-that any one else had attacked Mr. Gradgrind. All the other attacks had
-
-come from positions of learning or cultured eccentricity of which he was
-
-entirely ignorant, and to which, therefore (like a spirited fellow), he
-
-felt a furious hostility. Thus, for instance, he hated that Little
-
-Bethel to which Kit's mother went: he hated it simply as Kit hated it.
-
-Newman could have told him it was hateful, because it had no root in
-
-religious [[history]]; it was not even a sapling sprung of the seed of some
-
-great human and heathen tree: it was a monstrous mushroom that grows in
-
-the moonshine and dies in the [[Dawn|dawn]]. Dickens knew no more of religious
-
-[[history]] than Kit; he simply smelt the fungus, and it stank. Thus, again,
-
-he hated that insolent luxury of a class counting itself a comfortable
-
-exception to all mankind; he hated it as [[Kate Nickleby]] hated Sir
-
-Mulberry Hawke--by instinct. Carlyle could have told him that all the
-
-world was full of that anger against the impudent fatness of the few.
-
-But when Dickens wrote about [[Kate Nickleby]], he knew about as much of the
-
-world--as [[Kate Nickleby]]. He did write _The Tale of Two Cities_ long
-
-afterwards; but that was when he _had_ been instructed by Carlyle. His
-
-first revolutionism was as private and internal as feeling sea-sick.

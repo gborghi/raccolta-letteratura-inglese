@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 37 (part 4)"
+title: "Oliver Twist — Chapter 37 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,10 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_37/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_38/part_01">part 01 ›</a></div>
 </nav>
 
+
+“What do you mean?” demanded the stranger, sternly.
+
+“That she died last [[Winter|winter]],” rejoined Mr. Bumble.
 
 The man looked fixedly at him when he had given this information, and
 although he did not withdraw his eyes for some [[Time|time]] afterwards, his

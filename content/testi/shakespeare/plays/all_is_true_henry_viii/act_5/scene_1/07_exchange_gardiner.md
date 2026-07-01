@@ -1,5 +1,5 @@
 ---
-title: "All Is True ([[Henry VIII]]) — Act V, Scene 1 — exchange (GARDINER) [7]"
+title: "All Is True (Henry VIII) — Act V, Scene 1 — exchange (GARDINER) [7]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/all-is-true---(henry-viii)-(shakespeare)"

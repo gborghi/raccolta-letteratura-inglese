@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 14 (part 4)"
+title: "Bleak House — Chapter 14 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,16 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_14/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_14/part_05">part 05 ›</a></div>
 </nav>
 
+
+I curtsied to a little blue-eyed fair man of youthful appearance with
+flaxen hair parted in the middle and curling at the ends all round
+his head. He had a little fiddle, which we used to call at school a
+kit, under his left arm, and its little bow in the same hand. His
+little dancing-shoes were particularly diminutive, and he had a
+little [[Innocent|innocent]], feminine manner which not only appealed to me in an
+amiable way, but made this singular effect upon me, that I received
+the impression that he was like his mother and that his mother had
+not been much considered or [[Well|well]] used.
 
 “I am very happy to see Miss Jellyby’s friend,” he said, bowing low
 to me. “I began to [[Fear|fear]],” with timid tenderness, “as it was past the
@@ -122,18 +132,3 @@ deportment always before him, had lived and grown in the same [[Faith|faith]],
 and now, at thirty years of age, worked for his father twelve hours a
 day and looked up to him with veneration on the old imaginary
 pinnacle.
-
-“The airs the fellow gives himself!” said my informant, shaking her
-head at old Mr. Turveydrop with speechless indignation as he drew on
-his tight gloves, of course unconscious of the homage she was
-rendering. “He fully believes he is one of the aristocracy! And he is
-so condescending to the son he so egregiously deludes that you might
-suppose him the most virtuous of parents. Oh!” said the old lady,
-apostrophizing him with infinite vehemence. “I could bite you!”
-
-I could not help being amused, though I heard the old lady out with
-feelings of real concern. It was difficult to [[Doubt|doubt]] her with the
-father and son before me. What I might have thought of them without
-the old lady’s account, or what I might have thought of the old
-lady’s account without them, I cannot say. There was a fitness of
-things in the whole that carried conviction with it.

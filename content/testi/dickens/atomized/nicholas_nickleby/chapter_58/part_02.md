@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 58 (part 2)"
+title: "Nicholas Nickleby — Chapter 58 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,17 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_58/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_59/part_01">part 01 ›</a></div>
 </nav>
 
+
+It was on one of these occasions that a circumstance took place, which
+Nicholas, at the [[Time|time]], thoroughly believed to be the mere delusion of an
+[[Imagination|imagination]] affected by disease; but which he had, afterwards, too good
+reason to know was of real and actual occurrence.
+
+He had brought [[Smike]] out in his arms--poor fellow! a [[Child|child]] might have
+carried him then--to see the sunset, and, having arranged his couch, had
+taken his seat beside it. He had been watching the whole of the [[Night|night]]
+before, and being greatly fatigued both in mind and [[Body|body]], gradually fell
+asleep.
 
 He could not have closed his eyes five minutes, when he was awakened by
 a scream, and starting up in that kind of terror which affects a person

@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 61: I AM SHOWN TWO INTERESTING PENITENTS (part 3)"
+title: "David Copperfield — Chapter 61: I AM SHOWN TWO INTERESTING PENITENTS (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -134,6 +134,3 @@ that gentleman will take warning, sir, and will not be offended at my
 [[Freedom|freedom]]. It is for his good. I am conscious of my own past follies. I
 [[Hope|hope]] he may repent of all the wickedness and sin to which he has been a
 party.’
-
-I observed that several gentlemen were shading their eyes, each with one
-hand, as if they had just come into church.

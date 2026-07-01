@@ -1,5 +1,5 @@
 ---
-title: "[[innocence]] — The Sins of Prince Saradine"
+title: "innocence — The Sins of Prince Saradine"
 author: "Chesterton"
 unitType: story
 parentWork: "works/innocence-(chesterton)"

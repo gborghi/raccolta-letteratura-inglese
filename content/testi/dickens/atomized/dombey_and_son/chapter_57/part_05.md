@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 1 (part 5)"
+title: "Dombey and Son — Chapter 29 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,57 +14,74 @@ tags:
 </nav>
 
 
-“Fanny, my dear,” said Mrs Chick, with assumed lightness, “here’s Mr
-Dombey come to see you. Won’t you speak to him? They want to lay your
-little boy—the baby, Fanny, you know; you have hardly seen him yet, I
-think—in bed; but they can’t till you rouse yourself a little. Don’t
-you think it’s [[Time|time]] you roused yourself a little? Eh?”
+These words, delivered with cutting suavity, tempered and chastened by
+a lofty air of moral rectitude, carried the speaker to the door. There
+she inclined her head in a ghostly and statue-like manner, and so
+withdrew to her carriage, to seek comfort and consolation in the arms
+of Mr Chick, her lord.
 
-She bent her ear to the bed, and listened: at the same [[Time|time]] looking
-round at the bystanders, and holding up her finger.
+Figuratively speaking, that is to say; for the arms of Mr Chick were
+full of his newspaper. Neither did that gentleman address his eyes
+towards his wife otherwise than by stealth. Neither did he offer any
+consolation whatever. In short, he sat reading, and humming fag ends of
+tunes, and sometimes glancing furtively at her without delivering
+himself of a word, good, bad, or indifferent.
 
-“Eh?” she repeated, “what was it you said, Fanny? I didn’t hear you.”
+In the meantime Mrs Chick sat swelling and bridling, and tossing her
+head, as if she were still repeating that solemn formula of farewell to
+Lucretia Tox. At length, she said aloud, “Oh the extent to which her
+eyes had been opened that day!”
 
-No word or sound in answer. Mr Dombey’s watch and Dr Parker Peps’s
-watch seemed to be racing faster.
+“To which your eyes have been opened, my dear!” repeated Mr Chick.
 
-“Now, really, Fanny my dear,” said the sister-in-law, altering her
-position, and speaking less confidently, and more earnestly, in spite
-of herself, “I shall have to be quite [[Cross|cross]] with you, if you don’t
-rouse yourself. It’s necessary for you to make an effort, and perhaps a
-very great and painful effort which you are not disposed to make; but
-this is a world of effort you know, Fanny, and we must never yield,
-when so much depends upon us. Come! Try! I must really scold you if you
-don’t!”
+“Oh, don’t talk to me!” said Mrs Chic “if you can bear to see me in
+this state, and not ask me what the matter is, you had better hold your
+tongue for ever.”
 
-The race in the ensuing pause was fierce and furious. The watches
-seemed to jostle, and to trip each other up.
+“What is the matter, my dear?” asked Mr Chick
 
-“Fanny!” said Louisa, glancing round, with a gathering alarm. “Only
-look at me. Only open your eyes to show me that you hear and understand
-me; will you? Good Heaven, gentlemen, what is to be done!”
+“To think,” said Mrs Chick, in a state of soliloquy, “that she should
+ever have conceived the base idea of connecting herself with our family
+by a [[Marriage|marriage]] with Paul! To think that when she was playing at horses
+with that dear [[Child|child]] who is now in his [[Grave|grave]]—I never liked it at the
+[[Time|time]]—she should have been hiding such a [[Double|double]]-faced design! I [[Wonder|wonder]]
+she was never afraid that something would happen to her. She is
+fortunate if nothing does.”
 
-The two medical attendants exchanged a look across the bed; and the
-Physician, stooping down, whispered in the [[Child|child]]’s ear. Not having
-understood the purport of his whisper, the little creature turned her
-perfectly colourless face and deep dark eyes towards him; but without
-loosening her hold in the least.
+“I really thought, my dear,” said Mr Chick slowly, after rubbing the
+bridge of his nose for some [[Time|time]] with his newspaper, “that you had gone
+on the same tack yourself, all along, until this morning; and had
+thought it would be a convenient thing enough, if it could have been
+brought about.”
 
-The whisper was repeated.
+Mrs Chick instantly burst into [[Tears|tears]], and told Mr Chick that if he
+wished to trample upon her with his boots, he had better do It.
 
-“Mama!” said the [[Child|child]].
+“But with Lucretia Tox I have done,” said Mrs Chick, after abandoning
+herself to her feelings for some minutes, to Mr Chick’s great terror.
+“I can bear to resign Paul’s confidence in favour of one who, I [[Hope|hope]]
+and trust, may be deserving of it, and with whom he has a perfect right
+to replace poor Fanny if he chooses; I can bear to be informed, in
+Paul’s cool manner, of such a change in his plans, and never to be
+consulted until all is settled and determined; but deceit I can not
+bear, and with Lucretia Tox I have done. It is better as it is,” said
+Mrs Chick, piously; “much better. It would have been a long [[Time|time]] before
+I could have accommodated myself comfortably with her, after this; and
+I really don’t know, as Paul is going to be very grand, and these are
+people of condition, that she would have been quite presentable, and
+might not have compromised myself. There’s a [[Providence|providence]] in everything;
+everything works for the best; I have been tried today but on the whole
+I do not regret it.”
 
-The little voice, familiar and dearly loved, awakened some show of
-consciousness, even at that ebb. For a moment, the closed eye lids
-trembled, and the nostril quivered, and the faintest [[Shadow|shadow]] of a smile
-was seen.
+In which Christian spirit, Mrs Chick dried her eyes and smoothed her
+lap, and sat as became a person calm under a great wrong. Mr Chick
+feeling his unworthiness no [[Doubt|doubt]], took an early opportunity of being
+set down at a street corner and walking away whistling, with his
+shoulders very much raised, and his hands in his pockets.
 
-“Mama!” cried the [[Child|child]] sobbing aloud. “Oh dear Mama! oh dear Mama!”
-
-The Doctor gently brushed the scattered ringlets of the [[Child|child]], aside
-from the face and mouth of the mother. Alas how calm they lay there;
-how little breath there was to stir them!
-
-Thus, clinging fast to that slight spar within her arms, the mother
-drifted out upon the dark and unknown sea that rolls round all the
-world.
+While poor excommunicated Miss Tox, who, if she were a fawner and
+toad-eater, was at least an honest and a constant one, and had ever
+borne a faithful [[Friendship|friendship]] towards her impeacher and had been truly
+absorbed and swallowed up in devotion to the magnificence of Mr
+Dombey—while poor excommunicated Miss Tox watered her plants with her
+[[Tears|tears]], and felt that it was [[Winter|winter]] in Princess’s Place.

@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 13: THIRTEEN (part 3)"
+title: "Martin Chuzzlewit — Chapter 13: THIRTEEN (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,23 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_13_thirteen/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_13_thirteen/part_04">part 04 ›</a></div>
 </nav>
 
+
+‘What do you mean?’ asked Martin, with some scorn.
+
+‘What do I mean?’ said Bill. ‘Why, THAT. All men are alike in the
+U-nited States, an’t they? It makes no odds whether a man has a thousand
+pound, or nothing, there. Particular in [[New York]], I’m told, where Ned
+landed.’
+
+‘[[New York]], was it?’ asked Martin, thoughtfully.
+
+‘Yes,’ said Bill. ‘[[New York]]. I know that, because he sent word [[Home|home]] that
+it brought Old York to his mind, quite vivid, in consequence of being so
+exactly unlike it in every respect. I don’t understand what particular
+business Ned turned his mind to, when he got there; but he wrote [[Home|home]]
+that him and his friends was always a-singing, Ale Columbia, and blowing
+up the President, so I suppose it was something in the public line; or
+free-and-easy way again. Anyhow, he made his fortune.’
 
 ‘No!’ cried Martin.
 
@@ -105,34 +122,3 @@ nibbing his pen upon the counter.
 here. Ha, ha! Not bad! Make it two-and-six, my dear friend, positively
 for this occasion only. Half-a-[[Crown|crown]] is a delightful coin. Two-and-six.
 Going at two-and-six! For the last [[Time|time]] at two-and-six!’
-
-‘It’ll never be the last [[Time|time]] till it’s quite worn out,’ rejoined the
-shopman. ‘It’s grown yellow in the service as it is.’
-
-‘Its master has grown yellow in the service, if you mean that, my
-friend,’ said Mr Tigg; ‘in the patriotic service of an ungrateful
-country. You are making it two-and-six, I think?’
-
-‘I’m making it,’ returned the shopman, ‘what it always has been--two
-shillings. Same name as usual, I suppose?’
-
-‘Still the same name,’ said Mr Tigg; ‘my claim to the dormant peerage
-not being yet established by the [[house|House]] of Lords.’
-
-‘The old address?’
-
-‘Not at all,’ said Mr Tigg; ‘I have removed my town establishment from
-thirty-eight, Mayfair, to number fifteen-hundred-and-forty-two, Park
-Lane.’
-
-‘Come, I’m not going to put down that, you know,’ said the shopman with
-a grin.
-
-‘You may put down what you please, my friend,’ quoth Mr Tigg. ‘The fact
-is still the same. The apartments for the under-butler and the fifth
-footman being of a most confounded low and vulgar kind at thirty-eight,
-Mayfair, I have been compelled, in my regard for the feelings which do
-them so much [[Honour|honour]], to take on lease for seven, fourteen, or twenty-one
-years, renewable at the option of the tenant, the elegant and commodious
-family mansion, number fifteen-hundred-and-forty-two Park Lane. Make it
-two-and-six, and come and see me!’

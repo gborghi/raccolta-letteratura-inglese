@@ -62,7 +62,7 @@ two-pronged forks further down their throats than I ever saw the same
 weapons go before, except in the hands of a skilful juggler: but no man
 sat down until the ladies were seated; or omitted any little act of
 politeness which could contribute to their comfort.  Nor did I ever once,
-on any occasion, anywhere, during my rambles in [[America]], see a woman
+on any occasion, anywhere, during my rambles in [[america|America]], see a woman
 exposed to the slightest act of rudeness, incivility, or even
 inattention.
 
@@ -115,22 +115,3 @@ were already abed, behind the red curtain, which was carefully drawn and
 pinned up the centre; though as every cough, or sneeze, or whisper,
 behind this curtain, was perfectly audible before it, we had still a
 lively consciousness of their society.
-
-The politeness of the person in authority had secured to me a shelf in a
-nook near this red curtain, in some degree removed from the great [[Body|body]] of
-sleepers: to which place I retired, with many acknowledgments to him for
-his attention.  I found it, on after-measurement, just the width of an
-ordinary sheet of Bath post letter-paper; and I was at first in some
-uncertainty as to the best means of getting into it.  But the shelf being
-a [[Bottom|bottom]] one, I finally determined on lying upon the floor, [[rolling]]
-gently in, stopping immediately I touched the mattress, and remaining for
-the [[Night|night]] with that side uppermost, whatever it might be.  Luckily, I
-came upon my back at exactly the right moment.  I was much alarmed on
-looking upward, to see, by the shape of his half-yard of sacking (which
-his weight had bent into an exceedingly tight bag), that there was a very
-heavy gentleman above me, whom the slender cords seemed quite incapable
-of holding; and I could not help reflecting upon the grief of my wife and
-family in the event of his coming down in the [[Night|night]].  But as I could not
-have got up again without a severe bodily struggle, which might have
-alarmed the ladies; and as I had nowhere to go to, even if I had; I shut
-my eyes upon the danger, and remained there.

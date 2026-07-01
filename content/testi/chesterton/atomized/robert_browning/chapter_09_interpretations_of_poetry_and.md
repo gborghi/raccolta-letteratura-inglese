@@ -271,7 +271,7 @@ There are some people who think that it must be immoral to admit that
 there are any doubtful cases of [[morality]], as if a man should refrain
 from discussing the precise boundary at the upper end of the Isthmus
 of Panama, for [[Fear|fear]] the inquiry should shake his belief in the
-existence of North [[America]]. People of this kind quite consistently
+existence of North [[america|America]]. People of this kind quite consistently
 think Sludge to be merely a scoundrel talking nonsense. It may be
 remembered that they thought the same thing of Newman. It is actually
 supposed, apparently in the current use of words, that casuistry is
@@ -721,7 +721,7 @@ Church in [[Italy]], The, 88.
 
 "Clive," 127.
 
-Clough, [[arthur|Arthur]] Hugh, 56.
+Clough, [[Arthur]] Hugh, 56.
 
 _Colombe's Birthday_, 32.
 

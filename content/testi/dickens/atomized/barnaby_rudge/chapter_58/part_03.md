@@ -1,5 +1,5 @@
 ---
-title: "[[Barnaby Rudge]] — Chapter 58 (part 3)"
+title: "Barnaby Rudge — Chapter 58 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/barnaby-rudge-(dickens)"
@@ -13,6 +13,20 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_58/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_59/part_01">part 01 ›</a></div>
 </nav>
 
+
+After some [[Time|time]], they came and unlocked the door, and called to him to
+come out. He [[Rose|rose]] directly, and complied, for he would not have THEM
+think he was subdued or frightened. He walked out like a man, and looked
+from face to face.
+
+None of them returned his gaze or seemed to notice it. They marched
+him back to the parade by the way they had brought him, and there they
+halted, among a [[Body|body]] of soldiers, at least twice as numerous as that
+which had taken him prisoner in the afternoon. The officer he had seen
+before, bade him in a few brief words take notice that if he attempted
+to escape, no matter how favourable a chance he might suppose he had,
+certain of the men had orders to [[Fire|fire]] upon him, that moment. They then
+closed round him as before, and marched him off again.
 
 In the same unbroken order they arrived at Bow Street, followed and
 beset on all sides by a crowd which was continually increasing. Here

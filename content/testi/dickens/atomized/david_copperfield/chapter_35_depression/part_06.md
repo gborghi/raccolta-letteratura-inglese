@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 35: DEPRESSION (part 6)"
+title: "David Copperfield — Chapter 35: DEPRESSION (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,32 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_35_depression/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_35_depression/part_07">part 07 ›</a></div>
 </nav>
 
+
+My aunt concluded this philosophical summary, by fixing her eyes with a
+kind of triumph on Agnes, whose colour was gradually returning.
+
+‘Dear Miss Trotwood, is that all the [[history]]?’ said Agnes.
+
+‘I [[Hope|hope]] it’s enough, [[Child|child]],’ said my aunt. ‘If there had been more
+money to lose, it wouldn’t have been all, I dare say. Betsey would have
+contrived to throw that after the rest, and make another chapter, I have
+little [[Doubt|doubt]]. But there was no more money, and there’s no more story.’
+
+Agnes had listened at first with suspended breath. Her colour still came
+and went, but she breathed more freely. I thought I knew why. I thought
+she had had some [[Fear|fear]] that her unhappy father might be in some way to
+blame for what had happened. My aunt took her hand in hers, and laughed.
+
+‘Is that all?’ repeated my aunt. ‘Why, yes, that’s all, except, “And she
+lived happy ever afterwards.” Perhaps I may add that of Betsey yet, one
+of these days. Now, Agnes, you have a wise head. So have you, Trot, in
+some things, though I can’t compliment you always’; and here my aunt
+shook her own at me, with an energy peculiar to herself. ‘What’s to be
+done? Here’s the cottage, taking one [[Time|time]] with another, will produce
+say seventy pounds a year. I think we may safely put it down at
+that. [[Well]]!--That’s all we’ve got,’ said my aunt; with whom it was an
+idiosyncrasy, as it is with some horses, to stop very short when she
+appeared to be in a fair way of going on for a long while.
 
 ‘Then,’ said my aunt, after a rest, ‘there’s Dick. He’s good for a
 hundred a-year, but of course that must be expended on himself. I would
@@ -98,34 +124,3 @@ bore a prominent part, was being effected in every corner of my rooms,
 in regard of this pepper; and I was looking on, thinking how little even
 Peggotty seemed to do with a good deal of bustle, and how much Agnes did
 without any bustle at all, when a knock came at the door.
-
-‘I think,’ said Agnes, turning pale, ‘it’s papa. He promised me that he
-would come.’
-
-I opened the door, and admitted, not only Mr. Wickfield, but [[Uriah Heep]].
-I had not seen Mr. Wickfield for some [[Time|time]]. I was prepared for a great
-change in him, after what I had heard from Agnes, but his appearance
-shocked me.
-
-It was not that he looked many years older, though still dressed
-with the old scrupulous cleanliness; or that there was an unwholesome
-ruddiness upon his face; or that his eyes were full and bloodshot; or
-that there was a nervous trembling in his hand, the cause of which I
-knew, and had for some years seen at work. It was not that he had lost
-his good looks, or his old bearing of a gentleman--for that he had
-not--but the thing that struck me most, was, that with the evidences of
-his native superiority still upon him, he should submit himself to that
-crawling impersonation of meanness, [[Uriah Heep]]. The reversal of the
-two natures, in their relative positions, Uriah’s of power and Mr.
-Wickfield’s of dependence, was a sight more painful to me than I can
-express. If I had seen an Ape taking command of a Man, I should hardly
-have thought it a more degrading spectacle.
-
-He appeared to be only too conscious of it himself. When he came in, he
-stood still; and with his head bowed, as if he felt it. This was
-only for a moment; for Agnes softly said to him, ‘Papa! Here is Miss
-Trotwood--and Trotwood, whom you have not seen for a long while!’ and
-then he approached, and constrainedly gave my aunt his hand, and shook
-hands more cordially with me. In the moment’s pause I speak of, I saw
-Uriah’s countenance form itself into a most ill-favoured smile. Agnes
-saw it too, I think, for she shrank from him.

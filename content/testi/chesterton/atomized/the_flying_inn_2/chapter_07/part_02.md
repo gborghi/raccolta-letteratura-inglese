@@ -14,6 +14,11 @@ tags:
 </nav>
 
 
+The sunset stillness settled down again, save for the
+cropping of the [[donkey]] in the undergrowth; and
+Pump said nothing sympathetically; and it was
+Dalroy once more who took up his [[Parable|parable]].
+
 "So I think there's too much of this playing on our
 emotions, Hump; as this place is certainly playing the
 cat and banjo with mine.  Damn it all, there are other
@@ -141,16 +146,3 @@ Pump unaccountably produced from his waistcoat
 pocket; but Patrick's colour had risen, his brow was
 almost as red as his hair; and he was evidently
 reluctant.
-
-"I don't see why I should sing all the [[songs]]," he
-said.  "Why the divil don't you sing a [[Song|song]]
-yourself?  And now I come to think of it," he cried, with
-an accumulating brogue, not, perhaps, wholly
-unaffected by the rum, which he had not, in fact, drunk
-for years, "and now I come to think of it, what about
-that [[Song|song]] of yours?  All me youth's coming back in this
-blest and cursed place; and I remember that [[Song|song]] of
-yours, that never existed nor ever will.  Don't ye
-remember now, Humphrey Pump, that [[Night|night]] when I
-sang ye no less than seventeen [[songs]] of me own
-composition?"

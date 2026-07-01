@@ -132,15 +132,3 @@ The old man answered by a forced smile, and was plainly struggling with
 a feeling of the keenest and most exquisite impatience.  It was not
 lost upon Quilp, who delighted in torturing him, or indeed anybody
 else, when he could.
-
-‘She’s so,’ said Quilp, speaking very slowly, and feigning to be quite
-absorbed in the subject, ‘so small, so compact, so beautifully
-modelled, so fair, with such blue veins and such a transparent skin,
-and such little feet, and such winning ways--but bless me, you’re
-nervous!  Why neighbour, what’s the matter?  I swear to you,’ continued
-the [[Dwarf|dwarf]] dismounting from the chair and sitting down in it, with a
-careful slowness of gesture very different from the rapidity with which
-he had sprung up unheard, ‘I swear to you that I had no idea old [[Blood|blood]]
-ran so fast or kept so warm.  I thought it was sluggish in its course,
-and cool, quite cool.  I am pretty sure it ought to be.  Yours must be
-out of order, neighbour.’

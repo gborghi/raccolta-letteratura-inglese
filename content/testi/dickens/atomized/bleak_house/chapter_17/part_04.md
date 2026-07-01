@@ -1,5 +1,5 @@
 ---
-title: "Bleak [[house|House]] — Chapter 17 (part 4)"
+title: "Bleak House — Chapter 17 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/bleak-house-(dickens)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_17/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_17/part_05">part 05 ›</a></div>
 </nav>
 
+
+Ada praised [[Richard]] more to me that [[Night|night]] than ever she had praised
+him yet. She went to [[Sleep|sleep]] with a little bracelet he had given her
+clasped upon her arm. I fancied she was dreaming of him when I kissed
+her cheek after she had slept an hour and saw how tranquil and happy
+she looked.
+
+For I was so little inclined to [[Sleep|sleep]] myself that [[Night|night]] that I sat up
+working. It would not be worth mentioning for its own sake, but I was
+wakeful and rather low-spirited. I don’t know why. At least I don’t
+think I know why. At least, perhaps I do, but I don’t think it
+matters.
 
 At any rate, I made up my mind to be so dreadfully industrious that I
 would leave myself not a moment’s leisure to be low-spirited. For I
@@ -120,22 +132,3 @@ distorted religion which clouded her mind with impressions of the
 need there was for the [[Child|child]] to expiate an offence of which she was
 quite [[Innocent|innocent]]. I felt concerned for the little creature, in her
 darkened life, and replied to the letter.”
-
-I took his hand and kissed it.
-
-“It laid the injunction on me that I should never propose to see the
-writer, who had long been estranged from all intercourse with the
-world, but who would see a confidential agent if I would appoint one.
-I accredited Mr. Kenge. The lady said, of her own accord and not of
-his seeking, that her name was an assumed one. That she was, if there
-were any ties of [[Blood|blood]] in such a case, the [[Child|child]]’s aunt. That more
-than this she would never (and he was [[Well|well]] persuaded of the
-steadfastness of her resolution) for any human consideration
-disclose. My dear, I have told you all.”
-
-I held his hand for a little while in mine.
-
-“I saw my ward oftener than she saw me,” he added, cheerily making
-light of it, “and I always knew she was beloved, useful, and happy.
-She repays me twenty-thousandfold, and twenty more to that, every
-hour in every day!”

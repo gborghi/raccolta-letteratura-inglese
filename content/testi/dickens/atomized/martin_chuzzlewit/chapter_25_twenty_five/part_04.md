@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 25: TWENTY FIVE (part 4)"
+title: "Martin Chuzzlewit — Chapter 25: TWENTY FIVE (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_25_twenty_five/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_25_twenty_five/part_05">part 05 ›</a></div>
 </nav>
 
+
+As she turned into the yard, she stopped; for the landlord, landlady,
+and head chambermaid, were all on the threshold together talking
+earnestly with a young gentleman who seemed to have just come or to
+be just going away. The first words that struck upon Mrs Gamp’s ear
+obviously bore reference to the patient; and it being expedient that all
+good attendants should know as much as possible about the case on which
+their skill is brought to bear, Mrs Gamp listened as a matter of duty.
 
 ‘No better, then?’ observed the gentleman.
 
@@ -141,15 +149,3 @@ of the gallery. Having thus performed the hospitable duty of seeing her
 safely off, she shut it, locked it on the inside, took up her bundle,
 walked round the screen, and entered on her occupation of the sick
 chamber.
-
-‘A little dull, but not so bad as might be,’ Mrs Gamp remarked.
-‘I’m glad to see a parapidge, in case of [[Fire|fire]], and lots of roofs and
-chimley-pots to walk upon.’
-
-It will be seen from these remarks that Mrs Gamp was looking out of
-[[Window|window]]. When she had exhausted the prospect, she tried the easy-chair,
-which she indignantly declared was ‘harder than a brickbadge.’ Next
-she pursued her researches among the physic-bottles, glasses, jugs, and
-tea-cups; and when she had entirely satisfied her curiosity on all these
-subjects of investigation, she untied her bonnet-strings and strolled up
-to the bedside to take a look at the patient.

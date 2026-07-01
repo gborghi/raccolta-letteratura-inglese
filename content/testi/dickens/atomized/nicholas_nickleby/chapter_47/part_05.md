@@ -1,5 +1,5 @@
 ---
-title: "[[Nicholas Nickleby]] — Chapter 47 (part 5)"
+title: "Nicholas Nickleby — Chapter 47 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/nicholas-nickleby-(dickens)"
@@ -13,6 +13,29 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_47/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_47/part_06">part 06 ›</a></div>
 </nav>
 
+
+With these reflections, and a very hard knock on the [[Crown|crown]] of his
+unfortunate hat at each repetition of the last word, [[Newman Noggs]],
+whose brain was a little muddled by so much of the contents of
+the pocket-[[Pistol|pistol]] as had found their way there during his recent
+concealment, went forth to seek such consolation as might be derivable
+from the beef and greens of some cheap eating-[[house]].
+
+Meanwhile the two plotters had betaken themselves to the same [[house]]
+whither Nicholas had repaired for the first [[Time|time]] but a few mornings
+before, and having obtained access to Mr. Bray, and found his daughter
+from [[Home|home]], had by a train of the most masterly approaches that Ralph’s
+utmost skill could frame, at length laid open the real object of their
+visit.
+
+‘There he sits, Mr. Bray,’ said Ralph, as the invalid, not yet recovered
+from his surprise, reclined in his chair, looking alternately at him
+and [[arthur|Arthur]] Gride. ‘What if he has had the ill-fortune to be one cause
+of your detention in this place? I have been another; men must live; you
+are too much a man of the world not to see that in its true light. We
+offer the best reparation in our power. Reparation! Here is an offer
+of [[Marriage|marriage]], that many a titled father would leap at, for his [[Child|child]]. Mr
+[[arthur|Arthur]] Gride, with the fortune of a prince. Think what a haul it is!’
 
 ‘My daughter, sir,’ returned Bray, haughtily, ‘as I have brought her
 up, would be a rich recompense for the largest fortune that a man could
@@ -99,30 +122,3 @@ chance of being? If you died, indeed, the people you hate would make her
 happy. But can you bear the thought of that?’
 
 ‘No!’ returned Bray, urged by a vindictive impulse he could not repress.
-
-‘I should imagine not, indeed!’ said Ralph, quietly. ‘If she profits
-by anybody’s [[Death|death]],’ this was said in a lower tone, ‘let it be by her
-husband’s. Don’t let her have to look back to yours, as the event from
-which to date a happier life. Where is the objection? Let me hear it
-stated. What is it? That her suitor is an old man? Why, how often do men
-of family and fortune, who haven’t your excuse, but have all the means
-and superfluities of life within their reach, how often do they marry
-their daughters to old men, or (worse still) to young men without heads
-or hearts, to tickle some idle [[Vanity|vanity]], strengthen some family interest,
-or secure some seat in Parliament! Judge for her, sir, judge for her.
-You must know best, and she will live to thank you.’
-
-‘Hush! hush!’ cried Mr. Bray, suddenly starting up, and covering Ralph’s
-mouth with his trembling hand. ‘I hear her at the door!’
-
-There was a gleam of [[Conscience|conscience]] in the shame and terror of this hasty
-action, which, in one short moment, tore the thin covering of sophistry
-from the cruel design, and laid it bare in all its meanness and
-heartless deformity. The father fell into his chair pale and trembling;
-[[arthur|Arthur]] Gride plucked and fumbled at his hat, and durst not raise his
-eyes from the floor; even Ralph crouched for the moment like a beaten
-hound, cowed by the presence of one young [[Innocent|innocent]] girl!
-
-The effect was almost as brief as sudden. Ralph was the first to recover
-himself, and observing [[Madeline]]’s looks of alarm, entreated the poor
-girl to be composed, assuring her that there was no cause for [[Fear|fear]].

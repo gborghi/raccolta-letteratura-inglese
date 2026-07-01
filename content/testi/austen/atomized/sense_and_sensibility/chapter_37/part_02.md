@@ -1,5 +1,5 @@
 ---
-title: "[[Sense and Sensibility]] — Chapter 37 (part 2)"
+title: "Sense and Sensibility — Chapter 37 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "works/sense-and-sensibility-(austen)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_37/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_37/part_03">part 03 ›</a></div>
 </nav>
 
+
+am sure Mrs. Ferrars may afford to do very [[Well|well]] by her son, and though
+
+Lucy has next to nothing herself, she knows better than any [[Body|body]] how to
+
+make the most of every thing; I dare say, if Mrs. Ferrars would only
+
+allow him five hundred a-year, she would make as good an appearance
 
 with it as any [[Body|body]] else would with eight. Lord! how snug they might
 
@@ -223,15 +231,3 @@ my trust, I never could have convinced you.”
 “Yes. But I did not [[Love|love]] only him; and while the comfort of others was
 
 dear to me, I was glad to spare them from knowing how much I felt. Now,
-
-I can think and speak of it with little emotion. I would not have you
-
-suffer on my account; for I assure you I no longer suffer materially
-
-myself. I have many things to support me. I am not conscious of having
-
-provoked the disappointment by any imprudence of my own, I have borne
-
-it as much as possible without spreading it farther. I acquit Edward of
-
-essential misconduct. I wish him very happy; and I am so sure of his

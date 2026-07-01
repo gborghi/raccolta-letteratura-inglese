@@ -16,13 +16,7 @@ tags:
 
 CHAPTER III
 
-
-
 THE GREAT VICTORIAN POETS
-
-
-
-
 
 What was really unsatisfactory in Victorian literature is something much
 
@@ -146,8 +140,6 @@ must be (to use an Irishism) something shallow in the depths of any man
 
 who talks about the _Zeitgeist_ as if it were a living thing.
 
-
-
 But this defect is very specially the key to the case of the two great
 
 Victorian poets, Tennyson and Browning; the two spirited or beautiful
@@ -191,5 +183,3 @@ not have gone pottering about Helvellyn in search of purity and the
 simple annals of the poor. But Tennyson did sincerely believe in the
 
 Victorian compromise; and sincerity is never undignified. He really did
-
-hold a great many of the same views as [[Queen]] Victoria, though he was

@@ -14,6 +14,8 @@ tags:
 </nav>
 
 
+      not attempt to describe my feelings of rage (for I believe I was
+
       more angry than any thing else) when the egregious oversight I
 
       had committed flashed suddenly upon my perception. The blunder
@@ -189,7 +191,3 @@ tags:
       to read, however, had cut me off from these final resources, and
 
       I now, for the first [[Time|time]], felt all the misery of my fate. In a
-
-      paroxysm of [[Despair|despair]] I threw myself again upon the mattress,
-
-      where, for about the period of a day and [[Night|night]], I lay in a kind

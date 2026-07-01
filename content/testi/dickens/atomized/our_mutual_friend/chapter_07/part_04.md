@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 2 (part 4)"
+title: "Our Mutual Friend — Chapter 3 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -10,150 +10,147 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_07/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_08/part_01">part 01 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_07/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_07/part_05">part 05 ›</a></div>
 </nav>
 
 
-Here, the Analytical Chemist (who has evidently formed a very low
-opinion of Mortimer’s story) concedes a little claret to the Buffers;
-who, again mysteriously moved all four at once, screw it slowly into
-themselves with a peculiar twist of enjoyment, as they cry in [[Chorus|chorus]],
-‘Pray go on.’
+‘At least,’ said Mr Inspector, with no change of voice or manner, ‘you
+will not object to write down your name and address?’
 
-‘The pecuniary resources of Another were, as they usually are, of a very
-limited [[Nature|nature]]. I believe I am not using too strong an expression when
-I say that Another was hard up. However, he married the young lady, and
-they lived in a humble dwelling, probably possessing a porch ornamented
-with honeysuckle and woodbine twining, until she died. I must refer
-you to the Registrar of the District in which the humble dwelling was
-situated, for the certified cause of [[Death|death]]; but early sorrow and anxiety
-may have had to do with it, though they may not appear in the ruled
-pages and printed forms. Indisputably this was the case with Another,
-for he was so cut up by the loss of his young wife that if he outlived
-her a year it was as much as he did.’
+‘Not at all.’
 
-There is that in the indolent Mortimer, which seems to hint that if good
-society might on any account allow itself to be impressible, he, one of
-good society, might have the weakness to be impressed by what he here
-relates. It is hidden with great pains, but it is in him. The gloomy
-Eugene too, is not without some kindred touch; for, when that appalling
-Lady Tippins declares that if Another had survived, he should have gone
-down at the head of her list of [[lovers]]—and also when the mature young
-lady shrugs her epaulettes, and laughs at some private and confidential
-comment from the mature young gentleman—his gloom deepens to that
-degree that he trifles quite ferociously with his dessert-knife.
+Mr Inspector dipped a pen in his inkstand, and deftly laid it on a
+piece of paper close beside him; then resumed his former attitude.
+The stranger stepped up to the desk, and wrote in a rather tremulous
+hand—Mr Inspector taking sidelong note of every hair of his head when
+it was bent down for the purpose—‘Mr Julius Handford, Exchequer Coffee
+[[house|House]], Palace Yard, Westminster.’
 
-Mortimer proceeds.
+‘Staying there, I presume, sir?’
 
-‘We must now return, as novelists say, and as we all wish they wouldn’t,
-to the man from Somewhere. Being a boy of fourteen, cheaply educated
-at Brussels when his sister’s expulsion befell, it was some little [[Time|time]]
-before he heard of it—probably from herself, for the mother was dead;
-but that I don’t know. Instantly, he absconded, and came over here. He
-must have been a boy of spirit and resource, to get here on a stopped
-allowance of five sous a week; but he did it somehow, and he burst in
-on his father, and pleaded his sister’s cause. Venerable parent promptly
-resorts to anathematization, and turns him out. Shocked and terrified
-boy takes flight, seeks his fortune, gets aboard [[Ship|ship]], ultimately
-turns up on dry land among the Cape wine: small proprietor, farmer,
-grower—whatever you like to call it.’
+‘Staying there.’
 
-At this juncture, shuffling is heard in the hall, and tapping is heard
-at the dining-room door. Analytical Chemist goes to the door, confers
-angrily with unseen tapper, appears to become mollified by descrying
-reason in the tapping, and goes out.
+‘Consequently, from the country?’
 
-‘So he was discovered, only the other day, after having been expatriated
-about fourteen years.’
+‘Eh? Yes—from the country.’
 
-A Buffer, suddenly astounding the other three, by detaching himself, and
-asserting individuality, inquires: ‘How discovered, and why?’
+‘Good-[[Night|night]], sir.’
 
-‘Ah! To be sure. Thank you for reminding me. Venerable parent dies.’
+The satellite removed his arm and opened the wicket, and Mr Julius
+Handford went out.
 
-Same Buffer, emboldened by [[success]], says: ‘When?’
+‘Reserve!’ said Mr Inspector. ‘Take care of this piece of paper, keep
+him in view without giving offence, ascertain that he IS staying there,
+and find out anything you can about him.’
 
-‘The other day. Ten or twelve months ago.’
+The satellite was gone; and Mr Inspector, becoming once again the quiet
+Abbot of that Monastery, dipped his pen in his ink and resumed
+his books. The two friends who had watched him, more amused by the
+professional manner than suspicious of Mr Julius Handford, inquired
+before taking their departure too whether he believed there was anything
+that really looked bad here?
 
-Same Buffer inquires with smartness, ‘What of?’ But herein perishes a
-[[Melancholy|melancholy]] example; being regarded by the three other Buffers with a
-stony stare, and attracting no further attention from any mortal.
+The Abbot replied with reticence, couldn’t say. If a murder, anybody
+might have done it. Burglary or pocket-picking wanted ’prenticeship. Not
+so, murder. We were all of us up to that. Had seen scores of people come
+to identify, and never saw one person struck in that particular way.
+Might, however, have been Stomach and not Mind. If so, rum stomach.
+But to be sure there were rum everythings. Pity there was not a word
+of [[Truth|truth]] in that superstition about bodies bleeding when touched by the
+hand of the right person; you never got a sign out of bodies. You got
+row enough out of such as her—she was good for all [[Night|night]] now (referring
+here to the banging demands for the liver), ‘but you got nothing out of
+bodies if it was ever so.’
 
-‘Venerable parent,’ Mortimer repeats with a passing remembrance that
-there is a Veneering at table, and for the first [[Time|time]] addressing
-him—‘dies.’
+There being nothing more to be done until the Inquest was held next day,
+the friends went away together, and Gaffer Hexam and his son went their
+separate way. But, arriving at the last corner, Gaffer bade his boy go
+[[Home|home]] while he turned into a red-curtained tavern, that stood dropsically
+bulging over the causeway, ‘for a half-a-pint.’
 
-The gratified Veneering repeats, gravely, ‘dies’; and folds his arms,
-and composes his brow to hear it out in a judicial manner, when he finds
-himself again deserted in the bleak world.
+The boy lifted the latch he had lifted before, and found his sister
+again seated before the [[Fire|fire]] at her work. Who raised her head upon his
+coming in and asking:
 
-‘His will is found,’ said Mortimer, catching Mrs Podsnap’s
-rocking-[[Horse|horse]]’s eye. ‘It is dated very soon after the son’s flight. It
-[[Leaves|leaves]] the lowest of the range of [[Dust|dust]]-[[Mountains|mountains]], with some sort of a
-dwelling-[[house]] at its foot, to an old servant who is sole executor, and
-all the rest of the property—which is very considerable—to the son.
-He directs himself to be buried with certain eccentric ceremonies and
-precautions against his coming to life, with which I need not bore you,
-and that’s all—except—’ and this ends the story.
+‘Where did you go, Liz?’
 
-The Analytical Chemist returning, everybody looks at him. Not because
-anybody wants to see him, but because of that subtle influence in [[Nature|nature]]
-which impels humanity to embrace the slightest opportunity of looking at
-anything, rather than the person who addresses it.
+‘I went out in the dark.’
 
-‘—Except that the son’s inheriting is made conditional on his marrying
-a girl, who at the date of the will, was a [[Child|child]] of four or five years
-old, and who is now a marriageable young woman. Advertisement and
-inquiry discovered the son in the man from Somewhere, and at the present
-moment, he is on his way [[Home|home]] from there—no [[Doubt|doubt]], in a state of great
-astonishment—to succeed to a very large fortune, and to take a wife.’
+‘There was no necessity for that. It was all right enough.’
 
-Mrs Podsnap inquires whether the young person is a young person of
-personal charms? Mortimer is unable to report.
+‘One of the gentlemen, the one who didn’t speak while I was there,
+looked hard at me. And I was afraid he might know what my face meant.
+But there! Don’t mind me, Charley! I was all in a tremble of another
+sort when you owned to father you could write a little.’
 
-Mr Podsnap inquires what would become of the very large fortune, in the
-event of the [[Marriage|marriage]] condition not being fulfilled? Mortimer replies,
-that by special testamentary clause it would then go to the old servant
-above mentioned, passing over and excluding the son; also, that if
-the son had not been living, the same old servant would have been sole
-residuary legatee.
+‘Ah! But I made believe I wrote so badly, as that it was odds if any one
+could read it. And when I wrote slowest and smeared but with my finger
+most, father was best pleased, as he stood looking over me.’
 
-Mrs Veneering has just succeeded in waking Lady Tippins from a snore, by
-dexterously shunting a train of plates and dishes at her knuckles across
-the table; when everybody but Mortimer himself becomes aware that the
-Analytical Chemist is, in a ghostly manner, offering him a folded paper.
-Curiosity detains Mrs Veneering a few moments.
+The girl put aside her work, and drawing her seat close to his seat by
+the [[Fire|fire]], laid her arm gently on his shoulder.
 
-Mortimer, in spite of all the arts of the chemist, placidly refreshes
-himself with a glass of Madeira, and remains unconscious of the Document
-which engrosses the general attention, until Lady Tippins (who has a
-habit of waking totally insensible), having remembered where she is, and
-recovered a perception of surrounding objects, says: ‘Falser man than
-Don Juan; why don’t you take the note from the commendatore?’ Upon
-which, the chemist advances it under the nose of Mortimer, who looks
-round at him, and says:
+‘You’ll make the most of your [[Time|time]], Charley; won’t you?’
 
-‘What’s this?’
+‘Won’t I? Come! I like that. Don’t I?’
 
-Analytical Chemist bends and whispers.
+‘Yes, Charley, yes. You work hard at your learning, I know. And I work
+a little, Charley, and plan and contrive a little (wake out of my
+[[Sleep|sleep]] contriving sometimes), how to get together a shilling now, and a
+shilling then, that shall make father believe you are beginning to earn
+a stray living along shore.’
 
-‘WHO?’ says Mortimer.
+‘You are father’s favourite, and can make him believe anything.’
 
-Analytical Chemist again bends and whispers.
+‘I wish I could, Charley! For if I could make him believe that learning
+was a good thing, and that we might lead better lives, I should be
+a’most content to die.’
 
-Mortimer stares at him, and unfolds the paper. Reads it, reads it twice,
-turns it over to look at the blank outside, reads it a third [[Time|time]].
+‘Don’t talk stuff about dying, Liz.’
 
-‘This arrives in an extraordinarily opportune manner,’ says Mortimer
-then, looking with an altered face round the table: ‘this is the
-conclusion of the story of the identical man.’
+She placed her hands in one another on his shoulder, and laying her
+rich brown cheek against them as she looked down at the [[Fire|fire]], went on
+thoughtfully:
 
-‘Already married?’ one guesses.
+‘Of an evening, Charley, when you are at the school, and father’s—’
 
-‘Declines to marry?’ another guesses.
+‘At the Six Jolly Fellowship Porters,’ the boy struck in, with a
+backward nod of his head towards the public-[[house]].
 
-‘Codicil among the [[Dust|dust]]?’ another guesses.
+‘Yes. Then as I sit a-looking at the [[Fire|fire]], I seem to see in the burning
+coal—like where that glow is now—’
 
-‘Why, no,’ says Mortimer; ‘remarkable thing, you are all wrong. The
-story is completer and rather more exciting than I supposed. Man’s
-drowned!’
+‘That’s gas, that is,’ said the boy, ‘coming out of a bit of a forest
+that’s been under the mud that was under the [[Water|water]] in the days of Noah’s
+Ark. Look here! When I take the poker—so—and give it a dig—’
+
+‘Don’t disturb it, Charley, or it’ll be all in a blaze. It’s that dull
+glow near it, coming and going, that I mean. When I look at it of an
+evening, it comes like pictures to me, Charley.’
+
+‘Show us a picture,’ said the boy. ‘Tell us where to look.’
+
+‘Ah! It wants my eyes, Charley.’
+
+‘Cut away then, and tell us what your eyes make of it.’
+
+‘Why, there are you and me, Charley, when you were quite a baby that
+never knew a mother—’
+
+‘Don’t go saying I never knew a mother,’ interposed the boy, ‘for I knew
+a little sister that was sister and mother both.’
+
+The girl laughed delightedly, and her eyes filled with pleasant [[Tears|tears]],
+as he put both his arms round her waist and so held her.
+
+‘There are you and me, Charley, when father was away at work and locked
+us out, for [[Fear|fear]] we should set ourselves afire or fall out of [[Window|window]],
+sitting on the door-sill, sitting on other door-steps, sitting on the
+bank of the [[River|river]], wandering about to get through the [[Time|time]]. You
+are rather heavy to carry, Charley, and I am often obliged to rest.
+Sometimes we are sleepy and fall asleep together in a corner, sometimes
+we are very hungry, sometimes we are a little frightened, but what is
+oftenest hard upon us is the cold. You remember, Charley?’
+
+‘I remember,’ said the boy, pressing her to him twice or thrice, ‘that I
+snuggled under a little shawl, and it was warm there.’

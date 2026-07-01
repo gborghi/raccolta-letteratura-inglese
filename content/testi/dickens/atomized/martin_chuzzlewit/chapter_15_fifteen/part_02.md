@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 15: FIFTEEN (part 2)"
+title: "Martin Chuzzlewit — Chapter 15: FIFTEEN (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,14 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_15_fifteen/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_15_fifteen/part_03">part 03 ›</a></div>
 </nav>
 
+
+‘Very miserable,’ said Martin, with a peevish groan. ‘Ugh. This is
+wretched, indeed!’
+
+‘Creditable,’ muttered Mark, pressing one hand upon his aching head and
+looking round him with a rueful grin. ‘That’s the great comfort. It IS
+creditable to keep up one’s spirits here. Virtue’s its own reward. So’s
+jollity.’
 
 Mark was so far right that unquestionably any man who retained his
 cheerfulness among the steerage accommodations of that noble and

@@ -1,5 +1,5 @@
 ---
-title: "[[Oliver Twist]] — Chapter 13 (part 2)"
+title: "Oliver Twist — Chapter 13 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/oliver-twist-(dickens)"
@@ -13,6 +13,9 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_13/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_13/part_03">part 03 ›</a></div>
 </nav>
 
+
+“I’m afraid,” said the Jew, “that he may say something which will get
+us into trouble.”
 
 “That’s very likely,” returned Sikes with a malicious grin. “You’re
 blowed upon, [[Fagin]].”
@@ -149,15 +152,3 @@ arrived in perfect safety shortly afterwards.
 Entering by the back way, she tapped softly with the key at one of the
 cell-doors, and listened. There was no sound within: so she coughed and
 listened again. Still there was no reply: so she spoke.
-
-“Nolly, dear?” murmured [[Nancy]] in a gentle voice; “Nolly?”
-
-There was nobody inside but a miserable shoeless criminal, who had been
-taken up for playing the flute, and who, the offence against society
-having been clearly proved, had been very properly committed by Mr.
-Fang to the [[house|House]] of Correction for one month; with the appropriate and
-amusing remark that since he had so much breath to spare, it would be
-more wholesomely expended on the treadmill than in a musical
-instrument. He made no answer: being occupied mentally bewailing the
-loss of the flute, which had been confiscated for the use of the
-county: so [[Nancy]] passed on to the next cell, and knocked there.

@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 17: SOMEBODY TURNS UP (part 6)"
+title: "David Copperfield — Chapter 17: SOMEBODY TURNS UP (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,13 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_17_somebody_turns_up/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_17_somebody_turns_up/part_07">part 07 ›</a></div>
 </nav>
 
+
+‘We all came back again,’ replied Mrs. Micawber. ‘Since then, I have
+consulted other branches of my family on the course which it is most
+expedient for Mr. Micawber to take--for I maintain that he must take
+some course, Master Copperfield,’ said Mrs. Micawber, argumentatively.
+‘It is clear that a family of six, not including a domestic, cannot live
+upon air.’
 
 ‘Certainly, ma’am,’ said I.
 
@@ -115,10 +122,3 @@ delivered an eulogium on Mrs. Micawber’s character, and said she
 had ever been his guide, philosopher, and friend, and that he would
 recommend me, when I came to a marrying [[Time|time]] of life, to marry such
 another woman, if such another woman could be found.
-
-As the punch disappeared, Mr. Micawber became still more friendly and
-convivial. Mrs. Micawber’s spirits becoming elevated, too, we sang ‘Auld
-Lang Syne’. When we came to ‘Here’s a hand, my trusty frere’, we all
-joined hands round the table; and when we declared we would ‘take a
-right gude Willie Waught’, and hadn’t the least idea what it meant, we
-were really affected.

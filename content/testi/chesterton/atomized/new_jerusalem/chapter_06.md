@@ -276,7 +276,7 @@ For the religious and political parties have yet another point
 in common with separate nations; that even within this narrow
 space the complicated curve of their frontiers is really more
 or less fixed, and certainly not particularly fluctuating.
-Persecution is impossible and [[Conversion|conversion]] is not at all common.
+Persecution is impossible and [[conversion]] is not at all common.
 The very able Anglo-Catholic leader, to whom I have already referred,
 uttered to me a [[Paradox|paradox]] that was a very practical [[Truth|truth]].
 He said he felt exasperated with the Christian sects,

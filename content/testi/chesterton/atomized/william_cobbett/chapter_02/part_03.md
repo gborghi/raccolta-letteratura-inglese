@@ -67,7 +67,7 @@ through some of the most thrilling days of the [[French Revolution]].
 Yet it is typical of him that he took with immense seriousness
 to the subject of French grammar, as a pendant to his devouring hobby
 of English grammar.  When he set sail again from France it was not
-for England but for [[america|America]], where he and his wife remained in [[Exile|exile]]
+for England but for [[America]], where he and his wife remained in [[Exile|exile]]
 for seven years.  Their travels were not without their tragedies;
 for his first [[Child|child]] died and his second was still-born, and it
 was not until he was more finally established that a living [[Child|child]]

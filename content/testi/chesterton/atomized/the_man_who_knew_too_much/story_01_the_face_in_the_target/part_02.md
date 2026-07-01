@@ -14,6 +14,8 @@ tags:
 </nav>
 
 
+almost too quickly and completely to be realized. From behind the
+
 overhanging rock came a noise and rush like that of a railway train;
 
 and a great motor car appeared. It topped the crest of cliff, black
@@ -185,10 +187,3 @@ flood of unfamiliar things, and he brought it to the surface before
 
 it could vanish.
 "Jenkins," he repeated. "Surely you don't mean Jefferson Jenkins,
-
-the social reformer? I mean the man who's fighting for the new
-
-cottage-estate scheme. It would be as interesting to meet him as any
-
-Cabinet Minister in the world, if you'll excuse my saying so."
-"Yes; Hoggs told him it would have to be cottages," said Fisher.

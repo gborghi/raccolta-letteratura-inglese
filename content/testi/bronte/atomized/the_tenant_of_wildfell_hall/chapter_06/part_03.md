@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 6 (part 3)"
+title: "The Tenant of Wildfell Hall — Chapter 6 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -12,6 +12,28 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/the-tenant-of-wildfell-hall-(bronte)">The Tenant of Wildfell Hall</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_06/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_07/part_01">part 01 ›</a></div>
 </nav>
+
+
+expected he would, the first start of surprise, at the audacious
+
+question, was followed by a tittering laugh, as if he was highly amused
+
+at the idea.
+
+
+
+“_I_ in [[Love|love]] with her!” repeated he. “What makes you dream of such a
+
+thing?”
+
+
+
+“From the interest you take in the progress of my acquaintance with the
+
+lady, and the changes of my opinion concerning her, I thought you might
+
+be jealous.”
+
 
 
 He laughed again. “Jealous! no. But I thought you were going to marry

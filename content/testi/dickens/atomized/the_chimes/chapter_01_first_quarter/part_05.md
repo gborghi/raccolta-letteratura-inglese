@@ -14,6 +14,10 @@ tags:
 </nav>
 
 
+‘Nonsense,’ said Trotty.  ‘Two dinners in one day!  It an’t possible!
+You might as [[Well|well]] tell me that two New Year’s Days will come together, or
+that I have had a gold head all my life, and never changed it.’
+
 ‘I have had my dinner, father, for all that,’ said Meg, coming nearer to
 him.  ‘And if you’ll go on with yours, I’ll tell you how and where; and
 how your dinner came to be brought; and—and something else besides.’
@@ -125,18 +129,3 @@ that?  Your dinner?’
 
 ‘Don’t leave it there,’ exclaimed the gentleman.  ‘Bring it here, bring
 it here.  So!  This is your dinner, is it?’
-
-‘Yes, sir,’ repeated Trotty, looking with a fixed eye and a watery mouth,
-at the piece of tripe he had reserved for a last delicious tit-bit; which
-the gentleman was now turning over and over on the end of the fork.
-
-Two other gentlemen had come out with him.  One was a low-spirited
-gentleman of middle age, of a meagre habit, and a disconsolate face; who
-kept his hands continually in the pockets of his scanty pepper-and-salt
-trousers, very large and dog’s-eared from that custom; and was not
-particularly [[Well|well]] brushed or washed.  The other, a full-sized, sleek,
-[[Well|well]]-conditioned gentleman, in a blue coat with bright buttons, and a
-white cravat.  This gentleman had a very red face, as if an undue
-proportion of the [[Blood|blood]] in his [[Body|body]] were squeezed up into his head; which
-perhaps accounted for his having also the appearance of being rather cold
-about the heart.

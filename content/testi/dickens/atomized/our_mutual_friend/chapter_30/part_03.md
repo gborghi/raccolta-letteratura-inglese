@@ -1,5 +1,5 @@
 ---
-title: "Our Mutual Friend — Chapter 6 (part 3)"
+title: "Our Mutual Friend — Chapter 8 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/our-mutual-friend-(dickens)"
@@ -14,127 +14,122 @@ tags:
 </nav>
 
 
-‘In some high respects, Mr [[Eugene Wrayburn]],’ said Bradley, answering
-him with pale and quivering lips, ‘the natural feelings of my pupils are
-stronger than my teaching.’
+Without taking the least notice of this inquiry, albeit delivered in an
+imposing and forensic manner, [[Lavinia]] reminded her sister, ‘After all,
+you know, Bella, you haven’t told us how your Whatshisnames are.’
 
-‘In most respects, I dare say,’ replied Eugene, enjoying his cigar,
-‘though whether high or low is of no importance. You have my name very
-correctly. Pray what is yours?’
+‘I don’t want to speak of them here,’ replied Bella, suppressing
+indignation, and tapping her foot on the floor. ‘They are much too kind
+and too good to be drawn into these discussions.’
 
-‘It cannot concern you much to know, but—’
+‘Why put it so?’ demanded Mrs Wilfer, with biting sarcasm. ‘Why adopt a
+circuitous form of speech? It is polite and it is obliging; but why do
+it? Why not openly say that they are much too kind and too good for US?
+We understand the allusion. Why disguise the phrase?’
 
-‘True,’ interposed Eugene, striking sharply and cutting him short at his
-mistake, ‘it does not concern me at all to know. I can say Schoolmaster,
-which is a most respectable title. You are right, Schoolmaster.’
+‘Ma,’ said Bella, with one beat of her foot, ‘you are enough to drive a
+saint mad, and so is Lavvy.’
 
-It was not the dullest part of this goad in its galling of Bradley
-Headstone, that he had made it himself in a moment of incautious anger.
-He tried to set his lips so as to prevent their quivering, but they
-quivered fast.
+‘Unfortunate Lavvy!’ cried Mrs Wilfer, in a tone of commiseration. ‘She
+always comes for it. My poor [[Child|child]]!’ But Lavvy, with the suddenness of
+her former desertion, now bounced over to the other enemy: very sharply
+remarking, ‘Don’t patronize ME, Ma, because I can take care of myself.’
 
-‘Mr [[Eugene Wrayburn]],’ said the boy, ‘I want a word with you. I have
-wanted it so much, that we have looked out your address in the book, and
-we have been to your office, and we have come from your office here.’
+‘I only [[Wonder|wonder]],’ resumed Mrs Wilfer, directing her observations to her
+elder daughter, as safer on the whole than her utterly unmanageable
+younger, ‘that you found [[Time|time]] and inclination to tear yourself from
+Mr and Mrs Boffin, and come to see us at all. I only [[Wonder|wonder]] that our
+claims, contending against the superior claims of Mr and Mrs Boffin,
+had any weight. I feel I ought to be thankful for gaining so much, in
+competition with Mr and Mrs Boffin.’ (The good lady bitterly emphasized
+the first letter of the word Boffin, as if it represented her chief
+objection to the owners of that name, and as if she could have born
+Doffin, Moffin, or Poffin much better.)
 
-‘You have given yourself much trouble, Schoolmaster,’ observed
-Eugene, blowing the feathery ash from his cigar. ‘I [[Hope|hope]] it may prove
-remunerative.’
+‘Ma,’ said Bella, angrily, ‘you force me to say that I am truly sorry I
+did come [[Home|home]], and that I never will come [[Home|home]] again, except when poor
+dear Pa is here. For, Pa is too magnanimous to feel envy and spite
+towards my generous friends, and Pa is delicate enough and gentle enough
+to remember the sort of little claim they thought I had upon them and
+the unusually trying position in which, through no act of my own, I had
+been placed. And I always did [[Love|love]] poor dear Pa better than all the rest
+of you put together, and I always do and I always shall!’
 
-‘And I am glad to speak,’ pursued the boy, ‘in presence of Mr Lightwood,
-because it was through Mr Lightwood that you ever saw my sister.’
+Here Bella, deriving no comfort from her charming bonnet and her elegant
+dress, burst into [[Tears|tears]].
 
-For a mere moment, Wrayburn turned his eyes aside from the schoolmaster
-to note the effect of the last word on Mortimer, who, standing on the
-opposite side of the [[Fire|fire]], as soon as the word was spoken, turned his
-face towards the [[Fire|fire]] and looked down into it.
+‘I think, R.W.,’ cried Mrs Wilfer, lifting up her eyes and
+apostrophising the air, ‘that if you were present, it would be a
+trial to your feelings to hear your wife and the mother of your family
+depreciated in your name. But Fate has spared you this, R.W., whatever
+it may have thought proper to inflict upon her!’
 
-‘Similarly, it was through Mr Lightwood that you ever saw her again, for
-you were with him on the [[Night|night]] when my father was found, and so I found
-you with her on the next day. Since then, you have seen my sister often.
-You have seen my sister oftener and oftener. And I want to know why?’
+Here Mrs Wilfer burst into [[Tears|tears]].
 
-‘Was this worth while, Schoolmaster?’ murmured Eugene, with the air of
-a disinterested adviser. ‘So much trouble for nothing? You should know
-best, but I think not.’
+‘I hate the Boffins!’ protested Miss [[Lavinia]]. ‘I don’t care who objects
+to their being called the Boffins. I WILL call ’em the Boffins. The
+Boffins, the Boffins, the Boffins! And I say they are mischief-making
+Boffins, and I say the Boffins have set Bella against me, and I tell the
+Boffins to their faces:’ which was not strictly the fact, but the
+young lady was excited: ‘that they are detestable Boffins, disreputable
+Boffins, odious Boffins, beastly Boffins. There!’
 
-‘I don’t know, Mr Wrayburn,’ answered Bradley, with his passion rising,
-‘why you address me—’
+Here Miss [[Lavinia]] burst into [[Tears|tears]].
 
-‘Don’t you? said Eugene. ‘Then I won’t.’
+The front [[Garden|garden]]-gate clanked, and the Secretary was seen coming at a
+brisk pace up the steps. ‘Leave Me to open the door to him,’ said Mrs
+Wilfer, rising with stately [[Resignation|resignation]] as she shook her head and dried
+her eyes; ‘we have at present no stipendiary girl to do so. We have
+nothing to conceal. If he sees these traces of emotion on our cheeks,
+let him construe them as he may.’
 
-He said it so tauntingly in his perfect placidity, that the respectable
-right-hand clutching the respectable hair-guard of the respectable watch
-could have wound it round his throat and strangled him with it. Not
-another word did Eugene deem it worth while to utter, but stood leaning
-his head upon his hand, smoking, and looking imperturbably at the
-chafing [[Bradley Headstone]] with his clutching right-hand, until Bradley
-was wellnigh mad.
+With those words she stalked out. In a few moments she stalked in again,
+proclaiming in her heraldic manner, ‘Mr Rokesmith is the bearer of a
+packet for Miss [[Bella Wilfer]].’
 
-‘Mr Wrayburn,’ proceeded the boy, ‘we not only know this that I have
-charged upon you, but we know more. It has not yet come to my sister’s
-knowledge that we have found it out, but we have. We had a plan, Mr
-Headstone and I, for my sister’s [[Education|education]], and for its being advised
-and overlooked by Mr Headstone, who is a much more competent authority,
-whatever you may pretend to think, as you smoke, than you could produce,
-if you tried. Then, what do we find? What do we find, Mr Lightwood? Why,
-we find that my sister is already being taught, without our knowing
-it. We find that while my sister gives an unwilling and cold ear to our
-schemes for her advantage—I, her brother, and Mr Headstone, the most
-competent authority, as his certificates would easily prove, that could
-be produced—she is wilfully and willingly profiting by other schemes.
-Ay, and taking pains, too, for I know what such pains are. And so does
-Mr Headstone! [[Well]]! Somebody pays for this, is a thought that naturally
-occurs to us; who pays? We apply ourselves to find out, Mr Lightwood,
-and we find that your friend, this Mr [[Eugene Wrayburn]], here, pays. Then
-I ask him what right has he to do it, and what does he mean by it, and
-how comes he to be taking such a liberty without my consent, when I
-am raising myself in the scale of society by my own exertions and Mr
-Headstone’s aid, and have no right to have any darkness cast upon my
-prospects, or any imputation upon my respectability, through my sister?’
+Mr Rokesmith followed close upon his name, and of course saw what was
+amiss. But he discreetly affected to see nothing, and addressed Miss
+Bella.
 
-The boyish weakness of this speech, combined with its great selfishness,
-made it a poor one indeed. And yet [[Bradley Headstone]], used to the little
-audience of a school, and unused to the larger ways of men, showed a
-kind of exultation in it.
+‘Mr Boffin intended to have placed this in the carriage for you
+this morning. He wished you to have it, as a little keepsake he had
+prepared—it is only a purse, Miss Wilfer—but as he was disappointed in
+his fancy, I volunteered to come after you with it.’
 
-‘Now I tell Mr [[Eugene Wrayburn]],’ pursued the boy, forced into the use
-of the third person by the hopelessness of addressing him in the first,
-‘that I object to his having any acquaintance at all with my sister, and
-that I request him to drop it altogether. He is not to take it into his
-head that I am afraid of my sister’s caring for HIM—’
+Bella took it in her hand, and thanked him.
 
-(As the boy sneered, the Master sneered, and Eugene blew off the
-feathery ash again.)
+‘We have been quarrelling here a little, Mr Rokesmith, but not more than
+we used; you know our agreeable ways among ourselves. You find me just
+going. Good-bye, mamma. Good-bye, Lavvy!’ and with a kiss for each Miss
+Bella turned to the door. The Secretary would have attended her, but
+Mrs Wilfer advancing and saying with dignity, ‘Pardon me! Permit me to
+assert my natural right to escort my [[Child|child]] to the equipage which is
+in waiting for her,’ he begged pardon and gave place. It was a very
+magnificent spectacle indeed, to see Mrs Wilfer throw open the
+[[house]]-door, and loudly demand with extended gloves, ‘The male domestic
+of Mrs Boffin!’ To whom presenting himself, she delivered the brief but
+majestic charge, ‘Miss Wilfer. Coming out!’ and so delivered her over,
+like a female Lieutenant of the Tower relinquishing a State Prisoner.
+The effect of this ceremonial was for some quarter of an hour afterwards
+perfectly paralyzing on the neighbours, and was much enhanced by the
+worthy lady airing herself for that term in a kind of splendidly serene
+trance on the top step.
 
-—‘But I object to it, and that’s enough. I am more important to my
-sister than he thinks. As I raise myself, I intend to raise her;
-she knows that, and she has to look to me for her prospects. Now I
-understand all this very [[Well|well]], and so does Mr Headstone. My sister is an
-excellent girl, but she has some romantic notions; not about such things
-as your Mr Eugene Wrayburns, but about the [[Death|death]] of my father and other
-matters of that sort. Mr Wrayburn encourages those notions to make
-himself of importance, and so she thinks she ought to be grateful to
-him, and perhaps even likes to be. Now I don’t choose her to be grateful
-to him, or to be grateful to anybody but me, except Mr Headstone. And
-I tell Mr Wrayburn that if he don’t take heed of what I say, it will be
-worse for her. Let him turn that over in his [[Memory|memory]], and make sure of
-it. Worse for her!’
+When Bella was seated in the carriage, she opened the little packet in
+her hand. It contained a pretty purse, and the purse contained a bank
+note for fifty pounds. ‘This shall be a joyful surprise for poor dear
+Pa,’ said Bella, ‘and I’ll take it myself into the [[City]]!’
 
-A pause ensued, in which the schoolmaster looked very awkward.
-
-‘May I suggest, Schoolmaster,’ said Eugene, removing his fast-waning
-cigar from his lips to glance at it, ‘that you can now take your pupil
-away.’
-
-‘And Mr Lightwood,’ added the boy, with a burning face, under the
-flaming aggravation of getting no sort of answer or attention, ‘I [[Hope|hope]]
-you’ll take notice of what I have said to your friend, and of what
-your friend has heard me say, word by word, whatever he pretends to the
-contrary. You are bound to take notice of it, Mr Lightwood, for, as I
-have already mentioned, you first brought your friend into my sister’s
-company, and but for you we never should have seen him. Lord knows none
-of us ever wanted him, any more than any of us will ever miss him. Now
-Mr Headstone, as Mr [[Eugene Wrayburn]] has been obliged to hear what I had
-to say, and couldn’t help himself, and as I have said it out to the last
-word, we have done all we wanted to do, and may go.’
+As she was uninformed respecting the exact locality of the place of
+business of Chicksey Veneering and Stobbles, but knew it to be near
+Mincing Lane, she directed herself to be driven to the corner of that
+darksome spot. Thence she despatched ‘the male domestic of Mrs Boffin,’
+in search of the counting-[[house]] of Chicksey Veneering and Stobbles, with
+a message importing that if R. Wilfer could come out, there was a lady
+waiting who would be glad to speak with him. The delivery of these
+mysterious words from the mouth of a footman caused so great an
+excitement in the counting-[[house]], that a youthful scout was instantly
+appointed to follow Rumty, observe the lady, and come in with his
+report. Nor was the agitation by any means diminished, when the scout
+rushed back with the intelligence that the lady was ‘a slap-up gal in a
+bang-up chariot.’

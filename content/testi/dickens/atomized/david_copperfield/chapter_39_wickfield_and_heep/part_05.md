@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 39: WICKFIELD AND HEEP (part 5)"
+title: "David Copperfield — Chapter 39: WICKFIELD AND HEEP (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,11 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_39_wickfield_and_heep/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_39_wickfield_and_heep/part_06">part 06 ›</a></div>
 </nav>
 
+
+I had not walked out far enough to be quite clear of the town, upon the
+Ramsgate [[Road|road]], where there was a good path, when I was hailed, through
+the [[Dust|dust]], by somebody behind me. The shambling figure, and the scanty
+great-coat, were not to be mistaken. I stopped, and [[Uriah Heep]] came up.
 
 ‘[[Well]]?’ said I.
 
@@ -145,14 +150,3 @@ such a [[Well|well]]-behaved man, that they were determined to bring him in. “
 umble, Uriah,” says father to me, “and you’ll get on. It was what was
 always being dinned into you and me at school; it’s what goes down best.
 Be umble,” says father, “and you’ll do!” And really it ain’t done bad!’
-
-It was the first [[Time|time]] it had ever occurred to me, that this detestable
-cant of false [[Humility|humility]] might have originated out of the Heep family. I
-had seen the harvest, but had never thought of the seed.
-
-‘When I was quite a young boy,’ said Uriah, ‘I got to know what
-umbleness did, and I took to it. I ate umble pie with an appetite. I
-stopped at the umble point of my learning, and says I, “Hold hard!” When
-you offered to teach me Latin, I knew better. “People like to be above
-you,” says father, “keep yourself down.” I am very umble to the present
-moment, Master Copperfield, but I’ve got a little power!’

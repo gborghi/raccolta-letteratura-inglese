@@ -14,6 +14,18 @@ tags:
 </nav>
 
 
+in sharp angles, turning to and fro amid evergreens so somber that
+
+they might rather be called everblack. Here and there up the slope
+
+were statues having all the cold monstrosity of such minor ornaments
+
+of the eighteenth century; and a whole row of them ran as on a
+
+terrace along the last bank at the [[Bottom|bottom]], opposite the back door.
+
+This detail fixed itself first in March's mind merely because it
+
 figured in the first conversation he had with one of the cabinet
 
 ministers.
@@ -177,19 +189,3 @@ chair.
 worst is that there's a leak of some sort, even from this fortress
 
 of ours. It's been a bit of a shock to me, I can tell you; though I
-
-suppose it's illogical. After all, I was full of admiration at
-
-finding three honest men in politics. I ought not to be full of
-
-astonishment if I find only two."
-He ruminated a moment and then said, in such a fashion that March
-
-could hardly tell if he were changing the subject or no:
-"It's hard at first to believe that a fellow like Herries, who had
-
-pickled himself in vice like vinegar, can have any scruple left. But
-
-about that I've noticed a curious thing. Patriotism is not the first
-
-virtue. Patriotism rots into Prussianism when you pretend it is the

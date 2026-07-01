@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 15 (part 1)"
+title: "The Tenant of Wildfell Hall — Chapter 15 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -54,7 +54,7 @@ aroused me with the startling words,—“Mr. Markham, mamma wants you.”
 
 
 
-“Wants _me_, [[arthur|Arthur]]?”
+“Wants _me_, [[Arthur]]?”
 
 
 
@@ -100,7 +100,7 @@ I accompanied her through the gap.
 
 
 
-“[[arthur|Arthur]], darling, run and gather those bluebells,” said she, pointing
+“[[Arthur]], darling, run and gather those bluebells,” said she, pointing
 
 to some that were gleaming at some distance under the hedge along which
 
@@ -188,7 +188,7 @@ for after lingering awhile to see if she would come back or call, I
 
 ventured one more glance, and saw her a good way off, moving rapidly up
 
-the field, with little [[arthur|Arthur]] running by her side and apparently
+the field, with little [[Arthur]] running by her side and apparently
 
 talking as he went; but she kept her face averted from him, as if to
 
@@ -245,11 +245,3 @@ she will: to-morrow I will see her once again, and know something more
 about her. The interview may be serviceable to her, or it may not. At
 
 any rate, it will give a breath of excitement to the life she has
-
-doomed to stagnation, and may calm with certainty some agitating
-
-thoughts.”
-
-
-
-I did go on the morrow, but not till towards evening, after the

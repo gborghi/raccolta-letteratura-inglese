@@ -1,5 +1,5 @@
 ---
-title: "[[David Copperfield]] — Chapter 59: RETURN (part 5)"
+title: "David Copperfield — Chapter 59: RETURN (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/david-copperfield-(dickens)"
@@ -13,6 +13,19 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_59_return/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_59_return/part_06">part 06 ›</a></div>
 </nav>
 
+
+I was thinking. And had I truly disciplined my heart to this, and could
+I resolutely bear it, and calmly hold the place in her [[Home|home]] which she
+had calmly held in mine,--when I found my eyes resting on a countenance
+that might have arisen out of the [[Fire|fire]], in its association with my early
+remembrances.
+
+Little Mr. Chillip the Doctor, to whose good offices I was indebted in
+the very first chapter of this [[history]], sat reading a newspaper in the
+[[Shadow|shadow]] of an opposite corner. He was tolerably stricken in years by this
+[[Time|time]]; but, being a mild, meek, calm little man, had worn so easily, that
+I thought he looked at that moment just as he might have looked when he
+sat in our parlour, waiting for me to be born.
 
 Mr. Chillip had left Blunderstone six or seven years ago, and I had
 never seen him since. He sat placidly perusing the newspaper, with his
@@ -134,24 +147,3 @@ this life and the next.’
 
 ‘The next will be regulated without much reference to them, I dare say,’
 I returned: ‘what are they doing as to this?’
-
-Mr. Chillip shook his head, stirred his negus, and sipped it.
-
-‘She was a charming woman, sir!’ he observed in a plaintive manner.
-
-‘The present Mrs. Murdstone?’
-
-‘A charming woman indeed, sir,’ said Mr. Chillip; ‘as amiable, I am sure,
-as it was possible to be! Mrs. Chillip’s opinion is, that her spirit
-has been entirely broken since her [[Marriage|marriage]], and that she is all but
-[[Melancholy|melancholy]] mad. And the ladies,’ observed Mr. Chillip, timorously, ‘are
-great observers, sir.’
-
-‘I suppose she was to be subdued and broken to their detestable mould,
-Heaven help her!’ said I. ‘And she has been.’
-
-‘[[Well]], sir, there were violent quarrels at first, I assure you,’ said
-Mr. Chillip; ‘but she is quite a [[Shadow|shadow]] now. Would it be considered
-forward if I was to say to you, sir, in confidence, that since the
-sister came to help, the brother and sister between them have nearly
-reduced her to a state of imbecility?’

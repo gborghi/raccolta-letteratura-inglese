@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 31 (part 5)"
+title: "Dombey and Son — Chapter 59 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -14,130 +14,101 @@ tags:
 </nav>
 
 
-“Upon my [[Honour|honour]],” says Cousin Feenix, “although it’s an unusual sort of
-thing in a private gentleman’s [[house]], I must beg leave to call upon you
-to drink what is usually called a—in fact a toast.”
+The Major knows it; but no one is the wiser for that, though the Major
+is much the merrier. The Major, in a fit of curiosity, has charged the
+Native to watch the [[house]] sometimes, and find out what becomes of
+Dombey. The Native has reported Miss Tox’s fidelity, and the Major has
+nearly choked himself dead with laughter. He is permanently bluer from
+that hour, and constantly wheezes to himself, his lobster eyes starting
+out of his head, “Damme, Sir, the woman’s a born idiot!”
 
-The Major very hoarsely indicates his approval. Mr Carker, bending his
-head forward over the table in the direction of Cousin Feenix, smiles
-and nods a great many times.
+And the ruined man. How does he pass the hours, [[Alone|alone]]?
 
-“A—in fact it’s not a—” Cousin Feenix beginning again, thus, comes to a
-dead stop.
+“Let him remember it in that room, years to come!” He did remember it.
+It was heavy on his mind now; heavier than all the rest.
 
-“Hear, hear!” says the Major, in a tone of conviction.
+[Illustration]
 
-Mr Carker softly claps his hands, and bending forward over the table
-again, smiles and nods a great many more times than before, as if he
-were particularly struck by this last observation, and desired
-personally to express his sense of the good it has done.
+“Let him remember it in that room, years to come! The rain that falls
+upon the roof, the [[Wind|wind]] that mourns outside the door, may have
+foreknowledge in their [[Melancholy|melancholy]] sound. Let him remember it in that
+room, years to come!”
 
-“It is,” says Cousin Feenix, “an occasion in fact, when the general
-usages of life may be a little departed from, without impropriety; and
-although I never was an orator in my life, and when I was in the [[house|House]]
-of Commons, and had the [[Honour|honour]] of seconding the address, was—in fact,
-was laid up for a fortnight with the consciousness of failure—”
+He did remember it. In the miserable [[Night|night]] he thought of it; in the
+dreary day, the wretched [[Dawn|dawn]], the ghostly, [[Memory|memory]]-haunted twilight. He
+did remember it. In agony, in sorrow, in remorse, in [[Despair|despair]]! “Papa!
+Papa! Speak to me, dear Papa!” He heard the words again, and saw the
+face. He saw it fall upon the trembling hands, and heard the one
+prolonged low cry go upward.
 
-The Major and Mr Carker are so much delighted by this [[Fragment|fragment]] of
-personal [[history]], that Cousin Feenix laughs, and addressing them
-individually, goes on to say:
+He was fallen, never to be raised up any more. For the [[Night|night]] of his
+worldly ruin there was no to-morrow’s sun; for the stain of his
+domestic shame there was no [[Purification|purification]]; nothing, thank Heaven, could
+bring his dead [[Child|child]] back to life. But that which he might have made so
+different in all the Past—which might have made the Past itself so
+different, though this he hardly thought of now—that which was his own
+work, that which he could so easily have wrought into a blessing, and
+had set himself so steadily for years to form into a curse: that was
+the sharp grief of his [[Soul|soul]].
 
-“And in point of fact, when I was devilish ill—still, you know, I feel
-that a duty devolves upon me. And when a duty devolves upon an
-Englishman, he is bound to get out of it, in my opinion, in the best
-way he can. [[Well]]! our family has had the gratification, today, of
-connecting itself, in the person of my lovely and accomplished
-relative, whom I now see—in point of fact, present—”
+Oh! He did remember it! The rain that fell upon the roof, the [[Wind|wind]] that
+mourned outside the door that [[Night|night]], had had foreknowledge in their
+[[Melancholy|melancholy]] sound. He knew, now, what he had done. He knew, now, that he
+had called down that upon his head, which bowed it lower than the
+heaviest stroke of fortune. He knew, now, what it was to be rejected
+and deserted; now, when every loving blossom he had withered in his
+[[Innocent|innocent]] daughter’s heart was snowing down in ashes on him.
 
-Here there is general applause.
+He thought of her, as she had been that [[Night|night]] when he and his bride
+came [[Home|home]]. He thought of her as she had been, in all the [[Home|home]]-events of
+the abandoned [[house]]. He thought, now, that of all around him, she [[Alone|alone]]
+had never changed. His boy had faded into [[Dust|dust]], his proud wife had sunk
+into a polluted creature, his flatterer and friend had been transformed
+into the worst of villains, his riches had melted away, the very walls
+that sheltered him looked on him as a stranger; she [[Alone|alone]] had turned
+the same mild gentle look upon him always. Yes, to the latest and the
+last. She had never changed to him—nor had he ever changed to her—and
+she was lost.
 
-“Present,” repeats Cousin Feenix, feeling that it is a neat point which
-will bear repetition,—“with one who—that is to say, with a man, at whom
-the finger of scorn can never—in fact, with my honourable friend
-Dombey, if he will allow me to call him so.”
+As, one by one, they fell away before his mind—his baby—[[Hope|hope]], his wife,
+his friend, his fortune—oh how the mist, through which he had seen her,
+cleared, and showed him her true [[Self|self]]! Oh, how much better than this
+that he had loved her as he had his boy, and lost her as he had his
+boy, and laid them in their early [[Grave|grave]] together!
 
-Cousin Feenix bows to Mr Dombey; Mr Dombey solemnly returns the bow;
-everybody is more or less gratified and affected by this extraordinary,
-and perhaps unprecedented, appeal to the feelings.
+In his [[Pride|pride]]—for he was proud yet—he let the world go from him freely.
+As it fell away, he shook it off. Whether he imagined its face as
+expressing pity for him, or indifference to him, he shunned it alike.
+It was in the same degree to be avoided, in either aspect. He had no
+idea of any one companion in his misery, but the one he had driven
+away. What he would have said to her, or what consolation submitted to
+receive from her, he never pictured to himself. But he always knew she
+would have been true to him, if he had suffered her. He always knew she
+would have loved him better now, than at any other [[Time|time]]; he was as
+certain that it was in her [[Nature|nature]], as he was that there was a sky above
+him; and he sat thinking so, in his [[Loneliness|loneliness]], from hour to hour. Day
+after day uttered this speech; [[Night|night]] after [[Night|night]] showed him this
+knowledge.
 
-“I have not,” says Cousin Feenix, “enjoyed those opportunities which I
-could have desired, of cultivating the acquaintance of my friend
-Dombey, and studying those qualities which do equal [[Honour|honour]] to his head,
-and, in point of fact, to his heart; for it has been my misfortune to
-be, as we used to say in my [[Time|time]] in the [[house|House]] of Commons, when it was
-not the custom to allude to the Lords, and when the order of
-parliamentary proceedings was perhaps better observed than it is now—to
-be in—in point of fact,” says Cousin Feenix, cherishing his joke, with
-great slyness, and finally bringing it out with a jerk, ‘“in another
-place!’”
+It began, beyond all [[Doubt|doubt]] (however slow it advanced for some [[Time|time]]), in
+the receipt of her young husband’s letter, and the certainty that she
+was gone. And yet—so proud he was in his ruin, or so reminiscent of her
+only as something that might have been his, but was lost beyond
+redemption—that if he could have heard her voice in an adjoining room,
+he would not have gone to her. If he could have seen her in the street,
+and she had done no more than look at him as she had been used to look,
+he would have passed on with his old cold unforgiving face, and not
+addressed her, or relaxed it, though his heart should have broken soon
+afterwards. However turbulent his thoughts, or harsh his anger had
+been, at first, concerning her [[Marriage|marriage]], or her husband, that was all
+past now. He chiefly thought of what might have been, and what was not.
+What was, was all summed up in this: that she was lost, and he bowed
+down with sorrow and remorse.
 
-The Major falls into convulsions, and is recovered with difficulty.
-
-“But I know sufficient of my friend Dombey,” resumes Cousin Feenix in a
-graver tone, as if he had suddenly become a sadder and wiser man, “to
-know that he is, in point of fact, what may be emphatically called a—a
-merchant—a British merchant—and a—and a man. And although I have been
-resident abroad, for some years (it would give me great pleasure to
-receive my friend Dombey, and everybody here, at Baden-Baden, and to
-have an opportunity of making ’em known to the Grand Duke), still I
-know enough, I flatter myself, of my lovely and accomplished relative,
-to know that she possesses every requisite to make a man happy, and
-that her [[Marriage|marriage]] with my friend Dombey is one of inclination and
-affection on both sides.”
-
-Many smiles and nods from Mr Carker.
-
-“Therefore,” says Cousin Feenix, “I congratulate the family of which I
-am a member, on the acquisition of my friend Dombey. I congratulate my
-friend Dombey on his [[Union|union]] with my lovely and accomplished relative who
-possesses every requisite to make a man happy; and I take the liberty
-of calling on you all, in point of fact, to congratulate both my friend
-Dombey and my lovely and accomplished relative, on the present
-occasion.”
-
-The speech of Cousin Feenix is received with great applause, and Mr
-Dombey returns thanks on behalf of himself and Mrs Dombey. J. B.
-shortly afterwards proposes Mrs Skewton. The breakfast languishes when
-that is done, the violated hatchments are avenged, and Edith rises to
-assume her travelling dress.
-
-All the servants in the meantime, have been breakfasting below.
-Champagne has grown too common among them to be mentioned, and roast
-fowls, raised pies, and lobster-salad, have become mere drugs. The very
-tall young man has recovered his spirits, and again alludes to the
-exciseman. His comrade’s eye begins to emulate his own, and he, too,
-stares at objects without taking cognizance thereof. There is a general
-redness in the faces of the ladies; in the face of Mrs Perch
-particularly, who is joyous and beaming, and lifted so far above the
-cares of life, that if she were asked just now to direct a wayfarer to
-Ball’s Pond, where her own cares lodge, she would have some difficulty
-in recalling the way. Mr Towlinson has proposed the happy pair; to
-which the silver-headed butler has responded neatly, and with emotion;
-for he half begins to think he is an old retainer of the family, and
-that he is bound to be affected by these changes. The whole party, and
-especially the ladies, are very frolicsome. Mr Dombey’s cook, who
-generally takes the lead in society, has said, it is impossible to
-settle down after this, and why not go, in a party, to the play?
-Everybody (Mrs Perch included) has agreed to this; even the Native, who
-is tigerish in his drink, and who alarms the ladies (Mrs Perch
-particularly) by the [[rolling]] of his eyes. One of the very tall young
-men has even proposed a ball after the play, and it presents itself to
-no one (Mrs Perch included) in the light of an impossibility. Words
-have arisen between the housemaid and Mr Towlinson; she, on the
-authority of an old saw, asserting marriages to be made in Heaven: he,
-affecting to trace the manufacture elsewhere; he, supposing that she
-says so, because she thinks of being married her own [[Self|self]]: she, saying,
-Lord forbid, at any rate, that she should ever marry him. To calm these
-flying taunts, the silver-headed butler rises to propose the health of
-Mr Towlinson, whom to know is to esteem, and to esteem is to wish [[Well|well]]
-settled in life with the object of his choice, wherever (here the
-silver-headed butler eyes the housemaid) she may be. Mr Towlinson
-returns thanks in a speech replete with feeling, of which the
-peroration turns on foreigners, regarding whom he says they may find
-favour, sometimes, with weak and inconstant intellects that can be led
-away by hair, but all he hopes, is, he may never hear of no foreigner
-never boning nothing out of no travelling chariot. The eye of Mr
-Towlinson is so severe and so expressive here, that the housemaid is
-turning hysterical, when she and all the rest, roused by the
-intelligence that the Bride is going away, hurry upstairs to witness
-her departure.
+And now he felt that he had had two children born to him in that [[house]],
+and that between him and the bare wide empty walls there was a tie,
+mournful, but hard to rend asunder, connected with a [[Double|double]] [[Childhood|childhood]],
+and a [[Double|double]] loss. He had thought to leave the [[house]]—knowing he must
+go, not knowing whither—upon the evening of the day on which this
+feeling first struck root in his breast; but he resolved to stay
+another [[Night|night]], and in the [[Night|night]] to ramble through the rooms once more.

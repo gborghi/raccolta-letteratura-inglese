@@ -1,5 +1,5 @@
 ---
-title: "[[longbow2]] — Chapter 1 (part 5)"
+title: "longbow2 — Chapter 1 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -13,6 +13,33 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/longbow2/chapter_01/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/longbow2/chapter_01/part_06">part 06 ›</a></div>
 </nav>
 
+
+The Colonel took an intense interest in the appointments of the
+luncheon next day.  With subconscious surprise he found himself
+not only interested, but excited.  Like many of his type, he took
+a pleasure in doing such things [[Well|well]], and knew his way about in wine
+and cookery.  But that would not [[Alone|alone]] explain his pleasure. 
+For he knew that young women generally know very little about wine,
+and emancipated young women possibly least of all.  And though he
+meant the cookery to be good, he knew that in one feature it would
+appear rather fantastic.  Again, he was a good-natured gentleman
+who would always have liked young people to enjoy a luncheon party,
+as he would have liked a [[Child|child]] to enjoy a Christmas tree.  But there
+seemed no reason why he should have a sort of happy insomnia,
+like a [[Child|child]] on Christmas Eve.  There was really no excuse for his
+pacing up and down the [[Garden|garden]] with his cigar, smoking furiously far
+into the [[Night|night]].  For as he gazed at the purple irises and the grey pool
+in the faint moonshine, something in his feelings passed as if from
+the one tint to the other; he had a new and unexpected reaction. 
+For the first [[Time|time]] he really hated the masquerade he had made
+himself endure.  He wished he could smash the cabbage as he had
+smashed the top-hat. He was little more than forty years old;
+but he had never realized how much there was of what was dried
+and faded about his flippancy, till he felt unexpectedly swelling
+within him the monstrous and solemn [[Vanity|vanity]] of a young man. 
+Sometimes he looked up at the picturesque, the too picturesque,
+outline of the [[house]] next door, dark against the moonrise, and thought
+he heard faint voices in it, and something like a laugh.
 
 The visitor who called on the Colonel next morning may have been
 an old friend, but he was certainly an odd contrast.  He was a
@@ -93,7 +120,7 @@ He leaned forward thoughtfully and began to eat it.  Then he resumed
 in the same reflective way:
 
 "You see, all rash vows are verbal or nothing.  There might be a
-[[debate]] about the logical and literary way in which my friend Hood
+debate about the logical and literary way in which my friend Hood
 fulfilled HIS rash vow.  But I put it to myself in the same pedantic
 sort of way.  It wasn't possible to eat any hat that I wore. 
 But it might be possible to wear a hat that I could eat. 
@@ -101,43 +128,5 @@ Articles of dress could hardly be used for diet; but articles of
 diet could really be used for dress.  It seemed to me that I might
 fairly be said to have made it my hat, if I wore it systematically
 as a hat and had no other, putting up with all the disadvantages. 
-Making a blasted [[Fool|fool]] of myself was the fair price to be paid for
+Making a blasted fool of myself was the fair price to be paid for
 the vow or wager; for one ought always to lose something on a wager."
-
-And he [[Rose|rose]] from the table with a gesture of apology.
-
-The girl stood up.  "I think it's perfectly splendid," she said. 
-"It's as wild as one of those stories about looking for the Holy Grail."
-
-The lawyer also had risen, rather abruptly, and stood stroking
-his long chin with his thumb and looking at his old friend under
-bent brows in a rather reflective manner.
-
-"[[Well]], you've subpoena'd me as a witness all right," he said, "and now,
-with the permission of the [[Court|court]], I'll leave the witness-box. I'm
-afraid I must be going.  I've got important business at [[Home|home]]. 
-Good-bye, Miss [[smith|Smith]]."
-
-The girl returned his farewell a little mechanically; and Crane
-seemed to recover from a similar trance as he stepped after
-the retreating figure of his friend.
-
-"I say, Owen," he said hastily, "I'm sorry you're leaving so early. 
-Must you really go?"
-
-"Yes," replied Owen Hood gravely.  "My private affairs are quite
-real and practical, I assure you."  His [[Grave|grave]] mouth worked a little
-humourously at the corners as he added:  "The [[Truth|truth]] is, I don't
-think I mentioned it, but I'm thinking of getting married."
-
-"Married!" repeated the Colonel, as if thunderstruck.
-
-"Thanks for your compliments and congratulations, old fellow,"
-said the satiric Mr. Hood.  "Yes, it's all been thought out. 
-I've even decided whom I am going to marry.  She knows about it herself. 
-She has been warned."
-
-"I really beg your pardon," said the Colonel in great distress,
-"of course I congratulate you most heartily; and her even more heartily. 
-Of course I'm delighted to hear it.  The [[Truth|truth]] is, I was surprised...
-not so much in that way..."

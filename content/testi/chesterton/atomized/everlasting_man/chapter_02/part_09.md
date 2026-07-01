@@ -57,7 +57,7 @@ Such speculators rather tend to forget, for instance, that men
 in the modern world also sometimes make marks in caves.  When a crowd
 of trippers is conducted through the labyrinth of the Marvelous Grotto
 or the [[Magic]] Stalactite Cavern, it has been observed that hieroglyphics
-[[Spring|spring]] into sight where they have passed; initials and inscriptions
+[[spring]] into sight where they have passed; initials and inscriptions
 which the learned refuse to refer to any remote date.  But the [[Time|time]]
 will come when these inscriptions will really be of remote date.
 And if the professors of the future are anything like the professors

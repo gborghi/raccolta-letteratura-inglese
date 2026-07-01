@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 10 (part 1)"
+title: "Martin Chuzzlewit — Chapter 10 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -129,7 +129,3 @@ old man. ‘No. You are right.’
 
 Mr Pecksniff was inwardly very much relieved to hear it, though he
 didn’t at all know why.
-
-‘You are right,’ repeated Martin. ‘It is not a caprice. It is built up
-on reason, proof, and cool comparison. Caprices never are. Moreover, I
-am not a capricious man. I never was.’

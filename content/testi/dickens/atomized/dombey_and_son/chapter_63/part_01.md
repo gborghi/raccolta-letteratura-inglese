@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 7 (part 1)"
+title: "Dombey and Son — Chapter 35 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/dombey-and-son-(dickens)"
@@ -10,115 +10,109 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/works/dombey-and-son-(dickens)">Dombey and Son</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_62/part_08">‹ part 08</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_63/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_62/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_63/part_02">part 02 ›</a></div>
 </nav>
 
 
-CHAPTER VII.
-A Bird’s-eye Glimpse of Miss Tox’s Dwelling-place: also of the State of
-Miss Tox’s Affections
+CHAPTER XXXV.
+The Happy Pair
 
 
-Miss Tox inhabited a dark little [[house]] that had been squeezed, at some
-remote period of English [[history|History]], into a fashionable neighbourhood at
-the west end of the town, where it stood in the shade like a poor
-relation of the great street round the corner, coldly looked down upon
-by mighty mansions. It was not exactly in a [[Court|court]], and it was not
-exactly in a yard; but it was in the dullest of No-Thoroughfares,
-rendered anxious and haggard by distant [[Double|double]] knocks. The name of this
-retirement, where grass grew between the chinks in the stone pavement,
-was Princess’s Place; and in Princess’s Place was Princess’s Chapel,
-with a tinkling bell, where sometimes as many as five-and-twenty people
-attended service on a [[Sunday]]. The Princess’s Arms was also there, and
-much resorted to by splendid footmen. A sedan chair was kept inside the
-railing before the Princess’s Arms, but it had never come out within
-the [[Memory|memory]] of man; and on fine mornings, the top of every rail (there
-were eight-and-forty, as Miss Tox had often counted) was decorated with
-a pewter-pot.
+The dark blot on the street is gone. Mr Dombey’s mansion, if it be a
+gap among the other houses any longer, is only so because it is not to
+be vied with in its brightness, and haughtily casts them off. The
+saying is, that [[Home|home]] is [[Home|home]], be it never so homely. If it hold good in
+the opposite contingency, and [[Home|home]] is [[Home|home]] be it never so stately, what
+an altar to the Household Gods is raised up here!
 
-There was another private [[house]] besides Miss Tox’s in Princess’s Place:
-not to mention an immense Pair of gates, with an immense pair of
-[[Lion|lion]]-headed knockers on them, which were never opened by any chance,
-and were supposed to constitute a disused entrance to somebody’s
-stables. Indeed, there was a smack of stabling in the air of Princess’s
-Place; and Miss Tox’s bedroom (which was at the back) commanded a vista
-of Mews, where hostlers, at whatever sort of work engaged, were
-continually accompanying themselves with effervescent noises; and where
-the most domestic and confidential garments of coachmen and their wives
-and families, usually hung, like [[Macbeth]]’s banners, on the outward
-walls.
+Lights are sparkling in the windows this evening, and the ruddy glow of
+fires is warm and bright upon the hangings and soft carpets, and the
+dinner waits to be served, and the dinner-table is handsomely set
+forth, though only for four persons, and the side board is cumbrous
+with plate. It is the first [[Time|time]] that the [[house]] has been arranged for
+occupation since its late changes, and the happy pair are looked for
+every minute.
 
-At this other private [[house]] in Princess’s Place, tenanted by a retired
-butler who had married a housekeeper, apartments were let Furnished, to
-a single gentleman: to wit, a wooden-featured, blue-faced Major, with
-his eyes starting out of his head, in whom Miss Tox recognised, as she
-herself expressed it, “something so truly military;” and between whom
-and herself, an occasional interchange of newspapers and pamphlets, and
-such Platonic dalliance, was effected through the medium of a dark
-servant of the Major’s who Miss Tox was quite content to classify as a
-“native,” without connecting him with any geographical idea whatever.
+Only second to the wedding morning, in the interest and expectation it
+engenders among the household, is this evening of the coming [[Home|home]]. Mrs
+Perch is in the kitchen taking tea; and has made the tour of the
+establishment, and priced the silks and damasks by the yard, and
+exhausted every interjection in the dictionary and out of it expressive
+of admiration and [[Wonder|wonder]]. The upholsterer’s foreman, who has left his
+hat, with a pocket-handkerchief in it, both smelling strongly of
+varnish, under a chair in the hall, lurks about the [[house]], gazing
+upwards at the cornices, and downward at the carpets, and occasionally,
+in a silent transport of enjoyment, taking a rule out of his pocket,
+and skirmishingly measuring expensive objects, with unutterable
+feelings. Cook is in high spirits, and says give her a place where
+there’s plenty of company (as she’ll bet you sixpence there will be
+now), for she is of a lively disposition, and she always was from a
+[[Child|child]], and she don’t mind who knows it; which sentiment elicits from
+the breast of Mrs Perch a responsive murmur of support and approbation.
+All the housemaid hopes is, happiness for ’em—but [[Marriage|marriage]] is a
+lottery, and the more she thinks about it, the more she feels the
+independence and the safety of a single life. Mr Towlinson is saturnine
+and grim, and says that’s his opinion too, and give him War besides,
+and down with the French—for this young man has a general impression
+that every foreigner is a Frenchman, and must be by the laws of [[Nature|nature]].
 
-Perhaps there never was a smaller entry and staircase, than the entry
-and staircase of Miss Tox’s [[house]]. Perhaps, taken altogether, from top
-to [[Bottom|bottom]], it was the most inconvenient little [[house]] in England, and
-the crookedest; but then, Miss Tox said, what a situation! There was
-very little daylight to be got there in the [[Winter|winter]]: no sun at the best
-of times: air was out of the question, and traffic was walled out.
-Still Miss Tox said, think of the situation! So said the blue-faced
-Major, whose eyes were starting out of his head: who gloried in
-Princess’s Place: and who delighted to turn the conversation at his
-club, whenever he could, to something connected with some of the great
-people in the great street round the corner, that he might have the
-satisfaction of saying they were his neighbours.
+At each new sound of wheels, they all stop, whatever they are saying,
+and listen; and more than once there is a general starting up and a cry
+of “Here they are!” But here they are not yet; and Cook begins to mourn
+over the dinner, which has been put back twice, and the upholsterer’s
+foreman still goes lurking about the rooms, undisturbed in his blissful
+reverie!
 
-In short, with Miss Tox and the blue-faced Major, it was enough for
-Princess’s Place—as with a very small [[Fragment|fragment]] of society, it is enough
-for many a little hanger-on of another sort—to be [[Well|well]] connected, and
-to have genteel [[Blood|blood]] in its veins. It might be poor, mean, shabby,
-stupid, dull. No matter. The great street round the corner trailed off
-into Princess’s Place; and that which of High Holborn would have become
-a choleric word, spoken of Princess’s Place became flat blasphemy.
+Florence is ready to receive her father and her new Mama. Whether the
+emotions that are throbbing in her breast originate in pleasure or in
+[[Pain|pain]], she hardly knows. But the fluttering heart sends added colour to
+her cheeks, and brightness to her eyes; and they say downstairs,
+drawing their heads together—for they always speak softly when they
+speak of her—how beautiful Miss Florence looks tonight, and what a
+sweet young lady she has grown, poor dear! A pause succeeds; and then
+Cook, feeling, as president, that her sentiments are waited for,
+wonders whether—and there stops. The housemaid wonders too, and so does
+Mrs Perch, who has the happy social faculty of always wondering when
+other people [[Wonder|wonder]], without being at all particular what she wonders
+at. Mr Towlinson, who now descries an opportunity of bringing down the
+spirits of the ladies to his own level, says wait and see; he wishes
+some people were [[Well|well]] out of this. Cook leads a sigh then, and a murmur
+of “Ah, it’s a strange world, it is indeed!” and when it has gone round
+the table, adds persuasively, “but Miss Florence can’t [[Well|well]] be the
+worse for any change, Tom.” Mr Towlinson’s rejoinder, pregnant with
+frightful meaning, is “Oh, can’t she though!” and sensible that a mere
+man can scarcely be more prophetic, or improve upon that, he holds his
+peace.
 
-The dingy tenement inhabited by Miss Tox was her own; having been
-devised and bequeathed to her by the deceased owner of the fishy eye in
-the locket, of whom a miniature portrait, with a powdered head and a
-pigtail, balanced the kettle-holder on opposite sides of the parlour
-fireplace. The greater part of the furniture was of the powdered-head
-and pig-tail period: comprising a plate-warmer, always languishing and
-sprawling its four attenuated bow legs in somebody’s way; and an
-obsolete harpsichord, illuminated round the maker’s name with a painted
-garland of sweet peas. In any part of the [[house]], visitors were usually
-cognizant of a prevailing mustiness; and in warm weather Miss Tox had
-been seen apparently writing in sundry chinks and crevices of the
-wainscoat with the wrong end of a pen dipped in spirits of
-turpentine.
+Mrs Skewton, prepared to greet her darling daughter and dear son-in-law
+with open arms, is appropriately attired for that purpose in a very
+youthful costume, with short sleeves. At present, however, her ripe
+charms are blooming in the shade of her own apartments, whence she had
+not emerged since she took possession of them a few hours ago, and
+where she is fast growing fretful, on account of the postponement of
+dinner. The maid who ought to be a [[skeleton]], but is in [[Truth|truth]] a buxom
+[[Damsel|damsel]], is, on the other hand, in a most amiable state: considering her
+quarterly stipend much safer than heretofore, and foreseeing a great
+improvement in her board and lodging.
 
-Although [[Major Bagstock]] had arrived at what is called in polite
-literature, the grand meridian of life, and was proceeding on his
-[[Journey|journey]] downhill with hardly any throat, and a very rigid pair of
-jaw-bones, and long-flapped elephantine ears, and his eyes and
-complexion in the state of artificial excitement already mentioned, he
-was mightily proud of awakening an interest in Miss Tox, and tickled
-his [[Vanity|vanity]] with the fiction that she was a splendid woman who had her
-eye on him. This he had several times hinted at the club: in connexion
-with little jocularities, of which old Joe Bagstock, old Joey Bagstock,
-old J. Bagstock, old Josh Bagstock, or so forth, was the perpetual
-theme: it being, as it were, the Major’s stronghold and donjon-keep of
-light [[Humour|humour]], to be on the most familiar terms with his own name.
+Where are the happy pair, for whom this brave [[Home|home]] is waiting? Do
+steam, tide, [[Wind|wind]], and horses, all abate their [[Speed|speed]], to linger on such
+happiness? Does the swarm of loves and graces hovering about them
+retard their progress by its numbers? Are there so many [[Flowers|flowers]] in
+their happy path, that they can scarcely move along, without
+entanglement in thornless roses, and sweetest briar?
 
-“Joey B., Sir,” the Major would say, with a flourish of his
-walking-stick, “is worth a dozen of you. If you had a few more of the
-Bagstock breed among you, Sir, you’d be none the worse for it. Old Joe,
-Sir, needn’t look far for a wife even now, if he was on the look-out;
-but he’s hard-hearted, Sir, is Joe—he’s tough, Sir, tough, and
-de-vilish sly!” After such a declaration, wheezing sounds would be
-heard; and the Major’s blue would deepen into purple, while his eyes
-strained and started convulsively.
+They are here at last! The noise of wheels is heard, grows louder, and
+a carriage drives up to the door! A thundering knock from the obnoxious
+foreigner anticipates the rush of Mr Towlinson and party to open it;
+and Mr Dombey and his bride alight, and walk in arm in arm.
 
-Notwithstanding his very liberal laudation of himself, however, the
-Major was selfish. It may be doubted whether there ever was a more
-entirely selfish person at heart; or at stomach is perhaps a better
-expression, seeing that he was more decidedly endowed with that latter
-organ than with the former. He had no idea of being overlooked or
-slighted by anybody; least of all, had he the remotest comprehension of
-being overlooked and slighted by Miss Tox.
+“My sweetest Edith!” cries an agitated voice upon the stairs. “My
+dearest Dombey!” and the short sleeves wreath themselves about the
+happy couple in turn, and embrace them.
+
+Florence had come down to the hall too, but did not advance: reserving
+her timid welcome until these nearer and dearer transports should
+subside. But the eyes of Edith sought her out, upon the threshold; and
+dismissing her sensitive parent with a slight kiss on the cheek, she
+hurried on to Florence and embraced her.

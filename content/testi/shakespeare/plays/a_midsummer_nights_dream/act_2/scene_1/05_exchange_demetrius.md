@@ -1,5 +1,5 @@
 ---
-title: "A Midsummer Nights Dream — Act II, Scene 1 — exchange ([[Demetrius|DEMETRIUS]]) [5]"
+title: "A Midsummer Nights Dream — Act II, Scene 1 — exchange (DEMETRIUS) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/a-midsummer-night’s-dream-(shakespeare)"

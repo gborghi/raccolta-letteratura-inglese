@@ -1,5 +1,5 @@
 ---
-title: "[[The Tenant of Wildfell Hall]] — Chapter 12 (part 1)"
+title: "The Tenant of Wildfell Hall — Chapter 12 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
@@ -84,7 +84,7 @@ you especially require one in this cold [[house]] and dreary room.”
 
 for you: but it is not worth while now—you won’t stay many minutes, you
 
-say, and [[arthur|Arthur]] is gone to bed.”
+say, and [[Arthur]] is gone to bed.”
 
 
 
@@ -184,7 +184,7 @@ own sad thoughts, and I reflecting how delightful it would be to be
 
 seated thus beside her with no other presence to restrain our
 
-intercourse—not even that of [[arthur|Arthur]], our mutual friend, without whom we
+intercourse—not even that of [[Arthur]], our mutual friend, without whom we
 
 had never met before—if only I could venture to speak my mind, and
 
@@ -245,15 +245,3 @@ us, said,—“Gilbert, it is getting late.”
 “I think you ought. If my kind neighbours get to know of this visit—as
 
 no [[Doubt|doubt]] they will—they will not turn it much to my advantage.” It was
-
-with what the vicar would doubtless have called a savage sort of smile
-
-that she said this.
-
-
-
-“Let them turn it as they will,” said I. “What are their thoughts to
-
-you or me, so long as we are satisfied with ourselves—and each other.
-
-Let them go to the deuce with their vile constructions and their lying

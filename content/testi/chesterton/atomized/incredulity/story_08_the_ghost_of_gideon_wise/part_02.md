@@ -1,5 +1,5 @@
 ---
-title: "[[Incredulity]] — The [[Ghost]] of Gideon Wise (part 2)"
+title: "Incredulity — The Ghost of Gideon Wise (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/incredulity-(chesterton)"
@@ -132,6 +132,3 @@ While he was speaking the secretary listened with a face that had
 a certain almost Mongolian immobility, despite the liveliness of his
 legs and his attire.  But when Byrne said the word `Bolshevism',
 the young man's sharp eyes shifted and he said quickly:
-
-`What has that--oh yes, that sort of thunderbolt; so sorry, my mistake.
-So easy to say anvil when you mean ice--box.'

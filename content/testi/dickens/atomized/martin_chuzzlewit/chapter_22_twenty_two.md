@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 22: TWENTY TWO"
+title: "Martin Chuzzlewit — Chapter 22: TWENTY TWO"
 author: "Dickens"
 unitType: chapter
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -104,7 +104,7 @@ Lord Byron?
 
 ‘PUTNAM SMIF
 
-‘P.S.--Address your answer to [[America]] Junior, Messrs. Hancock & Floby,
+‘P.S.--Address your answer to [[america|America]] Junior, Messrs. Hancock & Floby,
 Dry Goods Store, as above.’
 
 
@@ -382,7 +382,7 @@ she had it all her own way, and bruised him to her heart’s content.
 It is no great matter what Mrs Hominy said, save that she had learnt it
 from the cant of a class, and a large class, of her fellow countrymen,
 who in their every word, avow themselves to be as senseless to the high
-principles on which [[America]] sprang, a nation, into life, as any Orson in
+principles on which [[america|America]] sprang, a nation, into life, as any Orson in
 her legislative halls. Who are no more capable of feeling, or of caring
 if they did feel, that by reducing their own country to the ebb of
 honest men’s contempt, they put in hazard the rights of nations yet

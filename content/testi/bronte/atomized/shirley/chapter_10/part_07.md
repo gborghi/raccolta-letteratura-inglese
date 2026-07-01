@@ -1,5 +1,5 @@
 ---
-title: "[[Shirley]] — Chapter 10 (part 7)"
+title: "Shirley — Chapter 10 (part 7)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "works/shirley-(bronte)"
@@ -13,6 +13,42 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_10/part_06">‹ part 06</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_11/part_01">part 01 ›</a></div>
 </nav>
 
+
+religious, a professor of religion--what some would call "a saint;" and
+
+she referred to religion often in sanctioned phrase--in phrase which
+
+those who possess a perception of the ridiculous, without owning the
+
+power of exactly testing and truly judging character, would certainly
+
+have esteemed a proper subject for [[Satire|satire]], a matter for mimicry and
+
+laughter. They would have been hugely mistaken for their pains.
+
+Sincerity is never ludicrous; it is always respectable. Whether
+
+[[Truth|truth]]--be it religious or moral [[Truth|truth]]--speak eloquently and in
+
+[[Well|well]]-chosen language or not, its voice should be heard with reverence.
+
+Let those who cannot nicely, and with certainty, discern the difference
+
+between the tones of hypocrisy and those of sincerity, never presume to
+
+laugh at all, lest they should have the miserable misfortune to laugh in
+
+the wrong place, and commit impiety when they think they are achieving
+
+wit.
+
+
+
+Not from Miss Ainley's own lips did Caroline hear of her good works, but
+
+she knew much of them nevertheless. Her beneficence was the familiar
+
+topic of the poor in Briarfield. They were not works of almsgiving. The
 
 old maid was too poor to give much, though she straitened herself to
 
@@ -142,12 +178,12 @@ nor continued peace of mind. With them all she wasted, grew more joyless
 
 and more wan; with them all her [[Memory|memory]] kept harping on the name of
 
-[[Robert Moore]]; an [[Elegy|elegy]] over the past still rung constantly in her ear; a
+[[Robert Moore]]; an [[elegy]] over the past still rung constantly in her ear; a
 
 funereal inward cry haunted and harassed her; the heaviness of a broken
 
 spirit, and of pining and palsying faculties, settled slow on her
 
-buoyant youth. [[Winter]] seemed conquering her [[spring]]; the mind's soil and
+buoyant youth. [[Winter]] seemed conquering her [[Spring|spring]]; the mind's soil and
 
 its treasures were freezing gradually to barren stagnation.

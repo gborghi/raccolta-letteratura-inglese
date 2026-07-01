@@ -1,5 +1,5 @@
 ---
-title: "[[longbow2]] — Chapter 4 (part 5)"
+title: "longbow2 — Chapter 4 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -13,6 +13,18 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/longbow2/chapter_04/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/longbow2/chapter_04/part_06">part 06 ›</a></div>
 </nav>
 
+
+"I will tell you one more thing I learnt before I left those parts. 
+I left them at once, partly because I really had an appointment
+early this morning, as I told you; partly also, I think, because I
+felt you had the right to know at once what sort of things were to
+be faced.  I was alarmed when I thought your friend was tormented
+with imaginary bogies; I am not less alarmed if he had got mixed
+up with real ones.  Anyhow, before I left that village I had told
+one man what I had seen, and he told me he had seen it also. 
+But he had seen it actually moving, in dusk turning to dark;
+the whole [[Great House|great house]], with its high columns, moving across the fields
+like a great [[Ship|ship]] sailing on land."
 
 Owen Hood sat up suddenly, with awakened eyes, and struck the table.
 
@@ -36,7 +48,6 @@ that he has been very much too exact."
 he used.  It was very exact; it was dull, deadly, literal [[Truth|truth]]. 
 But I can be exact, too, at times, and just now I should like to look
 at a [[Time|time]]-table."
-
 
 They found the village of Ponder's End in a condition as comically
 incongruous as could [[Well|well]] be with the mystical experiences
@@ -115,31 +126,3 @@ I told you I'd got a white elephant."
 the elephant was an elephant and not a metaphor.  So that's
 what he meant by Asiatic atmosphere and [[Snow|snow]] and [[Mountains|mountains]]. 
 And that's what the big shed was really for."
-
-"Look here," said the inspector, recovering from his astonishment
-and breaking in on these felicitations.  "I don't understand
-all these games, but it's my business to ask a few questions. 
-Sorry to say it, sir, but you've ignored our notifications and evaded
-our attempts to--"
-
-"Have I?" inquired Mr. White brightly.  "Have I really evaded you? 
-[[Well]], [[Well|well]], perhaps I have.  An elephant is such a standing [[Temptation|temptation]]
-to evasion, to evanescence, to fading away like a dewdrop. 
-Like a snowdrop perhaps would be more appropriate.  Come on, Snowdrop."
-
-The last word came smartly, and he gave a smart smack to the huge
-head of the pachyderm.  Before the inspector could move or anyone
-had realized what had happened, the whole big bulk had pitched forward
-with a plunge like a cataract and went in great whirling strides,
-the crowd scattering before it.  The police had not come provided
-for elephants, which are rare in those parts.  Even if they had
-overtaken it on bicycles, they would have found it difficult to climb
-it on bicycles.  Even if they had had revolvers, they had omitted
-to conceal about their persons anything in the way of big-game rifles. 
-The white [[Monster|monster]] vanished rapidly up the long white [[Road|road]],
-so rapidly that when it dwindled to a small object and disappeared,
-people could hardly believe that such a prodigy had ever been present,
-or that their eyes had not been momentarily bewitched.  Only, as it
-disappeared in the distance, Pierce heard once more the high nasal
-trumpeting noise which, in the eclipse of [[Night|night]], had seemed to fill
-the forest with [[Fear|fear]].

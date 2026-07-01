@@ -14,6 +14,11 @@ tags:
 </nav>
 
 
+'Dr Hankey,' said Pringle gravely, 'wants to keep the book for an hour
+and consider the point. Then he asks us both to call, and he will give
+us his decision. He specially desired. Professor, that you should
+accompany me on the second visit.'
+
 Openshaw continued to stare in [[Silence|silence]]; then he said, suddenly: 'Who the
 devil is Dr Hankey?'
 
@@ -115,13 +120,3 @@ and, restored to a superb academic calm, rather like the calm of
 Then, as coolly as if he were describing the failure of some small silly
 trick at a seance, he told the priest every detail of this monstrous
 mystery.
-
-'Five men have now vanished in this impossible way,' he said. 'Every one
-is extraordinary; and yet the one case I simply can't get over is my
-clerk, Berridge. It's just because he was the quietest creature that
-he's the queerest case.'
-
-'Yes,' replied [[Father Brown]], 'it was a queer thing for Berridge to do,
-anyway. He was awfully conscientious. He was also so jolly careful to
-keep all the office business separate from any fun of his own. Why,
-hardly anybody knew he was quite a humorist at [[Home|home]] and - '

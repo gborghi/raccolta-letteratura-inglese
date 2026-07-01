@@ -1,5 +1,5 @@
 ---
-title: "[[Martin Chuzzlewit]] — Chapter 25: TWENTY FIVE (part 6)"
+title: "Martin Chuzzlewit — Chapter 25: TWENTY FIVE (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "works/martin-chuzzlewit-(dickens)"
@@ -13,6 +13,23 @@ tags:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_25_twenty_five/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_26_twenty_six/part_01">part 01 ›</a></div>
 </nav>
 
+
+Still, without a moment’s interval, the burning head tossed to and fro.
+Still, from [[Time|time]] to [[Time|time]], fatigue, impatience, [[Suffering|suffering]], and surprise,
+found utterance upon that rack, and plainly too, though never once in
+words. At length, in the solemn hour of midnight, he began to talk;
+waiting awfully for answers sometimes; as though invisible companions
+were about his bed; and so replying to their speech and questioning
+again.
+
+Mrs Gamp awoke, and sat up in her bed; presenting on the wall the [[Shadow|shadow]]
+of a gigantic [[Night|night]] constable, struggling with a prisoner.
+
+‘Come! Hold your tongue!’ she cried, in sharp reproof. ‘Don’t make none
+of that noise here.’
+
+There was no alteration in the face, or in the incessant motion of the
+head, but he talked on wildly.
 
 ‘Ah!’ said Mrs Gamp, coming out of the chair with an impatient shiver;
 ‘I thought I was a-sleepin’ too pleasant to last! The devil’s in the

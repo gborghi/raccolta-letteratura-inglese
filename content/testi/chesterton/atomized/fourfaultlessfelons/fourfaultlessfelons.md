@@ -1,5 +1,5 @@
 ---
-title: "[[FourFaultlessFelons]]"
+title: "FourFaultlessFelons"
 author: "Chesterton"
 unitType: work
 parentWork: "works/fourfaultlessfelons-(chesterton)"
@@ -67,7 +67,7 @@ CLUE OF THE PRESSMAN
 
 I PROLOGUE OF THE PRESSMAN
 
-MR. ASA LEE PINION, of the Chicago Comet, had crossed half of [[america|America]],
+MR. ASA LEE PINION, of the Chicago Comet, had crossed half of [[America]],
 
 the whole of the Atlantic, and eventually even Piccadilly Circus, in
 
@@ -1185,7 +1185,7 @@ unwelcome discovery that there were other people present. There was a
 
 very beautifully dressed young gentleman, with hair like black satin, who
 
-seemed to be the local secretary of the Governor; his name was [[Arthur]]
+seemed to be the local secretary of the Governor; his name was [[arthur|Arthur]]
 
 Meade. There was an old man with a very obvious chestnut wig and a very
 
@@ -2053,7 +2053,7 @@ wilderness. The bland, black-haired Mr. Meade was especially insinuating
 
 in his curiosity. She told herself, in a highly unreasonable fashion,
 
-that she had always hated [[Arthur]] Meade.
+that she had always hated [[arthur|Arthur]] Meade.
 
 "I gather," the secretary was saying, "that you have excellent reasons of
 
@@ -3887,7 +3887,7 @@ what's on the other side of this [[Hill|hill]] when they come over it, and if I
 
 hadn't happened to hear the car--"
 
-"The car!" said the [[artist]] with a [[Grave|grave]] and severe astonishment, as one
+"The car!" said the [[Artist|artist]] with a [[Grave|grave]] and severe astonishment, as one
 
 who convicts a [[Child|child]] of romancing. "What car?" He turned round in a
 
@@ -4339,7 +4339,7 @@ When he had gone, Windrush appeared not a little annoyed with such abrupt
 
 manners, though Wilmot was entirely serene.
 
-"That young man is becoming insufferable," said the [[artist]]. "He turns
+"That young man is becoming insufferable," said the [[Artist|artist]]. "He turns
 
 every talk into an argument and every argument into a quarrel. What the
 
@@ -4877,7 +4877,7 @@ canvases and frames of brown paper that hung above them, on which were
 
 traced in vortical lines and lurid colours the visions of the
 
-ambidextrous [[artist]].
+ambidextrous [[Artist|artist]].
 
 "Look at those pictures," he said. "Look at them long enough and you will
 
@@ -4975,7 +4975,7 @@ a tall and handsome old gentleman, and before him the figure of the
 
 sullen doctor looked not only square but almost squat. But when the
 
-[[artist]] looked across his studio, he saw the windows open and the
+[[Artist|artist]] looked across his studio, he saw the windows open and the
 
 festivity faded from his face.
 
@@ -4983,7 +4983,7 @@ festivity faded from his face.
 
 voice.
 
-"Then you will kindly walk out of my [[house]]," said the [[artist]].
+"Then you will kindly walk out of my [[house]]," said the [[Artist|artist]].
 
 He had turned pale with anger or some other passion, but he spoke clearly
 
@@ -5523,7 +5523,7 @@ got away with it, would have skulked back and tried to scratch a shallow
 
 the eyes of all the servants at the inn. That is the difference between
 
-him and a man with [[Imagination|imagination]]-an [[artist]]. The [[artist]] attempted something
+him and a man with [[Imagination|imagination]]-an [[Artist|artist]]. The [[Artist|artist]] attempted something
 
 perfectly wild and new, and apparently absurd; but something that has
 
@@ -5571,7 +5571,7 @@ Harrington-and, apparently, you."
 
 "I suppose," said Judson, "that Harrington, or Wilmot, or whatever you
 
-call him, told you that the [[artist]] admitted being ambidexterous-doing
+call him, told you that the [[Artist|artist]] admitted being ambidexterous-doing
 
 things with his left hand as [[Well|well]] as his right."
 
@@ -5683,7 +5683,7 @@ untrue."
 
 theory," said the great [[Detective|detective]], with his agreeable smile. "You must
 
-not blame the Inspector; the whole of that story of the [[artist]] criminal
+not blame the Inspector; the whole of that story of the [[Artist|artist]] criminal
 
 and his original scheme of concealment was my idea, and an infernally
 
@@ -5907,7 +5907,7 @@ common sense. When he had strolled about [[Alone|alone]] for a few moments, he w
 
 joined by his young friend the doctor, but the doctor looked
 
-comparatively gloomy and embarrassed; so much so that the [[artist]] rallied
+comparatively gloomy and embarrassed; so much so that the [[Artist|artist]] rallied
 
 him about it.
 
@@ -5975,7 +5975,7 @@ the horrors I made up, even though they were horrors that never happened.
 
 But what must one feel about the horrors that really have happened?"
 
-"[[Well]]," replied the [[artist]] cheerfully, "and what do you feel about them?"
+"[[Well]]," replied the [[Artist|artist]] cheerfully, "and what do you feel about them?"
 
 "I can't help feeling," said Judson, "that men might avoid the place like
 
@@ -6003,7 +6003,7 @@ two yards of it."
 
 Something in his manner suggested to the young man that they had come
 
-near the nerve of the eccentricity: he was silent and the [[artist]] went on:
+near the nerve of the eccentricity: he was silent and the [[Artist|artist]] went on:
 
 "You tell us a great deal about Evolution and the Ascent of Man. You
 
@@ -7521,7 +7521,7 @@ moment on Millicent, with a certain expression of pathos. Then he sat
 
 down on the [[Garden|garden]] seat again, with his elbows on his knees and buried
 
-his head in his hands as if he were wrestling in [[prayer]], or at least in
+his head in his hands as if he were wrestling in [[Prayer|prayer]], or at least in
 
 perplexity of spirit. The three other men stood watching him with an
 
@@ -9023,7 +9023,7 @@ rule. They have to go into monasteries and places; it's only fair on the
 
 rest of the world. But henceforward, when I see these great prisons of
 
-[[prayer]] and [[Solitude|solitude]], or have a glimpse of their cold corridors and bare
+[[Prayer|prayer]] and [[Solitude|solitude]], or have a glimpse of their cold corridors and bare
 
 cells, I shall understand. I shall know that in the heart of that rule
 

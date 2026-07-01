@@ -1,5 +1,5 @@
 ---
-title: "[[Villette]] — Chapter 14"
+title: "Villette — Chapter 14"
 author: "Bronte"
 unitType: chapter
 parentWork: "works/villette-(bronte)"
@@ -652,7 +652,7 @@ true pitch, and found its natural tone, I thought of nothing but the
 personage I represented—and of M. Paul, who was listening, watching,
 prompting in the side-scenes.
 
-By-and-by, feeling the right power come—the [[spring]] demanded gush and
+By-and-by, feeling the right power come—the [[Spring|spring]] demanded gush and
 rise inwardly—I became sufficiently composed to notice my
 fellow-actors. Some of them played very [[Well|well]]; especially Ginevra
 Fanshawe, who had to coquette between two suitors, and managed
